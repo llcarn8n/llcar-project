@@ -1,12 +1,13 @@
-# Ssangyong Rexton V1 Ocr — Руководство по ремонту
-
-
-## Двигатель
+---
+brand: ssangyong
+model: rexton
+generation: rexton_v1_ocr
+source: kb
+---
 
 
 ### Cleanness of DI Engine Fuel System and Service Procedures
 
-`ssangyong_rexton_v1_ocr_engine_t000_2a138b54` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_676f644fa2aa7be89aa761fbcf786af5065c8290e5b354532ff7bbec44b2d67a.jpg)
 
@@ -154,7 +155,6 @@ The engine serial number is stamped on the lower area of cylinder block in exhau
 
 ### Major Components in Engine and Engine Compartment
 
-`ssangyong_rexton_v1_ocr_engine_t001_8453f42c` | topic | dita | tier:3 | lang:ru
 
 To prevent personal injuries and vehicle damages that can be caused by mistakes during engine and unit inspection/ repair and to secure optimum engine performance and safety after service works, basic cautions and service work guidelines that can be easily forgotten during engine service works are described in.
 
@@ -233,7 +233,6 @@ Discharge the combustion residues in the cylinders before testing the compressio
 
 ### Engine Assembly - Removal
 
-`ssangyong_rexton_v1_ocr_engine_t002_94178bc0` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_40e0a74a53931e20939a51be72e8b4af30c3d5fdbe04af6d2f46f9ec62faba4e.jpg)
 
@@ -323,7 +322,6 @@ After installation of the fan belt, pump the belt tensioner 3 to 4 times.
 
 ### Before unscrewing the transmission mounting bolts, remove the starter motor.
 
-`ssangyong_rexton_v1_ocr_engine_t003_4f2c4f56` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_dff901fd02f223eaafa8a2672cae06845f6252459781f00a4b85c23e1fd652a6.jpg)
 
@@ -472,7 +470,6 @@ C. Remove the oil filter assembly from the cylinder block.
 
 ### Engine - Disassembly and Reassembly
 
-`ssangyong_rexton_v1_ocr_engine_t004_e2c55ab6` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_f8578642d5f26d4760db6470546e4e3833ec0d0ddf11891837df37f4ef4dc1e6.jpg)
 
@@ -651,7 +648,6 @@ If the maximum length is exceeded by 2 mm, replace the cylinder head bolt.
 
 ### CYLINDE HEA/.YLIN DE BLOCK . MI2-3
 
-`ssangyong_rexton_v1_ocr_engine_t005_478911e0` | topic | dita | tier:3 | lang:ru
 
 •Inspect the cylinder head surface. •Store the removed injectors and glow plugs so that they will not be damaged.
 
@@ -752,7 +748,6 @@ Y220_02001
 
 ### Cylinder Head Pressure Leakage Test
 
-`ssangyong_rexton_v1_ocr_engine_t006_4b57081b` | topic | dita | tier:3 | lang:ru
 
 Preceding Works:
 
@@ -855,7 +850,6 @@ If the maximum length is exceeded by 2 mm, replace the cylinder head bolt.
 
 ### •Apply the sealant to the bolts for the vacuum pump and the timing chain cover.
 
-`ssangyong_rexton_v1_ocr_engine_t007_58db1b86` | topic | dita | tier:3 | lang:ru
 
 Make sure to place the “TOP” mark upward.
 
@@ -988,7 +982,6 @@ cylinder head for contacting.
 
 ### Intake/Exhaust - Removal/Installation
 
-`ssangyong_rexton_v1_ocr_engine_t008_619b68d0` | topic | dita | tier:3 | lang:ru
 
 Remove the cylinder head assembly.
 
@@ -1123,7 +1116,6 @@ Check the finger follower positions and align if needed.
 
 ### ARRANGEMENT OF THRUST WASHERS AND BEARINGS
 
-`ssangyong_rexton_v1_ocr_engine_t009_98b5aec2` | topic | dita | tier:3 | lang:ru
 
 If the markings are not aligned, reinstall the cylinder head.
 
@@ -1263,7 +1255,6 @@ Y220_02095
 
 ### Matching Crankshaft Bearing Shells to Basic Bearing Journal of Crankshaft
 
-`ssangyong_rexton_v1_ocr_engine_t010_c18d4e46` | topic | dita | tier:3 | lang:ru
 
 The clearance between bearing shell and bore and between bearing shell and journal are various. Refer to the table on next page to select bearings when installing.
 
@@ -1348,7 +1339,6 @@ If the maximum permissible length of L= 63.8 mm is exceeded, the 12-sided stretc
 
 ### <Torque change curve of engine and drive shaft>
 
-`ssangyong_rexton_v1_ocr_engine_t011_854579c4` | topic | dita | tier:3 | lang:ru
 
 Install from #1 cap.
 
@@ -1446,7 +1436,6 @@ Install in the reverse order of removal and tighten the fasteners with the speci
 
 ### Intake Air Outlet Hose (Turbo Charger) - Removal and Installation
 
-`ssangyong_rexton_v1_ocr_engine_t012_247a4065` | topic | dita | tier:3 | lang:ru
 
 When cleaning the air cleaner with compressed air, direct the air from inside (engine) to outside (ambient air). Otherwise, contaminants can get into the engine.
 
@@ -1600,7 +1589,6 @@ Remove the brackets and connectors from top section of the engine.
 
 ### Exhaust Manifold Removal and Installation
 
-`ssangyong_rexton_v1_ocr_engine_t013_b6907e5e` | topic | dita | tier:3 | lang:ru
 
 Components locator DI04-3   
 Exhaust gas flows . DI04-4   
@@ -1683,7 +1671,6 @@ Stopping the engine immediately after driving at high speed stops oil from being
 
 ### Must absolutely not operate the turbo charger with the compressor outlet and inl
 
-`ssangyong_rexton_v1_ocr_engine_t014_fef0bfb6` | topic | dita | tier:3 | lang:ru
 
 In order to reduce discharging of hazardous exhaust gas and to avoid the engine's overrun the turbo charger must be appropriately controlled. The maximum turbo charging pressure must be controlled as excessive increase in the pressure and power output can cause critical damages to the engine. In order to control these, the booster pressure control valve is installed on the turbo charger.
 
@@ -1783,7 +1770,6 @@ Inspect both side of the turbo charger wheel after removing inlet and outlet pip
 
 ### IDI engine vacuum modulator (hoover EGR system - K2004)
 
-`ssangyong_rexton_v1_ocr_engine_t015_b2f5873a` | topic | dita | tier:3 | lang:ru
 
 It's important not to drive the engine when the intake manifold hose has been removed.
 
@@ -1874,7 +1860,6 @@ EGR valve recirculates some of exhaust gases to intake system to reduce toxic NO
 
 ### DOC (Diesel Oxidation Catalyst)
 
-`ssangyong_rexton_v1_ocr_engine_t016_aede05ef` | topic | dita | tier:3 | lang:ru
 
 Engine is running   
 •Engine RPM is within a specified range. (EGR OFF under high RPM range)   
@@ -1949,7 +1934,6 @@ The first separation wil happen when blow-by gas passes through bafle plates in 
 
 ### After driving, the engine oil temperature may be high enough to burn you. Wait u
 
-`ssangyong_rexton_v1_ocr_engine_t017_797acec5` | topic | dita | tier:3 | lang:ru
 
 Check the oil level and quality before checking the oil pressure.
 
@@ -2037,7 +2021,6 @@ Remove the oil pump.
 
 ### Scalding hot coolant and steam could be blown out under pressure, which could ca
 
-`ssangyong_rexton_v1_ocr_engine_t018_7caa413f` | topic | dita | tier:3 | lang:ru
 
 Pull out the engine oil dipstick.
 
@@ -2137,7 +2120,6 @@ ECU functions as below with coolant temperature sensor signals.
 
 ### Coolant Hose (Inlet/Outlet)
 
-`ssangyong_rexton_v1_ocr_engine_t019_57800996` | topic | dita | tier:3 | lang:ru
 
 Use only engine oil for this inspection. Stir the oil during heating it. Never heat the oil over required temperature.
 
@@ -2239,7 +2221,6 @@ This chapter describes the cautions for DI engine equipped vehicle. This include
 
 ### Components of High Pressure Transfer Line
 
-`ssangyong_rexton_v1_ocr_engine_t020_8a9057cf` | topic | dita | tier:3 | lang:ru
 
 Comparatively conventional diesel engines, DI engine controls the fuel injection and timing electrically, delivers high power and reduces less emission.
 
@@ -2323,7 +2304,6 @@ Injector
 
 ### High pressure pump (including IMV and limit valve)
 
-`ssangyong_rexton_v1_ocr_engine_t021_6ca0331b` | topic | dita | tier:3 | lang:ru
 
 This is plunger pump that generates high pressure; and driven by crankshaft with timing chain. The high pressure pump increases system pressure of fuel to approx. 1,600 bar and this compressed fuel is transferred to high pressure accumulator (common rail) in tube through high pressure line.
 
@@ -2423,7 +2403,6 @@ Replace the fuel pipes with new ones.
 
 ### Align the oil galleries in cylinder block and bearing bracket.
 
-`ssangyong_rexton_v1_ocr_engine_t022_25a92305` | topic | dita | tier:3 | lang:ru
 
 •Replace the removed gasket with new one. • Replace the removed #1 and #3 pipes with new ones.
 
@@ -2537,7 +2516,6 @@ Conditions for using Priming Pump -  After run out of fuel -After draining the w
 
 ### Removal and Installation
 
-`ssangyong_rexton_v1_ocr_engine_t023_89d3d1d7` | topic | dita | tier:3 | lang:ru
 
 When the fuel filter is replaced, the fuel in the fuel tank should be transferred to the filter by using priming pump. So never transfer the fuelin the fuel tank to the fiter by driving HP pump with cranking the engine.
 
@@ -2638,7 +2616,6 @@ When the rail pressure is atis highest (1600 bar), this pressure drop exceeds 10
 
 ### Maximum fuel volume at each injector cycle
 
-`ssangyong_rexton_v1_ocr_engine_t024_4d25a5df` | topic | dita | tier:3 | lang:ru
 
 Pilot Injection ≤ 5 mm3 Main Injection ≤ 85 mm3 (within 200 \~ 1,600 bar)
 
@@ -2734,7 +2711,6 @@ Side view . DI08-5
 
 ### ECU IОРХФУбOХФРХФУ
 
-`ssangyong_rexton_v1_ocr_engine_t025_28a90e1f` | topic | dita | tier:3 | lang:ru
 
 ECU DI08-6   
 Fuel pressure control DI08-12   
@@ -2834,7 +2810,6 @@ The driver demand is the translation of the pedal position into the fuel demand.
 
 ### Detection of an injector which has stuck closed
 
-`ssangyong_rexton_v1_ocr_engine_t026_9c523842` | topic | dita | tier:3 | lang:ru
 
 The flowlimitation strategy is based on the following strategies:
 
@@ -2928,7 +2903,6 @@ When the pulse value that the injector starts injection is measured, itis called
 
 ### SCAN-I OPERATING PROCE-DURES XDi270 ENGINE
 
-`ssangyong_rexton_v1_ocr_engine_t027_3992a7b7` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_9922d002a2f57b5d0a6d6259677c7a67c2d6ec911fe282b1825b7262766af4b6.jpg)
 
@@ -3030,7 +3004,6 @@ ECU replace . DI10-18
 
 ### SCAN-I OPERATING PROCEDURES - D27DT ENGINE
 
-`ssangyong_rexton_v1_ocr_engine_t028_e6b661b6` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_c408faa3c44d4d41b417004451399d947b3e7cb363515fe2eb960fd83c98160d.jpg)
 
@@ -3313,7 +3286,6 @@ Check Injector Wiring
 
 ### Example of Too Much Injector Back leak
 
-`ssangyong_rexton_v1_ocr_engine_t029_0d407696` | topic | dita | tier:3 | lang:ru
 
 Fuel Injection Bank 1/2
 
@@ -3378,7 +3350,6 @@ Enter new injector C2I data into ECU Enter new injector C2I data into ECU after 
 
 ### If the measured value is out of specified value, replace the injector.
 
-`ssangyong_rexton_v1_ocr_engine_t030_3e24770e` | topic | dita | tier:3 | lang:ru
 
 1Check if the “TEST?" is displayed on the display when pressing the “Test " button.
 
@@ -3469,12 +3440,9 @@ SCAN - 100 LEAK DETECTION ReXtoN ECU DSL D27DT > Test Condition <<<<<<<<< - Idle
 
 4) If there are not any troubled conditions in "TEST CONDITION” screen, press “ENTER".
 
-## Тормозная система
-
 
 ### <When depressing the accelerator pedal and brake pedal simultaneously>
 
-`ssangyong_rexton_v1_ocr_brakes_t000_2efd21a0` | topic | dita | tier:3 | lang:ru
 
 Be sure to use attachment during lifting to prevent the lift from contacting with body floor. While lifting the vehicle, widen thelif floor as far as possible to stabilize between vehicle front and rear. When fixing the lif floor, be careful not to contact with brake tube and fuel lines.
 
@@ -3521,12 +3489,9 @@ The ABS or ESP control unit sends the vehicle speed signals to ECU. ECU uses the
 
 It is builtin the ECU and detects absolute pressure of atmosphere to correct fuel injection timing and injection volume according to altitude.
 
-## Подвеска
-
 
 ### Principle of operation
 
-`ssangyong_rexton_v1_ocr_suspension_t000_cb256f57` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_c01311e3ce427c3758ed6fa6ab1a16290fb60a7849ff13a3bfa5205f1b3d620f.jpg)
 
@@ -3631,12 +3596,9 @@ This high pressure pump generates the driving torque with low peak torque to mai
 
 ![](images/_MISSING_45d72e797dcecc294d6b5def0837bc1e46ce97068c22cb35400290b6e5fb9dc0.jpg)
 
-## Электрооборудование
-
 
 ### CIRCUIT DIAGRAM OF STARTING AND ALTERNATOR
 
-`ssangyong_rexton_v1_ocr_electrical_t000_0deb474f` | topic | dita | tier:3 | lang:ru
 
 2 п D H 1#о #10 # 2#10 V 2   
 Sdd d 5 4 3 2 3 1 2 ε# #   
@@ -3706,12 +3668,9 @@ Check the transfer fuel system and fuel filter before proceeding the high pressu
 
 ![](images/_MISSING_a475642d173ee6a532cd600ab26dd42e2425080b74b7d0d4fc8b50026d909750.jpg)
 
-## Климат-контроль
-
 
 ### Water Pump Housing
 
-`ssangyong_rexton_v1_ocr_hvac_t000_79c7ee3a` | topic | dita | tier:3 | lang:ru
 
 •The fluid level/pressure is too high.   
 •The crankcase ventilation system is malfunctioning.   
@@ -3755,12 +3714,9 @@ Unscrew the bolts and remove the water pump housing. Installation Notice
 
 ![](images/_MISSING_d506a4d85382bef0124bfc05cf9a2c69c721288b9136b11d87ac8b065088d39f.jpg)
 
-## Кузов
-
 
 ### Air Cleaner Housing/Element - Check
 
-`ssangyong_rexton_v1_ocr_body_t000_69913428` | topic | dita | tier:3 | lang:ru
 
 K.. Nation (K: Korea)   
 P .. Maker Identification (P: Ssangyong Motor Company)   
@@ -3822,12 +3778,9 @@ During the input phase, transfer pressure pushes back the inlet valve. Fuel ente
 
 ![](images/_MISSING_86968b36c07422a97955cbd7dcc49522406460286cbb15727c0926bf49d9b369.jpg)
 
-## Рулевое управление
-
 
 ### Idle Speed Controller
 
-`ssangyong_rexton_v1_ocr_steering_t000_7f32d379` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_a2415358f50c7d5d5a5c40e872addfc4d3ab07227dbeb905d4faf804c24e30b2.jpg)
 
@@ -3968,12 +3921,9 @@ The first module determines the required idle speed according to:
 
 The second module is responsible for providing closed loop control of the engine's idle speed by adapting th minimum fuel according to the difference between the required idle speed and the engine speed.
 
-## Освещение
-
 
 ### Intake Air Inlet Duct (Intake Manifold) - Removal and Installation
 
-`ssangyong_rexton_v1_ocr_lighting_t000_cb7ccbc6` | topic | dita | tier:3 | lang:ru
 
 1. Contents: In small group, included subjects and detailed subjects are described in.
 
@@ -4056,7 +4006,6 @@ If the cooling system is fully filled with, the coolant is automatically bled th
 
 ### When do not need high fuel pressure (deceleration)
 
-`ssangyong_rexton_v1_ocr_lighting_t001_e4fa1ac2` | topic | dita | tier:3 | lang:ru
 
 The LP actuator, also called the inlet metering valve, is used to control the rail pressure by regulating the amount of fuel which is sent to the pumping element of the HP pump.
 
@@ -4123,12 +4072,9 @@ Y220_08008
 
 ![](images/_MISSING_74fc346240c9e92e549b2a92553b49b5be03cce7c8fa06b7bc4d9cc6352f51db.jpg)
 
-## Салон
-
 
 ### Operating principle: Balance between original vacuum pressure and magnetic force
 
-`ssangyong_rexton_v1_ocr_interior_t000_1cb591aa` | topic | dita | tier:3 | lang:ru
 
 If the measured value is out of the specified range, machine the valve seat as much as necessary until the specified value is achieved.
 
@@ -4178,12 +4124,9 @@ As soon as Ff > Fo, the needle remains held against its seat and there is no inj
 
 ![](images/_MISSING_28f63bc02280f92f0b8021c6a47a33de04ff691c9281ff53ce405d5d52a4dcb0.jpg)
 
-## Электропривод
-
 
 ### Intake Manifold - Removal/nstallation
 
-`ssangyong_rexton_v1_ocr_ev_t000_4966da2a` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_77abb0549e95a4619698e92e5e5968cdeba1581c86e5dbd48bfa78dd1f367bb6.jpg)
 
@@ -4284,7 +4227,6 @@ Remove the upper and lower mounting bolts.
 
 ### Diagnosis Procedures
 
-`ssangyong_rexton_v1_ocr_ev_t001_eff9f82a` | topic | dita | tier:3 | lang:ru
 
 HMF sensor Signal Fault (Electric Failure)
 
@@ -4292,12 +4234,9 @@ HMF sensor Signal Fault (Electric Failure)
 
 Battery Voltage Monitoring Signal Malfunction
 
-## Шасси
-
 
 ### During Service Work - Inspection
 
-`ssangyong_rexton_v1_ocr_chassis_t000_43a99b55` | topic | dita | tier:3 | lang:ru
 
 Vehicle identification number (VIN) is is on the right front axle upper frame.
 
@@ -4345,12 +4284,9 @@ Asilustrated, position the vehicle on the 4-post ift securely and block the fron
 
 ![](images/_MISSING_9024c31f11373caf53d71d64d641a26040cdaba8bb994b10aacb57caf7b76553.jpg)
 
-## Общая информация
-
 
 ### SYSTEM SUPPLEMENT AGAINST PARAFFIN SEPARATION.
 
-`ssangyong_rexton_v1_ocr_general_t000_35bb0c24` | topic | dita | tier:3 | lang:ru
 
 1. Always keep the workshop and lift clean (especially, from dust).
 
@@ -4427,7 +4363,6 @@ Y220_0A017
 
 ### Major Components and Service Interval
 
-`ssangyong_rexton_v1_ocr_general_t001_2d84a0c2` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_8ade26ce9edaa9df8cfec770ed319d7844925ea8cfee45b8b907b7c069098393.jpg)
 
@@ -4475,7 +4410,6 @@ If lift up the vehicle with safety jack and stand, should be more careful during
 
 ### Oil Temperature/Pressure and Boost Pressure
 
-`ssangyong_rexton_v1_ocr_general_t002_c32b71ca` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_50926165c1562ed5da45e84adefb6872eaabf61ec0e23f03aab95a18005a73c2.jpg)
 
@@ -4535,7 +4469,6 @@ Most fluid oil leaks are easily located and repaired by visually finding the lea
 
 ### Plug the openings of hoses and pump with caps not to flow out the oil.
 
-`ssangyong_rexton_v1_ocr_general_t003_5b2e880b` | topic | dita | tier:3 | lang:ru
 
 1. Clean the suspected area.
 
@@ -4617,7 +4550,6 @@ Installation Notice
 
 ### The EGR #2 pipe should be replaced with new one.
 
-`ssangyong_rexton_v1_ocr_general_t004_4a15c258` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_5676e53fbb141da61d774d199556c3c30f6b70db31fa8dee16981f0edcf2b47c.jpg)
 
@@ -4694,7 +4626,6 @@ D.Unscrew the EGR valve #3 pipe (2) mounting bolts and remove the pipe from the 
 
 ### Installation Notice
 
-`ssangyong_rexton_v1_ocr_general_t005_2e14987c` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_331bdd468fd9b2d263874b9855a65a8853dd895e99e1dc7abf2a280c3edcafd4.jpg)
 
@@ -4783,7 +4714,6 @@ D. Unscrew the turbo charger mounting bolts to exhaust manifold.
 
 ### Special Tools and Equipment
 
-`ssangyong_rexton_v1_ocr_general_t006_63e86bdb` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_deb55d120fde4869f69dd1c6587e1876b764a307a80eebd88befc208cfa1f793.jpg)
 
@@ -4936,7 +4866,6 @@ Components locator DI02-51
 
 ### Selection of Upper Main Bearing Shell
 
-`ssangyong_rexton_v1_ocr_general_t007_63b0c3a9` | topic | dita | tier:3 | lang:ru
 
 1. Install the HLA device and finger follower. Check the HLA device with the diagnosis procedures before installation.
 
@@ -4999,7 +4928,6 @@ Do not mix up the bearing shells.
 
 ### Special Tools and Equipment
 
-`ssangyong_rexton_v1_ocr_general_t008_aea186ef` | topic | dita | tier:3 | lang:ru
 
 The retaining lugs should be positioned in the grooves (arrow).
 
@@ -5131,7 +5059,6 @@ Insert connecting rod bearing shells.
 
 ### Air Cleaner Housing - Removal and Installation
 
-`ssangyong_rexton_v1_ocr_general_t009_c90bce39` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_a2ae790acd1dbd881567d306f57c7e12627581ca7298dce617118b8736c531ac.jpg)
 
@@ -5193,7 +5120,6 @@ Remove the air cleaner housing bolts.
 
 ### EXHAUSTSYSTEM AND .MUFLER . MI4-36
 
-`ssangyong_rexton_v1_ocr_general_t010_71b8aeef` | topic | dita | tier:3 | lang:ru
 
 inner tube added + grid (No.3) added + sensing chip changed + sensing section design changed
 
@@ -5266,7 +5192,6 @@ System overview . .DI04-37
 
 ### Booster pressure control valve unit and vacuum modulator
 
-`ssangyong_rexton_v1_ocr_general_t011_9c16d42f` | topic | dita | tier:3 | lang:ru
 
 The #3 pipe of EGR valve is exposed to the high temperature and pressure of exhaust gas. Replace the gasket and pipe with new ones. Otherwise, it may cause the leakage of exhaust gas.
 
@@ -5359,7 +5284,6 @@ Y220_04028
 
 ### EGR Valve and Pipe Removal and Installation
 
-`ssangyong_rexton_v1_ocr_general_t012_e606e3c6` | topic | dita | tier:3 | lang:ru
 
 According to ECU signals, the vacuum modulator drives EGR valve by contrling vacuum pressure that is generated by vacuum pump with PWM type controls.
 
@@ -5421,7 +5345,6 @@ Catalytic converter has the normal function of purification at a range of the te
 
 ### Catalytic Converter Removal and Installation
 
-`ssangyong_rexton_v1_ocr_general_t013_6bb7525a` | topic | dita | tier:3 | lang:ru
 
 •Adhesion of soluble organic fraction (SOF) below 180°C   
 Purification of soluble organic fraction (SOF) over 180°C Chemical reaction formula   
@@ -5515,7 +5438,6 @@ Y220_05002
 
 ### •Apply the Loctite onto the thread of the switch and check for oil leaks.
 
-`ssangyong_rexton_v1_ocr_general_t014_bf17fdd3` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_d353f0adddeaee13000ca46a0c65e729626d2fb8fb5c69a6123d19df719be7fe.jpg)
 
@@ -5578,7 +5500,6 @@ Y220_05021
 
 ### When partially opened (85°C \~ 100°C)
 
-`ssangyong_rexton_v1_ocr_general_t015_65d58ad5` | topic | dita | tier:3 | lang:ru
 
 This vehicle has a lightweight tube-and-fin aluminum radiator.   
 Be careful not to damage the radiator core when servicing.
@@ -5640,7 +5561,6 @@ Y220_06021
 
 ### Coolant Temperature Gauge Unit
 
-`ssangyong_rexton_v1_ocr_general_t016_005d42db` | topic | dita | tier:3 | lang:ru
 
 Immerse the thermostat into the water. Heat the water and check the valve opening temperature.
 
@@ -5773,7 +5693,6 @@ Installation Notice
 
 ### Draining and Adding of Coolant
 
-`ssangyong_rexton_v1_ocr_general_t017_d0e1adb0` | topic | dita | tier:3 | lang:ru
 
 1. Drain the coolant.   
 Remove the hoses.
@@ -5822,7 +5741,6 @@ Preheating system controls and checks follwing functions and operating condition
 
 ### Hydraulic cycle in Fuel Line (Transfer and High Pressure Line)
 
-`ssangyong_rexton_v1_ocr_general_t018_5c699d53` | topic | dita | tier:3 | lang:ru
 
 •ECU sends the results to preheating time control relay through K-Line to start communication.   
 Preheating time control relay sends messages including self-diagnosis data for glow plugs to ECU.   
@@ -5883,7 +5801,6 @@ Fuel tank is made of anti-corrosion material and its allowable pressure is 2 tim
 
 ### Lubrication and cooling of the HP pump
 
-`ssangyong_rexton_v1_ocr_general_t019_a1a737a1` | topic | dita | tier:3 | lang:ru
 
 The transfer pump is included in the housing of the high pressure pump. The transfer pump is the volumetric blade type pump. To deliver the continuously required fuel volume, the pump transfers fuel from the fuel tank to high pressure pump.
 
@@ -5975,7 +5892,6 @@ The below figure describes the pump operations when acceleration and deceleratio
 
 ### To prevent oil leaks, store the removed auto tensioner in upright position.
 
-`ssangyong_rexton_v1_ocr_general_t020_98f277f6` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_c893697df27b97f3c171a3eedb956e1f98918ab7a5ee390c7426d8ce4e38c36b.jpg)
 
@@ -6126,7 +6042,6 @@ Do not apply excessive force to the timing chain. Otherwise, the TDC point devia
 
 ### Check the timing chain and guide pin for contact.
 
-`ssangyong_rexton_v1_ocr_general_t021_dec19e7c` | topic | dita | tier:3 | lang:ru
 
 Replace the center nut with new one.
 
@@ -6217,7 +6132,6 @@ Installation Notice
 
 ### Control Function of ECU
 
-`ssangyong_rexton_v1_ocr_general_t022_7be54010` | topic | dita | tier:3 | lang:ru
 
 •Replace the fuel pipes with new ones. •Plug the openings of hole in the common rail with sealing caps.
 
@@ -6293,7 +6207,6 @@ If the vehicle runs normall, fuel injection volume will be calculated by acceler
 
 ### SPECIAL TOOLS AND EQUIPMENT .. DI09-19
 
-`ssangyong_rexton_v1_ocr_general_t023_45d56a15` | topic | dita | tier:3 | lang:ru
 
 The main flow represents the amount of fuelijected into the clinder during the main injection. The pilot flow represents the amount of fuel injected during the pilot injection.
 
@@ -6388,7 +6301,6 @@ Y220_09013
 
 ### Conditions for glow plugs
 
-`ssangyong_rexton_v1_ocr_general_t024_9c8b4cc8` | topic | dita | tier:3 | lang:ru
 
 -Prompt heating and secured temperature stabilities (temperature changes) in low operating voltage   
 -Should not exceed permissible max. temperature under max. operating voltage   
@@ -6687,7 +6599,6 @@ Trouble diagnosis procedures. .10D-75
 
 ### Trouble Code and Symptom
 
-`ssangyong_rexton_v1_ocr_general_t025_51367c2a` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_cd957520efc6cfb182c27ac52ac7e0ceaa0bf87707c58126f54a1e099e83b651.jpg)
 
@@ -6719,7 +6630,6 @@ Trouble diagnosis procedures. .10D-75
 
 ### Trouble Code and Symptom
 
-`ssangyong_rexton_v1_ocr_general_t026_0332c2ee` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_559368d2dca80dddd6e7e778c749f652b8f97a0f1b59f70742d8e37061bc310f.jpg)
 
@@ -6751,7 +6661,6 @@ Trouble diagnosis procedures. .10D-75
 
 ### Trouble Code and Symptom
 
-`ssangyong_rexton_v1_ocr_general_t027_e3d150bb` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_f33b1be03f55344ee11d6099f72f58603b8b7dffdd93d2ac411017ae558bb7bc.jpg)
 
@@ -6783,7 +6692,6 @@ Trouble diagnosis procedures. .10D-75
 
 ### Trouble Code and Symptom
 
-`ssangyong_rexton_v1_ocr_general_t028_010d908d` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_8f126690e623fca5dcf269a010ae66a8e3201c572fe8cf70e86074bfc6c92104.jpg)
 
@@ -6817,7 +6725,6 @@ Trouble diagnosis procedures. .10D-75
 
 ### Trouble Code and Symptom
 
-`ssangyong_rexton_v1_ocr_general_t029_40d204b0` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_9084a07a57c245d9b328509c5620e64547fa76b3419087fee4fc6f0ac28299b9.jpg)
 
@@ -6857,7 +6764,6 @@ Trouble diagnosis procedures. .10D-75
 
 ### Trouble Code and Symptom
 
-`ssangyong_rexton_v1_ocr_general_t030_45addb2b` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_dec70f5c0e804c75ed0af2d1170b4894e840c07e0d3b0e22705083f46a68a8d4.jpg)
 
@@ -6893,7 +6799,6 @@ Trouble diagnosis procedures. .10D-75
 
 ### Trouble Code and Symptom
 
-`ssangyong_rexton_v1_ocr_general_t031_111689cf` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_c30304e105e0b7aaae9fb0629fdcc3d0f641de671c87252edb227d8085b50e21.jpg)
 
@@ -6927,7 +6832,6 @@ Trouble diagnosis procedures. .10D-75
 
 ### Trouble Code and Symptom
 
-`ssangyong_rexton_v1_ocr_general_t032_7e1233ed` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_ee28ec4290396acf379f5187074c28ed22b2b5b32ac6fb578aa9b7bf4312674c.jpg)
 
@@ -6961,7 +6865,6 @@ Trouble diagnosis procedures. .10D-75
 
 ### Trouble Code and Symptom
 
-`ssangyong_rexton_v1_ocr_general_t033_70b55aec` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_f43f5e5daa169a1c11c19905f07693eaed30057f2c11a1ae4cfe886d41373e30.jpg)
 
@@ -7029,7 +6932,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 
 ### Trouble Code and Symptom
 
-`ssangyong_rexton_v1_ocr_general_t034_7211cdde` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_746c9b86b384652dda3ed875cde427820ab7e39ef572ee873440ea1949591e3c.jpg)
 
@@ -7057,7 +6959,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 
 ### Trouble Code and Symptom
 
-`ssangyong_rexton_v1_ocr_general_t035_b1eba767` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_9d2bc310a15784d52ae406e24d16002a0e52f4879e9ab98f38d70cdfd87a0fef.jpg)
 
@@ -7105,7 +7006,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 
 ### Trouble Code and Symptom
 
-`ssangyong_rexton_v1_ocr_general_t036_c8725219` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_18f744a9db9680a6aefb7f9cda125f3a5d5b9c55a1a46c9922981e731f6bfc37.jpg)
 
@@ -7143,7 +7043,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 
 ### Trouble Code and Symptom
 
-`ssangyong_rexton_v1_ocr_general_t037_88dbd84c` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_f067cc89aa3d2eba37c08480319a49a2c0ede77dbe09de3b25993c9b4fc738f1.jpg)
 
@@ -7175,7 +7074,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 
 ### Trouble Code and Symptom
 
-`ssangyong_rexton_v1_ocr_general_t038_1715fa45` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_edefa031e293665f5612b4fad1e9335710cbcb4a02dd87a0cbf0a909b94b7dc4.jpg)
 
@@ -7209,7 +7107,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 
 ### Trouble Code and Symptom
 
-`ssangyong_rexton_v1_ocr_general_t039_5852fe2c` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_c1b91d509a1d1f37246f7bc7b7bfe228c20911759da8e0feb463ecc934650532.jpg)
 
@@ -7241,7 +7138,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 
 ### Trouble Code and Symptom
 
-`ssangyong_rexton_v1_ocr_general_t040_4271d164` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_7ade1e6675fcb7fbe3916e6e2d7fa8878544ade22cd709f2eb96d7fbaa7c2584.jpg)
 
@@ -7275,7 +7171,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 
 ### Pressure/Volume Loss in High Pressure Pump
 
-`ssangyong_rexton_v1_ocr_general_t041_2eab669c` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_ce7e9797cf2f858da016bac6b27301f2f1231dd4b57d6ede4c2f170839770519.jpg)
 
@@ -7329,7 +7224,6 @@ Y220_10066
 
 ### For Transfer Line
 
-`ssangyong_rexton_v1_ocr_general_t042_24840334` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_d06601555c30503c6a6486276f149975e9ebdb74cd72d921e6879d47718dec2e.jpg)
 
@@ -7397,12 +7291,9 @@ FACSIMILE :82-31-610-3762
 
 NOTE: All rights reserved. Printed in SSANGYONG Motor Co., Ltd. No part of this book may be used or reproduced without the written permission of International A/S Team.
 
-## drivetrain
-
 
 ### DUAL MASS FLYWHEEL (DMF, MANUAL TRANSMISSION EQUIPPED VEHICLE)
 
-`ssangyong_rexton_v1_ocr_drivetrain_t000_9eae7484` | topic | dita | tier:3 | lang:ru
 
 The transmission label is affixed on the upper area of clutch housing.
 
@@ -7492,7 +7383,6 @@ Installation Notice
 
 ### INDEX OF DTC
 
-`ssangyong_rexton_v1_ocr_drivetrain_t001_5b3ae7da` | topic | dita | tier:3 | lang:ru
 
 P0102  Low HFM Sensor Signal (Circult Open) .... DI10-27 P0704.  Clutch switch maltunction . . DI10-38 P0103  High HFM Sensor Sgnal (Circut Shor) ... DI10-27 P1115  Coolant Temperature Sensor Malfunction.... DI10-39 P0100  Mir Mas FJlow (HFM) Malfunco ... DI10-28 P0118 Coolant Temperature Sensor   
 P0344  Cam Position Sensor Malfunction .. ... I028 Malfunction - Shor .. .. 1039 P0341 Cam Position Sensor Malfunction P0117 Coolant Temperature Sensor   
@@ -7513,12 +7403,9 @@ P1109 Booster Pressure Sensor Initial Check Fault . DI10-34 Malfunction ... ... 
 
 ![](images/_MISSING_d717d16c767c0a89255883738b43eb0c400cc0fe74533f9df44ea4cb8960bd6a.jpg)
 
-## sensors
-
 
 ### Accelerator Pedal Sensor
 
-`ssangyong_rexton_v1_ocr_sensors_t000_30754896` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_fdb09b27e79d3d547d481f50e086395e03e469e18ce2bb0ab9ae63158c01c5a3.jpg)
 
@@ -7627,7 +7514,6 @@ Too Small Clearance of Crank Angle Sensor
 
 ### Fuel Rail Pressure Test
 
-`ssangyong_rexton_v1_ocr_sensors_t001_0222589c` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_7a96128caaea6ae4ab2b7363ac4ababf2eb140b48b266490b0f83917dcaaa0b5.jpg)
 
@@ -7716,12 +7602,9 @@ Crank the engine for 5 seconds (twice).
 
 ![](images/_MISSING_c42060c1d37af5d096ea949079d08877c19a20f309b9a9bb88070d213ea187ae.jpg)
 
-## infotainment
-
 
 ### ENTERING DIAGNOSIS PROCEDURES
 
-`ssangyong_rexton_v1_ocr_infotainment_t000_a66fcb8c` | topic | dita | tier:3 | lang:ru
 
 1Select “1] DIAGNOSIS”" and press “EntER" in “MAIN MENU" screen.
 

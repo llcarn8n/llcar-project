@@ -1,3 +1,10 @@
+---
+brand: jetour
+model: x70
+generation: x70_gen1_2018
+source: kb
+---
+
 CHAPTER 1 HOW TO READ DIAGRAMS
 
 # CHAPTER 1 TABLE OF CONTENTS
@@ -103,8 +110,6 @@ C/ A1 — First terminal -Connector A connecting engine compartment wire harness
 Note: "whether a terminal is empty or not" differs according to vehicle configuration. Not al information on this is available in this manual, therefore, terminal views of connectors in wire harness diagrams are for reference only.
 
 # 3.2 Overall Wire Harness Connector Definition and Real Vehicle Location
-
-# 3.2.1 C/E Connector
 
 Connector connecting engine compartment wire harness and engine wire harness - C/E, is located in rear of engine compartment battery.
 
@@ -643,7 +648,6 @@ Jotes: 1. Transverse angular velocity and lateral acceleration sensors are integ
 
 ![](images/07e64d2a8efc31e0f1367d152d5e5d9fecfbb9b3b14912070adfa6ca4e6de8c2.webp)
 ### Tieted-pair Relay Li g
-`jetour_jetour_x70_2018_en_a7979137` | jetour_x70_2018 | pdf_manual | tier:2 | lang:en | layer:engine | p:1 | doc_type:owners_manual
 
 + Shieded 0 Plisteype Y Antenna Connector 0 fiow y C Resistor load fse   
 ↓ Ground Valennod Tenorature H Noking ↓ Speaker Vearadle 5 sei ocking F Horn 4 Potentiometer - Nona Waing F Prese   
@@ -660,7 +664,6 @@ Confirm other symbols according to circuit and component.
 
 
 ### 3.1 Wire Harness Connector Definition (Reference Standard: QC/T 417.1-2001)
-`jetour_jetour_x70_2018_en_f4c95708` | jetour_x70_2018 | pdf_manual | tier:2 | lang:en | layer:ev | p:2 | doc_type:owners_manual
 
 Electrical components and wire harness or different wire harnesses are connected by connectors, which consist of cover, male (pin terminal) or female (hole terminal), seals and wire etc. as shown in the illustration:
 
@@ -688,7 +691,6 @@ Note: "whether a terminal is empty or not" differs according to vehicle configur
 
 
 ### 3.2.1 C/E Connector
-`jetour_jetour_x70_2018_en_64ea3dd6` | jetour_x70_2018 | pdf_manual | tier:2 | lang:en | layer:engine | p:3 | doc_type:owners_manual
 
 Connector connecting engine compartment wire harness and engine wire harness - C/E, is located in rear of engine compartment battery.
 
@@ -726,7 +728,6 @@ Engine compartment wire harness connector B (pin) on interior wire harness
 
 
 ### 3.2.3. I/IR A, I/IR B, I/R C Connector
-`jetour_jetour_x70_2018_en_ebd27423` | jetour_x70_2018 | pdf_manual | tier:2 | lang:en | layer:interior | p:4 | doc_type:owners_manual
 
 I/IR A, I/IR B, I/IR Connector
 
@@ -766,7 +767,6 @@ Connector C (pin) on interior wire harness with instrument panel wire harness
 
 
 ### 3.2.4 IR/FL A, IR/FL B, IR/FL C Connector
-`jetour_jetour_x70_2018_en_c31a4f6b` | jetour_x70_2018 | pdf_manual | tier:2 | lang:en | layer:body | p:5 | doc_type:owners_manual
 
 IR/FL A, IR/FL B, IR/FL C Connector
 
@@ -798,7 +798,6 @@ BMB12 DS13 C BMA03]|BMA15BMB28|BMB11|/BMB27 BMD05 1BC02C03MA17MA12B20
 
 
 ### 3.2.5. IR/FR A, IR/FR B,IR/FR C Connector
-`jetour_jetour_x70_2018_en_fd9b95ac` | jetour_x70_2018 | pdf_manual | tier:2 | lang:en | layer:body | p:6 | doc_type:owners_manual
 
 IR/FR A, IR/FR B,IR/FR C Connector
 
@@ -824,7 +823,6 @@ Bмв13 P W04 94C036MC15MC16MC14MA035 BMD01 O
 
 
 ### 3.2.6. IR/RL A, IR/RR A Connector
-`jetour_jetour_x70_2018_en_ce3e6733` | jetour_x70_2018 | pdf_manual | tier:2 | lang:en | layer:body | p:7 | doc_type:owners_manual
 
 IR/RL A, IR/RR A Connector
 
@@ -844,7 +842,6 @@ u 73MC13- BMDS 3MO BMB2 D04 G2081 14 EMD RA08 RA07 PS215 PS216 8
 
 
 ### 3.2.7.IR/B A, IR/B R A Connector
-`jetour_jetour_x70_2018_en_251415cf` | jetour_x70_2018 | pdf_manual | tier:2 | lang:en | layer:body | p:8 | doc_type:owners_manual
 
 IR/B A, IR/B R A Connector
 
@@ -878,7 +875,6 @@ CHAPTER 2 WIRE HARNESS DIAGRAM
 
 
 ### 9.1. Back Door Wire Harness Connector Terminal Diagram
-`jetour_jetour_x70_2018_en_66b2eb09` | jetour_x70_2018 | pdf_manual | tier:2 | lang:en | layer:body | p:9 | doc_type:owners_manual
 
 ![](images/cfadeea24ec93b20dc40ff88fabb3f1916d9db0d342a12406cba28f5106bff8e.webp)  
 21

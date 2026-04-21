@@ -1,8 +1,12 @@
-# Manual: datsun/on_do (808 chunks)
-<!-- doc_type:unknown tier:4 lang:en -->
+---
+brand: datsun
+model: on_do
+generation: gen_2014
+source: kb
+---
+
 
 ### DATSUN on-DO, mi-DO
-`datsun_on_do_en_8064e29e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ABNratenb 1,6
 
@@ -26,7 +30,6 @@ K629.114.6.004.5
 55K39.808
 
 ### KHNrW HAIUErO M3AATENECTBA MOXHOIIPMOSPECTH Y HAIUNX nAPTHEPOB
-`datsun_on_do_en_c01d6cc0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 r. Moca Ce Hoeur
 TOn. (495) 037-85-81 ECH OE HonuRAp6ar:
@@ -50,7 +53,6 @@ Hidamebcmeo tyoemao V noNe LIaNuAcOM Mm nOsmr. ravtokuus.rn
 ipous mIBEKHO- npakmuuec u3d0Hue
 
 ### DATSUN on-DO,mi-DO
-`datsun_on_do_en_793b7942` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OTTOO:f.MoCKOnACKA np-A.16
 KHKHbi Kny6,OproBbeMea:171,64A,en.(495937-78-81
@@ -65,12 +67,10 @@ EneHayoBa,Aecap yH CeprenPunaToB
 oncaHoBneTb 28.07.15.opMT 60x841/8.cn.neg.50 THpa25003K3.3aK326.64 Eyaaeas.TeaceH. OOOMHp ABTOKKH. 117036,Moca,HepeyuKckp.,.3,o2 000 C3N-NPHHT 188300,JepackasO6n.ayn.KeeHopox.1.45-.
 
 ### OOO-MHp ATOEH.,2015
-`datsun_on_do_en_957b3e08` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ABTOMOU cpencTonoMuc CHOCTH,POOTHO ooe BoTMoxHuepaon HEDX OCHM HyCOBCPICHCTBOEHIMH OTcy TCTEMC OICNBIO ICHCTRI KD RCTEIN nokynaTeN/TH TPeTbItX miu. H3H HHLA HCH CMOHTOM 8STONO6HR npxMOUH HHU B5TCKBIOLUHI epa ONHC 3JNeiueHHbIX H2AHMH PCUWMHIXMTEPHEOS
 
 ### COJEPKAHME
-`datsun_on_do_en_8a3ae5d5` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.06wneCBeA
 06aBTOMo6un... Ta6apuTHbiepa3mepblaBTomo6unen...9 NneHTuNKaLNOHHbIe HOMepa aBTOMoonnA ITIEE sSs+Essss 10 TexHN4ecknexapakTepNCTNKN aBTOMo6unen S...L..R.s.+.Fs\*-\*..+.S. 11
@@ -112,7 +112,6 @@ npuobcnyKuBaHNNpeMOHTe CNCTeMbI yrpaBneHM9ABNraTeneM...58
 NpoBepkaTexHN4eCkOrOCOCTORHNA CHCTeMbIynpaBneHNA ABurareneM 4\*1 59 BbICokoBonbTHbie rpobona ripoBepka 3aMeHa  9 CBeyN3aknraHNs 一 3aMeHa. 60 KarywkasaxnraHnR 一 npoBepka N3aMeHa  ·..E ·  60 OnektpoHHagnenanbrasa 17 npobepkan 3aMeHa \* \*\* -..\*+·... 61 ApoccenbHbluy3en 一 CHRTNe, npOBepka,O4NCTkaN 3aMeHa 62 \*.·  KnanaH npoAyBku aAcop6epa 一 npobepka M3aMeHa 444\*.   63 AaTHNKnOIOKHNA KOneHHaTOro Bana 一 CHATNe, npobepka yCTaHOBka   63 DaTHNK TeMnepaTypbloxsaxAaiLen XNDKOCTN 一 CHATNe, npobepka NyCTaHOBka .\*.  \*e .\*.\*.··\*\*.. 64 DaTHNKAeTOHaLNN 一 npobepka N3aMeHa   65 AaT4NkMaccoBoro pacxona Bo3Ayxa 一 3aMeHa   65 DaTyNk KOHLEHTPALIWN kncnopona npobepkan 3aMeHa 65 AaTuNk CKOPOCTNaBTOMOONA 一 npoBepkan 3aMeHa   66
 
 ### COJEPKAHME
-`datsun_on_do_en_5d873ec3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 8.3. CNCTeMa NNTAHNA 67 CnpaBo4HbieAaHHble 67 OnncaHNe KOHCTPyKLNN 0 rpobepka rexHNyeCKoro COCTORHNA CNCTeMbI NNTAHNA x\*) 69 Bo3AyWHbin ΦnnbTp 一 3aMeHa unbtpyioLjero3neMeHta. Son .\*.\*+ Bo3AywHbliunbtp 一 CHRTVe
 70 NyCTaHOBKa   ..OXO. PeCNBepBnyCKHoro py6onpoBoAa CHSTNe,3aMeHa yrnOTHEHNN, yCTaHOBKa.  0. TonnNBorIPoBOA, 一 c6poc AaBneHng .\*X ..A...\*   71 TonnnBHbinunbtp 一 3aMeH  71 TonnneHaRpaMna 一 CHATNe, pa36opka, c6opkaNyCTaHOBka  2 TonnNBHbinMOAynb 二 CHATNe NyCTaHOBKa.  \*.Y· 72 AaTyNK yka3aTeng ypoBHA TonBa I
@@ -155,7 +154,6 @@ B5
 puBonMexaHn3ManepeknioyeHng nepenay 3aMeHa TPOCOB ... 95 MexaHN3M nepeklioyehnsnepenay CHATNE W yCTAHOBKa A4XK 96 CanbHnkn nPnbOnOB nepenHnx Konec 一 3aMeHa ..-.-.. 96 CanbHuknepBNyHOro Bana 1 3aMeHa 96 WAF- WASS Kopobkanepenay 一 CHATNE yCTaHOBka \*·4A4S .I..\*·4  97 9.3.ABTOMaTyeCKagKOpo6ka nepegay "E..  4-.. 98 CnpaBoyHbieAaHHble \*\*.·4 98 OnCaHNe KOHCTpyKLIN ...- 98 Pa6oyasXNnKocTbAKn 一 ripoBepka 99 pOBepKa TeXHNNeCKOrO COCTORHNA AKI 101 9.4.pnBoAbi nepeqHx konec...102 CrpaBouHbieAaHHble. .. IAE·ESSS 102 OnNCaHNeKOHCTPYKLMN 4\*E46 .ESS.c.S 102 npoBepKa TexHNNecKoro COCTORHNA OPNBOnOB nepeAHnx konec  103 npnBon nepenHero koJeca 一 CHATNON yCTaHOBKa   103 Hapykhbinwaphup npubona 一 CHATNe, 3aMeHa samnTHOroyexna NyCTaHOBka \*\*.\*\*\*\*. CRANSYRS 104 BHyTpeHHuiwapHup npuBona 一 CHSTNe, 3aMeHa 3auTHorO yexna NyCTaHOBKa PASssSSE  \*\*  105 10.Xo 107 10.1.Koeca,WNHbl WHHbINCTynNubi...107 CripaBoyHbeAaHHble 10 ... 107 OnNCaHNe KOHCTPYKLIMN T..EK3P . 107 TpoBepkaTexHNyeckoro COCTOAHNS KOnec,WMH N CTynuL CARSEAS  4\*.4.. 108 WuHbl-npobepka naneng ..S.K 109 Koneco 一 3aMeHa   10 nOAWNnHNK CTynubI nepeAHero koneca 一 3aMeHa   NoAWNNHNK CTynNLb 3aAHero koneca 一 3aMeHa A.AE 10.2..epe.hag.o.beck 113 CnpaBoyHble AaHHbe OnvcaHNe KOHCT py KLMN TpoBepkaTeXHN ieckoro COCTOAHNA nepeAHen nOnBeckN KpOHWTeNH KPnneHnaPacakkn CHATNe NycTaHOBKa NpoAonbHaRpacraka roJBecKn CHATNE NyCTaHOBKa. 116 WapoBas onopa ctonikn 一 CHATNE NyCTaHOBka ..  ·.·  116
 
 ### COJEPKAHME
-`datsun_on_do_en_5da1b9d8` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NonepeyHbiipbinar noABeckn 一 CHATNeN ycraHOBKa.  \*   116 nonep DeyHbin Pbiyar nonBeckn 一 3aMeHa peaNHOMeTannNyecKNX wapHupoB     117 CTonka nepenHen nonBeckn 一 CHATNe M yCTaHOBKa  ·\*\*..\*\*.\*.···. 118 CTonka nepenHen nonBeckn 一 pa36opkan c6opka  119 CTa6nnn3aTopnonepeyHon yCTONHNBOCTN 中 3aMeHa CTOeK  120 CTa6unn3aTopnonepeuHo yCTOMUNBOCTN 一 CHATNe, 3aMeHa nopywekn yCTaHOBKa O 120 yrnblycTaHoBkNnepepHNX konec 一 npobepka 4 \*\*X\*.\* . 121 10.3.3 B.k 122 CnpaBoyHble AaHHbie . \*.e\*ss CDO 122 OnncaHne KOHCTPyKLNN   122 npoBepka TeXHMueCkoro COCTORHNA 3anHen nonBeckN \*R  122 AMOptn3aropNnpyknHa3anHen nonBeckN 一 CHSTNe NyCTaHOBka  ·  123 Banka3aAHen rIOABeCKN 一 3aMeHa canneHT 6noka ...··\*·······.\*·\*·\*-··\*.\*·. 124
 11.PyneBoe ynpaBseHne   125 CnpaBoyHbienaHHble SENAE E  OLS 125 OnNcaHNe KOHCTPyKLNN  \*.. . 125 Tpobepka TexHMyeCkOro COCTORHNA pyneBoroyripaBneHna  125 Pyneboe koneco 二 CHATNe NycTaHOBKa 127 AekopaTHBHbIe HaKnankn pyneBon KONOHKN 一 CHRTNeN yCTaHoBka 128 HaKOHeyHvK PyneBON TArN 一 3aMeHa.   128 PynebasTara 一 CHATNe NyCTaHOBKa  ·...\*  129 3auHbl yexonpyneboro MexaHN3Ma 一 3aMeHa .. 130 PyneBaRKOnOHka 一 CHATNE NycTaHOBka. .X..\*\*\*.\*.\*\*\*\*.\*.\*· 130 PyneBoNMexaHN3M 一 CHATNe NyCTaHOBKa. .\*\*A\*\*.\*\*·\*\*\*\*\*.\*.\*\*\*\*.\*\*.. 131
@@ -186,7 +184,6 @@ BakyyMHbiyCunTenTopMO30B CHATNeNyCTaHOBKa. \*R+S\*cs 143
 CTORHOYHbII TOPMO3 perynnpoBka  \*.\*·\*····· \*-  145
 
 ### COJEPKAHME
-`datsun_on_do_en_651b2d6b` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Tpocbi CTORHOYHOrOTOPMO3a CHATe.y.C..aH.Bk  145
 12.7.AHTN6nOKPOBOYHaR CHCTeMa TOPMO30B ...· 146
@@ -240,7 +237,6 @@ DaTK HeROCTOHHOrO yPOBHA.. 174 TOPMO3HONKNAKOCTN 一 npobepka M 3aMeH 75
 AaTHNKaBapniHoro nABneHnA Macna 一 3aMeHa  \*\*.·.ES..S 175
 
 ### COJEPKAHME
-`datsun_on_do_en_f0c952a0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 13.10.CTeKnIOO4NCTTenN M CTeKNOOMbIBaT TM .. 176
 nepenHnnCTeKnoOuNCTuTenb 一 CHATNeNyCTaHOBka.   176
@@ -290,7 +286,6 @@ ABepb6araxHoro oTnenenns mi-DO 一 CHRTNe NyCTaHOBKa ...\*. 194 14.6.3nMeHTblcao
 15. CHCTOMa BOHTHILNN HITINJIIHNN Cano  198 OnNCaHNe KOHCTpyKLHN KREESE.I I S 198 TpOBepKaTeXHN4eCKOrOCOCTOSHNR CNCTEMbI BEHTUNALNN NOTONNHNA   199 unbTp BeHnLnN OTONNEHNA canoHa- 3aMeHa   199 DononHuTenbHblpe3nCTop 一 3aM.e..·  200 SneKTpOBeHTunaTop KJNMaTNUeCKOiyCTaHOBKN 一 CHATNeN yCTaHOBKa.  00
 
 ### 1. OBINE CBEIEHNA O6ABTOMOEIJIE
-`datsun_on_do_en_eb55972f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B KHHrepaccMOTPCHO ycTpORCTaO, TeXHHgeCKOe Obc.yxHBaHHe i PCMOHT aBTOMOGHIeA Datsun COSTAHHEIX HJ aope nepeanenpuBonHbIx 3BTOMOOHACA Bonkckoro aBTOMOOH.IbHOro3aBona ada Grant 14 adaKatina2 ABTOMO6HIH yCKaIOTCHc2014o.38 CAByMR THnaMN KY30BOB. ABTOMOOHIb Dasun  Ky3OBO cenaH OJ Ha3BBHHeOn-DO,aCKy3OBOMXeTq63K mi-DO.
 
@@ -317,7 +312,6 @@ PyneBoe ynpaBeHne HMceT TpaBMO6eoracyio pyneByio konokyc perynHPOBKO y HaOHa Pye
 obuas acTyraHaH H Datsun ynoB H arperaroa yHupoBaHaCaBTOMOOUMN CCMeCTaLada Kalina 2.
 
 ### TABAPHTHbIE PA3MEPLLABTOMOBILIEN
-`datsun_on_do_en_f552507c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/63058f2fc6850d716848e174f9558fe6953c434af3703dcad7402d6f17d883b7.webp)
 Datsun on-DO
@@ -326,7 +320,6 @@ Datsun on-DO
 Datsun mi-DO
 
 ### MUIEHTHONKALIHOHHBIEHOMEPA ABTOMOELIA
-`datsun_on_do_en_a4200572` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Je (onopHas gamka) npasoro 6p3- rORHKa.
 
@@ -361,7 +354,6 @@ MoxcT OTIHNATICA 3ABHCMMOCTHOT KOMTUICKTAUHHABTOMOOUR
 BHJIOert
 
 ### OPTAHEI YIIPABJIEHNA
-`datsun_on_do_en_89cab0e2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 -XOHTPOE CWTgOG CyTO appymworooO p PCOHEETACE aHenpesc Jsoroarpem cn
 
@@ -371,7 +363,6 @@ Opramey La: Gnok ypahncHH CBCLDCHMOG pE4 nEBOrO 10 icp IOHaTen Tn nonopo NCocTa 
 ![](images/e156becf0da0639ad558291a0ab1a5a45791e2556b9b1f04ae96eab651b16939.jpg)
 
 ### BbEK.X
-`datsun_on_do_en_cbdd0a18` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a4de729b8faf0c3e3d9b16b974b8697b59162f6329f0edb64272c0f322ead8ae.webp)
 
@@ -380,7 +371,6 @@ KTON B38 ancien
 O（Bu KCHHK KJ Th BKTIO eTH: Ha ic npon UKHR ascHn EYJHOCHCTE KHpyeTCA ero6 epHyTb py 38noPol caPoakH Da/ OCTABIACM IC crerxa riol ripasoOKCHHCI
 
 ### NTOKTIPHSOPOB
-`datsun_on_do_en_d3876940` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CEHNO Sn AANXI knovaite site kno ronpveen crepeynpal
 
@@ -401,12 +391,10 @@ EEMI OCMHCR 6e3ortachoci, 25 KOHTPOIHa HeOCTHCH
 8oro B8TOMOOHC SBTOMTHNCCKORKOPOOKOR nepeaav):26 KOHTPOTbHAR noayuek6eonacock:27 TaxOMeTp
 
 ### BbIKJUOATEIb(3AMOK 3AKHTAHHA
-`datsun_on_do_en_803b8508` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 aKTHBBUNH HMMOOKTR3epa CHCteMbl IHCTAHIIHOHHOEO yrpaBnenus, 1 TaKKeA 3antycka ABHTaTeR B cnyyae yTePu MJIH HEHCTPABHOCTH pabovero KToga. TIpx BbKIOSCHHH 38KHraHg 6yaouM KJOVOM HaOMHAeT MHraTb KOHTPObHRJTAMTa HMMObHnaisepa.
 
 ### Tpe.ivngeaosctue!
-`datsun_on_do_en_cc9f86a3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BsiktoMK/0oDCBCTCH KxIporysurrop noBopopubopos apiupyr:11 Boanyxa, OMPHKS: -pbmar 'RbKmoCHHA 28
 
@@ -417,7 +405,6 @@ KhiOyB 3aMke 3aXHraHg MOT3aTC/eayoUMe nOoeHE
 0 （o) IIPH TAKOM roOKCHHH OVA 38 HIAHKR MoryT GeJTb BKAOVCHN crenyioune noTpeSHTEAH: BEILICHNe, nepeJHHC IPOTHBO Hbre papb, CHTLTH38 HS IbHHN BETOM aP, aBaMRHE LH IpHKypHBarenb ayDH reMa P BbIHYTOM KToge OKHPyeTCA Pyne soro npaaneHuN 3UIS CrO IOKHPOEKH HeobxonMMoToPHYTb PyJicBoe Ko.teco no cpabrbiBaHHR3aniopHoro CTePKKA) IngpaaenoCHPOBKH Bana pyneBoro yrpaBieHHg ICTEB/RCM KIOT B 38MOK 3aKHraHHR H. crerka nosopaHbaspynesoe kO.TeCc npaBo-EneBO,TepeBOIHM KBoN B BOJOKeNNe
 
 ### N
-`datsun_on_do_en_e2c96cfd` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npn ABNKEHHN aBTomo6ung He KHaute Aeuratenb  He biHuuanre KNOY 413 3aMka 3axu2HuR 3T0 npnBener K Enokupoake pyng S notepeynpaBnReMoCiM.
 
@@ -434,7 +421,6 @@ Kny CKpacHon BCTaBKon (obyuaouni) no3aonser,paa6noknpoearb nPOTNBOyrORHyIO CHCTe
 B pykostky pa6oero Koa BcTpoeHHYnbT AHCTaHUHOHHOrO yrpasneHHS LeHTparbHHM 3AMKOM H ITaTHOR OXPaHHOR CHCTEMOR BTOMOOHIg.
 
 ### PinMercuUHg
-`datsun_on_do_en_d19c145e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npu HapyweHnn paborbl nynbra ANCTaHuHOHHOrO ynpaeneHu cnetyer nposepute uCnPaBHOCTb nnpn HEO6XODUMOCTN 3aMHuTb 3neMenT eronnraHNa.
 
@@ -447,7 +433,6 @@ I（3aae)-BKOb 3JekrpHyeckHe uerH Bcex noTpebHreen, KOeCTapepaKO H Bc
 #
 
 ### RnOA
-`datsun_on_do_en_0b736453` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/32950edd20f4b6f53689560b39a3c8379e7a934e333371b1a50497c4fa0eb4ee.webp)
 
@@ -456,7 +441,6 @@ Apn HepaboraioLeMnBvratene He OcTaBnRNTe Knoy BnonoxeHun Ha AnNTenbHOe BpeMR: 3T
 3HAJIH1-KOKICH GOS(JUIR LHnancOR CHC 3apgRCTCMH SHEnO-KOHTR3AJHMX tsixpap:
 
 ### RexoMeIL
-`datsun_on_do_en_b0a05542` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 epen 3anyckomAevrarens(rioBoOTOM Knoua B nonoxeHve Il)cnenanire nayay BTeyeHue HeCkonbknx
 
@@ -465,7 +449,6 @@ Kmo. eKo1-- 2- KOUKAKMON O 3-p460A KMOYHMMOUHtaseps
 Tlocne 3aH 6OKBypa6pOM H CHCTEMOR ynpas-neHHR HaTCICM HeO6XOnMMO BHOBbKTHBHPOBaTb CHCTeMy
 
 ### 3. MEPbI BE3OILACHOCTN IIPH OBCJIVKHBAHUN M PEMOHTE ABTOMOBNJIH
-`datsun_on_do_en_ba69e0e4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 J3E 二 peaTe HKT
 
@@ -503,7 +486,6 @@ He Hag 6H3 o JOTbyRTe O2CKOrO
 Hembg n BPCMeHHO H
 
 ### E电
-`datsun_on_do_en_6c4099fb` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BCH3HH MOXCT BOCNIMCHHTC qero yronHO: nPOCKOSHBUICn HCKpbl KHHOR cniK, nPH nonaJaHH H packanCHHHIR KOnnekTOp HIN BpeMH cBapoyHx pabor.bynbreoce 6eHHOOCTOPOXHEI rpn Jobix onepa UHAXCTONAHBHONCHCTEMOR.
 
@@ -550,7 +532,6 @@ OMa aTOMOOOCTeOMKpaT TOKO ron rrpeaHasnagenHhe sTOro CneuHaTbHbie Mecra H Ky3Oge
 ECHaTOMObI CTOHTH8 ZoMkpaTe, HeTb3R B Hero CaAHThCs, CHAM8Th nskraremb npyrne TRKeJbte arperaTH I 6anaHcHpobka MAIHHH H3MCHHTCA, 3T0 MOOKET TIPHBECTH K ec IT8- JCHHIO. Cocobot OCTOPOKHOCTbIOOTBOpavHBaHTe H 3aTarHBARTe CELTOBLC KpenexHbe neratn, korna ASTOMOOHTb CTONTHA TOACTABKax. EcHnoa MaIHHOR paboraior JIODH, TOCBepxyHeb3A OH3BOIHTb HHKaKHX CHOBIXeRCTBHA, B TOM YHCTe CAAHTbCR Ha CHZeHbs,KAaCTb JUIH BUIHHMaTbIDy3.
 
 ### E电
-`datsun_on_do_en_b1fbc6c4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 He HaICTOHAATeCb Haa BpamatHMHCR YaCT pa6oraiouero nrae HC nPOHSBOnHTe nPH TO HMKBKHX pabor H MOTOPHOM OTCEKe FEHC TPAHCMHCCHeR.
 
@@ -578,7 +559,6 @@ Ena H rap ecoccco CTH eCb npaBa reH 3ayHHTEJTbHO.
 IoKHag rapakHe3aybreB YHTb Bce 3aekrponp6opu.
 
 ### 4. HHCTPYMEHTbI HIPNCHOCOEJIEHHS H SKCILIYATAIMOHHBIE MATEPHAIBI
-`datsun_on_do_en_ed10998c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 L xoro Depa ICTOI op HAKO TOBS OTBeE CEE
 
@@ -589,14 +569,12 @@ CneLHa.TbHbie KHCTPYMCHTH (creLEHBIH31 OB HHNC KAONH CbCMHHKH, H3MCPnTeAbHMR HHC
 HckoTopie BHULbI pabor BbIoinsTCAC HCOIb3OBaHHeM CpeCr HHAHBHAYaIbHOA 3aLHTbl (nonpo6Hee CM. Mepu 6c3oracHoCTH nPH obcnyKHBEHHH H peMOHre ATOMO6HRR>). TlOgTOMy HaPgAy C HabopoM RHCTPYMEHTOBpHroToBbrenepaTKHHaHpyKABHLIbI, 38UHTHie ONKH HUIM Macky (npoapaNHb LHTOK, NOTHOCTEIO 38- KPbIBAIOUIHRAHUO).
 
 ### YHHBEPCAJTbHbIA HHCTPYMEHT
-`datsun_on_do_en_7faf3ccf` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 i.H6op TOPROBuX CnOteN CO CMEHMDOAN TOMOBKAMH. H HE bop 05R3 arenkHO onken BXOA TTE KOMnAEKT CMEHHbLX TO1OBON 13ME n0 32 DEAG, IOn COCEHH HH KBanpat ATeJIbHO yrob BSTOM KOMrUTe ObUI BeCb PRa paboYiXIpoe pa3Mepa, T8K CUHE rOAOBK3 HUIH MN (rnybokag ronoBKa, BHyTPb KOTOPO CTaBICHO pe3HHOBOC T HeHHOe / yncp SHHR CBCVH 38HraHHR nPH cC H3BNCteHHH). Take KENATCAEHO, VTO6hl 5 stopon KOMILnCKTTOOBOKPaMePHOCThIO OT no 14 M Ton MeHb
 
 WHA ocao paep（1/4)HoOHHTTBHI Habop ryokux ronOBOK 8, 10 12H 13MM, UIROTECPaNHBaHia rack T IUINHHEIX WnHnek. OveHb ynono aboratb, CCIH Ha6ope CCTEBOPOTKH xpanoBbiM MCXAHH3MOM (TpeuOTKH). OHH O3BORIOT 6bCTpo OTBOpaNBarbH3anopaNHBTbKpeneHbeneTaTH.
 
 ### Hpeasipekaenne!
-`datsun_on_do_en_1f9c25f5` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BO n36exaHue noepexAeHns xpanoBoro MexaHv3Ma He ucnonb3yire TPeLOTKNAnR ocna6neHns OKOHYarenbHon3aan6omoB raek.
 
@@ -605,7 +583,6 @@ Tlockombxy B aBTOMOOHne HCTIOVb3yIOTCg Co.rbl TORX Takke6obc BHYTPCHHHM L HHHKOM
 3 KOMLeKT O6HOBX OeR（pokobe N HaKbe)paMepHOCTbIOOT 620 32MM. KenareAbHo, TO BHHYH bUBCbKR MeTpyeckoro pa3Mepa(uepe3 MM).
 
 ### UpeivnnesncHae!
-`datsun_on_do_en_330b5149` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 PoxkoBble KAOVN He npenHa3HaveH& AnR npNnoxeHVA 3HaVnTenbHbIx ycunnn XKpenexHbiM 3neMeHTaM, rak KaK rpu 3TOM CMHaIOrCR rpaH 6ontroe 5 raek 3arsrnaatb MnM OCha6naTb 3arAxky TaKHMH KnIOHaMN cnenyer TOnbKO B cnyuae, korna HeB03MOKHO 3T0 BbInOnHNTbC noMOLIGIO TOpuoBbIx NAM HaKHAHbIX KNOYeN.
 
@@ -634,7 +611,6 @@ II.BbIOOK H3 KO TL (naTye,eHbc. EJLIOMHHKCBbte HpyTKH)五R BbIEHBHHR OCeR,BaOB.
 15.MOHH K. Cneayer HMeTb Habop H3 neyx-Tpex JIONETOK PA3HOR JUHHI, KOTOpbe MOXHO HCAb3OBaTb KaK pbMarH.
 
 ### 16.Pa3,ecC.
-`datsun_on_do_en_eb5f05cc` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 POB rPM
 
@@ -655,7 +631,6 @@ POB rPM
 ![](images/6123f1c5d7d0818fafe0fc7dfbe7307a38315c1e5d69cd80c636818caa6030fd.jpg)
 
 ### VnUIryVIEnIDI HIIPHCIIOCOEIEHMA
-`datsun_on_do_en_7ff362b3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/d4e77f5af161daf0ab66bcca06b0a852a91de3748c5f856f7b238ba499a409ee.jpg)
 
@@ -729,7 +704,6 @@ i5.Cbe e yaHIIA JU H3BNeGEHH8 K sanpeccoEKH nOUHHKOBCTyUH pHHOMETatmecKxuapHpoB(
 17.Ha6op  paccyxapBaHHA SIENAHOS Mexa3ara3opacnpeneneHus.
 
 ### VnUIryVIEnIDI HIIPHCIIOCOEIEHMA
-`datsun_on_do_en_eb3cad5f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nn
 
@@ -790,7 +764,6 @@ nn
 40.Mac m 3aTHBKH Macna B Keprep KopobkH nepezay.
 
 ### JANeyUne
-`datsun_on_do_en_60d8a232` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 FiocKonbky Macno B kopobke nepeAay 3aMEHRETCR PenKo 3nvBaeToR OHO CBepxy vepea OTBEPCive yka3areng YPOBNR, BMeCTO MaCnRHOFO wnprua MOXHO ucnonbacea BOPOHKyC HaneTon Hd HeennacTMacCOBON Tpy6KoNnnHon 50-60CM.
 
@@ -825,7 +798,6 @@ anenOTKKy138.B nec a38 aK
 Ca3Ke CKHX Ct IBKH peeTcA kaoro B0- racMf.
 
 ### SKCILIYATALINOHHLIE HPEMOHTHLIEMATEPHAII
-`datsun_on_do_en_bdcb44e6` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.COCTBBL POMMBKHCCTMOXHBs 2.Tpenepar  yo 38 nOHe.TEMN CANOHS.
 
@@ -880,7 +852,6 @@ MOIeTKs, WKOCRCOSR CTK.
 ![](images/249a2f5104ca8d7ff6efa3eacf8124fc44c9f7cc402ffa2ce6d068ac3492f0a3.webp)
 
 ### 5. HOIROTOBKA SBTSMOBNJIN K TEXHNYECKOMY OBCJIYKNBAHMIO H PEMOHTY
-`datsun_on_do_en_bc416cde` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 T
 
@@ -891,7 +862,6 @@ JepennpoBeaeHneM TO peMOHra EBTOMOOR HOXOHMO EbinOMHKTb HeCKOJKo nODTOTORHTEALHE
 1.Moe TOMobLu Ecnn HMeetCABO3MOXHOCTb, rorepea paboron aeTOMOOHbKTTe.TbHO BbIMbTCHaPyKR. IIpHgeMecnn pa6oTanpecOHB MOTOPHOM OTCEKe, ro cnenyer BbIMbiTb ero,aBcae peMoa nOecKH BbT aTOMO6LLb CH3y
 
 ### Tpeasnpesneane!
-`datsun_on_do_en_bd4d8e88` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpM MOnke MoropHoro orcekacnenyer beab nonaaHoHa on AaT CnanTenbHbe ypORCTBa TeMel npbika Tonnvea Takke cnenyer naberarb onana on reHeparop.NHa.Ciaprep.
 
@@ -902,7 +872,6 @@ IIocne MORKH yKa3aHHe BbIue neTanM H Ho6xoO TEtLare,TbHonpocynh,pOayB cpye caTOr
 Dry onepamio JyyuieBnonb Ha HeaBTOMETHYECKOR MOPke. 3necb aBTOMODHTb BbIMOIOT BPYNHyiO, npenbaPHTeTbHO o6paboTas HapyKHyTO TTOBePXHOCTb cy3oBe MOTOPHbIR OTCEK creLHE UbHbIMH MOIOMIHMH COCTABAM, ynar TPE3bH38pOK KO.ICC KCHHIUA Ky3OBa CTPye BOI ION BLCOKHMBneHHeMcnocIenycncRcyukoft.
 
 ### 2.CT8HOBK8 8BTOOI
-`datsun_on_do_en_c11fec59` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 )ycrasOBKa SBTOMOOHLT HS POBHOR rO3TO ouke 9Te MOKCT OblTb rapax 6eTOHHEIM nOAOm HUIH APyTHMnpOH BHbIM nOKpAITHeM, rOPH3OHT H nouatks C TsepAbIM roKpEITHeM nOMeCHHH Hbo BHC noMeeHs (aca, SeroH, eHH HCT.Toe NpOEHoe IoKpTHe nosBonAeT BcyuaC HeoUxo
 
@@ -915,7 +884,6 @@ JKMOCTH nHOHmOO ac a8- TOMOsnOMKpe  eHo yraHOBHTE H8TOaCTaBKe (CM.HHKe n.3).
 ![](images/6616d1465c2019deebdce8110299422a85c5ab968b676ba0707e4199cf580e5c.webp)
 
 ### Tpeavnpeanenne!
-`datsun_on_do_en_ea36405f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OCTaenaT BKnIoyeHHyId nepenauy CnenyerTOnbKO TOM CTyvae, 8cmg npouecce pabore He npunercs 3anycKatbneurarenb n npoBopaynBarb KOneHHaTbl BannvraTenRBnoboM cnyae nepen 3anyckom ABvratena, Haxae nenanb Cuernehs no ynopa O6RaaTenbHO y6enurecb B TOM. YTO ptivarnepeknicveHuR nepenay HaxoDNTCRB HeRTpanhHOMnOnOKeHiH.
 
@@ -932,7 +900,6 @@ TOu zpe CTH HM
 3.Bbe OOO.OM KpaTe HEOaCraBkax.TakyiO OnepauMiO HCo6xoIHMO BbmOAHRTb Ha POBHOB ropHabHo oake TBepIHM nOKPEITMCM IIpn pabote H3 MAIKOM HUH HEPOBHOM rpyHTe non nOMKpar BCe OCTKH ceayer nOUIOXNTh pONHeHaCTH paMepOM He MeHee 30x30cM Jns H3rOTORACHHR HACTHJIOD nnOUIeTTOICTasJOCKa
 
 ### Upe.tunek.teune!
-`datsun_on_do_en_71b3f491` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Vcnonb3osatb nonkaTHON DOMKpar MOKHO TOnbKO Ha TBePAOM OCHOBAHNN, npn 3TOM POnNKN Homkpara nanx COxPaHATb noABRUKHOCTb,
 
@@ -993,7 +960,6 @@ Heo6xoHMocTb B TaKo onepauHa MOOKCTBO3HHKHYTE:
 -npn obeayxNnanmk akkyMyJgTopo rapen K HeKOTOPEx apyrAX CTyvaRx.
 
 ### Eneaynnew
-`datsun_on_do_en_3cbe7e2f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Hukorna He OTCOeJNHRiTe akkyMynRTOPHyIO 6arapero npn paboao山e nsvratene CKaukl HanpaXKEHIR. BOaHNKaOLNe npn 3TOM. noepenar 3nektpoHHoe o6opynoBaHve
 
@@ -1014,14 +980,12 @@ ILTS OTKTOUHRA KKyMYngTOPHOR 6aTaPeH OT 3eKTPHHeCKOR CeTH aTOMOOWAHOCTATONHO!
 ![](images/4ddcc93a691c18eeddb468f7744aa55dc3a8be955fd041e285bff73402a6fce6.webp)
 
 ### 3BMCuOHHe
-`datsun_on_do_en_503ae3e9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EHe yaaeTR CHRTb KneMMy C BbiBona Mewaer 6nnako pacnonoxeHHas neperoponka MOTOPHOrO OTCeka) ocnabbTe 3aTsXKy AByx 6ontos KOnonK KpenRWNx HakoHeYHNKN npobonos, NnpnxMute 60KoBbie npobona K cpenHeMy nposoay. He 3a6ynbtenocne 3ATRHyTeGomb.
 
 IIoncoeJInHReM KteMMy rpoBoaa K oy 6arapen o6paTHon nocne.toBaTeThHOCTH.
 
 ### 1.Opepa TOee oce nepnux 5 po HOBOOBTOMOT
-`datsun_on_do_en_48386a0a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TIpomepea-TiposDepeaHWSHPMBCCERS
 
@@ -1078,7 +1042,6 @@ YcCipaBHcAnCHCTeHE OCBELIeHHs, CBCTOBOR CHrHa-JH3AUNN H 3uykoBoro CHrHa.Ta (CM.O
 TIpoBepHr HeKocTh nepeknOueKR nepenay,yencg OTCyTCTBHHnOCTOPOHHHX IYMOB H CTyKOB rpupa6oTe KOpooKH nepenay (CM. IIpoBepka TCXHHYOCKOrO COCTOAHNRKOPO6KHHepetaye).
 
 ### 2.oceKx1500oersooxo BceonepauuH (xpOMeOTMCCHx+\*) BDOeHUe npo6ere2500 ECM, &TaKKe:
-`datsun_on_do_en_2ea8b325` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 IpoBepntb npn HeObXOmHMOCTHorperypoBaTb nonoxcHke BK-VATCJA CHrHAnOs TOPMOKCHHR (CM.BKnI CHOB TOpmoxe-HH8-CHRTHC H yCTAHCOKas).
 
@@ -1107,7 +1070,6 @@ npenennn TOMOGHLS OPHBOIaY
 Iposeputs COCTOAHHC H HATRKe-HHC PeMHR npHaona rasopacnpene-TCTHOTO MXEHH3MA(CM. PeMeHsnpHBORa IPM - npobepka COCTOR-HH9>).
 
 ### 38Mc
-`datsun_on_do_en_cf0c676a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 IIpOBepTb ypoBe Oxaaouet KHIKOCTH pacHpebHO 6yke CHCTCMI OXTAKZEHHH IIBHTarens (CM, IIpOBepka TxHeckoro cocTO CHCTCMN Oxa,eHH).
 
@@ -1188,7 +1150,6 @@ IIpOBePHTb H, pH HeOxOIHMOCTH, DT6JHCHpOBaTb Koneca (cM. Ipoeepka TeXHH4CCKOrO C
 3aMeHHTb CBeuH 3axuraHus (CM. CBeuN 3KHraHHg-3aMeHa)
 
 ### 38Mc
-`datsun_on_do_en_0038fc20` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 IIPOCHT COCTOgHHe IHH HKOeC-HbIX HCKOB（CM. pobepka rexHH-
 
@@ -1224,7 +1185,6 @@ OxaoaXKocTb -3aMCHa+).
 #
 
 ### 1.IIpN oe 3yceo He NpsuleTCn
-`datsun_on_do_en_7fbdabeb` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.HeOcTOO3IWOKCHH KICNMI HEBBOJRX aKKyMyIsTOPHOA Gerapen (CM.eAKKyMyITOPHaR 6B-Tapeg obcny KHBAHHee).
 2.AKkyMygopas 6arapcg paapakeHe JUTH HeHCrpaBHa(CM.AKKyMyTOPHa 6arapex obcnyxHBaHHee).
@@ -1252,7 +1212,6 @@ OxaoaXKocTb -3aMCHa+).
 5.Hencnpa cHcTea ynpaneng nmHrarencm (CM. Ippa eeoCCC y IBHrareicMs).
 
 ### 4.3xrpynneH3avcknporperororaes
-`datsun_on_do_en_c7a4afce` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 5H TPM6.H Pacupe
 
@@ -1263,7 +1222,6 @@ UH LECE -
 2.Ho DOIEKERL 3.He RCPRTa 4He TSHRR5.He IC. K 6.He
 
 ### 5.CrapTe DOTACT CHLTSHHM ETOM
-`datsun_on_do_en_cbf0c472` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.ToBpeeH H3HOUCH 3yOATbIA BCHeL MaxOBHka (CM. MaxoBHx CHHTNC HyCTaHOBKas). 2.Ocn6 3aTRKKa 6ORTOR KpentenHg cTaprepa (cM. CTaprep -CHATHe HyCTaHOBKa>).
 
@@ -1276,14 +1234,12 @@ puTa
 1.3 CHCTCXM 2 Hes pamna3. Hea TIHOE/C BR-341 4.Ilo -Bucoko S.He -Tposepr JxrareN 6.He CM. -Kos 7.Her JHTCThH rpoBepka 8 Heno geckoro 9. Hereg sepHTTLa
 
 ### 7.Ionurarene HOOTC MacJia
-`datsun_on_do_en_64186bb0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 LHerepMeHanpokukanono KAPIepaHTH HeIUIOTHO 3aBepHytarpobxa JBBHOrO OTBEPCTHA (CM TTonaoH kaprepa SBKIATenR CHRTHe, 3aMeHsTpOkKH yCTaHOnkar). 2. HapyueHo yILIOTHCHHC naTynka aBapHRHOro JaBeHOIMacnta (CM Darunx PHRHOrOTHHE Macra 38- Menae), 3. HerepMerHo yIUIOTHeHHe KPbIUIKN TO/OBKH 6ROKa HHPOn（CM. IIpOKanka Kpuk rOOK 6oka unJHEAPOS SaMeHae) 4.3HO HHHOBPeKCHICabHOOIKOnCHHTOrOBan (CM.p CO 3aMCHaP WCM. 3aHHR CHHK KOeHTOrO Bana-3aMCHae).
 
 #
 
 ### 8.O6oO TH XOOCTOO TOHOHHKAIOTCE.TO BO3PSCTaNT
-`datsun_on_do_en_a223770a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.M3H Pacrtpea 2. Here IRTCTHHO. cposepka 3. Henp PeMeHb 4.HeHc HHeckoro 5.HeHc IIpoBepka 6. Jacop 中Hbrp-3
 
@@ -1292,12 +1248,10 @@ I.HerepHCoHHHS aKH UIAHros(npoBEPHTb TLOTHOCTH nocaTKH HETyucpax
 2.3acopcH BO3nymHEA ΦuIbrp (CM. Bo3nyuHbnpsenbrp SaMeHa HTTpyoerosnemeHTa).HeJocTatOuROe nSBJCHHe TOILIHBS CHCTeMe ITHTAHRsTBHrareJtg (CM. IpoBepka TEXHHNECKOrO COCTORKHA CHCTE-MATHTAHHA')4 IToapexneHa npoutaaka rOIOBKH JIOKa poB(CM.lononka 6noka Lpo CHRTHC 1 yCTAHOBKa").5.M3HOC PCMHR N/MAH HTHorO pOnHKa npHon ra-sopacnpenenHTebHoro MeXAHH3MA (CM. PeMeH npubonarPM npoeepkacOcTORHHA-)6.N3HOC KynaUKOn pacnpenenHTenbHoro Bana (CM.PacnpeneTHreHEiR Bat CHATHC HyCTaHOBKa>).
 
 ### 9.Ipotye XOJOCTOMXO
-`datsun_on_do_en_884f1e05` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1 Hencpabt ceqH SHTAHHA SUIH HeripasHtbHo yc-TASOBICH 3830p Mexny 3/ekTPOnaMH (CM. CBeUX saxura-HHH 3aMeHau).2.Hecnpaokoo nponona (cm. BbICokO-bie npoBona npobepka samcHas).Hen ePMeTHYHbI COCHHCHHA BaKyYMHSXILTaHTOs(rPO-BHTUIOTHOCTh nocankH H uTyuepax).4. Hencnrpasra karyuks 3SKHRAHHA(CM. KaTyukH 3axH-TSHHA 一 npoBepkaH 3aMeHa").5.HeAocratouHas KOMnpeccHt B HHpx Je(CM.Kompecc UHHOXJBHr 一 npobepka>).6. HencnpaBHE TOIUIHBHSIE pOpcyHKH (CM. TontnbRaRpana -CHATHe,pa36opka,c6opka HyaHoBka).
 
 ### 0.Tpoyek 3 OPH paboTerreapo（ e OO）
-`datsun_on_do_en_80afc9b1` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 (CM.
 CHHI
@@ -1328,48 +1282,40 @@ aprepa naaie-38- 6noka KaLHEOBUTa HCM. B(npoMOOULb
 1.3acopeHbl TOnTNBHIA Hbp H/u pyonpooCHCTeMH TINTEHHA AbHraTens (CM. CHCTeMEnHIaHHE>).2. HeHcrpaBHb TOTLIHBHHe DoPcyHKK (CM. TOUHBHApaMna CHTHe,pabopka, c6opka KyCTaHOBKa).3.HencnpasHh CBCNK sakHraHHg HAK HCIPaBHUIbHO yc-TAHOBJCH 3a3opMekny o （CM.CBe 3axHrs-HHDI 一 3aMCHa\*).4 IIcepexena H3OLHEBICOKOBObTHXTIPOBOIOB (CM.BcOKOBbepo- ripobepkaHsaMeHae).5. HencnpabHa CHCTEME ynpaetCHus JHraTeneM (CM.IIpOBepKa TexHneCKoro COCTOAHHA CHCTeMu ynpaaHngJB eneMe).6. HeRocTaTOIHAR KOMnpecCHE LHIHHAPax DBHIBTeJN(CM. -KOMnpeccHR IMAHHAPAX ABHTBTCs IpOBepka,).7.HerepMeTHHOCTb (rporap) KianaHon ra3opacnpene-TebHoro MCXAHH3MB (CM. OoBka AoKa LHo -nposepka H nparnpka KIAnaHOB).8.Hencripasa CHCTeMa SOKHT8HHR (CM. eIIpomepxaTexHH-vCCKOr COCTOAHHA CHCTEMbI yrp BRCHHg BrareieM>).9.Herepo BaKyyMHX ITHTOB(npo-BEPHTi IIOTHOCTI nocaakr Ha yuepax)
 
 ### 11. Jasuate. 83888 HOTUHOCT
-`datsun_on_do_en_b7c3faeb` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.M3HOC KynayKOs pCnpenenHTeRbHOro Bana (CM. PacnpeaeeHh Ban CHATHe yCTAHOBKa>). 2. HerepMeTHuHOCTb (nporap) KnanaHOB rasopacnipeJleXHTERSHOTO MexaHE3Ma (CM. eToAoska6aoka UHAHHAPOS 一 rposepka HnpatHpka Kiaran HOB). 3. Heripaauw UIbHAR yCTaHOEKA Φ&3 ra3opacrpeneJeHns (CM -PeMeH pBO TPM 一 SameHa\*). 4.HencripaBa CHCTEMa 38KEFRHKA (CM. eTlpoBepka rexHHHCKOrO COCTORHHH CHCTeMI yIpaBCHRBHTen). 5.HeHcrpaBHa CHcTeMa AHTAHNR JBNTATCnR (CM. IIPOBepKa TeXHHeCKOO COCTORH CHCTCM TAH) 6.3acopcn BO3nyMHNR ΦHAETP (CM. Bo3nyLHuA HbTp-3ameHaHbTpyoueronecHTa).
 
 7.IIoJIHHHBaHHe paOOUKX LIHHpOBTOPMO3HbX MeXR-HH3MOB (CM. Ipobepka TeKHKHCCKOrO COCTOSHMA TOPMO3-HORCHCTeMHI)8.Ipo6yKcoBrCeHe (CM, Ilpotepka reXHHYCC-KOro COCTOSHKg CueILTeHHA).9 3acopeH TOHHtA HTp H/HH TpyonpoonCHCTEME IIHTAHKA ABHraTeng(CM IpoeepkaTexHgeckoroCOCTOSHKA CHCTCMI CIHTEHNRS)10.Heucnpa CHCTeMa ynpaBneHiR nnHrarenem (CM.pOBepKa XHeCKO coCTOHt CTe ypHBHTaTeeM).11 Henocraro HHAe KOMIIpecCHs B LHHApAX HrETe(cM.KoMnpecCHA UH/HHAPax ABHrATCIR nposepke\*).12.Hekcnpaa CHCTCNa Bhyeka OTpa6oTaBIIHX raJOs(CM.IIpOBepKaTexHHuCCKorD CoCTOHHA CHCTEMLI BbtnyckaOTpAGOTABIIHX 830B12.IpH pa6oe nra CKOABBAPKRHOFO JABJHEHHA MACTA1 HeocTaToHypOBeHMC&CM ypOBCHbMaCJ8rpobepkas).2,O6oPoT XOOCTOTO Xoa HHKe NOpM(cM.elIpoBepkaTeXHHyecxoro COCTORHHA CHCTCMM yrpaBn HsDBNraTe-Jem>).3.3aMaHe uerm" IETHNK 一 KOHTPO.bHA8 naMIa（cM.4Cxeml 9Tpoo6opynoBaHH).4.HencpaBe NATHHK XOHT PONbHOR JtaMIib abepuRHoroJABRCHHA Maca (CM. Hk aBaporo JABICHNA MacJaBABHraTene 3aMcHa>).5.HmOC oeHx nOuKOBKOoo BaJIa JHM&CgHOrO HACOCa(CM. ponepaTexHecKoroCOCTO-RHHA TBHraTeR". H CM. MCH Hacoc 一 CHETHC,O-BepKaHyCTaHOBKa>).
 
 ### 13.KAutHoe 3aaHe (HenoJo HeKOTOPOE BPeMRpa6oTaTk nOcne BMKOeHR3aKraH)
-`datsun_on_do_en_416b0601` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.BECOkHe o6opothi xOocToro xona (cM.IIpoBepka TexHHYCCKOO COCTORHHA CHCTEME ynpaBneHHaDBnraTeneMe). 2.IIeperpeBBHraTeL(CM.IpoBepKa TexHneckoro coCTOHHHI CHCTCMNOXIAIeHHR>). 3.Harap Ha KTantaHaxN KaMepaxcropaHA (CM. IOJIOBka 6nokaIHHPog rpobepka npHTHpx& KUIanaHOB\*).
 
 ### 14.IIonMmeu TH
-`datsun_on_do_en_64d26065` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.3copeH osy ΦHAbTP (CM. Bosnynan ΦrtbTp 3aMeHaptbrpyoliero3neMeHTas). 2. HencrpaBHa CHCTEMa yrpasneHus nBHrarereM (CM. Ilpobepka TEXHHHOCKOO COCTORHHS CHCTCMEI yTPaBA ABHraTeReM>). 3.HeucnpaH ToHe ΦopcyaKn (CM. TOELIHBHAR pamia -CHRTHe,pa3bopa, c6opka NyCraHOBKa>). 4. HenocTaTOyHoe naBnenHe BO3nyxa B IIMHAX (CM. HHN nposepkanaanenHge). 15.Yte TO H/THOee 3a 6 1 HerepMeTKHOCT TOMBOPOBOIOB (CM. Iposepka TeXHHCCKOOCOCTORHHCHCTHTAHHA). 2TepeeH To 6a ye H3THIKH TOnTIIHBa), 3.HerepMeTHHOCTTODBHXOpCyHO（CM,TH paMTIa-CHrTe,pa3bopka,c6opka HyraHonka).
 
 ### 16.Ieperpea reg
-`datsun_on_do_en_bb94cb99` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.HeoCToH ypOBe OXKouen KHKOCTHB CHCTEME OCHH (cM.Ipopka TexeckorococToHHHR CHCTCMHL OXIAACHHRO).
 
 2.HecnpaBHoct acoca Oxaxomc KKIKOCTH (CM, Hacoc xR KOT 3aMCHa>). 3.3acopeHpaHaTopCHCTcblxaXeH nBHrSTeng (CM PaHTOP CHCTeM OXCHHS BHaT -CHRTHC HyCTaHOBKAS). 4.HeneripaBeHTepMOCTar (CM. IpoBepka TexHneckoro COCTORHHA CHCTCMNOXREXOCHH) 5. Hencnpaacn KTPOBHTTOPCHCTOXKH HTT （CM eKTPOBCHTITOP -CHrc,paabopka yCTAHOBKa.). 6.Heucnpaarb XhariaHb B KpLIuke pacIuMpHTebHorO 6agka(saMeHHre kpbiuky).
 
 ### 17.AKyyopa T
-`datsun_on_do_en_26a6ae0e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. M3HOUeR HJH HeROCTaTOUHO HaTAHYT peMCHb EPHBOn8 reHcpaTopa (CM. PeMeHb npueona rereparopa 1 3aMena>). 2.HH3IypoBeb SnekrpO.THta KkyMynEropHon6aTspce CM AKXYMYnRTOPHH 6arapeg -0bcykHHNe>). 3.HeaOCTTOUHO STRHyThi UIH OKCHbIKMMHa BbLBOJax aKKyMynATOPHOn 6arapen(cm. AKKyMyngTOPHaR 6aTapeR obcayKHBaHHen). 4 Heucnpasen reHepatop(cM. TenepaTop -rpobepkas). 5.Hencripa BAHa aJekrpHueckag Lerb3apsua aKKyMynaTOPHOA GaTape(CM CxeMbt 3ektpoobopylonaua). 6.Koporkoe 3aMhiXaHe ueen seipoobopyOBaHHA (CM. CxeME SJekTpooSopyRoBaHHa>). 7.Heucnpaba aKxyMy/RTOPHaR 6atapes (cM. AxKyMYLgTOPHas 5aTapeR-CHATHC NyCTaHOBKa\*).
 
 ### 18.Kopoao HeracHeT HOCAe 3AnyCka JBHTWTeR
-`datsun_on_do_en_7378d94e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.HencnpaseHreHepBTOp(CM. TeHeparop -IpPOBepka>). 2.HeHcripaBHa 9nekpHueckag Lenb3apanaakkyMynaTopHORGarapen（CM. Cxemh3nektpoobopynoBaHna). 3 H3HOIICH HAK KOROCTETOUHG HATRHyT PeMCHb rpuBOπa reepaTopa(CM. ePeMeHb npuBona reHeparope -3aMeHas). 4.HeucnpaBe peryeop HaipgkeHg (cM.Peryngrop HanPgkeHHA 3aMcta-).
 
 ### 20. Cuenenne npo6yxcoabihaer(obopotnrareng SO3PECTAIOI,HO ATONOORTN e pa3rOngeTcN)
-`datsun_on_do_en_b92a0097` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IIOnanaHHe Mecia H8 paOoure nOBepxHocTH BeOMOroCKa CM. apoBepKa TexHgecKoro cocTORHns cuenJCHHS).
 
 2.CHbH3HCKopocHe prope HaOK MOro IHCKa（CM. IpoBepKaTexHyeCKOro COCTORHg cuernCHuAs).
 
 ### 21.3apyenoM HCDO3MOX nePeaANB MKII
-`datsun_on_do_en_0c0edb4c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1 1.Hapyena peryHpoBka npHsona nepektoucHns ne-pen（Cm. pHBon Mexa3& nepeKuoyCHA epcay-CH8THC,pMOHT HyCTAHOBKa+).
 
@@ -1384,7 +1330,6 @@ aprepa naaie-38- 6noka KaLHEOBUTa HCM. B(npoMOOULb
 Pa3Han Spotepra TosoM posepca 4 Hapym XY 5 no pcbngEa
 
 ### 22.He mocg BePnAHUmBKHOAeTCRHPnaga, seCOOTBeTCTByIOULAR nOMoXeEKiO Pugara cenekTopa AKII
-`datsun_on_do_en_3d013e42` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.Hapymca perypobka npomnryHka pokHos pa6oTbI ABTOMaTHyeCKORKOPOOXHnepenay. HacneuHatmak.poBAHHOA CTAHUHH TeXHHJeCKorOO6Cny\*HBaHHtnpOBepMTbH nPRHeO6XOAHMOCTK OTpCrynMPOBaTb nPHBOI.
 
@@ -1413,7 +1358,6 @@ Hencnpano 3ektpoobopynoBaHc ABTOMETHCCKOH KopobkH nepenay. Ha CHCLHaH3HPOBHHOR C
 #
 
 ### 23.Cryk （eopoe aooUHA HCBNCOKO CKOPOCTH
-`datsun_on_do_en_4b929570` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Hanoc WcorocOCP 2 BaXOn ipoBepka ). 3.tor WCOCTOC
 
@@ -1426,7 +1370,6 @@ Hanoc WcorocOCP 2 BaXOn ipoBepka ). 3.tor WCOCTOC
 LTleperop ROBaACM 2.OKcne CICTOB8811.38
 
 ### 24.Bwp H OOCuCOKOR ckopocTbIo（cabme 90KM/）
-`datsun_on_do_en_896430d2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.Hapyuea aacpoa eX KOCC aBTOMOOH（CMfipOBepKa TexHCCKOrO COCTOH KOTec,HH CTYnHU").
 
@@ -1435,7 +1378,6 @@ LTleperop ROBaACM 2.OKcne CICTOB8811.38
 3.H3Hoc wapHpon paeHhx yoBux ckopocteR npBo-nosTepeAHHX KOnec（CM.TIpoBepKa TeXHHueCKorO cOCTO-HHA HPHBOQOB nePeHHx KOneCs).
 
 ### 25.VB0 OTPAMOJ OKeNMA
-`datsun_on_do_en_d87a7dc4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.Pa3Hoe aBnenie B 1IHHAX nepenHHx KOneC（cM.
 IIHHS rIpoBepkanannCHHA=).
@@ -1445,22 +1387,18 @@ OYCHHA CHSITHE OUEHHA nepea, AKII onpaH3HPOPHTbH MeCKOR HHTCXO制 IcrrpasHMBero 
 2.Pa3Hag CTeneHb H3HOC8 WMH nepeIHHx KOJICC (CM. poepka TexHeCKOrO COCTOHHA korec, UIVH V cTyonoMKa OHoR  pyKH nepeeR nOBeCKH (CM. pOBepKa TeXHHecKOTO coCTORHHR TepeHeR nOBCKH). 4.Hapyuea perynpoka yrnos YCTaHOBKH repeJHHX KO（CM.y yraoBKH nepeHx Konec -npcbepka"). 5.oOpaae Ooo H3 Xoec aDTOMO6g (CM. poBepka TexHyeckoro COCTORHHR TOPMO3NOR CHCTCCie).
 
 ### 26.YBoaTOMOOgnH TOpMOKHKH
-`datsun_on_do_en_ba46d0ca` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.PE3Hoe naBJIeHHe B UIHHEX nepeIHHX konec (CM. HHEI posepkaanne) 2.HeucnpaBeH OANH H3 TOPMO3HbIX MeKAHH3MOS (CM. aliposepka TeXHHueCKoro COCTORHHR TOPMO3HO CHCTCachl>). 3.IIepexar uuanr HUTH rpybonponon OJHOrO H3 TOPMO3- BX MEXAHH3MOB (CM. TIPOBePKATeXHHHECKOrOCOCTORHHA MO3HOR CHCTCMII+). 4.Pa3Hag CTenIeHb H3HOC&neTancn TOpMO3HbX MCXAHH3- HOR H3OCeA BTOMO6Hn（CM,TIpOBepKaTeXHCro COCTOAHHATOPMO3HON CHCTCMEI"),
 
 ### 27.HepaHoMepuR H3HOc H
-`datsun_on_do_en_db0b739a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.Hepyuera peryHponka yrnoB ycTaHoBkH KoRec (CM. Y yTHOBKH nepHKx Otec npobepkas). 2.HeHcnpaBHocTb npyHH TIOABCCKH (CM.TpoecpkaTexKOO COCTORH eHC OJBCK N CM IIpogepka XHHHECKOTOCOCTOAHHA H nOJBeCKH). 3.HapyHa 6aHcpoka Horo HeCKOJbKHX XO新 (cM.fIpOBpKa TexHecKOrO cOCTOHR KOnec, IUHH HcTynHue). 4.ABTomo6utb Teperpyke UIHSarpyXCHHepasHOMePHO upyHTeaBTOMO6rm).
 
 ### 28.HpesepuAmodr pyaeoro ypae
-`datsun_on_do_en_f41205ae` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.N3HOC OUHKO CTyKu （CM.pOBepK rexHCKOrOCOCTORHHA konec, UHH H CTYNHUe). 2.Bbxo M3 CTPOR HAKOHCTHHKOB pynesbix TST (CM. TpoBepka TeXHHYeCKOrO COCTORHn pyesoro ynpaaemRR). 3.JopyoMexaHHe （c.Ipoepa exHeKorOCoCTOgHHspyJteBoro ynpaRicHHae).
 
 ### K 3x Oeh
-`datsun_on_do_en_220fb377` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.Teperopeaas（C.OcBeeBast cHHaauHR).
 2.OKHCH KOHTT J apOHe （CM.OcBee,CCTOBaRH3BYKOBaRCHrHaIH3BUH>).
@@ -1468,14 +1406,12 @@ OYCHHA CHSITHE OUEHHA nepea, AKII onpaH3HPOPHTbH MeCKOR HHTCXO制 IcrrpasHMBero 
 3.Iopeel poBo HH OKHCH HKOHK HXCOCIHHCHuAx（CM.CxeMbI 3neKpooSopyAOBaH).
 
 ### 30.Oreep 38o rOpRTBnOSKa1
-`datsun_on_do_en_1072af2d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.ILIoxo oa  OspeeHe oBOacoucro Jany (oHaps) MaccoRe(CM. OcaeueHne,ceTOBAgH 3BYKOBARCHIHaH3auKR).
 
 2.3TeHHe oanCM OceeecO H3ByKOBaR CHIIH).
 
 ### 31.Jep OMOOHe OTTC
-`datsun_on_do_en_c1b5b15e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.3aMep3aBOna BJIHHHKC 3aMKa(3HMOR) (CM. TexHH
 geckoe o6cnyKBaHie Ky3oBa). 2.JHa 38MKa 3arpR3HeHa (CM. TexHn4eckoe ofcnty
@@ -1484,17 +1420,14 @@ HILR pyuKa repemHen/aanHen BepH CHRTHe H ycTaHOBKa
 CM.3aMok GaraxHoroOneei 3aMeHaMperypokav).
 
 ### 32.B coo B
-`datsun_on_do_en_5c78179d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 I.HeLOTHo HateT I nOBpeeH yLOTHTeI TPOC ABpH(nopae  aMeHre yoTeb). 2.HeruoHo 3akpbJBaIOTCA JBepH (CM. 3aMOKIBePH = CHRTHe,yCTaHoeKa N prytHpOBKa,HCM. 3MOK6araxHoro OTeH-3aMCHa HpcrypoBka).
 
 ### 33.CTyKeR  O
-`datsun_on_do_en_44f29948` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.H3HoC OceR BneTx JBepH (CMIepeH pb CHATHe HyCTaHOBKa HCM 3aHRRBp CHATHC N yCTaHOBKa>). 2.He 38TRHyThI BHHTII kpenneHUA 38MkA nbepu (CM. 3aMOKBepH CHHTHe,yCTHOBKa HperynHpOBKa\*HCM 3aMOK 6araxHoro oTneeR 山 3aMeHa HperypoBKas).
 
 ### OcHOBabe CaHise rs KonIpong H peita
-`datsun_on_do_en_ce96db2e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 #
 
@@ -1507,7 +1440,6 @@ SNE T cope
 H
 
 ### MOMPHTs 3aTRKKH PeBSonuX CoeHHenR
-`datsun_on_do_en_af656b06` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 r
 L
@@ -1523,7 +1455,6 @@ Iponoxee ra6.u8.1.2
 ![](images/ccd8189104c09e48567769f56563cedf62a34f7226b8f4ae4ec29fa0fae24a78.webp)
 
 ### 国 OTHCAHHELOHCTPYKUNN
-`datsun_on_do_en_0d559be6` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 JnHrarenn -6eH3HHOBble,erbpex-EETHue, yeTpexiHpoBe PRA-pa6o4HMoMOM 1.6πcBePXHHMnonoCHHCM pacripeAenHrenbHoroHKHAKOCTHbIMOXAAXACHHeM.
 
@@ -1572,7 +1503,6 @@ B rene koeryaroro Bana npocsep.eHbI KaHTbL o HM MaCO nOCTyaeT K THHMeC VOX. Bka 
 B 6oke uHpOB BnHen noJOCrb Dg yCTaHOBKH Hacoca.oxnakieOen XIIKOCTH M nPHAHB yctaHOBKH MCHHOrOKAbTpa
 
 ### 国 OTHCAHHELOHCTPYKUNN
-`datsun_on_do_en_90b53d0b` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TeHepaTop PHBOZHTCX B ERCTEHC OHKHHOBbIM pCMHeMOTUKHB8KOneHgTOrO Ba8BHrareg.
 
@@ -1587,24 +1517,20 @@ Bce noplee Kota 6onee ToHKHe, ueM Ha npenAyunx Monenax ABHraTenen, VTO TIDHSBaHO
 opIHHKOPOTKOA IO6KoR.
 
 ### llaTyHN-\*KO.TOTbC.
-`datsun_on_do_en_74694439` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnaTOMOOHb HaxOgTC HarapaHUHON c6cnyxuBaHn,BO 36xHVe norepnrapaHtuNpemoHtvpoBarb aeTOMonnb Cnenyer y onuarboro DMneDa DATSUN.
 
 ### OIHCTKAJBHTATELA HMOTOPHORO OTCEKA
-`datsun_on_do_en_0f96fe17` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 IIpH 3CnyTaLnHTOMOOHsMOTODHbIR OTCEK HHTEHCHBHO 3arpR3HAerCs, HOBOTAHHeOTKy3OB8 H canOHa aBTOMOOHA, OObI4Ho6aCeH BHHMaKHCM nPHnoceIHeNHH ABTOMOOHLIbHbIX MOcK. noToMy nepHonneckH Heo6- XOHMMO TPOBOAHTb OYHCTKy ABHraTnR HnIOLKanOTHOrO nPOCTPaHCTB8.
 
 ### Tpcaynnexsoenne!
-`datsun_on_do_en_64f6aa47` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B MOropHoM orceke pacnonoxeHo MHOO 3neTpOHHbix KOMnOHeHTOe, B TOnCeRNHeekOMHyenpoeot HVCky MoropHoroorcekaannaparaH BICOkoro aBneHvs Kak nocynaioHa 6onreE aeToMoon/bHbixMoek).
 
 LABnoens pao norpeyercn cneLHaAbHILA ONHCTHTeb BMTaTC.TA. 3TOT npenapar coepkHT BbICOKOΦ- KHBHe MOOLHe BCLIeCTBa, KOTOpbie UbICTpO POHHKaKOTCKBO3b croR npHropeateR MacARHOn TR3HH pacTeOPAIOTee BcaMbiXTPyAHOAOCTynHbIx eCTax 6e3onoHenbHoro MExEHHecKOro BOAeACTEHA
 
 ### TiocnenoBareJbHOcTb BMDO.HEHKA
-`datsun_on_do_en_8bc4091a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.ToTOTaB/HBGCM TOMOOHb TeXHHNECKOMy 6cnyKHBaHHIO (CM. OArOTOBKaABTOMO6HnxKTeXHHIeCKOMy O6CAyKHBBHHIO HpeMOHTye).
 
@@ -1627,7 +1553,6 @@ Ang 3auntb neranen AenraTeng OT 3arpR3HeHns M nPnnaHug MM npuBnekaTenbHoro BHeWH
 ![](images/77cce779ef7470b1dfffdb69f2e31808ced7e96536380d5981e6a524e57f5dab.jpg)
 
 ### IBHTATEJID 一 IIPOBEPKA EXHHYECKOROCOCTORHHA
-`datsun_on_do_en_63e365a4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TeXHHHeCKOe COCTOAHHE ABHraren 38BMCHTOTnPOOeraaBTOMO6HH,CBOC EPEMCHHOCTK nPobeneHHg nepnontgcKOroTeXHHYecKOrOo6CTyKHBaH KaueCTBanPHMCHReMbIX SkcnyarauHOHHbIX MTePHaTOB, a Takke KauCCTa BHOIHeHHA PCMOHTa.
 
@@ -1638,7 +1563,6 @@ Da6ore "epemes revrecs NeHHU "oeps O'R 6l DHBHa SoneeA Q4 TexH zerare OUN erocc 
 OueHKY JERrareLR NOKHO n0 DO1OUL xOMnPe WCCKKRCTE
 
 ### IIocnex
-`datsun_on_do_en_b8077a83` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 2.Topuo BOpagHBa EperLreHt ICT0GOM HTo2 OBHxa Te Y no 28 PabHOR BeLX SaCTE
 
@@ -1647,7 +1571,6 @@ OueHKY JERrareLR NOKHO n0 DO1OUL xOMnPe WCCKKRCTE
 ![](images/66e6073baa8f2cd9fbeed8f17815870c848f0e86134f95da82062e24323afecc.webp)
 
 ### 3.CHH D0HI3rOBIK
-`datsun_on_do_en_7748171e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 4 OcMaTI kac.sa Mory BoceCAMb EPOKTAnOt 5.3any KHTPO.T TeHHEMACE
 
@@ -1662,7 +1585,6 @@ XOM(OT Hacoca) CTPSHCSH.
 rareng HR NM 2 Bnna OTCeK nepen bCHHCnapara. encTeo MHRMI Bcno6b! 3T0 enenuanyctui6oraTa
 
 ### IEPKA REI
-`datsun_on_do_en_597f7d04` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 MraTeJLR ,CBOePHOaHHBAHHN YeTaUHLBHCCTBI
 
@@ -1675,7 +1597,6 @@ paboTecBuraTeng:AbMHbll Bblnon nepemewenne CTpenku yka3areng remrieparypb! kpacH
 OUCHHTb TeXHHuCCKOe COCTOSHKEJSHTaTenR CAOCTETOYHON TOVHOCTHIOXOKHO no BHEIHHM p3HaKaMHCOMOLbo OcTyTHoro COopyOBaH(KOMnpeccoMeTp, MAHOMeTP. TeXHH-VeCKKRCTeTOCKOn).
 
 ### IIOCAeAOBaTe.bHoCTb BIIO.HeHH
-`datsun_on_do_en_07d70a47` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IoArOTHBCM aTOMOOH.I K OTHeHHO pa6oTh ByCTaHaB/HBaCM Ha CMOTPOByIO KaHaByHTM 9CTaxany (CM. eTlo,roTobka TOMOHK TeXHeCKOMy OOcAyXHBaHHIO HpeMOHTyO),
 
@@ -1692,28 +1613,24 @@ OUCHHTb TeXHHuCCKOe COCTOSHKEJSHTaTenR CAOCTETOYHON TOVHOCTHIOXOKHO no BHEIHHM p
 KOHTPOAbKaA naMna3aropacTcsH&XOJOCTOM KO五 noc rpesa IBHraTen8 HTaCHC7 C C Enns qaCTOTH BpatneHng KOJCH aroro Bana, TO B03M07 KHO 43HOUCH6 wecrepHKMaCJAHOrO Hacoca, LeRKH KOJCHHaTOrC Bans, BKTaJbIUIN OPEHHbIX M ufaTYHHbIX nonmHnHHKOE Ecns naMna rOpHT nOCTORHHO, TO BO3MOKHO, HeHCTP8BHa CHCTEMA CMB3KK KH naT可HK BPHAHOO BHHA MaCJIa. IIpoBepseM nHHe MECa B CHCTeMe CMa3KH LeMrareng C nomoUbio MaHOMeTpa (cM. vieHHe Maca npoeepka).
 
 ### LpeTnpesaenne!
-`datsun_on_do_en_9dbfc46b` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3kcvtyarauNR aTOMOONnRCHeDOcT8- TOHHbIMaBneHNeM Macna CNCTeMe CMa3KNnpNBOnNTKCepEe3HOMynOBpexneHnIo gBnraTeng.
 
 6.Iocae nporpea Arareng - cyHeMC x ro paore.
 
 ### PeMMCHJAUHA
-`datsun_on_do_en_ad367759` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbinOnHaTe nNarHOCTUKy Hencnpae-HOCTeaenraTene Ha cnyx yAobHocnOMOubIO TexHHecKOro CTeTocKona.C eronoMoLibio MOKHO AOCTATOUHOTONHO onpenenb NCTOVHAK nocto-pOHHerouyMa
 
 ![](images/d3a06c980ec4611539087f46fcf78255dc7defb917f124af97fbb29707d705ea.webp)
 
 ### BHHMMUe
-`datsun_on_do_en_38370285` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bo n3bexaHne nonyyeHus TpaBm, BnonHes cnenyiouyio onepaunio, He kacaitecb NOQBVOKHbx AeTanen ABnrarenR (WKNBbI, peMeHb) NHeDoTparvBaiecb Ao pa3orperux vacren QenraTena.
 
 7.IpH nogBReHHH nOCTOPOHHerO3Byka CTeTOCKOnOM onpen 3OHy,rne TOT 3uyx HaHboee cbuHM. Tloxapakrepy SByka H MECTy HO.TyVCHHH3yka ntA O CToY-HHK 3BykA H BO3MOKHyIO HeHCnpaB-HOCTb.
 
 ### 384e488H
-`datsun_on_do_en_a1adc8dd` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 LokaowH3oHsynonkitkoi ronoB 6noka LunapoB. Kak rpaBuno, CBnAerenbCrayer O HapyWEHNN BaaopoeenpnBoAenanahoe (CM. 3a3opb B npnsoge KnanaHoB rPM -perynvpoBka).paHovepHi wyM.e 3OHe pemwA npuBona fPM
 
@@ -1730,7 +1647,6 @@ nanbLaMn npveener KBbixony 5
 CIPORABNraTeng
 
 ### 8.Ec yecH pcxoa acaa CCOB yTeNKH He OOHaDyeHO:
-`datsun_on_do_en_204f7ca1` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 8)porpeBae aeno paoven Temneparypbl.
 
@@ -1741,7 +1657,6 @@ B)nOCyT6yr EcT Ha 6yre no MaCJRHHIC pa3s0t6 TO HSHOLUERSLHIKHAPO-nopWHeBag rpynn
 r)ecnu H3 CHCTCMN BCHTHISUHH MCTH TyMaH HC nocTynaeT,To npHHoR nOBeHHOrOaCxOaMacna MOKer 6bTb H3HOC Mac.ROCbCMHEIX KOnaykoB（CM MacOcbeMHbie KOnnaukk 一 3aMeHas). IIPH 3TOM y 8BTOMOOHTS6yneTMHbRBbIOn
 
 ### Leevnpokneune!
-`datsun_on_do_en_15edc79c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pabota AevraTeng CNOHOWEHHON LnuHapo-nopuHeaoi rpynnon, HenCrPaehbiMu M8CnOCbeMHEIMN xonnayKAMHWNHaHEKaNeCTBCHHOMTOnnBe nPNBoANTK Bbixony V3 CIPOR karannTeckoro HepanaopaH DaTHNka KOHLleHpauncopona
 
@@ -1750,7 +1665,6 @@ Pabota AevraTeng CNOHOWEHHON LnuHapo-nopuHeaoi rpynnon, HenCrPaehbiMu M8CnOCbeMH
 #
 
 ### TIocJeAOB&re/bHoCTSBUnOHeRH
-`datsun_on_do_en_69046ccc` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OnrOTaBHBBCM aBTOMOHbK nHeHmopaborCM. [onroToBka BTOMOSHAKTeXHeCKOMy O6CnyBAHHIOHDeMOHTy>).
 
@@ -1767,26 +1681,22 @@ Pabota AevraTeng CNOHOWEHHON LnuHapo-nopuHeaoi rpynnon, HenCrPaehbiMu M8CnOCbeMH
 EcnHypoBeHb HHe Meot MIN,AOHBaeM Maclo (CM. Huxe, MOTOpHoC Macio H MaCnRHbn bTP I 3aMcHa=).
 
 ### BMOTOPHOE MACIO HMAC/AHbIJITP3AMEHA
-`datsun_on_do_en_5b17e1ae` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BR 3MCH MCIE HE HOBOMnpoweaem KanHTaIbHNA PeMOHTAaTee ZOK npOH3BOIHTbCRYe-pe3 2500 3500 KM npoera,anee >e3KaxLe15000KM.
 
 O6beMCHCTeMlCMa3KH3.5
 
 ### PesoMeRJAIptH
-`datsun_on_do_en_c77dcddb` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ang bonee nonHoro ynanenne Macna ero cnenyer cnvearsnanporperoro nsnrarenR.
 
 moBe pabor notpey-EOTCR:-CMOTPOB灯 KAHaBE HULH 3cTaka-na;一 CMHHK MCHOrO ITE;-IHPOKas eMKOCTb 06bCMOM HeMeHee4
 
 ### CHRTHe
-`datsun_on_do_en_2093dcd2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IoroTaHeaem EBTOMOOHAb K BUNONHCHHIO pa6orhi (cM. -JOAroTobka ABTOMOOHIA KTEXHNHecKOMy o6cnyKHBaHHIO HPeMOHTyD).
 
 ### ERHE
-`datsun_on_do_en_b625f3cb` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn HaaetoNo6une ycTaxoBneHa 3aunra kaprepa M CHa 3aTpyQHRer QOCTYNKCHBHOMY OTBEPCTWIO CHNMe3aiyyB6pbrokeBren abnonHeHo cneLuanboe OTBepCTNe AnR AOcTyna Knpoke CHBHOrDOTBePCTIR.
 
@@ -1800,7 +1710,6 @@ Ecnn HaaetoNo6une ycTaxoBneHa 3aunra kaprepa M CHa 3aTpyQHRer QOCTYNKCHBHOMY OTB
 ![](images/311171067f087ec83b504b115d89dc3c5fea280377921cedbce9b014ac518442.webp)
 
 ### BAEHAId
-`datsun_on_do_en_e262638a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbinonHes Cnenyiouyio onepaumio. 6yre ocTopoxHbi-Macno ropRveel
 
@@ -1829,7 +1738,6 @@ BbinonHes Cnenyiouyio onepaumio. 6yre ocTopoxHbi-Macno ropRveel
 13. 14 CB CyTCTa HaTE 1
 
 ### IIPO
-`datsun_on_do_en_81da8de0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ECP
 8 /
@@ -1869,7 +1777,6 @@ uratenlb, ykasaTe
 14. 3ayckac AraremKyeknaemCEBTOM, YTD KOHTPOAbHAAJIAMnE 8B3- PHAHOrOZABCHHg Macaa HOaCBHOTCyTCTSYIOT TeuKH M8C a H3 TOAyOTRHTCTbHOIG Cn 点 MacgHoroHipa OOKH CBHO OTBEPCTKA.
 
 ### IIPOBEPKA
-`datsun_on_do_en_6593abd9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 #
 
@@ -1884,7 +1791,6 @@ a)ypoeeHb MacnasnonnoHe kaprepa nVaTnACOOTBETCTByeTHOPMe (CM. YpOBEHb Macna npoB
 Bbnone pabort norpe6yerCAMaHCMeTp.
 
 ### TlocaeaoBare.TkHOcTb BbROJEHHRA
-`datsun_on_do_en_8fd21f54` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IOrOTaIHBaeM aBTOMOGHnb K BOHeHHOpa6oTb(CM.nroroBKa BBTOMObIUg TeXHHHeCKOMy OOcyHBAHMOHpeMOHTy).
 
@@ -1899,14 +1805,12 @@ Bbnone pabort norpe6yerCAMaHCMeTp.
 5.3ayckae Arem HpoepCM CHHe MaCAa HE XOJIOCTOM xoay nnpn HaCTOTeBPaHICHNRKOnICHyaTOrO BOKO10 5400 MHH!.
 
 ### AWNAIHG
-`datsun_on_do_en_ff75c732` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 yucnpaeHoro, nporperoronopa6oewTeMneparypbl, ABurarensnaeneHne Macna Ha oboporax xOnoCToro xonaonHo D ITbHE MeHee 196ka (2bar), naerehve Macna Ha AbicoKON Hactore BpaueHnR KOneHvaToro sana 442 637 kfla (4,5-6,5bar). Ecnn naBneHve HMKe HOPMbI, TO nBnrarenb HyKnaeTCR KaNHTanbHOM peMOHre. EciunasneHne Macna rpn BbICOKON HaCTOreepaLueHvskoneHyaroroBanaBbweHopb, TO, BEPOSTHO, xencnpaeer npenoxpaHnTenbHbn (peyuOHHbi)knanaH MaCnAHOrO Hacoca.
 
 6.11o oKOHHOBepKH yCTaHHBM THK HA MECTO(CM. arunk aBaPnRHOrO naBeHHg MacTa - 3aMeHa+).
 
 ### cJeBreoCTbBn
-`datsun_on_do_en_eff4110a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IoJroaaIHsaeM BBTOMOOHAL Bbinon HOpao（clooa aTOMOLKTeXHHCKOMy oCYXHBHHIOKPeMOHTy).
 
@@ -1943,26 +1847,22 @@ HCnpaBHoro nraTes KOMpecCHA HpXODKHE6hTbHeMeMec 1,0 MIla (10bar), E Pa3HHia B KO
 MoKHO nonbiTaTbcR yCTpaHuTb 3a-neraHve KnanaHoe cneLnaner bIMNnpenapataMu, anveaembMn TOn-nNBHEIH 6aK MnN HenocpeDCrBeHHOLnnnHAP BMF EFTR (CM. "VHC-TpykLnIoN rpenapary). TepMerny-HOCTb KanaHoB MOXHD nposepurbOKaTbiM Bo3nyxom noaeneHe0,2-0,3Mna 3 bar), nogaea-eMb/M vepe3 CeeyHble OTEePCTWR.nogasarb Bosayx HeobxonNMo ripuTaxOM NonoxeHuN pacnpenenn-TenbHoro Bana, korca o6a knanaHanpoeepseMoro GunnHnpa 3akpb/Tbl.Ecnn HencnpeBeH BbinyCKHON knanaH, 803nyx 6yner BbIXCAuTb vepe3CNCTeMy Benycka orpa6oraenxra3oe, ecnn Hencn aBeH BnyCKHONKnanaH 4epe3 ApoccenbHeN ysenEcnn HencnpaBHa nopwHeBaarpyn-na. BO3/yx 6ygeT BxoQvTb 4epeaMacno3anNBHyIo ropnoenHy. BeIxOAnyabipokoe B03Ayxa Nepeaoxnaxna-yIOXCKOCTB pacunpnrerbHOM6avkeCBnAeTenbCyer  Hencnpas-HOCTN npoknankn rOnoBKN 6nokaLNNNNAPOS
 
 ### B.19 PEMEHbIPHBOIATPMIIPOBEPKA COCTORNNA
-`datsun_on_do_en_45d6cb77` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaABHraTeAX Moxer 6bITb yCraHOBπeH IPnBo ra3opacnpeneinrenbHoro MeXaHH3M8 C aBTOMaTHuCCKHM HaTsKHTTCM eHA nHOa IPM HTN.C HETSKHN PCHKOM.
 
 B nocneecryvaerpe6yercspery-nipHo (npu BbInOAHCHHN TO, Kaxkble15000K npobera） npoBepsTh COCTOR-HHC H HHHe 3yuaTorO peMH，MMeHATberoae75000npoera
 
 ### PecnMea#annn
-`datsun_on_do_en_603f81e4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npn Hannyun aBTOMATWVECKOrO HaAXKHOrO CT pOn CT orna T HeobxoDNMOCTO U rpcBepke perynnpoeke HarakeHMR eo,na rPM. TOMy KE rako OE HaynTenben cnyx 6b camoro DEMHg OAHako aer 5blXO/ CPOR HaT KHCFO MexaHMBMa MnN reyb Macna vepe3 canbHHKN BaHCe A.ronanaHne MaG 5 3ybuarbn peMer HBODNT 3Ha4nTenbHOMy CoKpau MO yokOb!. Cpb83ybbEB Ha EMH TpvBEneT HapyweHMio pas 30 eneHHe R4 BO3MOXWO. cepe e3HOMy noepexAennio neMraTena O6pbIBpeMHRHeV36eXHO Bb3CBeT OCTOHOBKY ABvrareng yunTbBaR ece 3TO Ha Aenrarensx aeroMaTHeCKRM HaTPXKHbIMMeXaHV3MOM xenarenbHo nPOBePRTb COCTORHNR PeMHR rPM, anpu o5HapyxeHuM Ha HeMDedexTos 3aMeHTb
 
 ### 8.1.9.I.HPMROLIPM CHIATSAHBN POJMKOM
-`datsun_on_do_en_937269b7` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pemenb npHbona ra3opacnpeetTenbHoro MCXOHH3M8 cneayer npobePATb nPH IPOBeaeHHH TO BBTOMOOH-abte 15.000KMnpobera.
 
 noe pao nopeyeCKON DULA HTRXCHHA PEMHA npHBOnaI'PM.
 
 ### rlocesobarebHocT Bos
-`datsun_on_do_en_742717da` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1 roTanHa aH K BbInOnHeHHOpaOT（CM. To,roTobka aBTOMOGWA rexHecKoMy cbenykBEHHJOKPEMOHTyo).
 
@@ -1987,7 +1887,6 @@ PemeHb HOKH 6ITb CT, 6es TPA3H H MacJa Ha ero nOBepxHOCTH. PemeHb C HaJpbIBaMH, 
 Ecnn nparaemoro ycg HCXBS-TaeT, YTOGbtnoBepHyTb peMenb HaTpe-6yeMbA yron, - peMeHb nepersHyT:CCNH peMeHb MOKHO pa3BepHyTb Ha6b yrO,HaT peMHb HAHTHeJOCTATONHO.
 
 ### Tncavnpexacue
-`datsun_on_do_en_564e2c97` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Hpe3MepHOeHxeHuepeMHA,onaAAHve Ha HeroMacna NrpsaN cokpaLaor CpOK cnyxbbl pemHs. a rakke yCKOPAIOT H3HOCHaTAXHOrO pOKa N roAwnnHnka Hacoca oxnaxnaouen XNAKOCTN
 
@@ -2008,7 +1907,6 @@ PerynHpobaTb HSTRKCHRE PeMHs C.enyeT HaXOIOnHOMABrarene.
 10.VCTaHHBaCM HA MeCYO nepeHO Kpy e 3aTXTKEaCM 6onthee Kpenenks.
 
 ### TIocxenosarenbHocTb BHNTASTAs
-`datsun_on_do_en_afeb5f24` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.ToTOTaBHBaeM TOMO6HK BnOHeHiopabore(cm.lorooka TOMO6H1sKTeXHHeCKOMy ocnKBaHWIOHpEMOKTy).
 
@@ -2030,7 +1928,6 @@ g Bpag N Ba（3a 5o KPenHHA WKHBE HUH 3a3y6uaTbiRBCHeLLM&XOEHKa, epe3 KOHTPOmbHO
 5. CHHMEeM peHHoByio 3arnywky YCTAHOBHyOBBePXHeR YaCTHKapTepa cueILTeHHA.
 
 ### bseH
-`datsun_on_do_en_fad5bfdb` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/fb8ad15ca94091c1a13021ac181a8c86d0cdac60f559cc7f80f1972d051a079b.webp)
 6.TopLoBbM KONOM H817 MMOTBOpavHBaeM 6ont KperLTeHHA MIKHBa KOeaTOro Ba; npH 3TOMnOMOLHHKOTBEPTKOR,CAHHO HepesOTKPbBLueeCs OKHO MeXay y6MH BCHLaMaxoBHka,ynepkBae BaTOTnoBoPaYHBaHHR.
@@ -2040,7 +1937,6 @@ PeMeHbonXeH bbNCT-Ee3 pA  Macna Ho ero noBepxHOCin. Heo6xoDuMo 3aMeHTb pemeHb C 
 #
 
 ### PEMEHb TIPHBOIIA IPM-3AMEHA
-`datsun_on_do_en_a3d0a60e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 5.ocre ocmorpa yCTAHEBTHBeM KpEuKy.
 
@@ -2049,7 +1945,6 @@ PeMeHbonXeH bbNCT-Ee3 pA  Macna Ho ero noBepxHOCin. Heo6xoDuMo 3aMeHTb pemeHb C 
 ![](images/0ee58186a9eb964293cbcbde6032577768ab89a2259dcefb0f1d693a76b8933e.webp)
 
 ### 8.1.10.1.HPHBOATPMCHATSUKHHIMPOOUNOM
-`datsun_on_do_en_4607239c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 (CM. BTOPA, raihcy 33,23- nepe'HBaeM
 
@@ -2066,7 +1961,6 @@ Cxema nPiBOLs pacnpeae.trebnoro 2 -3y6THA TOID B开 1 rarers; Ua na01 EHel xpbur
 7. CHHMEeM LKHB (CM. flpHBOn TPM C 8TOMaHNCKHM HaTAKHTeJeM\*).
 
 ### CHRTHe
-`datsun_on_do_en_99afc852` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHa nepeoopby pe-HpBOaFPM(C.PeMeHbporPM-POBepKCOCTOHH).2.CHHMECM nepennee npasoe KO-neco H 6pSrOBHK ABHraTes (CM.-flposepka TEXHHYECKOrO COCTORHHAnBHraTens).3 CHHMaeM peMetbreHeparopa(cm.PemeHb npneoa reneparopa- 38MC-Has).
 
@@ -2075,7 +1969,6 @@ Cxema nPiBOLs pacnpeae.trebnoro 2 -3y6THA TOID B开 1 rarers; Ua na01 EHel xpbur
 8OTBopaueaeM raaky xperuieHug HaTRKHOrO POnHKaHMaKCHMaIbHOOCna6sem HETRKeHHe 3y6oropeMHg (CM. PeMeHbnpHBoa IPM-rpobepKaCOCTORHHR).
 
 ### YeTaHOBKa
-`datsun_on_do_en_6b5260d7` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 9.CHHMaeM 3ya pemeHb CO IIKHBOB.
 
@@ -2104,12 +1997,10 @@ PeMHA, HaneBacMcc Ha IKKB pacnpeZeTHTeJThHOrO Bana:nponyckacM ptMeHb CHHyTPeHHeR
 7.YCTHHEM HB MECTO nepeAHIOIO KpblLy pOMHA poarPM, peMeHb reHeparopa HACTI,CHRTIC TIDH pas6opke.
 
 ### CHRIMe
-`datsun_on_do_en_571207d0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IOJOTIHBaM aTMOH KnHeHo paor(C.OroToKaRBTOMOOLULS TeXHHYecKOMy obCnyK-BHnO HpeMOHry).2. CHHMaeN BepxHIOIO repenHionokpbuky PeMER pHBot TPM (CM.PeMeH pHO rPM 二 oposepkaCOCTORHHA,).
 
 ### PaKUMHURE
-`datsun_on_do_en_08007635` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnNCHnMaerepeMeHbnpuBoa rPMHen 3aMeH,MapepoM nOeeHanpasneHve ero BPaLeHna. npuc6opke ero cneayer ycTaHOBNTb BCOOTSETCIBNCMETKON.
 
@@ -2126,7 +2017,6 @@ EcnNCHnMaerepeMeHbnpuBoa rPMHen 3aMeH,MapepoM nOeeHanpasneHve ero BPaLeHna. npuc
 MEIIeHHA METOK HakHBe pacnpe.e nebHoro Baa C METKOR KE 3HR KpbLKe peMH npHBOaaIPM.
 
 ### ANeNOMNE
-`datsun_on_do_en_3072863d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3roonoxeHne6ynercoorserctaosatb nanoxeHo KoneHNaTorD Bana B BMT Takra OkaTi epeore LwnHapa (CM. pVC, C Bblue) Bpausarb KOneHHaTol san3aGonrkveapacnpenennrenbHooBanaHe onyckaeTCR pnBbinaine HNCenyiouenonepaLvnkoneHuab Ban MOXHO yaepxyBarb wnnueeon OTBEPTKON 3a 3ybyaTbi BeHeu MaxoBbxa, BbHya peaNHoeyo 3ary Lxy, yrTaHOBneHHyioBBepxHe 4aCTHkapepa cuenneHHA. Ha aeToMobnne CMKn GOnTLKNEEKOneHMaTOro Bana MOKHO OTsepHyTb, ecnn NOMOWHNK BKNIOYNT BbiCyio nepenauy M Haxmer nepanb TOPMO3a. Honpn3TOMoneHabBan MOeTHEMHOONOBEPHyTCR NIO3TOMy HeobxonMO noropHo y6enubCR cOBnaneHNNBcexMETOK
 
@@ -2151,7 +2041,6 @@ MEIIeHHA METOK HakHBe pacnpe.e nebHoro Baa C METKOR KE 3HR KpbLKe peMH npHBOaaIP
 12.CHHMaem peMeHb npHeonaTPM.
 
 ### VeTAHOBKA
-`datsun_on_do_en_49a5a38d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.HaaeBacM HOBLB pemerb,npokaJbBas crO BCTBK BCOOTBETCTBHHCDHCyHKOM(CM. Bbe),Hy6exnacb, VTO METKa Ha 3y6yaTOM IIIKHBe KOnCHuarOro Ba/la pacnoJIokeHa HanpOTHB npHJHB3, BbnOJHeHHOro HaKOprye MacUIHCrO Hacoca.
 
@@ -2174,19 +2063,16 @@ H KHOVOM H 15 MM 38TRTHBaCM 6Tro KpeTUCH MOMeHTOM33,2- 41,2H-M（3,4-4,2KC·M).
 6.locAe COBMeIeHg BCCX MCTOK, YCTaHaR/HBaeM CHRTNe C BBTONOOHLA BeTUIK HE MCCTO.
 
 ### UHUUS
-`datsun_on_do_en_d24721b9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ECv npn pabore nenrarens. B30He non nepenHnn KPbIWKaMN PeMHA npneona rPM pOCnyLHBaeTCRGb HbM wym epauaomerocr noAWNnHka (CM knposepka TeXHINeCkoro COCTORHMRCENTATEnRN cnenyernpoeepnro COCTORHNE TKHOrOpOnnka WnPNHeObXORNMOCTH3aMeHNTb 3T0 MOXHO cnenarb 6ea CHRTMRPEMHA Taxxeponnk chenyer 3aMeHRTb npM pernaMeHTHOn 3aMeHepeMHArIpnB006 fPM (CM. aPemeHb npuBona TPM-3aMeHax)
 
 ### Pkemenaa
-`datsun_on_do_en_10b12323` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Tpn 3amene HATRXHOrO ponnka 6e3CHRTWS ayb4aToro pEMHA eCTbpHCKnepeckakvBaHue peMHR yepe3 3yObgWKHBa, YTO npueeper K CMeLWeHNIO中a3 ra3opacr peneneHns. noatoMy,nepen TEM HaTRKEHVEPeMHA, COBMeCTHTE MeTiy Ha WKNeepacnpenensrenbHoro Bana BbICTy.nOM Bapeen KpbIwkN peMHg (CM.ePeMeHb npneona FPM = 3aMeHax).flocne ycTaHOBKN ponuka MeTka HenOnKHaCMeCTNTbCR
 
 2.Ocna6 y raRKK xpent-ACHHX HaTSKHOrO POHKa(CM. -PeMeHbpoa rPM npOBepka COCTOHH-)HnOHOCTbIO OTBODESHBACM.CC.
 
 ### 8.1.11.I.TPHBONIPM CHATSKHNM POINKOM
-`datsun_on_do_en_1688e2e2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3.CHHMBe OHK co DIHAbKH, epag peenb B HATRHYTOM coCTORHHH.
 
@@ -2209,12 +2095,10 @@ LAO1iA
 6.VcraHHBeM npIH KpauutKy Mg On TPM.
 
 ### IiocneaOTHocT O
-`datsun_on_do_en_3ce19790` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.orOTBTHM aOob XHpaocM.oroToHTOMOOR TeXHHHeCKOMy obCy-BHHOHpeMOKTy).2.CHHMCM BePXHOI nepezHioioxpbuIky PCMHR npneona TPM (CM.<PeMcHb npEBona IPM -npobepkaCOCTORHHRA).
 
 ### 0
-`datsun_on_do_en_3f043020` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Tiocne OCnaOneHHR HaTRXeHNA PeMHR npuBone fPMecropucx nepeckakH
 
@@ -2225,7 +2109,6 @@ Tiocne OCnaOneHHR HaTRXeHNA PeMHR npuBone fPMecropucx nepeckakH
 ![](images/c9974dabac5f7ed53cdccb428e0bb72ad90609a776be27134708494b58b91a74.webp)
 
 ### YCTAHOBKA
-`datsun_on_do_en_47f13a51` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.YCTaHaB/IHB8CM ABTOMATWYCCKHA H8TSTeTb,Ke HH6oKpenπCHHR.
 
@@ -2234,7 +2117,6 @@ Tiocne OCnaOneHHR HaTRXeHNA PeMHR npuBone fPMecropucx nepeckakH
 VeraHaBTHBAeM CHTTSIe HTIH B nocnenOBRTeIbHOCTH, O6pETHOA CHATiDO,
 
 ### CHaTHe
-`datsun_on_do_en_00362947` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1TogrOTaaIKBaCM aBTOMO6Hi K Heanpaorr(CM. TTouroToBka TOMOsKTeCKOy oHBaHHIOHpeMOHTy\*).
 
@@ -2255,7 +2137,6 @@ VeraHaBTHBAeM CHTTSIe HTIH B nocnenOBRTeIbHOCTH, O6pETHOA CHATiDO,
 nospexgehhbe pe3nHosble BTynKN HeOGXOQHNO3aMeHNTb.
 
 ### 6.CHHmaem kptuKy,
-`datsun_on_do_en_16bee8de` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/c8dd7a2d0e5fe4f058d1ddc274071b09f9bea2eea94023fb6b6f7df004b6cff4.webp)
 7VBeKa npoKtAaxy H K KM.
@@ -2281,14 +2162,12 @@ ipomhiaca
 6.CoOHpacM MacooreHranBo6 PaTHOH noCneROBaTebHocTH.
 
 ### yCTaHONKA
-`datsun_on_do_en_1b2f5cb0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.YneeM OcTaTk MaCna C npanONHOn noBePXHOCTH TOTOBIG 6noka LWIMHIPOB, K KOTOPOA nPHKHMaETCR npOKIaaKB KpbIuKK.
 
 2.VKTanBaCm HOBYTO npoxnankyB Kpbtuky.
 
 ### Hconproewd
-`datsun_on_do_en_14f54837` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Paanycbi CnpaBon N neBon coPonbl Kpnpa3He.YeuecBTOMTO npoxnanka ycraHoenenanpasuibHo.
 
@@ -2298,7 +2177,6 @@ Paanycbi CnpaBon N neBon coPonbl Kpnpa3He.YeuecBTOMTO npoxnanka ycraHoenenanpasu
 4.cTHB KI rOO 6noka UHIHHAPOD B nocrenobaretbHOCTH,OOPETHOR CHATHIO.
 
 ### locneno THCHH
-`datsun_on_do_en_892c6add` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHMaeM peCHb pHBO rPM (CM. PCMCHb npHBOrPM - 38MeHas).
 
@@ -2310,7 +2188,6 @@ Paanycbi CnpaBon N neBon coPonbl Kpnpa3He.YeuecBTOMTO npoxnanka ycraHoenenanpasu
 ![](images/a47a2d3330494730045f3db5222b35e4eb8943f975cea2a5fac356f4a99c133c.webp)
 
 ### Epevnne tenne
-`datsun_on_do_en_6c31a5e3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 p BnonHeH cneAyouen onepaunn He nouapanaite paboyyo noBepxHocibBa/ia.
 
@@ -2333,7 +2210,6 @@ p BnonHeH cneAyouen onepaunn He nouapanaite paboyyo noBepxHocibBa/ia.
 9.VcraHaBHaaeM RETaJH, CHATEIC nptpaabopke.
 
 ### UEN
-`datsun_on_do_en_2efa1b27` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 DURKOMneHcaUuN rennosoro pacwlPeMMR 4 MexayKynayKOM pacnpen 1OrD BanaM TOnkana XOQNM 3a3op AnRBn CKHbIx KanaHoe BasoPAonker COCaBnT MM, apngBbl TyCKHbIR Saranos 2 30-0.40MM. Ba3op 3anaercA non6opom TOnHE! perynupoBoMHbix wavi6. LWasibblycraHaBnHBaoTCR MMWy, pacnanaxeHHyio HaTonkaTenaxcbepxy.YrobbiyoobHee 6bnoV3enekaTb wanibb!, HaBepXHHX KpOMkaxTonkarenencnenaHtlra3bl.
 
@@ -2346,14 +2222,12 @@ Pa3epuanEei naHeceH Ha ee Hepa6oyen noBepxHocTH.
 Patoty yAoGHee paaAennts Ha Aea sTana. CHauanaN3MepTb3a30pb pacCNTaTo TOnLHHy HOBbIX Wan6 { yoxe 3aTeMnpnObpeCTHycaHOBNb Hosblewanibbr
 
 ### O pa6otu aorpeby. IOTCR:
-`datsun_on_do_en_e6dd4801` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 -Ha6op uockx uyoB: -nHNuet; -MMKpOMeTp (c npenenom HmcpeHH0-25MM） -npcnocoee peyno KK3830pOB.
 
 ![](images/22ec100d7eab7b2cf902c4c7a8148fc4618ac7bfef194af928777c8ed204a5c3.webp)
 
 ### IIocjiex TEJbHOCT EOTHeHE
-`datsun_on_do_en_d87e5dd9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IOrOTeIKBM TOMOn CBHeo poTbl （C fonroTo8kaaBTOMOGHTA TexHHuecKOMy oocy-BAHHIOHpeMOHTy\*).
 
@@ -2403,7 +2277,6 @@ Tana 8.1.3
 11 Pacc4Hnaeu gasop HoBol peryJIMPOBOHHOn uan6bi no@opmyne: a)UBnyCKHIX KIaTtaHon 2 0,2MM; 6)BJnycKHbXKnBnHOB Z=Y+X- 0.3MM, rne Z 一 PacHeTHa TONHa HOBOA perynHpoBR u,Y-oHA CHETOR atX -3a3op,openeJHno yny 12.1o6paem oeyo a6y KCTOPOR O 6 KPaCHeTHOR （±0,05MM） 13.VcraHaBHBaeM HOByIo uaR6y D TONKaTe,Tb(MapKNpOBKOR BHH3). 14. TOJKHMaeM TOnkarennpRcnD. CoOneHHeM H yn CHKcarop. 15. CobOag nBeHOTb, yKa3EHHyJo B Ta6n.8.1.3, npobcpaeM H perytHpyem 3a3op B pBone Apyrax KIRNBHOB. 16. CHB JpHcnocoTeHHe nLs pcryJvpoBKH KnanaHoB, yCTAHABIHBACM CHTaBnOcneoBe/bOCTH o6parHon pasbopke.
 
 ### CRATHe
-`datsun_on_do_en_1dbe5963` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CeoPM（CMPe poPM 3aMCHao).2.OTBopaHa ralky 1 H 6OnT2BePXHerO KPCHR 3He KKHpeMHR IpeOnA TPM.
 
@@ -2444,7 +2317,6 @@ neaeyeeKIO anyiH. IoapexeHoe ynoTtbHOeKOnbIO3aMCHACM.
 11.CH Cpacneoro BaTa caTbHHK.
 
 ### YCTABOBKE
-`datsun_on_do_en_71a90602` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.Cabae we pacp HOTOBaTaHCTHMMOTOPHELMMaCTOM.
 
@@ -2469,7 +2341,6 @@ neaeyeeKIO anyiH. IoapexeHoe ynoTtbHOeKOnbIO3aMCHACM.
 6.VcraHncM npcnoco6eHD8 pCCyXapHaHHR KtataHOB Ha LHTbKHTOJIOBKH 6ka HpoB. 7. Hauky PHCnocoeHHx yHpaeM Brapenky npyKHHt.
 
 ### Dpeaynpcaseme!
-`datsun_on_do_en_7fceed23` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Tpu BbnonHemnCenyouenonepauwHe niouapanaiie paccyxapusarenem CTEHKN nOCanONHOrO DrBEPCTHR TOnKaTenR B ronoeke Gnoka LHApoe.
 
@@ -2505,7 +2376,6 @@ HbIA pOB, peM
 5.3peccou HO CaK pcpeue.Toroa（CCa DacnpeneLHTenhHOrO BVIA-3aMCHae).
 
 ### DUMACJIOCbEMHbIE KOVIAIKN -3AMEHA
-`datsun_on_do_en_fff437c3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/31710ce0eeb68b779a82771eeaed012b36c8e179463cd34887af8f5191432af9.webp)
 
@@ -2546,7 +2416,6 @@ HBHyTpenuoO PyKHHIKnanaHa.
 ![](images/cf64de15a722b59274f54fd6cd395f30c80b43b4b0e1c50fcd435a4593301baf.webp)
 
 ### yeTAHOBKS
-`datsun_on_do_en_c7e5f9ad` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.VcTaHaHBacM onopHyiO wal6y TpykHH (eCHOHa ShLiaCHaTa). 2.HaHOCHMHCTO MOTOPHOC MCO H&pabovyio KpOMKy HOBOrO KOJnaKa HCTCPKCH KnnHL Haacaacm HH CTepOKeHb KhanaHa cneuHatbHyio UIACTMECCOByIO onpaaKy（xoyo BKOMKT HOBbIXKONnKOn)TaK,TOO OHa 3akpnpoTO-KHH&CTEPXHO.
 
@@ -2563,7 +2432,6 @@ npNOTCyTCTBN OnpaBKH KOnnayOK cnepyer HaReBaTb CHeHb arxyparHo, TOHenopeaar xpom
 5.JlerKHH yupaH MonoTkanoon paBke HanpeccoBEJBACM KOTnayDK He BtystkyKnertaHa.
 
 ### 中
-`datsun_on_do_en_0e33740d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 LInR HanpeccoekN xonnauka MOKHO NCnOnb3oBaTb TOpLOobInKnIoyCrny6oKoNnBeHanuaurpaHHoNronoBkon Ha 11 MM WiNweciwrpaHHON ronoBKON Ha 12MM.
 
@@ -2574,7 +2442,6 @@ LInR HanpeccoekN xonnauka MOKHO NCnOnb3oBaTb TOpLOobInKnIoyCrny6oKoNnBeHanuaurpa
 9.VTHBBCHTHaHB nOCJIeOBaTeHOCTH,o6paTHOR pa3- 6opke.
 
 ### CHRTHe
-`datsun_on_do_en_32d03ec9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. CJIHBaeM H3 IBHraTOnA OxTaKAIOuyIOXHKOCTb (CM Oxnaxaoan KHKOCTE 3AMCHE 2 CHHMaCN HAKOHCHHHKH BHIcokOBONbTHbIXPOBOAOB CO CBee CHHMaeM Kpy rOoBH 6a UHHHPOB (CM. TIpoknaIka xPbiwKH FOnOBKH 6noka UHIHHIPOS - 3aMeHa>). 4. CHHMaCk LUKHB pacnpenennte/TbHOrO BaA (CM. CaTbHHK pacnpenermTCJbHoro Bana-3aMeHa>).
 
@@ -2595,12 +2462,10 @@ PacnpenH Ba- CHRTHCH yctaHOBkas),
 ![](images/afbafe191b80056294cf621b98445d4a53012e5ca680cbb6d0fac8baf7d939ec.webp)
 
 ### YeTAHOBKA
-`datsun_on_do_en_442931b1` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. IIpoMbiBacM ronobky 6noka UMNHHAPOBOT rP83H H OTNOXCHHA kepoCHHOM HUtH H3C 1 TOTLIHBOM MeHLH mrpHLem UIH rpyweR CN HP C356OBIXOTBCPCTHA 5 O LH no SOITM kperieHHR ronoak 6noka) OCTATKH MacaH XoueR KHUAKOCTH OTHHRCM IPHBAAONHEIO nnocKOCTH TONOBKHH6nOKALHINHAPOBOT OCTATKOB CTapOR npOK o5e3KHPHBACM nnOCKOCTHPACTBOPHTeneM.
 
 ### ynDeX20
-`datsun_on_do_en_4996c5d4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npn yctaHoeke ronoBkn 6noka LNnHapos Bcerna ncnonayte Hoayio npoknaAky. nonegaHne Macna Ma nosepxHoctb npoknaakn He ponycKaeTCR.
 
@@ -2623,14 +2488,12 @@ epeBopaye ooy3aHSCMCC BHTPCHHHC nONOCTH UH OXKOLACRKHAKOCTH KPOCHHOM.
 H 0
 
 ### w nee
-`datsun_on_do_en_458c6cee` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 2.OMe Oky oa H Harapa, OTMBACMCeOTMCLRHIXOTOXKeHNA, MOTALTNeCKORHeTKORyRnICM HarapcoCTeHOK KaMepCrOpAHHg.
 
 7.WTaHreuKyM UN cnecapmOA CRKOR 3MPAEUHHy 6on.oTo 6ee 135,538- WCHRCM.
 
 ### ocnenoaTe.HocT AEOTNCHNE
-`datsun_on_do_en_134d6544` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 MaKCHMabHOOnyCTHMA 3830p0,1MM.
 
@@ -2649,7 +2512,6 @@ Ans 3toroHeobxonn enabHn wa6noH, HO ecnnero HeT,TOnpose PMTb HKHIoNO npvBanoHHiO
 pyHA geLH
 
 ### PienesDAn
-`datsun_on_do_en_0596c33b` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5c103f29206a932a1a70d6bed81db0a24622213ef0640e99d740528f647690ef.webp)
 
@@ -2669,7 +2531,6 @@ EHyOBe epocBK6yb Kamepe noacR, = HerepMcTHNCH OJHH HIH oSaKanaH.
 ![](images/dfdcf4ff46f0ccb22ee43c1faf91f4c5668b768362d62748ecab4a578963d116.webp)
 
 ### IIpnrepka
-`datsun_on_do_en_b4ba4127` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHHMeM MCnOCHER KonraHOK C XIAnaHa (CM. MacnocbcMHbIB KOAKN / 30MCHa-). 2.BHHMaM MnAH H3 HarpanigIOLLCR STYIKM.
 
@@ -2694,7 +2555,6 @@ EHyOBe epocBK6yb Kamepe noacR, = HerepMcTHNCH OJHH HIH oSaKanaH.
 8.AHAJOrHUHO npHTHPAeM OCTEUIbHbFe KnAnaHh. 9 Toce nPHPKH nOTOpHO npoBperepMCTHuHOCT KHOB （CM suue). 10.Ecn KePocHH HC yxOLHT, ycraH HOSIC CJOCMH KONNKHM KAAnax nocTeDOBITeJTbHOCTH,O6pATHOCHRTHIO.
 
 ### Ciunwe
-`datsun_on_do_en_2c93f287` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 L.CeePMc PeeHbTpHaIPM-3Ha) 2.CHHMCM sy6yarR WKHB C KOJCHUPFOrO Baa.
 
@@ -2705,7 +2565,6 @@ L.CeePMc PeeHbTpHaIPM-3Ha) 2.CHHMCM sy6yarR WKHB C KOJCHUPFOrO Baa.
 ![](images/1929f8382841aa3a79f18954f31e4b13cc96843f43c5324068a41723f0c62e83.webp)
 
 ### TIpeasunbmaenne!
-`datsun_on_do_en_ce2ce27c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pu Nseneueu CanbHnka He nouapenaitepabouyio nosepxHoctb KoneHuaroroBana
 
@@ -2716,7 +2575,6 @@ pu Nseneueu CanbHnka He nouapenaitepabouyio nosepxHoctb KoneHuaroroBana
 ![](images/5f036667a42af56fe04cc580d3ff9ef2f571c3caa52141fb6ca8980c1c63f09c.webp)
 
 ### Tpeteexton
-`datsun_on_do_en_18062712` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.HHOCHM HCTe MOTOPHOC MaCO Ha paGoyyiokpoMKy HOBOrO CEJIbHHKa
 
@@ -2731,7 +2589,6 @@ YCTaHaBaRa,Opanye TO wnoHka npN 3TOM He Bbinana N3.na3a.
 4 .YoTaRABUHBaCM peMeub nphbona TPM,uKHB KORCHYATOrO B87B TIOCJeOBaTebHoCTH,OOpaTHOA CHATKIO (CM. PeMeHb pHOn rPM 一 3aMcH8). S.IanHeRuyio c6opky BHINOIHACM B noCJIenOBTeIbHOCTH,OOHOR pa36opke.
 
 ### CiTse
-`datsun_on_do_en_4368dd61` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/c622daa727c9b5b389abd862cffbba8e2538f095b9d8e262ce87b61b096d17cb.jpg)
 
@@ -2763,7 +2620,6 @@ MLR HC
 p HCOOXOHMOCTH CHMCM CHUB/OUHX BTynOK BepXHIOIO KPxy kaprepa cuerieHHe.
 
 ### YCTAROBKA
-`datsun_on_do_en_b359ad2d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 #
 
@@ -2774,7 +2630,6 @@ YHaBMaXOnKBOOpaHOR DOCRCOBaTCIbHOCTH BCOOTBCTCTUHHC weTxoR,cneaHHOR pHpasbopke
 epaopaee REHRMaXOsvaHaHeCHTeHaXpeab6oByo uacTbncatoppebt
 
 ### 0.1.2 HOJOH KAPTEPA BNTATEIS 一 CHHTHE,3AMEHA IIPOEJIAIKHHYCTAHOBKA
-`datsun_on_do_en_eb1421c2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Maxosnk ponKeH 6bITb yCrBHOBneH Hd KOneHHATbI Ban TOnbKO G OIIHOM nOnOkeHNN. Ecnn CnenaHHaR MeTka crepnacb, MOXOBMK MOXKHO ycraHOBTbHaBa MeTke AR FDVO HOI CIO OHeMaKoshka ceep neHa nyHka npn ycT aHOBke MaxoBHka H8 xoner aTbIN Ban, MeTka DOKHa pacn onan 5 HanpoTve aTyHHONWeikn YerBepTorOUnnnHnpa. He nepenyravre Merky banaHcupoBOHHD MnyHkaMn,OTopbeCenaH cepnom 6onbweronnamerpa
 
@@ -2797,7 +2652,6 @@ YCTEHOBKS
 ![](images/010f9d4537b1cc5ec5a2fad03c14bbafc13e80552478dbbed7ffbee2a190ad4e.webp)
 
 ### CasTue
-`datsun_on_do_en_d3829006` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/af796d833aa5dba1404434cb0352be9d14552d6aa88b8bbae60b99e5f311a374.webp)
 
@@ -2809,14 +2663,12 @@ YCTEHOBKS
 4.KJOHOM H&1O MM OTBOPaUHBM 16 60oB Kpe oa kaprep8JBHraTC/Ls.
 
 ### 3AIHHH CAIbHHKKOJIEHHATOTOBAJIA-3AMEHA
-`datsun_on_do_en_d930f634` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/6ca00353241b48efa44ec89e2a19b75fda2cf17536aee942596de6bafff7fd1f.webp)
 
 ![](images/934e6766db2c3c96f6ac7b971fa5b2cf367b9725ec1ea524291749a53dbb3d54.webp)
 
 ### BA
-`datsun_on_do_en_031a607b` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHHMeM MaXOBHK (CM. MaxoBHX-CHgTHC HYCTAHOBKa>)
 
@@ -2827,7 +2679,6 @@ pn BbinanHehnn cnenyiouen one pannn He nouapananre paboyyio noBepxHocTbKoneHHaTo
 2.euyo coopky nBHraTenR BHNOAHAEM BHOCnenOBreTbHOCTH. obparHoA paabopke.
 
 ### haesanne
-`datsun_on_do_en_463dbe12` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 noA ronoBkamn 6onroe nonnoHa yaHeneHbypbe ab-e norepgiTenx.
 
@@ -2836,14 +2687,12 @@ noA ronoBkamn 6onroe nonnoHa yaHeneHbypbe ab-e norepgiTenx.
 ![](images/887d35e75f4d2da7807a7a70ef33cba547a5602dd32eb037decfade0014d7935.webp)
 
 ### yeTAHOUKA
-`datsun_on_do_en_1dfaa58a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 YCTaHHBM OUAOH OOTHOA nOCnCAOBTeAbHOCTH, 38MCHHE nOBKHHyIO HUH oTe BWyo3racTHyHOCTb npokta,aky.
 
 LLrg PABHOMEPHOrO pacnpeneneHHs poKH oT pen nOLAona KpTepa 3BopaBa B HaTpaHHH OT cepeHHl KKpas.
 
 ### Casrue
-`datsun_on_do_en_de222b58` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. CHNMACM nOnnoH KapTepa ABNrareg(cm. flonxoH Kaprepa CHATHC, 3amcHa rpoKISRKH HyCTaHOBKa+).
 
@@ -2858,12 +2707,10 @@ LLrg PABHOMEPHOrO pacnpeneneHHs poKH oT pen nOLAona KpTepa 3BopaBa B HaTpaHHH OT
 CoeAHHeHne Macnoga6opHnka C Hacocom ynnorHeHo PeaNKOBbM KonbLioM.
 
 ### JIAY
-`datsun_on_do_en_3311473c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 bonrKpenneHns Macno3a6opHnka K MACnRHOMy HaCOCy AnNHHee, 4eM 6onrbkpenneHRMacno3a6opHkaK KpbWke xOpeHHoro noWunHAka
 
 ### CHATBe
-`datsun_on_do_en_7af55480` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. CHHMaeM 3y6TA WKHB KO-neMNaTOro Bana 3 ero unonky (cM.-DePCAHHA caJbHHK KOMCnYaTOroBB-3aMCHa).2 CHHMaCM naTHMK nOOHKg KO-HTOrO Bana（CM aryHk nonoxe-HH8 KO.eHyaroroBaUle -CHRTHe,pOBepKa H yCTaHOBKas).3. CHHMaeM Macno3a6opHHK (Cm.MacAo3abopHHK 一 CHRTHC HyCta-HOBKas).4 TOPUOB UOHO 10MOT-BOpagHEaCM WecTb 6o/ToB kperne-HMR MACHRHOrO HACOCA K Enoiy LLH-SHHAPOR.
 
@@ -2873,7 +2720,6 @@ bonrKpenneHns Macno3a6opHnka K MACnRHOMy HaCOCy AnNHHee, 4eM 6onrbkpenneHRMacno3
 ![](images/185d8364b636ee7e490d6a71fb0871a0217cab20d2469df03beed8cde18557c6.webp)
 
 ### Pas6opu
-`datsun_on_do_en_267efe47` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OO5 OTMWeCT6oToTrHaOUX KOprye cocs H KpHy
 
@@ -2899,7 +2745,6 @@ UX To rep
 #
 
 ### yCTaHOBEn
-`datsun_on_do_en_478c43f7` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 VCTaHaBJHBCM MaCO3a6OPHHK O6paTHol nocneaoBaTeTHOCTH npenBaPHTenLHO sameHuB noapexneHHoe HIH norepasuiee ynpyrocrh ynsorHnTeIbHOe KOIbLO
 
@@ -2914,7 +2759,6 @@ Hpobka penykunoHHoro (npenoxpaHnTenbHoro) KnanaHa 3aTRHyTa GonbWuMMOMeHTOM. Tipn
 S.IIpOMNBa TH Hacocs DH3e1bHbiM TOTLMIBOM HUH KepOCHHOM, SbTHPACM nacyxo 1 CMaSHBaCM wecTEPHKHHCTDIMMOTODHNMMaC/IOM.
 
 ### Iposeprs
-`datsun_on_do_en_5044e64a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OcpB8eMeTaMaCHroHacoca. HA HHX He JOLKHO6bTb Ce-308 CH.IbHOro H3MOCa. Hasanaknaa-HHA MeTaa,TpeUKH HnpyHx noB-pexzennR.
 
@@ -2931,7 +2775,6 @@ Avamerp nocanoyHoro MecTa BenoMOi wecTepHN KOpnyce Hacoca He nonkeH npeebluatb 7
 4.VKBaem benyyo ecrepHIO kopnyc MacnsHoro Hacoca. TIpOKHB CnecPHOHHEtKH KnPneanCnHOA HOBePXHOCTH xopnyC8MaCIHHOTO aCo 60pomocKHX uynos onpenenseM 3830p MeOkay pe6pom THHERKH H mecTepHeg. TOBTOPAeMpoBepky CBEAOMORUIeCrepHen.
 
 ### PeKOMCHUAN
-`datsun_on_do_en_e5e52505` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha CHSTOM Hacoce pekOMeHAyerce epe K oneH aToroBanayaosnenwxe Hecoca (CM.epe canbnk xoneHuarorosana -3aMeHa>).
 
@@ -2942,21 +2785,18 @@ CoHpaeM HCOC B nocnenobare.ibHOCTH, o6paTHoR CHRTHIO. TpH 3TOM BeOMAs CTePHA OK 
 Beryuax ecTepHaKa 6bTbCopMCHTHPOBaHa nPa yCTaHOBKe aHaJIOPHAHbIM o6pa3om: ΦackaMH Ha 3y0bRX-KKopnycy Hacoca.
 
 ### VCTEHOBKA
-`datsun_on_do_en_37112676` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 YCTHABUTHBBCM MCIRHE HCOC 专 nOCAC,OBTe/bHOCTH,OpTHO CHTHIO, 3AMCHHB npokranKy Mexy HECOCOMH6OKOMIHHAPOBHB HOBYIO
 
 ![](images/23cfed26255b89037101b3cd27d74cb4b7bb6f59c5b6d21b2696c9f55127f0dc.webp)
 
 ### BHIOPUIHEBIE KOJILA HUIATYHHbIEBKIA/IbIUIN 一 3AMEHA
-`datsun_on_do_en_a05c9a9a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TopuHeBbe KOntbLa 3aMCHIOTnPH peMOHTe aTyHHO-nOpUHeBOR rpynrb, TIPHHX H3HOCE HAHHIOBPEXOCHHK. Takoke KORbLa 3aMCHRIOT nPR KanHTa6HOM eMOHTELBHraTCRA.
 
 xaorpeyecOrPaBKE Ug nOPUHeBbX KOeLL
 
 ### CnuTHe
-`datsun_on_do_en_61aa9253` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHHMaMroKy 6rOKALIHHA-
 pOB(CM. TonoBxa 6OKA LHTHHAPON
@@ -3003,7 +2843,6 @@ CHUMNTe CnopHs nonocy BMecre C KOnbLOM. AHanorHbiM C6pa3OM CHHMNTe TOpOe KOMNPeC
 Lenecoo6pa3Hocrb3aMeHblkoney3aBNCHTOTCTENEHNN3HOCa LNNVHIIPOB. He6onbwonpaBHomepHbli3HOC LunNHAPOa B npenenax 0.05MM) MOXHO OMneHCnPOBaTh yCTaHOKO nopWHR Apyroro Knacca c6onbuM AnaMeTpoMCN.flopueHbn山aTyH 3aMeHas).
 
 ### CTAHOBKE
-`datsun_on_do_en_16596d08` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.TuaTeHO uac nopueH OT Harapa H OTnOKeHHA. OCMaTpHBaCM nopueHb, maryn H rameul, TpeuHHL H8HHXHEJOnyCTHNbL.
 
@@ -3016,7 +2855,6 @@ Hosbe konbua nopbnpaem B COOTBETCTBNN C AnaMerpoM nOPuHA = HOMHHaEHOFO KnM PeMOH
 ![](images/677bfc589c1f0f95d6c814f1775864e146225abeb93a0068afe1afb49c3f356c.webp)
 
 ### 内托Me
-`datsun_on_do_en_50989e95` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 DonyHMbe3a3opbiMexAyCreHkaM KHaBKM N nOpLHeBbIMNKOnbLaMN ykagaHbi a ra6n. 8.1.3. Ecnn sa3cp npeebuaer MaxcwManbHo nonyctuMbiit,nopweHb noneknT 3aMeHe.
 
@@ -3028,7 +2866,6 @@ Ta6nHa 8.1.4
 ![](images/5cc62997b01556ebb00bd83776b0d8249f9591b07ed9f8fa50b083dacf23eff1.webp)
 
 ### EESHH
-`datsun_on_do_en_bbf82717` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 penenbo onycb ennon 3a30p npN 3Hoce nnR OneL 6beWnx B ynorpebnen) 1MM,3a30p DAR HOBbIX Koneu0,25-0,45MM Ecnn 3a3op npesbuaer MakuanbHO Aonly yCTWMbin, xonbLo nonex 3aMene.
 
@@ -3089,7 +2926,6 @@ HHapyXHyIO nGBepXHOCTb ropmHg.
 10.YCtaHa oe 5 IMJHHap 6noka.
 
 ### Tneaynpexoleme!
-`datsun_on_do_en_5603fdd6` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Crpenka Ha nHue nOpuHR nonukha 6biTb HanpasneHa 8 CTOPOHy WNNBa KOfteHuaToroBana
 
@@ -3116,14 +2952,12 @@ ITO
 2.O  OKOA C TOHKHM ne3aHeM nonacBaCM M RETHHMaCM H3 nPOTOYKN CrORIOPHOe KOTbLO nOPLIHeBoronaibita.
 
 ### LUAUMNCUAUHDPUIHEBAR LICGNOUUIN
-`datsun_on_do_en_905ad121` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/255dde3998897e629c64c65ec97cb3a444e72f9c8521d177accf68e2cac9fce5.webp)
 
 12.YcraHaBaeHauayHpy H3aTIaCM aKH/ MOMCHTOM 43,32-53.51H·M（4，42-5,46c).
 
 ### Iposepiaa
-`datsun_on_do_en_4be0cbb6` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/30f41f96e9ec7ba20e811cb7982b4885e394dcf19669a0363e2efbb201e3bcaa.webp)
 8 BTHpacm Hacyxo noCTeTH BctaThuen ryHe H Kpbruke H yCraHaBHBCM BHHX BKTa
@@ -3145,7 +2979,6 @@ pye Tpn nopu coHpaeM ycTaHaBBaCMaHUIOHO.
 ocne yoraHoBk scex nopUiHeRco6HpaeMrareb BnocnenoBare.ib HOCTH,oGpaHol ero pasoopke.
 
 ### NOPUEH HIIATYH3AMEHA
-`datsun_on_do_en_44b2beb8` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 YpeePHO H3HOLHIe noPuHu noexat 3aMcHe. 3ameHa nOPUIHA M aryHa MOKeT norpeosaTbc npHcoyapeHMN KnaraHa C nopusem. Bb3BAHHOM HapyLeHHeM pasraxopacneaeJCHHTH OpBO eMA mpnBOaTPM.
 
@@ -3170,14 +3003,12 @@ HsMeperH nposoanm B verbipex ACax（3,10,60w112MMOT BepXHeR KPOMKN LIIHHIPa) B n
 2.MHKPOMeTPOM H3MePKE AHBMeTP Jo6KH nopH, onpenengem ero H3- HOC.
 
 ### Paavekann
-`datsun_on_do_en_e98763d7` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HebonWOrpaBHoMepHbn3HoCLNnHapa(snpenenaxO,OSMM)MOxHo nonpobogate KOMneHCHpoBaTb yctaHOBkOn nopuHR npyroro knacca 6onbwwM. JNaMerpOM.
 
 ECr MaKCVMnbHb N3HOC COcTaBJRET 0.15MM 4 6onee, Tpe6yercR pactouka UunnHapOe M ycTaHOBka nopWHeNpeMOHTHOropa3mepa.
 
 ### Ionop ope a
-`datsun_on_do_en_0728b4f4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 y HOBb HTTR 3a3op Mexny HOPLHM H UHHHPOM COCTT 0,025- 0,045 MM H 3aaCTCA yCTaHOBKOR nopHei Toro oke Knacca, YTOH KIaceUIIKHaDOR.
 
@@ -3186,7 +3017,6 @@ y HOBb HTTR 3a3op Mexny HOPLHM H UHHHPOM COCTT 0,025- 0,045 MM H 3aaCTCA yCTaHOB
 LIHaMeTpE HHIHHAPOB pa36Htbt Ha ntbpamepHtx K.accos (CM. ra6.8.1.5）.KaccKaoroapa BbKT H HKHA nHBOYHOR IOCKOCTH 6noka UtnaPos.
 
 ### P
-`datsun_on_do_en_207b8a7c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Hebonbwon paBHoMepHen H3HOC nHnpa（Bnpenenax0,O5MM)o3- MOHO KOMnEHCNPOBaTyCTaHOBKO nOpWHR Apyroro Knacca 6onbwum ANamerpom.
 
@@ -3232,7 +3062,6 @@ Tpe6yewbilt Knacc rtanbua yka3aH Ha KpbIuke LaryHa 2. o Macce roJOBOK uTyH DenAT
 ![](images/6a0515f9aca2fe24a934043550c7317545eb1f63842093afd1418ea020a2e7e9.webp)
 
 ### Kanccu nopmesuxnaue HoHapaioyJHery HAHaMerpy otuepcreg noo nmnu
-`datsun_on_do_en_345e751c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ta6nua 8.1.7
 ![](images/d2677a1fb33284f685715cf98d37ba188533150b37035d9ca5826355053b0a2f.webp)
@@ -3251,7 +3080,6 @@ pn c6opke waryHacnopuhem yfe. Aurecb, TOMappoeka Ha wayH N MapkupoBka Ha nopLHe 
 ![](images/7ae11ddec9c2c606852941dc6fd3d7c0f5568614ec824b0594f142017a5e6edb.webp)
 
 ### Pa3bopka
-`datsun_on_do_en_43a2a551` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/c6c5742b0ea7d8d95ea9c42bd260445a6c9555983772f7ab6e56ec5072d7ff64.webp)
 4.CHKMae nopueHE CayHa.
@@ -3261,7 +3089,6 @@ pn c6opke waryHacnopuhem yfe. Aurecb, TOMappoeka Ha wayH N MapkupoBka Ha nopLHe 
 UIHHNC BbICBepHHHMB HCM TePCTHCM ns natba.
 
 ### 8.1.26.2.IUATVHHO-HIOPIIHEBAR rPYNNIAC3AIIPECCOBAHHbIM DAIbUEM
-`datsun_on_do_en_b03b74f2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/110a9ec33661153d770ea3611ea7be5109722fb4b5d5f1a90a43ec2db3a44919.webp)
 C6opka
@@ -3269,7 +3096,6 @@ C6opka
 Hlon6op ROPuHA K BHIHHIPyH nabua KTOPUHIOBbIONHRCM TaKke, KaK 3TO YIOK838HO Bpaanere 8.1.26.1 (CM. Bbue),
 
 ### Iloospestenwe!
-`datsun_on_do_en_ff50ce37` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Baennycaone HinopWayHro Knacca no Macce.
 
@@ -3282,19 +3108,16 @@ Baennycaone HinopWayHro Knacca no Macce.
 5.BbHHMae OnpBBky H3nabita 6.HaneBacm Hanopwerb ko/bl/ H yCTaHaBJHBaeM nopuenb B HUIHHAD (CM. HopuHeBNe KOJbUa HWBTyHHbe BKiabu-3aMCHa).
 
 ### C6opka
-`datsun_on_do_en_d48864ed` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CoSHpaeM nopueRb  yHOM nocnenoBaTenLHOCTH, o6parHon pa3- 6opke. TpH 3TOM CTpenka Ha IHHue nopLuH H MTKH Ha THe H ero KpWke nok 6T o6pa B OnHy cropOHy.
 
 ![](images/189690bc8cafb55ed38671865fede99a051277d2ad64cab0986a9aa3363ad082.webp)
 
 ### 8.1.27OTOPbl CHIOBOrO ATPETATA 3AMEHA
-`datsun_on_do_en_7b59ca42` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbLIOJIHCHHR pa6oTMHoTpe6y. OTCR: -perynHpyeMaRno BCorenocTaKa(HanpMCp,BHHTOBOOMKpaT); -CMOTPOBaAKaHasaH'tH3CTakaia.
 
 ### CH8Tie
-`datsun_on_do_en_4c97c850` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.TIonrOTaBBaCM aBTOMOHnbK BtOeoao(coa ABTOMOGHIRK TCXHHHCCKOMy O6CAyXHBAHHO HPCMOHTys).
 
@@ -3328,19 +3151,16 @@ H 3aero xpereHgnpaBon YaCTH 6pbi3rOBiOKaaBHraTE.Tg.
 10.TIpH HeOOXO,LOCTH TOPUOBN KTONOM H 17 MM OTBOPAVHBAEM TPH 60akpennens KpOHITeAHa oropbi XJBHATCIIO HCHHMECM KPOHIITCRH.
 
 ### 8.1.27.21.TEBAROTOPA
-`datsun_on_do_en_cfe4f040` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 JleByEo onopy 38MCHReM aHanornyHo Tpanon (CM.Bbuie). LUE 38MeHhL ce KPOHUITeAHa OTBOPaNHBaeM HIOBOIOK Irpoca. KnoTOM 3 MMOTBO HHBAeMJ8a bora KperuICHEA KpOHurreiHa 4 TPOCEHCHRMaCM KPOHUrrePH. Knogom H8 3 MEM OTBO ATi BaeM TPH ratkn3 Ha OTOTpeTbio raiky 3aropaxHaer KPOHUITeDH 3) KPeLCHHA KPOHurTetiHa 5 CHHMM KOH, H3BiekaR Tpoc cueUeH H3 OTSePCTHs KpOHUeiHa (CM. Tpoc cuenneHHA -38MCHae)
 
 ![](images/b5e4b1633e848cec07cf2507bfca6d8377360ef8a261b66683d19d4988b8fc65.webp)
 
 ### 3ANCHAO
-`datsun_on_do_en_390d266e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha ABTOMOOWneCMKnAnR CHHTNRKpOHwTeNHa onopbr HeobxoANMOOTCOEDMHNTb TpocnpuBonaBoknio-YEHNR CuenneHNE (CM. npusonBEIUIKOYeHNR CUenneHNR -perynn-poekax).
 
 ### CHRTHe
-`datsun_on_do_en_ecff0302` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.1OIOTAIHBaM TOMO6HK BInOHCHHIO pa6oth (CM. lloAroToBKa ABTOMOGHnAK exHyeckomy ofcTyBaHHO HpeMOHTy>).
 
@@ -3351,7 +3171,6 @@ Ha ABTOMOOWneCMKnAnR CHHTNRKpOHwTeNHa onopbr HeobxoANMOOTCOEDMHNTb TpocnpuBonaBo
 ![](images/744dab2e101f7ed7a119da27e3f4f2b47cf1c5922080ad887215f84628f0bc69.webp)
 
 ### 4. CHHMacmonopy
-`datsun_on_do_en_dcc97930` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 5.TpK HeoxOaHOCTH CHTb oopy CKPOHUITOM,OM HA 10MMOTBOPaHBaCMABa OITHCHHMSCM3aUITHNK 3KPAH.
 
@@ -3364,13 +3183,11 @@ Ha ABTOMOOWneCMKnAnR CHHTNRKpOHwTeNHa onopbr HeobxoANMOOTCOEDMHNTb TpocnpuBonaBo
 7.CHaepoeRH 3 onopbt.
 
 ### 8.2.CHCTEMA MPABJEHNAIBHRATEIEM
-`datsun_on_do_en_d6a970c0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/abffe8ce82445fcbbd24002e86c45c29ba1e43a95fc4a2c56085449b753fff89.webp)
 Crere yp DAHIITUIeN: 2 TnnHoe pene;3 1 axkyyuopaape:4- ybrp;5 ocecopanem, umroxnpubopos; -anekiposcH srop CICTEME H8 peeB3oo9 anexTpoxnuR Gtok ynpasnens;10 JETUIK eypw11 一 y 1Z TOHHE OCy; 13- POCCM yae, 14 ETNHKMaCCOBOrOP BoLYXI 1s opy16 CaenHHR, 7 TOKTOH 18 ARTHH TIC HKHOB19 KCKOPOTTOMO20 -JOHUP ICJOPOne HCTC:21 UIKHB kvIeraToro A18:22 eeKeHTOOco;23 Ty24-nO25 K npoyHcop6epa
 
 ### OIIHCAHHECHCTEMEI
-`datsun_on_do_en_676dd1a5` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHCTeMA ynpaBzeHka EBHraTeseM BK.IIONACT BhIKUONACT TOILIHBHHIR Hacoc, KOHTPOAN KOJIHYCCTBO Bosayxa, LO D HIHHAPH ZEHTATens, BE KHT HeobxonnMoe KOHNCTE TOnAHBS 0 BnyckHOA HCKPOoOpa KMTAHKA, KoppekTHpycr yron onepexeHHR 38- KHTaHHA, peryJHpyer yaCTOTy bpaWCHHA KONeHVaTOrO BAT Ha xOUIOCTOM xOay,ynaAer epoBenHATOPOM CHCTCMEI OxRaxReHHR DBHraTeJIR.
 
@@ -3404,7 +3221,6 @@ DaBHLR ynpaBAAIOUHA 3JCMeHT CHCTeME 一 3.eTPOHHA6OK ytpas308H8 (9Ey) HIH, KaK V
 n3y 一 naMATb 9HePrOHC3aBHCHMaR (TO ecTb HHCOPMAIKg nAMATH COXPAHACTCR nIPR OTKTOVCHHH IIHTAHHA) H UPenCTEBJAeT CoboR MHKpocxeMy (oIHno). 113y XPAHHTCs oporpaMMa H HeobxonkMEJC DA pacueTa AHHHE (napaverpbi aBHraTeJIR, nepegaToyHbie OTHOMeHHR TpaHCMHCCHH HnpyrHeXapakTePHCTAKH). Ta HHopxyabHa Ls KaxJoR MOIHOHKEUHR ABTOMOOHIIS.
 
 ### BNkne
-`datsun_on_do_en_9cbe84e0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HekeanvOnunpoBaHHoe nepenporpaMMupoBaHvenyMokernpnaectn KHapyLWeHWRM E pabote newraene, BbixOny V3CTpOR3neMEHTOE CuCTe ynpaeneHuenraenem, nopexeHUIOneNraTene.
 
@@ -3436,7 +3252,6 @@ HaaBTOMOGLIHyCTHABIHBIT JTHK MacCoBoro pacxo BO3HyxaYaCTOTHOrOTHa,apKOMOBae6A Ka
 JK Maccoeoro pacxona Bosny-xa (MPB) yCTaHOBen MeKAy BO3-yHMTTPOM HPOCCeHOR3a-CnOHKOD
 
 ### BNkne
-`datsun_on_do_en_65ce7f76` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KHOrO TpybonpoBoaB H BO3IYUHNM TaTPOM.
 
@@ -3449,7 +3264,6 @@ MHIPH BnOHHHH OePIHOrO TexHHeCKOrO OCYKKBaHHR TOMOOHEonbuoR COR OTTOHKR MOKET cO
 onc pocCebHo O KOHTPOPyT J8A ZTHKa,BCTOCHHbIe BKOpnyc npocceJbHoro yaTa.
 
 ### IIpocce.tbHbtRysen
-`datsun_on_do_en_c98bdbe5` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HeHcnpaBHoctb HIH HeKOPPeKT-HaRpa6orsJpoccebHoro 3日 MOryT6hiTb BH13B8Hb1 BCHMCM KOHTAK-Ta CrO 3JeKtPHyecKOn LCnH (OKRC-IHBIIHMHCA BEIBOSaMH 4 COCJIHHH-TeNbHOR KOJIOAKe kryta npOBOnOs).B 3TOM cryvac BOCCTAHOBSTb pa6o-Ty ynECTCA, 06pa6OTa BbBObI Cne-UHabHbiM COCTABOM JL8 OUHCTKH H38UUHTEl 3ACKTPHNCCKHX KOHTAKTOB.BOMOKHH Hupyrne nPNgaHa HeHC-npaBHOCTH:
 
@@ -3462,7 +3276,6 @@ lo CHrHany nka 3EypaccuHTLiBaCT KONHVeCTBO Bo3Ayxa, nocTynaomero H UHHAP HRTaTCR
 yron OTKPbITHA apocceJibHon 38- CHOHKH 3anaT3eKTpOHHER 6OKyiPEBneHun (96y) B 38EHCMMOCTH OT PRCNETHOTO KOHNECTBa BO3nyxa, KOTopoe HOEKHO noCTymuT'b B [FETHHJIpbi ABHraTeTA. TpH 3TOM YYHTSIBEETCsl PexHM pa6orb IIBHraTOTs (3anyck, nporpes, XOOCTOR XOn K Tak Janee). TeMneparypa okpyaiouero Boanyxa Teng.nonokeHkene.BIHrA3a.
 
 ### JIATHK MaCcoOro pcxon boay
-`datsun_on_do_en_badae1f8` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/0a3817872c0f272892262914c7ed24d3d79e19b55e1dfff1a7bf25d2c605921e.webp)
 
@@ -3489,7 +3302,6 @@ KAxA Hs ISTHKOB nONOKHHA JPOCCeTbHOR SACnOHKH npencranneT cobon ROTeHUHOMeTp. B 
 B cryyae CCJH H3 CTPOA BbIT TObKO OIKH nTYHK 3TOPHTCA KOHTPOTbHas namna, HO CHCTCMA ynpasnCHH KTM nepeAner H8 peepBH peM pa6orl. HIpn 370M JBHTATeAL 6yneT KBTHO pearH
 
 ### JIATHK MaCcoOro pcxon boay
-`datsun_on_do_en_5f105b9d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 eX5HKOT cTh MO
 
@@ -3536,12 +3348,10 @@ JIRTORK KOHEEHTPRIUAN cpo:1-c0- CAHHITeEHA Konka2 xryT npoSO30B; 一 YTLIOTHHTeA
 DaTuHK KOHHeHTPANHH KHCJoPona CT OnHO CHHn no KOTOPoMy 36y onpenenRer KOHUeHTpanHiO KHcnopona OTpaOOTaBuHx ra3ax. Tlo nOJyNeHHMRaHHbIM 96y KOPPKHpyer KOJIMYECTBO TOTLIHBa, BnpsICKHBBCMoro HTHHIPN nBHraTens, TOM CaMbIM noJuepKHBas OnrHManbHyiO nponopuHio CMeCH BOSHyxa C TOrUIHBOM 9T0 HeObx JHMO ILT8 3ΦpekTHBHOR paboTbl KaTa I NecxoroHenipaTH38TOpa) ISHEH JEMCHT naT HK OH CHT UHK KHCJOPOns pacnoJoxcH B nOTOke OTpa6oraBuIHx rasob tepen KATAnRT HCCKHM HETPaUIH: ATODOM CnOCOGHOCTb natukka B03MOKHB TO.bKo npH Harpebe ero VyBCTBKTCnbHOrO SJICMCRTa Z1O texneparypst He KRKe 300 'C. JA COKPaUICHHA BpCMH nporpe8 TK BCTpoCH HarpesTebH
 
 ### JIATHK MaCcoOro pcxon boay
-`datsun_on_do_en_71b836a7` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 UTOGH IEHIaTeAb COOIBeTCTBOBAT MCCTKHMTPe6OBaHHRM HOPM TOKCHYHOCTH, B CHCTeMy ebirycka oTpa6oT8BUHX rasob nocne HeBrpa/n3aTOpa BCTPOCH ETOPORaTHKKOHUCHTPaUKH KHCaopona,
 
 ### Tneavupekaenie!
-`datsun_on_do_en_17506af5` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Hanvve B oTpaboraBuNx rasaxcoeANHeH CH KPeM MHNS MOKeT npnBecTN BbORy 413 CTPORgaTHNKA XOHLeHTPALMN xncnopona fO3TOMy He nonycKaETCR NCnanb30BaHne JTHNPOBAHHOrO 6e-euHa. ripu peMOHTe nevrarens Henb3R nPNMeHETS repMeTnK 60nbwum copepxaHNeM CHnHKOHa (COEDNHEHNR KpeMHUA), napei koToporo MoryT nonacb Hepe3 CCTy BEHn a L4- NNHAPOI Nnanee 中 BbinyOOHON Tpakt. CnenyeT vicnonb3oBaTbrepMervk Ha ynakobke KOTOPOro yka3aMO, 4TO-OH 6e3onaceH png naTyMka KOHLeHTpaLuu KHcnopona
 
@@ -3557,7 +3367,6 @@ DTHK CKOPOCTK ABTOMOOMIR ycTAHOBACH Ha Kopo6ke nepenay. TPHHUHn CCTBHA nTHKa OCH
 ![](images/39ac62152dade2861220978121574b0dc73e64948c9fa246b903a2f353d4515c.webp)
 
 ### TK COPOCTH TOOUs
-`datsun_on_do_en_d4aaf7f4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B CHCTCMC 38HTKHR BHraTCJA npHMeHRCTCA OnHa kaTylika 38- KHTaKHA. OHa necaBeT cooR
 
@@ -3605,7 +3414,6 @@ KOJOKa NHOCTHeCKOrO pa3bema npemHaaHavena JUR nOAKTNCHng BHeHeroAHarHocTHHecKoro
 PacnoxoxeHHe KOnOAXM narmocTACKOrogm3bcma
 
 ### MEPbI BE3OIACHOCTH IIPHOECJIYKHBAHHN HPEMOHTE CHCTEMbI YIIPABJIEHHRJBHIATEIEM
-`datsun_on_do_en_ddd4f47f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 IIpH TeXHckO6ae MONTE CHCTeM ypaBeHA raTeJEM eo6xooco6.o eooPOMHOCTH:
 
@@ -3616,7 +3424,6 @@ pcTynaR K peOHTy TOMO(oco6eHHo, CCHOnepaUCaCDCMOHTAXOM 3TCMCHTOB CHCTCMbI yn-PAR
 TIpH OTCOAHHCHHH KKYMYIATOPHOR6atapeH OT CETH ABTOMO6HIA H3 naMH y 6yy yaneHb Ko He HcrpaBHOCTelt.
 
 ### TEXHL CHCT IHT
-`datsun_on_do_en_784c3ac8` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 #
 
@@ -3637,12 +3444,10 @@ Tepen 3anyckonraren y6eHTeCb, "TO KUTCMMbI HAACXKO 3akpanneHHH8 BBOaaX aKKyMyngT
 Bo H36ex3HHe BbxOaa H3 CTPOs3ACKTPOHHNX KOMnOHCHTOB 9bY HC-Tb9 nPHpaGOTaIOMCMABraTeJECOTCO-CIHHATKCMMNHPOBOROBOTBBOIOBXyMyTOPHOR68TaPCH.
 
 ### 34HCSAHNG
-`datsun_on_do_en_35198484` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nposepka COCTOAHNR anemeHTos CHCTeMu ynpaBneHuA ArareneM oka3aHa Qanee B coOTBercTByIOLNX pa3qenaxrmaBbl CucTema ynpaeneHIRJIBuraTenem.
 
 ### 8.2.4 IIPOBEPKA TEXHHYECKOROCOCTOSHHA CHCTEMbIVIPABJIEHHA IBHTATEJIEM
-`datsun_on_do_en_243627df` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nekpokH 6noK ynpaBneHHA (6y)CHc ynpaBerateTCM HMCTpXHM CAMOHATHOCTHKH. IpH IOCHH XHH OXH 3aroPeTbCA KOHTPOIbHaR JaMna HCKCnPaBHOCTH CHCTCMEI ynpaBtCHHA
 
@@ -3657,7 +3462,6 @@ JA CHHTHBAKHS KOJOB HeucnpaBHOCTH KCHCTEMC ynpaBJIcHia nAHTaTenem HeObxOnHMO nOJ
 CqHTHIBaT KORE HeHCHipaBHOCTHMOKHO 8 CCPBHCHOM ueHTpe, pacno-JraloLCM HCo6xoIMIM obopyAoBa-HHCM.
 
 ### BEICOKOBOJTTHIE TIPOBOJIA . IIPOBEPKA H3AMEHA
-`datsun_on_do_en_eaf8f213` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 JA BHTONHeHKA npoBepKH norpe6yeteMybtHMetp.
 
@@ -3666,7 +3470,6 @@ JA BHTONHeHKA npoBepKH norpe6yeteMybtHMetp.
 -tobb He nepenyrae BBOL Ha KaTywke 3axnramA,bICokoeonbtHble npoBoAa yAo6Hee MEHATb noo4eperHo.
 
 ### TloctenosaremHocrs nOTHCHH
-`datsun_on_do_en_0fe99e0c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OneOoTKBnOHCHHIO OnepAUHH（CN Tourotoeka TOMOOHLA TeXHHeckoMy ooctyxkBAHHIO HPeMOHTys).
 
@@ -3683,26 +3486,22 @@ JA BHTONHeHKA npoBepKH norpe6yeteMybtHMetp.
 5.ycnpaBHbix TpoBonos conpoTHBJCHHC B 38BHCHMOCTH 0 DHHbI) HOnKHO 6bTb8 npeaeax 3,5- 10.0xOM.
 
 ### EbI
-`datsun_on_do_en_1db2c288` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BaMeHRTb BbiCOKoBonbTHbenpoBona CnenyeT KOMnneKTOM.
 
 6.ToncoeAcm npoona K CBeTAM 3aKraHHg H Karymke 3axHraHH B COOTBCTCTBHH L HOPAAKOBEIMK HOMCPAMHLH/IHHEPOB,HaHCCCHHEIMH Ha TpoBoaa H HaKaryky 3axnraHHR (CM.HHKC).
 
 ### Ipeavupemgcane!
-`datsun_on_do_en_0aa03fa1` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nOnCOeANNATb npoBoaa Kkarywike 3aKraHMRHeObXOAUMOTOnbKOBCOOTBETCTBUN CNOPRAKOBEIM HOMePOM uunNHAPa. Ha N3onRunn nposonoe HBHeceHaMBpKupOBka -noPRDKOBbti HOmepunmvHapa.
 
 ### OMeSAn
-`datsun_on_do_en_ebbb27c0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CeeuN 3aXMraA cAenyer 3aMenRb vepe3kaxnbe 30 000 KM npobera, Cnecyer nPNMeHATb caeyN3axnFAHNs A1708PM A 7DVRM JSC (Robert Bosch Saretov) MIM aHanoM-LR15YC-1 (BRISK) M WR7DCX (BOSCH).
 
 J BoHene peo norpeyer CeHW TOLB KO CCR  21 MM.
 
 ### TIOCTEGnHTeJIbHOCT BMNOJLHEHH
-`datsun_on_do_en_a729e33c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. OTCOCIHHREM BbICOKOBOnbTHbA IpBO CCA 3aKAH (CM. BCokoaobTbe ToBOa- nposepKaK3aMeHR>).
 
@@ -3718,7 +3517,6 @@ J BoHene peo norpeyer CeHW TOLB KO CCR  21 MM.
 4.IepeI yTaHoBko cBc 38KMTAHHA Ha6opoM Kpyr/bixInyoB nipoBCPREM 3830p Mey ce 3ekpon 3a3opxcH61,0-1,15M.
 
 ### KATYIUKA3AXHTAHHA 一 HIPOBEPKAN 3AMEHA
-`datsun_on_do_en_d10cb7b1` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/2e1c5d2cead2042d4fbed5d73b3dd681a252eaa186b9c62daca3bbef884474a3.webp)
 
@@ -3727,14 +3525,12 @@ HeoXO,IHOCTh O pa60TN MOKCT 6Tb onpenenena no KOny KeHCnPaBHOCTH, CYHTEHHOMy yep
 J BbonHennpa6oru nopeyerMyeTp (B peXe BOp HOMMCTpa).
 
 ### IocTexBTeoCTL BnOJHH
-`datsun_on_do_en_90783acd` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.HonOTHM TOMOO K nHeopabo(c,orooka ABTOMObIUR TEXHHHeCKOMy obctyanHHOH pMOHTy),mO - SAHHC,
 
 2.OcBooaop oxyypolo OBMOY3HHHE2.
 
 ### BIpesviincekaenue!
-`datsun_on_do_en_5d3dbef3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbInonHHa H3MePEHNR, BbIKnIONuTe 3axWaHne.
 
@@ -3769,7 +3565,6 @@ b- OMTPOMHepM3KTC KOe COnPOTHnAHe Mekty LeHTpaibHNM BSSOJOM H KOpnyCOM (KPOHnITE
 ![](images/397cbf017a974faade8d1b773100630b2c1b978d55d1e1dbba147afde435f0ec.webp)
 
 ### TpenyHecnaeHet!
-`datsun_on_do_en_63ca6a66` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bo nabexaheenogpenenhspbog Bronoske noka uunapoe penaPHTenBHO nenyer 3aeepHyo cseyy Or pyu N yke nocne roo 3aTAHyTb, BCTABNEBOPOTOKByAMHHTenKHOua. MOMeHT3aTRXKKCBeM30-40HM.
 
@@ -3810,14 +3605,12 @@ BNCOKOBobTHbe npobona noJcoBCOOTBETCTBHHCHOMCPMM HHUPOB.HHCCHHH H8 ICAMEOM ozeHH
 ![](images/a0198fa3f8ca8293bfbb7c4c7437689fcd50b8678f2fbb60a67b30f050f17408.webp)
 
 ### JIEKTPOHHAH EJIAJ £434-IIPOBEPKA M3AMEHA
-`datsun_on_do_en_67db0345` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 keg e raa peWOHTY He nouiexi, 国 cnyuae HeHCHOCTH 3nCkTPOHHyIO nenans ra3a MNCHRIOT c6ope. Heo6xonnMocTb MTONHCHHA pa6oTbi onpenenaeM B RCTC nposepKH TeXHHHeCKOro COCTOHA CHCTeMhI ynpaBneHHA ABHraTeSC1 (CM. Ilposepka TeXHHueCKCro.cOTORHHH CHCTCMI yrpasJieHHR Iskraerem).
 
 n p peyee MyTSTHMeTp,
 
 ### CH&THe
-`datsun_on_do_en_81ef92a6` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. IonrorasnHBaem BBTOMOGHD K BnOnHeHHO paorl H OTCOCJIHHRCM UTeMMy npoBona OT OTpunareJIbHOro BIBOUa aKKyMynATOPHOR 6arapen (CM, IlO,rOTOBa EBTOMOCLER H TEXHHHeCKOMy O6CHBaHHO HpeMOHTy).
 
@@ -3838,14 +3631,12 @@ IIposepks
 MynbTHMeTpOM  peKHMe OMMTpa MOXHO npOBepHT COCTORHHE NOABHK
 
 ### HEENeHHRBs8onoB 3aektpOmon mesunIn38
-`datsun_on_do_en_b4232914` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HHX KOHTKTOB HTOKOPOBOXHOk KO n neLaLk ra3a.JAroro:
 
 ![](images/ab3b84a0f346fba29dccaba511a2ce684b88a88227d4450c58118afaa7c64efe.webp)
 
 ### E
-`datsun_on_do_en_2a8337ca` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 An ynociBa npoeepku Ha ebeog MOKHO HaneTb TpeKN nonxnopenHInOBbxTPyOONeK,NBCTaEnRTbBHMX uynw Mynbrvwerpa.
 
@@ -3865,7 +3656,6 @@ Ta6πa8.2.3
 EcnH IpH IpoBepkeoon esJopoxek conpoHae 6yneT MEHRTbCR CKaUKAMN,nTKCenyeT3aMHTh
 
 ### VCTaKODKA
-`datsun_on_do_en_2a2169d9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 古A成
 
@@ -3874,14 +3664,12 @@ YcraHaBHac nc rasaoGpatHOA nOCNOBTbHOCTH. Ysobbi cnyWOAHO HC norHyTs BbrBOZb B p
 ![](images/06ba76a54a3e371ec1dba674cba75667fe558d88ed58e8762d0ae3d61d6afa65.jpg)
 
 ### POCCEIbHbI V3EJCHHTHE,IIPOBEPKA,OHCTKA HYCTAHOBKA
-`datsun_on_do_en_699173c2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ApoccesbHWR yses Hepas6opHth, peMOHTy He noUeKHT H cryvae Hencnpa aBHOCTH ero 38MCHHIOT cbope. HeobxonMocTb oHHH paoral onpenenRem xoDe npobepKH TeXHHYeCKOrO COCTOAHHE CHCTCMN ynpaTeHHH neHrareneM (CM. -Tpobepka TexHHYCCKOrOCOCTORHHECHCTCMHIynpaBJCHHRABHaTenEM).
 
 Lng nPOMNEKK APOCCenbHoro y3/BHCo5x OINMO cpencTBO DA OUHCTKNBEyCKHOrO rpy6orpobona HBHEaTCTR.B xpatHeM cryuae MOKHO BOCno/Ib30-BaTbCs cpenCTBOM ILTS OQNCTKH kapbio-paTopa. Ecnn yctpa HRT HCHCRIPBBHOCTbCTOMO 0 OUKCTHTAR 1 ynarocb, 70IpoccenbHbin y3en HCO6XOAHMO 3ame-HHTb. Tocne CHrHnpoccenHoro y3nanpokiaaky (yrAOTHRTENbHOe KOmbuO)Heobxo,HMO SaMCHHTb. MoxeT norpe-6oBaTbCA CpeACTBO IAR OSHCTKH H 3a-UIHTN3ICKIPHYCCKHXKOHTSKTOE.
 
 ### Lpcavcxncine!
-`datsun_on_do_en_33591b37` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bovabexannenospexnenns3nektponpnBonaHenbiranTecbnpnHyantenbHO nosopavwBaTbApoccenbHyio3acnoHky, npsinanbeaR x Hen yonnke.
 
@@ -3892,7 +3680,6 @@ B npoBepKn norpebyeTCRMynbTHMeTp.
 ipuycraHoekeHaeTooOunbHBoro npoccerbHo noTDe G eTCA Cneuvanb oe HOCTN oeobopynoBaHnennR D VU posepnTbkann6 DaKys nonoxEHNR APOCcenbHON 3aCnOHKN H xpaMHnx nOnoxeHNRX. Taryio onepaLnso MOKHO BbInOnHMTb Ha cneunanH3NposaHHon CaHUnN TexHnyeckoro o5cnyxnBaHNR.
 
 ### Tlocneaor HUC mOHEHH
-`datsun_on_do_en_660684de` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IOnrOTaBIHBaCM aBTOMO6HnE K BbnOHeHHIO pabor M OTCOCIMHAEM KLeMMy npobosa OT OTPHuarenbkoro BbBOI8 KKyMyTOpHOR6TaeH (CM. TOrOTOBKa TOMOSIUIHKTXHHICKOMy OCIyHBaHHOHDeMOHTye)
 
@@ -3923,7 +3710,6 @@ nooa BOy narpyokanpocce.bHOrO Y HOTBOHMULaHBHH3
 8.MyTHMeTpOM BpeXHMe OMMCTpa H3MCPACMCONPOTHICHKeATUAKOBnOOHAAPoccebHOR SaCTOHKHMxy BbIBOLAMN H4. y HCpaBHoro npoccebHoro yana COTPOTKHHe AOTKHO 6bTbBnpenenax 750-1250O.
 
 ### Tigeasnpekicho
-`datsun_on_do_en_f091adde` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbnonHeR cnenyowyio onepaunio, yaepxnBanire Apoccenbhbn y3en anektponpNBoaOM Beepx, yTOOb cpeACBO nROHNCTN He MOnOCre KaTnG OCNApOccebHO3aCnOHKN CTopOHyMOrop-pecyktopannonanaTe BHyTPbMexaHi3Ma.
 
@@ -3936,7 +3722,6 @@ BbnonHeR cnenyowyio onepaunio, yaepxnBanire Apoccenbhbn y3en anektponpNBoaOM Bee
 ![](images/e4080d74ad7028bdbcf188d5205ed31a4d655728d8b991c09b169c0a2c845c32.webp)
 
 ### HHRyeiaR suBoion npoccebHoroysaz
-`datsun_on_do_en_05b6eed9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 #
 
@@ -3966,19 +3751,16 @@ IbA oCUIb
 Ha peboyo yacrb 6oToBpeLeHHpCcce.tbHoro y3na HaHocHMaHapoHbiHHkcarop peb.bonT 38- THTHBaCMMOMCHTOM8--12HM.
 
 ### DMEIDAC
-`datsun_on_do_en_106b0991` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HocneBnoNes3aNraeoc cenbHbin yennonken BbInOnHNTE nOnKbIn uNKn npoBepkn 4 yrnog Makcnmane MNHMManbHOrO OTKPEITNS ipoce HON acnOHKN. npn VCTaHOBKe HoBoro npoccenaHOro yana Heo6xonHMo npoeepnte BbnonHeHne nepenporpa MMHPOBAMMA nonox H APOCe EnbHOn 3acnonkN TOMO e HOrO DNarHOCTNYeCKOro oboPyRoBaHNA. Takas npouenypa notpe6yercR nocne BAMeHbi 3neKTpOHHOro 6noka ynpabneHns (36y) Ee MOXHO BbrnOTHNTb Ha creunann3nposaHHon CTaHUNN TEXHNHeCkoroobcnyxuBaHvR,pacnonaraiouenHeo6xonnMbim bopyAcBaHnem
 
 ### 240 KIAIIAH IIPOJYBKH AICOPEEPA-IIPOBEPKA H3AMEHA
-`datsun_on_do_en_9b4063c6` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Heo6XONMOCTh NnOHHHA pa-6oTN MOKEr ENTE onpenenena noxOny HeHCNPSBHOCTH, CYHTAHHOMygepe3 JHATHOCTHYCCKHR pa3bem (CM.-TpOBePKe TEXHHVCCKOTO COCTORHRACHCTeMbIynpaBneHHRBHraTeneM=).
 
 JHA paborht norpe6yTCR HybTHMeTp H OTPeskH nPOBO10s.
 
 ### CRsTke Hnposepk
-`datsun_on_do_en_afacd5d9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 L.onroraatHBaem 8BTOMOOHIbK BOHeHHOpaGorb(CM.foroToBka TOMOOIAKTexHyeCKOMyOCtYK BaHHIO H DeMOHTy\*).
 
@@ -4001,7 +3783,6 @@ L.onroraatHBaem 8BTOMOOHIbK BOHeHHOpaGorb(CM.foroToBka TOMOOIAKTexHyeCKOMyOCtYK 
 6. TlonacB OTBCPTKOR. CHHMaEMKIBnaHcancop6epa.
 
 ### DpeHne!
-`datsun_on_do_en_f0159f56` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 8ov36exaHnekopoTkoro 3ambikaHNR npn BbinonHenN CnenyoWen onepaunn DANH M3 Lynos cnenyer N3onnpoBatb nonnXnopeNHunoeon Tpybkon.
 
@@ -4016,14 +3797,12 @@ L.onroraatHBaem 8BTOMOOHIbK BOHeHHOpaGorb(CM.foroToBka TOMOOIAKTexHyeCKOMyOCtYK 
 punonaie HanpeeHR Ha BuBo KnanaHOnxeHorxpbTbCAcxapaKepHMeno.Hepa naH HeoxOMMO3aMeH
 
 ### B211JATYNK TIOJIOKEHHA KOIEHYATORO BAJIA 一 CHATHE, IIPOBEPKAHYCTAHOBKA
-`datsun_on_do_en_a4687013` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Heo6xoHocTb BInOHCHHA pa60Tb MOXer 6bITb onpenesena no KOny HCHCnpaBHOCTH, CHTHHOMy ycpe3 HHOCTHCCKHA pa3beM (CM. flpoeepka TeXHHYCCKOrO COCTORHHA CHCTeMLypaBeHKBHraTees).
 
 Leeye-yHp （ pe BOMbTMET-pa),
 
 ### CHaTRe
-`datsun_on_do_en_5c41e40e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OOTEBHBaCM TOMObK BOnHeHOpabor(cOrooKa 8BTOMO6HTA rexHnyeckomy obenykiBaHHIO N peMOHTya).
 
@@ -4037,24 +3816,20 @@ Leeye-yHp （ pe BOMbTMET-pa),
 4.CHMK.
 
 ### IIposepka
-`datsun_on_do_en_c5fce8a6` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IOCOO KaMynbrp pe CpeenoMH3MepeHHs o 200MB).
 
 2.crpo pooc e3e OTBeTKH BOnH3H ropua narAHka, rIPH 37OM Ha BOTTeTpe HOaM CKaYKH HanPAKEHKA.
 
 ### 3218a
-`datsun_on_do_en_22d46092` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 bonee TONHO DaTNK MOXHO nposepHTb,eCnCHMabCHeronOKaH, korna OH yCTaHoBneH HaABnrarene BpauaercRWkneKoneHNaToro Bana y HcnpaBHoro narunka HariprkeHe Ha Bbeonaxocvraer0,3B.Hecnpa Hnark3aMeHeM.
 
 ### YeTBROBKA
-`datsun_on_do_en_254ca72f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 YCTaHaBLHBaeM 3TK nOOKCHHA KOneHUATOrO Ba B nocnencsarentbHOCTH, o6paTHOR CHATHIO. Habopom uynos nPOBCPRCM 3830p Mexay ropuOM AATgHKA M4 3y6baMH LKHBS KOneHgaTOrO BaTa. 3a3op noe 6brTb 1±0,41 MM,OH 3aA8H KOHCTPyKILHeE naTuuka HHeperynHpyeTCa.
 
 ### B.212AATHHKTEMNIEPATYPbI OXIAKJIAIOIEN KHIKOCTH 二 CHRTHE, HIPOBEPKAN YCTAHOBKA
-`datsun_on_do_en_dcef9d3d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Heoxocnoen aoTbl MOKCT 6btb onpeneaeHa TIO KOJy HCHCNPEBHOCTH, CUHTAHHOMy yepe3 AHarHOCTHHeCKHR pa3beM.
 
@@ -4068,7 +3843,6 @@ eOMo0,5 -OKO003n BOJI, paorpeTORAo
 TeMneparyphlKHneHHA.
 
 ### CHaTHe Hnpoepka
-`datsun_on_do_en_f522e1e8` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.Caxyooc (CM. OxaoaR KoT-3aMeHas).
 2.Oco6ac kcaTop KOK XT HIPOBOSOEOTCOIHHACM KOAKy OT DATYHka.
@@ -4080,12 +3854,10 @@ TeMneparyphlKHneHHA.
 4. BK 3aHaHe, BOnbTMeTPOM HMePE HTHH HA BbBOne KOnOKH ryra npooe (0603- HaCHHC BBOAOB HHCCHO Ha KOnOKekryta rIponoJIOB).
 
 ### 3
-`datsun_on_do_en_2bd055e8` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HanpxeveHaabonenonko 6bTe HeMeHbue128.ECnHanpReHveHe noctynaeT HaKononxy NnNOHOMeHb Le12B.3uaunT,pa3paxeHaayynsopHas 6arapen, HevcnpaBHa Lerb NuTahne Nn HeNcrPaseP
 
 ### Ipeaynpeacaenne
-`datsun_on_do_en_18a1d1a1` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 No CKOHHHuN NaMEpHs HanPRe HNRsbIKNoYanre 3axnraHie.
 
@@ -4098,7 +3870,6 @@ No CKOHHHuN NaMEpHs HanPRe HNRsbIKNoYanre 3axnraHie.
 6.OnCoeHHeM OMMT K BbBOnaMBaruka.
 
 ### SAMeSRHNE
-`datsun_on_do_en_eee788cc` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 YTobtinogcoegnHnre MynbtuMerp Ha BtleCge! naruuka MKHO Ha OTpE3kN nonHxnopauHMnoeenTpyokn. BHX ecraanbLynrpubopa.Aenare TOHeobxonnoakxyparHo,nockonbky BDarka OyeHb TOHe
 
@@ -4113,26 +3884,22 @@ Eonn nO3BOTAIOT yCOBN,TO CHRTb nOKa3aHHR MOKHOHnPHGOneeH3KOR TeMnepaType.ConporH
 HeHCnpaBHHI IaTHHK 3aMHACM
 
 ### YCTAROBKR
-`datsun_on_do_en_d1a7c478` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.YCTAHHMTNKICCOBETeTHOCTH,OOPTHOR CHTHIO 2.3anoem CHCTEMy OXIAKHNR AEHTETENAKHKOCTEIO 3 3nckaeMnerare y6exacMCR OTCYTCTBHHyTeYEK oxmen KHAKOCTN H3-nonnayka IIpHHeo6- XOAHMOCTHCKTbHCe 3aBOPaVHBBeMnTUHKB KOpnyCTePMOCTara.
 
 ### Pekovci ammn
-`datsun_on_do_en_9c52ada3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnMTaKuMcnocoboMycrpaHiTb Teyb HeynanocTb.CnenyernepeyTaHoeT naTyNK, HaHeCs Ha ero pe3b6oeyio aCTb TepMOCTO rEpMETK 3aMeHHTbMenIHyowanOy.
 
 #
 
 ### 8.213ATHMKJETOHAIMMTIPOBEPKAH3AMEHA
-`datsun_on_do_en_0162fea5` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Heo6XOIHMOCT BInOH pa6oTbi MOXCT 6bTb onpenenena no KOAy HeHCnPaBHOCTH, CHHTEHHOMy vepes AHATHOCTHHeCKHA Pa3seM (CM. -fpoepka TeXHHHeCKOro COCTORHKE CHCTCMEIynPaBICHHRABHraTeICMe).
 
 Boe pa6o nopeyerynrarp（B pexKe BObpa).
 
 ### CHRTHe
-`datsun_on_do_en_e9a9dcdd` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.ToOTBB aOoK Hopao(c,rooka BBTOMOGUR TeXHecKOMy obc.TyBAHHIOHDeMOHTy\*).
 
@@ -4149,7 +3916,6 @@ Boe pa6o nopeyerynrarp（B pexKe BObpa).
 .MBCK&CMOOTH3.naTHK8.
 
 ### IIposepka
-`datsun_on_do_en_eafe465f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OCOMKOKa MyTHMeTp （ pee BoTbTMerpaCpeneOMK3MepeHAno 200MB)
 
@@ -4162,14 +3928,12 @@ Boe pa6o nopeyerynrarp（B pexKe BObpa).
 honee TOYHO AaTHMK MOXHO npoBeputb TOnbKO Ha cneunanbHOM CreHge.
 
 ### B214nATYNK MACCOBOrO PACXOILA BO3JIYXA-3AMEHA
-`datsun_on_do_en_11cd02c9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Heo6xOnHMOCTE BTOHHHR pB-6DTbI MOKET 6EITb onpeAeneHa noKOny HeHCnPABHOCTH, CHHTAHHOMYHepe3HIHOCIHNeCKHA pa3heM (CM.ellpobepka TEAHHHCCKOFO COCTORHNRCHCTeMbIynPaBTeHKgnBsFaTeneMe).
 
 BHOepO perc MyETHMeTp(B peXHMe BObrMerpa).
 
 ### CERTHe
-`datsun_on_do_en_0b34db10` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.Io ao K BoHeHnopaort(CM TloroToBka TOOHLeXHHKOMyoc.TyBaHOO H peMOye).
 
@@ -4189,7 +3953,6 @@ BHOepO perc MyETHMeTp(B peXHMe BObrMerpa).
 ![](images/b01abbba7e87a992a012a301c5e6fda7c0addeeff3fd967dd6e672967df15f50.webp)
 
 ### IATYHK KOHIEHTPAUINN KHCJOPONA 一 IIPOBEPKAH 3AMEHA
-`datsun_on_do_en_f6f37ed0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha aBTOMOSHne yCTeHOBneHO JBa ZTYHKa KHCNOPOItE. PEbora nokasaa H8 BePXHCM nar-Hke, HIKHHR HArNK npOBepBOTaHaTOTHNHO.
 
@@ -4198,14 +3961,12 @@ HeobxOIHMOCTh BbnOTHCHHA pa6OThI MOKCT 6uTb onpenenena no Kony HCHCnPABHOCTH, CY
 IIpoBepka TEXHHHeCKOrO COCTORHHA CHCTeMEI ynpaBnEHHRABHraTeneMe).
 
 ### DavueHR
-`datsun_on_do_en_6fb38047` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 aTyKN yCaHOBneHb pRAOM C kaTanNTNNecknM HenTpanNJaToPOM, KOTOPbIN npn pa6ore ABnraTenR pa3orpeeaerCs BbICOKON TeMnepetypb. BO v36exaHne Oxoroe naTHMKN KOwueHipaunn xucnopona npoBepReM CHNMaem nocne DCTaHs nvrarene o 6e3onacHon TeMreparypbi
 
 L SbmOAHEHRE pa6orw norpe6y-IOTCR MyJIbTHMeTp (B PexHMe BO.Tb-TMeTpa), CMOTPOBAR KAHBBA HUTH 3C-Takana （ CHATH8 HHKHrO RTYH-Ka)H CneUHab KOy LTA nH-AaKHCropona.
 
 ### Nposepka
-`datsun_on_do_en_0f30a27e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IOJrOTaBHBaC aTOOHK OHHOaoTbCM. TlOTrOTOBKa ABTOMOOMTEK TeXHHyeCKOMy oBenykHBAHHIORPCMOHTy+).
 
@@ -4228,7 +3989,6 @@ HanpaKeHeHaBt/BoneAODKo HeMeHbwe 2B.Ecnv anpRkevee noctynaer Ha KDnonKy NOHO MEH
 HanpexenneHaBonax nonXHoGbt 0.458.Ecnapxeeenoyaer HaKonoay nN Homaea 6onee 4eM Ha 0,02 B, HNT,HCaBHa LenbrNTaHRWM HeNCnpaBeH36Y
 
 ### CHATHC
-`datsun_on_do_en_de6fd3ef` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1 H3Bnekaem nepkarenb npoBona AETYHKE KOHUEHTpaUHHKHCJoPOnaH3 CTBEPCTHS 32NTHOTO3KP8Ha.
 
@@ -4245,7 +4005,6 @@ DnROTBOPaHHBaHHRHHrOnTHK HeobxcnnM CneuanbHbn KnOH
 npN OTCyTCTBMN Takoro knIoHa (CM cVHCTpyMeHTb!, npncnoco6neHnR 3kcnnyaraunoHHble Marepnanb!") MOXHO orpesatb pyuky 06bIyKoro pOKOBro a Ha 22MM fpNHeXOC DTKMOXHO BBPHYTbM3CHTOrOKaTAnNTNeCKOrokonnektopa.
 
 ### CHATKe Y pOepKa
-`datsun_on_do_en_5f22210c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IIOOTH OK BOHCHOaOT（CM. TIo,roTOBka ABTOMOEMTA TeXHHecKOMy o6cyKBaHHIO HpeMOHTy>).
 
@@ -4273,7 +4032,6 @@ Hanpaxenue Ha BeoneAonxuo bb HeMeHbtue12B. ECnuHanpRXeHNeHe nocrynaerHa KonoAKy 
 YCRB HeNCnPaBHOCTaTHKa CKOPOCTVMOXHO,3aMHNB erd 3aBeAOMOKcnpaeHbIM.
 
 ### OcHoBHbteaaRane sagKoirrpnsn peryinpoekH wocnysankn
-`datsun_on_do_en_90841a6f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ta6ama 8.3.1
 ![](images/a4e041019864fb5666e1946176c61a62273138f062220a8035005a7d0ad8ef06.webp)
@@ -4281,7 +4039,6 @@ Ta6ama 8.3.1
 G JRIO
 
 ### 83.2 OTIMCAHHE KOHCTPYKINN
-`datsun_on_do_en_83659ea2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHCTeMa TIHTAHNA COCTONT HU ronnMBHOrO 68Ka, TOLIMBBOrO MOTYnR, TOnTHBHOrOdLTbTpa, TOrLAHBHCRPaMtcΦopCyHKaMH.BO3ayuHorObrpa, ToHBOnPoBOIOB,Bo3ayxoBOOB. poccebHoroyara,BnycKoro TpyonPOBOJa8Te CHTya napoe 6eH3HHa.
 
@@ -4317,7 +4074,6 @@ Me pamH paT CHTe Brphicka.
 Perop1-C cpoca oHoro oa2. 4- ytnoTHTeAbHHe Konua; 一 OTaepco  yop5 KopnyC,6-BIBERCOeaHHHHeytopa.c.MaccoR
 
 ### 83.2 OTIMCAHHE KOHCTPYKINN
-`datsun_on_do_en_5ebf70be` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TorusgubTp -6yMaxHbIA,ycTaHOBIeHEMeTaLHyeCKOM Hepas6opHOM KOpryce.
 
@@ -4351,12 +4107,10 @@ PecHbep AHaTC BnOHCH H3 CHCLIMEUTHOR IUECTMACChI.
 ![](images/25305c2ed10c0e8120f96f8864c49cef96b84ce15dc34ebe4b30065710dbbb3d.webp)
 
 ### Pecnnep
-`datsun_on_do_en_277912c1` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TIpoka 3ALHBHOR TOP.TOBHHb RMCCT JBa KnareHa: ODHH DLA 8BaPHBHOro cbpoca BCHHR napos TOTLANBS H36aka (4TO BO3MOKHO TIPH noBbueHHY TeMmepaTypu okpykaiomero B03- nyxa), APyrOR I nAR nocTyLIeHKA BOyxa H3 aTMoccepbr nIpH pacxoaoBAHKN TOrUIWRa H36aka (9TO HCKTIOHCTBO3HHKHOBCHHE cUTbHoro paapexeHHA B 6aKe).
 
 ### ocneao 中 InOTHCHH
-`datsun_on_do_en_b36b8ae0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IOJOB/ arOK BbIHTOTHeHHIG paOOTN (CFOrOTOKA
 
@@ -4371,7 +4125,6 @@ JHBHON paMIM.
 3.ICoHHRM HAKOHCYHHK JLAHra MAHOMeTP& K AHANHOCTAHCCKOMyyupy ToHHo pantl.
 
 ### PexONENINAUN
-`datsun_on_do_en_7f12b480` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Npn HeOxOJNMOCTH naanehne TonnHBHonpaMneMOXHO MepiTb CMoAenbHaM np6opo, H3roroBME ero 3MaHOMeTP& r HOKHOro Hacoca. nepen nogcoeRnHeiem rakoro MaHOMeTpa Heo6xonnMo cOpOcHTbAaBneHie ronnvea nocne 3Toro BbIBepHMTE 3ONOTHNK H3 wTyuepa TOrUIHBHON DAMNt.3rMOHo cnenatb MeT aUMNecM KOAnaNKOM OT HMnens e Dns COEnVHeHng MaHOverpa C0 WTy epoM TONAMEHON pamrb cnenyer ncnont3OBareOTpe30K 6eH3ocronkoro naHra naqxoARWerO Anamerpa KOHub! LnaHroe AOnH b Hanexo 3arpenneHd XOMyTaMN.
 
@@ -4386,7 +4139,6 @@ Npn HeOxOJNMOCTH naanehne TonnHBHonpaMneMOXHO MepiTb CMoAenbHaM np6opo, H3roroBM
 3auyckACM BKraTn H HSMCPACM pa6ogce eHe TOUHBHOH pane IpH pa3HOR HaCTOTe BpaeHHRKOeHTOro Ban. yHcpaBHoro BraTeHO OKO 6bITb peaenax 378- 390klIa (3,8-3,9bar).
 
 ### 7.BbKToc 3aTaHe.
-`datsun_on_do_en_0f1b531a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 8. Onye KOHeL TPyKH BeMKOCTb, OTphBaemuuep 中 cOpacmhaemaneHHe Ha TOnHBonposona.
 
@@ -4399,7 +4151,6 @@ Npn HeOxOJNMOCTH naanehne TonnHBHonpaMneMOXHO MepiTb CMoAenbHaM np6opo, H3roroBM
 Ecnnpabcyee gaaneHneTonnuBHOn pamne Hecra6nnbHo WAN 6onbwe HOPMbI, TO HencnpaseH perynRTOP DEBneHKRTOnnNBa HnakoenaBneHne (MeHbwe HOPMb) TBKKe MOKeT 6bTb Bb1388m0 HencnpaBHocToIo perynRTOpa, BO3MOKHO, 3acOPNnCR CETHaTbIn ΦunbTp TOnNNBHOrO HaCOca, NAN TONAMBHEIN Hacoc He pa3sNsaet HeD6XOANMOro DaBneHNR.DnROHNCTKN ceTHaroro unatpa BamHeobxognMo CHRTE TONnNBHbNMOAynE. YbenuTbCA BHevcnpaBHocTn perynRTopa nasneHVA M TOnnNSHOrO HaCoca MOXHO, 3aMeMNB MX 3aBeAOMO nCnpaBHbIM. TaKxe MOXHO 38MeHMTb TONANSHbIN MOAySbs c6ope.
 
 ### Iiocnenosar reTbHOCTh nOJHeHH
-`datsun_on_do_en_cb2a83e6` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 LIOTTOTaIHBTOMOSIbKM nOHeHMIO peMOHTa(CM. TToarotoska aBTOMOGFUIAKTeXHeCKOMy OOCTyHBaHRO HpeMOHTy>).
 
@@ -4412,24 +4163,20 @@ LIOTTOTaIHBTOMOSIbKM nOHeHMIO peMOHTa(CM. TToarotoska aBTOMOGFUIAKTeXHeCKOMy OOC
 ![](images/74a4059d28f6ebe51527cfbf742d84a969a83db5cc02565401b445afb90d5c78.webp)
 
 ### Hoeaynnesnenne!
-`datsun_on_do_en_e983241e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ToΦpe nnbtpyiouero 3neente DonkbpacnonaraTcRanonbCrpeiok, HaHeCeHHEIX MB BHyTPeHHen noaepxHOCTU xopnyca soaayHoronbpa.
 
 6.TaHaMCTo 7.3opaBac BHHTAI KpenCHHR CPLLWIKH.
 
 ### PekoweGR
-`datsun_on_do_en_be96d73d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 YTobbI KpbILuKa Kopnyca repMETWHO 6xana ynee pyouero 3nemeHta, HTbCnyT 3aT paBnOMepHO, no non-obopotae CKOnbKonpneMos.
 
 ### BO3AYIHbILITP CHATHEHYCTAHOBKA
-`datsun_on_do_en_e5d69bea` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OnepaLHa MOKET norpe6oBaTbca nPH PCMOHTe IBHrETOnA Nero CHCTeM. To3toMy BO MHOTHX cnyuasxuenecoo6pa3Ho CHRTb OTETP BMecre C natUMKOMMaCCOBOrO pacxona BO3nyxaHIH naxe Co UUTAHIOM nonsota Bo3iyxaK ApOcCeTbHOR 3ACnOHKe.
 
 ### CHRTHe
-`datsun_on_do_en_b9c5511b` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OOT TOOHb K eopaocooa EBTOMOGILTA X TeXHHeckomy o6cnyBAHHIO H peMOHTys).
 
@@ -4454,7 +4201,6 @@ OnepaLHa MOKET norpe6oBaTbca nPH PCMOHTe IBHrETOnA Nero CHCTeM. To3toMy BO MHOTH
 HHaeKaeM Kopnyc BO3yuro bTa BMCTeCTHKOMMCCOBOrO PacxDnE BO3AyxAH3 MOTOpHOrOOTCeKA
 
 ### 836PECHBEP BIIYCKHOTO IPYSONPOBOJA 一 CHATHE, 3AMEHA YIUIOTHEHHE, YCTAHOBKA
-`datsun_on_do_en_274740ac` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHRTWE
 
@@ -4480,7 +4226,6 @@ CHHMeM XpOHUTH. 4.HaxHM KTIOVOM B8 10 M OTopHae raRKy eBoro KpeeA pecHBepa.
 ![](images/d66ecf49ded53f7ae1b50373b859c6bd8dac5403d7fda57a59184972e3707369.webp)
 
 ### 6.CHKMacM pecHep naHrATeAg
-`datsun_on_do_en_18604e55` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/91898d4cd0699c9e60d1e08beadbceb8f8e47398069c435f42a9c0ffb2d1ded7.webp)
 
@@ -4492,21 +4237,18 @@ VeTAHOBKa
 CTaHaBTHBa eCHep B OOpaHOR nocCOBaTebHOCTH.
 
 ### IIocenoBemRoCTs SbIOJIHeHHA
-`datsun_on_do_en_b51a6182` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OOC OObK BOIHeHIO paGoT（CM.ooToBKa aBTOMO6IL8KTeXHHeCKOMy O6CnyHBAHNION PeMOHTy).
 
 2.H3Bnckac peaoxpaTebuen TOFMHBHOFO HaCOca CM. MOHTAKHUA 6J1OK 3aMeHa rlpenoxpaHHrenen H peneo).
 
 ### A
-`datsun_on_do_en_e3f607e4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 MOXHD OTCOeAVHNTS KOnOAKY npoBOAOB OT TOnnNBHoro MOAynA (CM. ETOnnNBHbIn MoAynb a CHRTMe M ycTaMoBka").
 
 3.BKo capep,rpoBopaacM KOCHarsR Ban8egHe 10-15c
 
 ### MNCM
-`datsun_on_do_en_a2705a63` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ECnNABNraTenbnpN3rom3anycunCA, xAem, noka 6yner Bbipa6oTam secb 6eH3HHH3 Tonnnsonposona bt Nrarenb3ar/OxHeT.
 
@@ -4517,12 +4259,10 @@ ErwamKaCHHe!
 Tocne c6pocacaenenngTonnueonpoBone OCTaeTce Hebonbwoe konn4eCTBO 6eH3Ha. He AonyckaiTe ero nonanaHve Ha ropeyne netann.
 
 ### CHATHe
-`datsun_on_do_en_a781c3c6` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.TOOT OOb K BOJIHCHHIO paOOTL(CM. eIIonrotoBka ABTOMOOHLA TeXHyOCKOMy OGCBAHHIO HpeMOHTy>). 2 C6pacueecM nAB.cHe TOTAHBA (CM. BbIe, TornraonpoBon -c6poc naBnekHRe).
 
 ### Opeaxungkeat
-`datsun_on_do_en_f9e5a5d8` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocne cbpocaaBneHRTonMBon poBOAeoCTaeTCR HebOnEL/Oe KDnVHeC T8O TONnMBa.
 
@@ -4543,19 +4283,16 @@ CTAHORK
 VCTAHB HBHb6 PETHOR nOCnCTOBATeHOCTH
 
 ### IpeAyspekteHHe!
-`datsun_on_do_en_9dc8d78a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OopaTnte BHNMakne Ha Crpenky, HameceHHyIO H8 kopnyc unbtpa n yxab/Baouyio Hanpasnenne noToka TOnnnBa. OHa AOnKHa 6biTb Hanpaenena xnepennen NACTMBB: TOMobunR.
 
 ### Castse
-`datsun_on_do_en_ffdab488` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CEpach ee TO B TOnRBonpoBone (CM. TonnHBonpoBO-CEpocaBCH).
 
 2.CHacm pecnep （c.PecepBnyckHoro rpyonpoBon 二 CHRTKe,aMCHayIOTHeHHR NyCTHOBKa>).
 
 ### MIPN
-`datsun_on_do_en_ec2a5177` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ECtNHe CHMMaTb pecnsep. TO Torga npn cbopke rpyano c6ecneunb Meobxoanyarotyoyok
 
@@ -4588,7 +4325,6 @@ TogpexAeHnbe ynnOTMNTenbHBe KOnbLa3aMeHeM.
 yabeocropoxlBonnBoipamne octanocb He6onbwoe kann4eceo TOrUIBa.
 
 ### Pas6opka
-`datsun_on_do_en_ab096321` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.HB O CHHMACM ΦHKcaTop.
 
@@ -4601,24 +4337,20 @@ yabeocropoxlBonnBoipamne octanocb He6onbwoe kann4eceo TOrUIBa.
 3.AHBJOHHO CHHMCM TPHApyme bopcyHkK.
 
 ### JesyoNad
-`datsun_on_do_en_c7cadf71` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 COeJMHeHNeOPCyHOKCTOnvHON pamnon.nc BnyckkbIMpy6onpbaoAOMyrUIDTHeHpe3NHOBbMN KOnbuaASM. ospexebeynnoe KOnbua3ameHRem
 
 4.IIpHHeoxOHMOCT MTLeCKHM KOJnaNKOM OT HHnneAS KO.icca BBOPHB OOTHK AHHOCTHueckoro mryuepa.
 
 ### C6OPKA HyCTRHOBKR
-`datsun_on_do_en_0e1b675e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CoHPaeM HyCTaHaBHBaMTOLMB-Hyo paMy B o6paHo noceoHOCTH.Tepec6opkoR cMa3aemy-nOTHHTEJTbHNC Pe3HHOBbe KOUA MO-TOPHbIMMaCJIOM.
 
 ### CHATRe
-`datsun_on_do_en_648f1a37` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IOTOTBKB TOOO BnOHeHiOpao (CM.TOArOTOBKa asTOMOEIK TeXHeckomyobcyKHBaHO HPCMOHTye). 2.C6pacbaMee ToCM. TonTHaOnPoBon -c6pocnaRTeHHae).
 
 ### AtbeavungLlenme!
-`datsun_on_do_en_aad670d6` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocne copocagaBneHuAeTonnusonpOBOgeOCTaeTCRHebOnbLUDeKONHeCTBOTON/INBa,
 
@@ -4660,7 +4392,6 @@ Bbr HTepbMrnaTnkayka3aTenRyPOBHR TonNBa.LnATorocnerka HaKnonte MaybWakypaobennte
 ![](images/eeea6081efa3f76127b4fa498405b8a550d313f2a7b6dc478d360dbcdb17d871.webp)
 
 ### yCTAROBKR
-`datsun_on_do_en_b72e9c97` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.AKkypaHO 38BOBOKB OTBePCTHe 6aKa,yCTaKaaTHBaCM TOLHBHbA MCynbHOpHcHTpyeero86ake TRK VToObl CTPCTka Ha xpblke TOnJHBHOEO MOYnR GHT HanpanncHaHasan (no xOny aTOMO). BCTyn2 BOuen na3 Hua pHapeHHoro TOUIHBHOMy 6aky.
 
@@ -4675,7 +4406,6 @@ Bbr HTepbMrnaTnkayka3aTenRyPOBHR TonNBa.LnATorocnerka HaKnonte MaybWakypaobennte
 5.TIo aepeHH pa6o yctaHaeM Kpy ka  oyky - Hero CHeHbR Ha MeCTO.
 
 ### Pirou.gatHk
-`datsun_on_do_en_5bf854de` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HapyweHMR pabore caryMka rkasate
 nAyPOBHR ae BcerOCBR3aHb!
@@ -4686,7 +4416,6 @@ OA LUEHMN
 ona Apyrce Hevcn DasHbiV HeHNTo
 
 ### CKgTHe
-`datsun_on_do_en_5ce4a21b` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHHM TOH OC. Bwe,To O -CHATHC HyCraHOBKa).
 2. CHRTHR THKa yKaaTCyPOBHA TOnHBa C/Brae Kpuy TOAHBHOTO MORYns.
@@ -4711,7 +4440,6 @@ ona Apyrce Hevcn DasHbiV HeHNTo
 8.CBc Aar no sam38- 6OPHORKMCN TOBHOO OYH CHHMBCM.nTYHK.
 
 ### CaRTHe
-`datsun_on_do_en_8be10739` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHHMTO OyTb（CM. TOHHR MOAynb CHRTHe HyCTaHOBKa>). 2.OTcoeM HAKOHeTHHK npoBOJA orperyngTopa naBneHH TOILIHBA (CM. aTHK yaeens ypoBH TotB-3amcHap). 3 HBOR OTBCPTKOR nOLICBCM H BbIHNMACM npyKHHHbIR Φnkcarop PeryngTOPaJAHCHHA.
 
@@ -4725,7 +4453,6 @@ YCTAHOBKS
 VCTaHBHBCM HOBIR perynATop TCHH TOLHB oGpaTHORnocneAOBETETSHOCTH, npeJBEpHTeTSHO HaHeCRHayOTHHHNKO7OHKH CAORMOTOPHOrOMaCTa.
 
 ### CH8THe
-`datsun_on_do_en_1be69496` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHMe TOBHI MOyCM TOTHBHA MOyT CHATHCHyCTaHOBKAD).
 
@@ -4736,7 +4463,6 @@ VCTaHBHBCM HOBIR perynATop TCHH TOLHB oGpaTHORnocneAOBETETSHOCTH, npeJBEpHTeTSHO
 ![](images/02eb01343e487bd2d020a020dbdb79409e1ef0df915289f92c97cf0266e44745.webp)
 
 ### eDeXADme!
-`datsun_on_do_en_0a5abd09` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Mapkepom OTMeTbTeHanpaBnRIOyIo,Ha KOTopyio HaLera npyxnHa. nepecTaenRrb ApyxnHy Ha Apyryio HanpaBnRiouyo Henb3s.
 
@@ -4757,7 +4483,6 @@ Mapkepom OTMeTbTeHanpaBnRIOyIo,Ha KOTopyio HaLera npyxnHa. nepecTaenRrb ApyxnHy 
 Ecnn ceruatbin 中unbTp CunbHo 38- TPR3HeH N OYNCTHTb ero He YAaeTCR, BaMeHNTe ero(CM.Huxe).
 
 ### BTOILINBHIA HACOC3AMEHA
-`datsun_on_do_en_137fa593` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 #
 
@@ -4766,7 +4491,6 @@ OnepaLNRno3aMeHe Hacoca Tpebyer onba NaxxypaTHocn(MOxHonospeAHTb3neMeHTITOUINBHO
 J Bnoen paoT oeGy eTCR eH （TeXHHueCKH）H ropaYN BOTTa.
 
 ### CHRTHe
-`datsun_on_do_en_5efef5c7` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHHMMTOTUBHRMOYCM. ToBHR MOyn CHRTHC HyCTaHOBKA). 2.BbHHMaCM HCOC H3 3a6opHoR KaMepu TOTAHAHOrO Monyna (CM. Bbue).
 
@@ -4785,7 +4509,6 @@ UTT 6
 #
 
 ### Tir
-`datsun_on_do_en_fc5c27c0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 光 务 Iip POICIDA SDOSy
 
@@ -4814,14 +4537,12 @@ Ha N sapoa Gty
 ![](images/22cf0bea976e17f19424c7fb1f23ca9295214a7ad204a6a36c2c50030632ea35.webp)
 
 ### PMOAHE
-`datsun_on_do_en_52292759` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Cnere 38emneparypon Harpesauxeanen,He neperpeire nacoc pybky.
 
 7.CHae opHpoByi pyky enatpyOka Hacoca.
 
 ### VCrAHOSKR
-`datsun_on_do_en_4d08154f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CTHABTHBCM TOIH moxynb o6paTHOR nocnenoBaTe/IbHoCTH.
 
@@ -4830,7 +4551,6 @@ IIPH 3TOM, Haneaas CeTYaTBIR DITATP, WAHLCBOR OTDEPTKOR CHOKHMJIe3BHcMHaftpcccoB
 ![](images/c8e83697af097dc7f857d7bfabe071de5f60e63c727f3c5b0770239285fdf35d.webp)
 
 ### 自 TOIJIHBHBIA EAK-CHATHE H YCTAHOBKA
-`datsun_on_do_en_063f4a37` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha ToLHoM 6ake CBepxy yCTAHOBeH ancopSep CMCTeMht yJaB/IHBaHH8 AOB TOUH,CnABOR CTOPOH K Gaxy npHpCUICH TOLHBHHRHT.
 
@@ -4839,17 +4559,14 @@ noe paor nopeyerCCMOTPOBaKaHa KUTH 9CTaua H WaHAngnepeKauKHTOLIEa.
 Pa6OTy BHnOSHReMCCOMOLIHHKOM
 
 ### ANES8EN
-`datsun_on_do_en_1cf1d56e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 MoXHO obontTucb 6e3 nOMOuHNka npn3TOMeobxogperynupye nDBbicore ynop nnnnoncraeka.Ecnn eCTbBO3MOXHOCTb, nepen BbinonHeHveM paGotbCnenyeT MakcnManbHO V3pacxonoeaTb TonnvBon3 6aka
 
 ### CHATHe
-`datsun_on_do_en_2bf7e922` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.o aKo paoTh（C. TlO,TOTobKaaBTOMOGKLLA TexHHeCKoMy oOcy-BaHHIO PeMOHTys).2 C6paChBaeM nHHe TOa(CM. TonIHBOnPOBOn = c6poc nas-ReHHA>).
 
 ### YAHe
-`datsun_on_do_en_e78dd341` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocnecopocaaBnekgonon posoneocraercRHebonbwoekonvuecTBOTOnnnBa.
 
@@ -4901,7 +4618,6 @@ I1.Cra xoy no ury HOTCOeHHReM UUIAHr OT SATHBHOR TpyObl
 16.IpH HeoxOoCT OTCOeHHRCM OT 6&Ka ancopbep H TOTUIHEHNIR OHIbTp.
 
 ### NH
-`datsun_on_do_en_d2589f62` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BCnyyaeeCnNHeobxOnnMo3aMeHIITb ancop6ep. cneayer AeMOHTNPOsaTb TONUIMBHbIN 3BTOMOONnR Kak noka3aMo npn Heo6xonNMOCTN MCUKHD OCAC OnNtb nocTyn ancop6ep HeMHOrD OnyCTNTb 6ak Ha nOAcTaBke, perynnpyemon no BbICOTe. npn 3TOM He noTpe6yerce OTCOEANHATD OT 6aka ace Tpy6kn, rnaBHoe wnamr 3anneHon Tpy6br (4TO akTyanbHo ECnN B 6ake MHOro TONnBa). HO OTCOeRMHRTb TpyOknN H3Bnekatbaacop6epsce paBHo6yner 3aTpyAHTenbHO.
 
@@ -4911,21 +4627,18 @@ VergHONkA
 VCTAHBUHBECM TOTNBHHA 6aK o6paTHOR nOceOBTeTHOCTH.
 
 ### OMCHARMHR
-`datsun_on_do_en_64197f3e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnnHeynanocb 3anycToanrarenb CAByx Tpex nonbITOx, nonpobyiite yAannToBO3AyX3TOrnNBHOi panb yepe3KnanaHANanHocvHeckorowTyuepa (CM. "flposepka TexHn4eckOro COCTORHNA CHCTeMEI nVTOVRA).
 
 ![](images/fb0883bb0b0a2892bf54444c43c179d07eb7b7c817f8454ed18c41856edfa495.webp)
 
 ### OcBonsnJe nummue ug Korpone PEHBKMKOOCayKHHH
-`datsun_on_do_en_c6db78ec` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ta6B 8.4.1
 ![](images/7587ee93a786dd1562300e3b217ca7d7e0b35766df81a68707fb281dc84fcd4f.webp)
 nOIyYCHKR HHOPMILKHO nPHMCHRMOR OXML AAOUIeT THTbCHHA CHyiOCTaHUHIO OHuHaTHOrO LepaDatsun
 
 ### MOMenrs JRKH DELOOBX COemea
-`datsun_on_do_en_cb42c180` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ta6.nua8.4.2
 ![](images/b0d7db6eb62ee3ecf8a9992eda5f0e1bc258effdb3da3c7ee3dff16f44478084.webp)
@@ -4934,7 +4647,6 @@ Ta6.nua8.4.2
 CTU OXI-L OOBOX KOCTHH3 pOa OTO;2 AHT OBOAXAOI HKOCTHK oy oe3 OKOCTKH3aH4 paceoroa5-pacpe6- BOK naPOOTBOARR IUUSEHr paTopanraren, -repMocTaT, ULTAHT nosna HZKOCTH paopy e snexrpoop popa10 op11-oroo12-Hccoeo13 aXuapy6aHacocRDXaKaBouleBXHKOCTH
 
 ### OTINCAHHE KOHCTPYKUHN
-`datsun_on_do_en_542328d3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHCTEMA OXKHHA BAR 一 KHAKOCTHA,3aKPETOrO THna nPHHyAHTESHOA LHPKYLHeA OXnaKBIOLeA XHJKOCTHHPaCUIHPHTC/IbHNM6aHKOM.
 
@@ -4951,19 +4663,16 @@ DH KOMTCHCBUHH TerLAOBOrO pacWUHPeHMA KCHAKOCTH CHCTEMe OxakDeHHa ycraHOB.Tes pa
 EcnnaBromobweNaxopMTCRHarapanTHHOM OOcnyBaHN,BO 36exaHMe noTepurapaHtW peMOHTvPOBaTb aTOMOwnenyer yCboro Dunepa DATSUN.
 
 ### 福 IIPOBEPKATEXHHYECKORO COCTOAHNACHCTEMbI OXLAKIEHHA
-`datsun_on_do_en_8a955f76` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 IIpH KCTyTIHH TOOAoLeHHB8Tb COCTORHHe CHCTCMbI oxnakzeHHS HOP aMne ITeperpe KHAKOCTH pac IK IIOHHKeHHE YPOBHs OCTK, KaK npabuno, BbI3B8HO HupyueHHeM rep MCTHYHOCTH CHCTEMbI. IIpH nOHoKeHHNYPOBHR Io OTMCTKH MIN HH 3aTOPaHHH KOHTPOVIbHOR JMTHIBO3MOKHOHAHUHC HEMCnPaBHOCTH CHCTEMC OXIaKaeHHA.
 
 ### Eeyee!
-`datsun_on_do_en_0ff76533` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ypoecHb oxnaxnaoLennpkoctn ChepyeT npOBepATbHaXOnOAHCMABNrarene HeKoTopoe noBbIweHne MN nOHNKeHNe yPOBHR oxnaxnaoen XHCKOCTN nPn Harpebe T oxnaxneHMAenraTena HenCnpaBHoCoiO He REnReTCR. 3TO CeR3aHO C TennoBbiM N3MeHeHNeM ObbeMaXNxOCTN.
 
 2. IpOBepReM ypoBeHs oxJIaknaiouen KHAKOCTH B PACWHPHTenbHOM 6ayke.KOTOpI nOUKeH HaXOIHTCR 18 25 30 MM BbIe MCTKH MIN, BblDIOTHEHHOR H8 xopiyce pacmkpnTe.ibHoro 6auka. Ectn yPOBCHb XWKOCTH HAXOIHTCR Ha OTMeTKe MIN HAH HNke, nONMBaem B 6aok x8- uyO KHAKOCTb (CM. Oxaxnaiou XHAKOCTb 一 3aMCHae),
 
 ### Turim
-`datsun_on_do_en_fbf3f54b` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NntekaHneoxnaxnaoenxunock N3-nog WnaHroB MOXHO nonbITaTbO ycrpaHnTb, 3ameHns npyxNHHue XOMYTEI BNHTOBEIMM. NpN3TOM Me nepeTRHHTe XOMyTbI,r. K OHN MOryT nope3aTbWnaHrn.
 
@@ -5002,14 +4711,12 @@ ECnN CncreMa OxnaxAeHNe ABNraTens NCnpasua, TO npn Temne. parype oxnaxnaouen XNA
 meR KHIKOCTH Io onpenenenHoro HHR 3neKTpoBeHrop BOnKCHBKIOUHTCS, oce noHkeHg reuneparyph 一 38TOMTHYeCKH BNXTIOUNTSCR.
 
 ### SOMEICIAHN
-`datsun_on_do_en_69c36eb8` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ECnN 3nekTposeHtunRTOP BOBPeMR ke BKNICHNNCR, XNAKOCTb 3aknnena, Heo6xonNMonpoBepNTbNcnpaBHoCTo anexponenrarens seHTHnFTOpa HnD ucnpasnoctb CNCTembi ynpaaneHng nsnrarenem.
 
 fpobepka AaTunka TeMnepatypbl oxna\*naouen KNDKOCTN noka3aHa Bpa3eneLakenepaypbOxnaxnaowen KNOKOCTN = npoBepka W3aMeHax,
 
 ### OX/LAXJIAIOIIAR KH/IKOCTb-3AMEHA
-`datsun_on_do_en_2b7d737f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OxKnUyIOXHKoCTb 3MHMsepe3 75000 KM npobera, nH6o vepespu rona, B 3ABHCHMOCTH OT TOO, VTOHUCTYTHTpaHbLUe.
 
@@ -5018,7 +4725,6 @@ Luoe ao nopeye山HPOKaR eMKOCTb OOeMOM He MeHee8n.
 Pa6ory yobeeoHacOTOBORKAHOBe HH3CTaKae.
 
 ### IocenOBe.ocr Buno
-`datsun_on_do_en_8dbe3640` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 .IIOnrOTaHe aTOMo6 K HeHHo paor（C TloaroroBka OMObLK TeXHHeCKOMy ocnyHO H peMOHTy). 2.CHHMaeM 6pbisroBHK IBHIATenR (CM. -Iipobepke TexHnyeckoro cocTOBHraTenA)H 3auHTy Kaprepa (eC.TH yCTaROBnena).
 
@@ -5047,14 +4753,12 @@ CA虫点
 ![](images/bf12aea6e89fb4a333cff7b9c379203daf5296da98350089508d919428f768d9.webp)
 
 ### PeKCNEUUBS
-`datsun_on_do_en_27d34a75` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ncnonb3ynte oxnaxnaiouiyio \*unKOCTbCTeMnepaTypon3amep3aHHa 10-15 CHMke CpenHeCTATnCTWNeceneprypi nepOAB pervoHe, BKOTOpOM3kcnnyarnpyercR a8TOMO6nnb.
 
 9. KHEKOCTb 3aTHBaCM ⅡO BepxHeH MCTKH pacupTebHoro 6aka. 3anyckaeM rab H JaeM eMy nopa6oTaTb Ha OBbuCHHbIx o6opoTaxIo BKHOTEHHE SCKTPOBHTHIRTOPa IIpH HOHHCHHN yPOBH ke ROTHBACM XHJXOCTb.
 
 ### CHNTue
-`datsun_on_do_en_26191c50` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. HBCTHUHD C xyo HKOCTCM.W Oxiaxaouan XKHIKOCTb -3aMcHae).
 
@@ -5075,7 +4779,6 @@ S.KNOHO Ra 10 MMOTBOPaYHBACM rafxynepemHero KperueHug 6ayka.
 6.3aekac pacupeb 6- YOKH CHHMECMCTO.
 
 ### VeTaHOBka
-`datsun_on_do_en_a68ec167` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.VcraHae 6avCko5paHo HoCJenOBaTeJIbHOCTH.
 
@@ -5086,7 +4789,6 @@ S.KNOHO Ra 10 MMOTBOPaYHBACM rafxynepemHero KperueHug 6ayka.
 4.BoeaeoCMyPOBeHb OXOleRKOCTH acpHTebHOM 6ue.IpH Heo6xoJHMOCTHHOBOUUMyPOBCHKIKOCTHB GayOKnO HOPMuL.
 
 ### CHsTHe
-`datsun_on_do_en_cf9bd3a4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 L.CHBae xaoKoCTb(CM. Oxaxnaoutg KHGKOCTS 3a-MCHa).2 CHMMaeM BOGUYHIR DuTbrp(CM.Boaayup CHRTHeHyCTa-HOBKa).3.OTcoenM KOOIky POBoJOBOT HaTuHka TeMTtepaTypEl OxtaknRIO-QeRXMUKOCTH (CM. larunk TeMnepa-Typ xaKAameR XHIKOCTH CHA-rie,npoBepka HyTaHoexas).4.KpecTooR OTBCPTKOR ocsa6sig-CMXOMyTEL KpEnnCHHA HBYX UAHTOBKraTpyOKaMTepMOcraTa.
 
@@ -5110,12 +4812,10 @@ aHr OBOna XKOCn K Paaaropy.
 ![](images/54a6c41ef8855ca07cff8b87cb6f8890590c1d0cabe4dba3f5a2f0e4df20f16c.webp)
 
 ### S
-`datsun_on_do_en_c92d1769` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Nposepute pa6oTocnoco6HocTbTepMOCTara MOXHO. onycrie ero BeMKOCTb C BOAON, pasorperonnoTeMneparypbl, 6nn3kon K TeMne-patype KuneHNR. KnanaHQonxeHOTKPEITbCR.
 
 ### CTAHOM
-`datsun_on_do_en_273c52ce` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.VcTaHaBIHaCM TePMOCTaT B O6- PATHON TIOCNeJOBTEbHOCTH, 38mCHHB yOHHyIPOKaKy HOBOR.
 
@@ -5124,7 +4824,6 @@ Nposepute pa6oTocnoco6HocTbTepMOCTara MOXHO. onycrie ero BeMKOCTb C BOAON, pasor
 3.Voekcmcs BOTCyTCTBHHnOTe-KAHHAKHLIKOCTH BMCTXCOZHHHHILTAKTOB TePMOCTaTOM. IIpKHeo6xo-IHMOCTHnOaTArHBaeMXOMyThIKpeLne-HHAUBHIOB.
 
 ### CHATHe
-`datsun_on_do_en_99b14add` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHBaMXOyXRKOCTb(CM. OXX1OUan KHAKOCTb- 38-MeHa-).2.CHH ynpuBoaa IPM（CM.PeMeHb poTPM -3aMeHa).3.lecpO n 5MMOTOPaUHacM TpH 6onTa KPenneHHRHACOCa OxoeXHKOCTH
 
@@ -5135,14 +4834,12 @@ Nposepute pa6oTocnoco6HocTbTepMOCTara MOXHO. onycrie ero BeMKOCTb C BOAON, pasor
 ![](images/82e525ae2b6a6678781d49a2ac8ac1d36ae2d609857757d83318e87a9a317913.webp)
 
 ### MESAnn
-`datsun_on_do_en_e7df6f62` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B3anaCHbeHaCTNMOryTnoCTaenRTbCR Hacocal C Pe3NHOBbIM ynnOTHNTEnbHB/M KonbLoM. non Takne Hacoce npoknanky HeycraHaenuBair.
 
 ![](images/a1fc761c8f76c3d58e2f73718355096157b2e70b59a4123cf8d3c6b1c9d93e5a.webp)
 
 ### CurRe
-`datsun_on_do_en_fcf7a69d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. IIonroTaBnHBaCM ABTOMObLTb K nOHCHnOaOT（CM TonroroBka aTOMOOKR TeXHHHeCxOMy o6cTyXHBHHIOHDeMOHTye). 2. CHHMaeM BO3AyIIHbH ΦunbTp McEo BO3ayxOBOnl (cM. BoaayuHbth dHmbTp CHRTHe H yCTaHOBKas). 3.Ve XO KeR CHCTeMbL OXIaKACHHR K KOxyxy BEHTHATOpa.
 
@@ -5152,7 +4849,6 @@ B3anaCHbeHaCTNMOryTnoCTaenRTbCR Hacocal C Pe3NHOBbIM ynnOTHNTEnbHB/M KonbLoM. no
 ![](images/1eeadf3854be5471e6db539e250527fc6224e2fc293f96600c4e4190a9c15def.webp)
 
 ### PasGopka
-`datsun_on_do_en_071e64ef` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 .OTcoeeyeKTPOHBHTATeITNBeHTIUIHTOPEOT KOXYXA.
 
@@ -5190,7 +4886,6 @@ Cobupaem HYCTaHRBIHBAeM 3nekpOBCHTHIRTOP OOPETHOR nocAeoaTCbHOCTH.
 C6opkaHyeraHoka
 
 ### CHATRe
-`datsun_on_do_en_b611d201` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CRBaCMBKOIyXKKOCT (CM. Oxaxaonag KHJKOCTb- 3aMCHa>).
 
@@ -5225,7 +4920,6 @@ H aKKypaTHO H3BTeKaeM ero H3 MOTOPHOroOTCeka.
 ![](images/a0cb88b8a237f13578731231341bb3daaa06495365f605104752192f7881cef7.webp)
 
 ### VCTSHODKE
-`datsun_on_do_en_91cbf35b` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 #
 
@@ -5242,7 +4936,6 @@ EcnNpaavarop 6unB3kcrnyaraLmw, To nepen ycTaHoBkoN OYNCTNTe ero CHapyxn OT rPR3N
 5.Y6exaeMCR B OTCyTCTBHH noareKaHHA OXKnaOLIeXHIIKOCTH BMeCTSXCOAHHHKA IIpa HeobxoaHMOCTH 3MCHRCMXOMyTElKPCHH ITEHOB BHHTORAIMH. Nospexsehible WnaHrH 3AMCHACM.
 
 ### 3une
-`datsun_on_do_en_c85b36c7` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aBaR BHTOBbe XOMyT& He ne peTAHNTeNX,TKOHN MOryTnOpeaT wnaHrn.
 
@@ -5251,14 +4944,12 @@ UF
 ![](images/b7ce6b47559f40a19fd32ae59b5208cf2498c20531e609bea5a046ad9460ed47.webp)
 
 ### MoM Hru 3arsokknpeL.SoBso cootHemol
-`datsun_on_do_en_feb8dd66` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ta6nHua 8.5.1
 ![](images/0ad2eab949136078d6af6a497e9558813b6867ecd5bbe932c69fa7ef044ce631.webp)
 IOBTOpHOe HCnO3OBHHe raekwenonyckaercg.
 
 ### 852OIHCAHHE KOHCTPYKUIMM
-`datsun_on_do_en_ea6daf80` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHCTeMa BNnyCka Orpa6oTaBux ra30B COCTOHT H3 BEIrtycKHCrO KO.LICKTopa, pHMHO TpyOb, OCHOBHOrO 中 nonONHHTebHorO Enyenen H060- pynoBaHs KaTaIHTHYeCKiM HeRTpaTHsaTopOM.
 
@@ -5272,21 +4963,18 @@ CRCTeMa BNnycka nonsewena K KPOHWTeRHAM Ky30B8 Ha yeTupex pe3HHOBbIX KonbLax 4 n
 8-npHeMHaRTpy6s; 9eKeybKbuo11-C rnywrrerb;12 -CKObxOMyTa
 
 ### 8.5.3 IPOBEPKA TEXHMYECKOrO COCTORHNA CHCTEMbI BbIIIYCKA OTPABOTABIIMXTA3OB
-`datsun_on_do_en_31b237c3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Brpouecce KCyaaHH BBTOMOUH 3MCHT ycKH CHCTCM noaBepraioTCR BOACACrE J0 ELICOKON TCMneparypb T830B BOJb, CHera peareHTO OPbTMH nIOHiaHOT nopory 3HMO C BHOPaItHH. TlOGTOM L bHble ateMEHTE C oTpaboraBttIHx Ta30B cTyAAT BTOMOOHTC He GoJee nETH nCT leperopaot neperoponkn JnywHrene, NORBIRETCA CKBO3HARKOPPOSHR CTCHKax, HapyaCTcR repmeTHYHOCTD COCIHHCHHA 3CMCHTOB CHCTCMb Bbycka. TaKHe HENCTPaBHOCTE HPKBOLAT HOBUWeHHIOyPOBHAyMa BhIxnonapaOoraoueronHrareg.
 
 L nomena paounoreyecg CMOTPOBaR KAH8Ba HN 3crakana.
 
 ### IIocenoBTe/Koct BmO.eHa
-`datsun_on_do_en_1c441a3b` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.onrOTaBHBaeM TOMO6 HHO paoT（C doJroToBka ABTOMOOIIR TeXHCecKoMy obcnBaHHO HpCMOHTye).
 
 2.OccOCHOBHOrO M AONOJHNTCahHOrO ray-Teneh.
 
 ### PeRosmaJunn
-`datsun_on_do_en_86a43d25` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Fonywku, HMeoune TpeunHbipapbebpyre npeae,Heob. XODHMO3aMeHTb
 
@@ -5295,14 +4983,12 @@ Fonywku, HMeoune TpeunHbipapbebpyre npeae,Heob. XODHMO3aMeHTb
 ![](images/12502a5d4ac9b0044a5e304992acaeb2d3febe9c1d8f21fce58f6352dce95609.webp)
 
 ### Feuowaugwb
-`datsun_on_do_en_696a3a2a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Npopere ra3oe yepes nanuebe COEnNHeNNR MOXHO nonpo6oearb yCTpaHuTb nORTRrNBAHMeM anemeHtoe xpennerns. TepmernuHOCTE cOeAHHeHHR npuemHon Tpybb rnywntens 5 KatanuTytecKHM HeNTpann3aroPOM MOKHO BOCCTaHOBNTb 3aMeHon npoknankn. HencnpasHbe 3neMEHTe! CNCTEMbinoBpeneHHbe Co3Hon Koppo3HenHeo6xonMO 3aMeHMTb. BOCCTaHOBneHNe3neMeHTOBCnCTeMbI
 
 Bbnyckaorpa6oraeukxraaoecnomob Bapkn naer TonboparxospeMeHHbI3Φext
 
 ### 国 HIOJBECKACHCTEMbIBbJYCKA OTPAGOTABIHINXTA3OB-3AMEHAHIOJYIIEK
-`datsun_on_do_en_128e70a7` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 #
 
@@ -5311,7 +4997,6 @@ TOnyWkN nonBeCkN OCHoeHoro nononHuTenbHoromyunTenen BaanMC3aMeHeMbL3aMeHsTbNXMOX
 Bmoenn paor norpeyercn CMOTPOBa8KaHABa HN 9CTKa
 
 ### Banyami
-`datsun_on_do_en_7832aa40` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bo nabexaHne nOnyHeHNA oxoroe pabory cnenyer BbInOnHATb nocne OCTbIBaHMsneTaneNCNCTeMbBbnycka orpa6ora8unx ra3oeno 6e3oacHon remrteparypbl.
 
@@ -5339,7 +5024,6 @@ K3a/HIO1O.
 ![](images/07ded9a517f76e531e9cc89a039ad7b9d6fc072d9c2151c4562cc399e2d995bb.webp)
 
 ### BiNagie!
-`datsun_on_do_en_bd45aaa8` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bo NabekaHne nonyueHnA oxoroe pabory cnenyer BBINONHATE nocne OCTbBans neranei cncrebiBbinycka OTpa6oTaBwNx ra308go6e3onachon remrreparypul.
 
@@ -5362,12 +5046,10 @@ S. CKHMAeM nOAyLIKH C KPOHuTe HOBymenC.loeCa KHORCHCTeME 3aMeHa noyueke). 6.3Be 
 ![](images/29d9f89c614057ede4f35b128fa53f2f6251b733d9551ddae18a7f420397e4cd.webp)
 
 ### YCTEHOBKA
-`datsun_on_do_en_258794c2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 YcTaHaBuHBaeMrnyuIHreIb B oparHOH nocneAOBaTeJbHOCTH TpH HeO6XOIHMOCTH 3aMCHReM IOBPeXIHMbic VUIM notePRBUHe SJECTHIHOCTb nonyuKH HOJBCCKH rnyuHTeJs (CM. nccka ce Bsinycka OTpaboTABUTHXra3O8 3aMeHa IIoJyuek).
 
 ### Cnrne
-`datsun_on_do_en_dc97bbf9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.ToJrOTC OMOH BOHHHO abOT(CM JTOrOTOBKa BITOMOOHLLE TeXHHgecKomy o6cKHBAHHO HpeMOHTye).
 
@@ -5396,12 +5078,10 @@ Bo v3bexaHne nonyyenuR oxoroB paborycneayer BbInOnHATb nocne OCTWBaHns eranenCuC
 ![](images/abfedc451cc6c42bc98d5b6d2c5ad32b708bf9767b9bba159e763ff29625e540.webp)
 
 ### yeTaHoaka
-`datsun_on_do_en_91371318` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 VCTAHAB.THBACM HOnOJHHTCAbHbIE rayunrenb B obpaTHon nocneAOBaTeAbHOCTH, 3AMCHHBHPOKITAUKyHOBOH. TIpn HCOUXOIHMOCTH 3aMCHReM nIOBPeKaCHHbte HUIH noTeps BLIINe 3nacrHyHOCTb nORyuKH nOnEECKH InywHreJs, 8Takke HeHcnpeBHbte CKObbl XOMYTa HHCTa P3sOOBIX COCJHHCHHA (CM. lOuBecka CHC BbInyck& orpa6oTABUUKXTa3OB 一 3aMeHa Bogyuieke).
 
 ### CuaTHe
-`datsun_on_do_en_cd497e89` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1 IOOTBAHEACM ETOMOOMA KBCOpabo(C TlOIrOTOBKEABTOMOGHTA TeXHHHeCKOMy obcryxH-BAHHIOHPeMOHTy>).2. CHHMaCM 6pNsrOBHK ABHraTCIs(CM TIpoRepkaTexHeckorocOcTOR-HHR ASHEaTeIA').3.O6paabe ce pbobe Co-CAHHCHNRPOEHKaIOUCRCM3KON.
 
@@ -5454,7 +5134,6 @@ HH8 山TaHrH BrtyckHoro Tpy6onpoBoa CHHMeM 山THry. TopLoBKoYOMH 13NM OC.6nm 3aT
 17.CHHMacMcouniLek npoknanky.
 
 ### HEMCSLRHC
-`datsun_on_do_en_e4717172` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha aBTOMo6une, HaxOANBWeMCA AnntesbHoe BpeMR 3kcnnyaTaunn, Kak npaswno, naeTcA OTSePMYTb R naMb HMR ronoBoK bonTos erneHuR atanTv ecKoro kannektopakKpOHwTenHy. Taokekoppo3nen noepexnaeTcAcamkpoHWTeiH B3TNX CnyaRxsMecTeckannexTopoMcnenyeT3aMeHuTb HencnpaBHbie netann.
 
@@ -5471,7 +5150,6 @@ Hs ZHCEC eHTy OpaD Ppoco MOM Jab
 ![](images/c75260a281e7972902c04f098c67039160434c408d05ed37b63bc99f01fdbe1c.webp)
 
 ### YCTEHOBKE
-`datsun_on_do_en_74208b30` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Cue BAX rO 60 TAHOR EKXN pen PyTX JICK NOR cuen AH 2SCh ZHiKOh ZOMA
 
@@ -5480,7 +5158,6 @@ YCTAHBIHBCM KTUTHHCCKHA Kotexrop no6patHo nocneaoaaTenbHOCTH. IpokJianxy nOspeXA
 K psoo LJ
 
 ### CIIPABOHHBIEJAHHbIE
-`datsun_on_do_en_65e27b98` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OcnOBIbt HaNHMe LOHrposp HpobkHKcoeAyKH
 
@@ -5490,7 +5167,6 @@ Ta6a9.1.1
 ![](images/deac91e631fb4ca15208103a43e4c2e6f0f9741417036bb2f128175a04ba05f7.webp)
 
 ### ONNCAHHE KOHCTPYKUHN
-`datsun_on_do_en_dfffd015` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha aToMo6ne ycTAHOBTCHO OAHOHCKOBOe cueneHHC cyxoro Tuna C HTpHoR HHOH npyKHHOA. PHBOR BKOHHA CLCHHA TpocOBbf, 6e33a30pHbIA, C MexaHH3- MOM RBTOMATHUCCKOR parynnpobkH LTHHNTpOca.
 
@@ -5526,7 +5202,6 @@ Mydry BKnA CH, vepes KOTOPyIo OH KOHTAKTHPYeT C BInKOR nPHBOnO BbKnOgeHngCnEnCHH
 EJaTOABPA OTCyTCTBHIO 3a30pa npuBOne BEKAONCHHA cuenneHus obecneunBaercg o ORHHOC npHKaTHe Mypru R nenecTkaM HaDKHMHOH nPyxiHu, npu 9TOM BbIXHMHOR nOAWHnHHN HeTPePIJBHO paboTaer B nOJnHNHNK 3ATOKeHE CMa3K BeCb cpox ero cnyxEEL. Mydra BEIKTIOTCHHR cuerueHHg nepeMemacTcA TO HBpae ynke,Haneo Ha epBHYHNA Bakopobkn repeaay H npHKPenneHHO X KapTepy CUenneHER TpCMR6onTaMH.
 
 ### ONNCAHHE KOHCTPYKUHN
-`datsun_on_do_en_a0ad5ae2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B npouecce 9KCnnyBTEUHH naKIAJKH BeDO oro JHCKa H3H2IHBAIOTCR. KOMHeHCAUMN 9TOro H3- HOCa CPHBOR HeHHR cuenTEHHA BC TPOEn MCXaHH3M BBTOME0 OBK AKH TpoC8 H3HO0 HEKIAAOK pblvar BHK TONCHS cuenneHHs, nIOBOp THBCE HaTHrHBaCT Tpoc. IIpn 3TOM CKHMaETCR npyxHHa, pacnoJOKCHHAR BO BTyJKC MexaHH3M8 peTyHPOBKH M HOIKHMaIOLasHKCaTOPN3y6YaTOrOHaXOHCuHHKa rpoca. ΦHkcaTopbl OCBOOOXIAIOTHaKOHeYHHK, B peaynbTate Yero OH CBO6OIHO BhITSTSBACTCR H3 TOBOIKS rpoca, KOMnICHCHPyR H3HOC HEKnAAOK HC
 
@@ -5538,14 +5213,12 @@ MexAnngM peryaupoucn 日 Tpoca: -rya -onoK:3-3y （cpH）HKonCHH rpoc;4-HKCATOPu
 Ka. Ip Haa nH cHg BePXHHA nOBOnOK CMeaCTCA BBepx. HIpn 3TOM HKCaTopbl o6xHMaOT JyTHH HaKOHeYHMK TpOCa,HeBaRCMy BHABHraCR H3KopnycaMeXAHH3MA peryJupOBKH.
 
 ### IIPOBEPKA TEXHHYECKOIOCOCTORHHA CHEILIEHNA
-`datsun_on_do_en_7695902d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CueneHne BO BKAOVCHHOM COCTORHHH (nPH OTnyWeHNOn neaanH) HCHOJKHO po6yKCouBT H6e3 norepb nepenasatb KPyTRUMA MOMEHT OT ABHTATCIA K TPAHCMHCCHH, 1 npn HaxaTOA nenan cuenteHNA nOnHOCTEJO OTKIIOVATb TPBHCMHCCHIO OTABHTATCIA. BKHOeHHe CuenJHJOXHO Tb nB -6e3 pbiBKOB.
 
 Jotrpeere JHHRa HH pyneTka.
 
 ### IocnenoBreHocrBWnOn
-`datsun_on_do_en_e6e04fb6` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 I.poBepse pa6on xo nenann CuOTLICHHA H pH Hco6xoLHMOCTHperynupyemero (CM. HHOKC, IPHBOABLKOH CUHHA 一 perynuposKas).
 
@@ -5573,14 +5246,12 @@ Ecnn nonHbn xon neaann npeebiwaeT 146 MM,orperynnpyite npueon bKnOYeHR CLenneHR 
 EcaN swuenepeuHceHe ipHaKH HEHCpaBHOCTeR BnpoLecce AnaTHOCTHKH CuerLieHHs He BLIREnCHI 二 cterteHHe HaxOnnIcs TEXHHCKH HCODABHOMCOCTORHIH.
 
 ### IPHBON BLIKNOUEHNA CUETLTEHMA -PETYJIMPOBKA
-`datsun_on_do_en_8c8f6c08` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TIpRBOR BbIKAIOVCHHR cuenJeHHR obopyaoBaH MEXaHH3MOM ABTOMATHYCCKOR pery.THP OBKH HMHh rpoca, no9TOMy npouecce K0 E LIHH aBTOMOOHIIA eTpe6yercs CHCTeMTHYeCKaR perynnpe FKA npHBona. OHa BbIIO.7H8- eTCRnOcnepeMOHTa,CBR3aHHOrOcpa3- 6opkon CLenEHHA HIH nIPHBone cro BbIKmOUHHa,HHeOOxOZHMa JUIA TOrO, VTOLI yCTBHOBHTb GUIeMeHTb MexaHH3- MA BBTOMATHYECKOR PCTYAHPOEKH B HCXOIIHOe nOnoKeHHe.
 
 Jg moTe eo Hpeyrcn urTaHreHUMPKynb.
 
 ### TocneaonareHOcT BLnO
-`datsun_on_do_en_cc55e865` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHHM CyP（CM Bcayrp CHRTHeHyCTaHOBKae).
 
@@ -5593,12 +5264,10 @@ Jg moTe eo Hpeyrcn urTaHreHUMPKynb.
 4. HaxHMacM rpn-qerbipe pa38 HB reaatb CHeTUICHHgH nOBTOPseMH3MePeHHE, IIpHHeoxoJHMOCTHnOBTOPseMperynnpoBky.
 
 ### TPOC CIEILIEHH8 1 3AMEHA
-`datsun_on_do_en_669fbe81` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TpoC 3aMeHgeM npH ero copbtBe,3aCAaHHH B o6onOvke SUIH HPe3McPHOM BITRrHBaHHM. Takke rpH HCHcnpaBHOCTH MCXaHH3MB perynHPOBKH DINHTpoca.
 
 ### CHsTHe
-`datsun_on_do_en_1370d9e3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHH By Tp（CMBoayuA Tp CHATHeHyCTa-HOBKA\*),
 
@@ -5625,7 +5294,6 @@ OTOpaHBaenoBoOK nope3bea KOHCHHHKa TPOCaHCHHMACM nOBOHOK.
 7.CHHMaeMnoonok cnabuapu ranenaiHcuenaeHs.
 
 ### MPAHNC
-`datsun_on_do_en_9588ee0a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha nanbue nenann cuennennR octanacb nnacTMaccOBaR aTynka, He noTepAvite ee. noBpexgeHHyio etynky Cnenyer3aMeNrTb
 
@@ -5634,7 +5302,6 @@ Ha nanbue nenann cuennennR octanacb nnacTMaccOBaR aTynka, He noTepAvite ee. noBp
 ![](images/4d1e0c9429c068a212ef8825fb53aed9b95f0027d2fe78741a3b413391c84797.webp)
 
 ### ycraHonga
-`datsun_on_do_en_2f4b992f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.oe ua neann cuenHe nnACTHNHOR CMa3KOH（JIHTOn-24).
 
@@ -5659,14 +5326,12 @@ MACM nenaib CuCrLICHNR H nOBTOPRCM perymnpoBxy.
 10. yexacMcsB HcnipaBHORpa6oTe cueuH（CM.e,poepKaTexHHUeCKOTOCOCTORHRACHeNAeHHAe).
 
 ### Danu
-`datsun_on_do_en_43dd2968` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npu 3amene BenOMOro Aucka cLenneHNR xenarenbHO aMeHHITb NMa XHMHONDUCK KOP3NHy paxeecrin Ha ero patouer nOBepXHOCTN HeT 3aMeTHbIx CneAoS N3HOCa Aeno TOM, VTO npouecce KCnnyaraLnn N3HaWNBaETCA ero pabouan nobepXHOCTb L4 ocnabeaaer XeCTKOCTb AnadparmeHHon npyxnibl Takxe HeobxonuMo 3ameHytb BDOKHMHON nORWNnHNK, ecnn OH HMeeT nodr, npu BpaLeHnn 3aenr nn N3naer xOpOwo CnbunMbit wyMCM.Bbwe. npoBepka TEXHHHeCKOrO COCTORHNA cuennenngx)
 
 Bnoes pou nopeyec OpaBanELHTPHpOBH BAOMOrO nHCka cLeruIeHHg.
 
 ### PPONCHZOUHA
-`datsun_on_do_en_c6b7d253` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn 32MeHa HaXHMHOrO ANCka cbope(xop3nHb)He nnannpyec kepHepom noMevaem ero nonoxeHNeHaMaxoBuke.
 
@@ -5721,7 +5386,6 @@ KopoOkH nepenay H HanpaBtRoyo BTyIKy BbKHMHOO TOJUIHHKA
 10.TpoBcpepa6ory npoab-KIOHEHHA CUenJICHHA H perynHpyeMHHyTpOC8 （CM.fpHBO BbKC-HHRCuenCHH-perynHpOBKa).
 
 ### CIIPABOHHbIEJAHHbIE
-`datsun_on_do_en_3c66bba1` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OCROBHMe TARHMC JTR KOBTPOJR perURPonknHObeayKHBbHng
 
@@ -5730,7 +5394,6 @@ Ta6Hua 9.2.1
 nyyo HHPOPMaLLHH OIPHMeHRCMOM pa cePBHCHyOcTaHO OHaTHooepa Datsun CaTbHHKH nesoro npaboro IIPHBORO
 
 ### OnHCAHHE KOHCTPYKIIHM
-`datsun_on_do_en_a6c61aeb` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 H aTOMO6HRe yCTAHOBTeHA MexaHKyeCKaR nATHC ymer TRTAR uByXBanbHas kopobka nepenav OHa CMOHTHPOBaRa BMeCTe TnABHOR nepenaucn HAndepeHuHanOM CJHHbIR arperat,kopnyc KOTOPOro COCTOHI H3 Tpex VaCTen 一 Kaprepa CECnAeHHR, KapTePa KOPOOKH H 3aUHeH KpbLIKH. Mecta COCIHHCHHA kaprepos R KPbItuKH yrtJIOTHEHN 6eH3OMCnOCTORKHMrepmeTHKOM.
 
@@ -5769,7 +5432,6 @@ Tpocos  po -MXHHO nepenay;2-TPOC opa pe;3-poco np4-y5 -Pyko-rkapra nepeuet nepea
 poepaempaboryopokeea ZBKOKEHHH. DIA3TOFO, IBHragCbCHauan Cpa3roHOM SaTCM CHHCM, nepekmoya ep nODGIEHHEM, 3aTeM EPRem ieT. OCT IAERRS nep 1 EHPS pabory CHHXOOHH3 10 EMCR OTCYTCTBIH PeT ApyTHX nIOCTOPOHHEX OPOOKH TaiokecaMOnDON OTbHoroBbIKLOHeHHA nepeaay nPH HSMeHeHHHHarPySKH.
 
 ### KOPOEKAHEPEIAY 一 IIPOBEPKA YPOBHAH3AMEHA MACJIA
-`datsun_on_do_en_bb85836e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/f3abe31cb61ddcd0957f45401fe02558656ec55a481a7c3854388eda03d7d5a7.webp)
 
@@ -5782,7 +5444,6 @@ nockobky TyHHe.ne no.18 Ky30Ba6bIno BbITONHEHO OTBEPCTHe ATA TRTKMexaHH3a nepeKi
 BHOH pabotbi norpe6y. BOTCR:
 
 ### TIPOBEPKA TEXHHYECKOROCOCTOAHHA KOPOEKH HEPELAY
-`datsun_on_do_en_83fef428` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a7d432696f201fa78f931f94ceaa73b11c2fa8c7e58be4c22bde2ddcee17e93f.webp)
 
@@ -5791,7 +5452,6 @@ ypOBeHb Macna xopobke nepenas npoBepAeM npH TexHKecKOM o5c.nyBHHH aBTOMOGHA arak
 -CMOTPOBaA KaHaBa HH 3CTaKa 二 WIHPOKAR eMKOCTb 06beMoM HC Meyee THTPOB; -BOPOHK3COIaHTOM.
 
 ### Tiposepka
-`datsun_on_do_en_7b6ec93e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Tepea TCM KaK npHCrynarb K Tipobepke eXHHeCKoro COCTORHHR. npoBePReM POBeHb xopobke nebena nepenay kopobke, KCD AHHKHHNM HE Aprepe npOHCxoHO zeraret. YTO K6H Ha CMOTDOBO H8 LR crakane OCMaTPHBaCM KOpo6ky CO cex CTOCaEC TCYTCTBHM yreuek BC ECT COESHHCHHA kaprepos KpbIukn. Takke epe3 CaTbHHKH nPHBODOs KOeC W UTOKa MXaHH3M8 Ebibopa nepenay.
 
@@ -5816,17 +5476,14 @@ poBepky npoboaH npHHepa6oTaoLLeMAsHrarene.
 6.1o KOHHHH nposepKH 3880- pavHBaem npobky B KOHTPObHOe OTBePCTHe.
 
 ### 3aMens
-`datsun_on_do_en_11811c0a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 PeryngpHyio 3aMeHy TpARCMHCCHOHHoro Macna 38BOn-H3rOTOBHTEnb He npeaycMaTpHaaeT. OnHaKO, BSInOJMEHHA pana onepaunk, HArpHMep, D 3aMeHbI CAtbHHKa npnBoila repeaHero koneca, norpeGyerCR C/IHTh Macno. THn pMeHeMOro Macnayka3aH Bpaanee-CnpaBoHhie ZaHHbIee.
 
 ### TAMCHIS
-`datsun_on_do_en_6e3cad36` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Macho nyywe MeHT cpasy nocne nce3nku, noka OHO ropsvee, rax Macno bpeeonHeeeR BMecTe CO B3BeWeHHbIMN yacthuaMNN3HOCA.
 
 ### E
-`datsun_on_do_en_0d98dcaf` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TeMneparypa pa3orperoro Macna MOXeT AOCTHraTb 90 C.6ynbre ocTOPOXHbI.
 
@@ -5864,7 +5521,6 @@ Ecnn Crntoe n3kopo6kn nepenay MachoTEMHOrO uBera HEM3aMeTHbMeTa U Mtbi Kopobky C
 12 oOKONyAXHH paborbl BeTobio RCM ROTeKH MCn HyCTaHaTHaCM CHATSe neTaIH.
 
 ### TocmeJOsaTe.mEocTH BbO.THEHHn
-`datsun_on_do_en_03e94ab7` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.TorTaaM oMOb K BbOTHeHHIOpaoT（C eTTororoBka aBTOMOEHLR TeXHHeCKOMy octyBAHHIOHPCMOKTye).
 
@@ -5903,7 +5559,6 @@ Ecnn Crntoe n3kopo6kn nepenay MachoTEMHOrO uBera HEM3aMeTHbMeTa U Mtbi Kopobky C
 12.YcTaag/ae TPOCH Bo6parHORnocAenOBarc.IbHOCTH.
 
 ### Ioene C IOAHEHH
-`datsun_on_do_en_a0e6dc55` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OOTaB/HBaCM TOMO6bK BhnONHeHHiO pabore (CM. TOJTOTOBKA TOK TeXHHeckoMy o6ctyHBaHHUOHPCMOHTys).
 
@@ -5919,19 +5574,16 @@ Ecnn Crntoe n3kopo6kn nepenay MachoTEMHOrO uBera HEM3aMeTHbMeTa U Mtbi Kopobky C
 5.CraHannHBaCM MeXaH3 B06- paTHOR nocAenOBarebHOCTH.
 
 ### Ilpermpecage!
-`datsun_on_do_en_0dc3ee20` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 He CHumaire o6a npubona OnHOBpEMEHHO nNbo, ecnn 3TO Heo6- XOENMO, yCTaHaBnNsante BMeCTO OEHOrO N3 HVX cnetnanbhyio onpasxy. npenATCTByIOWyIo Bblnanehnio nonyoceBbix wecreper 3 kopoEkn nucoepenunana.
 
 ### CHsTHe
-`datsun_on_do_en_6bb5ce81` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. TlcnroraBnHBaeM ABTOMOOHIb K BELnOXHeHHIO paboTEl (cM. eIlonroroBka ABTOMCOILIR KTeXHHyeCkOMy obcnyxnBaHHio H pCMOHrye) 2.CTHaeM MacO H3Kopo6KH nepena(CM. Kopo6ka nepenay- nposepKa yPOBH H3aMCHa MaCna). 3.BHHMaeM npHBOn（cM.p nepenHcro koneca -CH8THC H ycraHOBKas). 4.c 6 - BOR OTBEPTKO HIH MOHTAKHOA nonatKOA,HBKaMcro H3Kaprepakopo5- XKnepeny.
 
 ![](images/0ba0453f3936005e5521fdaf931dc054f4a67a5e1151a4dd499a9d465e77f2e8.webp)
 
 ### VeTHOSsA
-`datsun_on_do_en_30e9c6dc` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHa3bBaeM paOoyyio KpoMKy HOBOro canbKHka TPAHCMHCCHOHHbIN MacJOMH3anpeccoBbiBacMcrO, MCTIOUIb3yR CTapbIR ca/bHHK Kax OnpaBky.
 
@@ -5940,12 +5592,10 @@ CaibHHK npuBOa BTOPOro koneca 38MCHRCMBHaOrHHO.
 ![](images/3f13629dc5145bc7c0d465e5ceed78090eb2acb94e8d83c6e81bbbf4db3bdf1b.webp)
 
 ### 3gseye
-`datsun_on_do_en_b47f9e1b` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pu N3Hoce canbHnka nepsuvHoro Bana Macno N3 xopo6kn nepenay nonanaer kaprep CuenneHNR. fpu 3TOM MOryT 3aMaCnNBaTbc DNCKN cuenneHuR. HeNCnPaBHOCTb MOKHO onpeAenntb no HannYno noTexOs H3-nOA HNXH 4acin KpbIwxN kapTepacuenneHR.
 
 ### CaeTRe
-`datsun_on_do_en_70f0b319` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.HOnFOTaBnHBACM &BTOMOOHnb K BNROnHCHHIO pa6orhl (CM. OnrOTOBKa BTOMO6K TeXHHgecKOMy O6CJyxHBaHHIOH PCMOHry>). 2. CHHMaeM kopo6ky neperay (CM. Kopooka nepeng- CHRTHC H ycraHOBKO). 3.CHHMaeM C Kaprepa neTaTH npHBOa CLUIHA （CM. eCuertieHne 3aMCHae). 4.TopLOBbM KIIONOM MR 10MMOTOpayKBaCM TpH 6OraKperHs HpBAIOe TyKKOZHHa bKTNCHHR CUenCHAR.
 
@@ -5966,7 +5616,6 @@ o
 ![](images/83de9e815e86a1f38cdeca3cc6744f67b3bbac7b97f0ee439c64b25fc1b3878d.webp)
 
 ### VeTaHOBKa
-`datsun_on_do_en_6421e22a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CM83SIBaeM pabouyo KpoMky HOBOro caIbHHka TPAHCMHCCHOHHIM MaC1OMH3aipeccoBBaemro HcnoTb3ys CrapbR Ca.IbHHK KaKCnpaky.
 
@@ -5975,17 +5624,14 @@ CM83SIBaeM pabouyo KpoMky HOBOro caIbHHka TPAHCMHCCHOHHIM MaC1OMH3aipeccoBBaemro
 antee ycaHaTHBaeM heranH B05- PATHOH nOCIeDOBaTCTbHCCTH.
 
 ### PexOMSOsUna
-`datsun_on_do_en_35b6d543` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Kopobka nepenay BECHT 6onee 30 KT, nO3TOMy paboTaTb cnenyer CnOMOLIHNKOM nN6o, NCnonb3ys perynupyemyio noncraky wnnnodbeMHOeyCTPOICTBO.
 
 ### HncAACkie
-`datsun_on_do_en_f6e18c3c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 He CHNMaNTe ofa npvbona OAHOspeMEHHO nNEo, ecnn 3T0 Heo6- XODNMO.yCTaHaBnNBante BMeCTO OEHOO NHHX cheuvaneHyioonpas xy, npenstcreyouyio BbnaneHnio nonyocebbix weCrepeH V3 Kopobn sdoepeHunana.
 
 ### CaaTHe
-`datsun_on_do_en_fae5505a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHHMaeM 6pH3rOBMK nraTs HAH sauHTy xapreps (CCJIH yCTaHOB(CHbI).
 
@@ -6016,7 +5662,6 @@ I1.KTOO 10MMOTBOPaYHBaCM TPH6OnTa KpenAeHng HHKHeE KPbIKN Kaprep& cuerUeHHR.
 13.cTaHaHacM noa ABHrareb peryupyemyio TIoncraBky HCHIMBCM yiO H 3HIOIo OnOpbICHACBOro arperara（cM. eOnophi cnaoBoro arperaTa-CHRTMeHyCTaHOBKao).
 
 ### Seue
-`datsun_on_do_en_9887badf` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 DanoHevwyo pabory SbinonHseMC nOMOLHNKOM Nnn yCTEHaBnNBaEM nOA Kopobky nepenau perynnpyeMyiononcrasky.
 
@@ -6025,12 +5670,10 @@ DanoHevwyo pabory SbinonHseMC nOMOLHNKOM Nnn yCTEHaBnNBaEM nOA Kopobky nepenau p
 ![](images/620684fa7607e054a01cc72e572784f6605ffa82e46625f130088ecd42be4ed1.webp)
 
 ### 3Rsevane
-`datsun_on_do_en_07fe486d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BepxHnn 6ont kpenneue kopobky nepenay c npaBo copohI ABnrarens (npn B3rnsne Ha Hero co CTOpOHbI kopc6xn nepenay)kopoye OcTanbHbIK.
 
 ### Dpvoupe chite
-`datsun_on_do_en_466a0bbb` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Fipn CHATMN xopobkn nepenay He onnpanre ee nepsnyHbn san Ha uadparmeHHyo npyxnHy cuerneHVR3TO MOKT nHEECT K nopexReHNIO nocnenHen.
 
@@ -6041,12 +5684,10 @@ Fipn CHATMN xopobkn nepenay He onnpanre ee nepsnyHbn san Ha uadparmeHHyo npyxnHy
 16.MacaTbH OA KOoKy nepezay OT JBHraTeJA, HAKCTOHREM ce KapTepOM CUeTneHMR BHH3 H,ose ceMey HaT H TKKO IepeaHe TOJBECKH, akkyparHo oryckaeM KopoOky nepelay Ha on.
 
 ### Veranooka
-`datsun_on_do_en_23b02275` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 YeaHBJBac KopoKy eau B opaTHo noceoBrebHoctH,nenBapHTE/IbHOHaHeCHIUIaCTHyiOCMKy HaKUbTePBHYHOrOBaJIaKOPOGKH.
 
 ### OcHoBHMe JAHHNeLaH KOHTPOHN DeMOHTAAKI
-`datsun_on_do_en_74b937d3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ta6.nHua 9.3.1
 ![](images/87742dac6d64d5ba55d50060281aa9cbc536827e6e2a58e771f43a6d0fa48dd5.webp)
@@ -6054,7 +5695,6 @@ Ta6.nHua 9.3.1
 ng yoe HpHMHAeMORpaOoeKHaKOCTH3aBO-H3rorOBnTe/IbpeKOMeHyerobpaTbCRHaCneuHaTH3HpOBaHHyO cepBcHyCTaHuo odHaHoro Hepa Datsun.Ha aBToMoux pyHx PuPpM CTaKOHeAKIlHcnOb3yior Nissan ATFMatic-SHH Genuine EJ-1ATF
 
 ### OTIHCAHHE KOHCTPYKIINN
-`datsun_on_do_en_c170f494` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KOHCTPyKuH& AKII (aBTOMaTHHeCKaA kopobk& nepeaay Jatcoo) 10- "aer B ce6n rHaPOTpaHc pOPM&TOp, MACIgH biH Hacoc iaHeropHbie MexaHH3MWI, ΦPHKuHOh MyOTbI TOpMO3b. yrtpasnser BCEMH MEXEHH3MEMH 9nEKTPOHHNH 6nok. IIpH 3TOM OH KOHTPOTHPyeT COCTORHHe BCex 3.eKTPHueCKHX KOMnOHEHTOB. Kona 06 HapykeHHbIx HeNCnPABFOCTen xpaHATCR B naMATH 3ekTPOHHOro 6noka ynpaBAeHna. 8 CUTHHHR KOTOB HCHCNPAEHOCTH AHarHOCTHNeCKOMy paey Heoxoo nokOb BHeLIHee JWarHOCTNNECKOC ycTpotcTBO -cKaHep.
 
@@ -6072,7 +5712,6 @@ pHKUHOHHe Myrb H TOPMO3bL npenHa3HaNCHb 来 6aokHp OBKH pasJIHYHbIX EMCHTOE DIaH
 ynpaB.teHHe AKn OcyUIeCTBIRETCR TpH noMoun ceTekTopa pexHsoBpa6oTb BBTOMaTHHECKOR KoPo6KH Yepesa. Pbyar ceekropaCgaHC opooko nePeaayTPOCOMB3aUuTHOt O6OAOuKe.
 
 ### 9.3.21CEJEKTOPPEKHMOB PABOTbIAKI
-`datsun_on_do_en_56dfc0f9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TepekmoueHe peoepa6orhasTOMATHueckol Kopo6kn nepeIay ocyCCTATRETCR COOTBETCTHHK 0503HaHAMH,HaHeCeHHEMHHaOHOKe cenekTopa. BKUONEHHS rpebyemoro pekiMa HEObxoZHMO nepesecTiTb pblar cenektopa 8 COOTBeTCTBy nOnOxeHHe.
 
@@ -6090,7 +5729,6 @@ P-CTORHKa. Henonb3yercg npH TbHOH CTORHKe aBTOMOSHIR. B 3TOM peKHMe DBHXCHHC aBT
 四
 
 ### JsSHK
-`datsun_on_do_en_22167f9d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bo BPeMR CTORHKN aBTOMONARO nonHVTenbHO BKnONaiTeCTOSHONHbI TOPMO3. OCObeHHO Ha nonbeme MII Ha crrycke.
 
@@ -6113,12 +5751,10 @@ A BBOa Ceekoa H3 noloxeHHP HeOxoHMO CHaa sartycTHTb ABTeI HIHPOCTO BnOHT 3araHHe
 npn HeobxonNMoCTN (Hanpumep. Ha CKGNb3KOM noKpbTHN) MOXHOC MeCTa TPOHyTECR Ha BrOpon nepenave, npHHynNTenbHO BKnOUE ee, nepesens cenektop B nonoxeue 2 YTOGEI OKNOHTE pE Pbmar cenekTopa HeobxoANMo BepHytb nanoxeHNED
 
 ### IpenynipexaeHie!
-`datsun_on_do_en_ad312025` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EykcupogaTb aETOMO6unb CAKn MOKHO TOnEXO Ha norpy3uke HNHC BEBeWeHHEIMN BEnyNMN KonecaMN. BKpavHeM cnyuae, nonyckaeTcR 6ykcupoeaTb aBTOMOOnnG Tonbko nepeAHM XODOM CO CKOPOCTbIO He Bblwe 20 KM/4W Ha paCcTORHMe He bonee 20KM. nPN 3TOM pbar cenektopa AKT AODKeH HaXODNTbCRB nonoxxeHN(Henpanbhas nepenava)
 
 ### CHHTHe 6uokponknpersaracetekropa
-`datsun_on_do_en_eda81979` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnH akkyyOPHaA GaTapeg pa3- KHaHHOCOKHeH,TOTOO ToneeecTceeOpHOKeNH8 PB nonoxeHHe N BbImonHReM cAexyoee.
 
@@ -6127,7 +5763,6 @@ EcnH akkyyOPHaA GaTapeg pa3- KHaHHOCOKHeH,TOTOO ToneeecTceeOpHOKeNH8 PB nonoxeHH
 2.HaxHaeM 6enyoony 6noKpTOPa H,ynepxHBaR ee TaxoMnonoH,HaHMeM KHOnKy B pyKOK ceneKTopaH nepemea pNar ceiekropa H3no1KHHA PERONOKCHHeN. 3 YCTaHaBTHBay SEXOT Ha MeCrO.
 
 ### PAEOYAR KHKOCTb AKII-TIPOBEPKA
-`datsun_on_do_en_71baa6e4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 aBTOMATHeCKOI Kopobke repenas HCronb3yeTCE CneUH JbHan pabmvas KATKOCTb ATF automatic transmission fluid). OHB npeJHaJHayeHa nnn nepeAAge KpyTRuIero MOMCHTa ZaBICHHR HCTOMHHT enb H yCTPORCTBaM, 8Taxke DA CMA3 b HHR OxaHHtanen KODOOKH nepenay. Bbino. HEHHe CTOnbKHX yHKIHRHaKIaabIBaTOHCHb KeCTKHe TPe6OBaHHA K CBORCTBaMnOHKOCTH
 
@@ -6136,7 +5771,6 @@ Tob pabovyo XHnKocTb ATF He yCTpaHCMHCCHOHHbIMMaCnOM, HeeO6aBIOT KpaCHTe.s.
 EaHHoro MexayHapoHoro craHAap-TaH KCCHHKaU TakHx KHⅡ-KOCTeR He CyueCTByeT. Kaxi npon3-BOnNTenb THnPOMexaHHveCKOR TpaHc-MKCCHMCaMOCTORTenbROyCTaHaBHU-eTTpeboBaHHg KCBORCTBMnODOHIKHIKOCTeA.
 
 ### 9.3.3.1TPE6OBAHM8 KKAYECTBY PAGOHER KHAKOCTHAKIIU CPOKN EE3AMEHBI
-`datsun_on_do_en_72d21b66` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B npouecce 3KcrUTyaTaLHNaBTOMO6LR 38B0I-W3 0 BHTeJIb He npexycMaTpHBaeT 3aMeHy Oe KHKOCTN B.aBTOMTHHeCKON xopo Oke nepenay. B HCnPUBHOR KOpobk nepenayypoeeHb KHIKOCTH 6yneT NOCTOSHHbIM, nocKObKy OHa He paCxoyeTC nponecce paborb TOHHHTCA ypOneHb MOKET TOTbko H3-38 yreyKK XHZKOCTN yepe3 H3HOIDEHHEE CaTbHHKHHAH HerepMeTHYHbie CODKHHHA
 
@@ -6149,14 +5783,12 @@ Ecypose aboen KoTH AKIT nOHH3HACS, Hco6xoMa nasbHeAnaa npoepka DA onpenenenng 38
 JOnHEETh B Kopobky nepeaay He06xoMo TOTbKo PeKOMeHNOBaHHyIO MaPKy HTHn paboyet XHKOCTH (CM. Ta6π. 9.3 CM. Cnpa BOSHbIC DAHHbICs). Ncno/Tb3OBaRMe mobot HHOR pa6oveh KHULKOO MODKCT UIPHBeCTH yxymuCHEiO paboHx CBOHCTE KOpo5KN repenay, yMeHbIHHIO cpokaee cykObtHH KBO3HBKHOBCHHIO nOBpExIeHHi, Ha KOTOPLIC He pacIPOCTPAHRIOTCE rapaHTHAHEe 068- 3are/bcraa.
 
 ### Tlpexynpekneshs!
-`datsun_on_do_en_7f6cb12b` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TpNobHapykeHnNTesNN3KoPobion nepenay HenocrarouHo npocro no nTb paboHyio unkoctb 二 HeobxoDPMO yCTpaHvTbHeNCnpaBHOCTbl
 
 ABTOMaTHCCKS kopobka nepenny HBRTCATeXHHeCKICOXHHINynOM, obenykHaaTs HPeMOHTHPOBTb KOTOpu eecoopaHo nO Ha cneLiHaOBHHo Ca TExHHgeckoro c6cyKHBaHHe.
 
 ### IIpeavnpexenne!
-`datsun_on_do_en_3533dc61` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AsTOMaTHyeCKaR kopo6ka nepenay 二 Haexbi arperat aBTOMOGMnR C bonbuMM CpoKoM cnyxOb, HOnPM CTOBNN perynApHorOTEXHNHeckoro o6c KMBaHMA T bepekHon 3kcnnyaralunn. punHamNcorpaWEHNR ee cpoka cnyxb M Bbixona V3CIPOR MOryTObITb:
 -HecBoespemeHHag3aMera pa6o yev XUAKOCTN;
@@ -6168,14 +5800,12 @@ bykcnposka asrOMObnna Ha ruEKon HnM XECTKON cuenke. nOnyckaeTCA TOnbKO nepenHkM 
 Bo n36exaHne Bbixona M3 CTPOR aeroMarnyeckonkopobkn nepenay He nepebonnre pbiNar cenektopa 9 nonoxeHve PBO BPeseneg aBTONOONnR.
 
 ### 9.3.3.2TIPOBEPKAVPO8HH PAEOYEAKMIKOCIN
-`datsun_on_do_en_7f6ff523` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 IpOBePKy yPOBH8 KWuKOCTH 8aBTOMATHyeckoR kopo6ke nepeAaycnexyeT BbIHOIHRTb B0 EPCMR KaxJoro TeXHHeCKOIO OCHyKHBaHHA aBTOMOGIUUL.
 
 npoBepku yPOBHA pa6oven KHIKOCTH Kaprepe KOpobKH nepeay FLOSHCH Ka3aTenb, aHatorn4- HOTCMY KaR 10 WC IIHO MKII. Ho rpu 3TOM npouenyp PoBepkoH YPORH B AKn HMCET HeCKOUIbKO cneLlnpuyecknx OCOGEHHOCTei. Ilposepka yPOBHE pabogen KHIKOCTR nPOnaeOJMTCS H POBHO naomanke TPH paJBHI ee H nONOKCHHH cenekTopa OKHMe TeMneparypa paboreh KUIKOCTH npu 3TOM ZOTKHA ObTb OKO.7 80 JUIR 4eroHeo6- xOaHMo npo AK MHHHMYM, 10- 5 KM. Ilepen H3B.JC ICHHCM yka3arenig yPOBHg HeO6xoSHMO AABHOnepceecTH cenekrop BO BCC HIOVICKEHHR OT AO HO6paTHO
 
 ### TocJeJOBatenbrocThBbmOTHeHHg
-`datsun_on_do_en_8f2061e4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.TporpeBaeM pa6ouyio XnkocTb BAKH 0 reMrepaTyph 70-80 "C (CM. BbIue). TIoroTaBnHBaCM 8BTOMobiuib K TeXHeCKOMy C6CAyBaHMO H peMOHTy (CM. IlGrOTOBKa aBTOMOOH.IR TeXHHueCKOMy c6cnyKHBAHHIO HpEMOHTy>)HyCTaHaBBaEM eTO Ha pOBHyIOrOPH3OHTaThHiO rLomanky.
 
@@ -6191,19 +5821,16 @@ npoBepku yPOBHA pa6oven KHIKOCTH Kaprepe KOpobKH nepeay FLOSHCH Ka3aTenb, aHator
 ![](images/434fb8b8807de7c30a79e168d0cf4eeab9d64a7d0933bc89098d137f377ecf10.webp)
 
 ### 3AMONEIHE
-`datsun_on_do_en_4311d396` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 paHNubI ypoBHR HauynecoCOpoHbHaDnCNColdMOKHONnbOTRTOnLKOZnR npensapnrenbHon npo-BepKypOBHR HeXOnOgHOMDBvraTene(Temneparypa paboyen \*NAKOCTN20-30C).OKoHuaTenbHOonpenenTbypoBeHb paboyen \*nAKOCTBAKN Heoxonvmo nocne nporpeea,KaKnOKa3aHOBbLue.
 
 6. Ecn yposenb HHKC HOPMbt, pa60yKOCT HeOXOHO HO. JonkBam aonyckaeTCA TOAbKO CneLnabHy HKOCTbU AKII,pKOMHnOBaHHyIO 33BOIOM-H3TOTOBHTCRCM (CM.Ta6n.9.3.1,cM.Cnpao Hhe).KkoTb HAIHBACM C rIOMOII BOPOHKH HTH MACARHEIM IHuCM gepe3 CTBCPCTHe LIA yKaeng yPOBHA.
 
 ### Upeayopexsene!
-`datsun_on_do_en_07f081be` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 He npeeblwanre AONYCTUMEIK ypoBEHb.AoniBante uKocTb HebonbWMMN nopUNaMn nTo 50-100 Mn. npoBepRR ypoBeHb nocne kaxnom 3anNBkN. focne sonnskn paboven XNDKOCTN Heo6xognMo cpo4HO BEIRCHNTb N yCrpaHNTb npnuMHy CHWKEHMR eeYPOBHA.
 
 ### 0
-`datsun_on_do_en_6aa568da` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CneAyeT yyVTbiBaTb, 4TOB AKIT HET KOHTPOnbHOrO OTBEPCTNRAA cnnsa N36bTka paboyen XNEKOCN, Kak HaMKN. 3ry PyHKUNIO Ha AKI 8binOnHRET cneunanbHar nepennsHas Tpybka, yCTaHOBnEHHaR B CnNBHOE OTBePCTWe nonaoHa kaprepa. Bblcora rpy6kM nonobpana Tak, NTO N36biTokpaboyen XUnKOCTN 6yner BbITekaTb Vepe3 Hee 5 CnMBHOe OTsepcive. CHapyxN CnHBHoe OTBepCTne 3akpt/Baer pesbbosas npobka Ecnnnorpe6yeron CAMTbN3 kaprepa Kopo6kn nepenay Bcio pabovyo XNDKOC7b, Heo6xoDNMo. He TOnbKO OrsepHyTb 3Ty npobky,Ho M BbsepHy/Tb nepenneHyio Tpy6ky V3 UINBHOO OTBPCTHno HNKHee OTBEPCTNe TpyEKN Bb/nonHeHO non LWeCTHrpaHHEInKnIOH.
 
@@ -6220,7 +5847,6 @@ noxnaBuncb,ona KuAKocrb nepeCTaHer BbITekaTb vepes nepenneHyo Tpy6ky, 3aBepHnTe 
 8.I oKOHaHHH IpOBepK ycTaHRIHBACM yKaSaTCt E kopobky nepenay.
 
 ### TocenoBrebHocth BmOTHeng
-`datsun_on_do_en_b632af68` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.VextaemcR paboTocnocoHoCTH HO ypaBneHH aBoMaTHeCKOn kopobkolt repenay, JUS 3TOrO, BKIKOuaeM 3aKHraHHe, HEXHMACM neaab TOPMO3a. 3arem, HakaB KHOIKy ΦHKcaTopa A BPyKosTke pblara, nepemeUaR Pgar ceJtektopa no CepeH BO PneIIOnOXHER
 
@@ -6239,7 +5865,6 @@ Tocae geroopaerr cenekropaBIOnoxeuHeP（eCTonHKa>).
 4.IIpoepe pabory Kopo6k nepeay JIBHKCHHH tasroro, BKIOUaCM POKHM D（H nepea) BHraemcs CHaganta pasroHOM, 838TeM 3aMeCHNe, yOexeMcg 1I TLIBHOM nepeknOgeHnH nepe,tay (KAK cropcHynOBhIHHX, TaKHECTOPOHynOHHKEHHA), BOTCyTCTeHxPyCTa,CTyKOE IpyHX nOCTOPOHHHx 3yKOBnpHpa6oTeKopobKi
 
 ### 39 Lote
-`datsun_on_do_en_c24cebba` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 PbIBKNN sanep epekIoHeHMN nepena4 BO KEHIR BTOMO EunR, BKTIO napoM, rIoBbl JEH 2 BPeMR paborbi KOpobKN nepe 0 nnetenb CTBOBaTb 06 HO PNKLNOHOB (npn STOM npaav 0 paboven KMDKOCTY anax noaunHIKOB HnN wecTepen NANT O ppyrux HENCnpaBHOCTAX KoPobkN nepenav, YCTpanEHMe TakMx HencnpaeHocTer CBR3AHO C 正 XOMMOCTbIO CHATMR pa36opknKopoOkn rtep enay, nO3TOMy TaKyIO pabory Crenyer BbinOHRTbHa CneLnann3npoeaHHon CTaHuNN Tex HMYeCKOrO O6CnVxHBAHNR
 
@@ -6256,7 +5881,6 @@ PbIBKNN sanep epekIoHeHMN nepena4 BO KEHIR BTOMO EunR, BKTIO napoM, rIoBbl JEH 2
 ![](images/ec5e9a90a43f9b555e4127de38da12f72bf628b238f7af0820d202db08219926.webp)
 
 ### PeKOMenG
-`datsun_on_do_en_43f1d4b2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B cnyuae obHapyxeHs norekCs Ha kaprepe KopobkN nepenay cnepyer npoeepntb ypoeeHb paboven 水MAKOCTN HE POBeH KNDKOCTM TOHM3VIC nanbHeviuan npoBepka K EnR 0 peneneHk R 3aMeHb! HEM B ynnOTHeHNi. CneAyer y4nTbiBaTb, 4T0 Hanuyne noTekoe CHN3Y kaprepa xopobkn nepena4 MOxeTObITb BH3BAHO N3HOCOM 3aZHero canbHMka koneHyaroro sana, HO npn 3TOM, kax npasuno, MaCnRHNCTON NKOCTbiO nokpbiTa M HapyxHaR noBepxHoctb nonnoHa kabrepaJanratent.
 
@@ -6267,7 +5891,6 @@ ECnN KMEKOCTb noTeMHena, BHEM VMIOTCRSKOVeHNRMenKNXYaCTML NnpucyTciByer3anax rop
 EcaBomobkbHaxogoRHarapaH TWHOM O6CnyBH.8O Ma6exaHPe noTepn rBpaHTnNPEMOHTVPOBaTb aBTOMObWbCneAyeryodnLnanbHoro pepa DATSUN.
 
 ### OIIHCAHHE KOHCTPYKUNH
-`datsun_on_do_en_48e800ea` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ipneozbi rtepenHHX koxec nepeneIOT KPyTRLHR MOMCHT OT KOPOOKN nepenay 2 nepcAHHM BeAyuIHM KOnecam He3BHCHMO OT yTnA IOEOPOTa KOnCC H nO.IOKeHA IOZBCCKH.
 
@@ -6281,7 +5904,6 @@ MOS paf ca Te. SK HD yc Hec pasp
 IpHeane.Ba npaBoro pBoaaUHee HOTOBTeH H3 TpyOh
 
 ### HX3E
-`datsun_on_do_en_55d23124` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 wa 10 p M8 Ha
 
@@ -6290,7 +5912,6 @@ app e ot TonenaHHg DHHX TPA3HHBnAre 3BLYTHEIMH Pe3HHOBbIMN HEXTaMH, 3akperneHHbl
 Danee onncbBaiotcR onepaLnN no CHaTIIO,pemOHTy NycaHoaKe nesoro npveona.Bce pabotu HanpaBomnpnBOneBbInOnHAIOTCRaManOrWHMO.
 
 ### DPOBEPKA TEXHMHECKOIOCOCTOAHHR IIPHBOJOBTIEPEJIHHXKOJIEC
-`datsun_on_do_en_44eaa8fc` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Cpok cny npnoaa 38BMCHT OT COCTORHHA ero UIapHHPOB. LapHHPEI JOCTATOHHO ORFOB 9HbI H npu ycJOBHN 6epexHoA KCIU aT8UN 8- TOMO6HIR MOTyT npocxyxntb bonee 100 TEIC. BKIO HapykHhte IapHup npi BOTOB BEIXOIAT H3 CTPOR pOHbIue BHYTPCHHHX, Cpok cnykObI mapHHpon CO pamaior AKTIsHSR CT MeaTe TECTBO KOHCT 1OnBCCKH AETOMOOH 1月 yCTaHOB 0 MeKny KyOBOM H E CKOnHYeCKHMH CTOHKAMH) 10 JeHHe XTOE P DA3E DT HF 0 noTocTh aPHHPHHpa BblMblTCH 0 H3HOC. npoCHHOTO 1 ACXAHHYCCKOTO DEHUKCHHH aBTOI00 OKOF konee; korna rteeTHHe KOIE ABTOMODHIA 3apbl88- OTCAP rpyHT, necok HAH obrcnenembA CHer, B pesynbtaTe 38MCPaaHHR 3bna HTH SaCTbIBaHHR TnMHbI Ha gexie HapykHoro (uapHnpa),
 
@@ -6299,14 +5920,12 @@ Ilpu paspbiBe yexna 8 He6naronpHSTHEIX yCHOBHRX rpR3b bi/b, CHer) mapHnp MOKeT n
 O6 H3Hoce Hapyoro mapHupaMOTyT CBECTCJCTBOBTb mYKH BpafoHc CTynHubI nepenHero Koie-ca APHJBHKHMH B KPyTOM nOBOPO-Tc. Io Mepe H3HOCa mapHHpa en-TKM 6yayt YCHTHBaTbCR H TOBORh-HO 6bICTPO repep acTyT NOCTORHHNBxPyCT JkeNDNHBFOKCHHH FonpAMOP.HeCBOCBpeMeHHbRpeMOHTrpHeneTKpapyureHiaO naphHpa
 
 ### EUMesHONHA
-`datsun_on_do_en_a0cab2e5` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ApoBepatb TeXHVueckoe COCTORHNE wapHnpos Chenyer vepe kaxnbie 10 . 15 TbIC. KAt. SyuWe Bcero 3Ty npouenypy COBMECTNTB C JAMEHOn Macna, korga aeromo6nnb 6yner HaXOnMTbCR Ha acrakane HM CMOTPOBON RMe.
 
 Boe pao nopeyerCOMOUHKTKe CMOTPOB HIHOCTakaza.
 
 ### ocne DOAHCHHE
-`datsun_on_do_en_364e0462` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 L nOTOTaB.KBaCM aBTOMOOHAb KEbInO.HCHHIO pabothl (CM. eITOxroTOBKaKTeXHHHeCKOMy OOCTyXHBAHHIO peMOHTy),BbBeLHBaCHB HOnCTaskax repeHHeKOeCa BTOMOWHBKOYeMHeArpabylo repeaayy.
 
@@ -6321,19 +5940,16 @@ L nOTOTaB.KBaCM aBTOMOOHAb KEbInO.HCHHIO pabothl (CM. eITOxroTOBKaKTeXHHHeCKOMy 
 5.IcouepeaHo noBopagat nepeAHHe KOTeCE TO B OaHy, 1OB Apyryio CrOpOHy H Epainas HX, yexnaemcg B OTCYTCTBHH IOCTOPOHHHX 3BYKOB (CTyKOB xpycra) HapyKHblx HBHYTPEHHHX wapHHpax.
 
 ### LOAEE
-`datsun_on_do_en_b295d044` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Y ncnpaBHorowapHupa Hanuune nocopoHx 38ykoenpn pa6oen nodros Mexny neran HenonytHMD. HevcnpaBHbui uapHp cnenyer 3aMeHnTb(nvboornenbHo, nw6oBecb n0neon cbope). nOpBaHHbN HexoJn CnenyeraaMeHATb TONbKO B TOMcnyae,ecnn 山app paeen.
 
 ### IIPHBOJIHEPEAHETO KOJECA CHATHE HYCTAHOBKA
-`datsun_on_do_en_252b4b18` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbEOJIHEHHR pa6oTbt HOTpe6yIOTCX:
 
 -CMOTPOBKHB HH 3CTaK; -HOBas raka Crynub; 一 HOBOe cTartOpHOe KOnELO XBOCTOHKaBHyTPeHHerOtuapHHpa
 
 ### CHSrTne
-`datsun_on_do_en_6381c658` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IonroTsHaCM aOMOH K BbnHn paboC Tlonroroska ABTOMOSFUR TCXHeCKOMy O6CTBaHHIO H PeMOHTys).
 
@@ -6352,7 +5968,6 @@ BbEOJIHEHHR pa6oTbt HOTpe6yIOTCX:
 10.N3BneKaeM XROCTOBHK HayHoro mapHupa 13 cry.IpH eO6XOJHMOCTH BhtbHBaeM ero gepe3 nepeBRHHbIR 6pycoK HIH BLInpeccoBbiBaeM nPH nOMOUH yHuBepcaJbHOTO rpex3aXBaTHOrD CheMHHKa (CM. OnHHKCTyu IepeHerO KOneca -JaMCHar),
 
 ### ASAE
-`datsun_on_do_en_a2878b65` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TPU CHRTIM nesoro npubona nosopaHnBaem pyneBoe Koneco Aoynopa enpaBo:rpnCHatvn npaeoro npnaona noBopaynBaem pynesoe KOneconO ynopasneeo.
 
@@ -6368,7 +5983,6 @@ peu kopryca BHyTPeHHerOurapripa), CABHraeM apHp HapyxHyO crOPOHy, rIpeoHOJeBaR C
 13.11onepxag BHYTPEHHNA maPHup, aKkypaTHO (cTapaRCb He nOBpeAHtb WnKuaMH XBOCTOBHKE uapHHpa Ca.TbHKK IIPHBOna) H3BJeKacm wpHHp H3 Kopo6KH epenay H CHHMaeM nPHBOAB cbopec 35TOMOOHIR.
 
 ### CTAROBKA
-`datsun_on_do_en_552d4906` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.3aMeHgeM cTonopHoe Konbuo HLBOrO XBOCTOBHKa KOPnYCa BHyTpeHHero aPHupa HOBUM.
 
@@ -6381,7 +5995,6 @@ peu kopryca BHyTPeHHerOurapripa), CABHraeM apHp HapyxHyO crOPOHy, rIpeoHOJeBaR C
 5.JaHeuyio pa6oTy BbITOTHReMB nOCeaHOCTH, o6paTHon pa36opke.
 
 ### HAPYKHbIA APHHPIIPHBOJA 一 CHATHE,3AMEHA3AIHTHOIO HEXJIAHYCTAHOBKA
-`datsun_on_do_en_8c47815d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nR BORNR paboTbt noTpeGy. IOTCE:
 
@@ -6411,7 +6024,6 @@ CARTHe
 5.IueBO OrCpTKo nO HCHHMe 3uTHexI KOpnyca HapyKHoro urapHHpa.
 
 ### DAO
-`datsun_on_do_en_069b4853` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npn BbInOnHEHNn cnenyiowen onepaunu, ecnn wapHup 6yger NCnOnb3OBaTbCA nOeTOPHO, Henb3R HaHOCNTb yAapbi no cenapatopy wnn kopnycy wapHnpa.
 
@@ -6430,7 +6042,6 @@ npn BbInOnHEHNn cnenyiowen onepaunu, ecnn wapHup 6yger NCnOnb3OBaTbCA nOeTOPHO, 
 10.TIpOMBe ap EKePOCH-He, BbITPAC HCTOE TKAHbIO HACMBbicoXHyTb.
 
 ### YCTAHOBKA
-`datsun_on_do_en_f58b121e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.robh HC TOBPeHTb HOBUR eXOJ npHycTaHobke,OOMarbIBaeMU.Hu Baa CKOTTCM HLTH H3ONRIIHOHHON JeHTOR.
 
@@ -6439,7 +6050,6 @@ npn BbInOnHEHNn cnenyiowen onepaunu, ecnn wapHup 6yger NCnOnb3OBaTbCA nOeTOPHO, 
 八
 
 ### AZLR
-`datsun_on_do_en_5fdd2701` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 He NCNOnbaynTe JinA yCTaHOBKN ynopHoro konbua ropuoByio ronoBKy.BHyTeHHA CKa,MEOLACR nONTN Ha acex ronoBkax, COxMer KOnbLo, YTOHenO3BONNT YCTaHOBNTb ero Ha Ban.
 
@@ -6448,7 +6058,6 @@ He NCNOnbaynTe JinA yCTaHOBKN ynopHoro konbua ropuoByio ronoBKy.BHyTeHHA CKa,MEO
 ![](images/e3cd542c6ec139f8aa01323ea9f776f55e24110b2095ee8c10344dc3c606da0c.webp)
 
 ### Peeta
-`datsun_on_do_en_4895f701` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 8.CBa 3 OBCTOpOHy apHupa TaK, yTObb 60nblioR yUOTHTebHbRnosC3aUUOrOHexJB GbuI HORHOCTbIO Hawer HB Kopryc mapHupa, B MaA yTLIOTHHTE/bHbIR NOXCBCTaIBHPOTOYKyBaR8.
 
@@ -6471,7 +6080,6 @@ Tepes ycTaHoBkon co6paHHoro npneoga HaaBromobnnb 06R3aTeAbHO nocraebTe Hosoe cro
 4.AHaOHO yCTaHaBTHBaeM CTOOPHOe KOnbLO.
 
 ### BHYTPEHHHAIAPHHP IIPHBOJIA 一 CHATHE,3AMEHA 3AIHTHOROHEXIA HYCTAHOBKA
-`datsun_on_do_en_e8a1bdde` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 #
 
@@ -6496,7 +6104,6 @@ Lu BNnOAHCHE pabors norpe6yJOTCR:
 1.CHMMaCM IIPuBon B c6ope (cM. IIpBon nepeJHero KOIeca 一 CERTHC H yCTaHOBKas).
 
 ### CHRTEe
-`datsun_on_do_en_c6e6ec3a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 2.3axpee npuson B c6opeB TRCKXHCnUHaTHbMHKCUMHHH pa3 HbIMH IaCCTHaM CHMaM6ObIOR HM XOMYT 3aHTHOro yexna.
 
@@ -6509,7 +6116,6 @@ Lu BNnOAHCHE pabors norpe6yJOTCR:
 3. ILLIHLICBOA OTBCPTKO nOLCBae M.CHHMaeM3aHTHbIR yexOnCKOPryca BHyTPeHHerO ISPHp8.
 
 ### TECMeIUUnLUn
-`datsun_on_do_en_aabb7541` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 DeeynpmkrcEue!
 AnR HapyxHoro tapHupa HeobxoQMMO40cMCMa3K.
@@ -6517,7 +6123,6 @@ AnR HapyxHoro tapHupa HeobxoQMMO40cMCMa3K.
 oapexneHHblN yexon MOxKHo ya utb.paape3a8 ero HOXOM
 
 ### Ipeiympexcaeraet
-`datsun_on_do_en_3983c0d7` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npu BbnOnHEHUN cnenyouen onepaunn, eCnn wapHup 6yper Ncnonb30BaTECA nOBTOPHO, Henb38 HaHOCNTb yAapb no cenaparopy NnN kopnycy wapHupa.
 
@@ -6526,7 +6131,6 @@ npu BbnOnHEHUN cnenyouen onepaunn, eCnn wapHup 6yper Ncnonb30BaTECA nOBTOPHO, He
 ![](images/ed116d04bb68852b736f368a61782d4bc6b2bd9391e8f74ae3d97e838ad07859.webp)
 
 ### AU21
-`datsun_on_do_en_192cbe8c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AnApaabopku Luaphvpa Twna Tpunon CABWraemyexonnoBany OrwapHupa
 
@@ -6542,7 +6146,6 @@ npn noMOLN CbeMHnka HapyXHbIx CTonOpHbxKoneL pa3xMaem.
 2.HaMacM CKO (WIH H30/AUHOHHyO HTyHa UHL Ba.Ta, HaACBaCM Ha B HOBH 3aUTHR geXOJI CABHraeMyexOUIKCepeJHHeBaTaH ynanaeM CKOTg.
 
 ### exeincnmuis
-`datsun_on_do_en_58ffe826` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 He NCnOnb3yHte AnR yCTaHOBKN ynopHoro KonbLa TopuoByio ronoBKy.BHyTeHHRRaCka,MeOLaRCg NOUTI Ha sCex ronoskax, COXMET KOnbLO,yTOHenO3BOnNT yCTaHOBNTb ero Ha Ban.
 
@@ -6555,7 +6158,6 @@ HanpaBom npusone BBopave yexOn HaM3HaHky Ha Ban.
 1.3aKpegeBTHCKax a BBCPTHKAJILHOM TIOOKCHNH.
 
 ### peavapesaerite!
-`datsun_on_do_en_a5ae133a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 7.3anoHM apHp CaKOALIPyCoB, aCCT8ByIOCR qaCTb cMa3-KH (Or 80cM） 3aKnahBaeM B 3AEEHT-HhI yexO
 
@@ -6566,7 +6168,6 @@ peccoBbBaeM apHip HaBaJO OnHO yCTaHOBKH CTOrTOPHOrO KOTbIIa
 8.HaeBae6obo yILIOTHHTebHha TIOAC 3AUHTHOro qexia HaKopnyc mapHupa, a MATbiR yIUIOTHHTE/IbHIIA rosc gexJta yCTAHaBTHBaCM B nporoTKy Bana. IIpKnOHAB M yTLIOTHNTenbHbfItosC Hexa IIPu nOMOIH TOHKOR IULHUeBOR OTBEPTKH, BunyckaeM BO3yXH3ByTpHH nOOCTH3THoroyexna.
 
 ### VeTaROBks
-`datsun_on_do_en_5b9ad3df` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/e41dcc5c0d8f8d8922401d24bb7c6632f203548f701d460169df74de169ba073.webp)
 .MCHMMaeMCTOnTOPHOeKOnbLIO
@@ -6592,7 +6193,6 @@ erKnMM yaapamn Hepe3 Bbxonoky erae oboy waptpa nownLaMBana.
 6.HareBaeM BHyTPCHHIOIO o5otuy pHHpa 8 aa.Bpa Kopye appa C OCbIOBta.apa MO.OTkaepe3JepeesHHstA 6pycoKHa
 
 ### Pesaknan
-`datsun_on_do_en_78c88f17` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 epenycaHoBoicopaHorop sona Ha aBTOMo6Nnb o6s3arenbHo nOcTaBbre HoBoe CTonopHOe KObLO Ha WnNLeBON XBOCTOBNK BHyTPeHHerowapHupa.
 
@@ -6601,7 +6201,6 @@ epenycaHoBoicopaHorop sona Ha aBTOMo6Nnb o6s3arenbHo nOcTaBbre HoBoe CTonopHOe K
 ![](images/47af1948c6e77a5223d675023ec515eb0a51bcad15bb6cbeb7fa320820334083.jpg)
 
 ### OCHonbe nse  KOgoperYDo oOcyH
-`datsun_on_do_en_43e37c3f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ta6nua 10.1.1
 ![](images/1890b787e61661056c4ed17fe4588053647f4101e3769ca4874e2b73426f621a.webp)
@@ -6610,7 +6209,6 @@ eHaaTooocKecRyaabyaaxaepaepHoe.PHoC（zHCka）3anaCHorOKoeca 一 185/60R1482I,HW
 L1A 3HMHHX LHH 4MM(nPHOTCYTCTEHH HHIHKETOpa HSHOCa).
 
 ### OIIMCAHHE KOHCTPYKLIHN
-`datsun_on_do_en_0b9d252e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aBOI-H3rOTOBHTenb yCTaHaRIHBaeT OMoHTbKOeca（CK）6ecKMCPHhIX WHH. O603HeHemCKa, ep,6Jx4H2ET35,pacm rcsCneJEyIOuO6pa3om:
 
@@ -6629,7 +6227,6 @@ ET-yC/oBHoC obo3HayeHie BILnCobona;
 ![](images/2549e002a65009fc1889061260683d1fa02a3df8bc8c04b60e6dc008dbe7c58f.webp)
 
 ### DPLMeyRONC
-`datsun_on_do_en_dd0e4617` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bbiner obona (ET)-3to paccTosiHne Mexay nnockocio pasaenaomen obog koneca nononam (nnOCKOcTb, pasHoyAaneHHaR OT 6oproe obona), NnpnBaniouHoi(kpenexHon)nnocKOCTbVO.koneca.
 
@@ -6689,7 +6286,6 @@ PHcyHOK IpOTektopa MOKCT 6Ab YHHBePCa/bHbIM HH HEnPaBteHHNM
 HHC penaMeHTHPOBaH TPebOBaHAMH 38BO13 H3TOTOBHTEAA IIpur H 3BNeHHOM CHK ! DOKOBHHe IIMHbI THCb ROTATION H Crpenks KA3E LB HanpasAeHHe EPauenus I 拉 HKCHHH BBTOMOENLIA Bnepen. HaCTHbIM CayaCM Harpaei nCHHOro PHCYHKa RBTRCTCR acCHMeTPHHHIR.B9TOMCIyyC Ha6OKOBHHe HaHeceHa Haamncb OUTSIDE, KGTopas APH MOHTBOKenODKHa HaxO/DHTbCRCHaPyKHOR CTODOHbl.
 
 ### Tocnenon GOVTHEHHR
-`datsun_on_do_en_63f76da8` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. Iepen kaoA roeakon BHHMaTeRbHO MBBCN C ABTOMOOH9.TeMeHTE 27 Kper TCHAR, Kaxaoe Koneco peTnTCA Tynnue veThipbM DOJITAMN. HaKHMaCM Ha 60KOBHHy aCKaVHBAR ero On HO HanpasnCHHK, EcAM b0ATb KperLTeHHs OJICca HC saTgHyThL, OHO HaHET Hacrynue.IIpH MacRuicM 1OROSPEHHH G ocnabneHHC erueHHa Konieca IPOBepREM 38- TEOKKY 60.TT08 (MOMEHT38TKKH yXH3aH D pasnere eCTpaBoNHhIe nanHbie>, CM. Bblue) IMCKN KoJec KH 6e3 Tpeuun cnenon nedopMaumn, HatxHAX He nonyckaercs HanIHe nope3OB, OTCIOeH,pa3pbIBOB,BaJyt(pJH\*).BNCTyTHHAKODUa.
 
@@ -6708,7 +6304,6 @@ NHaro pacoe IO Be OKYXHOCTH HI Ha HKOOPO pacCTOSHAYT OTa HaxoHMx yCJCBHbIM OG03H
 ![](images/abad5cc32a2709c1812cafb87d6e4223375385883c75c57b8385099de1b1365d.webp)
 
 ### IIpenyupecsme!
-`datsun_on_do_en_e949f835` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CornacHo elpnnoxeHnio KOCHOBHUIM nOnDKEHNAM no AOnycky TpaHcnopTHbIx cpencre K akonnyaraEm OR3aHHOCTM ONXHOCTHIX nL obecneeHio6e3onacHocT AOPOKHOrO ABNXEHNA. sanpeuaeTCR 3kcnnyaTaLnR nerkoBoro aRTOMObNnR:
 
@@ -6753,14 +6348,12 @@ B crynuax c HHOIHHLMN noamKTHHKAMN 6yzer HyBCTBOBATECR vodT. UTo66 ybennTbcA B T
 HencripasHhe IODUHnHHKH 38- MCHRCM (CM, JORUHnHHK CTyTIHnepenHero oneca 3MCHaMCM. dlomuHnHHK CTyTHLbI 3anHero KOeCA 二 3aMeHas) EcT cryk cbue, pOBCPHCM COCTORHHC NOULBCCKH (CM. poBepka TexHnueckoro COCTORHHE TpeHe OcK H. Ilposepka TEXHHYeCKOrO COCTOAKR 3aH oABCCKHe).
 
 ### WHHBI 一 IIPOBEPKA JABJIEHNA
-`datsun_on_do_en_a10a46d2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 JanHe BOTyxa IIHHC ABTOMOOHARHC TIOCTORHHO. p nOBNWEHHHTEMneparypbl okpykaoero Bosayxa nasneHie BLUHHC BO3PacTaeT, anp nOHH JKCHHH pn Hebobunx KOJebaHHax remneparypbi okpyaoero BO3ayxa JIABICHHe HHEMEHseTCR He3HUHTCIbHO. Ecn neperta, TeMnepaypocTraeT10-15C,T0eo6xMo poBepaTH, IpH HeObxOIHMOCTH,OBCCTHABCHHC HHEXROHOPMbL
 
 Doshaercg naBnCHMe UHe HBO SPeMg IBDKEHVA aBTOMOOLIR C 6OTbLUOR CKOPOCTbh CTHIMH MaHespaMH 3HMOR STO IeCKH He3aMeTH0 0 3 remriepaTy TTHA He T1O3BOLEEOT IIMHe H neTHMA nepnon HB6er Eror B03y TUTOXO OXaKIEeT IIIFHy, M ec reMneparype HayIHaer HIOBHDaTbCSL DONONHHTeSbHHA HarPes LUMHH rIPONCXOmT OT pasorpeTOTO COTHHIMHJyHAM TOKPbTHtnopors. Bce9TOMOKeT IOBICHTbaeHe BHeHa0,2-0,3bar
 
 ### npeee:
-`datsun_on_do_en_588d0902` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 aneHve 8 LMHe M3MepReCRTOnbKO Torna, korna ee reMnepaTypa paeHa Temnepatype oxpyxaioero Bo3nyxa.
 
@@ -6779,14 +6372,12 @@ JaH enHeaN paboru norpeby. IOTCE:
 5.Bospaae rpe.y Hoepa Ha HOTb HoBTOpeMnpoBepky 6. Ecnn RaBAeHne B IHHe HuKe 2,0 bar （0,20 MIIa), TO nOnkagHBaeM eenpH HOMOUV HaCOCa HUIH KOMripeccopa.
 
 ### Javca:
-`datsun_on_do_en_2a099dac` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Tipu nogkauke KOHTponupyutenaeneHve no nokasaHHeMMaHoMerpa HacocaNnN koMnpeccopa.
 
 ![](images/6541c5375650efe3293a3ec4d287ffad7bf3a76d8aef194819ae7fb0a949889c.webp)
 
 ### Hunvbpekiane
-`datsun_on_do_en_04402248` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 MaHOMerp npu HakauNeaHnN noKabiBaerAaBnemve He 8 WMHe,aB nonaouen eoanyx wnaHre. 4rofb onpegenntb NCTISHHOe gaenehne B WNHe,HeoxopvvO npepBab npoLecCHaKaNHBOHIR.
 
@@ -6797,7 +6388,6 @@ MaHOMerp npu HakauNeaHnN noKabiBaerAaBnemve He 8 WMHe,aB nonaouen eoanyx wnaHre.
 8.HaBopauHa Ha HHnneJIb 3aIHTHH KOOK. 9. AHaIOrEHo pOBOn npobepKynaBneHH B OCTaIbHbIXKOnecax aBTOMOSHTR.
 
 ### KOJIECO-3AMEHA
-`datsun_on_do_en_51228808` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 An Bnoea paot orpeyPOTCN.
 
@@ -6806,7 +6396,6 @@ An Bnoea paot orpeyPOTCN.
 -JOMKpaT, -nPOTHBOOTKaTHbie ynopb; -nnknaka non nokpa（ecLUKH& CTOKT HaphIXIOMrpyHTe).
 
 ### Ilocneaosateb OCT nOJHCHH
-`datsun_on_do_en_c79c9a3f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.YcTaHaHBeM aOObb. no BOSMOKHOCTH, Ha POBHOR rOPH3OHTaHOH nonake. Ec B canoHe asTOMOGILA HAXOARTCR naccakaph, TO HX CneyeT EbicaAHTb.
 
@@ -6823,7 +6412,6 @@ An Bnoea paot orpeyPOTCN.
 ![](images/9c461077a7b3ddf8c20c35c6fad5417d2c51452e02e5a329489764d030476549.webp)
 
 ### DWGWWe
-`datsun_on_do_en_42a267bf` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnnaeromobnnb CTONT Ha PbnOM rpyHTe, nonnoxnte noA AOMKpar nonany yenueaou nnoaanm onop nomkparaHanpuep ocy nonxonjeropaaMepa).
 
@@ -6855,12 +6443,10 @@ BepH ouankakparanoH8 CbITb yCTaHOBSEH noa cneLikanbHbIM KPOHLUTERHOM, npkBaPeHHN
 15.Tpoepe ne UKHEH H HeOKONMOCTH DOBOTM ero no HOpMbl.
 
 ### HOZUHIHNK CTYINUI IEPEAHERO KOJIECA3AMEHA
-`datsun_on_do_en_88123181` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbinpeccoBbeBnte nOnWunHNE CTyTNIbi YOnbKO B cnyuaeero 3aveHbl, nocxonbky nps ReMOHTaxe OH, ckopee Bcero,pa3pyiuWTCR.
 
 ### Pa6OTy BInOAReCOMIHKOM
-`datsun_on_do_en_0a456a4a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.onoTaBa OO K BHnOTKEHKIO pa6oTh (CM. TlonroToBka ABTOMOOHAg KTEXHHqeckoMy CCnyXHBaHHIO K peMOHTyo).
 
@@ -6873,7 +6459,6 @@ Le ponopey CA HaHa noncTaka OOJ aBTOMOGRLmb, CbCMHHK BHYTPCHHHX cronopHEIX KONeL
 ![](images/a7b32a89081d7865b1c107bdceb6cf982efb088da0748bee48c58ab13b0006ce.webp)
 
 ### Ipinvrg Ailu！
-`datsun_on_do_en_5865c1e9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Flonbirka OTeePHyTb ranky OCN crynnub 6e3 SbInpRMneHnR ee 3aMRTOro kpas, MOXT WBCT noBpexneHnio peb6bi HaoCN.
 
@@ -6914,7 +6499,6 @@ PCN ee 24k iep)
 11.OTxaB HHKHR par nocKH BHH3, OTBOAHM HHOKHHA KOHeu CTORKHf BCTOPOHy H BbIaOnnM H3CTYTIHLb XBOCTOBHK HapyKHOro WPyCa (CM. IPHBOJ nepenHro kOneca-CHRTHe HyCTaHOBKao).
 
 ### LieavopexcaenHe!
-`datsun_on_do_en_671af15f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npu sbnonHeHN Cnenyiouen onepannn ycunve cunoBoro bonta CheMHka onxonpknaqbabR KTOpueBon NoBePXHOCTN CTynNLbl, aHeK KoneLly noQunka.
 
@@ -6940,14 +6524,12 @@ CHHMaeM pyroe CTOnOpHOe KOJbuo nOMUHEKHKa CTyHINUbL.
 ![](images/589d0869b6021dc3895586f98a93878e404115c4932622959445029dba7b45ef.webp)
 
 ### yeraHOBka
-`datsun_on_do_en_2a758124` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TuaeIbHOOYKiaeM OT rpA3H H KoPPOHH nOCaOHOe OTBepCTHe oA nOUHnHHK BnOBPOTHOM KynaKe. 2.CbeMHHKOM yCTaHaNIHBACM CTOnopHoe KOJbiID HpyHOn OPOH nOJkIHKka.
 
 ![](images/680310f0ec740c8a03b20773f1ab4998a13ea510993b9ec8670e5160dc260cf7.webp)
 
 ### Eipeaynpekaemme!
-`datsun_on_do_en_20bb9810` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npn BunonHeHnn cnenyiowen onepaunn (3anpeccoeke nonunka) ycunve CunGsoro 6onta CbeMHMka AONIKHO npuknagbiBatbcg TONbKOK HapyOkHomy xonbLiynoBWnnhuka.
 
@@ -6960,7 +6542,6 @@ npn BunonHeHnn cnenyiowen onepaunn (3anpeccoeke nonunka) ycunve CunGsoro 6onta C
 ![](images/e92c6b58303186eef7b9f9798284d0a0721d23ac7b947e89b7589994908caf37.webp)
 
 ### TpeavnpesiCHHe!
-`datsun_on_do_en_f8e25eec` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ipK 3anpeccoBke Cynnub CoBon 6on PonxeH onupareCA TOnbKO Ha BHyTPeHHee KOnbLO nOnIunnHnka.
 
@@ -6983,14 +6564,12 @@ ipK 3anpeccoBke Cynnub CoBon 6on PonxeH onupareCA TOnbKO Ha BHyTPeHHee KOnbLO nO
 ![](images/f1672ee93e0d03f1f566f88b04ec8a728615d247c761fd681e30c67ee42fcf4b.webp)
 
 ### HOUHHTHHK CTYTIHU 3A/LHETOKO.TECA 3AMEHA
-`datsun_on_do_en_896f55dc` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 瓜 BALAOJIHEHHA paboru norpe6yBDTCR: -ZBYX- HH Tpex3AxBaTHEIR CbCMHRK; -CbeMHHK BHYTPCHHEX CrOnOpHbIX Koneu;
 
 -VaueHbRCeMHHK.
 
 ### CRRTRe
-`datsun_on_do_en_397ba987` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OrOTaBHBaCM aBTOMOHE K OHeHHnOpaGoT(CM. onroToBka aTOMOOHUsKTeXHUeCKOMy OOCyBAHHIO HPCMOHTy>).
 
@@ -7019,7 +6598,6 @@ ipK 3anpeccoBke Cynnub CoBon 6on PonxeH onupareCA TOnbKO Ha BHyTPeHHee KOnbLO nO
 ![](images/63ebdf837d5004ccdde40d92681ae432117cdcb0015e25d74385d0f37ff4ab16.webp)
 
 ### Etpeynpextes
-`datsun_on_do_en_aa151429` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Tpu3anpeccoeke nouka ycunueMOHo npuKnaBab TOnIbKOK eroHapyoKHOMy Konbuy.
 
@@ -7047,7 +6625,6 @@ Tpu3anpeccoeke nouka ycunueMOHo npuKnaBab TOnIbKOK eroHapyoKHOMy Konbuy.
 9ycraHaB/KBaeM KOnEKCryHUbL
 
 ### CIPABOYHBIEJAHHbIE
-`datsun_on_do_en_eab9f08f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 YrInA yCraKOBKK HESCiX KOJIeC HOn HarpyKOR 320
 
@@ -7055,7 +6632,6 @@ Ta6kua 10.2.1
 ![](images/b9764d46b0b42cb6d28c097c6df789ca98fe2c08d32b237de202ac882c28fe6e.webp)
 
 ### MOMCHTmI 3aTLRKHpe3LboBux CocaHHeHHi
-`datsun_on_do_en_ca9fe024` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ta68 10.2.3
 ![](images/796fd07db3dccf0045f30be6428a9352de1879cf2c31fab1c9feec626a9b4141.webp)
@@ -7069,7 +6645,6 @@ M)
 DIST
 
 ### ONHCAHNE KOHCTPYKUHN
-`datsun_on_do_en_8c72f1e4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 epeR nOecKa Heaca, C TCJIeCKOnHYeCKHMN nOBOPOTHbIMH CTOKaM,nOnepe pbusraMH, pOnO/bHbMH paCTKKMH PbryaroB H craK/w3aTopoM nonepeHol yeroHBOCTHTOPCHOHHOIOTHIa.
 
@@ -7109,26 +6684,22 @@ Kpee npooN pconepeoy pnary:1-3a oenpo pacTxK,2- prypoe a3- yopas Wa4-pec app,5-n
 KoH CannaTopa nonepeyHOR yCrORNBOCTH npn nOMOUIN CTOeK COeHHeHE nonepegHbIMN PbrvaraMH nepennen noABeckH ZBTOMO6H江 LlenTpaTbHat CT CTaOIC1H3aTOpa JakperzeHa sepe3 pe3HnoBbte noJvuiKH H8 ky30Ee CKObaMH. JBHKeHHeOHOTO 1 pbryaros sepe3 crabsun3arop nepenaeTcR H8 BTODOR. 310 1103B0/8- TYACTH4HOCHHXPOHH3HPOBaTbpabory obenx CroPOH FIOIBCCKH H TeM caMbIM yMeHbHTb packaYHBaHne anTOMO6ICR HA HepOBHCH nopore HKPeHH BnOBODOTax.
 
 ### ONHCAHNE KOHCTPYKUHN
-`datsun_on_do_en_b39d9be0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TTocre peMONTa JuoObix 9xeMCHTOE OnCKH H ynoro ynpasneHug 0638TeIbHO npOBEDbTe yrnb yCTaHOEKH nepenHHx kovec. KaVecTeeHHO nPOBCCTH nposepky H perynHposky yrJOByCTaHOBKH nepeaHHx KOECMOKHO TOJbKO Byc/TOBHAX cepBNCHOrO npeanPHATHA, HMebuero cneHanbHbin CTCHI 五 BbInOLHeHnsperynHPOsOyHbIx paboT.
 
 ### 惠 IIPOBEPKA TEXHHYECKOROCOCTOHHNA HEPEIHEH HOJIBECKN
-`datsun_on_do_en_34f40058` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 IIpobepky TeXHHHeCKOO COCTORHH nepeaHeh no,seckn HeObxODHMO BbIDOHRTh COOTBETCTBEH cpernameHTOM nepnonHueckoro TEXHHUECKOro OGcnyKHBaHHg (CM. Tlepnoaneckoe TeXHNeckoe oOcnyKHBaHHee).
 
 OueHmb TEXHHTeCKOe COCTORHNenOBCKH MOKHOBO EPCMAABIKEHHRBTOMOOH. TIpH REICKCHIH HB He6OTbWOB CKOPOCTHO HEPOBHO nopore nonbecka noDKHa paborarb 6e3 TYKOB, CKPHOOEH ApyTiX nDCTOPOHHHX 3BYKOB Tlocnenepeeaa sepes TPeTRTCTEHe aBTOMOEs/Ib HeJOTKeH paCkauHBaTbCR.
 
 ### Pnagnks
-`datsun_on_do_en_1e35c0a7` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Tposepky nogBeckn nyuwe coamecTsTb C rpoaepkon COCTORHIR WNH 4 nOnLUMNHNKOB CTynuL konec (CM aKoneca, WMHN S CTynuuEs / OAHOCTOPOHHUN N3HOC rporektopa HapyXHOn HnN BHyTpeHHii COPOH LUMHG CevaerenecTeyer O HapywenHOI perynupoBke yrnoe yCTaHOBKH Konece repennennoasecke)
 
 e pao nopeyec CMOTPOBaSK&HaB8 HUIH3CTAKaa.
 
 ### IecnenosarembHocTh BMnOJHEHS
-`datsun_on_do_en_c2dfeb1c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 L.TlonroraBnHBaem aBTOMO6Hnb K BbHeOpao6）（oo ABTOMOOHIAK TeXHNNecKoMy O6cTyKHBaHHIO H peMOHTys).
 
@@ -7139,21 +6710,18 @@ L.TlonroraBnHBaem aBTOMO6Hnb K BbHeOpao6）（oo ABTOMOOHIAK TeXHNNecKoMy O6cTyK
 ECTH yyBCTByeTCg OOT (nake M8- nO3AMeTHHIR), TO npobepReM HaaexHOCTb KPeLCHHg OBCPOTHOrO KyaKaK croike nepeHeR nonbeCKH HCOCTORHHE nOAmnnHUke CTyTIHLbI (cM. \*Koneca,unksI HcryubD).
 
 ### PoknMennamma
-`datsun_on_do_en_6c374f23` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Npoeeparb pa6orocnoco6Hoctb amOptu3aropos nyuue nocne npoDOnKNTenbHon noeanku, noka pa60Han uKob eMOprugaropax He OcTbna.
 
 3.9Heprnvo packayHBaem repeIHIOIO yacTb KyJoBa ABTOMO6IUs BepTHKAILHOM Han REHHH Ecnn no HHEPUHI KY npono eT cOBepuiarb KoreGaHHn (onee JBYX nepemeteHH BBePX BHH3 nocne Toro Kax ero nepecTanH packaYHBaTb, 3HaVHT, HEnCnpaBeH ODHH HAH 068 aMOPTH3aTOpa Yrobbl EHTbHeHCnPaeHIR aMOPTH3aTop nOBTOPAey nposepky npHKnannBas yCHAne CHaNana CCAHOR CTOPOH aBTOMOOWLR,a3aTeMCnPyTOPL
 
 ### JACN
-`datsun_on_do_en_4ca6df04` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Takas npoeepka no3ecnner Bbisentb TOnbKo HencnpaeHbe amopruaaTOpbl. ripoeepntb 3Φ@eKTuBHOCTb raweHun konebanun aMOPTn3aTOpaMu MOKHO TOnbKO Ha cneuvanb HOM CTERAe.
 
 4.OcMapHBaeCoH nOBeCKTIoJreKaHHe KHIKOCTH R3 amoprisa-TODOB He DOnyCKaeTCH.
 
 ### PExOMCIACTSU
-`datsun_on_do_en_310be50a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AMOpTn3aTopb Cnenyer 3aMeHaTb napon. naxe etnu BTopon avopTnarop nepenHeis noAeeCKn NCnpaeer.
 
@@ -7175,7 +6743,6 @@ IIapuupbi PI noJyuKH COJHOCTOPOHHRM BEInyHBAHHeMpe3HHbI, P83- pBMn  TPCUHHMH 3aM
 ![](images/246d3e0b3ffc89538c680590aec0097530b8e5f407ae91a2e018cbfd7d5c344c.webp)
 
 ### KPOHMTEIH KPEILIEHNAPACTAKKH CHRTHEVCTAHOBKA
-`datsun_on_do_en_4652825e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 oen o erc CMOTPOBaKaHaBE HH 3CTaKaaa.
 
@@ -7201,7 +6768,6 @@ HEHHS
 ![](images/9c62e9f59f107922b25421f7aa57196f0ca736415b814004276cb015e0655931.webp)
 
 ### VCTaHOBEa
-`datsun_on_do_en_a38be12a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 #
 
@@ -7216,14 +6782,12 @@ Tpu yCtaHoeke perynnpoeoyHON wanObi HeO6xOANMO, 4robb Φacka Ha ee BHyTpeHHen Kp
 ![](images/dfb7ae48260f7ac5360e0f27a3840d8a4eb1e68798943b2efc67b32899a41249.webp)
 
 ### PeKoMeuXRnX
-`datsun_on_do_en_8640c4fd` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npn perynupoeke yrna npononHoro HaKnoHa OCN noBopora B cepBuCHOM ueHTpe npononbHyio pactkky yny CHaT nOBTOPHO, nOSTOMY 3aMeHy paCtaKKN nyvwe Apoeonnrb TaM xe, OAHOBPeMeHHO Cperympoekon.
 
 Joe paolorpeyercg CMOTPOBagKaHaBa HIH3CTakaaa
 
 ### PekoweaaIUs
-`datsun_on_do_en_0a424924` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Hrobhnpn yeraHoexe crapon.npoDOnbHOH pACTAKKN MWHWMW3NpoBarb Hapywenne perynupoBku Vrna npononbHoro HaknOHa OCN nobopora,nogcuntaireu sannwure KonNecteo perynupoeovHeIxuani6 HAXOnALIXCR Ha 3anHem 4 nepeUMKOHuaxpaak
 
@@ -7241,17 +6805,14 @@ yeTaHOBKa
 YcraHaBBaeM poHyio pacTREKY B o6paHoi riocnenoaebHOCTH.
 
 ### DanaWavAd
-`datsun_on_do_en_4cd12aa2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ipu ycraHoBke perynvposoyHon wanObi Heobxopumo, yrobb acka H8 ee BHyTPeHHEN KPOMKe buna o6paueHaK pac7Axke.
 
 ### LaCRTAID
-`datsun_on_do_en_93e7d3a3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocne 3ameHbl npononbHan pacTRKKN Heo6xonnmo nposeputb yrnbi yCtaHoEKN nepenHux xonec cepBNCHOM uenTpe.
 
 ### CHsrrne
-`datsun_on_do_en_2708d8a5` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.omoTanNBaeM aBTOMOOHAb K BhnoAHeHHJO Da6otbl (CM. lonroroBka 8BTOMO6HI8 K reXHHyeCkoMy O6CAYXHBAHHIO H peMOHrye).
 
@@ -7271,7 +6832,6 @@ nocne 3ameHbl npononbHan pacTRKKN Heo6xonnmo nposeputb yrnbi yCtaHoEKN nepenHux 
 ![](images/eb5ed11f02bf7b08e934f2426aa17968e5162df8894ad3c55d0d8377afe5b72d.webp)
 
 ### PPEOMCsLagIDM
-`datsun_on_do_en_649f603a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnNnpenctout ycraHoeka Luaposon onopb, Gbiawen B3kcnnyaraunn, npeAaapnrenbHo CHNMNTE C Hee 3aH exon N 3anoxe cMa3ky (LLP6-4, nuTon-24 NTN aHanorvyHyIo) wapHnp waposon onopbi \$5 Ha BHyTPEHHIOIO nOBepxHOCTb 3aunHoro yexnaonopbi
 
@@ -7280,7 +6840,6 @@ EcnNnpenctout ycraHoeka Luaposon onopb, Gbiawen B3kcnnyaraunn, npeAaapnrenbHo CH
 eTaHaRHac apByo nopy nocJieOBaTe/IbHOCTH, o6paTHOR CHAYHK.
 
 ### CHsTHe
-`datsun_on_do_en_a2a16e5e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.TIooT anOMK BHeHiOpaGoTl（CM. TonroToBka anTOMOOHR TeXHHyecKoMy OobcnyKHBaHHIOHPCMOHTy\*).
 
@@ -7313,24 +6872,20 @@ BunonHss Cnenyiouyio onepaunio, cobnogaiTe ocTopOxHocTb, TaK KaK CTa6nnn3aToP Ha
 12.pK Heo6xoOCTH 3aKHMaeM phNar BTHCKaX H BbrpeccoBbiBaMH3 Hero naieLmapoBOR onop (CM. BneIpoan onopao CHSTHC NyCTaHOEKae).
 
 ### Ipeasnekaeste
-`datsun_on_do_en_753c16bc` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npn yctauoeke perynupoaoyHon wanbbi Heobxoqwuo, yTo6b acka HB ee BHyTPeHHen KpOMke 6bna o6paueHak pacrsokke.
 
 ### PeKoMMAMMs
-`datsun_on_do_en_0a90f7f2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OKOHHaTenbHO sararneante rankn KperneHiRpe3NHoMeTannnHeCKNX waPHnpoa TOnbKO nocne yCTaHCBKN ETOMObunAHa KOneca
 
 ### HOTEPEYHbIn PbIAT HOJBECKN 3AMEHA PE3HHOMETAUIHYECKHX HIAPHNPOB
-`datsun_on_do_en_e985739c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pe3HHOMeraummeckeItapHHpH3aMeHReMHPHTIPOBOPaVKBaHHH IaPHHpaBpbryare, nPH noTepe9.acTHHHOCTH, BbIkpaIHBaHHH HULEI Bbli8BnnnaHHH PC3HHOBOO3eMCHTaIaPHHPaH3 rocauogHoroMccTa
 
 Uoes por peyec CICMHHK SameuHuR yHRBepCabuR.
 
 ### Casrue
-`datsun_on_do_en_99152fe3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHHMac nonepeH par nOBeCKH C aBTOMO6 (CM. BbILuIe, onepeyHt puar noeckH CHRTHCHyCTHOBKa).
 
@@ -7379,7 +6934,6 @@ HaeBaem apHp Ha 6o rIpnCnoco6nCHHA HHaHOCHM Ha HapyxHyio nOBepXHOCTb WapEpa MLIb
 ![](images/94bc34c2d921655c72b920c0da18a70bdce897fef1ad7deba797f91edbc5dbb3.webp)
 
 ### PHN RUU
-`datsun_on_do_en_faa0e758` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ang obneryeHnR paboTbi MOXHO CTAHYTh pe3uHOByIO BTynKy XOMyTOM.
 
@@ -7390,7 +6944,6 @@ Ang obneryeHnR paboTbi MOXHO CTAHYTh pe3uHOByIO BTynKy XOMyTOM.
 5.Vctakae a Ka abToMObb(c. 147,lonepo par nOLBCCKH -CHATHeHyCTaHOBKae).
 
 ### geainpexaeire!
-`datsun_on_do_en_f4c26b71` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CTONKN neryer SAMeHRtbnaPon, Aaxe ecnn HencnpaeHa TOnbkO QzHa.
 
@@ -7435,14 +6988,12 @@ Ka （cTpeakaHa Bepxe oope Ha 6bTb OOpacHa KnepeHen gactH ABTOMOGIUIS.
 TalikH KpenneHnA BepxHett ono-DEI K Ky3OBy SATRIHBACM MOMCH-TOM 19,6-24,2HM (2,0-2,4 krc.M).Iepen satarEBaHReM raeR 6ontosKPeneHH nOBOPOTHOro Kyaaka KCTOHKe COBMemaev MCTKH, HaHe-CCHHHIC Ha 3KCUCHTPHKOBOM 6on-Te H XPOHWTCRHe. 3aTHIHBaeM raR-KH6OTOBMOMCHTOM77,5-96,1HM(7.9-9,8krc.M).
 
 ### Paa6opks
-`datsun_on_do_en_23756645` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 L.CHHMaeM cTORKy C aBTOMOGIULA (CM.Be,Ctoa nepenHe nonecKH CHRTHCHyCTBHODKO). 2.CHHMaeM Co CTORKH onophyio CTHHy H 3KHMaCM CTOKyBTHCKax.
 
 ![](images/8a2afd736a1b13bf4176a6862bba74359e21e65b6f83f97752d21494e50bba2c.webp)
 
 ### Eaat
-`datsun_on_do_en_a83e5299` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Co6nojanite ocropoxHocn! Caran npyxuna obnanaer Gonbioi cwnon npu Cee CKn,paCnpaMARCb. MOXeT HaHeCTNTpaeMy.
 
@@ -7485,12 +7036,10 @@ I1.CHHMaCM CO LuTOKa uat6y
 13. 3aMeHN npyKHHbi oc/a6n CMCTAKKHnPyKHHbI.
 
 ### PKOMUR
-`datsun_on_do_en_ecfcef76` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 fepeA cbopkon CTONKN. pykon nOnHOCTbIO SbABNraR L ytannnean WTOx,yeAnrecb B ncnpa aBHOCTN amopnsatopa. Ecnn npn nepemeWeHNN U/TOka yyBCT VOTCA nposanbl, PbIBKM MTN CnbrLuHbi rIOCTOPOHHve 3ByKM, 3aMCHHTe aMopTn3aTOp. fposepbre LenoCTHOCTb H ncnpasHOCTb BCex yCtaHaBnHBaeMbIx Ha CTONKy 3neMeHTOB. 3aMeHnte nOsPExReHHbn NnNnoTpeckaBWnNCR 3AuintHbin KOKyx WTOka amOpTH3aTopa, noBPexheHHbInOTboVHNK xona CKATVR, TpeCHyBwyIONnN OCnaneHHyio npy\*nHy nonBeckn NpykNHbI nepenHen nonsecku no xeCTKOCTN nenRTCA Ha KnaccE. Knace npyxNHb DboaHavaeros kpackon Ha HapyxHOn cTOpOHe OnHoro 13 ee BNTKOB. BnepenHen nogsecke AOnKHEI 6biTb ycraHosneHbi npyxuHblOnHoro knacca.
 
 ### Casrae
-`datsun_on_do_en_383ff3d8` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.TonroraBAMBAeM aBTOMOOUTb ↑ BbnoHeHniopaorb(CMTo,rooKa SBTOMOOHUIH TeXHKHecKOMyo6cAyKHBAHHIOH PCMOHTy\*).
 
@@ -7513,12 +7062,10 @@ fepeA cbopkon CTONKN. pykon nOnHOCTbIO SbABNraR L ytannnean WTOx,yeAnrecb B ncnp
 AHaTOHHO CHHMCM CTOAKy JpyroroKOHuaaHaGHOpa
 
 ### yeTanOBkA
-`datsun_on_do_en_9e4d8292` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 YCTHaTHM CTOBy  OpTHOH nOCJCAOBaTCJIbHOCTH, npensapHTenbHO CMa3B KOHUN UITaHrHCTaSHAH3- TOpaMEAbHbIM PaCTBOPOM.
 
 ### CasTHe
-`datsun_on_do_en_5434b688` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IIoIOB OH K BSInONHEHHO pao(CM. FlororoBka aBTOMOTRKTeXHHeCKOMy OCyKBAHHIOHPeMOHTy).
 
@@ -7535,7 +7082,6 @@ KH KPeIUCHH CKOONHeBOn noJyukH WTAHrH cra6HIH3aropaKKy3OBy.
 AHAJTOTHUHO OTDOPagHBACM rafkH KpenneHHA cKO6b pyron nouyKH WTaHCaaTopa KKy30By. 4. CHHMaCM uaHy TaGUopa b c6opeCOSTOAKaMR.HTIOJyKaMH.
 
 ### Pa36oprs
-`datsun_on_do_en_92dd1009` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHKM8eM CO IIT8HrH CTORKH.
 
@@ -7549,14 +7095,12 @@ AHAJTOTHUHO OTDOPagHBACM rafkH KpenneHHA cKO6b pyron nouyKH WTaHCaaTopa KKy30By.
 ![](images/6c6686e36ad9e6b38488611ace9074afc911805b25a5e4b91361c14bfabe38cb.webp)
 
 ### yIJIbI yCTAHOBKH TIEPEAHMX KOJIEC IIPOBEPKA
-`datsun_on_do_en_a229d290` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ecne poro KaNEHAR Kcc rOMCyTOM pa6othI nonBeckH Bpyceoro ynpasieFMR SJeMeHTE nepenHen nOJBCCKH 6bb yCraHOBne  onpec ICHHOMHOAOKCHKH.
 
 poeperb  peryposab yrtb ycTHOBKH TCpenHHXKOeC peKOMeHJyCTCR 出 CHeLNan3npoBaAHIX TEXHVICCKHX ueHspax, pachonaraioux cOOTBETCTByIOLUMOOOPYEOBAHHCM.
 
 ### AMCAHnE
-`datsun_on_do_en_107a6fc5` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 yrnbi yciaHoakn nepeAHNx xonec yka3aHbi8 paneneCnpasoiHbe naHHbey,
 
@@ -7591,7 +7135,6 @@ HapymeHuenpaBmbHoroyrJa H8- K/OH8OCH TIOBOPOTE nepenHux KOJec BbBaeT yxyAuueHe y
 HaKioH OCH TIoBOPoTa kOJIeca pcrypyIOT H3MEHCHIeM KOJNNeCTBa 6,yraHoeHx Ha KOHIlax ponOnbHo pacsKH nepeHe onBCCKR.
 
 ### OIHCAHHE KOHCTPYKLINN
-`datsun_on_do_en_57e9a5b0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aaHs obecka aoosoyH38HCHMR，OTHCH HB eytpyTOR 6arke CHponoAbHbiM pblgaraMH, UHAHHapHecKHMHnpyHHaM H TeneckOnNgeCKAMH aMODTH3STOPAMH HBYCTOPOHHerOHERCTBHR.
 
@@ -7609,21 +7152,18 @@ Ha naHue puyara 6ankH yctaHOBRCEA oCb cy 3aero KOeCa (UHa KpennTcR etbipbMR6o.rr
 MH). CTyulyc3anpeccoBabM Hee ABYXPRIHEM POSHKOEbM DOAWNIIHNKOM yaepxHBaeT H8OCH CTICLHAnbHas ralka.Ha raRke BbinoHeHKOnbuon GyprHK,KOrOpbI HB,IeKHO CTOnOPHT ralky nyteM ero SAMATHA BIIPOTONKy OCH. IOmTHRK crymubl 3akpbrroro THn&WHe rpe6yerperynHpOBRH CM83KH Bnpouecce 9KCILTyaTaLHH 8.8- TOMObILLR.
 
 ### IIPOBEPKA TEXHNHECKOROCOCTORHNA 3AJHENHIOJBECKH
-`datsun_on_do_en_796ea285` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 poBepky TexHecKoro cOCTORH Heo6XOJTHMO BEOAHSTE B COOTBETCTBRH C perJaMeHTOM TepHoIHHeckOro TeXHENCCKOrO obcnyKHBaHHR (CM. poeckoe TexHeckoe obcy KHBAHHe-).
 
 OuCHHIb TCXHHNCCKOC COCTORHNE TIoABeCKH MOXCHO BO EPCMR ABSOKEHNA aBTOMOSHIA. IpH BERKEHMH Ha He6obmO KOPOCTH nOHepOBHOAnooe noBCCka OAH paborath be3cTy KOB, CKPHOB H npyrHX nOCTOpOHHHX 3BYKOB. Tlocse nepeesna yepe3 npeCTBHC BTOMOOKIb He OLKCH ACKANHBaTbCR.
 
 ### PanoMnas80a
-`datsun_on_do_en_35c472a5` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 poepry nonBeaau nywe coBec THTb C npoBepkon COCTORHHA WNH M nOAWNNHNKOB crynvu konlec (CM. Koneca, wiHbl nCtynvb) OpHOCTOPOHHV H3HOC npoTekTopa WMHb cBNneTenbCTeyer oAeΦopmaynn 6ank 3agHen nonecku.
 
 J Bo.eg paobnopeyec CMOTPOB88K3HaBaHIH3CTaKaTa.
 
 ### IoceaOe. n
-`datsun_on_do_en_f150089c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. ToAroTaBAHBaeM ABTOMO6Hnb K BHnOnHCHNIO pa6oth (CM. oOTOBKa TOMOOI K TXHHqecKOMy o6cyHBa H PeMOHTy-).
 
@@ -7648,7 +7188,6 @@ AMOPTN3aTOPb! cnenyer 3ameHRTb napon. Aaxe ecnn BTOPOn aMOptHaaTOp Janhen noneec
 4.BHyabo npobeRe COCTOR-He pCKHOMeTa/LCKHX uapHkPosEperteHugaMopTH3aroPoB Inpera-TOB6aTkH3aJHerOMOCTa2.
 
 ### AMOPTH3AIOP HIIPYKHHA3AJHEN HOABECKH 一 CHATUE HYCTAHOBKA
-`datsun_on_do_en_80a78d44` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 #
 
@@ -7659,7 +7198,6 @@ o p npeyorCRTIOMOLLHHX, aTaKxc:
 -CMOTPOBagKaHaBaWSCrakana: TonCTaka; -HPHCnocoGJeHse DA pa36opkH CTOeK nOnseCKH
 
 ### CHrtne
-`datsun_on_do_en_2e66c41a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1 onroTBC aTOMObnbK BbInoJHcHno paboT H BEBCWHBaCM3AJHIOO YACTb BTOMO Ha noaCTaBKAX (CM. IooToKa aTOMO6Nπ KTeXHHeCKOMy OCyHIO paMOHTye).
 
@@ -7702,14 +7240,12 @@ aPHHPL C OMHOCTOPOHHM ByHHeM eH,apa NTPeUKHaMH 33MeHROM (CM. HHKe COOTeTCrsyione
 6.OCaTpHBa ACTI HIOJBCCKH. eopa yraocbeTpet BIICTAHRX nOJBeCKH ne nottyCKaIOTCR. TiobpcxacHHbie neranH 3aMeHgeM.
 
 ### Baeits71
-`datsun_on_do_en_f2ebed90` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/f7495abfab9ccb624a97baff765237510c2f8c6318bf308296ad50871591d8c7.webp)
 
 9.CHMaeM C aMopTHaropa rpyxHHy ce TpoayaKe, ecJMHeo6xonHMO, CHHMaeM co IIITOKA amopTHaTopa Hnnoo noayuy N pacnopHyiO BTyKy.
 
 ### yeraHOBKa
-`datsun_on_do_en_8c666287` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 #
 
@@ -7724,7 +7260,6 @@ B3anHen noABecke aBToMoonna cnenyer ycTaHaBnnBatb RPyXNHb OAHOro knacca (c OnHHa
 an -6yΦep;2- pyaa;3 yx4-npoka Epyt,5 BTyKa;6 -HOJYWKa7- BMOPTHSaTOp
 
 ### LIpeaynpokgegte!
-`datsun_on_do_en_82b5cb93` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 fipn yCTaHOBKE amoptnsaroP HeO6xoAnMo copNeHTHpoBaTb TaKNM o6pa30m, 4TO6bi Topeu HNKHero anika npyxuHbr Gbin cGpauen B CTOPOHy Kaneca.
 
@@ -7733,7 +7268,6 @@ fipn yCTaHOBKE amoptnsaroP HeO6xoAnMo copNeHTHpoBaTb TaKNM o6pa30m, 4TO6bi Topeu
 4.TpoaaeprarJocoene HHAOTBEPCTH aMopraTopeHKPOHuTeRHe 6ankH. ycTaHaB/LHBaCM 60.Tt FIOKHerOKperuteHHI aMOPTH3aTOPaN3aBOpaYHBaeMerOrakky(He 3astrHBan).
 
 ### 34es8e
-`datsun_on_do_en_55d98d62` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Apn OTCYTCTBMN nOMOLHika MOXHO CHaNana 3akpenntb aMOPTn3aTOP Ha Ganke aanHert no,BeckH.3aem, noAcTaBNB nog 3aAH pblyarynop, rnaBHo H AOMKpaTe OnyCTNTb a8- TOMOGMTb, KOHTPannPya npu 3TOM, 4Tobbl WTOKaMoptn3aTopaBoen OrBepCThe ky3osa,N yke nocne 3Toro Hanerb BePXHICIO nonywkyc onopHONWaHOonN HaXvBuTb raniy.
 
@@ -7744,7 +7278,6 @@ Apn OTCYTCTBMN nOMOLHika MOXHO CHaNana 3akpenntb aMOPTn3aTOP Ha Ganke aanHert no
 7.3a Ty oa HHKHeTO KpCnICHHR aMOPTH3aYOPa MOMCHTOM 66,6-82.3HM（6,8-8,4KcM）.
 
 ### BAJIKA 3AJIHER DOJBECKH -3AMEHA CALUIEHT-EJIOKA
-`datsun_on_do_en_449abd44` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ja 3aMCHbl caicH-6nOka cHTH aIKH CTOMO He rpebyerCR. CateHT-6aoKn MeeM TloouepeIH：CH OIHOro,3eypyroro pbyara bankH.
 
@@ -7753,7 +7286,6 @@ Ja 3aMCHbl caicH-6nOka cHTH aIKH CTOMO He rpebyerCR. CateHT-6aoKn MeeM TloouepeI
 -noacTaBka nOn aTOMoAb -YHMBepcaTbHbtyaueyHsRCbeMHHK.
 
 ### CHsTHe
-`datsun_on_do_en_9fe62259` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OOTHBM TOMOHK BMO.HCHIO pabor (CM. lonroToBks ASTOMOCIUIR KTeXHHyeckoMyo6cyBAHHIOHPCMOHTye).
 
@@ -7774,14 +7306,12 @@ Ja 3aMCHbl caicH-6nOka cHTH aIKH CTOMO He rpebyerCR. CateHT-6aoKn MeeM TloouepeI
 ![](images/4fb6b111d8608428797d0298fbd586a0d4991de851b556d7d62d9f3e5769aba4.webp)
 
 ### DiMee
-`datsun_on_do_en_6ec40fd9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Cavnent-6nok CODHoroKpaRNMeer ynop. yr nO3TOMy ebinpeccosbBaTb ero cneAyer TORbKO 8 CTOpOHy n0- poraaBTOMObMnR.
 
 #
 
 ### YeTaRoBka
-`datsun_on_do_en_010bd69c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.HaHOCHM MEUHR paCTBOP Ha HHHHIPHNCCKyIO HIOBEpXHOCTb HOBOroCaRTeHT-6/oka. 2.YCTHRHBMayCHac BHyTPeHHeR crOpONbI puara 3.Hpaas raRky 60nta CbCMHHKR, 3anPeCCOIBM HORA CaRneHr-6Jox pbyar no ynopa.
 
@@ -7790,7 +7320,6 @@ Cavnent-6nok CODHoroKpaRNMeer ynop. yr nO3TOMy ebinpeccosbBaTb ero cneAyer TORbK
 4.VcraBearBKO TeAHKy30ba HΦHKcEpyeero6onTO craBkoB,He 3aTAIMBaR.ee.
 
 ### 38He48
-`datsun_on_do_en_1aecddf6` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 bont xpenneHR para BCaise CRB pOHTeH y3oea CO CTOPOHE noporaaeroMoEnng.
 
@@ -7807,7 +7336,6 @@ bont xpenneHR para BCaise CRB pOHTeH y3oea CO CTOPOHE noporaaeroMoEnng.
 10.Cane-6nok oporo pba 3aMeHRCMHAOHO.
 
 ### 11.PVJIEBOE VIIPABJIEHNE
-`datsun_on_do_en_4d89e018` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OCHOBHHtesaHHtie LAR KOHTPOaRpCryHpookMHObcryKkaaR8
 
@@ -7815,7 +7343,6 @@ Ta6ua 11.1
 ![](images/ff3601bd3dae2dd1d1bf84f6865dd031ebeb8900bc3e5eff8797923087a634ac.webp)
 
 ### 1 OIIHCAHNE AOHCTPYKUHN
-`datsun_on_do_en_db355d11` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 PyBoe ynpaacHec 3aekTpoycHete H perynpyeolino yrty H8- Ha pyeBO KOJOHKOn.
 
@@ -7832,7 +7359,6 @@ Pynebon MCxaHH3M peeyHoro Tuna, COCTOIT H3 kapTepa nPHBOAHOR uecTePHH H pef CH H
 KpeRkepyeeoro MexaHH3Ma6oTaMH OpHKpertnenE pynesbe TRTH, KOTOphe COCTORT H3CO6CTBEHHO TRT, HAKOHegHHKOE H peryJHPOBOgHbIx BTyJOK. Ha BHYTPEHHHX KOHIIAx pyJeEEIX TAT BNDONHEHE npoymuHb 38npeccoBaHHIMH HMX Pe3HEOMeTaLAHVCCKHMH BTYKaMR. B HapyxHbIX HaKOHeYHHKaX TAr yCTaHOB.eHN apoebte nanbLibr, KOTOPEIMH pyneBble THEY COEnHHeHE OBO THbIMH pEMaraMH CTUC nepenHep nIOJBeCKH. IIpH nepeMCuICHHH peAKi THIH HIOBOP8BIOT CTORKH nepeanet ronseckH. JNHy pyJeB Elx TST MOKHO H3MCHRTb, epauas perynHPOEOqHble BTYJKN 1 H3MCH8R TeM CaMbiM CXOKneHHe nepeEHHx KoJec. OTcamonpoH3BOTHOO BPAUeEH TYnKH ΦHKCHPyIoTCs CTHKHNMH GOATAMH, 38- BepHyTEIMH BO daHLbi H8KOHEUHHKOB PysCEbIX TAT.
 
 ### TIOCHeZOSTeJILHOCThHnOH
-`datsun_on_do_en_683976fd` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.HonrOaHBaeM ABTOMO6Hb K bInOnHeHHO pa6orh (CM. Iororonka BETOMOOHJR K TeXHHqeckoMy obcnyKHBaHWIo HpeMOHry>).
 
@@ -7842,7 +7368,6 @@ KpeRkepyeeoro MexaHH3Ma6oTaMH OpHKpertnenE pynesbe TRTH, KOTOphe COCTORT H3CO6CT
 Pyaenoe ynpasee: -HaXOHeIK pyreson TS;2 pcrympooapeobanka 5 - 4.5- 6-o e yo 7 ok8 pasag onopapynero ea;9 38UHTHN xpye xa10-pyol a 11 b:12 pyapo13- BEPXHHA KaPJaHHa uaPHup; 14- pyaeBas KoaHkacanekpoycHtHeapyneBoro ynp eseR, 15 -ynesoe KOneco16-KOHTa u17-e pyoro ec18 HapyBoroecanoyua6e3onBHocHBoe）;19 HCAUHTHHKKpncBoro B20- 3aHb K
 
 ### FMMI
-`datsun_on_do_en_fa9880be` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 floapexzeHHbie yexnbl (nopBanHbie, CTpeLNHaMn) Heo6xoANMo 3aMeHuTb
 
@@ -7870,7 +7395,6 @@ YeennyeHHn nodr canperenbcTByer Heo6xONMOCTN noncka yCTpaHeHNg HeNcnPaBHOCTH. Ka
 10. BKTIONaCM sakHraHHe HAIILRTkeripHbopo 10 C5 XOHTPO.tbHaR amra HeHcnp BHOCTY saekTpoyCHUTe neBoro TPaBAeHHA. 3anyck HeM neHraTen OHTPOAbHaR naMna nOKHA IC pyJeboe Koneco DOTKHO nerko spalarecR OSHOR PyKOH 3aropaHite naMrtbl BOBPCMSpa6oTb TenCBUeTenbCTByTO He. HCTP ABHOCIH CKTPOyCRMTeTHHEO6XOJNMOCTH ero peMOHTa.
 
 ### TexOMenJaHA
-`datsun_on_do_en_52a45387` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Hbd 13- THOE 蓝
 
@@ -7879,7 +7403,6 @@ PeMOHTuPOBarb 3nekrpoycnnutenb pynesoro ynpabnemva chenyer B CneLNanN3vposaHHo p
 bCA Kax neDOP
 
 ### 98KHC
-`datsun_on_do_en_6f2a50e0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 otcoutePy UTHC LBecxoznod5yae 'HOro
 
@@ -7892,12 +7415,10 @@ J BUNOTHEHHR paborunorpebyiorCCrHa/bH CECMUHK IUIR CHRTHA noayuiku6e3onacHocTn H
 O.TTOS ONtOHTHeN
 
 ### CH8THe
-`datsun_on_do_en_aba9233f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IIOnrOTaBIHBaeM aBTOMO6KCTb K IOHHHOpOOT（CM eIlonroToBka TOMOGHK TeXHHlecKoMyo6cnyKHBHOpeMOHTy),CMMMyC OTpuUaTeTHoroBbIsOaKkyMyJATOPHoRGarapeR
 
 ### TIpeavitoe!
-`datsun_on_do_en_b8c82425` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha aeToMo6Hne.obopynoBaHHOMonywko 6e3onacoct 80 na6e-XaHne cpa6aTbBaHne noAywkn,nocne OrcoenMHEH aKxyMynsTOp-Ho 6arapen Bbxnnre He MeHeenT MnHyt nepen npononxeHnepa6on. CHAT MOAynb nOAyLK6e3onacHoctn yknanbBaire NCnon-HNTeRbHbIM MexaHN3MOM BHN3 VBAanNor pabovero Mecta.
 
@@ -7932,7 +7453,6 @@ OCBobokMaJepkae Myng noayuKNbe3onacHocTH.
 8.TIpH HCO6xonHMOCTH ycraHoBKH pyesoro koneca IpeHeM onoHH,OAOCTyI COOM (MapKcpMMceo TOMKHM3Y6HIOM) eeM yTHOOHbe MCTKH Ha BaTy HpyJIeBOMKonece.
 
 ### 3veyanmE
-`datsun_on_do_en_a8788a08` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 fIp CHRTHN Pyeeoro koneca nonBNKHAR Hactb KOHTAKTHOrO Konbua He 中nKCnpyerCA aBTOMaTVNECKH OT Bpauenns. B pe3ynbrare npn c6opke MOKeT ObiTb Hapyweno LeHTpanbHoe nonoxeHne nonBNXHO aCTN KOnbua. nps 3TOM Bennka BePOsTHOcTb-nOBPEXDeHnA KOHTAKTHOrO KOnbLa npn nosopote pyneeoro Koneca e oQHo M3 KpaviHuX nonoxeHnn Ena ukcaun onbua pyneBoe koneco KOMnnexTyeTCR CneunanbHbiM CronopoM.
 
@@ -7957,17 +7477,14 @@ fipn pabopke HecbxonnMo 3actonOPHTb KOHTAKTHOe KOnbLo M He ynanAtE CTonop AO yct
 12. OTECPEys raHky,CHHMacM pyJeBoC KeCOCBaa, Tpn 3TOM BbITRrHBacM npobona KOHTAKTHOTO KO/EbL BMCCTeCKOOKaMHH3OTBPCTHg CTyLINpyeBoro Koneca
 
 ### YeTaHOBka
-`datsun_on_do_en_d3f0461a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 yeraHaanaeM pyneBoe Koneco Bo6- paTHO noceoBarebHOCT, COBMCCTHBPEHeeCeAaHHbICMCTKHHyCTaHOBHB HOBYIO CAMOKOHTPSIYIOCR raHky. axy kpene pyeorooneca MOMeHTOM32-51H-M（3,2-5,2Tc-M）
 
 ### Pevovsnatte
-`datsun_on_do_en_09772b7d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn Heo6xonnMo yctaHOBNTb pyneBoe KOneco HOBOM nonoxeHNN (Hanpnmep, ecnn npu npAMOnMHeifHOM DeNKeHNH OBTOMOONns, cTMLb pacnonoxeHb! nOA HaKnOHOM), HBneHbTe koneco Ha Ban N3ackCupyvire ero raikon, He 3aTarneas ee OKOHNaTenbHO. npcexae nIPRMO HeCKonbko MeTpos, ybennrecb B fIpaBNnbHOM ero FIonoxeHNu. Apv Heo6xoNMoCTH nepeciaBbTepyneBoe koneco Ha rpebyeMoekonvNecTBOWnVueeN3aTRHNreraviky.
 
 ### CHRTuE
-`datsun_on_do_en_3e06cc34` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/e3126543d668d62e5623fbd5f34e98a7de52f819e9db8e98e24239009f72dbe0.webp)
 3.Tepeeae parcapyOR KOnOHKH BHO yOPa n OIlyC
@@ -7996,7 +7513,6 @@ YeTanOBka
 YCTHaBBaeM HaKnKH D ooparHONnocleaoBarembHOCTH,
 
 ### CHATke
-`datsun_on_do_en_ed1a90d9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ooTaHBem BTOMOOHK
 nHcoa6ob（C. TloJroroBka
@@ -8023,17 +7539,14 @@ PyKHOrO HaKOHCIHHKaPyCBOR TArE.
 ![](images/89d93fb2613e601a6d5366e34df59aaf6202ba467c05844fa7ce703aaa856e3a.webp)
 
 ### 129
-`datsun_on_do_en_b6f851ee` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn TpeGyercR coxpaniTe perynupoBky CXOxAeHNR konec, CUNTaiTe KOnyecreo CnenaHHbIX o6opoToB. Ang Gonbwen TOYHOCTN MOXHO HMepuTb nnnHy pyneBO TAH (CM. HMke, "Pynesas TAra = CHATNe 4 yCtaHOska").
 
 ### VCTSHOBKA
-`datsun_on_do_en_609acb6a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IoxpBae pe3bboByo HacTb pcIyJIHPOBONHoR BCTABKH nnaCTHVHOR CM83KOR. 2.HaBopagHacm HOBBIR HaKOHCyHHKHa perymHpOBOyHyiO BCTaBKy.
 
 ### SAL
-`datsun_on_do_en_7eeefa6c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Lns CoxpaHeHu yrna CxoxDe KOneC HOBbIM HaKOHENHHK HabopaWMBaeM H2 perynvposcyHyIo ecraeKy Ha To xe KonuecTao o6opoTOB. KoTopoe 6uno CAenaHo npit orsopaWNBAHMNCTaPOrOHaKOHEYHMKa.
 
@@ -8046,7 +7559,6 @@ Lns CoxpaHeHu yrna CxoxDe KOneC HOBbIM HaKOHENHHK HabopaWMBaeM H2 perynvposcyHyI
 6.3TrHBaem CTRKHOR 6O HaKOHCTHHKA TATH MOMCHTOM 19,1- 30,9H·M（2,0-3,1Krc.M).
 
 ### PYJIEBAR THIA -CHSTHE H YCTAHOBKA
-`datsun_on_do_en_15c8ae53` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 #
 
@@ -8055,7 +7567,6 @@ Bpa3nene nCka3aHo CHaTve neBoW pyneaov TRrN. paByio TRryCHMMaeMaHancrWbMobpa3OM.
 LEBbneHgoO CMOTPOBE KAHaBaHIH 3CTaKa
 
 ### CHRtHe
-`datsun_on_do_en_b92d378d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IIOnrOTaBaCM aBTOMO6Hb K Benopao（c.ororoka aBTOMOOHU TeXecKomy OcyBaRHIOHpeMOHTy\*).
 
@@ -8080,7 +7591,6 @@ LEBbneHgoO CMOTPOBE KAHaBaHIH 3CTaKa
 ![](images/1af488020ac910b2bdb34a8d9685f308d1fbedfbcbf4b890ee31e0ee705b3d0e.webp)
 
 ### VCTAHOBKA
-`datsun_on_do_en_f83f490c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.N3MepReM LIHHy CHATOA TSIH (paCCTORHHe My ICHTPOM OTeECTH Pe3HHOMeTaL yeCKOR BTYJKH BHYTpHHrO KOHLa TK  eHTPOM 3nyKKOTBepcTHgapoBoro nabua).
 
@@ -8089,19 +7599,16 @@ LEBbneHgoO CMOTPOBE KAHaBaHIH 3CTaKa
 2TopUOBMKOOMHa17MOa6 JRM 3Ky CAHOFO 6onra HOBOA TRTM, Bpaag perypoBouHyio Bctasky KIOYOMH 27MHOBO TAIH PABHOH ANHE CHRTOH TAIH!
 
 ### Bannpeik.tenm
-`datsun_on_do_en_ad5551ee` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Tepea perynuposkon AnNH TATM ybeANTecb, YTO perynnposouHas BCTaBka 1 HaKOHeNHnK 3aBepHyTe Ha pynesyio TRry AOynopa
 
 3.YcraHasHBaeN rary B obpaTHoR TIOCeAOBATe.TbHOCTH. 4.3aTHBaeMCTCKHOR6omTTTHMOMeHTOM19-30,9H-M（2,0-3,2Krc·M） 5.3aT8IHBacM H WIUIHHTyeM 60.TT Kpennenug nanblla HBKOHeIEHKOB THT MOMCHTOM27,1-33.4H·M (2,8- 3.4KTC-M). 6.bonTh KperuenHg TRr Kpynebomy MeXAHH3My3aTHrKBaCMMOMCHTOM70- 86H·M（7,1-8,6KrC·M） HocneyCTaHOBKHEBTOMOOHISH KOJICa. 7.HaeBaeM Ha6oT cTonopHyiO ILIaCTHHy
 
 ### CHATke
-`datsun_on_do_en_0ec490b0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTCOenHHe nPOMXyTOYH a yA KONHKH OT pyneboroMeXHH3Ma（CM HHKC, PyneBaR KOnOHKa-CHATHe HyCTaHOBKae),
 
 ### eanc'
-`datsun_on_do_en_44377fd4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 8o nsbekaHke noepexneHne KOHTaKTHOro onbua Ha aBTOMoonngx nonyuikon Ee3onacHoci Bpyneson KONOHKe saΦukcupyare pyneeon BanOr BPaueHun
 
@@ -8130,17 +7637,14 @@ CHMaM 3aTH konnak cpyneBOTO MeXaHH3Ma.
 ![](images/af945d83056534558e4b166fcb16e2317734cbbebbacb6006c3a6839c1460f52.webp)
 
 ### YcraHOnkA
-`datsun_on_do_en_9bf772ba` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aKaeM BO BHYTPEHHIOIO nonocTb Keprepa pyJeBoro MexaHH3Ma CMay NOI-1 2 HaneBaeM 38UNTHHA vexon H8 kopnyc pynesoro MexaHH3Ma. uKCHpyeM TOHOBIMHXOMYTaMH. 3 HaneBaeM Ha PyeBok MexaHH3M npaByio onopy R 3aUHTHbIR KOnnaK HKcHpyem kOnnak pyneBoro MexaHHM HOBENXOMYTOM 4.KpenM Hapynebon MexaHH3M CKobami. TaAXH CKO6 3TAHBeM MOMeHTOM15-18,6H·M（1,5-1,9Krc·M） 5.KpenHM KpyJeBoMy MexaHH3My TATH (CM. PyrreBag TAra 一 CHATHe H yCTaHOBKa>). 6. KpenHM npoMeokyrONHnt BanpyJeBOnKOOHKHKBany pyneBoroMeaHH3Ma(CM HIDKe. Pyneeax KOJTOHKa 一 CHATHe NyCTaHOBKA).
 
 ### EUU
-`datsun_on_do_en_b6d4e6ab` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B 3aencuMoctn or uenu pabotb! pynesyo KOJOHKY MOKHO CHETE B cbope pyneebiM KonecO noApyneBbiMN nepekniovarenMN Pabora nokasaHa C 4acTn4Hoi pa3bopkon pyneeoNKOnOHKN.
 
 ### CnRTHe
-`datsun_on_do_en_3a2a4431` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IorOTaBHBae aTOOHK BbIHOAHeHMIO pa6OTbIH CHHMaEMKIeMMyCOTPHUTebHOrO BEIBOIa 8KKyMynTOPHOR arapen (CM. eIlonroTcBka BTOMOHR 4 TeXKHyeCKoMyo6cTyBaHHIO HpeMOnTyo).
 
@@ -8169,7 +7673,6 @@ H
 ![](images/8127733f9011a27c89ddc96264be50c084a4bbcba0e9192126c3318eba3119b6.webp)
 
 ### 483H6
-`datsun_on_do_en_81cd0c3a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHRTb pyneByio KonoHky MOXHO Bc6opeCnpOmexyoHbM Banom.OnHako CHNMaTb L ycraHasnveatbpyneeyio KOnOHKy yAo6Hee. ecsupa3beANNntb npOMexyTOYNb ean.CoennHeHve pnaHues kap.gaHHbixWapHnpos npOMexyTOuHOro sanaBO3MOXHO TOnbKO AHOM nanoke-HNN, nosroMy MOXHO He nomevarbNXB3avMHoenonckeHle
 
@@ -8178,28 +7681,24 @@ CHRTb pyneByio KonoHky MOXHO Bc6opeCnpOmexyoHbM Banom.OnHako CHNMaTb L ycraHasnv
 ![](images/16a0286815f95b7f9b22cd62f8901aa17a4b3fba484309178e1d498a872b97a5.webp)
 
 ### YCTaROBKE
-`datsun_on_do_en_cc2af925` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 11.TopuoBM KH 13MN OC6e 3aTRKKY JByx raEK HHKHeTO KpereHHn pyeBoR KOOnKH
 
 ![](images/59a21ff97c8c1c73a492f33e7b4569b314d539396df33eb99d3ddc9389421231.webp)
 
 ### IIpeAyMIWACHHe!
-`datsun_on_do_en_353c85b9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3H eOn nOKe  Ha AeT Ha BanpyneBoro MexaRH3Ma TaK, YTOG6I MeTkaApacronaratecb HaripoTMB yrny6nenHa yrnoBon @opMbt 1, pacsonoxeHHoro Kpbke Kaprepa,a BapH3TOMnOBepHyTTaK gTObbero n83 Z pacnoJaranCRHanpOTHB MeTKHb SaKIHOrO VeXia
 
 1.OTcOeHHeM HaKOHYKHKH pyJCBbIX TAT OT pbIyarOB CTOeKnepenHeg HOABECKH (CM. HaxoHeHk pyon T8IH-3aMCHa).
 
 ### CHRYHe
-`datsun_on_do_en_8ed6d574` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 13.CHHaeM pyyo KOnOHKy B c6ope.
 
 YeraHaBBaeM pyRCByo KOTOHKY 6pATHon nOCACnOBTHOCTH. Tlepea yCTaHOEXnd yOexnaemcs, UTO nepeaHHe koneca HaXOSRTCA HOAOKCHHH KHH nonPAMOR na3 H BaJty MCTKEHa Kpbuke Kaprepa pyneboro Mex3HH3Ma, TaKCke METKI 3HTHOM Nexe pacnonOxeHbLnODKHbIMOGpa3OM（CM ΦOTO).
 
 ### 110PYJEBOIMEXAHH3MCHATHEHYCTAHOBKA
-`datsun_on_do_en_97ebb976` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 12.TeM xe KONOM OTOpaa nee radiky BepxHero KperuCHkA pyneBOR KOROHKH.
 
@@ -8226,12 +7725,10 @@ Bo vabexaHue noepexaeHue KOHTaKTHOro KObua Ha aBTOMOnxC nonyLukon 6e3onacHocu 6p
 ![](images/c1745c64ed7e1a5562c3f1f8ca5fdde0a7df68ab17adb04ddd5cdea0005f38b2.webp)
 
 ### yeraHOBka
-`datsun_on_do_en_4158a14e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 yCTaHaBHBBepyneBoR MexaMH3MB o6paruoR nOCnetOBaTeAbHOCTH.lnconge npOeyO BanpyBOn KOnOHKK By yBoro Me-XaHH3Ma （CM.be,PyeBaRKOOH-Ka-CHRTHe HyCTaHOBKae).
 
 ### 12.1.OBUHE CBE/IEHUH
-`datsun_on_do_en_9857a1b4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/248b9a06246da63b8ac8a3ddca88bba476d81981d563ee6e3df8379b85616f1b.webp)
 CHIPABOYHbIEJAHHbIE
@@ -8249,7 +7746,6 @@ Ta6a 12.1
 CoOTBeTcTeyioag Tpe6oBaHH8MCraHapra FMVSSN 1I6.
 
 ### MOMeirTw 3aTukkkPeaboonux coeienni
-`datsun_on_do_en_114ab8b3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ta6nua12.2
 ![](images/d3b34238d7b399aa878ebfff378bec3f5ba768ffbab4f4d075b69040babda607.webp)
@@ -8258,7 +7754,6 @@ OKOHaHe Tau 12.2
 ![](images/16e3bc3b80af2a8d9e3a2ba391cc3fe033663cf147e0172e6b5b7f22c8e7bebe.webp)
 
 ### OIHCAHHE KOHCTPVKUINN
-`datsun_on_do_en_d055d09b` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ABTOMObHoOopynOBaHByaTOp MOSHNMHCHCTCMM paboeRHCToSHOYHOR.
 
@@ -8271,7 +7766,6 @@ Kaxbn H3 KOHTYPOE aBTOMOOHNR BKLIOU&T Cc6 TOPMO3Hb MexaHH3MbI AByx DAHOTO eAHCro
 Js yCHCH yCHIHA, npHKtabBacMoro BOJINTCTeM K TeJan ropMO3a, npHbore TOPMOSHOR CHCTM yCTAHOBnH yy yCTeb,pa6oraIoWuR 38 c4er paspexeHHa, obpa3yiouIerocA BOBTyCKHOM Tpy6onponOepeoTaomroJnaTens.
 
 ### IlperynpexsenHe!
-`datsun_on_do_en_c6652dfd` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Kamepa 2 yCiUDrrena, o6paueHHaR K CRABHOMy TOPMO3HOMy UPTHHEPX Ha3hBACTCR BaKyyMHOA KaMCpe COCTOPOHEI JaH 0 0E ATMOODepHOR. BaKyy MHAR KaMep UHHeHA TpyokoR gepe3 OOPaTHIIP KUtanaH pecHBepOM JBHTaTCnA rIO3TOM IP pabore JBHT8- TeJng HER eTCg paapekeHHe. Korna nenumb TOPMO3a oTItymena, nBONKON KnarIaH rponyckaer paspekeHHe 8TMOc@epHyio KaMCPy KO/DHOBPEMCHHO nepekpbIBE e nocTyIUIeHHe HeCBTMOC depHoro BOVTyxa. B pe3ynbrare, nByx CTOPOHadpa naee (paspexeHHe) OJKHAKOBOE oceHaK STHS neaJHTOPMO38 BaKyyMHNR KianaH sakpblBACTCS, STMOC ePHSOR OTKPb bEBACTCA,H gepes Hero Hapy KHbIR Bouyxnocrynaet BKaMepy3 JBneHHe HeRcpABHHsaeTccaMocdepHM.IIpH 9TOMpa3pekeHHC Kamepe obecneuHBaeT DOnOJIHNTTbHO yCJUITOPMOHHA.
 
@@ -8287,14 +7781,12 @@ xyo op:1-2-yy sepa3-ooep 4. 9 enpy5-o:6-- HOR（yy o7 LHdparnB: 8- TO:10 xopnycB
 YCJbBooRe Kp2H3,puenee Mexny co6ohnuadparNoR7.
 
 ### BHHNHHi
-`datsun_on_do_en_53d0a271` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 O3HakoMbrecb CnpaBuna no rexHNKe 6e3onaCHocTH npu paborec TOPMC3HON KNAKOCTIO (CM. "Mepb 6e3onacHocTN pn o6cnya peMONTeaBTOMoouna).
 
 YpOBeHbTOPMO3HOn WHKOCTHTIPOBepsercs nepHonHeCKH: CKCUHCBHO BO BPeMs SKCTLn ATAIHN aBTOMOOULA, IpHKaKJOM CHH KOM OC OKHB8- HHH nocne CHHA OntepaunR no Epok HIponpHsona TOPMO3HOR CHCTEMbI BAMCHe TOPMOSHOA JKRKOCTH, npu 3aropaHmH H8 UHTKCnIPH6opob KOHTPOJbHOR namnbt, CHTHATH3HpyIoLten D HEHOCTATOHHOM ypOBne TOPMO3HOR KLKocTH6akeraBHOroTOpMO3KOroHAHHiipa
 
 ### Tocneno TocT SnonneNHg
-`datsun_on_do_en_8d609d0c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IIOnrOTBKBaeM TOMOOHb K BnOHCHHO pa6oT(C LTonroTobka aBTOMOOHTA TeXHeckoMy oGcyBaHHIOHpeMOHTy>). 2 BeTOublo yAa TPA3b C 6avka ritaBHOrO TOPMO3HorouHIHHApa. 3.ByabHo npoBepReM ypOBeHb TOPMO3HORXKKOCTHB6Ke.OHnHHaXOHTbCAMeXIy MTKaMH MIN HMAX Ha Kopnyce 6auka.
 
@@ -8305,14 +7797,12 @@ YpOBeHbTOPMO3HOn WHKOCTHTIPOBepsercs nepHonHeCKH: CKCUHCBHO BO BPeMs SKCTLn ATAI
 5 Ecnm H3HOC KOnonOK TOPMO3- HLLX MeXaHH3MOE T cnaa) HOPMbt, ypoBeHb KHIKOCTH 6auke HaxoRHTCR HHKC NCTKH MLN torna OTcOCAHHSCM KOHANHHI xryTa npoboROB OT naTHHKE BapHAHoro rAuCHHg yPOBMg TOPMOJHOA KHIKOCTH, OTBOpaunBacm H CHHMaCM Kpbltuy Gauka (CM. T4HK HeROCTaTOyHOrO yposHSTOPMO3HOR KHAKOCTK A rpoBepka HSaMCHB\*).
 
 ### Dpeaynipexjtenme!
-`datsun_on_do_en_f875f76d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Dns 3anonHeHua rugponpuBona TOPMO3HON Cucrembr ucnonb3yite TONBKO HOByIO UIKOCTE.
 
 6.JIonHBaC HOByIO TOPMO3HyIO IKOCTb B 6agOKO MTKH MAX （p ycTaHOBKe XPbKH Gauka nortiaBok HKa norpy3HTCA B XHJKOCTb Hee yPOBeHb nOELCETCs).
 
 ### Epeayngeauenne!
-`datsun_on_do_en_714875d3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ECnn TOPMO3HyIO XHAKOCTb B 6a4OK PHXDATOROnNBaT HaCTo,TOHeO6 XOANMO nposeputE repMerviHoCTb TOPMO3HON CCTe (nposepAeTcA BM3yanbHO Ha npenmer OTCyTCTSNA cnenoe nonTekaHATopmO3HouAKOCTNM3 UHPOE Me enHe H 3neMeHTDBCNCTeMbl).
 
@@ -8321,7 +7811,6 @@ ECnn TOPMO3HyIO XHAKOCTb B 6a4OK PHXDATOROnNBaT HaCTo,TOHeO6 XOANMO nposeputE re
 9.Ipoepae pabory AATUHKA aBaPRHOrO yPOBHg TOPMOHOR KNAKOCTH: npss BKULOTCHHOM 3aKHrAHHH HaMCM CepXy Ha pC3HHOByO HaKaKy KPbUiKH 6avka. Eern RATIHKHCnpaBeH,Ha untke npbopos 3aropCSKOHTPObHaRRaMna.
 
 ### IIoceaOTe.tLHocT sOJHeHH
-`datsun_on_do_en_cdc9cb19` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pOBepKy CTeneHK H3HOCa TOPMO3- HHX KOODOK px TOMOx MeXAHH3MOB BMNOnHAeM B creayouen noc/enOBaTe/IbHOCTH.
 
@@ -8356,7 +7845,6 @@ EC TOH HH TOPMOHOR KOJOTKH AMCHcC1,5 MM, MCMRCMBCE TOPHOSHC KOnOIKK TOPMO3HX MeH
 4.VcraHaa 3ayy Ha Mccto
 
 ### TlocnetosarenkocTs oJc
-`datsun_on_do_en_085b1f51` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1 TlOgrOTaBJIHBaeM 2BTOMOHK BbOHeHHIO 6OTCM. ellonroToBks 8BTOMOOHEKTeXHueCKOMyo6CtyXHBAHHIOKPeMOHTys).
 
@@ -8371,14 +7859,12 @@ EC TOH HH TOPMOHOR KOJOTKH AMCHcC1,5 MM, MCMRCMBCE TOPHOSHC KOnOIKK TOPMO3HX MeH
 BnPOTHBHONCayHae npOBepRN HeJIOCTHOCTb uaHra noZBOna paspexeHHA KBaKyyMHOMyyCHIHTeMIO, repmeTHVHOCTE bro nOJCOeJHHCHHg BnyckHOMypecHBepy H narpyoky c6paTHoro Xnartana yCEIHTenA. Ecnn WRAHT HCnpaBen H COeDHHEHrePMeTKUHO, HCHCnPABeHBaKyyMHtRyCHTe.Tb
 
 ### HIEJAILTOPMO3A 一 HIPOBEPKA CBOEOJHORO XOIA
-`datsun_on_do_en_f1400668` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CROOOHR xOn nenatH TOpO3a 3TO xoJnenaiH DT cc BepXMero nonoKCHHR AOHayan8 CpaO8IBaHR ropMOSHbIX MeXAHH3MOB. OH nODKEH COCTa8.8Tb3-5MM.
 
 LA Boepopeyerca THHeAKA HkpyseTke.
 
 ### IOCheAOBRTETHOCTL BHNOHHH
-`datsun_on_do_en_96d71033` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IoroTaBAHaCM aBTOMO6H K HeHO paoT（C. JloaroToBka TOMOGUTR TexHecKomy oGcyKaHHiOHpeMOHTys).
 
@@ -8393,7 +7879,6 @@ LA Boepopeyerca THHeAKA HkpyseTke.
 IOBTOPAeM HMeDeHEs. IlopasHoCTH OnyHHHx 3HCH OnCMCBoOOHxon.
 
 ### TyOne2!
-`datsun_on_do_en_e617a0ce` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Hannne cobogHoro xona nenann TOPMO3a rapaHtupyer. 4TO nocne npexpaueHnR TOPMOKeHNs nopuHM masHoro TOPMO3HOrD LunNHApa BEPHyTCR NCXOAHOe nonox eHne, MB peaynbTare rnaponpneone TOPMO30B He OCTAHeTCR nabbiToyHoronaeneHNg. Korga Bbinonatenb CurHana TOPMOXeHUA yCTaHOBneH Tak, YTO OH orpaHnynBaeT xonnenann TopMo3a Hasan B TOPMO3HON CVCTeMe CMOKeT COXpaHATbCRaBneHne, npuKOTOPOM TOPMOHe KnOKyyop MaxvBaTb.
 
@@ -8402,7 +7887,6 @@ Hannne cobogHoro xona nenann TOPMO3a rapaHtupyer. 4TO nocne npexpaueHnR TOPMOKeH
 EcnHceobonHbn xon nenannTopMO3a MeHbWeOnTUMabHOrO3HaHeHMR,HeofxonuMoperynvpoBat nonoxeHke BbIKnIOHaTEnA CHrHanoB TOPMOKeHNR (CM. BbKnioNaTenb CurHanoB ropMOKeHV rposepka M 3aMeHa"). VeenN4eHHbncBc6oAHbNixOnnegann TOPMO3aMOKT6bTBb3BaHIOTOM MexaHnMenpuBon. HeobxonuMo 3MEHnTbVHOUEHHbIeneTaN.TaKke nPUNNHOn HencnpaBHoCTN MOxer 6bTb Hanuve BOaayxa B runponpuBone TOPMO3OB H HevcnpaBHOcTD naBHoro TOPMO3HOrO LNnNHApa BbrRBAHHyIO HeNCnpaBHOCTb HeO6XOnNMO ycpaHbC.oaoe TOpMO3HON CHCTeMb).
 
 ### CTOAHOHHBIN TOPMO3 一 TIPOBEPKA XOJA PbILATA
-`datsun_on_do_en_f430a6c9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bnpouecce 3KCIUIY&TBUMHABTOMOOHJ,BCTTeACTBHe H3HOCA HaKaJOK3aIHKX TOPMOGHbIX KOJIOnOK H BEITATHB2HHA TPOCOB pBonaepHoneckOHHKACTHOOOXOHMOCTE perysHpoBKexomA pbyaraCrORHOYHOrOTOPMOsa.
 
@@ -8413,12 +7897,10 @@ Xon pbigara CTORKOUROTO TOPMO38 nonkeH COCTEBJATh 一 ILLenIKa. IIpn 3TOM 4O3HAR
 Bou36exae norepu rapaHnupMa DATSUN eKOMeHAT BnOH Teeeoc BTOMO6vntopoBaHHxepCKNX LeHtpax.
 
 ### 12.3.LEPEIHMITOPMO3HOUMEXAHM3M
-`datsun_on_do_en_d14bb645` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 IlepeaHKA TOPMO3HOR MCX8HN3M AHCKOE BHTHTHPyeMbIR, C nasaoWeR CKO5On H OIIHHM pab0%HM IMJKHIPOM. TOpMO3HOR JHCK gyryHHI't, ero MHHHMAISHO nOnyCTHMAgTOHHa npa H9HOCC COCTABIACT 17,8M. 3a3op MeKay TOPb 103HNMH KOJOMKAMHHAHCKOM nonaepxHBaeTcR 3acuerynpyrocTH PC3HHOBOTOYTUIOTHHTCTbHOrOKOIbLB, YCT&HOB/ICHHOrO nPOTOVKe CTCHKHpaboYeroHHHPa.
 
 ### C8ITne
-`datsun_on_do_en_dd933be7` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IOATOTIHBCM TOMO6Hb K nposeeHko pabor (CM. JlQuroTOBka BTOMOOILA K TeXHmeckoy obCnyHBAHHIO HpeMOHTye).
 
@@ -8448,7 +7930,6 @@ Jn cyopa nemeo oooro aa -uyuep npokar2-pao Hp3 H CoCya4-auR co5- SRHTHAt xHanpas
 10.CHHMCM TOPMORI KOOK 11.HebOOMTHeCKOAITKOA OHUMEMOT TPgaH H pokABSHOHh nocaJOTHNe MeCTaKONOOK. 12.V6xnMCA B OTCYTCTBHN nonTEKAHHgTOPMO3HOR XHIKOCTK H3-HOJ MAHKeTNTOPMO3HOrOIDUIHEUIPa.
 
 ### YCTEHOBKA
-`datsun_on_do_en_ba6a4cd0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 9.IOKH8CM rOnONDKHyIG cko6y Bepx,oopaHc BepxHeM HapBRoueM abue.
 
@@ -8477,12 +7958,10 @@ DTBePCTHeM Hapa ne (oykag o6y，cee 3a Te npyHHHhe yCHKH KON03OKHe BCTA.TN Bpacr
 ECtH yPOBCH HnKOCTH B 6agke ABHOro TOPMOSHOrO UHIHHIPa H8- XOAHTCR BIe OMCTKH MAX,eYHOsoR rpywet OTKpaeM aCTb XKOCTHH368yKa.
 
 ### ETa.ayagekacine!
-`datsun_on_do_en_97cb4fa6` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocne3ameHal TOPMO3HbIX KOnOnOK 8nepebe 100-200npc6era3中 中eKTHBHOCTb TOPMOXeHNe 6yAeT CeHa.yAbre ocopoxHl
 
 ### IEPEIHHA TOPMO3HON ILLAHT I 3AMEHA
-`datsun_on_do_en_dd831ce4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 IIpH KaxTOM TeXHHHeCKOM obcnyKHBAHHRTOMOO BHsyaibHo npoBePReM COCTORHHC TOPMO3HbIXIaHros. LInakrs, HMEIOLIHe nOTEPTOCTH, BOIYTHA, TPCLHHb WIN pEcCnOeHux, 38MCHRCM HCMCLICNKO. TopMOsHbre HIK peKOMCHyeTC 38MCHATb Cpe3 125000M npoeraHinvepe5et KCUYTAUHH H38BHCKMO OT HX COCTORHHS.
 
@@ -8493,7 +7972,6 @@ BO.T时 paboTm noTpebyIOTCR:
 -HAnKHa nOICTABKE IR ARTOMO GIA.
 
 ### CasTae
-`datsun_on_do_en_8e21f5d1` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IIOnrOTaB.HBaCM BBTOMOOHAb BHITOXHCHHIO pa6otb (CM Tloare rOTOBKE aBTOMOOHIA K TCXHHVecKOMy o6cAyxHaaHHio H peMOHryo). 2 CHHMAeM KonIeco (CM, Koneco 3AMeHa>). 3. Ecnu BaTOMo6n.nb o6opynoBan JTHHKAMH H3HOCB TOPMO3HHXKOnOnox, DECOOIMHREM HBKOHCNHNK ripoBOJa JTNHKE OT KOIONKH ryta npoBOROB.
 
@@ -8504,7 +7982,6 @@ BO.T时 paboTm noTpebyIOTCR:
 5.OLM OT P3H HaKOHeNHKKH TOPMO3HOrO UJBHra H oEpabareiBaeM wryuep TOPMO3HOR TpyOkH npOHkameCMa3KOA.
 
 ### JIpeavnenea
-`datsun_on_do_en_95978ba0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpH BbinonHeHun Cenyiouei onepauny cene 3a TeM, YTOGb! npn OTBOPayNBaHnN WTyuepa Tpy6ka He spauanacb BMecte CHMM. Ecnu Tpy6ka "3akncna" Bwryuepe, 3aMeHnTeee.
 
@@ -8521,7 +7998,6 @@ NpH BbinonHeHun Cenyiouei onepauny cene 3a TeM, YTOGb! npn OTBOPayNBaHnN WTyuepa
 Coeee ara c pao - JHHIPOM yorueRo MOHhIM KOJIELIOM, KOTOPOeHe nOLnEKITnOBTOPHOMyHCTOJTb3OBEHHDO.
 
 ### YeranOBKA
-`datsun_on_do_en_90b9b6ce` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.HeBa Ha HHXHI HAKOHeyHHK IRAHTS HOBOC yTLIOTHHTEJTbHOE KObLLO, SabopayHeaeM HaKOHCUHHK
 
@@ -8534,7 +8010,6 @@ B OTBEPCTHe KOPnyCa TOPMOSHOrO LHpa H38rHaaeM.
 IpOKaHBM TOpMO3Hyio CHCTeMy(CM. IHPaBCK HBO TOO-308 npokaka\*)Hy6exnaeMcnBrep-MCTHHHOCTH COCHHCHHA HAKOHC4HH-KOBHOBOTO TOPMO3HOTO LBHTa.
 
 ### CaATHe
-`datsun_on_do_en_6997d097` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 IlonroTanKBAeM aBTOMOONIb K BbInOMHeHKIO pAOOTH CM. IlCAroTORKA ABTOMOOHTA TeXHyeckomy o6cyBaHnOHpeMOHTy). 2,CHHMBeMKOneco (CM. "Koneco 3aMeHa>) 3.H38ekaeMHar H3KPOHUITeRHa BMOPrH3aTOPHON CTORKH (CM.Be, epeH TOpO3HO aH- 38- MCHE-). 4. Tepes CMOTPOBOe OTBePCTue B cko5e cynnopTa HeMHOro Pa3aBHraeM TOMO3He KO1OH TaK, yrobbl OHM OTOLUHOTTOPMOSHOrO HCKa. 5.Ocay HIOKHETO HAKOHeUHMKA UraHra (CM. BbIIe, IlepeaHnA TOPMOHOR UAHr- 3aMeHa). 6.TopuoBM KTIONOMHA 17MM OTBOpagHBaMB 6ota kpeLeuAcynopTaKnoBOpOTHOMy kynaky.
 
@@ -8543,21 +8018,18 @@ IlonroTanKBAeM aBTOMOONIb K BbInOMHeHKIO pAOOTH CM. IlCAroTORKA ABTOMOOHTA TeXHy
 DO
 
 ### Toeavipesne
-`datsun_on_do_en_001bbc0e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 He Haxumaiite nenan TopMo3a npn CHATOMTOPMO3HOMCynnopTe.
 
 8.Bpauag cynnoprBBopavHae H3HTO HHKHHR HAKOHTHHK TOPMO3- HOTOILIAHAHCHHMCMCynODT ABTOMOOHR.
 
 ### YCTaHOEKR
-`datsun_on_do_en_39a4c245` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 L.YeTaH/HBecM cynnopr B o6parHOR noc,enOBaTeJbHOCTH, 38MCKH8 yLCTKHTebHOE KOIbuo TOPMOSHOrO UURHTA HOBHIM.
 
 2.Ynanem H3 CKCTeMbI THnPOnPHBOne TOPNO30B BO3nyx (cM. IHpanNveCKHR nPKOTOpM3Orpolcaykas) H y6exaaeMcR repmeTHSHOCTH COCMHHCHHA HAKOHCUHHKA ItaHra Hcynnopre.
 
 ### CHRTHe
-`datsun_on_do_en_439e6145` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHHMaeM cynnopr (CM, Cynnopr nepaHero TopMo3Horo MexaHH3Ma = CHRTHeKyCTAHOBKa\*).
 2.3axpee cynropr B THCKAX H OTopBaM 6oTb HPABUAIOLIHX nanbuee (CM. Tepennne TOPMO3HbIC KOnOJKH -3AMCHB).
@@ -8568,7 +8040,6 @@ L.YeTaH/HBecM cynnopr B o6parHOR noc,enOBaTeJbHOCTH, 38MCKH8 yLCTKHTebHOE KOIbuo
 4.CHHMM TOO3HORHHA.
 
 ### VeTEHOBKE
-`datsun_on_do_en_f8f68f7a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.VCTHB HOB H OOpETHOR nOCTeAOBTCbHOCTH.
 
@@ -8577,7 +8048,6 @@ L.YeTaH/HBecM cynnopr B o6parHOR noc,enOBaTeJbHOCTH, 38MCKH8 yLCTKHTebHOE KOIbuo
 3.eCR  OTCyCT yeCK HIXOCTH H3 HOBOrO TOPNOSHOrOIIHpa nyuepa npoka M coenHHEHKR Hpa TOPMO3HHMIHrOM.
 
 ### Toeayuneacieue
-`datsun_on_do_en_a92a660f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 MuHUManbHaR TOnLLAHa TOPMO3HOroAvCKa-17.8MM
 
@@ -8594,7 +8064,6 @@ MuHUManbHaR TOnLLAHa TOPMO3HOroAvCKa-17.8MM
 5.CHHM TOMOHCK COCTynKIIb. ECnH TOPMOHORAHCK HC yttaCTCR CHRTb, To o6eTyKBaeNAHCK MOOTKOM nO TLOCKOCTHIIPKCIAHHAKOneca.
 
 ### VeTaHOeKe
-`datsun_on_do_en_bd72d789` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OyHmaeM OT IDA3H K PKYHHN nOCAIONHOC MCCTO AHCKB H CTynHue, nOKPuBAeM ero nnACTHUHOR CMA3KOR.
 
@@ -8604,14 +8073,12 @@ MuHUManbHaR TOnLLAHa TOPMO3HOroAvCKa-17.8MM
 3.OGespae paove noepKHOCTH nncka BeTOUIbIO, CMOVCHHOR paCTBOPHTe/IeM.
 
 ### LOPMO3HON MEXAHEBM
-`datsun_on_do_en_89b1d6f2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aHRTOpMOHO MeXaHH3M 6apa6aHHOro THTa p HAKATHH nena/H topMO3a KHIKOC' Horo ropMO3E pabocefcTDHCA KHIKOCLIH6ogeA Moro a6aHa Tocne HH neaaUIH topMOKHI npy TaHBaOT IOPuIHr UHUIHH OTXOAAT OTTOP4D3HOT 0 AIHHX OOUHX CTAHO BICHO HC perynnOBKH 1300 Mex TOPMO3HMMHKOOnxAMH bapaba LHON OrpaHHNHgaxmce TaHB2HHe nopwkeR B LHXHKIp. Eraronapa 3TOMy notnepxHBTCH OftrMasHWH 3a3oPMexnyKOOKAMH H6apabaHoM.
 
 3aHHe TOPMO3HbIC MexaHH3MbI (3a ECoueHHck a6oero UHAHHIpa) ETHIOTCS raixe CTbIO CTORHOYHOR OMOHOA CHCTeMbL
 
 ### CHxme
-`datsun_on_do_en_75774d93` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 I.HOrOTaHBCM aBTOMOOH BNORHCHHIO pa6OTu (CM. onroToBka ABTOMOOHLA KTCXHHCCKOMy o6cnyxHBaKHIO HPeMOHry=). 2onocrboyckaeparcrogHDroTOPMo3a 3.OcLce TOCOBCTOHHOTO TOP3 (CM. CTORHOSHNA roPM03 -perynHpoukas). 4.TopuOb rnybokoRroJOBKORHA 7NKOTBOPaYHBACMJBaHapamoux THdra.
 
@@ -8639,7 +8106,6 @@ HyionoBepxHocTbTOpMo3Horo6apaoaKa Ha cynue
 10.TIpOBepATOPO3HOA 6apabaH Ha OTCyTCTBHe TPeIHH,CHIbHOrOH3-
 
 ### Cikr!
-`datsun_on_do_en_58e42bba` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bo nbexanne BNnBAeHNA nOpWHen N3 pa6ouero TOPMO3HOrO LnnNHApa, He HaxsMante nenanb TOPMO3a Apu CHRTOM TOPMO3HOM 6apa6aHe.
 
@@ -8650,7 +8116,6 @@ Bo nbexanne BNnBAeHNA nOpWHen N3 pa6ouero TOPMO3HOrO LnnNHApa, He HaxsMante nena
 HOCA MUH HHYE yOOKHX PHCOK HA paboyeR oBepxHocTH 6apa6aHa. TIpn HO6XOIHMOCTH3MCHCM TOPMO3HOA 6apa6an.
 
 ### Yeramonke
-`datsun_on_do_en_aa2b58a1` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.Jy MOHTXHIM HOnAKN yiupescb KOHLIMH HOTTOKB 6yPTHK COPHOrO HTa TOPMOSHOTO MXAHH3- Ma,Cra O BO BCTPCYHOM HANPaBNEHIH.
 
@@ -8663,7 +8128,6 @@ HOCA MUH HHYE yOOKHX PHCOK HA paboyeR oBepxHocTH 6apa6aHa. TIpn HO6XOIHMOCTH3MCH
 4.PerypyOOTOpMO3 (CM. CTORHOHI TOPMO3- perynmpOBKas),
 
 ### 3AIHHE TOPMO3HLIEKOJIOAKM 一 CHRTHEH YCTAHOBKA
-`datsun_on_do_en_33d40d4f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3RHe TOPMO3HMe KONOIKH noncKaT 3AMCHe, eCIH TONUHHA HAKTAKH KAKOR-JH6OH3 KOOHOK MCHce 1,5 a TAKke rIPH OTCJIOCHH HAKaAKH OT OCHOBAHHAKOJOAKH
 
@@ -8672,7 +8136,6 @@ TOPMO3HbIe KOJIOJIKH 3HMX ropMO3HbIX MXEHH3CE MCHIOC8 TObKO KOMILICKTOM, TO eCTA
 Jo po oy CUIOCKOyU CTOHKHMK3OHYTIMHry6xamH.
 
 ### CRRTme
-`datsun_on_do_en_60f3792a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.TIOHrOTaAIMBACM TOMOOHb RC HCHO OTCM. TOroToBK aBTONOOUI TeXHHeCKOMy OOCIyBaHHIOKpCMOHTy>).
 2 JByM MOHTRKHHMH JOnRTKAMH MKCHMJIHO ChOJM KOJORKM (CM. TOPMO3Hon 6apa6aN-CHTHe H yCTAHOBKA>).
@@ -8711,28 +8174,24 @@ OTBCPCT OPMOHOA KOnOKH,yaHOBACHHOA CnePeAH.
 12.VeC B OCyCH yeTOMO3HOKHKOCTH H3 6OO -a （HereHH UKMeHReN).
 
 ### VcraaoBKA
-`datsun_on_do_en_e2ba0524` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 VcTsHBJB CHbIe HIPH a6opKe HTaJH B OpTHo nOCeOHOCTM. BepxHioIO CTAKHYIO TpyacHHyHTAHBBCM UIOCKOIyOLAMM-UCBOR OTBCPTKOR.
 
 AHAnOrHYHbOM O6pa30M 3aMcEOe KOJIQAKH 3JHrO paBOro TOPMO3HOrOMCXAHH3Ma.
 
 ### UpeatupeNastutel
-`datsun_on_do_en_69ebd403` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ans CaMOyCTaHoerN3a3opa MexAy TOPMO3H6/MM kOnogkaMN b 6apaGaHamn nocne nanHoi c6opkn TOpMO3HOro MeXaH3M HeCKOnbKo pa3 HaxuaemnenelTopmo3a.
 
 Perypye CTOHORTOPO (CM. CTORHOH TOPMO - perynpoBkas),
 
 ### PAFOYKA TOPMO3HOR ULIHHIP 3AJHEIO TOPMO3HOTOMEXAHH3MA 一 3AMEHA
-`datsun_on_do_en_4575e1b4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aMCHReM UHKHUIP np nOJTCkaHHK TOPMOHOA HAKOCTH H H e38- KHCAHHH noPIuRg (nopuHen) B UHHHAPe, U pesynrare vero O/HH RIN o5a nOPIHg repecTaOr nepeeaCEBUUHHApe.
 
 Ju BEnOJCHEM paboru norpeGyer-CCncHa/bI KDO' AIRLITyLepOsHpOKK pOx UHApOBH wy-HePOBTOPMO3HbIXTpyboK
 
 ### CHRTHe
-`datsun_on_do_en_a1818c84` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. IIonroTaBIKBaeM BBTOMO6iLIb K BTOVIHCHHOO paboTbl(cm. eIloaroToBka ABTOMOOHTA TeXHyeCKOMyo6cnyKHBHHIO HpeMOHTy 2 CHHMaeMTOpMO3ROn6apaaH(CM. TopMO3HoR6apaGaH CHTHCH YCTaBKaD) 3 TOnHHMaCM pbryar CTORHOYNOrO TopMO38 Ao ynopa. CHKMaCM CO uryuepa nPOKaNKH pafouero TOPMOSHOrO UIUIHHAPS 3aTHEA PC3HHOBbIA KOJITANOK Mt cITeUHBAbHbIM HN HKHIH OUO BOPaHaCM uTyuCp.
 
@@ -8760,7 +8219,6 @@ S
 ![](images/a8b54108b5bb6492db654350240be33b698553e2975722d1e4b3b7ab62f3ae5f.webp)
 
 ### VeTaHonKa
-`datsun_on_do_en_999659a4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 L.OHac neraTH TOpMO3OrOMC XEHH3ME OT IPASH H PXABTHHN, o6e3- KHpHBaepabouyio noBepxHocT6apaGaHa, HC3HaYHTe.TbHOe 38MaC/tHBaHHe HaKBJOK TOPMO3HbIX KOZOAOK yctpaH p nOOI HAXIUHOn6yMarH. 2.C HOBNR LIHHAPB o6paTHoltnocJIenoBarenbHOCTH.
 
@@ -8772,7 +8230,6 @@ L.OHac neraTH TOpMO3OrOMC XEHH3ME OT IPASH H PXABTHHN, o6e3- KHpHBaepabouyio noB
 4.pokayHBacM TOpMOSHy CMCTeMy (CM. HpaBTHCCKHA nPHBOn TOPMO3OB 一 npokaykao) M ybexxnaCMCg B FEPMCTHUHOCTH COEnMHeHHg TODMO3HOR TpyOKH C Da6oYkm UMAHHAPOM.
 
 ### CHUTRe
-`datsun_on_do_en_447531d9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHHMCHT OPOE O OK(C.3ae ToHe - KH CHATHCHyCTaHOBKa) HTOPMO3- HOR wtHaP (CM. Buue, -PabouHA TODMOJHOA aP 3HroTOPO3- HOrOMeXaHH3M& 3aMCHae).
 
@@ -8789,7 +8246,6 @@ L.OHac neraTH TOpMO3OrOMC XEHH3ME OT IPASH H PXABTHHN, o6e3- KHpHBaepabouyio noB
 5.CHHMCMLTCOCH CTYHUM
 
 ### yeTanOBKa
-`datsun_on_do_en_aff1d7a3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.YcTCM LINT B06paTHoH
 HOCeaOBTe.bHOCTH2.y BO3AYXH3CHCTeM CHZI-
@@ -8799,14 +8255,12 @@ HyIO CHCTEMy(CM. CTORNOVHR TOP-
 M03-peryHpoBka>).
 
 ### CHNTHe
-`datsun_on_do_en_3c03fc8c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OOTaHae TOMO6b K bOnHeHHiOpa6oTH(CM. TTonroToBka BTOMOLAK TeXHHyeckoMy o6cyBAHHIOHpCMOHTy>).
 
 2.OHaeOTp3H KoppOcOCnHHCHHA HaKOHCYHHKOB TOPMO3HOrO LnaHra Tpy6ok.O6pa6aTBaem urTyuepTpyOOknpOHKasojeRMa3KOn.
 
 ### DAWANE
-`datsun_on_do_en_ff7d8e82` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Tpn BenonHeHn CneAyiowen onepaunn cnernte 3a TeM, vTObb! npn OTBOPaYNBaHNN wtyuepa Tpy6ka He Bpauanacb BMeCTe CHMM. Ecnu Tpyka akncna wryuepa,3ameHMTeee.
 
@@ -8831,14 +8285,12 @@ Ka TOpO3HOrO LHra OCBOO emero, BNBOTA K3OTBEPCTHAKPOHTeRHa,yHOTeHHOO 6anke 382- 
 8.CHHMaMH C8TOMOOH.
 
 ### VeraROSKA
-`datsun_on_do_en_d5aaa2d3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.TaHaRIHBaMUHTBOOpH OCnOBaTebHOCTH
 
 2.yane oyx 3rponp TOPMO3OB (CM. IHnpasnyecKH HPHBOn TOPMO3OB 一 npokaykas) npoBepsem Ha OTCyTCTBHE yTevekcoCHHCHg TOPMO3HOro uara TPI6oK.
 
 ### 12.5.TPMBOT PASOY H HPAOHGN WECEMN
-`datsun_on_do_en_5d78393e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 IIpHonpa6oeR TopoHR CHCTeMHaTHYCKH COCTOHT H3renaAHTOPMo3a, BHOrO TOPMOSHOrOLHJHHAPE CBaKyYMHbIM yCHUIHTeneM, ueTbpexpabouHx TOPMO3HbIXITHHAPOB H.InaBHbIA TOPMO3MOR UHNHHOP CER38H PabOgHMnUHHHIPAMH TOPoHbIXMeX&HH3MOBKOJIeCMeTUTHgeCKHMHTpy6KaMH.
 
@@ -8847,7 +8299,6 @@ BHyTPCHHRR nOnOCTb rnasHoro TopMOHOIOUHIHH ape nopun HRMHHCHTCS Ka Tee OTle EH a
 yennne, npHKnaANBaeMOe K TOPMO3HOR nenanH, YeYHBACTCA BaKyYMHHM yCHAHTeneM, KCnonb3yioUInM paspexeHHe, co3naoeecx pecHBepe pHpa6oTeAeran Ecn npoLecce ABNXCHHA 8TOMOOH nBnrarenb 3arjoxHeT, JLR OCTAHOBKNMaIUMHN K Henan TOpMO3a nPHaETCx OpHKanbiBaTS3HavHTeJbHO 6onbLuee yCHIHe.
 
 ### HIPABJINHECKH IIPHBOITOPMO3OB DIPOKAYKA
-`datsun_on_do_en_341766c2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 IIpokavky rHapaBn oro TPHBOAS TOPMO3HOA CHCTEMb OAHM nocne ero PEMOHTE 10 ueHHE repMeTH nono3 PeHHH eosnyrye HHHHY IPHedn
 e10
@@ -8862,14 +8313,12 @@ noe po nopeyrcn nOMOLHHK.aTaKKe:
 -CMOTPOBER KaHaBa HAH ScTakam (xe.iare.IbHO).
 
 ### Tocneao JOCTb DO.TBeHI
-`datsun_on_do_en_79855c96` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IIOnOTBHBBM aBTOMO6T Bbnoeopaboat（cM.loaroo ABTOMOOHIX T TeXHH9eckoMy 06cryB&HHIO H peHOHTye).
 
 2. OTCOenHHHeM KOJORKY OKryTA rpoboJos OT pasbema JaTYHKA ne3oCTaTONHOro yPOBHR TOPMO3HOR XL KOCTH KCHHMaCM kpbuky Gayka (CH TK HeOCTroHOrO yPOB TOP MO3HOA KHIKOCTH = npobepka 时 33 Menas).
 
 ### Ha
-`datsun_on_do_en_832015f0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bo veave nahs Boaa runpaenn-ecknii npveon TOPMO3HO CNCTEMIBO BpeMA npokaykn npvec na cnegnm 3a TeM, VTOObI yPOBeH TOPMO3HOn KNDKOCTH 8 6auke He onyckanCe HUke OTMeTkN MIN.
 
@@ -8886,7 +8335,6 @@ OkaYOHILIe3a
 LIA
 
 ### WTHOB
-`datsun_on_do_en_62a19813` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 PHBOeCKHA （a）H eKcoMTpyrakaa
 
@@ -8925,14 +8373,12 @@ O
 15.Haka nenanb TOPMOsa, rposepeM pa6ory rnaponpibona HOTCYTCTeHe OITCKAHHA KIULKOCTH H3 mTyLePOs npok K neaa/tb MsrKa SUH OHa Ortyc HHKe CBoero Horopebouero OHA IoBTOpHo yMCR S repMeTHYHOCTH CMCTOMhI HnOBTOpaeM npokauky THAporipHeota
 
 ### ocexo tHeH
-`datsun_on_do_en_6e323699` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OrOTaanHaeTOMoHHeobxomimoe obopynon BOHME K BbTOJHCHnO paGoT(CM. onroroska aBTOMO6TRKTeXHHHeCKOMy OOCTyKHBaHHIOH PCMOHTyHCM IpBHeCKHR npHBOITOPMO3On-nPOKayKaP).
 
 2.CHMaCM xpbiwky 6agka (CM. K HenocrOHorO ypoA TOpMO3HOR KITKOCTH 二 nposepka H 38- MeHae).
 
 ### IIpssHpcane!
-`datsun_on_do_en_f436233d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BoM3oexahne nonaaHneoanyxaB runpaaneckunpuoAropo3Hon CVCTeMbI 80 BpEMR 3aMeHb TOPMC3- HON KOC neM3a TeM 4TOGb ee yposeHb 6auke He onyckance HUXe OTMETKN MIN.
 
@@ -8949,7 +8395,6 @@ BoM3oexahne nonaaHneoanyxaB runpaaneckunpuoAropo3Hon CVCTeMbI 80 BpEMR 3aMeHb TO
 Iocne 38MeHbl KIIKOCTH B060- HxKOHrypax npoeepaeMpa6oryripoPHBOIEKDOBOAK DO HOpMhtypoBeHb HKOCTHB 6aue TnBHorO TOpMO3HOroUHTKHApa.
 
 ### CuaTHe
-`datsun_on_do_en_2950a2fa` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.Ionroa.THaem aBTOMO6Hnb K bHopaoc.loroo aBTOMOOHLAKTXHeCKOMy O6CnyBHOHpeMOHTy).
 
@@ -8976,7 +8421,6 @@ Iocne 38MeHbl KIIKOCTH B060- HxKOHrypax npoeepaeMpa6oryripoPHBOIEKDOBOAK DO HOpM
 ![](images/fb70b765120e420f6075bacb5c1cdd7b503518d7c875d2f3131218d1a28d94ec.webp)
 
 ### VeTaHOBKa
-`datsun_on_do_en_344e8335` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 L Cobvpaem yCTHHaMrnaHHA TOPMO3HO HHAP D o6paTHoR ocnoBTbHOCTH.
 
@@ -8989,7 +8433,6 @@ WIryuepu TOPMO3HbIX TPy6OK 38- KBaeMCheLKabHHMKOUCM.
 3.IIpOBepHeM OTCyICTBKe yreyek XHKOCTH B MeCTax noJCOCnKHCHNA TOPMO3HNIX TpybOK K Tn8BHOMy ropMO3HOMy UILIHHBpy.
 
 ### BAKYYMHbII YCHJIHTEJILTOPMO3OB CHHTHEHVCTAHOBKA
-`datsun_on_do_en_1a9a67d7` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHKMBCM ero CO utuIek BaKyyMHOro JCHIHTens.
 
@@ -9007,7 +8450,6 @@ CHKMBCM ero CO utuIek BaKyyMHOro JCHIHTens.
 ![](images/0590593be83897e3b7939e658807702b6fcc3b36b791ff5a9f09248ad4c11809.webp)
 
 ### CaNYne
-`datsun_on_do_en_573f1195` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IoOTaBTHaCM aBTOMOOHTb K SNHOAHCHHIO Da6oTN (cM. onrorobka ABTOMOOHA K TEXHHyeckoMy o6cnyKHsaHHIO HPCMOHTyD).
 
@@ -9020,12 +8462,10 @@ CHKMBCM ero CO utuIek BaKyyMHOro JCHIHTens.
 ![](images/5f0698858695da90edf36e4fca9ef7c5a7293ea5c37c7f06ff6ac6e7fb8daead.webp)
 
 ### VCTaHOBKE
-`datsun_on_do_en_0fafffce` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.ycTaHaBHBaCM yCHJHTeNb B 06- pETHOA NOCRenOBBTeTbHOCTK. 2.YIaM Ha MECTOTIBH TOPMO3HOR UIHHIP 3 pobepnem pabory BaKyyMHoro yCIMTCER (CM. BakyyMHbIA yCPUIHTebTOPM030 -npoBepka), 4.IpoepeM pa6oTocnocobHocTb rHAponpNBona TOPMOSOE, nPH HEO6- XOHMOCTH IPOKaHBEMCHCTeMy(CM IHnpaaIHeCKH HBOnTOMO3O pokayka).
 
 ### 12.6.CTO8HOYHbINTOPMO3
-`datsun_on_do_en_4325cc52` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CTORHOYHAR TOPMO3HaR CHCTEMa eHE3HeHa ALTH npenoTBpaueRHA CAMOnPOH3EOJTSHOrO IBIOKCHNA BBTOMOOHIRBO BPCM8CTOSHKH.
 
@@ -9058,14 +8498,12 @@ CI-uCo2-rapa3-oa ripaBoro3- o45a67-oeoo cnopHasu；9-ar10-yebTpocosI-poBexon;12-
 14. AHaTOrHURO CHHM8EM ETOPOR Tpoc.
 
 ### ycraHonka
-`datsun_on_do_en_380de37c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 I.YcTaHaanHaeN TOC D6paTHOR nocenOBaTebHOCTH.
 
 2.Tiocne yCTaoEKH TOpMOHIX 6apabaHob, perynnpyem xon phrvara CTOOOrO TOpMO3a（CM. CTORHOIHLA rOPMO3-perynHpoBka).
 
 ### 12.7. AHTMEJIOKHPOBOHIIAACHCTEMATOPMO3OB
-`datsun_on_do_en_d69e21d8` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ATOMOHLI O6OpyOB TOPMO3- HOR CHCTMOR 0 A6C(aHTH6OKHPOBOUHAR CHCTCMa) IIpnMeHReTCguCTbpexKaHabHaR CHCTeNa. COeAnHeKHe KaHanOs BhInOTHeHO nO AMarOHaTb HORcxeMe.
 
@@ -9093,12 +8531,10 @@ Onpeennb Hennaky MOHo no KO.IEM HeNCHpaBHOCTK H8 cneuHann3HPOBEHHOR CTEHUNN TeXH
 HenctpaBHocTh AbC MOKET OhTb Bbi3BaHa OTK830M nATHHKOS bpatueHHUR konec LTH HeHCNPBBHOCTbiOCaMOroTHApaBeckoro 6.10ka KnanaHob. DpH OTK83e AEC paborocrIocobHOCTh TOPMO3HOR CHCTEMEI COXPaHRETCA HD CKTHBHOCTE TOPMOKHHR CHHKBercs, YTO OCOGeHHOOlacHo H8 CKOJLE3KOM noKPEITHH
 
 ### Ipeasupezerme!
-`datsun_on_do_en_f5d129af` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bcnyuae 3aroPaHNR KOHTPOnbHO namnbl HeNchpaBHOCTM A5CHyXHC KaK MOKHO CKOPee obpaTuTbCR Ha CTAHUHIO TeXHWNeCKOro o6cnyxueaHUR DSR IDoBeneHNRDNarHOCTUKHN peMOHTa.
 
 ### 国建联
-`datsun_on_do_en_8e74052d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AeroMobnNc AbC CHaxeHynutenem 3KC7PeHHOrOTOPMOXEHUR (BAS), N B 3aBNCMOCTN oT KOMTnekam Moryo6opynoa 3neKTPOHHOn CNCTEMON pacnpenenEHMA TOPMO3HUX ycunnu (EBD); CHCTeMON KyPCOBON yCTONNBOCTH (ESC);npOTHBOyKcoBCHHoni CnCTeMOn(TCS).
 
@@ -9107,12 +8543,10 @@ TKR oro
 ![](images/f4a769588255430c2de0dcb3b88e1b959f822799be7083f31c064ffa74d3cf37.webp)
 
 ### TTecneaos HOCT NITHEHS
-`datsun_on_do_en_088627a8` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IIonrOTaBAHaeM aTOMO6Hb KBTUHeOpO （CM ellonroToBKaABTOMOOELTHKTeXHHECKOMy OOCTYK-BAHHIOHPeMOHTye).
 
 ### S9AHNE
-`datsun_on_do_en_7ead4e90` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ng amehbi npaeoronarnkackopoCTV BpaLeHAKOneca BbonHTeCneyiauyio onepauNo HE rpebyerca.
 
@@ -9165,7 +8599,6 @@ T1o nHoro H8-
 11.CTaHa ean B obparHOR noceJOBaTeTbHOCTH.
 
 ### AATYNK CKOPOCTN BPAIIIEHMA 3AIHETO KOJIECA3AMEHA
-`datsun_on_do_en_ceef6878` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TIocnenos TeHOCT JnOJHeHS
 
@@ -9185,19 +8618,16 @@ TIocnenos TeHOCT JnOJHeHS
 9.OTKKCaTOp HCHHaCM KOOaky caepxaTe. 10.YcTaHaBHae TaH D o6paTHORnOC.teOBaTe.IbNOCTH.
 
 ### CTHRHOHHIA TOPM03 PEIVJINPOBKA
-`datsun_on_do_en_04114cf3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Xon phrvara CTORHOYHOrO TOPMO3aH CoraB2-4ea.B paiecce SKCrLyaTAIIHH ABTOMOORTR HonckeTcR yeeHe Xoa puara AO BOChMKIEJKOB.
 
 ### PeKOMeRUEUHN
-`datsun_on_do_en_88832cb5` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnN xonpuara coctasnewecTbN 6oneeluemkoe,operynnpyitenpn BOLCTORHOHHOrOTOPMO3a.
 
 Boeao nopeyc CMOTPOBARRME HIH 3CTaKana.
 
 ### IIocNeIoBaTe.bHocTh mO.HeKHR
-`datsun_on_do_en_c52fdd54` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.TO/TrOTBIHBaM aTOMOOILIb ← BbOHeHHIOpabOT(CM TOTTOTODka EBTOMO6UR TexHeCKoMy obcnyKHBAHHIOHPCMOHTy+).
 
@@ -9220,7 +8650,6 @@ BODaVHBEHHR, HaKHAHbIM KTHOM H 13MCna6C 3yKORK
 7.IIp OTOPaHHHH perynupoBOUHOR raRKH IPHBon yATHHEETCR, nPH aBOpRHK yKopaVHBaETCA 8 IepHoaHgecKH Bnpouecce perynHPOBKH pOBepaeMxO1phrara.
 
 ### JDnMesRNHe
-`datsun_on_do_en_c750d356` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ECnNnb peaboeon uaCH TArSI He xBaTaerAns perynnpoBkn xOAa pbHara,Heo6xO,uMO3aMeHTbTpOcb npBOna,anpN CnnbHOM K3Hoce HaKnanOKNTOPMO3Hbie KOnODKN.
 
@@ -9231,12 +8660,10 @@ ECnNnb peaboeon uaCH TArSI He xBaTaerAns perynnpoBkn xOAa pbHara,Heo6xO,uMO3aMeH
 1 HpoBepReM pa6orocnoco6HocTb CTORHOVHOA TOPMO3HOR CHCTCMhI: HS nobeMe CyKTOHOM 23 % OHA JODKHE HJKHO yaepkuBaTb 8BTOMO6HTbB HCNOJBKHOM COCTOSHHH. IipH Heo6- XOAHMOCTH rp psCm COCTORHHEneTaneR npneona CTOSHO HOrO TOpMO38, COCTORHHE 38HX TOPMO3HbIX KOONOK H TOPMO3Hbx6apa6aHoB.HeHcTipaHbieH H3HOLICHHbte nerann 3aMCHReM.Iloce yCro noBropseM peryiHposky.
 
 ### TPOCbI CTORHOHHOTO TOPMO3A 二 CHATHE HYCTAHOBKA
-`datsun_on_do_en_6a01aa03` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Heo6xomMMocTE B 3aMeHe TPOCOB CTORHOUHOFO TOPMOSa BO3HHKACT,CC/TH Tpocbl B pe3ybt BTC KOPPO3HHOTCDRJHBO3MOXHOCTbTEPCMCIaTbCHBOOONOUKC,CHbHO BbITHHYIHCb IHHMCIOT pa3pbIb HHTeR.
 
 ### CRaTMe
-`datsun_on_do_en_404d4912` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OIrOTBTHBAM aTOMOHnb K BnO/HeHnOpabOTbI(C +TonroTOBKa BTOMO6g TexHnyeckoMy obcnyxuBHIONpeMOHTy>).
 
@@ -9261,7 +8688,6 @@ A
 ![](images/71cfab88dc052581b5bf257f2bcf17238d98eacd2e9d303e8537fec285870615.webp)
 
 ### Ocose nmJe nk KonTpOs PeryponKRB oOcAyWH
-`datsun_on_do_en_b93b8d56` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ta6ua 13.1.1
 MOMCHT38TKKHPC3LOORHXCOeH
@@ -9275,12 +8701,10 @@ Tabxua 13.1.3
 ![](images/64a1b60eabc7c554fa2c275ae09e5315b9eddf0ef5bbdcbcb6a8d5208cbdde1e.webp)
 
 ### 1312OIIMCAHHE CHCTEMbI
-`datsun_on_do_en_02ed034a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KHcKa Cer aTOM OHOnPOBOHas,TO HPOeonhhKOM CJTYTMCC Ky30B ABTOMOGHIR CHUIOBOR arperar. C MaccOR COeJHHCHU OTPHLIATCJbHNE BhiBOCbi HCTONHHKOB HnOTPe6HTeneRsneKTPHHeCKOR 3HePrHH.
 
 ### 3ANegBmC
-`datsun_on_do_en_f2b5f653` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 SnextpoobopynoBanue CHCTeMb! ynpasneHNR nenrarenem paccmarpvBaeTCRB OrnenbHonrnase (CM "CMCTeMa ynpaBneHna neurarenemy).
 
@@ -9310,7 +8734,6 @@ nekponpoBoka copaa By H MCJHX pOBOJO CPa3HOIIBETHOR H3OISUNER
 bobHcTo nKecKx Co CHHHH 9CKTpoo6opyoBH BblTIOHCHO Hapa3beMHbIX KOnOIKAX.
 
 ### PeKOMCHAAUHE
-`datsun_on_do_en_39c525c2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ripu noNckenpiNNH HeucnpaBHOCTH Kakoro-nv6o 43 npn6opoa anektpoobopynoBaHuA npexne benMTecb B ucnpaBHoCTn ero npenoxpaHvrens L HanexHOM KOHTAKTe B pa3bemax ero uenn. OKucneHHbie 868006 coenuHuTenbHbIx KOnoAOK 4acras npnunHa HepaboTocnoco6HoctN anektPooGopynoBaHng. npn He6xONMOCTH3aHCTTe BbiBOAbI. Oco6eHHo TWaTenbHO npoBepRnTe Mecta COeDNHeHNR OTPNLaTenbHbIX BbiBonos 3nektpoo6opynceanns C Maccoi aBTOMobnna. Hepenko vMeHHO OrcyTCrBne HaneXHoro KOHTAKTaC Maccoi APNBonnt HapyWeHNRMB pabore3nektpoo6opynoBaris.
 
@@ -9329,12 +8752,10 @@ poep ene noJ HanpakeHHEM MyTMTp epeK pcM BOTMTa（C peeoM MepeHHR 20B） MyTMT n
 Ecnn Heo6xonMo onpezerorb-KO HATHHe HOH OTCyT CTBMC HanIPske-HIR HB yuacTke UenH 0c3 H3MCPCHHABEANUHHbI, IO yno6Hee HcnonboBaTbCneLHanbHNH CBCTOBOR HHZRKATOPH8 2B KOHTPOJIHVO namrry. KO-ropylo MOKHO H3rOTOSHTb CaMOCTO-gTebHO (H3 ABTOMOOIbHOA JaMhtMOLHOCTHIO He Gonee 4 BT,npHna-RBKHCR B8 IPOBOJA JUIHHOR HC Me-Hec50.cM）.
 
 ### SANESRNNE
-`datsun_on_do_en_f7a1ddb5` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NePRnOK npoBepkn TexHnyeckoro COCTORHMR 3nektpoo6opynoBaHnA aBTOMO6NnA HOnoKEH B cOOTaeTCTByioujnxpasnenaxnaebl.
 
 ### CHSTHe
-`datsun_on_do_en_ee4cde0b` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OHrOTaB.MBaeM TOMO6Mb K BbINOπHCHHIO paboTN H OTCOeJHHReM KneMMy nPobona OTOTPHLaTeIbHOFO BIBOJa aKKyMynRTOpHCR 6apen (CM, TionrOTOBkA ABTOMOOHIA K TexHNNeCKOMy obcnyxnBaHHIO H peMOHTys) AHAJOTHYHOOTCOEIHHReM KnemMyTpOBo,aOTnOoKrenbHoroBIOnaaxkyynsTopHoA6atapen.
 
@@ -9345,17 +8766,14 @@ NePRnOK npoBepkn TexHnyeckoro COCTORHMR 3nektpoo6opynoBaHnA aBTOMO6NnA HOnoKEH B
 3.CHEMaCM aKKyMyATOpHyIO 6grapCioCABTOMOOHIs.
 
 ### Liyunee
-`datsun_on_do_en_aceeda50` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbBOnbl akkyMynaropHon Satapen BbInonHeHbi paaHbimn, ANameTp nonoxutenbHoro Bbeona 6onb we. HapyweHve nonspHocTH npn nOACOenNHeHnN aKKyMynatopHOH 6arapen npuBerer BbIXOAy M3 CTPOR 3nekTpoHHoroo6opyAoBaHuR aBTOMOONDR.
 
 ### IomavupekacHHe!
-`datsun_on_do_en_1e2178ab` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 O6cnyxvBasakxyMynRTopHyio6atapeo, Heo6xopumo cobnogarb npasuna TEXHNKN 6e3onacHocTyW paboratbBpe3vHOBbixnepyarkax.
 
 ### Perynapm yxox3a.6arapeek
-`datsun_on_do_en_b813aa2e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 2.IpoTHpaeM Koprtyc aKkyynatopHOR 6arapenTkaHbiO, CMHHO10% pacTBopom HuIeBOR COJTN HUDI HamaTbIpHOTOcTHTa,a3aTeMHHCTOABOOR.
 
@@ -9377,12 +8795,10 @@ Bnponaxe VMekoTCR aKKyMynRrOpHbie6aapenobcnyxuBaemoro Tuna. Takve 6arapen VMeIOT
 Ha akkymynsropHon 6arapee HaxoARLeNCR HeCKO/bKO DeT 3xcnnyaTaunn, yposeHb nektponntannoxo BuDeHpe3 CT TeH xopnyca. B3TOM cnyHae nposeputb ypoBeHb MOXHO vepea BanneHbie OTBePCTNR akkyMYnRTOPOB. 3nektponnt Lonxer nanHOCTbIO nokpbisarb cenaparopt aKKyMynRTOpce HMHOrO HeAOXOANTOAO HVOKHIX KPOMOK KOnOALeB 3anHBHbIXOTBEPCTH.
 
 ### IIpoBepKAH3apgkA
-`datsun_on_do_en_20bff5e7` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 LCHHMaeM aKKyMyRTOPHyIo 6aTapero C ABTOMO6HTA WIN OTCOCIHHACM KIeMMbl nPOEOJOe OT BbIBO1OB 6aTaPeECHHMAeMIIPHKHMHytOTUaHKY (CM.BTe).
 
 ### J BnO.HeHa paot HOTpe6yJOTCR:
-`datsun_on_do_en_83976a9b` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3.Tpyme apeoMepa O6paeM actb epoa B onGy npopaH,He blHHMAA HOCHK kou5s H33aHBHOrO OTBEPCTVA ayMyopa, ro nOUaBKAM onpeeneM ILTOTHOCTS KTPOa KAKJIOMCyMyTOPe Ha KaKHOMTIOn.aBke HAIHCAHa MHHHMATbHAR nIOTHOCTE,TIHKOTOPOR OHBCLbBeT
 
@@ -9391,7 +8807,6 @@ LCHHMaeM aKKyMyRTOPHyIo 6aTapero C ABTOMO6HTA WIN OTCOCIHHACM KIeMMbl nPOEOJOe O
 ![](images/b2ee501654e8de216cb3f44c4163a5a2cfc1a95f7fb046265265a21e36ef2cc1.webp)
 
 ### J1W248H8
-`datsun_on_do_en_fd167bef` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocne gonvekn pncTunnvpoBaHHon SOAbI, noka pacTBop B aKKyMynATope nOnHOCTEIO He nepemewaerCR, noka3aHNR apeomeTpa 6yAyT HesepHbI. H apeomerpe C OAHNM nonnaBkoM nnOTHOCTb onpeAenReTCA no Wkane,HaHeceHHOn Ha nonnasok, N3aBNCNT OTrny6nHb eroncrpyxeHn8.
 
@@ -9406,12 +8821,10 @@ Ta6πHa13.2.2
 ![](images/c26327009abe9dfe05e4f1d92369061e754c5ec37eea12225f70ae69ec37d0ee.webp)
 
 ### Saveidle
-`datsun_on_do_en_36b7ed4e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpN OTCyTCTBNN apeoMeTpa CTeneHb BAPRXeHHOCtH aKKyMynATOPHOL 6arapen MOKHO nposepntb BOnbTMETpOM, N3MePRR HanpRxeHne Ha Bbieonax 6arapen. CpaBHue nonyNeHHbIN peaynbrat Co 3HAYEHNRMI yxa3aHHbIMN B ra6nnue, onpeaennre3apaxeHHocte6arapen
 
 ### P LURA
-`datsun_on_do_en_adbd558e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AKkyyopHyio aapeiaap HHyio Ha 50 %n 6nee HEOGKODNMO3apRANTb
 
@@ -9426,7 +8839,6 @@ AKkyyopHyio aapeiaap HHyio Ha 50 %n 6nee HEOGKODNMO3apRANTb
 8.HaneBaeM KCMM COBx POBOIOB Ha BO aKKyMyRTOPHOA GaTapen HaKHnHNM KOTOM HB 10 MM 33TAIHBSCM 6oJITEr kperuteHHR KneMM H HaHoCHM Ha KCMMEIH BbIBOXSI aTapeN TOHKH 3aUHb CAOR TeXHHYeCKOrO Ba3enHHa nhacTHYHORCMA3KH.
 
 ### B.A.TEHEPATOP
-`datsun_on_do_en_e15d35ac` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha aBToMoiue ycTaHonTeH Tpexda: HbOR reHepaTop repeMeHHoro TOKac 3.CKTPOMBrHNTHbIM BO3GyeHneM, 双- OHM LInPAMHTebM 6OKOMHCO BCTPOeHHhtMperyJTOpOMHanpSDKCHHA
 
@@ -9445,14 +8857,12 @@ BsUpAMRTeJIbHbIR 6/oK co6paH HE meCTH JNOLIax, COCZNHeHHEIX AByMR BTOMHKKCBIIMH 
 Peryop HapRe -6eckoHTaKTHA,9.eKTpOHHbI.cO6paHBHA6nO COmCHM y3O.
 
 ### TEHEPATOP TIPOBEPKA
-`datsun_on_do_en_560c56a2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ng noe peor nopeyorCRTOMOLIHEK, Taoke:
 
 -MyMeTp （B peHe BOTTpacpeaeno H3MepeHA 15-20B);-CTeTOCKOnTOXHRgeCKHA.
 
 ### IocHeROBTeEbHOCTE
-`datsun_on_do_en_31606da8` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.oAOTBHBAM TOMOOHT K BeHopaOob(cM.orooKa ABTOMOOHLTAK TeXHHHeckomyo6cnyKHBaHHIO HPeMOHTy>).
 
@@ -9473,7 +8883,6 @@ npveognt K ero npockanb3beaHiiO no WKNBAM, 470 He no3BonReT reHepatopy pa3BnTb H
 4.BKTIONCM BCC MOWHbie notpe 6TH 3eKTpHepr eTOO (o6orpeB 3aHero CTeknB, 3.nCKTPOBCHTHRTOP OTOnHTenA,abHR CBeTap. oOcrpeB CzeHHA).
 
 ### 182897
-`datsun_on_do_en_61b04be1` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 DanbHeviyio Hacte paborbi Bbinan RREMCnOMOLLHNKOM
 
@@ -9482,21 +8891,18 @@ DanbHeviyio Hacte paborbi Bbinan RREMCnOMOLLHNKOM
 6.Bo/TMepOM 3MepseM HapkeHHeH& BbBOJAX BKKyMyTHTOPHOB 6arapen, IIpHHcrpaaHOMreHeparopeBOnbTMeTp nOtKeH nOka3aTb HanpAKeHHe He HHe14B.
 
 ### 1298118
-`datsun_on_do_en_6792bae3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ECnN HanpRxeHue MeHbwe 803- MOXHO cnabo HATRNyT pEmeHb npueonarenepatopa (CM. BbILUe). HencnpaBHa uenb reHepaTopa. HencnpaseH perynatop HanpexeHNR reHeparopa,3amacnncb MM N3HOLWEHHbI meTkn B renepatope, nnGo Hencnpasen cam reHeparop (nonck N ycrpaHeHne HeucnpasHOCTen perynaropa HanPRXeHUR NApyrux Aeranen rerepaTopa CM. Huke 8 COOTBeTCTByOLNX paanenax).
 
 7. BuKIONaeM BCe norpeOHTenH 9nCkTpOHeprHH,npH 3TOMBObTMeTP AOKeH noxasaTb HAnPRKCHNe He Bwe 15,1B.
 
 ### 3EMeyAHne
-`datsun_on_do_en_2648d4ba` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ECnH HanpexeHne 6onbwe, ckopee Bcero, HencnpaseHperyngrop HaAPRXeHNR.
 
 8.CTeTOCKoOMO Hae CoCTORHHe nOunHkoBreHeparopa. CHIbHEIA ry CERUeTeCTByeT 06 H3- Hoce nOJuHTIHHKa HUTH nOIWHTHHKOB (HAHOTee aCTO BXOAHT H CTPOA nePCRHHA IOAUIHHHK).
 
 ### IoCeOBTebHOCT BnO.t
-`datsun_on_do_en_6aaf7f4d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IoOTHB OMCL KBOHeHiuopaGor(cm.lroroBkaTOMOSHKTeXHeCKOMy ocy-BaHHO HpeMOHTye).
 
@@ -9509,7 +8915,6 @@ HePATOPa HKWBOM KOneHHETOrO BtaABHTaTe1A.HaaBTOMOOHcCKOHIH-OHePOM npHKiagblBaeM 
 IlpaBtbHo oTpery/tupoBaHHu peMCHB HOnKeHporHyrbcs H8 paccTORHHe MM -8BTOMO 0e3 KOHHUMOHCpa H6-7 MM 一 J8 a9TOMOGICTSC KOH,WLKOHCPOM. Ecn nporn6 peMHgne coOrsercryer Hope,peryHPyCM HTEKERHe PeMHg.
 
 ### 3aMerne
-`datsun_on_do_en_d59ce37c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn TpyAHO OLeHTb ycunne, co3aBaemoe pykoi, MOXHO BOCnOnb30BaTbCR 6bTOBbM6e3Meom C MaCnManbHO onyCTnMOi Harpy3- KO10Kr.
 
@@ -9519,7 +8924,6 @@ Ecnn TpyAHO OLeHTb ycunne, co3aBaemoe pykoi, MOXHO BOCnOnb30BaTbCR 6bTOBbM6e3Meo
 poepea   A Oo 6e3KOUHOEepa
 
 ### Lpnyueaeg!
-`datsun_on_do_en_bb28bedc` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ype3meproe HATRKEHNe PeMHRMOXeT npneectn BbIxOnyN3 CTPORnepepHero nonwunnnka renepa-ropa.
 
@@ -9530,7 +8934,6 @@ Ype3meproe HATRKEHNe PeMHRMOXeT npneectn BbIxOnyN3 CTPORnepepHero nonwunnnka ren
 10.erHaeM Opbo JBNrarera.
 
 ### 国 PEMEHb HPNBOJIATEHEPATOPA 3AMEHA
-`datsun_on_do_en_6af610e4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 #
 
@@ -9541,7 +8944,6 @@ nng BbInOnHeHne pabotbi Ha asTOMo6nne 6e3KOHauunoHepa He06xogNmo cneunanbHoe npu
 D
 
 ### 3aMe9AHNe
-`datsun_on_do_en_318ca2f0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha aBTOMo6une 6e3 KOHANLNO-Hepa HaTRXeHNe PeMHs 3aAanoero AnNHON, no3TOMy HATRXHOeyCTPONCTBO OTCyTCTByeT. Ecnn 13-3aN3HOCa NAN 3aMaCnBaHpeMeHbctan npockanb3biBarb Ha WKNBax,eroHeo6xonNMO3aMeHnTb.
 
@@ -9562,14 +8964,12 @@ Fpucnoco6neHne
 n Boeg po orpeyec CMOTPOBEKAHABa IUUN 9CTaKaIa.
 
 ### TocBeHocTBuOH
-`datsun_on_do_en_ba27a03d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.1oOTBHBa TOO BbOHeHO paboT(CM.oarooB BTOMO6M K TeXHHteCKOMy obcnyKHBAHHIO H pMCHTy)H nepeknouaeMKopoky nep BHepaHoenoJOKeHRe.
 
 2.CHHMacM npasyio cTh 6pbiaro-BKABHTaT（C.OnOP CHOBOrOarpcrara -3aMCHa>).
 
 ### oo6e3o
-`datsun_on_do_en_c32a6ee6` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3.HoxoM pa3pc3ae pec H ya JRCMCTO OCTOTKH.
 
@@ -9590,7 +8990,6 @@ TOMOIsCKOIUUUOHPOM
 5.Bpauag HTHOR pOHK,npoeDREMerOCOCTORHEC.
 
 ### PekoNeiUgLng
-`datsun_on_do_en_76ae0331` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Npn 3amene pemna npuBona reHeparopa cnenyer npoBepNTb COCTORHNE HATRXHOrO pannka. OH nonxer nerko apaulaTbcs, 6e9 JaepaHnR S wyMa. Hencnpabin ponvk cnenyeT 3aMeHvTb. npnHeo6xoAnMocTH 3aMeHyTb POnMK MOXHO, He CHMMaR HTRXHOMXAH3M ABurarens.
 
@@ -9617,12 +9016,10 @@ Npn 3amene pemna npuBona reHeparopa cnenyer npoBepNTb COCTORHNE HATRXHOrO pannka
 12.Perypye HaxeHe peMHR(CM. Bhe, -PeMeHb npuBoJa reHepa-ropa npObepKa COCTOAHKRHperynH-POBKB HTHKCHA).
 
 ### 13.3.4 PETYJIATOP HAIIPRKEHHS-IIPOBEPKA H3AMEHA
-`datsun_on_do_en_9ebec4f1` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.oOTHAM TOMO6L K BOHeHO pabOThI H yCTaHaTBRCM ero HACMOTpoByio KaHaBy UIH3CTaKaiy (CM. -IonroroBka AsTOMOOHπ KTeXHHeCKOMy OOCIyKHBaHHO H peMOHTy>).
 
 ### 3aM48uHe
-`datsun_on_do_en_c320bdf1` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Paboty MOXHO BbInONHITb csepxy MOTOpHOrO OTceka.
 
@@ -9659,12 +9056,10 @@ Paboty MOXHO BbInONHITb csepxy MOTOpHOrO OTceka.
 ![](images/6dc9ee498c81b45357ee1fee908e8918bb24873591bee97e2080fbde3f8e95d3.webp)
 
 ### VeTAHOBKA
-`datsun_on_do_en_9ec0130f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ycraHaBHBaCM perynTOP HEnpnkeHHA nocneJol IOCT ObpaTHon CHATHIO perynaTOpa HanpA CHHS 9KCrLnyETaLnK LeTKR ybexEACMCR 1 HOCTH CH meTXH 10MH ICTH CIUILHO H3HOtueHbI (BNCTyraIOT H3 meTkonepkaTens MC bonceNem H J MM), J6oMx oKTHHBACT meTkonepxarene,perygrop Heo6xoHMO 3aMHHb
 
 ### FigecuuE
-`datsun_on_do_en_1b591f54` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npen CHueM peMHR npneoga reHepaTopa cTpenkOn noMeTbTe Hanpaenehve erospaujenng.
 
@@ -9687,21 +9082,18 @@ npen CHueM peMHR npneoga reHepaTopa cTpenkOn noMeTbTe Hanpaenehve erospaujenng.
 ![](images/e9f24c69977ed3832f80c69924d5dcf4b41634d4df8579b6681f14e7aae4efcb.webp)
 
 ### YCraHOBKR
-`datsun_on_do_en_8b68f527` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 VCTaHaBTHBACM reHepaTopBoopaT HORnOC.7e.OBaTe.bHOCTH.
 
 Tocne yCTaHOBKH reHeparopa peryJHpyeM HakeHue peMA eropHBOna (CM, ePeMeHb npHBoaa reHepatoparpoBepka COCTORHHA H peryJTHPOBKa HaTSUKeHHD).
 
 ### JANC
-`datsun_on_do_en_6c83a9c2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 posep o6MoTky CTaTopa nporopa Ha O6pbIB MO\*HO, He CHNMaR reHeparopcaToon Dng 3TOro HeOOXOQMOCHT bInRMTbH 6nok.
 
 J BOJH paboTb norpebyIOTCE -Tpex- HULH JByaXBTHEIR CbCM\* HHX, 一 CEMOZeJibHag OnpaeKa H3 Ha6opa HaweyHOrocbeMHika.
 
 ### P&36opks
-`datsun_on_do_en_29aecea1` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHHMaeM reHepaTOp C TOMOH
 J（CM. ue,Teneparop- CHRTHeH
@@ -9721,7 +9113,6 @@ nonnpyKHHeHHbIX KOHTAKTOD BbtnpsMHTCJIbHOrO6πoKa.
 HOKaHBCM H3 CTOPOH BCTOPOHy nepetnolo kpbitky.
 
 ### SUMeyRUE
-`datsun_on_do_en_3bb36e09` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nposepnTb COCTORHne BbinpaMNTenbHoro 6noka b7 O6MOTOK CTaTOpa MOXHO, He pa36npaR Aanbwe reneparop. DOCTaTOHHO OCTOPOXHO OTOrHyTb BbIBOAbI OEMOTOK G cTOpOHbl. nOPAAOK npOsepkn Takon xe, kaknoka3aHHike.
 
@@ -9730,7 +9121,6 @@ nposepnTb COCTORHne BbinpaMNTenbHoro 6noka b7 O6MOTOK CTaTOpa MOXHO, He pa36npaR
 10.CHMeM 3HolO pbky, blHHMaCM H3 Hee KOHTEKIHA GDIT(c HaICTOR Ha Hero HoHpyoLeh wan6on) H nacTMacCoByo Tyny rtozWHTHHKa
 
 ### PeSONCRJRUDN
-`datsun_on_do_en_aa130283` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnu NOAWNNHNK saenaer, NMeer JHayntesbHbIn niodr MnN npn 3Heprn4HOM spauennn KPbLKN CNnbHO WyMNT, ero Heo6xonuMO 3aMeHuTb.
 
@@ -9744,7 +9134,6 @@ T
 9.ILToA oTpTKoR ocTOPoXHo paanbnraeMkpbrukHreHcparopa.
 
 ### PeKoMCUaUHN
-`datsun_on_do_en_3a76205f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ans onpepeneHns TeXHNNeCKOro COCTORHNR 3aAHerO noAWNnHNka nokavaite P3 CTOPOHbI B CTOpOHy 时 3HeprnuHo ncepauairte ero HapyxHoe konbLo. OQunHK He AOKeH MTb 3HauTenbHbi no中T Konbuo AOnXHO Ceo6ogHo spawaTbcR 6e3 3aenaHnuN nOCTOPOHHerO wyma. HevcnpaBHbn noAuNnHuk Heo6xoAUMO3aMeHnTb
 
@@ -9753,7 +9142,6 @@ Ans onpepeneHns TeXHNNeCKOro COCTORHNR 3aAHerO noAWNnHNka nokavaite P3 CTOPOHbI 
 ![](images/d76bf37b9ece3d3314e7cf0f025cd38620542f3af98c65a740eead1bf4e34d59.webp)
 
 ### PeKOMeHI9日
-`datsun_on_do_en_0bc24aae` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aB0A-roe He peKOMeHyeT MeHRIb nepenHui nonwnHk potopa, TaK KoK noH 3aBa/buosaH BnepeaHer KpbLLike reHeparopa. HO, yTDIBaR TO, 4TD CTONMOCTb nOAunHuKa 3HaynTenbHo Hnke CTONMOCTH HOBON nepeAHen KPBILKN He TeM 6onee,reneparopa cbope, LenecoobpaaHo BbinpeccobaTb F 3aMeHNTb HeviCnpaBHbInnODuUunHNK.
 
@@ -9774,7 +9162,6 @@ Ans onpepeneHns TeXHNNeCKOro COCTORHNR 3aAHerO noAWNnHNka nokavaite P3 CTOPOHbI 
 ![](images/d5768cbb269f0ac43d309a95ade9bcf81eef6fca7eb6a8330f3819bff11ac1cb.webp)
 
 ### 6.CHHM8CM BHOPAMHTCnbHEIR SroK.
-`datsun_on_do_en_799a4eb6` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 7.MaPKePOM HSHOCHM MCTKH B3aHHoro pacnooxeHs nepenHeRH38- IHCR kpbIuek reHeparopa(g ynipomeHns c6opkH).
 
@@ -9797,7 +9184,6 @@ M poB0M H3
 ![](images/1905c77d2d3a8b281d6c9ae8e24edb053266e68946f520d0ed2154f07abb19ed.webp)
 
 ### Iponepka
-`datsun_on_do_en_8fe8a97a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.TpHag nuynbi OMMeTPS K KOHTEKTHbIM KOAbuaM pOTopa, ripoepCMCOMOTKy B035yXnCHHA HaOTCyTCTBHE OpbBa. CopoHee HCHPABHOR OOMOTXH BCGOYXeHAOKHO 6b5-10OM.
 
@@ -9820,7 +9206,6 @@ Maccy.TpHHcnpaBHo oOMOTxe pO TOpa OMMepOnxeH nokaabiBarb6ecKOHCUHO6OnbLOcConpOTH
 HeHcpae poTop Hcaop 3ave HREM.
 
 ### 3aMen
-`datsun_on_do_en_34d42a43` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 VcnpaBHbun nonynpoBoAHukoBbin ANOA npoeognT3nektpuuecknit TOK TObKOB OAHOM Hanpaenehun Ecnn ANOA He nposoqut TOK NAN nposoANT TOK B05oux HanpasneHuax, 3HaUNT,OH HeNCnPBeH.
 
@@ -9837,7 +9222,6 @@ erpaBHnHeerpory KaTbTOK (corIpOTHBICHHeCTpeMNTCsK 6eCKOHCYHOCTH).
 7.AHJOrHO npoBepRem npyrHe nHObl BrtpgMHTenbHoro 6.oka.
 
 ### LIpcnepcxteore!
-`datsun_on_do_en_10bbe455` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nepen3anpeccoskon noAunHnka BnePeAHii KpbItky reHeparopa Heo6xonnmo npobepntb nocanoyHOe rHe3po noAwunHnka N npu Heo6x XODNMOCTN HOKOM nnn wabe POM BOCCTaHOBNTb 中acky TaM, rne KPOMKN OTEepCTVR OCTnCb 3AMRTbIMN. npu 3anpeccosxe nepenHero noA山NnHNka B KPEIWKy ycunne HeCEXOANMO npuknapbibatb TOnbKO HapyKHoMy KOnbLy nOgunHvka.
 
@@ -9856,7 +9240,6 @@ nepen3anpeccoskon noAunHnka BnePeAHii KpbItky reHeparopa Heo6xonnmo npobepntb no
 3.UpH noMOuN Tpy6KH HOAxOJReroJHaMCTpa(MOKHOHCnOb3OBaTb yGokyoronOky 19M) no yropa HaPCCCOBIBaM 3AIHNnOTHK Ha Ban pOropa.
 
 ### ee
-`datsun_on_do_en_0b76dc93` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 fepen yctaHoBkon aankero noAWNnHNka reHeparopa y6eAnTecb, N70 Ban HaAeXHO 3akpennen B Tuckax. nonBan potopa nonnaxIte nepesRHHbIn 6pycok nOAXOARWero paamepa, 4TOGbI nPn sanpeccoeke He noBpenntb nepeAHOIOKpbinbHarkyporopa Bo n3bexaHne nc8- pexAeHNR nopunnnnka yAapbl CneAyeT HaHOCNTb TOnbko no BHYTpeHHemyKonbuy noQuWnHika.
 
@@ -9865,7 +9248,6 @@ fepen yctaHoBkon aankero noAWNnHNka reHeparopa y6eAnTecb, N70 Ban HaAeXHO 3akpen
 HanbHeayo c6opky reHepaTopaBbInOIHAEM nOC/CHOBaTeJIbHOCTH,O6paTHOR pa36opke. IIpH 3TOM COBMe-maem MCTKH, HaHeCCHHbieH3 KPbIUKHH CTBTOP reneparopa OKOKqarenbHO38TsrHBaEM CTRKHME 60.TTbIPaBHO-MepHO, Kpecr Hakpect, B HeCKOTbKOnPHeMOB TTo non-obopora. 3aTsHyB6otts!, y6exJaeMcA JerkoM Bpa-山EHHH POTOpa 3aenaHHC pOTOpa MO-KeT 6biTb BbI3BaHO nepekocoM KPEI-Lek). epe yCTaHOBKok tacrMac-COBoro Koxyx y6eMA Hae-HOM KPennCHHH BbIBOZOB 06MOTOKCTaTOpa.
 
 ### 13.4.E.IOKHIPEIOXPAHNTEJIERMPEJIE
-`datsun_on_do_en_bec8047d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/ece5fdaf0cdf5e4e5efc14a7d1ae21a9f1d4314c287332430aef127da0b63930.webp)
 
@@ -9891,7 +9273,6 @@ MoHTaKHR6.toK peoxpa Hee yCTaHOBeH BnaHe.THpHoPOB C.JeBOBCTOPOHEI.
 Ipeque.Ha Kopryce MOHTaHoro 6noKa yxasaHbopKOBie HoMepa ripexpaHTene H pene.Ha3HayeHue pene 3UHuCMe npeaOxpHTM Len 63HyeHbI yCnOBHMH CHMBO.IAMH Ha BHYTPeHHeR CTOPOHe Haxne,IK nAHeJIK nprbopos, KOTOPaR 3aKpLIBaeT MCCTO yCTaHoBKH peOxpaHTeeR. TM DTA pOxpaHTene yaaH& cn roka CneBa OT 6noka MOryT OhTb yCTaHOBEH HOTOnHHTenbHbie pene
 
 ### HpeaoxpanrteHn saumnscsbre nenk
-`datsun_on_do_en_7a20b827` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ta6nma13.3.1
 ![](images/ec8fd3e480566a6a6e40423009ea649cebcdae2a7d9b4280cc2b3b7a60d1194a.webp)
@@ -9900,12 +9281,10 @@ Ta6nma13.3.1
 Ipaegame.pn 3aeHe ipeao 8HHTe IeHHAMH H KPbIKe MOHTKHoro6πoka.
 
 ### eLnapeknme
-`datsun_on_do_en_b2f70861` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nepen 3ameHon npenoxpaHntens Heo6xonnmo onpenenntb W ycrpaHNTD nPnunHy ero neperopaHnR. 80 n36exanue stxona H3 CTPOR 3neMeHToB3nekrpoo6opynoBaHNR Henb38yCtaHasnnsarb npenoxpaHuTenu CyBenWHeHHbIMHOMKHanOM MnNcaMOnenbHbre.
 
 ### Ioc.tenOBTe.TboCTL BmO.H
-`datsun_on_do_en_9e4799db` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.Tonrora OMOOb K BOHeHO OT  BKO 38KHraHHe (CM. IoroToBka aTOMOOMIRX TeXHH'eCKOMy OOCRyKHBaHO HpCMOHTy>).
 
@@ -9930,7 +9309,6 @@ HecnpasHbn npenoxpaHeb MOXHO onpee no neperopeneR HUTH.
 ![](images/f3e7d43b62b7fe8632ad2e388a2bfb4e9c0741b210f4be831884fc58c20ac4a8.webp)
 
 ### Pevovngmuug
-`datsun_on_do_en_6e3461c4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 VHorpa HNTb npenoxpaHntena OcTaerCA uenon, 6 TO BpeMR Kak ee coepnHeHne BHyTPN npenox paHnTeng HapyweHo. Bu3yanbHO onpenenntb rakyio HeNcripasHOCTe HeBO3MOXHO. B3TOM Cnyyae oueHNTb COCTOAHME npenoxpannteng MOXHO pn noMOn OMMepa KOHTpOnbHOli naMbl.
 
@@ -9956,7 +9334,6 @@ VHorpa HNTb npenoxpaHntena OcTaerCA uenon, 6 TO BpeMR Kak ee coepnHeHne BHyTPN n
 ![](images/4d150bbf44d89ad9ea7ad8c94507bd6c4d7d7610df2893ca0a58dcc63ac201f2.webp)
 
 ### 13.5.CTAPTEP
-`datsun_on_do_en_cfdaaebd` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Craprep npencTARReT cobon veTpxnC p C BO36yxeHHeM OT nOCTORHHbIK MarHHTOE, o6opyAOBaHHEIA IPHBOJOM BKTONEHHR H BTATHBBIOIIHM (TarOBbIM)pere.
 
@@ -9979,12 +9356,10 @@ O6ronHas ponKoBagMydrra npHoBa nepenaer epauese Tonbko OHy CTOpOny 一 OTCTapTep
 Iocne Toro KaK BOnHTEJb OTnycKSeT KTOY BKONTR (saMxa) 3aKHraHHA, ME BbInOJ BTAIHB olero pee nepecTE 10 Vtpasnionee HaTip CHHE CkIPOM THTHOE nove, e HB tollee RKOPb Hcue3aCT. a npn 10 BO30CRCTEHEM npy a OPHBOa Craprepa N83ar BbIBOnHT Beayuyio uecTePHIO H3 3auennenHg BCHLIOMMaXOBHKa. OJIHOEPEMEHHO C 3THM pa3- MbiKaIOTCR CHTOBLLe KOHTaKTII, nonBIOLLHe TOK K OOMOTKAM JBHraTeTA CTaprepa.
 
 ### Iloconpekdeine!
-`datsun_on_do_en_614e6d9e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Craprep 4 CaMbin MOLjHEIn norpeOenb anektpuHeckon Heprnn Ha aBTOMo6wne. npu sanycke newrareTOK, notpe6nReMbin CraPTEpOM, MOKeT nocTnratb 6onee 400 A. no3TOMy Bce 3nektpnyeckne cOeANHEHNA MeKay aKKyMynRTOPHOn 6arapeen 4 CTaprepOM nONXHU KMeTbHaneXHbNKOHTakT.
 
 ### CHTHe
-`datsun_on_do_en_93d73b5f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 I.ToroHeaeM ABTOMO6Hnb K BnO/HeHIO pa6oThl HycraHaamHnaeM ero HBCMOTPOByIOKaHany HRH9CTakany (CM. IOnOTOBKe aBTOMObHK TeXHeCKOMy O6CyHBaHHIO H peMOHTy>).
 
@@ -10001,7 +9376,6 @@ I.ToroHeaeM ABTOMO6Hnb K BnO/HeHIO pa6oThl HycraHaamHnaeM ero HBCMOTPOByIOKaHany
 6. KmONOM HH 13MM (HTH TORX E14)oBOpaepO H3HCCTpep4.
 
 ### 3gMeRHe
-`datsun_on_do_en_98e8b1b9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B3aBNCNMOCTN OT BO3HNKueri HeNcnpaBHOCIN, nocnenoBaTenbHOCTb O6beM peMOHTHbxpabor MoryT 6b/7bV3MeHeHbl.
 
@@ -10022,7 +9396,6 @@ Jag paborbi norpe6y. IOTCR
 -OMMeTp.
 
 ### Hpstatecn
-`datsun_on_do_en_82dcc58f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BLinonHRs npoeepky. He nonyckavte KOpOTkorO 3aMKaHNR BAKHka riposona, CoenNHEHHOrO 二 nonoxutenbHbiM BbEOnOM aKKyMynATOPHOn 6atapen, Ha kopnyc CrapTepa. Dns sToro 32xNM cnenyer ynnnnuTb. Hanpumep BCrasne B Hero CabHyio BbIKOnoTky.
 
@@ -10039,7 +9412,6 @@ nabeueA rpoepn craprepa, rakke ILAR onpeneneHnA PayaHi HeHCTPaBHOCTH HOXOAHMO pa
 国
 
 ### 3aMeuaBgasoropele PeAONCHEBHA
-`datsun_on_do_en_ca74123d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.TopLOBbMKOMa 10MOBOpaTWBaem raiiky KpeUICHHg HaKOHeyHXka npobOJa KBbIBORy(KOHTaKTHOMy 6oxTy) BTarHBaIOmero peIe
 
@@ -10066,7 +9438,6 @@ Tpobepurenerxoctb xona cepneuHvka BTRrNBaKOLuee pene. roncoenvmimex BbiBOLaMBTrv
 8. ToneBaR URLeBOn OTBEPTKOn, oepenHo CHHMECM TPH aHerapHucwecrepHn peaykropa.
 
 ### PekgmeehUaR
-`datsun_on_do_en_ea8d1207` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nposepbre COCTORHNE nnaHerapHOro penyktopa. NronbyaTble nonUIMnHNKN carennNTHbIx wecreper He nOnXHbI ObiTb nobpexnenel. Ha aybbAx uecrepen penyktopa He RONKHO 6biTb CKOTTOB, sapnpoe. cnenos kopposun M Apyrnx noe pexpeHnn. Heo6xonnMo 3aMeHnTb Hevcnpabnbie 3neMeHTbi penyKTOpa (nnbo nPnson NAN CTapTep B cfope).
 
@@ -10077,7 +9448,6 @@ te5
 LR oro
 
 ### 13.6.BbIK.OYATEb (3AMOK3AKHIAHNH
-`datsun_on_do_en_ef05445c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B uenn nHTaNHR 6onbwen VACTH 3nCKtpoobopyAoBaHHR SBTOMOONJIR, KpoMe ABapHAHOB SBYKOBOR H CBCTOBOA CHTHAAH a H OCBCILCHNA ca/IoHa, rabapfrHoro CBera, CHrHaia ropMOKCHHA OXPAHHO CHHIH3LHH snektponpnBona 3aMKOB IBepen, H8- npFkeHHe nocrynaer uepe3 BbiKIONaTe.1b 39KHraHHA 日 nOBbII HCHNA rpoTHBOYTOHHIXCBORCTBaBTOMOSHABbIK.tiogaTeTb CORMCLIEH 33MKOM, 103- TOMy 3ro yetpolcTO vatie Ha3bIBaIOT 3aMKOM38KHrHHg.
 
@@ -10088,7 +9458,6 @@ M 6oaH C OTPHEIMH TOIOBKAMH. IpH onpeneenom MOMCHTC 38TAKKH 60RTOB rOMOBKH OTPbI
 3aMoK 38KHraHHR nONOJHHTCbHO 6opynoBaH MexaHH3MOM 6nokHpoeKWpynesoro Baa. Tocne H3BeYCHH8 K8 M3 38MK8 OCBOO0XICTCROnpyxkneRHaR 3aeika. IIpHnonbITKC noBopoTapyneeorokoJeca 3aueK&dHKCHpyer pyneBOR Ba/l OTnPOBOPauHeaHna.
 
 ### TocaenoremHocTmoens
-`datsun_on_do_en_e062925e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 I.OnrOTB/IHBaeM aTOMC6Hnb K BHNOenKO paoT HOTCOeCM KteMMy npoBona OT OTPHLare.Horo BHBOnA akxyMynTOpHOn barapen (CM. TooTOBka aITOOR K TexHrecKOMy OOcTyRHBaHnOHpeMOHTy>).
 
@@ -10111,7 +9480,6 @@ Tpoeepky Bbnonkute korna KnION HAXOnntca B nonoxeHnu D = BbiKnIOveHO", 3arem npo
 3aMoK 3aaHs C HeHCnPHOR KOHTAKTHOR rpynnoR 3aMeHeM (CM. HIKe, BbKuoyare.b（3aMok) 3araHH8 -CHATHeHyCTaHOBKa>).
 
 ### BbIKHIOHATETb(3AMOK) 3AKHIAHHA- CHSTHE HYCTAHOBKA
-`datsun_on_do_en_095ccb14` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 oe pao norpeyorcnyetbipe crenna/bHsIx 6omta C OTPbBHhIMNrOJTOBKaMH.
 
@@ -10120,7 +9488,6 @@ oe pao norpeyorcnyetbipe crenna/bHsIx 6omta C OTPbBHhIMNrOJTOBKaMH.
 TipnorcyTcren cneunanbhbix6onTOB MOXHO 3akpennTh HOBEIH 3aMOk FpM noMoLy 6omros cpesb6onM6 AnNHOn 20 MM4 npasna npn 3TOM pOTHBOyroHHa 3auWeHHOCTb a8- TOMOGMnS3HaHNTebHOCHN3VTCR.
 
 ### CRarne
-`datsun_on_do_en_d4c6cf73` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.Pa3beHHeM KOnOIIKH XryTOB rpoBOnOB BbKoreg(3aka)saHTAHHA (CM. Bbe, BLIKTIOuarens (3aMOK)38KHHN -poBepkas).
 
@@ -10137,7 +9504,6 @@ TipnorcyTcren cneunanbhbix6onTOB MOXHO 3akpennTh HOBEIH 3aMOk FpM noMoLy 6omros 
 6yKperneHnR 3aMKa H CaM 3MOK 3 XKHaHHECpyneBon KOOHKH.
 
 ### yeraROBka
-`datsun_on_do_en_64727e90` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. Iepex yCTAHOBKOR 38MKa38KHr8- HHR BCTAB/IREM HeroKnuHnoBopaYHBBEM ero novoxeHue (eBKIOveHO"), yrobbl 3auenka MCxaHH3Ma6OKHPOBKH pyneBOrOBaa 6bLia 3aHy TaBKOpryc 3aMKa.
 
@@ -10154,7 +9520,6 @@ TipnorcyTcren cneunanbhbix6onTOB MOXHO 3akpennTh HOBEIH 3aMOk FpM noMoLy 6omros 
 ![](images/e65e712bef2043b44ffc01570f24b3f01475a1f2cc3bf98baab0c2be5cd1abfa.webp)
 
 ### 13.7.BbIKJIO9ATEUIN HIEPEKJHOHATEJM
-`datsun_on_do_en_ef627b07` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 aopa5e5noSHy
 
@@ -10169,7 +9534,6 @@ BKogTen oap 3ro xOa YCTAHOBTCH B Kaprepe KopobKH repenayPenom cocraprepoM. TIpH 
 BKeb CHaO TOOHHR YCTAHOBACH non naHe.iblonpu6oPOBBAKpoHeHe eaaH OpMO3a
 
 ### 17 HIONPYJIEBbIE DEPEKIONATEJIN -CHATHE, UIPOBEPKAHYCTAHOBKA
-`datsun_on_do_en_94a41cd0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/3346bfd04f4b8c2199578810447453ae1f8dc3647be949cd5969f4bc42edd8a5.webp)
 
@@ -10187,7 +9551,6 @@ BmoHenpaornOpeyen MynbTHMeTp,
 BbIBOa ayyon aaeH （CM.OrOTOEKaaBTOMOHUTXHCKo-MyocmyBaHoHpeMOEye).
 
 ### CHnHe DonpynebbxBepek.uoqareneR
-`datsun_on_do_en_80d1a130` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IIOnOTHB TOMOH KBbInOJHCHHIO paboTh 4 OTCOEHHEMKTeMMy nposoa OT orpMIIaTeTHHoro
 
@@ -10215,7 +9578,6 @@ OPOB
 6.AHaooe eo pyneaoRnepeknogrenb.
 
 ### IIpoBepka
-`datsun_on_do_en_6b3c77fb` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 MynbTHMerpOM pexMC OMMCTpa rpoBepseM 38MblKaHHe KOHTAKTOB Bnepekoaresx p pu no nokehnaxpbtara nepekaogarets.
 
@@ -10224,7 +9586,6 @@ MynbTHMerpOM pexMC OMMCTpa rpoBepseM 38MblKaHHe KOHTAKTOB Bnepekoaresx p pu no n
 fOPanOK 3AMbIKaHNR KOHTAKTOe rpu pa3nnhbIx nonoxeHnex pbivaroe nepexnovarenen npencraenen B a6/ue13.7.1
 
 ### CHTe
-`datsun_on_do_en_f0daa8f4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.HonroraHe aBTOMO6Hnb K OHeHHOaOOT(CM. TCrOToeKa ABTOMO TeHHeCKOMy ocyBAHIO HPeMOHTy>).
 
@@ -10241,14 +9602,12 @@ fOPanOK 3AMbIKaHNR KOHTAKTOe rpu pa3nnhbIx nonoxeHnex pbivaroe nepexnovarenen np
 ![](images/39bf2b843c0156aea093c8ef84237b69aae6117612336b2ed9046c86f23b80d3.webp)
 
 ### 1eSLn
-`datsun_on_do_en_4244e83f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHETE COenWHuTenb MOXHOBcbope CKOHTAKTHbIM KONbLOM. npuHeo6- XODMMOCTN OTBOPaUNBaEM veTbipe camopeaa L CHNMaeM KOHTAKTHOE konbuocpyneeoro Bana.
 
 ![](images/7ff7e7d0615ad3f39fd48ad7a5678528f39cdaf463ba49d7ea6d1b49dcf52fdf.webp)
 
 ### Igeayapexciekwed
-`datsun_on_do_en_5b8fa294` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Hpn CHervnpyneBoro xoneca rionBNKHAR NaCTb KOHTAKTHOrO xonbua cupyerCR 3anopHbiMMexaHaMOM, Tonpenorapaaer eespaueHne He cheyT HaxMTb Ha konbLopukcaropa, M bpanlatb nonevxyio Hactb KOHTAKTHOrO konbua. 8pesynbrare npu cOopke MOer ObrTb HapyueHO ueHtpalbHoe nonoxenne nogeon HaCTN konbua ApN 3TOM Benka bePORTHOCTb nOBpeXQEHIR KOHTAKTHOrO konbtanpu noeoporepynesorokoneca BOHO N3KaviHnX nonoXe
 
@@ -10260,24 +9619,20 @@ Hpn CHervnpyneBoro xoneca rionBNKHAR NaCTb KOHTAKTHOrO xonbua cupyerCR 3anopHbiM
 ![](images/cb7599e57c2c9663df0a26233779dc22adb2a47a4bc839a2484c356e01e590ec.webp)
 
 ### YCTBHOBKS
-`datsun_on_do_en_99cc0444` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.VTaHaBCOHebo-pyeBIx nepekuoreen B o6parHonOCACnOBATeIbHOCTH TIpn STOM Bbl-CTy Ha PyneBOH KOIOHKe BOnHa coenlHHHree.
 
 ### BIKTIOYATETb OHAPEH 3AJHETOXOJACHATHEHYCTAHOBKA
-`datsun_on_do_en_1396e11f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pa6ory BOHM H TOMO6H cMKI. HaaBToMOONec AKI crHAnHa BKAONCHHC CBETE 3aHeroxoJa nIoCrynaercaaTuHka ceekTopa.
 
 LsoesaopeyecCMOTPOBARKAHBAHAH 3CTakan8.
 
 ### CHRTHe
-`datsun_on_do_en_41ef3bed` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 L.OnOTB OMOOb K BnOnHCHn paGoTCOroroka aBTOMOLRKTXHeCKOMy OCnYKHBAHHIOHpeMOHTy). 2. CHHMEM saury Kaprepa ABHraTe.I8 H6pI3rOBHK JaTen(eCH ycTAHOBRCHbl). 3.CnHBacM MacO H3 KopoOK nepenay（cm. Kopobka nepeaay 一 npoeepKa ypOBH月H 3aMCH MaCIa>).
 
 ### MNSAANN
-`datsun_on_do_en_45c6105f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Tpn HeobxoNMoCTN MOXHO nepeyCTaHOBNTb BbiKnlovarenib HeCNBaR Macno,HO npn 3roM Hes6exeH4aC
 
@@ -10292,12 +9647,10 @@ THHHb paanNBMacna Takyio onepaUMo cnenyer ebnonHTb rIoncraBns wWpcxyIoeMKOCTb.
 ![](images/0bec068af756d6ef2c6a95f3048fc6bd6ffb42c5f192946fbf0e2d725c4e33e8.webp)
 
 ### YCTaHOBKA
-`datsun_on_do_en_18501274` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.YCTHHBM KOTCB-a aero xo 心 o6parHo nocnezo-BATeJIHOCTH.2.3aeMMaC 6 Kopobky nepe-ny（cM.Kopoka nep 一 rpobep-KayPOBHRH3aMCHBMaC.TR).
 
 ### CRRTne
-`datsun_on_do_en_c60656ec` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IOMOTaBHBBM aBTOMO K BHTO/HCHnIO paOOTN(CM. lororoexa 8BTOMO6 KTexHnyeckoMyobcnykHBAHHO H pCMOHty>).
 
@@ -10316,14 +9669,12 @@ THHHb paanNBMacna Takyio onepaUMo cnenyer ebnonHTb rIoncraBns wWpcxyIoeMKOCTb.
 ![](images/ec4bbd8cebf52373783de184d02a1188589ee0edd108667c12c2dd809ddf3cc6.webp)
 
 ### CTAHOBKS
-`datsun_on_do_en_24f4666f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.VTaHOCHa8 TOPMOKH oOparHoR nocenOBaTebHOCTH.
 
 2.Tocne yOBKH BHKTOURTEJN, ybexnaencn B TOM, UTO TIpH nerxoN HOKATHH nenanr TOPMO38 BKOIOTCRCHTHaTE TOPMOKeHns, aIocnc OTyCKAHHs nenaiH OHH racHyT. HpH HeoKOJMocTH perynpyeM IonOKeHHe BNKUO'BrenR(CM.HHKe).
 
 ### C
-`datsun_on_do_en_6dc5160d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Korna renanb TOPMO3a He Haxara, ee pbNar nonke ynnpaeroa B 8bKnoyarenb. Ecnn BbiKiouarenb6ynet noAKnMaTo 1 nanb TO,MOxer ortyTc TBOBaTb ceobonHb nenannTopmosa, YTO B peaynbtate ripvbener HenonHOMy pactopmakvBahino TOPMO3- HbIX MEXaHN3MO8 Ecnn 6yner aasop Mky pbMarom nenann NkopnycoM (pe3sboBoNHaCrbIo)BbIKnIoHaTene. To WTOK BbKniouarenR He GyneT yTonieH nOnHOCTbIO M CHrHanbi TOpMoxee bynyTBKIoyeHbl.
 
@@ -10336,7 +9687,6 @@ HHBaRCb,OLTOK BKOT6 yoeH no ynopa npn 3TOM BKOe H cMeluan nenab ropMO3a Bniepen.
 ![](images/b523a072cf26b28629c9c1f00d89f3695fa5418c328a2d94f919d8e6dc7b0aa9.webp)
 
 ### ocxeno OVReHHS
-`datsun_on_do_en_439a9a72` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1 oOKBnono paoT (cM. eTOroTOBka UTOMOHURKTXHHCCKOMy OOCTYKHBaHHIO H PeMOHTye).
 2, IOTHyB ce6s H rpeoaonebag conpoTHBneHne Φukcarop, H3BTeKaCM BUKJIOVaTeJIb
@@ -10348,7 +9698,6 @@ HHBaRCb,OLTOK BKOT6 yoeH no ynopa npn 3TOM BKOe H cMeluan nenab ropMO3a Bniepen.
 ![](images/1b0d33f62ec44bed9f62d3682112b5442517e3559645e6d2fdfec7f8e8818c27.webp)
 
 ### 3auam
-`datsun_on_do_en_9979d151` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TpUMMHOLHeNCnpABHOCTHMOryObTb OKNCnNBNECR BbBOnEIBEIKNOYaTenA Vnn KOHTaKTbI Kononkenposonoe. OcMaTpuBaem MX M npn HeobxonNMOCTH opaGaruBaeMcpencrsoMAn OHNCTKN M Jawitei 3nektpuueckux KOHTAXTOB.
 
@@ -10359,7 +9708,6 @@ TpUMMHOLHeNCnpABHOCTHMOryObTb OKNCnNBNECR BbBOnEIBEIKNOYaTenA Vnn KOHTaKTbI Kono
 5.HencnpaaHbiR BuKUovaTeab 38 MCHReM. 6.CTaHM Knb o6paTHoA OCeJOBTeHOCTH.
 
 ### 148 HEPEKHOYATEJIN 3JIEKTPOCTEKIOIIOIbEMHHKOB CHSTHE 1 YCTAHOBKA
-`datsun_on_do_en_a91368c5` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 IlepektoNaren SnCKTpOcTeknoHobeMHHKOByCTHOBIen OOHEKy nsepeR. Ha JBePH BOIHTC.IA yCTaHOBnen 63OK C nepekLONRTeLgMH Bcex 9JKTPOCTeKIOnOILeMHHKOB B 38- BHCHMOCTH OT KOMILREKTUHH Ha qacTHaETOMO6HIeR MOryTObIrbyCTaHOBJeHbCreKIononbeMHHKH B38AHHX nBepgx.
 
@@ -10368,7 +9716,6 @@ n CHTR peKoNaeR xeaTEJIbHOJeMONTHPOBaTL OOHBKyABCPH ToCKOnbKy IpM mONbITKe 13BIC
 Pabora TIOKa3aHa Ha npuMepe 6noKa nepeon BOnHTenbCkOR JBePH. CHATHe L ycTaHOBka riepekmoVaTCn 3AekTpocrekIonogbeMHHka Ha naccaxupckon JBepH BNNOJHAETCA aHATOTHHHO.
 
 ### IMes2E
-`datsun_on_do_en_44867e11` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHRTb nepeksloyaTenb MOXHO, rak xke axkypatHo nonnes OTeepTKOn \$ Apeononesan conporuBnenvepukcaTOPOB,BbBecTn erO n3 o6nBku
 
@@ -10385,7 +9732,6 @@ CHRTb nepeksloyaTenb MOXHO, rak xke axkypatHo nonnes OTeepTKOn \$ Apeononesan co
 npoBepnto nepeknioyaTenbMOXHO MynbTVMETPOM6 pexMme OMMetpa. KOMyTasbonosnepeknioenRnoka3aHa Ha obuer cxeme gnekTPoCGoPyEOBaHnR asTOMOGnngCM. Cxembl3nektpoobopynoeaHva>).
 
 ### 13.8.OCBOUPTNE CBETOBAIM3BVKOBARCNTHATH3AIHS
-`datsun_on_do_en_94899135` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha aBTOMO6HL yCTAHOB.TeHbI xBe
 610K 中apbi rOJOBHOro CBera C raTo
@@ -10424,7 +9770,6 @@ JOOHebHb OApL Ca. TOPMOXCHHg COCBETODHOJMNBMCCTO J8MD yCTBHOB/CH383aqHHMCTOKTOM.
 HaBTOMOOHIe yCTHOBUCHOHH3By KOBOA CHTHan BHOPAUHOHHOrOTKIna.
 
 ### CBaTke
-`datsun_on_do_en_47d59df4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1 TOAOTB/IHBM 8TOMOG K BNOTHCHHO PaOOT HOTCOEIHHSCM KiCMMy npobona OTOTPHLATCAHOTO BIOaa KXyMyTOHOR 6arapen (CM. TOJOTOBka BBTOMOOHU B TeXHHHeCKOMy OOCIyKHBaMHIOHpeMOHTye).
 
@@ -10442,7 +9787,6 @@ YciaHOBKA
 YcraHaBBae 6OK ypH OCBeICHHeM B o6paTHoA nocJIenoBaTe.TbHOCTH.
 
 ### EJIOK-OAPAPETYJNPOBKA
-`datsun_on_do_en_340fa339` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bes pao opeyece HOMOUHHK,ATaKKe:
 
@@ -10455,7 +9799,6 @@ Bes pao opeyece HOMOUHHK,ATaKKe:
 Perynuposky xenaTebHo ebInonHsTb TeMHOe BpEMR CyTOK. ABTOMOOHIb nonxer 6birb 4 CHapRKeHHOM COCTORHVN (nOnHOCTbIO 3anpasnenn 6e3 AOnonHnTenbHOrO rpy3a). Tak Kak HavTN nonx XOARLY 0 noBepxHOCTb kByectee3KpaHaHenpocTO, npomegna 3TOroNCnorIb3OBaTb 中anepHbuiu paamepom 1x2 M C HaHECEHHON Ha HeropaaMeTkol. fipn TOMHeobxoDNMO nonrorovrb ynapn noAcrabky, yToObIyCTaHCenTb LMT Beprnka/eHO.
 
 ### IIOCJOTEHOCTHOH
-`datsun_on_do_en_a786d42d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.VCraHIHBaCM ABTOMOOHRb H8 POBHyIO ropH3OHTanbHyiO rtotaaky nepneHAHKynAPHO nosepXHOCTH, Bbl
 
@@ -10497,12 +9840,10 @@ CxeME PaJHeTia SKPana A8 perysupotxH CBeTs 6aoE p ecpTHKaTbHaA SHHHs,0GOOHVAJoR 
 AHanorHoperypye eyio6oKPy COEMCR HOMCAB
 
 ### IpenviDexaenme!
-`datsun_on_do_en_1062fcea` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Henb3RLorparuBabCRnokonrano reHHbIx naMn nanbtamn. Paboraite 6 YMCTbIx XnonyaroOyMakHbix nepHarkax 6e3 pe3nHoeoro HanbineHinR Kuphbie cnener oT nanbues, OCTaBCR Ha one naMb6 Heckobk pa3 coxparar cpox eecnykOb. nocne CnyaliHoroKacaHienanbLamKonbb namnbl, npotpute konby uNCTOn can中eTKOiCMOHeHHOR cpTOM
 
 ### IoCveJeHo NO
-`datsun_on_do_en_d516e9aa` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1 HOLrOTABIHBaCM aBTOMO6HIb K Boeopabor (cororoBka BTOMOOHI8KTeXHeCKOMy OOcnyBAHHIO HpeoHry).Bbnoe HaPyKHOe OCBCCHHe.
 
@@ -10523,7 +9864,6 @@ Henb3RLorparuBabCRnokonrano reHHbIx naMn nanbtamn. Paboraite 6 YMCTbIx XnonyaroO
 6.VCTaHaBAHBaCM OByIO 8Mny (COBMCCTHBBHCTyON Ha ce HOKOJIC C COOTBETCTBYIOUIHMHHa3aMH BΦape)B O6paTHOR nIOCeJOBaTeHOCTH.
 
 ### Iocneaon nO IDOR
-`datsun_on_do_en_e7b17c2d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1 Bbxnogac HapyKHoeOcBemeHne. 2.He OrcoenHHg KOonky xryta NPOBonos, TOBOPanBaeM ITPOTHE vaCOBOR CTPeJIKH H BUIHHMEeM narpon naMihl rabaproro CBeTa H AHCEHNX XOXOBIX OHA U HHOCTH nIOKa3aHO,HacHTo 6noK-ape).
 
@@ -10538,7 +9878,6 @@ HyCTaHaBIiHBaCMHOByIO.
 ![](images/70d23de8a92d04258fa48de2068d5245bf60d537778611fae99c4269931eb5a6.webp)
 
 ### IlocneaosareIHocs STOJHEERR
-`datsun_on_do_en_c5ddd59a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 L.OOKBnOHeHuO paoTb (CM. TloJrorOEKaABTOMOOITA Y TexHrHecKOMy obcnykH-BAHHIOH peMOHTye). Ip 38McHe npa-BOTO yka3aTeJn nObOPora CHHMACM6a-HOK CTeKOOMBT（CM.aOKCTeK-nOOMbIBaTeAX-CHRTHeHyCTaHOBK8>).
 
@@ -10553,12 +9892,10 @@ L.OOKBnOHeHuO paoTb (CM. TloJrorOEKaABTOMOOITA Y TexHrHecKOMy obcnykH-BAHHIOH pe
 4.3aeM HcnpaBHyo 5.VCaH pOH CMo ByKa3aTeb HnOOpaHacMCro no aCOBO CTpenKe nO
 
 ### IEUHLT
-`datsun_on_do_en_54a7794c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Henb3Aporparveabcanokon6ranoreHHbix nan nanbuamv Pabotaie HHCTbIX xnonuaroyMaxHIx nepuarkax 6espeauHoBoro HanbIneHng.CneAbOrnanbuee,ocraBuvecaHa kon6e namnbl, B HeCKOnbKO pa3 COKPaTRT cpok ee cnyokbbl. nocsiecyuanHoro KacaHvR nanbuaMN kon6bi namnb, npotpnte konfy HNCront canderkon, CMONeHHORCnHPTOM.
 
 ### 13.8.4.1JIAMTIABUKHEFOCBETA
-`datsun_on_do_en_1fa4fc8f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OOTH ONOb K HeHopaboc.lorooa ABTOMOGHIAK TeXHHeCKOMy OcyBaHHIO H peMOHTy.).
 
@@ -10574,7 +9911,6 @@ Henb3Aporparveabcanokon6ranoreHHbix nan nanbuamv Pabotaie HHCTbIX xnonuaroyMaxHI
 4.neKae HCHcnpaBHyoay 5.VCTHTHBCM HOByO aMny B o6paTHoA nocnenOBaTeTbHOCT.
 
 ### 13.8.4.2JIAMTIAJIATbHECOCBETA
-`datsun_on_do_en_039be8ec` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.TOnrOTHBaCM aTOMoKb K BOHCHO pGO（CM. TOurOTOBka ABTOMOGIUIK TeXHiuCcKOMy obcykHBaHHIORpeMOHTy>).
 
@@ -10597,14 +9933,12 @@ CB中
 3.HeMHOro VTaEnHBaeM BnaTPOH HeHCHpaaHyIo naMny NnoBepHyerpo THENaCOEOH CTPC/IKH,H3BTCK8eMCeH3 naTpOHa.
 
 ### 13.8.43JIAMIAYKA3ATEIH TIOBOPOTA
-`datsun_on_do_en_61f389db` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ...H BEIHHMECM ero BMeCTe cnaMnoR. OrCOeJHgeM JIaMIy OT nEPOH T 33- MCHREM. 4.VCTHHBM HOByiO namy B o6paTHOn nocneAoBarebHoCTH.
 
 4.3aNeHM HHcpaBHyoJy 5.CeM narpon CnaMnon B 6nok-apy H nOBOpayHBaeM ero no COBOB peake noHKcaMH
 
 ### 13.8.44JIAMIIATAEAPHTHOTO CBETANJHEBHBIXXOIOBbIX OTHENT
-`datsun_on_do_en_40d7280c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 L.TIoOTnHeaeM aBTOMOH K BHHOaGoT（CM TonroroBka BBTOMOURKTeXHCCKOMy OCyBAHHIOHpCMOHTy).
 
@@ -10628,7 +9962,6 @@ TOMOORnRKTeXHHeCKOMy OOCHYKH BAHRIOHpeMOuTy>).
 I.IOnOTAHaeM aTOMo6HKBbIoHeo pabo （c.eOoToBKa
 
 ### CHRTHe
-`datsun_on_do_en_39195bb3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/31e70abb03966390ea8f9894ec0adf5049d3421e6c7d3a4a3caa3599c5205dc7.webp)
 4.TeM e KTIOyOM OTBOPHBaCM6onrbokoBoro kpetLtennsdaph...
@@ -10636,7 +9969,6 @@ I.IOnOTAHaeM aTOMo6HKBbIoHeo pabo （c.eOoToBKa
 4.VCTaHBHaeM aTpOHCMOR B6noK-apy H noBopa ro no gacOBoR cpeke no HKca.
 
 ### EIOK-OAPA-CHATHE
-`datsun_on_do_en_12ba189f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HyCTAHOBKA
 
@@ -10669,14 +10001,12 @@ Ha aTOMoGue on-DO,oCBobocaToprco KOuonKHyTanposonoe OT 3nekrponpoa koppexropaΦa
 7.CHHMaeM6Jok-Φapy
 
 ### 3awrsime
-`datsun_on_do_en_5965a157` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HeobxonHMbe aaMeptr MOXHo cne narb CnoMoujbiopynetkN.
 
 7.BKneM nPOTHBOTYMAHHbe apb H 3aKpe onry IHCTOM kapTOKa.
 
 ### 5租 IIPOTHBOTYMAHHAA APA-3AMEHAJIAMIIbI
-`datsun_on_do_en_bd7ca8bc` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 L.IOZrOTABJHBaCM aBTOMOOHb K BOnHeHHIO paOOrs(cIToaroToKa aBTOMODHAK TeXHeecKOMy obcnyXHBaHHIOKPCMOHTy>).
 
@@ -10689,12 +10019,10 @@ L.IOZrOTABJHBaCM aBTOMOOHb K BOnHeHHIO paOOrs(cIToaroToKa aBTOMODHAK TeXHeecKOMy
 ![](images/f2ce4db34279cef7e271dcfa11cc27d34d395460378ddd838267d016550f4c3d.webp)
 
 ### 3AEIIPOTHBOTYMAHHA8 APA-PEIYJIHPOBKA
-`datsun_on_do_en_5946e630` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Jnoea pabor nrpeiyerC rOPM3OHTAThHas uIotnaxka PRAOM C POBHOR BEPTHKabHO nOnePKHOCTblo (HanpHMep, BO3ne CTCHH AOMA) MAH nNCT aHepbt(nnoTHoro KAPTOHa) pa3mepom okono 2x1 M, pyJerka JUIHHOn BeMenee 5M, HCT KapTona (uTO6npkpb oy6nok-apy),aTKKe nOMOUIHHK HK rpy3 BCCOMOKOJo75r.
 
 ### OCAenOBTeHOCT Bn
-`datsun_on_do_en_6d421e4e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 8.epe3OTepceB6acpe HbEM meCTHrpaHHNM KIOYOM H8 6MM...
 
@@ -10724,7 +10052,6 @@ auac  pyron ap,nepeMeas Ce CBCT B BPTHKabHOA nnocKOCTH, KIIO,BOnMMrOpXHroP3OHTaA
 Cxea aMeT 3Epais erya CTa yH:A 一 BePTKanbHR TIHHHR, H e poroyo;E BePTHKanbHas THHRA, 0003 onan pacro 10 KeHne naMmnpanoR niporHn OTYMAHHOR Φapur: B rOPH3OHTATbHaS IHHOIR bO3HUa pacnoncxeHne npoHyaHbxΦp NHIGR, aa BICOTyBepXHeR rOPH3OHTBIbHOR TpaHHUst ceera;O 一 oceBaR nHHHR: PaCCTORHHC Menyuertpan naMn HpOTHeOTyMaHHbxap, h-paccroRHHECT OBCPXHOCTH rLiottaEKH H KOTOPOn yCraHCBnen ADTOMOOHTL, nonsnnpornsoTyMHHxap
 
 ### Lpeetcue
-`datsun_on_do_en_0ae599c7` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHUMaR yka3arenb, He npvnarante pMepHbIXyCHn BovbexaHnenonoMxnnpyxuHHoronkcaropayxaatenA,BbInOnHeHHOrON3nnaCTMacChi.
 
@@ -10751,7 +10078,6 @@ p HeoGXOAOCTCyKaae nR. OTCOeANHReMOnOnKy nOOACB oTnarpoHa namribi
 6.3aBoHM cko6oo6pa3Hun BbIcry yKa3aTenR sa KpOMy OrucpCTHa. TIpHKHMas 3annio1o VacTh yka3arenKkpy, HaxHMacM HA ero nepeHOIO HaCT 3aLuCKHBHHRdHKcaropa.
 
 ### 3aMeHJMnM
-`datsun_on_do_en_76c3a176` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.HOJrOTaBnHBam ABTOMO6Hmb K BHHOnHHHIO paboT (CM. nOTOBKI TOMOARKTXHCKOMy o6cnyXHBaHHO HpeMOHTys).
 
@@ -10770,7 +10096,6 @@ p HeoGXOAOCTCyKaae nR. OTCOeANHReMOnOnKy nOOACB oTnarpoHa namribi
 5.CTHaBa nHeb HaO HIOJCOCINHRCM KOIOHKy TIPOBOJOB.
 
 ### CueW yeaHOBka 中ouapa
-`datsun_on_do_en_46ae04b1` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.Ococ Ky npoeononOT3aHerOOHapx（CM.Buc).
 
@@ -10786,7 +10111,6 @@ p HeoGXOAOCTCyKaae nR. OTCOeANHReMOnOnKy nOOACB oTnarpoHa namribi
 ![](images/8d04f780ed9d8cb2b2e1af6e978853ddbd4dd4762c0b06146f1118f9457ef9ca.webp)
 
 ### AIHHOHAPbml-DOCHATHE,3AMEHAJIAMII HYCTAHOBKA
-`datsun_on_do_en_e7fbc5eb` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Iocneno OBeHHS
 
@@ -10810,7 +10134,6 @@ H3JByxnepkatene Ha KyoBe.
 6.3MCAcM aMrry，cobpaeM H ycTaHABMBaeM 3aHHA OHapb BO6paHoR noceOBebHOCTH.
 
 ### CHarwe
-`datsun_on_do_en_7cfa1f4f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.TOAroTaBJHBaeM BBTOMO6RJIE K BIOJHCHHIO paboTbl (CM. OrOTOBKa TOMoMIKTexHgeCKOMy ObcIyKHBaHHIOHpeMOHTye).
 
@@ -10829,14 +10152,12 @@ TeJbHoro CKTHana TOPMOXCHHR C ABTOMOOHIS.
 CoHapa nononHuTenbHoro CurHana TOPMOXKEHNR = Hepa36opHbin Ecnu nepecTaOT ropTb HeCKonbo CETOnonos3aMehTeOHapbBc6ope.
 
 ### OOHAPH OCBEUEHNAHOMEPHOTO3HAKA -3AMEHAJIAMII,CHTHEH CTAHOBKA
-`datsun_on_do_en_0b339efe` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaaBTOMoe yCTaHOscHOBaoHAPgOCBCLICHHA HOMepHOrO3H8Ka. OHH peCnoJICoceHblBHkttie3aHero6aMepa.
 
 3aMCHaAMBOHAAX BUNOHHTCABOJKHKOBOA ROCneaOBaTnbHOCTH
 
 ### 3MeH刀NE
-`datsun_on_do_en_4103aa00` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IonrOaBae aToMObK epao（cororoa ABTOMOOHIAK TexHyeckomy obcnyknBHHIO H peMOHTy>). BbIKHovem HapyKHOe OCBeeHne
 
@@ -10854,14 +10175,12 @@ HaaBTOMoe yCTaHOscHOBaoHAPgOCBCLICHHA HOMepHOrO3H8Ka. OHH peCnoJICoceHblBHkttie3
 5.CoGHpaeMH yCTaHaBHBaeM ΦoHaPbBCOpaTHoRnOCneAOBaTeJTbHOCTH.
 
 ### CHATHe
-`datsun_on_do_en_2a65b706` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 A CHRTR OHPR OTBOPBHHTH ero KperusCHKA (CM. BHUC)H3BUTCKBCM H3 3AUHTHOrOuexna. 3aTeMOTCOCUCM HKOHCHHKHIBYX rpo-BOJIOB OT BbIBOJIOM.
 
 ![](images/4587fe0f3623c09d481be10c176da9a04e5b316d8ee139469f1c734fcdf9950a.webp)
 
 ### 13.8.13.1TLAAOOHCOOHAPHM HHAHBHLIYATbHOH JOACBEIKN
-`datsun_on_do_en_ba723895` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 #
 
@@ -10870,7 +10189,6 @@ A CHRTR OHPR OTBOPBHHTH ero KperusCHKA (CM. BHUC)H3BUTCKBCM H3 3AUHTHOrOuexna. 3
 AnR 3aMeHbI HenCnpaBHOi naMn AOCTaTONHO CHRTb paCCeKBaTenbnna 中OHa. Ang 3aMeHb! BbKnoyatens naMblHBnyanbHOinOckw AnR3aYNChNKOHTaKTOB BbiKnioyaTeng naMb/OcBeueHvRcanoHa HeobxonMO CHRTbnnaDOH,
 
 ### 3amenna
-`datsun_on_do_en_b890f56c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IonrOTBKBeM aOO InnHCHiopaoTs(CM. IoaroToB BTOMO6HnKTeXHCCKOMy OOCYBAHHIOH DeMOHTy+).
 
@@ -10926,7 +10244,6 @@ TOHKHM HICHDyIOCHBRTe/h
 ![](images/7c80003c1a6b31e411562886e098f46c4b76275159520586c70a16e46638a4ba.webp)
 
 ### bmoMHEHHg
-`datsun_on_do_en_d56808b3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OnrOTRTHBCM OMOOHb K BbnOHHO pao（C.TOroroka ABTOMOOHIS T TeXHHHeCKOMy OOCnyKHBaKKIOH PCMOHTye).
 
@@ -10940,7 +10257,6 @@ TOHKHM HICHDyIOCHBRTe/h
 4.CTaHBHM UOH OCBCELEHMA canoHa H KOpry,HaBHBeMO 3aKBaHHHKCaTOPO.
 
 ### ecneno INCHH
-`datsun_on_do_en_357f9188` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 .HorOTHACM TOMOHb K BIOIHeHHiO paGOTs(CM sIlo,roroeka ABTOMOHLsKTeXHHYeCKOMy OCnYKHBaHHIO HpeMOHTy).
 
@@ -10959,7 +10275,6 @@ HCHHMacM DaCceHaTeTb IacOHa.
 5.3aMeHe Henpayo any CoOHPaCM H yCTH UOH C6paTHot nocneJoBaTe/HOCTH
 
 ### 13.-15 UIAOH OCBEIEHHA BATAKHOIO OTIEJIEHHA mi-DO- CHATHE, 3AMEHA JIAMIIbINYCTAHOBKA
-`datsun_on_do_en_44eb8c2a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 IoCeNOBIrTe.bHOCTb BbnOR
 
@@ -10981,7 +10296,6 @@ IoCeNOBIrTe.bHOCTb BbnOR
 ![](images/d57cf76e623180c622c0ccd1cf135f729e8738f1c72ac76d09a5b5dbf562fedc.webp)
 
 ### 3BYKOBOCHHAICHATHE,PErYINPOBKA HVCTAHOBKA
-`datsun_on_do_en_63fb834a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHSTHe
 
@@ -10994,12 +10308,10 @@ CHSTHe
 ![](images/2456af6920cc0892df0f5c0f291800a663c4ff9816d78cb9abdbc5e650ba1553.webp)
 
 ### PANOMCIUVU
-`datsun_on_do_en_8e2ea288` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaBHyTpEHHenCTOPOHE KOBOTDCHT Hana Bbino THeH DDE HbIMBNHT MoxHononarb P KeHHeOTaK/My JRTOPHON OoTo E 福 BbiBOAbi 3eyxoBro cana Wmmueeon orBepTxou G TOHKNM nesenem nonperynnposans 38y HveCana.Ecnn3By xpunn Ncnabbin, a ROONTbCR npHEMnEMoro 3ByuaHHRBpaL/eHNeMperynvPoBCHHO rOBnHTa HeynaeT,3yOB CurHar HeobxogMO 3aMeHTb.
 
 ### VCYAHOBKa
-`datsun_on_do_en_043d76a7` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ta8HaM 3yKOC CHTH DODATHOA HOCJIenOBSTCAbHOCTH.
 
@@ -11008,7 +10320,6 @@ Iocne ycraHoukH nposepseM pabon 3ByKOBOrO CHrHaA8.
 出日
 
 ### 13.9.KOHTPOJTbHO-N3MEPNTEIbHSIEnPNBOPLIHAATHHKN
-`datsun_on_do_en_cb2d1a54` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bce KOHTPOIbHO-H3MePHTeTHNe HpH6op aBroMo6n cnHIOMeTp, OnomeTp, TaxOMeTp, ykaae yponH9 TOnTHBa, rakke JIHCIUea MaPuIPyTHOro KOMIbOTepa yCTaHOBeH HE WIHTKe npHGopos. TaM xe pecnoookeHbIKOHTpOHNeb.
 
@@ -11027,7 +10338,6 @@ aUK yKaTes ypO TO (Hpeepa TOuBa) yeTaHOcHBToJHBHOM MOnyne.
 Takke aBTOMO6H.Tb MOkeT 6NTb YKOMLKTOBHnTHKAM H3HOCa HaKaOKnepeaHX TOpMoHx KOnnOK. CHHal e naruka BbIBOANTCS Ha UUHTOK npk6opob.
 
 ### CRRTHe
-`datsun_on_do_en_29cd16ca` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.ToarOTaBKBcMaeTOMO6Hb K MOCHHO paool H OTCOCIHNREM KeMMy po OT OTPHuare.bHOro BHBOna aKKyMyTOPHOn 6arapeH (CM. flororoBka aBTOMOOUA K TEXHHVECMy Obc.TyBHOHpeMOHy).
 
@@ -11045,7 +10355,6 @@ Takke aBTOMO6H.Tb MOkeT 6NTb YKOMLKTOBHnTHKAM H3HOCa HaKaOKnepeaHX TOpMoHx KOnnO
 5.peo,oneasconpoeenyx pyKKHHbIXRKCaTOPOB(OHH HaeT HaHHXHHe BbICTynbI O6nKuOBKH), BblHHMBeMOOAH1IOBKyH3IPOCMBaHH rIpHGopos.
 
 ### ycranobka
-`datsun_on_do_en_75cdf984` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/d24675586040176911f1ad8695763c1db407f8758c2d3247fd9b8af0e976e956.webp)
 
@@ -11058,7 +10367,6 @@ Takke aBTOMO6H.Tb MOkeT 6NTb YKOMLKTOBHnTHKAM H3HOCa HaKaOKnepeaHX TOpMoHx KOnnO
 DROT
 
 ### 2 JATYHK HEJOCTATOHOrOVPOBHA TOPMO3HON KNIKOCTH 一 IIPOBEPKAH3AMEHA
-`datsun_on_do_en_faf078fd` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Tlpobepky narnka ypoSHee BbinonHRTECTIOMOLHNKOM.
 
@@ -11073,7 +10381,6 @@ DOT
 OBKE tesmaheco rpxneR
 
 ### Tponepka
-`datsun_on_do_en_340bb662` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 8 OTCOHM coce/byoKOnOnKy TIOBOOe OT uTKapoopoB.
 
@@ -11095,12 +10402,10 @@ OBKE tesmaheco rpxneR
 3B.CKaCM OBOK Ka 3 6- KaKCKNMaCMnaI'NK.
 
 ### EERONCIU
-`datsun_on_do_en_dfbfc027` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Eenn KOHTpOnbHaR naMna He 3aropenacb. B03MOXHO, OKNCANANCE BbiBonbl B coennHvrenbHo konogke MANHencnpaBeHnarNK. 4robblybeANTbCR B HeNCnPaEHOCTN AaTuuka, AOCTTOYHO3aMKHyTb MexAy cobon BbiBOQb coeQNHuTenbHOn KONOAKN. EcnNkoHTponbHaRnaMna3aropenacb, HevcnpaeeHaTu,NerO HeoGxognMO 3aMEHVTb.
 
 ### CasTHe
-`datsun_on_do_en_b76be783` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.BEKoM 3raHHe. 2.Orcoe KoOy ry o BONOB OTATUHKA.
 
@@ -11112,7 +10417,6 @@ Eenn KOHTpOnbHaR naMna He 3aropenacb. B03MOXHO, OKNCANANCE BbiBonbl B coennHvren
 3.OTBOpagHBaeM Kpuuky 6ayKa TJIaBHoro TOpMO3Horo UuIHHIpa.
 
 ### CHgTHe
-`datsun_on_do_en_728c8f50` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.oroTaTKaeM ABTOMOOHAb BbInOAHeHOpa6orb(c. oJroToBka ABTOMOOH KTexHineckomyo6cnykBAHHIOHPeMOHTy).
 
@@ -11125,14 +10429,12 @@ Eenn KOHTpOnbHaR naMna He 3aropenacb. B03MOXHO, OKNCANANCE BbiBonbl B coennHvren
 ![](images/16bb9de0c0a428bafd0cada74c9c03901cb7c00e904be5a25a8e31e4b96d90c1.webp)
 
 ### VeTaBOBKa
-`datsun_on_do_en_f7cc0052` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CTHaHBaCM THK Bo6parHOH TIOCACAOBaTC/IbHOCTK.
 
 2.3anyckaeMnrarenbHyexae-CHB OTCYTCTBHH yTeeK MRCT8H3-IIOIDaTuHka. TIpH HeO6XOnHMOCTH 3ame-HEM yIDIOTHHTEbHoe KOnbiO naTHM-Ka HH naruHk B c6ope
 
 ### 13.10.CTEKJIOOHNCTMTEJIN H CTEKJIOOMbIBATWIN
-`datsun_on_do_en_f04ddd91` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaaBooeon-DOi-DOyraHOBAHIO-THOMaBT POBOTD CTeKOn HaaoTOMoOe mi-DO HIONOAHNTeTHO yCTHOBUTeHbI OUCTHTeIbHOMbiBaTc/ib 3aUHeTOCTCKIa.
 
@@ -11143,7 +10445,6 @@ A OagH Om KOC T HB BerpOBoe CTCKO H3 kanore ycTAHCRACHbI nBe COPLyHKn OMbIBare. 
 CTeKIOOUHCTHTeAb 3aaHero crekTa 3KOOHHe yCraHOBIeH Ha nsepu Gara米Horo OTnenIeHHg H cOCTORTHS MOTOP-PCAyKTOpa H phraraco WeTkOk. HOaHOMaLen XHnKOCTH Ha 3aJHeeCTeK 0 BEPXHeRHaCTH nBepu 6ara)kHoro OTAC.ICHRN YOTEHOBnHa ΦopcyHka.KHaKoCrb ΦopcyHKC nonerCtOaCTHHHTpyke oT eKPOHCOCOM,yHOM6aVOKCTCKoOOMbIEaTenen.
 
 ### CRne
-`datsun_on_do_en_2ac45729` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OTOT aTOOHbK BHNONHEHHIO paboTu K OTCOeDHHACM KICMMy OT OTPHUSTCJIbHOrO B61- BOnB aKKyMynRTOPHON Garapen (CM. OnOTOBKaaBTOMOOHnKTeXHeCKOMyOOCHy\*HBaIHIOH pCMOHTy=).
 
@@ -11156,7 +10457,6 @@ OTOT aTOOHbK BHNONHEHHIO paboTu K OTCOeDHHACM KICMMy OT OTPHUSTCJIbHOrO B61- BOn
 ![](images/b4e927826c1e9758d4848a315a997b9c069c65556ead8698fd2c678098ce715f.webp)
 
 ### Pekomug
-`datsun_on_do_en_2e81043e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecpenar CNONTHa wnuax Bana nnOTHO,rO, o6bi He norHy Ban, HaxnBute ravky Ha peabOy, H pa3- DWKHbiunaccarvokaMN cnpeccyite pbiuarcBana.
 
@@ -11181,12 +10481,10 @@ Ecpenar CNONTHa wnuax Bana nnOTHO,rO, o6bi He norHy Ban, HaxnBute ravky Ha peabO
 ![](images/303155cfd6daca58e357940102426d3415072d8968f1bc153089b1f67278a026.webp)
 
 ### PeKOMCHLAIHH
-`datsun_on_do_en_ded87b63` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ECnN CTeKnIOOYNCTHenb HOBbINHnN nocne peMOHTe, pbuaru cneAyer yctaHaanneaTb nocnenHoio Dvepenb. nepeA /CTaHOBKON pbiyaroe nOAKnOYNTe K 100 ntenb 6oproBon E 98 OVR 0 BK/nIOynTe npepeisncTtlt pexnm pabotbi. KaxTonkoCreknoyM ntenb orpaGoraernOnHbiN LKn M OCTOHOBNTCR, BbIKIONNTe ero. 2 yoke nocne STOFO yctEHOBNTe pbrvarn B HNKHEM nOnOXENMM CTekna. Ecnn He yxaercR yCtaHOBnTbpluarn Tak, yTOGbICrexnooyncrnTenb paboran npasvibho, Cnepyer nepecraenTbKpnBowunHa Bany MOTop-penykropa (CM. HNxe, CTeKROONNCTNTenb BAmeea MOtop-penykropa>.
 
 ### CHSTHE
-`datsun_on_do_en_86f31625` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHHMeM CTeKOOVHCTHnb C RBTOMO6HJIN (CM. Bumie, ellepenHun CTCKOONHCTHT 一 CHSTHe H ycTaHOBKa>).
 
@@ -11220,14 +10518,12 @@ elbB
 ![](images/2ca578dd1057d967b885eb6ea9b38a685e17817908f244ededa5b8108079360e.webp)
 
 ### H10 3AIHHECTEKJIOOYNCTHTEJIb-CHRTHE H YCTAHOBKA
-`datsun_on_do_en_179dfe7c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 7.CHHMaCM MOTOP-peayKTOp, axKypaTHo BEEBOSR ero Bal K3OTBCPCTHR ABepu6araxHorooteeH
 
 4.IILHHeBOH OTePKOn CWMPOKIM Je3sHCM nourebaeM 1 CHNMaCM KpKBOUO uHueb Bana MOTOP-peyKropa 5. HaKIHHM KLONOM H 10 MM OTEOPaYHBaeMTpH6oIraKperUIeHn MOTOp-peayTOpaKKpOHUreiHy CTCKJIOONHCTHTORR.
 
 ### CHaTHe
-`datsun_on_do_en_baa39c74` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/d8f623c2642c12fad85eb84116d9adbe991070b8952ddc562dee4a9ab42b06a7.webp)
 8.IIpH HeoXOnHMOCTHC HapyHo CTOPOHEABCPKCHHMACMIHCTAHLIHOHHy10 LaAbyH PC3HHOBOC yruIOTHeHNe (rioKa3aHO CTpeIKOH).
@@ -11253,7 +10549,6 @@ HnN AyeT o4earoB nbk KnIOOTbr. 2tpaMITCR, ITOFO inoaercs CreKTbHO, Ma ke, MO
 ![](images/c77d51b252c5da56eee2b7b4dc3bf08c2107ab02e8278cd805e978d401d2b268.webp)
 
 ### Dpeaynpekkine
-`datsun_on_do_en_ca48b5fe` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nepen c6opkon CTEKnOOYNCTMTEng HeobxanMMoy6ennTeCRBTOM, YTOBan HOBOrOMOTOP-penyktopaHaxonuTCiB NCXOPHOM.NOnOXeHM.
 
@@ -11261,17 +10556,14 @@ nepen c6opkon CTEKnOOYNCTMTEng HeobxanMMoy6ennTeCRBTOM, YTOBan HOBOrOMOTOP-penyk
 4. CHHMaeM piarc Bana MOrop-peIyKTOpa(CM. epe CeKOocTHTenb-CHATHeHyCTaHOBKae).
 
 ### YCraHOBKR
-`datsun_on_do_en_62b90673` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CTHaBHBaCM CTeKIOOYHCTHTB paTHOH nocenOBaTetbHOCTH Tlepen yCTAHOBKOA pbrara KpaTKOBPeMCHHO BKIKYECM CTEKIOOVHCTHTEb. BboknaB nok3 CTEKIOONHCTHTEnb orpa6oraeT nORHbIA IWK/, 3akperiAeMH8 Ba/ty MOTOP penykTopa peluar TaK, "TObbI ierka pacnonaranacb ropH3OHTaAbHO CneBOR CTOPOHH CrCta.
 
 ### 9JIEKTPOHACOC CTEKIOOMbIBATEJIR CH8THE YCTAHOBKA
-`datsun_on_do_en_c39f2fbd` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pOBepHT HcrpaBHOcTb 3teKpoNacoca CTEKOOMbIBaTeR MOXRO,nOnas Ha ero BOnEi HaIpAceHHe 12B HeOCPEnICTBCHHOOT aKKyMyTOpHOR 6arapen. HencnpaBkbt HecocHeobxoIMO3aMCHHTb.
 
 ### CHATHe
-`datsun_on_do_en_e341ce59` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.1OIOT8B/HBaCM aBTOMO6HbK BbIOItHeKHIO paborbl(CM. [OTTOTOBK8 IBTOMOSIETR TeXHHueCKONy obeykHBBHHIOHpeMOHTy>).
 
@@ -11294,7 +10586,6 @@ ECnneaukeMHoro He3aMep3aioLen WKOCH.CLenbO3KOHOMUNMOHO CHRTb 6a4Ck OMbBaren (CM.
 5.IpOBep COCTOHe pHOOro yOTHHTenA, yCTAHOnnEHHOIOBOTBEPCTHK Gavka. TIpu HEObXOIHMOCTH 3MeHN HSBeKaeM yIUIOTHHTeab H yCTaHBIHBCMHOBbth
 
 ### CTEKJIOOMbIBATEJIRCHHTMENYCTAHOBKA
-`datsun_on_do_en_fbf84b7a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 #
 
@@ -11303,7 +10594,6 @@ ECnneaukeMHoro He3aMep3aioLen WKOCH.CLenbO3KOHOMUNMOHO CHRTb 6a4Ck OMbBaren (CM.
 2.OrCoEHM KONOAKH TpoBonon OT 3/eKTPOHacoca CTEKIOOMbIRATCIR. npenbapHrebHo ROVETHB xOJOJxy, nonCoenHHeHHyIO K BHIBOAY e+\* (Cy. Bbmenekpococ CTEKnOOMbIBaTR-CHATHC HyCTAHOBCa)
 
 ### CNnEN
-`datsun_on_do_en_f9d38b5a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnu B 6auke MHOrO He3amepaaouen KNAKOCTN, TD C uenbio 3KOHOMNN CnenyeT CHMaTb 6auok CTeKnOOMbBaTenR, He OTCOeRNHRR OT 3nekTpoHacoca Tpybky. 3aTeM epe33anBHylorapnoBuHy cnnTb KNZKOCTeBKaHNipy.
 
@@ -11316,7 +10606,6 @@ Ecnu B 6auke MHOrO He3amepaaouen KNAKOCTN, TD C uenbio 3KOHOMNN CnenyeT CHMaTb 6
 ![](images/94d8822a9db2c61300824299cbd6e3ea0d08ae5779862dca6617e4c37e7c6fdd.webp)
 
 ### oceOe.bcb
-`datsun_on_do_en_16069c2e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.onrOTa.HBM aTOMOH/b K BbInOTHeHO pa6orb(CM. eFlonrorobka aBTOMO6KIS.KTexHHYECKOMy O6CnYKHBaIGUO H peMOHTye).
 
@@ -11327,7 +10616,6 @@ Ecnu B 6auke MHOrO He3amepaaouen KNAKOCTN, TD C uenbio 3KOHOMNN CnenyeT CHMaTb 6
 8Ocnyae ecn3aMeb opcyy BbHyne npu OpLrenbH rereparype oKpy> xaioLero B03Lyxa, To nepenenonHeHveM Cnenyoen onepauN,MOKHOHeu py6u,Ha Haopyy,orperb e 6binonepxabpykeyrobbiOHaCana boreennaco
 
 ### 3.Orcoe OTopCyH Tpyky
-`datsun_on_do_en_c7570c3e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 S
 
@@ -11363,7 +10651,6 @@ V
 12. TOHKOn HrON HOBOPaUHBaEM pacnHTenb OPCyHKH Tax, TTOOH CTPyR KHIKOCTH 6NAa KanpaBAekaHa
 
 ### CHIPABOYHBIEJAHHbIE
-`datsun_on_do_en_862daef6` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 PeabobecomHHeHg neanen y3OBa BbinOJtHeHbi 60aH 1306rHOR yepoHco ra.UOeTC
 
@@ -11372,7 +10659,6 @@ TBEHHbIX COCJIHHeHHR HCIOIb3YIOTCgTepMoobpa6oTaHHbie 6ouTbl H3 neIHPOBaHHoa xPOM
 MapKHpOEaHHble CHMBOJOM Xv Ha rOiTOBke.
 
 ### OIIHCAHME KOHCTPYKIINN
-`datsun_on_do_en_127123eb` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ky3OBaTOMOON HebHOMTUHecknh cBapuok. HecymeRKOHCTpyKHH(6epat）. ChcMHbie3/eMeHThl Ky30Ba: epeHe pbLba,ano,eepu,6amnepbl.
 
@@ -11385,7 +10671,6 @@ BaMnepbI BbIIO/iHCNbI H3FUIaCTMaCCbLIepeaHHe CUCHbA 一 pa3ge/tbHbc,obopy HMC-OT
 Mecra n BOAHTCDA naccaxHpoB o6opynoBaHbi HHEPLNOHHNMH peMHHMH6eSOnIaCHOCTH,CTpeMS TOHKaMH KpenAeHHA,
 
 ### IIPOBEPKA TEXHHHECKOIO COCTOHHNA KY3OBA
-`datsun_on_do_en_3d0222d5` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Loeng paoopeercs CMOTPOBag KaHaBa HJH 3CTaKa.
 
@@ -11412,7 +10697,6 @@ BpeMeHHo OCTAHOBHTb pkasgHnyMOXHO npeobpasoR ZAMH, npeapa-IAIOLHMH PKABIHHy rpyH
 7.VCTaHO TOMOOI Ha CMOTpOByio RMy HUIH 3crakany,oce COCTOSHHeHAA HHMKHHX CHIOBHIX 3MeHTOBKy3OBa Ha npenMerItenocTHOCTH HTHIPaBHHOO OKITH H HHHA CCUOBKOPPO3H.
 
 ### TEXHHYECKOE OECJIYKNBAHNE KY3OBA
-`datsun_on_do_en_421f4a5f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CMaky nere orpaHHuencnnBe pe,aTae Okypeax ep CTI cTenyer BLUIOUIHRTE Tpn KAxIOM pHOeCKOMTexHeCKOM OOCayBAHHI aBTOMOGUTS (Kaxibie 15000 KM poera）.3aoe cahi HeOOxOMOCMa3bBarb2-3pa3aoL
 
@@ -11438,7 +10722,6 @@ Te.Ib AHO4HO CMa3bIBM netnk ApyTHJBepeRaBTOMOGEUIs,
 6.HaHocHM naCTHYHyIO CMa3Ky HB pabogyio IoBepxHocib rpaHHHeen nBepei, npyKHHy H uaPHHp nogka ropnOBHHbI TOILEKBHOro 6aka
 
 ### SNESRBS
-`datsun_on_do_en_2ea54b47` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 DyAaneHR Bnarnn3 eHyTpeHHX nonocren 5 HIKHNX yacrax nsepen V noporaxbnonnehb!penaxHbie OTBEPCTNA C 3aBNCNMOCTN OT rona Bbnycka aeromooune MX KOnnvecT8OMOKT MeHRTCR.
 
@@ -11451,7 +10734,6 @@ DyAaneHR Bnarnn3 eHyTpeHHX nonocren 5 HIKHNX yacrax nsepen V noporaxbnonnehb!pen
 ![](images/3a90ad7bc43ab07d506bb9144f68d1be2a40cbca0439350f1bd9f8ef88d3577e.webp)
 
 ### CHRTHe
-`datsun_on_do_en_c9c68e46` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.O OObK blMHeHnO pabor (CM. IOTOTOBa TOOL KTXHCKOMy CMOTPyH PeMOHTy-).
 
@@ -11471,7 +10753,6 @@ DyAaneHR Bnarnn3 eHyTpeHHX nonocren 5 HIKHNX yacrax nsepen V noporaxbnonnehb!pen
 ![](images/c503ea3e7d723e0ebd8320a388123b6355c5af1da763019aabbd58f10e6c2f92.webp)
 
 ### a5e1a
-`datsun_on_do_en_668e9c62` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 DabHenLyopaboryyAobHeeBbinon HRTSCNOMOWHMKOM
 
@@ -11487,7 +10768,6 @@ DabHenLyopaboryyAobHeeBbinon HRTSCNOMOWHMKOM
 Ang paabopkn 6amnepa Heo6xo AHMO KIONOM Ha 8 MM OTBEPHyTE ankn KpenneHA BepxHerpewerkn pafnaropa M KpeCTOBon oTBepTkon OTBEPHYTb BUHTbI KpenneHvRnpotyBOTyMaHHbxap n HXHen peLe paqnaropa.
 
 ### 3AMOKKAIIOTACHATHE,yCTAHOBKA H PETYAHPOBKA
-`datsun_on_do_en_062a3bf2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3.CHHMCM 3aMOK CO ILTK HOTOCIHHRCM THry OT 3aMK3.
 
@@ -11506,7 +10786,6 @@ Ang paabopkn 6amnepa Heo6xo AHMO KIONOM Ha 8 MM OTBEPHyTE ankn KpenneHA BepxHerp
 JocrynK 3axy 3arpyger pewerka paanaropa.
 
 ### Ioc.enoeocTh n
-`datsun_on_do_en_b937a30f` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 I.CHHMae epeAHnR 6acp puCrkaMH paaopa (CM. Bhwc). MapkepoM rIoMeHaeMTIOIOeHHe3aMKa.
 
@@ -11517,7 +10796,6 @@ I.CHHMae epeAHnR 6acp puCrkaMH paaopa (CM. Bhwc). MapkepoM rIoMeHaeMTIOIOeHHe3aM
 TEPEJHHAHOAKPbLIOK CHATHEWYCTAHOBKA
 
 ### CHaTHe
-`datsun_on_do_en_4fdde97b` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 I.InrOTaBHBaeM aBTOMOb K BHeHopabo（CM.ToroOBKa BBTOMOOHKTeXHHHeCKOMy OOCTYHBaHHIO H PEMOHTye).
 
@@ -11543,7 +10821,6 @@ H OH CMOpe3 3aaHerO KperLeHHA nepenkero nenkpbuik&.
 5.CHMaem.noaKpbLOK.
 
 ### CuRTHe
-`datsun_on_do_en_b82d5742` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1 McTHHO CAHBAeMOxTaKJaouyO KHIIKOCTb, Yrouypobenb XHIKOCTH 6bU HIDke pacWHpHTenbHoro Gauka (CM. OxIOL(aRKOCTb-3aNeHa),
 
@@ -11562,12 +10839,10 @@ H OH CMOpe3 3aaHerO KperLeHHA nepenkero nenkpbuik&.
 ![](images/b78f95440cdb1ed43046f7de30d02985dba3dc50bbf23f67edc9284c25a03d73.webp)
 
 ### VCTRHOBKA
-`datsun_on_do_en_eec1f93e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 YcTaHaBTHaaeM noJkyB o6parHon noCaCOBTenbHOCTH. AOHBAeM OxnXJauyOXHKOCTb HOpMbl（CM. OxxaogUKOcTb-3aMeH).
 
 ### CHATHe
-`datsun_on_do_en_7340fb1d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/7e07efd87897026215141cd76c1c0d0b66e71a022d3ee95ef5be5e6156c47d7b.webp)
 
@@ -11590,7 +10865,6 @@ VeTaHOBKA
 VeraHaBHM oOoKy seTpoBoro creKna oparHon noceaTCTEHOCTH.
 
 ### BETPOBOE CTEKO3AMEHA
-`datsun_on_do_en_adb638fc` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bmoese pao opeyo CHTIOMOUTHHK, aTaKoke: -OCTPOSTOUCHHIRHOM;
 
@@ -11603,7 +10877,6 @@ Bmoese pao opeyo CHTIOMOUTHHK, aTaKoke: -OCTPOSTOUCHHIRHOM;
 ![](images/f6068c79e0363213ff326f0a12a128a11ebe7440fdfefa68e1c4e5f87d99ffc5.webp)
 
 ### 3NERHME
-`datsun_on_do_en_a9cec0d9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ockonbkyMarepuanbiBbinyckaeble pa3HbIMN npoN3sonnTengMn, MoryT OTnNyaTbCs, nepeA BbinonHeHnem paboTblCenyeTO3HaxOMMTCg MHCTpyKuvei,npnnaraemonxpeMoHTHOMy Habopy.
 
@@ -11614,7 +10887,6 @@ KOMIUICKTEI (OT pa3Hhx rpon3BOAuTenet) MOIyT 6bonHeHHCTAHLHOHHbMHpOKaKaMH HOnCTe
 BKPaRHCM CAYHaC MOKHO BOCTTOJIb30B8TbCR neckOn HAH CeaPOUHOR IIPOBOOKOHJaMTPOM0,8MM OTOAyABTOMaTa THa4KeMITH.
 
 ### TlocneJOBaTeROCTb bnOTHeHng
-`datsun_on_do_en_b6e192c0` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 I.IOnrOTaBnBaCM BTOMOOHIbK BbLnOJHeHHiO paGOrb (CM, TonroroBka aBTOMOONA K reXHqecKOMyo6cnyXBAHHIOHpeMOHTye).
 
@@ -11646,7 +10918,6 @@ I.IOnrOTaBnBaCM BTOMOOHIbK BbLnOJHeHHiO paGOrb (CM, TonroroBka aBTOMOONA K reXHq
 ![](images/6b3fdd405471c4020a4eb8d427a3f8ca58454894d29cbba93adbb68169bbcc98.webp)
 
 ### CALS
-`datsun_on_do_en_9206a17c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npH OTcyCBnn CneunanHbIx pyvek crpyHy MOXHO 3aBA3aTb Ha pyyKN OTBEPTOK NAN Ha AepeBAHHbie 6pycKH
 
@@ -11677,7 +10948,6 @@ ex 4- ble pyperpy
 ![](images/126ff4fd9d07523ad7566f28a4afb780594d6345fe31bbe4a48b91df5478247d.webp)
 
 ### 3aMeyauke
-`datsun_on_do_en_335dd05a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ECnN AnCTaHLNOHHue npoknankn 3aMeHAnK HOBbIMi. ybennrecb, YTO NX TonnHa, KaKy crapbixnpoknaAOK. npn HeobxonuMocT cpexbre IWWHIOIO NACTb HOKOM.
 
@@ -11688,7 +10958,6 @@ ECnN AnCTaHLNOHHue npoknankn 3aMeHAnK HOBbIMi. ybennrecb, YTO NX TonnHa, KaKy cr
 19.IoneperpycreKlapaBHOMepHOHaHOCHMKeR-repMCTHK,OTCTynB 8-10M OT KPOMFT. Kneit-repMerHk HHOCHMBaHKOMBCOTO10-12MM
 
 ### 1P4H8
-`datsun_on_do_en_4844dd8c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/1f3590c09b130d2a3fa70549d8f4fc118cf7357c9daaeee16ce606c7d365ee2c.webp)
 
@@ -11709,14 +10978,12 @@ LloriyCKaeTCR HaHOCHTE Knev-repmeTRK Ha ΦnaHeu okoHHoro npoema Ky30Ba.
 23.OTKpiBaeM OKHa nepenHX Bepei OCTaBeM 8TOMOOHJTCe3nBHeHHg Ha BpeA BbCHXaH Kneg-repMeTHK&(CM.HHCTPYKIEHIO).
 
 ### Teeayinkaoe!
-`datsun_on_do_en_9fa86e6e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BTeeHue7-8 yacoB NCKIoTeIo GbeeiCTBR,CBRaHHbe PNCKOM CMeWEHNR BETPOBOrD Crekna. >KenaTenbHo ybenMTa BpeMn repen Ha4anom 3kcninyaraLun aeTomonna A0 CyTOK OnMartbHaR nPOVHOCTb KneeBoro cnoR HacTynaer 4epea 4-6 CyTOK (83aBNCHMOCTN OT noroAHbx yCnOBnit).
 
 24.YCTaHBaM CHTe H b nOSHCHHH noroTOBnTeJbHbix Onepaunh, neraTH. IIpKenBaCM KpOHTeAH KHOBOMyCTeKUTy 车 ycTaHBBIHRaCM Ha Hero sepkalo 3a/Hero BHJA (CM. BHypeHHee3epkano3aHeoB 4 CHXTKC H yCTaHOEKaP).
 
 ### 14.3.TEPEJIHg8JBEPb
-`datsun_on_do_en_15c274ec` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/8c53a5959fd284bad8155d571651148bfd9a71c8c0f819a668cff1c4b2d8357b.jpg)
 
@@ -11725,7 +10992,6 @@ cpe30B8 118a
 BHYIO \$IDC3-pe
 
 ### 3iMegamme
-`datsun_on_do_en_20b387b1` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TpN CHATNN CK AepN BbICOKa BePORTHOCTb nOnOMKN ee nnacrMaccoBbIx Aepxarenen, nO3TOMy nepen Ha4anoM pa6orb 3anacnTecb AOCTATONHEIM KONNUeCTOM HOBbIX nepxarenen (8um)
 
@@ -11762,7 +11028,6 @@ HBa caMOpeaa KpeEUeHHn KapMaHa n1gMeJKHX BCLEen.
 (pacnonoxehe epkreneit noka3aHO HaCHSTOR OOMBKe).
 
 ### CHRTHe
-`datsun_on_do_en_fe527e4e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OIIrOTBHBCM TOMOHLK nHeHOpa6o(C. elozroronka BBTOMOGRS TeXHeCKoMy ocyHBAHHIO H peMOHTy) CHHMaCM o6Hsky ABepH (CM. Bhiue). 3.ccaCH eM CTOOPHyO ACTHy KH sepKana.
 
@@ -11785,7 +11050,6 @@ HBa caMOpeaa KpeEUeHHn KapMaHa n1gMeJKHX BCLEen.
 ![](images/98bef842b08cec8cbc9fea2a040ed3448b2fa88e84090945790646ea2e09ea05.webp)
 
 ### 8.CHHMBe oOeKy
-`datsun_on_do_en_61caaf80` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 #
 
@@ -11804,7 +11068,6 @@ Haaeromobunec3nektporpBono 3epkan OTCoenHEM KanoAky npoBOJDe.
 yCTaHaETKEaCM 3epkaJto Bo6parHoRnocneoBaTeIbHOCTH.
 
 ### CHRTHe
-`datsun_on_do_en_bb4f4769` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 I.IIOOTRNBM TOMOCHIK RTOHeHMO pa6oT (CM IloRrOToBK aTOMOHUAKTXHHCKOMy obcrykuBAHHIOHPeMOHTy\*).
 
@@ -11817,14 +11080,12 @@ I.IIOOTRNBM TOMOCHIK RTOHeHMO pa6oT (CM IloRrOToBK aTOMOHUAKTXHHCKOMy obcrykuBAH
 ![](images/83df543381a7402f5707eb55569720bee27693b8911e3eb7aaf34df5c9612e21.webp)
 
 ### yeraHOBkR
-`datsun_on_do_en_5b41accc` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 VCTaHanIHBECM pyuKy Bo6parHon nOcJeOBaTebHOCTH, 38MCHH IIOBpexAeHHbe Pe3NHOBNC TpoKnanKn HOBHIMH HoKpbB MexaHH3MblpyKH CM3KORt THna BTB.
 
 1 巴
 
 ### CH8THe
-`datsun_on_do_en_f98344c4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.YIonroTaB/IHBaCM ABTOMOOUL KBIROAHEHHIO abOT(CM IlQuroTonkaABTOMOOFLTI TeXHHHeckoMy o6cy-BAHHIO peMOHTye).2 CHHMaCM o6HBKy IBEPH (cM.O6Hka nepe,HeR AepH- CHRTAC HycraHOBKas).3. OTCOCRHHREM TArH HapyKHoRPYHKH OTSaMKa (CM,Bbie, HapyHagpyuka IBePH -CHRTHe HyCTaHOBKa).4.KpecTOBOR TBePrkon OTBOpa-VHBaEM BHHT KperueHug BHyTpeHHCAPyHKH3aMka
 
@@ -11863,7 +11124,6 @@ D 中亚 KH
 13.CHaecaop 3aMKa (H peypOBoHe poKak, c 6 ycTaHOBeL),
 
 ### VeTAHOBKS
-`datsun_on_do_en_d10e570d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CTaHaBmBAeM3MOKOPTHOA noceOBTeHOCTHC3aB rO aC THHOHCMa3KOR.
 
@@ -11878,7 +11138,6 @@ D 中亚 KH
 ![](images/af0bb32edbcdd6fa26be690fd06a4be9c8f1558456d978fcb91bd011e676e938.webp)
 
 ### CHSTHC
-`datsun_on_do_en_f9108410` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IorOTBHaM aOMOIb K BOJHHopaGoT（C. eIlomononka SBTOMOOHLA TeeckoMy ocBHKO peMOHTye). 2. CHHMBCM O6HBKY IBePH (CM. O6HBka nepeHeR epH- CHATHEH yCraHOBKas). 3 IIORKHMaCM CTCUID no ynopa H HKCHpyeMCreKnO 9TOM TOOKHH (HAIIPHMCP,MOnADHNNCKOT4CM).
 
@@ -11909,26 +11168,22 @@ D 中亚 KH
 ![](images/58cc7dab559ce5f0a6cdf544fee949d2db748372d36b8b4607a6b4ce2aed9449.webp)
 
 ### VeTaHOBKA
-`datsun_on_do_en_2feabb4d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 YCTAHaRIHRaCM CTCKIOnOeMHHK B c6parHoH HOCHCnOBaTeabHOCTH, CMa3aBHaHPaBIHIOUyiO CTeKOnOMHHK8IJTBCTHHHOR CMa3KOR.
 
 ### CHsTHe
-`datsun_on_do_en_70affaf8` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHHMaeM OOHBKy IBCpH (CM. OHaKa nepeJHenep / CHRTHe H yCTaHOBKA). 2. CHHMaCM CTeKCnogbeMHHK (CM, TepeH cekonnex CHATHC HyCTaHOBKa-). 3.CMeu TeKnO HH3 no yliopa, HHanan c 3Hero BepxHero yra H3- BeKM CTCKTO H3PH BMCCTEC3aUHTHON nCHKOR.
 
 ![](images/2ce1976219c0afea582932c6e1342b775ccd6c05a4e8c54191576d43be7ccf1c.webp)
 
 ### Vcranonka
-`datsun_on_do_en_56336076` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 VCTaHRBCM CTCKO o6parHon nocAe,loBareJtbHOCTH, npu HeobxoUHMOCTH npHKneHa X HeMy 3aUHTHyiO nneHky.
 
 ![](images/fa772d4b80722a26ca0cfedd9e837b16a2909b0a1f5d3388fcdd3bde5b4a25fd.webp)
 
 ### Lipsavncancume
-`datsun_on_do_en_fd30de25` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bon3bexaHNe noBpexnehuRQBepu He pacnaxnbanre ee rIocne CHRTIIA OrpaHWHNTenis,
 
@@ -11945,7 +11200,6 @@ Bon3bexaHNe noBpexnehuRQBepu He pacnaxnbanre ee rIocne CHRTIIA OrpaHWHNTenis,
 ![](images/87ea4220dfd2cb64302409fe8d9d03db39ef65d15397721eca8dc6b1a17eaefc.webp)
 
 ### 3AMeYHM
-`datsun_on_do_en_302e2453` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ABePb MOXHO CHRTbBCOOpe(BMeCTe CycTaHoBneHHbIM H Hen obopynoeaHueM). Pa36npate Ncobnparb ABepb yAooHee, korga OHa yCTaHOB nena Ha aBTOMO6nnb. npn 3TOM MEHbwe BePORTHOCTb noBpennTE SakokpaCoyHoe nOkpbTve.
 
@@ -11966,7 +11220,6 @@ U OA pao opeyerCR.nOMOUUHHK.
 7.OTCOeHe y POBOOBOT BHYTPCHHe naHHBCH H H3TKeMXTyT ePes OTBCpCTHe B nBePH
 
 ### Casrke
-`datsun_on_do_en_ba107cb4` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/febdcd137a83ad9ef62265c76ad917355cece95af2107284679af8066c6d4cbc.webp)
 
@@ -11981,7 +11234,6 @@ MOTBOorpa
 10 TeM e KHONM OBOPaH OCb BePXHeR neTJIHHCHHMaeM nBCpb.
 
 ### VCTAHOBKA
-`datsun_on_do_en_ac5e87ca` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 [lokp pa6oue nobepxHoc nieteJlb H OCe nCTH KOn, ycTAHSB.UHBACM H cobHpaeM Bepb 中 06- paTHORnOCAeAOBaTeabHOCTH.
 
@@ -11993,12 +11245,10 @@ obecnegeg HaJlexHoro KOHTaKTa COnHHKbHOR KOOke \*yTa npobonon EBepH, paarblBacM 
 ![](images/97c5607f95b0bf147a60f6d26417481342cf728894e070718a1d369adc8640ea.webp)
 
 ### OEMBKA3ALHEJBEPHCHATNEHYCTAHOBKA
-`datsun_on_do_en_a1798e32` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 [Ipn CHTH HEKH K BepoTHOCTb noBpexeHHg nepaTeen. TIo3TOMy peKoMCHyecH npnobpecTI 3aracHbic pe（10 UJT., CM. O6HBKa TepeHeH-CH ycraHOnKae).
 
 ### CHATHe
-`datsun_on_do_en_65d5e3e9` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IOIOTaBaCM TOMOHb K BbInOTHeHO paOTCM. Iloaroroska BTOMOOKTeXHHCCKOMy OCMOTPyH PCMOHTy+).
 
@@ -12015,7 +11265,6 @@ Pyer pyuxy Ha Bany MexaHH3MaCTeKOTombeMHHka).
 5 CHHMaeM poserky pyukn.
 
 ### 14.4.3A/HHS.ABEPb
-`datsun_on_do_en_bee4c690` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5ecd40447033a33334f37197c409ea2957c16923668a8d94ee71e5ea4d7e13b0.webp)
 
@@ -12044,12 +11293,10 @@ Pyer pyuxy Ha Bany MexaHH3MaCTeKOTombeMHHka).
 ![](images/0757556428ce5174586e71aaf68568f30415a9b3a172beab69713274fe59f7c9.webp)
 
 ### HAPYKHARPYHKA 3AHEDABEPN- CHATHE HYCTAHOBKA
-`datsun_on_do_en_bb32520d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HapykHar pyuka 3anHen nBepH -6e3 BCTPOCHHOrO 3aMKa,p 9TOMCHHMaIOT H YCTAHABTHBEIOT ee aHaTOrK4HO onepaUHAMC pykoH nepeneA neePH (CM. Hapya pys nepee ePH CHSTVeHyCTaHOBKa).
 
 ### CaRTHe
-`datsun_on_do_en_5671388a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 5.Ha aTOMoe CMeXaHHHeCKHM CTEKIOnOIeMHHKOM CHHMaEM L B8J18 MexaHM3Ma CTeKIOnOnbeMHHKa pacnopHyEO BTyJIKy.
 
@@ -12063,20 +11310,17 @@ YCTEHaBHBCTKOOMHHK C6paTHOH nOCnenOBaTeAbHOCTH.
 6.TopONMOOMHa8MOTBOaBae Tpn raRKH KpeeHHMexaHH3MACTeXTONOZBCMHHKa.
 
 ### CTEKTO3AHERJBEPN3AMEHA
-`datsun_on_do_en_06c19d4c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 7.Te ke KOOVOM H8 aBTOMObrnee MeXaHHNeCKHM CTCKIOOnMHHKOM OrBopauMeDes An2 Eonta xperuesis CTETEKHnpaRUL CTeKICnolbeMHHKa.TOpLOBbIMKMa10 MHOTBOpavaae raly 2BepxHero KperLeHAE Hanpassiouen crekionoTbeMHHe...
 
 1. TonrorasHBaeN EBTOMO6HTL BbnonHeHHiOpaboTbl (cM.Tloroo aBTOMOGHTA TeXHHueCKOMy obCnyXBHHO HeMOHTy) 2.Pyo Cenabka n KaCM CTKOBPH 3.CHHMaeM O6HBKy IBePH (Cx. Bbre, O6HBKa 3aH eH 一 CHETHe HyCTaHOBKae). 4. Tonnes OTBEPTKOR, CHMMaey BHYTpeHHee yILOTHeHHe CreKa.
 
 ### CHRTHe
-`datsun_on_do_en_4bd0698e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/6f0ec90da75c9c43230077c0cadf040c576da10bbaa195dd2cf5a6ed175be253.webp)
 Be raKH 3KpeUCHHAHanpaJOIIHA creKNOnOMCMHHKa,
 
 ### VeraHOBka
-`datsun_on_do_en_0f4329fc` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/1ac251edb3c2ed69b571a8af45e9016fab05e81a79a7a49b29796f87028f7f1c.webp)
 
@@ -12125,7 +11369,6 @@ BOJOB H CHHMECM 38MOK B C6OeCTArAMRH3CKrponPHBOAOM.
 ![](images/553b006ed172aedda405cd36802715785e51900abb3c0ec338b3ea125df10620.webp)
 
 ### UMEVIAE
-`datsun_on_do_en_f4052bb7` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5d712aacee5f000f8931e97bca474bd0999f78ecc64ab93a00358e8c2d19f4f0.jpg)
 
@@ -12134,7 +11377,6 @@ Paabvparb ncobvparbnsepbyzobHee, xorna OHa yCTaHOBJeHa Ha asTOMO6b.fpN3TOMMEHbLW
 5.KpecTOB kon OTBOPANH-BAeM BEHT Kpee poyoHOHTATH HCHB aCTMCCOBHK-carop 2, ocB06okaeM Tsry KHOnKHfuOKHpORKH 3aMka.
 
 ### CRTHe
-`datsun_on_do_en_7cf05418` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 UKHIBeMBBCM cTekna.
 
@@ -12159,7 +11401,6 @@ paynsaCAOLIeR
 VCTaHBHBCM CTKIO D obpatnot OCROBETTHOCTH.
 
 ### 3AMOK3AIHERIBEPH RTMEN YCTAHOBKA
-`datsun_on_do_en_c1c2dd1e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 7.OrCoHeM TAry JMKa OT Hapy pyKBepH （c.Hpya pyka nBepH 1 CHATNC HyCTAHOBKas).
 
@@ -12172,7 +11413,6 @@ H xpan iKy
 山
 
 ### VeTaHOBka
-`datsun_on_do_en_db3e7642` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHHMaeM uky He p (CM. O5Hka 3aei naepn 一 CHATHe HyCTaHOBKas).
 
@@ -12183,14 +11423,12 @@ H xpan iKy
 ![](images/85a16903944871d86fbbc42b66bdcbb8aa71350cb8363b84ae0baa252d5c30f7.webp)
 
 ### CHRTKe
-`datsun_on_do_en_e543f2df` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/373291d250f7a13a69d25ab12c027212a3b24a7a8ebc4d7a67b00769ea27bc4d.webp)
 
 9.3BeKaeM 3MOK H3BCpH,OTCOenHHREM OT HerO KOJODKy KTyTa npo-
 
 ### 14a64a0
-`datsun_on_do_en_522e5eb5` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pnpa36opke ABepu CHNMNTe Co xryra npoeonoe roΦpupoBaHHbin wnaHr, axryTeblHbreyepe3OTBepCTveABEpN.
 
@@ -12201,14 +11439,12 @@ pnpa36opke ABepu CHNMNTe Co xryra npoeonoe roΦpupoBaHHbin wnaHr, axryTeblHbreye
 8.BbBopayHBaeM OCH H3 netenb H CHHMaCM Tak xC, KaK 3T0 nOKa3aHO H nepenHet IBEPH（CM. TepenHAA eepb-CHATHCHyCTaHOBKa>).
 
 ### yeTaHOBkA
-`datsun_on_do_en_a8b8aa1b` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 IIokpbB paboune noBepxHocinne Teib MOCeRaCTHUnORcMa3koM ycTaHaB.IHBaEM H COOHpEcM Bepb 8.05- parHoi nOc.ICnoBareIbHOCTm.
 
 ecneyHA Haexoro KOHTaKTa COenHHHTebHONKOOKeryTa nPOBoTon aBePu, o6pa6artBaeM ee BbIBOIN cneLuaAbHEM cpeACTBOM OYHCTKHH salHTbi 3neKTPHveCKHX KOHTaKTOB.
 
 ### CHRTHe
-`datsun_on_do_en_c418becb` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OnOTICM OOL K BbnonHcHopaboTbi(CM.floaorok aBTOMOOKTeXHHeCKOMy OOCRYBaHHOHPeMOHTy\*).
 
@@ -12218,12 +11454,10 @@ ecneyHA Haexoro KOHTaKTa COenHHHTebHONKOOKeryTa nPOBoTon aBePu, o6pa6artBaeM ee 
 3.CHHMaCMmoK.
 
 ### SUE
-`datsun_on_do_en_c11c6601` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 PaboryyECbHeeBnonHTbcnoMouHKOM. Takke Ans yaobcrea paborbl MOXHO CHRTb 3anHne koneca (CM. Koneco- 3aMeHax).
 
 ### Custre
-`datsun_on_do_en_08bd6b29` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IoroaBHBae aBTOMO6HLK BTHeHnOpabor(c. -ITOnroTOBKa aBTOMOOUR TeXHHyeCKOMy OOCayBaHHIOHPCMOHTye).
 
@@ -12256,7 +11490,6 @@ AHanOTHHOOTBOPaHBeM BHHTHC AyTOR CTOPOHbaBTOMOOLE
 6.13OTPCT Ky3OBa H3BKaCM yLiOTHHreLHyio 3arnyuKy XryrapoBOAOB POHapen OCBEIIeHHA HOMEPHOro 3Raka. BbIuBaCMXy POBOnOE H paheTHReM KOOAKH.
 
 ### LNeyHHHC
-`datsun_on_do_en_031eb170` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha aBromo6unb MOryT 6bib yctaHosneHb! ynopbiAByx TunOs. Huxe noka3aHa pabora C ynopamu 6e3 ukcaTopos. B 3anacHbie VactM OHMI NOCTaBNAIOTCA B cbope C aPOBbMnnanbuaMn. ynopbl Apyroro rvna NMEIOTHaKOHLax npykuHHbie pukcaropbr 14 nponaxynocrasngIOTCA 6e3 wapoebix nanbuee. WTa6b1 OTCOEnMHNTb HAKOHENHNK ynopa or wapHnpa, TOHKON wnuueeon OTBepTKONt vnnApyrnM NOAXOARWMM HCTpyMeHTOMoCBO6OXeM pukcarop CHNMaeM HaKOHeYHNKC wapoeoro nanbla.
 
@@ -12268,7 +11501,6 @@ Ha aBromo6unb MOryT 6bib yctaHosneHb! ynopbiAByx TunOs. Huxe noka3aHa pabora C y
 Dngycrahceknynopa,eroHakoHetHMK HapeBaioTHa apoBon naneL,He CHMMaRMkCarop 3areHanaBrMBaiTo 3awenknsahke.
 
 ### CHSTHe
-`datsun_on_do_en_3b5059fe` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.HonroTHM TOMO6H K BnOHHoa6o（C.ToTa TOMOGK reXHKecKoMy o6cnyKHBaHHIOH peMOHTy>).
 
@@ -12279,12 +11511,10 @@ Dngycrahceknynopa,eroHakoHetHMK HapeBaioTHa apoBon naneL,He CHMMaRMkCarop 3areHa
 HCHHMaCM ynOP CaBTOMOOHs.
 
 ### OEHBKAJIBEPH BATAKHOO OTJIEJIEHNH mI-DO-CHATNE HyCTAHOBKA
-`datsun_on_do_en_a4be7a82` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npn CHTHH COHBKH B BepoTHOCTE nOBPEUICHHR nepxarenen. IOTOMy eKONCHyTC rpsobpecTH 3anacHbie nepaTeTn (4 urc, CM OHBKa nepeHeR BepH 一 CHATHe H ycraHOBka>).
 
 ### CHNTHe
-`datsun_on_do_en_91d54b15` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.IorOTB.HBaeM aTOMOb X BbHCHOpEbOTI(CM. IOTTOTOBKa aBTOMOOHnRKTEXHHYECKOMy OCMOTPyH peMOHTye).
 
@@ -12308,7 +11538,6 @@ VCTAROUKA
 CTaHaBHBCN OOMKy BOOpTHOA nocleJOBaTEJILHOCTH, 3aMeHuB nOBpexHHbIe epxaTe.H.
 
 ### CHRTHe
-`datsun_on_do_en_b397d06e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OpB kpby 6araxoro e H,OeKO nO H OTCORHMTy OTBKIOUT38MKa.
 
@@ -12324,7 +11553,6 @@ CTaHaBHBCN OOMKy BOOpTHOA nocleJOBaTEJILHOCTH, 3aMeHuB nOBpexHHbIe epxaTe.H.
 4.H 'IHHKy) B o6paruon nocenoae MOCTH.
 
 ### 3aMeHa
-`datsun_on_do_en_d7b53529` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1 OTCOCHHRM TAy OT BEIKNIOVRTeng aMKa（CM abiue, BbiKuouaTen (HOHHKa) 38Mka 6ara米oro OTAenEHHR-3aMCHa).
 
@@ -12340,14 +11568,12 @@ CTaHaBHBCN OOMKy BOOpTHOA nocleJOBaTEJILHOCTH, 3aMeHuB nOBpexHHbIe epxaTe.H.
 5.YCTaHaBTHBaeM 3MOK BOpaTHO TocneDoeaTe/LHOCTH.
 
 ### PeryTupobka
-`datsun_on_do_en_1bf50286` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.YhapHOR OTBeprKOR CKpeCTOBbM HKOHCYHKOCaM 3TKyy BHHTOB KperUeHHEHKCaTOpa3aMKa.
 
 ![](images/418295682f690dd8ecc483a9430cd93aff67908fa5014f5c9b70ee988a8af0ba.webp)
 
 ### 3aMrum
-`datsun_on_do_en_67893ded` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha aBroMobune on-DO ans Rocyna BBUHTaM KPennHN Heo6xoEMMO OrBepHyTb BNHTEI μ CHRTE 3AAHOn oouexy6araxHorocrnenenua
 
@@ -12361,14 +11587,12 @@ H, Haae Hkcarop. OTFOCJHHREM KOAOnky poBonos.
 3.o OKOHyaH perypOeK,3- THBMBEHTblKpCLTCHHHKCaTOpa.
 
 ### 3AMEHA
-`datsun_on_do_en_082860b7` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aHeeCTKOaTOMOL Kte eHO KpaMkeBePH GarakHoro orneneHHE CTeKTOMOHO 3aMeHHTb,He CHHMasABCPbCaBTOMOOHTR
 
 厦 BbnO.THeHH pabot norpebyerCRNOMOLIHHK.
 
 ### oceobare.b HOCTb HOHEHHS
-`datsun_on_do_en_05be125e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1CHMae Oy pH(c.e OHBKs nepH raoro e mi-DO- CHATHe WyCTaHOBKae).
 
@@ -12381,7 +11605,6 @@ H, Haae Hkcarop. OTFOCJHHREM KOAOnky poBonos.
 4.CHMBe OnuOBKy paM nOn
 
 ### SaMCHBRHC
-`datsun_on_do_en_43116ac2` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 epennpuKnevBanveM ekna He06xoguMo ycraHosuTb cbnuoeky HaABepb
 
@@ -12390,14 +11613,12 @@ epennpuKnevBanveM ekna He06xoguMo ycraHosuTb cbnuoeky HaABepb
 6.IIocne noMepH3aUH KeR-repMTHKa nOnCOenHeN pOOna HarpeBare.tiHomy 3.1eMCHTy, rpHKIenbaMCHHa1TOPMOeHKRH yCTHB.HBACN O6HBKy RBEPH.
 
 ### ANe 9AHHe
-`datsun_on_do_en_a97cdc72` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pabora TpyAoeMkan, nO3TOMy BblnOnHATD ee cnenyer TOnbKOB kpanHEM cnyvae. uTaHnE K 3nektpoobopyAoBahuIo nsepu nODBoDNTCA no AeyM XryTaN Pooeonoe nponOXEHHEIM. no WAAHm CTOukaM 4TO6bI CHATb neepe CaBTOMO6NnA, HeobxonnMo N3ene o6a xryra npoeonos 13 E BHyTPEHHNX nonocrei, Dng 3Toro npvaerca BbIHyTb HaKCHEYHNKN BCex nPOBOAOE N3 coenMHVTenb PeK KOnOAOK MOXHO paspeaarb npcecAa, a npu c6opke coenNHMTb HaneB Ha MxoroneHHbrP KOHLbI TekepHbe Da3beMbl Deept MOK xry Tb npoeonos Aeepu BbIHyTb 43 ca noHa yepe3 OTBE xy3oBe. ns aroro XOAV D CHAB na/kM 3aqHuk CToek xy3oea, pasbenuHutb pasobparbonogkn xryToE ripoSOAOs DeePu Pabora nokasaha VaCTuyHoiipaabopkougeepn
 
 Bnoen pao norpeyerCATIOMOUHHK.
 
 ### CHaTHe
-`datsun_on_do_en_b5626bc6` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHMe OHy p （M.eO6HBKa JBeDH 6araHoo HHAmi-DO 1 CHATHeHyCTAHOBKas)
 
@@ -12446,7 +11667,6 @@ oce3eneeHRpoBoncBTpyOK He3aybeBabLHye DONKHbI OCTaTbCReDBePAX.
 13.AHOKaH3pH neeyo setebryranpoBonoB. 14.oCTaBHB epeBHHyIO peRy, OTCOenHHgeM OTIBtpH ra3OBbIe ynoph {cM.Ia3obe ynop BepH mi-DO CHRTHCHyCTAHOBKas).
 
 ### IpeaynKmne!
-`datsun_on_do_en_6960562d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Lanbhenwve onepauun BbInonHReM C NOMOWHNKOM. KOTOPbIM AOnXEH BbInOnHUTb aHanorwHbe AeNCTNR HaApyroii CTopoHenBepN
 
@@ -12458,29 +11678,24 @@ Lanbhenwve onepauun BbInonHReM C NOMOWHNKOM. KOTOPbIM AOnXEH BbInOnHUTb aHanorwH
 ![](images/2cf94c3e16fe6e8fb34385228c5fa59c28e88be29b845005ce9c2d335804285a.webp)
 
 ### INES
-`datsun_on_do_en_2b81944a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 be3 kpanHetHeoGxouMocvHecneny. eT OTCOenNHTbnenu OTKy30Ba. favkn KpenneHR neenb 3akpeTb obnekoi nOTonka,KoropaRnpuKneehaKKy3oey.
 
 ### yCTaHOBEA
-`datsun_on_do_en_97ed300c` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ycranan IHBSEM nBepb B COpaTHOn nocnCnOBaTenbHOCTH. TIpu yCTEHOBKE HOBOA aBePH npOBOnanPoTsrHnaeM noMouIbIO MCIHOR HTH TOHKOR HMeTPOM 0.8 MM) CTahHOR npoSOnOKH. IIposona COCJHHREM CODTBOTCTBHH CO CDe.TaHHbIMH MeTKMH, nHbo coricHo cxeb nekpoo6opyDOBAHHSTOMOOn.
 
 ### BHYTPEHHEE3EPKAIO 3A/IHEIO BHIA 一 CHATNE HYCTAHOBKA
-`datsun_on_do_en_f8ee6b86` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BHyTpeHHee sepkano 3aJHero nuuanPHKICEHO K BeTPOBOMy CTCKy. IpH3aMcHe BeTpoBoro CTCKna HeobxodnMonepey OBHTE epka.to. Lng BbITTOUI-HCHHR TaKOnpa5otbi HCOGXOIHM cre-LHaTbHbi KreR / CTeK/IS. B nPoa-OKC HMeIOTCR CieLHE aibHbie PeMOHT-Hbe Habopbt nPHKICHBaHHs 3epka-na TlOMHMO KeRHabop, KaK rpaBuno,yKOMIL CKTOBAH HAKIANHON 6ymaron,CKpe6KoM HcanperkaMH KOTOPbIenpo-IHTEHHI CreUHAJIEHhIMECOCTaBAMH.
 
 ![](images/40141766dae78c37464e4b865b1fe6f6888bbacb2aa48136b34ced7296e4d2ac.webp)
 
 ### Ipeayubexneine
-`datsun_on_do_en_8f662e71` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pa6ory Heobxonvmo BbirionHetb ipu TeMneparype oxpykaioueroBoanyxa 10-25 ℃ Tak KaK CsOuCtea npenapatos, BXOARLINX B KOMnneKT, V paannuHbix npoN3soAnrenen MoryT OTnNHaTbCA, npuBbInonHeHnnpabotel HeobxoQNMO CneoBaTb NHCpyu npwnoxeHHOn Ha6opy Huxe Aab 6uve pekoMeHnauunno ycaHoeke sepkana
 
 ### CRatHe
-`datsun_on_do_en_830586df` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 I.onrOraBHBaCN aOMOOnb K BHenHIO paott H OTCOEDHHAeM KIeMMy CT OTPHUaTeJbHOrO BbIBOn aKKyMynRTOPHOR 6arapcH (CM. \*TlonroroBka ABTOMOOHIRKTCXHHVCCKOMy O6CAyHBaHHIOWpeMOHTys).
 
@@ -12493,19 +11708,16 @@ I.onrOraBHBaCN aOMOOnb K BHenHIO paott H OTCOEDHHAeM KIeMMy CT OTPHUaTeJbHOrO Bb
 ![](images/ca0b8e1f214b4ca065cd101ab1e35747752377a0b29edabb7733d5237265660b.webp)
 
 ### PNEONCWAQUNS
-`datsun_on_do_en_b2c3d3cc` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pu CbuBaHuN KpOHLTeHa CTeO packanbiBaerce nO3TOMy CHuMaTb KPOHWTeNH cneayet CyxeAeMOHTNpoeaHHoro crekna.
 
 4.3y6HOM CCM KOUHCO CTeKna.
 
 ### YeraMOBIa
-`datsun_on_do_en_89d72b9b` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.VaAeM OCraTH CTeKna C KpONTHHa N 3aM HaavHo 6yaTOR nOBePXHOCTb KPOHHITenHa, npcaHa3HaYeHHYIOULRHaHeCeHHRKTeR.
 
 ### Apeayapoxo
-`datsun_on_do_en_f2cd85e6` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CandeTKN cnenyer ucnonb3obarb 8 TeveHne LByX MUHyT nocne BCKpbiTNR ynaKOBKN.
 
@@ -12526,12 +11738,10 @@ CandeTKN cnenyer ucnonb3obarb 8 TeveHne LByX MUHyT nocne BCKpbiTNR ynaKOBKN.
 ![](images/598f071b4f4427ba3a7555e7c094e62bba10195ff6dcbcbff49fc4eaa267312e.webp)
 
 ### Eerpekatunel
-`datsun_on_do_en_17aaca28` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TepeAycraHoBkoi 3epKanaHaKpOHuTeiHHeo6xoQuMOBbOKnaTb HeMeHee 30MMHYT. 7.TaHa HapOHe 3p KaNOH3aTArHBaCMBHHTKpeIUIeHHA.
 
 ### CHaTRe
-`datsun_on_do_en_91090e2d` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.TOrOTa/BM 8BTOMOOHIb 专 BIHeHnDpaboTb（CM.ToaroOka 3BTOMO6HngKTeXHRICCKOMyOOCNYHBaHRIO HpeMOHTy>).
 
@@ -12554,7 +11764,6 @@ BOpayHBaeM BHHT 3aHerO KpeLHH HUOBKH TYHHeAEnOa
 ![](images/4cac8a52b7f64e2886d975340a35d4509ce4f66200494de268fdf48249d91e00.webp)![](images/4e5589173a5210e50bdec323e5a169b78c150cc582d1bf8306d54bc6947dd07a.webp)![](images/d4047c0026edec5e55af8616852f72d76e4797d721b34a3559aff7e3e477f300.webp)
 
 ### 亿51 OTTHCAHHE KOHCTPYKLNN
-`datsun_on_do_en_7e00fb42` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHCTcMa BCHTHAAUNH H OTOLICHHA CaOHa aBTOMOOHA 一 rPHTOVHO-Bb1- TKHAR、P TOM JU OTOLICHHRCaTIOHA NCNORLSyeTCs remneparypa HaCPeTOR CBbILue90 CUKOCTH H3 CHCM OXAXHBHTA
 
@@ -12565,7 +11774,6 @@ BbIDkka cycceapexeHHA, BO3HHKaOLro BOe 3aHeR 4aCTHKy3OBa rIpu JBIOKCHHN SBTOMOOH
 O6orpescaoHa ocyecTecH Orowrestex, YCTaHOD ICHI KO naHenbio ripuOopos, IpH Sore areLA HarpeTaR KHDKOO KICHHA LpKyn OTOIHTE/A, Harpeb 1 Hero BO3- yx O NY npoxomuero yepes utHaTOP DOX ero 3AnaeTCA OnHTenR, TKH pe Y HOBTeHHOOHa IPHbopob acnpenc/teHHe 国 OH IHpoBaTb ICH) CHM 3aC.TOHKaMH pacrpeneJeH BO3JYWHbIX nOTOKOB, TaKOkeToBopoTOM 33C.OHOKHHanpasUtoukx nOnaCTeR BCHTWRUHOHHEIX peueTOK naHeHnpHbopoe.
 
 ### 15.1.2CHCTEMA KOHIHIIHOHNPOBAHNR
-`datsun_on_do_en_fb5f1e93` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npH nepexosc XnanareHta R3 ra3006- Pa3HOrOCOCTORHHR XLIKOC, croTeMnepatypaCyeCTBCHHO cHHKaeTcR.
 
@@ -12582,7 +11790,6 @@ KaraH HeOcTroHHoro/H6brouHOrO RABACHHA CAyKHT DTA OTKTIOHeHHA KOMnpcccopa KOHZHU
 TCMC,H9TOM 3HAUMTeTSNOOXIAXnaR ero. OxTaxeKHbIR XaJareHT nocTynaer B:HcrapHetb,rne OTOHPaRTeTUIO yBO3Iyxa,HarHeraeMoro 3nexiposeHTHARTOPOM IHMTHECKORyCTaHOBKH BCaSOH,CHOBa nCpeXOIHT ras0o6pa3- HOCCOCTORHHC.
 
 ### Ipeaynpev/eme!
-`datsun_on_do_en_9b9d24d5` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 p BavMoeuCnn Cecu xanareHta G so3Ayxa OTKPbITIM OrHeM c6paayIoTcR peaebHaiHo RAoentbe Bewectea! ro3TOMy, npu pabote C KOHANLHOHEPOM kaTeropuveckn 3anpewaetoR KypuTb M pa3\*urarb OrOHb! Ipu yreke xnaqareHta cpa3y npoBeTpvtenoveujeHnel
 
@@ -12599,26 +11806,22 @@ CHCTN KOUHOPOA -pacupe2-na3-ce a3o4-pop5o neHcop):6 peCcP-ccyu7-KnH Hcaoro/H3bTo
 CHCTeMy  y H3Hee xaanareHT HeO6XOnHMO noMOLbio cneunalbHOA 3aPAHOR CTAHLH, HMeotteHHaCOCDA yHHA H3 CHCTeM BOaayxa HHnOTOMy 9TOCneyT DO CneLHE.IH3HPOBaHHOMyCCPBHCy.
 
 ### JursbexeeuHe!
-`datsun_on_do_en_83093e69` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Losanpaengtb cncremy KOHEINLNCHNPOBAHMs Bc3Llyxa nanareHTOM cnenyere aBToMo6unbHbx TexHM4eCKux ueHTpax B opraHn3aLugx, c6cnyxuBaounx Gbiroebe CuCreMb KOHQNLUOHUPOBaHNRNXOnIOANnbHbie ycraHOBKM, NCnonb3yIOTCA xnanaHR12 R22. CMewWBaHne XanareHtos paanuuHbix unos He AOnyckaeTCAI
 
 Bnpouecce SKCrLTyarauNH ABTOMO6H 3eKTHBHOCTb KOHIHINOHNPOBEHHA BOSJyxE CHHKBCTCR. M3-38 BbICOKOA nPpOHHKAIOWCR cHoco6HocTH XIaaareHTa, ero KO.HNCCTBO nake BMCTHHOCHCTMC NOT38 TOX yMeHEIHTLCR Ha 15% Ile3TOMy CHCTeMa KOHIHIHOHHPOBAHHR rpeGyerperyAApHOronpOdHRaKTHgecKoroocyKHBAHHA
 
 ### Ugebnpessu
-`datsun_on_do_en_e2fbcb9a` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HeBKnoaiTe OHquepeCWBHeMManoxnanareta-3TonpueouK EbixOny HaCoca vG CTpORi
 
 JA HOPMAIbHOR paOT CHCTe KOHH UHOHHPOBEHHg PCKOMEHayeTCR nepHOAHUeCKH SRMCHHTS EIbTP KTHMATHUCCKOR CTAHOBKH(CM.HYKe),pas BCe3CH OUHMAT KOHIeHCOP OT rPs3H, MeKoro Mycopa HHaceKOMEIX aTaKxe, He pexe OHoropaa B ron, ONHLars HCTpHTenbKHMaTHHeCKOR ycTAHOBKH.
 
 ### EROMLUULD
-`datsun_on_do_en_2e50ce1b` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ane npogneHuR cpoka cnyxbbi CcTeMbI KOHMLHOHPOsaHH nepHOAveCKu. naxe npvHuakux TeMnepaty pax, Ma HeCKOnbKOMMHyTKnIOHaHTe KOHCVLNOHEp. 9ra npoueaypa no3- BONT cOxpaHVTa CMaiy Haeranex KOMpeccopa uf yNnOTHEHMAX CucTeMblnabexab nepexneroB N.yTeHkuxnanarente.
 
 ### TIPOBEPKA TEXHHYECKOROCOCTOSHH CHCTEMbIBEHTHTAUHN HOTOILJEHMA
-`datsun_on_do_en_fb4b10c3` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OOn OO K BbHeHO aT（C FIonroToBka aBTONOOHnR TeXHecKomy o5cnyBHHIO HDeMOHTy).
 
@@ -12639,7 +11842,6 @@ Ane npogneHuR cpoka cnyxbbi CcTeMbI KOHMLHOHPOsaHH nepHOAveCKu. naxe npvHuakux T
 9.noBopauaeN pyuy perysro pa remneparypu B CHHHR ceKtop - cArOH DOJKen nOATH xOJOUKbIR B03- Ayx. Ecnn TeMneparypa HC nCHKXaCTCA,3HaT, HCKCnPaCHnPMBOIueHTPATHOR 3aCIOHKH
 
 ### CHTHe
-`datsun_on_do_en_66e79e05` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.oTa aOOLKBOJHeHHIO paboT(CM. TomroroBkaBTOMOGHRK TeXHHeCKOMy OOCNYH-BaHMOH DeMOHTy).
 
@@ -12659,14 +11861,12 @@ Ane npogneHuR cpoka cnyxbbi CcTeMbI KOHMLHOHPOsaHH nepHOAveCKu. naxe npvHuakux T
 6.CHHMaMyu 3eH.
 
 ### VeTaHOnKA
-`datsun_on_do_en_ec861aae` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 VCTHBHBaN HyO a MCHT oGPaTHoR nocne,oeaTenbHocTH. IIpn 3TOM STHKETKE, HEKICCHHAA H3 ero PEMy 6bITb o6paneHa K nepeaneh YCTH8BTOMOOHR actpenKaHE3THKeTKe HaIIPaBJeHE BHH3.
 
 ![](images/48acc19906670f381c32bee18f89cfc9b4657bd2e37f92fad0f73c1bdfae4797.webp)
 
 ### CnRTHe
-`datsun_on_do_en_f8013369` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 I.flOIrOTaBAHBaCM RBTOMO6H/b K BbITIO/HeHHio paGotbI (CM. TlOAroTOBKA ABTOMO6U TeXHuecKoMyo6cnyHBAHNIO peMOHTyo) 2. OTKPHIBaEM BCICBOR RIIHK, 3 BuoJHM H3 3uenHHA AB or PAHHYHTena, BbITIOUIHEHHEEX Ha 6okoBIX CTCHKaX BCUeBOrO HKa S CHHMCM nICBOR HUHK, BNBCerO HHKHHe yOpbl H3 3aLeeH COCRMH.
 
@@ -12687,7 +11887,6 @@ yCTaHOBKA
 VCTaHaBAHBRCM HONOAHHTEJIbHNA peSHCTOp8 opaTHon noCeobaebHOCTH,
 
 ### KINMATNYECKON YCTAHOBKN 一 CHATHE HYCTAHOBKA
-`datsun_on_do_en_b471526e` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 IIpoBepnTb HCrPaBHOCTb 3IeKTPOBCHTHUITOPA MOKHOnOAaB HB erO BblDO161 HanpaKeHe 12 B OT aKKyMytropHo 6arapen.
 
@@ -12704,7 +11903,6 @@ pyron cnoco6 一 CHHTb 3.ckipoBHTOP  nPOBeK HoB 9TOM cTyuae nepex HCTIbITAHHCM e
 Bo n3bexanne TPaBM BO epEMR nOonAyn HanpRXeHna He poTparuBanrecbAOKpbHaTk.
 
 ### CH8TMe
-`datsun_on_do_en_30f5f645` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTOTaB/THBCM 8TOMO6HIbK Bepao o TOMOOLKTeXHHeCKOMyO6CnYB8HHIO HPCMOHTys).
 
@@ -12727,7 +11925,6 @@ YcraHOskA
 YCTaHHBM KTPOBCHTOP 3o5parHon nocneoBaeiLHoeH.
 
 ### CXEMbI JIEKTPOOBOPYIOBAHNA
-`datsun_on_do_en_9f575227` | on_do | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/ac1f56e16c8df0263791f81653fc38011387a00c5a512ac3ff4a7219a071351f.webp)
 CxeMR yapas JIEHM ISHTXTETEN. CSCNB HrAHNN nepboropa CBCuD HHHTOPOOHKUp; -Cncia 3AKHTAHHN e1 CACHA IraHHF nT pioro ULTHHAPa; Φopcysk nepsorouk nHapa cn BTOPOTO UIHHPA; UIM 3SOOHTHSo LETHHK CKoPoCTHaBHipu LH AT2H LEHHS HXP HHTe7
@@ -12776,4 +11973,3 @@ HawNKHnrn nOMOryT BaM npn akcnnyataunn, wcnynBaHnn N PeMOHTe Bawero aBTOMO6NA
 CnOnHbIM accoPTNMeHT TET ybi ebi MOKeTe O3HaKOMNTbCHHa caMTe www.miravtoknig.ru 店 (495)983-30-54,782-16-23,937-78-81
 
 NHTePHeT-N -Mara3NH: www.kniga-auto.ru
-

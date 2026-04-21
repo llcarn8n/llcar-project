@@ -1,3 +1,10 @@
+---
+brand: ssangyong
+model: actyon
+generation: gen_2006
+source: kb
+---
+
 # GENERAL INFORMATION
 
 1. DIMENSIONS... 2 2. SPECIFICATION. 2 3. VEHICLE IDENTIFICATION.. 3 4. MAINTENANCE INTERVAL 4 5. RECOMMENDED FLUIDS AND LUBRICANTS... 8 6. JACK-UP POINTS. 9 7. PIN ARRANGEMENT OF DIAGNOSTIC CONNECTOR.. 9
@@ -7,8 +14,6 @@
 1. HOW TO READ ELECTRICAL WIRING DIAGRAM..
 
 # GENERAL INFORMATION
-
-# 1. DIMENSIONS
 
 Unit: mm
 
@@ -300,8 +305,6 @@ It is installed under the instrument panel and consists of 16 pins
 
 ![](images/f629b11bb38858e23be921357e400cc53d5f4253dc4053cf4d0d6b59b24ddd21.webp)
 
-# ELECTRIC DEVICE GENERAL INFORMATION
-
 # 1. HOW TO READ ELECTRICAL WIRING DIAGRAM 1) HOW TO READ ELECTRICAL WIRING DIAGRAM
 
 ![](images/f421c2e3ce929d9927551d15abe232d1b48a070d3bcb64a4f61fc7fefd00b6cb.webp)
@@ -356,8 +359,6 @@ Ex.)C102
 ![](images/9f75e22515c8a806cf2e0efb32dbc1964729dfc4602fcbef90f87c27fa6c26b6.webp)
 
 # CONNECTOR/GROUND
-
-# WIRING HARNESS
 
 0000-00 WIRING HARNESS, COMPONENTS LOCATION..
 
@@ -429,8 +430,6 @@ S302
 Courtesy DiverrR BrW C-35 BrW © 2\$ C901A RG CombiampH   
 CouPasynar PR BrW C361 5 BrW 10- 3 RG CombiampH   
 Stop Lamp SW "2" Y ^\$ RG C2\$ RG TGS Lever "10" (5-A/T) Combi Lamp Y \${2\$ 5\$ RG ← Parking Aid Unit "14" LH/RH "2" ABS Unit "41" Y 13\$ 0 RG C20\$ RG Auo imiin 14- RG C20\$ RG Cluster "A16" (M/T) □
-
-# 5) CONNECTOR
 
 # WIRNING CONNECTOR
 
@@ -515,8 +514,6 @@ Power Outlet Puran e Fuel Pump (FRT/RR DR) HLLD Chime Bell ②② ил (GSL) ①
 
 # 8410-00 ENGINE ROOM FUSE / RELAY BOX
 
-# 1) UPPER
-
 ![](images/99a0651ee7332c95d99057126200c2becb82542479e8d938d4264e62b7b3004a.webp)
 
 # 2) LOWER
@@ -549,8 +546,6 @@ F24 F41 O/Side MRR SPARE SPARE A/BAG DIGITAL CLOCKK SPARE SPARE 10A 7.5A SIROOF 
 ![](images/6e92f2650ca712f835b7fc7d16deb4b0b3432122ba4e2bed36b7685f5113c308.webp)
 
 ![](images/262ef009a32b8eab3d72ef81680e828b137393f2ca4b4661552b693b6e64cc20.webp)
-
-# ELECTRICITY DIVIDE
 
 # 8410-00 ENGINE ROOM FUSE / RELAY BOX CIRCUIT
 
@@ -824,8 +819,6 @@ B 7 8 9 10112 B 12410117 1 с 171112
 с 1 2 3 4 5 6 7 8 9 10 TCU (5-A/T) TCCU STICS 9 1011 12 13 14 15 16 1920 TCU(6-A/T)
 
 ![](images/e5e423b459568f0b3ba4d360ed67d8335dedb6695ac96be5934f0bfc05cfe065.webp)
-
-# 3110-00 TCU (6-A/T)
 
 # 1) START MOTOR, TGS LEVER, INHIBITOR SW
 
@@ -1483,8 +1476,6 @@ B \* 123456 123456 123456 12\$ D20DTR(EU-V)ECU Intake Motor Mode Motor Air Mix M
 
 # GENERAL INFORMATION
 
-# 1. DIMENSIONS
-
 Unit: mm
 
 ![](images/bc617ec6241ffcb0294ad8b7738bdb182163bde73066b9121f68c5426b223792.webp)
@@ -1823,8 +1814,6 @@ B W/H RR |W/H T/M WHRR C207 LHDR W/H FUEL SENDER RHDRR C206 C208 AL ● G304 W/H
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. GLOSSARY
-
 ![](images/eb2b1580f46501e2c5754e0ba3606d30b962838843081edeb05683ec87ea882c.webp)
 
 ![](images/2a4b82495c0e33fb126a8cb73a58883fce16e2ea713c1f7e4f6aaae9ca0ffb7e.webp)
@@ -1879,11 +1868,7 @@ B W/H RR |W/H T/M WHRR C207 LHDR W/H FUEL SENDER RHDRR C206 C208 AL ● G304 W/H
 
 ![](images/bac4de423f875e4c2e981423654a1d48c5fe350580fb40ea10278e3c028e3fda.webp)
 
-# ENGINE GENERAL
-
 # GENERAL INFORMATION
-
-# 1. ENGINE LAYOUT
 
 ![](images/40274bc5926963840573f0f191ca875bc682359a9b66c3c29b2c49145ff0d01f.webp)
 
@@ -1942,13 +1927,9 @@ Frequent stop-and-go trafic, extended idling, short driving distance below 6 km,
 
 # 4. CAUTION WHEN SERVICING THE ENGINE
 
-# 1) Cleaness
-
 Engine has a lot of precisely machined (grinding, polishing, lapping) surfaces. Thus, there should be great cautions for cleaness when servicing the engine components. Apply the engine oil on the sliding surfaces when assemblying the components. Every component should be disassembled and reassembled in accordance with the correct sequences. Before servicing the engine, the negative cable should be diconnected from the battery. Otherwise, some electric or electronic components could be damaged.
 
 # ) Servicing
-
-# CAUTION
 
 -Before service work, be sure to disconnect battery negative (-) terminal to prevent damages by bad wire and short.
 
@@ -2028,17 +2009,11 @@ Never remove the coolant reservoir cap when the engine and radiator are hot.
 
 # 7. CODING AND INITIALIZATION
 
-# 1) Engine Variant Coding
-
 ![](images/4ec8f2b046580d8f98acf0da3dfc26dacf0dddb6198c33fbba10fa3355dc6ff2.webp)
 
 ![](images/8386a883e2e777939be4a91a494d611eee62353945de55d78a2a49de868e0bb6.webp)
 
 # D20DTR ENGINE ASSEMBLY
-
-# GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/ec639c887d651ef6b790bb61fd3749c5b6810bf0ae2dfa7482712f4d7888bd5b.webp)
 
@@ -2203,8 +2178,6 @@ Currently, the engine has a lot of electric devices. there could be poor engine 
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. BELT LAYOUT
-
 It is single drive type and uses FEAD (Front End Accessories Drive) design to make a compact layout.
 
 # Components
@@ -2216,8 +2189,6 @@ It is single drive type and uses FEAD (Front End Accessories Drive) design to ma
 ![](images/0df2a0528f584a94af1dcd822e9c8859e0bb3d6f4b889bdcb8dcf96a1fddaeda.webp)
 
 # 1Crankshaft Pully (Isolation Damper)
-
-# (1) Overview
 
 The strut type tensioner automatically adjusts the belt tension to provide the reliability and durability for the system. And, the belt tension is decreased to minimize the friction loss and improve the belt operating noise.
 
@@ -2239,8 +2210,6 @@ The strut type tensioner automatically adjusts the belt tension to provide the r
 ![](images/937d1201ee5a32daebff2aaf5c8cc3b31b0c843b394d5878fb8833ae1a5e939f.webp)
 
 # 2) Belt Tensioner
-
-# (1) Overview
 
 The torque deviation from crankshaft affects the components in belt drive system and the belt movement. The auto tensioner system is to adjust this deviation automatically. In D20DTR engine, one of the mechanical tensioner, pivot damped tensioner is used to keep the damping force, system reliability and durabilit. The single belt drive system needs to use the automatic belt tensioning device to transfer the power to pulleys efectively. To get this, the tensioner uses the spring and damping unit.
 
@@ -2290,8 +2259,6 @@ D20DTR engine uses 3-point mounting type that supports the engine and transmissi
 
 # 4. INTAKE/EXHAUST MANIFOLD
 
-# 1) Intake Manifold
-
 Intake manifold is installed on the cylinder head with 8 bolts. The variable swirl valve is introduced to improve the EGR gas mixture and turbulence in combustion chamber and to decrease the exhaust gas.
 
 # Components
@@ -2314,8 +2281,6 @@ Exhaust manifold is installed on the cylinder head with 10 stud bolts and nuts. 
 
 # 5. CYLINDER HEAD COVER AND OIL SEPARATOR
 
-# 1) Cylinder Head Cover
-
 The cylinder head cover is made by high strength plastic to reduce the weight. The multi twist type oil separator improves the oil consumption.
 
 # Components
@@ -2325,8 +2290,6 @@ The cylinder head cover is made by high strength plastic to reduce the weight. T
 ![](images/a9ed57d383cbb15a1594d703b243576370a6a9d7eb186dd40eece4605f5786cb.webp)
 
 # 2) Oil Separator
-
-# (1) Overview
 
 Oil separator separates the particle in blow-by gas to minimize the engine oil consumption and reduces the inflow oil from intake system into the combustion chamber. The separated oil returns to oil pan through cylinder head.
 
@@ -2348,8 +2311,6 @@ Cylinder head contains cam position sensor, vacuum pump, intake manifold, exhaus
 
 # 1) Cylinder Head
 
-# (1) Overview
-
 The cylinder is made by gravity casting and the water jacket is integrated type.   
 The cylinder oil passage is drilled and sealed by cap.   
 The Camshaft bearing cap is also made by casting and installed on the cylinder head.
@@ -2365,8 +2326,6 @@ The Camshaft bearing cap is also made by casting and installed on the cylinder h
 # Closed flow type water jacket (improving cooling performance)
 
 ![](images/5626e4ae83b53dca59cf3d6e4c6ec76f288b6efcf644a9b3cd31b77e0e478069.webp)
-
-# 2) Camshaft
 
 # (1) Overview
 
@@ -2397,8 +2356,6 @@ consumption at high speed)
 
 # 4) Cylinder Head Gasket
 
-# (1) Features
-
 1. Sealing the cylinder gas pressure - Peak pressure: 190 bar   
 . Minimizing the distortion of engine structure (cylinder head, block): profile stopper, backland stopper Material: MLS (Multi Layer Steel), Gasket (3 layers)   
 3. Thickness of gasket: 3 types (1.2 /1.3 /1.4 mm)   
@@ -2421,8 +2378,6 @@ There are three types of gasket to managing the compression ratio.
 D20DTR engine uses single stage chain drive system. Timing chain drives the exhaust side and gear drive the intake side. Timing chain is single bush type. Upper chain drives HP pump connected to intake Camshaft by driving exhaust cam shift sprocke, and lower chain drives oil pump to lubricate the engine.
 
 # 1) Chain Drive
-
-# (1) Overview
 
 The drive chain is single chain drive system with simple design and variable performance, and it utilizes the hydraulic tensioner to reduce the wave impact generated by the chain. This chain is light weight and has high durability through single bush chain. Shoulder bolts are used for better NHV.
 
@@ -2615,8 +2570,6 @@ Snap pin -Locks the piston pin.
 
 # 2) Connecting Rod
 
-# (1) Overview
-
 Connecting rod converts the reciprocating movement of piston to the rotating movement of crankshaft. The big end is connected to connecting rod bearing and the crank pin journal, and the small end is connected to the piston pin.
 
 # (2) Components
@@ -2691,17 +2644,11 @@ The engine oil from oil pump is supplied to the main oil gallery through oil cha
 
 ![](images/8282b38d19a78a4aeb2ae906c894672621d52bfeef264304923c6994b94be671.webp)
 
-# FUEL SYSTEM
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/7ddb4791b4e679dd9291783d0531e03c835f3cb9872d0c2024ad37d99105111f.webp)
 
 ![](images/ffdbd17a6cf2f0d7ba69727983c2c2c21e257a1a69d500502acb48c3232084b0.webp)
-
-# 2. MAINTENANCE AND INSPECTION
 
 # 1) Maintenance Procedures for DI Engine Fuel System
 
@@ -2764,8 +2711,6 @@ Plug the disconnected parts with sealing caps, and remove the caps immediately b
 ![](images/8771f76be16671a87658ee71b845256c827e83fa639a07e753e6553b0386b917.webp)
 
 # 2) Diagnostic Test for Engine Fuel System
-
-# (1) Overview
 
 If a DTC is displayed on the diagnostic device, check the low pressure- and high pressure fuel systems before removing the components.
 
@@ -2976,8 +2921,6 @@ This test consists of 4 cycles, and the engine rpm reaches 3,500 rpm for 18 seco
 
 # 3. CAUTIONS FOR DI ENGINE
 
-# 1) Cautions for DI Engine
-
 This chapter describes the cautions for DI engine equipped vehicle. This includes the water separation from engine, warning lights, symptoms when engine malfunctioning, causes and actions.
 
 # 1.DI Engine
@@ -3003,10 +2946,6 @@ Also, the driving force of the vehicle decreases (torque reduction). If these co
 
 ![](images/96222265b5f1d1fc40bca209cd1df44b3657b28bd9912ce66bb9d1eca585469f.webp)
 
-# 2) Cleanness
-
-# (1) Cleanness of DI engine fuel system
-
 # Cleanness of DI engine fuel system and service procedures
 
 The fuel system for DI engine consists of transfer (low pressure) line and high pressure line.   
@@ -3023,8 +2962,6 @@ The core elements of fuel system has very high precisenessthat is easily affecte
 ![](images/b92ee402c2a61ede01f2380d8fa80d5e659eb3b73535d693460ead10792ebc74.webp)
 
 # (2) Di engine and its expected problems and remedies can be caused by water in fuel
-
-# System supplement against parafin separation
 
 In case of Diesel fuel, parafin, one of the elements, can be separated from fuel during winter and then can stick on the fuel filter blocking fuel flow and causing difficult starting finally. Oil companies supply summer fuel and winter fuel by differentiating mixing ratio of kerosene and other elements by region and season. However, above phenomenon can be happened if stations have poor facilities or sellimproper fuel for the season. In case of DI engine, purity of fuel is very important factor to keep internal preciseness of HP pump and injector.
 
@@ -3050,8 +2987,6 @@ To separate the water from the fuel filter, remove the fuel filter assembly firs
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. OVERVIEW
-
 The components in fuel system supply the fuel and generate the high pressure to inject the fuel to each injector. They are controlled by the engine ECU.
 
 The common rail fuel injection system consists of fuel tank, fuel line, low pressure line which supplies low pressure fuel to the low pressure pump (including high pressure pump), common rail which distributes and accumulates the high pressurized fuel from the fuel pump, high pressure line which connected to the injector, and the engine control unit (ECU) which calculates the accelerator pedal position and controls the overall performance of vehicle based on the input signals from various sensors.
@@ -3063,10 +2998,6 @@ The common rail fuel injection system consists of fuel tank, fuel line, low pres
 ![](images/6f80981117507d2da2ba5374a33d0ee3ed3930ac7c684e6ed5932907a75bb52a.webp)
 
 # 2. SYSTEM LAYOUT AND OPERATION
-
-# 1) Layout
-
-# NOTE
 
 For sensor and actuator control logic, refer to Chapter "Engine Control".
 
@@ -3109,11 +3040,7 @@ Also, the ECU uses the signals from the coolant temperature & air temperature se
 
 ![](images/8b6de85276086a7204194284417864bb308db2afb3a03be3a73998e6df1d80d8.webp)
 
-# INTAKE SYSTEM
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/f56b45290771970a8483528f1fe42cfebe8fa705a4fcf7fede0a8cf724b86452.webp)
 
@@ -3121,13 +3048,7 @@ Also, the ECU uses the signals from the coolant temperature & air temperature se
 
 ![](images/f7e7426be024f0ed20222e8ada04dab94301f2dc5094bef71c8d04dd6a7bc08b.webp)
 
-# 2. INSPECTION
-
-# 1) Troubleshooting
-
 # When Abnormal Noises are Heard from the Engine Room
-
-# CAUTION
 
 For the vehicle equipped with DI engine, if a learning noise occurs in each range or other noises occur, the major cause of it is a faulty turbocharger assembly. But an interference issue, poor tightness or loose in the intake and exhaust system also can cause those noises. This is mainly because the operator didn't follow the instruction exactly when reconnecting the intake hoses and pipes which were disconnected to check the system or replace the air cleaner. If the intake system is free of any faults, check the EGR and PCV oil separator connected to the intake system. The figure may be different from the actual engine. Therefore, read thoroughly below before replacing the parts.
 
@@ -3184,8 +3105,6 @@ If the intake system is free of any faults, check for EGR and PCV oil separator.
 ![](images/855f6499f6db6e3e231ff32fb1b59e8435705d6d7529cb7827ac4e5fdd4e53e0.webp)
 
 # OVERVIEW AND OPERATING PROCESS
-
-# 1. OVERVIEW
 
 The intake system for D20DTR engine is equipped with a throtle body which includes a flap. This flap is controlled by an electrical signal to cut offthe intake air entering to the engine when the ignition switch is turned of. Because of this, the shape of the intake manifold has been changed and improved HFM sensor is newly adopted to control the intake air volume more precisely.
 
@@ -3261,8 +3180,6 @@ The injector for DI engine uses the multi hole design. For this vehicle, there a
 
 # ENGINE EXHAUST SYSTEM
 
-# GENERAL INFORMATION
-
 1. TROUBLESHOOTING   
 1) Work Flow
 
@@ -3285,8 +3202,6 @@ The injector for DI engine uses the multi hole design. For this vehicle, there a
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. OVERVIEW
-
 This system purifies the exhaust gas generated by the combustion in the engine to reduce the polutants and noise during that arise during combustion.
 
 # 2. LAYOUT
@@ -3307,17 +3222,11 @@ This system purifies the exhaust gas generated by the combustion in the engine t
 
 ![](images/cb702e9546dc611ecad12355a38f1a829138c845258063db733ba3473e483465.webp)
 
-# TURBOCHARGER
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/ff6ac41b10d6160493deb5e450bcd68bf18980a7c86344936d0488b37841db13.webp)
 
 ![](images/58c7197475370bf9f89e2313de51dc565d899a7c5e48401b79fc6bb4878562e6.webp)
-
-# 2. INSPECTION
 
 # 1) Cautions During Driving
 
@@ -3450,11 +3359,7 @@ The followings are cautions to take in handling defects of turbocharger, which m
 
 ![](images/8365b00544e5d5b47f3cc00b9b57c9e50e8058fdfbe03137aeb31cd699dc715f.webp)
 
-# OVERVIEW AND OPERATING PROCESS
-
 # 1. SYSTEM DESCRIPTION OF E-VGT (Electric-Variable Geometry Turbine)
-
-# 1) Overview
 
 The E-VGT turbocharger has one shaft where at each ends are installed with two turbines having different angles to connect one end of housing to the intake manifold and the other end to the exhaust manifold. As the turbine, at exhaust end, is rotated by exhaust gas pressure the impeller, at intake end, gets rotated to send air around center of the impeller, being circumferentiall accelerated by the centrifugal force, into the diffuser. The air, which has been introduced to the difuser having a passage with big surface, transforms its speed energy into the pressure energy while being supplied to the cylinder improving the volume effciency. Also, the exhaust efficiency improves as the exhaust turbine rotates. The turbocharger is often referred to as the exhaust turbine turbocharger.
 
@@ -3465,8 +3370,6 @@ The engine ECU controls the E-Actuator electronically as follows:
 -At low speed: Narrows the flow passage for the exhaust gas, resulting in increasing the flow speed of the exhaust gas and running the turbine quickly and powerfully. -At high speed: Expands the flow passage for the exhaust gas, resulting in increasing the mass flow of the exhaust gas and running the turbine more powerfully.
 
 ![](images/bf89e59e6a15158128447fdc996001e0f562658986e1c7739afe60151bd1464b.webp)
-
-# 2) Features
 
 # (1) Performance (for EURO V)
 
@@ -3517,8 +3420,6 @@ At low speed, it utilizes the principle of venturi. For example, when air flows 
 ![](images/78cbb34d88c1ce480afd4c8ac8537611463214429644cd34314b981fe58dfe4f.webp)  
 V1 x A1 = V2 x A2 = Constant
 
-# NOTE
-
 # Turbocharger lag
 
 The turbocharger is at idle speed when there is no load or it is in the normal driving condition. During this period, the amount of exhaust gas passing through the turbine is not enough to turn the compressor wheel (impeller) fast. Therefore, the intake air is not compressed as needed. Because of this, it takes time for turbocharger to supply the additional power after the accelerator pedal is depressed. This is called "turbocharger lag".
@@ -3533,11 +3434,7 @@ In a high speed zone, the amount of exhaust gas increases and it is accompanied 
 
 ![](images/753b5ee14b070a703648f0673dff9e0f0f2861f43db0f084e5976717dd955092.webp)
 
-# LUBRICATION SYSTEM
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/86ac3916f29a3fc1dd3b10bf1128698e6a1e66f61a73dea04829938cbed8d06a.webp)
 
@@ -3557,8 +3454,6 @@ Severe Driving Condition
 ![](images/5284d42b5c1aca0bf5a4552edc109297f953e48b4dcedc4f7e8d656e3783ff70.webp)
 
 # 2. MAINTENANCE
-
-# 1) Level Check
 
 Park the vehicle on a level ground and apply the parking brake. Stop the engine and wait more than 5 minutes.
 
@@ -3588,10 +3483,6 @@ Recheck the oil level after 5 minutes.
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. SYSTEM DESCRIPTION
-
-# 1) Overview
-
 The lubrication system supplies oil to each lubrication section to prevent friction and wear and to remove heat from the friction part. As the engine runs, frictional heat is generated on each lubrication section. If this condition persists, the bearing can be burned and stuck.   
 In other words, it creates an oil film on each sliding surface to convert solid friction to liquid friction in order to minimize wear and prevent temperature increasing on the friction part.   
 For the D20DTF engine with no oil pressure switch, the engine ECU receives the low engine oil level signal from the oil level sensor and communicates with the instrument cluster through the CAN communication to turn on the warning lamp.
@@ -3603,8 +3494,6 @@ For the D20DTF engine with no oil pressure switch, the engine ECU receives the l
 ![](images/c72b19da00fb935c786c7fbf3ffd7dc3736b0c137ac1cf855ec7b9a277318a61.webp)
 
 # 2. FUNCTIONS OF LUBRICATION
-
-# 1) Lubrication
 
 It creates a viscous barrer between moving parts that reduces friction, which means less heat and longer life for those parts. As a lubricant, oil must maintain a protective film to prevent metal-to-metal contact. It must be fluid enough to allow easy starting and to circulate quickly through the engine, yet remain thick enough at higher operating temperatures and speeds to provide adequate lubrication.
 
@@ -3627,11 +3516,7 @@ The small particles of dirt or other contaminants are suspended in oil and carri
 
 ![](images/b02a5b50a0a232d33d840688c557d27a111a17148c34444a446e1d3ce5fa49ee.webp)
 
-# COOLING SYSTEM
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/1efeb9a67630ab0444797987dc1cca427e0868b0df239101a2760294141a039a.webp)
 
@@ -3681,8 +3566,6 @@ Immerse the thermostat into the water. Heat the water and check the valve openin
 
 # 3. CAUTIONS
 
-# CAUTION
-
 - If 100% of anti-freeze is added, the water pump vane can be damaged and thermal conductivity can be decreased resulting in poor circulation in the coling system which leads to overheated engine.   
 -Use of non-recommended coolant could cause damage to the cooling system and overheating of the engine.   
 -Opening the coolant reservoir cap while the engine is running or hot can cause burns by hot steam or water.   
@@ -3696,8 +3579,6 @@ Immerse the thermostat into the water. Heat the water and check the valve openin
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. SYSTEM DESCRIPTION
-
 1) Overview
 
 ![](images/a0f92069120790eb33034c8f51c8d34170214f2213a6cb9bbb1f5a3437e5811a.webp)
@@ -3708,17 +3589,11 @@ Immerse the thermostat into the water. Heat the water and check the valve openin
 
 ![](images/050d02429316c55c43620a69f6ca8f9792cf8984d830524da5c8c6ec3f82e7e9.webp)
 
-# CHARGING SYSTEM
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/bbf6639808f49fe8c4ed2b20e084b11733a71a7d65fd91d729d3a6bb21f4deed.webp)
 
 ![](images/f27bd0ca77b182ba697b98508193acfd94ba6429f8036a012aca40f15a9839c0.webp)
-
-# 2. INSPECTION
 
 # 1) Alternator Output Test
 
@@ -3742,8 +3617,6 @@ Immerse the thermostat into the water. Heat the water and check the valve openin
 ![](images/c62bcbf364f342d6eb47f43922d827487cbfc69f355642765c9330e81cd57e4b.webp)
 
 ![](images/03c0f1f8909e3c245362fe7d847f874709a7de9306bd75a993c4b3987dcf780f.webp)
-
-# (1) Checking
 
 # Using battery tester
 
@@ -3813,10 +3686,6 @@ Check the battery for crack, damage or fluid leaks. Replace it if necessary. Wip
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. SYSTEM DESCRIPTION
-
-# 1) Overview
-
 The charge system is designed to supply electrical energy to the vehicle while driving, and supplies a constant direct current voltage by converting mechanical rotational movement to electrical energy. The voltage regulator on the back of the alternator controls the generated voltage in al rotating ranges and adjusts the system voltage according to the electric load and ambient temperature change.
 
 # 2) System Layout (Locations)
@@ -3861,19 +3730,13 @@ Charging status: Charging a fully depleted battery takes twice or more as long a
 
 ![](images/c17f23cfab36a5631daa346c9f14b2f0eca3609c2ba563cbc7ddeaa874387d55.webp)
 
-# D20DTR PRE-HEATING
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/8bd19ceb4286b6e7b561da8044a7ef42dd5bd1c5d896dad2f96d0a3ae8f5b215.webp)
 
 ![](images/d77c4f2a0f0b3bdde8ed082d9a2d3b0b4c2b35027076484097a485817073c469.webp)
 
 # OVERVIEW AND OPERATING PROCESS
-
-# 1. OVERVIEW
 
 The pre-heating system for D20DTR engine has the glow plug to the cylinder head (combustion chamber), and improves the cold start performance and reduces the emission level.   
 The pre-heating resistor (air heater) is used to heat the intake air.   
@@ -3946,11 +3809,7 @@ P1 to P2: Pre glow P3 to P4: Post glow
 
 ![](images/6d1c4c32fa77df827ad7722d83c5dae9e10fd32c25d9a70307d5e18b77d45d0a.webp)
 
-# STARTING SYSTEM
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/b6df12d31f2c4807e15c23423b8682678f5f027928ce42124143076921e61f36.webp)
 
@@ -3963,8 +3822,6 @@ P1 to P2: Pre glow P3 to P4: Post glow
 ![](images/d30560a883870d3eb1951505e21364e3c24cfec47078767d832882685f16a667.webp)
 
 # OVERVIEW AND OPERATING PROCESS
-
-# 1. SYSTEM DESCRIPTION
 
 The starter (start motor) starts the engine with rotational power by converting the electric energy to the mechanical energy.
 
@@ -3984,11 +3841,7 @@ When the engine is cranking, the pinion gear meshes with the ring gear. If the r
 
 ![](images/4d6cd73b834f228eeb123c2da45f280e2e39bec4e964cabe983192823ac4b599.webp)
 
-# CRUISE CONTROL SYSTEM
-
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. CRUISE CONTROL SWITCH
 
 ![](images/4754516f497538fc8ff12a1cf848fac1d95256752fc75c3c12b327cd2ad9c073.webp)
 
@@ -4152,21 +4005,13 @@ How well the cruise control works on hils depends on the speed, load, and the st
 
 ![](images/981216a551c48fabbea34b180caa24f9bf6cc8bd591adbd49ee60ea38542e7bd.webp)
 
-# E-EGR SYSTEM
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/9970fc7ba4e8c1f9402602a16134680f0a85ae961039bb783fecddedc306721a.webp)
 
 ![](images/023977b6bbdd7f0373aea133578bf1a95bd52e2cca82ce11d30a45e3f88873b8.webp)
 
 # OVERVIEW AND OPERATING PROCESS
-
-# 1. SYSTEM DESCRIPTION
-
-# 1) Overview
 
 The EGR (Electric-Exhaust Gas Recirculation) valve reduces the NOx emission level by recirculating some of the exhaust gas to the intake system.   
 To meet Euro-V regulation, the capacity and response rate of E-EGR valve in D20DTR engine have been greatly improved. The EGR cooler with high capacity reduces the Nox, and the bypass valve reduces the CO and HC due to EGR gas before warming up.   
@@ -4232,11 +4077,7 @@ The engine ECU calculates the EGR amount by adding main map value (intake air vo
 
 ![](images/d3d07cb01ba52a894afaac9f03d5ad88b07b3155b77c3ceaca425260ec37edff.webp)
 
-# CDPF SYSTEM
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/ed0dbc8a315330ce8fbfb3313f085751e8cc4449332dfb2c7cf29e1a868e5097.webp)
 
@@ -4269,8 +4110,6 @@ Do not use improper engine oil or fuel additives.
 
 ![](images/193572e3133baaf42042d986617dba4fbc91e0437d7caa9a46a0ad9bb162be0e.webp)
 
-# (3) Warning Lamp Related to CDPF
-
 # CDPF regeneration process (warning lamp NOT iluminated)
 
 ![](images/af08d0c02c708d6b4efbecd5d342ba533c140fd523c3f8cbc53474e6228347d6.webp)
@@ -4289,8 +4128,6 @@ Overload of CDPF (warning lamp blinking) Blinking
 ![](images/db6a141c2318096a3f458fd50dd7c6cdb43f76fd0a0e4836d00e88160208cecc.webp)
 
 # OVERVIEW AND OPERATING PROCESS
-
-# 1. OVERVIEW
 
 The DOC (Diesel Oxidation Catalyst) generates CO2 and H2O which are harmless through the oxidation process of CO and HC. And the DPF (Diesel Particulate Filter) collects PM (Particle Matter) and is regenerated to reduce the quantity of particulates, HC and CO. But there is a limitation in reducing the emission of exhaust gas for each system, so the CDPF which combines these two system is applied.
 
@@ -4409,19 +4246,13 @@ The differential pressure sensor installed in the DPF measures the pressure valu
 
 ![](images/9ce6da774e2da5482c799848d94e0fa4acee8cab3d75038d9675b444ed43727c.webp)
 
-# ENGINE CONTROL
-
 # GENERAL INFORMATION
-
-# 1. ENGINE DATA LIST
 
 ![](images/19a04a58db51aa55cf645f273119ce0e18b94682084a45e9ddd5e41e3e339aac.webp)
 
 ![](images/c92a66510efbfc9c01413e1600e70f725df0e9729ffceb7a581ba688210fe6b1.webp)
 
 # OVERVIEW AND OPERATINF PROCESS
-
-# 1. MAJOR COMPONENTS
 
 ![](images/1628e5b4a75a38a68b7a5a7cc8c1863aa36f45adb5afe68b97a04a6c4d72b036.webp)
 
@@ -4463,10 +4294,6 @@ Exhaust gas temperature sensor Self diagnosis Fuel temperature Other CAN info. W
 
 ![](images/097b122520bbbd92878b3cf3067267383d852a5114a270480632be1ebe4123b5.webp)
 
-# 2) ECU Control
-
-# (1) Function
-
 # a. ECU Function
 
 ECU receives and analyzes signals from various sensors and then modifies those signals into permissible voltage levels and analyzes to control respective actuators.   
@@ -4484,8 +4311,6 @@ To control the fuel volume precisely under repeated injections, high current sho
 ![](images/b3e582c3d59429840cc686f753adfa7b804503eacd3aec6be5049f1c3ba4c8b2.webp)
 
 # (2) Fuel injection control
-
-# a. Multi injection
 
 Fuel injection process consists of 3 steps: Main Injection, Pilot Injection, Post Injection
 
@@ -4599,8 +4424,6 @@ A fifth correction is made according to the rate of EGR.
 
 When the EGR rate increases, the injection timing advance must in fact be increased in order to compensate for the fallin termperature in the cylinder.
 
-# (5) Fuel Control
-
 # A. Main Flow Control
 
 The main flow represents the amount of fuel injected into the cylinder during the main injection. The pilot flow represents the amount of fuel injected during the pilot injection.
@@ -4663,8 +4486,6 @@ The pilot flow represents the amount of fuel injected into the cylinder during t
 
 During starting, the pilot flow is determined on the basis of the engine speed and the coolant temperature.
 
-# G. Cylinder Balancing Strategy
-
 # Balancing of the point to point flows
 
 The pulse of each injector is corrected according to the difference in instantaneous speed measured between 2 successive injectors.
@@ -4714,8 +4535,6 @@ The system measures the pulse at initial injection to reduce the engine vibratio
 
 ![](images/3d2738c8cca903bba12ff36a6ec48de7afff03e03789635f5c4943d89770caba.webp)
 
-# (7) Knocking Control
-
 # A. Resetting the pilot injection
 
 The knocking control is used to reset the pilot injection flow in closed loop for each injector. This method allows the correction of any injector deviations over a period of time. The principle of use of the knocking control is based on the detection of the combustion noises.   
@@ -4754,10 +4573,6 @@ This strategy permits the detection of a fault in the sensor or in the wiring lo
 It is based on detection of the combustion. When the engine is idling, the detection window is set too low for the combustion caused by the main injection. If the ratio increases, this shows that the knock sensor is working properly, but otherwise a fault is signaled to indicate a sensor failure. The recovery modes associated with this fault consist of inhibition of the pilot injection and discharge through the injectors.
 
 ![](images/b8d08b127d474cdb171533da5b172af687db2c8b25c7e74a2c96e10ec334c4d1.webp)
-
-# (8) Swirl control
-
-# A. Overview
 
 # Variable swirl valve
 
@@ -4823,8 +4638,6 @@ The injector for DI engine uses the multi hole design. For this vehicle, there a
 
 # (9) EGR control
 
-# A. Overview
-
 The EGR (Electric-Exhaust Gas Recirculation) valve reduces the NOx emission level by recirculating some of the exhaust gas to the intake system.   
 To meet Euro-V regulation, the capacity and response rate of E-EGR valve in D20DTR engine have been greatly improved. The EGR cooler with high capacity reduces the Nox, and the bypass valve reduces the CO and HC due to EGR gas before warming up.   
 Also, the engine ECU adjusts the E-EGR opening by using the air mass signal through HFM sensor. If the exhaust gas gets into the intake manifold when the EGR valve is open, the amount of fresh air through HFM sensor should be decresed.
@@ -4885,8 +4698,6 @@ As EGR temperature goes up, the concentration of NOx will be higher. Thus, it is
 
 # (10) E-VGT control
 
-# A. Overview
-
 E-VGT (Electric-Variable Geometry Turbine) turbocharger system in D20DTF engine uses the venturi effect that controls the flow rate of exhaust gas by adjusting the passage in turbine housing. The newly adopted DC motor actuator (E-actuator) controls the E-VGT system more precisely and faster. To get the high operating power from turbine, the ECU reduces the exhaust gas passage In low speed range and increases it in high speed range.
 
 # B. Components
@@ -4913,8 +4724,6 @@ E-VGT provides higher engine power with faster reaction speed compared to conven
 
 # (11) Wide band oxygen sensor control
 
-# A. Overview
-
 For diesel engine, combustion is not performed at the optimum (theoretically corect) air-fuel ratio and the oxygen concentration is thin in most cases. So the wide-band oxygen sensor is used for this kind of engine, and this sensor is a litle different from the one that used for gasoline engine. The combustion in diesel engine is controlled by fuel injection volume. Therefore, the wide band oxygen sensor should be used in diesel engine. This sensor measures the air-fuel ratio in very wide range, and is also called full range oxygen sensor.
 
 -The wide band oxygen sensor measures the oxygen density in exhaust gas and sends it to ECU to control the EGR more precisely.
@@ -4939,8 +4748,6 @@ The wide band oxygen sensor uses ZnO2. It produces the voltage by movement of ox
 
 ![](images/646b8281eb9d084b194917a62ba9da6944813792f909adca97d3f4006da8ed86.webp)
 
-# (12) Cooling fan control
-
 # A. Overview of cooling fan and A/C compressor
 
 The cooling system maintains the engine temperature at an eficient level during allengine operating conditions. The water pump draws the coolant from the radiator. The coolant then circulates through water jackets in the engine block, the intake manifold, and the cylinder head. When the coolant reaches the operating temperature of the thermostat, the thermostat opens. The coolant then goes back to the radiator where it cools. The heat from automatic transmission is also cooled down through the radiator by circulating the oil through the oil pump. ECU controls the electric cooling fans with three cooling fan relays to improve the engine torque and air conditioning performance.
@@ -4962,8 +4769,6 @@ For detailed information, refer to Chapter "Air Conditioning System".
 ![](images/e448882e49f744ada52037ec2ac05a57980ca15b402d5ad945f3cad08df6af4e.webp)
 
 # D. Cooling fan and A/C compressor control
-
-# Conditions for cooling fan
 
 The cooling fan module controls the cooling fan relay, high speed relay and low speed relay. The cooling fan is controlled by the series and parallel circuits.
 
@@ -4990,8 +4795,6 @@ The output voltage from refrigerant pressure sensor is 1.7 V to 3.5 V when the r
 ![](images/acbd51c9056a8bd5bfab3baf065da22044d31303fdccc5d38133001c71b898ad.webp)
 
 # (13) PTC heater control
-
-# A. Overview
 
 The supplementary electrical heater is installed in Dl engine equipped vehicle as a basic equipment. The PTC system is operated according to two temperature values measured at the coolant temperature sensor and HFM sensor. This device is mounted in the heater air outlet and increase the temperature of air to the passenger compartment. Because PTC system is heated by electrical power, high capacity alternator is required. PTC does not operate during engine cranking, while the battery voltage is lower than 11 V or during preheating process of glow plugs.
 
@@ -5023,8 +4826,6 @@ Operation process: reaches at a certain temperature→high resistance—low curr
 
 # (14) Immobilizer control
 
-# A. Overview
-
 The Immobilizer System provides an additional theft deterrent to the vehicle in which it is installed and prevents it from being started by unauthorized persons. The transponder integrated in the key and the engine control unit have the same code. When the ignition key with the integrated transponder is turned to the ON position, the ECU (Engine Control Unit) checks the crypto code of the key and, if correct, allows the vehicle to start the engine.
 
 # NOTE
@@ -5048,8 +4849,6 @@ When turning the ignition switch to ON position, the power is supplied to BCM an
 ![](images/6245cb982db3bcc2100a395a0daf764d22f4fff3dc1102e1672921da7781714d.webp)
 
 # (15) CDPF control
-
-# A. Overview
 
 As the solution for environmental regulations and PM Particle Material) of diesel engine, the low emission vehicle is getting popular. This vehicle is equipped with an extra filter to collect the soot and burn it again so that the amount of PM in the exhaust gas passed through the DOC (Diesel Oxidation Catalyst) is reduced. The CDPF (Catalyst & Diesel Particulate Filter) is an integrated filter including DOC (Diesel Oxidation Catalyst) and DPF (Diesel Particulate Filter).
 
@@ -5113,11 +4912,7 @@ TCU Eo on. w In tuent positionTransmission oil temperature Shifting request, Acc
 
 ![](images/559e384e753da55f75ab88ece1087ad2eb811a19384daacadcb4e06056ef4df5.webp)
 
-# ENGINE ASSEMBLY
-
 # 1. DESCRIPTION AND OPERATION
-
-# 1) Cleanliness and Care
 
 An automobile engine is a combination of many machined, honed, polished and lapped surfaces with tolerances that are measured in the ten-thousanths of an inch.
 
@@ -5134,8 +4929,6 @@ Battery cables should be disconnected before any major work is performed on the 
 ![](images/24c35554d0a1dda574663d6e38833a8e1ed9ddc6781c78762fa0690d6a06d6a2.webp)
 
 # 2) On-engine Service
-
-# CAUTION
 
 - Disconnect the negative battery cable before removing or installing any electrical unit, or when a tool or equipment could easily come in contact with exposed electrical terminals. Disconnecting this cable wilhelp prevent personal injury and damage to the vehicle. The ignition must also be in LOCK unless otherwise noted.
 
@@ -5173,8 +4966,6 @@ Front View
 ![](images/eb900a6674705d11261dd1919c3a03c0ec85f6f70f01254773c42b58b6419c0a.webp)
 
 # 4. DIAGNOSTIC INFORMATION AND PROCEDURE
-
-# 1) Oil Leak Diagnosis
 
 Most fluid oil leaks are easily located and repaired by visuall finding the leak and replacing or repairing the necessary parts. On some occasions a fluid leak may be dificult to locate or repair. The following procedures may help you in locating and repairing most leaks.
 
@@ -5407,8 +5198,6 @@ It is therefore recommended that earthed pumps with integrally earthed hoses be 
 
 # OVERVIEW AND OPERATION PROCESS
 
-# 1. FUEL SYSTEM
-
 The function of the fuel metering system is to deliver the correct amount of fuel to the engine under all operating conditions.
 
 The fuel is delivered to the engine by the individual fuel injectors mounted into the intake manifold near each cylinder.
@@ -5475,19 +5264,11 @@ No fuel is delivered by the fuel injectors when the ignition is of. This prevent
 
 ![](images/8b20a803c51604e0b8ba868ba4a1825795dac3ceab42798d062e230f8bead7a8.webp)
 
-# ENGINE INTAKE SYSTEM
-
-# 1. SPECIFICATIONS
-
 # (1) Fastener Tightening Specifications
 
 ![](images/48aa6e5bc103f6c85237a50e5f1309d339b0427b6e81f951c38216c7bf6d3504.webp)
 
 ![](images/4fb12ac53e8b80794132b1197843143371ff4a36a6c25aa4e8e64f8a688c14ee.webp)
-
-# ENGINE EXHAUST SYSTEM
-
-# 1. SPECIFICATION
 
 # (1) Fastener Tightening Specifications
 
@@ -5496,8 +5277,6 @@ No fuel is delivered by the fuel injectors when the ignition is of. This prevent
 ![](images/36ade486b8ff53c2efb611aa9bc7b2477edac96be45b743c75aaef84ca9a9868.webp)
 
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. DESCRIPTION AND OPERATION
 
 1) Exhaust System
 
@@ -5553,11 +5332,7 @@ NOx is generated a great deal in case that combustion temperature and excess air
 
 ![](images/bed7c186aba9d35b8626ba552c43e4390ce5fd47a8f33313786b61f666c492d4.webp)
 
-# LUBRICATION SYSTEM
-
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. OIL CIRCULATION
 
 ![](images/425af64feb05b98bef2330aa9dc50fb44cf4f7b4e5d5cb4b90f9e1141702458b.webp)
 
@@ -5593,8 +5368,6 @@ NOx is generated a great deal in case that combustion temperature and excess air
 
 ![](images/94debaceacdab3c709c71d7160337ed73907674ba30562fa918d8ef7f2332ec0.webp)
 
-# ENGINE COOLING SYSTEM
-
 # 1. GENERAL SPECIFICATIONS
 
 ![](images/e14f22ebbdf67be0811cf95e2b1d090032e28f5cd5c9ca39a553623882b5c215.webp)
@@ -5608,8 +5381,6 @@ NOx is generated a great deal in case that combustion temperature and excess air
 ![](images/b61f4d3c4b0ed5de78da3f42284107e6f9685a2c581b78a127fe7b8cff5a1901.webp)
 
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. COMPONENT LOCATOR
 
 ![](images/aa2fb1111b63aa351ad2d7aa47f9b6a57604bf2dd8f36e16d9a8b513749bffbf.webp)
 
@@ -5696,8 +5467,6 @@ The thermostat begins to open at 82°C(180 F) and is fuly open at 95°C(203°F).
 
 # 6) Electric Cooling Fan
 
-# CAUTION
-
 Keep hands, tos, and clothing away from the engine coling fans to help prevent personalinjury.   
 This fan is electric and can turn on even when the engine is not running.
 
@@ -5736,8 +5505,6 @@ The coolant temperature gauge controls the instrument panel temperature indicato
 ![](images/5386e0937325392711d5b47cc46593d2152ec35c7d7ebe8793deb2755bbc354c.webp)
 
 # 3. PWM (PULSE WIDTH MODULATION) ELECTRIC FANOPERATION
-
-# 1) Function
 
 The PWM (Pulse Width Modulation) high capacity electric fan is installed instead of electric condenser fan to enhance the durability and controllability and reduce noise.
 
@@ -5780,8 +5547,6 @@ It controls the time of the output voltage to control the fan motor speed indepe
 
 # 5) Shutting-off Condition of the A/C Compressor
 
-# Coolant temperature
-
 - When coolant temperature is below 20°C or over 115°C, engine speed is below 650 rpm or over 4500 rpm for 4 seconds after engine starting, abrupt acceleration and AC refrigerant pressure sensor detecting the followings   
 - A/C compressor is turned off when the refrigerant pressure is below 2.0 kg/cm2 and then is turned on when the refrigerant pressure is over 2.4 kg/cm2.   
 - A/C compressor is turned off when the refrigerant pressure is over 30 kg/cm2 and then is turned on when the refrigerant pressure is below 21.4 kg/cm2.
@@ -5801,10 +5566,6 @@ It controls the time of the output voltage to control the fan motor speed indepe
 ![](images/0995cbd60db410eaf51b379684c3b4f8d5c20053efcba4be14701ae5124ea1ff.webp)
 
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. DESCRIPTION AND OPERATION
-
-# 1) Battey
 
 The sealed battery is standard on all cars. There are no vent plugs in the cover. The battery is completely sealed, except for two small vent holes in the sides. These vent holes allow the small amount of gas produced in the battery to escape. The battery has the following advantages over conventional batteries:
 
@@ -5971,11 +5732,7 @@ All of these components are connected electrically.
 
 ![](images/5c36331c2b8526ca0ccde350413d35ec3519999bf29a2ad02e281f148984a457.webp)
 
-# CRUISE CONTROL SYSTEM
-
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. CRUISE CONTROL SWITCH
 
 ![](images/9d846f68675000ba85e54be46330df88672e046d8a001ec72180fd7a8a262753.webp)
 
@@ -6139,8 +5896,6 @@ How well the cruise control works on hils depends on the speed, load, and the st
 
 ![](images/9c1991af055650acc05f6745e75db5135aa2e981d36fed9f04b7c765657304f9.webp)
 
-# ENGINE CONTROL SYSTEM
-
 # 1. ENGINE DATA DISPLAY TABLE
 
 ![](images/01b28f16bf27e0445ba2f7ea9b654b1e447f5b31b32bcd686fde3337d27ed207.webp)
@@ -6223,8 +5978,6 @@ H 161514131211109
 
 ![](images/1d3bccaeae88f1a082b007502f3c339106bafe7648845f6984d342f5287a3610.webp)
 
-# GENERAL INFORMATION
-
 # 1. CAUTIONS WHEN WORKING ON ELECTRICAL UNITS
 
 ![](images/587bda0b903034a7c1aeddd7c41243016a8d531731bbcafa598319542cf6f1a4.webp)
@@ -6273,8 +6026,6 @@ The ICM (Integrated Control Module) box installed to the new Actyon model is int
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. OVERVIEW
-
 The ICM (Integrated Control Module) mounted to the back of the STICS is integrated with the door lock relay, windshield de-icer relay and turn signal lamp relay. There are four fuse & relay units.
 
 # 2. FUSE & RELAY MOUNTING LOCATION
@@ -6285,8 +6036,6 @@ The ICM (Integrated Control Module) mounted to the back of the STICS is integrat
 
 ![](images/bf85e10860ba008c0ad040abb1330f4d3e003c9c5e434b18d9ac6caa23213e4e.webp)
 
-# GENERAL
-
 # 1. OVERVIEW
 
 RKSTICS (REKES + STICS (Super Time & Integrated Control System), is almost the same as that of ACTYON in terms of its function and role. Due to the removal of tailgate opening switch and rear wiper and washer system, the circuit layout is slightly changed, compared to ACTYON.
@@ -6294,8 +6043,6 @@ RKSTICS (REKES + STICS (Super Time & Integrated Control System), is almost the s
 ![](images/3b85d798aef74859a10b38adca0b862c46a1985f31819aa829318a09479e4a1e.webp)
 
 ![](images/f021cbeb5508b3844e30f229a66763b5ae791373a1a727c1964006c15f685b96.webp)
-
-# 2. SPECIFICATIONS
 
 # 1) Electrical Performance
 
@@ -6343,8 +6090,6 @@ Wiper motor A/S (parking) terminal
 
 # OVERVIEW AND OPERATION PROCESS
 
-# 1. OVERVIEW
-
 RKSTICS (REKES + STICS (Super Time & Integrated Control System), is almost the same as that of ACTYON in terms of its function and role. Due to the removal of tailgate opening switch and rear wiper and washer system, the circuit layout is slightly changed, compared to ACTYON.
 
 ![](images/06d1fe66c90f33d92469fff797ad495bb790907d5cb4b2227dd1b24c7d6104a2.webp)
@@ -6368,8 +6113,6 @@ The rear washer and the wiper operate only while holding the switch. When releas
 # Rear Wiper Operation
 
 ![](images/0b7153e631ea4ab9ed41e2e3ff00bf471cfebea52f7cb746f8cccd7e634664c5.webp)
-
-# Rear Wiper Stops
 
 # Wiper and Washer Coupled Operation
 
@@ -6511,8 +6254,6 @@ FAST → SLOW: Auto delay/Auto speed control. A position that can control sensit
 
 # (1) Trouble shooting
 
-# Symptom 1.
-
 The wiper does not operate one cycle when turning the multifunction wiper switch to the "AUTO" from the "OFF" position or starting the engine while the wiper switch is in the "AUTO" position.
 
 - When starting the engine with the multifunction wiper switch in the "AUTO" position, the wiper operates one cycle to remind a driver that the wiper switch is in the "AUTO" position. When the wiper switch is turned to "AUTO" from "OFF", the wiper operates one cycle. It always   
@@ -6590,8 +6331,6 @@ Intermittent interval (at 0 km/h): 3 ± 0.5 \~ 19 ± 2 seconds
 ![](images/44437486821139f7e8c2c06fa0b7ad23f7abbe80e7f6e3910a1c665ed3123717.webp)
 
 ![](images/a9607728dec6c9a19c099daee0e65e1b8f82d224a2d49cc57e97c6aeed59af1e.webp)
-
-# CAUTION
 
 # Speed sensitive INT (intermittent) wiper
 
@@ -7024,10 +6763,6 @@ Briefly press (below 0.5 sec): Door lock and -If you press and hold the door unl
 
 ![](images/bc5ce5f8704a128977d1893673de69d34dd1e15b630bc6f3136e9f4a62c741c7.webp)
 
-# OVERVIEW AND OPERATION PROCESS
-
-# 1. OVERVIEW
-
 # 1) What is the Immobilizer System?
 
 The immobilizer system prevents the vehicle theft by allowing only the authorized key to start the engine. The transponder inside the key communicates with the immobilizer installed in the key box, and the system permits the engine to start after confirming the encrypted coding from the engine ECU. Refer to the information that follows for specific functions and their descriptions.
@@ -7168,8 +6903,6 @@ The ECU enable the engine to be started.
 
 ![](images/0206b53f9ef651854d28a9ff66879af8c55f75f3ebc4ec586b08e3e1649e1f8e.webp)
 
-# OVERVIEW AND OPERATING PROCESS
-
 # 1. DESCRIPTIONS OF INDICATOR DISPLAY
 
 It sends and receives information to/from each unit through CAN communication line. The LCD display and separate ESP ON/OFF indicator are newly added.
@@ -7211,8 +6944,6 @@ It sends and receives information to/from each unit through CAN communication li
 ![](images/ed4c356a9e667fce8df7640708fde794a47a8de6cfaeec574c95f8bd0f6275c7.webp)
 
 # System Layout
-
-# Front view
 
 ![](images/82f367bd456f5c368b7d135669023c61e60ae61e329668c23520e06b13294458.webp)
 
@@ -7294,8 +7025,6 @@ There are two colors (green & red) for HDC symbol.
 ![](images/c808a87557ba58a2ca80817947a2a3e52dc71c3b33a385a3cea38d1d427abeca.webp)
 
 # 2. CONFIGURATION
-
-# 1) RPM Gauge
 
 ![](images/73f5cffd4a3ce3e299ea5f138badfbc366480ff9b2f708ae5b845f47a511d491.webp)
 
@@ -7444,8 +7173,6 @@ Brake system overheat
 
 ![](images/0e54e26c0461eb564987e46a70ea3ce54e52025c2cd8fe2e7f1605bc6b8c78d0.webp)
 
-# (2) ESP Warning Lamp
-
 # ESP Warning Lamp Blinking in Control
 
 ESP warning lamp blinks when ESP control is activated. If the activation reaches a certain limitation, a beep sounds to warn the driver. The ESP warning lamp goes off when ESP function is deactivated. Even when the ESP is operated for a very short period of time, the ESP warning lamp blinks minimum of 4 times every 500 milliseconds.
@@ -7570,8 +7297,6 @@ The surface of lamps can get foggy when raining or washing the vehicle. This is 
 
 ![](images/dfbb5fccc9e5460f6caefddd26df589f05180f119579ecbcaa9cecf20833e584.webp)
 
-# GENERAL
-
 # 1. SWITCH ARRANGEMENT
 
 ![](images/083003d7d5c4eebb51b32abf33ca6b1ea685787531eb5c4f871941947e704586.webp)
@@ -7643,11 +7368,7 @@ Washer fluid will be sprayed onto the rear window glass and the wiper will also 
 
 ![](images/7f6524fcb2e2a956e2dfe185ee706b2a8f973014f1a3eef53507dc54206a5a7b.webp)
 
-# WIPER & WASHER SYSTEM
-
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. SYSTEM LAYOUT AND FUNCTION
 
 The wiper and washer system are controlled by STICS according to driver's wiper switch operation. And the detection of rain drops by rain sensor is transmitted to STICS as the signal for wiper system control. The characteristics of the wiper and washer system including basic functions of manual wiper are as follows.
 
@@ -7790,8 +7511,6 @@ WIPER ACTYON 2012.12
 
 # OVERVIEW AND OPERATION PROCESS
 
-# 1. SYSTEM LAYOUT AND OVERVIEW
-
 The rain sensing wiper unit in this vehicle doesn't control the wiper directy. The rain sensing unit detects the amount of rain drops and sends the operating signal to STICS, and STICS drives the wiper directly.
 
 Rain Sensor Unit Multifunction Wiper Switch: (Auto Light Sensor Integrated Type) AUTO and Sensitivity Control X AUTO OFF OF I AUTO с A sensor that emits infrared rays through LED AUTO: Wiper operates automatically by rain and then detects the amount of rain drops by sensor receiving reflected rays against sensing section FAST <е> SLOW: Auto delay/Auto speed (rain sensor mounting section on the control. windshield) with photodiode. A position that controls sensitivity against rains The auto light sensor is Integrated into the rain on the windshield and transmits wiping demand sensor (refer to the below picture). signal accordingly.
@@ -7843,8 +7562,6 @@ to the rain sensor to recognize whether it is actual rain or it is in rain sensi
 ![](images/67c0fff9d94ab81760436a0acd4876f866ceb70e38e696ff144e25664c788d1f.webp)
 
 # 4. FUNCTIONS AND SPECIFICATIONS OF RAIN SENSING WIPER
-
-# 1) Power-up Reminder Wiper
 
 1. When turning off and on the INT auto switch, the system drives the wiper motor for one cycle through LOW relay regardless of communication with rain sensor.
 
@@ -7950,8 +7667,6 @@ Detecting type: Super sonic wave Detecting distance: 25 cm \~ 120 cm (distance b
 
 # 2. CAUTIONS ON PARKING AID SYSTEM
 
-# CAUTION
-
 -Note that the display does not show everything in the rear area. Always check nobody, especially animals and children, is behind the vehicle when parking or reversing. -If you can not properly check the vehicle behind, get out of the vehicle and then visually check it.
 
 1. The parking aid system is just a supplemental device to help your parking operation.
@@ -7992,8 +7707,6 @@ Detecting type: Super sonic wave Detecting distance: 25 cm \~ 120 cm (distance b
 ![](images/8b94589d211fc03046881dbb262587a9cd3282a05bc710d3f0cf6c9a0657a640.webp)
 
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. SYSTEM OVERVIEW
 
 The parking aid device is integrated in the rear bumper and it uses three Piezoelectric elements to measure vertical and horizontal distance to obstacles. When placing the gear selector lever to "R" position, the designated unit (PAS unit in the rear right quarter panel) activates the parking aid sensors to measure the distance to obstacles.
 
@@ -8047,15 +7760,11 @@ When the power is applied (gear selector lever is in "R" position), the sensor w
 
 # OVERVIEW AND INSTALLATION
 
-# 1. AUDIO SYSTEM OVERVIEW
-
 ![](images/60b6d742932926d62e321f651ecab95094505d589ed73648bc598df48a19f86a.webp)
 
 ![](images/659de7532bbce58213eb9c57d3de1eb0c0e48f8670674e601c6473eabc714d3b.webp)
 
 # GENERAL INFORMATION
-
-# 1. SPECIFICATIONS
 
 ![](images/267b38e77042987f195819596315a13e7423a6ee8a1ce6d7e32d5044135043d8.webp)
 
@@ -8072,8 +7781,6 @@ When the power is applied (gear selector lever is in "R" position), the sensor w
 ![](images/b552aad767ddbdad3592f437ff0365f3cd3da13570ecc8b2fde3ea1abb299a30.webp)
 
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. OVERVIEW
 
 ![](images/061c156a0c35205df1e7a12ae44a744029708600f935fc9ac981735c25fa0533.webp)
 
@@ -8092,8 +7799,6 @@ When the power is applied (gear selector lever is in "R" position), the sensor w
 DC 5-Speed Automatic Transmission
 
 DCAG 5-speed automatic transmission is an electronical controlled 5-speed transmission with a lockup clutch in the torque converter. The ratios for the gears are realized by three planetary gear sets. The 5th gear is designed with a step-up ratio of 0.83 as an overdrive. The selector lever is controlled by electronically and mechanically. The gears are shifted by the corresponding combination of three hydraulically actuated multiple-disc brakes, three hydraulically actuated multiple-disc clutches and two mechanical one-way clutches. This electronically controlled automatic transmission adjusts the operating pressure to provide proper shifting in relation to engine power. This function improves shifting quality significantly. And, the driver can select "S" (Standard) mode or "W" (Winter) mode according to the driving conditions. This automatic transmission provides two gears even during reverse driving. The internal sensors and controls are connected to TCU by cylindrical 13-pin connector.
-
-# NOTE
 
 # DCAG 5-speed automatic transmission offers the following advantages:
 
@@ -8385,8 +8090,6 @@ Shift Lock Release Button Hole when Locked in the "P" Position If you cannot mov
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. OVERVIEW
-
 ![](images/3de2cee892f1b1f0e33b2880371e2b42ce8891943dfbfd9c2dc106ee7413874c.webp)
 
 The six speed automatic (M78) transmission is available in two variants: four wheel drive and two wheel drive. The transmission has the following features:
@@ -8416,10 +8119,6 @@ Engine power reaches the transmission via a torque converter with integral conve
 -Torque converter
 
 ![](images/895b2af2f14c8b8c6d104e2eb703abf2ca19575a4cc03961b97649f344b9eac2.webp)
-
-# 2. FEATURES
-
-# 1) Features
 
 # Early Downshifts with Hard Braking and Skip Shifts
 
@@ -8451,8 +8150,6 @@ The transmission cooling system ensures rapid warm-up and constant operating tem
 
 # 3) Shift Strategy
 
-# Gear Shift
-
 Transmission gear change is controlled by the TCU. The TCU receives inputs from various engine and vehicle sensors to select shift schedules and to control the shift feel and torque converter clutch (TCC) operation at each gear change
 
 # Coastdown
@@ -8464,10 +8161,6 @@ Coastdown downshifts occur at 0% accelerator pedal when the vehicle is coasting 
 Torque demand downshifts occur (automatically) when the driver demand for torque is greater than the engine can provide at that gear ratio. If applied, the transmission will disengage the TCC to provide added acceleration.
 
 ![](images/c79841c8f03fb92c5640928f4485b1b6c418d7e1e60853103a30ae58751086f3.webp)
-
-# 3. MODE DESCRIPTIONS
-
-# 1) Functions
 
 # 1. Shift Lock Release Button Hole when Locked in the "P" Position (1)
 
@@ -8495,8 +8188,6 @@ This allows the driver to define the highest possible gear by selecting "+" or "
 
 When maximum engine rpm is reached the transmission willupshift automatically regardless of the driver selected limit. 4WD models with low range will not automatically upshift when low range is selected.
 
-# NOTE
-
 # Kickdown Function
 
 If you need to accelerate rapidly, depress the accelerator pedal completely to the floor. Then, a one- or two-lever gear will automatically be engaged. This is called the Kickdown function
@@ -8522,8 +8213,6 @@ If you need to accelerate rapidly, depress the accelerator pedal completely to t
 6th gear position - 6-5 and 6-4 automatic kickdown shift is available.
 
 ![](images/a8f1c55cad56b96f4d36a920236766d7ae0d05bbe0add42b12d8beb991c30eda.webp)
-
-# 4. LIMP HOME MODE
 
 # In case of transmission malfunction
 
@@ -8552,8 +8241,6 @@ The best way to transport the vehicle is to load it to a truck and transport it,
 
 # 5. ELECTRONIC CONTROL SYSTEM
 
-# 1) Overview
-
 The transmission control unit (TCU) and its input/output networks control the operations of transmission:
 
 - Shift timing   
@@ -8567,8 +8254,6 @@ In addition, the TCU receives input signals from certain transmission-related se
 The transmission control unit (TCU) is mounted under the driver's seat and controls the operation of the transmission.
 
 TCU processes the analog information from the internal sensors and the digital information through CAN communication lines. TCU monitors allthe input and output signals. If there is any failure, TCU changes the system to “Limp Home Mode” and alerts to the driver through the warning lamp on the instrument cluster.
-
-# (1) Hard-wired (Analog) Input/Output
 
 # Input/Output Data between TGS Lever and TCU
 
@@ -9043,8 +8728,6 @@ Neutral
 
 ![](images/1d0aeba77a7148556dc8ac74b86d351f28db924b6bf26f27a43cda1a2a7c94d6.webp)
 
-# MANUAL TRANSMISSION (5 M/T)
-
 # 1. OVERVIEW AND CHARACTERISTICS OF MANUAL TRANSMISSION
 
 1) System Components
@@ -9090,15 +8773,11 @@ Neutral
 
 # OVERVIEW AND OPERATION PROCESS
 
-# 1. MANUAL TRANSMISSION SYSTEM
-
 1) Neutral Switch
 
 ![](images/e8fbcfb4277d7ab0a5039856b6e43d3926be9080a25972c643273d03402921eb.webp)
 
 ![](images/996892dd31553d0f59e01c062d7df9563ad6e9cee906b02b18fd62a93d44e358.webp)
-
-# 2) Function of N Switch
 
 # (1) Aids a smooth start of the vehicle by raising the RPM during the gear shifting when the engine is cold.
 
@@ -9133,10 +8812,6 @@ The N switch transmits information to the ECU through the CAN communication whil
 ![](images/312dc86f746421975c7e484b637b4547e70ad9b366c642c9eb278987073902b3.webp)
 
 # MANUAL TRANSMISSION (6 M/T)
-
-# GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/5795cb34b764edd294218643d4810348204473f084a674e277d86edb1f1a01a6.webp)
 
@@ -9342,8 +9017,6 @@ Driving frequently at high speed over 170 km/hour Driving frequently in area whe
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. OVERVIEW
-
 ![](images/6c009b971176abf7003f55d293b2732d4c750021abfc37f6933dbb818bbfb900.webp)
 
 # 1) Characteristics of Transmission
@@ -9391,8 +9064,6 @@ Driving frequently at high speed over 170 km/hour Driving frequently in area whe
 ![](images/ca735dfed865be29bfa9e420271728eb3065c02af3b13d102abeb60fc9a1ec7b.webp)
 
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. INTRODUCTION
 
 The TGS lever prevents inappropriate or unexpected shifting of gears to increase safety. It also helps the driver safely select a needed gear. The solenoid of the TGS lever has the factory-installed “P” Lock function which allows the driver to shift gears from the i°Pi position only when the brake pedal is depressed.
 
@@ -9472,8 +9143,6 @@ The 1st gear state willdisplay on the instrument cluster. Unlike the normal 1st 
 
 ![](images/bb19577379d43dfa4655bf04a7d0a2ae6e35686afe10990600c0e8a90e32b088.webp)
 
-# 2) Transmission Mode
-
 # (1) Activating the Manual Mode (M Mode)
 
 To prevent any wrong shifting down or up in the “D” position, the manual mode can be activated only in the "M”position.
@@ -9491,8 +9160,6 @@ When the selector lever is pushed from the D position to the M mode, the M mode 
 When the selector lever is pushed to the D position from the M mode, the M position sensor detects the change and sends another signal to the TCU. Then, the TCU enables the transmission to choose from all available gears including the highest one (the D position).
 
 ![](images/747f4d0a4a91b0ba4d53058957c17b70059f9df2e2669f4ae12807e761087ae9.webp)
-
-# 3. MODE SWITCH
 
 # 1) Function and Usage
 
@@ -9582,8 +9249,6 @@ Do not push down the shift lock release lever excessively. The internal parts co
 
 ![](images/9e40c945b47982cdd56ad11d013c46e3026fb7af8d1be2a81370a55a9ae3a3b1.webp)
 
-# OVERVIEW AND OPERATION PROCESS
-
 # 1. FUNCTION AND OVERVIEW 1) SAT (Self Adjusting Technology) Clutch System
 
 (1) Function
@@ -9601,8 +9266,6 @@ SAT is new clutch system which adjusts the clutch freeplay according to the wear
 - Disc wear (Free play) → Diaphragm spring (1) → Adjusting equipment (2, 3) → Pressure plate (4)
 
 ![](images/01a217ed5572da3a9f4230ccd2d2d936cbf0d0acf748c3c6b84d03516feb0976.webp)
-
-# 2) Overview
 
 # Driving Elements
 
@@ -9635,11 +9298,7 @@ This system directly releases the clutch by using hydraulic pressure while the c
 
 ![](images/7c2b3ce7ec56023222db18e727c9f04587b8b293ba08749716e83ee2583da763.webp)
 
-# PROPELLER SHAFT
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/8e8d66562246e4b53b39fc9efc9bb7a3970533e0bfc096c0d8ef086c18da9cc1.webp)
 
@@ -9650,8 +9309,6 @@ This system directly releases the clutch by using hydraulic pressure while the c
 ![](images/10caf8a8640bca73d660350a4160580c22ad69eb73975e4f8e7fea794cba17b6.webp)
 
 # OVERVIEW AND OPERATING PROCESS
-
-# 1. OVERVIEW
 
 The propeller shaft transfers the power through the transmission and transfer case to the front/rear axle differential carrier (final reduction gear).   
 It is manufactured by a thin rounded steel pipe to have the strong resisting force against the torsion and bending.   
@@ -9694,8 +9351,6 @@ The specification below is for front and rear axles equipped in Actyon, includin
 
 # OVERVIEW AND OPERATION PROCESS
 
-# 1. OVERVIEW OF AXLE
-
 1) Front Axle
 
 ![](images/94cd8e4fa5df953db50db0182d6013c6e3fd94cc1ec90261ca50a0b713a37ee9.webp)
@@ -9707,10 +9362,6 @@ The specification below is for front and rear axles equipped in Actyon, includin
 ![](images/c8253d1b2afa73a53a7ec622bcd3bb14caa182b9c5f80e41a2b21faa37dbc0aa.webp)
 
 # TRANSFER CASE
-
-# GENERAL
-
-# 1. OVERVIEW
 
 By using the planetary gear sets, two-gears shift type part time transfer case achieves direct connection when selecting 4WD "HIGH" and 2.48 of reduction gear ratio when selecting 4WD "LOW". The silent chain in transfer case transfers the output power to front wheels.
 
@@ -9734,8 +9385,6 @@ In non-ABS vehicle, the vehicle speed sensor is installed on the rear drive axle
 ![](images/5cda53867912a641514c0719f4f9b72c51a559d82be35a91a2ad2ef061fabfed.webp)
 
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. STRUCTURE
 
 ![](images/64194370aa4378636cb7538591ab36ee328b79d0238bc78c97f6e1eee62471d3.webp)
 
@@ -9827,11 +9476,7 @@ Vacuum generation process in front hub actuator:
 
 ![](images/392a0d1e9aa89c7224c15801e3b7bc93ca9417225695e80829a256daa0101b58.webp)
 
-# BRAKE SYSTEM
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/7b1689e1509a9fc39e88b41bec8cc86f9acb0f2d2b583753838a9a456dce89e3.webp)
 
@@ -9844,8 +9489,6 @@ Service Interval: Change the brake oil at every 2 years
 It is the quality grade of brake fluid established by US Department of Transportation.
 
 ![](images/db7909680056a86e5d933918e7786e2f47ea65f9dc86aad1133a452c2f1319dc.webp)
-
-# 2. SYSTEM OVERVIEW
 
 # 1) Terms and Definition
 
@@ -9925,8 +9568,6 @@ It is also a physical phenomenon and has no relation with the brake performance.
 ![](images/164c516eaf213d73deccd06c699952c2b0143082514430905c523647bf7af8e7.webp)
 
 # 4. AIR BLEEDING
-
-# CAUTION
 
 -Never reuse the used brake fluid.   
 -  Use only specifies brake fluid (DOT 4). Add brake fluid between MAX and MIN lines on the reservoir (0.7 to 0.8 liters).   
@@ -10258,8 +9899,6 @@ Brake Pedal, Master Cylinder and Booster
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. OVERVIEW
-
 Even though a driver cuts off the power, while driving, the vehicle continues to move due to the law of inertia. Therefore, a braking device is needed to stop the vehicle. The brake system normally uses the frictional discs that converts the kinetic energy to the thermal energy by frictional operation. The brake system consists of the brake disc (front wheel), brake disc or drum (rear wheel), parking brake (mechanical type), master cylinder, booster, pedal and supply lines (pipes and hoses).
 
 # Hydraulic Brake
@@ -10436,8 +10075,6 @@ must take caution for the vehicle may drift away from the lane.
 
 ![](images/95e27808f6743121b2b825b5f3fbe0045a370e4616194c1b14ed69cbca01c5c4.webp)
 
-# OVERVIEW AND OPERATION PROCESS
-
 # 1. OVERVIEW OF ESP(ELECTRONIC STABILITY PROGRAM) SYSTEM
 
 The ESP system consists of basic ABS functions, the vehicle position control depending on the driving conditions and the road conditions, the HBA (Hydraulic Brake Assist System) that improves the braking power in an emergency, and the ARP (Active Rollover Protection) that obstructs the physical tendency to rollover during sharp turns and prevents the vehicle rollover by quickly and firmly controling the engine output and the brake.
@@ -10599,8 +10236,6 @@ The vehicle driving condition is controlled by the internally programmed logic a
 ![](images/a481b554e063aa7b1e61fdb660ec71ec6c71eff5e788b202e61b4683da0ecd33.webp)
 
 # 6. PRINCIPLE OF HDC(HILL DESCENT CONTROL)
-
-# 1) System Overview
 
 The HDC system is an automatic descent control device that allows the vehicle to automatically decelerate to about 7 km/h by 0.1G, on steep roads (slope level exceeding 10%) through a separately installed switch operation.
 
@@ -10924,8 +10559,6 @@ In this case, the operating force of the steering wheel is conveyed to the pinio
 
 # OVERVIEW AND OPERATION
 
-# 1. SYSTEM LAYOUT
-
 ![](images/d034caef04098808c36a6f88e2cc7ec47f1f222ba14346b640fb1e7b76a5dc6b.webp)
 
 ![](images/c6b15ffa47cbff6ba73f6e56f0819fb6b37b63f43e258364fe42b77988aaddaa.webp)
@@ -10946,8 +10579,6 @@ In this case, the operating force of the steering wheel is conveyed to the pinio
 
 # GENERAL INFORMATION
 
-# 1. SPECIFICATIONS
-
 ![](images/42222a6f690953094818d4fa371aa86ee6d2eb169d37ab41e012cba6adbd113c.webp)
 
 ![](images/6f307d2759288578d38b1ce6f7a52b209b976c45c09f0e29203b67d84ffd8eef.webp)
@@ -10957,8 +10588,6 @@ In this case, the operating force of the steering wheel is conveyed to the pinio
 ![](images/55e3a8d27c371fb3f6807e8ee7ecfb4d019520d69954c3ce3c883126a16f0012.webp)
 
 ![](images/a7e26df8bed6997b66007b7c09eb8314aa363c4fadfcf3b073dd5a933d2cc1ad.webp)
-
-# 3. INSPECTION
 
 # 1) Appearance Check
 
@@ -11069,8 +10698,6 @@ To avoid uneven wear of tres and to prolong tire life, inspect and rotate your t
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. OVERVIEW
-
 A radial tire uses a cord angle of 90 degrees. That is, the cord material runs in a radial or direct line from one bead to the other across the tread. In addition, a radial tire has a belt overwrap under the tread surface to provide greater structural stability. The belt overwrap of a radial tire distortion while the radial structure enables high speed driving.
 
 Tire supports the weight of the vehicle, reduces the impact from the road and at the same time, transmits the power to propel, brake and steer on the road. It also functions to maintain a vehicle's movement. In order to complete such tasks, a tire must be structured to be a resilient vessel of air.
@@ -11167,8 +10794,6 @@ When the free rotation of the wheel is allowed, the heavier part is stopped on t
 The static unbalance of the wheel creates the vibration in the vertical direction, but the dynamic unbalance creates the vibration in the lateral direction. As shown in the figure 2 (a), if two parts, (2) and (3), are heavier when the wheels are under the static balance condition, dynamic unbalance is created, resulting in shimmy, left and right vibration of the wheels, and the torque Fxa is applied in the axial direction. To correct the dynamic unbalance, add the balance weight of a same weight for two points of the circumference of the rim, A and B, as shown in the figure 2 (b), and apply the torque in the opposite direction to the torque Fxa to offset in order to ensure smooth rotation of the wheel.
 
 ![](images/db3d505236d561c676cf26fc4d4c56f9e938da192a4a7d1f1e179b8bc05957ef.webp)
-
-# OVERVIEW AND OPERATION PROCESS
 
 # 1. SYSTEM LAYOUT AND COMPONENTS
 
@@ -11505,8 +11130,6 @@ When, due to an error from outside the system, the intermittent failure signal i
 
 # OVERVIEW AND OPERATION PROCESS
 
-# 1. COMPOSITION OF SEAT
-
 1) Front Seat (1) Driver Seat
 
 ![](images/0a6ae1d7f28f97c75208b563d62a60eaf4883fdf0eb53a896c751d0a875c38b5.webp)
@@ -11584,8 +11207,6 @@ To change the seatback angle, push the lever rearward. Then, release the lever a
 
 # OVERVIEW AND OPERATION PROCESS
 
-# 1. COMPONENTS AND LOCATIONS
-
 ![](images/4eb5f4c5d72906adc960f6057909755e4f862d57cb477d5991501f32ce6716f6.webp)
 
 ![](images/88e79ae06d5522550df20979cedf3850fcd83bc68148fc011cad84db73ecc6c0.webp)
@@ -11600,8 +11221,6 @@ When driving the vehicle with the window or sunroof open at a certain position, 
 
 # 1) Sunroof Sliding Operation
 
-# (1) Two-touch Open
-
 If you rotate the sunroof switch clockwise (OPEN direction) for less than 0.5 seconds, the sunroof slides back and opens until it reaches at the 1st stop position (330 mm). Then, if you continue to rotate the switch to its stop, the sunroof is pull opened (420 mm). To stop the operation while moving, operate the sunroof switch to any direction.
 
 # (2) Close
@@ -11609,8 +11228,6 @@ If you rotate the sunroof switch clockwise (OPEN direction) for less than 0.5 se
 To fully close the sunroof, briefly (for approx. 0.5 sec.) rotate the sunroof switch counterclockwise (CLOSE direction) with the sunroof open. To partially close the sunroof, rotate and hold the sunroof switch until it reaches at the desired position.
 
 # 2) Sunroof Tilting Operation
-
-# (1) Tilt-up
 
 To tit-up the sunroof, rotate the sunroof switch counterclockwise (CLOSE direction) with the sunroof fully closed.
 
@@ -11667,8 +11284,6 @@ BODY INTERIORACTYON 2012.12
 ![](images/4bc3c1bb35986c326eb4e1ab25bbdaa40b3a5f5e74e4ec42f1b911ea847a91d9.webp)
 
 # GENERAL INFORMATION
-
-# 1. DIMENSIONS
 
 Unit: mm
 
@@ -11730,8 +11345,6 @@ BPR sealer is sprayed by robot and is designed to reinforce the body panel and r
 
 # GENERAL INFORMATION
 
-# 1. DIMENSIONS
-
 Unit: mm
 
 ![](images/25ee279b9b4169040bc429f340e697642f50170d5c6caa040196bae1fffcb983.webp)
@@ -12022,8 +11635,6 @@ It is installed under the instrument panel and consists of 16 pins
 
 ![](images/f629b11bb38858e23be921357e400cc53d5f4253dc4053cf4d0d6b59b24ddd21.webp)
 
-# ELECTRIC DEVICE GENERAL INFORMATION
-
 # 1. HOW TO READ ELECTRICAL WIRING DIAGRAM 1) HOW TO READ ELECTRICAL WIRING DIAGRAM
 
 ![](images/f421c2e3ce929d9927551d15abe232d1b48a070d3bcb64a4f61fc7fefd00b6cb.webp)
@@ -12078,8 +11689,6 @@ Ex.)C102
 ![](images/9f75e22515c8a806cf2e0efb32dbc1964729dfc4602fcbef90f87c27fa6c26b6.webp)
 
 # CONNECTOR/GROUND
-
-# WIRING HARNESS
 
 0000-00 WIRING HARNESS, COMPONENTS LOCATION..
 
@@ -12151,8 +11760,6 @@ S302
 Courtesy DiverrR BrW C-35 BrW © 2\$ C901A RG CombiampH   
 CouPasynar PR BrW C361 5 BrW 10- 3 RG CombiampH   
 Stop Lamp SW "2" Y ^\$ RG C2\$ RG TGS Lever "10" (5-A/T) Combi Lamp Y \${2\$ 5\$ RG ← Parking Aid Unit "14" LH/RH "2" ABS Unit "41" Y 13\$ 0 RG C20\$ RG Auo imiin 14- RG C20\$ RG Cluster "A16" (M/T) □
-
-# 5) CONNECTOR
 
 # WIRNING CONNECTOR
 
@@ -12237,8 +11844,6 @@ Power Outlet Puran e Fuel Pump (FRT/RR DR) HLLD Chime Bell ②② ил (GSL) ①
 
 # 8410-00 ENGINE ROOM FUSE / RELAY BOX
 
-# 1) UPPER
-
 ![](images/99a0651ee7332c95d99057126200c2becb82542479e8d938d4264e62b7b3004a.webp)
 
 # 2) LOWER
@@ -12271,8 +11876,6 @@ F24 F41 O/Side MRR SPARE SPARE A/BAG DIGITAL CLOCKK SPARE SPARE 10A 7.5A SIROOF 
 ![](images/6e92f2650ca712f835b7fc7d16deb4b0b3432122ba4e2bed36b7685f5113c308.webp)
 
 ![](images/262ef009a32b8eab3d72ef81680e828b137393f2ca4b4661552b693b6e64cc20.webp)
-
-# ELECTRICITY DIVIDE
 
 # 8410-00 ENGINE ROOM FUSE / RELAY BOX CIRCUIT
 
@@ -12546,8 +12149,6 @@ B 7 8 9 10112 B 12410117 1 с 171112
 с 1 2 3 4 5 6 7 8 9 10 TCU (5-A/T) TCCU STICS 9 1011 12 13 14 15 16 1920 TCU(6-A/T)
 
 ![](images/e5e423b459568f0b3ba4d360ed67d8335dedb6695ac96be5934f0bfc05cfe065.webp)
-
-# 3110-00 TCU (6-A/T)
 
 # 1) START MOTOR, TGS LEVER, INHIBITOR SW
 
@@ -13205,8 +12806,6 @@ B \* 123456 123456 123456 12\$ D20DTR(EU-V)ECU Intake Motor Mode Motor Air Mix M
 
 # GENERAL INFORMATION
 
-# 1. DIMENSIONS
-
 Unit: mm
 
 ![](images/bc617ec6241ffcb0294ad8b7738bdb182163bde73066b9121f68c5426b223792.webp)
@@ -13545,8 +13144,6 @@ B W/H RR |W/H T/M WHRR C207 LHDR W/H FUEL SENDER RHDRR C206 C208 AL ● G304 W/H
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. GLOSSARY
-
 ![](images/eb2b1580f46501e2c5754e0ba3606d30b962838843081edeb05683ec87ea882c.webp)
 
 ![](images/2a4b82495c0e33fb126a8cb73a58883fce16e2ea713c1f7e4f6aaae9ca0ffb7e.webp)
@@ -13601,11 +13198,7 @@ B W/H RR |W/H T/M WHRR C207 LHDR W/H FUEL SENDER RHDRR C206 C208 AL ● G304 W/H
 
 ![](images/bac4de423f875e4c2e981423654a1d48c5fe350580fb40ea10278e3c028e3fda.webp)
 
-# ENGINE GENERAL
-
 # GENERAL INFORMATION
-
-# 1. ENGINE LAYOUT
 
 ![](images/40274bc5926963840573f0f191ca875bc682359a9b66c3c29b2c49145ff0d01f.webp)
 
@@ -13664,13 +13257,9 @@ Frequent stop-and-go trafic, extended idling, short driving distance below 6 km,
 
 # 4. CAUTION WHEN SERVICING THE ENGINE
 
-# 1) Cleaness
-
 Engine has a lot of precisely machined (grinding, polishing, lapping) surfaces. Thus, there should be great cautions for cleaness when servicing the engine components. Apply the engine oil on the sliding surfaces when assemblying the components. Every component should be disassembled and reassembled in accordance with the correct sequences. Before servicing the engine, the negative cable should be diconnected from the battery. Otherwise, some electric or electronic components could be damaged.
 
 # ) Servicing
-
-# CAUTION
 
 -Before service work, be sure to disconnect battery negative (-) terminal to prevent damages by bad wire and short.
 
@@ -13750,17 +13339,11 @@ Never remove the coolant reservoir cap when the engine and radiator are hot.
 
 # 7. CODING AND INITIALIZATION
 
-# 1) Engine Variant Coding
-
 ![](images/4ec8f2b046580d8f98acf0da3dfc26dacf0dddb6198c33fbba10fa3355dc6ff2.webp)
 
 ![](images/8386a883e2e777939be4a91a494d611eee62353945de55d78a2a49de868e0bb6.webp)
 
 # D20DTR ENGINE ASSEMBLY
-
-# GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/ec639c887d651ef6b790bb61fd3749c5b6810bf0ae2dfa7482712f4d7888bd5b.webp)
 
@@ -13925,8 +13508,6 @@ Currently, the engine has a lot of electric devices. there could be poor engine 
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. BELT LAYOUT
-
 It is single drive type and uses FEAD (Front End Accessories Drive) design to make a compact layout.
 
 # Components
@@ -13938,8 +13519,6 @@ It is single drive type and uses FEAD (Front End Accessories Drive) design to ma
 ![](images/0df2a0528f584a94af1dcd822e9c8859e0bb3d6f4b889bdcb8dcf96a1fddaeda.webp)
 
 # 1Crankshaft Pully (Isolation Damper)
-
-# (1) Overview
 
 The strut type tensioner automatically adjusts the belt tension to provide the reliability and durability for the system. And, the belt tension is decreased to minimize the friction loss and improve the belt operating noise.
 
@@ -13961,8 +13540,6 @@ The strut type tensioner automatically adjusts the belt tension to provide the r
 ![](images/937d1201ee5a32daebff2aaf5c8cc3b31b0c843b394d5878fb8833ae1a5e939f.webp)
 
 # 2) Belt Tensioner
-
-# (1) Overview
 
 The torque deviation from crankshaft affects the components in belt drive system and the belt movement. The auto tensioner system is to adjust this deviation automatically. In D20DTR engine, one of the mechanical tensioner, pivot damped tensioner is used to keep the damping force, system reliability and durabilit. The single belt drive system needs to use the automatic belt tensioning device to transfer the power to pulleys efectively. To get this, the tensioner uses the spring and damping unit.
 
@@ -14012,8 +13589,6 @@ D20DTR engine uses 3-point mounting type that supports the engine and transmissi
 
 # 4. INTAKE/EXHAUST MANIFOLD
 
-# 1) Intake Manifold
-
 Intake manifold is installed on the cylinder head with 8 bolts. The variable swirl valve is introduced to improve the EGR gas mixture and turbulence in combustion chamber and to decrease the exhaust gas.
 
 # Components
@@ -14036,8 +13611,6 @@ Exhaust manifold is installed on the cylinder head with 10 stud bolts and nuts. 
 
 # 5. CYLINDER HEAD COVER AND OIL SEPARATOR
 
-# 1) Cylinder Head Cover
-
 The cylinder head cover is made by high strength plastic to reduce the weight. The multi twist type oil separator improves the oil consumption.
 
 # Components
@@ -14047,8 +13620,6 @@ The cylinder head cover is made by high strength plastic to reduce the weight. T
 ![](images/a9ed57d383cbb15a1594d703b243576370a6a9d7eb186dd40eece4605f5786cb.webp)
 
 # 2) Oil Separator
-
-# (1) Overview
 
 Oil separator separates the particle in blow-by gas to minimize the engine oil consumption and reduces the inflow oil from intake system into the combustion chamber. The separated oil returns to oil pan through cylinder head.
 
@@ -14070,8 +13641,6 @@ Cylinder head contains cam position sensor, vacuum pump, intake manifold, exhaus
 
 # 1) Cylinder Head
 
-# (1) Overview
-
 The cylinder is made by gravity casting and the water jacket is integrated type.   
 The cylinder oil passage is drilled and sealed by cap.   
 The Camshaft bearing cap is also made by casting and installed on the cylinder head.
@@ -14087,8 +13656,6 @@ The Camshaft bearing cap is also made by casting and installed on the cylinder h
 # Closed flow type water jacket (improving cooling performance)
 
 ![](images/5626e4ae83b53dca59cf3d6e4c6ec76f288b6efcf644a9b3cd31b77e0e478069.webp)
-
-# 2) Camshaft
 
 # (1) Overview
 
@@ -14119,8 +13686,6 @@ consumption at high speed)
 
 # 4) Cylinder Head Gasket
 
-# (1) Features
-
 1. Sealing the cylinder gas pressure - Peak pressure: 190 bar   
 . Minimizing the distortion of engine structure (cylinder head, block): profile stopper, backland stopper Material: MLS (Multi Layer Steel), Gasket (3 layers)   
 3. Thickness of gasket: 3 types (1.2 /1.3 /1.4 mm)   
@@ -14143,8 +13708,6 @@ There are three types of gasket to managing the compression ratio.
 D20DTR engine uses single stage chain drive system. Timing chain drives the exhaust side and gear drive the intake side. Timing chain is single bush type. Upper chain drives HP pump connected to intake Camshaft by driving exhaust cam shift sprocke, and lower chain drives oil pump to lubricate the engine.
 
 # 1) Chain Drive
-
-# (1) Overview
 
 The drive chain is single chain drive system with simple design and variable performance, and it utilizes the hydraulic tensioner to reduce the wave impact generated by the chain. This chain is light weight and has high durability through single bush chain. Shoulder bolts are used for better NHV.
 
@@ -14337,8 +13900,6 @@ Snap pin -Locks the piston pin.
 
 # 2) Connecting Rod
 
-# (1) Overview
-
 Connecting rod converts the reciprocating movement of piston to the rotating movement of crankshaft. The big end is connected to connecting rod bearing and the crank pin journal, and the small end is connected to the piston pin.
 
 # (2) Components
@@ -14413,17 +13974,11 @@ The engine oil from oil pump is supplied to the main oil gallery through oil cha
 
 ![](images/8282b38d19a78a4aeb2ae906c894672621d52bfeef264304923c6994b94be671.webp)
 
-# FUEL SYSTEM
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/7ddb4791b4e679dd9291783d0531e03c835f3cb9872d0c2024ad37d99105111f.webp)
 
 ![](images/ffdbd17a6cf2f0d7ba69727983c2c2c21e257a1a69d500502acb48c3232084b0.webp)
-
-# 2. MAINTENANCE AND INSPECTION
 
 # 1) Maintenance Procedures for DI Engine Fuel System
 
@@ -14486,8 +14041,6 @@ Plug the disconnected parts with sealing caps, and remove the caps immediately b
 ![](images/8771f76be16671a87658ee71b845256c827e83fa639a07e753e6553b0386b917.webp)
 
 # 2) Diagnostic Test for Engine Fuel System
-
-# (1) Overview
 
 If a DTC is displayed on the diagnostic device, check the low pressure- and high pressure fuel systems before removing the components.
 
@@ -14698,8 +14251,6 @@ This test consists of 4 cycles, and the engine rpm reaches 3,500 rpm for 18 seco
 
 # 3. CAUTIONS FOR DI ENGINE
 
-# 1) Cautions for DI Engine
-
 This chapter describes the cautions for DI engine equipped vehicle. This includes the water separation from engine, warning lights, symptoms when engine malfunctioning, causes and actions.
 
 # 1.DI Engine
@@ -14725,10 +14276,6 @@ Also, the driving force of the vehicle decreases (torque reduction). If these co
 
 ![](images/96222265b5f1d1fc40bca209cd1df44b3657b28bd9912ce66bb9d1eca585469f.webp)
 
-# 2) Cleanness
-
-# (1) Cleanness of DI engine fuel system
-
 # Cleanness of DI engine fuel system and service procedures
 
 The fuel system for DI engine consists of transfer (low pressure) line and high pressure line.   
@@ -14745,8 +14292,6 @@ The core elements of fuel system has very high precisenessthat is easily affecte
 ![](images/b92ee402c2a61ede01f2380d8fa80d5e659eb3b73535d693460ead10792ebc74.webp)
 
 # (2) Di engine and its expected problems and remedies can be caused by water in fuel
-
-# System supplement against parafin separation
 
 In case of Diesel fuel, parafin, one of the elements, can be separated from fuel during winter and then can stick on the fuel filter blocking fuel flow and causing difficult starting finally. Oil companies supply summer fuel and winter fuel by differentiating mixing ratio of kerosene and other elements by region and season. However, above phenomenon can be happened if stations have poor facilities or sellimproper fuel for the season. In case of DI engine, purity of fuel is very important factor to keep internal preciseness of HP pump and injector.
 
@@ -14772,8 +14317,6 @@ To separate the water from the fuel filter, remove the fuel filter assembly firs
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. OVERVIEW
-
 The components in fuel system supply the fuel and generate the high pressure to inject the fuel to each injector. They are controlled by the engine ECU.
 
 The common rail fuel injection system consists of fuel tank, fuel line, low pressure line which supplies low pressure fuel to the low pressure pump (including high pressure pump), common rail which distributes and accumulates the high pressurized fuel from the fuel pump, high pressure line which connected to the injector, and the engine control unit (ECU) which calculates the accelerator pedal position and controls the overall performance of vehicle based on the input signals from various sensors.
@@ -14785,10 +14328,6 @@ The common rail fuel injection system consists of fuel tank, fuel line, low pres
 ![](images/6f80981117507d2da2ba5374a33d0ee3ed3930ac7c684e6ed5932907a75bb52a.webp)
 
 # 2. SYSTEM LAYOUT AND OPERATION
-
-# 1) Layout
-
-# NOTE
 
 For sensor and actuator control logic, refer to Chapter "Engine Control".
 
@@ -14831,11 +14370,7 @@ Also, the ECU uses the signals from the coolant temperature & air temperature se
 
 ![](images/8b6de85276086a7204194284417864bb308db2afb3a03be3a73998e6df1d80d8.webp)
 
-# INTAKE SYSTEM
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/f56b45290771970a8483528f1fe42cfebe8fa705a4fcf7fede0a8cf724b86452.webp)
 
@@ -14843,13 +14378,7 @@ Also, the ECU uses the signals from the coolant temperature & air temperature se
 
 ![](images/f7e7426be024f0ed20222e8ada04dab94301f2dc5094bef71c8d04dd6a7bc08b.webp)
 
-# 2. INSPECTION
-
-# 1) Troubleshooting
-
 # When Abnormal Noises are Heard from the Engine Room
-
-# CAUTION
 
 For the vehicle equipped with DI engine, if a learning noise occurs in each range or other noises occur, the major cause of it is a faulty turbocharger assembly. But an interference issue, poor tightness or loose in the intake and exhaust system also can cause those noises. This is mainly because the operator didn't follow the instruction exactly when reconnecting the intake hoses and pipes which were disconnected to check the system or replace the air cleaner. If the intake system is free of any faults, check the EGR and PCV oil separator connected to the intake system. The figure may be different from the actual engine. Therefore, read thoroughly below before replacing the parts.
 
@@ -14906,8 +14435,6 @@ If the intake system is free of any faults, check for EGR and PCV oil separator.
 ![](images/855f6499f6db6e3e231ff32fb1b59e8435705d6d7529cb7827ac4e5fdd4e53e0.webp)
 
 # OVERVIEW AND OPERATING PROCESS
-
-# 1. OVERVIEW
 
 The intake system for D20DTR engine is equipped with a throtle body which includes a flap. This flap is controlled by an electrical signal to cut offthe intake air entering to the engine when the ignition switch is turned of. Because of this, the shape of the intake manifold has been changed and improved HFM sensor is newly adopted to control the intake air volume more precisely.
 
@@ -14983,8 +14510,6 @@ The injector for DI engine uses the multi hole design. For this vehicle, there a
 
 # ENGINE EXHAUST SYSTEM
 
-# GENERAL INFORMATION
-
 1. TROUBLESHOOTING   
 1) Work Flow
 
@@ -15007,8 +14532,6 @@ The injector for DI engine uses the multi hole design. For this vehicle, there a
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. OVERVIEW
-
 This system purifies the exhaust gas generated by the combustion in the engine to reduce the polutants and noise during that arise during combustion.
 
 # 2. LAYOUT
@@ -15029,17 +14552,11 @@ This system purifies the exhaust gas generated by the combustion in the engine t
 
 ![](images/cb702e9546dc611ecad12355a38f1a829138c845258063db733ba3473e483465.webp)
 
-# TURBOCHARGER
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/ff6ac41b10d6160493deb5e450bcd68bf18980a7c86344936d0488b37841db13.webp)
 
 ![](images/58c7197475370bf9f89e2313de51dc565d899a7c5e48401b79fc6bb4878562e6.webp)
-
-# 2. INSPECTION
 
 # 1) Cautions During Driving
 
@@ -15172,11 +14689,7 @@ The followings are cautions to take in handling defects of turbocharger, which m
 
 ![](images/8365b00544e5d5b47f3cc00b9b57c9e50e8058fdfbe03137aeb31cd699dc715f.webp)
 
-# OVERVIEW AND OPERATING PROCESS
-
 # 1. SYSTEM DESCRIPTION OF E-VGT (Electric-Variable Geometry Turbine)
-
-# 1) Overview
 
 The E-VGT turbocharger has one shaft where at each ends are installed with two turbines having different angles to connect one end of housing to the intake manifold and the other end to the exhaust manifold. As the turbine, at exhaust end, is rotated by exhaust gas pressure the impeller, at intake end, gets rotated to send air around center of the impeller, being circumferentiall accelerated by the centrifugal force, into the diffuser. The air, which has been introduced to the difuser having a passage with big surface, transforms its speed energy into the pressure energy while being supplied to the cylinder improving the volume effciency. Also, the exhaust efficiency improves as the exhaust turbine rotates. The turbocharger is often referred to as the exhaust turbine turbocharger.
 
@@ -15187,8 +14700,6 @@ The engine ECU controls the E-Actuator electronically as follows:
 -At low speed: Narrows the flow passage for the exhaust gas, resulting in increasing the flow speed of the exhaust gas and running the turbine quickly and powerfully. -At high speed: Expands the flow passage for the exhaust gas, resulting in increasing the mass flow of the exhaust gas and running the turbine more powerfully.
 
 ![](images/bf89e59e6a15158128447fdc996001e0f562658986e1c7739afe60151bd1464b.webp)
-
-# 2) Features
 
 # (1) Performance (for EURO V)
 
@@ -15239,8 +14750,6 @@ At low speed, it utilizes the principle of venturi. For example, when air flows 
 ![](images/78cbb34d88c1ce480afd4c8ac8537611463214429644cd34314b981fe58dfe4f.webp)  
 V1 x A1 = V2 x A2 = Constant
 
-# NOTE
-
 # Turbocharger lag
 
 The turbocharger is at idle speed when there is no load or it is in the normal driving condition. During this period, the amount of exhaust gas passing through the turbine is not enough to turn the compressor wheel (impeller) fast. Therefore, the intake air is not compressed as needed. Because of this, it takes time for turbocharger to supply the additional power after the accelerator pedal is depressed. This is called "turbocharger lag".
@@ -15255,11 +14764,7 @@ In a high speed zone, the amount of exhaust gas increases and it is accompanied 
 
 ![](images/753b5ee14b070a703648f0673dff9e0f0f2861f43db0f084e5976717dd955092.webp)
 
-# LUBRICATION SYSTEM
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/86ac3916f29a3fc1dd3b10bf1128698e6a1e66f61a73dea04829938cbed8d06a.webp)
 
@@ -15279,8 +14784,6 @@ Severe Driving Condition
 ![](images/5284d42b5c1aca0bf5a4552edc109297f953e48b4dcedc4f7e8d656e3783ff70.webp)
 
 # 2. MAINTENANCE
-
-# 1) Level Check
 
 Park the vehicle on a level ground and apply the parking brake. Stop the engine and wait more than 5 minutes.
 
@@ -15310,10 +14813,6 @@ Recheck the oil level after 5 minutes.
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. SYSTEM DESCRIPTION
-
-# 1) Overview
-
 The lubrication system supplies oil to each lubrication section to prevent friction and wear and to remove heat from the friction part. As the engine runs, frictional heat is generated on each lubrication section. If this condition persists, the bearing can be burned and stuck.   
 In other words, it creates an oil film on each sliding surface to convert solid friction to liquid friction in order to minimize wear and prevent temperature increasing on the friction part.   
 For the D20DTF engine with no oil pressure switch, the engine ECU receives the low engine oil level signal from the oil level sensor and communicates with the instrument cluster through the CAN communication to turn on the warning lamp.
@@ -15325,8 +14824,6 @@ For the D20DTF engine with no oil pressure switch, the engine ECU receives the l
 ![](images/c72b19da00fb935c786c7fbf3ffd7dc3736b0c137ac1cf855ec7b9a277318a61.webp)
 
 # 2. FUNCTIONS OF LUBRICATION
-
-# 1) Lubrication
 
 It creates a viscous barrer between moving parts that reduces friction, which means less heat and longer life for those parts. As a lubricant, oil must maintain a protective film to prevent metal-to-metal contact. It must be fluid enough to allow easy starting and to circulate quickly through the engine, yet remain thick enough at higher operating temperatures and speeds to provide adequate lubrication.
 
@@ -15349,11 +14846,7 @@ The small particles of dirt or other contaminants are suspended in oil and carri
 
 ![](images/b02a5b50a0a232d33d840688c557d27a111a17148c34444a446e1d3ce5fa49ee.webp)
 
-# COOLING SYSTEM
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/1efeb9a67630ab0444797987dc1cca427e0868b0df239101a2760294141a039a.webp)
 
@@ -15403,8 +14896,6 @@ Immerse the thermostat into the water. Heat the water and check the valve openin
 
 # 3. CAUTIONS
 
-# CAUTION
-
 - If 100% of anti-freeze is added, the water pump vane can be damaged and thermal conductivity can be decreased resulting in poor circulation in the coling system which leads to overheated engine.   
 -Use of non-recommended coolant could cause damage to the cooling system and overheating of the engine.   
 -Opening the coolant reservoir cap while the engine is running or hot can cause burns by hot steam or water.   
@@ -15418,8 +14909,6 @@ Immerse the thermostat into the water. Heat the water and check the valve openin
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. SYSTEM DESCRIPTION
-
 1) Overview
 
 ![](images/a0f92069120790eb33034c8f51c8d34170214f2213a6cb9bbb1f5a3437e5811a.webp)
@@ -15430,17 +14919,11 @@ Immerse the thermostat into the water. Heat the water and check the valve openin
 
 ![](images/050d02429316c55c43620a69f6ca8f9792cf8984d830524da5c8c6ec3f82e7e9.webp)
 
-# CHARGING SYSTEM
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/bbf6639808f49fe8c4ed2b20e084b11733a71a7d65fd91d729d3a6bb21f4deed.webp)
 
 ![](images/f27bd0ca77b182ba697b98508193acfd94ba6429f8036a012aca40f15a9839c0.webp)
-
-# 2. INSPECTION
 
 # 1) Alternator Output Test
 
@@ -15464,8 +14947,6 @@ Immerse the thermostat into the water. Heat the water and check the valve openin
 ![](images/c62bcbf364f342d6eb47f43922d827487cbfc69f355642765c9330e81cd57e4b.webp)
 
 ![](images/03c0f1f8909e3c245362fe7d847f874709a7de9306bd75a993c4b3987dcf780f.webp)
-
-# (1) Checking
 
 # Using battery tester
 
@@ -15535,10 +15016,6 @@ Check the battery for crack, damage or fluid leaks. Replace it if necessary. Wip
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. SYSTEM DESCRIPTION
-
-# 1) Overview
-
 The charge system is designed to supply electrical energy to the vehicle while driving, and supplies a constant direct current voltage by converting mechanical rotational movement to electrical energy. The voltage regulator on the back of the alternator controls the generated voltage in al rotating ranges and adjusts the system voltage according to the electric load and ambient temperature change.
 
 # 2) System Layout (Locations)
@@ -15583,19 +15060,13 @@ Charging status: Charging a fully depleted battery takes twice or more as long a
 
 ![](images/c17f23cfab36a5631daa346c9f14b2f0eca3609c2ba563cbc7ddeaa874387d55.webp)
 
-# D20DTR PRE-HEATING
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/8bd19ceb4286b6e7b561da8044a7ef42dd5bd1c5d896dad2f96d0a3ae8f5b215.webp)
 
 ![](images/d77c4f2a0f0b3bdde8ed082d9a2d3b0b4c2b35027076484097a485817073c469.webp)
 
 # OVERVIEW AND OPERATING PROCESS
-
-# 1. OVERVIEW
 
 The pre-heating system for D20DTR engine has the glow plug to the cylinder head (combustion chamber), and improves the cold start performance and reduces the emission level.   
 The pre-heating resistor (air heater) is used to heat the intake air.   
@@ -15668,11 +15139,7 @@ P1 to P2: Pre glow P3 to P4: Post glow
 
 ![](images/6d1c4c32fa77df827ad7722d83c5dae9e10fd32c25d9a70307d5e18b77d45d0a.webp)
 
-# STARTING SYSTEM
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/b6df12d31f2c4807e15c23423b8682678f5f027928ce42124143076921e61f36.webp)
 
@@ -15685,8 +15152,6 @@ P1 to P2: Pre glow P3 to P4: Post glow
 ![](images/d30560a883870d3eb1951505e21364e3c24cfec47078767d832882685f16a667.webp)
 
 # OVERVIEW AND OPERATING PROCESS
-
-# 1. SYSTEM DESCRIPTION
 
 The starter (start motor) starts the engine with rotational power by converting the electric energy to the mechanical energy.
 
@@ -15706,11 +15171,7 @@ When the engine is cranking, the pinion gear meshes with the ring gear. If the r
 
 ![](images/4d6cd73b834f228eeb123c2da45f280e2e39bec4e964cabe983192823ac4b599.webp)
 
-# CRUISE CONTROL SYSTEM
-
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. CRUISE CONTROL SWITCH
 
 ![](images/4754516f497538fc8ff12a1cf848fac1d95256752fc75c3c12b327cd2ad9c073.webp)
 
@@ -15874,21 +15335,13 @@ How well the cruise control works on hils depends on the speed, load, and the st
 
 ![](images/981216a551c48fabbea34b180caa24f9bf6cc8bd591adbd49ee60ea38542e7bd.webp)
 
-# E-EGR SYSTEM
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/9970fc7ba4e8c1f9402602a16134680f0a85ae961039bb783fecddedc306721a.webp)
 
 ![](images/023977b6bbdd7f0373aea133578bf1a95bd52e2cca82ce11d30a45e3f88873b8.webp)
 
 # OVERVIEW AND OPERATING PROCESS
-
-# 1. SYSTEM DESCRIPTION
-
-# 1) Overview
 
 The EGR (Electric-Exhaust Gas Recirculation) valve reduces the NOx emission level by recirculating some of the exhaust gas to the intake system.   
 To meet Euro-V regulation, the capacity and response rate of E-EGR valve in D20DTR engine have been greatly improved. The EGR cooler with high capacity reduces the Nox, and the bypass valve reduces the CO and HC due to EGR gas before warming up.   
@@ -15954,11 +15407,7 @@ The engine ECU calculates the EGR amount by adding main map value (intake air vo
 
 ![](images/d3d07cb01ba52a894afaac9f03d5ad88b07b3155b77c3ceaca425260ec37edff.webp)
 
-# CDPF SYSTEM
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/ed0dbc8a315330ce8fbfb3313f085751e8cc4449332dfb2c7cf29e1a868e5097.webp)
 
@@ -15991,8 +15440,6 @@ Do not use improper engine oil or fuel additives.
 
 ![](images/193572e3133baaf42042d986617dba4fbc91e0437d7caa9a46a0ad9bb162be0e.webp)
 
-# (3) Warning Lamp Related to CDPF
-
 # CDPF regeneration process (warning lamp NOT iluminated)
 
 ![](images/af08d0c02c708d6b4efbecd5d342ba533c140fd523c3f8cbc53474e6228347d6.webp)
@@ -16011,8 +15458,6 @@ Overload of CDPF (warning lamp blinking) Blinking
 ![](images/db6a141c2318096a3f458fd50dd7c6cdb43f76fd0a0e4836d00e88160208cecc.webp)
 
 # OVERVIEW AND OPERATING PROCESS
-
-# 1. OVERVIEW
 
 The DOC (Diesel Oxidation Catalyst) generates CO2 and H2O which are harmless through the oxidation process of CO and HC. And the DPF (Diesel Particulate Filter) collects PM (Particle Matter) and is regenerated to reduce the quantity of particulates, HC and CO. But there is a limitation in reducing the emission of exhaust gas for each system, so the CDPF which combines these two system is applied.
 
@@ -16131,19 +15576,13 @@ The differential pressure sensor installed in the DPF measures the pressure valu
 
 ![](images/9ce6da774e2da5482c799848d94e0fa4acee8cab3d75038d9675b444ed43727c.webp)
 
-# ENGINE CONTROL
-
 # GENERAL INFORMATION
-
-# 1. ENGINE DATA LIST
 
 ![](images/19a04a58db51aa55cf645f273119ce0e18b94682084a45e9ddd5e41e3e339aac.webp)
 
 ![](images/c92a66510efbfc9c01413e1600e70f725df0e9729ffceb7a581ba688210fe6b1.webp)
 
 # OVERVIEW AND OPERATINF PROCESS
-
-# 1. MAJOR COMPONENTS
 
 ![](images/1628e5b4a75a38a68b7a5a7cc8c1863aa36f45adb5afe68b97a04a6c4d72b036.webp)
 
@@ -16185,10 +15624,6 @@ Exhaust gas temperature sensor Self diagnosis Fuel temperature Other CAN info. W
 
 ![](images/097b122520bbbd92878b3cf3067267383d852a5114a270480632be1ebe4123b5.webp)
 
-# 2) ECU Control
-
-# (1) Function
-
 # a. ECU Function
 
 ECU receives and analyzes signals from various sensors and then modifies those signals into permissible voltage levels and analyzes to control respective actuators.   
@@ -16206,8 +15641,6 @@ To control the fuel volume precisely under repeated injections, high current sho
 ![](images/b3e582c3d59429840cc686f753adfa7b804503eacd3aec6be5049f1c3ba4c8b2.webp)
 
 # (2) Fuel injection control
-
-# a. Multi injection
 
 Fuel injection process consists of 3 steps: Main Injection, Pilot Injection, Post Injection
 
@@ -16321,8 +15754,6 @@ A fifth correction is made according to the rate of EGR.
 
 When the EGR rate increases, the injection timing advance must in fact be increased in order to compensate for the fallin termperature in the cylinder.
 
-# (5) Fuel Control
-
 # A. Main Flow Control
 
 The main flow represents the amount of fuel injected into the cylinder during the main injection. The pilot flow represents the amount of fuel injected during the pilot injection.
@@ -16385,8 +15816,6 @@ The pilot flow represents the amount of fuel injected into the cylinder during t
 
 During starting, the pilot flow is determined on the basis of the engine speed and the coolant temperature.
 
-# G. Cylinder Balancing Strategy
-
 # Balancing of the point to point flows
 
 The pulse of each injector is corrected according to the difference in instantaneous speed measured between 2 successive injectors.
@@ -16436,8 +15865,6 @@ The system measures the pulse at initial injection to reduce the engine vibratio
 
 ![](images/3d2738c8cca903bba12ff36a6ec48de7afff03e03789635f5c4943d89770caba.webp)
 
-# (7) Knocking Control
-
 # A. Resetting the pilot injection
 
 The knocking control is used to reset the pilot injection flow in closed loop for each injector. This method allows the correction of any injector deviations over a period of time. The principle of use of the knocking control is based on the detection of the combustion noises.   
@@ -16476,10 +15903,6 @@ This strategy permits the detection of a fault in the sensor or in the wiring lo
 It is based on detection of the combustion. When the engine is idling, the detection window is set too low for the combustion caused by the main injection. If the ratio increases, this shows that the knock sensor is working properly, but otherwise a fault is signaled to indicate a sensor failure. The recovery modes associated with this fault consist of inhibition of the pilot injection and discharge through the injectors.
 
 ![](images/b8d08b127d474cdb171533da5b172af687db2c8b25c7e74a2c96e10ec334c4d1.webp)
-
-# (8) Swirl control
-
-# A. Overview
 
 # Variable swirl valve
 
@@ -16545,8 +15968,6 @@ The injector for DI engine uses the multi hole design. For this vehicle, there a
 
 # (9) EGR control
 
-# A. Overview
-
 The EGR (Electric-Exhaust Gas Recirculation) valve reduces the NOx emission level by recirculating some of the exhaust gas to the intake system.   
 To meet Euro-V regulation, the capacity and response rate of E-EGR valve in D20DTR engine have been greatly improved. The EGR cooler with high capacity reduces the Nox, and the bypass valve reduces the CO and HC due to EGR gas before warming up.   
 Also, the engine ECU adjusts the E-EGR opening by using the air mass signal through HFM sensor. If the exhaust gas gets into the intake manifold when the EGR valve is open, the amount of fresh air through HFM sensor should be decresed.
@@ -16607,8 +16028,6 @@ As EGR temperature goes up, the concentration of NOx will be higher. Thus, it is
 
 # (10) E-VGT control
 
-# A. Overview
-
 E-VGT (Electric-Variable Geometry Turbine) turbocharger system in D20DTF engine uses the venturi effect that controls the flow rate of exhaust gas by adjusting the passage in turbine housing. The newly adopted DC motor actuator (E-actuator) controls the E-VGT system more precisely and faster. To get the high operating power from turbine, the ECU reduces the exhaust gas passage In low speed range and increases it in high speed range.
 
 # B. Components
@@ -16635,8 +16054,6 @@ E-VGT provides higher engine power with faster reaction speed compared to conven
 
 # (11) Wide band oxygen sensor control
 
-# A. Overview
-
 For diesel engine, combustion is not performed at the optimum (theoretically corect) air-fuel ratio and the oxygen concentration is thin in most cases. So the wide-band oxygen sensor is used for this kind of engine, and this sensor is a litle different from the one that used for gasoline engine. The combustion in diesel engine is controlled by fuel injection volume. Therefore, the wide band oxygen sensor should be used in diesel engine. This sensor measures the air-fuel ratio in very wide range, and is also called full range oxygen sensor.
 
 -The wide band oxygen sensor measures the oxygen density in exhaust gas and sends it to ECU to control the EGR more precisely.
@@ -16661,8 +16078,6 @@ The wide band oxygen sensor uses ZnO2. It produces the voltage by movement of ox
 
 ![](images/646b8281eb9d084b194917a62ba9da6944813792f909adca97d3f4006da8ed86.webp)
 
-# (12) Cooling fan control
-
 # A. Overview of cooling fan and A/C compressor
 
 The cooling system maintains the engine temperature at an eficient level during allengine operating conditions. The water pump draws the coolant from the radiator. The coolant then circulates through water jackets in the engine block, the intake manifold, and the cylinder head. When the coolant reaches the operating temperature of the thermostat, the thermostat opens. The coolant then goes back to the radiator where it cools. The heat from automatic transmission is also cooled down through the radiator by circulating the oil through the oil pump. ECU controls the electric cooling fans with three cooling fan relays to improve the engine torque and air conditioning performance.
@@ -16684,8 +16099,6 @@ For detailed information, refer to Chapter "Air Conditioning System".
 ![](images/e448882e49f744ada52037ec2ac05a57980ca15b402d5ad945f3cad08df6af4e.webp)
 
 # D. Cooling fan and A/C compressor control
-
-# Conditions for cooling fan
 
 The cooling fan module controls the cooling fan relay, high speed relay and low speed relay. The cooling fan is controlled by the series and parallel circuits.
 
@@ -16712,8 +16125,6 @@ The output voltage from refrigerant pressure sensor is 1.7 V to 3.5 V when the r
 ![](images/acbd51c9056a8bd5bfab3baf065da22044d31303fdccc5d38133001c71b898ad.webp)
 
 # (13) PTC heater control
-
-# A. Overview
 
 The supplementary electrical heater is installed in Dl engine equipped vehicle as a basic equipment. The PTC system is operated according to two temperature values measured at the coolant temperature sensor and HFM sensor. This device is mounted in the heater air outlet and increase the temperature of air to the passenger compartment. Because PTC system is heated by electrical power, high capacity alternator is required. PTC does not operate during engine cranking, while the battery voltage is lower than 11 V or during preheating process of glow plugs.
 
@@ -16745,8 +16156,6 @@ Operation process: reaches at a certain temperature→high resistance—low curr
 
 # (14) Immobilizer control
 
-# A. Overview
-
 The Immobilizer System provides an additional theft deterrent to the vehicle in which it is installed and prevents it from being started by unauthorized persons. The transponder integrated in the key and the engine control unit have the same code. When the ignition key with the integrated transponder is turned to the ON position, the ECU (Engine Control Unit) checks the crypto code of the key and, if correct, allows the vehicle to start the engine.
 
 # NOTE
@@ -16770,8 +16179,6 @@ When turning the ignition switch to ON position, the power is supplied to BCM an
 ![](images/6245cb982db3bcc2100a395a0daf764d22f4fff3dc1102e1672921da7781714d.webp)
 
 # (15) CDPF control
-
-# A. Overview
 
 As the solution for environmental regulations and PM Particle Material) of diesel engine, the low emission vehicle is getting popular. This vehicle is equipped with an extra filter to collect the soot and burn it again so that the amount of PM in the exhaust gas passed through the DOC (Diesel Oxidation Catalyst) is reduced. The CDPF (Catalyst & Diesel Particulate Filter) is an integrated filter including DOC (Diesel Oxidation Catalyst) and DPF (Diesel Particulate Filter).
 
@@ -16835,11 +16242,7 @@ TCU Eo on. w In tuent positionTransmission oil temperature Shifting request, Acc
 
 ![](images/559e384e753da55f75ab88ece1087ad2eb811a19384daacadcb4e06056ef4df5.webp)
 
-# ENGINE ASSEMBLY
-
 # 1. DESCRIPTION AND OPERATION
-
-# 1) Cleanliness and Care
 
 An automobile engine is a combination of many machined, honed, polished and lapped surfaces with tolerances that are measured in the ten-thousanths of an inch.
 
@@ -16856,8 +16259,6 @@ Battery cables should be disconnected before any major work is performed on the 
 ![](images/24c35554d0a1dda574663d6e38833a8e1ed9ddc6781c78762fa0690d6a06d6a2.webp)
 
 # 2) On-engine Service
-
-# CAUTION
 
 - Disconnect the negative battery cable before removing or installing any electrical unit, or when a tool or equipment could easily come in contact with exposed electrical terminals. Disconnecting this cable wilhelp prevent personal injury and damage to the vehicle. The ignition must also be in LOCK unless otherwise noted.
 
@@ -16895,8 +16296,6 @@ Front View
 ![](images/eb900a6674705d11261dd1919c3a03c0ec85f6f70f01254773c42b58b6419c0a.webp)
 
 # 4. DIAGNOSTIC INFORMATION AND PROCEDURE
-
-# 1) Oil Leak Diagnosis
 
 Most fluid oil leaks are easily located and repaired by visuall finding the leak and replacing or repairing the necessary parts. On some occasions a fluid leak may be dificult to locate or repair. The following procedures may help you in locating and repairing most leaks.
 
@@ -17129,8 +16528,6 @@ It is therefore recommended that earthed pumps with integrally earthed hoses be 
 
 # OVERVIEW AND OPERATION PROCESS
 
-# 1. FUEL SYSTEM
-
 The function of the fuel metering system is to deliver the correct amount of fuel to the engine under all operating conditions.
 
 The fuel is delivered to the engine by the individual fuel injectors mounted into the intake manifold near each cylinder.
@@ -17197,19 +16594,11 @@ No fuel is delivered by the fuel injectors when the ignition is of. This prevent
 
 ![](images/8b20a803c51604e0b8ba868ba4a1825795dac3ceab42798d062e230f8bead7a8.webp)
 
-# ENGINE INTAKE SYSTEM
-
-# 1. SPECIFICATIONS
-
 # (1) Fastener Tightening Specifications
 
 ![](images/48aa6e5bc103f6c85237a50e5f1309d339b0427b6e81f951c38216c7bf6d3504.webp)
 
 ![](images/4fb12ac53e8b80794132b1197843143371ff4a36a6c25aa4e8e64f8a688c14ee.webp)
-
-# ENGINE EXHAUST SYSTEM
-
-# 1. SPECIFICATION
 
 # (1) Fastener Tightening Specifications
 
@@ -17218,8 +16607,6 @@ No fuel is delivered by the fuel injectors when the ignition is of. This prevent
 ![](images/36ade486b8ff53c2efb611aa9bc7b2477edac96be45b743c75aaef84ca9a9868.webp)
 
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. DESCRIPTION AND OPERATION
 
 1) Exhaust System
 
@@ -17275,11 +16662,7 @@ NOx is generated a great deal in case that combustion temperature and excess air
 
 ![](images/bed7c186aba9d35b8626ba552c43e4390ce5fd47a8f33313786b61f666c492d4.webp)
 
-# LUBRICATION SYSTEM
-
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. OIL CIRCULATION
 
 ![](images/425af64feb05b98bef2330aa9dc50fb44cf4f7b4e5d5cb4b90f9e1141702458b.webp)
 
@@ -17315,8 +16698,6 @@ NOx is generated a great deal in case that combustion temperature and excess air
 
 ![](images/94debaceacdab3c709c71d7160337ed73907674ba30562fa918d8ef7f2332ec0.webp)
 
-# ENGINE COOLING SYSTEM
-
 # 1. GENERAL SPECIFICATIONS
 
 ![](images/e14f22ebbdf67be0811cf95e2b1d090032e28f5cd5c9ca39a553623882b5c215.webp)
@@ -17330,8 +16711,6 @@ NOx is generated a great deal in case that combustion temperature and excess air
 ![](images/b61f4d3c4b0ed5de78da3f42284107e6f9685a2c581b78a127fe7b8cff5a1901.webp)
 
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. COMPONENT LOCATOR
 
 ![](images/aa2fb1111b63aa351ad2d7aa47f9b6a57604bf2dd8f36e16d9a8b513749bffbf.webp)
 
@@ -17418,8 +16797,6 @@ The thermostat begins to open at 82°C(180 F) and is fuly open at 95°C(203°F).
 
 # 6) Electric Cooling Fan
 
-# CAUTION
-
 Keep hands, tos, and clothing away from the engine coling fans to help prevent personalinjury.   
 This fan is electric and can turn on even when the engine is not running.
 
@@ -17458,8 +16835,6 @@ The coolant temperature gauge controls the instrument panel temperature indicato
 ![](images/5386e0937325392711d5b47cc46593d2152ec35c7d7ebe8793deb2755bbc354c.webp)
 
 # 3. PWM (PULSE WIDTH MODULATION) ELECTRIC FANOPERATION
-
-# 1) Function
 
 The PWM (Pulse Width Modulation) high capacity electric fan is installed instead of electric condenser fan to enhance the durability and controllability and reduce noise.
 
@@ -17502,8 +16877,6 @@ It controls the time of the output voltage to control the fan motor speed indepe
 
 # 5) Shutting-off Condition of the A/C Compressor
 
-# Coolant temperature
-
 - When coolant temperature is below 20°C or over 115°C, engine speed is below 650 rpm or over 4500 rpm for 4 seconds after engine starting, abrupt acceleration and AC refrigerant pressure sensor detecting the followings   
 - A/C compressor is turned off when the refrigerant pressure is below 2.0 kg/cm2 and then is turned on when the refrigerant pressure is over 2.4 kg/cm2.   
 - A/C compressor is turned off when the refrigerant pressure is over 30 kg/cm2 and then is turned on when the refrigerant pressure is below 21.4 kg/cm2.
@@ -17523,10 +16896,6 @@ It controls the time of the output voltage to control the fan motor speed indepe
 ![](images/0995cbd60db410eaf51b379684c3b4f8d5c20053efcba4be14701ae5124ea1ff.webp)
 
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. DESCRIPTION AND OPERATION
-
-# 1) Battey
 
 The sealed battery is standard on all cars. There are no vent plugs in the cover. The battery is completely sealed, except for two small vent holes in the sides. These vent holes allow the small amount of gas produced in the battery to escape. The battery has the following advantages over conventional batteries:
 
@@ -17693,11 +17062,7 @@ All of these components are connected electrically.
 
 ![](images/5c36331c2b8526ca0ccde350413d35ec3519999bf29a2ad02e281f148984a457.webp)
 
-# CRUISE CONTROL SYSTEM
-
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. CRUISE CONTROL SWITCH
 
 ![](images/9d846f68675000ba85e54be46330df88672e046d8a001ec72180fd7a8a262753.webp)
 
@@ -17861,8 +17226,6 @@ How well the cruise control works on hils depends on the speed, load, and the st
 
 ![](images/9c1991af055650acc05f6745e75db5135aa2e981d36fed9f04b7c765657304f9.webp)
 
-# ENGINE CONTROL SYSTEM
-
 # 1. ENGINE DATA DISPLAY TABLE
 
 ![](images/01b28f16bf27e0445ba2f7ea9b654b1e447f5b31b32bcd686fde3337d27ed207.webp)
@@ -17945,8 +17308,6 @@ H 161514131211109
 
 ![](images/1d3bccaeae88f1a082b007502f3c339106bafe7648845f6984d342f5287a3610.webp)
 
-# GENERAL INFORMATION
-
 # 1. CAUTIONS WHEN WORKING ON ELECTRICAL UNITS
 
 ![](images/587bda0b903034a7c1aeddd7c41243016a8d531731bbcafa598319542cf6f1a4.webp)
@@ -17995,8 +17356,6 @@ The ICM (Integrated Control Module) box installed to the new Actyon model is int
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. OVERVIEW
-
 The ICM (Integrated Control Module) mounted to the back of the STICS is integrated with the door lock relay, windshield de-icer relay and turn signal lamp relay. There are four fuse & relay units.
 
 # 2. FUSE & RELAY MOUNTING LOCATION
@@ -18007,8 +17366,6 @@ The ICM (Integrated Control Module) mounted to the back of the STICS is integrat
 
 ![](images/bf85e10860ba008c0ad040abb1330f4d3e003c9c5e434b18d9ac6caa23213e4e.webp)
 
-# GENERAL
-
 # 1. OVERVIEW
 
 RKSTICS (REKES + STICS (Super Time & Integrated Control System), is almost the same as that of ACTYON in terms of its function and role. Due to the removal of tailgate opening switch and rear wiper and washer system, the circuit layout is slightly changed, compared to ACTYON.
@@ -18016,8 +17373,6 @@ RKSTICS (REKES + STICS (Super Time & Integrated Control System), is almost the s
 ![](images/3b85d798aef74859a10b38adca0b862c46a1985f31819aa829318a09479e4a1e.webp)
 
 ![](images/f021cbeb5508b3844e30f229a66763b5ae791373a1a727c1964006c15f685b96.webp)
-
-# 2. SPECIFICATIONS
 
 # 1) Electrical Performance
 
@@ -18065,8 +17420,6 @@ Wiper motor A/S (parking) terminal
 
 # OVERVIEW AND OPERATION PROCESS
 
-# 1. OVERVIEW
-
 RKSTICS (REKES + STICS (Super Time & Integrated Control System), is almost the same as that of ACTYON in terms of its function and role. Due to the removal of tailgate opening switch and rear wiper and washer system, the circuit layout is slightly changed, compared to ACTYON.
 
 ![](images/06d1fe66c90f33d92469fff797ad495bb790907d5cb4b2227dd1b24c7d6104a2.webp)
@@ -18090,8 +17443,6 @@ The rear washer and the wiper operate only while holding the switch. When releas
 # Rear Wiper Operation
 
 ![](images/0b7153e631ea4ab9ed41e2e3ff00bf471cfebea52f7cb746f8cccd7e634664c5.webp)
-
-# Rear Wiper Stops
 
 # Wiper and Washer Coupled Operation
 
@@ -18233,8 +17584,6 @@ FAST → SLOW: Auto delay/Auto speed control. A position that can control sensit
 
 # (1) Trouble shooting
 
-# Symptom 1.
-
 The wiper does not operate one cycle when turning the multifunction wiper switch to the "AUTO" from the "OFF" position or starting the engine while the wiper switch is in the "AUTO" position.
 
 - When starting the engine with the multifunction wiper switch in the "AUTO" position, the wiper operates one cycle to remind a driver that the wiper switch is in the "AUTO" position. When the wiper switch is turned to "AUTO" from "OFF", the wiper operates one cycle. It always   
@@ -18312,8 +17661,6 @@ Intermittent interval (at 0 km/h): 3 ± 0.5 \~ 19 ± 2 seconds
 ![](images/44437486821139f7e8c2c06fa0b7ad23f7abbe80e7f6e3910a1c665ed3123717.webp)
 
 ![](images/a9607728dec6c9a19c099daee0e65e1b8f82d224a2d49cc57e97c6aeed59af1e.webp)
-
-# CAUTION
 
 # Speed sensitive INT (intermittent) wiper
 
@@ -18746,10 +18093,6 @@ Briefly press (below 0.5 sec): Door lock and -If you press and hold the door unl
 
 ![](images/bc5ce5f8704a128977d1893673de69d34dd1e15b630bc6f3136e9f4a62c741c7.webp)
 
-# OVERVIEW AND OPERATION PROCESS
-
-# 1. OVERVIEW
-
 # 1) What is the Immobilizer System?
 
 The immobilizer system prevents the vehicle theft by allowing only the authorized key to start the engine. The transponder inside the key communicates with the immobilizer installed in the key box, and the system permits the engine to start after confirming the encrypted coding from the engine ECU. Refer to the information that follows for specific functions and their descriptions.
@@ -18890,8 +18233,6 @@ The ECU enable the engine to be started.
 
 ![](images/0206b53f9ef651854d28a9ff66879af8c55f75f3ebc4ec586b08e3e1649e1f8e.webp)
 
-# OVERVIEW AND OPERATING PROCESS
-
 # 1. DESCRIPTIONS OF INDICATOR DISPLAY
 
 It sends and receives information to/from each unit through CAN communication line. The LCD display and separate ESP ON/OFF indicator are newly added.
@@ -18933,8 +18274,6 @@ It sends and receives information to/from each unit through CAN communication li
 ![](images/ed4c356a9e667fce8df7640708fde794a47a8de6cfaeec574c95f8bd0f6275c7.webp)
 
 # System Layout
-
-# Front view
 
 ![](images/82f367bd456f5c368b7d135669023c61e60ae61e329668c23520e06b13294458.webp)
 
@@ -19016,8 +18355,6 @@ There are two colors (green & red) for HDC symbol.
 ![](images/c808a87557ba58a2ca80817947a2a3e52dc71c3b33a385a3cea38d1d427abeca.webp)
 
 # 2. CONFIGURATION
-
-# 1) RPM Gauge
 
 ![](images/73f5cffd4a3ce3e299ea5f138badfbc366480ff9b2f708ae5b845f47a511d491.webp)
 
@@ -19166,8 +18503,6 @@ Brake system overheat
 
 ![](images/0e54e26c0461eb564987e46a70ea3ce54e52025c2cd8fe2e7f1605bc6b8c78d0.webp)
 
-# (2) ESP Warning Lamp
-
 # ESP Warning Lamp Blinking in Control
 
 ESP warning lamp blinks when ESP control is activated. If the activation reaches a certain limitation, a beep sounds to warn the driver. The ESP warning lamp goes off when ESP function is deactivated. Even when the ESP is operated for a very short period of time, the ESP warning lamp blinks minimum of 4 times every 500 milliseconds.
@@ -19292,8 +18627,6 @@ The surface of lamps can get foggy when raining or washing the vehicle. This is 
 
 ![](images/dfbb5fccc9e5460f6caefddd26df589f05180f119579ecbcaa9cecf20833e584.webp)
 
-# GENERAL
-
 # 1. SWITCH ARRANGEMENT
 
 ![](images/083003d7d5c4eebb51b32abf33ca6b1ea685787531eb5c4f871941947e704586.webp)
@@ -19365,11 +18698,7 @@ Washer fluid will be sprayed onto the rear window glass and the wiper will also 
 
 ![](images/7f6524fcb2e2a956e2dfe185ee706b2a8f973014f1a3eef53507dc54206a5a7b.webp)
 
-# WIPER & WASHER SYSTEM
-
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. SYSTEM LAYOUT AND FUNCTION
 
 The wiper and washer system are controlled by STICS according to driver's wiper switch operation. And the detection of rain drops by rain sensor is transmitted to STICS as the signal for wiper system control. The characteristics of the wiper and washer system including basic functions of manual wiper are as follows.
 
@@ -19512,8 +18841,6 @@ WIPER ACTYON 2012.12
 
 # OVERVIEW AND OPERATION PROCESS
 
-# 1. SYSTEM LAYOUT AND OVERVIEW
-
 The rain sensing wiper unit in this vehicle doesn't control the wiper directy. The rain sensing unit detects the amount of rain drops and sends the operating signal to STICS, and STICS drives the wiper directly.
 
 Rain Sensor Unit Multifunction Wiper Switch: (Auto Light Sensor Integrated Type) AUTO and Sensitivity Control X AUTO OFF OF I AUTO с A sensor that emits infrared rays through LED AUTO: Wiper operates automatically by rain and then detects the amount of rain drops by sensor receiving reflected rays against sensing section FAST <е> SLOW: Auto delay/Auto speed (rain sensor mounting section on the control. windshield) with photodiode. A position that controls sensitivity against rains The auto light sensor is Integrated into the rain on the windshield and transmits wiping demand sensor (refer to the below picture). signal accordingly.
@@ -19565,8 +18892,6 @@ to the rain sensor to recognize whether it is actual rain or it is in rain sensi
 ![](images/67c0fff9d94ab81760436a0acd4876f866ceb70e38e696ff144e25664c788d1f.webp)
 
 # 4. FUNCTIONS AND SPECIFICATIONS OF RAIN SENSING WIPER
-
-# 1) Power-up Reminder Wiper
 
 1. When turning off and on the INT auto switch, the system drives the wiper motor for one cycle through LOW relay regardless of communication with rain sensor.
 
@@ -19672,8 +18997,6 @@ Detecting type: Super sonic wave Detecting distance: 25 cm \~ 120 cm (distance b
 
 # 2. CAUTIONS ON PARKING AID SYSTEM
 
-# CAUTION
-
 -Note that the display does not show everything in the rear area. Always check nobody, especially animals and children, is behind the vehicle when parking or reversing. -If you can not properly check the vehicle behind, get out of the vehicle and then visually check it.
 
 1. The parking aid system is just a supplemental device to help your parking operation.
@@ -19714,8 +19037,6 @@ Detecting type: Super sonic wave Detecting distance: 25 cm \~ 120 cm (distance b
 ![](images/8b94589d211fc03046881dbb262587a9cd3282a05bc710d3f0cf6c9a0657a640.webp)
 
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. SYSTEM OVERVIEW
 
 The parking aid device is integrated in the rear bumper and it uses three Piezoelectric elements to measure vertical and horizontal distance to obstacles. When placing the gear selector lever to "R" position, the designated unit (PAS unit in the rear right quarter panel) activates the parking aid sensors to measure the distance to obstacles.
 
@@ -19769,15 +19090,11 @@ When the power is applied (gear selector lever is in "R" position), the sensor w
 
 # OVERVIEW AND INSTALLATION
 
-# 1. AUDIO SYSTEM OVERVIEW
-
 ![](images/60b6d742932926d62e321f651ecab95094505d589ed73648bc598df48a19f86a.webp)
 
 ![](images/659de7532bbce58213eb9c57d3de1eb0c0e48f8670674e601c6473eabc714d3b.webp)
 
 # GENERAL INFORMATION
-
-# 1. SPECIFICATIONS
 
 ![](images/267b38e77042987f195819596315a13e7423a6ee8a1ce6d7e32d5044135043d8.webp)
 
@@ -19794,8 +19111,6 @@ When the power is applied (gear selector lever is in "R" position), the sensor w
 ![](images/b552aad767ddbdad3592f437ff0365f3cd3da13570ecc8b2fde3ea1abb299a30.webp)
 
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. OVERVIEW
 
 ![](images/061c156a0c35205df1e7a12ae44a744029708600f935fc9ac981735c25fa0533.webp)
 
@@ -19814,8 +19129,6 @@ When the power is applied (gear selector lever is in "R" position), the sensor w
 DC 5-Speed Automatic Transmission
 
 DCAG 5-speed automatic transmission is an electronical controlled 5-speed transmission with a lockup clutch in the torque converter. The ratios for the gears are realized by three planetary gear sets. The 5th gear is designed with a step-up ratio of 0.83 as an overdrive. The selector lever is controlled by electronically and mechanically. The gears are shifted by the corresponding combination of three hydraulically actuated multiple-disc brakes, three hydraulically actuated multiple-disc clutches and two mechanical one-way clutches. This electronically controlled automatic transmission adjusts the operating pressure to provide proper shifting in relation to engine power. This function improves shifting quality significantly. And, the driver can select "S" (Standard) mode or "W" (Winter) mode according to the driving conditions. This automatic transmission provides two gears even during reverse driving. The internal sensors and controls are connected to TCU by cylindrical 13-pin connector.
-
-# NOTE
 
 # DCAG 5-speed automatic transmission offers the following advantages:
 
@@ -20107,8 +19420,6 @@ Shift Lock Release Button Hole when Locked in the "P" Position If you cannot mov
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. OVERVIEW
-
 ![](images/3de2cee892f1b1f0e33b2880371e2b42ce8891943dfbfd9c2dc106ee7413874c.webp)
 
 The six speed automatic (M78) transmission is available in two variants: four wheel drive and two wheel drive. The transmission has the following features:
@@ -20138,10 +19449,6 @@ Engine power reaches the transmission via a torque converter with integral conve
 -Torque converter
 
 ![](images/895b2af2f14c8b8c6d104e2eb703abf2ca19575a4cc03961b97649f344b9eac2.webp)
-
-# 2. FEATURES
-
-# 1) Features
 
 # Early Downshifts with Hard Braking and Skip Shifts
 
@@ -20173,8 +19480,6 @@ The transmission cooling system ensures rapid warm-up and constant operating tem
 
 # 3) Shift Strategy
 
-# Gear Shift
-
 Transmission gear change is controlled by the TCU. The TCU receives inputs from various engine and vehicle sensors to select shift schedules and to control the shift feel and torque converter clutch (TCC) operation at each gear change
 
 # Coastdown
@@ -20186,10 +19491,6 @@ Coastdown downshifts occur at 0% accelerator pedal when the vehicle is coasting 
 Torque demand downshifts occur (automatically) when the driver demand for torque is greater than the engine can provide at that gear ratio. If applied, the transmission will disengage the TCC to provide added acceleration.
 
 ![](images/c79841c8f03fb92c5640928f4485b1b6c418d7e1e60853103a30ae58751086f3.webp)
-
-# 3. MODE DESCRIPTIONS
-
-# 1) Functions
 
 # 1. Shift Lock Release Button Hole when Locked in the "P" Position (1)
 
@@ -20217,8 +19518,6 @@ This allows the driver to define the highest possible gear by selecting "+" or "
 
 When maximum engine rpm is reached the transmission willupshift automatically regardless of the driver selected limit. 4WD models with low range will not automatically upshift when low range is selected.
 
-# NOTE
-
 # Kickdown Function
 
 If you need to accelerate rapidly, depress the accelerator pedal completely to the floor. Then, a one- or two-lever gear will automatically be engaged. This is called the Kickdown function
@@ -20244,8 +19543,6 @@ If you need to accelerate rapidly, depress the accelerator pedal completely to t
 6th gear position - 6-5 and 6-4 automatic kickdown shift is available.
 
 ![](images/a8f1c55cad56b96f4d36a920236766d7ae0d05bbe0add42b12d8beb991c30eda.webp)
-
-# 4. LIMP HOME MODE
 
 # In case of transmission malfunction
 
@@ -20274,8 +19571,6 @@ The best way to transport the vehicle is to load it to a truck and transport it,
 
 # 5. ELECTRONIC CONTROL SYSTEM
 
-# 1) Overview
-
 The transmission control unit (TCU) and its input/output networks control the operations of transmission:
 
 - Shift timing   
@@ -20289,8 +19584,6 @@ In addition, the TCU receives input signals from certain transmission-related se
 The transmission control unit (TCU) is mounted under the driver's seat and controls the operation of the transmission.
 
 TCU processes the analog information from the internal sensors and the digital information through CAN communication lines. TCU monitors allthe input and output signals. If there is any failure, TCU changes the system to “Limp Home Mode” and alerts to the driver through the warning lamp on the instrument cluster.
-
-# (1) Hard-wired (Analog) Input/Output
 
 # Input/Output Data between TGS Lever and TCU
 
@@ -20765,8 +20058,6 @@ Neutral
 
 ![](images/1d0aeba77a7148556dc8ac74b86d351f28db924b6bf26f27a43cda1a2a7c94d6.webp)
 
-# MANUAL TRANSMISSION (5 M/T)
-
 # 1. OVERVIEW AND CHARACTERISTICS OF MANUAL TRANSMISSION
 
 1) System Components
@@ -20812,15 +20103,11 @@ Neutral
 
 # OVERVIEW AND OPERATION PROCESS
 
-# 1. MANUAL TRANSMISSION SYSTEM
-
 1) Neutral Switch
 
 ![](images/e8fbcfb4277d7ab0a5039856b6e43d3926be9080a25972c643273d03402921eb.webp)
 
 ![](images/996892dd31553d0f59e01c062d7df9563ad6e9cee906b02b18fd62a93d44e358.webp)
-
-# 2) Function of N Switch
 
 # (1) Aids a smooth start of the vehicle by raising the RPM during the gear shifting when the engine is cold.
 
@@ -20855,10 +20142,6 @@ The N switch transmits information to the ECU through the CAN communication whil
 ![](images/312dc86f746421975c7e484b637b4547e70ad9b366c642c9eb278987073902b3.webp)
 
 # MANUAL TRANSMISSION (6 M/T)
-
-# GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/5795cb34b764edd294218643d4810348204473f084a674e277d86edb1f1a01a6.webp)
 
@@ -21064,8 +20347,6 @@ Driving frequently at high speed over 170 km/hour Driving frequently in area whe
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. OVERVIEW
-
 ![](images/6c009b971176abf7003f55d293b2732d4c750021abfc37f6933dbb818bbfb900.webp)
 
 # 1) Characteristics of Transmission
@@ -21113,8 +20394,6 @@ Driving frequently at high speed over 170 km/hour Driving frequently in area whe
 ![](images/ca735dfed865be29bfa9e420271728eb3065c02af3b13d102abeb60fc9a1ec7b.webp)
 
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. INTRODUCTION
 
 The TGS lever prevents inappropriate or unexpected shifting of gears to increase safety. It also helps the driver safely select a needed gear. The solenoid of the TGS lever has the factory-installed “P” Lock function which allows the driver to shift gears from the i°Pi position only when the brake pedal is depressed.
 
@@ -21194,8 +20473,6 @@ The 1st gear state willdisplay on the instrument cluster. Unlike the normal 1st 
 
 ![](images/bb19577379d43dfa4655bf04a7d0a2ae6e35686afe10990600c0e8a90e32b088.webp)
 
-# 2) Transmission Mode
-
 # (1) Activating the Manual Mode (M Mode)
 
 To prevent any wrong shifting down or up in the “D” position, the manual mode can be activated only in the "M”position.
@@ -21213,8 +20490,6 @@ When the selector lever is pushed from the D position to the M mode, the M mode 
 When the selector lever is pushed to the D position from the M mode, the M position sensor detects the change and sends another signal to the TCU. Then, the TCU enables the transmission to choose from all available gears including the highest one (the D position).
 
 ![](images/747f4d0a4a91b0ba4d53058957c17b70059f9df2e2669f4ae12807e761087ae9.webp)
-
-# 3. MODE SWITCH
 
 # 1) Function and Usage
 
@@ -21304,8 +20579,6 @@ Do not push down the shift lock release lever excessively. The internal parts co
 
 ![](images/9e40c945b47982cdd56ad11d013c46e3026fb7af8d1be2a81370a55a9ae3a3b1.webp)
 
-# OVERVIEW AND OPERATION PROCESS
-
 # 1. FUNCTION AND OVERVIEW 1) SAT (Self Adjusting Technology) Clutch System
 
 (1) Function
@@ -21323,8 +20596,6 @@ SAT is new clutch system which adjusts the clutch freeplay according to the wear
 - Disc wear (Free play) → Diaphragm spring (1) → Adjusting equipment (2, 3) → Pressure plate (4)
 
 ![](images/01a217ed5572da3a9f4230ccd2d2d936cbf0d0acf748c3c6b84d03516feb0976.webp)
-
-# 2) Overview
 
 # Driving Elements
 
@@ -21357,11 +20628,7 @@ This system directly releases the clutch by using hydraulic pressure while the c
 
 ![](images/7c2b3ce7ec56023222db18e727c9f04587b8b293ba08749716e83ee2583da763.webp)
 
-# PROPELLER SHAFT
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/8e8d66562246e4b53b39fc9efc9bb7a3970533e0bfc096c0d8ef086c18da9cc1.webp)
 
@@ -21372,8 +20639,6 @@ This system directly releases the clutch by using hydraulic pressure while the c
 ![](images/10caf8a8640bca73d660350a4160580c22ad69eb73975e4f8e7fea794cba17b6.webp)
 
 # OVERVIEW AND OPERATING PROCESS
-
-# 1. OVERVIEW
 
 The propeller shaft transfers the power through the transmission and transfer case to the front/rear axle differential carrier (final reduction gear).   
 It is manufactured by a thin rounded steel pipe to have the strong resisting force against the torsion and bending.   
@@ -21416,8 +20681,6 @@ The specification below is for front and rear axles equipped in Actyon, includin
 
 # OVERVIEW AND OPERATION PROCESS
 
-# 1. OVERVIEW OF AXLE
-
 1) Front Axle
 
 ![](images/94cd8e4fa5df953db50db0182d6013c6e3fd94cc1ec90261ca50a0b713a37ee9.webp)
@@ -21429,10 +20692,6 @@ The specification below is for front and rear axles equipped in Actyon, includin
 ![](images/c8253d1b2afa73a53a7ec622bcd3bb14caa182b9c5f80e41a2b21faa37dbc0aa.webp)
 
 # TRANSFER CASE
-
-# GENERAL
-
-# 1. OVERVIEW
 
 By using the planetary gear sets, two-gears shift type part time transfer case achieves direct connection when selecting 4WD "HIGH" and 2.48 of reduction gear ratio when selecting 4WD "LOW". The silent chain in transfer case transfers the output power to front wheels.
 
@@ -21456,8 +20715,6 @@ In non-ABS vehicle, the vehicle speed sensor is installed on the rear drive axle
 ![](images/5cda53867912a641514c0719f4f9b72c51a559d82be35a91a2ad2ef061fabfed.webp)
 
 # OVERVIEW AND OPERATION PROCESS
-
-# 1. STRUCTURE
 
 ![](images/64194370aa4378636cb7538591ab36ee328b79d0238bc78c97f6e1eee62471d3.webp)
 
@@ -21549,11 +20806,7 @@ Vacuum generation process in front hub actuator:
 
 ![](images/392a0d1e9aa89c7224c15801e3b7bc93ca9417225695e80829a256daa0101b58.webp)
 
-# BRAKE SYSTEM
-
 # GENERAL INFORMATION
-
-# 1. SPECIFICATION
 
 ![](images/7b1689e1509a9fc39e88b41bec8cc86f9acb0f2d2b583753838a9a456dce89e3.webp)
 
@@ -21566,8 +20819,6 @@ Service Interval: Change the brake oil at every 2 years
 It is the quality grade of brake fluid established by US Department of Transportation.
 
 ![](images/db7909680056a86e5d933918e7786e2f47ea65f9dc86aad1133a452c2f1319dc.webp)
-
-# 2. SYSTEM OVERVIEW
 
 # 1) Terms and Definition
 
@@ -21647,8 +20898,6 @@ It is also a physical phenomenon and has no relation with the brake performance.
 ![](images/164c516eaf213d73deccd06c699952c2b0143082514430905c523647bf7af8e7.webp)
 
 # 4. AIR BLEEDING
-
-# CAUTION
 
 -Never reuse the used brake fluid.   
 -  Use only specifies brake fluid (DOT 4). Add brake fluid between MAX and MIN lines on the reservoir (0.7 to 0.8 liters).   
@@ -21980,8 +21229,6 @@ Brake Pedal, Master Cylinder and Booster
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. OVERVIEW
-
 Even though a driver cuts off the power, while driving, the vehicle continues to move due to the law of inertia. Therefore, a braking device is needed to stop the vehicle. The brake system normally uses the frictional discs that converts the kinetic energy to the thermal energy by frictional operation. The brake system consists of the brake disc (front wheel), brake disc or drum (rear wheel), parking brake (mechanical type), master cylinder, booster, pedal and supply lines (pipes and hoses).
 
 # Hydraulic Brake
@@ -22158,8 +21405,6 @@ must take caution for the vehicle may drift away from the lane.
 
 ![](images/95e27808f6743121b2b825b5f3fbe0045a370e4616194c1b14ed69cbca01c5c4.webp)
 
-# OVERVIEW AND OPERATION PROCESS
-
 # 1. OVERVIEW OF ESP(ELECTRONIC STABILITY PROGRAM) SYSTEM
 
 The ESP system consists of basic ABS functions, the vehicle position control depending on the driving conditions and the road conditions, the HBA (Hydraulic Brake Assist System) that improves the braking power in an emergency, and the ARP (Active Rollover Protection) that obstructs the physical tendency to rollover during sharp turns and prevents the vehicle rollover by quickly and firmly controling the engine output and the brake.
@@ -22321,8 +21566,6 @@ The vehicle driving condition is controlled by the internally programmed logic a
 ![](images/a481b554e063aa7b1e61fdb660ec71ec6c71eff5e788b202e61b4683da0ecd33.webp)
 
 # 6. PRINCIPLE OF HDC(HILL DESCENT CONTROL)
-
-# 1) System Overview
 
 The HDC system is an automatic descent control device that allows the vehicle to automatically decelerate to about 7 km/h by 0.1G, on steep roads (slope level exceeding 10%) through a separately installed switch operation.
 
@@ -22646,8 +21889,6 @@ In this case, the operating force of the steering wheel is conveyed to the pinio
 
 # OVERVIEW AND OPERATION
 
-# 1. SYSTEM LAYOUT
-
 ![](images/d034caef04098808c36a6f88e2cc7ec47f1f222ba14346b640fb1e7b76a5dc6b.webp)
 
 ![](images/c6b15ffa47cbff6ba73f6e56f0819fb6b37b63f43e258364fe42b77988aaddaa.webp)
@@ -22668,8 +21909,6 @@ In this case, the operating force of the steering wheel is conveyed to the pinio
 
 # GENERAL INFORMATION
 
-# 1. SPECIFICATIONS
-
 ![](images/42222a6f690953094818d4fa371aa86ee6d2eb169d37ab41e012cba6adbd113c.webp)
 
 ![](images/6f307d2759288578d38b1ce6f7a52b209b976c45c09f0e29203b67d84ffd8eef.webp)
@@ -22679,8 +21918,6 @@ In this case, the operating force of the steering wheel is conveyed to the pinio
 ![](images/55e3a8d27c371fb3f6807e8ee7ecfb4d019520d69954c3ce3c883126a16f0012.webp)
 
 ![](images/a7e26df8bed6997b66007b7c09eb8314aa363c4fadfcf3b073dd5a933d2cc1ad.webp)
-
-# 3. INSPECTION
 
 # 1) Appearance Check
 
@@ -22791,8 +22028,6 @@ To avoid uneven wear of tres and to prolong tire life, inspect and rotate your t
 
 # OVERVIEW AND OPERATING PROCESS
 
-# 1. OVERVIEW
-
 A radial tire uses a cord angle of 90 degrees. That is, the cord material runs in a radial or direct line from one bead to the other across the tread. In addition, a radial tire has a belt overwrap under the tread surface to provide greater structural stability. The belt overwrap of a radial tire distortion while the radial structure enables high speed driving.
 
 Tire supports the weight of the vehicle, reduces the impact from the road and at the same time, transmits the power to propel, brake and steer on the road. It also functions to maintain a vehicle's movement. In order to complete such tasks, a tire must be structured to be a resilient vessel of air.
@@ -22889,8 +22124,6 @@ When the free rotation of the wheel is allowed, the heavier part is stopped on t
 The static unbalance of the wheel creates the vibration in the vertical direction, but the dynamic unbalance creates the vibration in the lateral direction. As shown in the figure 2 (a), if two parts, (2) and (3), are heavier when the wheels are under the static balance condition, dynamic unbalance is created, resulting in shimmy, left and right vibration of the wheels, and the torque Fxa is applied in the axial direction. To correct the dynamic unbalance, add the balance weight of a same weight for two points of the circumference of the rim, A and B, as shown in the figure 2 (b), and apply the torque in the opposite direction to the torque Fxa to offset in order to ensure smooth rotation of the wheel.
 
 ![](images/db3d505236d561c676cf26fc4d4c56f9e938da192a4a7d1f1e179b8bc05957ef.webp)
-
-# OVERVIEW AND OPERATION PROCESS
 
 # 1. SYSTEM LAYOUT AND COMPONENTS
 
@@ -23227,8 +22460,6 @@ When, due to an error from outside the system, the intermittent failure signal i
 
 # OVERVIEW AND OPERATION PROCESS
 
-# 1. COMPOSITION OF SEAT
-
 1) Front Seat (1) Driver Seat
 
 ![](images/0a6ae1d7f28f97c75208b563d62a60eaf4883fdf0eb53a896c751d0a875c38b5.webp)
@@ -23306,8 +22537,6 @@ To change the seatback angle, push the lever rearward. Then, release the lever a
 
 # OVERVIEW AND OPERATION PROCESS
 
-# 1. COMPONENTS AND LOCATIONS
-
 ![](images/4eb5f4c5d72906adc960f6057909755e4f862d57cb477d5991501f32ce6716f6.webp)
 
 ![](images/88e79ae06d5522550df20979cedf3850fcd83bc68148fc011cad84db73ecc6c0.webp)
@@ -23322,8 +22551,6 @@ When driving the vehicle with the window or sunroof open at a certain position, 
 
 # 1) Sunroof Sliding Operation
 
-# (1) Two-touch Open
-
 If you rotate the sunroof switch clockwise (OPEN direction) for less than 0.5 seconds, the sunroof slides back and opens until it reaches at the 1st stop position (330 mm). Then, if you continue to rotate the switch to its stop, the sunroof is pull opened (420 mm). To stop the operation while moving, operate the sunroof switch to any direction.
 
 # (2) Close
@@ -23331,8 +22558,6 @@ If you rotate the sunroof switch clockwise (OPEN direction) for less than 0.5 se
 To fully close the sunroof, briefly (for approx. 0.5 sec.) rotate the sunroof switch counterclockwise (CLOSE direction) with the sunroof open. To partially close the sunroof, rotate and hold the sunroof switch until it reaches at the desired position.
 
 # 2) Sunroof Tilting Operation
-
-# (1) Tilt-up
 
 To tit-up the sunroof, rotate the sunroof switch counterclockwise (CLOSE direction) with the sunroof fully closed.
 
@@ -23389,8 +22614,6 @@ BODY INTERIORACTYON 2012.12
 ![](images/4bc3c1bb35986c326eb4e1ab25bbdaa40b3a5f5e74e4ec42f1b911ea847a91d9.webp)
 
 # GENERAL INFORMATION
-
-# 1. DIMENSIONS
 
 Unit: mm
 
@@ -23442,19 +22665,16 @@ BPR sealer is sprayed by robot and is designed to reinforce the body panel and r
 
 ![](images/8caf2e3a7db7f8ea04fc9393b4e1d04196d6790e52c3388659d05f9f8b1a4a18.webp)
 ### GENERAL INFORMATION
-`ssangyong_actyon_en_3fe3ff06` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 1. DIMENSIONS... 2 2. SPECIFICATION. 2 3. VEHICLE IDENTIFICATION.. 3 4. MAINTENANCE INTERVAL 4 5. RECOMMENDED FLUIDS AND LUBRICANTS... 8 6. JACK-UP POINTS. 9 7. PIN ARRANGEMENT OF DIAGNOSTIC CONNECTOR.. 9
 
 
 ### 1. DIMENSIONS
-`ssangyong_actyon_en_d8b417e1` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:2 | doc_type:owners_manual
 Unit: mm
 
 ![](images/25ee279b9b4169040bc429f340e697642f50170d5c6caa040196bae1fffcb983.webp)
 
 
 ### 2. SPECIFICATIONS
-`ssangyong_actyon_en_f2f0300b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:3 | doc_type:owners_manual
 \* ( ) Optional, [ ] 2WD   
 ![](images/3cba084704b9b3580cbf8938150008f107de2b41ce753b1a8484e1239036cbd2.webp)
 
@@ -23468,7 +22688,6 @@ Unit: mm
 
 
 ### 3. VEHICLE IDENTIFICATION
-`ssangyong_actyon_en_433151aa` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:4 | doc_type:owners_manual
 ![](images/279d7e0140a94d2730f92896862387fc25b7b7d9f372a60c0ce9e9dc249c4c99.webp)
 
 ![](images/f61984ec4fb8ed96123043ad56f1550454bb61d352b4565a1eb2627393c6bf36.webp)
@@ -23484,7 +22703,6 @@ The certification label is located on the driver's door sill.
 
 
 ### 4. MAINTENANCE INTERVAL
-`ssangyong_actyon_en_91d554d9` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:5 | doc_type:owners_manual
 1) Diesel Engine - EU
 
 \* Use only approved Ssangyong genuine parts.
@@ -23497,12 +22715,10 @@ Maintenance service and record retention are the owner's responsibility. You sho
 
 
 ### ENGINE CONTROL SYSTEM
-`ssangyong_actyon_en_e50024c0` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:6 | doc_type:owners_manual
 ![](images/372ffeccb21c4e8cf632e74555d10c5d40358c145a3a24b759e1dfed2344d4b1.webp)
 
 
 ### Chart Symbols:
-`ssangyong_actyon_en_da222760` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:7 | doc_type:owners_manual
 I - Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace. \*1 Check the engine oil level and leak every 3000 km (2000 miles) or before starting a long trip.
 
 R- Replace or change.
@@ -23524,12 +22740,10 @@ Shorten the service interval.
 
 
 ### CHASSIS AND BODY
-`ssangyong_actyon_en_4e3922e5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:8 | doc_type:owners_manual
 ![](images/de6557d9b6be0b5bd0ddf896e2390387e5e6b23b740f439522b381da9d701992.webp)
 
 
 ### Chart Symbols:
-`ssangyong_actyon_en_5361f7e0` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:9 | doc_type:owners_manual
 I - Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace.   
 R- Replace or change.
 
@@ -23551,12 +22765,10 @@ R- Replace or change.
 
 
 ### CHASSIS AND BODY
-`ssangyong_actyon_en_97da86a2` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:10 | doc_type:owners_manual
 ![](images/c0353588a39b04f6a60cede985d51c6e0a4b7f1c4e17949856b829c61e854be1.webp)
 
 
 ### Chart Symbols:
-`ssangyong_actyon_en_5b0af2c8` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:11 | doc_type:owners_manual
 I - Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace.
 
 R- Replace or change.
@@ -23569,7 +22781,6 @@ R- Replace or change.
 
 
 ### 2) Diesel Engine - GENERAL
-`ssangyong_actyon_en_0ad521e7` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:12 | doc_type:owners_manual
 \* Use only approved Ssangyong genuine parts.
 
 Maintenance service and record retention are the owner's responsibility. You should retain evidence that proper maintenance has been performed on your vehicle in acordance with the scheduled maintenance service chart.
@@ -23578,12 +22789,10 @@ Maintenance service and record retention are the owner's responsibility. You sho
 
 
 ### ENGINE CONTROL SYSTEM
-`ssangyong_actyon_en_afaa1515` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:13 | doc_type:owners_manual
 ![](images/8c5b094f17afc20f5decdccaab1bfc909ccaef1e5dd88929ea5d358a802541ab.webp)
 
 
 ### Chart Symbols:
-`ssangyong_actyon_en_1292d1f1` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:14 | doc_type:owners_manual
 - Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace \*1 Check the engine oil level and leak every 3000 km (2000 miles) or before starting a long trip.
 
 R- Replace or change.
@@ -23606,12 +22815,10 @@ Shorten the service interval.
 
 
 ### CHASSIS AND BODY
-`ssangyong_actyon_en_718c5cb0` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:15 | doc_type:owners_manual
 ![](images/f08c398c93f4ed0f51fc4943aaad2acc523ce6dd92f50dd5bf7394165344c2ba.webp)
 
 
 ### Chart Symbols:
-`ssangyong_actyon_en_812d0c2d` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:16 | doc_type:owners_manual
 I - Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replac
 
 R- Replace or change.
@@ -23630,12 +22837,10 @@ R- Replace or change.
 
 
 ### CHASSIS AND BODY
-`ssangyong_actyon_en_cfc20e58` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:17 | doc_type:owners_manual
 ![](images/49b851881990db37e9a70623f5ec6e057a4d54de26925624adf46cbae22bc8b9.webp)
 
 
 ### Chart Symbols:
-`ssangyong_actyon_en_c12d99b1` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:18 | doc_type:owners_manual
 I  Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace.
 
 R- Replace or change.
@@ -23650,7 +22855,6 @@ R- Replace or change.
 
 
 ### 3) Gasoline Engine
-`ssangyong_actyon_en_c66ec0ed` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:19 | doc_type:owners_manual
 \* Use only approved Ssangyong genuine parts.
 
 Maintenance service and record retention are the owner's responsibility. You should retain evidence that proper maintenance has been performed on your vehicle in accordance with the scheduled maintenance service chart.
@@ -23661,14 +22865,12 @@ Maintenance service and record retention are the owner's responsibility. You sho
 
 
 ### ENGINE CONTROL SYSTEM
-`ssangyong_actyon_en_19c8aad5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:20 | doc_type:owners_manual
 ![](images/7d26f1f9f4dea85bb660f84d1938b69d538b166694514d5e772c7bb7a0311df8.webp)
 
 I  Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace.
 
 
 ### Chart Symbols:
-`ssangyong_actyon_en_a67f569e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:21 | doc_type:owners_manual
 R- Replace or change.
 
 \*\* In order to secure engine long life and effective break-in, first oil (factory filed) would be recommended to drain with in 10,000 km.
@@ -23691,14 +22893,12 @@ Shorten the service interval.
 
 
 ### CHASSIS AND BODY
-`ssangyong_actyon_en_14ff9e51` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:22 | doc_type:owners_manual
 ![](images/c277cd106c5f5910388715a29f9eaf0dcf756b27b5199081eb7d7fbe0ed3b54f.webp)
 
 ![](images/4b59ab3100b6fbed62c715220148c8c0e0ab83dc181830a16783fcf425d85b20.webp)
 
 
 ### Chart Symbols:
-`ssangyong_actyon_en_4de562a1` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:23 | doc_type:owners_manual
 I- Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace
 
 R- Replace or change.
@@ -23719,12 +22919,10 @@ R- Replace or change.
 
 
 ### CHASSIS AND BODY
-`ssangyong_actyon_en_470ba6b9` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:24 | doc_type:owners_manual
 ![](images/d7fc5aa19062e740a3a4585c9fc359667456039a921cec750ff57c1375ba6ee5.webp)
 
 
 ### Chart Symbols:
-`ssangyong_actyon_en_d0bb7341` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:25 | doc_type:owners_manual
 I - Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace.
 
 R- Replace or change.
@@ -23738,63 +22936,52 @@ R- Replace or change.
 ![](images/caf0dfc8a74c8afd4e61b0546f2ad2bed1341a5068982cbc13caca1f9e073a3b.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_29b34f19` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:26 | doc_type:owners_manual
-- Use only Ssangyong recommended fluids and lubricants.   
-- Do not mix any diferent types or brands of oils or fluids. This may cause damages.   
--Keep the specified levels when adding or replacing the fluids.
-
-![](images/443e1b39f207293d891f46e9b7049450136abdaa173e39a9a101089aa4e3289b.webp)
+> ⚠️ **Внимание:** - Use only Ssangyong recommended fluids and lubricants.
+> - Do not mix any diferent types or brands of oils or fluids. This may cause damages.   
+> -Keep the specified levels when adding or replacing the fluids.
+>
+> ![](images/443e1b39f207293d891f46e9b7049450136abdaa173e39a9a101089aa4e3289b.webp)
 
 
 ### 6. JACK-UP POINTS
-`ssangyong_actyon_en_4de45b82` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:27 | doc_type:owners_manual
 ![](images/85ec725c595972197b92ac0df83e41e2292d1589556c0834249e62d5f273a890.webp)
 
 
 ### 7. PIN ARRANGEMENT OF DIAGNOSTIC CONNECTOR
-`ssangyong_actyon_en_0cebcc58` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:28 | doc_type:owners_manual
 It is installed under the instrument panel and consists of 16 pins
 
 ![](images/51505ee2031353ed4cfd6a570f9fede9ff6b9f642c59cfc80a385e4212417bbe.webp)
 
 
 ### 1) Functions of Terminal
-`ssangyong_actyon_en_23c16bd3` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:29 | doc_type:owners_manual
 ![](images/d61e9a5cb9bb445d8b41b428ac35843f9c325033168c76e161bca9c9f9398f01.webp)
 
 ![](images/f629b11bb38858e23be921357e400cc53d5f4253dc4053cf4d0d6b59b24ddd21.webp)
 
 
 ### 1. HOW TO READ ELECTRICAL WIRING DIAGRAM 1) HOW TO READ ELECTRICAL WIRING DIAGRAM
-`ssangyong_actyon_en_67659006` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:30 | doc_type:owners_manual
 ![](images/f421c2e3ce929d9927551d15abe232d1b48a070d3bcb64a4f61fc7fefd00b6cb.webp)
 
 
 ### 2) CONTENTS OF ELECTRICAL WIRING DIAGRAM (CIRCUIT)
-`ssangyong_actyon_en_aa8d50ba` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:31 | doc_type:owners_manual
 ![](images/7c584731a68550ffe9170c74f9c0c405db53814f7ff74e658bd0d77333b50187.webp)
 
 ![](images/6e8224febad0baed52df69b6c13f940d91c7b50f30da287280a6b56713fe06bc.webp)
 
 
 ### 3) CIRCUIT IDENTIFICATION SYMBOL
-`ssangyong_actyon_en_ef9fa659` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:32 | doc_type:owners_manual
 ![](images/ef6d9e0310f37cebc5f3bc0b37e39053d87ca2624cba2900170c6ee50fd362b9.webp)
 
 
 ### 4) FUNCTION OF POWER SUPPLY LINE (NUMBER)
-`ssangyong_actyon_en_87b352d8` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:33 | doc_type:owners_manual
 ![](images/863d2e231e5a29a0b52173184966d574a22b2c20e111737fa85fd03abf22c5ed.webp)
 
 
 ### 5) WIRING HARNESS COLOR IDENTIFICATION
-`ssangyong_actyon_en_e552ced3` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:34 | doc_type:owners_manual
 ![](images/13be994ffe23a31167970686b2c2ab69c7881fed603f566e5a695509ddabeb39.webp)
 
 
 ### 6) HOW TO CHECK TERMINAL NUMBER OF CONNECTOR
-`ssangyong_actyon_en_9fbe075c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:35 | doc_type:owners_manual
 Terminal number is given based on Female Terminal Male Connector - ex) Terminal Number 4 of C901 connection
 
 ![](images/b337f39192b0a50dc2e8a1dda04f9dfc7c941a3da97b552f8ca148a70d697cbc.webp)
@@ -23803,7 +22990,6 @@ Terminal number is given based on Female Terminal Male Connector - ex) Terminal 
 
 
 ### 7) PART LOCATION ACCORDING TO PART NUMBER
-`ssangyong_actyon_en_df893ea3` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:36 | doc_type:owners_manual
 Ex.)C102
 
 -  : Symbol character for connector
@@ -23821,14 +23007,12 @@ Ex.)C102
 
 
 ### 8) ELECTRIC SYMBOLS
-`ssangyong_actyon_en_82d203bd` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:37 | doc_type:owners_manual
 ![](images/ec1cc675c7ed6da0ed1cde8114b45edb8e00abb89eb9fa584debe69ea3a73c7c.webp)
 
 ![](images/9f75e22515c8a806cf2e0efb32dbc1964729dfc4602fcbef90f87c27fa6c26b6.webp)
 
 
 ### WIRING HARNESS
-`ssangyong_actyon_en_78b703b0` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:38 | doc_type:owners_manual
 0000-00 WIRING HARNESS, COMPONENTS LOCATION..
 
 ![](images/4f9f586525a372dc4518119151dffb9fb516064bcf4b15befe5a38d3ab714852.webp)
@@ -23837,7 +23021,6 @@ Ex.)C102
 
 
 ### 0000-000 WIRING HARNESS, COMPONENTS LOCATION 1) WIRING HARNESS
-`ssangyong_actyon_en_2cd49732` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:39 | doc_type:owners_manual
 00 C101 C1 I W/H ENG ROOM IW/H MAIN C103 104 IW/H FLOOR G1037 G104 C10 2C106 G102 0 W/H BATT NEGA 0 C11(Pin,B/DSL) C107 108 BATT < W/H ALTERNATOR Q C113A C 1 S101 о 4Pin,B/DSL) W ALTERNATOR WTA) © C212 W F C1 3 EngRom Fus  C10() а | -WH Foor 104(14in r) C215 C1(Pn. C351(3Pin, Eng Room Fuse Box C1o0( 00020 620 T -WH Egg ® C110(10Pin,W) G206 a-1()   
 A C214(20Pin,Y) A W/H MAIN C215(20Pin,Br) C202 S G301 G302 G202 © W/H Main - W/H A/BagC211(2/6Pin,Y) C244 C23 \$c32622) ) Pawer WHDRVER WISENGE SET   
 W/H Main - W/H Floor [ C202(10P,n.) 204(6Pin,olorless) S302 (410) C901 (MT 24PB) SAT 1PnB   
@@ -23846,14 +23029,12 @@ W/H Main - W/H A/BagC205(2/6Pin,Y) е C901A(6A/T 12Pin,B)
 
 
 ### 2) COMPONENTS LOCATION
-`ssangyong_actyon_en_3bf10ee5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:40 | doc_type:owners_manual
 ![](images/407495bc06728003413cf713f521f600d00635adf5c50cd2f549c41e6f171512.webp)
 
 ![](images/77dfc1e87aeb5d953d7ff729dee86c482a0b308111cd79f9fac1c8c605a58379.webp)
 
 
 ### 3) CONNECTOR, GROUND & SPLICE PACK INFORMATION
-`ssangyong_actyon_en_bfa56585` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:41 | doc_type:owners_manual
 CONNECTOR   
 ![](images/35c079f518fc9126698f7b4a82bdc5671892bed93b156a1875cc633cb13a6124.webp)
 
@@ -23871,7 +23052,6 @@ SPLICE PACK
 
 
 ### 4) SPLICE PACK CIRCUIT
-`ssangyong_actyon_en_69c468ef` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:42 | doc_type:owners_manual
 S101 (Head lamp)
 
 ![](images/2e9f1dfa14bd6bbd19987b4076faf2c853cf14d72167e994d698001957f28d9f.webp)
@@ -23906,7 +23086,6 @@ Stop Lamp SW "2" Y ^\$ RG C2\$ RG TGS Lever "10" (5-A/T) Combi Lamp Y \${2\$ 5\$
 
 
 ### WIRNING CONNECTOR
-`ssangyong_actyon_en_7b0939e0` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:43 | doc_type:owners_manual
 V 1 H H V 5 □ 43 X 2 1   
 891011 123 1213 14 15 1617 18 4567 1 2 3 4 5 6 7 8 9 10 111213 13 1211109 8 ЫхГ— 6 54 3 2 1 109 8 7 6 5   
 (Eng Room Fuse & Relay Box) W/H Floor C101 14151617 18 19 20212223 24 25 26 r 26252423222120191817161514 W2 WM 16 1514 131211 WAV V   
@@ -23929,14 +23108,12 @@ COUA 27 28 29 3031 32206503738 39 39 3837363534332 3130 292827 C903_M W (W/H Flo
 
 
 ### MOTOR CONNECTOR
-`ssangyong_actyon_en_c13cfc75` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:44 | doc_type:owners_manual
 т 2 0 3\4 123456 \$456 12 12 12 2 1 2 56 1 2 V   
 T/C Shift Motor Intake Motor Mode Motor Air Mix Motor Blower Motor Tilt Motor Height Motor Recline Motor V 3 ② 1 3 0e ①② □ 0 654 12 2 4 ③ ①② 1 2 020460   
 Wiper Motor Slide Motor PWM Motor PWM Motor Washer Motor P/Window Motor P/Window Motor P/Window Motor (DSL) (GSL) (RR) (FRT) (Anti-Trap)
 
 
 ### UNIT CONNECTOR
-`ssangyong_actyon_en_97cc651c` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:45 | doc_type:owners_manual
 д □ 16 2 A 37 47 464544434241403938373635343 32 52 2 96 □ ABS Unit □ 61 62 63 64 65 66 67 68 69 70 71 72 B п V n ECU (GSL) Glow Control Unit 7 2X3 4 5 6 7 8 9   
 A 1011121314|1516171819 2021 4645 д 40 д 373433 30 с 1 23 V 456 22 23 24 25 2627 2829 30 31 252423221201918171615 141312111098765 43 2 1 7 8 9 1011121314 V 0 Air-Bag Unit PAS Unit 1 2 Х 3 4 5 6 7 8 9 1011|12|13|14|15|16 □ 0 2   
 B 17 18 19202122 2324 A 12 1314507890 A 112 131416 71 88 19 20 г7 28 9452 V Aux Module 2 3 4 5 6 □ □   
@@ -23946,12 +23123,10 @@ B 17 18 19202122 2324 A 12 1314507890 A 112 131416 71 88 19 20 г7 28 9452 V Aux
 
 
 ### SWITCH CONNECTOR
-`ssangyong_actyon_en_6c25a6e6` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:46 | doc_type:owners_manual
 V V 14192220421 1∞ 2 3411 28 512 2Т7 6 1462 7 M/Function SW Power Window SW O/S Mirror MTR Seat SW O/S Mirror SW (Driver, Passenger) 13 452 13 452 3452 \$452 \$452 34\5 2 12784 48 \$ Fold'g SW HDC SW Trip Reset SW RR Fog SW ESP OFF SW S/Warmer SW Hazard SW IGN SW Blower SW V V □ п 0 □ □ □ ② 1 2 1 V 1 2 3 4 56 1 2 3 45 6 123 1 23 ③4 34 2 21 4WD SW d b HLLD SW Hood SW DR SW Prtipesw Stop Lamp (M, th se) Cluth w (GSL) V ① ① 1 | 2 8 7 65 123456 41 466 3456 12 4321 Sun Roof SW Neutral SW B/Up SW(M/T) P/Brake SW Inhibitor SW RR DEF SW G/Box SW TGS Lever V X 2 2 123 T/Gate SW T/Gate Unlock SW Key Reminder SW
 
 
 ### SENSOR CONNECTOR
-`ssangyong_actyon_en_362c46ad` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:47 | doc_type:owners_manual
 0 □   
 Leveake eor 2 1 Se T/C wsoed 2 1 Wp 32 1 48 Amhiont Incar Sensor 1|3 45 2[6 Senar 12 Seuo 1 2 Water.Temmp. Glow Knckk 2 Plug (W/O ABS) V 3 □ 2 2 V ү 1 ② 1234 120450 1 2 3 4 5 6 2   
 RaAut snt nit SeAS r Pedal Module SST SWSDT Pessure S.W.A Sensor G-Sensor ②③ 23 3 (4 20 ①② 0 2 □ (sx432d) ①05 0204 5432t   
@@ -23964,7 +23139,6 @@ O Sno Inetor Th dor S SA Ca GN Porno onor Pocitin onsor
 
 
 ### LAMP CONNECTOR
-`ssangyong_actyon_en_c2a2f6b8` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:48 | doc_type:owners_manual
 1 12 ② 1② 2 12 \$\\$ 12 Luggage Lamp T/Signal Lamp Side Repeater FRT Fog Lamp DR Courtesy G/Box S/Visor Lamp Lamp Lamp Lamp 13 4321 12 0 80 Center Room Lamp FRT Room Lamp HMS Lamp License Lamp Combi Lamp Head Lamp
 
 ETC.
@@ -23978,12 +23152,10 @@ Power Outlet Puran e Fuel Pump (FRT/RR DR) HLLD Chime Bell ②② ил (GSL) ①
 
 
 ### FUSE/RELAY
-`ssangyong_actyon_en_50e24076` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:49 | doc_type:owners_manual
 8410-00 ENGINE ROOM FUSE / RELAY BOX.. 3 8410-00 I/P - LH FUSE / RELAY BOX.. 5 8410-00 I/P - RH FUSE / RELAY BOX ... 6
 
 
 ### ELECTRICITY DIVIDE
-`ssangyong_actyon_en_7dc703bc` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:50 | doc_type:owners_manual
 8410-00 ENGINE ROOM FUSE / RELAY BOX CIRCUIT. 7   
 8410-00 I/P - LH FUSE / RELAY BOX CIRCUIT.. 11   
 8410-00 I/P - RH FUSE / RELAY BOX CIRCUIT. 15   
@@ -23995,24 +23167,20 @@ Power Outlet Puran e Fuel Pump (FRT/RR DR) HLLD Chime Bell ②② ил (GSL) ①
 
 
 ### 1) UPPER
-`ssangyong_actyon_en_b57b3bd1` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:51 | doc_type:owners_manual
 ![](images/99a0651ee7332c95d99057126200c2becb82542479e8d938d4264e62b7b3004a.webp)
 
 
 ### 2) LOWER
-`ssangyong_actyon_en_218179c8` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:52 | doc_type:owners_manual
 ![](images/6f9a084a3ced9246bf1f8d5dcd767aa4b870c038b50eac439f837500d6c89b86.webp)
 
 ![](images/37e28d0101b46f6d751ce6ffd8b90773aa525702f3bb05a658da67eae06b37ee.webp)
 
 
 ### 3) ENGINE ROOM FUSE / RELAY BOX
-`ssangyong_actyon_en_6f329974` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:53 | doc_type:owners_manual
 SPARE SPARE SPARE SPARE SPARE 30A 20A 15A 10A 7.5A ALT (DALERNAT) PONDER VNOD ABO 0 B+ MEMORYY 2 HA (GSL/DSL+FFH :125A) TAL RLY 18 LOW INECTO R ABSOSSP WA Haad WER() HeA HEAT3 STOPA AA TA FT HON DEICER R RLY 12 HADA FRT FOG LP HORN COMPRESSOR FRT WASHER WIPER (LO) PULER RLY 10 ( 2. H PTC Defogger STARTER HEATER 1 40A (DSL) N RLY2 RLY1
 
 
 ### 4) USAGE OF FUSE IN ENGINE ROOM FUSE BOX
-`ssangyong_actyon_en_8bf086f5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:54 | doc_type:owners_manual
 ![](images/a892eb1e1a6679768204c0dd69e471aee861c86571110cceef9103d4d452a11f.webp)
 
 5) ENGINE ROOM FUSE BOX CONNECTOR NUMBER   
@@ -24022,7 +23190,6 @@ SPARE SPARE SPARE SPARE SPARE 30A 20A 15A 10A 7.5A ALT (DALERNAT) PONDER VNOD AB
 
 
 ### 2) POWER SUPPLY
-`ssangyong_actyon_en_eb1c23a9` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:55 | doc_type:owners_manual
 F24 F41 O/Side MRR SPARE SPARE A/BAG DIGITAL CLOCKK SPARE SPARE 10A 7.5A SIROOF F25 CLUSTER F42 C/LIGHTER 7.5A STICS 20A PWR OUTLET T0A FEN OK 1 AUDIO FLASHER RR FOG LAMP UNIT F27 ALTERNATOR F44 \*GSL IMOBILIZERER FUEL PUMP 7.5A SLAMP 20A 1OA ACKAP 2 ENG ECU F29 TCU F46 DIODE 1 10A TCCU - F30 F47 \*GSL DIODE 2 RR WIPER 10A ENG ECU 15A SENSOR F31 DHEATING F48 'DSLFUL 7.5A VALVEVE 30A HEATER F32 SPARE F49 SPARE \*DSL BURGLAR HORN - - F33 F50 ABS/ESP HEAD LAMP FUEL HEATER 10A 15A (HI) \*HDC F34 RISNE AUTOLGT F51 RR FOG LAMP HDC 7.5A ECMR 10ANTERIOR LAMP F35 15A S/WARMER F52 7.5A BUZZER, CHIME IMMOBILIZER F36 FRT WIPER F53 DOORLOCKUNLOCK 20A WASHER 15A B/HORN HEAP LAMP(HI) SPARE 7.5 A/CON DIALDINNS F38 RR WIPER F55 SPARE \*GSL 10A - T/GATE UNLOCK F39 FSTICSR F56 STARTER F/PUMP 7.5A GLASS HEATER 10A GSL ECU 7. ALERATOR 7.A O/SARER \* PLEASE USE THE DESIGNATED FUSE AND RELAY
 
 ![](images/03acd403b1077ac3f0ed9c6aa0af35c12bfd9cd0f41d31e1e3204e8c9a7c2850.webp)
@@ -24035,7 +23202,6 @@ F24 F41 O/Side MRR SPARE SPARE A/BAG DIGITAL CLOCKK SPARE SPARE 10A 7.5A SIROOF 
 
 
 ### 8410-00 ENGINE ROOM FUSE / RELAY BOX CIRCUIT
-`ssangyong_actyon_en_c5bfdd5c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:56 | doc_type:owners_manual
 SB5, SB6, Ef4, Ef5, Ef11, EF16, EF17, HORN RELAY, HEAD LAMP RELAY (LO)
 
 ![](images/e85e779389525311c1550ff70ee3f055f6027756f821b383178e7053cd2604b3.webp)
@@ -24047,7 +23213,6 @@ SB5, SB6, Ef4, Ef5, Ef11, EF16, EF17, HORN RELAY, HEAD LAMP RELAY (LO)
 
 
 ### 3) SB12 \~ SB16, START RELAY, PTC RELAY
-`ssangyong_actyon_en_44acde55` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:57 | doc_type:owners_manual
 ![](images/787b9d7d9a134e5f64e166f9ec62d6124f63035d593a36e5b8f38d78e99637a1.webp)
 
 ![](images/0cc9c151dfab29e7e3117c78a0743aafcdb1d05cdf648ac6db0fc5c61ab8d691.webp)  
@@ -24070,7 +23235,6 @@ SB5, SB6, Ef4, Ef5, Ef11, EF16, EF17, HORN RELAY, HEAD LAMP RELAY (LO)
 
 
 ### I/P - LH FUSE / RELAY BOX CIRCUIT
-`ssangyong_actyon_en_e8c84a49` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:58 | doc_type:owners_manual
 ![](images/341769cd7d3be0e7fcc4fba9abf953c081ed28fe24555d52d051b0468a515064.webp)
 
 ![](images/2319544ba438a241c2ace4779d18990e378c5ca784a0c2bbabf335ba46905dbe.webp)
@@ -24083,7 +23247,6 @@ SB5, SB6, Ef4, Ef5, Ef11, EF16, EF17, HORN RELAY, HEAD LAMP RELAY (LO)
 
 
 ### 4) F41 \~ F47, FUEL PUMP RELAY(GSL)
-`ssangyong_actyon_en_d34abc99` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:59 | doc_type:owners_manual
 ![](images/25a29711c0c83db22cb2ecf66c5f0fa76cf4956d43b097d17aad548c72693d82.webp)
 
 ![](images/ae58b41730b637bb71b300a74007328ca0733de3d26ddcca7039d5364ead9ce2.webp)
@@ -24102,7 +23265,6 @@ SB5, SB6, Ef4, Ef5, Ef11, EF16, EF17, HORN RELAY, HEAD LAMP RELAY (LO)
 
 
 ### I/P - RH FUSE / RELAY BOX CIRCUIT
-`ssangyong_actyon_en_440c0686` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:60 | doc_type:owners_manual
 ![](images/068d160fea897ea0d25c81b8d754a5558e32484cfa6938d1912864b3001e292d.webp)
 
 ![](images/504c89a446d2298cd973072cdc6682f320a0564c6f21702bcba67b92900e5e30.webp)
@@ -24122,7 +23284,6 @@ SB5, SB6, Ef4, Ef5, Ef11, EF16, EF17, HORN RELAY, HEAD LAMP RELAY (LO)
 
 
 ### ENGINE
-`ssangyong_actyon_en_c8af8b0e` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 1461-00 STARTING / CHARGING. 3   
 1413-00 GLOW CONTROL UNIT. 5   
 1491-00 ECU (ENGINE CONTROL UNIT - D20DTR EU-V.) 6   
@@ -24131,7 +23292,6 @@ SB5, SB6, Ef4, Ef5, Ef11, EF16, EF17, HORN RELAY, HEAD LAMP RELAY (LO)
 
 
 ### CHASSIS
-`ssangyong_actyon_en_95b8957b` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:62 | doc_type:owners_manual
 3110-00 TCU (6-A/T).. 13   
 3110-00 TCU (5-A/T). 15   
 3410-00 TCCU... 17   
@@ -24139,7 +23299,6 @@ SB5, SB6, Ef4, Ef5, Ef11, EF16, EF17, HORN RELAY, HEAD LAMP RELAY (LO)
 
 
 ### ELECTRIC
-`ssangyong_actyon_en_f27dbdde` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:63 | doc_type:owners_manual
 8810-00 AIR-BAG (CURTAIN AIR-BAG.).. 21   
 8010-00 CLUSTER. 22   
 7410-00 POWER SEAT - DRIVER. 24   
@@ -24175,14 +23334,12 @@ SB5, SB6, Ef4, Ef5, Ef11, EF16, EF17, HORN RELAY, HEAD LAMP RELAY (LO)
 
 
 ### 1461-00 STARTING / CHARGING
-`ssangyong_actyon_en_c212fb3d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:64 | doc_type:owners_manual
 ![](images/3c17ae0d26e7d1e61401a9091e8a4c5c61350fba04e05ff38de6f35a3d2f1319.webp)
 
 ![](images/ee1d07825a58e9beb1e40cd0d61dc3afc01e5ab4b20875fc8825b5f883eaaede.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_86553d64` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:65 | doc_type:owners_manual
 ![](images/b48f2acd478900faf61cf7d9a0309f6e77cb243480ea7d7af6caadef6d6e459b.webp)
 
 V V V 18 En oaly o) □ 2 3 2 1234 V C113_M C113_F C113_M C113A_F   
@@ -24196,17 +23353,14 @@ B 1 2 13 4577 18190 20 32 пт 62 63 64 65 66 67 68 69 70 71 л V Cluster ECU (G
 
 
 ### 1413-00 GLOW CONTROL UNIT
-`ssangyong_actyon_en_574495ef` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:66 | doc_type:owners_manual
 ![](images/44cb41fc5a048198a62e96f31bde3afc51f7a4f0bcdfc31f5ca65495423b05ea.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_35770465` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:67 | doc_type:owners_manual
 ![](images/e427ff12485c78039dd659a8a3eb06f6e90b54defd58407f307ea9120b589202.webp)
 
 
 ### (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
-`ssangyong_actyon_en_ef13c861` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:68 | doc_type:owners_manual
 V 1 2 3 4 80 ④2 8808 14151617 18 1 2 3 4 5 192021222324 25 67 8 9 101112 13 26 26 13 12111098 25242322212019 18 17 7 6 5 4 161514 3 2 1 C102 _ 27 28 29 30 31 3233 34 35 36 37 38 39 39 38373635343332 31 30 29 2827   
 (Enuse in WTor □ □□ C202_F & Relay Box (DSL)) (DSL) WH Man C202_M H Floor 1 2 3 4 5 67 8 9 1011 1110 9 8 7 6 5 4 3 21 A 200087   
 X12X13141516171819X20X X2019181716151413X12 060020 Glow 21a in W1r Pug1 B л Glow Control Unit 969594939291908988878685848382818079787776757473 о 0 7271 70 69 68 6766 65 64 63 626160 59 58 5756 55 54 53 525150 49 1 2 3 4 5 6 7   
@@ -24217,26 +23371,22 @@ B 3 4 333435/36373839404142434445 5 6 4647484950515253545565758 7 D20DTR(EU-V) E
 
 
 ### ECU (ENGINE CONTROL UNIT - D20DTR EU-V)
-`ssangyong_actyon_en_635e12ee` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:69 | doc_type:owners_manual
 1) ENG MAIN RELAY, A/CRUISE SW, A/PEDAL SENSOR, IMV, O2 SENSOR, VGT, HTM SENSOR
 
 ![](images/5b735ba193c3a5db895c55b71ede7cf040940d2d0c96ae134197587f0710edca.webp)
 
 
 ### 2 INTAKE THROTTLE, CLUTCH SW, STOP LAMP SW, VALVE(EGR, SWIRL), SENSOR(F/FILTER, COOLANT, FUEL TEMP, R/PRESSURE, MAP)
-`ssangyong_actyon_en_f4d15835` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:70 | doc_type:owners_manual
 ![](images/fc4f98cfd4c17e5d3559739a7398831831794fbbea5674b8072de1c910b9bcbb.webp)
 
 ![](images/706634da4f2781f7953c1799a588ee0c748f9a3df2e33c8adb0dfd1e7c9be044.webp)
 
 
 ### 3 RECEIVER DRYER, INJECTOR, SENSOR(CRANKSHAFT, KNOCK, E/GAS TEMP, E/GAS DELTA PRESSURE, W/SPEED)
-`ssangyong_actyon_en_0deb4893` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:71 | doc_type:owners_manual
 ![](images/7caa337f2573ec8316dbd1759b798afaf8df765c24ae6e399f2ccb3a1e928f4d.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_32a3cfc5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:72 | doc_type:owners_manual
 ![](images/c732aff1c8b7ec8f0a5de62377cae3804ce1da7bd461895917e181c9e49d59cf.webp)
 
 ![](images/9b65d7cb870b835ce957669fcb565e1a1eba153aff72d4d94dd40ac1381934a9.webp)
@@ -24261,7 +23411,6 @@ X121341070 20100701591 1314597 44 1 23 4 5 678 M in WM о \$202 ю о- S206 o
 
 
 ### ECU(ENGINE CONTROL UNIT-GSL G23)
-`ssangyong_actyon_en_81b28d25` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:73 | doc_type:owners_manual
 1 IGN COIL, INJECTOR, PEDAL MODULE, THROTTLE SENSOR
 
 ![](images/3d1b7e53ebf3388897c1e9fa2fbe62d6f42d95c0815735c0b7df203c430989db.webp)
@@ -24276,7 +23425,6 @@ X121341070 20100701591 1314597 44 1 23 4 5 678 M in WM о \$202 ю о- S206 o
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_f38acdc5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:74 | doc_type:owners_manual
 ![](images/a63354572e4c3e753cd9dc516818b42ca40fc6a8558ae5d5a3c2a21f1b367877.webp)
 
 ![](images/04290f4e7715bb54a42e8892bafa9f28dff5fe5266f002fc76bc2ff6f68d6dd8.webp)
@@ -24302,17 +23450,14 @@ N Th tor 76 6 8 4 ECU (S) 0 71 72 B 1121314151711120 Kenc
 
 
 ### 8210-00 DIAGNOSIS CIRCUIT
-`ssangyong_actyon_en_5d5b8cc2` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:75 | doc_type:owners_manual
 ![](images/4eae42d0da6753c219ff0bd9f6f6d268d1225cb3894292a9d9c0529f059b878a.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_10c961b8` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:76 | doc_type:owners_manual
 ![](images/d97b416e99157dc7133747f7c3f9736b2a869465b641b5a78409ac44e74e22bc.webp)
 
 
 ### !) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
-`ssangyong_actyon_en_65b67b54` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:77 | doc_type:owners_manual
 V V   
 17 28 39 1011213 4 15 6 2 3 4 5 67 8 9 10 1112 13 13 1211109 8 7 6 5 4 3 2 1 1 C103 1415 16 17 18 19 20 2122 232425 26 26 2524|23|22 2 2019 18 17 1615 14 W/H Floor 27 2829 30 31 32 33 34 35 36 37 38 39 39 3837363534333231 30 292827   
 (Eng Room Fuse & Relay Box) □ C202_F W/H Main C202_M wH Floor д 0 V V 16 15 14 13 12 1 10 9 8 7 6 5 4 3 2 1 1 2 3 4 5 6 78 9 1011 12 13 1312 109 8 7 6 5 4 3 2 1 3130292827262524232221 20 19 1817   
@@ -24326,7 +23471,6 @@ B 7 8 9 10112 B 12410117 1 с 171112
 
 
 ### 1) START MOTOR, TGS LEVER, INHIBITOR SW
-`ssangyong_actyon_en_6ed267c4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:78 | doc_type:owners_manual
 ![](images/f4a110921d93dcb8f56cb8ae87ea3480d3b9354f94230f94d0a32ce2ca896f4a.webp)
 
 ![](images/313576b59d81d30d3320951cadef13c5eed0a86a3da696fd931fd8d8b16e4277.webp)
@@ -24335,7 +23479,6 @@ B 7 8 9 10112 B 12410117 1 с 171112
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_d7fb7ddf` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:79 | doc_type:owners_manual
 ![](images/b54ea17a70e898e839fa01567b8ba01c743416582c5f7f35b96ffdde85c9beff.webp)
 
 V V V   
@@ -24355,7 +23498,6 @@ B 7 8 9 101112 sw Transmission 1 2 3 4 56 7 89 10 2 3 16 15 1413 1211109 (6-A/T)
 
 
 ### 3110-00 TCU (5-A/T)
-`ssangyong_actyon_en_8d34110e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:80 | doc_type:owners_manual
 ![](images/9f459f94de880966f0ed913b7e7e2338290ad505d944e682f50a9b29faad2c2d.webp)  
 1) START MOTOR, TGS LEVER, CAN LINE
 
@@ -24366,7 +23508,6 @@ B 7 8 9 101112 sw Transmission 1 2 3 4 56 7 89 10 2 3 16 15 1413 1211109 (6-A/T)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_62df81c3` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:81 | doc_type:owners_manual
 ![](images/04e2757f8625d52af27caf9a2d72b0169f91baec8380981297ccd5004fc02c08.webp)
 
 V V V   
@@ -24386,7 +23527,6 @@ B 34 333453637383940414243445 5 6 4647484950515253545565758 T D20DTR(EU-V) ECU
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_a5cdfd81` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:82 | doc_type:owners_manual
 ![](images/34e6148903b1490e71a91dc8cc3385a0ccea17f873ecbc0ab1c589ac2db29e95.webp)
 
 V V V V 1 23 456 1 2 3 4 5 1 2 X 34 7 23 4 5 6 7 8 9   
@@ -24399,7 +23539,6 @@ V V V V 1 23 456 1 2 3 4 5 1 2 X 34 7 23 4 5 6 7 8 9
 
 
 ### 1) W/SPEED SENSOR, STOP LAMP SW, DIAGNOSIS, WARNING LAMP(ABS/ESP)
-`ssangyong_actyon_en_7fb23ad2` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:83 | doc_type:owners_manual
 ![](images/44ff4614fd1311ecb1623428358a8d7a2675fa6218fca2f8e6c36000e84696b7.webp)
 
 ![](images/74fe5533f3010d3e07c84b2f7ac4873437b277191995061bf387381393bec163.webp)  
@@ -24409,7 +23548,6 @@ V V V V 1 23 456 1 2 3 4 5 1 2 X 34 7 23 4 5 6 7 8 9
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_503d5f3d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:84 | doc_type:owners_manual
 ![](images/a37a9e9ff9e62d517cfbf1744110e351a7a86a72b246146c52c34d6f01cbdf6b.webp)
 
 V V V 12 34 5 1 2 3 4 5 6 7 8 V 6 7 8 91011121314 9 10111213141516 17 18 1920 2 3 3 2 1 C104 C106 4567 8 8 7 65 4 W/H Floor W/H Floor C112_F   
@@ -24422,19 +23560,16 @@ SenwERTT Sensor RR Diagnosis Sensor Cluster Pressure ESP OFF SW S.W.A Sensor Sen
 
 
 ### .G AIR-BAG (CURTAIN AIR-BAG) 8810-00
-`ssangyong_actyon_en_a8cc27ca` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:85 | doc_type:owners_manual
 ![](images/817bad799eca7b1b64934b12f26ca93dc48ad6a93d6ca7576b50c3493d7c0dbc.webp)
 
 ![](images/ae71e539b40bce18842533f4600ad3f3881f48250fa860409b4d9765164e1125.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_75964e7a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:86 | doc_type:owners_manual
 ![](images/2208a7d8d42462d667f90e7ca0b54c655a8680b318dcd4bc68a82a059df9c293.webp)
 
 
 ### (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
-`ssangyong_actyon_en_1730b3eb` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:87 | doc_type:owners_manual
 2 65 4 3 2 1 2 2 5 6 2 V   
 W M WA C20 COCM W (11) WH A/Bag V п V V д д   
 C2 (W 6 5 4B 2 1 112 13 45678 9 20 1021141519202 A W/H Aag C211_M (W/H Floor) P V A 1 2 3 4 5 6 7 8 9 10 22 23 24 25 2627 2829 30 31 (Curtain ABag) WH Ang B (Curtain ABa) 11 121814151019 20 1 2 Х 3 4 5 6 7 4645 40 л 37 д 34 33 л B 8 9 10111213141516   
@@ -24446,14 +23581,12 @@ C2 (W 6 5 4B 2 1 112 13 45678 9 20 1021141519202 A W/H Aag C211_M (W/H Floor) P 
 
 
 ### 2 WARNING LAMP (BATT CHARGE, OIL, HOOD, DOOR, ENG CHECK, AIR BAG, SEAT BELT), TURN SIGNAL, FOG LAMP, HAZARD
-`ssangyong_actyon_en_3cad2db1` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:88 | doc_type:owners_manual
 ![](images/8ed32ad032c1e17713428988d446390303f4a4a45a7e2e3bbe8291c25266ccb5.webp)
 
 ![](images/08d8768c9ede27c340d3d9dff586a4961cf552a7d058ada7f7b68815cd53bcef.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_47cca3ce` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:89 | doc_type:owners_manual
 ![](images/b38f53dc72f167eac29f76856fcc27479c8d6e6a271836192f700cabf3dbd913.webp)
 
 V V V V   
@@ -24470,51 +23603,42 @@ B 17 18 19 2021 Х 222324 V 11 V 58 2 3 4 5 6 7 8 9 12 1 2 3 4 5 6 60 14.151617 
 
 
 ### 7410-00 POWER SEAT - DRIVER
-`ssangyong_actyon_en_9fd4a0c9` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:90 | doc_type:owners_manual
 ![](images/0d0478766080095d9e97a039c39cf7a4837aeff9dcd94ad8dba74ceeefb69097.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_6fb4cef4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:91 | doc_type:owners_manual
 ![](images/39fe38d674aff38633fe34d126be47c7ac7dceefc42c7d219d1d53c54abf7cdd.webp)
 
 
 ### (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
-`ssangyong_actyon_en_c32c8c30` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:92 | doc_type:owners_manual
 ![](images/562a5a4c73f4a5ac92368de58fcff667b1e2415cab269ba37c99a57164b4c439.webp)
 
 ![](images/f28b5c4551df186ca33b988b06ace47d73f5753597457457a6a0b8d8bc180d44.webp)
 
 
 ### S.G. POWER SEAT - PASSENGER 7410-00
-`ssangyong_actyon_en_81163bca` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:93 | doc_type:owners_manual
 ![](images/9132e7f000a0f2fd8c7f5d1f838636f96e0e40fc806f01f9669c7b2ea2dc2d86.webp)
 
 ![](images/2d89adac2fd701f63efff24139cd779f777e5312591abb4f3e7400d2351fb78f.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_78ce91e1` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:94 | doc_type:owners_manual
 ![](images/2ae4db0c795a761fb51abcf79711ffe24581bbb039efa78d4d29925490223bec.webp)
 
 
 ### (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
-`ssangyong_actyon_en_a2e8f0ee` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:95 | doc_type:owners_manual
 V V 2 3 4 5 6 V 7 8 9 10111213141516 1 2 34 5 6 7 8 9 101112 13 13 121110 9 87 6 5 4 3 2 1 C103 14 15 1617 18 1920212223 2425 26 262524232212019 18 17 16 15 14 WH Floor 27 282930 31 32 3334 35 36 37 38 39 39 38373635343332 31 30 29 28 27 (Eng Room Fuse & Relay Box) □ - C202_F WH Main C202_M W/H Floor V X1213415107189100 20108710511312 3 4 5 26 12110 3 2 6 a n W21M WH O Sat Power Seat SW V 2 12 Recline Motor Slide Motor
 
 
 ### 8510-00 ELECTRIC OUTSIDE MIRROR
-`ssangyong_actyon_en_4690333f` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:96 | doc_type:owners_manual
 ![](images/e3352d40ed12100f8e1d6cc091ade05a15dcbde0feeb03ed986bed76ca18f487.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_4a4515bd` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:97 | doc_type:owners_manual
 ![](images/e3dd7645752f8ebde4ed7a49622273e25730eac4b70bbeb7df0f073bf356d020.webp)
 
 
 ### (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
-`ssangyong_actyon_en_d8a4f453` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:98 | doc_type:owners_manual
 V V 1 2 3 □ 4 5 6 7 8 9 1011 12 13 13 1211 10|9 8 7 6 5 4 3 2 1 14 15 16 17 18 19202122232425 26 26 25 24 23/22|21|20|19 18 17 16 15 14 27 2829 3031 □ 32 3334 35 36 37 38 □ 39 39 38373635343332 31 30 29 2827 C202_F W/H Main C202_M W/H Floor   
 1213 415078190 12019 8 7101514132 C213_F C213_M 2526 27 282930 313233 33 32 31 30 29 28272625 WH Main W/H Floor C351_F WWER W/CD DR   
 17 28 39 10124155 151513 12103 о   
@@ -24528,13 +23652,11 @@ B 1718 192021×222324 V 1 2 3 4 5 6 7 8 9 101112
 
 
 ### 8510-00 FRT SEAT WARMER
-`ssangyong_actyon_en_37f8fc77` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:99 | doc_type:owners_manual
 ![](images/b7b09277d02f850306c813d920fe1f2eb33cdbdeab71cfff368149ab505b7175.webp)  
 (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_6fe109e5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:100 | doc_type:owners_manual
 ![](images/bbc54b0be5341418bdb1884c5585cb397a14438164d45343c445053d398b2a51.webp)
 
 V V V т □ 17 8 9 112 41 1 215 19 20 1 2 23 242 13 2 222179187214 C104 27 28293031 32 3334 35 36 37 38 39 39 383736353433231 30292827 W/H Floor □ □□   
@@ -24545,12 +23667,10 @@ V V V т □ 17 8 9 112 41 1 215 19 20 1 2 23 242 13 2 222179187214 C104 27 2829
 
 
 ### 1 POWER/GROUND, CHIME BELL, BUZZER WARNING LAMP (BRAKE, SEAT BELT, DR OPEN)
-`ssangyong_actyon_en_cd84ea5c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:101 | doc_type:owners_manual
 ![](images/32698e2840fcd3c6fc18a0e95b90be45d8a9e48c4204c4b01d52845d741c37d8.webp)
 
 
 ### 2) CENTRAL DOOR LOCK CIRCUIT
-`ssangyong_actyon_en_2cbbadbb` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:102 | doc_type:owners_manual
 ![](images/f8af30fdca07b13d1645611fc0e5b26debd6a16004ada85bfd38ee1d2eea7a87.webp)
 
 ![](images/dc02bb1867d8c298b3add1d486e9b8b034b8ba37d88f5c4c9f7873583b6620a3.webp)
@@ -24560,7 +23680,6 @@ V V V т □ 17 8 9 112 41 1 215 19 20 1 2 23 242 13 2 222179187214 C104 27 2829
 
 
 ### 4) DEFOGGER
-`ssangyong_actyon_en_5e365e57` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:103 | doc_type:owners_manual
 ![](images/dc81dbe916a55dfd6923a1dd1cd6f325570e5dc87ee72a4a9e0c50e56003a7aa.webp)
 
 ![](images/7b279d575631882c5ebea4f60e625e883e4f8d7fb12bc13a038ea9681f46f49b.webp)
@@ -24570,31 +23689,26 @@ V V V т □ 17 8 9 112 41 1 215 19 20 1 2 23 242 13 2 222179187214 C104 27 2829
 
 
 ### 6) FRT WIPER/WASHER/ RR WASHER
-`ssangyong_actyon_en_1342ec72` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:104 | doc_type:owners_manual
 ![](images/62dfeb0fc94cfb483e17b1f2fb9462417e42460e71bdf23b54b54726276f413a.webp)
 
 ![](images/d1207d09defd5cdc5edd4c8a5a40c5c78ac8d157157edf9b93e47dad65e83ee3.webp)
 
 
 ### 7) MIRROR FOLD'G/UNFOLD'G, FOLD SW
-`ssangyong_actyon_en_ae975c28` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:105 | doc_type:owners_manual
 ![](images/6ca93d10aa2c6165ee6d3281a3d2832ad08ceb74f9cfc721b712bf5b5c7c8fcc.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_4856ef1d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:106 | doc_type:owners_manual
 ![](images/36bb5a68ff7eeac128986365a8c8f49db4bad8fd8d3da9a07cc772f5428f3aa3.webp)
 
 ![](images/3310bd0d9cbe4ee6f0714e0047122f337d8a5bba5b1e1d7f3b376ba0ef417f53.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_a7f55f20` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:107 | doc_type:owners_manual
 ![](images/663ac2041d80b060bcf1967707f144d4f12e0c2021a9369e0c1501c281091c9e.webp)
 
 
 ### (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
-`ssangyong_actyon_en_09e26496` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:108 | doc_type:owners_manual
 V V V V   
 1 2 3 4 5 6 7 1 2 3 456 1 2 3 4 5 1 2 3 4 5 6 8   
 8 9 10 11 12 1314 15 16 17 18 7 8 9 10111213141516 67 8 91011 121314 9 101112 131415 16 18 19 20 C101 C103 C104 C106 W/H Floor W/H Floor WH Floor W/H Floor (Eng Room Fuse & Relay Box) (Eng Room Fuse & Relay Box) (Eng Room Fuse & Relay Box) (Eng Room Fuse & Relay Box) V V □   
@@ -24617,19 +23731,16 @@ V V X12134507189120 120191 71051132 145 145 C301_F C302_F C214_F C214_M (WH Floo
 
 
 ### G 7 RR WIPER CIRCUIT 7830-00
-`ssangyong_actyon_en_86907b69` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:109 | doc_type:owners_manual
 ![](images/1d6d43f70c7737994200f460fe21a939e477edec9c011e36dffb33cda2405402.webp)
 
 ![](images/ef6c9c99e5047878235d3e6b6a14e0c258f85a14c6fc0355caaf0f20a62d8f1c.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_20b9aad7` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:110 | doc_type:owners_manual
 ![](images/33520b875f6a7f7404b0f7021d1876401a582f14b68edcb36056b60be31db677.webp)
 
 
 ### (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
-`ssangyong_actyon_en_f10974d7` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:111 | doc_type:owners_manual
 V V 1 2 3 4 5 6 7 8 9 101112 13 13 12 10 9 8 7 6 5 4 3 2 43 □ 2 1 1 2 3 4 14 15 16 17 18 1920212223 2425 26 26 25/24 23 22 21 2019 18 17 161514 9 8 7 6 5 5 6 7 8 9 27 2829 30 31|32 33 34 35 36 3738 39 39 38373635343332313029 2827 1413 12 1110 1011 12 1314 □ □□ V C202_F C401_M C401_F WH Min C202_M (WH Foor) WH T/Gate WH Floor WH T/Gate д V д 1 23 4 5 6 7 8 9 V 101112 13 14 151617 18 19 20 21 1 2 3 4 5 6 7 8 910 12 13 12\\$   
 A 22 23 24 25 26×27 28×29 30 31 141516 17 18 19 20 21 22 23 24 25 26 RR Wiper Motor V M/Function SW 1 2X 3 4 5 6 7 8 9 10 11 1213 14 1516   
 B 17 18 19 2021 222324 V 2 3 4 5 6 7 8 9 101112   
@@ -24637,17 +23748,14 @@ B 17 18 19 2021 222324 V 2 3 4 5 6 7 8 9 101112
 
 
 ### 8510-00 POWER WINDOW CIRCUIT
-`ssangyong_actyon_en_6ea01859` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:112 | doc_type:owners_manual
 ![](images/304a9f281a71f326e36ca9dd371049c2ccdb9a92cf97a6eec1a71dbad82aa26b.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_daafd3da` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:113 | doc_type:owners_manual
 ![](images/d181b424d7407acd4782ee07f017525ff6d79a7417e1a10e44f3041c38e44d89.webp)
 
 
 ### (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
-`ssangyong_actyon_en_bd8c6b0b` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:114 | doc_type:owners_manual
 V V 1 2 34 5 1 23 4 5 6 7 8 6 7 8 9 1011 121314 91011121314151617 18 1920 V C104 C106 1 2 3 45 6 7 8 9   
 (Eng ROomFd Rely ) (Eng Rooms Rely l 10 1112 13 14 15 16 17 18 V W n V □ □□ 1 2 3 4 5 6 7 8 9 101112 13 13 121110 9 8 7 6 5 4 3 2 1 V 14 15 16 17 18 2728293031 19202122 2324.25 32 33 3435 363738 39 26 26 39 38373635343332 31 30292827 2524232221201918 17 16 15 14 18177 1554312210 C202_F V WH Main C202_M C203_M WH Floor W/H Floor 12 9 1012 14 515 16143 10 3 28 17 17 28 91011213145 1654120 3 2 17   
 16 17 1819 20 2122 2324. 24 23 22 21 20 19 18 17 16 1617 18 19 20 21 22 2324 24 2322 2120 19 1817 16   
@@ -24664,29 +23772,24 @@ PWindowW (Dpwi, downger) Pindowotor с 1314151617 STICS
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_e7fc5430` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:115 | doc_type:owners_manual
 ![](images/b0595cf18c6595f71443f157e9eaffa71f2dd3740020c502cede336d202f5ec5.webp)
 
 
 ### (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
-`ssangyong_actyon_en_ae985dde` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:116 | doc_type:owners_manual
 V V 1 2 345 1 2 3 67 891011121314 456 7 8 910 C104 C110 W/H Fooor W/H Engg   
 (Eng Room Fuse & Relay Box) (Eng Room Fuse & Relay Box) V V   
 27 5 20 171 1 2 03 4 5 3 20 3432235 6 7 8 9 10 1112 30 8 13 13 121110 9 8 7 29 35272040224 6 5 4 3 2 1 7 1 2 8 3 9 101113 4 5 6 4 2 □ □ A/Cruise SW& Horn Contact Horn r Contact Coil (Steering) C206_M W/H Main
 
 
 ### 8730-00 IMMOBILIZER CIRCUIT (D20DTR)
-`ssangyong_actyon_en_86f71d16` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:117 | doc_type:owners_manual
 ![](images/bf857bf6d7884512b3dce69c217a480ce6a6b223f0030d88ae4da3405868e5a5.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_b3ca1390` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:118 | doc_type:owners_manual
 ![](images/8a96dc2c706f092768068a6f60f4690707b382f6a5f2a4d4773f2e965b638642.webp)
 
 
 ### (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
-`ssangyong_actyon_en_31c85ca3` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:119 | doc_type:owners_manual
 V V 2 3 V 4 5 6 1 2 3 4 5 6 7 8 9 101112 13 13 1211109 8 7 6 5 4 3 2 1 7 8 9 101112 1314 1516 14 1516 17 18 19 20 2122 232425 26 26 25242322212019 1817 16 15 14 C103 2728 29 3031 3233 34 35 36 3738 39 39 38373635343332 31 30 29 28 27 W/H Floor C202_F (Eng Room Fuse & Relay Box) WH Man C202_M WH Floor V V D 9 1012 2 3 4 5 6 7 8 13 13 1211109 8 7 6 5 4 3 2 1 141516 17 18 19202122 232425 26 26 25242322 21 2019 1817 16 15 14 272829 3031 3233 34 35 36 37 38 39 39 38373 736 35343332 31 3029 2827 □ □□ C206_F W/H Floor C206_M WH Main n V n 969594939291908988878685848382818079787776757473 1 2X 3 4 5 6 7 8 9 1 V 2 1 2   
 A A102325202728123031 B S лт V л 1 2X 3 4 5 6 7 2 20121:213181:59082 8 9 10111213141516 123 B   
 B 34 334353637383940414243445 1718192021×222324 Key Reminder SW 56 4647484950515253545565758 V D20DTR(EU-V) ECU 2 3 4 5 6 7 8 9 101112 с 131415 16| 17 STICS
@@ -24695,19 +23798,16 @@ B 34 334353637383940414243445 1718192021×222324 Key Reminder SW 56 464748495051
 
 
 ### 7632-00 CIGAR LIGHTER / POWER OUTLET CIRCUIT
-`ssangyong_actyon_en_65191c6d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:120 | doc_type:owners_manual
 ![](images/b6fc8caa0e365ff08aacd4ecd65c840f44eb8c3bfa98edbfd1f00d16829531f1.webp)
 
 ![](images/54020b68fb1b575f55060069aa31627ae0213d1b246cab74462e90399627726a.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_dc52ff34` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:121 | doc_type:owners_manual
 ![](images/e6aa8d92d15aee7b36f3505a371bfae2c19fd2254fef5f4ec36f86762764dd4c.webp)
 
 
 ### (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
-`ssangyong_actyon_en_48ca7918` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:122 | doc_type:owners_manual
 V V   
 1 2 3 4567 12 34 5   
 8 910111213 1415161718 67 8 9 1011121314 C101 C104 W/H Floor W/H Floor (Eng Room Fuse & Relay Box) (Eng Room Fuse & Relay Box) V V J   
@@ -24716,47 +23816,39 @@ V V
 
 
 ### 7340-00 SUNROOF CIRCUIT
-`ssangyong_actyon_en_35854248` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:123 | doc_type:owners_manual
 ![](images/9fefabce6c639bd2cb7a83091fcb2172de8d6f0eff6731c8941e10516ba902aa.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_60686f18` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:124 | doc_type:owners_manual
 ![](images/9366c7808f454a1e3c02a167b8318108f8f4172b5876da2685e0680faed6e3fd.webp)
 
 
 ### (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
-`ssangyong_actyon_en_85ec809e` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:125 | doc_type:owners_manual
 V V 2 3 4 2 3 4 5 6 7 8 654 X 32 1 1 2 3 X 4 5 6 5 6 78 9 10 9 10111213 1415 16 17 18 1920 1413 1211109 8 7 7 8 9 1011121314 C105 C106 (Eng RoomFi Rely bo) (Eng RooWRelay B) W Wf V n V π V 1 2X3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1012 13 13 1211109 8 7 6 5 4 3 2 1 10 11 12 13 14 15 16 17 18 19 20 21 14 15 16 17 18 1920212223 2425 26 26252423221201918 17 16 15 14 A 22 2324 25 2627 282930 31 272829 30 31 32 33 34 35 36 37 3839 39 3837363534333231 30292827 □ □ P V C202_F 1 2 Х 3 4 5 6 7 WH Min C202_M 8 9 1011 12 13 14 15 16 WH Foor B 1718192021222324 V V V 123 456 п V д 2 3 4 5 6 7 8 9 9 8 7 6 5 4 3 2 1 2 3 4 5 6 1 1011 1213 14 15 16 17 18 18 16 1514 13 2 S/Roof SW 7 8 9 101112 n C203_M V с 131415 16|17 2 W/H Floo 3 45 6 STICS S/Roof Control Unit (S/Roof otor
 
 ![](images/9062440909dc091b9f077086c589bcd493b3835248c80621bef0ec8d12d2513d.webp)
 
 
 ### 8310-00 HEAD LAMP CIRCUIT
-`ssangyong_actyon_en_37f80d1b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:126 | doc_type:owners_manual
 ![](images/5036ba12499d6045799bd174ea7c890c917737b87ff883496ef1553d83c22541.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_55411e62` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:127 | doc_type:owners_manual
 ![](images/9cbca0c33b5030413d566989f9020e86dfddc5ea2ec08a39dc14af5d2a1d0931.webp)
 
 
 ### (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
-`ssangyong_actyon_en_5cbf0eea` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:128 | doc_type:owners_manual
 V V V 1 234 9 20 3 12 1 141516 51 18172 15 26 7 8 9 10 1\$ 4 5 6 7 8 29 30 (Eng owiely ox) (Eng OoWiay bo) (Eng Ro Dlay ox) (Eng RoMelay ox) V V V V V W 4 з 2 1 \$ 38 27 651 1 \$ 121459718 18 77 15 5 43 12 2|1 10 (ABS) V/2M (WH WH Eng C112_M W in C203_M 1 23 (-ABS) (ABS/ESP)) W/H Floor 456 V п V n V J 1 2 X 3 4 5 6 7 8 9 in 115 19022 132 13 8 252422229 1817121 A 23250228202033 3 2 1 27 2829 3031 32 3334 35 36 373839 39 38373635343332 31 30 29 28 27 654 □ C206_F □□ 1 2 X 34 5 6 7 C204_M W/H Floor C206_M 8 9 10111213141516 WH Floor W/H Main B 17 18 19 2021 х 222324 01 2 3 1 о 2 3 д4 5 6 7 1 о 2 3 д4 5 6 7 A 112 13 450718 9 10 1 д 1 V д 4 5 6 8 9 1011121314 8 9 1011121314 0 V 1 2 3 4 5 6 \1 о S203 о S205 B 1213 1415 101718190 с 1 512 V Cluster 2 3 4 5 6 7 8 2 3 STICS 1 9 10 3 3 4 466 14 15 16 17 18 19 20 21 22 23 24 M/Function SW 25|26 Heap Combi Lamp
 
 ![](images/75343ad5522211650934e228167ea8fff687289623065e1596dcffaa7e61aadc.webp)
 
 
 ### 8510-00 HLLD (HEAD LAMP LEVEL G DEVICE) CIRCUIT
-`ssangyong_actyon_en_5833e751` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:129 | doc_type:owners_manual
 ![](images/f56db317087fa2a05031d93362956ce188eb470e66563dd208816f4930731831.webp)  
 (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_284ca987` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:130 | doc_type:owners_manual
 ![](images/b3a901b5c0b49e6b8dd7b6f6ee408f1499b860418a8f86bf47c94d0c1238ffc8.webp)
 
 V V V   
@@ -24769,17 +23861,14 @@ V V V
 
 
 ### G TAIL LAMP CIRCUIT 8320-00
-`ssangyong_actyon_en_6022ddd5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:131 | doc_type:owners_manual
 ![](images/e972159147e160ad6d24a5d20cb6acc3348eab598217ec28d20552f3f4cb1f13.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_a1f85d8d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:132 | doc_type:owners_manual
 ![](images/5f41cd33a5257bdf4c6c71f68461cfd3a57c92089675ed9ccf21c27904a5cdd0.webp)
 
 
 ### (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
-`ssangyong_actyon_en_fe17dff0` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:133 | doc_type:owners_manual
 V V V 1 2 345 1 2 34 56 7 8 1 2 3 4 5 6 7 8 9 6 7 8 9 1011121314 910 111213 1415 16 17 18 1920 1011 12131415 16 17 18 C104 C106 C108 WHFor W/H Floor WH Eng   
 (Eng Room Fuse & Relay Box) (Eng Room Fuse & Relay Box) (Eng Room Fuse & Relay Box) V V 88 054020 12345 67 8 9 101112 13 13 1211109 8 7 6 5 4 3 2 1 12110987 14 151617 18 19202122232425 26 26 252423222120191817 16 15 14 27 2829 30 31 3233 34 35 36 37 38 39 39 3837363534333231 30 29 2827 C402_M C903_M C903_M □ □□ (WH Floor) (WH Floo) (W/H Floor) C202_F WH Traileer WH RR Bumper WH RR Bumper W/H Main C202_M (PAS) (PAS) WH Floor n V п о о 1 2 X 3 4 5 6 7 8 9 0 □ 10 11 12 13 14 15 16 17 18 19 2021 1 2 3 4 5 6 7 1 2 3 4 5 6 7 A   
 8 9 10111213 14- 8 9 10 11 12 13 14 6 22 2324 25 26×27 28×29 30 31 о S204 о S205 Combi Lamp Head Lamp License Lamp 1 2 X3 V 4 5 6 7 V 8 9 101112131415 16 B 2 3 4 5 6 7 8 9 о 2 3 1718192021222324   
@@ -24789,12 +23878,10 @@ V V V 1 2 345 1 2 34 56 7 8 1 2 3 4 5 6 7 8 9 6 7 8 9 1011121314 910 111213 1415
 
 
 ### 8410-00 TURN SIGNAL / HAZARD LAMP CIRCUIT
-`ssangyong_actyon_en_a63ec0c4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:134 | doc_type:owners_manual
 ![](images/e8e0ec2c2b0193c64070a919cf9a66c29c76f4c042d0c2d34c44721dc8446e95.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_962c2917` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:135 | doc_type:owners_manual
 ![](images/c594482a8302b6339f907b26485541269219e4b7b6149972698848ccafefecba.webp)
 
 ![](images/22de75ac3c4ae58ee2aabcc9ccb4a2836917609e34651cb4081df8d891beea21.webp)
@@ -24813,17 +23900,14 @@ B 1213 14151678 190 ICM Relay Box Hazard SW 1 2 34 5 6 Cluster 7 8 9 1011 12 с 
 
 
 ### 8210-00 TRAILER LAMP CIRCUIT
-`ssangyong_actyon_en_5a60aba6` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:136 | doc_type:owners_manual
 ![](images/bcb6bd085b9d1f7c10378fd37afe4a70ddc3ae19b326aefb694357c96a82ad5c.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_90a29006` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:137 | doc_type:owners_manual
 ![](images/9766ec7632f04fe3018c656743cbf805862330030f514bb0be7983b604ab082e.webp)
 
 
 ### (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
-`ssangyong_actyon_en_5258c1fd` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:138 | doc_type:owners_manual
 V V V   
 1 23 4 5678   
 9101112114151617181920 1 2 3 4 5 6 7 8 9 10 1213 131211 109 8 7 6 5 4 3 2 C106 14 15 16 17 18 19 2021 22 23 24 25 26 2625 24 232221 20191817 161514 W/H Floor C207_F C207_M (Eng Room Fuse & Relay Box) W/H Floor W/H Main   
@@ -24835,7 +23919,6 @@ X12X13141516171819X20X 20X1918171615141312 1  n W21M W о о ю V 1 23 4 1 2 3 q
 
 
 ### 8310-00 FOG LAMP CIRCUIT
-`ssangyong_actyon_en_91e066c5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:139 | doc_type:owners_manual
 ![](images/ac707aa312add24366987efd10c2dcbee0819ab4e53537216c7a8315ef7ad72b.webp)  
 (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
 
@@ -24843,7 +23926,6 @@ X12X13141516171819X20X 20X1918171615141312 1  n W21M W о о ю V 1 23 4 1 2 3 q
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_fd5fb95c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:140 | doc_type:owners_manual
 ![](images/f77afd1fb201f3c1230e7941dcbc3b80e0fa033339d1327e61064ca23b1c25c3.webp)
 
 V V V V   
@@ -24860,13 +23942,11 @@ B1112 13 14151617181920 14 15 1617 1819 20 21 22 2324 2526 3 4 5 6 12 Cluster M/
 
 
 ### 4810-00 STOP / BACK-UP LAMP CIRCUIT
-`ssangyong_actyon_en_fd280b9c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:141 | doc_type:owners_manual
 ![](images/1ba244a576bc56a62fe2b48fc38eb0f8992ecda2b2a1aeaf00e18a4e53c85069.webp)  
 (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_069c04fa` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:142 | doc_type:owners_manual
 ![](images/46d5516ff8439f8231e059a07119765e4c4665c3de40f92288186934dc8febcb.webp)
 
 V V   
@@ -24883,12 +23963,10 @@ Stop Lamp SW HMS Lamp B/up Lamp □ … ECU (GSL) 5 6 T DOODTD (EUV FCU
 
 
 ### 7770-00 INTERIOR LAMP CIRCUIT
-`ssangyong_actyon_en_1d28e780` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:143 | doc_type:owners_manual
 ![](images/b7fb6fde7d379dd8c71d460e03e9b03fd06f9ca62856bb296910f2a6d67f4de2.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_b33a46e5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:144 | doc_type:owners_manual
 ![](images/848b96604eecc0398301bb2fac51589e6b71c55a22d2da3755bd18f15de5f9e2.webp)
 
 ![](images/1f8317d99e28290ca06fa3e4d739780b5851b52e1a9063f88d273856e928b5f7.webp)
@@ -24909,7 +23987,6 @@ G/Box Lamp DR SW T/Gate SW 1314151617 STICS
 
 
 ### 7770-00 AUTO DIMMING ROOM MIRROR CIRCUIT
-`ssangyong_actyon_en_1cff6ffa` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:145 | doc_type:owners_manual
 ![](images/ed73aeaff07039e0e273c77aefbf8c256d86f117e6d0c9278d723f90f4672ce2.webp)  
 (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
 
@@ -24917,7 +23994,6 @@ G/Box Lamp DR SW T/Gate SW 1314151617 STICS
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_0ecc2bd8` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:146 | doc_type:owners_manual
 ![](images/3f6e934df8f9b3b60ff38a3f5a34e2c13a0b966ea3972ec0630a2fbfd93daf77.webp)
 
 V   
@@ -24927,12 +24003,10 @@ W (M/T, ESP) W 8 9 10 Auto iing B/UP Lamp SW (M/T) Combi Lamp Initr sw
 
 
 ### 8910-00 AUDIO / CLOCK CIRCUIT
-`ssangyong_actyon_en_5620afb0` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:147 | doc_type:owners_manual
 ![](images/b2657d4559bcb91c76e9475b8c2c7719e11c1fa996e4a256d251c52db6da982c.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_2a064b94` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:148 | doc_type:owners_manual
 ![](images/91b725d05758f9ea9e3f83265d3b5b694e40e258aabe30c260c328abf7819299.webp)
 
 ![](images/810539d37d6174c9092363bcc79633f84afba87cf20589ab09a0b4687ff9e06e.webp)
@@ -24946,13 +24020,11 @@ V V V 1 2 3 456 1 2 34 5 1 2 3 4 56 7 8 7 8 910111213141516 6 7 8 91011 12 1314 
 
 
 ### 8790-00 PARKING AID CIRCUIT
-`ssangyong_actyon_en_751fd5bb` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:149 | doc_type:owners_manual
 ![](images/f07b29187dd46f975b5cf5de7943cc72167ac64f59748d61f9862bcf76e15338.webp)  
 (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_538097aa` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:150 | doc_type:owners_manual
 ![](images/f60fea23242e682e316d228a5ef71d5e3202ccfc14326892522c674e9be9e216.webp)
 
 V   
@@ -24967,19 +24039,16 @@ W/H T/M (W/H Floor) (W/H Floor) о ю о ю о о о ю
 
 
 ### 6810-00 PTC HEATER(POSITIVE TEMPERATURE COEFFICIENT)
-`ssangyong_actyon_en_0cb4f30d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:151 | doc_type:owners_manual
 ![](images/6f5dde960b12afcbbfff2e139ab18fb051cab3ead570178d7726063fb6678fbb.webp)
 
 ![](images/db1741aad7ce9e1f7a5458614c88627642859431c432816174e4da6dc3419598.webp)
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_af511609` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:152 | doc_type:owners_manual
 ![](images/45485018e0a2e0f37041ce2210ed1aed184b70b0aaba8c93863de6c94895c2cc.webp)
 
 
 ### (2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION
-`ssangyong_actyon_en_879c7e54` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:153 | doc_type:owners_manual
 V V V   
 18 29 1011 121314 14 6 8 2 3 4 6 2]7 8 9101115 1221141516781920 C101 C102 C104 C106 W/H Floor W/H Floor W/H Floor W/H Floo (Eng Room Fuse & Relay Box) (Eng Room Fuse & Relay Box) (Eng Room Fuse & Relay Box) (Eng Room Fuse & Relay Box) V V V V 1 2345 6 7 8 9 10 1112 13 13 1211109 8 7 6 5 4 3 2 1 2 3 4 5 6 7 89 9 87 654 32 1 14 15 16 17 18 1920212223 2425 26 26 2524232212019 18 17 16 15 14   
 10 11 1213 14 15 1617 18 1817 16 15 14 13 12 1110 27 2829 3031 32 33 34 35 36 37 38 39 39 138373635343332 31 30 29 2827 in WM □ Wr □□ C206_M V V 4 3 2 1 H Min 2 3 4 5 67 8 9 1011 1213 13121110 9 8 7 6 5 4321 109 87 6 5   
@@ -24989,14 +24058,12 @@ B 123 B 110 1 2 1 B 17 28 \$ 02 5 6 A/C Control Panel(FATC) A/C Control Panel(Ma
 
 
 ### |FATC (FULL AUTO TEMP. CONTROL) CIRCUIT
-`ssangyong_actyon_en_bf8e6266` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:154 | doc_type:owners_manual
 1 PWM MOTOR, COMPRESSOR, AIR MIX MOTOR, SUN SENSOR
 
 ![](images/9ce8abe92a0d2624d913e5c82966aaf874ff1e674a0855c57de31b2e551cd212.webp)
 
 
 ### 2) PWM MOTOR, AIR MIX MOTOR(GSL 2.3)
-`ssangyong_actyon_en_c09b83e9` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:155 | doc_type:owners_manual
 ![](images/b8006582dcbe102b5c511d4d0ef29171227f3a36f8094c04e6b5f0cb9dc3fc49.webp)
 
 ![](images/e35074e83873b6022414ca7462349783c6fae81f684af1abd3daccebca7f7845.webp)
@@ -25006,7 +24073,6 @@ B 123 B 110 1 2 1 B 17 28 \$ 02 5 6 A/C Control Panel(FATC) A/C Control Panel(Ma
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_60afeda4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:156 | doc_type:owners_manual
 ![](images/66d18b4a41d2bbadffc924632a3c308c9f33fe4a57e484e7f4086fbbbb5b37d2.webp)
 
 ![](images/85a50ee89b836a168fac87203b1dfbb839786eebe65f9d5e32b5d2d51fbb3e08.webp)
@@ -25024,14 +24090,12 @@ X12 13141516171819×20X X20X19181716151413×12 X12Xx13141516171819X20X 20X19 18 
 
 
 ### S.G. AIR-CON (MANUAL) CIRCUIT 6810-00
-`ssangyong_actyon_en_f614b682` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:157 | doc_type:owners_manual
 1) PWM MOTOR, COMPRESSOR, MOTOR(MODE, INTAKE, AIR MIX)
 
 ![](images/13f938e9f86c7b31fada764af14304fe7c2c376248a58c6429b4c455ba8c7d8e.webp)
 
 
 ### 2) PWM MOTOR, MOTOR(GSL 2.3)
-`ssangyong_actyon_en_d82f2f2c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:158 | doc_type:owners_manual
 ![](images/4ce1bd19167c02bc91869677a774012ed9cbb0b28bd6852af991e315fa506748.webp)
 
 ![](images/7a135062cd2d3a56ba500802ed5cd2879a3267aa4820de0730c692d4ebcabe67.webp)
@@ -25040,7 +24104,6 @@ X12 13141516171819×20X X20X19181716151413×12 X12Xx13141516171819X20X 20X19 18 
 
 
 ### (1) CONNECTOR INFORMATION
-`ssangyong_actyon_en_34ba8c30` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:159 | doc_type:owners_manual
 ![](images/16ad094a7be767ea6042e52af269629b711bf84e7070fd93838dc9732f408e8b.webp)
 
 ![](images/39cedd1daf2d548951465c13fae9c3fc29d39fd97991035bb0b077837aed9d6b.webp)
@@ -25062,7 +24125,6 @@ B \* 123456 123456 123456 12\$ D20DTR(EU-V)ECU Intake Motor Mode Motor Air Mix M
 
 
 ### 1. DIMENSIONS
-`ssangyong_actyon_en_f10ea5e8` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:160 | doc_type:owners_manual
 Unit: mm
 
 ![](images/bc617ec6241ffcb0294ad8b7738bdb182163bde73066b9121f68c5426b223792.webp)
@@ -25071,7 +24133,6 @@ Unit: mm
 
 
 ### 2. SPECIFICATIONS
-`ssangyong_actyon_en_9cce7c32` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:161 | doc_type:owners_manual
 \* ( ) Optional, [ ] 2WD
 
 ![](images/c5c046c6fe8aeebd5ea389bd8eee31d179e7c75583897af77551a27538e946b8.webp)
@@ -25086,7 +24147,6 @@ Unit: mm
 
 
 ### 3. VEHICLE IDENTIFICATION
-`ssangyong_actyon_en_bc738e38` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:162 | doc_type:owners_manual
 ![](images/7d5d4984ded770105450b01073a4a6859db57272caf395ec62e0e20324e5d252.webp)
 
 The engine number is stamped on the upper rear left-hand side of the cylinder block. _
@@ -25105,7 +24165,6 @@ The certification label is located on the driver's door sill.
 
 
 ### 4. MAINTENANCE INTERVAL 1) Diesel Engine - EU
-`ssangyong_actyon_en_ed34627b` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:163 | doc_type:owners_manual
 \* Use only approved Ssangyong genuine parts.
 
 Maintenance service and record retention are the owner's responsibility. You should retain evidence that proper maintenance has been performed on your vehicle in accordance with the scheduled maintenance service chart.
@@ -25116,12 +24175,10 @@ Maintenance service and record retention are the owner's responsibility. You sho
 
 
 ### ENGINE CONTROL SYSTEM
-`ssangyong_actyon_en_21090cc7` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:164 | doc_type:owners_manual
 ![](images/71209b062ec5b74779c8cb6c546a3894427dd74acf5534c3a93764fec9e6fa0b.webp)
 
 
 ### Chart Symbols:
-`ssangyong_actyon_en_0f312e35` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:165 | doc_type:owners_manual
 I - Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace. \*1 Check the engine oil level and leak every 3000 km (2000 miles) or before starting a long trip.
 
 R- Replace or change.
@@ -25142,12 +24199,10 @@ R- Replace or change.
 
 
 ### CHASSIS AND BODY
-`ssangyong_actyon_en_a10a6252` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:166 | doc_type:owners_manual
 ![](images/75228fed50ab125ba47a317181cd46be37e83f903f49675f4cf26dd3a825b48d.webp)
 
 
 ### Chart Symbols:
-`ssangyong_actyon_en_acde4520` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:167 | doc_type:owners_manual
 I - Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace.
 
 R- Replace or change.
@@ -25168,12 +24223,10 @@ R- Replace or change.
 
 
 ### CHASSIS AND BODY
-`ssangyong_actyon_en_75f33d65` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:168 | doc_type:owners_manual
 ![](images/8315cd8854d044705f8403074521fff514d729b7a51795674053bab06d07023f.webp)
 
 
 ### Chart Symbols:
-`ssangyong_actyon_en_4a628771` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:169 | doc_type:owners_manual
 I - Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace.
 
 R- Replace or change.
@@ -25188,7 +24241,6 @@ R- Replace or change.
 
 
 ### 2) Diesel Engine - GENERAL
-`ssangyong_actyon_en_efd22dd8` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:170 | doc_type:owners_manual
 \* Use only approved Ssangyong genuine parts.
 
 Maintenance service and record retention are the owner's responsibility. You should retain evidence that proper maintenance has been performed on your vehicle in accordance with the scheduled maintenance service chart.
@@ -25197,12 +24249,10 @@ Maintenance service and record retention are the owner's responsibility. You sho
 
 
 ### ENGINE CONTROL SYSTEM
-`ssangyong_actyon_en_ee774a3a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:171 | doc_type:owners_manual
 ![](images/423840a59cb91847669dc723c75f490d657d8154883ae90882177bf1d4929710.webp)
 
 
 ### Chart Symbols:
-`ssangyong_actyon_en_2f914d19` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:172 | doc_type:owners_manual
 I - Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace \*1Check the engine oil level and leak every 3000 km (2000 miles) or before starting a long trip.
 
 R- Replace or change.
@@ -25221,12 +24271,10 @@ R- Replace or change.
 
 
 ### CHASSIS AND BODY
-`ssangyong_actyon_en_1ea46c02` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:173 | doc_type:owners_manual
 ![](images/acc3b9af3c3dead51548d92d688cf78f121a2a401457eec17391ddccb3a1b4bf.webp)
 
 
 ### Chart Symbols:
-`ssangyong_actyon_en_b40b9fc9` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:174 | doc_type:owners_manual
 I - Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace.
 
 R- Replace or change.
@@ -25254,12 +24302,10 @@ R- Replace or change.
 
 
 ### CHASSIS AND BODY
-`ssangyong_actyon_en_13f84700` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:175 | doc_type:owners_manual
 ![](images/33661b6e405f4910fef06fb1790ff88133f423c73d45d28eec2abc140be94844.webp)
 
 
 ### Chart Symbols:
-`ssangyong_actyon_en_755d3b10` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:176 | doc_type:owners_manual
 I - Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace.
 
 R- Replace or change.
@@ -25274,7 +24320,6 @@ R- Replace or change.
 
 
 ### 3) Gasoline Engine
-`ssangyong_actyon_en_bfb3ec77` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:177 | doc_type:owners_manual
 \* Use only approved Ssangyong genuine parts.
 
 Maintenance service and record retention are the owner's responsibility. You should retain evidence that proper maintenance has been performed on your vehicle in accordance with the scheduled maintenance service chart.
@@ -25284,12 +24329,10 @@ Maintenance service and record retention are the owner's responsibility. You sho
 
 
 ### ENGINE CONTROL SYSTEM
-`ssangyong_actyon_en_ae402a8e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:178 | doc_type:owners_manual
 ![](images/fb877262c40d8e64e5be1e4f75581895f7521503ec98e05dcca4adb36cfba679.webp)
 
 
 ### Chart Symbols:
-`ssangyong_actyon_en_78bcac0b` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:179 | doc_type:owners_manual
 I - Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace.   
 R- Replace or change.
 
@@ -25315,12 +24358,10 @@ Shorten the service interval.
 
 
 ### CHASSIS AND BODY
-`ssangyong_actyon_en_9bc32f56` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:180 | doc_type:owners_manual
 ![](images/071004e1e8264c49e352ddcf68296263f596c024e700a2f14e190ee5f334c9b1.webp)
 
 
 ### Chart Symbols:
-`ssangyong_actyon_en_27a3bdd3` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:181 | doc_type:owners_manual
 I - Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace.
 
 R- Replace or change.
@@ -25341,12 +24382,10 @@ R- Replace or change.
 
 
 ### CHASSIS AND BODY
-`ssangyong_actyon_en_a80e4dda` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:182 | doc_type:owners_manual
 ![](images/353b862bede1a1cf5cf21576a4268f4ba95d434a891b1d35d66b656491e55919.webp)
 
 
 ### Chart Symbols:
-`ssangyong_actyon_en_f631ceca` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:183 | doc_type:owners_manual
 I - Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace.
 
 R- Replace or change.
@@ -25362,38 +24401,32 @@ R- Replace or change.
 ![](images/d36e2f9b68d53a5f35fd3004b225ca80a9a02182253d698044c46e373f79c31a.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_62ae420f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:184 | doc_type:owners_manual
--Use only Ssangyong recommended fluids and lubricants.   
--Do not mix any different types or brands of oils or fluids. This may cause damages.   
-- Keep the specified levels when adding or replacing the fluids.
-
-![](images/6ac88bdb6fdcd85ae7c46c9e5badeacd2a2173d33f8326ad7f04865eeafb4160.webp)
+> ⚠️ **Внимание:** -Use only Ssangyong recommended fluids and lubricants.
+> -Do not mix any different types or brands of oils or fluids. This may cause damages.   
+> - Keep the specified levels when adding or replacing the fluids.
+>
+> ![](images/6ac88bdb6fdcd85ae7c46c9e5badeacd2a2173d33f8326ad7f04865eeafb4160.webp)
 
 
 ### 6. JACK-UP POINTS
-`ssangyong_actyon_en_13ba0e64` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:185 | doc_type:owners_manual
 ![](images/f593d20072f896388dfcd0e9408a8a32ef397c7555b430f61e1354a5fdc88541.webp)
 
 ![](images/d74c09e2f51bf5d24894ff194ab754458e2ee49346926c76447ee819d99f27cd.webp)
 
 
 ### 7. PIN ARRANGEMENT OF DIAGNOSTIC CONNECTOR
-`ssangyong_actyon_en_a5de1f0e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:186 | doc_type:owners_manual
 It is installed under the instrument panel and consists of 16 pins
 
 ![](images/fbaa6c9254aef3594de64cda70563a23f93c753e674c2353a2718aedf2461960.webp)
 
 
 ### 1) Functions of Terminal
-`ssangyong_actyon_en_4ff8991c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:187 | doc_type:owners_manual
 ![](images/58e3de22a32270e73bf6ac49686cd12c0b5f53b38d0d7562e61bf24611bd78d4.webp)
 
 ![](images/b6c8afdb07c2499f61dac030b5baec6ee8145d950c09243bfc9f2de389fd0671.webp)
 
 
 ### 8. ELECTRIC COMPONENTS AND LAYOUT 1) Wiring Harness Arrangement
-`ssangyong_actyon_en_9ed9d3e8` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:188 | doc_type:owners_manual
 000□ C101 C10 W/H ENG ROOM W/H MAIN C103 104 IW/H FLOOR 105 G103102 G104 W/H BATT NEGA C11(3Pin, B/DSL) C107 18 C108 10 BATT C113A WH ALTERNATOR © L (4Pin,B/DSL) W/H ALTERNATOR © 3 S101 C109 C11 C212 LYY Siy i В Ⅲ S201 Eng RoomFUs o( C X   
 A -WH Eng C10(20n) CN 206 C21(20Pn,.) ,) C202 G306302 WHMAN W  H a 2 C204 C23 \$C3026P105 2Pin,) Pawe WHDRVR WASENGER SET   
 W/H Main - W/H Floor [ C202(8Pi,)) C204(6Pin,Colorless) s302 (4P1.) ) C901(AT 1in) MT 24PB   
@@ -25404,14 +24437,12 @@ B W/H RR |W/H T/M WHRR C207 LHDR W/H FUEL SENDER RHDRR C206 C208 AL ● G304 W/H
 
 
 ### 2) Components Locator
-`ssangyong_actyon_en_e5300072` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:189 | doc_type:owners_manual
 ![](images/7db4955d1186478b2a8c7962aeea3b36cca6d49c367add2ba82aa9853a024672.webp)
 
 ![](images/3ec84565b544faee9f2161e9c368ee94c5ab901070421939f67d667fe56f9cb3.webp)
 
 
 ### 9. STANDARD BOLTS SPECIFICATIONS
-`ssangyong_actyon_en_3b69b25f` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:190 | doc_type:owners_manual
 ![](images/d7f03e33f804cdf2ea0804370638e8c462201e75add0c20ae38ea0b767562df8.webp)
 \*Diameter X pitch in millimeters
 
@@ -25431,7 +24462,6 @@ B W/H RR |W/H T/M WHRR C207 LHDR W/H FUEL SENDER RHDRR C206 C208 AL ● G304 W/H
 
 
 ### 1. GLOSSARY
-`ssangyong_actyon_en_0212dfe4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:191 | doc_type:owners_manual
 ![](images/eb2b1580f46501e2c5754e0ba3606d30b962838843081edeb05683ec87ea882c.webp)
 
 ![](images/2a4b82495c0e33fb126a8cb73a58883fce16e2ea713c1f7e4f6aaae9ca0ffb7e.webp)
@@ -25488,21 +24518,18 @@ B W/H RR |W/H T/M WHRR C207 LHDR W/H FUEL SENDER RHDRR C206 C208 AL ● G304 W/H
 
 
 ### 1. ENGINE LAYOUT
-`ssangyong_actyon_en_6486c95a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:192 | doc_type:owners_manual
 ![](images/40274bc5926963840573f0f191ca875bc682359a9b66c3c29b2c49145ff0d01f.webp)
 
 ![](images/bfdfc14e320acb13c568a196900b47de3a989a21c6e6807c56b5904acc5aaed2.webp)
 
 
 ### 2. MAJOR COMPONENTS
-`ssangyong_actyon_en_2f13fdae` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:193 | doc_type:owners_manual
 Front view
 
 ![](images/ea6c26e24d31631c7695ca789b1c64c1f02e8a3d2ca81c1fc6f6cef9d06aa1fb.webp)
 
 
 ### Rear view
-`ssangyong_actyon_en_ea5ed164` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:194 | doc_type:owners_manual
 ![](images/0bd0f8db54a6c4ce3d562ca71e1834a51c4c7653951233a5346e0d923b8bdaf7.webp)
 
 ![](images/58a39f78d437537fa3c4030970884d99c03d66ce53d00c8bafa306353c10a6cc.webp)
@@ -25517,34 +24544,26 @@ Left view
 
 
 ### 3. ENGINE COMPARTMENT LAYOUT
-`ssangyong_actyon_en_7a278911` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:195 | doc_type:owners_manual
 ![](images/dfba53006a0436aa2c4b743a42bcf2a858f463595e88be416e7d9f0c1e25d127.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_e28dddc9` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:196 | doc_type:owners_manual
--Do not work on the engine compartment while the engine, radiator, exhaust manifold, muffler or catalytic converter is hot. Always turn the engine off and allow it to cool before starting the maintenance. -Regularly check the engine oil level and add Ssangyong genuine engine oil if necessary. -Clean the dipstick with clean cloth so that any foreign materials cannot get into the engine.
+> ⚠️ **Внимание:** -Do not work on the engine compartment while the engine, radiator, exhaust manifold, muffler or catalytic converter is hot. Always turn the engine off and allow it to cool before starting the maintenance. -Regularly check the engine oil level and add Ssangyong genuine engine oil if necessary. -Clean the dipstick with clean cloth so that any foreign materials cannot get into the engine.
 
 
-### WARNING
-`ssangyong_actyon_en_702faeee` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:197 | doc_type:owners_manual
-Operating vehicle with insufi cient amount of oil can damage the engine. Make sure the engine oil] level is correct and add oil f necessary.
-
-![](images/98c7fbe3d7c3e28ef5772e78b0ad8ec38013c21a105ea3fcf39d850081c89fde.webp)
+> ⚠️ **Внимание:** Operating vehicle with insufi cient amount of oil can damage the engine. Make sure the engine oil] level is correct and add oil f necessary.
+>
+> ![](images/98c7fbe3d7c3e28ef5772e78b0ad8ec38013c21a105ea3fcf39d850081c89fde.webp)
 
 
 ### 1) Service Interval
-`ssangyong_actyon_en_ccec8536` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:198 | doc_type:owners_manual
 ![](images/1b347aa515a90d959ea443f03dd084c6310aaeff936b1f109ac7bec5e02e29fb.webp)
 
 
 ### 2) Specification and Capacity
-`ssangyong_actyon_en_fef1fdb6` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:199 | doc_type:owners_manual
 ![](images/4c3578bc2e4225830693a0983bb9ad4166db4f709dcb0e624afa1d3424294d49.webp)
 
 
 ### Severe condition
-`ssangyong_actyon_en_d62f20e3` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:200 | doc_type:owners_manual
 Frequent stop-and-go trafic, extended idling, short driving distance below 6 km, driving distance belov 16 km when the outside temperature remains below freezing   
 -Driving in a hil or mountainous terrain, sandy, or dusty area   
 -High load driving such as trailer towing   
@@ -25554,25 +24573,20 @@ Frequent stop-and-go trafic, extended idling, short driving distance below 6 km,
 
 
 ### 1) Cleaness
-`ssangyong_actyon_en_5d6257e2` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:201 | doc_type:owners_manual
 Engine has a lot of precisely machined (grinding, polishing, lapping) surfaces. Thus, there should be great cautions for cleaness when servicing the engine components. Apply the engine oil on the sliding surfaces when assemblying the components. Every component should be disassembled and reassembled in accordance with the correct sequences. Before servicing the engine, the negative cable should be diconnected from the battery. Otherwise, some electric or electronic components could be damaged.
 
 
-### CAUTION
-`ssangyong_actyon_en_ff075850` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:202 | doc_type:owners_manual
--Before service work, be sure to disconnect battery negative (-) terminal to prevent damages by bad wire and short.
-
--To prevent the foreign material from geting into engine cylinder, cover the inlet of air cleaner if the air cleaner has been removed
+> ⚠️ **Внимание:** -Before service work, be sure to disconnect battery negative (-) terminal to prevent damages by bad wire and short.
+>
+> -To prevent the foreign material from geting into engine cylinder, cover the inlet of air cleaner if the air cleaner has been removed
 
 
 ### (1) Lifting up the vehicle
-`ssangyong_actyon_en_5fa196d2` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:203 | doc_type:owners_manual
 -Always keep the safety precautions.   
 -To prevent the vehicle from roling down, put the chocks under the tires (when using a 4-postliff). Make sure to support the correct lifting points (when using a 2-post lift)
 
 
 ### (2) Exhaust system
-`ssangyong_actyon_en_50d75ed2` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:204 | doc_type:owners_manual
 -Wear the safety glove when removing the exhaust pipe.   
 -Make sure that the exhaust pipe is cooled before removing it.
 
@@ -25580,13 +24594,11 @@ Engine has a lot of precisely machined (grinding, polishing, lapping) surfaces. 
 
 
 ### (3) Cautions before service
-`ssangyong_actyon_en_2b6e58f3` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:205 | doc_type:owners_manual
 Scalding hot coolant and steam could be blown out under pressure, which could cause serious injury.   
 Never remove the coolant reservoir cap when the engine and radiator are hot.
 
 
 ### (4) Lubrication system
-`ssangyong_actyon_en_ef4241a8` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:206 | doc_type:owners_manual
 -Prolonged exposure to the engine oil make cause a skin cancer or an irritation.
 
 -Used engine cotains the hazardous material that may cause the skin cancer. Do not allow the used engine to make contact with your skin.   
@@ -25594,29 +24606,24 @@ Never remove the coolant reservoir cap when the engine and radiator are hot.
 
 
 ### (5) Tightening the fastener
-`ssangyong_actyon_en_ef9be5a3` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:207 | doc_type:owners_manual
 -Clean the mating surfaces before tightening.   
 -Place the marks with paint to tighten by angle if the angle wrench is not available.
 
 
 ### 3) Fuel and Oil System
-`ssangyong_actyon_en_753ee980` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:208 | doc_type:owners_manual
 -If work on the fluid system such as fuel and oil, working area should be well ventilated and smoking should be prohibited.
 
 -Gasket or seal on the fuel/lubrication system should be replaced with new ones and bolts and nuts should be tightened as specified.
 
 
-### NOTE
-`ssangyong_actyon_en_457f77e4` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:209 | doc_type:owners_manual
-. If fine dust or foreign material enters into DI engine's fuel system, there can be serious damages between HP pump and injectors. So, be sure to cover removed fuel system components with cap and protect removed parts not to be contaminated with dirt. (Refer to cleanness in this manual while working on DI engine fuel system)   
-. When working on the fuel line between priming pump and injector (including return line), always plug the openings with caps to prevent foreign materials or dust from entering to the openings and connections.   
-3. The HP fuel supply pipe (HP pump to fuel rail) and HP fuel pipe (Fuel rail to injector) should be replaced with new ones when removed.
-
-![](images/5f31e5551859fb495ffbaa909f2ef77b7ecd08e455b1317e03290f5104158031.webp)
+> ℹ️ **Примечание:** . If fine dust or foreign material enters into DI engine's fuel system, there can be serious damages between HP pump and injectors. So, be sure to cover removed fuel system components with cap and protect removed parts not to be contaminated with dirt. (Refer to cleanness in this manual while working on DI engine fuel system)
+> . When working on the fuel line between priming pump and injector (including return line), always plug the openings with caps to prevent foreign materials or dust from entering to the openings and connections.   
+> 3. The HP fuel supply pipe (HP pump to fuel rail) and HP fuel pipe (Fuel rail to injector) should be replaced with new ones when removed.
+>
+> ![](images/5f31e5551859fb495ffbaa909f2ef77b7ecd08e455b1317e03290f5104158031.webp)
 
 
 ### 5. STANDARD BOLTS SPECIFICATIONS
-`ssangyong_actyon_en_b81154f9` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:210 | doc_type:owners_manual
 ![](images/b2c80740f8075433d02c62aba6670bd101e6a934bda61cd6f1959969df0919b1.webp)
 
 ![](images/2d510c2cb8406979b9bc61965b95bec0cd5738467db11e5ba5ff874189067f65.webp)
@@ -25632,7 +24639,6 @@ Never remove the coolant reservoir cap when the engine and radiator are hot.
 
 
 ### 6. TIGHTENING TORQUE
-`ssangyong_actyon_en_5ac56c7a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:211 | doc_type:owners_manual
 ![](images/f9905c0e3fdbe493f751202c9fbdb3efcdbf4467d71e3699bc4e5f20eb4c37b4.webp)
 
 ![](images/5bb3e7daf11dff71de946dae4a882a6577dfb688db57a0f8e27b18e2bf22064b.webp)
@@ -25647,21 +24653,18 @@ Never remove the coolant reservoir cap when the engine and radiator are hot.
 
 
 ### 1) Engine Variant Coding
-`ssangyong_actyon_en_a689bdb2` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:212 | doc_type:owners_manual
 ![](images/4ec8f2b046580d8f98acf0da3dfc26dacf0dddb6198c33fbba10fa3355dc6ff2.webp)
 
 ![](images/8386a883e2e777939be4a91a494d611eee62353945de55d78a2a49de868e0bb6.webp)
 
 
 ### 1. SPECIFICATION
-`ssangyong_actyon_en_a0260577` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:213 | doc_type:owners_manual
 ![](images/ec639c887d651ef6b790bb61fd3749c5b6810bf0ae2dfa7482712f4d7888bd5b.webp)
 
 ![](images/fb349613cea1644bf40d44294c08d5536814d6f156469f04ffabc8bdac4045ef.webp)
 
 
 ### 2. TIGHTENING TORQUE
-`ssangyong_actyon_en_82736cc9` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:214 | doc_type:owners_manual
 ![](images/e9384d4b1dfffe61c02868fa679bd2123b0c72f291fe76dd242499dc386889f0.webp)
 
 ![](images/06458bc5853485caf8ab89b3834396a7efc29899d71fe38605c88afd061ef72f.webp)
@@ -25676,7 +24679,6 @@ Never remove the coolant reservoir cap when the engine and radiator are hot.
 
 
 ### 3. CHECK AND INSPECTION
-`ssangyong_actyon_en_62a7225b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:215 | doc_type:owners_manual
 1) Cylinder
 
 (1) Compression pressure test
@@ -25688,15 +24690,12 @@ Specified value
 The compression pressure test is to check the conditions of internal components (piston, piston ring, intake and exhaust vale, cylinder head gasket). This test provides current engine operating status.
 
 
-### CAUTION
-`ssangyong_actyon_en_60d429ec` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:216 | doc_type:owners_manual
--Before cranking the engine, make sure that the test wiring, tools and persons are keeping away from moving components of engine (e.g., belt and cooling fan).   
--Park the vehicle on the level ground and apply the parking brake.   
--Do not allow anybody to be in front of the vehicle.
+> ⚠️ **Внимание:** -Before cranking the engine, make sure that the test wiring, tools and persons are keeping away from moving components of engine (e.g., belt and cooling fan).
+> -Park the vehicle on the level ground and apply the parking brake.   
+> -Do not allow anybody to be in front of the vehicle.
 
 
 ### Measurement
-`ssangyong_actyon_en_3aeae2c3` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:217 | doc_type:owners_manual
 - Warm the engine up to normal operating temperature (80°C).   
 -Disconnect the fuel rail pressure sensor connector to cut off the fuel injection.   
 -Remove the air cleaner duct and glow plugs.
@@ -25717,7 +24716,6 @@ The compression pressure test is to check the conditions of internal components 
 
 
 ### (2) Cylinder pressure leakage test
-`ssangyong_actyon_en_8ae2106b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:218 | doc_type:owners_manual
 Specified value
 
 ![](images/ad61c35a8afc8c8f53c64f632269714106447bcf1d5b77f19e2cf2c92c69481f.webp)
@@ -25725,16 +24723,13 @@ Specified value
 If the measured value of the compression pressure test is not within the specifications, perform the cylinder pressure leakage test.
 
 
-### CAUTION
-`ssangyong_actyon_en_053e2d98` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:219 | doc_type:owners_manual
--Perform this test in the sequence of firing order.   
--Do not test the cylinder pressure leakage with wet type test procedure. (do not inject the engine oil into the combustion chamber)
-
-![](images/4145e0ef0f1a3664d5444bad4e972a67abbf453aafbda78ed5c1d2a0048d33c9.webp)
+> ⚠️ **Внимание:** -Perform this test in the sequence of firing order.
+> -Do not test the cylinder pressure leakage with wet type test procedure. (do not inject the engine oil into the combustion chamber)
+>
+> ![](images/4145e0ef0f1a3664d5444bad4e972a67abbf453aafbda78ed5c1d2a0048d33c9.webp)
 
 
 ### (3) Piston protrusion check
-`ssangyong_actyon_en_f09f1554` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:220 | doc_type:owners_manual
 .
 
 ![](images/4eaa3acf907c19ea230311a11f5f98e0b38796692ba7241ee15099af190fbc27.webp)
@@ -25745,7 +24740,6 @@ Position the piston at TDC and measure the piston protrusion from crank case mat
 
 
 ### 2) Cylinder Head
-`ssangyong_actyon_en_db58131b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:221 | doc_type:owners_manual
 (1) Cylinder head mating surface check
 
 Specified value
@@ -25757,36 +24751,29 @@ Specified value
 1. Measure the cylinder head height "A".
 
 
-### CAUTION
-`ssangyong_actyon_en_ac9b6dd4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:222 | doc_type:owners_manual
--If the height is less than the limit, the cylinder head must be replaced.
-
-![](images/989ed686401f98125637e7f8534033837e9d9545f539f2181313982a1de7cb82.webp)
-
-2. Insert the valves into the valve guides and measure the recesses.
-
-![](images/4ac61773782473f7337cfa77d1b5a83ef55b419d0fec4b9af443b14ed92034a5.webp)
+> ⚠️ **Внимание:** -If the height is less than the limit, the cylinder head must be replaced.
+>
+> ![](images/989ed686401f98125637e7f8534033837e9d9545f539f2181313982a1de7cb82.webp)
+>
+> 2. Insert the valves into the valve guides and measure the recesses.
+>
+> ![](images/4ac61773782473f7337cfa77d1b5a83ef55b419d0fec4b9af443b14ed92034a5.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_d26badec` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:223 | doc_type:owners_manual
--If the measured value is out of the specified range, machine the valve seat as much as necessary until the specified value is achieved.
+> ⚠️ **Внимание:** -If the measured value is out of the specified range, machine the valve seat as much as necessary until the specified value is achieved.
 
 
 ### (2) Cylinder head pressure Leak test
-`ssangyong_actyon_en_5c67bebe` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:224 | doc_type:owners_manual
 Immerse the cylinder head with the pressure plate into warm water (approx. 60°C) and pressurize with compressed air to 2 bar.
 
 ![](images/75b0ab6e76c593d9571a93bd029bf35d03693ad38d6dca01cbdbe6197444b248.webp)
 
 
 ### 4. GUIDELINES ON ENGINE SERVICE
-`ssangyong_actyon_en_b82f90be` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:225 | doc_type:owners_manual
 To prevent personal injuries and vehicle damages that can be caused by mistakes during engine and unit inspection/repair and to secure optimum engine performance and safety after service works, basic cautions and service work guidelines that can be easily forgotten during engine service works are described in.
 
 
 ### Cautions before service works
-`ssangyong_actyon_en_299a9e24` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:226 | doc_type:owners_manual
 -For safe and correct works, you must observe the working procedures and instructions in this manual. And, use the designated tools as follow: Engine stand / Heavy duty engine jack   
 -To prevent the engine from starting abruptly, do not allow anybody to get in the vehicle while servicing in engine compartment.   
 -Before work on engine and each electrical equipment, be sure to disconnect battery negative (-) terminal.   
@@ -25796,7 +24783,6 @@ To prevent personal injuries and vehicle damages that can be caused by mistakes 
 
 
 ### Engine and accessories
-`ssangyong_actyon_en_7d662c42` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:227 | doc_type:owners_manual
 - Completely drain the engine oil, coolant and fuel from engine before removal.   
 -Before disassembling/assembling the engine components, carefull read the working procedures in this manual.   
 -Make sure to keep the specified tightening torques during installation.   
@@ -25807,7 +24793,6 @@ To prevent personal injuries and vehicle damages that can be caused by mistakes 
 
 
 ### Fuel and lubrication system
-`ssangyong_actyon_en_ceea0ff4` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:228 | doc_type:owners_manual
 -Do not allow the fluid and engine oil to make contact with the body paintwork and hoses.
 
 -f work on the fluid system such as fuel and oil, working area should be wellventilated and smoking should be prohibited.   
@@ -25819,7 +24804,6 @@ If fine dust or foreign material enters into DI engine's fuel system, there can 
 
 
 ### Electrical equipment
-`ssangyong_actyon_en_d41ac362` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:229 | doc_type:owners_manual
 Electric devices should be handled more carefully.
 
 Currently, the engine has a lot of electric devices. there could be poor engine performance, incomplete combustion and other abnormal symptoms due to short circuit or poor contact.
@@ -25830,12 +24814,10 @@ Currently, the engine has a lot of electric devices. there could be poor engine 
 
 
 ### 1. BELT LAYOUT
-`ssangyong_actyon_en_b2f236ed` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:230 | doc_type:owners_manual
 It is single drive type and uses FEAD (Front End Accessories Drive) design to make a compact layout.
 
 
 ### Components
-`ssangyong_actyon_en_c9822134` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:231 | doc_type:owners_manual
 ![](images/f51812b294eea1a8a43993b5deaf072cd129c24125124374189655996bb7983d.webp)
 
 ![](images/36c2cf0f666236c1f143ac36797c10a3f9fdaee49f847058d317506882fd3941.webp)
@@ -25844,19 +24826,16 @@ It is single drive type and uses FEAD (Front End Accessories Drive) design to ma
 
 
 ### (1) Overview
-`ssangyong_actyon_en_b1f39fd7` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:232 | doc_type:owners_manual
 The strut type tensioner automatically adjusts the belt tension to provide the reliability and durability for the system. And, the belt tension is decreased to minimize the friction loss and improve the belt operating noise.
 
 
 ### (2) Sectional drawing
-`ssangyong_actyon_en_cb488c51` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:233 | doc_type:owners_manual
 ![](images/d2ef03bd348736e4db6488adccead1c3180f3f991f70629c9e4da4283ddbf79e.webp)
 
 ![](images/6427ae414a19045317987335f35c7bf87d1efa0d4612dc81fc55e4c977f08078.webp)
 
 
 ### (3) Features
-`ssangyong_actyon_en_a6c44ab3` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:234 | doc_type:owners_manual
 1. Rubber damper: Decrease crankshaft torsion   
 2. Improve belt NHV: Reduce unbalance speed to crankshaft due to irregular combustion   
 3. Minimize noise: Anti-vibration from crankshaft and belt   
@@ -25868,19 +24847,16 @@ The strut type tensioner automatically adjusts the belt tension to provide the r
 
 
 ### (1) Overview
-`ssangyong_actyon_en_11ccd543` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:235 | doc_type:owners_manual
 The torque deviation from crankshaft affects the components in belt drive system and the belt movement. The auto tensioner system is to adjust this deviation automatically. In D20DTR engine, one of the mechanical tensioner, pivot damped tensioner is used to keep the damping force, system reliability and durabilit. The single belt drive system needs to use the automatic belt tensioning device to transfer the power to pulleys efectively. To get this, the tensioner uses the spring and damping unit.
 
 
 ### () Location
-`ssangyong_actyon_en_7253abf4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:236 | doc_type:owners_manual
 ![](images/10b7f4ce636b9f27d246631214382d0f5669e8c70c2a9857a2c6912dff3e2854.webp)
 
 ![](images/4ee17bb5540cce5d2d2264e40c9f5646604119a3c3eb00703b3422f21613da5e.webp)
 
 
 ### 2. VACUUM PUMP
-`ssangyong_actyon_en_fb087182` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:237 | doc_type:owners_manual
 Vacuum pump generates the vacuum pressure and supplies it to EGR cooler bypass solenoid. This pump is single vane type and displacement is 210 cc/rev. The lubrication oil is supplied through the hole
 
 ![](images/27f3fc02d0add94d6e2d0077a00f2817b27ade4a38657536e30ebdc93d44d510.webp)
@@ -25889,12 +24865,10 @@ Vacuum pump generates the vacuum pressure and supplies it to EGR cooler bypass s
 
 
 ### 1 Location
-`ssangyong_actyon_en_0f270958` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:238 | doc_type:owners_manual
 ![](images/3d20cbec0a14bf3815c52c5f10d558760e5db5f8a49af0be6dc8e61edcffb1cc.webp)
 
 
 ### 2) Operation
-`ssangyong_actyon_en_51387e74` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:239 | doc_type:owners_manual
 The vacuum pump is engaged to the exhaust camshaft.
 
 ![](images/d4ed9973be5b18659e56a03c535555fea9a5548a8152e93f2f13ef71808a82d5.webp)
@@ -25903,12 +24877,10 @@ The vacuum pump is engaged to the exhaust camshaft.
 
 
 ### 3. ENGINE MOUNTING
-`ssangyong_actyon_en_91e1f1c8` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:240 | doc_type:owners_manual
 D20DTR engine uses 3-point mounting type that supports the engine and transmission simultaneously.
 
 
 ### Components
-`ssangyong_actyon_en_a6b423fb` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:241 | doc_type:owners_manual
 ![](images/0233260193d74ed981dfbb0205acbd67fd48b2caf40bf505d69cf5044e21be43.webp)
 
 ![](images/9b4ea54c198755226ebb48c1424f7601f215d42d926fcd5e11bab6ec6440bf8c.webp)
@@ -25917,31 +24889,26 @@ D20DTR engine uses 3-point mounting type that supports the engine and transmissi
 
 
 ### 1) Functions
-`ssangyong_actyon_en_e1c1d5c4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:242 | doc_type:owners_manual
 ![](images/842117329db8e7ceeaec54eba7d19679f1bfef9d56a34fe7ec43d9f68a1c48f0.webp)
 
 ![](images/e70ff1a0ca01d949899ce338c3c3c114760d98afd928a07f0e54692cff4eea6b.webp)
 
 
 ### 1) Intake Manifold
-`ssangyong_actyon_en_3e900ea3` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:243 | doc_type:owners_manual
 Intake manifold is installed on the cylinder head with 8 bolts. The variable swirl valve is introduced to improve the EGR gas mixture and turbulence in combustion chamber and to decrease the exhaust gas.
 
 
 ### Components
-`ssangyong_actyon_en_95bfec26` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:244 | doc_type:owners_manual
 ![](images/7ce97ae6445b6f1cc155d454c272a7e07aa88a3ed64a90bf17816a6126d40c49.webp)
 
 For detailes, refer to Chapter "Intake System".
 
 
 ### 2) Exhaust Manifold
-`ssangyong_actyon_en_c33356a1` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:245 | doc_type:owners_manual
 Exhaust manifold is installed on the cylinder head with 10 stud bolts and nuts. EGR port is integrated in cylinder head.
 
 
 ### Components
-`ssangyong_actyon_en_588a4637` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:246 | doc_type:owners_manual
 ![](images/642c97a0eeb3ccc4b91b0d80ae0a7df976cc3ae86ff0a79cc8022d6131293e53.webp)
 
 \*For detailes, refer to Chapter "Exhaust System".
@@ -25950,50 +24917,42 @@ Exhaust manifold is installed on the cylinder head with 10 stud bolts and nuts. 
 
 
 ### 1) Cylinder Head Cover
-`ssangyong_actyon_en_aaa5747d` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:247 | doc_type:owners_manual
 The cylinder head cover is made by high strength plastic to reduce the weight. The multi twist type oil separator improves the oil consumption.
 
 
 ### Components
-`ssangyong_actyon_en_60ce2b44` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:248 | doc_type:owners_manual
 ![](images/ac9c550b7a43772ff8bbe55df6d47e86b332cabdf315e7d48e11339071d60ec0.webp)
 
 ![](images/a9ed57d383cbb15a1594d703b243576370a6a9d7eb186dd40eece4605f5786cb.webp)
 
 
 ### (1) Overview
-`ssangyong_actyon_en_249b6f32` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:249 | doc_type:owners_manual
 Oil separator separates the particle in blow-by gas to minimize the engine oil consumption and reduces the inflow oil from intake system into the combustion chamber. The separated oil returns to oil pan through cylinder head.
 
 
 ### (2) Layout
-`ssangyong_actyon_en_dd3fcde6` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:250 | doc_type:owners_manual
 ![](images/dd57e5c107681a4ccbf7e8eeb6712979f6c3d46f86d331db8aa2d75007241fe7.webp)
 
 ![](images/9c4cc93e81d3ace251fb148be721fc0f182a86f42e99b10dc4a4f9da66477caa.webp)
 
 
 ### 6. CYLINDER HEAD
-`ssangyong_actyon_en_d0ae9429` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:251 | doc_type:owners_manual
 Cylinder head contains cam position sensor, vacuum pump, intake manifold, exhaust manifold and valve assembly. Vacuum pump and the high pressure (HP) pump are driven by Camshaft and valves are install in vertical direction. This enables the compact layout in cylinder head assembly.
 
 
 ### Components
-`ssangyong_actyon_en_dcc7a0a2` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:252 | doc_type:owners_manual
 ![](images/d2bdb9c8bac2ddd57ff82490543d17a0f9d7d48a07f58835f769f18946d0a854.webp)
 
 ![](images/03b589099b867b5667a390fc58234e3947cab636d5e8fe9291e51353719b575e.webp)
 
 
 ### (1) Overview
-`ssangyong_actyon_en_1c90adeb` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:253 | doc_type:owners_manual
 The cylinder is made by gravity casting and the water jacket is integrated type.   
 The cylinder oil passage is drilled and sealed by cap.   
 The Camshaft bearing cap is also made by casting and installed on the cylinder head.
 
 
 ### (2) Features
-`ssangyong_actyon_en_86e3d0e7` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:254 | doc_type:owners_manual
 ![](images/f4ae92d74055b1597a41b39b20c1c7bcb12b06ba984ace27184ecb8c42abbf7f.webp)
 
 ![](images/d079900fa02b6ce4bef6065f8bc53672479308ff547e691d949678b04da020b0.webp)
@@ -26002,24 +24961,20 @@ The Camshaft bearing cap is also made by casting and installed on the cylinder h
 
 
 ### Closed flow type water jacket (improving cooling performance)
-`ssangyong_actyon_en_cb0a05bf` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:255 | doc_type:owners_manual
 ![](images/5626e4ae83b53dca59cf3d6e4c6ec76f288b6efcf644a9b3cd31b77e0e478069.webp)
 
 
 ### (1) Overview
-`ssangyong_actyon_en_aa5f8144` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:256 | doc_type:owners_manual
 Hollow type camshaft contains cam, octagon cam, HP pump gear and intake/exhaust gears. Camshaft operates the intake/exhaust valves, vacuum pump and HP pump, and transfers the engine oil to vacuum pump through the internal oil passage.
 
 
 ### (2) Location
-`ssangyong_actyon_en_b379ae61` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:257 | doc_type:owners_manual
 ![](images/f1bcbafe8d11b833b765f0dcc6239b3cb8fd8d6c90532244a58912552b49a56c.webp)
 
 ![](images/02ed7074173c2bd0e7cf720e23d6d9d8afb5e928d59d5ac88b49e33a546f7409.webp)
 
 
 ### 3) Valve Assembly (Installed in Cylinder Head)
-`ssangyong_actyon_en_a8e5e440` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:258 | doc_type:owners_manual
 (1) Features
 
 1. Automatic valve clearance adjuster by hydraulic pressure (Maintenance Free) - Hydraulic lash   
@@ -26031,14 +24986,12 @@ consumption at high speed)
 
 
 ### (2) Arrangement
-`ssangyong_actyon_en_91ea64d4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:259 | doc_type:owners_manual
 ![](images/17c8588555c106d820a863035861039d38a2a0b8d816599e04d089cb013f9401.webp)
 
 ![](images/21aecc7b449b298610163fb01bac7772b2fdc20f311f8a64fdc9e2a584486aad.webp)
 
 
 ### (1) Features
-`ssangyong_actyon_en_2f31d9b8` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:260 | doc_type:owners_manual
 1. Sealing the cylinder gas pressure - Peak pressure: 190 bar   
 . Minimizing the distortion of engine structure (cylinder head, block): profile stopper, backland stopper Material: MLS (Multi Layer Steel), Gasket (3 layers)   
 3. Thickness of gasket: 3 types (1.2 /1.3 /1.4 mm)   
@@ -26048,36 +25001,30 @@ consumption at high speed)
 
 
 ### (2) Thickness of cylinder head gasket
-`ssangyong_actyon_en_03171dbb` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:261 | doc_type:owners_manual
 There are three types of gasket to managing the compression ratio.
 
 
 ### Piston protrusion
-`ssangyong_actyon_en_910fa485` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:262 | doc_type:owners_manual
 ![](images/2f686c3de7aabbf5fe03acba5431ce521abc5d2c3d5810ad697a83e8c798d647.webp)
 
 ![](images/8aed8023005793c38347f931596fe71ffb4e5733baa66caa75f8a563ed11b646.webp)
 
 
 ### 7. CHAIN AND GEAR DRIVE SYSTEM
-`ssangyong_actyon_en_4b3f94d3` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:263 | doc_type:owners_manual
 D20DTR engine uses single stage chain drive system. Timing chain drives the exhaust side and gear drive the intake side. Timing chain is single bush type. Upper chain drives HP pump connected to intake Camshaft by driving exhaust cam shift sprocke, and lower chain drives oil pump to lubricate the engine.
 
 
 ### (1) Overview
-`ssangyong_actyon_en_df0ccb82` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:264 | doc_type:owners_manual
 The drive chain is single chain drive system with simple design and variable performance, and it utilizes the hydraulic tensioner to reduce the wave impact generated by the chain. This chain is light weight and has high durability through single bush chain. Shoulder bolts are used for better NHV.
 
 
 ### (2) Layout
-`ssangyong_actyon_en_33981db6` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:265 | doc_type:owners_manual
 0 Chain upper bush Exhaust camshaft 00 00 sprocket Type: single bush o Chains:112 EA Teeth: 42 EA C 00 e Tightening torque 30 ± 3Nm Tensioner rail Installed between exhaust Clamping rail Camshaft sprocket and Installed between exhaust crankshaft sprocket ю Camshaft sprocket and crankshaft sprocket Hydraulic tensioner Contains tensioner housing C plug, spring and check valve, © Mechanical type tensioner and operated by hydraulic pressure 1 Operated by internal spring a Crankshaft sprocket O с Teeth: 21 EA 0 Chain lower bush Oil pump sprocket 6 Chain type: single bush Teeth: 33 EA Chains: 60 EA
 
 ![](images/32120a48051541a261e3794e369ee3016e13197e4a2171508c75f1bdd6abf813.webp)
 
 
 ### 2) Timing Chain and Gear
-`ssangyong_actyon_en_57d5b208` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:266 | doc_type:owners_manual
 (1) Timing chain
 
 ![](images/c8ea7ec0aff1023c4505716a35714233f0989782100bb7bc5cf1666d6a43beaa.webp)
@@ -26088,12 +25035,10 @@ Chain upper bush - Single bush type (112 EA) Chain lower bush - Single bush type
 
 
 ### (2) Tensioner
-`ssangyong_actyon_en_6b40a493` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:267 | doc_type:owners_manual
 Tensioner adjusts the chain tension to keep it tight during engine running. This reduces the wear in guide rail and spoke.
 
 
 ### Hydraulic tensioner assembly
-`ssangyong_actyon_en_58dcfaea` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:268 | doc_type:owners_manual
 1. Operating principle - Use the spring tension in tensioner and hydraulic pressure
 
 2. Tensioner type - Compensation and impact absorbing
@@ -26106,7 +25051,6 @@ Tensioner adjusts the chain tension to keep it tight during engine running. This
 
 
 ### (3) Mechanical Tensioner Assembly
-`ssangyong_actyon_en_300350a2` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:269 | doc_type:owners_manual
 ![](images/78e71b2ea69e4119bd1e91f224d95cc840170217bd052519094b039c4e6f681a.webp)
 
 Operating principle   
@@ -26118,7 +25062,6 @@ Static and dynamic force
 
 
 ### (4) Guide rail
-`ssangyong_actyon_en_65ca1c94` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:270 | doc_type:owners_manual
 The guide rail s used for optimizing the movement of chain drive system. And it also prevents the chain from contacting each other when the chain is loose, and reduces the chain wear. The guide rail is made of plastic, nylon, Teflon, etc. The guide rail is specially required when the distance between two spokes is too great. It pushes the chain with constant force so that the chain can work smoothly. The guide rail s fitted by pins.
 
 ![](images/5f16067f97bb3dc1df72eb0d34f4d84c78ac5ba1e76a4b914632b760b53da5ce.webp)
@@ -26127,43 +25070,36 @@ The guide rail s used for optimizing the movement of chain drive system. And it 
 
 
 ### (5) Timing gear case cover
-`ssangyong_actyon_en_051fd033` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:271 | doc_type:owners_manual
 ![](images/7a3d4e6e4b922e10e26a9af2c6854ea17f368951d6794128befcbedd0476d5e9.webp)
 
 ![](images/f2cda0b8585ae68bf6d5bc71e18c52b46c01b2ff54d7619676b7ab31b57b9ff7.webp)
 
 
 ### Features
-`ssangyong_actyon_en_3bcac280` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:272 | doc_type:owners_manual
 -Major function: Protecting the chain drive system, minor function: Shielding the chain noise.   
 -Install crankshaft front seal and screw plug on the timing gear case cover.
 
 ![](images/8c297dc10ba7dac00e19fe2b2b261b759a60f1db62bb955b21274492eb13cfcf.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_7310dfcd` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:273 | doc_type:owners_manual
--Do not touch the inner lip of crankshaft front seal.   
--Be careful not to damage the screw thread when removing the lock pin to release the chain tensioner.   
-Be careful not to damage the O-ring when installing the screw plug.
-
-![](images/0585f60374159a391d9d946676804df84e4b4983a86e06a3d97bdf581d93ae58.webp)
+> ⚠️ **Внимание:** -Do not touch the inner lip of crankshaft front seal.
+> -Be careful not to damage the screw thread when removing the lock pin to release the chain tensioner.   
+> Be careful not to damage the O-ring when installing the screw plug.
+>
+> ![](images/0585f60374159a391d9d946676804df84e4b4983a86e06a3d97bdf581d93ae58.webp)
 
 
 ### 8. OIL PAN
-`ssangyong_actyon_en_592ceb88` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:274 | doc_type:owners_manual
 The oil pan in D20DTR engine improves the NVH. Especiall, the oil draining is much easier than before.
 
 
 ### Components
-`ssangyong_actyon_en_4e5abfc3` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:275 | doc_type:owners_manual
 ![](images/1465d94aae252653dedfb8aaecaa51a431b2c29eaea9c8a91294810d3f50ff25.webp)
 
 ![](images/ba5d6974405a251e4bbfe2a2bd7e2d9f81dd28da1ff5e085118b1fbaf6165c98.webp)
 
 
 ### 9. DUAL MASS FLYWHEEL (DMF) & DRIVE PLATE
-`ssangyong_actyon_en_c8d69c07` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:276 | doc_type:owners_manual
 1) Overview
 
 ![](images/f36f4a568c9322d8053dfd65e1680c62e309d9ef81858229273004b6a61cfa6d.webp)
@@ -26176,14 +25112,12 @@ Flywheel is installed on crankshaft. When starting the engine, this functions as
 
 
 ### ) Layout
-`ssangyong_actyon_en_aa142b7e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:277 | doc_type:owners_manual
 ![](images/a44dc2ea984f8df6877005b49db832ccedaf42a2dbb85607e33904d112beb686.webp)
 
 ![](images/dd87ccaa28c51367d251f1781f85003ad552f100321ff900e51191c3f7c616e1.webp)
 
 
 ### 3) Operation
-`ssangyong_actyon_en_8a0594af` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:278 | doc_type:owners_manual
 -Compensating the iregular operation of engine: The secondary flywheel operates almost evenly so does not cause gear noises   
 -The mass of the primary flywheel is less than conventional flywheel so the engine irregularity increases more (less pulsation absorbing effect).   
 -Transaxle protection function: Reduces the torsional vibration to powertrain (transaxle) by reducing the irregularity of engine.
@@ -26196,37 +25130,31 @@ Torque change curve of engine and drive shaft Normal system DMFW Engine 10000 En
 
 
 ### 4) Features
-`ssangyong_actyon_en_2ed49f21` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:279 | doc_type:owners_manual
 -Reduced vibration noise from the powertrain by blocking the torsional vibrations -Enhanced vehicle silence and riding comforts: reduced engine torque fluctuation -Reduced shifting shocks   
 - Smooth acceleration and deceleration
 
 
 ### 5) Advantages
-`ssangyong_actyon_en_c552bf71` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:280 | doc_type:owners_manual
 -Improved torque response by using 3-stage type spring: Strengthens the torque response in all ranges (low, medium, and high speed) by applying respective spring constant at each range. Stable revolution of the primary and secondary wheel by using planetary gear: Works as auxiliary   
 - damper against spring changes Less heat generation due to no direct friction against spring surface: Plastic materialis covered on   
 -the spring outer surface Increased durability by using plastic bushing (extends the lifetime of grease)
 
 
 ### 6) Drive Plate
-`ssangyong_actyon_en_9825beff` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:281 | doc_type:owners_manual
 Drive plate receives the power from the start motor when starting the engine. With this, the drive plate initially drives the power train system. And, it is connected to the torque converter to transfer the engine torque to the power train system.
 
 
 ### Components
-`ssangyong_actyon_en_c9b65809` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:282 | doc_type:owners_manual
 ![](images/15766e4de81b008428e8de9950739d0bfda9d8b813076febf88924325c32ee5b.webp)
 
 ![](images/0a17dc830b246a506cde37da14a144511dbf6e02ec4fa7beb1bf407ba2743fab.webp)
 
 
 ### 10. PISTON/CRANKSHAFT/CYLINDER BLOCK
-`ssangyong_actyon_en_3c9900fa` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:283 | doc_type:owners_manual
 The crankshaft and the cylinder block convert the compression pressure to the rotating energy.
 
 
 ### Components
-`ssangyong_actyon_en_8eed3db1` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:284 | doc_type:owners_manual
 ![](images/a40708af966990679713b458a619ca6f984a52da563d3b7bb8f6770bcb12d10f.webp)
 
 ![](images/709100c4e04d43d8bbfe930c00fc431c92ad8974693113146184784ab6cadf6d.webp)
@@ -26245,26 +25173,22 @@ Piston assembly contains piston, #1 ring, #2 ring, oil ring, piston pin and snap
 
 
 ### (3) Functions
-`ssangyong_actyon_en_b6c2d7be` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:285 | doc_type:owners_manual
 Piston transfers the combustion energy from engine to connecting rod. Especiall in the direct injection engine such as D20DTF, it provides the combustion space and largely effects to the engine performance and exhaust gas.
 
 
 ### Piston ring
-`ssangyong_actyon_en_600826b1` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:286 | doc_type:owners_manual
 -#1 ring (Top ring) : Prevents the high pressurized combustion gas from leaking into crank chamber, and prevents the engine oil getting into combustion chamber.   
 -#2 ring: Scrapes the engine oil on the cylinder bore, and prevents the leaked combustion gas from #1 ring from leaking into the crank chamber.   
 -Oil ring: Scrapes the engine oil on the cylinder bore.
 
 
 ### Piston pin
-`ssangyong_actyon_en_5ed21865` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:287 | doc_type:owners_manual
 -Connects the piston the connecting rod, and transfers the linear movement of piston to connecting rod to convert it to rotating energy
 
 Snap pin -Locks the piston pin.
 
 
 ### (4) Assembling the piston
-`ssangyong_actyon_en_741a76fe` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:288 | doc_type:owners_manual
 ![](images/694c18f96c52bced040778729309661f0836ec3e02c37da9f4bce44a70a169b2.webp)
 
 1. Install the piston rings with the "Y" mark on the ring facing upwards.   
@@ -26281,19 +25205,16 @@ Snap pin -Locks the piston pin.
 
 
 ### (1) Overview
-`ssangyong_actyon_en_52697b93` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:289 | doc_type:owners_manual
 Connecting rod converts the reciprocating movement of piston to the rotating movement of crankshaft. The big end is connected to connecting rod bearing and the crank pin journal, and the small end is connected to the piston pin.
 
 
 ### (2) Components
-`ssangyong_actyon_en_c14786ae` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:290 | doc_type:owners_manual
 ![](images/551db3a97d94572c6ec7f04c0ff24eac0aad88a931001f6b25a0d8704696246e.webp)
 
 ![](images/12fb25a8f01bee0e89ef0f6cecf17e3cb564118c3102d960f910bcd0cbb8aaab.webp)
 
 
 ### (3) Selection of crankshaft pin journal bearing
-`ssangyong_actyon_en_e1107616` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:291 | doc_type:owners_manual
 -The connecting rod bearing contains 3 sets of 3 grades in upper and lower sections. - Three sets in the table below have nearly same oil clearance (0.015\~0.063 mm) of bearing. -Identification: Coloe mark on bearing side surface
 
 ![](images/633acff8a0103786e8d8a5705608016178d4ee4009a6a1f33f9d6c9cb61caa0c.webp)
@@ -26306,7 +25227,6 @@ Connecting rod converts the reciprocating movement of piston to the rotating mov
 
 
 ### (2) Arrangement
-`ssangyong_actyon_en_ab74803d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:292 | doc_type:owners_manual
 Crankshaft is installed on the cylinder block.
 
 ![](images/bc0a78eb465f034b11bedb8adec67581ee0cbb04fbc553955226089325ded232.webp)
@@ -26315,7 +25235,6 @@ Crankshaft is installed on the cylinder block.
 
 
 ### (3) Selection of crankshaft main bearing
-`ssangyong_actyon_en_fab90852` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:293 | doc_type:owners_manual
 ![](images/c5d29fbca9251e88e554f928bcb6a97ee6b948b77c7306f162da87b577f4398a.webp)
 
 ![](images/86be128e4cb0d6c05504d29887d5cc55ccceb91a74b2c4a9df67aea579ca165e.webp)
@@ -26328,7 +25247,6 @@ Crankshaft is installed on the cylinder block.
 
 
 ### 4) Cylinder Block
-`ssangyong_actyon_en_60f62002` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:294 | doc_type:owners_manual
 (1) Overview
 
 ![](images/317b7297b7dedd244085e1e4200753c6befed551de7be1751d5d74ed368178e4.webp)
@@ -26345,7 +25263,6 @@ The major dimensions in D20DTR are similar to D20DTR engine. It has two mounting
 
 
 ### (3) Features
-`ssangyong_actyon_en_4f80a2a6` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:295 | doc_type:owners_manual
 ![](images/1ab115cf2f3763fe1140dcddffad6e59dda4a49f3ad58959d36e8584e4bd9498.webp)
 
 For simple manufacturing, the crankcase blowby gas passage and the oil return hole are made by casting on the cylinder block.
@@ -26364,132 +25281,116 @@ The engine oil from oil pump is supplied to the main oil gallery through oil cha
 
 
 ### 1. SPECIFICATION
-`ssangyong_actyon_en_5bae3287` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:296 | doc_type:owners_manual
 ![](images/7ddb4791b4e679dd9291783d0531e03c835f3cb9872d0c2024ad37d99105111f.webp)
 
 ![](images/ffdbd17a6cf2f0d7ba69727983c2c2c21e257a1a69d500502acb48c3232084b0.webp)
 
 
 ### 1) Maintenance Procedures for DI Engine Fuel System
-`ssangyong_actyon_en_276ca94b` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:297 | doc_type:owners_manual
 1. Always keep the workshop and lift clean (especially, from dust).   
 2. Always keep the tools clean (from oil or foreign materials).   
 3. Wear a clean vinyl apron to prevent the fuzz, dust and foreign materials from geting into fuel system. Wash your hands and do not wear working gloves.
 
 
-### NOTE
-`ssangyong_actyon_en_1e751ccd` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:298 | doc_type:owners_manual
-Follow the below procedures before starting service works for fuel system.
-
-Carefullylisten the symptoms and problems from customer.
-
-![](images/a0726337928ea46e938fb40042e25e109cba5889a54471622ac0360ef0d7359f.webp)
-
-Visually check the leaks and vehicle appearance on the wiring harnesses and connectors in engine compartment.
-
-![](images/0a0bd6d6ae4c2cce2d74adb1e826884811e26f0cde02b5c91349abfe1cc9347f.webp)
-
-Perform the diagnosis proceee with SCAN tool
-
-![](images/67b284616ec0ef98c7aa794c9475d056a3a6534ddd17b54c738a9bacfa0240d7.webp)
-
-Locate the fault. If the cause is from fuel system (from priming pump to injector, including return line), follow the step 1 through step 3 above.
-
-![](images/4bf59b3ff9af3dc8b4912f313224aa7942f71e53d5911d72d57f4847a57bc5d8.webp)
-
-4. If the problem is from HP pump, fuel supply line or injector, prepare the clean special tools and sealing caps to perform the diagnosis for DI engine fuel system in this manual. At this point, thoroughly clean the related area in engine compartment.
+> ℹ️ **Примечание:** Follow the below procedures before starting service works for fuel system.
+>
+> Carefullylisten the symptoms and problems from customer.
+>
+> ![](images/a0726337928ea46e938fb40042e25e109cba5889a54471622ac0360ef0d7359f.webp)
+>
+> Visually check the leaks and vehicle appearance on the wiring harnesses and connectors in engine compartment.
+>
+> ![](images/0a0bd6d6ae4c2cce2d74adb1e826884811e26f0cde02b5c91349abfe1cc9347f.webp)
+>
+> Perform the diagnosis proceee with SCAN tool
+>
+> ![](images/67b284616ec0ef98c7aa794c9475d056a3a6534ddd17b54c738a9bacfa0240d7.webp)
+>
+> Locate the fault. If the cause is from fuel system (from priming pump to injector, including return line), follow the step 1 through step 3 above.
+>
+> ![](images/4bf59b3ff9af3dc8b4912f313224aa7942f71e53d5911d72d57f4847a57bc5d8.webp)
+>
+> 4. If the problem is from HP pump, fuel supply line or injector, prepare the clean special tools and sealing caps to perform the diagnosis for DI engine fuel system in this manual. At this point, thoroughly clean the related area in engine compartment.
 
 
-### CAUTION
-`ssangyong_actyon_en_77075977` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:299 | doc_type:owners_manual
-Clean the engine compartment before starting service works.
-
-![](images/353e5b57663f19159505ba6997e1f10e9d0fcaa7748188594f70e55d455b385d.webp)
-
-![](images/49c6523a311e9155ee9ec96b0e71e60118d9c6e2a29ef076f659174ede11215d.webp)
-
-![](images/5bd95dee0f0067818e5f19e62136f2d9b575d9545f58cdf07ab269aba7e3876e.webp)
-
-5. Follow the job procedures. If you find a defective component, replace it with new one.
-
-Disconnect the negative battery cable.
-
-![](images/ad557c23cb93da72359c6009048d3f1d967a43072e1d323968b9eb6ddaf52aaa.webp)
-
-Use special tools and torque wrench to perform the correct works.
-
-Once disconnected, the fuel pipes between HP pump and fuel rail and between fuel rail and each injector should be replaced with new ones. The pipes should be tightened tospecified tightening torques during installation. Over or under torques out of specified range may cause damages and leaks at connections. Once installed, the pipes have been deformed according to the force during installation, therefore they are not reusable. The copper washer on injector should be replaced with new one. The injector holder bolt should be tightened to specified tightening torque as well If not, the injection point may be deviated from correct position, and it may cause engine disorder.
-
-Plug the disconnected parts with sealing caps, and remove the caps immediately before replacing the components.
-
-6. Plug the removed components with clean and undamaged sealing caps and store it into the box to keep the conditions when it was installed.
-
-7. To supply the fuel to transfer line of HP pump press the priming pump until it becomes
-
-![](images/334baf26a26f25061da9f38ab7736ef2024fa37ded467a833e1a1638d32b882a.webp)
-
-8. Check the installed components again and connect the negative battery cable. Start the engine and check the operating status. 9. With Scan Tool, check if there are current faults and erase the history faults.
-
-![](images/8771f76be16671a87658ee71b845256c827e83fa639a07e753e6553b0386b917.webp)
+> ⚠️ **Внимание:** Clean the engine compartment before starting service works.
+>
+> ![](images/353e5b57663f19159505ba6997e1f10e9d0fcaa7748188594f70e55d455b385d.webp)
+>
+> ![](images/49c6523a311e9155ee9ec96b0e71e60118d9c6e2a29ef076f659174ede11215d.webp)
+>
+> ![](images/5bd95dee0f0067818e5f19e62136f2d9b575d9545f58cdf07ab269aba7e3876e.webp)
+>
+> 5. Follow the job procedures. If you find a defective component, replace it with new one.
+>
+> Disconnect the negative battery cable.
+>
+> ![](images/ad557c23cb93da72359c6009048d3f1d967a43072e1d323968b9eb6ddaf52aaa.webp)
+>
+> Use special tools and torque wrench to perform the correct works.
+>
+> Once disconnected, the fuel pipes between HP pump and fuel rail and between fuel rail and each injector should be replaced with new ones. The pipes should be tightened tospecified tightening torques during installation. Over or under torques out of specified range may cause damages and leaks at connections. Once installed, the pipes have been deformed according to the force during installation, therefore they are not reusable. The copper washer on injector should be replaced with new one. The injector holder bolt should be tightened to specified tightening torque as well If not, the injection point may be deviated from correct position, and it may cause engine disorder.
+>
+> Plug the disconnected parts with sealing caps, and remove the caps immediately before replacing the components.
+>
+> 6. Plug the removed components with clean and undamaged sealing caps and store it into the box to keep the conditions when it was installed.
+>
+> 7. To supply the fuel to transfer line of HP pump press the priming pump until it becomes
+>
+> ![](images/334baf26a26f25061da9f38ab7736ef2024fa37ded467a833e1a1638d32b882a.webp)
+>
+> 8. Check the installed components again and connect the negative battery cable. Start the engine and check the operating status. 9. With Scan Tool, check if there are current faults and erase the history faults.
+>
+> ![](images/8771f76be16671a87658ee71b845256c827e83fa639a07e753e6553b0386b917.webp)
 
 
 ### (1) Overview
-`ssangyong_actyon_en_cd20e344` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:300 | doc_type:owners_manual
 If a DTC is displayed on the diagnostic device, check the low pressure- and high pressure fuel systems before removing the components.
 
 To run the system properly, the electric system must be intact but for the DI engine, the fuel pressure should be measured also when there is a malfunction even after the diagnostic test with a diagnostic device.
 
 
 ### (2) Hydraulic system
-`ssangyong_actyon_en_d0015879` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:301 | doc_type:owners_manual
 ![](images/34ed4c375f8953aaac1d3d6906c6f130fe37bc6181e68973924869a72e252576.webp)
 
 ![](images/53bbd6a8208d25e612b36fe2ac856e0cab4f3c2b5e889cc51747b6c7a7cafb49.webp)
 
 
 ### (3) Excessive backleak of injector
-`ssangyong_actyon_en_2ce97b00` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:302 | doc_type:owners_manual
 ![](images/1b8e57732a26bf38e171c63c26484126a29316fdedf52b8ae908085f755d0b37.webp)
 
 
 ### Excessive injector backleak
-`ssangyong_actyon_en_3ce7b36e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:303 | doc_type:owners_manual
 Occurs when the injector control valve is not sealed due to the entry of the foreign materials.
 
 
 ### Example:
-`ssangyong_actyon_en_15859383` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:304 | doc_type:owners_manual
 - Entry of foreign materials - Burned out and worn HP pump -Mechanical damage inside the injector
 
 ![](images/bca389dd61069f0616e7c22b83ccb28f07050f070fe966e892e5786d7cbd2fbb.webp)
 
 
 ### (4) Loss of pump pressure/flow
-`ssangyong_actyon_en_4272afa7` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:305 | doc_type:owners_manual
 ![](images/f7b831bfa39294428e829682bd5a9b1b9550c618177613fe438f199c667502f4.webp)
 
 
 ### Loss of HP pump pressure/flow
-`ssangyong_actyon_en_3f7245da` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:306 | doc_type:owners_manual
 Faulty fuel supply line, or damaged or worn pump causes the lack of flow pressure and flow volume
 
 
 ### Example:
-`ssangyong_actyon_en_91e1b1ef` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:307 | doc_type:owners_manual
 -Air in fuel supply line - Excessive load on fuel supply line (—400 mBar) -Burned out and mechanical worn pump - High temperature of fuel supply (> 85C)
 
 ![](images/5f732b918bca6f66320cb380ce81c408771cb71466c473fc3e501e89bc345cf5.webp)
 
 
 ### 3) DI Engine Fuel System Pressure Test
-`ssangyong_actyon_en_8913b3fa` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:308 | doc_type:owners_manual
 (1) Test device (Tool kit)
 
 ![](images/fbe42f3c07559f8f64ce51f9583d861174b75ad0c9d64137577f1f8161d7a4cb.webp)
 
 
 ### (2) Pre-check
-`ssangyong_actyon_en_6e16245a` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:309 | doc_type:owners_manual
 -Check-tighten fuel supply line   
 - Check fuel level in fuel tank   
 -Check air in fuel supply line (bubble in fuel supply line or fuel)   
@@ -26501,19 +25402,15 @@ Faulty fuel supply line, or damaged or worn pump causes the lack of flow pressur
 
 
 ### (3) DI Engine Fuel System Check Procedure
-`ssangyong_actyon_en_45c60d84` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:310 | doc_type:owners_manual
 ![](images/022531bd6076e30d47b3b985b1ab6ce4bf5d82ea1d3b8f5a6d1f41242574c02c.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_10caac03` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:311 | doc_type:owners_manual
-If several DTCs are output simultaneously, check the electric wiring for open or short circuit. Check the low pressure fuel system and fuel filter and confirm that there are no abnormalities. Carry out the high pressure fuel system check.
-
-![](images/3e152e34d2d84331111c3564009195f5a7b4c37d39b5f77618688204d2b115e0.webp)
+> ⚠️ **Внимание:** If several DTCs are output simultaneously, check the electric wiring for open or short circuit. Check the low pressure fuel system and fuel filter and confirm that there are no abnormalities. Carry out the high pressure fuel system check.
+>
+> ![](images/3e152e34d2d84331111c3564009195f5a7b4c37d39b5f77618688204d2b115e0.webp)
 
 
 ### (4) Fuel System Check Procedure
-`ssangyong_actyon_en_f5b0a3f7` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:312 | doc_type:owners_manual
 Initial Check •Transfer fuel system (air in system), specified fuel used Fuel leaks, fuel filter •Diagnostic Trouble Code •Wiring harness •Abnormal noise from injector No Abnormalty No Check and repair in Initial Check? Yes у Check fuel rail pressure (refer to 4–1) When cranking engine for 5 seconds after disconnecting IMV connector, is the rail pressure over 1,050 bar? Check transfer fuel system (refer to 4–2) Yes Install the transparent tube between fuel ieadrii mhee a fer fuel system for clogged or air bubbles. Check if the vacuum pressure is proper. ў No \*Thoa pnents Check the injector back lean volume   
 Method 1 Method 2 у Static Test for Injector Back leak Volume Dynamic Test for Injector Back leak Volume (refer to 4–4) (refer to 4–3) (with engine running) (with engine cranking but not running) 1. Warm up engine (coolant temp.: over 60°C), place an   
 Place an empty plastic container under the return of empty plastic container under the return of injector, and   
@@ -26527,7 +25424,6 @@ Enter new injector C2I data into ECU Enter new injector C2I data into ECU after 
 
 
 ### (5) High Pressure System Pressure Test Fuel rail pressure test
-`ssangyong_actyon_en_8beb7746` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:313 | doc_type:owners_manual
 ![](images/10ae6f37979c270217d583654e92134d00c571f7220304b31c9a66eb90ab38d4.webp)
 
 1. Disconnect the fuel rail pressure sensor connector and then IMV connector.
@@ -26547,21 +25443,17 @@ Enter new injector C2I data into ECU Enter new injector C2I data into ECU after 
 
 
 ### How To Use Pressure Tester
-`ssangyong_actyon_en_d0f69ac0` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:314 | doc_type:owners_manual
 ![](images/869c689b96d367ad5c88b79469c08caa51b2f19b607ffae821c6d0d9d122c133.webp)
 
 1. Press the "TEST" button on the tester to check if the message "TEST?" is displayed. If the button is pressed again at 4 seconds 2. after starting engine cranking, the highest pressure is displayed on the tester.
 
 
-### NOTE
-`ssangyong_actyon_en_ec3a9f6d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:315 | doc_type:owners_manual
-The fuel rail pressure value can be checked using a diagnostic device.
-
-![](images/602a852b417160bfed32faf9fdc710f6a7176c41d520e3531dec893c319e2e1d.webp)
+> ℹ️ **Примечание:** The fuel rail pressure value can be checked using a diagnostic device.
+>
+> ![](images/602a852b417160bfed32faf9fdc710f6a7176c41d520e3531dec893c319e2e1d.webp)
 
 
 ### (6) Low Pressure System Pressure Test Inspection procedure
-`ssangyong_actyon_en_426a4cf1` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:316 | doc_type:owners_manual
 ![](images/9c1e9de2cbbe4df04bc4ad7c6f8ea50117d49e40ab3599abf5000859370d9dc3.webp)
 
 1. All wirings/connectors and fuel lines should be connected and the engine should work properly.   
@@ -26579,7 +25471,6 @@ The fuel rail pressure value can be checked using a diagnostic device.
 
 
 ### Static test for backleak of injector
-`ssangyong_actyon_en_704c4518` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:317 | doc_type:owners_manual
 ![](images/c4e4619c197635898f1cc0ce6a4fb4ca31bbe42f7947594a9e0ca9fb70e98d66.webp)
 
 1. Disconnect the injector return hose and cover the openings with caps shaped screw (included in the special tool.
@@ -26593,26 +25484,21 @@ The fuel rail pressure value can be checked using a diagnostic device.
 3. Disconnect the IMV connector of the high pressure pump and then fuel pressure sensor connector.
 
 
-### CAUTION
-`ssangyong_actyon_en_0f3424f2` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:318 | doc_type:owners_manual
-The connector of the injector can be easily contaminated. Always keep it clean.
-
-![](images/3864ca81387f57478b9e9fb73f6c78c4c05d5fa4632350128c301905f3b7cad3.webp)
-
-4. Crank the engine 2 times for 5 seconds. 5. Check the time for flow if injector backleak and confirm that it is within the specified range.
-
-![](images/75c13dd7ded920bb8f252622b29518ecf6394d3a5ed6ebcd407eff3455ef7c1a.webp)
+> ⚠️ **Внимание:** The connector of the injector can be easily contaminated. Always keep it clean.
+>
+> ![](images/3864ca81387f57478b9e9fb73f6c78c4c05d5fa4632350128c301905f3b7cad3.webp)
+>
+> 4. Crank the engine 2 times for 5 seconds. 5. Check the time for flow if injector backleak and confirm that it is within the specified range.
+>
+> ![](images/75c13dd7ded920bb8f252622b29518ecf6394d3a5ed6ebcd407eff3455ef7c1a.webp)
 
 
-### NOTE
-`ssangyong_actyon_en_1cccdb4c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:319 | doc_type:owners_manual
-If the value is out of the specified range, replace the injector.
-
-![](images/e329f961ff29d27fca433517596681bca76a7d743c70aca258ff3cb898d90f13.webp)
+> ℹ️ **Примечание:** If the value is out of the specified range, replace the injector.
+>
+> ![](images/e329f961ff29d27fca433517596681bca76a7d743c70aca258ff3cb898d90f13.webp)
 
 
 ### Dynamic test for backleak of injector
-`ssangyong_actyon_en_c3cb4dc9` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:320 | doc_type:owners_manual
 ![](images/41ccd7ba5527e0c360679dcb99a3060ea2500d4735018d5d8afc339dcf635bc3.webp)
 
 ![](images/7f1e3e5e76e9fa07591e26dfcde9c288aee62dc568dc0c2fdd5c93ecd72f2786.webp)
@@ -26637,7 +25523,6 @@ This test consists of 4 cycles, and the engine rpm reaches 3,500 rpm for 18 seco
 
 
 ### HP pump pressure test
-`ssangyong_actyon_en_15b2b1c1` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:321 | doc_type:owners_manual
 ![](images/575306e4128493e705f6912ac9e6c48ea1048955bb433ca19fdacaefecfb9f8a.webp)
 
 ![](images/e7ea9db90e458ddf6b9a24aeb06e4a985a525e27ecc6f3b8661282f4ec77e726.webp)
@@ -26650,12 +25535,10 @@ This test consists of 4 cycles, and the engine rpm reaches 3,500 rpm for 18 seco
 
 
 ### Tightening torque 30Nm
-`ssangyong_actyon_en_f2c69943` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:322 | doc_type:owners_manual
 3. Connect the other end of the close rail to the fuel rail for test.
 
 
 ### Tightening torque 30Nm
-`ssangyong_actyon_en_926717ef` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:323 | doc_type:owners_manual
 4. Disconnect the return hose for HP pump and connect the clear hose and connect its the other end to the return port of the fuel rail for test.   
 5. Connect the digital tester connector to the sensor connector of the fuel rail for test.   
 6. Crank the engine 2 times for 5 seconds after removing the IMV connector and fuel rail pressure sensor connector.   
@@ -26667,29 +25550,24 @@ This test consists of 4 cycles, and the engine rpm reaches 3,500 rpm for 18 seco
 
 
 ### 1) Cautions for DI Engine
-`ssangyong_actyon_en_c5ceed30` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:324 | doc_type:owners_manual
 This chapter describes the cautions for DI engine equipped vehicle. This includes the water separation from engine, warning lights, symptoms when engine malfunctioning, causes and actions.
 
 
 ### 1.DI Engine
-`ssangyong_actyon_en_58d5907d` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:325 | doc_type:owners_manual
 Comparatively conventional diesel engines, DI engine controls the fuel injection and timing electrically, delivers high power and reduces less emission.
 
 
 ### 2. System Safety Mode
-`ssangyong_actyon_en_5563ff43` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:326 | doc_type:owners_manual
 When a severe failure has been occurred in a vehicle, the system safety mode is activated to protect the system. It reduces the driving force, restricts the engine speed (rpm) and stops engine operation. Refer to "Diagnosis" section in this manual.
 
 
 ### 3. Engine CHECK Warning Lamp
-`ssangyong_actyon_en_ed4a3b15` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:327 | doc_type:owners_manual
 ![](images/1eab24043041ce571a5de69c50564ab41cd17bdd1fe58d62c81cb36957e2a570.webp)
 
 The Engine CHECK warning lamp on the instrument cluster comes on when the fuel or major electronic systems of the engine are not working properly. As a result, the engine's power output may decrease or the engine may stall.
 
 
 ### 4. Water Separator Warning Lamp
-`ssangyong_actyon_en_71d70517` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:328 | doc_type:owners_manual
 ![](images/67c49995d9bb84e9a675da4aed55b5b7ee6784c4d8521ae89fa666494081bd24.webp)
 
 When the water level inside water separator in fuel filter exceeds a certain level (approx. 45 cc), this warning light comes on and buzzer sounds.   
@@ -26699,7 +25577,6 @@ Also, the driving force of the vehicle decreases (torque reduction). If these co
 
 
 ### Cleanness of DI engine fuel system and service procedures
-`ssangyong_actyon_en_c37c6bb9` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:329 | doc_type:owners_manual
 The fuel system for DI engine consists of transfer (low pressure) line and high pressure line.   
 Its highest pressure reaches over 1,800 bar.
 
@@ -26715,19 +25592,16 @@ The core elements of fuel system has very high precisenessthat is easily affecte
 
 
 ### System supplement against parafin separation
-`ssangyong_actyon_en_6c28ed1e` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:330 | doc_type:owners_manual
 In case of Diesel fuel, parafin, one of the elements, can be separated from fuel during winter and then can stick on the fuel filter blocking fuel flow and causing difficult starting finally. Oil companies supply summer fuel and winter fuel by differentiating mixing ratio of kerosene and other elements by region and season. However, above phenomenon can be happened if stations have poor facilities or sellimproper fuel for the season. In case of DI engine, purity of fuel is very important factor to keep internal preciseness of HP pump and injector.
 
 Accordingly, more dense mesh than conventional fuel filter is used. To prevent fuel fiter internal clogging due to parafin separation, SYMC is using fuel line that high pressure and temperature fuel injected by injector returns through fuel filter to have an effect of built-in heater (see fuel system).
 
 
 ### System supplement and remedy against water in fuel
-`ssangyong_actyon_en_2e700697` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:331 | doc_type:owners_manual
 As mentioned above, some gas stations supply fuel with excessive than specified water. In the conventional IDI engine, excessive water in the fuel only causes dropping engine power or engine hunting. However, fuel system in the DI engine consists of precise components so water in the fuel can cause malfunctions of HP pump due to poor lubrication of pump caused by poor coating film during high speed pumping and bacterization (under long period parking). To prevent problems can be caused by excessive water in fuel, water separator is installed inside of fuel filter. When fuel is passing filter, water that has relatively bigger specific gravity is accumulated on the botom of the filter.
 
 
 ### Water drain from water separator
-`ssangyong_actyon_en_7a3ddfa9` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:332 | doc_type:owners_manual
 If water in the separator on the fuel filter exceeds a certain level, it wil be supplied to HP pump with fuel, so the engine ECU turns on warning lamp on the meter cluster and buzzer if water level is higher than a certain level.
 
 Due to engine layout, a customer cannot easily drain water from fuel filter directly, so if a customer checks in to change engine oil, be sure to perform water drain from fuel filter.
@@ -26735,42 +25609,35 @@ Due to engine layout, a customer cannot easily drain water from fuel filter dire
 ![](images/32c0a236643a04a7639fbf86d1ec3d978f22557eea910ce334de0af6a041dfd7.webp)
 
 
-### NOTE
-`ssangyong_actyon_en_47c44b50` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:333 | doc_type:owners_manual
-To separate the water from the fuel filter, remove the fuel filter assembly first.
-
-![](images/dee21eed2007b1e19bd393d77f4625f9ebf3b396098d195fb0394ad983d3e15b.webp)
+> ℹ️ **Примечание:** To separate the water from the fuel filter, remove the fuel filter assembly first.
+>
+> ![](images/dee21eed2007b1e19bd393d77f4625f9ebf3b396098d195fb0394ad983d3e15b.webp)
 
 
 ### 1. OVERVIEW
-`ssangyong_actyon_en_d8a62efa` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:334 | doc_type:owners_manual
 The components in fuel system supply the fuel and generate the high pressure to inject the fuel to each injector. They are controlled by the engine ECU.
 
 The common rail fuel injection system consists of fuel tank, fuel line, low pressure line which supplies low pressure fuel to the low pressure pump (including high pressure pump), common rail which distributes and accumulates the high pressurized fuel from the fuel pump, high pressure line which connected to the injector, and the engine control unit (ECU) which calculates the accelerator pedal position and controls the overall performance of vehicle based on the input signals from various sensors.
 
 
 ### 1) Fuel Flow Diagram
-`ssangyong_actyon_en_bd0d6ba3` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:335 | doc_type:owners_manual
 ![](images/0fb136f4c019d84e5bec5052532c4fb8bae3b63d690045876ddb0324ace33919.webp)
 
 ![](images/6f80981117507d2da2ba5374a33d0ee3ed3930ac7c684e6ed5932907a75bb52a.webp)
 
 
-### NOTE
-`ssangyong_actyon_en_117d3578` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:336 | doc_type:owners_manual
-For sensor and actuator control logic, refer to Chapter "Engine Control".
-
-![](images/ba6e5da012020f3b4c9dc9fe81c6b904eb1a066f1f5291af589329808bfe3adc.webp)
-
-![](images/1a9eb539d21e55d991b7e999b3445710a39caed019169c4ec6ed729f385d9897.webp)
-
-![](images/a5a95dd8693b0070b229c1ae17afbf215c8b9d6b27b0704fb15417c4cdb0ee3c.webp)
-
-![](images/8d25b8d1de8ffad197f0fb27fda538f1064ff7296515afa1827ce9175db137d8.webp)
+> ℹ️ **Примечание:** For sensor and actuator control logic, refer to Chapter "Engine Control".
+>
+> ![](images/ba6e5da012020f3b4c9dc9fe81c6b904eb1a066f1f5291af589329808bfe3adc.webp)
+>
+> ![](images/1a9eb539d21e55d991b7e999b3445710a39caed019169c4ec6ed729f385d9897.webp)
+>
+> ![](images/a5a95dd8693b0070b229c1ae17afbf215c8b9d6b27b0704fb15417c4cdb0ee3c.webp)
+>
+> ![](images/8d25b8d1de8ffad197f0fb27fda538f1064ff7296515afa1827ce9175db137d8.webp)
 
 
 ### 2) Fuel System Flow Diagram
-`ssangyong_actyon_en_33ddcba0` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:337 | doc_type:owners_manual
 ![](images/9aaa862f0971a7088768f7c4f51aa537cee12a48f1b03934b2439ba6cf31c7ce.webp)
 
 The fuel from the fuel tank is supplied to the fuel heater of fuelfiter/priming pump and then low pressure generated by the low pressure pump (built into HP pump) is transmitted to the HP pump.
@@ -26785,7 +25652,6 @@ The pressure from the high pressure pump is increased to 1,800 bar from 1,600 ba
 
 
 ### 3) Input/Output devices
-`ssangyong_actyon_en_34023f6d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:338 | doc_type:owners_manual
 ![](images/cefa7e9fcb99848f234528ce1663d7257ab92497b8a1a15bcb546da15eb51b21.webp)
 
 \*Refer to Chapter "Engine Control".
@@ -26803,7 +25669,6 @@ Also, the ECU uses the signals from the coolant temperature & air temperature se
 
 
 ### 1. SPECIFICATION
-`ssangyong_actyon_en_c560d7ce` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:339 | doc_type:owners_manual
 ![](images/f56b45290771970a8483528f1fe42cfebe8fa705a4fcf7fede0a8cf724b86452.webp)
 
 \*Shorten the service interval under severe conditions such as driving on a dusty road or offroad.
@@ -26811,13 +25676,10 @@ Also, the ECU uses the signals from the coolant temperature & air temperature se
 ![](images/f7e7426be024f0ed20222e8ada04dab94301f2dc5094bef71c8d04dd6a7bc08b.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_06fb1bce` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:340 | doc_type:owners_manual
-For the vehicle equipped with DI engine, if a learning noise occurs in each range or other noises occur, the major cause of it is a faulty turbocharger assembly. But an interference issue, poor tightness or loose in the intake and exhaust system also can cause those noises. This is mainly because the operator didn't follow the instruction exactly when reconnecting the intake hoses and pipes which were disconnected to check the system or replace the air cleaner. If the intake system is free of any faults, check the EGR and PCV oil separator connected to the intake system. The figure may be different from the actual engine. Therefore, read thoroughly below before replacing the parts.
+> ⚠️ **Внимание:** For the vehicle equipped with DI engine, if a learning noise occurs in each range or other noises occur, the major cause of it is a faulty turbocharger assembly. But an interference issue, poor tightness or loose in the intake and exhaust system also can cause those noises. This is mainly because the operator didn't follow the instruction exactly when reconnecting the intake hoses and pipes which were disconnected to check the system or replace the air cleaner. If the intake system is free of any faults, check the EGR and PCV oil separator connected to the intake system. The figure may be different from the actual engine. Therefore, read thoroughly below before replacing the parts.
 
 
 ### 2) Abnormal Noise Caused by Poor Tightness of Intake System
-`ssangyong_actyon_en_02bc1ce9` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:341 | doc_type:owners_manual
 ![](images/bdb06da53fcd0bbc25371a0bb37d277b56e791cc7b40b8dbb44b57e80f47ab63.webp)
 
 When the DI engine is running, the air entered into the engine flows in the sequence as shown above. If high intake pressure is applied to the loose or damaged part, a whistling noise may occur, the intake air volume is measured incorrectly or the engine power is derated.
@@ -26826,12 +25688,10 @@ When the DI engine is running, the air entered into the engine flows in the sequ
 
 
 ### 3) Troubleshooting Sequence
-`ssangyong_actyon_en_78d9ac98` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:342 | doc_type:owners_manual
 The basic checks for intake system are as follows:
 
 
 ### Basic Checks for Intake System
-`ssangyong_actyon_en_602d21b8` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:343 | doc_type:owners_manual
 Check if any abnormal noise   
 occurs in each range while   
 the vehicle is driven.   
@@ -26860,7 +25720,6 @@ mounting system. Thus, when checking the engine, basic inspections, such as tigh
 
 
 ### Other Checks for Intake System
-`ssangyong_actyon_en_1c0d6198` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:344 | doc_type:owners_manual
 Check the EGR system (vacuum circuit, electrical circuit of modulator, mechanical movements of EGR valve).
 
 C
@@ -26873,12 +25732,10 @@ If the intake system is free of any faults, check for EGR and PCV oil separator.
 
 
 ### 1. OVERVIEW
-`ssangyong_actyon_en_b00ae609` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:345 | doc_type:owners_manual
 The intake system for D20DTR engine is equipped with a throtle body which includes a flap. This flap is controlled by an electrical signal to cut offthe intake air entering to the engine when the ignition switch is turned of. Because of this, the shape of the intake manifold has been changed and improved HFM sensor is newly adopted to control the intake air volume more precisely.
 
 
 ### 2. COMPONENT
-`ssangyong_actyon_en_4b786a6a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:346 | doc_type:owners_manual
 ![](images/968760f17f73b95d18fd1f5edf36ed25abd79bd5efa5ee4abc4b0c978440dce7.webp)
 
 ![](images/a1a5080fa434ca69cc9788c5a6aae18b54af1f5d2c044fca8b388eb059e7a8b3.webp)
@@ -26889,7 +25746,6 @@ The intake system for D20DTR engine is equipped with a throtle body which includ
 
 
 ### 3. INPUT/OUTPUT OF INTAKE SYSTEM
-`ssangyong_actyon_en_dab85f73` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:347 | doc_type:owners_manual
 ![](images/46000879bd6443dfefb451dd1ef88306e847a077940961fb6565b16c5519b4b7.webp)
 
 \* For more information, refer to Chapter " Engine Control".
@@ -26898,12 +25754,10 @@ The intake system for D20DTR engine is equipped with a throtle body which includ
 
 
 ### 4. OPERATING PROCESS
-`ssangyong_actyon_en_20ae90a7` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:348 | doc_type:owners_manual
 ![](images/ca808e41af24ac242832286d0af86ed7fbb89d63fa1f49d5dc7f7fb3ce1bb61a.webp)
 
 
 ### Work Flow
-`ssangyong_actyon_en_0ccce33f` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:349 | doc_type:owners_manual
 ![](images/716237911d8a59c7b58fc033ddc59c7a68edd1db7b7a49b30f013e9c91a4dbb8.webp)
 
 ![](images/da3653c36cca6d9fa25f943ec61bf2cb13a2ea7959c0c35d2e838aa4adf79dd6.webp)
@@ -26918,7 +25772,6 @@ Squish: Squish is the air flows due to the piston head. Normally, this is appear
 
 
 ### 2) Swirl control
-`ssangyong_actyon_en_11999469` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:350 | doc_type:owners_manual
 In DI type diesel engine, the liquefied fuel is injected into the cylinder directly. If the fuel is evenly distributed in short period, the combustion efficiency could be improved. To get this, there should be good air flow in cylinder. In general, there are two intake ports, swirl port and tangential port, in each cylinder. The swirl port generates the horizontal flow and the tangential port generates the longitudinal flow. In low/mid load range, the tabgential port is closed to increase the horizontal flow. Fast flow decreases the PM during combustion and increases the EGR ratio by better combustion efficiency.
 
 ![](images/915718ea0486fcb3f4be4d0a7d7291eac0a6049fb34502d1f7aeadf807c042db.webp)
@@ -26932,13 +25785,10 @@ In DI type diesel engine, the liquefied fuel is injected into the cylinder direc
 The variable swirl valve actuator operates when turning the ignition switch ON/OFF position to open/close the swirl valve. In this period, the soot will be removed and the learning for swirl valve position is performed.
 
 
-### NOTE
-`ssangyong_actyon_en_7f426afe` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:351 | doc_type:owners_manual
-Swirl: This is the twisted (radial) air flow along the cylinder wall during the intake stroke. This stabilizes the combustion even in lean air-fuel mixture condition.
+> ℹ️ **Примечание:** Swirl: This is the twisted (radial) air flow along the cylinder wall during the intake stroke. This stabilizes the combustion even in lean air-fuel mixture condition.
 
 
 ### 3) Features
-`ssangyong_actyon_en_e0afca9e` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:352 | doc_type:owners_manual
 -Swir and air intake efficiency
 
 To generate the swirl, the intake port should be serpentine design. This makes the resistance in air flow. The resistance in air flow in engine high speed decreases the intake efficiency. Eventually, the engine power is also decreased, Thus, the swirl operation is deactivated in high speed range to increase the intake efficiency.
@@ -26949,14 +25799,12 @@ To reduce Nox,it is essential to increase EGR ratio. However, if EGR ratio is to
 
 
 ### 4) Relationship between swirl and fuel injection pressure
-`ssangyong_actyon_en_1280e89a` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:353 | doc_type:owners_manual
 The injector for DI engine uses the multi hole design. For this vehicle, there are 8 holes in injector. f the swirl is too strong, the injection angles might be overlapped and may cause the increased PM and insufficient engine power. Also, if the injection pressure is too high during strong swirl, the injection angles might be overlapped. Therefore, the system may decreases the fuel injection pressure when the swirl is too strong.
 
 ![](images/8489ba9720b69c2e6a1f5ec2c7559e738d421c59b644b1266e307a89fcc454ee.webp)
 
 
 ### GENERAL INFORMATION
-`ssangyong_actyon_en_f30e4793` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:354 | doc_type:owners_manual
 1. TROUBLESHOOTING   
 1) Work Flow
 
@@ -26966,7 +25814,6 @@ The injector for DI engine uses the multi hole design. For this vehicle, there a
 
 
 ### 2. CAUTIONS
-`ssangyong_actyon_en_7126751f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:355 | doc_type:owners_manual
 - Do not park the vehicle on flammable materials, such as grass, leaves and carpet.   
 -Do not touch the catalyst or the exhaust gas ignition system when the engine is running.   
 -If a misfire occurs in the combustion chamber or the emission of pollutant exceeds the specified level, the catalyst can be damaged.   
@@ -26980,40 +25827,34 @@ The injector for DI engine uses the multi hole design. For this vehicle, there a
 
 
 ### 1. OVERVIEW
-`ssangyong_actyon_en_6b50a983` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:356 | doc_type:owners_manual
 This system purifies the exhaust gas generated by the combustion in the engine to reduce the polutants and noise during that arise during combustion.
 
 
 ### 2. LAYOUT
-`ssangyong_actyon_en_841e5930` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:357 | doc_type:owners_manual
 ![](images/56c2c7c83daa92c9629683eef32ad9ead76c200505f1327f2ef6542463b9688d.webp)
 
 ![](images/0644e651be9a95f432a536d6c591d53c1960ccc701fb41c8e100be3fa52ac4c2.webp)
 
 
 ### 3. OPERATING PROCESS
-`ssangyong_actyon_en_30bf9247` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:358 | doc_type:owners_manual
 1) Exhaust Gas Flow
 
 ![](images/e53ad2943408a7677738c44ec672a6fb4c2c4eaa12025e5f60c010b2c156690e.webp)
 
 
 ### 2) Input & Output Devices
-`ssangyong_actyon_en_6ead0c79` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:359 | doc_type:owners_manual
 ![](images/5ca7d60420f23ef65223da310bdcdc169055ef0c90ae859130e40f3e6fde7d90.webp)
 
 ![](images/cb702e9546dc611ecad12355a38f1a829138c845258063db733ba3473e483465.webp)
 
 
 ### 1. SPECIFICATION
-`ssangyong_actyon_en_5eb2da52` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:360 | doc_type:owners_manual
 ![](images/ff6ac41b10d6160493deb5e450bcd68bf18980a7c86344936d0488b37841db13.webp)
 
 ![](images/58c7197475370bf9f89e2313de51dc565d899a7c5e48401b79fc6bb4878562e6.webp)
 
 
 ### 1) Cautions During Driving
-`ssangyong_actyon_en_c8aec1f3` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:361 | doc_type:owners_manual
 The following lists cautions to take during test drive and on the turbocharger vehicle, which must be considered during the operation.
 
 1. I's important not to drasticall increase the engine rpm starting the engine. It could make rotation at excessive speed even before the journal bearing is lubricated and when the turbocharger rotates in poor oil supply condition, it could cause damage of bearing seizure within few seconds. If the engine is running radically after replacing the engine oil or oil filter brings poor oil supply   
@@ -27021,15 +25862,12 @@ The following lists cautions to take during test drive and on the turbocharger v
 3. in condition where the oil pressure is at 'O'. In such condition, an oil film between the journal bearing and the housing shaft journal section gets broken and this causes abrasion of the journal bearing due to the rapid contact. The repeat of such condition significantly reduces life of the turbocharger. Therefore, the engine should be stopped possibly in the idle condition.
 
 
-### CAUTION
-`ssangyong_actyon_en_f22d9dad` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:362 | doc_type:owners_manual
-After string for long period of time during winter season or in the low temperature condition where the fluidity of engine oil declines, the engine, before being started, should be cranked to circulate oil and must drive after checking the oil pressure is in normal condition by idling the engine for few minutes.
-
-![](images/d2a6d90452a9034ccf1a7934289d26948ee20bf47745df2d05b9539d4fcc2694.webp)
+> ⚠️ **Внимание:** After string for long period of time during winter season or in the low temperature condition where the fluidity of engine oil declines, the engine, before being started, should be cranked to circulate oil and must drive after checking the oil pressure is in normal condition by idling the engine for few minutes.
+>
+> ![](images/d2a6d90452a9034ccf1a7934289d26948ee20bf47745df2d05b9539d4fcc2694.webp)
 
 
 ### 2) Inspection of Turbocharger
-`ssangyong_actyon_en_eef35a92` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:363 | doc_type:owners_manual
 When problem occurs with the turbocharger, it could cause engine power decline, excessive discharge of exhaust gas, outbreak of abnormal noise and excessive consumption of oil.
 
 1. On-board Inspection
@@ -27038,47 +25876,39 @@ When problem occurs with the turbocharger, it could cause engine power decline, 
 
 
 ### 2. Inspection of turbine
-`ssangyong_actyon_en_7d321f8d` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:364 | doc_type:owners_manual
 Remove the exhaust pipe at the opening of the turbine and check, with a lamp, the existence of interference of housing and wheel, oil leakage and contamination (at blade edge) of foreign materials.
 
 -Interference: In case where the oil leak sign exists, even the small traces of interferences on the turbine wheel mean, most of times, that abrasion has occurred on the journal bearing. Must inspect after overhauling the turbocharger.   
 -  Oil Leakage: Followings are the reasons for oil leakage condition \*Problems in engine: In case where the oil is smeared on inner wallsection of the exhaust gas opening. \* Problems in turbocharger: In case where the oil is smeared on only at the exhaust gas outlet section.
 
 
-### CAUTION
-`ssangyong_actyon_en_2732969d` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:365 | doc_type:owners_manual
-Idling for long period of time can cause oil leakage to the turbine side due to low pressure of exhaust gas and the rotation speed of turbine wheel. Please note this is not a turbocharger problem.
-
-- Oil Drain Pipe Defect
-
-In case where oil flow from the turbocharger sensor housing to the crank case is not smooth would become the reason for leakage as oil builds up within the center housing. Also, oil thickens (sludge) at high temperature and becomes the indirect reason of wheel hub section. In such case, clogging and damage of the oil drain pipe and the pressure of blow-by gas within the crank case must be inspected. Damages due to Foreign Materials -When the foreign materials get into the system, it could induce inner damage as rotating balance of the turbocharger gets out of alignment.
-
-![](images/a0499badae28de15f05be9e1072a10edb215f4bc27a16e0b67290758b8d499c1.webp)
+> ⚠️ **Внимание:** Idling for long period of time can cause oil leakage to the turbine side due to low pressure of exhaust gas and the rotation speed of turbine wheel. Please note this is not a turbocharger problem.
+>
+> - Oil Drain Pipe Defect
+>
+> In case where oil flow from the turbocharger sensor housing to the crank case is not smooth would become the reason for leakage as oil builds up within the center housing. Also, oil thickens (sludge) at high temperature and becomes the indirect reason of wheel hub section. In such case, clogging and damage of the oil drain pipe and the pressure of blow-by gas within the crank case must be inspected. Damages due to Foreign Materials -When the foreign materials get into the system, it could induce inner damage as rotating balance of the turbocharger gets out of alignment.
+>
+> ![](images/a0499badae28de15f05be9e1072a10edb215f4bc27a16e0b67290758b8d499c1.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_00079d6b` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:366 | doc_type:owners_manual
-Must absolutely not operate the turbocharger with the compressor outlet and inlet opened as it could damage the turbocharger or be hazardous during inspection.
-
--Interference: In case where is trace of interference or smallest damage on the compressor wheel means, most of times, that abrasion has occurred on the journal bearing. Must inspect after the overhaul.
-
-- Oil Leakage: The reason for oil leakage at the compressor section is the air cleaner, clogged by substances such as dust, causes the compressor inlet negative pressure.
-
-a. Rotating in high speed at no-load for extended period of time can cause oil leakage to the compressor section as oil pressure within the center housing gets higher than pressure within the compressor housing.   
-b. Overuse of engine break (especially in low gear) in down hill makes significantly low exhaust gas energy compared to the time where great amount of air is required during idling conditions of the engine. Therefore, amount of air in the compressor inlet increases but the turbocharge pressure is not high, which makes negative
+> ⚠️ **Внимание:** Must absolutely not operate the turbocharger with the compressor outlet and inlet opened as it could damage the turbocharger or be hazardous during inspection.
+>
+> -Interference: In case where is trace of interference or smallest damage on the compressor wheel means, most of times, that abrasion has occurred on the journal bearing. Must inspect after the overhaul.
+>
+> - Oil Leakage: The reason for oil leakage at the compressor section is the air cleaner, clogged by substances such as dust, causes the compressor inlet negative pressure.
+>
+> a. Rotating in high speed at no-load for extended period of time can cause oil leakage to the compressor section as oil pressure within the center housing gets higher than pressure within the compressor housing.   
+> b. Overuse of engine break (especially in low gear) in down hill makes significantly low exhaust gas energy compared to the time where great amount of air is required during idling conditions of the engine. Therefore, amount of air in the compressor inlet increases but the turbocharge pressure is not high, which makes negative
 
 
-### CAUTION
-`ssangyong_actyon_en_dcf62426` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:367 | doc_type:owners_manual
-No problem will occur with the turbocharger if above conditions are found in early stage but oil leaked over long period of time will solidify at each section causing to breakout secondary defects
-
-Damages by foreign materials: In case where the compressor wheel is damaged by foreign materials requires having an overhaul. At this time, i's necessary to check whether the foreign materials have contaminated intake/exhaust manifold or inside of engine.
-
-![](images/49d6b717f5c4738d9f1d08f942551fc9835f8dc34b63f980d1e9af0dcd430a05.webp)
+> ⚠️ **Внимание:** No problem will occur with the turbocharger if above conditions are found in early stage but oil leaked over long period of time will solidify at each section causing to breakout secondary defects
+>
+> Damages by foreign materials: In case where the compressor wheel is damaged by foreign materials requires having an overhaul. At this time, i's necessary to check whether the foreign materials have contaminated intake/exhaust manifold or inside of engine.
+>
+> ![](images/49d6b717f5c4738d9f1d08f942551fc9835f8dc34b63f980d1e9af0dcd430a05.webp)
 
 
 ### 4) Possible Causes of Defect
-`ssangyong_actyon_en_fd96b0bb` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:368 | doc_type:owners_manual
 The following tries to understand the defects that can occur with vehicle installed with the turbocharger and to manage the reasons of such defects.
 
 1. In case where oil pan/oil pipe has been contaminated, oil filter is defected and where adhesive of gaskets has been contaminated into the oil line.
@@ -27095,7 +25925,6 @@ The following tries to understand the defects that can occur with vehicle instal
 
 
 ### 3. Turbine Side: Inflow of foreign materials from engine Compressor Side: such as air filter, muffler and nut
-`ssangyong_actyon_en_abade540` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:369 | doc_type:owners_manual
 ![](images/26a6736b0c9a907a7e64b7c9f8a0af5959439b3ad0cf0a25f1e17e6bb8a2848f.webp)
 
 ![](images/9388bd27546aee367f22c2320c6d0f9b08eee621ccf6b08fb5c9d508011f98d2.webp)
@@ -27108,12 +25937,10 @@ The following tries to understand the defects that can occur with vehicle instal
 
 
 ### 3. TROUBLESHOOTING
-`ssangyong_actyon_en_fba041c6` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:370 | doc_type:owners_manual
 The followings are cautions to take in handling defects of turbocharger, which must be fully aware of.
 
 
 ### 1) Cautions
-`ssangyong_actyon_en_7e3764e1` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:371 | doc_type:owners_manual
 1. After stopping the engine, check whether the bolts on pipe connecting section are loose as well as the connecting condition of vacuum port and modulator, which is connected to the actuator. During idling of the engine, check for leakage in the connecting section of pipe (hoses and pipes,   
 2. duct connections, after the turbocharger) by applying soap water. The leakage condition in the engine block and turbine housing opening can be determined by the occurrence of abnormal noise of exhaust. By running the engine at idle speed, abnormal vibration and noise can be checked. Immediately stop   
 3. the engine when abnormal vibration and noise is detected and make thorough inspection whether the turbocharger shaft wheel has any damages as well as checking the condition of connections between pipes. In case where the noise of engine is louder than usual, there is possibility of dampness in the areas   
@@ -27129,7 +25956,6 @@ The followings are cautions to take in handling defects of turbocharger, which m
 
 
 ### 2) Work Flow for Troubleshooting
-`ssangyong_actyon_en_ea89b551` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:372 | doc_type:owners_manual
 ![](images/0832e0656de7504f2104e0ce6961676738b481926bbce0e8891a6dc81b3f3246.webp)
 
 ![](images/6a465c2d9c3be6fe5a8de785a70677c89d3d400e5b4b54104332471158d32839.webp)
@@ -27152,7 +25978,6 @@ The followings are cautions to take in handling defects of turbocharger, which m
 
 
 ### 1) Overview
-`ssangyong_actyon_en_69e5a459` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:373 | doc_type:owners_manual
 The E-VGT turbocharger has one shaft where at each ends are installed with two turbines having different angles to connect one end of housing to the intake manifold and the other end to the exhaust manifold. As the turbine, at exhaust end, is rotated by exhaust gas pressure the impeller, at intake end, gets rotated to send air around center of the impeller, being circumferentiall accelerated by the centrifugal force, into the diffuser. The air, which has been introduced to the difuser having a passage with big surface, transforms its speed energy into the pressure energy while being supplied to the cylinder improving the volume effciency. Also, the exhaust efficiency improves as the exhaust turbine rotates. The turbocharger is often referred to as the exhaust turbine turbocharger.
 
 Diffuser: With the meaning of spreading out it is a device that transforms fluid's speed energy into the pressure energy by enlarging the fluid's passage to slow down the flow. The E-VGT system installed to the D20DTR engine variably controls the passages of the turbine housing to regulate the flow rate of the exhaust gas. The actuator of E-VGT is a DC motor actuator (EActuator) which controls more quickly and precisely than the previous vacuum type actuator.
@@ -27165,12 +25990,10 @@ The engine ECU controls the E-Actuator electronically as follows:
 
 
 ### (1) Performance (for EURO V)
-`ssangyong_actyon_en_a66b1abd` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:374 | doc_type:owners_manual
 1. Enhanced emmission control: By temperature control with CDPF system - Target temperature and airflow control
 
 
 ### (2) E-VGT Actuator (Electric-Actuator)
-`ssangyong_actyon_en_3293273a` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:375 | doc_type:owners_manual
 1. Optimizes the exhaust gas flow rate by controlling the vanes inside the turbine housing with the EActuator.
 
 -Maximizes the intake air charging efficiency (Approx. 15%)
@@ -27185,7 +26008,6 @@ The engine ECU controls the E-Actuator electronically as follows:
 
 
 ### 2. COMPONENTS
-`ssangyong_actyon_en_e4eaa909` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:376 | doc_type:owners_manual
 \*For detailed information about the control logic, refer to Chapter “Engine Control”.
 
 ![](images/764187a66e4227a5952ee3e64ee5e7eb07ab2a0ec279fbba0b03b2cc86a2c4ab.webp)
@@ -27194,26 +26016,22 @@ The engine ECU controls the E-Actuator electronically as follows:
 
 
 ### 3. INPUT/OUTPUT DEVICES
-`ssangyong_actyon_en_79391165` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:377 | doc_type:owners_manual
 ![](images/5e79e5828cefc14728a7851b4fc9cdf55c7ddec8dc2ea128b588946b7c27fdfa.webp)
 
 ![](images/262e4c98d84dcf5a92eb2323a57e590c471d7c0ea156ee8e690860e7f8f33325.webp)
 
 
 ### 4. OPERATING PRINCIPLES
-`ssangyong_actyon_en_f8490fec` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:378 | doc_type:owners_manual
 The E-VGT is designed to get more improved engine power in all ranges by controling the turbine as follows:
 
 
 ### 1) How it Works at Low Speed
-`ssangyong_actyon_en_9f6aa849` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:379 | doc_type:owners_manual
 Normal turbocharger cannot get the turbo effect because the amount of exhaust gas is not enough and the flow speed is slow in a low speed zone, but VGT allws the flow passage of exhaust to narrow, resulting in increasing the flow speed of exhaust gas and running the turbine quickly and powerfully. Therefore, as VGT can intake more air than normal turbocharger, it can give the benefit of the increased output even in a low speed zone.
 
 ![](images/d032a98ec30c8747de9eb199aee25cf15e3f8116252c8d427021362ca0b2345c.webp)
 
 
 ### % Basic principle at low speed
-`ssangyong_actyon_en_90d99dac` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:380 | doc_type:owners_manual
 At low speed, it utilizes the principle of venturi. For example, when air flows through the venturi tube, the flow speed is faster and the pressure is lower at the point "A". In this case, if the inner diameter of venturi is more narrowed, the flow speed is so much faster (refer to the equation).
 
 ![](images/78cbb34d88c1ce480afd4c8ac8537611463214429644cd34314b981fe58dfe4f.webp)  
@@ -27221,14 +26039,12 @@ V1 x A1 = V2 x A2 = Constant
 
 
 ### Turbocharger lag
-`ssangyong_actyon_en_c23b18c8` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:381 | doc_type:owners_manual
 The turbocharger is at idle speed when there is no load or it is in the normal driving condition. During this period, the amount of exhaust gas passing through the turbine is not enough to turn the compressor wheel (impeller) fast. Therefore, the intake air is not compressed as needed. Because of this, it takes time for turbocharger to supply the additional power after the accelerator pedal is depressed. This is called "turbocharger lag".
 
 ![](images/fbdfdf44630b1da82297601e3db1aa9783b35d5fb18dbd9a64559f652d68bb9b.webp)
 
 
 ### 2) How it Works at High Speed
-`ssangyong_actyon_en_407cd9dd` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:382 | doc_type:owners_manual
 In a high speed zone, the amount of exhaust gas increases and it is accompanied with a great force. Therefore, if the inner diameter of venturi is more widened, the turbine in the turbocharger by the releasing force of abundant exhaust gas can deliver a more increased energy to the compressor. The output will increase in submission to the increase of intake air volume.
 
 ![](images/0e0f2f2aba5f3eca63c8f27bbff54c1dbe3e24fd452011408eb52991788e5720.webp)
@@ -27237,28 +26053,24 @@ In a high speed zone, the amount of exhaust gas increases and it is accompanied 
 
 
 ### 1. SPECIFICATION
-`ssangyong_actyon_en_89830449` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:383 | doc_type:owners_manual
 ![](images/86ac3916f29a3fc1dd3b10bf1128698e6a1e66f61a73dea04829938cbed8d06a.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_a2c2520b` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:384 | doc_type:owners_manual
-The engine oilfilter element should be changed at the same time with the engine oil.
-
--Regularly check the engine oil level and add the engine oil if necessary. -Remember to check the engine oil level and shorten the cycle to replace the engine oil under severe driving conditions.
-
-Severe Driving Condition
-
--Frequent stop-and-go trafic, extended idling, short driving distance below 6 km, driving distance below 16 km when the outside temperature remains below freezing   
--Driving in a hil or mountainous terrain, sandy, or dusty area   
-- High load driving such as trailer towing   
--Taxi, patrol service or delivery service(extended idling and excessive driving with low speed)
-
-![](images/5284d42b5c1aca0bf5a4552edc109297f953e48b4dcedc4f7e8d656e3783ff70.webp)
+> ⚠️ **Внимание:** The engine oilfilter element should be changed at the same time with the engine oil.
+>
+> -Regularly check the engine oil level and add the engine oil if necessary. -Remember to check the engine oil level and shorten the cycle to replace the engine oil under severe driving conditions.
+>
+> Severe Driving Condition
+>
+> -Frequent stop-and-go trafic, extended idling, short driving distance below 6 km, driving distance below 16 km when the outside temperature remains below freezing   
+> -Driving in a hil or mountainous terrain, sandy, or dusty area   
+> - High load driving such as trailer towing   
+> -Taxi, patrol service or delivery service(extended idling and excessive driving with low speed)
+>
+> ![](images/5284d42b5c1aca0bf5a4552edc109297f953e48b4dcedc4f7e8d656e3783ff70.webp)
 
 
 ### 1) Level Check
-`ssangyong_actyon_en_a251d4fb` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:385 | doc_type:owners_manual
 Park the vehicle on a level ground and apply the parking brake. Stop the engine and wait more than 5 minutes.
 
 -Pull out the dipstick and wipe it with a clean cloth. Reinsert it all the way.   
@@ -27266,117 +26078,96 @@ Park the vehicle on a level ground and apply the parking brake. Stop the engine 
 - The oil level should be between the maximum (Max) mark and minimum (Min) mark on the oil dipstick. Oil should be replenished before the level goes below the minimum mark.
 
 
-### WARNING
-`ssangyong_actyon_en_a9e3e23d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:386 | doc_type:owners_manual
-Operating vehicle with insuficient amount of oil can damage the engine. Make sure the engine oil level is corect and add oil if necessary.
-
-![](images/9af2349e76a23914af8255d45f16fc35d715d3dd11f73d21c7e97148381503df.webp)
+> ⚠️ **Внимание:** Operating vehicle with insuficient amount of oil can damage the engine. Make sure the engine oil level is corect and add oil if necessary.
+>
+> ![](images/9af2349e76a23914af8255d45f16fc35d715d3dd11f73d21c7e97148381503df.webp)
 
 
 ### 2) Replenishment
-`ssangyong_actyon_en_900452c9` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:387 | doc_type:owners_manual
 If the level gets to the lower point, open the fillr cap on top of the cylinder block and add the genuine oil without exceeding the level of the upper mark.   
 Recheck the oil level after 5 minutes.
 
 
-### CAUTION
-`ssangyong_actyon_en_ff900561` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:388 | doc_type:owners_manual
--Regularly check the engine oil level and add Ssangyong genuine engine oil f necessary.   
--Clean the dipstick with clean cloth so that any foreign materials cannot get into the engine.   
-- The oil should not go above the upper mark on the dipstick.   
-- The engine oil may be consumed more if the engine is new.
-
-![](images/1a716f9be4e28ab906ae1909e8ab058c460b57dd8a8d4a8ba083c2ecfcc2935f.webp)
+> ⚠️ **Внимание:** -Regularly check the engine oil level and add Ssangyong genuine engine oil f necessary.
+> -Clean the dipstick with clean cloth so that any foreign materials cannot get into the engine.   
+> - The oil should not go above the upper mark on the dipstick.   
+> - The engine oil may be consumed more if the engine is new.
+>
+> ![](images/1a716f9be4e28ab906ae1909e8ab058c460b57dd8a8d4a8ba083c2ecfcc2935f.webp)
 
 
 ### 1) Overview
-`ssangyong_actyon_en_4e9569d7` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:389 | doc_type:owners_manual
 The lubrication system supplies oil to each lubrication section to prevent friction and wear and to remove heat from the friction part. As the engine runs, frictional heat is generated on each lubrication section. If this condition persists, the bearing can be burned and stuck.   
 In other words, it creates an oil film on each sliding surface to convert solid friction to liquid friction in order to minimize wear and prevent temperature increasing on the friction part.   
 For the D20DTF engine with no oil pressure switch, the engine ECU receives the low engine oil level signal from the oil level sensor and communicates with the instrument cluster through the CAN communication to turn on the warning lamp.
 
 
 ### 2) Components
-`ssangyong_actyon_en_9f504c0b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:390 | doc_type:owners_manual
 ![](images/d0f3a871f29375def7514cb3deba8bc0bc29705e16e7852e89b2e90b88edf432.webp)
 
 ![](images/c72b19da00fb935c786c7fbf3ffd7dc3736b0c137ac1cf855ec7b9a277318a61.webp)
 
 
 ### 1) Lubrication
-`ssangyong_actyon_en_0d7556ea` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:391 | doc_type:owners_manual
 It creates a viscous barrer between moving parts that reduces friction, which means less heat and longer life for those parts. As a lubricant, oil must maintain a protective film to prevent metal-to-metal contact. It must be fluid enough to allow easy starting and to circulate quickly through the engine, yet remain thick enough at higher operating temperatures and speeds to provide adequate lubrication.
 
 
 ### 2) Cooling
-`ssangyong_actyon_en_4d462c5e` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:392 | doc_type:owners_manual
 Combustion heat and friction energy must be removed from the engine in order to prevent its overheating. Most of heat energy is taken by the engine oil.   
 Clean oil passages, proper viscosity and low contamination provide suficient flow rate of the engine oil and effective cooling.
 
 
 ### 3) Sealing
-`ssangyong_actyon_en_aa666803` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:393 | doc_type:owners_manual
 It helps to seal the space between the pistons and the cylinder walls so that compression is more effective and power is not lost during combustion.
 
 
 ### 4) Anti-corrosion
-`ssangyong_actyon_en_c75d3a65` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:394 | doc_type:owners_manual
 As a corrosion inhibitor, oil coats internal engine parts to prevent surface rust on the inside of the engine which can be caused by blow-by products and water formed in combustion. It must also be capable of neutralizing the acids that are formed by combustion blow-by and oil oxidation at high temperatures.
 
 
 ### 5) Cleaning
-`ssangyong_actyon_en_2afbd530` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:395 | doc_type:owners_manual
 The small particles of dirt or other contaminants are suspended in oil and carried away to be filtered out. As a detergent, engine oil must be able to gather and suspend dirt and other contaminants until the oil can leave them as it passes through the filter and returns to the internal engine environment.
 
 ![](images/b02a5b50a0a232d33d840688c557d27a111a17148c34444a446e1d3ce5fa49ee.webp)
 
 
 ### 1. SPECIFICATION
-`ssangyong_actyon_en_ee95e662` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:396 | doc_type:owners_manual
 ![](images/1efeb9a67630ab0444797987dc1cca427e0868b0df239101a2760294141a039a.webp)
 
 ![](images/d13b222a44ac670ae7343aeaea13ac2021f18293b93e6acf3727ab7d9c4328c0.webp)
 
 
 ### 2. INSPECTION
-`ssangyong_actyon_en_4d1636c0` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:397 | doc_type:owners_manual
 ![](images/02dbfb2433a99c35175b20892462f9bb50a2007bfdeffff64bac1e26608fdfb6.webp)
 
 ![](images/8eb9473a2f7717e15b6326be9e52eec9226210badf965004cf9491463387dc03.webp)
 
 
 ### 1) Coolant Level Check
-`ssangyong_actyon_en_4eefa05e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:398 | doc_type:owners_manual
 1. Park the vehicle on level ground and apply the parking brake. Stop the engine and wait until it is cooled down. 2. The coolant level should be between the MAX and MIN mark on the coolant reservoir. Check the coolant level. If the level is below the “MIN” mark, immediately add coolant.
 
 ![](images/959c6913f52a3899cd1c2cba343ec2cf20fd1daceda01bb20f4a5567f22c62aa.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_a0a78d5a` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:399 | doc_type:owners_manual
-- Scalding hot coolant and steam could be blown out under pressure, which could cause serious injury. Never remove the coolant reservoir cap when the engine and radiator are hot. -Avoid any direct contact of the coolant to the painted body of the vehicle.
-
-![](images/6f32a126531b540886231233547c1b129f429a15a455c21341563f65c283cf0f.webp)
+> ⚠️ **Внимание:** - Scalding hot coolant and steam could be blown out under pressure, which could cause serious injury. Never remove the coolant reservoir cap when the engine and radiator are hot. -Avoid any direct contact of the coolant to the painted body of the vehicle.
+>
+> ![](images/6f32a126531b540886231233547c1b129f429a15a455c21341563f65c283cf0f.webp)
 
 
 ### 2) Leak Test
-`ssangyong_actyon_en_419c3aed` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:400 | doc_type:owners_manual
 ![](images/93de4009e3e6ad44320372f713627aee2a26385e0e694d7e1347e071773cf63f.webp)
 
 1. Release the pressure in the system by loosening the pressure cap of the coolant reservoir slightly. Then, remove the pressure cap completely.
 
 
-### CAUTION
-`ssangyong_actyon_en_8d9a946c` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:401 | doc_type:owners_manual
-Never open the cap until the coolant temperature becomes under 90 'C to prevent any burn.
-
-2. Add the coolant so that the coolant level is between MAX and MIN mark on the coolant auxiliary tank.   
-3. Connect the tester to the tank filler and apply pressure (1.4 bar).   
-4. Check all the coolant hoses, pipes and connections for leaks when the pressure of the tester drops, and replace or tighten, if necessary.
+> ⚠️ **Внимание:** Never open the cap until the coolant temperature becomes under 90 'C to prevent any burn.
+>
+> 2. Add the coolant so that the coolant level is between MAX and MIN mark on the coolant auxiliary tank.   
+> 3. Connect the tester to the tank filler and apply pressure (1.4 bar).   
+> 4. Check all the coolant hoses, pipes and connections for leaks when the pressure of the tester drops, and replace or tighten, if necessary.
 
 
 ### 3) Thermostat
-`ssangyong_actyon_en_d86f15db` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:402 | doc_type:owners_manual
 ![](images/3a2a832a32e58bfbf3ffe1d63e63571948cf6ff072d2f6a12a708518426c5f36.webp)
 
 Immerse the thermostat into the water. Heat the water and check the valve opening temperature.
@@ -27386,22 +26177,19 @@ Immerse the thermostat into the water. Heat the water and check the valve openin
 ![](images/5197ebb83c5e19946602ea86609a9bf3cb24ecb2fa6087bb4242c1f74dc532e1.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_cd702b61` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:403 | doc_type:owners_manual
-- If 100% of anti-freeze is added, the water pump vane can be damaged and thermal conductivity can be decreased resulting in poor circulation in the coling system which leads to overheated engine.   
--Use of non-recommended coolant could cause damage to the cooling system and overheating of the engine.   
--Opening the coolant reservoir cap while the engine is running or hot can cause burns by hot steam or water.   
--To open the coolant reservoir cap, wrap the cap with a wet towel or thick cloth after the engine is cooled down sufficienty.   
--If cool water is added to the heated engine, the engine or radiator can be deformed.   
--The anti-freeze in the coolant can damage the painted surface, so avoid the contact of the coolant to the painted body.   
--The anti-freeze and water should be mixed in proper mixture ratio. Never add only water when adding coolant.   
--f the anti-freeze content is too low, the coolant can be frozen while the engine can be overheated if anti-freeze content is too high.
-
-![](images/6ee3d8493caf1f475789d86ae4e68306f6f2e5db8cd380d7e51745166e9787b4.webp)
+> ⚠️ **Внимание:** - If 100% of anti-freeze is added, the water pump vane can be damaged and thermal conductivity can be decreased resulting in poor circulation in the coling system which leads to overheated engine.
+> -Use of non-recommended coolant could cause damage to the cooling system and overheating of the engine.   
+> -Opening the coolant reservoir cap while the engine is running or hot can cause burns by hot steam or water.   
+> -To open the coolant reservoir cap, wrap the cap with a wet towel or thick cloth after the engine is cooled down sufficienty.   
+> -If cool water is added to the heated engine, the engine or radiator can be deformed.   
+> -The anti-freeze in the coolant can damage the painted surface, so avoid the contact of the coolant to the painted body.   
+> -The anti-freeze and water should be mixed in proper mixture ratio. Never add only water when adding coolant.   
+> -f the anti-freeze content is too low, the coolant can be frozen while the engine can be overheated if anti-freeze content is too high.
+>
+> ![](images/6ee3d8493caf1f475789d86ae4e68306f6f2e5db8cd380d7e51745166e9787b4.webp)
 
 
 ### 1. SYSTEM DESCRIPTION
-`ssangyong_actyon_en_f8ba381a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:404 | doc_type:owners_manual
 1) Overview
 
 ![](images/a0f92069120790eb33034c8f51c8d34170214f2213a6cb9bbb1f5a3437e5811a.webp)
@@ -27414,58 +26202,48 @@ Immerse the thermostat into the water. Heat the water and check the valve openin
 
 
 ### 1. SPECIFICATION
-`ssangyong_actyon_en_4a9b6181` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:405 | doc_type:owners_manual
 ![](images/bbf6639808f49fe8c4ed2b20e084b11733a71a7d65fd91d729d3a6bb21f4deed.webp)
 
 ![](images/f27bd0ca77b182ba697b98508193acfd94ba6429f8036a012aca40f15a9839c0.webp)
 
 
 ### 1) Alternator Output Test
-`ssangyong_actyon_en_239d9e5f` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:406 | doc_type:owners_manual
 ![](images/7151ea71c558014b6a19f7799476966ef1237184490080c3ddc3567c93b511f5.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_c38119f0` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:407 | doc_type:owners_manual
--Disconnect the negative battery cable.   
--Connect the negative cable again after connecting the ammeter.
-
-![](images/f971b945b98885fbdfd11599a12deb47f7fb18434569b514fd2b8fd406d0d8b5.webp)
+> ⚠️ **Внимание:** -Disconnect the negative battery cable.
+> -Connect the negative cable again after connecting the ammeter.
+>
+> ![](images/f971b945b98885fbdfd11599a12deb47f7fb18434569b514fd2b8fd406d0d8b5.webp)
 
 
 ### 2) Troubleshooting for Alternator
-`ssangyong_actyon_en_a6754704` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:408 | doc_type:owners_manual
 ![](images/0136480c028ec737357aa52dd27ad79e0d872b04fe360ca66332cefd23592ee8.webp)
 
 ![](images/57d007082ca54bfbbb2c6f0d2abf540d55c54d291ef878b1fb7624da7791d3e5.webp)
 
 
 ### 3 Checking Battery
-`ssangyong_actyon_en_d8ab0d7c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:409 | doc_type:owners_manual
 ![](images/c62bcbf364f342d6eb47f43922d827487cbfc69f355642765c9330e81cd57e4b.webp)
 
 ![](images/03c0f1f8909e3c245362fe7d847f874709a7de9306bd75a993c4b3987dcf780f.webp)
 
 
 ### Using battery tester
-`ssangyong_actyon_en_d97b82e7` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:410 | doc_type:owners_manual
 -  PASS (11.0 V or more): Explain to the customer that the battery is reusable. -Need to be charged (9.0 to 11.0 V: Charge the battery with a charger and reinstallit. Explain it to the customer. -Need to be replaced (9.0 V or more): The battery should be replaced due to overdischarging.
 
 
 ### (2) How to use battery tester
-`ssangyong_actyon_en_b56844c6` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:411 | doc_type:owners_manual
 ![](images/a9f14194e326057a0504335dd51fd221274c0357922a89468dc7409f5049c97e.webp)
 
 
 ### How it works and How to use it
-`ssangyong_actyon_en_1f7353ba` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:412 | doc_type:owners_manual
 -Determine battery capacity by fixing current (load capacity) and time and varying voltage. Determine battery capacity based on the amount of voltage drop when discharging a fixed load capacity (120 A) for 5 seconds. Connect the tester to the battery and read the display while applying a load for 5 seconds.
 
 VOLTS A 6 8 10 12 VOLTS 2 was W к BAD W EAK 1000 14 2 6-VOLTS OK 6 REPLACE 2000 12-VOLTS CHARGING SYSTEM MIN CRANK VOLTS LOXDV APPLY NEXT HIGHER @RANK LOADV 107 3 VOLTS FOR LESS 200 CID 11.0 17 30.4
 
 
 ### How to read display
-`ssangyong_actyon_en_32aba60f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:413 | doc_type:owners_manual
 - Red area (①): overdischarge or faulty battery   
 - Yellow area (②): Need to be charged (using a vehicle alternator and a battery charger) Green area (3): Normal   
 - Red area on the left-hand side of OK (④):   
@@ -27476,12 +26254,10 @@ VOLTS A 6 8 10 12 VOLTS 2 was W к BAD W EAK 1000 14 2 6-VOLTS OK 6 REPLACE 2000
 
 
 ### (3) Starting with jumper cable
-`ssangyong_actyon_en_293a50e6` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:414 | doc_type:owners_manual
 If the battery is weak or terminated, the battery from another vehicle can be used with jumper cables to start the engine.
 
 
 ### Connecting order
-`ssangyong_actyon_en_c20df801` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:415 | doc_type:owners_manual
 1. The positive (+) terminal of the discharged battery   
 2. The positive (+) terminal of the booster battery   
 3. The negative (-) terminal of the booster batery   
@@ -27490,7 +26266,6 @@ block or a front towing hook.
 
 
 ### Starting
-`ssangyong_actyon_en_099288fc` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:416 | doc_type:owners_manual
 1. Prepare a set of jumper cables.   
 2. Place another vehicle that has the same 12 V of power near to the discharged vehicle.   
 3. Switch off all electrical accessories for the discharged vehicle.   
@@ -27508,7 +26283,6 @@ connection.
 
 
 ### (4) Maintenance
-`ssangyong_actyon_en_2c1a27b0` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:417 | doc_type:owners_manual
 If the charge warning lamp ([ ) on the instrument cluster comes on while driving, there is a malfunction in the charge system including the battery. Therefore, carrying out the system check is needed.
 
 ![](images/b6375a37d31ebbf1a37481099841b91ead10b2b5e0ab3e8194923d8ca5d77de5.webp)
@@ -27522,31 +26296,26 @@ Check the battery for crack, damage or fluid leaks. Replace it if necessary. Wip
 
 
 ### 1) Overview
-`ssangyong_actyon_en_34093b1c` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:418 | doc_type:owners_manual
 The charge system is designed to supply electrical energy to the vehicle while driving, and supplies a constant direct current voltage by converting mechanical rotational movement to electrical energy. The voltage regulator on the back of the alternator controls the generated voltage in al rotating ranges and adjusts the system voltage according to the electric load and ambient temperature change.
 
 
 ### 2) System Layout (Locations)
-`ssangyong_actyon_en_9399c828` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:419 | doc_type:owners_manual
 ![](images/ad656369a8e69e5b77e9d6ac0b4fab4f6c14d8f25eec057733ee595b6411967f.webp)
 
 ![](images/ef02b6186b879944cef35437084b71031836f24d8dcd1de00c405ba0fd51ee65.webp)
 
 
 ### 2. OPERATING PROCESS1) Charging Flow
-`ssangyong_actyon_en_550be008` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:420 | doc_type:owners_manual
 ![](images/2718cd9f53de0ffd3e04b3b4e6f8e63872b4628e3674789c068dec7924c336d0.webp)
 
 ![](images/7d8fc8935f34ead96a8e682a57f8193d3ad3d4683fa56919bbf32dfd93fa908f.webp)
 
 
 ### 2) Charging
-`ssangyong_actyon_en_e24b9ec2` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:421 | doc_type:owners_manual
 The alternator uses a new regulator which has three diodes. It consists of the delta stator, rectifier bridge, slip ring and brush.
 
 
 ### Charging time according to vehicle conditions and environment
-`ssangyong_actyon_en_3d1b131d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:422 | doc_type:owners_manual
 ![](images/114651d1b89802b811f20e4e6c6c1e230496cf36050e22bf39ce12dcc3663c6d.webp)
 
 Specification: Charging a fully depleted highcapacity battery takes twice or more as long as charging a fully depleted battery for small vehicles.
@@ -27559,7 +26328,6 @@ Charging status: Charging a fully depleted battery takes twice or more as long a
 
 
 ### 3) Output Characteristics
-`ssangyong_actyon_en_8908b1a9` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:423 | doc_type:owners_manual
 ![](images/14d7d759f59343e136e5a3c3ae2ffaadecc8fd90dcdd3571dc986e58601fc1e5.webp)
 
 ![](images/b17fc56732bd3225e32eff16b5b1957ab655aa41ffdf6e1f450267516c75a6b9.webp)
@@ -27568,21 +26336,18 @@ Charging status: Charging a fully depleted battery takes twice or more as long a
 
 
 ### 3. CIRCUIT DIAGRAM
-`ssangyong_actyon_en_ac9ea018` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:424 | doc_type:owners_manual
 ![](images/2c33fa3f5032a0fc209262afb2f26e2401aa67f99caf9eb90389b1d51b74fe32.webp)
 
 ![](images/c17f23cfab36a5631daa346c9f14b2f0eca3609c2ba563cbc7ddeaa874387d55.webp)
 
 
 ### 1. SPECIFICATION
-`ssangyong_actyon_en_d2b3b8a6` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:425 | doc_type:owners_manual
 ![](images/8bd19ceb4286b6e7b561da8044a7ef42dd5bd1c5d896dad2f96d0a3ae8f5b215.webp)
 
 ![](images/d77c4f2a0f0b3bdde8ed082d9a2d3b0b4c2b35027076484097a485817073c469.webp)
 
 
 ### 1. OVERVIEW
-`ssangyong_actyon_en_dc218983` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:426 | doc_type:owners_manual
 The pre-heating system for D20DTR engine has the glow plug to the cylinder head (combustion chamber), and improves the cold start performance and reduces the emission level.   
 The pre-heating resistor (air heater) is used to heat the intake air.   
 This enables the diesel fuel to be ignited in low temperature condition.   
@@ -27594,36 +26359,30 @@ The ECU receives the information such as, engine rpm, coolant temperature, engin
 
 
 ### 2. SYSTEM OPERATION 1) Input/Output Diagram of Glow Plug Control Unit
-`ssangyong_actyon_en_7e9a745d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:427 | doc_type:owners_manual
 ![](images/02ebe42da70ce72f215a5aa0ebf959d424184ba939ddd1f9aaf65f557475c0ef.webp)
 
 
 ### 2) System Diagram
-`ssangyong_actyon_en_e342565d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:428 | doc_type:owners_manual
 ![](images/c74259b77ebd7bee2f2da82db76ecb9ceaf7189ea9040c733e01f5d30c62cc44.webp)
 
 ![](images/63ecb5515eab8ee13e9afc9a38a68ea2d6dcddc50ca93ac11f20d619c61c7871.webp)
 
 
 ### 3) Circuit Diagram
-`ssangyong_actyon_en_b7980342` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:429 | doc_type:owners_manual
 ![](images/7584b5ceeac2c15da8b6e38e1537f49f92dd42768b4c9cdd609297d2272cebcd.webp)
 
 ![](images/827a7bf154c5d2cded4c6b942814694778a6b36b479e3ddbce989798267322e0.webp)
 
 
 ### 4) Operation
-`ssangyong_actyon_en_557288c5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:430 | doc_type:owners_manual
 Glow plug is installed in the cylinder head. It enhances the cold starting performance and reduces the exhaust gas during cold starting.
 
 
 ### (1) Operation
-`ssangyong_actyon_en_fd6463bf` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:431 | doc_type:owners_manual
 ![](images/fc1af5854e074025aacafb9d5da44ced4dcf87aebfe33d4d996581c9a60487a2.webp)
 
 
 ### Pre-Glow: Step 1
-`ssangyong_actyon_en_a9f9fc28` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:432 | doc_type:owners_manual
 If normal communication with the ECU is established 2 seconds after the power is supplied to the IGN terminal from the battery, the GCU supplies the battery power to raise the temperature of the glow plug to 1000'C by the pre-heating request from the engine ECU before starting.
 
 - The time for pre-heating is controlled by the ECU.
@@ -27633,29 +26392,24 @@ If normal communication with the ECU is established 2 seconds after the power is
 1. f the input power (VB) is 11.5 V or less, the GCU supplies the battery power for arrival time (T1). If the input power (VB) is greater than 11.5 V, the GCU supplies the voltage of 11.5 V for arrval time 2.(T1).
 
 
-### NOTE
-`ssangyong_actyon_en_c81b53b8` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:433 | doc_type:owners_manual
-The time for pre-heating by coolant temperature can vary slightly depending on e.g. other vehicle operation elements.
-
-![](images/dccce22b135be803f32015d9306a5fb1f3e83c7ebed3a85b6bdf00957cb020a2.webp)
+> ℹ️ **Примечание:** The time for pre-heating by coolant temperature can vary slightly depending on e.g. other vehicle operation elements.
+>
+> ![](images/dccce22b135be803f32015d9306a5fb1f3e83c7ebed3a85b6bdf00957cb020a2.webp)
 
 
 ### During cranking: Step 2 and step 3
-`ssangyong_actyon_en_f8ce0d51` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:434 | doc_type:owners_manual
 1. Step 2: If the ECU receives the cranking signal after pre-heating (step 1), the GCU supplies the voltage of 6.8 V for 1 sec to raise the temperature to 1,100C. 2. Step 3: The GCU supplies the voltage of 5.1 V to keep the temperature at 1,000°C.
 
 \* Under fixed temperature: The AQGS unit supplies power for 30 seconds (Step 1 + Step 3) if no cranking signal is received after the step 1. \*At cranking: The step 3 is started after the step 2.
 
 
 ### Post-glow: Step 4:
-`ssangyong_actyon_en_7cc5fa11` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:435 | doc_type:owners_manual
 The post-heating is for reducing HC/CO after the engine is started. If the time for post-heating exceeds 180 sec., the GCU unit cuts off the power to each glow plug even if there is pre-heating request from the engine ECU.
 
 ![](images/90f7be1f643087259298aff4b7b0534be7bf37e404d9d210f1771cbdae1c467e.webp)
 
 
 ### Emergency glow
-`ssangyong_actyon_en_26eec5ae` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:436 | doc_type:owners_manual
 If no CAN signal is received for 4 seconds from the engine ECU after the IGN ON signal is input, the GCU performs emergency preheat (Step 3) for 30 seconds.
 
 ![](images/acd8b805f6f54a5712d6697e40cfa3a21b63f5960fca3a007834d2d26fad2208.webp)
@@ -27666,28 +26420,24 @@ P1 to P2: Pre glow P3 to P4: Post glow
 
 
 ### 1. SPECIFICATION
-`ssangyong_actyon_en_b481360a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:437 | doc_type:owners_manual
 ![](images/b6df12d31f2c4807e15c23423b8682678f5f027928ce42124143076921e61f36.webp)
 
 ![](images/63511fc6a0d671aac9de1a22de4e8b3bb12134aff2805f4329d6743783aa6606.webp)
 
 
 ### 2. TROUBLESHOOTING
-`ssangyong_actyon_en_a2c7b25d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:438 | doc_type:owners_manual
 ![](images/c33aa4d1894c882d861cae2360540ffe8cba9ddece8886c839061b2c0eeff266.webp)
 
 ![](images/d30560a883870d3eb1951505e21364e3c24cfec47078767d832882685f16a667.webp)
 
 
 ### 1. SYSTEM DESCRIPTION
-`ssangyong_actyon_en_f8686645` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:439 | doc_type:owners_manual
 The starter (start motor) starts the engine with rotational power by converting the electric energy to the mechanical energy.
 
 When the engine is cranking, the pinion gear meshes with the ring gear. If the ring gear overruns, the pinion gear clutch overruns to protect the pinion gear.
 
 
 ### 2. OPERATING PROCESS
-`ssangyong_actyon_en_6bac53b0` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:440 | doc_type:owners_manual
 1) System Layout
 
 ![](images/70408add601b1c08648e3b4ec15c3088d2f20b1e5f62a1c3018e28df408bef05.webp)
@@ -27696,14 +26446,12 @@ When the engine is cranking, the pinion gear meshes with the ring gear. If the r
 
 
 ### 2) Circuit Diagram
-`ssangyong_actyon_en_27a66c5b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:441 | doc_type:owners_manual
 ![](images/27d20cf64a2e9f24eabbe3eb2790dd244fcda18335ecfa6c19718c287cc51f73.webp)
 
 ![](images/4d6cd73b834f228eeb123c2da45f280e2e39bec4e964cabe983192823ac4b599.webp)
 
 
 ### 1. CRUISE CONTROL SWITCH
-`ssangyong_actyon_en_43be190f` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:442 | doc_type:owners_manual
 ![](images/4754516f497538fc8ff12a1cf848fac1d95256752fc75c3c12b327cd2ad9c073.webp)
 
 The cruise control is an automatic speed control system that maintains a desired driving speed without using the accelerator pedal.
@@ -27711,37 +26459,29 @@ The cruise control is an automatic speed control system that maintains a desired
 The vehicle speed must be greater than 36 km/h to engage the cruise control. This feature is especially useful for motorway driving.
 
 
-### CAUTION
-`ssangyong_actyon_en_4def149e` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:443 | doc_type:owners_manual
-The cruise control system is a supplementary system, which helps the driver to drive the vehicle at a desired speed without using the accelerator pedal under the trafic condition where the vehicle-tovehicle distance meets the legal requirement.
-
-![](images/df6cd5dcc21c5eff986965260420b5720a1428fa6bbaf70eaca7c38d8b8c8e8b.webp)
+> ⚠️ **Внимание:** The cruise control system is a supplementary system, which helps the driver to drive the vehicle at a desired speed without using the accelerator pedal under the trafic condition where the vehicle-tovehicle distance meets the legal requirement.
+>
+> ![](images/df6cd5dcc21c5eff986965260420b5720a1428fa6bbaf70eaca7c38d8b8c8e8b.webp)
 
 
 ### 1) Traffic Conditions for Using Cruise Control
-`ssangyong_actyon_en_c9639b86` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:444 | doc_type:owners_manual
 Use the cruise control system only when the trafic is not jammed, driving on motorways or highways where there is no sudden change in the driving condition due to traffic lights, pedestrian, etc.
 
 
-### WARNING
-`ssangyong_actyon_en_298af1aa` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:445 | doc_type:owners_manual
-Improper use of the cruise control could be dangerous.
-
-- Do not use on winding roads.yy   
-- Do not use in heavy trafic.yy   
-- Do not use on slippery, wet roads.   
-This could result in a loss of control, colision, and/or personal injuries.
+> ⚠️ **Внимание:** Improper use of the cruise control could be dangerous.
+>
+> - Do not use on winding roads.yy   
+> - Do not use in heavy trafic.yy   
+> - Do not use on slippery, wet roads.   
+> This could result in a loss of control, colision, and/or personal injuries.
 
 
-### NOTE
-`ssangyong_actyon_en_5d392caf` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:446 | doc_type:owners_manual
-The described speed value may vary slightly depending on the road conditions.
-
-![](images/f13df24a2848f6dcdf974c259b39913dfc9dc7ad5072519cbd83226371c61e29.webp)
+> ℹ️ **Примечание:** The described speed value may vary slightly depending on the road conditions.
+>
+> ![](images/f13df24a2848f6dcdf974c259b39913dfc9dc7ad5072519cbd83226371c61e29.webp)
 
 
 ### 2. HOW TO OPERATE CRUISE CONTROL SWITCH
-`ssangyong_actyon_en_8759106a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:447 | doc_type:owners_manual
 1) Setting a Desired Speed
 
 ![](images/dbd941f2fad9872de97f1170badacf08653f3bd1dd61b92435ea17fb82dbf313.webp)
@@ -27752,33 +26492,27 @@ The described speed value may vary slightly depending on the road conditions.
 4. And you can set to other vehicle speeds again with above steps after an accelerator pedal intervention during the cruise control running.
 
 
-### CAUTION
-`ssangyong_actyon_en_f9e60548` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:448 | doc_type:owners_manual
-Never use the cruise control system until you get used to it.   
-Improper use or not fully aware of this function could result in collision and/or personal injuries.
+> ⚠️ **Внимание:** Never use the cruise control system until you get used to it.
+> Improper use or not fully aware of this function could result in collision and/or personal injuries.
 
 
 ### (1) Manual transmission equipped vehicle
-`ssangyong_actyon_en_aa7d3418` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:449 | doc_type:owners_manual
 The cruise control is only available when the 3rd or higher speed gear is engaged.
 
 ![](images/98f86e9dab25ba82890e99adad3d6051ac7cb19e7ef045d7fc3aeb51fa601dfe.webp)
 
 
 ### 2) Accelerating with the Cruise Control System
-`ssangyong_actyon_en_8ffc611b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:450 | doc_type:owners_manual
 ![](images/dfd03a5989553cab9663b0ee37e2c5f1477a46e0616ca2719eb5feac05848207.webp)
 
 
 ### (1) While the cruise control system is running
-`ssangyong_actyon_en_7c49896e` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:451 | doc_type:owners_manual
 1. Push up the ACCEL switch of the cruise control lever and hold it until the desired speed is reached without an accelerator pedal intervention.
 
 2. When the desired speed is reached, release the lever.
 
 
 ### (2) While the cruise control system is not running
-`ssangyong_actyon_en_d2cd29af` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:452 | doc_type:owners_manual
 1. Accelerate using the accelerator pedal over 36 km/h.   
 2. Push up the ACCEL switch of the cruise control lever and hold it.   
 3. And then release the accelerator pedal slowly.   
@@ -27786,7 +26520,6 @@ The cruise control is only available when the 3rd or higher speed gear is engage
 
 
 ### (3) Tap-up while the cruise control system is running
-`ssangyong_actyon_en_b27d4ac2` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:453 | doc_type:owners_manual
 1. Push up the ACCEL switch of the cruise control lever less than 0.5 second per one switching while the cruise control system is running. This is a tap-up switching.
 
 2. When you operate a tap-up switching, the vehicle is accelerated by 1.3 km/h over the previous set speed.
@@ -27797,19 +26530,16 @@ The cruise control is only available when the 3rd or higher speed gear is engage
 
 
 ### 3) Decelerating with the Cruise Control System
-`ssangyong_actyon_en_c2d6076c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:454 | doc_type:owners_manual
 ![](images/d97a3e3affa6f4864b96d4a62d0ee52168f04ea0cda2f6471761ef631f9ea71e.webp)
 
 
 ### (1) While the cruise control system is running
-`ssangyong_actyon_en_3ddd73ad` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:455 | doc_type:owners_manual
 1. Push down the DECEL switch of the cruise control lever and hold it until the desired speed is reached without a brake pedal intervention. But the cruise control system cannot maintain the cruise function at less than 34 km/h.
 
 2. When the desired speed is reached, release the lever.
 
 
 ### (2) When the cruise control system is not running
-`ssangyong_actyon_en_41fc211d` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:456 | doc_type:owners_manual
 1. Push down the DECEL switch of the cruise control lever and hold it.
 
 2. And then release the accelerator pedal slowly.
@@ -27818,7 +26548,6 @@ The cruise control is only available when the 3rd or higher speed gear is engage
 
 
 ### (3) Tap-down while the cruise control system is running
-`ssangyong_actyon_en_400311eb` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:457 | doc_type:owners_manual
 1. Push down the DECEL switch of the cruise control lever lessthan 0.5 second per one switching while the cruise control system is running. This is a tap-down switching.
 
 2. When you operate a tap-down switching, the vehicle is decelerated by 1.0 km/h below the previous set speed.
@@ -27829,21 +26558,17 @@ The cruise control is only available when the 3rd or higher speed gear is engage
 
 
 ### 4) Recovery of Set Speed (RESUME)
-`ssangyong_actyon_en_f03fdd87` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:458 | doc_type:owners_manual
 ![](images/c114877aa65d56b479408d0c2693315c9361e6d2eea14fb2910281153ee38ad2.webp)
 
 Even if the cruise control is cancelled, the previous set cruise speed can be recovered by pushing (Type A) or pulling (Type B) toward the cruise control lever when the current vehicle speed is over 36 km/h without an acceleration intervention. But if you turn off the ignition switch, the memorized set speed is cleared and you cannot recover the previous set speed.
 
 
-### CAUTION
-`ssangyong_actyon_en_77a6c1be` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:459 | doc_type:owners_manual
-The resume position should only be used if the driver is fully aware of this speed and wishes to resume this particular speed.
-
-![](images/1420b0f2cb7e1c71974d9b3fec7bb47cea781835f4da73dd959c8019dd8cabac.webp)
+> ⚠️ **Внимание:** The resume position should only be used if the driver is fully aware of this speed and wishes to resume this particular speed.
+>
+> ![](images/1420b0f2cb7e1c71974d9b3fec7bb47cea781835f4da73dd959c8019dd8cabac.webp)
 
 
 ### 5) Normal Cancellation of the Cruise Control
-`ssangyong_actyon_en_1c9e8dc4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:460 | doc_type:owners_manual
 ![](images/9e256c40d2b79c50e79782e9b303c80e39daf196f3b83bfef630a772d7571503.webp)
 
 The cruise control system will be canceled when one or more items of the following conditions are applied;
@@ -27856,15 +26581,12 @@ The cruise control system will be canceled when one or more items of the followi
 6. When using the clutch in order to shift (M/T only). And the cruise control system can be operated again in driving state.
 
 
-### CAUTION
-`ssangyong_actyon_en_a1a15e03` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:461 | doc_type:owners_manual
-Keep the main cruise control switch in the neutral position when not using the cruise control.
-
-![](images/2f310398f614680a2d33e08434f5f471768082d291183160fd3301f796c86db2.webp)
+> ⚠️ **Внимание:** Keep the main cruise control switch in the neutral position when not using the cruise control.
+>
+> ![](images/2f310398f614680a2d33e08434f5f471768082d291183160fd3301f796c86db2.webp)
 
 
 ### (1) Abnormal Cancellation of the Cruise Control
-`ssangyong_actyon_en_77d2d39d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:462 | doc_type:owners_manual
 1. When the rapid deceleration is applied without braking.
 
 2. When the rapid acceleration is applied without acceleration pedal intervention.   
@@ -27874,37 +26596,31 @@ Keep the main cruise control switch in the neutral position when not using the c
 And the cruise control system cannot be operated again in driving state. In this case, you should stop the vehicle, and turn offthe ignition switch and then turn it on again. After you do that, you can use the cruise control system again. But if the cruise control system isn't recovered, you should contact a Ssangyong Dealer for diagnosis of the cruise control system.
 
 
-### CAUTION
-`ssangyong_actyon_en_8fb40774` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:463 | doc_type:owners_manual
--Abnormal changes of the gear selector lever can damage the yyengine. Do not move the gear shift lever to Neutral while driving at the set speed. Automatic transmission damage may result. The speed that has been set may not be maintained on uphill yyor downhillslopes.   
--The speed may drop to less than the set speed on a steep uphill yygrade. The accelerator must be   
-- used if you want to maintain that speed. The speed may increase to more than the set speed on a steep yydownhil grade. When the speed   
--increases too much, turn off the cruise control.
+> ⚠️ **Внимание:** -Abnormal changes of the gear selector lever can damage the yyengine. Do not move the gear shift lever to Neutral while driving at the set speed. Automatic transmission damage may result. The speed that has been set may not be maintained on uphill yyor downhillslopes.
+> -The speed may drop to less than the set speed on a steep uphill yygrade. The accelerator must be   
+> - used if you want to maintain that speed. The speed may increase to more than the set speed on a steep yydownhil grade. When the speed   
+> -increases too much, turn off the cruise control.
 
 
 ### (2) Using the Cruise Control on Hills
-`ssangyong_actyon_en_894472e3` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:464 | doc_type:owners_manual
 How well the cruise control works on hils depends on the speed, load, and the steepness of the hil. When going up steep hils, you may have to depress the accelerator pedal to maintain your speed. When going downhil, you may have to brake or shift to a lower gear to keep your speed down. Applying the brake takes you out of the cruise control.
 
 ![](images/981216a551c48fabbea34b180caa24f9bf6cc8bd591adbd49ee60ea38542e7bd.webp)
 
 
 ### 1. SPECIFICATION
-`ssangyong_actyon_en_60af685d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:465 | doc_type:owners_manual
 ![](images/9970fc7ba4e8c1f9402602a16134680f0a85ae961039bb783fecddedc306721a.webp)
 
 ![](images/023977b6bbdd7f0373aea133578bf1a95bd52e2cca82ce11d30a45e3f88873b8.webp)
 
 
 ### 1) Overview
-`ssangyong_actyon_en_fdee85ac` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:466 | doc_type:owners_manual
 The EGR (Electric-Exhaust Gas Recirculation) valve reduces the NOx emission level by recirculating some of the exhaust gas to the intake system.   
 To meet Euro-V regulation, the capacity and response rate of E-EGR valve in D20DTR engine have been greatly improved. The EGR cooler with high capacity reduces the Nox, and the bypass valve reduces the CO and HC due to EGR gas before warming up.   
 Also, the engine ECU adjusts the E-EGR opening by using the air mass signal through HFM sensor. If the exhaust gas gets into the intake manifold when the EGR valve is open, the amount of fresh air through HFM sensor should be decresed.
 
 
 ### Benefits of E-EGR valve
-`ssangyong_actyon_en_9b994748` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:467 | doc_type:owners_manual
 -Improved accuracy and response through electric control -Feedback function (Potentiometer)   
 -Preventing chattering of EGR valve and improved durability - Self-cleaning function
 
@@ -27912,7 +26628,6 @@ Also, the engine ECU adjusts the E-EGR opening by using the air mass signal thro
 
 
 ### 2) Location and Components
-`ssangyong_actyon_en_240ae44e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:468 | doc_type:owners_manual
 ![](images/0d1927a941b224f962ada1452f51efdc171f52606e24072615a96f02f21cde59.webp)
 
 ![](images/dbe3911337dc8a842cbc7e24b3e1b42fc4d0ed7604d377b0f1bf24370c7a6677.webp)
@@ -27923,7 +26638,6 @@ Also, the engine ECU adjusts the E-EGR opening by using the air mass signal thro
 
 
 ### 2. OPERATING PROCESS
-`ssangyong_actyon_en_b03c46fa` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:469 | doc_type:owners_manual
 1) Schematic Diagram
 
 ![](images/c11f8173a3d20fba41835d6a6da7b0c433ead55e23b23a2e15e3e952dcd98247.webp)
@@ -27932,14 +26646,12 @@ Also, the engine ECU adjusts the E-EGR opening by using the air mass signal thro
 
 
 ### 2) Input/Output Devices
-`ssangyong_actyon_en_8f09290e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:470 | doc_type:owners_manual
 ![](images/176295bd772cb19a173ed6922b91464366db50af75b0a461491262dcd3646c93.webp)
 
 ![](images/f3f9822cf7d97752a0f1077565ea2897013007412294c66466760927bd974a42.webp)
 
 
 ### 3) Control Logic
-`ssangyong_actyon_en_a2b3ba80` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:471 | doc_type:owners_manual
 The EGR system controls the EGR amount based on the map values shown below:
 
 % Main map value: Intake air volume % Auxiliary map value:
@@ -27954,12 +26666,10 @@ The engine ECU calculates the EGR amount by adding main map value (intake air vo
 
 
 ### (1) Operating conditions
-`ssangyong_actyon_en_257853f3` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:472 | doc_type:owners_manual
 - Intake air temperature: between –10 and 50°C - Atmospheric pressure: 0.92 bar or more - Engine coolant temperature: between 0 and 100°C -When there is no fault code related to EGR
 
 
 ### (2) Shut off conditions
-`ssangyong_actyon_en_996956bb` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:473 | doc_type:owners_manual
 -Abrupt acceleration: with engine speed of 2600 rpm or more   
 -When the engine is idling for more than 1 minute   
 - Vehicle speed: 100 km/h or more   
@@ -27971,14 +26681,12 @@ The engine ECU calculates the EGR amount by adding main map value (intake air vo
 
 
 ### 1. SPECIFICATION
-`ssangyong_actyon_en_7cf11f4d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:474 | doc_type:owners_manual
 ![](images/ed0dbc8a315330ce8fbfb3313f085751e8cc4449332dfb2c7cf29e1a868e5097.webp)
 
 ![](images/6cf5c57986e9e2161e497be206fa73b65b05f7c8809839dea20bfbdbb5e9e23a.webp)
 
 
 ### 2. CAUTIONS
-`ssangyong_actyon_en_d299da42` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:475 | doc_type:owners_manual
 Standard pattern of soot accumulation
 
 (1) Abnormal Soot Accumulation
@@ -27987,12 +26695,10 @@ Standard pattern of soot accumulation
 
 
 ### (2) Normal Soot Combustion
-`ssangyong_actyon_en_3bc093fc` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:476 | doc_type:owners_manual
 ![](images/1fc81490e31104d04b278de85dadb9c4109a8035e1b13174abbba9a8de0c453a.webp)
 
 
 ### Cautions to protect the catalyst filter
-`ssangyong_actyon_en_bcb6cb59` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:477 | doc_type:owners_manual
 - Use the designated fuel only.   
 -Observe the recommended service intervals of engine oil.   
 Check the engine oil level frequently and add if necessary.   
@@ -28008,7 +26714,6 @@ Do not use improper engine oil or fuel additives.
 
 
 ### CDPF regeneration process (warning lamp NOT iluminated)
-`ssangyong_actyon_en_ce623891` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:478 | doc_type:owners_manual
 ![](images/af08d0c02c708d6b4efbecd5d342ba533c140fd523c3f8cbc53474e6228347d6.webp)
 
 The CDPF system enters the regeneration mode when the driving distance becomes approx. 600 to 1,200 km (may differ by the driving condition and driving style). Then, the engine ECU performs the CDPF regeneration operation. However, the driver is not informed with this operation by any engine warning lamp or vehicle signal, so he/she may not detect this operation. The control logic at the post-injection dur-ing the regeneration process is to increase the fuel injection volume and control the intake air volume (by the throttle body) in order to increase the temperature of the exhaust gas. The driver may not feel any particular difference from the vehicle.
@@ -28026,7 +26731,6 @@ Overload of CDPF (warning lamp blinking) Blinking
 
 
 ### 1. OVERVIEW
-`ssangyong_actyon_en_01fc1d3f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:479 | doc_type:owners_manual
 The DOC (Diesel Oxidation Catalyst) generates CO2 and H2O which are harmless through the oxidation process of CO and HC. And the DPF (Diesel Particulate Filter) collects PM (Particle Matter) and is regenerated to reduce the quantity of particulates, HC and CO. But there is a limitation in reducing the emission of exhaust gas for each system, so the CDPF which combines these two system is applied.
 
 ![](images/311908e5adc5e4c42a88ce043e7324ac604107f6f6ce937f7de27c6652af02f2.webp)
@@ -28041,7 +26745,6 @@ The DOC (Diesel Oxidation Catalyst) generates CO2 and H2O which are harmless thr
 
 
 ### 3. INPUT/OUTPUT DEVICES
-`ssangyong_actyon_en_ed0a66d8` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:480 | doc_type:owners_manual
 ![](images/2731a4fda235ca3b98817a991ae99b6f0529f57c65f48b08289b59306a134543.webp)
 
 1. Front temperature sensor: This sensor is installed at the inlet of DOC and detects whether the DOC can burn (oxidize) the post-injected fuel or not.   
@@ -28055,7 +26758,6 @@ The DOC (Diesel Oxidation Catalyst) generates CO2 and H2O which are harmless thr
 
 
 ### 4. POST-INJECTION AND AIR MASS CONTROL
-`ssangyong_actyon_en_0e945745` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:481 | doc_type:owners_manual
 A DPS (Differential Pressure Sensor) measures the pressure difference between before and after the CDPF and detects whether the soot is collected in the CDPF or not. If PM is collected in the CDPF (In this case the pressure difference between before and after the CDPF exceeds the specified value. Normall, the system sends the signal when the driving distance becomes approx. 600 to 1,200 km), the temperature of exhaust gas is increased and the post-injection is started for regeneration. The amount of fuel post-injection is controlled by the exhaust gas temperature measured by the rear temperature sensor. If the temperature is less than 600 C, the amount of post-injection is increased to increase the regeneration temperature. Otherwise, the fuel injection amount is decreased or the fuel is not injected.
 
 When the engine is running with low load, the intake air amount is also controlled as wellas fuel injection amount. This function is used to increaser the combustion temperature by increasing the amount of fuel post-injection with the lowest air amount within the specified control logic.
@@ -28068,7 +26770,6 @@ Front temperature sensor HFM sensor Rear temperature sensor Intake air mass V ў
 
 
 ### 5. OPERATING PROCESS
-`ssangyong_actyon_en_9a224d1e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:482 | doc_type:owners_manual
 [Configuration and principle of operation]
 
 ![](images/da5a08c80ec24c1439e8c84260536f9e399d8f0b7f925ca81d283c59b5258c92.webp)
@@ -28092,7 +26793,6 @@ between 450 and 500°C. exhaust gas temperature and burns the collected PM at ap
 
 
 ### 1) Oxidation of DOC
-`ssangyong_actyon_en_179a84ef` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:483 | doc_type:owners_manual
 The DOC oxidizes HC and CO of the exhaust gas in the two-way catalytic converter at 180 C or more, and performs best at the temperature between 400 and 500'C. The front EGT sensor detects whether the DOC can burn (oxidize) the post-injected fuel or not, and sends the signal to the ECU to maintain the DOC operating temperature between 300 and 500 C. The DOC reduces CO and HC of the exhaust gas by redox reaction and also reduces small amount of PM.
 
 ![](images/76310b65e041dd403e1f07b998fea89739dde487ed07565096d9c55c0bb7510b.webp)
@@ -28109,22 +26809,18 @@ The DOC oxidizes HC and CO of the exhaust gas in the two-way catalytic converter
 
 
 ### 2) Collecting PM of DPF
-`ssangyong_actyon_en_e8cef99a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:484 | doc_type:owners_manual
 There is a filter installed in the DPF and the PM filtered by this filter is burned (regeneration) when the temperature of exhaust gas is increased due to post-injection. The filter has a honeycomb-like structure to capture the particulate matter and the inlet and outlet of each channel are closed alternatively. Once the exhaust gas enters to the inlet of a channel, it is released from the outlet of the adjacent channel through the porous wall because of the closed outlet of the first channel, and the PM is collected in the first channel.
 
 ![](images/5b5a43015df2b890a84c9c2bfb62cbc2676d3c02cf7a9d08358a9dd3efca238a.webp)  
 [Collecting PM of CDPF]
 
 
-### NOTE
-`ssangyong_actyon_en_d4f42120` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:485 | doc_type:owners_manual
-Normally, when the driving distance becomes approx. 600 to 1,200 km, enough amount of soot to be burned is filtered and accumulated in the CDPF. The ECU increases the amount of fuel postinjection to increase the temperature of the exhaust gas up to 600°C, so that the soot is burned. The soot is burned for 15 to 20 minutes (may differ by conditions).
-
-![](images/59bbec22dee2a0d91e2ef401c66d916e4fae889dbd4b37fcc46575cfc407c1bf.webp)
+> ℹ️ **Примечание:** Normally, when the driving distance becomes approx. 600 to 1,200 km, enough amount of soot to be burned is filtered and accumulated in the CDPF. The ECU increases the amount of fuel postinjection to increase the temperature of the exhaust gas up to 600°C, so that the soot is burned. The soot is burned for 15 to 20 minutes (may differ by conditions).
+>
+> ![](images/59bbec22dee2a0d91e2ef401c66d916e4fae889dbd4b37fcc46575cfc407c1bf.webp)
 
 
 ### 3) PM Regeneration of DPF
-`ssangyong_actyon_en_2e2d6c84` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:486 | doc_type:owners_manual
 The differential pressure sensor installed in the DPF measures the pressure values of inlet and outlet of CDPF. And the amount of the PM collected in the fiter is calculated based on the exhaust temperature, intake air mass flow, booster pressure, etc. The regeneration is started when the amount of the collected PM is 28 g or more. The ECU commands post-injection to increase the temperature of CDPF to 600'C.
 
 1. When the amount of the collected PM is not enough: The DPF works as a filter.
@@ -28139,7 +26835,6 @@ The differential pressure sensor installed in the DPF measures the pressure valu
 
 
 ### 4) Fuel Injection During CDPF Regeneration
-`ssangyong_actyon_en_4eac5fd7` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:487 | doc_type:owners_manual
 ![](images/c9d37f7bf894155aec71f4377edfcf4a410dbbe2d28789bf222a4bc3f1214a7f.webp)
 
 ![](images/bcf803dd6c72ea65fbebb23fc21b9be02b8f30d081c66cf6831e5436b6ffc085.webp)
@@ -28148,21 +26843,18 @@ The differential pressure sensor installed in the DPF measures the pressure valu
 
 
 ### 6. ELECTRIC CIRCUIT DIAGRAM
-`ssangyong_actyon_en_a298a3b7` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:488 | doc_type:owners_manual
 ![](images/2241802d71610f2a969f316acb896ff230e09aa213fa959a821319666e37d046.webp)
 
 ![](images/9ce6da774e2da5482c799848d94e0fa4acee8cab3d75038d9675b444ed43727c.webp)
 
 
 ### 1. ENGINE DATA LIST
-`ssangyong_actyon_en_5f053d4f` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:489 | doc_type:owners_manual
 ![](images/19a04a58db51aa55cf645f273119ce0e18b94682084a45e9ddd5e41e3e339aac.webp)
 
 ![](images/c92a66510efbfc9c01413e1600e70f725df0e9729ffceb7a581ba688210fe6b1.webp)
 
 
 ### 1. MAJOR COMPONENTS
-`ssangyong_actyon_en_77ffcd11` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:490 | doc_type:owners_manual
 ![](images/1628e5b4a75a38a68b7a5a7cc8c1863aa36f45adb5afe68b97a04a6c4d72b036.webp)
 
 ENGINE CONTROLACTYON 2012.12
@@ -28175,7 +26867,6 @@ ENGINE CONTROLACTYON 2012.12
 
 
 ### 2. SYSTEM OPERATION
-`ssangyong_actyon_en_fa32e025` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:491 | doc_type:owners_manual
 1) Input/Output of ECU (1) ECU Block diagram
 
 Input Control Output IG“ON"B+ START signal Start motor control   
@@ -28188,7 +26879,6 @@ Exhaust gas temperature sensor Self diagnosis Fuel temperature Other CAN info. W
 
 
 ### (2) Components for ECU Input
-`ssangyong_actyon_en_65ee9ad7` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:492 | doc_type:owners_manual
 -Auto cruise switch - Rear right wheel speed (without ABS) - Refrigerant pressuré sensor - Clutch pedal signal - Blower switch signal - Brake pedal signal
 
 ![](images/b6d2bbbac6f4cda9e9c5aaf176dba524d421805c0223143c795cd0d3a2012fe2.webp)
@@ -28197,7 +26887,6 @@ Exhaust gas temperature sensor Self diagnosis Fuel temperature Other CAN info. W
 
 
 ### (3) Components for ECU Output
-`ssangyong_actyon_en_fc0a4f5c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:493 | doc_type:owners_manual
 ![](images/ff43918132ec0c00bbe6cb7065181e0b9257240608de83848ecde7a1bf5a6cae.webp)
 
 ![](images/6b9d9f73843e048df863496018e724db12c249c87a49c2b0ba592da8d2d6ebea.webp)
@@ -28208,7 +26897,6 @@ Exhaust gas temperature sensor Self diagnosis Fuel temperature Other CAN info. W
 
 
 ### a. ECU Function
-`ssangyong_actyon_en_e3d2dd84` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:494 | doc_type:owners_manual
 ECU receives and analyzes signals from various sensors and then modifies those signals into permissible voltage levels and analyzes to control respective actuators.   
 ECU microprocessor calculates injection period and injection timing proper for engine piston speed and crankshaft angle based on input data and stored specific map to control the engine power and emission gas.   
 Output signal of the ECU microprocessor drives pressure control valve to control the rail pressure and activates injector solenoid valve to control the fuel injection period and injection timing; so controls various actuators in response to engine changes. Auxiliary function of ECU has adopted to reduce emission gas, improve fuel economy and enhance safety, comforts and conveniences. For example, there are EGR, booster pressure control, autocruise (export only) and immobilizer and adopted CAN communication to exchange data among electrical systems (automatic T/M and brake system) in the vehicle fluently. And Scanner can be used to diagnose vehicle status and defectives.   
@@ -28217,7 +26905,6 @@ To control the fuel volume precisely under repeated injections, high current sho
 
 
 ### b. Control Function
-`ssangyong_actyon_en_403f5f0b` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:495 | doc_type:owners_manual
 - Controls by operating stages To make optimum combustion under every operating stage, ECU should calculate proper injection volume in each stage by considering various factors.   
 -Starting injection volume control During initial starting, injecting fuel volume will be calculated by function of temperature and engine cranking speed. Starting injection continues from when the ignition switch is turned to ignition position to till the engine reaches to allowable minimum speed.   
 - Driving mode control If the vehicle runs normall, fuel injection volume wil be calculated by accelerator pedal travel and engine rpm and the drive map wil be used to match the drivers inputs with optimum engine power.
@@ -28226,7 +26913,6 @@ To control the fuel volume precisely under repeated injections, high current sho
 
 
 ### a. Multi injection
-`ssangyong_actyon_en_4bd8e74d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:496 | doc_type:owners_manual
 Fuel injection process consists of 3 steps: Main Injection, Pilot Injection, Post Injection
 
 ![](images/4cc290bec3b22761d7e50f888319a6089a3d812cd53e81a5147ba7266edfcb68.webp)
@@ -28235,33 +26921,28 @@ Fuel injection process consists of 3 steps: Main Injection, Pilot Injection, Pos
 
 
 ### Pilot injection
-`ssangyong_actyon_en_fa762056` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:497 | doc_type:owners_manual
 ![](images/d68b34d79a1d31138b407f16ef3bba53b7acd5ae489d48a3d5e2f27b356105cb.webp)
 
 
 ### Multi injection
-`ssangyong_actyon_en_25931208` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:498 | doc_type:owners_manual
 ![](images/53cc2ce011f590870ab5017dc64090810ce1f50c17d56995dd798b2f02ed1dbf.webp)
 
 ![](images/65ae409f3e42f32a5de8a2a4dbc0813d8e90983611996328e034afc953401e5d.webp)
 
 
 ### b. Pilot Injection
-`ssangyong_actyon_en_d7f366cf` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:499 | doc_type:owners_manual
 Injection before main injection. Consists of 1st and 2nd pilot injection, and Pre-injection Inject a smallamount of fuel before main injection to make the combustion smooth. Also, called as preliminary injection or ignition injection. This helps to reduce Nox, engine noise and vibration, and to stabilize the idlling.
 
 The injected fuel volume is changed and stopped according to the coolant temperature and intake air volume.
 
 
 ### Stop conditions
-`ssangyong_actyon_en_92b25592` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:500 | doc_type:owners_manual
 -Pilot injection is much earlier than main injection due to higher engine rpm   
 -Too small injection volume (insufficient injection pressure, insuficient fuel injection volume in main injection, engine braking)   
 -System failure (fuel system, engine control system)
 
 
 ### Combustion pressure characteristic curve for pilot injection
-`ssangyong_actyon_en_82f5c5e4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:501 | doc_type:owners_manual
 ![](images/ea1577c27ff330db8923bf37f76a8764b0ae554c76e817fa8553964d75b04b76.webp)
 
 1. Pilot injection   
@@ -28273,20 +26954,17 @@ The injected fuel volume is changed and stopped according to the coolant tempera
 
 
 ### c. Main Injection
-`ssangyong_actyon_en_27b19dea` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:502 | doc_type:owners_manual
 The power of the vehicle is determined by the main fuel injection volume.   
 Main injection calculates the fuel volume based on pilot injection. The calculation uses the value for accelerator pedal position, engine rpm, coolant temperature, intake air temperature, boost pressure, boost temperature and atmospheric pressure etc.
 
 
 ### d. Post Injection
-`ssangyong_actyon_en_865cc766` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:503 | doc_type:owners_manual
 Injection after main injection. Consists of After injection, Post 1, Post 2 injection. Post injection reduces PM and smoke from exhaust gas. No actual output is generated during these injections, instead, fuelis injected to the unburned gas after main injection to enable fuel activation. The PM amount in the emission and smoke can be reduced through these processes. Only up to 5 types of injections can be performed within 1 cycle. If these 7 injections are all performed, fuel economy and emission performance becomes poor.
 
 ![](images/a5b605b82fef9a7452bc91b964d18c8de5fe02004e7b6de1b205afbadc086e15.webp)
 
 
 ### (3) Fuel Pressure Control
-`ssangyong_actyon_en_3698ff3c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:504 | doc_type:owners_manual
 Fuel Pressure
 
 Fuel pressure is controlled by IMV opening according to the calculated value by ECU.
@@ -28309,7 +26987,6 @@ fthe pressure is higher than the demand, current is increased so that the fuel s
 
 
 ### (4) Injection Timing Control
-`ssangyong_actyon_en_ae82b1fc` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:505 | doc_type:owners_manual
 Injection timing is determined by the conditions below.
 
 1. Coolant temperature Hot engine - Retarded to reduce Nox Cold engine - Advanced to optimize the combustion
@@ -28324,14 +27001,12 @@ Injection timing is determined by the conditions below.
 
 
 ### Pilot injection timing control
-`ssangyong_actyon_en_58cb9c51` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:506 | doc_type:owners_manual
 The pilot injection timing is determined as a function of the engine speed and of the total flow. The elements are:
 
 -A first correction is made according to the air and coolant temperatures. This correction allows the pilot injection timing to be adapted to the operating temperature of the engine. -A second correction is made according to the atmospheric pressure. This correction is used to adapt the pilot injection timing as a function of the atmospheric pressure and therefore the altitude.
 
 
 ### Main injection timing control
-`ssangyong_actyon_en_8b39a6ef` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:507 | doc_type:owners_manual
 The pulse necessary for the main injection is determined as a function of the engine speed and of the injected flow.
 
 The elements are:
@@ -28352,7 +27027,6 @@ When the EGR rate increases, the injection timing advance must in fact be increa
 
 
 ### A. Main Flow Control
-`ssangyong_actyon_en_ae6fd968` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:508 | doc_type:owners_manual
 The main flow represents the amount of fuel injected into the cylinder during the main injection. The pilot flow represents the amount of fuel injected during the pilot injection.
 
 The total fuel injected during 1 cycle (main flow + pilot flow) is determined in the following manner.
@@ -28373,14 +27047,12 @@ A switch makes it possible to change over from the supercharge fuel to the total
 
 
 ### B. Driver Demand
-`ssangyong_actyon_en_0105c424` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:509 | doc_type:owners_manual
 The driver demand is the translation of the pedal position into the fuel demand. It is calculated as a function of the pedal position and of the engine speed. The driver demand is filtered in order to limit the hesitations caused by rapid changes of the pedal position. A mapping determines the maximum fuel which can be injected as a function of the driver demand and the rail pressure. Since the flow is proportional to the injection time and to the square root of the injection pressure, i is necessary to limit the flow according to the pressure in order to avoid extending the injection for too long into the engine cycle. The system compares the driver demand with this limit and chooses the smaller of the 2 values. The driver demand is then corrected according to the coolant temperature. This correction is added to the driver demand.
 
 ![](images/90079bbbb0e2ea42ece9a5f1436ba111d40c6d5132ab44601fab29192d6baf2d.webp)
 
 
 ### C. Idle Speed Controller
-`ssangyong_actyon_en_c08e36e6` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:510 | doc_type:owners_manual
 The idle speed controller consists of 2 principal modules:
 
 -The first module determines the required idle speed according to: \* The operating conditions of the engine (coolant temperature, gear engaged) \* Any activation of the electrical consumers (power steering, air conditioning, others) \* The battery voltage \* The presence of any faults liable to interface with the rail pressure control or the injection control. In this case, increase the idle speed to prevent the engine from stalling.   
@@ -28388,7 +27060,6 @@ The idle speed controller consists of 2 principal modules:
 
 
 ### D. Flow Limitation
-`ssangyong_actyon_en_6d968472` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:511 | doc_type:owners_manual
 The flow limitation strategy is based on the fllowing strategies:
 
 -The flow limitation depending on the filling of the engine with air is determined according to the engine speed and the air flow. This limitation allows smoke emissions to be reduced during stabilized running.   
@@ -28403,14 +27074,12 @@ The correction is determined according to the coolant temperature, the engine sp
 
 
 ### E. Superchager Flow Demand
-`ssangyong_actyon_en_311371c9` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:512 | doc_type:owners_manual
 The supercharge flow is calculated according to the engine speed and the coolant temperature. A correction depending on the air temperature and the atmospheric pressure is made in order to increase the supercharge flow during cold starts. It is possible to alter the supercharge flow value by adding a flow offset with the aid of the diagnostic tool
 
 ![](images/12012f4d95083c01f275ca99250bd75756c553bfd2a68e07f0c33bd798cd3930.webp)
 
 
 ### F. Pilot Flow Control
-`ssangyong_actyon_en_331bca76` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:513 | doc_type:owners_manual
 The pilot flow represents the amount of fuel injected into the cylinder during the pilot injection. This amount is determined according to the engine speed and the total flow.
 
 -A first correction is made according to the air and water temperature. This correction allows the pilot flow to be adapted to the operating temperature of the engine. When the engine is warm, the ignition time decreases because the end-of-compression temperature is higher. The pilot flow can therefore be reduced because there is obviously less combustion noise when the engine is warm.   
@@ -28420,7 +27089,6 @@ During starting, the pilot flow is determined on the basis of the engine speed a
 
 
 ### Balancing of the point to point flows
-`ssangyong_actyon_en_32279e44` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:514 | doc_type:owners_manual
 The pulse of each injector is corrected according to the difference in instantaneous speed measured between 2 successive injectors.
 
 The instantaneous speeds on two successive injections are first calculated.   
@@ -28430,26 +27098,22 @@ For each injector, this time is calculated according to the initial offset of th
 
 
 ### Detection of an injector which has stuck closed
-`ssangyong_actyon_en_28499729` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:515 | doc_type:owners_manual
 The cylinder balancing strategy also allows the detection of an injector which has stuck closed. The difference in instantaneous speed between 2 successive injections then exceeds a predefined threshold. In this case, a fault is signaled by the system.
 
 ![](images/73e7d6c3fdfc5f431393d0895960b2044ee70e00a9e9254e5644572f341fb680.webp)
 
 
 ### (6) MDP Learning Control
-`ssangyong_actyon_en_7f91bc5d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:516 | doc_type:owners_manual
 ![](images/c2904197a5fdd3a5aacb966754b51b0b5d9187788841a5428612c27096226a5e.webp)
 
 MDP (Minimum Drive Pulse ) refers to the minimum power supply pulse for injection which the injector can perform. It is possible to control the fuel volume for each injector accurately through correct learning for the MDP value. The basic process of MDP learning is that the pulse slightly higher than MDP is supplied and then (b) the vibration generated from the cylinder is detected. The knock sensor detects the vibration from the engine after a small volume of fuel is injected. And the time interval between the points of injection and vibration is measured so that MDP can be learned. MDP learning is helpful to prevent engine vibration, high emission and power reduction through performing calibration for the old injectors. During MDP learning, a little vibration and noise can be occur for a while. This is because the fuel pressure is increased instantaneously and the exact injection value is not input, so that the exact engine vibration timing can be detected.
 
 
 ### A. MDP Learning
-`ssangyong_actyon_en_91616ac0` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:517 | doc_type:owners_manual
 When the pulse value that the injector starts injection is measured, i is called minimum drive pulse (MDP). Through MDP controls, can correct pilot injections effectively. Pilot injection volume is very small, 1 to 2 mm/str, so precise control of the injector can be dificult i it gets old. So there needs MDP learning to control the very small volume precisely through learning according to getting older injectors.
 
 
 ### B. Purpose of MDP learning
-`ssangyong_actyon_en_f473135b` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:518 | doc_type:owners_manual
 The system measures the pulse at initial injection to reduce the engine vibration.
 
 -Control the fuel injection volume precisely by MDP learning even for the old injector.   
@@ -28460,24 +27124,19 @@ The system measures the pulse at initial injection to reduce the engine vibratio
 
 
 ### C. Learning Conditions
-`ssangyong_actyon_en_9ffa9d25` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:519 | doc_type:owners_manual
 ![](images/bc07ee8b55ae11c3d4f9f8437a708dab4219256d8a613af3cade89ef5c531082.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_91112c31` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:520 | doc_type:owners_manual
--If MDP learning is not properly performed, engine vibration and injection could be occurred. - MDP learning should be performed after replacing ECU, reprogramming and replacing injecto
+> ⚠️ **Внимание:** -If MDP learning is not properly performed, engine vibration and injection could be occurred. - MDP learning should be performed after replacing ECU, reprogramming and replacing injecto
 
 
 ### D. Injector characteristic curve for rail pressure
-`ssangyong_actyon_en_4d34f572` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:521 | doc_type:owners_manual
 ![](images/80a192eded930b36b8502df06c3c0e5c4584541ef3563b00b86b78c6fb223727.webp)
 
 ![](images/3d2738c8cca903bba12ff36a6ec48de7afff03e03789635f5c4943d89770caba.webp)
 
 
 ### A. Resetting the pilot injection
-`ssangyong_actyon_en_2f8ebf2d` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:522 | doc_type:owners_manual
 The knocking control is used to reset the pilot injection flow in closed loop for each injector. This method allows the correction of any injector deviations over a period of time. The principle of use of the knocking control is based on the detection of the combustion noises.   
 The sensor is positioned in such a way as to receive the maximum signal for al the cylinders. The raw signals from the knock sensor are processed to obtain a variable which quantifies the intensity of the combustion. This variable, known as the ratio, consists of the ratio between the intensity of the background noise and the combustion noise.   
 1. A first window is used to establish the background noise level of the knocking control signal for each cylinder. This window must therefore be positioned at a moment when there cannot be any combustion.   
@@ -28493,7 +27152,6 @@ This is done periodicall under certain operating conditions. When the resetting 
 
 
 ### B. Detection of leaks in the cylinders
-`ssangyong_actyon_en_db11f08c` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:523 | doc_type:owners_manual
 The accelerometer is also used to detect any injector which may have stuck open. The detection principle is based on monitoring the ratio. If there is a leak in the cylinder, the accumulated fuel selfignites as soon as the temperature and pressure conditions are favorable (high engine speed, high load and small Ieak).
 
 This combustion is set ofat about 20 degrees before TDC and before main injection.
@@ -28510,7 +27168,6 @@ If the ratio becomes too high, the strategy initially restricts the pilot inject
 
 
 ### C. Detection of an accelerometer fault
-`ssangyong_actyon_en_4fdf5dc1` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:524 | doc_type:owners_manual
 This strategy permits the detection of a fault in the sensor or in the wiring loom connecting the sensor to the ECU.
 
 It is based on detection of the combustion. When the engine is idling, the detection window is set too low for the combustion caused by the main injection. If the ratio increases, this shows that the knock sensor is working properly, but otherwise a fault is signaled to indicate a sensor failure. The recovery modes associated with this fault consist of inhibition of the pilot injection and discharge through the injectors.
@@ -28519,26 +27176,22 @@ It is based on detection of the combustion. When the engine is idling, the detec
 
 
 ### Variable swirl valve
-`ssangyong_actyon_en_9d4149a4` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:525 | doc_type:owners_manual
 The strong swirl caused by intake air is important element for anti-locking function in diesel engine. The swirl control valve partially closes the intake port to generate the swirl according to the engine conditions. When the engine load is in low or medium range, the swir could not be generated because the air flow is slow. To generate strong swirl, there are two passages in intake manifold, and one of them has the valve to open and close the passage. When the valve closes the passage, the air flow through the another passage willbe faster, and the strong swirl wil be generated by the internal structure of the passage. This swirl makes the better mixture of air and fuel, eventually the combustion efficiency in combustion chamber could be improved. This provides the enhanced fuel consumption, power and EGR ratio.
 
 
 ### Components
-`ssangyong_actyon_en_40bf3847` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:526 | doc_type:owners_manual
 ![](images/856ce73a7b3507a48e7e8cf5043538888a61cae51b704bc67b4f6857996e0324.webp)
 
 ![](images/441338aca03a2ccf596a0454ac9e80a372dcf400c17d36e8b49e2a22ec235272.webp)
 
 
 ### B. Input/Output for variable swirl valve
-`ssangyong_actyon_en_cadb3f8a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:527 | doc_type:owners_manual
 ![](images/9fa2b6e32eb718d3ba604b3c26c35afcff53a4454f0d18954db552b2ef8cc666.webp)
 
 ![](images/c67054234fecbd9b163801acc29170176c69c9fed49bb4911f2e6ee36b24ba53.webp)
 
 
 ### C. Types of swirl
-`ssangyong_actyon_en_4a9148c8` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:528 | doc_type:owners_manual
 ![](images/0138b5605308fa77d720f8259fe9431407f3a9bf753ab43fcb5105761a92161a.webp)
 
 Swirl: One cylinder has two intake air ports, one is set horizontally and the other one is set vertically. Swirl is the horizontal air flows in cylinder due to the horizontal intake air ports.
@@ -28549,7 +27202,6 @@ Tumble: Tumble is the vertical air flows in cylinder due to the vertical intake 
 
 
 ### D. Swirl control
-`ssangyong_actyon_en_14096a46` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:529 | doc_type:owners_manual
 In DI type diesel engine, the liquefied fuel is injected into the cylinder directly. If the fuel is evenly distributed in short period, the combustion efficiency could be improved. To get this, there should be good air flow in cylinder. In general, there are two intake ports, swirl port and tangential port, in each cylinder. The swirl port generates the horizontal flow and the tangential port generates the longitudinal flow. In low/mid load range, the tabgential port is closed to increase the horizontal flow. Fast flow decreases the PM during combustion and increases the EGR ratio by better combustion efficiency.
 
 ![](images/7c84cb8d86de1888113a74b68879b08b6918df8b8c234b578e25e69dd5c7a401.webp)
@@ -28566,7 +27218,6 @@ The variable swirl valve actuator operates when turning the ignition switch ON/O
 
 
 ### E. Features
-`ssangyong_actyon_en_5f2ada46` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:531 | doc_type:owners_manual
 Swirl and air intake efficiency
 
 To generate the swir, the intake port should be serpentine design. This makes the resistance in air flow. The resistance in air flow in engine high speed decreases the intake efficiency. Eventuall, the engine power is also decreased, Thus, the swirl operation is deactivated in high speed range to increase the intake efficiency.
@@ -28577,28 +27228,24 @@ To reduce Nox, it is essential to increase EGR ratio. However, if EGR ratio is t
 
 
 ### F. Relationship between swirl and fuel injection pressure
-`ssangyong_actyon_en_15a0ec18` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:532 | doc_type:owners_manual
 The injector for DI engine uses the multi hole design. For this vehicle, there are 8 holes in injector.If the swirl is too strong, the injection angles might be overlapped and may cause the increased PM and insuficient engine power. Also, if the injection pressure is too high during strong swirl, the injection angles might be overlapped. Therefore, the system may decreases the fuel injection pressure when the swir is too strong.
 
 ![](images/6b0e7569a74f78bc9e05ca4f728652c86dc4d6219b06d9586b9a1d880d90ceb7.webp)
 
 
 ### B. Components
-`ssangyong_actyon_en_d2e9de4b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:534 | doc_type:owners_manual
 ![](images/eb152c6ab0b7f7574729efcc58d7746e1d9db72d2de3fe17b4d17547c72d9e85.webp)
 
 ![](images/fe052fcc6cce14802f548aeb6c9b0c149384fa27c0d1f4bca5554925efdc8611.webp)
 
 
 ### C. Input/Output of E-EGR system
-`ssangyong_actyon_en_c6c0de39` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:535 | doc_type:owners_manual
 ![](images/7a57eaafb4b924d20aec5890b92cce6e6a361cb2bb84dcdf7c01121ac6abb90b.webp)
 
 ![](images/e3c53be8d8834380251b2220732f9a03d1362166c33d5e88abc0a3a67b12ce77.webp)
 
 
 ### D. Bypass control for EGR cooler
-`ssangyong_actyon_en_5ee9ed33` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:536 | doc_type:owners_manual
 Cooler temperature
 
 When the coolant temperature is below 70 C, the exhaust gas is bypassed the EGR cooler.
@@ -28607,7 +27254,6 @@ When the coolant temperature is below 70 C, the exhaust gas is bypassed the EGR 
 
 
 ### Exhaust gas temperature
-`ssangyong_actyon_en_447136b2` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:537 | doc_type:owners_manual
 When the exhaust gas temperature is below 300 'C, the exhaust gas is bypassed the EGR cooler.   
 Otherwise, PM could be increased due to too low exhaust gas temperature.
 
@@ -28615,7 +27261,6 @@ Coolant eperture: Exhaust as emperture PM, smoke increased
 
 
 ### E.Control elements for EGR system
-`ssangyong_actyon_en_e628e578` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:538 | doc_type:owners_manual
 -Accelerator pedal (engine load - Indicates the driver's intention and engine load. If the load goes up, the EGR ratio is decreased.   
 - T-MAP (boost pressure map stored in ECU) - Compensates the diference in boost pressure by adjusting EGR ratio.   
 Engine rpm - Used as the signal for determining EGR operating range.   
@@ -28629,7 +27274,6 @@ Wide band oxygen sensor - Detects the oxygen volume in exhaust gas to check if t
 
 
 ### F. Features
-`ssangyong_actyon_en_e0bdd602` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:539 | doc_type:owners_manual
 EGR 1% EGR 20% EGR 30%   
 BTDC TDC ATDC ATDC ATDC ATDC   
 10° 10° 20° 30° 40° Crank angle
@@ -28644,26 +27288,22 @@ As EGR temperature goes up, the concentration of NOx will be higher. Thus, it is
 
 
 ### A. Overview
-`ssangyong_actyon_en_9c1c66cb` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:540 | doc_type:owners_manual
 E-VGT (Electric-Variable Geometry Turbine) turbocharger system in D20DTF engine uses the venturi effect that controls the flow rate of exhaust gas by adjusting the passage in turbine housing. The newly adopted DC motor actuator (E-actuator) controls the E-VGT system more precisely and faster. To get the high operating power from turbine, the ECU reduces the exhaust gas passage In low speed range and increases it in high speed range.
 
 
 ### B. Components
-`ssangyong_actyon_en_f0f0f107` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:541 | doc_type:owners_manual
 ![](images/5179f4211011d9e25fd8952851329a95f16c9c2369faf595d4d51365a6c51bac.webp)
 
 ![](images/e299ded257b9e54c2071e1e33f12d1c772f0b42a0772b05a64b7c5045356489c.webp)
 
 
 ### C. Input/Output for E-VGT system
-`ssangyong_actyon_en_b5cc877a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:542 | doc_type:owners_manual
 ![](images/263c7e0e8cd2a7e61d8a56d979e44c32f64db54f6c60df27b81eb5ac772b3679.webp)
 
 ![](images/3efc570baee2be1d9993229c605ba17252fe5ea160b75cbd7a106e7edebf11b5.webp)
 
 
 ### D. E-VGT system control
-`ssangyong_actyon_en_5eb7f06e` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:543 | doc_type:owners_manual
 Turbocharger system operates the E-VGT actuator according to the signals for engine epm, accelerator pedal position, atmospheric pressure, T-MAP, coolant temperature and intake air temperature. Turbocharger actuator is performed PWM control by ECU.   
 In general, the boost pressure feedbacks the turbocharger operation and the boost temperature is used for calculating the precise density.   
 E-VGT provides higher engine power with faster reaction speed compared to conventional VGT.
@@ -28674,28 +27314,24 @@ E-VGT provides higher engine power with faster reaction speed compared to conven
 
 
 ### A. Overview
-`ssangyong_actyon_en_81cb060a` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:544 | doc_type:owners_manual
 For diesel engine, combustion is not performed at the optimum (theoretically corect) air-fuel ratio and the oxygen concentration is thin in most cases. So the wide-band oxygen sensor is used for this kind of engine, and this sensor is a litle different from the one that used for gasoline engine. The combustion in diesel engine is controlled by fuel injection volume. Therefore, the wide band oxygen sensor should be used in diesel engine. This sensor measures the air-fuel ratio in very wide range, and is also called full range oxygen sensor.
 
 -The wide band oxygen sensor measures the oxygen density in exhaust gas and sends it to ECU to control the EGR more precisely.
 
 
 ### B. Components
-`ssangyong_actyon_en_86232ee5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:545 | doc_type:owners_manual
 ![](images/9666080889c11b32c04cf05130368234c0e2fcdccff0bb76d45d1113a69767e6.webp)
 
 ![](images/102e47f138a6f6828fc24de8bfb5cfd7ad7e879570ad23c6329a4ce5f6f32850.webp)
 
 
 ### C. Input/Output for oxygen sensor
-`ssangyong_actyon_en_e1e0c2f0` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:546 | doc_type:owners_manual
 ![](images/3f5489624c84af396dc7acbd02a5ac566cb004ba7025f164b2205b260e50c70e.webp)
 
 ![](images/b672591b072a2c1eb81503f25b138fd77753e838cacb31724ef84695ad5134ae.webp)
 
 
 ### D. Oxygen sensor control
-`ssangyong_actyon_en_0b4b7ec4` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:547 | doc_type:owners_manual
 The wide band oxygen sensor uses ZnO2. It produces the voltage by movement of oxygen ions when there is oxygen concentration difference between exhaust gas and atmosphere. If a certain voltage is applied to the sensor, the movement of oxygen ions occurs regardless of the oxygen density. The current generated through this flow of ions, is called pumping current (IP), and the oxygen sensor measures this value.
 
 ![](images/76140d96f637066c5ff697cff333225d052999a63fc855a615c5d9c58caba5b2.webp)
@@ -28704,38 +27340,32 @@ The wide band oxygen sensor uses ZnO2. It produces the voltage by movement of ox
 
 
 ### A. Overview of cooling fan and A/C compressor
-`ssangyong_actyon_en_8d1d6c4a` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:548 | doc_type:owners_manual
 The cooling system maintains the engine temperature at an eficient level during allengine operating conditions. The water pump draws the coolant from the radiator. The coolant then circulates through water jackets in the engine block, the intake manifold, and the cylinder head. When the coolant reaches the operating temperature of the thermostat, the thermostat opens. The coolant then goes back to the radiator where it cools. The heat from automatic transmission is also cooled down through the radiator by circulating the oil through the oil pump. ECU controls the electric cooling fans with three cooling fan relays to improve the engine torque and air conditioning performance.
 
 
 ### reference
-`ssangyong_actyon_en_3eb790c1` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:549 | doc_type:owners_manual
 For detailed information, refer to Chapter "Air Conditioning System".
 
 
 ### B. Components
-`ssangyong_actyon_en_695901f3` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:550 | doc_type:owners_manual
 ![](images/b9f3d3e48855b0be4038e9bcc7365706db4d17f90ccc83d4e8380c65f9f89305.webp)
 
 ![](images/ab43e9372d48f7ea86b098ec9dad33a7e8182c7d85aafa6f0858958fde63c668.webp)
 
 
 ### C. Input/Output for cooling fan and A/C compressor
-`ssangyong_actyon_en_768a35cb` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:551 | doc_type:owners_manual
 ![](images/9e881a843d9ad987549b54086e09a518989d9fd56b988ab6109e6e0adc2f08d0.webp)
 
 ![](images/e448882e49f744ada52037ec2ac05a57980ca15b402d5ad945f3cad08df6af4e.webp)
 
 
 ### Conditions for cooling fan
-`ssangyong_actyon_en_fbcc7de7` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:552 | doc_type:owners_manual
 The cooling fan module controls the cooling fan relay, high speed relay and low speed relay. The cooling fan is controlled by the series and parallel circuits.
 
 ![](images/d57334beda963ff297deccf0fff59bde8887e0d3b6ba71f3e1d810bd3282d960.webp)
 
 
 ### A/C compressor OFF conditions
-`ssangyong_actyon_en_4ab9eabf` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:553 | doc_type:owners_manual
 Compressor not operating 302 … 21.4 Compressor operating range 2.4 (Kg/cm²) 2.07 Compressor not operating A/C compressor operation
 
 - Coolant temperature: below –20 °C or over 115   
@@ -28746,31 +27376,26 @@ Compressor not operating 302 … 21.4 Compressor operating range 2.4 (Kg/cm²) 2
 
 
 ### Output voltage according to refrigerant pressure
-`ssangyong_actyon_en_06b36769` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:554 | doc_type:owners_manual
 The output voltage from refrigerant pressure sensor is 1.7 V to 3.5 V when the refrigerant pressure is 10 to 24 kgf/cm with A/C "ON".
 
 
 ### Cooling fan controls according to ATF
-`ssangyong_actyon_en_72bc1f7b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:555 | doc_type:owners_manual
 ![](images/026e06fd54b426e4ae57face7e1a2452b0d46abbb8c38b1640c9ca172bbe7808.webp)
 
 ![](images/acbd51c9056a8bd5bfab3baf065da22044d31303fdccc5d38133001c71b898ad.webp)
 
 
 ### A. Overview
-`ssangyong_actyon_en_a98a0762` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:556 | doc_type:owners_manual
 The supplementary electrical heater is installed in Dl engine equipped vehicle as a basic equipment. The PTC system is operated according to two temperature values measured at the coolant temperature sensor and HFM sensor. This device is mounted in the heater air outlet and increase the temperature of air to the passenger compartment. Because PTC system is heated by electrical power, high capacity alternator is required. PTC does not operate during engine cranking, while the battery voltage is lower than 11 V or during preheating process of glow plugs.
 
 
 ### B. Components
-`ssangyong_actyon_en_ca10e358` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:557 | doc_type:owners_manual
 ![](images/542db4a51f62cf2fa83f0d5de9ccd701e9290b77dbb1efbd26b722a5bcec226d.webp)
 
 ![](images/db16aa0f536031019d315b0c1788a0c58387583a8eeaa067556b3c222c60a0a0.webp)
 
 
 ### C. Operation process
-`ssangyong_actyon_en_b8579330` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:558 | doc_type:owners_manual
 The ceramic PTC has a feature that the resistance goes up very high at a certain temperature. There are three circuits in PTC heater. Only one circuit is connected when PTC1 relay is ON, and two circuits are connected when PTC2 relay is ON.
 
 Operation process: reaches at a certain temperature→high resistance—low current→less heat radiation—temperature down—high resistance→high current—temperature up
@@ -28781,24 +27406,20 @@ Operation process: reaches at a certain temperature→high resistance—low curr
 
 
 ### D. Control conditions
-`ssangyong_actyon_en_0ca62eb4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:559 | doc_type:owners_manual
 ![](images/a01f0a1ac00d5f4000bc994cccfa69e1bcbca8fc7b0e590320ae8dbcfc93b2e2.webp)
 
 
 ### Operation diagram for PTC heater LO (step 2)
-`ssangyong_actyon_en_67dea08d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:560 | doc_type:owners_manual
 ![](images/27060d1bdaba22fa3a5e454e3ec7af6c4f1e751af6b805966a682d4450f49a8a.webp)
 
 ![](images/b135012d866dc4c78fed0f0254febc6ebd8b7da8f578633cbb8df8f3c1de2137.webp)
 
 
 ### A. Overview
-`ssangyong_actyon_en_1c86f7b7` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:561 | doc_type:owners_manual
 The Immobilizer System provides an additional theft deterrent to the vehicle in which it is installed and prevents it from being started by unauthorized persons. The transponder integrated in the key and the engine control unit have the same code. When the ignition key with the integrated transponder is turned to the ON position, the ECU (Engine Control Unit) checks the crypto code of the key and, if correct, allows the vehicle to start the engine.
 
 
 ### B. Components
-`ssangyong_actyon_en_9b7b3977` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:562 | doc_type:owners_manual
 Basic components (ignition key system)
 
 ![](images/74a61979fcb885dc5b16529078cad2a62368b1d67072f907a5e3e93b3e731aef.webp)
@@ -28807,7 +27428,6 @@ Basic components (ignition key system)
 
 
 ### Key approval process
-`ssangyong_actyon_en_6220c71d` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:563 | doc_type:owners_manual
 When turning the ignition switch to ON position, the power is supplied to BCM and ECU. ECU communicate with the immobilizer key to check if it is valid crypto code. If i is valid, ECU start to control the engine when turning the ignition switch to START position. The system has 10 seconds of valid timeout period. If the engine does not start in this period, the key approval process should be done again.
 
 ![](images/9f3d4be42896b43c972c26b5be81feab673bc3e4bdb4f83255bdceaf93c60cce.webp)
@@ -28816,26 +27436,22 @@ When turning the ignition switch to ON position, the power is supplied to BCM an
 
 
 ### A. Overview
-`ssangyong_actyon_en_1728e24c` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:564 | doc_type:owners_manual
 As the solution for environmental regulations and PM Particle Material) of diesel engine, the low emission vehicle is getting popular. This vehicle is equipped with an extra filter to collect the soot and burn it again so that the amount of PM in the exhaust gas passed through the DOC (Diesel Oxidation Catalyst) is reduced. The CDPF (Catalyst & Diesel Particulate Filter) is an integrated filter including DOC (Diesel Oxidation Catalyst) and DPF (Diesel Particulate Filter).
 
 
 ### B. Components
-`ssangyong_actyon_en_3af898a4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:565 | doc_type:owners_manual
 ![](images/ddaeb766006b2ea782c55e5403f0d6400c9367321a9b5929253fe31d2d1db294.webp)
 
 ![](images/39804514c7055cfec2b7ba7c89120fdefafa60f03bb6c7afa78cb3f0dafa214a.webp)
 
 
 ### C. Input/Output for CDPF control
-`ssangyong_actyon_en_6d5964c5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:566 | doc_type:owners_manual
 ![](images/046e26d86af5c3c0d5732f93e327d5cb9ad0bb327a49699c8768762efa793b42.webp)
 
 ![](images/3d53e561e0cbfbe68ee5272377386ed6ed1122302b15b35fec17b5c433790717.webp)
 
 
 ### D. Operation process
-`ssangyong_actyon_en_fe206e2b` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:567 | doc_type:owners_manual
 When the differential pressure sensor detects the pressure difference between the front and the rear side of CDPF, the sensor sends signal indicating the soot is accumulated and the post injection is performed to raise the temperature of exhaust gas. The amount of fuel injected is determined according to the temperature of exhaust gas detected by the rear temperature sensor. If the temperature is below 600°C, the amount of fuel injected is increased to raise the temperature. If the temperature is over 600°C, the amount of fuel injected is decreased or not controlled. When the engine is running in low load range, the amount of post injection and the amount of intake air are controlled. It is to raise the temperature by increasing the amount of fuel while decreasing the amount of intake air.
 
 ![](images/3eea07c8df51abf6e705b44f1eca73006ac65a65e1850d74309296652046f2cd.webp)
@@ -28844,29 +27460,24 @@ When the differential pressure sensor detects the pressure difference between th
 
 
 ### E. Cautions
-`ssangyong_actyon_en_acc01eaf` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:568 | doc_type:owners_manual
 -Use only specified Engine Oil (approved by MB Sheet 229.51) for CDPF.
 
 
 ### Use only specified engine oil (Low Ash Oil)
-`ssangyong_actyon_en_f58b4682` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:569 | doc_type:owners_manual
 -The vehicle equipped with CDPF should use specific engine oil to improve the engine performance and fuel economy, and ensure the service life of CDPF.
 
 
 ### Issue with normal engine oil
-`ssangyong_actyon_en_7adb499e` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:570 | doc_type:owners_manual
 - Sulfur, one of the contents of engine oil is burned and generates soot that is not regenerated by the DPF. This remains on the filter as ashes and keeps accumulating. Eventually, this ashes wil block the filter.
 
 
 ### Benefit for specified engine oil
-`ssangyong_actyon_en_9550d1a1` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:571 | doc_type:owners_manual
 -Minimized the sulfur content of engine oil which reduces the service life.   
 -Improved fuel economy and emission level of CO2 with high performance and low viscosity.   
 -Increased service life of engine oil with high resistance to temperature.
 
 
 ### Problems when using unspecified engine oil
-`ssangyong_actyon_en_c7549ea5` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:572 | doc_type:owners_manual
 -The service life of fiter may be reduced by 30% or more by the ashes accumulated on the fiter. The fuel economy may be reduced because of engine rolling resistance, frequent regeneration of - DPF.
 
 \*These problems are also caused by oil with high sulfur content, such as tax exemption oil and heating oil, etc.
@@ -28875,7 +27486,6 @@ When the differential pressure sensor detects the pressure difference between th
 
 
 ### 3) Input/Output for CAN communication
-`ssangyong_actyon_en_b2030cc0` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:573 | doc_type:owners_manual
 Input Control Output   
 ABS ohe od Endantio d cndo pm. AES &   
 GCU Pilow iooe iepatre, Engine rpm EPS Glow plug control Engine rpm, Preheating receiving   
@@ -28886,7 +27496,6 @@ TCU Eo on. w In tuent positionTransmission oil temperature Shifting request, Acc
 
 
 ### 1) Cleanliness and Care
-`ssangyong_actyon_en_0f1e8ce8` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:574 | doc_type:owners_manual
 An automobile engine is a combination of many machined, honed, polished and lapped surfaces with tolerances that are measured in the ten-thousanths of an inch.
 
 When any internal engine parts are serviced, care and cleanliness are important.
@@ -28902,22 +27511,17 @@ Battery cables should be disconnected before any major work is performed on the 
 ![](images/24c35554d0a1dda574663d6e38833a8e1ed9ddc6781c78762fa0690d6a06d6a2.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_40a7d6f8` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:575 | doc_type:owners_manual
-- Disconnect the negative battery cable before removing or installing any electrical unit, or when a tool or equipment could easily come in contact with exposed electrical terminals. Disconnecting this cable wilhelp prevent personal injury and damage to the vehicle. The ignition must also be in LOCK unless otherwise noted.
+> ⚠️ **Внимание:** - Disconnect the negative battery cable before removing or installing any electrical unit, or when a tool or equipment could easily come in contact with exposed electrical terminals. Disconnecting this cable wilhelp prevent personal injury and damage to the vehicle. The ignition must also be in LOCK unless otherwise noted.
 
 
-### CAUTION
-`ssangyong_actyon_en_f8dbe5af` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:576 | doc_type:owners_manual
-- Any time the air cleaner is removed, the intake opening should be covered. This wil protect against accidental entrance of foreign material, which could follow the intake passage into the cylinder and cause extensive damage when the engine is started.
-
-Brake and clutch fluid reservoir Coolant surge tank (for manual transmission) Relay and fuse box 10 Engine oil < filercap Air cleaner - Engine oil dipstick fower stering Battery fln t waser
-
-![](images/ed9fbd8d0e47f81dbcdce2a94330df8e370b9c7e828d2089e7f96756459b8edf.webp)
+> ⚠️ **Внимание:** - Any time the air cleaner is removed, the intake opening should be covered. This wil protect against accidental entrance of foreign material, which could follow the intake passage into the cylinder and cause extensive damage when the engine is started.
+>
+> Brake and clutch fluid reservoir Coolant surge tank (for manual transmission) Relay and fuse box 10 Engine oil < filercap Air cleaner - Engine oil dipstick fower stering Battery fln t waser
+>
+> ![](images/ed9fbd8d0e47f81dbcdce2a94330df8e370b9c7e828d2089e7f96756459b8edf.webp)
 
 
 ### 2. G23D ENGINE ASSEMBLY
-`ssangyong_actyon_en_ec7ed526` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:577 | doc_type:owners_manual
 ![](images/9166ad4926b8199fdbf6d710777db1da354027d18a69dc052e9995dc0b6e07c0.webp)
 
 ![](images/67c73740537229f790ff59929f991957e42ea97b4ea7c6f6501637e19e7f6491.webp)
@@ -28928,7 +27532,6 @@ Brake and clutch fluid reservoir Coolant surge tank (for manual transmission) Re
 
 
 ### 3. G23D ENGINE STRUCTURE
-`ssangyong_actyon_en_ce350f14` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:578 | doc_type:owners_manual
 ![](images/163bdf560e3cf16b943c62e2241714f542849372aff013d89603fc3154a64b4b.webp)
 
 ![](images/42a74d83fd678f3e09afa8169b0c786f27998a64c9c507bb171dd0df0a7bd2c6.webp)
@@ -28938,19 +27541,16 @@ Front View
 
 
 ### Side View
-`ssangyong_actyon_en_3884d415` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:579 | doc_type:owners_manual
 ![](images/60326ad7c7df3922ab64b297a350baa92fe6abd34b21bffe5c58db0601726aee.webp)
 
 ![](images/eb900a6674705d11261dd1919c3a03c0ec85f6f70f01254773c42b58b6419c0a.webp)
 
 
 ### 1) Oil Leak Diagnosis
-`ssangyong_actyon_en_f142d400` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:580 | doc_type:owners_manual
 Most fluid oil leaks are easily located and repaired by visuall finding the leak and replacing or repairing the necessary parts. On some occasions a fluid leak may be dificult to locate or repair. The following procedures may help you in locating and repairing most leaks.
 
 
 ### Finding the Leak
-`ssangyong_actyon_en_730f27be` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:581 | doc_type:owners_manual
 - Identify the fluid. Determine whether it is engine oil automatic transmission fluid, power steering fluid, etc.
 
 - Identify where the fluid is leaking from.
@@ -28972,7 +27572,6 @@ If you still cannot locate the leak, try using the powder or black light and dye
 
 
 ### Powder Method
-`ssangyong_actyon_en_212f0eec` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:582 | doc_type:owners_manual
 -Clean the suspected area.   
 -Apply an aerosol-type powder (such as foot powder) to the suspected area.   
 -Operate the vehicle under normal operating conditoins.   
@@ -28982,7 +27581,6 @@ If you still cannot locate the leak, try using the powder or black light and dye
 
 
 ### Black Light and Dye Method
-`ssangyong_actyon_en_4ffa278a` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:583 | doc_type:owners_manual
 A dye and light kit is available for finding leaks, Refer to the manufacturer's directions when using the kit.
 
 Pour the specified amount of dye into the engine oil fil tube.   
@@ -28991,13 +27589,11 @@ Pour the specified amount of dye into the engine oil fil tube.
 
 
 ### Repairing the Leak
-`ssangyong_actyon_en_bd4062a9` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:584 | doc_type:owners_manual
 Once the origin of the leak has been pinpointed and traced back to its source, the cause of the leak must be determined in order for it to be repaired properly.   
 If a gasket is replaced, but the sealing flange is bent, the new gasket will not repair the leak. The bent flange must be repaired also. Before attempting to repair a leak, check for the following conditions and correct them as they may cause a leak.
 
 
 ### Gaskets
-`ssangyong_actyon_en_d0a11fc5` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:585 | doc_type:owners_manual
 -The fluid level/pressure is too high.   
 -The crankcase ventilation system is malfunctioning.   
 -The seal bore is damaged (scratched, burred or nicked).   
@@ -29011,22 +27607,17 @@ If a gasket is replaced, but the sealing flange is bent, the new gasket will not
 
 
 ### 2) Compression Pressure Test
-`ssangyong_actyon_en_e95369ae` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:586 | doc_type:owners_manual
 ![](images/d1005c1d26448a4667d30cf3b32c7744860f0e102b93fa7cd0449658294ed84d.webp)
 
 
 ### Standard Service Data
-`ssangyong_actyon_en_44b934e7` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:587 | doc_type:owners_manual
 ![](images/8bc939e95a47e4ec2ad3450ab4830567744d835d877414ff0e85b2235b32b50c.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_4bce2131` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:588 | doc_type:owners_manual
-- A9912 0012B (001 589 76 21 00) Compression Pressure Tester
+> ⚠️ **Внимание:** - A9912 0012B (001 589 76 21 00) Compression Pressure Tester
 
 
 ### Measuring Procedure
-`ssangyong_actyon_en_8ce2cbf1` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:589 | doc_type:owners_manual
 -Warm the engine up to normal operating temperature.   
 -Remove the spark plugs using the spark plug wrench.   
 -  Place the diagram sheet to compression pressure tester A9912 0012B (001 589 76 21 00). Connect the adaptor to compression pressure tester A9912 0012B (001 589 76 21 00) and   
@@ -29036,31 +27627,25 @@ If a gasket is replaced, but the sealing flange is bent, the new gasket will not
 -If measured value is not within the specifications, perform the cylinder pressure leakage test.
 
 
-### CAUTION
-`ssangyong_actyon_en_b1ea9aab` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:590 | doc_type:owners_manual
-Discharge the combustion residues in the cylinders before testing the compression pressure.   
-Apply the parking brake before cranking the engine.
-
-![](images/71b8e227b951c84cc6d8b923cd4f2417e3d27016f34739d3a5b0228f7c0f4188.webp)
+> ⚠️ **Внимание:** Discharge the combustion residues in the cylinders before testing the compression pressure.
+> Apply the parking brake before cranking the engine.
+>
+> ![](images/71b8e227b951c84cc6d8b923cd4f2417e3d27016f34739d3a5b0228f7c0f4188.webp)
 
 
 ### 3) Cylinder Pressure LeakageTest
-`ssangyong_actyon_en_7e426945` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:591 | doc_type:owners_manual
 ![](images/ab4129a0e7a20b4d37b5dddecc70dc7576c506b54ab19d26dea611651d295e45.webp)
 
 
 ### Permissible Pressure Leakage
-`ssangyong_actyon_en_de0a0d22` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:592 | doc_type:owners_manual
 ![](images/e21ae8ac591f8172209ba4a033251cae57dcf0c9a976cac2ee7aa3385a0c017a.webp)
 
 
 ### Cylinder Number
-`ssangyong_actyon_en_7281cba6` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:593 | doc_type:owners_manual
 ![](images/1f00e26f867013165ca2d7c811667d017eaa3443a102678c5a2e45d85ef98234.webp)
 
 
 ### Cylinder Number
-`ssangyong_actyon_en_21a19a59` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:594 | doc_type:owners_manual
 ![](images/c05d6f5877c6c7bad502dacee93bf30e637eb160ac77338909e7d8f53dea648b.webp)
 
 ![](images/61ea751d1765f5ac23bf62bfa7bfe9319d755fe998938f141f9865d8419b9f07.webp)
@@ -29069,7 +27654,6 @@ Apply the parking brake before cranking the engine.
 
 
 ### Leakage Test
-`ssangyong_actyon_en_80df5154` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:595 | doc_type:owners_manual
 -Warm the engine up to normal operating temperature.   
 -Disconnect the negative battery cable.   
 -Remove the spark plugs.   
@@ -29081,59 +27665,49 @@ Apply the parking brake before cranking the engine.
 -Connect the connecting hose to tester and measure the leakage volume after blowing up 5 bar of compressed air.
 
 
-### CAUTION
-`ssangyong_actyon_en_b5e7ad4f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:596 | doc_type:owners_manual
-- Measure the leakage volume in the completely opening condition of throttle valve by pulling the acceleration cable.
-
-Perform the pressure test according to the firing order.
+> ⚠️ **Внимание:** - Measure the leakage volume in the completely opening condition of throttle valve by pulling the acceleration cable.
+>
+> Perform the pressure test according to the firing order.
 
 
-### CAUTION
-`ssangyong_actyon_en_29987aea` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:597 | doc_type:owners_manual
-- Firing Order:1- 3-4-2
-
-Compare the leakage pressure with the specifications.
-
-![](images/f9bc445611787082e06d955eec9bf3833cc57a185ead050fcf4e9ed08ec40a88.webp)
+> ⚠️ **Внимание:** - Firing Order:1- 3-4-2
+>
+> Compare the leakage pressure with the specifications.
+>
+> ![](images/f9bc445611787082e06d955eec9bf3833cc57a185ead050fcf4e9ed08ec40a88.webp)
 
 
 ### 5. GENERAL DIAGNOSIS
-`ssangyong_actyon_en_2e55352b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:598 | doc_type:owners_manual
 ![](images/2df910b42a705681aa6f37437f759de442df8092ac82225bb8c3cc756cf8aec7.webp)
 
 ![](images/caf299123f95cb7b05fd9d511e2469938791b2f11fa2e4187f7cca0deca3f06e.webp)
 
 
 ### General Diagnosis (Cont'd)
-`ssangyong_actyon_en_02405f2f` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:599 | doc_type:owners_manual
 ![](images/9e119ce7db44479334b1a0f58dab8407fb725b6fc3529f0699efc805704bfeb8.webp)
 
 ![](images/a16c4f3510156520701e80e5b1b4c075209e919adfbf2227371602042d499c31.webp)
 
 
 ### General Diagnosis (Cont'd)
-`ssangyong_actyon_en_74f6e9e9` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:600 | doc_type:owners_manual
 ![](images/fbdf09597942da7bd6533bca2a0b17d17a412f54a4b716e9e9ec1060f511fbb8.webp)
 
 ![](images/2e3d9d71074ade8601e27a36b89e4427fa0d111ff569d6f37f8b7fbd3cbf36c5.webp)
 
 
 ### General Diagnosis (Cont'd)
-`ssangyong_actyon_en_d5bd5854` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:601 | doc_type:owners_manual
 ![](images/c5461371f6296068a4761fa89df67f1c4aebeea96535527b3e6e1f49fabfbb0c.webp)
 
 ![](images/307cb71dd7a7db80e1765ff4a6150277379457818df9f9dc03f90ab033473470.webp)
 
 
 ### General Diagnosis (Cont'd)
-`ssangyong_actyon_en_c8266899` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:602 | doc_type:owners_manual
 ![](images/c323d9e4dae8c253ac0e3bd5037236a711151e076c4e5344562fba0eb6bc2830.webp)
 
 ![](images/bbbd5173975ba66a531549b23f5742b04a125b39bbaedb84a5093175219001a3.webp)
 
 
 ### 6. SPECIFICATIONS 1) Engine Specifications
-`ssangyong_actyon_en_cc8e4155` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:603 | doc_type:owners_manual
 ![](images/a4bb8a5367ecc55f53d6feeab054515948f75bb00e5850282fead263c19a7e93.webp)
 MSE : Engine Control Module 3.53D : 4 Cylinder Version
 
@@ -29141,21 +27715,18 @@ MSE : Engine Control Module 3.53D : 4 Cylinder Version
 
 
 ### 2) Fastener Tightening Specifications
-`ssangyong_actyon_en_75e3f5c1` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:604 | doc_type:owners_manual
 ![](images/fa46c66f43c8a231ac8a87fb77ff7a94bfceb51ccaf238f5c99d9ae321c9e186.webp)
 
 ![](images/392285e82408dc2292b5637d6b3d6a4ca7ced7444c525e010b20963c21150a79.webp)
 
 
 ### Fastener Tightening Specifications (Cont'd)
-`ssangyong_actyon_en_024b1800` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:605 | doc_type:owners_manual
 ![](images/5c340bf8cd74fc4fd31a2ee3ae4760b02b60c2d3aaa64e74cbd9f4ab8046b9a9.webp)
 
 ![](images/d4ff2892bdd6e1d5885d078c84e71812706394d20bca4cbd11929b404910938d.webp)
 
 
 ### 2) Performance Curve
-`ssangyong_actyon_en_27cf59b2` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:606 | doc_type:owners_manual
 ![](images/2f887ad3093138f0ae856488a7ac1f0c5263e859fceb11057ede8a4214d6cb13.webp)
 
 ![](images/a39740e9a91684607c7785cfc40e2d4e64c97c9e1b0c50f1d2fc304d5209de9c.webp)
@@ -29164,7 +27735,6 @@ MSE : Engine Control Module 3.53D : 4 Cylinder Version
 
 
 ### 1. FUEL SYSTEM SPECIFICATION
-`ssangyong_actyon_en_86515d75` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:607 | doc_type:owners_manual
 Use Only Unleaded Fuel Rated at 89 Octane or Higher
 
 Fuel quality and additives contained in fuel have a significant effect on power output, drivability, and life of the engine.
@@ -29174,19 +27744,15 @@ Fuel with too low an octane number can cause engine knock.
 Caution: Use of fuel with an octane number lower than 89 may damage engine and exhaust system.
 
 
-### CAUTION
-`ssangyong_actyon_en_b1d748a9` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:608 | doc_type:owners_manual
-To prevent accidental use of leaded fuel, the nozzles for leaded fuel are larger, and will not fit the fuel filer neck of your vehicle.
+> ⚠️ **Внимание:** To prevent accidental use of leaded fuel, the nozzles for leaded fuel are larger, and will not fit the fuel filer neck of your vehicle.
 
 
 ### Do Not Use Methanol
-`ssangyong_actyon_en_6132055d` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:609 | doc_type:owners_manual
 Fuels containing methanol (wood alcohol) should not be used in vehicle.   
 This type of fuel can reduce vehicle performance and damage components of the fuel system.
 
 
 ### Vehicle Fueling from Drums or Storage Containers
-`ssangyong_actyon_en_91681b8c` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:610 | doc_type:owners_manual
 For safety reasons (particularly when using noncommercial fueling systems) fuel containers, pumps and hoses must be properly earthed.
 
 Static electricity build up can occur under certain atmospheric and fuel flow conditions if unearthed hoses, particularly plastic, are fitted to the fuel-dispensing pump.
@@ -29197,14 +27763,12 @@ It is therefore recommended that earthed pumps with integrally earthed hoses be 
 
 
 ### Temperature VS Resistance
-`ssangyong_actyon_en_807e2cd1` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:611 | doc_type:owners_manual
 ![](images/c99c32086d395d117bf3be006a7420d32d9e5e5083a6796d0e646987b9a59067.webp)
 
 ![](images/514e0c9e98f2693b808c59cdc5aa43a0188a31581a080b8a30b3471f64a5e0e2.webp)
 
 
 ### 1. FUEL SYSTEM
-`ssangyong_actyon_en_9a98c2c1` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:612 | doc_type:owners_manual
 The function of the fuel metering system is to deliver the correct amount of fuel to the engine under all operating conditions.
 
 The fuel is delivered to the engine by the individual fuel injectors mounted into the intake manifold near each cylinder.
@@ -29228,17 +27792,14 @@ The fuel is delivered under one of several conditions, called "modes".
 
 
 ### 1) Starting Mode
-`ssangyong_actyon_en_73843bb0` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:613 | doc_type:owners_manual
 When the ignition is turned ON, the ECM turns the fuel pump relay on for 1 second. The fuel pump then builds fuel pressure. The ECM also checks the Engine Coolant Temperature (ECT) sensor and the Throttle Position (TP) sensor and determines the proper air/fuel ratio for starting the engine. This ranges from1.5 to 1 at -36 °C (-33 F) coolant temperature to 14.7 to 1 at 94 C (201 F) coolant temperature. The ECM controls the amountof fuel delivered in the starting mode by changing how long the fuel injector is turned on and of This is done by "pulsing" the fuel injectors for very short times.
 
 
 ### 2) Run Mode
-`ssangyong_actyon_en_d3c998fb` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:614 | doc_type:owners_manual
 The run mode has two conditions called "open loop" and "closed loop".
 
 
 ### 3) Open Loop
-`ssangyong_actyon_en_32433f61` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:615 | doc_type:owners_manual
 When the engine is first started and it is above 690 rpm, the system goes into "open loop" operation. In "open loop", the ECM ignores the signal from the HO2S and calculates the air/fuel ratio based on inputs from the ECT sensor and the MAF sensor. The ECM stays in "open loop" until the following conditions are met:
 
 -The O2 has a varying voltage output, showing that it is hot enough to operate properly.   
@@ -29247,25 +27808,21 @@ When the engine is first started and it is above 690 rpm, the system goes into "
 
 
 ### 4) Closed Loop
-`ssangyong_actyon_en_75e4cba6` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:616 | doc_type:owners_manual
 The specific values for the above conditions vary with diferent engines and are stored in the Electronically Erasable Programmable Read-Only Memory (EEPROM).   
 When these conditions are met, the system goes into "closed loop" operation. In "closed loop", the ECM calculates the air/fuel ratio (fuel injector on- time) based on the signals from the O2 sensors. This allows the air/fuel ratio to stay very close to 14.7 to 1.
 
 
 ### 5) Acceleration Mode
-`ssangyong_actyon_en_cae0a923` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:617 | doc_type:owners_manual
 The ECM responds to rapid changes in throttle position and airflow and provides extra fuel.
 
 
 ### 6) Deceleration Mode
-`ssangyong_actyon_en_f38f6a33` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:618 | doc_type:owners_manual
 The ECM responds to changes in throtle position and airflow and reduces the amount of fuel. When deceleration is very fast, the ECM can cut off fuel completely for short periods of time.
 
 ![](images/c08fd8bfac62c64148b3d6473e9cc6a0dc4214b8a6885bcdae4fd0d451f35c3a.webp)
 
 
 ### 7) Battery Voltage Correction Mode
-`ssangyong_actyon_en_4e415355` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:619 | doc_type:owners_manual
 When battery voltage is low, the ECM can compensate for a weak spark delivered by the ignition module by using the following methods:
 
 -Increasing the fuel injector pulse width.   
@@ -29274,42 +27831,35 @@ When battery voltage is low, the ECM can compensate for a weak spark delivered b
 
 
 ### 8) Fuel Cut-Off Mode
-`ssangyong_actyon_en_fe0b1a9b` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:620 | doc_type:owners_manual
 No fuel is delivered by the fuel injectors when the ignition is of. This prevents dieseling or engine runon. Also, the fuel is not delivered if there are no reference pulses received from the CKP sensor. This prevents flooding.
 
 ![](images/8b20a803c51604e0b8ba868ba4a1825795dac3ceab42798d062e230f8bead7a8.webp)
 
 
 ### (1) Fastener Tightening Specifications
-`ssangyong_actyon_en_c1664f11` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:621 | doc_type:owners_manual
 ![](images/48aa6e5bc103f6c85237a50e5f1309d339b0427b6e81f951c38216c7bf6d3504.webp)
 
 ![](images/4fb12ac53e8b80794132b1197843143371ff4a36a6c25aa4e8e64f8a688c14ee.webp)
 
 
 ### (1) Fastener Tightening Specifications
-`ssangyong_actyon_en_a43a04fd` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:622 | doc_type:owners_manual
 ![](images/7c9631826c4850e77df96e34d55db9d2fc8b365afdfcf7f6e9f2db0db9211fc7.webp)
 
 ![](images/36ade486b8ff53c2efb611aa9bc7b2477edac96be45b743c75aaef84ca9a9868.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_7422a82c` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:623 | doc_type:owners_manual
-When you are inspecting or replacing exhaust system components, make sure there is adequate clearance from all points on the underbody to avoid possible   
-overheating of the floor panel and possible damage to the passenger compartment insulation and trim materials.   
-Check the complete exhaust system and the nearby body areas and trunk lid for broken, damaged, missing or mispositioned parts, open seams, holes, loose connections, or other deterioration which could permit exhaust fumes to seep into the trunk may be an indication of a problem in one of these areas. Any defects should be corrected immediately.
+> ⚠️ **Внимание:** When you are inspecting or replacing exhaust system components, make sure there is adequate clearance from all points on the underbody to avoid possible
+> overheating of the floor panel and possible damage to the passenger compartment insulation and trim materials.   
+> Check the complete exhaust system and the nearby body areas and trunk lid for broken, damaged, missing or mispositioned parts, open seams, holes, loose connections, or other deterioration which could permit exhaust fumes to seep into the trunk may be an indication of a problem in one of these areas. Any defects should be corrected immediately.
 
 
 ### 2) Catalytic Converter (Gasoline Engine)
-`ssangyong_actyon_en_74fd2c85` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:624 | doc_type:owners_manual
 1. When jacking or lifting the vehicle from the body side rails, be certain that the lift pads do not contact the catalytic converter, as this could damage the catalytic converter.
 
 2. Use of anything other than unleaded fuel will damage the catalyst in the catalytic converter.
 
 
 ### Catalytic Converter Structure
-`ssangyong_actyon_en_1ec5418a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:625 | doc_type:owners_manual
 ![](images/777984331f5395d2094bd75a50a09b0fab79a29bfc9c5d1b53e4ffc80f688711.webp)
 
 The Catalytic converter of monolith type consists of 2 walled metal bodies which is made of Cordierite. The principal element of converter consists of the materials like Alumina or oxidized Serume in order to apply to Ceramic Monolith. Washer coat operates first, and catalytic metal elements (Pt, Pd, Rh) operates to washer coat next.
@@ -29322,14 +27872,12 @@ of inner layer. If a lead compound or phosphorus adheres to the surface and the 
 
 
 ### Catalytic Converter and Temperature
-`ssangyong_actyon_en_9261d190` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:626 | doc_type:owners_manual
 ![](images/b501d2078fa05176f0b645573291e1cb79beef3bb2d8a9d83a89e4e667462213.webp)
 
 Catalytic converter has the normal function of purification at a range of the temperature. Because it has a weak point of decreasing of the purification rate in the condition of continuous high temperature, it should keep the temperature range of 400 to 500°C for normal condition. HC purification rate becomes better according to the increase of temperature in the normal range of temperature. CO purification rate becomes the best near the temperature of 450°C,and NOx does so near the temperature of 400 to 500°C.
 
 
 ### Purification of Catalytic Converter
-`ssangyong_actyon_en_5e577ff9` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:627 | doc_type:owners_manual
 ![](images/456733b30f26910efeceb22cb5e1492656e0cace0471ec50039327a60c695689.webp)
 
 -Adhesion of soluble organic fraction (SOF) below 180°C   
@@ -29343,7 +27891,6 @@ Catalytic converter has the normal function of purification at a range of the te
 
 
 ### Method for Reduction of NOx
-`ssangyong_actyon_en_0a350c80` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:628 | doc_type:owners_manual
 NOx is generated a great deal in case that combustion temperature and excess air factor are high. EGR valve can decrease NOx (30 to 35% decrease) by making temperature of combustion chamber fall by means of exhaust gas re-circulation.
 
 - EGR valve is installed on the diesel engine of Musso, Korando, Istana and Rexton. And micro switch is installed together to control EGR valve.   
@@ -29353,7 +27900,6 @@ NOx is generated a great deal in case that combustion temperature and excess air
 
 
 ### 1. OIL CIRCULATION
-`ssangyong_actyon_en_82814f4a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:629 | doc_type:owners_manual
 ![](images/425af64feb05b98bef2330aa9dc50fb44cf4f7b4e5d5cb4b90f9e1141702458b.webp)
 
 1 Oil Strainer   
@@ -29390,21 +27936,18 @@ NOx is generated a great deal in case that combustion temperature and excess air
 
 
 ### 1. GENERAL SPECIFICATIONS
-`ssangyong_actyon_en_2a935293` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:630 | doc_type:owners_manual
 ![](images/e14f22ebbdf67be0811cf95e2b1d090032e28f5cd5c9ca39a553623882b5c215.webp)
 
 ![](images/c5a83f055b82e1fa582e3265f89c7c5f9e07167914c32c384f12f3334c66641f.webp)
 
 
 ### 2. FASTENER TIGHTENING SPECIFICATIONS
-`ssangyong_actyon_en_bc57b4ad` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:631 | doc_type:owners_manual
 ![](images/552de733cf9d26c01e123b216b06d2993b833eefe6a668fb8c423bc63111ae03.webp)
 
 ![](images/b61f4d3c4b0ed5de78da3f42284107e6f9685a2c581b78a127fe7b8cff5a1901.webp)
 
 
 ### 1. COMPONENT LOCATOR
-`ssangyong_actyon_en_56b9fab8` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:632 | doc_type:owners_manual
 ![](images/aa2fb1111b63aa351ad2d7aa47f9b6a57604bf2dd8f36e16d9a8b513749bffbf.webp)
 
 1. Reserver Tank   
@@ -29425,7 +27968,6 @@ NOx is generated a great deal in case that combustion temperature and excess air
 
 
 ### 2. DESCRIPTION AND OPERATION1) General Description
-`ssangyong_actyon_en_3ee0b43c` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:633 | doc_type:owners_manual
 The cooling system maintains the engine temperature at an eficient level during all engine operating conditions.
 
 When the engine is cold, the cooling system cools the engine slowly or not at all This slow cooling of the engine allows the engine to warm up quickly.
@@ -29444,7 +27986,6 @@ The cooling system for this vehicle has no radiator cap or filer neck. The coola
 
 
 ### 2) Radiator
-`ssangyong_actyon_en_fa8f5a0b` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:634 | doc_type:owners_manual
 This vehicle has a lightweight tube-and-fin aluminum radiator. Plastic tanks are mounted on the upper and the lower sides of the radiator core.
 
 On vehicles equipped with automatic transaxles, the transaxle fluid cooler lines run through the radiator tank.
@@ -29455,7 +27996,6 @@ To drain the cooling system, open the drain plug.
 
 
 ### 3) Coolant Reservoir
-`ssangyong_actyon_en_29061d11` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:635 | doc_type:owners_manual
 The coolant reservoir is a transparent plastic reservoir, similar to the windshield washer reservoir.
 
 The coolant reservoir is connected to the radiator by a hose and to the engine cooling system by another hose.
@@ -29470,14 +28010,12 @@ Maintain the coolant level between the MIN and MAX marks on the coolant reservoi
 
 
 ### 4) Water Pump
-`ssangyong_actyon_en_010f74ba` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:636 | doc_type:owners_manual
 The belt-driven centrifugal water pump consists of an impeller, a drive shaft, and a belt pulley.   
 The impeller is supported by a completely sealed bearing.   
 The water pump is serviced as an assembly and, therefore, cannot be disassembled.
 
 
 ### 5) Thermostat
-`ssangyong_actyon_en_00e56742` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:637 | doc_type:owners_manual
 A wax pellt-type thermostat controls the flow of the engine coolant through the engine cooling system.   
 The thermostat is mounted in the thermostat housing to the front of the cylinder head.
 
@@ -29494,89 +28032,74 @@ As the wax pellet cools, the contraction allows a spring to close the valve.
 The thermostat begins to open at 82°C(180 F) and is fuly open at 95°C(203°F). The thermostat closes at 80°C (176°F).
 
 
-### CAUTION
-`ssangyong_actyon_en_16a763a1` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:638 | doc_type:owners_manual
-Keep hands, tos, and clothing away from the engine coling fans to help prevent personalinjury.   
-This fan is electric and can turn on even when the engine is not running.
+> ⚠️ **Внимание:** Keep hands, tos, and clothing away from the engine coling fans to help prevent personalinjury.
+> This fan is electric and can turn on even when the engine is not running.
 
 
-### CAUTION
-`ssangyong_actyon_en_56fc89f7` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:639 | doc_type:owners_manual
-- If a fan blade is bent or damaged in any way, no attempt should be made to repair or reuse the damaged part. A bent or damaged fan assembly should always be replaced with a new one to prevent possible injury.
-
-![](images/29e12cc73c76013614cc1077dfaedde43939e775273fa2a225145b0c53445874.webp)
-
-The cooling fans are mounted behind the radiator in the engine compartment. The electric cooling fans increase the flow of air across the radiator fins and across the condenser on air conditioned (A/C)- equipped vehicles.
-
-This helps to speed cooling when the vehicle is at idle or moving at low speeds.
-
-All models have two fans. The main fan is 320 mm (12. 6 inches) in diameter with seven blades to aid the airlow through the radiator and the condenser. An electric motor attached to the radiator support drives the fan.
-
-The auxiliary fan is 320 mm (12.6 inches) in diameter.
+> ⚠️ **Внимание:** - If a fan blade is bent or damaged in any way, no attempt should be made to repair or reuse the damaged part. A bent or damaged fan assembly should always be replaced with a new one to prevent possible injury.
+>
+> ![](images/29e12cc73c76013614cc1077dfaedde43939e775273fa2a225145b0c53445874.webp)
+>
+> The cooling fans are mounted behind the radiator in the engine compartment. The electric cooling fans increase the flow of air across the radiator fins and across the condenser on air conditioned (A/C)- equipped vehicles.
+>
+> This helps to speed cooling when the vehicle is at idle or moving at low speeds.
+>
+> All models have two fans. The main fan is 320 mm (12. 6 inches) in diameter with seven blades to aid the airlow through the radiator and the condenser. An electric motor attached to the radiator support drives the fan.
+>
+> The auxiliary fan is 320 mm (12.6 inches) in diameter.
 
 
 ### A/C Off or Non-AC Model
-`ssangyong_actyon_en_ab7eec12` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:640 | doc_type:owners_manual
 - The cooling fans are actuated by the engine control module (ECM) using a low-speed cooling fan relay, a high-speed cooling fan relay and a cooling fan motor relay.   
 - The ECM will turn the cooling fans on at low speed when the coolant temperature reaches 95°C(203°F) and at high speed when the coolant temperature reaches 105°C(221°F). The ECM will change the cooling fans from high peed to low speed at 100°C(212°F) and   
 - will turn the cooling fans off at 90°C (194°F).
 
 
 ### A/C On
-`ssangyong_actyon_en_4426792c` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:641 | doc_type:owners_manual
 - The ECM will turn the cooling fans on at low speed when the A/C system is on. The ECM will change to high speed when the high side A/C pressure reaches 1860 kPa (269.8 psi). The cooling fans will return to low speed when the high side A/C pressure reaches 1378 kPa - (199.8 psi).
 
 
 ### 7) Engine Coolant Temperature Sensor
-`ssangyong_actyon_en_72557699` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:642 | doc_type:owners_manual
 The Engine Coolant Temperature (ECT) sensor uses a temperature to control the signal voltage to the Engine Control Module (ECM).
 
 
 ### 8) Coolant Temperature Gauge
-`ssangyong_actyon_en_baef8895` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:643 | doc_type:owners_manual
 The coolant temperature gauge controls the instrument panel temperature indicator. The coolant temperature gauge is located with ECT sensor.
 
 ![](images/5386e0937325392711d5b47cc46593d2152ec35c7d7ebe8793deb2755bbc354c.webp)
 
 
 ### 1) Function
-`ssangyong_actyon_en_815cfb12` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:644 | doc_type:owners_manual
 The PWM (Pulse Width Modulation) high capacity electric fan is installed instead of electric condenser fan to enhance the durability and controllability and reduce noise.
 
 
 ### 2) Mounting Location
-`ssangyong_actyon_en_477f9e37` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:645 | doc_type:owners_manual
 ![](images/54e9ed26a826d64e069d502fefb840655dafc594d43ad9ca8b8369115670389f.webp)
 
 ![](images/854d3cb3bde5777264afaf7fb222229a0848c1ce7b06e0b29613a3bee758f3d8.webp)
 
 
 ### 3) PWM Electric Fan (1) Advantages and Disadvantages of the PWM Electric Fan
-`ssangyong_actyon_en_625a3978` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:646 | doc_type:owners_manual
 ![](images/e358297237c09e12745a82aac84ea0f69d9a4a9bbc7b371d3e1a33aa3449f4da.webp)
 
 
 ### Advantages
-`ssangyong_actyon_en_a9e1e2d0` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:647 | doc_type:owners_manual
 - Enhanced A/C performance: at low speed, at idling, driving in city   
 -Reduction of vibration/noise: fan activated by PWM only when necessary   
 -Reduction of engine consuming power (V/Fan driving force) by 4 Hp - Cost saving
 
 
 ### Disadvantage
-`ssangyong_actyon_en_872529db` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:648 | doc_type:owners_manual
 - Poor engine cooling perfomance at low and high rpm
 
 
 ### 4) PWM (Pulse Width Modulation) Unit
-`ssangyong_actyon_en_75d628f9` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:649 | doc_type:owners_manual
 ![](images/9d099fea17c08cf0560a65486449ba946cbd237d53a6bb81bee0243eae11c9c2.webp)
 
 It controls the time of the output voltage to control the fan motor speed independently.
 
 
 ### Internal functions
-`ssangyong_actyon_en_bad539c1` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:650 | doc_type:owners_manual
 - Motor power shutting-off function when overcurrent is applied   
 -Adverse voltage prevention function   
 - Detection function for the motor lock   
@@ -29588,7 +28111,6 @@ It controls the time of the output voltage to control the fan motor speed indepe
 
 
 ### Coolant temperature
-`ssangyong_actyon_en_07751a8f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:651 | doc_type:owners_manual
 - When coolant temperature is below 20°C or over 115°C, engine speed is below 650 rpm or over 4500 rpm for 4 seconds after engine starting, abrupt acceleration and AC refrigerant pressure sensor detecting the followings   
 - A/C compressor is turned off when the refrigerant pressure is below 2.0 kg/cm2 and then is turned on when the refrigerant pressure is over 2.4 kg/cm2.   
 - A/C compressor is turned off when the refrigerant pressure is over 30 kg/cm2 and then is turned on when the refrigerant pressure is below 21.4 kg/cm2.
@@ -29597,21 +28119,18 @@ It controls the time of the output voltage to control the fan motor speed indepe
 
 
 ### 1. DIAGNOSTIC INFORMATION AND PROCEDURE 1) Ignition System
-`ssangyong_actyon_en_75a24774` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:652 | doc_type:owners_manual
 ![](images/addab20d68ed4167a0c0e4fd4de20da0b285f211f9ad27d04724980390c1e70a.webp)
 
 ![](images/4c7cb9afbc92628f0e7acd7746f8b21e6f50021fb040b99be41fabf02cd45531.webp)
 
 
 ### 2) Ignition System (Cont'd)
-`ssangyong_actyon_en_c17fa1b9` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:653 | doc_type:owners_manual
 ![](images/7cdf7733aa2f2f4c738df22fa1dbf11d65d334957be9854525e41fc2d88c991b.webp)
 
 ![](images/0995cbd60db410eaf51b379684c3b4f8d5c20053efcba4be14701ae5124ea1ff.webp)
 
 
 ### 1) Battey
-`ssangyong_actyon_en_1a2bb719` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:654 | doc_type:owners_manual
 The sealed battery is standard on all cars. There are no vent plugs in the cover. The battery is completely sealed, except for two small vent holes in the sides. These vent holes allow the small amount of gas produced in the battery to escape. The battery has the following advantages over conventional batteries:
 
 No water addition for the life of the battery.   
@@ -29624,19 +28143,16 @@ can, for a limited time, provide energy when the electrical demand exceeds the o
 
 
 ### 2) Ratings
-`ssangyong_actyon_en_7fdda259` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:655 | doc_type:owners_manual
 A battery has two ratings: (1) a reserve capacity rating designated at 27°C(80°F), which is the time a fully charged battery will provide 25 amperes of current flow at or above 10.5 volts (2) a cold cranking amp rating determined under testing at –18°C(0°F), which indicates the cranking load capacity.
 
 
 ### (1)Reserve Capacity
-`ssangyong_actyon_en_1cf1f6ce` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:656 | doc_type:owners_manual
 The reserve capacity (RC) is the maximum length of time it is possible to travel at night with the minimum electrical load and no generator output. Expressed in minutes, the RC rating is the time required for a fully charged battery, at a temperature of 27°C(80°F) and being discharged at a current of 25 amperes, to reach a terminal voltage of 10.5 volts.
 
 ![](images/5c3b47e8d814e03475ae4da2c9f3e5e6ac79b0ed39c9615a5f2410ca04c2218a.webp)
 
 
 ### (2) Cold Cranking Amperage
-`ssangyong_actyon_en_da633c73` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:657 | doc_type:owners_manual
 The cold cranking amperage test is expressed at a battery temperature of – 18°C(0°F).   
 The current rating is the minimum amperage, which must be maintained by the battery for 30 seconds at the specified temperature, while meeting a minimum voltage requirement of 7.2 volts.   
 This rating is a measure of cold cranking capacity.   
@@ -29650,7 +28166,6 @@ Mechanical problems in the electrical system, such as shorted or pinched wires.
 
 
 ### ) Charging Time Required
-`ssangyong_actyon_en_ce896fdf` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:658 | doc_type:owners_manual
 The time required to charge a battery wil vary depending upon the following factors:
 
 Size of Battery - A Completely discharged large heavy-duty battery required more than twice the recharging time as a completely discharged small passenger car battery.   
@@ -29662,7 +28177,6 @@ State-of-Charge - A completely discharged battery requires more than twice as mu
 
 
 ### 4) Charging a Completely Discharged Battery (Off the Vehicle)
-`ssangyong_actyon_en_9f31d3a2` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:659 | doc_type:owners_manual
 Unless this procedure is properly followed, a perfectly good battery may be needlessly replaced. The following procedure should be used to recharge a completely discharged battery:
 
 1. Measure the voltage at the battery terminals with an accurate voltmeter. If the reading is below 10 volts, the charge current wil be very low, and it could take some time before the battery accepts the current in excess of a few milliamperes. Refer to "Charging Time Required" in this section, which focuses on the factors affecting both the charging time required. Such low curent may not be detectable on ammeters available in the field. Set the battery charger on the high seting.
@@ -29670,77 +28184,65 @@ Unless this procedure is properly followed, a perfectly good battery may be need
 2.
 
 
-### CAUTION
-`ssangyong_actyon_en_4c7a262c` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:660 | doc_type:owners_manual
-Some chargers feature polarity protection circuitry, which prevents charger unless the charger leads are correctly connected to the battery terminals.
-
-A completely discharged battery may not have enough voltage to activate this circuitry, even though the leads are connected properly, making it appear that the battery will not accept charging current.
-
-Therefore, follow the specific charger manufacturer&apos;s instruction for by passing or overriding the circuitry so that the charger will turn on and charge a low-voltage battery.
-
-3. Continue to charge the battery until the charge current is measurable. Battery chargers vary in the amount of voltage and current provided. The time required for the battery to accept a measurable charger current at various voltages may be as follows:
-
-![](images/02241f84ffd45ae3063d819adc78534ce8849c30f2a28e9aabafcfc8ebe09bcb.webp)
-
-f the charge current is not measurable at the end of the above charging times, the batery   
-should be replaced.   
-f the charge current is measurable during the charging time, the battery is good, and charging should be completed in the normal manner.
+> ⚠️ **Внимание:** Some chargers feature polarity protection circuitry, which prevents charger unless the charger leads are correctly connected to the battery terminals.
+>
+> A completely discharged battery may not have enough voltage to activate this circuitry, even though the leads are connected properly, making it appear that the battery will not accept charging current.
+>
+> Therefore, follow the specific charger manufacturer&apos;s instruction for by passing or overriding the circuitry so that the charger will turn on and charge a low-voltage battery.
+>
+> 3. Continue to charge the battery until the charge current is measurable. Battery chargers vary in the amount of voltage and current provided. The time required for the battery to accept a measurable charger current at various voltages may be as follows:
+>
+> ![](images/02241f84ffd45ae3063d819adc78534ce8849c30f2a28e9aabafcfc8ebe09bcb.webp)
+>
+> f the charge current is not measurable at the end of the above charging times, the batery   
+> should be replaced.   
+> f the charge current is measurable during the charging time, the battery is good, and charging should be completed in the normal manner.
 
 
-### CAUTION
-`ssangyong_actyon_en_0cb70ee8` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:661 | doc_type:owners_manual
-It is important to remember that a completely discharged battery must be recharged for a suficient number of ampere hours (AH) to restore the battery to a usable state.
-
-f the charge current is still not measurable after using the charging time calculated by the above method, the battery should be replaced.
-
-![](images/f662496664b25ba8a2698ccc62dc7f98e09541891c17bc30ec90c2e9defb16e3.webp)
+> ⚠️ **Внимание:** It is important to remember that a completely discharged battery must be recharged for a suficient number of ampere hours (AH) to restore the battery to a usable state.
+>
+> f the charge current is still not measurable after using the charging time calculated by the above method, the battery should be replaced.
+>
+> ![](images/f662496664b25ba8a2698ccc62dc7f98e09541891c17bc30ec90c2e9defb16e3.webp)
 
 
 ### 5) Jump Starting Procedure
-`ssangyong_actyon_en_2ca6e3f5` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:662 | doc_type:owners_manual
 1. Position the vehicle with the charged battery so that the jumper cables wil reach from the charged battery to the battery that requires charging.   
 2. Turn off the ignition, all the lights, and all the electrical loads in both vehicles.   
 3. Leave the hazard flasher on if jump starting where there may be other trafic and any other lights needed for the work area.   
 4. Apply the parking brake firmly in both vehicles.
 
 
-### CAUTION
-`ssangyong_actyon_en_029ccc98` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:663 | doc_type:owners_manual
-In order to avoid damaging the vehicle make sure the cables are not on or near pulleys, fans, or other parts that will move when the engine starts.
-
-5. Shift an automatic transmission to PARK.
+> ⚠️ **Внимание:** In order to avoid damaging the vehicle make sure the cables are not on or near pulleys, fans, or other parts that will move when the engine starts.
+>
+> 5. Shift an automatic transmission to PARK.
 
 
-### CAUTION
-`ssangyong_actyon_en_bfe14d2f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:664 | doc_type:owners_manual
-In order to avoid injury, do not use cables that have loose or missing insulation.
-
-6. Clamp one end of the first jumper cable to the positive terminal on the booster battery. Make sure it does not touch any other metal parts.   
-7. Clamp the other end of the same cable to the positive terminal on the discharged battery. Never connect the other end to the negative terminal of the discharged battery.
+> ⚠️ **Внимание:** In order to avoid injury, do not use cables that have loose or missing insulation.
+>
+> 6. Clamp one end of the first jumper cable to the positive terminal on the booster battery. Make sure it does not touch any other metal parts.   
+> 7. Clamp the other end of the same cable to the positive terminal on the discharged battery. Never connect the other end to the negative terminal of the discharged battery.
 
 
-### CAUTION
-`ssangyong_actyon_en_15a6b6b9` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:665 | doc_type:owners_manual
-Do not attach the cable directly to the neg-ative terminal of the discharged batery.   
-Doing so could cause sparks and possible battery explosion.
-
-. Clamp one end of the second cable to the negative terminal of the booster battery.
-
-9. Make the final connection to a solid engine ground, such as the engine lift bracket at least 450 millimeters (18 inches) from the discharged battery.
-
-10.Start the engine of the vehicle with the good battery. Run the engine at a moderate speed for several minutes.
-
-11.Then start the engine of the vehicle with the discharged battery.
-
-12.Remove the jumper cables by reversing the above sequence exactly, removing the negative cable from the vehicle with the discharged battery first.
-
-While removing each clamp, take care that it does not touch any other metal while the other end remains attached.
-
-![](images/6930af967221618921870cef6d603a90d6b677d21eb027cbf000376e8a0ac4e7.webp)
+> ⚠️ **Внимание:** Do not attach the cable directly to the neg-ative terminal of the discharged batery.
+> Doing so could cause sparks and possible battery explosion.
+>
+> . Clamp one end of the second cable to the negative terminal of the booster battery.
+>
+> 9. Make the final connection to a solid engine ground, such as the engine lift bracket at least 450 millimeters (18 inches) from the discharged battery.
+>
+> 10.Start the engine of the vehicle with the good battery. Run the engine at a moderate speed for several minutes.
+>
+> 11.Then start the engine of the vehicle with the discharged battery.
+>
+> 12.Remove the jumper cables by reversing the above sequence exactly, removing the negative cable from the vehicle with the discharged battery first.
+>
+> While removing each clamp, take care that it does not touch any other metal while the other end remains attached.
+>
+> ![](images/6930af967221618921870cef6d603a90d6b677d21eb027cbf000376e8a0ac4e7.webp)
 
 
 ### 6) Alternator
-`ssangyong_actyon_en_d7d6d734` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:666 | doc_type:owners_manual
 Alternators are equipped with internal regulators.
 
 Unlike three-wire generators, the alternator may be used with only two connections: battery positive and an "D+" terminal to the charge indicator lamp.
@@ -29757,7 +28259,6 @@ At low speeds, with high electrical loads, the on-time may be 90 percent and the
 
 
 ### 7) Charging System
-`ssangyong_actyon_en_c4a98bc6` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:667 | doc_type:owners_manual
 Generators use a new type of regulator that incorporates a diode trio.
 
 A Delta stator, a rectifier bridge, and a rotor with slip rings and brushes are electrically similar to earlier generators.
@@ -29767,7 +28268,6 @@ There is no test hole.
 
 
 ### 8) Starter
-`ssangyong_actyon_en_1b112442` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:668 | doc_type:owners_manual
 Wound field starter motors have pole pieces, aranged around the armature, which are energized by wound field coils.
 
 Enclosed shift lever cranking motors have the shift lever mechanism and the solenoid plunger enclosed in the drive housing, protecting them from exposure to dirt, icy conditions, and splashes.   
@@ -29781,7 +28281,6 @@ To prevent excessive overrun, the switch should be released immediately after th
 
 
 ### ) Starting System
-`ssangyong_actyon_en_5e474e51` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:669 | doc_type:owners_manual
 The engine electrical system includes the battery, the ignition, the starter, the generator, and all the related wiring.
 
 Diagnostic tables wil aid in troubleshooting system faults. When a fault is traced to a particular component, refer to that component section of the service manual.
@@ -29794,7 +28293,6 @@ All of these components are connected electrically.
 
 
 ### 1. CRUISE CONTROL SWITCH
-`ssangyong_actyon_en_8191a631` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:670 | doc_type:owners_manual
 ![](images/9d846f68675000ba85e54be46330df88672e046d8a001ec72180fd7a8a262753.webp)
 
 The cruise control is an automatic speed control system that maintains a desired driving speed without using the accelerator pedal.
@@ -29802,32 +28300,25 @@ The cruise control is an automatic speed control system that maintains a desired
 The vehicle speed must be greater than 36 km/h to engage the cruise control. This feature is especially useful for motorway driving.
 
 
-### CAUTION
-`ssangyong_actyon_en_07b3f632` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:671 | doc_type:owners_manual
-The cruise control system is a supplementary system, which helps the driver to drive the vehicle at a desired speed without using the accelerator pedal under the traffic condition where the vehicle-tovehicle distance meets the legal requirement.
-
-![](images/1ed6a03c1f1111625f2c0e0844061bd1fb6ebc79ba1abaa3f25591e953c3397d.webp)
+> ⚠️ **Внимание:** The cruise control system is a supplementary system, which helps the driver to drive the vehicle at a desired speed without using the accelerator pedal under the traffic condition where the vehicle-tovehicle distance meets the legal requirement.
+>
+> ![](images/1ed6a03c1f1111625f2c0e0844061bd1fb6ebc79ba1abaa3f25591e953c3397d.webp)
 
 
-### WARNING
-`ssangyong_actyon_en_bd28a451` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:673 | doc_type:owners_manual
-Improper use of the cruise control could be dangerous.
-
-- Do not use on winding roads.yy   
-- Do not use in heavy trafic.yy   
-- Do not use on slippery, wet roads.   
-This could result in a loss of control, collision, and/or personal injuries.
+> ⚠️ **Внимание:** Improper use of the cruise control could be dangerous.
+>
+> - Do not use on winding roads.yy   
+> - Do not use in heavy trafic.yy   
+> - Do not use on slippery, wet roads.   
+> This could result in a loss of control, collision, and/or personal injuries.
 
 
-### NOTE
-`ssangyong_actyon_en_97124294` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:674 | doc_type:owners_manual
-The described speed value may vary slightly depending on the road conditions.
-
-![](images/6603e466f46aca5111067f9a266523eb9af97c9c417a1fe1d423b0993c1d7d36.webp)
+> ℹ️ **Примечание:** The described speed value may vary slightly depending on the road conditions.
+>
+> ![](images/6603e466f46aca5111067f9a266523eb9af97c9c417a1fe1d423b0993c1d7d36.webp)
 
 
 ### 2. HOW TO OPERATE CRUISE CONTROL SWITCH
-`ssangyong_actyon_en_729a1073` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:675 | doc_type:owners_manual
 1) Setting a Desired Speed
 
 ![](images/0287c6bec50db3d8cd35435efb0f327bb0912184c0550185cf06a371195130ce.webp)
@@ -29838,26 +28329,21 @@ The described speed value may vary slightly depending on the road conditions.
 4. And you can set to other vehicle speeds again with above steps after an accelerator pedal intervention during the cruise control running.
 
 
-### CAUTION
-`ssangyong_actyon_en_592215a8` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:676 | doc_type:owners_manual
-Never use the cruise control system until you get used to it.   
-Improper use or not fully aware of this function could result in collsion and/or personal injuries.
+> ⚠️ **Внимание:** Never use the cruise control system until you get used to it.
+> Improper use or not fully aware of this function could result in collsion and/or personal injuries.
 
 
 ### (1) Manual transmission equipped vehicle
-`ssangyong_actyon_en_48898c45` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:677 | doc_type:owners_manual
 The cruise control is only available when the 3rd or higher speed gear is engaged.
 
 ![](images/d17e3c7f497fe6d95503a23b4c6ab3b161e201c4bdbf91026eb8b8d8c018ba80.webp)
 
 
 ### 2) Accelerating with the Cruise Control System
-`ssangyong_actyon_en_d0372f8d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:678 | doc_type:owners_manual
 ![](images/30034976e4049261caf2d160147a97810f3e77aecd4d567fe193d4a8b2bdd28f.webp)
 
 
 ### (3) Tap-up while the cruise control system is running
-`ssangyong_actyon_en_a686be09` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:681 | doc_type:owners_manual
 1. Push up the ACCEL switch of the cruise control lever less than 0.5 second per one switching while the cruise control system is running. This is a tap-up switching.
 
 2. When you operate a tap-up switching, the vehicle is accelerated by 1.3 km/h over the previous set speed.
@@ -29868,12 +28354,10 @@ The cruise control is only available when the 3rd or higher speed gear is engage
 
 
 ### 3) Decelerating with the Cruise Control System
-`ssangyong_actyon_en_417ffa70` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:682 | doc_type:owners_manual
 ![](images/c57ff34f72d5e47cf1016707d95b3ee67002e70a8f74d19cb47dbedb225ae595.webp)
 
 
 ### (3) Tap-down while the cruise control system is running
-`ssangyong_actyon_en_74b9733a` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:685 | doc_type:owners_manual
 1. Push down the DECEL switch of the cruise control lever lessthan 0.5 second per one switching while the cruise control system is running. This is a tap-down switching.
 
 2. When you operate a tap-down switching, the vehicle is decelerated by 1.0 km/h below the previous set speed.
@@ -29884,21 +28368,17 @@ The cruise control is only available when the 3rd or higher speed gear is engage
 
 
 ### 4) Recovery of Set Speed (RESUME)
-`ssangyong_actyon_en_e8dbec8d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:686 | doc_type:owners_manual
 ![](images/fbbfadb6015558ac3d3bdb7e9c0ed171d0fa296afff110f198016113a4787939.webp)
 
 Even if the cruise control is cancelled, the previous set cruise speed can be recovered by pushing (Type A) or pulling (Type B) toward the cruise control lever when the current vehicle speed is over 36 km/h without an acceleration intervention. But if you turn off the ignition switch, the memorized set speed is cleared and you cannot recover the previous set speed.
 
 
-### CAUTION
-`ssangyong_actyon_en_a76dd25a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:687 | doc_type:owners_manual
-The resume position should only be used if the driver is fully aware of this speed and wishes to resume this particular speed.
-
-![](images/09a874a6c81157b241f0c4d3d43ce93a9dd6d4495bbf704c15657f483f4a92a1.webp)
+> ⚠️ **Внимание:** The resume position should only be used if the driver is fully aware of this speed and wishes to resume this particular speed.
+>
+> ![](images/09a874a6c81157b241f0c4d3d43ce93a9dd6d4495bbf704c15657f483f4a92a1.webp)
 
 
 ### 5) Normal Cancellation of the Cruise Control
-`ssangyong_actyon_en_e3b9ca38` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:688 | doc_type:owners_manual
 ![](images/766de8f26269521927f1cc170fc9b6f3aedd9cdcd2817319fda17c9c301014ac.webp)
 
 The cruise control system will be canceled when one or more items of the following conditions are applied;
@@ -29911,22 +28391,18 @@ The cruise control system will be canceled when one or more items of the followi
 6. When using the clutch in order to shift (M/T only). And the cruise control system can be operated again in driving state.
 
 
-### CAUTION
-`ssangyong_actyon_en_4c618a3c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:689 | doc_type:owners_manual
-Keep the main cruise control switch in the neutral position when not using the cruise control.
-
-![](images/29685ffd8eb728a71a37284be6b52138a3412b4449ab8f148a0940bd030ee6b1.webp)
+> ⚠️ **Внимание:** Keep the main cruise control switch in the neutral position when not using the cruise control.
+>
+> ![](images/29685ffd8eb728a71a37284be6b52138a3412b4449ab8f148a0940bd030ee6b1.webp)
 
 
 ### (2) Using the Cruise Control on Hills
-`ssangyong_actyon_en_5ccfaeed` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:692 | doc_type:owners_manual
 How well the cruise control works on hils depends on the speed, load, and the steepness of the hil. When going up steep hils, you may have to depress the accelerator pedal to maintain your speed. When going downhil, you may have to brake or shift to a lower gear to keep your speed down. Applying the brake takes you out of the cruise control.
 
 ![](images/9c1991af055650acc05f6745e75db5135aa2e981d36fed9f04b7c765657304f9.webp)
 
 
 ### 1. ENGINE DATA DISPLAY TABLE
-`ssangyong_actyon_en_54974aa6` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:693 | doc_type:owners_manual
 ![](images/01b28f16bf27e0445ba2f7ea9b654b1e447f5b31b32bcd686fde3337d27ed207.webp)
 \* Condition: Warmed up, idle, P/N or neutral
 
@@ -29934,12 +28410,10 @@ How well the cruise control works on hils depends on the speed, load, and the st
 
 
 ### 1) TEMPERATURE VS RESISTANCE
-`ssangyong_actyon_en_33287cbf` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:694 | doc_type:owners_manual
 ![](images/8b4a5ef3e0d550f3a232d28e905e0c61d1c22fef77b7ca4d06d9cefd0a2aba82.webp)
 
 
 ### 2. FASTENER TIGHTENING SPECIFICATIONS
-`ssangyong_actyon_en_f5c8b85e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:695 | doc_type:owners_manual
 ![](images/971b2e2eabf626de0802dfef89c598a47c10bb1a0cc57c1ef65e6789f8710a7e.webp)
 
 ![](images/e9ffefd7a11fbe47c83e370ab1e0e4fbafaaa8ad159608f97a20af997b732871.webp)
@@ -29954,7 +28428,6 @@ How well the cruise control works on hils depends on the speed, load, and the st
 
 
 ### 2. LOCATION AND COMPARTMENT OF INTERIOR SWITCHES
-`ssangyong_actyon_en_10cb4e0e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:696 | doc_type:owners_manual
 ![](images/eabc2ed9feda1422a85586485557cd94ba7e1022aa86ca1467947bcdccb5d5ef.webp)
 
 ![](images/06d21826d88cd1c951984cf52f56fcd67084aa52cec700ddca5420f8bea411a4.webp)
@@ -29965,7 +28438,6 @@ How well the cruise control works on hils depends on the speed, load, and the st
 
 
 ### 3. SWITCHES, UNITS AND SENSORS IN ENGINE COMPARTMENT
-`ssangyong_actyon_en_00eb6546` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:697 | doc_type:owners_manual
 ![](images/fc372e44d92e86d8bd190b25fe4f1139a1fa2eb3d7068f0707b5b8203748ee91.webp)
 
 ![](images/6a03ebeb6509c8830210f86d8561fff7ae0c1c8db30460a0080c9de0cb0e0932.webp)
@@ -29982,7 +28454,6 @@ How well the cruise control works on hils depends on the speed, load, and the st
 
 
 ### 4. ELECTRIC COMPONENTS AND LAYOUT 1) Wiring Harness Arrangement
-`ssangyong_actyon_en_036450f6` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:698 | doc_type:owners_manual
 □0□□ C101 C102 W/H ENG ROOM 6 W/H MAIN 103 104 I W/H FLOOR C105 10 G103G102 G104 W/H BATT NEGA C113(3Pin, B/DSL) 107 C1080 BATT < W/H ALTERNATOR © 4Pin,BDSL) WH ALTERNATOR C113A O C109 C C1\$ C102(4Pin,W) G101 ← (1Pin,Gr) 116(26Pin,B/DS) C214 Eng Room Fuse Box - WH Floor C1(1P..) C103(16Pin,Gr) C117(8PinB/DSL) C215 C351(33Pin,W) C361(33Pin,W) C106(20Pin,W) k En Oom u  C 6205 C110(10Pin,W) ECU G206 1(   
 A G204 C214(20in,Y) A W/H MAIN C215(20Pin,Br) C202 G301 G302 G2022 © үү WH Main - W/H A/BagC211(2/6Pin, Y) C204 4 C203 Der S G303 (2Pin,) Paseger DR C302(6Pin,W) W/H DRIVER SEAT WASSENGER SSET W/H Main - W/H Floor C20(n) 7 S302 (4P(0,0)) C0(AV   
 W/HMain - W/H A/BagC205(2/6Pin,Y) х C901A(6A/T 12Pin,B)   
@@ -29992,14 +28463,12 @@ B W/H RR |W/H T/M WHRR C207 LHD W/H FUEL SENDER RHDRR C206 C208 AL 2 © G304 W/H
 
 
 ### 2) Components Locator
-`ssangyong_actyon_en_af05bcad` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:699 | doc_type:owners_manual
 ![](images/d9b3a7490f49a02de4db4da1e83726c6baa440d7b66eb1443c16dce9c58f2855.webp)
 
 ![](images/518cfbd284e741f1e91226cf8d221daf09f9e398af123ae8a77fd3c901203050.webp)
 
 
 ### 5. DIAGNOSTIC CONNECTOR
-`ssangyong_actyon_en_3c74baa1` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:700 | doc_type:owners_manual
 1) Pin Arrangement of Diagnostic Connector
 
 It is installed under the instrument panel and consists of 16 pins.   
@@ -30010,14 +28479,12 @@ H 161514131211109
 
 
 ### 2) Functions of Terminal
-`ssangyong_actyon_en_9c77eb49` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:701 | doc_type:owners_manual
 ![](images/b2024b22b14a0880ae1603a4fbbcbef4c89a2c5aed676432a8fb835c51c6e4cb.webp)
 
 ![](images/1d3bccaeae88f1a082b007502f3c339106bafe7648845f6984d342f5287a3610.webp)
 
 
 ### 1. CAUTIONS WHEN WORKING ON ELECTRICAL UNITS
-`ssangyong_actyon_en_e50e50ae` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:702 | doc_type:owners_manual
 ![](images/587bda0b903034a7c1aeddd7c41243016a8d531731bbcafa598319542cf6f1a4.webp)
 
 ![](images/c11ab96dce2e920cc5c78519f22c2098bf6de1895983317ce357445cf2c75fde.webp)
@@ -30025,38 +28492,33 @@ H 161514131211109
 -Disconnect the negative cable from the battery in advance when working on electrical units.
 
 
-### CAUTION
-`ssangyong_actyon_en_3a023007` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:703 | doc_type:owners_manual
-Make sure to turn "OFF" the ignition switch and other lamp switches before disconnecting or connecting the negative battery cable. (Otherwise, semiconductor parts can be damaged.)
-
-- Do not drop or appy excessive impact to sensors and relays.
-
-- If a fuse is blown, replace it with a fuse which has the correct amperage rating. If you use a fuse with higher capacity than the specification, the component can be damaged or catch fire.
-
-![](images/d79215b6924871fccac3ea83e25650b35a82344eb27e15067cfd30a96af0083e.webp)
-
-![](images/323916903bef36f93192fe9f53fcd02e7a46c17a0cf71074d8996f58d9adbe67.webp)
-
--Make sure a connector is connected securely. Loose connection results in malfunction.
-
-![](images/3c0bdcf513c44164f2a5a8c331e825f11499a73c0b577ac8b2f3231477f636d6.webp)
-
-- When disconnecting a connector equipped with a lock, press it down to the direction in the below figure.
-
-![](images/fe856cab94e0ce0e3e9b926080bcd89527b24fe75e78d3dd8c622f386a6031ef.webp)
-
--When checking voltage or continuity of the connector terminal with a circuit tester, connect the tester probe to the terminal at the harness side. For a sealed type connector, connect the probe to the terminal through the hole in the rubber cap of the wiring. Take care not to damage the insulation of the wires. Insert the probe until it contacts the terminal completely.
+> ⚠️ **Внимание:** Make sure to turn "OFF" the ignition switch and other lamp switches before disconnecting or connecting the negative battery cable. (Otherwise, semiconductor parts can be damaged.)
+>
+> - Do not drop or appy excessive impact to sensors and relays.
+>
+> - If a fuse is blown, replace it with a fuse which has the correct amperage rating. If you use a fuse with higher capacity than the specification, the component can be damaged or catch fire.
+>
+> ![](images/d79215b6924871fccac3ea83e25650b35a82344eb27e15067cfd30a96af0083e.webp)
+>
+> ![](images/323916903bef36f93192fe9f53fcd02e7a46c17a0cf71074d8996f58d9adbe67.webp)
+>
+> -Make sure a connector is connected securely. Loose connection results in malfunction.
+>
+> ![](images/3c0bdcf513c44164f2a5a8c331e825f11499a73c0b577ac8b2f3231477f636d6.webp)
+>
+> - When disconnecting a connector equipped with a lock, press it down to the direction in the below figure.
+>
+> ![](images/fe856cab94e0ce0e3e9b926080bcd89527b24fe75e78d3dd8c622f386a6031ef.webp)
+>
+> -When checking voltage or continuity of the connector terminal with a circuit tester, connect the tester probe to the terminal at the harness side. For a sealed type connector, connect the probe to the terminal through the hole in the rubber cap of the wiring. Take care not to damage the insulation of the wires. Insert the probe until it contacts the terminal completely.
 
 
-### CAUTION
-`ssangyong_actyon_en_2e6814da` | actyon | pdf_manual | tier:2 | lang:en | layer:interior | p:704 | doc_type:owners_manual
-When inspecting the airbag system, make sure to use a diagnostic device, not a circuit tester.
-
-![](images/d52c0076e8c1a5885ad211a3eda6bba48f41f793cdfd6d84ece14511f9fad6c9.webp)
+> ⚠️ **Внимание:** When inspecting the airbag system, make sure to use a diagnostic device, not a circuit tester.
+>
+> ![](images/d52c0076e8c1a5885ad211a3eda6bba48f41f793cdfd6d84ece14511f9fad6c9.webp)
 
 
 ### 2. GENERAL INFORMATION
-`ssangyong_actyon_en_4f66124a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:705 | doc_type:owners_manual
 The ICM (Integrated Control Module) box installed to the new Actyon model is integrated with some relays of previous model and is installed to the back of the STICKS. As the ICM box is newly installed, the following relays are integrated into the ICM box.
 
 - Door lock relay (previously installed to STICKS bracket) - Windshield de-icer relay (previously installed next to floor on the driver side) - Turn signal lamp relay (previously installed to passenger side fuse & relay box)
@@ -30067,12 +28529,10 @@ The ICM (Integrated Control Module) box installed to the new Actyon model is int
 
 
 ### 1. OVERVIEW
-`ssangyong_actyon_en_8579ff33` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:706 | doc_type:owners_manual
 The ICM (Integrated Control Module) mounted to the back of the STICS is integrated with the door lock relay, windshield de-icer relay and turn signal lamp relay. There are four fuse & relay units.
 
 
 ### 2. FUSE & RELAY MOUNTING LOCATION
-`ssangyong_actyon_en_497c8f38` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:707 | doc_type:owners_manual
 (1) In engine compartment
 
 ![](images/1ad0c98b75659f47512e4ea7ed0ae508437c784a570a2b9a6d4d074c6140b7ef.webp)
@@ -30081,7 +28541,6 @@ The ICM (Integrated Control Module) mounted to the back of the STICS is integrat
 
 
 ### 1. OVERVIEW
-`ssangyong_actyon_en_303df00c` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:708 | doc_type:owners_manual
 RKSTICS (REKES + STICS (Super Time & Integrated Control System), is almost the same as that of ACTYON in terms of its function and role. Due to the removal of tailgate opening switch and rear wiper and washer system, the circuit layout is slightly changed, compared to ACTYON.
 
 ![](images/3b85d798aef74859a10b38adca0b862c46a1985f31819aa829318a09479e4a1e.webp)
@@ -30090,14 +28549,12 @@ RKSTICS (REKES + STICS (Super Time & Integrated Control System), is almost the s
 
 
 ### 1) Electrical Performance
-`ssangyong_actyon_en_13a8e7e2` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:709 | doc_type:owners_manual
 Electrical Performance
 
 ![](images/f19911081207becb82af117bd657a12ff3f421b2c20e48aa3819af266e6dc7ac.webp)
 
 
 ### Characteristics of Radio Wave
-`ssangyong_actyon_en_b392655d` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:710 | doc_type:owners_manual
 1. Transmitting frequency: 447.800 ± 0.0125 MHz   
 2. Channel width: below 12.5 KHz   
 3. Frequency bandwidth: below 8.5 KHz   
@@ -30108,14 +28565,12 @@ Electrical Performance
 
 
 ### Rated Load
-`ssangyong_actyon_en_c1d577ed` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:711 | doc_type:owners_manual
 ![](images/9357c4ede5211b549e3517aeb05013fe8b9012152fdd1960fa3a90d4005b4bf3.webp)
 
 ![](images/d85ca5e20212d2bce4ca5acf7bedc2649544a909210f206c852d186189a54a09.webp)
 
 
 ### Input Signals
-`ssangyong_actyon_en_614a4b5e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:712 | doc_type:owners_manual
 Dr: Driver's seat, Ps: Passenger's seat, Fr: Front seat, Rr: Rear seat   
 ![](images/3a91baf052b5108148c532b13327b091ae9b66b8da027eb9066f183ff6ddfe1a.webp)
 
@@ -30123,7 +28578,6 @@ Dr: Driver's seat, Ps: Passenger's seat, Fr: Front seat, Rr: Rear seat
 
 
 ### Chattering of Input Signals
-`ssangyong_actyon_en_3465c022` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:713 | doc_type:owners_manual
 - Vehicle speed input: The vehicle speed is the average value of 4 pulses among 6 pulse inputs regardless of the input for 1.0 second after IGI 1 ON. The time indicated in each function does not include the vehicle speed calculating   
 time.   
 - 20 ms target input:   
@@ -30132,7 +28586,6 @@ Wiper motor A/S (parking) terminal
 
 
 ### Time Tolerance
-`ssangyong_actyon_en_07f7ac2f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:714 | doc_type:owners_manual
 - If not indicated, time tolerance will be ± 10%. However, if less than 500 ms, time tolerance will be ± 100 ms.   
 -The time indicated in each function does not include chatering processing time from switch input changing point.
 
@@ -30140,7 +28593,6 @@ Wiper motor A/S (parking) terminal
 
 
 ### 1. OVERVIEW
-`ssangyong_actyon_en_fc9722bb` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:715 | doc_type:owners_manual
 RKSTICS (REKES + STICS (Super Time & Integrated Control System), is almost the same as that of ACTYON in terms of its function and role. Due to the removal of tailgate opening switch and rear wiper and washer system, the circuit layout is slightly changed, compared to ACTYON.
 
 ![](images/06d1fe66c90f33d92469fff797ad495bb790907d5cb4b2227dd1b24c7d6104a2.webp)
@@ -30149,41 +28601,34 @@ RKSTICS (REKES + STICS (Super Time & Integrated Control System), is almost the s
 
 
 ### 2. FUNCTIONS AND SPECIFICATIONS 1) Wiper and Washer Operations
-`ssangyong_actyon_en_22df121b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:716 | doc_type:owners_manual
 ![](images/bdde22de1d15605048e26efc92dc9392114f365adc5d5315e97f3fffdbd54873.webp)
 
 ![](images/dd65fbc2faa03279b45bd9185f801e47c6925bc9518c06361793f2ca3fb2ffb8.webp)
 
 
 ### Front Auto Washer and Wiper Switch
-`ssangyong_actyon_en_5256bf98` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:717 | doc_type:owners_manual
 When pressing the auto washer switch with the wiper switch "OFF", the washer fluid is sprayed on the windshield and the wiper sweeps off 4 times, after then the washer fluid is sprayed and the wiper sweeps off 3 times again. _
 
 
 ### Rear Washer and Wiper
-`ssangyong_actyon_en_878c4b92` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:718 | doc_type:owners_manual
 The rear washer and the wiper operate only while holding the switch. When releasing the switch, it returns to the rear wiper operate position.
 
 
 ### Rear Wiper Operation
-`ssangyong_actyon_en_e838c9c7` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:719 | doc_type:owners_manual
 ![](images/0b7153e631ea4ab9ed41e2e3ff00bf471cfebea52f7cb746f8cccd7e634664c5.webp)
 
 
 ### Wiper and Washer Coupled Operation
-`ssangyong_actyon_en_09ee18f7` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:720 | doc_type:owners_manual
 Pullthe lever briefly (below 0.6 seconds): One wiping cycle Pull and hold the lever for more than 0.6 seconds: Three wiping cycles with washer spray
 
 
 ### Rear Washer and Wiper
-`ssangyong_actyon_en_94d7cb1d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:721 | doc_type:owners_manual
 The rear washer and the wiper operate only while holding the switch. When releasing the switch, it returns to "OFF" position.
 
 ![](images/56b2b86f94b824df9dd899f650d4d601557d82f879fcb777b71a527fe1adaf16.webp)
 
 
 ### 2) Wiper MIST and Front Washer Coupled Wiper
-`ssangyong_actyon_en_6ed37408` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:722 | doc_type:owners_manual
 1. The wiper relay is turned on at 0.3 seconds after from the time when the washer switch is turned on for 0.1 to 0.59 seconds (T2) with the ignition switch "ON". If the wiper parking terminal gets off, the wiper relay is turned off.
 
 ![](images/a65183c8e0354d384831acd8fffc2200e553d4b93a5bd19f476b28e7bece7467.webp)
@@ -30202,7 +28647,6 @@ The rear washer and the wiper operate only while holding the switch. When releas
 
 
 ### 3) Rear Washer Motor Control
-`ssangyong_actyon_en_cd8162d5` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:723 | doc_type:owners_manual
 1. When the rear washer switch is turned on with the ignition switch "ON", the rear washer motor relay output gets ON from the time when the rear washer switch is turned on. It gets OFF when the rear washer switch is turned off.   
 2. This control is not available while the front washer switch or the auto washer and wiper (AFW: Advanced Fast Washer) is in operation.
 
@@ -30212,7 +28656,6 @@ The rear washer and the wiper operate only while holding the switch. When releas
 
 
 ### 4) Auto Washer and Wiper Switch (AFW)
-`ssangyong_actyon_en_e8c62fb0` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:724 | doc_type:owners_manual
 1. When the auto washer switch is turned on with the ignition switch "ON" and the INT switch "OFF", the washer motor output gets ON for 1 second. If the system recognizes the output signal, the wiper relay output gets ON during 4 cycles and the washer motor output gets ON for 1 second. Then, the wiper relay output gets OFF after 3 cycles.
 
 ![](images/4943052533f591a6eb306cdbc5471e893c4d8c68e5b2af5a0a96a85ff4096909.webp)
@@ -30228,7 +28671,6 @@ The rear washer and the wiper operate only while holding the switch. When releas
 
 
 ### Priorities in Washer Operations
-`ssangyong_actyon_en_f0c83f38` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:725 | doc_type:owners_manual
 1. he rear washer switch input is overridden during the front washer operation.   
 2. The rear washer switch input is overidden during the auto washer and wiper (AFW) operation.   
 The front washer switch input is overidden during the rear washer operation.   
@@ -30242,7 +28684,6 @@ The front washer switch input is overidden during the rear washer operation.
 
 
 ### 5) Rain Sensor Coupled Wiper and Auto Light Control
-`ssangyong_actyon_en_c8b0048d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:726 | doc_type:owners_manual
 If equipped with RKSTICS rain sensor, it has following operation system.
 
 System layout
@@ -30253,7 +28694,6 @@ System layout
 
 
 ### 6) INT Switch Auto Position Reminder (Power-Up Reminder Wiper)
-`ssangyong_actyon_en_1ee5ba7c` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:727 | doc_type:owners_manual
 1. When turning of and on the auto INT switch, the system drives the wiper motor through LOW relay regardless of communication with rain sensor.
 
 2. The wiper relay (LOW) is turned on and the wiper motor runs one cycle when changing the wiper switch to "AUTO" position from any other positions (while the ignition key is in the "ON" position). When the wiper switch is turned to the "ON" position again from other positions, the system drives the wiper motor through LOW relay one cycle only when the rain sensor detects the "Rain Detected" signal.
@@ -30275,7 +28715,6 @@ FAST → SLOW: Auto delay/Auto speed control. A position that can control sensit
 
 
 ### 7) Washer Coupled Wiper in Rain Sensing Mode
-`ssangyong_actyon_en_27af0bd2` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:728 | doc_type:owners_manual
 1. The washer coupled wiper is operated when receiving the washer switch input with the ignition switch "ON" and the auto INT switch "ON" in the rain sensing mode. At this moment, the communication with the rain sensor is overidden. However, the washer switch input is overridden during the continuous operation.
 
 2. The operation data is sent to the rain sensor even during the washer coupled wiper's operation.
@@ -30286,7 +28725,6 @@ FAST → SLOW: Auto delay/Auto speed control. A position that can control sensit
 
 
 ### 8) Rain Sensing Sensitivity Control
-`ssangyong_actyon_en_103aff9a` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:729 | doc_type:owners_manual
 1. The wiper LOW relay is turned on and the wiper motor runs one cycle when the volume sensitivity is increased (while the ignition key is in the "ON" position, the wiper switch is in the "ON" position, and the wiper motor is in "Parked" position). However, the wiper motor can be operated only when the rain sensor detects the "Rain Detected" signal. \* If the volume sensitivity is changed more than 2 stages within 2 seconds, the wiper motor runs only one cycle.
 
 ![](images/eeff3b59d0067480bee67329fdade0551cd876d18305e8f8838dac3fd643c9ff.webp)
@@ -30295,7 +28733,6 @@ FAST → SLOW: Auto delay/Auto speed control. A position that can control sensit
 
 
 ### 9) When the Wiper Parking Signal is abnormal
-`ssangyong_actyon_en_33bf3ee4` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:730 | doc_type:owners_manual
 1. The wiper system continuously outputs the wiper parking signal when the wiper parking terminal is grounded (while the ignition key is in "ON" position and the wiper switch is in "ON" position). \* The wiper motor runs only when the rain sensor requires the wiper operation.
 
 ![](images/80ed4607a0946ea75ce5174b302ab0cd3626a3b5d79225ebd0e443f410580937.webp)
@@ -30308,7 +28745,6 @@ FAST → SLOW: Auto delay/Auto speed control. A position that can control sensit
 
 
 ### 10) Defective Rain Sensor
-`ssangyong_actyon_en_a97f1cd6` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:731 | doc_type:owners_manual
 1. The wiper relay (LOW) is turned on and the wiper motor runs one cycle when the volume sensitivity is changed to 2 from 3 during receiving the malfunction signal from the rain sensor (while the ignition key is in "ON" position and the wiper switch is in "ON" position).
 
 ![](images/1a9811c0878c34e37f631c5cceea1dbb74a18fda147764a2c91aae62d1f56596.webp)
@@ -30321,7 +28757,6 @@ FAST → SLOW: Auto delay/Auto speed control. A position that can control sensit
 
 
 ### Symptom 1.
-`ssangyong_actyon_en_84809e30` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:732 | doc_type:owners_manual
 The wiper does not operate one cycle when turning the multifunction wiper switch to the "AUTO" from the "OFF" position or starting the engine while the wiper switch is in the "AUTO" position.
 
 - When starting the engine with the multifunction wiper switch in the "AUTO" position, the wiper operates one cycle to remind a driver that the wiper switch is in the "AUTO" position. When the wiper switch is turned to "AUTO" from "OFF", the wiper operates one cycle. It always   
@@ -30329,7 +28764,6 @@ operates one cycle for the initial operation, however, the wiper does not operat
 
 
 ### Symptom 2.
-`ssangyong_actyon_en_358e9341` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:733 | doc_type:owners_manual
 It rains but the system does not work in the "AUTO" position.
 
 - Check whether the multifunction wiper switch is in the "AUTO" position.   
@@ -30357,7 +28791,6 @@ Symptom 6. The wiper responses are too fast or slow.
 
 
 ### 11) Auto Light Control
-`ssangyong_actyon_en_ca16844a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:734 | doc_type:owners_manual
 1. The tail lamps and headlamps can be controlled by the communication with the rain sensor only when the auto light switch is in "AUTO" position with the ignition switch "ON".
 
 ![](images/de9303b21412e9489737922e67077477a11bc41856c60280172cb70ea2eb4520.webp)
@@ -30372,7 +28805,6 @@ Symptom 6. The wiper responses are too fast or slow.
 
 
 ### 12) Speed Sensitive INT (Intermittent) Wiper
-`ssangyong_actyon_en_07bedb49` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:735 | doc_type:owners_manual
 For RKSTICS without the rain sensor, perform the fllowing operation:
 
 Controls the wiper intermittent operation by the values from the vehicle speed and the volume.
@@ -30383,45 +28815,38 @@ Intermittent interval (at 0 km/h): 3 ± 0.5 \~ 19 ± 2 seconds
 
 
 ### Vehicle speed calculation
-`ssangyong_actyon_en_1eeddb97` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:736 | doc_type:owners_manual
 - [Input the vehicle speed] It is calculated by the numbers of input pulses for one second.
 
 60 [km/h] X 60 [sec] 1 [PULSE/SEC] = = 1.41 [km/h] 637 X 4 PULSE
 
 
 ### VOLUME calculation
-`ssangyong_actyon_en_53975043` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:737 | doc_type:owners_manual
 - The pause time of the vehicle speed sensitive INT wiper is calculated by the INT volume (input voltage). Each level has the hysteresis.
 
 
 ### Pause time calculation
-`ssangyong_actyon_en_cedc54f0` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:738 | doc_type:owners_manual
 - Pause time: the duration that wipers are stopped at parking position -Elapsed time: the duration after the wiper motor started to operate from parking position -The pause time is calculated by the vehicle speed and the VOLUME. f the pause time is below 1.0 second, the wipers operate without pause. f the pause time is over 1.5 seconds, the wipers operate intermittently
 
 ![](images/bc9b36f9436420b40456b1acb0b5b2efa4765f52531f8cfff9ab147935f7e101.webp)
 
 
 ### Pause time of vehicle speed sensitive INT wiper
-`ssangyong_actyon_en_d2b58d7c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:739 | doc_type:owners_manual
 ![](images/44437486821139f7e8c2c06fa0b7ad23f7abbe80e7f6e3910a1c665ed3123717.webp)
 
 ![](images/a9607728dec6c9a19c099daee0e65e1b8f82d224a2d49cc57e97c6aeed59af1e.webp)
 
 
 ### Speed sensitive INT (intermittent) wiper
-`ssangyong_actyon_en_d4022b5c` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:740 | doc_type:owners_manual
 -The wiper relay continues to output for remaining "ON" tme even when the INT switch is turned off. - IGN 2 switch "ON", INT switch "OFF": Resume the intermittent time when turning "ON" - IGN 2 switch "OFF", INT switch "ON": Resume the intermitent time when turning "ON"
 
 
 ### Controls when the wiper motor parking is defective
-`ssangyong_actyon_en_6e96a965` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:741 | doc_type:owners_manual
 - The wiper relay continues to output when the parking terminal is fixed at the ground or IGN while the wiperrelay is "ON" (INT switch = ON or Washer switch = ON) (The output stops immediately after turning off the switch) (The output stops immediately after turning OFF the switch.)
 
 ![](images/7b130e7a36a4166598674ac0df0dd3b2cba7b8ee189295d58160032ae07f0376.webp)
 
 
 ### 13) Ignition Key Reminder Warning
-`ssangyong_actyon_en_2a85bc9f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:742 | doc_type:owners_manual
 (The ignition key reminder warning has priority over the "TAILLAMP ON WARNING".)
 
 1. The chime buzzer sounds continuously when opening the driver's door while the ignition key is in ignition switch.   
@@ -30446,7 +28871,6 @@ Ignition Key Reminder
 
 
 ### 14) All Door Lock Prevention Function when a Door is Open
-`ssangyong_actyon_en_8f93cff4` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:743 | doc_type:owners_manual
 1. All doors, except the tailgate and hood, output "UNLOCK" signal for 5 seconds when the "LOCK" signal is inputted (while the ignition key is removed and one of any doors is open). 2. When the door is closed during the UNLOCK output, the UNLOCK output stops immediately. 3. When the ignition key is inserted during the output, the output continues for approx. 5 seconds. If the ignition switch is in the "ON" position or the ignition switch is removed, the above steps are 4. performed. f the key is in the key cylinder, the ignition key reminder function is activated. This function does not work if the vehicle speed is over 10 km/h.
 
 5.
@@ -30457,7 +28881,6 @@ Ignition Key Reminder
 
 
 ### 15) Tail Lamp Left on Warning
-`ssangyong_actyon_en_3d3fed1f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:744 | doc_type:owners_manual
 1. The chime buzzer sounds with the interval of 0.8 second when opening the driver's door while the tail lamp is turned on and the ignition key is removed.   
 . The chime/buzzer output stops when turning off the tail lamp and closing the driver's door.   
 3. The system outputs "UNLOCK" signal for 5 seconds when the driver's and passenger's door lock switch is locked (while the tail lamp is turned on and the driver's door is open).   
@@ -30469,7 +28892,6 @@ Ignition Key Reminder
 
 
 ### 16) Door Ajar Warning
-`ssangyong_actyon_en_d4118ec7` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:745 | doc_type:owners_manual
 1. The warning light in instrument panel comes on when opening any of doors including tailgate while the vehicle speed is below 10 km/h.
 
 2. The warning light goes off when closing the door under step 1.
@@ -30487,7 +28909,6 @@ Ignition Key Reminder
 
 
 ### 17) Seat Belt Warning
-`ssangyong_actyon_en_dd490ff6` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:746 | doc_type:owners_manual
 1. The seat belt warning light comes on and the chime buzzer sounds for 6 seconds when turning the ignition key to "ON" from "OFF".   
 2. If the seat belt is fastened before turning the ignition key to the the "ON" position, the warning light in the instrument panel blinks, however, the chime buzzer does not sound.   
 3. The seat belt warning light goes off and the chime buzzer stops when turning the ignition switch to the "OFF" position.   
@@ -30503,7 +28924,6 @@ The seat belt warning light comes on and the chime buzzer sounds for 6 seconds w
 
 
 ### 18) Parking Brake Warning
-`ssangyong_actyon_en_14a31b3f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:747 | doc_type:owners_manual
 1. The parking brake warning light comes on for approx. 4 seconds when turning the ignition key from the "OFF" to the "ON" position regardless of the vehicle speed and the parking brake switch position. After this 4 seconds, the warning lamp comes on, goes off or blinks according to the vehicle speed and the parking brake switch position.   
 2. The warning light comes on when the parking brake switch is turned on while the vehicle speed is below 10 km/h.   
 3. The warning light goes off when turning off the parking brake switch under step 2.   
@@ -30518,7 +28938,6 @@ The seat belt warning light comes on and the chime buzzer sounds for 6 seconds w
 
 
 ### 19) Front/Center Room Lamp Control
-`ssangyong_actyon_en_1908ce3e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:748 | doc_type:owners_manual
 The overhead console lamp (front room lamp) and the center room lamp come on when opening the door while the center room lamp switch is at the coupled operating position and the key reminder switch is "OFF".
 
 1. When the door (Driver's/Passenger's/Rear) is opened, the front and center room lamps come on and automatically go off after 30 seconds.   
@@ -30543,7 +28962,6 @@ Front room lamp (driver's or passenger's) is turned on and off when pressing the
 
 
 ### Center Room Lamp
-`ssangyong_actyon_en_326700ab` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:749 | doc_type:owners_manual
 If the switch is at the door coupled position, the center room lamp comes on when a door is opened. The lamp always comes on while the switch is at the other position.
 
 ![](images/16a4e0dd0d58c4b5d1b6746b93f9226a638aaf7ea0125b78f6e904698f88a31d.webp)
@@ -30552,7 +28970,6 @@ If the switch is at the door coupled position, the center room lamp comes on whe
 
 
 ### 20) Ignition Key Hole Illumination
-`ssangyong_actyon_en_cc3cb4c9` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:750 | doc_type:owners_manual
 1. The ignition key hole illumination comes on when opening the driver's door or passenger's door while the ignition key is removed.
 
 . The ignition key hole illumination stays on for 10 seconds when closing the door after step 1.
@@ -30575,7 +28992,6 @@ KEY ILLUMI LAMP
 
 
 ### 21) Tail Lamp Auto Cut (Battery Saver)
-`ssangyong_actyon_en_557df75f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:751 | doc_type:owners_manual
 1. The tail lamp is turned on or off according to the operations of the tail lamp switch.
 
 The tail lamp relay is turned off (auto cut) when opening and closing the driver's door after removing the ignition key without turning off the tail lamp.   
@@ -30586,7 +29002,6 @@ The tail lamp relay is turned off (auto cut) when opening and closing the driver
 
 
 ### 22) Front Defogger Timer
-`ssangyong_actyon_en_b344d399` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:752 | doc_type:owners_manual
 1. The front defogger output is "ON" when turning "ON" the front defogger switch while the ignition switch is "ON" (with engine running).   
 2. The output stops when turning on the defogger switch again during its operation.   
 3. The output is "ON" only for 6 minutes when turning "ON" the front defogger switch within 10 minutes after completion of output for 12 minutes. This can be done only once.
@@ -30599,7 +29014,6 @@ The tail lamp relay is turned off (auto cut) when opening and closing the driver
 
 
 ### 23) Rear Defogger Timer
-`ssangyong_actyon_en_665f8e6b` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:753 | doc_type:owners_manual
 -The rear defogger output is "ON" when turning "ON" the rear defogger switch while the IGN 2 switch is "ON" (with engine running).   
 -The output is "OFF" when turning "ON" the rear defogger switch again during output.   
 - The output is "ON" only for 6 minutes when turning "ON" the rear defogger switch within 10 minutes after completion of output for 12 minutes. This can be done only once.   
@@ -30611,7 +29025,6 @@ The tail lamp relay is turned off (auto cut) when opening and closing the driver
 
 
 ### 24) Door Lock/Unlock Control by Door Lock Switch
-`ssangyong_actyon_en_96f2bea0` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:754 | doc_type:owners_manual
 1. The door lock system outputs "LOCK" signal for 0.5 seconds when positioning the driver's or passenger's door lock switch to the lock position.   
 2. The door lock system outputs "UNLOCK" signal for 0.5 seconds when positioning the driver's or passenger's door lock switch to the unlock position.   
 3. "LOCK" or "UNLOCK" by the door lock switch is ignored when outputting the "LOCK" or "UNLOCK" signal by other functions.   
@@ -30623,7 +29036,6 @@ The tail lamp relay is turned off (auto cut) when opening and closing the driver
 
 
 ### 25) Tailgate Open Control
-`ssangyong_actyon_en_e31fc85c` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:755 | doc_type:owners_manual
 1. When pressing and holding the tailgate open switch for more than 0.6 seconds while LOCK switches in all doors are in UNLOCK position and the vehicle speed is 0 Km/h, STICS operates the tailgate relay for 0.5 seconds to unlock the tailgate.   
 2. If any LOCK switch is switched to LOCK position or vehicle speed exceeds 3 Km/h while operating the tailgate open relay, the output of the tailgate relay gets OFF.
 
@@ -30633,7 +29045,6 @@ The tail lamp relay is turned off (auto cut) when opening and closing the driver
 
 
 ### 26) Door Lock/Unlock Control by Door Lock Switch
-`ssangyong_actyon_en_56a71daf` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:756 | doc_type:owners_manual
 1. The door lock system outputs "LOCK/UNLOCK" signal for 0.5 seconds when operating the central door lock switch. (However, if the door lock switch (front doors) is at LOCK position, the system outputs UNLOCK signal, and vice versa.) 2. The "LOCK" or "UNLOCK" inputs from the central door lock switch in anti-theft mode are ignored.
 
 ![](images/b6576fcc81e3a0549c645fdd548840dd26b8244afc4398cdc53ed569f0bafefa.webp)
@@ -30642,7 +29053,6 @@ The tail lamp relay is turned off (auto cut) when opening and closing the driver
 
 
 ### 27) Door LOCK/UNLOCK by Remote Control Key
-`ssangyong_actyon_en_d3ccaf06` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:757 | doc_type:owners_manual
 1. The door lock relay output is "ON" for 0.5 seconds when receiving the remote control lock signal. The door unlock relay output is "ON" for 0.5 seconds when receiving the remote control unlock signal.   
 2.
 
@@ -30652,7 +29062,6 @@ The tail lamp relay is turned off (auto cut) when opening and closing the driver
 
 
 ### 28) Auto Door Lock
-`ssangyong_actyon_en_9aaba9ec` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:758 | doc_type:owners_manual
 1. The door lock system outputs "LOCK" when the vehicle speed maintains over 50 km/h. However, it doesn't output "LOCK" when all doors are locked or failed.   
 2. If any of doors is unlocked after outputting "LOCK" in step 1, outputs "LOCK" up to 5 times (except step 1) at the interval of one second.   
 3. If any of doors is unlocked after 5 times of "LOCK" outputs, the door is regarded as "FAIL".   
@@ -30668,7 +29077,6 @@ The "FAIL" condition of the door will be erased when the ignition key is turned 
 
 
 ### 29) Auto Door Unlock (Crash Unlock)
-`ssangyong_actyon_en_e5c80b27` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:759 | doc_type:owners_manual
 1.The air bag colision signal input cannot be accepted within 7 seconds after turning the ignition key to "ON" position.   
 2. After this period, the door lock system outputs "UNLOCK" for alldoors for 5 seconds from 0.4 seconds after receiving the air bag collsion signal.   
 3. Even though the key is turned to "OFF" position during the output of "UNLOCK", the output continues on for remaining period.   
@@ -30677,18 +29085,15 @@ The "FAIL" condition of the door will be erased when the ignition key is turned 
 ![](images/437d1ff84c8677778105e674d61435776200aed9f8ae05282ee91e3030f4ea00.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_dae50585` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:760 | doc_type:owners_manual
-- The "Unlock" control by air bag signal prevails over any "LOCK" or "UNLOCK" control by other functions.   
-- The "LOCK/UNLOCK" request by other functions will be ignored after/during the output of "UNLOCK" by the air bag. However, the door lock is controlled by other functions when the ignition switch is "OFF".   
-- "LOCK" (or "UNLOCK") output is ignored if "LOCK" (or "UNLOCK") output is required while performing the output of "LOCK" (or "UNLOCK").   
-- if the door lock system outputs "LOCK" and "UNLOCK" simultaneously, only the "LOCK" output can be activated.
-
-![](images/bb3035279151dc4ab3018a3fb3c21c68811e93287ec448e3dbe4db96dc3d8dec.webp)
+> ⚠️ **Внимание:** - The "Unlock" control by air bag signal prevails over any "LOCK" or "UNLOCK" control by other functions.
+> - The "LOCK/UNLOCK" request by other functions will be ignored after/during the output of "UNLOCK" by the air bag. However, the door lock is controlled by other functions when the ignition switch is "OFF".   
+> - "LOCK" (or "UNLOCK") output is ignored if "LOCK" (or "UNLOCK") output is required while performing the output of "LOCK" (or "UNLOCK").   
+> - if the door lock system outputs "LOCK" and "UNLOCK" simultaneously, only the "LOCK" output can be activated.
+>
+> ![](images/bb3035279151dc4ab3018a3fb3c21c68811e93287ec448e3dbe4db96dc3d8dec.webp)
 
 
 ### 30) Time Lag Power Window Control
-`ssangyong_actyon_en_6080a9d5` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:761 | doc_type:owners_manual
 1. The power window relay output is "ON" when turning on the ignition switch.
 
 2. The power window relay output is "ON" for 30 seconds when turning ofthe ignition switch. The power window relay output is "OFF" when opening the driver's door or the passenger's door. The power window relay is turned "OFF" when receiving the remote control key lock signal (armed 3. mode) during its extended operation period of 30 seconds.
@@ -30697,25 +29102,21 @@ The "FAIL" condition of the door will be erased when the ignition key is turned 
 
 
 ### 31) Definition of Terms
-`ssangyong_actyon_en_1493dd14` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:762 | doc_type:owners_manual
 1. DOOR OPEN and DOOR CLOSE DOOR OPEN: Any of all door switches (including hood and tailgate) is in "OPEN" position. DOOR CLOSE: All door switches (including hood and tailgate) are in "CLOSE" position.
 
 
-### CAUTION
-`ssangyong_actyon_en_e8c80591` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:763 | doc_type:owners_manual
-The door lock/unlock operation does not affect the engine hood.
-
-2. DOOR LOCK: Indicates that all door lock switches (including tailgate) are in LOCK positions. DOOR UNLOCK: Indicates that any of all door lock switches (including tailgate) is in UNLOCK position.
-
-![](images/572e639232b40ac708d3d4de5b76eb4a6ed812f16bcbe0281c67a4ea5f525986.webp)
-
-Engine hood open warning lamp The warning lamp comes on when the engine hood is open.
-
-![](images/be5fe5f584a7472c7166a47940eef4163296154c7c5c84e9277dade42787b37a.webp)
+> ⚠️ **Внимание:** The door lock/unlock operation does not affect the engine hood.
+>
+> 2. DOOR LOCK: Indicates that all door lock switches (including tailgate) are in LOCK positions. DOOR UNLOCK: Indicates that any of all door lock switches (including tailgate) is in UNLOCK position.
+>
+> ![](images/572e639232b40ac708d3d4de5b76eb4a6ed812f16bcbe0281c67a4ea5f525986.webp)
+>
+> Engine hood open warning lamp The warning lamp comes on when the engine hood is open.
+>
+> ![](images/be5fe5f584a7472c7166a47940eef4163296154c7c5c84e9277dade42787b37a.webp)
 
 
 ### 32) Description of Theft Deterrent Function
-`ssangyong_actyon_en_7bd1bc30` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:764 | doc_type:owners_manual
 1. Armed mode activation requirements
 
 a. The "LOCK" output is "ON" when the "LOCK" signal is received from transmitter while the ignition key is removed and all doors are closed. The armed mode is activated when the door lock switch is locked (hazard warning flasher blink twice).   
@@ -30756,7 +29157,6 @@ because there's no door switch.
 
 
 ### .Operations when removing and installing the battery
-`ssangyong_actyon_en_e1e57401` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:765 | doc_type:owners_manual
 ![](images/9938be2ca23bcb7a829975517a7eb6ccfcd572124cad3450b7b42dfd1dcd90da.webp)
 
 If the system is in armed mode while instaling a battery, the horn sounds and the emergency warning lamp blinks (Same operations with warning in armed mode).
@@ -30765,17 +29165,14 @@ RELOCK Operation It the door is not opened or the ignition key is not inserted i
 
 
 ### 33) Specifications of Remote Control Key
-`ssangyong_actyon_en_88b801ca` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:766 | doc_type:owners_manual
 When any of switches on remote control key is pressed, the integrated CPU in remote control key sends the coded control message to the CPU in receiver to control the vehicle.
 
 
 ### Switch Functions on Remote Control Key
-`ssangyong_actyon_en_ba559313` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:767 | doc_type:owners_manual
 ![](images/b7ce51b8c8611f5b96716fb346c0314fa239aea9e297451f0165f3cf16b6538c.webp)
 
 
 ### Door Unlock and Panic Function
-`ssangyong_actyon_en_d3b59779` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:768 | doc_type:owners_manual
 Briefly press (below 0.5 sec): Door unlock and theft deterrent mode is deactivated
 
 Press and hold (over 2 sec): Panic function
@@ -30788,21 +29185,18 @@ Press and hold (over 2 sec): Panic function
 
 
 ### LED flasher
-`ssangyong_actyon_en_7cb5f158` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:769 | doc_type:owners_manual
 Briefly press: blink once Press and hold: blink twice
 
 ![](images/e4dfe8c6af50d6fe57ee1f56bbe499d3d471b44cef07d0f8ebec100fabbb1dba.webp)
 
 
 ### Door Lock Function
-`ssangyong_actyon_en_907950ec` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:770 | doc_type:owners_manual
 Briefly press (below 0.5 sec): Door lock and -If you press and hold the door unlock and panic buttons,theft deterrent mode is activated the buzzer will sound for 27 seconds. Door lock (Briefly press) -The function is inactivated if any button of remote control - If you press this button locks all doors and is pressed. activates the theft deterrent mode.
 
 ![](images/fa9606a315f9aea30aea2edc265033f805dd231fee5ac00d70fa6b8122a96eae.webp)
 
 
 ### 34) Remote Door Lock
-`ssangyong_actyon_en_e70d0ee3` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:771 | doc_type:owners_manual
 1. All doors are locked when briefly pressing the door LOCK switch on remote control key (less than 0.5 seconds).   
 2. The system outputs LOCK signal immediately after receiving the door lock message from the remote control key. The system activates the theft deterrent mode when alldoors are locked while they are fully closed (the hazard warning lamps blink twice.).
 
@@ -30812,7 +29206,6 @@ Briefly press (below 0.5 sec): Door lock and -If you press and hold the door unl
 
 
 ### 35) Door Unlock
-`ssangyong_actyon_en_674968d2` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:772 | doc_type:owners_manual
 1. The door unlock operates when pressing the door switch on the remote control key for longer than 0.5 seconds.   
 2. The door unlock relay is "ON" for 0.5 seconds when receiving the door unlock message from the remote control key.   
 3. The hazard warning lamps blink once only when allthe doors unlocked.
@@ -30821,7 +29214,6 @@ Briefly press (below 0.5 sec): Door lock and -If you press and hold the door unl
 
 
 ### 36) Auto Door Lock in 30 Seconds after Pressing Door Unlock Button
-`ssangyong_actyon_en_bdff8897` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:773 | doc_type:owners_manual
 1. f no door is opened for 30 seconds after inputting remote door unlock, the doors are automatically locked and the armed mode of anti-theft system is activated again.
 
 ![](images/9373660f7f66b61f7022ab55e1156c5bea41d215983a480f84ba090edb52cd0c.webp)
@@ -30830,7 +29222,6 @@ Briefly press (below 0.5 sec): Door lock and -If you press and hold the door unl
 
 
 ### 3. CIRCUIT DIAGRAM
-`ssangyong_actyon_en_0ddd64b4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:774 | doc_type:owners_manual
 1) Power/Ground, Chime Bell, Buzzer Warning Lamp (Brake, Seat Belt, DR Open)
 
 ![](images/28ce3f2b17f97d08c6151b4b589e1296f408f90b182f8cb3df3735a6bd852ec5.webp)
@@ -30839,49 +29230,42 @@ Briefly press (below 0.5 sec): Door lock and -If you press and hold the door unl
 
 
 ### 2) Central Door Lock Circuit
-`ssangyong_actyon_en_f1f54156` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:775 | doc_type:owners_manual
 ![](images/2794ab08a372ee08d096486900e922b2ecf96faa732d6b39ab8194a2b88ab3aa.webp)
 
 ![](images/36b5da7348d265470ec039b12a2905378fe7168f4995ed0495f45994e817ed21.webp)
 
 
 ### 3) Tail Lamp, Hazard, Power Window
-`ssangyong_actyon_en_23408c93` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:776 | doc_type:owners_manual
 ![](images/622da1815deb36ed1f85818cac719d4fef285533a80da47a7494ad7a82d7e2a1.webp)
 
 ![](images/e5af0567c0ceeb3274ea90dbd9f20ea01ee8051a35e737e9559bbf716a108c2c.webp)
 
 
 ### 4) Defogger
-`ssangyong_actyon_en_7d07e109` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:777 | doc_type:owners_manual
 ![](images/79705043582d65d76ac25d6f0fc1110cb097e299b70358a73c2f4b2cafb2795f.webp)
 
 ![](images/e7ce5c5cdb80cff3c40a07083b661049d11f3f7f9fc05208a6b8315979079eb3.webp)
 
 
 ### 5) Panic, Auto Light / Rain Sensing, Room Lamp
-`ssangyong_actyon_en_e0535458` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:778 | doc_type:owners_manual
 ![](images/9799727d384bf4d5c24fc41c696c835387aefae624a33f72a24014c9f1b7a320.webp)
 
 ![](images/8fcf8d854f2333e943b04e33041ff302a4da7d7b827f2fcadc10fb4b9a4d9535.webp)
 
 
 ### 6) FRT Wiper/Washer/ RR Washer
-`ssangyong_actyon_en_a33ff2ad` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:779 | doc_type:owners_manual
 ![](images/cb995c4158518be1d210de967876d8502405f0da5656d3123d1be1162ca1f43d.webp)
 
 ![](images/af23b2933eddfb88701bcc78c1bc5c17f936eb89ea17426342e494dea250d497.webp)
 
 
 ### 7) Mirror Fold'g/Unfold'g, Fold SW
-`ssangyong_actyon_en_53ca83b1` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:780 | doc_type:owners_manual
 ![](images/80e4a9030f7b630b92e044cb2aa7f29995d0ae98b3a25dd7d627bba56226e625.webp)
 
 ![](images/bc5ce5f8704a128977d1893673de69d34dd1e15b630bc6f3136e9f4a62c741c7.webp)
 
 
 ### 1) What is the Immobilizer System?
-`ssangyong_actyon_en_ca7d59a1` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:781 | doc_type:owners_manual
 The immobilizer system prevents the vehicle theft by allowing only the authorized key to start the engine. The transponder inside the key communicates with the immobilizer installed in the key box, and the system permits the engine to start after confirming the encrypted coding from the engine ECU. Refer to the information that follows for specific functions and their descriptions.
 
 ![](images/f17cf2dd342f0cb4ce4471a6d850565ba5a15ad0936b23d6e6215c825f71d3f9.webp)
@@ -30890,7 +29274,6 @@ The immobilizer system prevents the vehicle theft by allowing only the authorize
 
 
 ### 2) System Diagram
-`ssangyong_actyon_en_bc909e3c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:782 | doc_type:owners_manual
 ![](images/e478be0b71513e91edff025db89e7c68402d25cf68d96292152b6e0f3cd34e7b.webp)
 
 The certification for the immobilizer is performed when turning the ignition switch to the "ON" position after the CAN communication between the ECU and immobilizer is established.
@@ -30899,7 +29282,6 @@ The certification for the immobilizer is performed when turning the ignition swi
 
 
 ### 2. BASIC FUNCTIONS OF IMMOBILIZER KEY (REKES FUNCTION)
-`ssangyong_actyon_en_dda125c1` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:783 | doc_type:owners_manual
 Door Unlock and Panic Function
 
 Briefly press (below 0.5 sec): Door unlock and theft deterrent mode is deactivated
@@ -30913,7 +29295,6 @@ Press and hold (over 2 sec): Panic function
 
 
 ### Door Lock Function
-`ssangyong_actyon_en_dc758e4c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:784 | doc_type:owners_manual
 LED flasher Briefly press: blink once Press and hold: blink twice
 
 ![](images/27228b36bee79268366c1bcc0fb8bb08c7f417e46810e7b81cf0c91cd6449d66.webp)
@@ -30924,14 +29305,12 @@ Briefly press (below 0.5 sec): Door lock and theft deterrent mode is activated D
 
 
 ### Battery Replacement
-`ssangyong_actyon_en_38d95842` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:785 | doc_type:owners_manual
 ![](images/a07d5bf8903b62763e3f6b6ac1b8423d756bdc77dec929d97500fcbb7dde4813.webp)
 
 ![](images/baf1175629590b13d32721073c3f58f13de25dce998a3688cec71c9b5bffc3d9.webp)
 
 
 ### 3. OTHER FUNCTIONS IN SYSTEM 1) Immobilizer Function
-`ssangyong_actyon_en_963f1464` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:786 | doc_type:owners_manual
 The immobilizer system prevents the vehicle theft by allowing only the authorized key to start the engine. The transponder inside the key communicates with the immobilizer installed in the key box, and the system permits the engine to start after confirming the encrypted coding from the engine ECU.
 
 ②The immobilizer unit transmits the encrypted code to the transponder.
@@ -30948,20 +29327,17 @@ Immobilizer Unit
 5 The system compares the signal from transponder and the encrypted signal in immobilizer unit.
 
 
-### CAUTION
-`ssangyong_actyon_en_fe7407e0` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:787 | doc_type:owners_manual
-In the following cases, a driver may be unable to start the vehicle with the immobilizer.
-
--When two or more immobilizer keys come into contact with (each) other(s).   
--When the key is close to any device sending or receiving electromagnetic fields or waves.   
-When the key is close to any electronic or electric devices such as lightening equipment, security -  keys or security cards.   
-When the key is close to a magnetic or metal object or a battery.
-
-![](images/8bf0a7e9e0dfaf01c81be39066abb4868947355c16b031e2675d130f81f616e4.webp)
+> ⚠️ **Внимание:** In the following cases, a driver may be unable to start the vehicle with the immobilizer.
+>
+> -When two or more immobilizer keys come into contact with (each) other(s).   
+> -When the key is close to any device sending or receiving electromagnetic fields or waves.   
+> When the key is close to any electronic or electric devices such as lightening equipment, security -  keys or security cards.   
+> When the key is close to a magnetic or metal object or a battery.
+>
+> ![](images/8bf0a7e9e0dfaf01c81be39066abb4868947355c16b031e2675d130f81f616e4.webp)
 
 
 ### Immobilizer and Warning Lamp
-`ssangyong_actyon_en_b61f8840` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:788 | doc_type:owners_manual
 ![](images/020c01bc224d223466171858e3b21903368d9aeaee407751993d5f49c677df3f.webp)
 
 ① When turning the ignition key to ON position, the ECU transmits the challenge message to the immobilizer unit. (to verify whether the key is valid)
@@ -30971,35 +29347,27 @@ This indicator comes on when the ignition key is communicating with the engine c
 Lamp ON: in communication Blinking twice for one second: immobilizer system failure Blinking once for two seconds: immobilizer unit is not coded
 
 
-### CAUTION
-`ssangyong_actyon_en_cfb07225` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:789 | doc_type:owners_manual
-The immobilizer indicator does not come on if the communication time between immobilizer key and ECU is too short.
-
-The ECU enable the engine to be started.
+> ⚠️ **Внимание:** The immobilizer indicator does not come on if the communication time between immobilizer key and ECU is too short.
+>
+> The ECU enable the engine to be started.
 
 
 ### Engine Control Unit (ECU)
-`ssangyong_actyon_en_103dd9e5` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:790 | doc_type:owners_manual
 6 Only when the two signals are identical, it recognizes the key as the authorized one and transmits the positive message to the ECU.
 
 
-### CAUTION
-`ssangyong_actyon_en_3cdf132d` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:791 | doc_type:owners_manual
--Do not drop or shock to the transponder in the key as it may be damaged.   
--With a damaged transponder, the engine cannot be started.   
--When you erase the code or register an extra key, let the owner attend on the site.
+> ⚠️ **Внимание:** -Do not drop or shock to the transponder in the key as it may be damaged.
+> -With a damaged transponder, the engine cannot be started.   
+> -When you erase the code or register an extra key, let the owner attend on the site.
 
 
-### CAUTION
-`ssangyong_actyon_en_5798123c` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:792 | doc_type:owners_manual
-- In any case, the immobilizer system can not be removed from the vehicle. If you attempt to remove it and damage the system, starting will be impossible, so never attempt to remove, damage or modify it.   
--The remote engine starter cannot be installed on the vehicle equipped with the immobilizer system.
-
-![](images/912b602148c5eab5d05a068e323700c45253804721c1b899f4f5728616079bea.webp)
+> ⚠️ **Внимание:** - In any case, the immobilizer system can not be removed from the vehicle. If you attempt to remove it and damage the system, starting will be impossible, so never attempt to remove, damage or modify it.
+> -The remote engine starter cannot be installed on the vehicle equipped with the immobilizer system.
+>
+> ![](images/912b602148c5eab5d05a068e323700c45253804721c1b899f4f5728616079bea.webp)
 
 
 ### 4. REKES OPERATION LOGIC1) Remote Door Lock
-`ssangyong_actyon_en_32bd60c1` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:793 | doc_type:owners_manual
 1. When briefly pressing the door lock switch on the remote control key for less than 0.5 seconds, all doors are locked.
 
 2. The system outputs the "LOCK" signal immediately after receiving the door lock message from the remote control key. If the vehicle is locked while all doors including tailgate and engine hood are closed, the theft deterrent mode is activated (hazard warning lamps are blinking twice).
@@ -31010,7 +29378,6 @@ The ECU enable the engine to be started.
 
 
 ### 2) Door Unlock
-`ssangyong_actyon_en_410ea92d` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:794 | doc_type:owners_manual
 1.When pressing and holding the door unlock switch on the remote control key for more than 0.5 seconds, all doors are unlocked.
 
 2. When receiving the DOOR UNLOCK message from the remote control key, the door unlock relay is turned on for 0.5 seconds.
@@ -31023,21 +29390,18 @@ The ECU enable the engine to be started.
 
 
 ### 5. CIRCUIT DIAGRAM
-`ssangyong_actyon_en_5146d6f7` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:795 | doc_type:owners_manual
 ![](images/2314f680a78a4f96acf94ad72ded718e654a250044fc2fa4d2344ad30ec6a031.webp)
 
 ![](images/f8c5ae36925092bccf48d0596ede94e8a638eb3478fddba68cd51ee7d17ad408.webp)
 
 
 ### 1. SPECIFICATIONS
-`ssangyong_actyon_en_fdb250dd` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:796 | doc_type:owners_manual
 ![](images/9fbd7679b5cc734e1b631fb2c8e87ddecc8078a7349f615768a1f71086771479.webp)
 
 ![](images/0206b53f9ef651854d28a9ff66879af8c55f75f3ebc4ec586b08e3e1649e1f8e.webp)
 
 
 ### 1. DESCRIPTIONS OF INDICATOR DISPLAY
-`ssangyong_actyon_en_fd85e17c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:797 | doc_type:owners_manual
 It sends and receives information to/from each unit through CAN communication line. The LCD display and separate ESP ON/OFF indicator are newly added.
 
 ![](images/0c78c4fc44cef35ac290453386942defed5fc609dfdab67633504f8eb7c858ce.webp)
@@ -31078,7 +29442,6 @@ It sends and receives information to/from each unit through CAN communication li
 
 
 ### Front view
-`ssangyong_actyon_en_076a8497` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:798 | doc_type:owners_manual
 ![](images/82f367bd456f5c368b7d135669023c61e60ae61e329668c23520e06b13294458.webp)
 
 Rear view
@@ -31089,7 +29452,6 @@ Rear view
 
 
 ### Connector Pin Arrangement
-`ssangyong_actyon_en_2ba9c0b4` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:799 | doc_type:owners_manual
 The connector pin sections illustrated below are viewed from the front of the instrument cluster. The arrangement of the pins is the same for both the main connector and the sub connector.
 
 ![](images/328c9cdce8e7da547bf3a41609f90f413d5076296216e8003aea431f08f3c2f2.webp)
@@ -31143,7 +29505,6 @@ input
 
 
 ### Indicators on Instrument Cluster
-`ssangyong_actyon_en_5a2b4d1a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:800 | doc_type:owners_manual
 ![](images/3f9a95b6bb119d4e1088749da3e4231c38f0113449c054aa3df0c5a8fce38dbe.webp)
 
 ![](images/6a39ddb55c26ad57cadc090d0b81eafe82f0038a8b8752e26eec465befa3eed6.webp)
@@ -31155,15 +29516,12 @@ input
 ![](images/91c6f76413e8bedec5fb16a8e0126929c67c604938108256ed48b08442678c26.webp)
 
 
-### NOTE
-`ssangyong_actyon_en_93d703ae` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:801 | doc_type:owners_manual
-There are two colors (green & red) for HDC symbol.
-
-![](images/c808a87557ba58a2ca80817947a2a3e52dc71c3b33a385a3cea38d1d427abeca.webp)
+> ℹ️ **Примечание:** There are two colors (green & red) for HDC symbol.
+>
+> ![](images/c808a87557ba58a2ca80817947a2a3e52dc71c3b33a385a3cea38d1d427abeca.webp)
 
 
 ### 1) RPM Gauge
-`ssangyong_actyon_en_8990988f` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:802 | doc_type:owners_manual
 ![](images/73f5cffd4a3ce3e299ea5f138badfbc366480ff9b2f708ae5b845f47a511d491.webp)
 
 The tachometer indicates engine speed in revolutions per minute. Multiply 1,000 to the current number, then it will be the current number of engine revolutions.
@@ -31178,14 +29536,12 @@ Under the normal engine operating temperature, the proper idling speed is 700 \~
 
 
 ### Check Method
-`ssangyong_actyon_en_ac0f7b7f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:803 | doc_type:owners_manual
 If the tachometer (engine rpm gauge) pointer vibrates or stops moving at a certain range, or abnormal noises are heard from the tachometer, the tachometer may have a malfunction. If you have reason to suspect that the reading from the tachometer differs from the actual engine speed (rpm), connect a diagnostic device and compare the value on tachometer with the reading from the diagnostic device.
 
 ![](images/ebb31b13139a2388e3284a698be47e40252633251f15e30e21a87001f1aac98f.webp)
 
 
 ### 2) Speedometer Gauge
-`ssangyong_actyon_en_db73fc4b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:804 | doc_type:owners_manual
 ![](images/4fea4de00ae42b29b39146f8fe57e08cf81cee7efa828acf0595433ee7f05284.webp)
 
 The speedometer indicates the vehicle speed by calculating the signals from the rear left and rear right wheel speed sensors through ABS or ESP unit. (For the vehicle without ABS or ESP, the signals are received from the EMS)
@@ -31206,15 +29562,12 @@ Perform the speedometer test regarding the tolerance as described. However, it i
 Input/Output Diagram
 
 
-### CAUTION
-`ssangyong_actyon_en_9e806a5e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:805 | doc_type:owners_manual
-The allowable tolerance increases when the tires are worn or the tire pressure is out of specified range.
-
-![](images/52f4383ac2f873c0576fac8cf4e37e524c2736e06a540262783abc09ae5704f4.webp)
+> ⚠️ **Внимание:** The allowable tolerance increases when the tires are worn or the tire pressure is out of specified range.
+>
+> ![](images/52f4383ac2f873c0576fac8cf4e37e524c2736e06a540262783abc09ae5704f4.webp)
 
 
 ### ) Fuel Level Gauge
-`ssangyong_actyon_en_d8a2360d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:806 | doc_type:owners_manual
 ![](images/ad8481ca173e21e100e407d9d338e943398cf62418e463473c6f82abb1c2c552.webp)
 
 The fuel level gauge displays the resistance value of the float on the fuel sender in the fuel tank through a pointer. Note that this vehicle doesn't have a service hole for checking the fuel sender connector in the fuel tank.
@@ -31226,20 +29579,16 @@ When the power supply and output resistance are normal, the float operation by f
 ![](images/c8d52b437ef65ba83afbdf4a609930b2239c3707aab604da8bb2d6295b1951ff.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_bc03d4ee` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:807 | doc_type:owners_manual
-This table shows the tolerance and resistance value changes by fuel level in normal conditions. Therefore, the differences that can be occurred by the road conditions and fuel fluctuations are ignored.
+> ⚠️ **Внимание:** This table shows the tolerance and resistance value changes by fuel level in normal conditions. Therefore, the differences that can be occurred by the road conditions and fuel fluctuations are ignored.
 
 
 ### Low fuel warning lamp comes on when:
-`ssangyong_actyon_en_81774b9d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:808 | doc_type:owners_manual
 The fuel level drops to 9 L or less. The lamp goes of if the fuel level reaches 9.5 L or more.
 
 ![](images/961efc8578229ad5cd3cfb82b90ed5eccd192b4fcf4acb5d28b43abbc4669c88.webp)
 
 
 ### 4) Coolant Temperature Gauge
-`ssangyong_actyon_en_5336d4fa` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:809 | doc_type:owners_manual
 ![](images/93636fd2239c1aa295fc745d667517b259085000e655cb6805ca643f69528350.webp)
 
 The coolant temperature gauge displays the coolant temperature with a pointer. The angle of pointer that changes by coolant temperature is as shown below.
@@ -31248,26 +29597,21 @@ The coolant temperature gauge displays the coolant temperature with a pointer. T
 
 
 ### Measurement of coolant temperature sensor resistance
-`ssangyong_actyon_en_9d57d32d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:810 | doc_type:owners_manual
 Measure the resistance between the terminal and the ground with an ohmmeter and replace if the resistance is out of specified range.
 
 ![](images/3db3df090a3347ebe0b0c90c4de7706a5c14deeb1d22f616c20d363de29216e3.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_6e25a465` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:811 | doc_type:owners_manual
-When the resistance value by coolant temperature is within the specified range, check thermostat, water pump, radiator related coolant circuit for normal operation. Also, check the wiring harnesses and connectors for proper connection.
-
-![](images/2075be47aed3104e6008e3436ee0dcdbbcc2c574fe7ea4e3004426aa892193ea.webp)
+> ⚠️ **Внимание:** When the resistance value by coolant temperature is within the specified range, check thermostat, water pump, radiator related coolant circuit for normal operation. Also, check the wiring harnesses and connectors for proper connection.
+>
+> ![](images/2075be47aed3104e6008e3436ee0dcdbbcc2c574fe7ea4e3004426aa892193ea.webp)
 
 
 ### 5) Description for LCD Display
-`ssangyong_actyon_en_ee09562d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:812 | doc_type:owners_manual
 ![](images/8e0036675a755b73402a49b3378cc1032887df5d37d2d1e78507107bcf80ffbb.webp)
 
 
 ### Mode Description
-`ssangyong_actyon_en_58906483` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:813 | doc_type:owners_manual
 ![](images/e27891bb44343a5d90e5788ea7e346cd6dfb4528afd6a50cf661c5ff7b5edd5e.webp)
 
 ![](images/8a1344daec5785e629102c3fb9badb30b88408839e708a4bb36865c90bdc8e98.webp)
@@ -31278,7 +29622,6 @@ When the resistance value by coolant temperature is within the specified range, 
 
 
 ### Shifting Mode
-`ssangyong_actyon_en_e3f32f85` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:814 | doc_type:owners_manual
 ![](images/ba21b41011c47461dd45422194057d4ed4634a73c06dbb37b500daef2aefe0e1.webp)
 
 ![](images/e3cdb904af6689f57ed9833a34a4526c70dbfa05a60940e5d48c57d643fbe8d1.webp)
@@ -31288,7 +29631,6 @@ Brightness of LCD display when turning ON/OFF tail lamp
 
 
 ### Ilumination conditions of LCD display when turning ON/OFF tail lamp
-`ssangyong_actyon_en_c5d5142d` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:815 | doc_type:owners_manual
 The illumination for the LCD display comes on when turning on the tail lamp and is adjustable only when the ignition is ON. When turning on the tail lamp switch with the ignition OFF, the tail lamp comes on but the LCD display is not illuminated. Refer to the illustration below.
 
 ![](images/d259d1c033695906bd8334cbfdec1683f921bd240abaf5d0e55254ebeaa786be.webp)
@@ -31299,7 +29641,6 @@ The illumination for the LCD display comes on when turning on the tail lamp and 
 
 
 ### 3. WARNING LIGHTS AND INDICATORS
-`ssangyong_actyon_en_4e856a93` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:816 | doc_type:owners_manual
 Seat belt warning lamp Brake warning light Door ajar warning The seat belt warning light comes on and This warning light comes on light the seat belt warning chime sounds for 6 and warning buzzer sounds This light comes on seconds when the ignition switch is when the parking brake is when a door or turned to "ON" position unless the applied and/or the brake fluid tailgate is either driver's seat belt is securely fastened. level is lower than specified opened or not closed This reminding operation stops when the level. completely. driver fastens the seat belt. ESP OFF Indicator HDC Indicator This lamp comes on when pressing the This indicator comes on or blinks "ESP OFF" switch or the ESP system according to HDC operations. is defective. When the ESP system is activated, this lamp blinks and a chime sounds. A C 3 2 Immobilizer Indicator x1000r 8 This indicator comes on when the 5 4 ignition key is communicating with the engine control unit for approx. 0.5 6 seconds. ATR 8 8 • 0 Glow Indicator When the ignition key is turned ON, this indicator lamp comes on and the combustion chamber is warmed up. In the vehicle equipped with direct jtiontpeeie,tisiicator may come on very shortly or may not come on. Fog Lamp / Headlamp Engine Oil Pressure Warning Engine Coolant Overheat High Beam Indicator Light Warning Light This lamp comes on when This lamp comes on if there is any When the coolant temperature is the fog lamp or high beam fault in the engine oil system and abnormally hot (over 120 c), this headlamp operates to goes off when a certain amount of warning light blinks and a warning indicate the operating time has elapsed after turning ON buzzer sounds at 1 Hz. (check status. the ignition switch. cooling system)
 
 ![](images/42fe9c05c58fa0178f41b3e21eb501984f39b5277227225fe22a54898dde37aa.webp)
@@ -31310,26 +29651,22 @@ Seat belt warning lamp Brake warning light Door ajar warning The seat belt warni
 
 
 ### (1) Operation of HDC Indicator Controller
-`ssangyong_actyon_en_c7f84589` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:817 | doc_type:owners_manual
 This table describes the coming-on and blinking mode of HDC indicator according to the HDC switch operation (ON/OFF). The HDC indicator on the instrument panel has two modes; green (function lamp) and red (warning lamp). The HDC switch is a push & self return type switch ? When you press it once, it starts to operate and when you press it again, it stops the operation.
 
 ![](images/368172b3392a22bcd8e7df6fa9303d413561c03f561d3779060a5d1ebe4aa1cd.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_1f58f989` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:818 | doc_type:owners_manual
-- Basically, the brake systemapos;s basic functions can work even when there are   
-problems with the HDC system. As given in the table above, the HDC warning lamp comes   
-on when:   
-Initial ignition ON   
-HDC system error occurs   
-Brake system overheat
-
-![](images/0e54e26c0461eb564987e46a70ea3ce54e52025c2cd8fe2e7f1605bc6b8c78d0.webp)
+> ⚠️ **Внимание:** - Basically, the brake systemapos;s basic functions can work even when there are
+> problems with the HDC system. As given in the table above, the HDC warning lamp comes   
+> on when:   
+> Initial ignition ON   
+> HDC system error occurs   
+> Brake system overheat
+>
+> ![](images/0e54e26c0461eb564987e46a70ea3ce54e52025c2cd8fe2e7f1605bc6b8c78d0.webp)
 
 
 ### ESP Warning Lamp Blinking in Control
-`ssangyong_actyon_en_6a71bfa0` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:819 | doc_type:owners_manual
 ESP warning lamp blinks when ESP control is activated. If the activation reaches a certain limitation, a beep sounds to warn the driver. The ESP warning lamp goes off when ESP function is deactivated. Even when the ESP is operated for a very short period of time, the ESP warning lamp blinks minimum of 4 times every 500 milliseconds.
 
 ![](images/fc039ab4541e0089c8f6d2c4e9c54f3bde9ca59a9d645e25973f445578911159.webp)  
@@ -31337,7 +29674,6 @@ ESP warning lamp blinks when ESP control is activated. If the activation reaches
 
 
 ### ESP System Cancellation Using the ESP OFF Switch
-`ssangyong_actyon_en_2a47c4fc` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:820 | doc_type:owners_manual
 When the ESP switch is pressed (for over approximately 150 ms), the ESP system wil be cancelled and the vehicle wil be driven regardless of the output values from the corresponding sensors. Then, the ESP warning lamp on the instrument panel comes on.
 
 The detailed operation procedures are as follows:
@@ -31351,7 +29687,6 @@ Based on the above procedures, we can see that the ESP system will be cancelled 
 
 
 ### Resuming the ESP System by Using the ESP OFF Switch
-`ssangyong_actyon_en_2423e08d` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:821 | doc_type:owners_manual
 The ESP system willbe resumed and the ESP warning lamp at the instrument panel goes of when the ESP switch at the center switch panel is pushed (for over approximately 150 ms) while the ESP system is not operating.
 
 The detailed operation procedures are as follows.
@@ -31363,21 +29698,18 @@ The detailed operation procedures are as follows.
 ![](images/66b99bde51a5553ec1a9009d6c413b7e300c8b026fa8feacd288ad839e206a4c.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_b1d1e615` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:822 | doc_type:owners_manual
-- When turning the ignition switch off while the ESP system is activated, the ESP system will   
-be resumed when ignition switch is turned on again.   
-- When the vehicle is controlled by ESP system during driving, the ESP OFF switch does   
-not   
-operate.   
-- The ESP OFF switch operates when it is pushed for over 150 ms. When it is pushed for less than 150 ms, the ESP OFF mode and the ESP warning lamp will not be changed.   
-- When the ESP OFF switch is pushed within 350 ms of being turned off the ESP warning lamp and ESP system will not be turned on.
-
-![](images/2847d1d5af866f5cbb79ecff753bb0f41ff1808a4c581b9d37b6d59860d0b87d.webp)
+> ⚠️ **Внимание:** - When turning the ignition switch off while the ESP system is activated, the ESP system will
+> be resumed when ignition switch is turned on again.   
+> - When the vehicle is controlled by ESP system during driving, the ESP OFF switch does   
+> not   
+> operate.   
+> - The ESP OFF switch operates when it is pushed for over 150 ms. When it is pushed for less than 150 ms, the ESP OFF mode and the ESP warning lamp will not be changed.   
+> - When the ESP OFF switch is pushed within 350 ms of being turned off the ESP warning lamp and ESP system will not be turned on.
+>
+> ![](images/2847d1d5af866f5cbb79ecff753bb0f41ff1808a4c581b9d37b6d59860d0b87d.webp)
 
 
 ### ESP OFF Switch Monitoring
-`ssangyong_actyon_en_983f61db` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:823 | doc_type:owners_manual
 When the ESP unit recognizes that the ESP OFF switch is pushed for over 10 seconds, the ESP unit determines it as a ESP OFF switch malfunction. When the ESP OFF switch is pushed, the ESP system is resumed after 10 seconds. However, the ESP warning lamp comes on when the ESP OFF switch is pushed (for over 150 ms) and then goes out when the ESP system is resumed. When the ESP OFF switch returns to normal position, the ESP unit resets the ESP OFF switch for approx. 3.5 seconds.
 
 ![](images/0ffcca56af430d4160ebe81420ab8bedb17e80f42d08684e655c6b0d59d4abeb.webp)
@@ -31386,21 +29718,17 @@ When the ESP unit recognizes that the ESP OFF switch is pushed for over 10 secon
 
 
 ### ESP Warning Lamp Operation Depending on System Conditions
-`ssangyong_actyon_en_5809eb3f` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:824 | doc_type:owners_manual
 The table shows ESP warning lamp operations when the ESP system is defective or ESP (including TCS function) is working.
 
 ![](images/a1216972f699f88388d748597f57c566ce7442820040a34bdc676ea96e06bfa6.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_7e593a84` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:825 | doc_type:owners_manual
-- When the driver presses the brake pedal during the ESP OFF mode, the yaw control is performed to compensate the vehicle stability (posture) during ESP operation.
-
-![](images/5e2c32d5ea9590de7971f7ffef754fe14c35a414ddccaa9db6262a17965571b7.webp)
+> ⚠️ **Внимание:** - When the driver presses the brake pedal during the ESP OFF mode, the yaw control is performed to compensate the vehicle stability (posture) during ESP operation.
+>
+> ![](images/5e2c32d5ea9590de7971f7ffef754fe14c35a414ddccaa9db6262a17965571b7.webp)
 
 
 ### 4. SELF-DIAGNOSIS CHECK
-`ssangyong_actyon_en_14e9544e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:826 | doc_type:owners_manual
 How to enter self-diagnosis mode
 
 ![](images/888d3e7b5879f6c36f341af1e2e974f08ad087759cde16b92a74b4564bc9001e.webp)
@@ -31413,12 +29741,10 @@ OFF 5 times within 3 sec.
 
 
 ### Self-diagnosis OFF
-`ssangyong_actyon_en_4da2c635` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:827 | doc_type:owners_manual
 If the engine speed increases to 396 rpm or more while the engine is cranking or the ignition key is turned OFF in self-diagnosis mode, the self-diagnosis mode is turned OFF automatically.
 
 
 ### Operating process
-`ssangyong_actyon_en_2f4612de` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:828 | doc_type:owners_manual
 1. Speed gauge: changes from 0 to 220 km   
 2. RPM gauge: changes from 0 to 6,000 rpm   
 3. Fuel gauge: changes from E to F   
@@ -31431,14 +29757,12 @@ If the engine speed increases to 396 rpm or more while the engine is cranking or
 
 
 ### 5. BUZZER OUTPUT SPEC
-`ssangyong_actyon_en_83bef005` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:829 | doc_type:owners_manual
 ![](images/45fc36dca0fb512eef27a2cdf85e8df4ad3cd7f4346072d68feba762e4eccefb.webp)
 
 ![](images/3f351e0b4ae806e34b9c9761a073bf44011add6f50bd5c4710526cc226fbf3d2.webp)
 
 
 ### 6. CIRCUIT DIAGRAM
-`ssangyong_actyon_en_d75d9777` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:830 | doc_type:owners_manual
 1) Gauge (Speed, RPM, Fuel, Temp), Warning Lamp (Fuel, Fuel Filter, ABS, Brake, 4WD)
 
 ![](images/a0fc515077a8eb267fc4db0ed4d953bb12610290121cb964b5ef5c931780fa13.webp)
@@ -31447,57 +29771,47 @@ If the engine speed increases to 396 rpm or more while the engine is cranking or
 
 
 ### 2) Warning Lamp (BATT Charge, Oil, Hood, Door, ENG Check, Air Bag, Seat Belt), Turn Signal, Fog Lamp, Hazard
-`ssangyong_actyon_en_43ca2eb4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:831 | doc_type:owners_manual
 ![](images/da64f3d3f199ba24d9b3c2b4eff6025164a484c00357c385735b04949d44ed79.webp)
 
 ![](images/5b47bc8ebec202eb2e69e52befaf748f49b0b84af770cc605fab8ce3d61421cf.webp)
 
 
 ### 1. SPECIFICATIONS
-`ssangyong_actyon_en_18fcf873` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:832 | doc_type:owners_manual
 ![](images/d055a9e66cd01774d8bf5e5754e8b3cb754f5c83938bb5269a39b50d7effda91.webp)
 
 ©
 
 
-### NOTE
-`ssangyong_actyon_en_d3f916a7` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:833 | doc_type:owners_manual
-The surface of lamps can get foggy when raining or washing the vehicle. This is normal and is a result of the temperature difference between inner and outer surface of lamp cover. However, f water gets into the lamp, have the system checked at Ssangyong Authorized Service Center.
-
-![](images/dfbb5fccc9e5460f6caefddd26df589f05180f119579ecbcaa9cecf20833e584.webp)
+> ℹ️ **Примечание:** The surface of lamps can get foggy when raining or washing the vehicle. This is normal and is a result of the temperature difference between inner and outer surface of lamp cover. However, f water gets into the lamp, have the system checked at Ssangyong Authorized Service Center.
+>
+> ![](images/dfbb5fccc9e5460f6caefddd26df589f05180f119579ecbcaa9cecf20833e584.webp)
 
 
 ### 1. SWITCH ARRANGEMENT
-`ssangyong_actyon_en_9cacd2a8` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:834 | doc_type:owners_manual
 ![](images/083003d7d5c4eebb51b32abf33ca6b1ea685787531eb5c4f871941947e704586.webp)
 
 ![](images/adf0dc5998084db5a737ed091aaeed087c4d681b87af419a6116cc8a7ef26936.webp)
 
 
 ### 0 Outside Rearview Mirror Folding Switch
-`ssangyong_actyon_en_982ed65f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:835 | doc_type:owners_manual
 To fold the outside rearview mirrors, press the switch. To unfold the mirrors, press it again.
 
 
 ### ②Rear Fog Lamp Switch
-`ssangyong_actyon_en_a7951ee5` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:836 | doc_type:owners_manual
 The rear fog lamp comes on when the rear fog lamp is turned on only while the front fog lamp is ON.
 
 
 ### ③ ESP OFF Switch
-`ssangyong_actyon_en_6a497edd` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:837 | doc_type:owners_manual
 If you press the ESP OFF switch, the ESP function stops and the indicator lamp in instrument panel comes on. Press this switch again to resume the ESP function. At this time, the indicator lamp goes out.
 
 
 ### Driver's Power Window Switch
-`ssangyong_actyon_en_4f225a9b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:838 | doc_type:owners_manual
 Driver can controls all door windows (Open/Close/Lock/Unlock) and doors (Lock/Unlock) with this switch unit.
 
 ![](images/636634ecd32b0399d4f943ea5ec8a26a6e4c5c473d4b0622f0720784297f8a8c.webp)
 
 
 ### HDC Switch
-`ssangyong_actyon_en_f423d880` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:839 | doc_type:owners_manual
 ![](images/c733c8d40c5e9d0952f396a181c1a865f83b5f6fe0e5ce9af87d375199a1aa6c.webp)
 
 When this button is pressed once, HDC is ready for use. The green HDC indicator comes on the instrument panel. When the button is pressed again, HDC is deactivated and the indicator goes off. (Refer to ABS/ESP section.)
@@ -31509,12 +29823,10 @@ Press this switch to turn on the tailgate and outside rearview mirror defogger. 
 
 
 ### TRIP Switch
-`ssangyong_actyon_en_c1be505b` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:840 | doc_type:owners_manual
 To choose a desired driving distance display mode, press the switch: Changing sequence: ODO - TRIP A - TRIP B - ODO
 
 
 ### Additional Functions of Multifunction Switch
-`ssangyong_actyon_en_ae56fde4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:841 | doc_type:owners_manual
 ![](images/481b2f7a56fb90bf4e045bc13b3c2e9d0d65fbc518f957c23fa4252a133eb2ad.webp)
 
 ![](images/425ae6a5fc12c9f53e2ccf55dae9fe414dea52defa2434d341f48710485c3d1a.webp)
@@ -31527,14 +29839,12 @@ Auto Washer Switch
 
 
 ### ③ Washer fluid will be sprayed
-`ssangyong_actyon_en_de7930b5` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:842 | doc_type:owners_manual
 onto the rear window glass once during rear wiper operation.
 
 When the front wiper switch is off and this switch is pressed, washer fluid will be sprayed and the wiper will automatically operate 4 times. Then, the fluid will be sprayed again and the wiper will automatically operate 3 times.
 
 
 ### Front Wiper and Washer Coupled Operation
-`ssangyong_actyon_en_474864da` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:843 | doc_type:owners_manual
 Pull he lever briefly (below O0.6 seconds): One wiping cycle Pull and hold the lever for more than 0.6 seconds: Three wiping cycles with washer spray
 
 Washer fluid will be sprayed onto the rear window glass and the wiper will also operate once.
@@ -31549,19 +29859,16 @@ Washer fluid will be sprayed onto the rear window glass and the wiper will also 
 
 
 ### 1. SYSTEM LAYOUT AND FUNCTION
-`ssangyong_actyon_en_8489ba95` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:844 | doc_type:owners_manual
 The wiper and washer system are controlled by STICS according to driver's wiper switch operation. And the detection of rain drops by rain sensor is transmitted to STICS as the signal for wiper system control. The characteristics of the wiper and washer system including basic functions of manual wiper are as follows.
 
 
 ### 1) Wiper Function Coupled Auto Washer
-`ssangyong_actyon_en_fa0568dc` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:845 | doc_type:owners_manual
 ![](images/b3cbfb1e0d523f88bb54d6fe42060ccbf064884fae3242ce2f0204160bb8a6dd.webp)
 
 When the front wiper switch is off and this switch is pressed, washer fluid will be sprayed and the wiper will automatically operate 3 times. Then, the fluid will be sprayed again and the wiper will automatically operate 3 times.
 
 
 ### 2) Integrated Auto Light Sensor in Rain Sensor Unit
-`ssangyong_actyon_en_ea74c9e7` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:846 | doc_type:owners_manual
 ![](images/bb6527eef48251b126efdae496818f2589499b5baed6e038e4888c7c0e97560f.webp)
 
 The rain sensor unit is installed on a proper location to detect the rain drops and the illumination intensity. To control the system, the sensed values of rain sensor and auto light sensor are sent to pin no. 63 in STICS unit.
@@ -31570,7 +29877,6 @@ The rain sensor unit is installed on a proper location to detect the rain drops 
 
 
 ### 3) Rear Washer Fluid Supply System
-`ssangyong_actyon_en_c3e917c4` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:847 | doc_type:owners_manual
 There is no separate washer fluid reservoir for the rear washer system in this vehicle. The rear washer system uses the front washer fluid reservoir. Because of this, the washer hose is supposed to be long between front reservoir tank and rear washer nozzle. To avoid being damaged or interfered while in assembling the vehicle, the rear washer hose is fixed on headlining with silicone.
 
 ![](images/ae2b73f03c419f1264959b613bcee23d6cdb6fe6bd21ec89a495113d679d7ffd.webp)
@@ -31579,7 +29885,6 @@ There is no separate washer fluid reservoir for the rear washer system in this v
 
 
 ### 4) Fluidic Washer Nozzle
-`ssangyong_actyon_en_0a2491af` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:848 | doc_type:owners_manual
 Fluidic Washer Nozze is applied to the front washer spray system in this vehicle. The inside of nozzle is designed to utilize the fluidic movement.
 
 ![](images/5ed6c21c9c7add92e7bd658e28dad25938f86e1735e349245b203703657013fd.webp)
@@ -31594,19 +29899,16 @@ It is designed to be changed spraying direction using the whirlwind and backflow
 
 
 ### 2. CONFIGURATION (INCLUDING RAIN SENSOR)
-`ssangyong_actyon_en_ea68b61c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:849 | doc_type:owners_manual
 ![](images/6a271ee08c546b5e7fe2a297438f5887ceddbcc124e1485628f65a64b3def989.webp)
 
 
 ### Auto washer switch
-`ssangyong_actyon_en_c6449519` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:850 | doc_type:owners_manual
 Pressing the switch makes washer fluid to be sprayed for 2 sec. with four wiping, and washer fluid to be sprayed for 1.5 sec. with three wiping, with no delay of time
 
 ![](images/f9a425ff93f298d7615698bbf758180661474ca3217e75ca0ae34f3b52f02bdc.webp)
 
 
 ### Front nozzle
-`ssangyong_actyon_en_cc63287c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:851 | doc_type:owners_manual
 Installed on both sides of the cowl grille assembly (one on each side). Sprays washer fluid in fan-shape to cover the windshield area as much as possible.
 
 ![](images/52adfc57c705bb1b0d19e1895835a935a2e0270c1a80b6de12f48ca0e1ea506f.webp)
@@ -31625,7 +29927,6 @@ system
 
 
 ### Rear washer hose mounting
-`ssangyong_actyon_en_d2b29d5a` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:852 | doc_type:owners_manual
 There is no separate washer fluid reservoir for the rear washer system in this vehicle. The rear washer system uses the front washer fluid reservoir. Because of this, the washer hose is supposed to be long between front reservoir tank and rear washer nozzle. To avoid being damaged or interfered while in assembling the vehicle, the rear washer hose is fixed on headlining with silicone.
 
 ![](images/9c706885e58c36b1dce934f855b1327f28135cf3528cff91ce21e809e9f1bfb4.webp)
@@ -31636,7 +29937,6 @@ STICS receives the rain sensing data from the rain sensor and controls the wiper
 
 
 ### Wiper Speed Control Switch
-`ssangyong_actyon_en_0ed96c71` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:853 | doc_type:owners_manual
 ![](images/b669aaf33094d3bd5db7ddfae22192ce483c1d7b43a611134ebc73c33be437e0.webp)
 
 Auto Washer Switch If pressing the switch when the wiper switch turns to the "OFF" position,   
@@ -31648,7 +29948,6 @@ Only wiper times. operates -MIST -OFF AUTO -L0 -HI Wiper Washer Fluid Coupled Fu
 
 
 ### 2) STICs Control Logic Related to Wiper and Washer
-`ssangyong_actyon_en_fd5fa5be` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:854 | doc_type:owners_manual
 (1) Wiper MIST and Front Washer Coupled Wiper
 
 1. The wiper relay is turned on 0.3 seconds after turning "ON" the washer switch for 0.1 \~ 0.59 seconds with the ignition key "ON", and it is turned of when the parking terminal is turned off.
@@ -31667,7 +29966,6 @@ Only wiper times. operates -MIST -OFF AUTO -L0 -HI Wiper Washer Fluid Coupled Fu
 
 
 ### (2) Rear Washer Motor Control
-`ssangyong_actyon_en_1197389d` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:855 | doc_type:owners_manual
 1. When the rear washer switch is turn on with the ignition switch "ON", the rear washer motor relay output is activated from the time when the rear washer switch is turned on, and it is deactivated when the rear washer switch is turned off.
 
 2. It cannot be activated while the front washer switch or the auto washer and wiper (AFW: Advanced Fast Washer) is in operation.
@@ -31690,7 +29988,6 @@ Only wiper times. operates -MIST -OFF AUTO -L0 -HI Wiper Washer Fluid Coupled Fu
 
 
 ### 4. WIPER AND WASHER SYSTEM RELATED CIRCUIT DIAGRAM
-`ssangyong_actyon_en_78997b66` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:856 | doc_type:owners_manual
 ![](images/8521c8b8937623dbd7677691f2fc6ca5aec1a7013ec6b82492140515eb3d3b65.webp)
 
 WIPER ACTYON 2012.12
@@ -31699,7 +29996,6 @@ WIPER ACTYON 2012.12
 
 
 ### 1. SYSTEM LAYOUT AND OVERVIEW
-`ssangyong_actyon_en_2396a648` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:857 | doc_type:owners_manual
 The rain sensing wiper unit in this vehicle doesn't control the wiper directy. The rain sensing unit detects the amount of rain drops and sends the operating signal to STICS, and STICS drives the wiper directly.
 
 Rain Sensor Unit Multifunction Wiper Switch: (Auto Light Sensor Integrated Type) AUTO and Sensitivity Control X AUTO OFF OF I AUTO с A sensor that emits infrared rays through LED AUTO: Wiper operates automatically by rain and then detects the amount of rain drops by sensor receiving reflected rays against sensing section FAST <е> SLOW: Auto delay/Auto speed (rain sensor mounting section on the control. windshield) with photodiode. A position that controls sensitivity against rains The auto light sensor is Integrated into the rain on the windshield and transmits wiping demand sensor (refer to the below picture). signal accordingly.
@@ -31710,14 +30006,12 @@ Rain Sensor Unit Multifunction Wiper Switch: (Auto Light Sensor Integrated Type)
 
 
 ### STICS
-`ssangyong_actyon_en_f9fe9be0` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:858 | doc_type:owners_manual
 The rain sensing unit detects the amount of rain drops and sends the operating signal to STICS, and STICS drives the wiper directly. At this moment, STICS determines the wiper operation mode (washer, MIST, AUTO), then sends the information to the rain sensor.
 
 ![](images/a81b8e953f65cdfc9717cb94300b9ffe745eab97771782505655a88746c54800.webp)
 
 
 ### Auto Light Sensor and Rain Sensor Coupled Control
-`ssangyong_actyon_en_14f6d6bc` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:859 | doc_type:owners_manual
 1. Rain detected headlamp: If it rains heavy which requires the intermediate INT speed, the headlamps are turned on automatically.
 
 2. Night detected wiping: When the auto light control turns on the headlamps and the rain sensor detects the rain, the wiper sensitivity is automatically increased by one level. (For example, the AUTO wiper switch is at the 3rd level, but the wiper operates at the 4th level.)
@@ -31726,21 +30020,18 @@ The rain sensing unit detects the amount of rain drops and sends the operating s
 
 
 ### 2. RAIN SENSING OPERATION
-`ssangyong_actyon_en_7093dfb5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:860 | doc_type:owners_manual
 The rain sensor is installed on the specific heat treated windshield that has minimum 13% of transmitance rate with specified intensity of radiation. It is installed on the glass with a adhesive of Sorepa. It communicates with STiCS and makes the wipers to operate automaticall under the rain sensing mode (multifunction switch wiper: AUTO mode). The emiting section of the rain sensor unit emits infrared rays against the windshield and then detects the amount of rain drops by receiving reflected rays with photodiode.
 
 The difference compared with the conventional rain sensor is that the auto light sensor is Integrated into the rain sensor. Followings are the components and functions of the rain sensor unit
 
 
 ### 1) Rain Sensor Unit (Including Cover)
-`ssangyong_actyon_en_28bbcf31` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:861 | doc_type:owners_manual
 ![](images/cbca827ac7b7d24f3147a11237bde87262cc236e1e17341fed902b88cc7cf393.webp)
 
 ![](images/d6670a6001e63131ed9563f317dadbd5fe47d4bf6eab0c3d5e48d92e67b1a700.webp)
 
 
 ### 3. RAIN SENSOR RELATED CIRCUIT
-`ssangyong_actyon_en_a8c871f0` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:862 | doc_type:owners_manual
 The rain sensor has one connector with 4 pins and each pin has following function as shown in the circuit diagram. However, in this vehicle, the terminal No. 1 and No. 2 are for communications between STICS and the rain sensor; the No. 1 terminal sends the detected value from the rain sensor to STICS then the STICS drives wiper motor.
 
 No. 2 terminal sends the wiper and washer operation information such as
@@ -31757,7 +30048,6 @@ to the rain sensor to recognize whether it is actual rain or it is in rain sensi
 
 
 ### 1) Power-up Reminder Wiper
-`ssangyong_actyon_en_772fbe5e` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:863 | doc_type:owners_manual
 1. When turning off and on the INT auto switch, the system drives the wiper motor for one cycle through LOW relay regardless of communication with rain sensor.
 
 2. The wiper relay (LOW) is turned on and the wiper motor runs one cycle when changing the INT auto switch to "ON" position from "OFF" position for the first time(while the ignition key is in "ON" position). When the wiper switch is turned to "ON" position again from "OFF" position, the system drives the wiper motor through LOW relay one cycle only when the rain sensor detects the "Rain Detected" signal.
@@ -31768,7 +30058,6 @@ to the rain sensor to recognize whether it is actual rain or it is in rain sensi
 
 
 ### 2) Washer Coupled Wiper in the Rain Sensing Mode
-`ssangyong_actyon_en_108e4e83` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:864 | doc_type:owners_manual
 1. The washer coupled wiper is operated when receiving the washer switch input with the ignition switch "ON" and the auto INT switch "ON" in rain sensing mode. At this moment, the communication with the rain sensor is overidden. However, the washer switch input is overiden during continuous operation.
 
 2.The operation data is sent to the rain sensor even during the washer coupled wiper operation.
@@ -31779,7 +30068,6 @@ to the rain sensor to recognize whether it is actual rain or it is in rain sensi
 
 
 ### 3) Rain Sensing Sensitivity Control
-`ssangyong_actyon_en_d5d5d2b8` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:865 | doc_type:owners_manual
 1. The wiper relay (LOW) is turned on and the wiper motor runs one cycle when the volume sensitivity is increased (ex: from 0 to 1) (while the ignition key is in "ON" position, the wiper switch is in "AUTO" position, and the wiper motor is in "Parked" position). However, the wiper motor can be operated only when the rain sensor detects the "Rain Detected" signal.
 
 % If the volume sensitivity is changed more than 1 stage within 2 seconds, the wiper motor runs only one cycle.
@@ -31788,7 +30076,6 @@ to the rain sensor to recognize whether it is actual rain or it is in rain sensi
 
 
 ### 4) Auto Light Control
-`ssangyong_actyon_en_80aced0d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:866 | doc_type:owners_manual
 1. Only when the auto light switch is in "AUTO" position, it controls the tail lamp and headlamp by communicating with the rain sensor (while the ignition key is in "ON" position).
 
 ![](images/1d5194ae2916b35a18a080af12298af8249ddf8838d934a453e22a3713cb3f5c.webp)
@@ -31797,7 +30084,6 @@ to the rain sensor to recognize whether it is actual rain or it is in rain sensi
 
 
 ### 5) Wiper Operation When the Wiper Parking Terminal Is Grounded
-`ssangyong_actyon_en_7f0e7601` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:867 | doc_type:owners_manual
 1. The wiper system continuously outputs the parking signal of curent sensitivity when the parking terminal is grounded (while the ignition key is in "ON" position and the INT switch is in "ON" position).
 
 The wiper motor runs only when the rain sensor requires.
@@ -31814,7 +30100,6 @@ The wiper motor runs only when the rain sensor requires.
 
 
 ### 6) Defective Rain Sensor
-`ssangyong_actyon_en_b84f15ec` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:868 | doc_type:owners_manual
 1. The wiper relay (LOW) is turned on and the wiper motor runs one cycle when the wiper sensitivity is changed to 2 from 3 during receiving the malfunction signal from the rain sensor (while the ignition key is in 'ON' position and the INT switch is in "ON" position).
 
 ![](images/72443775690b762b36a59b0271504c46075e5154ae3d01556df123e344ec5156.webp)
@@ -31827,7 +30112,6 @@ The wiper motor runs only when the rain sensor requires.
 
 
 ### 5. OPERATION MODE OF RAIN SENSING WIPER SYSTEM
-`ssangyong_actyon_en_1605f2f3` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:869 | doc_type:owners_manual
 ![](images/b2fc435965bd2e3f53e7e40641b67a317e760541dab8dfabb3d25496d1b59d55.webp)
 
 1. Rain detected headlamp: If it rains heavy which requires the highest INT speed, the headlamps are turned on automatically.
@@ -31838,7 +30122,6 @@ The wiper motor runs only when the rain sensor requires.
 
 
 ### 1. COMPONENT SPECIFICATIONS
-`ssangyong_actyon_en_5ea628e2` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:870 | doc_type:owners_manual
 The parking aid system emits the supersonic wave signals from the sensors on the rear bumper with a specific interval and detects the reflected signals from obstacles while the gear selector lever is in "R" position. The alarm interval increases as the obstacle approaches. This supplementary system is to secure the safety distance for parking.
 
 ![](images/08d40e35d886857d9625c5c871f7c8672d4a0bba086a8e3edb4a22d1a7a7daeb.webp)
@@ -31847,14 +30130,12 @@ The parking aid system emits the supersonic wave signals from the sensors on the
 
 
 ### 1) Parking Aid Unit
-`ssangyong_actyon_en_211a1601` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:871 | doc_type:owners_manual
 Detecting type: Super sonic wave Detecting distance: 25 cm \~ 120 cm (distance between sensor and obstacle)
 
 ![](images/0fcf3e42741bca8088fbcfed9dd80dc30e30de0082df4c96aaf34cb0c3e6a9d7.webp)
 
 
 ### 2) Parking Aid Sensor
-`ssangyong_actyon_en_45601ec1` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:872 | doc_type:owners_manual
 1. Type: Piezo ceramic element   
 2. Frequency: 40 KHz ± 2 KHz
 
@@ -31864,30 +30145,25 @@ Detecting type: Super sonic wave Detecting distance: 25 cm \~ 120 cm (distance b
 - Vertical: Min. 20° at 110 ± 5 cm Min. 60° at 50 ± 5 cm
 
 
-### CAUTION
-`ssangyong_actyon_en_89141a79` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:873 | doc_type:owners_manual
--There is no upper mounting cover and spring in the PAS sensor installed in this vehicle.
-
-![](images/0940f9f6dc6a9928bf6df390c6cdc9d69148a1a006c6b05638ef81c9b9b06bd6.webp)
+> ⚠️ **Внимание:** -There is no upper mounting cover and spring in the PAS sensor installed in this vehicle.
+>
+> ![](images/0940f9f6dc6a9928bf6df390c6cdc9d69148a1a006c6b05638ef81c9b9b06bd6.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_58242684` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:874 | doc_type:owners_manual
--Note that the display does not show everything in the rear area. Always check nobody, especially animals and children, is behind the vehicle when parking or reversing. -If you can not properly check the vehicle behind, get out of the vehicle and then visually check it.
-
-1. The parking aid system is just a supplemental device to help your parking operation.
-
-2.Always keep the safety precautions.
-
-3. Do not press or shock the sensors by hitting or high-pressure water gun while washing, or the sensors will be damaged.   
-4. f the system is in normal operating condtion, a short beep sounds when the gear selector lever is moved into "R" position with the ignition key "ON".   
-5. f the system is in abnormal operating condition, a beep sounds for 3 seconds when the gear selector lever is moved into "R" position with the ignition key "ON" or engine running. However, it is also occurred when the obstacle is within 50 cm from the rear bumper.
-
-![](images/123b512b380fdd20e65ef3f5e05fe71e5310e226c765db5c15f2739e6a1d35c9.webp)
+> ⚠️ **Внимание:** -Note that the display does not show everything in the rear area. Always check nobody, especially animals and children, is behind the vehicle when parking or reversing. -If you can not properly check the vehicle behind, get out of the vehicle and then visually check it.
+>
+> 1. The parking aid system is just a supplemental device to help your parking operation.
+>
+> 2.Always keep the safety precautions.
+>
+> 3. Do not press or shock the sensors by hitting or high-pressure water gun while washing, or the sensors will be damaged.   
+> 4. f the system is in normal operating condtion, a short beep sounds when the gear selector lever is moved into "R" position with the ignition key "ON".   
+> 5. f the system is in abnormal operating condition, a beep sounds for 3 seconds when the gear selector lever is moved into "R" position with the ignition key "ON" or engine running. However, it is also occurred when the obstacle is within 50 cm from the rear bumper.
+>
+> ![](images/123b512b380fdd20e65ef3f5e05fe71e5310e226c765db5c15f2739e6a1d35c9.webp)
 
 
 ### The parking aid system wil not work or improperly work under following cases
-`ssangyong_actyon_en_85512380` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:875 | doc_type:owners_manual
 1. Certain obstacles that sensors can not detect - Wires, ropes, chains. -Cotton, sponge, clothes, snow that absorb ultrasonic waves. - Obstacles lower than the bumper (ex. drain ditch or mud puddle)
 
 2. Not defective but improperly working
@@ -31915,7 +30191,6 @@ Detecting type: Super sonic wave Detecting distance: 25 cm \~ 120 cm (distance b
 
 
 ### 1. SYSTEM OVERVIEW
-`ssangyong_actyon_en_9e6eb79e` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:876 | doc_type:owners_manual
 The parking aid device is integrated in the rear bumper and it uses three Piezoelectric elements to measure vertical and horizontal distance to obstacles. When placing the gear selector lever to "R" position, the designated unit (PAS unit in the rear right quarter panel) activates the parking aid sensors to measure the distance to obstacles.
 
 PAS Related Devices
@@ -31932,7 +30207,6 @@ PAS
 
 
 ### 2. ALARM INTERVAL
-`ssangyong_actyon_en_974c3fdc` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:877 | doc_type:owners_manual
 Alarm interval and display changes according to the distance as below:   
 While reversing, if obstacles are within stage 1, the warning beep sounds with long intervals. If within stage 2, the warning beep sounds with short intervals and if within stage 3, the warning beep sounds continuously.
 
@@ -31942,7 +30216,6 @@ While reversing, if obstacles are within stage 1, the warning beep sounds with l
 
 
 ### 3. TROUBLESHOOTING OF SENSOR
-`ssangyong_actyon_en_6de50da6` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:878 | doc_type:owners_manual
 When the power is applied (gear selector lever is in "R" position), the sensor wil be diagnosed once. If found any failure due to open circuit to sensor or communication error, warning buzzer sounds for 3 seconds and the data on failed sensor transmits to the instrument panel to light up the corresponding LED. If normal, the warning buzzer sounds only for 65 ms.
 
 ![](images/39a9fb3a138a3a23436f6d0ae58b233bce5aa3f49f3de02480bf2f4e70ed9510.webp)
@@ -31958,28 +30231,24 @@ When the power is applied (gear selector lever is in "R" position), the sensor w
 
 
 ### Warning Beeps
-`ssangyong_actyon_en_aeda3ec6` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:879 | doc_type:owners_manual
 ![](images/a888735bf4f5242725f08f7552a071d926332c0983264b7618dbd3ee1c31a57a.webp)
 
 ![](images/88c8eb9a3e43f01ff1ae052003b57d28e5ad747aa714716b132620339d52bdb9.webp)
 
 
 ### 4. CIRCUIT DIAGRAM
-`ssangyong_actyon_en_f42dd48e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:880 | doc_type:owners_manual
 ![](images/c3390a420ed1b6ba0c71b463938f50b8c5afd65cd7f6611fa2b0bdde6aff5695.webp)
 
 ![](images/f7881dbfefdb25f4676438be3bff97af90821bfcc08de6d8d6d3bfd99ef8c4bb.webp)
 
 
 ### 1. AUDIO SYSTEM OVERVIEW
-`ssangyong_actyon_en_a7c72682` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:881 | doc_type:owners_manual
 ![](images/60b6d742932926d62e321f651ecab95094505d589ed73648bc598df48a19f86a.webp)
 
 ![](images/659de7532bbce58213eb9c57d3de1eb0c0e48f8670674e601c6473eabc714d3b.webp)
 
 
 ### 1. SPECIFICATIONS
-`ssangyong_actyon_en_5e7b82e4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:882 | doc_type:owners_manual
 ![](images/267b38e77042987f195819596315a13e7423a6ee8a1ce6d7e32d5044135043d8.webp)
 
 ![](images/a8615794531e3b7bcc9b39025f1e3cc3a54c8e838cb10cc2f39dec99393a169f.webp)
@@ -31990,14 +30259,12 @@ When the power is applied (gear selector lever is in "R" position), the sensor w
 
 
 ### 2. TIGHTENING TORQUE
-`ssangyong_actyon_en_68626fb6` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:883 | doc_type:owners_manual
 ![](images/13af1cf09a4f6d48449f10dde2fa1ea633ac7672d448abadede1284d1df1d035.webp)
 
 ![](images/b552aad767ddbdad3592f437ff0365f3cd3da13570ecc8b2fde3ea1abb299a30.webp)
 
 
 ### 1. OVERVIEW
-`ssangyong_actyon_en_d3367f4e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:884 | doc_type:owners_manual
 ![](images/061c156a0c35205df1e7a12ae44a744029708600f935fc9ac981735c25fa0533.webp)
 
 1. DC A/T Assembly Number (With T/Converter)
@@ -32018,7 +30285,6 @@ DCAG 5-speed automatic transmission is an electronical controlled 5-speed transm
 
 
 ### DCAG 5-speed automatic transmission offers the following advantages:
-`ssangyong_actyon_en_94e92e23` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:885 | doc_type:owners_manual
 1. Improved shifting quality   
 2. More gears   
 3. Extended working life and reliability   
@@ -32032,7 +30298,6 @@ The old version of torque converter is not compatible with new torque converter 
 
 
 ### Characteristics
-`ssangyong_actyon_en_1ef3c418` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:886 | doc_type:owners_manual
 ![](images/d4e03b34ed35f44fd070ce744160258bda1e29ed43c08a63f7e697a341f23966.webp)
 
 ![](images/e2a7a6f16a7aab96f9ecb5baf1bd4940850d978a5574cbd77d37b2b697480f50.webp)
@@ -32041,7 +30306,6 @@ The old version of torque converter is not compatible with new torque converter 
 
 
 ### 2. POWER FLOW
-`ssangyong_actyon_en_20d46155` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:887 | doc_type:owners_manual
 1) Power Flow
 
 Sectional View
@@ -32056,7 +30320,6 @@ Shifting elements
 
 
 ### 1st Gear (3.932)
-`ssangyong_actyon_en_660f17d2` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:888 | doc_type:owners_manual
 ![](images/d7fcd65c315ca51d1c00f090187342af4aff4b119492924a6a5a9d82a77fbc49.webp)
 
 16.Torque converter lockup clutch E. 3rd gear ratio M. Center planetary gear set A. Engine speed F. Mounting elements P. Impeller B. Transmission, input shaft Н. Rear planetary gear set T. Turbine wheel C. 1st gear ratio L. Stator V. Front planetary gear set D. 2nd gear ratio
@@ -32076,7 +30339,6 @@ Shifting elements
 
 
 ### 2nd Gear (2.408)
-`ssangyong_actyon_en_e05ca6fb` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:889 | doc_type:owners_manual
 ![](images/a73f52e3b7ad1e2dd61abcf4013f021713ea19b33e718c5d83f606a87f9eceac.webp)
 
 16.Torque converter lockup clutch D. 2nd gear ratio M. Center planetary gear set A. Engine speed E. Mounting elements P. Impeller B. Transmission, input shaft H. Rear planetary gear set T. Turbine wheel C. 1st gear ratio L. Stator V. Front planetary gear set
@@ -32097,7 +30359,6 @@ Shifting elements
 
 
 ### 3rd Gear (1.486)
-`ssangyong_actyon_en_d121071c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:890 | doc_type:owners_manual
 ![](images/d13c279bc5a861f66bf5dfca26e75e34d0ac0a68186d76513d175cbefbd9a8b1.webp)
 
 16.Torque converter lockup clutch D. Mounting elements P. Impeller
@@ -32115,7 +30376,6 @@ A. Engine speed Н. Rear planetary gear set T. Turbine wheel B. Transmission, in
 
 
 ### 4th Gear (1.000)
-`ssangyong_actyon_en_6dc08dcf` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:891 | doc_type:owners_manual
 ![](images/b24c92ee02dbded213cb68456c76b642a7e2c914b232564bc7895702db94e055.webp)
 
 16.Torque converter lockup clutch L. Stator T. Turbine wheel Engine speed M. Center planetary gear set V. Front planetary gear set   
@@ -32199,7 +30459,6 @@ Reverse 2nd Gear (1.926, "W" Mode)
 
 
 ### 3. CIRCUIT DIAGRAM
-`ssangyong_actyon_en_861386b6` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:892 | doc_type:owners_manual
 Start motor, TGS lever, CAN line
 
 ![](images/882fccf35d9ed4dd5c9f68b5fa3dcc2b9d583ef5eb0e2bd934c682e07b973a9c.webp)
@@ -32213,13 +30472,11 @@ Solenoid, Oil temperature sensor, Speed sensor (N2, N3)
 
 
 ### 1. GENERAL INFORMATION
-`ssangyong_actyon_en_bf8be841` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:893 | doc_type:owners_manual
 DSI M78 Automatic Transmission is based on the transmission in the vehicle with D20DT engine for EURO III or EURO IV.   
 Differences: changed some components (torque converter and torque converter housing, some pinion gears, sun gear), increased torsional damping force.
 
 
 ### Automatic transaxle (DSI M78)
-`ssangyong_actyon_en_294220a8` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:894 | doc_type:owners_manual
 ![](images/7f2e6f3a414dc1b0ad620a4121871a66c2c11cb1b2d5e081aaf1b8572864d670.webp)
 
 - Six forward speeds   
@@ -32246,13 +30503,11 @@ TCU receives input signals from certain transmission-related sensors, gear selec
 
 
 ### Gear select lever
-`ssangyong_actyon_en_7249cb5c` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:895 | doc_type:owners_manual
 Tip Switch in “M” Position (Manual Gear Shift)   
 The shiftable gear can be adjusted by moving this switch to forward and rearward when the gear select lever is in “M” position.
 
 
 ### Mode Switch
-`ssangyong_actyon_en_465d6059` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:896 | doc_type:owners_manual
 w : Winter mode   
 S :Standard mode (Use the standard mode in normal driving conditions.)
 
@@ -32270,14 +30525,12 @@ Shift Lock Release Button Hole when Locked in the "P" Position If you cannot mov
 
 
 ### 2. FEATURES AND SPECIFICATIONS
-`ssangyong_actyon_en_1e8a640d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:897 | doc_type:owners_manual
 1) Specifications
 
 ![](images/7e9c335c79aaf6e5734951470a39a823d74339f00068d81db201f4773904c2be.webp)
 
 
 ### \*Severe driving conditions?
-`ssangyong_actyon_en_00d167ba` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:898 | doc_type:owners_manual
 -Towing a trailer or off-road driving (Inspect the leak of fl uid at any time, occasionlly) - Taxi, patrol service or delivery service (extended idling and excessive driving with low speed) Frequent stop-and-go traffi c, extended idling, -short driving distance
 
 ![](images/d2444f5b9a48ff278ad1b66795f6b08ec8936a7338da6af7b7d915813ee561e2.webp)
@@ -32288,7 +30541,6 @@ Shift Lock Release Button Hole when Locked in the "P" Position If you cannot mov
 
 
 ### 2) Appearance
-`ssangyong_actyon_en_30d0760a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:899 | doc_type:owners_manual
 4WD Automatic Transmission
 
 ![](images/330cc66213eda946f353c0c453da880ee62c6ce9e9b01b05d0d9cd392a73b5c7.webp)
@@ -32297,35 +30549,30 @@ Shift Lock Release Button Hole when Locked in the "P" Position If you cannot mov
 
 
 ### 2WD Automatic Transmission
-`ssangyong_actyon_en_9cee6a6a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:900 | doc_type:owners_manual
 ![](images/1156c424ae88d4023ab36e20d4c3d891baeb6df102abe88a9cc1416a2cb4224d.webp)
 
 ![](images/cc057a046f5d9b76579cbb8c2a63a282ba6b2df2274e8939bf5fd69b9d8128b3.webp)
 
 
 ### 3) Sectional Diagram
-`ssangyong_actyon_en_ddc4a9d5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:901 | doc_type:owners_manual
 ![](images/092704480d4dfeaa205f6a0e3f086df6184bf0027976a2b28aaca05c3c1456f6.webp)
 
 ![](images/c5e061d87973d4c1b7715f50ed9f0f585c57120e37189592ba09fd6229b4cf94.webp)
 
 
 ### 3. TIGHTENING TORQUE
-`ssangyong_actyon_en_1080434a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:902 | doc_type:owners_manual
 ![](images/c5281243610835a6d8404de3aa2386c836f927039571c5faef13b85766ddd088.webp)
 
 ![](images/c11d77093b8908c7079a6cdbaf4e458c26bb4e8104715ce9b46c5ae1689ac94a.webp)
 
 
 ### 4. SHIFT PATTERN DIAGRAM
-`ssangyong_actyon_en_789349bf` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:903 | doc_type:owners_manual
 ![](images/0bf5a7315b9cb4be667671901c1f3bd6f846fc00d593b16670e95f09342505e9.webp)
 
 ![](images/2701b62a60d701ac595db8096f786fa9f66374ffc0e698790f6cbcbfb1abdc92.webp)
 
 
 ### 1. OVERVIEW
-`ssangyong_actyon_en_51708c2f` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:904 | doc_type:owners_manual
 ![](images/3de2cee892f1b1f0e33b2880371e2b42ce8891943dfbfd9c2dc106ee7413874c.webp)
 
 The six speed automatic (M78) transmission is available in two variants: four wheel drive and two wheel drive. The transmission has the following features:
@@ -32358,27 +30605,22 @@ Engine power reaches the transmission via a torque converter with integral conve
 
 
 ### Early Downshifts with Hard Braking and Skip Shifts
-`ssangyong_actyon_en_0b9c5f7b` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:905 | doc_type:owners_manual
 When heavy braking is detected, the transmission downshifts early and skips gears to provide increased engine braking to provide gear selection for tip-in.
 
 
 ### Gear Hold on Uphill/Downhill
-`ssangyong_actyon_en_d96f1f8a` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:906 | doc_type:owners_manual
 If the accelerator pedal is released when travelling uphill upshifts are prevented to reduce busyness on grades. If the accelerator pedal is released when travelling downhill, upshifts are prevented to enhance engine braking.
 
 
 ### Soft Engagement when Shifting to “D” and "“R” Position
-`ssangyong_actyon_en_ef35c253` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:907 | doc_type:owners_manual
 A soft engagement feature avoids harsh take up of drive when selecting Drive or Reverse. This is achieved by limiting engine speed and engine torque which results in a rapid, but progressive engagement of either Drive or Reverse when moving from the Park or Neutral positions. There is no drive engagement prevention strategy implemented on the transmission system as there is suficient engine strategy to protect the system. However, reverse gear engagement is prevented until engine speed is less than 1400 rpm and the accelerator pedal position is less than 12% and vehicle speed is less than 10 km/h.
 
 
 ### Converter Clutch Lock-Up In All Gears
-`ssangyong_actyon_en_18b72ce1` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:908 | doc_type:owners_manual
 The transmission features converter clutch lock-up in all gears. This feature provides improved fuel economy and vehicle performance. It also improves transmission cooling efficiency when towing heavy loads at low speeds, e.g. in city driving or hill terrain.
 
 
 ### Embeded Memory Module (EMM)
-`ssangyong_actyon_en_35e55018` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:909 | doc_type:owners_manual
 ![](images/2c9052d0a8ca7f2d9f8c8e78bca3869888b4917f48e95cd4013cb27549f50577.webp)
 
 The embedded memory module (EMM) is matched to the transmission's valve bodies during transmission assembly to ensure refined shift quality. The EMM is integrated into the input speed sensor which is mounted on the valve body in the transmission. The EMM is used to store data such as valve body calibration data and valve body serial number. Upon installation, the TCU will download the data from the EMM and utilise this data in the operation of the transmission.
@@ -32387,29 +30629,24 @@ The embedded memory module (EMM) is matched to the transmission's valve bodies d
 
 
 ### 2) Cooling System
-`ssangyong_actyon_en_ba010be5` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:910 | doc_type:owners_manual
 The transmission cooling system ensures rapid warm-up and constant operating temperature resulting in reduced fuel consumption and refined shift quality. It also includes a cooler by-pass within the hydraulic system to allow suficient cooling and lubrication to the transmission drivetrain in the event of a blockage in the transmission cooler.
 
 
 ### Gear Shift
-`ssangyong_actyon_en_44489fdc` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:911 | doc_type:owners_manual
 Transmission gear change is controlled by the TCU. The TCU receives inputs from various engine and vehicle sensors to select shift schedules and to control the shift feel and torque converter clutch (TCC) operation at each gear change
 
 
 ### Coastdown
-`ssangyong_actyon_en_ced7ebce` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:912 | doc_type:owners_manual
 Coastdown downshifts occur at 0% accelerator pedal when the vehicle is coasting down to a stop. To reduce the shift shock and to improve the shift feeling during downshift, TCU electronically controls the transmission.
 
 
 ### Torque Demand
-`ssangyong_actyon_en_96f645dc` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:913 | doc_type:owners_manual
 Torque demand downshifts occur (automatically) when the driver demand for torque is greater than the engine can provide at that gear ratio. If applied, the transmission will disengage the TCC to provide added acceleration.
 
 ![](images/c79841c8f03fb92c5640928f4485b1b6c418d7e1e60853103a30ae58751086f3.webp)
 
 
 ### 1. Shift Lock Release Button Hole when Locked in the "P" Position (1)
-`ssangyong_actyon_en_1b483578` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:914 | doc_type:owners_manual
 If you cannot move the gear select lever from the "P" position, try to move the lever while pushing down here with a sharp object such as a ballpoint pen. For your safety, turn off the engine and depress the brake pedal before the attempt.
 
 2. Selection of Manual/Automatic Shift Function (M→D) (2) D : Automatic shift according to the driving condition M : Manual shift
@@ -32430,34 +30667,28 @@ The shiftable gear can be adjusted by moving this switch to forward and rearward
 
 
 ### ) Mode "“M” (Manual Shift Mode)
-`ssangyong_actyon_en_4fa9723f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:915 | doc_type:owners_manual
 This allows the driver to define the highest possible gear by selecting "+" or "" on the gear selector when the lever is in the "M" position. When the lever is first moved to the manual "M" position the transmission will select the lowest possible gear.
 
 When maximum engine rpm is reached the transmission willupshift automatically regardless of the driver selected limit. 4WD models with low range will not automatically upshift when low range is selected.
 
 
 ### Kickdown Function
-`ssangyong_actyon_en_30308f78` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:916 | doc_type:owners_manual
 If you need to accelerate rapidly, depress the accelerator pedal completely to the floor. Then, a one- or two-lever gear will automatically be engaged. This is called the Kickdown function
 
 
 ### 1st gear position
-`ssangyong_actyon_en_9dd9cfbd` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:917 | doc_type:owners_manual
 -Use on a rugged road, mountain path and steep hil. Engine braking effect on steep hil is available.
 
 
 ### 2nd gear position
-`ssangyong_actyon_en_80061bc9` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:918 | doc_type:owners_manual
 -Use on a long and gentle slope. 2-1 automatic kickdown shiftis available. Engine braking effect is available.
 
 
 ### 3st gear position
-`ssangyong_actyon_en_23b83a16` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:919 | doc_type:owners_manual
 - Use on a long and gentle slope. 3-2 and 2-1 automatic kickdown shiftis available. Engine braking effect is available.
 
 
 ### 4th gear position
-`ssangyong_actyon_en_116a8995` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:920 | doc_type:owners_manual
 -Use on a long and gentle slope. 4-3, 4-2 and 4-1 automatic kickdown shift is available.
 
 5th gear position - 5-4 and 5-3 automatic kickdown shift is available.
@@ -32468,7 +30699,6 @@ If you need to accelerate rapidly, depress the accelerator pedal completely to t
 
 
 ### In case of transmission malfunction
-`ssangyong_actyon_en_d1d04489` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:921 | doc_type:owners_manual
 1. If a serious fault occurs in the automatic transmission, the TCU enters the limp home mode to secure safe driving and protect the automatic transmission.   
 2. As power is no longer supplied to the solenoid, the current basic function (P, R, N, D) is maintained and the 4th gear can be maintained only by the operation of the hydraulic system without electrical operation.   
 3. The ECU communicates with other electric modules with CAN. If a serious fault occurs, the transmission automatically enters the limp home mode for service.   
@@ -32476,28 +30706,23 @@ If you need to accelerate rapidly, depress the accelerator pedal completely to t
 
 
 ### In case of overheated transmission
-`ssangyong_actyon_en_1f03bd00` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:922 | doc_type:owners_manual
 1. The TCU enters the limp home mode when the batter voltage drops below 8 V.   
 . If the transmission is overheated, the shift pattern is changed to the hot mode to cool the transmission more efficiently.   
 3. While the transmission is overheated, the selector lever symbol and engine temperature warning lamp on the instrument cluster blink until the transmission is cooled down to the normal operation temperature. If the transmission is excessively overheated, the gear cannot be shifted but remains in the neutral position.
 
 
 ### Towing the vehicle with A/T
-`ssangyong_actyon_en_80406cb9` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:923 | doc_type:owners_manual
 ![](images/d907c1669786a8a600ea368bc002a729b97c989e11f4c984f5d77ff9f0f35dcd.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_3700351d` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:924 | doc_type:owners_manual
-The best way to transport the vehicle is to load it to a truck and transport it, especiall if the vehicle is 4WD.
-
--If towing the vehicle with the propeller shaft connected, the transmission or oil pump of transfer case may malfunction, resulting in internal damage due to poor lubrication.
-
-![](images/073d8e62ef1baaa5767862259013738de525a985e31b4b2f496b8258c295849d.webp)
+> ⚠️ **Внимание:** The best way to transport the vehicle is to load it to a truck and transport it, especiall if the vehicle is 4WD.
+>
+> -If towing the vehicle with the propeller shaft connected, the transmission or oil pump of transfer case may malfunction, resulting in internal damage due to poor lubrication.
+>
+> ![](images/073d8e62ef1baaa5767862259013738de525a985e31b4b2f496b8258c295849d.webp)
 
 
 ### 1) Overview
-`ssangyong_actyon_en_a73a1498` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:925 | doc_type:owners_manual
 The transmission control unit (TCU) and its input/output networks control the operations of transmission:
 
 - Shift timing   
@@ -32508,40 +30733,34 @@ In addition, the TCU receives input signals from certain transmission-related se
 
 
 ### 2) Transmission Control Unit (TCU)
-`ssangyong_actyon_en_b1bbf8fc` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:926 | doc_type:owners_manual
 The transmission control unit (TCU) is mounted under the driver's seat and controls the operation of the transmission.
 
 TCU processes the analog information from the internal sensors and the digital information through CAN communication lines. TCU monitors allthe input and output signals. If there is any failure, TCU changes the system to “Limp Home Mode” and alerts to the driver through the warning lamp on the instrument cluster.
 
 
 ### Input/Output Data between TGS Lever and TCU
-`ssangyong_actyon_en_3bb124a6` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:927 | doc_type:owners_manual
 - Position and conditions of gear select lever -Driving moded (Winter or Standard)
 
 Input/Output Data between Inhibitor and TCU -Position of inhibitor switch
 
 
 ### Input/Output Data between Automatic Transmission and TCU
-`ssangyong_actyon_en_6ccf3072` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:928 | doc_type:owners_manual
 - 6 control signals for variable bleed solenoid - 4 control signals for ON/OFF solenoid -Transmission input speed -Transmission output speed -Transmission oil temperature - EMM (Embeded Memory Module)
 
 
 ### Input/Output Data between Self Diagnostic Connector and TCU
-`ssangyong_actyon_en_83515a07` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:929 | doc_type:owners_manual
 - Various DTC codes and TCU information
 
 ![](images/d83019d5732ef974c58c56c647d3b15372e935b68e11be869a13f42f98b43bc1.webp)
 
 
 ### (2) CAN Input/Output
-`ssangyong_actyon_en_d1e29ad4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:930 | doc_type:owners_manual
 TCU receives and sends the data among the units through P-CAN communication.
 
 ![](images/0e5aa0835139765a1cf3b806210a7658bdf237ccd3c0965f341974e20eac5bea.webp)
 
 
 ### CAN Input/Output Data between Engine ECU and TCU
-`ssangyong_actyon_en_0b6e080e` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:931 | doc_type:owners_manual
 Engine ECU TCU Accelerator pedal position Engine torque (including max/min) Shift level request Current gear position Engine limp home mode Target gear position   
 Accelerator pedal sensor error Torque converter lock up Cruise control ON Gear shifting Requested torque from ESP Torque request in safety mode Engine rpm Engine torque control   
 Engine torque (including max/min) Software caliration  and gearselect lever position Vehicle speed Failure and error Stop lamp ON/OFF Turbine speed of torque converter Engine coolant temperature Drive position Intake air temperature Driving mode program (Winter or Standatd) Transmission oil temperature
@@ -32553,44 +30772,36 @@ CAN Input/Output Data between ABS/ESP and TCU
 
 
 ### CAN Input/Output Data between TCCU and TCU
-`ssangyong_actyon_en_a8d1118e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:932 | doc_type:owners_manual
 ![](images/42e174635fdab98494d64462e826a59a5433fa4edf0a08862a42c2f2991d80da.webp)
 
 
 ### CAN Input/Output Data between ICM and TCU
-`ssangyong_actyon_en_34f4d81a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:933 | doc_type:owners_manual
 ![](images/a5633629673654499b346bfb105ef6122c55a566940f316850316ca4c7377f12.webp)
 
 ![](images/9311875950f5c62fb7a45ce38caa4e6fb692b6075a9003d90d2841e3ea630841.webp)
 
 
 ### 3) Transmission Control Monitoring System
-`ssangyong_actyon_en_aff6713a` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:934 | doc_type:owners_manual
 TCU monitors allinput and output signals to identify possible failures. If a fault is detected, TCU activates the safety mode to keep the driver's safety and the life span of transmission.
 
 
 ### Monitoring the Supply Voltage
-`ssangyong_actyon_en_60d7f1d3` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:935 | doc_type:owners_manual
 If the battery voltage is too high or too low, the TCU sets the DTC.
 
 
 ### Monitoring the Supply Voltage to Solenoid
-`ssangyong_actyon_en_56bd7ac9` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:936 | doc_type:owners_manual
 TCU monitors the circuits for open or short to ground or supply. The monitoring function evaluates the voltage characteristics while the switch is ON.
 
 
 ### Monitoring the Gear Ratio
-`ssangyong_actyon_en_18659798` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:937 | doc_type:owners_manual
 TCU monitors the gear is engaged properly in the allowed time.
 
 
 ### Monitoring the Torque Converter
-`ssangyong_actyon_en_58db5cb3` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:938 | doc_type:owners_manual
 TCU checks if the torque converter can be locked up properly. If it is failed, TCU releases the torque converter clutch to activate the fail-safe operation.
 
 
 ### 4) Shift Energy Management
-`ssangyong_actyon_en_31db81a1` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:939 | doc_type:owners_manual
 This function involves reducing or increasing the engine output torque during shifting. This reduces the energy which is dissipated in the friction elements of the transmission during up-shift. This is done by reducing the engine torque during the gear ratio change without interrupting the tractive drive. This function is used for:
 
 -Increasing the life span of transmission by shortening the slipping time -Improving the shift comfort by reducing the step changes due to gearshift -Transferring a higher engine power
@@ -32601,7 +30812,6 @@ Real-time control of engine torque is required to maintain the proper shift oper
 
 
 ### Pressure Modulation
-`ssangyong_actyon_en_65738b63` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:940 | doc_type:owners_manual
 To provide a higher level of shift comfort and durability, the hydraulic pressure in the shift related friction elements of the transmission must be matched accurately to the input torque to transmission. This hydraulic pressure is composed of a hydraulically pre-set basic pressure and a control pressure which is set by one of the variable bleed solenoids.
 
 The transmission input torque can be directly calculated from the following operating parameters:
@@ -32614,44 +30824,36 @@ Separate pressure characteristics for each gear change make it possible to adapt
 
 
 ### 5) Shift Mode Selection by TCU
-`ssangyong_actyon_en_e8ba5a90` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:941 | doc_type:owners_manual
 The driver can select Standard (S) or Winter mode (W) with the mode switch. TCU automatically changes the shift mode according to the transmission oil temperature, uphill or downhill gradient, and altitude to keep the good driving conditions.
 
 
 ### Standard Mode (S)
-`ssangyong_actyon_en_a64e8f71` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:942 | doc_type:owners_manual
 Standard Mode is selected when setting the mode switch in Standard (S) position with the gear select lever in “D” and the transmission oil temperature in normal operating range. Proper shift timing provides the optimized fuel economy and good driving conditions.
 
 
 ### Uphii and Downhill Mode
-`ssangyong_actyon_en_4dc48951` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:943 | doc_type:owners_manual
 In this mode, the operating points of torque converter lock-up clutch and the shifting points are adjusted according to the vehicle weight.
 
 
 ### Altitude Mode
-`ssangyong_actyon_en_60d2b638` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:944 | doc_type:owners_manual
 In this mode, the shifting points are automatically adjusted according to the altitude to compensate the engine torque changes due to barometric pressure and temperature.
 
 ![](images/2941195005fb84ee60a1ac40821d7e05e3d80d1ae2b77b541f3843f6742ebae9.webp)
 
 
 ### Winter Mode (W)
-`ssangyong_actyon_en_78e95aae` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:945 | doc_type:owners_manual
 When the Winter mode is selected, the second gear is engaged to start offthe vehicle easily to prevent wheel spin on slippery surfaces and WINTER mode indicator comes ON. The first gear is not available in this mode.
 
 
 ### Low Range Driving Mode
-`ssangyong_actyon_en_309bbe53` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:946 | doc_type:owners_manual
 When the vehicle is in 4L driving mode, the transmission uses a diferent shift mode to optimize the low range driving. Similar to Winter mode, the first gear is not available.
 
 
 ### Warm Up Mode
-`ssangyong_actyon_en_13e920e7` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:947 | doc_type:owners_manual
 This mode is normally used when the transmission oil temperature is below 20°C. The torque converter cannot be locked-up below 20°C to provide the warming up process of transmission.
 
 
 ### Hot Mode
-`ssangyong_actyon_en_2a01e7c9` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:948 | doc_type:owners_manual
 If the transmission oil temperature is between 110°C and 145°C, the system provides the cooling and reduces the load to the transmission. This is called Hot Mode.
 
 - Above 110°C: PWM fan ON   
@@ -32662,14 +30864,12 @@ In Hot Mode, any of shift mode is not available.
 
 
 ### Cruise Control
-`ssangyong_actyon_en_a6219f28` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:949 | doc_type:owners_manual
 When the cruise control is activated, the engine ECU requests the downshift to increase the engine brake effect.
 
 ![](images/2395ba851691f274fe25ec1b74d1ec5860eefb3628c7b9e441d1369c55d8860e.webp)
 
 
 ### 6. POWER FLOW
-`ssangyong_actyon_en_b909ba32` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:950 | doc_type:owners_manual
 Power flows in gears:
 
 -Power flow - 1st gear (M)   
@@ -32683,7 +30883,6 @@ Power flow - 5th gear (D)
 
 
 ### Gear Selection and Engaged Element
-`ssangyong_actyon_en_dea9024e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:951 | doc_type:owners_manual
 ![](images/dd88edf23bc96c8db273736dc63710d0914a66692f39ca42a6883ff9abb26b42.webp)
 
 ![](images/944d43eb5b33cc40ba2e94c3f255347f3aea8c742ec0ca6dfccb0b401400a270.webp)
@@ -32692,21 +30891,18 @@ Power flow - 5th gear (D)
 
 
 ### Hydraulic Circuit Diagram
-`ssangyong_actyon_en_c643d0fa` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:952 | doc_type:owners_manual
 ![](images/4b360d1722e7bc8ff6e5a4794f5cb2d5f21ff5a6e4f5479aca5b5e6ad3720955.webp)
 
 ![](images/af4509234a4128b0ace23aee20fe1c430c918dcbc66616eca7e81e57ff65c674.webp)
 
 
 ### 1) Power Flow - Manual (M Position)
-`ssangyong_actyon_en_eb1618a6` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:953 | doc_type:owners_manual
 Power Flow Diagram
 
 ![](images/fa865646f61318b249b2850df77ff4a9064fcf9f68ca42cf1f299a9b72250c76.webp)
 
 
 ### Functioning elements
-`ssangyong_actyon_en_3100f9b6` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:954 | doc_type:owners_manual
 - C2 applied, FSG (Forward Sun Gear)   
 driven   
 - B2 applied to hold Rear Planet Carrier   
@@ -32714,18 +30910,14 @@ stationary
 Provides engine breake effect
 
 
-### CAUTION
-`ssangyong_actyon_en_fa083d1e` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:955 | doc_type:owners_manual
-Manual 1st gear is not engaged even when moving the manual valve to a certain position. This gear state is obtained electronically by solenoids S1 and S7.
+> ⚠️ **Внимание:** Manual 1st gear is not engaged even when moving the manual valve to a certain position. This gear state is obtained electronically by solenoids S1 and S7.
 
 
 ### Control
-`ssangyong_actyon_en_afdc7365` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:956 | doc_type:owners_manual
 - S1 ON, C1 shift valve moved to the left end, C1 clutch not engaged - S1 ON, B2 shift valve moved to the left end, B2 band operated (S7 should be ON) - C2 shift valve open (S2 OFF), C2 clutch engaged by drive oil -Drive oil (for C2 clutch engagement) is regulated by VBS S6
 
 
 ### Connecting Components
-`ssangyong_actyon_en_0791486a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:957 | doc_type:owners_manual
 ![](images/253c997caa6cfd3f2f009fd326ed8a66a286d280a22bd0493b61c39ce0174c54.webp)
 
 ![](images/b0aadde0bc132eab5dc16337046553ad5ba8904a39e3dc4c849d226157924265.webp)
@@ -32739,24 +30931,20 @@ Manual 1st gear is not engaged even when moving the manual valve to a certain po
 
 
 ### 2) Power Flow - 1st Gear (D)
-`ssangyong_actyon_en_2ba06a75` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:958 | doc_type:owners_manual
 Power Flow Diagram
 
 ![](images/51333afec1b95123cb0cf47409335d1c30312127a8bd02ffc102b639b8487c8d.webp)
 
 
 ### Functioning elements
-`ssangyong_actyon_en_6a875076` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:959 | doc_type:owners_manual
 - C2 applied, FSG (Forward Sun Gear) driven - 1-2 OWC (One-Way Clutch) operated to hold Rear Planet Carier stationary
 
 
 ### Control
-`ssangyong_actyon_en_c5374b38` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:960 | doc_type:owners_manual
 - S1 ON, S2 OFF - S1 ON, C1 shift valve moved to the left end, C1 clutch not engaged - C2 shift valve open (S2 OFF), C2 clutch engaged by drive oil -Drive oil (for C2 clutch engagement) is regulated by VBS S6
 
 
 ### Connecting Components
-`ssangyong_actyon_en_c4bbc938` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:961 | doc_type:owners_manual
 ![](images/d38b4f18b115e47bdea5ab81cf21f9117e48e74700b0bebe43ff389a46809e71.webp)
 
 ![](images/70273a10d9f88df84be2057ff475835c6b5327178a979ee462d1b1e343370bf5.webp)
@@ -32770,24 +30958,20 @@ st Gear (D) (3.53:1)
 
 
 ### 3) Power Flow - 2nd Gear (D)
-`ssangyong_actyon_en_2ec0091e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:962 | doc_type:owners_manual
 Power Flow Diagram
 
 ![](images/9cffdc316ba56012140cafe4ba8af6a6bd4b209c42e4ca57f2344e7c71b6b742.webp)
 
 
 ### Functioning elements
-`ssangyong_actyon_en_24623bb3` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:963 | doc_type:owners_manual
 - C2 applied, FSG (Forward Sun Gear) driven - B1 applied to hold Rear Planet Carrier stationary
 
 
 ### Control
-`ssangyong_actyon_en_f8616b9b` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:964 | doc_type:owners_manual
 - S1 ON, S4 ON, S2 OFF - S1 ON, C1 shift valve moved to the left end, C1 clutch not engaged - C2 shift valve open (S2 OFF), C2 clutch engaged by drive oil -Drive oil (for C2 clutch engagement) is regulated by VBS S6 - S4 ON, B1 shift valve moved to the left end, B1 band operated - Drive oil (for B1 band engagement) is regulated by VBS S6
 
 
 ### Connecting Components
-`ssangyong_actyon_en_0a98cc25` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:965 | doc_type:owners_manual
 ![](images/166c862fc36a4d269005ea079b0f758f46f6445ec363f702758615866747e936.webp)
 
 ![](images/fad6fb281e86c48519ec4f242f3d50a8505a9782076ec3a387e3ea1be1d96e0a.webp)
@@ -32801,14 +30985,12 @@ nd Gear (D) (2.14:1)
 
 
 ### 4) Power Flow - 2nd Gear (D) Lock-Up
-`ssangyong_actyon_en_f383be73` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:966 | doc_type:owners_manual
 Power Flow Diagram
 
 ![](images/41c0aac1d6c1dcd24d4322d199884673792991c76e00719ae2736e1c5df99bbf.webp)
 
 
 ### Connecting Components
-`ssangyong_actyon_en_c1ba0de0` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:967 | doc_type:owners_manual
 ![](images/77967f76f902bbcfbceb6335364e23d8ed2adbf075e49f2b4f0fb39b90b4b849.webp)
 
 ![](images/2c5c61837098978322f115f2d4975ae9de98bd6e82daf99dd69608cd2962f05c.webp)
@@ -32817,38 +30999,31 @@ Power Flow Diagram
 
 
 ### nd Gear (D) Lock-Up
-`ssangyong_actyon_en_d03ec387` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:968 | doc_type:owners_manual
 ![](images/94feadcd3a2bff1d38162bb54fc9dcf689e9633dfd87bc87ae4a08b0bd7c6de3.webp)
 
 ![](images/aa200abf7005169e1dd3878fcf5e427cdf68cfa64a1ed09fbe38ed8c60fb59bf.webp)
 
 
 ### 5) Power Flow - 3rd Gear (D)
-`ssangyong_actyon_en_0f23a2d7` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:969 | doc_type:owners_manual
 Power Flow Diagram
 
 ![](images/be6f05dc6378a7ae8225c3ee50fba9fb5ad5b1296a3bcb655428b05db45793f4.webp)
 
 
 ### Functioning elements
-`ssangyong_actyon_en_c45b8731` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:970 | doc_type:owners_manual
 - C2 applied, FSG (Forward Sun Gear) driven   
 - C3 applied, Rear Planet Carrier driven   
 - Rear Planet Gear Set is locked and its output has the same gear ratio with Front Gear Set.
 
 
-### CAUTION
-`ssangyong_actyon_en_dc1deb45` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:971 | doc_type:owners_manual
-C3 clutch cannot be engaged if S7 is OFF and the oil pressure is not supplied to C3 regulator valve.
+> ⚠️ **Внимание:** C3 clutch cannot be engaged if S7 is OFF and the oil pressure is not supplied to C3 regulator valve.
 
 
 ### Control
-`ssangyong_actyon_en_cb7f6176` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:972 | doc_type:owners_manual
 - S1 ON, C1 shift valve moved to the left end, C1 clutch not engaged - C2 shift valve open (S2 OFF), C2 clutch engaged by drive oil - S3 and S7 ON, C3 shift valve moved to the left end, C3 clutch engaged
 
 
 ### Connecting Components
-`ssangyong_actyon_en_de06b269` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:973 | doc_type:owners_manual
 ![](images/cef38992aa30c9c015f6ad0a6b06ce1e45e4dc5b0586bc0b06918158744753d0.webp)
 
 ![](images/e90c5ed9a4cd2cf8d91a3f313a3ca98240621c75198207d1f7f70865dd0dac72.webp)
@@ -32862,24 +31037,20 @@ rd Gear (D) (1.48:1)
 
 
 ### 6) Power Flow - 4th Gear (D) & 4th Gear (D) in Limp Home Mode
-`ssangyong_actyon_en_b9e2bcd5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:974 | doc_type:owners_manual
 Power Flow Diagram
 
 ![](images/c68a135c3b1ad9c7b3592969ec01f69a971ce8d959cc5972dc05d2b05c8137ff.webp)
 
 
 ### Functioning elements
-`ssangyong_actyon_en_69e8f03f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:975 | doc_type:owners_manual
 - C2 applied, FSG (Forward Sun Gear) driven - C1 applied, Rear Planet Carrier driven
 
 
 ### Control
-`ssangyong_actyon_en_668da76e` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:976 | doc_type:owners_manual
 - S1 and S2 ON - C1 shift valve open (S1 OFF), C1 clutch engaged by drive oil - C2 shift valve open (S2 OFF), C2 clutch engaged by drive oil - Drive oil (for C1 and C2 engagement) is regulated by VBS S6 and S6
 
 
 ### Connecting Components
-`ssangyong_actyon_en_9f19ab52` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:977 | doc_type:owners_manual
 ![](images/61a24bc691e6ecc3adff208e5d0dce206d9ec7c70671246c93503cf8c81eada0.webp)
 
 ![](images/e6c9d4ff34e773afc4461bb050782c61932b4fb9eb4ead63cec3de44435d2999.webp)
@@ -32888,31 +31059,26 @@ Power Flow Diagram
 
 
 ### 4th gear (D) & 4th gear (D) in Limp home mode (1.16:1)
-`ssangyong_actyon_en_11a1fe59` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:978 | doc_type:owners_manual
 ![](images/5566fb1d40b176ed253d0e7d8f26d7f0a71369c2039de14367928f51dc2e4693.webp)
 
 ![](images/1dda8b641e8ad56159c8c93d92133f1935db28d52a1d5787df9101f163bfe0e7.webp)
 
 
 ### 7) Power Flow - 5th Gear (D)
-`ssangyong_actyon_en_5ae77678` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:979 | doc_type:owners_manual
 Power Flow Diagram
 
 ![](images/3e9b69ed9c8175397294f0fd7a37cd4c619ffbd2900b79b402121559cc62c8b5.webp)
 
 
 ### Functioning elements
-`ssangyong_actyon_en_7250cdd9` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:980 | doc_type:owners_manual
 - C1 applied, Rear Planet Carrier driven - C3 applied, RSG (Rear Sun Gera) driven
 
 
 ### Control
-`ssangyong_actyon_en_39e6d053` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:981 | doc_type:owners_manual
 - S1 OFF, S2 and S3 ON - S2 ON, C2 shift valve moved to the left end, C2 clutch not engaged - C1 shift valve open (S1 OFF), C1 clutch engaged by drive oil - S3 and S7 ON, C3 shift valve moved to the left end, C3 clutch engaged
 
 
 ### Connecting Components
-`ssangyong_actyon_en_d5e7fb29` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:982 | doc_type:owners_manual
 ![](images/791857673d269079354af821e98e8cdcf8c526126ca320de00afa4687af9358a.webp)
 
 ![](images/ed7b17782f9ae172d4d774ddb3c014fc1969d6a031ca8c37cc282d13d07ae6a1.webp)
@@ -32926,24 +31092,20 @@ Power Flow Diagram
 
 
 ### 8) Power flow - 6th gear (D)
-`ssangyong_actyon_en_e7fc3373` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:983 | doc_type:owners_manual
 Power Flow Diagram
 
 ![](images/9b5df33874d85491bf6ba44952885f8f0f5b7ac9ca56a5bcd275f849948c9cf0.webp)
 
 
 ### Functioning elements
-`ssangyong_actyon_en_bd054d63` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:984 | doc_type:owners_manual
 - C1 applied, Rear Planet Carrier driven - B1 applied, RSG (Rear Sun Gera) locked
 
 
 ### Control
-`ssangyong_actyon_en_2862b2ac` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:985 | doc_type:owners_manual
 - S1 OFF, S2 and S4 ON - S3 ON, C2 shift valve moved to the left end, C2 clutch not engaged - C1 shift valve open (S1 OFF), C1 clutch engaged by drive oil - S4 ON, B1 shift valve moved to the left end, B1 Band engaged
 
 
 ### Connecting Components
-`ssangyong_actyon_en_0db498f8` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:986 | doc_type:owners_manual
 ![](images/5f28649458e2c3560c5b87087573c1325462c8e0d94dc37bea90f2e5766fe890.webp)
 
 ![](images/ad87d24e3fa0476c2b380352ca6d70b94fdc81221313f1abcb82182c7ce1b0b6.webp)
@@ -32957,24 +31119,20 @@ Power Flow Diagram
 
 
 ### 9) Power flow - Reverse (R)
-`ssangyong_actyon_en_c37ade8a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:987 | doc_type:owners_manual
 Power Flow Diagram
 
 ![](images/7e09b44d1b9bc7ede7f87d2aa66c4d084b2147b0b2b7dbebd8f70054db572fe3.webp)
 
 
 ### Functioning elements
-`ssangyong_actyon_en_191d6ced` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:988 | doc_type:owners_manual
 - C3 applied, RSG (Rear Sun Gera) locked - B2 applied, Rear Planet Carrier locked
 
 
 ### Control
-`ssangyong_actyon_en_1de9e2b6` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:989 | doc_type:owners_manual
 - S1, S2 and S3 ON -Line pressure applied to B2 Band directly through manual valve - S3 ON, Pressure to C3 increased or regulated - S1 and S2 ON, C1 not engaged in any case
 
 
 ### Connecting Components
-`ssangyong_actyon_en_f43defb2` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:990 | doc_type:owners_manual
 ![](images/f16dbfa140aa4a351a3d2f086d3ffc13655eef5e714ccab973c4bb5380849e04.webp)
 
 ![](images/a7b3c3a3f3008298291aa1c0029e4f5e11d0a04227725c41b7f2d26122f95af2.webp)
@@ -32988,14 +31146,12 @@ Reverse gear (R) (3.09:1)
 
 
 ### 10) Power Flow - Reverse (R) Limp Home Mode
-`ssangyong_actyon_en_c6e06568` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:991 | doc_type:owners_manual
 Power Flow Diagram
 
 ![](images/bfa545bdea1813a2503077755f452f265cb6977ae1d54aea01ad671b2ae97f55.webp)
 
 
 ### Connecting Components
-`ssangyong_actyon_en_cc2c6f2a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:992 | doc_type:owners_manual
 ![](images/343064e3f8e4cb5a64bb0a7c4fdeae665ce88b2644ce9967f98cfb311e903f6a.webp)
 
 ![](images/0097ec57685e9a70ca792014f057b7081e8de9156aadfaced7bac694b56fde61.webp)
@@ -33004,21 +31160,18 @@ Power Flow Diagram
 
 
 ### Reverse (R) Limp Home Mode
-`ssangyong_actyon_en_b951b595` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:993 | doc_type:owners_manual
 ![](images/122cc5b98e3ded83769cd8ea3ce1226df78ca31be220686b98fa80d727c614f9.webp)
 
 ![](images/92de8a65afb154260b263be6c44cd36d0cc40828513ee31999545bb1158310a4.webp)
 
 
 ### 11) Power flow - Park (P)
-`ssangyong_actyon_en_06b8fcd7` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:994 | doc_type:owners_manual
 Power Flow Diagram
 
 ![](images/68be375cdac6b950b199328288073c03f7c01ae04c4941545cf6851965b26fb4.webp)
 
 
 ### Connecting Components
-`ssangyong_actyon_en_5b80a895` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:995 | doc_type:owners_manual
 ![](images/868882203157844159f80c0e4573c99e5c60b1903e637ddc3e2b5ed4400b0259.webp)
 
 ![](images/4afd75ea83ef81bf4a746a626e71ed7c48ac7a47d85762092d103387e6bb2495.webp)
@@ -33033,14 +31186,12 @@ Park
 
 
 ### 12) Neutral (N)
-`ssangyong_actyon_en_c6b90567` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:996 | doc_type:owners_manual
 Power Flow Diagram
 
 ![](images/7685547aa52d2f3b7733dd9d4184a2715e905f40b5f97829e5e04bd0f9b0380b.webp)
 
 
 ### Connecting Components
-`ssangyong_actyon_en_d3b8cc73` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:997 | doc_type:owners_manual
 ![](images/d01961ff8e3f0cba4c4852a0ad4b5e05a9893629468c9f6be7b76007bc0146dd.webp)
 
 ![](images/1b4701534b0b9c7dfad388238d0edc510dd077dd9afa0610f11d871c777288c2.webp)
@@ -33055,38 +31206,31 @@ Neutral
 
 
 ### 1. OVERVIEW AND CHARACTERISTICS OF MANUAL TRANSMISSION
-`ssangyong_actyon_en_ce36e65b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:998 | doc_type:owners_manual
 1) System Components
 
 ![](images/2d1b7e3b2ab02b32cfe750b64ba2be1a311e7b1ec26da7ac50685ad8249110e8.webp)
 
 
 ### (1) Features
-`ssangyong_actyon_en_a378df9c` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:999 | doc_type:owners_manual
 1. All gears use the helical type and high strength materials.
 
 
-### CAUTION
-`ssangyong_actyon_en_36d5cf23` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1000 | doc_type:owners_manual
--The helical type gear prevents the axial gear missing and provides less noise.
-
-2. The semi-remote control type gear shift mechanism is used to prevent incorrect shifting.   
-3. To improve the shifting performance, 3-piece triple cone is used for 1/2 shift.
+> ⚠️ **Внимание:** -The helical type gear prevents the axial gear missing and provides less noise.
+>
+> 2. The semi-remote control type gear shift mechanism is used to prevent incorrect shifting.   
+> 3. To improve the shifting performance, 3-piece triple cone is used for 1/2 shift.
 
 
-### CAUTION
-`ssangyong_actyon_en_4f589f97` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1001 | doc_type:owners_manual
-- TSM54/52 transmission uses the inertia lock type key to make smooth gear engagement and to provide silent gear engagement.
-
-4. The synchronizing devices are installed in 1/2, 3/4, 5/R gears. To prevent the double engagement, the independent interlock devices are installed.
-
-5. The clutch release system is available to use CSC (Concentric Slave Cylinder) or Fork type according to the vehicle model.
-
-![](images/67717a6e6146b766fd7dc9e8bf461cc6569852414edbdab314f254d2f4c9a7fd.webp)
+> ⚠️ **Внимание:** - TSM54/52 transmission uses the inertia lock type key to make smooth gear engagement and to provide silent gear engagement.
+>
+> 4. The synchronizing devices are installed in 1/2, 3/4, 5/R gears. To prevent the double engagement, the independent interlock devices are installed.
+>
+> 5. The clutch release system is available to use CSC (Concentric Slave Cylinder) or Fork type according to the vehicle model.
+>
+> ![](images/67717a6e6146b766fd7dc9e8bf461cc6569852414edbdab314f254d2f4c9a7fd.webp)
 
 
 ### 2. SPECIFICATIONS AND TIGHTENING TORQUE OF MANUAL TRANSMISSION
-`ssangyong_actyon_en_9ce7b157` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1002 | doc_type:owners_manual
 1) Specifications
 
 ![](images/6fec7c7ee5e7eedf7501eb3e810bdf4548d2dfeca7a7029fe7418f90906feb1b.webp)
@@ -33095,7 +31239,6 @@ Neutral
 
 
 ### 2) Tightening Torque
-`ssangyong_actyon_en_0a99a2ed` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1003 | doc_type:owners_manual
 ![](images/7d91fb11a1640522c666ce110d7baa88db9d48df9d3dd5077a547d0e360143cb.webp)
 
 ![](images/381b3160a33a296f13e8539871ea3c4e3d1752977c506587d622eed5e2b9013b.webp)
@@ -33104,7 +31247,6 @@ Neutral
 
 
 ### 1. MANUAL TRANSMISSION SYSTEM
-`ssangyong_actyon_en_038a2a53` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1004 | doc_type:owners_manual
 1) Neutral Switch
 
 ![](images/e8fbcfb4277d7ab0a5039856b6e43d3926be9080a25972c643273d03402921eb.webp)
@@ -33113,7 +31255,6 @@ Neutral
 
 
 ### (1) Aids a smooth start of the vehicle by raising the RPM during the gear shifting when the engine is cold.
-`ssangyong_actyon_en_7e7e1018` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1005 | doc_type:owners_manual
 When the vehicle is trying to start from the stopped state (vehicle speed below 3 km/h), the N switch determines the shifting timing by using the clutch switch and the N switch. It raises the engine RPM (100 \~ 200 rpm). Operation conditions are as follows.
 
 -The vehicle speed is at the stopped state (Vehicle speed below 3km/h detection)   
@@ -33132,12 +31273,10 @@ In case of Actyon, the N switch signal is transmitted to the instrument panel, a
 
 
 ### (2) Detects the position of the shifting lever for the HDC operation among ABS/ESP functions.
-`ssangyong_actyon_en_0a2c89dc` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:1006 | doc_type:owners_manual
 The HDC function operates only if the M/T shift lever is in forward or reverse position. Please refer to the ABS/ESP section for the specific information related to the HDC.
 
 
 ### Variant Coding Related to N Switch
-`ssangyong_actyon_en_13e544e9` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1007 | doc_type:owners_manual
 The N switch transmits information to the ECU through the CAN communication while New Rexton is connected to the ECU through wires. Thus, if you set the variant coding in the engine ECU, you must do it differently, and you must set the variant coding diferently according to the vehicle category and specification as below.
 
 ![](images/a24b967942e534b155e5871706f57308fd988d707ec49055afc5da5f16867656.webp)
@@ -33148,7 +31287,6 @@ The N switch transmits information to the ECU through the CAN communication whil
 
 
 ### 1. SPECIFICATION
-`ssangyong_actyon_en_ee04e439` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1008 | doc_type:owners_manual
 ![](images/5795cb34b764edd294218643d4810348204473f084a674e277d86edb1f1a01a6.webp)
 
 NOTEWhat's the severe conditions?
@@ -33162,7 +31300,6 @@ Driving frequently at high speed over 170 km/hour Driving frequently in area whe
 
 
 ### 2. SPECIAL SERVICE TOOLS
-`ssangyong_actyon_en_db64dd7c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1009 | doc_type:owners_manual
 ![](images/463134d495f4314ac0b47d239f306ca450d288b0e193901ffc6274cf9787dfbc.webp)
 
 ![](images/0c3bdae2e828d270c8e912479ca9f6ac4378fcf757f8c3a9ce8b837d4180a5d7.webp)
@@ -33174,7 +31311,6 @@ Driving frequently at high speed over 170 km/hour Driving frequently in area whe
 
 
 ### 3. TIGHTENING TORQUE
-`ssangyong_actyon_en_d89507da` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1010 | doc_type:owners_manual
 ![](images/a6a8b640a93833d52e8dbce6f32a0f0ef707ca8bd2c5e76b19d9288955d399e7.webp)
 
 ![](images/516bab0ad2e5a8510e7e2bcd93e460646fcb40c2584f15c9bfe580964c316ddf.webp)
@@ -33183,7 +31319,6 @@ Driving frequently at high speed over 170 km/hour Driving frequently in area whe
 
 
 ### 3163161-00 Housing
-`ssangyong_actyon_en_54b4d454` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1011 | doc_type:owners_manual
 ![](images/fc297ea4f4f2cf3c0882a795e53e83efb356f34517af0d0641c89e678af83bb1.webp)
 
 2. Case - Transmission   
@@ -33209,7 +31344,6 @@ Driving frequently at high speed over 170 km/hour Driving frequently in area whe
 
 
 ### 3162-00 Main shaft
-`ssangyong_actyon_en_91054723` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1012 | doc_type:owners_manual
 ![](images/a9d8fe7e3f46c1f56204ee2ad4c434bc97f605bc811b7d0ae5e4eae411a10e90.webp)
 
 ![](images/d88261ea5ae917d426f480e9a4cff704994c681e47ea9a78e50ae1c1ff811a8c.webp)
@@ -33258,7 +31392,6 @@ Driving frequently at high speed over 170 km/hour Driving frequently in area whe
 
 
 ### 33163-00 Counter shaft
-`ssangyong_actyon_en_cc5d92f0` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1013 | doc_type:owners_manual
 ![](images/fbb588d428363079bd43e388e2056229bf52948a2d2b18ef61e1aca09c6370f5.webp)
 
 1. Ring - Snap   
@@ -33285,7 +31418,6 @@ Driving frequently at high speed over 170 km/hour Driving frequently in area whe
 
 
 ### 3164-00 Adapter assembly
-`ssangyong_actyon_en_650f79e0` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1014 | doc_type:owners_manual
 ![](images/a105c942dc2f63505885865e0aa01775051a8d73ce76c922cfaedf4377d9abb9.webp)
 
 1. Plate - Intermediate   
@@ -33301,7 +31433,6 @@ Driving frequently at high speed over 170 km/hour Driving frequently in area whe
 
 
 ### 3165-00 Rail and shift fork
-`ssangyong_actyon_en_8d6716cf` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1015 | doc_type:owners_manual
 ![](images/462330b1fac71a6e0bedda33c233a3595c7c82cef49e9a19f82a5f2da801431f.webp)
 
 1. Shaft assembly - Control   
@@ -33324,7 +31455,6 @@ Driving frequently at high speed over 170 km/hour Driving frequently in area whe
 
 
 ### 3166-00 Extension housing
-`ssangyong_actyon_en_1fb28c2d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1016 | doc_type:owners_manual
 ![](images/d3cae98cfa0a86662d001cca0066db5033dd10bf5cea4b96b4ca882f5f8c0dde.webp)
 
 1. Lever assembly - Semi remote   
@@ -33361,12 +31491,10 @@ Driving frequently at high speed over 170 km/hour Driving frequently in area whe
 
 
 ### 1. OVERVIEW
-`ssangyong_actyon_en_57e22c42` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1017 | doc_type:owners_manual
 ![](images/6c009b971176abf7003f55d293b2732d4c750021abfc37f6933dbb818bbfb900.webp)
 
 
 ### 1) Characteristics of Transmission
-`ssangyong_actyon_en_84a9defa` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1018 | doc_type:owners_manual
 -Forward and Reverse gears are helical gear.   
 -The clutch is operated by concentric slave cylinder (CSC).   
 -To prevent the improper gear shift, semi-remote control system has been introduced.   
@@ -33377,19 +31505,16 @@ Driving frequently at high speed over 170 km/hour Driving frequently in area whe
 
 
 ### 2) Sectional Diagram
-`ssangyong_actyon_en_8b22f86c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1019 | doc_type:owners_manual
 ![](images/cdc0376ec991cfc4699aa9b7cd2cfd572ebbc280d8575d6a9f2d499e8825c146.webp)
 
 
 ### 3) Gear Ratio
-`ssangyong_actyon_en_b1be39f4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1020 | doc_type:owners_manual
 ![](images/a05a1f41f474df2f80047ef9b12ce9a622bec455d3e32ab392fbdc6a9c2bd9c9.webp)
 
 ![](images/5e2b83a4b797b594a1c7fbc503251274ca4c10f5d493666169c9127e3ca43fb7.webp)
 
 
 ### 2. POWER FLOW
-`ssangyong_actyon_en_68dd746a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1021 | doc_type:owners_manual
 ![](images/196295f8ff331df0d9c17a8658739b812e210a38e73d04902e2766e32b0b793b.webp)
 
 ![](images/f8aedeffbe8993861df547a60ab8a1fc975c75d3d6077d61e0f1d5bf36c28286.webp)
@@ -33408,14 +31533,12 @@ Driving frequently at high speed over 170 km/hour Driving frequently in area whe
 
 
 ### 3. SHIFTING MECHANISM
-`ssangyong_actyon_en_8b9075d8` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1022 | doc_type:owners_manual
 ![](images/fedd0d1a076949658ebd9abc4d1d021804613504bc2722020469994c9f2a8f3d.webp)
 
 ![](images/ca735dfed865be29bfa9e420271728eb3065c02af3b13d102abeb60fc9a1ec7b.webp)
 
 
 ### 1. INTRODUCTION
-`ssangyong_actyon_en_abe7369c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1023 | doc_type:owners_manual
 The TGS lever prevents inappropriate or unexpected shifting of gears to increase safety. It also helps the driver safely select a needed gear. The solenoid of the TGS lever has the factory-installed “P” Lock function which allows the driver to shift gears from the i°Pi position only when the brake pedal is depressed.
 
 Because drivers of vehicles without this system can shift gears by only operating the gear selection lever, their safety and convenience are limited. Sometimes, the vehicles' gears can be changed unexpectedly or unintentionally by various factors. Therefore, two tip switches are installed to prevent such changes from happening.
@@ -33426,31 +31549,26 @@ This system is only activated when the TGS lever is engaged in the “M” posit
 
 
 ### 1) Components
-`ssangyong_actyon_en_4d81addb` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1024 | doc_type:owners_manual
 ![](images/4b4ebe8a1d9a5538018a2ce2b2e0e128efd3b178934e416f4d320d54ca10be1c.webp)
 
 ![](images/2e7b08bcc05591ec6a08e45535b000253a8a25f01fbc13fc34113e91131c1933.webp)
 
 
 ### (1) P: Parking
-`ssangyong_actyon_en_03bef6fd` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1025 | doc_type:owners_manual
 The engine can start. The parking pole stops the driving wheels from rolling.
 
 To move the lever from "p" to another position, the brake pedal must be depressed (Parking Lock System).
 
 
 ### (2) R: Reverse
-`ssangyong_actyon_en_89ba3ff3` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1026 | doc_type:owners_manual
 By switching between the Standard and Winter switches, the reverse speed can be changed. The change should be made before shifting the selector lever to the “P”position.
 
 
 ### (3) N: Neutral, Engine Starting or Towing
-`ssangyong_actyon_en_d682b142` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1027 | doc_type:owners_manual
 It is possible to start the engine. This position is also for a brief stop or towing the vehicle. When towing the is vehicle, the towing speed should be 50 km/h or less and the towing distance should not exceed 50 kilometers. It is more recommended to load this vehicle on a flat-bed towing vehicle.
 
 
 ### (4) D: 1\~6 Gears
-`ssangyong_actyon_en_c65fe06a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1028 | doc_type:owners_manual
 This position is for normal driving on paved roads or high speed driving. The gear ratio of the 6th gear is 0.68:1.
 
 ![](images/125a6e07d6030309dcb5182bbc3ae6a5198e76b4aee30b05e36e6d13de106490.webp)
@@ -33461,7 +31579,6 @@ This position is for normal driving on paved roads or high speed driving. The ge
 
 
 ### (5) M: Manual Mode
-`ssangyong_actyon_en_119ffd4f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1029 | doc_type:owners_manual
 This allows the driver to define the highest possible gear by selecting "t" or " on the gear selector when the lever is in the "M" position. When the lever is first moved to the manual "M" position the transmission will select the lowest possible gear.
 
 When maximum engine rpm is reached the transmission will upshift automaticall regardless of the driver selected limit. 4WD models with low range will not automatically   
@@ -33475,35 +31592,29 @@ The 6th gear state will display on the instrument cluster. 6-5, 6-4 automatic ki
 
 
 ### (7) 5: 5 gears (only available in the “M” position)
-`ssangyong_actyon_en_23fdd29b` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1030 | doc_type:owners_manual
 The 5th gear state will display on the instrument cluster. 5-4, 5-3 automatic kick-down shifts are available. 5th gear has engine braking available.
 
 
 ### (8) 4: 4 gears (only available in the “M” position)
-`ssangyong_actyon_en_96a22123` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1031 | doc_type:owners_manual
 The 4th gear state wil display on the instrument cluster. 4-3, 4-2 and 4-1 automatic kick-down shifts are available. 4th gear has engine braking available.
 
 
 ### (9) 3: 3 gears (only available in the “M” position)
-`ssangyong_actyon_en_13538299` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1032 | doc_type:owners_manual
 The 3rd gear state will display on the instrument cluster. 3-2 and 3-1 automatic kick-down shifts are available. 3rd gear has engine braking available.
 
 
 ### (10) 2: 2 gears (only available in the “M” position)
-`ssangyong_actyon_en_0c07ae83` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1033 | doc_type:owners_manual
 The 2nd gear state wil display on the instrument cluster. 2-1 automatic kick-down shifts are available.   
 2nd gear has engine braking available.
 
 
 ### (11) 1: 1 gears (only available in the "M” position)
-`ssangyong_actyon_en_a6bc33c3` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1034 | doc_type:owners_manual
 The 1st gear state willdisplay on the instrument cluster. Unlike the normal 1st gear, engine braking will be available in this manual 1 st state.
 
 ![](images/bb19577379d43dfa4655bf04a7d0a2ae6e35686afe10990600c0e8a90e32b088.webp)
 
 
 ### (1) Activating the Manual Mode (M Mode)
-`ssangyong_actyon_en_bf82d566` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1035 | doc_type:owners_manual
 To prevent any wrong shifting down or up in the “D” position, the manual mode can be activated only in the "M”position.
 
 When both tip switches on the steering wheel and the knob send out shifting up or down signals in the M mode to the controller of the selector lever, the controller only accepts the first signal and ignores the second signal.
@@ -33512,19 +31623,16 @@ When the driver briefly touches or continuously pushes one of the up or down shi
 
 
 ### (2) When switching from D to M
-`ssangyong_actyon_en_a7650a5f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1036 | doc_type:owners_manual
 When the selector lever is pushed from the D position to the M mode, the M mode sensor detects this change and sends a signal to the TCU, and the TUC shifts down one or two gears without any jerking. This means the newly engaged gear in the M mode is the one-level lower gear from the D position. For example, when the selector lever is pushed from the D position to the M mode, the transmission will automatically switch the 3rd gear to the 2nd gear. This basic working algorithm can automatically be adjusted depending on various driving conditions, and the same gear will be used after switching to the M mode. For example, if the vehicle is moving at high speed with the 6th gear in the D position, the same gear will still be used in the M mode to protect the transmission.
 
 
 ### (3) When switching from M to D
-`ssangyong_actyon_en_e084a7df` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1037 | doc_type:owners_manual
 When the selector lever is pushed to the D position from the M mode, the M position sensor detects the change and sends another signal to the TCU. Then, the TCU enables the transmission to choose from all available gears including the highest one (the D position).
 
 ![](images/747f4d0a4a91b0ba4d53058957c17b70059f9df2e2669f4ae12807e761087ae9.webp)
 
 
 ### 1) Function and Usage
-`ssangyong_actyon_en_97bdd018` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1038 | doc_type:owners_manual
 The mode switch is installd next to the Selector Lever as shown in the picture. It has the Standard (S) and Winter (W) modes.
 
 ![](images/d7c4c625cc40c8aff29a99beb389c2c5922a62a1c1296db9fc0ca704375fad7a.webp)
@@ -33541,14 +31649,12 @@ gear
 
 
 ### 2) Electric Circuit
-`ssangyong_actyon_en_3526d881` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1039 | doc_type:owners_manual
 ![](images/3436a4b9c45f4fe0c8d51ff42360b26918d7d6c18ecdc3a79b6b2a3a9645bc8c.webp)
 
 ![](images/69bc44a41e567950a6f13a8064a754c5d37760474e62980ae897067284f48c51.webp)
 
 
 ### 4. PARKING LOCK SYSTEM
-`ssangyong_actyon_en_cbe52c2b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1040 | doc_type:owners_manual
 1) Function Description
 
 ![](images/cbc2a5173268c6be4f83ded1d7b3ec1aa616989abd91679267ce7708292ec546.webp)
@@ -33569,14 +31675,12 @@ pedal is depressed.
 
 
 ### 2) Electric Circuit
-`ssangyong_actyon_en_85cadbf5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1041 | doc_type:owners_manual
 ![](images/4577c9aecf60e8a0d5a04662eaef6e61e05855a73edae8276f1c16cd37309411.webp)
 
 ![](images/6ff5d2ce3f7a2c7f6b6644c503b8bd66c1416c4be5030ec8790454608322215e.webp)
 
 
 ### 3) Shift Lock Solenoid Function
-`ssangyong_actyon_en_7a6b2ac8` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1042 | doc_type:owners_manual
 ![](images/825a0bf839699304eb61b8bfda4af9ee189b38578e0fc84b205af94cc80550b1.webp)
 
 ![](images/39a02eadd820265d31d88ccc4760dfcfda375344ce0c5abcfbcb53ef4873a1ee.webp)
@@ -33585,7 +31689,6 @@ pedal is depressed.
 
 
 ### 4) Shift Lock Solenoid Function
-`ssangyong_actyon_en_7f49336b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1043 | doc_type:owners_manual
 ![](images/4a0f5a962458035620b98c6146fa451581382d6fa89f0a4eb4d269c1566122d0.webp)
 
 Unless the ignition switch is turned to “ON” and the brake pedal is pressed, the Selector Lever Unit does not activate the P Locking solenoid and the Selector Lever (1) stays locked. In this situation, the lock lever (4) is engaged to the P Lock position and the Locking Lever Tap (3) holds the Lock Lever (2). Therefore, the Selector Lever cannot be shifted to other positions.
@@ -33594,7 +31697,6 @@ Unless the ignition switch is turned to “ON” and the brake pedal is pressed,
 
 
 ### 5) Shift Lock Release in P Positions
-`ssangyong_actyon_en_2fcb9565` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1044 | doc_type:owners_manual
 Although the brake pedal is depressed, if you cannot shift out of "P” with the ignition switch in ON, please apply the following instruction:
 
 ![](images/1af081aa847b577ef6cd249098cc03235ef5c2a0d84bbc0f337a5fd75a180b2d.webp)
@@ -33602,27 +31704,22 @@ Although the brake pedal is depressed, if you cannot shift out of "P” with the
 1.Apply the parking brake firmly and turn the ignition off. 2. Depress the brake pedal and push down the shift lock release lever with a stick such as a pen. Then, shift the lever to other positions.
 
 
-### CAUTION
-`ssangyong_actyon_en_c6dd2c19` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1045 | doc_type:owners_manual
-Do not push down the shift lock release lever excessively. The internal parts could be damaged.
-
-![](images/a934882b750d1d6a8382c97fc3200a5c33910a1f43c34808b65cc859f2aa4cbf.webp)
+> ⚠️ **Внимание:** Do not push down the shift lock release lever excessively. The internal parts could be damaged.
+>
+> ![](images/a934882b750d1d6a8382c97fc3200a5c33910a1f43c34808b65cc859f2aa4cbf.webp)
 
 
 ### 1. CLUTCH SPECIFICATIONS
-`ssangyong_actyon_en_5da06eb1` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1046 | doc_type:owners_manual
 ![](images/6b7b6fb360d4b67b46b6846a570096fb175b6ebf950a1e82c3f63a2076ea44cf.webp)
 
 
 ### 2. TIGHTENING TORQUE
-`ssangyong_actyon_en_06f44886` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1047 | doc_type:owners_manual
 ![](images/94b472dc3fd585b10dbc71eeb00e8077b7685712088e7254f4efafcc313f8e98.webp)
 
 ![](images/9e40c945b47982cdd56ad11d013c46e3026fb7af8d1be2a81370a55a9ae3a3b1.webp)
 
 
 ### 1. FUNCTION AND OVERVIEW 1) SAT (Self Adjusting Technology) Clutch System
-`ssangyong_actyon_en_5696b2cc` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1048 | doc_type:owners_manual
 (1) Function
 
 ![](images/a421b99e47b454b4cf9d623f18847400aa90c8da165c326c4340dcffd3a69c84.webp)
@@ -33631,7 +31728,6 @@ SAT is new clutch system which adjusts the clutch freeplay according to the wear
 
 
 ### (2) Operation description
-`ssangyong_actyon_en_1a0377d8` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1049 | doc_type:owners_manual
 ![](images/c0f184c0274c37d10e38cdcab8cf2af824035f9612584aa5bf9fcb1e5742a911.webp)
 
 - Diaphragm spring rotates the adjusting equipment as clutch disc is wearing and so, pressure plate is pushed to clutch disc side at the amount of wear.
@@ -33642,19 +31738,16 @@ SAT is new clutch system which adjusts the clutch freeplay according to the wear
 
 
 ### Driving Elements
-`ssangyong_actyon_en_40d363dd` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1050 | doc_type:owners_manual
 The driving elements consist of two flat surfaces machined to a smooth finish. One of these is the rear face of the engine flywheel and the other is the clutch pressure plate. The clutch pressure plate is fitted into a clutch steel cover, which is bolted to the flywheel.
 
 
 ### Driven Elements
-`ssangyong_actyon_en_59f36150` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1051 | doc_type:owners_manual
 The driven element is the clutch disc with a splined hub which is free to slide lengthwise along the splines of the input shaft.
 
 The driving and driven elements are held in contact by spring pressure. This pressure is exerted by a diaphragm spring in the clutch cover pressure plate assembly.
 
 
 ### Operating Elements
-`ssangyong_actyon_en_d53a795e` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1052 | doc_type:owners_manual
 The clutch "release" system consists of the clutch pedal and clutch release cylinder.
 
 This system directly releases the clutch by using hydraulic pressure while the conventional clutch system releases the clutch by using release lever and release fork. This system provides higher efficiency than conventional clutch system, and its durability is superior.
@@ -33666,7 +31759,6 @@ This system directly releases the clutch by using hydraulic pressure while the c
 
 
 ### 3) Functions
-`ssangyong_actyon_en_07acf9c1` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1053 | doc_type:owners_manual
 ![](images/c870ad27981f368e464ae22ea735ede32d577a444edb7c9abafab9b402c7f272.webp)
 
 ![](images/acb7de43252a3f938077280034248309f73f21de342d729602a634cdf13ad247.webp)
@@ -33677,19 +31769,16 @@ This system directly releases the clutch by using hydraulic pressure while the c
 
 
 ### 1. SPECIFICATION
-`ssangyong_actyon_en_4b95a837` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1054 | doc_type:owners_manual
 ![](images/8e8d66562246e4b53b39fc9efc9bb7a3970533e0bfc096c0d8ef086c18da9cc1.webp)
 
 
 ### 2. TIGHTENING TORQUE
-`ssangyong_actyon_en_64a3dbbe` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1055 | doc_type:owners_manual
 ![](images/6eaffcb144951d7edacac5e5940b4cb482ec8fa9ac4bd30303d0521190e6ce11.webp)
 
 ![](images/10caf8a8640bca73d660350a4160580c22ad69eb73975e4f8e7fea794cba17b6.webp)
 
 
 ### 1. OVERVIEW
-`ssangyong_actyon_en_4399fc21` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1056 | doc_type:owners_manual
 The propeller shaft transfers the power through the transmission and transfer case to the front/rear axle differential carrier (final reduction gear).   
 It is manufactured by a thin rounded steel pipe to have the strong resisting force against the torsion and bending.   
 Both ends of propeller shaft are connected to the spider and the center of propeller shaft is connected to the spline to accommodate the changes of the height and length.   
@@ -33699,7 +31788,6 @@ The rubber bushing that covers the intermediate bearing keeps the balance of rea
 
 
 ### Function of propeller shaft
-`ssangyong_actyon_en_28751649` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1057 | doc_type:owners_manual
 -Transmits driving torque.   
 - Compensates the angle change (universal joint / CV joint).   
 -Compensates the axial length change (splines for the slip joint).
@@ -33708,26 +31796,22 @@ The rubber bushing that covers the intermediate bearing keeps the balance of rea
 
 
 ### 1. SPECIFICATIONS OF AXLE
-`ssangyong_actyon_en_293db5d2` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1058 | doc_type:owners_manual
 1) Front View
 
 ![](images/75e70ac3b17d9e8606c173c760958d4c6507dfb1ef6d939031e56cadd6048c39.webp)
 
 
 ### 2) Rear View
-`ssangyong_actyon_en_0c115dfa` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1059 | doc_type:owners_manual
 ![](images/da6c215d679cdd782c8985af5d93469c4f902554fdb2f9c5d6bd8ce0580e6539.webp)
 
 
 ### 3) Specifications
-`ssangyong_actyon_en_3545037d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1060 | doc_type:owners_manual
 ![](images/0e98f123af11b5d81c3ceb46ab30bc59e87203a6cca45ae07ae7e920913cce0a.webp)
 
 ![](images/3cb5287ea3d87eb82707836016def50199a9ae74b58a5c4ac8a82651be7fc120.webp)
 
 
 ### 4) Specifications of Front and Rear Axle
-`ssangyong_actyon_en_2d5b30f2` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1061 | doc_type:owners_manual
 The specification below is for front and rear axles equipped in Actyon, including gear ratio and specific specifications. For details, refer to each section.
 
 ![](images/9483e80767c1a134fb4b87117c7449b7e02062fb9b0c3f9ce8ba2d12d3d80d82.webp)
@@ -33736,21 +31820,18 @@ The specification below is for front and rear axles equipped in Actyon, includin
 
 
 ### 1. OVERVIEW OF AXLE
-`ssangyong_actyon_en_9e428b81` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1062 | doc_type:owners_manual
 1) Front Axle
 
 ![](images/94cd8e4fa5df953db50db0182d6013c6e3fd94cc1ec90261ca50a0b713a37ee9.webp)
 
 
 ### 2) Rear Axle
-`ssangyong_actyon_en_85e7536f` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1063 | doc_type:owners_manual
 ![](images/a211fc243ecb0dcf56b955d9d71c8037f6160dc279006aed9aa9edc16beea7c4.webp)
 
 ![](images/c8253d1b2afa73a53a7ec622bcd3bb14caa182b9c5f80e41a2b21faa37dbc0aa.webp)
 
 
 ### 1. OVERVIEW
-`ssangyong_actyon_en_bce253b0` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1064 | doc_type:owners_manual
 By using the planetary gear sets, two-gears shift type part time transfer case achieves direct connection when selecting 4WD "HIGH" and 2.48 of reduction gear ratio when selecting 4WD "LOW". The silent chain in transfer case transfers the output power to front wheels.
 
 The simple operation of switches on instrument panel allows to shift between "2H" and "4H" easily while driving (for 4L: stop vehicle first). The warning lamp warns the driver when the system is defective.
@@ -33759,39 +31840,32 @@ The 4WD system integrated in ACTYON does not have big difference in comparison t
 
 
 ### 1. No additional coding is required when replacing TCCU.
-`ssangyong_actyon_en_0954bfdc` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:1065 | doc_type:owners_manual
 2. Delete the devices (tone wheel speed sensor, wiring etc.) related to the speed sensor in the transfer case. This system receives the speed signals from ABS/ESP HECU or instrument panel (for non-ABS vehicle(Note 1)) through the CAN communication.   
 3. The new TCCU is available to install on the vehicle with the conventional DI engine part time TCCU.
 
 
-### NOTE
-`ssangyong_actyon_en_8d987040` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:1066 | doc_type:owners_manual
-In non-ABS vehicle, the vehicle speed sensor is installed on the rear drive axle. The engine ECU sends the speed signal to the instrument panel, and then the instrument panel provides the information to TCCU and other devices.
+> ℹ️ **Примечание:** In non-ABS vehicle, the vehicle speed sensor is installed on the rear drive axle. The engine ECU sends the speed signal to the instrument panel, and then the instrument panel provides the information to TCCU and other devices.
 
 
 ### 2. SPECIFICATIONS
-`ssangyong_actyon_en_afb8920a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1067 | doc_type:owners_manual
 ![](images/06c0d369824b276e1acd00f3980085c0b6ce3c33fa8f240830abbf6d3320a000.webp)
 
 ![](images/5cda53867912a641514c0719f4f9b72c51a559d82be35a91a2ad2ef061fabfed.webp)
 
 
 ### 1. STRUCTURE
-`ssangyong_actyon_en_ea850861` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1068 | doc_type:owners_manual
 ![](images/64194370aa4378636cb7538591ab36ee328b79d0238bc78c97f6e1eee62471d3.webp)
 
 ![](images/3d6a83c177b387e1b861539619da940f010723e32b9d7b4b19f43df3f86f41f6.webp)
 
 
 ### 1) Components Location
-`ssangyong_actyon_en_f0de0e23` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1069 | doc_type:owners_manual
 ![](images/afa37f071f287ba2ae50a46d0021c78435c54e3b881aa654a595ab7b8f26130f.webp)
 
 ![](images/95fa8048a01176e10c9ad6956b51502764a6e8a53b485875fbfe0007a5d6f14a.webp)
 
 
 ### 2. SYSTEM LAYOUT AND OPERATION
-`ssangyong_actyon_en_0c8f1807` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1070 | doc_type:owners_manual
 1) System Layout
 
 ![](images/ddfdb66c2babb8614ab7d60d85925d08703f96fdd76d2898827748fca068795c.webp)
@@ -33800,7 +31874,6 @@ In non-ABS vehicle, the vehicle speed sensor is installed on the rear drive axle
 
 
 ### 3. LOCKING HUB SYSTEM
-`ssangyong_actyon_en_6e18f11f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1071 | doc_type:owners_manual
 The transfer case and the TCCU differ from previous models only in the speed sensor related parts. However, the operaing process of the vacuum locking hub operation system works oppositely from previous models and its components also have changed.   
 The vacuum locking hub that is applied to Kyron uses the IWE (Integrated Wheel End) system, and in this system, the vacuum is generated only within the hub actuator.   
 It is structured to transmit power to the front section after the actuator hub is engaged following the release of vacuum from the drive shaft end gear and the hub end gear.
@@ -33815,28 +31888,24 @@ Vacuum generation process in front hub actuator:
 
 
 ### 1) Vacuum System Related to 4WD
-`ssangyong_actyon_en_adecd959` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1072 | doc_type:owners_manual
 ![](images/cf843d8de71243c0665e1bbba127e2365b622cd6b2d4dec5fc2794e830370b23.webp)
 
 ![](images/aaeb8f7e19a6689c5fd9204c083e3c2bccfbcbbd54e65fd3da7cbde29440a37a.webp)
 
 
 ### 4. POWER FLOW 1) Components of Power Flow
-`ssangyong_actyon_en_4df0fc6a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1073 | doc_type:owners_manual
 ![](images/948c7d5472ffbb6f58e3d73a3db11fc595cafc4a66f00b994cdeff87f9e0baa1.webp)
 
 ![](images/96bda087d3e6ac14d7b44b4a7c0a9ec75c0992f55c4b0aa19f7c5e7794e823ad.webp)
 
 
 ### 2) Flow Layout
-`ssangyong_actyon_en_31b94d6a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1074 | doc_type:owners_manual
 ![](images/394d9fdc6fb6aa45f23ab9a8694d218f2a505b085c7dec05f7bc5d847f880812.webp)
 
 ![](images/3d33f1af8d5e4c3cef1876156c9fff73111c06292a793ddfb1148651ab1cf107.webp)
 
 
 ### 3) 2H Mode (Rear Wheel Drive)
-`ssangyong_actyon_en_957b4da6` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1075 | doc_type:owners_manual
 ![](images/bf0b74b1b7f69ca7b8cdd90f8301c68e610080c58558ef19156f4229cacb4ccd.webp)
 
 (1) Layout
@@ -33847,19 +31916,16 @@ Vacuum generation process in front hub actuator:
 
 
 ### 4) 4H Mode (4 Wheel Drive - High speed)
-`ssangyong_actyon_en_a361cdea` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1076 | doc_type:owners_manual
 ![](images/27f78838f28d4c9c7d69d66ebcc7dee6144729118839f69539a19334b92540b1.webp)
 
 
 ### (1) Layout
-`ssangyong_actyon_en_49ac6b55` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1077 | doc_type:owners_manual
 ![](images/f3d7eebd78e2988d4790e3c4dd460e6a685e6d2ef1f17f73102f32a4953681cd.webp)
 
 ![](images/e27d929dad03b6e8585265f827e62cc63deafd0239470a27579ee261f7a94039.webp)
 
 
 ### 4) 4L Mode (4 Wheel Drive - Low speed)
-`ssangyong_actyon_en_b742f654` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1078 | doc_type:owners_manual
 ![](images/48208c869781b3e8a38a17245095288f6b23821ebbd7274c9621519a742de8d6.webp)
 
 (1) Layout
@@ -33870,36 +31936,29 @@ Vacuum generation process in front hub actuator:
 
 
 ### 1. SPECIFICATIONS OF SUSPENSION
-`ssangyong_actyon_en_6275d377` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1079 | doc_type:owners_manual
 ![](images/2df29954e03730e540653714cbe608ee1ee7c60d96009366e33191d00fa6eeda.webp)
 
 
 ### 2. WHEEL ALIGNMENT
-`ssangyong_actyon_en_cc967563` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1080 | doc_type:owners_manual
 ![](images/4a6b4dfe3310f9dfc0c6f0ffb67c6f5466cb28c1b4ec3b6cd51b559d0a9f16ac.webp)
 
 ![](images/392a0d1e9aa89c7224c15801e3b7bc93ca9417225695e80829a256daa0101b58.webp)
 
 
 ### 1. SPECIFICATION
-`ssangyong_actyon_en_a5e6eb18` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1081 | doc_type:owners_manual
 ![](images/7b1689e1509a9fc39e88b41bec8cc86f9acb0f2d2b583753838a9a456dce89e3.webp)
 
 
-### NOTE
-`ssangyong_actyon_en_9b36e204` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1082 | doc_type:owners_manual
-Service Interval: Change the brake oil at every 2 years
+> ℹ️ **Примечание:** Service Interval: Change the brake oil at every 2 years
 
 
 ### DOT?
-`ssangyong_actyon_en_1dfd60f5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1083 | doc_type:owners_manual
 It is the quality grade of brake fluid established by US Department of Transportation.
 
 ![](images/db7909680056a86e5d933918e7786e2f47ea65f9dc86aad1133a452c2f1319dc.webp)
 
 
 ### 1) Terms and Definition
-`ssangyong_actyon_en_84db66c4` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:1084 | doc_type:owners_manual
 - CBS: Conventional Brake System   
 -  ABS: Anti-Lock Brake System   
 -EBD: Electronic brake-Force Distribution   
@@ -33917,26 +31976,22 @@ It is the quality grade of brake fluid established by US Department of Transport
 
 
 ### 2) Functions
-`ssangyong_actyon_en_6c2f3682` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1085 | doc_type:owners_manual
 ![](images/4391fb7033111564a3c9aeb55f8d4b795a53e93a593ccd227b4502593aab7718.webp)
 
 ![](images/39eca3a211c882fc7027a734ce90d65de6bcffc6ff7f3bfd306f2f8c9548eed7.webp)
 
 
 ### 3) Parts Arrangement
-`ssangyong_actyon_en_aca5f482` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1086 | doc_type:owners_manual
 ![](images/e68edf6d33416a05d65d4ac4ca2d9e899e0394b2b6765ef816c661f1f957b149.webp)
 
 
 ### 4) Components
-`ssangyong_actyon_en_0d90d7da` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1087 | doc_type:owners_manual
 ![](images/9269a27b1ce475f301cffec06cc7c5dffa72557020c6bbdbaa69751787eda680.webp)
 
 ![](images/ae3e4f24271771680fc8bd8eddf64717c34c94917434fd42dd07fd008fc369c7.webp)
 
 
 ### 5) Indicators and Warning Lamps for ABS/ESP
-`ssangyong_actyon_en_78a5654e` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:1088 | doc_type:owners_manual
 ![](images/8bf114f45ac41a7b527da5c2cc0916d7f2499f0b7ff4a40491676c95d65c39c7.webp)
 
 ![](images/a3deb6954761482c242598b38c7e0e3911d5c690af65e6bc4ebd7419be9d5c20.webp)
@@ -33945,7 +32000,6 @@ It is the quality grade of brake fluid established by US Department of Transport
 
 
 ### 3. TROUBLESHOOTING
-`ssangyong_actyon_en_c44b25de` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1089 | doc_type:owners_manual
 ![](images/d0b5c43e5eb1965723bd42bc26499a529da0c5f080572004e1b18ada54cc17e2.webp)
 
 ![](images/78b4ec71b590e609ecb1b760b865ddeb58df0209819487e0a2901cc2b01c040d.webp)
@@ -33960,12 +32014,10 @@ It is the quality grade of brake fluid established by US Department of Transport
 
 
 ### BRAKE OPERATION AND NOISE
-`ssangyong_actyon_en_54492e10` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1090 | doc_type:owners_manual
 This section describes the noise phenomena occurred possibly in the brake system operation. Distinguish between the information given below and the actual problems and then, inspect the vehicle and take appropriate measures.
 
 
 ### - Noise symptoms and Causes
-`ssangyong_actyon_en_06b04cd8` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1091 | doc_type:owners_manual
 Symptom 1. If depressing the brake pedal when the engine is cold, "screeching" sound always occurs and, after driving for a while, the sound disappears..
 
 This usually occurs in the morning. When the temperature goes down, the dew condensation phenomenon sets moisture on the brake disc as the window frost forms. Due to this moisture, the iron within the brake disc and pad oxidizes, forming undetectable micro-rusts on the disc surface. When starting the engine under this condition, noise may sound due to the friction of micro-rusts. When operating the brake several times, the disc temperature goes up and the micro-rusts come off and the noise goes away. Depending on the driving conditions, noise gets louder when slightly depressing the brake pedal and oppositely, noise is smaller when deeply depressing the brake pedal. This is simply a physical phenomenon, called "morning effect" in professional terms, and does not imply any problems with the brake system.
@@ -33983,54 +32035,49 @@ It is also a physical phenomenon and has no relation with the brake performance.
 ![](images/164c516eaf213d73deccd06c699952c2b0143082514430905c523647bf7af8e7.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_338be29e` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1092 | doc_type:owners_manual
--Never reuse the used brake fluid.   
--  Use only specifies brake fluid (DOT 4). Add brake fluid between MAX and MIN lines on the reservoir (0.7 to 0.8 liters).   
--Be careful not to splash the brake fluid on painted area or body.   
--Make sure that any foreign material does not get into brake line.   
-- Always work with another staff.
-
-![](images/b7ee4581ad1f3a210f6c94a2243ed1251bf440180f56b1e3a5d8da11f1e01fd0.webp)
-
-1. Fill up the brake fluid up to "MAX" line on the reservoir.
-
-![](images/ac03a13bfa98f57b7cfe224f4c41afffa9cc98af6bffa2158ce551c5f6e54c5e.webp)
-
-. Fill the reservoir with brake fluid and pump the brake pedal several times. Then keep it depressed.
-
-3. Loosen the bleed screw and collect the bleeding brake fluid from the brake line with the order in the figure.
+> ⚠️ **Внимание:** -Never reuse the used brake fluid.
+> -  Use only specifies brake fluid (DOT 4). Add brake fluid between MAX and MIN lines on the reservoir (0.7 to 0.8 liters).   
+> -Be careful not to splash the brake fluid on painted area or body.   
+> -Make sure that any foreign material does not get into brake line.   
+> - Always work with another staff.
+>
+> ![](images/b7ee4581ad1f3a210f6c94a2243ed1251bf440180f56b1e3a5d8da11f1e01fd0.webp)
+>
+> 1. Fill up the brake fluid up to "MAX" line on the reservoir.
+>
+> ![](images/ac03a13bfa98f57b7cfe224f4c41afffa9cc98af6bffa2158ce551c5f6e54c5e.webp)
+>
+> . Fill the reservoir with brake fluid and pump the brake pedal several times. Then keep it depressed.
+>
+> 3. Loosen the bleed screw and collect the bleeding brake fluid from the brake line with the order in the figure.
 
 
-### CAUTION
-`ssangyong_actyon_en_3a91ee8a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1093 | doc_type:owners_manual
-Fill the reservoir with the brake fluid as much as it bleeded, and continue to bleeding operation.
-
-![](images/03a49d75d3673e84e9db03b874a269822f5d21a12627ad1cb6129736e8fc1cbb.webp)
-
-![](images/59228e5b6d093caf23b8b536d3146bc9533c70e29062a33f0c251d7a01c62c25.webp)
-
-4. Air bleed screw at rear brake
-
-Tightening torque9.8 \~ 11,2Nm
-
-![](images/eb100337f78032aa202c15ad40be3dc5a0698eb1a5028648fe84e193525a9e26.webp)
-
-5. Air bleed screw at front brake
-
-Tightening torque9.8 \~ 11.2Nm
-
-![](images/0fb3d3ebf7c87c2300efc3ee01803951e8c144f3582d49b026e1501a671d75a3.webp)
-
-6. Repeat the air bleeding procedures until clear brake fluid comes out of air bleed screw.
-
-7. Check for oil leaks from the brake lines.
-
-![](images/278f56b8304a814f2c7a6a9c3ed23c1b30c55ea6b3dd1d255c4c45eb37391163.webp)
+> ⚠️ **Внимание:** Fill the reservoir with the brake fluid as much as it bleeded, and continue to bleeding operation.
+>
+> ![](images/03a49d75d3673e84e9db03b874a269822f5d21a12627ad1cb6129736e8fc1cbb.webp)
+>
+> ![](images/59228e5b6d093caf23b8b536d3146bc9533c70e29062a33f0c251d7a01c62c25.webp)
+>
+> 4. Air bleed screw at rear brake
+>
+> Tightening torque9.8 \~ 11,2Nm
+>
+> ![](images/eb100337f78032aa202c15ad40be3dc5a0698eb1a5028648fe84e193525a9e26.webp)
+>
+> 5. Air bleed screw at front brake
+>
+> Tightening torque9.8 \~ 11.2Nm
+>
+> ![](images/0fb3d3ebf7c87c2300efc3ee01803951e8c144f3582d49b026e1501a671d75a3.webp)
+>
+> 6. Repeat the air bleeding procedures until clear brake fluid comes out of air bleed screw.
+>
+> 7. Check for oil leaks from the brake lines.
+>
+> ![](images/278f56b8304a814f2c7a6a9c3ed23c1b30c55ea6b3dd1d255c4c45eb37391163.webp)
 
 
 ### 5. BRAKE SYSTEM CHECK
-`ssangyong_actyon_en_5e3b1866` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1094 | doc_type:owners_manual
 Maximum Stroke of Brake Pedal -Check the brake pedal with below procedures:
 
 ![](images/f4400c5066a86336739ae831d441171ac929ba015cf3518bb5ff347b823b810f.webp)
@@ -34044,19 +32091,16 @@ Maximum Stroke of Brake Pedal -Check the brake pedal with below procedures:
 
 
 ### Over the specified value
-`ssangyong_actyon_en_5c983be8` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1095 | doc_type:owners_manual
 ![](images/8ccb043ddd2aaebc7ddf406b8d25ef6d3389ca3618934343820b70c0c3a86e2b.webp)
 
 
 ### Below the specified value
-`ssangyong_actyon_en_b1ba1782` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1096 | doc_type:owners_manual
 ![](images/9fa5abddc4574f78091bfab020806e351c2f09e9eb8cef59ffcc1eec0d746ffa.webp)
 
 ![](images/4bddbf29b34dba5af1b0dd7106db3256cb3bbd686d89a163058183c65188c948.webp)
 
 
 ### Pedal Height
-`ssangyong_actyon_en_e65166fa` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1097 | doc_type:owners_manual
 ![](images/40bab689b5184f2ff1aff909148db07343f85e993e7664bd6cfd7cc738956a42.webp)
 
 -Check the pedal height with below procedures: 1. Start the engine and measure the length (A) between floor mat and pedal. 2. If the measured value is out of the specified value, adjust the length.
@@ -34080,7 +32124,6 @@ Maximum Stroke of Brake Pedal -Check the brake pedal with below procedures:
 
 
 ### Pedal Free Play
-`ssangyong_actyon_en_af48c746` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1098 | doc_type:owners_manual
 ![](images/dc30cd66eeaea46870b3e434ade9904c4fde5d18c17ff3e41642feed5b532215.webp)
 
 -Check the pedal free play with below procedures:
@@ -34103,7 +32146,6 @@ Stop Lamp Switch
 
 
 ### Brake Booster
-`ssangyong_actyon_en_80920602` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1099 | doc_type:owners_manual
 ![](images/16425b21048ce8885d105b586f3e11feb72092b6b7c900359b7918f568914a8d.webp)
 
 ![](images/42ab1bd0cd262ce3ba06399c37f2b83a98e520b8b1163e088c51cc894d8f736f.webp)
@@ -34118,7 +32160,6 @@ If the above three checks are OK, the system is normal. If any condition is not 
 
 
 ### Brake Fluid
-`ssangyong_actyon_en_d260e3ec` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1100 | doc_type:owners_manual
 1.Color
 
 - Ligh gold (New oil) → Brown → Black
@@ -34129,12 +32170,10 @@ If the above three checks are OK, the system is normal. If any condition is not 
 
 
 ### Brake Fluid Type
-`ssangyong_actyon_en_cd668082` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:1101 | doc_type:owners_manual
 DOT4: Brake fluid for premium vehicle. Lower water absorbing rate AND higher boiling point than DOT3
 
 
 ### Brake Fluid Level Check
-`ssangyong_actyon_en_7d65f05c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1102 | doc_type:owners_manual
 ![](images/c9762e84ea64171df252d9806d2f816545aca20ad65517265b2090f0b409056e.webp)
 
 The brake fluid level should be between "MAX" and "MIN" on the reservoir. If it is below "MIN" mark, check for oil leaks and refill the reservoir with the specified fluid.
@@ -34143,7 +32182,6 @@ The brake fluid level should be between "MAX" and "MIN" on the reservoir. If it 
 
 
 ### Front Brake
-`ssangyong_actyon_en_5e2b15c6` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1103 | doc_type:owners_manual
 ![](images/84580513edf1bc8356dd4f81eb527fd25071d38325731e314cb1be078b80aea5.webp)
 
 1. Pad Thickness
@@ -34184,14 +32222,12 @@ Clean the dissembled components and visually check the followings:
 
 
 ### Rear Brake
-`ssangyong_actyon_en_130a4468` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1104 | doc_type:owners_manual
 ![](images/71574773aa9fdc066ba5558b636497dd66768799f569c5f2fdc358d5986e4d03.webp)
 
 ![](images/8279fa0801ee38c136472e808d0e0b8778134a63498bfa32f70d9d8952d97ef8.webp)
 
 
 ### Pad Thickness
-`ssangyong_actyon_en_674ef6bd` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1105 | doc_type:owners_manual
 1. Remove the front tire.   
 2. 2. Measure the pad thickness and replace it if it is below the wear limit.
 
@@ -34199,14 +32235,12 @@ Clean the dissembled components and visually check the followings:
 
 
 ### Disc thickness
-`ssangyong_actyon_en_c430b45c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1106 | doc_type:owners_manual
 1. Measure the disc thickness at over four points. 2. If any of measured points is below the wear limit, replace the brake disc with new one.
 
 ![](images/61c3945f64a02319eb45888349240181cb3beb4e914e29803d597115120d9555.webp)
 
 
 ### Disc Run-Out
-`ssangyong_actyon_en_22dc75cf` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1107 | doc_type:owners_manual
 1. Install the dial gauge on the side of brake disc and measure the run-out while rotating the brake disc.   
 2. If the measured value exceeds the limit, replace the brake disc with new one. Otherwise, it may cause the pedal vibration and shimmy when braking.
 
@@ -34216,7 +32250,6 @@ Clean the dissembled components and visually check the followings:
 
 
 ### Parking Brake
-`ssangyong_actyon_en_d6bd3857` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1108 | doc_type:owners_manual
 ![](images/1df7f2fe544b2890e65098f8cec94017f94e44e1848614685886b17e999902c6.webp)
 
 Check the brake force with below procedures:
@@ -34232,15 +32265,12 @@ Check the brake force with below procedures:
 4. If the parking brake force is not enough, check the parking brake lever and cable. Replace the components if needed.
 
 
-### CAUTION
-`ssangyong_actyon_en_a5093758` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1109 | doc_type:owners_manual
-Never park the vehicle only with the parking brake on the stiff hill. It may cause roll down of the vehicle due to release of the parking brake. Place the wheel chocks under the wheels.
-
-![](images/ab637a48d4a94bffdc2cc2ab95a6d3985f6869e0b64f23f62292af98749a089d.webp)
+> ⚠️ **Внимание:** Never park the vehicle only with the parking brake on the stiff hill. It may cause roll down of the vehicle due to release of the parking brake. Place the wheel chocks under the wheels.
+>
+> ![](images/ab637a48d4a94bffdc2cc2ab95a6d3985f6869e0b64f23f62292af98749a089d.webp)
 
 
 ### 6. COMPONENTS
-`ssangyong_actyon_en_a9e512bc` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1110 | doc_type:owners_manual
 Brake Pedal, Master Cylinder and Booster
 
 ![](images/5cf8ab3426e20cd972207424ae719f7a6126cb4b3037194221d2504ccf502336.webp)
@@ -34267,7 +32297,6 @@ Brake Pedal, Master Cylinder and Booster
 
 
 ### Brake Pipe
-`ssangyong_actyon_en_5c88ebd6` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1111 | doc_type:owners_manual
 ![](images/7651c0594bf062d3e883cd10b1379de8fc88799a114d76c8082085cbbbb29650.webp)
 
 1. Master cylinder primary tube assembly   
@@ -34294,7 +32323,6 @@ Brake Pedal, Master Cylinder and Booster
 
 
 ### Front/Rear Brake Assembly
-`ssangyong_actyon_en_0c0756c7` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1112 | doc_type:owners_manual
 ![](images/b4b1e3f7b5622933d2c4a42eaa657bc1f616712c4a464c9f465ee58064c36448.webp)
 
 21.Front brake caliper assembly   
@@ -34319,7 +32347,6 @@ Brake Pedal, Master Cylinder and Booster
 
 
 ### Parking Brake
-`ssangyong_actyon_en_283658bd` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1113 | doc_type:owners_manual
 ![](images/52e8f04139d0cc8accffb6289c249115bb292bc0b59c8303fab365da6afd2f9a.webp)
 
 1. Parking brake lever assembly   
@@ -34336,19 +32363,16 @@ Brake Pedal, Master Cylinder and Booster
 
 
 ### 1. OVERVIEW
-`ssangyong_actyon_en_52310c48` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1114 | doc_type:owners_manual
 Even though a driver cuts off the power, while driving, the vehicle continues to move due to the law of inertia. Therefore, a braking device is needed to stop the vehicle. The brake system normally uses the frictional discs that converts the kinetic energy to the thermal energy by frictional operation. The brake system consists of the brake disc (front wheel), brake disc or drum (rear wheel), parking brake (mechanical type), master cylinder, booster, pedal and supply lines (pipes and hoses).
 
 
 ### Hydraulic Brake
-`ssangyong_actyon_en_565ab63b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1115 | doc_type:owners_manual
 ![](images/5685797399dfdd675cd139111c18333d4836cd77ab820780d81dd03d1009a51b.webp)
 
 This system uses the leverage effect and Pascal's principle. When depressing the brake pedal, the pedal pressure is increased by booster and is delivered to master cylinder to generate hydraulic pressure. The hydraulic pressure generated by the master cylinder is delivered to the brake caliper through the brake pipes or hoses. This hydraulic pressure pushes the brake calipers, accordingly the caliper pads are contacted to brake disc to generate the braking force.
 
 
 ### Brake Pedal
-`ssangyong_actyon_en_f00798c8` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1116 | doc_type:owners_manual
 ![](images/e1630b43182ae5f1a00239a23688374bdefdf6a9db527010a4769eaf28472707.webp)
 
 Brake pedal uses the leverage effect to apply bigger force to the brake master cylinder.
@@ -34357,26 +32381,22 @@ Brake pedal uses the leverage effect to apply bigger force to the brake master c
 
 
 ### Braking distance & stopping distance
-`ssangyong_actyon_en_938f6940` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1117 | doc_type:owners_manual
 Stopping distance = free running distance + braking distance
 
 
 ### What is stopping distance?
-`ssangyong_actyon_en_9e9faa6e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1118 | doc_type:owners_manual
 A certain distance (free running distance + braking distance) is needed from the moment an obstacle appears ahead until you bring your vehicle to a complete stop. This is called as stopping distance. What is braking distance?   
 Tire slip occurs until the vehicle stops completely when the the brake is applied.   
 This slip is what we call a braking distance.
 
 
 ### What is free running distance?
-`ssangyong_actyon_en_0984f29f` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1119 | doc_type:owners_manual
 The free running distance is the time from the driver sees the obstacles and begins to prepare for depressing the brake pedal until the moment the brake pedal is depressed.
 
 ![](images/5f348f0e970f8c70dbcbb6d9242e3f2ffb37ec59bcaa5c5cac0cf15d5f2b312e.webp)
 
 
 ### 2. SYSTEM LAYOUT
-`ssangyong_actyon_en_bbae4271` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1120 | doc_type:owners_manual
 ![](images/bbf03ce8e5fb6be0f085f768719942b22e275edb63ee33373dc3525b2890725c.webp)
 
 ![](images/999443ebccb31dff6e8b61a763730af766e9af4c9621be74d36ee76386bb32df.webp)
@@ -34387,7 +32407,6 @@ The free running distance is the time from the driver sees the obstacles and beg
 
 
 ### 3. PARKING BRAKE
-`ssangyong_actyon_en_95366a47` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1121 | doc_type:owners_manual
 Front Disc Brake
 
 ![](images/21f2e8301e6ad794720955a1f203eb8e6c6ff6d5f7efb2ff32715f9c759ababf.webp)
@@ -34396,14 +32415,12 @@ Front Disc Brake
 
 
 ### Rear Disc Brake
-`ssangyong_actyon_en_4084ca77` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1122 | doc_type:owners_manual
 ![](images/bb3413cc73768fd32f9fd7a97b3a1a236e154c3e7749c7501a2beba38e04986a.webp)
 
 ![](images/843fb872af2e87bce39e61e2d425b82c52aef9146876fff090be4808abb85865.webp)
 
 
 ### 4. HYDRAULIC CIRCUIT
-`ssangyong_actyon_en_e31594b2` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1123 | doc_type:owners_manual
 ![](images/68356492dbd969924bfaccc05bd61e63f97ed03470b42015f43088d379f1c3e2.webp)
 
 1. Brake booster 4. Front disc brake and caliper   
@@ -34414,7 +32431,6 @@ Front Disc Brake
 
 
 ### 5. CIRCUIT DIAGRAM OF STOP LAMP
-`ssangyong_actyon_en_5e4b8946` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1124 | doc_type:owners_manual
 ![](images/71955f8b1916c97cce8c31a1554d800a31966865010fb5d689816a82cd409329.webp)
 
 ![](images/9c4a803b3f814f3517e82c2448c2cf17b7dbb2ce735e09702e429f98d4641812.webp)
@@ -34430,7 +32446,6 @@ For the front brake system, the ventilated disc type is applied regardless of th
 
 
 ### Rear Disc Brake
-`ssangyong_actyon_en_4fd58a40` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:1125 | doc_type:owners_manual
 ![](images/bb94a202557baf4347cb7fc900505fbe8dfb424b9fcbd85676678ac2e24c9c40.webp)
 
 For the rear brake system, it differ between   
@@ -34442,7 +32457,6 @@ The drum type brake is installed on non-ABS equipped vehicle while the solid dis
 
 
 ### ) Parking Brake
-`ssangyong_actyon_en_d352b0dd` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1126 | doc_type:owners_manual
 ![](images/a3e4eff6130d9e3bac1e4f4630e84e58bc15b932e056ad5e1a49654339f74ec9.webp)
 
 For the parking brake system, the hand operated type parking brake is installed regardless of the models.
@@ -34451,19 +32465,16 @@ For the parking brake system, the hand operated type parking brake is installed 
 
 
 ### 2. SECTIONAL DRAWING 1) Front Disc Brake
-`ssangyong_actyon_en_87094098` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1127 | doc_type:owners_manual
 ![](images/00567cbfd59d2075e5ddc93059a199d7348ee6b772464bcada69bbd9f0bcf766.webp)
 
 
 ### 2) Rear Disc Brake
-`ssangyong_actyon_en_7c477471` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1128 | doc_type:owners_manual
 ![](images/df101d8fb76bb0be5b9e78aaba2458f1fd0fe9b912556a8d1c294943ae93710f.webp)
 
 ![](images/8288a41ed5667502bb5eb293ffebce07456072a661a7066a88c7c9c48767e73c.webp)
 
 
 ### 3) Non-ABS Equipped Vehicle - With One Wheel Speed Sensor
-`ssangyong_actyon_en_e7eae51b` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:1129 | doc_type:owners_manual
 The wheel speed sensor is installed on the rear right wheel regardless of the ABS/ESP installation. This sensor is to signal the vehicle speed to the engine ECU, TCCU, transmission and instrument panel. There is no separate unit to process the wheel speed sensor signal. The wheel speed sensor is connected to the engine ECU (terminal 36), where its signal is processed, and is connected to other related systems through CAN communication.
 
 ![](images/0de821f4b00d62a6aceb0ae8ee5b05c721322fba9c90e3cc8a37fd945e78d0b4.webp)
@@ -34480,19 +32491,16 @@ The wheel speed sensor is installed on the rear right wheel regardless of the AB
 
 
 ### 3. SPECIFICATIONS
-`ssangyong_actyon_en_89759e36` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1130 | doc_type:owners_manual
 ![](images/23278ca38bdfe529f06e85621b1591446e354ed29013382b3247c75dbea5e882.webp)
 
 ![](images/a6dc49c3f79081f3f926595b6758291ee9cad7aa178ca173fbab19560dc253a5.webp)
 
 
 ### 4. BRAKE OPERATION AND NOISE
-`ssangyong_actyon_en_76203605` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1131 | doc_type:owners_manual
 This section describes the noise phenomena occured possibly in the brake system operation. Distinguish between the information given below and the actual problems and then, inspect the vehicle and take appropriate measures.
 
 
 ### 1) Noise Phenomena and Causes
-`ssangyong_actyon_en_4514db5e` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1132 | doc_type:owners_manual
 Phenomenon 1. If depressing the brake pedal when the engine is cold, "screeching"' sound always occurs and, after driving for a while, the sound disappears.
 
 This usualy occurs in the morning. When the temperature goes down, the dew condensation phenomenon sets moisture on the brake disc as the window frost forms.   
@@ -34504,7 +32512,6 @@ This is simply a physical phenomenon, called "morning effect" in professional te
 
 
 ### Phenomenon 2. Slip or screech after the brake pad replacement.
-`ssangyong_actyon_en_995b2cc0` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1133 | doc_type:owners_manual
 This usually occurs when the bed-in is not made between the disc and the pad's friction material. The bed-in is a state that the brake system normall works and gives no noise out, when, after about 300 km city driving, the contact area of the pad friction material is enlarged and the disk is in complete contact with the pad's friction material.   
 Therefore, for some time after the brake disk/pad replacement, the brake system poorly operates or noise (abnormal sound) occurs due to the partial contact.
 
@@ -34519,7 +32526,6 @@ It is also a physical phenomenon and has no relation with the brake performance.
 
 
 ### 5. ESP SYSTEM RELATED PRECAUTIONS
-`ssangyong_actyon_en_5301d400` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1134 | doc_type:owners_manual
 1. The HDC system is intended for use only on of-roads with a slope level exceeding 10%. Thus, do not use it on public road.   
 2. Too frequent use of HDC system may weaken the durability of the ESP HECU and related systems. Driver must turn the HDC switch to OFF position when driving on public and level roads.   
 3. As mentioned previously, when a driver make sharp turns or drive on rough roads, the HDC may suddenly operate for these sudden shocks influencing the G sensor values. When such occurs, the driver may panic because the vehicle speed drops sharply and the driver will experience difficulty in controlling the vehicle. During the HDC operation, a loud noise and the vehicle vibration may occur from the HECU and the   
@@ -34535,7 +32541,6 @@ must take caution for the vehicle may drift away from the lane.
 
 
 ### 1. OVERVIEW OF ESP(ELECTRONIC STABILITY PROGRAM) SYSTEM
-`ssangyong_actyon_en_b6ca16e0` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:1135 | doc_type:owners_manual
 The ESP system consists of basic ABS functions, the vehicle position control depending on the driving conditions and the road conditions, the HBA (Hydraulic Brake Assist System) that improves the braking power in an emergency, and the ARP (Active Rollover Protection) that obstructs the physical tendency to rollover during sharp turns and prevents the vehicle rollover by quickly and firmly controling the engine output and the brake.
 
 The HDC (Hill Descent Control) is newly introduced function that helps drivers maintain their speed automatically by switch operation when driving slowly on steep hills (over 10°).
@@ -34544,7 +32549,6 @@ The HDC (Hill Descent Control) is newly introduced function that helps drivers m
 
 
 ### Functions applied on ESP system are as follows.
-`ssangyong_actyon_en_1958c9a9` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:1136 | doc_type:owners_manual
 1. ABS (Anti-Lock Brake System)   
 2. EBD (Electronic Brake-Force Distribution)   
 3. ABD (Automatic Braking Differential)   
@@ -34558,7 +32562,6 @@ The HDC (Hill Descent Control) is newly introduced function that helps drivers m
 
 
 ### 2. COMPONENTS OF ESP
-`ssangyong_actyon_en_0136530d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1137 | doc_type:owners_manual
 ![](images/7d4781657a40c8c7d232dd2eb2ee930361e0223976d04129ae1364a1266a4228.webp)
 
 ![](images/bf9c66346cf7a267360c6c7311ddad98e112950c3cb278b2dab7b5defe2c1304.webp)
@@ -34571,7 +32574,6 @@ The HDC (Hill Descent Control) is newly introduced function that helps drivers m
 
 
 ### 3. PRINCIPLE OF ESP 1) Understeer & Oversteer Control
-`ssangyong_actyon_en_e5635eb4` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1138 | doc_type:owners_manual
 situations, and stabilizes the vehicle by wheel-individual braking and engine control intervention with no need for actuating the brake.
 
 This system is developed to help the driver avoid the danger of losing the control of the vehicle stability due to under-steering or over-steering during cornering.   
@@ -34583,7 +32585,6 @@ The system also controls during cornering by detecting the moment right before t
 
 
 ### (1) Under steering
-`ssangyong_actyon_en_2886ffd9` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1139 | doc_type:owners_manual
 Understeering is when the steering wheel is steered to a certain angle during driving and the front tires slip toward the reverse direction of the desired direction.   
 Generall, vehicles are designed to have under steering.   
 The vehicle can return back to inside of cornering line when the steering wheel is steered toward the inside even when the vehicle front is slipped outward.   
@@ -34595,7 +32596,6 @@ As the centrifugal force increases, the tires can easily lose the traction and t
 
 
 ### (2) Over steering
-`ssangyong_actyon_en_04eafa60` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1140 | doc_type:owners_manual
 Oversteering is when the steering wheel is steered to a certain angle during driving and the rear tres slip outward losing traction.
 
 When compared with under steering vehicles, the controlling of the vehicle is dificult during cornering and the vehicle can spin due to rear wheel moment when the rear tires lose traction and the vehicle speed increases.
@@ -34604,19 +32604,16 @@ When compared with under steering vehicles, the controlling of the vehicle is di
 
 
 ### (3) ESP Controls During Under Steering
-`ssangyong_actyon_en_981db1c8` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1141 | doc_type:owners_manual
 The ESP system recognizes the directional angle with the steering wheel angle sensor and senses the slipping route that occurs reversely against the vehicle cornering direction during understeering with the yaw rate sensor and the lateral sensor.
 
 Then the ESP system applies the brake at the rear inner wheel to compensate the yaw moment value. In this way, the vehicle does not lose its driving direction and the driver can steer the vehicle as driver intends.
 
 
 ### (4) ESP Controls During Oversteering
-`ssangyong_actyon_en_9772ba09` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1142 | doc_type:owners_manual
 The ESP system recognizes the directional angle with the steering wheel angle sensor and senses the slipping route that occurs towards the vehicle cornering direction during oversteering with the yaw rate sensor and the lateral sensor. Then the ESP system applies the brake at the front outer wheel to compensate the yaw moment value. In this way, the vehicle does not lose its driving direction and the driver can steer the vehicle as he or she intends.
 
 
 ### 2) ESP Control
-`ssangyong_actyon_en_d2233b12` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:1143 | doc_type:owners_manual
 As the single-track vehicle model used for the calculations is only valid for a vehicle moving forward, ESP intervention never takes place during backup.
 
 The ESP system includes the ABS/EBD and ASR systems allowing the system to be able to operate depending to the vehicle driving conditions.
@@ -34639,7 +32636,6 @@ The following figure shows the operating range according to driving conditions.
 
 
 ### 3) Vehicle Control During Cornering
-`ssangyong_actyon_en_ab69ab0c` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:1144 | doc_type:owners_manual
 The figure below shows the vehicle controls by ESP system under various situations such as when the brake pedal is pressed (or not pressed) during cornering and when the ABS is operating or when just the conventional brake is operating during braking. It also includes the vehicle conditions when the TCS that is included in the ESP system is operating.
 
 ![](images/1d9ef58b11c3f0f5f83294efeda22c0cdac046c2600f70b86c1ad5fab03e7c1c.webp)
@@ -34648,7 +32644,6 @@ The figure below shows the vehicle controls by ESP system under various situatio
 
 
 ### 4. PRINCIPLE OF BAS(BRAKE ASSIST SYSTEM)
-`ssangyong_actyon_en_da3aa545` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1145 | doc_type:owners_manual
 BAS (Brake Assist System) system helps in an emergency braking situation when the driver applies the brake fast, but not with sufficient pressure, which leads to dangerously long braking distance. ECU recognizes the attempt at full braking and transmits the signal calling for full brake pressure from the hydraulic booster.
 
 ![](images/e2d285337b83537e2a31b042d06813c26380f15cda6c5ac0654bd411504c3fb2.webp)
@@ -34681,7 +32676,6 @@ Operating conditions:
 
 
 ### 5. PRINCIPLE ARP(ACTIVE ROLL-OVER PROTECTION)
-`ssangyong_actyon_en_93d46eda` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1146 | doc_type:owners_manual
 The ARP (Active Rollover Protection) system is a safety asstant device that minimizes, by controlling brakes and the engine, the physical tendency of the vehicle rollover during sharp lane changes or Uturns.
 
 For the system, software is added to the existing ESP system and no additional device or switch is needed.
@@ -34699,16 +32693,13 @@ The vehicle driving condition is controlled by the internally programmed logic a
 ![](images/2883e423553bef27d123143aaa6afb0e7ff8d07b1bf812e0c2ee7f2074a7c1c9.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_c1a463e6` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1147 | doc_type:owners_manual
-- During the ARP operation, vehicle safety (rollover prevention) takes the first priority and thus, stronger engine control is in effect. Consequently, the vehicle speed decreases rapidly, so the driver must take caution for the vehicle may drift away from the lane.   
-- The ARP function is activated when the vehicle is subject to turning over due to sharp cornering even when the ESP function is turned off (however, the ARP function is also deactivated when the ESP function is not operatable due to system malfunction).
-
-![](images/a481b554e063aa7b1e61fdb660ec71ec6c71eff5e788b202e61b4683da0ecd33.webp)
+> ⚠️ **Внимание:** - During the ARP operation, vehicle safety (rollover prevention) takes the first priority and thus, stronger engine control is in effect. Consequently, the vehicle speed decreases rapidly, so the driver must take caution for the vehicle may drift away from the lane.
+> - The ARP function is activated when the vehicle is subject to turning over due to sharp cornering even when the ESP function is turned off (however, the ARP function is also deactivated when the ESP function is not operatable due to system malfunction).
+>
+> ![](images/a481b554e063aa7b1e61fdb660ec71ec6c71eff5e788b202e61b4683da0ecd33.webp)
 
 
 ### 1) System Overview
-`ssangyong_actyon_en_df931f0d` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1148 | doc_type:owners_manual
 The HDC system is an automatic descent control device that allows the vehicle to automatically decelerate to about 7 km/h by 0.1G, on steep roads (slope level exceeding 10%) through a separately installed switch operation.
 
 When the vehicle speed reaches below 7 km/h (refer to the information below), the HDC automatically terminates the operation.
@@ -34725,7 +32716,6 @@ recognize a sharp turn or rough road as a downhill road with a slope level excee
 
 
 ### 2) HDC (Hill Descent Control) System Operating Conditions
-`ssangyong_actyon_en_e645e907` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1149 | doc_type:owners_manual
 1. When HDC switch is turned ON   
 2. Gearshift lever position (Forward/Reverse) and
 
@@ -34734,73 +32724,65 @@ Manual transmission: operates in the 1st gear or reverse gear position (does not
 Automatic transmission: operates in any position except for P (parking) or N (neutral) positions.
 
 
-### CAUTION
-`ssangyong_actyon_en_61ffb01a` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1150 | doc_type:owners_manual
--The vehicles with manual transmission do not have a separate device or switch that detects the 1st gear. It only detects the forward/reverse driving direction of the vehicle through backup lamp switch and neutral switch, and cannot solely detect the 1st gear position. The reason why, though the HDC also operates in 2nd gear position, that is because the engine may turn off during the HDC operation process. You may face a very dangerous situation if the engine turns off at a steep hill.   
--The HDC is the device to improve the engine brake effect during downhill driving on a steep hill. For manual transmission equipped vehicle, HDC system should operated only in 1st gear.
-
-3. When not depressing the accelerator pedal or brake pedal.
-
-4. The vehicle speed is above 7 km/h (in Automatic transmission/4H mode).
-
-and and
+> ⚠️ **Внимание:** -The vehicles with manual transmission do not have a separate device or switch that detects the 1st gear. It only detects the forward/reverse driving direction of the vehicle through backup lamp switch and neutral switch, and cannot solely detect the 1st gear position. The reason why, though the HDC also operates in 2nd gear position, that is because the engine may turn off during the HDC operation process. You may face a very dangerous situation if the engine turns off at a steep hill.
+> -The HDC is the device to improve the engine brake effect during downhill driving on a steep hill. For manual transmission equipped vehicle, HDC system should operated only in 1st gear.
+>
+> 3. When not depressing the accelerator pedal or brake pedal.
+>
+> 4. The vehicle speed is above 7 km/h (in Automatic transmission/4H mode).
+>
+> and and
 
 
-### CAUTION
-`ssangyong_actyon_en_702f3a0b` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1151 | doc_type:owners_manual
-The vehicle speed given in step (4) varies according to the vehicle driving mode, and the speed ranges by the vehicle driving mode and condition are as follows.
-
-1) Speed available in HDC mode (slope)
-
-Forward 2H/4H mode: vehicle speed below 50 km/h (operation slope level: 10%, termination slope driving level: when it reaches 8%)
-
-Reverse 2H/4H mode: vehicle speed below 50 km/h (operation slope level: 8%, termination slope driving level: when it reaches 5%)
-
-2) HDC target speed in 2H/4H mode
-
-(The HDC target speed is the speed that the HDC is not terminated even after the vehicle speed reaches 7 km/ h, but is converted to the stand-by mode.
-
-When the vehicle speed increases again as a result of the increase of the road steepness, etc., the HDC goes into operation.)
-
-Forward driving: 7 km/h Reverse driving: 7 km/h (automatic transmission), 8.5 km/h (manual transmission)
-
-![](images/9f479904d087aaecd6937fb1d4367649fb3a432a2179a74706b0342ce9c632ab.webp)
-
-5. Vehicle position control function in ESP and HBA function are not in operation:
-
-The HDC is the device to improve the engine brake effect during downhil driving on a steep hil. f the ESP function is in operation, HDC operation is overidden.
-
-6. Slope level exceeds 10%.   
-When the slope level exceeds 10%, the HDC operates until the vehicle reaches the speed value given in step (4).
-
-When the slope level is between 10% and 20% during the HDC operation
-
-When depressing the accelerator pedal or brake pedal, HDC system is changed to stand-by mode. When releasing the pedal, HDC starts its operation again.   
-Therefore, drivers can control the vehicle speed to a desired level by depressing and releasing the pedal.
+> ⚠️ **Внимание:** The vehicle speed given in step (4) varies according to the vehicle driving mode, and the speed ranges by the vehicle driving mode and condition are as follows.
+>
+> 1) Speed available in HDC mode (slope)
+>
+> Forward 2H/4H mode: vehicle speed below 50 km/h (operation slope level: 10%, termination slope driving level: when it reaches 8%)
+>
+> Reverse 2H/4H mode: vehicle speed below 50 km/h (operation slope level: 8%, termination slope driving level: when it reaches 5%)
+>
+> 2) HDC target speed in 2H/4H mode
+>
+> (The HDC target speed is the speed that the HDC is not terminated even after the vehicle speed reaches 7 km/ h, but is converted to the stand-by mode.
+>
+> When the vehicle speed increases again as a result of the increase of the road steepness, etc., the HDC goes into operation.)
+>
+> Forward driving: 7 km/h Reverse driving: 7 km/h (automatic transmission), 8.5 km/h (manual transmission)
+>
+> ![](images/9f479904d087aaecd6937fb1d4367649fb3a432a2179a74706b0342ce9c632ab.webp)
+>
+> 5. Vehicle position control function in ESP and HBA function are not in operation:
+>
+> The HDC is the device to improve the engine brake effect during downhil driving on a steep hil. f the ESP function is in operation, HDC operation is overidden.
+>
+> 6. Slope level exceeds 10%.   
+> When the slope level exceeds 10%, the HDC operates until the vehicle reaches the speed value given in step (4).
+>
+> When the slope level is between 10% and 20% during the HDC operation
+>
+> When depressing the accelerator pedal or brake pedal, HDC system is changed to stand-by mode. When releasing the pedal, HDC starts its operation again.   
+> Therefore, drivers can control the vehicle speed to a desired level by depressing and releasing the pedal.
 
 
 ### When the slope level exceeds 20% during the HDC operation
-`ssangyong_actyon_en_816d79d7` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1152 | doc_type:owners_manual
 When depressing the accelerator pedal, HDC system is changed to stand-by mode. When depressing the brake pedal, HDC continues its operation and the braking power is increased. In this case, HECU sounds an abnormal noise and brake pedal may be very rigid, but this is a normal condition due to HDC operation.
 
 
-### CAUTION
-`ssangyong_actyon_en_0fc10c10` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1153 | doc_type:owners_manual
-•The percentage of the slope level: tan θ X 100 = slope level (%)
-
-![](images/7e7109909699a1f99682310413732b468808bcd52a61c470771f2b228fa666bf.webp)
-
-1 tanθ X 100 = X 100 = 10 (%) 100
-
-For example, 10% of slope level indicates that the heigh is 1 m when the transverse length is 10 m.
-
-I 1G = 9.8 m/s2: Acceleration
-
-![](images/aeee33295d3def516ef269393bca1cf3710b19fa7d8b5c6db8e41b76285fe279.webp)
+> ⚠️ **Внимание:** •The percentage of the slope level: tan θ X 100 = slope level (%)
+>
+> ![](images/7e7109909699a1f99682310413732b468808bcd52a61c470771f2b228fa666bf.webp)
+>
+> 1 tanθ X 100 = X 100 = 10 (%) 100
+>
+> For example, 10% of slope level indicates that the heigh is 1 m when the transverse length is 10 m.
+>
+> I 1G = 9.8 m/s2: Acceleration
+>
+> ![](images/aeee33295d3def516ef269393bca1cf3710b19fa7d8b5c6db8e41b76285fe279.webp)
 
 
 ### 3) HDC (Hill Descent Control) System Non-Operation Conditions
-`ssangyong_actyon_en_e2712438` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1154 | doc_type:owners_manual
 1. When HDC switch is turned OFF
 
 . Gearshift lever has passed neutral (N) position.
@@ -34808,32 +32790,27 @@ I 1G = 9.8 m/s2: Acceleration
 or or
 
 
-### CAUTION
-`ssangyong_actyon_en_c2ba5944` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1155 | doc_type:owners_manual
--Vehicle with manual transmission: Sensing at the neutral switch -Vehicle with automatic transmission: Sensing at the selector lever unit
-
-When the vehicle speed is out of the specified values (under 7 km/h).
-
-4. When the ESP related functions, e.g. vehicle position control, BAS, ARP is activated during HDC operation.
-
-The HDC is the device to improve the engine brake effect during downhill driving on a steep hil If the ESP function is in operation, HDC operation is overidden
-
-5. When the internal temperature of HDC system goes over 450°C due to long downhill driving on a steep hill with HDC operated.
-
-There is no specific temperature sensor in the system, but a programmed logic inside the HECU predicts the temperature based on the operating times and conditions of HDC.
+> ⚠️ **Внимание:** -Vehicle with manual transmission: Sensing at the neutral switch -Vehicle with automatic transmission: Sensing at the selector lever unit
+>
+> When the vehicle speed is out of the specified values (under 7 km/h).
+>
+> 4. When the ESP related functions, e.g. vehicle position control, BAS, ARP is activated during HDC operation.
+>
+> The HDC is the device to improve the engine brake effect during downhill driving on a steep hil If the ESP function is in operation, HDC operation is overidden
+>
+> 5. When the internal temperature of HDC system goes over 450°C due to long downhill driving on a steep hill with HDC operated.
+>
+> There is no specific temperature sensor in the system, but a programmed logic inside the HECU predicts the temperature based on the operating times and conditions of HDC.
 
 
-### CAUTION
-`ssangyong_actyon_en_fdf24983` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1156 | doc_type:owners_manual
-The red HDC warning lamp blinks when the internal temperature goes over 350C. When it reaches 450C, the HDC warning lamp stays on. The HDC can be operated in this range even where the HDC warning lamp blinks.
-
-6. When the slope level is below 10%
-
-![](images/07f77d55c1f6213cbe3c2014007627b7114f7c4615fc9c92555afff09a5ae7ed.webp)
+> ⚠️ **Внимание:** The red HDC warning lamp blinks when the internal temperature goes over 350C. When it reaches 450C, the HDC warning lamp stays on. The HDC can be operated in this range even where the HDC warning lamp blinks.
+>
+> 6. When the slope level is below 10%
+>
+> ![](images/07f77d55c1f6213cbe3c2014007627b7114f7c4615fc9c92555afff09a5ae7ed.webp)
 
 
 ### 4) Input/Output Signals for HDC Operation
-`ssangyong_actyon_en_cc6238c8` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1157 | doc_type:owners_manual
 The HDC controller operates its function in the HECU inside the ESP unit and receives the following signals to perform the hill descent control function.
 
 HDC switch Modulator pump Gear position sensing Manual transmission: E Neutral position → Neutral switch (N) Reverse position → Backup lamp switch s HECU (Valve Automatic transmission:  Selector lever modulator) P LDF Valve and MCI valve Engine condition monitoring   
@@ -34844,7 +32821,6 @@ HDC switch Modulator pump Gear position sensing Manual transmission: E Neutral p
 
 
 ### 5) Operation of HDC Indicator Controller
-`ssangyong_actyon_en_6ae769ee` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1158 | doc_type:owners_manual
 This table describes the coming-on and blinking mode of HDC indicator according to the HDC switch operation (ON/OFF) and operation conditions.   
 The HDC indicator on the instrument panel has two modes; green (function lamp) and red (warning lamp).   
 The HDC switch is a push & self return type switch - when you press it once, it starts to operate and when you pressit again, it stops the operation.
@@ -34852,19 +32828,16 @@ The HDC switch is a push & self return type switch - when you press it once, it 
 ![](images/49c17c467d46cf09599aa2f008b8f1d4a0a8d895e7ba14479dd311f1a02a0faf.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_0c76195e` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1159 | doc_type:owners_manual
-Basicaly, the brake system&apos;s basic functions can work even when there are problems with the HDC system.
-
-As given in the table above, the HDC warning lamp comes on when:
-
-- Initial ignition ON - HDC system error occurs -Brake system overheat
-
-![](images/02fa67c2d73649213816ee934f479942fc00c6b1e2bbf22da3961fd156494463.webp)
+> ⚠️ **Внимание:** Basicaly, the brake system&apos;s basic functions can work even when there are problems with the HDC system.
+>
+> As given in the table above, the HDC warning lamp comes on when:
+>
+> - Initial ignition ON - HDC system error occurs -Brake system overheat
+>
+> ![](images/02fa67c2d73649213816ee934f479942fc00c6b1e2bbf22da3961fd156494463.webp)
 
 
 ### 6) Cautions When Using HDC System
-`ssangyong_actyon_en_c64177e7` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1160 | doc_type:owners_manual
 Customers must first acquaint themselves with the HDC operation related information, e.g. operation conditions and non-operation conditions, because they may feel unfamiliar with its function and operation process.
 
 The noise during the HDC operation is very different from that during the ABS/ESP operation. This noise may be iritating and accompany some vibration, because, on steep hill, it attempts to control the physical properties of the vehicle weight with the braking power.
@@ -34872,18 +32845,15 @@ The noise during the HDC operation is very different from that during the ABS/ES
 Below is the summary of precautions to remember in HDC operation.
 
 
-### CAUTION
-`ssangyong_actyon_en_87d3c543` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1161 | doc_type:owners_manual
-- The HDC system is intended for use only on off-roads with a slope level exceeding 10%. Thus, do not use it on public road.   
-- Too frequent use of HDC system may weaken the durability of the ESP HECU and related systems.   
--Driver must turn the HDC switch to OFF position when driving on public and level roads. As mentioned previously, when a driver make sharp turns or drive on rough roads, the HDC may suddenly operate for these sudden shocks influencing the G sensor values. When such occurs, the driver may panic because the vehicle speed drops sharply and the driver will experience difficulty in controlling the vehicle.   
--During the HDC operation, a loud noise and the vehicle vibration may occur from the HECU and the brake system, but this is a normal condition during the HDC operation.
-
-![](images/fe0f30b865decd29c3a73879a8c87edcf3332cd625eafa15cee298994f5125f1.webp)
+> ⚠️ **Внимание:** - The HDC system is intended for use only on off-roads with a slope level exceeding 10%. Thus, do not use it on public road.
+> - Too frequent use of HDC system may weaken the durability of the ESP HECU and related systems.   
+> -Driver must turn the HDC switch to OFF position when driving on public and level roads. As mentioned previously, when a driver make sharp turns or drive on rough roads, the HDC may suddenly operate for these sudden shocks influencing the G sensor values. When such occurs, the driver may panic because the vehicle speed drops sharply and the driver will experience difficulty in controlling the vehicle.   
+> -During the HDC operation, a loud noise and the vehicle vibration may occur from the HECU and the brake system, but this is a normal condition during the HDC operation.
+>
+> ![](images/fe0f30b865decd29c3a73879a8c87edcf3332cd625eafa15cee298994f5125f1.webp)
 
 
 ### 7) Components and Locations
-`ssangyong_actyon_en_cdb61a61` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1162 | doc_type:owners_manual
 There are no major changes in the ESP system of ACTYON comparing to the conventional ESP system.   
 However, the HDC switch and the HDC indicator has been added to the system as the HDC system has been applied.
 
@@ -34895,7 +32865,6 @@ However, the HDC switch and the HDC indicator has been added to the system as th
 
 
 ### (1) Comparison with ABS System
-`ssangyong_actyon_en_5920a48f` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:1163 | doc_type:owners_manual
 ![](images/f6344486192ab1f0fbd276c18b7f32c270d0a27bff1aaad0ca09a095793757f1.webp)
 
 ![](images/20096926afa2a6d21931629e815f2ff4a839f900beb5d60d84b63119739e5bcd.webp)
@@ -34906,14 +32875,12 @@ However, the HDC switch and the HDC indicator has been added to the system as th
 
 
 ### 7. INPUT AND OUTPUT DIAGRAM OF ESP SYSTEM Input/Output of ESP System
-`ssangyong_actyon_en_e25364fc` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1164 | doc_type:owners_manual
 ![](images/1e55bf180f37df3f7406861844ab3458eb0169121fee0e2a141c5df72adbb443.webp)
 
 ![](images/9c16a44fb28d594e40c316ec2fe04f0c8c0f5b60b37f235ea72d7d85f50f59ce.webp)
 
 
 ### 8. HYDRAULIC CIRCUIT DIAGRAM OF ESP SYSTEM
-`ssangyong_actyon_en_82c74cf4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1165 | doc_type:owners_manual
 ![](images/c50666c1c5fc742821b207241d1cba486825539543799def807360003d604cb5.webp)
 
 ![](images/0e42babe093d1284fcac0c9199822d11ec76590f2507c29cb713b88de662b822.webp)
@@ -34932,7 +32899,6 @@ For details, refer to "Hydraulic Pressure fr each ESP Operating Range".
 
 
 ### 9. HYDRAULIC PRESSURE FOR EACH ESP OPERATINGRANGE
-`ssangyong_actyon_en_05d6bfdf` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1166 | doc_type:owners_manual
 ![](images/d67fa8b0eaf1500a4532744de7d655945ef952f02a8cc5b1f4cfa9985c33c8a6.webp)
 
 In this position, the separation valve and the inlet valve are open (normal open), the electrically operated shuttle valve and the outlet valve are closed.   
@@ -34960,7 +32926,6 @@ When ESP operates while the ABS is operating, the pressure will be increased con
 
 
 ### 10. HYDRAULIC CIRCUIT OF BAS (BRAKE ASSIST SYSTEM)
-`ssangyong_actyon_en_2ec8e0b6` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1167 | doc_type:owners_manual
 ![](images/68a9df8b31d1a83be5c4e5c422db125d3e242bf8c443fb503a80319e560cc25e.webp)
 
 The above figure shows one front and one rear wheel and the same hydraulic circuit forms as in the ESP operation.
@@ -34971,7 +32936,6 @@ When HECU recognizes that it is an emergency and it is required for hard braking
 
 
 ### 11. COMPONENTS OF ABS SYSTEM
-`ssangyong_actyon_en_8ac63e57` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:1168 | doc_type:owners_manual
 The following figure shows the basic system components of the ABS. This system consists of HECU (valve body and ECU integrated type), front wheel speed sensor and rear wheel speed sensor.
 
 ![](images/fdc1d7fbe75b98c1d2c2493cecf84925e59f41540ae0188c93413db07a02782d.webp)
@@ -34980,14 +32944,12 @@ The following figure shows the basic system components of the ABS. This system c
 
 
 ### 1) Input and Output Diagram Of ABS System
-`ssangyong_actyon_en_b924c6fe` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:1169 | doc_type:owners_manual
 ![](images/d1a04bdb5d2bc5718dfa18764d08b0e3cb1c642f481c12c1f15cd6e1bb96713b.webp)
 
 ![](images/d54a10bd41badc45622a83cfdbf5404fdfc02732f95d485f1e3bfadde0c9b472.webp)
 
 
 ### 2) Hydraulic Circuit Of ABS
-`ssangyong_actyon_en_da7a03c2` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:1170 | doc_type:owners_manual
 ![](images/14bece2db968eebe68125a891f8409c95c2b675a4396f974f89e5ed5497d241f.webp)
 
 The vehicle equipped only with the ABS controls the wheel's braking force using 3-channel 4-sensor method.
@@ -35000,7 +32962,6 @@ This system is similar to the one from the previous model.
 
 
 ### 3) ABS Circuit in Each Operation Range
-`ssangyong_actyon_en_541075aa` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:1171 | doc_type:owners_manual
 ![](images/01a73c3e3ab4f719198b247c811197e90d2eef4fda88f9d3d5ca7a162857ed5f.webp)
 
 Hydraulic Pressure Circuit when ABS is Not Operating The hydraulic pressure in the master cylinder increases through the vacuum booster and it is delivered to the wheel via the normal open inlet valve. At this moment, the normallyclosed outlet valve is closed.   
@@ -35039,7 +33000,6 @@ When the ABS hydraulic pressure control takes place, there may be some vibration
 
 
 ### 1. OVERVIEW
-`ssangyong_actyon_en_4e7b17c7` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1172 | doc_type:owners_manual
 When a driver turns the steering wheel, the front wheels are steered and the vehicle moves to the desired direction. However, there is a certain limitation to increase the steering efficiency only with the mechanical methods. A steering system using hydraulic pressure has been introduced to decrease the driver's steering effort while using the normal gear ratio.
 
 The power steering system consists of pump, oil reservoir, rack and gear box.   
@@ -35049,14 +33009,12 @@ In this case, the operating force of the steering wheel is conveyed to the pinio
 
 
 ### 2. SPECIFICATIONS
-`ssangyong_actyon_en_d1cba8ce` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1173 | doc_type:owners_manual
 ![](images/1e378bfd86afd222c4d743b394e577210643b76439afa303e2cf182d8771dc93.webp)
 
 ![](images/baa472b4ce8169d4a09ca77feb80fb0cc64294b441b1f400c1368fb67facc4f9.webp)
 
 
 ### 1. SYSTEM LAYOUT
-`ssangyong_actyon_en_4ce160be` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1174 | doc_type:owners_manual
 ![](images/d034caef04098808c36a6f88e2cc7ec47f1f222ba14346b640fb1e7b76a5dc6b.webp)
 
 ![](images/c6b15ffa47cbff6ba73f6e56f0819fb6b37b63f43e258364fe42b77988aaddaa.webp)
@@ -35067,7 +33025,6 @@ In this case, the operating force of the steering wheel is conveyed to the pinio
 
 
 ### 2. COMPONENTS
-`ssangyong_actyon_en_b5f9f7b5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1175 | doc_type:owners_manual
 ![](images/0d199414e2e5e03db398b36c5ede096f17052532a7d4d57576a0ca259a5a6ff7.webp)
 
 ![](images/df749e1c3d314d6a66033c24bab5f2aea6ba4a0472a06fb4534e794926a2cb7a.webp)
@@ -35078,21 +33035,18 @@ In this case, the operating force of the steering wheel is conveyed to the pinio
 
 
 ### 1. SPECIFICATIONS
-`ssangyong_actyon_en_187d8a3b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1176 | doc_type:owners_manual
 ![](images/42222a6f690953094818d4fa371aa86ee6d2eb169d37ab41e012cba6adbd113c.webp)
 
 ![](images/6f307d2759288578d38b1ce6f7a52b209b976c45c09f0e29203b67d84ffd8eef.webp)
 
 
 ### 2. TROUBLE DIAGNOSIS
-`ssangyong_actyon_en_37634a23` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1177 | doc_type:owners_manual
 ![](images/55e3a8d27c371fb3f6807e8ee7ecfb4d019520d69954c3ce3c883126a16f0012.webp)
 
 ![](images/a7e26df8bed6997b66007b7c09eb8314aa363c4fadfcf3b073dd5a933d2cc1ad.webp)
 
 
 ### 1) Appearance Check
-`ssangyong_actyon_en_e92df145` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1178 | doc_type:owners_manual
 ![](images/97c7861d5acae434fbf38c2ecee41fef2f5159e153e81fed499d3793e3946e05.webp)
 
 ![](images/32e414cbae78682e85f2e4a1d676d089bbe174fa9201d088d700afdf505d6a6d.webp)
@@ -35103,19 +33057,16 @@ In this case, the operating force of the steering wheel is conveyed to the pinio
 
 
 ### 2) Typical Inspection
-`ssangyong_actyon_en_782b6a16` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1179 | doc_type:owners_manual
 ![](images/f3f057ac3b4b10d3cbdb12dba22bca5b7582e32579766f6b584762864e09a4d5.webp)
 
 ![](images/a3f8b60f5b1362b85d4660104e9a8c8009f28231f067cee58485958ca132d956.webp)
 
 
 ### 1. Tread
-`ssangyong_actyon_en_61f63016` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1180 | doc_type:owners_manual
 Inspect the tread condition on the tire surface and various damages resulting from the foreign materials, crack, stone or nail etc. If there is any damage in the tire, repair or replace it.
 
 
 ### 2. Wear limit
-`ssangyong_actyon_en_4bd3887b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1181 | doc_type:owners_manual
 -Measure the depth of the tire tread. If the depth of the tread is below the specified value, replace the tire
 
 ![](images/6f7049c28b2d8cf95c04574cb45788c0ea7f0378ce09f22058f314d4c004ddcb.webp)
@@ -35123,31 +33074,26 @@ Inspect the tread condition on the tire surface and various damages resulting fr
 - You can see the protruded part in the groove at the point with mark "", which is the indicator of the tread wear limit. -The limit of the tread wear for all season tires are 1.6 mm, which is the same as the general tires, but the wear limit mark is indicated as '↓'.
 
 
-### CAUTION
-`ssangyong_actyon_en_08cc1fcd` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1182 | doc_type:owners_manual
--Higher than recommended pressure can cause hard ride, tire bruising or damage and rapid tread wear at the center of the tire.   
--Excessive tire wear over the limit of the tread wear (1.6 mm) can cause lower sliding friction due to longer braking distance, easy tire burst by foreign materials, tire hydroplaning, and tough brake and steering wheel handling.   
-Proper Proper Over   
-inflation inflation inflation   
-O   
-Tread width Tread width Tread width
-
-![](images/679f0283dd861ba9a7c2a098864c789ae3e3398b4f7b954159994ea9c140119f.webp)
-
-![](images/eed080bc2d81e33d28ea935faebce0d83bba0e78e13dcb6340036cff49dd1dd4.webp)
-
-3. Tire inflation pressure -Tire inflation pressure -Check the tire inflation pressure by inspecting the tread width.
-
-![](images/c0a889aceab22d1075dcd761fbae3a43cfffc6f4334ad337b11dc3c44cc1a1ee.webp)
+> ⚠️ **Внимание:** -Higher than recommended pressure can cause hard ride, tire bruising or damage and rapid tread wear at the center of the tire.
+> -Excessive tire wear over the limit of the tread wear (1.6 mm) can cause lower sliding friction due to longer braking distance, easy tire burst by foreign materials, tire hydroplaning, and tough brake and steering wheel handling.   
+> Proper Proper Over   
+> inflation inflation inflation   
+> O   
+> Tread width Tread width Tread width
+>
+> ![](images/679f0283dd861ba9a7c2a098864c789ae3e3398b4f7b954159994ea9c140119f.webp)
+>
+> ![](images/eed080bc2d81e33d28ea935faebce0d83bba0e78e13dcb6340036cff49dd1dd4.webp)
+>
+> 3. Tire inflation pressure -Tire inflation pressure -Check the tire inflation pressure by inspecting the tread width.
+>
+> ![](images/c0a889aceab22d1075dcd761fbae3a43cfffc6f4334ad337b11dc3c44cc1a1ee.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_3d3c4da5` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1183 | doc_type:owners_manual
-Maintaining the specified tire ressure is essential for comfortable riding, driving safety, and long tire life. Incorrect inflation pressures will increase tire wear and will impair safety, vehicle handling, comfortable driving and fuel economy. Always make sure that the tire inflation pressure is correct.
+> ⚠️ **Внимание:** Maintaining the specified tire ressure is essential for comfortable riding, driving safety, and long tire life. Incorrect inflation pressures will increase tire wear and will impair safety, vehicle handling, comfortable driving and fuel economy. Always make sure that the tire inflation pressure is correct.
 
 
 ### 4. Wheel runout
-`ssangyong_actyon_en_183a05b4` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1184 | doc_type:owners_manual
 If wheel runout or tire runout is excessive, it could result in abnormal wear of the tire. Measure the runout with a dial gauge.
 
 -Measure the dial runout and lateral runout on both the inboard and outboard rim flanges.
@@ -35159,17 +33105,14 @@ If wheel runout or tire runout is excessive, it could result in abnormal wear of
 ![](images/2f58b6152f9cad7c54e6b1ddb6350988defcfad6940966b7b9b82aee8f2e74b8.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_d9cc6018` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1185 | doc_type:owners_manual
-- If any measurement exceeds the above specifications, replace the applicable tires or wheels
-
-![](images/7109f1dfee02c83f9a61ca7ea97626c68d487d508e95f734fd87d0b1f12080ba.webp)
-
-![](images/7e099a5f1124ecc51f011935aea69025ae5ad7bdef476762c072036655817cf4.webp)
+> ⚠️ **Внимание:** - If any measurement exceeds the above specifications, replace the applicable tires or wheels
+>
+> ![](images/7109f1dfee02c83f9a61ca7ea97626c68d487d508e95f734fd87d0b1f12080ba.webp)
+>
+> ![](images/7e099a5f1124ecc51f011935aea69025ae5ad7bdef476762c072036655817cf4.webp)
 
 
 ### 5. Wheel balance
-`ssangyong_actyon_en_8920c598` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1186 | doc_type:owners_manual
 - Check the wheel balance when the wheel is unbalanced or the tire is repaired. The total weight of the wheel weight   
 -should not exceed 150 g. Ensure that the balance weight installed is   
 -not projected over 3mm from the wheel surface. Use the specified aluminum wheel balance weights for aluminum wheels. Weight balance can be added by 5 g.   
@@ -35177,27 +33120,21 @@ If wheel runout or tire runout is excessive, it could result in abnormal wear of
 -tape type and adhesion type.
 
 
-### NOTE
-`ssangyong_actyon_en_0811f13d` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1187 | doc_type:owners_manual
-Make sure to read the manual of the manufacturer thoroughly before using wheel balance tester.
-
-![](images/1562bd8d241b36f5418aa809957c42bd3ea915984d90bdea4c8a95fd6c0c63b4.webp)
+> ℹ️ **Примечание:** Make sure to read the manual of the manufacturer thoroughly before using wheel balance tester.
+>
+> ![](images/1562bd8d241b36f5418aa809957c42bd3ea915984d90bdea4c8a95fd6c0c63b4.webp)
 
 
 ### 6.Change tire location
-`ssangyong_actyon_en_6f5b2947` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1188 | doc_type:owners_manual
 To avoid uneven wear of tres and to prolong tire life, inspect and rotate your tires every 5,000 km.
 
 
-### CAUTION
-`ssangyong_actyon_en_4ba3dcb1` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1189 | doc_type:owners_manual
--Mixing tires could cause to lose control while driving. Be sure to use the same size and type tires of the same manufacturer on all wheels.
-
-![](images/ec408b417b26245394026c869adefbd29570b6b3f7746ae878357f400a3ba059.webp)
+> ⚠️ **Внимание:** -Mixing tires could cause to lose control while driving. Be sure to use the same size and type tires of the same manufacturer on all wheels.
+>
+> ![](images/ec408b417b26245394026c869adefbd29570b6b3f7746ae878357f400a3ba059.webp)
 
 
 ### 4. COMPONENTS
-`ssangyong_actyon_en_29003a41` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1190 | doc_type:owners_manual
 ![](images/182f82eeaedf525791c1e17c2f0e10faaa67405bf6169effc5e95c3a4df9ffb0.webp)
 
 1. Alloy wheel   
@@ -35212,7 +33149,6 @@ To avoid uneven wear of tres and to prolong tire life, inspect and rotate your t
 
 
 ### 1. OVERVIEW
-`ssangyong_actyon_en_403e6245` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1191 | doc_type:owners_manual
 A radial tire uses a cord angle of 90 degrees. That is, the cord material runs in a radial or direct line from one bead to the other across the tread. In addition, a radial tire has a belt overwrap under the tread surface to provide greater structural stability. The belt overwrap of a radial tire distortion while the radial structure enables high speed driving.
 
 Tire supports the weight of the vehicle, reduces the impact from the road and at the same time, transmits the power to propel, brake and steer on the road. It also functions to maintain a vehicle's movement. In order to complete such tasks, a tire must be structured to be a resilient vessel of air.
@@ -35225,58 +33161,48 @@ The tire is worn unevenly according to the driver's driving habit, improper serv
 
 
 ### Location
-`ssangyong_actyon_en_bfc3ee8c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1192 | doc_type:owners_manual
 ![](images/65c11bee0f01a42520894928a32148398f831e15d31ecc2ea358070f5b521c6d.webp)
 
 ![](images/492bc989c029ba0d4639c5bbe9a0abc63d55131f8d676fac450c0c9c451fe3b1.webp)
 
 
 ### Structure of Tire
-`ssangyong_actyon_en_621b882f` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1193 | doc_type:owners_manual
 ![](images/a6c6cc8530f304cf0e07127908007b85ec1697516631054c296911c6c54d977e.webp)
 
 
 ### Tread
-`ssangyong_actyon_en_236c30f4` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1194 | doc_type:owners_manual
 This thick layer of rubber provides the interface between the tire and the road. Wear-resistant rubber is used to protect the carcass and belt against fractures and impacts and to deliver a long driving life.
 
 
 ### Shoulder
-`ssangyong_actyon_en_7d9dc114` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1195 | doc_type:owners_manual
 Located between the tread and sidewal, the shoulder rubber is the thickest so that the design must allow for the easy diffusion of heat generated within the tire while driving.
 
 
 ### Sidewall
-`ssangyong_actyon_en_179560fe` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1196 | doc_type:owners_manual
 The part between the shoulder and bead, the flexible sidewall protects the carcass and enhances the ride. A tire's type, size, structure, pattern, manufacturing company, product name and various characters are indicated here.
 
 
 ### Bead
-`ssangyong_actyon_en_ae2ca5f0` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1197 | doc_type:owners_manual
 The bead attaches the tire to the rim and wraps the end of the cord fabric. Comprised of the bead wire, core, flipper and other parts, the bead is generally designed to be slightly tight around the rim so that in the case of a sudden drop in inflation pressure, the tire will not fall off the rim.
 
 
 ### Carcass
-`ssangyong_actyon_en_01da861f` | actyon | pdf_manual | tier:2 | lang:en | layer:brakes | p:1198 | doc_type:owners_manual
 As the most important framework of a tre, the entire inner layer of cord fabric is called the carcass. The carcass acts to support air pressure, vertical load and absorb shocks.
 
 ![](images/65e87331f45ddb7767552116cd97910b0cdfb10e51946798ebf091b522344016.webp)
 
 
 ### Tire Unit Indication
-`ssangyong_actyon_en_40fd3a48` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1199 | doc_type:owners_manual
 ![](images/8ed172426b29342f589494de2d6de829c17bccd7f32e316172bea458c4fd7fe4.webp)
 
 
 ### Tire Inflation Pressure (32 psi, 2.21 bar)
-`ssangyong_actyon_en_73e5b79a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1200 | doc_type:owners_manual
 ![](images/767f3b34615e683f57c8bbcc82f24d2799272c988c79bb7394fc1fe4c287fde1.webp)
 
 ![](images/9dca7324b481ee0358e5b5a555422001ce9aa578ad4decad37257ec3703f616c.webp)
 
 
 ### 2. ABNORMAL TIRE SYMPTOM
-`ssangyong_actyon_en_15d8849b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1201 | doc_type:owners_manual
 Standing Wave
 
 ![](images/8669eea8fa083566a993714119879bfdc75c9ea3397d298d96eff699fd5e2695.webp)
@@ -35293,7 +33219,6 @@ To prevent this symptom, it is recommended to increase the tire pressure 10 \~ 3
 
 
 ### Hydro Planing
-`ssangyong_actyon_en_5bc40578` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1202 | doc_type:owners_manual
 ![](images/90bce43b52cf55633aacf0f59eed97976368ccde3a95ba4aba300feddea5a6b5.webp)
 
 When the vehicle is driven on a road surface covered with water at high speed, tires do not contact with the road surface but rotate floating on a thin film of water.   
@@ -35305,7 +33230,6 @@ However, it is a best measure to drive slowly.
 
 
 ### 3. WHEEL BALANCE
-`ssangyong_actyon_en_f4e4eaad` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1203 | doc_type:owners_manual
 If weight is not equall distributed around the wheel, unbalance centrifugal force by the wheel rotation produces vibration. As the centrifugal force is produced proportional to the square of the rotating speed, the wheel weight should be balanced even at high speed. There are two types of the tire and wheel balancing: static and dynamic. Abnormal vibration may also occur due to unbalanced rigidity or size of tires.
 
 ![](images/05fb0a842af502b979d64b10550d6019038df0d01e563be4c9175c974146f047.webp)  
@@ -35315,7 +33239,6 @@ When the free rotation of the wheel is allowed, the heavier part is stopped on t
 
 
 ### Dynamic Balance
-`ssangyong_actyon_en_d24951a4` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1204 | doc_type:owners_manual
 ![](images/272c2faeb15c87062d29b9c092d6ce342c664620712570c8560b8a2ce886e198.webp)  
 [Figure 2]
 
@@ -35325,7 +33248,6 @@ The static unbalance of the wheel creates the vibration in the vertical directio
 
 
 ### 1. SYSTEM LAYOUT AND COMPONENTS
-`ssangyong_actyon_en_79c84c30` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1205 | doc_type:owners_manual
 ![](images/aef185c63344095c8789cf89907460d9196042820950fbd92297bc0d651d0e23.webp)
 
 front windshield into current to input to FATC controller.
@@ -35361,40 +33283,34 @@ AIR CONDITIONER ACTYON 2012.12
 
 
 ### 2. VENTILATION SYSTEM 1) Locations of Vents
-`ssangyong_actyon_en_091ffbb8` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1206 | doc_type:owners_manual
 ![](images/374d28723a7563acc14fd82188a930a2ff82e86d948ae86c4f78baed3741a2f9.webp)
 
 
 ### 2) Air Duct
-`ssangyong_actyon_en_44f9e1ad` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1207 | doc_type:owners_manual
 ![](images/696dc82502235d857b645264193f13375fb081d936c17f310ec1f89fdfb668f2.webp)
 
 ![](images/6cb2090afb12d1e4c3b731c4e407e71f3ef39c0a951267eb776272726c12eb91.webp)
 
 
 ### 3) Air Duct Layout
-`ssangyong_actyon_en_c409595a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1208 | doc_type:owners_manual
 ![](images/9c7de4625f51c5a9c8257a068a0c66f09ed1ff4532aad5d366ba2d628a936d88.webp)
 
 ![](images/e18062f17ea087771289dada02c9e780415e4326378d6a8ab4be4eaf4006c537.webp)
 
 
 ### 3. AIR CONDITIONER MODULE AND SENSORS 1) Locations
-`ssangyong_actyon_en_611a43b0` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1209 | doc_type:owners_manual
 ![](images/1ed86a65a6006b8da5534c271fd822bbabaf8960a5309a0ffd1197a72b5f39dd.webp)
 
 ![](images/c4cef09bd76d294a26518c80961a7940a105c8d9380f178b9c39760290911444.webp)
 
 
 ### 2) Components
-`ssangyong_actyon_en_5e47c543` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1210 | doc_type:owners_manual
 ![](images/85e888601694d44c63a2671d49327f6084521b52f14b1d2e2e6f05e073f5c41f.webp)
 
 ![](images/fe2927bfaf8e206767fd027a2329a3cd256a7b0679892d0c3a3133cf35d80f91.webp)
 
 
 ### 3) PTC Heater Layout
-`ssangyong_actyon_en_4b110496` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1211 | doc_type:owners_manual
 (1) PTC Heater Assembly Layout
 
 ![](images/8c67c06f993b7cd2bc4c8f61c222dc5a0a76844d1d3fda1a25084a30811d808d.webp)
@@ -35403,14 +33319,12 @@ AIR CONDITIONER ACTYON 2012.12
 
 
 ### 4. SYSTEM DIAGRAM
-`ssangyong_actyon_en_43fe8abb` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1212 | doc_type:owners_manual
 This figure shows the input and output system between FACT A/C components and A/C controller.
 
 ![](images/8863aee0185d4984b99b8013f445d9b36e5a4c182734075f2b482751a1079276.webp)
 
 
 ### 1) Air Conditioner Compressor Control by Engine ECU
-`ssangyong_actyon_en_e66c4d57` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1213 | doc_type:owners_manual
 In case of conventional vehicle models, the system turns ON/OFF the compressor switch according to refrigerant pressure, ambient temperature and condenser temperature to protect air conditioner circuits. However, for the vehicle equipped with DI engine, the engine ECU turns off air conditioner compressor as below in addition to above conditions.
 
 1. Coolant temperature: below –20°C   
@@ -35426,7 +33340,6 @@ When engine speed is below 650 rpm
 
 
 ### 1. OVERVIEW (INCLUDING CURTAIN AIR BAGS)
-`ssangyong_actyon_en_84b33bcc` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1214 | doc_type:owners_manual
 ![](images/fa8a7d5d4f6be974738c8905659c24a82ec6dd6f1d8cc1783cce34ec47c266bb.webp)
 
 The air bag systems for this vehicle are not much different from the previous air bag system installed in other vehicles. The curtain air bags are installed at the bottom of the roof trim instead of the side air bag and they enhance the passenger's safety. The driver's and passenger's curtain air bags individually deploy.
@@ -35435,12 +33348,10 @@ When the front air bags deploy, the seat belt pretensioners retract the seat bel
 
 
 ### Front G sensors (inside the air bag unit)
-`ssangyong_actyon_en_a687d8a7` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1215 | doc_type:owners_manual
 1. Send signals to the front air bags and the driver's and front passenger's seat belt pretensioners. By the signal from this sensor, front air bags (driver's and passenger's air bags) deploy and the seat 2. belt pretensioners of the driver's and passenger's seat belts retract seat belts.
 
 
 ### Curtain air bag G sensors
-`ssangyong_actyon_en_91a78c9c` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1216 | doc_type:owners_manual
 1. These are located inside the left and right B-pillar panel botoms. When a colision occurs, the air bag at the side of collsion deploys accordingly. Please pay attention to that, in the case of the curtain air bag, only the air bag at the side of collision deploys, not both.
 
 Once an air bag deploys, its repair parts vary according to the deployment situation and damage to the vehicle from colision. Needed repairs also slightly vary between the front air bags and the curtain air bags. The following are the differences:
@@ -35453,7 +33364,6 @@ Replacement parts when a curtain air bag deploys: the new curtain air bag for th
 
 
 ### OVERVIEW AND OPERATION PROCESS1. LOCATIONS AND RELATED COMPONENTS1) LH
-`ssangyong_actyon_en_d83f063e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1217 | doc_type:owners_manual
 ![](images/fa5d8d0416422768140eecbdeea10f37d31a9651b98a724dffbb048abee75d83.webp)
 
 40 ms after receiving the air bag deployment signal at the vehicle speed 3 km/h or higher, it sends out the door UNLOCK signal for 5 seconds.
@@ -35462,7 +33372,6 @@ Replacement parts when a curtain air bag deploys: the new curtain air bag for th
 
 
 ### 2) RH
-`ssangyong_actyon_en_e34be1f7` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1218 | doc_type:owners_manual
 ![](images/40f0a966687964e5cb1377d6b34a1f01ef6efd67e04de7293d3b9bc4b1b81f76.webp)
 
 The collision G sensor is installed inside this. And it sends out signals to deploy the front air bags (driver's and passenger's air bags) and (or) the driver's and passenger's seat belt retensioners. When the front collsion G sensor sends out only the air bag deployment signal, the signal deploys the two front air bags and ctivates their seat belt pretensioners.
@@ -35471,12 +33380,10 @@ The collision G sensor is installed inside this. And it sends out signals to dep
 
 
 ### 2. AIR BAG SYSTEM OPERATION PROCESS
-`ssangyong_actyon_en_557dc82c` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1219 | doc_type:owners_manual
 The overall air bag operation process and its functions and roles are broadly explained in this block diagram. This diagram summarizes and highlights the functions adopted by Ssangyoung Motors.
 
 
 ### 1) Air Bag System Block Diagram (Functions and Roles Included)
-`ssangyong_actyon_en_03729af0` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1220 | doc_type:owners_manual
 ![](images/ea611173ace18ee0208f66bee2ba1b728028b7381c72146ba42a50cc69cfea64.webp)
 
 ![](images/4da7f1aa343e2ca559957bc9814363195323e6fed6d579ebc3adf1d92e8fbe57.webp)
@@ -35507,12 +33414,10 @@ Each curtain air bag independently operates. Depending upon the severity of impa
 
 
 ### 3. AIR BAG MODULE AND RELATED COMPONENTS
-`ssangyong_actyon_en_f8fb3cb1` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1221 | doc_type:owners_manual
 This section describes the air bag module installed in ACTYON. The module consists of the inflator, the cushion, and the mounting cover.
 
 
 ### 1) DAB (Driver Air Bag)
-`ssangyong_actyon_en_2c7b0c8a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1222 | doc_type:owners_manual
 The driver's air bag is installed inside the steering wheel. f the acceleration sensor (inside the air bag unit) is activated by the deceleration from vehicle collsion, the detonation is fired by the electrical signal of the air bag unit.
 
 Then, the detonation sets off explosives and nitrogen gas is generated.
@@ -35523,7 +33428,6 @@ At this point, the air bag very quickly deploys and the gas is emitted from the 
 
 
 ### (1) Components
-`ssangyong_actyon_en_c0ee7f04` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1223 | doc_type:owners_manual
 ![](images/371caa42ad6f8aa31dd32d9511e677bad7dd2923025e77ce4eafbd8bc2d5ce23.webp)
 
 1. Air bag cover   
@@ -35539,7 +33443,6 @@ Inflator\* The inflator is composed of the detonator, explosives, and the gas ge
 
 
 ### 2) PAB (Passenger Air Bag)
-`ssangyong_actyon_en_943ddbbf` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1224 | doc_type:owners_manual
 The passenger's air bag is installed inside the instrument panel above the glove box. Its operation process is the same as the driver's one. The driver's air bag, the passenger's air bag, and the seat belt pretensioners on both seats are made to operate together.   
 When the colision G sensor inside the air bag unit sends a collision signal, the air bag unit   
 instantaneously applies a high current to the driver's and passenger's air bags and the seat belt pretensioners on both seats, fires the detonator in the inflator, and inflates the air bag cushions (curtain air bags independently operate in case of the side collisions).
@@ -35548,14 +33451,12 @@ instantaneously applies a high current to the driver's and passenger's air bags 
 
 
 ### (1) Components
-`ssangyong_actyon_en_e056d50a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1225 | doc_type:owners_manual
 ![](images/954e24bed48025fb172656aa0a6233473b5943d3b861d422e01dd91ed6d1fc1c.webp)
 
 ![](images/f1246d0ed73dd3a2941eea7269addb452a949f545e1d7b314e8c3a9b171b3e27.webp)
 
 
 ### 3) CAB (Curtain Air Bag)
-`ssangyong_actyon_en_7d1246ff` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1226 | doc_type:owners_manual
 The curtain air bags are installed on both sides of the roof side rails (inside the headlinings). Each curtain air bag is also composed of the air bag cushion and the inflator that has the detonator, explosives, and the gas generator.
 
 The deployment process logic of the curtain air bag is slightly dliferent from the one of the front air bag (including pretensioner), but it is the same as the conventional side air bag.
@@ -35568,14 +33469,12 @@ A collision situation is detected by the curtain air bag collision G sensor inst
 
 
 ### (1) Components
-`ssangyong_actyon_en_1f324a2a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1227 | doc_type:owners_manual
 ![](images/c92528689f8a5164c15b19c0b747cdccaebd6dff76430f52500dec009e8be611.webp)
 
 ![](images/33fbb497a943e41a7f4a89dadca4b3b0c084f592236569e2bf2b4e514f7579c9.webp)
 
 
 ### 4) Driver and Passenger BPT (Belt Pre-Tensioner)
-`ssangyong_actyon_en_19350860` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1228 | doc_type:owners_manual
 The belt pretensioner is installed at the lower side of the B-pillr and operates simutaneously when the front air bags deploy. When a collision occurs or when brakes are applied, a seat belt with a pretensioner detects the stopping action and tightens the belt before the wearer is propelled forward. This holds the occupant more securely in the seat.
 
 ![](images/898ab4628e1d62b6e3790ffb92b23bd9074c6e6717cdea148eba1fd64145a6c8.webp)
@@ -35584,14 +33483,12 @@ The belt pretensioner is installed at the lower side of the B-pillr and operates
 
 
 ### (1) Components
-`ssangyong_actyon_en_b6578f1c` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1229 | doc_type:owners_manual
 ![](images/d4af97ea2f4e3f34652c1dd17e90f29d0a8679cb75a6dc797929fa628ab3e789.webp)
 
 ![](images/621883963bfa9b2424b36fb5c96503d12f2ca37ac2c332c128fc028db7fd0990.webp)
 
 
 ### 5) Air Bag Unit
-`ssangyong_actyon_en_16d0ebc0` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1230 | doc_type:owners_manual
 ![](images/6f1bdbde633770a8967bf631dd49acdc05e4b0f61a93ddcfe619362fa006cf1d.webp)  
 CAUTIONAir bag unitis installed under the AV head unit in center fascia panel.
 
@@ -35605,7 +33502,6 @@ The sensor that detects collision is integrated into the air bag unit.
 
 
 ### 6) Curtain Air Bag Sensor
-`ssangyong_actyon_en_79b8f438` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1231 | doc_type:owners_manual
 The curtain air bag sensor is installed inside each B-pillar of the driver's and passenger's seats (that is, around the pretensioner reel). The body panel has guiding holes to ensure its correct installation. But incorrect tightening torque may break the sensor or make it insecure. As a result, the sensor may have inaccurate judgment and have the air bag deployed inaccurately.
 
 ![](images/b6cd500f20ac86b912d70af571593e164cd7caf66cbc3420806c1f61a845338b.webp)
@@ -35614,30 +33510,25 @@ The curtain air bag sensor is installed inside each B-pillar of the driver's and
 
 
 ### 7) Air Bag System Deployment (Firing Loop)
-`ssangyong_actyon_en_3a9202ff` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1232 | doc_type:owners_manual
 According to the collision deceleration rate that each collision G sensor reads, the air bag unit sends out about 2\~4 or higher Amp current. This current generates some heat, which fires the detonator in the inflator.   
 This table shows the basic inner resistance of the air bag related module and the basic instant current necessary for firing.
 
 ![](images/17c22c357f7589f18c930298d32629f05123f981d8e37f31a7953c27d94137e6.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_5e54f54b` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1233 | doc_type:owners_manual
--Please do not connect a tester to any air bag connector or single item to measure the supplied power or resistance. The detonator may explode due to a sudden extra power supplied by the tester.   
--Before removing or installing any air bag related components, disconnect the negative battery cable.
-
-![](images/c70a66522c6abad26d68a9f85650056bb260ab3c09625d94706dff33600b3976.webp)
+> ⚠️ **Внимание:** -Please do not connect a tester to any air bag connector or single item to measure the supplied power or resistance. The detonator may explode due to a sudden extra power supplied by the tester.
+> -Before removing or installing any air bag related components, disconnect the negative battery cable.
+>
+> ![](images/c70a66522c6abad26d68a9f85650056bb260ab3c09625d94706dff33600b3976.webp)
 
 
 ### 8) Air Bag Deployment Signal Output (Crash Out)
-`ssangyong_actyon_en_45c914ec` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1234 | doc_type:owners_manual
 When the air bag deploys, the signal is sent to STICS to perform the basic security operation which is the automatic door unlock function that release the automatic door lock mode.
 
 ![](images/98fe2e6c5f1116af99366e007d55ab7a181dbbaa1c3fe71eb2b13a9329a6eb26.webp)
 
 
 ### (1) Automatic Door Unlock (Crash unlock: unlock when colliding)
-`ssangyong_actyon_en_6d485483` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1235 | doc_type:owners_manual
 1. When the ignition key is the ON position, the air bag signal is not accepted for the first 7 seconds. When the ignition key is the ON position and the vehicle speed is 3 km/h or higher, 40 ms after   
 2. receiving the air bag deployment signal, the STICS sends out the door UNLOCK signal for 5 seconds. Even though the ignition switch is turned off in the middle of the unlock signal being sent out, the unlock signal continues for the remaining time.   
 3. This function cancels when the ignition key is withdrawn.
@@ -35647,39 +33538,33 @@ When the air bag deploys, the signal is sent to STICS to perform the basic secur
 ![](images/0b71a5c910c4813757c72ffe51d75cd89b511cbd741ebfff013a1c2b81807991.webp)
 
 
-### CAUTION
-`ssangyong_actyon_en_7429fe02` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1236 | doc_type:owners_manual
-Reminder for door lock/unlock control
-
--The unlock function by the air bag signal takes priority over any other lock/unlock operations. While or after the automatic unlock is made by the air bag system, any lock or unlock request by   
-- other functions is ignored unless the ignition key switch is turned off. When another lock or unlock output is requested while the door is being either locked or unlock, the   
--new request wil be ignored. But, if an unlock request is made by the air bag signal or the remote control key, the request will be accepted. When the lock and unlock functions are simultaneously requested, the lock function will be   
-- performed and the unlock function will be ignored.
-
-![](images/4d3efe3b2d52f29136f6cfa97d9810047fde947996e5328ed87ccbb60ef2d9f8.webp)
+> ⚠️ **Внимание:** Reminder for door lock/unlock control
+>
+> -The unlock function by the air bag signal takes priority over any other lock/unlock operations. While or after the automatic unlock is made by the air bag system, any lock or unlock request by   
+> - other functions is ignored unless the ignition key switch is turned off. When another lock or unlock output is requested while the door is being either locked or unlock, the   
+> -new request wil be ignored. But, if an unlock request is made by the air bag signal or the remote control key, the request will be accepted. When the lock and unlock functions are simultaneously requested, the lock function will be   
+> - performed and the unlock function will be ignored.
+>
+> ![](images/4d3efe3b2d52f29136f6cfa97d9810047fde947996e5328ed87ccbb60ef2d9f8.webp)
 
 
 ### 9) Air Bag Warning Lamp Operational Conditions
-`ssangyong_actyon_en_5438767f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1237 | doc_type:owners_manual
 The air bag warning lamp on the instrument panel has a few operational conditions. The following are the conditions:
 
 
 ### (1) When Turning the Ignition Switch to ON Position
-`ssangyong_actyon_en_747510c7` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1238 | doc_type:owners_manual
 The air bag unit performs a turn-on test when the ignition is turned on. The air bag unit flashes the air bag warning lamp six times at 1Hz interval. After flashing it six times, the air bag warning lamp wil turn off if no malfunction have been detected.
 
 ![](images/d0f4fe566c7c55c2879dfd0e5118326290e82c0aa05cabafa4d1067d40a777c4.webp)
 
 
 ### (2) When the Air Bag Unit Detects Any Malfunctions in Unit
-`ssangyong_actyon_en_2db1b5ee` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1239 | doc_type:owners_manual
 When it is recorded as a system failure in the air bag unit, the air bag warning lamp on the instrument panel comes on for about 6 seconds and goes ofor 1 second. Then the waning lamp stays on.
 
 ![](images/b9fc16f8769b4f74b5edb2b7fdfa8b5f1d9eabe4fc8bbfa954ea29bca592a47a.webp)
 
 
 ### (3) When the Air Bag Unit Receives Any Malfunction Signals from the Other Systems
-`ssangyong_actyon_en_29ee27b8` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1240 | doc_type:owners_manual
 When, due to an error from outside the system, the intermittent failure signal is received 5 times or less, the air bag warning lamp comes on for about 6 seconds and then, goes off.
 
 ![](images/70654739645b8e919f3fccc3f8778b95b9e711a2daea53c634fadfe2bb68f4a5.webp)
@@ -35688,14 +33573,12 @@ When, due to an error from outside the system, the intermittent failure signal i
 
 
 ### 10) Electrical Wiring Diagram
-`ssangyong_actyon_en_5b0b5584` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1241 | doc_type:owners_manual
 ![](images/5a34d41eff6f9779bce42c678263cf38b1596b53d419d6769f1c8b4e44381a13.webp)
 
 ![](images/6e77a2e4035d1805f861292c7278fbe89c425a5562793cbfb69f60c194a30ee3.webp)
 
 
 ### 1. COMPOSITION OF SEAT
-`ssangyong_actyon_en_5eb8dbcd` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1242 | doc_type:owners_manual
 1) Front Seat (1) Driver Seat
 
 ![](images/0a6ae1d7f28f97c75208b563d62a60eaf4883fdf0eb53a896c751d0a875c38b5.webp)
@@ -35706,7 +33589,6 @@ SEAT
 
 
 ### (2) Passenger Seat
-`ssangyong_actyon_en_094af274` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1243 | doc_type:owners_manual
 ![](images/f1cf61b558bbe67003a2dc6a68478bdc8dcbcbf2a137e3f1407a0d92a7392faa.webp)
 
 ![](images/d65513b034de93793d06488161b3c4c25309957b071500f7b6d78965f0c8be25.webp)
@@ -35717,7 +33599,6 @@ SEAT
 
 
 ### 2. FUNCTIONS OF SEAT 1) Switches and Functions of Driver Seat
-`ssangyong_actyon_en_4a0f314b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1244 | doc_type:owners_manual
 ![](images/0c1ef14d7cc45bc69204e410e563d95699726b240b72f28416effbf8a9d11883.webp)  
 \* Driver and passenger seats
 
@@ -35743,7 +33624,6 @@ SEAT
 
 
 ### 2 Rear Seat
-`ssangyong_actyon_en_393915e1` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1245 | doc_type:owners_manual
 ![](images/bbb714231cd040ec8516f98180a1a4bb4786e58f63c017d45d2668333797576e.webp)
 
 ![](images/c0ac200e871631acdd84efefefe10a61ca69568fecd190da184a44f46dda7632.webp)
@@ -35754,7 +33634,6 @@ To change the seatback angle, push the lever rearward. Then, release the lever a
 
 
 ### 3. COMPONENTS OF SEAT BELT
-`ssangyong_actyon_en_b40951cf` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1246 | doc_type:owners_manual
 3 Point Type seat belt: Driver, Passenger seat, Rear side and Rear Center 2 Point Type seat belt: Rear Center Pretensioner: Installed at front seats. The seat belt pretensiner rewinds the seat belt immediately to
 
 ![](images/43e419db8368646a7a0dd5285030331ec0d07aa8dfa787ce9f129518bd978705.webp)
@@ -35763,7 +33642,6 @@ To change the seatback angle, push the lever rearward. Then, release the lever a
 
 
 ### 4. CIRCUIT DIAGRAM
-`ssangyong_actyon_en_fbf736be` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1247 | doc_type:owners_manual
 1) Power Seat - Driver
 
 ![](images/b239e6494cea25cbb8d3bc929980fb207d0407fb93470e6eae3142a0f62528e7.webp)
@@ -35772,14 +33650,12 @@ To change the seatback angle, push the lever rearward. Then, release the lever a
 
 
 ### 2) Power Seat - Passenger
-`ssangyong_actyon_en_57c86776` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1248 | doc_type:owners_manual
 ![](images/b685d208511a76bc2af2f9db41975c76657a60fb525c9ae2bc5d65a405d54ee6.webp)
 
 ![](images/d13a55f9fea9692bcf68fd8c7cce4b94d20a26619c620dcda8badef9ddd3d346.webp)
 
 
 ### 1. COMPONENTS AND LOCATIONS
-`ssangyong_actyon_en_4bdc380a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1249 | doc_type:owners_manual
 ![](images/4eb5f4c5d72906adc960f6057909755e4f862d57cb477d5991501f32ce6716f6.webp)
 
 ![](images/88e79ae06d5522550df20979cedf3850fcd83bc68148fc011cad84db73ecc6c0.webp)
@@ -35788,29 +33664,24 @@ To change the seatback angle, push the lever rearward. Then, release the lever a
 
 
 ### 2. OPERATION AND FUNCTION
-`ssangyong_actyon_en_4f0852df` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1250 | doc_type:owners_manual
 When driving the vehicle with the window or sunroof open at a certain position, you may feel some pressure upon your ears or hear some noises similar to those from a helicopter (wind buffeting effect). This happens because of an influx in air through the window or sunroof and its resonance effect. If this happens, adjust by opening the window or sunroof. Actyon introduced two-touch function to the sunroof. When the sunroof is at the 1st stop position, it minimizes the wind buffeting effect. To open the sunroof fully, move the switch to the second stop.
 
 ![](images/abefc29c35c906d0f6e3867044f883e407123179f33f8d3318491f6982f18d74.webp)
 
 
 ### (1) Two-touch Open
-`ssangyong_actyon_en_741ea7f5` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1251 | doc_type:owners_manual
 If you rotate the sunroof switch clockwise (OPEN direction) for less than 0.5 seconds, the sunroof slides back and opens until it reaches at the 1st stop position (330 mm). Then, if you continue to rotate the switch to its stop, the sunroof is pull opened (420 mm). To stop the operation while moving, operate the sunroof switch to any direction.
 
 
 ### (2) Close
-`ssangyong_actyon_en_8fce4edb` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1252 | doc_type:owners_manual
 To fully close the sunroof, briefly (for approx. 0.5 sec.) rotate the sunroof switch counterclockwise (CLOSE direction) with the sunroof open. To partially close the sunroof, rotate and hold the sunroof switch until it reaches at the desired position.
 
 
 ### (1) Tilt-up
-`ssangyong_actyon_en_eb629a5f` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1253 | doc_type:owners_manual
 To tit-up the sunroof, rotate the sunroof switch counterclockwise (CLOSE direction) with the sunroof fully closed.
 
 
 ### (2) Tilt-down
-`ssangyong_actyon_en_9117c970` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1254 | doc_type:owners_manual
 To tilt-down the sunroof, rotate the sunroof switch clockwise (OPEN direction) with the sunroo tilted-up.
 
 ![](images/922309598b0b30f8dacf299838a78613f33d56eec6d1b947c80672eb91e8a1ea.webp)
@@ -35819,33 +33690,28 @@ To tilt-down the sunroof, rotate the sunroof switch clockwise (OPEN direction) w
 
 
 ### 3) Anti-trap Function
-`ssangyong_actyon_en_dbc23460` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1255 | doc_type:owners_manual
 To prevent any body parts from being trapped by the sliding sunroof, an Anti-Trap function automatically opens the sunroof when an object is trapped. However, if the Anti-Trap function operates 3 times consecutively, the function switches to the manual operation and the sunroof goes back to the original position. However, if the force against the sunroof is less than the specified value or the continuous resistance is detected, the Anti-Trap function doesn't operate. Therefore, make sure that there is no obstacle such as hand, head or part of body before operating the sunroof.
 
 ![](images/7121273648639f6415b524bc0cbafdebe47ae43b3d8c8ae5db12cece5056ad8f.webp)
 
 
 ### 4) Hazard (Manual) Operation
-`ssangyong_actyon_en_b2b0f2ab` | actyon | pdf_manual | tier:2 | lang:en | layer:general | p:1256 | doc_type:owners_manual
 The sunroof can be operated by rotating the screw in motor operating hole on the sunroof motor with a proper tool.
 
 
 ### 5) Circuit Diagram of Sunrrof Motor and SCU
-`ssangyong_actyon_en_749a015f` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1257 | doc_type:owners_manual
 ![](images/e198755e44762289e979e6c511b5ecb389f0876c4d814623a60a9809f65f9fb4.webp)
 
 ![](images/0b47687bfbf9e7387324480cc9762212cbdbea669e5390ae01bda2baa06e980b.webp)
 
 
 ### 6) Circuit Diagram of Sunroof
-`ssangyong_actyon_en_6a1f423e` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1258 | doc_type:owners_manual
 ![](images/834597ec4ce51a3d5ca4a476bf411579fa37d0a8ec862043922868fa896874fa.webp)
 
 ![](images/ffe0384bb2aad16b717bff0ae9fc388645e8cdf5200e4915208b0e1cfdb26f4d.webp)
 
 
 ### 1. DIMENSIONS
-`ssangyong_actyon_en_8d3bb23a` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1259 | doc_type:owners_manual
 Unit: mm
 
 ![](images/e8ca002ec0955e2cbda6cc81f32e7c38024c9cba9e16fe029ce80d3dbadb290f.webp)
@@ -35854,14 +33720,12 @@ Unit: mm
 
 
 ### 2. JACK-UP POINTS
-`ssangyong_actyon_en_5327f1f2` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1260 | doc_type:owners_manual
 ![](images/1a6d855f908b6c06a0bbba7dbcffdc3917802c97419520313e81fbfea3f02c67.webp)
 
 ![](images/de92e03d795620005c09d35c629c44bc87a87f69d49a788456eda3797a078fc2.webp)
 
 
 ### 3. DESIGN CHANGES FOR IMPROVING NVH PERFORMANCE
-`ssangyong_actyon_en_13297e55` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1261 | doc_type:owners_manual
 1) Dual Type Dash Panel and Engine Tunnel with Foaming Pad
 
 Blocks the noise from engine and transmission and improves the reinforcement of vehicle body.
@@ -35874,19 +33738,16 @@ Added an additional member to the bottom of dash panel to minimize the possibili
 
 
 ### 2) Improved Reinforcement and NVH According to the Introducing of Front Floor and Rear Floor
-`ssangyong_actyon_en_0f5ab0b5` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1262 | doc_type:owners_manual
 ![](images/d184b080f0b0710f92af0a9d4a5043e74ea647fadf9f119624581cda115a7723.webp)
 
 
 ### 3) Applied the Door Outer Panel
-`ssangyong_actyon_en_c3bfcec9` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1263 | doc_type:owners_manual
 ![](images/c3607931ab4eafea10b09637e08cdc8b190d09de99c1380d070ffb1c0c527719.webp)
 
 ![](images/db801c89bc5519bc2000e345625cc24506285c54f949ff04d6a4745047f993c6.webp)
 
 
 ### 4) Applied BPR (Body Panel Reinforcement) Sealer to the Body Panel
-`ssangyong_actyon_en_80e26950` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1264 | doc_type:owners_manual
 BPR sealer is sprayed by robot and is designed to reinforce the body panel and reduce the noise.
 
 ![](images/78450fce1bc862f528dca41c539a4f726f130f055d9170885fb35a3df3ca7197.webp)
@@ -35895,7 +33756,6 @@ BPR sealer is sprayed by robot and is designed to reinforce the body panel and r
 
 
 ### Applied the Asphalt to the Body Panel (Improved Anti-Vibration)
-`ssangyong_actyon_en_03b0150b` | actyon | pdf_manual | tier:2 | lang:en | layer:lighting | p:1265 | doc_type:owners_manual
 ![](images/14d13ce99d1d946847986519d3e34262b039c639abadda39f951ad532ceaf653.webp)
 
 ![](images/3625f643ac3a2bd6a3f04e46cfb66f4be5cee91bb36426fb00c0583056b7b29f.webp)

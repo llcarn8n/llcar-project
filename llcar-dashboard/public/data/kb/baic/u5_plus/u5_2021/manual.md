@@ -1,15 +1,16 @@
-# Manual: baic/u5_plus (203 chunks)
-<!-- doc_type:owners_manual tier:2 lang:en -->
+---
+brand: baic
+model: u5_plus
+generation: u5_2021
+source: kb
+---
 
-### Section p.1
-`baic_u5_plus_en_ccfb6e43` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/11cf3731ebfd4bf778e22279029b3726800bfa31399f231636aeba8410fa96f4.jpg)
 
 U5PLUS PyKOBOACTBO Nonb3obateng
 
 ### BctynneHne
-`baic_u5_plus_en_549aa5c7` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Cnacn6o 3a noKynky 3Toro aBTOMO6NnA.
 
@@ -34,7 +35,6 @@ IKaTNe》 B TeKCTOBOM OnncaHnn AaHHoro pyKOBOACTBa O3Ha4aeT HaxaTue MeHee 2 ceky
 ta3aHng,ynOMHyTble B AaHHOM pyKOBOACTBe, -3TO Bce yka3aHNA no ynpaBIeHnIO aBTOMo6nneM
 
 ### BctynneHne (NPOAonkeHne)
-`baic_u5_plus_en_3e49cc23` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 IOCTb》, 《NPEAYNPEKAEHNE》, "OCTOPOKHO》 4 HeKOTOpble cneunanbHble CNMBOnbl 4acTo BCTpeyaIOTCA B AaHHOM pyKOBOACTBe no əkcnnyaTaunn, N Ha HΛ> o6pa山aTb oco6oe BHNMaHne, nocKOnbKy NrHOpupOBaHNeəTNX npeAynpexqeHni MOxet npNBeCTN TpaBMaM ИNN noBpexAeHnio Ba山eroaBToMo6ung.
 
@@ -44,7 +44,6 @@ CuMBON O3Haaet 《He Aenante Aenante 3Toro》 WNN 《He Aaite əTOMy CnyunTbCЯ�
 K 3HaKu c yKaHneM 《CneAyite aTon npouenype》 WN 《3ta npoueaypa B03MOKHa》.OTMeTKa,aHanor4Hag 3Ton, ya3blBaeT Ha To, TO, 4TO yka3aH əПeMeHT Ha CXeMe.1 AHanoru4Hag OTMeTka yKa3blBaeT HanpaBneHne onepaunn NnN AeNcTnA
 
 ### ANA
-`baic_u5_plus_en_c999486a` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 epeA HayanoM əkcnJyaTaunn aBTOMo6nng BHNMaTeNbHO npoyntante AaHHoe pyKOBOACTBO no əkcnnyaTauNn, BO BpeMa NCNONb30BaHNA aBTOMo6ung co6nogante yka3aHHble B HeM npabuna əkcnnyaTaunn, y6eANTecb, 4T0 Bbl 3HaKOMbl C npabnnaMn əkcnJyataunn N TeXHNyeckoro 06cnyxNBaHng aBTOMo6nnA N 6e30nacHoro ynpabneHng aBTOMo6nneM. Mbl He HeceM OTBeTCTBeHHOCTN 3a n06on ymep6, Bbl3BaHHblN HenpaBnnbHOn əkcnnyataunen aBTOMo6nng.
 
@@ -77,7 +76,6 @@ Pa6oTa ABnraTeng:
 . He 3anyckaite ABNraTenb B TeyeHNe AnNTenbHOrO BpeMeHN B 3aKpbITOM NOMeWeHNN, 4T06bl npeqOTBpaTNTb OTpaBJeHNe BbIXNOnHbIMN ra3aMn. . Korqa 6arapea pa3paxeHa, 6nok ynpaBneHNg ABNraTenem N CTapTep He 6yAyT pa6oTaTb AONKHbIM 06pa30M, N ABNraTenb He 3anyCTИTCЯ.
 
 ### TopMoxeHne:
-`baic_u5_plus_en_c8d54eff` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa ABNraTenb BbIKIoyeH, BakyyMHbl ycnnnTenb He pa6oTaeT, ycnnne Ha nenann TOpM03a 3Ha4NTenbHO yBenNyNBaeTCA, əcbcpeKTNBHOCTb TOPMOxeHNA 3Ha4NTeNbHO CHNXaeTCA, N03TOMy Ha aBTOMo6une kaTeropuyeckn 3anpe山aeTcg C BblKJIOyeHHbIM ABNraTeneM ABNraTbCA HakaTOM.
 
@@ -98,7 +96,6 @@ Ecnn BO BpeMa ABNKeHNA Ha KOM6nHauNN npn6opoB 3aropaeTca kpacHaa npeaynpexqaomaa
 Ecnn BO BpeMa ABNKeHNA Ha KOM6NHauNN npn6opoB 3aropaeTca Kentaa npeAynpexAaomaa naMnoyka, npobepbTe aBTOMO6unb B COOTBETCTBNN C yka3aHNAMN AaHHON NHCTpyKLNN N npn Heo6xoqNMOCTN 06paTNTeCb KAnnepy BAIC MOTOR.
 
 ### 3nekTpu4eckne akceccyapbl:
-`baic_u5_plus_en_d2113579` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 o6ble 3nekTpnyeckne akceccyapbl AONKHbI 6bITb noAKnioyeHbl B COOTBETCTBNN C yka3aHHbIMN cnoco6aMn N MecTaMN.
 
@@ -124,7 +121,6 @@ BOAbI Ha npn6opHyio naHenb npu HaHeceHNN NneHKN Ha BHyTpeHHIOI0 4acTb nepeAHero 
 AnA TeXHnyeCkoro o6cnyxnBaHng N MOANuKaLNN ABTOMo6unR o6pamaiTecb K Aunepy BAIC MOTOR. Annepckni ueHTp BAIC MOTOR pacnonaraeT Heo6xoqNMbIMN NHCTPyMeHTaMN, ANarHOCTNyeCKNM 06opyAOBaHneM, NHcopMaunen 0 peMOHTe N KBanncuuNpOBaHHbIM nepcoHanoM.
 
 ### be3onacHoe BoxAeHne
-`baic_u5_plus_en_a55c3eb7` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 B 3TOM pa3qene npeAcTaBneHaBaxhag NHcOPMaLNA, NHCTpyKLNN,pekOMeHAaunn N MepblnpeAOCTOPO\*HOCTN AA 6e3onacHoroBHKAHNn, noxanyNcTa, BHNMaTeNbHOnpoyntante N co6nonante 3TNnpabnna AA Bawen 6e30nacHocTN N6e30nacHocTN Bawnx naccaxnpob.NopAepxaHne Bawero aBTOMo6nnAB 6e30nacHoM COCTOSHNNBHKAnns
 Ang HHAApraonn aBTOMo6nng B6e30nacHoM AA ABNKHNACOCTORHNN BOANTENAM cneAyeT06paTNTbCA K "NHcopMaunOHHOMyJncty no TeXHu4eCkOMyO6cnyxNBaHNIo", perynaphonpoxOANTb TexHNyeckoeo6cnyxNBaHne aBTOmoonng BAnnepckOM ueHTpe BAIC MOTOR NperynapHo BbINONHATb OCMOTpTeXHNyeckoro CHCPORHNA aBTOMo6nngnepeA kaxqon noe3Akon.
@@ -137,7 +133,6 @@ NoAyWKN 6e30nacHocTN RBSIITR3a山NTHbIMИ, HO ecnn BOANTenbHaxOANTcA CNNWKOM 6nN
 He CTONT caqNTbcq 3a pynb nocneynotpe6neHng ankorona, BawaCnoco6HoCTb pearupoBaTb HaN3MeHeHNA B okpyxaio山en cpeneCHNKaeTCA nocne ynotpe6neHngankorong, N 4eM 6onbwe ankorong BblnbeTe, TeM MeHee OT3bIB4NBbIM BblCTaHOBNTeCb; no3TOMy He nente W HecaqNTecb 3a pynb, N He N03BONNTeCBONM Apy3bAM CaANTbcA 3a pynb BHeTpe3BOM COCTOAHNN.
 
 ### He npeBblWanTe CKopoCTb
-`baic_u5_plus_en_f6b78006` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 IpeBbl山eHne CKOPOCTN SBNRTES OAHON N3 BeAymnX npn4NH CTOJIKHOBEHNN TpaHCnopTHbIX cpeACTB N TpaBM. He npeBblwante OrpaHnyeHHyio CKOpoCTb, yCTaHOBJeHHyIO Ha Aopore, N He npeBblwaNte 6e30nacHyio CKOpoCTb, AOnyCTNMyIO caKTN4eCKNMN AOPOXHbIMN yCNOBNAMN npu ABNKeHNN.
 be3onacHocTb AOMaWHNX KNBOTHbIX
@@ -175,7 +170,6 @@ Aepxnte HOrn B npocTpaHCTBe AAHOr nepeA nepeAHnM CNAeHbeM.
 PaccTOgHNe MexAy rpyAbtO BOANTENn N pyneBbIM konecoM He AONKHO 6blTb CNNWKOM 6nN3KNM, NHa4e noAy山ka 6e30nacHocTn He o6ecneynT 3cpcpeKTNBHyI0 3a山Nty N MoxeT HaHeCTN TpabMy BOANTeNIO. . PyKu BOANTNn AONXHbI OCTaBaTbCA Ha BHeWHeM 060ge pyneboro koneca （B XIRIOOOSU 9 4acoB N 3 qaca), 4T06bl o6ecne4nTb BNANMOCTb Bcex MaHOMeTpOB N NHQNKaTOPOB Ha naHenn npn6opob. . Bo Bpema BHuAnnn He ynnpantecb HoraMn B npn6opHyio naHenb N He o6nokayNBaiTecb Ha OKHa, CAAn Ha CNAeHbe Bcerqa Aepxnte Horn B npocTpaHCTBe AA HOr, NHaye Bbl yA3BNMbI A TpaBM B cnyyae 3KCTpeHHoro TOPMOKeHNA NNN abapnn.
 
 ### He npeBblWanTe CKopoCTb
-`baic_u5_plus_en_69bd7bbf` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 nepeAHne naccaxnpbl He AONKHbI HaxOANTbcA CNNWKOM 6nn3k0 K npn6ophon naHenn, NHaye noAy山ka 6e30nacHocTn He o6ecne4nT əccpekTNBHOn 3a山NTbl N Aaxe MOKeT HaHeCTN TpaBMbl nepeAHuM naccaxupam npи cpa6aTblBaHNn. . BoAnTenb He AOnKeH perynnpoBaTb CNqeHbe BO Bpema ABNXeHNA aBTOM06nng. pn Heo6xoANMocTN cneAyeT OTperynnpoBaTb cuqeHbe B NpaBNnbHoe NonoxeHne nocne napkOBkN aBTOMo6nna, a 3aTeM APOAOnntb ABNXeHNe. Bo Bpema BHRAnnn CnNHka Cnpan He AONKHa 4pe3MepHO HAKNOHATbCA, a peMeHb 6e30nacHocTn AONKeH 6bITb npaBnnbHO Haqet AA HAApxaang npaBnnbHoro PIMIORoOn CnAA, 4To6bl N36exaTb TpaBM B cny4ae əKCTpeHHoro TOpMOxeHna.
 
@@ -206,7 +200,6 @@ BaxHo cneqNTb 3a Tem, 4To6bl NOACTaBka ANA Hor npo4ho kpennnacb K nony.
 He NCNOnb3yTe NOACTaBKN AATONWNHON MeHee 10MM.
 
 ### PeMHN 6e30nacHocTN
-`baic_u5_plus_en_ac98a1e6` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Bce CnAeH B 3TOM aBTOMo6nneOcHameHbl TpeXToyeyHbIMN peMHAMN6e30nacHocTn.
 BblcoTa BepxHen TO4KN nOBOpoTanepeAHero PeMHg 6e30nacHocTNperynnpyeTca, a HeKOTopble MoAenNNMeIOT npeAHaTAKNTenb B HNXHeKaTy山ke.
@@ -231,7 +224,6 @@ Cneqnte 3a TeM, 4T06bl B THe34O APAXku He nonann NOCTOpOHHNe npeqMeTbl, NHaye 3a
 Ecnn JeHTa PeMha 6e30nacHocTN ocna6na NNN noTpeckanacb, kpenexHbln 60nt ocna6neH, WNN CpyHKy nA KaTy山KN HencnpaBHa, peMeHb 6e30nacHocTN He CMOXeT o6ecne4nTb 3amNTy B cnyyae aBapnn, n03TOMy cneAyeT perynapho npOBepaTb LeNOCTHOCTb Bcex 4acten PAmha 6e30nacHocTn.
 
 ### PeMHN 6e30nacHocTN
-`baic_u5_plus_en_7909ea07` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 nocne cepbe3Horo CTONKHOBEHNANCNOnb3OBaHHblN peMeHb6e30nacHocTn NNN paCTAHyTbIn NAepopMNpoBaHHbln peMeHb6e30nacHocTN cneAyeT 3aMeHNTb BCneunann3npoBaHHOM AnnepckOMueHTpe BAIC MOTOR, Aaxe ecnnABHON Aepopmaunn BO BHeWHeMBnqe HeT, ero Bce paBHO Hy>KHO3aMeHNTb, a Takke npobepuTbcnkcnpyio山ee ycTpONCTBO PeMha6e30nacHocTn.
 
@@ -259,7 +251,6 @@ NOcneActna Toro, 4TO BOANTENN He NPNCTerNBaIOTCA PAMHAMn 6e30nacHoCTN
 MHorne NIOAN C4NTaIOT, 4T0 npu He3HayNTenbHOM CTONIKHOBEHNN OHN Moryt 3aWNTИTb ce6g OT TpaBM, Aepxa pykn Ha Tene, HO 3T0 own6ka! BoqNTenb, KOTOpbIn He npnCTerHyT peMHeM 6e30nacHocTN, Bce paBHO 6yneT ABNraTbCA BnepeA C TOn xe CKOpoCTbl, 4TO N A0 CTONKHOBEHNA, N3-3a WHepuNN nocne CTONIKHOBeHNA, a TpaHcnopTHOe CpeACTBO ABNKeTCA He C TON xe CKOpOCTbI0, 4T0 N BOANTenb, 4TO MOXeT IpNBeCTN K TpaBMe BOANTENA.
 
 ### PeMHN 6e30nacHocTN
-`baic_u5_plus_en_ba1122d7` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/fd5b18a981495d3f4e5a52e3e534d8f4a3761e61added4894ed52608b077424b.jpg)
 
@@ -298,7 +289,6 @@ AeTn, npNCTerHyTble PAMHRMn 6e30nacHocTN
 PeMHN 6e30nacHocTn B 3TOn MoAenn npeA Ha3HayeHbI AN B3pOcJbIX, AeTAM B B03pacTe A0 12 NeT N pOCTOM A0 1,5m pekOMeHAyeTcq NCNONb3OBaTb cneLnanbHO yCTaHOBJeHHble AeTCKNe yAep\*NBaIO山Ne ycTpONcTBa.
 
 ### PeMHN 6e30nacHocTN
-`baic_u5_plus_en_b7668336` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 bepeMeHHble XeHWNHbInpNcTernBaIOTCЯ PeMHAMN6e3onacHocTN
 
@@ -307,7 +297,6 @@ bepeMeHHble XeHWNHbInpNcTernBaIOTCЯ PeMHAMN6e3onacHocTN
 Ecnn BOANTeneM SBNRRER6epemeHHaa XeHWNHa, peMeHb6e30nacHocTn cneAyeT npOBeCTNpaBHOMepHO no rpyAHOn KneTke N KakMOKHO HNxe nepeA 6eqpamn AA3amNTbl 6epeMeHHoi xeH山NHbI Nnnoga, a3aTeM NNOTHO pacnpeqenntb,4T06bl He Oka3blBanOCb AABneHng HaHNKHIOIO 4acTb \*NBOTa.
 
 ### Ipobepka N 06cnyxnbaHne peMHen 6e30nacHocTN
-`baic_u5_plus_en_ab5c693d` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Ipobepka PeMHa 6e30nacHocTN
 KaTy山ka PeMHg 6e30nacHocTN6nokupyeT peMeHb 6e30nacHocTN OTCKOnbKeHNA npn B03HNKHOBEHNNcneAyionx Tpex ycnOBnN:
@@ -331,7 +320,6 @@ Ecnn BTArNBaIO山ee ycTpONCTBO PeMha 6e30nacHocTN peMOHTupyeTCA B HeaBTOPN3OBaHH
 3anpemaerca CAMOCTOATENbHO peMOHTNpOBaTb, CHNMaTb NNN yCTaHaBNNBaTb KOMNOHeHTbI PeMHA 6e30nacHocTn NNN BTArNBaIOWerO yctpoNcTba PeMha 6e30nacHoctn.
 
 ### CncTeMa noAyweK 6e30nacHocTN
-`baic_u5_plus_en_237da7de` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 CncTeMa noAywek 6e30nacHocTN urpaeT AONOnHNTenbHyIO 3a山NTHyIO ponb, AA Toro, 4T06bl CNCTeMa noAymeK 6e30nacHocTN cpa6oTana B NONHyIO Cuny, BOANTenb N naccaxupbl AONKHbI COxpaHATb npaBnnbHoe nonoxeHne CUAeHNn, AeTN Takke AONKHbI NCNONb30BaTb nonxonnmee AeTCKoe kpecno AA 3a山,NTbl.
 
@@ -360,7 +348,6 @@ B canohe TpaHCNOpTHOrO cpeAcTba HeT BOAbl (Ecnn B TpaHcnOpTHOM cpeACTBe ecTb BOA
 NpeAynpexqaiomas naMnoyka HeNcnpaBHOCTN CNCTeMbl noAyweK 6e30nacHocTN
 
 ### CncTeMa noAyweK 6e30nacHocTN
-`baic_u5_plus_en_d104e5e1` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Tpenynpexqaomag namnoyka HeNcnpaBHOCTN CNCTeMbl noAywek 6e30nacHocTN, pacnonokeHHag Ha KOM6NHauNN npu6opob, npeaynpeANT BOANTENg 0 HencNpaBHOCTN CNCTeMbl noAyweK 6e30nacHocTn. Korqa KHOnka CTapT/CTOn HaxOANTCA B pexnMe 《RUN》, npeAynpexqaomaa naMnoyka caMOANarHOCTNKN CNCTeMbl 3aropaeTcq Ha HeCKOnbKO ceKyHA, a 3aTeMraCHeT.
 Ecnn nPoncxOANT cneayiomee ABneHNe, 3T0 03Ha4aeT, 4TO CNCTeMa noAyweK 6e30nacHocTN HencnpaBHa, a noAywka 6e30nacHocTN N npeAHaTaXNTenb peMHg 6e30nacHocTN MoryT He pa6oTaTb AONKHbIM 06pa30M B cnyyae CTONKHOBEHNA:
@@ -385,7 +372,6 @@ noAymka 6e30nacHocTN nepeAHero naccaxupa ② pacnonoxeHa Ha naHenn npn6opoB HaA 
 ePeghag noAymka 6e30nacHocTN HanyBaeTcq B cnyyae CNNbHOrO No6oBoro yAapa, a Takke MOXeT HaAyTbCA B pe3yJbTaTe aHanoruyHoro yAapa (Hanpumep, nonanaHne B kaHaby Ha Aopore ）. OHN Takxe MoryT He HaAyBaTbCq npn onpeneneHHbIx No6oBbIX CTONIKHOBEHNAX (Hanpnmep, korqa PTPggnn 4acTb TpaHCNOpTHOrO cpeAcTba yAapgeTcA 。 CTBON Aepeba WNN TOHKNN CTON6, KaK SNHIN ənektponepenay). CTeneHb NobpexAenng TpaHCnOpTHOrO cpeAcTBa He RBNRTER AOCTaTOyHbIM ycnOBNeM AA HaAyBaHNg nepeAHen NoAyWKN 6e30nacHocTN.
 
 ### CncTeMa noAyweK 6e30nacHocTN
-`baic_u5_plus_en_355bc780` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 PacmnpeHne N cxaTne nepeAHen nOAyEKN 6e30nacHocTN HPNOAn 3a 04eHb KOPOTKNN npoMexyTOK BpeMeHN N pa6oTaeT TONbKO OANH pa3 N He 3a山nmaeT OT BO3MO\*HorO nocneAyomero BToporo yAapa.
 
@@ -417,7 +403,6 @@ B HeKOTOpbIX aBapnax cpa6aTbIBaHne6oKOBon noAyWKN 6e30nacHocTn,ecnn peMeHb 6e30n
 BokOBble NOAyWKN 6e30nacHocTn He npeAHa3HayeHbl AA 3a山ИTbl OT nepeqHnx N 3aAHuX yAapob N He3HayNTeNbHbIX 60KOBbIX yAapoB, a Takke OT HPknAbiBannn aBTOM06nng, OHN He cpa6aTblBaIoT npn 3KCTPeHHOM TOpMOxeHNN aBTOMo6nng NN npn ABNKeHNN no yxa6ncTbIM Aoporam.
 
 ### CncTeMa noAyweK 6e30nacHocTN
-`baic_u5_plus_en_583a6eec` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 BoKOBble nOAyWKN 6e30nacHocTn Takke Moryt He cpa6oTaTb B csyyae CNNbHOrO 6okoBoro yAapa B MOTOpHbln OTCeK N 6araxHnk abToMo6nng.
 
@@ -447,7 +432,6 @@ BoqnTenio 3anpe山aetca APNCNOHATb ronoby WNN Teno K ABepn NNN KnacTb pykn Ha AB
 PacmnpeHne N cxaTne 6oKoBonWTOpKN NOAyWKN 6e30nacHocTN3abepmaeTca 3a o4eHb KOPOTKNNnpoMexyTOK BpeMeHN N MOxeTpa6oTaTb TONbKO OANO pa3, N He3amN山aeT OT B03MOKHorO BToporo6okoBoro yAapa.
 
 ### CncTeMa noAyweK 6e30nacHocTN
-`baic_u5_plus_en_0144c913` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/0756f32b64cb318585c682ebcb2e1df823d2347ec0cfdb8a57ddc4eb71bea0b3.jpg)
 
@@ -459,7 +443,6 @@ B cnyyae 6okoBoro yAapa He cpa6oTana noAy山ka 6e30nacHocTN 6oKOBon 山TOpKn 6e3
 Ecnn naccaxup HaxOANTcA CINWKOM 6nN3kO K 6oKOBon 山Topke noAy山ke 6e3onacHocTN, Pacsnpnosaacs 6okoBas 山Topka 6e30nacHocTN MOXeT NpNBeCTN K TpaBMe rOnOBbl WNN ApyruM TpaBMaM, no3ToMy, noxanyncta, NOAAepKNBaNTe npaBnnbHoe cnnngee nonoxeHne (CMOTpNTe pa3qen 《lpaBnnbHoe nonokeHne BOANTENA N naccaxupob").
 
 ### Bo3MoxHoe cpa6aTbIBaHNeNOAyWKN 6e30nacHocTN
-`baic_u5_plus_en_a2c29045` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/4165865b4d11abfe3dd2d74c3a2c3677d50f07e1d80f692c99ea9a41082d7772.jpg)
 
@@ -471,7 +454,6 @@ BoKOBble noAyWKN 6e30nacHocTN\*MoryT cpa6oTaTb, ecnn TpaHCNOpTHOecpeACTBO nonyun
 O6s3aTenbHO npncTernBanTe pemeHb 6e30nacHocTN AONKHbIM 06pa30M, NHa4e B cny4ae abapun cpa6aTbIBaHne NOAyEKN 6e30nacHocTn MOKeT TpaBMNpOBaTb naccaxupa, 4T0 npnBeqeT K cepbe3HbIM TpabMaM WNN Aaxe CMepTN.
 
 ### Bo3MoxHoeHecpa6aTblBaHNe noAyweK6e30nacHocTN
-`baic_u5_plus_en_f9744d82` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 noAymKn 6e30nacHocTn o6ecneyNBaioT 3a山NTy BOANTENA N naccaxupob npn abapnn. B cnyyae abapnn noAy山ka 6e30nacHocTN cpa6oTaeT WNN HeT B 3aBNCNMOCTN OT NHTeHCNBHOCTN CTONKHOBEHNA, yrna yAapa, CKOPOCTN ИMeCTa ynapa. Bo MHOrNX TNnax CTONKHOBeHNN, TakNX Kak CTONKHOBeHNA c3aAN, 6okoBble CTONKHOBeHNA, AnaroHanbHble CTONKHOBeHNЯ, abapun C OnpoknAbIBaHnem N n06oBble CTONIKHOBEHNA C TOHKNMN CTOMKaMN, noAymKN 6e30nacHocTN MoryT He cpa6oTaTb.
 
@@ -511,7 +493,6 @@ CnTyaunn CTONKHOBEHNA AHNWeM Ky30Ba ABTOMO6nng
 Ecnn TpaHcnOpTHoe cpeACTBO noABepraeTca CNJbHOMy yAapy, Hanpumep, nepeneTaeT yepe3 6opAiop, yAapgerca 0 BbICTyn WNN TBepAbln npeaMeT, nepecekaeT ry6okyio RMy N T.A., noAymKN 6e30nacHocTN MoryT cpa6oTaTb, korAa 06HapyxeHHoe 3aMeqneHne AOCTNrHeT Ycnobnn cpa6aTbIBaHNA noAymeK 6e30nacHocTn, Aaxe ecnn Aecopmaung TpaHCNOpTHOrO cpeAcTBa He3HayNTenbHa, N3-3a BO3AeNCTBNA Ha 6onee \*ecTKNe KOMNOHeHTbl TpaHCnOpTHOrO cpencTba.
 
 ### Bo3MoxHoeHecpa6aTblBaHNe noAyweK6e30nacHocTN
-`baic_u5_plus_en_6b443513` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 pn abapnn C OnpOKnAbIBaHneMnepeqHne NOAyWKN 6e30nacHocTnMOXryT He cpa6oTaTb, B 3T0 BpeMacpa6aTbIBaHNe nepeAHNx noAy山eK6e30nacHocTN He MO\*eT o6ecneynTbHaqnexamyio 3amNTy BOANTENR NnaccaxnpoB. OAHakO ecnnTpaHcNOpTHOe cpeACTBO 06opyAoBaH060KOBbIMN noAy山kaMN 6e30nacHocTn\*N 6oKOBbIMN WTOpkaMN6e30nacHocTn\*, 6okOBble NOAyWKN6e30nacHocTn\* N 6okoBble 山TOPKN6e30nacHocTN\* Moryt cpa6oTaTb,korqa TpaHcNOPTHOe cpeACTBOnepebopaynBaeTcg npn 6oKOBOMyAape.
 
@@ -547,7 +528,6 @@ AeTn HyXAaIoTcA B npncMOTpe B3p0cJbIX B aBTOMo6nne. noxanyicta, Bbl6epnte nononn
 Bcerqa NOBOpayNBaNte AeTCknn 3aMOK B NonoxeHne (LOCK), korqa pe6eHoK HAXOANcA Ha 3aAHeM CNAeHbe.
 
 ### Bo3MoxHoeHecpa6aTblBaHNe noAyweK6e30nacHocTN
-`baic_u5_plus_en_c190d5a6` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/bac82e3b6319792bfcdd4910fe0639027c0c45ec50eb7e59eba05e4b67bbbbc8.jpg)
 
@@ -560,7 +540,6 @@ O ycaqute pe6eHka BepTNKaJbHO KCNNHke CnAeHbA.
 OnycTnTe BbICOTy PeMHg6e30nacHocTn N npaBnnbHOnpNCTerHNTe peMeHb 6e30nacHocTn.
 
 ### AeTckne Kpecna
-`baic_u5_plus_en_bc025243` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 PeKOMeHAyeTCA HOCNTb C co6on NHCTPyKLNIO no əkcnnyataunn AeTCkoro kpecna.
 
@@ -611,7 +590,6 @@ An AeTen CTapwe 7 NeT, BecOM OT22KrA0 36 Kr И POCTOMAO 1,5M ny4weBcero NCNONb3O
 BePxhag 4acTb PAmha 6e30nacHocTN AONKHA APOxOAntb 4epe3 cepeqNHy nneya, HN npn kaknx 06CTOaTenbCTBaX He AOnKHa kacaTbcA Wen, N npo4ho npnneraTb K Teny.
 
 ### AeTckne Kpecna
-`baic_u5_plus_en_89fe6454` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 OnycTnTe naxobyio 4acTb PeMha 6e30nacHocTN, HO He BO3qenCTByNTe Ha XNBOT, a AepxNTe ero 6nnxe K 6eqpam, perynnpya pemeHb npn Heo6xoNMoCTn.
 
@@ -654,7 +632,6 @@ MHorocyHKuNOHanbHag naHenb nepeknioyatenen 18PyKORTka perynnpoBkn pyneboro konec
 21 BblKJoyaTenb aBapnNHoN CBeTOBON CNrHanNauNN
 
 ### AeTckne Kpecna
-`baic_u5_plus_en_db182e16` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 22 PykOsTkaceneKTopa Nepeksoyehng nepenay 23 Po3eTka 12V
 24 USB NHTepcpenc
@@ -711,7 +688,6 @@ TaxoMeTp nOka3bIBaeT KONNyeCTBO 06op0TOB B MNHyTypa6oTbI ABuraTeng (x1000o6/mNH)
 Bo N36exaHne HpknnnABnraTeng He AepxnTe 06opoTbl BkpacHon 30He TaxomeTpa B TeyeHneANNTenbHbIX nepnonob BpeMeHn.
 
 ### AeTckne Kpecna
-`baic_u5_plus_en_428e26de` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/5b9e75538d8a0383df8eadfafc915b562814ee745a87bc9d2ad08aa21d7cfc76.jpg)
 
@@ -762,14 +738,12 @@ HaBnraung
 Ha əkpaHe npo6era OTo6paxaeTca Kak 06mnn npo6er, TaK N 06mni npo6er aBTOMO6nnA.
 
 ### AeTckne Kpecna
-`baic_u5_plus_en_2a1486b2` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/576b59379c845172548ec88598aa82de2739094cc374736dd73e2f16bc4aa6f6.jpg)
 
 ![](images/69cc249f72a68d7174bb54135072f46407cdb439192bcedd704d930612603aad.jpg)
 
 ### Npo6er
-`baic_u5_plus_en_e116b82f` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 O6mnn npo6er = 3T0 06mnn npo6er, nponAeHHbin aBTOMo6nnem, KOTOpbln OTo6paxaeTca B Anana30He 0-9999999KM.
 
@@ -788,7 +762,6 @@ O6mnn npo6er 3T0 06mee KOnN4eCTBO ApoqeHHbIX KnJOMeTpOB: 1. Ha Ancnnee KpaTKOBpe
 2. O6mnn npo6er AOCTNraeT MakCNMaJbHOro 3Ha4eHNA 9999,9KM; 3. OTKIIO4NTb aKKyMynATOp.
 
 ### PacxoA TOnnNBa
-`baic_u5_plus_en_873b3862` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/98636f38a70761d6efd93d79ccc80cc45a8d60573d32e0f73a43c6146b664a83.jpg)
 3anac xoAa
@@ -819,7 +792,6 @@ CPenhng CKOpoCTb 3T0 3Ha4eHNe CKOPOCTN npongehHoro npo6era, AeneHHoe Ha BpeMg B 
 1. Ha Ancnnee KpaTKOBpeMeHHO HaXMNTe Ha KOnecnKO, 4T06bl nepenTn K HyneBOn CTpaHnue, NNN HaXMNTe N yAepKNBanTe KOneCNKO AA npamoro c6poca;
 
 ### PacxoA TOnnNBa
-`baic_u5_plus_en_efc78564` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 2. O6mnn npo6er AOCTNraeT MakCNManbHOrO 3HayeHNg 9999,9KM; 3. OTKJIO4NTe akKyMynaTOp.
 pn c6poce OAHOBpeMeHHO c6pacblBaeTca o6mnn npo6er / cpeAHnn pacxoA TOnnnBa. nocne 3anpaBkN
@@ -862,7 +834,6 @@ Kak TONbKO Bbl BOnqeTe B 3kpaH AABnennn B WNHax, Bbl MOxeTe npoBepnTb, SBNRTER N
 Ecnn Bce noka3atenN AaBneHng B WNHax B HopMe, COOTBeTCTBYIOWAR PIMUUUN AaBneHng B WNHax Ha KOM6NHaunN npn6opoB 6yqeT OTo6paxaTbCa HOPManbHO. Korqa AaBneHne He COOTBETCByeT, NHTepcenc AABneHNn B WNHax CTaHOBNTCA KpacHbIM, C TeKCTOBON N 3ByKOBON NHANKauNen, N 3aropaeTcq CNrHanbHag naMnoyka CNCTeMbl AaBneHng B WNHax, korqa PPYncxonn Apyrne c6on AaBneHnA B WNHax, PABNROCN TeKCTOBaR N 3ByKOBag NHANKALNN, B 3T0 BpeMa nonb30BaTenb AonKeH 6bICTpo npoBepИTb COCTOAHNe COOTBeTCTBYIO山eN WNHbl WNN o6paTNTbcq B Annepcknn LeHTp BAIC MOTOR AA O6cnyKnBaHnA, 4T06bl N36exaTb NOTeHUNAnbHON yrp03bl 6e30nacHocTN.
 
 ### PacxoA TOnnNBa
-`baic_u5_plus_en_41e430fc` | u5_plus | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 po6e「 no TeXHN4eCKOMy o6cJyXnBaHnio NOka3bIBaeT npo6er OT cneAyomero TeXHN4eckoro O6cnyxuBaHna aBTOMo6nnA. lepBbl npo6er Bcero aBTOMO6nng COCTABNAET 5000 KM, a NHTepBan TeXHNyeCkoro 6cnyxuBaHng COCTABNAET 7500 KM. PeKOMeHAyeTCЯ, 4T06bl nonb3OBaTenN perynapH 0 APHbepann ero N noAAepNBann BOBpeMA. HaxMNTe Ha pOnnk NOA NHTepceicOM OTo6paxeHnA NHpOPMauNn 0 TeXHNyeCKOM o6cnyKnBaHnN N c6pocbTe npo6er TexHNyeckoro O6cnyxnBaHng B COOTBeTCTBNN C noAcka3kon npn6opa.
 
@@ -942,7 +913,6 @@ NHANKaUNg HeNchpaBHOCTN (B MeHI 《lpocMOTp
 HencnpaBHocte》 JHRBnRDCN coo6meHne .HeNcNpaBHOCTn)
 
 ### PacxoA TOnnNBa
-`baic_u5_plus_en_5b3a0674` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/d1cb895e3793ae36618fc2e9308b0c4b8c814567fde30105020e630316e88981.jpg)
 
@@ -955,7 +925,6 @@ OnncaHne NHANKALNN
 NHANKaTOp
 
 ### HeNcNPaBHOCTN 3nektpoHHord CTOSHOYHORO TOpMo3a (KenTbIn)
-`baic_u5_plus_en_dec9159b` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korga KHOnka CTapT CTOn HAXOANcAB pexnMe 《RUN》, 3Ta namnoyka3aropaeTca AA caMOANarHOCTNKN NracHeT nocne.
 3TOT NHANKaTOP NOKa3bIBaeTCOCTOAHNe CNCTeMbl EPB N3aropaeTca, korqa CNCTeMa EPBHencnpaBHa Kom6nHaung npn6opoByka3blBaeT Ha 《OTKa3 3neKTpOHHOnCNCTeMbl napkOBKn》. Ecnn 3TOTWHANKaTOp 3aropaeTcg BO BpemgABNKeHNA, 06paTNTeCb K AnnepyBAIC MOTOR AA nPOBeAeHngcepBNCHoro O6cyxNBaHna.
@@ -963,7 +932,6 @@ Korga KHOnka CTapT CTOn HAXOANcAB pexnMe 《RUN》, 3Ta namnoyka3aropaeTca AA ca
 ![](images/31bfcc826c429f76701a2063b449da00b3cf52d01e596cd7f16cfce985c8c952.jpg)
 
 ### 3nekTpoHHoro CTOAHOYHOrO TOpM03a (KpacHbln)
-`baic_u5_plus_en_9334ade3` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 loka3blBaeT pa6o4ee COCTOAHNe 3nekTpOHHon cpyHKLun napkOBKN, N korqa 3TOT NHANKaTOP ropuT, OH yka3bIBaeT, 4TO pyHKunA napKOBKN EPB BKNIoyeHa. ΦyHKLNA napkOBKN BKNIOYNTCA aBTOMaTNyeCKN npn BbIKJoyeHNN ABNraTena.
 
@@ -973,14 +941,12 @@ Korga CNCTeMa KOHTPONA cnenbix 30H HaxOAntcA B pexnMe EKuAannn, ropNT NHANKaTOPH
 KorAa CNCTeMa KOHTPONA cnenbix 30H He pa6oTaeT AONKHbIM 06pa30M, ropuT NHANKaTOP HencnpaBHOCTN CNCTeMbl KOHTPONA cnenblx 30H 网 (xenTbI). NHANKaTOp yka3bIBaeT Ha 《HencnpaBHOCTb CNCTeMbl KOHTPONA cnenbix 30H》 TpeMa 3ByKOBbIMИ CNrHanaMN.
 
 ### CBeTa (CNHni)
-`baic_u5_plus_en_1229a3fa` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Yka3bIBaeT Ha pa6oTy AanbHero CBeTa, 3aropaeTcq npn BKJIoyeHNN AanbHero CBeTa.
 
 日 NpeAynpexAaomnn NHANKaTOP 0 BblCokON TeMnepaType oxnaxnaomen KNAKOCTN (KpacHbln) Korqa KHONka CTapT CTOn HaxOANTcA B pexuMe 《RUN》, 3Ta namnoyka 3aropaeTcg AR CaMOANarHOCTNKN N racHeT nocne CaMOANarHOCTNKN. Tocne Toro, KaK caMOQNarHocTNka He cpa6otana, NNN BO BpeMa ABNKeHNA, əTa npeAynpexgaiomag namnoyka ropNT, yka3blBag Ha BbICOKyI0 Tekymyi0 TeMnepaTypy oxnaxqaomen KNAKOCTN ABNraTeng. Kom6nHaung npn6opoB yka3bIBaeT Ha 《BbICOKyIO TeMnepaTypy aHTncpn3a B ABnraTene》, conpoboxqaemyio 3ByKOBbIM CNrHanOM. B 3TOM cnyyae cneAyeT CHN3NTb 06op0Tbl ABnraTeng N HeMeANeHHO OCTaHOBNTb aBTOMo6nnb B 6e30nacHoM MecTe.
 
 ### 3aAHen NPOTNBOTyMAHHON capbl (KenTbIn)
-`baic_u5_plus_en_c5fe8f67` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 loka3blBaeT pa6o4ee COCTOAHNe 3aAHen NPOTNBOTYMAHHON capbl, KOTOpas 3aropaeTcq npn BKnoyeHNN 3aAHen NPOTNBOTyMAHHON capbl.
 
@@ -995,24 +961,20 @@ NpOTNBOyrOHHbIn NHANKaTOP ABNraTeng (KpacHbln) Korqa KHONka CTapT/ CTOn HaxOANTc
 ![](images/4ada5f60d4f5d0796722dfaab2d9cdf99203d62c2b615dfea9b53f9740d1b529.jpg)
 
 ### TOPM03HON CNCTeMbl/ npeAynpexnaoian naMnoyka HN3Koro yPObha TOPM03HON XNAKOCTN (KpacHbli)
-`baic_u5_plus_en_a02d7eea` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa KHONka CTapT/ CTon HAxOANTcAB pexnMe 《RUN>, 3Ta namnoyka3aropaeTca AR CaMOANarHOCTNKN NracHeT nocne caMOQNarHOCTNKN.Ecnn npeAynpexqaiomaa namnoykaHe racHeT NNN 3aropaeTca BO BpeMaABNKeHNA, 3T0 03HayaeT HN3KNypoBeHb TOPM03HON KNAKOCTN WNNHeNcNpaBHOCTb TOPM03HON CNCTeMbl.Ecnn 3TOT NHANKaTOP 3aropaeTca BOBpeMa ABNKeHNA, OCTaHOBNTeaBTOMo6nnb, KaK TONbKO 3T0 6yneT6e30nacHo. He HaxnManTe Ha nenanbTopM03a NOBTOPHO.
 
 ### 108 NHANKaTOPHaR naMnoyka OTKpbITON ABepn (KpacHbln)
-`baic_u5_plus_en_25ebaf87` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 loka3bIBaeT COCTOAHNe OTKPbITNA N 3akpbITNA 4eTbIpex ABepen, KpbIWKN kanota N KpbIWKN 6araxHoro OTAeneHNg. 3ToT CBeT 3aropaeTca, korqa OAHa N3ABepen He 3akpblTa.
 
 ### naMnoyka (>KenTbIn)
-`baic_u5_plus_en_4e4c0e19` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa KHONka CTapT/ CTon HaxOQNTcHB pexuMe 《RUN》, əTa naMnoyka3aropaeTca ANA CaMOANarHOCTNKN NracHeT nocne caMOANarHOCTNKN.Ecnn npeaynpexAaomaa namnoykaHe racHeT NNN 3aropaeTcy BO BpeMaABNKEHNA, CNCTeMa ABS HencnpaBHa.
 
 ![](images/5358442e2480c85a226215d9a01ffbb1b02d012ed0f33e1c87a874bac9358e59.jpg)
 
 ### ApeAynpexAaiomaa
-`baic_u5_plus_en_a26adfcc` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 naMnoyka HeNcNpaBHOCTN CNCTeMbl pyneboro ynpabneHng C ЗneKTpoycnnntenem (KenTbIn) Korqa KHONka CTapT/ CTon HaxoANTcA B pexuMe 《RUN》, 3Ta naMnoyka 3aropaeTca A caMOANarHOCTuKN N racHeT nocne CaMOANarHOCTNKN.
 
@@ -1021,7 +983,6 @@ Ecnn naMno4ka He racHeT nocnecaMOqNarHOCTNKN NNN 3aropaeTcq BOBpeMg ABNKeHNA, CN
 ApeAynpexnaoman
 
 ### naMnoyka KOHTPONN AaBneHng B WNHax (>enTbIn)
-`baic_u5_plus_en_8026eed4` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa KHONka CTapT/ CTON HAXOANTcA B pexnMe 《RUN》, 3Ta namnoyka ropNT AA CaMOANarHOCTNKN N racHeT nocne CaMOANarHOCTNKN.
 
@@ -1030,7 +991,6 @@ Ecnn namnoyka He racHeT nocneCaMOANarHOCTNKN NNN npononkaetropeTb BO BpeMa ABNKe
 ![](images/7a34bd45a5a93831d33d818537b5ee704aedbd05b0a1d386693cf1b8ffa35fdc.jpg)
 
 ### NHANKaTOP napkoBKN (3eneHbln)
-`baic_u5_plus_en_5c2ba9fd` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa aBTOMaTNyeckag CNCTeMa napKOBKN pa6oTaeT, aBTOMaTNyeCKNN NHQNKaTOP napkOBKN (3eneHbl) 3aropaeTca.
 Korqa KHOnka CTapT/CTOn HAxOQNTcA B pexnMe 《RUN》, NHANKaTOP HencNpaBHOCTN Auto Park
@@ -1040,7 +1000,6 @@ Korqa aBTOMaTNyeckaa CNCTeMa napkOBKN BbIXOANT N3 CTPOa, aBTOMaTNyeCKNN WHANKaTO
 Pa6ounn NHANKaTOp
 
 ### NpeAynpexAeHng 。 Bble3qe N3 lonocbl ABNKeHnn (3eneHbln)
-`baic_u5_plus_en_888866f3` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa CNCTeMa npeAynpexqeHng 。 Bble3Ae N3 nonocbl ABNKEHNA BKNIo4eHa, 3aropaeTca pa6ounn NHANKaTOP npeAynpexAeHng 。 Bble3qe N3 nonocbl ABNKEHNA (3eneHbl).
 
@@ -1049,29 +1008,24 @@ Korqa CNCTeMa npeAynpexqeHng 0 Bble3qe N3 nnocbl ABNKHNN HAXOANTCA B pexnMe ERHA
 pn HeNcnPaBHOCTN CNCTeMbl npeAynpexqenng 。 Bble3qe N3 nnocbl ABNKeHNA 3aropaeTcq NHANKaTOP HeNcNpaBHOCTN CNCTeMbl npeAynpexqeHng Bble3qe N3 nonocbl ABNKeHNA (>KenTbIn). Kom6nHaung npn6opoB yka3bIBaeT Ha 《HencnpaBHOCTb CucTeMbl peAynpexqeHng 0 Bble3qe 3 lonocbl ABNKeHNA" TpeMa 3BYKOBbIMИ CNrHanaMn.
 
 ### NoBopoTa (3eneHbli)
-`baic_u5_plus_en_0a75d8dd` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Yka3blBaeT pa6o4ee COCTOAHNe npaboro yka3ateng nOBOpOTa, KOTOpbIN MNraeT npu BKJIIOyeHNN npaboro yka3ateng nOBOpOTa WNN aBapnNHon npeAynpexqaomen namnoykn. Ecnn NHANKaTOP MNraeT 6bICTpee, 4eM 06bI4HO, 3T0 03HayaeT, 4TO npaBbln yka3aTenb NOBOPOTHNKa HencnpaBeH, noxanyncta, KaK MOKHO ckopee 06paTNTeCb K 6nnxaiwemy Annepy BAIC MOTOR AA ANarHOCTNKN N peMOHTa.
 
 ### HeNCnPaBHOCTN CNCTeMI ronOBHorO JCBeWeHnA (>KenTbIn)
-`baic_u5_plus_en_25a8a4d5` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 3ta NHANKaTOPHAg namnoykayka3bIBaeT Ha COCTORHNe HapyxHoroOcBemeHNA aBTOMO6nna, korqaHapyxHoe OcBe山eHne TpaHcnopTHorocpencTBa HencnpaBHO, 3TOTNHANKaTOP ropuT. Kom6nHaungnpn6opob yka3bIBaeT Ha《HencnpaBHOCTb CNCTeMblOCBe山eHNA》. Ecnn əTa namnoyka3aropaeTcq BO BpeMa ABNKeHNA,noxanyvcta, OCTaHOBNTe aBTOMo6nnbB 6e30nacHoM MecTe, 4T06blnpobepnTb BHeWHNe CBeTOBblenpn6opbl.
 
 ### naMnoyka AaBneHng Macna (KpacHbln)
-`baic_u5_plus_en_da9559bc` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa KHONka CTapT/ CTON HAxOANTcA B pexnme 《RUN》, əTa namnoyka 3aropaeTca AA caMOQNarHOCTNKN N racHeT NpN 3anycke ABNraTenЯ. Ecnn 3TOT NHANKaTOP 3aropaeTca nocne 3anycka ABNraTenЯ, AaBneHne Macna HN3KOe. Kom6nHaung npn6opoB yka3bIBaeT Ha 《HN3KOe AaBneHne Macna》 TpeMa 3ByKOBbIMИ CNrHanaMn, nO3TOMy HeMeAneHHO OCTaHOBNTe aBTOMo6nnb B 6e30nacHoM MecTe И He npononkante ABNKeHNe.
 
 20 @
 
 ### NPOTNBOyrOHHO (KpacHbin)
-`baic_u5_plus_en_3228f0d9` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korna KHONka CTapT/ CTOn HAxOANtcAB pexnMe 《RUN》, 3Ta JaMnoyka3aropaeTca AA caMOqNarHOCTNKN NracHeT nocne caMOANarHOCTNKN.pu 06HapyxeHNn HeNcNpaBHOCTNWHANKaTOPHag naMnoyka 6yneTropeTb B TeyeHne AnNTenbHOrOBpeMeHN.
 
 ### naMnoyka HeNcNPaBHOCTN WAPpqkn akkyMynaTOpa (KpacHbin)
-`baic_u5_plus_en_75887ec3` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa KHONka CTapT/ CTON HAXOANTCA B pexuMe "RUN", ropuT npeAynpexAaomag namnoyka HencnpaBHOCTN 3apaqa aKKyMyngTOpa. Korqa ABNraTenb 3any山eH, 3TOT NHANKaTOp racHeT. Ecnn nocne 3anycka ABNraTenA CNrHanbHag naMna npoAonkaet ropeTb, 3T0 yka3bIBaeT Ha HenonaAkn B CNCTeMe 3apRAkn akKyMynTOpa, Heo6xoquMO Kak MOXHO Ckopee o6paTNTbcA B cneunann3npoBaHHbln Annepcknn LeHTp BAIC MOTOR AA Hpobenehng ANarHOCTNKN N peMOHTa.
 
@@ -1082,7 +1036,6 @@ SPORT NHANKaTOp
 CNOPTNBHOrO pexnMa (KenTbIn) Korqa CNOPTNBHbIN pexNM BKNO4eH, NHANKaTOP ropnT.
 
 ### pa6oTbI/HencnpaBHOCTN (KenTbIn)
-`baic_u5_plus_en_91ec2cd4` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korga KHONkaCTapT/ CTON HaxOQNTcA B pexnMe 《RUN》, 3Ta naMnoyka ropnT AA caMOqNarHOCTNKN N racHeT nocne caMOQNarHOCTNKN.
 
@@ -1091,39 +1044,32 @@ Bo BpeMg ABNKEHNA, ecnn namnoyka 6bICTpo MnraeT, ESP aKTNBeH. Ecnn NHANKaTOPHAR 
 ![](images/5bc73c2bd875397f81445d191480069602003f9ea1c344f76c781e91c534a99e.jpg)
 
 ### naMnoyka HeNcNPaBHOCTN kopo6kN nepeAay (KenTbIn)
-`baic_u5_plus_en_d397443f` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korna KHonka CrapT CTon HAXOANTcA B pexuMe 《RUN》, 3Ta naMnoyka 3aropaeTca ANA caMOQNarHOCTNKN N racHeT nocne caMOANarHOCTNKN. Ecnn namnoyka 3aropaeTcq nocne CaMOANarHOCTNKN, 3T0 yka3bIBaeT Ha HeNcnpaBHOCTb B CNCTeMe aBTOMaTN4eCKOn kopo6kn nepena4. pu B03HNKHOBEHNN HeNcNpaBHOCTN kopo6kn nepenay XOAOBble ka4ecTBa aBTOMo6nng 3Ha4NTenbHO CHN3ATCA, a 06op0Tbl ABnraTeng 6yAyT orpaHnyeHbl npnMepHO A0 3500o6/mNH.
 
 ### Namnoyka HencnpabHocTN CNCTeMbI ABnraTeng (KenTbIn)
-`baic_u5_plus_en_b8f4fcc4` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa KHONka CTapT CTon HaxOANTcA B pexnMe 《RUN》, 3Ta naMnoyka 3aropaeTca AA caMOANarHOCTNKN N racHeT npn 3anycke ABNraTeng TpaHCNOpTHOrO cpencTba, ecnn HeNcnpaBHocTen HeT. Korga 3TOT NHANKaTOP He racHeT nocne 3anycka ABNraTeng NNN 3aropaeTcq BO BpeMa ABNKEHNA, 3T0 yKa3bIBaeT Ha HencnpaBHOCTb B CNCTeMe ABnraTeng. Ecnn hpenynpexgaiomaa naMna 3aropaetca BO Bpemg ABNKeHNA, Heo6xoquMo kak MOKHO Ckopee 06paTNTbcg K cneunaJbHOMy Annepy BAIC MOTOR AA HPObenenng ANarHOCTNKN N peMOHTa. Ecnn He HPNHRTI Mepbl, 3T0 MOKeT cepbe3HO PIBNONOU Ha pa6oTy ABnraTeng.
 
 ### TOnnnBa (KenTbln)
-`baic_u5_plus_en_2a84fc1f` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa KHONka CTapT CTon HaxOANTcAB pexnMe 《RUN》, əTa naMnoyka3aropaeTca AA CaMOANarHOCTNKN NracHeT nocne CaMONarHOCTNKN.
 
 ### NHANKaTOp yCTaHOBJeHHON
-`baic_u5_plus_en_5d7cef31` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Ecnn namnoyka He racHeT nocne caMOqNarHOCTNKN WNN 3aropaeTca BO BpeMa BHuAnns, 3T0 03Ha4aeT, 4To TOnnnBa Mano. Bobpema NONONHANTE TONNNBO.
 
 Ecnu npeAynpexqaomaa namnoyka MuraeT, 3T0 03Ha4aeT, 4TO AaT4NK TOnnnBa HencnpabeH. Ecnn NHANKaTOp yPOBHA TOnnnBa HekoppeKTHO nOka3bIBaeT Teky山nn ypoBeHb TOnnnBa, noxanyncta, KaK MOKHO Ckopee o6paTNTeCb B 6nnxanmnn Annepcknn LeHTp BAIC MOTOR ANA ANArHOCTNKN N peMOHTa, 4T06bl npeAOTBpaTNTb nonOMky aBTOMO6nng.
 
 ### nOBOpota (3eneHbln)
-`baic_u5_plus_en_272df374` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 NHANKaTOpHag namnoyka MNraeT, korqa BKNIO4eH neBbln yka3aTenb noBopoTa NNN abapnnHag npeAynpexqaomen namnoykn. Ecnn WHANKaTOP MИraeT 6blcTpee 06bl4Horo, 3Ha4NT, neBbln yka3aTenb NOBOPOTHNKa HencnpaBeH, no3ToMy Kak MOKHO Ckopee 06paTNTeCb B 6nnxaimnn Annepcknn 4eHTp BAIC MOTOR.
 
 ### NpeBbIWeHNg CKOpoCTN
-`baic_u5_plus_en_7cfd13ae` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 NHANKaTOPHaa naMna NOka3bIBaeT, npeBblWaeT N Tekymaa CKOpoCTb 3Ha4eHne npeBbI山eHNg CKOpOCTN, yCTaHOBNeHHOe BOANTeneM, npu npeBbIWeHNN OTo6paxaeTcg COOTBeTCTBYIO山ee 3HayeHne CKOpOCTN N BKNoyaeTcA ChrHanNLNg npeBbIweHNg CKOPOCTN, no yMOnyaHNIO CNCTeMa yCTaHaBINBaeT 3Ha4eHne 120KM/4, N BOQNTenb MOXeT CAMOCTOATeNbHO yCTaHOBNTb 3Ha4eHne CKOpOCTN WNN OTKNIOYNTb CNCTeMy.
 
 ### KpyN3-KoHTpong CkopocTn (3eneHbln)
-`baic_u5_plus_en_7234d307` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa KHONka CTapT CTON HaxOANTcAB pexnMe "RUN》, NHANKaTOP pa6oTblKpyN3-KOHTPOng CKOPOCTN 3(3eneHbi) 3aropaeTcq AACaMOANarHOCTNKN N racHeT nocnecaMOANarHOCTNKN. 3ta WHANKaTOPHAAnamnoyka 3aropaeTca, korqa CNCTeMaKpyN3-KOHTPONA aKTNBHa.
 Korqa KpyN3-KOHTpONb BKNIOyeH, HOCNCTeMa He aKTNBNpOBaHa,3aropaeTcq WHANKaTOP pexuMaHUunannn KpyN3-KOHTPOnR
@@ -1134,7 +1080,6 @@ Korqa KpyN3-KOHTpONb BKNIOyeH, HOCNCTeMa He aKTNBNpOBaHa,3aropaeTcq WHANKaTOP pe
 NHANKaTOp aKTNBauNN aBTOMaTN4eCkoro pexnMa BKNoYeHNA cap (benbin) 3ta NHANKaTOPHAR naMnoyka NOka3bIBaeT COCTOAHNe pa6oTbl aBTOMaTNyeCkON CNCTeMbl OcBeWeHNA N ropnT, korqa aBTOMaTNyeckaa CNCTeMa OcBemeHng pa6oTaeT.
 
 ### naMnoyka HenpnCTerHyToro PeMha 6e30nacHocTN BIANTENn (KpacHbin)
-`baic_u5_plus_en_67875239` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 3TOT NHANKaTOP NOka3bIBaeT COCTOAHNe PeMHa 6e30nacHocTn Co CTopOHbl BOANTENA, korqa BOANTenb He npNcTerHyT peMHeM 6e30nacHocTn, 3TOT NHANKaTOP ropNT.
 
@@ -1143,7 +1088,6 @@ Korqa CKOpOCTb aBTOMo6nnA M 15kM/4NNN npOAOnKNTenbHOCTb ABNKHNA >60 ceKyHA NNN p
 33 NHANKaTOPHas JaMnoyka HencnpaBHocTn (KeTbin) Korqa B MeHIO 《lpocMoTp HencnpaBHoctei> DRBnROCn co06meHne 0 HeNCNPaBHOCTN, 3TOT NHANKaTOP 3aropaeTcq.
 
 ### BIknIoYHnn (KenTbIn)
-`baic_u5_plus_en_39b957e4` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa KHONka CTapT CTON HaxOAncA B pexuMe 《RUN》, 3Ta naMnoyka ropnT AA caMOANarHOCTNKN N racHeT nocne caMOANarHOCTNKN. 3ToT NHANKaTOP nOka3blBaeT, BblKNIoyeHa NN CNCTeMa ESP WNN HeT, korqa CNCTeMa ESP BblKNoyeHa, 3TOT NHANKaTOP ropnT.
 
@@ -1202,7 +1146,6 @@ KnakcoH
 HaxMnTe Ha o6nacTb PRAok C CNMBONOM KJakcOHa 元 Ha pyneboM konece, KNakcOH N3AacT 3ByK N OCTAHOBNTCA, korqa Bbl ero OTNyCTNTe.
 
 ### BIknIoYHnn (KenTbIn)
-`baic_u5_plus_en_d869b598` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 He ynapaiTe no BbIKNoyaTenio KnakcOHa KynakOM, 4T06bl N36exaTb HbpexJenng AeTanen aBTOMo6nng
 
@@ -1211,7 +1154,6 @@ KnakcoH cneAyeT perynapHo npOBepaTb, 4T06bl y6eqNTbcA B ero NCNPaBHOCTN.
 noxanyucta, co6nogante npabnna AopoxHoro ABNKeHNA N NCNONb3yNTe KJakcOH TONbKO AA NpeAOTBpameHng ATn.
 
 ### yMHblN KnIo4
-`baic_u5_plus_en_670cc301` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 TpaHcnopTHble cpeACTBa, OCHa山eHHble cyHkunen CTapT 1 CTON 6e3 Kno4a, ocHameHbl AByMЯ yMHbIMN KJioyaMN.
 
@@ -1256,7 +1198,6 @@ Nocne PCNONbOBaHNNMexaHnyeckoro KJio4a, noxanyncta,NONOKNTe ero 06paTHO.
 Ecnn ABepb OTnNpaeTCA MexaHn4eCKM KNIO4OM nocne Toro, Kak ABepb 3anepTa yMHbIM KJIO4OM, aBTOMo6nnb nepexoqNT B COCTOAHNe Tpeborn, nocne yero Heo6xoqNMO NONOKNT yMHbI KIIOY B 6okc LeHTpaJbHorO NOQNOKOTHNKa co 3HaKOM abapniHoro 3anycka N HaxaTb KHONKy CTapT / CTON, 4T06bl pa36noknpoBaTb ero.
 
 ### yMHblN KnIo4
-`baic_u5_plus_en_7f631b75` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 MexaHnyecknn KIOY abapnNHoro 3aMka AA 6noknpoBkn ABepn
 B cny4ae co0g NNTAHNN 3aMOK BOANTenbCKON ABepn 6yqeT 3anepT MexaHuyeCKNM KJI040M, a OCTaJbHble TpN ABepn 6yAyT 3anepTbl abapnuHbIM 3aMKOM.
@@ -1296,7 +1237,6 @@ Pa36noknpoBka ABepn
 Korqa Bce ABepn 3a6nokupOBaHbl, HaKMNTe KHONKy pa36noknpOBkN 日 Bce 4eTbIpe ABepn 6yAyT pa36noknpoBaHbl, a CNrHan nOBOpoTa MИrHeT ABa>KqbI.
 
 ### OTKpbITne 6araxHnka
-`baic_u5_plus_en_87f2e21c` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/76ee819cdf6738e6d63df86766998379c2399d8762d7f9889985459ac82eac3c.jpg)
 
@@ -1308,7 +1248,6 @@ yHKuna noncka abTOMO6nnA
 Korna TpaHcNOpTHOe cpeACTBO HAxOANTcA B 3aKpbITOM COCTOAHNN, Ha paccTOAHNN <15M (OTKpbITOe npocTpaHCTBO), HaKMNTe KHONKy noncka aBTOMO6Nng ) Ha yMHOM KJio4e, 3aTeM NOBOPOTHNK MИraeT 2 pa3a ИKJakCOH 3By4NT 2 pa3a.
 
 ### 3aMeHNTe 6aTapeio
-`baic_u5_plus_en_b8bdf6b1` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa 6aTapea yMHoro Koya pa3paxeHa, KOM6nHaung npn6opoB HaNOMHNT 。 Heo6xoANMoCTn 3aMeHbl 6arapen. PeKOMeHAyeTCA 06paTNTbCg K Annepy BAIC MOTOR AA 3aMeHbl 6aTapen, ecnn 3T0 He 6blno cAenaho AONKHbIM 06pa30M.
 
@@ -1350,7 +1289,6 @@ becknioyebaa CNCTeMa BXOAa N 3anycka BecknioyeBas Pa36noknpoBka
 Nocne Toro, Kak aBTOMo6nnb 6yAeT 3akpblT, nOAHeCNTe yMHbIN KIO4 6nN3k0 K aBTOMo6nn N HaXMNTe KHONKy Ha py4ke, Aepxa pyky Ha paccTORHNN OKONO 1 M OT py4KN nepeqHen ABepn, aBTOMo6nnb 6yqeT pa36noknpobaH aBTOMaTNyeCKN.
 
 ### becknloyebaa 6noknpobka
-`baic_u5_plus_en_a9f79988` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Hocute C co6on NHTennekTyanbHbln ANCTAHUNOHHbIN KJIO4, B npenenax OKONO 1M OT py4kn nepeqHen ABepn aBTOMo6nnA, KHONKy CTapT/CTON B pexnMe 《ACC》 WNN 《OFF》, Bce ABepn, kanoT, ABepb 6araxHoro OTAenEHNg 3akpblTbl, 3aTeM HaXMNTe KHONKy Ha py4ke nepeAHen ABepn, TpaHcnopTHoe cpeACTBO 6yneT 3a6nokupoBaH0 N BONAeT B pexnM 6e30nacHocTn.
 
@@ -1376,7 +1314,6 @@ ycnoBng cpa6aTbIBaHNg aBapnHoro pexnMa:
 ： Ecnn Bce ABepn 3akpblTbl, korna Bbl NCNOnb3yeTe yMHbln KIO4 AA 6nokNpoBkN ABepen, HO KpblWka MOTOPHOrO OTCeka WNN KpbI山ka 6araxHoro OTAeNeHNA He 3aKpblTbl, TpaHcnopTHoe cpeACTBO nepexoqnT B pe\*NM TpebOrn.
 
 ### becknloyebaa 6noknpobka
-`baic_u5_plus_en_548a282f` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ： Ecnn kakag-nn60 ABepb (BKJIO4ag kanoT N Kpbl山ky 6araxHoro oTeneHng) OTKpbIBaeTCA nocne 6nokupoBkN ABepen yMHbIM KJIO4OM, TpaHcnopTHoe cpeACTBO nepexoqnT B pexnM Tpeborn.
 
@@ -1407,7 +1344,6 @@ Korna ABepb 3a6nokupoBaHa, 4T06bl OTKpbITb ABepb N3HyTPN aBTOMo6nnA, HyXHO ABaxq
 Korqa ABepb 3a6noknpobaHa,NOTAHYB 3a BHyTpeHHIOI0 py4ky OANHpa3 Bbl He MOKeTe 0TKpbITb ABepb, Henpononxante TAHYTb, 4T06blN36exaTb Hspnnn BHyTPeHHenpy4kn.
 
 ### becknloyebaa 6noknpobka
-`baic_u5_plus_en_d47688b5` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/ac0da162793e735936775346c2dee880c679b07b0e427c67dd725fa737d141a0.jpg)
 
@@ -1443,7 +1379,6 @@ ABepb, 3a6nokupoBaHHag AeTCKNM 3aMKOM 6e30nacHocTN, MOKeT 6blTb OTKpbITa TONbKO 
 nocne 6noknpoBKN 3aMka6e30nacHocTN pe6eHka ABepb Hnb3AOTKpbITb N3HyTPN aBTOMo6nng. Korqa3AAHI0I0 ABepb HeB03MOXHO OTKpbITbC nOMOWbIO BHyTpeHHen py4Kn,B03M0XHO, pa6oTaeT 3aMOK6e30nacHocTN AeTen, He TAHNTe 3aBHyTpeHHIOI0 py4ky, 4T06bl N36exaTbnobpexAeHnn
 
 ### KpbI山ka MOTOpHorO OTCeka OTkponte kanot
-`baic_u5_plus_en_469e8a19` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/ac3b50348e74b68b6be3d0e884fba2926f5ca6181ed4435fb5988fb8223c65d4.jpg)
 
@@ -1457,7 +1392,6 @@ nocne 6noknpoBKN 3aMka6e30nacHocTN pe6eHka ABepb Hnb3AOTKpbITb N3HyTPN aBTOMo6nn
 3. OTkpoite kanoT B HyXHOe nonoxeHne, COKMNTe pe3NHOByiO 4acTb onophoro CTepXHA, BbITa山,NTe CTep\*eHb N3 MPAkn N 3a山enKHNTe ronOBKy B OBaNbHOM OTBepCTNN Ha KpbI山ke kanota, 4T06bl y6eqnTbCA, 4TO OH HaAexHO 3akpenneH.
 
 ### 3akponte KpblWKy kanota
-`baic_u5_plus_en_2a6f9a88` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. y6equTecb, 4TO B MOTOPHOM OTcekeHeT Apyrux NOCTOPOHHNX npeqMeTOB,4T06bl npeAOTBpaTNTb HopexAehngAeTanen aBTOMO6nnR;
 
@@ -1494,7 +1428,6 @@ OTKpbITne 6araxHoro OTAEnEHNA Ncnonb30baHne yMHoro knioya
 HaxMuTe N yAepxNBante KHONKy pa36noknpoBkN KpbIWKN 6araxHoro OTAENEHNA Ha yMHOM Koye, Kpbl山ka 6araxHoro OTAeNeHNA 6yqeT pa36noknpoBaHa, NOTAHNTE BBepx KpblWky 6araxHoro OTAeneHNA, 4T06bl OTKpbITb ee.
 
 ### 3akponte KpblWKy kanota
-`baic_u5_plus_en_7a85002f` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Ncnonb3ynte MHOrOCyHKuNOHaNbHbln nepeknoyaTenb B aBTOMO6nne
 
@@ -1533,7 +1466,6 @@ AaHHbI aBTOMo6nnb ocHameH kaTannTNyeCKNM HeiTpaNN3aTOpOM. 3anpabnante TONNNBO A0
 pn 3aNOnHeHnn 6aka, Kak TONbKO 3anpaBo4Hbln NNCTONeT aBTOMaTNyeCKN OCTaHOBNTCA, TONNNBHbIN 6ak 6yqeT 《NONHbIM》, He npoAonkante 3ANNHRTb 6ak HacnnbHO, NHaye pac山NpnTenbHOe npocTpaHCTBO BHyTpN 6aka Takke 6yAeT 3aNonHeHo TONNNBOM, N TONNNBO MOKeT nepennTbca npu TenJOBOM pacwnpeHnn.
 
 ### 3akponte KpblWKy kanota
-`baic_u5_plus_en_3bffb848` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 nepeA TeM kak NONHOCTbIO OTKpbITb KpbI山Ky 3anNBHn rOpnOBNHbl, ocna6bTe ee, 4T06bl c6pocNTb AabneHne TOnnNba BHyTpN. B NPOTNBHOM cyyae napbl TOnnnba Moryt 6blTb Bbl6po山eHbl N3 3anNBHOn ropnOBnHbl N CTaTb NPnynHon TpaBMbl.
 
@@ -1566,7 +1498,6 @@ Ecnn HaxaTb Ha nepeknioyatenb ① A0 npeBblweHng TO4KN AABneHng N OTNyCTNTb ero,
 Ang OKOH, OCHa山eHHbIX cbyHKunen OAHO kacaHne BBepx BHN3, 6okoBoe OKHO BOANTENA 6yneT aBTOMaTN4eCKN NOAHNMaTbCA A0 NONHOrO 3akpbITNg npn Cpa6aTbIBaHNN nepeknoyateng ① BBepx, noka He 6yAeT OTny山eHO 3a npenenbl TO4KN AaBneHNg, N ecnn BO BpeMg aBTOMaTN4eCkoro noqbeMa CTekna OKHa KOCHyTbCA nepeknoyateng, CTeKJO OKHa OCTaHeTCA B TekymeM NONOKeHNN. ynpabneHne BOANTeNeM CTeKJONOAbeMHNKOM 6okoboro CTekna naccaxnpa
 
 ### 3akponte KpblWKy kanota
-`baic_u5_plus_en_111c405f` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 HaxMNTe nepeknoyatenb ② ⑤ BBepx NNN BHN3 (Ta \*e onepaung, 4TO N AA 6okoBoro OKHa BOANTeNA), 4T06bl NIAHT NNN OnyCTNTb COOTBETCTBYIO山ee CTeKNO OKHa.
 Nepeknoyatenb 6noknpoBkn CTeKNONOAbeMHNKOB 3aAHNX naccaxnpoB
@@ -1599,7 +1530,6 @@ OK 3akpblBaeTCg OAHNM HaxaTNeMKHONKN, N NIOK NMeeT cpyHKLNIO3amNTbl OT 3aweMneHn
 ΦyHKunA 3a山NTbl OT 3amemneHngnpeAOTBpa山aeT 3aXBaT KpynHbIXnpeAMeTOB npn 3akpblTOM noke. EcnnABNKeHNe noka 3a6noknpoBaHo npn3akpbITИN Noka, NIOK nepecTaHeT3aKpbIBaTbCЯ, a 3aTeM cnerkaOTKPOeTCA.
 
 ### 3akponte KpblWKy kanota
-`baic_u5_plus_en_37508187` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korga 几IOK 3aKpbIT, ecnn cpa6aTbIBaeTcbyHKung 3a山NTbl OT 3ameMneHng,NIOK 6yqeT nepeMe山aTbca HaonpeqeneHHoe paccTOAHNe BOTKpbITOM HanpaBNeHNn, a 3aTeMnepecTaHeT ABNraTbCA.
 
@@ -1636,7 +1566,6 @@ KoM6uHNpoBaHHbln BbIKnioyaTenb SCBeWennn
 ① Pyuka ynpaBneHnA CBeTOM ② Pbl4ar ynpabneHng NPOTNBOTYMaHHbIMN papaMn ③ Pbl4ar ynpabneHng yka3aTenAMN NOBOpOTOB
 
 ### 3akponte KpblWKy kanota
-`baic_u5_plus_en_33374a87` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/62ba514760942c30b3b856f90de512b67507f3d27b7ae8438bd2646723ec350f.jpg)
 ynpabneHne OCBe山eHNeM ┌a6apnTHble OrHN
@@ -1682,7 +1611,6 @@ HaxMnTe Ha pbl4ar ynpabneHng CBeTOM BHN3 AO KOHua, BHeWHN neBblu CurHan nOBOpoTa
 HaxMnTe Ha pbl4ar ynpabneHng CBeTOM BBepx A0 KOHua, BHeWHNN npaBbln yka3aTenb nOBOpoTa N npaBbln yka3aTenb nOBOpoTa Ha KOM6nHNpOBaHHOM N3MepNTene 6yAyT MNraTb C TNKaIO山NM 3ByKOM.
 
 ### 3akponte KpblWKy kanota
-`baic_u5_plus_en_01eea9e8` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Nocne BO3BpameHNg pyng B NCXOAHOe nonoxeHne pbl4ar aBTOMaTNyeCKN BO3Bpa山aeTcq B NCXOAHOe nonokeHne T BblpaBHNBaHNeM pyneboro koneca, a BHeWHNN yka3aTenb NOBopoTa N naMna yka3atena nOBopoTa B KOM6uHauNN npn6opoB racHyT.
 
@@ -1720,7 +1648,6 @@ yHKyNA 《nPObOnN MeHA AOMON> npeAOcTaBnseT nonb30BaTenI ycnyry BbIKNIoyHNg OcBe
 Nocne nOBOpoTa KHONka CTapT 1 CTON N3 Noonn 《RUN》 NNN 《ACC》 B NonoxeHne 《OFF》 B TeyeHNe 1 MNHyTbl NOAHNMNTe pbl4ar ynpaBneHng CBeTOM B CTopoHy NJOCKOCTN pyneboro koneca, 3aTeM cpyHKu ng 《nPOBOAN MeHA AOMON> 6yAeT aKTNBupOBaHa, N 6nnKHnn CBeT 6yneT BKJIIO4eH B TeyeHne onpeqeneHHoro nepnona BpeMeHN, a 3aTeM BbIKNIOYNTCA.
 
 ### 3akponte KpblWKy kanota
-`baic_u5_plus_en_9b0ea9a9` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 i Bbl MoxeTe yCTaHOBNTb cyHKyNIO 《nPObOnn MeHA AOMON", BblKJIo4eHNe N Bpema OcBemeHnA B 6opToBOM KOMnbIOTepe aBTOMo6nng.
 
@@ -1748,7 +1675,6 @@ Korna KHOnka CTapT CTON HaxOANTcA B pexuMe 《RUN》, npu OTKPbITNN n06on ABepn 
 Tocne 3akpbITNA BCex ABepen HTPegang naMna AA YTeHNA 6yqeT NocTeneHHO racHyTb, ecnn kakag-n6oABepb ocTanacb OTKpbITON, HTpenang namna AA YTeHNg 6yqeT ropeTb OKONO 30 ceKyHA, a 3aTeM BbIKNIOYNTCA.
 
 ### 3akponte KpblWKy kanota
-`baic_u5_plus_en_d6407f3c` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/ec6c79a17b95b49cedd59da3b12d0d4535aa1d3b663120387787b83db5a90eca.jpg)
 
@@ -1807,7 +1733,6 @@ pacnonoxeHa HaMHOrOCyHKLNOHaJbHOn naHennnepeknoyatenen B 几eBOM HNKHeMyrnynaHen
 Korna 3aropaeTcq ra6apnTHble OrHN,3aropaeTcq NoACBeTka kax1on KHONKNBHyTpN Bcero aBTOMO6nnA. pnnepeknoyeHnn KHONKN perynnpoBknAPKOCTN NOACBeTKN BBepx ApKOCTbNOACBeTKN kaxnon KHONKNyBenNyNBaeTCA; npn nepeknoyeHnnKHONKN perynnpoBkn NOACBeTKN BHИ3,4T06bl yMeHbWNTb ApKOCTb NOACBeTKNkaxqon KHONKN. Bcero 10 ypoBHenAPKOCTN NOACBeTKN.
 
 ### 3akponte KpblWKy kanota
-`baic_u5_plus_en_d2f51a08` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 KoM6nHNpoBaHHbln nepeknioyatenb CTEKNOO4NCTNTENA MoAenb 6e3 AaT4nka AXKAA\*
 
@@ -1840,7 +1765,6 @@ Pbl4ar perynnpoBKn BpeMeHN npepbIBNCTOn pa6oTbl: 3TOT pbl4ar NCnOnb3yeTCq AA per
 Korqa pbl4ar CTeKIOOYNCTNTEnA HAXONTcA B NOnokHNN 《LO》 (HN3KOCKOPOCTHON pexnM CTeKJOO4NCTnTena) NNN 《Hl》 (BbICOKOCKOPOCTHON pexnM CTeKNOOUNCTNTeNЯ), nepeAHnn CTeKJIOO4NCTNTenb 6yqeT pa6oTaTb Ha 3aAaHHOn CKOpOCTN, N cpyHKy ng aBTOMaTNyeCkoro Onpenenenng He 6yneT pa6oTaTb.
 
 ### 3akponte KpblWKy kanota
-`baic_u5_plus_en_bb8fd4bd` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/0902a96bb132bd55b126042272e5036f5491653a8f1165e924c78fd751fecd02.jpg)
 
@@ -1853,7 +1777,6 @@ Dnpn NpOTupaHnN 1o6oBoro CTekna npn HN3KNXTeMnepaTypax cneAnte 3a Tem, 4T06bl je
 He CTaBbTe pbl4ar CTeKNOOYNCTNTeNA B NonoxeHne 《AUTO》 npn MoNke ABTOMoonng Ha aBTOMaTNyeCKON Monke, Tak Kak 3T0 MOKeT nOBpeANTb CTeKNOOYNCTNTenb. CucTema AONKHA 6bITb BblKoyeHa, korqa CTeKNOOYNCTNTenb He HyxeH.
 
 ### AaTYNK AOAA/ CBeTa
-`baic_u5_plus_en_3f1e99de` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 AaTUNK AOKAA CBeTa pacnonoxeH Ha 1060B0M CTekne B03ne BHYTpeHHerO 3epkana 3aAHero BNqa. Ecnn AaT4NK NOKpbIT rp93b10, MacnOM, nblnbio N T. A., cpyHKLNA CTeKNIOOYNCTNTeNA 《AUTO》, cpyHKyNA aBTOOCBeTNeHNA cap N NIOK MoryT pa6oTaTb HenpaBnnbHO. Ecnn HaA AaT4NKOM PEKAR CBeTa AnnSSnPONN CBeT, NHppakpacHble nyyn, npeAMeTbl N T.A., CTeKJOO4NCTNTenb MOXeT HayaTb Cpa6aTbIBaTb.
 
@@ -1866,7 +1789,6 @@ Korqa KHONka CTapT CTON HaxOAntcA B pexuMe 《RUN》, NOTAHNTe pblyar CTeKNOOYNC
 Ecnn nepebecTN pblyar CTeKIOOYNCTNTENA B HanpaBJeHNN pyneboro koneca N yAep\*NBaTb ero, OMbIBaTenb 6yneT npoAonxatb pacnblngTb BOAy B TeyeHne 12 ceKyHA, a 3aTeM aBTOMaTNyeCKN OCTAHOBNTCA.
 
 ### BHyTpeHHee 3aAHero BNAa
-`baic_u5_plus_en_e48dc71c` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 nepeA BOXAeHNeM aBTOMo6nngOTperynnpyte BHyTpeHHee 3epkano,4T06bl nonyuNTb Hannyywnn yron0630pa. Aepxute 3epkano B 4NCTOTe.
 
@@ -1908,7 +1830,6 @@ HapyXHble 3epkana MOKHO CNOKNTb B CTopoHy aBTOMOONnA, NOTAHYB NX Ha3a.
 ![](images/182c0b24a24b19da34b8fb31a0a6fbefd036e42b21e3b96d9eff8b8af4c9d2e1.jpg)
 
 ### BHyTpeHHee 3aAHero BNAa
-`baic_u5_plus_en_9188132f` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 nocne 3anycka ABNraTeng HaXMИTe KHONKy pa3MopaxNBaHNa/ 3anOTeBaHNA 3aAHero CTekna 甲 Ha naHenn KOHANLNOHepa, 3aropNTcA NHANKaTOPHaA namnoyka Ha KHONke, 3epkana N 3aHee CTeKNO Ha4HyT HarpeBaTbcq AA OTTaNBaHNA N pa3MOpaXNBaHNg, npnMepHO 4epe3 15 MNHYT CNCTeMa aBTOMaTNyeCKN BbIKNIOYNTCA Ecnn Harpeb no-npexHeMy Tpe6yeTcg, HaXMNTe 3Ty KHONKy eme pa3.
 
@@ -1938,7 +1859,6 @@ KocMeTnyeckoe 3epkano
 Bbl MOxeTe NCNOJb3OBaTb 3epkano AA TyaJeTHbIX npnHaAneKHocten, OTKpbIB KpbIWKy Ha CONHUe3ALNTHOM KO3bIpbke.
 
 ### CnAeHbe
-`baic_u5_plus_en_e30abc69` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 △ pu ynpaBneHnn TpaHcnOpTHbIMCpeACTBOM kaTeropuyeckN3anpemaetcg NCNONb30BaTb 3epkano,4T06bl N36exaTb TpaBM B cnyyae3KCTPeHHorO TOPMOxeHnA NNNCTONKHOBEHNA.
 
@@ -1982,7 +1902,6 @@ HanpabneHne ① OTKNAbIBaHNeCNNHKN BnepeA; HanpabneHne ②OTKNAbIBaHNe CNNHKN Ha
 nepeknloyarenb B: HaxMuTe nepeknioyatenb BB kaxAom HanpaBneHNn, Kak yka3aHO CTpenkOn, 4To6bIOTperynnpoBaTb cnAeHbe. HanpabneHne ① CuqeHbe perynnpyeTcg Ha3aA; HanpabneHne ② Bce CNAeHbe perysnpyeTca BBepx; HanpaBneHue ③ Bce CNAeHbe perynnpyeTcg BnepeA; HanpabneHne ④ CugeHbe perynnpyetca BHN3.
 
 ### CnAeHbe
-`baic_u5_plus_en_a76be672` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/e9e78a4a7ac81641a4442f0980fbefb653a9874bba592fa5c03fd0b9b0d7542d.jpg)
 Py4Has perynnpobka nepeAHero naccaxnpckoro CnAnNN
@@ -2007,12 +1926,10 @@ Korga KHONka CTapT CTON HaxOANTcA B pexnme 《RUN》, HaKMNTe KHONKy noAorpeba C
 He NCNOnb3yuTe cpyHKLNIO nonorpeba CuqeHnn, ecnn y Bac HN3KaA Bonebag N TeMnepaTypHaa 4yBCTBNTeNbHOCTb, 4T06bl N36exaTb Oxorob CNNHbl, RROAnE N HOr OT 06orpebatena.
 
 ### 3aAHnX
-`baic_u5_plus_en_db00435b` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Ecnn BaM Hy>XHO nepebe3TN kpynHble npeqMeTbl B aBTOMo6nne, Bbl MOxeTe CNOXNTb CNNHKN 3aAHuX CnqeHnn, 4T06bl yBennyNTb npocTpaHCTBO B 6araxHnke.
 
 ### noAroTOBka K CKnaAbIBaHNIO
-`baic_u5_plus_en_8fe19b5d` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 OTperynnpyute nepeAHne ChAn BnepeA B HyXHoe nonoxeHne; OnycTnTe NOArOnOBHNKN 3aqHuX CNAeHNN B caMoe HN3KOe nonokeHne; [lepeMecTNTe peMHN 6e30nacHocTN C o6enx CTOpOH 3aHnX CnAeHNN Hapyxy.
 
@@ -2048,7 +1965,6 @@ Nocne yCTaHOBKN NOArONOBHNK AOnKeH 6blTb nPaBNNbHO OTperynpobaH B COOTBETCTBNN C
 4to6bl o6ecne4nTb xopomnn 0630p 3epkana 3aqHero BNqa B abTOMo6nne, NOATONOBHNKN 3aAHX CNAeHNN 06bI4H0 MOKHO OTperynnpobaTb B caMoe HN3KOe nonoxeHne. Ecnn Ha 3aHeM pRAy eAyT NIOAN, NOATONOBHNK Heo6xoquMO OTperynnpobaTb BBepx B COOTBeTCTBYIO山ee NonokeHne.
 
 ### yctponctbo ANA XPaHeHng
-`baic_u5_plus_en_fafc2fc3` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 loxanyicta, He Knaqnte B AWNK AA XPaHeHng aBToMo6nng TepMOCTONkne npeAMeTbl, Takne Kak WokonaA NNN JekapcTBa, a Takke HerepMeTu4Hble éMKOCTN C XNAKOCTbIO.
 
@@ -2103,7 +2019,6 @@ NCNonb3yNTe NOACTaKaHHNKN B kayecTBe nenenbHnu.
 3a CNNHKON nepeAHero ChAHbA pacnonokeH kapMaH AA XPaHeHng, KOTOpbIN MOKHO NCNOnb3OBaTb A Pa3meweHng HeKOTOpbIX nerknx N MAFKNX npeqMeTOB, TakNx KaKra3eTbl.
 
 ### yctponctbo ANA XPaHeHng
-`baic_u5_plus_en_d291499a` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Ecnn Bbl NOJOKNte CINWKOM 6onwne npeqMeTbl, 3t0 CkaxeTCA Ha kompopte 3aAHnx naccaxnpob, N MOXeT npNBeCTN K TOMy, 4TO cyMka AA XPaHehng He CMO\*eT BOCCTAHOBNTbCЯ nocne AecopMaunn.
 
@@ -2128,7 +2043,6 @@ He OCTABNANTe AeTen 6e3 npncmoTpa B TpaHCNOpTHOM CpeACTbe. Ecnn KHOnka CTapT 1 C
 3akpoiite ənekTpuyeckyio p03eTkynocne NCNOnb3OBaHNA, 4T06blnpeqOTBpaTNTb nonagahne B HeeNOCTOPOHHNX npeAMeTOB.
 
 ### BechpoboAHas 3apaAka\*
-`baic_u5_plus_en_231b5f0b` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/9153e3ddf0b748ff0054fc8c48b9722faf286afa74272218121a6d97716b6cca.jpg)
 
@@ -2143,7 +2057,6 @@ BecnpoboqHaa 3apaqka MOxeT nepnonyeckn OCTaHABNNBaTbCA N B0306HOBNATbCA npn ABNX
 Ecnn BaM HyXHO NCNOJb3OBaTb30Hy 3APRAkn B kayecTBe AwKA AAxpaHeHng, OTKJIOYNTe cpyHKLNIO6ecnpoboghon 3aPaAkn.
 
 ### 3aAHnn USB-nopT
-`baic_u5_plus_en_2331201f` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/9f849a9ae1617850e25ffb9068c2934ac3a4c1d427d1574f0dbcf554adcba341.jpg)
 
@@ -2154,7 +2067,6 @@ HenpaBunbHoe NCNOJb3OBaHNe ənekTpuyecknx p03eTOK N 3nekTpnyeckNX ycTpONCTB MOKe
 He OCTABNANTe AeTen 6e3 npncmotpa B TpaHCNOPTHOM cpeAcTbe. Ecnn KHOnka CTapT 1 CTON BKNoyeHa, AeTN Moryt cnyyanHo BOCNONb3OBaTbCA po3eTkon N NOAKJoYeHHbIM K Hen ənekTpoo6opyAoBaHneM. Ecnn NoAkJIoyeHHoe ənekTpoo6opyAobaHne neperpebaeTca, ənekTpoo6opyAOBaHne Heo6xoAnmo HeMeqneHHO BbIKJI04NTb N OTCOeQNHNTb OT p03eTKN.
 
 ### CncTeMa KHHANUNOHNPOBAHNN B03Ayxa
-`baic_u5_plus_en_226fa91d` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 CucTema KHHANUNOHNPOBAHNN B03Ayxa aBTOMo6nnA npeACTaBngeT co6on ycTpONCTBO ANA OxnaxAeHng, ocymeHna, Harpeba, BEHTNNALNN N O4NCTKN B03Ayxa B TpaHcnopTHOM cpeACTbe.
 CucTeMa KOHANLNOHNPOBHNN B03Ayxa pa6oTaeT TONbKO npn pa6oTao山eM ABNraTene N BeHTNNATOPe, no3TOMy AA nyywero KOHANUNOHNPOBHN B03Ayxa AepxNTe OKHa N NIOK 3aKpbITbIMN npu NCNOJb3OBaHNN CNCTeMbl KOHANLNOHNPOBAHNN B03Ayxa
@@ -2174,17 +2086,14 @@ i JletoM, korqa TpaHcNOpTHOe cpeACTBO noqbepraeTca B03AeNCTBNIO cOnHua, TeMnepaT
 Pyuka perynupoBKN 06beMa B03Ayxa KHonka BKNoYHNR / BIkNoYHng HxNarAennn (KHOnka A/C) KHonka BbIknIoyeHn CNCTeMbl (KHOnka OFF) KHonka OTTANBAHNA pa3MopaxNBaHng n06oBoro CTekna 中 KHonka OTTANBAHNA 一 pa3MopaxNBaHng 3aAHero CTekna 000 Py4ka perynnpOBkn TeMnepaTypbl KHonka Nepeksioyehng pexNMOB 06AyBa KHonka nepeksouehng BHyTPeHHen N BHeWHeN LuAkynsinn B03Ayxa
 
 ### Py4ka perynnpoBkN 06beMa B03Ayxa
-`baic_u5_plus_en_d96f1831` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Py4ka perynnpobkn loBepHNTe py4ky no 4acobon CTpenke, 4T06bl yBenN4NTb CKOpoCTb B03Ayxa Ha BbIxOAe, nOBepHNTe py4ky NPOTNB 4acobon CTpenKn, 4T06bl yMeHb山NTb CKOpoCTb B03Ayxa Ha Bblxone.
 
 ### BIknIoyHnn HRAauAonn (KHonka A/C)
-`baic_u5_plus_en_f7f28cc9` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 pn HaxaTNN KHONKN A/C 3aropaeTca NHANKaTOPHag naMnoyka Ha KHONke, kOMnpeccop HayNHaeT pa6oTaTb, N Ha Ancnnee PHRNROCN 3Ha40K A/C. pn NOBTOPHOM HaxaTun KHONKN komnpeccop nepecTaeT pa6oTaTb, NHANKaTOP Ha KHOnke racHeT, a 3Ha4OK A/C nc4e3aeT cAncnnen.
 
 ### KHonka BblknIoyenng CNCTeMbI (KHonka OFF)
-`baic_u5_plus_en_54b51cd9` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa CNCTeMa KOHANUNOHNPOBAHNA B03Ayxa BKNoyeHa, HaXMNTe KnaBn山y OFF, 4T06bl nepebecTn CNCTeMy B pexNM OKWAaHnn, re Ha Ancnnee OT06paxaIoTcA TONbKO pexuM Bblxona B03Ayxa N 3Ha4KN BHyTpeHHeN / BHeWHen LuAynninn BO3Ayxa. lepeknoyarenb pexNMOB MOKHO NCNOnb30BaTb AA pa6oTbl COOTBETCTBYIO山eN cpyHKLNn, HO CNCTeMa OcTaeTCA B pexuMe EunAnns. Apyrwe 3Ha4KN cyHKun OTKJIO4eHbl И He OTo6pa\*aIoTCA.
 
@@ -2193,19 +2102,16 @@ KHonka OTTaNBAHNA / pa3MopaxnBaHng no6oboro CTekna HaxaTne KHONKN OTTaNBAHNA / p
 i B nepnoA OTTaNBAHNA, ecnn Bbl 4yBCTByeTe, 4TO TeMnepaTypa B03Ayxa HN3Kaq, Bbl MO\*eTe OTperynupobaTb TemnepaTypy B03Ayxa Bpy4HyI KHONKON perynnpoBkn TeMnepaTypbl KOHANLNOHepa, 4T06bl o6ecne4nTb kOMpopT B aBTOMo6nne N əcbeKTNBHOCTb OTTANBAHNA.
 
 ### 5 KHonka OTTANBAHNA
-`baic_u5_plus_en_175413c5` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 #
 
 Pa3MOPaXNBaHng 3aAHero CTekna HaxMnTe KHONKy pa3MopaKNBaHng 3aHero CTeKna, 4T06bl BKJ1IO4NTb / BbIKNIO4NTb 06orpebatenb 3aHero CTekna. nocne HaxaTNR 3TOn KHONKN OH aBTOMaTNyeCKN BbIKNIoYNTCA npnMepHO 4epe3 15 MNHyT, ecnn YcnObnn BblnOnHeHbl, NNN Bpy4HyI0 nocne NOBTOpHorO HaxaTNA 3TON KHONKN.
 
 ### TeMnepaTypbl
-`baic_u5_plus_en_f72aab11` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 3ta py4ka perynnpyeT TeMnepaTypy BEHTNNAUNOHHbIX OTBePCTNN, nOBopaynBaa py4ky no yacobon CTpenke, 4T06bl NOBbICNTb TeMnepaTypy, N NPOTNB yacobon CTpenKN, 4T06bl NOHN3NTb ee.
 
 ### pexNMOB
-`baic_u5_plus_en_18920d77` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 HaxMNTe KHONKy nepeknoyeHng
 pexNMOB, 4T06bl nocnenobaTenbHo
@@ -2219,7 +2125,6 @@ AOCTnraeT 3aAaHHoro ypOBHa C
 nOMOWbIo nepeknoyateng pexNMOB.
 
 ### KHonka nepeknioyehng BHyTPeHHeN BHeWHeN WAPKAdstrn
-`baic_u5_plus_en_abd1d825` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa NHANKaTOPHaA naMnoyka ropuT, OHa yka3bIBaeT Ha pexnM BHyTpeHHen LNPKynsLNn, a korqa naMnoyka BblKnoyeHa, OHa yka3bIBaeT Ha pexNM BHeWHeN WNPKynnLnn. Haxarue KHONKN BHyTpeHHen N BHeWHen LAAKynnunn nepeknioyaeT CNCTeMy B pexnM LuPkynninn (ecnn 3T0 BHyTPeHHAA Funnirn nepeA HaxaTNeM, TO 3T0 6yneT BHRWHRA Puennitn nocne HaxaTNg; N Hao6opot).
 
@@ -2228,7 +2133,6 @@ Korqa NHANKaTOPHaA naMnoyka ropuT, OHa yka3bIBaeT Ha pexnM BHyTpeHHen LNPKynsLNn
 O6nacTb perynnpoBkn 06beMa B03Ayxa2 O6nacTb nepeksloyeHng pexNMOB3 O6nacTb perysnpoBKN TeMnepaTypblKHonka BbIKJoyeHNg CNCTeMbl (KHonka OFF)5 KHonka BKnoyHNg BbIKNIoyeHNg HxhakAennn(KHOnka A/C)6 KHonka nepekJIiOyeHngBHyTpeHHen W BHeWHeLuPKynsnnn B03AyxaKHonka OTTaNBAHNA pa3MOpa\*NBaHng 106oBoroCTekna8 KHonka OTTaNBAHNA pa3MOpaKNBaHN 3aAHeroCTekna
 
 ### l06nacTb perynnpoBkn 06beMa B03Ayxa
-`baic_u5_plus_en_ddb81187` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 3ta o6nacTb NO3BONAT perynnpobaTb B03AyWHbl NOTOK Ha BblXoAe B03Ayxa N OTo6paxaeT COOTBeTCTBYIOWNN ypoBeHb CKOpOCTN B03Ayxa.
 Kaxqoe HaxaTne KHONKN yBennyeHNg B03Ay山Horo NOTOka yBenN4NT B03AyWHbIN NOTOK Ha 1 AeneHne; B o6nactn perysupoBkn BO3Ay山HorO NOTOka CKONb3ИTe BBepx, 4T06bl yBenN4NTb CKOpOCTb B03Ayxa. MakcuMaJbHag CKOpoCTb B03Ay山HorO nOTOka COCTABNAET 8AeneHnn.
@@ -2236,34 +2140,28 @@ Kaxqoe HaxaTNe KnaBNWN yMeHbWeHNA BO3Ay山HorO NOTOka yMeHbWaeT B03Ay山HbIN NOT
 B pe\*nMe HURnRono CNCTeMa KOHANUNOHNPOBAHNN B03Ayxa BKJioyaeTcA HaxaTNeM KHONKN yBennyeHNg NNN yMeHb山eHNA B03Ay山HorO NOTOka.
 
 ### peKNMOB
-`baic_u5_plus_en_4d55cc00` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 KoCHNTeCb o6nactn nnua, Hor N OKHa, 4To6bl nepekJloyNTb pexnM B03Ay山Horo NOTOka COOTBeTCTBEHHO: 1 KoCHNTeCb TONbKO 06nacTn nnua: Bo3Ay山Hbl NOTOK K JNUy.
 
 KoCHNTeCb TONbKO o6nacTn HOr: Bo3Ay山Hbli NOTOK K HoraM. KoCHNTeCb nnua N HOr OAHOBpeMeHHO: Bo3Ay山Hbln NOTOK K nnuy N HoraM. KoCHNTeCb OKHa N o6nacTn HOr OAHOBPeMeHHO: Bo3Ay山HbI NOTOK K No6oB0My CTeKNy N HoraM. pn nepeknoyeHnn pexNMOB rpOMKOCTb B03Ayxa nOCTeneHHO AOCTNraeT 3aqaHHoro ypOBHA C nepeksoyaTenem pexNMOB AA NOBbIWeHNA KOMcopta.
 
 ### 3 O6nacTb perynnpoBkn TeMnepaTypbl
-`baic_u5_plus_en_f87af2fd` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 3ta 06nacTb MOXeT perynnpoBaTb TemnepaTypy B03Ayxa. Kaxxqbln pa3, korqa Bbl Ha\*NMaeTe KHONKy NOBbIWeHNg TeMnepaTypbl ycTaHOBNeHHaa TeMnepaTypa yBenNyNBaeTcA Ha 1 AeneHne; B 06nactn perynnpoBkn TeMnepaTypbl CABNHbTe BBepx, 4T06bl yCTaHOBNTb nOBbl山eHne TeMnepaTypbl. Kaxqoe HaxaTne KnaBNWN 6onee HN3KON TeMnepaTypbl NOHNXaeT TeMnepaTypy Ha 1 AeneHne; B o6nacTn perynnpoBkN TeMnepaTypbl npObeqNte BHN3, 4T06bl yCTaHOBNTb 6onee HN3KyIO TemnepaTypy.
 
 ### KHonka BIknIoYnnn CNCTeMbl (KHonka OFF)
-`baic_u5_plus_en_54a8985d` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa CNCTeMa KOHANL NOHNPOBAHNN BKIo4eHa, HaKMИTe KnaBN山y 《OFF》, 4T06bl nepebecTN CNCTeMy B pexuM OKuAAHNn, re Ha Ancnnee OTo6paxaIoTCg TONbKO pexnM Bblxoqa B03Ayxa N 3Ha4KN BHyTpeHHeN / BHeWHen WNAynninn B03Ayxa. TepeknloyaTenb pexNMOB MOKHO NCNONb30BaTb AR pa6oTbl COOTBeTCTBYIO山eN cpyHKLnn, HO CNCTeMa OcTaeTcA B pexnMe EKNAAnnn. Apyrne 3Ha4KN cpyHKuNn OTKNIOyeHbl И He OTo6paxaIOTCA.
 
 ### BIkNIoYHnn HxhakAnnn (KHonka A/C)
-`baic_u5_plus_en_26347768` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 pn HaxaTNN KHONKN A/C 3aropaeTca NHANKaTOPHag naMnoyka Ha KHONKe, KOMnpeccop HayNHaeT pa6oTaTb, N Ha Ancnnee PRnRON 3Ha4OK A/C. pu NOBTOPHOM HaxaTNN KHONKN kOMnpeccop nepecTaeT pa6oTaTb, namnoyka Ha KHOnke racHeT, a 3Ha4OK A/C Nc4e3aeT c Ancnnen.
 
 ### KHonka Hepeksoyenng BHyTPeHHeN 4 BHeWHeN NuAAnsetn
-`baic_u5_plus_en_7347b686` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 KorAa NHANKaTOPHaA namnoyka ropnT, OHa yka3bIBaeT Ha pexnM BHyTpeHHen LuPKynsunn, a korqa naMnoyka BblKJIoyeHa, OHa yKa3bIBaeT Ha pexnM BHeWHe LwPkynnunn. pu HaxaTuN KnaBNWN CNCTeMa nepeknoyaeT pexnm LNkna (ecnn AO HaxatnA 6bl BHyTPeHHN LNKN, TO nocne HaxaTn 6yAeT BHeWHNN LNKI; N Hao6opOT)
 
 ### pa3MopaxNBaHng no6oboro CTekna
-`baic_u5_plus_en_22b031de` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 HaxMuTe KHONKy OTTaNBAHNA 1 pa3MopaxNBaHng 几06oBoro CTeKna, CNCTeMa nepenqeT B pexnm OTTaNBaHNA / pa3MopaKNBaHNg 几o6oBoro CTekna. Tocne HAxaTNA KHONKN, cpyHKLnA HxNaAennn A/C 6yAeT BKNoyeHa aBTOMaTNyeCKN, N BO3Ay山HbI NOTOK 6yAeT aBTOMaTNyeCKN OTperynupobaH Ha 5-0 CKOpOCTb o6AyBa, pekOMeHAyeTcg He BbIKJo4aTb A/C Bpy4Hyio, NHaye 3T0 NOBNNRET Ha əcceKTNBHOCTb Aecnopaunn.
 
@@ -2272,7 +2170,6 @@ i B nepnoA OTTaNBaHNA, ecnn Bbl 4yBCTByeTe, 4TO TeMnepaTypa B03Ayxa HN3KaA, Bbl 
 KHonka OTTANBAHNA 1 pa3MopaxNBaHng 3aAHero CTekna KoCHNTeCb KHONKN pa3MOpaKNBaHng / OTTaNBaHNA 3aHero 106oBoro CTeKna, 4T06bl BKNIO4NTb / BbIKJIO4NTb 06orpeB 3aAHero CTeKna. nocne HaxarNg KHONKN OH aBTOMaTNyeCKN OTKNIOYNTCA npuMepHO 4epe3 15 MNHyT, ecnn ycnobne on BblnOnHeHO, NNN Bpy4Hyio, HaxaB KHONKy eme pa3.
 
 ### Ncnonb3oBaHne KOHANUNOHePa
-`baic_u5_plus_en_7eb2738b` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 KOHANLNOHep o6ecneynBaeT cpyHKLnN PXNaxAenng, o6orpeBa N ocyweHna. OxnaxqeHne NOHNXaeT TemniepaTypy KOHANLNOHepa N yAangeT Bnary N3 B03Ayxa; Harpeb noBblWaeT TemnepaTypy BO3Ayxa. KOHANuNOHep pa6oTaeT TONnbKO npn pa6oTaomeM ABNraTene N BeHTNNATOpe, no3TOMy npn NCNONb3OBaHNN KOHANuNOHepa AepxnTe OKHa ИNIOK 3aKpblTbIMИ. Pa6oTa CNCTeMbl KOHANUNOHNPOBAHNg B03Ayxa co3aeT AONOnHNTenbHyIO Harpy3ky Ha ABNraTenb. B 3KCTpeMaJbHO xapknx ycnOBnAX WNN korna ABNraTenb AONKeH pa6oTaTb C NONHON Harpy3ko (Hanpumep, npn noqbeme Ha ANNHHbIe XOnMbI WNN BOXAeHNN B neperpyxeHHOM TpaHcnopte), 3T0 npNBeneT K NOBblWeHNIO TeMnepaTypbI ABNraTenЯ. Ecnn cTpenka yka3ateng TeMnepaTypbl oxnaxqaomen XNQKOCTN ABnraTeng npnnnxaetca K KpacHon 30He, BbIKJIO4NTe KOHANLNOHep, noka TeMnepaTypa ABnraTeng He npnAeT B HopMy. Ecnn BJaXHOCTb B03Ayxa BblcOkaa, npn BKJIo4eHNN CNCTeMbl KOHANLNOHNPOBAHN MOxeT B03HИKHYTb nerkoe 3anOTeBaHNe CTeKOn, 4TO RBRTCR HOpMaJbHbIM ABNeHNeM. 3anoTeBaHne NC4e3HeT nocne Toro, KaK CNCTeMa KOHANLNOHNPOBAHNA B03Ayxa nopa6oTaeT OKONO HeCKOJbKNX ceKyHA.
 
@@ -2288,17 +2185,14 @@ iB ycnOBNAX BbICOKNX TemnepaTyp, ecnu npu 3anycke ABuraTeng TeMnepaTypa B03Ayxa 
 Py4ka peryninpoBkn 06beMa B03Ayxa 2 KHOnka BnonHNn 1 BbIKioYeHNg HxarAnnn (KHonka A/C) KHonka BbIknoyHnR CNCTeMbl (KHonka OFF) KHonka OTTANBAHNA pa3MopaxNBaHng n06oBoro CTekna KHonka OTTANBAHNA 1 pa3mopaxNBaHng 3aAHero CTeKna Py4ka perynnpoBkn peMnepaTypbl KHonka aBTOMaTNyecKoro ynpabnenng (KHonka AUTO) KHonka nepeknoyehng pexNMOB 06AyBa 9 KHonka Nepeksoyehng BHyTpeHHen N BHeWHeN WuPKnsann B03Ayxa
 
 ### Py4ka perynnpoBkn 06beMa B03Ayxa
-`baic_u5_plus_en_c757eddb` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 loBepHNTe py4ky no 4acobon CTpenke, 4T06bl yBenN4NTb CKOpOCTb B03Ayxa Ha BbIxOAe, NOBepHNTe py4ky npOTNB yacobon CTpenKN, 4T06bl yMeHbWNTb CKOpOCTb B03Ayxa Ha BbIxone.
 
 ### BiknIoyHnn HHAkAnnn (KHonka A/C)
-`baic_u5_plus_en_91fef475` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 pn HaxaTNN KHONKN A/C 3aropaeTca NHANKaTOPHag naMnoyka Ha KHONke, kOMnpeccop HayNHaeT pa6oTaTb, N Ha Ancnnee PHRBnRON 3Ha40K A/C. pu NOBTOPHOM HaxaTNN KHONKN komnpeccop nepecTaeT pa6oTaTb, NHANKaTOP Ha KHOnke racHeT, a 3Ha4OK A/C nc4e3aeT cAncnnen.
 
 ### KHonka BbIknoYHng CNCTeMbI (KHonka OFF)
-`baic_u5_plus_en_cdef8a1b` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa CNCTeMa KOHANUNOHNPOBAHNN BKNoyeHa, HaKMNTe KHONKy 《OFF》, CNCTeMa nepexoANT B pexnM DuAannn, B 3TOM COCTORHNN Ha Ancnnee OTo6paxaeTcg TONbKO pexnM BblxOqa B03Ayxa N 3Ha4KN BHyTPeHHeN 1 BHeWHen LwPkynnunn. lepeksouatenb pe\*NMOB MOKHO NCNONb30BaTb AA pa6oTbl COOTBeTCTBYIOmen cpyHKLnN, HO CNCTeMa OcTaeTCA B pexuMe HKuAannn. Apyrwe 3Ha4KN cyHKun OTKJIO4eHbl N He OTo6paxaIoTCA.
 
@@ -2307,24 +2201,20 @@ KHonka OTTaNBAHNA / pa3MopaxnBaHng no6oboro CTekna HaxaTne KHONKN OTTaNBAHNA / p
 i B nepnoA OTTaNBaHNA, ecnn Bbl 4yBCTByeTe, 4TO TeMnepaTypa B03Ayxa HN3Kaa, Bbl MOxeTe OTperynnpoBaTb TemnepaTypy B03Ayxa Bpy4HyI KHONKON perynnpoBkn TemnepaTypbl KOHANLNOHepa, 4T06bl o6ecne4nTb KOMpopT B aBTOMo6nne N 3cbcpeKTNBHOCTb OTTaNBAHNA.
 
 ### pa3MopaxNBaHng 3aAHero CTekna
-`baic_u5_plus_en_79772988` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 HaxMNTe KHONKy pa3MopaxnBaHNg 3aHero CTeKna, 4T06bl BKJ1IO4NTb / BbIKNIO4NTb 06orpebatenb 3aAHero CTekna. nocne HaxaTNg 3TOn KHONKN OH aBTOMaTNyeCKN BbIKNIOYNTCA npnMepHo yepe3 15 MNHyT, ecnn YcnObnn BblnonHeHbl, WNN Bpy4HyI0 nocne NOBTOpHorO HAxaTNA 3TON KHONKN.
 
 Py4ka perynnpobkn
 
 ### TeMnepaTypbl
-`baic_u5_plus_en_f72aab11` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 3ta py4ka perynnpyeT TeMnepaTypy BEHTNNAUNOHHbIX OTBePCTNN, nOBopaynBaa py4ky no yacobon CTpenke, 4T06bl NOBbICNTb TeMnepaTypy, N NPOTNB yacobon CTpenKN, 4T06bl NOHN3NTb ee.
 
 ### ynpabneHng (KHonka AUTO)
-`baic_u5_plus_en_2677e110` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 HaxMnTe KHONKy AUTO N CNCTeMa KOHANUNOHNPOBAHNN B03Ayxa nepenqet B NONHOCTbIO aBTOMaTNyeCKN pexnm pa6oTbl. B 3TOM pexnMe HaxaTne no6oro N3 nepeknoyatenen pexNMOB, perynnpoBkN 06beMa B03Ayxa, KHONKN A/C, nepeknoyateng BHyTpeHHen / BHeWHe PuhPkynnunn NNN KHONKN OTTaNBAHNA pa3MopaxNBaHNg n06oboro CTekna npnBeneT K TOMy, 4TO CNCTeMa BblNONHNT KOMaHAy 3TON KHONKN N BbIAeT W3 pexnMa AUTO. Apyrne cpyHKLNn, KOTopble BbINONHNNCb aBTOMaTNyeCKN, 6yAyT npononxatb ynPaBnaTbcA CNCTeMON aBTOMaTNyeCKN; HaxaTue Ha KHONKy OTTaNBaHNA / pa3MopaKNBaHNg 3aqHero CTekna IPOAOnnt perynnpoBky TeMnepaTypbl, pexNM AUTO, 6e3 kakoro-nn60 əcbcpekTa; HaxaTne KHONKN BblKNoyeHNn CNCTeMbl OCTaHaBNNBaeT CNCTeMy KOHANUNOHNPOBAHN B03Ayxa N BblKJoyaeT KOHTpOnnep.
 
 ### peKNMOB
-`baic_u5_plus_en_7d5c4ee6` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 HaxMuTe KHONKy nepeknoyeHng pexNMOB, 4T06bl nocneAobaTenbHO nepeksoyaTb pe\*nMbl:
 
@@ -2338,7 +2228,6 @@ AOCTNraeT 3aAaHHoro yPOBHa C
 nOMOWbIO nepeknoyateng pexNMOB.
 
 ### BHyTPeHHeN BHeWHeN NuAnnisn
-`baic_u5_plus_en_d46686ca` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa NHANKaTOPHaR naMnoyka ropNT, OHa yka3bIBaeT Ha pexNM BHyTpeHHe LNPKynnunn, a korqa namno4ka BbIKNIoyeHa, OHa yka3bIBaeT Ha pexuM BHeWHe LNPKynnunn. Haxarue KHONKN BHyTpeHHen N BHeWHen LAPKynnunn nepeknoyaeT CNCTeMy B pexnm WuAynnann (ecnn 3T0 BHYTPeHHAA PuPnsits nepeA HaxaTneM, TO 3T0 6yqer BHeWHAA FuPnnann nocne HaxaTNA; N Hao6opoT).
 
@@ -2347,7 +2236,6 @@ Korqa NHANKaTOPHaR naMnoyka ropNT, OHa yka3bIBaeT Ha pexNM BHyTpeHHe LNPKynnunn,
 O6nacTb perynnpoBkn 06beMa B03Ayxa 2 O6nacTb nepeksioyeHng pexNMOB O6nacTb perynnpoBkn TeMnepaTypbl KHonka BblknoyeHnn CNCTeMbl (KHOnka OFF) 5 KHonka BKNoYeHNA BbIKJIIoyeHNR HxHaronn (KHonka A/C) 6 ABTOMaTNyeckag KHONka ynpabneHng (KHonka AUTO) KHonka nepeknoyeHng BHyTpeHHen N BHeWHen LHPKynnLNn B03Ayxa 8 KHonka OTTaNBaHNA pa3MOpaKNBaHNg no6oBoro CTekna KHonka OTTaNBAHNA pa3MopaxNBaHng 3aHero CTekna
 
 ### l06nacTb perynnpoBkn o6beMa B03Ayxa
-`baic_u5_plus_en_b56e9043` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 3ta o6nacTb NO3BONAT perynnpobaTb B03Ay山Hbl NOTOK Ha BblxOAe B03Ayxa N OTo6paxaeT COOTBeTCTBYIOWNN ypoBeHb CKOpOCTN B03Ayxa.
 Kaxqoe HaxaTne KHONKN yBennyeHNg B03Ay山HorO NOTOka yBenN4NT B03Ay山HblN NOTOK Ha 1 AeneHne; B o6nacTn perysupoBkn BO3Ay山HorO NOTOka CKONb3ИTe BBepx, 4T06bl yBennyNTb CKOpOCTb B03Ayxa. MakcnMaJbHag CKOpoCTb B03Ay山HorO NOTOka COCTABNAET 8 AeneHnn.
@@ -2355,36 +2243,30 @@ Kaxqoe HaxaTue KnaBNWN yMeHbWeHNg BO3Ay山HorO NOTOka yMeHbWaeT B03AYWHbIN NOTOK
 B pexnMe HURnanon CNCTeMa KOHANLNOHNPOBAHNN B03Ayxa BKJIoyaeTCA HaxaTNeM KHONKN yBennyeHng NNN yMeHbWeHNg B03Ay山HorO NOTOka.
 
 ### peKNMOB
-`baic_u5_plus_en_0face4f7` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 KoCHNTeCb o6nactn nnua, Hor И OKHa, 4To6bl nepeknoyNTb pexuM B03Ay山Horo NOTOka COOTBeTCTBEHHO: T KoCHNTeCb TONbKO 06nacTn nnua: Bo3Ay山Hbl NOTOK K NNUy.
 
 KoCHNTeCb TONbKO o6nacTn HOr: Bo3Ay山Hbl NOTOK K HoraM. KoCHNTeCb nnua N HOr OAHOBpeMeHHO: Bo3AymHbln NOTOK K nnuy N HoraM. L KoCHNTeCb OKHa N 06nactn HOr OAHOBPeMeHHO: Bo3AymHbln NOTOK K nepeAHeMy no6oB0My CTeKJIy N HoraM. pn nepeknoyeHnn pexNMOB rpOMKOCTb B03Ayxa nOCTeneHHO AOCTNraeT 3aAaHHoro ypOBHg C nepeksoyatenem pexNMOB AA NOBbIWeHNA kOMcopta.
 
 ### 3 O6nacTb perynnpoBkn TeMnepaTypbl
-`baic_u5_plus_en_a62a0a3d` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 3ta o6nacTb MOXeT perynnpoBaTb TemnepaTypy BO3Ayxa. Kaxqbln pa3, korqa Bbl HaxNMaeTe KHONKy NOBbIWeHNg TeMnepaTypbl ycTaHOBNeHHaa TeMnepaTypa yBennyNBaeTCA Ha 1 AeneHne; B o6nactn perynnpoBkn TeMnepaTypbl CABNHbTe BBepx, 4T06bl yCTaHOBИTb NOBbIWeHNe TeMnepaTypbl. Kaxqoe HaxaTne KnaBNWN 6onee HN3KON TeMnepaTypbl NOHNKaeT TeMnepaTypy Ha 1 AeneHne; B 06nacTn perynnpoBKN TeMnepaTypbl npObeqNte BHN3, 4T06bl yCTaHOBNTb 6onee HN3KyIO TeMnepaTypy.
 
 ### KHonka BIknIoYnnn CNCTeMbl (KHonka OFF)
-`baic_u5_plus_en_b0464283` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa CNCTeMa KOHANL NOHNPOBAHNNBKIo4eHa, HaKMИTe KnaBN山y 《OFF》,4T06bl nepebecTN CNCTeMy B pexuMOKuAAHNn, re Ha AncnneeOTo6paxaIoTCg TONbKO pexNM BblxoqaB03Ayxa N 3Ha4KN BHyTpeHHeN /BHeWHe LwPkynnunn.TepeknloyaTenb pe\*NMOB MOXHONCNOnb30BaTb AA pa6oTblCOOTBeTCTBYIO山eN cpyHKLnn, HOCNCTeMa OcTaeTcA B pexnMeEKNAAnnn. Apyrne 3Ha4KN cpyHKuNnOTKNIOyeHbl И He OTo6paxaIOTCA.
 
 ### BIkNIoYHnn HxhakAnnn (KHonka A/C)
-`baic_u5_plus_en_8676ecd3` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 pu HaxaTNN KHONKN A/C 3aropaeTcq WHANKaTOPHAR namnoyka Ha KHONke, koMnpeccop HayNHaeT pa6oTaTb, N Ha Ancnnee PIRNROCN 3Ha4OK A/C. pu NOBTOPHOM HaxaTNN KHONKN KOMnpeccop nepecTaeT pa6oTaTb, namnoyka Ha KHONke racHeT, a 3Ha4OK A/C Nc4e3aeT cAncnnen.
 
 ### NonHOCTbIo aBTOMaTNyeCkaa
-`baic_u5_plus_en_9d66d670` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 KHOnka ynpabnehng (KHOnka AUTO) HaxMNTe KHONKy AUTO, 4T06bl nepentn B NONHOCTbIO aBTOMaTN4eCKNN pexnm pa6oTbl. B 3TOM pexnMe kacaHne no6oro N3 nepeknoyatenen pexNMOB, perynnpOBKN o6beMa B03Ayxa, KnaBNWN A/C, nepeknoyateng BHyTpeHHero 1 BHeWHerO LNKna WNN KnaBNWN OTTANBAHNA 1 pa3MopaxNbaHNg nepeAHero no6oBoro CTekna npnBeneT K
 
 BblnONHeHNIO CNCTEMON KOMaHAbI KnABNWN N BbIXOAy N3 pexnMa AUTO. Apyrne cbyHKLnN, KOTOpble BbINNHNC aBTOMaTNyeCKN, 6yAyT npoAonxatb ynpaBnTbcA CNCTeMON aBTOMaTNYeCKN; pu HaxaTNN KHONKN OTTaNBaHNA / pa3MopaxNBaHNg 3aAHero CTekna perynnpoBka TeMnepaTypbl, pexNM AUTO npononxaet pa6oTaTb 6e3 kakoro-nn60 əcpekta; pn HaxaTNN KHONKN BblKNoYeHNg CNCTeMbl, CNCTeMa KHANuNOHNOBHNn B03Ayxa OCTaHaBJNBaeTCA N KOHTpOnnep BbIKJoyaeTCA.
 
 ### BHyTPeHHeN N BHeWHeN WHAAdntrn
-`baic_u5_plus_en_d19479b2` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa NHQNKaTOPHan namnoyka ropnT, OHa yka3bIBaeT Ha pexnM BHyTpeHHen LNPKynnLnn, a korqa naMnoyka BblKNIoyeHa, OHa yka3bIBaeT Ha pe\*nM BHeWHe WwPKynsunn. pu HaxaTNN KnaBNWN CNCTeMa nepeknoyaeT pexuM LNkna (ecnn A0 HaxaTNA 6bl BHyTpeHHN LNKN, TO nocne HaxaTNA 6yqeT BHeWHNN LNKI; N Hao6opoT).
 
@@ -2393,7 +2275,6 @@ KHonka OTTaNBAHNA N pa3MopaXNBaHng no6oboro CTekna HaxMNTe KHONKy OTTaNBaHNA N p
 i B nepnoA OTTaNBaHNA, ecnn Bbl 4yBCTByeTe, 4TO TeMnepaTypa B03Ayxa HN3Kaa, Bbl MOxeTe OTperynnpoBaTb TemnepaTypy B03Ayxa Bpy4HyIO KHONKON perynnpoBkn TeMnepaTypbl KOHANLNOHepa, 4T06bl 06ecne4NTb KOMpopt B aBTOMo6nne N əddeKTNBHOCTb OTTaNBAHNA.
 
 ### pa3mUpaknbannx 3aAHero CleKJia
-`baic_u5_plus_en_3d9a8b99` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 KoCHNTeCb KHONKN pa3MOpaKNBaHNg / OTTaNBaHNA 3aHero CTekna, 4T06bl BKNIO4NTb 1 BbIKNIO4NTb 06orpeB 3aAHero CTekna. Nocne HaxaTNA KHONKN OH aBTOMaTNyeCKN OTKNIOYNTCA npnmepHO yepe3 15 MNHYT, ecnn ycnobne He BblnOnHeHO, WNN Bpy4HyIo, HaxaB KHONKy eme pa3.
 
@@ -2411,7 +2292,6 @@ KBannduuNpOBaHHbIMn TeXHNyeCKNMN cneunannctaMn.
 4to6bl noAAepKNBaTb CNCTeMy B ONTNMAJbHOM COCTOAHNN, Bnaqeneu TpaHcnopTHorO cpencTBa AOnKeH y6eANTbCA, 4TO CNCTeMa pa6oTaeT, no kpanHen Mepe, B TeyeHne KOpOTKNX nepnonob BpeMeHN kaxAyo Heqeno (Aaxe B XONOAHble 3NMHNe MecAUbl). Korna ABNraTenb HaxOANTCA npu HOPManbHOn pa6oyen TeMnepaType, 3anycTNTe KOHANLNOHeP He MeHee 4eM Ha 10 MNHyT N nocTapaiTecb noAAepXNBaTb pa6oTy ABTOMo6nnA Ha NOCTORHHON CKOpOCTN.
 
 ### pa3mUpaknbannx 3aAHero CleKJia
-`baic_u5_plus_en_59d5b083` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 N3nNWKN BOAbl, o6pa3yiomneca B npouecce JxnaxAennn N ocyweHnA,
 
@@ -2459,7 +2339,6 @@ KoHKpeTHoe 3Ha4eHne 3anncaHHoro cOAepxaHng:
 CoCTORHNe TOPM030B: CnTyauna C TOpM03aMN B MOMeHT abapnn. CkopoCTb TpaHCNOpTHOrO cpeACTBa: CkopocTb TpaHcNOpTHOrO cpeAcTBa B MOMeHT CTONKHOBEHNA. NAeHTNOuKau NOHHbIn KOA TpaHcnOpTHOrO cpeACTBa: HoMep VIN TpaHcnOpTHOrO cpeAcTBa. 1 Bca BblwenepeyncneHHag whpopmaunn 3anNCbIBaeTCЯ AA HHnyuennn CBeAeHNn 0 COCTORHNN aBTomo6nng Ha MOMeHT abapnn E AN o6neryenng paccnenobaHng aBapnn TpeTben CTOPOHON (Hanpumep, npaBooxpaHNTenbHbIMN opraHamn). AA C4NTbIBaHNA AaHHbIX, 3anncaHHblX EDR, Tpe6yeTca cneunanbhoe 06opyAOBaHNe N pa3peweHne Ha NCNONb3OBaHNe aBTOMo6nng WNN EDR AA C4NTbIBaHNA COOTBeTCTBYIOWeN NHpOpMaunn. TloMnMO NpON3BOANTenA aBTOMO6nna, AOCTyN K WHOOPMaunN MoryT nonyynTb TpeTbN nnua Co cneuNann3npoBaHHbIM 06opyAOBaHNeM (HanpnMep, npaBooxpaHnTenbHble opraHbl) npn Hannynn pa3peweHng Ha NCNONb3OBaHNe aBTOMo6NnA WNN EDR.
 
 ### pa3mUpaknbannx 3aAHero CleKJia
-`baic_u5_plus_en_bec26ec9` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ANarHocTNyecKNN NHTepcenc
 
@@ -2495,7 +2374,6 @@ Ecnn Bbl NCNOnb3yeTe naMnbl,KOTOpble npeBbl山aIOT HOMNHaJbHyIOMOWHOCTb, 4T06bl 
 3anyck N BOKAeHNe O6kaTka HOBOrO abTOMo6nnA Mepbl nPeAOCTOPOKHOCtn npn o6kaTke A Toro 4T06bl yBenN4NTb cpoK cnyx6bl aBTOMO6NnR, HOBble aBTOMo6nnN B Hayane əkcnnyaTaunn cneAyeT nOqBeprHyTb npo6hon 06kaTke, npexqe 4eM NX MOXHO 6yAeT HOpMaJbHO NCNONb3OBaTb:
 
 ### pa3mUpaknbannx 3aAHero CleKJia
-`baic_u5_plus_en_606b7611` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 po6er nepnona o6kaTkN COCTABNAeT: 1500kM. Bbl6upauite xopomyio Aopory N e3qNTe C He6onbmon Harpy3kon. He npeBblwante 80% OT MakcuManbHOn CKOpOCTN. . He HaxNMate neqanb ra3a Ha non, 4T06bl 6bICTpo pa3OrHaTbcЯ. . B TeyeHne nepBblX 500kM N36eravte abapnuHoro TOPMOKeHNg.
 
@@ -2504,7 +2382,6 @@ Ctporo co6nogante npabnna əkcnnyaTaunn N NOAAepKNBaNte HopManbHyiO pa6o4yi0 TeM
 B nepnoA o6kaTKN He AonyckaNTe pa6oTy ABNraTeng Ha cuKCNpOBaHHOn CKOpOCTN B TeyeHne AnNTenbHorO BpeMeHn.
 
 ### O6kaTka ABnraTenA
-`baic_u5_plus_en_9a4dc441` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 3to He TONbKO NPOAnnt cpoK cyx6bl ABnraTena, HO W CHN3NT pacxon TOnnnBa nocne ero 06kaTKN no Mepe Heo6xoqNMOCTN. HoBble ABNraTenn NNN ABNraTenn, npomeqmne KannTanbHbln peMOHT, AONKHbI npontn o6kaTky nepea HOpManbHOn əkcnnyataunen, N B nepnoA 06kaTKN Heo6xoqnMo co6nonaTb cnenyiomne npabnna:
 
@@ -2544,7 +2421,6 @@ nonoxeHne.
 y6eqnTecb, 4TO Bce NCTOYHNKNCBeTa pa6oTaoT npaBnnbHO.y6eqnTecb, 4TO KOM6nHauNgnpn6opoB pa6oTaeT npaBnnbHO.y6eqntecb, 4TO CNrHanbHblenamnoykn pa6oTaioT npaBNnbHO,korqa KHONka CTapT CTON HAxOANTcAB pexnme 《RUN》.OTnyCTNTe CTORHOYHbIN TOpM03 Ny6eqnTecb, 4TO NHANKaTOpCTOAHOYHOrO TOpM03a BbIKIoyeH.
 
 ### KHonka CTapT CTON
-`baic_u5_plus_en_aa31beb3` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/c38b340942433b08cd2d016f041fd5ae4ba5da5ebd38bc25078d65eec213d291.jpg)
 
@@ -2579,7 +2455,6 @@ i 3anyctnte ABNraTenb, korqaKHOnka CTapT 1 CTON HAxOAntcg BpexnMe 《OFF》, ecn
 Korna KHONka CTapT CTON HaxOAntcA B pexnMe 《OFF》 NNN 《ACC》, HaXMNTe Ha neqanb TOpM03a N HaKMNTe KHONKy CTapT / CTON, ecnn nepena4a He HAxOANTcA B P WNN N, KOM6NHNpOBaHHbIn N3MepNTenb OTo6pa3NT 《lloxanyicta, 3anycTИTe B P NnN N》,abTOmo6nnb He 3anyCTNTCЯ, a KHOnka CTapT 1 CTON nepenget B pexnm 《RUN》.
 
 ### KHonka CTapT CTON
-`baic_u5_plus_en_17dd08b3` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Ecnn CKOpOCTb TpaHcnOpTHOrO cpeqcTba COCTABNAET ≤ 2KM/4, nepena4a aBTOMaTN4eCKN nepeknoyaeTca Ha P. Ecnn CKOpoCTb TpaHCNopTHOrO cpeAcTba COCTABNAeT > 2KM/4, pbl4ar nepeksloyehng nepenay 6yneT nomemeH B N, a KOM6nHNpOBaHHbIn N3MepNTenb 6yAeT OTo6paxaTb "lloxanyicta, nepeksoynTecb Ha PAng napkOBKN> AA yka3aHNg.
 
@@ -2606,7 +2481,6 @@ Ecnn ABnraTenb NCNbITbIBaeT TPyAHOCTN C 3anyckOM, He3anyckante cTapTep HenpepbIB
 Ipn TemnepaType okpyxao山en cpeAbl -10°℃ WNN HNxe Bpemg 3anycka ABNraTeng MOXeT yBennYNTbCA. 1lo3ToMy npn 3anycke cneqyeT OTKNIoyaTb Bce HeHyXHOe 3nektpoo6opyAoBaHne.
 
 ### BblKJO4NTe ABNraTenb
-`baic_u5_plus_en_049fffcf` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A Monenen C MexaHN4eckon kopo6kon nepenay HaKMNTe Ha nenanb cuenneHna, 4T06bl nepebecTn pbl4ar nepeksioyeHng nepenay B HevTpanbHoe nonoxeHne, BKNIOyNTe CTOAHOYHbIN TOpMO3, HaXMИTe KHONKy 6ecKo4eBoro 3anycka / OCTaHOBKN OANH pa3, ABNraTenb BbIKIOYNTCA, N OTNyCTNte neqanb cLenneHng. An Moqenen C aBTOMaTN4eCkON kopo6kon nepeqay HaKMNTe Ha nenanb TOpM03a, OCTaHOBNTe aBTOM06unb, nepebeqnte pbl4ar nepeknioyeHng nepeqay B nonoxeHne N, BKJIO4NTe CTOAHOYHbIN TOpM03 N nepebeqNte pbl4ar nepeknoyeHng nepenay B NonokeHne P. HaxMnte KHONKy CTapT CTON 6e3 Ko4a OANH pa3,ABNraTenb BbIKJIOYNTCA N nenanb TOpM03a 6yneT OTny山eHa.
 
@@ -2640,7 +2514,6 @@ He BKnoyante nepenauy BOBPema pa6oTbl ABnraTena, aHaxNMaTe Ha nenanb TOpM03a,4T0
 3anyck N OCTaHOBKa TpaHcNopTHoro cpeACTBa
 
 ### BblKJO4NTe ABNraTenb
-`baic_u5_plus_en_5675a8f2` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. HaxMnTe Ha nenanb TOpM03a B non, NOCTaBbTe pbl4ar nepeknoyehng nepenay B 《P》 NNN 《N》 N 3anycTNTe ABNraTenb;
 
@@ -2655,7 +2528,6 @@ Korqa TpaHcnopTHOe cpeACTBO npnnapkobaHO, CTOAHOYHbIN TOpM03 aBTOMaTNyeCKN BKNIo
 B pexnMe HuunSoOn CNCTeMbl aBTOMaTNyeCKON napkOBKN nepena4a HAxOAntcA B NONHUU 《D》 NNN "R》, neqanb TOpM03a HaxaTa BO Bpema ABNKeHNA, N korqa aBTOMo6nnb OCTaHABNNBaeTCA, CNCTeMa aBTOMaTNyeCKON napkOBKN nepexoqnt B COCTOAHNe BbINOnHeHNA, KOTopoe aBTOMaTNyeCKN yAep\*NBaeT CTORHOYHbIN TOpM03.
 
 ### Bbl6op nepeAay (Knn)
-`baic_u5_plus_en_d3f94537` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 《P》 nepena4a (lapkoBag nepena4a):Ncnonb3yiite npn napkOBke WNN3anycke ABNraTena. Ipexqe 4eMNOCTaBNTb pbl4ar nepeknoyeHngnepenay B 《P》, y6eqnTecb, 4TOaBTOMo6nnb NONHOCTbIO npnnapkobaH.pn napkOBke 3Ta nepenayanpeAoTBpa山aeT 3aHOC.
 
@@ -2688,7 +2560,6 @@ CncTeMa 3aAHero xona aBTOMaTNyeCKN aKTNBNpyeTCЯ, N N306paxeHne 3aAHero xona OTo
 △ Bo BpeMa ABNKHNA He cneAyet pe3ko nepeBOqNTb pbl4ar nepeknioyeHng nepeqay B NonoxeHne 《R》 WNN 《P》, NHaye MOKHO nObpeANTb kopo6ky nepenay WNN Aaxe nonacTb B abapnio.
 
 ### Bbl6op nepeAay (Knn)
-`baic_u5_plus_en_576bd831` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1He yckopante 06opoTbl ABnraTeng npn OCTaHOBKe TpaHcnOpTHOrO cpecTBa, TaK KaK 3T0 MOXeT NpИBeCTИ K HeOKNAaHHOMy ABNKEHNIO TpaHcnOpTHOrO cpencTba.
 
@@ -2732,7 +2603,6 @@ Nepena4a 3aAHero xoAa
 2. Nocne HaxaTnA Ha neqanb Cuennenng B TeyeHne npuMepHo 3- 5 ceKyHA nepeMecTNTe py4ky nepeknioyeHng nepenay B 《R》 nepenauy;
 
 ### Bbl6op nepeAay (Knn)
-`baic_u5_plus_en_5f36b71d` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 3. Tocne nepeksioyeHng Ha nepeqayy MeqneHHO OTNyCTNTe neqanb cuennenng N HaKMNTe Ha nenanb ra3a, 4T06bl OTNyCTNTb CTOAHOYHbIN TOpMO3, N TpaHcNOpTHOe cpeACTBO 6yAeT ABNraTbCA Ha 3aAHen nepeqaye.
 Ha qaHHbl MOMeHT:
@@ -2765,7 +2635,6 @@ Cnoco6 napkoBkn
 4. Aepxnte npn ce6e ueHHble BeWN N KIO4N OT aBTOMo6nnA N 3annpante BCe ABepn. Ecnn NHANKaTOPHaR namnoyka NPOTNBOyrOHHON CNCTeMbl Ha npu6opHon naHenn MNraeT cna6bIM CBeTOM, 3T0 03Ha4aeT, 4T0 NpOTNBOyrOHHag CNCTeMa aKTNBNpOBaHa;
 
 ### Bbl6op nepeAay (Knn)
-`baic_u5_plus_en_cf96a038` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 5. pn napkoBke Ha cnycke C 6opAIopom nOBepHNTe pynb TaK, 4T06bl koneca 6blnn 06pameHbl K 6opAiopy, npnnapkoBke Ha noAbeMe C 6opAIopom nOBepHNTe pynb Tak, 4To6bl koneca HaxOAnncb B CTOpOHe OT 6opAopa. pu napkOBke Ha KpyTOM cnycke NNN noqbeme NCNOnb3yTe 6nOK An OCTaHOBKN Konec.
 
@@ -2794,7 +2663,6 @@ AByXKOHTypHag ruApaBnnyeckan CNCTeMa, ecnn OAHa uenb BbIXOANT N3 CTpOR, Apyrag y
 . BakyyMHbl ycNnnTenb, NCNONb3yeT BakyyM ABnraTeng AA yMeHbWeHNg YCunnn Ha nenann TOpM03a.
 
 ### Bbl6op nepeAay (Knn)
-`baic_u5_plus_en_0da3c847` | u5_plus | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 . AHTn6nokNpOBO4Hag TOpM03Haa CNCTeMa (ABS), coxpaHaeT xopomyio KypcOByI yCTOM4NBOCTb npn abapuHOM TOPMOKeHNN.
 3nekTpoHHag CNCTeMa pacnpeqeneHng TOPM03H0r0 Yuunnn (EBD), aBTOMaTNyeCkag perynnpobka koəppuuneHTa pacnpeneneHng TOpM03HOr0 YCunnn MexAy nepeAHen N 3aAHen WARMO AA NOBbIWeHNA əcceKTNBHOCTN TOPMOKeHNA.
@@ -2820,19 +2688,16 @@ Mokpble Aoporn: npu ABNKeHNN noJyxam NNN NOA nPONNBHbIM AoXAeM,a Takxe nocne MON
 Aoporn c NCNOJb3OBaHNeM peareHTOB:npn ABNKeHNN no Aoporam CNCNOnb3OBaHNeM peareHTOB, ecnnTOpM03a He NCNONb3OBaNNCb BTeyeHne AnNTenbHoro nepnogaBpeMeHn, TOPM03Hble ANCKN NKONOAKN 6yAyT NMeTb CONHHON cnonHa HNX N əcpeKTNBHOCTbTOPMOXeHNA 6yAeT CHuxeHa, nO3TOMycnerka HaXMИTe Ha nenanb TopM03aHeckOnbkO pa3, 4T06bl yAanNTb cnonCONN CANCKOB N KONONOK.
 
 ### 3. TopHas cpeqa
-`baic_u5_plus_en_bfff0629` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 B CBA3N c rophon cpenon C ANNHHbIMNCKNOHaMN, TOPM03 NCNOnb3yeTCA4acto N B TeyeHne AnNTenbHOrOnepnona BpeMeHN N 4acTo B ycnOBNAXBbICOKON NHTEHCNBHOCTN TOPMOKeHNg,
 
 Bce 3TN pakTopbl yxyA山aioT ЗcbcpeKTNBHOCTb TOPMOXeHNA. lo3ToMy npn ABNXeHNN aBTOMo6nnA NoA ropy He AonyckaNTe 3aHoca Ha HevTpanbHon nepeqaye N CTapaNTeCb N36eraTb yacToro TOPMOKeHNЯ. Crapaitecb NCNONb30BaTb NOHNXeHHble nepenaun, 4T06bl KOHTpOnNpOBaTb CKOpOCTb aBTOMo6nnA C nOMOWbIo TOPMOKeHNA ABNraTeneM, 4TO MOXeT CHN3NTb NHTeHCNBHOCTb pa6oTbl KOneCHbIX TOPM030B N yMeHbWNTb TeMnepaTypy TOPM030B. pn NCNOJb3OBaHNN TOPMOXeHNA C nOMOWbio ABNraTena, 4eM HNxe nepenaya, TeM BblWe 06opoTbl ABNraTeng, TeM 6onbwe co3AabaeMag cuna COnPOTNBnHNg N TeM əccekTuBHee TOpMOxeHNe.
 
 ### 4. BblCOkoropHaa cpena
-`baic_u5_plus_en_7b8286ee` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 B CBA3N C pa3pexeHHbIM B03AyXOM N HИ3KИM AaBneHneM B03Ayxa B BblCOkoropHon MeCTHOCTN, BakyyMHbl ycnnntenb TOPMOXeHNA 6yneT yMeHbWeH, no3TOMy npn TOPMOKeHNN B BblcokoropHon MeCTHOCTN Heo6xoANMO npNKnaAblBaTb 6onbwee ycnnne Ha nenanb TOpM03a. Korna BaM HyXHO 3aTOPMO3NTb, He npNMeHaNte neqanb TOpMO3a, PPumessn ToyeyHbln TOpM03, a AepxnTe Hory Ha neqann TopM03a, 4T06bl o6ecne4nTb 3ccpeKTNBHOCTb TOPMOKeHNA, KOHTpOnnpyg ycnnne nenann TOpM03a.
 
 ### 5. CHer N NeA
-`baic_u5_plus_en_5205cf08` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 B CBA3N C HИ3KNM KOЗccnuneHTOM TPeHng CHera N NbAa TOPM03HON nyTb 3Ha4NTenbHO yBenN4NBaeTCy, npn4em TOPM03HO nyTb ybennyNBaeTcg C pOCTOM CKOPOCTN, no3TOMy npn ABNKeHNN no CHery N NbAy cneAyeT yAenATb oco6oe BHNMaHNe KOHTPONIO CKOpOCTN N co6nonaTb 6onbmyio 6e3onacHyio ANCTAHLNIO A0 BnepeAn NAymero aBTOMo6nng N nONyTHbIX aBTOMo6nnen
 
@@ -2862,7 +2727,6 @@ ABS AHtn6noknPoBOyHaaTopMO3Hag CncTeMa
 ABS AHTn6nOkNpoBo4Hag TOpMO3HagCNCTeMa npeAOTBpa山aeT 6noknpoBkykonec BO BpeMg TOpMOxeHNg, 4TOnoMoraeT BOANTeNIO nyuweKOHTpOnNpOBaTb HanpaBneHneTpaHCNOpTHOrO cpeAcTBa NyMeHb山NTb ABneHNe 3aHoca npnTOpMOXeHNN Ha CKONb3KNXAOporax.ABS npeAynpexgaioman naMnoykaHeNCnpaBHOCTN
 
 ### 5. CHer N NeA
-`baic_u5_plus_en_9ec248df` | u5_plus | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 Ecnn BO BpeMЯ ABNKeHNA 3aropaeTcgnpeaynpexqaiomas naMnoykaHeNcNpaBHOCTN ABS CNCTeMaABS HencnpaBHa N ee cneAyeTo6cnyxNTb, nepeABuragcb HaHe6onbmon CKOpOCTN, B 6nnxaimemnunenckOm HIeHTne BAIC MOTORABS Kak pa6oTaeTaHTn6noknpoBoyhas TOPMO3HaaCNCTeMa
 Korqa CNCTeMa ABS pa6oTaeT, BblMOxeTe NO4yBCTBOBaTb ApoxaHneneqann TOpM03a N ycnblwaTb 3ByK《Knau》, 4TO RBnSTS HOpManbHbIMABJEHNEM N He yka3bIBaeT HaHeNCNpaBHOCTb.
@@ -2888,7 +2752,6 @@ Korqa KHOnka CTapT CTON 6e3 Kioya HaxOANTcA B pe\*nMe 《RUN》, a aBTOMo6unb Ha
 Korqa TpaHcNOpTHOe cpeACTBO npunapkoBaHO N KHOnka CTapT / CTON 6e3 Ko4a HaxOANTcA B pexnMe "RUN》, CTOAHOYHbIN TOPM03 OTnyCKaeTCA nyTeM HaxaTNA 3nekTpOHHoro nepeknioyateng CTOAHOYHOrO TopM03a ?) BBepx AA NPNMeHeHng 3neKTpOHHoro CTOAHOYHOrO TOPMO3a. 3aropaeTcg NHANKaTOP BblKnoyateng 3neKTpOHHoro CTOAHOYHOrO TopM03a ① N 3aropaeTcy NHANKaTOP CTOAHOYHOrO TOpM03a P Ha KOM6NHauNN npn6opoB.
 
 ### 5. CHer N NeA
-`baic_u5_plus_en_bea96f93` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ABTOMaTN4eCKOe OTnycKaHNe NNN npnMeHeHne 3neKtpoHHoro CTOAHO4HOrO TOpM03a
 pn HaxaTNN KHONKN CTapT CTON 6e3 Ko4a B pexnMe 《RUN》 3a\*NMaeTCA CTOAHOYHOe nonoxeHne, npNCTerNBaeTcg peMeHb 6e30nacHocTN BOANTENA, 3akpbIBaIOTCA Bce ABepu, nepena4a HaxOANTcA B 《D》 WNN 《R》 (6e3 ynpabneHng 3neKTpOHHbIM nepeknoyatenem CTOAHOYHOrO TOpM03a), a 3neKTpOHHbIn CTOAHOYHbIN TOpM03 aBTOMaTNyeCKN OTnyCKaeTCA HaxaTneM nenann akcenepaTopa. B 3TOT MOMeHT 3nekTpOHHbln NHANKaTOP nepeknoyateng CTOAHOYHOrO TOpM03a racHeT, a WHANKaTOP CTOAHOYHOTO TopM03a ? Ha KOM6nHaLNN npn6opoB racHeT.
@@ -2919,7 +2782,6 @@ Tocne Toro, kak TpaHcnopTHOe CpeACTBO aBTOMaTNyeCkON TpaHCMNccnen OCTaHOBNNOCb, 
 Ecnn neqanb TOpM03a He Haxata, CTORHOYHbIN TOpM03 He 6yAeT OTny山eH npn HaxaTNN Ha 3nekTpOHHbln BblKNoyaTenb napkOBKn. Ha Ancnnee KOM6NHNpoBaHHoro N3MepNteng OTo6paxaeTCA Haqnncb 《lloxanyicta, HaKMNTe Ha TOpM03, 4T06bl pa36nokNpoBaTb 3neKTpOHHyIO napkOBKy》.
 
 ### 5. CHer N NeA
-`baic_u5_plus_en_223939d2` | u5_plus | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 B HeKOTOpbIX oc06blX cnyyaax, ecnn 3nekTpOHHbln CTORHOYHbIN TOpM03 He Tpe6yeTca AA napkOBkN aBToMo6nng, aBTOM06nJb He 6yzeT BKJo4aTb CTOAHOYHbIN TOpM03, ecnn HaxaTb N yAepXNBaTb 3nekTpOHHbln BblKNlo4aTenb napkOBKN 6onee 3 CeKyHA AO BbIKNIoyeHNg KHONKN CTapT / CTON N BbIKNoyeHNg 3AxnraHng abTomo6nng.
 
@@ -2937,7 +2799,6 @@ Korqa TpaHCNOpTHOe cpeACTBO 3acTpano Ha rPA3HbIX Aoporax N AONKHO ABNraTbCq B3aA
 Ecnn NHANKaTOPHAR namnoyka ESP MNraeT BO BpeMg ABNKEHNA, CNCTeMa ESP B HaCTOg山ee BpeMa BbINONHAeT HacTpovky CTa6nnn3auNn. Ecnn NHANKaTOPHaA namnoyka ESP NOCTORHHO ropnT BO BpeMa ABNKeHNA, CNCTeMa ESP HencnpaBHa, N aBTOMo6nnb cneAyeT OTOrHaTb B 6nnxaiwnn Annepcknn LeHTp BAIC MOTOR Ha He6onbwon CKOPOCTNANA 06cnyKNBaHng.
 
 ### PyHKunA ESP BblKNloyeHa
-`baic_u5_plus_en_6de2201b` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/8a587fc84bff4aad8f1a775ffe39ad253a7da75a5f75cf7ae49f7b5e7a0f70b6.jpg)
 
@@ -2981,7 +2842,6 @@ RES/+ nepena4a (nepekniounte pbluar KpyN3-KOHTPOng BBepx): AA c6poca KpyN3-KOHTP
 3anyck kpyN3a
 
 ### PyHKunA ESP BblKNloyeHa
-`baic_u5_plus_en_260429b0` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. pnBeqnte pblyar KpyN3-KOHTPOng B nonoxeHne ON/OFF (HaXMNTe pblyar KpyN3-KOHTPONA Hapyxy B BepTNKaJbHO NJOCKOCTN pyneboro koneca), cpyHKLN KpyN3-KOHTPOnR BKJoyeHa, a 6enbln KpyN3-NHANKaTOp B KOM6nHaLNN npn6opoB 3aropaeTca;
 
@@ -3016,7 +2876,6 @@ HaxMNTe Ha neAanb TOpM03a. lepeknoynte kopo6ky nepenay Ha N.
 llepebeqnte pbl4ar kpyN3-KOHTpong B NonokeHne CANCEL (NOTAHNTe pblyar KpyN3-KOHTpOng K NNOCKOCTN pyneboro koneca ）.
 
 ### Korna ESP pa6oTaeT.
-`baic_u5_plus_en_4ca57a5f` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Bo306HoBJeHne KpyN3-KOHTPOna Tocne BpeMeHHoro OTKJIOYeHNA KpyN3-KOHTpOng, korqa CKOpOCTb aBTOMo6nng npeBblWaeT 40KM/4, BKNIOyNTe pbl4ar KpyN3-KOHTPONA B RES/+ (nepekJiounte pbl4ar KpyN3-KOHTpOng BBepx), 3aropntca 3eneHbln KpyN3-NHANKaTOp 2 Ha KOM6nHaLNN npn6opob CKOpoCTb aBTOMo6nng BepHeTCA K nocneqHeMy 3Ha4eHNIO NAMATN CKOpoCTN N coxpaHNT CKOpoCTb TpaHCnopTHOrO cpencTba. lepebeqnte pblyar KpyN3-KOHTpOng B NonoxeHne SET/- (nepeknounte pblyar KpyN3-KOHTpOng BHN3), 4T06bl ABNraTbCA C Tekymen CKOpoCTbl0.
 
@@ -3038,14 +2897,12 @@ Korqa kaMepa nokpbITa AoxAeM, CHeroM, rpA3bt0, NbAOM N T.A., əTa CpyHKyna MOKeT
 ycnObNaX HO4N, AEKAA, cHera, TyMaHa, TEHN N Apyrux YCNOBnnx BAHHAg cyHKynA 6yqeT NMeTb noKHble cpa6aTbIBaHNg N nponyckn. noxanyicta, e3qNte OCTOPOXHO.
 
 ### Hactponkn CNCTeMbl
-`baic_u5_plus_en_d3f34f41` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/1a3ef996444a10faf568e64053fc22d4007d0aa4bd122145ce0581d7a1db4c2b.jpg)
 
 onb30BaTenn MoryT Bbl6paTb pexnM TpeBorn И4yBCTBNTeNbHOCTb cpyHKLNN npeAynpexqeHng 0 Bble3Ae N3 nonocbl ABNKeHNA 4epe3 NHTennekTyanbHbln aBTOMo6nnbHbln KOMnbIOTep.
 
 ### AKTNBaUNA N AeaKTNBaUNg
-`baic_u5_plus_en_39988035` | u5_plus | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 ![](images/fb7bd75d118436cda401bac64cfed9be5d27ca225fb359655d56100fd72d65a4.jpg)
 
@@ -3061,7 +2918,6 @@ Korqa 山npnHa nonocbl ABNKeHNA MeHee 2,5m.
 i Korqa aBTOMO6nnb HaxOANTcA B NOACBeTke, 6nnkax N Apyrnx YCnObnax okpyxao山en cpeabl, yHKunA HpeAynpexqehng 0 Bbixoqe N3 nonocbl ABNKHNR MOKeT HeHaAonro 6blTb HeaKTNBHON, NNN cpa6oTaeT BHKHSR Tpebora, CurHanN3aLNg, CNCTeMa aBTOMaTNyeCKN B0306HOBNTCA 4epe3 onpeqeneHHbln nepnon BpeMeHN, noxanyncta, e3xante OCTOpOXHO.
 
 ### NHTeppenc Aucnnen
-`baic_u5_plus_en_68e04d8d` | u5_plus | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 ![](images/8519f13d869f5a7b0a7f3b189914c74991a87221358a8cc8693ad90491822e2e.jpg)
 
@@ -3103,7 +2959,6 @@ C6poc AaBnenng B WNHax
 Korqa Ancnnen AaBneHNg B WNHax HeHOpManbHbln, nnb30BaTenN AONKHbI Bbl6paTb 6e30nacHyio 30Hy AA OCTaHOBKN N npobepkn WИH. no BO3MOKHOCTN pekOMeHAyeTca N3MepNTb AaBneHne B WNHax A NATPKAhng HencnpaBHOCTN (korqa WNHa MeAneHHO cnyckaeTca, ee TpyAHO pa3nn4NTb HeBoopyKeHHbIM rna30M), nocne ycTpaHeHNg HencnpaBHOCTN HyXHO c6pocNTb AaBneHne B WNHax, HaxaB N yAepxnBaa KOneCNKO B TeyeHne 5 cekyHA.
 
 ### NHTeppenc Aucnnen
-`baic_u5_plus_en_14b71bc7` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 C6poc AABneHng B WNHax Tpe6yeTcg B cneAyio山nX cyyaax:
 Korna TpaHCNOpTHOe cpeACTBO npoexano 6onee 10 000 KM NNN OANH roA C MOMeHTa nocneqHero c6poca; . PeMOHT WNH NNN 3aMeHa No6on WNHbl koneca;
@@ -3135,7 +2990,6 @@ pn BKNIoyeHHON CNCTeMe napkOBO4Horo panapa, ecnn CNCTeMa 06HapyXNT HenCnpaBHOCTb
 A CncTema napkOBoyHoro panapa RBnRER NNWb CNCTeMOn NOMOmN npn ABNKeHNN 3aAHNM xOAOM, BOANTENI no-npexHeMy Heo6xoMo 06pamaTb BHNMaHNe Ha okpyxaomyi o6cTaHOBky BO Bpema ABNKEHNA 3aqHNM xoJom.
 
 ### NHTeppenc Aucnnen
-`baic_u5_plus_en_1d73c8d3` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 YnbTpa3ByKOBOn AaT4NK napkoBoyHoro panapa NMeeT cnenyio 30Hy npn 06HapyxeHuN ApeNaTCTBNn, n03TOMy npn ABNKeHNN 3aAHNM XOAOM BOANTenb AonxeH 6blTb BHNMaTenbHbIM, 4T06bl N36exaTb abapu npn ABuxeHnn 3aAHNM xoAoM.
 
@@ -3165,7 +3019,6 @@ OnncaHne HenCNPaBHOCTN CNCTeMbl N306paxeHnA 3aAHero xoAa
 Ecnn CNCTeMa 06HapyxNBaeT coo6meHne 0 HencNpaBHOCTN npn BKJIOYeHHON kaMepe 3aqHero BNAa, Ha MynbTNMeANHOM Ancnnee OT06pa3NTCA 3kpaH WHANKAUNN HeNcNpaBHOCTN.
 
 ### NHTeppenc Aucnnen
-`baic_u5_plus_en_30e521c7` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/c337d938c91b3a4c2e47b676b39cb421a9555210c3e9e8a9baafba1931a7766f.jpg)
 
@@ -3206,7 +3059,6 @@ ABepu OTKpbITbl. 3epkana CKnaqbIBaIOTCA. KpbI山ka 6araxHoro HTAEnEHNg He 3akpbl
 i NaHopaMHaa kamepa ycTaHOBJeHa Ha BHeWHe CTopOHe canoha abTomo6nng N nerko NOKpbIBaeTCq rPa3bto, ecnn Bbl 06Hapyxnte, 4TO BNAeO He 4eTkoe, pekOMeHAyeTca Bpy4Hyi0 npoTepeTb nOBepXHOCTb o6beKTNBa MArKON TKaHbIO. laHopaMHas BNQeocNcTeMa BKNoyaeT B ce6g cneAyomne OCHOBHble cpyHKunN: KoHTponnep NnaBHO 06beANHgeT N306paxeHNg C 4eTbIpex kamep, pacnonoxeHHbIX BOKpyr kopnyca, popmupya naHopamHoe N306paxeHNe 360°, KOTopoe noxoke Ha N306paxeHne, noJyyeHHoe cBepxy, N MOeT npeACTaBNTb N306paxeHne BOKpyr kopnyca B copMate 360°.
 
 ### NHTeppenc Aucnnen
-`baic_u5_plus_en_bbe4631f` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 NOA CNCTeMON naHopaMHoro 0630panpn HaxaTNN KHONKN kaMepbl BOkpyrnaHopaMHoro aBTOMo6nnA PAnHag06nacTb o630pa MOKeT 6blTbnepeksoyeHa Ha BWACOOTBeTCTBYIOWeN nepcnekTNBbl.
 
@@ -3244,7 +3096,6 @@ NaHopaMHas CNCTeMa npn ycnobnn Korqa KHOnka CTapT CTON 6e3 knioya HaxOANTcA B pe
 lepena4a nepeknoyaetca Ha 《R》.Ecnn TpaHCNOpTHOe CpeACTBO HeHaxoqNTcA Ha nepena4e 《R》 NCKOpoCTb TpaHcNOpTHOrO cpeqcTbaCOCTABNAET MeHee 30KM/4, HaXMNTenaHopaMHbln nepeknioyatenb.C Korqa TpaHcnOpTHOe CpeACTBO HeHaxOANTcA Ha nepenaye R N CKOpOCTbTpaHcnOpTHOrO cpeAcTBa COCTABNAeTMeHee 30KM/4, paqap napkOBKNTpaHcNOpTHOrO cpencTbao6Hapy\*NBaeT npengTCTBNe nepeATpaHCNOpTHbIM CpeACTBOM, korqa HanpenaTCTBne cpa6aTbIBaeTNaHopaMHaa 中yHKLNS.Korqa CurHan nOBOpoTa BKNoyaeTnaHopaMHyio cbyHKLNIO, TpaHcnOpTHoecpeACTBO He HaxOANTcA HaR-nepena4e, a CKOpOCTbTpaHcNOPTHOrO cpeAcTBa COCTABNAETMeHee 30KM/4, BKNIOYNTenepeknioyatenb NOBOpOTHNKa (neBblnNOBOPOT NNN npaBblM NOBOPOT).
 
 ### NHTeppenc Aucnnen
-`baic_u5_plus_en_1075f925` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ycnobna BbIXoAa N3 CTPOA CNCTeMbl naHopaMHoro N306paxeHNA
 Korqa AVM BKNIO4eH, ero MOXHO OTKJIOYNTb, BbINONHNB no6oe N3 cneAyIolnX ycnoBnn:
@@ -3288,7 +3139,6 @@ CaMbli ManeHbKu 06beKT, KOTOpblN CNCTeMa MOxeT 06HapyxNTb, COCTABNAET OKONO 50cM
 CucTeMa MOXeT 06HapyxNBaTb 06beKTbl TONbKO B npenenax 3,5 MeTpOB cnepeqn Ha3aA N 2 MeTpOB cneba Hanpabo, nknogan cnenyio 30Hy kamepbl.
 
 ### NHTeppenc Aucnnen
-`baic_u5_plus_en_02bf86e2` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 9ta cpyHKLng NCNOJb3yeTCATONbKO AA Toro, 4T06bl noMo4bBOANTENIO 6e30nacHo ynpaBnTbaBTOMo6nneM, N He OTHOCNTCA KCNCTeMe 6e30nacHocTn ABNKEHNAaBTOMO6nng. OHa nrpaeT nNWbBCNOMOraTenbHyIO ponb N He MOXeT3aMeHИTb KOHTpONb BOANTENA.
 
@@ -3313,7 +3163,6 @@ Korqa CNCTeMa 06HapyxNBaeT ABNKyWNNCA 06beKT, Ha Ancnnee KOM6nHauNN npu6opob OTo
 Korqa CNCTeMa 06Hapy\*NBaeT ABNKyWNNCA 06beKT, BKJioyaeTcA TONbKO npeAynpexqaomaa naMnoyka BSD B HapyXHOM 3epkane 3aHero BuAaN3ByKOBO CurHan.
 
 ### AKTNBaLNA N AeaKTNBaLNA
-`baic_u5_plus_en_5df2e216` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/086228f80da67b3d4e44709e93d37641280856cbd55cf75d46b7483ade9d9ed5.jpg)
 
@@ -3349,7 +3198,6 @@ NHANKALNA:
 y6eqNTecb, 4TO kpacHbln N xenTbln npeAynpexqaiomne namnoykn Ha KOM6nHaunN npn6opoB He rOpaT.
 
 ### AKTNBaLNA N AeaKTNBaLNA
-`baic_u5_plus_en_1022cb4d` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 TopM03a:
 ABuraiitecb Ha He6onbWon CKOpoCTN, HHMHN 0 6e3onacHocTn, HaXMNTe Ha neqanb TOpM03a N y6eqNTecb, 4TO TopM03a HaqexHbl, 4T0 aBTOMo6unb He 3aHOCNT, N 4TO TOpM03a He N3AaIOT HNKaKNX Heo6bI4HbIX 3BYKOB.
@@ -3383,7 +3231,6 @@ pn o6pa6oTke 3aHero CTekna aHTno6neeHnTeneM 6yAbte OCTOpOXHbl, 4T06bl He nOBpeAN
 byAbTe 04eHb OCTOpOXHbl npu ABNKEHNN no CKONb3KON Aopore. He AonyckanTe pe3koro yckopeHna, pe3koro nOBOpOTa N abapnnHoro TOPMOKeHng. He NCNOnb3yNTe cpyHKLMIO KpyN3-KOHTPOng.
 
 ### AKTNBaLNA N AeaKTNBaLNA
-`baic_u5_plus_en_fabe9cb6` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Korqa HacTynNT 3NMa, o6paTNTeCb K Annepy BAIC MOTOR AA 3NMHeN NOArOTOBKN N TexHNyeckoro XwcnyKnBaann aBTOMo6nnen.
 
@@ -3400,14 +3247,12 @@ NoArOTOBbTeCb K3NMe:
 1. Heo6xoANMo 3apaHee 3aMeHNTb KNAKOCTN B COOTBeTCTBNN C HN3KOTeMnepaTypHOn cpenon: . Ncnonb3yite HN3KOTeMnepaTypHOe Macno C npaBnnbHOn BA3KOCTbIO; . Bbl6epute oxnaxAaomyio XNAKOCTb, Oonmonnmn AA HN3KOTeMnepaTypHOn cpenbl; Ncnonb3yuTe aHTnppN3, NIAXOARmNn AA HN3KOTeMnepaTypHOn cpeqbl. 2. IpoBepbTe WИHbl, 4T06bl y6eqNTbCA, 4T0 OHN NMeIOT AOCTaTO4HyIO rny6nHy npoTeKTopa; 3. pn Heo6xoqNMOCTN npno6peTNte KOMNneKT WNHHbIX uenen, NOAXOAAEX K nepeAHNM konecaM; 4. y6eqnTecb, 4TO aKKyMyJTOp HaxOANTCA B xopowem COCTOAHNN; 5. B 3aBNCNMOCTN OT nyHKTa Ha3Ha4eHNA, pekOMeHAyeTcA B3ЯTb C co6on HeKOTopble Heo6xoqNMble abapnHble IpnHaAneHOCTn: Ckpe6ok AA O4NCTKN CHera N nbAa, yCTpONCTBO AA noAaun npo6neckoBoro curHana, nonata, ka6enn nepeMbI4KN, HacOC И T.A.
 
 ### nepeA BOXAeHNeM:
-`baic_u5_plus_en_c622ff2e` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. He OTKpbIBaTe 3aMep3Wne OKHa CunOn N He ABuranTe 3aMep3山NMИ CTeKNOOUNCTNTENAMN, NCNOJb3yNTe Tennyio BOAy, 4T06bl pacTONNTb 3amep3山yio o6nacTb, N HeMeqNeHHO BbITpNTe BOAy, 4T06bl npeqOTBpaTNTb npnMep3aHne;
 
 2. y6epnte CHer N neA N3-1OAKpblJbeB.
 
 ### Bo Bpema BARAnnn:
-`baic_u5_plus_en_c7231252` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 An Monenen C aBTOMaTNyeCKON kopo6kon nepenay, ecnn aBTOMO6nnb OCTaBNeH B XONOAHbIX ycNOBNAX Ha ANNTenbHbIn nepnoA BpeMeHN (Hanpumep, B TeyeHne HO4N), aBTOMo6nnb MOKeT OTCTaBaTb npn nepeboqe pblyara nepeknoyehng B nonoxeHne Drive nocne 3anycka ABnraTeng. 3to ABnEHNE 3aMeTHO TONbKO nocne XONOAHOrO 3anycka N Nc4e3aeT nocne ABNKEHNA aBTOMo6nng.
 
@@ -3415,14 +3260,12 @@ enanb akcenepaTopa He AONKHa HaXNMaTbCA B nepnon 3ana3AblBaHnA, N kopo6ka nepena
 3anyckaite nnaBHO N ABnraNTeCb Ha CKOPOCTN, COOTBETCTBYIO山eN AOPOXHbIM yCNOBNAM.
 
 ### Npn napkobke:
-`baic_u5_plus_en_e0a27464` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 pn napkOBke Ha POBHON nOBepXHOCTN yCTaHOBNTe pblyar nepeksoyeHng nepenay B nonoxeHne 《P》 (MOqenn C aBTOMaTNyeCKON kopo6kon nepenay) WNN NOCTaBbTe pyuky nepeknioyeHng nepenay B HeTpanbHoe nonokeHne (Monenn C MexaHnyeCkon Kop06kon nepenay) N 0693aTenbHO BKNIOYNTe CTORHOYHbIN TOpM03.
 
 △npn napkoBke Ha KpyTOM CKJOHe Heo6xoNMO 3aTЯHyTb CTOAHOYHbIN TOpM03.
 
 ### CoBeTbl no TopMoxeHnIO
-`baic_u5_plus_en_276e8023` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 He NCNOnb3yuTe neqanb TOpM03a B ka4ecTBe NOACTABKNANA HOr. Ecnn BO BpeMa ABNKHNN Bbl nONOKNte Hory Ha neqanb TOpM03a, TOPMO3HaA CNCTeMa MOKeT neperpeTbca. 3t0 MOKeT yBenn4NTb TOPM03HON nyTb N Aaxe npNBeCTN K HeNcNpaBHOCTN TOPM03HON CNCTeMbl, co3Aabaa pNCK abapnn.
 
@@ -3447,7 +3290,6 @@ N36eraite Hnanannn FPA3n Ha XOAOByIO yacTb aBTOMo6nnA, 4TO He TONbKO yMeHbWNT Be
 TopMo3a MoryT HaMOKHyTb npnMOMke aBTOMo6Nng WNN npnABNKeHNN no rny6okon Boqe. BequteaBTOMo6nnb Ha He6onbwon CKOPOCTNN HeCKOJbK0 pa3 cnerka HaKMNTe Hanenanb TOpM03a, 4T06bl 6bICTpoBblCy山NTb TOpM03a, o6ecneynbag npu3TOM 6e30nacHoe BOKAeHNe. BeqnteaBTOMo6nnb OCTOPOXHO, N ecnnTOpM03a He pa6oTaoT 6e30nacHo,OCTaHOBNTe aBTOMo6nnb, korqa 3T06yqeT 6e30nacHo, N o6paTNTeCb 3anoMoWbio B ANnepcknn 4eHTp BAICMOTOR.
 
 ### CoBeTbl no TopMoxeHnIO
-`baic_u5_plus_en_24ecfa79` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 epeA HayanoM ABNKEHNA y6eqNTecb, 4To CTORHOYHbIN TOpM03 OTnymeH.
 
@@ -3460,7 +3302,6 @@ pn ABNKeHNN no ANNHHOMY N KpyToMy CKJIOHy CHИ3bTe CKOpoCTb N nepekJoyNTecb Ha N
 pu ABNKeHNN N36erante ry6oknx BOAHbIX nOBepxHocTen, 4T06bl He HaMO4NTb TOpM03a.
 
 ### 3KOHOMN4Hoe Boxqehne
-`baic_u5_plus_en_022f3215` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 3KOHOMN4Hoe BOXAeHne 3T0 He TONbKO cnoco6 CЗKOHOMNTb TONNNBO, HO N cnoco6 3a山NTbl okpyxaomen cpeAbl. BoT HeCKONbKO COBeTOB no 3KOHOMN4HOMy BOXAEHNIO:
 
@@ -3496,7 +3337,6 @@ ExeAHeBHoe TeXHNyeCkoe 06cnyxnbaHne
 naHOboe TeXHNyeCkoe o6cnyxnBaHne = 3T0 NyHKT, KOTOpbIn cneAyeT npOBepRTb KaxAbin AeHb nepeA HayanoM 06bI4Hor0 BOKAeHNg. 3to Heo6xouMO AA o6ecneyeHng HenpepbIBHOn pa6oTbl TpaHcnopTHOrO cpeAcTba. BoAnTenb HeceT OTBeTCTBeHHOCTb 3a BblnoNHeHne nnaHoboro TexHNyeckoro 06cnyxNBaHna.
 
 ### 3KOHOMN4Hoe Boxqehne
-`baic_u5_plus_en_7158775a` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 naHoboe TeXHNyeCkoe 06cnyxuBaHne MOKeT 6blTb BblnONHeHO caMNM BOANTEneM NnN, npn Heo6xoANMOCTN, B ANnepcKOM ueHTpe BAIC MOTOR. Bonpocbl, Tpe6yiowne BHNMAHNA npn exeAHeBHOM TeXHN4eCKOM O6cnyKNBaHnn
 BoqnTenb AOnXeH o6pamaTb BHИMaHNe Ha 6e30nacHocTb N co6nogaTb npabnna TeXHNKN 6e30nacHocTN npu BblNOnHeHNN nnaHOBoro TexHNyeckoro 06cnyxNBaHnA, 4T06bl N36exaTb TpaBM AA ce6g NNN NbpekAennn aBTOMo6nng.
@@ -3528,13 +3368,11 @@ IpoBepbTe Bce ABepHble 3aMKN Ha npaBnnbHoe cyHKL NOHNpOBaHne. CMa3bIBaiTe neTnn 
 y6eqnTecb, 4TO npeAoxpaHnTenbHble KpIOKN yAepXNBaIoT NIOK 3aKpbITbIM nocne OTKPbITNA KPIOKOB 6noknpoBkN Noka.
 
 ### 3KOHOMN4Hoe Boxqehne
-`baic_u5_plus_en_12559d4b` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 WnHbl:
 epeA noe3Akon Ha AanbHee paccTOaHne BHNMaTeNbHO OCMOTPNTe WNHbl Ha Hannyne noBpexAeHnn, TpemNH WNN 4pe3MepHoro N3HOca, N3MepbTe AaBneHne B03Ayxa B WNHax C nOMOWbio WNHHOrO MaHOMeTpa N OTperynnpynte AaBneHne B03Ayxa BO BCex WNHax (BKnIoyaa 3anacHoe koneco) A0 yka3aHHoro 3Ha4eHNA (CMOTpNTe 《WuHbl N Koneca>).
 
 ### CBeT
-`baic_u5_plus_en_5f911530` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 poBepbTe N y6eqnTecb, 4TO cpapbl, CTOn-CNrHanbl, ra6apnTHble capbl, CnrHanbl NOBOPOTHNKOB N Apyrne OCBeTNTeNIbHble npn6opbl pa6oTaIoT N HaqexHO 3akpenneHbl.
 BxoAHoe OTbepcTne KOHANuNOHepa
@@ -3558,7 +3396,6 @@ CneunanbHble NATHA MoryT 6blTb 04N山eHbl C nOMOWbIO cneunanbHoro nnacTNKOBOro O
 OuncTka KOXN, TeXHN4eckoe 06cnyXNBaHne ponblnecocbte Koxy N npoTpnte ee BnaxHOn, OTXaTON MArKON TKaHbIO N BbIcy山NTe ee Apyron cyxon MArKON TKaHbIO Nocne Toro, KaK OH NONHOCTbIO BbICOXHeT, Bbl MOxeTe pacnblnnTb COOTBeTCTBYIO山ee KONNyeCTBO KOHANUNOHepa AA 3amNTbl koxaHoro NOKPbITNA. Ecnn BblweonncaHHOn 4NCTKN HeAOCTaTO4HO AA yAanenng NATHa, MOXHO NCNONb3OBaTb cneunanbHoe CpeACTBOANA 4NCTKN KOKN.
 
 ### CBeT
-`baic_u5_plus_en_caf9f3e5` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Tocne HPOtupahng OyNCTNTeneM KOXN KaKMOXHO ckopee BbIcy山nTe ero MAIKON cyxon TKaHbIO.
 
@@ -3578,7 +3415,6 @@ Txnaxnaoiaa KNAKOCTb ABnratenA
 Korna ABNraTenb OCTbIHeT, npobepbTe ypoBeHb oxnaxAaomen XNAKOCTN B 6a4ke oxnaxAaiomen XNAKOCTN (CMOTpNTe pa3qen 《llpoBepka ypOBHg Oxnaxnaiomen XNAKOCTN ABnraTena>).
 
 ### MoTopHoe Macno
-`baic_u5_plus_en_41a512c6` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 lpunapkyite aBTOMo6unb Ha pOBHOn,TBepAOn NOBepXHOCTN, BblKno4NTeABNraTenb N 4epe3 10 MNHYTnpoBepbTe ypoBeHb Macna CnoMOWbto MacnAHOrO 山yna ABuraTeng(CMOTpNTe pa3Aen 《fpoBepka YpOBHaMacna BABuraTene》).PeMeHb BcnomoratenbHoroO6opyAobaHna ABnratensy6eqnTecb, 4TO peMeHbBCnoMoraTenbHoro 06opyAOBaHng HeN3HOWeH, He ocna6neH, HenoTpeckanca И He 3aMacneH.
 
@@ -3592,7 +3428,6 @@ oxnaxnaiomen XNAKOCTN CNCTeMbI xnakAehnn 5 KpbI山ka AaBneHnn paAnatopa CNCTeMbI
 D BayokAnAKoctn OMbIBaTen no6oBoro
 
 ### CTeKna
-`baic_u5_plus_en_6c12817d` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 HekoTopble Monenn ocHa山eHbl NONHbIM OKpbITNeM NOAKaNOTHOrO npocTpaHCTBa.
 
@@ -3607,7 +3442,6 @@ HekOTopble Monenn OcHa山eHbI NONHbIM nOKpbITNeM NoAkanOTHorO npOcTpaHCTBa.
 PekoMeHAyeTCA He pa36upatb kpbIwky MOTOPHOrO OTCeka CaMOCTOATeNbHO, 4T06bl N36exaTb HeHyKHbIX TpaBM. Ecnn BaM 3T0 Heo6xoqnMo, noceTNTe Annepcknn ueHTp BAIC MOTOR.
 
 ### O6mne NHCTPYKLNN
-`baic_u5_plus_en_a7a083cc` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 MoTopHbli OTCeK SBnnTER OnacHon 30HOn. Ecnn Bbl He 3HaKOMbl C Heo6x0ANMbIMN MAHHANNSUNNMN N 06mnMn MepaMn npeAOCTOpOKHOCTn, He pa6oTante B MOTOPHOM OTCeke 6e3 COOTBeTCTBYIOWNX NHCTPyMeHTOB! lloxanyncta, BbInONHANTe Bce pa6oTbl B AnnepckOM ueHTpe BAIC MOTOR. HenpaBunbHO BbInnHMg pa6oTa MOXeT npNBecTN KTpaBMe.
 epea BblnOnHeHNeM N06bIX pa6oT B MOTOPHOM OTCeke Heo6xoNMo BbINONHNTb cneAyomne AeNCTBNA: 1. Ipnnapkyute aBTOMo6nnb B 6e30nacHoM MecTe, Ha POBHON N ycTONyNBON Harpy3kaM NOBepXHOCTN;
@@ -3638,7 +3472,6 @@ He NCNOnb3yNTe oxnaihaomyo XNQKOCTb ABnraTeng B COCTORHNN ABNKHNA abTOMo6nng, NH
 AHe caqntecb 3a pynb aBTOMo6nna, korqa ropnT npeAynpexqaomag namnoyka BbICOKON TeMnepaTypbl oxnaxAaomen KNAKOCTN ABnraTeng 上 NHaye ABnraTenb MOKeT neperpeTbcq 4TO Bbl30BeT cepbe3Hble Hobpenenng ABnraTenЯ.
 
 ### O6mne NHCTPYKLNN
-`baic_u5_plus_en_f7d9cbef` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/4b137e752d18ce73bd421d3d2e081339b9ddc23dac73959eabba0a818c496432.jpg)
 Ipobepka yPobha oxnakAaiomen KNAKOCTN ABNraTeng
@@ -3674,7 +3507,6 @@ PerynapHO MeHaTe MOTOPHoe Macno, Kak yka3aHO B 《VHpopMauNOHHOM Jucte no TeXHN4
 ripn nokynke MOTOPHOrO Macna npobepbTe, TIOOOOO N TNN N cneunpnkaLng, yka3aHHble Ha ynakOBke Macna, AA ABnraTeng N COOTBETCTBYIOWNX ycnOBnN əkcNnyaTauNN aBTOMO6NnA.
 
 ### O6mne NHCTPYKLNN
-`baic_u5_plus_en_e361ea5a` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1 Tun MOTOpHoro Macna SN 5W-30 npn nocTaBke aBToMo6nng C 3aBoqa.
 
@@ -3713,7 +3545,6 @@ A: BePXhag PAcnnnag MeTka. B: BHKHRR OTMeTKa npeAenbHoro yPOBHA Macna.
 7. Korqa ypoBeHb Macna AOCTNrHeT OTMeTKN MexAy BepxHen N HNKHen kpanHNMN MeTKaMN, npekpaTИTe 3anNBky Macna N 3aTAHNTe KpbIWKy MacnO3anNBHON rOpNOBNHbl.
 
 ### O6mne NHCTPYKLNN
-`baic_u5_plus_en_854e17de` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 8. y6epute TPaNky N O4NCTNTe
 3anNBHyi rOpsOBNHy.
@@ -3723,7 +3554,6 @@ He 3anyckaite ABNraTenb, ecnn ypoBeHb Macna npeBbl山aeT BepxHI010 npeqenbHyio O
 4 MoTopHoe Macno SBnRERER nerko BHhnHLNMCS Be山eCTBOM. ByAbte OCTOpOXHbl, 4T06bl He nPOnnTb Macno Ha ropayne AeTann ABnraTeng NNN KOMNOHeHTbI BbIXNOnHOn CNCTeMbl npn 3anpabke.
 
 ### 3aMeHa MOTOpHorO Macna
-`baic_u5_plus_en_7544f12e` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 O693aTenbH0 perynapho MeHANTe MOTOPHOe Macno B COOTBeTCTBNN C AAOOOOOU Ta6nnubl NHpOpMaunn no TeXHN4eCKOMy 06cyXNBaHNI.
 pON3BOqNTe 3aMeHy MOTOpHOrO Macna B AnnepckOM ueHTpe BAIC MOTOR.
@@ -3768,7 +3598,6 @@ TopM03Haa XNAKOCTb o6naqaet BbICOKON a6cop6npyiomen CnoCo6HoCTbto N AOnKHA XPaHN
 TopM03Hyi0 KNAKOCTb cneAyeT XpaHИTb B TPyAHOAOCTYNHOM AA AeTen MecTe. pn cnyyanHOM ynotpe6neHnn TOPM03HON XNQKOCTN HeMeqneHHO o6paTNTecb 3a MeANLNHCKOn noMOWbO
 
 ### 3aMeHa MOTOpHorO Macna
-`baic_u5_plus_en_a153126b` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 △ N36erante HInanannn TOPM03HON XNAKOCTN Ha Koxy WNN B rna3a, ecnn KOHTaKT npon3owen, npomonte 6onbmnm KONNYeCTBOM BOAbl N HeMeAneHHO 06paTnTeCb 3a MeANLNHCKON nOMOmbIo.
 
@@ -3804,7 +3633,6 @@ Ecnn ypoBeHb TOPM03HO KNAKOCTN HNxe HNXHeN OTMeTKN 6a4ka, BO N36exaHne Hec4acTHb
 △ Ecnn TOPM03Haa XNQKOCTbOCTaeTCA B rnApaBnnyeckon CNCTeMeB TeyeHne MHOrNXNeT, OHa NOPTNTCA NBbl3blBaeT CkanneHne B03Ayxa BTOpM03HbIX MarnctpanaX npnTOPMOXeHNN, 4To BNNAET HaəccbeKTNBHOCTb TOPmoxeHng N6e30nacHocTb ABNKeHNA, N AaxeMOxeT npNBeCTN K NONHOMy OTKa3yTOPM03HO CNCTeMbl, 4to npnBenet Kabapnn.
 
 ### 3aMeHa MOTOpHorO Macna
-`baic_u5_plus_en_1940f976` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 △ He AonyckanTe PPwmnnsnn K 6arapee XKPRWNX npeqMeTOB, NnameHN NNN NCKp.
 
@@ -3839,7 +3667,6 @@ IpoBepka Akkymynatopa
 Ecnn ABNraTenb Heo6xoqnMO 3anyCTNTb C nOMOWbIO nepeMbI4KN, CMOTPNTe pa3Aen 《llepeMbI4KN》. Ecnn ABNraTenb no-npexHemy He yAaeTcA 3anyCTNTb C NOMOWbIo nepeMbl4KN, cneAyeT 3aMeHNTb aKKyMynaTOp. An 3aMeHbl akkyMynaTOpa o6paTNTecb K Annepy BAIC MOTOR.
 
 ### 3apaAka akKyMynaTOpa
-`baic_u5_plus_en_d5cb5e6d` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Ecnn aBTOMo6nnb He NCNONb3yeTCA B TeyeHNe ANNTenbHOrO BpeMeHN, NNN ecnn OH 4acTo 3aBOANTCЯ, NNN ecnn OH e3ANT Ha KOpOTKNe PAccTORHnA B XONOAHbIX ycnOBNAX, akkyMynaTOp MOKeT NOTepaTb 3APgA N He CMOXeT 3aBeCTИCb, N aKKyMynTOp HyxAaeTcA B AONONHNTENbHON 3apaAke. lloxanyncta, nOceTNTe ANnepcknn ueHTp BAIC MOTOR ANA 3aPAAkn.
 
@@ -3848,7 +3675,6 @@ Ecnn aBTOMo6nnb He NCNONb3yeTCA B TeyeHNe ANNTenbHOrO BpeMeHN, NNN ecnn OH 4acTo
 B XONOAHbIX yCNOBNaX, ecnn aKkyMynATOp 3amep3, He nblTavTeCb 3aPRAnTb ero, cy山ecTByeT OnacHOcTb B3pblBa.
 
 ### RRRHMR 3a山NTa
-`baic_u5_plus_en_7b9ce7ee` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 lockonbky npn HN3KNX TeMnepaTypax akkyMynaTOp MOXeT 06ecne4NTb MeHb山yIO nyCKOByIO MOWHOCTb, 4eM npn NOnOXNTnbHOn TemnepaType, no3TOMy nepeA HayanoM 3ИMHero ce30Ha pekOMeHAyeTca npOBepuTb akkyMynaTOp aBTOMo6nnA B AnnepckOM ueHTpe BAIC MOTOR N npn Heo6xoqNMoCTN HAaPRA WNN 3aMeHNTb ero.
 
@@ -3881,7 +3707,6 @@ Korqa ABnraTenb He 3any山eH,N36erante AnNTenbHOrOHNONbOBaHNNənekTpoo6opyAobahn
 Ecnn aBTOMo6nnb He NCNOnb3yeTCA B TeyeHne AnNTenbHorO BpeMeHN, pekOMeHAyeTcg CHATb OTpNuaTenbHyiO KJeMMy akKyMynaTOpa, 4T06bl N36exaTb HobpxAennn akkyMyngTOpa CTaTN4eCKNM TOKOM BceroabTOMo6una. Ecnn exeAHeBHbIn npo6er 04eHb KOPOTKNN NNN AnnTenbHan BoyHaA CTOAHKa, AA 6e30nacHocTn cneAyeT perynapho 3apaxaTb aKKyMynATOp BHe aBTOMo6nng. 3anpemaetca N3MeHATb WNN A06aBnATb ənektponpn6opbl B aBTOMo6nnb, 4T06bl N36exaTb AONONHNTeNbHOrO CTaTnyeckoro TOka, Bbl3blBal0山ero noBpexJeHne akKyMynaTOpa. Ecnn Bbl o6Hapyxunn, 4TO aBTOMo6nnb TPyAHO 3aBeCTN, cneAyeT 06paTNTbcq B ANnepcknn 4eHTp BAIC MOTOR AA npoceccnoHanbHon npobepkn aKKyMynaTOpa N CBOeBpeMeHHON Hpappgon akkyMynaTOpa BHe aBTOMo6nns, NHa4e cpok cnyx6bl akkyMynaTopa 3Ha4NTenbHO COKpaTNTCA, ecnn OH Aonroe Bpemg 6yzet HaxOANTbcA B Hepa6o4eM COCTORHNN.
 
 ### RRRHMR 3a山NTa
-`baic_u5_plus_en_26d79a5a` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 OMbIBaTenb no6oboro CTeKna N CTeKNOO4NCTNTENb Ao6aBneHne KNAKOCTN ANA OMbIBaTenA no6oboro CTekna
 
@@ -3911,7 +3736,6 @@ Ipobepka N oyNCTka 山eTKN CTeKJOO4NCTNTEnA no6oboro CTekna
 3. 3axBaTnTe pbl4ar CTeKNOOUNCTNTEnA;
 
 ### RRRHMR 3a山NTa
-`baic_u5_plus_en_6ae785b2` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 4. Ncnonb3yuite MArKyIO TKaHb, 4T06bl T山aTenbHO BblTepeTb nblnb N rp93b C 山eTKN CTeKNOOYNCTNTeNA N nOBepXHOCTN no6oBoro CTeKna; 5. Nocne O4NCTKN aKkypaTHO BepHИTe pblyar CTeKNOOYNCTNTEnA B NCXOAHOe nonoxeHne.
 山eTka CTEKNOOYNCTNTENA AONKHa noAAepXnBaTbcA B xopowem COCTORHNN AA HInyuennn yeTkoro 0630pa.
@@ -3961,7 +3785,6 @@ CoxpaHaite xopownn 0630p BO pemg BHKAEHns!
 PerysapHO o4nmante 山eTKN CTEKNOOYNCTNTENA N Bce OKOHHble CTeKna.
 
 ### RRRHMR 3a山NTa
-`baic_u5_plus_en_0b8888a8` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 lloxanyicta, N36eranteNNONbOOBaHNN EeTOKCTEKNOOYNCTNTENA Ha cyxonnOBepXHOCTN no6oboro CTekna,HacKONbKO 3T0 BO3MOXHO, 4T06blN36exaTb npexqebpeMeHHoro N3HOca,KOTOpble Moryt PIBNNIOO Ha6e30nacHocTb BAWAenNn.
 
@@ -3970,7 +3793,6 @@ He noqabante NNTaHNe Ha TpaHcnopTHOe CpeACTBO A0 3abepweHng 3aMeHbl 山eTKN CTeK
 Tocne JHNRNS 山eTKN CTeKNOOYNCTNTeNA C NOBOAka co6noqante oco6yt0 OCTOPOXHOCTb, 4T06bl pblyar CTeKNOOYNCTNTenЯ He OTCKOYNN Ha3aA N He Nbpeqnn Jo6oboe CTeKJIO.
 
 ### WnHbl N Koneca
-`baic_u5_plus_en_36324d57` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Npobepka BHeWHero BnAa Konec N WNH
 
@@ -4008,7 +3830,6 @@ NHcopMaunOHHan Ta6nn4ka O WnHax
 NHpopMaunOHHag Ta6nn4ka C NHcopMaunen 0 WNHax npnkpenneHa K nebON B-cTonke, N ee MOXHO yBnqeTb, OTKpbIB nebyio nepeAHioio ABepb. WnHa AONKHa 6blTb HakayaHa B COOTBeTCTBNN C AaBneHNeM BO3Ayxa, yka3aHHbIM Ha Ta6nn4ke CAaHHbIMN.
 
 ### WnHbl N Koneca
-`baic_u5_plus_en_5708b134` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Npobepka AaBneHng B WNHax CnimOWbIO MaHOMeTpa AABneHnnB03Ayxa
 AaBneHne B WNHax MOKHO npobepnTbC NOMOWbIO WNHHOrO MaHOMeTpa,noka WNHa xONOan.
@@ -4047,7 +3868,6 @@ NpoBepka 6anaHcupoBkn konec Koneca ANHaMNyeCKN 6anaHcupyIoTcA Ha 3aBoqe, HO cyWe
 Hec6anaHcnpobaHHag ANHaMNKa konec npNBeqeT K KOne6aHNAM Konec, HeHopMaJbHOMy N3HOCy WИH N NOBNNRET Ha CTa6nnbHOCTb ABNKeHNA. o3ToMy koneca cnenyet perynapHO npObepaTb B AnnepckOM ueHTpe BAIC MOTOR.
 
 ### NoA6op N 3aMeHa WNH nokyn ka HOBbIX WNH
-`baic_u5_plus_en_6dc4cfe1` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/076943a50bbaf3d49c3f300980db2e394ef2c71e269d60d8fb8480f10c73261d.jpg)
 
@@ -4091,7 +3911,6 @@ Ecnn OAHO N3 nepeqHnx konec cnymeHo, TpaHcnOpTHOe cpeACTBO 6yAeT ABNraTbCA B Ty 
 Ecnn OAHO N3 3aAHNX KOnec CnyCTNNO, BO BpeMa ABNKHNN TpaHcnopTHorO cpeAcTBa MOXeT Ha6noAaTbcg HeHOpMaJbHag Bn6paung N 山yM, HO npn 3TOM cOxPaHAeTCA KOHTpOnb HaA pyneBbIM ynpaBneHneM. B 3TOM cnyyae cneAyeT OTNyCTNTb nenanb akcenepaTopa, nOBepHyTb pyneboe koneco B HanpaBneHNn, B KOTOPOM Heo6xoNMo ABNraTbCA, 4T06bl coxpaHNTb KOHTpONb HaA TpaHcnopTHbIM CpeACTBOM, N cnerka HaxaTb Ha nenanb TOpM03a, OCTaHOBNTb TpaHCNOpTHOe cpeACTBO Ha abapnvHon nonoce NNN B 6e30nacHoM
 
 ### 3aMeHa o6oga
-`baic_u5_plus_en_84bdbf23` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Ecnn 060A AecopMnpoBaH, NMeeT TpemNHbl, kOpp03Ni0 NNN CNNbHble NOTePTOCTN, 3aMeHNTe 060g. Ecnn 060A nobpexAeh N WNHa nponyckaet B03AyX, 060A Takxe cneAyeT 3aMeHNTb (3a NCKJoyeHnem HeKOTOpbIX peMOHTNpyeMbIX anIOMNHNeBbIX 060AOB).
 [py30nOAbeMHOCTb, pa3Mep, paccTORHNe CMemeHng N MOHTaXHble pa3Mepbl HOBOrO 06ona Aonxhbl 6blTb TaKNMN xe, KaK y OpNrNHanbHorO KOnecHoro Ancka, a cnoco6 MOHTaxa AOnKeH 6blTb TaKNM Xe.
@@ -4105,7 +3924,6 @@ Ncnonb30BaHne HRnnnmnx 06010B MOKeT PHBNUNO Ha TOpMOxeHne N ynpabnseMOCTb aBTOMo
 4 Ncnonb30BaHne CTapbIX 0601oB Ha aBTOMo6nne Takxe MOKeT 6blTb onachon. nockonbky HeT BO3MOKHOCTN y3HaTb, KaK NCNOnb3OBanNCb CTapble 060ga N CKOnbKO KNJIOMeTpOB Ha HNX 6blno npongeho, Ha HИX Moryt 6bITb HeBNqNMble Tpe山NHbl, KOTOpble Moryt CTaTb npnuNHon abapun BO Bpema ABNKeHNA.
 
 ### 3nMHne WNHbI
-`baic_u5_plus_en_5e4e2ca0` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 i 3uMHne WNHbI MoryT 3Ha4NTenbHO ynyyWnTb ynpabnseMOcTb abTomo6nng npu ABNKeHNN no NARHbIM N CHeXHbIM Aoporam. PekOMeHAyeTcA MeHATb 3NMHNe WNHbI, korqa TeMnepaTypa onyckaeTca Hnxe -7C.
 
@@ -4121,7 +3939,6 @@ noxanyicta, co6nonante NHCTpyKLNN no yCTaHOBKe uenen N OrpaHnyeHng CKOPOCTN AA p
 . 4to6bl N36exaTb NObpexAehng WNH N 4pe3MepHoro N3Hoca uenen, Bcerqa CHNMaNTe uenn npn ABNKeHNN no Aoporam 6e3 CHera.
 
 ### Monka Ky30Ba aBTOMo6nng 4nctka aBTOMo6nnA
-`baic_u5_plus_en_42fbf0ed` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 PerynapHbli yxoA 3a aBTOMo6uneM Heo6xoquM AA HAAPkaHng ero kayecTBa B TeyeHne Aonroro BpeMeHn. He NCNOJb3yTe PA yxona 3a aBTOMo6nneM 6eH3NH, CkunnAap, MOTOpHoe Macno, KNAKOCTb AY CHATNS naka C HOrTen NNN Apyrne netyune XNAKOCTN, TaK KaK 3TN MaTepnanbl RBSSITER TOKCN4HbIMN N JrkObOChNaHAINncA N Moryt Bbl3BaTb noxapbl ИB3pblBbl!
 
@@ -4172,7 +3989,6 @@ He npOMbIBaNTe MOTOpHbIn OTCeKBOAOn, NHaye 3T0 MOKeT npNBeCTN KBbIXOAy N3 CTpoa 
 Aonyckaite PHnanannn BOAbI NNN Apyrnx KNAKOCTeN Ha 3nekTpnyeckne KOMNOHeHTbI N BEHTNNALNOHHbIe OTBePCTNA B aBTOMo6nne, TaK Kak 3T0 MOXeT npИBeCTNK NX NobpexAeHnio.
 
 ### yAaneHne HATEH
-`baic_u5_plus_en_b7c04f01` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 BaxHO yAanNTb CMOnbl WNN Apyrne MacnaHble NATHa, XNMNyeckne 3arpa3HeHNg, TyWN HacekOMbIX, ApebeCHbln xup N 中pyKTOBbln COK C HNXHe CTOpOHbl abTOMo6nng, 4T06bl npeAOTBpaTNTb nobpexqeHne nakokpacoyHoro NOKPbITNA. nokpbITne aBTOMOonnn BOCKOM PerynapHoe nOKpbITNe aBTOMo6unA BOCKOM 3a山N山aeT kpacky N noMoraeT coxpaHNTb KpacOTyaBbTOMo6ung. Nocne NOKPbITNA BOCKOM OTNOnNpyNTe aBTOMo6nnb, 4T06bl yAannTb OCTaTKN BOcka C NOBepXHOCTN.
 
@@ -4211,7 +4027,6 @@ yqannte Bce Menkne KaMHN, nonabwne B pucyHOK npOTeKTopa, KOTOpble MoryT NIBNNNTU
 PeKOMeHAyeTCA HaTNpaTb koneca BOCKOM, 4T06bl yMeHbWNTb kopp03N10 FPa3n Ha konecax. Oynctka XpOMNpoBaHHbIX AeTanen PekOMeHAyeTCA perynapHO 4NCTNTb XpOMNpOBaHHble AeTann cneuNanbHbIMN cpeACTBaMN AA xPomaAnn HHAAePnaonn NX APKOCTN.
 
 ### 4ncTka CanoHa ABToMo6nnA NpoTnpaHne BHYTpeHHero CTekna abToMo6nnA
-`baic_u5_plus_en_13321b64` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 pn IpOTupaHNN BHyTpeHHerO CTeknaHe NCNOnb3yTe NHCTpyMeHTbI CNNactAMN WNN XnopnpoBaHHbleAe3nHpnunpyomne cpencTBa, TaK KaK3T0 MOXeT noBpeANTbHarpebaTenbHbln ЗneMeHT 3aAHeroCTekna.
 Ecnn 3NMON CTekna canoHa3anOTeBaIOT, pacnblnnte Ha HNXCOOTBETCTBYIO山ee KONNyeCTBOaHTN3anOTeBaIo山ero cpeAcTBa, 4T06blnpeAOTBpaTNTb 3anOTeBaHNe
@@ -4220,7 +4035,6 @@ JeHTy PeMHg 6e30nacHocTN MOKHONO4NCTNTb ry6kon, CMO4eHHONHeTpanbHbIM MOIOWNM Cpe
 He NCnOnb3yNTe OT6ennBaTenn,kpacnTenn N XNMNyecknepacTBOpNTenN AA O4NCTKN NeHTblPeMHa 6e30nacHocTN, NHaye 3T0npnbeqeT K cepbe3HOMynOBpexAeHniO neHTbl.
 
 ### nOAHOxka
-`baic_u5_plus_en_b4d7e878` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 He3aBИCNMO OT Toro, kakon KOBPNK AA HOr Bbl NCnOnb3yeTe, y6eqnTecb, 4T0 OH IOAXOAn A Bawero aBTOMo6nng N 3akpenneH npaBnnbHO M HaqexHO, 4T06bl He MewaTb pa6ote nenanen.
 
@@ -4266,7 +4080,6 @@ Otpa6oTaHHble 6atapen 5 akKyMynaTOpbl
 He Bbl6pacblBaTe akKyMynaTOpbl N 6aTapen nynbTa ANCTAHLNOHHOrO ynpabneHng, OHИ BpeAHbl AA okpyxaiomen cpeAbl, noxanyucta, nepenante NX B yTBepKAeHHbIn NyHKT c6opa.
 
 ### nOAHOxka
-`baic_u5_plus_en_2d820aa6` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/e6a0f1cb9d531a4a4a328ea73704b152dac1e8561e8a60db12f83bd819fe495a.jpg)
 NHCTpyMeHTbl
@@ -4310,14 +4123,12 @@ NOTAHNTe 3a ABa CnoxeHHbIXkpag ① N TpeyronbHoro npeAynpexAaomero 3Haka N 3akpe
 3anacHoe koneco
 
 ### nOAHOxka
-`baic_u5_plus_en_d0b96495` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 3anacHoe koneco HaxOANcA nOA KpbIWKOn 6araxHoro OTAenEHNA, npn ero NCnOnb3OBaHNN BbIHNMaNTe ero B COOTBeTCTBNN Co CneAyoNMN AeNCTBNAMN:
 1. OTkponite KpbIWKy 6araxHoro OTAenEHNA;
 2. noAHNMNTe pyuky KpbIWKN 6araxHoro OTAEnEHNA;
 
 ### 3aMeHa 3anacHoro koneca
-`baic_u5_plus_en_7a581f82` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 3anacHble koneca MOXHO NCNOJb3OBaTb TONbKO B TeyeHne KOpOTKoro BpeMeHN. He npeBbl山aNte MakcNMaJbHyiO CKOpoCTb 80KM/4.
 
@@ -4366,7 +4177,6 @@ CHATNe HencnpaBHoro koneca
 1 NepeA TeM Kak NONHOCTbIO NOAHRTI aBTOMO6nnb AOMKpaTOM, Heo6xoqumo ocna6nTb rankn HenchpaBHoro koneca. Ocna6bTe raikn KPennenng koneca AO Toro, Kak koneco 6yqeT OOAOSOO AOMKpaTOM.
 
 ### 3aMeHa 3anacHoro koneca
-`baic_u5_plus_en_dd5c14b4` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/e528c13427bc5bf580630733349784b5e0efc17a9222bb46cc2ffa7836867120.jpg)
 
@@ -4413,7 +4223,6 @@ Pe3b6a KOneCHbIX raek N cTynny AONKHA conepxaTbcA B 4NCTOTe N He coAepxaTb CMa3K
 KonecHble rankn AONKHbI 6blTb 3aTЯHyTbl npaBnnbHO B COOTBETCTBNN C yka3aHHbIM MOMeHTOM 3aTAKKN, NHaye rankn Moryt ocna6HyTb BO Bpema ABNKeHNA aBTOMO6NnA, 4TO MOXeT npNBeCTN K AOpOXHO-TpaHCnOpTHbIM nPONCWeCTBNAM.
 
 ### 3aMeHa 3anacHoro koneca
-`baic_u5_plus_en_ff18f4d2` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 △ AA 3ATAKKN KOnecHbIX raek NCNONb3yNTe KJ1IO4 AA KOneCHbIX raek, BXHARmNn B KOMNneKT aBToMo6nng, HO ecnn Bbl He MO\*eTe NOATBePANTb 3HayeHne KpyTamero MOMeHTa, pa3yMHO KOHTpOnnpynte CKopoCTb, n36erante pe3koro yckopeHNa N abapnuHoro TOPMOKeHNa, N kak MOKHO Ckopee o6paTNTeCb B ANnepcknn LeHTp BAIC MOTOR, 4T06bl npobepuTb N y6eANTbCa, 4to rankn kPennehng konec AOCTNrNN yka3aHHoro KpyTaWero MOMeHTa.
 
@@ -4453,7 +4262,6 @@ Ecnn CMeHHbl npeAoxpaHnTenb C TeM\*e HOMNHANOM neperopaeT CHOBa BTeyeHne KOPOTKO
 i Ecnn aBTOMO6Nnb He MO\*eT 6blTb nepememeH N3-3a OTCYTCTBNA 3anacHoro ApeAoxpaHnteng AA 3aMeHbl, AY 3aMeHbl MOKHO N3Bne4b npeqoxpaHntenb C TaKNM xe NNN MeHbWNM aMnepHbIM HOMNHANOM N3 Apyrux uenen, HO Heo6xoAnMo y6eqnTbca, 4T0 ənekTpoo6opyAobaHne noka He NCNOJb3yeTCA N He NIBNNRNT Ha ynpabneHne abTOMo6unem, Hanpumep, npeqoxpaHntenb npnkypnbateng WNN paAno.
 
 ### 3aMeHa 3anacHoro koneca
-`baic_u5_plus_en_2eb6ee26` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Ecnn Bbl 3aMeHNnN neperopeBwnn npeqoxpaHnTenb 3anacHbIM npeqoxpaHntenem C MeHbWNM aMnepHbIM HOMNHAJOM, npn ycTpaHeHNN HeNcnpaBHOCTN kak MOKHO Ckopee 3aMeHNTe ero npeAoxpaHnTenem C npaBNNbHbIM HOMNHAJOM.
 
@@ -4507,7 +4315,6 @@ LED naMnbl HEnb3A 3aMeHNTb no OTAenbHOCTN, no3TOMy Mbl pekOMeHAyem BaM NOceTNTb 
 Ecnn aBTOM06unb He yAaeTcA 3aBeCTN N3-3a 4pe3MepHO pa3pg\*eHHoro aKKyMynaTOpa, ero MOXHO 3aBeCTN, PCnonb3YA akKyMynRTOp Apyroro aBTOMo6nng C NOMOWbIO ka6eng-nepeMbl4kn, HHMUN 。 cneAyomnX MOMeHTaX:
 
 ### 3aMeHa 3anacHoro koneca
-`baic_u5_plus_en_b5d08f48` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 HoMNHanbHoe HanpaxeHne nNTao山ero aKkyMynaTOpa AONKHO 6blTb He MeHee 12B, a ero eMKOCTb (A4) He AONKHa 6blTb HNxe eMKOCTN HencnpaBHoro akkyMynaTopa.
 Ncnonb3yuite TONbKO ka6enn nepeMbl4KN C AOCTaTO4HO 60nbWnM ce4eHneM.
@@ -4541,7 +4348,6 @@ He AonyckanTe HAuunneun OTKpbITOrO nnameHN K aKKyMynaTOpy, TaK KaK ЗTO MOxeT np
 pn NAkJUeHnn NNN AeMOHTaxe ka6enei-nepembluek NONHOCTbIO noAKnoyante WNN AeMOHTupyNTe OANH ka6enb-nepeMbluky nepea NoAKnoyeHNem NNN AeMOHTaeM Apyroro ka6eng-nepeMbl4kn, He Aonyckante KOpOTKOrO 3aMbIKaHNA.
 
 ### 3aMeHa 3anacHoro koneca
-`baic_u5_plus_en_a90866c1` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 pn OTCOeANHeHNN ka6eng nepeMbl4KN Aante ABNraTenO HencnpaBHoro ABTOMo6nng nopa6oTaTb Ha XONOCTbIX 06opoTax, 4T06bl npenOTBpaTNTb B03ropaHne.
 
@@ -4562,14 +4368,12 @@ OTnyCTNTe 3neKTpOHHbln CTOAHOYHbIN TOpM03 abTOMO6NnA, NOAHNMNTe N 3acnkcupynte n
 Dnpn noqbeme nepeAHero koneca HencnpaBHoro aBTomo6ung y6eqnTecb, 4T0 c3aN NMeeTCA Haqnexawnn AOPoKHbIn npocbeT. B nPOTNBHOM cnyyae B npouecce 6ykcnpoBkn 3aAHnn 6amnep HencnpaBHoro aBTOMoonnn yAapnTca 0 3eMNIo N NOHeceT NObpexAenng.
 
 ### BykcnpoBka C3aAN
-`baic_u5_plus_en_545ab7e6` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/8dc1522319d3b90862be2ed0d8da48f239f765c850927f0a1eb9f5f3a678a8e4.jpg)
 
 OTnyCTNTe 3neKTpOHHbln CTORHOYHbIN TOPMO3, NOAHNMNTe N 3akpennTe 3aAHne koneca, a Takke 3akpennTe nepeqHne koneca Ha CKyTepe.
 
 ### ABapnnHan Tara
-`baic_u5_plus_en_ecc1bcd1` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 B abapniHon CNTyaLNn, ecnn HeB03MOXHO NCNONb30BaTb cneunanbHbln 3BakyaTop, aBTOMo6uJb MOKHO BpeMeHHO OT6yKCNpOBaTb C NOMOWbIO cuenHoro ycTpONcTBa npnuena, npn 3TOM BOANTenb N cnacatenb AONKHbI 03HaKOMNTbCA Co cnenyomNMN MepaMn npenocTOpoXHOCtn npn NoArOTOBKe K 6ykcupoBke.
 
@@ -4610,12 +4414,10 @@ NepeqHee 6ykcnpobo4Hoe KOnbLO ABTOMo6nnR
 1. CHNMNTe C Ha6opa NHCTPyMeHTOB B 6araxHoM OTAeneHNN rae4Hbln KJIO4 AA CHATNA koneca N CbeMHoe 6ykcNpoBo4Hoe KOnbuO;
 
 ### ABapnnHan Tara
-`baic_u5_plus_en_dc83f0ea` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 2. C NOMOWbIO NHCTpyMeHTa OTKpONTe KpbIWKy MOHTaKHOrO OTBePCTNA TarOBOrO konbua Ha nepeAHem 6aMnepe;
 
 ### 3aAHee Tarobo-CuenHoe yctponctbO
-`baic_u5_plus_en_38b013ef` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/69e0dee9e8c05c856a9b93fb94852d03577df608d5165c588b927fd54b83a161.jpg)
 
@@ -4636,7 +4438,6 @@ Ecnn 6opyAoBaHneAnn MapKNpOBKN VIN BbINATN3 CTPOA WNN AOnyCTNT own6ky, (VIN) 6yA
 Ta6nn4kn C N306paxeHneM IpOAyKLnn AnA TpaHcnopTHbIX CpeACTB
 
 ### CAenaHo B KnTae BAICMOTOR
-`baic_u5_plus_en_a4f3019a` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 NgeHTucukaynoHHbli HoMepTpaHcnopTHoroCpegcTBa LNBXXXXXXXXXXXXXX
 Mapka: MonenbaBTomo6nng:
@@ -4689,7 +4490,6 @@ O6mne TeXHNyeCKNe XapaKTepNcTNKN
 TpnMeyaHne:TpuBeqeHHbie uncpbl pacxoga Tonnnba OCHOBaHbl Ha HopMax ABNKeHna NEDC (npNMepHO 1/3 paCCTOAHNA, npongehHoro B ropone, 2/3 paCcTORHNA, npongeHHoro B npuropone) AA MOqenn, OCHameHHO CTaHAapTHbIM 06opyAOBaHneM, B ycNOBNAX ropoACkoi/npuropoAHOW/koM6uHnpoBaHHon e3Abl. 中aKTnueckni pacxoA TONNNBa 3aBИCNT OT MaHepbI BOXAeHNg, 3konornyecknx 中aKTOpOB,AOpOKHbIX yCnOBu W kayeCTBa aBTOMo6ung.
 
 ### CAenaHo B KnTae BAICMOTOR
-`baic_u5_plus_en_daa3aea4` | u5_plus | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 OcHOBHble xapaKTepncTNKN N nPON3BOANTeNbHOCTb KNAKOCTN
 ![](images/45e4882b5b5e185aeda8479e90e06ed48246b31cf9c3b6d348ee1bc5ee890280.jpg)
@@ -4719,4 +4519,3 @@ i B cnyyae OTKa3a Aetanen NNNП06bIX Apyrnx OTKNOHeHNN B П06oeBpema, aBTOMo6unb
 
 ![](images/02c830dcc37a05f7d30dccae745112135e4d19a9684d9c9d88807b8c35367393.jpg)
 IpuMe4aHne: ·yka3bIBaeT Ha 3aMeHy o yka3bIBaeT Ha OCMOTp 《—》yka3blBaeT Ha OTCyTCTBNe onepaunn NNN CMOTPNTe AOnOnHnTenbHble NHCTPyKLNN.
-

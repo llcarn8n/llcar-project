@@ -1,8 +1,12 @@
-# Manual: forthing/t5_sx3 (766 chunks)
-<!-- doc_type:owners_manual tier:2 lang:en source:forthing_t5_sx3_en.pdf -->
+---
+brand: forthing
+model: t5
+generation: t5_sx3
+source: kb
+---
+
 
 ### Untitled
-`forthing_t5_sx3_en_6d36c2d9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 Foreword
 Foreword
@@ -31,7 +35,6 @@ specification and design at any time without advance notice.
 •
 
 ### Technical update instructions: IoV and electronic technology products are updated
-`forthing_t5_sx3_en_873886e0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:2 | doc_type:owners_manual
 
 rapidly. Please update in time to guarantee user experience.
 If you want to know more about Forthing T5, welcome to our website:
@@ -40,7 +43,6 @@ https://www.forthingmotor.com/
 Dongfeng Liuzhou Motor Co., Ltd.
 
 ### January 2024
-`forthing_t5_sx3_en_ae93af1d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:2 | doc_type:owners_manual
 
 All rights reserved. This Manual may not be copied or reproduced without prior written permission
 of Dongfeng Liuzhou Motor Co., Ltd.
@@ -49,14 +51,12 @@ shall prevail.
 Foreword
 
 ### Configuration description
-`forthing_t5_sx3_en_e6357831` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:3 | doc_type:owners_manual
 
 * Asterisk
 Asterisk “*” following the title or name indicates that described device or function is only
 equipped in certain models, and may not necessarily be equipped in your vehicle.
 
 ### Safety Instructions
-`forthing_t5_sx3_en_5f28bf9e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:safety | p:3 | doc_type:owners_manual
 
 Safety label plates — Attached to the vehicle.
 Safety prompt information — Identified by hazard warning symbols and words such as
@@ -69,7 +69,6 @@ Caution
 Used to indicate the danger that may cause minor personal injury or vehicle injury.
 
 ### Data safety instructions
-`forthing_t5_sx3_en_21d7a3bf` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:3 | doc_type:owners_manual
 
 According to laws, administrative regulations and other provisions, in order to provide you
 with more convenient and fast service, Dongfeng Liuzhou Motor may collect personal information
@@ -83,7 +82,6 @@ Contents
 Instrument cluster indication....... 11
 
 ### Type I
-`forthing_t5_sx3_en_ddaaca27` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:6 | doc_type:owners_manual
 
 1. Exterior rearview mirror
 5. Front turn signal
@@ -102,7 +100,6 @@ Type II
 6. Front position light
 
 ### Type I
-`forthing_t5_sx3_en_ec6f821a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:8 | doc_type:owners_manual
 
 1. Rear position light
 5. Rear fog light (integrated retro reflector)
@@ -122,7 +119,6 @@ Type II
 4. Turn signal
 
 ### Type IV
-`forthing_t5_sx3_en_e9f669b8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:11 | doc_type:owners_manual
 
 1. Rearview mirror and headlight adjustment switch
 11. Front passenger airbag
@@ -145,7 +141,6 @@ Type II
 10. Middle right face-level vent
 
 ### Sports theme
-`forthing_t5_sx3_en_1bcfabc8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:13 | doc_type:owners_manual
 
 1. Tachometer
 6. Coolant thermometer
@@ -163,7 +158,6 @@ information A
 10. Total mileage
 
 ### Vehicle with automatic transmission
-`forthing_t5_sx3_en_70ede8eb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:14 | doc_type:owners_manual
 
 1. Fuel gauge
 5. Speedometer
@@ -186,7 +180,6 @@ Type III
 4. Reset/set button
 
 ### Steering wheel button adjustment mode
-`forthing_t5_sx3_en_68242289` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:15 | doc_type:owners_manual
 
 The
 display
@@ -208,7 +201,6 @@ prevent damage to the engine, do not drive at a
 speed in the red number zone.
 
 ### The speedometer displays the current
-`forthing_t5_sx3_en_9c244d45` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:16 | doc_type:owners_manual
 
 vehicle speed (km/h). Affected by tire pressure,
 road condition, climate and other factors, an
@@ -216,7 +208,6 @@ error may occur between the indicated speed
 and the actual one.
 
 ### The fuel gauge indicates the amount of
-`forthing_t5_sx3_en_d2972810` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:16 | doc_type:owners_manual
 
 fuel in the fuel tank. When turning or driving on
 uneven road sections, the fuel level displayed
@@ -227,7 +218,6 @@ lights up, it indicates insufficient
 fuel in the tank. Refuel promptly.
 
 ### The coolant thermometer indicates the
-`forthing_t5_sx3_en_030c9a07` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:16 | doc_type:owners_manual
 
 current temperature status of engine coolant.
 When the scale is close to H, and the coolant
@@ -245,7 +235,6 @@ Dongfeng Forthing as soon as possible.
 Time
 
 ### Instrument cluster
-`forthing_t5_sx3_en_3e43638d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:17 | doc_type:owners_manual
 
 It indicates the current time. This time is
 updated
@@ -257,7 +246,6 @@ the
 multimedia display screen's time.
 
 ### The display range of exterior temperature
-`forthing_t5_sx3_en_c1bfbe3b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:17 | doc_type:owners_manual
 
 is -40°C to 87°C. The exterior temperature
 sensor may be affected by road, engine heat,
@@ -286,14 +274,12 @@ instrument cluster. The subtotal mileage ranges from 0 to
 accumulation display again once the limit is exceeded.
 
 ### The display range of total mileage is
-`forthing_t5_sx3_en_b4b7d123` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:17 | doc_type:owners_manual
 
 0~999999 km. When the accumulated mileage
 reaches this value, it stops accumulating and
 displays 999999 km.
 
 ### Press the Return button to switch to
-`forthing_t5_sx3_en_36a80a0e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:17 | doc_type:owners_manual
 
 "Comprehensive information B", and then
 press the up/down button to switch to "Average
@@ -303,14 +289,12 @@ reset the subtotal mileage.
 Science/Sports theme:
 
 ### Switch "Comprehensive information C"
-`forthing_t5_sx3_en_8469b6e0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:17 | doc_type:owners_manual
 
 to the "Vehicle status" page, and press and hold
 the OK button for 2s to reset the subtotal
 mileage.
 
 ### Type II instrument cluster
-`forthing_t5_sx3_en_9b00b5c7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:17 | doc_type:owners_manual
 
 Switch
 to
@@ -325,7 +309,6 @@ conditions and weather, an error may occur
 between the indicated miles and the actual ones.
 
 ### Short press the return button on the
-`forthing_t5_sx3_en_4429568c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:18 | doc_type:owners_manual
 
 steering wheel to switch back and forth
 between comprehensive information area A
@@ -343,7 +326,6 @@ fuel
 consumption.
 
 ### Average fuel consumption
-`forthing_t5_sx3_en_14b0e5a0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:18 | doc_type:owners_manual
 
 The
 average
@@ -368,7 +350,6 @@ corresponding average fuel consumption will
 also be reset.
 
 ### The average vehicle speed is calculated
-`forthing_t5_sx3_en_40fff749` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:18 | doc_type:owners_manual
 
 from the mileage and travel time when the engine is
 running, with a display range of 0 ~ 200 km/h. When the
@@ -388,7 +369,6 @@ fuel
 consumption level.
 
 ### Driving range
-`forthing_t5_sx3_en_01927eb4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:18 | doc_type:owners_manual
 
 The
 driving
@@ -410,7 +390,6 @@ recalculated.
 •
 
 ### The displayed driving range value will change
-`forthing_t5_sx3_en_dd991f4b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:18 | doc_type:owners_manual
 
 according to the recent comprehensive fuel
 consumption.
@@ -423,7 +402,6 @@ curved road, the fuel in the fuel tank will shake
 and the display may change in a short time.
 
 ### Short press the steering wheel's back button to
-`forthing_t5_sx3_en_056cf548` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:19 | doc_type:owners_manual
 
 switch between comprehensive information
 zones A and B. When zone A is selected
@@ -441,7 +419,6 @@ and
 settings.
 
 ### Tire pressure*
-`forthing_t5_sx3_en_db4ebd61` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:19 | doc_type:owners_manual
 
 It
 indicates
@@ -456,7 +433,6 @@ Caution
 •
 
 ### Please try to keep the tire inflation pressure near
-`forthing_t5_sx3_en_5d596e9d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:19 | doc_type:owners_manual
 
 the standard pressure. When "——" appears in
 the tire pressure display area and the specified
@@ -472,7 +448,6 @@ authorized service station of Dongfeng Forthing.
 •
 
 ### If the tire pressure sensor is not replaced due to
-`forthing_t5_sx3_en_82980bbf` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:19 | doc_type:owners_manual
 
 tire repair, removal or other reasons and the
 original tire pressure sensor has not been
@@ -512,7 +487,6 @@ instrument cluster.
 •
 
 ### After the vehicle tires are rotated and the
-`forthing_t5_sx3_en_294b37c9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:19 | doc_type:owners_manual
 
 positions of the tire pressure sensors change, the
 tire pressure shall be matched again.
@@ -527,7 +501,6 @@ displayed on this interface:
 •
 
 ### Automatic emergency braking
-`forthing_t5_sx3_en_219915f4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:19 | doc_type:owners_manual
 
 For details of driver assistance, refer to
 the instructions in Chapter VII Driving.
@@ -539,7 +512,6 @@ incoming call, the call information will be
 prioritized for display.
 
 ### The navigation map will be displayed
-`forthing_t5_sx3_en_e20cfeea` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:20 | doc_type:owners_manual
 
 while the simple navigation information is
 displayed; the navigation information will be
@@ -548,7 +520,6 @@ information on the multimedia display screen.
 Settings
 
 ### OK button on the steering wheel to enter
-`forthing_t5_sx3_en_06d089a0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:20 | doc_type:owners_manual
 
 "Settings". At this time, short press up/down
 button on the steering wheel to switch back and
@@ -574,7 +545,6 @@ button to return to the previous menu; press the
 up and down buttons to switch options.
 
 ### The current vehicle's alarm information
-`forthing_t5_sx3_en_26bf9153` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:20 | doc_type:owners_manual
 
 can be viewed in real time. Additionally, this
 interface offers suggested handling measures
@@ -586,7 +556,6 @@ can be adjusted, and the value increases or
 decreases progressively at a rate of 5 km/h.
 
 ### When the displayed vehicle speed is
-`forthing_t5_sx3_en_d547319c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:20 | doc_type:owners_manual
 
 greater than or equal to the set speed, relevant
 alarm functions of the instrument cluster will be
@@ -594,7 +563,6 @@ triggered.
 Caution
 
 ### Instrument backlight adjustment & instrument
-`forthing_t5_sx3_en_8f4af947` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:21 | doc_type:owners_manual
 
 volume adjustment
 The
@@ -613,7 +581,6 @@ evenly from Level 1 to Level 10, and the alarm
 volume increases evenly from Level 1 to Level
 
 ### Restore factory settings
-`forthing_t5_sx3_en_25a5b679` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:21 | doc_type:owners_manual
 
 After
 the
@@ -640,7 +607,6 @@ displayed on the instrument cluster will be
 restored to the values at the time of delivery.
 
 ### Tachometer
-`forthing_t5_sx3_en_9e8c9b0d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:22 | doc_type:owners_manual
 
 The
 tachometer
@@ -658,14 +624,12 @@ factors, there may be an error between the
 indicated speed and the actual speed.
 
 ### Instrument cluster
-`forthing_t5_sx3_en_21a4ab09` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:23 | doc_type:owners_manual
 
 It indicates the current time. The time will
 be updated in real time along with the time
 displayed on the multimedia screen.
 
 ### The display range of exterior temperature
-`forthing_t5_sx3_en_eee6744b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:23 | doc_type:owners_manual
 
 is -40°C ~ 87°C. The exterior temperature
 sensor,
@@ -687,7 +651,6 @@ temperatures shown on various signs or notifications.
 Gear
 
 ### For manual transmission (MT) models
-`forthing_t5_sx3_en_a3c18f51` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:23 | doc_type:owners_manual
 
 with gear shift reminder function, except for
 reverse gear, the displayed gear is not the
@@ -713,7 +676,6 @@ be automatically cleared after exceeding the
 limit and start from 0.
 
 ### The display range of total mileage is
-`forthing_t5_sx3_en_e4b28ec3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:23 | doc_type:owners_manual
 
 0~999999 km. When the accumulated mileage
 reaches
@@ -725,7 +687,6 @@ stops
 accumulating and displays 999999 km.
 
 ### Subtotal mileage resetting method is as
-`forthing_t5_sx3_en_972dd690` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:23 | doc_type:owners_manual
 
 follows:
 Switch
@@ -741,7 +702,6 @@ conditions and weather, an error may occur
 between the indicated miles and the actual ones.
 
 ### Short press the up/down button on the
-`forthing_t5_sx3_en_ce40ef30` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:23 | doc_type:owners_manual
 
 steering wheel to switch among average fuel
 consumption,
@@ -755,7 +715,6 @@ endurance
 mileage, tire pressure and navigation.
 
 ### The average vehicle speed is calculated
-`forthing_t5_sx3_en_6c1dade1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:24 | doc_type:owners_manual
 
 from the mileage and travel time when the
 engine is running, with a display range of 0 ~
@@ -775,7 +734,6 @@ fuel
 consumption level.
 
 ### The estimated endurance mileage is calculated
-`forthing_t5_sx3_en_30668264` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:24 | doc_type:owners_manual
 
 and shown as the maximum distance the vehicle can travel,
 based on latest comprehensive fuel consumption and the
@@ -788,7 +746,6 @@ Caution
 •
 
 ### The displayed driving range value will change
-`forthing_t5_sx3_en_94d28f62` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:24 | doc_type:owners_manual
 
 according to the recent comprehensive fuel
 consumption.
@@ -803,7 +760,6 @@ curved road, the fuel in the fuel tank will shake
 and the display may change in a short time.
 
 ### Please try to keep the tire inflation pressure near
-`forthing_t5_sx3_en_76ddd423` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:25 | doc_type:owners_manual
 
 the standard pressure. When "-" appears in the
 tire pressure display area and the specified tire
@@ -814,7 +770,6 @@ service station of Dongfeng Forthing.
 •
 
 ### If the tire pressure sensor is not replaced due to
-`forthing_t5_sx3_en_1de35652` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:25 | doc_type:owners_manual
 
 tire repair, removal or other reasons and the
 original tire pressure sensor has not been
@@ -826,7 +781,6 @@ tires are rotated, please contact the authorized
 service station of Dongfeng Forthing.
 
 ### Navigation
-`forthing_t5_sx3_en_18c218a0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:25 | doc_type:owners_manual
 
 Simple
 navigation
@@ -841,7 +795,6 @@ information
 displayed on the multimedia display screen.
 
 ### When there is vehicle information that
-`forthing_t5_sx3_en_4236e15c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:25 | doc_type:owners_manual
 
 requires an alarm or reminder, the comprehensive
 information area presents the relevant warnings and alerts
@@ -858,7 +811,6 @@ warning information" section of the "Menu".
 Settings
 
 ### Short press the OK button on the steering
-`forthing_t5_sx3_en_bfc543e1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:25 | doc_type:owners_manual
 
 wheel to enter the "Settings" interface. At this
 time, short press the up and down buttons on
@@ -876,7 +828,6 @@ OK button to enter the next menu, and press
 the back button to return to the previous menu;
 
 ### Instrument cluster
-`forthing_t5_sx3_en_242c70b2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:27 | doc_type:owners_manual
 
 The
 backlight
@@ -891,14 +842,12 @@ brightness can be adjusted from level 1 to level
 8.
 
 ### The alarm volume of the instrument
-`forthing_t5_sx3_en_c2869bb5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:27 | doc_type:owners_manual
 
 cluster can be adjusted by pressing buttons on
 the steering wheel. The alarm volume increases
 uniformly from level 1 to level 3.
 
 ### Manufacturing setting can be selected by
-`forthing_t5_sx3_en_9880d042` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:27 | doc_type:owners_manual
 
 pressing the button on the steering wheel.
 After
@@ -925,7 +874,6 @@ restored to the values at the time of delivery.
 Version No.
 
 ### Tachometer
-`forthing_t5_sx3_en_ce9b2077` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:29 | doc_type:owners_manual
 
 The
 tachometer
@@ -943,7 +891,6 @@ factors, there may be an error between the
 indicated speed and the actual speed.
 
 ### The fuel gauge indicates the amount of
-`forthing_t5_sx3_en_9f10df98` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:29 | doc_type:owners_manual
 
 fuel
 in
@@ -963,7 +910,6 @@ the fuel level in the tank is insufficient and that
 refueling has to be done as soon as possible.
 
 ### The water thermometer is included in the
-`forthing_t5_sx3_en_a0590d0f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:29 | doc_type:owners_manual
 
 display screen of the information center and
 displayed by scale bars. When the temperature
@@ -980,7 +926,6 @@ until the fuel is depleted may cause the engine to stall
 and could potentially damage the fuel pump.
 
 ### The information center is located on the
-`forthing_t5_sx3_en_62e78fe8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:30 | doc_type:owners_manual
 
 display screen between the tachometer and the
 speedometer in the instrument cluster.
@@ -991,14 +936,12 @@ displayed gear is not the current gear but the
 recommended one.
 
 ### Door ajar reminder: If any door is opened
-`forthing_t5_sx3_en_bd870af4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:30 | doc_type:owners_manual
 
 or not closed tightly, the vehicle body and
 corresponding door in the information center
 display screen will illuminate.
 
 ### Tire pressure display mode: It displays
-`forthing_t5_sx3_en_2a084362` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:30 | doc_type:owners_manual
 
 the pressure and temperature values of the
 currently flashing tire. When the tire pressure or
@@ -1008,7 +951,6 @@ the temperature and pressure values of the
 affected tire.
 
 ### Average fuel consumption display
-`forthing_t5_sx3_en_daf3c52c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:30 | doc_type:owners_manual
 
 Based
 on
@@ -1037,7 +979,6 @@ indicates trip mileage, it reflects the average
 fuel consumption for that specific trip.
 
 ### Resetting the odometer also resets the
-`forthing_t5_sx3_en_f5071ea7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:30 | doc_type:owners_manual
 
 average
 fuel
@@ -1051,7 +992,6 @@ experiences minimal fluctuations.
 Odometer
 
 ### The odometer consists of two parts: trip
-`forthing_t5_sx3_en_6a258640` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:30 | doc_type:owners_manual
 
 odometer and total odometer. In the mileage
 display area, when trip is displayed, it means
@@ -1061,7 +1001,6 @@ it means that the value displayed by the
 odometer is total mileage.
 
 ### Trip mileage displays the accumulated
-`forthing_t5_sx3_en_f4f16003` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:30 | doc_type:owners_manual
 
 distance traveled since the last reset. The range
 is 0~9999.9 km. After exceeding 9999.9 km,
@@ -1069,7 +1008,6 @@ the trip mileage will be automatically reset and
 accumulated and displayed from 0 again.
 
 ### The total mileage displays the total
-`forthing_t5_sx3_en_fa70ae3a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:30 | doc_type:owners_manual
 
 distance in kilometers that the vehicle has
 traveled. The range is 0 to 999,999 km. Once
@@ -1080,7 +1018,6 @@ conditions and weather, an error may occur
 between the indicated miles and the actual ones.
 
 ### When the instrument cluster shows the
-`forthing_t5_sx3_en_5f22263a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:30 | doc_type:owners_manual
 
 trip mileage, press and hold the reset/setting
 button to reset the trip mileage. Simultaneously,
@@ -1088,7 +1025,6 @@ the corresponding average fuel consumption
 will also be reset.
 
 ### This indicator will illuminate when the blind spot
-`forthing_t5_sx3_en_ec12bd8a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:31 | doc_type:owners_manual
 
 monitoring system is faulty. At this time, the blind spot
 monitoring and reminding function is unavailable, please
@@ -1100,7 +1036,6 @@ indicator
 (white)*
 
 ### When the lane departure system is turned on but its
-`forthing_t5_sx3_en_b4e0730e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:31 | doc_type:owners_manual
 
 function is not activated, the indicator illuminates in
 white, which is normal and the vehicle has no fault.
@@ -1115,7 +1050,6 @@ vehicle has no fault. At this time, the system can give
 lane departure warning.
 
 ### EPB MIL (yellow)
-`forthing_t5_sx3_en_e94ed960` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:31 | doc_type:owners_manual
 
 This light will illuminate when the EPB System is faulty.
 At this time, the EPB still has parking ability, but it
@@ -1132,7 +1066,6 @@ system is working, which is normal and vehicle has no
 fault.
 
 ### EPB function indicator (red)
-`forthing_t5_sx3_en_3ed1ab4b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:31 | doc_type:owners_manual
 
 When the parking brake is engaged, this indicator
 illuminates, which is normal and vehicle has no fault. If
@@ -1142,7 +1075,6 @@ parking brake is fully released, please contact an
 authorized service station of Dongfeng Forthing.
 
 ### Engine MIL (yellow)
-`forthing_t5_sx3_en_b1b2b498` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:31 | doc_type:owners_manual
 
 If the indicator stays on while the engine is running, it
 indicates a potential fault in the engine electronic
@@ -1151,7 +1083,6 @@ indicator. If it remains illuminated, contact an authorized
 service station of Dongfeng Forthing.
 
 ### The light illuminates when the ignition switch is in the
-`forthing_t5_sx3_en_3960e037` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:31 | doc_type:owners_manual
 
 "ON" position. After starting, this light turns off,
 indicating normal operation. If it does not turn off, this
@@ -1161,7 +1092,6 @@ on, please contact an authorized service station of
 Dongfeng Forthing.
 
 ### Low engine oil pressure warning
-`forthing_t5_sx3_en_21f29f0f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:31 | doc_type:owners_manual
 
 indicator (red)
 When the ignition switch is turned to the "ON" position,
@@ -1179,7 +1109,6 @@ Forthing
 immediately.
 
 ### Battery charging fault warning
-`forthing_t5_sx3_en_5786b8a1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:31 | doc_type:owners_manual
 
 light (red)
 When the Start/Stop switch is turned to "ON" position,
@@ -1191,7 +1120,6 @@ electrical accessories, keep the engine running, and
 reach out to an authorized service station of Dongfeng
 
 ### Driver side seat belt warning
-`forthing_t5_sx3_en_b7a83782` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
 
 indicator (red)
 When the ignition switch is in the "ON" position and the
@@ -1202,14 +1130,12 @@ will turn off and the alarm will be deactivated only after
 the driver and front passenger fasten the seat belt.
 
 ### Airbag MIL (red)
-`forthing_t5_sx3_en_fdb608a6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
 
 If it remain illuminates after the vehicle is started, it
 indicates that the airbag fails. Please contact the
 authorized service station of Dongfeng Forthing.
 
 ### Electronic
-`forthing_t5_sx3_en_f30d0983` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:32 | doc_type:owners_manual
 
 stability
 program
@@ -1222,7 +1148,6 @@ ESP system will be turned on again, and this light will go
 out.
 
 ### Electronic
-`forthing_t5_sx3_en_725fe9f6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:32 | doc_type:owners_manual
 
 stability
 program
@@ -1236,7 +1161,6 @@ indicates a fault in the ESP system. Please contact an
 authorized service station of Dongfeng Forthing.
 
 ### Immobilizer indicator (red) *
-`forthing_t5_sx3_en_51732fff` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:32 | doc_type:owners_manual
 
 When the start switch is turned to "ON" position, if the
 light flashes, it indicates that the key is illegal or the
@@ -1249,7 +1173,6 @@ immobilizer status. It is a normal phenomenon and the
 vehicle has no fault.
 
 ### ABS MIL (yellow)
-`forthing_t5_sx3_en_25fce6f9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:32 | doc_type:owners_manual
 
 If this indicator turns on while driving, it indicates a
 malfunction in the anti-lock braking system (ABS). At
@@ -1257,7 +1180,6 @@ this time, although the vehicle has normal braking
 capacity, it does not have anti-lock braking function.
 
 ### The corresponding indicator illuminates or goes out when
-`forthing_t5_sx3_en_b1bdd3aa` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:32 | doc_type:owners_manual
 
 operating the turn signal. The left and right turn signal
 indicator and the left and right turn signal indicator will
@@ -1266,7 +1188,6 @@ pressed. If it does not flash or flashes quickly at this time,
 it usually means that the turn signal bulb is abnormal.
 
 ### Please immediately confirm whether the turn signal bulb
-`forthing_t5_sx3_en_e7dab1f1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:32 | doc_type:owners_manual
 
 is damaged and contact an authorized service station of
 Dongfeng Forthing.
@@ -1276,7 +1197,6 @@ Rear fog light indicator(yellow) When the rear fog light is turned on, this indi
 up, which is normal and fault-free.
 
 ### Position light indicator (green)
-`forthing_t5_sx3_en_654bc851` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:32 | doc_type:owners_manual
 
 Type I: When the position light is turned on, this
 indicator lights up, which is normal and fault-free.
@@ -1286,13 +1206,11 @@ Type II: When the position light is turned on, this
 indicator lights up, which is normal and fault-free.
 
 ### High beam indicator (blue)
-`forthing_t5_sx3_en_e3e83f34` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:33 | doc_type:owners_manual
 
 When the high beam is used, this indicator lights up,
 which is normal and fault-free.
 
 ### Low beam indicator (green)
-`forthing_t5_sx3_en_1a8d76d5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:33 | doc_type:owners_manual
 
 When the low beam is used, this indicator lights up,
 which is normal and fault-free.
@@ -1309,7 +1227,6 @@ driving shall not exceed 40 km/h, and contact an
 authorized service station of Dongfeng Forthing.
 
 ### Electronic
-`forthing_t5_sx3_en_38bb581a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:33 | doc_type:owners_manual
 
 power-assisted
 steering MIL (yellow) *
@@ -1322,7 +1239,6 @@ attention to safe driving and contact an authorized service
 station of Dongfeng Forthing as soon as possible.
 
 ### Tire pressure warning indicator
-`forthing_t5_sx3_en_a28516b4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:33 | doc_type:owners_manual
 
 (yellow) *
 When the tire pressure monitoring function fails, this
@@ -1341,7 +1257,6 @@ loss, please promptly contact an authorized service
 station of Dongfeng Forthing.
 
 ### Start-stop
-`forthing_t5_sx3_en_4ab20ae4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:33 | doc_type:owners_manual
 
 system
 operation
@@ -1351,7 +1266,6 @@ indicator lights up and turns white, which indicates that it
 is in a normal status and the vehicle has no fault.
 
 ### Type II: When the start-stop system meets the working
-`forthing_t5_sx3_en_9ca4f20c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:33 | doc_type:owners_manual
 
 conditions, the start-stop function is ready for activation.
 At this time, the indicator turns from white to green. At
@@ -1360,7 +1274,6 @@ and stopping, which is a normal state and the vehicle has
 no faults.
 
 ### Start-stop
-`forthing_t5_sx3_en_3877bf32` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:33 | doc_type:owners_manual
 
 system
 operation
@@ -1369,7 +1282,6 @@ Type III: When the indicator flashes, it indicates that
 other systems are faulty and cannot be used at this time.
 
 ### Start-stop system MIL (red) *
-`forthing_t5_sx3_en_b082f265` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:33 | doc_type:owners_manual
 
 When there is a fault in the start-stop system, this
 indicator will light up in red. At this time, the start-stop
@@ -1377,7 +1289,6 @@ system cannot be used. Please go to an authorized service
 station of Dongfeng Forthing for inspection.
 
 ### Start/Stop
-`forthing_t5_sx3_en_9abc5eee` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:33 | doc_type:owners_manual
 
 failure
 indicator
@@ -1395,7 +1306,6 @@ up, indicating that the fuel is too little and shall be filled
 in time.
 
 ### Introduction
-`forthing_t5_sx3_en_99530387` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:34 | doc_type:owners_manual
 
 Automatic
 transmission
@@ -1407,7 +1317,6 @@ on, please contact an authorized service station of
 Dongfeng Forthing.
 
 ### Hill descent control working
-`forthing_t5_sx3_en_73b54ea2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:34 | doc_type:owners_manual
 
 indicator (yellow) *
 Type I: When this indicator is normally on, it indicates
@@ -1418,7 +1327,6 @@ system is working, which is normal and the vehicle has
 no fault.
 
 ### Hill descent control working
-`forthing_t5_sx3_en_22b5dd5b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:34 | doc_type:owners_manual
 
 indicator (green)
 Type II: When this indicator is normally on, it indicates
@@ -1446,7 +1354,6 @@ driver assistance system cannot be used. Please contact an
 authorized service station of Dongfeng Forthing.
 
 ### When the adaptive cruise control (ACC) function is
-`forthing_t5_sx3_en_06ed8c4f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:34 | doc_type:owners_manual
 
 turned on but the activation conditions are not met, this
 indicator lights up in white, which is normal and vehicle
@@ -1458,13 +1365,11 @@ When the ACC function is working, this indicator lights
 up in green, which is normal and vehicle has no fault.
 
 ### When the lane keeping function is turned on but the
-`forthing_t5_sx3_en_c447ab85` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:34 | doc_type:owners_manual
 
 activation conditions are not met, this indicator lights up
 in white, which is normal and vehicle has no fault.
 
 ### Lane keeping working indicator
-`forthing_t5_sx3_en_28700a1b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:34 | doc_type:owners_manual
 
 (green) *
 When the lane keeping function is working, this indicator
@@ -1481,7 +1386,6 @@ When the FCW system is turned off, this indicator lights
 up in yellow, which is normal and vehicle has no fault.
 
 ### When the FCW system detects that the vehicle may
-`forthing_t5_sx3_en_f1abc5a0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:34 | doc_type:owners_manual
 
 collide with an object ahead, it will give alarm prompts
 through sound and image. At this time, the indicator will
@@ -1494,7 +1398,6 @@ this indicator lights up in yellow, which is normal and vehicle
 has no fault.
 
 ### When the automatic emergency braking system detects
-`forthing_t5_sx3_en_0f6bdb0f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:34 | doc_type:owners_manual
 
 that the vehicle is about to collide with an object ahead, it
 will automatically take braking measures and give alarm
@@ -1503,7 +1406,6 @@ indicator will flash red, which is normal and the vehicle
 has no fault.
 
 ### When the master switch of the cruise control system is
-`forthing_t5_sx3_en_52108b25` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:35 | doc_type:owners_manual
 
 turned on but not activated, this indicator lights up in
 white, which is normal and vehicle has no fault.
@@ -1515,7 +1417,6 @@ displayed beside it, which is normal and vehicle has no
 fault.
 
 ### PEPS warning indicator (red) *
-`forthing_t5_sx3_en_ae515212` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:35 | doc_type:owners_manual
 
 The light illuminates when the PEPS system is in an alarm
 state. The detailed warning information will be displayed
@@ -1523,7 +1424,6 @@ in the comprehensive information area in the form of text,
 which does not mean that the vehicle has a fault.
 
 ### GPF status indicator (yellow)
-`forthing_t5_sx3_en_7a818f37` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:35 | doc_type:owners_manual
 
 If this indicator lights up and then goes out, it is normal
 and vehicle has no fault.
@@ -1533,7 +1433,6 @@ drive in the expressway driving cycle for active GPF
 regeneration.
 
 ### If this indicator and the OBD malfunction indicator light
-`forthing_t5_sx3_en_116c51a1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:35 | doc_type:owners_manual
 
 (MIL) illuminate simultaneously, it means the carbon
 load in the GPF is extremely high, making high-speed
@@ -1541,7 +1440,6 @@ active regeneration difficult. Please contact an authorized
 service station of Dongfeng Forthing promptly.
 
 ### ECO mode indicator (green)
-`forthing_t5_sx3_en_9908e789` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:35 | doc_type:owners_manual
 
 When the transmission is in economical (ECO) mode, this
 indicator lights up, which is normal and the vehicle has no
@@ -1553,7 +1451,6 @@ indicator lights up, which is normal and the vehicle has
 no fault.
 
 ### SPORT mode indicator (green)
-`forthing_t5_sx3_en_3d6b41d9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:35 | doc_type:owners_manual
 
 For CVT models, when the transmission is in sport
 mode, this indicator illuminates, which is normal and the
@@ -1565,7 +1462,6 @@ Control
 Control
 
 ### Type I
-`forthing_t5_sx3_en_4b077564` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:36 | doc_type:owners_manual
 
 1. Right turn signal
 8. Automatic lighting*
@@ -1582,7 +1478,6 @@ Control
 7. Rear fog light
 
 ### Type II
-`forthing_t5_sx3_en_7b5c7844` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:36 | doc_type:owners_manual
 
 1. Right turn signal
 7. Automatic lighting
@@ -1598,7 +1493,6 @@ Control
 12. High beam
 
 ### High/low beam switching
-`forthing_t5_sx3_en_44d5e6cf` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:36 | doc_type:owners_manual
 
 With the low beams on, push the control
 lever towards the instrument panel to its
@@ -1612,7 +1506,6 @@ will turn on or off automatically depending on
 the ambient brightness.
 
 ### Front headlight height adjustment
-`forthing_t5_sx3_en_b8b883a5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:36 | doc_type:owners_manual
 
 When the vehicle is loaded, the rear part
 of the body may sink, causing the low beam to
@@ -1626,7 +1519,6 @@ sequentially from range 0 to 3.
 Control
 
 ### Rear wiper OFF
-`forthing_t5_sx3_en_5f070516` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:37 | doc_type:owners_manual
 
 9.
 With the rear washer activated, rotate the
@@ -1644,7 +1536,6 @@ adjustable intermittent time ranging from 2 to
 12 seconds.
 
 ### Rain sensing wiper*
-`forthing_t5_sx3_en_5833c4c8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:37 | doc_type:owners_manual
 
 In AUTO mode, the front wiper will be
 turned on or off automatically depending on the
@@ -1660,7 +1551,6 @@ the sensitivity of the rain sensor according to
 your own feeling.
 
 ### Adjust ""
-`forthing_t5_sx3_en_6ee0542b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:37 | doc_type:owners_manual
 
 knob to change the
 sensing sensitivity in AUTO mode of wiper.
@@ -1673,7 +1563,6 @@ position, then the washer will activate while the
 wipers operate at low speed.
 
 ### Press and hold the wiper multi-function
-`forthing_t5_sx3_en_86e0e407` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:38 | doc_type:owners_manual
 
 switch handle towards the instrument panel,
 and then the rear wiper washer will start to
@@ -1698,7 +1587,6 @@ When
 the
 
 ### Start/Stop switch is turned to "ON" position
-`forthing_t5_sx3_en_9c8adc20` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:38 | doc_type:owners_manual
 
 again, the front wiper will automatically return
 to its original position.
@@ -1706,7 +1594,6 @@ Caution
 •
 
 ### As the detection characteristic of the sensor is
-`forthing_t5_sx3_en_f02f0a67` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:38 | doc_type:owners_manual
 
 light balance detection, the wiper may wipe
 when all vehicles pass through the following
@@ -1730,7 +1617,6 @@ the sensor area.
 c)
 
 ### Foreign matters are attached to the sensor
-`forthing_t5_sx3_en_1009e17f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:38 | doc_type:owners_manual
 
 surface；
 b)
@@ -1746,13 +1632,11 @@ rain sensor area, please turn off the automatic wiper
 function to avoid injury to human body.
 
 ### Spare key*
-`forthing_t5_sx3_en_3cef62a0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:39 | doc_type:owners_manual
 
 If the remote/smart key is lost, the spare key
 can be used to unlock the doors and start the engine.
 
 ### Replacement of remote key battery
-`forthing_t5_sx3_en_381f51bb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:39 | doc_type:owners_manual
 
 When
 the
@@ -1771,7 +1655,6 @@ soon as possible to remove the rear cover and
 replace the battery with a new one.
 
 ### The battery in the smart key shall be
-`forthing_t5_sx3_en_2156f754` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:39 | doc_type:owners_manual
 
 replaced when the remote control distance of
 the smart key becomes shorter or the vehicle
@@ -1780,7 +1663,6 @@ fails to recognize the smart key due to low
 battery.
 
 ### Immobilizer system
-`forthing_t5_sx3_en_c9626055` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:39 | doc_type:owners_manual
 
 The
 immobilizer
@@ -1806,14 +1688,12 @@ Control
 Forthing.
 
 ### Carry the intelligent/remote control key
-`forthing_t5_sx3_en_58ccb99b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:40 | doc_type:owners_manual
 
 and press the microswitch to unlock all doors;
 carry the smart key to close all doors and press
 the microswitch to lock all doors.
 
 ### Short press the lock button on the
-`forthing_t5_sx3_en_40c2bc70` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:40 | doc_type:owners_manual
 
 smart/remote
 button
@@ -1829,7 +1709,6 @@ times to alert you to close the door.
 Unlocking
 
 ### With the main unit under immobilizer
-`forthing_t5_sx3_en_dbd15e99` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:40 | doc_type:owners_manual
 
 status, short press the unlock button on the
 smart/remote control key to unlock all five
@@ -1844,7 +1723,6 @@ close the doors first, and then press the lock
 switch down.
 
 ### Unlock button
-`forthing_t5_sx3_en_4cb86157` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:41 | doc_type:owners_manual
 
 2.
 Lock
@@ -1855,7 +1733,6 @@ carried out. With four doors locked, press the
 unlock key to unlock all doors.
 
 ### Carry the intelligent/remote control key
-`forthing_t5_sx3_en_fff08fb1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:41 | doc_type:owners_manual
 
 and press the microswitch to manually open the
 trunk lid. To lock the trunk lid, press it
@@ -1863,7 +1740,6 @@ downward to close it, and then the trunk lid will
 be locked automatically.
 
 ### When the trunk lid cannot be opened due
-`forthing_t5_sx3_en_4b823329` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:41 | doc_type:owners_manual
 
 to lock fastener failure, remove the emergency
 opening cover plate on the inner guard plate of
@@ -1874,14 +1750,12 @@ lid outward with another hand to open it from inside the
 vehicle.
 
 ### If the vehicle is equipped with a power
-`forthing_t5_sx3_en_173b2a8c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:42 | doc_type:owners_manual
 
 trunk lid, press the trunk lid opening button on
 the instrument panel switch set, and the trunk
 lid will open automatically.
 
 ### Close the trunk lid from outside*
-`forthing_t5_sx3_en_33762e13` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:suspension | p:42 | doc_type:owners_manual
 
 Press the trunk lid shield switch, the
 trunk lid will be closed. Press this switch again
@@ -1913,14 +1787,12 @@ than 2 seconds; otherwise, damage or function
 loss of the trunk lid may be caused.
 
 ### Long press and hold the trunk lid unlock
-`forthing_t5_sx3_en_ca8fc695` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:42 | doc_type:owners_manual
 
 button on the intelligent button
 , and then
 the trunk lid will open automatically.
 
 ### Open the trunk lid by induction*
-`forthing_t5_sx3_en_0c9a9b9b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:42 | doc_type:owners_manual
 
 The
 foot-activated
@@ -1945,7 +1817,6 @@ m from the trunk lid.
 •
 
 ### The kick sensing area is located in a width range
-`forthing_t5_sx3_en_043ccd14` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:42 | doc_type:owners_manual
 
 of 50 cm on the left and right below the middle
 part of the rear bumper. Make sure that the kick
@@ -1954,7 +1825,6 @@ Control
 •
 
 ### In order to ensure the effectiveness of kicking
-`forthing_t5_sx3_en_daf16892` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:43 | doc_type:owners_manual
 
 operation, please use front and rear kicking
 operations. The time of the whole operation step
@@ -1969,7 +1839,6 @@ leg and the bottom/rear part of the rear bumper
 shall be controlled within 2 ~ 10 cm respectively.
 
 ### Choose the most suitable method after you have
-`forthing_t5_sx3_en_94237072` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:43 | doc_type:owners_manual
 
 kicked multiple times according to the actual
 situation.
@@ -1998,7 +1867,6 @@ the trunk lid. If the trunk lid is opened
 unintentionally, it may be damaged.
 
 ### Pull up or press down the switch beyond
-`forthing_t5_sx3_en_db36edae` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:43 | doc_type:owners_manual
 
 the
 pressure
@@ -2010,7 +1878,6 @@ automatically raise or lower. To stop it midway,
 simply press or pull the switch.
 
 ### With the Start switch at "OFF" position and the
-`forthing_t5_sx3_en_fbfb79b6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:43 | doc_type:owners_manual
 
 fuel tank cap, trunk lid, engine hood and four
 doors closed, press and hold the unlock button
@@ -2029,7 +1896,6 @@ up
 simultaneously until they are fully closed.
 
 ### The window locking switch
-`forthing_t5_sx3_en_8455f351` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:43 | doc_type:owners_manual
 
 is on the
 door of driver side, closing to the window
@@ -2049,7 +1915,6 @@ passenger side window and rear window, press
 this switch again.
 
 ### If the window is operated repeatedly in a
-`forthing_t5_sx3_en_2ab71e27` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:43 | doc_type:owners_manual
 
 short period of time, the power window control
 switch may fail to work due to the protection of
@@ -2063,7 +1928,6 @@ operation, wait for a while and then the electric
 window can be operated again.
 
 ### During the automatic closing operation of
-`forthing_t5_sx3_en_8bb8d57a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:suspension | p:43 | doc_type:owners_manual
 
 the window, if the window touches an obstacle,
 it will stop and move in the opposite direction
@@ -2073,7 +1937,6 @@ the automatic anti-pinch function will also be
 activated.
 
 ### Initialization learning of anti-pinch power
-`forthing_t5_sx3_en_0e5ef78f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:43 | doc_type:owners_manual
 
 window
 If
@@ -2099,14 +1962,12 @@ position until the window is closed.
 2.
 
 ### Gently press the power window
-`forthing_t5_sx3_en_0e38e8fe` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:44 | doc_type:owners_manual
 
 switch and keep it at the first manual opening
 position until the window is fully opened.
 4.
 
 ### After the window is completely
-`forthing_t5_sx3_en_d330488b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:44 | doc_type:owners_manual
 
 opened, pull the power window switch gently
 and keep it at the first manual closing position
@@ -2115,7 +1976,6 @@ position. If the switch is released during
 window movement, restart the step.
 
 ### If the power window still cannot work
-`forthing_t5_sx3_en_6989d169` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:44 | doc_type:owners_manual
 
 normally after the above operations, please
 contact an authorized service station of Dongfeng
@@ -2135,7 +1995,6 @@ pinched.
 •
 
 ### You can open the sunroof using the sunroof
-`forthing_t5_sx3_en_b2ad6e2b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:44 | doc_type:owners_manual
 
 control switch on the overhead control panel to
 allow air circulation inside the vehicle. The
@@ -2156,7 +2015,6 @@ automatically/gradually tilt to the maximum
 position.
 
 ### Sunroof opening/closing
-`forthing_t5_sx3_en_fffd3b09` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:44 | doc_type:owners_manual
 
 When
 the
@@ -2174,14 +2032,12 @@ Long press the sunroof closing switch,
 and the sunroof will gradually close in place.
 
 ### Tap the sunshade opening/closing switch
-`forthing_t5_sx3_en_6bf53108` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:44 | doc_type:owners_manual
 
 to open or close the sunshade. To stop the
 sunshade, operate any sunshade switch once
 again.
 
 ### Anti-pinch protection
-`forthing_t5_sx3_en_c3a13a90` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:44 | doc_type:owners_manual
 
 During the automatic closing movement,
 if the sunroof encounters any obstacle, it will
@@ -2195,7 +2051,6 @@ is
 designed to prevent injuries.
 
 ### When the sunroof system cannot be
-`forthing_t5_sx3_en_6b45d159` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:44 | doc_type:owners_manual
 
 closed in place, it can be restored by the
 following operations: when the sunroof glass is
@@ -2206,7 +2061,6 @@ will
 move back and forth for less than 10mm.
 
 ### Release the sunroof switch for 5s and then press
-`forthing_t5_sx3_en_3c6e4fa0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:44 | doc_type:owners_manual
 
 and hold the sunroof switch for 3s again, and
 the sunroof glass will automatically open
@@ -2218,7 +2072,6 @@ this time, release the sunroof switch and the
 initialization of the sunroof is completed.
 
 ### If "Press briefly" is selected for the
-`forthing_t5_sx3_en_89b0fa1c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:45 | doc_type:owners_manual
 
 remote control window closing function on the
 multimedia display screen, the power sunroof
@@ -2227,7 +2080,6 @@ button on the smart button is pressed;
 2.
 
 ### If "Press and hold" is selected for
-`forthing_t5_sx3_en_1d95e051` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:45 | doc_type:owners_manual
 
 the remote control window closing function on
 the multimedia display screen, press the lock
@@ -2249,7 +2101,6 @@ position, as they may play with the sunroof
 switch and cause serious accidents.
 
 ### The horn is located at the center of the steering
-`forthing_t5_sx3_en_7dd86fc5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:45 | doc_type:owners_manual
 
 wheel. Pressing it alerts you to dangerous situations and
 reduces the possibility of accidents. Proper use of the horn
@@ -2267,7 +2118,6 @@ adjustment, make sure that the adjustment
 handle is fully locked.
 
 ### After holding the steering wheel with one
-`forthing_t5_sx3_en_0f32edac` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:45 | doc_type:owners_manual
 
 hand
 and
@@ -2289,7 +2139,6 @@ in place.
 △Warning
 
 ### Adjusting the steering wheel position while driving
-`forthing_t5_sx3_en_500fa45f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:45 | doc_type:owners_manual
 
 may cause the vehicle out of control, and thereby cause
 injury to the driver. Please adjust the steering wheel only
@@ -2310,7 +2159,6 @@ Control
 bu
 
 ### Type II
-`forthing_t5_sx3_en_edf9c4b5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:46 | doc_type:owners_manual
 
 1. Return button
 6. Right button
@@ -2328,13 +2176,11 @@ out along with the opening/closing of the left
 rear door, right rear door and trunk lid.
 
 ### When the door control switch "O" end is
-`forthing_t5_sx3_en_86383e24` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:47 | doc_type:owners_manual
 
 pressed, on or off of all reading lights are
 controlled by the reading light switch.
 
 ### When the door control switch is parallel
-`forthing_t5_sx3_en_15ab95b1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:47 | doc_type:owners_manual
 
 to the panel or the "O" end is pressed, the
 reading lights are controlled by corresponding
@@ -2343,7 +2189,6 @@ lights will light up when the switches are
 pressed down and go out when they pop up.
 
 ### When the door control switch is at
-`forthing_t5_sx3_en_14ebea9f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:48 | doc_type:owners_manual
 
 "COURTESY" or "O" position, the rear reading
 light will turn on/off under the control of the
@@ -2355,14 +2200,12 @@ engine, the battery may run out. Before leaving the
 vehicle, make sure that all interior lights are off.
 
 ### Please keep the interior and exterior
-`forthing_t5_sx3_en_fed03610` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:48 | doc_type:owners_manual
 
 rearview mirrors clean and adjust them to the
 best visual angle. Adjust the rearview mirror
 before driving.
 
 ### The mirror adjustment switch can be used
-`forthing_t5_sx3_en_81446e69` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:48 | doc_type:owners_manual
 
 to adjust the exterior rearview mirrors to the
 best view angle. The left/right changeover
@@ -2373,7 +2216,6 @@ switch can be used to control the folding or
 unfolding of the exterior rearview mirrors.
 
 ### Tap "Settings" on the home page of the
-`forthing_t5_sx3_en_a497aa70` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:48 | doc_type:owners_manual
 
 vehicle multimedia display screen. After the
 automatic folding function of exterior rearview
@@ -2384,7 +2226,6 @@ intelligent button to realize automatic folding
 and unfolding of the rearview mirrors.
 
 ### The heating and defrosting function of
-`forthing_t5_sx3_en_991f9984` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:49 | doc_type:owners_manual
 
 exterior rearview mirrors allows removing fog,
 frost and thin ice on the exterior rearview
@@ -2396,7 +2237,6 @@ button is on, indicating that the defroster is
 working.
 
 ### The interior rearview mirror is fixed on
-`forthing_t5_sx3_en_297ffb4a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:49 | doc_type:owners_manual
 
 the windshield. Hold the right side of the
 interior rearview mirror and adjust the mirror
@@ -2406,7 +2246,6 @@ surface to observe the road conditions behind
 the vehicle.
 
 ### Gently pull the tab at the bottom edge of
-`forthing_t5_sx3_en_98647382` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:49 | doc_type:owners_manual
 
 the rearview mirror
 to adjust the mirror
@@ -2429,7 +2268,6 @@ intensities to realize anti-glare.
 Seats
 
 ### Adjustment of third-row seat headrest *
-`forthing_t5_sx3_en_cce54bdb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:49 | doc_type:owners_manual
 
 Control
 To raise or lower the headrest, press the
@@ -2445,7 +2283,6 @@ or backward.
 2.
 
 ### Lift or press down the handle to raise or
-`forthing_t5_sx3_en_02e53e16` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:50 | doc_type:owners_manual
 
 lower
 the
@@ -2462,14 +2299,12 @@ Sit in the seat, lift the handle, and lean
 forward or press back against the backrest.
 
 ### After adjusting the backrest to the appropriate
-`forthing_t5_sx3_en_427fd9a0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:50 | doc_type:owners_manual
 
 position, release the handle, and shake back and
 forth a few times to ensure that the backrest is
 locked in place.
 
 ### Specifications: The seat can move 20 mm forward from the
-`forthing_t5_sx3_en_1ca17b23` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:50 | doc_type:owners_manual
 
 rear limit, allowing for a total forward adjustment of 220
 mm and a backward adjustment of 20 mm. The backrest
@@ -2479,7 +2314,6 @@ position according to correct sitting posture, ensuring
 complete contact with your back.
 
 ### Forward/backward adjustment of seats
-`forthing_t5_sx3_en_83038e9b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:50 | doc_type:owners_manual
 
 Control
 Push
@@ -2494,7 +2328,6 @@ adjustment button upward or downward gently
 to raise or lower the seat as a whole.
 
 ### Push the upper part of the backrest angle
-`forthing_t5_sx3_en_69569b5d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:51 | doc_type:owners_manual
 
 adjustment button forward or backward gently
 to adjust the seat backrest angle forward or
@@ -2511,7 +2344,6 @@ adjustment button to adjust the seat lumbar
 support forward or backward.
 
 ### Lift the pull rod to adjust the seat to move
-`forthing_t5_sx3_en_10d7b405` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:51 | doc_type:owners_manual
 
 forward and backward. After adjusting to the
 appropriate position, release the pull rod and
@@ -2525,7 +2357,6 @@ Sit in the seat, lift the handle, and lean
 forward or press back against the backrest.
 
 ### After adjusting the backrest to the appropriate
-`forthing_t5_sx3_en_a2000aae` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:52 | doc_type:owners_manual
 
 position, release the handle, and shake back and
 forth a few times to ensure that the backrest is
@@ -2539,7 +2370,6 @@ adjustment
 1.
 
 ### Seat design specifications: The seat can
-`forthing_t5_sx3_en_9a822349` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:52 | doc_type:owners_manual
 
 move 170 mm forward from the rear limit. The
 backrest has a design angle of 23° and can be
@@ -2557,7 +2387,6 @@ complete contact with your back.
 adjustment lever
 
 ### Pull up the lever under the front end of the
-`forthing_t5_sx3_en_75a132d3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:52 | doc_type:owners_manual
 
 seat cushion to unlock the slide rail and adjust
 the seat forward or backward. Release the lever
@@ -2571,7 +2400,6 @@ is not locked. Before use, shake the seat back and forth
 to check whether the seat is in the locking area.
 
 ### When the seat backrest adjustment strap
-`forthing_t5_sx3_en_da309b3b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:52 | doc_type:owners_manual
 
 is pulled up, the angle adjuster will be unlocked
 and the backrest will naturally tilt forward.
@@ -2583,7 +2411,6 @@ forward and backward to confirm that it has
 been locked in place.
 
 ### In order to make the rear seat area of the
-`forthing_t5_sx3_en_d0072d37` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:53 | doc_type:owners_manual
 
 seven-seat vehicle more convenient for getting
 on and off, the left seat in the middle row can be
@@ -2602,7 +2429,6 @@ Do not pull up the lock catch when the vehicle is
 running, and make sure that the seats are locked.
 
 ### Lift the front end of the cushion to
-`forthing_t5_sx3_en_2a50b7dd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:53 | doc_type:owners_manual
 
 make its rear end close to the seat basin, as
 shown in the figure above. Gently press down
@@ -2611,7 +2437,6 @@ backward and downward naturally until the rear
 end of the cushion is inserted under the backrest.
 
 ### Pull the rear unlocking strap of the rear
-`forthing_t5_sx3_en_ee03e0c7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:54 | doc_type:owners_manual
 
 seat backrest to unlock the backrest. At the
 same time, gently push the backrest forward to
@@ -2629,7 +2454,6 @@ to slide forward, thus causing accidental injury.
 ●
 
 ### Do not place a cushion or any other similar
-`forthing_t5_sx3_en_40786abb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:54 | doc_type:owners_manual
 
 object between your back and the backrest during the
 driving. Otherwise, the headrest will be out of its
@@ -2637,7 +2461,6 @@ protective role in an emergency.
 Control
 
 ### Front air outlet (Type II)
-`forthing_t5_sx3_en_901f2161` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:55 | doc_type:owners_manual
 
 1. Central air outlet
 4. Air outlet of side windshield defroster
@@ -2648,7 +2471,6 @@ Control
 Control
 
 ### The central air outlet can be adjusted by
-`forthing_t5_sx3_en_5d5c5e09` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:57 | doc_type:owners_manual
 
 changing the direction of the air outlet grille up
 and down, left and right. At the same time, the
@@ -2656,7 +2478,6 @@ air volume can also be adjusted by adjusting the
 blade opening.
 
 ### The air outlet on the left and right sides
-`forthing_t5_sx3_en_df573cf3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:57 | doc_type:owners_manual
 
 can be adjusted up and down, as well as left
 and right, to direct the airflow. Turn the scroll
@@ -2670,7 +2491,6 @@ upward. The wind direction can also be
 adjusted by adjusting the direction of the grille.
 
 ### Scroll down at the top of the multimedia
-`forthing_t5_sx3_en_361e9268` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:58 | doc_type:owners_manual
 
 display screen to bring up the dropdown
 function menu, then tap the rapid cooling/fast warming
@@ -2681,7 +2501,6 @@ efficient and convenient one-touch temperature
 control.
 
 ### Press the
-`forthing_t5_sx3_en_87ef4b4e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:58 | doc_type:owners_manual
 
 button to activate maximum
 front defogging. After defogging, press the
@@ -2697,7 +2516,6 @@ dusty places.
 Control
 
 ### A/C button on the central control panel
-`forthing_t5_sx3_en_4b3a5d56` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:59 | doc_type:owners_manual
 
 1. Mode adjustment knob
 4. Air volume adjustment knob
@@ -2713,7 +2531,6 @@ Additionally, air flows out from the corresponding air
 outlets.
 
 ### Frequent use of the internal circulation mode might
-`forthing_t5_sx3_en_11485981` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:59 | doc_type:owners_manual
 
 lead to condensation forming fog on the side windows
 and front windshield, causing discomfort from a lack of
@@ -2721,7 +2538,6 @@ fresh air in the cabin. Therefore, generally, the A/C
 system should be set to external circulation mode.
 
 ### When driving through areas with high levels of smoke
-`forthing_t5_sx3_en_04270ce7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:59 | doc_type:owners_manual
 
 and dust, utilizing the fresh air mode can introduce smoke
 and dust inside the vehicle. It is recommended to switch to
@@ -2734,7 +2550,6 @@ deactivate the compressor and the button indicator will
 go out.
 
 ### This knob is used to adjust the air volume
-`forthing_t5_sx3_en_82fc347e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:59 | doc_type:owners_manual
 
 at the air outlet. Rotate the knob clockwise to
 increase air speed and air flow. Rotate the knob
@@ -2742,7 +2557,6 @@ counterclockwise to decrease air speed and air
 flow.
 
 ### Press this button to enable or disable the
-`forthing_t5_sx3_en_18336da7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:59 | doc_type:owners_manual
 
 rear
 windshield
@@ -2762,7 +2576,6 @@ the defrosting and demisting function should be
 restarted.
 
 ### The knob is used to adjust the air flow
-`forthing_t5_sx3_en_5c06f71a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:hvac | p:59 | doc_type:owners_manual
 
 temperature at the air outlet. Rotate the knob
 clockwise, toward the red arc, to raise the air
@@ -2784,7 +2597,6 @@ blue color and set the air speed to the expected
 level.
 
 ### Press this switch to turn on or off the
-`forthing_t5_sx3_en_e200eec4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:60 | doc_type:owners_manual
 
 reversing image//panoramic view. For details,
 see "Reversing Image" in Chapter VII.
@@ -2802,14 +2614,12 @@ button
 16.
 
 ### Sound effect and loudness control button
-`forthing_t5_sx3_en_101792c5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 
 Long press or short press. If the original
 loudness is on, press to turn it off; if the original
 loudness is off, press to turn it on.
 
 ### Short press this button to turn on or off the
-`forthing_t5_sx3_en_9ab9a8b4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 
 device.
 In the radio/playback state, turn the knob
@@ -2819,7 +2629,6 @@ treble and bass, balance, front-back balance and
 default volume settings.
 
 ### Band switch button (FM/AM)
-`forthing_t5_sx3_en_86fda439` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 
 In the USB play mode, short press/long
 press this button to switch to the radio mode
@@ -2828,7 +2637,6 @@ In the radio mode, short press/long press
 this button to switch bands.
 
 ### Browse/search (radio) button
-`forthing_t5_sx3_en_cdadc032` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 
 In the radio mode, press this button once
 to scan saved stations. Each station will be
@@ -2844,7 +2652,6 @@ In the playback mode, long press and
 short press this button but no response is given.
 
 ### TUNE knob
-`forthing_t5_sx3_en_e0d27b92` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 
 In the radio status, short-turn the knob to
 search stations automatically. When a station is
@@ -2860,7 +2667,6 @@ reverse. Twist again to cancel the reverse or fast
 backward function.
 
 ### Clock adjusting button
-`forthing_t5_sx3_en_887c7859` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 
 In the radio and playback state, short
 press is invalid. Long press to enter the clock
@@ -2877,14 +2683,12 @@ Control
 long press Save to exit.
 
 ### Mute button
-`forthing_t5_sx3_en_e143b894` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:62 | doc_type:owners_manual
 
 In radio and playback modes, a brief press
 mutes the sound; pressing it again will unmute
 and restore audio output.
 
 ### Insert the USB with MP3 music into the
-`forthing_t5_sx3_en_5dbd5ee0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 USB socket in the correct direction, and the
 system will automatically read the MP3 music
@@ -2895,7 +2699,6 @@ to switch to the USB play mode; press and hold
 this button to perform the same operation.
 
 ### Numeric button 1/II
-`forthing_t5_sx3_en_5eb87995` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 In the radio mode, short press to select
 and play the preset radio station 1 frequency
@@ -2905,7 +2708,6 @@ playback mode, short press to pause playback;
 press and hold to serve the same purpose.
 
 ### Numeric button 2/SCN
-`forthing_t5_sx3_en_6f60931c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 In the radio mode, short press to select and play
 the preset radio station 2 frequency point; press
@@ -2915,7 +2717,6 @@ short press to switch among SCN, DIR, SCN ALL, and
 SCN OFF.
 
 ### Numeric button 3/RPT
-`forthing_t5_sx3_en_4894c4e6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 In the radio mode, short press to select
 and play the preset radio station 3 frequency
@@ -2926,7 +2727,6 @@ among single track repeat, folder repeat, and all repeat;
 press and hold to change repeat play modes.
 
 ### Numeric button 4/RDM
-`forthing_t5_sx3_en_9f1ed315` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 In the radio mode, short press to select and play
 the preset radio station 4 frequency point; press and hold to
@@ -2936,7 +2736,6 @@ RDMDIR/ RDM ALL and RDM OFF respectively; press
 and hold to switch the random playback modes.
 
 ### Numeric button 5/F+
-`forthing_t5_sx3_en_20f4998f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 In the radio mode, short press to select and play
 the preset radio station 5 frequency point; press and hold to
@@ -2946,7 +2745,6 @@ previous file; if no folder exists, short press to play the first
 file.
 
 ### Numeric button 6/F+
-`forthing_t5_sx3_en_ba872e12` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 In the radio status, short press to select
 and play the preset station 6 frequency point;
@@ -2957,7 +2755,6 @@ no folder, short press to play the last song.
 Long press for the same function.
 
 ### Sound effect control button
-`forthing_t5_sx3_en_efcdae55` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 In the radio/playback status, short press
 this button once to switch among EQ OFF, POP,
@@ -2966,7 +2763,6 @@ press the button to switch between LOUD ON
 and LOUD OFF.
 
 ### Setting button
-`forthing_t5_sx3_en_5857df01` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:62 | doc_type:owners_manual
 
 In the radio and playback status, short
 press to enter treble, bass, left/right front/rear
@@ -2980,7 +2776,6 @@ adjustment with the power button. Long press
 for the same function.
 
 ### Notes to users
-`forthing_t5_sx3_en_e174c41d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:63 | doc_type:owners_manual
 
 1.
 According
@@ -2999,7 +2794,6 @@ vehicle.
 2.
 
 ### After the vehicle reaches a certain
-`forthing_t5_sx3_en_250ab3f9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:63 | doc_type:owners_manual
 
 speed, some functions of the audio system may
 not appear on the screen. This is not a function
@@ -3008,7 +2802,6 @@ national or regional regulations.
 3.
 
 ### Disorderly
-`forthing_t5_sx3_en_e373619d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:63 | doc_type:owners_manual
 
 operation will lead to slow processing in the
 background.
@@ -3027,7 +2820,6 @@ Before using the audio system,
 please read all relevant instructions carefully.
 
 ### Any damage caused by failure to follow the
-`forthing_t5_sx3_en_213f0bc6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:63 | doc_type:owners_manual
 
 instructions
 will
@@ -3081,7 +2873,6 @@ function.
 11.
 
 ### In areas with weak network signals
-`forthing_t5_sx3_en_25ff1ca2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:63 | doc_type:owners_manual
 
 such as remote areas, mountainous areas,
 tunnels or underground parking lots, navigation
@@ -3147,7 +2938,6 @@ data plans through the AI Forthing APP or the
 IVI mobile data mall, or use a mobile hotspot.
 
 ### The main interface of the multimedia
-`forthing_t5_sx3_en_e171b8e6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:65 | doc_type:owners_manual
 
 display screen is structured from top to bottom
 into a status bar, a TAB function bar, a content
@@ -3173,7 +2963,6 @@ information from various modules.
 4.
 
 ### In the multimedia volume and screen
-`forthing_t5_sx3_en_83da902b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:65 | doc_type:owners_manual
 
 brightness control area, tap/swipe leftward or
 rightward to adjust the multimedia volume and
@@ -3186,7 +2975,6 @@ cooling, one-touch mute, one-touch screen off
 and fast warming.
 
 ### Tap the button to enter the setting
-`forthing_t5_sx3_en_b34fb163` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:66 | doc_type:owners_manual
 
 interface. The vehicle owner can set the
 navigation,
@@ -3199,7 +2987,6 @@ rally function.
 2.
 
 ### Tap the button to enter the navigation
-`forthing_t5_sx3_en_ce9573b0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:66 | doc_type:owners_manual
 
 search interface, where you can directly search
 for an address to start navigation.
@@ -3212,7 +2999,6 @@ zoom in/out the map and switch the display
 mode of navigation direction arrow.
 
 ### Tap the shortcut navigation button on the
-`forthing_t5_sx3_en_1b50bae9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:66 | doc_type:owners_manual
 
 navigation search interface to directly navigate.
 2.
@@ -3228,7 +3014,6 @@ Support clearing history records.
 4.
 
 ### IoV *
-`forthing_t5_sx3_en_84f214a5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:67 | doc_type:owners_manual
 
 1.
 When
@@ -3263,7 +3048,6 @@ Through
 the
 
 ### IoV *
-`forthing_t5_sx3_en_d5069759` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:68 | doc_type:owners_manual
 
 association and intercommunication between
 the car owner's account and WeChat account,
@@ -3282,7 +3066,6 @@ intelligent unconscious parking service, etc.
 "Tencent
 
 ### Parking" is a convenient payment technology
-`forthing_t5_sx3_en_ba4b787c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:68 | doc_type:owners_manual
 
 based on the intelligent management system of
 parking lots. The user only needs to bind the
@@ -3297,7 +3080,6 @@ payment experience without getting a card for
 entry or scanning a code for exit.)
 
 ### Online media homepage
-`forthing_t5_sx3_en_a70ae47b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:68 | doc_type:owners_manual
 
 1.
 In the recommended function menu,
@@ -3312,7 +3094,6 @@ Listening", "Today's News" and music "Top
 Ranking" according to their interests. Tap "My
 
 ### For TAI personal account information of
-`forthing_t5_sx3_en_99a9c079` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:68 | doc_type:owners_manual
 
 online entertainment, tap to view personal
 information details.
@@ -3328,14 +3109,12 @@ recommended columns.
 5.
 
 ### The currently playing content can be
-`forthing_t5_sx3_en_10de6d5b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:68 | doc_type:owners_manual
 
 paused/played, switched to the previous/next
 song, and the playlist can be unfolded.
 6.
 
 ### Slide leftward or rightward at the album
-`forthing_t5_sx3_en_c68e9098` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:68 | doc_type:owners_manual
 
 picture on the upper part of the playlist interface
 to switch songs. At the same time, you can
@@ -3359,7 +3138,6 @@ homepage.
 Playlist
 
 ### IoV *
-`forthing_t5_sx3_en_5c8ead2f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:69 | doc_type:owners_manual
 
 For the TAI online entertainment account:
 if you are not logged in, tap the "Login Now"
@@ -3373,7 +3151,6 @@ nickname will be visible; tap "Logout" to exit
 the current account.
 
 ### Tips for quick access to QQ Music
-`forthing_t5_sx3_en_54987fde` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:69 | doc_type:owners_manual
 
 1.
 Tap
@@ -3394,7 +3171,6 @@ adjust the volume.
 Radio
 
 ### Tap the radio button to enter the online
-`forthing_t5_sx3_en_44ce5493` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:70 | doc_type:owners_manual
 
 radio interface.
 2.
@@ -3433,7 +3209,6 @@ Reading for access.
 2.
 
 ### After the account is bound to WeChat
-`forthing_t5_sx3_en_4961d017` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:70 | doc_type:owners_manual
 
 Reading, the owner can choose audiobook
 categories such as "My Bookshelf", "Recently
@@ -3442,7 +3217,6 @@ Played", "Novels for Boys", "Novels for Girls",
 3.
 
 ### The owner can tap the news button to
-`forthing_t5_sx3_en_6197316c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:71 | doc_type:owners_manual
 
 enter the online news interface.
 2.
@@ -3455,7 +3229,6 @@ Specific range of news sections.
 1.
 
 ### The owner can switch to check and use
-`forthing_t5_sx3_en_cda29c96` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:71 | doc_type:owners_manual
 
 local radio, Bluetooth music, USB music or
 USB video.
@@ -3475,7 +3248,6 @@ an existing channel in your favorites. Long
 press is supported for deletion.
 
 ### When the Bluetooth switch is not turned
-`forthing_t5_sx3_en_74847e41` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:72 | doc_type:owners_manual
 
 on, the interface will display that Bluetooth has
 been turned off. Tap the Bluetooth function
@@ -3490,7 +3262,6 @@ for
 Bluetooth connection.
 
 ### Previous/next
-`forthing_t5_sx3_en_83f54dda` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:72 | doc_type:owners_manual
 
 song, play/pause,
 cycle
@@ -3511,7 +3282,6 @@ be
 performed.
 
 ### Personal center
-`forthing_t5_sx3_en_64899ce9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:73 | doc_type:owners_manual
 
 Personal center main interface. You can
 perform
@@ -3528,7 +3298,6 @@ maintenance reservation interface to schedule
 service reservation with the service station.
 
 ### The main functions of More Applications
-`forthing_t5_sx3_en_0747ef06` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:73 | doc_type:owners_manual
 
 interface include Bluetooth phone,
 dashcam
@@ -3544,7 +3313,6 @@ switch the display interface.
 2.
 
 ### The function buttons of the vehicle
-`forthing_t5_sx3_en_b8356332` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:74 | doc_type:owners_manual
 
 travelling
 data recorder can be
@@ -3562,7 +3330,6 @@ as uploading videos/photos to the cloud for storage and
 deletion.
 
 ### These settings of dashcam allow you to
-`forthing_t5_sx3_en_309a23c2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:74 | doc_type:owners_manual
 
 adjust
 the
@@ -3576,14 +3343,12 @@ on, the Bluetooth phone interface will display
 Bluetooth Switch. Tap the switch to enable the
 
 ### Bluetooth function and prompt to connect the
-`forthing_t5_sx3_en_95c0b20e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:75 | doc_type:owners_manual
 
 Bluetooth of the mobile phone. After successful
 connection, other operations can be performed.
 3.
 
 ### Assistance
-`forthing_t5_sx3_en_2d37ea55` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:75 | doc_type:owners_manual
 
 to
 directly
@@ -3598,7 +3363,6 @@ each corresponding interface. You can choose
 whether to synchronize in the address book.
 
 ### If you need an introduction to the video
-`forthing_t5_sx3_en_787bae6d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:75 | doc_type:owners_manual
 
 list, tap on a video to play and view it. You can
 scroll down the list to see more videos.
@@ -3618,7 +3382,6 @@ hotspot setting, Bluetooth setting and other
 functions.
 
 ### The body accessories section allows the
-`forthing_t5_sx3_en_7adcbf2f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:76 | doc_type:owners_manual
 
 configuration of various vehicle body functions,
 such as the automatic folding switch of exterior
@@ -3631,7 +3394,6 @@ control mode switching, remote lock feedback,
 and roof light delay setting.
 
 ### The sound setting allows you to set the sound
-`forthing_t5_sx3_en_a78f77e7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:76 | doc_type:owners_manual
 
 effects of the IVI system on the multimedia
 display screen. You can scroll down for more
@@ -3642,7 +3404,6 @@ phone volume, sound effect adjustment and
 sound field adjustment.
 
 ### The more settings can be used for a series
-`forthing_t5_sx3_en_ae75539b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:77 | doc_type:owners_manual
 
 of
 operations
@@ -3660,7 +3421,6 @@ viewing open font protocols, resetting factory
 settings and problem feedback.
 
 ### Voice control function
-`forthing_t5_sx3_en_bc91c9c9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:78 | doc_type:owners_manual
 
 Forthing
 T5
@@ -3682,7 +3442,6 @@ control,
 etc.
 
 ### Different from traditional button operation and
-`forthing_t5_sx3_en_77a0f543` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:78 | doc_type:owners_manual
 
 touch screen operation, voice operation can
 further liberate the driver's hands to complete
@@ -3691,7 +3450,6 @@ while keeping driving sight, so as to ensure
 driving safety.
 
 ### Method I: Tap the wake-up mode II button on
-`forthing_t5_sx3_en_18dae434` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:78 | doc_type:owners_manual
 
 the steering wheel
 Method II: Say "Forthing, Forthing" directly to
@@ -3706,13 +3464,11 @@ example, directly say "Give you a name called
 Li Meimei", and then use Li Meimei to activate.
 
 ### When the voice assistant is successfully
-`forthing_t5_sx3_en_92404478` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:78 | doc_type:owners_manual
 
 activated, the word "Listening" will appear in
 the upper middle of the main interface.
 
 ### Wake-up free function
-`forthing_t5_sx3_en_72cc9b95` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:79 | doc_type:owners_manual
 
 The wake-up free function means that the voice assistant does not need to be woken up by
 "Forthing Forthing" and can execute corresponding functions by directly speaking command.
@@ -3720,7 +3476,6 @@ Wake-up free is divided into global wake-up free and intra-application wake-up f
 functions are shown in the following table.
 
 ### Turn on the A/C
-`forthing_t5_sx3_en_442f662a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:79 | doc_type:owners_manual
 
 Usually, wake-up free responses are provided for voice
 inquiries. And some pages allow direct voice control.
@@ -3736,7 +3491,6 @@ In the music playing interface, directly say "Single
 cycle" and "Favorites".
 
 ### The route preference can be reset in
-`forthing_t5_sx3_en_d4046237` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:80 | doc_type:owners_manual
 
 navigation, and 4 types are supported:
 1. Avoid congestion route
@@ -3749,7 +3503,6 @@ Start navigation, navigation starts, initiate navigation,
 start navigation now, navigating for me.
 
 ### Navigation
-`forthing_t5_sx3_en_7f9ae311` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:81 | doc_type:owners_manual
 
 ATMs on the way, gas stations along the way, go to the
 toilet first, find a park on the way, I need to go home
@@ -3761,7 +3514,6 @@ destination, how long will it take to arrive, how long
 will it take for me to get there.
 
 ### See the overview
-`forthing_t5_sx3_en_23cfa68a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:81 | doc_type:owners_manual
 
 See the overview, view the whole journey, see
 overview map, overview mode and map overview
@@ -3773,14 +3525,12 @@ searching for ATMs along the way, finding a repair
 shop on the way, looking for a toilet on the way.
 
 ### Set the address of home/company
-`forthing_t5_sx3_en_8c84c483` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:81 | doc_type:owners_manual
 
 Set the current location as company, set the warm
 community as home, save this location as my home,
 and the address of home is warm community.
 
 ### Location query
-`forthing_t5_sx3_en_2c7327d5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:hvac | p:81 | doc_type:owners_manual
 
 Where is Tencent Building, search for Carrefour in
 Sanli'an, search for the location of Sanli'an Carrefour,
@@ -3792,7 +3542,6 @@ People's Park, I want to search for Xinjiang Miaoergou,
 search for Liberation Monument.
 
 ### Locate the current position
-`forthing_t5_sx3_en_68667bb5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:81 | doc_type:owners_manual
 
 Where am I now, where am I at now, what is my
 current location, where I am currently and my current
@@ -3804,7 +3553,6 @@ I'm going to Hua Xia Bank and looking for a hospital
 nearby.
 
 ### Map zooming
-`forthing_t5_sx3_en_6ca0cbb5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:81 | doc_type:owners_manual
 
 Zoom in the map, the map zoomed in, zoom out the
 navigation map, enlarge the map, and zoom out the
@@ -3817,7 +3565,6 @@ current route, I want to stop navigation, navigation
 canceled.
 
 ### On-demand by singer name
-`forthing_t5_sx3_en_6c7b2ad2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:82 | doc_type:owners_manual
 
 Play a song by Hua Chenyu, I want to listen to Jay Chou, I
 want to listen to a song by Huang Rong, play a song by
@@ -3828,7 +3575,6 @@ want to listen to a song by Faye Wong, play a song by
 Wang Feng, play a song by Jonathan Lee.
 
 ### On-demand by song name
-`forthing_t5_sx3_en_5a4e6758` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:82 | doc_type:owners_manual
 
 I want to listen to the Twilight's Chapter Seven, play the
 song Fresh Touch of Love, song Female Consort Prince, I
@@ -3838,7 +3584,6 @@ Skies, I want to listen to Black Sweater, I want to listen to
 music Fantasy, listen to Soil of Spring.
 
 ### On-demand by singer name +
-`forthing_t5_sx3_en_0db959b1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:82 | doc_type:owners_manual
 
 song name
 Play Jay Chou's Waiting For You, I want to listen to
@@ -3853,7 +3598,6 @@ Pause, pause playing, pause for a moment, pause for a
 second, I want to pause.
 
 ### Listen to # Radio station
-`forthing_t5_sx3_en_9710a6d6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
 
 name #
 I want to listen to Tianjin Life Radio, listen to Zhejiang
@@ -3865,7 +3609,6 @@ want to listen to Tianjin Traffic Radio, and listen to
 CNR MusicRadio.
 
 ### Tune in # FM #
-`forthing_t5_sx3_en_2a7c7837` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
 
 Radio 94.2 MHz, I want to listen to FM 927, play 101.1,
 radio FM 88.00, turn on radio 106.1, listen to FM90.4, play
@@ -3879,14 +3622,12 @@ listen to AM 45.2, play AM83.9 for me, AM 45.2, play
 AM83.9, AM 810.
 
 ### Tune in # Numbers #
-`forthing_t5_sx3_en_50d84b8a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
 
 Turn on the radio 911, turn on the radio to listen to 911, play
 1039, play 900, I want to listen to 1058, I want to listen to
 radio 1011, and listen to 957.
 
 ### Listen to # Album name #
-`forthing_t5_sx3_en_394ffada` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
 
 Play Chinese Classical Literature, Storytelling Club, listen to the
 Power Trio, please play Gao Xiaosong's Northern Compass, listen
@@ -3897,7 +3638,6 @@ Embarrassing Stories, I want to listen to review of Yin-Yang
 Agent: The Fate Changer, I want to listen to Nine Death into God.
 
 ### Listen to # Anchor name
-`forthing_t5_sx3_en_1681c0be` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
 
 #
 Shan Tianfang's storytelling, give me a piece of Guo Degang's
@@ -3907,7 +3647,6 @@ Kaishu for an inspirational story, let's have a short story about
 Uncle Qiumu, Zhao Benshan's program, and Ma Weidu's program.
 
 ### Listen to # Album
-`forthing_t5_sx3_en_3d9ce853` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
 
 category #
 I want to listen to children's stories, I want to listen to classic fairy
@@ -3917,7 +3656,6 @@ travel through time and space, play the most popular talk show, I
 want to listen to the hottest crosstalk, play novels for me.
 
 ### Listen to # Album
-`forthing_t5_sx3_en_85161cb9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:83 | doc_type:owners_manual
 
 subcategory #
 I'd like to play constellation radio programs, recommend leisure
@@ -3930,7 +3668,6 @@ car-related program, and I want to listen to a radio program about
 health preservation.
 
 ### Tell jokes
-`forthing_t5_sx3_en_c43a3162` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
 
 Tell me a funny joke, tell me a joke, tell me a dry joke, tell me a
 good joke, I want to hear a joke, please tell a joke, I want to hear
@@ -3939,7 +3676,6 @@ have some fun, are there any new jokes, please tell me a joke, tell a
 joke.
 
 ### Air-to-footwell
-`forthing_t5_sx3_en_6d667cb6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:84 | doc_type:owners_manual
 
 Adjust the A/C to air-to-footwell mode, and adjust the blowing mode
 to air-to-footwell mode.
@@ -3949,7 +3685,6 @@ Air-to-face and air-to-footwell Switch the A/C to air-to-face and air-to-footwel
 for air-to-face and air-to-footwell mode.
 
 ### Air-to-face
-`forthing_t5_sx3_en_45adef41` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:84 | doc_type:owners_manual
 
 Try to change the A/C into air-to-face mode, or change to air-to-face
 for a try.
@@ -3959,7 +3694,6 @@ Turn on the A/C rear defroster, turn the A/C rear defroster on, or
 please activate the A/C rear defroster.
 
 ### Lowest wind speed
-`forthing_t5_sx3_en_c3fa5d43` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:84 | doc_type:owners_manual
 
 Adjust the air volume to the maximum, try the maximum air
 volume, Maximum air volume, adjust the air volume to Level VII,
@@ -3971,7 +3705,6 @@ volume, adjust the air volume to the lowest, adjust the air volume
 to Level I, or air volume to the lowest.
 
 ### Increase the air volume by X
-`forthing_t5_sx3_en_ee52c6ab` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:84 | doc_type:owners_manual
 
 levels
 Increase the air volume by 3 levels, increase the air volume by 2
@@ -3985,7 +3718,6 @@ levels, lower 2 levels of air volume, reduce the air volume by 3
 levels, and decrease 3 levels of air volume.
 
 ### (18°C - 32°C)
-`forthing_t5_sx3_en_c11df95b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:84 | doc_type:owners_manual
 
 Adjust the temperature for driver's seat to 27°C, set the driver's
 side temperature to 26°C.
@@ -3996,7 +3728,6 @@ It is so cold and increase the temperature of the driver's seat, or
 raise the driver's seat temperature.
 
 ### Lower the driver's seat
-`forthing_t5_sx3_en_34406354` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:84 | doc_type:owners_manual
 
 temperature
 It is so hot and lower the temperature of the driver's seat, or reduce
@@ -4007,7 +3738,6 @@ Adjust the front passenger's seat temperature to 27°C, set the and
 front passenger's seat temperature to 26°C.
 
 ### Increase the front passenger's
-`forthing_t5_sx3_en_0972b29e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:84 | doc_type:owners_manual
 
 seat temperature
 It is so cold and increase the temperature of the front passenger
@@ -4019,7 +3749,6 @@ It is so hot and lower the temperature of the front passenger's seat,
 reduce the front passenger's seat temperature.
 
 ### Highest temperature
-`forthing_t5_sx3_en_5500581e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:84 | doc_type:owners_manual
 
 Adjust to the highest temperature, try the highest temperature,
 adjust the temperature to highest, set to the highest temperature,
@@ -4031,7 +3760,6 @@ temperature to the minimum, set to the lowest temperature, and
 adjust to the minimum temperature.
 
 ### Turn on the AUTO mode
-`forthing_t5_sx3_en_cb829cda` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:84 | doc_type:owners_manual
 
 Turn on the A/C AUTO mode, enable the A/C AUTO mode,
 activate the A/C AUTO mode, and turn the A/C AUTO mode on.
@@ -4042,7 +3770,6 @@ mode, please disable the A/C AUTO mode, turn the A/C AUTO
 mode off, deactivate the A/C AUTO mode.
 
 ### Make a call to the
-`forthing_t5_sx3_en_e987c032` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:85 | doc_type:owners_manual
 
 contact
 Call Xiaota, connect me to Xiaota,
@@ -4059,7 +3786,6 @@ Call Jingdong customer service, call China Merchants Bank credit card,
 call China Unicom, I want to call the police.
 
 ### Inquiry number
-`forthing_t5_sx3_en_2fed5a97` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:85 | doc_type:owners_manual
 
 Please help me check the phone number of Xiaota, find the phone
 number for the contact Xiaota, what is Xiaota's phone number.
@@ -4071,7 +3797,6 @@ phone directory, search phone book and search
 contact list.
 
 ### Change the color
-`forthing_t5_sx3_en_ff68c256` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:85 | doc_type:owners_manual
 
 Change the color of ambient light, turn the
 ambient light to a different color, next ambient
@@ -4079,7 +3804,6 @@ light color, ambient light color change, previous
 ambient light color.
 
 ### Brightness adjustment
-`forthing_t5_sx3_en_bece5f0d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:85 | doc_type:owners_manual
 
 Adjust the display to the darkest, raise the screen
 a little bit, increase the screen to the maximum,
@@ -4107,7 +3831,6 @@ Increase the brightness by 2 levels, and adjust
 the backlight to Level 2.
 
 ### Seat heating
-`forthing_t5_sx3_en_a8b2c246` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:85 | doc_type:owners_manual
 
 Activate seat heating Turn on the seat heating, please turn the seat
 heating on.
@@ -4118,7 +3841,6 @@ Switching voice roles Summon Daji, summon Li Bai, switch to Daji,
 and switch to Li Bai.
 
 ### Open the rear right
-`forthing_t5_sx3_en_7eeb8e03` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:86 | doc_type:owners_manual
 
 window
 Open the rear right window, lower the rear right
@@ -4130,7 +3852,6 @@ Close the rear right window, lower the rear right
 window, and the rear right window is closed.
 
 ### Open the front right
-`forthing_t5_sx3_en_1f62f893` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:86 | doc_type:owners_manual
 
 window
 Open the front right window, lower the front
@@ -4145,7 +3866,6 @@ right window, the front right window is closed,
 and close the front right window for me.
 
 ### Open the rear left
-`forthing_t5_sx3_en_314189fd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:86 | doc_type:owners_manual
 
 window
 Open the rear left window, lower the rear left
@@ -4158,7 +3878,6 @@ window, the rear left window is closed, and help
 me close the rear left window.
 
 ### Open the application
-`forthing_t5_sx3_en_a5c1560c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:86 | doc_type:owners_manual
 
 Turn on the radio function, turn on navigation, turn on video, turn on
 music, please help me turn on GPS navigation, turn the navigation on,
@@ -4169,7 +3888,6 @@ Turn off Kugou, turn off music, turn off navigation, turn the music off,
 turn off Bluetooth music, please help me to turn off music.
 
 ### Turn off the screen
-`forthing_t5_sx3_en_71476054` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:86 | doc_type:owners_manual
 
 Turn off the screen, turn the screen off, switch off the screen.
 Mute
@@ -4178,7 +3896,6 @@ volume, mute it, please help me to turn on the mute mode, set to mute,
 mute.
 
 ### Volume adjustment
-`forthing_t5_sx3_en_ff93522f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:86 | doc_type:owners_manual
 
 Turn up the music volume, the song is too low to be heard, turn the music
 up, turn off the radio volume, can you lower the volume of voice
@@ -4189,7 +3906,6 @@ In addition to the above-mentioned standard voice commands, Forthing Voice Assis
 and expand new voice commands according to your use. You can try different voice interaction vocabularies.
 
 ### Voice command examples
-`forthing_t5_sx3_en_ef343869` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:86 | doc_type:owners_manual
 
 Voice
 invocation,
@@ -4199,7 +3915,6 @@ How cold it will be tonight, how hot it will be in Beijing
 tomorrow, is it suitable for car washing today, is it suitable
 
 ### IoV *
-`forthing_t5_sx3_en_4e750a63` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:87 | doc_type:owners_manual
 
 intelligent
 services
@@ -4209,7 +3924,6 @@ for climbing the mountain tomorrow, and is it suitable for
 fishing the day after tomorrow?
 
 ### How to express "Dragon Boat Festival" in English?
-`forthing_t5_sx3_en_a478e1ef` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:87 | doc_type:owners_manual
 
 Voice
 invocation,
@@ -4231,7 +3945,6 @@ are in 3.01 tons, what is the distance of a light-year, what is
 254?
 
 ### Number inquiry: Check the postal
-`forthing_t5_sx3_en_ef6f88d7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:87 | doc_type:owners_manual
 
 code, telephone number and yellow
 pages
@@ -4255,7 +3968,6 @@ continuous lines (previous sentence
 - next sentence)
 
 ### Who wrote the Thoughts in the Silent Night?
-`forthing_t5_sx3_en_2add86de` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:suspension | p:87 | doc_type:owners_manual
 
 Time and date: time, date, number
 of
@@ -4288,7 +4000,6 @@ market capitalization, market index
 quotation,
 
 ### Total assistance
-`forthing_t5_sx3_en_9a76e117` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:87 | doc_type:owners_manual
 
 What can you do, talk about your functions, I want to learn
 about your functions, how many functions do you have, what
@@ -4296,7 +4007,6 @@ are your capabilities, introduce all your functions and what
 are your functions?
 
 ### Assistance in different fields
-`forthing_t5_sx3_en_7dde9115` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:87 | doc_type:owners_manual
 
 How to use the navigation device, navigation voice
 assistance, open navigation assistance, what is the method of
@@ -4307,14 +4017,12 @@ play with Bluetooth, could you please tell me where the A/C
 switch is.
 
 ### Vehicle manual
-`forthing_t5_sx3_en_062746bf` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:87 | doc_type:owners_manual
 
 Open the vehicle manual, open the user manual, where is the
 user manual, please help me open the vehicle manual, where
 is the vehicle manual, How can I open the vehicle manual?
 
 ### Utilize Tencent Video
-`forthing_t5_sx3_en_a01fd371` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:88 | doc_type:owners_manual
 
 1.
 Tencent Video search function, tap to
@@ -4325,7 +4033,6 @@ Tencent Video personal center. Users can log in
 and switch accounts. The VIP information of
 
 ### The category tags on Tencent Video can
-`forthing_t5_sx3_en_b49dc167` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:88 | doc_type:owners_manual
 
 be swiped to view, and tap the tag to enter the
 corresponding category for video watching.
@@ -4338,7 +4045,6 @@ you can perform operations such as rewinding
 3.
 
 ### Tap any position in the play area to wake
-`forthing_t5_sx3_en_97ba8600` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:88 | doc_type:owners_manual
 
 up the play control. In the bottom control area,
 you can select episodes, drag to adjust the
@@ -4347,7 +4053,6 @@ bar, choose video clarity, select
 playback speed, and perform other operations.
 
 ### Messages that can be sent by on-board
-`forthing_t5_sx3_en_91d16e0e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:89 | doc_type:owners_manual
 
 WeChat are voice messages, which are sent
 through voice commands. The user just needs
@@ -4361,7 +4066,6 @@ XXX
 by
 
 ### Receive WeChat messages
-`forthing_t5_sx3_en_636f53e6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:89 | doc_type:owners_manual
 
 When
 there
@@ -4381,7 +4085,6 @@ Message".
 When receiving messages, the on-board
 
 ### Turn over the sun visor downward to
-`forthing_t5_sx3_en_01c77e8c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:90 | doc_type:owners_manual
 
 block the glare ahead. To block strong light
 from the side, first detach the left side support
@@ -4393,7 +4096,6 @@ To use the vanity mirror, turn down the
 sun visor and open the vanity mirror cover.
 
 ### Glasses case*
-`forthing_t5_sx3_en_61639b4a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:90 | doc_type:owners_manual
 
 Press the glasses case upwards to open it.
 If you need to close it, just close it.
@@ -4405,7 +4107,6 @@ on one side can be removed to place larger
 objects.
 
 ### The cigarette lighter is located in the front
-`forthing_t5_sx3_en_34ff568d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:93 | doc_type:owners_manual
 
 storage box of auxiliary instrument panel. The
 cigarette lighter can work only when the Start
@@ -4415,7 +4116,6 @@ heated and ready for use, the cigarette lighter
 will automatically pop out with a "click" sound.
 
 ### Please do not take out the cigarette lighter from
-`forthing_t5_sx3_en_aebd6bb6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:93 | doc_type:owners_manual
 
 the socket at ordinary times, so as to avoid short
 circuit due to blockage of the socket by foreign
@@ -4427,7 +4127,6 @@ other vehicles. This is to prevent the cigarette
 lighter from overheating and causing a fire.
 
 ### The USB interface can work only when
-`forthing_t5_sx3_en_d70d3d19` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:93 | doc_type:owners_manual
 
 the Start/Stop switch is at "ON" or "ACC"
 position. This interface can be used for mobile
@@ -4437,7 +4136,6 @@ multimedia display to USB flash dick play
 mode.
 
 ### The rear USB port is located below the
-`forthing_t5_sx3_en_41010c59` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:94 | doc_type:owners_manual
 
 rear air outlet of auxiliary dashboard. This USB
 port only has the charging function.
@@ -4449,7 +4147,6 @@ USB port and disabling its function.
 •
 
 ### The USB power interface only provides charging
-`forthing_t5_sx3_en_b143b31d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:94 | doc_type:owners_manual
 
 function, and the maximum charging current is
 2.3 A. Do not insert high-current electrical
@@ -4472,7 +4169,6 @@ to avoid fire.
 •
 
 ### Do not allow children to use or touch the 12V
-`forthing_t5_sx3_en_f47ad9e0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:95 | doc_type:owners_manual
 
 on-board power supply, and do not insert metal
 foreign matters into the power interface to avoid
@@ -4485,7 +4181,6 @@ into the 12V on-board power socket to avoid fire
 caused by short circuit.
 
 ### The wireless charging device is installed
-`forthing_t5_sx3_en_f7ca299b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:95 | doc_type:owners_manual
 
 in the central storage
 box. The
@@ -4523,7 +4218,6 @@ from the surface of the wireless charging
 device.
 
 ### The wireless
-`forthing_t5_sx3_en_8e3954ad` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:95 | doc_type:owners_manual
 
 charging device has a
 forgotten device reminder function. Triggering
@@ -4538,7 +4232,6 @@ The Start switch is at OFF position.
 The driver's door is opened.
 
 ### If the above conditions are met at the
-`forthing_t5_sx3_en_8c436a76` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:95 | doc_type:owners_manual
 
 same time, the instrument cluster will display
 "Forgot Mobile Phone" and buzz for 30s.
@@ -4570,7 +4263,6 @@ charging icon, but it does not actually charge the
 portable device.
 
 ### Dash cam memory card
-`forthing_t5_sx3_en_d2e9bfa1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:95 | doc_type:owners_manual
 
 The
 dashcam
@@ -4584,14 +4276,12 @@ for operating the TF card. When the Start/Stop
 switch is turned from "OFF" to "ACC" position,
 
 ### Interior layout
-`forthing_t5_sx3_en_9bb17386` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:96 | doc_type:owners_manual
 
 the vehicle travelling data recorder starts to
 work and enters the video recording status.
 △Warning
 
 ### In order to ensure the personal and property safety of
-`forthing_t5_sx3_en_faf730fa` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:96 | doc_type:owners_manual
 
 the driver, it is strongly recommended that this vehicle
 travelling data recorder should not be operated during
@@ -4600,7 +4290,6 @@ damage. Please properly set relevant items before
 driving.
 
 ### The vehicle is equipped with interior
-`forthing_t5_sx3_en_9d5e277b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:96 | doc_type:owners_manual
 
 handles on the front passenger side and both
 sides of the rear seat for passengers to use under
@@ -4610,7 +4299,6 @@ which automatically returns to its original
 position when released.
 
 ### The magazine bag is located on the back
-`forthing_t5_sx3_en_8a86e2db` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:96 | doc_type:owners_manual
 
 of the front and second row seats (some models), which
 is used to place small items such as plastic bags and
@@ -4622,7 +4310,6 @@ will automatically light up to facilitate storage
 of items.
 
 ### Interior layout
-`forthing_t5_sx3_en_6531fa66` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:97 | doc_type:owners_manual
 
 1.
 Pull and hold the handle, turn it
@@ -4633,7 +4320,6 @@ corresponding slots of the side wall.
 2.
 
 ### Retractable parcel shelf recovery
-`forthing_t5_sx3_en_17bcdb55` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:97 | doc_type:owners_manual
 
 steps are in reverse order of unfolding steps.
 For the seven-seat model, when it is
@@ -4651,7 +4337,6 @@ Safety
 Safety
 
 ### Driving precautions
-`forthing_t5_sx3_en_be08f577` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:98 | doc_type:owners_manual
 
 Before driving, please be sure to read the
 contents of this chapter, which will ensure that
@@ -4660,7 +4345,6 @@ methods and precautions of the vehicle, so as to
 facilitate safe driving.
 
 ### The SRS can only provide protection
-`forthing_t5_sx3_en_cdea5674` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:98 | doc_type:owners_manual
 
 when you
 wear your
@@ -4669,7 +4353,6 @@ maximum safety for passengers in the event of
 unexpected accidents.
 
 ### In case of an emergency braking under
-`forthing_t5_sx3_en_3cfd4ad4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:98 | doc_type:owners_manual
 
 unexpected circumstances during driving, the
 driver and passengers can be restrained to the
@@ -4680,7 +4363,6 @@ secondary collision injury.
 •
 
 ### Do not cross the seat belt across your lower
-`forthing_t5_sx3_en_91798424` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:98 | doc_type:owners_manual
 
 abdomen.
 Otherwise,
@@ -4694,7 +4376,6 @@ lower abdomen, increasing the risk of injury.
 •
 
 ### Adjust the shoulder part of the seat belt to the
-`forthing_t5_sx3_en_9a81829f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:98 | doc_type:owners_manual
 
 most suitable position and tighten it as much as
 possible
@@ -4712,7 +4393,6 @@ child sit on the front seat.
 •
 
 ### Each passenger is allowed to use only one seat
-`forthing_t5_sx3_en_7444a920` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:98 | doc_type:owners_manual
 
 belt. Do not hold a baby or child in your arms
 and fasten the seat belt around them, as this
@@ -4725,7 +4405,6 @@ across the chest. In case of emergency braking
 or collision, the shoulder belt will be locked.
 
 ### All seating positions in the vehicle are
-`forthing_t5_sx3_en_73a185bd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:98 | doc_type:owners_manual
 
 equipped with three-point seat belts. To fasten
 the seat belt, pull the belt from the retractor and
@@ -4735,14 +4414,12 @@ locked. To unfasten the seat belt, simply press
 the button on the buckle.
 
 ### Pull out the adjustment button to adjust
-`forthing_t5_sx3_en_bb1db9a4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:99 | doc_type:owners_manual
 
 the height adjuster up and down. The height adjuster can
 be moved up by pushing the sliding block trim panel
 upwards.
 
 ### Each seat belt is equipped with one
-`forthing_t5_sx3_en_b40356f9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:99 | doc_type:owners_manual
 
 retractor. During normal driving, the retractor
 keeps the seat belt at a certain tension so that
@@ -4761,7 +4438,6 @@ authorized service station of Dongfeng Forthing.
 Airbag
 
 ### The SRS is an auxiliary restraint device of
-`forthing_t5_sx3_en_609b935b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:99 | doc_type:owners_manual
 
 the seat belt. When the degree of front or side
 collision meets the deployment requirements of
@@ -4770,7 +4446,6 @@ deployed to reduce the impact injuries to the
 head and chest of the occupants.
 
 ### Front passenger airbag
-`forthing_t5_sx3_en_97e116e6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:99 | doc_type:owners_manual
 
 In the event of a frontal collision, the
 airbags
@@ -4782,7 +4457,6 @@ front
 passenger's head, face, and chest.
 
 ### The side airbags are installed in the
-`forthing_t5_sx3_en_3cb1a5a3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:99 | doc_type:owners_manual
 
 backrests of both the driver's seat and the front
 passenger's seat; the backrests are marked with
@@ -4793,7 +4467,6 @@ trim panel, so as to protect the safety of
 occupants.
 
 ### The side curtain airbags are mounted
-`forthing_t5_sx3_en_bc68bfb0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:100 | doc_type:owners_manual
 
 above the vehicle doors on the left and the right
 sides, where the signs of “SRSAIRBAG” are
@@ -4807,14 +4480,12 @@ vehicle.
 Warning
 
 ### As the side airbags and curtain airbags deploy with
-`forthing_t5_sx3_en_1e730897` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:100 | doc_type:owners_manual
 
 considerable speed and force, it is forbidden to keep
 your head close to the deployment areas of the side
 airbags and curtain airbags when the vehicle is running.
 
 ### Deployment of front airbag
-`forthing_t5_sx3_en_9557965e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:100 | doc_type:owners_manual
 
 In case of a severe collision, the airbag
 control unit monitors the deceleration caused
@@ -4826,7 +4497,6 @@ heads and chests of the driver and passengers,
 alongside the seat belts, to reduce injuries.
 
 ### Undeployment condition of front airbag
-`forthing_t5_sx3_en_1146942b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:100 | doc_type:owners_manual
 
 •
 Vehicles that do not start.
@@ -4857,7 +4527,6 @@ The airbag system is faulty.
 Other special circumstances.
 
 ### Undeployment condition of front side airbags
-`forthing_t5_sx3_en_c0def5a7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:101 | doc_type:owners_manual
 
 and side curtain airbags
 •
@@ -4883,7 +4552,6 @@ The airbag system is faulty.
 Other special circumstances.
 
 ### How airbag indicator works
-`forthing_t5_sx3_en_c760c9fa` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:102 | doc_type:owners_manual
 
 Before driving, put the Start switch to
 "ON"
@@ -4906,7 +4574,6 @@ Dongfeng Forthing:
 •
 
 ### When the Start switch is turned to "ON"
-`forthing_t5_sx3_en_78dac5e5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:102 | doc_type:owners_manual
 
 position, the airbag
 indicator does not
@@ -4918,7 +4585,6 @@ remains on.
 •
 
 ### There is an airbag warning label on the
-`forthing_t5_sx3_en_8c10ba7e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:102 | doc_type:owners_manual
 
 front passenger sun visor. Do not place a
 backward-facing child seat on a seat protected
@@ -4927,7 +4593,6 @@ inflated front airbag will impact the child with
 great force and cause serious injury.
 
 ### The airbag may rapidly inflate in case of a
-`forthing_t5_sx3_en_0b6d76b6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:102 | doc_type:owners_manual
 
 severe frontal impact, and it may also deploy in
 response to other types of impacts similar to a
@@ -4950,7 +4615,6 @@ warm water and soap afterwards to prevent
 irritation.
 
 ### The vehicle is equipped with an event
-`forthing_t5_sx3_en_a7072f42` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:102 | doc_type:owners_manual
 
 data recorder system (EDR), and the recorded
 data can be used for collision accident analysis.
@@ -4985,7 +4649,6 @@ longitudinal
 delta-V time
 
 ### It indicates the
-`forthing_t5_sx3_en_94cfd008` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:102 | doc_type:owners_manual
 
 time point when
 the EDR
@@ -5009,7 +4672,6 @@ driver
 /
 
 ### Start switch is
-`forthing_t5_sx3_en_9e4cfd46` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:103 | doc_type:owners_manual
 
 set to ACC/ON
 position during
@@ -5055,7 +4717,6 @@ time.
 Cycle
 
 ### Time interval
-`forthing_t5_sx3_en_83758bf6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:103 | doc_type:owners_manual
 
 between current
 event and
@@ -5081,7 +4742,6 @@ of
 the
 
 ### The vehicle's Event Data Recorder (EDR)
-`forthing_t5_sx3_en_a3699d23` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:103 | doc_type:owners_manual
 
 is integrated into the airbag controller. Data can
 be extracted using special diagnostic equipment
@@ -5092,7 +4752,6 @@ manual.
 •
 
 ### The vehicle speed data recorded by the
-`forthing_t5_sx3_en_77867eac` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:103 | doc_type:owners_manual
 
 vehicle's Event Data Recorder System (EDR) is
 derived from the wheel speed provided by the
@@ -5100,7 +4759,6 @@ vehicle's Anti-lock Braking System (ABS).
 •
 
 ### Data Recorder System (EDR) is categorized
-`forthing_t5_sx3_en_5e66b6eb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:103 | doc_type:owners_manual
 
 into unlocked and locked event data. The
 former
@@ -5126,7 +4784,6 @@ subsequent events, and a total of three event
 data can be recorded.
 
 ### This chapter provides essential overviews
-`forthing_t5_sx3_en_9c975067` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:103 | doc_type:owners_manual
 
 and detailed guidance on the safety of infants,
 young children, and older children.
@@ -5144,7 +4801,6 @@ he/she shall be placed in an approved rear-row
 child restraint system.
 
 ### Older children must wear a three-point
-`forthing_t5_sx3_en_419fc1a6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:103 | doc_type:owners_manual
 
 seat belt for protection, and if necessary, an
 auxiliary cushion shall be installed.
@@ -5156,7 +4812,6 @@ collision. Therefore, it is recommended to use a
 backward-facing child restraint system.
 
 ### According to the weight and height
-`forthing_t5_sx3_en_53d4324b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:103 | doc_type:owners_manual
 
 requirements specified by the manufacturer of
 child restraint system, children over one year
@@ -5170,7 +4825,6 @@ properly, a booster cushion can be installed in
 the rear seat for children.
 
 ### Child restraint system
-`forthing_t5_sx3_en_d897a3ed` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:103 | doc_type:owners_manual
 
 Safety
 In addition to three-point seat belts for children protection, the middle-row seats also provide
@@ -5180,7 +4834,6 @@ The child restraint system (CRS) applicable to this vehicle and the installation
 shown in the table below.
 
 ### Group III (22 G to 36 KG)
-`forthing_t5_sx3_en_a0a676dc` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:safety | p:104 | doc_type:owners_manual
 
 X
 U
@@ -5204,7 +4857,6 @@ mod
 ule
 
 ### ISOFIX position on vehicle
-`forthing_t5_sx3_en_fe36c4d6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:105 | doc_type:owners_manual
 
 Front
 passengers
@@ -5239,7 +4891,6 @@ X
 X
 
 ### Group 0
-`forthing_t5_sx3_en_5b5470b4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:105 | doc_type:owners_manual
 
 E
 ISO/R1
@@ -5328,7 +4979,6 @@ X
 X
 
 ### Group III
-`forthing_t5_sx3_en_9bd5ca58` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:safety | p:105 | doc_type:owners_manual
 
 (1)
 X
@@ -5354,7 +5004,6 @@ G—ISO/L2: Right-side facing child restraint system (carrycot).
 Safety
 
 ### Pass the three-point seat belt through or
-`forthing_t5_sx3_en_57174578` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:106 | doc_type:owners_manual
 
 around the infant seat, insert the tongue into the
 buckle, and make sure that the tongue and the
@@ -5367,7 +5016,6 @@ tongue into the buckle. Do not twist the seat
 belt and tighten the leg belt.
 
 ### Installation of older children restraint system
-`forthing_t5_sx3_en_ded5e28d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:safety | p:106 | doc_type:owners_manual
 
 If
 the
@@ -5386,7 +5034,6 @@ seat and ensure the child is seated on the
 cushion to guarantee their safety.
 
 ### Child safety rear door lock
-`forthing_t5_sx3_en_1225c0f0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:106 | doc_type:owners_manual
 
 The
 child
@@ -5405,7 +5052,6 @@ rear door lock, move the shift lever to the
 unlocking position ②.
 
 ### ISOFIX interface
-`forthing_t5_sx3_en_a7d6e3b5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:106 | doc_type:owners_manual
 
 This
 vehicle
@@ -5419,7 +5065,6 @@ system with an ISOFIX interface in the middle
 row seats. Child safety devices conforming to
 
 ### The battery warning mark is stuck to the
-`forthing_t5_sx3_en_d80029e7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:107 | doc_type:owners_manual
 
 surface of the battery. The battery shall be kept
 away from heat sources and open flames, and
@@ -5427,7 +5072,6 @@ ventilation shall be maintained during charging
 and use to prevent accidents.
 
 ### The radiator warning label is stuck to the
-`forthing_t5_sx3_en_88688c00` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:107 | doc_type:owners_manual
 
 surface of the upper beam of the radiator. Do
 not touch the radiator, especially when the
@@ -5442,7 +5086,6 @@ temperature of the radiator at this time is very
 high and it is easy to scald your skin.
 
 ### Risk of carbon monoxide poisoning
-`forthing_t5_sx3_en_366e9c9b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:107 | doc_type:owners_manual
 
 Carbon monoxide gas is toxic, and
 inhalation of the gas will seriously threaten
@@ -5452,7 +5095,6 @@ during normal driving, carbon monoxide from
 the vehicle exhaust will not enter your vehicle.
 
 ### The vehicle has been lifted due to
-`forthing_t5_sx3_en_a6800d0a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:107 | doc_type:owners_manual
 
 replacement of engine oil or other reasons.
 •
@@ -5475,7 +5117,6 @@ Driving
 Driving
 
 ### Press the Start switch without depressing
-`forthing_t5_sx3_en_2c082434` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:108 | doc_type:owners_manual
 
 the brake pedal. The start switch can be
 switched
@@ -5497,7 +5138,6 @@ deactivated, and the Start switch indicator goes
 out.
 
 ### ACC position: The instrument cluster goes
-`forthing_t5_sx3_en_7040ae3d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:108 | doc_type:owners_manual
 
 out, but the audio is turned on. At this moment,
 the Start switch indicator is yellow.
@@ -5517,7 +5157,6 @@ turns green. Finally, press the Start switch to
 start the engine.
 
 ### When the vehicle speed is greater than 15
-`forthing_t5_sx3_en_6fb2d648` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:108 | doc_type:owners_manual
 
 km/h and the electronic steering column lock is
 unlocked, engage the neutral gear and press the
@@ -5531,7 +5170,6 @@ switch again for more than 15s will start the
 engine.
 
 ### Emergency start-up
-`forthing_t5_sx3_en_4217f83a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:108 | doc_type:owners_manual
 
 When the engine ECU fails, the engine
 MIL
@@ -5549,7 +5187,6 @@ light up the instrument cluster.
 3.
 
 ### Depress the brake pedal for 5s (the
-`forthing_t5_sx3_en_81d2eebb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:108 | doc_type:owners_manual
 
 Start switch indicator will turn green), and press
 the Start switch after 5s until the vehicle starts
@@ -5562,7 +5199,6 @@ the smart key close to the Start switch and press
 the Start switch.
 
 ### The cause of engine start failure can be
-`forthing_t5_sx3_en_1a7dffe9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:108 | doc_type:owners_manual
 
 determined based on the sound heard when the
 Start switch is turned to START position. It can
@@ -5570,7 +5206,6 @@ be roughly divided into two types:
 1.
 
 ### If no or almost no sound can be
-`forthing_t5_sx3_en_84e89a71` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:108 | doc_type:owners_manual
 
 heard, the starter of the engine cannot rotate or
 rotates too slowly.
@@ -5585,7 +5220,6 @@ faster than normal is heard, but the engine does
 not start or run.
 
 ### The starter cannot rotate or the speed is too
-`forthing_t5_sx3_en_186007cd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:108 | doc_type:owners_manual
 
 slow
 1. Check whether the battery terminal
@@ -5606,7 +5240,6 @@ Dongfeng
 Forthing.
 
 ### Precautions for engine start
-`forthing_t5_sx3_en_1a65d4b6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:109 | doc_type:owners_manual
 
 •
 At an altitude higher than 2400 m, it will
@@ -5619,7 +5252,6 @@ difficult to start. Please preheat the engine for a
 few minutes before driving.
 
 ### How to stop the engine
-`forthing_t5_sx3_en_b4a8fbe7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:109 | doc_type:owners_manual
 
 After the engine ran under a small load, it
 is recommended to make the engine to carry out
@@ -5628,7 +5260,6 @@ engine. This practice allows the engine to fully
 cool down, extending its service life.
 
 ### Engine automatic start-stop system
-`forthing_t5_sx3_en_af831f6c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:109 | doc_type:owners_manual
 
 When the vehicle is stopped (not parked),
 such as waiting for traffic lights or in case of a
@@ -5638,7 +5269,6 @@ engine without operating the Start switch to
 reduce gas emission and fuel consumption.
 
 ### Press the engine Start/Stop switch on the
-`forthing_t5_sx3_en_6c63e2fd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:109 | doc_type:owners_manual
 
 instrument panel switch set, and the Start/Stop
 system indicator on the instrument cluster will
@@ -5654,7 +5284,6 @@ The
 engine
 
 ### Start/Stop
-`forthing_t5_sx3_en_95ac7776` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:109 | doc_type:owners_manual
 
 function
 is
@@ -5668,7 +5297,6 @@ vehicle, please shut down the engine.
 •
 
 ### Even if the vehicle is equipped with the
-`forthing_t5_sx3_en_945323a6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:109 | doc_type:owners_manual
 
 automatic Start/Stop system, the parking brake
 must be applied when the vehicle is parked on a
@@ -5677,7 +5305,6 @@ Caution
 •
 
 ### If the vehicle is parked for a long time in
-`forthing_t5_sx3_en_a86d9c8e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:109 | doc_type:owners_manual
 
 extremely cold outdoor weather, the engine
 shall run for a long time to raise the internal
@@ -5687,7 +5314,6 @@ work normally.
 •
 
 ### If the vehicle runs for a long time in an
-`forthing_t5_sx3_en_21d8f6c6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:109 | doc_type:owners_manual
 
 environment with poor heat dissipation, the
 battery temperature may be higher than the
@@ -5709,7 +5335,6 @@ When the vehicle is wading, be sure to manually
 turn off the automatic start-stop system.
 
 ### Start/Stop system MIL
-`forthing_t5_sx3_en_2f5c07ec` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:109 | doc_type:owners_manual
 
 will flash. Please
 contact
@@ -5722,7 +5347,6 @@ Dongfeng Forthing).
 2.
 
 ### There is no diagnostic fault related
-`forthing_t5_sx3_en_6ff64d8e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:109 | doc_type:owners_manual
 
 to the engine electronic control system (if any,
 the Start-Stop system indicator A on the
@@ -5736,13 +5360,11 @@ indicator will light up. Please
 contact the
 
 ### The recorded maximum speed of
-`forthing_t5_sx3_en_6b8a8518` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:110 | doc_type:owners_manual
 
 the vehicle after starting does not meet the
 requirement of being less than 10 km/h.
 
 ### Engage the neutral gear after the vehicle
-`forthing_t5_sx3_en_420a6373` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:110 | doc_type:owners_manual
 
 stops or release the clutch pedal completely
 after the vehicle stops, and the engine will
@@ -5760,7 +5382,6 @@ transmission
 •
 
 ### When the gearshift lever is kept at D
-`forthing_t5_sx3_en_4e61787d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:110 | doc_type:owners_manual
 
 position, the engine will automatically shut
 down, and Start/Stop system indicator
@@ -5770,7 +5391,6 @@ and a message of "Start/Stop Working" is
 displayed on the screen.
 
 ### When the start/stop working indicator
-`forthing_t5_sx3_en_991f9e12` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:110 | doc_type:owners_manual
 
 on the instrument cluster illuminates, depress
 the brake pedal to decelerate the vehicle to 3
@@ -5788,7 +5408,6 @@ Brake pedal is depressed.
 The engine stops running.
 
 ### After the vehicle stops automatically with
-`forthing_t5_sx3_en_bb922c38` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:110 | doc_type:owners_manual
 
 brake in D gear, AUTO HOLD is on or the
 EPB control lever is pulled up. The vehicle
@@ -5796,7 +5415,6 @@ remains stationary even after releasing the
 brake pedal.
 
 ### After the vehicle stops automatically with
-`forthing_t5_sx3_en_3b5d8df5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:110 | doc_type:owners_manual
 
 brake in D gear, shift to P/N gear with the brake
 pedal depressed, and the vehicle continues to be
@@ -5813,7 +5431,6 @@ EPB is pulled up, the vehicle remains stationary
 even after releasing the brake pedal.
 
 ### When the Start-Stop working indicator
-`forthing_t5_sx3_en_cbd48ad4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:110 | doc_type:owners_manual
 
 on the instrument panel turns white from
 green, the engine will restart automatically.
@@ -5833,7 +5450,6 @@ other position from D position.
 •
 
 ### When the Start-Stop working indicator
-`forthing_t5_sx3_en_c85bdbd9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:111 | doc_type:owners_manual
 
 on the instrument panel turns white from
 green, the engine will restart automatically.
@@ -5845,7 +5461,6 @@ start the engine.
 •
 
 ### For the automatic stop status in D gear
-`forthing_t5_sx3_en_74fe35cf` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:111 | doc_type:owners_manual
 
 with the EBP not released, automatic start will
 be triggered by releasing the brake pedal.
@@ -5860,7 +5475,6 @@ gear to trigger automatic start.
 •
 
 ### For automatic stop when the brake pedal
-`forthing_t5_sx3_en_c9d5bec3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:111 | doc_type:owners_manual
 
 is released, depress the accelerator pedal to
 trigger automatic start.
@@ -5888,7 +5502,6 @@ automatic start.
 •
 
 ### When the engine coolant temperature
-`forthing_t5_sx3_en_75e84cc3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:111 | doc_type:owners_manual
 
 rises to 110°C, automatic start will be triggered
 •
@@ -5907,7 +5520,6 @@ of
 automatic start and automatic stop
 
 ### Engine shutdown after automatic start
-`forthing_t5_sx3_en_43f34a3e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:111 | doc_type:owners_manual
 
 For
 vehicles
@@ -5937,7 +5549,6 @@ stop
 1.
 
 ### When parking or driving at an extremely
-`forthing_t5_sx3_en_ca4f6e57` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:111 | doc_type:owners_manual
 
 low speed, if the steering wheel is operated
 repeatedly or continuously, the power will be
@@ -5951,14 +5562,12 @@ When the steering wheel is turned quickly,
 friction sound may be heard, which is not a fault.
 
 ### If the EPS warning light illuminates when the
-`forthing_t5_sx3_en_9193b744` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:111 | doc_type:owners_manual
 
 engine is running, the steering wheel power will
 be weakened or lost, and more force is required
 to operate the steering wheel at this time.
 
 ### The hydraulic power steering system
-`forthing_t5_sx3_en_9a622a1f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:111 | doc_type:owners_manual
 
 assists you in turning the vehicle, allowing for
 easier steering wheel operation.
@@ -5967,7 +5576,6 @@ you may hear a sound from the power steering
 pump as it releases pressure, which is normal.
 
 ### Avoid holding the steering wheel at its limit for
-`forthing_t5_sx3_en_18806834` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:111 | doc_type:owners_manual
 
 more than 5 seconds to prevent damage to the
 power steering pump and hydraulic lines.
@@ -5978,7 +5586,6 @@ noise for a while after a cold engine start. The
 noise should subside once the engine warms up.
 
 ### Type I
-`forthing_t5_sx3_en_9fcbeb06` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:112 | doc_type:owners_manual
 
 The
 7DCT
@@ -5992,7 +5599,6 @@ forward or backward to enter the Manual mode
 and shift up or down the gears.
 
 ### Type II
-`forthing_t5_sx3_en_f629a40e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:112 | doc_type:owners_manual
 
 The
 7DCT
@@ -6006,7 +5612,6 @@ forward or backward to enter the Manual mode
 (M) and shift up or down the gears.
 
 ### Continuously variable transmission (CVT)*
-`forthing_t5_sx3_en_ffb82711` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:112 | doc_type:owners_manual
 
 The CVT has 8 gears. Move the gearshift
 lever to D position, and then move it rightward
@@ -6015,7 +5620,6 @@ backward to enter the Manual mode and shift
 up or down the gears.
 
 ### This transmission is provided with 6 gear
-`forthing_t5_sx3_en_bcdf0617` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:112 | doc_type:owners_manual
 
 modes, i.e. "P, R, N, D, S, + and -". The
 snowflake button refers to the snow mode
@@ -6030,7 +5634,6 @@ press the snowflake button to enter the snow
 mode.
 
 ### Shift out of P position: When the Start
-`forthing_t5_sx3_en_aafdf393` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:112 | doc_type:owners_manual
 
 switch is at ON position, first depress the brake
 pedal and then press the lock button on the shift
@@ -6048,7 +5651,6 @@ you can directly engage a gear without pressing
 the lock button on the shift lever.
 
 ### Use this gear to park the vehicle or make
-`forthing_t5_sx3_en_5d6d1f45` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:112 | doc_type:owners_manual
 
 the vehicle ready for driving. Press the P button
 on the shift lever to enter the P gear. Be sure to
@@ -6056,7 +5658,6 @@ stop the vehicle completely before shifting to
 the P gear.
 
 ### The Start switch can be used to set the
-`forthing_t5_sx3_en_a5ec0162` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:112 | doc_type:owners_manual
 
 gear at N position or shift to N position when
 the vehicle is started. When the vehicle is in this
@@ -6066,7 +5667,6 @@ driven.
 Driving
 
 ### The electronic gear shifter features a
-`forthing_t5_sx3_en_6a7c7917` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:113 | doc_type:owners_manual
 
 dual-stable design with three gears and five
 positions. The shift lever will return to the
@@ -6078,7 +5678,6 @@ gearshift handball forward to enter M+ mode
 and pull it backward to enter Mmode. The
 
 ### M/S mode can be activated only when the
-`forthing_t5_sx3_en_76c62d89` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:113 | doc_type:owners_manual
 
 vehicle is in D gear. When the vehicle is started,
 the detailed gear shifting sequence is as shown
@@ -6086,7 +5685,6 @@ in the figure below. The middle position is the
 actual gear of the current vehicle.
 
 ### Description of gear shifting conditions
-`forthing_t5_sx3_en_671dc219` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:113 | doc_type:owners_manual
 
 1.
 When the vehicle is not started, the
@@ -6108,7 +5706,6 @@ at the original gear.
 5.
 
 ### The driving mode can be switched to by
-`forthing_t5_sx3_en_b40df03d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:113 | doc_type:owners_manual
 
 moving the gearshift knob leftwards when the
 vehicle is in D gear. When the vehicle
@@ -6132,7 +5729,6 @@ executes
 corresponding manual shift up/down request;
 
 ### When the knob is moved back to D position on
-`forthing_t5_sx3_en_c5539d87` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:113 | doc_type:owners_manual
 
 the right, the vehicle exits Sport mode or
 Manual
@@ -6146,7 +5742,6 @@ knob to the left M/S position for Sport mode
 respond and keep the original gear.
 
 ### Use a straight screwdriver or other
-`forthing_t5_sx3_en_dc0e6fe4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:113 | doc_type:owners_manual
 
 tools to remove the shift panel and shift trim
 strip of the transmission gearshift control
@@ -6159,7 +5754,6 @@ panel.
 2.
 
 ### Insert a straight screwdriver or other
-`forthing_t5_sx3_en_b67b97ff` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:113 | doc_type:owners_manual
 
 tool into the releasing hole of P gear, press it
 until it cannot move any more, and manually
@@ -6171,7 +5765,6 @@ station of Dongfeng Forthing even if the P gear lock is
 successfully unlocked.
 
 ### Type II
-`forthing_t5_sx3_en_38149654` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:114 | doc_type:owners_manual
 
 The
 manual
@@ -6189,7 +5782,6 @@ when not shifting gears, as it may accelerate the
 wear of the clutch.
 
 ### Only when the vehicle is parked steadily
-`forthing_t5_sx3_en_439769ee` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:114 | doc_type:owners_manual
 
 can you shift to reverse gear. It is advisable to
 fully depress the clutch pedal and wait for a few
@@ -6207,7 +5799,6 @@ brake.
 Caution
 
 ### Avoid allowing the engine's tachometer to reach the
-`forthing_t5_sx3_en_022bd464` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:114 | doc_type:owners_manual
 
 red zone when using the engine for braking, as this
 may cause engine damage.
@@ -6225,7 +5816,6 @@ may occur. Extra caution should be exercised when
 driving on slippery roads.
 
 ### Recommended gearshift points
-`forthing_t5_sx3_en_6eacf29c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:114 | doc_type:owners_manual
 
 Within a specific speed range, using the
 appropriate shifting points can ensure the
@@ -6241,7 +5831,6 @@ For six-gear vehicles, we recommend the
 following gearshift points:
 
 ### If the gear is set improperly or not switched in
-`forthing_t5_sx3_en_6131d0ad` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:114 | doc_type:owners_manual
 
 time (mainly manifested as driving at low speed
 and high gear), after the engine RPM is forced to
@@ -6267,7 +5856,6 @@ Driving
 than Gear 3.
 
 ### Filling of fuel
-`forthing_t5_sx3_en_8ed8d648` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:115 | doc_type:owners_manual
 
 Rotate
 the
@@ -6283,7 +5871,6 @@ fuel filler cap.
 △Warning
 
 ### After the fuel nozzle is automatically closed for the first
-`forthing_t5_sx3_en_99dfb427` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:115 | doc_type:owners_manual
 
 time, refueling shall be stopped. A certain space is
 reserved in the fuel tank for fuel expansion when
@@ -6295,7 +5882,6 @@ fuel leakage, refueling shall be stopped after the fuel
 nozzle is automatically closed for the first time.
 
 ### Vehicle Running-in
-`forthing_t5_sx3_en_c55d96cd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:115 | doc_type:owners_manual
 
 Notes
 In the first 1000 km, pay special attention
@@ -6306,7 +5892,6 @@ stage:
 1.
 
 ### Vehicle running-in will play a vital role
-`forthing_t5_sx3_en_e1dbe506` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:safety | p:115 | doc_type:owners_manual
 
 in the service life, safety and fuel efficiency of
 vehicle. During the running-in period, be sure
@@ -6316,7 +5901,6 @@ each gear of the vehicle.
 Gear
 
 ### Maximum speed (km/h)
-`forthing_t5_sx3_en_6f2b4477` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:115 | doc_type:owners_manual
 
 1th gear
 2nd gear
@@ -6336,7 +5920,6 @@ above speed recommendations should also be
 followed while driving.
 
 ### Brake assist (BA)
-`forthing_t5_sx3_en_538df28a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:115 | doc_type:owners_manual
 
 In the process of emergency braking, BA
 system will increase the driver's braking force
@@ -6351,7 +5934,6 @@ depressing the brake pedal quickly will activate
 the hydraulic assist braking system. At this time,
 
 ### ABS is equipped with EBD electronic
-`forthing_t5_sx3_en_47503132` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:116 | doc_type:owners_manual
 
 braking force distribution function. In order to
 have good braking performance under different
@@ -6360,7 +5942,6 @@ distribute the braking force between front and
 rear wheels.
 
 ### Brake priority
-`forthing_t5_sx3_en_e013a227` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:116 | doc_type:owners_manual
 
 The
 brake
@@ -6372,7 +5953,6 @@ when detecting that the driver fails to apply
 braking, so as to avoid collision.
 
 ### ABS controls the vehicle brake to prevent
-`forthing_t5_sx3_en_b2f79940` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:116 | doc_type:owners_manual
 
 the
 wheels
@@ -6394,7 +5974,6 @@ vehicle braking, the steering wheel can still be
 used for steering to avoid collision.
 
 ### System self-inspection
-`forthing_t5_sx3_en_f856e40f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:116 | doc_type:owners_manual
 
 The
 ABS
@@ -6427,7 +6006,6 @@ of
 Dongfeng Forthing.
 
 ### ABS detects that one or more wheels are
-`forthing_t5_sx3_en_a8056af8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:116 | doc_type:owners_manual
 
 approaching the locked state, the actuator acts
 quickly to release and restore the braking fluid
@@ -6441,7 +6019,6 @@ Caution
 •
 
 ### ABS cannot shorten the time and distance
-`forthing_t5_sx3_en_7b9ccba8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:116 | doc_type:owners_manual
 
 required for parking.
 •
@@ -6450,7 +6027,6 @@ When the brake pedal is suddenly depressed,
 steering should be moderate.
 
 ### The ESP system can improve the stability
-`forthing_t5_sx3_en_42e2a702` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:116 | doc_type:owners_manual
 
 of driving the vehicle. When the computer
 detects that there is a deviation between the
@@ -6461,7 +6037,6 @@ the vehicle brakes to improve the driving
 stability of the vehicle.
 
 ### ESP switch (type II)
-`forthing_t5_sx3_en_7b8510b0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:116 | doc_type:owners_manual
 
 Press the ESP switch to restart the system.
 When the ESP system is enabled, the indicator
@@ -6469,7 +6044,6 @@ OFF on the instrument cluster will go out.
 Press the ESP switch again, and then the
 
 ### The vacuum booster is suitable for engine
-`forthing_t5_sx3_en_c6b91d87` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:117 | doc_type:owners_manual
 
 vacuum assisted braking. If the engine stops
 and the vacuum is depleted in the vacuum
@@ -6479,7 +6053,6 @@ brake pedal hard to bring the vehicle to a stop,
 and the braking distance will also increase.
 
 ### Do not rest your foot on the brake pedal
-`forthing_t5_sx3_en_31775225` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:117 | doc_type:owners_manual
 
 when driving. Otherwise, the brake will be
 overheated, accelerating the wear of brake disc
@@ -6511,7 +6084,6 @@ speed and attention shall be paid to keeping the
 distance between vehicles.
 
 ### Apply the parking brake to stop the
-`forthing_t5_sx3_en_36cb4b81` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:117 | doc_type:owners_manual
 
 vehicle. When you are about to start, slowly
 release the parking brake while depressing the
@@ -6524,7 +6096,6 @@ may slide backward, resulting in difficulty in
 starting. To prevent this from happening, Hill
 
 ### Hold Control will temporarily (up to about 2s)
-`forthing_t5_sx3_en_7e0a4872` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:117 | doc_type:owners_manual
 
 apply brake force on four wheels to prevent the
 vehicle from sliding backward.
@@ -6540,7 +6111,6 @@ brake pedal to prevent the vehicle from sliding
 backward.
 
 ### The gear is shifted to D or R
-`forthing_t5_sx3_en_74b63d03` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:117 | doc_type:owners_manual
 
 position and the vehicle goes uphill.
 2.
@@ -6560,7 +6130,6 @@ vehicle is on a level road.
 2.
 
 ### Type II
-`forthing_t5_sx3_en_6d096d8d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:117 | doc_type:owners_manual
 
 Press the HDC switch, and the hill
 descent control indicator
@@ -6575,7 +6144,6 @@ indicator goes out and the hill descent control
 system is turned off.
 
 ### When the vehicle goes downhill with the
-`forthing_t5_sx3_en_ad04d10f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:118 | doc_type:owners_manual
 
 HDC
 system
@@ -6597,7 +6165,6 @@ downhill speed to be maintained by using the
 HDC function within this speed range.
 
 ### When the hill descent control function is
-`forthing_t5_sx3_en_9572b3ee` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:118 | doc_type:owners_manual
 
 activated for active braking, the hill descent
 control indicator on the instrument
@@ -6613,7 +6180,6 @@ activated.
 •
 
 ### The HDC function only controls the downhill
-`forthing_t5_sx3_en_df1ca3e6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:118 | doc_type:owners_manual
 
 speed of the vehicle by actively operating the
 brake pedal. The driver should always pay
@@ -6621,7 +6187,6 @@ attention to controlling the vehicle to ensure
 driving safety.
 
 ### When the force applied to the brake pedal
-`forthing_t5_sx3_en_1384ac7a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:118 | doc_type:owners_manual
 
 exceeds a certain threshold, the brake assist will
 activate. At this point, even a gentle press on
@@ -6631,7 +6196,6 @@ facilitating easier driving of the vehicle.
 Parking
 
 ### The driver can use EPB to park the
-`forthing_t5_sx3_en_4beeefa1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:118 | doc_type:owners_manual
 
 vehicle reliably. The EPB can be applied and
 released manually or automatically.
@@ -6643,7 +6207,6 @@ indicator will light
 up.
 
 ### Manual release: Depress the brake pedal
-`forthing_t5_sx3_en_f1c9384d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:118 | doc_type:owners_manual
 
 and press the EPB switch at the same time. The
 electronic parking brake is released, and the
@@ -6657,7 +6220,6 @@ EPB, and the parking indicator will light
 up.
 
 ### Automatic release: When the vehicle is
-`forthing_t5_sx3_en_057c60e3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:118 | doc_type:owners_manual
 
 started uphill or due to a traffic jam, depressing
 the
@@ -6676,7 +6238,6 @@ the clutch pedal to automatically release the
 parking brake.
 
 ### Automatic transmission: Engage gear D
-`forthing_t5_sx3_en_2c94ad3d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:118 | doc_type:owners_manual
 
 or R, and depress the accelerator pedal to
 automatically release the parking brake.
@@ -6691,7 +6252,6 @@ exited.
 •
 
 ### Avoid using the emergency brake function as
-`forthing_t5_sx3_en_87dcfa8f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:119 | doc_type:owners_manual
 
 much as possible, and use it only in an
 emergency when the brake pedal fails or is
@@ -6705,7 +6265,6 @@ braking force may cause drift and sideslip of the
 vehicle.
 
 ### This function can be turned on or off by
-`forthing_t5_sx3_en_82907c76` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:119 | doc_type:owners_manual
 
 pressing the AUTO HOLD switch. After the
 AUTO HOLD function is turned on, if the
@@ -6716,7 +6275,6 @@ accelerator pedal to start and reduce the impact
 of slipping.
 
 ### Engine start
-`forthing_t5_sx3_en_e6dfe91c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:119 | doc_type:owners_manual
 
 2.
 The driver has fastened the seat belt.
@@ -6730,7 +6288,6 @@ function is automatically deactivated, and the
 function indicator goes out.
 
 ### Press the AUT HOLD switch on the
-`forthing_t5_sx3_en_66bd2e8e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:119 | doc_type:owners_manual
 
 center console, and the function indicator lights
 up.
@@ -6755,7 +6312,6 @@ to start, and manual transmission may even
 cause engine flameout.
 
 ### The green indicator of the instrument cluster
-`forthing_t5_sx3_en_26f17a7d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:119 | doc_type:owners_manual
 
 turns red.
 •
@@ -6768,7 +6324,6 @@ direction by controlling the engine and properly
 braking the driving wheels during driving.
 
 ### When the drive wheels of the vehicle start
-`forthing_t5_sx3_en_37ec6690` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:119 | doc_type:owners_manual
 
 to slip, the ESP actively manages the engine's
 power output torque (the vehicle does not
@@ -6789,7 +6344,6 @@ the vehicle has lost power, which is a normal
 phenomenon.
 
 ### Electronic stability control (ESC)
-`forthing_t5_sx3_en_9f1611f7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:120 | doc_type:owners_manual
 
 When the vehicle makes a turn, ESC
 computer detects the steering angle input by the
@@ -6813,7 +6367,6 @@ a normal phenomenon, indicating that the ESC
 system is working normally.
 
 ### Function description
-`forthing_t5_sx3_en_b3fc565f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:120 | doc_type:owners_manual
 
 The
 reversing
@@ -6828,7 +6381,6 @@ radar sensors of parking assist system are
 divided into:
 
 ### Rear reverse radar sensor
-`forthing_t5_sx3_en_5cd1d147` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:120 | doc_type:owners_manual
 
 When the parking assist system is started,
 it will automatically check whether its function
@@ -6839,7 +6391,6 @@ is faulty. Please contact an authorized service
 station of Dongfeng Forthing.
 
 ### The parking assist system sends out
-`forthing_t5_sx3_en_493ae47a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:120 | doc_type:owners_manual
 
 intermittent alarm sound or long alarm sound
 on instrument cluster according to the distance
@@ -6848,7 +6399,6 @@ shorter the distance is, the shorter the interval
 time of alarm sound will be.
 
 ### The multimedia display screen will show
-`forthing_t5_sx3_en_97fa680a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:120 | doc_type:owners_manual
 
 corresponding color according to the obstacle
 Driving
@@ -6864,7 +6414,6 @@ Obstacle
 Distance
 
 ### Long beep
-`forthing_t5_sx3_en_717b6e57` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:121 | doc_type:owners_manual
 
 Red
 41-100cm
@@ -6888,7 +6437,6 @@ Dongfeng
 Forthing in time.
 
 ### When the gearshift lever is shifted to R
-`forthing_t5_sx3_en_7ce62386` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:121 | doc_type:owners_manual
 
 (reverse gear), the reversing radar will be
 activated automatically, and the system will be
@@ -6896,7 +6444,6 @@ enabled automatically after disengaging from R
 gear (reverse gear).
 
 ### Front parking radar on
-`forthing_t5_sx3_en_a10999c9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:121 | doc_type:owners_manual
 
 With the Start switch at "ON" position,
 the front parking sensor function can be
@@ -6912,14 +6459,12 @@ than 20 km/h.
 2.
 
 ### If the vehicle speed is higher than
-`forthing_t5_sx3_en_8964bb53` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:121 | doc_type:owners_manual
 
 20 km/h, the front parking radar function can be
 activated again only when the vehicle speed is
 reduced to 10 km/h.
 
 ### Front parking radar off
-`forthing_t5_sx3_en_eb1dda94` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:121 | doc_type:owners_manual
 
 When the Start switch is at "ON" position,
 the front parking sensor function defaults to be
@@ -6943,7 +6488,6 @@ operate or function abnormally.
 •
 
 ### The radar detection distance may vary from
-`forthing_t5_sx3_en_a20df2aa` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:121 | doc_type:owners_manual
 
 actual measurements and is for reference only.
 Please do not rely on it as the sole basis for
@@ -6961,7 +6505,6 @@ continuously monitoring the environment during
 driving and taking timely maintenance actions.
 
 ### The following locations or obstacles may cause
-`forthing_t5_sx3_en_6160bf12` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:122 | doc_type:owners_manual
 
 detection failures or poor detection performance:
 a)
@@ -6973,7 +6516,6 @@ Cotton or acoustic material.
 d)
 
 ### Ultrasonic
-`forthing_t5_sx3_en_a586d2d2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:122 | doc_type:owners_manual
 
 noise,
 metal
@@ -6992,7 +6534,6 @@ system during use.
 •
 
 ### The parking assist system is only used as an
-`forthing_t5_sx3_en_e10aa4bd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:122 | doc_type:owners_manual
 
 auxiliary warning for obstacles in front of and
 behind the vehicle during parking and reversing,
@@ -7007,7 +6548,6 @@ sole measure for reversing safety. The driver is
 responsible for driving safety.
 
 ### The rearview camera provides a real-time
-`forthing_t5_sx3_en_ea4bb5ae` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:122 | doc_type:owners_manual
 
 display of the area behind the vehicle to assist
 the driver in reversing safely.
@@ -7023,7 +6563,6 @@ image:
 •
 
 ### Press the "DISP" button on the audio
-`forthing_t5_sx3_en_90eb223e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:122 | doc_type:owners_manual
 
 control panel to manually enable the reversing
 image, and press the button again to disable the
@@ -7035,7 +6574,6 @@ the R gear is disengaged, the system will be
 turned off automatically.
 
 ### The reversing camera is located above the rear license
-`forthing_t5_sx3_en_c13d65ce` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:122 | doc_type:owners_manual
 
 plate. The working range of the camera is very
 limited and it cannot capture objects near the
@@ -7045,7 +6583,6 @@ condition, and the distances shown on the
 screen may differ from the actual distances.
 
 ### The dynamic guide lines can assist the
-`forthing_t5_sx3_en_8bfa5c4c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:123 | doc_type:owners_manual
 
 driver in judging the reversing trajectory,
 which will be activated only after the steering
@@ -7054,7 +6591,6 @@ Caution
 •
 
 ### Caution the safety of the surroundings when
-`forthing_t5_sx3_en_7ea3197c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:123 | doc_type:owners_manual
 
 reversing, especially watching out for children
 and animals.
@@ -7066,7 +6602,6 @@ Adverse weather conditions such as haze, heavy
 rain, and darkness can affect reversing.
 
 ### Panoramic view *
-`forthing_t5_sx3_en_25efd09a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:123 | doc_type:owners_manual
 
 By
 installing
@@ -7084,7 +6619,6 @@ accidents.
 Caution
 
 ### The camera has functions similar to those of the human
-`forthing_t5_sx3_en_019560eb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:123 | doc_type:owners_manual
 
 eye, and has a limited ability to capture objects in
 conditions such as dusk, night, dawn, snow, rain, and
@@ -7093,7 +6627,6 @@ and the driver is always responsible for keeping a
 distance from any obstacle.
 
 ### Preconditions
-`forthing_t5_sx3_en_4db077bc` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:123 | doc_type:owners_manual
 
 for
 panoramic
@@ -7113,7 +6646,6 @@ monitor:
 •
 
 ### Press DISP button on the audio control
-`forthing_t5_sx3_en_c36db156` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:123 | doc_type:owners_manual
 
 panel to enable or disable the panoramic view.
 •
@@ -7137,7 +6669,6 @@ high-priority condition is triggered, the corresponding
 screen will switch automatically.
 
 ### Setting of panoramic view monitor function
-`forthing_t5_sx3_en_1c3322bb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:123 | doc_type:owners_manual
 
 Driving
 The
@@ -7165,7 +6696,6 @@ Under this view:
 1.
 
 ### The user can tap the area around the
-`forthing_t5_sx3_en_c5a401e4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:124 | doc_type:owners_manual
 
 vehicle model to switch the images of four
 cameras.
@@ -7181,7 +6711,6 @@ tapping on the single channel view area on the
 right.
 
 ### The function and warning distance of
-`forthing_t5_sx3_en_48286eee` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:124 | doc_type:owners_manual
 
 panoramic view static spoke line and dynamic spoke line
 are consistent with those of reversing image, and the width
@@ -7191,7 +6720,6 @@ The spoke lines are for reference only. Please refer to
 the actual environment.
 
 ### The semi-automatic parking assist system
-`forthing_t5_sx3_en_ddd2fe0e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:124 | doc_type:owners_manual
 
 utilizes 6 parking radar sensors in the front
 bumper and 6 reversing radar sensors in the rear
@@ -7217,7 +6745,6 @@ vertical
 parking-in and horizontal parking-out.
 
 ### When the semi-automatic parking system
-`forthing_t5_sx3_en_a9bc2834` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:124 | doc_type:owners_manual
 
 is activated, it automatically checks whether its
 functions are operating normally. If the system
@@ -7240,7 +6767,6 @@ ON
 •
 
 ### When the vehicle is in D gear and the
-`forthing_t5_sx3_en_ddf90669` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:124 | doc_type:owners_manual
 
 speed is less than 30 km/h, and there are no
 faults in
@@ -7252,7 +6778,6 @@ the parking function;
 •
 
 ### When the vehicle is in P gear and there
-`forthing_t5_sx3_en_eac959e1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:124 | doc_type:owners_manual
 
 are
 no
@@ -7288,7 +6813,6 @@ disabled;
 •
 
 ### When the vehicle speed is greater than 30
-`forthing_t5_sx3_en_ef6cb2b9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:124 | doc_type:owners_manual
 
 km/h during searching for a parking space, the
 semi-automatic
@@ -7309,7 +6833,6 @@ function will be deactivated.
 •
 
 ### The semi-automatic parking assist system is
-`forthing_t5_sx3_en_439adedb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:125 | doc_type:owners_manual
 
 merely an auxiliary tool. By scanning the
 parking space with radar, it can identify areas
@@ -7321,7 +6844,6 @@ no-parking zones and lanes.
 •
 
 ### Do not fully rely on the semi-auto parking assist
-`forthing_t5_sx3_en_0c368bf4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:125 | doc_type:owners_manual
 
 system. This system only assists parking and you
 still need to carefully observe the surrounding
@@ -7341,7 +6863,6 @@ travel.
 2.
 
 ### The physical detection performance of ultrasonic
-`forthing_t5_sx3_en_c347be98` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:125 | doc_type:owners_manual
 
 radar may result in some error in the detected
 size of parking spaces. There is also a possibility
@@ -7352,7 +6873,6 @@ length +0.8 m.
 •
 
 ### The semi-automatic parking assist system can
-`forthing_t5_sx3_en_912633d5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:125 | doc_type:owners_manual
 
 detect and park in a space with one or two valid
 obstacles, whether square or round, with a
@@ -7374,7 +6894,6 @@ space after leaving this parking space or you are
 about 15m away from this parking space.
 
 ### When the vehicle is in D gear and
-`forthing_t5_sx3_en_5e3540ac` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:125 | doc_type:owners_manual
 
 the speed is below 30 km/h, press the semi-auto
 parking hardware switch
@@ -7430,7 +6949,6 @@ will be a risk of scratching the vehicle due to sudden
 acceleration.
 
 ### Horizontal parking-out procedure
-`forthing_t5_sx3_en_86dd8d60` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:126 | doc_type:owners_manual
 
 1.
 When the vehicle is in P gear, press
@@ -7448,7 +6966,6 @@ displays the following prompt:
 2.
 
 ### Turn on the turn signal to select the
-`forthing_t5_sx3_en_2f99cf02` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:126 | doc_type:owners_manual
 
 parking-out direction. After selection, engage
 the R gear and release the steering wheel. The
@@ -7470,7 +6987,6 @@ vehicle.
 4.
 
 ### The automatic parking system has an
-`forthing_t5_sx3_en_9d1f3eeb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:126 | doc_type:owners_manual
 
 external fault.
 △Warning
@@ -7484,7 +7000,6 @@ easily identified correctly
 •
 
 ### Snow or heavy rain may make it impossible to
-`forthing_t5_sx3_en_01510d5e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:126 | doc_type:owners_manual
 
 accurately measure the parking area
 •
@@ -7494,7 +7009,6 @@ semi-auto parking system.
 •
 
 ### Do not use the semi-automatic parking system
-`forthing_t5_sx3_en_5a77a2e7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:126 | doc_type:owners_manual
 
 when the vehicle is equipped with tire chains or
 emergency spare tires.
@@ -7523,7 +7037,6 @@ the curb. If necessary, please turn off the
 semi-auto parking system.
 
 ### The cruise control system allows the
-`forthing_t5_sx3_en_e252fe56` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:126 | doc_type:owners_manual
 
 driver to keep the vehicle running at a preset
 speed higher than 40 km/h without depressing
@@ -7536,7 +7049,6 @@ strictly prohibited to use cruise control in
 winter.
 
 ### CAN: ACC suspension button
-`forthing_t5_sx3_en_e045a6f5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:suspension | p:127 | doc_type:owners_manual
 
 When this button is pressed, the vehicle
 will suspend its cruise mode. At this moment,
@@ -7544,7 +7056,6 @@ press \"RES+\" to enter the cruise mode again.
 2.
 
 ### Pull the adjustment button upward to
-`forthing_t5_sx3_en_f9faea5f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:127 | doc_type:owners_manual
 
 restore to the originally set speed or accelerate.
 Caution
@@ -7556,7 +7067,6 @@ suspend the cruise control function. Press the "RES+"
 button to restore the originally set speed.
 
 ### Depress the brake pedal
-`forthing_t5_sx3_en_0219f92b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:127 | doc_type:owners_manual
 
 5.
 The clutch pedal is not depressed.
@@ -7576,7 +7086,6 @@ suspended by any of the following methods:
 1.
 
 ### The cruise mode is only suspended in
-`forthing_t5_sx3_en_57983d6f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:127 | doc_type:owners_manual
 
 methods 1, 2, and 3, and can be resumed by
 pressing "RES+" button when conditions are
@@ -7589,14 +7098,12 @@ vehicle speed above 40 km/h, then pressing the
 "RES+" button again to re-enter cruising mode.
 
 ### When the button is pressed to disable the
-`forthing_t5_sx3_en_5c38c921` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:127 | doc_type:owners_manual
 
 cruise function, the cruise control system will
 be deactivated completely and the previous
 cruising speed will be canceled.
 
 ### Operate the RES+ or SETbutton to
-`forthing_t5_sx3_en_77c45f6b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:128 | doc_type:owners_manual
 
 increase/decrease the vehicle speed.
 2.
@@ -7616,7 +7123,6 @@ accelerator pedal. If the cruise conditions are still met,
 the vehicle will return to the preset cruising speed.
 
 ### With the adaptive cruise control system
-`forthing_t5_sx3_en_05de3b59` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:128 | doc_type:owners_manual
 
 (hereinafter referred to as ACC system), the
 vehicle can run at any speed within the range of
@@ -7631,7 +7137,6 @@ automatically switch between speed control
 and following distance control.
 
 ### Critical factors to note
-`forthing_t5_sx3_en_bbba1ae6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:128 | doc_type:owners_manual
 
 During driving,
 the ACC
@@ -7654,7 +7159,6 @@ safe driving.
 •
 
 ### The ACC system is suitable for expressways and
-`forthing_t5_sx3_en_820310a7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:safety | p:128 | doc_type:owners_manual
 
 roads in good condition, but not for urban or
 mountainous roads.
@@ -7681,7 +7185,6 @@ accident.
 •
 
 ### The ACC system can only adjust the distance
-`forthing_t5_sx3_en_821aa213` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:128 | doc_type:owners_manual
 
 from the vehicle running ahead. Generally, it
 cannot detect vehicles on other lanes or on other
@@ -7694,7 +7197,6 @@ ACC system will not respond.
 •
 
 ### The ACC system shall be temporarily turned off
-`forthing_t5_sx3_en_da537fb6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:128 | doc_type:owners_manual
 
 when the vehicle is running on a curved lane, an
 expressway
@@ -7715,7 +7217,6 @@ time and obey the speed limit rules.
 •
 
 ### The driver should set the cruise speed and
-`forthing_t5_sx3_en_b7eaf420` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:128 | doc_type:owners_manual
 
 following distance reasonably according to the
 current road, traffic and weather conditions. The
@@ -7732,7 +7233,6 @@ take over the vehicle at all times.
 •
 
 ### The ACC system cannot detect the objects
-`forthing_t5_sx3_en_fa02c295` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:128 | doc_type:owners_manual
 
 protruding from the side, rear end or roof of the
 target vehicle. If the vehicle ahead is equipped
@@ -7750,7 +7250,6 @@ appropriate.
 •
 
 ### Towing a trailer during driving will compromise
-`forthing_t5_sx3_en_df6a332d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:128 | doc_type:owners_manual
 
 the dynamic characteristics of the ACC system.
 •
@@ -7763,7 +7262,6 @@ ahead.
 •
 
 ### If ACC system has already stopped the vehicle
-`forthing_t5_sx3_en_e9d98ebc` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:128 | doc_type:owners_manual
 
 and ACC system has been released, turned off,
 or canceled, the vehicle will no longer remain
@@ -7778,7 +7276,6 @@ vehicle.
 •
 
 ### If an accident occurs during the use of this
-`forthing_t5_sx3_en_f7455988` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:128 | doc_type:owners_manual
 
 function, the driver shall deactivate the current
 Driving
@@ -7797,7 +7294,6 @@ operation, and the engine needs to be restarted.
 •
 
 ### The driver can depress the accelerator pedal at
-`forthing_t5_sx3_en_6f76948a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:129 | doc_type:owners_manual
 
 any time to increase the vehicle speed. After the
 accelerator pedal is released, this device will
@@ -7818,7 +7314,6 @@ Caution
 •
 
 ### After replacement of the front-view camera and
-`forthing_t5_sx3_en_28200a07` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:129 | doc_type:owners_manual
 
 front windshield, four-wheel alignment, body
 and chassis modification or other operations that
@@ -7833,7 +7328,6 @@ cannot work normally.
 •
 
 ### In order not to affect the performance of the
-`forthing_t5_sx3_en_fe15eb02` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:129 | doc_type:owners_manual
 
 camera, the detecting part of the camera shall not
 be blocked by foreign matters (such as labels and
@@ -7848,14 +7342,12 @@ system.
 •
 
 ### The operation of the system may also be
-`forthing_t5_sx3_en_9d9a39e5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:129 | doc_type:owners_manual
 
 restricted in case of snow, heavy rain, heavy fog
 or accumulated water on the road.
 •
 
 ### Structural tuning of the vehicle may deteriorate
-`forthing_t5_sx3_en_83ca4a1f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:129 | doc_type:owners_manual
 
 the ACC system functions.
 •
@@ -7866,7 +7358,6 @@ instrument cluster will display a prompt, as
 shown in the figure below:
 
 ### ACC working indicator
-`forthing_t5_sx3_en_44102b10` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:129 | doc_type:owners_manual
 
 illuminates and
 turns green. At the same time, the display
@@ -7888,7 +7379,6 @@ Brake pedal is not depressed.
 6.
 
 ### The vehicle speed is lower than 30
-`forthing_t5_sx3_en_27dbb0b0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:129 | doc_type:owners_manual
 
 km/h.
 7.
@@ -7904,7 +7394,6 @@ Button
 shows that the ACC system is in standby state.
 
 ### When the standby mode of the ACC system is
-`forthing_t5_sx3_en_27eb81b3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:129 | doc_type:owners_manual
 
 normal and the vehicle speed is greater than 30
 km/h, push down the steering wheel button to
@@ -7919,7 +7408,6 @@ the cruising speed.
 6.
 
 ### If the ACC system is in standby mode and
-`forthing_t5_sx3_en_1177170c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:130 | doc_type:owners_manual
 
 a cruising speed is saved, pulling the button in
 this direction will activate the saved speed,
@@ -7938,7 +7426,6 @@ increments of 10 km/h.
 3.
 
 ### CAN: Press this button or depress the
-`forthing_t5_sx3_en_65c8a5b0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:130 | doc_type:owners_manual
 
 brake pedal to temporarily disable the ACC
 system function.
@@ -7966,7 +7453,6 @@ Press
 to increase the distance.
 
 ### Cruising speed setting: When the ACC
-`forthing_t5_sx3_en_0e236c24` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:130 | doc_type:owners_manual
 
 system is not disabled, the cruising speed set by
 the driver can be saved. After the ACC system
@@ -7976,7 +7462,6 @@ temporarily deactivated, press the RES+ button
 to readjust the saved speed.
 
 ### Automatic following start and following stop
-`forthing_t5_sx3_en_fd4c2697` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:130 | doc_type:owners_manual
 
 On a congested urban road section, ACC
 system can control the vehicle to follow the
@@ -7986,13 +7471,11 @@ will control the vehicle to automatically follow.
 If the vehicle ahead stops for a long time, press
 
 ### Please use the ACC system cautiously when driving on
-`forthing_t5_sx3_en_10a60654` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:130 | doc_type:owners_manual
 
 congested urban roads. If necessary, the driver should
 intervene and take over the vehicle.
 
 ### ACC system state and cruise speed
-`forthing_t5_sx3_en_8a5f24e3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:130 | doc_type:owners_manual
 
 1.
 Schematic
@@ -8017,7 +7500,6 @@ the icon for the vehicle ahead.
 △Warning
 
 ### The driver can identify the distance from
-`forthing_t5_sx3_en_7b407a6f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:131 | doc_type:owners_manual
 
 the vehicle ahead based on the color and scale.
 The following distance is set to short.
@@ -8032,7 +7514,6 @@ to
 ultra-long.
 
 ### The driver can determine the current
-`forthing_t5_sx3_en_2faf3fa5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:131 | doc_type:owners_manual
 
 operating state of the ACC system and the
 cruise speed based on the symbol color and the
@@ -8051,7 +7532,6 @@ enabled, but its operating
 conditions are not met.
 
 ### Green flashing of the state
-`forthing_t5_sx3_en_4e304894` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:132 | doc_type:owners_manual
 
 icon
 on
@@ -8070,7 +7550,6 @@ be
 completed.
 
 ### No set speed on the display
-`forthing_t5_sx3_en_c933d972` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:132 | doc_type:owners_manual
 
 interface at present: If the
 set speed exceeds the limit
@@ -8108,7 +7587,6 @@ operations.
 4.
 
 ### Other prompts on the instrument
-`forthing_t5_sx3_en_e04b46bb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:132 | doc_type:owners_manual
 
 cluster
 Under some working conditions, text
@@ -8134,7 +7612,6 @@ restore ACC system.
 △Warning
 
 ### If the instrument cluster display interface is inconsistent
-`forthing_t5_sx3_en_832562e5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:132 | doc_type:owners_manual
 
 with the actual situation observed by the driver, the
 driver shall take over control and drive the vehicle
@@ -8148,13 +7625,11 @@ The sensor is blocked.
 2.
 
 ### The driver is required to take measures by
-`forthing_t5_sx3_en_3a71736f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:132 | doc_type:owners_manual
 
 himself/herself to adjust the driving mode, and
 be responsible for handling the situation.
 
 ### As the ACC system can only provide 40%
-`forthing_t5_sx3_en_d4c6220c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:132 | doc_type:owners_manual
 
 of the maximum braking force of the vehicle, under
 certain driving conditions, its deceleration capability is not
@@ -8163,7 +7638,6 @@ In these emergencies, it is required to apply the
 brake in time as a driver.
 
 ### If the driver needs to take measures by
-`forthing_t5_sx3_en_49ea983e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:132 | doc_type:owners_manual
 
 himself/herself, ACC system will give visual
 and audible instructions to the driver:
@@ -8189,7 +7663,6 @@ Caution
 •
 
 ### If a vehicle ahead suddenly brakes (emergency
-`forthing_t5_sx3_en_5d8d8ccb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:133 | doc_type:owners_manual
 
 stop), the ACC system may fail to respond or
 react quickly enough, creating a risk of not
@@ -8203,7 +7676,6 @@ distance from the vehicle ahead.
 •
 
 ### After the system requires the driver to take over
-`forthing_t5_sx3_en_1ec060ea` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:133 | doc_type:owners_manual
 
 the vehicle, if the vehicle continues to move, the
 driver must depress the brake pedal to apply
@@ -8212,7 +7684,6 @@ Caution
 •
 
 ### If the vehicle speed exceeds the set value by
-`forthing_t5_sx3_en_26eed734` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:133 | doc_type:owners_manual
 
 depressing the accelerator pedal, the driver will
 not receive a takeover request.
@@ -8222,7 +7693,6 @@ on the same lane and the driver may lose
 control of the vehicle or have an accident.
 
 ### Please pay close attention and be ready to take
-`forthing_t5_sx3_en_b06630b5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:133 | doc_type:owners_manual
 
 over at any time.
 Caution
@@ -8235,7 +7705,6 @@ instrument cluster.
 1.
 
 ### Vehicle entering/exiting a curve
-`forthing_t5_sx3_en_df2b9d5d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:133 | doc_type:owners_manual
 
 The
 ACC
@@ -8250,7 +7719,6 @@ vehicle by yourself.
 2.
 
 ### When the followed target vehicle leaves
-`forthing_t5_sx3_en_9babb274` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:133 | doc_type:owners_manual
 
 the expressway or turns, the ACC system will
 lose
@@ -8263,7 +7731,6 @@ automatically.
 •
 
 ### For a vehicle traveling on an expressway
-`forthing_t5_sx3_en_780f6271` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:133 | doc_type:owners_manual
 
 ramp, the system may lose the target due to an
 excessive
@@ -8280,7 +7747,6 @@ pedal or pressing the cruise control lever.
 3.
 
 ### Vehicle traveling in narrow lane
-`forthing_t5_sx3_en_29768811` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:133 | doc_type:owners_manual
 
 The
 ACC
@@ -8294,7 +7760,6 @@ vehicle.
 4.
 
 ### The ACC system cannot guarantee the
-`forthing_t5_sx3_en_93b00868` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:133 | doc_type:owners_manual
 
 detection of all types of vehicles on the driving
 Driving
@@ -8308,7 +7773,6 @@ when driving.
 5.
 
 ### When another vehicle is suddenly cutting
-`forthing_t5_sx3_en_ddaaf654` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:134 | doc_type:owners_manual
 
 in laterally in front of the vehicle, ACC system
 may not be able to control the vehicle quickly
@@ -8326,7 +7790,6 @@ Vehicle difficult to identify (motorcycle,
 bicycle, etc.)
 
 ### When the target vehicle followed by the
-`forthing_t5_sx3_en_32d17f8a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:134 | doc_type:owners_manual
 
 subject vehicle makes a U-turn or right-angle
 turn, the sensor will lose the target and the
@@ -8341,7 +7804,6 @@ over at any time.
 7.
 
 ### When the target vehicle followed by the
-`forthing_t5_sx3_en_2208889b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:134 | doc_type:owners_manual
 
 subject vehicle passes through an intersection,
 the driver shall pay attention to the change of
@@ -8350,7 +7812,6 @@ necessary to avoid violating traffic rules.
 8.
 
 ### When the target vehicle makes a U-turn
-`forthing_t5_sx3_en_d55ac761` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:134 | doc_type:owners_manual
 
 or right-angle turn
 If the vehicle ahead, which is behind a
@@ -8361,7 +7822,6 @@ vehicle if necessary.
 9.
 
 ### When the target vehicle followed by the
-`forthing_t5_sx3_en_2208889b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:134 | doc_type:owners_manual
 
 subject vehicle passes through an intersection,
 the driver shall pay attention to the change of
@@ -8370,7 +7830,6 @@ necessary to avoid violating traffic rules.
 10.
 
 ### Stationary vehicles
-`forthing_t5_sx3_en_1846a611` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:134 | doc_type:owners_manual
 
 Driving
 If the vehicle ahead, which is behind a
@@ -8380,14 +7839,12 @@ brake and the driver shall take control of the
 vehicle if necessary.
 
 ### The BSD system utilizes 6 parking radar
-`forthing_t5_sx3_en_8c7d7329` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:135 | doc_type:owners_manual
 
 sensors in the front bumper and 6 reversing
 radar sensors in the rear bumper to monitor
 conditions around the vehicle.
 
 ### When the Start switch is put to "ON"
-`forthing_t5_sx3_en_b62aaf0f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:135 | doc_type:owners_manual
 
 position,
 the
@@ -8410,7 +7867,6 @@ rearview mirrors will flash for 6s before going
 out.
 
 ### When the Start switch is put to "ON"
-`forthing_t5_sx3_en_c18207be` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:135 | doc_type:owners_manual
 
 position, the BSD function is activated by
 default. If the user disables SVA function
@@ -8418,7 +7874,6 @@ through switch setting, the BSD system will be
 completely deactivated.
 
 ### The BSD system can be disabled both in
-`forthing_t5_sx3_en_0736cd5c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:135 | doc_type:owners_manual
 
 the activated and deactivated states (e.g., gear
 position,
@@ -8438,7 +7893,6 @@ alarm to the driver beyond this speed or steering
 angle range.
 
 ### The BSD indicator is installed on the
-`forthing_t5_sx3_en_6fea0df3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:135 | doc_type:owners_manual
 
 rearview mirror. If a vehicle is detected in the
 blind spot, the indicator will stay on.
@@ -8459,7 +7913,6 @@ into
 categories:
 
 ### Level II alarm: If the turn signal is turned
-`forthing_t5_sx3_en_31569e78` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:135 | doc_type:owners_manual
 
 on and there is a vehicle in the blind spot, the
 alarm indicator will start to flash at a frequency
@@ -8474,7 +7927,6 @@ m on the left and right sides behind the vehicle.
 •
 
 ### The BSD system is only used as a warning
-`forthing_t5_sx3_en_7b3c986d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:136 | doc_type:owners_manual
 
 assistance for vehicles in the 3 m×3 m area on
 both sides behind the vehicle during lane change,
@@ -8491,7 +7943,6 @@ ensuring safe driving.
 Caution
 
 ### The following factors may impair the BSD system’s
-`forthing_t5_sx3_en_41b00128` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:136 | doc_type:owners_manual
 
 capability to detect or may lead to poor detection:
 a)
@@ -8504,7 +7955,6 @@ vehicle accelerates and decelerates rapidly.
 c)
 
 ### Noise may be generated when air flows around
-`forthing_t5_sx3_en_0c198643` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:136 | doc_type:owners_manual
 
 the corners of the vehicle body or through the
 funnel-shaped bracket of the sensor. Increased
@@ -8521,7 +7971,6 @@ Motorcycle.
 g)
 
 ### Interference from other ultrasonic noise sources
-`forthing_t5_sx3_en_bd1067e8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:136 | doc_type:owners_manual
 
 (e.g. other vehicles with the ultrasonic system
 on).
@@ -8531,7 +7980,6 @@ warning
 system
 
 ### The FCW system detects the vehicle's
-`forthing_t5_sx3_en_b5f4b22b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:136 | doc_type:owners_manual
 
 distance and speed relative to the vehicle and
 pedestrians
@@ -8569,7 +8017,6 @@ independent judgment and apply the brakes
 without relying too heavily on the alarm.
 
 ### The FCW system may not send an alarm
-`forthing_t5_sx3_en_166d2d2a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:136 | doc_type:owners_manual
 
 prompt in time due to its limited response
 capability. For example, when a vehicle ahead
@@ -8579,7 +8026,6 @@ enters the driving lane, it may not be able to
 give an alarm in time.
 
 ### Description of system detection capability
-`forthing_t5_sx3_en_aaf92fa9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:136 | doc_type:owners_manual
 
 limitation
 1.
@@ -8595,7 +8041,6 @@ when they are detected.
 2.
 
 ### FCW system can only detect regular
-`forthing_t5_sx3_en_4d4029e4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:136 | doc_type:owners_manual
 
 vehicles that have obtained license plates and
 are legally driving on the road.
@@ -8646,7 +8091,6 @@ Driving
 7.
 
 ### The FCW system requires sufficient
-`forthing_t5_sx3_en_b9d420d6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:137 | doc_type:owners_manual
 
 contrast
 between
@@ -8669,7 +8113,6 @@ with the clothes worn, are too low, carry large
 objects, have poor contrast, etc.
 
 ### Constraints of traffic environment on system
-`forthing_t5_sx3_en_3b65895e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:137 | doc_type:owners_manual
 
 safety
 1.
@@ -8687,7 +8130,6 @@ the FCW system may not identify vehicles in
 time, resulting in alarm delay.
 
 ### Description of system operation buttons
-`forthing_t5_sx3_en_f5f6c504` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:137 | doc_type:owners_manual
 
 In
 the
@@ -8712,13 +8154,11 @@ the "Forward Collision Warning Sensitivity"
 option.
 
 ### FCW system is automatically turned on
-`forthing_t5_sx3_en_e2280c57` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:137 | doc_type:owners_manual
 
 when the vehicle is started, and it is not
 recommended for users to turn off the system.
 
 ### The FCW system supports sensitivity
-`forthing_t5_sx3_en_b871830d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:137 | doc_type:owners_manual
 
 adjustment, which is divided into three levels:
 normal, advance and delay.
@@ -8728,7 +8168,6 @@ function is turned on by default after it is started,
 and the sensitivity can be memorized.
 
 ### Description of instrument cluster display
-`forthing_t5_sx3_en_79c15621` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:137 | doc_type:owners_manual
 
 When the FCW system is triggered, a
 warning
@@ -8755,7 +8194,6 @@ Severe weather.
 3.
 
 ### Description of system restraint conditions
-`forthing_t5_sx3_en_0748c72a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:137 | doc_type:owners_manual
 
 When any inhibition condition is met, the
 FCW system will not be triggered. It aims to let
@@ -8776,7 +8214,6 @@ or the steering angle is too large.
 2.
 
 ### Description of factors affecting calibration
-`forthing_t5_sx3_en_f9a8391b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:137 | doc_type:owners_manual
 
 After
 replacement
@@ -8800,7 +8237,6 @@ otherwise, the system performance will be
 reduced or the system cannot work normally.
 
 ### The camera sensor area on the front
-`forthing_t5_sx3_en_3d3d7175` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:137 | doc_type:owners_manual
 
 windshield will be blocked by ice, snow and
 dust. This area shall be cleaned for proper
@@ -8809,7 +8245,6 @@ operation of the FCW system.
 2.
 
 ### The working range of AEB system is
-`forthing_t5_sx3_en_473c6fd3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:138 | doc_type:owners_manual
 
 8~75km/h. This system detects the distance and
 relative speed between vehicle and other
@@ -8830,7 +8265,6 @@ to reduce the severity of an accident.
 •
 
 ### The AEB system is an active safety assistance
-`forthing_t5_sx3_en_0d746a5d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:138 | doc_type:owners_manual
 
 system, but it cannot completely avoid collision
 with the vehicle or pedestrian ahead. If the
@@ -8844,13 +8278,11 @@ distance from the vehicle ahead and pedestrians.
 •
 
 ### If an accident occurs during the use of this
-`forthing_t5_sx3_en_8e8dd2d0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:138 | doc_type:owners_manual
 
 function, the driver shall deactivate the current
 system in time and take over the vehicle actively.
 
 ### The response and braking capacity
-`forthing_t5_sx3_en_1214f3d6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:138 | doc_type:owners_manual
 
 of AEB system are limited, so there may not be
 enough time and braking force to reduce the
@@ -8863,13 +8295,11 @@ avoided.
 2.
 
 ### Always pay full attention when
-`forthing_t5_sx3_en_b44760d7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:138 | doc_type:owners_manual
 
 driving the vehicle, and be ready to deal with
 unexpected situations at all times.
 
 ### The AEB system is usually in the
-`forthing_t5_sx3_en_61ca35ac` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:138 | doc_type:owners_manual
 
 background working state and will not be
 detected by the driver, so the relevant target
@@ -8895,7 +8325,6 @@ and crossing ahead.
 4.
 
 ### AEB system is a driver assistance
-`forthing_t5_sx3_en_1ea368c5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:138 | doc_type:owners_manual
 
 system, but it cannot detect vehicles under all
 conditions, for example, when the rear of the
@@ -8926,7 +8355,6 @@ possible.
 7.
 
 ### The AEB system requires sufficient
-`forthing_t5_sx3_en_a2943f27` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:138 | doc_type:owners_manual
 
 contrast
 between
@@ -8962,7 +8390,6 @@ worn, are too low, carry large objects, have
 poor contrast, etc.
 
 ### The system may not be able to
-`forthing_t5_sx3_en_ead6cef4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:138 | doc_type:owners_manual
 
 detect a vehicle ahead when the subject vehicle
 is on a curved road or slope, or when the sensor
@@ -8983,7 +8410,6 @@ Driving
 resulting in delay of emergency braking.
 
 ### Braking Function" soft switch in the "Driving
-`forthing_t5_sx3_en_c5747e42` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:139 | doc_type:owners_manual
 
 Assist" tab of the instrument cluster.
 △Warning
@@ -8997,7 +8423,6 @@ flashes in red; when AEB is deactivated,
 the AEB indicator stays on in yellow.
 
 ### The AEB system is turned on by default
-`forthing_t5_sx3_en_16edfaf2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:139 | doc_type:owners_manual
 
 every time the vehicle is started, and it is not
 recommended that the user turn off the AEB
@@ -9009,7 +8434,6 @@ on the instrument cluster at the same time, and
 an audible alarm signal will be given.
 
 ### Description of automatic system release prompt
-`forthing_t5_sx3_en_6fd404b9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:139 | doc_type:owners_manual
 
 AEB
 system
@@ -9030,7 +8454,6 @@ system works abnormally or is turned off.
 4.
 
 ### AEB system will not be triggered when
-`forthing_t5_sx3_en_767bb106` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:139 | doc_type:owners_manual
 
 any of the following inhibition conditions is
 met:
@@ -9051,7 +8474,6 @@ control": The driver depresses the accelerator
 pedal too hard.
 
 ### Description of system interruption conditions
-`forthing_t5_sx3_en_d9966b97` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:139 | doc_type:owners_manual
 
 1.
 The
@@ -9071,7 +8493,6 @@ pedal too hard.
 3.
 
 ### When the speed drops below the
-`forthing_t5_sx3_en_a695b18a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:139 | doc_type:owners_manual
 
 threshold of 40 km/h, AEB stops automatic
 braking.
@@ -9085,7 +8506,6 @@ identifiable lane lines at a speed greater than or
 equal to 60 km/h, the LDW system is activated.
 
 ### When the vehicle deviates from the lane
-`forthing_t5_sx3_en_ecf956f1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:139 | doc_type:owners_manual
 
 unconsciously, the LDW system gives an
 audible and visual alarm to remind the driver to
@@ -9099,7 +8519,6 @@ snow and dust. Therefore, keep the camera clean.
 •
 
 ### Access the system settings through the
-`forthing_t5_sx3_en_d61dac6a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:139 | doc_type:owners_manual
 
 "Driving Assist" menu on the instrument
 cluster. LDW is enabled by default, and the
@@ -9110,7 +8529,6 @@ the Start/Start switch is placed in OFF position
 last time.
 
 ### Function condition description
-`forthing_t5_sx3_en_1b39ee30` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:139 | doc_type:owners_manual
 
 •
 After the function is enabled, if the
@@ -9126,7 +8544,6 @@ automatically enter the activated state.
 •
 
 ### When the turn signals (or hazard lights)
-`forthing_t5_sx3_en_7cecc33f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:139 | doc_type:owners_manual
 
 are turned on, the system warning function will
 be deactivated; when the turn signals (or hazard
@@ -9142,7 +8559,6 @@ warning will be given in a delayed manner.
 •
 
 ### LDW: When the vehicle is on a narrow
-`forthing_t5_sx3_en_6f6626fe` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:140 | doc_type:owners_manual
 
 lane (2.5 m < lane width < 3.0 m), the system
 will enter the narrow lane adaptation mode, and
@@ -9155,7 +8571,6 @@ indicator will turn off.
 •
 
 ### When the LDW system is turned on but
-`forthing_t5_sx3_en_c91054f1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:140 | doc_type:owners_manual
 
 not activated, the lane departure indicator
 stays on in white.
@@ -9174,7 +8589,6 @@ instrument cluster displays the lane departure
 warning system information.
 
 ### Lane line detected
-`forthing_t5_sx3_en_b8713ae9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:140 | doc_type:owners_manual
 
 •
 When the left lane line is detected, the left
@@ -9192,7 +8606,6 @@ the left and right lane lines on the main
 interface are displayed in white.
 
 ### No lane line detected
-`forthing_t5_sx3_en_628c21ab` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:140 | doc_type:owners_manual
 
 •
 No lane line is detected, and the left and
@@ -9206,7 +8619,6 @@ turns yellow, and the buzzer sounds three times.
 •
 
 ### When the right lane departure alarm is
-`forthing_t5_sx3_en_a7c393f2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:140 | doc_type:owners_manual
 
 triggered, the right lane line on the main
 interface turns yellow, and the buzzer sounds
@@ -9219,7 +8631,6 @@ to control the driving direction of the vehicle by
 herself/himself.
 
 ### The LDW system is only an auxiliary
-`forthing_t5_sx3_en_7dd60067` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:140 | doc_type:owners_manual
 
 warning system. The driver should always pay
 attention
@@ -9246,7 +8657,6 @@ for
 controlling the vehicle.
 
 ### The function will be limited under the
-`forthing_t5_sx3_en_d75f5cc7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:140 | doc_type:owners_manual
 
 following conditions. If LDW system does not
 operate normally due to poor driving conditions,
@@ -9261,7 +8671,6 @@ other weather with low visibility.
 3.
 
 ### When the sight of the camera is
-`forthing_t5_sx3_en_cfd85418` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:141 | doc_type:owners_manual
 
 blocked due to too close distance from the front
 vehicle.
@@ -9279,7 +8688,6 @@ construction zones.
 8.
 
 ### Warning sensitivity
-`forthing_t5_sx3_en_c9cac59a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:141 | doc_type:owners_manual
 
 LDW
 supports
@@ -9295,7 +8703,6 @@ affecting system sensitivity:
 1.
 
 ### Removal and installation of interior
-`forthing_t5_sx3_en_cc06d313` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:141 | doc_type:owners_manual
 
 rearview mirrors.
 2.
@@ -9315,7 +8722,6 @@ system needs to be recalibrated; otherwise, it
 cannot work normally.
 
 ### Lane keeping assist (LKA) system *
-`forthing_t5_sx3_en_0de93959` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:141 | doc_type:owners_manual
 
 The
 lane
@@ -9332,7 +8738,6 @@ the curvature of lane line is not too large.
 •
 
 ### LKA system is a comfort system and does not
-`forthing_t5_sx3_en_abd453b4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:141 | doc_type:owners_manual
 
 have the ability to deal with special driving
 conditions such as complex traffic conditions or
@@ -9342,7 +8747,6 @@ fully responsible for the vehicle.
 •
 
 ### LKA system can assist the driver but cannot
-`forthing_t5_sx3_en_b8a9a32c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:141 | doc_type:owners_manual
 
 replace the driver for driving. Even if LKA
 system is activated, the driver must drive
@@ -9351,14 +8755,12 @@ operate the steering wheel for a short time, but it
 will automatically exit if the time is too long.
 
 ### If an accident occurs during the use of this
-`forthing_t5_sx3_en_76944df6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:141 | doc_type:owners_manual
 
 function, the driver shall exit the current system
 in time and take over the vehicle actively.
 Statement
 
 ### The steering capability of LKA system is
-`forthing_t5_sx3_en_0d7e6fac` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:141 | doc_type:owners_manual
 
 limited, and it cannot guarantee that the vehicle
 can pass through curves with any curvature
@@ -9368,7 +8770,6 @@ over the steering wheel when driving through a
 curve.
 
 ### LKA system can only detect lane lines
-`forthing_t5_sx3_en_6cdd8dc8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:141 | doc_type:owners_manual
 
 and curbs with a certain contrast. For fuzzy or
 stained lane lines,
@@ -9381,7 +8782,6 @@ detection may cause function exit or abnormal
 steering.
 
 ### LKA system may not work normally
-`forthing_t5_sx3_en_b6f8d0e0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:141 | doc_type:owners_manual
 
 under the following conditions:
 1.
@@ -9400,7 +8800,6 @@ When driving towards strong light;
 7.
 
 ### The vehicle is driving in complex
-`forthing_t5_sx3_en_3a045628` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:142 | doc_type:owners_manual
 
 situations
 such
@@ -9423,14 +8822,12 @@ bumpy or uneven.
 △Warning
 
 ### The master switch of the LKA system is
-`forthing_t5_sx3_en_7c1abd94` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:142 | doc_type:owners_manual
 
 located on the instrument panel switch set.
 Press
 to activate or deactivate the system.
 
 ### When the lane LKA system master switch
-`forthing_t5_sx3_en_e2c95c3a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:142 | doc_type:owners_manual
 
 is pressed, the LKA indicator
 on the
@@ -9457,7 +8854,6 @@ ESP is free of fault.
 4.
 
 ### ESP local function is not activated
-`forthing_t5_sx3_en_b58bc381` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:142 | doc_type:owners_manual
 
 5.
 The transmission is free of fault.
@@ -9473,7 +8869,6 @@ the vehicle speed is lower than 65 km/h, or
 other exit conditions are met.
 
 ### Press the LKA button when the
-`forthing_t5_sx3_en_04bd6cda` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:142 | doc_type:owners_manual
 
 LKA system is enabled.
 2.
@@ -9501,7 +8896,6 @@ instrument cluster stays off.
 2.
 
 ### LKA working indicator on the instrument
-`forthing_t5_sx3_en_ba154ae0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:142 | doc_type:owners_manual
 
 cluster stays on in white.
 3.
@@ -9517,7 +8911,6 @@ on the instrument cluster flashes in green (and a
 takeover request is sent at the same time).
 
 ### Right lane Line
-`forthing_t5_sx3_en_220f38f3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:142 | doc_type:owners_manual
 
 •
 No lane line is detected, and the left and
@@ -9539,7 +8932,6 @@ the left and right lane lines on the main
 interface are displayed in white.
 
 ### Description of system takeover prompt
-`forthing_t5_sx3_en_8b70fafa` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:143 | doc_type:owners_manual
 
 In the following cases, the instrument
 cluster
@@ -9558,7 +8950,6 @@ more than a certain period of time.
 •
 
 ### If the system detects that the driver has not been
-`forthing_t5_sx3_en_5182fbda` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:143 | doc_type:owners_manual
 
 holding the steering wheel for a period of time,
 the instrument cluster will display "Please
@@ -9575,7 +8966,6 @@ vehicle.
 •
 
 ### If the driver actively controls the steering
-`forthing_t5_sx3_en_9ac57546` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:143 | doc_type:owners_manual
 
 wheel to change direction or turns on the turn
 signal to prepare for lane changing when LKA
@@ -9586,7 +8976,6 @@ and stays near the lane centerline, the LKA
 system will be restarted.
 
 ### Functional limitations
-`forthing_t5_sx3_en_89c68a36` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:143 | doc_type:owners_manual
 
 Under certain traffic road conditions, the
 LKA system cannot respond well, resulting in
@@ -9597,7 +8986,6 @@ following:
 1.
 
 ### When there is an obvious interference line
-`forthing_t5_sx3_en_4decd60d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:143 | doc_type:owners_manual
 
 on the road in front of the vehicle, the LKA
 system
@@ -9615,7 +9003,6 @@ Driving
 2.
 
 ### No lane line at the intersection
-`forthing_t5_sx3_en_8cd4ca34` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:144 | doc_type:owners_manual
 
 When
 the
@@ -9632,7 +9019,6 @@ at the intersection.
 Lane line convergence.
 
 ### When the vehicle travels to the lane line
-`forthing_t5_sx3_en_5596ab2a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:144 | doc_type:owners_manual
 
 convergence position, the LKA system may
 exit because it identifies that the vehicle cannot
@@ -9642,7 +9028,6 @@ ahead.
 Expressway ramp.
 
 ### When the vehicle runs to an expressway
-`forthing_t5_sx3_en_546dc112` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:144 | doc_type:owners_manual
 
 ramp, the LKA system may be deactivated due
 to a reduced speed lower than the effective one
@@ -9652,7 +9037,6 @@ excessive ramp curvature or unclear lane line.
 Lane line blocked vehicle ahead.
 
 ### When there is a vehicle running close
-`forthing_t5_sx3_en_ba492aa6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:144 | doc_type:owners_manual
 
 ahead of the vehicle and blocking the lane line
 ahead, the LKA system may exit due to
@@ -9665,7 +9049,6 @@ to identify clear lane lines.
 7. The lane ahead is too curved or narrow.
 
 ### When the lane ahead is too wide or
-`forthing_t5_sx3_en_23f5b403` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:144 | doc_type:owners_manual
 
 narrow, the LKA system may judge that the
 width of the lane ahead does not meet the
@@ -9686,7 +9069,6 @@ abnormal lane identification caused by severe
 vehicle bumpiness.
 
 ### The IHC system detects the headlights of
-`forthing_t5_sx3_en_704f1b18` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:145 | doc_type:owners_manual
 
 oncoming vehicles or the taillights of vehicles
 ahead using the camera sensor located at the
@@ -9707,7 +9089,6 @@ factors such as street lights.
 •
 
 ### Do not stick any substance on the windshield in
-`forthing_t5_sx3_en_2f467e71` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:145 | doc_type:owners_manual
 
 front of the camera sensor, which may reduce the
 effectiveness or cause the system to stop
@@ -9722,7 +9103,6 @@ identification.
 3.
 
 ### Constraints of traffic environment on system
-`forthing_t5_sx3_en_1bb28e30` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:145 | doc_type:owners_manual
 
 safety
 1.
@@ -9739,7 +9119,6 @@ etc.).
 3.
 
 ### When there are highly reflective
-`forthing_t5_sx3_en_b37a4ff0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:145 | doc_type:owners_manual
 
 objects near the road (such as traffic signs), the
 system may not work normally.
@@ -9751,7 +9130,6 @@ beam" soft switch in the "Driving Assistance"
 tab on the instrument cluster setting page.
 
 ### Description of System Use Mode
-`forthing_t5_sx3_en_cedaa9ca` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:145 | doc_type:owners_manual
 
 The
 system
@@ -9764,7 +9142,6 @@ following conditions are met simultaneously.
 1.
 
 ### Removal and installation of interior
-`forthing_t5_sx3_en_381f15ca` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:145 | doc_type:owners_manual
 
 rearview mirrors.
 2.
@@ -9786,7 +9163,6 @@ the system performance will be reduced or the
 system cannot work normally.
 
 ### The camera sensor on the upper edge of
-`forthing_t5_sx3_en_bb8c379b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:145 | doc_type:owners_manual
 
 the front windshield in front of the interior
 rearview mirror may be blocked by ice, snow or
@@ -9798,7 +9174,6 @@ Adverse
 Weather
 
 ### Driving tips
-`forthing_t5_sx3_en_f2564fd3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:145 | doc_type:owners_manual
 
 When driving in wet conditions like rain,
 snow, and fog, make sure to reduce speed,
@@ -9827,7 +9202,6 @@ windshield, avoid wiping the glass while
 driving to prevent distraction-related accidents.
 
 ### A clear and unobstructed field of vision is
-`forthing_t5_sx3_en_6cce6ba1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:146 | doc_type:owners_manual
 
 crucial
 for
@@ -9853,7 +9227,6 @@ washer frequently. Make sure that a proper amount
 of washer fluid is stored in the washer reservoir.
 
 ### Regularly check the tire wear and tire
-`forthing_t5_sx3_en_f11bf1b2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:146 | doc_type:owners_manual
 
 pressure, as both are crucial in preventing the
 vehicle from "slipping" (losing traction on wet
@@ -9874,7 +9247,6 @@ suddenly without any warning, causing the
 vehicle to slip.
 
 ### Press the red switch below the multimedia
-`forthing_t5_sx3_en_1920293b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:147 | doc_type:owners_manual
 
 display to activate the hazard warning light. At
 this time, all turn signals outside the vehicle and
@@ -9884,7 +9256,6 @@ passing vehicles that your vehicle is in an
 abnormal state.
 
 ### Warning triangle
-`forthing_t5_sx3_en_7dde6d04` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:147 | doc_type:owners_manual
 
 In case of an accident while driving, pull
 over to the right side as safely as possible. Take
@@ -9896,7 +9267,6 @@ accidents. Also, remember to activate the
 hazard warning lights.
 
 ### Park the vehicle in a place where the
-`forthing_t5_sx3_en_709a4cda` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:147 | doc_type:owners_manual
 
 traffic flow is little and it is convenient to
 replace the wheel safety. Before replacing a
@@ -9906,7 +9276,6 @@ an appropriate distance according to the road
 conditions to avoid traffic accidents.
 
 ### The on-board tools are located in the
-`forthing_t5_sx3_en_4efed175` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:147 | doc_type:owners_manual
 
 clamping foam at the lower layer of the trunk.
 Take out the tools from the clamping foam.
@@ -9922,7 +9291,6 @@ nut
 wrench
 
 ### Pull out the steel cable fixing bracket from the
-`forthing_t5_sx3_en_b1c37490` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:148 | doc_type:owners_manual
 
 center of the spare tire hub, and remove the
 spare tire.
@@ -9936,7 +9304,6 @@ clockwise to retract the cable fixing bracket
 until it is fully secured in position.
 
 ### Jack the vehicle
-`forthing_t5_sx3_en_f7f60af0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:148 | doc_type:owners_manual
 
 Before
 jacking
@@ -9956,7 +9323,6 @@ the vehicle body may be sunken or accidents may occur
 when the vehicle body falls.
 
 ### Remove the wheel nuts with a wheel nut
-`forthing_t5_sx3_en_8061cd1b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:148 | doc_type:owners_manual
 
 wrench, and then remove the tire. Remove all
 sludge from the hub surface and install the
@@ -9970,7 +9336,6 @@ clip. Appropriate torque shall be applied when
 tightening the wheel nuts.
 
 ### Frequently check the inflation pressure of spare
-`forthing_t5_sx3_en_0d0884ad` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:149 | doc_type:owners_manual
 
 tire for emergency use at any time. Keep the
 inflation pressure of the spare tire at the
@@ -9985,7 +9350,6 @@ used safely.
 •
 
 ### The spare tire is not allowed to be installed on
-`forthing_t5_sx3_en_717ad44a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:149 | doc_type:owners_manual
 
 the steering wheel (i.e. front wheel). If the
 steering wheel needs to be replaced, the spare
@@ -9994,7 +9358,6 @@ then the replaced wheel shall be installed on the
 steering wheel.
 
 ### Replacement of bulb usually requires the
-`forthing_t5_sx3_en_e27aeb7c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:149 | doc_type:owners_manual
 
 removal of certain vehicle components, so
 professional skills are required for relevant
@@ -10009,7 +9372,6 @@ of
 Dongfeng Forthing.
 
 ### Headlight calibration
-`forthing_t5_sx3_en_cf0d6e5d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:149 | doc_type:owners_manual
 
 When the new vehicle leaves the factory,
 the headlight has been calibrated. If you often
@@ -10021,7 +9383,6 @@ Forthing.
 FAQ
 
 ### Why does the headlamp glass surface fog
-`forthing_t5_sx3_en_05e8f3b5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:149 | doc_type:owners_manual
 
 sometimes?
 In general, the fog in the headlight is
@@ -10046,7 +9407,6 @@ To avoid damaging the light, do not use invasive
 abrasive or chemical solvent to clean the light.
 
 ### The vehicle is equipped with a wiper
-`forthing_t5_sx3_en_0351e91d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:149 | doc_type:owners_manual
 
 maintenance mode. For specific operations,
 please refer to the wiper maintenance mode
@@ -10057,7 +9417,6 @@ hand and press down the wiper blade with your
 left hand in the indicated direction.
 
 ### Frameless wiper replacement
-`forthing_t5_sx3_en_74daafdd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:150 | doc_type:owners_manual
 
 1.
 Pull
@@ -10077,7 +9436,6 @@ hanger and scraper and remove the scraper.
 3.
 
 ### Replace the wiper blade assembly
-`forthing_t5_sx3_en_2419d60a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:150 | doc_type:owners_manual
 
 with a new one, and operate in the reverse order
 to ensure that the wiper blade is correctly
@@ -10088,7 +9446,6 @@ pulled up; otherwise, the engine hood and the wiper
 arm will be damaged.
 
 ### The fuse box of engine compartment is
-`forthing_t5_sx3_en_5b4f2e5f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:150 | doc_type:owners_manual
 
 located on the left front side of engine
 compartment. Remove the clips on the left and
@@ -10101,7 +9458,6 @@ driver's side. Remove the storage box to check
 the fuse.
 
 ### When the electrical equipment is at risk of
-`forthing_t5_sx3_en_2cd9d5a9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:151 | doc_type:owners_manual
 
 overload,
 the
@@ -10116,7 +9472,6 @@ faulty, remove it with a fuse puller and check
 whether it is blown.
 
 ### There is a fuse puller in the engine
-`forthing_t5_sx3_en_e846ef47` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:151 | doc_type:owners_manual
 
 compartment fuse box. Pull the fuse straight out
 of the fuse box with the puller. If the fuse is not
@@ -10129,7 +9484,6 @@ the fuse is burnt out, use the spare fuse with the
 same amperage to replace the burnt-out one.
 
 ### If the replacement fuse with the same
-`forthing_t5_sx3_en_a728c10c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:151 | doc_type:owners_manual
 
 rating is blown again in a short time, it
 indicates that the vehicle may have a serious
@@ -10138,7 +9492,6 @@ service station of Dongfeng Forthing as soon as
 possible.
 
 ### Towing point
-`forthing_t5_sx3_en_20b85525` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:164 | doc_type:owners_manual
 
 If your vehicle requires towing service,
 please contact a professional vehicle towing
@@ -10147,7 +9500,6 @@ station of Dongfeng Forthing. Do not tow your
 vehicle only with ropes or iron chains.
 
 ### The tractor inserts two supporting arms
-`forthing_t5_sx3_en_3d4c2d57` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:164 | doc_type:owners_manual
 
 into the bottom of the front wheels of the
 vehicle to lift the wheels off the ground, and
@@ -10162,7 +9514,6 @@ and the speed should be kept below 30 km/h.
 •
 
 ### In case of a front spoiler on your vehicle
-`forthing_t5_sx3_en_cff1137e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:164 | doc_type:owners_manual
 
 body, remove it to avoid of damages before
 towing. Do not lift or tow your vehicle from the
@@ -10180,7 +9531,6 @@ wheel, and turn the gearshift lever to N gear.
 •
 
 ### If the engine cannot start due to a low
-`forthing_t5_sx3_en_b278b09e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:164 | doc_type:owners_manual
 
 battery, jumper cables can be used to start it
 with assistance from another vehicle's battery.
@@ -10193,7 +9543,6 @@ turn off the Start switch.
 2.
 
 ### Connect the positive and negative poles
-`forthing_t5_sx3_en_d6708822` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:164 | doc_type:owners_manual
 
 of batteries on the two vehicles respectively
 with jumper cables, and the two vehicles shall
@@ -10206,7 +9555,6 @@ first and then the positive cables.
 △Warning
 
 ### The cooling fan and other operating parts of the engine
-`forthing_t5_sx3_en_d11b37a2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 may seriously injure people. Therefore, be sure to keep
 your hands away from the operating parts of the engine
@@ -10217,7 +9565,6 @@ Incorrect operation steps may cause fire, explosion or
 damage to the vehicle.
 
 ### Brief introduction
-`forthing_t5_sx3_en_2635c0fe` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 After the engine runs for a period of time,
 the coolant thermometer indication shall be
@@ -10229,7 +9576,6 @@ engine hood, stop the vehicle immediately for
 inspection.
 
 ### Safely drive the vehicle to the
-`forthing_t5_sx3_en_ce94ab1d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 roadside, shift the gear lever to the P or N
 position, and then press the parking brake
@@ -10267,7 +9613,6 @@ burns.
 5.
 
 ### Add coolant to the expansion tank if
-`forthing_t5_sx3_en_79d9bab3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 necessary. Adding coolant immediately when
 the engine temperature is high may crack the
@@ -10284,14 +9629,12 @@ the expansion tank cover.
 Do not open the engine hood if steam is leaking.
 
 ### Contact with steam or mist spray coming out from the
-`forthing_t5_sx3_en_4738aab5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 overheated engine will cause severe scald. Be sure to
 wait until the engine and radiator cool down before
 opening the engine hood.
 
 ### If the vehicle needs to be parked for a
-`forthing_t5_sx3_en_0263c65d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 long time, the following measures shall be
 taken. Proper preparation aids in preventing
@@ -10301,7 +9644,6 @@ vehicle indoors.
 1.
 
 ### Pull up the parking brake button or
-`forthing_t5_sx3_en_5f9c4281` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:165 | doc_type:owners_manual
 
 the parking brake lever, place the gearshift
 lever in R position, and block the rear wheels
@@ -10314,7 +9656,6 @@ body so that the tires are off the ground.
 5.
 
 ### Use folded washcloth or cloth to
-`forthing_t5_sx3_en_72aca79e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:165 | doc_type:owners_manual
 
 cushion the front wiper hanger so as to separate
 it off from the windscreen.
@@ -10327,7 +9668,6 @@ doors and trunk lids contact.
 8.
 
 ### Cover the vehicle body with a
-`forthing_t5_sx3_en_ba15c8e2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 breathable covering made of "porous material"
 such as cotton cloth. Non-porous materials such
@@ -10343,7 +9683,6 @@ Caution
 If the vehicle has been parked for one year or more, it
 
 ### Handle Emergency Troubleshooting
-`forthing_t5_sx3_en_2831dfe7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:166 | doc_type:owners_manual
 
 may not be able to start or its maneuverability will
 deteriorate after starting. In this case, please contact an
@@ -10355,7 +9694,6 @@ engine hood will pop up slightly.
 2.
 
 ### For models without pneumatic rods for the
-`forthing_t5_sx3_en_faa81b2e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:167 | doc_type:owners_manual
 
 engine hood, lift the hood to approximately 30
 cm above the closed position, then release it to
@@ -10366,7 +9704,6 @@ down until it is fully closed. Observe the engine
 hood to ensure that it is locked in place.
 
 ### Type I
-`forthing_t5_sx3_en_985c102b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:168 | doc_type:owners_manual
 
 1. Coolant expansion tank
 6. Brake fluid reservoir
@@ -10390,7 +9727,6 @@ Type II
 5. Brake fluid reservoir
 
 ### Engine oil is a consumable to ensure the
-`forthing_t5_sx3_en_6714f8af` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:170 | doc_type:owners_manual
 
 normal operation of engine, and its level shall
 be checked regularly. For example, check the
@@ -10402,7 +9738,6 @@ about 3 min, and then check the engine oil
 level.
 
 ### Take out the oil dipstick again to check
-`forthing_t5_sx3_en_b1eb8628` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:170 | doc_type:owners_manual
 
 the engine oil level, which must be between the
 notch marks of the upper and lower limits.
@@ -10412,7 +9747,6 @@ engine oil will damage the engine, and such damage is
 not covered by the warranty.
 
 ### Install the engine oil filler cap and tighten
-`forthing_t5_sx3_en_07a3442e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:170 | doc_type:owners_manual
 
 it. Warm up the engine, then shut down the
 vehicle. After approximately 3 minutes, check
@@ -10424,7 +9758,6 @@ engine. Add engine oil as required until the level is
 close to the upper limit to avoid damage to the engine.
 
 ### Engine oil plays a crucial role in the
-`forthing_t5_sx3_en_61fff235` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:170 | doc_type:owners_manual
 
 performance and longevity of the engine. Use
 high-quality, refined oil to ensure optimal
@@ -10439,7 +9772,6 @@ Dongfeng
 Forthing.
 
 ### SL level and
-`forthing_t5_sx3_en_100834a5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:171 | doc_type:owners_manual
 
 above 5W-30
 2.5±0.2L
@@ -10461,7 +9793,6 @@ SN5W-30/
 SP5W-30
 
 ### Forthing T5 vehicle does not need any
-`forthing_t5_sx3_en_248daa24` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:171 | doc_type:owners_manual
 
 engine oil additives. Additives do not improve
 the performance or durability of the engine and
@@ -10473,7 +9804,6 @@ engine caused by the use of additives.
 Coolant
 
 ### Check whether the coolant level is between the
-`forthing_t5_sx3_en_b4399d97` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:171 | doc_type:owners_manual
 
 upper limit (MAX) and the lower limit (MIN)
 marks. If it is lower than the MIN mark, add
@@ -10481,7 +9811,6 @@ coolant to the coolant expansion tank to the
 upper limit position.
 
 ### Open the expansion tank cover to add the
-`forthing_t5_sx3_en_2fdc4753` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:171 | doc_type:owners_manual
 
 coolant. After adding the coolant, put on the
 cover and tighten it. Do not mix coolants of
@@ -10505,7 +9834,6 @@ tank cap, make sure that the engine and radiator have
 cooled down.
 
 ### Repair and Maintenance
-`forthing_t5_sx3_en_44de3a25` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:172 | doc_type:owners_manual
 
 1. Inspect the level of the fluid reservoirs of
 the brake and clutch once a month.
@@ -10522,7 +9850,6 @@ check whether the brake system leaks and
 whether the brake pads are seriously worn.
 
 ### The brake fluid absorbs moisture from the
-`forthing_t5_sx3_en_e9592e22` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:172 | doc_type:owners_manual
 
 air. Excessive moisture content can cause
 corrosion and damage to the brake system, and
@@ -10541,7 +9868,6 @@ Forthing.
 •
 
 ### Do not mix
-`forthing_t5_sx3_en_7908c236` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:172 | doc_type:owners_manual
 
 the brake fluid
 with liquids
@@ -10556,7 +9882,6 @@ examination.
 •
 
 ### The brake fluid is corrosive and shall not be
-`forthing_t5_sx3_en_97d01fc8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:172 | doc_type:owners_manual
 
 allowed to contact with paint. Once it overflows
 onto the paint, wash it off with plenty of water.
@@ -10574,7 +9899,6 @@ with plenty of water. If you feel unwell, go to the
 hospital immediately for examination.
 
 ### Maintenance and technical requirements of
-`forthing_t5_sx3_en_eade9f6d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:172 | doc_type:owners_manual
 
 brake fluid
 1.
@@ -10593,7 +9917,6 @@ brake fluid shall comply with the relevant
 provisions of GB12981.
 
 ### Check whether there is enough washer
-`forthing_t5_sx3_en_33289a04` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:172 | doc_type:owners_manual
 
 fluid in the washer fluid reservoir. If no water is
 sprayed by using the wiper spraying function,
@@ -10612,7 +9935,6 @@ freezing in cold weather.
 •
 
 ### Antifreeze will damage the paint on vehicle
-`forthing_t5_sx3_en_40dd5631` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:172 | doc_type:owners_manual
 
 surface, and vinegar solution will damage the
 water
@@ -10629,7 +9951,6 @@ If ethanol based detergent is used, the ethanol
 content of the detergent should not exceed 24%
 
 ### It is recommended that any important
-`forthing_t5_sx3_en_0aa2c05a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:172 | doc_type:owners_manual
 
 maintenance work of the vehicle's A/C system,
 such as recharging the refrigerant, should be
@@ -10641,7 +9962,6 @@ condenser regularly. Remove leaves, insects
 and dust accumulated on the front surface.
 
 ### Repair and Maintenance
-`forthing_t5_sx3_en_39d11175` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:173 | doc_type:owners_manual
 
 These deposits will hinder airflow, thereby
 compromising the refrigeration effect.
@@ -10649,7 +9969,6 @@ Caution
 •
 
 ### The fins of the condenser and radiator are highly
-`forthing_t5_sx3_en_bd7bebed` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:173 | doc_type:owners_manual
 
 susceptible to bending. Only low-pressure water
 gun or soft brush can be used for cleaning.
@@ -10663,7 +9982,6 @@ refrigerant.
 •
 
 ### A service station is required to ensure that the
-`forthing_t5_sx3_en_7128836b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:173 | doc_type:owners_manual
 
 refrigerant
 recirculation
@@ -10676,7 +9994,6 @@ refrigerant; otherwise, releasing it into the
 atmosphere will harm the environment.
 
 ### Squeeze the upper and lower sides
-`forthing_t5_sx3_en_d14fa3e7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:173 | doc_type:owners_manual
 
 of the dust and pollen filter to disengage the
 tabs on both sides and remove the filter.
@@ -10685,7 +10002,6 @@ Insert a new dust and pollen filter.
 4.
 
 ### When the A/C is not used for a long time
-`forthing_t5_sx3_en_c39eb827` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:173 | doc_type:owners_manual
 
 Even in cold weather, run the A/C for at
 least 5 minutes every two weeks. This is to
@@ -10694,7 +10010,6 @@ compressor from deteriorating, so as to keep the
 A/C in the best operating state.
 
 ### Replace the air filter element according to
-`forthing_t5_sx3_en_c7c80fca` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:173 | doc_type:owners_manual
 
 the time and mileage specified in the regular
 maintenance table. If the air filter is installed
@@ -10710,7 +10025,6 @@ of
 Dongfeng Forthing.
 
 ### Replace the fuel filter according to the
-`forthing_t5_sx3_en_7e637c5d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:174 | doc_type:owners_manual
 
 time and mileage specified in the regular
 maintenance table.
@@ -10740,7 +10054,6 @@ Dongfeng Forthing.
 Battery
 
 ### The battery is located on the left side of
-`forthing_t5_sx3_en_d83277f0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:174 | doc_type:owners_manual
 
 the engine compartment and primarily provides
 power for engine startup. If the battery voltage
@@ -10754,7 +10067,6 @@ with
 maintenance-free battery.
 
 ### If you plan to park the vehicle for more
-`forthing_t5_sx3_en_368c3b92` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:174 | doc_type:owners_manual
 
 than five days, it is recommended to unplug the
 negative terminal of the battery to prevent
@@ -10781,7 +10093,6 @@ of
 Dongfeng Forthing.
 
 ### Emergency treatment for contacting electrolyte
-`forthing_t5_sx3_en_ece900b5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:174 | doc_type:owners_manual
 
 Battery electrolyte is highly corrosive and toxic.
 In case of accidental contact, please handle it
@@ -10789,7 +10100,6 @@ as follows:
 •
 
 ### Eyes: use a cup or other vessel with water
-`forthing_t5_sx3_en_8256e9d8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:174 | doc_type:owners_manual
 
 to wash the eyes for at least 15 min and go to a
 doctor in time.
@@ -10801,7 +10111,6 @@ medical advice immediately.
 If electrolyte is mistakenly ingested:
 
 ### If you have to connect the battery to other
-`forthing_t5_sx3_en_5eebe1af` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:174 | doc_type:owners_manual
 
 chargers, you shall disconnect both positive and
 negative cables of the battery so as to prevent the
@@ -10820,7 +10129,6 @@ should be in good condition and the tire
 pressure should be within the standard range.
 
 ### The following pages will detail how to
-`forthing_t5_sx3_en_4098022f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:174 | doc_type:owners_manual
 
 maintain and replace tires.
 Note:
@@ -10841,7 +10149,6 @@ which can provide the best combination of
 maneuverability, tread life and driving comfort.
 
 ### Tires that are insufficiently inflated will suffer
-`forthing_t5_sx3_en_0986f773` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:174 | doc_type:owners_manual
 
 uneven wear, affecting operation and fuel
 consumption and even suffering air leak due to
@@ -10856,7 +10163,6 @@ comfort, are more likely to be damaged due to
 uneven road surfaces and wear unevenly.
 
 ### Tire pressure labels are attached on the
-`forthing_t5_sx3_en_12d649ae` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:175 | doc_type:owners_manual
 
 vehicle. The label is located below the door
 frame on the driver's side, indicating the front
@@ -10867,7 +10173,6 @@ following points:
 •
 
 ### Measure the tire pressures when the tires
-`forthing_t5_sx3_en_71b339c2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:175 | doc_type:owners_manual
 
 are cold.
 •
@@ -10877,7 +10182,6 @@ the driver's side door frame label.
 •
 
 ### If the tire pressure is checked when the
-`forthing_t5_sx3_en_bb7fd55e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:175 | doc_type:owners_manual
 
 tire is hot (after several kilometers of driving),
 the pressure reading will be 30 to 40 kPa higher
@@ -10888,7 +10192,6 @@ insufficient tire pressure.
 •
 
 ### When checking the inflation state of the
-`forthing_t5_sx3_en_7bcb4f02` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:175 | doc_type:owners_manual
 
 tires, check the tires for damage, penetration,
 and wear. You should check:
@@ -10917,7 +10220,6 @@ must be replaced. Such tire lacks adhesion
 when driving on a slippery road.
 
 ### Tire maintenance
-`forthing_t5_sx3_en_8f3299d8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:175 | doc_type:owners_manual
 
 In addition to proper inflation, correct
 wheel alignment also helps to reduce tread wear.
@@ -10928,7 +10230,6 @@ driving, please contact an authorized service
 station of Dongfeng Forthing.
 
 ### To extend the service life of tires and
-`forthing_t5_sx3_en_edb24d2d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:175 | doc_type:owners_manual
 
 allow tires to wear evenly, the positions of tires
 shall be changed once a vehicle has traveled for
@@ -10937,7 +10238,6 @@ operation shall be carried out according to the
 method shown in the above figure.
 
 ### Repair and Maintenance
-`forthing_t5_sx3_en_1b8e4d7e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:176 | doc_type:owners_manual
 
 range, rated speed and maximum cold tire
 pressure
@@ -10955,7 +10255,6 @@ or structures will cause ABS failure to work
 normally.
 
 ### The anti-lock brake system (ABS) works
-`forthing_t5_sx3_en_615c0cff` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:176 | doc_type:owners_manual
 
 by comparing the speed of wheels. Therefore,
 when replacing tires, be sure to use tires with
@@ -10979,7 +10278,6 @@ Dongfeng
 Forthing.
 
 ### 17×6.5J, 16×6.5J, 17×7J
-`forthing_t5_sx3_en_8d17c9b2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:176 | doc_type:owners_manual
 
 Tire specifications:
 225/55R19,
@@ -10997,7 +10295,6 @@ of
 Dongfeng Forthing.
 
 ### It is recommended to use winter tires on
-`forthing_t5_sx3_en_cda15a0c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:176 | doc_type:owners_manual
 
 icy and snowy roads due to the limited
 applicability of summer tires in winter. When
@@ -11012,13 +10309,11 @@ the winter tires according to the marks on the
 registration card.
 
 ### Snow anti-skid chains can only be used in
-`forthing_t5_sx3_en_850b0c99` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:176 | doc_type:owners_manual
 
 emergency situations or when driving through
 specific areas expressly stipulated by law.
 
 ### It is forbidden to install anti-skid chain on only
-`forthing_t5_sx3_en_9a387db2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:176 | doc_type:owners_manual
 
 one front or rear wheel. Do not install anti-skid
 chains on one side of two left wheels or two
@@ -11052,7 +10347,6 @@ carefully.
 TPMS
 
 ### The tire pressure monitoring system is
-`forthing_t5_sx3_en_bd623f1d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:176 | doc_type:owners_manual
 
 used to dynamically monitor the tire pressure
 and temperature. When the tire pressure is
@@ -11064,7 +10358,6 @@ when using the tire pressure monitoring system.
 1.
 
 ### If the tire pressure sensor is not
-`forthing_t5_sx3_en_e8c1b5ef` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:176 | doc_type:owners_manual
 
 replaced due to tire repair, removal or other
 reasons and the original tire pressure sensor has
@@ -11096,7 +10389,6 @@ temperature
 data can be updated on the
 
 ### After the vehicle tires are rotated
-`forthing_t5_sx3_en_893a131b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:177 | doc_type:owners_manual
 
 and the positions of the tire pressure sensors
 change, the tire pressure shall be matched
@@ -11108,7 +10400,6 @@ reflective vest is placed in the front passenger
 storage box.
 
 ### Parking brake
-`forthing_t5_sx3_en_e88ae66b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:177 | doc_type:owners_manual
 
 control lever
 /
@@ -11134,7 +10425,6 @@ opened/closed freely and locked
 firmly.
 
 ### Windshield defroster Check the air outlet of defroster
-`forthing_t5_sx3_en_6e507a66` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:177 | doc_type:owners_manual
 
 every month when using the
 heater and A/C.
@@ -11151,7 +10441,6 @@ lights, and license plate lights
 once a month.
 
 ### Regular and professional maintenance
-`forthing_t5_sx3_en_e19ac43c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:177 | doc_type:owners_manual
 
 can keep the vehicle in good condition. The
 following will introduce how to keep the
@@ -11160,7 +10449,6 @@ polishing and wheel cleaning, as well as
 anti-corrosion measures.
 
 ### Vehicle washing
-`forthing_t5_sx3_en_16091a5e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:177 | doc_type:owners_manual
 
 Frequent
 washing
@@ -11177,7 +10465,6 @@ it, drive it to a shade place. Clean the vehicle
 after the surface of the vehicle body is cooled.
 
 ### Use only solvents and cleaning agents
-`forthing_t5_sx3_en_551ddc0c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:177 | doc_type:owners_manual
 
 recommended in the User Manual. As drying
 the vehicle, check it for chips or scratches. If
@@ -11212,7 +10499,6 @@ the air will cause loss of luster or formation of
 water stains on the exterior of the vehicle body.
 
 ### Wax the vehicle only after thoroughly cleaning
-`forthing_t5_sx3_en_e6e2b352` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:178 | doc_type:owners_manual
 
 and drying it, and wax it at least once every
 three months, which helps to protect the body.
@@ -11223,7 +10509,6 @@ products:
 1.
 
 ### Body wax is a kind of wax applied on the
-`forthing_t5_sx3_en_1ccd2263` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:178 | doc_type:owners_manual
 
 paint surface to protect it from sunlight, air
 pollution and other damages. Apply this type of
@@ -11231,7 +10516,6 @@ wax to a newly purchased vehicle.
 2.
 
 ### Polishing wax can repair the paint that has
-`forthing_t5_sx3_en_d856a2ec` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:178 | doc_type:owners_manual
 
 been oxidized or lost its gloss, making it glossy
 again. Such waxes generally contain soft
@@ -11242,7 +10526,6 @@ shall be applied.
 Caution
 
 ### When the detergent is used to remove such pollutants as
-`forthing_t5_sx3_en_b9dec082` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:178 | doc_type:owners_manual
 
 pitch and insects, dewaxing may occur. Therefore, it is
 necessary to replenish wax in the dewaxing position.
@@ -11253,7 +10536,6 @@ special repair film or repair paint to prevent
 corrosion.
 
 ### When cleaning other areas of the vehicle's
-`forthing_t5_sx3_en_57d44f97` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:178 | doc_type:owners_manual
 
 exterior, be sure to also clean the aluminum
 alloy wheels. After cleaning with the same
@@ -11266,7 +10548,6 @@ flow passage structure in the front of the vehicle,
 and all models are equipped with this structure.
 
 ### Check the drainage condition of the front
-`forthing_t5_sx3_en_2376db17` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:178 | doc_type:owners_manual
 
 compartment gutter channel every 5000 km to
 ensure
@@ -11286,7 +10567,6 @@ please contact an authorized service station of
 Dongfeng Forthing in time.
 
 ### The sealing strip is a rubber sealing part
-`forthing_t5_sx3_en_47d8fd53` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:178 | doc_type:owners_manual
 
 installed on the door or vehicle body. It is one
 of the parts that ensure the waterproof sealing
@@ -11301,7 +10581,6 @@ sealing strip, please contact an authorized
 service station of Dongfeng Forthing in time.
 
 ### The dust on the carpet should often be
-`forthing_t5_sx3_en_85678d70` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:178 | doc_type:owners_manual
 
 cleaned by a vacuum cleaner. Excessive dust
 accumulation will accelerate the damage of the
@@ -11320,7 +10599,6 @@ dry in the air.
 Vinylon
 
 ### Use a dust collector to remove the dust
-`forthing_t5_sx3_en_31e95d6f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:178 | doc_type:owners_manual
 
 and pollutants. Scrub the vinylon with a soft
 cloth soaked in neutral soapy water to remove
@@ -11329,7 +10607,6 @@ spray or foam type vinylon cleaner.
 Leather
 
 ### Frequently use a dust collector to remove
-`forthing_t5_sx3_en_73e1e7a5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:178 | doc_type:owners_manual
 
 the dust and pollutants, especially those at the
 folds and joints. Clean the leather with a soft
@@ -11339,14 +10616,12 @@ required, special soap for leather can be used.
 Window
 
 ### Use the glass detergent to clean both
-`forthing_t5_sx3_en_91b503eb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:178 | doc_type:owners_manual
 
 interior and exterior sides of the windows. Dry
 all glass and plastic surfaces with a soft cloth or
 paper towel.
 
 ### Repair and Maintenance
-`forthing_t5_sx3_en_0a344f87` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:179 | doc_type:owners_manual
 
 with neutral warm soapy water to wipe the seat
 belts clean. Do not use bleaching powder, dye
@@ -11355,13 +10630,11 @@ reduce the durability of the seat belt. Do not use
 the seat belt before it becomes dry.
 
 ### In case of lots of accumulated dust at the
-`forthing_t5_sx3_en_b0d942d6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:179 | doc_type:owners_manual
 
 connecting loop of the seat belt connector, the
 retraction of the seat belts will be slowed down.
 
 ### The inner side of the loop can be scrubbed with
-`forthing_t5_sx3_en_0c063585` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:179 | doc_type:owners_manual
 
 a clean soft cloth dipped in neutral warm soapy
 water
@@ -11377,7 +10650,6 @@ before cleaning, please contact an authorized
 service station of Dongfeng Forthing.
 
 ### If it is necessary to use air freshener or
-`forthing_t5_sx3_en_b59ea874` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:179 | doc_type:owners_manual
 
 deodorant in the vehicle, it is recommended to
 select solid type. Some chemical components
@@ -11389,7 +10661,6 @@ securely fastened to prevent splashing while
 driving.
 
 ### The exhaust emission control system is a
-`forthing_t5_sx3_en_7b7e175b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:179 | doc_type:owners_manual
 
 high-efficiency system, which can control the
 exhaust
@@ -11400,7 +10671,6 @@ good
 vehicle performance.
 
 ### The modification of the vehicle's exhaust
-`forthing_t5_sx3_en_0f151d49` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:safety | p:179 | doc_type:owners_manual
 
 emission
 control
@@ -11423,7 +10693,6 @@ the exhaust emission control system is not
 covered by the warranty.
 
 ### The vehicle's factory nameplate is
-`forthing_t5_sx3_en_a6f1b287` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:180 | doc_type:owners_manual
 
 at the lower external surface of the middle
 column at the right side of the vehicle body.
@@ -11440,7 +10709,6 @@ the label on the top of the transmission.
 5.
 
 ### The VIN is pasted on the inner side
-`forthing_t5_sx3_en_05de575a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:180 | doc_type:owners_manual
 
 of the storage box.
 9. The VIN is pasted on the inner side of
@@ -11448,7 +10716,6 @@ right pillar-B inner plate.
 10.
 
 ### The factory nameplate of the vehicle contains
-`forthing_t5_sx3_en_54bd97d8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:180 | doc_type:owners_manual
 
 the following information:
 1.
@@ -11491,14 +10758,12 @@ interface.
 •
 
 ### The above VIN reading tools are not equipped
-`forthing_t5_sx3_en_a684c1fd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:180 | doc_type:owners_manual
 
 with the vehicle. If you need to purchase them,
 please contact an authorized service station of
 Dongfeng Forthing.
 
 ### The microwave window of the vehicle is
-`forthing_t5_sx3_en_ca4dbd33` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:181 | doc_type:owners_manual
 
 located in the horizontal center and vertically
 upward position of the front windshield.
@@ -11522,7 +10787,6 @@ Caution
 Please keep the front windshield clean and dry.
 
 ### Do not paste film or metal materials on the
-`forthing_t5_sx3_en_bde0ddab` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:181 | doc_type:owners_manual
 
 microwave
 window
@@ -11539,7 +10803,6 @@ agency in time.
 Engine No.
 
 ### Technical Parameters
-`forthing_t5_sx3_en_72446464` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:182 | doc_type:owners_manual
 
 4A92 Engine number engraving position
 DFMC15TP1
@@ -11570,7 +10833,6 @@ In-line
 four-cylinder,
 
 ### Water-cooled in-line
-`forthing_t5_sx3_en_daa92d23` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:183 | doc_type:owners_manual
 
 four-cylinder,
 four-stroke,
@@ -11591,7 +10853,6 @@ In-line four-cylinder,
 camshaft
 
 ### Displacement
-`forthing_t5_sx3_en_cbc18009` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:183 | doc_type:owners_manual
 
 L
 1.796
@@ -11612,7 +10873,6 @@ mm
 φ75×90
 
 ### Compression
-`forthing_t5_sx3_en_0a08b200` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:183 | doc_type:owners_manual
 
 ratio
 -
@@ -11666,7 +10926,6 @@ level
 -
 
 ### Structural type
-`forthing_t5_sx3_en_78982248` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:184 | doc_type:owners_manual
 
 Dual-circuit hydraulic brake system with hydraulic braking, vacuum
 booster, ESP and front and rear disc brakes
@@ -11676,7 +10935,6 @@ Dual-circuit hydraulic brake system with hydraulic braking, vacuum
 booster, ESP and front and rear disc brakes
 
 ### Vehicle power performance
-`forthing_t5_sx3_en_4300d235` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:185 | doc_type:owners_manual
 
 Item
 Unit
@@ -11711,7 +10969,6 @@ Unit
 1.6L/5MT
 
 ### Comprehensive fuel consumption
-`forthing_t5_sx3_en_a94c708d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:186 | doc_type:owners_manual
 
 Item
 Unit
@@ -11764,7 +11021,6 @@ consumption L/100km
 Methods of Fuel Consumption for Light-duty Vehicles.
 
 ### Technical Parameters
-`forthing_t5_sx3_en_d7b0f34d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:187 | doc_type:owners_manual
 
 Item
 1.8T/6MT
@@ -11784,7 +11040,6 @@ specifications
 25/55 R19 or
 
 ### Wheel trim
-`forthing_t5_sx3_en_9715e2bd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:187 | doc_type:owners_manual
 
 specification
 19×7J or
@@ -11811,7 +11066,6 @@ or 18×6.5J
 17×7J
 
 ### When connecting the ECU and the
-`forthing_t5_sx3_en_1b896b48` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:188 | doc_type:owners_manual
 
 harness connector, make sure that the system
 power supply is disconnected, i.e. the ignition
@@ -11823,7 +11077,6 @@ the body when the power is on.
 2.
 
 ### Sparks caused by static electricity
-`forthing_t5_sx3_en_e0375145` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:188 | doc_type:owners_manual
 
 may cause damage to the ECU. Try to avoid
 contact between the ECU and static electricity.
@@ -11838,7 +11091,6 @@ pins.
 6.
 
 ### Do not burn out the ECU when
-`forthing_t5_sx3_en_bf5b5e69` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:188 | doc_type:owners_manual
 
 repairing the vehicle by electrical welding. If
 necessary, power off the ECU, remove it, and
@@ -11847,7 +11099,6 @@ position.
 10.
 
 ### When the engine works and the air-fuel
-`forthing_t5_sx3_en_d3dd8138` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:188 | doc_type:owners_manual
 
 ratio increases, the concentration of oxygen in
 the exhaust will increase. At this time, the
@@ -11858,14 +11109,12 @@ sensor is close to 1V. The engine oxygen sensor
 does not require any adjustment or repair.
 
 ### The heating element circuit of the
-`forthing_t5_sx3_en_7c992e45` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:188 | doc_type:owners_manual
 
 oxygen sensor is short-circuited to housing.
 Precautions for using the oxygen sensor:
 1.
 
 ### Do not drop the oxygen sensor or
-`forthing_t5_sx3_en_7e9e8507` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:188 | doc_type:owners_manual
 
 impact it with the surface of a hard object to
 avoid damaging the ceramic element or heating
@@ -11890,7 +11139,6 @@ in
 inaccurate sensor output signal.
 
 ### Information of Key Components and Parts for Emission Control
-`forthing_t5_sx3_en_5a62efe1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:188 | doc_type:owners_manual
 
 Vehicle type approval certificate information, manufacturer, model and effective service life
 of key components for emission control, etc.
@@ -11910,7 +11158,6 @@ SX61205030
 SX61205040
 
 ### Model of key
-`forthing_t5_sx3_en_496c62ae` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:189 | doc_type:owners_manual
 
 components and
 parts for emission
@@ -11945,11 +11192,7 @@ SX31205110
 SX31205060
 
 
-# Manual: forthing/t5_sx3 (766 chunks)
-<!-- doc_type:owners_manual tier:2 lang:en source:forthing_t5_sx3_en.pdf -->
-
 ### Untitled
-`forthing_t5_sx3_en_6d36c2d9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 Foreword
 Foreword
@@ -11978,7 +11221,6 @@ specification and design at any time without advance notice.
 •
 
 ### Technical update instructions: IoV and electronic technology products are updated
-`forthing_t5_sx3_en_873886e0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:2 | doc_type:owners_manual
 
 rapidly. Please update in time to guarantee user experience.
 If you want to know more about Forthing T5, welcome to our website:
@@ -11987,7 +11229,6 @@ https://www.forthingmotor.com/
 Dongfeng Liuzhou Motor Co., Ltd.
 
 ### January 2024
-`forthing_t5_sx3_en_ae93af1d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:2 | doc_type:owners_manual
 
 All rights reserved. This Manual may not be copied or reproduced without prior written permission
 of Dongfeng Liuzhou Motor Co., Ltd.
@@ -11996,14 +11237,12 @@ shall prevail.
 Foreword
 
 ### Configuration description
-`forthing_t5_sx3_en_e6357831` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:3 | doc_type:owners_manual
 
 * Asterisk
 Asterisk “*” following the title or name indicates that described device or function is only
 equipped in certain models, and may not necessarily be equipped in your vehicle.
 
 ### Safety Instructions
-`forthing_t5_sx3_en_5f28bf9e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:safety | p:3 | doc_type:owners_manual
 
 Safety label plates — Attached to the vehicle.
 Safety prompt information — Identified by hazard warning symbols and words such as
@@ -12016,7 +11255,6 @@ Caution
 Used to indicate the danger that may cause minor personal injury or vehicle injury.
 
 ### Data safety instructions
-`forthing_t5_sx3_en_21d7a3bf` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:3 | doc_type:owners_manual
 
 According to laws, administrative regulations and other provisions, in order to provide you
 with more convenient and fast service, Dongfeng Liuzhou Motor may collect personal information
@@ -12030,7 +11268,6 @@ Contents
 Instrument cluster indication....... 11
 
 ### Type I
-`forthing_t5_sx3_en_ddaaca27` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:6 | doc_type:owners_manual
 
 1. Exterior rearview mirror
 5. Front turn signal
@@ -12049,7 +11286,6 @@ Type II
 6. Front position light
 
 ### Type I
-`forthing_t5_sx3_en_ec6f821a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:8 | doc_type:owners_manual
 
 1. Rear position light
 5. Rear fog light (integrated retro reflector)
@@ -12069,7 +11305,6 @@ Type II
 4. Turn signal
 
 ### Type IV
-`forthing_t5_sx3_en_e9f669b8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:11 | doc_type:owners_manual
 
 1. Rearview mirror and headlight adjustment switch
 11. Front passenger airbag
@@ -12092,7 +11327,6 @@ Type II
 10. Middle right face-level vent
 
 ### Sports theme
-`forthing_t5_sx3_en_1bcfabc8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:13 | doc_type:owners_manual
 
 1. Tachometer
 6. Coolant thermometer
@@ -12110,7 +11344,6 @@ information A
 10. Total mileage
 
 ### Vehicle with automatic transmission
-`forthing_t5_sx3_en_70ede8eb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:14 | doc_type:owners_manual
 
 1. Fuel gauge
 5. Speedometer
@@ -12133,7 +11366,6 @@ Type III
 4. Reset/set button
 
 ### Steering wheel button adjustment mode
-`forthing_t5_sx3_en_68242289` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:15 | doc_type:owners_manual
 
 The
 display
@@ -12155,7 +11387,6 @@ prevent damage to the engine, do not drive at a
 speed in the red number zone.
 
 ### The speedometer displays the current
-`forthing_t5_sx3_en_9c244d45` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:16 | doc_type:owners_manual
 
 vehicle speed (km/h). Affected by tire pressure,
 road condition, climate and other factors, an
@@ -12163,7 +11394,6 @@ error may occur between the indicated speed
 and the actual one.
 
 ### The fuel gauge indicates the amount of
-`forthing_t5_sx3_en_d2972810` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:16 | doc_type:owners_manual
 
 fuel in the fuel tank. When turning or driving on
 uneven road sections, the fuel level displayed
@@ -12174,7 +11404,6 @@ lights up, it indicates insufficient
 fuel in the tank. Refuel promptly.
 
 ### The coolant thermometer indicates the
-`forthing_t5_sx3_en_030c9a07` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:16 | doc_type:owners_manual
 
 current temperature status of engine coolant.
 When the scale is close to H, and the coolant
@@ -12192,7 +11421,6 @@ Dongfeng Forthing as soon as possible.
 Time
 
 ### Instrument cluster
-`forthing_t5_sx3_en_3e43638d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:17 | doc_type:owners_manual
 
 It indicates the current time. This time is
 updated
@@ -12204,7 +11432,6 @@ the
 multimedia display screen's time.
 
 ### The display range of exterior temperature
-`forthing_t5_sx3_en_c1bfbe3b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:17 | doc_type:owners_manual
 
 is -40°C to 87°C. The exterior temperature
 sensor may be affected by road, engine heat,
@@ -12233,14 +11460,12 @@ instrument cluster. The subtotal mileage ranges from 0 to
 accumulation display again once the limit is exceeded.
 
 ### The display range of total mileage is
-`forthing_t5_sx3_en_b4b7d123` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:17 | doc_type:owners_manual
 
 0~999999 km. When the accumulated mileage
 reaches this value, it stops accumulating and
 displays 999999 km.
 
 ### Press the Return button to switch to
-`forthing_t5_sx3_en_36a80a0e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:17 | doc_type:owners_manual
 
 "Comprehensive information B", and then
 press the up/down button to switch to "Average
@@ -12250,14 +11475,12 @@ reset the subtotal mileage.
 Science/Sports theme:
 
 ### Switch "Comprehensive information C"
-`forthing_t5_sx3_en_8469b6e0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:17 | doc_type:owners_manual
 
 to the "Vehicle status" page, and press and hold
 the OK button for 2s to reset the subtotal
 mileage.
 
 ### Type II instrument cluster
-`forthing_t5_sx3_en_9b00b5c7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:17 | doc_type:owners_manual
 
 Switch
 to
@@ -12272,7 +11495,6 @@ conditions and weather, an error may occur
 between the indicated miles and the actual ones.
 
 ### Short press the return button on the
-`forthing_t5_sx3_en_4429568c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:18 | doc_type:owners_manual
 
 steering wheel to switch back and forth
 between comprehensive information area A
@@ -12290,7 +11512,6 @@ fuel
 consumption.
 
 ### Average fuel consumption
-`forthing_t5_sx3_en_14b0e5a0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:18 | doc_type:owners_manual
 
 The
 average
@@ -12315,7 +11536,6 @@ corresponding average fuel consumption will
 also be reset.
 
 ### The average vehicle speed is calculated
-`forthing_t5_sx3_en_40fff749` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:18 | doc_type:owners_manual
 
 from the mileage and travel time when the engine is
 running, with a display range of 0 ~ 200 km/h. When the
@@ -12335,7 +11555,6 @@ fuel
 consumption level.
 
 ### Driving range
-`forthing_t5_sx3_en_01927eb4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:18 | doc_type:owners_manual
 
 The
 driving
@@ -12357,7 +11576,6 @@ recalculated.
 •
 
 ### The displayed driving range value will change
-`forthing_t5_sx3_en_dd991f4b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:18 | doc_type:owners_manual
 
 according to the recent comprehensive fuel
 consumption.
@@ -12370,7 +11588,6 @@ curved road, the fuel in the fuel tank will shake
 and the display may change in a short time.
 
 ### Short press the steering wheel's back button to
-`forthing_t5_sx3_en_056cf548` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:19 | doc_type:owners_manual
 
 switch between comprehensive information
 zones A and B. When zone A is selected
@@ -12388,7 +11605,6 @@ and
 settings.
 
 ### Tire pressure*
-`forthing_t5_sx3_en_db4ebd61` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:19 | doc_type:owners_manual
 
 It
 indicates
@@ -12403,7 +11619,6 @@ Caution
 •
 
 ### Please try to keep the tire inflation pressure near
-`forthing_t5_sx3_en_5d596e9d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:19 | doc_type:owners_manual
 
 the standard pressure. When "——" appears in
 the tire pressure display area and the specified
@@ -12419,7 +11634,6 @@ authorized service station of Dongfeng Forthing.
 •
 
 ### If the tire pressure sensor is not replaced due to
-`forthing_t5_sx3_en_82980bbf` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:19 | doc_type:owners_manual
 
 tire repair, removal or other reasons and the
 original tire pressure sensor has not been
@@ -12459,7 +11673,6 @@ instrument cluster.
 •
 
 ### After the vehicle tires are rotated and the
-`forthing_t5_sx3_en_294b37c9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:19 | doc_type:owners_manual
 
 positions of the tire pressure sensors change, the
 tire pressure shall be matched again.
@@ -12474,7 +11687,6 @@ displayed on this interface:
 •
 
 ### Automatic emergency braking
-`forthing_t5_sx3_en_219915f4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:19 | doc_type:owners_manual
 
 For details of driver assistance, refer to
 the instructions in Chapter VII Driving.
@@ -12486,7 +11698,6 @@ incoming call, the call information will be
 prioritized for display.
 
 ### The navigation map will be displayed
-`forthing_t5_sx3_en_e20cfeea` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:20 | doc_type:owners_manual
 
 while the simple navigation information is
 displayed; the navigation information will be
@@ -12495,7 +11706,6 @@ information on the multimedia display screen.
 Settings
 
 ### OK button on the steering wheel to enter
-`forthing_t5_sx3_en_06d089a0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:20 | doc_type:owners_manual
 
 "Settings". At this time, short press up/down
 button on the steering wheel to switch back and
@@ -12521,7 +11731,6 @@ button to return to the previous menu; press the
 up and down buttons to switch options.
 
 ### The current vehicle's alarm information
-`forthing_t5_sx3_en_26bf9153` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:20 | doc_type:owners_manual
 
 can be viewed in real time. Additionally, this
 interface offers suggested handling measures
@@ -12533,7 +11742,6 @@ can be adjusted, and the value increases or
 decreases progressively at a rate of 5 km/h.
 
 ### When the displayed vehicle speed is
-`forthing_t5_sx3_en_d547319c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:20 | doc_type:owners_manual
 
 greater than or equal to the set speed, relevant
 alarm functions of the instrument cluster will be
@@ -12541,7 +11749,6 @@ triggered.
 Caution
 
 ### Instrument backlight adjustment & instrument
-`forthing_t5_sx3_en_8f4af947` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:21 | doc_type:owners_manual
 
 volume adjustment
 The
@@ -12560,7 +11767,6 @@ evenly from Level 1 to Level 10, and the alarm
 volume increases evenly from Level 1 to Level
 
 ### Restore factory settings
-`forthing_t5_sx3_en_25a5b679` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:21 | doc_type:owners_manual
 
 After
 the
@@ -12587,7 +11793,6 @@ displayed on the instrument cluster will be
 restored to the values at the time of delivery.
 
 ### Tachometer
-`forthing_t5_sx3_en_9e8c9b0d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:22 | doc_type:owners_manual
 
 The
 tachometer
@@ -12605,14 +11810,12 @@ factors, there may be an error between the
 indicated speed and the actual speed.
 
 ### Instrument cluster
-`forthing_t5_sx3_en_21a4ab09` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:23 | doc_type:owners_manual
 
 It indicates the current time. The time will
 be updated in real time along with the time
 displayed on the multimedia screen.
 
 ### The display range of exterior temperature
-`forthing_t5_sx3_en_eee6744b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:23 | doc_type:owners_manual
 
 is -40°C ~ 87°C. The exterior temperature
 sensor,
@@ -12634,7 +11837,6 @@ temperatures shown on various signs or notifications.
 Gear
 
 ### For manual transmission (MT) models
-`forthing_t5_sx3_en_a3c18f51` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:23 | doc_type:owners_manual
 
 with gear shift reminder function, except for
 reverse gear, the displayed gear is not the
@@ -12660,7 +11862,6 @@ be automatically cleared after exceeding the
 limit and start from 0.
 
 ### The display range of total mileage is
-`forthing_t5_sx3_en_e4b28ec3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:23 | doc_type:owners_manual
 
 0~999999 km. When the accumulated mileage
 reaches
@@ -12672,7 +11873,6 @@ stops
 accumulating and displays 999999 km.
 
 ### Subtotal mileage resetting method is as
-`forthing_t5_sx3_en_972dd690` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:23 | doc_type:owners_manual
 
 follows:
 Switch
@@ -12688,7 +11888,6 @@ conditions and weather, an error may occur
 between the indicated miles and the actual ones.
 
 ### Short press the up/down button on the
-`forthing_t5_sx3_en_ce40ef30` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:23 | doc_type:owners_manual
 
 steering wheel to switch among average fuel
 consumption,
@@ -12702,7 +11901,6 @@ endurance
 mileage, tire pressure and navigation.
 
 ### The average vehicle speed is calculated
-`forthing_t5_sx3_en_6c1dade1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:24 | doc_type:owners_manual
 
 from the mileage and travel time when the
 engine is running, with a display range of 0 ~
@@ -12722,7 +11920,6 @@ fuel
 consumption level.
 
 ### The estimated endurance mileage is calculated
-`forthing_t5_sx3_en_30668264` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:24 | doc_type:owners_manual
 
 and shown as the maximum distance the vehicle can travel,
 based on latest comprehensive fuel consumption and the
@@ -12735,7 +11932,6 @@ Caution
 •
 
 ### The displayed driving range value will change
-`forthing_t5_sx3_en_94d28f62` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:24 | doc_type:owners_manual
 
 according to the recent comprehensive fuel
 consumption.
@@ -12750,7 +11946,6 @@ curved road, the fuel in the fuel tank will shake
 and the display may change in a short time.
 
 ### Please try to keep the tire inflation pressure near
-`forthing_t5_sx3_en_76ddd423` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:25 | doc_type:owners_manual
 
 the standard pressure. When "-" appears in the
 tire pressure display area and the specified tire
@@ -12761,7 +11956,6 @@ service station of Dongfeng Forthing.
 •
 
 ### If the tire pressure sensor is not replaced due to
-`forthing_t5_sx3_en_1de35652` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:25 | doc_type:owners_manual
 
 tire repair, removal or other reasons and the
 original tire pressure sensor has not been
@@ -12773,7 +11967,6 @@ tires are rotated, please contact the authorized
 service station of Dongfeng Forthing.
 
 ### Navigation
-`forthing_t5_sx3_en_18c218a0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:25 | doc_type:owners_manual
 
 Simple
 navigation
@@ -12788,7 +11981,6 @@ information
 displayed on the multimedia display screen.
 
 ### When there is vehicle information that
-`forthing_t5_sx3_en_4236e15c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:25 | doc_type:owners_manual
 
 requires an alarm or reminder, the comprehensive
 information area presents the relevant warnings and alerts
@@ -12805,7 +11997,6 @@ warning information" section of the "Menu".
 Settings
 
 ### Short press the OK button on the steering
-`forthing_t5_sx3_en_bfc543e1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:25 | doc_type:owners_manual
 
 wheel to enter the "Settings" interface. At this
 time, short press the up and down buttons on
@@ -12823,7 +12014,6 @@ OK button to enter the next menu, and press
 the back button to return to the previous menu;
 
 ### Instrument cluster
-`forthing_t5_sx3_en_242c70b2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:27 | doc_type:owners_manual
 
 The
 backlight
@@ -12838,14 +12028,12 @@ brightness can be adjusted from level 1 to level
 8.
 
 ### The alarm volume of the instrument
-`forthing_t5_sx3_en_c2869bb5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:27 | doc_type:owners_manual
 
 cluster can be adjusted by pressing buttons on
 the steering wheel. The alarm volume increases
 uniformly from level 1 to level 3.
 
 ### Manufacturing setting can be selected by
-`forthing_t5_sx3_en_9880d042` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:27 | doc_type:owners_manual
 
 pressing the button on the steering wheel.
 After
@@ -12872,7 +12060,6 @@ restored to the values at the time of delivery.
 Version No.
 
 ### Tachometer
-`forthing_t5_sx3_en_ce9b2077` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:29 | doc_type:owners_manual
 
 The
 tachometer
@@ -12890,7 +12077,6 @@ factors, there may be an error between the
 indicated speed and the actual speed.
 
 ### The fuel gauge indicates the amount of
-`forthing_t5_sx3_en_9f10df98` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:29 | doc_type:owners_manual
 
 fuel
 in
@@ -12910,7 +12096,6 @@ the fuel level in the tank is insufficient and that
 refueling has to be done as soon as possible.
 
 ### The water thermometer is included in the
-`forthing_t5_sx3_en_a0590d0f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:29 | doc_type:owners_manual
 
 display screen of the information center and
 displayed by scale bars. When the temperature
@@ -12927,7 +12112,6 @@ until the fuel is depleted may cause the engine to stall
 and could potentially damage the fuel pump.
 
 ### The information center is located on the
-`forthing_t5_sx3_en_62e78fe8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:30 | doc_type:owners_manual
 
 display screen between the tachometer and the
 speedometer in the instrument cluster.
@@ -12938,14 +12122,12 @@ displayed gear is not the current gear but the
 recommended one.
 
 ### Door ajar reminder: If any door is opened
-`forthing_t5_sx3_en_bd870af4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:30 | doc_type:owners_manual
 
 or not closed tightly, the vehicle body and
 corresponding door in the information center
 display screen will illuminate.
 
 ### Tire pressure display mode: It displays
-`forthing_t5_sx3_en_2a084362` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:30 | doc_type:owners_manual
 
 the pressure and temperature values of the
 currently flashing tire. When the tire pressure or
@@ -12955,7 +12137,6 @@ the temperature and pressure values of the
 affected tire.
 
 ### Average fuel consumption display
-`forthing_t5_sx3_en_daf3c52c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:30 | doc_type:owners_manual
 
 Based
 on
@@ -12984,7 +12165,6 @@ indicates trip mileage, it reflects the average
 fuel consumption for that specific trip.
 
 ### Resetting the odometer also resets the
-`forthing_t5_sx3_en_f5071ea7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:30 | doc_type:owners_manual
 
 average
 fuel
@@ -12998,7 +12178,6 @@ experiences minimal fluctuations.
 Odometer
 
 ### The odometer consists of two parts: trip
-`forthing_t5_sx3_en_6a258640` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:30 | doc_type:owners_manual
 
 odometer and total odometer. In the mileage
 display area, when trip is displayed, it means
@@ -13008,7 +12187,6 @@ it means that the value displayed by the
 odometer is total mileage.
 
 ### Trip mileage displays the accumulated
-`forthing_t5_sx3_en_f4f16003` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:30 | doc_type:owners_manual
 
 distance traveled since the last reset. The range
 is 0~9999.9 km. After exceeding 9999.9 km,
@@ -13016,7 +12194,6 @@ the trip mileage will be automatically reset and
 accumulated and displayed from 0 again.
 
 ### The total mileage displays the total
-`forthing_t5_sx3_en_fa70ae3a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:30 | doc_type:owners_manual
 
 distance in kilometers that the vehicle has
 traveled. The range is 0 to 999,999 km. Once
@@ -13027,7 +12204,6 @@ conditions and weather, an error may occur
 between the indicated miles and the actual ones.
 
 ### When the instrument cluster shows the
-`forthing_t5_sx3_en_5f22263a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:30 | doc_type:owners_manual
 
 trip mileage, press and hold the reset/setting
 button to reset the trip mileage. Simultaneously,
@@ -13035,7 +12211,6 @@ the corresponding average fuel consumption
 will also be reset.
 
 ### This indicator will illuminate when the blind spot
-`forthing_t5_sx3_en_ec12bd8a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:31 | doc_type:owners_manual
 
 monitoring system is faulty. At this time, the blind spot
 monitoring and reminding function is unavailable, please
@@ -13047,7 +12222,6 @@ indicator
 (white)*
 
 ### When the lane departure system is turned on but its
-`forthing_t5_sx3_en_b4e0730e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:31 | doc_type:owners_manual
 
 function is not activated, the indicator illuminates in
 white, which is normal and the vehicle has no fault.
@@ -13062,7 +12236,6 @@ vehicle has no fault. At this time, the system can give
 lane departure warning.
 
 ### EPB MIL (yellow)
-`forthing_t5_sx3_en_e94ed960` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:31 | doc_type:owners_manual
 
 This light will illuminate when the EPB System is faulty.
 At this time, the EPB still has parking ability, but it
@@ -13079,7 +12252,6 @@ system is working, which is normal and vehicle has no
 fault.
 
 ### EPB function indicator (red)
-`forthing_t5_sx3_en_3ed1ab4b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:31 | doc_type:owners_manual
 
 When the parking brake is engaged, this indicator
 illuminates, which is normal and vehicle has no fault. If
@@ -13089,7 +12261,6 @@ parking brake is fully released, please contact an
 authorized service station of Dongfeng Forthing.
 
 ### Engine MIL (yellow)
-`forthing_t5_sx3_en_b1b2b498` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:31 | doc_type:owners_manual
 
 If the indicator stays on while the engine is running, it
 indicates a potential fault in the engine electronic
@@ -13098,7 +12269,6 @@ indicator. If it remains illuminated, contact an authorized
 service station of Dongfeng Forthing.
 
 ### The light illuminates when the ignition switch is in the
-`forthing_t5_sx3_en_3960e037` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:31 | doc_type:owners_manual
 
 "ON" position. After starting, this light turns off,
 indicating normal operation. If it does not turn off, this
@@ -13108,7 +12278,6 @@ on, please contact an authorized service station of
 Dongfeng Forthing.
 
 ### Low engine oil pressure warning
-`forthing_t5_sx3_en_21f29f0f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:31 | doc_type:owners_manual
 
 indicator (red)
 When the ignition switch is turned to the "ON" position,
@@ -13126,7 +12295,6 @@ Forthing
 immediately.
 
 ### Battery charging fault warning
-`forthing_t5_sx3_en_5786b8a1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:31 | doc_type:owners_manual
 
 light (red)
 When the Start/Stop switch is turned to "ON" position,
@@ -13138,7 +12306,6 @@ electrical accessories, keep the engine running, and
 reach out to an authorized service station of Dongfeng
 
 ### Driver side seat belt warning
-`forthing_t5_sx3_en_b7a83782` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
 
 indicator (red)
 When the ignition switch is in the "ON" position and the
@@ -13149,14 +12316,12 @@ will turn off and the alarm will be deactivated only after
 the driver and front passenger fasten the seat belt.
 
 ### Airbag MIL (red)
-`forthing_t5_sx3_en_fdb608a6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
 
 If it remain illuminates after the vehicle is started, it
 indicates that the airbag fails. Please contact the
 authorized service station of Dongfeng Forthing.
 
 ### Electronic
-`forthing_t5_sx3_en_f30d0983` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:32 | doc_type:owners_manual
 
 stability
 program
@@ -13169,7 +12334,6 @@ ESP system will be turned on again, and this light will go
 out.
 
 ### Electronic
-`forthing_t5_sx3_en_725fe9f6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:32 | doc_type:owners_manual
 
 stability
 program
@@ -13183,7 +12347,6 @@ indicates a fault in the ESP system. Please contact an
 authorized service station of Dongfeng Forthing.
 
 ### Immobilizer indicator (red) *
-`forthing_t5_sx3_en_51732fff` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:32 | doc_type:owners_manual
 
 When the start switch is turned to "ON" position, if the
 light flashes, it indicates that the key is illegal or the
@@ -13196,7 +12359,6 @@ immobilizer status. It is a normal phenomenon and the
 vehicle has no fault.
 
 ### ABS MIL (yellow)
-`forthing_t5_sx3_en_25fce6f9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:32 | doc_type:owners_manual
 
 If this indicator turns on while driving, it indicates a
 malfunction in the anti-lock braking system (ABS). At
@@ -13204,7 +12366,6 @@ this time, although the vehicle has normal braking
 capacity, it does not have anti-lock braking function.
 
 ### The corresponding indicator illuminates or goes out when
-`forthing_t5_sx3_en_b1bdd3aa` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:32 | doc_type:owners_manual
 
 operating the turn signal. The left and right turn signal
 indicator and the left and right turn signal indicator will
@@ -13213,7 +12374,6 @@ pressed. If it does not flash or flashes quickly at this time,
 it usually means that the turn signal bulb is abnormal.
 
 ### Please immediately confirm whether the turn signal bulb
-`forthing_t5_sx3_en_e7dab1f1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:32 | doc_type:owners_manual
 
 is damaged and contact an authorized service station of
 Dongfeng Forthing.
@@ -13223,7 +12383,6 @@ Rear fog light indicator(yellow) When the rear fog light is turned on, this indi
 up, which is normal and fault-free.
 
 ### Position light indicator (green)
-`forthing_t5_sx3_en_654bc851` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:32 | doc_type:owners_manual
 
 Type I: When the position light is turned on, this
 indicator lights up, which is normal and fault-free.
@@ -13233,13 +12392,11 @@ Type II: When the position light is turned on, this
 indicator lights up, which is normal and fault-free.
 
 ### High beam indicator (blue)
-`forthing_t5_sx3_en_e3e83f34` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:33 | doc_type:owners_manual
 
 When the high beam is used, this indicator lights up,
 which is normal and fault-free.
 
 ### Low beam indicator (green)
-`forthing_t5_sx3_en_1a8d76d5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:33 | doc_type:owners_manual
 
 When the low beam is used, this indicator lights up,
 which is normal and fault-free.
@@ -13256,7 +12413,6 @@ driving shall not exceed 40 km/h, and contact an
 authorized service station of Dongfeng Forthing.
 
 ### Electronic
-`forthing_t5_sx3_en_38bb581a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:33 | doc_type:owners_manual
 
 power-assisted
 steering MIL (yellow) *
@@ -13269,7 +12425,6 @@ attention to safe driving and contact an authorized service
 station of Dongfeng Forthing as soon as possible.
 
 ### Tire pressure warning indicator
-`forthing_t5_sx3_en_a28516b4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:33 | doc_type:owners_manual
 
 (yellow) *
 When the tire pressure monitoring function fails, this
@@ -13288,7 +12443,6 @@ loss, please promptly contact an authorized service
 station of Dongfeng Forthing.
 
 ### Start-stop
-`forthing_t5_sx3_en_4ab20ae4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:33 | doc_type:owners_manual
 
 system
 operation
@@ -13298,7 +12452,6 @@ indicator lights up and turns white, which indicates that it
 is in a normal status and the vehicle has no fault.
 
 ### Type II: When the start-stop system meets the working
-`forthing_t5_sx3_en_9ca4f20c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:33 | doc_type:owners_manual
 
 conditions, the start-stop function is ready for activation.
 At this time, the indicator turns from white to green. At
@@ -13307,7 +12460,6 @@ and stopping, which is a normal state and the vehicle has
 no faults.
 
 ### Start-stop
-`forthing_t5_sx3_en_3877bf32` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:33 | doc_type:owners_manual
 
 system
 operation
@@ -13316,7 +12468,6 @@ Type III: When the indicator flashes, it indicates that
 other systems are faulty and cannot be used at this time.
 
 ### Start-stop system MIL (red) *
-`forthing_t5_sx3_en_b082f265` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:33 | doc_type:owners_manual
 
 When there is a fault in the start-stop system, this
 indicator will light up in red. At this time, the start-stop
@@ -13324,7 +12475,6 @@ system cannot be used. Please go to an authorized service
 station of Dongfeng Forthing for inspection.
 
 ### Start/Stop
-`forthing_t5_sx3_en_9abc5eee` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:33 | doc_type:owners_manual
 
 failure
 indicator
@@ -13342,7 +12492,6 @@ up, indicating that the fuel is too little and shall be filled
 in time.
 
 ### Introduction
-`forthing_t5_sx3_en_99530387` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:34 | doc_type:owners_manual
 
 Automatic
 transmission
@@ -13354,7 +12503,6 @@ on, please contact an authorized service station of
 Dongfeng Forthing.
 
 ### Hill descent control working
-`forthing_t5_sx3_en_73b54ea2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:34 | doc_type:owners_manual
 
 indicator (yellow) *
 Type I: When this indicator is normally on, it indicates
@@ -13365,7 +12513,6 @@ system is working, which is normal and the vehicle has
 no fault.
 
 ### Hill descent control working
-`forthing_t5_sx3_en_22b5dd5b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:34 | doc_type:owners_manual
 
 indicator (green)
 Type II: When this indicator is normally on, it indicates
@@ -13393,7 +12540,6 @@ driver assistance system cannot be used. Please contact an
 authorized service station of Dongfeng Forthing.
 
 ### When the adaptive cruise control (ACC) function is
-`forthing_t5_sx3_en_06ed8c4f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:34 | doc_type:owners_manual
 
 turned on but the activation conditions are not met, this
 indicator lights up in white, which is normal and vehicle
@@ -13405,13 +12551,11 @@ When the ACC function is working, this indicator lights
 up in green, which is normal and vehicle has no fault.
 
 ### When the lane keeping function is turned on but the
-`forthing_t5_sx3_en_c447ab85` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:34 | doc_type:owners_manual
 
 activation conditions are not met, this indicator lights up
 in white, which is normal and vehicle has no fault.
 
 ### Lane keeping working indicator
-`forthing_t5_sx3_en_28700a1b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:34 | doc_type:owners_manual
 
 (green) *
 When the lane keeping function is working, this indicator
@@ -13428,7 +12572,6 @@ When the FCW system is turned off, this indicator lights
 up in yellow, which is normal and vehicle has no fault.
 
 ### When the FCW system detects that the vehicle may
-`forthing_t5_sx3_en_f1abc5a0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:34 | doc_type:owners_manual
 
 collide with an object ahead, it will give alarm prompts
 through sound and image. At this time, the indicator will
@@ -13441,7 +12584,6 @@ this indicator lights up in yellow, which is normal and vehicle
 has no fault.
 
 ### When the automatic emergency braking system detects
-`forthing_t5_sx3_en_0f6bdb0f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:34 | doc_type:owners_manual
 
 that the vehicle is about to collide with an object ahead, it
 will automatically take braking measures and give alarm
@@ -13450,7 +12592,6 @@ indicator will flash red, which is normal and the vehicle
 has no fault.
 
 ### When the master switch of the cruise control system is
-`forthing_t5_sx3_en_52108b25` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:35 | doc_type:owners_manual
 
 turned on but not activated, this indicator lights up in
 white, which is normal and vehicle has no fault.
@@ -13462,7 +12603,6 @@ displayed beside it, which is normal and vehicle has no
 fault.
 
 ### PEPS warning indicator (red) *
-`forthing_t5_sx3_en_ae515212` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:35 | doc_type:owners_manual
 
 The light illuminates when the PEPS system is in an alarm
 state. The detailed warning information will be displayed
@@ -13470,7 +12610,6 @@ in the comprehensive information area in the form of text,
 which does not mean that the vehicle has a fault.
 
 ### GPF status indicator (yellow)
-`forthing_t5_sx3_en_7a818f37` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:35 | doc_type:owners_manual
 
 If this indicator lights up and then goes out, it is normal
 and vehicle has no fault.
@@ -13480,7 +12619,6 @@ drive in the expressway driving cycle for active GPF
 regeneration.
 
 ### If this indicator and the OBD malfunction indicator light
-`forthing_t5_sx3_en_116c51a1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:35 | doc_type:owners_manual
 
 (MIL) illuminate simultaneously, it means the carbon
 load in the GPF is extremely high, making high-speed
@@ -13488,7 +12626,6 @@ active regeneration difficult. Please contact an authorized
 service station of Dongfeng Forthing promptly.
 
 ### ECO mode indicator (green)
-`forthing_t5_sx3_en_9908e789` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:35 | doc_type:owners_manual
 
 When the transmission is in economical (ECO) mode, this
 indicator lights up, which is normal and the vehicle has no
@@ -13500,7 +12637,6 @@ indicator lights up, which is normal and the vehicle has
 no fault.
 
 ### SPORT mode indicator (green)
-`forthing_t5_sx3_en_3d6b41d9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:35 | doc_type:owners_manual
 
 For CVT models, when the transmission is in sport
 mode, this indicator illuminates, which is normal and the
@@ -13512,7 +12648,6 @@ Control
 Control
 
 ### Type I
-`forthing_t5_sx3_en_4b077564` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:36 | doc_type:owners_manual
 
 1. Right turn signal
 8. Automatic lighting*
@@ -13529,7 +12664,6 @@ Control
 7. Rear fog light
 
 ### Type II
-`forthing_t5_sx3_en_7b5c7844` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:36 | doc_type:owners_manual
 
 1. Right turn signal
 7. Automatic lighting
@@ -13545,7 +12679,6 @@ Control
 12. High beam
 
 ### High/low beam switching
-`forthing_t5_sx3_en_44d5e6cf` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:36 | doc_type:owners_manual
 
 With the low beams on, push the control
 lever towards the instrument panel to its
@@ -13559,7 +12692,6 @@ will turn on or off automatically depending on
 the ambient brightness.
 
 ### Front headlight height adjustment
-`forthing_t5_sx3_en_b8b883a5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:36 | doc_type:owners_manual
 
 When the vehicle is loaded, the rear part
 of the body may sink, causing the low beam to
@@ -13573,7 +12705,6 @@ sequentially from range 0 to 3.
 Control
 
 ### Rear wiper OFF
-`forthing_t5_sx3_en_5f070516` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:37 | doc_type:owners_manual
 
 9.
 With the rear washer activated, rotate the
@@ -13591,7 +12722,6 @@ adjustable intermittent time ranging from 2 to
 12 seconds.
 
 ### Rain sensing wiper*
-`forthing_t5_sx3_en_5833c4c8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:37 | doc_type:owners_manual
 
 In AUTO mode, the front wiper will be
 turned on or off automatically depending on the
@@ -13607,7 +12737,6 @@ the sensitivity of the rain sensor according to
 your own feeling.
 
 ### Adjust ""
-`forthing_t5_sx3_en_6ee0542b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:37 | doc_type:owners_manual
 
 knob to change the
 sensing sensitivity in AUTO mode of wiper.
@@ -13620,7 +12749,6 @@ position, then the washer will activate while the
 wipers operate at low speed.
 
 ### Press and hold the wiper multi-function
-`forthing_t5_sx3_en_86e0e407` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:38 | doc_type:owners_manual
 
 switch handle towards the instrument panel,
 and then the rear wiper washer will start to
@@ -13645,7 +12773,6 @@ When
 the
 
 ### Start/Stop switch is turned to "ON" position
-`forthing_t5_sx3_en_9c8adc20` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:38 | doc_type:owners_manual
 
 again, the front wiper will automatically return
 to its original position.
@@ -13653,7 +12780,6 @@ Caution
 •
 
 ### As the detection characteristic of the sensor is
-`forthing_t5_sx3_en_f02f0a67` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:38 | doc_type:owners_manual
 
 light balance detection, the wiper may wipe
 when all vehicles pass through the following
@@ -13677,7 +12803,6 @@ the sensor area.
 c)
 
 ### Foreign matters are attached to the sensor
-`forthing_t5_sx3_en_1009e17f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:38 | doc_type:owners_manual
 
 surface；
 b)
@@ -13693,13 +12818,11 @@ rain sensor area, please turn off the automatic wiper
 function to avoid injury to human body.
 
 ### Spare key*
-`forthing_t5_sx3_en_3cef62a0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:39 | doc_type:owners_manual
 
 If the remote/smart key is lost, the spare key
 can be used to unlock the doors and start the engine.
 
 ### Replacement of remote key battery
-`forthing_t5_sx3_en_381f51bb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:39 | doc_type:owners_manual
 
 When
 the
@@ -13718,7 +12841,6 @@ soon as possible to remove the rear cover and
 replace the battery with a new one.
 
 ### The battery in the smart key shall be
-`forthing_t5_sx3_en_2156f754` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:39 | doc_type:owners_manual
 
 replaced when the remote control distance of
 the smart key becomes shorter or the vehicle
@@ -13727,7 +12849,6 @@ fails to recognize the smart key due to low
 battery.
 
 ### Immobilizer system
-`forthing_t5_sx3_en_c9626055` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:39 | doc_type:owners_manual
 
 The
 immobilizer
@@ -13753,14 +12874,12 @@ Control
 Forthing.
 
 ### Carry the intelligent/remote control key
-`forthing_t5_sx3_en_58ccb99b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:40 | doc_type:owners_manual
 
 and press the microswitch to unlock all doors;
 carry the smart key to close all doors and press
 the microswitch to lock all doors.
 
 ### Short press the lock button on the
-`forthing_t5_sx3_en_40c2bc70` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:40 | doc_type:owners_manual
 
 smart/remote
 button
@@ -13776,7 +12895,6 @@ times to alert you to close the door.
 Unlocking
 
 ### With the main unit under immobilizer
-`forthing_t5_sx3_en_dbd15e99` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:40 | doc_type:owners_manual
 
 status, short press the unlock button on the
 smart/remote control key to unlock all five
@@ -13791,7 +12909,6 @@ close the doors first, and then press the lock
 switch down.
 
 ### Unlock button
-`forthing_t5_sx3_en_4cb86157` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:41 | doc_type:owners_manual
 
 2.
 Lock
@@ -13802,7 +12919,6 @@ carried out. With four doors locked, press the
 unlock key to unlock all doors.
 
 ### Carry the intelligent/remote control key
-`forthing_t5_sx3_en_fff08fb1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:41 | doc_type:owners_manual
 
 and press the microswitch to manually open the
 trunk lid. To lock the trunk lid, press it
@@ -13810,7 +12926,6 @@ downward to close it, and then the trunk lid will
 be locked automatically.
 
 ### When the trunk lid cannot be opened due
-`forthing_t5_sx3_en_4b823329` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:41 | doc_type:owners_manual
 
 to lock fastener failure, remove the emergency
 opening cover plate on the inner guard plate of
@@ -13821,14 +12936,12 @@ lid outward with another hand to open it from inside the
 vehicle.
 
 ### If the vehicle is equipped with a power
-`forthing_t5_sx3_en_173b2a8c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:42 | doc_type:owners_manual
 
 trunk lid, press the trunk lid opening button on
 the instrument panel switch set, and the trunk
 lid will open automatically.
 
 ### Close the trunk lid from outside*
-`forthing_t5_sx3_en_33762e13` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:suspension | p:42 | doc_type:owners_manual
 
 Press the trunk lid shield switch, the
 trunk lid will be closed. Press this switch again
@@ -13860,14 +12973,12 @@ than 2 seconds; otherwise, damage or function
 loss of the trunk lid may be caused.
 
 ### Long press and hold the trunk lid unlock
-`forthing_t5_sx3_en_ca8fc695` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:42 | doc_type:owners_manual
 
 button on the intelligent button
 , and then
 the trunk lid will open automatically.
 
 ### Open the trunk lid by induction*
-`forthing_t5_sx3_en_0c9a9b9b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:42 | doc_type:owners_manual
 
 The
 foot-activated
@@ -13892,7 +13003,6 @@ m from the trunk lid.
 •
 
 ### The kick sensing area is located in a width range
-`forthing_t5_sx3_en_043ccd14` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:42 | doc_type:owners_manual
 
 of 50 cm on the left and right below the middle
 part of the rear bumper. Make sure that the kick
@@ -13901,7 +13011,6 @@ Control
 •
 
 ### In order to ensure the effectiveness of kicking
-`forthing_t5_sx3_en_daf16892` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:43 | doc_type:owners_manual
 
 operation, please use front and rear kicking
 operations. The time of the whole operation step
@@ -13916,7 +13025,6 @@ leg and the bottom/rear part of the rear bumper
 shall be controlled within 2 ~ 10 cm respectively.
 
 ### Choose the most suitable method after you have
-`forthing_t5_sx3_en_94237072` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:43 | doc_type:owners_manual
 
 kicked multiple times according to the actual
 situation.
@@ -13945,7 +13053,6 @@ the trunk lid. If the trunk lid is opened
 unintentionally, it may be damaged.
 
 ### Pull up or press down the switch beyond
-`forthing_t5_sx3_en_db36edae` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:43 | doc_type:owners_manual
 
 the
 pressure
@@ -13957,7 +13064,6 @@ automatically raise or lower. To stop it midway,
 simply press or pull the switch.
 
 ### With the Start switch at "OFF" position and the
-`forthing_t5_sx3_en_fbfb79b6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:43 | doc_type:owners_manual
 
 fuel tank cap, trunk lid, engine hood and four
 doors closed, press and hold the unlock button
@@ -13976,7 +13082,6 @@ up
 simultaneously until they are fully closed.
 
 ### The window locking switch
-`forthing_t5_sx3_en_8455f351` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:43 | doc_type:owners_manual
 
 is on the
 door of driver side, closing to the window
@@ -13996,7 +13101,6 @@ passenger side window and rear window, press
 this switch again.
 
 ### If the window is operated repeatedly in a
-`forthing_t5_sx3_en_2ab71e27` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:43 | doc_type:owners_manual
 
 short period of time, the power window control
 switch may fail to work due to the protection of
@@ -14010,7 +13114,6 @@ operation, wait for a while and then the electric
 window can be operated again.
 
 ### During the automatic closing operation of
-`forthing_t5_sx3_en_8bb8d57a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:suspension | p:43 | doc_type:owners_manual
 
 the window, if the window touches an obstacle,
 it will stop and move in the opposite direction
@@ -14020,7 +13123,6 @@ the automatic anti-pinch function will also be
 activated.
 
 ### Initialization learning of anti-pinch power
-`forthing_t5_sx3_en_0e5ef78f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:43 | doc_type:owners_manual
 
 window
 If
@@ -14046,14 +13148,12 @@ position until the window is closed.
 2.
 
 ### Gently press the power window
-`forthing_t5_sx3_en_0e38e8fe` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:44 | doc_type:owners_manual
 
 switch and keep it at the first manual opening
 position until the window is fully opened.
 4.
 
 ### After the window is completely
-`forthing_t5_sx3_en_d330488b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:44 | doc_type:owners_manual
 
 opened, pull the power window switch gently
 and keep it at the first manual closing position
@@ -14062,7 +13162,6 @@ position. If the switch is released during
 window movement, restart the step.
 
 ### If the power window still cannot work
-`forthing_t5_sx3_en_6989d169` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:44 | doc_type:owners_manual
 
 normally after the above operations, please
 contact an authorized service station of Dongfeng
@@ -14082,7 +13181,6 @@ pinched.
 •
 
 ### You can open the sunroof using the sunroof
-`forthing_t5_sx3_en_b2ad6e2b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:44 | doc_type:owners_manual
 
 control switch on the overhead control panel to
 allow air circulation inside the vehicle. The
@@ -14103,7 +13201,6 @@ automatically/gradually tilt to the maximum
 position.
 
 ### Sunroof opening/closing
-`forthing_t5_sx3_en_fffd3b09` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:44 | doc_type:owners_manual
 
 When
 the
@@ -14121,14 +13218,12 @@ Long press the sunroof closing switch,
 and the sunroof will gradually close in place.
 
 ### Tap the sunshade opening/closing switch
-`forthing_t5_sx3_en_6bf53108` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:44 | doc_type:owners_manual
 
 to open or close the sunshade. To stop the
 sunshade, operate any sunshade switch once
 again.
 
 ### Anti-pinch protection
-`forthing_t5_sx3_en_c3a13a90` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:44 | doc_type:owners_manual
 
 During the automatic closing movement,
 if the sunroof encounters any obstacle, it will
@@ -14142,7 +13237,6 @@ is
 designed to prevent injuries.
 
 ### When the sunroof system cannot be
-`forthing_t5_sx3_en_6b45d159` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:44 | doc_type:owners_manual
 
 closed in place, it can be restored by the
 following operations: when the sunroof glass is
@@ -14153,7 +13247,6 @@ will
 move back and forth for less than 10mm.
 
 ### Release the sunroof switch for 5s and then press
-`forthing_t5_sx3_en_3c6e4fa0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:44 | doc_type:owners_manual
 
 and hold the sunroof switch for 3s again, and
 the sunroof glass will automatically open
@@ -14165,7 +13258,6 @@ this time, release the sunroof switch and the
 initialization of the sunroof is completed.
 
 ### If "Press briefly" is selected for the
-`forthing_t5_sx3_en_89b0fa1c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:45 | doc_type:owners_manual
 
 remote control window closing function on the
 multimedia display screen, the power sunroof
@@ -14174,7 +13266,6 @@ button on the smart button is pressed;
 2.
 
 ### If "Press and hold" is selected for
-`forthing_t5_sx3_en_1d95e051` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:45 | doc_type:owners_manual
 
 the remote control window closing function on
 the multimedia display screen, press the lock
@@ -14196,7 +13287,6 @@ position, as they may play with the sunroof
 switch and cause serious accidents.
 
 ### The horn is located at the center of the steering
-`forthing_t5_sx3_en_7dd86fc5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:45 | doc_type:owners_manual
 
 wheel. Pressing it alerts you to dangerous situations and
 reduces the possibility of accidents. Proper use of the horn
@@ -14214,7 +13304,6 @@ adjustment, make sure that the adjustment
 handle is fully locked.
 
 ### After holding the steering wheel with one
-`forthing_t5_sx3_en_0f32edac` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:45 | doc_type:owners_manual
 
 hand
 and
@@ -14236,7 +13325,6 @@ in place.
 △Warning
 
 ### Adjusting the steering wheel position while driving
-`forthing_t5_sx3_en_500fa45f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:45 | doc_type:owners_manual
 
 may cause the vehicle out of control, and thereby cause
 injury to the driver. Please adjust the steering wheel only
@@ -14257,7 +13345,6 @@ Control
 bu
 
 ### Type II
-`forthing_t5_sx3_en_edf9c4b5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:46 | doc_type:owners_manual
 
 1. Return button
 6. Right button
@@ -14275,13 +13362,11 @@ out along with the opening/closing of the left
 rear door, right rear door and trunk lid.
 
 ### When the door control switch "O" end is
-`forthing_t5_sx3_en_86383e24` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:47 | doc_type:owners_manual
 
 pressed, on or off of all reading lights are
 controlled by the reading light switch.
 
 ### When the door control switch is parallel
-`forthing_t5_sx3_en_15ab95b1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:47 | doc_type:owners_manual
 
 to the panel or the "O" end is pressed, the
 reading lights are controlled by corresponding
@@ -14290,7 +13375,6 @@ lights will light up when the switches are
 pressed down and go out when they pop up.
 
 ### When the door control switch is at
-`forthing_t5_sx3_en_14ebea9f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:48 | doc_type:owners_manual
 
 "COURTESY" or "O" position, the rear reading
 light will turn on/off under the control of the
@@ -14302,14 +13386,12 @@ engine, the battery may run out. Before leaving the
 vehicle, make sure that all interior lights are off.
 
 ### Please keep the interior and exterior
-`forthing_t5_sx3_en_fed03610` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:48 | doc_type:owners_manual
 
 rearview mirrors clean and adjust them to the
 best visual angle. Adjust the rearview mirror
 before driving.
 
 ### The mirror adjustment switch can be used
-`forthing_t5_sx3_en_81446e69` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:48 | doc_type:owners_manual
 
 to adjust the exterior rearview mirrors to the
 best view angle. The left/right changeover
@@ -14320,7 +13402,6 @@ switch can be used to control the folding or
 unfolding of the exterior rearview mirrors.
 
 ### Tap "Settings" on the home page of the
-`forthing_t5_sx3_en_a497aa70` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:48 | doc_type:owners_manual
 
 vehicle multimedia display screen. After the
 automatic folding function of exterior rearview
@@ -14331,7 +13412,6 @@ intelligent button to realize automatic folding
 and unfolding of the rearview mirrors.
 
 ### The heating and defrosting function of
-`forthing_t5_sx3_en_991f9984` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:49 | doc_type:owners_manual
 
 exterior rearview mirrors allows removing fog,
 frost and thin ice on the exterior rearview
@@ -14343,7 +13423,6 @@ button is on, indicating that the defroster is
 working.
 
 ### The interior rearview mirror is fixed on
-`forthing_t5_sx3_en_297ffb4a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:49 | doc_type:owners_manual
 
 the windshield. Hold the right side of the
 interior rearview mirror and adjust the mirror
@@ -14353,7 +13432,6 @@ surface to observe the road conditions behind
 the vehicle.
 
 ### Gently pull the tab at the bottom edge of
-`forthing_t5_sx3_en_98647382` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:49 | doc_type:owners_manual
 
 the rearview mirror
 to adjust the mirror
@@ -14376,7 +13454,6 @@ intensities to realize anti-glare.
 Seats
 
 ### Adjustment of third-row seat headrest *
-`forthing_t5_sx3_en_cce54bdb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:49 | doc_type:owners_manual
 
 Control
 To raise or lower the headrest, press the
@@ -14392,7 +13469,6 @@ or backward.
 2.
 
 ### Lift or press down the handle to raise or
-`forthing_t5_sx3_en_02e53e16` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:50 | doc_type:owners_manual
 
 lower
 the
@@ -14409,14 +13485,12 @@ Sit in the seat, lift the handle, and lean
 forward or press back against the backrest.
 
 ### After adjusting the backrest to the appropriate
-`forthing_t5_sx3_en_427fd9a0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:50 | doc_type:owners_manual
 
 position, release the handle, and shake back and
 forth a few times to ensure that the backrest is
 locked in place.
 
 ### Specifications: The seat can move 20 mm forward from the
-`forthing_t5_sx3_en_1ca17b23` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:50 | doc_type:owners_manual
 
 rear limit, allowing for a total forward adjustment of 220
 mm and a backward adjustment of 20 mm. The backrest
@@ -14426,7 +13500,6 @@ position according to correct sitting posture, ensuring
 complete contact with your back.
 
 ### Forward/backward adjustment of seats
-`forthing_t5_sx3_en_83038e9b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:50 | doc_type:owners_manual
 
 Control
 Push
@@ -14441,7 +13514,6 @@ adjustment button upward or downward gently
 to raise or lower the seat as a whole.
 
 ### Push the upper part of the backrest angle
-`forthing_t5_sx3_en_69569b5d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:51 | doc_type:owners_manual
 
 adjustment button forward or backward gently
 to adjust the seat backrest angle forward or
@@ -14458,7 +13530,6 @@ adjustment button to adjust the seat lumbar
 support forward or backward.
 
 ### Lift the pull rod to adjust the seat to move
-`forthing_t5_sx3_en_10d7b405` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:51 | doc_type:owners_manual
 
 forward and backward. After adjusting to the
 appropriate position, release the pull rod and
@@ -14472,7 +13543,6 @@ Sit in the seat, lift the handle, and lean
 forward or press back against the backrest.
 
 ### After adjusting the backrest to the appropriate
-`forthing_t5_sx3_en_a2000aae` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:52 | doc_type:owners_manual
 
 position, release the handle, and shake back and
 forth a few times to ensure that the backrest is
@@ -14486,7 +13556,6 @@ adjustment
 1.
 
 ### Seat design specifications: The seat can
-`forthing_t5_sx3_en_9a822349` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:52 | doc_type:owners_manual
 
 move 170 mm forward from the rear limit. The
 backrest has a design angle of 23° and can be
@@ -14504,7 +13573,6 @@ complete contact with your back.
 adjustment lever
 
 ### Pull up the lever under the front end of the
-`forthing_t5_sx3_en_75a132d3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:52 | doc_type:owners_manual
 
 seat cushion to unlock the slide rail and adjust
 the seat forward or backward. Release the lever
@@ -14518,7 +13586,6 @@ is not locked. Before use, shake the seat back and forth
 to check whether the seat is in the locking area.
 
 ### When the seat backrest adjustment strap
-`forthing_t5_sx3_en_da309b3b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:52 | doc_type:owners_manual
 
 is pulled up, the angle adjuster will be unlocked
 and the backrest will naturally tilt forward.
@@ -14530,7 +13597,6 @@ forward and backward to confirm that it has
 been locked in place.
 
 ### In order to make the rear seat area of the
-`forthing_t5_sx3_en_d0072d37` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:53 | doc_type:owners_manual
 
 seven-seat vehicle more convenient for getting
 on and off, the left seat in the middle row can be
@@ -14549,7 +13615,6 @@ Do not pull up the lock catch when the vehicle is
 running, and make sure that the seats are locked.
 
 ### Lift the front end of the cushion to
-`forthing_t5_sx3_en_2a50b7dd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:53 | doc_type:owners_manual
 
 make its rear end close to the seat basin, as
 shown in the figure above. Gently press down
@@ -14558,7 +13623,6 @@ backward and downward naturally until the rear
 end of the cushion is inserted under the backrest.
 
 ### Pull the rear unlocking strap of the rear
-`forthing_t5_sx3_en_ee03e0c7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:54 | doc_type:owners_manual
 
 seat backrest to unlock the backrest. At the
 same time, gently push the backrest forward to
@@ -14576,7 +13640,6 @@ to slide forward, thus causing accidental injury.
 ●
 
 ### Do not place a cushion or any other similar
-`forthing_t5_sx3_en_40786abb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:54 | doc_type:owners_manual
 
 object between your back and the backrest during the
 driving. Otherwise, the headrest will be out of its
@@ -14584,7 +13647,6 @@ protective role in an emergency.
 Control
 
 ### Front air outlet (Type II)
-`forthing_t5_sx3_en_901f2161` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:55 | doc_type:owners_manual
 
 1. Central air outlet
 4. Air outlet of side windshield defroster
@@ -14595,7 +13657,6 @@ Control
 Control
 
 ### The central air outlet can be adjusted by
-`forthing_t5_sx3_en_5d5c5e09` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:57 | doc_type:owners_manual
 
 changing the direction of the air outlet grille up
 and down, left and right. At the same time, the
@@ -14603,7 +13664,6 @@ air volume can also be adjusted by adjusting the
 blade opening.
 
 ### The air outlet on the left and right sides
-`forthing_t5_sx3_en_df573cf3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:57 | doc_type:owners_manual
 
 can be adjusted up and down, as well as left
 and right, to direct the airflow. Turn the scroll
@@ -14617,7 +13677,6 @@ upward. The wind direction can also be
 adjusted by adjusting the direction of the grille.
 
 ### Scroll down at the top of the multimedia
-`forthing_t5_sx3_en_361e9268` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:58 | doc_type:owners_manual
 
 display screen to bring up the dropdown
 function menu, then tap the rapid cooling/fast warming
@@ -14628,7 +13687,6 @@ efficient and convenient one-touch temperature
 control.
 
 ### Press the
-`forthing_t5_sx3_en_87ef4b4e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:58 | doc_type:owners_manual
 
 button to activate maximum
 front defogging. After defogging, press the
@@ -14644,7 +13702,6 @@ dusty places.
 Control
 
 ### A/C button on the central control panel
-`forthing_t5_sx3_en_4b3a5d56` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:59 | doc_type:owners_manual
 
 1. Mode adjustment knob
 4. Air volume adjustment knob
@@ -14660,7 +13717,6 @@ Additionally, air flows out from the corresponding air
 outlets.
 
 ### Frequent use of the internal circulation mode might
-`forthing_t5_sx3_en_11485981` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:59 | doc_type:owners_manual
 
 lead to condensation forming fog on the side windows
 and front windshield, causing discomfort from a lack of
@@ -14668,7 +13724,6 @@ fresh air in the cabin. Therefore, generally, the A/C
 system should be set to external circulation mode.
 
 ### When driving through areas with high levels of smoke
-`forthing_t5_sx3_en_04270ce7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:59 | doc_type:owners_manual
 
 and dust, utilizing the fresh air mode can introduce smoke
 and dust inside the vehicle. It is recommended to switch to
@@ -14681,7 +13736,6 @@ deactivate the compressor and the button indicator will
 go out.
 
 ### This knob is used to adjust the air volume
-`forthing_t5_sx3_en_82fc347e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:59 | doc_type:owners_manual
 
 at the air outlet. Rotate the knob clockwise to
 increase air speed and air flow. Rotate the knob
@@ -14689,7 +13743,6 @@ counterclockwise to decrease air speed and air
 flow.
 
 ### Press this button to enable or disable the
-`forthing_t5_sx3_en_18336da7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:59 | doc_type:owners_manual
 
 rear
 windshield
@@ -14709,7 +13762,6 @@ the defrosting and demisting function should be
 restarted.
 
 ### The knob is used to adjust the air flow
-`forthing_t5_sx3_en_5c06f71a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:hvac | p:59 | doc_type:owners_manual
 
 temperature at the air outlet. Rotate the knob
 clockwise, toward the red arc, to raise the air
@@ -14731,7 +13783,6 @@ blue color and set the air speed to the expected
 level.
 
 ### Press this switch to turn on or off the
-`forthing_t5_sx3_en_e200eec4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:60 | doc_type:owners_manual
 
 reversing image//panoramic view. For details,
 see "Reversing Image" in Chapter VII.
@@ -14749,14 +13800,12 @@ button
 16.
 
 ### Sound effect and loudness control button
-`forthing_t5_sx3_en_101792c5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 
 Long press or short press. If the original
 loudness is on, press to turn it off; if the original
 loudness is off, press to turn it on.
 
 ### Short press this button to turn on or off the
-`forthing_t5_sx3_en_9ab9a8b4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 
 device.
 In the radio/playback state, turn the knob
@@ -14766,7 +13815,6 @@ treble and bass, balance, front-back balance and
 default volume settings.
 
 ### Band switch button (FM/AM)
-`forthing_t5_sx3_en_86fda439` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 
 In the USB play mode, short press/long
 press this button to switch to the radio mode
@@ -14775,7 +13823,6 @@ In the radio mode, short press/long press
 this button to switch bands.
 
 ### Browse/search (radio) button
-`forthing_t5_sx3_en_cdadc032` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 
 In the radio mode, press this button once
 to scan saved stations. Each station will be
@@ -14791,7 +13838,6 @@ In the playback mode, long press and
 short press this button but no response is given.
 
 ### TUNE knob
-`forthing_t5_sx3_en_e0d27b92` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 
 In the radio status, short-turn the knob to
 search stations automatically. When a station is
@@ -14807,7 +13853,6 @@ reverse. Twist again to cancel the reverse or fast
 backward function.
 
 ### Clock adjusting button
-`forthing_t5_sx3_en_887c7859` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 
 In the radio and playback state, short
 press is invalid. Long press to enter the clock
@@ -14824,14 +13869,12 @@ Control
 long press Save to exit.
 
 ### Mute button
-`forthing_t5_sx3_en_e143b894` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:62 | doc_type:owners_manual
 
 In radio and playback modes, a brief press
 mutes the sound; pressing it again will unmute
 and restore audio output.
 
 ### Insert the USB with MP3 music into the
-`forthing_t5_sx3_en_5dbd5ee0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 USB socket in the correct direction, and the
 system will automatically read the MP3 music
@@ -14842,7 +13885,6 @@ to switch to the USB play mode; press and hold
 this button to perform the same operation.
 
 ### Numeric button 1/II
-`forthing_t5_sx3_en_5eb87995` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 In the radio mode, short press to select
 and play the preset radio station 1 frequency
@@ -14852,7 +13894,6 @@ playback mode, short press to pause playback;
 press and hold to serve the same purpose.
 
 ### Numeric button 2/SCN
-`forthing_t5_sx3_en_6f60931c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 In the radio mode, short press to select and play
 the preset radio station 2 frequency point; press
@@ -14862,7 +13903,6 @@ short press to switch among SCN, DIR, SCN ALL, and
 SCN OFF.
 
 ### Numeric button 3/RPT
-`forthing_t5_sx3_en_4894c4e6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 In the radio mode, short press to select
 and play the preset radio station 3 frequency
@@ -14873,7 +13913,6 @@ among single track repeat, folder repeat, and all repeat;
 press and hold to change repeat play modes.
 
 ### Numeric button 4/RDM
-`forthing_t5_sx3_en_9f1ed315` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 In the radio mode, short press to select and play
 the preset radio station 4 frequency point; press and hold to
@@ -14883,7 +13922,6 @@ RDMDIR/ RDM ALL and RDM OFF respectively; press
 and hold to switch the random playback modes.
 
 ### Numeric button 5/F+
-`forthing_t5_sx3_en_20f4998f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 In the radio mode, short press to select and play
 the preset radio station 5 frequency point; press and hold to
@@ -14893,7 +13931,6 @@ previous file; if no folder exists, short press to play the first
 file.
 
 ### Numeric button 6/F+
-`forthing_t5_sx3_en_ba872e12` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 In the radio status, short press to select
 and play the preset station 6 frequency point;
@@ -14904,7 +13941,6 @@ no folder, short press to play the last song.
 Long press for the same function.
 
 ### Sound effect control button
-`forthing_t5_sx3_en_efcdae55` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 In the radio/playback status, short press
 this button once to switch among EQ OFF, POP,
@@ -14913,7 +13949,6 @@ press the button to switch between LOUD ON
 and LOUD OFF.
 
 ### Setting button
-`forthing_t5_sx3_en_5857df01` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:62 | doc_type:owners_manual
 
 In the radio and playback status, short
 press to enter treble, bass, left/right front/rear
@@ -14927,7 +13962,6 @@ adjustment with the power button. Long press
 for the same function.
 
 ### Notes to users
-`forthing_t5_sx3_en_e174c41d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:63 | doc_type:owners_manual
 
 1.
 According
@@ -14946,7 +13980,6 @@ vehicle.
 2.
 
 ### After the vehicle reaches a certain
-`forthing_t5_sx3_en_250ab3f9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:63 | doc_type:owners_manual
 
 speed, some functions of the audio system may
 not appear on the screen. This is not a function
@@ -14955,7 +13988,6 @@ national or regional regulations.
 3.
 
 ### Disorderly
-`forthing_t5_sx3_en_e373619d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:63 | doc_type:owners_manual
 
 operation will lead to slow processing in the
 background.
@@ -14974,7 +14006,6 @@ Before using the audio system,
 please read all relevant instructions carefully.
 
 ### Any damage caused by failure to follow the
-`forthing_t5_sx3_en_213f0bc6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:63 | doc_type:owners_manual
 
 instructions
 will
@@ -15028,7 +14059,6 @@ function.
 11.
 
 ### In areas with weak network signals
-`forthing_t5_sx3_en_25ff1ca2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:63 | doc_type:owners_manual
 
 such as remote areas, mountainous areas,
 tunnels or underground parking lots, navigation
@@ -15094,7 +14124,6 @@ data plans through the AI Forthing APP or the
 IVI mobile data mall, or use a mobile hotspot.
 
 ### The main interface of the multimedia
-`forthing_t5_sx3_en_e171b8e6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:65 | doc_type:owners_manual
 
 display screen is structured from top to bottom
 into a status bar, a TAB function bar, a content
@@ -15120,7 +14149,6 @@ information from various modules.
 4.
 
 ### In the multimedia volume and screen
-`forthing_t5_sx3_en_83da902b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:65 | doc_type:owners_manual
 
 brightness control area, tap/swipe leftward or
 rightward to adjust the multimedia volume and
@@ -15133,7 +14161,6 @@ cooling, one-touch mute, one-touch screen off
 and fast warming.
 
 ### Tap the button to enter the setting
-`forthing_t5_sx3_en_b34fb163` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:66 | doc_type:owners_manual
 
 interface. The vehicle owner can set the
 navigation,
@@ -15146,7 +14173,6 @@ rally function.
 2.
 
 ### Tap the button to enter the navigation
-`forthing_t5_sx3_en_ce9573b0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:66 | doc_type:owners_manual
 
 search interface, where you can directly search
 for an address to start navigation.
@@ -15159,7 +14185,6 @@ zoom in/out the map and switch the display
 mode of navigation direction arrow.
 
 ### Tap the shortcut navigation button on the
-`forthing_t5_sx3_en_1b50bae9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:66 | doc_type:owners_manual
 
 navigation search interface to directly navigate.
 2.
@@ -15175,7 +14200,6 @@ Support clearing history records.
 4.
 
 ### IoV *
-`forthing_t5_sx3_en_84f214a5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:67 | doc_type:owners_manual
 
 1.
 When
@@ -15210,7 +14234,6 @@ Through
 the
 
 ### IoV *
-`forthing_t5_sx3_en_d5069759` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:68 | doc_type:owners_manual
 
 association and intercommunication between
 the car owner's account and WeChat account,
@@ -15229,7 +14252,6 @@ intelligent unconscious parking service, etc.
 "Tencent
 
 ### Parking" is a convenient payment technology
-`forthing_t5_sx3_en_ba4b787c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:68 | doc_type:owners_manual
 
 based on the intelligent management system of
 parking lots. The user only needs to bind the
@@ -15244,7 +14266,6 @@ payment experience without getting a card for
 entry or scanning a code for exit.)
 
 ### Online media homepage
-`forthing_t5_sx3_en_a70ae47b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:68 | doc_type:owners_manual
 
 1.
 In the recommended function menu,
@@ -15259,7 +14280,6 @@ Listening", "Today's News" and music "Top
 Ranking" according to their interests. Tap "My
 
 ### For TAI personal account information of
-`forthing_t5_sx3_en_99a9c079` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:68 | doc_type:owners_manual
 
 online entertainment, tap to view personal
 information details.
@@ -15275,14 +14295,12 @@ recommended columns.
 5.
 
 ### The currently playing content can be
-`forthing_t5_sx3_en_10de6d5b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:68 | doc_type:owners_manual
 
 paused/played, switched to the previous/next
 song, and the playlist can be unfolded.
 6.
 
 ### Slide leftward or rightward at the album
-`forthing_t5_sx3_en_c68e9098` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:68 | doc_type:owners_manual
 
 picture on the upper part of the playlist interface
 to switch songs. At the same time, you can
@@ -15306,7 +14324,6 @@ homepage.
 Playlist
 
 ### IoV *
-`forthing_t5_sx3_en_5c8ead2f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:69 | doc_type:owners_manual
 
 For the TAI online entertainment account:
 if you are not logged in, tap the "Login Now"
@@ -15320,7 +14337,6 @@ nickname will be visible; tap "Logout" to exit
 the current account.
 
 ### Tips for quick access to QQ Music
-`forthing_t5_sx3_en_54987fde` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:69 | doc_type:owners_manual
 
 1.
 Tap
@@ -15341,7 +14357,6 @@ adjust the volume.
 Radio
 
 ### Tap the radio button to enter the online
-`forthing_t5_sx3_en_44ce5493` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:70 | doc_type:owners_manual
 
 radio interface.
 2.
@@ -15380,7 +14395,6 @@ Reading for access.
 2.
 
 ### After the account is bound to WeChat
-`forthing_t5_sx3_en_4961d017` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:70 | doc_type:owners_manual
 
 Reading, the owner can choose audiobook
 categories such as "My Bookshelf", "Recently
@@ -15389,7 +14403,6 @@ Played", "Novels for Boys", "Novels for Girls",
 3.
 
 ### The owner can tap the news button to
-`forthing_t5_sx3_en_6197316c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:71 | doc_type:owners_manual
 
 enter the online news interface.
 2.
@@ -15402,7 +14415,6 @@ Specific range of news sections.
 1.
 
 ### The owner can switch to check and use
-`forthing_t5_sx3_en_cda29c96` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:71 | doc_type:owners_manual
 
 local radio, Bluetooth music, USB music or
 USB video.
@@ -15422,7 +14434,6 @@ an existing channel in your favorites. Long
 press is supported for deletion.
 
 ### When the Bluetooth switch is not turned
-`forthing_t5_sx3_en_74847e41` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:72 | doc_type:owners_manual
 
 on, the interface will display that Bluetooth has
 been turned off. Tap the Bluetooth function
@@ -15437,7 +14448,6 @@ for
 Bluetooth connection.
 
 ### Previous/next
-`forthing_t5_sx3_en_83f54dda` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:72 | doc_type:owners_manual
 
 song, play/pause,
 cycle
@@ -15458,7 +14468,6 @@ be
 performed.
 
 ### Personal center
-`forthing_t5_sx3_en_64899ce9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:73 | doc_type:owners_manual
 
 Personal center main interface. You can
 perform
@@ -15475,7 +14484,6 @@ maintenance reservation interface to schedule
 service reservation with the service station.
 
 ### The main functions of More Applications
-`forthing_t5_sx3_en_0747ef06` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:73 | doc_type:owners_manual
 
 interface include Bluetooth phone,
 dashcam
@@ -15491,7 +14499,6 @@ switch the display interface.
 2.
 
 ### The function buttons of the vehicle
-`forthing_t5_sx3_en_b8356332` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:74 | doc_type:owners_manual
 
 travelling
 data recorder can be
@@ -15509,7 +14516,6 @@ as uploading videos/photos to the cloud for storage and
 deletion.
 
 ### These settings of dashcam allow you to
-`forthing_t5_sx3_en_309a23c2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:74 | doc_type:owners_manual
 
 adjust
 the
@@ -15523,14 +14529,12 @@ on, the Bluetooth phone interface will display
 Bluetooth Switch. Tap the switch to enable the
 
 ### Bluetooth function and prompt to connect the
-`forthing_t5_sx3_en_95c0b20e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:75 | doc_type:owners_manual
 
 Bluetooth of the mobile phone. After successful
 connection, other operations can be performed.
 3.
 
 ### Assistance
-`forthing_t5_sx3_en_2d37ea55` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:75 | doc_type:owners_manual
 
 to
 directly
@@ -15545,7 +14549,6 @@ each corresponding interface. You can choose
 whether to synchronize in the address book.
 
 ### If you need an introduction to the video
-`forthing_t5_sx3_en_787bae6d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:75 | doc_type:owners_manual
 
 list, tap on a video to play and view it. You can
 scroll down the list to see more videos.
@@ -15565,7 +14568,6 @@ hotspot setting, Bluetooth setting and other
 functions.
 
 ### The body accessories section allows the
-`forthing_t5_sx3_en_7adcbf2f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:76 | doc_type:owners_manual
 
 configuration of various vehicle body functions,
 such as the automatic folding switch of exterior
@@ -15578,7 +14580,6 @@ control mode switching, remote lock feedback,
 and roof light delay setting.
 
 ### The sound setting allows you to set the sound
-`forthing_t5_sx3_en_a78f77e7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:76 | doc_type:owners_manual
 
 effects of the IVI system on the multimedia
 display screen. You can scroll down for more
@@ -15589,7 +14590,6 @@ phone volume, sound effect adjustment and
 sound field adjustment.
 
 ### The more settings can be used for a series
-`forthing_t5_sx3_en_ae75539b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:77 | doc_type:owners_manual
 
 of
 operations
@@ -15607,7 +14607,6 @@ viewing open font protocols, resetting factory
 settings and problem feedback.
 
 ### Voice control function
-`forthing_t5_sx3_en_bc91c9c9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:78 | doc_type:owners_manual
 
 Forthing
 T5
@@ -15629,7 +14628,6 @@ control,
 etc.
 
 ### Different from traditional button operation and
-`forthing_t5_sx3_en_77a0f543` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:78 | doc_type:owners_manual
 
 touch screen operation, voice operation can
 further liberate the driver's hands to complete
@@ -15638,7 +14636,6 @@ while keeping driving sight, so as to ensure
 driving safety.
 
 ### Method I: Tap the wake-up mode II button on
-`forthing_t5_sx3_en_18dae434` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:78 | doc_type:owners_manual
 
 the steering wheel
 Method II: Say "Forthing, Forthing" directly to
@@ -15653,13 +14650,11 @@ example, directly say "Give you a name called
 Li Meimei", and then use Li Meimei to activate.
 
 ### When the voice assistant is successfully
-`forthing_t5_sx3_en_92404478` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:78 | doc_type:owners_manual
 
 activated, the word "Listening" will appear in
 the upper middle of the main interface.
 
 ### Wake-up free function
-`forthing_t5_sx3_en_72cc9b95` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:79 | doc_type:owners_manual
 
 The wake-up free function means that the voice assistant does not need to be woken up by
 "Forthing Forthing" and can execute corresponding functions by directly speaking command.
@@ -15667,7 +14662,6 @@ Wake-up free is divided into global wake-up free and intra-application wake-up f
 functions are shown in the following table.
 
 ### Turn on the A/C
-`forthing_t5_sx3_en_442f662a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:79 | doc_type:owners_manual
 
 Usually, wake-up free responses are provided for voice
 inquiries. And some pages allow direct voice control.
@@ -15683,7 +14677,6 @@ In the music playing interface, directly say "Single
 cycle" and "Favorites".
 
 ### The route preference can be reset in
-`forthing_t5_sx3_en_d4046237` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:80 | doc_type:owners_manual
 
 navigation, and 4 types are supported:
 1. Avoid congestion route
@@ -15696,7 +14689,6 @@ Start navigation, navigation starts, initiate navigation,
 start navigation now, navigating for me.
 
 ### Navigation
-`forthing_t5_sx3_en_7f9ae311` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:81 | doc_type:owners_manual
 
 ATMs on the way, gas stations along the way, go to the
 toilet first, find a park on the way, I need to go home
@@ -15708,7 +14700,6 @@ destination, how long will it take to arrive, how long
 will it take for me to get there.
 
 ### See the overview
-`forthing_t5_sx3_en_23cfa68a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:81 | doc_type:owners_manual
 
 See the overview, view the whole journey, see
 overview map, overview mode and map overview
@@ -15720,14 +14711,12 @@ searching for ATMs along the way, finding a repair
 shop on the way, looking for a toilet on the way.
 
 ### Set the address of home/company
-`forthing_t5_sx3_en_8c84c483` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:81 | doc_type:owners_manual
 
 Set the current location as company, set the warm
 community as home, save this location as my home,
 and the address of home is warm community.
 
 ### Location query
-`forthing_t5_sx3_en_2c7327d5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:hvac | p:81 | doc_type:owners_manual
 
 Where is Tencent Building, search for Carrefour in
 Sanli'an, search for the location of Sanli'an Carrefour,
@@ -15739,7 +14728,6 @@ People's Park, I want to search for Xinjiang Miaoergou,
 search for Liberation Monument.
 
 ### Locate the current position
-`forthing_t5_sx3_en_68667bb5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:81 | doc_type:owners_manual
 
 Where am I now, where am I at now, what is my
 current location, where I am currently and my current
@@ -15751,7 +14739,6 @@ I'm going to Hua Xia Bank and looking for a hospital
 nearby.
 
 ### Map zooming
-`forthing_t5_sx3_en_6ca0cbb5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:81 | doc_type:owners_manual
 
 Zoom in the map, the map zoomed in, zoom out the
 navigation map, enlarge the map, and zoom out the
@@ -15764,7 +14751,6 @@ current route, I want to stop navigation, navigation
 canceled.
 
 ### On-demand by singer name
-`forthing_t5_sx3_en_6c7b2ad2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:82 | doc_type:owners_manual
 
 Play a song by Hua Chenyu, I want to listen to Jay Chou, I
 want to listen to a song by Huang Rong, play a song by
@@ -15775,7 +14761,6 @@ want to listen to a song by Faye Wong, play a song by
 Wang Feng, play a song by Jonathan Lee.
 
 ### On-demand by song name
-`forthing_t5_sx3_en_5a4e6758` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:82 | doc_type:owners_manual
 
 I want to listen to the Twilight's Chapter Seven, play the
 song Fresh Touch of Love, song Female Consort Prince, I
@@ -15785,7 +14770,6 @@ Skies, I want to listen to Black Sweater, I want to listen to
 music Fantasy, listen to Soil of Spring.
 
 ### On-demand by singer name +
-`forthing_t5_sx3_en_0db959b1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:82 | doc_type:owners_manual
 
 song name
 Play Jay Chou's Waiting For You, I want to listen to
@@ -15800,7 +14784,6 @@ Pause, pause playing, pause for a moment, pause for a
 second, I want to pause.
 
 ### Listen to # Radio station
-`forthing_t5_sx3_en_9710a6d6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
 
 name #
 I want to listen to Tianjin Life Radio, listen to Zhejiang
@@ -15812,7 +14795,6 @@ want to listen to Tianjin Traffic Radio, and listen to
 CNR MusicRadio.
 
 ### Tune in # FM #
-`forthing_t5_sx3_en_2a7c7837` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
 
 Radio 94.2 MHz, I want to listen to FM 927, play 101.1,
 radio FM 88.00, turn on radio 106.1, listen to FM90.4, play
@@ -15826,14 +14808,12 @@ listen to AM 45.2, play AM83.9 for me, AM 45.2, play
 AM83.9, AM 810.
 
 ### Tune in # Numbers #
-`forthing_t5_sx3_en_50d84b8a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
 
 Turn on the radio 911, turn on the radio to listen to 911, play
 1039, play 900, I want to listen to 1058, I want to listen to
 radio 1011, and listen to 957.
 
 ### Listen to # Album name #
-`forthing_t5_sx3_en_394ffada` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
 
 Play Chinese Classical Literature, Storytelling Club, listen to the
 Power Trio, please play Gao Xiaosong's Northern Compass, listen
@@ -15844,7 +14824,6 @@ Embarrassing Stories, I want to listen to review of Yin-Yang
 Agent: The Fate Changer, I want to listen to Nine Death into God.
 
 ### Listen to # Anchor name
-`forthing_t5_sx3_en_1681c0be` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
 
 #
 Shan Tianfang's storytelling, give me a piece of Guo Degang's
@@ -15854,7 +14833,6 @@ Kaishu for an inspirational story, let's have a short story about
 Uncle Qiumu, Zhao Benshan's program, and Ma Weidu's program.
 
 ### Listen to # Album
-`forthing_t5_sx3_en_3d9ce853` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
 
 category #
 I want to listen to children's stories, I want to listen to classic fairy
@@ -15864,7 +14842,6 @@ travel through time and space, play the most popular talk show, I
 want to listen to the hottest crosstalk, play novels for me.
 
 ### Listen to # Album
-`forthing_t5_sx3_en_85161cb9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:83 | doc_type:owners_manual
 
 subcategory #
 I'd like to play constellation radio programs, recommend leisure
@@ -15877,7 +14854,6 @@ car-related program, and I want to listen to a radio program about
 health preservation.
 
 ### Tell jokes
-`forthing_t5_sx3_en_c43a3162` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
 
 Tell me a funny joke, tell me a joke, tell me a dry joke, tell me a
 good joke, I want to hear a joke, please tell a joke, I want to hear
@@ -15886,7 +14862,6 @@ have some fun, are there any new jokes, please tell me a joke, tell a
 joke.
 
 ### Air-to-footwell
-`forthing_t5_sx3_en_6d667cb6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:84 | doc_type:owners_manual
 
 Adjust the A/C to air-to-footwell mode, and adjust the blowing mode
 to air-to-footwell mode.
@@ -15896,7 +14871,6 @@ Air-to-face and air-to-footwell Switch the A/C to air-to-face and air-to-footwel
 for air-to-face and air-to-footwell mode.
 
 ### Air-to-face
-`forthing_t5_sx3_en_45adef41` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:84 | doc_type:owners_manual
 
 Try to change the A/C into air-to-face mode, or change to air-to-face
 for a try.
@@ -15906,7 +14880,6 @@ Turn on the A/C rear defroster, turn the A/C rear defroster on, or
 please activate the A/C rear defroster.
 
 ### Lowest wind speed
-`forthing_t5_sx3_en_c3fa5d43` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:84 | doc_type:owners_manual
 
 Adjust the air volume to the maximum, try the maximum air
 volume, Maximum air volume, adjust the air volume to Level VII,
@@ -15918,7 +14891,6 @@ volume, adjust the air volume to the lowest, adjust the air volume
 to Level I, or air volume to the lowest.
 
 ### Increase the air volume by X
-`forthing_t5_sx3_en_ee52c6ab` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:84 | doc_type:owners_manual
 
 levels
 Increase the air volume by 3 levels, increase the air volume by 2
@@ -15932,7 +14904,6 @@ levels, lower 2 levels of air volume, reduce the air volume by 3
 levels, and decrease 3 levels of air volume.
 
 ### (18°C - 32°C)
-`forthing_t5_sx3_en_c11df95b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:84 | doc_type:owners_manual
 
 Adjust the temperature for driver's seat to 27°C, set the driver's
 side temperature to 26°C.
@@ -15943,7 +14914,6 @@ It is so cold and increase the temperature of the driver's seat, or
 raise the driver's seat temperature.
 
 ### Lower the driver's seat
-`forthing_t5_sx3_en_34406354` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:84 | doc_type:owners_manual
 
 temperature
 It is so hot and lower the temperature of the driver's seat, or reduce
@@ -15954,7 +14924,6 @@ Adjust the front passenger's seat temperature to 27°C, set the and
 front passenger's seat temperature to 26°C.
 
 ### Increase the front passenger's
-`forthing_t5_sx3_en_0972b29e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:84 | doc_type:owners_manual
 
 seat temperature
 It is so cold and increase the temperature of the front passenger
@@ -15966,7 +14935,6 @@ It is so hot and lower the temperature of the front passenger's seat,
 reduce the front passenger's seat temperature.
 
 ### Highest temperature
-`forthing_t5_sx3_en_5500581e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:84 | doc_type:owners_manual
 
 Adjust to the highest temperature, try the highest temperature,
 adjust the temperature to highest, set to the highest temperature,
@@ -15978,7 +14946,6 @@ temperature to the minimum, set to the lowest temperature, and
 adjust to the minimum temperature.
 
 ### Turn on the AUTO mode
-`forthing_t5_sx3_en_cb829cda` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:84 | doc_type:owners_manual
 
 Turn on the A/C AUTO mode, enable the A/C AUTO mode,
 activate the A/C AUTO mode, and turn the A/C AUTO mode on.
@@ -15989,7 +14956,6 @@ mode, please disable the A/C AUTO mode, turn the A/C AUTO
 mode off, deactivate the A/C AUTO mode.
 
 ### Make a call to the
-`forthing_t5_sx3_en_e987c032` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:85 | doc_type:owners_manual
 
 contact
 Call Xiaota, connect me to Xiaota,
@@ -16006,7 +14972,6 @@ Call Jingdong customer service, call China Merchants Bank credit card,
 call China Unicom, I want to call the police.
 
 ### Inquiry number
-`forthing_t5_sx3_en_2fed5a97` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:85 | doc_type:owners_manual
 
 Please help me check the phone number of Xiaota, find the phone
 number for the contact Xiaota, what is Xiaota's phone number.
@@ -16018,7 +14983,6 @@ phone directory, search phone book and search
 contact list.
 
 ### Change the color
-`forthing_t5_sx3_en_ff68c256` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:85 | doc_type:owners_manual
 
 Change the color of ambient light, turn the
 ambient light to a different color, next ambient
@@ -16026,7 +14990,6 @@ light color, ambient light color change, previous
 ambient light color.
 
 ### Brightness adjustment
-`forthing_t5_sx3_en_bece5f0d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:85 | doc_type:owners_manual
 
 Adjust the display to the darkest, raise the screen
 a little bit, increase the screen to the maximum,
@@ -16054,7 +15017,6 @@ Increase the brightness by 2 levels, and adjust
 the backlight to Level 2.
 
 ### Seat heating
-`forthing_t5_sx3_en_a8b2c246` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:85 | doc_type:owners_manual
 
 Activate seat heating Turn on the seat heating, please turn the seat
 heating on.
@@ -16065,7 +15027,6 @@ Switching voice roles Summon Daji, summon Li Bai, switch to Daji,
 and switch to Li Bai.
 
 ### Open the rear right
-`forthing_t5_sx3_en_7eeb8e03` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:86 | doc_type:owners_manual
 
 window
 Open the rear right window, lower the rear right
@@ -16077,7 +15038,6 @@ Close the rear right window, lower the rear right
 window, and the rear right window is closed.
 
 ### Open the front right
-`forthing_t5_sx3_en_1f62f893` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:86 | doc_type:owners_manual
 
 window
 Open the front right window, lower the front
@@ -16092,7 +15052,6 @@ right window, the front right window is closed,
 and close the front right window for me.
 
 ### Open the rear left
-`forthing_t5_sx3_en_314189fd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:86 | doc_type:owners_manual
 
 window
 Open the rear left window, lower the rear left
@@ -16105,7 +15064,6 @@ window, the rear left window is closed, and help
 me close the rear left window.
 
 ### Open the application
-`forthing_t5_sx3_en_a5c1560c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:86 | doc_type:owners_manual
 
 Turn on the radio function, turn on navigation, turn on video, turn on
 music, please help me turn on GPS navigation, turn the navigation on,
@@ -16116,7 +15074,6 @@ Turn off Kugou, turn off music, turn off navigation, turn the music off,
 turn off Bluetooth music, please help me to turn off music.
 
 ### Turn off the screen
-`forthing_t5_sx3_en_71476054` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:86 | doc_type:owners_manual
 
 Turn off the screen, turn the screen off, switch off the screen.
 Mute
@@ -16125,7 +15082,6 @@ volume, mute it, please help me to turn on the mute mode, set to mute,
 mute.
 
 ### Volume adjustment
-`forthing_t5_sx3_en_ff93522f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:86 | doc_type:owners_manual
 
 Turn up the music volume, the song is too low to be heard, turn the music
 up, turn off the radio volume, can you lower the volume of voice
@@ -16136,7 +15092,6 @@ In addition to the above-mentioned standard voice commands, Forthing Voice Assis
 and expand new voice commands according to your use. You can try different voice interaction vocabularies.
 
 ### Voice command examples
-`forthing_t5_sx3_en_ef343869` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:86 | doc_type:owners_manual
 
 Voice
 invocation,
@@ -16146,7 +15101,6 @@ How cold it will be tonight, how hot it will be in Beijing
 tomorrow, is it suitable for car washing today, is it suitable
 
 ### IoV *
-`forthing_t5_sx3_en_4e750a63` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:87 | doc_type:owners_manual
 
 intelligent
 services
@@ -16156,7 +15110,6 @@ for climbing the mountain tomorrow, and is it suitable for
 fishing the day after tomorrow?
 
 ### How to express "Dragon Boat Festival" in English?
-`forthing_t5_sx3_en_a478e1ef` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:87 | doc_type:owners_manual
 
 Voice
 invocation,
@@ -16178,7 +15131,6 @@ are in 3.01 tons, what is the distance of a light-year, what is
 254?
 
 ### Number inquiry: Check the postal
-`forthing_t5_sx3_en_ef6f88d7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:87 | doc_type:owners_manual
 
 code, telephone number and yellow
 pages
@@ -16202,7 +15154,6 @@ continuous lines (previous sentence
 - next sentence)
 
 ### Who wrote the Thoughts in the Silent Night?
-`forthing_t5_sx3_en_2add86de` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:suspension | p:87 | doc_type:owners_manual
 
 Time and date: time, date, number
 of
@@ -16235,7 +15186,6 @@ market capitalization, market index
 quotation,
 
 ### Total assistance
-`forthing_t5_sx3_en_9a76e117` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:87 | doc_type:owners_manual
 
 What can you do, talk about your functions, I want to learn
 about your functions, how many functions do you have, what
@@ -16243,7 +15193,6 @@ are your capabilities, introduce all your functions and what
 are your functions?
 
 ### Assistance in different fields
-`forthing_t5_sx3_en_7dde9115` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:87 | doc_type:owners_manual
 
 How to use the navigation device, navigation voice
 assistance, open navigation assistance, what is the method of
@@ -16254,14 +15203,12 @@ play with Bluetooth, could you please tell me where the A/C
 switch is.
 
 ### Vehicle manual
-`forthing_t5_sx3_en_062746bf` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:87 | doc_type:owners_manual
 
 Open the vehicle manual, open the user manual, where is the
 user manual, please help me open the vehicle manual, where
 is the vehicle manual, How can I open the vehicle manual?
 
 ### Utilize Tencent Video
-`forthing_t5_sx3_en_a01fd371` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:88 | doc_type:owners_manual
 
 1.
 Tencent Video search function, tap to
@@ -16272,7 +15219,6 @@ Tencent Video personal center. Users can log in
 and switch accounts. The VIP information of
 
 ### The category tags on Tencent Video can
-`forthing_t5_sx3_en_b49dc167` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:88 | doc_type:owners_manual
 
 be swiped to view, and tap the tag to enter the
 corresponding category for video watching.
@@ -16285,7 +15231,6 @@ you can perform operations such as rewinding
 3.
 
 ### Tap any position in the play area to wake
-`forthing_t5_sx3_en_97ba8600` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:88 | doc_type:owners_manual
 
 up the play control. In the bottom control area,
 you can select episodes, drag to adjust the
@@ -16294,7 +15239,6 @@ bar, choose video clarity, select
 playback speed, and perform other operations.
 
 ### Messages that can be sent by on-board
-`forthing_t5_sx3_en_91d16e0e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:89 | doc_type:owners_manual
 
 WeChat are voice messages, which are sent
 through voice commands. The user just needs
@@ -16308,7 +15252,6 @@ XXX
 by
 
 ### Receive WeChat messages
-`forthing_t5_sx3_en_636f53e6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:89 | doc_type:owners_manual
 
 When
 there
@@ -16328,7 +15271,6 @@ Message".
 When receiving messages, the on-board
 
 ### Turn over the sun visor downward to
-`forthing_t5_sx3_en_01c77e8c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:90 | doc_type:owners_manual
 
 block the glare ahead. To block strong light
 from the side, first detach the left side support
@@ -16340,7 +15282,6 @@ To use the vanity mirror, turn down the
 sun visor and open the vanity mirror cover.
 
 ### Glasses case*
-`forthing_t5_sx3_en_61639b4a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:90 | doc_type:owners_manual
 
 Press the glasses case upwards to open it.
 If you need to close it, just close it.
@@ -16352,7 +15293,6 @@ on one side can be removed to place larger
 objects.
 
 ### The cigarette lighter is located in the front
-`forthing_t5_sx3_en_34ff568d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:93 | doc_type:owners_manual
 
 storage box of auxiliary instrument panel. The
 cigarette lighter can work only when the Start
@@ -16362,7 +15302,6 @@ heated and ready for use, the cigarette lighter
 will automatically pop out with a "click" sound.
 
 ### Please do not take out the cigarette lighter from
-`forthing_t5_sx3_en_aebd6bb6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:93 | doc_type:owners_manual
 
 the socket at ordinary times, so as to avoid short
 circuit due to blockage of the socket by foreign
@@ -16374,7 +15313,6 @@ other vehicles. This is to prevent the cigarette
 lighter from overheating and causing a fire.
 
 ### The USB interface can work only when
-`forthing_t5_sx3_en_d70d3d19` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:93 | doc_type:owners_manual
 
 the Start/Stop switch is at "ON" or "ACC"
 position. This interface can be used for mobile
@@ -16384,7 +15322,6 @@ multimedia display to USB flash dick play
 mode.
 
 ### The rear USB port is located below the
-`forthing_t5_sx3_en_41010c59` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:94 | doc_type:owners_manual
 
 rear air outlet of auxiliary dashboard. This USB
 port only has the charging function.
@@ -16396,7 +15333,6 @@ USB port and disabling its function.
 •
 
 ### The USB power interface only provides charging
-`forthing_t5_sx3_en_b143b31d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:94 | doc_type:owners_manual
 
 function, and the maximum charging current is
 2.3 A. Do not insert high-current electrical
@@ -16419,7 +15355,6 @@ to avoid fire.
 •
 
 ### Do not allow children to use or touch the 12V
-`forthing_t5_sx3_en_f47ad9e0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:95 | doc_type:owners_manual
 
 on-board power supply, and do not insert metal
 foreign matters into the power interface to avoid
@@ -16432,7 +15367,6 @@ into the 12V on-board power socket to avoid fire
 caused by short circuit.
 
 ### The wireless charging device is installed
-`forthing_t5_sx3_en_f7ca299b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:95 | doc_type:owners_manual
 
 in the central storage
 box. The
@@ -16470,7 +15404,6 @@ from the surface of the wireless charging
 device.
 
 ### The wireless
-`forthing_t5_sx3_en_8e3954ad` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:95 | doc_type:owners_manual
 
 charging device has a
 forgotten device reminder function. Triggering
@@ -16485,7 +15418,6 @@ The Start switch is at OFF position.
 The driver's door is opened.
 
 ### If the above conditions are met at the
-`forthing_t5_sx3_en_8c436a76` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:95 | doc_type:owners_manual
 
 same time, the instrument cluster will display
 "Forgot Mobile Phone" and buzz for 30s.
@@ -16517,7 +15449,6 @@ charging icon, but it does not actually charge the
 portable device.
 
 ### Dash cam memory card
-`forthing_t5_sx3_en_d2e9bfa1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:95 | doc_type:owners_manual
 
 The
 dashcam
@@ -16531,14 +15462,12 @@ for operating the TF card. When the Start/Stop
 switch is turned from "OFF" to "ACC" position,
 
 ### Interior layout
-`forthing_t5_sx3_en_9bb17386` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:96 | doc_type:owners_manual
 
 the vehicle travelling data recorder starts to
 work and enters the video recording status.
 △Warning
 
 ### In order to ensure the personal and property safety of
-`forthing_t5_sx3_en_faf730fa` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:96 | doc_type:owners_manual
 
 the driver, it is strongly recommended that this vehicle
 travelling data recorder should not be operated during
@@ -16547,7 +15476,6 @@ damage. Please properly set relevant items before
 driving.
 
 ### The vehicle is equipped with interior
-`forthing_t5_sx3_en_9d5e277b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:96 | doc_type:owners_manual
 
 handles on the front passenger side and both
 sides of the rear seat for passengers to use under
@@ -16557,7 +15485,6 @@ which automatically returns to its original
 position when released.
 
 ### The magazine bag is located on the back
-`forthing_t5_sx3_en_8a86e2db` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:96 | doc_type:owners_manual
 
 of the front and second row seats (some models), which
 is used to place small items such as plastic bags and
@@ -16569,7 +15496,6 @@ will automatically light up to facilitate storage
 of items.
 
 ### Interior layout
-`forthing_t5_sx3_en_6531fa66` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:97 | doc_type:owners_manual
 
 1.
 Pull and hold the handle, turn it
@@ -16580,7 +15506,6 @@ corresponding slots of the side wall.
 2.
 
 ### Retractable parcel shelf recovery
-`forthing_t5_sx3_en_17bcdb55` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:97 | doc_type:owners_manual
 
 steps are in reverse order of unfolding steps.
 For the seven-seat model, when it is
@@ -16598,7 +15523,6 @@ Safety
 Safety
 
 ### Driving precautions
-`forthing_t5_sx3_en_be08f577` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:98 | doc_type:owners_manual
 
 Before driving, please be sure to read the
 contents of this chapter, which will ensure that
@@ -16607,7 +15531,6 @@ methods and precautions of the vehicle, so as to
 facilitate safe driving.
 
 ### The SRS can only provide protection
-`forthing_t5_sx3_en_cdea5674` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:98 | doc_type:owners_manual
 
 when you
 wear your
@@ -16616,7 +15539,6 @@ maximum safety for passengers in the event of
 unexpected accidents.
 
 ### In case of an emergency braking under
-`forthing_t5_sx3_en_3cfd4ad4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:98 | doc_type:owners_manual
 
 unexpected circumstances during driving, the
 driver and passengers can be restrained to the
@@ -16627,7 +15549,6 @@ secondary collision injury.
 •
 
 ### Do not cross the seat belt across your lower
-`forthing_t5_sx3_en_91798424` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:98 | doc_type:owners_manual
 
 abdomen.
 Otherwise,
@@ -16641,7 +15562,6 @@ lower abdomen, increasing the risk of injury.
 •
 
 ### Adjust the shoulder part of the seat belt to the
-`forthing_t5_sx3_en_9a81829f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:98 | doc_type:owners_manual
 
 most suitable position and tighten it as much as
 possible
@@ -16659,7 +15579,6 @@ child sit on the front seat.
 •
 
 ### Each passenger is allowed to use only one seat
-`forthing_t5_sx3_en_7444a920` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:98 | doc_type:owners_manual
 
 belt. Do not hold a baby or child in your arms
 and fasten the seat belt around them, as this
@@ -16672,7 +15591,6 @@ across the chest. In case of emergency braking
 or collision, the shoulder belt will be locked.
 
 ### All seating positions in the vehicle are
-`forthing_t5_sx3_en_73a185bd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:98 | doc_type:owners_manual
 
 equipped with three-point seat belts. To fasten
 the seat belt, pull the belt from the retractor and
@@ -16682,14 +15600,12 @@ locked. To unfasten the seat belt, simply press
 the button on the buckle.
 
 ### Pull out the adjustment button to adjust
-`forthing_t5_sx3_en_bb1db9a4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:99 | doc_type:owners_manual
 
 the height adjuster up and down. The height adjuster can
 be moved up by pushing the sliding block trim panel
 upwards.
 
 ### Each seat belt is equipped with one
-`forthing_t5_sx3_en_b40356f9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:99 | doc_type:owners_manual
 
 retractor. During normal driving, the retractor
 keeps the seat belt at a certain tension so that
@@ -16708,7 +15624,6 @@ authorized service station of Dongfeng Forthing.
 Airbag
 
 ### The SRS is an auxiliary restraint device of
-`forthing_t5_sx3_en_609b935b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:99 | doc_type:owners_manual
 
 the seat belt. When the degree of front or side
 collision meets the deployment requirements of
@@ -16717,7 +15632,6 @@ deployed to reduce the impact injuries to the
 head and chest of the occupants.
 
 ### Front passenger airbag
-`forthing_t5_sx3_en_97e116e6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:99 | doc_type:owners_manual
 
 In the event of a frontal collision, the
 airbags
@@ -16729,7 +15643,6 @@ front
 passenger's head, face, and chest.
 
 ### The side airbags are installed in the
-`forthing_t5_sx3_en_3cb1a5a3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:99 | doc_type:owners_manual
 
 backrests of both the driver's seat and the front
 passenger's seat; the backrests are marked with
@@ -16740,7 +15653,6 @@ trim panel, so as to protect the safety of
 occupants.
 
 ### The side curtain airbags are mounted
-`forthing_t5_sx3_en_bc68bfb0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:100 | doc_type:owners_manual
 
 above the vehicle doors on the left and the right
 sides, where the signs of “SRSAIRBAG” are
@@ -16754,14 +15666,12 @@ vehicle.
 Warning
 
 ### As the side airbags and curtain airbags deploy with
-`forthing_t5_sx3_en_1e730897` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:100 | doc_type:owners_manual
 
 considerable speed and force, it is forbidden to keep
 your head close to the deployment areas of the side
 airbags and curtain airbags when the vehicle is running.
 
 ### Deployment of front airbag
-`forthing_t5_sx3_en_9557965e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:100 | doc_type:owners_manual
 
 In case of a severe collision, the airbag
 control unit monitors the deceleration caused
@@ -16773,7 +15683,6 @@ heads and chests of the driver and passengers,
 alongside the seat belts, to reduce injuries.
 
 ### Undeployment condition of front airbag
-`forthing_t5_sx3_en_1146942b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:100 | doc_type:owners_manual
 
 •
 Vehicles that do not start.
@@ -16804,7 +15713,6 @@ The airbag system is faulty.
 Other special circumstances.
 
 ### Undeployment condition of front side airbags
-`forthing_t5_sx3_en_c0def5a7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:101 | doc_type:owners_manual
 
 and side curtain airbags
 •
@@ -16830,7 +15738,6 @@ The airbag system is faulty.
 Other special circumstances.
 
 ### How airbag indicator works
-`forthing_t5_sx3_en_c760c9fa` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:102 | doc_type:owners_manual
 
 Before driving, put the Start switch to
 "ON"
@@ -16853,7 +15760,6 @@ Dongfeng Forthing:
 •
 
 ### When the Start switch is turned to "ON"
-`forthing_t5_sx3_en_78dac5e5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:102 | doc_type:owners_manual
 
 position, the airbag
 indicator does not
@@ -16865,7 +15771,6 @@ remains on.
 •
 
 ### There is an airbag warning label on the
-`forthing_t5_sx3_en_8c10ba7e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:102 | doc_type:owners_manual
 
 front passenger sun visor. Do not place a
 backward-facing child seat on a seat protected
@@ -16874,7 +15779,6 @@ inflated front airbag will impact the child with
 great force and cause serious injury.
 
 ### The airbag may rapidly inflate in case of a
-`forthing_t5_sx3_en_0b6d76b6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:102 | doc_type:owners_manual
 
 severe frontal impact, and it may also deploy in
 response to other types of impacts similar to a
@@ -16897,7 +15801,6 @@ warm water and soap afterwards to prevent
 irritation.
 
 ### The vehicle is equipped with an event
-`forthing_t5_sx3_en_a7072f42` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:102 | doc_type:owners_manual
 
 data recorder system (EDR), and the recorded
 data can be used for collision accident analysis.
@@ -16932,7 +15835,6 @@ longitudinal
 delta-V time
 
 ### It indicates the
-`forthing_t5_sx3_en_94cfd008` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:102 | doc_type:owners_manual
 
 time point when
 the EDR
@@ -16956,7 +15858,6 @@ driver
 /
 
 ### Start switch is
-`forthing_t5_sx3_en_9e4cfd46` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:103 | doc_type:owners_manual
 
 set to ACC/ON
 position during
@@ -17002,7 +15903,6 @@ time.
 Cycle
 
 ### Time interval
-`forthing_t5_sx3_en_83758bf6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:103 | doc_type:owners_manual
 
 between current
 event and
@@ -17028,7 +15928,6 @@ of
 the
 
 ### The vehicle's Event Data Recorder (EDR)
-`forthing_t5_sx3_en_a3699d23` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:103 | doc_type:owners_manual
 
 is integrated into the airbag controller. Data can
 be extracted using special diagnostic equipment
@@ -17039,7 +15938,6 @@ manual.
 •
 
 ### The vehicle speed data recorded by the
-`forthing_t5_sx3_en_77867eac` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:103 | doc_type:owners_manual
 
 vehicle's Event Data Recorder System (EDR) is
 derived from the wheel speed provided by the
@@ -17047,7 +15945,6 @@ vehicle's Anti-lock Braking System (ABS).
 •
 
 ### Data Recorder System (EDR) is categorized
-`forthing_t5_sx3_en_5e66b6eb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:103 | doc_type:owners_manual
 
 into unlocked and locked event data. The
 former
@@ -17073,7 +15970,6 @@ subsequent events, and a total of three event
 data can be recorded.
 
 ### This chapter provides essential overviews
-`forthing_t5_sx3_en_9c975067` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:103 | doc_type:owners_manual
 
 and detailed guidance on the safety of infants,
 young children, and older children.
@@ -17091,7 +15987,6 @@ he/she shall be placed in an approved rear-row
 child restraint system.
 
 ### Older children must wear a three-point
-`forthing_t5_sx3_en_419fc1a6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:103 | doc_type:owners_manual
 
 seat belt for protection, and if necessary, an
 auxiliary cushion shall be installed.
@@ -17103,7 +15998,6 @@ collision. Therefore, it is recommended to use a
 backward-facing child restraint system.
 
 ### According to the weight and height
-`forthing_t5_sx3_en_53d4324b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:103 | doc_type:owners_manual
 
 requirements specified by the manufacturer of
 child restraint system, children over one year
@@ -17117,7 +16011,6 @@ properly, a booster cushion can be installed in
 the rear seat for children.
 
 ### Child restraint system
-`forthing_t5_sx3_en_d897a3ed` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:103 | doc_type:owners_manual
 
 Safety
 In addition to three-point seat belts for children protection, the middle-row seats also provide
@@ -17127,7 +16020,6 @@ The child restraint system (CRS) applicable to this vehicle and the installation
 shown in the table below.
 
 ### Group III (22 G to 36 KG)
-`forthing_t5_sx3_en_a0a676dc` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:safety | p:104 | doc_type:owners_manual
 
 X
 U
@@ -17151,7 +16043,6 @@ mod
 ule
 
 ### ISOFIX position on vehicle
-`forthing_t5_sx3_en_fe36c4d6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:105 | doc_type:owners_manual
 
 Front
 passengers
@@ -17186,7 +16077,6 @@ X
 X
 
 ### Group 0
-`forthing_t5_sx3_en_5b5470b4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:105 | doc_type:owners_manual
 
 E
 ISO/R1
@@ -17275,7 +16165,6 @@ X
 X
 
 ### Group III
-`forthing_t5_sx3_en_9bd5ca58` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:safety | p:105 | doc_type:owners_manual
 
 (1)
 X
@@ -17301,7 +16190,6 @@ G—ISO/L2: Right-side facing child restraint system (carrycot).
 Safety
 
 ### Pass the three-point seat belt through or
-`forthing_t5_sx3_en_57174578` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:106 | doc_type:owners_manual
 
 around the infant seat, insert the tongue into the
 buckle, and make sure that the tongue and the
@@ -17314,7 +16202,6 @@ tongue into the buckle. Do not twist the seat
 belt and tighten the leg belt.
 
 ### Installation of older children restraint system
-`forthing_t5_sx3_en_ded5e28d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:safety | p:106 | doc_type:owners_manual
 
 If
 the
@@ -17333,7 +16220,6 @@ seat and ensure the child is seated on the
 cushion to guarantee their safety.
 
 ### Child safety rear door lock
-`forthing_t5_sx3_en_1225c0f0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:106 | doc_type:owners_manual
 
 The
 child
@@ -17352,7 +16238,6 @@ rear door lock, move the shift lever to the
 unlocking position ②.
 
 ### ISOFIX interface
-`forthing_t5_sx3_en_a7d6e3b5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:106 | doc_type:owners_manual
 
 This
 vehicle
@@ -17366,7 +16251,6 @@ system with an ISOFIX interface in the middle
 row seats. Child safety devices conforming to
 
 ### The battery warning mark is stuck to the
-`forthing_t5_sx3_en_d80029e7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:107 | doc_type:owners_manual
 
 surface of the battery. The battery shall be kept
 away from heat sources and open flames, and
@@ -17374,7 +16258,6 @@ ventilation shall be maintained during charging
 and use to prevent accidents.
 
 ### The radiator warning label is stuck to the
-`forthing_t5_sx3_en_88688c00` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:107 | doc_type:owners_manual
 
 surface of the upper beam of the radiator. Do
 not touch the radiator, especially when the
@@ -17389,7 +16272,6 @@ temperature of the radiator at this time is very
 high and it is easy to scald your skin.
 
 ### Risk of carbon monoxide poisoning
-`forthing_t5_sx3_en_366e9c9b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:107 | doc_type:owners_manual
 
 Carbon monoxide gas is toxic, and
 inhalation of the gas will seriously threaten
@@ -17399,7 +16281,6 @@ during normal driving, carbon monoxide from
 the vehicle exhaust will not enter your vehicle.
 
 ### The vehicle has been lifted due to
-`forthing_t5_sx3_en_a6800d0a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:107 | doc_type:owners_manual
 
 replacement of engine oil or other reasons.
 •
@@ -17422,7 +16303,6 @@ Driving
 Driving
 
 ### Press the Start switch without depressing
-`forthing_t5_sx3_en_2c082434` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:108 | doc_type:owners_manual
 
 the brake pedal. The start switch can be
 switched
@@ -17444,7 +16324,6 @@ deactivated, and the Start switch indicator goes
 out.
 
 ### ACC position: The instrument cluster goes
-`forthing_t5_sx3_en_7040ae3d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:108 | doc_type:owners_manual
 
 out, but the audio is turned on. At this moment,
 the Start switch indicator is yellow.
@@ -17464,7 +16343,6 @@ turns green. Finally, press the Start switch to
 start the engine.
 
 ### When the vehicle speed is greater than 15
-`forthing_t5_sx3_en_6fb2d648` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:108 | doc_type:owners_manual
 
 km/h and the electronic steering column lock is
 unlocked, engage the neutral gear and press the
@@ -17478,7 +16356,6 @@ switch again for more than 15s will start the
 engine.
 
 ### Emergency start-up
-`forthing_t5_sx3_en_4217f83a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:108 | doc_type:owners_manual
 
 When the engine ECU fails, the engine
 MIL
@@ -17496,7 +16373,6 @@ light up the instrument cluster.
 3.
 
 ### Depress the brake pedal for 5s (the
-`forthing_t5_sx3_en_81d2eebb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:108 | doc_type:owners_manual
 
 Start switch indicator will turn green), and press
 the Start switch after 5s until the vehicle starts
@@ -17509,7 +16385,6 @@ the smart key close to the Start switch and press
 the Start switch.
 
 ### The cause of engine start failure can be
-`forthing_t5_sx3_en_1a7dffe9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:108 | doc_type:owners_manual
 
 determined based on the sound heard when the
 Start switch is turned to START position. It can
@@ -17517,7 +16392,6 @@ be roughly divided into two types:
 1.
 
 ### If no or almost no sound can be
-`forthing_t5_sx3_en_84e89a71` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:108 | doc_type:owners_manual
 
 heard, the starter of the engine cannot rotate or
 rotates too slowly.
@@ -17532,7 +16406,6 @@ faster than normal is heard, but the engine does
 not start or run.
 
 ### The starter cannot rotate or the speed is too
-`forthing_t5_sx3_en_186007cd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:108 | doc_type:owners_manual
 
 slow
 1. Check whether the battery terminal
@@ -17553,7 +16426,6 @@ Dongfeng
 Forthing.
 
 ### Precautions for engine start
-`forthing_t5_sx3_en_1a65d4b6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:109 | doc_type:owners_manual
 
 •
 At an altitude higher than 2400 m, it will
@@ -17566,7 +16438,6 @@ difficult to start. Please preheat the engine for a
 few minutes before driving.
 
 ### How to stop the engine
-`forthing_t5_sx3_en_b4a8fbe7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:109 | doc_type:owners_manual
 
 After the engine ran under a small load, it
 is recommended to make the engine to carry out
@@ -17575,7 +16446,6 @@ engine. This practice allows the engine to fully
 cool down, extending its service life.
 
 ### Engine automatic start-stop system
-`forthing_t5_sx3_en_af831f6c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:109 | doc_type:owners_manual
 
 When the vehicle is stopped (not parked),
 such as waiting for traffic lights or in case of a
@@ -17585,7 +16455,6 @@ engine without operating the Start switch to
 reduce gas emission and fuel consumption.
 
 ### Press the engine Start/Stop switch on the
-`forthing_t5_sx3_en_6c63e2fd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:109 | doc_type:owners_manual
 
 instrument panel switch set, and the Start/Stop
 system indicator on the instrument cluster will
@@ -17601,7 +16470,6 @@ The
 engine
 
 ### Start/Stop
-`forthing_t5_sx3_en_95ac7776` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:109 | doc_type:owners_manual
 
 function
 is
@@ -17615,7 +16483,6 @@ vehicle, please shut down the engine.
 •
 
 ### Even if the vehicle is equipped with the
-`forthing_t5_sx3_en_945323a6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:109 | doc_type:owners_manual
 
 automatic Start/Stop system, the parking brake
 must be applied when the vehicle is parked on a
@@ -17624,7 +16491,6 @@ Caution
 •
 
 ### If the vehicle is parked for a long time in
-`forthing_t5_sx3_en_a86d9c8e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:109 | doc_type:owners_manual
 
 extremely cold outdoor weather, the engine
 shall run for a long time to raise the internal
@@ -17634,7 +16500,6 @@ work normally.
 •
 
 ### If the vehicle runs for a long time in an
-`forthing_t5_sx3_en_21d8f6c6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:109 | doc_type:owners_manual
 
 environment with poor heat dissipation, the
 battery temperature may be higher than the
@@ -17656,7 +16521,6 @@ When the vehicle is wading, be sure to manually
 turn off the automatic start-stop system.
 
 ### Start/Stop system MIL
-`forthing_t5_sx3_en_2f5c07ec` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:109 | doc_type:owners_manual
 
 will flash. Please
 contact
@@ -17669,7 +16533,6 @@ Dongfeng Forthing).
 2.
 
 ### There is no diagnostic fault related
-`forthing_t5_sx3_en_6ff64d8e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:109 | doc_type:owners_manual
 
 to the engine electronic control system (if any,
 the Start-Stop system indicator A on the
@@ -17683,13 +16546,11 @@ indicator will light up. Please
 contact the
 
 ### The recorded maximum speed of
-`forthing_t5_sx3_en_6b8a8518` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:110 | doc_type:owners_manual
 
 the vehicle after starting does not meet the
 requirement of being less than 10 km/h.
 
 ### Engage the neutral gear after the vehicle
-`forthing_t5_sx3_en_420a6373` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:110 | doc_type:owners_manual
 
 stops or release the clutch pedal completely
 after the vehicle stops, and the engine will
@@ -17707,7 +16568,6 @@ transmission
 •
 
 ### When the gearshift lever is kept at D
-`forthing_t5_sx3_en_4e61787d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:110 | doc_type:owners_manual
 
 position, the engine will automatically shut
 down, and Start/Stop system indicator
@@ -17717,7 +16577,6 @@ and a message of "Start/Stop Working" is
 displayed on the screen.
 
 ### When the start/stop working indicator
-`forthing_t5_sx3_en_991f9e12` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:110 | doc_type:owners_manual
 
 on the instrument cluster illuminates, depress
 the brake pedal to decelerate the vehicle to 3
@@ -17735,7 +16594,6 @@ Brake pedal is depressed.
 The engine stops running.
 
 ### After the vehicle stops automatically with
-`forthing_t5_sx3_en_bb922c38` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:110 | doc_type:owners_manual
 
 brake in D gear, AUTO HOLD is on or the
 EPB control lever is pulled up. The vehicle
@@ -17743,7 +16601,6 @@ remains stationary even after releasing the
 brake pedal.
 
 ### After the vehicle stops automatically with
-`forthing_t5_sx3_en_3b5d8df5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:110 | doc_type:owners_manual
 
 brake in D gear, shift to P/N gear with the brake
 pedal depressed, and the vehicle continues to be
@@ -17760,7 +16617,6 @@ EPB is pulled up, the vehicle remains stationary
 even after releasing the brake pedal.
 
 ### When the Start-Stop working indicator
-`forthing_t5_sx3_en_cbd48ad4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:110 | doc_type:owners_manual
 
 on the instrument panel turns white from
 green, the engine will restart automatically.
@@ -17780,7 +16636,6 @@ other position from D position.
 •
 
 ### When the Start-Stop working indicator
-`forthing_t5_sx3_en_c85bdbd9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:111 | doc_type:owners_manual
 
 on the instrument panel turns white from
 green, the engine will restart automatically.
@@ -17792,7 +16647,6 @@ start the engine.
 •
 
 ### For the automatic stop status in D gear
-`forthing_t5_sx3_en_74fe35cf` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:111 | doc_type:owners_manual
 
 with the EBP not released, automatic start will
 be triggered by releasing the brake pedal.
@@ -17807,7 +16661,6 @@ gear to trigger automatic start.
 •
 
 ### For automatic stop when the brake pedal
-`forthing_t5_sx3_en_c9d5bec3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:111 | doc_type:owners_manual
 
 is released, depress the accelerator pedal to
 trigger automatic start.
@@ -17835,7 +16688,6 @@ automatic start.
 •
 
 ### When the engine coolant temperature
-`forthing_t5_sx3_en_75e84cc3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:111 | doc_type:owners_manual
 
 rises to 110°C, automatic start will be triggered
 •
@@ -17854,7 +16706,6 @@ of
 automatic start and automatic stop
 
 ### Engine shutdown after automatic start
-`forthing_t5_sx3_en_43f34a3e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:111 | doc_type:owners_manual
 
 For
 vehicles
@@ -17884,7 +16735,6 @@ stop
 1.
 
 ### When parking or driving at an extremely
-`forthing_t5_sx3_en_ca4f6e57` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:111 | doc_type:owners_manual
 
 low speed, if the steering wheel is operated
 repeatedly or continuously, the power will be
@@ -17898,14 +16748,12 @@ When the steering wheel is turned quickly,
 friction sound may be heard, which is not a fault.
 
 ### If the EPS warning light illuminates when the
-`forthing_t5_sx3_en_9193b744` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:111 | doc_type:owners_manual
 
 engine is running, the steering wheel power will
 be weakened or lost, and more force is required
 to operate the steering wheel at this time.
 
 ### The hydraulic power steering system
-`forthing_t5_sx3_en_9a622a1f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:111 | doc_type:owners_manual
 
 assists you in turning the vehicle, allowing for
 easier steering wheel operation.
@@ -17914,7 +16762,6 @@ you may hear a sound from the power steering
 pump as it releases pressure, which is normal.
 
 ### Avoid holding the steering wheel at its limit for
-`forthing_t5_sx3_en_18806834` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:111 | doc_type:owners_manual
 
 more than 5 seconds to prevent damage to the
 power steering pump and hydraulic lines.
@@ -17925,7 +16772,6 @@ noise for a while after a cold engine start. The
 noise should subside once the engine warms up.
 
 ### Type I
-`forthing_t5_sx3_en_9fcbeb06` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:112 | doc_type:owners_manual
 
 The
 7DCT
@@ -17939,7 +16785,6 @@ forward or backward to enter the Manual mode
 and shift up or down the gears.
 
 ### Type II
-`forthing_t5_sx3_en_f629a40e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:112 | doc_type:owners_manual
 
 The
 7DCT
@@ -17953,7 +16798,6 @@ forward or backward to enter the Manual mode
 (M) and shift up or down the gears.
 
 ### Continuously variable transmission (CVT)*
-`forthing_t5_sx3_en_ffb82711` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:112 | doc_type:owners_manual
 
 The CVT has 8 gears. Move the gearshift
 lever to D position, and then move it rightward
@@ -17962,7 +16806,6 @@ backward to enter the Manual mode and shift
 up or down the gears.
 
 ### This transmission is provided with 6 gear
-`forthing_t5_sx3_en_bcdf0617` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:112 | doc_type:owners_manual
 
 modes, i.e. "P, R, N, D, S, + and -". The
 snowflake button refers to the snow mode
@@ -17977,7 +16820,6 @@ press the snowflake button to enter the snow
 mode.
 
 ### Shift out of P position: When the Start
-`forthing_t5_sx3_en_aafdf393` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:112 | doc_type:owners_manual
 
 switch is at ON position, first depress the brake
 pedal and then press the lock button on the shift
@@ -17995,7 +16837,6 @@ you can directly engage a gear without pressing
 the lock button on the shift lever.
 
 ### Use this gear to park the vehicle or make
-`forthing_t5_sx3_en_5d6d1f45` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:112 | doc_type:owners_manual
 
 the vehicle ready for driving. Press the P button
 on the shift lever to enter the P gear. Be sure to
@@ -18003,7 +16844,6 @@ stop the vehicle completely before shifting to
 the P gear.
 
 ### The Start switch can be used to set the
-`forthing_t5_sx3_en_a5ec0162` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:112 | doc_type:owners_manual
 
 gear at N position or shift to N position when
 the vehicle is started. When the vehicle is in this
@@ -18013,7 +16853,6 @@ driven.
 Driving
 
 ### The electronic gear shifter features a
-`forthing_t5_sx3_en_6a7c7917` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:113 | doc_type:owners_manual
 
 dual-stable design with three gears and five
 positions. The shift lever will return to the
@@ -18025,7 +16864,6 @@ gearshift handball forward to enter M+ mode
 and pull it backward to enter Mmode. The
 
 ### M/S mode can be activated only when the
-`forthing_t5_sx3_en_76c62d89` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:113 | doc_type:owners_manual
 
 vehicle is in D gear. When the vehicle is started,
 the detailed gear shifting sequence is as shown
@@ -18033,7 +16871,6 @@ in the figure below. The middle position is the
 actual gear of the current vehicle.
 
 ### Description of gear shifting conditions
-`forthing_t5_sx3_en_671dc219` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:113 | doc_type:owners_manual
 
 1.
 When the vehicle is not started, the
@@ -18055,7 +16892,6 @@ at the original gear.
 5.
 
 ### The driving mode can be switched to by
-`forthing_t5_sx3_en_b40df03d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:113 | doc_type:owners_manual
 
 moving the gearshift knob leftwards when the
 vehicle is in D gear. When the vehicle
@@ -18079,7 +16915,6 @@ executes
 corresponding manual shift up/down request;
 
 ### When the knob is moved back to D position on
-`forthing_t5_sx3_en_c5539d87` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:113 | doc_type:owners_manual
 
 the right, the vehicle exits Sport mode or
 Manual
@@ -18093,7 +16928,6 @@ knob to the left M/S position for Sport mode
 respond and keep the original gear.
 
 ### Use a straight screwdriver or other
-`forthing_t5_sx3_en_dc0e6fe4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:113 | doc_type:owners_manual
 
 tools to remove the shift panel and shift trim
 strip of the transmission gearshift control
@@ -18106,7 +16940,6 @@ panel.
 2.
 
 ### Insert a straight screwdriver or other
-`forthing_t5_sx3_en_b67b97ff` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:113 | doc_type:owners_manual
 
 tool into the releasing hole of P gear, press it
 until it cannot move any more, and manually
@@ -18118,7 +16951,6 @@ station of Dongfeng Forthing even if the P gear lock is
 successfully unlocked.
 
 ### Type II
-`forthing_t5_sx3_en_38149654` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:114 | doc_type:owners_manual
 
 The
 manual
@@ -18136,7 +16968,6 @@ when not shifting gears, as it may accelerate the
 wear of the clutch.
 
 ### Only when the vehicle is parked steadily
-`forthing_t5_sx3_en_439769ee` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:114 | doc_type:owners_manual
 
 can you shift to reverse gear. It is advisable to
 fully depress the clutch pedal and wait for a few
@@ -18154,7 +16985,6 @@ brake.
 Caution
 
 ### Avoid allowing the engine's tachometer to reach the
-`forthing_t5_sx3_en_022bd464` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:114 | doc_type:owners_manual
 
 red zone when using the engine for braking, as this
 may cause engine damage.
@@ -18172,7 +17002,6 @@ may occur. Extra caution should be exercised when
 driving on slippery roads.
 
 ### Recommended gearshift points
-`forthing_t5_sx3_en_6eacf29c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:114 | doc_type:owners_manual
 
 Within a specific speed range, using the
 appropriate shifting points can ensure the
@@ -18188,7 +17017,6 @@ For six-gear vehicles, we recommend the
 following gearshift points:
 
 ### If the gear is set improperly or not switched in
-`forthing_t5_sx3_en_6131d0ad` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:114 | doc_type:owners_manual
 
 time (mainly manifested as driving at low speed
 and high gear), after the engine RPM is forced to
@@ -18214,7 +17042,6 @@ Driving
 than Gear 3.
 
 ### Filling of fuel
-`forthing_t5_sx3_en_8ed8d648` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:115 | doc_type:owners_manual
 
 Rotate
 the
@@ -18230,7 +17057,6 @@ fuel filler cap.
 △Warning
 
 ### After the fuel nozzle is automatically closed for the first
-`forthing_t5_sx3_en_99dfb427` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:115 | doc_type:owners_manual
 
 time, refueling shall be stopped. A certain space is
 reserved in the fuel tank for fuel expansion when
@@ -18242,7 +17068,6 @@ fuel leakage, refueling shall be stopped after the fuel
 nozzle is automatically closed for the first time.
 
 ### Vehicle Running-in
-`forthing_t5_sx3_en_c55d96cd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:115 | doc_type:owners_manual
 
 Notes
 In the first 1000 km, pay special attention
@@ -18253,7 +17078,6 @@ stage:
 1.
 
 ### Vehicle running-in will play a vital role
-`forthing_t5_sx3_en_e1dbe506` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:safety | p:115 | doc_type:owners_manual
 
 in the service life, safety and fuel efficiency of
 vehicle. During the running-in period, be sure
@@ -18263,7 +17087,6 @@ each gear of the vehicle.
 Gear
 
 ### Maximum speed (km/h)
-`forthing_t5_sx3_en_6f2b4477` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:115 | doc_type:owners_manual
 
 1th gear
 2nd gear
@@ -18283,7 +17106,6 @@ above speed recommendations should also be
 followed while driving.
 
 ### Brake assist (BA)
-`forthing_t5_sx3_en_538df28a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:115 | doc_type:owners_manual
 
 In the process of emergency braking, BA
 system will increase the driver's braking force
@@ -18298,7 +17120,6 @@ depressing the brake pedal quickly will activate
 the hydraulic assist braking system. At this time,
 
 ### ABS is equipped with EBD electronic
-`forthing_t5_sx3_en_47503132` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:116 | doc_type:owners_manual
 
 braking force distribution function. In order to
 have good braking performance under different
@@ -18307,7 +17128,6 @@ distribute the braking force between front and
 rear wheels.
 
 ### Brake priority
-`forthing_t5_sx3_en_e013a227` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:116 | doc_type:owners_manual
 
 The
 brake
@@ -18319,7 +17139,6 @@ when detecting that the driver fails to apply
 braking, so as to avoid collision.
 
 ### ABS controls the vehicle brake to prevent
-`forthing_t5_sx3_en_b2f79940` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:116 | doc_type:owners_manual
 
 the
 wheels
@@ -18341,7 +17160,6 @@ vehicle braking, the steering wheel can still be
 used for steering to avoid collision.
 
 ### System self-inspection
-`forthing_t5_sx3_en_f856e40f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:116 | doc_type:owners_manual
 
 The
 ABS
@@ -18374,7 +17192,6 @@ of
 Dongfeng Forthing.
 
 ### ABS detects that one or more wheels are
-`forthing_t5_sx3_en_a8056af8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:116 | doc_type:owners_manual
 
 approaching the locked state, the actuator acts
 quickly to release and restore the braking fluid
@@ -18388,7 +17205,6 @@ Caution
 •
 
 ### ABS cannot shorten the time and distance
-`forthing_t5_sx3_en_7b9ccba8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:116 | doc_type:owners_manual
 
 required for parking.
 •
@@ -18397,7 +17213,6 @@ When the brake pedal is suddenly depressed,
 steering should be moderate.
 
 ### The ESP system can improve the stability
-`forthing_t5_sx3_en_42e2a702` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:116 | doc_type:owners_manual
 
 of driving the vehicle. When the computer
 detects that there is a deviation between the
@@ -18408,7 +17223,6 @@ the vehicle brakes to improve the driving
 stability of the vehicle.
 
 ### ESP switch (type II)
-`forthing_t5_sx3_en_7b8510b0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:116 | doc_type:owners_manual
 
 Press the ESP switch to restart the system.
 When the ESP system is enabled, the indicator
@@ -18416,7 +17230,6 @@ OFF on the instrument cluster will go out.
 Press the ESP switch again, and then the
 
 ### The vacuum booster is suitable for engine
-`forthing_t5_sx3_en_c6b91d87` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:117 | doc_type:owners_manual
 
 vacuum assisted braking. If the engine stops
 and the vacuum is depleted in the vacuum
@@ -18426,7 +17239,6 @@ brake pedal hard to bring the vehicle to a stop,
 and the braking distance will also increase.
 
 ### Do not rest your foot on the brake pedal
-`forthing_t5_sx3_en_31775225` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:117 | doc_type:owners_manual
 
 when driving. Otherwise, the brake will be
 overheated, accelerating the wear of brake disc
@@ -18458,7 +17270,6 @@ speed and attention shall be paid to keeping the
 distance between vehicles.
 
 ### Apply the parking brake to stop the
-`forthing_t5_sx3_en_36cb4b81` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:117 | doc_type:owners_manual
 
 vehicle. When you are about to start, slowly
 release the parking brake while depressing the
@@ -18471,7 +17282,6 @@ may slide backward, resulting in difficulty in
 starting. To prevent this from happening, Hill
 
 ### Hold Control will temporarily (up to about 2s)
-`forthing_t5_sx3_en_7e0a4872` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:117 | doc_type:owners_manual
 
 apply brake force on four wheels to prevent the
 vehicle from sliding backward.
@@ -18487,7 +17297,6 @@ brake pedal to prevent the vehicle from sliding
 backward.
 
 ### The gear is shifted to D or R
-`forthing_t5_sx3_en_74b63d03` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:117 | doc_type:owners_manual
 
 position and the vehicle goes uphill.
 2.
@@ -18507,7 +17316,6 @@ vehicle is on a level road.
 2.
 
 ### Type II
-`forthing_t5_sx3_en_6d096d8d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:117 | doc_type:owners_manual
 
 Press the HDC switch, and the hill
 descent control indicator
@@ -18522,7 +17330,6 @@ indicator goes out and the hill descent control
 system is turned off.
 
 ### When the vehicle goes downhill with the
-`forthing_t5_sx3_en_ad04d10f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:118 | doc_type:owners_manual
 
 HDC
 system
@@ -18544,7 +17351,6 @@ downhill speed to be maintained by using the
 HDC function within this speed range.
 
 ### When the hill descent control function is
-`forthing_t5_sx3_en_9572b3ee` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:118 | doc_type:owners_manual
 
 activated for active braking, the hill descent
 control indicator on the instrument
@@ -18560,7 +17366,6 @@ activated.
 •
 
 ### The HDC function only controls the downhill
-`forthing_t5_sx3_en_df1ca3e6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:118 | doc_type:owners_manual
 
 speed of the vehicle by actively operating the
 brake pedal. The driver should always pay
@@ -18568,7 +17373,6 @@ attention to controlling the vehicle to ensure
 driving safety.
 
 ### When the force applied to the brake pedal
-`forthing_t5_sx3_en_1384ac7a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:118 | doc_type:owners_manual
 
 exceeds a certain threshold, the brake assist will
 activate. At this point, even a gentle press on
@@ -18578,7 +17382,6 @@ facilitating easier driving of the vehicle.
 Parking
 
 ### The driver can use EPB to park the
-`forthing_t5_sx3_en_4beeefa1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:118 | doc_type:owners_manual
 
 vehicle reliably. The EPB can be applied and
 released manually or automatically.
@@ -18590,7 +17393,6 @@ indicator will light
 up.
 
 ### Manual release: Depress the brake pedal
-`forthing_t5_sx3_en_f1c9384d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:118 | doc_type:owners_manual
 
 and press the EPB switch at the same time. The
 electronic parking brake is released, and the
@@ -18604,7 +17406,6 @@ EPB, and the parking indicator will light
 up.
 
 ### Automatic release: When the vehicle is
-`forthing_t5_sx3_en_057c60e3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:118 | doc_type:owners_manual
 
 started uphill or due to a traffic jam, depressing
 the
@@ -18623,7 +17424,6 @@ the clutch pedal to automatically release the
 parking brake.
 
 ### Automatic transmission: Engage gear D
-`forthing_t5_sx3_en_2c94ad3d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:118 | doc_type:owners_manual
 
 or R, and depress the accelerator pedal to
 automatically release the parking brake.
@@ -18638,7 +17438,6 @@ exited.
 •
 
 ### Avoid using the emergency brake function as
-`forthing_t5_sx3_en_87dcfa8f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:119 | doc_type:owners_manual
 
 much as possible, and use it only in an
 emergency when the brake pedal fails or is
@@ -18652,7 +17451,6 @@ braking force may cause drift and sideslip of the
 vehicle.
 
 ### This function can be turned on or off by
-`forthing_t5_sx3_en_82907c76` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:119 | doc_type:owners_manual
 
 pressing the AUTO HOLD switch. After the
 AUTO HOLD function is turned on, if the
@@ -18663,7 +17461,6 @@ accelerator pedal to start and reduce the impact
 of slipping.
 
 ### Engine start
-`forthing_t5_sx3_en_e6dfe91c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:119 | doc_type:owners_manual
 
 2.
 The driver has fastened the seat belt.
@@ -18677,7 +17474,6 @@ function is automatically deactivated, and the
 function indicator goes out.
 
 ### Press the AUT HOLD switch on the
-`forthing_t5_sx3_en_66bd2e8e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:119 | doc_type:owners_manual
 
 center console, and the function indicator lights
 up.
@@ -18702,7 +17498,6 @@ to start, and manual transmission may even
 cause engine flameout.
 
 ### The green indicator of the instrument cluster
-`forthing_t5_sx3_en_26f17a7d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:119 | doc_type:owners_manual
 
 turns red.
 •
@@ -18715,7 +17510,6 @@ direction by controlling the engine and properly
 braking the driving wheels during driving.
 
 ### When the drive wheels of the vehicle start
-`forthing_t5_sx3_en_37ec6690` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:119 | doc_type:owners_manual
 
 to slip, the ESP actively manages the engine's
 power output torque (the vehicle does not
@@ -18736,7 +17530,6 @@ the vehicle has lost power, which is a normal
 phenomenon.
 
 ### Electronic stability control (ESC)
-`forthing_t5_sx3_en_9f1611f7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:120 | doc_type:owners_manual
 
 When the vehicle makes a turn, ESC
 computer detects the steering angle input by the
@@ -18760,7 +17553,6 @@ a normal phenomenon, indicating that the ESC
 system is working normally.
 
 ### Function description
-`forthing_t5_sx3_en_b3fc565f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:120 | doc_type:owners_manual
 
 The
 reversing
@@ -18775,7 +17567,6 @@ radar sensors of parking assist system are
 divided into:
 
 ### Rear reverse radar sensor
-`forthing_t5_sx3_en_5cd1d147` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:120 | doc_type:owners_manual
 
 When the parking assist system is started,
 it will automatically check whether its function
@@ -18786,7 +17577,6 @@ is faulty. Please contact an authorized service
 station of Dongfeng Forthing.
 
 ### The parking assist system sends out
-`forthing_t5_sx3_en_493ae47a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:120 | doc_type:owners_manual
 
 intermittent alarm sound or long alarm sound
 on instrument cluster according to the distance
@@ -18795,7 +17585,6 @@ shorter the distance is, the shorter the interval
 time of alarm sound will be.
 
 ### The multimedia display screen will show
-`forthing_t5_sx3_en_97fa680a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:120 | doc_type:owners_manual
 
 corresponding color according to the obstacle
 Driving
@@ -18811,7 +17600,6 @@ Obstacle
 Distance
 
 ### Long beep
-`forthing_t5_sx3_en_717b6e57` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:121 | doc_type:owners_manual
 
 Red
 41-100cm
@@ -18835,7 +17623,6 @@ Dongfeng
 Forthing in time.
 
 ### When the gearshift lever is shifted to R
-`forthing_t5_sx3_en_7ce62386` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:121 | doc_type:owners_manual
 
 (reverse gear), the reversing radar will be
 activated automatically, and the system will be
@@ -18843,7 +17630,6 @@ enabled automatically after disengaging from R
 gear (reverse gear).
 
 ### Front parking radar on
-`forthing_t5_sx3_en_a10999c9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:121 | doc_type:owners_manual
 
 With the Start switch at "ON" position,
 the front parking sensor function can be
@@ -18859,14 +17645,12 @@ than 20 km/h.
 2.
 
 ### If the vehicle speed is higher than
-`forthing_t5_sx3_en_8964bb53` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:121 | doc_type:owners_manual
 
 20 km/h, the front parking radar function can be
 activated again only when the vehicle speed is
 reduced to 10 km/h.
 
 ### Front parking radar off
-`forthing_t5_sx3_en_eb1dda94` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:121 | doc_type:owners_manual
 
 When the Start switch is at "ON" position,
 the front parking sensor function defaults to be
@@ -18890,7 +17674,6 @@ operate or function abnormally.
 •
 
 ### The radar detection distance may vary from
-`forthing_t5_sx3_en_a20df2aa` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:121 | doc_type:owners_manual
 
 actual measurements and is for reference only.
 Please do not rely on it as the sole basis for
@@ -18908,7 +17691,6 @@ continuously monitoring the environment during
 driving and taking timely maintenance actions.
 
 ### The following locations or obstacles may cause
-`forthing_t5_sx3_en_6160bf12` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:122 | doc_type:owners_manual
 
 detection failures or poor detection performance:
 a)
@@ -18920,7 +17702,6 @@ Cotton or acoustic material.
 d)
 
 ### Ultrasonic
-`forthing_t5_sx3_en_a586d2d2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:122 | doc_type:owners_manual
 
 noise,
 metal
@@ -18939,7 +17720,6 @@ system during use.
 •
 
 ### The parking assist system is only used as an
-`forthing_t5_sx3_en_e10aa4bd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:122 | doc_type:owners_manual
 
 auxiliary warning for obstacles in front of and
 behind the vehicle during parking and reversing,
@@ -18954,7 +17734,6 @@ sole measure for reversing safety. The driver is
 responsible for driving safety.
 
 ### The rearview camera provides a real-time
-`forthing_t5_sx3_en_ea4bb5ae` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:122 | doc_type:owners_manual
 
 display of the area behind the vehicle to assist
 the driver in reversing safely.
@@ -18970,7 +17749,6 @@ image:
 •
 
 ### Press the "DISP" button on the audio
-`forthing_t5_sx3_en_90eb223e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:122 | doc_type:owners_manual
 
 control panel to manually enable the reversing
 image, and press the button again to disable the
@@ -18982,7 +17760,6 @@ the R gear is disengaged, the system will be
 turned off automatically.
 
 ### The reversing camera is located above the rear license
-`forthing_t5_sx3_en_c13d65ce` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:122 | doc_type:owners_manual
 
 plate. The working range of the camera is very
 limited and it cannot capture objects near the
@@ -18992,7 +17769,6 @@ condition, and the distances shown on the
 screen may differ from the actual distances.
 
 ### The dynamic guide lines can assist the
-`forthing_t5_sx3_en_8bfa5c4c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:123 | doc_type:owners_manual
 
 driver in judging the reversing trajectory,
 which will be activated only after the steering
@@ -19001,7 +17777,6 @@ Caution
 •
 
 ### Caution the safety of the surroundings when
-`forthing_t5_sx3_en_7ea3197c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:123 | doc_type:owners_manual
 
 reversing, especially watching out for children
 and animals.
@@ -19013,7 +17788,6 @@ Adverse weather conditions such as haze, heavy
 rain, and darkness can affect reversing.
 
 ### Panoramic view *
-`forthing_t5_sx3_en_25efd09a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:123 | doc_type:owners_manual
 
 By
 installing
@@ -19031,7 +17805,6 @@ accidents.
 Caution
 
 ### The camera has functions similar to those of the human
-`forthing_t5_sx3_en_019560eb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:123 | doc_type:owners_manual
 
 eye, and has a limited ability to capture objects in
 conditions such as dusk, night, dawn, snow, rain, and
@@ -19040,7 +17813,6 @@ and the driver is always responsible for keeping a
 distance from any obstacle.
 
 ### Preconditions
-`forthing_t5_sx3_en_4db077bc` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:123 | doc_type:owners_manual
 
 for
 panoramic
@@ -19060,7 +17832,6 @@ monitor:
 •
 
 ### Press DISP button on the audio control
-`forthing_t5_sx3_en_c36db156` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:123 | doc_type:owners_manual
 
 panel to enable or disable the panoramic view.
 •
@@ -19084,7 +17855,6 @@ high-priority condition is triggered, the corresponding
 screen will switch automatically.
 
 ### Setting of panoramic view monitor function
-`forthing_t5_sx3_en_1c3322bb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:123 | doc_type:owners_manual
 
 Driving
 The
@@ -19112,7 +17882,6 @@ Under this view:
 1.
 
 ### The user can tap the area around the
-`forthing_t5_sx3_en_c5a401e4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:124 | doc_type:owners_manual
 
 vehicle model to switch the images of four
 cameras.
@@ -19128,7 +17897,6 @@ tapping on the single channel view area on the
 right.
 
 ### The function and warning distance of
-`forthing_t5_sx3_en_48286eee` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:124 | doc_type:owners_manual
 
 panoramic view static spoke line and dynamic spoke line
 are consistent with those of reversing image, and the width
@@ -19138,7 +17906,6 @@ The spoke lines are for reference only. Please refer to
 the actual environment.
 
 ### The semi-automatic parking assist system
-`forthing_t5_sx3_en_ddd2fe0e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:124 | doc_type:owners_manual
 
 utilizes 6 parking radar sensors in the front
 bumper and 6 reversing radar sensors in the rear
@@ -19164,7 +17931,6 @@ vertical
 parking-in and horizontal parking-out.
 
 ### When the semi-automatic parking system
-`forthing_t5_sx3_en_a9bc2834` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:124 | doc_type:owners_manual
 
 is activated, it automatically checks whether its
 functions are operating normally. If the system
@@ -19187,7 +17953,6 @@ ON
 •
 
 ### When the vehicle is in D gear and the
-`forthing_t5_sx3_en_ddf90669` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:124 | doc_type:owners_manual
 
 speed is less than 30 km/h, and there are no
 faults in
@@ -19199,7 +17964,6 @@ the parking function;
 •
 
 ### When the vehicle is in P gear and there
-`forthing_t5_sx3_en_eac959e1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:124 | doc_type:owners_manual
 
 are
 no
@@ -19235,7 +17999,6 @@ disabled;
 •
 
 ### When the vehicle speed is greater than 30
-`forthing_t5_sx3_en_ef6cb2b9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:124 | doc_type:owners_manual
 
 km/h during searching for a parking space, the
 semi-automatic
@@ -19256,7 +18019,6 @@ function will be deactivated.
 •
 
 ### The semi-automatic parking assist system is
-`forthing_t5_sx3_en_439adedb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:125 | doc_type:owners_manual
 
 merely an auxiliary tool. By scanning the
 parking space with radar, it can identify areas
@@ -19268,7 +18030,6 @@ no-parking zones and lanes.
 •
 
 ### Do not fully rely on the semi-auto parking assist
-`forthing_t5_sx3_en_0c368bf4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:125 | doc_type:owners_manual
 
 system. This system only assists parking and you
 still need to carefully observe the surrounding
@@ -19288,7 +18049,6 @@ travel.
 2.
 
 ### The physical detection performance of ultrasonic
-`forthing_t5_sx3_en_c347be98` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:125 | doc_type:owners_manual
 
 radar may result in some error in the detected
 size of parking spaces. There is also a possibility
@@ -19299,7 +18059,6 @@ length +0.8 m.
 •
 
 ### The semi-automatic parking assist system can
-`forthing_t5_sx3_en_912633d5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:125 | doc_type:owners_manual
 
 detect and park in a space with one or two valid
 obstacles, whether square or round, with a
@@ -19321,7 +18080,6 @@ space after leaving this parking space or you are
 about 15m away from this parking space.
 
 ### When the vehicle is in D gear and
-`forthing_t5_sx3_en_5e3540ac` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:125 | doc_type:owners_manual
 
 the speed is below 30 km/h, press the semi-auto
 parking hardware switch
@@ -19377,7 +18135,6 @@ will be a risk of scratching the vehicle due to sudden
 acceleration.
 
 ### Horizontal parking-out procedure
-`forthing_t5_sx3_en_86dd8d60` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:126 | doc_type:owners_manual
 
 1.
 When the vehicle is in P gear, press
@@ -19395,7 +18152,6 @@ displays the following prompt:
 2.
 
 ### Turn on the turn signal to select the
-`forthing_t5_sx3_en_2f99cf02` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:126 | doc_type:owners_manual
 
 parking-out direction. After selection, engage
 the R gear and release the steering wheel. The
@@ -19417,7 +18173,6 @@ vehicle.
 4.
 
 ### The automatic parking system has an
-`forthing_t5_sx3_en_9d1f3eeb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:126 | doc_type:owners_manual
 
 external fault.
 △Warning
@@ -19431,7 +18186,6 @@ easily identified correctly
 •
 
 ### Snow or heavy rain may make it impossible to
-`forthing_t5_sx3_en_01510d5e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:126 | doc_type:owners_manual
 
 accurately measure the parking area
 •
@@ -19441,7 +18195,6 @@ semi-auto parking system.
 •
 
 ### Do not use the semi-automatic parking system
-`forthing_t5_sx3_en_5a77a2e7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:126 | doc_type:owners_manual
 
 when the vehicle is equipped with tire chains or
 emergency spare tires.
@@ -19470,7 +18223,6 @@ the curb. If necessary, please turn off the
 semi-auto parking system.
 
 ### The cruise control system allows the
-`forthing_t5_sx3_en_e252fe56` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:126 | doc_type:owners_manual
 
 driver to keep the vehicle running at a preset
 speed higher than 40 km/h without depressing
@@ -19483,7 +18235,6 @@ strictly prohibited to use cruise control in
 winter.
 
 ### CAN: ACC suspension button
-`forthing_t5_sx3_en_e045a6f5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:suspension | p:127 | doc_type:owners_manual
 
 When this button is pressed, the vehicle
 will suspend its cruise mode. At this moment,
@@ -19491,7 +18242,6 @@ press \"RES+\" to enter the cruise mode again.
 2.
 
 ### Pull the adjustment button upward to
-`forthing_t5_sx3_en_f9faea5f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:127 | doc_type:owners_manual
 
 restore to the originally set speed or accelerate.
 Caution
@@ -19503,7 +18253,6 @@ suspend the cruise control function. Press the "RES+"
 button to restore the originally set speed.
 
 ### Depress the brake pedal
-`forthing_t5_sx3_en_0219f92b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:127 | doc_type:owners_manual
 
 5.
 The clutch pedal is not depressed.
@@ -19523,7 +18272,6 @@ suspended by any of the following methods:
 1.
 
 ### The cruise mode is only suspended in
-`forthing_t5_sx3_en_57983d6f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:127 | doc_type:owners_manual
 
 methods 1, 2, and 3, and can be resumed by
 pressing "RES+" button when conditions are
@@ -19536,14 +18284,12 @@ vehicle speed above 40 km/h, then pressing the
 "RES+" button again to re-enter cruising mode.
 
 ### When the button is pressed to disable the
-`forthing_t5_sx3_en_5c38c921` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:127 | doc_type:owners_manual
 
 cruise function, the cruise control system will
 be deactivated completely and the previous
 cruising speed will be canceled.
 
 ### Operate the RES+ or SETbutton to
-`forthing_t5_sx3_en_77c45f6b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:128 | doc_type:owners_manual
 
 increase/decrease the vehicle speed.
 2.
@@ -19563,7 +18309,6 @@ accelerator pedal. If the cruise conditions are still met,
 the vehicle will return to the preset cruising speed.
 
 ### With the adaptive cruise control system
-`forthing_t5_sx3_en_05de3b59` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:128 | doc_type:owners_manual
 
 (hereinafter referred to as ACC system), the
 vehicle can run at any speed within the range of
@@ -19578,7 +18323,6 @@ automatically switch between speed control
 and following distance control.
 
 ### Critical factors to note
-`forthing_t5_sx3_en_bbba1ae6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:128 | doc_type:owners_manual
 
 During driving,
 the ACC
@@ -19601,7 +18345,6 @@ safe driving.
 •
 
 ### The ACC system is suitable for expressways and
-`forthing_t5_sx3_en_820310a7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:safety | p:128 | doc_type:owners_manual
 
 roads in good condition, but not for urban or
 mountainous roads.
@@ -19628,7 +18371,6 @@ accident.
 •
 
 ### The ACC system can only adjust the distance
-`forthing_t5_sx3_en_821aa213` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:128 | doc_type:owners_manual
 
 from the vehicle running ahead. Generally, it
 cannot detect vehicles on other lanes or on other
@@ -19641,7 +18383,6 @@ ACC system will not respond.
 •
 
 ### The ACC system shall be temporarily turned off
-`forthing_t5_sx3_en_da537fb6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:128 | doc_type:owners_manual
 
 when the vehicle is running on a curved lane, an
 expressway
@@ -19662,7 +18403,6 @@ time and obey the speed limit rules.
 •
 
 ### The driver should set the cruise speed and
-`forthing_t5_sx3_en_b7eaf420` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:128 | doc_type:owners_manual
 
 following distance reasonably according to the
 current road, traffic and weather conditions. The
@@ -19679,7 +18419,6 @@ take over the vehicle at all times.
 •
 
 ### The ACC system cannot detect the objects
-`forthing_t5_sx3_en_fa02c295` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:128 | doc_type:owners_manual
 
 protruding from the side, rear end or roof of the
 target vehicle. If the vehicle ahead is equipped
@@ -19697,7 +18436,6 @@ appropriate.
 •
 
 ### Towing a trailer during driving will compromise
-`forthing_t5_sx3_en_df6a332d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:128 | doc_type:owners_manual
 
 the dynamic characteristics of the ACC system.
 •
@@ -19710,7 +18448,6 @@ ahead.
 •
 
 ### If ACC system has already stopped the vehicle
-`forthing_t5_sx3_en_e9d98ebc` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:128 | doc_type:owners_manual
 
 and ACC system has been released, turned off,
 or canceled, the vehicle will no longer remain
@@ -19725,7 +18462,6 @@ vehicle.
 •
 
 ### If an accident occurs during the use of this
-`forthing_t5_sx3_en_f7455988` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:128 | doc_type:owners_manual
 
 function, the driver shall deactivate the current
 Driving
@@ -19744,7 +18480,6 @@ operation, and the engine needs to be restarted.
 •
 
 ### The driver can depress the accelerator pedal at
-`forthing_t5_sx3_en_6f76948a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:129 | doc_type:owners_manual
 
 any time to increase the vehicle speed. After the
 accelerator pedal is released, this device will
@@ -19765,7 +18500,6 @@ Caution
 •
 
 ### After replacement of the front-view camera and
-`forthing_t5_sx3_en_28200a07` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:129 | doc_type:owners_manual
 
 front windshield, four-wheel alignment, body
 and chassis modification or other operations that
@@ -19780,7 +18514,6 @@ cannot work normally.
 •
 
 ### In order not to affect the performance of the
-`forthing_t5_sx3_en_fe15eb02` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:129 | doc_type:owners_manual
 
 camera, the detecting part of the camera shall not
 be blocked by foreign matters (such as labels and
@@ -19795,14 +18528,12 @@ system.
 •
 
 ### The operation of the system may also be
-`forthing_t5_sx3_en_9d9a39e5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:129 | doc_type:owners_manual
 
 restricted in case of snow, heavy rain, heavy fog
 or accumulated water on the road.
 •
 
 ### Structural tuning of the vehicle may deteriorate
-`forthing_t5_sx3_en_83ca4a1f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:129 | doc_type:owners_manual
 
 the ACC system functions.
 •
@@ -19813,7 +18544,6 @@ instrument cluster will display a prompt, as
 shown in the figure below:
 
 ### ACC working indicator
-`forthing_t5_sx3_en_44102b10` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:129 | doc_type:owners_manual
 
 illuminates and
 turns green. At the same time, the display
@@ -19835,7 +18565,6 @@ Brake pedal is not depressed.
 6.
 
 ### The vehicle speed is lower than 30
-`forthing_t5_sx3_en_27dbb0b0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:129 | doc_type:owners_manual
 
 km/h.
 7.
@@ -19851,7 +18580,6 @@ Button
 shows that the ACC system is in standby state.
 
 ### When the standby mode of the ACC system is
-`forthing_t5_sx3_en_27eb81b3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:129 | doc_type:owners_manual
 
 normal and the vehicle speed is greater than 30
 km/h, push down the steering wheel button to
@@ -19866,7 +18594,6 @@ the cruising speed.
 6.
 
 ### If the ACC system is in standby mode and
-`forthing_t5_sx3_en_1177170c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:130 | doc_type:owners_manual
 
 a cruising speed is saved, pulling the button in
 this direction will activate the saved speed,
@@ -19885,7 +18612,6 @@ increments of 10 km/h.
 3.
 
 ### CAN: Press this button or depress the
-`forthing_t5_sx3_en_65c8a5b0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:130 | doc_type:owners_manual
 
 brake pedal to temporarily disable the ACC
 system function.
@@ -19913,7 +18639,6 @@ Press
 to increase the distance.
 
 ### Cruising speed setting: When the ACC
-`forthing_t5_sx3_en_0e236c24` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:130 | doc_type:owners_manual
 
 system is not disabled, the cruising speed set by
 the driver can be saved. After the ACC system
@@ -19923,7 +18648,6 @@ temporarily deactivated, press the RES+ button
 to readjust the saved speed.
 
 ### Automatic following start and following stop
-`forthing_t5_sx3_en_fd4c2697` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:130 | doc_type:owners_manual
 
 On a congested urban road section, ACC
 system can control the vehicle to follow the
@@ -19933,13 +18657,11 @@ will control the vehicle to automatically follow.
 If the vehicle ahead stops for a long time, press
 
 ### Please use the ACC system cautiously when driving on
-`forthing_t5_sx3_en_10a60654` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:130 | doc_type:owners_manual
 
 congested urban roads. If necessary, the driver should
 intervene and take over the vehicle.
 
 ### ACC system state and cruise speed
-`forthing_t5_sx3_en_8a5f24e3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:130 | doc_type:owners_manual
 
 1.
 Schematic
@@ -19964,7 +18686,6 @@ the icon for the vehicle ahead.
 △Warning
 
 ### The driver can identify the distance from
-`forthing_t5_sx3_en_7b407a6f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:131 | doc_type:owners_manual
 
 the vehicle ahead based on the color and scale.
 The following distance is set to short.
@@ -19979,7 +18700,6 @@ to
 ultra-long.
 
 ### The driver can determine the current
-`forthing_t5_sx3_en_2faf3fa5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:131 | doc_type:owners_manual
 
 operating state of the ACC system and the
 cruise speed based on the symbol color and the
@@ -19998,7 +18718,6 @@ enabled, but its operating
 conditions are not met.
 
 ### Green flashing of the state
-`forthing_t5_sx3_en_4e304894` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:132 | doc_type:owners_manual
 
 icon
 on
@@ -20017,7 +18736,6 @@ be
 completed.
 
 ### No set speed on the display
-`forthing_t5_sx3_en_c933d972` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:132 | doc_type:owners_manual
 
 interface at present: If the
 set speed exceeds the limit
@@ -20055,7 +18773,6 @@ operations.
 4.
 
 ### Other prompts on the instrument
-`forthing_t5_sx3_en_e04b46bb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:132 | doc_type:owners_manual
 
 cluster
 Under some working conditions, text
@@ -20081,7 +18798,6 @@ restore ACC system.
 △Warning
 
 ### If the instrument cluster display interface is inconsistent
-`forthing_t5_sx3_en_832562e5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:132 | doc_type:owners_manual
 
 with the actual situation observed by the driver, the
 driver shall take over control and drive the vehicle
@@ -20095,13 +18811,11 @@ The sensor is blocked.
 2.
 
 ### The driver is required to take measures by
-`forthing_t5_sx3_en_3a71736f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:132 | doc_type:owners_manual
 
 himself/herself to adjust the driving mode, and
 be responsible for handling the situation.
 
 ### As the ACC system can only provide 40%
-`forthing_t5_sx3_en_d4c6220c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:132 | doc_type:owners_manual
 
 of the maximum braking force of the vehicle, under
 certain driving conditions, its deceleration capability is not
@@ -20110,7 +18824,6 @@ In these emergencies, it is required to apply the
 brake in time as a driver.
 
 ### If the driver needs to take measures by
-`forthing_t5_sx3_en_49ea983e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:132 | doc_type:owners_manual
 
 himself/herself, ACC system will give visual
 and audible instructions to the driver:
@@ -20136,7 +18849,6 @@ Caution
 •
 
 ### If a vehicle ahead suddenly brakes (emergency
-`forthing_t5_sx3_en_5d8d8ccb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:133 | doc_type:owners_manual
 
 stop), the ACC system may fail to respond or
 react quickly enough, creating a risk of not
@@ -20150,7 +18862,6 @@ distance from the vehicle ahead.
 •
 
 ### After the system requires the driver to take over
-`forthing_t5_sx3_en_1ec060ea` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:133 | doc_type:owners_manual
 
 the vehicle, if the vehicle continues to move, the
 driver must depress the brake pedal to apply
@@ -20159,7 +18870,6 @@ Caution
 •
 
 ### If the vehicle speed exceeds the set value by
-`forthing_t5_sx3_en_26eed734` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:133 | doc_type:owners_manual
 
 depressing the accelerator pedal, the driver will
 not receive a takeover request.
@@ -20169,7 +18879,6 @@ on the same lane and the driver may lose
 control of the vehicle or have an accident.
 
 ### Please pay close attention and be ready to take
-`forthing_t5_sx3_en_b06630b5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:133 | doc_type:owners_manual
 
 over at any time.
 Caution
@@ -20182,7 +18891,6 @@ instrument cluster.
 1.
 
 ### Vehicle entering/exiting a curve
-`forthing_t5_sx3_en_df2b9d5d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:133 | doc_type:owners_manual
 
 The
 ACC
@@ -20197,7 +18905,6 @@ vehicle by yourself.
 2.
 
 ### When the followed target vehicle leaves
-`forthing_t5_sx3_en_9babb274` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:133 | doc_type:owners_manual
 
 the expressway or turns, the ACC system will
 lose
@@ -20210,7 +18917,6 @@ automatically.
 •
 
 ### For a vehicle traveling on an expressway
-`forthing_t5_sx3_en_780f6271` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:133 | doc_type:owners_manual
 
 ramp, the system may lose the target due to an
 excessive
@@ -20227,7 +18933,6 @@ pedal or pressing the cruise control lever.
 3.
 
 ### Vehicle traveling in narrow lane
-`forthing_t5_sx3_en_29768811` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:133 | doc_type:owners_manual
 
 The
 ACC
@@ -20241,7 +18946,6 @@ vehicle.
 4.
 
 ### The ACC system cannot guarantee the
-`forthing_t5_sx3_en_93b00868` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:133 | doc_type:owners_manual
 
 detection of all types of vehicles on the driving
 Driving
@@ -20255,7 +18959,6 @@ when driving.
 5.
 
 ### When another vehicle is suddenly cutting
-`forthing_t5_sx3_en_ddaaf654` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:134 | doc_type:owners_manual
 
 in laterally in front of the vehicle, ACC system
 may not be able to control the vehicle quickly
@@ -20273,7 +18976,6 @@ Vehicle difficult to identify (motorcycle,
 bicycle, etc.)
 
 ### When the target vehicle followed by the
-`forthing_t5_sx3_en_32d17f8a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:134 | doc_type:owners_manual
 
 subject vehicle makes a U-turn or right-angle
 turn, the sensor will lose the target and the
@@ -20288,7 +18990,6 @@ over at any time.
 7.
 
 ### When the target vehicle followed by the
-`forthing_t5_sx3_en_2208889b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:134 | doc_type:owners_manual
 
 subject vehicle passes through an intersection,
 the driver shall pay attention to the change of
@@ -20297,7 +18998,6 @@ necessary to avoid violating traffic rules.
 8.
 
 ### When the target vehicle makes a U-turn
-`forthing_t5_sx3_en_d55ac761` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:134 | doc_type:owners_manual
 
 or right-angle turn
 If the vehicle ahead, which is behind a
@@ -20308,7 +19008,6 @@ vehicle if necessary.
 9.
 
 ### When the target vehicle followed by the
-`forthing_t5_sx3_en_2208889b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:134 | doc_type:owners_manual
 
 subject vehicle passes through an intersection,
 the driver shall pay attention to the change of
@@ -20317,7 +19016,6 @@ necessary to avoid violating traffic rules.
 10.
 
 ### Stationary vehicles
-`forthing_t5_sx3_en_1846a611` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:134 | doc_type:owners_manual
 
 Driving
 If the vehicle ahead, which is behind a
@@ -20327,14 +19025,12 @@ brake and the driver shall take control of the
 vehicle if necessary.
 
 ### The BSD system utilizes 6 parking radar
-`forthing_t5_sx3_en_8c7d7329` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:135 | doc_type:owners_manual
 
 sensors in the front bumper and 6 reversing
 radar sensors in the rear bumper to monitor
 conditions around the vehicle.
 
 ### When the Start switch is put to "ON"
-`forthing_t5_sx3_en_b62aaf0f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:135 | doc_type:owners_manual
 
 position,
 the
@@ -20357,7 +19053,6 @@ rearview mirrors will flash for 6s before going
 out.
 
 ### When the Start switch is put to "ON"
-`forthing_t5_sx3_en_c18207be` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:135 | doc_type:owners_manual
 
 position, the BSD function is activated by
 default. If the user disables SVA function
@@ -20365,7 +19060,6 @@ through switch setting, the BSD system will be
 completely deactivated.
 
 ### The BSD system can be disabled both in
-`forthing_t5_sx3_en_0736cd5c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:135 | doc_type:owners_manual
 
 the activated and deactivated states (e.g., gear
 position,
@@ -20385,7 +19079,6 @@ alarm to the driver beyond this speed or steering
 angle range.
 
 ### The BSD indicator is installed on the
-`forthing_t5_sx3_en_6fea0df3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:135 | doc_type:owners_manual
 
 rearview mirror. If a vehicle is detected in the
 blind spot, the indicator will stay on.
@@ -20406,7 +19099,6 @@ into
 categories:
 
 ### Level II alarm: If the turn signal is turned
-`forthing_t5_sx3_en_31569e78` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:135 | doc_type:owners_manual
 
 on and there is a vehicle in the blind spot, the
 alarm indicator will start to flash at a frequency
@@ -20421,7 +19113,6 @@ m on the left and right sides behind the vehicle.
 •
 
 ### The BSD system is only used as a warning
-`forthing_t5_sx3_en_7b3c986d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:136 | doc_type:owners_manual
 
 assistance for vehicles in the 3 m×3 m area on
 both sides behind the vehicle during lane change,
@@ -20438,7 +19129,6 @@ ensuring safe driving.
 Caution
 
 ### The following factors may impair the BSD system’s
-`forthing_t5_sx3_en_41b00128` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:136 | doc_type:owners_manual
 
 capability to detect or may lead to poor detection:
 a)
@@ -20451,7 +19141,6 @@ vehicle accelerates and decelerates rapidly.
 c)
 
 ### Noise may be generated when air flows around
-`forthing_t5_sx3_en_0c198643` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:136 | doc_type:owners_manual
 
 the corners of the vehicle body or through the
 funnel-shaped bracket of the sensor. Increased
@@ -20468,7 +19157,6 @@ Motorcycle.
 g)
 
 ### Interference from other ultrasonic noise sources
-`forthing_t5_sx3_en_bd1067e8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:136 | doc_type:owners_manual
 
 (e.g. other vehicles with the ultrasonic system
 on).
@@ -20478,7 +19166,6 @@ warning
 system
 
 ### The FCW system detects the vehicle's
-`forthing_t5_sx3_en_b5f4b22b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:136 | doc_type:owners_manual
 
 distance and speed relative to the vehicle and
 pedestrians
@@ -20516,7 +19203,6 @@ independent judgment and apply the brakes
 without relying too heavily on the alarm.
 
 ### The FCW system may not send an alarm
-`forthing_t5_sx3_en_166d2d2a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:136 | doc_type:owners_manual
 
 prompt in time due to its limited response
 capability. For example, when a vehicle ahead
@@ -20526,7 +19212,6 @@ enters the driving lane, it may not be able to
 give an alarm in time.
 
 ### Description of system detection capability
-`forthing_t5_sx3_en_aaf92fa9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:136 | doc_type:owners_manual
 
 limitation
 1.
@@ -20542,7 +19227,6 @@ when they are detected.
 2.
 
 ### FCW system can only detect regular
-`forthing_t5_sx3_en_4d4029e4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:136 | doc_type:owners_manual
 
 vehicles that have obtained license plates and
 are legally driving on the road.
@@ -20593,7 +19277,6 @@ Driving
 7.
 
 ### The FCW system requires sufficient
-`forthing_t5_sx3_en_b9d420d6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:137 | doc_type:owners_manual
 
 contrast
 between
@@ -20616,7 +19299,6 @@ with the clothes worn, are too low, carry large
 objects, have poor contrast, etc.
 
 ### Constraints of traffic environment on system
-`forthing_t5_sx3_en_3b65895e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:137 | doc_type:owners_manual
 
 safety
 1.
@@ -20634,7 +19316,6 @@ the FCW system may not identify vehicles in
 time, resulting in alarm delay.
 
 ### Description of system operation buttons
-`forthing_t5_sx3_en_f5f6c504` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:137 | doc_type:owners_manual
 
 In
 the
@@ -20659,13 +19340,11 @@ the "Forward Collision Warning Sensitivity"
 option.
 
 ### FCW system is automatically turned on
-`forthing_t5_sx3_en_e2280c57` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:137 | doc_type:owners_manual
 
 when the vehicle is started, and it is not
 recommended for users to turn off the system.
 
 ### The FCW system supports sensitivity
-`forthing_t5_sx3_en_b871830d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:137 | doc_type:owners_manual
 
 adjustment, which is divided into three levels:
 normal, advance and delay.
@@ -20675,7 +19354,6 @@ function is turned on by default after it is started,
 and the sensitivity can be memorized.
 
 ### Description of instrument cluster display
-`forthing_t5_sx3_en_79c15621` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:137 | doc_type:owners_manual
 
 When the FCW system is triggered, a
 warning
@@ -20702,7 +19380,6 @@ Severe weather.
 3.
 
 ### Description of system restraint conditions
-`forthing_t5_sx3_en_0748c72a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:137 | doc_type:owners_manual
 
 When any inhibition condition is met, the
 FCW system will not be triggered. It aims to let
@@ -20723,7 +19400,6 @@ or the steering angle is too large.
 2.
 
 ### Description of factors affecting calibration
-`forthing_t5_sx3_en_f9a8391b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:137 | doc_type:owners_manual
 
 After
 replacement
@@ -20747,7 +19423,6 @@ otherwise, the system performance will be
 reduced or the system cannot work normally.
 
 ### The camera sensor area on the front
-`forthing_t5_sx3_en_3d3d7175` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:137 | doc_type:owners_manual
 
 windshield will be blocked by ice, snow and
 dust. This area shall be cleaned for proper
@@ -20756,7 +19431,6 @@ operation of the FCW system.
 2.
 
 ### The working range of AEB system is
-`forthing_t5_sx3_en_473c6fd3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:138 | doc_type:owners_manual
 
 8~75km/h. This system detects the distance and
 relative speed between vehicle and other
@@ -20777,7 +19451,6 @@ to reduce the severity of an accident.
 •
 
 ### The AEB system is an active safety assistance
-`forthing_t5_sx3_en_0d746a5d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:138 | doc_type:owners_manual
 
 system, but it cannot completely avoid collision
 with the vehicle or pedestrian ahead. If the
@@ -20791,13 +19464,11 @@ distance from the vehicle ahead and pedestrians.
 •
 
 ### If an accident occurs during the use of this
-`forthing_t5_sx3_en_8e8dd2d0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:138 | doc_type:owners_manual
 
 function, the driver shall deactivate the current
 system in time and take over the vehicle actively.
 
 ### The response and braking capacity
-`forthing_t5_sx3_en_1214f3d6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:138 | doc_type:owners_manual
 
 of AEB system are limited, so there may not be
 enough time and braking force to reduce the
@@ -20810,13 +19481,11 @@ avoided.
 2.
 
 ### Always pay full attention when
-`forthing_t5_sx3_en_b44760d7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:138 | doc_type:owners_manual
 
 driving the vehicle, and be ready to deal with
 unexpected situations at all times.
 
 ### The AEB system is usually in the
-`forthing_t5_sx3_en_61ca35ac` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:138 | doc_type:owners_manual
 
 background working state and will not be
 detected by the driver, so the relevant target
@@ -20842,7 +19511,6 @@ and crossing ahead.
 4.
 
 ### AEB system is a driver assistance
-`forthing_t5_sx3_en_1ea368c5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:138 | doc_type:owners_manual
 
 system, but it cannot detect vehicles under all
 conditions, for example, when the rear of the
@@ -20873,7 +19541,6 @@ possible.
 7.
 
 ### The AEB system requires sufficient
-`forthing_t5_sx3_en_a2943f27` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:138 | doc_type:owners_manual
 
 contrast
 between
@@ -20909,7 +19576,6 @@ worn, are too low, carry large objects, have
 poor contrast, etc.
 
 ### The system may not be able to
-`forthing_t5_sx3_en_ead6cef4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:138 | doc_type:owners_manual
 
 detect a vehicle ahead when the subject vehicle
 is on a curved road or slope, or when the sensor
@@ -20930,7 +19596,6 @@ Driving
 resulting in delay of emergency braking.
 
 ### Braking Function" soft switch in the "Driving
-`forthing_t5_sx3_en_c5747e42` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:139 | doc_type:owners_manual
 
 Assist" tab of the instrument cluster.
 △Warning
@@ -20944,7 +19609,6 @@ flashes in red; when AEB is deactivated,
 the AEB indicator stays on in yellow.
 
 ### The AEB system is turned on by default
-`forthing_t5_sx3_en_16edfaf2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:139 | doc_type:owners_manual
 
 every time the vehicle is started, and it is not
 recommended that the user turn off the AEB
@@ -20956,7 +19620,6 @@ on the instrument cluster at the same time, and
 an audible alarm signal will be given.
 
 ### Description of automatic system release prompt
-`forthing_t5_sx3_en_6fd404b9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:139 | doc_type:owners_manual
 
 AEB
 system
@@ -20977,7 +19640,6 @@ system works abnormally or is turned off.
 4.
 
 ### AEB system will not be triggered when
-`forthing_t5_sx3_en_767bb106` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:139 | doc_type:owners_manual
 
 any of the following inhibition conditions is
 met:
@@ -20998,7 +19660,6 @@ control": The driver depresses the accelerator
 pedal too hard.
 
 ### Description of system interruption conditions
-`forthing_t5_sx3_en_d9966b97` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:139 | doc_type:owners_manual
 
 1.
 The
@@ -21018,7 +19679,6 @@ pedal too hard.
 3.
 
 ### When the speed drops below the
-`forthing_t5_sx3_en_a695b18a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:139 | doc_type:owners_manual
 
 threshold of 40 km/h, AEB stops automatic
 braking.
@@ -21032,7 +19692,6 @@ identifiable lane lines at a speed greater than or
 equal to 60 km/h, the LDW system is activated.
 
 ### When the vehicle deviates from the lane
-`forthing_t5_sx3_en_ecf956f1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:139 | doc_type:owners_manual
 
 unconsciously, the LDW system gives an
 audible and visual alarm to remind the driver to
@@ -21046,7 +19705,6 @@ snow and dust. Therefore, keep the camera clean.
 •
 
 ### Access the system settings through the
-`forthing_t5_sx3_en_d61dac6a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:139 | doc_type:owners_manual
 
 "Driving Assist" menu on the instrument
 cluster. LDW is enabled by default, and the
@@ -21057,7 +19715,6 @@ the Start/Start switch is placed in OFF position
 last time.
 
 ### Function condition description
-`forthing_t5_sx3_en_1b39ee30` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:139 | doc_type:owners_manual
 
 •
 After the function is enabled, if the
@@ -21073,7 +19730,6 @@ automatically enter the activated state.
 •
 
 ### When the turn signals (or hazard lights)
-`forthing_t5_sx3_en_7cecc33f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:139 | doc_type:owners_manual
 
 are turned on, the system warning function will
 be deactivated; when the turn signals (or hazard
@@ -21089,7 +19745,6 @@ warning will be given in a delayed manner.
 •
 
 ### LDW: When the vehicle is on a narrow
-`forthing_t5_sx3_en_6f6626fe` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:140 | doc_type:owners_manual
 
 lane (2.5 m < lane width < 3.0 m), the system
 will enter the narrow lane adaptation mode, and
@@ -21102,7 +19757,6 @@ indicator will turn off.
 •
 
 ### When the LDW system is turned on but
-`forthing_t5_sx3_en_c91054f1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:140 | doc_type:owners_manual
 
 not activated, the lane departure indicator
 stays on in white.
@@ -21121,7 +19775,6 @@ instrument cluster displays the lane departure
 warning system information.
 
 ### Lane line detected
-`forthing_t5_sx3_en_b8713ae9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:140 | doc_type:owners_manual
 
 •
 When the left lane line is detected, the left
@@ -21139,7 +19792,6 @@ the left and right lane lines on the main
 interface are displayed in white.
 
 ### No lane line detected
-`forthing_t5_sx3_en_628c21ab` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:140 | doc_type:owners_manual
 
 •
 No lane line is detected, and the left and
@@ -21153,7 +19805,6 @@ turns yellow, and the buzzer sounds three times.
 •
 
 ### When the right lane departure alarm is
-`forthing_t5_sx3_en_a7c393f2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:140 | doc_type:owners_manual
 
 triggered, the right lane line on the main
 interface turns yellow, and the buzzer sounds
@@ -21166,7 +19817,6 @@ to control the driving direction of the vehicle by
 herself/himself.
 
 ### The LDW system is only an auxiliary
-`forthing_t5_sx3_en_7dd60067` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:140 | doc_type:owners_manual
 
 warning system. The driver should always pay
 attention
@@ -21193,7 +19843,6 @@ for
 controlling the vehicle.
 
 ### The function will be limited under the
-`forthing_t5_sx3_en_d75f5cc7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:140 | doc_type:owners_manual
 
 following conditions. If LDW system does not
 operate normally due to poor driving conditions,
@@ -21208,7 +19857,6 @@ other weather with low visibility.
 3.
 
 ### When the sight of the camera is
-`forthing_t5_sx3_en_cfd85418` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:141 | doc_type:owners_manual
 
 blocked due to too close distance from the front
 vehicle.
@@ -21226,7 +19874,6 @@ construction zones.
 8.
 
 ### Warning sensitivity
-`forthing_t5_sx3_en_c9cac59a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:141 | doc_type:owners_manual
 
 LDW
 supports
@@ -21242,7 +19889,6 @@ affecting system sensitivity:
 1.
 
 ### Removal and installation of interior
-`forthing_t5_sx3_en_cc06d313` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:141 | doc_type:owners_manual
 
 rearview mirrors.
 2.
@@ -21262,7 +19908,6 @@ system needs to be recalibrated; otherwise, it
 cannot work normally.
 
 ### Lane keeping assist (LKA) system *
-`forthing_t5_sx3_en_0de93959` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:141 | doc_type:owners_manual
 
 The
 lane
@@ -21279,7 +19924,6 @@ the curvature of lane line is not too large.
 •
 
 ### LKA system is a comfort system and does not
-`forthing_t5_sx3_en_abd453b4` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:141 | doc_type:owners_manual
 
 have the ability to deal with special driving
 conditions such as complex traffic conditions or
@@ -21289,7 +19933,6 @@ fully responsible for the vehicle.
 •
 
 ### LKA system can assist the driver but cannot
-`forthing_t5_sx3_en_b8a9a32c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:141 | doc_type:owners_manual
 
 replace the driver for driving. Even if LKA
 system is activated, the driver must drive
@@ -21298,14 +19941,12 @@ operate the steering wheel for a short time, but it
 will automatically exit if the time is too long.
 
 ### If an accident occurs during the use of this
-`forthing_t5_sx3_en_76944df6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:141 | doc_type:owners_manual
 
 function, the driver shall exit the current system
 in time and take over the vehicle actively.
 Statement
 
 ### The steering capability of LKA system is
-`forthing_t5_sx3_en_0d7e6fac` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:141 | doc_type:owners_manual
 
 limited, and it cannot guarantee that the vehicle
 can pass through curves with any curvature
@@ -21315,7 +19956,6 @@ over the steering wheel when driving through a
 curve.
 
 ### LKA system can only detect lane lines
-`forthing_t5_sx3_en_6cdd8dc8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:141 | doc_type:owners_manual
 
 and curbs with a certain contrast. For fuzzy or
 stained lane lines,
@@ -21328,7 +19968,6 @@ detection may cause function exit or abnormal
 steering.
 
 ### LKA system may not work normally
-`forthing_t5_sx3_en_b6f8d0e0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:141 | doc_type:owners_manual
 
 under the following conditions:
 1.
@@ -21347,7 +19986,6 @@ When driving towards strong light;
 7.
 
 ### The vehicle is driving in complex
-`forthing_t5_sx3_en_3a045628` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:142 | doc_type:owners_manual
 
 situations
 such
@@ -21370,14 +20008,12 @@ bumpy or uneven.
 △Warning
 
 ### The master switch of the LKA system is
-`forthing_t5_sx3_en_7c1abd94` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:142 | doc_type:owners_manual
 
 located on the instrument panel switch set.
 Press
 to activate or deactivate the system.
 
 ### When the lane LKA system master switch
-`forthing_t5_sx3_en_e2c95c3a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:142 | doc_type:owners_manual
 
 is pressed, the LKA indicator
 on the
@@ -21404,7 +20040,6 @@ ESP is free of fault.
 4.
 
 ### ESP local function is not activated
-`forthing_t5_sx3_en_b58bc381` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:142 | doc_type:owners_manual
 
 5.
 The transmission is free of fault.
@@ -21420,7 +20055,6 @@ the vehicle speed is lower than 65 km/h, or
 other exit conditions are met.
 
 ### Press the LKA button when the
-`forthing_t5_sx3_en_04bd6cda` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:142 | doc_type:owners_manual
 
 LKA system is enabled.
 2.
@@ -21448,7 +20082,6 @@ instrument cluster stays off.
 2.
 
 ### LKA working indicator on the instrument
-`forthing_t5_sx3_en_ba154ae0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:142 | doc_type:owners_manual
 
 cluster stays on in white.
 3.
@@ -21464,7 +20097,6 @@ on the instrument cluster flashes in green (and a
 takeover request is sent at the same time).
 
 ### Right lane Line
-`forthing_t5_sx3_en_220f38f3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:142 | doc_type:owners_manual
 
 •
 No lane line is detected, and the left and
@@ -21486,7 +20118,6 @@ the left and right lane lines on the main
 interface are displayed in white.
 
 ### Description of system takeover prompt
-`forthing_t5_sx3_en_8b70fafa` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:143 | doc_type:owners_manual
 
 In the following cases, the instrument
 cluster
@@ -21505,7 +20136,6 @@ more than a certain period of time.
 •
 
 ### If the system detects that the driver has not been
-`forthing_t5_sx3_en_5182fbda` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:143 | doc_type:owners_manual
 
 holding the steering wheel for a period of time,
 the instrument cluster will display "Please
@@ -21522,7 +20152,6 @@ vehicle.
 •
 
 ### If the driver actively controls the steering
-`forthing_t5_sx3_en_9ac57546` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:143 | doc_type:owners_manual
 
 wheel to change direction or turns on the turn
 signal to prepare for lane changing when LKA
@@ -21533,7 +20162,6 @@ and stays near the lane centerline, the LKA
 system will be restarted.
 
 ### Functional limitations
-`forthing_t5_sx3_en_89c68a36` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:143 | doc_type:owners_manual
 
 Under certain traffic road conditions, the
 LKA system cannot respond well, resulting in
@@ -21544,7 +20172,6 @@ following:
 1.
 
 ### When there is an obvious interference line
-`forthing_t5_sx3_en_4decd60d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:143 | doc_type:owners_manual
 
 on the road in front of the vehicle, the LKA
 system
@@ -21562,7 +20189,6 @@ Driving
 2.
 
 ### No lane line at the intersection
-`forthing_t5_sx3_en_8cd4ca34` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:144 | doc_type:owners_manual
 
 When
 the
@@ -21579,7 +20205,6 @@ at the intersection.
 Lane line convergence.
 
 ### When the vehicle travels to the lane line
-`forthing_t5_sx3_en_5596ab2a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:144 | doc_type:owners_manual
 
 convergence position, the LKA system may
 exit because it identifies that the vehicle cannot
@@ -21589,7 +20214,6 @@ ahead.
 Expressway ramp.
 
 ### When the vehicle runs to an expressway
-`forthing_t5_sx3_en_546dc112` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:144 | doc_type:owners_manual
 
 ramp, the LKA system may be deactivated due
 to a reduced speed lower than the effective one
@@ -21599,7 +20223,6 @@ excessive ramp curvature or unclear lane line.
 Lane line blocked vehicle ahead.
 
 ### When there is a vehicle running close
-`forthing_t5_sx3_en_ba492aa6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:144 | doc_type:owners_manual
 
 ahead of the vehicle and blocking the lane line
 ahead, the LKA system may exit due to
@@ -21612,7 +20235,6 @@ to identify clear lane lines.
 7. The lane ahead is too curved or narrow.
 
 ### When the lane ahead is too wide or
-`forthing_t5_sx3_en_23f5b403` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:steering | p:144 | doc_type:owners_manual
 
 narrow, the LKA system may judge that the
 width of the lane ahead does not meet the
@@ -21633,7 +20255,6 @@ abnormal lane identification caused by severe
 vehicle bumpiness.
 
 ### The IHC system detects the headlights of
-`forthing_t5_sx3_en_704f1b18` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:145 | doc_type:owners_manual
 
 oncoming vehicles or the taillights of vehicles
 ahead using the camera sensor located at the
@@ -21654,7 +20275,6 @@ factors such as street lights.
 •
 
 ### Do not stick any substance on the windshield in
-`forthing_t5_sx3_en_2f467e71` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:145 | doc_type:owners_manual
 
 front of the camera sensor, which may reduce the
 effectiveness or cause the system to stop
@@ -21669,7 +20289,6 @@ identification.
 3.
 
 ### Constraints of traffic environment on system
-`forthing_t5_sx3_en_1bb28e30` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:145 | doc_type:owners_manual
 
 safety
 1.
@@ -21686,7 +20305,6 @@ etc.).
 3.
 
 ### When there are highly reflective
-`forthing_t5_sx3_en_b37a4ff0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:145 | doc_type:owners_manual
 
 objects near the road (such as traffic signs), the
 system may not work normally.
@@ -21698,7 +20316,6 @@ beam" soft switch in the "Driving Assistance"
 tab on the instrument cluster setting page.
 
 ### Description of System Use Mode
-`forthing_t5_sx3_en_cedaa9ca` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:145 | doc_type:owners_manual
 
 The
 system
@@ -21711,7 +20328,6 @@ following conditions are met simultaneously.
 1.
 
 ### Removal and installation of interior
-`forthing_t5_sx3_en_381f15ca` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:145 | doc_type:owners_manual
 
 rearview mirrors.
 2.
@@ -21733,7 +20349,6 @@ the system performance will be reduced or the
 system cannot work normally.
 
 ### The camera sensor on the upper edge of
-`forthing_t5_sx3_en_bb8c379b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:145 | doc_type:owners_manual
 
 the front windshield in front of the interior
 rearview mirror may be blocked by ice, snow or
@@ -21745,7 +20360,6 @@ Adverse
 Weather
 
 ### Driving tips
-`forthing_t5_sx3_en_f2564fd3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:145 | doc_type:owners_manual
 
 When driving in wet conditions like rain,
 snow, and fog, make sure to reduce speed,
@@ -21774,7 +20388,6 @@ windshield, avoid wiping the glass while
 driving to prevent distraction-related accidents.
 
 ### A clear and unobstructed field of vision is
-`forthing_t5_sx3_en_6cce6ba1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:146 | doc_type:owners_manual
 
 crucial
 for
@@ -21800,7 +20413,6 @@ washer frequently. Make sure that a proper amount
 of washer fluid is stored in the washer reservoir.
 
 ### Regularly check the tire wear and tire
-`forthing_t5_sx3_en_f11bf1b2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:146 | doc_type:owners_manual
 
 pressure, as both are crucial in preventing the
 vehicle from "slipping" (losing traction on wet
@@ -21821,7 +20433,6 @@ suddenly without any warning, causing the
 vehicle to slip.
 
 ### Press the red switch below the multimedia
-`forthing_t5_sx3_en_1920293b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:147 | doc_type:owners_manual
 
 display to activate the hazard warning light. At
 this time, all turn signals outside the vehicle and
@@ -21831,7 +20442,6 @@ passing vehicles that your vehicle is in an
 abnormal state.
 
 ### Warning triangle
-`forthing_t5_sx3_en_7dde6d04` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:147 | doc_type:owners_manual
 
 In case of an accident while driving, pull
 over to the right side as safely as possible. Take
@@ -21843,7 +20453,6 @@ accidents. Also, remember to activate the
 hazard warning lights.
 
 ### Park the vehicle in a place where the
-`forthing_t5_sx3_en_709a4cda` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:147 | doc_type:owners_manual
 
 traffic flow is little and it is convenient to
 replace the wheel safety. Before replacing a
@@ -21853,7 +20462,6 @@ an appropriate distance according to the road
 conditions to avoid traffic accidents.
 
 ### The on-board tools are located in the
-`forthing_t5_sx3_en_4efed175` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:147 | doc_type:owners_manual
 
 clamping foam at the lower layer of the trunk.
 Take out the tools from the clamping foam.
@@ -21869,7 +20477,6 @@ nut
 wrench
 
 ### Pull out the steel cable fixing bracket from the
-`forthing_t5_sx3_en_b1c37490` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:148 | doc_type:owners_manual
 
 center of the spare tire hub, and remove the
 spare tire.
@@ -21883,7 +20490,6 @@ clockwise to retract the cable fixing bracket
 until it is fully secured in position.
 
 ### Jack the vehicle
-`forthing_t5_sx3_en_f7f60af0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:148 | doc_type:owners_manual
 
 Before
 jacking
@@ -21903,7 +20509,6 @@ the vehicle body may be sunken or accidents may occur
 when the vehicle body falls.
 
 ### Remove the wheel nuts with a wheel nut
-`forthing_t5_sx3_en_8061cd1b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:148 | doc_type:owners_manual
 
 wrench, and then remove the tire. Remove all
 sludge from the hub surface and install the
@@ -21917,7 +20522,6 @@ clip. Appropriate torque shall be applied when
 tightening the wheel nuts.
 
 ### Frequently check the inflation pressure of spare
-`forthing_t5_sx3_en_0d0884ad` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:149 | doc_type:owners_manual
 
 tire for emergency use at any time. Keep the
 inflation pressure of the spare tire at the
@@ -21932,7 +20536,6 @@ used safely.
 •
 
 ### The spare tire is not allowed to be installed on
-`forthing_t5_sx3_en_717ad44a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:149 | doc_type:owners_manual
 
 the steering wheel (i.e. front wheel). If the
 steering wheel needs to be replaced, the spare
@@ -21941,7 +20544,6 @@ then the replaced wheel shall be installed on the
 steering wheel.
 
 ### Replacement of bulb usually requires the
-`forthing_t5_sx3_en_e27aeb7c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:149 | doc_type:owners_manual
 
 removal of certain vehicle components, so
 professional skills are required for relevant
@@ -21956,7 +20558,6 @@ of
 Dongfeng Forthing.
 
 ### Headlight calibration
-`forthing_t5_sx3_en_cf0d6e5d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:149 | doc_type:owners_manual
 
 When the new vehicle leaves the factory,
 the headlight has been calibrated. If you often
@@ -21968,7 +20569,6 @@ Forthing.
 FAQ
 
 ### Why does the headlamp glass surface fog
-`forthing_t5_sx3_en_05e8f3b5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:149 | doc_type:owners_manual
 
 sometimes?
 In general, the fog in the headlight is
@@ -21993,7 +20593,6 @@ To avoid damaging the light, do not use invasive
 abrasive or chemical solvent to clean the light.
 
 ### The vehicle is equipped with a wiper
-`forthing_t5_sx3_en_0351e91d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:149 | doc_type:owners_manual
 
 maintenance mode. For specific operations,
 please refer to the wiper maintenance mode
@@ -22004,7 +20603,6 @@ hand and press down the wiper blade with your
 left hand in the indicated direction.
 
 ### Frameless wiper replacement
-`forthing_t5_sx3_en_74daafdd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:150 | doc_type:owners_manual
 
 1.
 Pull
@@ -22024,7 +20622,6 @@ hanger and scraper and remove the scraper.
 3.
 
 ### Replace the wiper blade assembly
-`forthing_t5_sx3_en_2419d60a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:150 | doc_type:owners_manual
 
 with a new one, and operate in the reverse order
 to ensure that the wiper blade is correctly
@@ -22035,7 +20632,6 @@ pulled up; otherwise, the engine hood and the wiper
 arm will be damaged.
 
 ### The fuse box of engine compartment is
-`forthing_t5_sx3_en_5b4f2e5f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:150 | doc_type:owners_manual
 
 located on the left front side of engine
 compartment. Remove the clips on the left and
@@ -22048,7 +20644,6 @@ driver's side. Remove the storage box to check
 the fuse.
 
 ### When the electrical equipment is at risk of
-`forthing_t5_sx3_en_2cd9d5a9` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:151 | doc_type:owners_manual
 
 overload,
 the
@@ -22063,7 +20658,6 @@ faulty, remove it with a fuse puller and check
 whether it is blown.
 
 ### There is a fuse puller in the engine
-`forthing_t5_sx3_en_e846ef47` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:151 | doc_type:owners_manual
 
 compartment fuse box. Pull the fuse straight out
 of the fuse box with the puller. If the fuse is not
@@ -22076,7 +20670,6 @@ the fuse is burnt out, use the spare fuse with the
 same amperage to replace the burnt-out one.
 
 ### If the replacement fuse with the same
-`forthing_t5_sx3_en_a728c10c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:151 | doc_type:owners_manual
 
 rating is blown again in a short time, it
 indicates that the vehicle may have a serious
@@ -22085,7 +20678,6 @@ service station of Dongfeng Forthing as soon as
 possible.
 
 ### Towing point
-`forthing_t5_sx3_en_20b85525` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:164 | doc_type:owners_manual
 
 If your vehicle requires towing service,
 please contact a professional vehicle towing
@@ -22094,7 +20686,6 @@ station of Dongfeng Forthing. Do not tow your
 vehicle only with ropes or iron chains.
 
 ### The tractor inserts two supporting arms
-`forthing_t5_sx3_en_3d4c2d57` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:164 | doc_type:owners_manual
 
 into the bottom of the front wheels of the
 vehicle to lift the wheels off the ground, and
@@ -22109,7 +20700,6 @@ and the speed should be kept below 30 km/h.
 •
 
 ### In case of a front spoiler on your vehicle
-`forthing_t5_sx3_en_cff1137e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:164 | doc_type:owners_manual
 
 body, remove it to avoid of damages before
 towing. Do not lift or tow your vehicle from the
@@ -22127,7 +20717,6 @@ wheel, and turn the gearshift lever to N gear.
 •
 
 ### If the engine cannot start due to a low
-`forthing_t5_sx3_en_b278b09e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:164 | doc_type:owners_manual
 
 battery, jumper cables can be used to start it
 with assistance from another vehicle's battery.
@@ -22140,7 +20729,6 @@ turn off the Start switch.
 2.
 
 ### Connect the positive and negative poles
-`forthing_t5_sx3_en_d6708822` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:164 | doc_type:owners_manual
 
 of batteries on the two vehicles respectively
 with jumper cables, and the two vehicles shall
@@ -22153,7 +20741,6 @@ first and then the positive cables.
 △Warning
 
 ### The cooling fan and other operating parts of the engine
-`forthing_t5_sx3_en_d11b37a2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 may seriously injure people. Therefore, be sure to keep
 your hands away from the operating parts of the engine
@@ -22164,7 +20751,6 @@ Incorrect operation steps may cause fire, explosion or
 damage to the vehicle.
 
 ### Brief introduction
-`forthing_t5_sx3_en_2635c0fe` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 After the engine runs for a period of time,
 the coolant thermometer indication shall be
@@ -22176,7 +20762,6 @@ engine hood, stop the vehicle immediately for
 inspection.
 
 ### Safely drive the vehicle to the
-`forthing_t5_sx3_en_ce94ab1d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 roadside, shift the gear lever to the P or N
 position, and then press the parking brake
@@ -22214,7 +20799,6 @@ burns.
 5.
 
 ### Add coolant to the expansion tank if
-`forthing_t5_sx3_en_79d9bab3` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 necessary. Adding coolant immediately when
 the engine temperature is high may crack the
@@ -22231,14 +20815,12 @@ the expansion tank cover.
 Do not open the engine hood if steam is leaking.
 
 ### Contact with steam or mist spray coming out from the
-`forthing_t5_sx3_en_4738aab5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 overheated engine will cause severe scald. Be sure to
 wait until the engine and radiator cool down before
 opening the engine hood.
 
 ### If the vehicle needs to be parked for a
-`forthing_t5_sx3_en_0263c65d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 long time, the following measures shall be
 taken. Proper preparation aids in preventing
@@ -22248,7 +20830,6 @@ vehicle indoors.
 1.
 
 ### Pull up the parking brake button or
-`forthing_t5_sx3_en_5f9c4281` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:165 | doc_type:owners_manual
 
 the parking brake lever, place the gearshift
 lever in R position, and block the rear wheels
@@ -22261,7 +20842,6 @@ body so that the tires are off the ground.
 5.
 
 ### Use folded washcloth or cloth to
-`forthing_t5_sx3_en_72aca79e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:165 | doc_type:owners_manual
 
 cushion the front wiper hanger so as to separate
 it off from the windscreen.
@@ -22274,7 +20854,6 @@ doors and trunk lids contact.
 8.
 
 ### Cover the vehicle body with a
-`forthing_t5_sx3_en_ba15c8e2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 breathable covering made of "porous material"
 such as cotton cloth. Non-porous materials such
@@ -22290,7 +20869,6 @@ Caution
 If the vehicle has been parked for one year or more, it
 
 ### Handle Emergency Troubleshooting
-`forthing_t5_sx3_en_2831dfe7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:166 | doc_type:owners_manual
 
 may not be able to start or its maneuverability will
 deteriorate after starting. In this case, please contact an
@@ -22302,7 +20880,6 @@ engine hood will pop up slightly.
 2.
 
 ### For models without pneumatic rods for the
-`forthing_t5_sx3_en_faa81b2e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:167 | doc_type:owners_manual
 
 engine hood, lift the hood to approximately 30
 cm above the closed position, then release it to
@@ -22313,7 +20890,6 @@ down until it is fully closed. Observe the engine
 hood to ensure that it is locked in place.
 
 ### Type I
-`forthing_t5_sx3_en_985c102b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:168 | doc_type:owners_manual
 
 1. Coolant expansion tank
 6. Brake fluid reservoir
@@ -22337,7 +20913,6 @@ Type II
 5. Brake fluid reservoir
 
 ### Engine oil is a consumable to ensure the
-`forthing_t5_sx3_en_6714f8af` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:170 | doc_type:owners_manual
 
 normal operation of engine, and its level shall
 be checked regularly. For example, check the
@@ -22349,7 +20924,6 @@ about 3 min, and then check the engine oil
 level.
 
 ### Take out the oil dipstick again to check
-`forthing_t5_sx3_en_b1eb8628` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:170 | doc_type:owners_manual
 
 the engine oil level, which must be between the
 notch marks of the upper and lower limits.
@@ -22359,7 +20933,6 @@ engine oil will damage the engine, and such damage is
 not covered by the warranty.
 
 ### Install the engine oil filler cap and tighten
-`forthing_t5_sx3_en_07a3442e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:170 | doc_type:owners_manual
 
 it. Warm up the engine, then shut down the
 vehicle. After approximately 3 minutes, check
@@ -22371,7 +20944,6 @@ engine. Add engine oil as required until the level is
 close to the upper limit to avoid damage to the engine.
 
 ### Engine oil plays a crucial role in the
-`forthing_t5_sx3_en_61fff235` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:170 | doc_type:owners_manual
 
 performance and longevity of the engine. Use
 high-quality, refined oil to ensure optimal
@@ -22386,7 +20958,6 @@ Dongfeng
 Forthing.
 
 ### SL level and
-`forthing_t5_sx3_en_100834a5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:171 | doc_type:owners_manual
 
 above 5W-30
 2.5±0.2L
@@ -22408,7 +20979,6 @@ SN5W-30/
 SP5W-30
 
 ### Forthing T5 vehicle does not need any
-`forthing_t5_sx3_en_248daa24` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:171 | doc_type:owners_manual
 
 engine oil additives. Additives do not improve
 the performance or durability of the engine and
@@ -22420,7 +20990,6 @@ engine caused by the use of additives.
 Coolant
 
 ### Check whether the coolant level is between the
-`forthing_t5_sx3_en_b4399d97` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:171 | doc_type:owners_manual
 
 upper limit (MAX) and the lower limit (MIN)
 marks. If it is lower than the MIN mark, add
@@ -22428,7 +20997,6 @@ coolant to the coolant expansion tank to the
 upper limit position.
 
 ### Open the expansion tank cover to add the
-`forthing_t5_sx3_en_2fdc4753` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:171 | doc_type:owners_manual
 
 coolant. After adding the coolant, put on the
 cover and tighten it. Do not mix coolants of
@@ -22452,7 +21020,6 @@ tank cap, make sure that the engine and radiator have
 cooled down.
 
 ### Repair and Maintenance
-`forthing_t5_sx3_en_44de3a25` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:172 | doc_type:owners_manual
 
 1. Inspect the level of the fluid reservoirs of
 the brake and clutch once a month.
@@ -22469,7 +21036,6 @@ check whether the brake system leaks and
 whether the brake pads are seriously worn.
 
 ### The brake fluid absorbs moisture from the
-`forthing_t5_sx3_en_e9592e22` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:172 | doc_type:owners_manual
 
 air. Excessive moisture content can cause
 corrosion and damage to the brake system, and
@@ -22488,7 +21054,6 @@ Forthing.
 •
 
 ### Do not mix
-`forthing_t5_sx3_en_7908c236` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:172 | doc_type:owners_manual
 
 the brake fluid
 with liquids
@@ -22503,7 +21068,6 @@ examination.
 •
 
 ### The brake fluid is corrosive and shall not be
-`forthing_t5_sx3_en_97d01fc8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:172 | doc_type:owners_manual
 
 allowed to contact with paint. Once it overflows
 onto the paint, wash it off with plenty of water.
@@ -22521,7 +21085,6 @@ with plenty of water. If you feel unwell, go to the
 hospital immediately for examination.
 
 ### Maintenance and technical requirements of
-`forthing_t5_sx3_en_eade9f6d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:172 | doc_type:owners_manual
 
 brake fluid
 1.
@@ -22540,7 +21103,6 @@ brake fluid shall comply with the relevant
 provisions of GB12981.
 
 ### Check whether there is enough washer
-`forthing_t5_sx3_en_33289a04` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:172 | doc_type:owners_manual
 
 fluid in the washer fluid reservoir. If no water is
 sprayed by using the wiper spraying function,
@@ -22559,7 +21121,6 @@ freezing in cold weather.
 •
 
 ### Antifreeze will damage the paint on vehicle
-`forthing_t5_sx3_en_40dd5631` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:172 | doc_type:owners_manual
 
 surface, and vinegar solution will damage the
 water
@@ -22576,7 +21137,6 @@ If ethanol based detergent is used, the ethanol
 content of the detergent should not exceed 24%
 
 ### It is recommended that any important
-`forthing_t5_sx3_en_0aa2c05a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:172 | doc_type:owners_manual
 
 maintenance work of the vehicle's A/C system,
 such as recharging the refrigerant, should be
@@ -22588,7 +21148,6 @@ condenser regularly. Remove leaves, insects
 and dust accumulated on the front surface.
 
 ### Repair and Maintenance
-`forthing_t5_sx3_en_39d11175` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:173 | doc_type:owners_manual
 
 These deposits will hinder airflow, thereby
 compromising the refrigeration effect.
@@ -22596,7 +21155,6 @@ Caution
 •
 
 ### The fins of the condenser and radiator are highly
-`forthing_t5_sx3_en_bd7bebed` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:173 | doc_type:owners_manual
 
 susceptible to bending. Only low-pressure water
 gun or soft brush can be used for cleaning.
@@ -22610,7 +21168,6 @@ refrigerant.
 •
 
 ### A service station is required to ensure that the
-`forthing_t5_sx3_en_7128836b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:173 | doc_type:owners_manual
 
 refrigerant
 recirculation
@@ -22623,7 +21180,6 @@ refrigerant; otherwise, releasing it into the
 atmosphere will harm the environment.
 
 ### Squeeze the upper and lower sides
-`forthing_t5_sx3_en_d14fa3e7` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:173 | doc_type:owners_manual
 
 of the dust and pollen filter to disengage the
 tabs on both sides and remove the filter.
@@ -22632,7 +21188,6 @@ Insert a new dust and pollen filter.
 4.
 
 ### When the A/C is not used for a long time
-`forthing_t5_sx3_en_c39eb827` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:173 | doc_type:owners_manual
 
 Even in cold weather, run the A/C for at
 least 5 minutes every two weeks. This is to
@@ -22641,7 +21196,6 @@ compressor from deteriorating, so as to keep the
 A/C in the best operating state.
 
 ### Replace the air filter element according to
-`forthing_t5_sx3_en_c7c80fca` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:173 | doc_type:owners_manual
 
 the time and mileage specified in the regular
 maintenance table. If the air filter is installed
@@ -22657,7 +21211,6 @@ of
 Dongfeng Forthing.
 
 ### Replace the fuel filter according to the
-`forthing_t5_sx3_en_7e637c5d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:174 | doc_type:owners_manual
 
 time and mileage specified in the regular
 maintenance table.
@@ -22687,7 +21240,6 @@ Dongfeng Forthing.
 Battery
 
 ### The battery is located on the left side of
-`forthing_t5_sx3_en_d83277f0` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:174 | doc_type:owners_manual
 
 the engine compartment and primarily provides
 power for engine startup. If the battery voltage
@@ -22701,7 +21253,6 @@ with
 maintenance-free battery.
 
 ### If you plan to park the vehicle for more
-`forthing_t5_sx3_en_368c3b92` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:174 | doc_type:owners_manual
 
 than five days, it is recommended to unplug the
 negative terminal of the battery to prevent
@@ -22728,7 +21279,6 @@ of
 Dongfeng Forthing.
 
 ### Emergency treatment for contacting electrolyte
-`forthing_t5_sx3_en_ece900b5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:174 | doc_type:owners_manual
 
 Battery electrolyte is highly corrosive and toxic.
 In case of accidental contact, please handle it
@@ -22736,7 +21286,6 @@ as follows:
 •
 
 ### Eyes: use a cup or other vessel with water
-`forthing_t5_sx3_en_8256e9d8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:174 | doc_type:owners_manual
 
 to wash the eyes for at least 15 min and go to a
 doctor in time.
@@ -22748,7 +21297,6 @@ medical advice immediately.
 If electrolyte is mistakenly ingested:
 
 ### If you have to connect the battery to other
-`forthing_t5_sx3_en_5eebe1af` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:174 | doc_type:owners_manual
 
 chargers, you shall disconnect both positive and
 negative cables of the battery so as to prevent the
@@ -22767,7 +21315,6 @@ should be in good condition and the tire
 pressure should be within the standard range.
 
 ### The following pages will detail how to
-`forthing_t5_sx3_en_4098022f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:174 | doc_type:owners_manual
 
 maintain and replace tires.
 Note:
@@ -22788,7 +21335,6 @@ which can provide the best combination of
 maneuverability, tread life and driving comfort.
 
 ### Tires that are insufficiently inflated will suffer
-`forthing_t5_sx3_en_0986f773` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:174 | doc_type:owners_manual
 
 uneven wear, affecting operation and fuel
 consumption and even suffering air leak due to
@@ -22803,7 +21349,6 @@ comfort, are more likely to be damaged due to
 uneven road surfaces and wear unevenly.
 
 ### Tire pressure labels are attached on the
-`forthing_t5_sx3_en_12d649ae` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:175 | doc_type:owners_manual
 
 vehicle. The label is located below the door
 frame on the driver's side, indicating the front
@@ -22814,7 +21359,6 @@ following points:
 •
 
 ### Measure the tire pressures when the tires
-`forthing_t5_sx3_en_71b339c2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:175 | doc_type:owners_manual
 
 are cold.
 •
@@ -22824,7 +21368,6 @@ the driver's side door frame label.
 •
 
 ### If the tire pressure is checked when the
-`forthing_t5_sx3_en_bb7fd55e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:175 | doc_type:owners_manual
 
 tire is hot (after several kilometers of driving),
 the pressure reading will be 30 to 40 kPa higher
@@ -22835,7 +21378,6 @@ insufficient tire pressure.
 •
 
 ### When checking the inflation state of the
-`forthing_t5_sx3_en_7bcb4f02` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:175 | doc_type:owners_manual
 
 tires, check the tires for damage, penetration,
 and wear. You should check:
@@ -22864,7 +21406,6 @@ must be replaced. Such tire lacks adhesion
 when driving on a slippery road.
 
 ### Tire maintenance
-`forthing_t5_sx3_en_8f3299d8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:175 | doc_type:owners_manual
 
 In addition to proper inflation, correct
 wheel alignment also helps to reduce tread wear.
@@ -22875,7 +21416,6 @@ driving, please contact an authorized service
 station of Dongfeng Forthing.
 
 ### To extend the service life of tires and
-`forthing_t5_sx3_en_edb24d2d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:175 | doc_type:owners_manual
 
 allow tires to wear evenly, the positions of tires
 shall be changed once a vehicle has traveled for
@@ -22884,7 +21424,6 @@ operation shall be carried out according to the
 method shown in the above figure.
 
 ### Repair and Maintenance
-`forthing_t5_sx3_en_1b8e4d7e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:176 | doc_type:owners_manual
 
 range, rated speed and maximum cold tire
 pressure
@@ -22902,7 +21441,6 @@ or structures will cause ABS failure to work
 normally.
 
 ### The anti-lock brake system (ABS) works
-`forthing_t5_sx3_en_615c0cff` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:176 | doc_type:owners_manual
 
 by comparing the speed of wheels. Therefore,
 when replacing tires, be sure to use tires with
@@ -22926,7 +21464,6 @@ Dongfeng
 Forthing.
 
 ### 17×6.5J, 16×6.5J, 17×7J
-`forthing_t5_sx3_en_8d17c9b2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:176 | doc_type:owners_manual
 
 Tire specifications:
 225/55R19,
@@ -22944,7 +21481,6 @@ of
 Dongfeng Forthing.
 
 ### It is recommended to use winter tires on
-`forthing_t5_sx3_en_cda15a0c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:176 | doc_type:owners_manual
 
 icy and snowy roads due to the limited
 applicability of summer tires in winter. When
@@ -22959,13 +21495,11 @@ the winter tires according to the marks on the
 registration card.
 
 ### Snow anti-skid chains can only be used in
-`forthing_t5_sx3_en_850b0c99` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:176 | doc_type:owners_manual
 
 emergency situations or when driving through
 specific areas expressly stipulated by law.
 
 ### It is forbidden to install anti-skid chain on only
-`forthing_t5_sx3_en_9a387db2` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:176 | doc_type:owners_manual
 
 one front or rear wheel. Do not install anti-skid
 chains on one side of two left wheels or two
@@ -22999,7 +21533,6 @@ carefully.
 TPMS
 
 ### The tire pressure monitoring system is
-`forthing_t5_sx3_en_bd623f1d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:176 | doc_type:owners_manual
 
 used to dynamically monitor the tire pressure
 and temperature. When the tire pressure is
@@ -23011,7 +21544,6 @@ when using the tire pressure monitoring system.
 1.
 
 ### If the tire pressure sensor is not
-`forthing_t5_sx3_en_e8c1b5ef` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:176 | doc_type:owners_manual
 
 replaced due to tire repair, removal or other
 reasons and the original tire pressure sensor has
@@ -23043,7 +21575,6 @@ temperature
 data can be updated on the
 
 ### After the vehicle tires are rotated
-`forthing_t5_sx3_en_893a131b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:177 | doc_type:owners_manual
 
 and the positions of the tire pressure sensors
 change, the tire pressure shall be matched
@@ -23055,7 +21586,6 @@ reflective vest is placed in the front passenger
 storage box.
 
 ### Parking brake
-`forthing_t5_sx3_en_e88ae66b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:177 | doc_type:owners_manual
 
 control lever
 /
@@ -23081,7 +21611,6 @@ opened/closed freely and locked
 firmly.
 
 ### Windshield defroster Check the air outlet of defroster
-`forthing_t5_sx3_en_6e507a66` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:lighting | p:177 | doc_type:owners_manual
 
 every month when using the
 heater and A/C.
@@ -23098,7 +21627,6 @@ lights, and license plate lights
 once a month.
 
 ### Regular and professional maintenance
-`forthing_t5_sx3_en_e19ac43c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:177 | doc_type:owners_manual
 
 can keep the vehicle in good condition. The
 following will introduce how to keep the
@@ -23107,7 +21635,6 @@ polishing and wheel cleaning, as well as
 anti-corrosion measures.
 
 ### Vehicle washing
-`forthing_t5_sx3_en_16091a5e` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:177 | doc_type:owners_manual
 
 Frequent
 washing
@@ -23124,7 +21651,6 @@ it, drive it to a shade place. Clean the vehicle
 after the surface of the vehicle body is cooled.
 
 ### Use only solvents and cleaning agents
-`forthing_t5_sx3_en_551ddc0c` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:177 | doc_type:owners_manual
 
 recommended in the User Manual. As drying
 the vehicle, check it for chips or scratches. If
@@ -23159,7 +21685,6 @@ the air will cause loss of luster or formation of
 water stains on the exterior of the vehicle body.
 
 ### Wax the vehicle only after thoroughly cleaning
-`forthing_t5_sx3_en_e6e2b352` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:178 | doc_type:owners_manual
 
 and drying it, and wax it at least once every
 three months, which helps to protect the body.
@@ -23170,7 +21695,6 @@ products:
 1.
 
 ### Body wax is a kind of wax applied on the
-`forthing_t5_sx3_en_1ccd2263` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:178 | doc_type:owners_manual
 
 paint surface to protect it from sunlight, air
 pollution and other damages. Apply this type of
@@ -23178,7 +21702,6 @@ wax to a newly purchased vehicle.
 2.
 
 ### Polishing wax can repair the paint that has
-`forthing_t5_sx3_en_d856a2ec` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:178 | doc_type:owners_manual
 
 been oxidized or lost its gloss, making it glossy
 again. Such waxes generally contain soft
@@ -23189,7 +21712,6 @@ shall be applied.
 Caution
 
 ### When the detergent is used to remove such pollutants as
-`forthing_t5_sx3_en_b9dec082` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:178 | doc_type:owners_manual
 
 pitch and insects, dewaxing may occur. Therefore, it is
 necessary to replenish wax in the dewaxing position.
@@ -23200,7 +21722,6 @@ special repair film or repair paint to prevent
 corrosion.
 
 ### When cleaning other areas of the vehicle's
-`forthing_t5_sx3_en_57d44f97` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:178 | doc_type:owners_manual
 
 exterior, be sure to also clean the aluminum
 alloy wheels. After cleaning with the same
@@ -23213,7 +21734,6 @@ flow passage structure in the front of the vehicle,
 and all models are equipped with this structure.
 
 ### Check the drainage condition of the front
-`forthing_t5_sx3_en_2376db17` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:178 | doc_type:owners_manual
 
 compartment gutter channel every 5000 km to
 ensure
@@ -23233,7 +21753,6 @@ please contact an authorized service station of
 Dongfeng Forthing in time.
 
 ### The sealing strip is a rubber sealing part
-`forthing_t5_sx3_en_47d8fd53` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:178 | doc_type:owners_manual
 
 installed on the door or vehicle body. It is one
 of the parts that ensure the waterproof sealing
@@ -23248,7 +21767,6 @@ sealing strip, please contact an authorized
 service station of Dongfeng Forthing in time.
 
 ### The dust on the carpet should often be
-`forthing_t5_sx3_en_85678d70` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:178 | doc_type:owners_manual
 
 cleaned by a vacuum cleaner. Excessive dust
 accumulation will accelerate the damage of the
@@ -23267,7 +21785,6 @@ dry in the air.
 Vinylon
 
 ### Use a dust collector to remove the dust
-`forthing_t5_sx3_en_31e95d6f` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:178 | doc_type:owners_manual
 
 and pollutants. Scrub the vinylon with a soft
 cloth soaked in neutral soapy water to remove
@@ -23276,7 +21793,6 @@ spray or foam type vinylon cleaner.
 Leather
 
 ### Frequently use a dust collector to remove
-`forthing_t5_sx3_en_73e1e7a5` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:178 | doc_type:owners_manual
 
 the dust and pollutants, especially those at the
 folds and joints. Clean the leather with a soft
@@ -23286,14 +21802,12 @@ required, special soap for leather can be used.
 Window
 
 ### Use the glass detergent to clean both
-`forthing_t5_sx3_en_91b503eb` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:178 | doc_type:owners_manual
 
 interior and exterior sides of the windows. Dry
 all glass and plastic surfaces with a soft cloth or
 paper towel.
 
 ### Repair and Maintenance
-`forthing_t5_sx3_en_0a344f87` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:179 | doc_type:owners_manual
 
 with neutral warm soapy water to wipe the seat
 belts clean. Do not use bleaching powder, dye
@@ -23302,13 +21816,11 @@ reduce the durability of the seat belt. Do not use
 the seat belt before it becomes dry.
 
 ### In case of lots of accumulated dust at the
-`forthing_t5_sx3_en_b0d942d6` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:179 | doc_type:owners_manual
 
 connecting loop of the seat belt connector, the
 retraction of the seat belts will be slowed down.
 
 ### The inner side of the loop can be scrubbed with
-`forthing_t5_sx3_en_0c063585` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:179 | doc_type:owners_manual
 
 a clean soft cloth dipped in neutral warm soapy
 water
@@ -23324,7 +21836,6 @@ before cleaning, please contact an authorized
 service station of Dongfeng Forthing.
 
 ### If it is necessary to use air freshener or
-`forthing_t5_sx3_en_b59ea874` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:interior | p:179 | doc_type:owners_manual
 
 deodorant in the vehicle, it is recommended to
 select solid type. Some chemical components
@@ -23336,7 +21847,6 @@ securely fastened to prevent splashing while
 driving.
 
 ### The exhaust emission control system is a
-`forthing_t5_sx3_en_7b7e175b` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:179 | doc_type:owners_manual
 
 high-efficiency system, which can control the
 exhaust
@@ -23347,7 +21857,6 @@ good
 vehicle performance.
 
 ### The modification of the vehicle's exhaust
-`forthing_t5_sx3_en_0f151d49` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:safety | p:179 | doc_type:owners_manual
 
 emission
 control
@@ -23370,7 +21879,6 @@ the exhaust emission control system is not
 covered by the warranty.
 
 ### The vehicle's factory nameplate is
-`forthing_t5_sx3_en_a6f1b287` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:180 | doc_type:owners_manual
 
 at the lower external surface of the middle
 column at the right side of the vehicle body.
@@ -23387,7 +21895,6 @@ the label on the top of the transmission.
 5.
 
 ### The VIN is pasted on the inner side
-`forthing_t5_sx3_en_05de575a` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:180 | doc_type:owners_manual
 
 of the storage box.
 9. The VIN is pasted on the inner side of
@@ -23395,7 +21902,6 @@ right pillar-B inner plate.
 10.
 
 ### The factory nameplate of the vehicle contains
-`forthing_t5_sx3_en_54bd97d8` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:180 | doc_type:owners_manual
 
 the following information:
 1.
@@ -23438,14 +21944,12 @@ interface.
 •
 
 ### The above VIN reading tools are not equipped
-`forthing_t5_sx3_en_a684c1fd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:180 | doc_type:owners_manual
 
 with the vehicle. If you need to purchase them,
 please contact an authorized service station of
 Dongfeng Forthing.
 
 ### The microwave window of the vehicle is
-`forthing_t5_sx3_en_ca4dbd33` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:181 | doc_type:owners_manual
 
 located in the horizontal center and vertically
 upward position of the front windshield.
@@ -23469,7 +21973,6 @@ Caution
 Please keep the front windshield clean and dry.
 
 ### Do not paste film or metal materials on the
-`forthing_t5_sx3_en_bde0ddab` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:181 | doc_type:owners_manual
 
 microwave
 window
@@ -23486,7 +21989,6 @@ agency in time.
 Engine No.
 
 ### Technical Parameters
-`forthing_t5_sx3_en_72446464` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:182 | doc_type:owners_manual
 
 4A92 Engine number engraving position
 DFMC15TP1
@@ -23517,7 +22019,6 @@ In-line
 four-cylinder,
 
 ### Water-cooled in-line
-`forthing_t5_sx3_en_daa92d23` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:183 | doc_type:owners_manual
 
 four-cylinder,
 four-stroke,
@@ -23538,7 +22039,6 @@ In-line four-cylinder,
 camshaft
 
 ### Displacement
-`forthing_t5_sx3_en_cbc18009` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:183 | doc_type:owners_manual
 
 L
 1.796
@@ -23559,7 +22059,6 @@ mm
 φ75×90
 
 ### Compression
-`forthing_t5_sx3_en_0a08b200` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:183 | doc_type:owners_manual
 
 ratio
 -
@@ -23613,7 +22112,6 @@ level
 -
 
 ### Structural type
-`forthing_t5_sx3_en_78982248` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:brakes | p:184 | doc_type:owners_manual
 
 Dual-circuit hydraulic brake system with hydraulic braking, vacuum
 booster, ESP and front and rear disc brakes
@@ -23623,7 +22121,6 @@ Dual-circuit hydraulic brake system with hydraulic braking, vacuum
 booster, ESP and front and rear disc brakes
 
 ### Vehicle power performance
-`forthing_t5_sx3_en_4300d235` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:185 | doc_type:owners_manual
 
 Item
 Unit
@@ -23658,7 +22155,6 @@ Unit
 1.6L/5MT
 
 ### Comprehensive fuel consumption
-`forthing_t5_sx3_en_a94c708d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:general | p:186 | doc_type:owners_manual
 
 Item
 Unit
@@ -23711,7 +22207,6 @@ consumption L/100km
 Methods of Fuel Consumption for Light-duty Vehicles.
 
 ### Technical Parameters
-`forthing_t5_sx3_en_d7b0f34d` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:187 | doc_type:owners_manual
 
 Item
 1.8T/6MT
@@ -23731,7 +22226,6 @@ specifications
 25/55 R19 or
 
 ### Wheel trim
-`forthing_t5_sx3_en_9715e2bd` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:wheels | p:187 | doc_type:owners_manual
 
 specification
 19×7J or
@@ -23758,7 +22252,6 @@ or 18×6.5J
 17×7J
 
 ### When connecting the ECU and the
-`forthing_t5_sx3_en_1b896b48` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:body | p:188 | doc_type:owners_manual
 
 harness connector, make sure that the system
 power supply is disconnected, i.e. the ignition
@@ -23770,7 +22263,6 @@ the body when the power is on.
 2.
 
 ### Sparks caused by static electricity
-`forthing_t5_sx3_en_e0375145` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:188 | doc_type:owners_manual
 
 may cause damage to the ECU. Try to avoid
 contact between the ECU and static electricity.
@@ -23785,7 +22277,6 @@ pins.
 6.
 
 ### Do not burn out the ECU when
-`forthing_t5_sx3_en_bf5b5e69` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:ev | p:188 | doc_type:owners_manual
 
 repairing the vehicle by electrical welding. If
 necessary, power off the ECU, remove it, and
@@ -23794,7 +22285,6 @@ position.
 10.
 
 ### When the engine works and the air-fuel
-`forthing_t5_sx3_en_d3dd8138` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:188 | doc_type:owners_manual
 
 ratio increases, the concentration of oxygen in
 the exhaust will increase. At this time, the
@@ -23805,14 +22295,12 @@ sensor is close to 1V. The engine oxygen sensor
 does not require any adjustment or repair.
 
 ### The heating element circuit of the
-`forthing_t5_sx3_en_7c992e45` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:188 | doc_type:owners_manual
 
 oxygen sensor is short-circuited to housing.
 Precautions for using the oxygen sensor:
 1.
 
 ### Do not drop the oxygen sensor or
-`forthing_t5_sx3_en_7e9e8507` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:engine | p:188 | doc_type:owners_manual
 
 impact it with the surface of a hard object to
 avoid damaging the ceramic element or heating
@@ -23837,7 +22325,6 @@ in
 inaccurate sensor output signal.
 
 ### Information of Key Components and Parts for Emission Control
-`forthing_t5_sx3_en_5a62efe1` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:188 | doc_type:owners_manual
 
 Vehicle type approval certificate information, manufacturer, model and effective service life
 of key components for emission control, etc.
@@ -23857,7 +22344,6 @@ SX61205030
 SX61205040
 
 ### Model of key
-`forthing_t5_sx3_en_496c62ae` | t5_sx3 | pdf_manual | tier:2 | lang:en | layer:sensors | p:189 | doc_type:owners_manual
 
 components and
 parts for emission

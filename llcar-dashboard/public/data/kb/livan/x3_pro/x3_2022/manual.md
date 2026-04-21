@@ -1,14 +1,17 @@
-# Manual: livan/x3_pro (1598 chunks)
-<!-- doc_type:owners_manual tier:2 lang:ru -->
+---
+brand: livan
+model: x3_pro
+generation: x3_2022
+source: kb
+---
+
 
 ### Предисловие
-`livan_x3_pro_ru_c5096a40` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:2 | doc_type:owners_manual
 Уважаемый владелец автомобиля марки LIVAN,
 Спасибо Вам за доверие, оказанное компании LIVAN, и за выбор автомобиля
 марки
 
 ### LIVAN,
-`livan_x3_pro_ru_c116f6bd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:2 | doc_type:owners_manual
 который
 обеспечит
 вам
@@ -21,7 +24,6 @@
 удовольствия от владения новым автомобилем.
 
 ### Перед началом эксплуатации нового автомобиля внимательно изучите настоящее
-`livan_x3_pro_ru_329095b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:2 | doc_type:owners_manual
 Руководство. Управление автомобилем осуществляйте в строгом соответствии с
 изложенными инструкциями. Это поможет Вам эффективно, правильно и безопасно
 эксплуатировать автомобиль, содержать его в технически исправном состоянии и
@@ -71,7 +73,6 @@
 данное
 
 ### Руководство
-`livan_x3_pro_ru_a07a07fa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:2 | doc_type:owners_manual
 новому
 владельцу.
 Вся
@@ -110,7 +111,6 @@
 1
 
 ### Руководство по
-`livan_x3_pro_ru_c258409d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:4 | doc_type:owners_manual
 эксплуатации
 автомобиля: введение
 и идентификация
@@ -130,7 +130,6 @@
 12 Табличка изготовителя
 
 ### Система контроля и
-`livan_x3_pro_ru_9c8f9878` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:4 | doc_type:owners_manual
 управления
 13 Устройства системы контроля и
 управления
@@ -185,7 +184,6 @@
 65 Рейлинги на крыше
 
 ### Система
-`livan_x3_pro_ru_baf3e5af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:5 | doc_type:owners_manual
 кондиционирования
 воздуха
 67 Отопление, вентиляция и
@@ -204,7 +202,6 @@
 кондиционера
 
 ### Сиденья и устройства
-`livan_x3_pro_ru_9bb4436a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:5 | doc_type:owners_manual
 защиты
 77 Сиденья
 77 Подголовник
@@ -241,7 +238,6 @@
 защиты
 
 ### Запуск двигателя и
-`livan_x3_pro_ru_f85dc919` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:5 | doc_type:owners_manual
 вождение
 8
 7
@@ -294,7 +290,6 @@
 133 Бензиновый сажевый фильтр
 
 ### GPF
-`livan_x3_pro_ru_2aebd10a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:6 | doc_type:owners_manual
 135 Топливная система
 135 Требования к топливу
 136 Безопасность на АЗС
@@ -320,7 +315,6 @@
 145 Антиблокировочная система
 
 ### (ABS)
-`livan_x3_pro_ru_b7b867a9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:6 | doc_type:owners_manual
 4
 146 Электронная система
 контроля устойчивости (ESC)*
@@ -328,7 +322,6 @@
 динамической стабилизации
 
 ### (VDC)*
-`livan_x3_pro_ru_cb533b74` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:7 | doc_type:owners_manual
 147 Гидравлический тормозной
 ассистент (HBA)*
 147 Функция помощи при
@@ -336,7 +329,6 @@
 148 Антипробуксовочная система
 
 ### (TCS)*
-`livan_x3_pro_ru_2c69f2be` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:7 | doc_type:owners_manual
 148 Система помощи при парковке
 148 Система парковочных
 радаров
@@ -346,7 +338,6 @@
 154 Система управления круизконтролем (СС)
 
 ### Неисправности во время
-`livan_x3_pro_ru_db2c87b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:7 | doc_type:owners_manual
 вождения
 157 Устройства предупреждения
 об опасности
@@ -382,13 +373,11 @@
 оперативных служб (ЭРА-
 
 ### ГЛОНАСС)*
-`livan_x3_pro_ru_62ea1fc8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:7 | doc_type:owners_manual
 190 Внезапная остановка
 двигателя
 190 Если автомобиль застрял
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_a571f782` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:7 | doc_type:owners_manual
 191 Техническое обслуживание
 191 Регулярное техническое
 обслуживание
@@ -423,14 +412,12 @@
 207 Электроусилитель руля
 
 ### (EPS)
-`livan_x3_pro_ru_7d3a3d4b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:8 | doc_type:owners_manual
 208 Передняя комбинированная
 фара
 208 Запотевание передних
 комбинированных фар
 
 ### 209 АКБ
-`livan_x3_pro_ru_2bd15e31` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:8 | doc_type:owners_manual
 209 Обслуживание АКБ
 209 Проверка АКБ
 209 Замена АКБ
@@ -445,7 +432,6 @@
 215 Очистка салона
 
 ### Технические данные
-`livan_x3_pro_ru_bd4c8b64` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:8 | doc_type:owners_manual
 219 Основные параметры
 автомобиля
 219 Основные массогабаритные
@@ -473,7 +459,6 @@
 7
 
 ### Руководство
-`livan_x3_pro_ru_84fed64a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 по
 эксплуатации
 Предостережение
@@ -485,7 +470,6 @@
 автомобиля
 
 ### (ABS)
-`livan_x3_pro_ru_ae5e8937` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:10 | doc_type:owners_manual
 при
 необходимости
 экстренного
@@ -496,7 +480,6 @@
 тормоза не легко, а с усилием.
 
 ### 2. В
-`livan_x3_pro_ru_ec03a6a7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 соответствии
 с
 рекомендациями
@@ -514,7 +497,6 @@
 давления в колесах.
 
 ### 3. Пожалуйста,
-`livan_x3_pro_ru_ab48f6e8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 используйте
 масла
 и
@@ -536,7 +518,6 @@
 техническому обслуживанию".
 
 ### 4. В целях безопасности вождения не
-`livan_x3_pro_ru_90a43a32` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 снимайте
 детали
 и
@@ -557,7 +538,6 @@
 повторно.
 
 ### 5. Для
-`livan_x3_pro_ru_6c069e75` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 обеспечения
 Вашей
 безопасности во время управления
@@ -579,7 +559,6 @@
 использованы.
 
 ### 6. Не
-`livan_x3_pro_ru_11dd0f1c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 находитесь
 долгое
 время
@@ -597,7 +576,6 @@
 здоровье.
 
 ### 7. Не
-`livan_x3_pro_ru_54b829d1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 отдыхайте
 и
 не
@@ -609,7 +587,6 @@
 двигателе.
 
 ### Избегайте
-`livan_x3_pro_ru_b696a288` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 запоздалого
 нажатия на педаль акселератора и,
 соответственно,
@@ -631,7 +608,6 @@
 жизни и здоровья.
 
 ### 8. Запрещено
-`livan_x3_pro_ru_7c7cdd19` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 переоборудование
 или
 установка
@@ -639,7 +615,6 @@
 оборудования.
 
 ### Переоборудование
-`livan_x3_pro_ru_0d169469` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 или
 установка
 дополнительного
@@ -656,7 +631,6 @@
 нести ответственности.
 
 ### 9. Не
-`livan_x3_pro_ru_aa5f857e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:10 | doc_type:owners_manual
 следует
 устанавливать
 устройства, которые могут привести к
@@ -664,7 +638,6 @@
 другого электрооборудования.
 
 ### 10. При
-`livan_x3_pro_ru_c9c62efd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 установлении
 дополнительных
 устройств нельзя создавать помех в
@@ -679,7 +652,6 @@
 8
 
 ### 11. "Инструкция
-`livan_x3_pro_ru_69c32a52` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:11 | doc_type:owners_manual
 по
 эксплуатации
 мультимедиа", предназначенная для
@@ -696,7 +668,6 @@
 руководства.
 
 ### Указывает
-`livan_x3_pro_ru_710eee2b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 на
 то,
 что
@@ -713,7 +684,6 @@
 исходу.
 
 ### Необходимо
-`livan_x3_pro_ru_e4184903` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 четко
 следовать
 указанным
@@ -726,7 +696,6 @@
 информацией.
 
 ### Связано
-`livan_x3_pro_ru_73b2a7b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 с
 происшествиями,
 относящимися
@@ -736,20 +705,16 @@
 напряжения.
 
 ### Необходимо
-`livan_x3_pro_ru_e4184903` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 четко
 следовать шагам во избежание удара
 током, что может привести к серьезным
 травмам и летальному исходу.
 
-### Внимание
-`livan_x3_pro_ru_c3d22be8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
-Указывает, что необходимо строго
-соблюдение шагов во избежание
-повреждения автомобиля.
+> ⚠️ **Внимание:** Указывает, что необходимо строго
+> соблюдение шагов во избежание
+> повреждения автомобиля.
 
 ### Указывает на данные для лучшего
-`livan_x3_pro_ru_38c35e36` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 пользования автомобилем.
 Защита окружающей среды
 Указывает
@@ -762,7 +727,6 @@
 окружающей среды.
 
 ### Астериск
-`livan_x3_pro_ru_2cd6001f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 Типографский знак "*" указывает на то,
 что
 перечисленное
@@ -783,20 +747,17 @@
 обеспечен.
 
 ### Данные
-`livan_x3_pro_ru_85aee0a9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 о
 графических
 изображениях
 Описание указанного объекта.
 
 ### Направление движения
-`livan_x3_pro_ru_336a516e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 указанного объекта.
 Направление вращения
 указанного объекта.
 
 ### Указывает на запрещение
-`livan_x3_pro_ru_3cd87543` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 такого действия или
 возникновения такой ситуации.
 Руководство по эксплуатации автомобиля: введение и идентификация
@@ -812,7 +773,6 @@
 9
 
 ### Идентификация
-`livan_x3_pro_ru_9048d629` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 моделей
 автомобиля
 Идентификатор автомобиля
@@ -838,7 +798,6 @@
 коробки передач.
 
 ### 3. Идентификационный код автомобиля
-`livan_x3_pro_ru_6003c0cf` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 (кода VIN)
 Положение
 идентификаторов
@@ -848,7 +807,6 @@
 двигателя
 
 ### Номер двигателя находится в нижней
-`livan_x3_pro_ru_b09d31b3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:12 | doc_type:owners_manual
 части блока цилиндров рядом с коробкой
 передач
 (вид
@@ -858,7 +816,6 @@
 автомобиля).
 
 ### Расположение номера коробки
-`livan_x3_pro_ru_fed49889` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 передач
 Номер механической коробки передач
 находится
@@ -876,7 +833,6 @@
 10
 
 ### Номер автоматической коробки передач
-`livan_x3_pro_ru_41949e94` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 находится
 в
 верхней
@@ -889,7 +845,6 @@
 двигателя.
 
 ### Расположение
-`livan_x3_pro_ru_a0bef9dd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 идентификационного
 кода
 автомобиля (кода VIN)
@@ -899,7 +854,6 @@
 виден через него.
 
 ### На перекладине нижней части правого
-`livan_x3_pro_ru_d43afbe0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:13 | doc_type:owners_manual
 переднего
 сиденья
 также
@@ -917,7 +871,6 @@
 кожух.
 
 ### Идентификационный
-`livan_x3_pro_ru_92a8c0cc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 код
 VIN
 также
@@ -961,7 +914,6 @@ VIN на корпусе автомобиля поврежден,
 11
 
 ### Идентификационный
-`livan_x3_pro_ru_5036a2e0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:14 | doc_type:owners_manual
 код
 автомобиля
 (код
@@ -981,7 +933,6 @@ VIN)
 кузова, номере и месте производства.
 
 ### Считывание
-`livan_x3_pro_ru_0310e0f4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 идентификационного
 кода
 Код
@@ -997,7 +948,6 @@ VIN)
 Этапы проведения считывания:
 
 ### LIVAN
-`livan_x3_pro_ru_938c5aff` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 к
 диагностическому
 интерфейсу OBD;
@@ -1011,7 +961,6 @@ VIN)
 "разрешить подключение";
 
 ### 4. Автоматическое
-`livan_x3_pro_ru_acbd489a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 считывание
 кода
 VIN.
@@ -1025,7 +974,6 @@ VIN.
 к повреждению автомобиля.
 
 ### Микроволновое окно
-`livan_x3_pro_ru_36a0be09` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:14 | doc_type:owners_manual
 Регистратор данных (EDR)
 Автомобиль снабжен соответствующим
 государственным
@@ -1079,7 +1027,6 @@ VIN.
 обеспечения
 
 ### ECU
-`livan_x3_pro_ru_0870a686` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 записанных
 EDR
 данных*
@@ -1095,7 +1042,6 @@ ECU
 ECU записанных EDR данных*
 
 ### О
-`livan_x3_pro_ru_f3f79ae8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 применении
 вышеперечисленных
 данных читайте в стандарте GB397322020 "Регистратор данных происшествий
@@ -1110,7 +1056,6 @@ ECU записанных EDR данных*
 таблицах 2 и 3.
 
 ### При возникновении столкновения данные
-`livan_x3_pro_ru_5699d82b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 о текущем происшествии записываются в
 хранилище данных в последовательной
 очередности
@@ -1120,7 +1065,6 @@ ECU записанных EDR данных*
 предыдущие данные.
 
 ### Сохраненные
-`livan_x3_pro_ru_34a9170f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 данные
 могут
 помочь
@@ -1149,7 +1093,6 @@ ECU записанных EDR данных*
 безопасности.
 
 ### В
-`livan_x3_pro_ru_684429d7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 соответствии
 с
 национальными
@@ -1181,7 +1124,6 @@ ECU записанных EDR данных*
 с
 
 ### OBD
-`livan_x3_pro_ru_ea09c9c7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 автомобиля
 или
 устройством
@@ -1192,7 +1134,6 @@ EDR.
 имеют право считывать данные.
 
 ### Способы приобретения устройства для
-`livan_x3_pro_ru_1f1b7b92` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 считывания данных: при возникновении
 такой
 необходимости
@@ -1206,7 +1147,6 @@ LIVAN, чтобы при его посредничестве
 заказать устройство у производителя.
 
 ### Табличка изготовителя располагается в
-`livan_x3_pro_ru_0d08215d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 нижней части центральной стойки справа
 и включает следующие данные:
 •
@@ -1219,7 +1159,6 @@ LIVAN, чтобы при его посредничестве
 •
 
 ### Знак обращения на рынке
-`livan_x3_pro_ru_8f71d361` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 •
 Идентификационный
 номер
@@ -1229,7 +1168,6 @@ LIVAN, чтобы при его посредничестве
 •
 
 ### Максимальная допустимая масса на
-`livan_x3_pro_ru_3a003239` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 переднюю ось
 •
 Максимальная допустимая масса на
@@ -1237,7 +1175,6 @@ LIVAN, чтобы при его посредничестве
 •
 
 ### Страна производитель
-`livan_x3_pro_ru_7d4bfac1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 Руководство по эксплуатации автомобиля: введение и идентификация
 моделей
 2
@@ -1251,7 +1188,6 @@ LIVAN, чтобы при его посредничестве
 13
 
 ### Устройства
-`livan_x3_pro_ru_8193edf8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:16 | doc_type:owners_manual
 системы
 контроля и управления
 Обзор стороны водителя
@@ -1259,7 +1195,6 @@ LIVAN, чтобы при его посредничестве
 1.
 
 ### Внутренняя дверная ручка
-`livan_x3_pro_ru_7e67db1a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:16 | doc_type:owners_manual
 9.
 Кнопка запуска двигателя
 2.
@@ -1267,7 +1202,6 @@ LIVAN, чтобы при его посредничестве
 10.
 
 ### Мультимедийный интерфейс
-`livan_x3_pro_ru_fc157fe4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:16 | doc_type:owners_manual
 3.
 Левый
 дефлектор
@@ -1276,7 +1210,6 @@ LIVAN, чтобы при его посредничестве
 11.
 
 ### Розетка электропитания
-`livan_x3_pro_ru_93ab0985` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:16 | doc_type:owners_manual
 4.
 Отверстие
 для
@@ -1288,7 +1221,6 @@ LIVAN, чтобы при его посредничестве
 5.
 
 ### Комбинированный
-`livan_x3_pro_ru_614500fc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:16 | doc_type:owners_manual
 выключатель
 освещения
 13.
@@ -1298,7 +1230,6 @@ LIVAN, чтобы при его посредничестве
 14.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_b31d63b5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:16 | doc_type:owners_manual
 14
 7.
 Приборная панель
@@ -1310,7 +1241,6 @@ LIVAN, чтобы при его посредничестве
 8.
 
 ### Комбинированный
-`livan_x3_pro_ru_07da1a1e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:17 | doc_type:owners_manual
 переключатель
 стеклоочистителя
 16.
@@ -1319,7 +1249,6 @@ LIVAN, чтобы при его посредничестве
 стеклоподъемником
 
 ### Система контроля и управления
-`livan_x3_pro_ru_9a4bb841` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 2
 8
 7
@@ -1335,7 +1264,6 @@ LIVAN, чтобы при его посредничестве
 10.
 
 ### Мультимедийный интерфейс
-`livan_x3_pro_ru_580147e2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:18 | doc_type:owners_manual
 2.
 Переключатели приборной панели
 11.
@@ -1348,7 +1276,6 @@ LIVAN, чтобы при его посредничестве
 12.
 
 ### Педаль акселератора
-`livan_x3_pro_ru_98a1af42` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:18 | doc_type:owners_manual
 4.
 Отверстие
 для
@@ -1360,7 +1287,6 @@ LIVAN, чтобы при его посредничестве
 5.
 
 ### Комбинированный
-`livan_x3_pro_ru_dc79ce0c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:18 | doc_type:owners_manual
 выключатель
 освещения
 14.
@@ -1370,7 +1296,6 @@ LIVAN, чтобы при его посредничестве
 15.
 
 ### Ручка открывания капота
-`livan_x3_pro_ru_019e3117` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:18 | doc_type:owners_manual
 7.
 Приборная панель
 16.
@@ -1381,7 +1306,6 @@ LIVAN, чтобы при его посредничестве
 8.
 
 ### Включатель зажигания
-`livan_x3_pro_ru_f434aab2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:18 | doc_type:owners_manual
 17.
 Переключатель
 управления
@@ -1392,7 +1316,6 @@ LIVAN, чтобы при его посредничестве
 стеклоочистителя
 
 ### Система контроля и управления
-`livan_x3_pro_ru_827b5530` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:18 | doc_type:owners_manual
 16
 Обзор пассажирской стороны
 Модель 1
@@ -1401,14 +1324,12 @@ LIVAN, чтобы при его посредничестве
 8.
 
 ### Переключатель
-`livan_x3_pro_ru_8ec0ca9f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 управления
 автомобильным окном со стороны
 пассажира спереди
 2.
 
 ### Переключатель знаков аварийной
-`livan_x3_pro_ru_27e4051b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:19 | doc_type:owners_manual
 сигнализации
 9.
 Перчаточный ящик
@@ -1418,7 +1339,6 @@ LIVAN, чтобы при его посредничестве
 10.
 
 ### Ручка перчаточного ящика
-`livan_x3_pro_ru_1a672605` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 4.
 Панель управления кондиционера
 11.
@@ -1429,7 +1349,6 @@ LIVAN, чтобы при его посредничестве
 служб
 
 ### ГЛОНАСС)
-`livan_x3_pro_ru_fe4a563a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 5.
 Отверстие
 для
@@ -1440,7 +1359,6 @@ LIVAN, чтобы при его посредничестве
 Рычаг переключения передач
 
 ### Система контроля и управления
-`livan_x3_pro_ru_a90a7633` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:19 | doc_type:owners_manual
 2
 8
 7
@@ -1458,7 +1376,6 @@ LIVAN, чтобы при его посредничестве
 12.
 
 ### Стояночный тормоз
-`livan_x3_pro_ru_9f7a443d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:20 | doc_type:owners_manual
 7.
 Внутренняя дверная ручка
 Система контроля и управления
@@ -1467,7 +1384,6 @@ LIVAN, чтобы при его посредничестве
 1.
 
 ### Дисплей
-`livan_x3_pro_ru_e50eb0c2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:21 | doc_type:owners_manual
 7.
 Внутренняя дверная ручка
 2.
@@ -1476,14 +1392,12 @@ LIVAN, чтобы при его посредничестве
 8.
 
 ### Переключатель
-`livan_x3_pro_ru_e9407455` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 управления
 автомобильным окном со стороны
 пассажира спереди
 3.
 
 ### Центральный дефлектор системы
-`livan_x3_pro_ru_9af74c22` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:21 | doc_type:owners_manual
 вентиляции и отопления
 9.
 Перчаточный ящик
@@ -1492,7 +1406,6 @@ LIVAN, чтобы при его посредничестве
 10.
 
 ### Ручка перчаточного ящика
-`livan_x3_pro_ru_c8827cfd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 5.
 Отверстие
 для
@@ -1504,7 +1417,6 @@ LIVAN, чтобы при его посредничестве
 6.
 
 ### Правый
-`livan_x3_pro_ru_ddeb0505` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:21 | doc_type:owners_manual
 дефлектор
 системы
 вентиляции и отопления
@@ -1512,7 +1424,6 @@ LIVAN, чтобы при его посредничестве
 Стояночный тормоз
 
 ### Система контроля и управления
-`livan_x3_pro_ru_ddc63b0e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 2
 8
 7
@@ -1527,7 +1438,6 @@ LIVAN, чтобы при его посредничестве
 1.
 
 ### Тахометр
-`livan_x3_pro_ru_9198920a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 4.
 Спидометр
 2.
@@ -1537,12 +1447,10 @@ LIVAN, чтобы при его посредничестве
 3.
 
 ### Изображение приборной панели является схематическим и приведено только для
-`livan_x3_pro_ru_348564f5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 ознакомления. Для реального примера ознакомьтесь с приборной панелью
 автомобиля.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_bd60abb2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 20
 Комбинация приборов
 Тахометр
@@ -1574,7 +1482,6 @@ LIVAN, чтобы при его посредничестве
 топлива экономичнее.
 
 ### Не допускайте перехода стрелки
-`livan_x3_pro_ru_2bb7af4c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:23 | doc_type:owners_manual
 датчик в зону красного цвета, чтобы
 не повреждать двигатель.
 При
@@ -1589,7 +1496,6 @@ LIVAN, чтобы при его посредничестве
 неисправности прибора.
 
 ### ON
-`livan_x3_pro_ru_2737397f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 указатель
 температуры
 воды
@@ -1601,7 +1507,6 @@ LIVAN, чтобы при его посредничестве
 двигателя.
 
 ### Температура
-`livan_x3_pro_ru_04dac0d9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 жидкости
 для
 охлаждения
@@ -1614,7 +1519,6 @@ LIVAN, чтобы при его посредничестве
 возникать изменения.
 
 ### Максимальный
-`livan_x3_pro_ru_dc8c5d3b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:23 | doc_type:owners_manual
 предел
 температуры
 охлаждающей
@@ -1665,7 +1569,6 @@ LIVAN для проведения проверки.
 воздуха.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_a9a0df8d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 2
 8
 7
@@ -1697,7 +1600,6 @@ LIVAN для проведения проверки.
 признаком неисправности прибора.
 
 ### ON указатель уровня топлива показывает
-`livan_x3_pro_ru_f90a74c9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 уровень остатка топлива в баке.
 При
 полном
@@ -1755,13 +1657,11 @@ LIVAN для проведения проверки.
 погаснет. Если же этого не происходит,
 
 ### Система контроля и управления
-`livan_x3_pro_ru_f3fada7b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 22
 следует обратиться в центр технического
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_485251bc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 для
 проведения
 проверки.
@@ -1783,7 +1683,6 @@ LIVAN для проведения проверки.
 катализатора при глушении двигателя.
 
 ### При запуске двигателя указатель
-`livan_x3_pro_ru_1e356280` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 уровня
 топлива
 может
@@ -1791,7 +1690,6 @@ LIVAN для проведения проверки.
 является признаком неисправности.
 
 ### Спидометр указывает текущую скорость
-`livan_x3_pro_ru_496b403a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 автомобиля. Единица измерения - км/ч.
 Максимальная скорость на спидометре -
 240 км/ч.
@@ -1806,7 +1704,6 @@ LIVAN для проведения проверки.
 скорости.
 
 ### Однако
-`livan_x3_pro_ru_9725c013` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 безопасной,
 устойчивой
 и
@@ -1827,7 +1724,6 @@ LIVAN для проведения проверки.
 неисправности прибора.
 
 ### Оповещение
-`livan_x3_pro_ru_1c139fe5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 о
 превышении
 скорости
@@ -1843,7 +1739,6 @@ LIVAN для проведения проверки.
 оповещение.
 
 ### Оповещение
-`livan_x3_pro_ru_1c139fe5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 напоминает
 водителю
 о
@@ -1854,7 +1749,6 @@ LIVAN для проведения проверки.
 звуковой сигнал прекратится.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_e7f38197` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:25 | doc_type:owners_manual
 2
 8
 7
@@ -1868,7 +1762,6 @@ LIVAN для проведения проверки.
 Описание дисплея
 
 ### Зона А
-`livan_x3_pro_ru_ade3799d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 •
 Часы: обычно в 24-часовом формате.
 •
@@ -1880,7 +1773,6 @@ LIVAN для проведения проверки.
 •
 
 ### Ограничение
-`livan_x3_pro_ru_ee13fbcb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 скорости
 при
 круизконтроле*:
@@ -1893,7 +1785,6 @@ LIVAN для проведения проверки.
 круизконтроле.
 
 ### Зона В
-`livan_x3_pro_ru_19f2cdf0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 •
 Указывает информацию об открытии
 двери.
@@ -1905,7 +1796,6 @@ LIVAN для проведения проверки.
 •
 
 ### Компьютерная
-`livan_x3_pro_ru_d1710cd4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 информация
 о
 трафике:
@@ -1920,7 +1810,6 @@ LIVAN для проведения проверки.
 •
 
 ### Показатель
-`livan_x3_pro_ru_547fb13b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 расхода
 топлива,
 показатель
@@ -1928,7 +1817,6 @@ LIVAN для проведения проверки.
 охлаждающей жидкости.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_f97f2b94` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 24
 Зона С
 •
@@ -1937,7 +1825,6 @@ LIVAN для проведения проверки.
 •
 
 ### Показывает данные об оставшемся
-`livan_x3_pro_ru_9ff3fe80` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:27 | doc_type:owners_manual
 пробеге
 до
 технического
@@ -1952,7 +1839,6 @@ LIVAN для проведения проверки.
 передачи.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_120e5098` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:27 | doc_type:owners_manual
 2
 8
 7
@@ -1970,7 +1856,6 @@ LIVAN для проведения проверки.
 автомобиля.
 
 ### При однократном нажатии клавиши TRIP
-`livan_x3_pro_ru_7ff8be54` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 можно поочередно переключать данные
 об промежуточном пробеге, возможной
 дистанции
@@ -1987,7 +1872,6 @@ LIVAN для проведения проверки.
 клавишу
 
 ### TRIP
-`livan_x3_pro_ru_1629f592` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 позволяет
 обнулить соответствующие показатели.
 При
@@ -2005,13 +1889,11 @@ LIVAN для проведения проверки.
 клавишу
 
 ### TRIP
-`livan_x3_pro_ru_1629f592` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 позволяет перейти к настройке часов.
 Компьютерная информация о
 трафике
 
 ### Промежуточный
-`livan_x3_pro_ru_9cb33b2a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 пробег
 показывает
 расстояние,
@@ -2021,7 +1903,6 @@ LIVAN для проведения проверки.
 последнего обнуления этого показателя.
 
 ### В
-`livan_x3_pro_ru_0968a152` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:28 | doc_type:owners_manual
 этом
 интерфейсе
 можно
@@ -2044,7 +1925,6 @@ TRIP. В приборной панели есть функция
 самовозврат промежуточного пробега.
 
 ### Интерфейс
-`livan_x3_pro_ru_a4aef31b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 промежуточного
 пробега
 обновляется
@@ -2063,7 +1943,6 @@ TRIP. В приборной панели есть функция
 пробега начинается заново с 0,0.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_9041148c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 26
 Возможная
 дистанция
@@ -2072,7 +1951,6 @@ TRIP. В приборной панели есть функция
 проехать при текущем уровне топлива.
 
 ### Возможная дистанция рассчитывается из
-`livan_x3_pro_ru_a3be2c5b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:29 | doc_type:owners_manual
 текущего расхода топлива и его остатка в
 баке.
 Из-за
@@ -2114,20 +1992,17 @@ TRIP. В приборной панели есть функция
 выключается.
 
 ### Минимально
-`livan_x3_pro_ru_9f8e6214` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 допустимое
 значение возможной дистанции - 0 км,
 его нельзя сбросить вручную.
 
 ### Ввиду разности стилей вождения
-`livan_x3_pro_ru_d9534f40` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 результаты вычисления возможной
 дистанции бортовым компьютером могут
 быть
 разными.
 
 ### Рекомендуется
-`livan_x3_pro_ru_1eeba8d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 соблюдать
 крейсерскую
 скорость
@@ -2139,7 +2014,6 @@ TRIP. В приборной панели есть функция
 уровня выбросов.
 
 ### При движении автомобиля показатель
-`livan_x3_pro_ru_37e47990` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 мгновенного
 расхода
 топлива
@@ -2148,7 +2022,6 @@ TRIP. В приборной панели есть функция
 расход топлива нельзя обнулить.
 
 ### При работе двигателя и скорости не
-`livan_x3_pro_ru_eb1df7f8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 более 2 км/ч показатель показывает "—"
 литров/100 км. При ненажатии педали
 акселератора и движении автомобиля по
@@ -2159,7 +2032,6 @@ TRIP. В приборной панели есть функция
 литров/100 км.
 
 ### Данный показатель помогает водителю
-`livan_x3_pro_ru_b58959be` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 регулировать
 стиль
 вождения
@@ -2167,14 +2039,12 @@ TRIP. В приборной панели есть функция
 достижения желаемого расхода топлива.
 
 ### Оповещение
-`livan_x3_pro_ru_5ef38ad4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 о
 техническом
 обслуживании
 1. Символ технического обслуживания
 
 ### 2. Число
-`livan_x3_pro_ru_3b7a0de5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 дней,
 оставшихся
 до
@@ -2185,7 +2055,6 @@ TRIP. В приборной панели есть функция
 технического обслуживания
 
 ### Система контроля и управления
-`livan_x3_pro_ru_baf97cc2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 2
 8
 7
@@ -2231,7 +2100,6 @@ TRIP. В приборной панели есть функция
 обслуживания.
 
 ### Уведомление о невыключении
-`livan_x3_pro_ru_cc8f4755` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:30 | doc_type:owners_manual
 фар
 При приведении зажигания в положение
 OFF, при включении габаритных огней
@@ -2252,7 +2120,6 @@ OFF, при включении габаритных огней
 избежание разрядки аккумулятора.
 
 ### При выходе из машины выключайте
-`livan_x3_pro_ru_da8e2467` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:30 | doc_type:owners_manual
 все
 фары,
 чтобы
@@ -2261,7 +2128,6 @@ OFF, при включении габаритных огней
 запуска автомобиля.
 
 ### Уведомление
-`livan_x3_pro_ru_c49b2e3d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:30 | doc_type:owners_manual
 о
 незакрытии
 дверей
@@ -2283,7 +2149,6 @@ OFF, при включении габаритных огней
 звуковое оповещение.
 
 ### Дисплей
-`livan_x3_pro_ru_8bce22b2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:30 | doc_type:owners_manual
 часов
 показывается
 на
@@ -2291,7 +2156,6 @@ OFF, при включении габаритных огней
 Настройка часов при нажатии клавиши
 
 ### Система контроля и управления
-`livan_x3_pro_ru_53f3439e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 28
 1. Настройка
 часов:
@@ -2306,14 +2170,12 @@ OFF, при включении габаритных огней
 клавиши
 
 ### TRIP.
-`livan_x3_pro_ru_e40035ab` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 Когда мерцают "часы", Вы можете
 настроить часы. Короткое нажатие
 клавиши TRIP позволяет с каждым
 нажатием переключать часы от 0 до
 
 ### 23. Длинное нажатие клавиши TRIP
-`livan_x3_pro_ru_2fe20d60` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 позволяет
 ускорить
 переключение
@@ -2334,7 +2196,6 @@ OFF, при включении габаритных огней
 59.
 
 ### Длинное
-`livan_x3_pro_ru_c190893f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 нажатие
 клавиши
 TRIP
@@ -2343,7 +2204,6 @@ TRIP
 переключение часов от 0 до 59.
 
 ### 3. Выход из настройки часов: через пять
-`livan_x3_pro_ru_aae379c9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 секунд
 после
 настройки
@@ -2352,7 +2212,6 @@ TRIP
 выход из настройки.
 
 ### Для обеспечения безопасности не
-`livan_x3_pro_ru_6e395c86` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 допускается настройка часов при
 движении.
 Пожалуйста,
@@ -2364,7 +2223,6 @@ TRIP
 часов.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_3eefd515` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 2
 8
 7
@@ -2383,7 +2241,6 @@ TRIP
 индикаторных ламп
 
 ### Система контроля и управления
-`livan_x3_pro_ru_a72b3de4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:32 | doc_type:owners_manual
 30
 Краткие
 сведения
@@ -2395,7 +2252,6 @@ TRIP
 Номер
 
 ### Изображение
-`livan_x3_pro_ru_6cea3e37` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 Цвет
 1
 Индикаторная лампа левого
@@ -2404,7 +2260,6 @@ TRIP
 2
 
 ### Индикаторная лампа правого
-`livan_x3_pro_ru_ad672976` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:33 | doc_type:owners_manual
 поворотника
 Зеленый
 3
@@ -2412,7 +2267,6 @@ TRIP
 подушки безопасности
 
 ### Красный
-`livan_x3_pro_ru_3831fb51` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:33 | doc_type:owners_manual
 4
 Сигнальная лампа стояночного
 тормоза
@@ -2422,7 +2276,6 @@ TRIP
 тормозной системы
 
 ### Красный
-`livan_x3_pro_ru_3831fb51` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 6
 Сигнальная лампа неисправности
 системы двигателя
@@ -2430,7 +2283,6 @@ TRIP
 7
 
 ### Сигнальная лампа неисправности
-`livan_x3_pro_ru_5b095264` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 коробки передач*
 Желтый,
 красный
@@ -2439,13 +2291,11 @@ TRIP
 двигателя связанная с экологией
 
 ### Желтый
-`livan_x3_pro_ru_993e8886` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 9
 Сигнальная лампа неисправности
 системы зарядки аккумулятора
 
 ### Красный
-`livan_x3_pro_ru_3831fb51` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 10
 Индикаторная лампа габаритных
 огней
@@ -2457,7 +2307,6 @@ TRIP
 12
 
 ### Индикаторная лампа задних
-`livan_x3_pro_ru_a4dccfae` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 противотуманных фар
 Желтый
 13
@@ -2465,7 +2314,6 @@ TRIP
 температуры воды
 
 ### Красный
-`livan_x3_pro_ru_3831fb51` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 14
 Сигнальная лампа низкого уровня
 топлива
@@ -2473,7 +2321,6 @@ TRIP
 15
 
 ### Сигнальная лампа низкого давления
-`livan_x3_pro_ru_c0c24d5b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 масла
 Красный
 16
@@ -2482,7 +2329,6 @@ TRIP
 сиденья
 
 ### Система контроля и управления
-`livan_x3_pro_ru_3e4cca2c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
 2
 8
 7
@@ -2499,7 +2345,6 @@ TRIP
 17
 
 ### Сигнальная лампа не нормального
-`livan_x3_pro_ru_867a069d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:34 | doc_type:owners_manual
 давления в шинах (TPMS)
 Желтый
 18
@@ -2507,7 +2352,6 @@ TRIP
 антиблокировочной системы (ABS)
 
 ### Желтый
-`livan_x3_pro_ru_b9cdc48c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 19
 Сигнальная лампа неисправности
 EBD
@@ -2518,21 +2362,18 @@ EBD
 устойчивости (ESC)*
 
 ### Желтый
-`livan_x3_pro_ru_b9cdc48c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 21
 Сигнальная лампа отключения
 системы электронного контроля
 устойчивости (ESC)*
 
 ### Желтый
-`livan_x3_pro_ru_b9cdc48c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:34 | doc_type:owners_manual
 22
 Сигнальная лампа неисправности
 системы электроусиления рулевого
 управления (EPS)
 
 ### Желтый
-`livan_x3_pro_ru_b9cdc48c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 23
 Индикаторная лампа круиз контроля*
 Зеленый
@@ -2540,7 +2381,6 @@ EBD
 Индикаторная лампа эко-режима*
 
 ### Зеленый
-`livan_x3_pro_ru_b0c85d9f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 25
 Индикаторная лампа спортивного
 режима*
@@ -2548,7 +2388,6 @@ EBD
 26
 
 ### Индикаторная лампа фар ближнего
-`livan_x3_pro_ru_9f3cc316` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 света
 Зеленый
 27
@@ -2556,13 +2395,11 @@ EBD
 ограничением скорости*
 
 ### Желтый
-`livan_x3_pro_ru_b9cdc48c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 28
 Сигнальная лампа неисправности
 системы доступа и запуска без ключа
 
 ### Желтый
-`livan_x3_pro_ru_b9cdc48c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 29
 Индикаторная лампа противоугонной
 сигнализации
@@ -2570,12 +2407,10 @@ EBD
 30
 
 ### Желтый
-`livan_x3_pro_ru_b9cdc48c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:34 | doc_type:owners_manual
 Обращайте внимание на горящие сигнальные лампы, в противном случае это
 может привести к серьезным травмам и повреждению имущества.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_4ecd86c5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 32
 Описание
 сигнальных
@@ -2587,7 +2422,6 @@ EBD
 поворотника - зеленый
 
 ### При повороте автомобиля налево
-`livan_x3_pro_ru_3326faa9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 или смены полосы движения на
 левую
 переместите
@@ -2600,7 +2434,6 @@ EBD
 поворотника.
 
 ### Индикаторная лампа левого поворотника
-`livan_x3_pro_ru_2c3ef0a8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 и
 левый
 поворотник
@@ -2620,7 +2453,6 @@ EBD
 стороны.
 
 ### Свяжитесь
-`livan_x3_pro_ru_d9545f5f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:35 | doc_type:owners_manual
 с
 центром
 технического
@@ -2631,7 +2463,6 @@ EBD
 обслуживания.
 
 ### Индикаторная
-`livan_x3_pro_ru_90424d00` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 лампа
 правого
 поворотника - зеленый
@@ -2651,7 +2482,6 @@ EBD
 поворотника.
 
 ### Индикаторная
-`livan_x3_pro_ru_90424d00` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 лампа
 правого
 поворотника
@@ -2660,7 +2490,6 @@ EBD
 поворотник будут мигать одновременно.
 
 ### Если индикаторная лампа мигает
-`livan_x3_pro_ru_0246309b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 быстрее, чем в обычном состоянии,
 это
 указывает
@@ -2673,7 +2502,6 @@ EBD
 стороны.
 
 ### Сигнальная
-`livan_x3_pro_ru_5af41188` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:35 | doc_type:owners_manual
 лампа
 неисправности
 воздушной подушки безопасности -
@@ -2686,7 +2514,6 @@ EBD
 положение
 
 ### ON
-`livan_x3_pro_ru_55030e38` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 загорится данная сигнальная лампа и
 через несколько секунд погаснет. Если в
 системе
@@ -2701,7 +2528,6 @@ EBD
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_42a8be14` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:35 | doc_type:owners_manual
 как
 можно
 скорее
@@ -2733,7 +2559,6 @@ EBD
 безопасности.
 
 ### Сигнальная
-`livan_x3_pro_ru_5af41188` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:35 | doc_type:owners_manual
 лампа
 стояночного
 тормоза - красный
@@ -2746,7 +2571,6 @@ EBD
 пускового переключателя в положение
 
 ### ON.
-`livan_x3_pro_ru_9b3ba14e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:35 | doc_type:owners_manual
 Если
 стояночный
 тормоз
@@ -2757,7 +2581,6 @@ EBD
 сигнальная лампа будет гореть до тех
 
 ### Система контроля и управления
-`livan_x3_pro_ru_dd70a575` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:35 | doc_type:owners_manual
 2
 8
 7
@@ -2778,7 +2601,6 @@ EBD
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_3f3a1b8a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 как
 можно
 скорее
@@ -2787,7 +2609,6 @@ EBD
 технического обслуживания.
 
 ### Сигнальная
-`livan_x3_pro_ru_7158d622` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:36 | doc_type:owners_manual
 лампа
 неисправности
 тормозной системы - красный
@@ -2799,7 +2620,6 @@ EBD
 положение
 
 ### ON
-`livan_x3_pro_ru_39213696` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:36 | doc_type:owners_manual
 или запуске двигателя загорится данная
 сигнальная
 лампа
@@ -2842,12 +2662,10 @@ EBD
 полу.
 
 ### Остановка
-`livan_x3_pro_ru_45ed0567` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:36 | doc_type:owners_manual
 автомобиля после нажатия на педаль
 тормоза может занять больше времени.
 
 ### Попробуйте
-`livan_x3_pro_ru_98ae2680` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 перезапустить
 автомобиль
 один-два раза. Если данная сигнальная
@@ -2862,7 +2680,6 @@ EBD
 обслуживания
 
 ### LIVAN как можно скорее для проведения
-`livan_x3_pro_ru_88ea3bf3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:36 | doc_type:owners_manual
 технического обслуживания.
 Если
 горит
@@ -2880,7 +2697,6 @@ EBD
 движение.
 
 ### Выполните
-`livan_x3_pro_ru_bed2553f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 безопасную
 остановку
 и
@@ -2895,7 +2711,6 @@ EBD
 обслуживания.
 
 ### Сигнальная
-`livan_x3_pro_ru_7158d622` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 лампа
 неисправности
 системы двигателя - желтый
@@ -2903,7 +2718,6 @@ EBD
 34
 
 ### Данная сигнальная лампа загорается при
-`livan_x3_pro_ru_37a1db4b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 перемещении пускового переключателя в
 положение ON; после запуска двигателя
 данная сигнальная лампа гаснет. Данная
@@ -2918,13 +2732,11 @@ EBD
 двигателем.
 
 ### Сигнальная
-`livan_x3_pro_ru_38f9f76e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 лампа
 неисправности
 коробки передач - желтый, красный*
 
 ### Данная
-`livan_x3_pro_ru_6f0f421a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 сигнальная
 лампа
 загорается
@@ -2935,7 +2747,6 @@ EBD
 передач.
 
 ### Данная
-`livan_x3_pro_ru_6f0f421a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 сигнальная
 лампа
 загорается
@@ -2965,14 +2776,12 @@ EBD
 обслуживания.
 
 ### Сигнальная
-`livan_x3_pro_ru_38f9f76e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 лампа
 неисправности
 двигателя связанная с экологией -
 желтый
 
 ### Данная
-`livan_x3_pro_ru_6f0f421a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 сигнальная
 лампа
 загорается
@@ -2981,7 +2790,6 @@ EBD
 пускового переключателя в положение
 
 ### ON;
-`livan_x3_pro_ru_0a49d5d7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 после
 запуска
 двигателя
@@ -3010,7 +2818,6 @@ EBD
 двигателя.
 
 ### Сигнальная
-`livan_x3_pro_ru_38f9f76e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 лампа
 неисправности
 системы
@@ -3020,7 +2827,6 @@ EBD
 красный
 
 ### ON;
-`livan_x3_pro_ru_0a49d5d7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 после
 запуска
 двигателя
@@ -3042,7 +2848,6 @@ EBD
 автомобиля.
 
 ### Индикаторная
-`livan_x3_pro_ru_246968d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 лампа
 габаритных
 огней - зеленый
@@ -3058,7 +2863,6 @@ EBD
 переключателем освещения.
 
 ### Индикаторная лампа фар дальнего
-`livan_x3_pro_ru_3272462d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 света - синий
 Данная
 индикаторная
@@ -3073,7 +2877,6 @@ EBD
 переключателем освещения.
 
 ### Индикаторная
-`livan_x3_pro_ru_246968d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 лампа
 задних
 противотуманных фар - желтый
@@ -3084,7 +2887,6 @@ EBD
 противотуманные фары.
 
 ### Сигнальная
-`livan_x3_pro_ru_38f9f76e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 лампа
 высокой
 температуры
@@ -3092,7 +2894,6 @@ EBD
 жидкости - красный
 
 ### Система контроля и управления
-`livan_x3_pro_ru_de681bf9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 2
 8
 7
@@ -3110,7 +2911,6 @@ EBD
 положение
 
 ### ON
-`livan_x3_pro_ru_aefcc73d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:38 | doc_type:owners_manual
 загорится данная сигнальная лампа и
 через несколько секунд погаснет. Данная
 сигнальная
@@ -3132,7 +2932,6 @@ EBD
 обслуживания
 
 ### LIVAN как можно скорее для проведения
-`livan_x3_pro_ru_67d9792b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:38 | doc_type:owners_manual
 технического обслуживания.
 Когда
 двигатель
@@ -3166,7 +2965,6 @@ EBD
 избежать травм или смерти.
 
 ### Сигнальная лампа низкого уровня
-`livan_x3_pro_ru_d14f11d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:38 | doc_type:owners_manual
 топлива - желтый
 При
 перемещении
@@ -3176,7 +2974,6 @@ EBD
 положение
 
 ### ON
-`livan_x3_pro_ru_aefcc73d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:38 | doc_type:owners_manual
 загорится данная сигнальная лампа и
 через несколько секунд погаснет. Данная
 сигнальная
@@ -3204,13 +3001,11 @@ EBD
 обслуживания
 
 ### LIVAN как можно скорее для проведения
-`livan_x3_pro_ru_67d9792b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:38 | doc_type:owners_manual
 технического обслуживания.
 Сигнальная лампа низкого давления
 масла - красный
 
 ### При запуске двигателя загорается
-`livan_x3_pro_ru_a6a5895d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:38 | doc_type:owners_manual
 данная сигнальная лампа и через
 несколько
 секунд
@@ -3234,7 +3029,6 @@ EBD
 двигателе.
 
 ### Автомобиль
-`livan_x3_pro_ru_cb13d8f6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:38 | doc_type:owners_manual
 следует
 безопасно
 припарковать
@@ -3247,7 +3041,6 @@ EBD
 двигатель.
 
 ### Свяжитесь
-`livan_x3_pro_ru_650ca086` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:38 | doc_type:owners_manual
 с
 центром
 технического
@@ -3269,7 +3062,6 @@ LIVAN
 двигатель может быть поврежден.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_2cd41a6e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:38 | doc_type:owners_manual
 36
 Сигнальная лампа непристегнутого
 ремня
@@ -3278,7 +3070,6 @@ LIVAN
 сиденья - красный
 
 ### Данная
-`livan_x3_pro_ru_87bd3b08` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:39 | doc_type:owners_manual
 сигнальная
 лампа
 будет
@@ -3303,7 +3094,6 @@ LIVAN
 данная сигнальная лампа погаснет.
 
 ### Сигнальная лампа не нормального
-`livan_x3_pro_ru_7d8871af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:39 | doc_type:owners_manual
 давления в шинах (TPMS) - желтый
 При
 перемещении
@@ -3313,7 +3103,6 @@ LIVAN
 положение
 
 ### ON
-`livan_x3_pro_ru_3bdd69b0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:39 | doc_type:owners_manual
 загорится данная сигнальная лампа и
 через несколько секунд погаснет. При
 неисправности в системе, не нормальном
@@ -3332,7 +3121,6 @@ LIVAN
 обслуживания
 
 ### LIVAN как можно скорее для проведения
-`livan_x3_pro_ru_f41f9e56` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:39 | doc_type:owners_manual
 технического обслуживания.
 Если
 загорелась
@@ -3350,26 +3138,22 @@ LIVAN
 торможения.
 
 ### Как можно скорее съезжайте с дороги и
-`livan_x3_pro_ru_519f0ec8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:39 | doc_type:owners_manual
 выполните безопасную остановку, после
 чего проверьте шины и давление в них.
 
 ### При определенных условиях движения
-`livan_x3_pro_ru_17ac1dd9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:39 | doc_type:owners_manual
 (таких как спортивный режим, зимнее
 время или мягкая дорога) сигнальная
 лампа может загораться с задержкой или
 вообще не загораться.
 
 ### Сигнальная
-`livan_x3_pro_ru_9079a292` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:39 | doc_type:owners_manual
 лампа
 неисправности
 ABS и EBD - желтый
 Сигнальная лампа неисправности
 
 ### ABS и EBD горит при нахождении
-`livan_x3_pro_ru_9856e69e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:39 | doc_type:owners_manual
 пускового переключателя в положении
 ON. Если антиблокировочная система и
 вспомогательная
@@ -3420,7 +3204,6 @@ EBD. Свяжитесь с центром технического
 обслуживания.
 
 ### В
-`livan_x3_pro_ru_1cc98302` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:39 | doc_type:owners_manual
 этом
 случае
 при
@@ -3429,7 +3212,6 @@ EBD. Свяжитесь с центром технического
 неустойчивым при торможении.
 
 ### Сигнальная
-`livan_x3_pro_ru_9079a292` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:39 | doc_type:owners_manual
 лампа
 неисправности
 системы
@@ -3444,7 +3226,6 @@ EBD. Свяжитесь с центром технического
 положение
 
 ### ON
-`livan_x3_pro_ru_3bdd69b0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:39 | doc_type:owners_manual
 загорится данная сигнальная лампа и
 через
 несколько
@@ -3452,7 +3233,6 @@ EBD. Свяжитесь с центром технического
 погаснет.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_9f68397a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:39 | doc_type:owners_manual
 2
 8
 7
@@ -3477,7 +3257,6 @@ EBD. Свяжитесь с центром технического
 обслуживания
 
 ### Сигнальная
-`livan_x3_pro_ru_59660166` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 лампа
 отключения
 системы
@@ -3486,7 +3265,6 @@ EBD. Свяжитесь с центром технического
 устойчивости (ESC) - желтый*
 
 ### Данная
-`livan_x3_pro_ru_aa105cec` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 индикаторная
 лампа
 загорается,
@@ -3497,7 +3275,6 @@ ESC
 ESC перестает работать.
 
 ### Сигнальная
-`livan_x3_pro_ru_59660166` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:40 | doc_type:owners_manual
 лампа
 неисправности
 системы электроусиления рулевого
@@ -3510,7 +3287,6 @@ ESC перестает работать.
 положение
 
 ### ON
-`livan_x3_pro_ru_8766106d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:40 | doc_type:owners_manual
 загорится данная сигнальная лампа и
 через несколько секунд погаснет. Данная
 сигнальная
@@ -3522,7 +3298,6 @@ ESC перестает работать.
 управления.
 
 ### Индикаторная лампа круиз контроля
-`livan_x3_pro_ru_fcbfd147` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 - зеленый*
 Данная
 индикаторная
@@ -3535,13 +3310,11 @@ ESC перестает работать.
 зеленый*
 
 ### Данная индикаторная лампа горит
-`livan_x3_pro_ru_afed70af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 при движении автомобиля в экорежиме. Это означает, что автомобиль
 движется в относительно экономичном и
 энергосберегающем режиме.
 
 ### Индикаторная
-`livan_x3_pro_ru_fc38b974` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 лампа
 спортивного
 режима - желтый*
@@ -3554,7 +3327,6 @@ ESC перестает работать.
 спортивного режима.
 
 ### Индикаторная лампа фар ближнего
-`livan_x3_pro_ru_a5be0b87` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 света - зеленый
 Данная
 индикаторная
@@ -3569,7 +3341,6 @@ ESC перестает работать.
 переключателем освещения.
 
 ### Индикаторная лампа круиз контроля
-`livan_x3_pro_ru_fcbfd147` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 с ограничением скорости - желтый*
 Данная
 лампа
@@ -3588,14 +3359,12 @@ ESC перестает работать.
 превышении скорости.
 
 ### Сигнальная
-`livan_x3_pro_ru_59660166` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 лампа
 неисправности
 системы доступа и запуска без ключа
 (PEPS) - желтый
 
 ### Модели с автоматической коробкой
-`livan_x3_pro_ru_b894fcff` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 передач: данная сигнальная лампа
 будет
 гореть
@@ -3610,7 +3379,6 @@ ESC перестает работать.
 обслуживания
 
 ### LIVAN как можно скорее для проведения
-`livan_x3_pro_ru_76b9cce9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 технического обслуживания.
 Модели
 с
@@ -3625,7 +3393,6 @@ ESC перестает работать.
 положении
 
 ### LOCK,
-`livan_x3_pro_ru_a07a1620` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:40 | doc_type:owners_manual
 а
 пульт
 дистанционного
@@ -3641,7 +3408,6 @@ ESC перестает работать.
 вынут.
 
 ### Индикаторная лампа противоугонной
-`livan_x3_pro_ru_0afd1e75` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 сигнализации - красный
 Система контроля и управления
 38
@@ -3664,7 +3430,6 @@ ESC перестает работать.
 желтый
 
 ### Данная лампа загорается желтым
-`livan_x3_pro_ru_74ceb920` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:41 | doc_type:owners_manual
 при
 сбое
 режима
@@ -3679,7 +3444,6 @@ GPF.
 фильтр
 
 ### Система контроля и управления
-`livan_x3_pro_ru_e3a55c35` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:41 | doc_type:owners_manual
 2
 8
 7
@@ -3696,14 +3460,12 @@ GPF.
 стеклоочистителей
 
 ### Комбинированный
-`livan_x3_pro_ru_e3489c29` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 выключатель освещения
 1. Переключатель
 управления
 освещением
 
 ### 2. Переключатель
-`livan_x3_pro_ru_289d679f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:42 | doc_type:owners_manual
 управления
 противотуманными фарами
 3. Ручка
@@ -3720,13 +3482,11 @@ GPF.
 поворотниками)
 
 ### Эксплуатация
-`livan_x3_pro_ru_3e30a5f5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 комбинированного
 переключателя освещения
 Габаритные огни
 
 ### Поворачивайте
-`livan_x3_pro_ru_f05754d3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 переключатель
 управления освещением 1 в направлении
 A до тех пор, пока стрелка
@@ -3738,7 +3498,6 @@ A до тех пор, пока стрелка
 управления.
 
 ### Поворачивайте
-`livan_x3_pro_ru_f05754d3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 переключатель
 управления освещением 1 в направлении
 B до тех пор, пока стрелка
@@ -3747,7 +3506,6 @@ B до тех пор, пока стрелка
 положение
 
 ### OFF,
-`livan_x3_pro_ru_49b1a90f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 габаритные
 огни,
 приборная
@@ -3762,7 +3520,6 @@ B до тех пор, пока стрелка
 отключены.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_738c55e9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:42 | doc_type:owners_manual
 40
 Фары ближнего света
 Поворачивайте
@@ -3779,7 +3536,6 @@ A до тех пор, пока стрелка
 света.
 
 ### Поворачивайте
-`livan_x3_pro_ru_87dec3b2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:43 | doc_type:owners_manual
 переключатель управления освещением
 1 в направлении B до тех пор, пока
 стрелка
@@ -3787,7 +3543,6 @@ A до тех пор, пока стрелка
 фары ближнего света будут отключены.
 
 ### Переключение
-`livan_x3_pro_ru_20b17bb4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:43 | doc_type:owners_manual
 фар
 дальнего
 и
@@ -3799,7 +3554,6 @@ A до тех пор, пока стрелка
 направлении
 
 ### C,
-`livan_x3_pro_ru_b7b1f052` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:43 | doc_type:owners_manual
 чтобы
 включить
 фары
@@ -3813,14 +3567,12 @@ A до тех пор, пока стрелка
 направлении
 
 ### F,
-`livan_x3_pro_ru_e9826733` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:43 | doc_type:owners_manual
 чтобы
 снова
 переключиться на фары ближнего света.
 Мигание фар дальнего света
 
 ### Переместите
-`livan_x3_pro_ru_660ae458` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:43 | doc_type:owners_manual
 ручку
 3
 в
@@ -3841,7 +3593,6 @@ A до тех пор, пока стрелка
 Автоматическое освещение*
 
 ### Поворачивайте
-`livan_x3_pro_ru_87dec3b2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 переключатель
 управления освещением 1 в направлении
 A до тех пор, пока стрелка
@@ -3870,7 +3621,6 @@ AUTO, будет
 освещения.
 
 ### Система
-`livan_x3_pro_ru_c1491975` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:43 | doc_type:owners_manual
 автоматического
 освещения
 может
@@ -3906,7 +3656,6 @@ AUTO, будет
 и фары ближнего света.
 
 ### Система имеет функцию ручного
-`livan_x3_pro_ru_42b38e51` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:43 | doc_type:owners_manual
 приоритета
 в
 автоматическом
@@ -3915,7 +3664,6 @@ AUTO, будет
 режима автоматического освещения.
 
 ### Правый поворотник
-`livan_x3_pro_ru_3bfba0a0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 Переместите ручку 3 в направлении D,
 индикатор
 правого
@@ -3937,7 +3685,6 @@ AUTO, будет
 поворота погаснет.
 
 ### Левый поворотник
-`livan_x3_pro_ru_ce957b0b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 Переместите ручку 3 в направлении E,
 индикатор
 левого
@@ -3959,7 +3706,6 @@ AUTO, будет
 поворота погаснет.
 
 ### Функция перестроения
-`livan_x3_pro_ru_50af82c6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 Переместите ручку 3 в направлении D
 или
 E на
@@ -3973,7 +3719,6 @@ E на
 мигать 3 раза.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_2b185ef6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:43 | doc_type:owners_manual
 2
 8
 7
@@ -4000,7 +3745,6 @@ E на
 передних фар
 
 ### 1. Ручка регулировки высоты передних
-`livan_x3_pro_ru_578df46e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 фар
 Данная
 ручка
@@ -4012,7 +3756,6 @@ E на
 передних фар.
 
 ### Ручка регулировки высоты передних фар
-`livan_x3_pro_ru_7d0299de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:44 | doc_type:owners_manual
 имеет четыре положения: 0, 1, 2 и 3.
 Установите
 положение
@@ -4049,7 +3792,6 @@ E на
 Дневные ходовые огни*
 
 ### Включение дневных ходовых огней
-`livan_x3_pro_ru_0bb9eb84` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:44 | doc_type:owners_manual
 После
 запуска
 двигателя
@@ -4061,7 +3803,6 @@ E на
 загорятся дневные ходовые огни.
 
 ### Дневные ходовые огни
-`livan_x3_pro_ru_6e7f5a93` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 автоматически
 выключаются в следующих случаях:
 •
@@ -4070,7 +3811,6 @@ E на
 переключателя в положение ACC или
 
 ### OFF;
-`livan_x3_pro_ru_85473227` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:44 | doc_type:owners_manual
 •
 Включение фар ближнего света.
 Проводи меня домой
@@ -4080,7 +3820,6 @@ E на
 пускового переключателя в положение
 
 ### OFF
-`livan_x3_pro_ru_a6f4560d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 быстро
 переведите
 комбинированный
@@ -4090,7 +3829,6 @@ E на
 положение
 
 ### OFF.
-`livan_x3_pro_ru_c328be91` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:44 | doc_type:owners_manual
 Будет
 активирована
 Система контроля и управления
@@ -4105,13 +3843,11 @@ E на
 домой"
 
 ### При выполнении любого из следующих
-`livan_x3_pro_ru_5e22548d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:45 | doc_type:owners_manual
 условий функция "Проводи меня домой"
 будет отключена:
 •
 
 ### Пусковой переключатель не находится
-`livan_x3_pro_ru_28e760fd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:45 | doc_type:owners_manual
 в положении OFF;
 •
 Переключение
@@ -4129,7 +3865,6 @@ E на
 мультимедиа.
 
 ### Комбинированный
-`livan_x3_pro_ru_28e9a76d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 переключатель
 стеклоочистителя
 Комбинированный
@@ -4137,7 +3872,6 @@ E на
 стеклоочистителей (модель 1)
 
 ### 1. Ручка
-`livan_x3_pro_ru_32c248bb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 управления
 передними
 стеклоочистителями
@@ -4150,7 +3884,6 @@ E на
 стеклоочистителей
 
 ### 3. Ручка
-`livan_x3_pro_ru_6bf15e07` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 управления
 задним
 стеклоочистителем
@@ -4159,7 +3892,6 @@ E на
 стеклоочистителей
 
 ### Система контроля и управления
-`livan_x3_pro_ru_11d37991` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 2
 8
 7
@@ -4185,13 +3917,11 @@ OFF, передние стеклоочистители будут
 движение.
 
 ### Отключение
-`livan_x3_pro_ru_18737394` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 передних
 стеклоочистителей
 При перемещении ручки 1 в направлении
 
 ### A
-`livan_x3_pro_ru_1e5c5853` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 в
 положение
 OFF
@@ -4199,7 +3929,6 @@ OFF
 стеклоочистители будут выключены.
 
 ### Прерывистое
-`livan_x3_pro_ru_86fca362` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 движение
 передних
 стеклоочистителей
@@ -4207,7 +3936,6 @@ OFF
 положение
 
 ### INT,
-`livan_x3_pro_ru_16dea512` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 передние
 стеклоочистители
 будут
@@ -4216,7 +3944,6 @@ OFF
 движение.
 
 ### В
-`livan_x3_pro_ru_c3572704` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 это
 время
 система управления стеклоочистителями
@@ -4238,7 +3965,6 @@ OFF
 (направление
 
 ### A)
-`livan_x3_pro_ru_1404b209` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 интервал
 времени
 прерывистого
@@ -4250,7 +3976,6 @@ OFF
 все короче.
 
 ### Движение
-`livan_x3_pro_ru_c60e1afc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 передних
 стеклоочистителей
 с
@@ -4260,7 +3985,6 @@ OFF
 положение
 
 ### LO,
-`livan_x3_pro_ru_920348ec` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 передние
 стеклоочистители
 будут
@@ -4268,7 +3992,6 @@ OFF
 движение с низкой скоростью.
 
 ### Движение
-`livan_x3_pro_ru_c60e1afc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 передних
 стеклоочистителей
 с
@@ -4278,7 +4001,6 @@ OFF
 положение
 
 ### HI,
-`livan_x3_pro_ru_a52afc2b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 передние
 стеклоочистители
 будут
@@ -4286,7 +4008,6 @@ OFF
 движение с высокой скоростью.
 
 ### Режим технического обслуживания
-`livan_x3_pro_ru_980d462a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 передних стеклоочистителей
 В течение 30 секунд после переключения
 пускового переключателя с положения
@@ -4295,7 +4016,6 @@ ON в положение OFF/ACC переместите
 или переместите ручку 1 в направлении
 
 ### A в положение MIST и удерживайте ее в
-`livan_x3_pro_ru_a1a99a76` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 течение двух секунд, чтобы запустить
 режим
 технического
@@ -4303,7 +4023,6 @@ ON в положение OFF/ACC переместите
 стеклоочистителей.
 
 ### Омывание лобового стекла
-`livan_x3_pro_ru_feaab3e0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 Переместите ручку 1 в направлении C,
 стеклоомыватели лобового стекла будут
 разбрызгивать воду во время движения
@@ -4328,7 +4047,6 @@ ON в положение OFF/ACC переместите
 выполнят еще один цикл работы.
 
 ### Прерывистое
-`livan_x3_pro_ru_86fca362` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 движение
 заднего
 стеклоочистителя
@@ -4340,13 +4058,11 @@ ON в положение OFF/ACC переместите
 движение.
 
 ### Работа заднего стеклоочистителя
-`livan_x3_pro_ru_2d7e0253` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 Перемещение ручки 3 в направлении E в
 положение ON приведет в работу задний
 стеклоочиститель.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_73ba10b9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 44
 Переместите ручку 1 в направлении D,
 стеклоомыватели заднего стекла начнут
@@ -4377,7 +4093,6 @@ ON в положение OFF/ACC переместите
 стеклоочистителя будет отключена.
 
 ### Комбинированный
-`livan_x3_pro_ru_f0bfa25d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 переключатель
 стеклоочистителей (модель 2)
 1. Ручка
@@ -4385,7 +4100,6 @@ ON в положение OFF/ACC переместите
 стеклоочистителями
 
 ### 2. Ручка
-`livan_x3_pro_ru_1c3e0510` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 регулировки
 частоты
 прерывистого
@@ -4414,7 +4128,6 @@ ON в положение OFF/ACC переместите
 стеклоочистителей.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_36fd8719` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 2
 8
 7
@@ -4429,7 +4142,6 @@ ON в положение OFF/ACC переместите
 стеклоочистителей
 
 ### Кратковременное
-`livan_x3_pro_ru_c8b9f61e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 движение
 передних стеклоочистителей
 Переместите ручку 1 в направлении A и
@@ -4445,20 +4157,17 @@ OFF, передние стеклоочистители будут
 движение.
 
 ### Режим технического обслуживания
-`livan_x3_pro_ru_5972d1c8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 передних стеклоочистителей
 В течение 30 секунд после переключения
 пускового переключателя с положения
 
 ### Система контроля и управления
-`livan_x3_pro_ru_af7f58ee` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:48 | doc_type:owners_manual
 46
 ON в положение OFF/ACC переместите
 ручку 1 в направлении B в положение LO
 или переместите ручку 1 в направлении
 
 ### Омывание лобового стекла
-`livan_x3_pro_ru_20d31444` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:49 | doc_type:owners_manual
 Переместите ручку 1 в направлении C,
 стеклоомыватели лобового стекла будут
 разбрызгивать воду во время движения
@@ -4484,7 +4193,6 @@ ON в положение OFF/ACC переместите
 Руль
 
 ### Нажмите
-`livan_x3_pro_ru_b9597d1b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:49 | doc_type:owners_manual
 на
 область
 изображения
@@ -4500,7 +4208,6 @@ ON в положение OFF/ACC переместите
 сигнал.
 
 ### Область
-`livan_x3_pro_ru_36f33e81` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:49 | doc_type:owners_manual
 изображения
 звукового
 сигнала на рулевом колесе также
@@ -4508,7 +4215,6 @@ ON в положение OFF/ACC переместите
 водителя.
 
 ### В
-`livan_x3_pro_ru_a7087ddb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:49 | doc_type:owners_manual
 связи
 с
 особыми
@@ -4528,7 +4234,6 @@ ON в положение OFF/ACC переместите
 водителя и получения травм.
 
 ### Регулировка
-`livan_x3_pro_ru_69233359` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:49 | doc_type:owners_manual
 рулевого
 колеса
 Не регулируйте рулевое колесо во
@@ -4549,7 +4254,6 @@ ON в положение OFF/ACC переместите
 что
 
 ### Система контроля и управления
-`livan_x3_pro_ru_85b6c279` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:49 | doc_type:owners_manual
 2
 8
 7
@@ -4567,7 +4271,6 @@ ON в положение OFF/ACC переместите
 травмам и повреждению имущества.
 
 ### 1. Регулировка рулевого колеса вверх-
-`livan_x3_pro_ru_666bf648` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:50 | doc_type:owners_manual
 вниз
 2. Рычаг блокировки рулевого колеса
 Установите рулевое колесо в правильное
@@ -4577,7 +4280,6 @@ ON в положение OFF/ACC переместите
 действия:
 
 ### 1. Поверните
-`livan_x3_pro_ru_704dd50b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:50 | doc_type:owners_manual
 рулевое
 колесо
 в
@@ -4586,12 +4288,10 @@ ON в положение OFF/ACC переместите
 рулевого колеса.
 
 ### 3. Удерживая рулевое колесо обеими
-`livan_x3_pro_ru_3dba4464` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:50 | doc_type:owners_manual
 руками, перемещайте его вверх-вниз
 в наиболее подходящее положение.
 
 ### 4. Выбрав
-`livan_x3_pro_ru_66b10a20` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:50 | doc_type:owners_manual
 подходящее
 положение
 рулевого колеса, до конца потяните
@@ -4606,7 +4306,6 @@ ON в положение OFF/ACC переместите
 колесо в новом положении.
 
 ### Для автомобилей с механической
-`livan_x3_pro_ru_2c77e6e1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:50 | doc_type:owners_manual
 коробкой
 передач
 сначала
@@ -4615,7 +4314,6 @@ ON в положение OFF/ACC переместите
 Кнопки на рулевом колесе*
 
 ### 1. Кнопка круиз-контроля: включение /
-`livan_x3_pro_ru_e31b6324` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 выключение функции круиз-контроля.
 2. Кнопка ограничения скорости: этот
 переключатель
@@ -4629,7 +4327,6 @@ RES/+ и SET/-. Ограничение скорости
 LIM составляет 30~150 км/ч.
 
 ### 3. Кнопки
-`livan_x3_pro_ru_4c14ed73` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 регулировки
 скорости
 и
@@ -4650,7 +4347,6 @@ LIM составляет 30~150 км/ч.
 •
 
 ### RES/+
-`livan_x3_pro_ru_8393dd58` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 (восстановление
 /
 увеличение скорости)
@@ -4661,14 +4357,12 @@ LIM составляет 30~150 км/ч.
 направлении
 
 ### RES/+,
-`livan_x3_pro_ru_fa43637b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 чтобы
 восстановить исходную заданную
 крейсерскую скорость.
 •
 
 ### SET/-
-`livan_x3_pro_ru_88472e25` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 (настройка
 /
 снижение
@@ -4677,7 +4371,6 @@ LIM составляет 30~150 км/ч.
 48
 
 ### Переместите
-`livan_x3_pro_ru_b760084b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 эту
 кнопку
 в
@@ -4693,7 +4386,6 @@ SET/-,
 круизконтроля.
 
 ### 2. Кнопка отключения звука: короткое
-`livan_x3_pro_ru_1d20b01a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:51 | doc_type:owners_manual
 нажатие отключает звук.
 3. Правая
 кнопка
@@ -4720,7 +4412,6 @@ SET/-,
 мультимедиа.
 
 ### 4. Кнопка
-`livan_x3_pro_ru_d5938a03` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 регулировки
 громкости:
 регулировка громкости.
@@ -4728,7 +4419,6 @@ SET/-,
 на звонок / отклонение звонка.
 
 ### 6. Левая
-`livan_x3_pro_ru_52adf39f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:51 | doc_type:owners_manual
 кнопка
 выбора:
 короткое
@@ -4753,7 +4443,6 @@ SET/-,
 мультимедиа.
 
 ### Боковые
-`livan_x3_pro_ru_66cf49d2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 зеркала
 заднего
 вида
@@ -4771,7 +4460,6 @@ SET/-,
 правильно отрегулированы.
 
 ### Переключатель
-`livan_x3_pro_ru_2707ae48` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 регулировки
 боковых
 зеркал
@@ -4785,7 +4473,6 @@ SET/-,
 панели.
 
 ### 1. Переключатель
-`livan_x3_pro_ru_994820a6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 выбора
 боковых
 зеркал заднего вида
@@ -4805,7 +4492,6 @@ SET/-,
 водителя.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_9f2142d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 2
 8
 7
@@ -4828,7 +4514,6 @@ SET/-,
 вида.
 
 ### Используйте
-`livan_x3_pro_ru_63e643af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 спрей
 или
 антиобледенитель, чтобы удалить лед с
@@ -4840,7 +4525,6 @@ SET/-,
 зеркала заднего вида.
 
 ### Не прикасайтесь к боковым зеркалам
-`livan_x3_pro_ru_c2ce795a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 заднего
 вида
 во
@@ -4849,7 +4533,6 @@ SET/-,
 чтобы избежать травм.
 
 ### Регулировка
-`livan_x3_pro_ru_828d6e19` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 боковых
 зеркал
 заднего вида
@@ -4859,7 +4542,6 @@ SET/-,
 находится в положении ACC или ON.
 
 ### 2. Переместите переключатель выбора
-`livan_x3_pro_ru_807449de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:52 | doc_type:owners_manual
 боковых
 зеркал
 заднего
@@ -4874,7 +4556,6 @@ SET/-,
 отрегулировать.
 
 ### 3. Нажмите переключатель регулировки
-`livan_x3_pro_ru_039c0699` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:52 | doc_type:owners_manual
 боковых зеркал заднего вида, чтобы
 отрегулировать
 боковое
@@ -4883,7 +4564,6 @@ SET/-,
 вправо, вверх или вниз.
 
 ### 4. После
-`livan_x3_pro_ru_25902537` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 регулировки
 переместите
 переключатель
@@ -4897,7 +4577,6 @@ SET/-,
 положение.
 
 ### Складывание боковых зеркал
-`livan_x3_pro_ru_460cf5c3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 заднего вида
 Боковые зеркала заднего вида имеют
 функцию складывания, которой удобно
@@ -4909,7 +4588,6 @@ SET/-,
 дорогам и парковке автомобиля.
 
 ### Ручное складывание боковых зеркал
-`livan_x3_pro_ru_8fe2072a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:52 | doc_type:owners_manual
 заднего вида
 Двигайте боковое зеркало заднего вида
 внутрь, чтобы вручную сложить боковое
@@ -4918,7 +4596,6 @@ SET/-,
 вида.
 
 ### Выдвигайте
-`livan_x3_pro_ru_7118df5b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:52 | doc_type:owners_manual
 боковое зеркало заднего вида наружу,
 чтобы
 вручную
@@ -4927,7 +4604,6 @@ SET/-,
 зеркало заднего вида.
 
 ### Функция
-`livan_x3_pro_ru_8e706cca` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 обогрева
 боковых
 зеркал заднего вида
@@ -4949,7 +4625,6 @@ SET/-,
 зеркал заднего вида / заднего стекла, и
 
 ### Система контроля и управления
-`livan_x3_pro_ru_22803b3c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:52 | doc_type:owners_manual
 50
 загорится
 индикатор
@@ -4981,7 +4656,6 @@ SET/-,
 кондиционирования".
 
 ### Внутреннее зеркало заднего
-`livan_x3_pro_ru_4636a233` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 вида
 Регулировка
 внутреннего
@@ -4992,7 +4666,6 @@ SET/-,
 травмам или повреждению имущества.
 
 ### Внутреннее
-`livan_x3_pro_ru_c3db2471` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 зеркало
 заднего
 вида
@@ -5009,7 +4682,6 @@ SET/-,
 желаемое положение.
 
 ### Внутреннее
-`livan_x3_pro_ru_c3db2471` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 зеркало
 заднего
 вида
@@ -5036,7 +4708,6 @@ SET/-,
 затемнения.
 
 ### Потяните
-`livan_x3_pro_ru_e9a6ba35` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 ручку
 назад,
 чтобы
@@ -5054,7 +4725,6 @@ SET/-,
 затемнения.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_fd99cca1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 2
 8
 7
@@ -5069,7 +4739,6 @@ SET/-,
 стеклоподъемники
 
 ### Никогда
-`livan_x3_pro_ru_d98f51d1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 не
 оставляйте
 детей,
@@ -5085,7 +4754,6 @@ SET/-,
 окнами.
 
 ### Неспособность
-`livan_x3_pro_ru_07d8f8d3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 открытия этими лицами дверей и окон
 может повлечь за собой вред здоровью
 или смерть из-за воздействия слишком
@@ -5100,7 +4768,6 @@ SET/-,
 ли окна функцию защиты от защемления.
 
 ### Не пытайтесь использовать части своего
-`livan_x3_pro_ru_618c594e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 тела для проверки функции защиты от
 защемления, иначе это может привести к
 травмам или смерти.
@@ -5115,7 +4782,6 @@ SET/-,
 от защемления может не сработать.
 
 ### 2. Переключатель
-`livan_x3_pro_ru_bb9039ea` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 левого
 переднего
 окна
@@ -5125,7 +4791,6 @@ SET/-,
 окна
 
 ### Ручное управление
-`livan_x3_pro_ru_656b5620` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 Открытие:
 нажмите
 и
@@ -5135,7 +4800,6 @@ SET/-,
 переключатель, чтобы закрыть окно.
 
 ### Дистанционное
-`livan_x3_pro_ru_67827861` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 открытие
 /
 закрытие окон*
@@ -5147,7 +4811,6 @@ SET/-,
 положение
 
 ### OFF,
-`livan_x3_pro_ru_731706b3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:54 | doc_type:owners_manual
 дверь
 багажника
 и
@@ -5171,7 +4834,6 @@ SET/-,
 люка.
 
 ### Блокировка и автоматическое
-`livan_x3_pro_ru_5eafcfb1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:54 | doc_type:owners_manual
 закрытие окон*
 Если
 в
@@ -5192,7 +4854,6 @@ SET/-,
 положение
 
 ### OFF,
-`livan_x3_pro_ru_731706b3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:54 | doc_type:owners_manual
 дверь
 багажника
 и
@@ -5202,7 +4863,6 @@ SET/-,
 Управление "одной кнопкой"*
 
 ### Нажмите переключатель до положения
-`livan_x3_pro_ru_8a81fcf0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 автоматического
 опускания
 и
@@ -5228,7 +4888,6 @@ SET/-,
 перестанет опускаться.
 
 ### В некоторых моделях автомобиля также
-`livan_x3_pro_ru_0ade4f7c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 можно потянуть за переключатель до
 положения автоматического поднимания,
 затем
@@ -5239,7 +4898,6 @@ SET/-,
 полностью закрыто.
 
 ### Во время автоматического поднимания
-`livan_x3_pro_ru_72b1cad4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 окна снова нажмите или потяните за
 переключатель
 и
@@ -5249,7 +4907,6 @@ SET/-,
 перестанет подниматься.
 
 ### Переключатель
-`livan_x3_pro_ru_7111f2df` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 блокировки
 окон
 Переключатель
@@ -5259,7 +4916,6 @@ SET/-,
 переключателями окон.
 
 ### Нажмите
-`livan_x3_pro_ru_80558415` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 на
 переключатель,
 чтобы
@@ -5289,7 +4945,6 @@ SET/-,
 отключена.
 
 ### Тепловая
-`livan_x3_pro_ru_2861dae1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:55 | doc_type:owners_manual
 защита
 электрических
 стеклоподъемников
@@ -5308,13 +4963,11 @@ SET/-,
 привода.
 
 ### Функционирование
-`livan_x3_pro_ru_5783688d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:55 | doc_type:owners_manual
 электрических
 стеклоподъемников будет возобновлено
 через короткий промежуток времени.
 
 ### Функция
-`livan_x3_pro_ru_3c00a942` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:55 | doc_type:owners_manual
 защиты
 от
 защемления*
@@ -5337,7 +4990,6 @@ SET/-,
 расстояние.
 
 ### Избегайте
-`livan_x3_pro_ru_0a4c6152` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:55 | doc_type:owners_manual
 травм.
 Самообучение
 использования
@@ -5356,7 +5008,6 @@ SET/-,
 от защемления.
 
 ### Перед проведением самообучения
-`livan_x3_pro_ru_34bfe90b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:55 | doc_type:owners_manual
 замените
 или
 подзарядите
@@ -5364,7 +5015,6 @@ SET/-,
 Процесс самообучения:
 
 ### Система контроля и управления
-`livan_x3_pro_ru_f6ae2bd9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:55 | doc_type:owners_manual
 2
 8
 7
@@ -5385,12 +5035,10 @@ SET/-,
 поднимется.
 
 ### Снова потяните вверх переключатель
-`livan_x3_pro_ru_d562cb1e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 окна и удерживайте более 2 секунд,
 после чего отпустите.
 
 ### 2. Нажмите на переключатель окна и
-`livan_x3_pro_ru_7503c950` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:56 | doc_type:owners_manual
 удерживайте
 в
 направлении
@@ -5407,7 +5055,6 @@ SET/-,
 после чего отпустите.
 
 ### 3. Повторите
-`livan_x3_pro_ru_ed98644b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 подъем
 и
 опускание
@@ -5418,7 +5065,6 @@ SET/-,
 выполнено.
 
 ### 4. Если
-`livan_x3_pro_ru_39a35c7c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:56 | doc_type:owners_manual
 электрические
 стеклоподъемники
 по-прежнему
@@ -5436,7 +5082,6 @@ SET/-,
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_26cb54eb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 для
 проведения
 технического
@@ -5452,7 +5097,6 @@ SET/-,
 положение
 
 ### OFF,
-`livan_x3_pro_ru_f7225071` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 при
 выполнении
 следующих
@@ -5466,13 +5110,11 @@ SET/-,
 управлять с помощью переключателей.
 
 ### 1. Пусковой переключатель переведен в
-`livan_x3_pro_ru_f9e421c1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 положение OFF в течение 60 секунд;
 2. Левая и правая передние двери не
 открыты;
 
 ### 3. Пульт дистанционного управления /
-`livan_x3_pro_ru_007eceae` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 смарт-ключ
 не
 используется
@@ -5483,7 +5125,6 @@ SET/-,
 автомобиля.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_af7f5567` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:56 | doc_type:owners_manual
 54
 Люк*
 Стандартный люк
@@ -5496,7 +5137,6 @@ SET/-,
 части салона.
 
 ### Во избежание серьезных травм или
-`livan_x3_pro_ru_f0bea76d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 смерти
 необходимо
 соблюдать
@@ -5508,7 +5148,6 @@ SET/-,
 •
 
 ### Строго
-`livan_x3_pro_ru_07e5da2f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 запрещается
 высовывать
 голову или другие части тела из люка.
@@ -5525,7 +5164,6 @@ SET/-,
 •
 
 ### Запрещается
-`livan_x3_pro_ru_1f34bf25` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 сидеть
 на
 крыше
@@ -5538,7 +5176,6 @@ SET/-,
 несчастный случай несет опекун.
 
 ### В случае обледенения люка ни в
-`livan_x3_pro_ru_490d82cc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 коем случае не открывайте люк,
 чтобы
 избежать
@@ -5546,7 +5183,6 @@ SET/-,
 компонентов люка.
 
 ### Если на уплотнительной резинке
-`livan_x3_pro_ru_fc6e7eec` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 стекла
 люка
 и
@@ -5566,7 +5202,6 @@ SET/-,
 Открытие / закрытие люка
 
 ### Потяните
-`livan_x3_pro_ru_a10b1f74` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 за
 переключатель
 люка,
@@ -5590,7 +5225,6 @@ SET/-,
 двигаться.
 
 ### Длительное
-`livan_x3_pro_ru_d295d8c6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 воздействие
 на
 переключатель
@@ -5608,7 +5242,6 @@ SET/-,
 остановится в текущем положении.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_b7e7ef9d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 2
 8
 7
@@ -5629,7 +5262,6 @@ SET/-,
 люка вперед, чтобы поднять люк.
 
 ### Опускание люка
-`livan_x3_pro_ru_2b5b7cef` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 Если
 люк
 находится
@@ -5639,7 +5271,6 @@ SET/-,
 люка назад, и люк закроется.
 
 ### Функция
-`livan_x3_pro_ru_0b136249` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:58 | doc_type:owners_manual
 автоматического
 закрытия люка
 Когда двигатель автомобиля заглушен, и
@@ -5684,7 +5315,6 @@ SET/-,
 закрытия люка будет неактивной.
 
 ### Функция
-`livan_x3_pro_ru_0b136249` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 защиты
 от
 защемления
@@ -5692,19 +5322,16 @@ SET/-,
 поднятии люка
 
 ### Если при поднятии люка под наклоном
-`livan_x3_pro_ru_bec9de4e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 возникнут
 препятствия,
 действие
 открывания прекратится;
 
 ### Если при опускании люка под наклоном
-`livan_x3_pro_ru_58f4886e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 возникнут препятствия, люк вернется в
 полностью поднятое положение.
 
 ### Функция защиты от защемления при
-`livan_x3_pro_ru_485300c9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:58 | doc_type:owners_manual
 выдвижении люка
 Когда
 люк
@@ -5724,7 +5351,6 @@ SET/-,
 направлении, чтобы избежать травм.
 
 ### Самообучение модуля люка
-`livan_x3_pro_ru_a0f20eb6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:58 | doc_type:owners_manual
 Если
 аккумулятор
 автомобиля
@@ -5749,7 +5375,6 @@ SET/-,
 Процесс самообучения:
 
 ### 1. Потянув и удерживая переключатель
-`livan_x3_pro_ru_aad1e1c6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:58 | doc_type:owners_manual
 люка,
 переместите
 стекло
@@ -5762,7 +5387,6 @@ SET/-,
 люка.
 
 ### 2. Снова
-`livan_x3_pro_ru_31f23864` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:58 | doc_type:owners_manual
 переместите
 переключатель
 люка вперед и удерживайте более 15
@@ -5778,7 +5402,6 @@ SET/-,
 переключатель люка.
 
 ### 3. Снова
-`livan_x3_pro_ru_fbf1dae5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 потяните
 за
 переключатель
@@ -5795,7 +5418,6 @@ SET/-,
 задвигаться и, наконец, остановится
 
 ### Система контроля и управления
-`livan_x3_pro_ru_72560c39` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 56
 в
 закрытом
@@ -5807,14 +5429,12 @@ SET/-,
 окончания самообучения.
 
 ### Ручной
-`livan_x3_pro_ru_01ff2224` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 солнцезащитный
 козырек люка
 Солнцезащитный козырек люка можно
 открывать или закрывать вручную.
 
 ### Во время движения автомобиля на
-`livan_x3_pro_ru_fcd1b19e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 высокой
 скорости
 запрещается
@@ -5822,7 +5442,6 @@ SET/-,
 открытом люке.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_0ab0a42f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:59 | doc_type:owners_manual
 2
 8
 7
@@ -5838,7 +5457,6 @@ SET/-,
 переднего ряда
 
 ### Внутреннее освещение переднего ряда
-`livan_x3_pro_ru_ed158afc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 включает
 в
 себя
@@ -5848,7 +5466,6 @@ SET/-,
 переключатели внутреннего освещения.
 
 ### Внутреннее
-`livan_x3_pro_ru_67e070d3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 освещение
 переднего
 ряда
@@ -5861,13 +5478,11 @@ SET/-,
 освещения
 
 ### 2. Переключатель
-`livan_x3_pro_ru_1e8a297e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 управления
 внутренним освещением от дверей
 автомобиля
 
 ### 3. Правый переключатель внутреннего
-`livan_x3_pro_ru_1f2c95ee` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 освещения
 Внутреннее
 освещение
@@ -5878,7 +5493,6 @@ SET/-,
 люком)
 
 ### 1. Левый
-`livan_x3_pro_ru_6ec8831c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 переключатель
 внутреннего
 освещения
@@ -5888,14 +5502,12 @@ SET/-,
 автомобиля
 
 ### 3. Правый переключатель внутреннего
-`livan_x3_pro_ru_1f2c95ee` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 освещения
 Управление
 внутренним
 освещением переднего ряда
 
 ### Нажмите
-`livan_x3_pro_ru_8f9f1938` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 на
 левый
 или
@@ -5931,7 +5543,6 @@ SET/-,
 автомобиля.
 
 ### Переключатель дверного управления по
-`livan_x3_pro_ru_49f84289` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:60 | doc_type:owners_manual
 умолчанию
 находится
 во
@@ -5942,7 +5553,6 @@ SET/-,
 внутреннего
 
 ### Система контроля и управления
-`livan_x3_pro_ru_7d4dd80b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 58
 освещения. Нажатие на переключатель
 управления внутренним освещением от
@@ -5950,7 +5560,6 @@ SET/-,
 этот режим.
 
 ### При использовании переключателя
-`livan_x3_pro_ru_73ad3206` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 управления от дверей автомобиля
 для включения внутреннего освещения с
 левой или правой стороны выключение
@@ -5969,7 +5578,6 @@ SET/-,
 внутреннего освещения переднего ряда.
 
 ### Освещение
-`livan_x3_pro_ru_07330b15` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:61 | doc_type:owners_manual
 пассажирского
 салона
 ухудшит видимость водителя в темноте,
@@ -5980,7 +5588,6 @@ SET/-,
 дорожнотранспортным происшествиям.
 
 ### Переключатель управления внутренним
-`livan_x3_pro_ru_1d70706f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 освещением от дверей автомобиля по
 умолчанию
 находится
@@ -5989,7 +5596,6 @@ SET/-,
 состоянии.
 
 ### Включение освещения
-`livan_x3_pro_ru_a55c40af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 •
 Когда
 все
@@ -6017,7 +5623,6 @@ SET/-,
 загорится.
 
 ### Выключение освещения
-`livan_x3_pro_ru_4bc6c667` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 •
 Когда
 все
@@ -6070,7 +5675,6 @@ SET/-,
 выключится.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_e8ba08f1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:61 | doc_type:owners_manual
 2
 8
 7
@@ -6091,7 +5695,6 @@ SET/-,
 багажника.
 
 ### Перчаточный
-`livan_x3_pro_ru_b2ba8300` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
 ящик
 расположен
 на
@@ -6099,7 +5702,6 @@ SET/-,
 пассажира.
 
 ### Потяните
-`livan_x3_pro_ru_687a0062` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
 ручку
 крышки
 перчаточного
@@ -6110,7 +5712,6 @@ SET/-,
 его.
 
 ### Толкните
-`livan_x3_pro_ru_84f9bf58` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
 крышку
 перчаточного
 ящика
@@ -6119,7 +5720,6 @@ SET/-,
 закрыть его.
 
 ### В
-`livan_x3_pro_ru_050a67c7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
 данном
 автомобиле
 предусмотрено
@@ -6133,20 +5733,17 @@ SET/-,
 в
 
 ### Система контроля и управления
-`livan_x3_pro_ru_1e0ea407` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
 60
 нижней части панели левой и правой
 передних дверей.
 
 ### Отсек для хранения в приборной
-`livan_x3_pro_ru_9c895976` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 панели
 У некоторых моделей в нижней левой
 части приборной панели есть отсек для
 хранения мелких предметов.
 
 ### Верхний
-`livan_x3_pro_ru_263351d2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 отсек
 для
 хранения
@@ -6157,7 +5754,6 @@ SET/-,
 предметов.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_974c1144` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:63 | doc_type:owners_manual
 2
 8
 7
@@ -6192,7 +5788,6 @@ SET/-,
 хранения.
 
 ### Сторона водителя и сторона переднего
-`livan_x3_pro_ru_f96ba4fd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 пассажира
 автомобиля
 оборудованы
@@ -6202,7 +5797,6 @@ SET/-,
 уменьшить блики.
 
 ### Передний
-`livan_x3_pro_ru_8c1725e5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 центральный
 подлокотник
 Под
@@ -6215,14 +5809,12 @@ SET/-,
 отделение.
 
 ### Вещевое
-`livan_x3_pro_ru_8d840d44` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 отделение
 можно
 открыть,
 подняв крышку подлокотника.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_495e04da` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 62
 Не открывайте вещевое отделение
 под
@@ -6231,7 +5823,6 @@ SET/-,
 во время движения автомобиля.
 
 ### На вспомогательной приборной панели
-`livan_x3_pro_ru_9f9a2153` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 имеется подстаканник для размещения
 чайных стаканов или напитков. Кроме
 того,
@@ -6246,7 +5837,6 @@ SET/-,
 предметы.
 
 ### Резервный
-`livan_x3_pro_ru_a0e41723` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:65 | doc_type:owners_manual
 источник
 питания
 Автомобиль
@@ -6260,7 +5850,6 @@ SET/-,
 панели.
 
 ### Электрическую
-`livan_x3_pro_ru_216a4f1c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:65 | doc_type:owners_manual
 розетку
 можно
 использовать
@@ -6271,14 +5860,12 @@ SET/-,
 максимальной мощностью 120 Вт.
 
 ### Мультимедийный
-`livan_x3_pro_ru_04ec4569` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:65 | doc_type:owners_manual
 интерфейс
 Передний
 мультимедийный
 интерфейс зарядки
 
 ### Автомобиль
-`livan_x3_pro_ru_94afa85e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:65 | doc_type:owners_manual
 оснащен
 1-м
 мультимедийным интерфейсом зарядки
@@ -6291,7 +5878,6 @@ USB
 Задний интерфейс зарядки*
 
 ### Система контроля и управления
-`livan_x3_pro_ru_26337381` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 2
 8
 7
@@ -6305,7 +5891,6 @@ USB
 зарядки
 
 ### USB
-`livan_x3_pro_ru_b2201a3e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:66 | doc_type:owners_manual
 в
 задней
 части
@@ -6313,7 +5898,6 @@ USB
 Внутренние ручки
 
 ### Со стороны переднего пассажира и с
-`livan_x3_pro_ru_4404e4f8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:66 | doc_type:owners_manual
 двух
 сторон
 заднего
@@ -6327,7 +5911,6 @@ USB
 положение при отпускании.
 
 ### Внутренние ручки с обеих сторон заднего
-`livan_x3_pro_ru_b2374fc1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:66 | doc_type:owners_manual
 ряда
 сидений
 автомобиля
@@ -6335,7 +5918,6 @@ USB
 крючками для одежды пассажиров.
 
 ### Не вешайте тяжелые предметы на
-`livan_x3_pro_ru_689f4a50` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:66 | doc_type:owners_manual
 крючки
 для
 одежды,
@@ -6348,7 +5930,6 @@ USB
 изданий
 
 ### Карман
-`livan_x3_pro_ru_0febf465` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:66 | doc_type:owners_manual
 для
 печатных
 изданий
@@ -6358,7 +5939,6 @@ USB
 карты.
 
 ### Не кладите в карман для печатных
-`livan_x3_pro_ru_5b3ddee1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:66 | doc_type:owners_manual
 изданий
 тяжелые
 или
@@ -6367,7 +5947,6 @@ USB
 Полка
 
 ### Система контроля и управления
-`livan_x3_pro_ru_d5f56c6d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:66 | doc_type:owners_manual
 64
 Не
 кладите
@@ -6400,7 +5979,6 @@ USB
 •
 
 ### Расположите предметы в передней
-`livan_x3_pro_ru_9d3c83b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 части
 багажного
 отделения.
@@ -6411,7 +5989,6 @@ USB
 •
 
 ### Запрещается штабелировать тяжелые
-`livan_x3_pro_ru_31bbbcf1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 предметы в транспортном средстве.
 •
 При
@@ -6425,7 +6002,6 @@ USB
 в этом нет необходимости.
 
 ### Пространство со сложенными сиденьями
-`livan_x3_pro_ru_afb8658d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 можно
 использовать
 для
@@ -6433,7 +6009,6 @@ USB
 больших или тяжелых предметов.
 
 ### Не кладите домашних животных в
-`livan_x3_pro_ru_d3190e28` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:67 | doc_type:owners_manual
 багажник.
 Загрузка тяжелых предметов
 Если
@@ -6457,7 +6032,6 @@ USB
 ближе к передней части автомобиля.
 
 ### Загрузка высоких предметов
-`livan_x3_pro_ru_1b4e3b57` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 При
 загрузке
 высокого
@@ -6474,7 +6048,6 @@ USB
 движения.
 
 ### Загрузка
-`livan_x3_pro_ru_f9c72524` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:67 | doc_type:owners_manual
 крупногабаритных
 предметов
 При
@@ -6490,7 +6063,6 @@ USB
 движения.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_c2750524` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 2
 8
 7
@@ -6504,7 +6076,6 @@ USB
 Рейлинги на крыше
 
 ### Рейлинги расположены с двух сторон на
-`livan_x3_pro_ru_0b40a340` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:68 | doc_type:owners_manual
 крыше автомобиля.
 Рейлинги представляют собой раму
 без
@@ -6523,7 +6094,6 @@ USB
 выдерживать воздействие внешних сил.
 
 ### Если необходимо установить раму для
-`livan_x3_pro_ru_0212f948` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:68 | doc_type:owners_manual
 багажа с несущей нагрузкой, обратитесь
 в
 центр
@@ -6534,7 +6104,6 @@ LIVAN, установка и эксплуатация рамы
 строгом соответствии с требованиями.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_f1b9c17d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:69 | doc_type:owners_manual
 66
 3
 8
@@ -6549,7 +6118,6 @@ LIVAN, установка и эксплуатация рамы
 кондиционирование
 
 ### Система
-`livan_x3_pro_ru_ef3b19ec` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 управления
 кондиционером
 Панель
@@ -6558,7 +6126,6 @@ LIVAN, установка и эксплуатация рамы
 панели
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_616ca029` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:70 | doc_type:owners_manual
 68
 Панель
 управления
@@ -6568,7 +6135,6 @@ LIVAN, установка и эксплуатация рамы
 1.
 
 ### Клавиша регулировки температуры
-`livan_x3_pro_ru_41ed70aa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 7.
 Клавиша A/C MAX
 2.
@@ -6578,7 +6144,6 @@ LIVAN, установка и эксплуатация рамы
 8.
 
 ### Клавиша выбора режима обдува
-`livan_x3_pro_ru_eba798d7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 3.
 Клавиша A/C
 9.
@@ -6588,7 +6153,6 @@ LIVAN, установка и эксплуатация рамы
 4.
 
 ### Клавиша внутренней и внешней
-`livan_x3_pro_ru_500de61b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 циркуляции
 10.
 Клавиша управления
@@ -6600,7 +6164,6 @@ LIVAN, установка и эксплуатация рамы
 11.
 
 ### Клавиша максимальной
-`livan_x3_pro_ru_8e766d40` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 интенсивности
 кондиционирования
 6.
@@ -6608,7 +6171,6 @@ LIVAN, установка и эксплуатация рамы
 боковых зеркал заднего вида
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_8dea4783` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 3
 8
 7
@@ -6624,7 +6186,6 @@ LIVAN, установка и эксплуатация рамы
 управления кондиционером
 
 ### Пользуйтесь
-`livan_x3_pro_ru_0a16c6b7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 данной
 клавишей
 в
@@ -6640,14 +6201,12 @@ LIVAN, установка и эксплуатация рамы
 снижения температуры - вниз.
 
 ### 2. Клавиша регулировки интенсивности
-`livan_x3_pro_ru_dff5bc07` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 кондиционирования
 /
 клавиша
 выключения кондиционера
 
 ### Нажмите
-`livan_x3_pro_ru_3ab75e1f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 эту
 клавишу,
 чтобы
@@ -6666,7 +6225,6 @@ LIVAN, установка и эксплуатация рамы
 кондиционер.
 
 ### Переместите
-`livan_x3_pro_ru_a77681f9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 эту
 клавишу
 вверх,
@@ -6679,7 +6237,6 @@ OFF, нажмите клавишу A/C, чтобы
 запустить кондиционер и компрессор.
 
 ### 4. Клавиша
-`livan_x3_pro_ru_bf453438` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:72 | doc_type:owners_manual
 внутренней
 и
 внешней
@@ -6727,7 +6284,6 @@ OFF, нажмите клавишу A/C, чтобы
 автомобиля.
 
 ### Длительное использование режима
-`livan_x3_pro_ru_d62b1e66` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 внутренней
 циркуляции
 может
@@ -6739,7 +6295,6 @@ OFF, нажмите клавишу A/C, чтобы
 автомобиле или запотеванию стекол.
 
 ### 5. Клавиша
-`livan_x3_pro_ru_c79dffe9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:72 | doc_type:owners_manual
 обогрева
 /
 устранения
@@ -6779,7 +6334,6 @@ OFF, нажмите клавишу A/C, чтобы
 раз.
 
 ### Температура
-`livan_x3_pro_ru_bca28a46` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 остается
 на
 текущем
@@ -6801,7 +6355,6 @@ OFF, нажмите клавишу A/C, чтобы
 циркуляции.
 
 ### В
-`livan_x3_pro_ru_c45a7135` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 режиме
 обогрева
 /
@@ -6815,7 +6368,6 @@ OFF, нажмите клавишу A/C, чтобы
 режимы
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_02fb9726` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 70
 внутренней и внешней циркуляции
 можно регулировать вручную. При
@@ -6851,7 +6403,6 @@ OFF, нажмите клавишу обогрева /
 стекла, чтобы включить кондиционер.
 
 ### 6. Клавиша обогрева заднего стекла /
-`livan_x3_pro_ru_1ccd290f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:73 | doc_type:owners_manual
 боковых зеркал заднего вида
 Нажатие
 этой
@@ -6877,7 +6428,6 @@ OFF, нажмите клавишу обогрева /
 стекла.
 
 ### Функция
-`livan_x3_pro_ru_19ef65d8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 обогрева
 заднего
 стекла
@@ -6889,14 +6439,12 @@ OFF, нажмите клавишу обогрева /
 непрерывной работы.
 
 ### Не используйте скребок или острые
-`livan_x3_pro_ru_7bbf684f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 инструменты для удаления наледи
 или других веществ с лобового стекла и
 заднего стекла. Избегайте повреждения
 решетки обогревателя заднего стекла.
 
 ### Такие повреждения не входят в сферу
-`livan_x3_pro_ru_d635dc89` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 гарантийного ремонта. Убедитесь, что
 предметы
 находятся
@@ -6905,7 +6453,6 @@ OFF, нажмите клавишу обогрева /
 расстоянии от окон.
 
 ### 7. Клавиша A/C MAX
-`livan_x3_pro_ru_63293315` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:73 | doc_type:owners_manual
 Когда
 данный
 световой
@@ -6917,7 +6464,6 @@ OFF, нажмите клавишу обогрева /
 снижение температуры.
 
 ### Данная
-`livan_x3_pro_ru_dd4bbbbd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 клавиша
 позволяет
 регулировать режим обдува. Можно
@@ -6931,13 +6477,11 @@ OFF, нажмите клавишу обогрева /
 обдув ног.
 
 ### 9. Клавиша отключения интенсивности
-`livan_x3_pro_ru_23fdcfed` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 кондиционирования
 Из дефлекторов не будет выходить
 воздух.
 
 ### 10. Клавиша управления интенсивностью
-`livan_x3_pro_ru_b30a4865` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 кондиционирования
 Регулировка
 скорости
@@ -6945,13 +6489,11 @@ OFF, нажмите клавишу обогрева /
 вентилятора.
 
 ### Скорость
-`livan_x3_pro_ru_ec781687` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 подачи
 воздуха может быть установлена в
 положении 1-8.
 
 ### 11. Клавиша
-`livan_x3_pro_ru_6e848a89` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 максимальной
 интенсивности кондиционирования
 Регулировка
@@ -6963,7 +6505,6 @@ OFF, нажмите клавишу обогрева /
 воздуха.
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_04347833` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 3
 8
 7
@@ -6984,7 +6525,6 @@ self-drying
 осушения кондиционера)
 
 ### После включения функции Air conditioning
-`livan_x3_pro_ru_470b3e0d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:74 | doc_type:owners_manual
 self-drying
 (режим
 автоматического
@@ -7005,7 +6545,6 @@ self-drying
 мультимедиа.
 
 ### Нажмите переключатель Air conditioning
-`livan_x3_pro_ru_e9ed1891` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:74 | doc_type:owners_manual
 self-drying
 (режим
 автоматического
@@ -7023,7 +6562,6 @@ Cabin air refresh mode (режим
 обновления воздуха в салоне)
 
 ### При включении функции Cabin air refresh
-`livan_x3_pro_ru_b70e1bfd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:74 | doc_type:owners_manual
 mode
 (режим
 обновления
@@ -7049,7 +6587,6 @@ mode
 эффект автоматической очистки.
 
 ### Переключатель Cabin air refresh mode
-`livan_x3_pro_ru_a615c6f9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:74 | doc_type:owners_manual
 (режим обновления воздуха в салоне)
 находится в настройках мультимедиа.
 Нажмите переключатель очистки салона,
@@ -7058,7 +6595,6 @@ Cabin air refresh mode (режим обновления
 воздуха в салоне).
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_b2843ae1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:74 | doc_type:owners_manual
 72
 Датчики
 окружающего
@@ -7068,7 +6604,6 @@ Cabin air refresh mode (режим обновления
 света*
 
 ### Датчики
-`livan_x3_pro_ru_7d76eee5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:75 | doc_type:owners_manual
 окружающего
 освещения
 и
@@ -7090,7 +6625,6 @@ Cabin air refresh mode (режим обновления
 освещения.
 
 ### Содержите датчики в чистоте и не
-`livan_x3_pro_ru_ae9f9a51` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:75 | doc_type:owners_manual
 наклеивайте
 на
 них
@@ -7104,7 +6638,6 @@ Cabin air refresh mode (режим обновления
 работать должным образом.
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_a90559f0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:75 | doc_type:owners_manual
 3
 8
 7
@@ -7117,12 +6650,10 @@ Cabin air refresh mode (режим обновления
 Система кондиционирования воздуха и вентиляции
 
 ### Воздухозаборник отопителя
-`livan_x3_pro_ru_32c96d9d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:76 | doc_type:owners_manual
 Удаляйте все загрязнения с отверстий воздухозаборника отопителя, в противном
 случае будет блокироваться поступление воздуха в автомобиль.
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_6b0bd73e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:76 | doc_type:owners_manual
 74
 Дефлектора отопителя
 Передние дефлектора
@@ -7134,7 +6665,6 @@ Cabin air refresh mode (режим обновления
 4.
 
 ### Отверстие для выпуска воздуха в
-`livan_x3_pro_ru_e7953ffd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 области ног передних сидений
 2.
 Отверстия
@@ -7144,7 +6674,6 @@ Cabin air refresh mode (режим обновления
 5.
 
 ### Отверстия обогрева боковых окон
-`livan_x3_pro_ru_7b29e44a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:77 | doc_type:owners_manual
 3.
 Центральный
 дефлектор
@@ -7154,7 +6683,6 @@ Cabin air refresh mode (режим обновления
 боковые дефлектора постоянно будут выпускать воздух.
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_b169daef` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 3
 8
 7
@@ -7170,7 +6698,6 @@ Cabin air refresh mode (режим обновления
 кондиционера
 
 ### Отрегулируйте
-`livan_x3_pro_ru_77e71145` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 направление
 решетки
 дефлектора,
@@ -7179,7 +6706,6 @@ Cabin air refresh mode (режим обновления
 вверх-вниз и влево-вправо.
 
 ### Фильтр
-`livan_x3_pro_ru_64da7dd5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 кондиционера
 расположен
 за
@@ -7198,7 +6724,6 @@ Cabin air refresh mode (режим обновления
 имеет функцию стерилизации.
 
 ### Для поддержания наилучшего эффекта
-`livan_x3_pro_ru_92cd76a3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 фильтрации
 регулярно
 проверяйте
@@ -7214,7 +6739,6 @@ Cabin air refresh mode (режим обновления
 гарантии и техническому обслуживанию".
 
 ### Техническое
-`livan_x3_pro_ru_f726851b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 обслуживание
 системы кондиционирования
 •
@@ -7233,7 +6757,6 @@ Cabin air refresh mode (режим обновления
 высокой.
 
 ### В
-`livan_x3_pro_ru_f92d946d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 этом
 случае
 сначала
@@ -7247,7 +6770,6 @@ Cabin air refresh mode (режим обновления
 клавишу
 
 ### MAX.
-`livan_x3_pro_ru_eed8a301` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 Когда
 температура в автомобиле снизится,
 закройте
@@ -7258,7 +6780,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### В
-`livan_x3_pro_ru_f92d946d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:78 | doc_type:owners_manual
 сырую
 погоду
 запрещается
@@ -7281,7 +6802,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Закройте
-`livan_x3_pro_ru_8a1a7aac` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 все
 окна,
 рекомендуется
@@ -7320,7 +6840,6 @@ Cabin air refresh mode (режим обновления
 воздухозаборник отопителя.
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_2036f63c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 76
 •
 Держите пространство под передними
@@ -7330,7 +6849,6 @@ Cabin air refresh mode (режим обновления
 облегчить циркуляцию воздуха.
 
 ### Если вы хотите оставить автомобиль на
-`livan_x3_pro_ru_afabfbd6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 хранение или
 не использовать его в
 течение двух недель или более, дайте
@@ -7351,13 +6869,11 @@ Cabin air refresh mode (режим обновления
 течение пяти минут на холостом ходу.
 
 ### Это позволит полностью смазать систему
-`livan_x3_pro_ru_15cb7042` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 кондиционирования и свести к минимуму
 вероятность повреждения компрессора
 при повторном запуске системы.
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_567d7b39` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 4
 8
 7
@@ -7378,7 +6894,6 @@ Cabin air refresh mode (режим обновления
 подголовниками.
 
 ### Высота подголовника регулируется под
-`livan_x3_pro_ru_827e906c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 уровень
 головы
 пассажира.
@@ -7410,7 +6925,6 @@ Cabin air refresh mode (режим обновления
 отрегулированы.
 
 ### Регулирование
-`livan_x3_pro_ru_c2728178` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 подголовника
 передних сидений
 Нажатие на кнопку на боковой части
@@ -7423,7 +6937,6 @@ Cabin air refresh mode (режим обновления
 вертикально.
 
 ### Характерный
-`livan_x3_pro_ru_c7f95e44` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 щелчок
 означает, что положение подголовника
 зафиксировано. При помощи нажатия на
@@ -7431,7 +6944,6 @@ Cabin air refresh mode (режим обновления
 подголовник.
 
 ### Регулирование
-`livan_x3_pro_ru_c2728178` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 подголовника
 задних сидений
 Нажатие на кнопку на боковой части
@@ -7444,7 +6956,6 @@ Cabin air refresh mode (режим обновления
 вертикально.
 
 ### Характерный
-`livan_x3_pro_ru_c7f95e44` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 щелчок
 Сиденья и устройства защиты
 78
@@ -7454,7 +6965,6 @@ Cabin air refresh mode (режим обновления
 подголовник.
 
 ### Не следует регулировать сиденья
-`livan_x3_pro_ru_0b5f2732` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 во время движения. Регулирование
 сиденья
 во
@@ -7480,7 +6990,6 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### Неверная
-`livan_x3_pro_ru_94c0e043` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 регулировка
 ремня
 безопасности
@@ -7490,7 +6999,6 @@ Cabin air refresh mode (режим обновления
 серьезным травмам.
 
 ### Не приводите сиденье в горизонтальное
-`livan_x3_pro_ru_9e907b5a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:81 | doc_type:owners_manual
 положение
 во
 время
@@ -7518,7 +7026,6 @@ Cabin air refresh mode (режим обновления
 получить серьезные травмы.
 
 ### Ручная
-`livan_x3_pro_ru_81822eae` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:81 | doc_type:owners_manual
 регулировка
 сиденья
 водителя
@@ -7544,7 +7051,6 @@ Cabin air refresh mode (режим обновления
 слева и спереди.
 
 ### 1. Рычаг
-`livan_x3_pro_ru_39296d00` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 для
 перемещения
 сиденья
@@ -7552,7 +7058,6 @@ Cabin air refresh mode (режим обновления
 2. Ручка для регулирования высоты
 
 ### 3. Ручка
-`livan_x3_pro_ru_afc22a79` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 для
 регулирования
 наклона
@@ -7564,7 +7069,6 @@ Cabin air refresh mode (режим обновления
 назад
 
 ### Возьмитесь
-`livan_x3_pro_ru_f4d5a47e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 за
 рычаг
 посередине
@@ -7580,13 +7084,11 @@ Cabin air refresh mode (режим обновления
 регулировки.
 
 ### Нажмите или поднимите вверх ручку для
-`livan_x3_pro_ru_c5c75bb9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:81 | doc_type:owners_manual
 регулирования высоты, чтобы опустить
 или поднять сиденье до нужной высоты,
 затем отпустите ручку.
 
 ### Регулирование угла наклона спинки
-`livan_x3_pro_ru_65240176` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 сиденья
 Чтобы отклонить спинку сиденья назад,
 приподнимите
@@ -7611,7 +7113,6 @@ Cabin air refresh mode (режим обновления
 приподнимите ручку 1 регулировки угла
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_69f1e38f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 4
 8
 7
@@ -7647,7 +7148,6 @@ Cabin air refresh mode (режим обновления
 движения автомобиля.
 
 ### Ремень
-`livan_x3_pro_ru_681b64c6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:82 | doc_type:owners_manual
 безопасности
 способен
 максимально
@@ -7663,7 +7163,6 @@ Cabin air refresh mode (режим обновления
 положении спинок сидений.
 
 ### При откинутом положении сиденья часть
-`livan_x3_pro_ru_c03bb415` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 ремня
 на
 талии
@@ -7674,13 +7173,11 @@ Cabin air refresh mode (режим обновления
 или съехать в район шеи.
 
 ### При лобовом столкновении чрезмерный
-`livan_x3_pro_ru_74cab8fe` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 угол наклона сиденья может увеличить
 риск получения травм или даже привести
 к летальному исходу.
 
 ### Ручное
-`livan_x3_pro_ru_2855857a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:82 | doc_type:owners_manual
 регулирование
 переднего
 пассажирского
@@ -7701,7 +7198,6 @@ Cabin air refresh mode (режим обновления
 справа и спереди.
 
 ### Регулирование
-`livan_x3_pro_ru_a0802d45` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 сиденья
 пассажира
 спереди
@@ -7722,7 +7218,6 @@ Cabin air refresh mode (режим обновления
 водителя.
 
 ### 1. Ручка
-`livan_x3_pro_ru_d2e101ef` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 для
 регулирования
 наклона
@@ -7734,7 +7229,6 @@ Cabin air refresh mode (режим обновления
 вперед и назад
 
 ### Складывание спинки
-`livan_x3_pro_ru_b1d01ca8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:82 | doc_type:owners_manual
 заднего
 сиденья
 Задний ряд состоит из правого и левого
@@ -7752,14 +7246,12 @@ Cabin air refresh mode (режим обновления
 автомобиля.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_14b046fc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 80
 С двух сторон сидений заднего ряда есть
 кнопки для складывания спинок. Нажав
 на эти кнопки, можно сложить сиденья.
 
 ### После того как спинки задних сидений
-`livan_x3_pro_ru_f503ff0c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 сложены,
 необходимо
 убедиться,
@@ -7772,13 +7264,11 @@ Cabin air refresh mode (режим обновления
 места.
 
 ### Раскладывание спинки заднего
-`livan_x3_pro_ru_5490adb4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 сиденья
 Поверните спинку кресла и толкните его
 назад, чтобы зафиксировать.
 
 ### Во время движения пассажиры не
-`livan_x3_pro_ru_8be06c72` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:83 | doc_type:owners_manual
 могут
 сидеть
 на
@@ -7789,7 +7279,6 @@ Cabin air refresh mode (режим обновления
 багажнике.
 
 ### Сиденья
-`livan_x3_pro_ru_b312b558` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 должны использоваться в нормальном
 режиме.
 При
@@ -7806,7 +7295,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Передвинуть
-`livan_x3_pro_ru_e3251e62` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 вперед
 или
 назад
@@ -7825,7 +7313,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Убедиться
-`livan_x3_pro_ru_e6bf0a7e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:83 | doc_type:owners_manual
 в
 том,
 что
@@ -7844,7 +7331,6 @@ Cabin air refresh mode (режим обновления
 использование положение.
 
 ### Подогрев
-`livan_x3_pro_ru_2da49877` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:83 | doc_type:owners_manual
 передних
 сидений*
 Нажмите
@@ -7871,7 +7357,6 @@ Cabin air refresh mode (режим обновления
 самый медленный нагрев;
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_c1a2ac0b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 4
 8
 7
@@ -7885,7 +7370,6 @@ Cabin air refresh mode (режим обновления
 самый быстрый нагрев;
 
 ### OFF:
-`livan_x3_pro_ru_38a73cdd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 выключить
 подогрев
 передних сидений.
@@ -7936,7 +7420,6 @@ Cabin air refresh mode (режим обновления
 Не используйте воду при чистке сидений.
 
 ### Устройство
-`livan_x3_pro_ru_ff417358` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:84 | doc_type:owners_manual
 подогрева
 сидений
 можно
@@ -7978,7 +7461,6 @@ Cabin air refresh mode (режим обновления
 режиме подогрева.
 
 ### Параметры
-`livan_x3_pro_ru_8347a939` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 регулирования
 сиденья
 В
@@ -7990,7 +7472,6 @@ Cabin air refresh mode (режим обновления
 Пункт
 
 ### Параметры
-`livan_x3_pro_ru_8347a939` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 Си
 де
 нье
@@ -8007,7 +7488,6 @@ Cabin air refresh mode (режим обновления
 назад - 20 мм)
 
 ### Регули
-`livan_x3_pro_ru_69b27321` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 рова
 ние
 спинки
@@ -8016,7 +7496,6 @@ Cabin air refresh mode (режим обновления
 36°)
 
 ### Регули
-`livan_x3_pro_ru_69b27321` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 рова
 ние
 высоты
@@ -8027,7 +7506,6 @@ Cabin air refresh mode (режим обновления
 15 мм)
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_624dc2d7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 82
 Пункт
 Параметры
@@ -8043,7 +7521,6 @@ Cabin air refresh mode (режим обновления
 е
 
 ### Регули
-`livan_x3_pro_ru_ecbabb33` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 рова
 ние
 впе
@@ -8053,7 +7530,6 @@ Cabin air refresh mode (режим обновления
 назад - 20 мм)
 
 ### Ремень безопасности
-`livan_x3_pro_ru_2b4f3ae9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:85 | doc_type:owners_manual
 Общие
 сведения
 о
@@ -8071,7 +7547,6 @@ Cabin air refresh mode (режим обновления
 эксплуатацию ремня безопасности.
 
 ### Ненадлежащее
-`livan_x3_pro_ru_9d80153f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 использование
 ремня
 или
@@ -8085,7 +7560,6 @@ Cabin air refresh mode (режим обновления
 травмам.
 
 ### Правильное
-`livan_x3_pro_ru_f481f7f6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 использование
 ремня
 безопасности
@@ -8094,7 +7568,6 @@ Cabin air refresh mode (режим обновления
 свойства.
 
 ### Правильное
-`livan_x3_pro_ru_f481f7f6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 использование
 ремня
 безопасности
@@ -8110,7 +7583,6 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### Пассажирам
-`livan_x3_pro_ru_08696abe` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 запрещается
 садиться
 в
@@ -8123,7 +7595,6 @@ Cabin air refresh mode (режим обновления
 сиденья с неисправными ремнями.
 
 ### Данный
-`livan_x3_pro_ru_d8fb4c49` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:85 | doc_type:owners_manual
 автомобиль
 оборудован
 световым сигналом, предупреждающим о
@@ -8153,7 +7624,6 @@ Cabin air refresh mode (режим обновления
 тяжести. В таких аварийных ситуациях
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_4bd0eeb2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:85 | doc_type:owners_manual
 4
 8
 7
@@ -8177,7 +7647,6 @@ Cabin air refresh mode (режим обновления
 могут получить травмы или погибнуть.
 
 ### Многолетний
-`livan_x3_pro_ru_dfa2adbf` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 опыт
 использования
 автомобильных
@@ -8192,7 +7661,6 @@ Cabin air refresh mode (режим обновления
 тесно связаны!
 
 ### Какова
-`livan_x3_pro_ru_96885b1f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 защитная
 роль
 ремня безопасности
@@ -8207,7 +7675,6 @@ Cabin air refresh mode (режим обновления
 скорость
 
 ### Вашего
-`livan_x3_pro_ru_87de8bec` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 движения
 соответствует скорости движения такого
 объекта.
@@ -8237,7 +7704,6 @@ Cabin air refresh mode (режим обновления
 останавливается.
 
 ### Однако
-`livan_x3_pro_ru_f49a3e0d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 люди
 на
 вагончике не могут остановиться.
@@ -8246,7 +7712,6 @@ Cabin air refresh mode (режим обновления
 автомобиле таким объектом может стать
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_faf0e399` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:86 | doc_type:owners_manual
 84
 ветровое стекло, приборная панель или
 ремень безопасности.
@@ -8263,14 +7728,12 @@ Cabin air refresh mode (режим обновления
 скелет.
 
 ### Именно
-`livan_x3_pro_ru_13896210` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:87 | doc_type:owners_manual
 поэтому
 важно
 использовать ремень безопасности.
 Правильная посадка
 
 ### Правильное сидячее положение крайне
-`livan_x3_pro_ru_62489ca7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:87 | doc_type:owners_manual
 важно для лучшей защиты с помощью
 подушки и ремня безопасности. Сиденья
 водителя и пассажира спереди могут
@@ -8306,7 +7769,6 @@ Cabin air refresh mode (режим обновления
 ремня безопасности.
 
 ### Во время движения не наклоняйте
-`livan_x3_pro_ru_ec2714af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:87 | doc_type:owners_manual
 сиденье
 слишком
 сильно
@@ -8329,7 +7791,6 @@ Cabin air refresh mode (режим обновления
 исходу.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_45d57865` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:87 | doc_type:owners_manual
 4
 8
 7
@@ -8349,7 +7810,6 @@ Cabin air refresh mode (режим обновления
 между телом и подушкой безопасности.
 
 ### Правильная посадка водителя является
-`livan_x3_pro_ru_a492900e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 крайне
 важным
 для
@@ -8364,7 +7824,6 @@ Cabin air refresh mode (режим обновления
 травм.
 
 ### Водителю
-`livan_x3_pro_ru_89a643bc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 рекомендуется осуществить следующие
 регулировки:
 •
@@ -8373,7 +7832,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Регулировка
-`livan_x3_pro_ru_4d36af0f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:88 | doc_type:owners_manual
 сиденья
 вперед-назад:
 удобное положение для комфортного
@@ -8386,14 +7844,12 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Регулировка
-`livan_x3_pro_ru_4d36af0f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 подголовника:
 подголовник должен быть правильно
 отрегулирован по высоте.
 •
 
 ### Спинка сиденья должна находиться в
-`livan_x3_pro_ru_3850b7a9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 положении
 "сидя",
 спина
@@ -8402,7 +7858,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Ремень
-`livan_x3_pro_ru_5079f244` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:88 | doc_type:owners_manual
 безопасности
 должен
 быть
@@ -8413,7 +7868,6 @@ Cabin air refresh mode (режим обновления
 пассажира
 
 ### Для Вашей собственной безопасности и
-`livan_x3_pro_ru_f886c25e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 во избежание риска получения травм
 пассажиру
 переднего
@@ -8422,7 +7876,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Соблюдать
-`livan_x3_pro_ru_85ce167e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 расстояние
 между
 пассажиром и приборной панелью не
@@ -8430,7 +7883,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Регулировка
-`livan_x3_pro_ru_4d36af0f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 подголовника
 должна
 быть
@@ -8441,7 +7893,6 @@ Cabin air refresh mode (режим обновления
 прилегала к нему.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_15ceefec` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:88 | doc_type:owners_manual
 86
 •
 Ремень
@@ -8455,14 +7906,12 @@ Cabin air refresh mode (режим обновления
 ремень безопасности
 
 ### Информация
-`livan_x3_pro_ru_2662ba34` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 в
 данном
 разделе
 относится только ко взрослым людям.
 
 ### В первую очередь перед использованием
-`livan_x3_pro_ru_df82ec75` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 ремней безопасности Вы или пассажиры
 автомобиля должны узнать некоторую
 важную
@@ -8489,7 +7938,6 @@ Cabin air refresh mode (режим обновления
 безопасности, это крайне важно.
 
 ### В
-`livan_x3_pro_ru_656024b1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 соответствии
 со
 статистическими
@@ -8516,7 +7964,6 @@ Cabin air refresh mode (режим обновления
 пассажирами.
 
 ### В
-`livan_x3_pro_ru_656024b1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 сидячем
 положении
 необходимо
@@ -8528,7 +7975,6 @@ Cabin air refresh mode (режим обновления
 собой.
 
 ### Нижняя
-`livan_x3_pro_ru_7b0aa481` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 часть
 ремня
 в
@@ -8549,7 +7995,6 @@ Cabin air refresh mode (режим обновления
 ремня должна пересекать плечо и грудь.
 
 ### Именно
-`livan_x3_pro_ru_21243813` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:89 | doc_type:owners_manual
 эти
 части
 тела
@@ -8591,7 +8036,6 @@ Cabin air refresh mode (режим обновления
 ремнями безопасности.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_44a61641` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 4
 8
 7
@@ -8628,7 +8072,6 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### Лучший
-`livan_x3_pro_ru_33fcf5fd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 способ
 защитить
 ребенка
@@ -8651,7 +8094,6 @@ Cabin air refresh mode (режим обновления
 использования ремня безопасности.
 
 ### Трехточечный
-`livan_x3_pro_ru_ee3319b1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 ремень
 безопасности
 Все сиденья автомобиля оборудованы
@@ -8666,7 +8108,6 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### 1. Возьмитесь за язычок крепления и
-`livan_x3_pro_ru_a13c1b76` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 потяните ремень, пересекая тело. Не
 позволяйте ремню перекручиваться.
 Если
@@ -8686,7 +8127,6 @@ Cabin air refresh mode (режим обновления
 пересекая тело.
 
 ### 2. Вставьте
-`livan_x3_pro_ru_1997926f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 язычок
 крепления
 в
@@ -8701,7 +8141,6 @@ Cabin air refresh mode (режим обновления
 фиксации.
 
 ### Удостоверьтесь в положении кнопки
-`livan_x3_pro_ru_95a59df8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 разблокировки
 на
 застежке,
@@ -8710,7 +8149,6 @@ Cabin air refresh mode (режим обновления
 необходимости. Если плечевая часть
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_67d2056c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 88
 ремня
 оборудована
@@ -8722,7 +8160,6 @@ Cabin air refresh mode (режим обновления
 подходящее
 
 ### Вашему
-`livan_x3_pro_ru_df330eec` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 росту
 положение.
 Ознакомьтесь
@@ -8741,7 +8178,6 @@ Cabin air refresh mode (режим обновления
 информацию.
 
 ### 3. Потянув плечевую часть ремня вверх,
-`livan_x3_pro_ru_f2c13248` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 можно затянуть нижнюю часть.
 4. Для того чтобы отстегнуть ремень,
 нажмите
@@ -8752,7 +8188,6 @@ Cabin air refresh mode (режим обновления
 застежке.
 
 ### Позвольте
-`livan_x3_pro_ru_dcc23b53` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 ремню
 вернуться в исходное положение.
 Не допускайте попадания в замок
@@ -8827,7 +8262,6 @@ Cabin air refresh mode (режим обновления
 ремень.
 
 ### Ремень безопасности заднего
-`livan_x3_pro_ru_c599745f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 ряда по центру
 Необходимо
 правильно
@@ -8837,7 +8271,6 @@ Cabin air refresh mode (режим обновления
 В соответствии со следующими шагами:
 
 ### 1. Взять ремень безопасности заднего
-`livan_x3_pro_ru_7b049d63` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 ряда
 по
 центру
@@ -8852,7 +8285,6 @@ Cabin air refresh mode (режим обновления
 позволяйте ремню перекручиваться.
 
 ### 2. У
-`livan_x3_pro_ru_fe898e6e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 ремня
 есть
 два
@@ -8861,7 +8293,6 @@ Cabin air refresh mode (режим обновления
 Сначала вставьте маленький язычок
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_86639edf` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 4
 8
 7
@@ -8886,7 +8317,6 @@ Cabin air refresh mode (режим обновления
 от сиденья 2.
 
 ### 3. Вставьте
-`livan_x3_pro_ru_3045d66c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 язычок
 замка
 до
@@ -8909,7 +8339,6 @@ Cabin air refresh mode (режим обновления
 ремень.
 
 ### Если нужно полностью отстегнуть ремень
-`livan_x3_pro_ru_a22798e3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 заднего
 ряда
 по
@@ -8936,7 +8365,6 @@ Cabin air refresh mode (режим обновления
 быть возвращен в исходное положение.
 
 ### Сигнализатор непристегнутого
-`livan_x3_pro_ru_4f19ddc4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:92 | doc_type:owners_manual
 ремня безопасности
 Сигнальная лампа непристегнутого
 ремня
@@ -8945,7 +8373,6 @@ Cabin air refresh mode (режим обновления
 сиденья
 
 ### Если водитель и пассажир спереди не
-`livan_x3_pro_ru_8ea69a5e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 пристегнуты,
 загорается
 огонек
@@ -8955,7 +8382,6 @@ Cabin air refresh mode (режим обновления
 безопасности спереди.
 
 ### Предупреждающий световой сигнал
-`livan_x3_pro_ru_b2c91379` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 и зуммер
 Если
 скорость
@@ -8973,7 +8399,6 @@ Cabin air refresh mode (режим обновления
 пристегнут, сигнал прекратится.
 
 ### Правильное использование ремня
-`livan_x3_pro_ru_6b23a376` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 безопасности может сократить риск
 получения
 травм
@@ -8983,7 +8408,6 @@ Cabin air refresh mode (режим обновления
 и
 
 ### Поэтому
-`livan_x3_pro_ru_897b2c7e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 все
 пассажиры
 автомобиля
@@ -8994,7 +8418,6 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### Обращайте
-`livan_x3_pro_ru_72660b62` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 внимание
 на
 горящие
@@ -9003,7 +8426,6 @@ Cabin air refresh mode (режим обновления
 и повреждению имущества.
 
 ### Обслуживание
-`livan_x3_pro_ru_ca9b482c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 и
 замена
 ремня безопасности
@@ -9012,7 +8434,6 @@ Cabin air refresh mode (режим обновления
 безопасности
 
 ### Регулярно проводите проверку системы
-`livan_x3_pro_ru_c3371f86` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 безопасности
 в
 соответствии
@@ -9051,7 +8472,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Обеспечьте
-`livan_x3_pro_ru_bc75f132` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:92 | doc_type:owners_manual
 нормальную
 работу
 светового
@@ -9063,7 +8483,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Сохраняйте
-`livan_x3_pro_ru_556d7c6b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:93 | doc_type:owners_manual
 ремень
 безопасности
 сухим и чистым.
@@ -9072,7 +8491,6 @@ Cabin air refresh mode (режим обновления
 безопасности
 
 ### Сохраняйте ремень безопасности сухим
-`livan_x3_pro_ru_8b54041a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:93 | doc_type:owners_manual
 и чистым.
 Не отбеливайте и не окрашивайте
 ремень безопасности. Это может
@@ -9092,7 +8510,6 @@ Cabin air refresh mode (режим обновления
 воду.
 
 ### Нельзя
-`livan_x3_pro_ru_7f35a9ac` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 пользоваться
 непросушенным
 ремнем
@@ -9100,7 +8517,6 @@ Cabin air refresh mode (режим обновления
 Замена ремня безопасности
 
 ### В случае небольшой аварии отправьте в
-`livan_x3_pro_ru_64f07a65` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 центр технического обслуживания LIVAN,
 чтобы провести диагностику или замену
 блока ремня безопасности. Даже если во
@@ -9113,7 +8529,6 @@ Cabin air refresh mode (режим обновления
 все равно необходима.
 
 ### Автомобильная
-`livan_x3_pro_ru_53eec419` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 авария
 может
 привести
@@ -9126,14 +8541,12 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### Необходимо
-`livan_x3_pro_ru_1941f17a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 как
 можно
 скорее обратиться в центр технической
 поддержки LIVAN для его замены.
 
 ### Общие сведения о подушке
-`livan_x3_pro_ru_383f857c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:93 | doc_type:owners_manual
 безопасности
 Подушка
 безопасности
@@ -9168,7 +8581,6 @@ Cabin air refresh mode (режим обновления
 травмам.
 
 ### Именно
-`livan_x3_pro_ru_23b966d2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 поэтому
 во
 время
@@ -9176,7 +8588,6 @@ Cabin air refresh mode (режим обновления
 автомобиле, должны быть пристегнуты.
 
 ### Подушка безопасности срабатывает не
-`livan_x3_pro_ru_bc130a73` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:93 | doc_type:owners_manual
 во всех случаях. Это зависит от места и
 угла удара, степени удара, характера
 объекта
@@ -9186,7 +8597,6 @@ Cabin air refresh mode (режим обновления
 факторов.
 
 ### Подушка
-`livan_x3_pro_ru_f97e57e7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:93 | doc_type:owners_manual
 безопасности
 срабатывает
 с
@@ -9223,13 +8633,11 @@ Cabin air refresh mode (режим обновления
 помех.
 
 ### Нельзя
-`livan_x3_pro_ru_7f35a9ac` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:93 | doc_type:owners_manual
 помещать
 какие бы то ни было предметы между
 пассажиром и подушкой безопасности.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_970b5005` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:93 | doc_type:owners_manual
 4
 8
 7
@@ -9278,7 +8686,6 @@ Cabin air refresh mode (режим обновления
 некоторое количество газа и порошка.
 
 ### Это может вызывать раздражение кожи и
-`livan_x3_pro_ru_2cc0f20c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 глаз. Если Вы плохо себя чувствуете,
 немедленно обратитесь к врачу.
 Пожалуйста,
@@ -9298,7 +8705,6 @@ Cabin air refresh mode (режим обновления
 неисправности.
 
 ### Запрещается
-`livan_x3_pro_ru_75c32ce9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 дополнительно
 устанавливать
 или
@@ -9307,12 +8713,10 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### Строго
-`livan_x3_pro_ru_d4bd7f5f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 запрещается внедрение в жгуты системы
 подушек безопасности.
 
 ### Система подушки безопасности может
-`livan_x3_pro_ru_2e34cd9f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 быть использована только один раз. Если
 подушка
 безопасности
@@ -9325,7 +8729,6 @@ Cabin air refresh mode (режим обновления
 замены.
 
 ### Дети и подростки могут получить
-`livan_x3_pro_ru_177f4c9e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 серьезные травмы или умереть при
 срабатывании
 подушки
@@ -9351,7 +8754,6 @@ Cabin air refresh mode (режим обновления
 защиты.
 
 ### Положение
-`livan_x3_pro_ru_7cb26a71` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 подушки
 безопасности
 Фронтальная
@@ -9390,7 +8792,6 @@ Cabin air refresh mode (режим обновления
 панелью.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_ae6b7b6a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 92
 1. Положение
 фронтальной
@@ -9408,7 +8809,6 @@ Cabin air refresh mode (режим обновления
 отмечены надписью "AIRBAG".
 
 ### Фронтальная
-`livan_x3_pro_ru_fec9f35b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 подушка
 безопасности
 не
@@ -9422,7 +8822,6 @@ Cabin air refresh mode (режим обновления
 остановке.
 
 ### Подушка
-`livan_x3_pro_ru_bf1c899e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 безопасности
 срабатывает
 за
@@ -9477,7 +8876,6 @@ Cabin air refresh mode (режим обновления
 пассажира.
 
 ### Запрещается
-`livan_x3_pro_ru_b3ac8af5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 переоборудовать,
 разбирать, ударять или открывать какиелибо
 части
@@ -9498,7 +8896,6 @@ Cabin air refresh mode (режим обновления
 летальному исходу.
 
 ### При пользовании автомобилем не
-`livan_x3_pro_ru_2b6b396a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 нужно
 садиться
 рядом
@@ -9508,7 +8905,6 @@ Cabin air refresh mode (режим обновления
 сработать.
 
 ### Срабатывание
-`livan_x3_pro_ru_39dc0f08` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 подушки
 может
 привести
@@ -9530,7 +8926,6 @@ Cabin air refresh mode (режим обновления
 ней.
 
 ### Водитель
-`livan_x3_pro_ru_9d6d73c5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 и
 пассажир должны соблюдать расстояние
 в
@@ -9542,7 +8937,6 @@ Cabin air refresh mode (режим обновления
 подушки безопасности.
 
 ### Нельзя сидеть на переднем сиденье с
-`livan_x3_pro_ru_5ef58c2b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 ребенком
 на
 коленях.
@@ -9569,7 +8963,6 @@ Cabin air refresh mode (режим обновления
 ситуаций
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_e041de4a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 4
 8
 7
@@ -9610,7 +9003,6 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### Срабатывание
-`livan_x3_pro_ru_69956d8a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 подушки
 безопасности
 Срабатывание
@@ -9618,7 +9010,6 @@ Cabin air refresh mode (режим обновления
 подушки безопасности
 
 ### Фронтальная
-`livan_x3_pro_ru_ca16037d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 подушка
 безопасности
 срабатывает при движении автомобиля
@@ -9644,7 +9035,6 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### Водитель и пассажир переднего сиденья
-`livan_x3_pro_ru_3f35c807` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 должны отрегулировать положения своих
 сидений на достаточном расстоянии от
 фронтальной подушки безопасности.
@@ -9658,7 +9048,6 @@ Cabin air refresh mode (режим обновления
 необходимо ли срабатывание подушки.
 
 ### Функционирование
-`livan_x3_pro_ru_56effd08` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 подушки
 безопасности
 не
@@ -9697,7 +9086,6 @@ Cabin air refresh mode (режим обновления
 подушки
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_ca0f5e25` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:96 | doc_type:owners_manual
 94
 безопасности
 могут
@@ -9715,7 +9103,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### При столкновении во время движения
-`livan_x3_pro_ru_c4704cb6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:97 | doc_type:owners_manual
 со
 ступенями
 и
@@ -9732,7 +9119,6 @@ Cabin air refresh mode (режим обновления
 При опрокидывании.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_3d4454f1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:97 | doc_type:owners_manual
 4
 8
 7
@@ -9753,13 +9139,11 @@ Cabin air refresh mode (режим обновления
 •
 
 ### При наличии неисправности системы
-`livan_x3_pro_ru_b9f0fc9a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 подушки безопасности.
 •
 При других непредвиденных условиях.
 
 ### Обслуживание
-`livan_x3_pro_ru_02fded9a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 и
 замена
 подушки безопасности
@@ -9797,7 +9181,6 @@ Cabin air refresh mode (режим обновления
 сигнала.
 
 ### Автомобильная
-`livan_x3_pro_ru_70602b1e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 авария
 может
 привести
@@ -9831,7 +9214,6 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### Если произошло срабатывание подушки
-`livan_x3_pro_ru_7644d87b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 безопасности,
 необходима
 замена
@@ -9844,7 +9226,6 @@ Cabin air refresh mode (режим обновления
 проведения ремонта.
 
 ### Если при движении автомобиля светится
-`livan_x3_pro_ru_0985d608` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:98 | doc_type:owners_manual
 лампа
 сигнализации
 о
@@ -9869,7 +9250,6 @@ Cabin air refresh mode (режим обновления
 для проведения проверки.
 
 ### При продаже автомобиля позаботьтесь о
-`livan_x3_pro_ru_7ac2d694` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 том, чтобы новый владелец был в курсе
 даты замены подушки безопасности и ее
 системы.
@@ -9891,21 +9271,18 @@ Cabin air refresh mode (режим обновления
 специалистом в специальных условиях.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_dccf4835` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:98 | doc_type:owners_manual
 96
 Устройства безопасности
 детского кресла
 Выбор детского защитного устройства
 
 ### Данные по совместимости всех сидений с детским креслом в условиях фиксации
-`livan_x3_pro_ru_05eed620` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 детского кресла ремнями безопасности:
 Груп
 па
 Вес ребенка
 
 ### Положение
-`livan_x3_pro_ru_4fd295a3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 места
 пассажира
 переднего ряда
@@ -9916,7 +9293,6 @@ Cabin air refresh mode (режим обновления
 сбоку
 
 ### Положение
-`livan_x3_pro_ru_4fd295a3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 места
 пассажира
 заднего ряда
@@ -9927,7 +9303,6 @@ X
 U
 
 ### X
-`livan_x3_pro_ru_994508a7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 0+
 <13KG
 X
@@ -9947,7 +9322,6 @@ X
 22-36KG
 
 ### X
-`livan_x3_pro_ru_994508a7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 Пояснение: смысл условных обозначений в таблице выше: U = универсальный тип
 детской удерживающей системы, утвержденный для использования для этой весовой
 группы; X = детская удерживающая система, неподходящая для этой весовой группы.
@@ -9955,7 +9329,6 @@ X
 в детском кресле детской системы защиты ISOFIX:
 
 ### Группа
-`livan_x3_pro_ru_86f5ae2c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 Вес
 ребенка
 Катего
@@ -9973,7 +9346,6 @@ X
 го ряда
 
 ### Положе
-`livan_x3_pro_ru_a4156d3b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 ние
 места
 пассажи
@@ -9997,7 +9369,6 @@ X
 -
 
 ### X
-`livan_x3_pro_ru_994508a7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 0
 <10 КГ
 E
@@ -10015,7 +9386,6 @@ X
 D
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_9716951b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 4
 8
 7
@@ -10033,7 +9403,6 @@ D
 размера
 
 ### Модуль
-`livan_x3_pro_ru_c3a3d31b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:100 | doc_type:owners_manual
 фиксаци
 и
 Положе
@@ -10045,7 +9414,6 @@ D
 го ряда
 
 ### Положе
-`livan_x3_pro_ru_bf111d23` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:100 | doc_type:owners_manual
 ние
 места
 пассажи
@@ -10064,7 +9432,6 @@ D
 не
 
 ### Ⅰ
-`livan_x3_pro_ru_2e9da912` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:100 | doc_type:owners_manual
 9-18 кг
 D
 ISO/R2
@@ -10082,7 +9449,6 @@ X
 IUF
 
 ### X
-`livan_x3_pro_ru_e1eb54c7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:100 | doc_type:owners_manual
 Пояснение: смысл условных обозначений в таблице выше: IL = на данном сиденье
 используется детское кресло категории ISOFIX, указанное в перечне, сопровождающем
 автомобиль; используется вместе с сиденьем; IUF = на данном сиденье используется
@@ -10090,7 +9456,6 @@ IUF
 оборудовано крепежным кольцом для системы ISOFIX.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_ad4f2b14` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:100 | doc_type:owners_manual
 98
 Использование
 детских
@@ -10099,7 +9464,6 @@ IUF
 дети и дети старшего возраста
 
 ### Все находящиеся в автомобиле люди
-`livan_x3_pro_ru_aee79102` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 должны быть защищены! В том числе и
 новорожденные
 и
@@ -10107,7 +9471,6 @@ IUF
 дети.
 
 ### Протяженность
-`livan_x3_pro_ru_aebde593` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 маршрута,
 а
 также
@@ -10121,7 +9484,6 @@ IUF
 безопасности.
 
 ### Если плечевой ремень обмотается
-`livan_x3_pro_ru_338ec072` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:101 | doc_type:owners_manual
 вокруг
 шеи
 ребенка,
@@ -10146,7 +9508,6 @@ IUF
 ремнями безопасности.
 
 ### Подушка
-`livan_x3_pro_ru_1ba04e8a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:101 | doc_type:owners_manual
 безопасности
 и
 ремень
@@ -10163,7 +9524,6 @@ IUF
 детей.
 
 ### Система
-`livan_x3_pro_ru_3d09141a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 ремней
 безопасности и подушек безопасности в
 автомобиле
@@ -10176,7 +9536,6 @@ IUF
 детей.
 
 ### Находясь
-`livan_x3_pro_ru_ff20e4f1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 в
 автомобиле,
 новорожденные
@@ -10191,7 +9550,6 @@ IUF
 надлежащих детских устройств защиты.
 
 ### Незакрепленный надлежащим образом
-`livan_x3_pro_ru_360fcb83` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 ребенок может налететь на других людей
 или выпасть из машины.
 Не берите детей на колени, садясь
@@ -10229,7 +9587,6 @@ IUF
 держащего.
 
 ### Младенцы
-`livan_x3_pro_ru_1d70900a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:101 | doc_type:owners_manual
 должны
 быть
 закреплены
@@ -10248,7 +9605,6 @@ IUF
 сиденье,
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_7d805cbe` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:101 | doc_type:owners_manual
 4
 8
 7
@@ -10279,7 +9635,6 @@ IUF
 погибнуть.
 
 ### Запрещается
-`livan_x3_pro_ru_b146d46c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:102 | doc_type:owners_manual
 помещать
 на
 сиденье
@@ -10292,7 +9647,6 @@ IUF
 назад.
 
 ### Устройство
-`livan_x3_pro_ru_ff9a4dd2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 детской
 защиты,
 направленное
@@ -10302,7 +9656,6 @@ IUF
 установлено на сиденьях заднего ряда.
 
 ### Устройство
-`livan_x3_pro_ru_ff9a4dd2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 детской
 защиты,
 направленное
@@ -10312,7 +9665,6 @@ IUF
 установлено на сиденьях заднего ряда.
 
 ### Для того чтобы уменьшить риск
-`livan_x3_pro_ru_373e2909` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 получения травм шеи и головы во
 время аварии, младенцам необходима
 поддержка всего тела.
@@ -10345,7 +9697,6 @@ IUF
 крепкой части его тела - спине и плечам.
 
 ### Младенец
-`livan_x3_pro_ru_e8eea606` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 должен
 быть
 все
@@ -10354,7 +9705,6 @@ IUF
 направленном назад.
 
 ### Тазовая
-`livan_x3_pro_ru_ed2db7d3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:102 | doc_type:owners_manual
 кость
 ребенка
 относительно
@@ -10366,7 +9716,6 @@ IUF
 кости.
 
 ### Поэтому
-`livan_x3_pro_ru_8b1a309a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 он
 перемещается
 на
@@ -10401,7 +9750,6 @@ IUF
 устройстве защиты все время.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_1b50589b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 100
 Дети старшего возраста
 Дети старшего возраста, которые уже не
@@ -10413,7 +9761,6 @@ IUF
 безопасности.
 
 ### В
-`livan_x3_pro_ru_d09af9ad` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 руководстве
 по
 эксплуатации
@@ -10442,7 +9789,6 @@ IUF
 нему.
 
 ### Находятся
-`livan_x3_pro_ru_2fcb1681` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:103 | doc_type:owners_manual
 ли
 колени
 ребенка
@@ -10458,7 +9804,6 @@ IUF
 •
 
 ### Застегните
-`livan_x3_pro_ru_c674dd39` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 трехточечный
 ремень
 безопасности.
@@ -10512,7 +9857,6 @@ IUF
 ограничения.
 
 ### Плечевая
-`livan_x3_pro_ru_c02a63c1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:103 | doc_type:owners_manual
 часть
 ремня
 не
@@ -10574,7 +9918,6 @@ IUF
 ремнями безопасности.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_3c4025e5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 4
 8
 7
@@ -10601,7 +9944,6 @@ IUF
 травмы.
 
 ### Ремнем
-`livan_x3_pro_ru_b698917b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 может
 пользоваться
 только
@@ -10614,7 +9956,6 @@ IUF
 не должна давить на спину ребенка.
 
 ### Неправильное
-`livan_x3_pro_ru_4aa83f93` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 использование
 ремня
 безопасности бедренно-плечевого типа
@@ -10651,7 +9992,6 @@ IUF
 исходу.
 
 ### Плечевая
-`livan_x3_pro_ru_0877ad6b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 часть
 ремня
 должна
@@ -10662,7 +10002,6 @@ IUF
 средств защиты
 
 ### Детские
-`livan_x3_pro_ru_b11a7929` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 сиденья,
 направленные
 назад
@@ -10681,7 +10020,6 @@ IUF
 устройстве защиты.
 
 ### Рекомендуется
-`livan_x3_pro_ru_ee8fc875` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 использовать
 фиксирующие
 детские
@@ -10693,7 +10031,6 @@ IUF
 сиденья.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_836e5815` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:104 | doc_type:owners_manual
 102
 Не
 помещайте
@@ -10713,7 +10050,6 @@ IUF
 состоянии)!
 
 ### Детские
-`livan_x3_pro_ru_6989f1f8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 сиденья,
 направленные
 вперед
@@ -10725,7 +10061,6 @@ IUF
 пристегивания его тела ремнями.
 
 ### Вспомогательное кресло
-`livan_x3_pro_ru_f3d5d217` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 Вспомогательное кресло - это детское
 устройство
 защиты,
@@ -10735,7 +10070,6 @@ IUF
 автомобильного ремня безопасности.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_a2e20da5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:105 | doc_type:owners_manual
 4
 8
 7
@@ -10854,7 +10188,6 @@ IUF
 состоянии).
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_228c81b0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:106 | doc_type:owners_manual
 104
 Установка при использовании
 ремня безопасности бедренноплечевого
@@ -10863,7 +10196,6 @@ IUF
 безопасности ALR/ELR)
 
 ### Установка
-`livan_x3_pro_ru_a24e570a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:107 | doc_type:owners_manual
 детского
 кресла,
 направленного назад
@@ -10905,7 +10237,6 @@ IUF
 установите его за сиденьем справа.
 
 ### В
-`livan_x3_pro_ru_15874072` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:107 | doc_type:owners_manual
 соответствии
 с
 инструкциями,
@@ -10923,7 +10254,6 @@ IUF
 Убедитесь, что ремень не перекручен.
 
 ### Поясная часть ремня должна сохранять
-`livan_x3_pro_ru_40b8c0fb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:107 | doc_type:owners_manual
 натяжение.
 После
 пристегивания
@@ -10947,7 +10277,6 @@ IUF
 проведения осмотра и ремонта. Пока
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_0d3507ea` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:107 | doc_type:owners_manual
 4
 8
 7
@@ -10961,7 +10290,6 @@ IUF
 этим сиденьем.
 
 ### Передвиньте детское кресло в разных
-`livan_x3_pro_ru_91b86b3e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 направлениях, толкайте и тяните, чтобы
 убедиться
 в
@@ -10972,7 +10300,6 @@ IUF
 закреплено.
 
 ### Для того чтобы снять детское средство
-`livan_x3_pro_ru_6208c42f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:108 | doc_type:owners_manual
 защиты, нажмите на кнопку замка.
 Установка
 детского
@@ -11002,7 +10329,6 @@ IUF
 поясной части.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_5578efb8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:108 | doc_type:owners_manual
 106
 Если
 полностью
@@ -11023,7 +10349,6 @@ IUF
 хорошо закрепить детское кресло.
 
 ### Крепко прислоните детское устройство
-`livan_x3_pro_ru_0214d3e1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:109 | doc_type:owners_manual
 защиты
 к
 подушке
@@ -11034,7 +10359,6 @@ IUF
 прочно закрепить ребенка на сиденье.
 
 ### Передвиньте детское устройство защиты
-`livan_x3_pro_ru_ba5a28af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 в
 разных
 направлениях,
@@ -11049,7 +10373,6 @@ IUF
 компаниейизготовителем.
 
 ### Установка вспомогательного кресла
-`livan_x3_pro_ru_f9576c97` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:109 | doc_type:owners_manual
 Посадите ребенка в устройств защиты.
 Как
 указано
@@ -11065,7 +10388,6 @@ IUF
 перекрутился.
 
 ### Убедитесь
-`livan_x3_pro_ru_d90d3e0f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 в
 том,
 что
@@ -11076,7 +10398,6 @@ IUF
 пересекает тело ребенка, а также в том,
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_b7094110` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:109 | doc_type:owners_manual
 4
 8
 7
@@ -11096,7 +10417,6 @@ IUF
 параграфу "Ремень безопасности".
 
 ### Для того чтобы снять детское средство
-`livan_x3_pro_ru_5599cb4e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:110 | doc_type:owners_manual
 защиты,
 нажмите
 на
@@ -11114,7 +10434,6 @@ IUF
 ребенка.
 
 ### Плечевой
-`livan_x3_pro_ru_e83fa06c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 пояс
 должен находится чуть дальше от шеи
 ребенка, чтобы не перетянуть нижнюю
@@ -11125,7 +10444,6 @@ IUF
 исходу.
 
 ### Высокорасположенная бедренная часть
-`livan_x3_pro_ru_30a24d6a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 ремня и ослабленное состояние ремня
 безопасности
 при
@@ -11155,7 +10473,6 @@ IUF
 на нижней части предплечья ребенка.
 
 ### Установка
-`livan_x3_pro_ru_011ac92c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 детских
 средств
 защиты ISOFIX
@@ -11166,7 +10483,6 @@ IUF
 специальным соединением по стандарту
 
 ### ISO устанавливается на сиденье заднего
-`livan_x3_pro_ru_00a12ed0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:110 | doc_type:owners_manual
 ряда. Оно закрепляется на месте между
 двумя сиденьями заднего ряда, крепясь к
 подушке
@@ -11175,7 +10491,6 @@ IUF
 сиденья.
 
 ### Детское
-`livan_x3_pro_ru_8926ed7f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 устройство
 защиты
 по
@@ -11189,14 +10504,12 @@ ISO
 соединения.
 
 ### В
-`livan_x3_pro_ru_e03d6efa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 таком
 случае не нужно использовать ремни
 безопасности для фиксации устройства
 защиты.
 
 ### При использовании и установке детской
-`livan_x3_pro_ru_aa2f17a9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 системы
 защиты
 ISOFIX
@@ -11225,7 +10538,6 @@ ISOFIX
 устройства.
 
 ### Установите
-`livan_x3_pro_ru_750a43c7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 детское
 автомобильное
 кресло
@@ -11241,7 +10553,6 @@ ISOFIX
 шагами:
 
 ### 1. Откройте крышку сиденья ISOFIX и
-`livan_x3_pro_ru_341125ef` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 убедитесь
 в
 том,
@@ -11254,7 +10565,6 @@ ISOFIX
 соединения ISOFIX.
 
 ### 2. Присоедините
-`livan_x3_pro_ru_13842875` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 место
 соединения
 детского
@@ -11264,7 +10574,6 @@ ISOFIX
 к
 
 ### ISOFIX
-`livan_x3_pro_ru_fcaf9ecc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 в
 задней
 части
@@ -11275,7 +10584,6 @@ ISOFIX
 зафиксирована защелка.
 
 ### 4. Закрепите
-`livan_x3_pro_ru_26d37efb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 замок
 в
 нижней
@@ -11308,7 +10616,6 @@ ISOFIX
 инструкцией по монтажу.
 
 ### Детское
-`livan_x3_pro_ru_1d57814a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 устройство
 защиты
 не
@@ -11316,7 +10623,6 @@ ISOFIX
 соединения
 
 ### ISOFIX,
-`livan_x3_pro_ru_d57982ba` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 соответствующего
 для
 установки
@@ -11353,7 +10659,6 @@ ISOFIX
 ремни
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_3880cb65` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 4
 8
 7
@@ -11371,7 +10676,6 @@ ISOFIX
 автомобиле.
 
 ### Нельзя устанавливать детские средства
-`livan_x3_pro_ru_c5d3fac5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 защиты во время движения автомобиля.
 При
 правильной
@@ -11381,7 +10685,6 @@ ISOFIX
 защиты
 
 ### ISOFIX
-`livan_x3_pro_ru_7f4530bd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 с
 соединением
 ISOFIX
@@ -11390,7 +10693,6 @@ ISOFIX
 характерный щелчок.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_927a1d3c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 110
 5
 8
@@ -11407,7 +10709,6 @@ ISOFIX
 управления
 
 ### Информация
-`livan_x3_pro_ru_cf2e6a3b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 о
 ключе
 дистанционного управления
@@ -11421,7 +10722,6 @@ ISOFIX
 автомобиля.
 
 ### Если ключ дистанционного управления
-`livan_x3_pro_ru_ea9f3133` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 утерян
 или
 украден,
@@ -11433,7 +10733,6 @@ ISOFIX
 обслуживания
 
 ### LIVAN,
-`livan_x3_pro_ru_3546202c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 утерянный
 ключ
 дистанционного
@@ -11452,7 +10751,6 @@ ISOFIX
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_97ef1fe3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 сможет повторно активировать его.
 Замена
 ключа
@@ -11465,7 +10763,6 @@ ISOFIX
 немедленно.
 
 ### Центру
-`livan_x3_pro_ru_e1386ce0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 технического
 обслуживания
 LIVAN
@@ -11477,13 +10774,11 @@ LIVAN
 управления с вашим автомобилем.
 
 ### 2. Кнопка разблокировки механического
-`livan_x3_pro_ru_1cac5226` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:114 | doc_type:owners_manual
 ключа
 3. Световой индикатор
 4. Кнопка открытия замка
 
 ### 6. Кнопка открытия багажника
-`livan_x3_pro_ru_343a18b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:114 | doc_type:owners_manual
 Пожалуйста,
 храните
 запасной
@@ -11491,7 +10786,6 @@ LIVAN
 надежном месте, но не в автомобиле.
 
 ### Замена
-`livan_x3_pro_ru_01401089` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 элемента
 питания
 в
@@ -11515,7 +10809,6 @@ LIVAN
 дистанционного управления.
 
 ### Используйте
-`livan_x3_pro_ru_24922d50` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 плоскую
 отвертку
 или
@@ -11532,21 +10825,18 @@ LIVAN
 управления и разделить его на две части.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_80a3fd2f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 112
 Замените элемент питания на новый и
 обратите внимание, что размещать его
 следует положительной стороной вниз.
 
 ### Модель
-`livan_x3_pro_ru_7c335a97` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 элемента
 питания
 ключа
 дистанционного управления: 3В, CR2032.
 
 ### Ключ дистанционного управления
-`livan_x3_pro_ru_4c1a59d6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:115 | doc_type:owners_manual
 оснащен
 высокоточной
 электроцепью,
@@ -11572,7 +10862,6 @@ LIVAN
 ниже
 
 ### -20° С
-`livan_x3_pro_ru_539c8739` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 в
 течение
 длительного
@@ -11587,7 +10876,6 @@ LIVAN
 Своевременно меняйте элемент питания.
 
 ### Избегайте
-`livan_x3_pro_ru_cdf7e6f2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:115 | doc_type:owners_manual
 влияния
 на
 функционал
@@ -11625,7 +10913,6 @@ LIVAN
 обслуживания
 
 ### LIVAN,
-`livan_x3_pro_ru_f018d9da` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 утерянный смарт-ключ будет удален из
 функционала
 запуска
@@ -11639,14 +10926,12 @@ LIVAN
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_35af50de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 сможет повторно активировать его.
 Замена смарт-ключа не может быть
 предоставлена
 немедленно.
 
 ### Центру
-`livan_x3_pro_ru_61f4cb1e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 технического
 обслуживания
 LIVAN
@@ -11657,7 +10942,6 @@ LIVAN
 вашим автомобилем.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_1c4203ff` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:115 | doc_type:owners_manual
 5
 8
 7
@@ -11671,7 +10955,6 @@ LIVAN
 3. Кнопка открытия багажника
 
 ### 5. Механический ключ
-`livan_x3_pro_ru_823f7a72` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 После
 шести
 открытий
@@ -11698,7 +10981,6 @@ LIVAN
 перегрева.
 
 ### В
-`livan_x3_pro_ru_c1f10a56` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 течение
 20
 секунд
@@ -11716,7 +10998,6 @@ LIVAN
 разблокировки.
 
 ### Храните
-`livan_x3_pro_ru_00baf963` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:116 | doc_type:owners_manual
 запасной
 смарт-ключ
 в
@@ -11738,7 +11019,6 @@ LIVAN
 может не завестись.
 
 ### Извлечение
-`livan_x3_pro_ru_d31c7544` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 механического
 ключа
 Нажмите
@@ -11783,7 +11063,6 @@ LIVAN
 источником питания ноутбука.
 
 ### Замена
-`livan_x3_pro_ru_11a8dad3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 элемента
 питания
 смарт-ключа
@@ -11803,7 +11082,6 @@ LIVAN
 низкого
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_7f8715b2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 114
 заряда элемента питания, необходимо
 заменить
@@ -11813,7 +11091,6 @@ LIVAN
 смартключе.
 
 ### 2. Используйте плоскую отвертку или
-`livan_x3_pro_ru_db19351e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 аналогичный
 инструмент,
 вместе,
@@ -11822,7 +11099,6 @@ LIVAN
 на две части.
 
 ### 3. После открытия корпуса смарт-ключа
-`livan_x3_pro_ru_41e143c0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 замените элемент питания на новый
 и обратите внимание, что размещать
 его следует положительной стороной
@@ -11833,7 +11109,6 @@ LIVAN
 смарт-ключа: 3В, CR2032).
 
 ### 4. Соберите
-`livan_x3_pro_ru_7592cae1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:117 | doc_type:owners_manual
 две
 половины
 корпуса
@@ -11857,7 +11132,6 @@ LIVAN
 ниже
 
 ### -20° С
-`livan_x3_pro_ru_147e804d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 в
 течение
 длительного
@@ -11873,7 +11147,6 @@ LIVAN
 смарт-ключа.
 
 ### Своевременно
-`livan_x3_pro_ru_76dd3a69` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 заменяйте элемент питания. Избегайте
 влияния на функционал дистанционного
 управления,
@@ -11892,7 +11165,6 @@ LIVAN
 использование.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_edcd19b5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 5
 8
 7
@@ -11908,7 +11180,6 @@ LIVAN
 двигателя*
 
 ### Противоугонную
-`livan_x3_pro_ru_cff8574f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 защиту
 двигателя
 не
@@ -11974,7 +11245,6 @@ LIVAN, чтобы настроить новый ключ.
 противоугонную защиту.
 
 ### Закрытие
-`livan_x3_pro_ru_0e061344` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 и
 открытие
 замка автомобиля
@@ -12007,7 +11277,6 @@ LIVAN, чтобы настроить новый ключ.
 ли она выполнена.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_6685e373` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:118 | doc_type:owners_manual
 116
 Только при выключенном зажигании и
 закрытых
@@ -12032,7 +11301,6 @@ LIVAN, чтобы настроить новый ключ.
 смарт-ключа.
 
 ### Если незапертый автомобиль стоит на
-`livan_x3_pro_ru_77a5b601` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:119 | doc_type:owners_manual
 стоянке в течение длительного времени,
 аккумулятор
 автомобиля
@@ -12044,7 +11312,6 @@ LIVAN, чтобы настроить новый ключ.
 будет снова запустить.
 
 ### В
-`livan_x3_pro_ru_f9daa0f1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:119 | doc_type:owners_manual
 случае
 отказа
 ключа
@@ -12060,7 +11327,6 @@ LIVAN, чтобы настроить новый ключ.
 помощью механического ключа.
 
 ### Система доступа в автомобиль
-`livan_x3_pro_ru_ce9a3dfe` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:119 | doc_type:owners_manual
 без ключа*
 Бесключевое открытие замка
 Имея
@@ -12080,7 +11346,6 @@ LIVAN, чтобы настроить новый ключ.
 загорятся габаритные огни.
 
 ### Выключите
-`livan_x3_pro_ru_1556eae3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:119 | doc_type:owners_manual
 зажигание,
 после
 заблокируйте четыре двери и заднюю
@@ -12098,7 +11363,6 @@ LIVAN, чтобы настроить новый ключ.
 погаснут.
 
 ### В
-`livan_x3_pro_ru_f9daa0f1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 указанных
 ниже
 условиях
@@ -12111,20 +11375,17 @@ LIVAN, чтобы настроить новый ключ.
 •
 
 ### OFF;
-`livan_x3_pro_ru_5fbeb059` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 •
 Одна из дверей не закрыта;
 •
 Смарт-ключ остался в машине.
 
 ### Дистанционное
-`livan_x3_pro_ru_63cbc8de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 блокирование
 и разблокирование замков
 Разблокирование замков
 
 ### Коротко нажмите кнопку разблокировки
-`livan_x3_pro_ru_03e5ab60` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:119 | doc_type:owners_manual
 на ключе дистанционного управления/
 смарт-ключе,
 чтобы
@@ -12136,7 +11397,6 @@ LIVAN, чтобы настроить новый ключ.
 дверь.
 
 ### Указатели
-`livan_x3_pro_ru_7930816e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:119 | doc_type:owners_manual
 поворота
 мигнут
 три
@@ -12154,7 +11414,6 @@ LIVAN, чтобы настроить новый ключ.
 разблокировать заднюю дверь.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_a94a8f1b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:119 | doc_type:owners_manual
 5
 8
 7
@@ -12201,7 +11460,6 @@ LIVAN, чтобы настроить новый ключ.
 чтобы предупредить пользователя.
 
 ### Не позволяйте детям проникать в
-`livan_x3_pro_ru_933ec265` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:120 | doc_type:owners_manual
 багажное
 отделение.
 Убедитесь,
@@ -12213,13 +11471,11 @@ LIVAN, чтобы настроить новый ключ.
 автомобиль находится без присмотра.
 
 ### Как только ребенок окажется в ловушке в
-`livan_x3_pro_ru_94ab6f33` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 багажном отделении, вполне вероятно,
 что он или она не сможет выбраться, что
 вызовет тепловой удар или удушье.
 
 ### Блокирование
-`livan_x3_pro_ru_c325a263` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 и
 разблокирование
 механическим ключом
@@ -12230,7 +11486,6 @@ LIVAN, чтобы настроить новый ключ.
 управления).
 
 ### 2. Вставьте механический ключ в замок
-`livan_x3_pro_ru_0c34bd7e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:120 | doc_type:owners_manual
 двери
 со
 стороны
@@ -12245,7 +11500,6 @@ LIVAN, чтобы настроить новый ключ.
 водителя.
 
 ### Блокирование
-`livan_x3_pro_ru_c325a263` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 и
 разблокирование
 замков
@@ -12261,7 +11515,6 @@ LIVAN, чтобы настроить новый ключ.
 изнутри.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_df45ea9d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 118
 Когда
 четыре
@@ -12274,7 +11527,6 @@ LIVAN, чтобы настроить новый ключ.
 разблокировать все двери.
 
 ### Разблокирование
-`livan_x3_pro_ru_a3d5c21a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 изнутри
 автомобиля
 через
@@ -12291,14 +11543,12 @@ LIVAN, чтобы настроить новый ключ.
 режимах отклика не будет.
 
 ### Автоматическое блокирование
-`livan_x3_pro_ru_edfc340d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 и разблокирование
 Автоматическое
 повторное
 блокирование
 
 ### В
-`livan_x3_pro_ru_aaea4a9b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:121 | doc_type:owners_manual
 течение
 30
 секунд
@@ -12318,14 +11568,12 @@ LIVAN, чтобы настроить новый ключ.
 заблокируются.
 
 ### Внутреннее
-`livan_x3_pro_ru_52dbf211` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 освещение
 погаснет
 и
 система переходит в режим тревоги.
 
 ### Автоматическая
-`livan_x3_pro_ru_a12d661a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 блокировка
 в
 движении
@@ -12363,7 +11611,6 @@ LIVAN, чтобы настроить новый ключ.
 забыт в автомобиле.
 
 ### Напоминание о забытом ключе
-`livan_x3_pro_ru_f4df5d36` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:121 | doc_type:owners_manual
 Когда
 ключ
 зажигания
@@ -12397,7 +11644,6 @@ LOCK,
 зажигания автомобиля.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_92cf6284` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 5
 8
 7
@@ -12422,7 +11668,6 @@ LOCK,
 двери автоматически разблокируются.
 
 ### Разблокировка при столкновении
-`livan_x3_pro_ru_89fa95b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 Если
 автомобиль
 получает
@@ -12441,7 +11686,6 @@ LOCK,
 автомобиль.
 
 ### Функция поиска автомобиля
-`livan_x3_pro_ru_99fb9b56` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 Если
 местоположение
 вашего
@@ -12500,7 +11744,6 @@ LOCK,
 автоматически.
 
 ### Для некоторых моделей автоматическое
-`livan_x3_pro_ru_a81e22d6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 закрывание
 окон
 установлено
@@ -12521,7 +11764,6 @@ LOCK,
 автоматически.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_1a5c4cbb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 120
 Открытие задней двери
 Открытие
@@ -12574,7 +11816,6 @@ LOCK,
 открыть ее на некоторое время.
 
 ### Аварийное открытие задней двери
-`livan_x3_pro_ru_3d283f25` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:123 | doc_type:owners_manual
 Когда
 электрический
 механизм
@@ -12593,7 +11834,6 @@ LOCK,
 устройство аварийного открытия.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_71faecd4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 5
 8
 7
@@ -12609,7 +11849,6 @@ LOCK,
 образом:
 
 ### 1. Полностью сложите спинку заднего
-`livan_x3_pro_ru_ca28c34d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 сиденья. Подробности см. в разделе
 «Регулировка
 передних
@@ -12623,7 +11862,6 @@ LOCK,
 защитные устройствае.
 
 ### 2. Заберитесь
-`livan_x3_pro_ru_6816cc8f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:124 | doc_type:owners_manual
 во
 внутреннюю
 часть
@@ -12636,7 +11874,6 @@ LOCK,
 задней двери.
 
 ### 3. Снимите
-`livan_x3_pro_ru_1377c526` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 крышку
 выключателя
 аварийного
@@ -12645,7 +11882,6 @@ LOCK,
 двери.
 
 ### 4. Поверните выключатель аварийного
-`livan_x3_pro_ru_c62c6165` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:124 | doc_type:owners_manual
 открывания
 задней
 двери
@@ -12653,13 +11889,11 @@ LOCK,
 чтобы открыть заднюю дверь.
 
 ### Дверные ручки
-`livan_x3_pro_ru_99796aba` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:124 | doc_type:owners_manual
 Когда дверь разблокирована, открыть ее
 можно с помощью внутренней и внешней
 дверных ручек.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_82ebbbc9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 122
 Левая
 и
@@ -12682,7 +11916,6 @@ LOCK,
 безопасности.
 
 ### Детский замок безопасности расположен
-`livan_x3_pro_ru_59a75274` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:125 | doc_type:owners_manual
 на
 внешних
 краях
@@ -12713,7 +11946,6 @@ LOCK,
 работает нормально.
 
 ### Запуск
-`livan_x3_pro_ru_00352916` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 двигателя
 автомобиля
 Замок
@@ -12722,7 +11954,6 @@ LOCK,
 механическим ключом)
 
 ### Автомобиль
-`livan_x3_pro_ru_849a60be` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 может
 быть
 заведен
@@ -12730,7 +11961,6 @@ LOCK,
 имеет четыре положения.
 
 ### 1. LOCK: дистанционный ключ можно
-`livan_x3_pro_ru_443a3021` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:125 | doc_type:owners_manual
 вставить или вытащить только в этом
 положении. При парковке поверните
 ключ
@@ -12752,7 +11982,6 @@ LOCK,
 кражу.
 
 ### 2. ACC: когда ключ находится в этом
-`livan_x3_pro_ru_c2ef805a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:125 | doc_type:owners_manual
 положении,
 можно
 использовать
@@ -12774,7 +12003,6 @@ LOCK,
 автомобиль не сможет ехать.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_32ff8451` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:125 | doc_type:owners_manual
 5
 8
 7
@@ -12821,7 +12049,6 @@ LOCK,
 аккумулятора.
 
 ### 4. START: этот режим используется для
-`livan_x3_pro_ru_ef3b1996` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:126 | doc_type:owners_manual
 запуска
 автомобиля.
 Двигатель
@@ -12829,7 +12056,6 @@ LOCK,
 положение.
 
 ### Отпустите
-`livan_x3_pro_ru_58fd93a4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:126 | doc_type:owners_manual
 ключ
 после
 запуска,
@@ -12842,7 +12068,6 @@ LOCK,
 положение ON.
 
 ### Пусковой
-`livan_x3_pro_ru_bb1f20f0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:126 | doc_type:owners_manual
 переключатель
 (бесключевой запуск)*
 Этот автомобиль оснащен электронным
@@ -12870,7 +12095,6 @@ LOCK,
 Режимы пускового переключателя:
 
 ### OFF:
-`livan_x3_pro_ru_affb4c05` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:126 | doc_type:owners_manual
 в
 этом
 положении
@@ -12915,7 +12139,6 @@ ACC: этот режим позволяет использовать
 режим
 
 ### АСС.
-`livan_x3_pro_ru_649c01c1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:126 | doc_type:owners_manual
 Когда
 пусковой
 переключатель находится в режиме ACC,
@@ -12927,7 +12150,6 @@ ACC: этот режим позволяет использовать
 зажигания, чтобы запустить двигатель.
 
 ### Если пусковой переключатель все
-`livan_x3_pro_ru_72cdbf88` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:126 | doc_type:owners_manual
 еще
 находится
 в
@@ -12947,7 +12169,6 @@ ACC
 автомобиль может не завестись.
 
 ### ON:
-`livan_x3_pro_ru_0f7883b4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:126 | doc_type:owners_manual
 когда
 пусковой
 переключатель
@@ -12965,13 +12186,11 @@ ACC
 переключатель в режим OFF.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_7a31c45a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:126 | doc_type:owners_manual
 124
 START: этот режим используется для
 запуска автомобиля.
 
 ### Не оставляйте электронный ключ в
-`livan_x3_pro_ru_7688a745` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:127 | doc_type:owners_manual
 автомобиле
 или
 в
@@ -12985,7 +12204,6 @@ START: этот режим используется для
 причиной серьезных травм или смерти.
 
 ### Запуск
-`livan_x3_pro_ru_47be4e7d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 двигателя
 (запуск
 механическим ключом)
@@ -13000,12 +12218,10 @@ START: этот режим используется для
 педаль сцепления.
 
 ### 2. После запуска двигателя немедленно
-`livan_x3_pro_ru_b3d8ff50` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 отпустите ключ, чтобы вернуть его в
 положение ON из положения START.
 
 ### Не запускайте стартер и двигатель
-`livan_x3_pro_ru_329837fd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:127 | doc_type:owners_manual
 одновременно.
 3. Если
 холодный
@@ -13019,7 +12235,6 @@ START: этот режим используется для
 нормально.
 
 ### 4. Избегайте
-`livan_x3_pro_ru_8415bc84` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:127 | doc_type:owners_manual
 работы
 двигателя
 в
@@ -13051,7 +12266,6 @@ START: этот режим используется для
 месте.
 
 ### Выхлопные
-`livan_x3_pro_ru_4e364c3b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 газы
 автомобиля
 могут
@@ -13059,7 +12273,6 @@ START: этот режим используется для
 отравление и даже смерть.
 
 ### Запуск
-`livan_x3_pro_ru_47be4e7d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 двигателя
 (бесключевой запуск)*
 Для
@@ -13070,7 +12283,6 @@ START: этот режим используется для
 выполнены следующие условия:
 
 ### 1. Носите с собой действующий смарт-
-`livan_x3_pro_ru_cfa5fba5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 ключ;
 2. Рычаг
 переключения
@@ -13078,7 +12290,6 @@ START: этот режим используется для
 находится в положении P или N;
 
 ### Нажмите
-`livan_x3_pro_ru_effd81bb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:127 | doc_type:owners_manual
 и
 удерживайте
 педаль
@@ -13093,7 +12304,6 @@ START: этот режим используется для
 проведения технического обслуживания.
 
 ### 1. Когда
-`livan_x3_pro_ru_80ab0269` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:127 | doc_type:owners_manual
 необходимо
 запустить
 двигатель, нажмите педаль тормоза
@@ -13113,7 +12323,6 @@ START: этот режим используется для
 в
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_ac5d5ecd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:127 | doc_type:owners_manual
 5
 8
 7
@@ -13151,7 +12360,6 @@ START,
 смазку.
 
 ### 2. Если
-`livan_x3_pro_ru_f1cb2aae` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:128 | doc_type:owners_manual
 смарт-ключ
 не
 находится
@@ -13178,7 +12386,6 @@ START,
 двигатель и защитить компоненты.
 
 ### Если вы нажмете кнопку зажигания и
-`livan_x3_pro_ru_481ad971` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:128 | doc_type:owners_manual
 отпустите ее, когда двигатель начнет
 запускаться,
 стартер
@@ -13210,7 +12417,6 @@ START,
 чтобы начать следующий пуск.
 
 ### Если после неудачного пуска сразу
-`livan_x3_pro_ru_8eedf99c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:128 | doc_type:owners_manual
 же
 повторно
 нажать
@@ -13233,7 +12439,6 @@ START,
 полного остывания стартера.
 
 ### Резервная процедура запуска
-`livan_x3_pro_ru_8705c0a0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 автомобиля*
 Если
 автомобиль
@@ -13263,7 +12468,6 @@ START,
 запуска с кнопки.
 
 ### Запустите
-`livan_x3_pro_ru_5491338e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 автомобиль
 следующим
 образом:
@@ -13273,7 +12477,6 @@ START,
 передач в положение P или N.
 
 ### 2. Смарт-ключ
-`livan_x3_pro_ru_1a8858c5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 размещается
 в
 контейнере для хранения у метки
@@ -13281,7 +12484,6 @@ START,
 консоли.
 
 ### 4. Нажата кнопка зажигания.
-`livan_x3_pro_ru_e65069da` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:128 | doc_type:owners_manual
 Если
 автомобиль
 заглох
@@ -13303,7 +12505,6 @@ START,
 на
 
 ### ON,
-`livan_x3_pro_ru_a3bffda8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 далее
 нажмите кнопку зажигания.
 Когда
@@ -13320,13 +12521,11 @@ START,
 вывести автомобиль из этой зоны, затем
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_6650c59a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 126
 нормальная работа запуска без ключа
 возобновится.
 
 ### Если процедура запуска без ключа не
-`livan_x3_pro_ru_d4e7e591` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:129 | doc_type:owners_manual
 может
 быть
 использована
@@ -13338,7 +12537,6 @@ START,
 проведения технического обслуживания.
 
 ### Перед проверкой двигатель необходимо
-`livan_x3_pro_ru_8b57e825` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:129 | doc_type:owners_manual
 запустить двигатель в соответствии с
 правильной
 процедурой
@@ -13352,7 +12550,6 @@ START,
 топлива достаточно.
 
 ### Некоторые автомобили оснащены пуском
-`livan_x3_pro_ru_8c80fd85` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:129 | doc_type:owners_manual
 одной
 кнопкой.
 Если
@@ -13365,7 +12562,6 @@ START,
 ключ.
 
 ### Передайте
-`livan_x3_pro_ru_79d8cd94` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 смартключ
 на
 центр
@@ -13384,7 +12580,6 @@ START,
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_76c69671` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:129 | doc_type:owners_manual
 для
 проведения
 технического обслуживания.
@@ -13396,7 +12591,6 @@ START,
 скорость слишком низкая:
 
 ### 1. Убедитесь, что клеммы аккумулятора
-`livan_x3_pro_ru_01064b55` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:129 | doc_type:owners_manual
 затянуты и чистые.
 2. Если
 проблем
@@ -13437,7 +12631,6 @@ START,
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_76c69671` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:129 | doc_type:owners_manual
 для
 проведения
 технического обслуживания.
@@ -13464,7 +12657,6 @@ START,
 стартером, но не заводится:
 
 ### 1. Повторный
-`livan_x3_pro_ru_246e667a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 запуск
 приведет
 к
@@ -13475,13 +12667,11 @@ START,
 двигателе.
 
 ### Попробуйте
-`livan_x3_pro_ru_822e32a2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 нажать
 педаль газа до упора перед запуском
 двигателя.
 
 ### 2. Если
-`livan_x3_pro_ru_7c1243e1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 автомобиль
 по-прежнему
 не
@@ -13493,7 +12683,6 @@ START,
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_76c69671` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 для
 проведения
 технического
@@ -13512,7 +12701,6 @@ START,
 •
 
 ### При движении по дорогам с плохим
-`livan_x3_pro_ru_8e1dd850` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 дорожным покрытием.
 •
 При наезде на бордюр.
@@ -13522,7 +12710,6 @@ START,
 автомобиль полностью загружен.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_9acc9208` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 5
 8
 7
@@ -13556,7 +12743,6 @@ START,
 топлива.
 
 ### В
-`livan_x3_pro_ru_449ac216` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 период
 обкатки
 нового автомобиля при его эксплуатации
@@ -13567,7 +12753,6 @@ START,
 •
 
 ### Старайтесь не нажимать педаль газа
-`livan_x3_pro_ru_5e9092de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 до упора при трогании с места и в
 движении.
 •
@@ -13578,7 +12763,6 @@ START,
 дороге.
 
 ### Избегайте
-`livan_x3_pro_ru_97af59c6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 езды
 по
 грязи
@@ -13595,7 +12779,6 @@ START,
 •
 
 ### Избегайте экстренного торможения в
-`livan_x3_pro_ru_10ba6e66` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 течение первых 300 километров.
 •
 Не
@@ -13612,7 +12795,6 @@ START,
 времени.
 
 ### Использование автомобиля в
-`livan_x3_pro_ru_b45a9343` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:130 | doc_type:owners_manual
 холодном климате (ниже 0°С)
 90%
 износа
@@ -13632,7 +12814,6 @@ START,
 •
 
 ### После запуска автомобиль работает в
-`livan_x3_pro_ru_35c614b5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 течение 2-3 минут на холостом ходу,
 затем можно начинать движение.
 •
@@ -13650,7 +12831,6 @@ START,
 °
 
 ### С),
-`livan_x3_pro_ru_f5ba0862` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:130 | doc_type:owners_manual
 можно
 двигаться
 в
@@ -13712,7 +12892,6 @@ START,
 более 30 км.
 
 ### Парковка
-`livan_x3_pro_ru_dfe5b546` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 на
 горючих
 материалах
@@ -13733,7 +12912,6 @@ START,
 привести к несчастному случаю.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_9154e2af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 128
 Экономичное вождение
 В
@@ -13764,7 +12942,6 @@ START,
 общественному порядку.
 
 ### 1. Плавный старт и ускорение
-`livan_x3_pro_ru_d253fe41` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 При
 трогании
 с
@@ -13783,7 +12960,6 @@ START,
 ускорения.
 
 ### Плавный
-`livan_x3_pro_ru_57e15808` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 старт
 и
 ускорение
@@ -13807,7 +12983,6 @@ START,
 автомагистралям.
 
 ### С
-`livan_x3_pro_ru_8d7c7e3c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 точки зрения безопасного вождения
 поддержание
 постоянной
@@ -13815,7 +12990,6 @@ START,
 меньшему расходу топлива.
 
 ### 3. Избегайте
-`livan_x3_pro_ru_48c3e708` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:131 | doc_type:owners_manual
 торможения
 без
 необходимости
@@ -13841,7 +13015,6 @@ START,
 избегайте резкого торможения.
 
 ### 4. Выключайте
-`livan_x3_pro_ru_bca7d537` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:131 | doc_type:owners_manual
 двигатель
 при
 длительных
@@ -13854,7 +13027,6 @@ START,
 ходу.
 
 ### 5. Поддерживайте
-`livan_x3_pro_ru_0a14a518` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:131 | doc_type:owners_manual
 низкое
 сопротивление воздуха автомобиля
 Открытие окна на высокой скорости
@@ -13871,7 +13043,6 @@ START,
 закройте окна.
 
 ### 6. Поддерживайте
-`livan_x3_pro_ru_fbd20b27` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 правильное
 давление в шинах
 Регулярно
@@ -13886,7 +13057,6 @@ START,
 ведет к увеличению расхода топлива.
 
 ### 7. Минимизируйте
-`livan_x3_pro_ru_75e7d206` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:131 | doc_type:owners_manual
 использование
 кондиционера
 Кондиционер
@@ -13910,7 +13080,6 @@ START,
 кондиционера.
 
 ### Каждый дополнительный килограмм
-`livan_x3_pro_ru_bf9442a3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 веса
 может
 увеличить
@@ -13925,7 +13094,6 @@ START,
 средства.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_9468eb28` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 5
 8
 7
@@ -13940,7 +13108,6 @@ START,
 обслуживание своевременно
 
 ### Чтобы поддерживать автомобиль в
-`livan_x3_pro_ru_4a360b98` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 хорошем
 состоянии,
 обслуживайте
@@ -13949,7 +13116,6 @@ START,
 правилам.
 
 ### Хорошая
-`livan_x3_pro_ru_9643f59e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 работа двигателя способствует не
 только
 повышению
@@ -13958,7 +13124,6 @@ START,
 топлива.
 
 ### Оптимизируйте
-`livan_x3_pro_ru_4f75e560` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 маршрут
 и
 старайтесь избегать перегруженных
@@ -13967,14 +13132,12 @@ START,
 топлива.
 
 ### 11. Не меняйте размер шин по своему
-`livan_x3_pro_ru_4dc354e5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 желанию
 Использование больших или широких
 шин приведет к увеличению расхода
 топлива.
 
 ### Водите осторожно
-`livan_x3_pro_ru_7de1c13d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:132 | doc_type:owners_manual
 Первое,
 что
 нужно
@@ -13984,7 +13147,6 @@ START,
 ремень безопасности.
 
 ### Безопасное
-`livan_x3_pro_ru_8bf3c6f4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 вождение:
 во
 время
@@ -14005,7 +13167,6 @@ START,
 случаев.
 
 ### Соблюдайте
-`livan_x3_pro_ru_4d0f9d10` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 дистанцию
 и
 сосредоточьтесь
@@ -14019,7 +13180,6 @@ START,
 травмированию людей.
 
 ### Вождение
-`livan_x3_pro_ru_262de3d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 в
 состоянии
 алкогольного опьянения
@@ -14042,7 +13202,6 @@ START,
 запрещено.
 
 ### Ответственность
-`livan_x3_pro_ru_d0ac35e3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 и
 последствия
 установлены
@@ -14050,20 +13209,17 @@ START,
 законодательством РФ.
 
 ### Во избежание повреждения автомобиля
-`livan_x3_pro_ru_79c8c664` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 при движении по воде (например, при
 затоплении дороги) обратите внимание
 на следующее:
 
 ### 1. Определите
-`livan_x3_pro_ru_d639cbc9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 глубину
 перед
 движением по воде. Максимальный
 уровень воды - ребро краевой балки.
 
 ### 2. Двигайтесь на малой скорости, иначе
-`livan_x3_pro_ru_8e33f106` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 перед
 автомобилем
 могут
@@ -14077,7 +13233,6 @@ START,
 автомобиля.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_4676f9cd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:132 | doc_type:owners_manual
 130
 3. Ни при каких обстоятельствах нельзя
 останавливаться, двигаться задним
@@ -14161,7 +13316,6 @@ START,
 немедленно промыть пресной водой.
 
 ### После нахождения в воде рекомендуется
-`livan_x3_pro_ru_d3350e15` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 отправиться
 на
 центр
@@ -14175,7 +13329,6 @@ LIVAN
 автомобиля,
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_7173aca4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 5
 8
 7
@@ -14192,7 +13345,6 @@ LIVAN
 обеспечения безопасности вождения.
 
 ### Парковка или стоянка
-`livan_x3_pro_ru_0c342f45` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:134 | doc_type:owners_manual
 •
 Автомобиль должен быть припаркован
 на
@@ -14247,13 +13399,11 @@ LIVAN
 травмам или смерти.
 
 ### Трехкомпонентный
-`livan_x3_pro_ru_fdb99ac0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 каталитический
 нейтрализатор
 отработавших газов ДВС
 
 ### Информация
-`livan_x3_pro_ru_e6b28b47` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 о
 трехкомпонентном
 каталитическом
@@ -14265,7 +13415,6 @@ LIVAN
 сгорания
 
 ### Выхлопная
-`livan_x3_pro_ru_6bedc217` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 система
 автомобиля
 оснащена
@@ -14286,7 +13435,6 @@ HC и NOx, в безвредный углекислый газ,
 восстановления.
 
 ### Неправильное
-`livan_x3_pro_ru_2b9333c9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 использование
 может
 привести
@@ -14304,7 +13452,6 @@ HC и NOx, в безвредный углекислый газ,
 ниже требования.
 
 ### Пропуски зажигания и догорание в
-`livan_x3_pro_ru_f25ebb0d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 двигателе
 могут
 привести
@@ -14333,7 +13480,6 @@ HC и NOx, в безвредный углекислый газ,
 техническому обслуживаниюе.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_0db5cf05` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 132
 Требования к топливу
 •
@@ -14359,7 +13505,6 @@ HC и NOx, в безвредный углекислый газ,
 повреждению топливного насоса.
 
 ### Требования к запуску
-`livan_x3_pro_ru_437eccab` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:135 | doc_type:owners_manual
 •
 Не
 продолжайте
@@ -14390,14 +13535,12 @@ HC и NOx, в безвредный углекислый газ,
 поскольку двигатель не запустится.
 
 ### Требования к движению
-`livan_x3_pro_ru_1d625756` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 •
 Не перегружайте и не превышайте
 обороты двигателя.
 •
 
 ### Не глушите автомобиль при движении
-`livan_x3_pro_ru_c4a98efa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 на передаче.
 •
 Если мощность автомобиля снижается
@@ -14408,7 +13551,6 @@ HC и NOx, в безвредный углекислый газ,
 удариться днищем автомобиля.
 
 ### Устройство
-`livan_x3_pro_ru_d687a817` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:135 | doc_type:owners_manual
 контроля
 выхлопных газов
 •
@@ -14420,7 +13562,6 @@ HC и NOx, в безвредный углекислый газ,
 правилам.
 
 ### Свинец
-`livan_x3_pro_ru_106a8569` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:135 | doc_type:owners_manual
 в
 бензине
 и
@@ -14447,7 +13588,6 @@ HC и NOx, в безвредный углекислый газ,
 нейтрализатора.
 
 ### Выхлопные газы
-`livan_x3_pro_ru_84ada79b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:135 | doc_type:owners_manual
 •
 Когда
 автомобиль
@@ -14476,7 +13616,6 @@ HC и NOx, в безвредный углекислый газ,
 •
 
 ### Если вы не можете остановиться на
-`livan_x3_pro_ru_fc12d7a7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:135 | doc_type:owners_manual
 время, откройте все окна.
 •
 Если рабочее состояние двигателя не
@@ -14499,7 +13638,6 @@ HC и NOx, в безвредный углекислый газ,
 в
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_be55f205` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 5
 8
 7
@@ -14532,7 +13670,6 @@ LIVAN для проверки.
 или вблизи него.
 
 ### Избегайте
-`livan_x3_pro_ru_0d69b75c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 вдыхания
 выхлопных
 газов автомобиля. Выхлопные газы
@@ -14547,7 +13684,6 @@ LIVAN для проверки.
 ослаблены.
 
 ### Регулярно
-`livan_x3_pro_ru_211eeea0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 проверяйте
 выхлопную
 систему.
@@ -14564,7 +13700,6 @@ LIVAN для проверки.
 проведения технического обслуживания.
 
 ### Не запускайте двигатель в гараже или в
-`livan_x3_pro_ru_023ca381` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 закрытом помещении, иначе выхлопные
 газы не выйдут наружу и могут привести к
 серьезным травмам или смерти.
@@ -14604,7 +13739,6 @@ LIVAN для проверки.
 снега, листьев и других препятствий.
 
 ### Если вы чувствуете запах выхлопных
-`livan_x3_pro_ru_4b0feefb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 газов
 в
 машине,
@@ -14618,7 +13752,6 @@ LIVAN для проверки.
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_8747f049` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 для
 проведения
 технического обслуживания.
@@ -14627,7 +13760,6 @@ LIVAN для проверки.
 фильтр GPF
 
 ### Программа восстановления
-`livan_x3_pro_ru_435bfce6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 В процессе движения, когда частицы,
 попавшие в бензиновый сажевый фильтр
 (GPF), накапливаются до определенного
@@ -14667,7 +13799,6 @@ LIVAN для проверки.
 рекомендаций:
 
 ### 1. Пожалуйста,
-`livan_x3_pro_ru_0982e747` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 обратитесь
 в
 центр
@@ -14680,7 +13811,6 @@ LIVAN
 сажевого фильтра;
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_67f09bec` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 134
 2. В
 пути
@@ -14694,7 +13824,6 @@ LIVAN
 агрессивно;
 
 ### 3. Если
-`livan_x3_pro_ru_0e882a98` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 индикатор
 состояния
 бензинового
@@ -14709,7 +13838,6 @@ LIVAN
 обслуживания
 
 ### LIVAN,
-`livan_x3_pro_ru_8df0d3de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 объясните
 ситуацию
 и
@@ -14720,7 +13848,6 @@ LIVAN
 технического обслуживания
 
 ### LIVAN для восстановления бензинового
-`livan_x3_pro_ru_841ddb63` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 сажевого
 фильтра,
 можно
@@ -14760,7 +13887,6 @@ LIVAN
 •
 
 ### Избегайте
-`livan_x3_pro_ru_c43ea5b3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:137 | doc_type:owners_manual
 частых
 остановок
 или
@@ -14793,7 +13919,6 @@ LIVAN
 для данного автомобиля.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_abf9fd74` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 5
 8
 7
@@ -14824,7 +13949,6 @@ LIVAN
 очиститель будет серьезно поврежден.
 
 ### Для поддержания двигателя в чистоте и
-`livan_x3_pro_ru_cb7d622a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 достижения
 наилучших
 характеристик
@@ -14854,7 +13978,6 @@ LIVAN
 уровня, двигатель нуждается в ремонте.
 
 ### Некоторые
-`livan_x3_pro_ru_2e84db54` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 виды
 топлива
 содержат
@@ -14866,7 +13989,6 @@ LIVAN
 марганца
 
 ### (ММТ).
-`livan_x3_pro_ru_de8f4bef` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 Мы
 не
 рекомендуем
@@ -14875,7 +13997,6 @@ LIVAN
 содержащее ММТ. Топливо, содержащее
 
 ### ММТ,
-`livan_x3_pro_ru_916c5505` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 сократит
 срок
 службы
@@ -14896,7 +14017,6 @@ LIVAN
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_4b4ca767` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 для
 проведения
 технического обслуживания.
@@ -14905,7 +14025,6 @@ LIVAN
 топливной системы
 
 ### Углеродный
-`livan_x3_pro_ru_531d0edc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 очиститель
 топливной
 системы
@@ -14933,7 +14052,6 @@ LIVAN
 для очистки от нагара, одобренное
 
 ### LIVAN
-`livan_x3_pro_ru_4b4ca767` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 .
 Присадки,
 не
@@ -14949,14 +14067,12 @@ LIVAN,
 метанол.
 
 ### Метанол
-`livan_x3_pro_ru_c0bcb996` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 разъедает топливную систему. Гарантия
 не распространяется на повреждения,
 вызванные использованием топлива с
 метанолом.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_0cb87162` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:138 | doc_type:owners_manual
 136
 Безопасность на АЗС
 Топливо легковоспламеняющееся и
@@ -14994,13 +14110,11 @@ LIVAN,
 первого подергивания пистолета.
 
 ### Топливозаливная горловина
-`livan_x3_pro_ru_58775d20` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 и заправка
 Крышка топливного бака расположена на
 задней левой стороне автомобиля.
 
 ### Потяните
-`livan_x3_pro_ru_b04e7f17` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 ручку
 открывания
 крышки
@@ -15008,7 +14122,6 @@ LIVAN,
 приборной панели, чтобы открыть ее.
 
 ### Привязанная
-`livan_x3_pro_ru_99f62502` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 крышка
 топливозаливной
 горловины
@@ -15049,7 +14162,6 @@ LIVAN,
 •
 
 ### Не оставляйте топливный насос без
-`livan_x3_pro_ru_4c8b51dd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 присмотра
 во
 время
@@ -15069,7 +14181,6 @@ LIVAN,
 слишком
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_1677c97a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 5
 8
 7
@@ -15085,7 +14196,6 @@ LIVAN,
 ожогам.
 
 ### Переполнение
-`livan_x3_pro_ru_3d41cfd0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 топливного
 бака
 может
@@ -15140,7 +14250,6 @@ LIVAN,
 щелчка.
 
 ### Закройте
-`livan_x3_pro_ru_a65f1aa2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 крышку
 топливного
 бака
@@ -15153,7 +14262,6 @@ LIVAN,
 атмосферу.
 
 ### Закройте
-`livan_x3_pro_ru_a65f1aa2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 крышку
 топливного
 бака,
@@ -15179,7 +14287,6 @@ LIVAN,
 площадку.
 
 ### Закрывайте
-`livan_x3_pro_ru_80b1d474` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 крышку
 топливного
 бака,
@@ -15194,7 +14301,6 @@ LIVAN,
 повреждена.
 
 ### Если вам нужно заменить крышку
-`livan_x3_pro_ru_cc3acc32` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 топливного
 бака,
 обратитесь
@@ -15212,7 +14318,6 @@ LIVAN,
 топливного бака.
 
 ### Детали
-`livan_x3_pro_ru_5048ab1e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:140 | doc_type:owners_manual
 и
 компоненты
 топливной
@@ -15242,7 +14347,6 @@ LIVAN,
 обслуживанию.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_bcf03a98` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:140 | doc_type:owners_manual
 138
 Ручное
 переключение
@@ -15252,12 +14356,10 @@ LIVAN,
 передач
 
 ### Информация о передачах
-`livan_x3_pro_ru_52329099` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 R (передача заднего хода)
 Передача для движения назад.
 
 ### (R)
-`livan_x3_pro_ru_1d10da55` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:141 | doc_type:owners_manual
 можно,
 только
 когда
@@ -15296,7 +14398,6 @@ N (нейтральная передача)
 1-5 передачи
 
 ### Всего на рычаге переключения передач
-`livan_x3_pro_ru_3bc388a7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 имеется от 5 передач от 1 до 5. Если вы
 хотите переключиться на повышенную
 или
@@ -15312,7 +14413,6 @@ N (нейтральная передача)
 переключения передачи.
 
 ### Необходимые
-`livan_x3_pro_ru_01cdc877` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 знания
 по
 эксплуатации
@@ -15333,7 +14433,6 @@ N (нейтральная передача)
 переведен в положение START.
 
 ### 2. После
-`livan_x3_pro_ru_e4756768` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:141 | doc_type:owners_manual
 запуска
 двигателя
 нажмите
@@ -15357,7 +14456,6 @@ N (нейтральная передача)
 заднего хода (R).
 
 ### 3. Отпустите
-`livan_x3_pro_ru_b6beaa70` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:141 | doc_type:owners_manual
 стояночный
 тормоз,
 медленно
@@ -15374,7 +14472,6 @@ N (нейтральная передача)
 движение.
 
 ### Переключение
-`livan_x3_pro_ru_6964e822` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 на
 переднюю
 передачу
@@ -15414,7 +14511,6 @@ N (нейтральная передача)
 может привести к чрезмерному износу
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_b59f6cc5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 5
 8
 7
@@ -15439,7 +14535,6 @@ N (нейтральная передача)
 плавным.
 
 ### Перед переключением с более высокой
-`livan_x3_pro_ru_139ebe94` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 передачи на низкую скорость автомобиля
 следует снизить, а переключиться после
 этого,
@@ -15449,7 +14544,6 @@ N (нейтральная передача)
 коробки передач или выхода ее из строя.
 
 ### Переключение на передачу заднего
-`livan_x3_pro_ru_2c751fcd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 хода
 Перед
 включением
@@ -15470,7 +14564,6 @@ N (нейтральная передача)
 будет двигаться более плавно.
 
 ### При трогании с места на хорошей
-`livan_x3_pro_ru_1d7b826c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 ровной дороге можно использовать
 для
 трогания
@@ -15480,7 +14573,6 @@ N (нейтральная передача)
 добиться экономии топлива.
 
 ### Во время движения не держите
-`livan_x3_pro_ru_3a07754d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 руку
 на
 рычаге
@@ -15502,7 +14594,6 @@ N (нейтральная передача)
 сцепления, чтобы удержать автомобиль.
 
 ### Процесс переключения на передачу
-`livan_x3_pro_ru_c0d548b9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 заднего хода
 Установите рычаг переключения передач
 в
@@ -15513,7 +14604,6 @@ N (нейтральная передача)
 назад.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_4e9895b1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:142 | doc_type:owners_manual
 140
 Автоматическое
 переключение передач
@@ -15522,7 +14612,6 @@ N (нейтральная передача)
 передач
 
 ### Информация о передачах
-`livan_x3_pro_ru_0cd8eac1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 P (парковка)
 Когда
 рычаг
@@ -15574,7 +14663,6 @@ R (передача заднего хода)
 педаль тормоза.
 
 ### (R)
-`livan_x3_pro_ru_c57c82a4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:143 | doc_type:owners_manual
 можно,
 только
 когда
@@ -15615,7 +14703,6 @@ N (нейтральная передача)
 вперед
 
 ### (D)
-`livan_x3_pro_ru_0c926fd8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 просто
 передвиньте
 рычаг
@@ -15633,7 +14720,6 @@ N (нейтральная передача)
 141
 
 ### D
-`livan_x3_pro_ru_b78d868f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 (передача
 для
 движения
@@ -15658,7 +14744,6 @@ N (нейтральная передача)
 передачу
 
 ### (N),
-`livan_x3_pro_ru_c99d56e3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:144 | doc_type:owners_manual
 просто
 переключите
 рычаг
@@ -15679,7 +14764,6 @@ N (нейтральная передача)
 парковку (P).
 
 ### Когда двигатель работает и рычаг
-`livan_x3_pro_ru_e9c6f46d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:144 | doc_type:owners_manual
 переключения передач находится
 на передаче для движения вперед (D)
 или движения назад (R), если водитель
@@ -15693,7 +14777,6 @@ N (нейтральная передача)
 -: понижение передачи в ручном режиме
 
 ### Если при трогании с места или
-`livan_x3_pro_ru_73d29783` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 торможении
 на
 малой
@@ -15711,7 +14794,6 @@ N (нейтральная передача)
 нормальным явлением.
 
 ### Необходимые
-`livan_x3_pro_ru_ecca47b7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 знания
 по
 эксплуатации
@@ -15739,7 +14821,6 @@ N (нейтральная передача)
 положение
 
 ### (N).
-`livan_x3_pro_ru_e54a28e3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 Чтобы
 надежно
 остановить
@@ -15748,7 +14829,6 @@ N (нейтральная передача)
 включите стояночный тормоз.
 
 ### При кратковременной стоянке не
-`livan_x3_pro_ru_86f24d98` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 переключайте передачи на D, R или
 M,
 продолжайте
@@ -15759,7 +14839,6 @@ M,
 службы
 
 ### АКПП.
-`livan_x3_pro_ru_999ca264` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:144 | doc_type:owners_manual
 Ни
 при
 каких
@@ -15778,7 +14857,6 @@ M,
 автомобиль потеряет управление.
 
 ### Запустите
-`livan_x3_pro_ru_1a7b407e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:144 | doc_type:owners_manual
 двигатель
 в
 положении
@@ -15788,7 +14866,6 @@ M,
 «Нейтралье
 
 ### (N),
-`livan_x3_pro_ru_c99d56e3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:144 | doc_type:owners_manual
 оставьте на время не менее трех секунд.
 После того, как двигатель заработает
 ровно,
@@ -15809,7 +14886,6 @@ M,
 «Впереде
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_15a1d79c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 142
 отпустите
 педаль
@@ -15836,7 +14912,6 @@ M,
 передачи или до включения передачи.
 
 ### Задний ход
-`livan_x3_pro_ru_cc3ea9ff` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:145 | doc_type:owners_manual
 Когда
 двигатель
 работает
@@ -15857,7 +14932,6 @@ M,
 газа.
 
 ### Режим ручного управления
-`livan_x3_pro_ru_a2de143a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 После
 того,
 как
@@ -15874,7 +14948,6 @@ M,
 возврата.
 
 ### Каждая
-`livan_x3_pro_ru_757b8916` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 операция в прямом направлении – это
 «+е, увеличение на одну передачу, а
 каждая
@@ -15885,7 +14958,6 @@ M,
 одну передачу.
 
 ### При движении вниз по длинному
-`livan_x3_pro_ru_f6b9c50b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 или
 крутому
 склону
@@ -15915,14 +14987,12 @@ M,
 автомобиля.
 
 ### Постарайтесь
-`livan_x3_pro_ru_8df2724a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 уменьшить
 постоянное
 использование педали тормоза, иначе
 тормоз легко выйдет из строя.
 
 ### Будьте осторожны при переключении на
-`livan_x3_pro_ru_1a8fe8b7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 более
 низкую
 передачу
@@ -15947,7 +15017,6 @@ M,
 грязным дорогам на передней передаче
 
 ### (D),
-`livan_x3_pro_ru_1fcc3bda` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 если
 ведущее
 колесо
@@ -15962,7 +15031,6 @@ M,
 режим и понизить передачу.
 
 ### В
-`livan_x3_pro_ru_005f4132` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 спортивном
 режиме
 все
@@ -15988,7 +15056,6 @@ M,
 повысить тягу при движении.
 
 ### Выберите режим SPORT в настройках
-`livan_x3_pro_ru_49a0bfe9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:145 | doc_type:owners_manual
 мультимедиа,
 при
 этом
@@ -16003,7 +15070,6 @@ M,
 режим.
 
 ### Выберите другой режим в настройках
-`livan_x3_pro_ru_f9154e34` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:145 | doc_type:owners_manual
 мультимедиа,
 чтобы
 выйти
@@ -16012,12 +15078,10 @@ M,
 Экономичный режим
 
 ### В экономичном режиме все передачи
-`livan_x3_pro_ru_a2ed4c21` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 движения вперед будут автоматически
 переключаться на повышенную передачу
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_4937809d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 5
 8
 7
@@ -16040,7 +15104,6 @@ M,
 добиться большей экономии топлива.
 
 ### Выберите
-`livan_x3_pro_ru_3cd43d51` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:146 | doc_type:owners_manual
 режим
 ECO
 в
@@ -16055,7 +15118,6 @@ ECO
 режим.
 
 ### Выберите другой режим в настройках
-`livan_x3_pro_ru_a6c7a1f4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:146 | doc_type:owners_manual
 мультимедиа,
 чтобы
 выйти
@@ -16065,7 +15127,6 @@ ECO
 из положения парковки (P)
 
 ### Если рычаг переключения передач не
-`livan_x3_pro_ru_dad927c1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:146 | doc_type:owners_manual
 может
 быть
 выведен
@@ -16090,7 +15151,6 @@ ECO
 Этапы ручной разблокировки:
 
 ### 1. Кнопка
-`livan_x3_pro_ru_35f0ef8a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 аварийной
 разблокировки
 рычага
@@ -16100,7 +15160,6 @@ ECO
 переключения передач.
 
 ### 2. Вставьте
-`livan_x3_pro_ru_96a1b35a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 маленькую
 плоскую
 отвертку
@@ -16119,7 +15178,6 @@ ECO
 нельзя будет восстановить.
 
 ### 3. Нажмите
-`livan_x3_pro_ru_7bbf2290` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 кнопку
 разблокировки
 передачи на рычаге переключения
@@ -16132,14 +15190,12 @@ ECO
 переместить рычаг.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_f003a388` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:146 | doc_type:owners_manual
 144
 Тормозные и электронные
 вспомогательные
 системы
 
 ### Торможение включает в себя время на
-`livan_x3_pro_ru_f1c75f6a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 обнаружение
 и
 реакцию.
@@ -16155,7 +15211,6 @@ ECO
 поднимаете ногу и нажимаете на педаль.
 
 ### Среднее
-`livan_x3_pro_ru_4eac7ae0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 время
 реакции
 составляет
@@ -16189,7 +15244,6 @@ ECO
 метров.
 
 ### В
-`livan_x3_pro_ru_ab6cbe95` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 экстренной ситуации это будет большое
 расстояние, поэтому важно держаться на
 достаточном
@@ -16200,7 +15254,6 @@ ECO
 средств.
 
 ### Фактический
-`livan_x3_pro_ru_73a854ce` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 тормозной
 путь
 будет
@@ -16226,7 +15279,6 @@ ECO
 необходимости.
 
 ### Некоторые
-`livan_x3_pro_ru_abe8b74c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 люди
 ездят
 короткими
@@ -16249,7 +15301,6 @@ ECO
 метод.
 
 ### Тормоза
-`livan_x3_pro_ru_250ecbe0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 могут
 не
 успеть
@@ -16310,7 +15361,6 @@ ECO
 тормоза.
 
 ### Установка
-`livan_x3_pro_ru_707ba23e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 неоригинальных
 деталей
 повлияет
@@ -16318,7 +15368,6 @@ ECO
 характеристики вашего автомобиля.
 
 ### Если в автомобиле слышен резкий
-`livan_x3_pro_ru_ee3c6aa7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 звук трения металла при нажатии
 на
 педаль
@@ -16347,7 +15396,6 @@ ECO
 обслуживания автомобилей Livan.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_936040b9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 5
 8
 7
@@ -16370,7 +15418,6 @@ ECO
 тормозной путь будет увеличиваться.
 
 ### Обязательно
-`livan_x3_pro_ru_fd4d9909` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 затяните
 стояночный
 тормоз
@@ -16386,7 +15433,6 @@ ECO
 быть затянут как можно сильнее.
 
 ### Когда ручной стояночный тормоз затянут
-`livan_x3_pro_ru_4e006dad` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 и пусковой переключатель находится в
 положении
 ON,
@@ -16415,7 +15461,6 @@ ON,
 одновременно нажать педаль тормоза.
 
 ### Во избежание случайного движения
-`livan_x3_pro_ru_ed4f82eb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 автомобиля обязательно затяните
 стояночный тормоз после остановки.
 Отпуская стояночный тормоз, убедитесь,
@@ -16425,7 +15470,6 @@ ON,
 опущен.
 
 ### В
-`livan_x3_pro_ru_f9338d39` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 противном
 случае
 не
@@ -16443,7 +15487,6 @@ ON,
 фрикционного дисков.
 
 ### (ABS)
-`livan_x3_pro_ru_e9f5c1a3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:148 | doc_type:owners_manual
 Антиблокировочная система (ABS) может
 предотвратить
 пробуксовку
@@ -16467,7 +15510,6 @@ ON,
 нормальное явление.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_510722aa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 146
 Слишком
 высокое
@@ -16486,7 +15528,6 @@ ON,
 эффективности торможения.
 
 ### Применение
-`livan_x3_pro_ru_bd8d192a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:149 | doc_type:owners_manual
 функции
 антиблокировки
 Не нужно давить на педаль тормоза.
@@ -16510,7 +15551,6 @@ ON,
 тормоза, но это нормально.
 
 ### Торможение
-`livan_x3_pro_ru_4ef8b16f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 в
 аварийной
 ситуации
@@ -16528,7 +15568,6 @@ ON,
 торможение.
 
 ### Электронная
-`livan_x3_pro_ru_f908d9d4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:149 | doc_type:owners_manual
 система
 контроля
 устойчивости
@@ -16539,7 +15578,6 @@ ON,
 устойчивости
 
 ### (ESC)
-`livan_x3_pro_ru_60482c9c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:149 | doc_type:owners_manual
 -
 это
 технология
@@ -16556,7 +15594,6 @@ ON,
 аварии.
 
 ### ESC
-`livan_x3_pro_ru_04270301` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:149 | doc_type:owners_manual
 использует
 передовые
 сенсорные
@@ -16571,7 +15608,6 @@ ON,
 выбрать.
 
 ### Когда автомобиль начинает отклоняться
-`livan_x3_pro_ru_3f83eceb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 от дороги, система применяет тормозное
 усилие к колесам или снижает крутящий
 момент
@@ -16581,7 +15617,6 @@ ON,
 автомобиль на правильный маршрут.
 
 ### Электронная
-`livan_x3_pro_ru_f908d9d4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:149 | doc_type:owners_manual
 система
 контроля
 устойчивости (ESC) является лишь
@@ -16595,7 +15630,6 @@ ON,
 Пожалуйста, водите осторожно.
 
 ### Включение
-`livan_x3_pro_ru_305fcca3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:149 | doc_type:owners_manual
 и
 отключение
 системы
@@ -16623,7 +15657,6 @@ ON,
 •
 
 ### При движении по глубокому снегу или
-`livan_x3_pro_ru_29624f51` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:149 | doc_type:owners_manual
 по рыхлым дорогам.
 •
 Когда автомобиль застрял (например,
@@ -16648,7 +15681,6 @@ ON,
 система ESC должна быть включена.
 
 ### Переустановите
-`livan_x3_pro_ru_523a4196` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:149 | doc_type:owners_manual
 включение
 ESC
 в
@@ -16662,7 +15694,6 @@ ESC
 погаснет.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_94281a73` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:149 | doc_type:owners_manual
 5
 8
 7
@@ -16677,7 +15708,6 @@ ESC
 динамической стабилизации
 
 ### (VDC)*
-`livan_x3_pro_ru_5a920989` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 Когда
 поворачиваемость
 автомобиля
@@ -16691,7 +15721,6 @@ ESC
 система
 
 ### VDC
-`livan_x3_pro_ru_acedf2e9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 будет
 активно вмешиваться. Одновременно с
 уменьшением
@@ -16718,7 +15747,6 @@ ESC
 транспортного средства.
 
 ### Гидравлический
-`livan_x3_pro_ru_52643866` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 тормозной
 ассистент (HBA)*
 При
@@ -16734,7 +15762,6 @@ ESC
 путь.
 
 ### Большинство водителей могут вовремя
-`livan_x3_pro_ru_188faf8a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 затормозить в опасных ситуациях, но они
 не
 нажимают
@@ -16765,7 +15792,6 @@ ESC
 быстром нажатии на педаль тормоза.
 
 ### При этом создается большее тормозное
-`livan_x3_pro_ru_f6e96584` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 давление, чем при обычном торможении,
 так
 что
@@ -16802,7 +15828,6 @@ ESC
 работы.
 
 ### Гидравлический
-`livan_x3_pro_ru_52643866` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 тормозной
 ассистент
 может
@@ -16813,14 +15838,12 @@ ESC
 избежать.
 
 ### Функция
-`livan_x3_pro_ru_f6be38fc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 помощи
 при
 подъеме по склону (ННС)*
 Функция помощи при подъеме по склону
 
 ### HHC позволяет водителю предотвратить
-`livan_x3_pro_ru_e3eee24a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 скатывание автомобиля вниз по склону в
 течение двух секунд после отпускания
 педали тормоза, после чего тормозное
@@ -16831,7 +15854,6 @@ ESC
 функция HHC также будет доступна.
 
 ### Функцию помощи при подъеме по
-`livan_x3_pro_ru_df025e1a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 склону можно активировать только
 при
 включенной
@@ -16844,13 +15866,11 @@ ESC
 отпущенном стояночном тормозе.
 
 ### Функция помощи при подъеме по
-`livan_x3_pro_ru_4c188cb9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 склону — это только временное
 поддержание давления, когда водитель
 отпускает педаль тормоза. Если вы не
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_2fa57687` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 148
 нажмете на педаль газа и не потянете
 стояночный тормоз, автомобиль может
@@ -16868,7 +15888,6 @@ ESC
 осторожность!
 
 ### Антипробуксовочная
-`livan_x3_pro_ru_8ecdfa81` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 система (TCS)*
 Антипробуксовочная
 система
@@ -16891,7 +15910,6 @@ ESC
 движения.
 
 ### Система
-`livan_x3_pro_ru_edd58160` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:151 | doc_type:owners_manual
 помощи
 при
 парковке
@@ -16917,7 +15935,6 @@ ESC
 1,5 метра позади автомобиля.
 
 ### Система парковочных радаров не
-`livan_x3_pro_ru_8dda1bb6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:151 | doc_type:owners_manual
 может заменить зрение водителя.
 •
 Система
@@ -16941,7 +15958,6 @@ ESC
 •
 
 ### Система парковочных радаров может
-`livan_x3_pro_ru_6fd6450a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 не
 обнаружить
 детей,
@@ -16953,7 +15969,6 @@ ESC
 •
 
 ### Система
-`livan_x3_pro_ru_edd58160` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 парковочных
 радаров
 не
@@ -16962,7 +15977,6 @@ ESC
 •
 
 ### Если вы не обращаете внимания на
-`livan_x3_pro_ru_a5293fb7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 окружение
 автомобиля
 до
@@ -16988,7 +16002,6 @@ ESC
 наличием препятствий и смотреть в
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_ee007edc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:151 | doc_type:owners_manual
 5
 8
 7
@@ -17002,7 +16015,6 @@ ESC
 двигаться задним ходом.
 
 ### Как работает система
-`livan_x3_pro_ru_36c29c7f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:152 | doc_type:owners_manual
 При
 работе
 системы
@@ -17050,7 +16062,6 @@ ESC
 тревогу при следующих условиях:
 
 ### Неспособность
-`livan_x3_pro_ru_0c925f77` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:152 | doc_type:owners_manual
 обнаруживать
 препятствия
 •
@@ -17068,7 +16079,6 @@ ESC
 •
 
 ### Датчики
-`livan_x3_pro_ru_2d1a0563` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:152 | doc_type:owners_manual
 системы
 парковочных
 радаров
@@ -17079,7 +16089,6 @@ ESC
 деревянные блоки.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_e8d6af8e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:152 | doc_type:owners_manual
 150
 •
 Датчики
@@ -17097,7 +16106,6 @@ ESC
 •
 
 ### Датчики
-`livan_x3_pro_ru_38049436` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:153 | doc_type:owners_manual
 системы
 парковочных
 радаров
@@ -17117,7 +16125,6 @@ ESC
 •
 
 ### Датчики
-`livan_x3_pro_ru_38049436` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:153 | doc_type:owners_manual
 системы
 парковочных
 радаров
@@ -17129,7 +16136,6 @@ ESC
 специфической формы.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_e98ca624` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:153 | doc_type:owners_manual
 5
 8
 7
@@ -17164,7 +16170,6 @@ ESC
 •
 
 ### Если на автомобиле или рядом с ним
-`livan_x3_pro_ru_a89d1438` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:154 | doc_type:owners_manual
 установлена
 высокочастотная
 радиостанция или антенна, система
@@ -17197,7 +16202,6 @@ ESC
 ложный сигнал тревоги.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_c6d49afa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:154 | doc_type:owners_manual
 152
 •
 При
@@ -17255,7 +16259,6 @@ ESC
 другие препятствия.
 
 ### Не распыляйте воду под высоким
-`livan_x3_pro_ru_f1d0ea2b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:155 | doc_type:owners_manual
 давлением на датчик, например, из
 водяного пистолета, а также не сжимайте
 и
@@ -17269,7 +16272,6 @@ ESC
 Система заднего вида*
 
 ### Система
-`livan_x3_pro_ru_54457788` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:155 | doc_type:owners_manual
 заднего
 вида
 помогает
@@ -17283,7 +16285,6 @@ ESC
 передач находится на задней передаче
 
 ### (R),
-`livan_x3_pro_ru_2d99d351` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:155 | doc_type:owners_manual
 изображение
 автоматически
 отображается
@@ -17303,7 +16304,6 @@ ESC
 отображавшийся интерфейс.
 
 ### Система заднего вида не может
-`livan_x3_pro_ru_d97de8a7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:155 | doc_type:owners_manual
 заменить зрение водителя.
 •
 Камера
@@ -17320,7 +16320,6 @@ ESC
 •
 
 ### Камера
-`livan_x3_pro_ru_321dca42` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:155 | doc_type:owners_manual
 заднего
 вида
 может
@@ -17335,7 +16334,6 @@ ESC
 •
 
 ### Не полагайтесь только на
-`livan_x3_pro_ru_79e817f4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:155 | doc_type:owners_manual
 систему
 заднего вида при движения задним
 ходом
@@ -17363,7 +16361,6 @@ ESC
 и
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_ed5f55bf` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:155 | doc_type:owners_manual
 5
 8
 7
@@ -17394,7 +16391,6 @@ ESC
 задним ходом.
 
 ### Камера заднего вида расположена над
-`livan_x3_pro_ru_62f78687` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:156 | doc_type:owners_manual
 задним
 номерным
 знаком.
@@ -17404,7 +16400,6 @@ ESC
 объекты по углам или под бампером.
 
 ### Изображение
-`livan_x3_pro_ru_989372ee` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:156 | doc_type:owners_manual
 на
 мультимедийном
 дисплее будет меняться в зависимости
@@ -17420,7 +16415,6 @@ ESC
 фактического.
 
 ### Вспомогательная
-`livan_x3_pro_ru_55d64ed7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 линия
 заднего вида
 Две
@@ -17436,7 +16430,6 @@ ESC
 автомобиля.
 
 ### А
-`livan_x3_pro_ru_5b396d60` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 расстояние
 между
 транспортным
@@ -17450,7 +16443,6 @@ ESC
 цвета: красной, желтой и зеленой.
 
 ### Отображение расстояния от объекта до
-`livan_x3_pro_ru_8c8a789f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:156 | doc_type:owners_manual
 нижней
 части
 бампера
@@ -17459,7 +16451,6 @@ ESC
 1. Красный цвет - 0,5 м
 
 ### 3. Зеленый цвет - 3 м
-`livan_x3_pro_ru_0a469298` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 •
 Вспомогательная
 линия
@@ -17474,7 +16465,6 @@ ESC
 зеркал заднего вида.
 
 ### Динамическая
-`livan_x3_pro_ru_1559c18d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:156 | doc_type:owners_manual
 вспомогательная
 линия
 заднего вида изменяется автоматически
@@ -17482,14 +16472,12 @@ ESC
 колеса.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_645112af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 154
 Интеллектуальная
 система вождения*
 Система управления круизконтролем (СС)
 
 ### Благодаря
-`livan_x3_pro_ru_dbb2bd4d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 системе
 управления
 круизконтролем
@@ -17531,7 +16519,6 @@ ESC
 управление.
 
 ### Кнопка
-`livan_x3_pro_ru_55f631bb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:157 | doc_type:owners_manual
 круиз-контроля
 находится
 на
@@ -17544,7 +16531,6 @@ ESC
 выключить систему круиз-контроля.
 
 ### 2. Кнопка
-`livan_x3_pro_ru_6f5458ca` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 ограничения
 скорости:
 используется
@@ -17557,7 +16543,6 @@ ESC
 скорости.
 
 ### 3. Кнопка
-`livan_x3_pro_ru_da4e8961` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 регулировки
 и
 настройки
@@ -17573,7 +16558,6 @@ ESC
 •
 
 ### RES/+
-`livan_x3_pro_ru_1ff9b542` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 (восстановление
 /
 увеличение скорости)
@@ -17584,7 +16568,6 @@ ESC
 направлении
 
 ### RES/+,
-`livan_x3_pro_ru_26ffcd29` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 чтобы
 восстановить исходную заданную
 скорость, увеличить крейсерскую
@@ -17593,7 +16576,6 @@ ESC
 •
 
 ### SET/-
-`livan_x3_pro_ru_c2577b18` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 (настройка
 /
 снижение
@@ -17605,7 +16587,6 @@ ESC
 направлении
 
 ### SET/-,
-`livan_x3_pro_ru_0037834e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 чтобы
 установить
 текущую
@@ -17638,7 +16619,6 @@ ESC
 круизконтроля, выключите ее.
 
 ### Установленная
-`livan_x3_pro_ru_52ac6d17` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 скорость
 автомобиля
 1. Нажмите
@@ -17647,7 +16627,6 @@ ESC
 чтобы активировать круиз-контроль.
 
 ### 2. Когда скорость автомобиля достигнет
-`livan_x3_pro_ru_18da008a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 30
 км/ч
 или
@@ -17672,13 +16651,11 @@ ESC
 скорости.
 
 ### Установленная
-`livan_x3_pro_ru_49f57a1b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 скорость
 автомобиля ненадолго появится на
 приборной панели.
 
 ### Восстановить
-`livan_x3_pro_ru_e1b4db77` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:158 | doc_type:owners_manual
 установленную
 скорость автомобиля
 Если вы установили круиз-контроль на
@@ -17706,7 +16683,6 @@ ESC
 нажмите клавишу в направлении RES/+.
 
 ### Система
-`livan_x3_pro_ru_728d388f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 проконтролирует,
 чтобы
 поддерживалась
@@ -17714,7 +16690,6 @@ ESC
 установленная скорость.
 
 ### Увеличение
-`livan_x3_pro_ru_933547a4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 скорости
 при
 использовании круиз-контроля
@@ -17722,7 +16697,6 @@ ESC
 •
 
 ### Нажатие педали газа может увеличить
-`livan_x3_pro_ru_b3a73461` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 скорость.
 •
 Если
@@ -17738,12 +16712,10 @@ ESC
 направлении
 
 ### Скорость
-`livan_x3_pro_ru_a68dc2c7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 автомобиля будет увеличиваться на 1
 км/ч с каждым движением.
 
 ### Уменьшение
-`livan_x3_pro_ru_3ec1610c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 скорости
 при
 использовании круиз-контроля
@@ -17755,7 +16727,6 @@ ESC
 переместите клавишу в направлении
 
 ### SET/-
-`livan_x3_pro_ru_16250c33` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 и
 удерживайте
 его,
@@ -17772,7 +16743,6 @@ ESC
 .
 
 ### Скорость
-`livan_x3_pro_ru_a68dc2c7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 автомобиля
 будет
 уменьшаться
@@ -17788,7 +16758,6 @@ ESC
 круиз-контроля
 
 ### Используйте
-`livan_x3_pro_ru_5d85abb1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 педаль
 газа,
 чтобы
@@ -17802,7 +16771,6 @@ ESC
 на дороге с уклоном
 
 ### Работа
-`livan_x3_pro_ru_3b29614e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:158 | doc_type:owners_manual
 системы
 круиз-контроля
 на
@@ -17837,7 +16805,6 @@ ESC
 круиз-контроль:
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_fbc85e4c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:158 | doc_type:owners_manual
 156
 •
 Слегка нажмите на педаль сцепления
@@ -17847,7 +16814,6 @@ ESC
 •
 
 ### LIM.
-`livan_x3_pro_ru_3c94cedc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 •
 Нажмите
 кнопку
@@ -17860,7 +16826,6 @@ ESC
 поддерживаться.
 
 ### Очистить память скорости
-`livan_x3_pro_ru_fdaa5f54` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 Когда вы выключаете круиз-контроль или
 замок
 зажигания,
@@ -17872,7 +16837,6 @@ ESC
 памяти.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_d487518c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 6
 8
 7
@@ -17888,7 +16852,6 @@ ESC
 опасности
 
 ### Аварийная
-`livan_x3_pro_ru_73439e3b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:160 | doc_type:owners_manual
 световая
 сигнализация
 Когда
@@ -17913,7 +16876,6 @@ ESC
 предупредить других.
 
 ### Знак аварийной остановки находится в
-`livan_x3_pro_ru_e41480c2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:160 | doc_type:owners_manual
 багажнике и его можно увидеть, открыв
 заднюю дверь.
 На
@@ -17938,7 +16900,6 @@ ESC
 должна быть увеличена до 200 метров.
 
 ### Светоотражающий
-`livan_x3_pro_ru_e40f0f0c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:160 | doc_type:owners_manual
 жилет
 хранится
 в
@@ -17946,7 +16907,6 @@ ESC
 открытии.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_8d5d14a7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:160 | doc_type:owners_manual
 158
 Чтобы
 обеспечить
@@ -17965,7 +16925,6 @@ ESC
 выйти из автомобиля.
 
 ### Запуск
-`livan_x3_pro_ru_e4683df1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:161 | doc_type:owners_manual
 от
 внешнего
 источника питания
@@ -17977,7 +16936,6 @@ ESC
 кабеля-прикуривателя.
 
 ### Обязательно
-`livan_x3_pro_ru_d97cd443` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 следуйте
 приведенным
 ниже
@@ -17987,7 +16945,6 @@ ESC
 безопасность.
 
 ### Неправильное
-`livan_x3_pro_ru_88065f71` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:161 | doc_type:owners_manual
 использование
 аккумулятора
 может
@@ -17996,7 +16953,6 @@ ESC
 травмам.
 
 ### Аккумулятор
-`livan_x3_pro_ru_fc0b023c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:161 | doc_type:owners_manual
 опасен,
 потому
 что:
@@ -18013,7 +16969,6 @@ ESC
 •
 
 ### Электрический заряд может нанести
-`livan_x3_pro_ru_41c89826` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 ожог.
 Если вы не будете строго следовать
 приведенным
@@ -18026,7 +16981,6 @@ ESC
 травмы.
 
 ### Игнорирование этих шагов может
-`livan_x3_pro_ru_134655ae` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 привести
 к
 серьезному
@@ -18037,18 +16991,15 @@ ESC
 гарантией.
 
 ### Автомобиль нельзя завести толканием и
-`livan_x3_pro_ru_8c85dfdc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 буксировкой от другого автомобиля, от
 этого он может быть поврежден.
 
 ### 1. Выключите кнопку запуска, все фары
-`livan_x3_pro_ru_f181a1f5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:161 | doc_type:owners_manual
 и электрооборудование автомобиля,
 кроме ламп аварийной сигнализации
 (при необходимости).
 
 ### Охлаждающие
-`livan_x3_pro_ru_51389647` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 вентиляторы
 и
 другие
@@ -18057,7 +17008,6 @@ ESC
 двигателя могут стать причиной травм.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_a3e30fc6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 6
 8
 7
@@ -18079,7 +17029,6 @@ ESC
 руками, одеждой и инструментами.
 
 ### Использование
-`livan_x3_pro_ru_446b9391` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:162 | doc_type:owners_manual
 открытого
 огня
 рядом
@@ -18091,13 +17040,11 @@ ESC
 Аккумуляторная кислота может гореть.
 
 ### Не допускайте попадания кислоты на
-`livan_x3_pro_ru_fc490af4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 ваше тело. Если кислота попала в глаза
 или на кожу, немедленно промойте их
 водой и обратитесь к врачу.
 
 ### 2. Подсоедините один конец красного
-`livan_x3_pro_ru_8dd167aa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 положительного
 (+)
 кабеля
@@ -18107,14 +17054,12 @@ ESC
 клемме
 
 ### (A)
-`livan_x3_pro_ru_d75e9452` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 автомобиля,
 который
 нужно
 запустить от внешнего источника.
 
 ### 3. Не допускайте контакта другого конца
-`livan_x3_pro_ru_f07ee28a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 красного положительного (+) кабеля с
 металлом.
 Подсоедините
@@ -18125,7 +17070,6 @@ ESC
 клемме
 
 ### (B)
-`livan_x3_pro_ru_8af27f0e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:162 | doc_type:owners_manual
 работающего аккумулятора.
 4. Подсоедините
 один
@@ -18140,7 +17084,6 @@ ESC
 клемме
 
 ### (C)
-`livan_x3_pro_ru_d81dffa2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:162 | doc_type:owners_manual
 аккумулятора.
 Не
 позволяйте
@@ -18167,7 +17110,6 @@ ESC
 разряженным аккумулятором.
 
 ### 5. Подсоедините другой конец черного
-`livan_x3_pro_ru_57d81d80` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:162 | doc_type:owners_manual
 отрицательного
 (-)
 кабеля
@@ -18180,13 +17122,11 @@ ESC
 двигателя и аккумуляторной батареи.
 
 ### 6. Запустите двигатель автомобиля с
-`livan_x3_pro_ru_4451b9b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:162 | doc_type:owners_manual
 заряженным аккумулятором и дайте
 ему поработать на холостом ходу не
 менее четырех минут.
 
 ### 7. Попытайтесь завести автомобиль с
-`livan_x3_pro_ru_fe937b23` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:162 | doc_type:owners_manual
 разряженным
 аккумулятором.
 Если
@@ -18208,7 +17148,6 @@ ESC
 входят в сферу гарантийного ремонта.
 
 ### Поэтому необходимо подсоединять или
-`livan_x3_pro_ru_71febff3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 снимать
 соединительные
 кабели
@@ -18218,7 +17157,6 @@ ESC
 других металлических элементов.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_dfbd0843` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 160
 Чтобы
 отсоединить
@@ -18226,7 +17164,6 @@ ESC
 кабель на обоих автомобилях:
 
 ### 1. Отсоедините черный отрицательный
-`livan_x3_pro_ru_5c465e15` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:163 | doc_type:owners_manual
 (-)
 кабель
 на
@@ -18235,7 +17172,6 @@ ESC
 разряженным аккумулятором.
 
 ### 2. Отсоедините черный отрицательный
-`livan_x3_pro_ru_2f913685` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:163 | doc_type:owners_manual
 (-)
 кабель
 на
@@ -18244,7 +17180,6 @@ ESC
 заряженным аккумулятором.
 
 ### 3. Отсоедините
-`livan_x3_pro_ru_b55da374` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:163 | doc_type:owners_manual
 красный
 положительный
 (+)
@@ -18256,7 +17191,6 @@ ESC
 аккумулятором.
 
 ### 4. Отсоедините
-`livan_x3_pro_ru_0effb1fc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:163 | doc_type:owners_manual
 красный
 положительный
 (+)
@@ -18268,7 +17202,6 @@ ESC
 аккумулятором.
 
 ### Все средства для буксировки должны
-`livan_x3_pro_ru_bf07f040` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 использовать
 систему
 предохранительных
@@ -18285,7 +17218,6 @@ ESC
 буксировочную тележку.
 
 ### 1. При
-`livan_x3_pro_ru_d5665832` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 использовании
 гибкого
 соединительного тягового устройства
@@ -18303,7 +17235,6 @@ ESC
 м.
 
 ### Буксируемое
-`livan_x3_pro_ru_841fe482` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:163 | doc_type:owners_manual
 транспортное
 средство
 с
@@ -18321,7 +17252,6 @@ ESC
 трубы).
 
 ### 2. И
-`livan_x3_pro_ru_e2394e1c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:163 | doc_type:owners_manual
 буксирующее,
 и
 буксируемое
@@ -18334,7 +17264,6 @@ ESC
 сигнализацию.
 
 ### 3. Если
-`livan_x3_pro_ru_92a8bb73` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 вы
 хотите
 буксировать
@@ -18348,7 +17277,6 @@ ESC
 •
 
 ### Установите рычаг переключения
-`livan_x3_pro_ru_de367ef6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 передач в нейтральное положение
 (N).
 •
@@ -18357,7 +17285,6 @@ ESC
 •
 
 ### Расстояние буксировки не должно
-`livan_x3_pro_ru_e84fbd5b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 превышать 50 км.
 Неисправности во время вождения
 6
@@ -18371,7 +17298,6 @@ ESC
 161
 
 ### При использовании специального
-`livan_x3_pro_ru_18c393c8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:164 | doc_type:owners_manual
 тягача разрешается поднимать для
 буксировки
 только
@@ -18390,7 +17316,6 @@ ESC
 передач будет серьезно повреждена.
 
 ### Запрещается буксировать данное
-`livan_x3_pro_ru_d588d167` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 транспортное
 средство
 при
@@ -18405,7 +17330,6 @@ ESC
 •
 
 ### В
-`livan_x3_pro_ru_45360a8d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 коробке
 передач
 данного
@@ -18416,7 +17340,6 @@ ESC
 •
 
 ### Дальность
-`livan_x3_pro_ru_800e7f2e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 буксировки
 автомобилей,
 оснащенных автоматической коробкой
@@ -18427,7 +17350,6 @@ ESC
 километров.
 
 ### Буксировочное кольцо находится в сумке
-`livan_x3_pro_ru_fae99dc0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:164 | doc_type:owners_manual
 для
 инструментов
 под
@@ -18442,7 +17364,6 @@ ESC
 вышедшего из строя автомобиля.
 
 ### Всегда
-`livan_x3_pro_ru_e6ce848a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 следуйте
 инструкциям
 этого
@@ -18466,7 +17387,6 @@ ESC
 •
 
 ### Рекомендуется
-`livan_x3_pro_ru_4ead9b0a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 установить
 на
 буксировочном кольце и использовать
@@ -18476,7 +17396,6 @@ ESC
 •
 
 ### Не используйте буксировочное кольцо
-`livan_x3_pro_ru_56db7fc4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 для
 буксировки
 автомобиля
@@ -18486,7 +17405,6 @@ ESC
 •
 
 ### Не используйте буксировочное кольцо
-`livan_x3_pro_ru_56db7fc4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 для
 извлечения
 застрявшего
@@ -18510,7 +17428,6 @@ ESC
 кольцом.
 
 ### Тяговая
-`livan_x3_pro_ru_e67f5c07` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 цепь/
 натяжной
 канат
@@ -18523,7 +17440,6 @@ ESC
 травме или смерти.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_5c9bbe7b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 162
 •
 Несоблюдение
@@ -18538,7 +17454,6 @@ ESC
 может привести к травмам или смерти.
 
 ### Буксировочное
-`livan_x3_pro_ru_a4bb163e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 кольцо
 используется только для спасения
 на дороге и не должно использоваться
@@ -18590,7 +17505,6 @@ ESC
 линии.
 
 ### Несоблюдение
-`livan_x3_pro_ru_1bc76aa4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 вышеуказанных
 инструкций
 может
@@ -18599,7 +17513,6 @@ ESC
 повреждению автомобиля.
 
 ### Установка
-`livan_x3_pro_ru_4f6c83f4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:165 | doc_type:owners_manual
 переднего
 буксировочного кольца
 Крепежные
@@ -18609,7 +17522,6 @@ ESC
 переднем бампере с правой стороны.
 
 ### При установке переднего буксировочного
-`livan_x3_pro_ru_256031bb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 кольца рукой поднимите буксировочную
 крышку
 вверх,
@@ -18624,7 +17536,6 @@ ESC
 полностью затянуто.
 
 ### Двигайтесь
-`livan_x3_pro_ru_016e7f4d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 медленно,
 иначе
 чрезмерное
@@ -18633,7 +17544,6 @@ ESC
 повредит автомобиль.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_b2101839` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 6
 8
 7
@@ -18661,7 +17571,6 @@ ESC
 для получения подробной информации.
 
 ### Другую информацию можно запросить у
-`livan_x3_pro_ru_240e9a13` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 производителя шин.
 Использовать
 плохо
@@ -18671,7 +17580,6 @@ ESC
 эксплуатируемые шины опасно.
 
 ### Перекачанные
-`livan_x3_pro_ru_342d15d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 или
 недостаточно
 накачанные
@@ -18687,7 +17595,6 @@ ESC
 или смерти.
 
 ### Все шины следует регулярно проверять и
-`livan_x3_pro_ru_5dce4733` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 поддерживать рекомендуемое давление.
 Давление в шинах следует проверять в
 холодном
@@ -18701,7 +17608,6 @@ ESC
 состояние)" в "Технических данных".
 
 ### Перекачанные
-`livan_x3_pro_ru_342d15d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 шины
 с
 большей
@@ -18713,7 +17619,6 @@ ESC
 рекомендуемое давление в шине.
 
 ### Изношенные шины могут стать причиной
-`livan_x3_pro_ru_2e284ac5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 аварии. Если протектор шины сильно
 изношен
 или
@@ -18723,7 +17628,6 @@ ESC
 подлежит незамедлительной замене.
 
 ### В
-`livan_x3_pro_ru_f88c9814` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 шине
 должно
 быть
@@ -18731,14 +17635,12 @@ ESC
 давление для эффективной работы.
 
 ### Недостаточное
-`livan_x3_pro_ru_9350d82a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 или
 чрезмерное
 давление в шинах может сказаться
 на шинах и управлении автомобилем.
 
 ### При недостаточном давлении в шине
-`livan_x3_pro_ru_b1ac09e5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 могут возникнуть следующие ситуации:
 •
 Чрезмерный изгиб;
@@ -18749,7 +17651,6 @@ ESC
 •
 
 ### Преждевременный
-`livan_x3_pro_ru_6d4b4b30` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 или
 неравномерный износ;
 •
@@ -18758,7 +17659,6 @@ ESC
 Повышение расхода топлива.
 
 ### При избыточном давлении в шине могут
-`livan_x3_pro_ru_0ea9039f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 возникнуть следующие ситуации:
 •
 Аномальный износ;
@@ -18782,14 +17682,12 @@ ESC
 центральной стойкой снаружи. На ней
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_8ed64b40` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 164
 указано давление в передних и задних
 шинах автомобиля, а также давление в
 запасном колесе.
 
 ### Система контроля давления в
-`livan_x3_pro_ru_b0ec6c93` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 шинах
 Система
 непрямого
@@ -18829,7 +17727,6 @@ ESC
 шинах.
 
 ### Когда давление в одной или нескольких
-`livan_x3_pro_ru_127016f8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:167 | doc_type:owners_manual
 шинах автомобиля слишком низкое или
 система
 контроля
@@ -18848,7 +17745,6 @@ ESC
 шинах
 
 ### (TPMS),
-`livan_x3_pro_ru_8c9c3819` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 или
 появляются текстовые подсказки.
 •
@@ -18871,7 +17767,6 @@ ESC
 значение давления в шинах.
 
 ### Калибровка
-`livan_x3_pro_ru_4f71411d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 системы
 должна
 выполняться в следующих ситуациях:
@@ -18882,19 +17777,16 @@ ESC
 или нескольких шинах;
 
 ### 3. После
-`livan_x3_pro_ru_6aed701d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 динамической
 балансировки
 колес;
 4. После обслуживания ходовой части;
 
 ### 6. После предыдущей калибровки, если
-`livan_x3_pro_ru_1572ee77` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 изменение температуры окружающей
 среды превысило 40℃;
 
 ### 7. Через полгода или после 10 000 км
-`livan_x3_pro_ru_92252480` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 пробега.
 Калибровка удалит текущее аварийное
 значение, запустит новую фазу обучения
@@ -18902,7 +17794,6 @@ ESC
 проходит следующим образом:
 
 ### 1. Отрегулируйте давление в шинах до
-`livan_x3_pro_ru_a52b2c14` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 рекомендуемых
 параметров
 из
@@ -18914,7 +17805,6 @@ ESC
 данных".
 
 ### 2. Переведите
-`livan_x3_pro_ru_fd4d9fd5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:167 | doc_type:owners_manual
 кнопку
 включения
 в
@@ -18925,7 +17815,6 @@ ON
 двигатель.
 
 ### 3. На экране мультимедийного дисплея
-`livan_x3_pro_ru_9896817e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:167 | doc_type:owners_manual
 последовательно пройдите по пути
 "Настройки"
 —
@@ -18945,7 +17834,6 @@ ON
 контроля давления в шинах".
 
 ### Во время начала калибровки
-`livan_x3_pro_ru_2500b400` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 автомобиль должен находиться
 в состоянии покоя.
 4. Система
@@ -18958,7 +17846,6 @@ ON
 подтверждения. Убедитесь, что все
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_72852f03` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 6
 8
 7
@@ -18972,7 +17859,6 @@ ON
 нажмите OK.
 
 ### 5. Если
-`livan_x3_pro_ru_849bf7de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:168 | doc_type:owners_manual
 калибровка
 не
 запускается,
@@ -18984,7 +17870,6 @@ ON
 шинах (TPMS) на приборной панели.
 
 ### Выполните
-`livan_x3_pro_ru_4345fae5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 эту
 процедуру
 для
@@ -18998,7 +17883,6 @@ ON
 низком давлении в шинах.
 
 ### Система будет продолжать сообщать об
-`livan_x3_pro_ru_357eb8dd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 отказе
 контроля
 давления
@@ -19012,7 +17896,6 @@ ON
 противоскольжения.
 
 ### Сообщение
-`livan_x3_pro_ru_84667dcc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 исчезнет
 после
 короткого
@@ -19022,7 +17905,6 @@ ON
 противоскольжения.
 
 ### И
-`livan_x3_pro_ru_c4e54abe` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 тогда вы не будете получать аварийный
 сигнал
 о
@@ -19063,7 +17945,6 @@ ON
 сигнализации.
 
 ### Когда нужно проверять шины
-`livan_x3_pro_ru_c23decfc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 Проверяйте шины, включая запасную, не
 реже одного раза в месяц. Давление в
 запасной шине см. в главе "Давление в
@@ -19074,7 +17955,6 @@ ON
 "Технических данных".
 
 ### Проверьте давление в шинах с помощью
-`livan_x3_pro_ru_6dbbdba4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 карманного
 шинного
 манометра
@@ -19097,7 +17977,6 @@ ON
 состоянии.
 
 ### Холодные
-`livan_x3_pro_ru_ccf7ebca` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 шины
 —
 ваш
@@ -19115,7 +17994,6 @@ ON
 шины.
 
 ### Плотно
-`livan_x3_pro_ru_bccba1aa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 прижмите
 манометр
 к
@@ -19148,14 +18026,12 @@ ON
 манометра.
 
 ### Обязательно
-`livan_x3_pro_ru_f8bf3b9c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 установите
 колпачок
 клапана обратно на ниппель. Колпачки
 клапана защищают от грязи и влаги.
 
 ### На необходимость замены шин влияют
-`livan_x3_pro_ru_fba13e67` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 различные
 факторы,
 такие
@@ -19168,7 +18044,6 @@ ON
 автомобиль и дорожные условия.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_7cda9383` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 166
 Один из способов узнать, когда следует
 выполнить
@@ -19187,7 +18062,6 @@ ON
 изношен до 1,6 мм или меньше.
 
 ### Новые шины требуются в следующих
-`livan_x3_pro_ru_532cf3ee` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 ситуациях:
 •
 На шине есть как минимум 1 место с
@@ -19195,7 +18069,6 @@ ON
 •
 
 ### Сквозь резину шины можно увидеть
-`livan_x3_pro_ru_0b3d0ead` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 корд или протекторную ткань.
 •
 Протектор или боковая стенка имеют
@@ -19217,7 +18090,6 @@ ON
 ремонту.
 
 ### Качество резины в шинах со временем
-`livan_x3_pro_ru_82bc5312` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 ухудшается, даже если эти шины никогда
 не использовались. То же самое верно и
 для запасных шин. На скорость старения
@@ -19256,7 +18128,6 @@ ON
 информацией к производителю.
 
 ### Утилизируйте
-`livan_x3_pro_ru_1b933996` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 использованные
 шины
 в
@@ -19269,7 +18140,6 @@ ON
 окружающей среды.
 
 ### Покупка новых шин
-`livan_x3_pro_ru_e18daeaf` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 При покупке новых шин убедитесь, что
 они
 подходят
@@ -19284,14 +18154,12 @@ ON
 производителя.
 
 ### Рекомендуется
-`livan_x3_pro_ru_10dd9b4d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 производить замену сразу четырех шин.
 См. главу "Перестановка шин" в этой
 главе для получения соответствующей
 информации.
 
 ### Установка
-`livan_x3_pro_ru_40ed61a3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 шин
 из
 разных
@@ -19310,7 +18178,6 @@ ON
 управляемости.
 
 ### Использование
-`livan_x3_pro_ru_e2596b44` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 шин
 разных размеров и типов также может
 привести к повреждению автомобиля. На
@@ -19326,7 +18193,6 @@ ON
 пробега.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_8c9fcc6d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 6
 8
 7
@@ -19349,7 +18215,6 @@ ON
 использовать только радиальные шины.
 
 ### Использование колес или шин другого
-`livan_x3_pro_ru_9fcf8d25` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:170 | doc_type:owners_manual
 размера,
 отличные
 от
@@ -19409,7 +18274,6 @@ ON
 травм.
 
 ### Если переднее колесо выходит из
-`livan_x3_pro_ru_c207b074` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 строя и необходимо использовать
 запасное
 колесо,
@@ -19421,7 +18285,6 @@ ON
 колеса.
 
 ### В
-`livan_x3_pro_ru_2df61b76` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 целях
 обеспечения
 безопасности
@@ -19435,7 +18298,6 @@ ON
 место заднего.
 
 ### Перестановка шин
-`livan_x3_pro_ru_d3d26eb5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 Мы
 рекомендуем
 вам
@@ -19454,7 +18316,6 @@ ON
 повреждений.
 
 ### Подробнее
-`livan_x3_pro_ru_75c9d785` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 см.
 в
 главе
@@ -19496,7 +18357,6 @@ ON
 После
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_150a38ca` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 168
 перестановки
 шин
@@ -19506,7 +18366,6 @@ ON
 "Давление в шинах" в этом разделе.
 
 ### Ржавчина или грязь на колесах или
-`livan_x3_pro_ru_0e9d8d9f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 креплениях
 колес
 могут
@@ -19528,7 +18387,6 @@ ON
 проволочной щетки.
 
 ### Регулировка
-`livan_x3_pro_ru_ff5de67e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 и
 балансировка
 колес
@@ -19574,7 +18432,6 @@ ON
 для проведения проверки.
 
 ### Заменять
-`livan_x3_pro_ru_57c3f915` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 следует
 погнутые
 колеса,
@@ -19593,7 +18450,6 @@ ON
 заменить.
 
 ### В
-`livan_x3_pro_ru_257640ac` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 случае
 любой
 из
@@ -19607,7 +18463,6 @@ ON
 обслуживания
 
 ### LIVAN.
-`livan_x3_pro_ru_815f54a2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 Новое
 колесо
 должно
@@ -19632,7 +18487,6 @@ ON
 автомобилю.
 
 ### Использование
-`livan_x3_pro_ru_c080797b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 неподходящих
 сменных
 колес,
@@ -19654,7 +18508,6 @@ ON
 автомобилем.
 
 ### Несчастные
-`livan_x3_pro_ru_9fc8f18e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 случаи
 могут привести
 к
@@ -19668,7 +18521,6 @@ ON
 колесную гайку.
 
 ### Использование некорректных типов
-`livan_x3_pro_ru_249e6d25` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:171 | doc_type:owners_manual
 колес
 также
 может
@@ -19687,7 +18539,6 @@ ON
 бампера,
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_c4e392ff` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:171 | doc_type:owners_manual
 6
 8
 7
@@ -19708,7 +18559,6 @@ ON
 противоскольжения и кузовом и шасси.
 
 ### Ставить старые колеса на автомобиль
-`livan_x3_pro_ru_24217cb2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 опасно.
 Потому
 что
@@ -19736,7 +18586,6 @@ ON
 колеса от оригинального производителя.
 
 ### Зимние шины
-`livan_x3_pro_ru_5a711276` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 Если
 планируется
 частая
@@ -19748,7 +18597,6 @@ ON
 лучше всего оснастить зимними шинами.
 
 ### Всесезонные шины могут не обеспечить
-`livan_x3_pro_ru_7769f558` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 желаемого
 сцепления
 или
@@ -19758,7 +18606,6 @@ ON
 заснеженных дорогах.
 
 ### Зимние
-`livan_x3_pro_ru_0381123c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 шины
 используются
 для
@@ -19783,7 +18630,6 @@ ON
 и торможении.
 
 ### Для получения подробной информации о
-`livan_x3_pro_ru_88e8c877` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 наличии
 зимних
 шин
@@ -19795,7 +18641,6 @@ ON
 •
 
 ### Используйте
-`livan_x3_pro_ru_a4b15133` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 шины
 от
 одного
@@ -19804,7 +18649,6 @@ ON
 •
 
 ### Используйте только радиальные шины
-`livan_x3_pro_ru_61210e39` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 того же размера, диапазона нагрузки и
 скорости,
 что
@@ -19824,7 +18668,6 @@ ON
 скорость шины.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_9601026f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 170
 Цепь противоскольжения
 Цепи противоскольжения не входят
@@ -19835,7 +18678,6 @@ ON
 автомобиля.
 
 ### Следующая
-`livan_x3_pro_ru_e516ef0b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 информация
 предоставляется для справки.
 Пожалуйста, определите, нужно ли вам
@@ -19855,7 +18697,6 @@ ON
 водите осторожно и на малых скоростях.
 
 ### В противном случае автомобиль может
-`livan_x3_pro_ru_ef08f825` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 быть
 поврежден
 или
@@ -19864,7 +18705,6 @@ ON
 качества могут ухудшиться.
 
 ### При установке цепей противоскольжения
-`livan_x3_pro_ru_f8dbc774` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 необходимо
 выбирать
 цепи,
@@ -19884,7 +18724,6 @@ ON
 дорогах.
 
 ### Если шина лопнет во время движения
-`livan_x3_pro_ru_07610aca` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 автомобиля,
 произойдут
 следующие
@@ -19899,7 +18738,6 @@ ON
 ситуаций):
 
 ### 1. Если лопнет передняя шина, тянущий
-`livan_x3_pro_ru_44455b97` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 эффект спущенной шины приведет к
 тому,
 что
@@ -19909,7 +18747,6 @@ ON
 шины.
 
 ### Отпустите
-`livan_x3_pro_ru_a3e96cdf` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:173 | doc_type:owners_manual
 педаль
 акселератора и крепко держите руль.
 Направьте
@@ -19924,7 +18761,6 @@ ON
 безопасную сторону дороги.
 
 ### 2. Если заднее колесо лопнет, отпустите
-`livan_x3_pro_ru_e39cd008` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 педаль акселератора. Когда задняя
 шина
 лопается
@@ -19933,7 +18769,6 @@ ON
 возникает эффект, как при заносе.
 
 ### Поэтому следует принимать те же
-`livan_x3_pro_ru_3b3fa23d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:173 | doc_type:owners_manual
 меры, что и при заносе. Поверните
 рулевое
 колесо
@@ -19976,7 +18811,6 @@ ON
 следующие действия:
 
 ### 1. Медленно выведите автомобиль на
-`livan_x3_pro_ru_3bf77286` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 безопасную
 ровную
 поверхность,
@@ -19996,7 +18830,6 @@ ON
 повреждения шин и колес.
 
 ### 2. Включите
-`livan_x3_pro_ru_b5e51838` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 аварийные
 сигнальные
 лампы.
@@ -20004,7 +18837,6 @@ ON
 Замена шин может быть опасной.
 
 ### Автомобиль может соскользнуть с
-`livan_x3_pro_ru_439e0c4b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 домкрата и опрокинуться на человека,
 что приведет к телесным повреждениям
 или смерти. Замените шины на ровной
@@ -20018,7 +18850,6 @@ ON
 •
 
 ### Установите селектор коробки передач
-`livan_x3_pro_ru_eec416be` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:174 | doc_type:owners_manual
 в
 положение
 парковки
@@ -20046,7 +18877,6 @@ ON
 оставшихся колес.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_b80c6de3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:174 | doc_type:owners_manual
 172
 Установка запасного колеса
 Припаркуйте автомобиль на ровной
@@ -20084,7 +18914,6 @@ ON
 дорожно-транспортного происшествия.
 
 ### Выньте
-`livan_x3_pro_ru_3c4981a9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 запасное
 колесо
 и
@@ -20092,7 +18921,6 @@ ON
 Домкрат и инструменты водителя
 
 ### Домкрат
-`livan_x3_pro_ru_f894efd9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:175 | doc_type:owners_manual
 и
 инструменты
 водителя
@@ -20107,7 +18935,6 @@ ON
 автомобилем.
 
 ### Запрещается
-`livan_x3_pro_ru_58b04330` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 использовать
 другие
 неподходящие домкраты, в противном
@@ -20116,7 +18943,6 @@ ON
 приведет к травмам или смерти.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_61d1009f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 6
 8
 7
@@ -20140,7 +18966,6 @@ ON
 стрелки.
 
 ### Затем поместите запасное колесо рядом
-`livan_x3_pro_ru_bc9ef839` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 с подлежащим замене.
 Запасное
 колесо
@@ -20155,7 +18980,6 @@ ON
 обслуживания LIVAN как можно скорее.
 
 ### Снимите спущенное колесо и
-`livan_x3_pro_ru_56ec7510` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 установите запасное
 1. Перед
 эксплуатацией
@@ -20163,7 +18987,6 @@ ON
 проверку безопасности.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_b47f968c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 174
 2. Выньте пластиковые плоскогубцы из
 бардачка,
@@ -20179,7 +19002,6 @@ ON
 рисунке, и потяните колпачок на себя.
 
 ### 3. Выньте баллонный ключ из ящика для
-`livan_x3_pro_ru_50957b8a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 инструментов водителя, наденьте его
 на колесную гайку, затем поверните
 против часовой стрелки и ослабьте
@@ -20188,7 +19010,6 @@ ON
 колесные гайки.
 
 ### 4. Соберите домкрат, как показано на
-`livan_x3_pro_ru_c0b73d01` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 рисунке.
 5. Установите домкрат и отрегулируйте
 до подходящей высоты, прежде чем
@@ -20196,7 +19017,6 @@ ON
 показано на рисунке.
 
 ### Неправильное
-`livan_x3_pro_ru_b751f2ac` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 положение
 опоры
 домкрата при подъеме автомобиля
@@ -20230,7 +19050,6 @@ ON
 смерти.
 
 ### Запрещается
-`livan_x3_pro_ru_128e953c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 находиться
 под
 автомобилем,
@@ -20238,7 +19057,6 @@ ON
 только домкратом.
 
 ### Опасно поднимать автомобиль и
-`livan_x3_pro_ru_c25ae5a0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 садиться в него для технического
 обслуживания или ремонта без навыков
 и
@@ -20259,7 +19077,6 @@ ON
 автомобиль
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_3655d3d8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 6
 8
 7
@@ -20282,14 +19099,12 @@ ON
 домкрата.
 
 ### 6. Поверните ручку домкрата по часовой
-`livan_x3_pro_ru_28f23e2d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 стрелке, чтобы поднять автомобиль
 на достаточную высоту над землей,
 чтобы запасное колесо можно было
 установить под автомобилем.
 
 ### 9. Удалите
-`livan_x3_pro_ru_90b6227c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 ржавчину
 или
 грязь
@@ -20300,7 +19115,6 @@ ON
 поверхностей и запасного колеса.
 
 ### 11. Замените
-`livan_x3_pro_ru_8bef0e5e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 колесные
 гайки.
 С
@@ -20315,7 +19129,6 @@ ON
 не окажется на ступице колеса.
 
 ### 12. Поверните
-`livan_x3_pro_ru_f0651856` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 ручку
 домкрата
 против
@@ -20326,7 +19139,6 @@ ON
 автомобиль.
 
 ### Полностью
-`livan_x3_pro_ru_75316adb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 опустите
 домкрат.
 Не наносите масло или смазку на
@@ -20336,7 +19148,6 @@ ON
 ослабнут.
 
 ### Колеса
-`livan_x3_pro_ru_bfebf4ca` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 автомобиля
 могут
 вылететь,
@@ -20347,7 +19158,6 @@ ON
 происшествию.
 
 ### 13. Затягивайте
-`livan_x3_pro_ru_dde9b153` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 колесные
 гайки
 в
@@ -20364,7 +19174,6 @@ ON
 в центр технического обслуживания
 
 ### LIVAN,
-`livan_x3_pro_ru_cbacd023` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 чтобы
 проверить
 ее
@@ -20374,7 +19183,6 @@ ON
 ключа.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_79d83625` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 176
 Уложите
 запасное
@@ -20386,7 +19194,6 @@ ON
 хранение
 
 ### Поместите
-`livan_x3_pro_ru_ab4d3214` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:179 | doc_type:owners_manual
 запасное
 колесо
 лицевой
@@ -20402,7 +19209,6 @@ ON
 пассажира.
 
 ### Расположение
-`livan_x3_pro_ru_0a0acb47` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:179 | doc_type:owners_manual
 и
 идентификация
 предохранителя
@@ -20421,7 +19227,6 @@ ON
 автомобиля.
 
 ### Перегоревший
-`livan_x3_pro_ru_22a2f0a8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 предохранитель
 указывает на то, что цепь, которую он
 защищает, вышла из строя и перестала
@@ -20438,7 +19243,6 @@ ON
 B - Предохранитель перегорел
 
 ### Предохранитель
-`livan_x3_pro_ru_d4f991e8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:179 | doc_type:owners_manual
 находится
 в
 блоке
@@ -20455,7 +19259,6 @@ B - Предохранитель перегорел
 панели.
 
 ### Предохранители
-`livan_x3_pro_ru_466d5138` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 бывают двух видов:
 1. Пластинчатый
 предохранитель
@@ -20465,7 +19268,6 @@ B - Предохранитель перегорел
 разрешенный
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_fd37dd16` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:179 | doc_type:owners_manual
 6
 8
 7
@@ -20481,7 +19283,6 @@ B - Предохранитель перегорел
 составляет 5-25А.
 
 ### 2. Медленный плавкий предохранитель
-`livan_x3_pro_ru_c831dbc7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:180 | doc_type:owners_manual
 -
 квадратный,
 вставной,
@@ -20491,7 +19292,6 @@ B - Предохранитель перегорел
 электроцепи составляет 20-60А.
 
 ### Цвет указывает на величину амперов
-`livan_x3_pro_ru_6e48c48e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 предохранителя, которая также отмечена
 на предохранителе.
 Не
@@ -20522,7 +19322,6 @@ B - Предохранитель перегорел
 моторном отсеке
 
 ### 2. Чтобы
-`livan_x3_pro_ru_92e67182` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 осмотреть
 предохранитель,
 ослабьте
@@ -20552,7 +19351,6 @@ B - Предохранитель перегорел
 части.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_5e2fb345` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 178
 Номер
 предохранителя
@@ -20561,7 +19359,6 @@ B - Предохранитель перегорел
 амперах
 
 ### Инстру
-`livan_x3_pro_ru_5ccf4f4a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 кции
 EF02
 Предохранитель TCU B + *
@@ -20571,7 +19368,6 @@ EF03
 Предохранитель EMS B +
 
 ### 10A
-`livan_x3_pro_ru_8ef37da7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 -
 EF05
 Предохранитель вакуумного
@@ -20581,7 +19377,6 @@ EF05
 EF06
 
 ### 15A
-`livan_x3_pro_ru_27e14a09` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:181 | doc_type:owners_manual
 -
 EF07
 Предохранитель звукового сигнала
@@ -20592,7 +19387,6 @@ EF08
 клапана и датчика
 
 ### 10A
-`livan_x3_pro_ru_8ef37da7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:181 | doc_type:owners_manual
 -
 EF09
 Предохранитель кислородного
@@ -20602,7 +19396,6 @@ EF09
 EF10
 
 ### 15A
-`livan_x3_pro_ru_27e14a09` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 -
 EF11
 Предохранитель EMS
@@ -20622,7 +19415,6 @@ EF11
 предохранителя
 
 ### Величина в
-`livan_x3_pro_ru_6a0ae595` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 амперах
 Инстру
 кции
@@ -20631,7 +19423,6 @@ EF12
 форсунки
 
 ### 10A
-`livan_x3_pro_ru_118901c2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:182 | doc_type:owners_manual
 -
 EF13
 Предохранитель пускового сигнала
@@ -20642,7 +19433,6 @@ EF14
 переключателя
 
 ### 5A
-`livan_x3_pro_ru_257068d0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 -
 EF17
 Предохранитель обогрева заднего
@@ -20652,7 +19442,6 @@ EF17
 EF18
 
 ### 5A
-`livan_x3_pro_ru_257068d0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 -
 EF19
 Предохранитель EMS и TCU
@@ -20663,7 +19452,6 @@ EF21
 зеркал заднего вида
 
 ### 10A
-`livan_x3_pro_ru_118901c2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:182 | doc_type:owners_manual
 -
 EF22
 Предохранитель левой фары
@@ -20672,7 +19460,6 @@ EF22
 -
 
 ### Предохранитель правой фары
-`livan_x3_pro_ru_78eb0f22` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:182 | doc_type:owners_manual
 ближнего света
 10A
 -
@@ -20681,7 +19468,6 @@ EF24
 дальнего света
 
 ### 10A
-`livan_x3_pro_ru_118901c2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:182 | doc_type:owners_manual
 -
 EF25
 Предохранитель правой фары
@@ -20690,7 +19476,6 @@ EF25
 -
 
 ### Предохранитель компрессора
-`livan_x3_pro_ru_bc0c5b5a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:182 | doc_type:owners_manual
 кондиционера
 10A
 -
@@ -20699,7 +19484,6 @@ EF28
 стеклоочистителя
 
 ### 25A
-`livan_x3_pro_ru_3e412076` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:182 | doc_type:owners_manual
 -
 SB01
 Предохранитель IP BOX B +
@@ -20709,7 +19493,6 @@ SB02
 Предохранитель клапана ABS и
 
 ### 25A
-`livan_x3_pro_ru_3e412076` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:182 | doc_type:owners_manual
 -
 SB03
 Предохранитель электродвигателя
@@ -20718,14 +19501,12 @@ ABS и ESC
 -
 
 ### 30A
-`livan_x3_pro_ru_cad7eda6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 -
 SB06
 Предохранитель
 высокоскоростного вентилятора
 
 ### 40A
-`livan_x3_pro_ru_6aebeeae` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 -
 SB07
 Предохранитель IP BOX ALT +
@@ -20736,7 +19517,6 @@ SB08
 вентилятора
 
 ### 40A
-`livan_x3_pro_ru_6aebeeae` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 -
 Неисправности во время вождения
 180
@@ -20744,7 +19524,6 @@ SB08
 предохранителя
 
 ### Величина в
-`livan_x3_pro_ru_594aed4c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 амперах
 Инстру
 кции
@@ -20754,7 +19533,6 @@ SB10
 кондиционирования
 
 ### 30A
-`livan_x3_pro_ru_b8049732` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:183 | doc_type:owners_manual
 -
 SB11
 Предохранитель
@@ -20763,7 +19541,6 @@ SB11
 -
 
 ### Предохранитель
-`livan_x3_pro_ru_b9cbbc45` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:183 | doc_type:owners_manual
 электростеклоподъемника 2
 30A
 -
@@ -20772,14 +19549,12 @@ SB14
 стекла
 
 ### 25A
-`livan_x3_pro_ru_e5bb53d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:183 | doc_type:owners_manual
 -
 MF01
 Предохранитель электроусилителя
 рулевого управления
 
 ### 80A
-`livan_x3_pro_ru_4efeb28a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 -
 MF02
 Предохранитель генератора
@@ -20797,7 +19572,6 @@ MF02
 181
 
 ### Внутренний
-`livan_x3_pro_ru_550e5753` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 блок
 предохранителей
 Модель 1
@@ -20819,7 +19593,6 @@ MF02
 предохранитель.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_7524c552` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 182
 Номер
 предохранителя
@@ -20828,7 +19601,6 @@ MF02
 амперах
 
 ### Инструк
-`livan_x3_pro_ru_c9229dfa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 ции
 IF01
 Предохранитель внешнего
@@ -20838,7 +19610,6 @@ MT
 30A
 
 ### Предохранитель внутреннего
-`livan_x3_pro_ru_83c73bb8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 освещения*
 10A
 MT
@@ -20849,7 +19620,6 @@ IF04
 замка
 
 ### 20A
-`livan_x3_pro_ru_9b744f04` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 -
 IF05
 Предохранитель указателей
@@ -20859,14 +19629,12 @@ IF05
 IF07
 
 ### 10A
-`livan_x3_pro_ru_6ad3b085` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:185 | doc_type:owners_manual
 -
 IF08
 Предохранитель тормозного
 переключателя и диагностика *
 
 ### 10A/5A
-`livan_x3_pro_ru_a6a4216d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 -
 IF09
 Предохранитель переключателя
@@ -20886,7 +19654,6 @@ IF09
 предохранителя
 
 ### Величина в
-`livan_x3_pro_ru_f64d40cb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:186 | doc_type:owners_manual
 амперах
 Инструк
 ции
@@ -20897,7 +19664,6 @@ IF10
 диагностика
 
 ### 10A
-`livan_x3_pro_ru_9b3cbd5d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 IF11
 Плавкий предохранитель
@@ -20908,7 +19674,6 @@ IF12
 люка
 
 ### 10A
-`livan_x3_pro_ru_9b3cbd5d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 IF13
 Предохранитель двигателя
@@ -20918,7 +19683,6 @@ IF13
 IF16
 
 ### Предохранитель заднего
-`livan_x3_pro_ru_203f3b2d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:186 | doc_type:owners_manual
 стеклоочистителя*
 15A
 -
@@ -20926,7 +19690,6 @@ IF17
 Предохранитель GPS/BCM ACC +
 
 ### 10A
-`livan_x3_pro_ru_9b3cbd5d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 IF18
 Предохранитель USB на задних
@@ -20936,7 +19699,6 @@ IF18
 IF19
 
 ### Передний предохранитель
-`livan_x3_pro_ru_7eefc8d8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 резервного питания
 15A
 -
@@ -20944,7 +19706,6 @@ IF20
 Предохранитель EPS и SAS IG1
 
 ### 7,5A
-`livan_x3_pro_ru_e79c80fd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 IF21
 Предохранитель ACU IG1
@@ -20954,7 +19715,6 @@ IF22
 Предохранитель прибора и BCM
 
 ### 10A
-`livan_x3_pro_ru_9b3cbd5d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 IF23
 Предохранитель UEC IG1+
@@ -20964,7 +19724,6 @@ IF24
 Предохранитель генератора
 
 ### 7,5A
-`livan_x3_pro_ru_e79c80fd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 IF32
 Предохранитель
@@ -20972,7 +19731,6 @@ IF32
 на приборной панели и т. д.
 
 ### 10A
-`livan_x3_pro_ru_9b3cbd5d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 SB02
 Предохранитель люка*
@@ -20982,7 +19740,6 @@ SB03
 Предохранитель IG2
 
 ### 25A
-`livan_x3_pro_ru_78000ae7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 Неисправности во время вождения
 184
@@ -20992,7 +19749,6 @@ SB03
 предохранителя
 
 ### 1. Выключите переключатель зажигания
-`livan_x3_pro_ru_d6c77ca3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:187 | doc_type:owners_manual
 и
 все
 электрооборудование,
@@ -21000,7 +19756,6 @@ SB03
 аккумулятора.
 
 ### 2. Зажмите
-`livan_x3_pro_ru_817a9a96` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 головку
 предохранителя
 одним концом съемных плоскогубцев
@@ -21018,7 +19773,6 @@ SB03
 металлический провод.
 
 ### 3. Замените
-`livan_x3_pro_ru_dcc29054` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 перегоревший
 предохранитель новым с таким же
 значением
@@ -21042,7 +19796,6 @@ SB03
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_4f8e0143` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 для проведения ремонта.
 Неисправности во время вождения
 6
@@ -21056,13 +19809,11 @@ SB03
 185
 
 ### Модели ламп
-`livan_x3_pro_ru_0b9aaa9f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 Замена ламп обычно требует демонтажа некоторых компонентов автомобиля,
 поэтому для соответствующих операций требуются профессиональные навыки. Для
 замены лампы рекомендуется обратиться на центр технического обслуживания
 
 ### Передняя
-`livan_x3_pro_ru_c3330a93` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:188 | doc_type:owners_manual
 комбинированная
 фара
 Фара дальнего
@@ -21073,7 +19824,6 @@ H7
 света
 
 ### H7
-`livan_x3_pro_ru_eb206d5c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:188 | doc_type:owners_manual
 55Вт
 Дневные ходовые
 огни
@@ -21084,7 +19834,6 @@ LED
 поворота
 
 ### Направляющий
-`livan_x3_pro_ru_f06f0c42` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:188 | doc_type:owners_manual
 свет LED+
 —
 Передние
@@ -21094,7 +19843,6 @@ LED
 —
 
 ### Задний
-`livan_x3_pro_ru_a40353dd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:188 | doc_type:owners_manual
 комбинированный
 фонарь
 Стоп-сигнал
@@ -21104,7 +19852,6 @@ LED
 поворота
 
 ### WY21W
-`livan_x3_pro_ru_fa47290e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:188 | doc_type:owners_manual
 21Вт
 Задние
 габаритные огни
@@ -21114,7 +19861,6 @@ LED
 хода
 
 ### W16W
-`livan_x3_pro_ru_6dd7b32e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 16Вт
 Боковой указатель
 поворота
@@ -21122,7 +19868,6 @@ LED
 поворота
 
 ### LED
-`livan_x3_pro_ru_bb01839f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:188 | doc_type:owners_manual
 —
 Задние
 противотуманные
@@ -21135,7 +19880,6 @@ LED
 Центральный стопсигнал
 Центральный стопсигнал
 ### LED
-`livan_x3_pro_ru_bb01839f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:188 | doc_type:owners_manual
 —
 Фонарь освещения
 номерного знака
@@ -21143,14 +19887,12 @@ LED
 номерного знака
 
 ### W5W
-`livan_x3_pro_ru_67809fc9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 5Вт
 Неисправности во время вождения
 186
 Название детали
 
 ### Внутренняя
-`livan_x3_pro_ru_ec8b18cc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:189 | doc_type:owners_manual
 верхняя передняя
 лампа
 Лампа для чтения
@@ -21160,7 +19902,6 @@ LED
 багажника*
 
 ### Лампа подсветки
-`livan_x3_pro_ru_7c8c972a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:189 | doc_type:owners_manual
 багажника
 W5W
 5Вт
@@ -21176,7 +19917,6 @@ W5W
 187
 
 ### Действия
-`livan_x3_pro_ru_367103a3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:190 | doc_type:owners_manual
 в
 аварийной
 обстановке
@@ -21193,7 +19933,6 @@ W5W
 необходимо выполнить следующее:
 
 ### 1. Выключите
-`livan_x3_pro_ru_299f7c18` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:190 | doc_type:owners_manual
 кондиционер,
 отведите
 автомобиль с дороги в безопасное и
@@ -21210,7 +19949,6 @@ W5W
 (P)/«Нейтралье
 
 ### (N)
-`livan_x3_pro_ru_00d922da` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:190 | doc_type:owners_manual
 и
 поднимите стояночный тормоз.
 2. Если
@@ -21251,14 +19989,12 @@ W5W
 ремонта.
 
 ### 3. Осмотрите
-`livan_x3_pro_ru_1b1f42bb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:190 | doc_type:owners_manual
 приводной
 ремень
 двигателя (ремень водяного насоса)
 на наличие трещин или ослабления.
 
 ### Проверьте
-`livan_x3_pro_ru_8222e5de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 радиатор,
 шланги
 и
@@ -21272,14 +20008,12 @@ W5W
 жидкости.
 
 ### Однако
-`livan_x3_pro_ru_f89d6150` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 если
 из
 работающего кондиционера падают
 капли воды, это нормально.
 
 ### 4. Если
-`livan_x3_pro_ru_6cc79ae8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:190 | doc_type:owners_manual
 ремень
 привода
 двигателя
@@ -21302,7 +20036,6 @@ W5W
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_d6939d47` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:190 | doc_type:owners_manual
 для проведения ремонта.
 5. Если
 нет
@@ -21327,7 +20060,6 @@ W5W
 типа.
 
 ### Для получения информации о методе
-`livan_x3_pro_ru_43a69122` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 долива
 см.
 раздел
@@ -21342,7 +20074,6 @@ W5W
 обслуживаниее.
 
 ### 6. После
-`livan_x3_pro_ru_c6fd5303` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 того,
 как
 температура
@@ -21367,7 +20098,6 @@ W5W
 отметками
 
 ### MAX
-`livan_x3_pro_ru_9dc633df` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 и
 MIN.
 Сильные
@@ -21382,13 +20112,11 @@ MIN.
 Пожалуйста, немедленно обратитесь
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_e131ee87` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 188
 в центр технического обслуживания
 LIVAN для проведения проверки.
 
 ### 7. Летом
-`livan_x3_pro_ru_2f3d979a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:191 | doc_type:owners_manual
 после
 стоянки
 вентилятор
@@ -21423,7 +20151,6 @@ LIVAN для проведения проверки.
 выходить пар.
 
 ### Держите руки и одежду подальше от
-`livan_x3_pro_ru_339ce75d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:191 | doc_type:owners_manual
 охлаждающего
 вентилятора
 и
@@ -21446,7 +20173,6 @@ LIVAN для проведения проверки.
 радиатора.
 
 ### Выбрасываемый
-`livan_x3_pro_ru_b3d7eedc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 высокотемпературный
 пар
 и
@@ -21458,7 +20184,6 @@ LIVAN для проведения проверки.
 (ЭРАГЛОНАСС)*
 1. Общие сведения
 ### ЭРА-ГЛОНАС
-`livan_x3_pro_ru_63c5c5bc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 предназначена для автоматического
 (при
 аварии)
@@ -21469,7 +20194,6 @@ LIVAN для проведения проверки.
 служб
 
 ### (ЭОС),
-`livan_x3_pro_ru_018f3a10` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 передачи
 минимального набора данных (МНД)
 с описанием автомобиля, координат
@@ -21497,7 +20221,6 @@ LIVAN для проведения проверки.
 работы системы.
 
 ### 1. Режим «Выключенае – система
-`livan_x3_pro_ru_39d309ff` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 находится
 в
 данном
@@ -21516,7 +20239,6 @@ LIVAN для проведения проверки.
 зажигания.
 
 ### Переход
-`livan_x3_pro_ru_334b83d4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 в
 режим
 «Выключенае из
@@ -21530,7 +20252,6 @@ LIVAN для проведения проверки.
 Режим
 
 ### «ЭРАе
-`livan_x3_pro_ru_244ed1f6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 –
 система
 осуществляет
@@ -21544,7 +20265,6 @@ LIVAN для проведения проверки.
 событий
 
 ### ДТП
-`livan_x3_pro_ru_9774a6ed` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 в
 автоматическом
 режиме
@@ -21574,7 +20294,6 @@ LIVAN для проведения проверки.
 передачи
 
 ### Процедура
-`livan_x3_pro_ru_c75a2f11` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:191 | doc_type:owners_manual
 «Экстренный
 вызове
 должна
@@ -21602,7 +20321,6 @@ LIVAN для проведения проверки.
 вызове, инициированного в ручном
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_65317b4e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 6
 8
 7
@@ -21623,7 +20341,6 @@ LIVAN для проведения проверки.
 соединения.
 
 ### При автоматическом инициировании
-`livan_x3_pro_ru_2310a945` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 режима «Экстренный вызове система
 перейдет
 в
@@ -21646,7 +20363,6 @@ LIVAN для проведения проверки.
 системы оператором системы «ЭРА
 
 ### ГЛОНАССе.
-`livan_x3_pro_ru_2e00e410` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 Для
 входа
 в
@@ -21659,13 +20375,11 @@ LIVAN для проведения проверки.
 секунд.
 
 ### Система
-`livan_x3_pro_ru_255fb961` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 будет
 перезагружена и перейдет в режим
 тестирования.
 
 ### В
-`livan_x3_pro_ru_e2748d30` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:192 | doc_type:owners_manual
 режиме
 тестирования
 индикатор
@@ -21704,7 +20418,6 @@ LIVAN для проведения проверки.
 передачи
 
 ### МНД с результатами тестирования
-`livan_x3_pro_ru_ad65a15b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 изделия
 оператору
 системы;
@@ -21718,7 +20431,6 @@ LIVAN для проведения проверки.
 указанного в настройках изделия.
 
 ### Динамик расположен под накладкой в
-`livan_x3_pro_ru_38cf2ec6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 левой части приборной панели.
 В случае, если изделие диагностировало
 неисправность внутренних компонентов,
@@ -21728,7 +20440,6 @@ LIVAN для проведения проверки.
 авторизованный сервисный центр LIVAN.
 
 ### УВЭОС
-`livan_x3_pro_ru_e3171678` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:192 | doc_type:owners_manual
 представлен
 в
 электронном
@@ -21745,7 +20456,6 @@ QR
 "Паспорт УВЭОС"
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_c0ea43c9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 190
 Внезапная
 остановка
@@ -21764,7 +20474,6 @@ QR
 обочине.
 
 ### 2. Включите
-`livan_x3_pro_ru_c6213367` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:193 | doc_type:owners_manual
 аварийные
 сигнальные
 лампы.
@@ -21794,14 +20503,12 @@ QR
 тормозить будет труднее, чем обычно.
 
 ### Если автомобиль застрял
-`livan_x3_pro_ru_ac3da334` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 Если автомобиль застрял в снегу, грязи,
 песке или на других мягких поверхностях,
 выполните следующие действия, чтобы
 вытащить автомобиль:
 
 ### 1. Поверните
-`livan_x3_pro_ru_ea0956db` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 руль
 влево
 и
@@ -21813,7 +20520,6 @@ QR
 переднего колеса.
 
 ### 2. Проезжайте несколько раз вперед и
-`livan_x3_pro_ru_e318da18` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 назад,
 максимально
 уменьшая
@@ -21821,14 +20527,12 @@ QR
 на педаль акселератора.
 
 ### 3. Если вы не можете выбраться после
-`livan_x3_pro_ru_173617a1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 нескольких
 попыток,
 необходимо
 буксировать автомобиль.
 
 ### Прежде
-`livan_x3_pro_ru_b907c130` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 чем
 вытаскивать
 застрявший
@@ -21886,7 +20590,6 @@ QR
 буксировку или другие методы.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_e455341d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 7
 8
 6
@@ -21925,7 +20628,6 @@ QR
 состоянии.
 
 ### Гарантия
-`livan_x3_pro_ru_f067c760` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 на
 автомобиль
 не
@@ -21935,7 +20637,6 @@ QR
 технического обслуживания.
 
 ### Правильное техническое обслуживание
-`livan_x3_pro_ru_efac7c76` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 автомобиля
 не
 только
@@ -21955,7 +20656,6 @@ QR
 важны.
 
 ### Неправильное
-`livan_x3_pro_ru_96bd4c0e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 техническое
 обслуживание
 автомобиля
@@ -21967,12 +20667,10 @@ QR
 воздуха.
 
 ### Неправильный уровень жидкостей или
-`livan_x3_pro_ru_6c8c78ed` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 неправильное давление в шинах может
 увеличить объем выбросов автомобиля.
 
 ### Чтобы защитить окружающую среду и
-`livan_x3_pro_ru_3825a088` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 поддерживать
 автомобиль
 в
@@ -21983,7 +20681,6 @@ QR
 обслуживать его.
 
 ### Если автомобиль эксплуатируется
-`livan_x3_pro_ru_b24fd25d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 в
 указанных
 ниже
@@ -22004,7 +20701,6 @@ QR
 •
 
 ### Автомобиль
-`livan_x3_pro_ru_b29dd327` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 эксплуатируется
 на
 короткие расстояния (менее 10 км) в
@@ -22013,7 +20709,6 @@ QR
 •
 
 ### Автомобиль в течение длительного
-`livan_x3_pro_ru_279d1039` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 времени
 эксплуатируется
 в
@@ -22028,7 +20723,6 @@ QR
 •
 
 ### Чрезмерная работа на холостом ходу
-`livan_x3_pro_ru_7248af33` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 или
 длительная
 езда
@@ -22038,7 +20732,6 @@ QR
 •
 
 ### Частое
-`livan_x3_pro_ru_92dcf5e1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 вождение
 на
 высокой
@@ -22049,7 +20742,6 @@ QR
 •
 
 ### Частое
-`livan_x3_pro_ru_92dcf5e1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 вождение
 с
 постоянными
@@ -22060,7 +20752,6 @@ QR
 •
 
 ### Частое вождение по песчаным или
-`livan_x3_pro_ru_b206e103` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 пыльным дорогам;
 •
 Частое
@@ -22080,7 +20771,6 @@ QR
 •
 
 ### Применение
-`livan_x3_pro_ru_a8ee88e2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 топлива,
 не
 соответствующего
@@ -22097,13 +20787,11 @@ QR
 увеличить
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_46337773` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 192
 частоту технического обслуживания или
 сократить период между ними.
 
 ### Если автомобиль часто ездит на
-`livan_x3_pro_ru_d09b6dbd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 короткие расстояния (менее 10 км)
 или на короткое время в холодных и
 суровых условиях (-15° С), необходимо
@@ -22135,7 +20823,6 @@ QR
 стоянки.
 
 ### Рекомендуется парковать автомобиль в
-`livan_x3_pro_ru_1779c656` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 теплом месте, защищенном от ветра,
 если
 он
@@ -22157,7 +20844,6 @@ QR
 -
 
 ### 35° С
-`livan_x3_pro_ru_9c177ef0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:195 | doc_type:owners_manual
 -
 предел
 температуры
@@ -22187,7 +20873,6 @@ QR
 усилием.
 
 ### Запуск
-`livan_x3_pro_ru_4350387b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 при
 температуре ниже - 35° С не удастся. В
 очень холодных районах (- 30°С и ниже)
@@ -22196,7 +20881,6 @@ QR
 эксплуатацию.
 
 ### Программа
-`livan_x3_pro_ru_64164e14` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 обслуживания
 во
 время использования
@@ -22214,7 +20898,6 @@ QR
 различаются.
 
 ### Водителю
-`livan_x3_pro_ru_654ddf38` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 может
 потребоваться
 увеличить частоту осмотров и замен.
@@ -22240,7 +20923,6 @@ QR
 обслуживания
 
 ### Данный план технического обслуживания
-`livan_x3_pro_ru_0623f63c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 распространяется
 на
 следующие
@@ -22271,7 +20953,6 @@ QR
 двигателя и вождениее.
 
 ### Операции
-`livan_x3_pro_ru_1ac4fbee` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 по
 техническому
 обслуживанию автомобиля сложны
@@ -22281,7 +20962,6 @@ QR
 опасны.
 
 ### Выполняя
-`livan_x3_pro_ru_2794a46c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 некоторые
 работы
 по
@@ -22295,7 +20975,6 @@ QR
 травмы.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_b6830536` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 7
 8
 6
@@ -22320,7 +20999,6 @@ QR
 самостоятельно.
 
 ### В
-`livan_x3_pro_ru_9fe2c4b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 противном случае обратитесь в центр
 технического обслуживания LIVAN.
 При
@@ -22348,7 +21026,6 @@ QR
 требуется.
 
 ### Рекомендуется
-`livan_x3_pro_ru_b0c6e67a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 использовать
 оригинальные
 запчасти,
@@ -22356,7 +21033,6 @@ QR
 обслуживания LIVAN.
 
 ### Реестр
-`livan_x3_pro_ru_c72ef47d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 технических
 обслуживаний
 Подробную
@@ -22379,7 +21055,6 @@ QR
 обслуживании.
 
 ### Этот автомобиль оснащен устройством
-`livan_x3_pro_ru_7e762e42` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 контроля
 выбросов
 и
@@ -22424,7 +21099,6 @@ QR
 показатели выбросов автомобиля.
 
 ### Техническое
-`livan_x3_pro_ru_633c1fa0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 обслуживание
 автовладельцем
 Если
@@ -22450,7 +21124,6 @@ QR
 обслуживания LIVAN.
 
 ### В
-`livan_x3_pro_ru_9fe2c4b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 дополнение
 к
 техническому
@@ -22469,7 +21142,6 @@ QR
 рекомендаций.
 
 ### Ежедневный осмотр
-`livan_x3_pro_ru_997ab1b5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 •
 Функционал фар, звукового сигнала,
 дворников, омывателей и сигнальных
@@ -22477,7 +21149,6 @@ QR
 •
 
 ### Функционал
-`livan_x3_pro_ru_0107785a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:196 | doc_type:owners_manual
 ремня
 безопасности
 и
@@ -22490,7 +21161,6 @@ QR
 Проверьте внешний вид шин.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_19ae7205` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:196 | doc_type:owners_manual
 194
 Еженедельный осмотр
 •
@@ -22502,7 +21172,6 @@ QR
 •
 
 ### Уровень
-`livan_x3_pro_ru_1366f7fe` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 жидкости
 омывателя
 ветрового стекла.
@@ -22511,7 +21180,6 @@ QR
 •
 
 ### Работа системы кондиционирования
-`livan_x3_pro_ru_15612b46` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:197 | doc_type:owners_manual
 воздуха.
 Если автомобиль часто и в течение
 длительного
@@ -22525,14 +21193,12 @@ QR
 проверять моторное масло.
 
 ### Восемь
-`livan_x3_pro_ru_a957b577` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 правил
 предотвращения
 случайных
 возгораний в автомобиле
 
 ### 1. Запрещается
-`livan_x3_pro_ru_55feb948` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 хранить
 легковоспламеняющиеся
 вещества
@@ -22541,7 +21207,6 @@ QR
 автомобиле.
 
 ### Легковоспламеняющиеся
-`livan_x3_pro_ru_62aec767` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 и
 взрывоопасные
 материалы
@@ -22551,7 +21216,6 @@ QR
 вызвать пожар.
 
 ### 2. Не
-`livan_x3_pro_ru_d0b91002` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 допускайте
 прямого
 контакта
@@ -22565,7 +21229,6 @@ QR
 возникнет пожар.
 
 ### 3. Запрещается
-`livan_x3_pro_ru_43de2984` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:197 | doc_type:owners_manual
 установка
 других
 декоративных фонарей, отличных от
@@ -22585,7 +21248,6 @@ QR
 нагрузки, что приведет к пожару.
 
 ### 4. При
-`livan_x3_pro_ru_892c66c2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 модификации
 автомобиля
 механической
@@ -22602,7 +21264,6 @@ CD
 возгоранию.
 
 ### 5. Запрещается
-`livan_x3_pro_ru_9c5c0114` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 использование
 ламп,
 отличающихся
@@ -22616,7 +21277,6 @@ CD
 и это может привести к возгоранию.
 
 ### 6. Запрещается нажимать педаль газа в
-`livan_x3_pro_ru_189c5702` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 течение
 длительного
 времени
@@ -22628,7 +21288,6 @@ CD
 перегреется, что приведет к пожару,
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_a6f2d82e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:197 | doc_type:owners_manual
 7
 8
 6
@@ -22647,7 +21306,6 @@ CD
 топливного бака..
 
 ### 7. Моторный отсек
-`livan_x3_pro_ru_9d784d63` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:198 | doc_type:owners_manual
 загрязнен
 маслом
 (необходим
@@ -22660,7 +21318,6 @@ CD
 моторном отсеке.
 
 ### 8. После курения убедитесь, что окурок
-`livan_x3_pro_ru_1b995f4d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 полностью
 погас.
 Если
@@ -22672,7 +21329,6 @@ CD
 случиться пожар.
 
 ### Токсичные жидкости
-`livan_x3_pro_ru_c4053f7b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 Жидкости, используемые в автомобиле,
 токсичны, их нельзя проглатывать или
 допускать
@@ -22682,7 +21338,6 @@ CD
 раны.
 
 ### К
-`livan_x3_pro_ru_8bfbfd5f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:198 | doc_type:owners_manual
 токсичным
 жидкостям
 относятся:
@@ -22696,7 +21351,6 @@ CD
 жидкость и т.д.
 
 ### В
-`livan_x3_pro_ru_88b139b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 целях
 безопасности
 водителя
@@ -22708,7 +21362,6 @@ CD
 и контейнерах.
 
 ### Использованное
-`livan_x3_pro_ru_2aba34ca` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:198 | doc_type:owners_manual
 моторное
 масло
 Длительный контакт с моторным маслом
@@ -22723,7 +21376,6 @@ CD
 врачу.
 
 ### Отработанное
-`livan_x3_pro_ru_f192e712` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:198 | doc_type:owners_manual
 моторное
 масло
 нельзя
@@ -22735,7 +21387,6 @@ CD
 окружающую среду.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_63feb879` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:198 | doc_type:owners_manual
 196
 Моторный отсек
 Капот моторного отсека
@@ -22745,13 +21396,11 @@ CD
 отсека
 
 ### 1. Потяните ручку открывания капота
-`livan_x3_pro_ru_9e3b5342` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:199 | doc_type:owners_manual
 внутри автомобиля. Он расположен
 под приборной панелью со стороны
 водителя в автомобиле.
 
 ### 2. Потяните
-`livan_x3_pro_ru_ec603b49` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:199 | doc_type:owners_manual
 за
 рукоятку
 предохранительного крюка капота по
@@ -22763,7 +21412,6 @@ CD
 посередине решетки радиатора.
 
 ### 4. Снимите опорный стержень капота и
-`livan_x3_pro_ru_cdb73b71` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:199 | doc_type:owners_manual
 установите на него капот.
 Закрытие
 капота
@@ -22771,7 +21419,6 @@ CD
 отсека
 
 ### Прежде
-`livan_x3_pro_ru_c7bd0230` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:199 | doc_type:owners_manual
 чем
 закрыть
 капот,
@@ -22792,7 +21439,6 @@ CD
 закрыты.
 
 ### Вставьте
-`livan_x3_pro_ru_2105e018` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:199 | doc_type:owners_manual
 опорный
 стержень
 капота
@@ -22834,7 +21480,6 @@ CD
 травмам и повреждению имущества.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_d69dbd46` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:199 | doc_type:owners_manual
 7
 8
 6
@@ -22849,7 +21494,6 @@ CD
 1.
 
 ### Расширительный
-`livan_x3_pro_ru_15d72193` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:200 | doc_type:owners_manual
 бачок
 охлаждающей жидкости двигателя
 5.
@@ -22859,7 +21503,6 @@ CD
 6.
 
 ### Воздушный фильтр
-`livan_x3_pro_ru_e7ed3af8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:200 | doc_type:owners_manual
 3.
 Бачок для тормозной жидкости
 7.
@@ -22867,7 +21510,6 @@ CD
 4.
 
 ### Блок предохранителей в моторном
-`livan_x3_pro_ru_55d7c402` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:200 | doc_type:owners_manual
 отсеке
 8.
 Бачок жидкости стеклоомывателя
@@ -22878,7 +21520,6 @@ CD
 чего могут возникнуть термические повреждения.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_2aa9b8f3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:200 | doc_type:owners_manual
 198
 Моторное
 масло
@@ -22888,7 +21529,6 @@ CD
 масла
 
 ### Моторное
-`livan_x3_pro_ru_ff3cde49` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 масло
 и
 масляный
@@ -22939,12 +21579,10 @@ CD
 рукоятку.
 
 ### Чтобы определить расположение щупа
-`livan_x3_pro_ru_1b1145ff` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 для измерения уровня масла в двигателе
 см. «Моторный отсеке.
 
 ### 1. Выключите двигатель и подождите
-`livan_x3_pro_ru_78ce53eb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 несколько
 минут,
 пока
@@ -22964,13 +21602,11 @@ CD
 уровень.
 
 ### 2. Вытащите масляный щуп двигателя,
-`livan_x3_pro_ru_cc099c40` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 протрите его бумажным полотенцем
 или тканью, а затем вставьте обратно
 до упора.
 
 ### 3. Снова
-`livan_x3_pro_ru_fcdc3729` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 вытащите
 масляный
 щуп
@@ -22982,7 +21618,6 @@ CD
 масла не был ниже отметки MIN.
 
 ### 4. Если уровень моторного масла ниже
-`livan_x3_pro_ru_1f1becae` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 отметки
 MIN,
 отвинтите
@@ -23000,7 +21635,6 @@ MIN,
 измерения уровня.
 
 ### 5. Подождите несколько минут и снова
-`livan_x3_pro_ru_1e90c55b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 проверьте
 уровень.
 При
@@ -23011,7 +21645,6 @@ MIN,
 моторного масла.
 
 ### 6. Наконец,
-`livan_x3_pro_ru_d06238ab` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 убедитесь,
 что
 маслоизмерительный щуп двигателя
@@ -23041,7 +21674,6 @@ MIN,
 и техническому обслуживанию.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_e6fc8919` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 7
 8
 6
@@ -23063,7 +21695,6 @@ MIN,
 главе «Технические данныее.
 
 ### Утилизируйте
-`livan_x3_pro_ru_00e2cfe5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:202 | doc_type:owners_manual
 отработанное
 моторное масло в соответствии с
 применимыми
@@ -23073,7 +21704,6 @@ MIN,
 окружающей среды.
 
 ### Воздушный
-`livan_x3_pro_ru_0c103b09` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:202 | doc_type:owners_manual
 фильтр/
 фильтрующий
 элемент
@@ -23089,7 +21719,6 @@ MIN,
 части.
 
 ### Когда следует проверять воздушный
-`livan_x3_pro_ru_8f3ae796` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 фильтрующий элемент двигателя
 Периодичность
 проверки
@@ -23099,7 +21728,6 @@ MIN,
 обслуживанию".
 
 ### Если вы хотите проверить воздушный
-`livan_x3_pro_ru_18f7dc60` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 фильтрующий элемент, снимите его с
 автомобиля
 и
@@ -23115,7 +21743,6 @@ MIN,
 новый.
 
 ### Регулярно
-`livan_x3_pro_ru_58503027` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 очищайте
 воздушный
 фильтрующий
@@ -23128,14 +21755,12 @@ MIN,
 эксплуатации.
 
 ### Замена воздушного фильтрующего
-`livan_x3_pro_ru_a5b072a3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 элемента двигателя
 1. Ослабьте винты вокруг верхней части
 корпуса воздушного фильтрующего
 элемента.
 
 ### 2. Откройте
-`livan_x3_pro_ru_a4f98ea2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 рукой
 верхнюю
 часть
@@ -23146,14 +21771,12 @@ MIN,
 фильтрующий элемент.
 
 ### 4. Вставьте
-`livan_x3_pro_ru_2f0de929` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 фильтрующий
 элемент
 обратно в корпус и отрегулируйте
 положение.
 
 ### 5. Затяните винты, чтобы убедиться, что
-`livan_x3_pro_ru_30ced378` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:202 | doc_type:owners_manual
 крышка зафиксирована.
 Воздушный фильтр может очищать
 воздух и предотвращать попадание
@@ -23172,7 +21795,6 @@ MIN,
 материальному ущербу.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_37b45b4d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 200
 Система охлаждения
 Информация
@@ -23181,7 +21803,6 @@ MIN,
 охлаждения
 
 ### Роль системы охлаждения заключается в
-`livan_x3_pro_ru_d989055a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 обеспечении
 наиболее
 подходящей
@@ -23189,7 +21810,6 @@ MIN,
 двигателя.
 
 ### Интервал
-`livan_x3_pro_ru_d798bf5c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:203 | doc_type:owners_manual
 замены
 охлаждающей
 жидкости см. в «Руководстве по гарантии
@@ -23219,7 +21839,6 @@ MIN,
 ожог.
 
 ### Запрещается запускать двигатель при
-`livan_x3_pro_ru_cef1488f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:203 | doc_type:owners_manual
 утечке
 охлаждающей
 жидкости.
@@ -23232,7 +21851,6 @@ MIN,
 материальному ущербу.
 
 ### Утилизируйте
-`livan_x3_pro_ru_577739b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 охлаждающую
 жидкость
 в
@@ -23245,7 +21863,6 @@ MIN,
 окружающей среды.
 
 ### Проверка
-`livan_x3_pro_ru_4fcf8602` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 охлаждающей
 жидкости
 При
@@ -23280,7 +21897,6 @@ MIN,
 отметки
 
 ### MIN,
-`livan_x3_pro_ru_58ddc6d1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 заполните
 расширительный
 бачок
@@ -23292,7 +21908,6 @@ MIN,
 жидкости
 
 ### Запрещается
-`livan_x3_pro_ru_2cf58cfe` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 открывать
 герметичную
 крышку
@@ -23309,7 +21924,6 @@ MIN,
 бачка и верхний шланг радиатора.
 
 ### Герметичная
-`livan_x3_pro_ru_6aa586af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 крышка
 расширительного
 бачка
@@ -23326,7 +21940,6 @@ MIN,
 201
 
 ### 1. Медленно
-`livan_x3_pro_ru_17abc56e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 откройте
 герметичную
 крышку радиатора. Если вы слышите
@@ -23337,7 +21950,6 @@ MIN,
 внутри все еще есть давление.
 
 ### 2. Продолжайте открывать герметичную
-`livan_x3_pro_ru_b9d6eb80` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 крышку и снимите ее.
 Под давлением пара и кипящей
 жидкости
@@ -23383,12 +21995,10 @@ MIN,
 охлаждающей жидкости.
 
 ### 3. Медленно заливайте охлаждающую
-`livan_x3_pro_ru_4c69d84b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 жидкость до тех пор, пока уровень на
 крышке радиатора не упадет.
 
 ### Охлаждающая жидкость содержит
-`livan_x3_pro_ru_43f44a96` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 гликоль.
 Если
 охлаждающая
@@ -23408,7 +22018,6 @@ MIN,
 сертифицированную
 
 ### Повреждения
-`livan_x3_pro_ru_c7392753` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 или
 неисправности,
 вызванные
@@ -23424,7 +22033,6 @@ MIN,
 Компании LIVAN.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_3c545bb2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 202
 Не смешивайте охлаждающие жидкости
 разных
@@ -23433,7 +22041,6 @@ MIN,
 типов.
 
 ### Различные
-`livan_x3_pro_ru_2abfe6f3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:205 | doc_type:owners_manual
 химические
 компоненты,
 такие
@@ -23453,7 +22060,6 @@ MIN,
 жидкости транспортные средства.
 
 ### 4. При
-`livan_x3_pro_ru_a1c0fc77` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:205 | doc_type:owners_manual
 открытой
 верхней
 крышке
@@ -23469,7 +22075,6 @@ MIN,
 нагреваться.
 
 ### Будьте
-`livan_x3_pro_ru_4a8a7e3f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 осторожны
 с
 вентилятором
@@ -23488,7 +22093,6 @@ MIN,
 снизиться.
 
 ### Продолжайте
-`livan_x3_pro_ru_49bfccf9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 медленно
 добавлять
 охлаждающую
@@ -23499,7 +22103,6 @@ MIN,
 упадет.
 
 ### Закройте
-`livan_x3_pro_ru_26344fdd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 герметичную
 крышку.
 Добавляйте
@@ -23521,7 +22124,6 @@ MIN,
 положения между линиями MAX и
 
 ### MIN
-`livan_x3_pro_ru_cc986553` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:205 | doc_type:owners_manual
 расширительного
 бачка
 охлаждающей жидкости.
@@ -23537,13 +22139,11 @@ MIN,
 нанести травмы.
 
 ### 5. Следите за уровнем охлаждающей
-`livan_x3_pro_ru_ca13fd8a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 жидкости в расширительном бачке и
 вовремя
 доливайте.
 
 ### Уровень
-`livan_x3_pro_ru_c68d2f75` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 охлаждающей
 жидкости
 в
@@ -23553,7 +22153,6 @@ MIN,
 находиться между отметками MAX и
 
 ### 6. Установите
-`livan_x3_pro_ru_a3324101` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 на
 место
 крышку
@@ -23584,7 +22183,6 @@ MIN,
 обслуживания как можно скорее.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_57fc6a61` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:205 | doc_type:owners_manual
 7
 8
 6
@@ -23625,7 +22223,6 @@ MIN,
 безопасности вождения.
 
 ### Изношенные тормозные колодки не могут
-`livan_x3_pro_ru_77f6b02d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:206 | doc_type:owners_manual
 эффективно затормаживать автомобиль.
 Степень износа тормозных колодок в
 основном
@@ -23655,7 +22252,6 @@ MIN,
 обслуживанию".
 
 ### Заменяйте тормозную жидкость согласно
-`livan_x3_pro_ru_1dcbadb1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:206 | doc_type:owners_manual
 периодичности
 технического
 обслуживания, указанной в "Руководстве
@@ -23683,7 +22279,6 @@ MIN,
 эффективность торможения.
 
 ### Экстренное торможение не должно
-`livan_x3_pro_ru_43c2299c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:206 | doc_type:owners_manual
 применяться
 при
 движении
@@ -23695,7 +22290,6 @@ MIN,
 дорогам.
 
 ### Перед движением по затяжному спуску
-`livan_x3_pro_ru_d43b11c9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:206 | doc_type:owners_manual
 следует
 перевести
 автомобиль
@@ -23736,7 +22330,6 @@ MIN,
 восстановление тормоза.
 
 ### Обязательно
-`livan_x3_pro_ru_2ba1bc3d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:206 | doc_type:owners_manual
 посетите
 центр
 технического обслуживания LIVAN
@@ -23751,7 +22344,6 @@ MIN,
 торможение.
 
 ### Новые тормозные колодки обладают не
-`livan_x3_pro_ru_4ce996de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:206 | doc_type:owners_manual
 самыми
 лучшими
 фрикционными
@@ -23786,7 +22378,6 @@ MIN,
 происшествий.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_54de8587` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:206 | doc_type:owners_manual
 204
 Ход педали тормоза
 Если педаль тормоза не может вернуться
@@ -23803,7 +22394,6 @@ MIN,
 LIVAN как можно скорее.
 
 ### Звук тормозов
-`livan_x3_pro_ru_2432218b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 Нажмите на педаль тормоза, передние и
 задние
 тормоза
@@ -23830,7 +22420,6 @@ LIVAN как можно скорее.
 снег.
 
 ### Особенно в дождливую и снежную погоду
-`livan_x3_pro_ru_1371033f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 высока
 вероятность,
 что
@@ -23855,7 +22444,6 @@ LIVAN как можно скорее.
 системы.
 
 ### Звук тормозов при трогании с
-`livan_x3_pro_ru_b0fd1b53` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 места
 Звук тормозов при трогании с места или
 звук трения между тормозной колодкой и
@@ -23868,7 +22456,6 @@ LIVAN как можно скорее.
 нормально.
 
 ### Автомобиль
-`livan_x3_pro_ru_dfff27a3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:207 | doc_type:owners_manual
 с
 автоматической коробкой передач при
 трогании с места находится на передаче
@@ -23907,7 +22494,6 @@ D, двигатель вырабатывает движущую
 автомобиля.
 
 ### Звук руля при нажатии педали
-`livan_x3_pro_ru_a8ba8522` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 тормоза на месте
 Когда автомобиль неподвижен, колеса
 прокручиваются при повороте рулевого
@@ -23949,7 +22535,6 @@ D, двигатель вырабатывает движущую
 работу и эксплуатацию автомобиля.
 
 ### Повышенная
-`livan_x3_pro_ru_0823bdd8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 температура
 после
 использования
@@ -23971,7 +22556,6 @@ D, двигатель вырабатывает движущую
 тепло.
 
 ### Нагрев
-`livan_x3_pro_ru_14fd71fa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 тормозного
 диска
 после
@@ -23979,7 +22563,6 @@ D, двигатель вырабатывает движущую
 является нормальным явлением.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_c8c8170f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 7
 8
 6
@@ -23997,7 +22580,6 @@ D, двигатель вырабатывает движущую
 обжечься.
 
 ### Замена
-`livan_x3_pro_ru_518430ad` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 компонентов
 тормозной системы
 Тормозная система автомобилей очень
@@ -24036,7 +22618,6 @@ D, двигатель вырабатывает движущую
 Пункт
 
 ### Единица
-`livan_x3_pro_ru_420eff88` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 измерени
 я
 Величина
@@ -24050,7 +22631,6 @@ D, двигатель вырабатывает движущую
 10,0
 
 ### Минималь
-`livan_x3_pro_ru_d525797b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 ная
 толщина
 передних
@@ -24061,7 +22641,6 @@ D, двигатель вырабатывает движущую
 Пункт
 
 ### Единица
-`livan_x3_pro_ru_420eff88` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 измерени
 я
 Величина
@@ -24075,7 +22654,6 @@ D, двигатель вырабатывает движущую
 9,0
 
 ### Минималь
-`livan_x3_pro_ru_d525797b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 ная
 толщина
 задних
@@ -24086,7 +22664,6 @@ D, двигатель вырабатывает движущую
 Тормозная жидкость
 
 ### Заполните
-`livan_x3_pro_ru_56d0bcee` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 бачок
 тормозной
 жидкости
@@ -24095,7 +22672,6 @@ D, двигатель вырабатывает движущую
 падает по двум причинам:
 
 ### 1. Уровень тормозной жидкости падает
-`livan_x3_pro_ru_3cc2b350` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 из-за нормального износа тормозных
 колодок.
 После
@@ -24105,7 +22681,6 @@ D, двигатель вырабатывает движущую
 может прийти в норму.
 
 ### 2. Также
-`livan_x3_pro_ru_e11480d9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 причиной
 низкого
 уровня
@@ -24118,7 +22693,6 @@ D, двигатель вырабатывает движущую
 тормозной
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_9e801eb5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:208 | doc_type:owners_manual
 206
 гидравлической
 системы.
@@ -24157,13 +22731,11 @@ D, двигатель вырабатывает движущую
 имущества.
 
 ### Поэтому
-`livan_x3_pro_ru_12d355cd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 доливать
 тормозную жидкость можно только между
 отметками
 
 ### MAX
-`livan_x3_pro_ru_3a0ce899` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 и
 MIN
 только
@@ -24174,7 +22746,6 @@ MIN
 гидравлической системы.
 
 ### Добавление тормозной жидкости не
-`livan_x3_pro_ru_82d2bd49` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 решит
 проблему
 утечки.
@@ -24213,7 +22784,6 @@ MIN
 окрашенные поверхности автомобиля.
 
 ### Уровень
-`livan_x3_pro_ru_4b0e8f5c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 тормозной
 жидкости
 всегда
@@ -24224,7 +22794,6 @@ MIN
 MAX и MIN.
 
 ### Использование
-`livan_x3_pro_ru_e4958a32` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 неподходящей
 жидкости
 серьезно
@@ -24233,7 +22802,6 @@ MAX и MIN.
 системы.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_73033367` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:209 | doc_type:owners_manual
 7
 8
 6
@@ -24250,14 +22818,12 @@ MAX и MIN.
 руля
 
 ### Функциональность
-`livan_x3_pro_ru_d1b77eb3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:210 | doc_type:owners_manual
 системы
 рулевого
 управления автомобиля является одной
 из основных характеристик автомобиля.
 
 ### Функциональность
-`livan_x3_pro_ru_d1b77eb3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:210 | doc_type:owners_manual
 системы
 рулевого
 управления
@@ -24273,7 +22839,6 @@ MAX и MIN.
 снижении
 
 ### ДТП
-`livan_x3_pro_ru_7bc59802` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:210 | doc_type:owners_manual
 и
 защите
 личной безопасности водителя.
@@ -24293,7 +22858,6 @@ EPS
 обстоятельствах.
 
 ### В
-`livan_x3_pro_ru_a028246d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:210 | doc_type:owners_manual
 таком
 случае
 снижается
@@ -24315,7 +22879,6 @@ EPS
 руля
 
 ### (EPS)
-`livan_x3_pro_ru_7c6c87e4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:210 | doc_type:owners_manual
 (значит,
 что система уже вошла в режим защиты
 от перегрева), переместите автомобиль в
@@ -24340,7 +22903,6 @@ EPS
 центр технического обслуживания LIVAN.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_ffc01d8a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:210 | doc_type:owners_manual
 208
 Передняя
 комбинированная фара
@@ -24349,7 +22911,6 @@ EPS
 комбинированных фар
 
 ### Передние
-`livan_x3_pro_ru_4802dab6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:211 | doc_type:owners_manual
 комбинированные
 фары
 вентилируются, чтобы приспособиться к
@@ -24365,7 +22926,6 @@ EPS
 конструкцией.
 
 ### Когда через вентиляционное отверстие
-`livan_x3_pro_ru_beb2e417` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:211 | doc_type:owners_manual
 водяной
 пар
 попадает
@@ -24400,7 +22960,6 @@ EPS
 •
 
 ### Присутствует
-`livan_x3_pro_ru_00079ceb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 тонкий
 слой
 туманообразной влаги (без разводов,
@@ -24412,7 +22971,6 @@ EPS
 •
 
 ### Площадь
-`livan_x3_pro_ru_1a02e6e0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 покрытия
 туманообразной
 влагой
@@ -24422,7 +22980,6 @@ EPS
 комбинированной фары менее 50%.
 
 ### Следующие
-`livan_x3_pro_ru_3eec0283` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 ситуации
 недопустимы
 (обычно они вызваны протечкой воды из
@@ -24430,7 +22987,6 @@ EPS
 •
 
 ### Внутри
-`livan_x3_pro_ru_e3b39984` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 передней
 комбинированный
 фары образовалась вода.
@@ -24454,7 +23010,6 @@ EPS
 обслуживания LIVAN.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_bea0720d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 7
 8
 6
@@ -24472,7 +23027,6 @@ EPS
 необслуживаемой
 
 ### АКБ.
-`livan_x3_pro_ru_463669a5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:212 | doc_type:owners_manual
 См.
 главу
 "Моторный отсек" в этом разделе, чтобы
@@ -24492,7 +23046,6 @@ EPS
 службы
 
 ### АКБ
-`livan_x3_pro_ru_07804f0d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 и
 обеспечить нормальную работу бортовой
 электросети, ниже приведены некоторые
@@ -24500,7 +23053,6 @@ EPS
 •
 
 ### Избегайте перезарядки аккумулятора
-`livan_x3_pro_ru_8b4a0008` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 или длительный недозаряд.
 •
 При недостаточном напряжении АКБ
@@ -24513,7 +23065,6 @@ EPS
 •
 
 ### Аккумуляторы следует хранить вдали
-`livan_x3_pro_ru_1a3a3b59` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 от источников тепла и открытого огня,
 а также обеспечивать вентиляцию во
 время
@@ -24548,13 +23099,11 @@ EPS
 •
 
 ### Аккумулятор должен быть неподвижно
-`livan_x3_pro_ru_a70fb262` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 закреплен на транспортном средстве
 во избежание вибрации.
 •
 
 ### Регулярно
-`livan_x3_pro_ru_68219b25` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:212 | doc_type:owners_manual
 проверяйте,
 надежно
 ли
@@ -24581,7 +23130,6 @@ EPS
 разрядки
 
 ### АКБ
-`livan_x3_pro_ru_07804f0d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 во
 избежание
 замерзания электролита.
@@ -24589,7 +23137,6 @@ EPS
 Автомобиль оснащен необслуживаемой
 
 ### АКБ
-`livan_x3_pro_ru_07804f0d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 и
 не
 нуждается
@@ -24602,7 +23149,6 @@ EPS
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_d3d4f2af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 для
 регулярной
 проверки
@@ -24611,7 +23157,6 @@ EPS
 теплоизоляцией АКБ.
 
 ### АКБ
-`livan_x3_pro_ru_07804f0d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
 обязательно
 следует
 осуществлять на устройство аналогичной
@@ -24619,7 +23164,6 @@ EPS
 Для снятия, замены и установки АКБ
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_b0806180` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
 210
 обращайтесь
 в
@@ -24630,7 +23174,6 @@ EPS
 замены
 
 ### АКБ
-`livan_x3_pro_ru_f7d763f9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:213 | doc_type:owners_manual
 передайте
 старое
 устройство
@@ -24656,7 +23199,6 @@ EPS
 транспортировке и хранении.
 
 ### Аккумуляторная
-`livan_x3_pro_ru_a435ef17` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:213 | doc_type:owners_manual
 кислота
 может
 вызвать ожоги, а образующийся газ
@@ -24679,7 +23221,6 @@ EPS
 автомобилем".
 
 ### В состоянии покоя вследствие слабого
-`livan_x3_pro_ru_15a294d6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:213 | doc_type:owners_manual
 потребления тока системой электроцепи
 автомобиля
 аккумулятор
@@ -24694,7 +23235,6 @@ EPS
 отсоединять, чтобы АКБ не разряжалась.
 
 ### Автомобиль
-`livan_x3_pro_ru_18aed3a4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:213 | doc_type:owners_manual
 должен
 храниться
 в
@@ -24715,7 +23255,6 @@ EPS
 старение деталей автомобиля ускорятся.
 
 ### Соблюдайте рекомендации и требования
-`livan_x3_pro_ru_33a3aa08` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:213 | doc_type:owners_manual
 "Руководства по гарантии и техническому
 обслуживанию" и проводите регулярное
 и
@@ -24724,7 +23263,6 @@ EPS
 обслуживание автомобиля.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_1431d44b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:213 | doc_type:owners_manual
 7
 8
 6
@@ -24740,7 +23278,6 @@ EPS
 щетки стеклоочистителя
 
 ### Очиститель
-`livan_x3_pro_ru_b721b7d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:214 | doc_type:owners_manual
 Какой
 очиститель
 используется
@@ -24774,7 +23311,6 @@ EPS
 незамерзающей жидкости.
 
 ### Откройте крышку с символом очистителя
-`livan_x3_pro_ru_e7ee621e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:214 | doc_type:owners_manual
 и
 добавьте
 достаточное
@@ -24837,7 +23373,6 @@ EPS
 полного заполнения.
 
 ### В систему омывания лобового стекла не
-`livan_x3_pro_ru_f65b2cc7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:214 | doc_type:owners_manual
 допускается
 добавлять
 жидкость
@@ -24855,7 +23390,6 @@ EPS
 автомобиля.
 
 ### Щетка стеклоочистителя
-`livan_x3_pro_ru_bcf8785c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:214 | doc_type:owners_manual
 Жидкости,
 содержащие
 жиры,
@@ -24875,7 +23409,6 @@ EPS
 регулярно проверяйте их состояние.
 
 ### Часто промывайте ветровое стекло и
-`livan_x3_pro_ru_fd372a67` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:214 | doc_type:owners_manual
 старайтесь
 не
 использовать
@@ -24885,7 +23418,6 @@ EPS
 сократит срок ее службы.
 
 ### Если обнаружено затвердевание резины
-`livan_x3_pro_ru_7a39d097` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:214 | doc_type:owners_manual
 или
 трещины,
 или
@@ -24898,7 +23430,6 @@ EPS
 стеклоочистителя.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_0c946e9b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:214 | doc_type:owners_manual
 212
 Регулярно промывайте ветровое стекло
 одобренным
@@ -24910,7 +23441,6 @@ EPS
 убедитесь, что лобовое стекло очищено.
 
 ### Используйте
-`livan_x3_pro_ru_3ad75d01` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 только
 щетки
 стеклоочистителя, которые совпадают по
@@ -24944,7 +23474,6 @@ EPS
 стекла.
 
 ### Замена
-`livan_x3_pro_ru_1e4b2afa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 щетки
 стеклоочистителя
 переднего
@@ -24952,7 +23481,6 @@ EPS
 Модель 1
 
 ### Требуется
-`livan_x3_pro_ru_9e43a7c9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 проверить
 щетку
 стеклоочистителя
@@ -24971,7 +23499,6 @@ EPS
 стекла:
 
 ### 1. Когда
-`livan_x3_pro_ru_22ab1979` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 состояние
 ключа
 зажигания
@@ -24990,7 +23517,6 @@ EPS
 режим обслуживания.
 
 ### 2. Отведите щетку стеклоочистителя от
-`livan_x3_pro_ru_b61de409` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 ветрового стекла.
 3. Нажмите
 на
@@ -25000,7 +23526,6 @@ EPS
 изображении.
 
 ### 4. Потяните
-`livan_x3_pro_ru_bfb3652a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 щетку
 по
 направлении
@@ -25012,7 +23537,6 @@ EPS
 рычага стеклоочистителя.
 
 ### 5. Отсоедините
-`livan_x3_pro_ru_4b4b25ab` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 щетку
 стеклоочистителя.
 Рычаг
@@ -25038,7 +23562,6 @@ EPS
 стеклу.
 
 ### 6. Установите щетки стеклоочистителя в
-`livan_x3_pro_ru_4d59d3d7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 порядке, обратном шагам 2–4.
 Модель 2
 Ремонт и обслуживание
@@ -25053,7 +23576,6 @@ EPS
 213
 
 ### Требуется
-`livan_x3_pro_ru_f8708dc0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 проверить
 щетку
 стеклоочистителя
@@ -25067,7 +23589,6 @@ EPS
 стекла:
 
 ### 1. Когда
-`livan_x3_pro_ru_56460d3c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 состояние
 переключателя
 зажигания изменится с ON на OFF/
@@ -25082,7 +23603,6 @@ ACC, в течение 30 секунд переведите
 режим обслуживания.
 
 ### 2. Отведите
-`livan_x3_pro_ru_078b8485` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 щетку
 стеклоочистителя
 переднего
@@ -25117,7 +23637,6 @@ ACC, в течение 30 секунд переведите
 автомобиля.
 
 ### 3. Нажав
-`livan_x3_pro_ru_34c0200a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 на
 фиксатор
 щетки
@@ -25126,7 +23645,6 @@ ACC, в течение 30 секунд переведите
 щетку из рычага стеклоочистителя.
 
 ### 4. Отсоедините
-`livan_x3_pro_ru_9e42022f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 щетку
 стеклоочистителя.
 Рычаг
@@ -25150,13 +23668,11 @@ ACC, в течение 30 секунд переведите
 автомобиля.
 
 ### 5. Установите щетки стеклоочистителя в
-`livan_x3_pro_ru_73223745` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 порядке, обратном шагам 2–4.
 Ремонт и обслуживание
 214
 
 ### Замена
-`livan_x3_pro_ru_3fc9866d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 щетки
 стеклоочистителя
 заднего
@@ -25175,7 +23691,6 @@ ACC, в течение 30 секунд переведите
 стекла:
 
 ### 1. Отведите
-`livan_x3_pro_ru_2a2b4684` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 щетку
 стеклоочистителя
 заднего
@@ -25185,7 +23700,6 @@ ACC, в течение 30 секунд переведите
 поверхности стекла.
 
 ### 2. Вращайте
-`livan_x3_pro_ru_29a5e634` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 щетку
 стеклоочистителя
 заднего
@@ -25196,12 +23710,10 @@ ACC, в течение 30 секунд переведите
 щетку.
 
 ### 3. Повторите шаги с 1 по 2, чтобы
-`livan_x3_pro_ru_4188f704` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 установить щетку стеклоочистителя
 заднего ветрового стекла.
 
 ### Очистка и обслуживание
-`livan_x3_pro_ru_3f3af7cb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 автомобиля
 Очистка кузова
 Частая мойка автомобиля способствует
@@ -25217,7 +23729,6 @@ ACC, в течение 30 секунд переведите
 выключатель.
 
 ### Процедура
-`livan_x3_pro_ru_73cac3dc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 необходимо
 выполнять в прохладном месте, не под
 прямыми
@@ -25281,7 +23792,6 @@ ACC, в течение 30 секунд переведите
 удаления спирта.
 
 ### Чистка
-`livan_x3_pro_ru_9d4726c2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 кузова
 с
 помощью
@@ -25301,13 +23811,11 @@ ACC, в течение 30 секунд переведите
 •
 
 ### Обязательно
-`livan_x3_pro_ru_2cd425d2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
 выполняйте очистку
 в
 строгом соответствии с инструкцией
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_475f2bd5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
 7
 8
 6
@@ -25340,7 +23848,6 @@ ACC, в течение 30 секунд переведите
 поверхности.
 
 ### Сохраняйте
-`livan_x3_pro_ru_f3478c58` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:218 | doc_type:owners_manual
 сопло
 в
 движении,
@@ -25358,7 +23865,6 @@ ACC, в течение 30 секунд переведите
 •
 
 ### Не используйте насадки с множеством
-`livan_x3_pro_ru_2c2aa054` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:218 | doc_type:owners_manual
 отверстий
 для
 очистки
@@ -25420,7 +23926,6 @@ ACC, в течение 30 секунд переведите
 изоляционные материалы.
 
 ### Автоматическая
-`livan_x3_pro_ru_53530a2b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:218 | doc_type:owners_manual
 мойка
 для
 очистки кузова
@@ -25444,7 +23949,6 @@ ACC, в течение 30 секунд переведите
 •
 
 ### Лакокрасочная
-`livan_x3_pro_ru_65b1a430` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:218 | doc_type:owners_manual
 поверхность
 кузова
 достаточно прочная, чтобы выдержать
@@ -25458,7 +23962,6 @@ ACC, в течение 30 секунд переведите
 краску.
 
 ### Степень
-`livan_x3_pro_ru_c797b270` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:218 | doc_type:owners_manual
 воздействия
 в
 основном
@@ -25502,7 +24005,6 @@ ACC, в течение 30 секунд переведите
 кузова автомобиля.
 
 ### Регулярная уборка внутри автомобиля
-`livan_x3_pro_ru_18aaf78a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:218 | doc_type:owners_manual
 способствует улучшению обстановки в
 салоне. Пыль и грязь скапливаются на
 обивке,
@@ -25519,7 +24021,6 @@ ACC, в течение 30 секунд переведите
 могут быстро затвердеть.
 
 ### Используйте небольшую щетку с мягкой
-`livan_x3_pro_ru_9175597a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:218 | doc_type:owners_manual
 щетиной,
 чтобы
 стряхнуть
@@ -25528,7 +24029,6 @@ ACC, в течение 30 секунд переведите
 маленьких кнопок и регуляторов.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_22adca1c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:218 | doc_type:owners_manual
 216
 Для
 очистки внутренних поверхностей
@@ -25582,7 +24082,6 @@ ACC, в течение 30 секунд переведите
 обогреватель заднего стекла.
 
 ### Моющие
-`livan_x3_pro_ru_2d3c97df` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:219 | doc_type:owners_manual
 средства
 содержат
 растворители,
@@ -25601,7 +24100,6 @@ ACC, в течение 30 секунд переведите
 по технике безопасности.
 
 ### При чистке салона автомобиля откройте
-`livan_x3_pro_ru_3f46f3ab` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:219 | doc_type:owners_manual
 двери
 и
 окна,
@@ -25610,7 +24108,6 @@ ACC, в течение 30 секунд переведите
 достаточную вентиляцию.
 
 ### При чистке салона обратите внимание на
-`livan_x3_pro_ru_514cf4b1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:219 | doc_type:owners_manual
 следующее:
 •
 Не используйте лезвия или другие
@@ -25627,7 +24124,6 @@ ACC, в течение 30 секунд переведите
 •
 
 ### Не применяйте силу и не создавайте
-`livan_x3_pro_ru_1d3b2088` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 чрезмерное
 давление
 тряпкой.
@@ -25641,7 +24137,6 @@ ACC, в течение 30 секунд переведите
 •
 
 ### Используйте
-`livan_x3_pro_ru_d485c345` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:219 | doc_type:owners_manual
 только
 мягкое,
 нейтральное
@@ -25680,7 +24175,6 @@ ACC, в течение 30 секунд переведите
 Ткань/напольное покрытие
 
 ### Используйте пылесос с мягкой щеткой
-`livan_x3_pro_ru_a0e7bab3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 для удаления пыли и налета. Для стойких
 пятен попробуйте сначала использовать
 воду или воду с содой. Перед чисткой
@@ -25698,7 +24192,6 @@ ACC, в течение 30 секунд переведите
 размягчиться и впитаться.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_5fe2eec7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 7
 8
 6
@@ -25715,7 +24208,6 @@ ACC, в течение 30 секунд переведите
 Этапы очистки:
 
 ### 1. Смочите чистую безворсовую белую
-`livan_x3_pro_ru_a039364b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 тряпку водой или раствором пищевой
 соды.
 2. Отожмите
@@ -25725,7 +24217,6 @@ ACC, в течение 30 секунд переведите
 лишнюю воду.
 
 ### 3. При
-`livan_x3_pro_ru_cce226a1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 удалении
 пятен
 осторожно
@@ -25733,7 +24224,6 @@ ACC, в течение 30 секунд переведите
 на тряпке не перестанет.
 
 ### 4. Если пятно не удается полностью
-`livan_x3_pro_ru_0d957da6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 стереть, повторите описанные выше
 действия
 с
@@ -25772,7 +24262,6 @@ ACC, в течение 30 секунд переведите
 напольного покрытия.
 
 ### Для удаления пыли можно использовать
-`livan_x3_pro_ru_bf5a13bf` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 кусок мягкой ткани, смоченный водой.
 Для
 более
@@ -25788,7 +24277,6 @@ ACC, в течение 30 секунд переведите
 для уборки кожаных поверхностей.
 
 ### Никогда
-`livan_x3_pro_ru_d0172973` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:220 | doc_type:owners_manual
 не
 используйте
 чистящие
@@ -25815,7 +24303,6 @@ ACC, в течение 30 секунд переведите
 поверхностей.
 
 ### Приборная
-`livan_x3_pro_ru_0f34d30e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:220 | doc_type:owners_manual
 панель
 и
 другие
@@ -25832,7 +24319,6 @@ ACC, в течение 30 секунд переведите
 салона.
 
 ### Некоторые
-`livan_x3_pro_ru_2feb5bc8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 имеющиеся
 в
 продаже
@@ -25845,7 +24331,6 @@ ACC, в течение 30 секунд переведите
 серьезно ухудшить видимость.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_6d82834e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 218
 8
 7
@@ -25861,7 +24346,6 @@ ACC, в течение 30 секунд переведите
 автомобиля
 
 ### Основные массогабаритные параметры автомобиля
-`livan_x3_pro_ru_f240fac9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 Пункт
 Единица
 измерения
@@ -25873,7 +24357,6 @@ LF7154B
 4005
 
 ### Ширина
-`livan_x3_pro_ru_ab7f063e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 автомобиля
 мм
 1760
@@ -25885,7 +24368,6 @@ LF7154B
 1575
 
 ### Ширина колеи
-`livan_x3_pro_ru_69fd104f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 передних колес
 мм
 1468
@@ -25897,7 +24379,6 @@ LF7154B
 1492
 
 ### Межосевое
-`livan_x3_pro_ru_d4bc0046` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 расстояние
 мм
 2480
@@ -25909,7 +24390,6 @@ LF7154B
 трубы и т. д.
 
 ### Технические данные
-`livan_x3_pro_ru_aafb53de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 220
 Параметры
 качества
@@ -25919,7 +24399,6 @@ LF7154B
 измерения
 
 ### Тип привода
-`livan_x3_pro_ru_7093e946` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:223 | doc_type:owners_manual
 -
 Передний
 привод
@@ -25931,7 +24410,6 @@ LF7154B
 5
 
 ### Масса без нагрузки
-`livan_x3_pro_ru_cc50f8e1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 кг
 1 180
 1 215
@@ -25942,7 +24420,6 @@ LF7154B
 755
 
 ### Масса задней оси без
-`livan_x3_pro_ru_25cbb971` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 нагрузки
 кг
 454
@@ -25958,7 +24435,6 @@ LF7154B
 856
 
 ### Масса задней оси с нагрузкой
-`livan_x3_pro_ru_981458b1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 кг
 715
 734
@@ -25969,7 +24445,6 @@ LF7154B
 2-6
 
 ### Свободный ход педали
-`livan_x3_pro_ru_c633e37c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:223 | doc_type:owners_manual
 тормоза
 мм
 5-15
@@ -25986,7 +24461,6 @@ LF7154B
 221
 
 ### Основные
-`livan_x3_pro_ru_3ee976c4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 параметры
 двигателя
 Пункт
@@ -25995,7 +24469,6 @@ LF7154B
 JLY-4G15
 
 ### Тип двигателя
-`livan_x3_pro_ru_96fd1b7d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:224 | doc_type:owners_manual
 -
 Рядный 4цилиндровый с
 водяным
@@ -26006,7 +24479,6 @@ JLY-4G15
 и без наддува
 
 ### Диаметр
-`livan_x3_pro_ru_c8b27d07` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:224 | doc_type:owners_manual
 цилиндра х такт
 мм х мм
 77.8x78.8
@@ -26014,7 +24486,6 @@ JLY-4G15
 Рабочий объем
 
 ### Л
-`livan_x3_pro_ru_5489d86e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 1,498
 1,498
 Степень сжатия
@@ -26028,7 +24499,6 @@ JLY-4G15
 76
 
 ### Номинальная
-`livan_x3_pro_ru_61d4a89a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 скорость
 оборотов
 мощности
@@ -26044,7 +24514,6 @@ JLY-4G15
 5600
 
 ### Максимальный
-`livan_x3_pro_ru_1bc6f9dc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 крутящий момент
 Н*м
 142
@@ -26059,7 +24528,6 @@ JLY-4G15
 4200-4600
 
 ### Скорость
-`livan_x3_pro_ru_ae4295bc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 оборотов при
 холостом ходе
 об./мин.
@@ -26067,7 +24535,6 @@ JLY-4G15
 700±50 (МКП)
 
 ### Порядок
-`livan_x3_pro_ru_80d2e3bf` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 зажигания
 -
 1-3-4-2
@@ -26078,7 +24545,6 @@ JLY-4G15
 Пункт
 
 ### Единица
-`livan_x3_pro_ru_c94ab221` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 измерения
 LF7154
 LF7154B
@@ -26090,7 +24556,6 @@ LF7154B
 ≥160
 
 ### Максимальный
-`livan_x3_pro_ru_a3f41370` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 преодолеваемый
 подъём
 %
@@ -26100,7 +24565,6 @@ LF7154B
 Пункт
 
 ### Общий расход топлива
-`livan_x3_pro_ru_bef1ddbe` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 л/100 км
 7,4
 Уровень выхлопных газов
@@ -26109,7 +24573,6 @@ LF7154
 LF7154B
 
 ### Уровень выхлопных газов
-`livan_x3_pro_ru_a7e5f2cb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 Евро-5
 Евро-5
 Технические данные
@@ -26124,7 +24587,6 @@ LF7154B
 223
 
 ### Модель шин
-`livan_x3_pro_ru_49e609e8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 Пункт
 Параметры
 Спецификация колесных дисков
@@ -26132,7 +24594,6 @@ LF7154B
 Спецификация шин
 
 ### Спецификация шин
-`livan_x3_pro_ru_11463f85` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 16x3.5B
 T125/80 D16
 Величина
@@ -26140,7 +24601,6 @@ T125/80 D16
 дисбаланса шин
 
 ### Колесные диски
-`livan_x3_pro_ru_03684e1a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 Шина
 Величина
 динамического
@@ -26150,7 +24610,6 @@ T125/80 D16
 ≤8г
 
 ### Давление
-`livan_x3_pro_ru_0c00bfed` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 в
 шине
 (холодное
@@ -26159,7 +24618,6 @@ T125/80 D16
 Единица измерения
 
 ### Передние колеса
-`livan_x3_pro_ru_9b2e4603` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 кПа
 220
 Задние колеса
@@ -26170,7 +24628,6 @@ T125/80 D16
 420
 
 ### Технические данные
-`livan_x3_pro_ru_f9db3ba3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 224
 Масло
 Рекомендуемое
@@ -26182,7 +24639,6 @@ T125/80 D16
 Объем
 
 ### Бензин
-`livan_x3_pro_ru_b9610827` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 Пожалуйста, заправляйте топливный
 бак в соответствии с требованиями к
 расходу топлива, указанными на
@@ -26190,14 +24646,12 @@ T125/80 D16
 45 л
 
 ### Моторное масло
-`livan_x3_pro_ru_7d55a32d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:227 | doc_type:owners_manual
 SAE 0W-30，API Уровень качества:
 уровень SL и выше
 4,0 л (сух.)
 3,5 л (жидк.)
 
 ### Жидкость для
-`livan_x3_pro_ru_f3dc527d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 охлаждения
 двигателя
 Охлаждающая жидкость на основе
@@ -26207,7 +24661,6 @@ SAE 0W-30，API Уровень качества:
 5,65±0,3 л
 
 ### CVTF-WCF-1
-`livan_x3_pro_ru_cfa33b46` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:227 | doc_type:owners_manual
 7,2±0,2 л (сух.)
 5,4±0,1 л (жидк.)
 Масло для МКПП
@@ -26215,7 +24668,6 @@ API GLуровень 4 SAE 75W-85
 2±0,15 л
 
 ### Тормозная
-`livan_x3_pro_ru_a3c72a40` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:227 | doc_type:owners_manual
 жидкость
 Соответствует DOT4 или HZY4
 0,47±0,01 л
@@ -26223,62 +24675,40 @@ API GLуровень 4 SAE 75W-85
 стеклоочистителя
 
 ### Используйте воду с жесткостью ниже
-`livan_x3_pro_ru_639d3535` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 205 г/1000 кг или водный раствор с
 соответствующим количеством
 коммерческих добавок
 3,5±0,1 л
 
 ### Хладагент
-`livan_x3_pro_ru_034525f6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 кондиционера
 R134a
 450±20 г
 Технические данные
 Указатель
 
-`livan_x3_pro_ru_33ce0ffa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:228 | doc_type:owners_manual
-
-### Внутреннее освещение
-`livan_x3_pro_ru_76842ef3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
-
-### Внутренний блок
-`livan_x3_pro_ru_02d02918` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
-
-### Выбор детского защитного
-`livan_x3_pro_ru_9c80a83a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
 
 ### Информация о системе
-`livan_x3_pro_ru_1fdc34aa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
 Информация о
 трехкомпонентном
 каталитическом нейтрализаторе
 отработавших газов двигателя
 
-### Проверка охлаждающей
-`livan_x3_pro_ru_507b1a37` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 
 ### Сигнальные и индикаторные
-`livan_x3_pro_ru_d6bd99b3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 Система вызова экстренных
 оперативных служб (ЭРА-
 
 ### Установка детских средств
-`livan_x3_pro_ru_51331bf2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 Установка запасного колеса ........ 172
 
 
-# Manual: livan/x3_pro (1598 chunks)
-<!-- doc_type:owners_manual tier:2 lang:ru -->
-
 ### Предисловие
-`livan_x3_pro_ru_c5096a40` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:2 | doc_type:owners_manual
 Уважаемый владелец автомобиля марки LIVAN,
 Спасибо Вам за доверие, оказанное компании LIVAN, и за выбор автомобиля
 марки
 
 ### LIVAN,
-`livan_x3_pro_ru_c116f6bd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:2 | doc_type:owners_manual
 который
 обеспечит
 вам
@@ -26291,7 +24721,6 @@ R134a
 удовольствия от владения новым автомобилем.
 
 ### Перед началом эксплуатации нового автомобиля внимательно изучите настоящее
-`livan_x3_pro_ru_329095b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:2 | doc_type:owners_manual
 Руководство. Управление автомобилем осуществляйте в строгом соответствии с
 изложенными инструкциями. Это поможет Вам эффективно, правильно и безопасно
 эксплуатировать автомобиль, содержать его в технически исправном состоянии и
@@ -26341,7 +24770,6 @@ R134a
 данное
 
 ### Руководство
-`livan_x3_pro_ru_a07a07fa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:2 | doc_type:owners_manual
 новому
 владельцу.
 Вся
@@ -26380,7 +24808,6 @@ R134a
 1
 
 ### Руководство по
-`livan_x3_pro_ru_c258409d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:4 | doc_type:owners_manual
 эксплуатации
 автомобиля: введение
 и идентификация
@@ -26400,7 +24827,6 @@ R134a
 12 Табличка изготовителя
 
 ### Система контроля и
-`livan_x3_pro_ru_9c8f9878` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:4 | doc_type:owners_manual
 управления
 13 Устройства системы контроля и
 управления
@@ -26455,7 +24881,6 @@ R134a
 65 Рейлинги на крыше
 
 ### Система
-`livan_x3_pro_ru_baf3e5af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:5 | doc_type:owners_manual
 кондиционирования
 воздуха
 67 Отопление, вентиляция и
@@ -26474,7 +24899,6 @@ R134a
 кондиционера
 
 ### Сиденья и устройства
-`livan_x3_pro_ru_9bb4436a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:5 | doc_type:owners_manual
 защиты
 77 Сиденья
 77 Подголовник
@@ -26511,7 +24935,6 @@ R134a
 защиты
 
 ### Запуск двигателя и
-`livan_x3_pro_ru_f85dc919` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:5 | doc_type:owners_manual
 вождение
 8
 7
@@ -26564,7 +24987,6 @@ R134a
 133 Бензиновый сажевый фильтр
 
 ### GPF
-`livan_x3_pro_ru_2aebd10a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:6 | doc_type:owners_manual
 135 Топливная система
 135 Требования к топливу
 136 Безопасность на АЗС
@@ -26590,7 +25012,6 @@ R134a
 145 Антиблокировочная система
 
 ### (ABS)
-`livan_x3_pro_ru_b7b867a9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:6 | doc_type:owners_manual
 4
 146 Электронная система
 контроля устойчивости (ESC)*
@@ -26598,7 +25019,6 @@ R134a
 динамической стабилизации
 
 ### (VDC)*
-`livan_x3_pro_ru_cb533b74` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:7 | doc_type:owners_manual
 147 Гидравлический тормозной
 ассистент (HBA)*
 147 Функция помощи при
@@ -26606,7 +25026,6 @@ R134a
 148 Антипробуксовочная система
 
 ### (TCS)*
-`livan_x3_pro_ru_2c69f2be` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:7 | doc_type:owners_manual
 148 Система помощи при парковке
 148 Система парковочных
 радаров
@@ -26616,7 +25035,6 @@ R134a
 154 Система управления круизконтролем (СС)
 
 ### Неисправности во время
-`livan_x3_pro_ru_db2c87b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:7 | doc_type:owners_manual
 вождения
 157 Устройства предупреждения
 об опасности
@@ -26652,13 +25070,11 @@ R134a
 оперативных служб (ЭРА-
 
 ### ГЛОНАСС)*
-`livan_x3_pro_ru_62ea1fc8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:7 | doc_type:owners_manual
 190 Внезапная остановка
 двигателя
 190 Если автомобиль застрял
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_a571f782` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:7 | doc_type:owners_manual
 191 Техническое обслуживание
 191 Регулярное техническое
 обслуживание
@@ -26693,14 +25109,12 @@ R134a
 207 Электроусилитель руля
 
 ### (EPS)
-`livan_x3_pro_ru_7d3a3d4b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:8 | doc_type:owners_manual
 208 Передняя комбинированная
 фара
 208 Запотевание передних
 комбинированных фар
 
 ### 209 АКБ
-`livan_x3_pro_ru_2bd15e31` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:8 | doc_type:owners_manual
 209 Обслуживание АКБ
 209 Проверка АКБ
 209 Замена АКБ
@@ -26715,7 +25129,6 @@ R134a
 215 Очистка салона
 
 ### Технические данные
-`livan_x3_pro_ru_bd4c8b64` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:8 | doc_type:owners_manual
 219 Основные параметры
 автомобиля
 219 Основные массогабаритные
@@ -26743,7 +25156,6 @@ R134a
 7
 
 ### Руководство
-`livan_x3_pro_ru_84fed64a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 по
 эксплуатации
 Предостережение
@@ -26755,7 +25167,6 @@ R134a
 автомобиля
 
 ### (ABS)
-`livan_x3_pro_ru_ae5e8937` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:10 | doc_type:owners_manual
 при
 необходимости
 экстренного
@@ -26766,7 +25177,6 @@ R134a
 тормоза не легко, а с усилием.
 
 ### 2. В
-`livan_x3_pro_ru_ec03a6a7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 соответствии
 с
 рекомендациями
@@ -26784,7 +25194,6 @@ R134a
 давления в колесах.
 
 ### 3. Пожалуйста,
-`livan_x3_pro_ru_ab48f6e8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 используйте
 масла
 и
@@ -26806,7 +25215,6 @@ R134a
 техническому обслуживанию".
 
 ### 4. В целях безопасности вождения не
-`livan_x3_pro_ru_90a43a32` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 снимайте
 детали
 и
@@ -26827,7 +25235,6 @@ R134a
 повторно.
 
 ### 5. Для
-`livan_x3_pro_ru_6c069e75` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 обеспечения
 Вашей
 безопасности во время управления
@@ -26849,7 +25256,6 @@ R134a
 использованы.
 
 ### 6. Не
-`livan_x3_pro_ru_11dd0f1c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 находитесь
 долгое
 время
@@ -26867,7 +25273,6 @@ R134a
 здоровье.
 
 ### 7. Не
-`livan_x3_pro_ru_54b829d1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 отдыхайте
 и
 не
@@ -26879,7 +25284,6 @@ R134a
 двигателе.
 
 ### Избегайте
-`livan_x3_pro_ru_b696a288` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 запоздалого
 нажатия на педаль акселератора и,
 соответственно,
@@ -26901,7 +25305,6 @@ R134a
 жизни и здоровья.
 
 ### 8. Запрещено
-`livan_x3_pro_ru_7c7cdd19` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 переоборудование
 или
 установка
@@ -26909,7 +25312,6 @@ R134a
 оборудования.
 
 ### Переоборудование
-`livan_x3_pro_ru_0d169469` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 или
 установка
 дополнительного
@@ -26926,7 +25328,6 @@ R134a
 нести ответственности.
 
 ### 9. Не
-`livan_x3_pro_ru_aa5f857e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:10 | doc_type:owners_manual
 следует
 устанавливать
 устройства, которые могут привести к
@@ -26934,7 +25335,6 @@ R134a
 другого электрооборудования.
 
 ### 10. При
-`livan_x3_pro_ru_c9c62efd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 установлении
 дополнительных
 устройств нельзя создавать помех в
@@ -26949,7 +25349,6 @@ R134a
 8
 
 ### 11. "Инструкция
-`livan_x3_pro_ru_69c32a52` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:11 | doc_type:owners_manual
 по
 эксплуатации
 мультимедиа", предназначенная для
@@ -26966,7 +25365,6 @@ R134a
 руководства.
 
 ### Указывает
-`livan_x3_pro_ru_710eee2b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 на
 то,
 что
@@ -26983,7 +25381,6 @@ R134a
 исходу.
 
 ### Необходимо
-`livan_x3_pro_ru_e4184903` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 четко
 следовать
 указанным
@@ -26996,7 +25393,6 @@ R134a
 информацией.
 
 ### Связано
-`livan_x3_pro_ru_73b2a7b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 с
 происшествиями,
 относящимися
@@ -27006,20 +25402,16 @@ R134a
 напряжения.
 
 ### Необходимо
-`livan_x3_pro_ru_e4184903` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 четко
 следовать шагам во избежание удара
 током, что может привести к серьезным
 травмам и летальному исходу.
 
-### Внимание
-`livan_x3_pro_ru_c3d22be8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
-Указывает, что необходимо строго
-соблюдение шагов во избежание
-повреждения автомобиля.
+> ⚠️ **Внимание:** Указывает, что необходимо строго
+> соблюдение шагов во избежание
+> повреждения автомобиля.
 
 ### Указывает на данные для лучшего
-`livan_x3_pro_ru_38c35e36` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 пользования автомобилем.
 Защита окружающей среды
 Указывает
@@ -27032,7 +25424,6 @@ R134a
 окружающей среды.
 
 ### Астериск
-`livan_x3_pro_ru_2cd6001f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 Типографский знак "*" указывает на то,
 что
 перечисленное
@@ -27053,20 +25444,17 @@ R134a
 обеспечен.
 
 ### Данные
-`livan_x3_pro_ru_85aee0a9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 о
 графических
 изображениях
 Описание указанного объекта.
 
 ### Направление движения
-`livan_x3_pro_ru_336a516e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 указанного объекта.
 Направление вращения
 указанного объекта.
 
 ### Указывает на запрещение
-`livan_x3_pro_ru_3cd87543` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 такого действия или
 возникновения такой ситуации.
 Руководство по эксплуатации автомобиля: введение и идентификация
@@ -27082,7 +25470,6 @@ R134a
 9
 
 ### Идентификация
-`livan_x3_pro_ru_9048d629` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 моделей
 автомобиля
 Идентификатор автомобиля
@@ -27108,7 +25495,6 @@ R134a
 коробки передач.
 
 ### 3. Идентификационный код автомобиля
-`livan_x3_pro_ru_6003c0cf` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 (кода VIN)
 Положение
 идентификаторов
@@ -27118,7 +25504,6 @@ R134a
 двигателя
 
 ### Номер двигателя находится в нижней
-`livan_x3_pro_ru_b09d31b3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:12 | doc_type:owners_manual
 части блока цилиндров рядом с коробкой
 передач
 (вид
@@ -27128,7 +25513,6 @@ R134a
 автомобиля).
 
 ### Расположение номера коробки
-`livan_x3_pro_ru_fed49889` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 передач
 Номер механической коробки передач
 находится
@@ -27146,7 +25530,6 @@ R134a
 10
 
 ### Номер автоматической коробки передач
-`livan_x3_pro_ru_41949e94` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 находится
 в
 верхней
@@ -27159,7 +25542,6 @@ R134a
 двигателя.
 
 ### Расположение
-`livan_x3_pro_ru_a0bef9dd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 идентификационного
 кода
 автомобиля (кода VIN)
@@ -27169,7 +25551,6 @@ R134a
 виден через него.
 
 ### На перекладине нижней части правого
-`livan_x3_pro_ru_d43afbe0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:13 | doc_type:owners_manual
 переднего
 сиденья
 также
@@ -27187,7 +25568,6 @@ R134a
 кожух.
 
 ### Идентификационный
-`livan_x3_pro_ru_92a8c0cc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 код
 VIN
 также
@@ -27231,7 +25611,6 @@ VIN на корпусе автомобиля поврежден,
 11
 
 ### Идентификационный
-`livan_x3_pro_ru_5036a2e0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:14 | doc_type:owners_manual
 код
 автомобиля
 (код
@@ -27251,7 +25630,6 @@ VIN)
 кузова, номере и месте производства.
 
 ### Считывание
-`livan_x3_pro_ru_0310e0f4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 идентификационного
 кода
 Код
@@ -27267,7 +25645,6 @@ VIN)
 Этапы проведения считывания:
 
 ### LIVAN
-`livan_x3_pro_ru_938c5aff` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 к
 диагностическому
 интерфейсу OBD;
@@ -27281,7 +25658,6 @@ VIN)
 "разрешить подключение";
 
 ### 4. Автоматическое
-`livan_x3_pro_ru_acbd489a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 считывание
 кода
 VIN.
@@ -27295,7 +25671,6 @@ VIN.
 к повреждению автомобиля.
 
 ### Микроволновое окно
-`livan_x3_pro_ru_36a0be09` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:14 | doc_type:owners_manual
 Регистратор данных (EDR)
 Автомобиль снабжен соответствующим
 государственным
@@ -27349,7 +25724,6 @@ VIN.
 обеспечения
 
 ### ECU
-`livan_x3_pro_ru_0870a686` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 записанных
 EDR
 данных*
@@ -27365,7 +25739,6 @@ ECU
 ECU записанных EDR данных*
 
 ### О
-`livan_x3_pro_ru_f3f79ae8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 применении
 вышеперечисленных
 данных читайте в стандарте GB397322020 "Регистратор данных происшествий
@@ -27380,7 +25753,6 @@ ECU записанных EDR данных*
 таблицах 2 и 3.
 
 ### При возникновении столкновения данные
-`livan_x3_pro_ru_5699d82b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 о текущем происшествии записываются в
 хранилище данных в последовательной
 очередности
@@ -27390,7 +25762,6 @@ ECU записанных EDR данных*
 предыдущие данные.
 
 ### Сохраненные
-`livan_x3_pro_ru_34a9170f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 данные
 могут
 помочь
@@ -27419,7 +25790,6 @@ ECU записанных EDR данных*
 безопасности.
 
 ### В
-`livan_x3_pro_ru_684429d7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 соответствии
 с
 национальными
@@ -27451,7 +25821,6 @@ ECU записанных EDR данных*
 с
 
 ### OBD
-`livan_x3_pro_ru_ea09c9c7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 автомобиля
 или
 устройством
@@ -27462,7 +25831,6 @@ EDR.
 имеют право считывать данные.
 
 ### Способы приобретения устройства для
-`livan_x3_pro_ru_1f1b7b92` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 считывания данных: при возникновении
 такой
 необходимости
@@ -27476,7 +25844,6 @@ LIVAN, чтобы при его посредничестве
 заказать устройство у производителя.
 
 ### Табличка изготовителя располагается в
-`livan_x3_pro_ru_0d08215d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 нижней части центральной стойки справа
 и включает следующие данные:
 •
@@ -27489,7 +25856,6 @@ LIVAN, чтобы при его посредничестве
 •
 
 ### Знак обращения на рынке
-`livan_x3_pro_ru_8f71d361` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 •
 Идентификационный
 номер
@@ -27499,7 +25865,6 @@ LIVAN, чтобы при его посредничестве
 •
 
 ### Максимальная допустимая масса на
-`livan_x3_pro_ru_3a003239` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 переднюю ось
 •
 Максимальная допустимая масса на
@@ -27507,7 +25872,6 @@ LIVAN, чтобы при его посредничестве
 •
 
 ### Страна производитель
-`livan_x3_pro_ru_7d4bfac1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 Руководство по эксплуатации автомобиля: введение и идентификация
 моделей
 2
@@ -27521,7 +25885,6 @@ LIVAN, чтобы при его посредничестве
 13
 
 ### Устройства
-`livan_x3_pro_ru_8193edf8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:16 | doc_type:owners_manual
 системы
 контроля и управления
 Обзор стороны водителя
@@ -27529,7 +25892,6 @@ LIVAN, чтобы при его посредничестве
 1.
 
 ### Внутренняя дверная ручка
-`livan_x3_pro_ru_7e67db1a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:16 | doc_type:owners_manual
 9.
 Кнопка запуска двигателя
 2.
@@ -27537,7 +25899,6 @@ LIVAN, чтобы при его посредничестве
 10.
 
 ### Мультимедийный интерфейс
-`livan_x3_pro_ru_fc157fe4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:16 | doc_type:owners_manual
 3.
 Левый
 дефлектор
@@ -27546,7 +25907,6 @@ LIVAN, чтобы при его посредничестве
 11.
 
 ### Розетка электропитания
-`livan_x3_pro_ru_93ab0985` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:16 | doc_type:owners_manual
 4.
 Отверстие
 для
@@ -27558,7 +25918,6 @@ LIVAN, чтобы при его посредничестве
 5.
 
 ### Комбинированный
-`livan_x3_pro_ru_614500fc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:16 | doc_type:owners_manual
 выключатель
 освещения
 13.
@@ -27568,7 +25927,6 @@ LIVAN, чтобы при его посредничестве
 14.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_b31d63b5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:16 | doc_type:owners_manual
 14
 7.
 Приборная панель
@@ -27580,7 +25938,6 @@ LIVAN, чтобы при его посредничестве
 8.
 
 ### Комбинированный
-`livan_x3_pro_ru_07da1a1e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:17 | doc_type:owners_manual
 переключатель
 стеклоочистителя
 16.
@@ -27589,7 +25946,6 @@ LIVAN, чтобы при его посредничестве
 стеклоподъемником
 
 ### Система контроля и управления
-`livan_x3_pro_ru_9a4bb841` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 2
 8
 7
@@ -27605,7 +25961,6 @@ LIVAN, чтобы при его посредничестве
 10.
 
 ### Мультимедийный интерфейс
-`livan_x3_pro_ru_580147e2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:18 | doc_type:owners_manual
 2.
 Переключатели приборной панели
 11.
@@ -27618,7 +25973,6 @@ LIVAN, чтобы при его посредничестве
 12.
 
 ### Педаль акселератора
-`livan_x3_pro_ru_98a1af42` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:18 | doc_type:owners_manual
 4.
 Отверстие
 для
@@ -27630,7 +25984,6 @@ LIVAN, чтобы при его посредничестве
 5.
 
 ### Комбинированный
-`livan_x3_pro_ru_dc79ce0c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:18 | doc_type:owners_manual
 выключатель
 освещения
 14.
@@ -27640,7 +25993,6 @@ LIVAN, чтобы при его посредничестве
 15.
 
 ### Ручка открывания капота
-`livan_x3_pro_ru_019e3117` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:18 | doc_type:owners_manual
 7.
 Приборная панель
 16.
@@ -27651,7 +26003,6 @@ LIVAN, чтобы при его посредничестве
 8.
 
 ### Включатель зажигания
-`livan_x3_pro_ru_f434aab2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:18 | doc_type:owners_manual
 17.
 Переключатель
 управления
@@ -27662,7 +26013,6 @@ LIVAN, чтобы при его посредничестве
 стеклоочистителя
 
 ### Система контроля и управления
-`livan_x3_pro_ru_827b5530` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:18 | doc_type:owners_manual
 16
 Обзор пассажирской стороны
 Модель 1
@@ -27671,14 +26021,12 @@ LIVAN, чтобы при его посредничестве
 8.
 
 ### Переключатель
-`livan_x3_pro_ru_8ec0ca9f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 управления
 автомобильным окном со стороны
 пассажира спереди
 2.
 
 ### Переключатель знаков аварийной
-`livan_x3_pro_ru_27e4051b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:19 | doc_type:owners_manual
 сигнализации
 9.
 Перчаточный ящик
@@ -27688,7 +26036,6 @@ LIVAN, чтобы при его посредничестве
 10.
 
 ### Ручка перчаточного ящика
-`livan_x3_pro_ru_1a672605` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 4.
 Панель управления кондиционера
 11.
@@ -27699,7 +26046,6 @@ LIVAN, чтобы при его посредничестве
 служб
 
 ### ГЛОНАСС)
-`livan_x3_pro_ru_fe4a563a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 5.
 Отверстие
 для
@@ -27710,7 +26056,6 @@ LIVAN, чтобы при его посредничестве
 Рычаг переключения передач
 
 ### Система контроля и управления
-`livan_x3_pro_ru_a90a7633` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:19 | doc_type:owners_manual
 2
 8
 7
@@ -27728,7 +26073,6 @@ LIVAN, чтобы при его посредничестве
 12.
 
 ### Стояночный тормоз
-`livan_x3_pro_ru_9f7a443d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:20 | doc_type:owners_manual
 7.
 Внутренняя дверная ручка
 Система контроля и управления
@@ -27737,7 +26081,6 @@ LIVAN, чтобы при его посредничестве
 1.
 
 ### Дисплей
-`livan_x3_pro_ru_e50eb0c2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:21 | doc_type:owners_manual
 7.
 Внутренняя дверная ручка
 2.
@@ -27746,14 +26089,12 @@ LIVAN, чтобы при его посредничестве
 8.
 
 ### Переключатель
-`livan_x3_pro_ru_e9407455` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 управления
 автомобильным окном со стороны
 пассажира спереди
 3.
 
 ### Центральный дефлектор системы
-`livan_x3_pro_ru_9af74c22` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:21 | doc_type:owners_manual
 вентиляции и отопления
 9.
 Перчаточный ящик
@@ -27762,7 +26103,6 @@ LIVAN, чтобы при его посредничестве
 10.
 
 ### Ручка перчаточного ящика
-`livan_x3_pro_ru_c8827cfd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 5.
 Отверстие
 для
@@ -27774,7 +26114,6 @@ LIVAN, чтобы при его посредничестве
 6.
 
 ### Правый
-`livan_x3_pro_ru_ddeb0505` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:21 | doc_type:owners_manual
 дефлектор
 системы
 вентиляции и отопления
@@ -27782,7 +26121,6 @@ LIVAN, чтобы при его посредничестве
 Стояночный тормоз
 
 ### Система контроля и управления
-`livan_x3_pro_ru_ddc63b0e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 2
 8
 7
@@ -27797,7 +26135,6 @@ LIVAN, чтобы при его посредничестве
 1.
 
 ### Тахометр
-`livan_x3_pro_ru_9198920a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 4.
 Спидометр
 2.
@@ -27807,12 +26144,10 @@ LIVAN, чтобы при его посредничестве
 3.
 
 ### Изображение приборной панели является схематическим и приведено только для
-`livan_x3_pro_ru_348564f5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 ознакомления. Для реального примера ознакомьтесь с приборной панелью
 автомобиля.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_bd60abb2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 20
 Комбинация приборов
 Тахометр
@@ -27844,7 +26179,6 @@ LIVAN, чтобы при его посредничестве
 топлива экономичнее.
 
 ### Не допускайте перехода стрелки
-`livan_x3_pro_ru_2bb7af4c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:23 | doc_type:owners_manual
 датчик в зону красного цвета, чтобы
 не повреждать двигатель.
 При
@@ -27859,7 +26193,6 @@ LIVAN, чтобы при его посредничестве
 неисправности прибора.
 
 ### ON
-`livan_x3_pro_ru_2737397f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 указатель
 температуры
 воды
@@ -27871,7 +26204,6 @@ LIVAN, чтобы при его посредничестве
 двигателя.
 
 ### Температура
-`livan_x3_pro_ru_04dac0d9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 жидкости
 для
 охлаждения
@@ -27884,7 +26216,6 @@ LIVAN, чтобы при его посредничестве
 возникать изменения.
 
 ### Максимальный
-`livan_x3_pro_ru_dc8c5d3b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:23 | doc_type:owners_manual
 предел
 температуры
 охлаждающей
@@ -27935,7 +26266,6 @@ LIVAN для проведения проверки.
 воздуха.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_a9a0df8d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 2
 8
 7
@@ -27967,7 +26297,6 @@ LIVAN для проведения проверки.
 признаком неисправности прибора.
 
 ### ON указатель уровня топлива показывает
-`livan_x3_pro_ru_f90a74c9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 уровень остатка топлива в баке.
 При
 полном
@@ -28025,13 +26354,11 @@ LIVAN для проведения проверки.
 погаснет. Если же этого не происходит,
 
 ### Система контроля и управления
-`livan_x3_pro_ru_f3fada7b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 22
 следует обратиться в центр технического
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_485251bc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 для
 проведения
 проверки.
@@ -28053,7 +26380,6 @@ LIVAN для проведения проверки.
 катализатора при глушении двигателя.
 
 ### При запуске двигателя указатель
-`livan_x3_pro_ru_1e356280` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 уровня
 топлива
 может
@@ -28061,7 +26387,6 @@ LIVAN для проведения проверки.
 является признаком неисправности.
 
 ### Спидометр указывает текущую скорость
-`livan_x3_pro_ru_496b403a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 автомобиля. Единица измерения - км/ч.
 Максимальная скорость на спидометре -
 240 км/ч.
@@ -28076,7 +26401,6 @@ LIVAN для проведения проверки.
 скорости.
 
 ### Однако
-`livan_x3_pro_ru_9725c013` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 безопасной,
 устойчивой
 и
@@ -28097,7 +26421,6 @@ LIVAN для проведения проверки.
 неисправности прибора.
 
 ### Оповещение
-`livan_x3_pro_ru_1c139fe5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 о
 превышении
 скорости
@@ -28113,7 +26436,6 @@ LIVAN для проведения проверки.
 оповещение.
 
 ### Оповещение
-`livan_x3_pro_ru_1c139fe5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 напоминает
 водителю
 о
@@ -28124,7 +26446,6 @@ LIVAN для проведения проверки.
 звуковой сигнал прекратится.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_e7f38197` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:25 | doc_type:owners_manual
 2
 8
 7
@@ -28138,7 +26459,6 @@ LIVAN для проведения проверки.
 Описание дисплея
 
 ### Зона А
-`livan_x3_pro_ru_ade3799d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 •
 Часы: обычно в 24-часовом формате.
 •
@@ -28150,7 +26470,6 @@ LIVAN для проведения проверки.
 •
 
 ### Ограничение
-`livan_x3_pro_ru_ee13fbcb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 скорости
 при
 круизконтроле*:
@@ -28163,7 +26482,6 @@ LIVAN для проведения проверки.
 круизконтроле.
 
 ### Зона В
-`livan_x3_pro_ru_19f2cdf0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 •
 Указывает информацию об открытии
 двери.
@@ -28175,7 +26493,6 @@ LIVAN для проведения проверки.
 •
 
 ### Компьютерная
-`livan_x3_pro_ru_d1710cd4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 информация
 о
 трафике:
@@ -28190,7 +26507,6 @@ LIVAN для проведения проверки.
 •
 
 ### Показатель
-`livan_x3_pro_ru_547fb13b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 расхода
 топлива,
 показатель
@@ -28198,7 +26514,6 @@ LIVAN для проведения проверки.
 охлаждающей жидкости.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_f97f2b94` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 24
 Зона С
 •
@@ -28207,7 +26522,6 @@ LIVAN для проведения проверки.
 •
 
 ### Показывает данные об оставшемся
-`livan_x3_pro_ru_9ff3fe80` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:27 | doc_type:owners_manual
 пробеге
 до
 технического
@@ -28222,7 +26536,6 @@ LIVAN для проведения проверки.
 передачи.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_120e5098` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:27 | doc_type:owners_manual
 2
 8
 7
@@ -28240,7 +26553,6 @@ LIVAN для проведения проверки.
 автомобиля.
 
 ### При однократном нажатии клавиши TRIP
-`livan_x3_pro_ru_7ff8be54` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 можно поочередно переключать данные
 об промежуточном пробеге, возможной
 дистанции
@@ -28257,7 +26569,6 @@ LIVAN для проведения проверки.
 клавишу
 
 ### TRIP
-`livan_x3_pro_ru_1629f592` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 позволяет
 обнулить соответствующие показатели.
 При
@@ -28275,13 +26586,11 @@ LIVAN для проведения проверки.
 клавишу
 
 ### TRIP
-`livan_x3_pro_ru_1629f592` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 позволяет перейти к настройке часов.
 Компьютерная информация о
 трафике
 
 ### Промежуточный
-`livan_x3_pro_ru_9cb33b2a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 пробег
 показывает
 расстояние,
@@ -28291,7 +26600,6 @@ LIVAN для проведения проверки.
 последнего обнуления этого показателя.
 
 ### В
-`livan_x3_pro_ru_0968a152` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:28 | doc_type:owners_manual
 этом
 интерфейсе
 можно
@@ -28314,7 +26622,6 @@ TRIP. В приборной панели есть функция
 самовозврат промежуточного пробега.
 
 ### Интерфейс
-`livan_x3_pro_ru_a4aef31b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 промежуточного
 пробега
 обновляется
@@ -28333,7 +26640,6 @@ TRIP. В приборной панели есть функция
 пробега начинается заново с 0,0.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_9041148c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 26
 Возможная
 дистанция
@@ -28342,7 +26648,6 @@ TRIP. В приборной панели есть функция
 проехать при текущем уровне топлива.
 
 ### Возможная дистанция рассчитывается из
-`livan_x3_pro_ru_a3be2c5b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:29 | doc_type:owners_manual
 текущего расхода топлива и его остатка в
 баке.
 Из-за
@@ -28384,20 +26689,17 @@ TRIP. В приборной панели есть функция
 выключается.
 
 ### Минимально
-`livan_x3_pro_ru_9f8e6214` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 допустимое
 значение возможной дистанции - 0 км,
 его нельзя сбросить вручную.
 
 ### Ввиду разности стилей вождения
-`livan_x3_pro_ru_d9534f40` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 результаты вычисления возможной
 дистанции бортовым компьютером могут
 быть
 разными.
 
 ### Рекомендуется
-`livan_x3_pro_ru_1eeba8d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 соблюдать
 крейсерскую
 скорость
@@ -28409,7 +26711,6 @@ TRIP. В приборной панели есть функция
 уровня выбросов.
 
 ### При движении автомобиля показатель
-`livan_x3_pro_ru_37e47990` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 мгновенного
 расхода
 топлива
@@ -28418,7 +26719,6 @@ TRIP. В приборной панели есть функция
 расход топлива нельзя обнулить.
 
 ### При работе двигателя и скорости не
-`livan_x3_pro_ru_eb1df7f8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 более 2 км/ч показатель показывает "—"
 литров/100 км. При ненажатии педали
 акселератора и движении автомобиля по
@@ -28429,7 +26729,6 @@ TRIP. В приборной панели есть функция
 литров/100 км.
 
 ### Данный показатель помогает водителю
-`livan_x3_pro_ru_b58959be` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 регулировать
 стиль
 вождения
@@ -28437,14 +26736,12 @@ TRIP. В приборной панели есть функция
 достижения желаемого расхода топлива.
 
 ### Оповещение
-`livan_x3_pro_ru_5ef38ad4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 о
 техническом
 обслуживании
 1. Символ технического обслуживания
 
 ### 2. Число
-`livan_x3_pro_ru_3b7a0de5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 дней,
 оставшихся
 до
@@ -28455,7 +26752,6 @@ TRIP. В приборной панели есть функция
 технического обслуживания
 
 ### Система контроля и управления
-`livan_x3_pro_ru_baf97cc2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 2
 8
 7
@@ -28501,7 +26797,6 @@ TRIP. В приборной панели есть функция
 обслуживания.
 
 ### Уведомление о невыключении
-`livan_x3_pro_ru_cc8f4755` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:30 | doc_type:owners_manual
 фар
 При приведении зажигания в положение
 OFF, при включении габаритных огней
@@ -28522,7 +26817,6 @@ OFF, при включении габаритных огней
 избежание разрядки аккумулятора.
 
 ### При выходе из машины выключайте
-`livan_x3_pro_ru_da8e2467` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:30 | doc_type:owners_manual
 все
 фары,
 чтобы
@@ -28531,7 +26825,6 @@ OFF, при включении габаритных огней
 запуска автомобиля.
 
 ### Уведомление
-`livan_x3_pro_ru_c49b2e3d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:30 | doc_type:owners_manual
 о
 незакрытии
 дверей
@@ -28553,7 +26846,6 @@ OFF, при включении габаритных огней
 звуковое оповещение.
 
 ### Дисплей
-`livan_x3_pro_ru_8bce22b2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:30 | doc_type:owners_manual
 часов
 показывается
 на
@@ -28561,7 +26853,6 @@ OFF, при включении габаритных огней
 Настройка часов при нажатии клавиши
 
 ### Система контроля и управления
-`livan_x3_pro_ru_53f3439e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 28
 1. Настройка
 часов:
@@ -28576,14 +26867,12 @@ OFF, при включении габаритных огней
 клавиши
 
 ### TRIP.
-`livan_x3_pro_ru_e40035ab` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 Когда мерцают "часы", Вы можете
 настроить часы. Короткое нажатие
 клавиши TRIP позволяет с каждым
 нажатием переключать часы от 0 до
 
 ### 23. Длинное нажатие клавиши TRIP
-`livan_x3_pro_ru_2fe20d60` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 позволяет
 ускорить
 переключение
@@ -28604,7 +26893,6 @@ OFF, при включении габаритных огней
 59.
 
 ### Длинное
-`livan_x3_pro_ru_c190893f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 нажатие
 клавиши
 TRIP
@@ -28613,7 +26901,6 @@ TRIP
 переключение часов от 0 до 59.
 
 ### 3. Выход из настройки часов: через пять
-`livan_x3_pro_ru_aae379c9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 секунд
 после
 настройки
@@ -28622,7 +26909,6 @@ TRIP
 выход из настройки.
 
 ### Для обеспечения безопасности не
-`livan_x3_pro_ru_6e395c86` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 допускается настройка часов при
 движении.
 Пожалуйста,
@@ -28634,7 +26920,6 @@ TRIP
 часов.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_3eefd515` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 2
 8
 7
@@ -28653,7 +26938,6 @@ TRIP
 индикаторных ламп
 
 ### Система контроля и управления
-`livan_x3_pro_ru_a72b3de4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:32 | doc_type:owners_manual
 30
 Краткие
 сведения
@@ -28665,7 +26949,6 @@ TRIP
 Номер
 
 ### Изображение
-`livan_x3_pro_ru_6cea3e37` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 Цвет
 1
 Индикаторная лампа левого
@@ -28674,7 +26957,6 @@ TRIP
 2
 
 ### Индикаторная лампа правого
-`livan_x3_pro_ru_ad672976` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:33 | doc_type:owners_manual
 поворотника
 Зеленый
 3
@@ -28682,7 +26964,6 @@ TRIP
 подушки безопасности
 
 ### Красный
-`livan_x3_pro_ru_3831fb51` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:33 | doc_type:owners_manual
 4
 Сигнальная лампа стояночного
 тормоза
@@ -28692,7 +26973,6 @@ TRIP
 тормозной системы
 
 ### Красный
-`livan_x3_pro_ru_3831fb51` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 6
 Сигнальная лампа неисправности
 системы двигателя
@@ -28700,7 +26980,6 @@ TRIP
 7
 
 ### Сигнальная лампа неисправности
-`livan_x3_pro_ru_5b095264` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 коробки передач*
 Желтый,
 красный
@@ -28709,13 +26988,11 @@ TRIP
 двигателя связанная с экологией
 
 ### Желтый
-`livan_x3_pro_ru_993e8886` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 9
 Сигнальная лампа неисправности
 системы зарядки аккумулятора
 
 ### Красный
-`livan_x3_pro_ru_3831fb51` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 10
 Индикаторная лампа габаритных
 огней
@@ -28727,7 +27004,6 @@ TRIP
 12
 
 ### Индикаторная лампа задних
-`livan_x3_pro_ru_a4dccfae` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 противотуманных фар
 Желтый
 13
@@ -28735,7 +27011,6 @@ TRIP
 температуры воды
 
 ### Красный
-`livan_x3_pro_ru_3831fb51` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 14
 Сигнальная лампа низкого уровня
 топлива
@@ -28743,7 +27018,6 @@ TRIP
 15
 
 ### Сигнальная лампа низкого давления
-`livan_x3_pro_ru_c0c24d5b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 масла
 Красный
 16
@@ -28752,7 +27026,6 @@ TRIP
 сиденья
 
 ### Система контроля и управления
-`livan_x3_pro_ru_3e4cca2c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
 2
 8
 7
@@ -28769,7 +27042,6 @@ TRIP
 17
 
 ### Сигнальная лампа не нормального
-`livan_x3_pro_ru_867a069d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:34 | doc_type:owners_manual
 давления в шинах (TPMS)
 Желтый
 18
@@ -28777,7 +27049,6 @@ TRIP
 антиблокировочной системы (ABS)
 
 ### Желтый
-`livan_x3_pro_ru_b9cdc48c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 19
 Сигнальная лампа неисправности
 EBD
@@ -28788,21 +27059,18 @@ EBD
 устойчивости (ESC)*
 
 ### Желтый
-`livan_x3_pro_ru_b9cdc48c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 21
 Сигнальная лампа отключения
 системы электронного контроля
 устойчивости (ESC)*
 
 ### Желтый
-`livan_x3_pro_ru_b9cdc48c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:34 | doc_type:owners_manual
 22
 Сигнальная лампа неисправности
 системы электроусиления рулевого
 управления (EPS)
 
 ### Желтый
-`livan_x3_pro_ru_b9cdc48c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 23
 Индикаторная лампа круиз контроля*
 Зеленый
@@ -28810,7 +27078,6 @@ EBD
 Индикаторная лампа эко-режима*
 
 ### Зеленый
-`livan_x3_pro_ru_b0c85d9f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 25
 Индикаторная лампа спортивного
 режима*
@@ -28818,7 +27085,6 @@ EBD
 26
 
 ### Индикаторная лампа фар ближнего
-`livan_x3_pro_ru_9f3cc316` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 света
 Зеленый
 27
@@ -28826,13 +27092,11 @@ EBD
 ограничением скорости*
 
 ### Желтый
-`livan_x3_pro_ru_b9cdc48c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 28
 Сигнальная лампа неисправности
 системы доступа и запуска без ключа
 
 ### Желтый
-`livan_x3_pro_ru_b9cdc48c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 29
 Индикаторная лампа противоугонной
 сигнализации
@@ -28840,12 +27104,10 @@ EBD
 30
 
 ### Желтый
-`livan_x3_pro_ru_b9cdc48c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:34 | doc_type:owners_manual
 Обращайте внимание на горящие сигнальные лампы, в противном случае это
 может привести к серьезным травмам и повреждению имущества.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_4ecd86c5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 32
 Описание
 сигнальных
@@ -28857,7 +27119,6 @@ EBD
 поворотника - зеленый
 
 ### При повороте автомобиля налево
-`livan_x3_pro_ru_3326faa9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 или смены полосы движения на
 левую
 переместите
@@ -28870,7 +27131,6 @@ EBD
 поворотника.
 
 ### Индикаторная лампа левого поворотника
-`livan_x3_pro_ru_2c3ef0a8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 и
 левый
 поворотник
@@ -28890,7 +27150,6 @@ EBD
 стороны.
 
 ### Свяжитесь
-`livan_x3_pro_ru_d9545f5f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:35 | doc_type:owners_manual
 с
 центром
 технического
@@ -28901,7 +27160,6 @@ EBD
 обслуживания.
 
 ### Индикаторная
-`livan_x3_pro_ru_90424d00` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 лампа
 правого
 поворотника - зеленый
@@ -28921,7 +27179,6 @@ EBD
 поворотника.
 
 ### Индикаторная
-`livan_x3_pro_ru_90424d00` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 лампа
 правого
 поворотника
@@ -28930,7 +27187,6 @@ EBD
 поворотник будут мигать одновременно.
 
 ### Если индикаторная лампа мигает
-`livan_x3_pro_ru_0246309b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 быстрее, чем в обычном состоянии,
 это
 указывает
@@ -28943,7 +27199,6 @@ EBD
 стороны.
 
 ### Сигнальная
-`livan_x3_pro_ru_5af41188` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:35 | doc_type:owners_manual
 лампа
 неисправности
 воздушной подушки безопасности -
@@ -28956,7 +27211,6 @@ EBD
 положение
 
 ### ON
-`livan_x3_pro_ru_55030e38` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 загорится данная сигнальная лампа и
 через несколько секунд погаснет. Если в
 системе
@@ -28971,7 +27225,6 @@ EBD
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_42a8be14` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:35 | doc_type:owners_manual
 как
 можно
 скорее
@@ -29003,7 +27256,6 @@ EBD
 безопасности.
 
 ### Сигнальная
-`livan_x3_pro_ru_5af41188` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:35 | doc_type:owners_manual
 лампа
 стояночного
 тормоза - красный
@@ -29016,7 +27268,6 @@ EBD
 пускового переключателя в положение
 
 ### ON.
-`livan_x3_pro_ru_9b3ba14e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:35 | doc_type:owners_manual
 Если
 стояночный
 тормоз
@@ -29027,7 +27278,6 @@ EBD
 сигнальная лампа будет гореть до тех
 
 ### Система контроля и управления
-`livan_x3_pro_ru_dd70a575` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:35 | doc_type:owners_manual
 2
 8
 7
@@ -29048,7 +27298,6 @@ EBD
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_3f3a1b8a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 как
 можно
 скорее
@@ -29057,7 +27306,6 @@ EBD
 технического обслуживания.
 
 ### Сигнальная
-`livan_x3_pro_ru_7158d622` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:36 | doc_type:owners_manual
 лампа
 неисправности
 тормозной системы - красный
@@ -29069,7 +27317,6 @@ EBD
 положение
 
 ### ON
-`livan_x3_pro_ru_39213696` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:36 | doc_type:owners_manual
 или запуске двигателя загорится данная
 сигнальная
 лампа
@@ -29112,12 +27359,10 @@ EBD
 полу.
 
 ### Остановка
-`livan_x3_pro_ru_45ed0567` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:36 | doc_type:owners_manual
 автомобиля после нажатия на педаль
 тормоза может занять больше времени.
 
 ### Попробуйте
-`livan_x3_pro_ru_98ae2680` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 перезапустить
 автомобиль
 один-два раза. Если данная сигнальная
@@ -29132,7 +27377,6 @@ EBD
 обслуживания
 
 ### LIVAN как можно скорее для проведения
-`livan_x3_pro_ru_88ea3bf3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:36 | doc_type:owners_manual
 технического обслуживания.
 Если
 горит
@@ -29150,7 +27394,6 @@ EBD
 движение.
 
 ### Выполните
-`livan_x3_pro_ru_bed2553f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 безопасную
 остановку
 и
@@ -29165,7 +27408,6 @@ EBD
 обслуживания.
 
 ### Сигнальная
-`livan_x3_pro_ru_7158d622` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 лампа
 неисправности
 системы двигателя - желтый
@@ -29173,7 +27415,6 @@ EBD
 34
 
 ### Данная сигнальная лампа загорается при
-`livan_x3_pro_ru_37a1db4b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 перемещении пускового переключателя в
 положение ON; после запуска двигателя
 данная сигнальная лампа гаснет. Данная
@@ -29188,13 +27429,11 @@ EBD
 двигателем.
 
 ### Сигнальная
-`livan_x3_pro_ru_38f9f76e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 лампа
 неисправности
 коробки передач - желтый, красный*
 
 ### Данная
-`livan_x3_pro_ru_6f0f421a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 сигнальная
 лампа
 загорается
@@ -29205,7 +27444,6 @@ EBD
 передач.
 
 ### Данная
-`livan_x3_pro_ru_6f0f421a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 сигнальная
 лампа
 загорается
@@ -29235,14 +27473,12 @@ EBD
 обслуживания.
 
 ### Сигнальная
-`livan_x3_pro_ru_38f9f76e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 лампа
 неисправности
 двигателя связанная с экологией -
 желтый
 
 ### Данная
-`livan_x3_pro_ru_6f0f421a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 сигнальная
 лампа
 загорается
@@ -29251,7 +27487,6 @@ EBD
 пускового переключателя в положение
 
 ### ON;
-`livan_x3_pro_ru_0a49d5d7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 после
 запуска
 двигателя
@@ -29280,7 +27515,6 @@ EBD
 двигателя.
 
 ### Сигнальная
-`livan_x3_pro_ru_38f9f76e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 лампа
 неисправности
 системы
@@ -29290,7 +27524,6 @@ EBD
 красный
 
 ### ON;
-`livan_x3_pro_ru_0a49d5d7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 после
 запуска
 двигателя
@@ -29312,7 +27545,6 @@ EBD
 автомобиля.
 
 ### Индикаторная
-`livan_x3_pro_ru_246968d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 лампа
 габаритных
 огней - зеленый
@@ -29328,7 +27560,6 @@ EBD
 переключателем освещения.
 
 ### Индикаторная лампа фар дальнего
-`livan_x3_pro_ru_3272462d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 света - синий
 Данная
 индикаторная
@@ -29343,7 +27574,6 @@ EBD
 переключателем освещения.
 
 ### Индикаторная
-`livan_x3_pro_ru_246968d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 лампа
 задних
 противотуманных фар - желтый
@@ -29354,7 +27584,6 @@ EBD
 противотуманные фары.
 
 ### Сигнальная
-`livan_x3_pro_ru_38f9f76e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 лампа
 высокой
 температуры
@@ -29362,7 +27591,6 @@ EBD
 жидкости - красный
 
 ### Система контроля и управления
-`livan_x3_pro_ru_de681bf9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 2
 8
 7
@@ -29380,7 +27608,6 @@ EBD
 положение
 
 ### ON
-`livan_x3_pro_ru_aefcc73d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:38 | doc_type:owners_manual
 загорится данная сигнальная лампа и
 через несколько секунд погаснет. Данная
 сигнальная
@@ -29402,7 +27629,6 @@ EBD
 обслуживания
 
 ### LIVAN как можно скорее для проведения
-`livan_x3_pro_ru_67d9792b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:38 | doc_type:owners_manual
 технического обслуживания.
 Когда
 двигатель
@@ -29436,7 +27662,6 @@ EBD
 избежать травм или смерти.
 
 ### Сигнальная лампа низкого уровня
-`livan_x3_pro_ru_d14f11d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:38 | doc_type:owners_manual
 топлива - желтый
 При
 перемещении
@@ -29446,7 +27671,6 @@ EBD
 положение
 
 ### ON
-`livan_x3_pro_ru_aefcc73d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:38 | doc_type:owners_manual
 загорится данная сигнальная лампа и
 через несколько секунд погаснет. Данная
 сигнальная
@@ -29474,13 +27698,11 @@ EBD
 обслуживания
 
 ### LIVAN как можно скорее для проведения
-`livan_x3_pro_ru_67d9792b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:38 | doc_type:owners_manual
 технического обслуживания.
 Сигнальная лампа низкого давления
 масла - красный
 
 ### При запуске двигателя загорается
-`livan_x3_pro_ru_a6a5895d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:38 | doc_type:owners_manual
 данная сигнальная лампа и через
 несколько
 секунд
@@ -29504,7 +27726,6 @@ EBD
 двигателе.
 
 ### Автомобиль
-`livan_x3_pro_ru_cb13d8f6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:38 | doc_type:owners_manual
 следует
 безопасно
 припарковать
@@ -29517,7 +27738,6 @@ EBD
 двигатель.
 
 ### Свяжитесь
-`livan_x3_pro_ru_650ca086` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:38 | doc_type:owners_manual
 с
 центром
 технического
@@ -29539,7 +27759,6 @@ LIVAN
 двигатель может быть поврежден.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_2cd41a6e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:38 | doc_type:owners_manual
 36
 Сигнальная лампа непристегнутого
 ремня
@@ -29548,7 +27767,6 @@ LIVAN
 сиденья - красный
 
 ### Данная
-`livan_x3_pro_ru_87bd3b08` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:39 | doc_type:owners_manual
 сигнальная
 лампа
 будет
@@ -29573,7 +27791,6 @@ LIVAN
 данная сигнальная лампа погаснет.
 
 ### Сигнальная лампа не нормального
-`livan_x3_pro_ru_7d8871af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:39 | doc_type:owners_manual
 давления в шинах (TPMS) - желтый
 При
 перемещении
@@ -29583,7 +27800,6 @@ LIVAN
 положение
 
 ### ON
-`livan_x3_pro_ru_3bdd69b0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:39 | doc_type:owners_manual
 загорится данная сигнальная лампа и
 через несколько секунд погаснет. При
 неисправности в системе, не нормальном
@@ -29602,7 +27818,6 @@ LIVAN
 обслуживания
 
 ### LIVAN как можно скорее для проведения
-`livan_x3_pro_ru_f41f9e56` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:39 | doc_type:owners_manual
 технического обслуживания.
 Если
 загорелась
@@ -29620,26 +27835,22 @@ LIVAN
 торможения.
 
 ### Как можно скорее съезжайте с дороги и
-`livan_x3_pro_ru_519f0ec8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:39 | doc_type:owners_manual
 выполните безопасную остановку, после
 чего проверьте шины и давление в них.
 
 ### При определенных условиях движения
-`livan_x3_pro_ru_17ac1dd9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:39 | doc_type:owners_manual
 (таких как спортивный режим, зимнее
 время или мягкая дорога) сигнальная
 лампа может загораться с задержкой или
 вообще не загораться.
 
 ### Сигнальная
-`livan_x3_pro_ru_9079a292` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:39 | doc_type:owners_manual
 лампа
 неисправности
 ABS и EBD - желтый
 Сигнальная лампа неисправности
 
 ### ABS и EBD горит при нахождении
-`livan_x3_pro_ru_9856e69e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:39 | doc_type:owners_manual
 пускового переключателя в положении
 ON. Если антиблокировочная система и
 вспомогательная
@@ -29690,7 +27901,6 @@ EBD. Свяжитесь с центром технического
 обслуживания.
 
 ### В
-`livan_x3_pro_ru_1cc98302` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:39 | doc_type:owners_manual
 этом
 случае
 при
@@ -29699,7 +27909,6 @@ EBD. Свяжитесь с центром технического
 неустойчивым при торможении.
 
 ### Сигнальная
-`livan_x3_pro_ru_9079a292` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:39 | doc_type:owners_manual
 лампа
 неисправности
 системы
@@ -29714,7 +27923,6 @@ EBD. Свяжитесь с центром технического
 положение
 
 ### ON
-`livan_x3_pro_ru_3bdd69b0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:39 | doc_type:owners_manual
 загорится данная сигнальная лампа и
 через
 несколько
@@ -29722,7 +27930,6 @@ EBD. Свяжитесь с центром технического
 погаснет.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_9f68397a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:39 | doc_type:owners_manual
 2
 8
 7
@@ -29747,7 +27954,6 @@ EBD. Свяжитесь с центром технического
 обслуживания
 
 ### Сигнальная
-`livan_x3_pro_ru_59660166` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 лампа
 отключения
 системы
@@ -29756,7 +27962,6 @@ EBD. Свяжитесь с центром технического
 устойчивости (ESC) - желтый*
 
 ### Данная
-`livan_x3_pro_ru_aa105cec` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 индикаторная
 лампа
 загорается,
@@ -29767,7 +27972,6 @@ ESC
 ESC перестает работать.
 
 ### Сигнальная
-`livan_x3_pro_ru_59660166` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:40 | doc_type:owners_manual
 лампа
 неисправности
 системы электроусиления рулевого
@@ -29780,7 +27984,6 @@ ESC перестает работать.
 положение
 
 ### ON
-`livan_x3_pro_ru_8766106d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:40 | doc_type:owners_manual
 загорится данная сигнальная лампа и
 через несколько секунд погаснет. Данная
 сигнальная
@@ -29792,7 +27995,6 @@ ESC перестает работать.
 управления.
 
 ### Индикаторная лампа круиз контроля
-`livan_x3_pro_ru_fcbfd147` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 - зеленый*
 Данная
 индикаторная
@@ -29805,13 +28007,11 @@ ESC перестает работать.
 зеленый*
 
 ### Данная индикаторная лампа горит
-`livan_x3_pro_ru_afed70af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 при движении автомобиля в экорежиме. Это означает, что автомобиль
 движется в относительно экономичном и
 энергосберегающем режиме.
 
 ### Индикаторная
-`livan_x3_pro_ru_fc38b974` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 лампа
 спортивного
 режима - желтый*
@@ -29824,7 +28024,6 @@ ESC перестает работать.
 спортивного режима.
 
 ### Индикаторная лампа фар ближнего
-`livan_x3_pro_ru_a5be0b87` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 света - зеленый
 Данная
 индикаторная
@@ -29839,7 +28038,6 @@ ESC перестает работать.
 переключателем освещения.
 
 ### Индикаторная лампа круиз контроля
-`livan_x3_pro_ru_fcbfd147` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 с ограничением скорости - желтый*
 Данная
 лампа
@@ -29858,14 +28056,12 @@ ESC перестает работать.
 превышении скорости.
 
 ### Сигнальная
-`livan_x3_pro_ru_59660166` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 лампа
 неисправности
 системы доступа и запуска без ключа
 (PEPS) - желтый
 
 ### Модели с автоматической коробкой
-`livan_x3_pro_ru_b894fcff` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 передач: данная сигнальная лампа
 будет
 гореть
@@ -29880,7 +28076,6 @@ ESC перестает работать.
 обслуживания
 
 ### LIVAN как можно скорее для проведения
-`livan_x3_pro_ru_76b9cce9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 технического обслуживания.
 Модели
 с
@@ -29895,7 +28090,6 @@ ESC перестает работать.
 положении
 
 ### LOCK,
-`livan_x3_pro_ru_a07a1620` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:40 | doc_type:owners_manual
 а
 пульт
 дистанционного
@@ -29911,7 +28105,6 @@ ESC перестает работать.
 вынут.
 
 ### Индикаторная лампа противоугонной
-`livan_x3_pro_ru_0afd1e75` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:40 | doc_type:owners_manual
 сигнализации - красный
 Система контроля и управления
 38
@@ -29934,7 +28127,6 @@ ESC перестает работать.
 желтый
 
 ### Данная лампа загорается желтым
-`livan_x3_pro_ru_74ceb920` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:41 | doc_type:owners_manual
 при
 сбое
 режима
@@ -29949,7 +28141,6 @@ GPF.
 фильтр
 
 ### Система контроля и управления
-`livan_x3_pro_ru_e3a55c35` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:41 | doc_type:owners_manual
 2
 8
 7
@@ -29966,14 +28157,12 @@ GPF.
 стеклоочистителей
 
 ### Комбинированный
-`livan_x3_pro_ru_e3489c29` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 выключатель освещения
 1. Переключатель
 управления
 освещением
 
 ### 2. Переключатель
-`livan_x3_pro_ru_289d679f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:42 | doc_type:owners_manual
 управления
 противотуманными фарами
 3. Ручка
@@ -29990,13 +28179,11 @@ GPF.
 поворотниками)
 
 ### Эксплуатация
-`livan_x3_pro_ru_3e30a5f5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 комбинированного
 переключателя освещения
 Габаритные огни
 
 ### Поворачивайте
-`livan_x3_pro_ru_f05754d3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 переключатель
 управления освещением 1 в направлении
 A до тех пор, пока стрелка
@@ -30008,7 +28195,6 @@ A до тех пор, пока стрелка
 управления.
 
 ### Поворачивайте
-`livan_x3_pro_ru_f05754d3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 переключатель
 управления освещением 1 в направлении
 B до тех пор, пока стрелка
@@ -30017,7 +28203,6 @@ B до тех пор, пока стрелка
 положение
 
 ### OFF,
-`livan_x3_pro_ru_49b1a90f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 габаритные
 огни,
 приборная
@@ -30032,7 +28217,6 @@ B до тех пор, пока стрелка
 отключены.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_738c55e9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:42 | doc_type:owners_manual
 40
 Фары ближнего света
 Поворачивайте
@@ -30049,7 +28233,6 @@ A до тех пор, пока стрелка
 света.
 
 ### Поворачивайте
-`livan_x3_pro_ru_87dec3b2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:43 | doc_type:owners_manual
 переключатель управления освещением
 1 в направлении B до тех пор, пока
 стрелка
@@ -30057,7 +28240,6 @@ A до тех пор, пока стрелка
 фары ближнего света будут отключены.
 
 ### Переключение
-`livan_x3_pro_ru_20b17bb4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:43 | doc_type:owners_manual
 фар
 дальнего
 и
@@ -30069,7 +28251,6 @@ A до тех пор, пока стрелка
 направлении
 
 ### C,
-`livan_x3_pro_ru_b7b1f052` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:43 | doc_type:owners_manual
 чтобы
 включить
 фары
@@ -30083,14 +28264,12 @@ A до тех пор, пока стрелка
 направлении
 
 ### F,
-`livan_x3_pro_ru_e9826733` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:43 | doc_type:owners_manual
 чтобы
 снова
 переключиться на фары ближнего света.
 Мигание фар дальнего света
 
 ### Переместите
-`livan_x3_pro_ru_660ae458` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:43 | doc_type:owners_manual
 ручку
 3
 в
@@ -30111,7 +28290,6 @@ A до тех пор, пока стрелка
 Автоматическое освещение*
 
 ### Поворачивайте
-`livan_x3_pro_ru_87dec3b2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 переключатель
 управления освещением 1 в направлении
 A до тех пор, пока стрелка
@@ -30140,7 +28318,6 @@ AUTO, будет
 освещения.
 
 ### Система
-`livan_x3_pro_ru_c1491975` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:43 | doc_type:owners_manual
 автоматического
 освещения
 может
@@ -30176,7 +28353,6 @@ AUTO, будет
 и фары ближнего света.
 
 ### Система имеет функцию ручного
-`livan_x3_pro_ru_42b38e51` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:43 | doc_type:owners_manual
 приоритета
 в
 автоматическом
@@ -30185,7 +28361,6 @@ AUTO, будет
 режима автоматического освещения.
 
 ### Правый поворотник
-`livan_x3_pro_ru_3bfba0a0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 Переместите ручку 3 в направлении D,
 индикатор
 правого
@@ -30207,7 +28382,6 @@ AUTO, будет
 поворота погаснет.
 
 ### Левый поворотник
-`livan_x3_pro_ru_ce957b0b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 Переместите ручку 3 в направлении E,
 индикатор
 левого
@@ -30229,7 +28403,6 @@ AUTO, будет
 поворота погаснет.
 
 ### Функция перестроения
-`livan_x3_pro_ru_50af82c6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 Переместите ручку 3 в направлении D
 или
 E на
@@ -30243,7 +28416,6 @@ E на
 мигать 3 раза.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_2b185ef6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:43 | doc_type:owners_manual
 2
 8
 7
@@ -30270,7 +28442,6 @@ E на
 передних фар
 
 ### 1. Ручка регулировки высоты передних
-`livan_x3_pro_ru_578df46e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 фар
 Данная
 ручка
@@ -30282,7 +28453,6 @@ E на
 передних фар.
 
 ### Ручка регулировки высоты передних фар
-`livan_x3_pro_ru_7d0299de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:44 | doc_type:owners_manual
 имеет четыре положения: 0, 1, 2 и 3.
 Установите
 положение
@@ -30319,7 +28489,6 @@ E на
 Дневные ходовые огни*
 
 ### Включение дневных ходовых огней
-`livan_x3_pro_ru_0bb9eb84` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:44 | doc_type:owners_manual
 После
 запуска
 двигателя
@@ -30331,7 +28500,6 @@ E на
 загорятся дневные ходовые огни.
 
 ### Дневные ходовые огни
-`livan_x3_pro_ru_6e7f5a93` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 автоматически
 выключаются в следующих случаях:
 •
@@ -30340,7 +28508,6 @@ E на
 переключателя в положение ACC или
 
 ### OFF;
-`livan_x3_pro_ru_85473227` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:44 | doc_type:owners_manual
 •
 Включение фар ближнего света.
 Проводи меня домой
@@ -30350,7 +28517,6 @@ E на
 пускового переключателя в положение
 
 ### OFF
-`livan_x3_pro_ru_a6f4560d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 быстро
 переведите
 комбинированный
@@ -30360,7 +28526,6 @@ E на
 положение
 
 ### OFF.
-`livan_x3_pro_ru_c328be91` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:44 | doc_type:owners_manual
 Будет
 активирована
 Система контроля и управления
@@ -30375,13 +28540,11 @@ E на
 домой"
 
 ### При выполнении любого из следующих
-`livan_x3_pro_ru_5e22548d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:45 | doc_type:owners_manual
 условий функция "Проводи меня домой"
 будет отключена:
 •
 
 ### Пусковой переключатель не находится
-`livan_x3_pro_ru_28e760fd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:45 | doc_type:owners_manual
 в положении OFF;
 •
 Переключение
@@ -30399,7 +28562,6 @@ E на
 мультимедиа.
 
 ### Комбинированный
-`livan_x3_pro_ru_28e9a76d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 переключатель
 стеклоочистителя
 Комбинированный
@@ -30407,7 +28569,6 @@ E на
 стеклоочистителей (модель 1)
 
 ### 1. Ручка
-`livan_x3_pro_ru_32c248bb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 управления
 передними
 стеклоочистителями
@@ -30420,7 +28581,6 @@ E на
 стеклоочистителей
 
 ### 3. Ручка
-`livan_x3_pro_ru_6bf15e07` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 управления
 задним
 стеклоочистителем
@@ -30429,7 +28589,6 @@ E на
 стеклоочистителей
 
 ### Система контроля и управления
-`livan_x3_pro_ru_11d37991` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 2
 8
 7
@@ -30455,13 +28614,11 @@ OFF, передние стеклоочистители будут
 движение.
 
 ### Отключение
-`livan_x3_pro_ru_18737394` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 передних
 стеклоочистителей
 При перемещении ручки 1 в направлении
 
 ### A
-`livan_x3_pro_ru_1e5c5853` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 в
 положение
 OFF
@@ -30469,7 +28626,6 @@ OFF
 стеклоочистители будут выключены.
 
 ### Прерывистое
-`livan_x3_pro_ru_86fca362` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 движение
 передних
 стеклоочистителей
@@ -30477,7 +28633,6 @@ OFF
 положение
 
 ### INT,
-`livan_x3_pro_ru_16dea512` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 передние
 стеклоочистители
 будут
@@ -30486,7 +28641,6 @@ OFF
 движение.
 
 ### В
-`livan_x3_pro_ru_c3572704` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 это
 время
 система управления стеклоочистителями
@@ -30508,7 +28662,6 @@ OFF
 (направление
 
 ### A)
-`livan_x3_pro_ru_1404b209` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 интервал
 времени
 прерывистого
@@ -30520,7 +28673,6 @@ OFF
 все короче.
 
 ### Движение
-`livan_x3_pro_ru_c60e1afc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 передних
 стеклоочистителей
 с
@@ -30530,7 +28682,6 @@ OFF
 положение
 
 ### LO,
-`livan_x3_pro_ru_920348ec` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 передние
 стеклоочистители
 будут
@@ -30538,7 +28689,6 @@ OFF
 движение с низкой скоростью.
 
 ### Движение
-`livan_x3_pro_ru_c60e1afc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 передних
 стеклоочистителей
 с
@@ -30548,7 +28698,6 @@ OFF
 положение
 
 ### HI,
-`livan_x3_pro_ru_a52afc2b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 передние
 стеклоочистители
 будут
@@ -30556,7 +28705,6 @@ OFF
 движение с высокой скоростью.
 
 ### Режим технического обслуживания
-`livan_x3_pro_ru_980d462a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 передних стеклоочистителей
 В течение 30 секунд после переключения
 пускового переключателя с положения
@@ -30565,7 +28713,6 @@ ON в положение OFF/ACC переместите
 или переместите ручку 1 в направлении
 
 ### A в положение MIST и удерживайте ее в
-`livan_x3_pro_ru_a1a99a76` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 течение двух секунд, чтобы запустить
 режим
 технического
@@ -30573,7 +28720,6 @@ ON в положение OFF/ACC переместите
 стеклоочистителей.
 
 ### Омывание лобового стекла
-`livan_x3_pro_ru_feaab3e0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 Переместите ручку 1 в направлении C,
 стеклоомыватели лобового стекла будут
 разбрызгивать воду во время движения
@@ -30598,7 +28744,6 @@ ON в положение OFF/ACC переместите
 выполнят еще один цикл работы.
 
 ### Прерывистое
-`livan_x3_pro_ru_86fca362` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 движение
 заднего
 стеклоочистителя
@@ -30610,13 +28755,11 @@ ON в положение OFF/ACC переместите
 движение.
 
 ### Работа заднего стеклоочистителя
-`livan_x3_pro_ru_2d7e0253` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 Перемещение ручки 3 в направлении E в
 положение ON приведет в работу задний
 стеклоочиститель.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_73ba10b9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 44
 Переместите ручку 1 в направлении D,
 стеклоомыватели заднего стекла начнут
@@ -30647,7 +28790,6 @@ ON в положение OFF/ACC переместите
 стеклоочистителя будет отключена.
 
 ### Комбинированный
-`livan_x3_pro_ru_f0bfa25d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 переключатель
 стеклоочистителей (модель 2)
 1. Ручка
@@ -30655,7 +28797,6 @@ ON в положение OFF/ACC переместите
 стеклоочистителями
 
 ### 2. Ручка
-`livan_x3_pro_ru_1c3e0510` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 регулировки
 частоты
 прерывистого
@@ -30684,7 +28825,6 @@ ON в положение OFF/ACC переместите
 стеклоочистителей.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_36fd8719` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 2
 8
 7
@@ -30699,7 +28839,6 @@ ON в положение OFF/ACC переместите
 стеклоочистителей
 
 ### Кратковременное
-`livan_x3_pro_ru_c8b9f61e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 движение
 передних стеклоочистителей
 Переместите ручку 1 в направлении A и
@@ -30715,20 +28854,17 @@ OFF, передние стеклоочистители будут
 движение.
 
 ### Режим технического обслуживания
-`livan_x3_pro_ru_5972d1c8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 передних стеклоочистителей
 В течение 30 секунд после переключения
 пускового переключателя с положения
 
 ### Система контроля и управления
-`livan_x3_pro_ru_af7f58ee` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:48 | doc_type:owners_manual
 46
 ON в положение OFF/ACC переместите
 ручку 1 в направлении B в положение LO
 или переместите ручку 1 в направлении
 
 ### Омывание лобового стекла
-`livan_x3_pro_ru_20d31444` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:49 | doc_type:owners_manual
 Переместите ручку 1 в направлении C,
 стеклоомыватели лобового стекла будут
 разбрызгивать воду во время движения
@@ -30754,7 +28890,6 @@ ON в положение OFF/ACC переместите
 Руль
 
 ### Нажмите
-`livan_x3_pro_ru_b9597d1b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:49 | doc_type:owners_manual
 на
 область
 изображения
@@ -30770,7 +28905,6 @@ ON в положение OFF/ACC переместите
 сигнал.
 
 ### Область
-`livan_x3_pro_ru_36f33e81` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:49 | doc_type:owners_manual
 изображения
 звукового
 сигнала на рулевом колесе также
@@ -30778,7 +28912,6 @@ ON в положение OFF/ACC переместите
 водителя.
 
 ### В
-`livan_x3_pro_ru_a7087ddb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:49 | doc_type:owners_manual
 связи
 с
 особыми
@@ -30798,7 +28931,6 @@ ON в положение OFF/ACC переместите
 водителя и получения травм.
 
 ### Регулировка
-`livan_x3_pro_ru_69233359` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:49 | doc_type:owners_manual
 рулевого
 колеса
 Не регулируйте рулевое колесо во
@@ -30819,7 +28951,6 @@ ON в положение OFF/ACC переместите
 что
 
 ### Система контроля и управления
-`livan_x3_pro_ru_85b6c279` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:49 | doc_type:owners_manual
 2
 8
 7
@@ -30837,7 +28968,6 @@ ON в положение OFF/ACC переместите
 травмам и повреждению имущества.
 
 ### 1. Регулировка рулевого колеса вверх-
-`livan_x3_pro_ru_666bf648` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:50 | doc_type:owners_manual
 вниз
 2. Рычаг блокировки рулевого колеса
 Установите рулевое колесо в правильное
@@ -30847,7 +28977,6 @@ ON в положение OFF/ACC переместите
 действия:
 
 ### 1. Поверните
-`livan_x3_pro_ru_704dd50b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:50 | doc_type:owners_manual
 рулевое
 колесо
 в
@@ -30856,12 +28985,10 @@ ON в положение OFF/ACC переместите
 рулевого колеса.
 
 ### 3. Удерживая рулевое колесо обеими
-`livan_x3_pro_ru_3dba4464` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:50 | doc_type:owners_manual
 руками, перемещайте его вверх-вниз
 в наиболее подходящее положение.
 
 ### 4. Выбрав
-`livan_x3_pro_ru_66b10a20` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:50 | doc_type:owners_manual
 подходящее
 положение
 рулевого колеса, до конца потяните
@@ -30876,7 +29003,6 @@ ON в положение OFF/ACC переместите
 колесо в новом положении.
 
 ### Для автомобилей с механической
-`livan_x3_pro_ru_2c77e6e1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:50 | doc_type:owners_manual
 коробкой
 передач
 сначала
@@ -30885,7 +29011,6 @@ ON в положение OFF/ACC переместите
 Кнопки на рулевом колесе*
 
 ### 1. Кнопка круиз-контроля: включение /
-`livan_x3_pro_ru_e31b6324` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 выключение функции круиз-контроля.
 2. Кнопка ограничения скорости: этот
 переключатель
@@ -30899,7 +29024,6 @@ RES/+ и SET/-. Ограничение скорости
 LIM составляет 30~150 км/ч.
 
 ### 3. Кнопки
-`livan_x3_pro_ru_4c14ed73` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 регулировки
 скорости
 и
@@ -30920,7 +29044,6 @@ LIM составляет 30~150 км/ч.
 •
 
 ### RES/+
-`livan_x3_pro_ru_8393dd58` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 (восстановление
 /
 увеличение скорости)
@@ -30931,14 +29054,12 @@ LIM составляет 30~150 км/ч.
 направлении
 
 ### RES/+,
-`livan_x3_pro_ru_fa43637b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 чтобы
 восстановить исходную заданную
 крейсерскую скорость.
 •
 
 ### SET/-
-`livan_x3_pro_ru_88472e25` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 (настройка
 /
 снижение
@@ -30947,7 +29068,6 @@ LIM составляет 30~150 км/ч.
 48
 
 ### Переместите
-`livan_x3_pro_ru_b760084b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 эту
 кнопку
 в
@@ -30963,7 +29083,6 @@ SET/-,
 круизконтроля.
 
 ### 2. Кнопка отключения звука: короткое
-`livan_x3_pro_ru_1d20b01a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:51 | doc_type:owners_manual
 нажатие отключает звук.
 3. Правая
 кнопка
@@ -30990,7 +29109,6 @@ SET/-,
 мультимедиа.
 
 ### 4. Кнопка
-`livan_x3_pro_ru_d5938a03` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 регулировки
 громкости:
 регулировка громкости.
@@ -30998,7 +29116,6 @@ SET/-,
 на звонок / отклонение звонка.
 
 ### 6. Левая
-`livan_x3_pro_ru_52adf39f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:51 | doc_type:owners_manual
 кнопка
 выбора:
 короткое
@@ -31023,7 +29140,6 @@ SET/-,
 мультимедиа.
 
 ### Боковые
-`livan_x3_pro_ru_66cf49d2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 зеркала
 заднего
 вида
@@ -31041,7 +29157,6 @@ SET/-,
 правильно отрегулированы.
 
 ### Переключатель
-`livan_x3_pro_ru_2707ae48` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 регулировки
 боковых
 зеркал
@@ -31055,7 +29170,6 @@ SET/-,
 панели.
 
 ### 1. Переключатель
-`livan_x3_pro_ru_994820a6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 выбора
 боковых
 зеркал заднего вида
@@ -31075,7 +29189,6 @@ SET/-,
 водителя.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_9f2142d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 2
 8
 7
@@ -31098,7 +29211,6 @@ SET/-,
 вида.
 
 ### Используйте
-`livan_x3_pro_ru_63e643af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 спрей
 или
 антиобледенитель, чтобы удалить лед с
@@ -31110,7 +29222,6 @@ SET/-,
 зеркала заднего вида.
 
 ### Не прикасайтесь к боковым зеркалам
-`livan_x3_pro_ru_c2ce795a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 заднего
 вида
 во
@@ -31119,7 +29230,6 @@ SET/-,
 чтобы избежать травм.
 
 ### Регулировка
-`livan_x3_pro_ru_828d6e19` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 боковых
 зеркал
 заднего вида
@@ -31129,7 +29239,6 @@ SET/-,
 находится в положении ACC или ON.
 
 ### 2. Переместите переключатель выбора
-`livan_x3_pro_ru_807449de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:52 | doc_type:owners_manual
 боковых
 зеркал
 заднего
@@ -31144,7 +29253,6 @@ SET/-,
 отрегулировать.
 
 ### 3. Нажмите переключатель регулировки
-`livan_x3_pro_ru_039c0699` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:52 | doc_type:owners_manual
 боковых зеркал заднего вида, чтобы
 отрегулировать
 боковое
@@ -31153,7 +29261,6 @@ SET/-,
 вправо, вверх или вниз.
 
 ### 4. После
-`livan_x3_pro_ru_25902537` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 регулировки
 переместите
 переключатель
@@ -31167,7 +29274,6 @@ SET/-,
 положение.
 
 ### Складывание боковых зеркал
-`livan_x3_pro_ru_460cf5c3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 заднего вида
 Боковые зеркала заднего вида имеют
 функцию складывания, которой удобно
@@ -31179,7 +29285,6 @@ SET/-,
 дорогам и парковке автомобиля.
 
 ### Ручное складывание боковых зеркал
-`livan_x3_pro_ru_8fe2072a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:52 | doc_type:owners_manual
 заднего вида
 Двигайте боковое зеркало заднего вида
 внутрь, чтобы вручную сложить боковое
@@ -31188,7 +29293,6 @@ SET/-,
 вида.
 
 ### Выдвигайте
-`livan_x3_pro_ru_7118df5b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:52 | doc_type:owners_manual
 боковое зеркало заднего вида наружу,
 чтобы
 вручную
@@ -31197,7 +29301,6 @@ SET/-,
 зеркало заднего вида.
 
 ### Функция
-`livan_x3_pro_ru_8e706cca` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 обогрева
 боковых
 зеркал заднего вида
@@ -31219,7 +29322,6 @@ SET/-,
 зеркал заднего вида / заднего стекла, и
 
 ### Система контроля и управления
-`livan_x3_pro_ru_22803b3c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:52 | doc_type:owners_manual
 50
 загорится
 индикатор
@@ -31251,7 +29353,6 @@ SET/-,
 кондиционирования".
 
 ### Внутреннее зеркало заднего
-`livan_x3_pro_ru_4636a233` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 вида
 Регулировка
 внутреннего
@@ -31262,7 +29363,6 @@ SET/-,
 травмам или повреждению имущества.
 
 ### Внутреннее
-`livan_x3_pro_ru_c3db2471` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 зеркало
 заднего
 вида
@@ -31279,7 +29379,6 @@ SET/-,
 желаемое положение.
 
 ### Внутреннее
-`livan_x3_pro_ru_c3db2471` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 зеркало
 заднего
 вида
@@ -31306,7 +29405,6 @@ SET/-,
 затемнения.
 
 ### Потяните
-`livan_x3_pro_ru_e9a6ba35` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 ручку
 назад,
 чтобы
@@ -31324,7 +29422,6 @@ SET/-,
 затемнения.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_fd99cca1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 2
 8
 7
@@ -31339,7 +29436,6 @@ SET/-,
 стеклоподъемники
 
 ### Никогда
-`livan_x3_pro_ru_d98f51d1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 не
 оставляйте
 детей,
@@ -31355,7 +29451,6 @@ SET/-,
 окнами.
 
 ### Неспособность
-`livan_x3_pro_ru_07d8f8d3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 открытия этими лицами дверей и окон
 может повлечь за собой вред здоровью
 или смерть из-за воздействия слишком
@@ -31370,7 +29465,6 @@ SET/-,
 ли окна функцию защиты от защемления.
 
 ### Не пытайтесь использовать части своего
-`livan_x3_pro_ru_618c594e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 тела для проверки функции защиты от
 защемления, иначе это может привести к
 травмам или смерти.
@@ -31385,7 +29479,6 @@ SET/-,
 от защемления может не сработать.
 
 ### 2. Переключатель
-`livan_x3_pro_ru_bb9039ea` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 левого
 переднего
 окна
@@ -31395,7 +29488,6 @@ SET/-,
 окна
 
 ### Ручное управление
-`livan_x3_pro_ru_656b5620` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 Открытие:
 нажмите
 и
@@ -31405,7 +29497,6 @@ SET/-,
 переключатель, чтобы закрыть окно.
 
 ### Дистанционное
-`livan_x3_pro_ru_67827861` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 открытие
 /
 закрытие окон*
@@ -31417,7 +29508,6 @@ SET/-,
 положение
 
 ### OFF,
-`livan_x3_pro_ru_731706b3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:54 | doc_type:owners_manual
 дверь
 багажника
 и
@@ -31441,7 +29531,6 @@ SET/-,
 люка.
 
 ### Блокировка и автоматическое
-`livan_x3_pro_ru_5eafcfb1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:54 | doc_type:owners_manual
 закрытие окон*
 Если
 в
@@ -31462,7 +29551,6 @@ SET/-,
 положение
 
 ### OFF,
-`livan_x3_pro_ru_731706b3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:54 | doc_type:owners_manual
 дверь
 багажника
 и
@@ -31472,7 +29560,6 @@ SET/-,
 Управление "одной кнопкой"*
 
 ### Нажмите переключатель до положения
-`livan_x3_pro_ru_8a81fcf0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 автоматического
 опускания
 и
@@ -31498,7 +29585,6 @@ SET/-,
 перестанет опускаться.
 
 ### В некоторых моделях автомобиля также
-`livan_x3_pro_ru_0ade4f7c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 можно потянуть за переключатель до
 положения автоматического поднимания,
 затем
@@ -31509,7 +29595,6 @@ SET/-,
 полностью закрыто.
 
 ### Во время автоматического поднимания
-`livan_x3_pro_ru_72b1cad4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 окна снова нажмите или потяните за
 переключатель
 и
@@ -31519,7 +29604,6 @@ SET/-,
 перестанет подниматься.
 
 ### Переключатель
-`livan_x3_pro_ru_7111f2df` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 блокировки
 окон
 Переключатель
@@ -31529,7 +29613,6 @@ SET/-,
 переключателями окон.
 
 ### Нажмите
-`livan_x3_pro_ru_80558415` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 на
 переключатель,
 чтобы
@@ -31559,7 +29642,6 @@ SET/-,
 отключена.
 
 ### Тепловая
-`livan_x3_pro_ru_2861dae1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:55 | doc_type:owners_manual
 защита
 электрических
 стеклоподъемников
@@ -31578,13 +29660,11 @@ SET/-,
 привода.
 
 ### Функционирование
-`livan_x3_pro_ru_5783688d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:55 | doc_type:owners_manual
 электрических
 стеклоподъемников будет возобновлено
 через короткий промежуток времени.
 
 ### Функция
-`livan_x3_pro_ru_3c00a942` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:55 | doc_type:owners_manual
 защиты
 от
 защемления*
@@ -31607,7 +29687,6 @@ SET/-,
 расстояние.
 
 ### Избегайте
-`livan_x3_pro_ru_0a4c6152` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:55 | doc_type:owners_manual
 травм.
 Самообучение
 использования
@@ -31626,7 +29705,6 @@ SET/-,
 от защемления.
 
 ### Перед проведением самообучения
-`livan_x3_pro_ru_34bfe90b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:55 | doc_type:owners_manual
 замените
 или
 подзарядите
@@ -31634,7 +29712,6 @@ SET/-,
 Процесс самообучения:
 
 ### Система контроля и управления
-`livan_x3_pro_ru_f6ae2bd9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:55 | doc_type:owners_manual
 2
 8
 7
@@ -31655,12 +29732,10 @@ SET/-,
 поднимется.
 
 ### Снова потяните вверх переключатель
-`livan_x3_pro_ru_d562cb1e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 окна и удерживайте более 2 секунд,
 после чего отпустите.
 
 ### 2. Нажмите на переключатель окна и
-`livan_x3_pro_ru_7503c950` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:56 | doc_type:owners_manual
 удерживайте
 в
 направлении
@@ -31677,7 +29752,6 @@ SET/-,
 после чего отпустите.
 
 ### 3. Повторите
-`livan_x3_pro_ru_ed98644b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 подъем
 и
 опускание
@@ -31688,7 +29762,6 @@ SET/-,
 выполнено.
 
 ### 4. Если
-`livan_x3_pro_ru_39a35c7c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:56 | doc_type:owners_manual
 электрические
 стеклоподъемники
 по-прежнему
@@ -31706,7 +29779,6 @@ SET/-,
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_26cb54eb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 для
 проведения
 технического
@@ -31722,7 +29794,6 @@ SET/-,
 положение
 
 ### OFF,
-`livan_x3_pro_ru_f7225071` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 при
 выполнении
 следующих
@@ -31736,13 +29807,11 @@ SET/-,
 управлять с помощью переключателей.
 
 ### 1. Пусковой переключатель переведен в
-`livan_x3_pro_ru_f9e421c1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 положение OFF в течение 60 секунд;
 2. Левая и правая передние двери не
 открыты;
 
 ### 3. Пульт дистанционного управления /
-`livan_x3_pro_ru_007eceae` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 смарт-ключ
 не
 используется
@@ -31753,7 +29822,6 @@ SET/-,
 автомобиля.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_af7f5567` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:56 | doc_type:owners_manual
 54
 Люк*
 Стандартный люк
@@ -31766,7 +29834,6 @@ SET/-,
 части салона.
 
 ### Во избежание серьезных травм или
-`livan_x3_pro_ru_f0bea76d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 смерти
 необходимо
 соблюдать
@@ -31778,7 +29845,6 @@ SET/-,
 •
 
 ### Строго
-`livan_x3_pro_ru_07e5da2f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 запрещается
 высовывать
 голову или другие части тела из люка.
@@ -31795,7 +29861,6 @@ SET/-,
 •
 
 ### Запрещается
-`livan_x3_pro_ru_1f34bf25` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 сидеть
 на
 крыше
@@ -31808,7 +29873,6 @@ SET/-,
 несчастный случай несет опекун.
 
 ### В случае обледенения люка ни в
-`livan_x3_pro_ru_490d82cc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 коем случае не открывайте люк,
 чтобы
 избежать
@@ -31816,7 +29880,6 @@ SET/-,
 компонентов люка.
 
 ### Если на уплотнительной резинке
-`livan_x3_pro_ru_fc6e7eec` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 стекла
 люка
 и
@@ -31836,7 +29899,6 @@ SET/-,
 Открытие / закрытие люка
 
 ### Потяните
-`livan_x3_pro_ru_a10b1f74` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 за
 переключатель
 люка,
@@ -31860,7 +29922,6 @@ SET/-,
 двигаться.
 
 ### Длительное
-`livan_x3_pro_ru_d295d8c6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 воздействие
 на
 переключатель
@@ -31878,7 +29939,6 @@ SET/-,
 остановится в текущем положении.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_b7e7ef9d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 2
 8
 7
@@ -31899,7 +29959,6 @@ SET/-,
 люка вперед, чтобы поднять люк.
 
 ### Опускание люка
-`livan_x3_pro_ru_2b5b7cef` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 Если
 люк
 находится
@@ -31909,7 +29968,6 @@ SET/-,
 люка назад, и люк закроется.
 
 ### Функция
-`livan_x3_pro_ru_0b136249` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:58 | doc_type:owners_manual
 автоматического
 закрытия люка
 Когда двигатель автомобиля заглушен, и
@@ -31954,7 +30012,6 @@ SET/-,
 закрытия люка будет неактивной.
 
 ### Функция
-`livan_x3_pro_ru_0b136249` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 защиты
 от
 защемления
@@ -31962,19 +30019,16 @@ SET/-,
 поднятии люка
 
 ### Если при поднятии люка под наклоном
-`livan_x3_pro_ru_bec9de4e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 возникнут
 препятствия,
 действие
 открывания прекратится;
 
 ### Если при опускании люка под наклоном
-`livan_x3_pro_ru_58f4886e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 возникнут препятствия, люк вернется в
 полностью поднятое положение.
 
 ### Функция защиты от защемления при
-`livan_x3_pro_ru_485300c9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:58 | doc_type:owners_manual
 выдвижении люка
 Когда
 люк
@@ -31994,7 +30048,6 @@ SET/-,
 направлении, чтобы избежать травм.
 
 ### Самообучение модуля люка
-`livan_x3_pro_ru_a0f20eb6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:58 | doc_type:owners_manual
 Если
 аккумулятор
 автомобиля
@@ -32019,7 +30072,6 @@ SET/-,
 Процесс самообучения:
 
 ### 1. Потянув и удерживая переключатель
-`livan_x3_pro_ru_aad1e1c6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:58 | doc_type:owners_manual
 люка,
 переместите
 стекло
@@ -32032,7 +30084,6 @@ SET/-,
 люка.
 
 ### 2. Снова
-`livan_x3_pro_ru_31f23864` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:58 | doc_type:owners_manual
 переместите
 переключатель
 люка вперед и удерживайте более 15
@@ -32048,7 +30099,6 @@ SET/-,
 переключатель люка.
 
 ### 3. Снова
-`livan_x3_pro_ru_fbf1dae5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 потяните
 за
 переключатель
@@ -32065,7 +30115,6 @@ SET/-,
 задвигаться и, наконец, остановится
 
 ### Система контроля и управления
-`livan_x3_pro_ru_72560c39` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 56
 в
 закрытом
@@ -32077,14 +30126,12 @@ SET/-,
 окончания самообучения.
 
 ### Ручной
-`livan_x3_pro_ru_01ff2224` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 солнцезащитный
 козырек люка
 Солнцезащитный козырек люка можно
 открывать или закрывать вручную.
 
 ### Во время движения автомобиля на
-`livan_x3_pro_ru_fcd1b19e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 высокой
 скорости
 запрещается
@@ -32092,7 +30139,6 @@ SET/-,
 открытом люке.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_0ab0a42f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:59 | doc_type:owners_manual
 2
 8
 7
@@ -32108,7 +30154,6 @@ SET/-,
 переднего ряда
 
 ### Внутреннее освещение переднего ряда
-`livan_x3_pro_ru_ed158afc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 включает
 в
 себя
@@ -32118,7 +30163,6 @@ SET/-,
 переключатели внутреннего освещения.
 
 ### Внутреннее
-`livan_x3_pro_ru_67e070d3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 освещение
 переднего
 ряда
@@ -32131,13 +30175,11 @@ SET/-,
 освещения
 
 ### 2. Переключатель
-`livan_x3_pro_ru_1e8a297e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 управления
 внутренним освещением от дверей
 автомобиля
 
 ### 3. Правый переключатель внутреннего
-`livan_x3_pro_ru_1f2c95ee` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 освещения
 Внутреннее
 освещение
@@ -32148,7 +30190,6 @@ SET/-,
 люком)
 
 ### 1. Левый
-`livan_x3_pro_ru_6ec8831c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 переключатель
 внутреннего
 освещения
@@ -32158,14 +30199,12 @@ SET/-,
 автомобиля
 
 ### 3. Правый переключатель внутреннего
-`livan_x3_pro_ru_1f2c95ee` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 освещения
 Управление
 внутренним
 освещением переднего ряда
 
 ### Нажмите
-`livan_x3_pro_ru_8f9f1938` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 на
 левый
 или
@@ -32201,7 +30240,6 @@ SET/-,
 автомобиля.
 
 ### Переключатель дверного управления по
-`livan_x3_pro_ru_49f84289` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:60 | doc_type:owners_manual
 умолчанию
 находится
 во
@@ -32212,7 +30250,6 @@ SET/-,
 внутреннего
 
 ### Система контроля и управления
-`livan_x3_pro_ru_7d4dd80b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 58
 освещения. Нажатие на переключатель
 управления внутренним освещением от
@@ -32220,7 +30257,6 @@ SET/-,
 этот режим.
 
 ### При использовании переключателя
-`livan_x3_pro_ru_73ad3206` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 управления от дверей автомобиля
 для включения внутреннего освещения с
 левой или правой стороны выключение
@@ -32239,7 +30275,6 @@ SET/-,
 внутреннего освещения переднего ряда.
 
 ### Освещение
-`livan_x3_pro_ru_07330b15` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:61 | doc_type:owners_manual
 пассажирского
 салона
 ухудшит видимость водителя в темноте,
@@ -32250,7 +30285,6 @@ SET/-,
 дорожнотранспортным происшествиям.
 
 ### Переключатель управления внутренним
-`livan_x3_pro_ru_1d70706f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 освещением от дверей автомобиля по
 умолчанию
 находится
@@ -32259,7 +30293,6 @@ SET/-,
 состоянии.
 
 ### Включение освещения
-`livan_x3_pro_ru_a55c40af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 •
 Когда
 все
@@ -32287,7 +30320,6 @@ SET/-,
 загорится.
 
 ### Выключение освещения
-`livan_x3_pro_ru_4bc6c667` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 •
 Когда
 все
@@ -32340,7 +30372,6 @@ SET/-,
 выключится.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_e8ba08f1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:61 | doc_type:owners_manual
 2
 8
 7
@@ -32361,7 +30392,6 @@ SET/-,
 багажника.
 
 ### Перчаточный
-`livan_x3_pro_ru_b2ba8300` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
 ящик
 расположен
 на
@@ -32369,7 +30399,6 @@ SET/-,
 пассажира.
 
 ### Потяните
-`livan_x3_pro_ru_687a0062` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
 ручку
 крышки
 перчаточного
@@ -32380,7 +30409,6 @@ SET/-,
 его.
 
 ### Толкните
-`livan_x3_pro_ru_84f9bf58` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
 крышку
 перчаточного
 ящика
@@ -32389,7 +30417,6 @@ SET/-,
 закрыть его.
 
 ### В
-`livan_x3_pro_ru_050a67c7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
 данном
 автомобиле
 предусмотрено
@@ -32403,20 +30430,17 @@ SET/-,
 в
 
 ### Система контроля и управления
-`livan_x3_pro_ru_1e0ea407` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
 60
 нижней части панели левой и правой
 передних дверей.
 
 ### Отсек для хранения в приборной
-`livan_x3_pro_ru_9c895976` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 панели
 У некоторых моделей в нижней левой
 части приборной панели есть отсек для
 хранения мелких предметов.
 
 ### Верхний
-`livan_x3_pro_ru_263351d2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 отсек
 для
 хранения
@@ -32427,7 +30451,6 @@ SET/-,
 предметов.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_974c1144` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:63 | doc_type:owners_manual
 2
 8
 7
@@ -32462,7 +30485,6 @@ SET/-,
 хранения.
 
 ### Сторона водителя и сторона переднего
-`livan_x3_pro_ru_f96ba4fd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 пассажира
 автомобиля
 оборудованы
@@ -32472,7 +30494,6 @@ SET/-,
 уменьшить блики.
 
 ### Передний
-`livan_x3_pro_ru_8c1725e5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 центральный
 подлокотник
 Под
@@ -32485,14 +30506,12 @@ SET/-,
 отделение.
 
 ### Вещевое
-`livan_x3_pro_ru_8d840d44` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 отделение
 можно
 открыть,
 подняв крышку подлокотника.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_495e04da` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 62
 Не открывайте вещевое отделение
 под
@@ -32501,7 +30520,6 @@ SET/-,
 во время движения автомобиля.
 
 ### На вспомогательной приборной панели
-`livan_x3_pro_ru_9f9a2153` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 имеется подстаканник для размещения
 чайных стаканов или напитков. Кроме
 того,
@@ -32516,7 +30534,6 @@ SET/-,
 предметы.
 
 ### Резервный
-`livan_x3_pro_ru_a0e41723` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:65 | doc_type:owners_manual
 источник
 питания
 Автомобиль
@@ -32530,7 +30547,6 @@ SET/-,
 панели.
 
 ### Электрическую
-`livan_x3_pro_ru_216a4f1c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:65 | doc_type:owners_manual
 розетку
 можно
 использовать
@@ -32541,14 +30557,12 @@ SET/-,
 максимальной мощностью 120 Вт.
 
 ### Мультимедийный
-`livan_x3_pro_ru_04ec4569` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:65 | doc_type:owners_manual
 интерфейс
 Передний
 мультимедийный
 интерфейс зарядки
 
 ### Автомобиль
-`livan_x3_pro_ru_94afa85e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:65 | doc_type:owners_manual
 оснащен
 1-м
 мультимедийным интерфейсом зарядки
@@ -32561,7 +30575,6 @@ USB
 Задний интерфейс зарядки*
 
 ### Система контроля и управления
-`livan_x3_pro_ru_26337381` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 2
 8
 7
@@ -32575,7 +30588,6 @@ USB
 зарядки
 
 ### USB
-`livan_x3_pro_ru_b2201a3e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:66 | doc_type:owners_manual
 в
 задней
 части
@@ -32583,7 +30595,6 @@ USB
 Внутренние ручки
 
 ### Со стороны переднего пассажира и с
-`livan_x3_pro_ru_4404e4f8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:66 | doc_type:owners_manual
 двух
 сторон
 заднего
@@ -32597,7 +30608,6 @@ USB
 положение при отпускании.
 
 ### Внутренние ручки с обеих сторон заднего
-`livan_x3_pro_ru_b2374fc1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:66 | doc_type:owners_manual
 ряда
 сидений
 автомобиля
@@ -32605,7 +30615,6 @@ USB
 крючками для одежды пассажиров.
 
 ### Не вешайте тяжелые предметы на
-`livan_x3_pro_ru_689f4a50` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:66 | doc_type:owners_manual
 крючки
 для
 одежды,
@@ -32618,7 +30627,6 @@ USB
 изданий
 
 ### Карман
-`livan_x3_pro_ru_0febf465` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:66 | doc_type:owners_manual
 для
 печатных
 изданий
@@ -32628,7 +30636,6 @@ USB
 карты.
 
 ### Не кладите в карман для печатных
-`livan_x3_pro_ru_5b3ddee1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:66 | doc_type:owners_manual
 изданий
 тяжелые
 или
@@ -32637,7 +30644,6 @@ USB
 Полка
 
 ### Система контроля и управления
-`livan_x3_pro_ru_d5f56c6d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:66 | doc_type:owners_manual
 64
 Не
 кладите
@@ -32670,7 +30676,6 @@ USB
 •
 
 ### Расположите предметы в передней
-`livan_x3_pro_ru_9d3c83b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 части
 багажного
 отделения.
@@ -32681,7 +30686,6 @@ USB
 •
 
 ### Запрещается штабелировать тяжелые
-`livan_x3_pro_ru_31bbbcf1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 предметы в транспортном средстве.
 •
 При
@@ -32695,7 +30699,6 @@ USB
 в этом нет необходимости.
 
 ### Пространство со сложенными сиденьями
-`livan_x3_pro_ru_afb8658d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 можно
 использовать
 для
@@ -32703,7 +30706,6 @@ USB
 больших или тяжелых предметов.
 
 ### Не кладите домашних животных в
-`livan_x3_pro_ru_d3190e28` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:67 | doc_type:owners_manual
 багажник.
 Загрузка тяжелых предметов
 Если
@@ -32727,7 +30729,6 @@ USB
 ближе к передней части автомобиля.
 
 ### Загрузка высоких предметов
-`livan_x3_pro_ru_1b4e3b57` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 При
 загрузке
 высокого
@@ -32744,7 +30745,6 @@ USB
 движения.
 
 ### Загрузка
-`livan_x3_pro_ru_f9c72524` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:67 | doc_type:owners_manual
 крупногабаритных
 предметов
 При
@@ -32760,7 +30760,6 @@ USB
 движения.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_c2750524` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 2
 8
 7
@@ -32774,7 +30773,6 @@ USB
 Рейлинги на крыше
 
 ### Рейлинги расположены с двух сторон на
-`livan_x3_pro_ru_0b40a340` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:68 | doc_type:owners_manual
 крыше автомобиля.
 Рейлинги представляют собой раму
 без
@@ -32793,7 +30791,6 @@ USB
 выдерживать воздействие внешних сил.
 
 ### Если необходимо установить раму для
-`livan_x3_pro_ru_0212f948` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:68 | doc_type:owners_manual
 багажа с несущей нагрузкой, обратитесь
 в
 центр
@@ -32804,7 +30801,6 @@ LIVAN, установка и эксплуатация рамы
 строгом соответствии с требованиями.
 
 ### Система контроля и управления
-`livan_x3_pro_ru_f1b9c17d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:69 | doc_type:owners_manual
 66
 3
 8
@@ -32819,7 +30815,6 @@ LIVAN, установка и эксплуатация рамы
 кондиционирование
 
 ### Система
-`livan_x3_pro_ru_ef3b19ec` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 управления
 кондиционером
 Панель
@@ -32828,7 +30823,6 @@ LIVAN, установка и эксплуатация рамы
 панели
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_616ca029` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:70 | doc_type:owners_manual
 68
 Панель
 управления
@@ -32838,7 +30832,6 @@ LIVAN, установка и эксплуатация рамы
 1.
 
 ### Клавиша регулировки температуры
-`livan_x3_pro_ru_41ed70aa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 7.
 Клавиша A/C MAX
 2.
@@ -32848,7 +30841,6 @@ LIVAN, установка и эксплуатация рамы
 8.
 
 ### Клавиша выбора режима обдува
-`livan_x3_pro_ru_eba798d7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 3.
 Клавиша A/C
 9.
@@ -32858,7 +30850,6 @@ LIVAN, установка и эксплуатация рамы
 4.
 
 ### Клавиша внутренней и внешней
-`livan_x3_pro_ru_500de61b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 циркуляции
 10.
 Клавиша управления
@@ -32870,7 +30861,6 @@ LIVAN, установка и эксплуатация рамы
 11.
 
 ### Клавиша максимальной
-`livan_x3_pro_ru_8e766d40` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 интенсивности
 кондиционирования
 6.
@@ -32878,7 +30868,6 @@ LIVAN, установка и эксплуатация рамы
 боковых зеркал заднего вида
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_8dea4783` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 3
 8
 7
@@ -32894,7 +30883,6 @@ LIVAN, установка и эксплуатация рамы
 управления кондиционером
 
 ### Пользуйтесь
-`livan_x3_pro_ru_0a16c6b7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 данной
 клавишей
 в
@@ -32910,14 +30898,12 @@ LIVAN, установка и эксплуатация рамы
 снижения температуры - вниз.
 
 ### 2. Клавиша регулировки интенсивности
-`livan_x3_pro_ru_dff5bc07` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 кондиционирования
 /
 клавиша
 выключения кондиционера
 
 ### Нажмите
-`livan_x3_pro_ru_3ab75e1f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 эту
 клавишу,
 чтобы
@@ -32936,7 +30922,6 @@ LIVAN, установка и эксплуатация рамы
 кондиционер.
 
 ### Переместите
-`livan_x3_pro_ru_a77681f9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 эту
 клавишу
 вверх,
@@ -32949,7 +30934,6 @@ OFF, нажмите клавишу A/C, чтобы
 запустить кондиционер и компрессор.
 
 ### 4. Клавиша
-`livan_x3_pro_ru_bf453438` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:72 | doc_type:owners_manual
 внутренней
 и
 внешней
@@ -32997,7 +30981,6 @@ OFF, нажмите клавишу A/C, чтобы
 автомобиля.
 
 ### Длительное использование режима
-`livan_x3_pro_ru_d62b1e66` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 внутренней
 циркуляции
 может
@@ -33009,7 +30992,6 @@ OFF, нажмите клавишу A/C, чтобы
 автомобиле или запотеванию стекол.
 
 ### 5. Клавиша
-`livan_x3_pro_ru_c79dffe9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:72 | doc_type:owners_manual
 обогрева
 /
 устранения
@@ -33049,7 +31031,6 @@ OFF, нажмите клавишу A/C, чтобы
 раз.
 
 ### Температура
-`livan_x3_pro_ru_bca28a46` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 остается
 на
 текущем
@@ -33071,7 +31052,6 @@ OFF, нажмите клавишу A/C, чтобы
 циркуляции.
 
 ### В
-`livan_x3_pro_ru_c45a7135` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 режиме
 обогрева
 /
@@ -33085,7 +31065,6 @@ OFF, нажмите клавишу A/C, чтобы
 режимы
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_02fb9726` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 70
 внутренней и внешней циркуляции
 можно регулировать вручную. При
@@ -33121,7 +31100,6 @@ OFF, нажмите клавишу обогрева /
 стекла, чтобы включить кондиционер.
 
 ### 6. Клавиша обогрева заднего стекла /
-`livan_x3_pro_ru_1ccd290f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:73 | doc_type:owners_manual
 боковых зеркал заднего вида
 Нажатие
 этой
@@ -33147,7 +31125,6 @@ OFF, нажмите клавишу обогрева /
 стекла.
 
 ### Функция
-`livan_x3_pro_ru_19ef65d8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 обогрева
 заднего
 стекла
@@ -33159,14 +31136,12 @@ OFF, нажмите клавишу обогрева /
 непрерывной работы.
 
 ### Не используйте скребок или острые
-`livan_x3_pro_ru_7bbf684f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 инструменты для удаления наледи
 или других веществ с лобового стекла и
 заднего стекла. Избегайте повреждения
 решетки обогревателя заднего стекла.
 
 ### Такие повреждения не входят в сферу
-`livan_x3_pro_ru_d635dc89` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 гарантийного ремонта. Убедитесь, что
 предметы
 находятся
@@ -33175,7 +31150,6 @@ OFF, нажмите клавишу обогрева /
 расстоянии от окон.
 
 ### 7. Клавиша A/C MAX
-`livan_x3_pro_ru_63293315` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:73 | doc_type:owners_manual
 Когда
 данный
 световой
@@ -33187,7 +31161,6 @@ OFF, нажмите клавишу обогрева /
 снижение температуры.
 
 ### Данная
-`livan_x3_pro_ru_dd4bbbbd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 клавиша
 позволяет
 регулировать режим обдува. Можно
@@ -33201,13 +31174,11 @@ OFF, нажмите клавишу обогрева /
 обдув ног.
 
 ### 9. Клавиша отключения интенсивности
-`livan_x3_pro_ru_23fdcfed` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 кондиционирования
 Из дефлекторов не будет выходить
 воздух.
 
 ### 10. Клавиша управления интенсивностью
-`livan_x3_pro_ru_b30a4865` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 кондиционирования
 Регулировка
 скорости
@@ -33215,13 +31186,11 @@ OFF, нажмите клавишу обогрева /
 вентилятора.
 
 ### Скорость
-`livan_x3_pro_ru_ec781687` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 подачи
 воздуха может быть установлена в
 положении 1-8.
 
 ### 11. Клавиша
-`livan_x3_pro_ru_6e848a89` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 максимальной
 интенсивности кондиционирования
 Регулировка
@@ -33233,7 +31202,6 @@ OFF, нажмите клавишу обогрева /
 воздуха.
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_04347833` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 3
 8
 7
@@ -33254,7 +31222,6 @@ self-drying
 осушения кондиционера)
 
 ### После включения функции Air conditioning
-`livan_x3_pro_ru_470b3e0d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:74 | doc_type:owners_manual
 self-drying
 (режим
 автоматического
@@ -33275,7 +31242,6 @@ self-drying
 мультимедиа.
 
 ### Нажмите переключатель Air conditioning
-`livan_x3_pro_ru_e9ed1891` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:74 | doc_type:owners_manual
 self-drying
 (режим
 автоматического
@@ -33293,7 +31259,6 @@ Cabin air refresh mode (режим
 обновления воздуха в салоне)
 
 ### При включении функции Cabin air refresh
-`livan_x3_pro_ru_b70e1bfd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:74 | doc_type:owners_manual
 mode
 (режим
 обновления
@@ -33319,7 +31284,6 @@ mode
 эффект автоматической очистки.
 
 ### Переключатель Cabin air refresh mode
-`livan_x3_pro_ru_a615c6f9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:74 | doc_type:owners_manual
 (режим обновления воздуха в салоне)
 находится в настройках мультимедиа.
 Нажмите переключатель очистки салона,
@@ -33328,7 +31292,6 @@ Cabin air refresh mode (режим обновления
 воздуха в салоне).
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_b2843ae1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:74 | doc_type:owners_manual
 72
 Датчики
 окружающего
@@ -33338,7 +31301,6 @@ Cabin air refresh mode (режим обновления
 света*
 
 ### Датчики
-`livan_x3_pro_ru_7d76eee5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:75 | doc_type:owners_manual
 окружающего
 освещения
 и
@@ -33360,7 +31322,6 @@ Cabin air refresh mode (режим обновления
 освещения.
 
 ### Содержите датчики в чистоте и не
-`livan_x3_pro_ru_ae9f9a51` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:75 | doc_type:owners_manual
 наклеивайте
 на
 них
@@ -33374,7 +31335,6 @@ Cabin air refresh mode (режим обновления
 работать должным образом.
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_a90559f0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:75 | doc_type:owners_manual
 3
 8
 7
@@ -33387,12 +31347,10 @@ Cabin air refresh mode (режим обновления
 Система кондиционирования воздуха и вентиляции
 
 ### Воздухозаборник отопителя
-`livan_x3_pro_ru_32c96d9d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:76 | doc_type:owners_manual
 Удаляйте все загрязнения с отверстий воздухозаборника отопителя, в противном
 случае будет блокироваться поступление воздуха в автомобиль.
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_6b0bd73e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:76 | doc_type:owners_manual
 74
 Дефлектора отопителя
 Передние дефлектора
@@ -33404,7 +31362,6 @@ Cabin air refresh mode (режим обновления
 4.
 
 ### Отверстие для выпуска воздуха в
-`livan_x3_pro_ru_e7953ffd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 области ног передних сидений
 2.
 Отверстия
@@ -33414,7 +31371,6 @@ Cabin air refresh mode (режим обновления
 5.
 
 ### Отверстия обогрева боковых окон
-`livan_x3_pro_ru_7b29e44a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:77 | doc_type:owners_manual
 3.
 Центральный
 дефлектор
@@ -33424,7 +31380,6 @@ Cabin air refresh mode (режим обновления
 боковые дефлектора постоянно будут выпускать воздух.
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_b169daef` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 3
 8
 7
@@ -33440,7 +31395,6 @@ Cabin air refresh mode (режим обновления
 кондиционера
 
 ### Отрегулируйте
-`livan_x3_pro_ru_77e71145` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 направление
 решетки
 дефлектора,
@@ -33449,7 +31403,6 @@ Cabin air refresh mode (режим обновления
 вверх-вниз и влево-вправо.
 
 ### Фильтр
-`livan_x3_pro_ru_64da7dd5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 кондиционера
 расположен
 за
@@ -33468,7 +31421,6 @@ Cabin air refresh mode (режим обновления
 имеет функцию стерилизации.
 
 ### Для поддержания наилучшего эффекта
-`livan_x3_pro_ru_92cd76a3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 фильтрации
 регулярно
 проверяйте
@@ -33484,7 +31436,6 @@ Cabin air refresh mode (режим обновления
 гарантии и техническому обслуживанию".
 
 ### Техническое
-`livan_x3_pro_ru_f726851b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 обслуживание
 системы кондиционирования
 •
@@ -33503,7 +31454,6 @@ Cabin air refresh mode (режим обновления
 высокой.
 
 ### В
-`livan_x3_pro_ru_f92d946d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 этом
 случае
 сначала
@@ -33517,7 +31467,6 @@ Cabin air refresh mode (режим обновления
 клавишу
 
 ### MAX.
-`livan_x3_pro_ru_eed8a301` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 Когда
 температура в автомобиле снизится,
 закройте
@@ -33528,7 +31477,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### В
-`livan_x3_pro_ru_f92d946d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:78 | doc_type:owners_manual
 сырую
 погоду
 запрещается
@@ -33551,7 +31499,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Закройте
-`livan_x3_pro_ru_8a1a7aac` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 все
 окна,
 рекомендуется
@@ -33590,7 +31537,6 @@ Cabin air refresh mode (режим обновления
 воздухозаборник отопителя.
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_2036f63c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 76
 •
 Держите пространство под передними
@@ -33600,7 +31546,6 @@ Cabin air refresh mode (режим обновления
 облегчить циркуляцию воздуха.
 
 ### Если вы хотите оставить автомобиль на
-`livan_x3_pro_ru_afabfbd6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 хранение или
 не использовать его в
 течение двух недель или более, дайте
@@ -33621,13 +31566,11 @@ Cabin air refresh mode (режим обновления
 течение пяти минут на холостом ходу.
 
 ### Это позволит полностью смазать систему
-`livan_x3_pro_ru_15cb7042` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 кондиционирования и свести к минимуму
 вероятность повреждения компрессора
 при повторном запуске системы.
 
 ### Система кондиционирования воздуха
-`livan_x3_pro_ru_567d7b39` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 4
 8
 7
@@ -33648,7 +31591,6 @@ Cabin air refresh mode (режим обновления
 подголовниками.
 
 ### Высота подголовника регулируется под
-`livan_x3_pro_ru_827e906c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 уровень
 головы
 пассажира.
@@ -33680,7 +31622,6 @@ Cabin air refresh mode (режим обновления
 отрегулированы.
 
 ### Регулирование
-`livan_x3_pro_ru_c2728178` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 подголовника
 передних сидений
 Нажатие на кнопку на боковой части
@@ -33693,7 +31634,6 @@ Cabin air refresh mode (режим обновления
 вертикально.
 
 ### Характерный
-`livan_x3_pro_ru_c7f95e44` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 щелчок
 означает, что положение подголовника
 зафиксировано. При помощи нажатия на
@@ -33701,7 +31641,6 @@ Cabin air refresh mode (режим обновления
 подголовник.
 
 ### Регулирование
-`livan_x3_pro_ru_c2728178` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 подголовника
 задних сидений
 Нажатие на кнопку на боковой части
@@ -33714,7 +31653,6 @@ Cabin air refresh mode (режим обновления
 вертикально.
 
 ### Характерный
-`livan_x3_pro_ru_c7f95e44` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 щелчок
 Сиденья и устройства защиты
 78
@@ -33724,7 +31662,6 @@ Cabin air refresh mode (режим обновления
 подголовник.
 
 ### Не следует регулировать сиденья
-`livan_x3_pro_ru_0b5f2732` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 во время движения. Регулирование
 сиденья
 во
@@ -33750,7 +31687,6 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### Неверная
-`livan_x3_pro_ru_94c0e043` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 регулировка
 ремня
 безопасности
@@ -33760,7 +31696,6 @@ Cabin air refresh mode (режим обновления
 серьезным травмам.
 
 ### Не приводите сиденье в горизонтальное
-`livan_x3_pro_ru_9e907b5a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:81 | doc_type:owners_manual
 положение
 во
 время
@@ -33788,7 +31723,6 @@ Cabin air refresh mode (режим обновления
 получить серьезные травмы.
 
 ### Ручная
-`livan_x3_pro_ru_81822eae` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:81 | doc_type:owners_manual
 регулировка
 сиденья
 водителя
@@ -33814,7 +31748,6 @@ Cabin air refresh mode (режим обновления
 слева и спереди.
 
 ### 1. Рычаг
-`livan_x3_pro_ru_39296d00` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 для
 перемещения
 сиденья
@@ -33822,7 +31755,6 @@ Cabin air refresh mode (режим обновления
 2. Ручка для регулирования высоты
 
 ### 3. Ручка
-`livan_x3_pro_ru_afc22a79` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 для
 регулирования
 наклона
@@ -33834,7 +31766,6 @@ Cabin air refresh mode (режим обновления
 назад
 
 ### Возьмитесь
-`livan_x3_pro_ru_f4d5a47e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 за
 рычаг
 посередине
@@ -33850,13 +31781,11 @@ Cabin air refresh mode (режим обновления
 регулировки.
 
 ### Нажмите или поднимите вверх ручку для
-`livan_x3_pro_ru_c5c75bb9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:81 | doc_type:owners_manual
 регулирования высоты, чтобы опустить
 или поднять сиденье до нужной высоты,
 затем отпустите ручку.
 
 ### Регулирование угла наклона спинки
-`livan_x3_pro_ru_65240176` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 сиденья
 Чтобы отклонить спинку сиденья назад,
 приподнимите
@@ -33881,7 +31810,6 @@ Cabin air refresh mode (режим обновления
 приподнимите ручку 1 регулировки угла
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_69f1e38f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 4
 8
 7
@@ -33917,7 +31845,6 @@ Cabin air refresh mode (режим обновления
 движения автомобиля.
 
 ### Ремень
-`livan_x3_pro_ru_681b64c6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:82 | doc_type:owners_manual
 безопасности
 способен
 максимально
@@ -33933,7 +31860,6 @@ Cabin air refresh mode (режим обновления
 положении спинок сидений.
 
 ### При откинутом положении сиденья часть
-`livan_x3_pro_ru_c03bb415` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 ремня
 на
 талии
@@ -33944,13 +31870,11 @@ Cabin air refresh mode (режим обновления
 или съехать в район шеи.
 
 ### При лобовом столкновении чрезмерный
-`livan_x3_pro_ru_74cab8fe` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 угол наклона сиденья может увеличить
 риск получения травм или даже привести
 к летальному исходу.
 
 ### Ручное
-`livan_x3_pro_ru_2855857a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:82 | doc_type:owners_manual
 регулирование
 переднего
 пассажирского
@@ -33971,7 +31895,6 @@ Cabin air refresh mode (режим обновления
 справа и спереди.
 
 ### Регулирование
-`livan_x3_pro_ru_a0802d45` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 сиденья
 пассажира
 спереди
@@ -33992,7 +31915,6 @@ Cabin air refresh mode (режим обновления
 водителя.
 
 ### 1. Ручка
-`livan_x3_pro_ru_d2e101ef` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 для
 регулирования
 наклона
@@ -34004,7 +31926,6 @@ Cabin air refresh mode (режим обновления
 вперед и назад
 
 ### Складывание спинки
-`livan_x3_pro_ru_b1d01ca8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:82 | doc_type:owners_manual
 заднего
 сиденья
 Задний ряд состоит из правого и левого
@@ -34022,14 +31943,12 @@ Cabin air refresh mode (режим обновления
 автомобиля.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_14b046fc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 80
 С двух сторон сидений заднего ряда есть
 кнопки для складывания спинок. Нажав
 на эти кнопки, можно сложить сиденья.
 
 ### После того как спинки задних сидений
-`livan_x3_pro_ru_f503ff0c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 сложены,
 необходимо
 убедиться,
@@ -34042,13 +31961,11 @@ Cabin air refresh mode (режим обновления
 места.
 
 ### Раскладывание спинки заднего
-`livan_x3_pro_ru_5490adb4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 сиденья
 Поверните спинку кресла и толкните его
 назад, чтобы зафиксировать.
 
 ### Во время движения пассажиры не
-`livan_x3_pro_ru_8be06c72` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:83 | doc_type:owners_manual
 могут
 сидеть
 на
@@ -34059,7 +31976,6 @@ Cabin air refresh mode (режим обновления
 багажнике.
 
 ### Сиденья
-`livan_x3_pro_ru_b312b558` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 должны использоваться в нормальном
 режиме.
 При
@@ -34076,7 +31992,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Передвинуть
-`livan_x3_pro_ru_e3251e62` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 вперед
 или
 назад
@@ -34095,7 +32010,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Убедиться
-`livan_x3_pro_ru_e6bf0a7e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:83 | doc_type:owners_manual
 в
 том,
 что
@@ -34114,7 +32028,6 @@ Cabin air refresh mode (режим обновления
 использование положение.
 
 ### Подогрев
-`livan_x3_pro_ru_2da49877` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:83 | doc_type:owners_manual
 передних
 сидений*
 Нажмите
@@ -34141,7 +32054,6 @@ Cabin air refresh mode (режим обновления
 самый медленный нагрев;
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_c1a2ac0b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 4
 8
 7
@@ -34155,7 +32067,6 @@ Cabin air refresh mode (режим обновления
 самый быстрый нагрев;
 
 ### OFF:
-`livan_x3_pro_ru_38a73cdd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 выключить
 подогрев
 передних сидений.
@@ -34206,7 +32117,6 @@ Cabin air refresh mode (режим обновления
 Не используйте воду при чистке сидений.
 
 ### Устройство
-`livan_x3_pro_ru_ff417358` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:84 | doc_type:owners_manual
 подогрева
 сидений
 можно
@@ -34248,7 +32158,6 @@ Cabin air refresh mode (режим обновления
 режиме подогрева.
 
 ### Параметры
-`livan_x3_pro_ru_8347a939` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 регулирования
 сиденья
 В
@@ -34260,7 +32169,6 @@ Cabin air refresh mode (режим обновления
 Пункт
 
 ### Параметры
-`livan_x3_pro_ru_8347a939` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 Си
 де
 нье
@@ -34277,7 +32185,6 @@ Cabin air refresh mode (режим обновления
 назад - 20 мм)
 
 ### Регули
-`livan_x3_pro_ru_69b27321` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 рова
 ние
 спинки
@@ -34286,7 +32193,6 @@ Cabin air refresh mode (режим обновления
 36°)
 
 ### Регули
-`livan_x3_pro_ru_69b27321` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 рова
 ние
 высоты
@@ -34297,7 +32203,6 @@ Cabin air refresh mode (режим обновления
 15 мм)
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_624dc2d7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 82
 Пункт
 Параметры
@@ -34313,7 +32218,6 @@ Cabin air refresh mode (режим обновления
 е
 
 ### Регули
-`livan_x3_pro_ru_ecbabb33` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 рова
 ние
 впе
@@ -34323,7 +32227,6 @@ Cabin air refresh mode (режим обновления
 назад - 20 мм)
 
 ### Ремень безопасности
-`livan_x3_pro_ru_2b4f3ae9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:85 | doc_type:owners_manual
 Общие
 сведения
 о
@@ -34341,7 +32244,6 @@ Cabin air refresh mode (режим обновления
 эксплуатацию ремня безопасности.
 
 ### Ненадлежащее
-`livan_x3_pro_ru_9d80153f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 использование
 ремня
 или
@@ -34355,7 +32257,6 @@ Cabin air refresh mode (режим обновления
 травмам.
 
 ### Правильное
-`livan_x3_pro_ru_f481f7f6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 использование
 ремня
 безопасности
@@ -34364,7 +32265,6 @@ Cabin air refresh mode (режим обновления
 свойства.
 
 ### Правильное
-`livan_x3_pro_ru_f481f7f6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 использование
 ремня
 безопасности
@@ -34380,7 +32280,6 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### Пассажирам
-`livan_x3_pro_ru_08696abe` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 запрещается
 садиться
 в
@@ -34393,7 +32292,6 @@ Cabin air refresh mode (режим обновления
 сиденья с неисправными ремнями.
 
 ### Данный
-`livan_x3_pro_ru_d8fb4c49` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:85 | doc_type:owners_manual
 автомобиль
 оборудован
 световым сигналом, предупреждающим о
@@ -34423,7 +32321,6 @@ Cabin air refresh mode (режим обновления
 тяжести. В таких аварийных ситуациях
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_4bd0eeb2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:85 | doc_type:owners_manual
 4
 8
 7
@@ -34447,7 +32344,6 @@ Cabin air refresh mode (режим обновления
 могут получить травмы или погибнуть.
 
 ### Многолетний
-`livan_x3_pro_ru_dfa2adbf` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 опыт
 использования
 автомобильных
@@ -34462,7 +32358,6 @@ Cabin air refresh mode (режим обновления
 тесно связаны!
 
 ### Какова
-`livan_x3_pro_ru_96885b1f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 защитная
 роль
 ремня безопасности
@@ -34477,7 +32372,6 @@ Cabin air refresh mode (режим обновления
 скорость
 
 ### Вашего
-`livan_x3_pro_ru_87de8bec` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 движения
 соответствует скорости движения такого
 объекта.
@@ -34507,7 +32401,6 @@ Cabin air refresh mode (режим обновления
 останавливается.
 
 ### Однако
-`livan_x3_pro_ru_f49a3e0d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 люди
 на
 вагончике не могут остановиться.
@@ -34516,7 +32409,6 @@ Cabin air refresh mode (режим обновления
 автомобиле таким объектом может стать
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_faf0e399` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:86 | doc_type:owners_manual
 84
 ветровое стекло, приборная панель или
 ремень безопасности.
@@ -34533,14 +32425,12 @@ Cabin air refresh mode (режим обновления
 скелет.
 
 ### Именно
-`livan_x3_pro_ru_13896210` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:87 | doc_type:owners_manual
 поэтому
 важно
 использовать ремень безопасности.
 Правильная посадка
 
 ### Правильное сидячее положение крайне
-`livan_x3_pro_ru_62489ca7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:87 | doc_type:owners_manual
 важно для лучшей защиты с помощью
 подушки и ремня безопасности. Сиденья
 водителя и пассажира спереди могут
@@ -34576,7 +32466,6 @@ Cabin air refresh mode (режим обновления
 ремня безопасности.
 
 ### Во время движения не наклоняйте
-`livan_x3_pro_ru_ec2714af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:87 | doc_type:owners_manual
 сиденье
 слишком
 сильно
@@ -34599,7 +32488,6 @@ Cabin air refresh mode (режим обновления
 исходу.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_45d57865` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:87 | doc_type:owners_manual
 4
 8
 7
@@ -34619,7 +32507,6 @@ Cabin air refresh mode (режим обновления
 между телом и подушкой безопасности.
 
 ### Правильная посадка водителя является
-`livan_x3_pro_ru_a492900e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 крайне
 важным
 для
@@ -34634,7 +32521,6 @@ Cabin air refresh mode (режим обновления
 травм.
 
 ### Водителю
-`livan_x3_pro_ru_89a643bc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 рекомендуется осуществить следующие
 регулировки:
 •
@@ -34643,7 +32529,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Регулировка
-`livan_x3_pro_ru_4d36af0f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:88 | doc_type:owners_manual
 сиденья
 вперед-назад:
 удобное положение для комфортного
@@ -34656,14 +32541,12 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Регулировка
-`livan_x3_pro_ru_4d36af0f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 подголовника:
 подголовник должен быть правильно
 отрегулирован по высоте.
 •
 
 ### Спинка сиденья должна находиться в
-`livan_x3_pro_ru_3850b7a9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 положении
 "сидя",
 спина
@@ -34672,7 +32555,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Ремень
-`livan_x3_pro_ru_5079f244` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:88 | doc_type:owners_manual
 безопасности
 должен
 быть
@@ -34683,7 +32565,6 @@ Cabin air refresh mode (режим обновления
 пассажира
 
 ### Для Вашей собственной безопасности и
-`livan_x3_pro_ru_f886c25e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 во избежание риска получения травм
 пассажиру
 переднего
@@ -34692,7 +32573,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Соблюдать
-`livan_x3_pro_ru_85ce167e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 расстояние
 между
 пассажиром и приборной панелью не
@@ -34700,7 +32580,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Регулировка
-`livan_x3_pro_ru_4d36af0f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 подголовника
 должна
 быть
@@ -34711,7 +32590,6 @@ Cabin air refresh mode (режим обновления
 прилегала к нему.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_15ceefec` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:88 | doc_type:owners_manual
 86
 •
 Ремень
@@ -34725,14 +32603,12 @@ Cabin air refresh mode (режим обновления
 ремень безопасности
 
 ### Информация
-`livan_x3_pro_ru_2662ba34` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 в
 данном
 разделе
 относится только ко взрослым людям.
 
 ### В первую очередь перед использованием
-`livan_x3_pro_ru_df82ec75` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 ремней безопасности Вы или пассажиры
 автомобиля должны узнать некоторую
 важную
@@ -34759,7 +32635,6 @@ Cabin air refresh mode (режим обновления
 безопасности, это крайне важно.
 
 ### В
-`livan_x3_pro_ru_656024b1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 соответствии
 со
 статистическими
@@ -34786,7 +32661,6 @@ Cabin air refresh mode (режим обновления
 пассажирами.
 
 ### В
-`livan_x3_pro_ru_656024b1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 сидячем
 положении
 необходимо
@@ -34798,7 +32672,6 @@ Cabin air refresh mode (режим обновления
 собой.
 
 ### Нижняя
-`livan_x3_pro_ru_7b0aa481` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 часть
 ремня
 в
@@ -34819,7 +32692,6 @@ Cabin air refresh mode (режим обновления
 ремня должна пересекать плечо и грудь.
 
 ### Именно
-`livan_x3_pro_ru_21243813` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:89 | doc_type:owners_manual
 эти
 части
 тела
@@ -34861,7 +32733,6 @@ Cabin air refresh mode (режим обновления
 ремнями безопасности.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_44a61641` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 4
 8
 7
@@ -34898,7 +32769,6 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### Лучший
-`livan_x3_pro_ru_33fcf5fd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 способ
 защитить
 ребенка
@@ -34921,7 +32791,6 @@ Cabin air refresh mode (режим обновления
 использования ремня безопасности.
 
 ### Трехточечный
-`livan_x3_pro_ru_ee3319b1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 ремень
 безопасности
 Все сиденья автомобиля оборудованы
@@ -34936,7 +32805,6 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### 1. Возьмитесь за язычок крепления и
-`livan_x3_pro_ru_a13c1b76` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 потяните ремень, пересекая тело. Не
 позволяйте ремню перекручиваться.
 Если
@@ -34956,7 +32824,6 @@ Cabin air refresh mode (режим обновления
 пересекая тело.
 
 ### 2. Вставьте
-`livan_x3_pro_ru_1997926f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 язычок
 крепления
 в
@@ -34971,7 +32838,6 @@ Cabin air refresh mode (режим обновления
 фиксации.
 
 ### Удостоверьтесь в положении кнопки
-`livan_x3_pro_ru_95a59df8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 разблокировки
 на
 застежке,
@@ -34980,7 +32846,6 @@ Cabin air refresh mode (режим обновления
 необходимости. Если плечевая часть
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_67d2056c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 88
 ремня
 оборудована
@@ -34992,7 +32857,6 @@ Cabin air refresh mode (режим обновления
 подходящее
 
 ### Вашему
-`livan_x3_pro_ru_df330eec` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 росту
 положение.
 Ознакомьтесь
@@ -35011,7 +32875,6 @@ Cabin air refresh mode (режим обновления
 информацию.
 
 ### 3. Потянув плечевую часть ремня вверх,
-`livan_x3_pro_ru_f2c13248` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 можно затянуть нижнюю часть.
 4. Для того чтобы отстегнуть ремень,
 нажмите
@@ -35022,7 +32885,6 @@ Cabin air refresh mode (режим обновления
 застежке.
 
 ### Позвольте
-`livan_x3_pro_ru_dcc23b53` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 ремню
 вернуться в исходное положение.
 Не допускайте попадания в замок
@@ -35097,7 +32959,6 @@ Cabin air refresh mode (режим обновления
 ремень.
 
 ### Ремень безопасности заднего
-`livan_x3_pro_ru_c599745f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 ряда по центру
 Необходимо
 правильно
@@ -35107,7 +32968,6 @@ Cabin air refresh mode (режим обновления
 В соответствии со следующими шагами:
 
 ### 1. Взять ремень безопасности заднего
-`livan_x3_pro_ru_7b049d63` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 ряда
 по
 центру
@@ -35122,7 +32982,6 @@ Cabin air refresh mode (режим обновления
 позволяйте ремню перекручиваться.
 
 ### 2. У
-`livan_x3_pro_ru_fe898e6e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 ремня
 есть
 два
@@ -35131,7 +32990,6 @@ Cabin air refresh mode (режим обновления
 Сначала вставьте маленький язычок
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_86639edf` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 4
 8
 7
@@ -35156,7 +33014,6 @@ Cabin air refresh mode (режим обновления
 от сиденья 2.
 
 ### 3. Вставьте
-`livan_x3_pro_ru_3045d66c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 язычок
 замка
 до
@@ -35179,7 +33036,6 @@ Cabin air refresh mode (режим обновления
 ремень.
 
 ### Если нужно полностью отстегнуть ремень
-`livan_x3_pro_ru_a22798e3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 заднего
 ряда
 по
@@ -35206,7 +33062,6 @@ Cabin air refresh mode (режим обновления
 быть возвращен в исходное положение.
 
 ### Сигнализатор непристегнутого
-`livan_x3_pro_ru_4f19ddc4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:92 | doc_type:owners_manual
 ремня безопасности
 Сигнальная лампа непристегнутого
 ремня
@@ -35215,7 +33070,6 @@ Cabin air refresh mode (режим обновления
 сиденья
 
 ### Если водитель и пассажир спереди не
-`livan_x3_pro_ru_8ea69a5e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 пристегнуты,
 загорается
 огонек
@@ -35225,7 +33079,6 @@ Cabin air refresh mode (режим обновления
 безопасности спереди.
 
 ### Предупреждающий световой сигнал
-`livan_x3_pro_ru_b2c91379` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 и зуммер
 Если
 скорость
@@ -35243,7 +33096,6 @@ Cabin air refresh mode (режим обновления
 пристегнут, сигнал прекратится.
 
 ### Правильное использование ремня
-`livan_x3_pro_ru_6b23a376` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 безопасности может сократить риск
 получения
 травм
@@ -35253,7 +33105,6 @@ Cabin air refresh mode (режим обновления
 и
 
 ### Поэтому
-`livan_x3_pro_ru_897b2c7e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 все
 пассажиры
 автомобиля
@@ -35264,7 +33115,6 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### Обращайте
-`livan_x3_pro_ru_72660b62` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 внимание
 на
 горящие
@@ -35273,7 +33123,6 @@ Cabin air refresh mode (режим обновления
 и повреждению имущества.
 
 ### Обслуживание
-`livan_x3_pro_ru_ca9b482c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 и
 замена
 ремня безопасности
@@ -35282,7 +33131,6 @@ Cabin air refresh mode (режим обновления
 безопасности
 
 ### Регулярно проводите проверку системы
-`livan_x3_pro_ru_c3371f86` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 безопасности
 в
 соответствии
@@ -35321,7 +33169,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Обеспечьте
-`livan_x3_pro_ru_bc75f132` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:92 | doc_type:owners_manual
 нормальную
 работу
 светового
@@ -35333,7 +33180,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### Сохраняйте
-`livan_x3_pro_ru_556d7c6b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:93 | doc_type:owners_manual
 ремень
 безопасности
 сухим и чистым.
@@ -35342,7 +33188,6 @@ Cabin air refresh mode (режим обновления
 безопасности
 
 ### Сохраняйте ремень безопасности сухим
-`livan_x3_pro_ru_8b54041a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:93 | doc_type:owners_manual
 и чистым.
 Не отбеливайте и не окрашивайте
 ремень безопасности. Это может
@@ -35362,7 +33207,6 @@ Cabin air refresh mode (режим обновления
 воду.
 
 ### Нельзя
-`livan_x3_pro_ru_7f35a9ac` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 пользоваться
 непросушенным
 ремнем
@@ -35370,7 +33214,6 @@ Cabin air refresh mode (режим обновления
 Замена ремня безопасности
 
 ### В случае небольшой аварии отправьте в
-`livan_x3_pro_ru_64f07a65` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 центр технического обслуживания LIVAN,
 чтобы провести диагностику или замену
 блока ремня безопасности. Даже если во
@@ -35383,7 +33226,6 @@ Cabin air refresh mode (режим обновления
 все равно необходима.
 
 ### Автомобильная
-`livan_x3_pro_ru_53eec419` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 авария
 может
 привести
@@ -35396,14 +33238,12 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### Необходимо
-`livan_x3_pro_ru_1941f17a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 как
 можно
 скорее обратиться в центр технической
 поддержки LIVAN для его замены.
 
 ### Общие сведения о подушке
-`livan_x3_pro_ru_383f857c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:93 | doc_type:owners_manual
 безопасности
 Подушка
 безопасности
@@ -35438,7 +33278,6 @@ Cabin air refresh mode (режим обновления
 травмам.
 
 ### Именно
-`livan_x3_pro_ru_23b966d2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 поэтому
 во
 время
@@ -35446,7 +33285,6 @@ Cabin air refresh mode (режим обновления
 автомобиле, должны быть пристегнуты.
 
 ### Подушка безопасности срабатывает не
-`livan_x3_pro_ru_bc130a73` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:93 | doc_type:owners_manual
 во всех случаях. Это зависит от места и
 угла удара, степени удара, характера
 объекта
@@ -35456,7 +33294,6 @@ Cabin air refresh mode (режим обновления
 факторов.
 
 ### Подушка
-`livan_x3_pro_ru_f97e57e7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:93 | doc_type:owners_manual
 безопасности
 срабатывает
 с
@@ -35493,13 +33330,11 @@ Cabin air refresh mode (режим обновления
 помех.
 
 ### Нельзя
-`livan_x3_pro_ru_7f35a9ac` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:93 | doc_type:owners_manual
 помещать
 какие бы то ни было предметы между
 пассажиром и подушкой безопасности.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_970b5005` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:93 | doc_type:owners_manual
 4
 8
 7
@@ -35548,7 +33383,6 @@ Cabin air refresh mode (режим обновления
 некоторое количество газа и порошка.
 
 ### Это может вызывать раздражение кожи и
-`livan_x3_pro_ru_2cc0f20c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 глаз. Если Вы плохо себя чувствуете,
 немедленно обратитесь к врачу.
 Пожалуйста,
@@ -35568,7 +33402,6 @@ Cabin air refresh mode (режим обновления
 неисправности.
 
 ### Запрещается
-`livan_x3_pro_ru_75c32ce9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 дополнительно
 устанавливать
 или
@@ -35577,12 +33410,10 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### Строго
-`livan_x3_pro_ru_d4bd7f5f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 запрещается внедрение в жгуты системы
 подушек безопасности.
 
 ### Система подушки безопасности может
-`livan_x3_pro_ru_2e34cd9f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 быть использована только один раз. Если
 подушка
 безопасности
@@ -35595,7 +33426,6 @@ Cabin air refresh mode (режим обновления
 замены.
 
 ### Дети и подростки могут получить
-`livan_x3_pro_ru_177f4c9e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 серьезные травмы или умереть при
 срабатывании
 подушки
@@ -35621,7 +33451,6 @@ Cabin air refresh mode (режим обновления
 защиты.
 
 ### Положение
-`livan_x3_pro_ru_7cb26a71` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 подушки
 безопасности
 Фронтальная
@@ -35660,7 +33489,6 @@ Cabin air refresh mode (режим обновления
 панелью.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_ae6b7b6a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 92
 1. Положение
 фронтальной
@@ -35678,7 +33506,6 @@ Cabin air refresh mode (режим обновления
 отмечены надписью "AIRBAG".
 
 ### Фронтальная
-`livan_x3_pro_ru_fec9f35b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 подушка
 безопасности
 не
@@ -35692,7 +33519,6 @@ Cabin air refresh mode (режим обновления
 остановке.
 
 ### Подушка
-`livan_x3_pro_ru_bf1c899e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 безопасности
 срабатывает
 за
@@ -35747,7 +33573,6 @@ Cabin air refresh mode (режим обновления
 пассажира.
 
 ### Запрещается
-`livan_x3_pro_ru_b3ac8af5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 переоборудовать,
 разбирать, ударять или открывать какиелибо
 части
@@ -35768,7 +33593,6 @@ Cabin air refresh mode (режим обновления
 летальному исходу.
 
 ### При пользовании автомобилем не
-`livan_x3_pro_ru_2b6b396a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 нужно
 садиться
 рядом
@@ -35778,7 +33602,6 @@ Cabin air refresh mode (режим обновления
 сработать.
 
 ### Срабатывание
-`livan_x3_pro_ru_39dc0f08` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 подушки
 может
 привести
@@ -35800,7 +33623,6 @@ Cabin air refresh mode (режим обновления
 ней.
 
 ### Водитель
-`livan_x3_pro_ru_9d6d73c5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 и
 пассажир должны соблюдать расстояние
 в
@@ -35812,7 +33634,6 @@ Cabin air refresh mode (режим обновления
 подушки безопасности.
 
 ### Нельзя сидеть на переднем сиденье с
-`livan_x3_pro_ru_5ef58c2b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 ребенком
 на
 коленях.
@@ -35839,7 +33660,6 @@ Cabin air refresh mode (режим обновления
 ситуаций
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_e041de4a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 4
 8
 7
@@ -35880,7 +33700,6 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### Срабатывание
-`livan_x3_pro_ru_69956d8a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 подушки
 безопасности
 Срабатывание
@@ -35888,7 +33707,6 @@ Cabin air refresh mode (режим обновления
 подушки безопасности
 
 ### Фронтальная
-`livan_x3_pro_ru_ca16037d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 подушка
 безопасности
 срабатывает при движении автомобиля
@@ -35914,7 +33732,6 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### Водитель и пассажир переднего сиденья
-`livan_x3_pro_ru_3f35c807` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 должны отрегулировать положения своих
 сидений на достаточном расстоянии от
 фронтальной подушки безопасности.
@@ -35928,7 +33745,6 @@ Cabin air refresh mode (режим обновления
 необходимо ли срабатывание подушки.
 
 ### Функционирование
-`livan_x3_pro_ru_56effd08` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 подушки
 безопасности
 не
@@ -35967,7 +33783,6 @@ Cabin air refresh mode (режим обновления
 подушки
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_ca0f5e25` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:96 | doc_type:owners_manual
 94
 безопасности
 могут
@@ -35985,7 +33800,6 @@ Cabin air refresh mode (режим обновления
 •
 
 ### При столкновении во время движения
-`livan_x3_pro_ru_c4704cb6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:97 | doc_type:owners_manual
 со
 ступенями
 и
@@ -36002,7 +33816,6 @@ Cabin air refresh mode (режим обновления
 При опрокидывании.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_3d4454f1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:97 | doc_type:owners_manual
 4
 8
 7
@@ -36023,13 +33836,11 @@ Cabin air refresh mode (режим обновления
 •
 
 ### При наличии неисправности системы
-`livan_x3_pro_ru_b9f0fc9a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 подушки безопасности.
 •
 При других непредвиденных условиях.
 
 ### Обслуживание
-`livan_x3_pro_ru_02fded9a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 и
 замена
 подушки безопасности
@@ -36067,7 +33878,6 @@ Cabin air refresh mode (режим обновления
 сигнала.
 
 ### Автомобильная
-`livan_x3_pro_ru_70602b1e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 авария
 может
 привести
@@ -36101,7 +33911,6 @@ Cabin air refresh mode (режим обновления
 безопасности.
 
 ### Если произошло срабатывание подушки
-`livan_x3_pro_ru_7644d87b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 безопасности,
 необходима
 замена
@@ -36114,7 +33923,6 @@ Cabin air refresh mode (режим обновления
 проведения ремонта.
 
 ### Если при движении автомобиля светится
-`livan_x3_pro_ru_0985d608` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:98 | doc_type:owners_manual
 лампа
 сигнализации
 о
@@ -36139,7 +33947,6 @@ Cabin air refresh mode (режим обновления
 для проведения проверки.
 
 ### При продаже автомобиля позаботьтесь о
-`livan_x3_pro_ru_7ac2d694` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 том, чтобы новый владелец был в курсе
 даты замены подушки безопасности и ее
 системы.
@@ -36161,21 +33968,18 @@ Cabin air refresh mode (режим обновления
 специалистом в специальных условиях.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_dccf4835` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:98 | doc_type:owners_manual
 96
 Устройства безопасности
 детского кресла
 Выбор детского защитного устройства
 
 ### Данные по совместимости всех сидений с детским креслом в условиях фиксации
-`livan_x3_pro_ru_05eed620` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 детского кресла ремнями безопасности:
 Груп
 па
 Вес ребенка
 
 ### Положение
-`livan_x3_pro_ru_4fd295a3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 места
 пассажира
 переднего ряда
@@ -36186,7 +33990,6 @@ Cabin air refresh mode (режим обновления
 сбоку
 
 ### Положение
-`livan_x3_pro_ru_4fd295a3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 места
 пассажира
 заднего ряда
@@ -36197,7 +34000,6 @@ X
 U
 
 ### X
-`livan_x3_pro_ru_994508a7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 0+
 <13KG
 X
@@ -36217,7 +34019,6 @@ X
 22-36KG
 
 ### X
-`livan_x3_pro_ru_994508a7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 Пояснение: смысл условных обозначений в таблице выше: U = универсальный тип
 детской удерживающей системы, утвержденный для использования для этой весовой
 группы; X = детская удерживающая система, неподходящая для этой весовой группы.
@@ -36225,7 +34026,6 @@ X
 в детском кресле детской системы защиты ISOFIX:
 
 ### Группа
-`livan_x3_pro_ru_86f5ae2c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 Вес
 ребенка
 Катего
@@ -36243,7 +34043,6 @@ X
 го ряда
 
 ### Положе
-`livan_x3_pro_ru_a4156d3b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 ние
 места
 пассажи
@@ -36267,7 +34066,6 @@ X
 -
 
 ### X
-`livan_x3_pro_ru_994508a7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 0
 <10 КГ
 E
@@ -36285,7 +34083,6 @@ X
 D
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_9716951b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 4
 8
 7
@@ -36303,7 +34100,6 @@ D
 размера
 
 ### Модуль
-`livan_x3_pro_ru_c3a3d31b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:100 | doc_type:owners_manual
 фиксаци
 и
 Положе
@@ -36315,7 +34111,6 @@ D
 го ряда
 
 ### Положе
-`livan_x3_pro_ru_bf111d23` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:100 | doc_type:owners_manual
 ние
 места
 пассажи
@@ -36334,7 +34129,6 @@ D
 не
 
 ### Ⅰ
-`livan_x3_pro_ru_2e9da912` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:100 | doc_type:owners_manual
 9-18 кг
 D
 ISO/R2
@@ -36352,7 +34146,6 @@ X
 IUF
 
 ### X
-`livan_x3_pro_ru_e1eb54c7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:100 | doc_type:owners_manual
 Пояснение: смысл условных обозначений в таблице выше: IL = на данном сиденье
 используется детское кресло категории ISOFIX, указанное в перечне, сопровождающем
 автомобиль; используется вместе с сиденьем; IUF = на данном сиденье используется
@@ -36360,7 +34153,6 @@ IUF
 оборудовано крепежным кольцом для системы ISOFIX.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_ad4f2b14` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:100 | doc_type:owners_manual
 98
 Использование
 детских
@@ -36369,7 +34161,6 @@ IUF
 дети и дети старшего возраста
 
 ### Все находящиеся в автомобиле люди
-`livan_x3_pro_ru_aee79102` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 должны быть защищены! В том числе и
 новорожденные
 и
@@ -36377,7 +34168,6 @@ IUF
 дети.
 
 ### Протяженность
-`livan_x3_pro_ru_aebde593` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 маршрута,
 а
 также
@@ -36391,7 +34181,6 @@ IUF
 безопасности.
 
 ### Если плечевой ремень обмотается
-`livan_x3_pro_ru_338ec072` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:101 | doc_type:owners_manual
 вокруг
 шеи
 ребенка,
@@ -36416,7 +34205,6 @@ IUF
 ремнями безопасности.
 
 ### Подушка
-`livan_x3_pro_ru_1ba04e8a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:101 | doc_type:owners_manual
 безопасности
 и
 ремень
@@ -36433,7 +34221,6 @@ IUF
 детей.
 
 ### Система
-`livan_x3_pro_ru_3d09141a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 ремней
 безопасности и подушек безопасности в
 автомобиле
@@ -36446,7 +34233,6 @@ IUF
 детей.
 
 ### Находясь
-`livan_x3_pro_ru_ff20e4f1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 в
 автомобиле,
 новорожденные
@@ -36461,7 +34247,6 @@ IUF
 надлежащих детских устройств защиты.
 
 ### Незакрепленный надлежащим образом
-`livan_x3_pro_ru_360fcb83` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 ребенок может налететь на других людей
 или выпасть из машины.
 Не берите детей на колени, садясь
@@ -36499,7 +34284,6 @@ IUF
 держащего.
 
 ### Младенцы
-`livan_x3_pro_ru_1d70900a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:101 | doc_type:owners_manual
 должны
 быть
 закреплены
@@ -36518,7 +34302,6 @@ IUF
 сиденье,
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_7d805cbe` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:101 | doc_type:owners_manual
 4
 8
 7
@@ -36549,7 +34332,6 @@ IUF
 погибнуть.
 
 ### Запрещается
-`livan_x3_pro_ru_b146d46c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:102 | doc_type:owners_manual
 помещать
 на
 сиденье
@@ -36562,7 +34344,6 @@ IUF
 назад.
 
 ### Устройство
-`livan_x3_pro_ru_ff9a4dd2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 детской
 защиты,
 направленное
@@ -36572,7 +34353,6 @@ IUF
 установлено на сиденьях заднего ряда.
 
 ### Устройство
-`livan_x3_pro_ru_ff9a4dd2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 детской
 защиты,
 направленное
@@ -36582,7 +34362,6 @@ IUF
 установлено на сиденьях заднего ряда.
 
 ### Для того чтобы уменьшить риск
-`livan_x3_pro_ru_373e2909` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 получения травм шеи и головы во
 время аварии, младенцам необходима
 поддержка всего тела.
@@ -36615,7 +34394,6 @@ IUF
 крепкой части его тела - спине и плечам.
 
 ### Младенец
-`livan_x3_pro_ru_e8eea606` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 должен
 быть
 все
@@ -36624,7 +34402,6 @@ IUF
 направленном назад.
 
 ### Тазовая
-`livan_x3_pro_ru_ed2db7d3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:102 | doc_type:owners_manual
 кость
 ребенка
 относительно
@@ -36636,7 +34413,6 @@ IUF
 кости.
 
 ### Поэтому
-`livan_x3_pro_ru_8b1a309a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 он
 перемещается
 на
@@ -36671,7 +34447,6 @@ IUF
 устройстве защиты все время.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_1b50589b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 100
 Дети старшего возраста
 Дети старшего возраста, которые уже не
@@ -36683,7 +34458,6 @@ IUF
 безопасности.
 
 ### В
-`livan_x3_pro_ru_d09af9ad` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 руководстве
 по
 эксплуатации
@@ -36712,7 +34486,6 @@ IUF
 нему.
 
 ### Находятся
-`livan_x3_pro_ru_2fcb1681` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:103 | doc_type:owners_manual
 ли
 колени
 ребенка
@@ -36728,7 +34501,6 @@ IUF
 •
 
 ### Застегните
-`livan_x3_pro_ru_c674dd39` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 трехточечный
 ремень
 безопасности.
@@ -36782,7 +34554,6 @@ IUF
 ограничения.
 
 ### Плечевая
-`livan_x3_pro_ru_c02a63c1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:103 | doc_type:owners_manual
 часть
 ремня
 не
@@ -36844,7 +34615,6 @@ IUF
 ремнями безопасности.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_3c4025e5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 4
 8
 7
@@ -36871,7 +34641,6 @@ IUF
 травмы.
 
 ### Ремнем
-`livan_x3_pro_ru_b698917b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 может
 пользоваться
 только
@@ -36884,7 +34653,6 @@ IUF
 не должна давить на спину ребенка.
 
 ### Неправильное
-`livan_x3_pro_ru_4aa83f93` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 использование
 ремня
 безопасности бедренно-плечевого типа
@@ -36921,7 +34689,6 @@ IUF
 исходу.
 
 ### Плечевая
-`livan_x3_pro_ru_0877ad6b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 часть
 ремня
 должна
@@ -36932,7 +34699,6 @@ IUF
 средств защиты
 
 ### Детские
-`livan_x3_pro_ru_b11a7929` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 сиденья,
 направленные
 назад
@@ -36951,7 +34717,6 @@ IUF
 устройстве защиты.
 
 ### Рекомендуется
-`livan_x3_pro_ru_ee8fc875` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 использовать
 фиксирующие
 детские
@@ -36963,7 +34728,6 @@ IUF
 сиденья.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_836e5815` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:104 | doc_type:owners_manual
 102
 Не
 помещайте
@@ -36983,7 +34747,6 @@ IUF
 состоянии)!
 
 ### Детские
-`livan_x3_pro_ru_6989f1f8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 сиденья,
 направленные
 вперед
@@ -36995,7 +34758,6 @@ IUF
 пристегивания его тела ремнями.
 
 ### Вспомогательное кресло
-`livan_x3_pro_ru_f3d5d217` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 Вспомогательное кресло - это детское
 устройство
 защиты,
@@ -37005,7 +34767,6 @@ IUF
 автомобильного ремня безопасности.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_a2e20da5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:105 | doc_type:owners_manual
 4
 8
 7
@@ -37124,7 +34885,6 @@ IUF
 состоянии).
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_228c81b0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:106 | doc_type:owners_manual
 104
 Установка при использовании
 ремня безопасности бедренноплечевого
@@ -37133,7 +34893,6 @@ IUF
 безопасности ALR/ELR)
 
 ### Установка
-`livan_x3_pro_ru_a24e570a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:107 | doc_type:owners_manual
 детского
 кресла,
 направленного назад
@@ -37175,7 +34934,6 @@ IUF
 установите его за сиденьем справа.
 
 ### В
-`livan_x3_pro_ru_15874072` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:107 | doc_type:owners_manual
 соответствии
 с
 инструкциями,
@@ -37193,7 +34951,6 @@ IUF
 Убедитесь, что ремень не перекручен.
 
 ### Поясная часть ремня должна сохранять
-`livan_x3_pro_ru_40b8c0fb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:107 | doc_type:owners_manual
 натяжение.
 После
 пристегивания
@@ -37217,7 +34974,6 @@ IUF
 проведения осмотра и ремонта. Пока
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_0d3507ea` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:107 | doc_type:owners_manual
 4
 8
 7
@@ -37231,7 +34987,6 @@ IUF
 этим сиденьем.
 
 ### Передвиньте детское кресло в разных
-`livan_x3_pro_ru_91b86b3e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 направлениях, толкайте и тяните, чтобы
 убедиться
 в
@@ -37242,7 +34997,6 @@ IUF
 закреплено.
 
 ### Для того чтобы снять детское средство
-`livan_x3_pro_ru_6208c42f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:108 | doc_type:owners_manual
 защиты, нажмите на кнопку замка.
 Установка
 детского
@@ -37272,7 +35026,6 @@ IUF
 поясной части.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_5578efb8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:108 | doc_type:owners_manual
 106
 Если
 полностью
@@ -37293,7 +35046,6 @@ IUF
 хорошо закрепить детское кресло.
 
 ### Крепко прислоните детское устройство
-`livan_x3_pro_ru_0214d3e1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:109 | doc_type:owners_manual
 защиты
 к
 подушке
@@ -37304,7 +35056,6 @@ IUF
 прочно закрепить ребенка на сиденье.
 
 ### Передвиньте детское устройство защиты
-`livan_x3_pro_ru_ba5a28af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 в
 разных
 направлениях,
@@ -37319,7 +35070,6 @@ IUF
 компаниейизготовителем.
 
 ### Установка вспомогательного кресла
-`livan_x3_pro_ru_f9576c97` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:109 | doc_type:owners_manual
 Посадите ребенка в устройств защиты.
 Как
 указано
@@ -37335,7 +35085,6 @@ IUF
 перекрутился.
 
 ### Убедитесь
-`livan_x3_pro_ru_d90d3e0f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 в
 том,
 что
@@ -37346,7 +35095,6 @@ IUF
 пересекает тело ребенка, а также в том,
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_b7094110` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:109 | doc_type:owners_manual
 4
 8
 7
@@ -37366,7 +35114,6 @@ IUF
 параграфу "Ремень безопасности".
 
 ### Для того чтобы снять детское средство
-`livan_x3_pro_ru_5599cb4e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:110 | doc_type:owners_manual
 защиты,
 нажмите
 на
@@ -37384,7 +35131,6 @@ IUF
 ребенка.
 
 ### Плечевой
-`livan_x3_pro_ru_e83fa06c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 пояс
 должен находится чуть дальше от шеи
 ребенка, чтобы не перетянуть нижнюю
@@ -37395,7 +35141,6 @@ IUF
 исходу.
 
 ### Высокорасположенная бедренная часть
-`livan_x3_pro_ru_30a24d6a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 ремня и ослабленное состояние ремня
 безопасности
 при
@@ -37425,7 +35170,6 @@ IUF
 на нижней части предплечья ребенка.
 
 ### Установка
-`livan_x3_pro_ru_011ac92c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 детских
 средств
 защиты ISOFIX
@@ -37436,7 +35180,6 @@ IUF
 специальным соединением по стандарту
 
 ### ISO устанавливается на сиденье заднего
-`livan_x3_pro_ru_00a12ed0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:110 | doc_type:owners_manual
 ряда. Оно закрепляется на месте между
 двумя сиденьями заднего ряда, крепясь к
 подушке
@@ -37445,7 +35188,6 @@ IUF
 сиденья.
 
 ### Детское
-`livan_x3_pro_ru_8926ed7f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 устройство
 защиты
 по
@@ -37459,14 +35201,12 @@ ISO
 соединения.
 
 ### В
-`livan_x3_pro_ru_e03d6efa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 таком
 случае не нужно использовать ремни
 безопасности для фиксации устройства
 защиты.
 
 ### При использовании и установке детской
-`livan_x3_pro_ru_aa2f17a9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 системы
 защиты
 ISOFIX
@@ -37495,7 +35235,6 @@ ISOFIX
 устройства.
 
 ### Установите
-`livan_x3_pro_ru_750a43c7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 детское
 автомобильное
 кресло
@@ -37511,7 +35250,6 @@ ISOFIX
 шагами:
 
 ### 1. Откройте крышку сиденья ISOFIX и
-`livan_x3_pro_ru_341125ef` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 убедитесь
 в
 том,
@@ -37524,7 +35262,6 @@ ISOFIX
 соединения ISOFIX.
 
 ### 2. Присоедините
-`livan_x3_pro_ru_13842875` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 место
 соединения
 детского
@@ -37534,7 +35271,6 @@ ISOFIX
 к
 
 ### ISOFIX
-`livan_x3_pro_ru_fcaf9ecc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 в
 задней
 части
@@ -37545,7 +35281,6 @@ ISOFIX
 зафиксирована защелка.
 
 ### 4. Закрепите
-`livan_x3_pro_ru_26d37efb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 замок
 в
 нижней
@@ -37578,7 +35313,6 @@ ISOFIX
 инструкцией по монтажу.
 
 ### Детское
-`livan_x3_pro_ru_1d57814a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 устройство
 защиты
 не
@@ -37586,7 +35320,6 @@ ISOFIX
 соединения
 
 ### ISOFIX,
-`livan_x3_pro_ru_d57982ba` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 соответствующего
 для
 установки
@@ -37623,7 +35356,6 @@ ISOFIX
 ремни
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_3880cb65` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 4
 8
 7
@@ -37641,7 +35373,6 @@ ISOFIX
 автомобиле.
 
 ### Нельзя устанавливать детские средства
-`livan_x3_pro_ru_c5d3fac5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 защиты во время движения автомобиля.
 При
 правильной
@@ -37651,7 +35382,6 @@ ISOFIX
 защиты
 
 ### ISOFIX
-`livan_x3_pro_ru_7f4530bd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 с
 соединением
 ISOFIX
@@ -37660,7 +35390,6 @@ ISOFIX
 характерный щелчок.
 
 ### Сиденья и устройства защиты
-`livan_x3_pro_ru_927a1d3c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 110
 5
 8
@@ -37677,7 +35406,6 @@ ISOFIX
 управления
 
 ### Информация
-`livan_x3_pro_ru_cf2e6a3b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 о
 ключе
 дистанционного управления
@@ -37691,7 +35419,6 @@ ISOFIX
 автомобиля.
 
 ### Если ключ дистанционного управления
-`livan_x3_pro_ru_ea9f3133` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 утерян
 или
 украден,
@@ -37703,7 +35430,6 @@ ISOFIX
 обслуживания
 
 ### LIVAN,
-`livan_x3_pro_ru_3546202c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 утерянный
 ключ
 дистанционного
@@ -37722,7 +35448,6 @@ ISOFIX
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_97ef1fe3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 сможет повторно активировать его.
 Замена
 ключа
@@ -37735,7 +35460,6 @@ ISOFIX
 немедленно.
 
 ### Центру
-`livan_x3_pro_ru_e1386ce0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 технического
 обслуживания
 LIVAN
@@ -37747,13 +35471,11 @@ LIVAN
 управления с вашим автомобилем.
 
 ### 2. Кнопка разблокировки механического
-`livan_x3_pro_ru_1cac5226` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:114 | doc_type:owners_manual
 ключа
 3. Световой индикатор
 4. Кнопка открытия замка
 
 ### 6. Кнопка открытия багажника
-`livan_x3_pro_ru_343a18b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:114 | doc_type:owners_manual
 Пожалуйста,
 храните
 запасной
@@ -37761,7 +35483,6 @@ LIVAN
 надежном месте, но не в автомобиле.
 
 ### Замена
-`livan_x3_pro_ru_01401089` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 элемента
 питания
 в
@@ -37785,7 +35506,6 @@ LIVAN
 дистанционного управления.
 
 ### Используйте
-`livan_x3_pro_ru_24922d50` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 плоскую
 отвертку
 или
@@ -37802,21 +35522,18 @@ LIVAN
 управления и разделить его на две части.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_80a3fd2f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 112
 Замените элемент питания на новый и
 обратите внимание, что размещать его
 следует положительной стороной вниз.
 
 ### Модель
-`livan_x3_pro_ru_7c335a97` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 элемента
 питания
 ключа
 дистанционного управления: 3В, CR2032.
 
 ### Ключ дистанционного управления
-`livan_x3_pro_ru_4c1a59d6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:115 | doc_type:owners_manual
 оснащен
 высокоточной
 электроцепью,
@@ -37842,7 +35559,6 @@ LIVAN
 ниже
 
 ### -20° С
-`livan_x3_pro_ru_539c8739` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 в
 течение
 длительного
@@ -37857,7 +35573,6 @@ LIVAN
 Своевременно меняйте элемент питания.
 
 ### Избегайте
-`livan_x3_pro_ru_cdf7e6f2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:115 | doc_type:owners_manual
 влияния
 на
 функционал
@@ -37895,7 +35610,6 @@ LIVAN
 обслуживания
 
 ### LIVAN,
-`livan_x3_pro_ru_f018d9da` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 утерянный смарт-ключ будет удален из
 функционала
 запуска
@@ -37909,14 +35623,12 @@ LIVAN
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_35af50de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 сможет повторно активировать его.
 Замена смарт-ключа не может быть
 предоставлена
 немедленно.
 
 ### Центру
-`livan_x3_pro_ru_61f4cb1e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 технического
 обслуживания
 LIVAN
@@ -37927,7 +35639,6 @@ LIVAN
 вашим автомобилем.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_1c4203ff` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:115 | doc_type:owners_manual
 5
 8
 7
@@ -37941,7 +35652,6 @@ LIVAN
 3. Кнопка открытия багажника
 
 ### 5. Механический ключ
-`livan_x3_pro_ru_823f7a72` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 После
 шести
 открытий
@@ -37968,7 +35678,6 @@ LIVAN
 перегрева.
 
 ### В
-`livan_x3_pro_ru_c1f10a56` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 течение
 20
 секунд
@@ -37986,7 +35695,6 @@ LIVAN
 разблокировки.
 
 ### Храните
-`livan_x3_pro_ru_00baf963` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:116 | doc_type:owners_manual
 запасной
 смарт-ключ
 в
@@ -38008,7 +35716,6 @@ LIVAN
 может не завестись.
 
 ### Извлечение
-`livan_x3_pro_ru_d31c7544` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 механического
 ключа
 Нажмите
@@ -38053,7 +35760,6 @@ LIVAN
 источником питания ноутбука.
 
 ### Замена
-`livan_x3_pro_ru_11a8dad3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 элемента
 питания
 смарт-ключа
@@ -38073,7 +35779,6 @@ LIVAN
 низкого
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_7f8715b2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 114
 заряда элемента питания, необходимо
 заменить
@@ -38083,7 +35788,6 @@ LIVAN
 смартключе.
 
 ### 2. Используйте плоскую отвертку или
-`livan_x3_pro_ru_db19351e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 аналогичный
 инструмент,
 вместе,
@@ -38092,7 +35796,6 @@ LIVAN
 на две части.
 
 ### 3. После открытия корпуса смарт-ключа
-`livan_x3_pro_ru_41e143c0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 замените элемент питания на новый
 и обратите внимание, что размещать
 его следует положительной стороной
@@ -38103,7 +35806,6 @@ LIVAN
 смарт-ключа: 3В, CR2032).
 
 ### 4. Соберите
-`livan_x3_pro_ru_7592cae1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:117 | doc_type:owners_manual
 две
 половины
 корпуса
@@ -38127,7 +35829,6 @@ LIVAN
 ниже
 
 ### -20° С
-`livan_x3_pro_ru_147e804d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 в
 течение
 длительного
@@ -38143,7 +35844,6 @@ LIVAN
 смарт-ключа.
 
 ### Своевременно
-`livan_x3_pro_ru_76dd3a69` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 заменяйте элемент питания. Избегайте
 влияния на функционал дистанционного
 управления,
@@ -38162,7 +35862,6 @@ LIVAN
 использование.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_edcd19b5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 5
 8
 7
@@ -38178,7 +35877,6 @@ LIVAN
 двигателя*
 
 ### Противоугонную
-`livan_x3_pro_ru_cff8574f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 защиту
 двигателя
 не
@@ -38244,7 +35942,6 @@ LIVAN, чтобы настроить новый ключ.
 противоугонную защиту.
 
 ### Закрытие
-`livan_x3_pro_ru_0e061344` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 и
 открытие
 замка автомобиля
@@ -38277,7 +35974,6 @@ LIVAN, чтобы настроить новый ключ.
 ли она выполнена.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_6685e373` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:118 | doc_type:owners_manual
 116
 Только при выключенном зажигании и
 закрытых
@@ -38302,7 +35998,6 @@ LIVAN, чтобы настроить новый ключ.
 смарт-ключа.
 
 ### Если незапертый автомобиль стоит на
-`livan_x3_pro_ru_77a5b601` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:119 | doc_type:owners_manual
 стоянке в течение длительного времени,
 аккумулятор
 автомобиля
@@ -38314,7 +36009,6 @@ LIVAN, чтобы настроить новый ключ.
 будет снова запустить.
 
 ### В
-`livan_x3_pro_ru_f9daa0f1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:119 | doc_type:owners_manual
 случае
 отказа
 ключа
@@ -38330,7 +36024,6 @@ LIVAN, чтобы настроить новый ключ.
 помощью механического ключа.
 
 ### Система доступа в автомобиль
-`livan_x3_pro_ru_ce9a3dfe` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:119 | doc_type:owners_manual
 без ключа*
 Бесключевое открытие замка
 Имея
@@ -38350,7 +36043,6 @@ LIVAN, чтобы настроить новый ключ.
 загорятся габаритные огни.
 
 ### Выключите
-`livan_x3_pro_ru_1556eae3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:119 | doc_type:owners_manual
 зажигание,
 после
 заблокируйте четыре двери и заднюю
@@ -38368,7 +36060,6 @@ LIVAN, чтобы настроить новый ключ.
 погаснут.
 
 ### В
-`livan_x3_pro_ru_f9daa0f1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 указанных
 ниже
 условиях
@@ -38381,20 +36072,17 @@ LIVAN, чтобы настроить новый ключ.
 •
 
 ### OFF;
-`livan_x3_pro_ru_5fbeb059` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 •
 Одна из дверей не закрыта;
 •
 Смарт-ключ остался в машине.
 
 ### Дистанционное
-`livan_x3_pro_ru_63cbc8de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 блокирование
 и разблокирование замков
 Разблокирование замков
 
 ### Коротко нажмите кнопку разблокировки
-`livan_x3_pro_ru_03e5ab60` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:119 | doc_type:owners_manual
 на ключе дистанционного управления/
 смарт-ключе,
 чтобы
@@ -38406,7 +36094,6 @@ LIVAN, чтобы настроить новый ключ.
 дверь.
 
 ### Указатели
-`livan_x3_pro_ru_7930816e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:119 | doc_type:owners_manual
 поворота
 мигнут
 три
@@ -38424,7 +36111,6 @@ LIVAN, чтобы настроить новый ключ.
 разблокировать заднюю дверь.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_a94a8f1b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:119 | doc_type:owners_manual
 5
 8
 7
@@ -38471,7 +36157,6 @@ LIVAN, чтобы настроить новый ключ.
 чтобы предупредить пользователя.
 
 ### Не позволяйте детям проникать в
-`livan_x3_pro_ru_933ec265` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:120 | doc_type:owners_manual
 багажное
 отделение.
 Убедитесь,
@@ -38483,13 +36168,11 @@ LIVAN, чтобы настроить новый ключ.
 автомобиль находится без присмотра.
 
 ### Как только ребенок окажется в ловушке в
-`livan_x3_pro_ru_94ab6f33` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 багажном отделении, вполне вероятно,
 что он или она не сможет выбраться, что
 вызовет тепловой удар или удушье.
 
 ### Блокирование
-`livan_x3_pro_ru_c325a263` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 и
 разблокирование
 механическим ключом
@@ -38500,7 +36183,6 @@ LIVAN, чтобы настроить новый ключ.
 управления).
 
 ### 2. Вставьте механический ключ в замок
-`livan_x3_pro_ru_0c34bd7e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:120 | doc_type:owners_manual
 двери
 со
 стороны
@@ -38515,7 +36197,6 @@ LIVAN, чтобы настроить новый ключ.
 водителя.
 
 ### Блокирование
-`livan_x3_pro_ru_c325a263` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 и
 разблокирование
 замков
@@ -38531,7 +36212,6 @@ LIVAN, чтобы настроить новый ключ.
 изнутри.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_df45ea9d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 118
 Когда
 четыре
@@ -38544,7 +36224,6 @@ LIVAN, чтобы настроить новый ключ.
 разблокировать все двери.
 
 ### Разблокирование
-`livan_x3_pro_ru_a3d5c21a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 изнутри
 автомобиля
 через
@@ -38561,14 +36240,12 @@ LIVAN, чтобы настроить новый ключ.
 режимах отклика не будет.
 
 ### Автоматическое блокирование
-`livan_x3_pro_ru_edfc340d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 и разблокирование
 Автоматическое
 повторное
 блокирование
 
 ### В
-`livan_x3_pro_ru_aaea4a9b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:121 | doc_type:owners_manual
 течение
 30
 секунд
@@ -38588,14 +36265,12 @@ LIVAN, чтобы настроить новый ключ.
 заблокируются.
 
 ### Внутреннее
-`livan_x3_pro_ru_52dbf211` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 освещение
 погаснет
 и
 система переходит в режим тревоги.
 
 ### Автоматическая
-`livan_x3_pro_ru_a12d661a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 блокировка
 в
 движении
@@ -38633,7 +36308,6 @@ LIVAN, чтобы настроить новый ключ.
 забыт в автомобиле.
 
 ### Напоминание о забытом ключе
-`livan_x3_pro_ru_f4df5d36` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:121 | doc_type:owners_manual
 Когда
 ключ
 зажигания
@@ -38667,7 +36341,6 @@ LOCK,
 зажигания автомобиля.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_92cf6284` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 5
 8
 7
@@ -38692,7 +36365,6 @@ LOCK,
 двери автоматически разблокируются.
 
 ### Разблокировка при столкновении
-`livan_x3_pro_ru_89fa95b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 Если
 автомобиль
 получает
@@ -38711,7 +36383,6 @@ LOCK,
 автомобиль.
 
 ### Функция поиска автомобиля
-`livan_x3_pro_ru_99fb9b56` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 Если
 местоположение
 вашего
@@ -38770,7 +36441,6 @@ LOCK,
 автоматически.
 
 ### Для некоторых моделей автоматическое
-`livan_x3_pro_ru_a81e22d6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 закрывание
 окон
 установлено
@@ -38791,7 +36461,6 @@ LOCK,
 автоматически.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_1a5c4cbb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 120
 Открытие задней двери
 Открытие
@@ -38844,7 +36513,6 @@ LOCK,
 открыть ее на некоторое время.
 
 ### Аварийное открытие задней двери
-`livan_x3_pro_ru_3d283f25` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:123 | doc_type:owners_manual
 Когда
 электрический
 механизм
@@ -38863,7 +36531,6 @@ LOCK,
 устройство аварийного открытия.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_71faecd4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 5
 8
 7
@@ -38879,7 +36546,6 @@ LOCK,
 образом:
 
 ### 1. Полностью сложите спинку заднего
-`livan_x3_pro_ru_ca28c34d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 сиденья. Подробности см. в разделе
 «Регулировка
 передних
@@ -38893,7 +36559,6 @@ LOCK,
 защитные устройствае.
 
 ### 2. Заберитесь
-`livan_x3_pro_ru_6816cc8f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:124 | doc_type:owners_manual
 во
 внутреннюю
 часть
@@ -38906,7 +36571,6 @@ LOCK,
 задней двери.
 
 ### 3. Снимите
-`livan_x3_pro_ru_1377c526` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 крышку
 выключателя
 аварийного
@@ -38915,7 +36579,6 @@ LOCK,
 двери.
 
 ### 4. Поверните выключатель аварийного
-`livan_x3_pro_ru_c62c6165` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:124 | doc_type:owners_manual
 открывания
 задней
 двери
@@ -38923,13 +36586,11 @@ LOCK,
 чтобы открыть заднюю дверь.
 
 ### Дверные ручки
-`livan_x3_pro_ru_99796aba` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:124 | doc_type:owners_manual
 Когда дверь разблокирована, открыть ее
 можно с помощью внутренней и внешней
 дверных ручек.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_82ebbbc9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 122
 Левая
 и
@@ -38952,7 +36613,6 @@ LOCK,
 безопасности.
 
 ### Детский замок безопасности расположен
-`livan_x3_pro_ru_59a75274` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:125 | doc_type:owners_manual
 на
 внешних
 краях
@@ -38983,7 +36643,6 @@ LOCK,
 работает нормально.
 
 ### Запуск
-`livan_x3_pro_ru_00352916` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 двигателя
 автомобиля
 Замок
@@ -38992,7 +36651,6 @@ LOCK,
 механическим ключом)
 
 ### Автомобиль
-`livan_x3_pro_ru_849a60be` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 может
 быть
 заведен
@@ -39000,7 +36658,6 @@ LOCK,
 имеет четыре положения.
 
 ### 1. LOCK: дистанционный ключ можно
-`livan_x3_pro_ru_443a3021` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:125 | doc_type:owners_manual
 вставить или вытащить только в этом
 положении. При парковке поверните
 ключ
@@ -39022,7 +36679,6 @@ LOCK,
 кражу.
 
 ### 2. ACC: когда ключ находится в этом
-`livan_x3_pro_ru_c2ef805a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:125 | doc_type:owners_manual
 положении,
 можно
 использовать
@@ -39044,7 +36700,6 @@ LOCK,
 автомобиль не сможет ехать.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_32ff8451` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:125 | doc_type:owners_manual
 5
 8
 7
@@ -39091,7 +36746,6 @@ LOCK,
 аккумулятора.
 
 ### 4. START: этот режим используется для
-`livan_x3_pro_ru_ef3b1996` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:126 | doc_type:owners_manual
 запуска
 автомобиля.
 Двигатель
@@ -39099,7 +36753,6 @@ LOCK,
 положение.
 
 ### Отпустите
-`livan_x3_pro_ru_58fd93a4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:126 | doc_type:owners_manual
 ключ
 после
 запуска,
@@ -39112,7 +36765,6 @@ LOCK,
 положение ON.
 
 ### Пусковой
-`livan_x3_pro_ru_bb1f20f0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:126 | doc_type:owners_manual
 переключатель
 (бесключевой запуск)*
 Этот автомобиль оснащен электронным
@@ -39140,7 +36792,6 @@ LOCK,
 Режимы пускового переключателя:
 
 ### OFF:
-`livan_x3_pro_ru_affb4c05` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:126 | doc_type:owners_manual
 в
 этом
 положении
@@ -39185,7 +36836,6 @@ ACC: этот режим позволяет использовать
 режим
 
 ### АСС.
-`livan_x3_pro_ru_649c01c1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:126 | doc_type:owners_manual
 Когда
 пусковой
 переключатель находится в режиме ACC,
@@ -39197,7 +36847,6 @@ ACC: этот режим позволяет использовать
 зажигания, чтобы запустить двигатель.
 
 ### Если пусковой переключатель все
-`livan_x3_pro_ru_72cdbf88` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:126 | doc_type:owners_manual
 еще
 находится
 в
@@ -39217,7 +36866,6 @@ ACC
 автомобиль может не завестись.
 
 ### ON:
-`livan_x3_pro_ru_0f7883b4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:126 | doc_type:owners_manual
 когда
 пусковой
 переключатель
@@ -39235,13 +36883,11 @@ ACC
 переключатель в режим OFF.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_7a31c45a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:126 | doc_type:owners_manual
 124
 START: этот режим используется для
 запуска автомобиля.
 
 ### Не оставляйте электронный ключ в
-`livan_x3_pro_ru_7688a745` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:127 | doc_type:owners_manual
 автомобиле
 или
 в
@@ -39255,7 +36901,6 @@ START: этот режим используется для
 причиной серьезных травм или смерти.
 
 ### Запуск
-`livan_x3_pro_ru_47be4e7d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 двигателя
 (запуск
 механическим ключом)
@@ -39270,12 +36915,10 @@ START: этот режим используется для
 педаль сцепления.
 
 ### 2. После запуска двигателя немедленно
-`livan_x3_pro_ru_b3d8ff50` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 отпустите ключ, чтобы вернуть его в
 положение ON из положения START.
 
 ### Не запускайте стартер и двигатель
-`livan_x3_pro_ru_329837fd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:127 | doc_type:owners_manual
 одновременно.
 3. Если
 холодный
@@ -39289,7 +36932,6 @@ START: этот режим используется для
 нормально.
 
 ### 4. Избегайте
-`livan_x3_pro_ru_8415bc84` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:127 | doc_type:owners_manual
 работы
 двигателя
 в
@@ -39321,7 +36963,6 @@ START: этот режим используется для
 месте.
 
 ### Выхлопные
-`livan_x3_pro_ru_4e364c3b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 газы
 автомобиля
 могут
@@ -39329,7 +36970,6 @@ START: этот режим используется для
 отравление и даже смерть.
 
 ### Запуск
-`livan_x3_pro_ru_47be4e7d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 двигателя
 (бесключевой запуск)*
 Для
@@ -39340,7 +36980,6 @@ START: этот режим используется для
 выполнены следующие условия:
 
 ### 1. Носите с собой действующий смарт-
-`livan_x3_pro_ru_cfa5fba5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 ключ;
 2. Рычаг
 переключения
@@ -39348,7 +36987,6 @@ START: этот режим используется для
 находится в положении P или N;
 
 ### Нажмите
-`livan_x3_pro_ru_effd81bb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:127 | doc_type:owners_manual
 и
 удерживайте
 педаль
@@ -39363,7 +37001,6 @@ START: этот режим используется для
 проведения технического обслуживания.
 
 ### 1. Когда
-`livan_x3_pro_ru_80ab0269` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:127 | doc_type:owners_manual
 необходимо
 запустить
 двигатель, нажмите педаль тормоза
@@ -39383,7 +37020,6 @@ START: этот режим используется для
 в
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_ac5d5ecd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:127 | doc_type:owners_manual
 5
 8
 7
@@ -39421,7 +37057,6 @@ START,
 смазку.
 
 ### 2. Если
-`livan_x3_pro_ru_f1cb2aae` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:128 | doc_type:owners_manual
 смарт-ключ
 не
 находится
@@ -39448,7 +37083,6 @@ START,
 двигатель и защитить компоненты.
 
 ### Если вы нажмете кнопку зажигания и
-`livan_x3_pro_ru_481ad971` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:128 | doc_type:owners_manual
 отпустите ее, когда двигатель начнет
 запускаться,
 стартер
@@ -39480,7 +37114,6 @@ START,
 чтобы начать следующий пуск.
 
 ### Если после неудачного пуска сразу
-`livan_x3_pro_ru_8eedf99c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:128 | doc_type:owners_manual
 же
 повторно
 нажать
@@ -39503,7 +37136,6 @@ START,
 полного остывания стартера.
 
 ### Резервная процедура запуска
-`livan_x3_pro_ru_8705c0a0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 автомобиля*
 Если
 автомобиль
@@ -39533,7 +37165,6 @@ START,
 запуска с кнопки.
 
 ### Запустите
-`livan_x3_pro_ru_5491338e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 автомобиль
 следующим
 образом:
@@ -39543,7 +37174,6 @@ START,
 передач в положение P или N.
 
 ### 2. Смарт-ключ
-`livan_x3_pro_ru_1a8858c5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 размещается
 в
 контейнере для хранения у метки
@@ -39551,7 +37181,6 @@ START,
 консоли.
 
 ### 4. Нажата кнопка зажигания.
-`livan_x3_pro_ru_e65069da` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:128 | doc_type:owners_manual
 Если
 автомобиль
 заглох
@@ -39573,7 +37202,6 @@ START,
 на
 
 ### ON,
-`livan_x3_pro_ru_a3bffda8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 далее
 нажмите кнопку зажигания.
 Когда
@@ -39590,13 +37218,11 @@ START,
 вывести автомобиль из этой зоны, затем
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_6650c59a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 126
 нормальная работа запуска без ключа
 возобновится.
 
 ### Если процедура запуска без ключа не
-`livan_x3_pro_ru_d4e7e591` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:129 | doc_type:owners_manual
 может
 быть
 использована
@@ -39608,7 +37234,6 @@ START,
 проведения технического обслуживания.
 
 ### Перед проверкой двигатель необходимо
-`livan_x3_pro_ru_8b57e825` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:129 | doc_type:owners_manual
 запустить двигатель в соответствии с
 правильной
 процедурой
@@ -39622,7 +37247,6 @@ START,
 топлива достаточно.
 
 ### Некоторые автомобили оснащены пуском
-`livan_x3_pro_ru_8c80fd85` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:129 | doc_type:owners_manual
 одной
 кнопкой.
 Если
@@ -39635,7 +37259,6 @@ START,
 ключ.
 
 ### Передайте
-`livan_x3_pro_ru_79d8cd94` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 смартключ
 на
 центр
@@ -39654,7 +37277,6 @@ START,
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_76c69671` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:129 | doc_type:owners_manual
 для
 проведения
 технического обслуживания.
@@ -39666,7 +37288,6 @@ START,
 скорость слишком низкая:
 
 ### 1. Убедитесь, что клеммы аккумулятора
-`livan_x3_pro_ru_01064b55` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:129 | doc_type:owners_manual
 затянуты и чистые.
 2. Если
 проблем
@@ -39707,7 +37328,6 @@ START,
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_76c69671` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:129 | doc_type:owners_manual
 для
 проведения
 технического обслуживания.
@@ -39734,7 +37354,6 @@ START,
 стартером, но не заводится:
 
 ### 1. Повторный
-`livan_x3_pro_ru_246e667a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 запуск
 приведет
 к
@@ -39745,13 +37364,11 @@ START,
 двигателе.
 
 ### Попробуйте
-`livan_x3_pro_ru_822e32a2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 нажать
 педаль газа до упора перед запуском
 двигателя.
 
 ### 2. Если
-`livan_x3_pro_ru_7c1243e1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 автомобиль
 по-прежнему
 не
@@ -39763,7 +37380,6 @@ START,
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_76c69671` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 для
 проведения
 технического
@@ -39782,7 +37398,6 @@ START,
 •
 
 ### При движении по дорогам с плохим
-`livan_x3_pro_ru_8e1dd850` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 дорожным покрытием.
 •
 При наезде на бордюр.
@@ -39792,7 +37407,6 @@ START,
 автомобиль полностью загружен.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_9acc9208` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 5
 8
 7
@@ -39826,7 +37440,6 @@ START,
 топлива.
 
 ### В
-`livan_x3_pro_ru_449ac216` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 период
 обкатки
 нового автомобиля при его эксплуатации
@@ -39837,7 +37450,6 @@ START,
 •
 
 ### Старайтесь не нажимать педаль газа
-`livan_x3_pro_ru_5e9092de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 до упора при трогании с места и в
 движении.
 •
@@ -39848,7 +37460,6 @@ START,
 дороге.
 
 ### Избегайте
-`livan_x3_pro_ru_97af59c6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 езды
 по
 грязи
@@ -39865,7 +37476,6 @@ START,
 •
 
 ### Избегайте экстренного торможения в
-`livan_x3_pro_ru_10ba6e66` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 течение первых 300 километров.
 •
 Не
@@ -39882,7 +37492,6 @@ START,
 времени.
 
 ### Использование автомобиля в
-`livan_x3_pro_ru_b45a9343` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:130 | doc_type:owners_manual
 холодном климате (ниже 0°С)
 90%
 износа
@@ -39902,7 +37511,6 @@ START,
 •
 
 ### После запуска автомобиль работает в
-`livan_x3_pro_ru_35c614b5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 течение 2-3 минут на холостом ходу,
 затем можно начинать движение.
 •
@@ -39920,7 +37528,6 @@ START,
 °
 
 ### С),
-`livan_x3_pro_ru_f5ba0862` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:130 | doc_type:owners_manual
 можно
 двигаться
 в
@@ -39982,7 +37589,6 @@ START,
 более 30 км.
 
 ### Парковка
-`livan_x3_pro_ru_dfe5b546` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 на
 горючих
 материалах
@@ -40003,7 +37609,6 @@ START,
 привести к несчастному случаю.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_9154e2af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 128
 Экономичное вождение
 В
@@ -40034,7 +37639,6 @@ START,
 общественному порядку.
 
 ### 1. Плавный старт и ускорение
-`livan_x3_pro_ru_d253fe41` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 При
 трогании
 с
@@ -40053,7 +37657,6 @@ START,
 ускорения.
 
 ### Плавный
-`livan_x3_pro_ru_57e15808` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 старт
 и
 ускорение
@@ -40077,7 +37680,6 @@ START,
 автомагистралям.
 
 ### С
-`livan_x3_pro_ru_8d7c7e3c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 точки зрения безопасного вождения
 поддержание
 постоянной
@@ -40085,7 +37687,6 @@ START,
 меньшему расходу топлива.
 
 ### 3. Избегайте
-`livan_x3_pro_ru_48c3e708` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:131 | doc_type:owners_manual
 торможения
 без
 необходимости
@@ -40111,7 +37712,6 @@ START,
 избегайте резкого торможения.
 
 ### 4. Выключайте
-`livan_x3_pro_ru_bca7d537` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:131 | doc_type:owners_manual
 двигатель
 при
 длительных
@@ -40124,7 +37724,6 @@ START,
 ходу.
 
 ### 5. Поддерживайте
-`livan_x3_pro_ru_0a14a518` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:131 | doc_type:owners_manual
 низкое
 сопротивление воздуха автомобиля
 Открытие окна на высокой скорости
@@ -40141,7 +37740,6 @@ START,
 закройте окна.
 
 ### 6. Поддерживайте
-`livan_x3_pro_ru_fbd20b27` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 правильное
 давление в шинах
 Регулярно
@@ -40156,7 +37754,6 @@ START,
 ведет к увеличению расхода топлива.
 
 ### 7. Минимизируйте
-`livan_x3_pro_ru_75e7d206` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:131 | doc_type:owners_manual
 использование
 кондиционера
 Кондиционер
@@ -40180,7 +37777,6 @@ START,
 кондиционера.
 
 ### Каждый дополнительный килограмм
-`livan_x3_pro_ru_bf9442a3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 веса
 может
 увеличить
@@ -40195,7 +37791,6 @@ START,
 средства.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_9468eb28` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 5
 8
 7
@@ -40210,7 +37805,6 @@ START,
 обслуживание своевременно
 
 ### Чтобы поддерживать автомобиль в
-`livan_x3_pro_ru_4a360b98` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 хорошем
 состоянии,
 обслуживайте
@@ -40219,7 +37813,6 @@ START,
 правилам.
 
 ### Хорошая
-`livan_x3_pro_ru_9643f59e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 работа двигателя способствует не
 только
 повышению
@@ -40228,7 +37821,6 @@ START,
 топлива.
 
 ### Оптимизируйте
-`livan_x3_pro_ru_4f75e560` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 маршрут
 и
 старайтесь избегать перегруженных
@@ -40237,14 +37829,12 @@ START,
 топлива.
 
 ### 11. Не меняйте размер шин по своему
-`livan_x3_pro_ru_4dc354e5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 желанию
 Использование больших или широких
 шин приведет к увеличению расхода
 топлива.
 
 ### Водите осторожно
-`livan_x3_pro_ru_7de1c13d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:132 | doc_type:owners_manual
 Первое,
 что
 нужно
@@ -40254,7 +37844,6 @@ START,
 ремень безопасности.
 
 ### Безопасное
-`livan_x3_pro_ru_8bf3c6f4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 вождение:
 во
 время
@@ -40275,7 +37864,6 @@ START,
 случаев.
 
 ### Соблюдайте
-`livan_x3_pro_ru_4d0f9d10` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 дистанцию
 и
 сосредоточьтесь
@@ -40289,7 +37877,6 @@ START,
 травмированию людей.
 
 ### Вождение
-`livan_x3_pro_ru_262de3d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 в
 состоянии
 алкогольного опьянения
@@ -40312,7 +37899,6 @@ START,
 запрещено.
 
 ### Ответственность
-`livan_x3_pro_ru_d0ac35e3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 и
 последствия
 установлены
@@ -40320,20 +37906,17 @@ START,
 законодательством РФ.
 
 ### Во избежание повреждения автомобиля
-`livan_x3_pro_ru_79c8c664` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 при движении по воде (например, при
 затоплении дороги) обратите внимание
 на следующее:
 
 ### 1. Определите
-`livan_x3_pro_ru_d639cbc9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 глубину
 перед
 движением по воде. Максимальный
 уровень воды - ребро краевой балки.
 
 ### 2. Двигайтесь на малой скорости, иначе
-`livan_x3_pro_ru_8e33f106` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 перед
 автомобилем
 могут
@@ -40347,7 +37930,6 @@ START,
 автомобиля.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_4676f9cd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:132 | doc_type:owners_manual
 130
 3. Ни при каких обстоятельствах нельзя
 останавливаться, двигаться задним
@@ -40431,7 +38013,6 @@ START,
 немедленно промыть пресной водой.
 
 ### После нахождения в воде рекомендуется
-`livan_x3_pro_ru_d3350e15` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 отправиться
 на
 центр
@@ -40445,7 +38026,6 @@ LIVAN
 автомобиля,
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_7173aca4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 5
 8
 7
@@ -40462,7 +38042,6 @@ LIVAN
 обеспечения безопасности вождения.
 
 ### Парковка или стоянка
-`livan_x3_pro_ru_0c342f45` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:134 | doc_type:owners_manual
 •
 Автомобиль должен быть припаркован
 на
@@ -40517,13 +38096,11 @@ LIVAN
 травмам или смерти.
 
 ### Трехкомпонентный
-`livan_x3_pro_ru_fdb99ac0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 каталитический
 нейтрализатор
 отработавших газов ДВС
 
 ### Информация
-`livan_x3_pro_ru_e6b28b47` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 о
 трехкомпонентном
 каталитическом
@@ -40535,7 +38112,6 @@ LIVAN
 сгорания
 
 ### Выхлопная
-`livan_x3_pro_ru_6bedc217` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 система
 автомобиля
 оснащена
@@ -40556,7 +38132,6 @@ HC и NOx, в безвредный углекислый газ,
 восстановления.
 
 ### Неправильное
-`livan_x3_pro_ru_2b9333c9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 использование
 может
 привести
@@ -40574,7 +38149,6 @@ HC и NOx, в безвредный углекислый газ,
 ниже требования.
 
 ### Пропуски зажигания и догорание в
-`livan_x3_pro_ru_f25ebb0d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 двигателе
 могут
 привести
@@ -40603,7 +38177,6 @@ HC и NOx, в безвредный углекислый газ,
 техническому обслуживаниюе.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_0db5cf05` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 132
 Требования к топливу
 •
@@ -40629,7 +38202,6 @@ HC и NOx, в безвредный углекислый газ,
 повреждению топливного насоса.
 
 ### Требования к запуску
-`livan_x3_pro_ru_437eccab` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:135 | doc_type:owners_manual
 •
 Не
 продолжайте
@@ -40660,14 +38232,12 @@ HC и NOx, в безвредный углекислый газ,
 поскольку двигатель не запустится.
 
 ### Требования к движению
-`livan_x3_pro_ru_1d625756` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 •
 Не перегружайте и не превышайте
 обороты двигателя.
 •
 
 ### Не глушите автомобиль при движении
-`livan_x3_pro_ru_c4a98efa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 на передаче.
 •
 Если мощность автомобиля снижается
@@ -40678,7 +38248,6 @@ HC и NOx, в безвредный углекислый газ,
 удариться днищем автомобиля.
 
 ### Устройство
-`livan_x3_pro_ru_d687a817` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:135 | doc_type:owners_manual
 контроля
 выхлопных газов
 •
@@ -40690,7 +38259,6 @@ HC и NOx, в безвредный углекислый газ,
 правилам.
 
 ### Свинец
-`livan_x3_pro_ru_106a8569` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:135 | doc_type:owners_manual
 в
 бензине
 и
@@ -40717,7 +38285,6 @@ HC и NOx, в безвредный углекислый газ,
 нейтрализатора.
 
 ### Выхлопные газы
-`livan_x3_pro_ru_84ada79b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:135 | doc_type:owners_manual
 •
 Когда
 автомобиль
@@ -40746,7 +38313,6 @@ HC и NOx, в безвредный углекислый газ,
 •
 
 ### Если вы не можете остановиться на
-`livan_x3_pro_ru_fc12d7a7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:135 | doc_type:owners_manual
 время, откройте все окна.
 •
 Если рабочее состояние двигателя не
@@ -40769,7 +38335,6 @@ HC и NOx, в безвредный углекислый газ,
 в
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_be55f205` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 5
 8
 7
@@ -40802,7 +38367,6 @@ LIVAN для проверки.
 или вблизи него.
 
 ### Избегайте
-`livan_x3_pro_ru_0d69b75c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 вдыхания
 выхлопных
 газов автомобиля. Выхлопные газы
@@ -40817,7 +38381,6 @@ LIVAN для проверки.
 ослаблены.
 
 ### Регулярно
-`livan_x3_pro_ru_211eeea0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 проверяйте
 выхлопную
 систему.
@@ -40834,7 +38397,6 @@ LIVAN для проверки.
 проведения технического обслуживания.
 
 ### Не запускайте двигатель в гараже или в
-`livan_x3_pro_ru_023ca381` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 закрытом помещении, иначе выхлопные
 газы не выйдут наружу и могут привести к
 серьезным травмам или смерти.
@@ -40874,7 +38436,6 @@ LIVAN для проверки.
 снега, листьев и других препятствий.
 
 ### Если вы чувствуете запах выхлопных
-`livan_x3_pro_ru_4b0feefb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 газов
 в
 машине,
@@ -40888,7 +38449,6 @@ LIVAN для проверки.
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_8747f049` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 для
 проведения
 технического обслуживания.
@@ -40897,7 +38457,6 @@ LIVAN для проверки.
 фильтр GPF
 
 ### Программа восстановления
-`livan_x3_pro_ru_435bfce6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 В процессе движения, когда частицы,
 попавшие в бензиновый сажевый фильтр
 (GPF), накапливаются до определенного
@@ -40937,7 +38496,6 @@ LIVAN для проверки.
 рекомендаций:
 
 ### 1. Пожалуйста,
-`livan_x3_pro_ru_0982e747` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 обратитесь
 в
 центр
@@ -40950,7 +38508,6 @@ LIVAN
 сажевого фильтра;
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_67f09bec` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 134
 2. В
 пути
@@ -40964,7 +38521,6 @@ LIVAN
 агрессивно;
 
 ### 3. Если
-`livan_x3_pro_ru_0e882a98` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 индикатор
 состояния
 бензинового
@@ -40979,7 +38535,6 @@ LIVAN
 обслуживания
 
 ### LIVAN,
-`livan_x3_pro_ru_8df0d3de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 объясните
 ситуацию
 и
@@ -40990,7 +38545,6 @@ LIVAN
 технического обслуживания
 
 ### LIVAN для восстановления бензинового
-`livan_x3_pro_ru_841ddb63` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 сажевого
 фильтра,
 можно
@@ -41030,7 +38584,6 @@ LIVAN
 •
 
 ### Избегайте
-`livan_x3_pro_ru_c43ea5b3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:137 | doc_type:owners_manual
 частых
 остановок
 или
@@ -41063,7 +38616,6 @@ LIVAN
 для данного автомобиля.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_abf9fd74` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 5
 8
 7
@@ -41094,7 +38646,6 @@ LIVAN
 очиститель будет серьезно поврежден.
 
 ### Для поддержания двигателя в чистоте и
-`livan_x3_pro_ru_cb7d622a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 достижения
 наилучших
 характеристик
@@ -41124,7 +38675,6 @@ LIVAN
 уровня, двигатель нуждается в ремонте.
 
 ### Некоторые
-`livan_x3_pro_ru_2e84db54` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 виды
 топлива
 содержат
@@ -41136,7 +38686,6 @@ LIVAN
 марганца
 
 ### (ММТ).
-`livan_x3_pro_ru_de8f4bef` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 Мы
 не
 рекомендуем
@@ -41145,7 +38694,6 @@ LIVAN
 содержащее ММТ. Топливо, содержащее
 
 ### ММТ,
-`livan_x3_pro_ru_916c5505` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 сократит
 срок
 службы
@@ -41166,7 +38714,6 @@ LIVAN
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_4b4ca767` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 для
 проведения
 технического обслуживания.
@@ -41175,7 +38722,6 @@ LIVAN
 топливной системы
 
 ### Углеродный
-`livan_x3_pro_ru_531d0edc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 очиститель
 топливной
 системы
@@ -41203,7 +38749,6 @@ LIVAN
 для очистки от нагара, одобренное
 
 ### LIVAN
-`livan_x3_pro_ru_4b4ca767` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 .
 Присадки,
 не
@@ -41219,14 +38764,12 @@ LIVAN,
 метанол.
 
 ### Метанол
-`livan_x3_pro_ru_c0bcb996` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 разъедает топливную систему. Гарантия
 не распространяется на повреждения,
 вызванные использованием топлива с
 метанолом.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_0cb87162` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:138 | doc_type:owners_manual
 136
 Безопасность на АЗС
 Топливо легковоспламеняющееся и
@@ -41264,13 +38807,11 @@ LIVAN,
 первого подергивания пистолета.
 
 ### Топливозаливная горловина
-`livan_x3_pro_ru_58775d20` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 и заправка
 Крышка топливного бака расположена на
 задней левой стороне автомобиля.
 
 ### Потяните
-`livan_x3_pro_ru_b04e7f17` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 ручку
 открывания
 крышки
@@ -41278,7 +38819,6 @@ LIVAN,
 приборной панели, чтобы открыть ее.
 
 ### Привязанная
-`livan_x3_pro_ru_99f62502` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 крышка
 топливозаливной
 горловины
@@ -41319,7 +38859,6 @@ LIVAN,
 •
 
 ### Не оставляйте топливный насос без
-`livan_x3_pro_ru_4c8b51dd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 присмотра
 во
 время
@@ -41339,7 +38878,6 @@ LIVAN,
 слишком
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_1677c97a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 5
 8
 7
@@ -41355,7 +38893,6 @@ LIVAN,
 ожогам.
 
 ### Переполнение
-`livan_x3_pro_ru_3d41cfd0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 топливного
 бака
 может
@@ -41410,7 +38947,6 @@ LIVAN,
 щелчка.
 
 ### Закройте
-`livan_x3_pro_ru_a65f1aa2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 крышку
 топливного
 бака
@@ -41423,7 +38959,6 @@ LIVAN,
 атмосферу.
 
 ### Закройте
-`livan_x3_pro_ru_a65f1aa2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 крышку
 топливного
 бака,
@@ -41449,7 +38984,6 @@ LIVAN,
 площадку.
 
 ### Закрывайте
-`livan_x3_pro_ru_80b1d474` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 крышку
 топливного
 бака,
@@ -41464,7 +38998,6 @@ LIVAN,
 повреждена.
 
 ### Если вам нужно заменить крышку
-`livan_x3_pro_ru_cc3acc32` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 топливного
 бака,
 обратитесь
@@ -41482,7 +39015,6 @@ LIVAN,
 топливного бака.
 
 ### Детали
-`livan_x3_pro_ru_5048ab1e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:140 | doc_type:owners_manual
 и
 компоненты
 топливной
@@ -41512,7 +39044,6 @@ LIVAN,
 обслуживанию.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_bcf03a98` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:140 | doc_type:owners_manual
 138
 Ручное
 переключение
@@ -41522,12 +39053,10 @@ LIVAN,
 передач
 
 ### Информация о передачах
-`livan_x3_pro_ru_52329099` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 R (передача заднего хода)
 Передача для движения назад.
 
 ### (R)
-`livan_x3_pro_ru_1d10da55` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:141 | doc_type:owners_manual
 можно,
 только
 когда
@@ -41566,7 +39095,6 @@ N (нейтральная передача)
 1-5 передачи
 
 ### Всего на рычаге переключения передач
-`livan_x3_pro_ru_3bc388a7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 имеется от 5 передач от 1 до 5. Если вы
 хотите переключиться на повышенную
 или
@@ -41582,7 +39110,6 @@ N (нейтральная передача)
 переключения передачи.
 
 ### Необходимые
-`livan_x3_pro_ru_01cdc877` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 знания
 по
 эксплуатации
@@ -41603,7 +39130,6 @@ N (нейтральная передача)
 переведен в положение START.
 
 ### 2. После
-`livan_x3_pro_ru_e4756768` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:141 | doc_type:owners_manual
 запуска
 двигателя
 нажмите
@@ -41627,7 +39153,6 @@ N (нейтральная передача)
 заднего хода (R).
 
 ### 3. Отпустите
-`livan_x3_pro_ru_b6beaa70` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:141 | doc_type:owners_manual
 стояночный
 тормоз,
 медленно
@@ -41644,7 +39169,6 @@ N (нейтральная передача)
 движение.
 
 ### Переключение
-`livan_x3_pro_ru_6964e822` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 на
 переднюю
 передачу
@@ -41684,7 +39208,6 @@ N (нейтральная передача)
 может привести к чрезмерному износу
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_b59f6cc5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 5
 8
 7
@@ -41709,7 +39232,6 @@ N (нейтральная передача)
 плавным.
 
 ### Перед переключением с более высокой
-`livan_x3_pro_ru_139ebe94` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 передачи на низкую скорость автомобиля
 следует снизить, а переключиться после
 этого,
@@ -41719,7 +39241,6 @@ N (нейтральная передача)
 коробки передач или выхода ее из строя.
 
 ### Переключение на передачу заднего
-`livan_x3_pro_ru_2c751fcd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 хода
 Перед
 включением
@@ -41740,7 +39261,6 @@ N (нейтральная передача)
 будет двигаться более плавно.
 
 ### При трогании с места на хорошей
-`livan_x3_pro_ru_1d7b826c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 ровной дороге можно использовать
 для
 трогания
@@ -41750,7 +39270,6 @@ N (нейтральная передача)
 добиться экономии топлива.
 
 ### Во время движения не держите
-`livan_x3_pro_ru_3a07754d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 руку
 на
 рычаге
@@ -41772,7 +39291,6 @@ N (нейтральная передача)
 сцепления, чтобы удержать автомобиль.
 
 ### Процесс переключения на передачу
-`livan_x3_pro_ru_c0d548b9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 заднего хода
 Установите рычаг переключения передач
 в
@@ -41783,7 +39301,6 @@ N (нейтральная передача)
 назад.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_4e9895b1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:142 | doc_type:owners_manual
 140
 Автоматическое
 переключение передач
@@ -41792,7 +39309,6 @@ N (нейтральная передача)
 передач
 
 ### Информация о передачах
-`livan_x3_pro_ru_0cd8eac1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 P (парковка)
 Когда
 рычаг
@@ -41844,7 +39360,6 @@ R (передача заднего хода)
 педаль тормоза.
 
 ### (R)
-`livan_x3_pro_ru_c57c82a4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:143 | doc_type:owners_manual
 можно,
 только
 когда
@@ -41885,7 +39400,6 @@ N (нейтральная передача)
 вперед
 
 ### (D)
-`livan_x3_pro_ru_0c926fd8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 просто
 передвиньте
 рычаг
@@ -41903,7 +39417,6 @@ N (нейтральная передача)
 141
 
 ### D
-`livan_x3_pro_ru_b78d868f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 (передача
 для
 движения
@@ -41928,7 +39441,6 @@ N (нейтральная передача)
 передачу
 
 ### (N),
-`livan_x3_pro_ru_c99d56e3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:144 | doc_type:owners_manual
 просто
 переключите
 рычаг
@@ -41949,7 +39461,6 @@ N (нейтральная передача)
 парковку (P).
 
 ### Когда двигатель работает и рычаг
-`livan_x3_pro_ru_e9c6f46d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:144 | doc_type:owners_manual
 переключения передач находится
 на передаче для движения вперед (D)
 или движения назад (R), если водитель
@@ -41963,7 +39474,6 @@ N (нейтральная передача)
 -: понижение передачи в ручном режиме
 
 ### Если при трогании с места или
-`livan_x3_pro_ru_73d29783` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 торможении
 на
 малой
@@ -41981,7 +39491,6 @@ N (нейтральная передача)
 нормальным явлением.
 
 ### Необходимые
-`livan_x3_pro_ru_ecca47b7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 знания
 по
 эксплуатации
@@ -42009,7 +39518,6 @@ N (нейтральная передача)
 положение
 
 ### (N).
-`livan_x3_pro_ru_e54a28e3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 Чтобы
 надежно
 остановить
@@ -42018,7 +39526,6 @@ N (нейтральная передача)
 включите стояночный тормоз.
 
 ### При кратковременной стоянке не
-`livan_x3_pro_ru_86f24d98` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 переключайте передачи на D, R или
 M,
 продолжайте
@@ -42029,7 +39536,6 @@ M,
 службы
 
 ### АКПП.
-`livan_x3_pro_ru_999ca264` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:144 | doc_type:owners_manual
 Ни
 при
 каких
@@ -42048,7 +39554,6 @@ M,
 автомобиль потеряет управление.
 
 ### Запустите
-`livan_x3_pro_ru_1a7b407e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:144 | doc_type:owners_manual
 двигатель
 в
 положении
@@ -42058,7 +39563,6 @@ M,
 «Нейтралье
 
 ### (N),
-`livan_x3_pro_ru_c99d56e3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:144 | doc_type:owners_manual
 оставьте на время не менее трех секунд.
 После того, как двигатель заработает
 ровно,
@@ -42079,7 +39583,6 @@ M,
 «Впереде
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_15a1d79c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 142
 отпустите
 педаль
@@ -42106,7 +39609,6 @@ M,
 передачи или до включения передачи.
 
 ### Задний ход
-`livan_x3_pro_ru_cc3ea9ff` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:145 | doc_type:owners_manual
 Когда
 двигатель
 работает
@@ -42127,7 +39629,6 @@ M,
 газа.
 
 ### Режим ручного управления
-`livan_x3_pro_ru_a2de143a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 После
 того,
 как
@@ -42144,7 +39645,6 @@ M,
 возврата.
 
 ### Каждая
-`livan_x3_pro_ru_757b8916` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 операция в прямом направлении – это
 «+е, увеличение на одну передачу, а
 каждая
@@ -42155,7 +39655,6 @@ M,
 одну передачу.
 
 ### При движении вниз по длинному
-`livan_x3_pro_ru_f6b9c50b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 или
 крутому
 склону
@@ -42185,14 +39684,12 @@ M,
 автомобиля.
 
 ### Постарайтесь
-`livan_x3_pro_ru_8df2724a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 уменьшить
 постоянное
 использование педали тормоза, иначе
 тормоз легко выйдет из строя.
 
 ### Будьте осторожны при переключении на
-`livan_x3_pro_ru_1a8fe8b7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 более
 низкую
 передачу
@@ -42217,7 +39714,6 @@ M,
 грязным дорогам на передней передаче
 
 ### (D),
-`livan_x3_pro_ru_1fcc3bda` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 если
 ведущее
 колесо
@@ -42232,7 +39728,6 @@ M,
 режим и понизить передачу.
 
 ### В
-`livan_x3_pro_ru_005f4132` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 спортивном
 режиме
 все
@@ -42258,7 +39753,6 @@ M,
 повысить тягу при движении.
 
 ### Выберите режим SPORT в настройках
-`livan_x3_pro_ru_49a0bfe9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:145 | doc_type:owners_manual
 мультимедиа,
 при
 этом
@@ -42273,7 +39767,6 @@ M,
 режим.
 
 ### Выберите другой режим в настройках
-`livan_x3_pro_ru_f9154e34` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:145 | doc_type:owners_manual
 мультимедиа,
 чтобы
 выйти
@@ -42282,12 +39775,10 @@ M,
 Экономичный режим
 
 ### В экономичном режиме все передачи
-`livan_x3_pro_ru_a2ed4c21` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 движения вперед будут автоматически
 переключаться на повышенную передачу
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_4937809d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 5
 8
 7
@@ -42310,7 +39801,6 @@ M,
 добиться большей экономии топлива.
 
 ### Выберите
-`livan_x3_pro_ru_3cd43d51` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:146 | doc_type:owners_manual
 режим
 ECO
 в
@@ -42325,7 +39815,6 @@ ECO
 режим.
 
 ### Выберите другой режим в настройках
-`livan_x3_pro_ru_a6c7a1f4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:146 | doc_type:owners_manual
 мультимедиа,
 чтобы
 выйти
@@ -42335,7 +39824,6 @@ ECO
 из положения парковки (P)
 
 ### Если рычаг переключения передач не
-`livan_x3_pro_ru_dad927c1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:146 | doc_type:owners_manual
 может
 быть
 выведен
@@ -42360,7 +39848,6 @@ ECO
 Этапы ручной разблокировки:
 
 ### 1. Кнопка
-`livan_x3_pro_ru_35f0ef8a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 аварийной
 разблокировки
 рычага
@@ -42370,7 +39857,6 @@ ECO
 переключения передач.
 
 ### 2. Вставьте
-`livan_x3_pro_ru_96a1b35a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 маленькую
 плоскую
 отвертку
@@ -42389,7 +39875,6 @@ ECO
 нельзя будет восстановить.
 
 ### 3. Нажмите
-`livan_x3_pro_ru_7bbf2290` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 кнопку
 разблокировки
 передачи на рычаге переключения
@@ -42402,14 +39887,12 @@ ECO
 переместить рычаг.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_f003a388` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:146 | doc_type:owners_manual
 144
 Тормозные и электронные
 вспомогательные
 системы
 
 ### Торможение включает в себя время на
-`livan_x3_pro_ru_f1c75f6a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 обнаружение
 и
 реакцию.
@@ -42425,7 +39908,6 @@ ECO
 поднимаете ногу и нажимаете на педаль.
 
 ### Среднее
-`livan_x3_pro_ru_4eac7ae0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 время
 реакции
 составляет
@@ -42459,7 +39941,6 @@ ECO
 метров.
 
 ### В
-`livan_x3_pro_ru_ab6cbe95` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 экстренной ситуации это будет большое
 расстояние, поэтому важно держаться на
 достаточном
@@ -42470,7 +39951,6 @@ ECO
 средств.
 
 ### Фактический
-`livan_x3_pro_ru_73a854ce` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 тормозной
 путь
 будет
@@ -42496,7 +39976,6 @@ ECO
 необходимости.
 
 ### Некоторые
-`livan_x3_pro_ru_abe8b74c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 люди
 ездят
 короткими
@@ -42519,7 +39998,6 @@ ECO
 метод.
 
 ### Тормоза
-`livan_x3_pro_ru_250ecbe0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 могут
 не
 успеть
@@ -42580,7 +40058,6 @@ ECO
 тормоза.
 
 ### Установка
-`livan_x3_pro_ru_707ba23e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 неоригинальных
 деталей
 повлияет
@@ -42588,7 +40065,6 @@ ECO
 характеристики вашего автомобиля.
 
 ### Если в автомобиле слышен резкий
-`livan_x3_pro_ru_ee3c6aa7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 звук трения металла при нажатии
 на
 педаль
@@ -42617,7 +40093,6 @@ ECO
 обслуживания автомобилей Livan.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_936040b9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 5
 8
 7
@@ -42640,7 +40115,6 @@ ECO
 тормозной путь будет увеличиваться.
 
 ### Обязательно
-`livan_x3_pro_ru_fd4d9909` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 затяните
 стояночный
 тормоз
@@ -42656,7 +40130,6 @@ ECO
 быть затянут как можно сильнее.
 
 ### Когда ручной стояночный тормоз затянут
-`livan_x3_pro_ru_4e006dad` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 и пусковой переключатель находится в
 положении
 ON,
@@ -42685,7 +40158,6 @@ ON,
 одновременно нажать педаль тормоза.
 
 ### Во избежание случайного движения
-`livan_x3_pro_ru_ed4f82eb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 автомобиля обязательно затяните
 стояночный тормоз после остановки.
 Отпуская стояночный тормоз, убедитесь,
@@ -42695,7 +40167,6 @@ ON,
 опущен.
 
 ### В
-`livan_x3_pro_ru_f9338d39` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 противном
 случае
 не
@@ -42713,7 +40184,6 @@ ON,
 фрикционного дисков.
 
 ### (ABS)
-`livan_x3_pro_ru_e9f5c1a3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:148 | doc_type:owners_manual
 Антиблокировочная система (ABS) может
 предотвратить
 пробуксовку
@@ -42737,7 +40207,6 @@ ON,
 нормальное явление.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_510722aa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 146
 Слишком
 высокое
@@ -42756,7 +40225,6 @@ ON,
 эффективности торможения.
 
 ### Применение
-`livan_x3_pro_ru_bd8d192a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:149 | doc_type:owners_manual
 функции
 антиблокировки
 Не нужно давить на педаль тормоза.
@@ -42780,7 +40248,6 @@ ON,
 тормоза, но это нормально.
 
 ### Торможение
-`livan_x3_pro_ru_4ef8b16f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 в
 аварийной
 ситуации
@@ -42798,7 +40265,6 @@ ON,
 торможение.
 
 ### Электронная
-`livan_x3_pro_ru_f908d9d4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:149 | doc_type:owners_manual
 система
 контроля
 устойчивости
@@ -42809,7 +40275,6 @@ ON,
 устойчивости
 
 ### (ESC)
-`livan_x3_pro_ru_60482c9c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:149 | doc_type:owners_manual
 -
 это
 технология
@@ -42826,7 +40291,6 @@ ON,
 аварии.
 
 ### ESC
-`livan_x3_pro_ru_04270301` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:149 | doc_type:owners_manual
 использует
 передовые
 сенсорные
@@ -42841,7 +40305,6 @@ ON,
 выбрать.
 
 ### Когда автомобиль начинает отклоняться
-`livan_x3_pro_ru_3f83eceb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 от дороги, система применяет тормозное
 усилие к колесам или снижает крутящий
 момент
@@ -42851,7 +40314,6 @@ ON,
 автомобиль на правильный маршрут.
 
 ### Электронная
-`livan_x3_pro_ru_f908d9d4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:149 | doc_type:owners_manual
 система
 контроля
 устойчивости (ESC) является лишь
@@ -42865,7 +40327,6 @@ ON,
 Пожалуйста, водите осторожно.
 
 ### Включение
-`livan_x3_pro_ru_305fcca3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:149 | doc_type:owners_manual
 и
 отключение
 системы
@@ -42893,7 +40354,6 @@ ON,
 •
 
 ### При движении по глубокому снегу или
-`livan_x3_pro_ru_29624f51` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:149 | doc_type:owners_manual
 по рыхлым дорогам.
 •
 Когда автомобиль застрял (например,
@@ -42918,7 +40378,6 @@ ON,
 система ESC должна быть включена.
 
 ### Переустановите
-`livan_x3_pro_ru_523a4196` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:149 | doc_type:owners_manual
 включение
 ESC
 в
@@ -42932,7 +40391,6 @@ ESC
 погаснет.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_94281a73` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:149 | doc_type:owners_manual
 5
 8
 7
@@ -42947,7 +40405,6 @@ ESC
 динамической стабилизации
 
 ### (VDC)*
-`livan_x3_pro_ru_5a920989` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 Когда
 поворачиваемость
 автомобиля
@@ -42961,7 +40418,6 @@ ESC
 система
 
 ### VDC
-`livan_x3_pro_ru_acedf2e9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 будет
 активно вмешиваться. Одновременно с
 уменьшением
@@ -42988,7 +40444,6 @@ ESC
 транспортного средства.
 
 ### Гидравлический
-`livan_x3_pro_ru_52643866` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 тормозной
 ассистент (HBA)*
 При
@@ -43004,7 +40459,6 @@ ESC
 путь.
 
 ### Большинство водителей могут вовремя
-`livan_x3_pro_ru_188faf8a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 затормозить в опасных ситуациях, но они
 не
 нажимают
@@ -43035,7 +40489,6 @@ ESC
 быстром нажатии на педаль тормоза.
 
 ### При этом создается большее тормозное
-`livan_x3_pro_ru_f6e96584` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 давление, чем при обычном торможении,
 так
 что
@@ -43072,7 +40525,6 @@ ESC
 работы.
 
 ### Гидравлический
-`livan_x3_pro_ru_52643866` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 тормозной
 ассистент
 может
@@ -43083,14 +40535,12 @@ ESC
 избежать.
 
 ### Функция
-`livan_x3_pro_ru_f6be38fc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 помощи
 при
 подъеме по склону (ННС)*
 Функция помощи при подъеме по склону
 
 ### HHC позволяет водителю предотвратить
-`livan_x3_pro_ru_e3eee24a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 скатывание автомобиля вниз по склону в
 течение двух секунд после отпускания
 педали тормоза, после чего тормозное
@@ -43101,7 +40551,6 @@ ESC
 функция HHC также будет доступна.
 
 ### Функцию помощи при подъеме по
-`livan_x3_pro_ru_df025e1a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 склону можно активировать только
 при
 включенной
@@ -43114,13 +40563,11 @@ ESC
 отпущенном стояночном тормозе.
 
 ### Функция помощи при подъеме по
-`livan_x3_pro_ru_4c188cb9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 склону — это только временное
 поддержание давления, когда водитель
 отпускает педаль тормоза. Если вы не
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_2fa57687` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 148
 нажмете на педаль газа и не потянете
 стояночный тормоз, автомобиль может
@@ -43138,7 +40585,6 @@ ESC
 осторожность!
 
 ### Антипробуксовочная
-`livan_x3_pro_ru_8ecdfa81` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 система (TCS)*
 Антипробуксовочная
 система
@@ -43161,7 +40607,6 @@ ESC
 движения.
 
 ### Система
-`livan_x3_pro_ru_edd58160` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:151 | doc_type:owners_manual
 помощи
 при
 парковке
@@ -43187,7 +40632,6 @@ ESC
 1,5 метра позади автомобиля.
 
 ### Система парковочных радаров не
-`livan_x3_pro_ru_8dda1bb6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:151 | doc_type:owners_manual
 может заменить зрение водителя.
 •
 Система
@@ -43211,7 +40655,6 @@ ESC
 •
 
 ### Система парковочных радаров может
-`livan_x3_pro_ru_6fd6450a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 не
 обнаружить
 детей,
@@ -43223,7 +40666,6 @@ ESC
 •
 
 ### Система
-`livan_x3_pro_ru_edd58160` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 парковочных
 радаров
 не
@@ -43232,7 +40674,6 @@ ESC
 •
 
 ### Если вы не обращаете внимания на
-`livan_x3_pro_ru_a5293fb7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 окружение
 автомобиля
 до
@@ -43258,7 +40699,6 @@ ESC
 наличием препятствий и смотреть в
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_ee007edc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:151 | doc_type:owners_manual
 5
 8
 7
@@ -43272,7 +40712,6 @@ ESC
 двигаться задним ходом.
 
 ### Как работает система
-`livan_x3_pro_ru_36c29c7f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:152 | doc_type:owners_manual
 При
 работе
 системы
@@ -43320,7 +40759,6 @@ ESC
 тревогу при следующих условиях:
 
 ### Неспособность
-`livan_x3_pro_ru_0c925f77` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:152 | doc_type:owners_manual
 обнаруживать
 препятствия
 •
@@ -43338,7 +40776,6 @@ ESC
 •
 
 ### Датчики
-`livan_x3_pro_ru_2d1a0563` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:152 | doc_type:owners_manual
 системы
 парковочных
 радаров
@@ -43349,7 +40786,6 @@ ESC
 деревянные блоки.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_e8d6af8e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:152 | doc_type:owners_manual
 150
 •
 Датчики
@@ -43367,7 +40803,6 @@ ESC
 •
 
 ### Датчики
-`livan_x3_pro_ru_38049436` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:153 | doc_type:owners_manual
 системы
 парковочных
 радаров
@@ -43387,7 +40822,6 @@ ESC
 •
 
 ### Датчики
-`livan_x3_pro_ru_38049436` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:153 | doc_type:owners_manual
 системы
 парковочных
 радаров
@@ -43399,7 +40833,6 @@ ESC
 специфической формы.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_e98ca624` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:153 | doc_type:owners_manual
 5
 8
 7
@@ -43434,7 +40867,6 @@ ESC
 •
 
 ### Если на автомобиле или рядом с ним
-`livan_x3_pro_ru_a89d1438` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:154 | doc_type:owners_manual
 установлена
 высокочастотная
 радиостанция или антенна, система
@@ -43467,7 +40899,6 @@ ESC
 ложный сигнал тревоги.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_c6d49afa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:154 | doc_type:owners_manual
 152
 •
 При
@@ -43525,7 +40956,6 @@ ESC
 другие препятствия.
 
 ### Не распыляйте воду под высоким
-`livan_x3_pro_ru_f1d0ea2b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:155 | doc_type:owners_manual
 давлением на датчик, например, из
 водяного пистолета, а также не сжимайте
 и
@@ -43539,7 +40969,6 @@ ESC
 Система заднего вида*
 
 ### Система
-`livan_x3_pro_ru_54457788` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:155 | doc_type:owners_manual
 заднего
 вида
 помогает
@@ -43553,7 +40982,6 @@ ESC
 передач находится на задней передаче
 
 ### (R),
-`livan_x3_pro_ru_2d99d351` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:155 | doc_type:owners_manual
 изображение
 автоматически
 отображается
@@ -43573,7 +41001,6 @@ ESC
 отображавшийся интерфейс.
 
 ### Система заднего вида не может
-`livan_x3_pro_ru_d97de8a7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:155 | doc_type:owners_manual
 заменить зрение водителя.
 •
 Камера
@@ -43590,7 +41017,6 @@ ESC
 •
 
 ### Камера
-`livan_x3_pro_ru_321dca42` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:155 | doc_type:owners_manual
 заднего
 вида
 может
@@ -43605,7 +41031,6 @@ ESC
 •
 
 ### Не полагайтесь только на
-`livan_x3_pro_ru_79e817f4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:155 | doc_type:owners_manual
 систему
 заднего вида при движения задним
 ходом
@@ -43633,7 +41058,6 @@ ESC
 и
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_ed5f55bf` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:155 | doc_type:owners_manual
 5
 8
 7
@@ -43664,7 +41088,6 @@ ESC
 задним ходом.
 
 ### Камера заднего вида расположена над
-`livan_x3_pro_ru_62f78687` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:156 | doc_type:owners_manual
 задним
 номерным
 знаком.
@@ -43674,7 +41097,6 @@ ESC
 объекты по углам или под бампером.
 
 ### Изображение
-`livan_x3_pro_ru_989372ee` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:156 | doc_type:owners_manual
 на
 мультимедийном
 дисплее будет меняться в зависимости
@@ -43690,7 +41112,6 @@ ESC
 фактического.
 
 ### Вспомогательная
-`livan_x3_pro_ru_55d64ed7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 линия
 заднего вида
 Две
@@ -43706,7 +41127,6 @@ ESC
 автомобиля.
 
 ### А
-`livan_x3_pro_ru_5b396d60` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 расстояние
 между
 транспортным
@@ -43720,7 +41140,6 @@ ESC
 цвета: красной, желтой и зеленой.
 
 ### Отображение расстояния от объекта до
-`livan_x3_pro_ru_8c8a789f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:156 | doc_type:owners_manual
 нижней
 части
 бампера
@@ -43729,7 +41148,6 @@ ESC
 1. Красный цвет - 0,5 м
 
 ### 3. Зеленый цвет - 3 м
-`livan_x3_pro_ru_0a469298` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 •
 Вспомогательная
 линия
@@ -43744,7 +41162,6 @@ ESC
 зеркал заднего вида.
 
 ### Динамическая
-`livan_x3_pro_ru_1559c18d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:156 | doc_type:owners_manual
 вспомогательная
 линия
 заднего вида изменяется автоматически
@@ -43752,14 +41169,12 @@ ESC
 колеса.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_645112af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 154
 Интеллектуальная
 система вождения*
 Система управления круизконтролем (СС)
 
 ### Благодаря
-`livan_x3_pro_ru_dbb2bd4d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 системе
 управления
 круизконтролем
@@ -43801,7 +41216,6 @@ ESC
 управление.
 
 ### Кнопка
-`livan_x3_pro_ru_55f631bb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:157 | doc_type:owners_manual
 круиз-контроля
 находится
 на
@@ -43814,7 +41228,6 @@ ESC
 выключить систему круиз-контроля.
 
 ### 2. Кнопка
-`livan_x3_pro_ru_6f5458ca` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 ограничения
 скорости:
 используется
@@ -43827,7 +41240,6 @@ ESC
 скорости.
 
 ### 3. Кнопка
-`livan_x3_pro_ru_da4e8961` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 регулировки
 и
 настройки
@@ -43843,7 +41255,6 @@ ESC
 •
 
 ### RES/+
-`livan_x3_pro_ru_1ff9b542` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 (восстановление
 /
 увеличение скорости)
@@ -43854,7 +41265,6 @@ ESC
 направлении
 
 ### RES/+,
-`livan_x3_pro_ru_26ffcd29` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 чтобы
 восстановить исходную заданную
 скорость, увеличить крейсерскую
@@ -43863,7 +41273,6 @@ ESC
 •
 
 ### SET/-
-`livan_x3_pro_ru_c2577b18` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 (настройка
 /
 снижение
@@ -43875,7 +41284,6 @@ ESC
 направлении
 
 ### SET/-,
-`livan_x3_pro_ru_0037834e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 чтобы
 установить
 текущую
@@ -43908,7 +41316,6 @@ ESC
 круизконтроля, выключите ее.
 
 ### Установленная
-`livan_x3_pro_ru_52ac6d17` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 скорость
 автомобиля
 1. Нажмите
@@ -43917,7 +41324,6 @@ ESC
 чтобы активировать круиз-контроль.
 
 ### 2. Когда скорость автомобиля достигнет
-`livan_x3_pro_ru_18da008a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 30
 км/ч
 или
@@ -43942,13 +41348,11 @@ ESC
 скорости.
 
 ### Установленная
-`livan_x3_pro_ru_49f57a1b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 скорость
 автомобиля ненадолго появится на
 приборной панели.
 
 ### Восстановить
-`livan_x3_pro_ru_e1b4db77` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:158 | doc_type:owners_manual
 установленную
 скорость автомобиля
 Если вы установили круиз-контроль на
@@ -43976,7 +41380,6 @@ ESC
 нажмите клавишу в направлении RES/+.
 
 ### Система
-`livan_x3_pro_ru_728d388f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 проконтролирует,
 чтобы
 поддерживалась
@@ -43984,7 +41387,6 @@ ESC
 установленная скорость.
 
 ### Увеличение
-`livan_x3_pro_ru_933547a4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 скорости
 при
 использовании круиз-контроля
@@ -43992,7 +41394,6 @@ ESC
 •
 
 ### Нажатие педали газа может увеличить
-`livan_x3_pro_ru_b3a73461` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 скорость.
 •
 Если
@@ -44008,12 +41409,10 @@ ESC
 направлении
 
 ### Скорость
-`livan_x3_pro_ru_a68dc2c7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 автомобиля будет увеличиваться на 1
 км/ч с каждым движением.
 
 ### Уменьшение
-`livan_x3_pro_ru_3ec1610c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 скорости
 при
 использовании круиз-контроля
@@ -44025,7 +41424,6 @@ ESC
 переместите клавишу в направлении
 
 ### SET/-
-`livan_x3_pro_ru_16250c33` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 и
 удерживайте
 его,
@@ -44042,7 +41440,6 @@ ESC
 .
 
 ### Скорость
-`livan_x3_pro_ru_a68dc2c7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 автомобиля
 будет
 уменьшаться
@@ -44058,7 +41455,6 @@ ESC
 круиз-контроля
 
 ### Используйте
-`livan_x3_pro_ru_5d85abb1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 педаль
 газа,
 чтобы
@@ -44072,7 +41468,6 @@ ESC
 на дороге с уклоном
 
 ### Работа
-`livan_x3_pro_ru_3b29614e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:158 | doc_type:owners_manual
 системы
 круиз-контроля
 на
@@ -44107,7 +41502,6 @@ ESC
 круиз-контроль:
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_fbc85e4c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:158 | doc_type:owners_manual
 156
 •
 Слегка нажмите на педаль сцепления
@@ -44117,7 +41511,6 @@ ESC
 •
 
 ### LIM.
-`livan_x3_pro_ru_3c94cedc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 •
 Нажмите
 кнопку
@@ -44130,7 +41523,6 @@ ESC
 поддерживаться.
 
 ### Очистить память скорости
-`livan_x3_pro_ru_fdaa5f54` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 Когда вы выключаете круиз-контроль или
 замок
 зажигания,
@@ -44142,7 +41534,6 @@ ESC
 памяти.
 
 ### Запуск двигателя и вождение
-`livan_x3_pro_ru_d487518c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 6
 8
 7
@@ -44158,7 +41549,6 @@ ESC
 опасности
 
 ### Аварийная
-`livan_x3_pro_ru_73439e3b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:160 | doc_type:owners_manual
 световая
 сигнализация
 Когда
@@ -44183,7 +41573,6 @@ ESC
 предупредить других.
 
 ### Знак аварийной остановки находится в
-`livan_x3_pro_ru_e41480c2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:160 | doc_type:owners_manual
 багажнике и его можно увидеть, открыв
 заднюю дверь.
 На
@@ -44208,7 +41597,6 @@ ESC
 должна быть увеличена до 200 метров.
 
 ### Светоотражающий
-`livan_x3_pro_ru_e40f0f0c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:160 | doc_type:owners_manual
 жилет
 хранится
 в
@@ -44216,7 +41604,6 @@ ESC
 открытии.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_8d5d14a7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:160 | doc_type:owners_manual
 158
 Чтобы
 обеспечить
@@ -44235,7 +41622,6 @@ ESC
 выйти из автомобиля.
 
 ### Запуск
-`livan_x3_pro_ru_e4683df1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:161 | doc_type:owners_manual
 от
 внешнего
 источника питания
@@ -44247,7 +41633,6 @@ ESC
 кабеля-прикуривателя.
 
 ### Обязательно
-`livan_x3_pro_ru_d97cd443` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 следуйте
 приведенным
 ниже
@@ -44257,7 +41642,6 @@ ESC
 безопасность.
 
 ### Неправильное
-`livan_x3_pro_ru_88065f71` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:161 | doc_type:owners_manual
 использование
 аккумулятора
 может
@@ -44266,7 +41650,6 @@ ESC
 травмам.
 
 ### Аккумулятор
-`livan_x3_pro_ru_fc0b023c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:161 | doc_type:owners_manual
 опасен,
 потому
 что:
@@ -44283,7 +41666,6 @@ ESC
 •
 
 ### Электрический заряд может нанести
-`livan_x3_pro_ru_41c89826` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 ожог.
 Если вы не будете строго следовать
 приведенным
@@ -44296,7 +41678,6 @@ ESC
 травмы.
 
 ### Игнорирование этих шагов может
-`livan_x3_pro_ru_134655ae` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 привести
 к
 серьезному
@@ -44307,18 +41688,15 @@ ESC
 гарантией.
 
 ### Автомобиль нельзя завести толканием и
-`livan_x3_pro_ru_8c85dfdc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 буксировкой от другого автомобиля, от
 этого он может быть поврежден.
 
 ### 1. Выключите кнопку запуска, все фары
-`livan_x3_pro_ru_f181a1f5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:161 | doc_type:owners_manual
 и электрооборудование автомобиля,
 кроме ламп аварийной сигнализации
 (при необходимости).
 
 ### Охлаждающие
-`livan_x3_pro_ru_51389647` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 вентиляторы
 и
 другие
@@ -44327,7 +41705,6 @@ ESC
 двигателя могут стать причиной травм.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_a3e30fc6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 6
 8
 7
@@ -44349,7 +41726,6 @@ ESC
 руками, одеждой и инструментами.
 
 ### Использование
-`livan_x3_pro_ru_446b9391` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:162 | doc_type:owners_manual
 открытого
 огня
 рядом
@@ -44361,13 +41737,11 @@ ESC
 Аккумуляторная кислота может гореть.
 
 ### Не допускайте попадания кислоты на
-`livan_x3_pro_ru_fc490af4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 ваше тело. Если кислота попала в глаза
 или на кожу, немедленно промойте их
 водой и обратитесь к врачу.
 
 ### 2. Подсоедините один конец красного
-`livan_x3_pro_ru_8dd167aa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 положительного
 (+)
 кабеля
@@ -44377,14 +41751,12 @@ ESC
 клемме
 
 ### (A)
-`livan_x3_pro_ru_d75e9452` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 автомобиля,
 который
 нужно
 запустить от внешнего источника.
 
 ### 3. Не допускайте контакта другого конца
-`livan_x3_pro_ru_f07ee28a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 красного положительного (+) кабеля с
 металлом.
 Подсоедините
@@ -44395,7 +41767,6 @@ ESC
 клемме
 
 ### (B)
-`livan_x3_pro_ru_8af27f0e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:162 | doc_type:owners_manual
 работающего аккумулятора.
 4. Подсоедините
 один
@@ -44410,7 +41781,6 @@ ESC
 клемме
 
 ### (C)
-`livan_x3_pro_ru_d81dffa2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:162 | doc_type:owners_manual
 аккумулятора.
 Не
 позволяйте
@@ -44437,7 +41807,6 @@ ESC
 разряженным аккумулятором.
 
 ### 5. Подсоедините другой конец черного
-`livan_x3_pro_ru_57d81d80` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:162 | doc_type:owners_manual
 отрицательного
 (-)
 кабеля
@@ -44450,13 +41819,11 @@ ESC
 двигателя и аккумуляторной батареи.
 
 ### 6. Запустите двигатель автомобиля с
-`livan_x3_pro_ru_4451b9b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:162 | doc_type:owners_manual
 заряженным аккумулятором и дайте
 ему поработать на холостом ходу не
 менее четырех минут.
 
 ### 7. Попытайтесь завести автомобиль с
-`livan_x3_pro_ru_fe937b23` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:162 | doc_type:owners_manual
 разряженным
 аккумулятором.
 Если
@@ -44478,7 +41845,6 @@ ESC
 входят в сферу гарантийного ремонта.
 
 ### Поэтому необходимо подсоединять или
-`livan_x3_pro_ru_71febff3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 снимать
 соединительные
 кабели
@@ -44488,7 +41854,6 @@ ESC
 других металлических элементов.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_dfbd0843` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 160
 Чтобы
 отсоединить
@@ -44496,7 +41861,6 @@ ESC
 кабель на обоих автомобилях:
 
 ### 1. Отсоедините черный отрицательный
-`livan_x3_pro_ru_5c465e15` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:163 | doc_type:owners_manual
 (-)
 кабель
 на
@@ -44505,7 +41869,6 @@ ESC
 разряженным аккумулятором.
 
 ### 2. Отсоедините черный отрицательный
-`livan_x3_pro_ru_2f913685` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:163 | doc_type:owners_manual
 (-)
 кабель
 на
@@ -44514,7 +41877,6 @@ ESC
 заряженным аккумулятором.
 
 ### 3. Отсоедините
-`livan_x3_pro_ru_b55da374` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:163 | doc_type:owners_manual
 красный
 положительный
 (+)
@@ -44526,7 +41888,6 @@ ESC
 аккумулятором.
 
 ### 4. Отсоедините
-`livan_x3_pro_ru_0effb1fc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:163 | doc_type:owners_manual
 красный
 положительный
 (+)
@@ -44538,7 +41899,6 @@ ESC
 аккумулятором.
 
 ### Все средства для буксировки должны
-`livan_x3_pro_ru_bf07f040` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 использовать
 систему
 предохранительных
@@ -44555,7 +41915,6 @@ ESC
 буксировочную тележку.
 
 ### 1. При
-`livan_x3_pro_ru_d5665832` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 использовании
 гибкого
 соединительного тягового устройства
@@ -44573,7 +41932,6 @@ ESC
 м.
 
 ### Буксируемое
-`livan_x3_pro_ru_841fe482` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:163 | doc_type:owners_manual
 транспортное
 средство
 с
@@ -44591,7 +41949,6 @@ ESC
 трубы).
 
 ### 2. И
-`livan_x3_pro_ru_e2394e1c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:163 | doc_type:owners_manual
 буксирующее,
 и
 буксируемое
@@ -44604,7 +41961,6 @@ ESC
 сигнализацию.
 
 ### 3. Если
-`livan_x3_pro_ru_92a8bb73` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 вы
 хотите
 буксировать
@@ -44618,7 +41974,6 @@ ESC
 •
 
 ### Установите рычаг переключения
-`livan_x3_pro_ru_de367ef6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 передач в нейтральное положение
 (N).
 •
@@ -44627,7 +41982,6 @@ ESC
 •
 
 ### Расстояние буксировки не должно
-`livan_x3_pro_ru_e84fbd5b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 превышать 50 км.
 Неисправности во время вождения
 6
@@ -44641,7 +41995,6 @@ ESC
 161
 
 ### При использовании специального
-`livan_x3_pro_ru_18c393c8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:164 | doc_type:owners_manual
 тягача разрешается поднимать для
 буксировки
 только
@@ -44660,7 +42013,6 @@ ESC
 передач будет серьезно повреждена.
 
 ### Запрещается буксировать данное
-`livan_x3_pro_ru_d588d167` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 транспортное
 средство
 при
@@ -44675,7 +42027,6 @@ ESC
 •
 
 ### В
-`livan_x3_pro_ru_45360a8d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 коробке
 передач
 данного
@@ -44686,7 +42037,6 @@ ESC
 •
 
 ### Дальность
-`livan_x3_pro_ru_800e7f2e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 буксировки
 автомобилей,
 оснащенных автоматической коробкой
@@ -44697,7 +42047,6 @@ ESC
 километров.
 
 ### Буксировочное кольцо находится в сумке
-`livan_x3_pro_ru_fae99dc0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:164 | doc_type:owners_manual
 для
 инструментов
 под
@@ -44712,7 +42061,6 @@ ESC
 вышедшего из строя автомобиля.
 
 ### Всегда
-`livan_x3_pro_ru_e6ce848a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 следуйте
 инструкциям
 этого
@@ -44736,7 +42084,6 @@ ESC
 •
 
 ### Рекомендуется
-`livan_x3_pro_ru_4ead9b0a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 установить
 на
 буксировочном кольце и использовать
@@ -44746,7 +42093,6 @@ ESC
 •
 
 ### Не используйте буксировочное кольцо
-`livan_x3_pro_ru_56db7fc4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 для
 буксировки
 автомобиля
@@ -44756,7 +42102,6 @@ ESC
 •
 
 ### Не используйте буксировочное кольцо
-`livan_x3_pro_ru_56db7fc4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 для
 извлечения
 застрявшего
@@ -44780,7 +42125,6 @@ ESC
 кольцом.
 
 ### Тяговая
-`livan_x3_pro_ru_e67f5c07` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 цепь/
 натяжной
 канат
@@ -44793,7 +42137,6 @@ ESC
 травме или смерти.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_5c9bbe7b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 162
 •
 Несоблюдение
@@ -44808,7 +42151,6 @@ ESC
 может привести к травмам или смерти.
 
 ### Буксировочное
-`livan_x3_pro_ru_a4bb163e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 кольцо
 используется только для спасения
 на дороге и не должно использоваться
@@ -44860,7 +42202,6 @@ ESC
 линии.
 
 ### Несоблюдение
-`livan_x3_pro_ru_1bc76aa4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 вышеуказанных
 инструкций
 может
@@ -44869,7 +42210,6 @@ ESC
 повреждению автомобиля.
 
 ### Установка
-`livan_x3_pro_ru_4f6c83f4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:165 | doc_type:owners_manual
 переднего
 буксировочного кольца
 Крепежные
@@ -44879,7 +42219,6 @@ ESC
 переднем бампере с правой стороны.
 
 ### При установке переднего буксировочного
-`livan_x3_pro_ru_256031bb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 кольца рукой поднимите буксировочную
 крышку
 вверх,
@@ -44894,7 +42233,6 @@ ESC
 полностью затянуто.
 
 ### Двигайтесь
-`livan_x3_pro_ru_016e7f4d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 медленно,
 иначе
 чрезмерное
@@ -44903,7 +42241,6 @@ ESC
 повредит автомобиль.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_b2101839` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 6
 8
 7
@@ -44931,7 +42268,6 @@ ESC
 для получения подробной информации.
 
 ### Другую информацию можно запросить у
-`livan_x3_pro_ru_240e9a13` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 производителя шин.
 Использовать
 плохо
@@ -44941,7 +42277,6 @@ ESC
 эксплуатируемые шины опасно.
 
 ### Перекачанные
-`livan_x3_pro_ru_342d15d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 или
 недостаточно
 накачанные
@@ -44957,7 +42292,6 @@ ESC
 или смерти.
 
 ### Все шины следует регулярно проверять и
-`livan_x3_pro_ru_5dce4733` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 поддерживать рекомендуемое давление.
 Давление в шинах следует проверять в
 холодном
@@ -44971,7 +42305,6 @@ ESC
 состояние)" в "Технических данных".
 
 ### Перекачанные
-`livan_x3_pro_ru_342d15d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 шины
 с
 большей
@@ -44983,7 +42316,6 @@ ESC
 рекомендуемое давление в шине.
 
 ### Изношенные шины могут стать причиной
-`livan_x3_pro_ru_2e284ac5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 аварии. Если протектор шины сильно
 изношен
 или
@@ -44993,7 +42325,6 @@ ESC
 подлежит незамедлительной замене.
 
 ### В
-`livan_x3_pro_ru_f88c9814` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 шине
 должно
 быть
@@ -45001,14 +42332,12 @@ ESC
 давление для эффективной работы.
 
 ### Недостаточное
-`livan_x3_pro_ru_9350d82a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 или
 чрезмерное
 давление в шинах может сказаться
 на шинах и управлении автомобилем.
 
 ### При недостаточном давлении в шине
-`livan_x3_pro_ru_b1ac09e5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 могут возникнуть следующие ситуации:
 •
 Чрезмерный изгиб;
@@ -45019,7 +42348,6 @@ ESC
 •
 
 ### Преждевременный
-`livan_x3_pro_ru_6d4b4b30` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 или
 неравномерный износ;
 •
@@ -45028,7 +42356,6 @@ ESC
 Повышение расхода топлива.
 
 ### При избыточном давлении в шине могут
-`livan_x3_pro_ru_0ea9039f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 возникнуть следующие ситуации:
 •
 Аномальный износ;
@@ -45052,14 +42379,12 @@ ESC
 центральной стойкой снаружи. На ней
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_8ed64b40` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 164
 указано давление в передних и задних
 шинах автомобиля, а также давление в
 запасном колесе.
 
 ### Система контроля давления в
-`livan_x3_pro_ru_b0ec6c93` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 шинах
 Система
 непрямого
@@ -45099,7 +42424,6 @@ ESC
 шинах.
 
 ### Когда давление в одной или нескольких
-`livan_x3_pro_ru_127016f8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:167 | doc_type:owners_manual
 шинах автомобиля слишком низкое или
 система
 контроля
@@ -45118,7 +42442,6 @@ ESC
 шинах
 
 ### (TPMS),
-`livan_x3_pro_ru_8c9c3819` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 или
 появляются текстовые подсказки.
 •
@@ -45141,7 +42464,6 @@ ESC
 значение давления в шинах.
 
 ### Калибровка
-`livan_x3_pro_ru_4f71411d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 системы
 должна
 выполняться в следующих ситуациях:
@@ -45152,19 +42474,16 @@ ESC
 или нескольких шинах;
 
 ### 3. После
-`livan_x3_pro_ru_6aed701d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 динамической
 балансировки
 колес;
 4. После обслуживания ходовой части;
 
 ### 6. После предыдущей калибровки, если
-`livan_x3_pro_ru_1572ee77` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 изменение температуры окружающей
 среды превысило 40℃;
 
 ### 7. Через полгода или после 10 000 км
-`livan_x3_pro_ru_92252480` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 пробега.
 Калибровка удалит текущее аварийное
 значение, запустит новую фазу обучения
@@ -45172,7 +42491,6 @@ ESC
 проходит следующим образом:
 
 ### 1. Отрегулируйте давление в шинах до
-`livan_x3_pro_ru_a52b2c14` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 рекомендуемых
 параметров
 из
@@ -45184,7 +42502,6 @@ ESC
 данных".
 
 ### 2. Переведите
-`livan_x3_pro_ru_fd4d9fd5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:167 | doc_type:owners_manual
 кнопку
 включения
 в
@@ -45195,7 +42512,6 @@ ON
 двигатель.
 
 ### 3. На экране мультимедийного дисплея
-`livan_x3_pro_ru_9896817e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:167 | doc_type:owners_manual
 последовательно пройдите по пути
 "Настройки"
 —
@@ -45215,7 +42531,6 @@ ON
 контроля давления в шинах".
 
 ### Во время начала калибровки
-`livan_x3_pro_ru_2500b400` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 автомобиль должен находиться
 в состоянии покоя.
 4. Система
@@ -45228,7 +42543,6 @@ ON
 подтверждения. Убедитесь, что все
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_72852f03` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 6
 8
 7
@@ -45242,7 +42556,6 @@ ON
 нажмите OK.
 
 ### 5. Если
-`livan_x3_pro_ru_849bf7de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:168 | doc_type:owners_manual
 калибровка
 не
 запускается,
@@ -45254,7 +42567,6 @@ ON
 шинах (TPMS) на приборной панели.
 
 ### Выполните
-`livan_x3_pro_ru_4345fae5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 эту
 процедуру
 для
@@ -45268,7 +42580,6 @@ ON
 низком давлении в шинах.
 
 ### Система будет продолжать сообщать об
-`livan_x3_pro_ru_357eb8dd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 отказе
 контроля
 давления
@@ -45282,7 +42593,6 @@ ON
 противоскольжения.
 
 ### Сообщение
-`livan_x3_pro_ru_84667dcc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 исчезнет
 после
 короткого
@@ -45292,7 +42602,6 @@ ON
 противоскольжения.
 
 ### И
-`livan_x3_pro_ru_c4e54abe` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 тогда вы не будете получать аварийный
 сигнал
 о
@@ -45333,7 +42642,6 @@ ON
 сигнализации.
 
 ### Когда нужно проверять шины
-`livan_x3_pro_ru_c23decfc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 Проверяйте шины, включая запасную, не
 реже одного раза в месяц. Давление в
 запасной шине см. в главе "Давление в
@@ -45344,7 +42652,6 @@ ON
 "Технических данных".
 
 ### Проверьте давление в шинах с помощью
-`livan_x3_pro_ru_6dbbdba4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 карманного
 шинного
 манометра
@@ -45367,7 +42674,6 @@ ON
 состоянии.
 
 ### Холодные
-`livan_x3_pro_ru_ccf7ebca` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 шины
 —
 ваш
@@ -45385,7 +42691,6 @@ ON
 шины.
 
 ### Плотно
-`livan_x3_pro_ru_bccba1aa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 прижмите
 манометр
 к
@@ -45418,14 +42723,12 @@ ON
 манометра.
 
 ### Обязательно
-`livan_x3_pro_ru_f8bf3b9c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 установите
 колпачок
 клапана обратно на ниппель. Колпачки
 клапана защищают от грязи и влаги.
 
 ### На необходимость замены шин влияют
-`livan_x3_pro_ru_fba13e67` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 различные
 факторы,
 такие
@@ -45438,7 +42741,6 @@ ON
 автомобиль и дорожные условия.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_7cda9383` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 166
 Один из способов узнать, когда следует
 выполнить
@@ -45457,7 +42759,6 @@ ON
 изношен до 1,6 мм или меньше.
 
 ### Новые шины требуются в следующих
-`livan_x3_pro_ru_532cf3ee` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 ситуациях:
 •
 На шине есть как минимум 1 место с
@@ -45465,7 +42766,6 @@ ON
 •
 
 ### Сквозь резину шины можно увидеть
-`livan_x3_pro_ru_0b3d0ead` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 корд или протекторную ткань.
 •
 Протектор или боковая стенка имеют
@@ -45487,7 +42787,6 @@ ON
 ремонту.
 
 ### Качество резины в шинах со временем
-`livan_x3_pro_ru_82bc5312` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 ухудшается, даже если эти шины никогда
 не использовались. То же самое верно и
 для запасных шин. На скорость старения
@@ -45526,7 +42825,6 @@ ON
 информацией к производителю.
 
 ### Утилизируйте
-`livan_x3_pro_ru_1b933996` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 использованные
 шины
 в
@@ -45539,7 +42837,6 @@ ON
 окружающей среды.
 
 ### Покупка новых шин
-`livan_x3_pro_ru_e18daeaf` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 При покупке новых шин убедитесь, что
 они
 подходят
@@ -45554,14 +42851,12 @@ ON
 производителя.
 
 ### Рекомендуется
-`livan_x3_pro_ru_10dd9b4d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 производить замену сразу четырех шин.
 См. главу "Перестановка шин" в этой
 главе для получения соответствующей
 информации.
 
 ### Установка
-`livan_x3_pro_ru_40ed61a3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 шин
 из
 разных
@@ -45580,7 +42875,6 @@ ON
 управляемости.
 
 ### Использование
-`livan_x3_pro_ru_e2596b44` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 шин
 разных размеров и типов также может
 привести к повреждению автомобиля. На
@@ -45596,7 +42890,6 @@ ON
 пробега.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_8c9fcc6d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 6
 8
 7
@@ -45619,7 +42912,6 @@ ON
 использовать только радиальные шины.
 
 ### Использование колес или шин другого
-`livan_x3_pro_ru_9fcf8d25` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:170 | doc_type:owners_manual
 размера,
 отличные
 от
@@ -45679,7 +42971,6 @@ ON
 травм.
 
 ### Если переднее колесо выходит из
-`livan_x3_pro_ru_c207b074` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 строя и необходимо использовать
 запасное
 колесо,
@@ -45691,7 +42982,6 @@ ON
 колеса.
 
 ### В
-`livan_x3_pro_ru_2df61b76` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 целях
 обеспечения
 безопасности
@@ -45705,7 +42995,6 @@ ON
 место заднего.
 
 ### Перестановка шин
-`livan_x3_pro_ru_d3d26eb5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 Мы
 рекомендуем
 вам
@@ -45724,7 +43013,6 @@ ON
 повреждений.
 
 ### Подробнее
-`livan_x3_pro_ru_75c9d785` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 см.
 в
 главе
@@ -45766,7 +43054,6 @@ ON
 После
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_150a38ca` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 168
 перестановки
 шин
@@ -45776,7 +43063,6 @@ ON
 "Давление в шинах" в этом разделе.
 
 ### Ржавчина или грязь на колесах или
-`livan_x3_pro_ru_0e9d8d9f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 креплениях
 колес
 могут
@@ -45798,7 +43084,6 @@ ON
 проволочной щетки.
 
 ### Регулировка
-`livan_x3_pro_ru_ff5de67e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 и
 балансировка
 колес
@@ -45844,7 +43129,6 @@ ON
 для проведения проверки.
 
 ### Заменять
-`livan_x3_pro_ru_57c3f915` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 следует
 погнутые
 колеса,
@@ -45863,7 +43147,6 @@ ON
 заменить.
 
 ### В
-`livan_x3_pro_ru_257640ac` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 случае
 любой
 из
@@ -45877,7 +43160,6 @@ ON
 обслуживания
 
 ### LIVAN.
-`livan_x3_pro_ru_815f54a2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 Новое
 колесо
 должно
@@ -45902,7 +43184,6 @@ ON
 автомобилю.
 
 ### Использование
-`livan_x3_pro_ru_c080797b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 неподходящих
 сменных
 колес,
@@ -45924,7 +43205,6 @@ ON
 автомобилем.
 
 ### Несчастные
-`livan_x3_pro_ru_9fc8f18e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 случаи
 могут привести
 к
@@ -45938,7 +43218,6 @@ ON
 колесную гайку.
 
 ### Использование некорректных типов
-`livan_x3_pro_ru_249e6d25` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:171 | doc_type:owners_manual
 колес
 также
 может
@@ -45957,7 +43236,6 @@ ON
 бампера,
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_c4e392ff` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:171 | doc_type:owners_manual
 6
 8
 7
@@ -45978,7 +43256,6 @@ ON
 противоскольжения и кузовом и шасси.
 
 ### Ставить старые колеса на автомобиль
-`livan_x3_pro_ru_24217cb2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 опасно.
 Потому
 что
@@ -46006,7 +43283,6 @@ ON
 колеса от оригинального производителя.
 
 ### Зимние шины
-`livan_x3_pro_ru_5a711276` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 Если
 планируется
 частая
@@ -46018,7 +43294,6 @@ ON
 лучше всего оснастить зимними шинами.
 
 ### Всесезонные шины могут не обеспечить
-`livan_x3_pro_ru_7769f558` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 желаемого
 сцепления
 или
@@ -46028,7 +43303,6 @@ ON
 заснеженных дорогах.
 
 ### Зимние
-`livan_x3_pro_ru_0381123c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 шины
 используются
 для
@@ -46053,7 +43327,6 @@ ON
 и торможении.
 
 ### Для получения подробной информации о
-`livan_x3_pro_ru_88e8c877` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 наличии
 зимних
 шин
@@ -46065,7 +43338,6 @@ ON
 •
 
 ### Используйте
-`livan_x3_pro_ru_a4b15133` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 шины
 от
 одного
@@ -46074,7 +43346,6 @@ ON
 •
 
 ### Используйте только радиальные шины
-`livan_x3_pro_ru_61210e39` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 того же размера, диапазона нагрузки и
 скорости,
 что
@@ -46094,7 +43365,6 @@ ON
 скорость шины.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_9601026f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 170
 Цепь противоскольжения
 Цепи противоскольжения не входят
@@ -46105,7 +43375,6 @@ ON
 автомобиля.
 
 ### Следующая
-`livan_x3_pro_ru_e516ef0b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 информация
 предоставляется для справки.
 Пожалуйста, определите, нужно ли вам
@@ -46125,7 +43394,6 @@ ON
 водите осторожно и на малых скоростях.
 
 ### В противном случае автомобиль может
-`livan_x3_pro_ru_ef08f825` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 быть
 поврежден
 или
@@ -46134,7 +43402,6 @@ ON
 качества могут ухудшиться.
 
 ### При установке цепей противоскольжения
-`livan_x3_pro_ru_f8dbc774` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 необходимо
 выбирать
 цепи,
@@ -46154,7 +43421,6 @@ ON
 дорогах.
 
 ### Если шина лопнет во время движения
-`livan_x3_pro_ru_07610aca` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 автомобиля,
 произойдут
 следующие
@@ -46169,7 +43435,6 @@ ON
 ситуаций):
 
 ### 1. Если лопнет передняя шина, тянущий
-`livan_x3_pro_ru_44455b97` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 эффект спущенной шины приведет к
 тому,
 что
@@ -46179,7 +43444,6 @@ ON
 шины.
 
 ### Отпустите
-`livan_x3_pro_ru_a3e96cdf` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:173 | doc_type:owners_manual
 педаль
 акселератора и крепко держите руль.
 Направьте
@@ -46194,7 +43458,6 @@ ON
 безопасную сторону дороги.
 
 ### 2. Если заднее колесо лопнет, отпустите
-`livan_x3_pro_ru_e39cd008` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 педаль акселератора. Когда задняя
 шина
 лопается
@@ -46203,7 +43466,6 @@ ON
 возникает эффект, как при заносе.
 
 ### Поэтому следует принимать те же
-`livan_x3_pro_ru_3b3fa23d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:173 | doc_type:owners_manual
 меры, что и при заносе. Поверните
 рулевое
 колесо
@@ -46246,7 +43508,6 @@ ON
 следующие действия:
 
 ### 1. Медленно выведите автомобиль на
-`livan_x3_pro_ru_3bf77286` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 безопасную
 ровную
 поверхность,
@@ -46266,7 +43527,6 @@ ON
 повреждения шин и колес.
 
 ### 2. Включите
-`livan_x3_pro_ru_b5e51838` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 аварийные
 сигнальные
 лампы.
@@ -46274,7 +43534,6 @@ ON
 Замена шин может быть опасной.
 
 ### Автомобиль может соскользнуть с
-`livan_x3_pro_ru_439e0c4b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 домкрата и опрокинуться на человека,
 что приведет к телесным повреждениям
 или смерти. Замените шины на ровной
@@ -46288,7 +43547,6 @@ ON
 •
 
 ### Установите селектор коробки передач
-`livan_x3_pro_ru_eec416be` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:174 | doc_type:owners_manual
 в
 положение
 парковки
@@ -46316,7 +43574,6 @@ ON
 оставшихся колес.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_b80c6de3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:174 | doc_type:owners_manual
 172
 Установка запасного колеса
 Припаркуйте автомобиль на ровной
@@ -46354,7 +43611,6 @@ ON
 дорожно-транспортного происшествия.
 
 ### Выньте
-`livan_x3_pro_ru_3c4981a9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 запасное
 колесо
 и
@@ -46362,7 +43618,6 @@ ON
 Домкрат и инструменты водителя
 
 ### Домкрат
-`livan_x3_pro_ru_f894efd9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:175 | doc_type:owners_manual
 и
 инструменты
 водителя
@@ -46377,7 +43632,6 @@ ON
 автомобилем.
 
 ### Запрещается
-`livan_x3_pro_ru_58b04330` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 использовать
 другие
 неподходящие домкраты, в противном
@@ -46386,7 +43640,6 @@ ON
 приведет к травмам или смерти.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_61d1009f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 6
 8
 7
@@ -46410,7 +43663,6 @@ ON
 стрелки.
 
 ### Затем поместите запасное колесо рядом
-`livan_x3_pro_ru_bc9ef839` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 с подлежащим замене.
 Запасное
 колесо
@@ -46425,7 +43677,6 @@ ON
 обслуживания LIVAN как можно скорее.
 
 ### Снимите спущенное колесо и
-`livan_x3_pro_ru_56ec7510` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 установите запасное
 1. Перед
 эксплуатацией
@@ -46433,7 +43684,6 @@ ON
 проверку безопасности.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_b47f968c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 174
 2. Выньте пластиковые плоскогубцы из
 бардачка,
@@ -46449,7 +43699,6 @@ ON
 рисунке, и потяните колпачок на себя.
 
 ### 3. Выньте баллонный ключ из ящика для
-`livan_x3_pro_ru_50957b8a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 инструментов водителя, наденьте его
 на колесную гайку, затем поверните
 против часовой стрелки и ослабьте
@@ -46458,7 +43707,6 @@ ON
 колесные гайки.
 
 ### 4. Соберите домкрат, как показано на
-`livan_x3_pro_ru_c0b73d01` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 рисунке.
 5. Установите домкрат и отрегулируйте
 до подходящей высоты, прежде чем
@@ -46466,7 +43714,6 @@ ON
 показано на рисунке.
 
 ### Неправильное
-`livan_x3_pro_ru_b751f2ac` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 положение
 опоры
 домкрата при подъеме автомобиля
@@ -46500,7 +43747,6 @@ ON
 смерти.
 
 ### Запрещается
-`livan_x3_pro_ru_128e953c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 находиться
 под
 автомобилем,
@@ -46508,7 +43754,6 @@ ON
 только домкратом.
 
 ### Опасно поднимать автомобиль и
-`livan_x3_pro_ru_c25ae5a0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 садиться в него для технического
 обслуживания или ремонта без навыков
 и
@@ -46529,7 +43774,6 @@ ON
 автомобиль
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_3655d3d8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 6
 8
 7
@@ -46552,14 +43796,12 @@ ON
 домкрата.
 
 ### 6. Поверните ручку домкрата по часовой
-`livan_x3_pro_ru_28f23e2d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 стрелке, чтобы поднять автомобиль
 на достаточную высоту над землей,
 чтобы запасное колесо можно было
 установить под автомобилем.
 
 ### 9. Удалите
-`livan_x3_pro_ru_90b6227c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 ржавчину
 или
 грязь
@@ -46570,7 +43812,6 @@ ON
 поверхностей и запасного колеса.
 
 ### 11. Замените
-`livan_x3_pro_ru_8bef0e5e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 колесные
 гайки.
 С
@@ -46585,7 +43826,6 @@ ON
 не окажется на ступице колеса.
 
 ### 12. Поверните
-`livan_x3_pro_ru_f0651856` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 ручку
 домкрата
 против
@@ -46596,7 +43836,6 @@ ON
 автомобиль.
 
 ### Полностью
-`livan_x3_pro_ru_75316adb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 опустите
 домкрат.
 Не наносите масло или смазку на
@@ -46606,7 +43845,6 @@ ON
 ослабнут.
 
 ### Колеса
-`livan_x3_pro_ru_bfebf4ca` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 автомобиля
 могут
 вылететь,
@@ -46617,7 +43855,6 @@ ON
 происшествию.
 
 ### 13. Затягивайте
-`livan_x3_pro_ru_dde9b153` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 колесные
 гайки
 в
@@ -46634,7 +43871,6 @@ ON
 в центр технического обслуживания
 
 ### LIVAN,
-`livan_x3_pro_ru_cbacd023` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 чтобы
 проверить
 ее
@@ -46644,7 +43880,6 @@ ON
 ключа.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_79d83625` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 176
 Уложите
 запасное
@@ -46656,7 +43891,6 @@ ON
 хранение
 
 ### Поместите
-`livan_x3_pro_ru_ab4d3214` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:179 | doc_type:owners_manual
 запасное
 колесо
 лицевой
@@ -46672,7 +43906,6 @@ ON
 пассажира.
 
 ### Расположение
-`livan_x3_pro_ru_0a0acb47` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:179 | doc_type:owners_manual
 и
 идентификация
 предохранителя
@@ -46691,7 +43924,6 @@ ON
 автомобиля.
 
 ### Перегоревший
-`livan_x3_pro_ru_22a2f0a8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 предохранитель
 указывает на то, что цепь, которую он
 защищает, вышла из строя и перестала
@@ -46708,7 +43940,6 @@ ON
 B - Предохранитель перегорел
 
 ### Предохранитель
-`livan_x3_pro_ru_d4f991e8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:179 | doc_type:owners_manual
 находится
 в
 блоке
@@ -46725,7 +43956,6 @@ B - Предохранитель перегорел
 панели.
 
 ### Предохранители
-`livan_x3_pro_ru_466d5138` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 бывают двух видов:
 1. Пластинчатый
 предохранитель
@@ -46735,7 +43965,6 @@ B - Предохранитель перегорел
 разрешенный
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_fd37dd16` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:179 | doc_type:owners_manual
 6
 8
 7
@@ -46751,7 +43980,6 @@ B - Предохранитель перегорел
 составляет 5-25А.
 
 ### 2. Медленный плавкий предохранитель
-`livan_x3_pro_ru_c831dbc7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:180 | doc_type:owners_manual
 -
 квадратный,
 вставной,
@@ -46761,7 +43989,6 @@ B - Предохранитель перегорел
 электроцепи составляет 20-60А.
 
 ### Цвет указывает на величину амперов
-`livan_x3_pro_ru_6e48c48e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 предохранителя, которая также отмечена
 на предохранителе.
 Не
@@ -46792,7 +44019,6 @@ B - Предохранитель перегорел
 моторном отсеке
 
 ### 2. Чтобы
-`livan_x3_pro_ru_92e67182` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 осмотреть
 предохранитель,
 ослабьте
@@ -46822,7 +44048,6 @@ B - Предохранитель перегорел
 части.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_5e2fb345` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 178
 Номер
 предохранителя
@@ -46831,7 +44056,6 @@ B - Предохранитель перегорел
 амперах
 
 ### Инстру
-`livan_x3_pro_ru_5ccf4f4a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 кции
 EF02
 Предохранитель TCU B + *
@@ -46841,7 +44065,6 @@ EF03
 Предохранитель EMS B +
 
 ### 10A
-`livan_x3_pro_ru_8ef37da7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 -
 EF05
 Предохранитель вакуумного
@@ -46851,7 +44074,6 @@ EF05
 EF06
 
 ### 15A
-`livan_x3_pro_ru_27e14a09` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:181 | doc_type:owners_manual
 -
 EF07
 Предохранитель звукового сигнала
@@ -46862,7 +44084,6 @@ EF08
 клапана и датчика
 
 ### 10A
-`livan_x3_pro_ru_8ef37da7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:181 | doc_type:owners_manual
 -
 EF09
 Предохранитель кислородного
@@ -46872,7 +44093,6 @@ EF09
 EF10
 
 ### 15A
-`livan_x3_pro_ru_27e14a09` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 -
 EF11
 Предохранитель EMS
@@ -46892,7 +44112,6 @@ EF11
 предохранителя
 
 ### Величина в
-`livan_x3_pro_ru_6a0ae595` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 амперах
 Инстру
 кции
@@ -46901,7 +44120,6 @@ EF12
 форсунки
 
 ### 10A
-`livan_x3_pro_ru_118901c2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:182 | doc_type:owners_manual
 -
 EF13
 Предохранитель пускового сигнала
@@ -46912,7 +44130,6 @@ EF14
 переключателя
 
 ### 5A
-`livan_x3_pro_ru_257068d0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 -
 EF17
 Предохранитель обогрева заднего
@@ -46922,7 +44139,6 @@ EF17
 EF18
 
 ### 5A
-`livan_x3_pro_ru_257068d0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 -
 EF19
 Предохранитель EMS и TCU
@@ -46933,7 +44149,6 @@ EF21
 зеркал заднего вида
 
 ### 10A
-`livan_x3_pro_ru_118901c2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:182 | doc_type:owners_manual
 -
 EF22
 Предохранитель левой фары
@@ -46942,7 +44157,6 @@ EF22
 -
 
 ### Предохранитель правой фары
-`livan_x3_pro_ru_78eb0f22` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:182 | doc_type:owners_manual
 ближнего света
 10A
 -
@@ -46951,7 +44165,6 @@ EF24
 дальнего света
 
 ### 10A
-`livan_x3_pro_ru_118901c2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:182 | doc_type:owners_manual
 -
 EF25
 Предохранитель правой фары
@@ -46960,7 +44173,6 @@ EF25
 -
 
 ### Предохранитель компрессора
-`livan_x3_pro_ru_bc0c5b5a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:182 | doc_type:owners_manual
 кондиционера
 10A
 -
@@ -46969,7 +44181,6 @@ EF28
 стеклоочистителя
 
 ### 25A
-`livan_x3_pro_ru_3e412076` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:182 | doc_type:owners_manual
 -
 SB01
 Предохранитель IP BOX B +
@@ -46979,7 +44190,6 @@ SB02
 Предохранитель клапана ABS и
 
 ### 25A
-`livan_x3_pro_ru_3e412076` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:182 | doc_type:owners_manual
 -
 SB03
 Предохранитель электродвигателя
@@ -46988,14 +44198,12 @@ ABS и ESC
 -
 
 ### 30A
-`livan_x3_pro_ru_cad7eda6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 -
 SB06
 Предохранитель
 высокоскоростного вентилятора
 
 ### 40A
-`livan_x3_pro_ru_6aebeeae` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 -
 SB07
 Предохранитель IP BOX ALT +
@@ -47006,7 +44214,6 @@ SB08
 вентилятора
 
 ### 40A
-`livan_x3_pro_ru_6aebeeae` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 -
 Неисправности во время вождения
 180
@@ -47014,7 +44221,6 @@ SB08
 предохранителя
 
 ### Величина в
-`livan_x3_pro_ru_594aed4c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 амперах
 Инстру
 кции
@@ -47024,7 +44230,6 @@ SB10
 кондиционирования
 
 ### 30A
-`livan_x3_pro_ru_b8049732` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:183 | doc_type:owners_manual
 -
 SB11
 Предохранитель
@@ -47033,7 +44238,6 @@ SB11
 -
 
 ### Предохранитель
-`livan_x3_pro_ru_b9cbbc45` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:183 | doc_type:owners_manual
 электростеклоподъемника 2
 30A
 -
@@ -47042,14 +44246,12 @@ SB14
 стекла
 
 ### 25A
-`livan_x3_pro_ru_e5bb53d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:183 | doc_type:owners_manual
 -
 MF01
 Предохранитель электроусилителя
 рулевого управления
 
 ### 80A
-`livan_x3_pro_ru_4efeb28a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 -
 MF02
 Предохранитель генератора
@@ -47067,7 +44269,6 @@ MF02
 181
 
 ### Внутренний
-`livan_x3_pro_ru_550e5753` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 блок
 предохранителей
 Модель 1
@@ -47089,7 +44290,6 @@ MF02
 предохранитель.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_7524c552` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 182
 Номер
 предохранителя
@@ -47098,7 +44298,6 @@ MF02
 амперах
 
 ### Инструк
-`livan_x3_pro_ru_c9229dfa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 ции
 IF01
 Предохранитель внешнего
@@ -47108,7 +44307,6 @@ MT
 30A
 
 ### Предохранитель внутреннего
-`livan_x3_pro_ru_83c73bb8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 освещения*
 10A
 MT
@@ -47119,7 +44317,6 @@ IF04
 замка
 
 ### 20A
-`livan_x3_pro_ru_9b744f04` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 -
 IF05
 Предохранитель указателей
@@ -47129,14 +44326,12 @@ IF05
 IF07
 
 ### 10A
-`livan_x3_pro_ru_6ad3b085` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:185 | doc_type:owners_manual
 -
 IF08
 Предохранитель тормозного
 переключателя и диагностика *
 
 ### 10A/5A
-`livan_x3_pro_ru_a6a4216d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 -
 IF09
 Предохранитель переключателя
@@ -47156,7 +44351,6 @@ IF09
 предохранителя
 
 ### Величина в
-`livan_x3_pro_ru_f64d40cb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:186 | doc_type:owners_manual
 амперах
 Инструк
 ции
@@ -47167,7 +44361,6 @@ IF10
 диагностика
 
 ### 10A
-`livan_x3_pro_ru_9b3cbd5d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 IF11
 Плавкий предохранитель
@@ -47178,7 +44371,6 @@ IF12
 люка
 
 ### 10A
-`livan_x3_pro_ru_9b3cbd5d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 IF13
 Предохранитель двигателя
@@ -47188,7 +44380,6 @@ IF13
 IF16
 
 ### Предохранитель заднего
-`livan_x3_pro_ru_203f3b2d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:186 | doc_type:owners_manual
 стеклоочистителя*
 15A
 -
@@ -47196,7 +44387,6 @@ IF17
 Предохранитель GPS/BCM ACC +
 
 ### 10A
-`livan_x3_pro_ru_9b3cbd5d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 IF18
 Предохранитель USB на задних
@@ -47206,7 +44396,6 @@ IF18
 IF19
 
 ### Передний предохранитель
-`livan_x3_pro_ru_7eefc8d8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 резервного питания
 15A
 -
@@ -47214,7 +44403,6 @@ IF20
 Предохранитель EPS и SAS IG1
 
 ### 7,5A
-`livan_x3_pro_ru_e79c80fd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 IF21
 Предохранитель ACU IG1
@@ -47224,7 +44412,6 @@ IF22
 Предохранитель прибора и BCM
 
 ### 10A
-`livan_x3_pro_ru_9b3cbd5d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 IF23
 Предохранитель UEC IG1+
@@ -47234,7 +44421,6 @@ IF24
 Предохранитель генератора
 
 ### 7,5A
-`livan_x3_pro_ru_e79c80fd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 IF32
 Предохранитель
@@ -47242,7 +44428,6 @@ IF32
 на приборной панели и т. д.
 
 ### 10A
-`livan_x3_pro_ru_9b3cbd5d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 SB02
 Предохранитель люка*
@@ -47252,7 +44437,6 @@ SB03
 Предохранитель IG2
 
 ### 25A
-`livan_x3_pro_ru_78000ae7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 Неисправности во время вождения
 184
@@ -47262,7 +44446,6 @@ SB03
 предохранителя
 
 ### 1. Выключите переключатель зажигания
-`livan_x3_pro_ru_d6c77ca3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:187 | doc_type:owners_manual
 и
 все
 электрооборудование,
@@ -47270,7 +44453,6 @@ SB03
 аккумулятора.
 
 ### 2. Зажмите
-`livan_x3_pro_ru_817a9a96` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 головку
 предохранителя
 одним концом съемных плоскогубцев
@@ -47288,7 +44470,6 @@ SB03
 металлический провод.
 
 ### 3. Замените
-`livan_x3_pro_ru_dcc29054` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 перегоревший
 предохранитель новым с таким же
 значением
@@ -47312,7 +44493,6 @@ SB03
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_4f8e0143` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 для проведения ремонта.
 Неисправности во время вождения
 6
@@ -47326,13 +44506,11 @@ SB03
 185
 
 ### Модели ламп
-`livan_x3_pro_ru_0b9aaa9f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 Замена ламп обычно требует демонтажа некоторых компонентов автомобиля,
 поэтому для соответствующих операций требуются профессиональные навыки. Для
 замены лампы рекомендуется обратиться на центр технического обслуживания
 
 ### Передняя
-`livan_x3_pro_ru_c3330a93` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:188 | doc_type:owners_manual
 комбинированная
 фара
 Фара дальнего
@@ -47343,7 +44521,6 @@ H7
 света
 
 ### H7
-`livan_x3_pro_ru_eb206d5c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:188 | doc_type:owners_manual
 55Вт
 Дневные ходовые
 огни
@@ -47354,7 +44531,6 @@ LED
 поворота
 
 ### Направляющий
-`livan_x3_pro_ru_f06f0c42` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:188 | doc_type:owners_manual
 свет LED+
 —
 Передние
@@ -47364,7 +44540,6 @@ LED
 —
 
 ### Задний
-`livan_x3_pro_ru_a40353dd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:188 | doc_type:owners_manual
 комбинированный
 фонарь
 Стоп-сигнал
@@ -47374,7 +44549,6 @@ LED
 поворота
 
 ### WY21W
-`livan_x3_pro_ru_fa47290e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:188 | doc_type:owners_manual
 21Вт
 Задние
 габаритные огни
@@ -47384,7 +44558,6 @@ LED
 хода
 
 ### W16W
-`livan_x3_pro_ru_6dd7b32e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 16Вт
 Боковой указатель
 поворота
@@ -47392,7 +44565,6 @@ LED
 поворота
 
 ### LED
-`livan_x3_pro_ru_bb01839f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:188 | doc_type:owners_manual
 —
 Задние
 противотуманные
@@ -47405,7 +44577,6 @@ LED
 Центральный стопсигнал
 Центральный стопсигнал
 ### LED
-`livan_x3_pro_ru_bb01839f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:188 | doc_type:owners_manual
 —
 Фонарь освещения
 номерного знака
@@ -47413,14 +44584,12 @@ LED
 номерного знака
 
 ### W5W
-`livan_x3_pro_ru_67809fc9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 5Вт
 Неисправности во время вождения
 186
 Название детали
 
 ### Внутренняя
-`livan_x3_pro_ru_ec8b18cc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:189 | doc_type:owners_manual
 верхняя передняя
 лампа
 Лампа для чтения
@@ -47430,7 +44599,6 @@ LED
 багажника*
 
 ### Лампа подсветки
-`livan_x3_pro_ru_7c8c972a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:189 | doc_type:owners_manual
 багажника
 W5W
 5Вт
@@ -47446,7 +44614,6 @@ W5W
 187
 
 ### Действия
-`livan_x3_pro_ru_367103a3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:190 | doc_type:owners_manual
 в
 аварийной
 обстановке
@@ -47463,7 +44630,6 @@ W5W
 необходимо выполнить следующее:
 
 ### 1. Выключите
-`livan_x3_pro_ru_299f7c18` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:190 | doc_type:owners_manual
 кондиционер,
 отведите
 автомобиль с дороги в безопасное и
@@ -47480,7 +44646,6 @@ W5W
 (P)/«Нейтралье
 
 ### (N)
-`livan_x3_pro_ru_00d922da` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:190 | doc_type:owners_manual
 и
 поднимите стояночный тормоз.
 2. Если
@@ -47521,14 +44686,12 @@ W5W
 ремонта.
 
 ### 3. Осмотрите
-`livan_x3_pro_ru_1b1f42bb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:190 | doc_type:owners_manual
 приводной
 ремень
 двигателя (ремень водяного насоса)
 на наличие трещин или ослабления.
 
 ### Проверьте
-`livan_x3_pro_ru_8222e5de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 радиатор,
 шланги
 и
@@ -47542,14 +44705,12 @@ W5W
 жидкости.
 
 ### Однако
-`livan_x3_pro_ru_f89d6150` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 если
 из
 работающего кондиционера падают
 капли воды, это нормально.
 
 ### 4. Если
-`livan_x3_pro_ru_6cc79ae8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:190 | doc_type:owners_manual
 ремень
 привода
 двигателя
@@ -47572,7 +44733,6 @@ W5W
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_d6939d47` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:190 | doc_type:owners_manual
 для проведения ремонта.
 5. Если
 нет
@@ -47597,7 +44757,6 @@ W5W
 типа.
 
 ### Для получения информации о методе
-`livan_x3_pro_ru_43a69122` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 долива
 см.
 раздел
@@ -47612,7 +44771,6 @@ W5W
 обслуживаниее.
 
 ### 6. После
-`livan_x3_pro_ru_c6fd5303` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 того,
 как
 температура
@@ -47637,7 +44795,6 @@ W5W
 отметками
 
 ### MAX
-`livan_x3_pro_ru_9dc633df` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 и
 MIN.
 Сильные
@@ -47652,13 +44809,11 @@ MIN.
 Пожалуйста, немедленно обратитесь
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_e131ee87` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 188
 в центр технического обслуживания
 LIVAN для проведения проверки.
 
 ### 7. Летом
-`livan_x3_pro_ru_2f3d979a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:191 | doc_type:owners_manual
 после
 стоянки
 вентилятор
@@ -47693,7 +44848,6 @@ LIVAN для проведения проверки.
 выходить пар.
 
 ### Держите руки и одежду подальше от
-`livan_x3_pro_ru_339ce75d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:191 | doc_type:owners_manual
 охлаждающего
 вентилятора
 и
@@ -47716,7 +44870,6 @@ LIVAN для проведения проверки.
 радиатора.
 
 ### Выбрасываемый
-`livan_x3_pro_ru_b3d7eedc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 высокотемпературный
 пар
 и
@@ -47728,7 +44881,6 @@ LIVAN для проведения проверки.
 (ЭРАГЛОНАСС)*
 1. Общие сведения
 ### ЭРА-ГЛОНАС
-`livan_x3_pro_ru_63c5c5bc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 предназначена для автоматического
 (при
 аварии)
@@ -47739,7 +44891,6 @@ LIVAN для проведения проверки.
 служб
 
 ### (ЭОС),
-`livan_x3_pro_ru_018f3a10` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 передачи
 минимального набора данных (МНД)
 с описанием автомобиля, координат
@@ -47767,7 +44918,6 @@ LIVAN для проведения проверки.
 работы системы.
 
 ### 1. Режим «Выключенае – система
-`livan_x3_pro_ru_39d309ff` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 находится
 в
 данном
@@ -47786,7 +44936,6 @@ LIVAN для проведения проверки.
 зажигания.
 
 ### Переход
-`livan_x3_pro_ru_334b83d4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 в
 режим
 «Выключенае из
@@ -47800,7 +44949,6 @@ LIVAN для проведения проверки.
 Режим
 
 ### «ЭРАе
-`livan_x3_pro_ru_244ed1f6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 –
 система
 осуществляет
@@ -47814,7 +44962,6 @@ LIVAN для проведения проверки.
 событий
 
 ### ДТП
-`livan_x3_pro_ru_9774a6ed` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 в
 автоматическом
 режиме
@@ -47844,7 +44991,6 @@ LIVAN для проведения проверки.
 передачи
 
 ### Процедура
-`livan_x3_pro_ru_c75a2f11` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:191 | doc_type:owners_manual
 «Экстренный
 вызове
 должна
@@ -47872,7 +45018,6 @@ LIVAN для проведения проверки.
 вызове, инициированного в ручном
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_65317b4e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 6
 8
 7
@@ -47893,7 +45038,6 @@ LIVAN для проведения проверки.
 соединения.
 
 ### При автоматическом инициировании
-`livan_x3_pro_ru_2310a945` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 режима «Экстренный вызове система
 перейдет
 в
@@ -47916,7 +45060,6 @@ LIVAN для проведения проверки.
 системы оператором системы «ЭРА
 
 ### ГЛОНАССе.
-`livan_x3_pro_ru_2e00e410` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 Для
 входа
 в
@@ -47929,13 +45072,11 @@ LIVAN для проведения проверки.
 секунд.
 
 ### Система
-`livan_x3_pro_ru_255fb961` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 будет
 перезагружена и перейдет в режим
 тестирования.
 
 ### В
-`livan_x3_pro_ru_e2748d30` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:192 | doc_type:owners_manual
 режиме
 тестирования
 индикатор
@@ -47974,7 +45115,6 @@ LIVAN для проведения проверки.
 передачи
 
 ### МНД с результатами тестирования
-`livan_x3_pro_ru_ad65a15b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 изделия
 оператору
 системы;
@@ -47988,7 +45128,6 @@ LIVAN для проведения проверки.
 указанного в настройках изделия.
 
 ### Динамик расположен под накладкой в
-`livan_x3_pro_ru_38cf2ec6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 левой части приборной панели.
 В случае, если изделие диагностировало
 неисправность внутренних компонентов,
@@ -47998,7 +45137,6 @@ LIVAN для проведения проверки.
 авторизованный сервисный центр LIVAN.
 
 ### УВЭОС
-`livan_x3_pro_ru_e3171678` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:192 | doc_type:owners_manual
 представлен
 в
 электронном
@@ -48015,7 +45153,6 @@ QR
 "Паспорт УВЭОС"
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_c0ea43c9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 190
 Внезапная
 остановка
@@ -48034,7 +45171,6 @@ QR
 обочине.
 
 ### 2. Включите
-`livan_x3_pro_ru_c6213367` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:193 | doc_type:owners_manual
 аварийные
 сигнальные
 лампы.
@@ -48064,14 +45200,12 @@ QR
 тормозить будет труднее, чем обычно.
 
 ### Если автомобиль застрял
-`livan_x3_pro_ru_ac3da334` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 Если автомобиль застрял в снегу, грязи,
 песке или на других мягких поверхностях,
 выполните следующие действия, чтобы
 вытащить автомобиль:
 
 ### 1. Поверните
-`livan_x3_pro_ru_ea0956db` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 руль
 влево
 и
@@ -48083,7 +45217,6 @@ QR
 переднего колеса.
 
 ### 2. Проезжайте несколько раз вперед и
-`livan_x3_pro_ru_e318da18` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 назад,
 максимально
 уменьшая
@@ -48091,14 +45224,12 @@ QR
 на педаль акселератора.
 
 ### 3. Если вы не можете выбраться после
-`livan_x3_pro_ru_173617a1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 нескольких
 попыток,
 необходимо
 буксировать автомобиль.
 
 ### Прежде
-`livan_x3_pro_ru_b907c130` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 чем
 вытаскивать
 застрявший
@@ -48156,7 +45287,6 @@ QR
 буксировку или другие методы.
 
 ### Неисправности во время вождения
-`livan_x3_pro_ru_e455341d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 7
 8
 6
@@ -48195,7 +45325,6 @@ QR
 состоянии.
 
 ### Гарантия
-`livan_x3_pro_ru_f067c760` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 на
 автомобиль
 не
@@ -48205,7 +45334,6 @@ QR
 технического обслуживания.
 
 ### Правильное техническое обслуживание
-`livan_x3_pro_ru_efac7c76` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 автомобиля
 не
 только
@@ -48225,7 +45353,6 @@ QR
 важны.
 
 ### Неправильное
-`livan_x3_pro_ru_96bd4c0e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 техническое
 обслуживание
 автомобиля
@@ -48237,12 +45364,10 @@ QR
 воздуха.
 
 ### Неправильный уровень жидкостей или
-`livan_x3_pro_ru_6c8c78ed` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 неправильное давление в шинах может
 увеличить объем выбросов автомобиля.
 
 ### Чтобы защитить окружающую среду и
-`livan_x3_pro_ru_3825a088` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 поддерживать
 автомобиль
 в
@@ -48253,7 +45378,6 @@ QR
 обслуживать его.
 
 ### Если автомобиль эксплуатируется
-`livan_x3_pro_ru_b24fd25d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 в
 указанных
 ниже
@@ -48274,7 +45398,6 @@ QR
 •
 
 ### Автомобиль
-`livan_x3_pro_ru_b29dd327` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 эксплуатируется
 на
 короткие расстояния (менее 10 км) в
@@ -48283,7 +45406,6 @@ QR
 •
 
 ### Автомобиль в течение длительного
-`livan_x3_pro_ru_279d1039` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 времени
 эксплуатируется
 в
@@ -48298,7 +45420,6 @@ QR
 •
 
 ### Чрезмерная работа на холостом ходу
-`livan_x3_pro_ru_7248af33` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 или
 длительная
 езда
@@ -48308,7 +45429,6 @@ QR
 •
 
 ### Частое
-`livan_x3_pro_ru_92dcf5e1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 вождение
 на
 высокой
@@ -48319,7 +45439,6 @@ QR
 •
 
 ### Частое
-`livan_x3_pro_ru_92dcf5e1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 вождение
 с
 постоянными
@@ -48330,7 +45449,6 @@ QR
 •
 
 ### Частое вождение по песчаным или
-`livan_x3_pro_ru_b206e103` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 пыльным дорогам;
 •
 Частое
@@ -48350,7 +45468,6 @@ QR
 •
 
 ### Применение
-`livan_x3_pro_ru_a8ee88e2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 топлива,
 не
 соответствующего
@@ -48367,13 +45484,11 @@ QR
 увеличить
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_46337773` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 192
 частоту технического обслуживания или
 сократить период между ними.
 
 ### Если автомобиль часто ездит на
-`livan_x3_pro_ru_d09b6dbd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 короткие расстояния (менее 10 км)
 или на короткое время в холодных и
 суровых условиях (-15° С), необходимо
@@ -48405,7 +45520,6 @@ QR
 стоянки.
 
 ### Рекомендуется парковать автомобиль в
-`livan_x3_pro_ru_1779c656` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 теплом месте, защищенном от ветра,
 если
 он
@@ -48427,7 +45541,6 @@ QR
 -
 
 ### 35° С
-`livan_x3_pro_ru_9c177ef0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:195 | doc_type:owners_manual
 -
 предел
 температуры
@@ -48457,7 +45570,6 @@ QR
 усилием.
 
 ### Запуск
-`livan_x3_pro_ru_4350387b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 при
 температуре ниже - 35° С не удастся. В
 очень холодных районах (- 30°С и ниже)
@@ -48466,7 +45578,6 @@ QR
 эксплуатацию.
 
 ### Программа
-`livan_x3_pro_ru_64164e14` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 обслуживания
 во
 время использования
@@ -48484,7 +45595,6 @@ QR
 различаются.
 
 ### Водителю
-`livan_x3_pro_ru_654ddf38` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 может
 потребоваться
 увеличить частоту осмотров и замен.
@@ -48510,7 +45620,6 @@ QR
 обслуживания
 
 ### Данный план технического обслуживания
-`livan_x3_pro_ru_0623f63c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 распространяется
 на
 следующие
@@ -48541,7 +45650,6 @@ QR
 двигателя и вождениее.
 
 ### Операции
-`livan_x3_pro_ru_1ac4fbee` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 по
 техническому
 обслуживанию автомобиля сложны
@@ -48551,7 +45659,6 @@ QR
 опасны.
 
 ### Выполняя
-`livan_x3_pro_ru_2794a46c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 некоторые
 работы
 по
@@ -48565,7 +45672,6 @@ QR
 травмы.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_b6830536` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 7
 8
 6
@@ -48590,7 +45696,6 @@ QR
 самостоятельно.
 
 ### В
-`livan_x3_pro_ru_9fe2c4b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 противном случае обратитесь в центр
 технического обслуживания LIVAN.
 При
@@ -48618,7 +45723,6 @@ QR
 требуется.
 
 ### Рекомендуется
-`livan_x3_pro_ru_b0c6e67a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 использовать
 оригинальные
 запчасти,
@@ -48626,7 +45730,6 @@ QR
 обслуживания LIVAN.
 
 ### Реестр
-`livan_x3_pro_ru_c72ef47d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 технических
 обслуживаний
 Подробную
@@ -48649,7 +45752,6 @@ QR
 обслуживании.
 
 ### Этот автомобиль оснащен устройством
-`livan_x3_pro_ru_7e762e42` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 контроля
 выбросов
 и
@@ -48694,7 +45796,6 @@ QR
 показатели выбросов автомобиля.
 
 ### Техническое
-`livan_x3_pro_ru_633c1fa0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 обслуживание
 автовладельцем
 Если
@@ -48720,7 +45821,6 @@ QR
 обслуживания LIVAN.
 
 ### В
-`livan_x3_pro_ru_9fe2c4b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 дополнение
 к
 техническому
@@ -48739,7 +45839,6 @@ QR
 рекомендаций.
 
 ### Ежедневный осмотр
-`livan_x3_pro_ru_997ab1b5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 •
 Функционал фар, звукового сигнала,
 дворников, омывателей и сигнальных
@@ -48747,7 +45846,6 @@ QR
 •
 
 ### Функционал
-`livan_x3_pro_ru_0107785a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:196 | doc_type:owners_manual
 ремня
 безопасности
 и
@@ -48760,7 +45858,6 @@ QR
 Проверьте внешний вид шин.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_19ae7205` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:196 | doc_type:owners_manual
 194
 Еженедельный осмотр
 •
@@ -48772,7 +45869,6 @@ QR
 •
 
 ### Уровень
-`livan_x3_pro_ru_1366f7fe` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 жидкости
 омывателя
 ветрового стекла.
@@ -48781,7 +45877,6 @@ QR
 •
 
 ### Работа системы кондиционирования
-`livan_x3_pro_ru_15612b46` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:197 | doc_type:owners_manual
 воздуха.
 Если автомобиль часто и в течение
 длительного
@@ -48795,14 +45890,12 @@ QR
 проверять моторное масло.
 
 ### Восемь
-`livan_x3_pro_ru_a957b577` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 правил
 предотвращения
 случайных
 возгораний в автомобиле
 
 ### 1. Запрещается
-`livan_x3_pro_ru_55feb948` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 хранить
 легковоспламеняющиеся
 вещества
@@ -48811,7 +45904,6 @@ QR
 автомобиле.
 
 ### Легковоспламеняющиеся
-`livan_x3_pro_ru_62aec767` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 и
 взрывоопасные
 материалы
@@ -48821,7 +45913,6 @@ QR
 вызвать пожар.
 
 ### 2. Не
-`livan_x3_pro_ru_d0b91002` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 допускайте
 прямого
 контакта
@@ -48835,7 +45926,6 @@ QR
 возникнет пожар.
 
 ### 3. Запрещается
-`livan_x3_pro_ru_43de2984` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:197 | doc_type:owners_manual
 установка
 других
 декоративных фонарей, отличных от
@@ -48855,7 +45945,6 @@ QR
 нагрузки, что приведет к пожару.
 
 ### 4. При
-`livan_x3_pro_ru_892c66c2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 модификации
 автомобиля
 механической
@@ -48872,7 +45961,6 @@ CD
 возгоранию.
 
 ### 5. Запрещается
-`livan_x3_pro_ru_9c5c0114` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 использование
 ламп,
 отличающихся
@@ -48886,7 +45974,6 @@ CD
 и это может привести к возгоранию.
 
 ### 6. Запрещается нажимать педаль газа в
-`livan_x3_pro_ru_189c5702` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 течение
 длительного
 времени
@@ -48898,7 +45985,6 @@ CD
 перегреется, что приведет к пожару,
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_a6f2d82e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:197 | doc_type:owners_manual
 7
 8
 6
@@ -48917,7 +46003,6 @@ CD
 топливного бака..
 
 ### 7. Моторный отсек
-`livan_x3_pro_ru_9d784d63` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:198 | doc_type:owners_manual
 загрязнен
 маслом
 (необходим
@@ -48930,7 +46015,6 @@ CD
 моторном отсеке.
 
 ### 8. После курения убедитесь, что окурок
-`livan_x3_pro_ru_1b995f4d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 полностью
 погас.
 Если
@@ -48942,7 +46026,6 @@ CD
 случиться пожар.
 
 ### Токсичные жидкости
-`livan_x3_pro_ru_c4053f7b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 Жидкости, используемые в автомобиле,
 токсичны, их нельзя проглатывать или
 допускать
@@ -48952,7 +46035,6 @@ CD
 раны.
 
 ### К
-`livan_x3_pro_ru_8bfbfd5f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:198 | doc_type:owners_manual
 токсичным
 жидкостям
 относятся:
@@ -48966,7 +46048,6 @@ CD
 жидкость и т.д.
 
 ### В
-`livan_x3_pro_ru_88b139b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 целях
 безопасности
 водителя
@@ -48978,7 +46059,6 @@ CD
 и контейнерах.
 
 ### Использованное
-`livan_x3_pro_ru_2aba34ca` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:198 | doc_type:owners_manual
 моторное
 масло
 Длительный контакт с моторным маслом
@@ -48993,7 +46073,6 @@ CD
 врачу.
 
 ### Отработанное
-`livan_x3_pro_ru_f192e712` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:198 | doc_type:owners_manual
 моторное
 масло
 нельзя
@@ -49005,7 +46084,6 @@ CD
 окружающую среду.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_63feb879` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:198 | doc_type:owners_manual
 196
 Моторный отсек
 Капот моторного отсека
@@ -49015,13 +46093,11 @@ CD
 отсека
 
 ### 1. Потяните ручку открывания капота
-`livan_x3_pro_ru_9e3b5342` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:199 | doc_type:owners_manual
 внутри автомобиля. Он расположен
 под приборной панелью со стороны
 водителя в автомобиле.
 
 ### 2. Потяните
-`livan_x3_pro_ru_ec603b49` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:199 | doc_type:owners_manual
 за
 рукоятку
 предохранительного крюка капота по
@@ -49033,7 +46109,6 @@ CD
 посередине решетки радиатора.
 
 ### 4. Снимите опорный стержень капота и
-`livan_x3_pro_ru_cdb73b71` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:199 | doc_type:owners_manual
 установите на него капот.
 Закрытие
 капота
@@ -49041,7 +46116,6 @@ CD
 отсека
 
 ### Прежде
-`livan_x3_pro_ru_c7bd0230` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:199 | doc_type:owners_manual
 чем
 закрыть
 капот,
@@ -49062,7 +46136,6 @@ CD
 закрыты.
 
 ### Вставьте
-`livan_x3_pro_ru_2105e018` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:199 | doc_type:owners_manual
 опорный
 стержень
 капота
@@ -49104,7 +46177,6 @@ CD
 травмам и повреждению имущества.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_d69dbd46` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:199 | doc_type:owners_manual
 7
 8
 6
@@ -49119,7 +46191,6 @@ CD
 1.
 
 ### Расширительный
-`livan_x3_pro_ru_15d72193` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:200 | doc_type:owners_manual
 бачок
 охлаждающей жидкости двигателя
 5.
@@ -49129,7 +46200,6 @@ CD
 6.
 
 ### Воздушный фильтр
-`livan_x3_pro_ru_e7ed3af8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:200 | doc_type:owners_manual
 3.
 Бачок для тормозной жидкости
 7.
@@ -49137,7 +46207,6 @@ CD
 4.
 
 ### Блок предохранителей в моторном
-`livan_x3_pro_ru_55d7c402` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:200 | doc_type:owners_manual
 отсеке
 8.
 Бачок жидкости стеклоомывателя
@@ -49148,7 +46217,6 @@ CD
 чего могут возникнуть термические повреждения.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_2aa9b8f3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:200 | doc_type:owners_manual
 198
 Моторное
 масло
@@ -49158,7 +46226,6 @@ CD
 масла
 
 ### Моторное
-`livan_x3_pro_ru_ff3cde49` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 масло
 и
 масляный
@@ -49209,12 +46276,10 @@ CD
 рукоятку.
 
 ### Чтобы определить расположение щупа
-`livan_x3_pro_ru_1b1145ff` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 для измерения уровня масла в двигателе
 см. «Моторный отсеке.
 
 ### 1. Выключите двигатель и подождите
-`livan_x3_pro_ru_78ce53eb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 несколько
 минут,
 пока
@@ -49234,13 +46299,11 @@ CD
 уровень.
 
 ### 2. Вытащите масляный щуп двигателя,
-`livan_x3_pro_ru_cc099c40` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 протрите его бумажным полотенцем
 или тканью, а затем вставьте обратно
 до упора.
 
 ### 3. Снова
-`livan_x3_pro_ru_fcdc3729` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 вытащите
 масляный
 щуп
@@ -49252,7 +46315,6 @@ CD
 масла не был ниже отметки MIN.
 
 ### 4. Если уровень моторного масла ниже
-`livan_x3_pro_ru_1f1becae` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 отметки
 MIN,
 отвинтите
@@ -49270,7 +46332,6 @@ MIN,
 измерения уровня.
 
 ### 5. Подождите несколько минут и снова
-`livan_x3_pro_ru_1e90c55b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 проверьте
 уровень.
 При
@@ -49281,7 +46342,6 @@ MIN,
 моторного масла.
 
 ### 6. Наконец,
-`livan_x3_pro_ru_d06238ab` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 убедитесь,
 что
 маслоизмерительный щуп двигателя
@@ -49311,7 +46371,6 @@ MIN,
 и техническому обслуживанию.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_e6fc8919` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 7
 8
 6
@@ -49333,7 +46392,6 @@ MIN,
 главе «Технические данныее.
 
 ### Утилизируйте
-`livan_x3_pro_ru_00e2cfe5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:202 | doc_type:owners_manual
 отработанное
 моторное масло в соответствии с
 применимыми
@@ -49343,7 +46401,6 @@ MIN,
 окружающей среды.
 
 ### Воздушный
-`livan_x3_pro_ru_0c103b09` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:202 | doc_type:owners_manual
 фильтр/
 фильтрующий
 элемент
@@ -49359,7 +46416,6 @@ MIN,
 части.
 
 ### Когда следует проверять воздушный
-`livan_x3_pro_ru_8f3ae796` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 фильтрующий элемент двигателя
 Периодичность
 проверки
@@ -49369,7 +46425,6 @@ MIN,
 обслуживанию".
 
 ### Если вы хотите проверить воздушный
-`livan_x3_pro_ru_18f7dc60` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 фильтрующий элемент, снимите его с
 автомобиля
 и
@@ -49385,7 +46440,6 @@ MIN,
 новый.
 
 ### Регулярно
-`livan_x3_pro_ru_58503027` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 очищайте
 воздушный
 фильтрующий
@@ -49398,14 +46452,12 @@ MIN,
 эксплуатации.
 
 ### Замена воздушного фильтрующего
-`livan_x3_pro_ru_a5b072a3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 элемента двигателя
 1. Ослабьте винты вокруг верхней части
 корпуса воздушного фильтрующего
 элемента.
 
 ### 2. Откройте
-`livan_x3_pro_ru_a4f98ea2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 рукой
 верхнюю
 часть
@@ -49416,14 +46468,12 @@ MIN,
 фильтрующий элемент.
 
 ### 4. Вставьте
-`livan_x3_pro_ru_2f0de929` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 фильтрующий
 элемент
 обратно в корпус и отрегулируйте
 положение.
 
 ### 5. Затяните винты, чтобы убедиться, что
-`livan_x3_pro_ru_30ced378` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:202 | doc_type:owners_manual
 крышка зафиксирована.
 Воздушный фильтр может очищать
 воздух и предотвращать попадание
@@ -49442,7 +46492,6 @@ MIN,
 материальному ущербу.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_37b45b4d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 200
 Система охлаждения
 Информация
@@ -49451,7 +46500,6 @@ MIN,
 охлаждения
 
 ### Роль системы охлаждения заключается в
-`livan_x3_pro_ru_d989055a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 обеспечении
 наиболее
 подходящей
@@ -49459,7 +46507,6 @@ MIN,
 двигателя.
 
 ### Интервал
-`livan_x3_pro_ru_d798bf5c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:203 | doc_type:owners_manual
 замены
 охлаждающей
 жидкости см. в «Руководстве по гарантии
@@ -49489,7 +46536,6 @@ MIN,
 ожог.
 
 ### Запрещается запускать двигатель при
-`livan_x3_pro_ru_cef1488f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:203 | doc_type:owners_manual
 утечке
 охлаждающей
 жидкости.
@@ -49502,7 +46548,6 @@ MIN,
 материальному ущербу.
 
 ### Утилизируйте
-`livan_x3_pro_ru_577739b6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 охлаждающую
 жидкость
 в
@@ -49515,7 +46560,6 @@ MIN,
 окружающей среды.
 
 ### Проверка
-`livan_x3_pro_ru_4fcf8602` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 охлаждающей
 жидкости
 При
@@ -49550,7 +46594,6 @@ MIN,
 отметки
 
 ### MIN,
-`livan_x3_pro_ru_58ddc6d1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 заполните
 расширительный
 бачок
@@ -49562,7 +46605,6 @@ MIN,
 жидкости
 
 ### Запрещается
-`livan_x3_pro_ru_2cf58cfe` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 открывать
 герметичную
 крышку
@@ -49579,7 +46621,6 @@ MIN,
 бачка и верхний шланг радиатора.
 
 ### Герметичная
-`livan_x3_pro_ru_6aa586af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 крышка
 расширительного
 бачка
@@ -49596,7 +46637,6 @@ MIN,
 201
 
 ### 1. Медленно
-`livan_x3_pro_ru_17abc56e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 откройте
 герметичную
 крышку радиатора. Если вы слышите
@@ -49607,7 +46647,6 @@ MIN,
 внутри все еще есть давление.
 
 ### 2. Продолжайте открывать герметичную
-`livan_x3_pro_ru_b9d6eb80` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 крышку и снимите ее.
 Под давлением пара и кипящей
 жидкости
@@ -49653,12 +46692,10 @@ MIN,
 охлаждающей жидкости.
 
 ### 3. Медленно заливайте охлаждающую
-`livan_x3_pro_ru_4c69d84b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 жидкость до тех пор, пока уровень на
 крышке радиатора не упадет.
 
 ### Охлаждающая жидкость содержит
-`livan_x3_pro_ru_43f44a96` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 гликоль.
 Если
 охлаждающая
@@ -49678,7 +46715,6 @@ MIN,
 сертифицированную
 
 ### Повреждения
-`livan_x3_pro_ru_c7392753` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 или
 неисправности,
 вызванные
@@ -49694,7 +46730,6 @@ MIN,
 Компании LIVAN.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_3c545bb2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 202
 Не смешивайте охлаждающие жидкости
 разных
@@ -49703,7 +46738,6 @@ MIN,
 типов.
 
 ### Различные
-`livan_x3_pro_ru_2abfe6f3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:205 | doc_type:owners_manual
 химические
 компоненты,
 такие
@@ -49723,7 +46757,6 @@ MIN,
 жидкости транспортные средства.
 
 ### 4. При
-`livan_x3_pro_ru_a1c0fc77` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:205 | doc_type:owners_manual
 открытой
 верхней
 крышке
@@ -49739,7 +46772,6 @@ MIN,
 нагреваться.
 
 ### Будьте
-`livan_x3_pro_ru_4a8a7e3f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 осторожны
 с
 вентилятором
@@ -49758,7 +46790,6 @@ MIN,
 снизиться.
 
 ### Продолжайте
-`livan_x3_pro_ru_49bfccf9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 медленно
 добавлять
 охлаждающую
@@ -49769,7 +46800,6 @@ MIN,
 упадет.
 
 ### Закройте
-`livan_x3_pro_ru_26344fdd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 герметичную
 крышку.
 Добавляйте
@@ -49791,7 +46821,6 @@ MIN,
 положения между линиями MAX и
 
 ### MIN
-`livan_x3_pro_ru_cc986553` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:205 | doc_type:owners_manual
 расширительного
 бачка
 охлаждающей жидкости.
@@ -49807,13 +46836,11 @@ MIN,
 нанести травмы.
 
 ### 5. Следите за уровнем охлаждающей
-`livan_x3_pro_ru_ca13fd8a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 жидкости в расширительном бачке и
 вовремя
 доливайте.
 
 ### Уровень
-`livan_x3_pro_ru_c68d2f75` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 охлаждающей
 жидкости
 в
@@ -49823,7 +46850,6 @@ MIN,
 находиться между отметками MAX и
 
 ### 6. Установите
-`livan_x3_pro_ru_a3324101` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 на
 место
 крышку
@@ -49854,7 +46880,6 @@ MIN,
 обслуживания как можно скорее.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_57fc6a61` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:205 | doc_type:owners_manual
 7
 8
 6
@@ -49895,7 +46920,6 @@ MIN,
 безопасности вождения.
 
 ### Изношенные тормозные колодки не могут
-`livan_x3_pro_ru_77f6b02d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:206 | doc_type:owners_manual
 эффективно затормаживать автомобиль.
 Степень износа тормозных колодок в
 основном
@@ -49925,7 +46949,6 @@ MIN,
 обслуживанию".
 
 ### Заменяйте тормозную жидкость согласно
-`livan_x3_pro_ru_1dcbadb1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:206 | doc_type:owners_manual
 периодичности
 технического
 обслуживания, указанной в "Руководстве
@@ -49953,7 +46976,6 @@ MIN,
 эффективность торможения.
 
 ### Экстренное торможение не должно
-`livan_x3_pro_ru_43c2299c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:206 | doc_type:owners_manual
 применяться
 при
 движении
@@ -49965,7 +46987,6 @@ MIN,
 дорогам.
 
 ### Перед движением по затяжному спуску
-`livan_x3_pro_ru_d43b11c9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:206 | doc_type:owners_manual
 следует
 перевести
 автомобиль
@@ -50006,7 +47027,6 @@ MIN,
 восстановление тормоза.
 
 ### Обязательно
-`livan_x3_pro_ru_2ba1bc3d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:206 | doc_type:owners_manual
 посетите
 центр
 технического обслуживания LIVAN
@@ -50021,7 +47041,6 @@ MIN,
 торможение.
 
 ### Новые тормозные колодки обладают не
-`livan_x3_pro_ru_4ce996de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:206 | doc_type:owners_manual
 самыми
 лучшими
 фрикционными
@@ -50056,7 +47075,6 @@ MIN,
 происшествий.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_54de8587` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:206 | doc_type:owners_manual
 204
 Ход педали тормоза
 Если педаль тормоза не может вернуться
@@ -50073,7 +47091,6 @@ MIN,
 LIVAN как можно скорее.
 
 ### Звук тормозов
-`livan_x3_pro_ru_2432218b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 Нажмите на педаль тормоза, передние и
 задние
 тормоза
@@ -50100,7 +47117,6 @@ LIVAN как можно скорее.
 снег.
 
 ### Особенно в дождливую и снежную погоду
-`livan_x3_pro_ru_1371033f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 высока
 вероятность,
 что
@@ -50125,7 +47141,6 @@ LIVAN как можно скорее.
 системы.
 
 ### Звук тормозов при трогании с
-`livan_x3_pro_ru_b0fd1b53` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 места
 Звук тормозов при трогании с места или
 звук трения между тормозной колодкой и
@@ -50138,7 +47153,6 @@ LIVAN как можно скорее.
 нормально.
 
 ### Автомобиль
-`livan_x3_pro_ru_dfff27a3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:207 | doc_type:owners_manual
 с
 автоматической коробкой передач при
 трогании с места находится на передаче
@@ -50177,7 +47191,6 @@ D, двигатель вырабатывает движущую
 автомобиля.
 
 ### Звук руля при нажатии педали
-`livan_x3_pro_ru_a8ba8522` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 тормоза на месте
 Когда автомобиль неподвижен, колеса
 прокручиваются при повороте рулевого
@@ -50219,7 +47232,6 @@ D, двигатель вырабатывает движущую
 работу и эксплуатацию автомобиля.
 
 ### Повышенная
-`livan_x3_pro_ru_0823bdd8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 температура
 после
 использования
@@ -50241,7 +47253,6 @@ D, двигатель вырабатывает движущую
 тепло.
 
 ### Нагрев
-`livan_x3_pro_ru_14fd71fa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 тормозного
 диска
 после
@@ -50249,7 +47260,6 @@ D, двигатель вырабатывает движущую
 является нормальным явлением.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_c8c8170f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 7
 8
 6
@@ -50267,7 +47277,6 @@ D, двигатель вырабатывает движущую
 обжечься.
 
 ### Замена
-`livan_x3_pro_ru_518430ad` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 компонентов
 тормозной системы
 Тормозная система автомобилей очень
@@ -50306,7 +47315,6 @@ D, двигатель вырабатывает движущую
 Пункт
 
 ### Единица
-`livan_x3_pro_ru_420eff88` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 измерени
 я
 Величина
@@ -50320,7 +47328,6 @@ D, двигатель вырабатывает движущую
 10,0
 
 ### Минималь
-`livan_x3_pro_ru_d525797b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 ная
 толщина
 передних
@@ -50331,7 +47338,6 @@ D, двигатель вырабатывает движущую
 Пункт
 
 ### Единица
-`livan_x3_pro_ru_420eff88` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 измерени
 я
 Величина
@@ -50345,7 +47351,6 @@ D, двигатель вырабатывает движущую
 9,0
 
 ### Минималь
-`livan_x3_pro_ru_d525797b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 ная
 толщина
 задних
@@ -50356,7 +47361,6 @@ D, двигатель вырабатывает движущую
 Тормозная жидкость
 
 ### Заполните
-`livan_x3_pro_ru_56d0bcee` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 бачок
 тормозной
 жидкости
@@ -50365,7 +47369,6 @@ D, двигатель вырабатывает движущую
 падает по двум причинам:
 
 ### 1. Уровень тормозной жидкости падает
-`livan_x3_pro_ru_3cc2b350` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 из-за нормального износа тормозных
 колодок.
 После
@@ -50375,7 +47378,6 @@ D, двигатель вырабатывает движущую
 может прийти в норму.
 
 ### 2. Также
-`livan_x3_pro_ru_e11480d9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 причиной
 низкого
 уровня
@@ -50388,7 +47390,6 @@ D, двигатель вырабатывает движущую
 тормозной
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_9e801eb5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:208 | doc_type:owners_manual
 206
 гидравлической
 системы.
@@ -50427,13 +47428,11 @@ D, двигатель вырабатывает движущую
 имущества.
 
 ### Поэтому
-`livan_x3_pro_ru_12d355cd` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 доливать
 тормозную жидкость можно только между
 отметками
 
 ### MAX
-`livan_x3_pro_ru_3a0ce899` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 и
 MIN
 только
@@ -50444,7 +47443,6 @@ MIN
 гидравлической системы.
 
 ### Добавление тормозной жидкости не
-`livan_x3_pro_ru_82d2bd49` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 решит
 проблему
 утечки.
@@ -50483,7 +47481,6 @@ MIN
 окрашенные поверхности автомобиля.
 
 ### Уровень
-`livan_x3_pro_ru_4b0e8f5c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 тормозной
 жидкости
 всегда
@@ -50494,7 +47491,6 @@ MIN
 MAX и MIN.
 
 ### Использование
-`livan_x3_pro_ru_e4958a32` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 неподходящей
 жидкости
 серьезно
@@ -50503,7 +47499,6 @@ MAX и MIN.
 системы.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_73033367` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:209 | doc_type:owners_manual
 7
 8
 6
@@ -50520,14 +47515,12 @@ MAX и MIN.
 руля
 
 ### Функциональность
-`livan_x3_pro_ru_d1b77eb3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:210 | doc_type:owners_manual
 системы
 рулевого
 управления автомобиля является одной
 из основных характеристик автомобиля.
 
 ### Функциональность
-`livan_x3_pro_ru_d1b77eb3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:210 | doc_type:owners_manual
 системы
 рулевого
 управления
@@ -50543,7 +47536,6 @@ MAX и MIN.
 снижении
 
 ### ДТП
-`livan_x3_pro_ru_7bc59802` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:210 | doc_type:owners_manual
 и
 защите
 личной безопасности водителя.
@@ -50563,7 +47555,6 @@ EPS
 обстоятельствах.
 
 ### В
-`livan_x3_pro_ru_a028246d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:210 | doc_type:owners_manual
 таком
 случае
 снижается
@@ -50585,7 +47576,6 @@ EPS
 руля
 
 ### (EPS)
-`livan_x3_pro_ru_7c6c87e4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:210 | doc_type:owners_manual
 (значит,
 что система уже вошла в режим защиты
 от перегрева), переместите автомобиль в
@@ -50610,7 +47600,6 @@ EPS
 центр технического обслуживания LIVAN.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_ffc01d8a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:210 | doc_type:owners_manual
 208
 Передняя
 комбинированная фара
@@ -50619,7 +47608,6 @@ EPS
 комбинированных фар
 
 ### Передние
-`livan_x3_pro_ru_4802dab6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:211 | doc_type:owners_manual
 комбинированные
 фары
 вентилируются, чтобы приспособиться к
@@ -50635,7 +47623,6 @@ EPS
 конструкцией.
 
 ### Когда через вентиляционное отверстие
-`livan_x3_pro_ru_beb2e417` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:211 | doc_type:owners_manual
 водяной
 пар
 попадает
@@ -50670,7 +47657,6 @@ EPS
 •
 
 ### Присутствует
-`livan_x3_pro_ru_00079ceb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 тонкий
 слой
 туманообразной влаги (без разводов,
@@ -50682,7 +47668,6 @@ EPS
 •
 
 ### Площадь
-`livan_x3_pro_ru_1a02e6e0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 покрытия
 туманообразной
 влагой
@@ -50692,7 +47677,6 @@ EPS
 комбинированной фары менее 50%.
 
 ### Следующие
-`livan_x3_pro_ru_3eec0283` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 ситуации
 недопустимы
 (обычно они вызваны протечкой воды из
@@ -50700,7 +47684,6 @@ EPS
 •
 
 ### Внутри
-`livan_x3_pro_ru_e3b39984` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 передней
 комбинированный
 фары образовалась вода.
@@ -50724,7 +47707,6 @@ EPS
 обслуживания LIVAN.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_bea0720d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 7
 8
 6
@@ -50742,7 +47724,6 @@ EPS
 необслуживаемой
 
 ### АКБ.
-`livan_x3_pro_ru_463669a5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:212 | doc_type:owners_manual
 См.
 главу
 "Моторный отсек" в этом разделе, чтобы
@@ -50762,7 +47743,6 @@ EPS
 службы
 
 ### АКБ
-`livan_x3_pro_ru_07804f0d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 и
 обеспечить нормальную работу бортовой
 электросети, ниже приведены некоторые
@@ -50770,7 +47750,6 @@ EPS
 •
 
 ### Избегайте перезарядки аккумулятора
-`livan_x3_pro_ru_8b4a0008` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 или длительный недозаряд.
 •
 При недостаточном напряжении АКБ
@@ -50783,7 +47762,6 @@ EPS
 •
 
 ### Аккумуляторы следует хранить вдали
-`livan_x3_pro_ru_1a3a3b59` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 от источников тепла и открытого огня,
 а также обеспечивать вентиляцию во
 время
@@ -50818,13 +47796,11 @@ EPS
 •
 
 ### Аккумулятор должен быть неподвижно
-`livan_x3_pro_ru_a70fb262` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 закреплен на транспортном средстве
 во избежание вибрации.
 •
 
 ### Регулярно
-`livan_x3_pro_ru_68219b25` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:212 | doc_type:owners_manual
 проверяйте,
 надежно
 ли
@@ -50851,7 +47827,6 @@ EPS
 разрядки
 
 ### АКБ
-`livan_x3_pro_ru_07804f0d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 во
 избежание
 замерзания электролита.
@@ -50859,7 +47834,6 @@ EPS
 Автомобиль оснащен необслуживаемой
 
 ### АКБ
-`livan_x3_pro_ru_07804f0d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 и
 не
 нуждается
@@ -50872,7 +47846,6 @@ EPS
 обслуживания
 
 ### LIVAN
-`livan_x3_pro_ru_d3d4f2af` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 для
 регулярной
 проверки
@@ -50881,7 +47854,6 @@ EPS
 теплоизоляцией АКБ.
 
 ### АКБ
-`livan_x3_pro_ru_07804f0d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
 обязательно
 следует
 осуществлять на устройство аналогичной
@@ -50889,7 +47861,6 @@ EPS
 Для снятия, замены и установки АКБ
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_b0806180` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
 210
 обращайтесь
 в
@@ -50900,7 +47871,6 @@ EPS
 замены
 
 ### АКБ
-`livan_x3_pro_ru_f7d763f9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:213 | doc_type:owners_manual
 передайте
 старое
 устройство
@@ -50926,7 +47896,6 @@ EPS
 транспортировке и хранении.
 
 ### Аккумуляторная
-`livan_x3_pro_ru_a435ef17` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:213 | doc_type:owners_manual
 кислота
 может
 вызвать ожоги, а образующийся газ
@@ -50949,7 +47918,6 @@ EPS
 автомобилем".
 
 ### В состоянии покоя вследствие слабого
-`livan_x3_pro_ru_15a294d6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:213 | doc_type:owners_manual
 потребления тока системой электроцепи
 автомобиля
 аккумулятор
@@ -50964,7 +47932,6 @@ EPS
 отсоединять, чтобы АКБ не разряжалась.
 
 ### Автомобиль
-`livan_x3_pro_ru_18aed3a4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:213 | doc_type:owners_manual
 должен
 храниться
 в
@@ -50985,7 +47952,6 @@ EPS
 старение деталей автомобиля ускорятся.
 
 ### Соблюдайте рекомендации и требования
-`livan_x3_pro_ru_33a3aa08` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:213 | doc_type:owners_manual
 "Руководства по гарантии и техническому
 обслуживанию" и проводите регулярное
 и
@@ -50994,7 +47960,6 @@ EPS
 обслуживание автомобиля.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_1431d44b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:213 | doc_type:owners_manual
 7
 8
 6
@@ -51010,7 +47975,6 @@ EPS
 щетки стеклоочистителя
 
 ### Очиститель
-`livan_x3_pro_ru_b721b7d5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:214 | doc_type:owners_manual
 Какой
 очиститель
 используется
@@ -51044,7 +48008,6 @@ EPS
 незамерзающей жидкости.
 
 ### Откройте крышку с символом очистителя
-`livan_x3_pro_ru_e7ee621e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:214 | doc_type:owners_manual
 и
 добавьте
 достаточное
@@ -51107,7 +48070,6 @@ EPS
 полного заполнения.
 
 ### В систему омывания лобового стекла не
-`livan_x3_pro_ru_f65b2cc7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:214 | doc_type:owners_manual
 допускается
 добавлять
 жидкость
@@ -51125,7 +48087,6 @@ EPS
 автомобиля.
 
 ### Щетка стеклоочистителя
-`livan_x3_pro_ru_bcf8785c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:214 | doc_type:owners_manual
 Жидкости,
 содержащие
 жиры,
@@ -51145,7 +48106,6 @@ EPS
 регулярно проверяйте их состояние.
 
 ### Часто промывайте ветровое стекло и
-`livan_x3_pro_ru_fd372a67` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:214 | doc_type:owners_manual
 старайтесь
 не
 использовать
@@ -51155,7 +48115,6 @@ EPS
 сократит срок ее службы.
 
 ### Если обнаружено затвердевание резины
-`livan_x3_pro_ru_7a39d097` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:214 | doc_type:owners_manual
 или
 трещины,
 или
@@ -51168,7 +48127,6 @@ EPS
 стеклоочистителя.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_0c946e9b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:214 | doc_type:owners_manual
 212
 Регулярно промывайте ветровое стекло
 одобренным
@@ -51180,7 +48138,6 @@ EPS
 убедитесь, что лобовое стекло очищено.
 
 ### Используйте
-`livan_x3_pro_ru_3ad75d01` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 только
 щетки
 стеклоочистителя, которые совпадают по
@@ -51214,7 +48171,6 @@ EPS
 стекла.
 
 ### Замена
-`livan_x3_pro_ru_1e4b2afa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 щетки
 стеклоочистителя
 переднего
@@ -51222,7 +48178,6 @@ EPS
 Модель 1
 
 ### Требуется
-`livan_x3_pro_ru_9e43a7c9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 проверить
 щетку
 стеклоочистителя
@@ -51241,7 +48196,6 @@ EPS
 стекла:
 
 ### 1. Когда
-`livan_x3_pro_ru_22ab1979` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 состояние
 ключа
 зажигания
@@ -51260,7 +48214,6 @@ EPS
 режим обслуживания.
 
 ### 2. Отведите щетку стеклоочистителя от
-`livan_x3_pro_ru_b61de409` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 ветрового стекла.
 3. Нажмите
 на
@@ -51270,7 +48223,6 @@ EPS
 изображении.
 
 ### 4. Потяните
-`livan_x3_pro_ru_bfb3652a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 щетку
 по
 направлении
@@ -51282,7 +48234,6 @@ EPS
 рычага стеклоочистителя.
 
 ### 5. Отсоедините
-`livan_x3_pro_ru_4b4b25ab` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 щетку
 стеклоочистителя.
 Рычаг
@@ -51308,7 +48259,6 @@ EPS
 стеклу.
 
 ### 6. Установите щетки стеклоочистителя в
-`livan_x3_pro_ru_4d59d3d7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 порядке, обратном шагам 2–4.
 Модель 2
 Ремонт и обслуживание
@@ -51323,7 +48273,6 @@ EPS
 213
 
 ### Требуется
-`livan_x3_pro_ru_f8708dc0` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 проверить
 щетку
 стеклоочистителя
@@ -51337,7 +48286,6 @@ EPS
 стекла:
 
 ### 1. Когда
-`livan_x3_pro_ru_56460d3c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 состояние
 переключателя
 зажигания изменится с ON на OFF/
@@ -51352,7 +48300,6 @@ ACC, в течение 30 секунд переведите
 режим обслуживания.
 
 ### 2. Отведите
-`livan_x3_pro_ru_078b8485` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 щетку
 стеклоочистителя
 переднего
@@ -51387,7 +48334,6 @@ ACC, в течение 30 секунд переведите
 автомобиля.
 
 ### 3. Нажав
-`livan_x3_pro_ru_34c0200a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 на
 фиксатор
 щетки
@@ -51396,7 +48342,6 @@ ACC, в течение 30 секунд переведите
 щетку из рычага стеклоочистителя.
 
 ### 4. Отсоедините
-`livan_x3_pro_ru_9e42022f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 щетку
 стеклоочистителя.
 Рычаг
@@ -51420,13 +48365,11 @@ ACC, в течение 30 секунд переведите
 автомобиля.
 
 ### 5. Установите щетки стеклоочистителя в
-`livan_x3_pro_ru_73223745` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 порядке, обратном шагам 2–4.
 Ремонт и обслуживание
 214
 
 ### Замена
-`livan_x3_pro_ru_3fc9866d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 щетки
 стеклоочистителя
 заднего
@@ -51445,7 +48388,6 @@ ACC, в течение 30 секунд переведите
 стекла:
 
 ### 1. Отведите
-`livan_x3_pro_ru_2a2b4684` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 щетку
 стеклоочистителя
 заднего
@@ -51455,7 +48397,6 @@ ACC, в течение 30 секунд переведите
 поверхности стекла.
 
 ### 2. Вращайте
-`livan_x3_pro_ru_29a5e634` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 щетку
 стеклоочистителя
 заднего
@@ -51466,12 +48407,10 @@ ACC, в течение 30 секунд переведите
 щетку.
 
 ### 3. Повторите шаги с 1 по 2, чтобы
-`livan_x3_pro_ru_4188f704` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 установить щетку стеклоочистителя
 заднего ветрового стекла.
 
 ### Очистка и обслуживание
-`livan_x3_pro_ru_3f3af7cb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 автомобиля
 Очистка кузова
 Частая мойка автомобиля способствует
@@ -51487,7 +48426,6 @@ ACC, в течение 30 секунд переведите
 выключатель.
 
 ### Процедура
-`livan_x3_pro_ru_73cac3dc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 необходимо
 выполнять в прохладном месте, не под
 прямыми
@@ -51551,7 +48489,6 @@ ACC, в течение 30 секунд переведите
 удаления спирта.
 
 ### Чистка
-`livan_x3_pro_ru_9d4726c2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 кузова
 с
 помощью
@@ -51571,13 +48508,11 @@ ACC, в течение 30 секунд переведите
 •
 
 ### Обязательно
-`livan_x3_pro_ru_2cd425d2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
 выполняйте очистку
 в
 строгом соответствии с инструкцией
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_475f2bd5` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
 7
 8
 6
@@ -51610,7 +48545,6 @@ ACC, в течение 30 секунд переведите
 поверхности.
 
 ### Сохраняйте
-`livan_x3_pro_ru_f3478c58` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:218 | doc_type:owners_manual
 сопло
 в
 движении,
@@ -51628,7 +48562,6 @@ ACC, в течение 30 секунд переведите
 •
 
 ### Не используйте насадки с множеством
-`livan_x3_pro_ru_2c2aa054` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:218 | doc_type:owners_manual
 отверстий
 для
 очистки
@@ -51690,7 +48623,6 @@ ACC, в течение 30 секунд переведите
 изоляционные материалы.
 
 ### Автоматическая
-`livan_x3_pro_ru_53530a2b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:218 | doc_type:owners_manual
 мойка
 для
 очистки кузова
@@ -51714,7 +48646,6 @@ ACC, в течение 30 секунд переведите
 •
 
 ### Лакокрасочная
-`livan_x3_pro_ru_65b1a430` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:218 | doc_type:owners_manual
 поверхность
 кузова
 достаточно прочная, чтобы выдержать
@@ -51728,7 +48659,6 @@ ACC, в течение 30 секунд переведите
 краску.
 
 ### Степень
-`livan_x3_pro_ru_c797b270` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:218 | doc_type:owners_manual
 воздействия
 в
 основном
@@ -51772,7 +48702,6 @@ ACC, в течение 30 секунд переведите
 кузова автомобиля.
 
 ### Регулярная уборка внутри автомобиля
-`livan_x3_pro_ru_18aaf78a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:218 | doc_type:owners_manual
 способствует улучшению обстановки в
 салоне. Пыль и грязь скапливаются на
 обивке,
@@ -51789,7 +48718,6 @@ ACC, в течение 30 секунд переведите
 могут быстро затвердеть.
 
 ### Используйте небольшую щетку с мягкой
-`livan_x3_pro_ru_9175597a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:218 | doc_type:owners_manual
 щетиной,
 чтобы
 стряхнуть
@@ -51798,7 +48726,6 @@ ACC, в течение 30 секунд переведите
 маленьких кнопок и регуляторов.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_22adca1c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:218 | doc_type:owners_manual
 216
 Для
 очистки внутренних поверхностей
@@ -51852,7 +48779,6 @@ ACC, в течение 30 секунд переведите
 обогреватель заднего стекла.
 
 ### Моющие
-`livan_x3_pro_ru_2d3c97df` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:219 | doc_type:owners_manual
 средства
 содержат
 растворители,
@@ -51871,7 +48797,6 @@ ACC, в течение 30 секунд переведите
 по технике безопасности.
 
 ### При чистке салона автомобиля откройте
-`livan_x3_pro_ru_3f46f3ab` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:219 | doc_type:owners_manual
 двери
 и
 окна,
@@ -51880,7 +48805,6 @@ ACC, в течение 30 секунд переведите
 достаточную вентиляцию.
 
 ### При чистке салона обратите внимание на
-`livan_x3_pro_ru_514cf4b1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:219 | doc_type:owners_manual
 следующее:
 •
 Не используйте лезвия или другие
@@ -51897,7 +48821,6 @@ ACC, в течение 30 секунд переведите
 •
 
 ### Не применяйте силу и не создавайте
-`livan_x3_pro_ru_1d3b2088` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 чрезмерное
 давление
 тряпкой.
@@ -51911,7 +48834,6 @@ ACC, в течение 30 секунд переведите
 •
 
 ### Используйте
-`livan_x3_pro_ru_d485c345` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:219 | doc_type:owners_manual
 только
 мягкое,
 нейтральное
@@ -51950,7 +48872,6 @@ ACC, в течение 30 секунд переведите
 Ткань/напольное покрытие
 
 ### Используйте пылесос с мягкой щеткой
-`livan_x3_pro_ru_a0e7bab3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 для удаления пыли и налета. Для стойких
 пятен попробуйте сначала использовать
 воду или воду с содой. Перед чисткой
@@ -51968,7 +48889,6 @@ ACC, в течение 30 секунд переведите
 размягчиться и впитаться.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_5fe2eec7` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 7
 8
 6
@@ -51985,7 +48905,6 @@ ACC, в течение 30 секунд переведите
 Этапы очистки:
 
 ### 1. Смочите чистую безворсовую белую
-`livan_x3_pro_ru_a039364b` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 тряпку водой или раствором пищевой
 соды.
 2. Отожмите
@@ -51995,7 +48914,6 @@ ACC, в течение 30 секунд переведите
 лишнюю воду.
 
 ### 3. При
-`livan_x3_pro_ru_cce226a1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 удалении
 пятен
 осторожно
@@ -52003,7 +48921,6 @@ ACC, в течение 30 секунд переведите
 на тряпке не перестанет.
 
 ### 4. Если пятно не удается полностью
-`livan_x3_pro_ru_0d957da6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 стереть, повторите описанные выше
 действия
 с
@@ -52042,7 +48959,6 @@ ACC, в течение 30 секунд переведите
 напольного покрытия.
 
 ### Для удаления пыли можно использовать
-`livan_x3_pro_ru_bf5a13bf` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 кусок мягкой ткани, смоченный водой.
 Для
 более
@@ -52058,7 +48974,6 @@ ACC, в течение 30 секунд переведите
 для уборки кожаных поверхностей.
 
 ### Никогда
-`livan_x3_pro_ru_d0172973` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:220 | doc_type:owners_manual
 не
 используйте
 чистящие
@@ -52085,7 +49000,6 @@ ACC, в течение 30 секунд переведите
 поверхностей.
 
 ### Приборная
-`livan_x3_pro_ru_0f34d30e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:220 | doc_type:owners_manual
 панель
 и
 другие
@@ -52102,7 +49016,6 @@ ACC, в течение 30 секунд переведите
 салона.
 
 ### Некоторые
-`livan_x3_pro_ru_2feb5bc8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 имеющиеся
 в
 продаже
@@ -52115,7 +49028,6 @@ ACC, в течение 30 секунд переведите
 серьезно ухудшить видимость.
 
 ### Ремонт и обслуживание
-`livan_x3_pro_ru_6d82834e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 218
 8
 7
@@ -52131,7 +49043,6 @@ ACC, в течение 30 секунд переведите
 автомобиля
 
 ### Основные массогабаритные параметры автомобиля
-`livan_x3_pro_ru_f240fac9` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 Пункт
 Единица
 измерения
@@ -52143,7 +49054,6 @@ LF7154B
 4005
 
 ### Ширина
-`livan_x3_pro_ru_ab7f063e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 автомобиля
 мм
 1760
@@ -52155,7 +49065,6 @@ LF7154B
 1575
 
 ### Ширина колеи
-`livan_x3_pro_ru_69fd104f` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 передних колес
 мм
 1468
@@ -52167,7 +49076,6 @@ LF7154B
 1492
 
 ### Межосевое
-`livan_x3_pro_ru_d4bc0046` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 расстояние
 мм
 2480
@@ -52179,7 +49087,6 @@ LF7154B
 трубы и т. д.
 
 ### Технические данные
-`livan_x3_pro_ru_aafb53de` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 220
 Параметры
 качества
@@ -52189,7 +49096,6 @@ LF7154B
 измерения
 
 ### Тип привода
-`livan_x3_pro_ru_7093e946` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:223 | doc_type:owners_manual
 -
 Передний
 привод
@@ -52201,7 +49107,6 @@ LF7154B
 5
 
 ### Масса без нагрузки
-`livan_x3_pro_ru_cc50f8e1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 кг
 1 180
 1 215
@@ -52212,7 +49117,6 @@ LF7154B
 755
 
 ### Масса задней оси без
-`livan_x3_pro_ru_25cbb971` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 нагрузки
 кг
 454
@@ -52228,7 +49132,6 @@ LF7154B
 856
 
 ### Масса задней оси с нагрузкой
-`livan_x3_pro_ru_981458b1` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 кг
 715
 734
@@ -52239,7 +49142,6 @@ LF7154B
 2-6
 
 ### Свободный ход педали
-`livan_x3_pro_ru_c633e37c` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:223 | doc_type:owners_manual
 тормоза
 мм
 5-15
@@ -52256,7 +49158,6 @@ LF7154B
 221
 
 ### Основные
-`livan_x3_pro_ru_3ee976c4` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 параметры
 двигателя
 Пункт
@@ -52265,7 +49166,6 @@ LF7154B
 JLY-4G15
 
 ### Тип двигателя
-`livan_x3_pro_ru_96fd1b7d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:224 | doc_type:owners_manual
 -
 Рядный 4цилиндровый с
 водяным
@@ -52276,7 +49176,6 @@ JLY-4G15
 и без наддува
 
 ### Диаметр
-`livan_x3_pro_ru_c8b27d07` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:224 | doc_type:owners_manual
 цилиндра х такт
 мм х мм
 77.8x78.8
@@ -52284,7 +49183,6 @@ JLY-4G15
 Рабочий объем
 
 ### Л
-`livan_x3_pro_ru_5489d86e` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 1,498
 1,498
 Степень сжатия
@@ -52298,7 +49196,6 @@ JLY-4G15
 76
 
 ### Номинальная
-`livan_x3_pro_ru_61d4a89a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 скорость
 оборотов
 мощности
@@ -52314,7 +49211,6 @@ JLY-4G15
 5600
 
 ### Максимальный
-`livan_x3_pro_ru_1bc6f9dc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 крутящий момент
 Н*м
 142
@@ -52329,7 +49225,6 @@ JLY-4G15
 4200-4600
 
 ### Скорость
-`livan_x3_pro_ru_ae4295bc` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 оборотов при
 холостом ходе
 об./мин.
@@ -52337,7 +49232,6 @@ JLY-4G15
 700±50 (МКП)
 
 ### Порядок
-`livan_x3_pro_ru_80d2e3bf` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 зажигания
 -
 1-3-4-2
@@ -52348,7 +49242,6 @@ JLY-4G15
 Пункт
 
 ### Единица
-`livan_x3_pro_ru_c94ab221` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 измерения
 LF7154
 LF7154B
@@ -52360,7 +49253,6 @@ LF7154B
 ≥160
 
 ### Максимальный
-`livan_x3_pro_ru_a3f41370` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 преодолеваемый
 подъём
 %
@@ -52370,7 +49262,6 @@ LF7154B
 Пункт
 
 ### Общий расход топлива
-`livan_x3_pro_ru_bef1ddbe` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 л/100 км
 7,4
 Уровень выхлопных газов
@@ -52379,7 +49270,6 @@ LF7154
 LF7154B
 
 ### Уровень выхлопных газов
-`livan_x3_pro_ru_a7e5f2cb` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 Евро-5
 Евро-5
 Технические данные
@@ -52394,7 +49284,6 @@ LF7154B
 223
 
 ### Модель шин
-`livan_x3_pro_ru_49e609e8` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 Пункт
 Параметры
 Спецификация колесных дисков
@@ -52402,7 +49291,6 @@ LF7154B
 Спецификация шин
 
 ### Спецификация шин
-`livan_x3_pro_ru_11463f85` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 16x3.5B
 T125/80 D16
 Величина
@@ -52410,7 +49298,6 @@ T125/80 D16
 дисбаланса шин
 
 ### Колесные диски
-`livan_x3_pro_ru_03684e1a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 Шина
 Величина
 динамического
@@ -52420,7 +49307,6 @@ T125/80 D16
 ≤8г
 
 ### Давление
-`livan_x3_pro_ru_0c00bfed` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 в
 шине
 (холодное
@@ -52429,7 +49315,6 @@ T125/80 D16
 Единица измерения
 
 ### Передние колеса
-`livan_x3_pro_ru_9b2e4603` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 кПа
 220
 Задние колеса
@@ -52440,7 +49325,6 @@ T125/80 D16
 420
 
 ### Технические данные
-`livan_x3_pro_ru_f9db3ba3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 224
 Масло
 Рекомендуемое
@@ -52452,7 +49336,6 @@ T125/80 D16
 Объем
 
 ### Бензин
-`livan_x3_pro_ru_b9610827` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 Пожалуйста, заправляйте топливный
 бак в соответствии с требованиями к
 расходу топлива, указанными на
@@ -52460,14 +49343,12 @@ T125/80 D16
 45 л
 
 ### Моторное масло
-`livan_x3_pro_ru_7d55a32d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:227 | doc_type:owners_manual
 SAE 0W-30，API Уровень качества:
 уровень SL и выше
 4,0 л (сух.)
 3,5 л (жидк.)
 
 ### Жидкость для
-`livan_x3_pro_ru_f3dc527d` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 охлаждения
 двигателя
 Охлаждающая жидкость на основе
@@ -52477,7 +49358,6 @@ SAE 0W-30，API Уровень качества:
 5,65±0,3 л
 
 ### CVTF-WCF-1
-`livan_x3_pro_ru_cfa33b46` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:227 | doc_type:owners_manual
 7,2±0,2 л (сух.)
 5,4±0,1 л (жидк.)
 Масло для МКПП
@@ -52485,7 +49365,6 @@ API GLуровень 4 SAE 75W-85
 2±0,15 л
 
 ### Тормозная
-`livan_x3_pro_ru_a3c72a40` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:227 | doc_type:owners_manual
 жидкость
 Соответствует DOT4 или HZY4
 0,47±0,01 л
@@ -52493,47 +49372,29 @@ API GLуровень 4 SAE 75W-85
 стеклоочистителя
 
 ### Используйте воду с жесткостью ниже
-`livan_x3_pro_ru_639d3535` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 205 г/1000 кг или водный раствор с
 соответствующим количеством
 коммерческих добавок
 3,5±0,1 л
 
 ### Хладагент
-`livan_x3_pro_ru_034525f6` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 кондиционера
 R134a
 450±20 г
 Технические данные
 Указатель
 
-`livan_x3_pro_ru_33ce0ffa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:228 | doc_type:owners_manual
-
-### Внутреннее освещение
-`livan_x3_pro_ru_76842ef3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
-
-### Внутренний блок
-`livan_x3_pro_ru_02d02918` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
-
-### Выбор детского защитного
-`livan_x3_pro_ru_9c80a83a` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
 
 ### Информация о системе
-`livan_x3_pro_ru_1fdc34aa` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
 Информация о
 трехкомпонентном
 каталитическом нейтрализаторе
 отработавших газов двигателя
 
-### Проверка охлаждающей
-`livan_x3_pro_ru_507b1a37` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 
 ### Сигнальные и индикаторные
-`livan_x3_pro_ru_d6bd99b3` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 Система вызова экстренных
 оперативных служб (ЭРА-
 
 ### Установка детских средств
-`livan_x3_pro_ru_51331bf2` | x3_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 Установка запасного колеса ........ 172
-

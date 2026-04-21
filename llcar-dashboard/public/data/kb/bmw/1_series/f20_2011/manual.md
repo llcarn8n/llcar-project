@@ -1,8 +1,12 @@
-# Manual: bmw/1_series_f20 (229 chunks)
-<!-- doc_type:owners_manual tier:2 lang:ru -->
+---
+brand: bmw
+model: 1_series
+generation: f20_2011
+source: kb
+---
+
 
 ### Руководство по
-`bmw_1_series_f20_ru_9bb63d07` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:steering | p:1
 
 Руководство по
 эксплуатации
@@ -18,7 +22,6 @@ A-Z
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### 1 серии
-`bmw_1_series_f20_ru_72113c32` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:3
 
 1 серии
 Руководство по эксплуатации автомобиля
@@ -45,7 +48,6 @@ BMW AG
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### © 2012 Bayerische Motoren Werke
-`bmw_1_series_f20_ru_a5037903` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:4
 
 © 2012 Bayerische Motoren Werke
 Aktiengesellschaft
@@ -59,7 +61,6 @@ Muenchen, Deutschland
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Содержание
-`bmw_1_series_f20_ru_85e92abc` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:5
 
 Содержание
 Интересующие Вас темы легче всего найти с
@@ -141,7 +142,6 @@ iDrive
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Примечания
-`bmw_1_series_f20_ru_7aebb224` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:6
 
 Примечания
 К настоящему руководству
@@ -214,7 +214,6 @@ www.bmw.ru
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Актуальность руководства
-`bmw_1_series_f20_ru_0f9d1a4c` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:safety | p:7
 
 Актуальность руководства
 по эксплуатации
@@ -304,7 +303,6 @@ BMW не в состоянии судить о безопасности и
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### ние систем регулировки устойчивости
-`bmw_1_series_f20_ru_c975750f` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:8
 
 ние систем регулировки устойчивости
 движения.
@@ -351,7 +349,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Обзор
-`bmw_1_series_f20_ru_3f3b5612` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:11
 
 Обзор
 Обзор клавиш, переключателей и индикаторов
@@ -362,7 +359,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Место водителя
-`bmw_1_series_f20_ru_a9a75894` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:12
 
 Место водителя
 Оснащение автомобиля
@@ -403,7 +399,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Стояночные огни  93
-`bmw_1_series_f20_ru_93c8eeb8` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:13
 
 Стояночные огни  93
 Ближний свет  93
@@ -473,7 +468,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### В зоне центральной консоли
-`bmw_1_series_f20_ru_a5058340` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:14
 
 В зоне центральной консоли
 1
@@ -517,7 +511,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### В зоне потолка
-`bmw_1_series_f20_ru_24c2ecd0` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:15
 
 В зоне потолка
 1
@@ -537,7 +530,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### iDrive
-`bmw_1_series_f20_ru_96be8fa3` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:16
 
 iDrive
 Оснащение автомобиля
@@ -633,7 +625,6 @@ iDrive
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Кнопки на контроллере
-`bmw_1_series_f20_ru_40a1d7b5` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:18
 
 Кнопки на контроллере
 Кнопка
@@ -689,7 +680,6 @@ iDrive
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Белые стрелки влево или вправо показы‐
-`bmw_1_series_f20_ru_25f7157e` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:19
 
 Белые стрелки влево или вправо показы‐
 вают, что можно открыть другие окна.
@@ -743,7 +733,6 @@ iDrive
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Пример: установка времени
-`bmw_1_series_f20_ru_4d65f18f` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:20
 
 Пример: установка времени
 Установка времени
@@ -816,7 +805,6 @@ iDrive
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Пиктограмма Значение
-`bmw_1_series_f20_ru_3456be9e` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:21
 
 Пиктограмма Значение
  
@@ -894,7 +882,6 @@ iDrive
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Кнопки быстрого доступа
-`bmw_1_series_f20_ru_4582472c` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:22
 
 Кнопки быстрого доступа
 Общие положения
@@ -970,7 +957,6 @@ iDrive
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Переключение между заглавными/
-`bmw_1_series_f20_ru_52c9020e` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:23
 
 Переключение между заглавными/
 строчными буквами, цифрами и
@@ -1011,7 +997,6 @@ iDrive
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Система голосового управления
-`bmw_1_series_f20_ru_81a71422` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:24
 
 Система голосового управления
 Оснащение автомобиля
@@ -1094,7 +1079,6 @@ iDrive.
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Прослушивание команд в
-`bmw_1_series_f20_ru_b1acf5cd` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:25
 
 Прослушивание команд в
 исполнении системы
@@ -1183,7 +1167,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Регулировка громкости
-`bmw_1_series_f20_ru_50a5b596` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:26
 
 Регулировка громкости
 Во время голосового оповещения поверните
@@ -1236,7 +1219,6 @@ Classic Radio
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Встроенное руководство по
-`bmw_1_series_f20_ru_dbe08803` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:27
 
 Встроенное руководство по
 эксплуатации в автомобиле
@@ -1311,7 +1293,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Контекстная помощь - мгновенное
-`bmw_1_series_f20_ru_e2db9e02` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:28
 
 Перелистать назад.
 Листать вперед.
@@ -1388,7 +1369,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Встроенное руководство по эксплуатации в автомобиле
-`bmw_1_series_f20_ru_9bf693f2` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:29
 
 Встроенное руководство по эксплуатации в автомобиле
 Обзор
@@ -1397,7 +1377,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Управление
-`bmw_1_series_f20_ru_5874bf19` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:safety | p:31
 
 Управление
 Данная глава позволит Вам уверенно овладеть
@@ -1407,7 +1386,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Открывание и закрывание
-`bmw_1_series_f20_ru_7c210bd3` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:32
 
 Открывание и закрывание
 Оснащение автомобиля
@@ -1469,7 +1447,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Отдать старую батарею в пункт сбора
-`bmw_1_series_f20_ru_889cbfbb` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:33
 
 Отдать старую батарею в пункт сбора
 или на СТОА.
@@ -1555,7 +1532,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Управление профилем
-`bmw_1_series_f20_ru_2c42403c` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:34
 
 Управление профилем
 Вызов профиля
@@ -1628,7 +1604,6 @@ BMW Online: „BMW Online“
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Разъем USB: „Устройство USB“
-`bmw_1_series_f20_ru_f547ccd7` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:35
 
 Разъем USB: „Устройство USB“
 Использование гостевого профиля
@@ -1740,7 +1715,6 @@ CD/мультимедиа, последний прослуши‐
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Через ручки двери водителя или пере‐
-`bmw_1_series_f20_ru_c8a5ca9d` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:36
 
 ▷
 Через ручки двери водителя или пере‐
@@ -1817,7 +1791,6 @@ Professional: „Эл. ключ:“
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### ном нажатии отпирается весь автомо‐
-`bmw_1_series_f20_ru_43d85d6c` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:37
 
 ном нажатии отпирается весь автомо‐
 биль.
@@ -1900,7 +1873,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### заднего стекла. Следите за защитной окан‐
-`bmw_1_series_f20_ru_b05b3a3f` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:38
 
 заднего стекла. Следите за защитной окан‐
 товкой.◀
@@ -1985,7 +1957,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Отоприте и откройте дверь водителя или
-`bmw_1_series_f20_ru_808cc7ed` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:39
 
 2.
 Отоприте и откройте дверь водителя или
@@ -2062,7 +2033,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Открывание снаружи
-`bmw_1_series_f20_ru_d0c5711d` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:40
 
 Открывание снаружи
 ▷
@@ -2115,7 +2085,6 @@ BMW.
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Комфортный доступ
-`bmw_1_series_f20_ru_20c46511` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:interior | p:41
 
 Комфортный доступ
 Принцип действия
@@ -2186,7 +2155,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Отдельно отоприте багажную дверь
-`bmw_1_series_f20_ru_020aae61` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:42
 
 Отдельно отоприте багажную дверь
 Нажмите на верхнюю часть эмблемы BMW на
@@ -2276,7 +2244,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Выключение сигнала
-`bmw_1_series_f20_ru_29162138` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:43
 
 Выключение сигнала
 ▷
@@ -2358,7 +2325,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Пятидверный автомобиль
-`bmw_1_series_f20_ru_4c78f7c9` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:44
 
 Пятидверный автомобиль
 Трехдверный автомобиль
@@ -2427,7 +2393,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Закрывание без травмозащитной
-`bmw_1_series_f20_ru_dcbb0d92` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:45
 
 Закрывание без травмозащитной
 функции
@@ -2503,7 +2468,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### сте, пока удерживается пе‐
-`bmw_1_series_f20_ru_b8218252` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:46
 
 сте, пока удерживается пе‐
 реключатель.
@@ -2589,7 +2553,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Нажмите переключатель вверх
-`bmw_1_series_f20_ru_bf5d8c01` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:47
 
 Нажмите переключатель вверх
 и удерживайте его в этом поло‐
@@ -2609,7 +2572,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Регулировка
-`bmw_1_series_f20_ru_911b4422` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:48
 
 Регулировка
 Оснащение автомобиля
@@ -2677,7 +2639,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### После отпускания рычага слегка подвигать
-`bmw_1_series_f20_ru_29adeafc` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:suspension | p:49
 
 После отпускания рычага слегка подвигать
 сиденье вперед-назад, чтобы оно правильно
@@ -2722,7 +2683,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Подробности настроек
-`bmw_1_series_f20_ru_05dfe632` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:suspension | p:50
 
 Подробности настроек
 1.
@@ -2763,7 +2723,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Трехдверный автомобиль: вход в
-`bmw_1_series_f20_ru_c6dee582` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:51
 
 Трехдверный автомобиль: вход в
 заднюю часть
@@ -2836,7 +2795,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Обогрев сиденья спереди
-`bmw_1_series_f20_ru_2dcfda6c` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:52
 
 Обогрев сиденья спереди
 Включение
@@ -2912,7 +2870,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### эффективность удерживающей функции
-`bmw_1_series_f20_ru_75a5debc` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:interior | p:53
 
 эффективность удерживающей функции
 ремня безопасности может снизиться.◀
@@ -2986,7 +2943,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Регулировка по высоте
-`bmw_1_series_f20_ru_9400b287` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:54
 
 Регулировка по высоте
 Отрегулируйте подголовник так, чтобы его
@@ -3045,7 +3001,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Откиньте подголовник
-`bmw_1_series_f20_ru_36be4404` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:interior | p:55
 
 Откиньте подголовник
 Откиньте/сложите подголовники
@@ -3109,7 +3064,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### ожиданного движения сиденья или рулевого
-`bmw_1_series_f20_ru_de2dd8de` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:steering | p:56
 
 ожиданного движения сиденья или рулевого
 колеса.◀
@@ -3186,7 +3140,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Запись положений в память
-`bmw_1_series_f20_ru_ac8d41fb` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:57
 
 Запись положений в память
 Память положений сиденья и зеркал, см.
@@ -3253,7 +3206,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Внутреннее зеркало с
-`bmw_1_series_f20_ru_a68415e4` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:58
 
 Внутреннее зеркало с
 автоматическим затемнением
@@ -3306,7 +3258,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Безопасная перевозка детей
-`bmw_1_series_f20_ru_d940517d` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:59
 
 Безопасная перевозка детей
 Оснащение автомобиля
@@ -3383,7 +3334,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Примечания
-`bmw_1_series_f20_ru_49155934` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:safety | p:60
 
 Примечания
 Инструкции изготовителя удерживаю‐
@@ -3464,7 +3414,6 @@ ISOFIX
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Подходящие детские сиденья
-`bmw_1_series_f20_ru_db0cc8be` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:61
 
 Подходящие детские сиденья
 системы ISOFIX
@@ -3525,7 +3474,6 @@ G - ISO/L2
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Точки крепления
-`bmw_1_series_f20_ru_6f1a36f8` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:interior | p:62
 
 Точки крепления
 Для крепления верхнего страховочного
@@ -3592,7 +3540,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Вождение
-`bmw_1_series_f20_ru_3066f78a` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:63
 
 Вождение
 Оснащение автомобиля
@@ -3675,7 +3622,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### При запирании, также при включенном
-`bmw_1_series_f20_ru_f1505862` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:safety | p:64
 
 ▷
 При запирании, также при включенном
@@ -3770,7 +3716,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Включение выполняется автоматически и
-`bmw_1_series_f20_ru_36a15cc3` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:engine | p:65
 
 Включение выполняется автоматически и
 завершается, как только начинает работать
@@ -3854,7 +3799,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Остановка двигателя
-`bmw_1_series_f20_ru_fd8a9b16` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:66
 
 Остановка двигателя
 Двигатель во время остановки автоматически
@@ -3958,7 +3902,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Воздух в салоне сильно прогревается при
-`bmw_1_series_f20_ru_dd36c4da` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:67
 
 ▷
 Воздух в салоне сильно прогревается при
@@ -4046,7 +3989,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Снятие с тормоза
-`bmw_1_series_f20_ru_32c250e8` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:68
 
 Снятие с тормоза
 Немного потяните рычаг вверх, нажмите
@@ -4107,7 +4049,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### „3-кратное мигание“
-`bmw_1_series_f20_ru_19c40b54` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:69
 
 3.
 „3-кратное мигание“
@@ -4159,7 +4100,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### После отпускания рычаг возвращается в ис‐
-`bmw_1_series_f20_ru_3c8676f8` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:suspension | p:70
 
 После отпускания рычаг возвращается в ис‐
 ходное положение.
@@ -4220,7 +4160,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Форсунки стеклоомывателей
-`bmw_1_series_f20_ru_a365611a` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:suspension | p:71
 
 Форсунки стеклоомывателей
 При включенном зажигании автоматически
@@ -4293,7 +4232,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Жидкость ко всем форсункам подается из од‐
-`bmw_1_series_f20_ru_b34a6056` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:72
 
 Жидкость ко всем форсункам подается из од‐
 ного бачка.
@@ -4365,7 +4303,6 @@ P: парковка
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### мобиль может самопроизвольно тронуться с
-`bmw_1_series_f20_ru_0e8c40ed` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:73
 
 мобиль может самопроизвольно тронуться с
 места.
@@ -4419,7 +4356,6 @@ Shiftlock (блокировка рычага селектора
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Активирована программа Спорт коробки пе‐
-`bmw_1_series_f20_ru_20059430` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:suspension | p:74
 
 Активирована программа Спорт коробки пе‐
 редач.
@@ -4508,7 +4444,6 @@ DSC выключена.
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Переключение на высшую или низшую пере‐
-`bmw_1_series_f20_ru_2d382931` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:75
 
 Переключение на высшую или низшую пере‐
 дачу происходит только при соответствую‐
@@ -4528,7 +4463,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Индикация
-`bmw_1_series_f20_ru_ca36776a` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:76
 
 Индикация
 Оснащение автомобиля
@@ -4561,7 +4495,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Обзор, Расширенная комбинация приборов
-`bmw_1_series_f20_ru_36344581` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:77
 
 Обзор, Расширенная комбинация приборов
 1
@@ -4582,7 +4515,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Электронная индикация
-`bmw_1_series_f20_ru_233a5c91` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:78
 
 Электронная индикация
 Обзор, комбинация приборов
@@ -4608,7 +4540,6 @@ ECO PRO Дополнительный запас
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Обзор, Расширенная комбинация приборов
-`bmw_1_series_f20_ru_25f3c603` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:79
 
 Обзор, Расширенная комбинация приборов
 1
@@ -4659,7 +4590,6 @@ ECO PRO Дополнительный запас
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Контрольные/сигнальные лампы
-`bmw_1_series_f20_ru_cd86bdb6` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:80
 
 Контрольные/сигнальные лампы
 Контрольные и сигнальные лампы могут за‐
@@ -4715,7 +4645,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Пикто‐
-`bmw_1_series_f20_ru_2e0524e4` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:81
 
 Пикто‐
 грамма
@@ -4800,7 +4729,6 @@ ABS
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Указатель уровня топлива
-`bmw_1_series_f20_ru_f9b956aa` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:82
 
 Указатель уровня топлива
 Наклон автомобиля может при‐
@@ -4871,7 +4799,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Дальность действия
-`bmw_1_series_f20_ru_6122583c` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:83
 
 Дальность действия
 При снижении уровня топлива
@@ -4940,7 +4867,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Показание в комбинации прибо‐
-`bmw_1_series_f20_ru_40018725` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:maintenance | p:84
 
 Показание в комбинации прибо‐
 ров.
@@ -5032,7 +4958,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### „Очередное ТО“
-`bmw_1_series_f20_ru_41e75fe7` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:maintenance | p:85
 
 3.
   „Очередное ТО“
@@ -5111,7 +5036,6 @@ No Passing Information с помощью соответ‐
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### В странах, в которых запрет обгона ука‐
-`bmw_1_series_f20_ru_6ea22c93` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:86
 
 ▷
 В странах, в которых запрет обгона ука‐
@@ -5199,7 +5123,6 @@ No Passing Information не‐
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### В областях, не учитываемых системой на‐
-`bmw_1_series_f20_ru_babbd906` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:87
 
 ▷
 В областях, не учитываемых системой на‐
@@ -5250,7 +5173,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Бортовой компьютер
-`bmw_1_series_f20_ru_94cf9b13` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:suspension | p:88
 
 Бортовой компьютер
 Вызов информации на
@@ -5323,7 +5245,6 @@ ECO PRO Дополнительный запас хода.
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Восстановление средних значений
-`bmw_1_series_f20_ru_1ccf4896` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:89
 
 Восстановление средних значений
 Нажмите и удерживайте клавишу BC на ры‐
@@ -5401,7 +5322,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Сброс путевого бортового
-`bmw_1_series_f20_ru_e0996865` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:90
 
 Сброс путевого бортового
 компьютера
@@ -5474,7 +5394,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Вращайте контроллер для установки ми‐
-`bmw_1_series_f20_ru_3aa2e873` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:91
 
 6.
 Вращайте контроллер для установки ми‐
@@ -5577,7 +5496,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Освещение
-`bmw_1_series_f20_ru_7161a942` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:93
 
 Освещение
 Оснащение автомобиля
@@ -5655,7 +5573,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### „Приветственный свет“
-`bmw_1_series_f20_ru_7d7a1a17` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:94
 
 3.
 „Приветственный свет“
@@ -5716,7 +5633,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Габаритные огни
-`bmw_1_series_f20_ru_422405ea` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:suspension | p:95
 
 Габаритные огни
 Автомобиль может быть освещен с одной
@@ -5793,7 +5709,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### 2 / 2 = 1 пассажир, полное багажное отделе‐
-`bmw_1_series_f20_ru_6e28cfbe` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:96
 
 2 / 2 = 1 пассажир, полное багажное отделе‐
 ние.
@@ -5870,7 +5785,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### железнодорожной линии или судоход‐
-`bmw_1_series_f20_ru_b65dc071` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:engine | p:97
 
 железнодорожной линии или судоход‐
 ного канала рядом с дорогой, диких жи‐
@@ -5946,7 +5860,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Адаптивное освещение поворотов
-`bmw_1_series_f20_ru_2ac36644` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:98
 
 Адаптивное освещение поворотов
 При движении по местности, в которой дви‐
@@ -6012,7 +5925,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Настройка яркости
-`bmw_1_series_f20_ru_bd1cc541` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:99
 
 Настройка яркости
 Яркость фонового освещения можно на‐
@@ -6033,7 +5945,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Безопасность
-`bmw_1_series_f20_ru_9473289e` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:safety | p:100
 
 Безопасность
 Оснащение автомобиля
@@ -6074,7 +5985,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Защитное действие
-`bmw_1_series_f20_ru_da89b5ea` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:safety | p:101
 
 Защитное действие
 Надувные подушки безопасности срабаты‐
@@ -6175,7 +6085,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Работоспособность подушек
-`bmw_1_series_f20_ru_3bf6e8a0` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:102
 
 Работоспособность подушек
 безопасности
@@ -6251,7 +6160,6 @@ ON. На упоре выньте его.
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Контрольная лампа НПБ переднего
-`bmw_1_series_f20_ru_432c0e1f` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:interior | p:103
 
 Контрольная лампа НПБ переднего
 пассажира
@@ -6334,7 +6242,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### вреждения шины. Инициализация запу‐
-`bmw_1_series_f20_ru_cee9971b` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:tires | p:104
 
 вреждения шины. Инициализация запу‐
 скается при подтверждении значений
@@ -6431,7 +6338,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### инициализирован. Инициализируйте си‐
-`bmw_1_series_f20_ru_6f6978e5` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:tires | p:105
 
 инициализирован. Инициализируйте си‐
 стему.
@@ -6508,7 +6414,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Срочное предупреждение
-`bmw_1_series_f20_ru_374d2145` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:106
 
 Срочное предупреждение
 Предупреждение о прямой опасности стол‐
@@ -6583,7 +6488,6 @@ iDrive.
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Медленный автомобиль при приближении
-`bmw_1_series_f20_ru_657af874` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:tires | p:107
 
 ▷
 Медленный автомобиль при приближении
@@ -6661,7 +6565,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### При предупреждении не нужно без необходи‐
-`bmw_1_series_f20_ru_de91e724` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:108
 
 При предупреждении не нужно без необходи‐
 мости сильно поворачивать рулевое колесо,
@@ -6806,7 +6709,6 @@ COMFORT.
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Изменение предела скорости
-`bmw_1_series_f20_ru_bb19de13` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:110
 
 Изменение предела скорости
 Нажимайте на двухпозиционный переключа‐
@@ -6883,7 +6785,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Динамические стоп-
-`bmw_1_series_f20_ru_b5c4b4de` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:111
 
 Динамические стопсигналы
 Принцип действия
@@ -6907,7 +6808,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Системы регулировки устойчивости
-`bmw_1_series_f20_ru_77026637` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:112
 
 Системы регулировки устойчивости
 движения
@@ -6978,7 +6878,6 @@ DSC определяет при этом неустойчивое по‐
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Выключение системы DSC
-`bmw_1_series_f20_ru_6c141576` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:113
 
 Выключение системы DSC
 Удерживайте клавишу нажатой (но не
@@ -7057,7 +6956,6 @@ DSC происходит дальнейшая оптимизация
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### вляемых передних колес. Рулевое
-`bmw_1_series_f20_ru_aec9b0a3` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:steering | p:114
 
 вляемых передних колес. Рулевое
 управление становится менее независимым.
@@ -7139,7 +7037,6 @@ SPORT
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Программу можно конфигурировать индиви‐
-`bmw_1_series_f20_ru_dc56b154` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:steering | p:115
 
 Программу можно конфигурировать индиви‐
 дуально. Конфигурация сохраняется в памяти
@@ -7218,7 +7115,6 @@ ECO PRO, см. стр. 160, обеспечивает после‐
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Выбранная программа
-`bmw_1_series_f20_ru_17967054` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:116
 
 Выбранная программа
 Выбранная программа отобра‐
@@ -7260,7 +7156,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Комфортность езды
-`bmw_1_series_f20_ru_1b20ffa8` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:117
 
 Комфортность езды
 Оснащение автомобиля
@@ -7331,7 +7226,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Перерыв
-`bmw_1_series_f20_ru_2046c9d6` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:118
 
 Перерыв
 Во включенном состоянии нажмите
@@ -7409,7 +7303,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Индикация на комбинации приборов
-`bmw_1_series_f20_ru_f358e1b0` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:119
 
 Индикация на комбинации приборов
 Контрольная лампа
@@ -7485,7 +7378,6 @@ PDC не может заменить оценку дорожной си‐
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Обзор
-`bmw_1_series_f20_ru_533258b6` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:120
 
 Обзор
 Клавиша в автомобиле
@@ -7563,7 +7455,6 @@ PDC
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Изображение выводится на дисплей, как
-`bmw_1_series_f20_ru_60484a6f` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:121
 
 Изображение выводится на дисплей, как
 только активируется PDC.
@@ -7667,7 +7558,6 @@ PDC может подавать предупреждение, хотя в
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### этом поддерживайте расстояние не менее
-`bmw_1_series_f20_ru_b3b02c93` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:122
 
 этом поддерживайте расстояние не менее
 30 см.
@@ -7724,7 +7614,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Включение видеокамеры заднего
-`bmw_1_series_f20_ru_46639c13` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:123
 
 Включение видеокамеры заднего
 вида через систему iDrive
@@ -7795,7 +7684,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Выделение препятствия
-`bmw_1_series_f20_ru_3f4051f7` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:124
 
 Выделение препятствия
 ▷
@@ -7856,7 +7744,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Физические границы работы
-`bmw_1_series_f20_ru_c1348006` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:125
 
 Физические границы работы
 системы
@@ -7930,7 +7817,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Подходящие свободные промежутки
-`bmw_1_series_f20_ru_61c058ee` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:126
 
 Подходящие свободные промежутки
 ▷
@@ -8000,7 +7886,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Статус системы
-`bmw_1_series_f20_ru_48e269b9` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:steering | p:127
 
 Статус системы
 Статус показывается символами.
@@ -8078,7 +7963,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### При включении указателя поворота в про‐
-`bmw_1_series_f20_ru_63f1d271` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:128
 
 ▷
 При включении указателя поворота в про‐
@@ -8180,7 +8064,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Кондиционирование
-`bmw_1_series_f20_ru_9e589b58` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:129
 
 Кондиционирование
 Оснащение автомобиля
@@ -8216,7 +8099,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Подробное описание функций
-`bmw_1_series_f20_ru_ced95387` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:interior | p:130
 
 Подробное описание функций
 кондиционера
@@ -8295,7 +8177,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Продолжительный режим рециркуля‐
-`bmw_1_series_f20_ru_dfe475bb` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:interior | p:131
 
 Продолжительный режим рециркуля‐
 ции
@@ -8347,7 +8228,6 @@ AUC/режим рециркуляции
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### 12 Распределение потоков воздуха, левая
-`bmw_1_series_f20_ru_d596e954` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:interior | p:132
 
 12 Распределение потоков воздуха, левая
 сторона
@@ -8421,7 +8301,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Режим охлаждения включается автоматиче‐
-`bmw_1_series_f20_ru_d923bf90` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:interior | p:133
 
 Режим охлаждения включается автоматиче‐
 ски вместе с программой AUTO.
@@ -8512,7 +8391,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### воспользоваться преимуществами датчика
-`bmw_1_series_f20_ru_2b1324af` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:134
 
 воспользоваться преимуществами датчика
 запотевания.
@@ -8583,7 +8461,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Систему можно включить или выключить при
-`bmw_1_series_f20_ru_12bb6b75` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:135
 
 Систему можно включить или выключить при
 любой температуре наружного воздуха, за‐
@@ -8634,7 +8511,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Оборудование салона
-`bmw_1_series_f20_ru_1c5c0516` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:interior | p:136
 
 Оборудование салона
 Оснащение автомобиля
@@ -8690,7 +8566,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Передняя центральная консоль
-`bmw_1_series_f20_ru_b62aad2b` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:137
 
 Передняя центральная консоль
 Снимите крышку или прикуриватель.
@@ -8726,7 +8601,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Примечания
-`bmw_1_series_f20_ru_103562ba` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:138
 
 Примечания
 При подключении учитывайте следующее:
@@ -8808,7 +8682,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Использование среднего ремня без‐
-`bmw_1_series_f20_ru_7878d15b` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:interior | p:139
 
 Использование среднего ремня без‐
 опасности
@@ -8858,7 +8731,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Откиньте три проушины на спинках за‐
-`bmw_1_series_f20_ru_122288b3` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:140
 
 4.
 Откиньте три проушины на спинках за‐
@@ -8885,7 +8757,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Места для хранения
-`bmw_1_series_f20_ru_17d5f3b6` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:141
 
 Места для хранения
 Оснащение автомобиля
@@ -8961,7 +8832,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Сторона переднего пассажира
-`bmw_1_series_f20_ru_f2d7c515` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:142
 
 Сторона переднего пассажира
 Открывание
@@ -9015,7 +8885,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### С двумя задними сиденьями:
-`bmw_1_series_f20_ru_9f7ddcc3` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:interior | p:143
 
 С двумя задними сиденьями:
 отделение для мелких
@@ -9076,7 +8945,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Места для хранения в
-`bmw_1_series_f20_ru_87e1096a` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:144
 
 Места для хранения в
 багажном отсеке
@@ -9132,7 +9000,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Полезно знать
-`bmw_1_series_f20_ru_82ccadab` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:147
 
 Полезно знать
 Глава "Полезно знать" предоставит Вам
@@ -9142,7 +9009,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Особенности эксплуатации
-`bmw_1_series_f20_ru_1c885eef` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:148
 
 Особенности эксплуатации
 Оснащение автомобиля
@@ -9218,7 +9084,6 @@ KickDown.
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Если все же требуется двигаться с открытой
-`bmw_1_series_f20_ru_d64a4a51` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:149
 
 Если все же требуется двигаться с открытой
 крышкой багажника:
@@ -9308,7 +9173,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Автомобиль сохранит управляемость. Слу‐
-`bmw_1_series_f20_ru_d122939a` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150
 
 Автомобиль сохранит управляемость. Слу‐
 чайные препятствия можно объехать, вращая
@@ -9392,7 +9256,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Нагрузка
-`bmw_1_series_f20_ru_2ce997f1` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:151
 
 Нагрузка
 Оснащение автомобиля
@@ -9463,7 +9326,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Напольная сетка вставляется в проушины в
-`bmw_1_series_f20_ru_1bd1bcd0` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:152
 
 Напольная сетка вставляется в проушины в
 полу багажного отделения.
@@ -9539,7 +9401,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Движение с прицепом
-`bmw_1_series_f20_ru_53a72eac` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:153
 
 Движение с прицепом
 Оснащение автомобиля
@@ -9620,7 +9481,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Задние габаритные фонари: на каждую
-`bmw_1_series_f20_ru_aa612a09` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:ev | p:154
 
 ▷
 Задние габаритные фонари: на каждую
@@ -9702,7 +9562,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Контроль устойчивости
-`bmw_1_series_f20_ru_abaef15d` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:155
 
 Контроль устойчивости
 прицепа
@@ -9756,7 +9615,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Шаровая головка, обзор
-`bmw_1_series_f20_ru_34208d17` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:suspension | p:156
 
 Шаровая головка, обзор
 1
@@ -9844,7 +9702,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Достать маховичок, стрелка 1, и повер‐
-`bmw_1_series_f20_ru_b3d0fbbf` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:157
 
 4.
 Достать маховичок, стрелка 1, и повер‐
@@ -9882,7 +9739,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Экономия топлива
-`bmw_1_series_f20_ru_6c0de4f7` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:158
 
 Экономия топлива
 Оснащение автомобиля
@@ -9952,7 +9808,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Избежание большого числа
-`bmw_1_series_f20_ru_e6cacb2f` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:159
 
 Избежание большого числа
 оборотов
@@ -10030,7 +9885,6 @@ Stop & Go.
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### ECO PRO
-`bmw_1_series_f20_ru_c166a52d` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:interior | p:160
 
 ECO PRO
 Принцип действия
@@ -10110,7 +9964,6 @@ ECO PRO.
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Потенциал ECO PRO
-`bmw_1_series_f20_ru_8decfadc` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:steering | p:161
 
 Потенциал ECO PRO
 Показывается процент возможной экономии
@@ -10181,7 +10034,6 @@ ECO PRO в комбинации приборов, если акти‐
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Пикто‐
-`bmw_1_series_f20_ru_4c5a2714` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:162
 
 Пикто‐
 грамма
@@ -10245,7 +10097,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Мобильность
-`bmw_1_series_f20_ru_8e4b6afc` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:maintenance | p:165
 
 Мобильность
 Для гарантии постоянной мобильности далее
@@ -10255,7 +10106,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Заправка топливом
-`bmw_1_series_f20_ru_6b19d0ec` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:166
 
 Заправка топливом
 Оснащение автомобиля
@@ -10310,7 +10160,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Потяните зеленую кнопку с изображением
-`bmw_1_series_f20_ru_c5564e80` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:167
 
 Потяните зеленую кнопку с изображением
 бензоколонки. Лючок топливного бака от‐
@@ -10342,7 +10191,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Топливо
-`bmw_1_series_f20_ru_a34da44a` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:168
 
 Топливо
 Оснащение автомобиля
@@ -10417,7 +10265,6 @@ DIN EN 590.
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Для надежности работы дизельного двига‐
-`bmw_1_series_f20_ru_201d7e2d` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:maintenance | p:169
 
 Для надежности работы дизельного двига‐
 теля в холодное время года нужно использо‐
@@ -10433,7 +10280,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Диски и шины
-`bmw_1_series_f20_ru_db453657` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:170
 
 Диски и шины
 Оснащение автомобиля
@@ -10501,7 +10347,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Минимальная высота рисунка
-`bmw_1_series_f20_ru_355a8abe` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:171
 
 Минимальная высота рисунка
 протектора
@@ -10572,7 +10417,6 @@ DOT … 3611: шина была изготовлена на 36й неделе 20
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Неправильное сочетание дисков и шин отри‐
-`bmw_1_series_f20_ru_dc60bf1c` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:172
 
 Неправильное сочетание дисков и шин отри‐
 цательно влияет на различные системы, на‐
@@ -10648,7 +10492,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Шины Runflat
-`bmw_1_series_f20_ru_84f814a7` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:tires | p:173
 
 Шины Runflat
 При установленных шинах с возможностью
@@ -10717,7 +10560,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Ремонтный комплект
-`bmw_1_series_f20_ru_54b719b6` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:174
 
 Ремонтный комплект
 Mobility System
@@ -10779,7 +10621,6 @@ Mobility System
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Полностью извлеките соединительный
-`bmw_1_series_f20_ru_a2f4dc38` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:175
 
 2.
 Полностью извлеките соединительный
@@ -10817,7 +10658,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Закрытые помещения
-`bmw_1_series_f20_ru_42e9a606` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:engine | p:176
 
 Закрытые помещения
 Не оставляйте двигатель работающим в
@@ -10894,7 +10734,6 @@ System
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Продолжение движения
-`bmw_1_series_f20_ru_8018946b` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:177
 
 Продолжение движения
 Не превышайте максимальную скорость в
@@ -10946,7 +10785,6 @@ Mobility Systems.
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Моторный отсек
-`bmw_1_series_f20_ru_c6f4d8ee` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:engine | p:178
 
 Моторный отсек
 Оснащение автомобиля
@@ -10986,7 +10824,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Капот
-`bmw_1_series_f20_ru_508c4097` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:engine | p:179
 
 Капот
 Примечания
@@ -11042,7 +10879,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Моторное масло
-`bmw_1_series_f20_ru_b2191cc3` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:engine | p:180
 
 Моторное масло
 Оснащение автомобиля
@@ -11114,7 +10950,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Необходимые условия
-`bmw_1_series_f20_ru_66604b09` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:maintenance | p:181
 
 Необходимые условия
 В зависимости от предыдущей индикации ин‐
@@ -11194,7 +11029,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Не заливайте слишком много моторного
-`bmw_1_series_f20_ru_797222c0` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:engine | p:182
 
 Не заливайте слишком много моторного
 масла
@@ -11250,7 +11084,6 @@ ACEA C3
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Охлаждающая жидкость
-`bmw_1_series_f20_ru_03f449bf` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:183
 
 Охлаждающая жидкость
 Оснащение автомобиля
@@ -11316,7 +11149,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Техническое обслуживание
-`bmw_1_series_f20_ru_16efff62` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:maintenance | p:184
 
 Техническое обслуживание
 Оснащение автомобиля
@@ -11389,7 +11221,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Моторное масло
-`bmw_1_series_f20_ru_7aac47fd` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:maintenance | p:185
 
 Моторное масло
 Работы по техобслуживанию
@@ -11460,7 +11291,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Работы по техобслуживанию
-`bmw_1_series_f20_ru_88ca3d0c` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:maintenance | p:186
 
 Работы по техобслуживанию
 Mobility System: проверить срок годности на
@@ -11530,7 +11360,6 @@ Mobility System: проверить срок годности на
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Замена деталей
-`bmw_1_series_f20_ru_015b23f3` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:maintenance | p:187
 
 Замена деталей
 Оснащение автомобиля
@@ -11583,7 +11412,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Замена задней щетки
-`bmw_1_series_f20_ru_896f1bed` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:suspension | p:188
 
 Замена задней щетки
 стеклоочистителей
@@ -11662,7 +11490,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### воды, необходимо проверить фары в сервис‐
-`bmw_1_series_f20_ru_3e1ae164` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:189
 
 воды, необходимо проверить фары в сервис‐
 ной службе.
@@ -11712,7 +11539,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Ближний свет
-`bmw_1_series_f20_ru_20a7783c` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:190
 
 Ближний свет
 Лампа 55 Вт, Н7
@@ -11776,7 +11602,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Вставка лампы и патрона лампы выполн‐
-`bmw_1_series_f20_ru_98725c1d` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191
 
 4.
 Вставка лампы и патрона лампы выполн‐
@@ -11842,7 +11667,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Лампа накаливания 21 Вт, PY21W
-`bmw_1_series_f20_ru_0438b077` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:192
 
 Лампа накаливания 21 Вт, PY21W
 1.
@@ -11895,7 +11719,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Задние фонари, замена ламп
-`bmw_1_series_f20_ru_38c54cac` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:193
 
 Задние фонари, замена ламп
 Обзор
@@ -11947,7 +11770,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### нится от верхнего резинометаллического
-`bmw_1_series_f20_ru_6a1e27f8` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:194
 
 нится от верхнего резинометаллического
 шарнира, стрелка 4.
@@ -11999,7 +11821,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Средний фонарь стоп-сигнала и
-`bmw_1_series_f20_ru_4c78c82c` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:195
 
 Средний фонарь стоп-сигнала и
 фонарь подсветки номерного знака
@@ -12065,7 +11886,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Зарядка батареи
-`bmw_1_series_f20_ru_76d458be` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:ev | p:196
 
 Зарядка батареи
 Указание
@@ -12171,7 +11991,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Помощь в случае аварии
-`bmw_1_series_f20_ru_8f1ad1f6` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:198
 
 Помощь в случае аварии
 Оснащение автомобиля
@@ -12242,7 +12061,6 @@ BMW Assist включен.
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Горит светодиод: экстренный вызов сра‐
-`bmw_1_series_f20_ru_a4246289` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:199
 
 ▷
 Горит светодиод: экстренный вызов сра‐
@@ -12305,7 +12123,6 @@ SOS не влияет на автоматический экстренный
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Помощь при аварии
-`bmw_1_series_f20_ru_3670131f` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:engine | p:200
 
 Помощь при аварии
 Для помощи при аварии можно с помощью
@@ -12375,7 +12192,6 @@ iDrive просмотреть номер телефона или на‐
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Прикрепите вторую полюсную цангу к
-`bmw_1_series_f20_ru_4abfe92d` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:ev | p:201
 
 3.
 Прикрепите вторую полюсную цангу к
@@ -12451,7 +12267,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Буксировка
-`bmw_1_series_f20_ru_7a5a6c8f` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:202
 
 Буксировка
 При заблокированном парковочном
@@ -12524,7 +12339,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Буксировочная штанга
-`bmw_1_series_f20_ru_4fb9e467` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:203
 
 Буксировочная штанга
 Буксирные проушины обоих автомобилей
@@ -12595,7 +12409,6 @@ BMW спереди или сзади. Она находится в бор‐
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### катализатора буксируйте автомобиль только
-`bmw_1_series_f20_ru_25d514c7` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:204
 
 катализатора буксируйте автомобиль только
 с остывшим двигателем.
@@ -12625,7 +12438,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Уход
-`bmw_1_series_f20_ru_ed43dd09` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:205
 
 Уход
 Оснащение автомобиля
@@ -12711,7 +12523,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Въезд на линию автоматической
-`bmw_1_series_f20_ru_073b83e2` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:206
 
 Въезд на линию автоматической
 мойки
@@ -12808,7 +12619,6 @@ BMW по уходу и чистке, поскольку они про‐
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### свойств и безопасности движения. Воздей‐
-`bmw_1_series_f20_ru_b68b2866` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:safety | p:207
 
 свойств и безопасности движения. Воздей‐
 ствия окружающей среды в местностях с вы‐
@@ -12978,7 +12788,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Не допускайте попадания жидкости на дисп‐
-`bmw_1_series_f20_ru_702e88e0` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:209
 
 Не допускайте попадания жидкости на дисп‐
 лей.
@@ -12995,7 +12804,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Данные
-`bmw_1_series_f20_ru_15b0a731` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:211
 
 Данные
 Глава содержит технические характеристики и
@@ -13004,7 +12812,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Технические характеристики
-`bmw_1_series_f20_ru_0504f381` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:212
 
 Технические характеристики
 Оснащение автомобиля
@@ -13039,7 +12846,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Длина, база
-`bmw_1_series_f20_ru_6042f8af` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:213
 
 Длина, база
 Пятидверный автомобиль
@@ -13053,7 +12859,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Трехдверный автомобиль
-`bmw_1_series_f20_ru_ea9ef21c` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:214
 
 Трехдверный автомобиль
 1
@@ -13091,7 +12896,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Пятидверный автомобиль: 114i
-`bmw_1_series_f20_ru_8df5e624` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:215
 
 Пятидверный автомобиль: 114i
 Разрешенная масса багажника и багажа, размещае‐
@@ -13159,7 +12963,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Трехдверный автомобиль: 116i
-`bmw_1_series_f20_ru_11687bc9` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:216
 
 Трехдверный автомобиль: 116i
 Собственная масса снаряженного автомобиля, с за‐
@@ -13237,7 +13040,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Трехдверный автомобиль: 118i
-`bmw_1_series_f20_ru_c788d97d` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:217
 
 Трехдверный автомобиль: 118i
 Разрешенная масса багажника и багажа, размещае‐
@@ -13305,7 +13107,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Пятидверный автомобиль: M135i powered by BMW M
-`bmw_1_series_f20_ru_cd46710e` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:218
 
 Пятидверный автомобиль: M135i powered by BMW M
 Собственная масса снаряженного автомобиля, с за‐
@@ -13383,7 +13184,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Трехдверный автомобиль: M135i powered by BMW M
-`bmw_1_series_f20_ru_f59697e0` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:219
 
 Трехдверный автомобиль: M135i powered by BMW M
 Разрешенная масса багажника и багажа, размещае‐
@@ -13451,7 +13251,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Трехдверный автомобиль: 114d
-`bmw_1_series_f20_ru_6e9fc204` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:220
 
 Трехдверный автомобиль: 114d
 Собственная масса снаряженного автомобиля, с за‐
@@ -13529,7 +13328,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Трехдверный автомобиль: 116d
-`bmw_1_series_f20_ru_4ed2e2e5` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:221
 
 Трехдверный автомобиль: 116d
 Разрешенная масса багажника и багажа, размещае‐
@@ -13597,7 +13395,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Пятидверный автомобиль: 118d
-`bmw_1_series_f20_ru_adf2c1d3` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:222
 
 Пятидверный автомобиль: 118d
 Собственная масса снаряженного автомобиля, с за‐
@@ -13675,7 +13472,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Пятидверный автомобиль: 120d
-`bmw_1_series_f20_ru_93097d79` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:223
 
 Пятидверный автомобиль: 120d
 Разрешенная масса багажника и багажа, размещае‐
@@ -13743,7 +13539,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Трехдверный автомобиль: 120d xDrive
-`bmw_1_series_f20_ru_3bb60e94` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:224
 
 Трехдверный автомобиль: 120d xDrive
 Собственная масса снаряженного автомобиля, с за‐
@@ -13821,7 +13616,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Трехдверный автомобиль: 125d
-`bmw_1_series_f20_ru_96abdd96` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:225
 
 Трехдверный автомобиль: 125d
 Разрешенная масса багажника и багажа, размещае‐
@@ -13887,7 +13681,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Пятидверный автомобиль: 116i
-`bmw_1_series_f20_ru_15ce0a08` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:226
 
 Пятидверный автомобиль: 116i
 Значения массы буксируемого груза по европейским правилам. Узнать о возможности уве‐
@@ -13957,7 +13750,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Пятидверный автомобиль: 118i
-`bmw_1_series_f20_ru_2e672719` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:227
 
 Пятидверный автомобиль: 118i
 Разрешенная нагрузка на заднюю ось
@@ -14028,7 +13820,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Трехдверный автомобиль: 125i
-`bmw_1_series_f20_ru_c011e625` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:228
 
 Трехдверный автомобиль: 125i
 С тормозами при уклоне дороги до 8 %
@@ -14096,7 +13887,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Пятидверный автомобиль: 118d
-`bmw_1_series_f20_ru_d266b8a8` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:229
 
 Пятидверный автомобиль: 118d
 Значения массы буксируемого груза по европейским правилам. Узнать о возможности уве‐
@@ -14166,7 +13956,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Пятидверный автомобиль: 120d
-`bmw_1_series_f20_ru_1f044fa1` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:230
 
 Пятидверный автомобиль: 120d
 Разрешенная нагрузка на заднюю ось
@@ -14237,7 +14026,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Трехдверный автомобиль: 120d xDrive
-`bmw_1_series_f20_ru_42a580a9` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:231
 
 Трехдверный автомобиль: 120d xDrive
 С тормозами при уклоне дороги до 8 %
@@ -14305,7 +14093,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Заправочные емкости
-`bmw_1_series_f20_ru_efc4bde6` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:232
 
 Заправочные емкости
  
@@ -14327,7 +14114,6 @@ Online Edition for Part no. 01 40 2 917 110 - X/12
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Все от A до Я
-`bmw_1_series_f20_ru_6091b9d4` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:234
 
 Все от A до Я
 Алфавитный указатель
@@ -14433,7 +14219,6 @@ AUC 133
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Адаптивные стоп-сигналы,
-`bmw_1_series_f20_ru_00f4ffa5` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:235
 
 Адаптивные стоп-сигналы,
 см. Динамические стоп-сиг‐
@@ -14573,7 +14358,6 @@ ABS 112
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Галогенные фары 189
-`bmw_1_series_f20_ru_7a96334a` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:engine | p:236
 
 Галогенные фары 189 
 Герметик 174 
@@ -14708,7 +14492,6 @@ ECO PRO 161
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Защитная функция, крышка
-`bmw_1_series_f20_ru_1932ce3a` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:body | p:237
 
 Защитная функция, крышка
 люка 46 
@@ -14848,7 +14631,6 @@ ISOFIX 61
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Контур спинки, см. Пояснич‐
-`bmw_1_series_f20_ru_bb9d173a` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:238
 
 Контур спинки, см. Пояснич‐
 ная опора 50 
@@ -14987,7 +14769,6 @@ ISOFIX 60
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### AUC 133
-`bmw_1_series_f20_ru_2665e440` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:239
 
 Наружный воздух, см.
 AUC 133 
@@ -15128,7 +14909,6 @@ AUC 133
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Переработка 186
-`bmw_1_series_f20_ru_d3fe4b76` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:240
 
 Переработка 186 
 Персональный профиль 33 
@@ -15269,7 +15049,6 @@ iDrive 16
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Разрешенная полная масса
-`bmw_1_series_f20_ru_c7405133` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:general | p:241
 
 Разрешенная полная масса
 при движении с прице‐
@@ -15409,7 +15188,6 @@ DTC 113
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Система отопления и конди‐
-`bmw_1_series_f20_ru_6dfef9af` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:interior | p:242
 
 Система отопления и конди‐
 ционирования 131 
@@ -15551,7 +15329,6 @@ DSC 112
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Управление в режиме меню,
-`bmw_1_series_f20_ru_199c5356` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:ev | p:243
 
 Управление в режиме меню,
 iDrive 16 
@@ -15674,7 +15451,6 @@ iDrive 16
 Online Edition for Part no. 01 40 2 917 110 - X/12
 
 ### Подробнее о BMW
-`bmw_1_series_f20_ru_99fcefa5` | 1_series_f20 | pdf_manual | tier:2 | lang:ru | layer:steering | p:245
 
 Подробнее о BMW
 www.bmw.ru

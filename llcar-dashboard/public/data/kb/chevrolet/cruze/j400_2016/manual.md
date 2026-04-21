@@ -1,8 +1,12 @@
-# Manual: chevrolet/cruze (898 chunks)
-<!-- doc_type:owners_manual tier:2 lang:en -->
+---
+brand: chevrolet
+model: cruze
+generation: j400_2016
+source: kb
+---
+
 
 ### Contents
-`chevrolet_cruze_en_5a808fc1` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Introduction 2
 In Brief 5
@@ -23,7 +27,6 @@ OnStar 381
 Index 392
 
 ### Introduction
-`chevrolet_cruze_en_eab9e2a8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/eec1f5e389db495f9b7f5955a2da320d4a468d263e2e3e12ab9a46d9d96cae0f.jpg)
 
@@ -38,19 +41,16 @@ Refer to the purchase documentation relating to your specific vehicle to confirm
 Keep this manual in the vehicle for quick reference.
 
 ### Propriétaires Canadiens
-`chevrolet_cruze_en_ea4d9715` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 On peut obtenir un exemplaire de ce guide en français auprès du concessionnaire ou à l'adresse suivante:
 
 Helm, Incorporated Attention: Customer Service 47911 Halyard Drive Plymouth, MI 48170 USA
 
 ### Using this Manual
-`chevrolet_cruze_en_256b02cf` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To quickly locate information about the vehicle, use the Index in the back of the manual. It is an alphabetical list of what is in the manual and the page number where it can be found.
 
 ### Danger, Warning, and Caution
-`chevrolet_cruze_en_49205e35` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Warning messages found on vehicle labels and in this manual describe hazards and what to do to avoid or reduce them.
 
@@ -65,7 +65,6 @@ Warning messages found on vehicle labels and in this manual describe hazards and
 A circle with a slash through it is a safety symbol which means “Do Not,” “Do not do this,” or “Do not let this happen.”
 
 ### Symbols
-`chevrolet_cruze_en_46131f28` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The vehicle has components and labels that use symbols instead of text. Symbols are shown along with the text describing the operation or information relating to a specific component, control, message, gauge, or indicator.
 
@@ -76,14 +75,12 @@ Shown when the service manual has additional instructions or information.
 0 : Shown when there is more information on another page “see page.”
 
 ### Vehicle Symbol Chart
-`chevrolet_cruze_en_ef1f67e0` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Here are some additional symbols that may be found on the vehicle and what they mean. See the features in this manual for information.
 
 9 Airbag Readiness Light
 
 ### Air Conditioning
-`chevrolet_cruze_en_e45ae1b0` | cruze | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 ! Antilock Brake System (ABS)
 \$ Brake System Warning Light
@@ -105,7 +102,6 @@ d Traction Control/StabiliTrak Under Pressure
 M Windshield Washer Fluid
 
 ### Initial Drive Information
-`chevrolet_cruze_en_6a2ca345` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Initial Drive Information 8
 Stop/Start System 8
@@ -128,7 +124,6 @@ Climate Controls
 Transmission 20
 
 ### Vehicle Features
-`chevrolet_cruze_en_af20736d` | cruze | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 Infotainment System
 Radio(s)
@@ -151,7 +146,6 @@ Power Outlets
 Sunroof
 
 ### Performance and Maintenance
-`chevrolet_cruze_en_85d88fae` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Traction Control/Electronic
 Stability Control
@@ -165,7 +159,6 @@ Driving for Better Fuel Economy 28
 Diesel Particulate Filter 28 Diesel Exhaust Fluid 29 Roadside Assistance Program 30
 
 ### Instrument Panel Instrument Panel Overview
-`chevrolet_cruze_en_031129c6` | cruze | pdf_manual | tier:2 | lang:en | layer:hvac | p:1 | doc_type:owners_manual
 
 ![](images/2068eadd591ab60eb3944abbfaffc3a49c0769502c3a3e147f1ab156e05f16d2.jpg)
 
@@ -223,21 +216,18 @@ Fog Lamps 0 157 (If Equipped).
 Instrument Panel Illumination Control 0 158.
 
 ### Initial Drive Information
-`chevrolet_cruze_en_7e00f3c5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This section provides a brief overview about some of the important features that may or may not be on your specific vehicle.
 
 For more detailed information, refer to each of the features which can be found later in this owner’s manual.
 
 ### Stop/Start System
-`chevrolet_cruze_en_0db75b39` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The vehicle may have a fuel saving Stop/Start system to shut off the engine and help conserve fuel.
 
 When the brakes are applied and the vehicle is at a complete stop, the engine may turn off. When the brake pedal is released or the accelerator pedal is pressed, the engine will restart. See Starting the Engine 0 209.
 
 ### Remote Keyless Entry (RKE) System
-`chevrolet_cruze_en_915ae98c` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Remote Keyless Entry (RKE) transmitter may work up to 60 m (197 ft) away from the vehicle.
 
@@ -249,7 +239,6 @@ Press the key release button to extend the key blade. The key can be used for th
 ![](images/1d575ef98e4978e7e2e68d5eafe09a55ce40b9cd9bf89127c6625ceb08bbe84e.jpg)
 
 ### Keyless Access
-`chevrolet_cruze_en_1a33862a` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Press the key release button to remove the key. The key can be used for all locks.
 
@@ -270,7 +259,6 @@ Press 7 again to cancel the panic alarm.
 See Keys 0 31 and Remote Keyless Entry (RKE) System Operation (Key Access) 0 34 or Remote Keyless Entry (RKE) System Operation (Keyless Access) 0 36.
 
 ### Starting the Vehicle
-`chevrolet_cruze_en_aecec4a3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press and release Q on the RKE transmitter.
 2. Immediately press and hold / for at least four seconds or until the turn signal lamps flash.
@@ -282,7 +270,6 @@ When the vehicle starts, the parking lamps will turn on.
 Remote start can be extended.
 
 ### Canceling a Remote Start
-`chevrolet_cruze_en_790886c2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To cancel a remote start, do one of the following:
 
@@ -291,7 +278,6 @@ Press and hold / until the parking lamps turn off. Turn on the hazard warning fl
 See Remote Vehicle Start 0 42.
 
 ### Door Locks
-`chevrolet_cruze_en_90bf5f43` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 To lock or unlock the vehicle from the outside:
 
@@ -300,7 +286,6 @@ Use the key. The key lock cylinder is covered with a cap. See Door Locks 0 44. P
 To lock or unlock the vehicle from the inside, use the power door lock switch.
 
 ### Power Door Locks
-`chevrolet_cruze_en_6aee1d1a` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/93deaafe28086b703965fc25b3d2198061633b271ed6ac77d20d0a8a4268d29e.jpg)
 
@@ -308,7 +293,6 @@ K Press to unlock the doors.
 Q Press to lock the doors.
 
 ### Windows
-`chevrolet_cruze_en_c16c7814` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/4fa25167b703996e3e1210cc396e5e02723230030a1d0fbaf04da1fde728e822.jpg)
 
@@ -335,7 +319,6 @@ Using the window switch, press to open or pull to close the window.
 The windows may be temporarily disabled if they are used repeatedly within a short time.
 
 ### Reclining Seatbacks
-`chevrolet_cruze_en_8a561772` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/a457dca2e53b6a29a99f2401e97a1fedb92d9e011a728c7a780858c6ddcf9a62.jpg)
 
@@ -375,7 +358,6 @@ Tilt the top of the control forward to raise.
 See Reclining Seatbacks 0 63.
 
 ### Power Driver Seat
-`chevrolet_cruze_en_a21a40fb` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/9c63f309710a66fbbc72c5a19364f9ac975dd289f7a02ce506f9c2207958de54.jpg)
 
@@ -388,7 +370,6 @@ Raise or lower the front part of the seat cushion by moving the front of the con
 See Power Seat Adjustment 0 63.
 
 ### Rear Seats
-`chevrolet_cruze_en_dead141e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The rear seatbacks can be folded.
 
@@ -397,7 +378,6 @@ The rear seatbacks can be folded.
 For detailed instructions, see Rear Seats 0 66.
 
 ### Heated Seats
-`chevrolet_cruze_en_c42cd169` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/4e5fa133e78a4626836da728644d0d78de64f4bd3983723a920f16962c268176.jpg)
 
@@ -410,7 +390,6 @@ Press the control once for the highest setting. With each press of the control, 
 See Heated Front Seats 0 64.
 
 ### Head Restraint Adjustment
-`chevrolet_cruze_en_fcd02b43` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not drive until the head restraints for all occupants are installed and adjusted properly.
 
@@ -419,7 +398,6 @@ To achieve a comfortable seating position, change the seatback recline angle as 
 See Head Restraints 0 61 and Seat Adjustment 0 62.
 
 ### Seat Belts
-`chevrolet_cruze_en_f7071f47` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Refer to the following sections for important information on how to use seat belts properly:
 
@@ -432,21 +410,18 @@ Lap-Shoulder Belt 0 71.
 Lower Anchors and Tethers for Children (LATCH System) 0 94.
 
 ### Passenger Sensing System
-`chevrolet_cruze_en_72944f3a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 PASSENGER AIRBAG ON OFf
 
 ![](images/6720bb7c8e8e9368531fcec18e2b52ea033f227d86861bff03079cc39e4efbd1.jpg)
 
 ### Canada
-`chevrolet_cruze_en_1f5a7021` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The passenger sensing system turns off the front outboard passenger frontal airbag and knee airbag under certain conditions. No other airbag is affected by the passenger sensing system. See Passenger Sensing System 0 81 for important information.
 
 The passenger airbag status indicator will be visible on the overhead console when the vehicle is started. See Passenger Airbag Status Indicator 0 129.
 
 ### Mirror Adjustment Exterior
-`chevrolet_cruze_en_d7132170` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/db10d34eb6f6bd03d0cf5ee5c8ef5f68e581c7003be33f1b28401271a7fff76e.jpg)
 
@@ -458,17 +433,14 @@ See Power Mirrors 0 55.
 If the vehicle has heated mirrors, see Heated Mirrors 0 55.
 
 ### Manual Rearview Mirror
-`chevrolet_cruze_en_604819f8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 f equipped with a manual rearview mirror, push the tab forward for daytime use and pull it for nighttime use to avoid glare from the headlamps from behind. See Manual Rearview Mirror 0 55.
 
 ### Automatic Dimming Rearview Mirror
-`chevrolet_cruze_en_aa84945b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped with an automatic dimming rearview mirror, the mirror will automatically reduce the glare of headlamps from behind. The dimming feature comes on each time the vehicle is started. See Automatic Dimming Rearview Mirror 0 55.
 
 ### Steering Wheel Adjustment
-`chevrolet_cruze_en_91125017` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/0f2a1caa6ae993a3cf394727665defba0d19eb8ae88adbd0c80ec18d2d8e029c.jpg)
 
@@ -482,7 +454,6 @@ To adjust the steering wheel:
 Do not adjust the steering wheel while driving.
 
 ### Interior Lighting Dome Lamps
-`chevrolet_cruze_en_f0317eb3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/16be32129abc600a2e846a4f4fcfb82197e293df0401db8398da7df3176818a8.jpg)
 
@@ -493,7 +464,6 @@ Press to turn the lamps on automatically when a door is opened.
 ' : Press to turn on the dome lamps.
 
 ### Reading Lamps
-`chevrolet_cruze_en_94b831c0` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/38f70f846f9bcdd610a973e7eced4b647227d39d133dc4582b7dfe5fa6c1d2c8.jpg)
 Front Reading Lamps
@@ -501,12 +471,10 @@ Front Reading Lamps
 ![](images/dcdf321c6904404e80ebfe22c47c65aaca7ec2f866f54e485ad07a259d11521f.jpg)
 
 ### Rear Reading Lamps, If Equipped
-`chevrolet_cruze_en_52227d50` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 There are front reading lamps on the overhead console and rear reading lamps in the headliner, 1 equipped.
 
 ### Instrument Panel Illumination Control
-`chevrolet_cruze_en_2bc6f5d9` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/b8b01953184adf4e7e2f4872970d98b1203c4c6c9e077549b741514ddfaeb6cf.jpg)
 
@@ -515,7 +483,6 @@ This feature controls the brightness of the instrument panel controls and the in
 D Move the thumbwheel up or down and hold, to brighten or dim the instrument panel controls and infotainment display.
 
 ### Exterior Lighting
-`chevrolet_cruze_en_1ee20c3c` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/33cf3779487c9c161d9bb76f218e1a9e1931af6e93a18eb190276942150dccc8.jpg)
 
@@ -539,7 +506,6 @@ Exterior Lamp Controls 0 153.
 Fog Lamps 0 157.
 
 ### Windshield Wiper/Washer
-`chevrolet_cruze_en_39ae26ce` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/b818093c66765dca83ba39fe994628be91003c2b3eabe1d0e7eab699bd14845a.jpg)
 
@@ -561,7 +527,6 @@ f Pull the lever toward you to spray windshield washer fluid and activate the wi
 See Windshield Wiper/Washer 0 111 and Rear Window Wiper/ Washer 0 112 (If Equipped).
 
 ### Climate Control System (With Air Conditioning)
-`chevrolet_cruze_en_7cc3fd11` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/6d79067f71f10a10180475e4702e1994e636061876283c6383406a0c968ada23.jpg)
 
@@ -576,7 +541,6 @@ See Windshield Wiper/Washer 0 111 and Rear Window Wiper/ Washer 0 112 (If Equipp
 8. Recirculation
 
 ### Climate Control System (With Heater Only)
-`chevrolet_cruze_en_855aa770` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/822a7bd739bad898b6933a72eafe6081af755349adcc81f4ef74f7b40dc27624.jpg)
 
@@ -587,7 +551,6 @@ See Windshield Wiper/Washer 0 111 and Rear Window Wiper/ Washer 0 112 (If Equipp
 5. Air Delivery Mode Controls
 
 ### Manual Mode
-`chevrolet_cruze_en_7c355eef` | cruze | pdf_manual | tier:2 | lang:en | layer:hvac | p:1 | doc_type:owners_manual
 
 Driver Shift Control (DSC) allows the automatic transmission to be shifted similar to a manual transmission.
 
@@ -617,7 +580,6 @@ If the vehicle has a manual transmission, it will have an up-shift light that in
 See Manual Transmission 0 227.
 
 ### Infotainment System
-`chevrolet_cruze_en_b9e5d197` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Base radio information is included in this manual. See the infotainment manual for information on other available infotainment systems.
 
@@ -645,7 +607,6 @@ See Defensive Driving 0 197.
 To play the infotainment system with the ignition off, see Retained Accessory Power (RAP) 0 215.
 
 ### Radio(s)
-`chevrolet_cruze_en_99d9c72d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press to turn the power on.
 Press and hold to turn the
@@ -667,12 +628,10 @@ Press and release to access the phone screen, answer an incoming call, or access
 See Overview 0 163.
 
 ### Satellite Radio
-`chevrolet_cruze_en_d55112c2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, a SiriusXM satellite radio tuner and a valid SiriusXM satellite radio subscription can receive SiriusXM programming.
 
 ### SiriusXM Satellite Radio Service
-`chevrolet_cruze_en_1f9b490e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 SiriusXM is a satellite radio service based in the 48 contiguous United States and 10 Canadian provinces. SiriusXM satellite radio has a wide variety of programming and commercial-free music, coast to coast, and in digital-quality sound. A fee is required to receive the SiriusXM service.
 
@@ -685,14 +644,12 @@ www.siriusxm.ca or call 1-877-438-9677 (Canada).
 See Satellite Radio (If Equipped) 0 167.
 
 ### Portable Audio Devices
-`chevrolet_cruze_en_5787a92e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle has a USB port on the center stack for data and charging and may have a USB charge port on the rear of the center console. External devices such as iPhones/ iPods and USB storage devices may be connected.
 
 See USB Port 0 169.
 
 ### Bluetooth
-`chevrolet_cruze_en_6486eb02` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Bluetooth system allows users with a Bluetooth-enabled cell phone to make and receive hands-free calls using the vehicle audio system and controls.
 
@@ -701,7 +658,6 @@ The Bluetooth-enabled cell phone must be paired with the in-vehicle Bluetooth sy
 See Bluetooth (Infotainment Controls) 0 177 or Bluetooth (Overview) 0 176.
 
 ### Steering Wheel Controls
-`chevrolet_cruze_en_3fe6d938` | cruze | pdf_manual | tier:2 | lang:en | layer:steering | p:1 | doc_type:owners_manual
 
 If equipped, some audio controls can be adjusted at the steering wheel.
 
@@ -721,7 +677,6 @@ The favorite and volume switches are on the back of the steering wheel.
 See Steering Wheel Controls 0 110.
 
 ### Cruise Control
-`chevrolet_cruze_en_0b6c5bc4` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/ad6ec68f496c9de0610ee05be72d2ba76779d6a9e4f63e6cbd39d3827896631d.jpg)
 
@@ -736,14 +691,12 @@ See Steering Wheel Controls 0 110.
 See Cruise Control 0 233.
 
 ### Driver Information Center (DIC)
-`chevrolet_cruze_en_f2895f85` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The DIC display is in the instrument cluster. It shows the status of many vehicle systems.
 
 ![](images/987439b130b4e950d136c9c180182649f7a52db0d6900ff541bdffd34bc10a37.jpg)
 
 ### Uplevel DIC Controls
-`chevrolet_cruze_en_610605b3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 w or x Press to move up or down in a list, or on the main view press to cycle through the different Info app pages.
 
@@ -754,14 +707,12 @@ V : Press to select a menu item. Press and hold to reset values on certain scree
 See Instrument Cluster 0 120 and Driver Information Center (DIC) (Base) 0 138 or Driver Information Center (DIC) (Uplevel) 0 141.
 
 ### Forward Collision Alert (FCA) System
-`chevrolet_cruze_en_f157d414` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 equipped, FCA may help avoid or reduce the harm caused by front-end crashes. FCA provides a green indicator, when a vehicle is detected ahead. This indicator displays amber if you follow a vehicle much too closely. When approaching a vehicle ahead too quickly, FCA provides a red flashing alert on the windshield and rapidly beeps.
 
 See Forward Collision Alert (FCA) System 0 238.
 
 ### Lane Keep Assist (LKA) Lane Change Alert (LCA)
-`chevrolet_cruze_en_293dbd94` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, LKA may help avoid crashes due to unintentional lane departures. It may assist by gently turning the steering wheel if the vehicle approaches a detected lane marking without using a turn signal in that direction. It may also provide a Lane Departure Warning (LDW) alert as the lane marking is crossed. The system will not assist or alert if it detects that you are actively steering. Override LKA by turning the steering wheel. LKA uses a camera to detect lane markings between 60 km/h (37 mph) and 180 km/h (112 mph).
 
@@ -772,28 +723,24 @@ If equipped, the LCA system is a lane-changing aid that assists drivers with avo
 See Side Blind Zone Alert (SBZA) 0 240 and Lane Change Alert (LCA) 0 240.
 
 ### Rear Vision Camera (RVC)
-`chevrolet_cruze_en_b384c1ac` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, RVC shows a view of the area behind the vehicle on the infotainment display when the vehicle is shifted into R (Reverse) to aid with parking and low-speed backing maneuvers.
 
 See Assistance Systems for Parking or Backing 0 236.
 
 ### Rear Cross Traffic Alert (RCTA) System
-`chevrolet_cruze_en_afe81b88` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, the RCTA system uses a triangle with an arrow on the infotainment display to warn of traffic behind your vehicle that may cross your vehicle's path while in R (Reverse). In addition, beeps will sound.
 
 See Assistance Systems for Parking or Backing 0 236.
 
 ### Parking Assist
-`chevrolet_cruze_en_f916459f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, Rear Parking Assist (RPA) uses sensors on the rear bumper to assist with parking and avoiding objects while in R (Reverse). It operates at speeds less than 8 km/h (5 mph). RPA may show a warning triangle on the infotainment display and/or a graphic on the instrument cluster to provide the object distance. In addition, multiple beeps may occur if very close to an object.
 
 See Assistance Systems for Parking or Backing 0 236.
 
 ### Power Outlets
-`chevrolet_cruze_en_25ea9316` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The 12-volt accessory power outlet can be used to plug in electrical equipment, such as a cell phone or MP3 player.
 
@@ -802,7 +749,6 @@ There is an accessory power outlet on the center console in front of the shift l
 See Power Outlets 0 115.
 
 ### Sunroof
-`chevrolet_cruze_en_eb5c0508` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, the sunroof only operates with the ignition on or in ACC/ACCESSORY, or when Retained Accessory Power (RAP) is active. See Retained Accessory Power (RAP) 0 215.
 
@@ -812,14 +758,12 @@ If equipped, the sunroof only operates with the ignition on or in ACC/ACCESSORY,
 2. Tilt Switch
 
 ### Slide Switch
-`chevrolet_cruze_en_9baadffa` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Express-Open/Express-Close . To express-open the sunroof, press e (1) to the second detent position and release. To express-close the sunroof, press g (1) to the second detent position and release. Press the switch again to stop.
 
 Open/Close (Manual Mode) To open the sunroof, press and hold e (1) until the sunroof reaches the desired position. Press and hold g (1) to close.
 
 ### Tilt Switch
-`chevrolet_cruze_en_38eb8e82` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Vent From the closed position, press f (2) to vent the sunroof. Press g (2) to close.
 
@@ -828,7 +772,6 @@ The sunroof also has an automatic reversal system.
 See Sunroof 0 58.
 
 ### Traction Control/ Electronic Stability Control
-`chevrolet_cruze_en_24fd8555` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Traction Control System (TCS) limits wheel spin. The system turns on automatically every time the vehicle is started.
 
@@ -843,7 +786,6 @@ Press and release g again to turn on both systems.
 See Traction Control/Electronic Stability Control 0 231.
 
 ### Tire Pressure Monitor
-`chevrolet_cruze_en_2be1ac3a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle may have a Tire Pressure Monitor System (TPMS).
 
@@ -858,42 +800,35 @@ The TPMS does not replace normal monthly tire maintenance. Maintain the correct 
 See Tire Pressure Monitor System 0 307.
 
 ### Regular Fuel
-`chevrolet_cruze_en_71bdca9c` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use only unleaded gasoline rated 87 octane or higher in your vehicle. Do not use gasoline with an octane rating lower as it may result in
 
 vehicle damage and lower fuel economy. See Fuel (Gasoline) 0 244.
 
 ### Fuel (Diesel)
-`chevrolet_cruze_en_b91a1892` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use of diesel fuel with ultra low sulfur content (15 ppm, maximum) is required. See Fuel for Diesel Engines 0 246.
 
 ### E85 or FlexFuel
-`chevrolet_cruze_en_81c707c7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/35cf9868bc5fd7c3f5d4ae236b7777f38f3824568fe0686bcc18e940fbcc3555.jpg)
 
 OIL SOON message when it is time to change the engine oil and filter. The oil life system should be reset to 100% only following an oil change.
 
 ### Resetting the Oil Life System (Base Level Cluster)
-`chevrolet_cruze_en_c9e25930` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Display the REMAINING OIL LIFE on the DIC. See Driver Information Center (DIC) (Base) 0 138 or Driver Information Center (DIC) (Uplevel) 0 141.
 2. Press and hold SET/CLR on the turn signal lever while the Oil Life display is active. The oil life will change to 100%.
 
 ### No E85 or FlexFuel
-`chevrolet_cruze_en_df98719b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Gasoline-ethanol fuel blends greater than E15 (15% ethanol by volume), such as E85, cannot be used in this vehicle.
 
 ### Engine Oil Life System
-`chevrolet_cruze_en_146f03c2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The engine oil life system calculates engine oil life based on vehicle use and displays the CHANGE ENGINE
 
 ### Resetting the Oil Life System (Uplevel Cluster)
-`chevrolet_cruze_en_3acc26b7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Display the REMAINING OIL LIFE on the DIC. See Driver Information Center (DIC) (Base) 0 138 or Driver Information Center (DIC) (Uplevel) 0 141.
 
@@ -908,7 +843,6 @@ The oil life system can also be reset as follows:
 See Engine Oil Life System 0 268.
 
 ### Driving for Better Fuel Economy
-`chevrolet_cruze_en_2d1bfff4` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Driving habits can affect fuel mileage. Here are some driving tips to get the best fuel economy possible.
 
@@ -928,26 +862,22 @@ molded into the tire's sidewall near the size.
 Follow recommended scheduled maintenance.
 
 ### Diesel Particulate Filter
-`chevrolet_cruze_en_70c132c5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The diesel engine is equipped with a Diesel Particulate Filter (DPF) that, by design, will filter or trap particulates. The DPF is located in the exhaust system.
 
 Depending on a number of factors monitored by the engine computer, the DPF will need to be cleaned of accumulated solids. When a cleaning is needed, the engine computer will initiate a cleaning action by warming the exhaust gas temperature. This feature has been designed to operate automatically, with limited operator involvement or awareness.
 
 ### Special DPF Driver Messages
-`chevrolet_cruze_en_601ba5b7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the vehicle is used for numerous short trips or extended slow-speed operation, the engine computer may not be able to adequately heat up the exhaust system to clean the DPF effectively. The engine computer has been designed to continuously monitor the condition of the DPF. When the engine computer detects that the DPF is full of particulates but the vehicle is being operated in a manner that does not allow effective automatic DPF cleaning, a Driver Information Center (DIC) message will display.
 
 If the vehicle continues to be driven in a manner that prevents effective DPF cleaning, the DPF will become plugged with particulates. If this occurs, the engine computer will turn on the service engine soon light in the instrument cluster and a DIC message will display. See Diesel Particulate Filter 0 218, Engine Power Messages 0 144, and Diesel Exhaust Fluid (DEF) Warning Light 0 136.
 
 ### Use Ultra-Low Sulfur Diesel Fuel (ULSD)
-`chevrolet_cruze_en_1162ad41` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use Ultra-Low Sulfur Diesel Fuel (ULSD) only. The emission control hardware used on the vehicle may be damaged by using fuel with high sulfur levels. Use only fuel that is dispensed from pumps bearing the ULSD label.
 
 ### Do Not Use Non-Highway Fuel Locating Diesel Exhaust Fluid
-`chevrolet_cruze_en_a9e8a1d2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Fuel labeled as off road or non-highway is typically very high in sulfur content and will damage the emission control system. Non-highway fuel is not intended for use in on-highway vehicles.
 
@@ -961,7 +891,6 @@ Do not modify the induction or exhaust systems.
 See Fuel for Diesel Engines 0 246 and Engine Oil 0 265.
 
 ### Diesel Exhaust Fluid
-`chevrolet_cruze_en_4228da61` | cruze | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 Diesel Exhaust Fluid (DEF) i s used with diesel engines to reduce the amount of regulated emissions produced. The DEF system must be maintained for the vehicle to run properly. It is normal to hear the DEF system purge fluid back into the tank after the vehicle is shut off.
 
@@ -970,7 +899,6 @@ DEF can be purchased at a Chevrolet dealer. It can also be purchased at authoriz
 As the DEF tank becomes low on fluid, warnings begin with approximately 600 km (1,000 mi) of remaining range. These warnings will increase in intensity as the tank becomes empty. Once the tank is empty, the vehicle speed will be limited. If there is an issue with the quality of the fluid or the exhaust fluid system, warnings will be displayed in the Driver Information Center (DIC). See Diesel Exhaust Fluid 0 219.
 
 ### Roadside Assistance Program
-`chevrolet_cruze_en_98fc337e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 U.S.: 1-800-243-8872
 
@@ -983,7 +911,6 @@ New Chevrolet owners are automatically enrolled in the Roadside Assistance Progr
 See Roadside Assistance Program 0 371.
 
 ### Keys and Locks
-`chevrolet_cruze_en_f9e4c825` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Keys 31
 Remote Keyless Entry (RKE)
@@ -1003,7 +930,6 @@ Lockout Protection
 Safety Locks 47
 
 ### Vehicle Security
-`chevrolet_cruze_en_fac7cfe0` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Vehicle Security 51
 Vehicle Alarm System 51
@@ -1012,7 +938,6 @@ Immobilizer 53
 Immobilizer Operation (Key Access) 53 Immobilizer Operation (Keyless Access) 53
 
 ### Keys and Locks Keys
-`chevrolet_cruze_en_8fa4b36a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 { Warning Leaving children in a vehicle with an ignition key or Remote Keyless Entry (RKE) transmitter is dangerous and children or others could be seriously injured or killed. They could operate the power window or other controls or make the vehicle move. The windows will function with the key in the ignition or with the RKE transmitter in the vehicle, and children or others could be caught in the path of a closing window. Do not leave children in a vehicle with the ignition key or an RKE transmitter.
 
@@ -1023,7 +948,6 @@ Immobilizer Operation (Key Access) 53 Immobilizer Operation (Keyless Access) 53
 ![](images/0721e7fd48c2631c62ee7a1c89414d075ec3862375a692db590a913782e08418.jpg)
 
 ### { Warning
-`chevrolet_cruze_en_72b8858a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the key is unintentionally rotated while the vehicle is running, the ignition could be moved out of the RUN position. This could be caused by heavy items hanging from the key ring, or by large or long items attached to the key ring that could be contacted by the driver or steering wheel. If the ignition moves out of the RUN position, the engine will shut off, braking and steering power assist may be (Continued)
 
@@ -1039,7 +963,6 @@ The key that is part of the RKE transmitter can be used for the ignition and all
 Flip Key
 
 ### Remote Keyless Entry (RKE) System
-`chevrolet_cruze_en_9369be8c` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 See Radio Frequency Statement 0 377.
 
@@ -1050,7 +973,6 @@ Press the button on the RKE transmitter to extend the key. Press the button and 
 If the vehicle has an ignition, and it becomes difficult to turn the key, inspect the key blade for debris. Periodically clean with a brush or pick.
 
 ### Keyless Access
-`chevrolet_cruze_en_592520c3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Remove the key by pressing the button on the side of the RKE transmitter near the bottom and pull the key out. Never pull the key out without pressing the button.
 
@@ -1071,7 +993,6 @@ working correctly, see your
 dealer or a qualified technician for service.
 
 ### Remote Keyless Entry (RKE) System Operation (Key Access)
-`chevrolet_cruze_en_38929a40` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The transmitter functions may work up to 60 m (197 ft) away from the vehicle.
 
@@ -1080,7 +1001,6 @@ Other conditions, such as those previously stated, can impact the performance of
 ![](images/7a62a541cab98031bc242b29c1e2bb326959a8888a85198a52bfe91d9d0785b5.jpg)
 
 ### With Remote Start Similar
-`chevrolet_cruze_en_4a1b8515` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Q Press to lock all doors.
 
@@ -1109,12 +1029,10 @@ Press and hold 7 for at least three seconds to sound the panic alarm. The horn s
 The RKE transmitter buttons will not operate when the key is in the ignition.
 
 ### Programming Keys to the Vehicle
-`chevrolet_cruze_en_f61f1c64` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Only keys programmed to the vehicle will work. If a key is lost or stolen, a replacement can be purchased and programmed through your dealer. The vehicle can be reprogrammed so that lost or stolen keys no longer work. Any remaining keys will need to be reprogrammed. Each vehicle can have up to eight keys matched to it.
 
 ### Programming with Two Recognized Keys (Key Vehicles Only)
-`chevrolet_cruze_en_54afa795` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This procedure is for adding a transmitter, not replacing a transmitter. To program:
 
@@ -1131,7 +1049,6 @@ The security light will turn off once the key has been programmed.
 If a key is lost or damaged, see your dealer to have a new key made.
 
 ### Programming without Two Recognized Keys (Key Vehicles Only)
-`chevrolet_cruze_en_da9a0817` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Program a new key to the vehicle when a recognized key is not available. Canadian regulations require that owners see their dealer.
 
@@ -1149,7 +1066,6 @@ This procedure will take approximately 30 minutes to complete for the first key.
 After two keys are learned, remaining keys can be learned by following the procedure in “Programming with Two Recognized Keys (Key Vehicles Only).”
 
 ### Battery Replacement
-`chevrolet_cruze_en_3c910adc` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Replace the battery if the REPLACE BATTERY IN REMOTE KEY message displays in the DIC.
 
@@ -1168,7 +1084,6 @@ The battery is not rechargeable. To replace the battery:
 4. Snap the battery cover back on to the transmitter.
 
 ### Remote Keyless Entry (RKE) System Operation (Keyless Access)
-`chevrolet_cruze_en_d3a54918` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The Keyless Access system allows for vehicle entry when the Remote Keyless Entry (RKE) transmitter is within 1 m (3 ft). See “Keyless Access Operation” later in this section.
 
@@ -1203,21 +1118,18 @@ Press and hold 7 for at least three seconds to sound the panic alarm. The horn s
 / If equipped, press and release Q and then immediately press and hold / for at least four seconds to start the engine from outside the vehicle using the RKE transmitter. See Remote Vehicle Start 0 42.
 
 ### Keyless Access Operation
-`chevrolet_cruze_en_036a80fd` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The Keyless Access system allows for the doors and trunk to be locked and unlocked without pressing the RKE transmitter button. The RKE transmitter must be within 1 m (3 ft) of the trunk or door being opened. If the vehicle has this feature, there will be a button on the outside door handles.
 
 Keyless Access can be programmed to unlock all doors on the first lock/unlock press from the driver door. See Vehicle Personalization 0 145.
 
 ### Keyless Unlocking/Locking from the Driver Door
-`chevrolet_cruze_en_0a56a613` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 When the doors are locked and the RKE transmitter is within range of the door handle, pressing the lock/ unlock button on the driver door handle will unlock the driver door. If the lock/unlock button is pressed again within five seconds, all passenger doors will unlock.
 
 ![](images/7745e9da30f5500c21f9a49f6669a401971c29ae807aadb04f8ec5b1386a4c16.jpg)
 
 ### Driver Side Shown, Passenger Similar
-`chevrolet_cruze_en_17253f5b` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Pressing the lock/unlock button will cause all doors to lock if any of the following occur:
 
@@ -1227,7 +1139,6 @@ Two lock/unlock button presses were used to unlock all doors. Any vehicle door h
 opened and all doors are now closed.
 
 ### Keyless Unlocking/Locking from the Passenger Doors
-`chevrolet_cruze_en_eaa210e8` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 When the doors are locked and the RKE transmitter is within range of the door handle, pressing the lock/ unlock button on a passenger door handle will unlock all doors. Pressing the lock/unlock button will cause all doors to lock if any of the following occur:
 
@@ -1236,7 +1147,6 @@ Any vehicle door has been
 opened and all doors are now closed.
 
 ### Passive Locking
-`chevrolet_cruze_en_658d40aa` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 If equipped with Keyless Access, the vehicle will lock several seconds after all doors are closed if the vehicle is off and at least one RKE transmitter has been removed or none remain in the vehicle.
 
@@ -1247,32 +1157,26 @@ transmitter inside the vehicle. Do not leave the RKE transmitter in an unattende
 To customize the doors to automatically lock when exiting the vehicle, see Vehicle Personalization 0 145.
 
 ### Temporary Disable of Passive Locking Feature
-`chevrolet_cruze_en_62584f11` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Temporarily disable the passive locking by pressing and holding K on the interior door switch with a door open for at least four seconds, or until three chimes are heard. Passive locking will then remain disabled until Q on the interior door is pressed, or until the vehicle is turned on.
 
 ### Remote Left In Vehicle Alert
-`chevrolet_cruze_en_f68537d0` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the vehicle is turned off and an RKE transmitter is left in the vehicle, the horn will chirp three times after all doors are closed. To turn on or off see Vehicle Personalization 0 145.
 
 ### Remote No Longer in Vehicle Alert
-`chevrolet_cruze_en_34f11468` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the vehicle is on with a door open, and then all doors are closed, the vehicle will check for RKE transmitters inside. If an RKE transmitter is not detected, the DIC will display NO REMOTE DETECTED and the horn will chirp three times. This occurs only once each time the vehicle is driven. To turn on or off see Vehicle Personalization 0 145.
 
 ### Keyless Trunk Opening
-`chevrolet_cruze_en_0fafb0fa` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press the touch pad on the rear of the trunk above the license plate to open the trunk when the RKE transmitter is in range.
 
 ### Programming Transmitters to the Vehicle
-`chevrolet_cruze_en_b05b89ee` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Only RKE transmitters programmed to the vehicle will work. If a transmitter is lost or stolen, a replacement can be purchased and programmed through your dealer. The vehicle can be reprogrammed so that lost or stolen transmitters no longer work. Any remaining transmitters will need to be reprogrammed. Each vehicle can have up to eight transmitters matched to it.
 
 ### Programming with Recognized Transmitters (Keyless Access Vehicles Only)
-`chevrolet_cruze_en_7eab74be` | cruze | pdf_manual | tier:2 | lang:en | layer:engine | p:1 | doc_type:owners_manual
 
 A new transmitter can be programmed to the vehicle when there are two recognized transmitters. To program, the vehicle must be off and all of the transmitters, both currently recognized and new, must be with you.
 
@@ -1299,7 +1203,6 @@ programming mode.
 6. Return the vehicle key back into the transmitter.
 
 ### Programming without Recognized Transmitters (Keyless Access Vehicles Only)
-`chevrolet_cruze_en_f1e3710f` | cruze | pdf_manual | tier:2 | lang:en | layer:engine | p:1 | doc_type:owners_manual
 
 If two currently recognized transmitters are not available, follow this procedure to program up to eight transmitters. This feature is
 
@@ -1330,7 +1233,6 @@ The DIC display should now show READY FOR REMOTE # 1.
 To program additional transmitters, repeat Steps 4–6. When all additional transmitters are programmed, press and hold ENGINE START/STOP for 12 seconds to exit programming mode. 7. Return the vehicle key back into the transmitter.
 
 ### Starting the Vehicle with a Low Transmitter Battery
-`chevrolet_cruze_en_d715338d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the transmitter battery is weak or if there is interference with the signal when trying to start the vehicle, the DIC may display NO REMOTE DETECTED or NO REMOTE KEY WAS DETECTED PLACE KEY IN TRANSMITTER POCKET THEN START YOUR VEHICLE. The
 
@@ -1346,7 +1248,6 @@ To start the vehicle:
 Replace the transmitter battery as soon as possible.
 
 ### Battery Replacement
-`chevrolet_cruze_en_afe4f7ba` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Replace the battery if the REPLACE BATTERY IN REMOTE KEY message displays in the DIC.
 
@@ -1369,7 +1270,6 @@ The battery is not rechargeable. To replace the battery:
 5. Snap the battery cover back on to the transmitter.
 
 ### Remote Vehicle Start
-`chevrolet_cruze_en_06346445` | cruze | pdf_manual | tier:2 | lang:en | layer:hvac | p:1 | doc_type:owners_manual
 
 If equipped, this feature allows the engine to be started from outside the vehicle. See Engine Exhaust 0 217.
 
@@ -1384,7 +1284,6 @@ Laws in some local communities may restrict the use of remote starters. For exam
 Other conditions can affect the performance of the transmitter. See Remote Keyless Entry (RKE) System 0 33.
 
 ### Starting the Vehicle
-`chevrolet_cruze_en_a57c5314` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 To start the engine using the remote start feature:
 
@@ -1399,7 +1298,6 @@ The engine will continue to run for 15 minutes. After 30 seconds, repeat the ste
 Turn the ignition on to drive.
 
 ### Extending Engine Run Time
-`chevrolet_cruze_en_ac734d09` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The engine run time can be extended by another 15 mintues, if during the first 15 minutes Steps 2 and 3 are repeated while the engine is still running. An extension can be requested 30 seconds after starting. When the remote start is extended, the second 15-minute period is added on to the first 15 minutes for a total of 30 minutes.
 
@@ -1410,14 +1308,12 @@ A maximum of two remote starts, or a single start with an extension, is allowed 
 The vehicle's ignition must be turned on and then back off to use remote start again.
 
 ### Canceling a Remote Start
-`chevrolet_cruze_en_5985c8b6` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To cancel a remote start, do one of the following:
 
 Aim the RKE transmitter at the vehicle and press and hold / until the parking lamps turn off. Turn on the hazard warning flashers. Turn the vehicle on and then off.
 
 ### Conditions in Which Remote Start Will Not Work
-`chevrolet_cruze_en_1d780a6e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The remote vehicle start feature will not operate if:
 
@@ -1431,7 +1327,6 @@ The oil pressure is low.
 Two remote vehicle starts, or a single remote start with an extension, have already been used. The vehicle is not in P (Park).
 
 ### Door Locks
-`chevrolet_cruze_en_e5bf5f2a` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/4e6138eb4ef508aa448c1a43fb300ba1fb73e2411900f0285d6346c64091fcc8.jpg)
 
@@ -1453,14 +1348,12 @@ Pull the door handle once to
 unlock it. Pull the door handle again to unlatch it.
 
 ### Keyless Access
-`chevrolet_cruze_en_79f8bc28` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/2f0855ea74a051cedbf7fd129016a1cb46240a93e78cde1b579b6d59e3294b15.jpg)
 
 f equipped, the RKE transmitter must be within 1 m (3 ft) of the trunk or door being opened. Push the button on the door handle to open. See “Keyless Access Operation” in Remote Keyless Entry (RKE) System Operation (Key Access) 0 34 or Remote Keyless Entry (RKE) System Operation (Keyless Access) 0 36.
 
 ### Driver Door Key Lock Cylinder Access (In Case of Dead Battery)
-`chevrolet_cruze_en_b30b83e1` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/201f80aab6e465d6cf692c4747d0a5a37396d0b47ad11080171a07b7e85f4561.jpg)
 
@@ -1481,12 +1374,10 @@ To replace the cap:
 3. Check that the cap is secure.
 
 ### Free-Turning Locks
-`chevrolet_cruze_en_a91bf57a` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The door key lock cylinder turns freely when either the wrong key is used, or the correct key is not fully inserted. The free-turning door lock feature prevents the lock from being forced open. To reset the lock, turn it to the vertical position with the correct key fully inserted. Remove the key and insert it again. If this does not reset the lock, turn the key halfway around in the cylinder and repeat the reset procedure.
 
 ### Power Door Locks
-`chevrolet_cruze_en_07600559` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/140155345ac8350edd750d45f05e92ea0e0e14c33e7f20654d49dd525b57f376.jpg)
 
@@ -1494,7 +1385,6 @@ Q : Press to lock the doors.
 K Press to unlock the doors.
 
 ### Delayed Locking
-`chevrolet_cruze_en_abdbc4ea` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 This feature delays the locking of the doors until five seconds after all doors are closed.
 
@@ -1509,7 +1399,6 @@ Press Q on the door lock switch again or press Q on the RKE transmitter to lock 
 This feature can also be programmed. See Vehicle Personalization 0 145.
 
 ### Automatic Door Locks
-`chevrolet_cruze_en_f34a88d9` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 When the doors are closed, the ignition is on, and the shift lever is moved out of P (Park) for an automatic transmission, or the vehicle speed is above 13 km/h (8 mph) for a manual transmission, the doors will lock.
 
@@ -1528,7 +1417,6 @@ The automatic door lock feature cannot be disabled. Automatic door unlocking can
 See Vehicle Personalization 0 145.
 
 ### Lockout Protection
-`chevrolet_cruze_en_ac0a3df3` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Key Access When locking is requested with the driver door open and the key in the ignition, all the doors will lock and the driver door will remain unlocked.
 
@@ -1541,12 +1429,10 @@ If the vehicle is off and locking is requested while a door is open, when all do
 This can be manually overridden by pressing and holding Q on the power door lock switch.
 
 ### Unlocked Door Anti-Lockout
-`chevrolet_cruze_en_77886b97` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Keyless Access If Unlocked Door Anti-Lockout has been turned on and the vehicle is off, the driver door is open, and locking is requested, all the doors will lock and the driver door will remain unlocked. Push the lock button on the door or the RKE transmitter a second time to lock the driver door. The Unlocked Door Anti-Lockout feature can be turned on or off. See Vehicle Personalization 0 145.
 
 ### Manual Safety Locks
-`chevrolet_cruze_en_5e987c0a` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 To open a rear door when the safety lock is on:
 
@@ -1559,7 +1445,6 @@ The safety lock is on the inside edge of the rear doors. To use the safety lock:
 3. Do the same for the other rear door.
 
 ### Doors Trunk
-`chevrolet_cruze_en_c24fe065` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 1. Unlock the door by activating the inside handle, pressing the power door lock switch, or using the Remote Keyless Entry (RKE) transmitter.
 2. Open the door from the outside.
@@ -1600,7 +1485,6 @@ transmitter, or press the touch pad above the license plate after unlocking all 
 If equipped with Keyless Access, the trunk may be opened while the vehicle is locked by pressing the touch pad when the RKE transmitter is within 1 m (3 ft) of the rear of the vehicle.
 
 ### Emergency Trunk Release Handle
-`chevrolet_cruze_en_d2c99503` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/14db4c0f8f0367e4cfff0e5d0bf1ce1a79c436540538fe6cafe6987ca46e5817.jpg)
 
@@ -1613,7 +1497,6 @@ There is a glow-in-the-dark emergency trunk release handle on the trunk lid. The
 After pulling the emergency trunk release handle, push the handle back into the bezel.
 
 ### Warning (Continued)
-`chevrolet_cruze_en_d9c41991` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 monoxide (CO) which cannot be seen or smelled. It can cause unconsciousness and even death.
 
@@ -1643,12 +1526,10 @@ See Remote Keyless Entry (RKE) System Operation (Key Access) 0 34 or Remote Keyl
 When closing the liftgate, close using the grip cup to ensure that it fully latches.
 
 ### Vehicle Security
-`chevrolet_cruze_en_0b61f031` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle has theft-deterrent features; however, they do not make the vehicle impossible to steal.
 
 ### Vehicle Alarm System
-`chevrolet_cruze_en_89f6f975` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle has an anti-theft alarm system.
 
@@ -1665,7 +1546,6 @@ Fast Flash Vehicle is unsecured. A door, the hood, or the trunk is open.
 Slow Flash Alarm system is armed.
 
 ### Arming the Alarm System
-`chevrolet_cruze_en_0e4dde6e` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 1. Close the trunk and the hood. Turn off the vehicle.
 
@@ -1682,7 +1562,6 @@ If the driver door is opened without first unlocking with the RKE transmitter, t
 If a door, the hood, or the trunk is opened without first disarming the system, the turn signals will flash and the horn will sound for about 30 seconds. The alarm system will then re-arm to monitor for the next unauthorized event.
 
 ### Disarming the Alarm System
-`chevrolet_cruze_en_8f146ca0` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Do one of the following to disarm the alarm system or turn off the alarm if it has been activated:
 
@@ -1698,14 +1577,12 @@ Lock the vehicle after all occupants have left the vehicle and all doors are clo
 Unlocking the driver door with the key will not disarm the system or turn off the alarm.
 
 ### How to Detect a Tamper Condition
-`chevrolet_cruze_en_947af6d3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If K is pressed on the RKE transmitter and the horn chirps and the lamps flash three times, an alarm occurred previously while the alarm system was armed.
 
 If the alarm has been activated, a message will appear on the DIC.
 
 ### Immobilizer Operation (Key Access)
-`chevrolet_cruze_en_cd97c64a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle has a passive theft-deterrent system.
 
@@ -1728,7 +1605,6 @@ If the engine still does not start, and the key appears to be undamaged or the l
 Do not leave the key or device that disarms or deactivates the theft-deterrent system in the vehicle.
 
 ### Immobilizer Operation (Keyless Access)
-`chevrolet_cruze_en_2b5404ff` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle has a passive theft-deterrent system.
 
@@ -1755,14 +1631,12 @@ If the engine does not start with the other transmitter or when the transmitter 
 Do not leave the transmitter or device that disarms or deactivates the theft-deterrent system in the vehicle.
 
 ### Exterior Mirrors Convex Mirrors
-`chevrolet_cruze_en_8dc010ea` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/43819c0ba5a60588485b979017599339ce976a1d74f5446ba6c3aaece7e7f6da.jpg)
 
 The passenger side mirror is convex shaped. A convex mirror's surface is curved so more can be seen from the driver seat.
 
 ### Power Mirrors
-`chevrolet_cruze_en_090cdfba` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/bae56f6259d443f6ddd3bb772a89c2b1d1574549b1bf98b4663e77ff2ff6a818.jpg)
 
@@ -1773,38 +1647,32 @@ To adjust the mirror:
 3. Turn the control knob to the O position to deselect the mirror.
 
 ### Folding Mirrors
-`chevrolet_cruze_en_78590463` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The mirrors can be folded inward to prevent damage when going through an automatic car wash.
 
 To fold, pull the mirrors toward the vehicle. Push the mirrors outward to return to their original position.
 
 ### Heated Mirrors
-`chevrolet_cruze_en_d634d29b` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The rear window defogger also heats the outside mirrors, if equipped.
 
 = Press to heat the outside mirrors. See “Rear Window Defogger” under Automatic Climate Control System 0 190.
 
 ### Interior Rearview Mirrors
-`chevrolet_cruze_en_eb19440a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Adjust the rearview mirror for a clear view of the area behind the vehicle.
 
 Do not spray glass cleaner directly on the mirror. Use a soft towel dampened with water.
 
 ### Manual Rearview Mirror
-`chevrolet_cruze_en_513f499d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped with a manual rearview mirror, push the tab forward for daytime use and pull it for nighttime use to avoid glare from the headlamps from behind.
 
 ### Automatic Dimming Rearview Mirror
-`chevrolet_cruze_en_77bd9522` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, automatic dimming reduces the glare of headlamps from behind. The dimming feature comes on when the vehicle is started.
 
 ### Windows
-`chevrolet_cruze_en_d4a3a9b5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/cecd8522d5c35527fe4ac1f7d5e53b6a763702b655c42860fe30e825301ef738.jpg)
 
@@ -1813,7 +1681,6 @@ If equipped, automatic dimming reduces the glare of headlamps from behind. The d
 The vehicle aerodynamics are designed to improve fuel economy performance. This may result in a pulsing sound when either rear window is down and the front windows are up. To reduce the sound, open either a front window or the sunroof, if equipped.
 
 ### Power Windows
-`chevrolet_cruze_en_0911fc4a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/6ad456a729c16b51d297f6fcc1fc0f1cf04a6fa253670c5dcbcd2c53beb3f930.jpg)
 
@@ -1826,7 +1693,6 @@ Using the window switch, press to open or pull to close the window.
 The windows may be temporarily disabled if they are used repeatedly within a short time.
 
 ### Window Lockout
-`chevrolet_cruze_en_81406223` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/c3b241474293cf7439927208dc04947057346207cea67359bd22b22971e8615d.jpg)
 
@@ -1835,7 +1701,6 @@ This feature stops the rear door passenger window switches from working.
 Press Z to engage the rear window lockout feature. The indicator light is on when engaged. Press again to disengage.
 
 ### Window Express Movement
-`chevrolet_cruze_en_e359baee` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 All windows can be opened without holding the window switch. Press the switch down fully and quickly release to express open the window.
 
@@ -1844,7 +1709,6 @@ If equipped, pull the window switch up fully and quickly release to express clos
 Briefly press or pull the window switch in the same direction to stop that window’s express movement.
 
 ### Window Automatic Reversal System
-`chevrolet_cruze_en_a9626291` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The express-close feature will reverse window movement if it comes in contact with an object. Extreme cold or ice could cause the window to auto-reverse. The window will operate normally after the object or condition is removed.
 
@@ -1857,7 +1721,6 @@ Automatic Reversal System Override
 When the engine is on, override the automatic reversal system by pulling and holding the window switch if conditions prevent it from closing.
 
 ### Programming the Power Windows
-`chevrolet_cruze_en_ad7e3030` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Programming may be necessary if the vehicle's battery has been disconnected or discharged. If the window is unable to express-up, program the window:
 
@@ -1868,14 +1731,12 @@ Programming may be necessary if the vehicle's battery has been disconnected or d
 4. Open the window and continue to press the switch briefly after the window has fully opened.
 
 ### Sun Visors
-`chevrolet_cruze_en_f76627c7` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/11829ffc978dd5d12cf7b5496de9c687f7c289647d3e8dac7bb83304bca0f4d8.jpg)
 
 Pull the sun visor down to block glare. Detach the sun visor from the center mount to pivot to the side window and, if equipped, extend along the rod.
 
 ### Sunroof
-`chevrolet_cruze_en_79e837d8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, the sunroof only operates with the ignition on or in ACC/ACCESSORY, or when Retained Accessory Power (RAP) is active. See Retained Accessory Power (RAP) 0 215.
 
@@ -1885,7 +1746,6 @@ If equipped, the sunroof only operates with the ignition on or in ACC/ACCESSORY,
 2. Tilt Switch
 
 ### Slide Switch
-`chevrolet_cruze_en_692c1b43` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Express-Open/Express-Close To express-open the sunroof, press e (1) to the second detent
 
@@ -1894,7 +1754,6 @@ position and release. To express-close the sunroof, press g (1) to the second de
 Open/Close (Manual Mode) To open the sunroof, press and hold e (1) until the sunroof reaches the desired position. Press and hold g (1) to close.
 
 ### Tilt Switch
-`chevrolet_cruze_en_5c5316f0` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Vent From the closed position, press f (2) to vent the sunroof. Press g (2) to close.
 
@@ -1903,7 +1762,6 @@ When the sunroof is opened, an air deflector will automatically raise. The air d
 The sunroof also has a sunshade which can be pulled forward to block sun rays. The sunshade must be opened and closed manually.
 
 ### Automatic Reversal System
-`chevrolet_cruze_en_2bea03cb` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The sunroof has an automatic reversal system that is only active when the sunroof is operated in express-close mode.
 
@@ -1920,7 +1778,6 @@ Periodically open the sunroof and remove any obstacles or loose debris. Wipe the
 If water is seen dripping into the water drainage system, this is normal.
 
 ### Seat Belts
-`chevrolet_cruze_en_2bcd83fd` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Seat Belts 69
 How to Wear Seat Belts Properly 70
@@ -1932,12 +1789,10 @@ Seat Belt Care
 Replacing Seat Belt System Parts after a Crash 75
 
 ### Airbag System
-`chevrolet_cruze_en_34a04011` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Airbag System 75 Where Are the Airbags? 77 When Should an Airbag Inflate? 78 What Makes an Airbag Inflate? 79 How Does an Airbag Restrain? 80 What Will You See after an Airbag Inflates? 80 Passenger Sensing System 81 Servicing the Airbag-Equipped Vehicle 85 Adding Equipment to the Airbag-Equipped Vehicle 86 Airbag System Check 86 Replacing Airbag System Parts after a Crash 87
 
 ### Child Restraints
-`chevrolet_cruze_en_da4e204e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Older Children 87 Infants and Young Children 89 Child Restraint Systems 91 Where to Put the Restraint 93 Lower Anchors and Tethers for Children (LATCH System) 94 Replacing LATCH System Parts After a Crash 101
 
@@ -1945,7 +1800,6 @@ Securing Child Restraints (With the Seat Belt in the Rear Seat) 101
 Securing Child Restraints (With the Seat Belt in the Front Seat) 103
 
 ### Head Restraints
-`chevrolet_cruze_en_41217210` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The vehicle's front and rear seats have adjustable head restraints in the outboard seating positions.
 
@@ -1962,7 +1816,6 @@ The height of the head restraint can be adjusted. To raise or lower the head res
 The front seat outboard head restraints are not removable.
 
 ### Rear Seats
-`chevrolet_cruze_en_31e33edb` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The vehicle’s rear seats have adjustable head restraints in the outboard seating positions.
 
@@ -1979,7 +1832,6 @@ The rear outboard head restraints are designed to be removed. See “Head Restra
 If you are installing a child restraint in the rear seat, see “Securing a Child Restraint Designed for the LATCH System” under Lower Anchors and Tethers for Children (LATCH System) 0 94.
 
 ### Front Seats Seat Adjustment
-`chevrolet_cruze_en_a7ce338e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/55c67ee7bc0af4d2f3e616c9579d3744454309039ebbdd0c516f19dfddfb7733.jpg)
 
@@ -1993,14 +1845,12 @@ To adjust a manual seat:
 3. Try to move the seat back and forth to be sure it is locked in place.
 
 ### Seat Height Adjuster
-`chevrolet_cruze_en_18b951c4` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/614b4615c32650f69580f4ba1234663a0824fc9fd8c202627bd283ee14faaa9a.jpg)
 
 f equipped, move the lever up or down to manually raise or lower the seat.
 
 ### Power Seat Adjustment Reclining Seatbacks
-`chevrolet_cruze_en_94cfd214` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/b7d4806b3b16aa4643adb62d3bd429fe37f284b3bb01f1810789d972dc705b29.jpg)
 
@@ -2046,7 +1896,6 @@ Tilt the top of the control forward to raise.
 Do not have a seatback reclined if the vehicle is moving.
 
 ### Heated Front Seats
-`chevrolet_cruze_en_7799b09c` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/425b6a339a29f778cf99f874373f925741fba8213a2c6ce8b579660210ec1837.jpg)
 
@@ -2063,7 +1912,6 @@ Press the control once for the highest setting. With each press of the control, 
 The passenger seat may take longer to heat up.
 
 ### Remote Start Heated Seats
-`chevrolet_cruze_en_cb72277a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When it is cold outside, the heated seats can be turned on automatically during a remote vehicle start. The heated seats will be canceled when the ignition is turned on. Press the control to use the heated seats after the vehicle is started.
 
@@ -2074,7 +1922,6 @@ The temperature performance of an unoccupied seat may be reduced. This is normal
 The heated seats will not turn on during a remote start unless the heated seat feature is enabled in the vehicle personalization menu. See Remote Vehicle Start 0 42 and Vehicle Personalization 0 145.
 
 ### Rear Seat Reminder
-`chevrolet_cruze_en_fa40eb03` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, the message REAR SEAT REMINDER LOOK IN REAR SEAT displays under certain conditions indicating there may be an item or passenger in the rear seat. Check before exiting the vehicle.
 
@@ -2086,7 +1933,6 @@ The feature can be turned on or off.
 See Vehicle Personalization 0 145.
 
 ### Folding the Seatback
-`chevrolet_cruze_en_37e46a1a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The rear seatbacks can be folded.
 
@@ -2137,7 +1983,6 @@ A tab near the seatback lever retracts when the seatback is locked in place.
 Keep the seat in the upright locked position when not in use.
 
 ### Heated Rear Seats
-`chevrolet_cruze_en_b0347a25` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/abba6b730154a4e08444e0895b6807951f2df229768a40d9ddb68ba4e1653f48.jpg)
 
@@ -2148,7 +1993,6 @@ f equipped, the rear heated seat buttons are on the rear of the center console.
 Press M or L to heat the left outboard or right outboard seat cushion.
 
 ### Seat Belts
-`chevrolet_cruze_en_492c73c6` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This section describes how to use seat belts properly, and some things not to do.
 
@@ -2161,7 +2005,6 @@ This section describes how to use seat belts properly, and some things not to do
 This vehicle has indicators as a reminder to buckle the seat belts. See Seat Belt Reminders 0 128.
 
 ### Seat Belt Assurance System
-`chevrolet_cruze_en_608131ce` | cruze | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 This vehicle may have the Seat Belt Assurance System, which prevents the vehicle from shifting out of P (Park). A message displays in the Driver Information Center (DIC) indicating the shift lever is locked when the brake pedal is applied and the seat belts for either the driver or front outboard passenger are not buckled. The vehicle will not shift out of P (Park). Buckle the seat belts to unlock the shift lever. If the front passenger seat is unoccupied, only the driver seat belt must be buckled to unlock the shift lever.
 
@@ -2174,7 +2017,6 @@ The Seat Belt Assurance System will time out 30 seconds after the brake pedal is
 This system may not function properly if the airbag readiness light is on. See Airbag Readiness Light 0 128.
 
 ### Why Seat Belts Work
-`chevrolet_cruze_en_cf4fa58f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/fedac2840e7cb3a626ee447f249de8735ce7992321e92ad2e6c2d7dd1fa32b71.jpg)
 
@@ -2183,7 +2025,6 @@ When riding in a vehicle, you travel as fast as the vehicle does. If the vehicle
 When you wear a seat belt, you and the vehicle slow down together. There is more time to stop because you stop over a longer distance and, when worn properly, your strongest bones take the forces from the seat belts. That is why wearing seat belts makes such good sense.
 
 ### Questions and Answers About Seat Belts
-`chevrolet_cruze_en_30548d96` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Q: Will be trapped in the vehicle after a crash if I am wearing a seat belt?
 
@@ -2195,7 +2036,6 @@ A: Airbags are supplemental systems only. They work with seat belts — not inst
 Also, in nearly all states and in all Canadian provinces, the law requires wearing seat belts.
 
 ### How to Wear Seat Belts Properly
-`chevrolet_cruze_en_db6aed39` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 This section is only for people of adult size.
 
@@ -2214,7 +2054,6 @@ Wear the shoulder belt over the shoulder and across the chest. These parts of th
 ![](images/ab37559dec7821ef80c30d730116b5a3ed60f9f9ea4874fc1c4e023af10b9f16.jpg)
 
 ### Lap-Shoulder Belt
-`chevrolet_cruze_en_23a69e94` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 All seating positions in the vehicle have a lap-shoulder belt.
 
@@ -2255,7 +2094,6 @@ Always stow the seat belt slowly. If the seat belt webbing returns quickly to th
 Before a door is closed, be sure the seat belt is out of the way. If a door is slammed against a seat belt, damage can occur to both the seat belt and the vehicle.
 
 ### Seat Belt Pretensioners
-`chevrolet_cruze_en_398155ef` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle has seat belt pretensioners for front outboard occupants. Although the seat belt pretensioners cannot be seen, they are part of the seat belt assembly. They can help tighten the seat belts during the early stages of a moderate to severe frontal, near frontal, or rear crash if the threshold conditions for pretensioner activation are met. Seat belt
 
@@ -2266,14 +2104,12 @@ Pretensioners work only once. If the pretensioners activate in a crash, the pret
 Do not sit on the outboard seat belt while entering or exiting the vehicle or at any time while sitting in the seat. Sitting on the seat belt can damage the webbing and hardware.
 
 ### Rear Seat Belt Comfort Guides
-`chevrolet_cruze_en_d081f6b1` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Rear seat belt comfort guides may provide added seat belt comfort for older children who have outgrown booster seats and for some adults. When installed on a shoulder belt, the comfort guide positions the shoulder belt away from the neck and head.
 
 Comfort guides are available through your dealer for the rear outboard seating positions. Instructions are included with the guide.
 
 ### Seat Belt Use During Pregnancy
-`chevrolet_cruze_en_dd7e8534` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Seat belts work for everyone, including pregnant women. Like all occupants, they are more likely to be seriously injured if they do not wear seat belts.
 
@@ -2284,14 +2120,12 @@ A pregnant woman should wear a lap-shoulder belt, and the lap portion should be 
 The best way to protect the fetus is to protect the mother. When a seat belt is worn properly, it is more likely that the fetus will not be hurt in a crash. For pregnant women, as for anyone, the key to making seat belts effective is wearing them properly.
 
 ### Seat Belt Extender
-`chevrolet_cruze_en_a2e4c9ad` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the vehicle's seat belt will fasten around you, you should use it.
 
 But if a seat belt is not long enough, your dealer will order you an extender. When you go in to order it, take the heaviest coat you will wear, so the extender will be long enough for you. To help avoid personal injury, do not let someone else use it, and use it only for the seat it is made to fit. The extender has been designed for adults. Never use it for securing child restraints. For more information on the proper use and fit of seat belt extenders see the instruction sheet that comes with the extender.
 
 ### Safety System Check
-`chevrolet_cruze_en_2f29e25f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Periodically check the seat belt reminder, seat belts, buckles, latch plates, retractors, shoulder belt height adjusters (if equipped), and seat belt anchorages to make sure they are all in working order. Look for any other loose or damaged seat belt system parts that might keep a seat belt system from performing properly. See your dealer to have it repaired. Torn or frayed seat belts may not protect you in a crash. They can rip apart under impact forces. If a belt is torn or frayed, have it replaced immediately.
 
@@ -2300,7 +2134,6 @@ Make sure the seat belt reminder light is working. See Seat Belt Reminders 0 128
 Keep seat belts clean and dry. See Seat Belt Care 0 74.
 
 ### Seat Belt Care
-`chevrolet_cruze_en_2ec2635e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Keep belts clean and dry.
 
@@ -2311,7 +2144,6 @@ Seat belts should be properly cared for and maintained.
 Seat belt hardware should be kept dry and free of dust or debris. As necessary exterior hard surfaces and seat belt webbing may be lightly cleaned with mild soap and water. Ensure there is not excessive dust or debris in the mechanism. If dust or debris exists in the system please see the dealer. Parts may need to be replaced to ensure proper functionality of the system.
 
 ### Replacing Seat Belt System Parts after a Crash
-`chevrolet_cruze_en_910cf6c7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/9bb0be31ddcd93733dd8ec54d7e7934a7847b815d5bbca9bb5f20c304b1cec59.jpg)
 
@@ -2322,7 +2154,6 @@ New parts and repairs may be necessary even if the seat belt system was not bein
 Have the seat belt pretensioners checked if the vehicle has been in a crash, or if the airbag readiness light stays on after you start the vehicle or while you are driving. See Airbag Readiness Light 0 128.
 
 ### Airbag System
-`chevrolet_cruze_en_dce916e6` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The vehicle has the following airbags:
 
@@ -2386,7 +2217,6 @@ Occupants or sleep against the door or side windows in seating positions with se
 There is an airbag readiness light on the instrument cluster, which shows the airbag symbol. The system checks the airbag electrical system for malfunctions. The light tells you if there is an electrical problem. See Airbag Readiness Light 0 128.
 
 ### Where Are the Airbags?
-`chevrolet_cruze_en_3fe6e8dc` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/81f5277956b168d2079b609fdd2573d6a5d447451829b98ee459cc040b8cbe3a.jpg)
 
@@ -2401,7 +2231,6 @@ The driver knee airbag is below the steering column. The front outboard passenge
 ![](images/7e7ccd5ee91683b2aa203af528ea8b4062ec8e006835f4b7800d4f9628b8ff98.jpg)
 
 ### Driver Side Shown, Passenger Side Similar
-`chevrolet_cruze_en_eeaefbb6` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The driver and front outboard passenger seat-mounted side impact airbags are in the side of the seatbacks closest to the door.
 
@@ -2410,7 +2239,6 @@ The roof-rail airbags for the driver, front outboard passenger, and second row o
 ![](images/1d03c4255642a95bada1ff9cce5db1610cd38992007e722446fd4b91374a3e9f.jpg)
 
 ### Rear Seat Driver Side Shown, Passenger Side Similar
-`chevrolet_cruze_en_a534a7ac` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 On vehicles with second row seat-mounted side impact airbags, they are in the sides of the rear seatback closest to the door.
 
@@ -2419,7 +2247,6 @@ On vehicles with second row seat-mounted side impact airbags, they are in the si
 ![](images/19a010b4f922c88f37b07a5b8e4667d129c193fdac2bc203177689a327f269aa.jpg)
 
 ### When Should an Airbag Inflate?
-`chevrolet_cruze_en_f2ce1546` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle is equipped with airbags. See Airbag System 0 75. Airbags are designed to inflate if the impact exceeds the specific airbag system's deployment threshold. Deployment thresholds are used to predict how severe a crash is likely to be in time for the airbags to inflate and help restrain the occupants. The vehicle has electronic sensors that help the airbag system determine the severity of the impact. Deployment thresholds can vary with specific vehicle design.
 
@@ -2442,14 +2269,12 @@ Roof-rail airbags are designed to inflate in moderate to severe side crashes dep
 In any particular crash, no one can say whether an airbag should have inflated simply because of the vehicle damage or repair costs.
 
 ### What Makes an Airbag Inflate?
-`chevrolet_cruze_en_f7d3b541` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 In a deployment event, the sensing system sends an electrical signal triggering a release of gas from the inflator. Gas from the inflator fills the airbag causing the bag to break out of the cover. The inflator, the airbag, and related hardware are all part of the airbag module.
 
 For airbag locations, see Where Are the Airbags? 0 77.
 
 ### How Does an Airbag Restrain?
-`chevrolet_cruze_en_2fd8204c` | cruze | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 In moderate to severe frontal or near frontal collisions, even belted occupants can contact the steering wheel or the instrument panel. In moderate to severe side collisions, even belted occupants can contact the inside of the vehicle.
 
@@ -2464,7 +2289,6 @@ But airbags would not help in many types of collisions, primarily because the oc
 Airbags should never be regarded as anything more than a supplement to seat belts.
 
 ### What Will You See after an Airbag Inflates?
-`chevrolet_cruze_en_16b049a5` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 After the frontal airbags, knee airbags (if equipped), and seat-mounted side impact airbags inflate, they quickly deflate, so quickly that some people may not even realize an airbag inflated. Roof-rail airbags (if equipped) may still be at least partially inflated for some time after they inflate. Some components of the airbag module may be hot for several minutes. For location of the airbags, see Where Are the Airbags? 0 77.
 
@@ -2491,7 +2315,6 @@ See Vehicle Data Recording and Privacy 0 379 and Event Data Recorders 0 379.
 Let only qualified technicians work on the airbag systems. Improper service can mean that an airbag system will not work properly. See your dealer for service.
 
 ### Passenger Sensing System
-`chevrolet_cruze_en_2a76e7e0` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The vehicle has a passenger sensing system for the front outboard passenger position. The passenger airbag status indicator will light on the overhead console when the vehicle is started.
 
@@ -2500,7 +2323,6 @@ PASSENGER AIRbAG ON OFf
 ![](images/4a87320b4506cf11ee52af7f48c90c99c479d872384e4402b53b1510042ec060.jpg)
 
 ### Canada
-`chevrolet_cruze_en_7e9cce6d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The words ON and OFF, or the symbol for on and off, will be visible during the system check. When the system check is complete, either the word ON or OFF, or the symbol for on or off, will be visible. See Passenger Airbag Status Indicator 0 129.
 
@@ -2519,7 +2341,6 @@ Never put a rear-facing child seat in the front. This is because the risk to the
 ![](images/b0d53b7de4dd9fb06f792ebe1a974ffeb54e4e1a20f89523143bd5ca129f7488.jpg)
 
 ### Warning (Continued)
-`chevrolet_cruze_en_c5e53941` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 passenger frontal airbag inflates and the passenger seat is in a forward position.
 
@@ -2542,7 +2363,6 @@ For some children, including children in child restraints and for very small adu
 ![](images/a819ec1c9b82fe7bb9e51601522ecc8485753cb7eee564a659ae7a6381c53713.jpg)
 
 ### If the On Indicator Is Lit for a Child Restraint
-`chevrolet_cruze_en_a57fea42` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The passenger sensing system is designed to turn off the front outboard passenger frontal airbag and knee airbag if the system determines that an infant is present in a child restraint. If a child restraint has been installed and the on indicator is lit:
 
@@ -2558,12 +2378,10 @@ manufacturer and refer to Securing Child Restraints (With the Seat Belt in the R
 If this happens, adjust the head restraint. See Head Restraints 0 61.
 
 ### 6. Restart the vehicle.
-`chevrolet_cruze_en_890f111b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The passenger sensing system may or may not turn off the airbags for a child in a child restraint depending upon the child’s size. It is better to secure the child restraint in a rear seat. Never put a rear-facing child restraint in the front seat, even if the on indicator is not lit.
 
 ### If the Off Indicator Is Lit for an Adult-Sized Occupant
-`chevrolet_cruze_en_03722081` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/5c88eb2b34c23440674ec5e10218016cb36ced65348b1c42f3293ff7a3ed23cc.jpg)
 
@@ -2582,7 +2400,6 @@ may unintentionally cause the passenger sensing system to turn the airbag off fo
 ![](images/da7437c4f7bd861b4a9e1de77a1b9bb8c802480aefb655d1e5d3e8904ebff060.jpg)
 
 ### Additional Factors Affecting System Operation
-`chevrolet_cruze_en_7e95e7fd` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Seat belts help keep the passenger in position on the seat during vehicle maneuvers and braking, which helps the passenger sensing system maintain the passenger airbag status. See “Seat Belts” and “Child Restraints” in the Index for additional information about the importance of proper restraint use.
 
@@ -2593,14 +2410,12 @@ The on indicator may be lit if an object, such as a briefcase, handbag, grocery 
 ![](images/d739456d254d3539bd4363f23b0f050028912e2a2780ae6f0570b92ce2f08ed1.jpg)
 
 ### Servicing the Airbag-Equipped Vehicle
-`chevrolet_cruze_en_640534d8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Airbags affect how the vehicle should be serviced. There are parts of the airbag system in several places around the vehicle. Your dealer and the service manual have information about servicing the vehicle and the airbag system. To purchase a service manual, see Service Publications Ordering Information 0 376.
 
 { Warning For up to 10 seconds after the vehicle is turned off and the battery is disconnected, an airbag can still inflate during improper service. You can be injured if you are close to an airbag when it inflates. Avoid yellow connectors. They are probably part of the airbag system. Be sure to follow proper service procedures, and make sure the person performing work for you is qualified to do so.
 
 ### Adding Equipment to the Airbag-Equipped Vehicle
-`chevrolet_cruze_en_23d2f3ed` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Adding accessories that change the vehicle's frame, bumper system, height, front end, or side sheet metal may keep the airbag system from working properly. The operation of the airbag system can also be affected by changing any parts of the front seats, seat belts, airbag sensing and diagnostic module, steering wheel, instrument panel, inner door seals including the speakers, any of the airbag modules, ceiling or pillar garnish trim, overhead console, front sensors, side impact sensors, or airbag wiring.
 
@@ -2613,14 +2428,12 @@ If the vehicle has rollover roof-rail airbags, see Different Size Tires and Whee
 If you have to modify your vehicle because you have a disability and have questions about whether the modifications will affect the vehicle's airbag system, or if you have questions about whether the airbag system will be affected if the vehicle is modified for any other reason, call Customer Assistance. See Customer Assistance Offices 0 369.
 
 ### Airbag System Check
-`chevrolet_cruze_en_327a3bc3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The airbag system does not need regularly scheduled maintenance or replacement. Make sure the airbag readiness light is working. See Airbag Readiness Light 0 128.
 
 ![](images/3070fa28ee5a4d6ca664b2d9218498c05ae0f997abce6c5d89a35dfe7dae2c08.jpg)
 
 ### Replacing Airbag System Parts after a Crash
-`chevrolet_cruze_en_ecd30122` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/3979443d03f8faeb54f4e4adf3a1647cde16ac8a0acafa85312decfb71d3067c.jpg)
 
@@ -2631,7 +2444,6 @@ If an airbag inflates, you will need to replace airbag system parts. See your de
 If the airbag readiness light stays on after the vehicle is started or comes on when you are driving, the airbag system may not work properly. Have the vehicle serviced right away. See Airbag Readiness Light 0 128.
 
 ### Child Restraints Older Children
-`chevrolet_cruze_en_0c7d2978` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/81b7c2decbdef450b29cc99c1d5dd9e60adff4f45bd32065e1b60a990bd0c5e3.jpg)
 
@@ -2644,7 +2456,6 @@ Sit all the way back on the seat. Do the knees bend at the seat edge? yes, conti
 Buckle the lap-shoulder belt. Does the shoulder belt rest on the shoulder? If yes, continue. If no, try using the rear seat belt comfort guide, if available. See “Rear Seat Belt Comfort Guides” under Lap-Shoulder Belt 0 71. If a comfort guide is not available, or if the shoulder belt still does not rest on the shoulder, then return to the booster seat. Does the lap belt fit low and snug on the hips, touching the thighs? If yes, continue. If no, return to the booster seat. Can proper seat belt fit be maintained for the length of the trip? If yes, continue. If no, return to the booster seat.
 
 ### Q: What is the proper way to wear seat belts?
-`chevrolet_cruze_en_56546895` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A: An older child should wear a lap-shoulder belt and get the additional restraint a shoulder belt can provide. The shoulder belt should not cross the face or neck. The lap belt should fit snugly below the hips, just touching the top of the thighs. This applies belt force to the child's pelvic bones in a crash. It should never be worn over the abdomen, which could cause severe or even fatal internal injuries in a crash.
 
@@ -2663,7 +2474,6 @@ In a crash, children who are not buckled up can strike other people who are buck
 ![](images/b1396cbf9dae5255bc6d6f8e05cdd76b30d1f35c3460182cec5e0360291f058a.jpg)
 
 ### Infants and Young Children
-`chevrolet_cruze_en_12c99965` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Everyone in a vehicle needs protection! This includes infants and all other children. Neither the distance traveled nor the age and size of the traveler changes the need, for everyone, to use safety restraints. In fact, the law in every state in the United States and in every Canadian province says children up to some age must be restrained while in a vehicle.
 
@@ -2696,7 +2506,6 @@ For each type of child restraint, there are many different models available. Whe
 ![](images/3f6167090915069f68110a1c389dc9866680a226deb04c18e708c9e25770bbb0.jpg)
 
 ### Rear-Facing Infant Restraint
-`chevrolet_cruze_en_94bed50d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A rear-facing child restraint provides restraint with the seating surface against the back of the infant.
 
@@ -2707,7 +2516,6 @@ The harness system holds the infant in place and, in a crash, acts to keep the i
 ![](images/2f1c00ac8d695e51c843c65cb05b2f09c0d904668ea23086108d59c922856e2b.jpg)
 
 ### Booster Seats
-`chevrolet_cruze_en_ea1db372` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A belt-positioning booster seat is used for children who have outgrown their forward-facing child restraint. Boosters are designed to improve the fit of the vehicle's seat belt system until the child is large enough for the vehicle seat belts to fit properly without a booster seat. See the seat belt fit test in Older Children 0 87.
 
@@ -2720,7 +2528,6 @@ Keep in mind that an unsecured child restraint can move around in a collision or
 In some areas of the United States and Canada, Certified Child Passenger Safety Technicians (CPSTs) are available to inspect and demonstrate how to correctly use and install child restraints. In the U.S., refer to the National Highway Traffic Safety Administration (NHTSA) website to locate the nearest child safety seat inspection station. For CPST availability in Canada, check with Transport Canada or the Provincial Ministry of Transportation office.
 
 ### Where to Put the Restraint
-`chevrolet_cruze_en_16688a6e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 According to accident statistics, children and infants are safer when properly restrained in an appropriate child restraint secured in a rear seating position.
 
@@ -2729,7 +2536,6 @@ Whenever possible, children aged 12 and under should be secured in a rear seatin
 Never put a rear-facing child restraint in the front. This is because the risk to the rear-facing child is so great if the airbag deploys.
 
 ### { Warning
-`chevrolet_cruze_en_4ddc2049` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A child in a rear-facing child restraint can be seriously injured or killed if the front passenger airbag inflates. This is because the back of the rear-facing child restraint would be very close to the inflating airbag. A child in a forward-facing child restraint can be seriously injured or killed if the front passenger airbag inflates and the passenger seat is in a forward position.
 
@@ -2738,7 +2544,6 @@ Even if the passenger sensing system has turned off the front passenger frontal 
 Secure rear-facing child restraints in a rear seat, even if the airbag is off. If you secure a forward-facing child restraint in (Continued)
 
 ### Warning (Continued)
-`chevrolet_cruze_en_85b83d9a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 the front seat, always move the front passenger seat as far back as it will go. It is better to secure the child restraint in a rear seat.
 
@@ -2755,7 +2560,6 @@ Wherever a child restraint is installed, be sure to follow the instructions that
 Keep in mind that an unsecured child restraint can move around in a collision or sudden stop and injure people in the vehicle. Be sure to properly secure any child restraint in the vehicle — even when no child is in it.
 
 ### Lower Anchors and Tethers for Children (LATCH System)
-`chevrolet_cruze_en_848c44a4` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The LATCH system secures a child restraint during driving or in a crash. LATCH attachments on the child restraint are used to attach the child restraint to the anchors in the vehicle. The LATCH system is designed to make installation of a child restraint easier.
 
@@ -2784,14 +2588,12 @@ See Securing Child Restraints (With the Seat Belt in the Rear Seat)
 0 101 or Securing Child Restraints (With the Seat Belt in the Front Seat) 0 103.
 
 ### Lower Anchors
-`chevrolet_cruze_en_9a067da4` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/e5cf2f302005a0be4781850c3fd51a104215c6ff75e246e33dfd995404ec0f76.jpg)
 
 Lower anchors (1) are metal bars built into the vehicle. There are two lower anchors for each LATCH seating position that will accommodate a child restraint with lower attachments (2).
 
 ### Top Tether Anchor
-`chevrolet_cruze_en_06028ffe` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 自电
 
@@ -2820,14 +2622,12 @@ To assist in locating the top tether anchors, the top tether anchor symbol is on
 ![](images/73f779c33f23f2600de6eb6f709a126705c72acd7a87fbf6cf84bd3fcbbcdd6c.jpg)
 
 ### Sedan
-`chevrolet_cruze_en_45026581` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 For sedan models, the top tether anchors are under the covers behind the rear seat on the filler panel. Pull open the cover to access the top tether anchors. Be sure to use an anchor on the same side of the vehicle as the seating position where the child restraint will be placed.
 
 ![](images/a442b29dc4bbc75d2f209b0172c505c11d5538f4be168cd02160622b3891d631.jpg)
 
 ### Liftgate
-`chevrolet_cruze_en_a283194b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 For liftgate models, the top tether anchors are on the back of the rear seatbacks. Remove the cargo cover before installing the top tether. The cargo cover should remain off while the top tether is in use. Be sure to use an anchor on the same side of the vehicle as the seating position where the child restraint will be placed.
 
@@ -2871,7 +2671,6 @@ If you are using a single tether in a rear outboard seating position with an adj
 If you are using a dual tether in a rear outboard seating position with an adjustable head restraint, raise the head restraint and route the tether under the head restraint and around the head restraint posts.
 
 ### Liftgate
-`chevrolet_cruze_en_2d449e68` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/bed906cd001096f6805c23c0e4924ebf59118b3d47a06e29af7f90f63d6a41f7.jpg)
 
@@ -2884,7 +2683,6 @@ If you are using a dual tether in the center seating position, or the rear outbo
 3. Before placing a child in the child restraint, make sure it is securely held in place. To check, grasp the child restraint at the LATCH path and attempt to move it side to side and back and forth. There should be no more than 2.5 cm (1 in) of movement, for proper installation.
 
 ### Head Restraint Removal and Reinstallation
-`chevrolet_cruze_en_eaa1dd9f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The rear outboard head restraints can be removed if they interfere with the proper installation of the child restraint.
 
@@ -2909,17 +2707,14 @@ To reinstall the head restraint:
 2. Push the head restraint down. If necessary, press the height adjustment release button to further lower the head restraint. See Head Restraints 0 61.
 3. Try to move the head restraint to make sure that it is locked in place.
 
-### Warning
-`chevrolet_cruze_en_0905243e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-A crash can damage the LATCH system in the vehicle. A damaged LATCH system may not properly secure the child restraint, resulting in serious injury or even death in a crash. To help make sure the LATCH system is working properly after a crash, see your dealer to have the system inspected and any necessary replacements made as soon as possible.
-
-If the vehicle has the LATCH system and it was being used during a crash, new LATCH system parts may be needed.
-
-New parts and repairs may be necessary even if the LATCH system was not being used at the time of the crash.
+> ⚠️ **Внимание:** 
+> A crash can damage the LATCH system in the vehicle. A damaged LATCH system may not properly secure the child restraint, resulting in serious injury or even death in a crash. To help make sure the LATCH system is working properly after a crash, see your dealer to have the system inspected and any necessary replacements made as soon as possible.
+>
+> If the vehicle has the LATCH system and it was being used during a crash, new LATCH system parts may be needed.
+>
+> New parts and repairs may be necessary even if the LATCH system was not being used at the time of the crash.
 
 ### Securing Child Restraints (With the Seat Belt in the Rear Seat)
-`chevrolet_cruze_en_2a231cf1` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When securing a child restraint in a rear seating position, study the instructions that came with the child restraint to make sure it is compatible with this vehicle.
 
@@ -2958,14 +2753,12 @@ Try to pull the belt out of the retractor to make sure the retractor is locked. 
 7. Before placing a child in the child restraint, make sure it is securely held in place. To check, grasp the child restraint at the seat belt path and attempt to move it side to side and back and forth. When the child restraint is properly installed, there should be no more than 2.5 cm (1 in) of movement.
 
 ### Securing Child Restraints (With the Seat Belt in the Rear Seat)
-`chevrolet_cruze_en_b32e90a9` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To remove the child restraint, unbuckle the vehicle seat belt and let it return to the stowed position. If the top tether is attached to a top tether anchor, disconnect it. If the head restraint was removed, reinstall it before the seating position is used. See “Head Restraint Removal and Reinstallation” under Lower Anchors and Tethers for Children (LATCH
 
 System) 0 94 for additional information on installing the head restraint properly.
 
 ### Securing Child Restraints (With the Seat Belt in the Front Seat)
-`chevrolet_cruze_en_b9bd671e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle has airbags. A rear seat is a safer place to secure a forward-facing child restraint. See Where to Put the Restraint 0 93.
 
@@ -3014,14 +2807,12 @@ If a child restraint has been installed and the on indicator is lit, see “If t
 To remove the child restraint, unbuckle the vehicle seat belt and let it return to the stowed position.
 
 ### Glove Box
-`chevrolet_cruze_en_db002e58` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Open the glove box by lifting up on the lever.
 
 If equipped, a coin holder is on the interior side of the glove box door.
 
 ### Cupholders
-`chevrolet_cruze_en_f4a5bc90` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Cupholders are in the center console.
 
@@ -3030,21 +2821,18 @@ Cupholders are in the center console.
 Cupholders may be located in the second row seat armrest. To access, pull the armrest down.
 
 ### Center Console Storage
-`chevrolet_cruze_en_99102613` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The center console has a storage area under the armrest.
 
 ![](images/39a7d68f0c6455e6569e2a2927169a2caa4dd3ed99d08c862e42eb4a56927e34.jpg)
 
 ### Fixed Armrest
-`chevrolet_cruze_en_b9a2b0b5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped with a fixed armrest, pull up on the latch on the front of the armrest to access the storage area.
 
 ![](images/5a7bbfd2027fb2b1d911b398c0f955eb986bc88dae61cb882fe5ac3be051c3e0.jpg)
 
 ### Sliding Armrest
-`chevrolet_cruze_en_84d29abd` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped with a sliding armrest, return the armrest to the rear position.
 
@@ -3053,7 +2841,6 @@ If equipped with a sliding armrest, return the armrest to the rear position.
 Pull up on the latch to access the storage area.
 
 ### Controls
-`chevrolet_cruze_en_6ec671ba` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Steering Wheel Adjustment 110
 Steering Wheel Controls 110
@@ -3068,7 +2855,6 @@ Power Outlets 115
 Wireless Charging 117
 
 ### Warning Lights, Gauges, and Indicators
-`chevrolet_cruze_en_d67886fb` | cruze | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 Warning Lights, Gauges, and
 Indicators 119
@@ -3094,7 +2880,6 @@ Lamps On Reminder
 Cruise Control Light 137 Door Ajar Light 137
 
 ### Vehicle Messages
-`chevrolet_cruze_en_5b540fb0` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Vehicle Messages 144
 Engine Power Messages 144
@@ -3103,7 +2888,6 @@ Vehicle Speed Messages 144
 Vehicle Personalization Vehicle Personalization 145
 
 ### Controls
-`chevrolet_cruze_en_728305f0` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Steering Wheel Adjustment
 
@@ -3119,7 +2903,6 @@ To adjust the steering wheel:
 Do not adjust the steering wheel while driving.
 
 ### Steering Wheel Controls
-`chevrolet_cruze_en_c65decc6` | cruze | pdf_manual | tier:2 | lang:en | layer:steering | p:1 | doc_type:owners_manual
 
 If equipped, some audio controls can be adjusted at the steering wheel.
 
@@ -3137,7 +2920,6 @@ The favorite and volume switches are on the back of the steering wheel.
 2. Volume: Press to increase or decrease the volume.
 
 ### Heated Steering Wheel Windshield Wiper/Washer
-`chevrolet_cruze_en_11c2dd35` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/50d301755f88af1cb630a4260716f3620836fbe26cc770fcf4d4550574b9bfb3.jpg)
 
@@ -3146,7 +2928,6 @@ The favorite and volume switches are on the back of the steering wheel.
 The steering wheel takes about three minutes to start heating.
 
 ### Horn
-`chevrolet_cruze_en_877ac112` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press a on the steering wheel pad to sound the horn.
 
@@ -3170,7 +2951,6 @@ Clear snow and ice from the wiper blades and windshield before using them. If fr
 Heavy snow or ice can overload the wiper motor. If the wiper motor overheats, the windshield wipers will stop until the motor cools and the wiper control is turned off. See Electrical System Overload 0 290.
 
 ### Wiper Parking
-`chevrolet_cruze_en_9b36a487` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the ignition is turned off while the wipers are on LO, HI, or INT, they will immediately stop.
 
@@ -3183,7 +2963,6 @@ f Pull the windshield wiper lever toward you to spray windshield washer fluid an
 ![](images/7411fa04807cfdd6337533d6b1ee1e36fd4fb6cd47159c27bf583c95e0f7735a.jpg)
 
 ### Rear Window Wiper/ Washer
-`chevrolet_cruze_en_8b333a49` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The ignition must be on or in the ACC/ACCESSORY position to operate the rear window wiper/ washer.
 
@@ -3202,14 +2981,12 @@ ON Slow wipes.
 ![](images/76fcfc6dd0c4fe110fcc18316337e7ea62869bec05a3a18725ad5e69a7c1d960.jpg)
 
 ### Rear Wiper Arm Assembly Protection
-`chevrolet_cruze_en_2643d9d4` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When using an automatic car wash, move the rear wiper control to OFF to disable the rear wiper. In some vehicles, if the transmission is in N (Neutral) and the vehicle speed is very slow, the rear wiper will automatically park.
 
 The wiper operations return to normal when the transmission is no longer in N (Neutral) or the vehicle speed has increased.
 
 ### Reverse Gear Wipes
-`chevrolet_cruze_en_023620fe` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the rear wiper control is off, the rear wiper will automatically operate continuously when the shift lever is in R (Reverse), and the front windshield wiper is performing low or high speed wipes. If the rear wiper control is off, the shift lever is in R (Reverse), and the front windshield wiper is performing interval wipes, then the rear wiper automatically performs interval wipes.
 
@@ -3219,19 +2996,16 @@ See Vehicle Personalization 0 145.
 The windshield washer reservoir is used for the windshield and rear window. Check the fluid level if either washer is not working. See Washer Fluid 0 276.
 
 ### Compass
-`chevrolet_cruze_en_b6ac1213` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The vehicle may have a compass display in the Driver Information Center (DIC). The compass receives its heading and other information from the Global Positioning System (GPS) antenna, StabiliTrak, and vehicle speed information.
 
 Avoid covering the GPS antenna, located on the roof, for long periods of time with objects that may interfere with the antenna's ability to receive a satellite signal. The compass system is designed to operate for a certain number of miles or degrees of turn before needing a signal from the GPS satellites. When the compass display shows CAL, drive the vehicle for a short distance in an open area where it can receive a GPS signal. The compass system will automatically determine when the GPS signal is restored and provide a heading again.
 
 ### Base Radio
-`chevrolet_cruze_en_72049a8b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The infotainment system controls are used to access the time and date settings through the menu system. See Operation 0 164 on how to use the menu system.
 
 ### Setting the Time and Date
-`chevrolet_cruze_en_176d533c` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When Auto Set is enabled the time cannot be manually set.
 
@@ -3242,7 +3016,6 @@ When Auto Set is enabled the time cannot be manually set.
 5. Touch
 
 ### Using Auto Set
-`chevrolet_cruze_en_6a647cbb` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press {, then touch SETTINGS.
 
@@ -3251,7 +3024,6 @@ When Auto Set is enabled the time cannot be manually set.
 4. Touch
 
 ### Setting the Month and Day Format
-`chevrolet_cruze_en_e8a77ef7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press {, then touch SETTINGS.
 2. Touch Time and Date, then Set Date Format.
@@ -3260,7 +3032,6 @@ When Auto Set is enabled the time cannot be manually set.
 4. Touch
 
 ### Uplevel Radio Using Center Stack Controls
-`chevrolet_cruze_en_5f52fb7b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The infotainment system controls are used to access the time and date settings through the menu system. See “Using the System” under “Introduction” in the infotainment manual.
 
@@ -3285,7 +3056,6 @@ To set the clock display:
 Press o BACK to go to the last menu and save the changes.
 
 ### Uplevel Radio Using Infotainment Display Controls
-`chevrolet_cruze_en_b9fb9b16` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To set the time:
 
@@ -3315,7 +3085,6 @@ To set the clock display:
 The clock settings can also be accessed by touching the time display, then touching Set.
 
 ### Power Outlet 12-Volt Direct Current
-`chevrolet_cruze_en_8f151229` | cruze | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 The accessory power outlet can be used to plug in electrical equipment, such as a cell phone or MP3 player.
 
@@ -3332,7 +3101,6 @@ When adding electrical equipment, be sure to follow the installation instruction
 ![](images/0ec2858989a1bfa68518935a71c4fde51ce52ddb888d6e36f252728eb2626f20.jpg)
 
 ### Power Outlet 110/120V Volt Alternating Current
-`chevrolet_cruze_en_e489dbdc` | cruze | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 If equipped with this power outlet it can be used to plug in electrical equipment that uses a maximum limit of 150 watts.
 
@@ -3363,7 +3131,6 @@ sensor lamps
 Medical equipment
 
 ### Wireless Charging
-`chevrolet_cruze_en_4b9bf9ae` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The vehicle may have a wireless charging pocket in the center console. The system operates at 145 kHz and wirelessly charges one PMA or Qi compatible mobile device. The power output of the system is capable of charging at a rate up to 1 amp (5W), as requested by the compatible mobile device. See Radio Frequency Statement 0 377.
 
@@ -3394,7 +3161,6 @@ Wireless Charger in Vehicle withFixed Armrest
 ![](images/de051028a69e1e34a7c0841a87f9cb61f0a72ac0f7da19f0f94f6148f5090c8e.jpg)
 
 ### Wireless Charger in Vehicle with Sliding Armrest
-`chevrolet_cruze_en_ea0be4ee` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To charge a mobile device:
 
@@ -3404,17 +3170,14 @@ To charge a mobile device:
 mobile device is properly positioned and charging. If a mobile device is inserted into the pocket and } does not display, remove the mobile device from the pocket, turn it 180 degrees, and wait three seconds before inserting the mobile device into the pocket again.
 
 ### Software Acknowledgements
-`chevrolet_cruze_en_c5e8c8ab` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Certain Wireless Charging Module product from LG Electronics, Inc. ("LGE") contains the open source software detailed below. Refer to the indicated open source licenses (as are included following this notice) for the terms and conditions of their use.
 
 ### OSS Notice Information
-`chevrolet_cruze_en_ad11c6f7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To obtain the source code that is contained in this product, please visit http://opensource.lge.com. In addition to the source code, all referred license terms, warranty disclaimers and copyright notices are available for download. LG Electronics will also provide open source code to you on CD-ROM for a charge covering the cost of performing such distribution (such as the cost of media, shipping, and handling) upon email request to opensource@lge.com. This offer is valid for three (3) years from the date on which you purchased the product.
 
 ### Freescale-WCT library
-`chevrolet_cruze_en_f02d0ada` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Copyright (c) 2012-2014 Freescale Semiconductor, Inc.. All rights reserved.
 
@@ -3452,14 +3215,12 @@ CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING
 
 ### Warning Lights, Gauges, and Indicators
-`chevrolet_cruze_en_3ea96452` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Warning lights and gauges can signal that something is wrong before it becomes serious enough to cause an expensive repair or replacement. Paying attention to the warning lights and gauges could prevent injury.
 
 Some warning lights come on briefly when the engine is started to indicate they are working. When one of the warning lights comes on and stays on while driving, or when one of the gauges shows there may be a problem, check the section that explains what to do. Waiting to do repairs can be costly and even dangerous.
 
 ### Instrument Cluster
-`chevrolet_cruze_en_3339debb` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/143ea97e85da081c16d23bce27dcaef8b0c4207ac9b2b86e99fe46fe48f3b0aa.jpg)
 Base Level Auto Stop English Shown, Metric Similar
@@ -3474,7 +3235,6 @@ Base Level Diesel Auto Stop English Shown, Metric Similar
 Uplevel Diesel English Shown, Metric Similar
 
 ### Cluster Menu
-`chevrolet_cruze_en_3d853a46` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 There is an interactive display area in the center of the instrument cluster.
 
@@ -3495,22 +3255,18 @@ Navigation
 Options
 
 ### Audio
-`chevrolet_cruze_en_6289f075` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 In the main view of the Audio app, press w or x to scroll through radio stations or move to the next/ previous track of a CD/USB/ Bluetooth device that is connected to the vehicle. Press V to select the Audio app, then press p to enter the Audio menu. In the Audio menu browse for music, select from the favorites, or change the audio source.
 
 ### Phone
-`chevrolet_cruze_en_807e105f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press V to select the Phone app, then press p to enter the Phone menu. In the Phone menu, if there is no active phone call, view recent calls, scroll through contacts, or select from the favorites. If there is an active call, mute or unmute the phone or switch to handset or handsfree operation.
 
 ### Navigation
-`chevrolet_cruze_en_434c0a81` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press V to select the Navigation app, then press p to enter the Navigation menu. If there is no active route, you can resume the last route and turn the voice prompts on/off. If there is an active route, press V to cancel route guidance or turn the voice prompts on/off.
 
 ### Options
-`chevrolet_cruze_en_40dfa1ed` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press V to select the Options app. Use w or x to scroll through the items in the Options menu.
 
@@ -3521,19 +3277,16 @@ Info Pages Press p while Info Pages is displayed to enter the Info Pages menu an
 Speed Warning The Speed Warning display allows the driver to set a speed that they do not want to exceed. To set the Speed Warning, press p when Speed Warning is displayed. Press w or x to adjust the value. Press V to set the speed. Once the speed is set, this feature can be turned off by pressing V while viewing this page. If the selected speed limit is exceeded, a pop-up warning is displayed with a chime.
 
 ### Speedometer
-`chevrolet_cruze_en_3eeb5ecd` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The speedometer shows the vehicle's speed in either kilometers per hour (km/h) or miles per hour (mph).
 
 ### Trip Odometer
-`chevrolet_cruze_en_59af9adf` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The trip odometer shows how far the vehicle has been driven since the trip odometer was last reset.
 
 The trip odometer is accessed and reset through the Driver Information Center (DIC). See Driver Information Center (DIC) (Base) 0 138 or Driver Information Center (DIC) (Uplevel) 0 141.
 
 ### Tachometer
-`chevrolet_cruze_en_fad5e392` | cruze | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 The tachometer displays the engine speed in revolutions per minute (rpm).
 
@@ -3571,7 +3324,6 @@ When the ignition is on, the fuel gauge indicates about how much fuel is left in
 ![](images/79b214fd807b707457d6bdcb6f88e099efccdd8f7913c8b5be1c99827d3e5f6d.jpg)
 
 ### English Uplevel
-`chevrolet_cruze_en_67583b0d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This gauge shows the engine coolant temperature.
 
@@ -3580,7 +3332,6 @@ If the pointer moves toward the warning area at the high end of the gauge, the e
 If the vehicle has been operating under normal driving conditions, pull off the road, stop the vehicle, and turn off the engine as soon as possible. See Engine Overheating 0 275.
 
 ### Seat Belt Reminders Driver Seat Belt Reminder Light
-`chevrolet_cruze_en_3060ff59` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 There is a driver seat belt reminder light on the instrument cluster.
 
@@ -3591,7 +3342,6 @@ When the engine is on, this light is solid. When the engine is started, this lig
 If the driver seat belt is buckled, neither the light nor the chime comes on.
 
 ### Passenger Seat Belt Reminder Light
-`chevrolet_cruze_en_59038417` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 There is a passenger seat belt reminder light near the passenger airbag status indicator. If equipped, see Passenger Sensing System 0 81.
 
@@ -3604,7 +3354,6 @@ If the passenger seat belt is buckled, neither the chime nor the light comes on.
 The front passenger seat belt reminder light and chime may turn on an object is put on the seat such as a briefcase, handbag, grocery bag, laptop, or other electronic device. To turn off the reminder light and/or chime, remove the object from the seat or buckle the seat belt.
 
 ### Airbag Readiness Light
-`chevrolet_cruze_en_ff6b9ec0` | cruze | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 This light shows if there is an electrical problem with the airbag system. The system check includes the airbag sensor(s), passenger sensing system, the pretensioners, the airbag modules, the wiring, and the crash sensing and diagnostic module. For more information on the airbag system, see Airbag System 0 75.
 
@@ -3615,14 +3364,12 @@ The airbag readiness light comes on for several seconds when the vehicle is star
 ![](images/b9bb0c2b27c671352d1a53351012fc45ecf4200d1f6f86443059ebd3895fb349.jpg)
 
 ### Passenger Airbag Status Indicator
-`chevrolet_cruze_en_d7f3a1b3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The vehicle has a passenger sensing system. See Passenger Sensing System 0 81 for important safety information. The overhead console has a passenger airbag status indicator.
 
 PASSENGER AIRbAG ON OFF
 
 ### Canada
-`chevrolet_cruze_en_25d71ba0` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the vehicle is started, the passenger airbag status indicator will light ON and OFF, or the symbol for on and off, for several seconds as a system check. Then, after several seconds, the status indicator will light either ON or OFF, or the on or off symbol to let you know the status of the front outboard passenger frontal airbag and knee airbag.
 
@@ -3635,7 +3382,6 @@ If, after several seconds, both status indicator lights remain on, or if there a
 ![](images/3f238e19f9d467f1cb4269146f06c777444b6ea519b704f3b65bcce6f6d046a0.jpg)
 
 ### Charging System Light
-`chevrolet_cruze_en_3f4c4171` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/c0914c9882070fbc10a7dac70782d6b6767f130ba67369e18938b5943bed24d5.jpg)
 
@@ -3646,7 +3392,6 @@ If the light stays on, or comes on while driving, there could be a problem with 
 If a short distance must be driven with the light on, be sure to turn off all accessories, such as the radio and air conditioner.
 
 ### Malfunction Indicator Lamp (Check Engine Light)
-`chevrolet_cruze_en_0bb7c5e0` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This light is part of the vehicle’s emission control on-board diagnostic system. If this light is on while the engine is running, a malfunction has been detected and the vehicle may require service. The light should come on to show that it is working when the ignition is on with the engine not running for Key Access or in Service Mode for Keyless Access.
 
@@ -3663,7 +3408,6 @@ Malfunctions are often indicated by the system before any problem is noticeable.
 Caution Modifications to the engine, transmission, exhaust, intake, or fuel system, or the use of replacement tires that do not meet the original tire specifications, can cause this light to come on. This could lead to costly repairs not covered by the vehicle warranty. This could also affect the vehicle’s ability to pass an Emissions Inspection/ Maintenance test. See Accessories and Modifications 0 260.
 
 ### Light Flashing (Gasoline Engine Only)
-`chevrolet_cruze_en_a15f8c1c` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the light is flashing : A malfunction has been detected that could damage the emission control system and increase vehicle emissions. Diagnosis and service may be required.
 
@@ -3672,7 +3416,6 @@ To help prevent damage, reduce vehicle speed and avoid hard accelerations and up
 If the light continues to flash, find a safe place to park. Turn the vehicle off and wait at least 10 seconds before restarting the engine. If the light is still flashing, follow the previous guidelines and see your dealer for service as soon as possible.
 
 ### Light on Steady (All Engines)
-`chevrolet_cruze_en_ca4ec9c8` | cruze | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 If the light is on steady A malfunction has been detected. Diagnosis and service may be required.
 
@@ -3683,7 +3426,6 @@ A loose or missing fuel cap may cause the light to come on. See Filling the Tank
 If the light remains on, see your dealer.
 
 ### Emissions Inspection and Maintenance Programs
-`chevrolet_cruze_en_982291f4` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the vehicle requires an Emissions Inspection/Maintenance test, the test equipment will likely connect to the vehicle's Data Link Connector (DLC).
 
@@ -3705,7 +3447,6 @@ serviced.
 See your dealer if the vehicle will not pass or cannot be made ready for the test.
 
 ### Brake System Warning Light
-`chevrolet_cruze_en_b8087dad` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The vehicle brake system consists of two hydraulic circuits. If one circuit is not working, the remaining circuit can still work to stop the vehicle. For normal braking performance, both circuits need to be working.
 
@@ -3724,7 +3465,6 @@ When the ignition is on, the brake system warning light also comes on when the p
 ![](images/754ed8a36d9c8338a5eea308aad330a709b63ff988cda8b5aa8d5b5fd4c9f747.jpg)
 
 ### Antilock Brake System (ABS) Warning Light
-`chevrolet_cruze_en_98d7004e` | cruze | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 ABS
 
@@ -3739,12 +3479,10 @@ If the regular brake system warning light is not on, the vehicle still has brake
 A DIC message may display.
 
 ### Up-Shift Light
-`chevrolet_cruze_en_4841238c` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This light comes on when an up-shift is recommended for best fuel economy. The number displayed with the arrow indicates the recommended gear.
 
 ### Lane Keep Assist (LKA) Light
-`chevrolet_cruze_en_45c951b4` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 D
 
@@ -3761,7 +3499,6 @@ This light is amber and flashes as a Lane Departure Warning (LDW) alert, to indi
 See Lane Keep Assist (LKA) 0 242.
 
 ### Vehicle Ahead Indicator
-`chevrolet_cruze_en_14f43b4d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/403c89ffc658baad9b0be4a3cdf49ea8cacf7db006fa081a1efe76412cbc42ab.jpg)
 
@@ -3818,26 +3555,22 @@ The fast warm-up glow plug system makes the wait-to-start light stay on for a sh
 For more information, see Starting the Engine 0 209.
 
 ### Tire Pressure Light
-`chevrolet_cruze_en_7480707d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/77c0ac052c59b5e9e9556085f1b753df5ef0eaece1543cb2ffcc5d1ea6d10ba9.jpg)
 
 For vehicles with the Tire Pressure Monitor System (TPMS), this light comes on briefly when the engine is started. It provides information about tire pressures and the TPMS.
 
 ### When the Light Is On Steady
-`chevrolet_cruze_en_fdb8e61e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This indicates that one or more of the tires are significantly underinflated.
 
 A Driver Information Center (DIC) tire pressure message may also display. Stop as soon as possible, and inflate the tires to the pressure value shown on the Tire and Loading Information label. See Tire Pressure 0 305.
 
 ### When the Light Flashes First and Then Is On Steady
-`chevrolet_cruze_en_d7b2e167` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the light flashes for about a minute and then stays on, there may be a problem with the TPMS. If the problem is not corrected, the light will come on at every ignition cycle. See Tire Pressure Monitor Operation 0 308.
 
 ### Engine Oil Pressure Light
-`chevrolet_cruze_en_41f2109f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/dbb186bf386c00b2f0919a67441f0ea13f50f9dea27037bebceb05da2d980434.jpg)
 
@@ -3848,7 +3581,6 @@ This light should come on briefly as the engine is started. If it does not come 
 If the light comes on and stays on, it means that oil is not flowing through the engine properly. The vehicle could be low on oil and might have some other system problem. See your dealer.
 
 ### Low Fuel Warning Light
-`chevrolet_cruze_en_1f824288` | cruze | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 ![](images/a52cbbe6c28b8680f1d474cd384fa7ff88f2630fba02ba54d331bf0619984b05.jpg)
 
@@ -3857,7 +3589,6 @@ This light is near the fuel gauge and comes on briefly when the ignition is turn
 It also comes on when the fuel tank is low on fuel. The light turns off when fuel is added. If it does not, have the vehicle serviced.
 
 ### Diesel Exhaust Fluid (DEF) Warning Light
-`chevrolet_cruze_en_7d388e96` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/ef2039d29bc7c3fc565224438dc09a412437d28c374f8c342721616fedd5f369.jpg)
 
@@ -3866,7 +3597,6 @@ This light, a Driver Information Center (DIC) Message, and a chime come on when 
 If the DEF issue has not been corrected, the light will continue to flash. The vehicle's speed may also be limited. See Diesel Exhaust Fluid 0 219.
 
 ### Security Light
-`chevrolet_cruze_en_b9cb1ce7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/f0545e7738181df811a1acb28e21f431a695d6ca124910e068e38ae1465b1dce.jpg)
 
@@ -3877,7 +3607,6 @@ If the light stays on and the engine does not start, there could be a problem wi
 See Immobilizer Operation (Key Access) 0 53 or Immobilizer Operation (Keyless Access) 0 53.
 
 ### High-Beam On Light Front Fog Lamp Light Cruise Control Light
-`chevrolet_cruze_en_e542c5c8` | cruze | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 三
 
@@ -3894,7 +3623,6 @@ The fog lamp light comes on when the fog lamps are in use.
 The light goes out when the fog lamps are turned off. See Fog Lamps 0 157 for more information.
 
 ### Lamps On Reminder
-`chevrolet_cruze_en_b7a066c9` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 E00E
 
@@ -3911,17 +3639,14 @@ Door Ajar Light
 If equipped, this light comes on when a door is open or not securely latched. Before driving, check that all doors are properly closed.
 
 ### Information Displays Driver Information Center (DIC) (Base)
-`chevrolet_cruze_en_37626e89` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The DIC displays information about your vehicle. It also displays warning messages if a system problem is detected. See Vehicle Messages 0 144. All messages appear in the DIC display in the center of the instrument cluster.
 
 ### DIC Operation and Displays
-`chevrolet_cruze_en_1b70f043` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The DIC has different displays which can be accessed by using the DIC buttons on the turn signal lever.
 
 ### DIC Buttons
-`chevrolet_cruze_en_09e6b1b1` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/59dda503e896649bfb53f391fd064d3413b3cd8b2f208d669acdac250c38956b.jpg)
 
@@ -3932,7 +3657,6 @@ SET/CLR Press to set, or press and hold to clear, the menu item displayed.
 MENU Press to display the Trip/ Fuel Menu, the Vehicle Information Menu, and the ECO Menu. This button is also used to return to or exit the last screen displayed on the DIC.
 
 ### Trip/Fuel Menu (TRIP) Items
-`chevrolet_cruze_en_00504c70` | cruze | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 Press MENU on the turn signal lever until the TRIP menu displays. Use \ to scroll through the menu items. Not all items are available on every vehicle. The following is a list of all possible menu items:
 
@@ -3957,7 +3681,6 @@ Navigation Used for the OnStar Turn-by-Turn guidance. See OnStar Overview 0 381.
 Blank Display Displays no information.
 
 ### Vehicle Information Menu (VEHICLE) Items
-`chevrolet_cruze_en_3e9812ad` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press MENU on the turn signal lever until the VEHICLE menu is displayed. Use \ to scroll through the menu items. Not all items are available on every vehicle. The following is a list of all possible menu items:
 
@@ -3976,7 +3699,6 @@ Fuel Filter Life This display shows an estimate of the fuel filter's remaining u
 message will appear on the display. Change the fuel filter as soon as possible.
 
 ### Diesel Exhaust Fluid (DEF)
-`chevrolet_cruze_en_1dbc2d3a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Level The DEF level will be displayed as either OK, XX%, or LOW. When LOW appears on the display, add DEF as soon as possible. See Diesel Exhaust Fluid 0 219.
 
@@ -3991,7 +3713,6 @@ The speed can be set by pressing SET/CLR while the speed warning display is show
 Units Move \ to change between Metric or US when the Unit display is active. Press SET/CLR to confirm the setting. This will change the displays on the DIC to the type of measurements you select.
 
 ### ECO Drive Assist Menu (ECO) Items
-`chevrolet_cruze_en_6731015d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This menu is only available on some vehicles. Press MENU on the turn signal lever until the ECO menu is displayed. Use \ to scroll through the menu items. Not all items are available on every vehicle. The following is a list of all possible menu items:
 
@@ -4010,7 +3731,6 @@ Economy Trend Shows history of the Average Fuel Economy from the last 50 km (30 
 recent distance on the right side. Press and hold SET/CLR to clear the graph.
 
 ### Driver Information Center (DIC) (Uplevel)
-`chevrolet_cruze_en_0e14710a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The DIC displays are shown in the center of the instrument cluster in the Info app. See Instrument Cluster 0 120. The displays show the status of many vehicle systems. The controls for the DIC are on the right steering wheel control.
 
@@ -4023,7 +3743,6 @@ o or p Press to move between the interactive display zones in the cluster.
 V Press to open a menu or select a menu item. Press and hold to reset values on certain screens.
 
 ### DIC Info Page Options
-`chevrolet_cruze_en_fa5827ce` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The info pages on the DIC can be turned on or off through the Options menu.
 
@@ -4036,7 +3755,6 @@ The info pages on the DIC can be turned on or off through the Options menu.
 6. Press V while an item is highlighted to select or deselect that item. When an item is selected, a checkmark will appear next to it.
 
 ### DIC Info Pages
-`chevrolet_cruze_en_e4fe30e6` | cruze | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 The following is the list of all possible DIC info page displays. Some may not be available for your particular vehicle. Some items may not be turned on by default but can be turned on through the Options app. See “DIC Info Page Options” earlier in this section.
 
@@ -4067,7 +3785,6 @@ Diesel Exhaust Fluid (DEF) Level The Diesel Exhaust Fluid (DEF) level will be di
 Fuel Filter Life This display shows an estimate of the fuel filter's remaining useful life. If 90% Fuel Filter Life Remaining is displayed, it means 90% of the current fuel filter life remains. The fuel filter life system will alert when to change the fuel filter on a schedule consistent with your driving conditions.
 
 ### DIC Info Pages
-`chevrolet_cruze_en_84eb757e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the remaining fuel filter life is low, the CHANGE FUEL FILTER message will appear on the display. Change the fuel filter as soon as possible.
 
@@ -4086,7 +3803,6 @@ The display provides information on how current driving behavior affects the run
 Timer This display can be used as a timer. To start the timer, press V while this display is active. The display will show the amount of time that has passed since the timer was last reset. To stop the timer, press V briefly while this display is active and the timer is running. To reset the timer to zero, press and hold V wphialendthsise deicstprleasy is active, or press
 
 ### Following Distance Indicator :
-`chevrolet_cruze_en_f931b415` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The current follow time to the vehicle ahead is displayed as a time value on this page.
 
@@ -4095,7 +3811,6 @@ Battery Voltage Displays the current battery voltage, if equipped. Battery volta
 Blank Page Shows no information.
 
 ### Vehicle Messages
-`chevrolet_cruze_en_6a70a412` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Messages displayed on the DIC indicate the status of the vehicle or some action that may be needed to correct a condition. Multiple messages may appear one after another.
 
@@ -4123,24 +3838,20 @@ Tire Pressure
 Battery
 
 ### Engine Power Messages ENGINE POWER IS REDUCED
-`chevrolet_cruze_en_1331f4e7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This message displays when the vehicle's propulsion power is reduced. Reduced propulsion power can affect the vehicle's ability to accelerate. If this message is on, but there is no observed reduction in performance, proceed to your destination. The performance may be reduced the next time the vehicle is driven. The vehicle may be driven while this message is on, but maximum acceleration and speed may be reduced. Anytime this message stays on, or displays repeatedly, the vehicle should be taken to your dealer for service as soon as possible.
 
 ### Vehicle Speed Messages SPEED LIMITED TO XXX KM/H (MPH)
-`chevrolet_cruze_en_ab6fb40f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This message shows that the vehicle speed has been limited to the speed displayed. The limited speed is a protection for various propulsion and vehicle systems, such as lubrication, thermal, suspension, Teen Driver if equipped, or tires.
 
 ### Vehicle Personalization
-`chevrolet_cruze_en_74c317e0` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use the audio system controls to access the personalization menus for customizing vehicle features.
 
 The following are all possible personalization features. Depending on the vehicle, some may not be available.
 
 ### Base Radio Audio System Controls
-`chevrolet_cruze_en_d5b6e710` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 { : Press to access the Home Page Menu.
 
@@ -4149,7 +3860,6 @@ Q or R Touch to scroll through the menus or setup items.
 0 Touch to exit or return to the previous screen or menu.
 
 ### Uplevel Radio Audio System Controls
-`chevrolet_cruze_en_31c8c999` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Touch the desired feature to display a list of available options.
 2. Touch to select the desired feature setting.
@@ -4159,7 +3869,6 @@ Q or R Touch to scroll through the menus or setup items.
 Turn the ignition on to access the Settings menu, then select SETTINGS from the Home Page on the infotainment display.
 
 ### Personalization Menus
-`chevrolet_cruze_en_3c1015cd` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The following list of menu items may be available:
 
@@ -4184,21 +3893,18 @@ Wi-Fi
 Detailed information for each menu follows.
 
 ### Rear Seat Reminder
-`chevrolet_cruze_en_68674eaa` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This allows for a chime and a message when the rear door has been opened before or during operation of the vehicle.
 
 Select Off or On.
 
 ### Language
-`chevrolet_cruze_en_4632ea67` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Select Language, then select from the available language(s).
 
 The selected language will display on the system, and voice recognition will reflect the selected language.
 
 ### Valet Mode
-`chevrolet_cruze_en_526b15ce` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This will lock the infotainment system and steering wheel controls. It may also limit access to vehicle storage locations, if equipped.
 
@@ -4211,7 +3917,6 @@ To enable valet mode:
 Touch Lock or Unlock to lock or unlock the system. Touch Back to go back to the previous menu.
 
 ### Radio
-`chevrolet_cruze_en_b832a496` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Select and the following may display:
 
@@ -4223,106 +3928,90 @@ Maximum Startup Volume
 Audio Cue Volume
 
 ### Manage Favorites
-`chevrolet_cruze_en_3e14c928` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This allows favorites to be edited. See “Storing a Station as a Favorite” in AM-FM Radio 0 166 or “Manage Favorites” in “Settings” under “Radio” in the infotainment manual.
 
 ### Number of Favorites Shown
-`chevrolet_cruze_en_a922d086` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Select to set the number of favorites to display.
 
 Select the desired number or select Auto and the infotainment system will automatically adjust the number of favorites shown.
 
 ### Tone Settings
-`chevrolet_cruze_en_6c968348` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Select to adjust the radio tone. See Operation 0 164 or “Tone Settings” under “AM-FM Radio” in the infotainment manual.
 
 ### Auto Volume
-`chevrolet_cruze_en_167399f2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This feature adjusts the volume based on vehicle speed and ambient noise.
 
 Select Off, Low, Medium-Low, Medium, Medium-High, or High.
 
 ### Maximum Startup Volume
-`chevrolet_cruze_en_3d3301e8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This feature sets the maximum startup volume. If the vehicle is started and the volume is greater than this level, the volume is adjusted to this level. To set the maximum startup volume, turn the MENU knob or touch + or − to increase or decrease.
 
 ### Audio Cue Volume
-`chevrolet_cruze_en_ecdc7217` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This feature sets the volume of audio files played at system startup and shutdown.
 
 Select On, then touch + or − to increase or decrease the volume.
 
 ### Vehicle
-`chevrolet_cruze_en_cc6b41aa` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Select and the following may display:
 
 Climate and Air Quality Collision/Detection Systems Comfort and Convenience Lighting Power Door Locks Remote Lock, Unlock, Start
 
 ### Auto Defog
-`chevrolet_cruze_en_4c0c6d2a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When turned on and high humidity is detected, the climate control system may adjust to outside air supply and turn on the air conditioner or the heater. The fan speed may slightly increase to help prevent fogging. When high humidity is no longer detected, the system will return to its prior operation.
 
 Select Off or On.
 
 ### Auto Rear Defog
-`chevrolet_cruze_en_32e92df4` | cruze | pdf_manual | tier:2 | lang:en | layer:hvac | p:1 | doc_type:owners_manual
 
 When on, this feature turns on the rear defogger at vehicle start when the interior temperature is cold and fog is likely. The auto rear defog function can be canceled by pressing 1. See “Rear Window Defogger” under Climate Control Systems (With Heater Only) 0 188 or Climate Control Systems (With Air Conditioning) 0 186 or Automatic Climate Control System 0 190.
 
 Select Off or On.
 
 ### Park Assist
-`chevrolet_cruze_en_55688586` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, this feature can assist in backing up and parking the vehicle. See Assistance Systems for Parking or Backing 0 236.
 
 Select On or Off.
 
 ### Rear Cross Traffic Alert
-`chevrolet_cruze_en_b9087f5a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This allows the Rear Cross Traffic Alert feature to be turned on or off.
 
 Select Off or On. See “Rear Cross Traffic Alert (RCTA)” in Assistance Systems for Parking or Backing 0 236.
 
 ### Lane Change Alert
-`chevrolet_cruze_en_46e83e8b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This allows the Lane Change Alert feature to be turned on or off.
 
 Select Off or On. See Lane Change Alert (LCA) 0 240.
 
 ### Auto Wipe in Reverse Gear
-`chevrolet_cruze_en_50008560` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Select to set the Auto Wipe in Reverse Gear feature on or off. When on, and the front wipers are on, the rear window wiper will turn on automatically when the vehicle is shifted into R (Reverse).
 
 Select Off or On.
 
 ### Vehicle Locator Lights
-`chevrolet_cruze_en_0f5fd38f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This feature will flash the exterior lamps and allows some of the exterior lamps and most of the interior lamps to turn on briefly when K on the Remote Keyless Entry (RKE) transmitter is pressed to locate the vehicle.
 
 Select Off or On.
 
 ### Exit Lighting
-`chevrolet_cruze_en_69628f90` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This allows the selection of how long the exterior lamps stay on when leaving the vehicle when it is dark outside.
 
 Select Off, 30 Seconds, 60 Seconds, or 120 Seconds.
 
 ### Power Door Locks
-`chevrolet_cruze_en_4b69c08c` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Select and the following may display:
 
@@ -4331,70 +4020,60 @@ Unlocked Door Anti Lock Out
 Auto Door Unlock Delayed Door Lock
 
 ### Unlocked Door Anti Lock Out
-`chevrolet_cruze_en_31e10406` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 When on, this feature will keep the driver door from locking until the door is closed. If this feature is turned on, the Delayed Door Lock menu will not be available.
 
 Select Off or On.
 
 ### Auto Door Unlock
-`chevrolet_cruze_en_a184a4a5` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 This allows selection of which of the doors will automatically unlock when the vehicle is shifted into P (Park) with an automatic transmission or when the vehicle is turned off with a manual transmission.
 
 Select Off, All Doors, or Driver Door.
 
 ### Delayed Door Lock
-`chevrolet_cruze_en_40d2ed08` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 When on, this feature will delay the locking of the doors. To override the delay, press the power door lock switch on the door.
 
 Select Off or On.
 
 ### Remote Lock, Unlock, Start
-`chevrolet_cruze_en_6fad1b9d` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Select and the following may display:
 
 Remote Unlock Light Feedback Remote Lock Feedback Remote Door Unlock Remote Start Auto Heat Seats Passive Door Unlock Passive Door Lock Remote Left in Vehicle Alert
 
 ### Remote Unlock Light Feedback
-`chevrolet_cruze_en_ccadcb0b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When on, the exterior lamps will flash when unlocking the vehicle with the RKE transmitter.
 
 Select Off or Flash Lights.
 
 ### Remote Lock Feedback
-`chevrolet_cruze_en_beedd13f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This allows selection of what type of feedback is given when locking the vehicle with the RKE transmitter.
 
 Select Off, Lights and Horn, Lights Only, or Horn Only.
 
 ### Remote Door Unlock
-`chevrolet_cruze_en_caf8fa44` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 This allows selection of which doors will unlock when pressing K on the RKE transmitter.
 
 Select All Doors or Driver Door.
 
 ### Remote Start Auto Heat Seats
-`chevrolet_cruze_en_69d503c9` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped and turned on, this feature will turn the heated seats on when using remote start on cold days.
 
 Select Off or On.
 
 ### Passive Door Unlock
-`chevrolet_cruze_en_bd7e99f9` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 This allows the selection of what doors will unlock when using the button on the driver door to unlock the vehicle.
 
 Select All Doors or Driver Door.
 
 ### Passive Door Lock
-`chevrolet_cruze_en_b2cf967d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This feature can be turned on, off, or on with feedback.
 
@@ -4403,14 +4082,12 @@ See Remote Keyless Entry (RKE) System Operation (Key Access) 0 34 or Remote Keyl
 Select Off, On with Horn Chirp, or On.
 
 ### Remote Left in Vehicle Alert
-`chevrolet_cruze_en_c9815944` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This feature sounds an alert when the RKE transmitter is left in the vehicle. This menu also enables Remote No Longer In Vehicle Alert.
 
 Select Off or On.
 
 ### Bluetooth
-`chevrolet_cruze_en_6ad00a8a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Select and the following may display:
 
@@ -4422,57 +4099,48 @@ Sort Order
 Voice Mail Numbers Text Message Alerts
 
 ### Pair New Device
-`chevrolet_cruze_en_102d90fc` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Select to pair a new device. See “Pairing” under Bluetooth (Infotainment Controls) 0 177 or Bluetooth (Overview) 0 176 or “Pairing” in “Infotainment Controls” under “Bluetooth” in the infotainment manual.
 
 ### Ringtones
-`chevrolet_cruze_en_59a4f32c` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Select to change the ring tone for the specific phone. The phone does not need to be connected to change the ring tones.
 
 ### Voice Mail Numbers
-`chevrolet_cruze_en_590eeb41` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This feature displays the voice mail number for all connected phones. To change the voice mail number, select EDIT. Type a new number, then select SAVE.
 
 ### Apple CarPlay
-`chevrolet_cruze_en_e1b8e2d6` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This feature allows Apple devices to be connected to the infotainment system through a USB port.
 
 Select Off or On.
 
 ### Android Auto
-`chevrolet_cruze_en_f43d7eee` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This feature allows Android devices to be connected to the infotainment system through a USB port.
 
 Select Off or On.
 
 ### USB Auto Launch
-`chevrolet_cruze_en_b3dad795` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This allows Android and Apple CarPlay devices to automatically connect when plugged into the USB port.
 
 Select Off or On.
 
 ### Voice
-`chevrolet_cruze_en_33cdbaf7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Select and the following may display:
 
 Confidence Threshold Prompt Length Audio Feedback Speed Display “What Can Say?” Tips
 
 ### Confidence Threshold
-`chevrolet_cruze_en_c8a91df4` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This feature allows the adjustment of the sensitivity of the speech recognition system.
 
 Select Confirm More or Confirm Less.
 
 ### Audio Feedback Speed
-`chevrolet_cruze_en_62a99e86` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This feature adjusts the audio feedback speed.
 
@@ -4483,19 +4151,16 @@ Display “What Can Say?” Tips
 This feature gives voice command tips. Select Off or On.
 
 ### Turn Display Off
-`chevrolet_cruze_en_cf4c4c77` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Select to turn the display off. Touch anywhere on the infotainment display area or press any controls on the radio center stack to turn the display on.
 
 ### Return to Factory Settings
-`chevrolet_cruze_en_d584a5e7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Select and the following may display:
 
 Restore Vehicle Settings Clear All Private Data Restore Radio Settings
 
 ### Exterior Lighting
-`chevrolet_cruze_en_70dd6720` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Exterior Lamp Controls 153
 Headlamp High/Low-Beam Changer 155
@@ -4508,7 +4173,6 @@ Signals 157
 Fog Lamps 157
 
 ### Lighting Features
-`chevrolet_cruze_en_d1e3fb13` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Entry Lighting 159
 Exit Lighting 159
@@ -4517,7 +4181,6 @@ Exterior Lighting Battery
 Saver 160
 
 ### Exterior Lighting Exterior Lamp Controls
-`chevrolet_cruze_en_8ddb8bda` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/5e2d1aca80771bc4d408099528434eaa8d3ad92a0d883c68fe0ca1c906ec670e.jpg)
 
@@ -4534,21 +4197,18 @@ AUTO Turns the headlamps on automatically at normal brightness, together with th
 9 If equipped, press to turn the fog lamps on or off. See Fog Lamps 0 157.
 
 ### IntelliBeam® System
-`chevrolet_cruze_en_5d08a570` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, this system turns the vehicle's high-beam headlamps on and off according to surrounding traffic conditions.
 
 The system turns the high-beam headlamps on when it is dark enough and there is no other traffic present.
 
 ### Turning On and Enabling IntelliBeam
-`chevrolet_cruze_en_1b38d36e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/2259f28b614ca06755e7eb72ded9db487cbf1404d26b5c746d80a56c853f7277.jpg)
 
 To enable the IntelliBeam system, press b on the turn signal lever when the exterior lamp control is in the AUTO or 5 position. The blue high-beam on light appears on the instrument cluster when the high beams are on.
 
 ### Driving with IntelliBeam
-`chevrolet_cruze_en_e237fac5` | cruze | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 The system only activates the high beams when driving over 40 km/h (25 mph).
 
@@ -4588,7 +4248,6 @@ The vehicle is loaded such that the front end points upward, causing the light s
 The automatic high-beam headlamps may need to be disabled if any of the above conditions exist.
 
 ### Headlamp High/ Low-Beam Changer
-`chevrolet_cruze_en_05487c8a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 3 Push the turn signal lever toward the instrument panel to change the headlamps from low to high beam.
 
@@ -4597,7 +4256,6 @@ Pull the turn signal lever toward you and release it to return to low-beam headl
 When the high-beam headlamps are on, this indicator light on the instrument cluster will also be on.
 
 ### Daytime Running Lamps (DRL)
-`chevrolet_cruze_en_e7d4c42f` | cruze | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 If equipped, DRL can make it easier for others to see the front of your vehicle during the day. Fully functional DRL are required on all vehicles first sold in Canada. The vehicle may have dedicated Light-Emitting Diode (LED) DRL.
 
@@ -4614,7 +4272,6 @@ When the DRL are on, the taillamps, sidemarker lamps, and other lamps will not b
 The DRL turn off when the headlamps are turned to O or the ignition is off. For vehicles first sold in Canada, the DRL can only be turned off when the vehicle is parked.
 
 ### Automatic Headlamp System
-`chevrolet_cruze_en_ef779eb3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The feature only works on vehicles with automatic light control.
 
@@ -4629,21 +4286,18 @@ The system may also turn on the headlamps when driving through a parking garage 
 illumination control is in the full bright position. See Instrument Panel Illumination Control 0 158.
 
 ### Lights On with Wipers
-`chevrolet_cruze_en_acff85b6` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This feature only works on vehicles with automatic light control.
 
 If the windshield wipers are activated in daylight with the engine on, and the exterior lamp control is in AUTO, the headlamps, parking lamps, and other exterior lamps come on. The transition time for the lamps coming on varies based on wiper speed. When the wipers are not operating, these lamps turn off. Move the exterior lamp control to O or ; to disable this feature.
 
 ### Hazard Warning Flashers
-`chevrolet_cruze_en_55a969bc` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/f8a0ff73571cb599bcd19d9e4682dc442ba97a3f0c7d4a1f9ca636752333549b.jpg)
 
 | Press to make the front and rear turn signal lamps flash on and off. This warns others that you are having trouble. Press again to turn the flashers off.
 
 ### Turn and Lane-Change Signals
-`chevrolet_cruze_en_9d63ef95` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/2e786152e78c7fa62c2149292f4d478d02b30d0a21f871e2b44144f3681e7e85.jpg)
 
@@ -4660,7 +4314,6 @@ If after signaling a turn or lane change, the arrow flashes rapidly or does not 
 Have any burned out bulbs replaced. If a bulb is not burned out, check the fuse. See Instrument Panel Fuse Block 0 295.
 
 ### Fog Lamps
-`chevrolet_cruze_en_657ae5e9` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/1ba67df39051519b29c27541f2b19ae3089a21e25342ddf1a175dae5c203c878.jpg)
 
@@ -4673,7 +4326,6 @@ To turn on the fog lamps, the ignition must be on and the exterior lamp control 
 Some localities have laws that require the headlamps to be on along with the fog lamps.
 
 ### Interior Lighting
-`chevrolet_cruze_en_ea426a65` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Instrument Panel Illumination Control
 
@@ -4684,12 +4336,10 @@ This feature controls the brightness of the instrument panel controls and the in
 D Move the thumbwheel up or down and hold, to brighten or dim the instrument panel controls and infotainment display.
 
 ### Courtesy Lamps
-`chevrolet_cruze_en_5d033f6d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The courtesy lamps come on automatically when any door is opened and the dome lamp is in the door position.
 
 ### Dome Lamps
-`chevrolet_cruze_en_50fb60a3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/f2b3a40d7a1f40cb4654f6e6b9ab9155aac36b7d4db81b44262c0d2fee6d6848.jpg)
 
@@ -4700,7 +4350,6 @@ Press to turn the lamps on automatically when a door is opened.
 ' : Press to turn on the dome lamps.
 
 ### Reading Lamps
-`chevrolet_cruze_en_3ece84f5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/17f94d13944feabda42256e7d18ce43670a854dbc8d1725cadc0de1d40b32c16.jpg)
 
@@ -4709,7 +4358,6 @@ Rear Reading Lamps, If Equipped
 There are front reading lamps on the overhead console and rear reading lamps in the headliner, if equipped.
 
 ### Entry Lighting
-`chevrolet_cruze_en_6ca8031e` | cruze | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 If equipped with automatic light control, some exterior lamps and most of the interior lamps turn on briefly at night or in areas with limited lighting when the Remote Keyless Entry (RKE) transmitter K button is pressed.
 
@@ -4718,7 +4366,6 @@ See Remote Keyless Entry (RKE) System Operation (Key Access) 0 34 or Remote Keyl
 This feature can be changed. See Vehicle Personalization 0 145.
 
 ### Exit Lighting
-`chevrolet_cruze_en_a55f0a9f` | cruze | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 If equipped with automatic light control, some exterior lamps come on at night, or in areas with limited lighting, when the key is removed from the ignition. The dome lamps also come on when the key is removed from the ignition. The exterior lamps and dome lamps remain on after the door is closed for a set amount of time, then automatically turn off.
 
@@ -4729,21 +4376,18 @@ The exterior lamps turn off immediately by turning the exterior lamps control of
 This feature can be changed. See Vehicle Personalization 0 145.
 
 ### Battery Power Protection
-`chevrolet_cruze_en_5b28ea29` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The battery saver feature is designed to protect the vehicle's battery.
 
 If some interior lamps are left on and the ignition is turned off, the battery rundown protection system automatically turns the lamp off after some time.
 
 ### Exterior Lighting Battery Saver
-`chevrolet_cruze_en_923d83b0` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The exterior lamps turn off about 10 minutes after the ignition is turned off, if the parking lamps or headlamps have been manually left on. This protects against draining the battery. To restart the 10-minute timer, turn the exterior lamp control to the O position and then back to the ; or 2 position.
 
 To keep the lamps on for more than 10 minutes, the ignition must be on or in ACC/ACCESSORY.
 
 ### Introduction
-`chevrolet_cruze_en_a478f44c` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Infotainment 161
 Theft-Deterrent Feature 162
@@ -4753,14 +4397,12 @@ Operation 164
 Software Updates 165
 
 ### Phone
-`chevrolet_cruze_en_8a72899f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Bluetooth (Overview) 176 Bluetooth (Infotainment Controls) 177
 
 Apple CarPlay and Android Auto 181 Hands-Free Phone 181
 
 ### Infotainment
-`chevrolet_cruze_en_b9e5d197` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Base radio information is included in this manual. See the infotainment manual for information on other available infotainment systems.
 
@@ -4790,21 +4432,18 @@ See Defensive Driving 0 197.
 To play the infotainment system with the ignition off, see Retained Accessory Power (RAP) 0 215.
 
 ### Theft-Deterrent Feature
-`chevrolet_cruze_en_d6692f8a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The infotainment system has an electronic security system installed to prevent theft.
 
 The infotainment system only works in the vehicle in which it was first installed, and cannot be used in another vehicle.
 
 ### 1. {
-`chevrolet_cruze_en_bb0e3f4a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press to go to the Home Page. See Home Page 0 164.
 
 ![](images/8f767f608e7ee7ae32bc189e29e7d5c6bcc7b5ce692980812a3d45e9bc516617.jpg)
 
 ### 2. g
-`chevrolet_cruze_en_67ba9573` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Radio: Press and release to go to the previous station or channel. Press and hold to fast seek the next strongest previous station or channel. USB/Music/Pictures: Press to go to the previous content. Press and hold to fast rewind.
 
@@ -4827,12 +4466,10 @@ forward.
 Press and release to access the phone screen, answer an incoming call, or access the device home screen.
 
 ### Infotainment Display Buttons
-`chevrolet_cruze_en_8c7ab401` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Infotainment display controls on the screen when available. When a function is unavailable, the function may gray out. When a function is selected, the function may highlight.
 
 ### Home Page Features
-`chevrolet_cruze_en_eee2e273` | cruze | pdf_manual | tier:2 | lang:en | layer:hvac | p:1 | doc_type:owners_manual
 
 ![](images/6508b640d11a84bfc9bce1e7e208eb58fc1d96a3c53eea5601f9114a86998932.jpg)
 
@@ -4853,24 +4490,20 @@ Climate If equipped, touch to access the Climate menu. See Climate Control Syste
 OnStar If equipped, touch to access the OnStar menu. See OnStar Overview 0 381.
 
 ### Radio Controls
-`chevrolet_cruze_en_44ffac8f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The infotainment system is operated by using the center stack controls, menus shown on the display, and steering wheel controls.
 
 ### Automatic Switch-Off
-`chevrolet_cruze_en_877000ed` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the infotainment system has been turned on after the ignition is off, the system will turn off automatically after 10 minutes.
 
 ### Auto Volume
-`chevrolet_cruze_en_db5d6a3b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This feature automatically adjusts the radio volume to compensate for road and wind noise.
 
 The level of volume compensation can be selected, or the feature can be turned off.
 
 ### Auto Volume Settings
-`chevrolet_cruze_en_0427d59a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Touch SETTINGS on the Home Page.
 2. Select Radio.
@@ -4878,7 +4511,6 @@ The level of volume compensation can be selected, or the feature can be turned o
 4. Touch 3 on the infotainment display to go back to the source screen.
 
 ### Custom Tone Settings
-`chevrolet_cruze_en_c4f9cc05` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Touch SETTINGS on the Home Page.
 2. Select Radio.
@@ -4886,7 +4518,6 @@ Touch SETTINGS on the Home Page.
 4 Touch 3 on the infotainment display to go back to the source screen.
 
 ### Over-the-Air Software Updates
-`chevrolet_cruze_en_49ffe570` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 f equipped, the infotainment system can download and install select software updates over a wireless
 
@@ -4905,12 +4536,10 @@ On most compatible mobile devices, activation of the Wi-Fi hotspot is in the Set
 Availability of Over-the-Air vehicle software updates varies by vehicle and country. For more information on this feature, see my.chevrolet.com/learn.
 
 ### Audio Source Menu
-`chevrolet_cruze_en_77f6b56e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 { Press to go to the Home Page. O : Press to turn on, mute, or unmute the system. Press and hold to turn off the system.
 
 ### Selecting a Band
-`chevrolet_cruze_en_cafadb24` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press {.
 2. Touch AUDIO.
@@ -4920,31 +4549,26 @@ Availability of Over-the-Air vehicle software updates varies by vehicle and coun
 The last station that was playing starts playing again.
 
 ### Seek Tuning
-`chevrolet_cruze_en_37b2803b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the radio station is not known: Press g or d to automatically search for available radio stations.
 
 ### Update Station List
-`chevrolet_cruze_en_81ac566a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 From the AM or FM menu, touch Menu, then touch Update Station List. The broadcasting list updating will begin. During the AM or FM broadcasting list update, touch Cancel to stop the updates.
 
 ### Station List
-`chevrolet_cruze_en_b1d26587` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. From the AM or FM menu, touch Menu.
 2. Select Station List.
 3. Touch Q or R to scroll through the list. Touch the station to select it.
 
 ### Storing a Station as a Favorite
-`chevrolet_cruze_en_76e381d9` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Stations from all bands can be stored in any order in the favorite pages.
 
 Up to 25 stations can be stored.
 
 ### Storing Stations
-`chevrolet_cruze_en_566f513f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To store the station to a position in the list, touch the corresponding preset 1−5 until a beep is heard.
 
@@ -4955,19 +4579,16 @@ To store the station to a position in the list, touch the corresponding preset 1
 To change a preset, tune to the new desired radio station and touch and hold the preset.
 
 ### Satellite Radio (If Equipped)
-`chevrolet_cruze_en_b7b2d2e4` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Vehicles with an SXM Satellite Radio tuner and a valid SiriusXM® Satellite Radio subscription can receive SiriusXM programming.
 
 ### SiriusXM Satellite Radio Service
-`chevrolet_cruze_en_5b751418` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 SiriusXM is a satellite radio service based in the 48 contiguous United States and 10 Canadian provinces. SiriusXM Satellite Radio has a wide variety of programming and commercial-free music, coast to coast, and in digital-quality sound. During your trial or when you subscribe, you will get unlimited access to SiriusXM Radio Online for when you are not in the vehicle. A service fee is required to receive the SiriusXM service. If SiriusXM service needs to be reactivated, the radio will display "No Subscription Please Renew" on channel SXM1. For more information, contact SiriusXM at www.siriusxm.com or
 
 1-888-601-6296 (U.S.), and www.siriusxm.ca or 1-877-438-9677 (Canada).
 
 ### Listening to SiriusXM Radio
-`chevrolet_cruze_en_8062f4a8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press {.
 2. Touch AUDIO.
@@ -4975,39 +4596,33 @@ SiriusXM is a satellite radio service based in the 48 contiguous United States a
 4. Touch SXM and the most recent listened to SiriusXM channel will display.
 
 ### Selecting a Category
-`chevrolet_cruze_en_f5ca318d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 From Menu, touch Categories, then touch the desired category or from Categories, touch Q or R to find the desired channel. Touch the channel to select it.
 
 ### Using the Preset Buttons
-`chevrolet_cruze_en_791033a3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Up to five favorites pages can be saved, and each page can store up to five channels.
 
 To change a preset button, tune to the new desired channel and hold the button.
 
 ### Listening to Preset Channels
-`chevrolet_cruze_en_2b904df9` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Touch S or T repeatedly to select the desired favorites page.
 2. Touch the preset button to listen to the channel.
 
 ### Operation
-`chevrolet_cruze_en_cde5c8f2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Touch MENU on the SXM radio screen.
 2. Touch the menu to select the desired item or to display the detail menu item.
 3. Touch to return to the previous menu.
 
 ### Channel List
-`chevrolet_cruze_en_c9e12512` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Touch Channel List from the SXM menu. The channel list is displayed.
 
 2. Touch Q or R to find the desired channel. Touch the channel to select it.
 
 ### Explicit Content Filter
-`chevrolet_cruze_en_c7bbaf87` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When on, only a filtered list of channels will be received. When off, all regular SXM programming subscribed to will be received.
 
@@ -5016,44 +4631,36 @@ When on, only a filtered list of channels will be received. When off, all regula
 2. Select to enable or disable.
 
 ### Radio Reception
-`chevrolet_cruze_en_73d19418` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Frequency interference and static can occur during normal radio reception if items such as mobile phone chargers, vehicle convenience accessories, and external electronic devices are plugged into the accessory power outlet. If there is interference or static, unplug the item from the accessory power outlet.
 
 ### FM
-`chevrolet_cruze_en_a65212b2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 FM signals only reach about 16 to 65 km (10 to 40 mi). Although the radio has a built-in electronic circuit that automatically works to reduce interference, some static can occur, especially around tall buildings or hills, causing the sound to fade in and out.
 
 ### AM
-`chevrolet_cruze_en_6c6db3df` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The range for most AM stations is greater than for FM, especially at night. The longer range can cause station frequencies to interfere with each other. Static can occur when things like storms and power lines interfere with radio reception. When this happens, try reducing the treble on the radio.
 
 ### SiriusXM Satellite Radio Service
-`chevrolet_cruze_en_b19e8b00` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 SiriusXM Satellite Radio Service gives digital radio reception from coast to coast in the 48 contiguous United States, and in Canada. Just as with FM, tall buildings or hills can interfere with satellite radio signals, causing the sound to fade in and out. In addition, traveling or standing under heavy foliage, bridges, garages, or tunnels may cause loss of the SiriusXM signal for a period of time.
 
 ### Cell Phone Usage
-`chevrolet_cruze_en_4b4cf85d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Cell phone usage, such as making or receiving phone calls, charging, or just having the phone on may cause static interference in the radio. Unplug the phone or turn it off if this happens.
 
 ### Multi-Band Antenna
-`chevrolet_cruze_en_4498c83b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The multi-band antenna is on the roof of the vehicle. The antenna is used for OnStar, the SiriusXM Satellite Radio Service System, and GPS (Global Positioning System), if the vehicle has these features. Keep the antenna clear of obstructions for clear reception.
 
 If the vehicle has a sunroof, and it is open, reception can also be affected.
 
 ### USB Support
-`chevrolet_cruze_en_5787a92e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle has a USB port on the center stack for data and charging and may have a USB charge port on the rear of the center console. External devices such as iPhones/ iPods and USB storage devices may be connected.
 
 ### USB Supported Devices
-`chevrolet_cruze_en_a120cdae` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 USB Flash Drives Portable USB Hard Drives
 
@@ -5066,7 +4673,6 @@ For help with identifying your iPod, go to www.apple.com/support.
 The USB port can play both lower and upper case .mp3, .wma, .ogg, and .wav files stored on a USB storage device.
 
 ### Supported Apple Devices
-`chevrolet_cruze_en_3fc746a1` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To view supported devices in the U.S., see www.my.chevrolet.com \learned.
 
@@ -5075,7 +4681,6 @@ To view supported devices in Canada, see www.chevroletowner.ca.
 To view supported devices in Mexico, see your dealer.
 
 ### Connecting a USB StorageDevice or iPod/iPhone
-`chevrolet_cruze_en_0293a881` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To connect a USB storage device, connect the device to the USB port.
 
@@ -5091,12 +4696,10 @@ vehicle's battery.
 For more information on USB usage, see “Audio System Information” following.
 
 ### Audio System Information
-`chevrolet_cruze_en_96161751` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The infotainment system can play the music files contained in the USB storage device or iPod/iPhone products.
 
 ### Using MP3/WMA/OGG/WAV Files
-`chevrolet_cruze_en_b63faffc` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Music files with .mp3, .wma,
 .ogg, and .wav file name
@@ -5112,7 +4715,6 @@ files, such as the album name and the artist, can be played.
 To display album title, track title, and artist information, the file should be compatible with the ID3 Tag V1 and V2 formats.
 
 ### Using USB Storage Devices and an iPod/iPhone
-`chevrolet_cruze_en_913b086f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use a USB or flash memory type storage device. Do not connect using a USB adaptor.
 Do not connect and reconnect the USB device repeatedly in a short time, as this may cause
@@ -5181,7 +4783,6 @@ system.
 Refer to the table for the classification items related to the search function provided by the iPod/iPhone.
 
 ### Playing Music from a USB Device
-`chevrolet_cruze_en_a9e60fe9` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Connect the USB device to the USB port.
 Play will start automatically after the system has finished reading the USB device.
@@ -5203,18 +4804,15 @@ To stop the USB device and select another media source, touch Source, then selec
 To remove the USB device, select another function, then remove the USB device.
 
 ### Changing to the Next/Previous Music File
-`chevrolet_cruze_en_35e00fc4` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Touch l to change to the next music file.
 Touch g within five seconds of the playback time to play the previous music file.
 
 ### Scanning Forward or Backward
-`chevrolet_cruze_en_95b9633f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Touch and hold g or l during playback to rewind or fast forward. Release the button to resume playback at normal speed.
 
 ### Using the USB Music Menu
-`chevrolet_cruze_en_09a9a942` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Touch Menu during playback.
 
@@ -5223,17 +4821,14 @@ Touch Menu during playback.
 Touch the desired menu.
 
 ### Tone Settings
-`chevrolet_cruze_en_1d631d3c` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Touch Tone Settings. The Tone Settings menu is displayed. See “Tone Settings” under “Radio Controls” in Operation 0 164.
 
 ### Auto Volume
-`chevrolet_cruze_en_be6d9135` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Touch Auto Volume. The Auto Volume menu is displayed. See “Auto Volume” under “Radio Controls” in Operation 0 164.
 
 ### MTP (Media Transfer Protocol)
-`chevrolet_cruze_en_3c00a915` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Connect an MTP supported
 device.
@@ -5243,7 +4838,6 @@ switch to the previous audio
 function.
 
 ### Playing Music Files
-`chevrolet_cruze_en_ebe26855` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Connect the iPod/iPhone to the USB port.
 Play will start from the previously played point after the system
@@ -5266,28 +4860,23 @@ To stop the device and select another media source, touch Source, then select th
 To remove the device, select another function, then remove the device.
 
 ### Changing to the Next/Previous Music File
-`chevrolet_cruze_en_e0c68c2d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Touch l to change to the next music file.
 Touch g within two seconds of the playback time to play the previous music file.
 
 ### Scanning Forward or Backward
-`chevrolet_cruze_en_95b9633f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Touch and hold g or l during playback to rewind or fast forward. Release the button to resume playback at normal speed.
 
 ### Tone Settings
-`chevrolet_cruze_en_1d631d3c` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Touch Tone Settings. The Tone Settings menu is displayed. See “Tone Settings” under “Radio Controls” in Operation 0 164.
 
 ### Auto Volume
-`chevrolet_cruze_en_be6d9135` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Touch Auto Volume. The Auto Volume menu is displayed. See “Auto Volume” under “Radio Controls” in Operation 0 164.
 
 ### Picture System Information
-`chevrolet_cruze_en_9ef39bb1` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The infotainment system can view picture files stored on a USB storage device and devices that support Media Transfer Protocol (MTP).
 
@@ -5299,7 +4888,6 @@ operate due to a different
 recording format or the condition of the picture file.
 
 ### Viewing Pictures
-`chevrolet_cruze_en_a08a1436` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Connect the USB device to the USB port.
 2. Touch the screen to open to full screen. Touch the screen again to return to the previous screen.
@@ -5312,13 +4900,11 @@ If the USB device is already connected:
 Some features are disabled while the vehicle is in motion.
 
 ### Viewing a Slide Show
-`chevrolet_cruze_en_7be8e7ca` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Touch z from the picture screen.
 2. Touch the screen to cancel the slide show during the slide show playback.
 
 ### Using the USB Picture Menu
-`chevrolet_cruze_en_10badfb2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Touch MENU from the picture screen.
 2. Touch the appropriate menu: Slide Show Time: Allows selection of the slide show interval. Clock, Temp. Display: Allows selection of On or Off to show the clock and temperature on the full screen. Display Settings: Adjusts for Brightness and Contrast
@@ -5326,7 +4912,6 @@ Some features are disabled while the vehicle is in motion.
 3. Touch to exit.
 
 ### Auxiliary Devices
-`chevrolet_cruze_en_0647c812` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Using the Auxiliary Input Jack
 
@@ -5342,7 +4927,6 @@ system can play music connected by the auxiliary device.
 Play will begin when the system has finished reading the information on the device.
 
 ### Playing Music
-`chevrolet_cruze_en_2a142df6` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To play music from the device, if the device is already connected:
 
@@ -5355,7 +4939,6 @@ To play music from the device, if the device is already connected:
 To adjust the tone settings, see “Tone Settings” in Operation 0 164.
 
 ### Bluetooth (Overview)
-`chevrolet_cruze_en_ba10bf05` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped with Bluetooth capability, the system can interact with many Bluetooth phones, PDAs, or other devices to:
 
@@ -5386,17 +4969,14 @@ Due to the variety of Bluetooth devices and their firmware versions, the device 
 Refer to the cell phone manufacturer’s user guide for questions about the phone's Bluetooth functionality.
 
 ### Bluetooth Controls
-`chevrolet_cruze_en_71de2c19` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 For vehicles equipped with Bluetooth capability, use the buttons on the infotainment system and the steering wheel to operate the system.
 
 ### Pairing
-`chevrolet_cruze_en_b8aad209` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A Bluetooth-enabled cell phone must be paired to the Bluetooth system and then connected to the vehicle before it can be used. See your cell phone manufacturer's user guide for Bluetooth functions before pairing the cell phone. If a Bluetooth phone is not connected, calls will be made using OnStar Hands-Free Calling, if available. See OnStar Overview 0 381.
 
 ### Pairing Information
-`chevrolet_cruze_en_60309e81` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A Bluetooth phone with MP3 capability cannot be paired to the vehicle as a phone and an MP3 player at the same time. Up to 10 cell phones can be paired to the Bluetooth system. The pairing process is disabled when the vehicle is moving.
 
@@ -5405,7 +4985,6 @@ Pairing only needs to be completed once, unless the pairing information on the c
 When the Bluetooth device and infotainment system are successfully paired, the phone book is downloaded automatically. This is dependent on the type of phone paired. If the automatic download does not occur, proceed with the phone book download on the phone.
 
 ### Pairing a Phone – SSP and No Paired Device
-`chevrolet_cruze_en_639a4a5d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When there is no paired device on the infotainment system and Simple Secure Pairing (SSP) is supported:
 
@@ -5418,7 +4997,6 @@ When there is no paired device on the infotainment system and Simple Secure Pair
 6. When the Bluetooth device and infotainment system are successfully paired, the phone screen is displayed on the infotainment system.
 
 ### Pairing a Phone – SSP and Paired Device
-`chevrolet_cruze_en_f4813ef3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When a paired device is on the infotainment system and SSP is supported:
 
@@ -5431,7 +5009,6 @@ When a paired device is on the infotainment system and SSP is supported:
 7. Touch Yes on the pop-up screen of the Bluetooth device and infotainment system. The connected phone is highlighted by Z / 5 indicates the hands-free and phone music functions are enabled. indicates only the hands-free function is enabled. Z indicates only Bluetooth music is enabled.
 
 ### Pairing a Phone – No SSP and No Paired Device
-`chevrolet_cruze_en_7eb44b34` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When there is no paired device on the infotainment system and SSP is not supported:
 
@@ -5446,7 +5023,6 @@ When the connection fails, a failure message is displayed on the infotainment sy
 If a Bluetooth device was previously connected, the infotainment system executes the auto connection. However, if the Bluetooth setting on the Bluetooth device is turned off, a failure message is displayed on the infotainment system.
 
 ### Pairing a Phone – No SSP and Paired Device
-`chevrolet_cruze_en_166c9b0d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When a paired device is on the infotainment system and SSP is not supported:
 
@@ -5459,7 +5035,6 @@ When a paired device is on the infotainment system and SSP is not supported:
 7. Input the Personal Identification Number (PIN) code (default: 1234) to the Bluetooth device. When the Bluetooth device and infotainment system are successfully paired, Z / 5 is displayed on the pair device screen. The connected phone is highlighted by 5. Z 5 indicates the hands-free and phone music functions are enabled. + indicates only the hands-free function is enabled. Z indicates only Bluetooth music is enabled.
 
 ### Connecting a Paired Bluetooth Device
-`chevrolet_cruze_en_55adaede` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press {.
 2. Touch Settings.
@@ -5468,7 +5043,6 @@ When a paired device is on the infotainment system and SSP is not supported:
 4. Touch the device to be connected.
 
 ### Checking the Bluetooth Connection
-`chevrolet_cruze_en_41a3c775` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press {.
 2. Touch Settings.
@@ -5477,7 +5051,6 @@ Management.
 4. The paired device will show.
 
 ### Disconnecting a Bluetooth Device
-`chevrolet_cruze_en_b1d327b3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press {.
 2. Touch Settings.
@@ -5486,7 +5059,6 @@ Management.
 5. Touch Disconnect.
 
 ### Deleting a Bluetooth Device
-`chevrolet_cruze_en_748531a9` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press {.
 2. Touch Settings.
@@ -5497,7 +5069,6 @@ Management.
 6. Touch Delete.
 
 ### Bluetooth Music
-`chevrolet_cruze_en_ea193fcd` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Before playing Bluetooth music, read the following information:
 
@@ -5525,7 +5096,6 @@ discontinued. Playing music from the car is not possible when
 there are no music files stored in the cell phone.
 
 ### Playing Music Randomly
-`chevrolet_cruze_en_7691cdf4` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Touch Z during playback. Touch again to return to normal play. This function may not be supported depending on the Bluetooth device.
 
@@ -5549,7 +5119,6 @@ Sounds may be cut off during the Bluetooth music playback.
 The infotainment system outputs the audio from the cell phone or Bluetooth device as it is transmitted.
 
 ### Apple CarPlay and Android Auto
-`chevrolet_cruze_en_052ea043` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, Android Auto and/or Apple CarPlay capability may be available through a compatible smartphone. If available, PROJECTION will appear on the Home Page of the infotainment display.
 
@@ -5577,17 +5146,14 @@ For further information on how to set up Android Auto and Apple CarPlay in the v
 Android Auto is provided by Google and is subject to Google’s terms and privacy policy. Apple CarPlay is provided by Apple and is subject to Apple’s terms and privacy policy. Data plan rates apply. For Android Auto support see https:// support.google.com/androidauto. For Apple CarPlay support see www.apple.com/ios/carplay/. Apple or Google may change or suspend availability at any time. Android Auto, Android, Google, Google Play, and other marks are trademarks of Google Inc.; Apple CarPlay is a trademark of Apple Inc.
 
 ### General Information
-`chevrolet_cruze_en_95e659d5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Vehicles with a Hands-Free Phone system can use a Bluetooth-capable cell phone with a hands-free profile to make and receive phone calls. The infotainment system and voice commands are used to operate the system. Not all phones support all functions and not all phones work with the Hands-Free Phone system.
 
 ### Hands-Free Phone Controls
-`chevrolet_cruze_en_e732298c` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use the controls on the infotainment system and the steering wheel to operate the Hands-Free Phone system.
 
 ### Steering Wheel Controls
-`chevrolet_cruze_en_d0cc65b7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Steering wheel controls can be used to:
 
@@ -5601,14 +5167,12 @@ Make outgoing calls using the call list.
 g : Press to answer incoming calls. c Press to end a call, decline a call, or cancel an operation.
 
 ### Making a Call by Entering a Phone Number
-`chevrolet_cruze_en_91f3e31d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press 5 on the center stack. Press {, then touch PHONE on the infotainment display. Press g on the steering wheel.
 
 If a wrong number is entered, touch } to delete the number one digit at a time, or touch and hold } to delete all digits of the number.
 
 ### Switching a Call to the Cell Phone (Private Mode)
-`chevrolet_cruze_en_00f8cb7e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To switch the call from the cell phone to hands-free:
 
@@ -5616,7 +5180,6 @@ To switch the call from the cell phone to hands-free:
 2. Touch 0 again to switch back to hands-free.
 
 ### Calling by Redial
-`chevrolet_cruze_en_49252be8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To call by using redial:
 
@@ -5628,7 +5191,6 @@ display, or press 5 on the center stack.
 Redialing is not possible when there is no call history.
 
 ### Taking Calls
-`chevrolet_cruze_en_bd006bdb` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When a phone call comes through the connected Bluetooth cell phone, the audio system will be muted or paused and the phone will ring with the relevant information displayed.
 
@@ -5637,7 +5199,6 @@ Press g on the steering wheel controls, touch 5 on the infotainment display, or 
 To decline the call, press c on the steering wheel controls or touch Reject on the infotainment display.
 
 ### Using the Contacts Menu
-`chevrolet_cruze_en_2de42d14` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Touch contacts on the phone screen.
 2. Touch Q or to scroll through the list.
@@ -5645,7 +5206,6 @@ To decline the call, press c on the steering wheel controls or touch Reject on t
 4. If there is more than one number associated with the name, touch the number to dial.
 
 ### Searching for Contacts Entries
-`chevrolet_cruze_en_165f039e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Touch contacts on the phone screen.
 2. Touch 9 on the contacts screen.
@@ -5656,7 +5216,6 @@ To decline the call, press c on the steering wheel controls or touch Reject on t
 When the Bluetooth device and infotainment system are successfully paired, the phone book will download. Some phones may not download automatically. If this happens, connect it again or proceed with the phone book download on the phone.
 
 ### Searching for a Name
-`chevrolet_cruze_en_952f8b8b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Select characters by using the keypad on the phone book screen. As characters are selected, the names that include those characters will display on the phone book screen. As more characters of the name are entered, the list of possible names is shortened.
 
@@ -5668,7 +5227,6 @@ To search for the name Alex:
 4. Touch (wxy) two times to select the fourth character.
 
 ### Making a Call from Call History
-`chevrolet_cruze_en_4a2cdf37` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Touch Call History on the phone screen. 2. Touch one of the following for:
 
@@ -5677,7 +5235,6 @@ W All calls history. Dialed calls. Missed calls. Received calls.
 3. Select the contact entry to call.
 
 ### Making a Call with Speed Dial Numbers
-`chevrolet_cruze_en_8f00688a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Touch and hold the speed dial number using the keypad on the phone screen.
 
@@ -5686,7 +5243,6 @@ Only speed dial numbers already stored on the cell phone can be used for speed d
 For two-digit speed dial numbers, press and hold the second digit to make a call to the speed dial number.
 
 ### Bluetooth
-`chevrolet_cruze_en_93c50e23` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Bluetooth word mark and logos are owned by the Bluetooth SIG, Inc. and any use of such marks by General Motors is under license. Other trademarks and trade names are those of their respective owners.
 
@@ -5695,7 +5251,6 @@ Made for 0 iPod iPhone “Made for iPod” and “Made for iPhone” mean that a
 iPod and iPhone are trademarks of Apple Computer, Inc., registered in the U.S. and other countries.
 
 ### (Siriusxm))
-`chevrolet_cruze_en_53f7f11f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Fees and Taxes: Subscription fee, taxes, one time activation fee, and other fees may apply. Subscription fee is consumer only. All fees and programming subject to change. Subscriptions subject to Customer Agreement available at www.siriusxm.com or www.siriusxm.ca. SiriusXM service only available in the 48 contiguous United States and Canada.
 
@@ -5712,19 +5267,16 @@ General Requirements:
 2. For products to be distributed, marketed, and/or sold in Canada, a separate agreement is required with Canadian Satellite Radio Inc. (operating as SiriusXM Canada).
 
 ### FreeType 2
-`chevrolet_cruze_en_b6654424` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Portions of this software are copyright 2007-2012 The FreeType Project (www.freetype.org). All rights reserved.
 
 ### Climate Control Systems
-`chevrolet_cruze_en_65339b58` | cruze | pdf_manual | tier:2 | lang:en | layer:hvac | p:1 | doc_type:owners_manual
 
 Climate Control Systems (With Air Conditioning) 186 Climate Control Systems (With Heater Only) 188 Automatic Climate Control System 190
 
 Air Vents Air Vents 193
 
 ### Climate Control Systems (With Air Conditioning)
-`chevrolet_cruze_en_8c36dac9` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The heating, cooling, defrosting, and ventilation for the vehicle can be controlled with this system.
 
@@ -5763,12 +5315,10 @@ For best results, clear all snow and ice from the windshield before defrosting.
 Do not drive the vehicle until all windows are clear.
 
 ### Air Conditioning
-`chevrolet_cruze_en_222bcc17` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A/C Press to turn the air conditioning on or off. If the fan is turned off or the outside temperature falls below freezing, the air conditioning compressor will not work.
 
 ### A/C (Comfort/Eco Air Conditioning) (For Stop/Start
-`chevrolet_cruze_en_065b0414` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Vehicles) Press to cycle between the comfort, eco, and off air conditioning modes. The indicator will be lit in comfort and eco modes, and turns off in the off air conditioning mode. If the fan is turned off, the air conditioner will not run and the indicator light will turn off.
 
@@ -5779,7 +5329,6 @@ For eco a/c, press A/C again. The indicator will turn green. This setting balanc
 Press to turn on the recirculation. An indicator light comes on. Air is recirculated inside the vehicle. It helps to quickly cool the air inside the vehicle and reduce the entry of outside air and odors.
 
 ### Rear Window Defogger
-`chevrolet_cruze_en_d0c8b2cf` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 1 Press to turn the rear window defogger on or off. An indicator light on the button comes on to show that the rear window defogger is on.
 
@@ -5792,7 +5341,6 @@ If equipped with heated outside mirrors, they turn on when the rear window defog
 ![](images/37dc62e61e08a48bd09a1065440334235504c7d155de215cd2b31a4ea26461e5.jpg)
 
 ### Climate Control Systems (With Heater Only)
-`chevrolet_cruze_en_781c152f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 f equipped, the heating, defrosting, and ventilation for the vehicle can be controlled with this system.
 
@@ -5829,7 +5377,6 @@ For best results, clear all snow and ice from the windshield before defrosting.
 Do not drive the vehicle until all windows are clear.
 
 ### Rear Window Defogger
-`chevrolet_cruze_en_d0c8b2cf` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 1 Press to turn the rear window defogger on or off. An indicator light on the button comes on to show that the rear window defogger is on.
 
@@ -5842,7 +5389,6 @@ If equipped with heated outside mirrors, they turn on when the rear window defog
 ![](images/749046a1e5753ac19beef5e51af6c3ad27cf4f5097fed73e85d66cd737ec425f.jpg)
 
 ### Automatic Climate Control System
-`chevrolet_cruze_en_eb86a56d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 equipped, the heating, cooling, and ventilation for the vehicle can be controlled with this system.
 
@@ -5861,7 +5407,6 @@ equipped, the heating, cooling, and ventilation for the vehicle can be controlle
 10. Power
 
 ### Automatic Operation
-`chevrolet_cruze_en_427488a7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The system automatically controls the fan speed, air delivery, air conditioning, and recirculation in order to heat or cool the vehicle to the desired temperature.
 
@@ -5877,14 +5422,12 @@ To improve fuel efficiency and to cool the vehicle faster, recirculation may be 
 To change English units to metric units, see “Cluster Menu” then “Units” under Instrument Cluster 0 120.
 
 ### Manual Operation
-`chevrolet_cruze_en_85342f39` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 O Press to turn the climate control system on or off. When off is selected, the system will stop air from flowing into the cabin. If on is selected, any other button press occurs, or a knob is turned, the climate control system will turn on and operate at the current setting.
 
 Fan Control Turn the knob clockwise or counterclockwise to increase or decrease the fan speed. The selected fan speed is indicated by a number on the display screen. Press AUTO to return to automatic operation.
 
 ### Air Delivery Mode Controls
-`chevrolet_cruze_en_5c5eafcb` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press to change the direction of the airflow. The indicator light in the button will turn on. The current mode appears in the display screen. Automatic operation is canceled and manual mode is initiated. Press AUTO to return to automatic operation.
 
@@ -5907,7 +5450,6 @@ Do not drive the vehicle until all windows are clear.
 A/C (Air Conditioning) Press to turn the air conditioning on or off. If the fan is turned off or the outside temperature falls below freezing, the air conditioning will not work.
 
 ### A/C (Comfort/Eco Air Conditioning) (For Stop/Start
-`chevrolet_cruze_en_065b0414` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Vehicles) Press to cycle between the comfort, eco, and off air conditioning modes. The indicator will be lit in comfort and eco modes, and turns off in the off air conditioning mode. If the fan is turned off, the air conditioner will not run and the indicator light will turn off.
 
@@ -5922,14 +5464,12 @@ compared to the comfort air conditioning setting. This setting allows higher hum
 L Press to turn on recirculation. An indicator light comes on. Air is recirculated to quickly cool the inside of the vehicle and reduce the entry of outside air and odors.
 
 ### Automatic Air Recirculation
-`chevrolet_cruze_en_5b750fcf` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the AUTO indicator light is on, the air is automatically recirculated as needed to help quickly cool the inside of the vehicle.
 
 Auto Defog The climate control system may have a sensor to automatically detect high humidity inside the vehicle. When high humidity is detected, the climate control system may adjust to outside air supply and turn on the air conditioner. If the climate control system does not detect possible window fogging, it returns to normal operation. To turn Auto Defog off or on, see “Climate and Air Quality” under Vehicle Personalization 0 145.
 
 ### Rear Window Defogger
-`chevrolet_cruze_en_10de543e` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 = Press to turn the rear window defogger on or off. An indicator light on the button comes on to show that the rear window defogger is on.
 
@@ -5952,7 +5492,6 @@ The rear defog may come on during remote start based on cold ambient conditions.
 See Remote Vehicle Start 0 42 and Heated Front Seats 0 64.
 
 ### Sensors
-`chevrolet_cruze_en_c4730097` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The solar sensor, on top of the instrument panel near the windshield, monitors the solar heat.
 
@@ -5961,7 +5500,6 @@ The climate control system uses the sensor information to adjust the temperature
 If the sensor is covered, the automatic climate control system may not work properly.
 
 ### Air Vents
-`chevrolet_cruze_en_314fffda` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Adjustable air vents are in the center and on the side of the instrument panel.
 
@@ -5974,7 +5512,6 @@ Use the thumbwheels (2) near the air vents to open or close off the airflow.
 Additional air vents are located beneath the windshield, driver and passenger side door windows, and in the footwells. These are fixed and cannot be adjusted.
 
 ### Operation Tips
-`chevrolet_cruze_en_08fc38dc` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Clear away any ice, snow,
 or leaves from air inlets at the base of the windshield that could block the flow of air into the
@@ -5988,21 +5525,18 @@ vehicle more effectively.
 Use of non-GM approved hood deflectors can adversely affect the performance of the system. Check with your dealer before adding equipment to the outside of the vehicle.
 
 ### Passenger Compartment Air Filter
-`chevrolet_cruze_en_d6bd5025` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The filter reduces dust, pollen, and other airborne irritants from outside air that is pulled into the vehicle. The filter should be replaced as part of routine scheduled maintenance. See Maintenance Schedule 0 350.
 
 See your dealer regarding replacement of the filter.
 
 ### Service
-`chevrolet_cruze_en_2cfe3af4` | cruze | pdf_manual | tier:2 | lang:en | layer:hvac | p:1 | doc_type:owners_manual
 
 All vehicles have a label underhood that identifies the refrigerant used in the vehicle. The refrigerant system should only be serviced by trained and certified technicians. The air conditioning evaporator should never be repaired or replaced by one from a salvage vehicle. It should only be replaced by a new evaporator to ensure proper and safe operation.
 
 During service, all refrigerants should be reclaimed with proper equipment. Venting refrigerants directly to the atmosphere is harmful to the environment and may also create unsafe conditions based on inhalation, combustion, frostbite, or other health-based concerns.
 
 ### Driving Information
-`chevrolet_cruze_en_b95528d1` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Distracted Driving 196
 Defensive Driving 197
@@ -6019,7 +5553,6 @@ If the Vehicle Is Stuck 202
 Vehicle Load Limits 202
 
 ### Starting and Operating
-`chevrolet_cruze_en_8b29bfd9` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 New Vehicle Break-In 206 Ignition Positions (Key Access) 206 Ignition Positions (Keyless Access) 208 Starting the Engine 209 Engine Heater 213 Retained Accessory Power (RAP) 215
 
@@ -6030,7 +5563,6 @@ Transmission) 216 Parking over Things
 That Burn 216 Extended Parking 216
 
 ### Engine Exhaust
-`chevrolet_cruze_en_1bb02e92` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Engine Exhaust 217 Running the Vehicle While Parked 218
 
@@ -6041,7 +5573,6 @@ Diesel Exhaust Fluid Diesel Exhaust Fluid 219
 Automatic Transmission Automatic Transmission 224 Manual Mode 226
 
 ### Driver Assistance Systems
-`chevrolet_cruze_en_e3c2e44d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Driver Assistance Systems 235 Assistance Systems for
 Parking or Backing 236 Assistance Systems for
@@ -6051,7 +5582,6 @@ Alert (SBZA) ： 240 Lane Change Alert (LCA) 240 Lane Departure
 Warning (LDW) 242 Lane Keep Assist (LKA) 242
 
 ### Fuel
-`chevrolet_cruze_en_3bc52b5b` | cruze | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 Fuel (Gasoline) 244 California Fuel Requirements (Gasoline) 245 Fuels in Foreign Countries (Gasoline) 245 Fuel Additives (Gasoline) 245 Fuel for Diesel Engines 246 What Fuel to Use in the U.S. (Diesel) 246
 
@@ -6065,7 +5595,6 @@ Filling the Tank 254
 Filling a Portable Fuel Container 256
 
 ### Distracted Driving
-`chevrolet_cruze_en_839f55f7` | cruze | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 Distraction comes in many forms and can take your focus from the task of driving. Exercise good judgment and do not let other activities divert your attention away from the road. Many local governments have enacted laws regarding driver distraction. Become familiar with the local laws in your area.
 
@@ -6095,7 +5624,6 @@ passenger or on a cell phone.
 Refer to the infotainment section for more information on using that system and the navigation system, if equipped, including pairing and using a cell phone.
 
 ### Defensive Driving
-`chevrolet_cruze_en_14857805` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Defensive driving means “always expect the unexpected.” The first step in driving defensively is to wear the seat belt. See Seat Belts 0 69.
 
@@ -6105,19 +5633,16 @@ Allow enough following distance between you and the driver in front of you.
 Focus on the task of driving.
 
 ### Drunk Driving
-`chevrolet_cruze_en_39aa7803` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Death and injury associated with drinking and driving is a global tragedy.
 
 Warning Drinking and then driving is very dangerous. Your reflexes, perceptions, attentiveness, and judgment can be affected by even a small amount of alcohol. You can have a serious — or even fatal — collision if you drive after drinking. Do not drink and drive or ride with a driver who has been drinking. Ride home in a cab; or if you are with a group, designate a driver who will not drink.
 
 ### Control of a Vehicle
-`chevrolet_cruze_en_9cf0eab8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Braking, steering, and accelerating are important factors in helping to control a vehicle while driving.
 
 ### Braking
-`chevrolet_cruze_en_abe51cf0` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Braking action involves perception time and reaction time. Deciding to push the brake pedal is perception time. Actually doing it is reaction time.
 
@@ -6130,7 +5655,6 @@ Keep enough distance between you and the vehicle in front of you. Avoid needless
 If the engine ever stops while the vehicle is being driven, brake normally but do not pump the brakes. Doing so could make the pedal harder to push down. If the engine stops, there will be some power brake assist but it will be used when the brake is applied. Once the power assist is used up, it can take longer to stop and the brake pedal will be harder to push.
 
 ### Electric Power Steering
-`chevrolet_cruze_en_8bdf6c3e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The vehicle has electric power steering. It does not have power steering fluid. Regular maintenance is not required.
 
@@ -6145,7 +5669,6 @@ Normal use of the power steering assist should return when the system cools down
 See your dealer if there is a problem.
 
 ### Curve Tips
-`chevrolet_cruze_en_55bb2cc6` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Take curves at a reasonable
 speed.
@@ -6154,7 +5677,6 @@ Maintain a reasonable steady speed through the curve.
 Wait until the vehicle is out of the curve before accelerating gently into the straightaway.
 
 ### Steering in Emergencies
-`chevrolet_cruze_en_bf30dee8` | cruze | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 There are some situations when steering around a problem may be more effective than braking. Holding both sides of the
 steering wheel allows you to turn 180 degrees without removing a hand.
@@ -6163,7 +5685,6 @@ The Antilock Brake System
 braking.
 
 ### Off-Road Recovery
-`chevrolet_cruze_en_cf06a1c5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/7ba11d65bcdebe65fd594837d19b2efb60d785b47985ffb6f0b47bae60e20446.jpg)
 
@@ -6175,7 +5696,6 @@ The vehicle's right wheels can drop off the edge of a road onto the shoulder whi
 3. Turn the steering wheel to go straight down the roadway.
 
 ### Loss of Control Skidding
-`chevrolet_cruze_en_03c0965f` | cruze | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 There are three types of skids that correspond to the vehicle's three control systems:
 
@@ -6197,7 +5717,6 @@ Slow down and adjust your driving according to weather conditions. Stopping dist
 Remember: Antilock brakes help avoid only the braking skid.
 
 ### Driving on Wet Roads
-`chevrolet_cruze_en_ae011fb0` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Rain and wet roads can reduce vehicle traction and affect your ability to stop and accelerate.
 
@@ -6206,14 +5725,12 @@ Always drive slower in these types of driving conditions and avoid driving throu
 ![](images/bdf0964a0784405840dd5b85a7edc8e75c76500190c3928dc869c3d14ae89ad6.jpg)
 
 ### Hydroplaning
-`chevrolet_cruze_en_b233701d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Hydroplaning is dangerous. Water can build up under the vehicle's tires so they actually ride on the water. This can happen if the road is wet enough and you are going fast enough. When the vehicle is hydroplaning, it has little or no contact with the road.
 
 There is no hard and fast rule about hydroplaning. The best advice is to slow down when the road is wet.
 
 ### Other Rainy Weather Tips
-`chevrolet_cruze_en_eb8d6f2d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Besides slowing down, other wet weather driving tips include:
 
@@ -6226,7 +5743,6 @@ tread depth. See Tires 0 298.
 Turn off cruise control.
 
 ### Hill and Mountain Roads
-`chevrolet_cruze_en_90a441f1` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Driving on steep hills or through mountains is different than driving on flat or rolling terrain. Tips include:
 
@@ -6242,12 +5758,10 @@ Shift to a lower gear when going down steep or long hills.
 Drive at speeds that keep the vehicle in its own lane. Do not swing wide or cross the center line. Be alert on top of hills; something could be in your lane (e.g., stalled car, accident). Pay attention to special road signs (e.g., falling rocks area, winding roads, long grades, passing or no-passing zones) and take appropriate action.
 
 ### Driving on Snow or Ice
-`chevrolet_cruze_en_781149e5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Snow or ice between the tires and the road creates less traction or grip, so drive carefully. Wet ice can occur at about 0 °C (32 °F) when freezing rain begins to fall. Avoid driving on wet ice or in freezing rain until roads can be treated.
 
 ### For Slippery Road Driving:
-`chevrolet_cruze_en_641f6002` | cruze | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 Accelerate gently. Accelerating too quickly causes the wheels to spin and makes the surface
 under the tires slick.
@@ -6263,32 +5777,28 @@ Allow greater following distance and watch for slippery spots. Icy patches can o
 clear roads in shaded areas. The surface of a curve or an overpass can remain icy when the surrounding roads are clear. Avoid sudden steering maneuvers and braking while on ice. Turn off cruise control.
 
 ### Blizzard Conditions
-`chevrolet_cruze_en_1fc2305a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Stop the vehicle in a safe place and signal for help. Stay with the vehicle unless there is help nearby. If possible, use Roadside Assistance. See Roadside Assistance Program 0 371. To get help and keep everyone in the vehicle safe:
 
 Turn on the hazard warning flashers.
 Tie a red cloth to an outside mirror.
 
-### Warning
-`chevrolet_cruze_en_e21fc925` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
-
-Snow can trap engine exhaust under the vehicle. This may cause exhaust gases to get inside. Engine exhaust contains carbon monoxide (CO), which cannot be seen or smelled. It can cause unconsciousness and even death.
-
-If the vehicle is stuck in snow:
-
-Clear snow from the base of the vehicle, especially any blocking the exhaust pipe. Open a window about 5 cm (2 in) on the vehicle side that is away from the wind, to bring in fresh air. Fully open the air outlets on or under the instrument panel. Adjust the climate control system to circulate the air inside the vehicle and set
-
-(Continued)
-
-![](images/e3d78898397fbd8b84df020036d9420bb54e98af957a17430b54d1772720d364.jpg)
-
-To save fuel, run the engine for short periods to warm the vehicle and then shut the engine off and partially close the window. Moving about to keep warm also helps.
-
-If it takes time for help to arrive, when running the engine, push the accelerator pedal slightly so the engine runs faster than the idle speed. This keeps the battery charged to restart the vehicle and to signal for help with the headlamps. Do this as little as possible, to save fuel.
+> ⚠️ **Внимание:** 
+> Snow can trap engine exhaust under the vehicle. This may cause exhaust gases to get inside. Engine exhaust contains carbon monoxide (CO), which cannot be seen or smelled. It can cause unconsciousness and even death.
+>
+> If the vehicle is stuck in snow:
+>
+> Clear snow from the base of the vehicle, especially any blocking the exhaust pipe. Open a window about 5 cm (2 in) on the vehicle side that is away from the wind, to bring in fresh air. Fully open the air outlets on or under the instrument panel. Adjust the climate control system to circulate the air inside the vehicle and set
+>
+> (Continued)
+>
+> ![](images/e3d78898397fbd8b84df020036d9420bb54e98af957a17430b54d1772720d364.jpg)
+>
+> To save fuel, run the engine for short periods to warm the vehicle and then shut the engine off and partially close the window. Moving about to keep warm also helps.
+>
+> If it takes time for help to arrive, when running the engine, push the accelerator pedal slightly so the engine runs faster than the idle speed. This keeps the battery charged to restart the vehicle and to signal for help with the headlamps. Do this as little as possible, to save fuel.
 
 ### If the Vehicle Is Stuck
-`chevrolet_cruze_en_303f2cfe` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Slowly and cautiously spin the wheels to free the vehicle when stuck in sand, mud, ice, or snow.
 
@@ -6297,19 +5807,16 @@ If stuck too severely for the traction system to free the vehicle, turn the trac
 ![](images/5ec415222dd90124230e7e5f59a73518d98642b4c8e84f094cad072d260d9210.jpg)
 
 ### Rocking the Vehicle to Get it Out
-`chevrolet_cruze_en_534c70c7` | cruze | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 Turn the steering wheel left and right to clear the area around the front wheels. Turn off any traction system. Shift back and forth between R (Reverse) and a low forward gear, spinning the wheels as little as possible. To prevent transmission wear, wait until the wheels stop spinning before shifting gears. Release the accelerator pedal while shifting, and press lightly on the accelerator pedal when the transmission is in gear. Slowly spinning the wheels in the forward and reverse directions causes a rocking motion that could free the vehicle. If that does not get the vehicle out after a few tries, it might need to be towed out. If the vehicle does need to be towed out, see Towing the Vehicle 0 336.
 
 ### Vehicle Load Limits
-`chevrolet_cruze_en_0da69dea` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 It is very important to know how much weight the vehicle can carry. This weight is called the vehicle capacity weight and includes the weight of all occupants, cargo, and all nonfactory-installed options. Two labels on the vehicle may show how much weight it may properly carry: the Tire and Loading Information label and the Certification label.
 
 Warning Do not load the vehicle any heavier than the Gross Vehicle Weight Rating (GVWR), or either the maximum front or rear Gross Axle Weight Rating (GAWR). This can cause systems to break and change the way the vehicle handles. This could cause loss of control and a crash. Overloading can also reduce stopping distance, damage the tires, and shorten the life of the vehicle.
 
 ### Label Example
-`chevrolet_cruze_en_2e70bbc9` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A vehicle-specific Tire and Loading Information label is attached to the vehicle's center pillar (B-pillar). The Tire and Loading Information label shows the number of occupant seating positions (1), and the maximum vehicle capacity weight (2) in kilograms and pounds.
 
@@ -6320,7 +5827,6 @@ equipment tires (3) and the recommended cold tire inflation pressures (4). For m
 There is also important loading information on the Certification label. It may show the Gross Vehicle Weight Rating (GVWR) and the Gross Axle Weight Rating (GAWR) for the front and rear axle. See “Certification Label” later in this section.
 
 ### “Steps for Determining Correct Load Limit–
-`chevrolet_cruze_en_581a42ec` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Locate the statement "The combined weight of occupants and cargo should never exceed XXX kg or XXX lbs." on your vehicle’s placard.
 2. Determine the combined weight of the driver and passengers that will be riding in your vehicle.
@@ -6357,7 +5863,6 @@ Example 3
 Refer to the vehicle's Tire and Loading Information label for specific information about the vehicle's capacity weight and seating positions. The combined weight of the driver, passengers, and cargo should never exceed the vehicle's capacity weight.
 
 ### Certification Label
-`chevrolet_cruze_en_963b97d9` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 DATE GVWR GAWRFRT GAWRRR
 THISVEHICLECONFORMSTOALLAPPLICABLEU.S.FEDERALMOTOR
@@ -6365,7 +5870,6 @@ VEHICLESAFETYBUMPERANDTHEFTPREVENTIONSTANDARDSIN
 EFFECTONTHEDATEOFMANUFACTURESHOWNABOVETYPE:
 
 ### Label Example
-`chevrolet_cruze_en_8529b759` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A vehicle-specific Certification label is attached to the vehicle's center pillar (B-pillar). The label may show the gross weight capacity of the vehicle, called the Gross Vehicle Weight Rating (GVWR). The GVWR includes the weight of the vehicle, all occupants, fuel, and cargo.
 
@@ -6376,7 +5880,6 @@ sudden stop or turn, or in a
 crash. Put things in the cargo area of the vehicle. In the cargo area, put them as far forward as possible. Try to spread the weight evenly. Never stack heavier things, like suitcases, inside the vehicle so that some of them are above the tops of the seats. Do not leave an unsecured child restraint in the vehicle. Secure loose items in the vehicle. Do not leave a seat folded down unless needed.
 
 ### Starting and Operating
-`chevrolet_cruze_en_8dc41564` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 New Vehicle Break-In
 
@@ -6385,7 +5888,6 @@ New Vehicle Break-In
 ![](images/7d71c61d4f8c2058fda6f710ef2928d3475910dd03919930f1408c10b94ba65d.jpg)
 
 ### Ignition Positions (Key Access)
-`chevrolet_cruze_en_852c9cdf` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/0e5d017a148f172ae2cc28cd81b90f3b2b5fbff219e733422ba9e72700dc22bc.jpg)
 
@@ -6430,7 +5932,6 @@ A warning tone sounds when the driver door is opened if the ignition is still in
 If the ignition becomes difficult to turn, see Keys 0 31.
 
 ### Ignition Positions (Keyless Access)
-`chevrolet_cruze_en_bc17084e` | cruze | pdf_manual | tier:2 | lang:en | layer:transmission | p:1 | doc_type:owners_manual
 
 ![](images/0d430783dfef2985018f8db03e5bae4b7aae09123fdb19f59d4809c018493780.jpg)
 
@@ -6470,31 +5971,26 @@ The ignition will switch from ACC/ ACCESSORY to OFF after five minutes to preven
 ON/RUN/START : This mode has a green light and is for starting the engine and driving. With the ignition off, and the brake or clutch pedal applied, pressing the button once will place the ignition system in ON/ RUN/START. Once engine cranking begins, release the button. Engine cranking will continue until the engine starts. See Starting the Engine 0 209. The ignition will then remain in ON/RUN.
 
 ### Service Mode
-`chevrolet_cruze_en_44a25ae7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This power mode is available for service and diagnostics, and to verify the proper operation of the malfunction indicator lamp as may be required for emission inspection purposes. With the vehicle off and the brake pedal not applied, pressing and holding ENGINE START/STOP for more than five seconds will place the vehicle in Service Mode. The instruments and audio systems will operate as they do in ON/RUN, but the vehicle will not be able to be driven. The engine will not start in Service Mode. Press ENGINE START/STOP again to turn the vehicle off.
 
 ### Starting the Engine
-`chevrolet_cruze_en_1a967fab` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Place the transmission in the proper gear.
 
 ![](images/39bccc94d14a671d968301e3274a2b3c1e05d7c51287d4a394df9842332c2449.jpg)
 
 ### Automatic Transmission
-`chevrolet_cruze_en_3e1004ce` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Move the shift lever to P (Park) or N (Neutral). To restart the vehicle when it is already moving, use N (Neutral) only.
 
 ![](images/2a57d3ceb03cc51894d8887e3a055ecca78e1e23c69d93d89fe27ec39aada47d.jpg)
 
 ### Manual Transmission
-`chevrolet_cruze_en_2734f67c` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The shift lever should be in Neutral and the parking brake engaged. Hold the clutch pedal down to the floor and start the engine.
 
 ### Gasoline Engine Starting Procedure (Key Access)
-`chevrolet_cruze_en_e2bb86aa` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. With your foot off the accelerator pedal, turn the ignition key to START. When the engine starts, let go of the key. The idle speed will go down as the engine warms. Do not race the engine immediately after starting it. Allow the oil to warm up and lubricate all moving parts.
 
@@ -6507,7 +6003,6 @@ The shift lever should be in Neutral and the parking brake engaged. Hold the clu
 starting it. Operate the engine and transmission gently until the oil warms up and lubricates all moving parts.
 
 ### Gasoline Engine Starting Procedure (Keyless Access)
-`chevrolet_cruze_en_25ff6e49` | cruze | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 1. With the Keyless Access system, the RKE transmitter must be in the vehicle. Press ENGINE START/STOP with the brake pedal applied. When the engine begins cranking, let go of the button.
 
@@ -6522,7 +6017,6 @@ See Driver Information Center (DIC) (Base) 0 138 or Driver Information Center (D
 2. If the engine does not start after five to 10 seconds, especially in very cold weather (below −18 °C or 0 °F), it could be flooded with too much gasoline. Try pushing the accelerator pedal all the way to the floor and holding it there as you press ENGINE START/ STOP, for up to a maximum of 15 seconds. Wait at least 15 seconds between each try, to allow the cranking motor to cool down. When the engine starts, let go of the button and the accelerator. If the vehicle starts briefly but then stops again, do the same thing. This clears the extra gasoline from the engine. Do not race the engine immediately after starting it. Operate the engine and transmission gently until the oil warms up and lubricates all moving parts.
 
 ### Stop/Start System
-`chevrolet_cruze_en_70c5f350` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/e842a19802cc55a469631412a6f4b5ea7923b3356ddc8eeee89bbd292ac88c7d.jpg)
 
@@ -6531,7 +6025,6 @@ See Driver Information Center (DIC) (Base) 0 138 or Driver Information Center (D
 The vehicle may have a fuel saving Stop/Start system to shut off the engine to help conserve fuel.
 
 ### Auto Engine Stop/Start
-`chevrolet_cruze_en_f29cd3ad` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the brakes are applied and the vehicle is at a complete stop, the engine may turn off. When stopped, the tachometer displays AUTO STOP. See Tachometer 0 125. When the brake pedal is released or the accelerator pedal is pushed, the engine will restart.
 
@@ -6561,7 +6054,6 @@ Climate Control System 0 190.
 The Auto Stop time is greater than two minutes.
 
 ### Diesel Engine Starting Procedure
-`chevrolet_cruze_en_d2b179f3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The diesel engine starts differently than a gasoline engine.
 
@@ -6580,7 +6072,6 @@ If you are trying to start the engine after you have run out of fuel, follow the
 When the engine is cold, let it run for a few minutes before you move the vehicle. This lets oil pressure build up. The engine will sound louder when it's cold.
 
 ### Cold Weather Starting (Diesel Engine)
-`chevrolet_cruze_en_dce4cdfa` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The following tips will help with cold weather starting.
 
@@ -6589,7 +6080,6 @@ Use the recommended engine oil when the outside temperature drops below freezing
 See Fuel for Diesel Engines 0 246 for information on what fuel to use in cold weather.
 
 ### If the Diesel Engine Will Not Start
-`chevrolet_cruze_en_05e83007` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you have run out of fuel, see Running Out of Fuel (Diesel) 0 253.
 
@@ -6614,7 +6104,6 @@ If the engine starts, runs a short time, then stops, the vehicle needs service.
 ![](images/486f6824993fb53cf4eb0939aa80785015beb7a48e08aa871f559f49925a87bd.jpg)
 
 ### Engine Heater
-`chevrolet_cruze_en_ce6a66e9` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, the gasoline engine block heater and diesel engine oil pan heater can help in cold weather conditions at or below −18 °C (0 °F) for easier starting and better fuel economy during engine warm-up. Plug in the heater at least four hours before starting the vehicle. A thermostat that is part of the block heater cord will prevent engine block heater operation at temperatures above −18 °C (0 °F).
 
@@ -6625,7 +6114,6 @@ If equipped, the gasoline engine block heater and diesel engine oil pan heater c
 ![](images/2e72c183c6fa07c4339c079c46cf9ea9c2b1c1c6040eff44ff762acf70b56ac4.jpg)
 
 ### Retained Accessory Power (RAP)
-`chevrolet_cruze_en_f1625620` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Some vehicle accessories may be used after the ignition is turned off.
 
@@ -6634,7 +6122,6 @@ The power windows and sunroof, if equipped, will continue to work for up to 10 m
 The infotainment system will continue to work for 10 minutes, until the driver door is opened, or until the ignition is turned on or placed in ACC/ACCESSORY.
 
 ### Shifting Into Park (Automatic Transmission)
-`chevrolet_cruze_en_9f24f6ea` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Hold the brake pedal down and set the parking brake. See Parking Brake 0 229.
 2. Hold the button on the shift lever and push the lever toward the front of the vehicle into P (Park).
@@ -6642,7 +6129,6 @@ The infotainment system will continue to work for 10 minutes, until the driver d
 3. Turn off the ignition.
 
 ### Leaving the Vehicle with the Engine Running
-`chevrolet_cruze_en_8e2ade28` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/75fff338d39bc4b4deab7915231ef3ab6809e8b8522add2e9c002d121560c935.jpg)
 
@@ -6651,14 +6137,12 @@ If you have to leave the vehicle with the engine running, the vehicle must be in
 Release the button and check that the shift lever cannot be moved out of P (Park).
 
 ### Torque Lock
-`chevrolet_cruze_en_318b35b3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Torque lock is when the weight of the vehicle puts too much force on the parking pawl in the transmission. This happens when parking on a hill and shifting the transmission into P (Park) is not done properly and then it is difficult to shift out of P (Park). To prevent torque lock, set the parking brake and then shift into P (Park). To find out how, see “Shifting Into Park” listed previously.
 
 If torque lock does occur, the vehicle may need to be pushed uphill by another vehicle to relieve the parking pawl pressure, so you can shift out of P (Park).
 
 ### Shifting out of Park (Automatic Transmission)
-`chevrolet_cruze_en_4d11e1ef` | cruze | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 This vehicle is equipped with an automatic transmission shift lock control system. The shift lock is designed to:
 
@@ -6688,12 +6172,10 @@ If the shift lever still cannot be moved from P (Park), see your dealer.
 This vehicle may have the Seat Belt Assurance System, which may prevent the vehicle from shifting out of P (Park). See Seat Belts 0 69.
 
 ### Parking (Manual Transmission)
-`chevrolet_cruze_en_319d4218` | cruze | pdf_manual | tier:2 | lang:en | layer:transmission | p:1 | doc_type:owners_manual
 
 If the vehicle has a manual transmission, before getting out of the vehicle, move the shift lever into R (Reverse) if parking on a downhill slope. On a level surface or an uphill slope, use (First) gear. Firmly apply the parking brake. See Parking Brake 0 229. Turn the wheels toward the curb for a downhill slope, or away from the curb for an uphill slope. Once the shift lever has been placed into gear with the clutch pedal pressed in, turn the ignition off, and release the clutch.
 
 ### Extended Parking
-`chevrolet_cruze_en_48196363` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 It is better not to park with the vehicle running. If the vehicle is left while running, follow the proper steps to be sure the vehicle will not move and there is adequate ventilation.
 
@@ -6708,28 +6190,24 @@ If the vehicle is left parked while running and the RKE transmitter is inside, t
 Vehicles without pushbutton start will run indefinitely, or until the ignition is turned off.
 
 ### Engine Exhaust
-`chevrolet_cruze_en_52221a2b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/5cd17eff0f1991c7df28e8927833db3f25425cd14503264cb7f8b02fbfe73a20.jpg)
 
 ![](images/c6678c329d310266870450d3132847aa137fb553bf9c5f0ffafc246840b1620f.jpg)
 
 ### Running the Vehicle While Parked
-`chevrolet_cruze_en_a549d5ab` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 It is better not to park with the engine running.
 
 If the vehicle is left with the engine running, follow the proper steps to be sure the vehicle will not move. See Shifting Into Park (Automatic Transmission) 0 215 and Engine Exhaust 0 217.
 
 ### Diesel Particulate Filter
-`chevrolet_cruze_en_794ec2fc` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Diesel Particulate Filter (DPF) filters soot particles out of the exhaust gases. The system includes a self-cleaning function that runs automatically during driving without any notification. The filter is cleaned by periodically burning off the soot particles at high temperature. This process takes place automatically and may take up to 20 minutes. Fuel consumption may be higher during this period.
 
 Under certain driving conditions, e.g. short distances, the system cannot clean itself automatically. If the cleaning of the filter is required and if previous driving conditions did not enable automatic cleaning, a warning message appears in the DIC. Start the cleaning process as soon as possible.
 
 ### Cleaning Process
-`chevrolet_cruze_en_6852d0ca` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To activate the cleaning process, continue driving safely, and keep vehicle speed above 41 km/h (25 mph) until the warning message in the DIC goes off.
 
@@ -6740,7 +6218,6 @@ If the vehicle continues to be driven with the DPF warning message on, and the e
 ![](images/d3336d9b314f899695dec7f7ebcdb57a9b42680604969bc8fdf6c9ce371b3cfc.jpg)
 
 ### Diesel Exhaust Fluid
-`chevrolet_cruze_en_0b271925` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/0f22b28855a4f60cd0633f03e7a5c81e940ff419f6b07ef44adb46d86e69fd59.jpg)
 
@@ -6753,7 +6230,6 @@ The capacity of the Liftback DEF tank is 12.5 L (3.3 gal).
 It is normal to hear the DEF system purge fluid back into the tank after the vehicle is shut off.
 
 ### Locating Diesel Exhaust Fluid
-`chevrolet_cruze_en_a9fa07fe` | cruze | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 DEF can be purchased at a Chevrolet dealer. It can also be purchased at authorized vehicle dealerships. Additionally, some diesel fueling stations or retailers may have DEF for purchase. For vehicles with an active OnStar service plan, OnStar can help to locate a DEF retailer. See Customer Assistance Offices 0 369 for phone numbers to assist in contacting a GM dealer. See Recommended Fluids and Lubricants 0 359.
 
@@ -6770,7 +6246,6 @@ If you spill DEF during filling, wipe any affected surface with a damp cloth.
 For information on the DEF tank, see Filling the Tank 0 254.
 
 ### Exhaust Fluid Low
-`chevrolet_cruze_en_217f53c8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A full DEF tank will last for several thousand kilometers (miles), depending on vehicle usage. As the exhaust fluid level drops, warnings will automatically be displayed in the DIC. Exhaust fluid level status is available on the DIC under the Vehicle Information menu. See “Diesel Exhaust Fluid (DEF) Level (Diesel Engine Only)” in Driver Information Center (DIC) (Base) 0 138 or Driver Information Center (DIC) (Uplevel) 0 141.
 
@@ -6799,7 +6274,6 @@ After the transition to 105 km/h (65 mph) is complete, the DIC message EXHAUST F
 When the mileage countdown is zero, the DIC message EXHAUST FLUID EMPTY REFILL NOW TRANSITIONING TO 89 KM/H (55 MPH) MAX SPEED displays. A flashing warning light and a chime also come on. Vehicle speed will be reduced to a maximum speed limit of 89 km/h (55 mph).
 
 ### Exhaust Fluid Low
-`chevrolet_cruze_en_3da55f6d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 After the transition to 89 km/h (55 mph) is complete, the DIC message EXHAUST FLUID EMPTY REFILL NOW SPEED LIMITED TO 89 KM/H (55 MPH) – 120 KM (75 MI) UNTIL 7 KM/H (4 MPH) MAX SPEED displays. The displayed mileage will decrease as driving continues. A flashing warning light and a chime also come on.
 
@@ -6812,7 +6286,6 @@ Add at least 7.6 L (2 gal) of fluid to release the vehicle from speed limitation
 See Diesel Exhaust Fluid (DEF) Warning Light 0 136, and Recommended Fluids and Lubricants 0 359.
 
 ### Exhaust Fluid Quality Poor
-`chevrolet_cruze_en_53b8363c` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use only exhaust fluid that is GM approved, or fluid containing the API certified or ISO 22241 label.
 
@@ -6833,7 +6306,6 @@ After the transition to 7 km/h (4 mph) is complete, a DIC message EXHAUST FLUID 
 (4 MPH) displays. A flashing warning light and a chime also come on.
 
 ### Service Exhaust Fluid System
-`chevrolet_cruze_en_638d55ed` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If a problem occurs with the DEF system, the DIC message SERVICE EXHAUST FLUID SYSTEM SEE OWNERS MANUAL NOW – 160 KM (99 MI) UNTIL 105 KM/H (65 MPH) MAX SPEED displays. The displayed mileage will decrease as driving continues. A warning light also comes on. In some cases this message will clear itself, indicating that the DEF system was able to correct the condition. If the DIC message persists, see your dealer or additional DIC messages may display.
 
@@ -6852,7 +6324,6 @@ When the mileage countdown is zero, the DIC message SERVICE EXHAUST FLUID SYSTEM
 After the transition to 7 km/h (4 mph) is complete, the DIC message SERVICE EXHAUST FLUID SYSTEM SEE OWNERS MANUAL NOW SPEED LIMITED TO 7 KM/H (4 MPH) displays. A flashing warning light and a chime also come on.
 
 ### Service Emission System
-`chevrolet_cruze_en_da55ea9c` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If a problem occurs with the vehicle emission system, the DIC message SERVICE EMISSION SYSTEM SEE OWNERS MANUAL NOW – 282 KM (175 MI) UNTIL 105 KM/H (65 MPH) MAX SPEED displays. The displayed mileage will decrease as driving continues. In some cases this message will clear itself, indicating that the emission system was able to correct the condition. If the DIC message persists, see your dealer or additional DIC messages may display.
 
@@ -6865,7 +6336,6 @@ When the mileage countdown is zero, the DIC message SERVICE EMISSION SYSTEM SEE 
 After the transition to 89 km/h (55 mph) is complete, the DIC message SERVICE EMISSION SYSTEM SEE OWNERS MANUAL NOW SPEED LIMITED TO 89 KM/H (55 MPH) displays. A chime also comes on.
 
 ### Automatic Transmission
-`chevrolet_cruze_en_541683a3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The selected gear is also shown in the instrument cluster.
 
@@ -6903,14 +6373,12 @@ Going less than 56 km/h (35 mph), push the accelerator pedal about halfway down.
 L : Electronic Range Select (ERS) or Manual Mode allows for the selection of the range of gear positions. See Manual Mode 0 226.
 
 ### Operating Modes
-`chevrolet_cruze_en_ba7f1a06` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The transmission may operate in a lower gear. The engine speed may be higher and there may be an increase in noise during the following conditions:
 
 When climbing a grade. When driving downhill. When driving in hot temperatures or at high altitude.
 
 ### Driver Shift Control (DSC)
-`chevrolet_cruze_en_41d824a8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Driver Shift Control (DSC) allows the automatic transmission to be shifted similar to a manual transmission.
 
@@ -6932,7 +6400,6 @@ The transmission will not allow shifting to the next lower gear if the vehicle s
 If vehicle speed is not reduced within the time allowed, the lower gear range shift will not be completed. Slow the vehicle, then press − (minus) to the desired lower gear range.
 
 ### Second Gear Start Feature
-`chevrolet_cruze_en_506c3539` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When accelerating the vehicle from a stop in snowy and icy conditions, you may want to shift into 2 (Second) gear. A higher gear allows you to gain more traction on slippery surfaces.
 
@@ -6943,7 +6410,6 @@ With the DSC feature, the vehicle can be set to pull away in 2 (Second) gear.
 3. Once moving, select the desired drive gear.
 
 ### Manual Transmission Shift Pattern
-`chevrolet_cruze_en_2e5b219b` | cruze | pdf_manual | tier:2 | lang:en | layer:transmission | p:1 | doc_type:owners_manual
 
 ![](images/850aa528cffa838b762a52cc9682c63a812a04081c03444f74cf0895b046acce.jpg)
 
@@ -6978,7 +6444,6 @@ If the gear does not engage, shift the transmission to Neutral, release the clut
 ![](images/8e8a42412a827c70638f994b3faaeef972719b2a2a48468cb9b27d9f3996aaf7.jpg)
 
 ### Antilock Brake System (ABS)
-`chevrolet_cruze_en_0cc7e3f5` | cruze | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 This vehicle has an Antilock Brake System (ABS), an advanced electronic braking system that helps prevent a braking skid.
 
@@ -6997,17 +6462,14 @@ As the brakes are applied, the computer keeps receiving updates on wheel speed a
 Remember: ABS does not change the time needed to get a foot up to the brake pedal or always decrease stopping distance. If you get too close to the vehicle in front o you, there will not be enough time to apply the brakes if that vehicle suddenly slows or stops. Always leave enough room up ahead to stop, even with ABS.
 
 ### Using ABS
-`chevrolet_cruze_en_9d469068` | cruze | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 Do not pump the brakes. Just hold the brake pedal down firmly and let ABS work. You may hear the ABS pump or motor operating and feel the brake pedal pulsate. This is normal.
 
 ### Braking in Emergencies
-`chevrolet_cruze_en_0d4d99df` | cruze | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 ABS allows you to steer and brake at the same time. In many emergencies, steering can help more than even the very best braking.
 
 ### Lever Apply
-`chevrolet_cruze_en_3eec4af2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/301d0d1ec94be8cc845f8d8fb50685518a050e58cbef9b20eabd951107954374.jpg)
 
@@ -7025,7 +6487,6 @@ To release the parking brake:
 Driving with the parking brake applied will cause a warning chime to sound and a DIC (Driver Information Center) message to display. The message will remain on until the parking brake is released or the vehicle is stopped. Release the parking brake or stop the vehicle.
 
 ### Pedal Apply
-`chevrolet_cruze_en_8069fd2f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/6b05bac532cc327cbef0c70a6c58421ed2c10ee047dc5bd801d2aac38b058d19.jpg)
 
@@ -7038,12 +6499,10 @@ If the ignition is on, the brake system warning light will come on. See Brake Sy
 To release the parking brake, hold the regular brake pedal down, then push down momentarily on the parking brake pedal until you feel the pedal release. Slowly pull your foot up off the parking brake pedal. If the parking brake is not released when you begin to drive, the brake system warning light will be on and a chime will sound warning you that the parking brake is still on.
 
 ### Brake Assist
-`chevrolet_cruze_en_cd69ae2e` | cruze | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 The Brake Assist feature is designed to assist the driver in stopping or decreasing vehicle speed in emergency driving conditions. This feature uses the stability system hydraulic brake control module to supplement the power brake system under conditions where the driver has quickly and forcefully applied the brake pedal in an attempt to quickly stop or slow down the vehicle. The stability system hydraulic brake control module increases brake pressure at each corner of the vehicle until the ABS activates. Minor brake pedal pulsation or pedal movement during this time is normal and the driver should continue to apply the brake pedal as the driving situation dictates. The Brake Assist feature will automatically disengage when the brake pedal is released or brake pedal pressure is quickly decreased.
 
 ### System Operation
-`chevrolet_cruze_en_dfb67a43` | cruze | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 The vehicle has a Traction Control System (TCS) and StabiliTrak, an electronic stability control system. These systems help limit wheel slip and assist the driver in maintaining control, especially on slippery road conditions.
 
@@ -7058,7 +6517,6 @@ Both systems come on automatically when the vehicle is started and begins to mov
 It is recommended to leave both systems on for normal driving conditions, but it may be necessary to turn TCS off if the vehicle gets stuck in sand, mud, ice, or snow. See If the Vehicle Is Stuck 0 202 and “Turning the Systems Off and On” later in this section.
 
 ### R
-`chevrolet_cruze_en_87a705ae` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The indicator light for both systems is in the instrument cluster. This light will:
 
@@ -7078,7 +6536,6 @@ If d comes on and stays on: 1. Stop the vehicle.
 Drive the vehicle. If d comes on and stays on, the vehicle may need more time to diagnose the problem. If the condition persists, see your dealer.
 
 ### Turning the Systems Off and On
-`chevrolet_cruze_en_5dbe9a2f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 绿 OFF
 
@@ -7095,7 +6552,6 @@ To turn off both TCS and StabiliTrak, press and hold g until the traction off li
 Adding accessories can affect the vehicle performance. See Accessories and Modifications 0 260.
 
 ### Cruise Control
-`chevrolet_cruze_en_86c06334` | cruze | pdf_manual | tier:2 | lang:en | layer:transmission | p:1 | doc_type:owners_manual
 
 The cruise control lets the vehicle maintain a speed of about 40 km/h (25 mph) or more without keeping your foot on the accelerator. Cruise control does not work at speeds below 40 km/h (25 mph).
 
@@ -7118,7 +6574,6 @@ If the brakes are applied, cruise control disengages.
 −SET : Press briefly to set the speed and activate cruise control. If cruise control is already active, use to decrease vehicle speed.
 
 ### Setting Cruise Control
-`chevrolet_cruze_en_302bf287` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If 5 is on when not in use, -SET or +RES could get bumped and go into cruise when not desired. Keep 5 off when cruise is not being used.
 
@@ -7132,14 +6587,12 @@ To set a speed:
 The cruise control indicator on the instrument cluster turns green after cruise control has been set to the desired speed. See Instrument Cluster 0 120.
 
 ### Resuming a Set Speed
-`chevrolet_cruze_en_5b1dd875` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the cruise control is set at a desired speed and then the brakes are applied or \* is pressed, the cruise control is disengaged without erasing the set speed from memory.
 
 Once the vehicle speed reaches about 40 km/h (25 mph) or more, briefly press +RES. The vehicle returns to the previous set speed.
 
 ### Increasing Speed While Using Cruise Control
-`chevrolet_cruze_en_88c21d6e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the cruise control system is already activated:
 
@@ -7148,7 +6601,6 @@ Press and hold +RES on the steering wheel until the vehicle accelerates to the d
 The speedometer reading can be displayed in either English or metric units. See Instrument Cluster 0 120. The increment value used depends on the units displayed.
 
 ### Reducing Speed While Using Cruise Control
-`chevrolet_cruze_en_88876aba` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the cruise control system is already activated:
 
@@ -7159,19 +6611,16 @@ To slow down in small increments, briefly press -SET. For each press, the vehicl
 The speedometer reading can be displayed in either English or metric units. See Instrument Cluster 0 120. The increment value used depends on the units displayed.
 
 ### Passing Another Vehicle While Using Cruise Control
-`chevrolet_cruze_en_e1412502` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use the accelerator pedal to increase the vehicle speed. When you take your foot off the pedal, the vehicle will slow down to the previous set cruise speed. While pressing the accelerator pedal or shortly following the release to override cruise control, briefly pressing -SET will result in cruise control set to the current vehicle speed.
 
 ### Using Cruise Control on Hills
-`chevrolet_cruze_en_2ac3c9f3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 How well the cruise control works on hills depends upon the vehicle speed, load, and the steepness of the hills. When going up steep hills, you might have to step on the
 
 accelerator pedal to maintain the vehicle speed. When going downhill, you might have to brake or shift to a lower gear to keep your speed down. If the brake pedal is applied, cruise control will disengage.
 
 ### Ending Cruise Control
-`chevrolet_cruze_en_f891cc7f` | cruze | pdf_manual | tier:2 | lang:en | layer:transmission | p:1 | doc_type:owners_manual
 
 There are five ways to end cruise control:
 
@@ -7183,7 +6632,6 @@ Press \*.
 Press 5.
 
 ### Driver Assistance Systems
-`chevrolet_cruze_en_e21b3025` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle may have features that work together to help avoid crashes or reduce crash damage while driving, backing, and parking. Read this entire section before using these systems.
 
@@ -7209,17 +6657,14 @@ repaired.
 ![](images/cd69de87f67d7dd3df0512f45a923dc886854b9021f2d83d19fcf8683ee69707.jpg)
 
 ### Audible Alert
-`chevrolet_cruze_en_7d0444f1` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Some driver assistance features alert the driver of obstacles by beeping. To change the volume of the warning chime, see “Comfort and Convenience” under Vehicle Personalization 0 145.
 
 ### Assistance Systems for Parking or Backing
-`chevrolet_cruze_en_5b19c5b2` | cruze | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 If equipped, the Rear Vision Camera (RVC), Rear Parking Assist (RPA), and Rear Cross Traffic Alert (RCTA) may help the driver park or avoid objects. Always check around the vehicle when parking or backing.
 
 ### Rear Vision Camera (RVC)
-`chevrolet_cruze_en_baa16365` | cruze | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 When the vehicle is shifted into R (Reverse), the RVC displays an image of the area behind the vehicle in the infotainment display. The previous screen displays when the vehicle is shifted out of R (Reverse) after a short delay. To return to the previous screen sooner, press any button on the infotainment system, shift into P (Park), or reach a vehicle speed of approximately 12 km/h (8 mph).
 
@@ -7238,7 +6683,6 @@ A warning triangle may display to show that Rear Parking Assist (RPA) has detect
 ![](images/a370cd28d268a5104af7d149f55a24b540a17e24c2ac3db2786f15cc844a77dd.jpg)
 
 ### Parking Assist
-`chevrolet_cruze_en_920cf366` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 With RPA, as the vehicle backs up at speeds of less than 8 km/h (5 mph), the sensors on the rear bumper may detect objects up to 2.5 m (8 ft) behind the vehicle within a zone 25 cm (10 in) high off the ground and below bumper level. These detection distances may be shorter during warmer or humid weather.
 
@@ -7253,14 +6697,12 @@ The instrument cluster may have a parking assist display with bars that show “
 When an object is first detected in the rear, one beep will be heard from the rear. When an object is very close (<0.6 m (2 ft) in the vehicle rear), five beeps will sound from the rear.
 
 ### Rear Cross Traffic Alert (RCTA)
-`chevrolet_cruze_en_4b314db8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, RCTA displays a red warning triangle with a left or right pointing arrow on the infotainment screen to warn of traffic coming from the left or right. This system detects objects coming from up to 20 m
 
 (65 ft) from the left or right side of the vehicle. When an object is detected, three beeps sound from the left or right, depending on the direction of the detected vehicle.
 
 ### Turning the Features On or Off
-`chevrolet_cruze_en_572e0625` | cruze | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 Press X on the center console to turn the Rear Parking Assist and RCTA on or off. The indicator light next to the button comes on when the features are on and turns off when the features have been disabled.
 
@@ -7269,26 +6711,22 @@ To turn the rear parking assist symbols or guidance lines on or off, see “Rear
 RCTA can also be turned on or off through vehicle personalization. See “Collision/Detection Systems” under Vehicle Personalization 0 145.
 
 ### Assistance Systems for Driving
-`chevrolet_cruze_en_8e188ec1` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, when driving the vehicle in a forward gear, Forward Collision Alert (FCA), Lane Departure Warning (LDW), Lane Keep Assist (LKA), Side Blind Zone Alert (SBZA), and/or Lane Change Alert (LCA) can help to avoid a crash or reduce crash damage.
 
 ### Forward Collision Alert (FCA) System
-`chevrolet_cruze_en_8aae8887` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, the FCA system may help to avoid or reduce the harm caused by front-end crashes. When approaching a vehicle ahead too quickly, FCA provides a flashing red alert on the windshield and rapidly beeps. FCA also lights an amber visual alert if following another vehicle much too closely.
 
 FCA detects vehicles within a distance of approximately 60 m (197 ft) and operates at speeds above 8 km/h (5 mph).
 
 ### { Warning
-`chevrolet_cruze_en_b54238b6` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 FCA is a warning system and does not apply the brakes. When approaching a slower-moving or stopped vehicle ahead too rapidly, or when following a vehicle too closely, FCA may not provide a warning with enough time to help avoid a crash. It also may not provide any warning at all. FCA does not warn of pedestrians, animals, signs, guardrails, bridges, construction barrels, or other objects. Be ready to take action and apply the brakes. See Defensive Driving 0 197.
 
 FCA can be disabled with either the FCA steering wheel control or, if equipped, through vehicle personalization. See “Collision/ Detection Systems” under Vehicle Personalization 0 145.
 
 ### Detecting the Vehicle Ahead
-`chevrolet_cruze_en_7ab77b5a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/ad76fc547e2543fdbd89f84728f9b2cfba7e69ff8340d05dacbe2ddc16d84be2.jpg)
 
@@ -7299,7 +6737,6 @@ FCA warnings will not occur unless the FCA system detects a vehicle ahead. When 
 ![](images/2aef1517ece16457cbdcf41cfe8af50d411cfcdf5a9fd377546705d61ba35c9c.jpg)
 
 ### Collision Alert
-`chevrolet_cruze_en_1782be09` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/8ddecc3e22c4873282c3a7d5ec2be100f760c643ce465220fe6b36cc45d42e0f.jpg)
 
@@ -7312,38 +6749,32 @@ Tailgating Alert
 The vehicle ahead indicator will display amber when you are following a detected vehicle ahead much too closely.
 
 ### Selecting the Alert Timing
-`chevrolet_cruze_en_61f32f70` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Collision Alert control is on the steering wheel. Press [ to set the FCA timing to far, medium, near, or off. The first button press shows the current control setting on the DIC. Additional button presses will change this setting. The chosen setting will remain until it is changed and will affect the timing of both the Collision Alert and the Tailgating
 
 Alert features. The timing of both alerts will vary based on vehicle speed. The faster the vehicle speed, the farther away the alert will occur. Consider traffic and weather conditions when selecting the alert timing. The range of selectable alert timing may not be appropriate for all drivers and driving conditions.
 
 ### Following Distance Indication
-`chevrolet_cruze_en_42550cff` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The following distance to a moving vehicle you are following is indicated in following time in seconds on the Driver Information Center (DIC).
 
 See Driver Information Center (DIC) (Base) 0 138 or Driver Information Center (DIC) (Uplevel) 0 141. The minimum following time is 0.5 seconds away. If there is no vehicle detected ahead, or the vehicle ahead is out of sensor range, dashes will be displayed.
 
 ### Unnecessary Alerts
-`chevrolet_cruze_en_0589a70e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 FCA may provide unnecessary alerts to turning vehicles, vehicles in other lanes, objects that are not
 
 vehicles, or shadows. These alerts are normal operation and the vehicle does not need service.
 
 ### Cleaning the System
-`chevrolet_cruze_en_d04f21e0` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the FCA system does not seem to operate properly, cleaning the outside of the windshield in front of the camera sensor may correct the issue
 
 ### Side Blind Zone Alert (SBZA)
-`chevrolet_cruze_en_369ea80a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, the SBZA system is a lane-changing aid that assists drivers with avoiding crashes that occur with moving vehicles in the side blind zone (or spot) areas. When the vehicle is in a forward gear, the left or right side mirror display will light up if a moving vehicle is detected in that blind zone. If the turn signal is activated and a vehicle is also detected on the same side, the display will flash as an extra warning not to change lanes. Since this system is part of the Lane Change Alert (LCA) system, read the entire LCA section before using this feature.
 
 ### Lane Change Alert (LCA)
-`chevrolet_cruze_en_f40edf07` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 f equipped, the LCA system is a lane-changing aid that assists drivers with avoiding lane change crashes that occur with moving vehicles in the side blind zone (or spot) areas or with vehicles rapidly approaching these areas from behind. The LCA warning display will light up in the corresponding outside side mirror and will flash if the turn signal is on.
 
@@ -7354,7 +6785,6 @@ f equipped, the LCA system is a lane-changing aid that assists drivers with avoi
 ![](images/00a09cb31e0b353b67d642fbed6349ba8e829a36b9233ee374e3d27b2415c0d3.jpg)
 
 ### LCA Detection Zones
-`chevrolet_cruze_en_53b85af1` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/64a0e1572e45e72bfcb57341196149307cdabef4ae290334dbf6b90bdaceabe0.jpg)
 
@@ -7364,7 +6794,6 @@ f equipped, the LCA system is a lane-changing aid that assists drivers with avoi
 The LCA sensor covers a zone of approximately one lane over from both sides of the vehicle, or 3.5 m (11 ft). The height of the zone is approximately between 0.5 m (1.5 ft) and 2 m (6 ft) off the ground. The Side Blind Zone Alert (SBZA) warning area starts at approximately the middle of the vehicle and goes back 5 m (16 ft). Drivers are also warned of vehicles rapidly approaching from up to 25 m (82 ft) behind the vehicle.
 
 ### How the System Works
-`chevrolet_cruze_en_0749d728` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The LCA symbol lights up in the side mirrors when the system detects a moving vehicle in the next lane over that is in the side blind zone or rapidly approaching that zone from behind. A lit LCA symbol indicates it may be unsafe to change lanes. Before making a lane change, check the LCA display, check mirrors, glance over your shoulder, and use the turn signals.
 
@@ -7379,7 +6808,6 @@ When the vehicle is started, both outside mirror LCA displays will briefly come 
 LCA can be disabled through vehicle personalization. See “Collision/Detection Systems” under Vehicle Personalization 0 145. If LCA is disabled by the driver, the LCA mirror displays will not light up.
 
 ### When the System Does Not Seem to Work Properly
-`chevrolet_cruze_en_28dab2b8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The LCA system requires some driving for the system to calibrate to maximum performance. This calibration may occur more quickly if the vehicle is driven on a straight highway road with traffic and roadside objects (e.g., guardrails, barriers). During a trip, the LCA system is not operational until the vehicle first reaches a speed of 24 km/h (15 mph).
 
@@ -7394,12 +6822,10 @@ If the LCA displays do not light up when moving vehicles are in the side blind z
 When LCA is disabled for any reason other than the driver turning t off, the Lane Change Alert On option will not be available on the personalization menu.
 
 ### Lane Departure Warning (LDW)
-`chevrolet_cruze_en_f255bab4` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, LDW may help avoid crashes due to unintentional lane departures. It may provide a warning if the vehicle is crossing a detected lane marking without using a turn signal in the lane departure direction. Since this system is part of the Lane Keep Assist (LKA) system, read the entire LKA section before using this feature.
 
 ### Lane Keep Assist (LKA)
-`chevrolet_cruze_en_293dbd94` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, LKA may help avoid crashes due to unintentional lane departures. It may assist by gently turning the steering wheel if the vehicle approaches a detected lane marking without using a turn signal in that direction. It may also provide a Lane Departure Warning (LDW) system alert as the lane marking is crossed. The LKA system will not assist or provide an LDW alert if it detects that you are actively steering. Override LKA by turning the steering wheel. LKA uses a
 
@@ -7410,7 +6836,6 @@ camera to detect lane markings between 60 km/h (37 mph) and 180 km/h (112 mph).
 (Continued)
 
 ### Warning (Continued)
-`chevrolet_cruze_en_17b81b32` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Detect lanes on winding or hilly roads.
 
@@ -7419,12 +6844,10 @@ If LKA only detects lane markings on one side of the road, it will only assist o
 ![](images/ca94a6390a7ff1fa6f9e678973be0c55117564c9afc20973ae4c0c94d124702d.jpg)
 
 ### Take Steering
-`chevrolet_cruze_en_8497b07e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The LKA system does not continuously steer the vehicle. If LKA does not detect active driver steering, an alert, chime, or DIC message may be provided. Move the steering wheel to dismiss.
 
 ### When the System Does Not Seem to Work Properly
-`chevrolet_cruze_en_d7e4ee9a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The system performance may be affected by:
 
@@ -7437,7 +6860,6 @@ A system unavailable message may display if the camera is blocked. The LKA syste
 LKA assistance and/or LDW alerts may occur due to tar marks, shadows, cracks in the road, temporary or construction lane markings, or other road imperfections. This is normal system operation; the vehicle does not need service. Turn LKA off if these conditions continue.
 
 ### Fuel (Gasoline)
-`chevrolet_cruze_en_9a42a2c4` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 GM recommends the use of TOP TIER detergent gasoline to keep the engine cleaner and reduce engine deposits. See www.toptiergas.com for a list of TOP TIER detergent gasoline marketers and applicable countries.
 
@@ -7448,7 +6870,6 @@ Do not use any fuel labeled E85 or FlexFuel. Do not use gasoline with ethanol le
 Use regular unleaded gasoline meeting ASTM specification D4814 with a posted octane rating of 87 or higher. Do not use gasoline with a posted octane rating of less than 87, as this may cause engine knock and will lower fuel economy.
 
 ### Prohibited Fuels
-`chevrolet_cruze_en_24432c35` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/5dba720635e76a03cf1472240dd33f2400d9bda87196812610405d0110328d01.jpg)
 
@@ -7457,24 +6878,20 @@ Use regular unleaded gasoline meeting ASTM specification D4814 with a posted oct
 ![](images/fe00c85322a232ff44f5509025a337f49e4b10f335701f4255c25af0fe8ba4e5.jpg)
 
 ### California Fuel Requirements (Gasoline)
-`chevrolet_cruze_en_57fb9974` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the vehicle is certified to meet California Emissions Standards, it is designed to operate on fuels that meet California specifications. See the underhood emission control label. If this fuel is not available in states adopting California Emissions Standards, the vehicle will operate satisfactorily on fuels meeting federal specifications, but emission control system performance may be affected. The malfunction indicator lamp could turn on and the vehicle may not pass a smog-check test. See Malfunction Indicator Lamp (Check Engine Light) 0 130. If this occurs, return to your authorized dealer for diagnosis. If it is determined that the condition is caused by the type of fuel used, repairs may not be covered by the vehicle warranty.
 
 ### Fuels in Foreign Countries (Gasoline)
-`chevrolet_cruze_en_0671ebae` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The U.S., Canada, and Mexico post fuel octane ratings in anti-knock index (AKI). For fuel not to use in a foreign country, see “Prohibited Fuels” in Fuel (Gasoline) 0 244.
 
 ### Fuel Additives (Gasoline)
-`chevrolet_cruze_en_0afd9ab6` | cruze | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 To keep fuel systems clean, TOP TIER detergent gasoline is recommended. See Fuel (Gasoline) 0 244.
 
 If TOP TIER detergent gasoline is not available, one bottle of GM Fuel System Treatment Cleaner added to the fuel tank at every engine oil change, can help. GM Fuel System Treatment Cleaner is the only gasoline additive recommended by General Motors. It is available at your dealer.
 
 ### Fuel for Diesel Engines
-`chevrolet_cruze_en_23ef542f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The selection of a high quality fuel is important for maintaining optimum performance. Do not use diesel fuel with more than 15 ppm sulfur content. Do not use a diesel blend containing more than 20% biodiesel by volume. Both diesel and biodiesel blends must meet all the requirements as defined in the most current versions of the local fuel standards. See the recommended fuels under What Fuel to Use in the U.S. (Diesel) 0 246 and What Fuel to Use in Canada (Diesel) 0 248.
 
@@ -7490,7 +6907,6 @@ fuels are: Diesel fuel with the addition of gasoline. Diesel fuel mixed with eng
 Some conditions, such as dirty fuel, may decrease fuel filter life and a CHANGE FUEL FILTER message may come on in the Driver Information Center (DIC).
 
 ### What Fuel to Use in the U.S. (Diesel)
-`chevrolet_cruze_en_b396df4f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use of diesel fuel with ultra low sulfur content (15 ppm, maximum) is required. Look for service station fuel dispensers with this label in green:
 
@@ -7505,17 +6921,14 @@ The diesel fuel must meet ASTM International specification D 975, Grades No. 2-D
 ![](images/b96f6f0951afcc0df4f9512604f203deee8ca0a5f4579fa0c13907e510f962dc.jpg)
 
 ### Diesel Fuel Grades
-`chevrolet_cruze_en_25ce309e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 For best results use No. 2-D diesel fuel year-round because it is blended for seasonal temperature differences, both above and below freezing conditions. No. 1-D diesel also meeting ASTM International D975 fuel can be used in very cold temperatures (below -18 °C or 0 °F); however, it will reduce power and fuel economy. Avoid using No. 1-D diesel fuel in warm or hot climates. It can result in stalling, poor starting when the engine is hot, and damage to the fuel injection system.
 
 ### Premium Diesel Fuel
-`chevrolet_cruze_en_81248566` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Premium Diesel Fuel (FQP-1A) corresponds to the Engine Manufacturers Association (EMA) Recommended Guideline. It may provide less noise, better starting, and better vehicle performance, but is not required.
 
 ### Biodiesel Blends
-`chevrolet_cruze_en_1a261ca9` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Retail pumps dispensing blends containing up to 5% biodiesel (B5) are not required to be labeled with the concentration of biodiesel. Blends up to B5 must meet ASTM D975 (Grades No. 2-D or No. 1-D S15 Ultra Low Sulfur Diesel). When refueling with a biodiesel blend above B5, one of the following labels should appear on the dispenser:
 
@@ -7528,7 +6941,6 @@ Blends containing more than 5% and up to 20% biodiesel must meet ASTM specificat
 pump label. To reduce the risk of poor quality fuel, purchase biodiesel blends from a fuel supplier or fueling station that sells BQ-9000® certified biodiesel. See www.bq-9000.org for a list of certified marketers. For detailed information on the use of biodiesel, see Biodiesel 0 249.
 
 ### What Fuel to Use in Canada (Diesel)
-`chevrolet_cruze_en_4eeb9541` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use of diesel fuel with ultra low sulfur content (15 ppm, maximum) is required. Use diesel fuel that meets the CAN/CGSB-3.517 specification in Canada. Contact a fuel supplier with questions about fuel.
 
@@ -7537,29 +6949,24 @@ Use of diesel fuel with ultra low sulfur content (15 ppm, maximum) is required. 
 ![](images/afc7913ee280ae352bc9ce2d694f0d5aea2a28051a1d990cf3ac9df25236e576.jpg)
 
 ### Diesel Fuel Types
-`chevrolet_cruze_en_c7f07508` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 For best results use Ultra Low Sulfur Type B Diesel. This fuel is blended for seasonal changes. In extreme cold temperatures (below -18 °C or 0 °F) Ultra Low Sulfur Type A Diesel fuel can be used, but it may cause power and fuel economy losses. Avoid using Type A Diesel fuel in warm or hot climates. Doing so can result in stalling, poor starting when the engine is hot, and damage to the fuel injection system.
 
 ### Premium Diesel Fuel
-`chevrolet_cruze_en_c9562cf8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If available, premium diesel fuel (FQP-1A) corresponding to the Engine Manufacturers Association (EMA) Recommended Guideline could provide better starting and vehicle performance with less noise.
 
 ### Biodiesel Blends in Canada
-`chevrolet_cruze_en_57b957d5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Biodiesel blends that meet the CAN/ CGSB-3.522 specifications up to 20% (B20) can be used. Avoid the use of biodiesel blends above 20%, as they may damage the engine and fuel system. For detailed information on the use of biodiesel, see Biodiesel 0 249.
 
 ### Refueling
-`chevrolet_cruze_en_3728b780` | cruze | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 Diesel fuel can foam when filling the tank. This can cause the automatic pump nozzle to shut off, even if the tank is not full. If this happens, wait for the foaming to stop, and then fill the tank more slowly. See Filling the Tank 0 254.
 
 ![](images/61b11b8135e3325ac57ca4cf8aad4f063f8180869107e196bb967e5f3f3c4c57.jpg)
 
 ### Biodiesel
-`chevrolet_cruze_en_ded330fb` | cruze | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 Biodiesel is a renewable fuel produced from vegetable oils or animal fats that have been chemically modified to make it compatible with diesel fuel.
 
@@ -7578,7 +6985,6 @@ Fuels improperly blended for cold temperature operation may result in restricted
 If the vehicle experiences a fuel filter restriction, the on-board monitoring system will alert the driver that the fuel filter requires service. The fuel filter, however, will not prevent all damage caused by poor quality biodiesel.
 
 ### Cold Weather Operation (Diesel)
-`chevrolet_cruze_en_85ba9e7e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 In cold weather, the fuel filter may become clogged by wax naturally present in the fuel. To unclog it, move the vehicle to a warm garage area and allow the filter to warm up. The fuel filter may need to be replaced. See Fuel Filter Replacement (Diesel) 0 254.
 
@@ -7589,7 +6995,6 @@ See Ignition Positions (Key Access) 0 206 or Ignition Positions (Keyless Access)
 For additional information for better cold weather operation, see Engine Heater 0 213.
 
 ### Water in Fuel (Diesel)
-`chevrolet_cruze_en_2b377d46` | cruze | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 Improper fuel tank inspection or cleaning, or contaminated fuel from suppliers, can cause water to be pumped into the fuel tank along with the diesel fuel. If a WATER IN FUEL
 
@@ -7600,7 +7005,6 @@ CONTACT SERVICE message displays, the water must be drained immediately.
 As an added precaution, drain the diesel fuel filter of residual water at every engine oil change. If the WATER IN FUEL - CONTACT SERVICE message comes on frequently, even after draining water from the fuel filter, see your dealer.
 
 ### Water in Fuel Troubleshooting
-`chevrolet_cruze_en_bfa618f5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the WATER IN FUEL - CONTACT SERVICE message comes on:
 ![](images/c3df1c0f8e381b2a0950da027b6162ff594854b8d1f9ebee3cf34e8d1b55b0e1.jpg)
@@ -7612,7 +7016,6 @@ If the WATER IN FUEL - CONTACT SERVICE message comes on:
 ![](images/d24d30877d61c5607f0fe0163a37e0b6cec8b45cf1654770de2c80052a5f50d2.jpg)
 
 ### Removing Water from the Fuel Filter
-`chevrolet_cruze_en_8b3a6cec` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To drain water:
 
@@ -7627,7 +7030,6 @@ To drain water:
 ![](images/18ca269810b804aeb793cdf107bcff099f35e1fbe0aab44521f8ba59b219bf3d.jpg)
 
 ### Fuel Priming
-`chevrolet_cruze_en_427e0d0a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 For the fuel system to work properly, air cannot be in the fuel lines. If air gets in, the engine may not start and the fuel lines will need to be primed before operating the vehicle.
 
@@ -7647,14 +7049,12 @@ To prime the fuel system:
 4. After a few attempts, if the engine still does not start, see your dealer.
 
 ### Running Out of Fuel (Diesel)
-`chevrolet_cruze_en_9f6b89b6` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/4661915276c1e88113843b9411a2a3dd447028e0c167210307cc587eff214c62.jpg)
 
 If the engine has stalled due to running out of fuel, add at least 7.6 L (2 gal) of fuel if parked on a level surface, or up to 18.9 L (5 gal) of fuel if parked on a slope, and perform the procedure under “Fuel Priming” previously in this section.
 
 ### Fuel Filter Replacement (Diesel)
-`chevrolet_cruze_en_9078f469` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/2b2154bde191d004241022abb1a77a6683ccbcb502837b28fd3b7f6d55802e60.jpg)
 
@@ -7673,7 +7073,6 @@ The fuel filter is under the vehicle on the driver side in front of the left rea
 8. Start the engine and let it idle for five minutes. Check the fuel filter and air bleed valve for leaks.
 
 ### Warning (Continued)
-`chevrolet_cruze_en_5c6b3692` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Do not re-enter the vehicle while pumping fuel. Keep children away from the fuel pump and never let children pump fuel. Fuel can spray out if the fuel cap is opened too quickly. This spray can happen if the tank is nearly full, and is more likely in hot weather. Open the fuel cap slowly and wait for any hiss noise to stop, then unscrew the cap all the way.
 
@@ -7686,7 +7085,6 @@ Turn the fuel cap counterclockwise to remove. Reinstall the cap by turning it cl
 On vehicles with gasoline engines, if the cap is not properly installed, the malfunction indicator lamp will come on. See Malfunction Indicator Lamp (Check Engine Light) 0 130.
 
 ### { Warning
-`chevrolet_cruze_en_e3014372` | cruze | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 Overfilling the fuel tank by more than three clicks of a standard fill nozzle may cause:
 
@@ -7699,7 +7097,6 @@ Be careful not to spill fuel. Wait a few seconds after you have finished pumping
 ![](images/ef875e72f95d288fac4a87240a4f2737ead6b2848d45dc21e14321eed517f927.jpg)
 
 ### Diesel Exhaust Fluid (DEF)
-`chevrolet_cruze_en_fdfdff6a` | cruze | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 ![](images/24a7a9a4813743d1d64802e5aed1127bea72d012db2ebc2f1d592b39e2c66d88.jpg)
 
@@ -7708,7 +7105,6 @@ DEF is a non-toxic solution that is sprayed into the exhaust stream of diesel ve
 DEF is not a fuel additive and never comes into contact with diesel fuel. It is stored in a separate tank. The fill port is behind the fuel door next to the regular fuel cap. It has a blue filler cap. See Diesel Exhaust Fluid 0 219.
 
 ### Warning (Continued)
-`chevrolet_cruze_en_328205b5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use approved fuel
 containers.
@@ -7725,7 +7121,6 @@ while pumping fuel.
 Avoid using cell phones or other electronic devices.
 
 ### Conversions and Add-Ons
-`chevrolet_cruze_en_badec37d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Add-On Electrical Equipment
 
@@ -7736,7 +7131,6 @@ Add-On Electrical Equipment
 Add-on equipment can drain the vehicle's 12-volt battery, even if the vehicle is not operating. The vehicle has an airbag system. Before attempting to add anything electrical to the vehicle, see Servicing the Airbag-Equipped Vehicle 0 85 and Adding Equipment to the Airbag-Equipped Vehicle 0 86.
 
 ### General Information
-`chevrolet_cruze_en_12a29b28` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 General Information 259
 California Proposition 65 Warning 259
@@ -7744,7 +7138,6 @@ California Perchlorate Materials Requirements 260
 Accessories and Modifications 260
 
 ### Vehicle Checks
-`chevrolet_cruze_en_e193deb9` | cruze | pdf_manual | tier:2 | lang:en | layer:transmission | p:1 | doc_type:owners_manual
 
 Doing Your Own
 Service Work 260
@@ -7770,19 +7163,16 @@ Fuel Filter 280 Starter Switch Check 280 Automatic Transmission Shift Lock Contr
 Headlamp Aiming Headlamp Aiming 284
 
 ### Bulb Replacement
-`chevrolet_cruze_en_144a0a18` | cruze | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 Bulb Replacement 284 Halogen Bulbs 284 High Intensity Discharge (HID) Lighting 285 Headlamps and Front Turn Signal 285 Taillamps and Back-Up Lamps 286 License Plate Lamp (Liftgate Models) 289
 
 ### Electrical System
-`chevrolet_cruze_en_0402fc5d` | cruze | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 Electrical System Overload 290 Fuses and Circuit Breakers 290 Engine Compartment Fuse Block 291
 
 Instrument Panel Fuse Block 295
 
 ### Wheels and Tires
-`chevrolet_cruze_en_932dd0f3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Tires 298
 All-Season Tires 298
@@ -7812,7 +7202,6 @@ Jump Starting North America 333
 Towing the Vehicle Towing the Vehicle 336 Recreational Vehicle Towing 336
 
 ### General Information
-`chevrolet_cruze_en_ba82bb8a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 For service and parts needs, visit your dealer. You will receive genuine GM parts and GM-trained and supported service people.
 
@@ -7823,19 +7212,16 @@ Genuine GM Parts
 GM Accessories
 
 ### California Proposition 65 Warning
-`chevrolet_cruze_en_aff1bc4a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/3fdc92b126bbcfb0de16c0f63c95c4e54510a40e3c4f57dc7bb0105f422c7339.jpg)
 
 See Battery - North America 0 279 and Jump Starting North America 0 333 and the back cover.
 
 ### California Perchlorate Materials Requirements
-`chevrolet_cruze_en_4933a705` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Certain types of automotive applications, such as airbag initiators, seat belt pretensioners, and lithium batteries contained in Remote Keyless Entry transmitters, may contain perchlorate materials. Special handling may be necessary. For additional information, see www.dtsc.ca.gov/hazardouswaste/ perchlorate.
 
 ### Accessories and Modifications
-`chevrolet_cruze_en_b06d0a93` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Adding non-dealer accessories or making modifications to the vehicle can affect vehicle performance and safety, including such things as airbags, braking, stability, ride and handling, emissions systems, aerodynamics, durability, and electronic systems like antilock brakes, traction control, and stability control. These accessories or modifications could even cause malfunction or damage not covered by the vehicle warranty.
 
@@ -7848,7 +7234,6 @@ GM Accessories are designed to complement and function with other systems on the
 Also, see Adding Equipment to the Airbag-Equipped Vehicle 0 86.
 
 ### Doing Your Own Service Work
-`chevrolet_cruze_en_3cd6cf99` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/86b6645ce293c7385266dacf08bc7997f92a6416645486b092ead41e8d335bb4.jpg)
 
@@ -7861,7 +7246,6 @@ Keep a record with all parts receipts and list the mileage and the date of any s
 ![](images/fc6c56d0bd7a0bbce0393ea4802f27c33f587729d838cc1b1ca2ccee07cabc24.jpg)
 
 ### Hood
-`chevrolet_cruze_en_825162a7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To open the hood:
 
@@ -7882,7 +7266,6 @@ To close the hood:
 4. Check to make sure the hood is closed. If not, release the hood from inside and repeat Steps 1–3.
 
 ### Engine Compartment Overview
-`chevrolet_cruze_en_0c66f398` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/1fd9e08465e4579c3f797556253d74109e4a0f174af759b0b83baa2cd4bcf1aa.jpg)
 1.4L L4 Engine (LE2)
@@ -7908,7 +7291,6 @@ To close the hood:
 1.6L L4 Diesel Engine (LH7)
 
 ### Engine Oil
-`chevrolet_cruze_en_ea260076` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To ensure proper engine performance and long life, careful attention must be paid to engine oil.
 
@@ -7925,7 +7307,6 @@ Always dispose of engine oil
 properly. See “What to Do with Used Oil” in this section.
 
 ### Checking Engine Oil
-`chevrolet_cruze_en_ee1f906a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Check the engine oil level regularly, every 650 km (400 mi), especially prior to a long trip. The engine oil dipstick handle is a loop. See Engine Compartment Overview 0 262 for the location.
 
@@ -7938,7 +7319,6 @@ Follow these guidelines:
 To get an accurate reading, park the vehicle on level ground. Check the engine oil level after the engine has been off for at least two hours. Checking the engine oil level on steep grades or too soon after engine shutoff can result in incorrect readings. Accuracy improves when checking a cold engine prior to starting. Remove the dipstick and check the level. If unable to wait two hours, the engine must be off for at least 15 minutes if the engine is warm, or at least 30 minutes if the engine is not warm. Pull out the dipstick, wipe it with a clean paper towel or cloth, then push it back in all the way. Remove it again, keeping the tip down, and check the level.
 
 ### Diesel
-`chevrolet_cruze_en_54361549` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the oil is below the cross-hatched area at the tip of the dipstick and the engine has been off for at least 15 minutes, add 1 L (1 qt) of the recommended oil and then recheck the level. See “Selecting the Right Engine Oil” later in this section for an explanation of what kind of oil to use. For engine oil crankcase capacity, see Capacities and Specifications 0 364.
 
@@ -7949,12 +7329,10 @@ See Engine Compartment Overview 0 262 for the location of the engine oil fill ca
 Add enough oil to put the level somewhere in the proper operating range. Push the dipstick all the way back in when through.
 
 ### Selecting the Right Engine Oil (Gasoline Engines)
-`chevrolet_cruze_en_d57cd15f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Selecting the right engine oil depends on both the proper oil specification and viscosity grade. See Recommended Fluids and Lubricants 0 359.
 
 ### Specification
-`chevrolet_cruze_en_96699bd7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Ask for and use full synthetic engine oils that meet the dexos1 specification.
 
@@ -7965,7 +7343,6 @@ dexos
 ![](images/824ed4d4dba0b6140a05d8d11380f0add32345d083ac6d0aa6c963aafce3a2fa.jpg)
 
 ### Viscosity Grade
-`chevrolet_cruze_en_cfa73180` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use one of the following engine oils:
 
@@ -7974,7 +7351,6 @@ Dexos1 approved ACDelco Full Synthetic 0W20 engine oil. Dexos1 approved Mobil 1 
 When selecting an oil of the appropriate viscosity grade, it is recommended to select an oil of the correct specification. See “Specification” earlier in this section.
 
 ### Specification
-`chevrolet_cruze_en_774edff7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Ask for and use engine oils that meet the dexos2 specification. Engine oils that have been approved by GM as meeting the dexos2 specification are marked with the dexos2 approved logo. See www.gmdexos.com.
 
@@ -7985,21 +7361,18 @@ Ask for and use engine oils that meet the dexos2 specification. Engine oils that
 ![](images/6c1313cda8b91e694dbcc097472bc3075c6cbd741b5af7f5944864005a3697f3.jpg)
 
 ### Viscosity Grade
-`chevrolet_cruze_en_f382b2c4` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use SAE 5W-30 viscosity grade engine oil.
 
 Cold Temperature Operation: In an area of extreme cold, where the temperature falls below −29 °C (−20 °F), an SAE 0W-40 oil may be used. An oil of this viscosity grade will provide easier cold starting for the engine at extremely low temperatures. When selecting an oil of the appropriate viscosity grade, it is recommended to select an oil of the correct specification. See “Specification” earlier in this section. See “Specification” earlier in this section.
 
 ### Engine Oil Additives/Engine Oil Flushes
-`chevrolet_cruze_en_9cf7dee1` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not add anything to the oil. The recommended oils meeting the dexos specification are all that is needed for good performance and engine protection.
 
 Engine oil system flushes are not recommended and could cause engine damage not covered by the vehicle warranty.
 
 ### What to Do with Used Oil
-`chevrolet_cruze_en_0db1a692` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Used engine oil contains certain elements that can be unhealthy for your skin and could even cause cancer. Do not let used oil stay on your skin for very long. Clean your skin and nails with soap and water, or a good hand cleaner. Wash or properly dispose of clothing or rags containing used engine oil. See the manufacturer's warnings about the use and disposal of oil products.
 
@@ -8010,7 +7383,6 @@ Used oil can be a threat to the environment. If you change your own oil, be sure
 trash or pouring it on the ground, into sewers, or into streams or bodies of water. Recycle it by taking it to a place that collects used oil.
 
 ### When to Change Engine Oil
-`chevrolet_cruze_en_f434fff5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle has a computer system that indicates when to change the engine oil and filter. This is based on a combination of factors which include engine revolutions, engine temperature, and miles driven. Based on driving conditions, the mileage at which an oil change is indicated can vary considerably. For the oil life system to work properly, the system must be reset every time the oil is changed.
 
@@ -8021,18 +7393,15 @@ change is not necessary for up to a year. The engine oil and filter must be chan
 If the system is ever reset accidentally, the oil must be changed at 5 000 km (3,000 mi) since the last oil change. Remember to reset the oil life system whenever the oil is changed.
 
 ### How to Reset the Engine Oil Life System
-`chevrolet_cruze_en_62246739` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Reset the system whenever the engine oil is changed so that the system can calculate the next engine oil change. To reset the system:
 
 ### Resetting the Oil Life System (Base Level Cluster)
-`chevrolet_cruze_en_c9e25930` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Display the REMAINING OIL LIFE on the DIC. See Driver Information Center (DIC) (Base) 0 138 or Driver Information Center (DIC) (Uplevel) 0 141.
 2. Press and hold SET/CLR on the turn signal lever while the Oil Life display is active. The oil life will change to 100%.
 
 ### Resetting the Oil Life System (Uplevel Cluster)
-`chevrolet_cruze_en_8ede6afe` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Display the REMAINING OIL LIFE on the DIC. See Driver Information Center (DIC) (Base) 0 138 or Driver Information Center (DIC) (Uplevel) 0 141.
 2. Press and hold V on the DIC while the Oil Life display is active. The oil life will change to 100%.
@@ -8048,7 +7417,6 @@ The system is reset when the CHANGE ENGINE OIL SOON message goes off.
 If the CHANGE ENGINE OIL SOON message comes back on when the vehicle is started, the engine oil life system has not been reset. Repeat the procedure.
 
 ### Automatic Transmission Fluid
-`chevrolet_cruze_en_2a1e0469` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 How to Check Automatic Transmission Fluid
 
@@ -8059,43 +7427,36 @@ The vehicle is not equipped with a transmission fluid level dipstick. There is a
 Change the fluid at the intervals listed in Maintenance Schedule 0 350, and be sure to use the fluid listed in Recommended Fluids and Lubricants 0 359.
 
 ### Manual Transmission Fluid
-`chevrolet_cruze_en_dd5d0a8e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 How to Check Manual Transmission Fluid
 
 It is not necessary to check the manual transmission fluid level. A transmission fluid leak is the only reason for fluid loss. If a leak occurs, take the vehicle to your dealer and have it repaired as soon as possible. See Recommended Fluids and Lubricants 0 359 for the proper fluid to use.
 
 ### Hydraulic Clutch
-`chevrolet_cruze_en_da24384a` | cruze | pdf_manual | tier:2 | lang:en | layer:transmission | p:1 | doc_type:owners_manual
 
 For vehicles with a manual transmission, it is not necessary to regularly check brake/clutch fluid unless there is a leak suspected. Adding fluid will not correct a leak. A fluid loss in this system could indicate a problem. Have the system inspected and repaired.
 
 ### When to Check and What to Use
-`chevrolet_cruze_en_39c42c53` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/40bfa2500970ec030a9f41ce607bf36530b42ad8065a5f3987c3a27aabe13c67.jpg)
 
 The hydraulic brake/clutch fluid reservoir cap has either a symbol or text specifying the type of brake fluid. The common brake/clutch fluid reservoir is filled with GM approved DOT 3 brake fluid as indicated on the reservoir cap. See Engine Compartment Overview 0 262 for reservoir location.
 
 ### How to Check and Add Fluid
-`chevrolet_cruze_en_9beb11d7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Visually check the brake/clutch fluid reservoir to make sure the fluid level is between the MIN (minimum) and MAX (maximum) lines on the side of the reservoir. The hydraulic brake/ clutch fluid system should be closed and sealed.
 
 Do not remove the cap to check the fluid level or to top off the fluid level. Remove the cap only when necessary to add the proper fluid until the level reaches between the MIN and MAX lines.
 
 ### Engine Air Cleaner/Filter
-`chevrolet_cruze_en_26ba02e5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The engine air cleaner/filter is in the engine compartment on the passenger side of the vehicle. See Engine Compartment Overview 0 262.
 
 ### When to Inspect the Engine Air Cleaner/Filter
-`chevrolet_cruze_en_0065c8c2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 For intervals on changing and inspecting the engine air cleaner/ filter, see Maintenance Schedule 0 350.
 
 ### How to Inspect the Engine Air Cleaner/Filter
-`chevrolet_cruze_en_55a3ba00` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not start the engine or have the engine running with the engine air cleaner/filter housing open. Before removing the engine air cleaner/ filter, make sure that the engine air cleaner/filter housing and nearby components are free of dirt and debris. Remove the engine air cleaner/filter. Lightly tap and shake the engine air cleaner/filter (away from the vehicle), to release loose dust and dirt. Inspect the engine air cleaner/filter for damage, and replace if damaged. Do not clean the engine air cleaner/filter or components with water or compressed air.
 
@@ -8104,7 +7465,6 @@ To inspect or replace the engine air cleaner/filter:
 ![](images/1eb705cccaa2e4280610d21f384aa505071bd4c21fc0e27a48317f8370d45f60.jpg)
 
 ### 1.4L L4 Engine (LE2) Shown, 1.6L L4 Diesel Engine (LH7) Similar
-`chevrolet_cruze_en_0a7e80c2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Screws
 2. Air Inlet Duct
@@ -8128,14 +7488,12 @@ To inspect or replace the engine air cleaner/filter:
 ![](images/126291e120b70b3a5928a0f3ea5e3acf95bc137bddb7ad22bdf0778cabf56985.jpg)
 
 ### Cooling System
-`chevrolet_cruze_en_77e24de5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The cooling system allows the engine to maintain the correct working temperature.
 
 ![](images/9e31bd9c6cd44682eca98577aee19abf6169c1132d5d98bea0dff32ab85fedd5.jpg)
 
 ### 1.6L L4 Diesel Engine (LH7)
-`chevrolet_cruze_en_3ba2d068` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Engine Cooling Fan (Out of View)
 
@@ -8146,14 +7504,12 @@ The cooling system allows the engine to maintain the correct working temperature
 ![](images/507b1b356f6b2ec1c12c0f8be5ec3dd06fe6cb2ebd8af26edabf1cd4d35e41ae.jpg)
 
 ### Engine Coolant
-`chevrolet_cruze_en_c8b4859e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The cooling system in the vehicle is filled with DEX-COOL engine coolant. This coolant is designed to remain in the vehicle for 5 years or 240 000 km (150,000 mi), whichever occurs first.
 
 The following explains the cooling system and how to check and add coolant when it is low. If there is a problem with engine overheating, see Engine Overheating 0 275.
 
 ### What to Use
-`chevrolet_cruze_en_4cb611b1` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/585fa65c529cec2cb534f5ee6c096cff2cc784e64035a7a27ddd0f6f3d4a1dca.jpg)
 
@@ -8174,7 +7530,6 @@ Will not damage aluminum parts Helps keep the proper engine temperature.
 Never dispose of engine coolant by putting it in the trash, pouring it on the ground, or into sewers, streams, or bodies of water. Have the coolant changed by an authorized service center, familiar with legal requirements regarding used coolant disposal. This will help protect the environment and your health.
 
 ### Checking Coolant
-`chevrolet_cruze_en_db5de7bd` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The vehicle must be on a level surface when checking the coolant level.
 
@@ -8208,7 +7563,6 @@ Turn the pressure cap slowly counterclockwise about one-quarter of a turn. If yo
 ![](images/a81de97fa7d16f6981e7d597492c50fd9a7f116304cfd9a5cdfead70bb836415.jpg)
 
 ### 1.4L L4 Engine (LE2) Shown, 1.6L L4 Diesel Engine (LH7) Similar
-`chevrolet_cruze_en_48c33d6f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 3. Fill the coolant surge tank with the proper mixture to the indicated level mark.
 
@@ -8225,7 +7579,6 @@ If the coolant still is not at the proper level when the system cools down again
 ![](images/ea4d5ea79e82f46c7060840149d151b9205bf906f7818a0c4669b3acf23179b9.jpg)
 
 ### Engine Overheating
-`chevrolet_cruze_en_a8c3ce9d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The vehicle has an engine coolant temperature gauge on the instrument cluster to warn of engine overheating. See Engine Coolant Temperature Gauge 0 127.
 
@@ -8240,7 +7593,6 @@ Then check to see if the engine cooling fan is running. If the engine is overhea
 ![](images/d78e1a27ebdc280f14c0326dc885950c19618bf46ff2c1f881d256289267cb90.jpg)
 
 ### If No Steam Is Coming from the Engine Compartment
-`chevrolet_cruze_en_005e5bfb` | cruze | pdf_manual | tier:2 | lang:en | layer:hvac | p:1 | doc_type:owners_manual
 
 If an engine overheat warning is displayed but no steam can be seen or heard, the problem may not be
 
@@ -8263,12 +7615,10 @@ If the warning continues, pull over, stop, and park the vehicle right away.
 If there is no sign of steam, idle the engine for three minutes while parked. If the warning is still displayed, turn off the engine until it cools down.
 
 ### What to Use
-`chevrolet_cruze_en_cc7fe938` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When windshield washer fluid is needed, be sure to read the manufacturer's instructions before use. If operating the vehicle in an area where the temperature may fall below freezing, use a fluid that has sufficient protection against freezing.
 
 ### Adding Washer Fluid
-`chevrolet_cruze_en_194b9aba` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/785c03b3e382f2c6f78eb566c5fb81eea0d59caca7159053f164e271368c8360.jpg)
 
@@ -8281,7 +7631,6 @@ Open the cap with the washer symbol on it. Add washer fluid until the tank is fu
 ![](images/f6a50f2fac303e73c72c24ace40923bf5385d8505488310e7a997e19c7736c22.jpg)
 
 ### Brakes
-`chevrolet_cruze_en_53eb56fb` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Disc brake pads have built-in wear indicators that make a high-pitched warning sound when the brake pads are worn and new pads are needed. The sound can come and go or be heard all the time the vehicle is moving, except when applying the brake pedal firmly.
 
@@ -8298,24 +7647,20 @@ If the vehicle has rear drum brakes, they do not have wear indicators, but if a 
 Brake linings should always be replaced as complete axle sets.
 
 ### Brake Pedal Travel
-`chevrolet_cruze_en_d2638fcb` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 See your dealer if the brake pedal does not return to normal height, or if there is a rapid increase in pedal travel. This could be a sign that brake service may be required.
 
 ### Replacing Brake System Parts
-`chevrolet_cruze_en_6bc75ff0` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Always replace brake system parts with new, approved replacement parts. If this is not done, the brakes may not work properly. The braking performance expected can change in many other ways if the wrong replacement brake parts are installed or parts are improperly installed.
 
 ### Brake Fluid
-`chevrolet_cruze_en_4e61af40` | cruze | pdf_manual | tier:2 | lang:en | layer:engine | p:1 | doc_type:owners_manual
 
 ![](images/a9296c53527e4a88ab2a389254aec3063acf3302448afee02acf61468eca61b4.jpg)
 
 The brake/clutch master cylinder reservoir is filled with GM approved DOT 3 brake fluid as indicated on the reservoir cap. See Engine Compartment Overview 0 262 for the location of the reservoir.
 
 ### Checking Brake Fluid
-`chevrolet_cruze_en_ef946c1a` | cruze | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 Place the vehicle in P (Park) or Neutral with the parking brake applied if equipped with a manual transmission. On a level surface, the brake fluid level should be
 
@@ -8336,7 +7681,6 @@ When the brake/clutch fluid falls to a low level, the brake warning light comes 
 Brake fluid absorbs water over time which degrades the effectiveness of the brake fluid. Replace brake fluid at the specified intervals to prevent increased stopping distance. See Maintenance Schedule 0 350.
 
 ### What to Add
-`chevrolet_cruze_en_e37f6d83` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use only GM approved DOT 3 brake fluid from a clean, sealed container. See Recommended Fluids and Lubricants 0 359.
 
@@ -8345,7 +7689,6 @@ Use only GM approved DOT 3 brake fluid from a clean, sealed container. See Recom
 ![](images/0f9212af8dfffeaac4cc46b5abc2d5c8d3d07517655eb31453787216e21ce41d.jpg)
 
 ### Battery North America
-`chevrolet_cruze_en_2b0dceea` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The original equipment battery is maintenance free. Do not remove the cap and do not add fluid.
 
@@ -8366,14 +7709,12 @@ Infrequent Usage: Remove the black, negative (−) cable from the battery to kee
 Extended Storage: Remove the black, negative (−) cable from the battery or use a battery trickle charger.
 
 ### Fuel Filter
-`chevrolet_cruze_en_a4ce1ba2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/f139dab24fa9cc148e9a8baaef8c379e5c91636d3fefacdce15024ffc4b94a13.jpg)
 
 The fuel filter is under the vehicle on the driver side in front of the left rear tire. For replacement of the filter, see Fuel Filter Replacement (Diesel) 0 254. Also see Maintenance Schedule 0 350 for recommended draining and replacement intervals.
 
 ### Starter Switch Check
-`chevrolet_cruze_en_33f44875` | cruze | pdf_manual | tier:2 | lang:en | layer:transmission | p:1 | doc_type:owners_manual
 
 ![](images/583ce0200122cb65c382da2919e9dd0c449d615fee92ceeae0d57b5015c1bf1e.jpg)
 
@@ -8384,7 +7725,6 @@ The fuel filter is under the vehicle on the driver side in front of the left rea
 For manual transmission vehicles, put the shift lever in Neutral, push the clutch pedal down halfway, and try to start the engine. The vehicle should start only when the clutch pedal is pushed down all the way to the floor. If the vehicle starts when the clutch pedal is not pushed all the way down, contact your dealer for service.
 
 ### Automatic Transmission Shift Lock Control Function Check
-`chevrolet_cruze_en_370b24c1` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/8012d9eda81542ca8939bf86d3121e62f8c578688374ca8d7e89ce52d2d00edc.jpg)
 
@@ -8395,7 +7735,6 @@ For manual transmission vehicles, put the shift lever in Neutral, push the clutc
 3. With the engine off, turn the ignition on, but do not start the engine. Without applying the regular brake, try to move the shift lever out of P (Park) with normal effort. If the shift lever moves out of P (Park), contact your dealer for service.
 
 ### Ignition Transmission Lock Check
-`chevrolet_cruze_en_89ec8c24` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped with a Key Access ignition, while parked and with the parking brake set, try to turn the ignition off in each shift lever position.
 
@@ -8404,7 +7743,6 @@ The ignition should turn off only when the shift lever is in P (Park). The key s
 Contact your dealer if service is required.
 
 ### Park Brake and P (Park) Mechanism Check
-`chevrolet_cruze_en_26ea242b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/6c1c4895421047e2f5f7b59402b9b46faed3bf02d5d4bc1f922a06842fadaa74.jpg)
 
@@ -8417,7 +7755,6 @@ To check the P (Park) mechanism's holding ability: With the engine running, shif
 Contact your dealer if service is required.
 
 ### Wiper Blade Replacement
-`chevrolet_cruze_en_347678b2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Windshield wiper blades should be inspected for wear and cracking. See the Maintenance Schedule 0 350.
 
@@ -8428,7 +7765,6 @@ Replacement blades come in different types and are removed in different ways. Fo
 ![](images/ac2f854ad141b490bf5f57236ed3782a93e9dced2dc4a3c9e789ded7acbfeb04.jpg)
 
 ### Front Wiper Blade Replacement
-`chevrolet_cruze_en_64250f1e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To replace the windshield wiper blade:
 
@@ -8441,7 +7777,6 @@ To replace the windshield wiper blade:
 4. Reverse Steps 1–3 for wiper blade replacement.
 
 ### Rear Wiper Blade Replacement (Liftgate Models)
-`chevrolet_cruze_en_b14f7f71` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/92366a444b0f8b231d20946060264725c4a8ce6652214654ddbf31a9583df009.jpg)
 
@@ -8451,7 +7786,6 @@ To replace the windshield wiper blade:
 4. Reverse Steps 1–3 to install the new blade.
 
 ### Gas Strut(s)
-`chevrolet_cruze_en_ae3e0f93` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle is equipped with gas strut(s) to provide assistance in lifting and holding open the hood/ trunk/liftgate system in full open position.
 
@@ -8470,7 +7804,6 @@ Trunk
 Liftgate
 
 ### Headlamp Aiming Bulb Replacement
-`chevrolet_cruze_en_04bbaffe` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Headlamp aim has been preset and should need no further adjustment.
 
@@ -8479,14 +7812,12 @@ If the vehicle is damaged in a crash, the headlamp aim may be affected. If adjus
 For the proper type of replacement bulbs, or any bulb changing procedure not listed in this section, contact your dealer.
 
 ### High Intensity Discharge (HID) Lighting
-`chevrolet_cruze_en_13c97084` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/d88b7f33fbc500e873b8dc4bda01e8bb58918574608fcc0347bdd2105af25f56.jpg)
 
 After an HID headlamp bulb has been replaced, the beam might be a slightly different shade than it was originally. This is normal.
 
 ### Base Level Assembly
-`chevrolet_cruze_en_e8de20f6` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Turn Signal Lamp
 2. High-Beam Headlamp
@@ -8495,7 +7826,6 @@ After an HID headlamp bulb has been replaced, the beam might be a slightly diffe
 ![](images/e4a5da483a4c3f2a4b9991f51e2c3ee0a0fc02e01a2d216f9e1bf9f49a8f71ac.jpg)
 
 ### High-Beam Headlamp/ Low-Beam Headlamp
-`chevrolet_cruze_en_59b908d7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Open the hood. See Hood 0 261.
 2. For the driver side bulb, remove the windshield washer bottle filler neck by unclipping it from the tie bar and firmly pulling it straight up and out of the bottle.
@@ -8509,7 +7839,6 @@ After an HID headlamp bulb has been replaced, the beam might be a slightly diffe
 11. For the passenger side, reattach the air cleaner.
 
 ### Turn Signal Lamp
-`chevrolet_cruze_en_59b908d7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Open the hood. See Hood 0 261.
 2. For the driver side bulb, remove the windshield washer bottle filler neck by unclipping it from the tie bar and firmly pulling it straight up and out of the bottle.
@@ -8520,7 +7849,6 @@ After an HID headlamp bulb has been replaced, the beam might be a slightly diffe
 7. For the driver side, reinstall the windshield washer bottle filler neck by firmly pushing it straight into the bottle and reattaching it to the tie bar.
 
 ### Taillamps and Back-Up Lamps
-`chevrolet_cruze_en_ce4cd66f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Decklid Back-Up Lamp and Taillamp
 
@@ -8536,7 +7864,6 @@ Decklid Back-Up Lamp and Taillamp
 7. Push the flocking back into place and secure with the retained pushpins.
 
 ### Liftgate Back-Up Lamp and Taillamp
-`chevrolet_cruze_en_44afe594` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/552613111b01e0b0f61730f9c60bb8b09a993cec6807dc8f4679d2a443237764.jpg)
 
@@ -8557,7 +7884,6 @@ The back-up lamp is not shown.
 10. Reinstall the service trim cover.
 
 ### Taillamp
-`chevrolet_cruze_en_74c4fbed` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/6d7bc887b48f2de3f0ccc9574e2610100650307d0ee0b89eada04df9b8fd0e01.jpg)
 
@@ -8577,7 +7903,6 @@ To replace this bulb:
 ![](images/8b36d67877926fa675516c122395b9b6754e422bb98a102ec977b03e63bed883.jpg)
 
 ### Taillamp (Liftgate Models)
-`chevrolet_cruze_en_b6c2bda2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/9a0ae8e705274cf3c7799a66fd57ad7df07b383cfd77c30fa1d66ed018900e6e.jpg)
 
@@ -8598,7 +7923,6 @@ To replace this bulb:
 8. Install the taillamp assembly and tighten the two screws. 9. Install the two screw covers.
 
 ### License Plate Lamp (Liftgate Models)
-`chevrolet_cruze_en_172ad4ef` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/a9d07dbfb35cd225a4dffc431fe8d92383861773286c65ed1b674f8b27729c1d.jpg)
 Lamp Assembly
@@ -8622,7 +7946,6 @@ To replace one of these bulbs:
 8. Push on the lamp side opposite the clip until the lamp assembly snaps into place.
 
 ### Electrical System Overload
-`chevrolet_cruze_en_ff73ab97` | cruze | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 The vehicle has fuses and circuit breakers to protect against an electrical system overload.
 
@@ -8635,12 +7958,10 @@ Replace a bad fuse with a new one of the identical size and rating.
 If there is a problem on the road and a fuse needs to be replaced, the same amperage fuse can be borrowed. Choose some feature of the vehicle that is not needed to use and replace it as soon as possible.
 
 ### Headlamp Wiring
-`chevrolet_cruze_en_cdd04d09` | cruze | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 An electrical overload may cause the lamps to go on and off, or in some cases to remain off. Have the headlamp wiring checked right away if the lamps go on and off or remain off.
 
 ### Windshield Wipers
-`chevrolet_cruze_en_a06bc550` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Heavy snow or ice can overload the wipers. If the wiper motor overheats, the windshield wipers will stop until the motor cools and the wiper control is turned off.
 
@@ -8649,7 +7970,6 @@ Although the circuit is protected from electrical overload, overload due to heav
 If the overload is caused by an electrical problem and not snow or ice, be sure to get it fixed.
 
 ### Fuses and Circuit Breakers
-`chevrolet_cruze_en_8264ce0e` | cruze | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 The wiring circuits in the vehicle are protected from short circuits by a combination of fuses and circuit breakers. This greatly reduces the chance of damage caused by electrical problems.
 
@@ -8660,7 +7980,6 @@ To check a fuse, look at the silver-colored band inside the fuse. If the band is
 Fuses of the same amperage can be temporarily borrowed from another fuse location, if a fuse goes out. Replace the fuse as soon as possible.
 
 ### Engine Compartment Fuse Block
-`chevrolet_cruze_en_a9398755` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/4c11e7bd854a1209e03a74d0d90210289629c14d0f5d3688f7464f83dfb2885e.jpg)
 
@@ -8675,14 +7994,12 @@ To remove the fuse block cover, squeeze the clips and swing it up.
 ![](images/075bd155f5727b9e890bc002cc11512cee1482a435495f44201e57d70baf9664.jpg)
 
 ### Fuses Usage
-`chevrolet_cruze_en_4de8fd69` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Transmission control module (vehicles with automatic transmission only)
 2 Fuel pump
 3 Engine control module Power supply
 
 ### Instrument Panel Fuse Block
-`chevrolet_cruze_en_0afa48cc` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/1548e2d86cc9115c7aa8a301756f23255935a521918037247bd291e63088af20.jpg)
 
@@ -8701,42 +8018,38 @@ To reinstall the cover, reverse the steps.
 ![](images/e5473ae37f0041f183b3e122abd8af15cf410b4ff9616ae7a74ece11f261c612.jpg)
 
 ### Tires
-`chevrolet_cruze_en_fa1b1bd5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Every new GM vehicle has high-quality tires made by a leading tire manufacturer. See the warranty manual for information regarding the tire warranty and where to get service. For additional information refer to the tire manufacturer.
 
-### Warning
-`chevrolet_cruze_en_cc46ad2d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Poorly maintained and
-improperly used tires are dangerous.
-Overloading the tires can cause overheating as a
-result of too much
-flexing. There could be a blowout and a serious
-crash. See Vehicle Load Limits 0 202.
-(Continued)
-
-#
-
-Warning (Continued)
-Underinflated tires pose the same danger as
-overloaded tires. The
-resulting crash could
-cause serious injury.
-Check all tires frequently to maintain the
-recommended pressure. Tire pressure should be checked when the tires are cold.
-Overinflated tires are
-more likely to be cut,
-punctured, or broken by a sudden impact — such as when hitting a pothole. Keep tires at the
-recommended pressure. Worn or old tires can
-cause a crash. If the
-tread is badly worn,
-replace them.
-
-(Continued)
+> ⚠️ **Внимание:** 
+> Poorly maintained and
+> improperly used tires are dangerous.
+> Overloading the tires can cause overheating as a
+> result of too much
+> flexing. There could be a blowout and a serious
+> crash. See Vehicle Load Limits 0 202.
+> (Continued)
+>
+> #
+>
+> Warning (Continued)
+> Underinflated tires pose the same danger as
+> overloaded tires. The
+> resulting crash could
+> cause serious injury.
+> Check all tires frequently to maintain the
+> recommended pressure. Tire pressure should be checked when the tires are cold.
+> Overinflated tires are
+> more likely to be cut,
+> punctured, or broken by a sudden impact — such as when hitting a pothole. Keep tires at the
+> recommended pressure. Worn or old tires can
+> cause a crash. If the
+> tread is badly worn,
+> replace them.
+>
+> (Continued)
 
 ### Warning (Continued)
-`chevrolet_cruze_en_d20cf470` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Replace any tires that have been damaged by impacts with potholes, curbs, etc.
 Improperly repaired tires can cause a crash. Only the dealer or an
@@ -8748,14 +8061,12 @@ Do not spin the tires in excess of 56 km/h
 surfaces such as snow, mud, ice, etc. Excessive spinning may cause the tires to explode.
 
 ### All-Season Tires
-`chevrolet_cruze_en_f47cb8a5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle may come with all-season tires. These tires are designed to provide good overall performance on most road surfaces and weather conditions. Original equipment tires designed to GM's specific tire performance criteria have a TPC specification code molded onto the sidewall. Original equipment all-season tires can be identified by the last two characters of this TPC code, which will be “MS.”
 
 Consider installing winter tires on the vehicle if frequent driving on snow or ice-covered roads is expected. All-season tires provide adequate performance for most winter driving conditions, but they may not offer the same level of traction or performance as winter tires on snow or ice-covered roads. See Winter Tires 0 299.
 
 ### Winter Tires
-`chevrolet_cruze_en_158efdfa` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle was not originally equipped with winter tires. Winter tires are designed for increased traction on snow and ice-covered roads. Consider installing winter tires on the vehicle if frequent driving on ice or snow covered roads is expected. See your dealer for details regarding winter tire availability and proper tire selection. Also, see Buying New Tires 0 313.
 
@@ -8772,21 +8083,18 @@ equipment tires.
 Winter tires with the same speed rating as the original equipment tires may not be available for H, V, W, Y, and ZR speed rated tires. If winter tires with a lower speed rating are chosen, never exceed the tire's maximum speed capability.
 
 ### Low-Profile Tires
-`chevrolet_cruze_en_cfe4aab8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the vehicle has 225/45R17 or P225/40R18 size tires, they are classified as low-profile tires.
 
 ![](images/c3f99fdb1c4ec0190c4eaca16b317f0341965311944180a97af5ac19cb18ad53.jpg)
 
 ### Tire Sidewall Labeling
-`chevrolet_cruze_en_76e319f8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Useful information about a tire is molded into its sidewall. The examples show a typical passenger vehicle tire and a compact spare tire sidewall.
 
 ![](images/00c36a4b023cec911e26063c70d85eb6a3b163cfaa81317cef2aab1ff991c223.jpg)
 
 ### Passenger (P-Metric) Tire Example
-`chevrolet_cruze_en_27da5bde` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 (1) Tire Size The tire size is a combination of letters and numbers used to define a particular tire's width, height, aspect ratio, construction type, and service description. See the “Tire Size” illustration later in this section.
 
@@ -8800,7 +8108,6 @@ guidelines.
 (3) DOT (Department of Transportation) The Department of Transportation (DOT) code indicates that the tire is in compliance with the U.S. Department of Transportation Motor Vehicle Safety Standards.
 
 ### DOT Tire Date of
-`chevrolet_cruze_en_b0876384` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Manufacture The last four digits of the TIN indicate the tire manufactured date. The first two digits represent the week (01– 52) and the last two digits, the year. For example, the third
 
@@ -8813,14 +8120,12 @@ week of the year 2010 would have a four-digit DOT date of 0310.
 (6) Uniform Tire Quality Grading (UTQG) Tire manufacturers are required to grade tires based on three performance factors: treadwear, traction, and temperature resistance. For more information see Uniform Tire Quality Grading 0 315.
 
 ### (7) Maximum Cold Inflation
-`chevrolet_cruze_en_46569aef` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Load Limit Maximum load that can be carried and the maximum pressure needed to support that load.
 
 ![](images/7340ceb19fa4f7016a9901b18ef87dc30d3c48eabf21e427236e61317f5a5689.jpg)
 
 ### Compact Spare Tire Example
-`chevrolet_cruze_en_c93e31b4` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 (1) Tire Ply Material The type of cord and number of plies in the sidewall and under the tread.
 
@@ -8844,7 +8149,6 @@ GM's specific tire performance criteria have a TPC specification code molded ont
 guidelines.
 
 ### Tire Size
-`chevrolet_cruze_en_193f7ffa` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The following is an example of a typical passenger vehicle tire size.
 
@@ -8868,7 +8172,6 @@ construction.
 (6) Service Description These characters represent the load index and speed rating of the tire. The load index represents the load carrying capacity a tire is certified to carry. The speed rating is the maximum speed a tire is certified to carry a load.
 
 ### Tire Terminology and Definitions
-`chevrolet_cruze_en_d5b33037` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Air Pressure The amount of air inside the tire pressing outward on each square inch of the tire. Air pressure is expressed in kPa (kilopascal) or psi (pounds per square inch).
 
@@ -8917,12 +8220,10 @@ Occupant Distribution Designated seating positions.
 Outward Facing Sidewall The side of an asymmetrical tire that has a particular side that faces outward when mounted on a vehicle. The side of the tire that contains a whitewall, bears white lettering, or bears manufacturer, brand, and/or model name molding that is higher or deeper than the same moldings on the other sidewall of the tire.
 
 ### Tire Terminology and Definitions
-`chevrolet_cruze_en_59381954` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Passenger (P-Metric) Tire A tire used on passenger cars and some light duty trucks and multipurpose vehicles.
 
 ### Recommended Inflation
-`chevrolet_cruze_en_31534375` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Pressure Vehicle manufacturer's recommended tire inflation pressure as shown on the tire placard.
 
@@ -8958,7 +8259,6 @@ Vehicle Maximum Load on the Tire Load on an individual tire due to curb weight, 
 Vehicle Placard : A label permanently attached to a vehicle showing the vehicle capacity weight and the original equipment tire size and recommended inflation pressure. See “Tire and Loading Information Label” under Vehicle Load Limits 0 202.
 
 ### Tire Pressure
-`chevrolet_cruze_en_e65a7a40` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Tires need the correct amount of air pressure to operate effectively.
 
@@ -8976,12 +8276,10 @@ The Tire and Loading Information label on the vehicle indicates the original equ
 How the vehicle is loaded affects vehicle handling and ride comfort. Never load the vehicle with more weight than it was designed to carry.
 
 ### When to Check
-`chevrolet_cruze_en_7c58638e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Check the tires once a month or more. Do not forget the compact spare, if the vehicle has one. The cold compact spare tire pressure should be at 420 kPa (60 psi). See Compact Spare Tire 0 332.
 
 ### How to Check
-`chevrolet_cruze_en_27a9a7f9` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use a good quality pocket-type gauge to check tire pressure. Proper tire inflation cannot be determined by looking at the tire. Check the tire inflation pressure when the tires are cold, meaning the vehicle has not been driven for at least three hours or no more than 1.6 km (1 mi).
 
@@ -9006,7 +8304,6 @@ pressure when high-speed driving has ended.
 See Vehicle Load Limits 0 202 and Tire Pressure 0 305.
 
 ### Tire Pressure Monitor System
-`chevrolet_cruze_en_f6e527e8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Tire Pressure Monitor System (TPMS) uses radio and sensor technology to check tire pressure levels. The TPMS sensors monitor the air pressure in your tires and transmit tire pressure readings to a receiver located in the vehicle.
 
@@ -9029,7 +8326,6 @@ See Tire Pressure Monitor Operation 0 308.
 See Radio Frequency Statement 0 377.
 
 ### Tire Pressure Monitor Operation
-`chevrolet_cruze_en_4c431d0a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle may have a Tire Pressure Monitor System (TPMS). The TPMS is designed to warn the driver when a low tire pressure condition exists. TPMS sensors are mounted onto each tire and wheel assembly, excluding the spare tire and wheel assembly. The TPMS sensors monitor the air pressure in the tires and transmit the tire pressure readings to a receiver located in the vehicle.
 
@@ -9051,7 +8347,6 @@ maintenance. See Tire Inspection 0 311, Tire Rotation 0 311 and Tires 0 298.
 Factory-installed Tire Inflator Kits use a GM-approved liquid tire sealant. Using non-approved tire sealants could damage the TPMS sensors. See Tire Sealant and Compressor Kit 0 319 for information regarding the inflator kit materials and instructions.
 
 ### TPMS Malfunction Light and Message
-`chevrolet_cruze_en_e4a60bea` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The TPMS will not function properly if one or more of the TPMS sensors are missing or inoperable. When the system detects a malfunction, the low tire pressure warning light flashes for about one minute and then stays on for the remainder of the ignition cycle. A DIC warning message also displays. The malfunction light and DIC warning message come on at each ignition cycle until the problem is corrected. Some of the conditions that can cause these to come on are:
 
@@ -9068,7 +8363,6 @@ Operating electronic devices or being near facilities using radio wave frequenci
 If the TPMS is not functioning properly it cannot detect or signal a low tire pressure condition. See your dealer for service f the TPMS malfunction light and DIC message comes on and stays on.
 
 ### TPMS Sensor Matching Process
-`chevrolet_cruze_en_44f39a00` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Each TPMS sensor has a unique identification code. The identification code needs to be matched to a new tire/wheel position after rotating the vehicle’s tires or replacing one or more of the TPMS sensors. The TPMS sensor matching process should also be performed after replacing a spare tire with a road tire containing the TPMS sensor. The malfunction light and the DIC message should go off at the next ignition cycle. The sensors are
 
@@ -9095,7 +8389,6 @@ The TPMS sensor matching process is:
 10. Proceed to the driver side rear tire, and repeat the procedure in Step 7. The horn sounds two times to indicate the sensor identification code has been matched to the driver side rear tire, and the TPMS sensor matching process is no longer active. The TIRE LEARNING ACTIVE message on the DIC display screen goes off.
 
 ### TPMS Sensor Matching Process
-`chevrolet_cruze_en_6b5cf84b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 11. Turn the vehicle off.
 
@@ -9116,7 +8409,6 @@ Anytime unusual wear is noticed, rotate the tires as soon as possible, check for
 See When It Is Time for New Tires 0 312 and Wheel Replacement 0 316.
 
 ### Tire Inspection
-`chevrolet_cruze_en_c6ca7f8f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 We recommend that the tires, including the spare tire, if the vehicle has one, be inspected for signs of wear or damage at least once a month.
 
@@ -9125,7 +8417,6 @@ Replace the tire if:
 The indicators at three or more places around the tire can be seen.
 
 ### Tire Rotation
-`chevrolet_cruze_en_680c7f23` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Tires should be rotated every 12 000 km (7,500 mi). See Maintenance Schedule 0 350.
 
@@ -9150,7 +8441,6 @@ Check that all wheel nuts are properly tightened. See “Wheel Nut Torque” und
 Lightly coat the center of the wheel hub with wheel bearing grease after a wheel change or tire rotation to prevent corrosion or rust build-up. Do not get grease on the flat wheel mounting surface or on the wheel nuts or bolts.
 
 ### When It Is Time for New Tires
-`chevrolet_cruze_en_ec684504` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Factors such as maintenance, temperatures, driving speeds, vehicle loading, and road conditions affect the wear rate of the tires.
 
@@ -9161,14 +8451,12 @@ Treadwear indicators are one way to tell when it is time for new tires. Treadwea
 The rubber in tires ages over time. This also applies to the spare tire, if the vehicle has one, even if it is never used. Multiple factors including temperatures, loading conditions, and inflation pressure maintenance affect how fast aging takes place. GM recommends that tires, including the spare if equipped, be replaced after six years, regardless of tread wear. The tire manufacture date is the last four digits of the DOT Tire Identification Number (TIN) which is molded into one side of the tire sidewall. The first two digits represent the week (01–52) and the last two digits, the year. For example, the third week of the year 2010 would have a four-digit DOT date of 0310.
 
 ### Vehicle Storage
-`chevrolet_cruze_en_e4a1cc49` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Tires age when stored normally mounted on a parked vehicle. Park a vehicle that will be stored for at least a month in a cool, dry, clean area away from direct sunlight to slow aging. This area should be free of grease, gasoline, or other substances that can deteriorate rubber.
 
 Parking for an extended period can cause flat spots on the tires that may result in vibrations while driving. When storing a vehicle for at least a month, remove the tires or raise the vehicle to reduce the weight from the tires.
 
 ### Buying New Tires
-`chevrolet_cruze_en_99bc3d10` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 GM has developed and matched specific tires for the vehicle. The original equipment tires installed were designed to meet General Motors Tire Performance Criteria Specification (TPC Spec)
 system rating. When
@@ -9196,7 +8484,6 @@ Vehicles that have a tire pressure monitoring system could give an inaccurate lo
 The Tire and Loading Information label indicates the original equipment tires on the vehicle. See Vehicle Load Limits 0 202.
 
 ### Different Size Tires and Wheels
-`chevrolet_cruze_en_34bda56b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If wheels or tires are installed that are a different size than the original equipment wheels and tires, vehicle performance, including its braking, ride and handling characteristics, stability, and resistance to rollover may be affected. If the vehicle has electronic systems such as antilock brakes, rollover airbags, traction control, electronic stability control, or All-Wheel Drive, the performance of these systems can also be affected.
 
@@ -9207,7 +8494,6 @@ If wheels or tires are installed that are a different size than the original equ
 See Buying New Tires 0 313 and Accessories and Modifications 0 260.
 
 ### Uniform Tire Quality Grading
-`chevrolet_cruze_en_63b5d5c5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The following information relates to the system developed by the United States National Highway Traffic Safety Administration (NHTSA), which grades tires by treadwear, traction, and temperature performance. This applies only to vehicles sold in the United States. The grades are molded on the sidewalls of most passenger car tires. The Uniform Tire Quality Grading (UTQG) system does not apply to deep tread, winter tires, compact spare tires, tires with nominal rim diameters of 10 to 12 inches (25 to 30 cm), or to some limited-production tires.
 
@@ -9216,27 +8502,22 @@ While the tires available on General Motors passenger cars and light trucks may 
 Quality grades can be found where applicable on the tire sidewall between tread shoulder and maximum section width. For example:
 
 ### Treadwear
-`chevrolet_cruze_en_3280bef5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The treadwear grade is a comparative rating based on the wear rate of the tire when tested under controlled conditions on a specified government test course. For example, a tire graded 150 would wear one and one-half (1½) times as well on the government course as a tire graded 100. The relative performance of tires depends upon the actual conditions of their use, however, and may depart significantly from the norm due to variations in driving habits, service practices and differences in road characteristics and climate.
 
 ### Traction
-`chevrolet_cruze_en_91e9a188` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The traction grades, from highest to lowest, are AA, A, B, and C. Those grades represent the tire's ability to stop on wet pavement as measured under controlled conditions on specified government test surfaces of asphalt and concrete. A tire marked C may have poor traction performance. Warning: The traction grade assigned to this tire is based on straight-ahead braking traction tests, and does not include acceleration, cornering, hydroplaning, or peak traction characteristics.
 
 ### Temperature
-`chevrolet_cruze_en_bef2b406` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The temperature grades are A (the highest), B, and C, representing the tire's resistance to the generation of heat and its ability to dissipate heat when tested under controlled conditions on a specified indoor laboratory test wheel. Sustained high temperature can cause the material of the tire to degenerate and reduce tire life, and excessive temperature can lead to sudden tire failure. The grade C corresponds to a level of performance which all passenger car tires must meet under the Federal Motor Safety Standard No. 109. Grades B and A represent higher levels of performance on the laboratory test wheel than the minimum required by law. Warning: The temperature grade for this tire is established for a tire that is properly inflated and not overloaded. Excessive speed, underinflation, or excessive loading, either separately or in combination, can cause heat buildup and possible tire failure.
 
 ### Wheel Alignment and Tire Balance
-`chevrolet_cruze_en_1a0c0c9a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The tires and wheels were aligned and balanced at the factory to provide the longest tire life and best overall performance. Adjustments to wheel alignment and tire balancing are not necessary on a regular basis. Consider an alignment check if there is unusual tire wear or the vehicle is significantly pulling to one side or the other. Some slight pull to the left or right, depending on the crown of the road and/or other road surface variations such as troughs or ruts, is normal. If the vehicle is vibrating when driving on a smooth road, the tires and wheels may need to be rebalanced. See your dealer for proper diagnosis.
 
 ### Wheel Replacement
-`chevrolet_cruze_en_41713346` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Replace any wheel that is bent, cracked, or badly rusted or corroded. If wheel nuts keep coming loose, the wheel, wheel bolts, and wheel nuts should be replaced. If the wheel leaks air, replace it.
 
@@ -9253,7 +8534,6 @@ Replace wheels, wheel bolts, wheel nuts, or Tire Pressure Monitor System (TPMS) 
 ![](images/0a6b8a2e5a2b9522bba6475da6a7efe30c57ab580cf46ea41fb9c5a21517d5ae.jpg)
 
 ### Tire Chains
-`chevrolet_cruze_en_20fc64fd` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/cc86e6f9bc6a74cd40680ab57e52cbcf2e76052ad1573e974f767b10383dd1cd.jpg)
 
@@ -9281,7 +8561,6 @@ When the vehicle has a flat tire (2), use the following example as a guide to as
 The following information explains how to repair or change a tire.
 
 ### Tire Sealant and Compressor Kit
-`chevrolet_cruze_en_0478a38b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/dc6bcd2d263a9703594138a9751326ffdc7511b1cf0bf51dc28f16edc364f28a.jpg)
 
@@ -9321,7 +8600,6 @@ The kit includes:
 ![](images/82d32a69029fd480eac1668d967d574ba83fc8e73fdf52bea4e8739918bbffc8.jpg)
 
 ### Tire Sealant
-`chevrolet_cruze_en_5a862543` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Read and follow the safe handling instructions on the label adhered to the tire sealant canister (4).
 
@@ -9330,7 +8608,6 @@ Check the tire sealant expiration date on the tire sealant canister. The tire se
 There is only enough sealant to seal one tire. After usage, the tire sealant canister must be replaced.
 
 ### Using the Tire Sealant and Compressor Kit to Temporarily Seal and Inflate a Punctured Tire
-`chevrolet_cruze_en_d60cb3f1` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 When using the tire sealant and compressor kit during cold temperatures, warm the kit in a heated environment for five minutes. This will help to inflate the tire faster.
 
@@ -9372,7 +8649,6 @@ The pressure gauge (8) may read higher than the actual tire pressure while the c
 The tire is not sealed and will continue to leak air until the vehicle is driven and the sealant is distributed in the tire.
 
 ### Using the Tire Sealant and Compressor Kit to Temporarily Seal and Inflate a Punctured Tire
-`chevrolet_cruze_en_3f0c640e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Therefore, Steps 13–21 must
 
@@ -9408,7 +8684,6 @@ If the tire pressure has not dropped more than 68 kPa (10 psi) from the recommen
 27. After temporarily sealing a tire using the tire sealant and compressor kit, take the vehicle to an authorized dealer within 161 km (100 mi) of driving to have the tire repaired or replaced.
 
 ### Using the Tire Sealant and Compressor Kit without Sealant to Inflate a Tire (Not Punctured)
-`chevrolet_cruze_en_34bc8325` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The kit includes:
 
@@ -9459,7 +8734,6 @@ reading. The compressor may be turned on/off until the correct pressure is reach
 The tire sealant and compressor kit has accessory adapters located in a compartment on the bottom of its housing that can be used to inflate air mattresses, balls, etc.
 
 ### Storing the Tire Sealant and Compressor Kit
-`chevrolet_cruze_en_765a824a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The tire sealant and compressor kit is in the trunk under the load floor.
 
@@ -9473,14 +8747,12 @@ To remove the kit:
 To store the inflator kit, reverse the steps.
 
 ### Tire Changing Removing the Spare Tire and Tools
-`chevrolet_cruze_en_d3b74e76` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To access the spare tire and tools:
 
 ![](images/eed9dc9fb163c9c570e16ca6dec145bd261bfba75ded9c23dce674d0b094cc8b.jpg)
 
 ### Vehicles with a Trunk
-`chevrolet_cruze_en_7e3e00aa` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Tow Hook
 2. Jack
@@ -9490,7 +8762,6 @@ To access the spare tire and tools:
 ![](images/a7a09a35006042a3f4c140e1c286901fc498c0ab603b91615633e0acfcd32e7a.jpg)
 
 ### Vehicles with a Liftgate
-`chevrolet_cruze_en_2993d86b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Jack
 2. Wrench
@@ -9506,7 +8777,6 @@ To access the spare tire and tools:
 4. The jack and tools are stored under the spare tire. Remove them from their container and place them near the tire being changed.
 
 ### Removing the Flat Tire and Installing the Spare Tire
-`chevrolet_cruze_en_d4b75adf` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 1. Do a safety check before proceeding. See If a Tire Goes Flat 0 318.
 
@@ -9575,7 +8845,6 @@ Storing a Flat or Spare Tire and Tools
 ![](images/d5094c2215cf903375d00e6fcffac25b5d6db06b09f9020cd7b3930b207829e1.jpg)
 
 ### Storing a Flat or Spare Tire and Tools — Vehicles with a Trunk
-`chevrolet_cruze_en_4165402c` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Replace the jack and tools in their original storage location.
 
@@ -9586,7 +8855,6 @@ Storing a Flat or Spare Tire and Tools
 4. Replace the load floor.
 
 ### Storing a Flat Tire and Tools — Vehicles with a Liftgate
-`chevrolet_cruze_en_574d8723` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The spare tire wheel well is not designed to store a full size tire. A damaged full size tire must be stored on the load floor and secured with the strap provided.
 
@@ -9608,14 +8876,12 @@ The spare tire wheel well is not designed to store a full size tire. A damaged f
 ![](images/4aaa9cc34baf7404db6be74568c6dd07e827bce25f78e65ac557eb2966420a3b.jpg)
 
 ### Storing the Spare Tire and Tools — Vehicles with a Liftgate
-`chevrolet_cruze_en_07328ad3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Reverse the directions for removing the jack, tools, and spare tire.
 
 The compact spare is for temporary use only. Replace the compact spare tire with a full-size tire as soon as you can.
 
 ### Compact Spare Tire
-`chevrolet_cruze_en_9f8f52d0` | cruze | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 ![](images/66bee8809e7054230f524592b754d4377526705818cc7cf34ec59c01a449598d.jpg)
 
@@ -9634,7 +8900,6 @@ Do not mix the compact spare tire or wheel with other wheels or tires. They will
 ![](images/cfd516009fa5526a80294e2908de60f2b134b5de520cb3a4cc579be4b3e5f17b.jpg)
 
 ### Jump Starting North America
-`chevrolet_cruze_en_7a1cfefa` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 For more information about the vehicle battery, see Battery North America 0 279.
 
@@ -9647,7 +8912,6 @@ If the battery has run down, try to use another vehicle and some jumper cables t
 See California Proposition 65 Warning 0 259 and the back cover.
 
 ### { Warning
-`chevrolet_cruze_en_af3dd49a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Batteries can hurt you. They can be dangerous because:
 
@@ -9660,7 +8924,6 @@ If you do not follow these steps exactly, some or all of these things can hurt y
 ![](images/dbe7366815321d7e7fcae064ca6e3fcafcfaa0454c58d70e7e4cef11105785c9.jpg)
 
 ### 1.4L L4 Engine (LE2) Shown, 1.6L L4 Diesel Engine (LH7) Similar
-`chevrolet_cruze_en_adab28a2` | cruze | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 1. Discharged Battery Positive Terminal
 
@@ -9706,14 +8969,12 @@ The positive jump start connection for the discharged battery is under a trim co
 ![](images/f0928c974e1ce42d5262b2f65ab1f7e0a7502a08cccf683ebd1d82e16af5051a.jpg)
 
 ### Jumper Cable Removal
-`chevrolet_cruze_en_57e60896` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Reverse the sequence exactly when removing the jumper cables.
 
 After starting the disabled vehicle and removing the jumper cables, allow it to idle for several minutes.
 
 ### Towing the Vehicle
-`chevrolet_cruze_en_43ecff5b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/2d7c1d0c80ace5d6d2808ccf6be08ad57c09ad6dbafdf57a5155bb2916d4d131.jpg)
 
@@ -9734,7 +8995,6 @@ Carefully open the cover in the fascia by using the small notch that conceals th
 Install the tow eye into the socket and turn it until it is fully tightened. When the tow eye is removed, reinstall the cover with the notch in the original position.
 
 ### Recreational Vehicle Towing
-`chevrolet_cruze_en_00d4c7e8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Recreational vehicle towing refers to towing the vehicle behind another vehicle, such as behind a motor home. The two most common types of recreational vehicle towing are known as dinghy towing and dolly towing. Dinghy towing is towing the vehicle with all four wheels on the ground. Dolly towing is towing the vehicle with two wheels on the ground and two wheels up on a device known as a dolly.
 
@@ -9754,7 +9014,6 @@ towed.
 ![](images/9fe3d2217b17f2f541d5f2fb14408f1e7a5e06b153f87a84b1d941bce758b7bb.jpg)
 
 ### Dinghy Towing (with Automatic Transmission)
-`chevrolet_cruze_en_5a1ddf9a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/f437bb94ea94dfab57f1e4c5cc7366900a1e1c835312a86531bc4e6fbded6af1.jpg)
 
@@ -9763,7 +9022,6 @@ towed.
 Vehicles with an automatic transmission should not be towed with all four wheels on the ground. If the vehicle must be towed, a dolly should be used. See "Dolly Towing" later in this section.
 
 ### Dinghy Towing (with Manual Transmission)
-`chevrolet_cruze_en_9f3af296` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/2df499420457293705bc53ce6972ceb21350883e0abc219c8c9c220f5ed8a0cf.jpg)
 
@@ -9785,7 +9043,6 @@ Remember to reinstall the fuses once the destination has been reached.
 ![](images/b6832280f586a0d4111c38c406b79ccc288f4e011221ae3534494df46f2c2bf2.jpg)
 
 ### Dolly Towing
-`chevrolet_cruze_en_1c22a62d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/f4cec42ffb12c29033f25898a4ef036449af864b8f569551dd67d81ee0327bb9.jpg)
 
@@ -9805,12 +9062,10 @@ To tow the vehicle with the two rear wheels on the ground and the front wheels o
 ![](images/6ef46bcb6ee3fca3af6cba4a4440268f1fa3fb1faec2586df5f15dc476342d40.jpg)
 
 ### Locks
-`chevrolet_cruze_en_778d7b62` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Locks are lubricated at the factory. Use a de-icing agent only when absolutely necessary, and have the locks greased after using. See Recommended Fluids and Lubricants 0 359.
 
 ### Washing the Vehicle
-`chevrolet_cruze_en_a6540409` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To preserve the vehicle's finish, wash it often and out of direct sunlight.
 
@@ -9831,7 +9086,6 @@ Rinse the vehicle well, before washing and after, to remove all cleaning agents 
 Dry the finish with a soft, clean chamois or an all-cotton towel to avoid surface scratches and water spotting.
 
 ### Finish Care
-`chevrolet_cruze_en_7f89fdc4` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Application of aftermarket clearcoat sealant/wax materials is not recommended. If painted surfaces are damaged, see your dealer to
 
@@ -9877,14 +9131,12 @@ heat generated.
 ![](images/533a151624d40909fe09c06276eee1d7abe96c44e464514bad03d2f9a1b32a9d.jpg)
 
 ### Shutter System
-`chevrolet_cruze_en_58375526` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/54dff15dbbd90ca1cf1ccd1e10055f8998ab27a34cb27ef25d115dd2091c0ece.jpg)
 
 The vehicle may have a shutter system designed to help increase fuel economy. Keep the shutter system clean for proper operation.
 
 ### Windshield and Wiper Blades
-`chevrolet_cruze_en_ececbc48` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Clean the outside of the windshield with glass cleaner.
 
@@ -9893,21 +9145,18 @@ Clean rubber blades using a lint-free cloth or paper towel soaked with windshiel
 Replace the wiper blades if they are worn or damaged. Damage can be caused by extreme dusty conditions, sand, salt, heat, sun, snow, and ice.
 
 ### Weatherstrips
-`chevrolet_cruze_en_93637811` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Apply Dielectric silicone grease on weatherstrips to make them last longer, seal better, and not stick or squeak. Lubricate weatherstrips at least once a year. Hot, dry climates may require more frequent
 
 application. Black marks from rubber material on painted surfaces can be removed by rubbing with a clean cloth. See Recommended Fluids and Lubricants 0 359.
 
 ### Tires
-`chevrolet_cruze_en_69459c6f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use a stiff brush with tire cleaner to clean the tires.
 
 ![](images/03de5df8e82fdfc8443fa7a11f59ba48024ca624bbba4a40794ba629ca14aaf3.jpg)
 
 ### Wheels and Trim — Aluminum or Chrome
-`chevrolet_cruze_en_87b820a3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use a soft, clean cloth with mild soap and water to clean the wheels. After rinsing thoroughly with clean water, dry with a soft, clean towel. A wax may then be applied.
 
@@ -9918,12 +9167,10 @@ Use a soft, clean cloth with mild soap and water to clean the wheels. After rins
 ![](images/b374933217fd5f19e3e8d9da737cbd3b3232373e9677905566756ff62781a305.jpg)
 
 ### Brake System
-`chevrolet_cruze_en_898435c8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Visually inspect brake lines and hoses for proper hook-up, binding, leaks, cracks, chafing, etc. Inspect disc brake pads for wear and rotors for surface condition. Inspect drum brake linings/shoes for wear or cracks. Inspect all other brake parts.
 
 ### Steering, Suspension, and Chassis Components
-`chevrolet_cruze_en_a24371c1` | cruze | pdf_manual | tier:2 | lang:en | layer:steering | p:1 | doc_type:owners_manual
 
 Visually inspect steering, suspension, and chassis components for damaged, loose, or missing parts or signs of wear at least once a year.
 
@@ -9932,36 +9179,30 @@ Inspect power steering for proper attachment, connections, binding, leaks, crack
 Visually check constant velocity joint boots and axle seals for leaks.
 
 ### Body Component Lubrication
-`chevrolet_cruze_en_5f8fa2ef` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Lubricate all key lock cylinders, hood hinges, decklid hinges, steel fuel door hinge, unless the components are plastic. Applying silicone grease on weatherstrips with a clean cloth will make them last longer, seal better, and not stick or squeak.
 
 ### Underbody Maintenance
-`chevrolet_cruze_en_480d85c2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 At least twice a year, spring and fall, use plain water to flush any corrosive materials from the underbody. Take care to thoroughly clean any areas where mud and other debris can collect.
 
 Do not directly power wash the transfer case and/or front/rear axle output seals. High pressure water can overcome the seals and contaminate the fluid. Contaminated fluid will decrease the life of the transfer case and/or axles and should be replaced.
 
 ### Sheet Metal Damage
-`chevrolet_cruze_en_68d77460` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the vehicle is damaged and requires sheet metal repair or replacement, make sure the body repair shop applies anti-corrosion material to parts repaired or replaced to restore corrosion protection.
 
 Original manufacturer replacement parts will provide the corrosion protection while maintaining the vehicle warranty.
 
 ### Finish Damage
-`chevrolet_cruze_en_48fd0ea3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Quickly repair minor chips and scratches with touch-up materials available from your dealer to avoid corrosion. Larger areas of finish damage can be corrected in your dealer's body and paint shop.
 
 ### Chemical Paint Spotting
-`chevrolet_cruze_en_8e532939` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Airborne pollutants can fall upon and attack painted vehicle surfaces causing blotchy, ring-shaped discolorations, and small, irregular dark spots etched into the paint surface. See “Finish Care” previously in this section.
 
 ### Interior Care
-`chevrolet_cruze_en_f31668e2` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 To prevent dirt particle abrasions, regularly clean the vehicle's interior. Immediately remove any soils. Newspapers or dark garments can transfer color to the vehicle’s interior.
 
@@ -9988,7 +9229,6 @@ upholstery when cleaning.
 Do not use solvents or cleaners containing solvents.
 
 ### Interior Glass
-`chevrolet_cruze_en_1ebf03d5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To clean, use a terry cloth fabric dampened with water. Wipe droplets left behind with a clean dry cloth. If necessary, use a commercial glass cleaner after cleaning with plain water.
 
@@ -9997,19 +9237,16 @@ To clean, use a terry cloth fabric dampened with water. Wipe droplets left behin
 Cleaning the windshield with water during the first three to six months of ownership will reduce tendency to fog.
 
 ### Speaker Covers
-`chevrolet_cruze_en_717ff986` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Vacuum around a speaker cover gently, so that the speaker will not be damaged. Clean spots with water and mild soap.
 
 ### Coated Moldings
-`chevrolet_cruze_en_296596a1` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Coated moldings should be cleaned.
 
 When lightly soiled, wipe with a sponge or soft, lint-free cloth dampened with water. When heavily soiled, use warm soapy water.
 
 ### Fabric/Carpet/Suede
-`chevrolet_cruze_en_092a71c2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Start by vacuuming the surface using a soft brush attachment. If a rotating vacuum brush attachment is being used, only use it on the floor carpet. Before cleaning, gently remove as much of the soil as possible:
 
@@ -10028,14 +9265,12 @@ If the soil is not completely removed, it may be necessary to use a commercial u
 After cleaning, use a paper towel to blot excess moisture.
 
 ### Cleaning High Gloss Surfaces and Vehicle Information and Radio Displays
-`chevrolet_cruze_en_bcbbac32` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use a microfiber cloth on high gloss surfaces or vehicle displays. First, use a soft bristle brush to remove dirt that can scratch the surface. Then gently clean by rubbing with a microfiber cloth. Never use window cleaners or solvents. Periodically hand wash the microfiber cloth separately, using mild soap. Do not use bleach or fabric softener. Rinse thoroughly and air dry before next use.
 
 ![](images/76b75fdb10364353e3c25384362a9bc9c0dc7fa17fa8866669c9a3936e71c33e.jpg)
 
 ### Instrument Panel, Leather, Vinyl, Other Plastic Surfaces, Low Gloss Paint Surfaces, and Natural Open
-`chevrolet_cruze_en_07c8f5b4` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use a soft microfiber cloth dampened with water to remove dust and loose dirt. For a more thorough cleaning, use a soft microfiber cloth dampened with a mild soap solution.
 
@@ -10048,19 +9283,16 @@ Do not use cleaners that increase gloss, especially on the instrument panel. Ref
 ![](images/eff16c24b508cbf2b13176dfc15d2582abe65ff3538e11aed82085e9bf85c2b2.jpg)
 
 ### Cargo Cover and Convenience Net
-`chevrolet_cruze_en_6c78e3ee` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Wash with warm water and mild detergent. Do not use chlorine bleach. Rinse with cold water, and then dry completely.
 
 ### Care of Seat Belts
-`chevrolet_cruze_en_0a31393a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Keep belts clean and dry.
 
 ![](images/24c21cd98686b00b3fa60f2bf240fb6486f49d304a0af51f7550f2fe4e289f67.jpg)
 
 ### Floor Mats
-`chevrolet_cruze_en_66b85b90` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/37368067548f60438fc606c1e853c55f48f0c906c035cc74d38e311c670444b0.jpg)
 
@@ -10078,7 +9310,6 @@ Use only a single floor mat on the driver side.
 Do not place one floor mat on top of another.
 
 ### Removing and Replacing the Driver and Front Passenger Floor Mats
-`chevrolet_cruze_en_f75843ed` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, pull up on the rear of the floor mat to unlock each retainer and remove.
 
@@ -10091,7 +9322,6 @@ Make sure the floor mat is properly secured in place.
 Verify the floor mat does not interfere with the pedals.
 
 ### Service and Maintenance
-`chevrolet_cruze_en_f9654e6a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 General Information General Information 349
 
@@ -10102,14 +9332,12 @@ Special Application Services Special Application Services 356
 Additional Maintenance and Care Additional Maintenance and Care 356
 
 ### Recommended Fluids, Lubricants, and Parts
-`chevrolet_cruze_en_84790648` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Recommended Fluids and Lubricants 359 Maintenance Replacement Parts 360
 
 Maintenance Records Maintenance Records 362
 
 ### General Information
-`chevrolet_cruze_en_4ed9fef5` | cruze | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 Your vehicle is an important investment. This section describes the required maintenance for the vehicle. Follow this schedule to help protect against major repair expenses resulting from neglect or inadequate maintenance. It may also help to maintain the value of the vehicle if it is sold. It is the responsibility of the owner to have all required maintenance performed.
 
@@ -10148,7 +9376,6 @@ Refer to the information in the Maintenance Schedule Additional Required Service
 ![](images/db515c28db75209ac592e67f38945c7f300a7bef6971d3a01ff7a61ecb7cfcb3.jpg)
 
 ### Once a Month
-`chevrolet_cruze_en_05377731` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Check the tire inflation
 pressures. See Tire Pressure 0 305.
@@ -10156,17 +9383,14 @@ Inspect the tires for wear. See Tire Inspection 0 311.
 Check the windshield washer fluid level. See Washer Fluid 0 276.
 
 ### Once a Year (Minimum)
-`chevrolet_cruze_en_5ec47a69` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 On vehicles with diesel engines, it is recommended to drain the diesel fuel filter of water when the WATER IN FUEL CONTACT SERVICE message displays or a minimum of once a year.
 
 ### Engine Oil Change
-`chevrolet_cruze_en_cd716b15` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the CHANGE ENGINE OIL SOON DIC message displays, have the engine oil and filter changed within the next 000 km/600 mi. If driven under the best conditions, the engine oil life system may not indicate the need for vehicle service for up to a year. The engine oil and filter must be changed at least once a year and the oil life system must be reset. Your trained dealer technician can perform this work. If the engine oil life system is reset accidentally, service the vehicle within 5 000 km/3,000 mi since the last service. Reset the oil life system when the oil is changed. See Engine Oil Life System 0 268.
 
 ### Tire Rotation and Required Services Every 12 000 km/ 7,500 mi
-`chevrolet_cruze_en_a84b98b8` | cruze | pdf_manual | tier:2 | lang:en | layer:suspension | p:1 | doc_type:owners_manual
 
 Rotate the tires, if recommended for the vehicle, and perform the following services. See Tire Rotation 0 311.
 
@@ -10220,7 +9444,6 @@ Inspect sunroof track and seal, if equipped. See Sunroof 0 58.
 ![](images/79e22fa16f0ab726f827d8d057c900a8166d56b4c69c9af5c8c9aa650d2dc576.jpg)
 
 ### Footnotes Maintenance Schedule Additional Required Services Normal
-`chevrolet_cruze_en_c9df90c7` | cruze | pdf_manual | tier:2 | lang:en | layer:transmission | p:1 | doc_type:owners_manual
 
 (1) Or every two years, whichever comes first. More frequent passenger compartment air filter replacement may be needed if
 
@@ -10242,7 +9465,6 @@ transmission, replace brake/clutch fluid every three years. See Brake Fluid 0 27
 ![](images/61e7544a22f230760e39166884e8280379fe4f9f236d1242a2f3935451f9a931.jpg)
 
 ### Footnotes — Maintenance Schedule Additional Required Services Severe
-`chevrolet_cruze_en_5978f528` | cruze | pdf_manual | tier:2 | lang:en | layer:transmission | p:1 | doc_type:owners_manual
 
 (1) Or every two years, whichever comes first. More frequent
 
@@ -10263,12 +9485,10 @@ passenger compartment air filter replacement may be needed if driving in areas w
 (8) If equipped with a manual transmission, replace brake/clutch fluid every three years. See Brake Fluid 0 278.
 
 ### Special Application Services
-`chevrolet_cruze_en_76988a02` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Severe Commercial Use Vehicles Only: Lubricate chassis components every oil change. Have underbody flushing service performed. See "Underbody Maintenance" in Exterior Care 0 339.
 
 ### Additional Maintenance and Care
-`chevrolet_cruze_en_37782096` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Your vehicle is an important investment and caring for it properly may help to avoid future costly repairs. To maintain vehicle performance, additional maintenance services may be required.
 
@@ -10277,19 +9497,16 @@ It is recommended that your dealer perform these services — their trained deal
 The following list is intended to explain the services and conditions to look for that may indicate services are required.
 
 ### Battery
-`chevrolet_cruze_en_f09c5de2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The battery supplies power to start the engine and operate any additional electrical accessories.
 
 To avoid break-down or failure to start the vehicle, maintain a battery with full cranking power. Trained dealer technicians have the diagnostic equipment to test the battery and ensure that the connections and cables are corrosion-free.
 
 ### Belts
-`chevrolet_cruze_en_d0972ad0` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Belts may need replacing if they squeak or show signs of cracking or splitting. Trained dealer technicians have access to tools and equipment to inspect the belts and recommend adjustment or replacement when necessary. A message may indicate when scheduled maintenance on the timing belt and other components is required.
 
 ### Brakes
-`chevrolet_cruze_en_5cc32b58` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Brakes stop the vehicle and are crucial to safe driving.
 
@@ -10298,7 +9515,6 @@ Signs of brake wear may include chirping, grinding, or squealing noises, or diff
 Trained dealer technicians have access to tools and equipment to inspect the brakes and recommend quality parts engineered for the vehicle.
 
 ### Fluids
-`chevrolet_cruze_en_018e0201` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Proper fluid levels and approved fluids protect the vehicle’s systems and components. See
 Recommended Fluids and
@@ -10307,26 +9523,22 @@ Lubricants 0 359 for GM approved fluids.
 Engine oil and windshield washer fluid levels should be checked at every fuel fill. Instrument cluster lights may come on to indicate that fluids may be low and need to be filled.
 
 ### Hoses
-`chevrolet_cruze_en_e1f2a700` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Hoses transport fluids and should be regularly inspected to ensure that there are no cracks or leaks. With a multi-point inspection, your dealer can inspect the hoses and advise if replacement is needed.
 
 ### Lamps
-`chevrolet_cruze_en_84c5263f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Properly working headlamps, taillamps, and brake lamps are important to see and be seen on the road.
 
 Signs that the headlamps need attention include dimming, failure to light, cracking, or damage. The brake lamps need to be checked periodically to ensure that they light when braking. With a multi-point inspection, your dealer can check the lamps and note any concerns.
 
 ### Shocks and Struts
-`chevrolet_cruze_en_98a6d043` | cruze | pdf_manual | tier:2 | lang:en | layer:suspension | p:1 | doc_type:owners_manual
 
 Shocks and struts help aid in control for a smoother ride.
 
 Signs of wear may include steering wheel vibration, bounce/ sway while braking, longer stopping distance, or uneven tire wear. As part of the multi-point inspection, trained dealer technicians can visually inspect the shocks and struts for signs of leaking, blown seals, or damage, and can advise when service is needed.
 
 ### Tires
-`chevrolet_cruze_en_87bfe8aa` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Tires need to be properly inflated, rotated, and balanced. Maintaining the tires can save money and fuel, and can reduce the risk of tire failure.
 
@@ -10339,35 +9551,30 @@ services to ensure smooth
 vehicle operation at all speeds. Your dealer sells and services name brand tires.
 
 ### Vehicle Care
-`chevrolet_cruze_en_b40b3975` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To help keep the vehicle looking like new, vehicle care products are available from your dealer. For
 
 information on how to clean and protect the vehicle’s interior and exterior, see Interior Care 0 344 and Exterior Care 0 339.
 
 ### Wheel Alignment
-`chevrolet_cruze_en_fde3ea3d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Wheel alignment is critical for ensuring that the tires deliver optimal wear and performance.
 
 Signs that the alignment may need to be adjusted include pulling, improper vehicle handling, or unusual tire wear. Your dealer has the required equipment to ensure proper wheel alignment.
 
 ### Windshield
-`chevrolet_cruze_en_9125320f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 For safety, appearance, and the best viewing, keep the windshield clean and clear.
 
 Signs of damage include scratches, cracks, and chips. Trained dealer technicians can inspect the windshield and recommend proper replacement if needed.
 
 ### Wiper Blades
-`chevrolet_cruze_en_a1a1d0aa` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Wiper blades need to be cleaned and kept in good condition to provide a clear view.
 
 Signs of wear include streaking, skipping across the windshield, and worn or split rubber. Trained dealer technicians can check the wiper blades and replace them when needed.
 
 ### Recommended Fluids, Lubricants, and Parts
-`chevrolet_cruze_en_5e98d9da` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Recommended Fluids and Lubricants
 
@@ -10376,7 +9583,6 @@ Recommended Fluids and Lubricants
 ![](images/b00e8e235553ad87d690f67d08cf874305bc15d5f366a51b2fd8037b0ae352f2.jpg)
 
 ### Maintenance Replacement Parts
-`chevrolet_cruze_en_49c67f4f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 eplacement parts identified here by name, part number, or specification can be obtained from your dealer.
 
@@ -10385,26 +9591,22 @@ eplacement parts identified here by name, part number, or specification can be o
 ![](images/38a8498209dee5c21d7371b5751fe1aaa5bf8911afdc70fa4d10ccec2a9b1c3e.jpg)
 
 ### Maintenance Records
-`chevrolet_cruze_en_68a73fd6` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 After the scheduled services are performed, record the date, odometer reading, who performed the service, and the type of services performed in the boxes provided. Retain all maintenance receipts.
 
 ![](images/15f714022002a49bb3c2b66fd7c16fc8d7e32e0d674a82094ff17aa5b4571a4b.jpg)
 
 ### Vehicle Identification Vehicle Identification Number (VIN)
-`chevrolet_cruze_en_d5a40bce` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/a45f2aee13ba44e530128aa7bfc242d440104d0e39aef91b034e442af4ec602d.jpg)
 
 This legal identifier is in the front corner of the instrument panel, on the driver side of the vehicle. It can be seen through the windshield from outside. The Vehicle Identification Number (VIN) also appears on the Vehicle Certification and Service Parts labels and certificates of title and registration.
 
 ### Engine Identification
-`chevrolet_cruze_en_c47e9bfa` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The eighth character in the VIN is the engine code. This code identifies the vehicle's engine, specifications, and replacement parts. See “Engine Specifications” under Capacities and Specifications 0 364 for the vehicle's engine code.
 
 ### Service Parts Identification Label
-`chevrolet_cruze_en_99333c93` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 There may be a label on the inside of the trunk area that contains the following information:
 
@@ -10418,7 +9620,6 @@ equipment
 If there is no label, there is a barcode on the certification label on the center (B) pillar to scan for this same information.
 
 ### Capacities and Specifications
-`chevrolet_cruze_en_23de8fe6` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The following approximate capacities are given in English and metric conversions. See Recommended Fluids and Lubricants 0 359.
 
@@ -10427,14 +9628,12 @@ The following approximate capacities are given in English and metric conversions
 ![](images/6dd36b50dfad9d4527958f0b950ac6e5ab79b159965e30f6bb74fa3f2a608323.jpg)
 
 ### Engine Specifications
-`chevrolet_cruze_en_7550afb8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/63362543deb402b54a12cec22c71984278102aefe1361016d80d1066d53fce35.jpg)
 
 ![](images/0a6c6acee43a46955cd01c93b78903f1f04e2ef964449629475ce252cf222af6.jpg)
 
 ### Customer Information
-`chevrolet_cruze_en_1cc81c67` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Customer Satisfaction Procedure 367
 Customer Assistance Offices 369
@@ -10451,14 +9650,12 @@ Service Publications Ordering Information 376
 Radio Frequency Statement 377
 
 ### Reporting Safety Defects
-`chevrolet_cruze_en_2cb59b58` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Reporting Safety Defects to the United States Government 377
 
 Reporting Safety Defects to the Canadian Government 378 Reporting Safety Defects to General Motors 378
 
 ### Customer Information Customer Satisfaction Procedure
-`chevrolet_cruze_en_1c359aa9` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Your satisfaction and goodwill are important to your dealer and to Chevrolet. Normally, any concerns with the sales transaction or the operation of the vehicle will be resolved by your dealer's sales or service departments. Sometimes, however, despite the best intentions of all concerned, misunderstandings can occur. If your concern has not been resolved to your satisfaction, the following steps should be taken:
 
@@ -10476,7 +9673,6 @@ present mileage.
 When contacting Chevrolet, remember that your concern will likely be resolved at a dealer's facility. That is why we suggest following Step One first.
 
 ### STEP THREE — U.S. Owners
-`chevrolet_cruze_en_6146d863` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Both General Motors and your dealer are committed to making sure you are completely satisfied with your new vehicle. However, if you continue to remain unsatisfied after following the procedure outlined in Steps One and Two, you can file with the Better Business Bureau (BBB) Auto Line Program to enforce your rights.
 
@@ -10498,7 +9694,6 @@ bbb-auto-line
 This program is available in all 50 states and the District of Columbia. Eligibility is limited by vehicle age, mileage, and other factors. General Motors reserves the right to change eligibility limitations and/or discontinue its participation in this program.
 
 ### STEP THREE — Canadian
-`chevrolet_cruze_en_06ca7ab3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Owners In the event that you do not feel your concerns have been addressed after following the procedure outlined in Steps One and Two, General Motors of Canada
 
@@ -10511,12 +9706,10 @@ The Mediation/Arbitration Program c/o Customer Care Centre General Motors of Can
 Your inquiry should be accompanied by the Vehicle Identification Number (VIN).
 
 ### Customer Assistance Offices
-`chevrolet_cruze_en_2e9a90fb` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Chevrolet encourages customers to call the toll-free number for assistance. However, if a customer wishes to write or e-mail Chevrolet, the letter should be addressed to:
 
 ### United States and Puerto Rico
-`chevrolet_cruze_en_45ff5516` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Chevrolet Motor Division
 Chevrolet Customer Assistance
@@ -10533,7 +9726,6 @@ Roadside Assistance:
 From U.S. Virgin Islands: 1-800-496-9994
 
 ### Canada
-`chevrolet_cruze_en_d7bdb270` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 General Motors of Canada
 Company
@@ -10549,17 +9741,14 @@ www.gm.ca
 Telephone devices (TTYs)) Roadside Assistance: 1-800-268-6800
 
 ### Customer Assistance for Text Telephone (TTY) Users
-`chevrolet_cruze_en_0fb52c8a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To assist customers who are deaf, hard of hearing, or speech-impaired and who use Text Telephones (TTYs), Chevrolet has TTY equipment available at its Customer Assistance Center. Any TTY user in the U.S. can communicate with Chevrolet by dialing: 1-800-833-2438. TTY users in Canada can dial 1-800-263-3830.
 
 ### Online Owner Experience (U.S.) my.chevrolet.com
-`chevrolet_cruze_en_6204e078` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Chevrolet online owner experience allows interaction with Chevrolet and keeps important vehicle-specific information in one place.
 
 ### Membership Benefits
-`chevrolet_cruze_en_11efb8ec` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Download owner’s manuals and view vehicle-specific how-to videos.
 
@@ -10580,7 +9769,6 @@ Chat with online help representatives.
 See my.chevrolet.com to register your vehicle.
 
 ### Chevrolet Owner Centre (Canada) chevroletowner.ca
-`chevrolet_cruze_en_88482da6` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Visit the Chevrolet Owner Centre:
 
@@ -10595,7 +9783,6 @@ Download owner’s manuals.
 Find the Chevrolet-recommended maintenance services.
 
 ### GM Mobility Reimbursement Program
-`chevrolet_cruze_en_5e4705bb` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 GENERAL MOTORS MOBILITY
 
@@ -10608,7 +9795,6 @@ To learn about the GM Mobility program, see www.gmmobility.com or call the GM Mo
 General Motors of Canada also has a Mobility program. See www.gm.ca or call 1-800-GM-DRIVE (800-463-7483) for details. TTY users call 1-800-263-3830.
 
 ### Roadside Assistance Program
-`chevrolet_cruze_en_f9ea72e2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 For U.S.-purchased vehicles, call 1-800-243-8872. (Text Telephone (TTY): 1-888-889-2438.)
 
@@ -10617,7 +9803,6 @@ For Canadian-purchased vehicles, call 1-800-268-6800.
 Service is available 24 hours a day, 365 days a year.
 
 ### Calling for Assistance
-`chevrolet_cruze_en_9cdbc201` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When calling Roadside Assistance, have the following information ready:
 
@@ -10626,7 +9811,6 @@ Your name, home address, and home telephone number Telephone number of your loca
 Odometer reading, Vehicle Identification Number (VIN), and delivery date of the vehicle Description of the problem
 
 ### Coverage
-`chevrolet_cruze_en_8a636f55` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Services are provided for the duration of the vehicle’s powertrain warranty.
 
@@ -10637,7 +9821,6 @@ Roadside Assistance is not a part of the New Vehicle Limited Warranty. General M
 General Motors North America and Chevrolet reserve the right to limit services or payment to an owner or driver if they decide the claims are made too often, or the same type of claim is made many times.
 
 ### Services Provided
-`chevrolet_cruze_en_d169ccf8` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Emergency Fuel Delivery: Delivery of enough fuel for the vehicle to get to the nearest service station.
 
@@ -10652,7 +9835,6 @@ Battery Jump Start: Service to jump start a dead battery.
 Trip Interruption Benefits and Assistance: If your trip is interrupted due to a warranty event, incidental expenses may be reimbursed within the Powertrain warranty period. Items considered are reasonable and customary hotel, meals, rental car, or a vehicle being delivered back to the customer, up to 805 km (500 mi).
 
 ### Services Not Included in Roadside Assistance
-`chevrolet_cruze_en_6507ed19` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Impound towing caused by
 violation of any laws
@@ -10664,7 +9846,6 @@ chains, or other traction devices
 Service is not provided if a vehicle is in an area that is not accessible to the service vehicle or is not a regularly traveled or maintained public road, which includes ice and winter roads. Off-road use is not covered.
 
 ### Services Specific to Canadian-Purchased Vehicles
-`chevrolet_cruze_en_ac5e2e2f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Fuel Delivery: Reimbursement is up to 7 liters. If available, diesel fuel delivery may be restricted. Propane and other fuels are not provided through this service.
 
@@ -10677,7 +9858,6 @@ Alternative Service: If assistance cannot be provided right away, the Roadside A
 after sending the original receipt to Roadside Assistance. Mechanical failures may be covered, however any cost for parts and labor for repairs not covered by the warranty are the owner responsibility.
 
 ### Scheduling Service Appointments
-`chevrolet_cruze_en_964a03ed` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the vehicle requires warranty service, contact your dealer and request an appointment. By scheduling a service appointment and advising the service consultant of your transportation needs, your dealer can help minimize your inconvenience.
 
@@ -10686,7 +9866,6 @@ If the vehicle cannot be scheduled into the service department immediately, keep
 If your dealer requests you to bring the vehicle for service, you are urged to do so as early in the work day as possible to allow for same-day repair.
 
 ### Courtesy Transportation Program
-`chevrolet_cruze_en_6ace0c9a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To enhance your ownership experience, we and our participating dealers are proud to offer Courtesy Transportation, a customer support program for vehicles with the Bumper-to-Bumper (Base Warranty Coverage period in Canada), extended powertrain, and/or hybrid-specific warranties in both the U.S. and Canada.
 
@@ -10697,22 +9876,18 @@ Courtesy Transportation is not a part of the New Vehicle Limited Warranty. A sep
 furnished with each new vehicle provides detailed warranty coverage information.
 
 ### Transportation Options
-`chevrolet_cruze_en_0b0c409d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Warranty service can generally be completed while you wait. However, if you are unable to do so, your dealer may offer the following transportation options:
 
 ### Shuttle Service
-`chevrolet_cruze_en_b103d205` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This includes one-way or round-trip shuttle service within reasonable time and distance parameters of your dealer's area.
 
 ### Public Transportation or Fuel Reimbursement
-`chevrolet_cruze_en_4d0ee2be` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If overnight warranty repairs are needed, and public transportation is used, the expense must be supported by original receipts and within the maximum amount allowed by GM for shuttle service. If U.S. customers arrange their own transportation, limited reimbursement for reasonable fuel expenses may be available. Claim amounts should reflect actual costs and be supported by original receipts. See your dealer for information.
 
 ### Courtesy Rental Vehicle
-`chevrolet_cruze_en_d6d680ef` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 For an overnight warranty repair, the dealer may provide an available courtesy rental vehicle or provide for reimbursement of a rental vehicle. Reimbursement is limited and must be supported by original receipts as well as a signed and completed rental agreement and meet state/ provincial, local, and rental vehicle provider requirements.
 
@@ -10721,19 +9896,16 @@ Requirements vary and may include minimum age requirements, insurance coverage, 
 It may not be possible to provide a like vehicle as a courtesy rental.
 
 ### Additional Program Information
-`chevrolet_cruze_en_ed40b191` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 All program options, such as shuttle service, may not be available at every dealer. Contact your dealer for specific availability.
 
 General Motors reserves the right to unilaterally modify, change, or discontinue Courtesy Transportation at any time and to resolve all questions of claim eligibility pursuant to the terms and conditions described herein at its sole discretion.
 
 ### Collision Damage Repair
-`chevrolet_cruze_en_e858f011` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the vehicle is involved in a collision and it is damaged, have the damage repaired by a qualified technician using the proper equipment and quality replacement parts. Poorly performed collision repairs diminish the vehicle resale value, and safety performance can be compromised in subsequent collisions.
 
 ### Collision Parts
-`chevrolet_cruze_en_e3886106` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Genuine GM Collision parts are new parts made with the same materials and construction methods as the parts with which the vehicle was originally built. Genuine GM Collision parts are the best choice to ensure that the vehicle's designed appearance, durability, and safety are preserved. The use of Genuine GM parts can help maintain the GM New Vehicle Limited Warranty.
 
@@ -10742,19 +9914,16 @@ Recycled original equipment parts may also be used for repair. These parts are t
 Aftermarket collision parts are also available. These are made by companies other than GM and may not have been tested for the vehicle. As a result, these parts may fit poorly, exhibit premature durability/ corrosion problems, and may not perform properly in subsequent collisions. Aftermarket parts are not covered by the GM New Vehicle Limited Warranty, and any vehicle failure related to such parts is not covered by that warranty.
 
 ### Repair Facility
-`chevrolet_cruze_en_a6c4574b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 GM also recommends that you choose a collision repair facility that meets your needs before you ever need collision repairs. Your dealer may have a collision repair center with GM-trained technicians and state-of-the-art equipment, or be able to recommend a collision repair center that has GM-trained technicians and comparable equipment.
 
 ### Insuring the Vehicle
-`chevrolet_cruze_en_533fb6da` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Protect your investment in the GM vehicle with comprehensive and collision insurance coverage. There are significant differences in the quality of coverage afforded by various insurance policy terms. Many insurance policies provide reduced protection to the GM vehicle by limiting compensation for damage repairs through the use of aftermarket collision parts. Some insurance companies will not specify aftermarket collision parts. When purchasing insurance, we recommend that you ensure that the vehicle will be repaired with GM original equipment collision parts. If such insurance coverage is not available from your current insurance carrier, consider switching to another insurance carrier.
 
 If the vehicle is leased, the leasing company may require you to have insurance that ensures repairs with Genuine GM Original Equipment Manufacturer (OEM) parts or Genuine Manufacturer replacement parts. Read the lease carefully, as you may be charged at the end of the lease for poor quality repairs.
 
 ### If a Crash Occurs
-`chevrolet_cruze_en_c9b5132b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If there has been an injury, call emergency services for help. Do not leave the scene of a crash until all matters have been taken care of. Move the vehicle only if its position puts you in danger, or you are instructed to move it by a police officer.
 
@@ -10782,7 +9951,6 @@ Choose a reputable repair facility that uses quality replacement parts. See “C
 If the airbag has inflated, see What Will You See after an Airbag Inflates? 0 80.
 
 ### Managing the Vehicle Damage Repair Process
-`chevrolet_cruze_en_1cb3abc3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 In the event that the vehicle requires damage repairs, GM recommends that you take an active role in its repair. If you have a pre-determined repair facility of choice, take the vehicle there, or have it towed there. Specify to the facility that any required replacement collision parts be original equipment parts, either new Genuine GM parts or recycled original GM parts. Remember, recycled parts will not be covered by the GM vehicle warranty.
 
@@ -10791,12 +9959,10 @@ Insurance pays the bill for the repair, but you must live with the repair. Depen
 If another party's insurance company is paying for the repairs, you are not obligated to accept a repair valuation based on that insurance company's collision policy repair limits, as you have no contractual limits with that company. In such cases, you can have control of the repair and parts choices as long as the cost stays within reasonable limits.
 
 ### Service Manuals
-`chevrolet_cruze_en_fe78b19a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Service Manuals have the diagnosis and repair information on the engines, transmission, axle, suspension, brakes, electrical, steering, body, etc.
 
 ### Owner Information
-`chevrolet_cruze_en_75e8b3b0` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Owner publications are written specifically for owners and intended to provide basic operational information about the vehicle. The Owner’s Manual includes the Maintenance Schedule for all models.
 
@@ -10809,7 +9975,6 @@ Without Pouch: Owner’s Manual only.
 RETAIL SELL PRICE: \$25.00 (U.S.) plus handling and shipping fees.
 
 ### Current and Past Models
-`chevrolet_cruze_en_cf269885` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Service and Owner publications are available for many current and past model year GM vehicles.
 
@@ -10828,7 +9993,6 @@ funds. Make checks payable in U.S.
 funds.
 
 ### Radio Frequency Statement
-`chevrolet_cruze_en_a5ae8cfd` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle has systems that operate on a radio frequency that complies with Part 15/Part 18 of the Federal Communications Commission (FCC) rules and with Innovation, Science and Economic Development (ISED) Canada's RSP-100 license-exempt RSS's / ICES-001.
 
@@ -10840,7 +10004,6 @@ Operation is subject to the following two conditions:
 Changes or modifications to any of these systems by other than an authorized service facility could void authorization to use this equipment.
 
 ### Reporting Safety Defects to the United States Government
-`chevrolet_cruze_en_444c8f8b` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you believe that your vehicle has a defect which could cause a crash or could cause injury or death, you should immediately inform the National Highway Traffic Safety Administration (NHTSA) in addition to notifying General Motors.
 
@@ -10855,7 +10018,6 @@ information about motor vehicle safety from http://
 www.safercar.gov.
 
 ### Reporting Safety Defects to the Canadian Government
-`chevrolet_cruze_en_62b32db0` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you live in Canada, and you believe that the vehicle has a safety defect, notify Transport Canada immediately, and notify General Motors of Canada Company. Call Transport Canada at 1-800-333-0510; go to:
 
@@ -10871,7 +10033,6 @@ Recalls Division
 Gatineau, QC J8Z 0A1
 
 ### Reporting Safety Defects to General Motors
-`chevrolet_cruze_en_58e11cc2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 In addition to notifying NHTSA (or Transport Canada) in a situation like this, notify General Motors.
 
@@ -10893,12 +10054,10 @@ CA1-163-005
 Oshawa, Ontario L1H 8P7
 
 ### Vehicle Data Recording and Privacy
-`chevrolet_cruze_en_9b0bc2d5` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The vehicle has a number of computers that record information about the vehicle’s performance and how it is driven. For example, the vehicle uses computer modules to monitor and control engine and transmission performance, to monitor the conditions for airbag deployment and deploy them in a crash, and, if equipped, to provide antilock braking to help the driver control the vehicle. These modules may store data to help the dealer technician service the vehicle. Some modules may also store data about how the vehicle is operated, such as rate of fuel consumption or average speed. These modules may retain personal preferences, such as radio presets, seat positions, and temperature settings.
 
 ### Event Data Recorders
-`chevrolet_cruze_en_4ae4d545` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle is equipped with an event data recorder (EDR). The main purpose of an EDR is to record, in certain crash or near crash-like situations, such as an air bag deployment or hitting a road obstacle, data that will assist in understanding how a vehicle’s systems performed. The EDR is designed to record data related to vehicle dynamics and safety systems for a short period of time, typically 30 seconds or less. The EDR in this vehicle is designed to record such data as:
 
@@ -10911,22 +10070,18 @@ traveling.
 
 These data can help provide a better understanding of the circumstances in which crashes and injuries occur.
 
-### Note
-`chevrolet_cruze_en_6ae36f69` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-EDR data are recorded by your vehicle only if a non-trivial crash situation occurs; no data are recorded by the EDR under normal driving conditions and no personal data (e.g., name, gender, age, and crash location) are recorded. However, other parties, such as law enforcement, could combine the EDR data with the type of personally identifying data routinely acquired during a crash investigation.
-
-To read data recorded by an EDR, special equipment is required, and access to the vehicle or the EDR is needed. In addition to the vehicle manufacturer, other parties, such as law enforcement, that have the special equipment, can read the information if they have access to the vehicle or the EDR.
-
-GM will not access these data or share it with others except: with the consent of the vehicle owner or, if the vehicle is leased, with the consent of the lessee; in response to an official request by police or similar government office; as part of GM's defense of litigation through the discovery process; or, as required by law. Data that GM collects or receives may also be used for GM research needs or may be made available to others for research purposes, where a need is shown and the data is not tied to a specific vehicle or vehicle owner.
+> ℹ️ **Примечание:** 
+> EDR data are recorded by your vehicle only if a non-trivial crash situation occurs; no data are recorded by the EDR under normal driving conditions and no personal data (e.g., name, gender, age, and crash location) are recorded. However, other parties, such as law enforcement, could combine the EDR data with the type of personally identifying data routinely acquired during a crash investigation.
+>
+> To read data recorded by an EDR, special equipment is required, and access to the vehicle or the EDR is needed. In addition to the vehicle manufacturer, other parties, such as law enforcement, that have the special equipment, can read the information if they have access to the vehicle or the EDR.
+>
+> GM will not access these data or share it with others except: with the consent of the vehicle owner or, if the vehicle is leased, with the consent of the lessee; in response to an official request by police or similar government office; as part of GM's defense of litigation through the discovery process; or, as required by law. Data that GM collects or receives may also be used for GM research needs or may be made available to others for research purposes, where a need is shown and the data is not tied to a specific vehicle or vehicle owner.
 
 ### Infotainment System
-`chevrolet_cruze_en_6181b198` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the vehicle is equipped with a navigation system as part of the infotainment system, use of the system may result in the storage of destinations, addresses, telephone numbers, and other trip information. See the infotainment manual for information on stored data and for deletion instructions.
 
 ### OnStar Overview
-`chevrolet_cruze_en_5807332d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1 on SOS
 
@@ -10949,7 +10104,6 @@ Press to:
 Open the OnStar app on the infotainment display. See the infotainment manual for information on how to use the OnStar app.
 
 ### Or
-`chevrolet_cruze_en_09479791` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Make a call, end a call, or answer an incoming call. Give OnStar Hands-Free Calling voice commands. Give OnStar Turn-by-Turn Navigation voice commands. Obtain and customize the Wi-Fi hotspot name or SSID and password, if equipped.
 
@@ -10967,7 +10121,6 @@ Press > to get a priority connection to an OnStar Advisor available 24/7 to:
 Get help for an emergency. Be a Good Samaritan or respond to an AMBER Alert. Get assistance in severe weather or other crisis situations and find evacuation routes.
 
 ### Emergency
-`chevrolet_cruze_en_c971d1fd` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Emergency Services require an active, OnStar service plan (excludes Basic Plan). With Automatic Crash Response, built-in sensors can automatically alert a specially trained OnStar Advisor who is immediately connected in to the vehicle to help.
 
@@ -10978,38 +10131,32 @@ With OnStar Crisis Assist, specially trained Advisors are available 24 hours a d
 With Roadside Assistance, Advisors can locate a nearby service provider to help with a flat tire, a battery jump, or an empty gas tank.
 
 ### Security
-`chevrolet_cruze_en_07147cad` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If equipped, OnStar provides these services:
 
 With Stolen Vehicle Assistance, OnStar Advisors can use GPS to pinpoint the vehicle and help authorities quickly recover it. With Remote Ignition Block, if equipped, OnStar can block the engine from being restarted. With Stolen Vehicle Slowdown, if equipped, OnStar can work with law enforcement to gradually slow the vehicle down.
 
 ### Theft Alarm Notification
-`chevrolet_cruze_en_8dba66e7` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 If equipped, if the doors are locked and the vehicle alarm sounds, a notification by text, e-mail, or phone call will be sent. If the vehicle is stolen, an OnStar Advisor can work with authorities to recover the vehicle.
 
 ### Navigation
-`chevrolet_cruze_en_8d20e384` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 OnStar navigation requires a specific OnStar service plan.
 
 Press Q to receive Turn-by-Turn directions or have them sent to the vehicle’s navigation screen, f equipped.
 
 ### Turn-by-Turn Navigation
-`chevrolet_cruze_en_725b8f75` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press Q to connect to an Advisor.
 2. Request directions to be downloaded to the vehicle.
 3. Follow the voice- guided commands.
 
 ### Using Voice Commands During a Planned Route
-`chevrolet_cruze_en_447fac76` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Functionality of the Voice Command button may vary by vehicle and region. For some vehicles, press to open the OnStar app on the infotainment display. For other vehicles press = as follows.
 
 ### Cancel Route
-`chevrolet_cruze_en_18f2339d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press System responds: “OnStar ready,” then a tone.
 
@@ -11017,26 +10164,22 @@ Functionality of the Voice Command button may vary by vehicle and region. For so
 3. Say “Yes.” System responds: “OK, request completed, thank you, goodbye.”
 
 ### Route Preview
-`chevrolet_cruze_en_a5e16170` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press System responds: “OnStar ready,” then a tone.
 2. Say “Route preview.” System responds with the next three maneuvers.
 
 ### Repeat
-`chevrolet_cruze_en_2bc5d77e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press System responds: “OnStar ready,” then a tone.
 2. Say “Repeat.” System responds with the last direction given, then responds with “OnStar ready,” then a tone.
 
 ### Get My Destination
-`chevrolet_cruze_en_5f192643` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press System responds: “OnStar ready,” then a tone.
 
 2. Say “Get my destination.” System responds with the address and distance to the destination, then responds with “OnStar ready,” then a tone.
 
 ### Send Destination to Vehicle
-`chevrolet_cruze_en_8c618928` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Directions can be sent to the vehicle’s navigation screen, f equipped.
 
@@ -11045,14 +10188,12 @@ Press Q, then ask the Advisor to download directions to the vehicle’s navigati
 See www.onstar.com (U.S.) or www.onstar.ca (Canada).
 
 ### Connections
-`chevrolet_cruze_en_e6f28d0e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The following OnStar services help with staying connected.
 
 For coverage maps, see www.onstar.com (U.S.) or www.onstar.ca (Canada).
 
 ### Ensuring Security
-`chevrolet_cruze_en_10611419` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Change the default passwords for the Wi-Fi hotspot and
 myChevrolet mobile application. Make these passwords different from each other and use a
@@ -11064,7 +10205,6 @@ devices. Choose a unique name and avoid family names or
 vehicle descriptions.
 
 ### OnStar Wi-Fi Hotspot (If Equipped)
-`chevrolet_cruze_en_dadb9084` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The vehicle may have a built-in Wi-Fi hotspot that provides access to the Internet and web content at 4G LTE speed. Up to seven mobile devices can be connected. A data plan is required. Use the in-vehicle controls only when it is safe to do so.
 
@@ -11079,7 +10219,6 @@ infotainment display, then select Wi-Fi Hotspot. On some vehicles, touch Wi-Fi o
 After initial set-up, your vehicle’s Wi-Fi hotspot will connect automatically to your mobile devices. Manage data usage by turning Wi-Fi on or off on your mobile device, using the myChevrolet mobile app, or by contacting an OnStar Advisor. On some vehicles, Wi-Fi can also be managed from the Wi-Fi Hotspot menu.
 
 ### MyChevrolet Mobile App (If Available)
-`chevrolet_cruze_en_a64cc440` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Download the myChevrolet mobile app to compatible Apple and Android smartphones. Chevrolet users can access the following services from a smartphone:
 
@@ -11102,24 +10241,20 @@ For myChevrolet mobile app information and compatibility, see my.chevrolet.com.
 An active OnStar service, compatible device, factory-installed remote start, and power locks are required. Data rates apply. See onstar.com for details and system limitations.
 
 ### OnStar AtYourService
-`chevrolet_cruze_en_d88fbd25` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 OnStar Advisors can provide offers from restaurants and retailers on your route, help locate hotels, or book a room. These services vary by market.
 
 ### OnStar Hands-Free Calling
-`chevrolet_cruze_en_fc1cf341` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Make and receive calls with the built-in wireless calling service, which requires available minutes. Functionality of the Voice Command button may vary by vehicle and region. For some vehicles, press to open the OnStar app on the infotainment display, then select Hands-Free calling. For other vehicles press = as follows.
 
 ### Make a Call
-`chevrolet_cruze_en_a3867514` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press System responds: “OnStar ready.”
 2. Say “Call.” System responds: “Call. Please say the name or number to call.”
 3. Say the entire number without pausing, including a “1” and the area code. System responds: “OK, calling.
 
 ### Calling 911 Emergency
-`chevrolet_cruze_en_6a19c8f2` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press System responds: “OnStar ready.”
 
@@ -11128,13 +10263,11 @@ Make and receive calls with the built-in wireless calling service, which require
 4. Say “Call.” System responds: “OK, dialing 911.”
 
 ### Retrieve My Number
-`chevrolet_cruze_en_b3eca67d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press System responds: “OnStar ready.”
 2. Say “My number.” System responds: “Your OnStar Hands-Free Calling number is,” then says the number.
 
 ### Diagnostics
-`chevrolet_cruze_en_4f335237` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 By monitoring and reporting on the vehicle’s key systems, OnStar Advanced Diagnostics provides a way to keep up on maintenance. Capabilities vary by model. See www.onstar.com for details and system limitations. Message and data rates may apply. Advanced Diagnostics requires an active OnStar paid service plan, e-mail address on file, and enrollment in Advanced Diagnostics.
 
@@ -11152,14 +10285,12 @@ appointment.
 To begin, press Q to speak to an Advisor, or see www.onstar.com.
 
 ### OnStar Smart Driver
-`chevrolet_cruze_en_c8b922c9` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 OnStar Smart Driver provides information about driving behavior to help maximize overall vehicle performance, reduce wear and tear, and enhance fuel efficiency. An Insurance Discounts Eligibility feature is also offered within OnStar Smart Driver. See www.onstar.com for details regarding vehicle eligibility and system limitations.
 
 OnStar, General Motors, and their affiliates are not insurance providers. Obtain insurance only from licensed insurance providers.
 
 ### In-Vehicle Audio Messages
-`chevrolet_cruze_en_091289f7` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Audio messages may play important information at the following times:
 
@@ -11169,22 +10300,18 @@ every 60 days.
 After change in ownership and at 90 days.
 
 ### Transferring Service
-`chevrolet_cruze_en_1ba57141` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press Q to request account transfer eligibility information. The Advisor can cancel or change account information.
 
 ### Selling/Transferring the Vehicle
-`chevrolet_cruze_en_34f2b91d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Call 1-888-4ONSTAR (1-888-466-7827) immediately to terminate your OnStar services if the vehicle is disposed of, sold, transferred, or if the lease ends.
 
 ### Reactivation for Subsequent Owners
-`chevrolet_cruze_en_48868323` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press Q and follow the prompts to speak to an Advisor as soon as possible. The Advisor will update vehicle records and explain OnStar service options.
 
 ### How OnStar Service Works
-`chevrolet_cruze_en_c0bfc065` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Automatic Crash Response, Emergency Services, Crisis Assist, Stolen Vehicle Assistance, Advanced Vehicle Diagnostics, Remote Services, Roadside Assistance, Turn-by-Turn
 
@@ -11203,7 +10330,6 @@ compatible with the OnStar hardware. OnStar services may not work if the OnStar 
 See Radio Frequency Statement 0 377.
 
 ### Services for People with Disabilities
-`chevrolet_cruze_en_99a5fd9a` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Advisors provide services to help with physical disabilities and medical conditions.
 
@@ -11214,27 +10340,22 @@ Locate a gas station with an attendant to pump gas. Find a hotel, restaurant, et
 Provide directions to the closest hospital or pharmacy in urgent situations.
 
 ### TTY Users
-`chevrolet_cruze_en_d09ce49d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 OnStar has the ability to communicate to deaf, hard-of-hearing, or speech-impaired customers while in the vehicle. The available dealer-installed TTY system can provide in-vehicle access to all OnStar services, except Virtual Advisor and OnStar Turn-by-Turn Navigation.
 
 ### OnStar Personal Identification Number (PIN)
-`chevrolet_cruze_en_9f446c2f` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A PIN is needed to access some OnStar services. The PIN will need to be changed the first time when speaking with an Advisor. To change the OnStar PIN, contact an OnStar Advisor by pressing Q or calling 1-888-4ONSTAR.
 
 ### Languages
-`chevrolet_cruze_en_b17e2075` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The vehicle can be programmed to respond in multiple languages. Press Q and ask for an Advisor. Advisors are available in English, Spanish, and French. Available languages may vary by country.
 
 ### Potential Issues
-`chevrolet_cruze_en_b5a8f93b` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 OnStar cannot perform Remote Door Unlock or Stolen Vehicle Assistance after the vehicle has been off continuously for 10 days without an ignition cycle. f the vehicle has not been started for 10 days, OnStar can contact Roadside Assistance or a locksmith to help gain access to the vehicle.
 
 ### Global Positioning System (GPS)
-`chevrolet_cruze_en_f882058d` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Obstruction of the GPS can occur in a large city with tall buildings; in parking garages; around airports; in tunnels and underpasses; or in an area with very dense trees. If GPS signals are not available, the OnStar system should still operate to
 
@@ -11245,48 +10366,40 @@ In emergency situations, OnStar can use the last stored GPS location to send to 
 A temporary loss of GPS can cause loss of the ability to send a Turn-by-Turn Navigation route. The Advisor may give a verbal route or may ask for a call back after the vehicle is driven into an open area.
 
 ### Cellular and GPS Antennas
-`chevrolet_cruze_en_bf0b0ed6` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Cellular reception is required for OnStar to send remote signals to the vehicle. Do not place items over or near the antenna to prevent blocking cellular and GPS signal reception.
 
 ### Unable to Connect to OnStar Message
-`chevrolet_cruze_en_d8194fcb` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If there is limited cellular coverage or the cellular network has reached maximum capacity, this message
 
 may come on. Press Q to try the call again or try again after driving a few miles into another cellular area.
 
 ### Vehicle and Power Issues
-`chevrolet_cruze_en_d534bcc4` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 OnStar services require a vehicle electrical system, wireless service, and GPS satellite technologies to be available and operating for features to function properly. These systems may not operate if the battery is discharged or disconnected.
 
 ### Add-on Electrical Equipment
-`chevrolet_cruze_en_a3053f53` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The OnStar system is integrated into the electrical architecture of the vehicle. Do not add any electrical equipment. See Add-On Electrical Equipment 0 257. Added electrical equipment may interfere with the operation of the OnStar system and cause it to not operate.
 
 ### Vehicle Software Updates
-`chevrolet_cruze_en_44f03f85` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 OnStar or GM may remotely deliver software updates or changes to the vehicle without further notice or consent. These updates or changes may enhance or maintain safety, security, or the operation of the
 
 vehicle or the vehicle systems. Software updates or changes may affect or erase data or settings that are stored in the vehicle, such as OnStar Hands-Free Calling name tags, saved navigation destinations, or pre-set radio stations. Neither OnStar nor GM is responsible for any affected or erased data or settings. These updates or changes may also collect personal information. Such collection is described in the OnStar privacy statement or separately disclosed at the time of installation. These updates or changes may also cause a system to automatically communicate with GM servers to collect information about vehicle system status, identify whether updates or changes are available, or deliver updates or changes. An active OnStar agreement constitutes consent to these software updates or changes and agreement that either OnStar or GM may remotely deliver them to the vehicle.
 
 ### Privacy
-`chevrolet_cruze_en_1a98a709` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The complete OnStar Privacy Statement may be found at www.onstar.com (U.S.), or www.onstar.ca (Canada). We recommend that you review it. If you have any questions, call 1-888-4ONSTAR (1-888-466-7827) or press Q to speak with an Advisor. Users of wireless communications are cautioned that the privacy of any information sent via wireless cellular communications cannot be assured. Third parties may unlawfully intercept or access transmissions and private communications without consent.
 
 ### OnStar Software Acknowledgements
-`chevrolet_cruze_en_ab318959` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Certain OnStar components include libcurl and unzip software and other third party software. Below are the notices and licenses associated with libcurl and unzip and for other third party software please see http:// opensource.lge.com/index
 
 www.onstar.com/us/en/
 
 ### libcurl:
-`chevrolet_cruze_en_317b1c93` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 COPYRIGHT AND PERMISSION NOTICE
 
@@ -11299,12 +10412,10 @@ Permission to use, copy, modify, and distribute this software for any purpose wi
 THE SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
 
 ### OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN T
-`chevrolet_cruze_en_db22d8bf` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Except as contained in this notice, the name of a copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization of the copyright holder.
 
 ### unzip:
-`chevrolet_cruze_en_4a4028d3` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This is version 2005-Feb-10 of the Info-ZIP copyright and license. The definitive version of this document should be available at ftp:// ftp.info-zip.org/pub/infozip/ license.html indefinitely.
 
@@ -11335,7 +10446,6 @@ Info-ZIP URL(s).
 4. Info-ZIP retains the right to use the names “Info-ZIP,” “Zip,” “UnZip,” “UnZipSFX,” “WiZ,” “Pocket UnZip,” “Pocket Zip,” and “MacZip” for its own source and binary releases.
 
 ### Index
-`chevrolet_cruze_en_a0160d96` | cruze | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 #
 
@@ -11370,7 +10480,6 @@ Auxiliary Devices 175
 Avoiding Untrusted Media Devices 169
 
 ### B
-`chevrolet_cruze_en_17832793` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Battery Exterior Lighting Battery Saver 160 Power Protection 160
 Battery North America . . . 279, 333
@@ -11457,7 +10566,6 @@ Loss of Control 199
 Off-Road Recovery 198
 
 ### E
-`chevrolet_cruze_en_4d18f0e2` | cruze | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 Electrical Equipment,
 Add-On 257
@@ -11496,7 +10604,6 @@ Block 291 Fuses and Circuit Breakers 290 Instrument Panel Fuse
 Block 295
 
 ### G
-`chevrolet_cruze_en_02aca989` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Gas Strut(s) 283
 Gauges Engine Coolant Temperature 127
@@ -11506,7 +10613,6 @@ Glove Box 107
 GM Mobility Reimbursement Program 371
 
 ### H
-`chevrolet_cruze_en_be2eac23` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Halogen Bulbs 284
 Hands-Free Phone 181
@@ -11570,7 +10676,6 @@ Low-Profile Tires 299
 Lower Anchors and Tethers for Children (LATCH System) 94
 
 ### M
-`chevrolet_cruze_en_dba13ec3` | cruze | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Maintenance Records 362
 Maintenance and Care Additional 356
@@ -11664,7 +10769,6 @@ Running out of Fuel 253
 Running the Vehicle While Parked 218
 
 ### S
-`chevrolet_cruze_en_6d57e64e` | cruze | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Safety Defects Reporting
 Canadian Government . 378
@@ -11740,7 +10844,6 @@ Turn and Lane-Change Signals 157
 U Uniform Tire Quality Grading . . . 315 Up-Shift Light 133
 
 ### S
-`chevrolet_cruze_en_c86ebebf` | cruze | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 Updates Software 165 USB Port 169 Using This Manual 2
 
@@ -11793,4 +10896,3 @@ Rear Washer .112
 Wireless Charging 117
 
 ![](images/9aae7445838b273e4aad682ecc836daec7275196634930463267ef0ac12d22ae.jpg)
-

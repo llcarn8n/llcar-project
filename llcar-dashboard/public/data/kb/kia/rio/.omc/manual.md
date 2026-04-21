@@ -1,8 +1,10 @@
-# Manual: kia/rio (974 chunks)
-<!-- doc_type:unknown tier:4 lang:en -->
+---
+brand: kia
+model: rio
+generation: .omc
+source: kb
+---
 
-### Section p.1
-`kia_rio_en_d830ff32` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TPETNNPИM PEMOHT 6E3 IPO5NEM KIA RIO
 
@@ -48,17 +50,14 @@ KHnranpenHa3HaueHangaBTonlonenen CneLnanNCTOB CTO.
 3aBenylounn penakunenPemoHT 6e3npo6neMA.B. KOHApaTbeB Bbinyckaioun penaktopM.B. TNTKOB PenakTopbl-CoCTaBNTenN: C.H.Horpe6Hon,A.A.BnannpoB nntepaTypHblpenaktop.c. TkayeBa NHxeHepHO-TexHnueckag rpynna: A.5.4NMNH, B.A.XpeHOB KOMNbIOTepHa9BepCTKaA.B. Bpanueb XynoxeCTBeHHbllpenaKTopA.IO.4epeneHNH XyAOXHNKA.A.Cy660TNH on6opN nonroToBka NnnocTpauNO.E. CnNHbKO OTBETCTBeHHbIceKpeTapb E.B. MenBeneBa
 
 ### 几nTepaTypyN3AaTenbCTBaTpetun PNMBpO3HNuy BblMoxerenpno6pectnnoaApecy:
-`kia_rio_en_48b8bd20` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 M.KOxyXOBCKag, yn.IOXHOnOpTOBaR, A. 22, TBK"ABTOMOBNNN", nepBbli əTax,npaBag 4actbueHTpanbHoro BxonanpAMO, naB N108 (905)552-52-38, (901) 545-09-75 4acblpa6oTbl: NH.-NT. C9:00A0 20:00,c6., BC.C9:00018:00 E-mail:avtokniga-108@yandex.ru r.ya, KHNKHble Mara3nHbl“naHeTa",EnuHagcnpaBO4Hag (347) 284-84-88
 
 ### NpeACTaBnTenbCTBa:
-`kia_rio_en_0c695dff` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 .H.HoBropon, OOOTpeTui PuM-oBonxbe,yn. HaponHaa,22, (831)463-87-87, 276-27-47 r.C.-erep6ypr,OOO TpeTniPuM CaHkT-lerep6ypr",yn. Konn Tomuaka, A. 8,(812)305-38-10 r.EkaTepnH6ypr, OOO“TpeTui PuM-ypan，yn.JoAblrnHa, 4, oΦnc (343)228-40-61
 
 ### Hawn ANCTPn6bIOTOpbl:
-`kia_rio_en_aac134ed` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 r.HoBocu6upck,OOO “CTapKOM-KHra>,yn. Cu6upAKOB-BapAeviueB,42(3naHne N3natenbCTBa“CoBeTCkaa Cn6upb")(383)22-77-126 r.PoCTOB-Ha-OHy,NNKy3bMNHaИ.5. nep.AOnOMaHOBCKNi,A 82/133(8632)67-42-16 r.yΦa,OOO“ToproBblnAOM“ArnnenbABTO”, yn. AOHCK0r0,65/2(347)260-55-99,260-72-67 240-02-00,240-02-11 r.4eng6nHck,NyauoBaO.C.yn.Poccnnckaa,A.275,ar 5yMep(351)237-97-92，(912)894-36-07 .Bonrorpan,Nn TpenwnH B.B. yn.Mon4an0Ba,A.6（987)641-21-71
 
@@ -69,12 +68,10 @@ BHNMaHNe!3aHe3aKOHHOeBOCnpON3BeneHe,pacnpoCTpaHeHne,OBeneHneAOBCeo6ueroCBeneHn(e
 HeCMOTPA HaTO, 4TOnPNHATbIBCe MepbAnAnpenOCTaBeHATO4HbIxAaHHbIXBN3AaHNNaBTOpbI,N3AaTenN 心 NOCTaBLNKNN3naHNA HeHeCyOabTBeO Hpe onncaHoBneab30.01.12.opMar60x90/.6yMaraoceTHag.e4aboceTHa.euaHbxnCToB40 Tupax 30003k3. 3aka3N 170. TeKCTOTneyaTaHCopNrnHan-MakeTa,npenoCTaBneHHoroOOONTP" BOOO“4e6okcapckaTnorpana N1 428019, 4e6oKcapbl，np.N.KoBneBa,15
 
 ### DNKTOTPAMMb
-`kia_rio_en_1a4970f0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 bonbWNHCTBO NOAPa3AenOB KHNrNHaUNHaIOTCA C NNKTOrpaMM, nOKOTOPbIM nepeAHayanoMpa6otbl MOKHOOLeHNTb ee CNOKHOCTb N BpeMA BbINONHHnn. CneAyeTyuNTbIBaTb, 4T0 NNKTOrpaMMbIAaHbl B pacyete HanpOBeAeHNe KOHKpeTHOn onepaunn 6e3y4eTa CCbIOKHa nOArOTOBNTenbHblepa6oTbl. Ang onpenenenngo6mero BpeMeHN, Tpe6yemoro AA BbInOnHHNn pa6oTbl,HyHO npocyMMNpobaTb 3aTpaTbl BpeMeHN noBCeM NOArOTOBNTenbHbIMOnePaLNAM. m
 
 ### CTENEHb CJOKHOCTN PAbOTbI OLEHEHHAЯ YCNOBHONONTNBAINHONLKAIE
-`kia_rio_en_1487fc53` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/d2ceae3a2bd3e2f7ac671b7abfa49af032caf23073e15bfb32af4eecd962f5a7.webp)
 
@@ -83,7 +80,6 @@ CnOXHOCTb Han6onee npocton pa6oTbl COCTABAeT 《1》 (OANH KpacHbln KBanpaTNK B 
 ![](images/3689ba20c843e266be6e3d3b7d4b0ea5e73308994924ba7de56f162b6df0f983.webp)
 
 ### KONN4ECTBO NCNONHNTENEN HEOEXOANMOEAA BINONHEHNA PAbOTbI
-`kia_rio_en_6937fb5f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/93f9a2e5a3ade64b8cfc342827eaf4fbe1f62446f18a50aec32a8160295c5c5d.webp)
 
@@ -94,7 +90,6 @@ EcnNHanNKTOrpaMMeAaHbICNMBOnbIAByX 4enOBeK， npNBblNonHeHNnAaHHonpa6oTbI nOTpe6
 ![](images/243da6b1e917f1bc2a74510d95be82c45bc795c9eae3d2f06a497746a01419f8.webp)
 
 ### MECTO NPOBEAEHNA ONEPALNN
-`kia_rio_en_435af6ab` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 !
 HA MALUHHE
@@ -112,7 +107,6 @@ HOMHa BepCTak NnNCTeHA.五
 ![](images/83d30e390a28eaeab503b58819d2596cba199f1d352d8d01599a92e8e318cf5d.webp)
 
 ### BPEMA NPOBEAEHNA ONEPALNN
-`kia_rio_en_71cd7d9c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/1fb9e5737c21fd41652ec20d1e440b3476bb383db88fa76f2dfb9c66fa9dcca1.webp)
 
@@ -121,7 +115,6 @@ BpeMa, MNHNManbHOHeoGXonNMoeJngBblOHeHnpaOTbl N onpeneneHHoe XpOHOMeTpaxeM B npo
 ![](images/82e36cb02c79fe79963e67e305fd062b0a41e6c787a9a19d8b10ef55a3a10747.webp)
 
 ### PA3AEN1. yCTPONCTBO ABTOMOGNNA 8
-`kia_rio_en_3f721072` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 wne ceAenn 06aBTOMo6nne
 NacnopTHbleAaHHble
@@ -144,12 +137,10 @@ ynpabneHne Kopo6koN nepeAay
 BeweBble nkn canoHa 33
 
 ### NpaBNna TeXHNKN 6e3onacHoCTNN pekOMeHAaLnn .34
-`kia_rio_en_843ca22e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpaBunaTexHukN 6e30nacHoCTN 34 PeKOMeHAauNNno3kcrsiyaTaunn 3434 PekoMeHAaunNno 6e3onaCHOCTNABNXeHNg 6kaTka abTOMO6nng 3535 nnyaauns aomoonns BrapaHTnNHbinnepNoA NOArOTOBKa aBTOMOOnng K Bble3Ay 1 3537 3anpaBka aBTOMo6wng TONNNBOM Nob3OBaHNe AOMKpaTOM .38 6yKCNpOBka aBTOMo6nng 39
 
 ### BNraTenb He 3aBOANTCA
-`kia_rio_en_a3798f57` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 O6mnenpuemblnycka ABurateng 40 HeNcnpaBHOCTNB CNCTeMenycka .40 poBepKa CNCTeMbl 3axnraHng .40 poBepkaCNCTeMblnNTaHng ABnraTeng 4
 leNcnpaBHOCTN CNCTeMbl BNPbICKaTONJINBa 1 443
@@ -162,7 +153,6 @@ ABTOMO6Nnb oxopasrohgercg
 ABNraTenb 3arnOx BO BpeMsABKeHNg .45
 
 ### ynanoAaBneHne Macna
-`kia_rio_en_3dd67793` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 水 pobepka CNCTeMbICMa3KN 46
 neperpeb ABNraTens 47444848 npoBepka CNCTeMbIOXJaKAeHNg
@@ -176,12 +166,10 @@ ao Npoka4kaTOpMO3Hon CNCTeMbI KoJece 550552 NpOBepKaTOpMO3HOi CNCTeMbl
 Npokon koneca 3aMeHaKoneca 52535 PeMOHT6eCKaMepHoNWNHbl
 
 ### PA3AEN 4. TEXHN4ECKOE OECNYKNBAHNE 55
-`kia_rio_en_73060055` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Huwne nonooenn .55 TpaBnna TeXHNKN 6e30nacHoCTN .55 EkeAHeBHoe o6cnyKnBaHne (EO) .56 NpoBepkaKonec .56 NpobepkaypOBHg N AOnNBkaMacnaBCNCTeMy CMa3KN .57 NpoBepkaypOBHg N AOnnBkapa6oyennAKOCTN BaBTOMaTu4eckyiOKOpookynepenay .58 npobepka yPOBHA N AOnnBkapa6oyennAKOCTN 三 B6a4OKrnApoycnnntenspyneBoroynpaBneHng 1 . .59 Npobepka yPOBHa AOnnBkaoxnaxnaiowenXnnKOT .59 npoBepkaypOBHg N AOnNBKa TOPMO3HONNAKOCTN P 6a4OKrNAPOnPNBOnOBTOpMO3HON CHCTeMbl NBbknOCn .60 poBepka yPOBHNAOnBkaKAKOCT B 6a4OkOMbIBaTeng  61 npoBepka BHeWHNXOCBeTNTeAbHbIXnpN6OPOB 1  61
 
 ### PA3AEN5. ABNrATENb 63
-`kia_rio_en_4e00cf77` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Oco6eHHOCTN KOHCTPyKUNN .63
 None3HbleCOBeTbl .65
@@ -199,7 +187,6 @@ Oco6eHHOCTNpeMOHTa .82
 CHATNe NyCTaHOBKa pacnpenenNTebHblX BaOB 82
 
 ### PeMOHTABNraTeng .84
-`kia_rio_en_ecdd6b6d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHTNeN yCTaHOBka AeTanen NNUVOY HONN00
 WaTyHHO-nopwHeBonrpynnbl .84
@@ -208,14 +195,12 @@ AeceKTOBkaAeTanei 山aTyHHO-nOpWHeBON rpynnbl SO9TO HO
 CHATNe,AeeKTOBKa S yCTaHOBkaKOJeH4aTOrOBana 87
 
 ### CNCTeMaCMa3KN 88
-`kia_rio_en_0e390477` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Oco6eHHOCTN KOHCTPyKUNN 1 · 电 1 .88
 3aMeHaMaca BABNraTene NMaCnHOroubpa . . .89
 CHTne,AeeKTOBkan yCTaHOBkaMaCngHOrOHaCoca 90
 
 ### Hctema oxnaxAehng .91
-`kia_rio_en_2438a3e4` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Oco6eHHOCTNKOHCTPyKLNN 4 91
 3aMeHaoxnaxnaouennnKocTN .92
@@ -227,7 +212,6 @@ CNCTeMbIOxnaxAeHngABnraTengBc6opeCKOXyXOM .96
 CH9TNeNyCTaHoBkapacuupNTenbHoro6auka .98
 
 ### CNCTeMa nNTaHNg .98
-`kia_rio_en_0d9470e3` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Oco6eHHOCTNKOHCTPyKLNN . · .98
 TipobepkaAaBneHng R CNCTeMenNTaHNA ABNraTeng . 100
@@ -246,12 +230,10 @@ CHATNeNyCTaHOBKaanCop6epaCNCTeMbl 4
 yJaBnNBaHngnapOBTonnnba .110
 
 ### CNCTeMa Bblnycka OTpa6OTaBWNXra3OB .111
-`kia_rio_en_80c124c8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Oco6eHHOCTNKOHCTPyKLNN .1113aMeHanoAywek NOABeCKN CNCTEMbI BblryckaOTpa6OTaBWNX ra30B ， .111CH9TNeN yCTaHOBKaKaTKONneKTopa 1 112CHATNe yCTaHOBkaCNIbΦOHa .112CHATNe NyCTaHOBKaAONONHNTeNbHOrOKaTaNNTNyeCKOrOHeNTpann3aTopa N AONOnHNTenbHOrOFnyUNTeng .113CHATNe NyCTaHOBKa OCHOBHOrOFIyWNTeNg 1 1 · 114CHATNe M yCTaHOBKaTepMO3KpaHOB CNCTeMbI 9 CBbInlyCKkaOTpa6OTaBWNxra3OB 114
 
 ### CuenneHne 115
-`kia_rio_en_0efe515d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OcO6eHHOCTN KOHCTPyKLNN · 115 NpobepkaNperynupobkaxona nenann npnBona
 BblknoyengcLnnng 116 pokaykarnAPonpnBonaBbIKlIoueHngCuenneHng 1 .116 CHATNe NyCTaHOBKa cLennenng 117 3aMeHanoAwunHnka BNNKN BbIKIOYeHNg cAennennn .119 3aMeHaraBHoro LnnHapa npnbona
@@ -261,7 +243,6 @@ BblKJ1I04eHNA Cuennenng 121
 3aMeHaWnaHraNTpy6kn ruaponpnbona NHGION 江 BbIKnloyeHngCueneHng 122 CHTNeNyCTaHOBKa nenanncuennenng 中 122 MexaHnyeckagkopo6kanepeAay .124 OCO6eHHOCTNKOHCTPyKLNN 124 poBepkaypOBHg, AONNBKa N 3aMeHa Macna 商 XN POHONSH BMexaHuyeckonkopo6kenepenay .124 3aMeHacanbHukOBMexaHNyecKoiKopo6kunepenay 126 CHATNe NyCTaHOBkaMexaHuyeckoiKopo6kNnepenay 127 3aMeHaTpoCOBynpaBneHNgMexaHnyecKoN RIOTNINO KOpo6kon nepenay 130 PerynNpoBkanpuBOAaypaBneHngMexaHnueckon 9 BH9 KOpo6kon nepenay . 131 CHaTNe NyCTaHOBkaKynNcblpbluaraynpaBneHNg MexaHN4eckonKopo6kon nepenay 132 ABTOMaTnyeckasKopo6kanepeAay .132 Oco6eHHOCTNKOHCTPyKLNN . 中 132 3aMeHapa6ouennnKOCTNB aBTOMaTN4eCKON kopo6kenepenay 134 3aMeHaCabHNKOBaBTOMaTW4eCKON kopo6knnepenay 136 CHaTNe NyCTaHOBKaaBTOMaTu4eCKONKOpO6kNnepenay 136 3aMeHaTpocaynpaBneHn9aBToMaTuyeckon 配 KOp06kon nepenay .138 CHATNe NyCTaHOBKa KynncblcenekTopaynpaBeHng 00 aBTOMaTuyeckoNKopo6konnepenay . 0 139 PerynnpoBkanpuBonaynpaBnen 100T 8N000N AF aBTOMaTuyeckonKopo6konnepenay 0 .140 NpnBOAbI nepeAHNX KOnec .141 Oco6eHHOCTNKOHCTPyKLNN 141 poBepka3aWNTHbIx4eXnOB WapHupOb NOY OHMVYASE paBHbIXyrSOBbIXCKopOCten 1 .141 CHATNeNyCTaHOBKa npNBOAOBNepeAHNXKOnec 1 5 .142 3aMeHaWapHNpOB paBHbIXyrnOBbIXCKOpOcten .143 PA3AEN7. HACTb 145
 
 ### NepeAHgs nogBecka .145
-`kia_rio_en_ac2b95b2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Oco6eHHOCTNKOHCTPyKLNN 1 145
 poBepka TeXHN4eCKOrO COCTOAHNATaneN HH
@@ -278,7 +259,6 @@ CHTNeNyCTaHOBKa nOBOpOTHoroKynaka. 152
 CHATNeNyCTaHoBka nonepeyNHbI nepenHen nOABecKN M .154
 
 ### 3aAHgg noABecka .156
-`kia_rio_en_f0e76fef` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Oco6eHHOCTN KOHCTpyKUNN 3 156
 npobepka TEXHN4eCKOrOCOCTOAHNRAeTanen 8
@@ -290,12 +270,10 @@ CHTNeNyCTaHOBKa CTynNLbI 3aqHero koneca 159
 3aMeHa6ankn3aHei nOABeckn A 1 160
 
 ### PA3AEN8. PYNEBOE YNPABNEHNE 161
-`kia_rio_en_16db3a7f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Oco6eHHOCTN KOHCTPyKUNN 161 OcMOTpNnpobepkapyneboro ynpabnenng RH9MS8XN HaaBTOMO6nne 161 NpoBepka CBo6oAHorO xOAa (nOΦTa) RO oy pyneboro koJeca 162
 
 ### PynebagKOnOHka 163 CHATNe NyCTaHOBKaaKkKyMyngTOpHON6arapen .201
-`kia_rio_en_0662a48c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHATNe N yCTaHOBkapyneborokoneca .163 CHATNe yCTaHOBKa KOxyxa pyneBoNKOnOHKN .164 CHTNeN yCTaHOBKapynIeBONKONOHKN 164
 Pynebble TarN .165 3aMeHaHaKOHeyHukapynebon TArN 165 3aMeHapynebon TArN 166
@@ -326,7 +304,6 @@ AKKyMynTopHag6arapea .200
 Oco6eHHOCTN KOHCTPyKLNN .200
 
 ### TeHepaTop .201
-`kia_rio_en_7ea5de58` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Oco6eHHOCTNKOHCTPyKUNN .201
 3ameHapeMHg npuBona BCNOMOraTenbHbIXarperaTOB .202
@@ -371,7 +348,6 @@ HATNeNyCTaHOBKa pe山eTKN KOpo6a Kopo6a BO3AyxonpNTOka 242
 KanoT 2 1 · .242 CHATNe CTaHOBKaKanoTa CHaTNe CTaH HOBKa 3aMkakanota .243 CHTNe yCTaHOBKa npubona 3aMkakanota ·· .243
 
 ### TeHepaTop .201
-`kia_rio_en_d123c491` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Kpblwka 6araxHnka 244 CHATNe yCTaHOBKao6nNLOBkNKpbI山KN6araXHNka .244 CHATNe CTaHOBKa BblKIIO HaTeng 3aMka KPbIWKN baraxHNka CHATNe CTaHOBKa 3aMka KPbIWKN 6araxHuka .244 CHATNe yCTaHOBKa KPbIWKV 6araxHuka ··· .245
 CHATNe N yCTaHOBka O6nNuOBOK 6araXHNka .246
@@ -417,7 +393,6 @@ KhANoNHNHNn M BHTHNSLNN .286
 PA3AEN13. CNCTEMbI 6E30NACHOCTN .289
 
 ### TeHepaTop .201
-`kia_rio_en_215584d6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AHTN6NOKNpOBO4HagCNCTeMa TOpMO3OB (ABS) .289 Oco6eHHOCTNKOHCTPyKINN .289 3aMeHaAaT4NKOB 4aCTOTbIBpa山eHNg Konec 289 CHЯTNeNyCTaHOBkarnApoaneKTpOHHOrO BonynN 4 .290
 CNCTeManaccNBHoi 6e3onaCHOCTH (SRS) · .291 OCo6eHHOCTN KOHCTPyKUNN .291 CHaTNe S yCTaHOBKanOAy山KN6e3OnaCHOCTNBOANTeng 293 CHTNeN yCTaHOBKaKOHTaKTHOrOKOnbua noAyWkN6e3onaCHOCTN BOANTeng 294 CHATNeN yCTaHOBkanOAy山KN6e3onaCHOCTN nepeqHeronaccaxupa .294 CHTNeNyCTaHOBKa nepeqHuxpeMHei6e3onaCHOCTN .295 CHTNeN yCTaHC HOBKa3aqHNxpeMHen6e3OnaCHOCTN 297 CHATNeNyCTaHOBka3neKTpOHHoro 6noka ynpaBnenng CNCTeMONnaccNBHo6e3OnaCHOCTN .298 3aMeHanaT4NKOB yAapa 298
@@ -426,7 +401,6 @@ CXEMbI 3NEKTPOOSOPYAOBAHNA .306
 NPEAMETHbIN YKA3ATEnb .319
 
 ### OBWNE CBEAEHNA 05 ABTOMOBNNE
-`kia_rio_en_cab7b906` | rio | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:unknown
 
 poAaxNHOBoNMOAenNKIARioTpeTbero NOkoneHNn B Poccun Ha4anncb C 1 HpAOPA 2011rona. ABTOMO6nnbCo3AaHcneLNanbHO Ag poccnuckoro pbIHka N BblnyckaeTCA Ha C6opO4HOM3aBOne Hyundai-KIABCaHKT-eTep6ypre.
 
@@ -461,7 +435,6 @@ B3aBNCNMOCTNOTKOMNeKTaLNN. AngabTomonng MexaHn4eckonKopo6konnepenay.
 Pnc.1.2.oAKanoTHe npocTpaHCTBO aBTOMOONnA ABnratenem1,4n:1-npo6ka6a4ka rNAPOyCNnNTenA pyneBoro ynpaBneHnR; 2 npaBaa onopa noABeckn cunoBoro arperara; 3-npo6ka MacnoHar ME HON TopnOBNHbl;4 Kpblwka ronoBkn6noka LNnNHAPOBABNraTenR; KpbIwKa CBe4HbIX KOnOAueB; AaTuNknonoxeHnapacnpeAenntenbHoro Bana; BaKyyMHbi yCunntenb TOPM030B; 6a40krnaBHoro TOPMO3HOrO UNnNHAPa NrnaBHoro LunNHApa BbIKNIOYeHNR cuenneHnA AR ABTON o6nnen MKN);9 3neKTPOHHbIN 6nok ynpaBneHng ABwraTeneM (35y);10 akKyMynaTopHaa6aTapea;11 MOHTAKHbIN 6noK pene npeAoxpaHnTenen;12 Kopnyc BO3AyWHoroΦnnbTpa; 13 BO3Ay KOnOABOAA山NNPyKaB rnywntenem wyma Bnycka;14 yka3atenb yPOBHA pa6oyeNNAKOCTW aBTOMaTW yeckoNkopo6kenepenay AnA aBTOMO6Nnen AKN); 15- npo6kapaANaTopaCuCTeMb xnaxAeHnAABnraTenA;16 3aMOK kanota; 17 TONnNBHaA paMna;18 BnyCKHaA rpy6a;19 -yka3atenb yPOBHA Macna(Macnon3MepnTenbHbIuyn）;20 reHepatop;21 3neKTpOMarHNTHbIN KnanaH CNCTEMbI N3- MeHeHNA a3ra3opacnpeAeneHNaCVVT;22 ropnoBnHa 6a4ka OMbIBaTenRBeTpOBOrOOKHa
 
 ### OBWNE CBEAEHNA 05 ABTOMOBNNE
-`kia_rio_en_163794d6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NepeAHgg nOABecka Tuna MaKdecoH, He3aBNcnMag,npyknHHag, COCTa6nN3aTOpOM nonepeyHon yCTON4NBOCTN, C rnApaBnnyeCKNMNaMOPTN3aTOPHbIMNCTOKaMN.
 
@@ -476,7 +449,6 @@ BceaBTOMo6unN OCHa山eHbI NHepuNOHHbl-MN ANaroHanbHbIMNpeMHaMN6e3OnaCHOCTNABOANT
 Ta6apuTHble pa3Mepbl aBTOMOonng noka3aHbl Ha pnc. 1.1. TexHNueckagxapakTepnCTNKa aBTOMonngnpnBeneHa B Ta6n. 1.1. neMeHTbI aBTOMO6nng, pacnonoxeHHbie B nOAKanOTHOMnpOCTpaHCTBe, NOCHOBHblearperaTbInpeACTaBneHbI Hapnc. 1.2-1.4.
 
 ### NACNOPTHbIEAAHHbIE
-`kia_rio_en_0cc9d1b8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NneHTnNKaLNOHHbIn HOMep(VIN)aBTOMO6wn9,npncBOeHHbliaBToc6opo4HbIM3aBOAOM, Ha3BaHNe3aBOna M cneLnnkaLnAaBToMo6nyka3aHbl BNAeHTnNKaLNOHHONTa6nNuke...
 
@@ -485,7 +457,6 @@ NneHTnNKaLNOHHbIn HOMep(VIN)aBTOMO6wn9,npncBOeHHbliaBToc6opo4HbIM3aBOAOM, Ha3BaH
 ...npnkneeHHon K nebon LeHTpanbHOn CTONkeKy3OBaaBTOMO6Nng.
 
 ### NPNMEYAHNE
-`kia_rio_en_19c7bd8a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AaHHbIi nAeHTnNKaUNOHHbIN HOMep npn perNCTpaLNN aBTOMO6nng B rNbAA BHOCNTCA B rpacy"VIN-KOA". G
 
@@ -504,7 +475,6 @@ PNC.1.4.OCHOBHbIe arperaTblaBTOMo6nA(BNACHN3yC3aAn):1,6 CynnopTblTOpMO3HbIXMeXaH
 ...NHa nony (BbInOnHeH KnenMeHnem) nOA KOBPNKOMCO CTOpOHblnepeAHeronaccaxnpa.
 
 ### NPNMEYAHNE
-`kia_rio_en_8755ac72` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 An Toro uTo6bI npoyecTb HaHeceHHbl KnenMeHNeM NAeHTnNKaUNOHHbIN HOMp,HeO6xOANMO OTOABNHyTb CNAeHbe Ha3aA, noApe3atb HOKOM KOBPNK...
 
@@ -538,14 +508,12 @@ PacwnopoBka 0603Ha4eHng ABNraTens, HanpnMep, G4FABW000000:
 G-6eH3NHOBbI; 4-YnCnO UnnNHAPOBABNraTeng; FA-KOApa6o4eroo6beMa TunaABuraTeng; B-roABbInyckaABnraTeng; W-KOA3aBOna-N3rOTOBTeng; 000000 -cepNNHbIN HOMepABNraTeng.
 
 ### KNIOYN ABTOMOBNNA
-`kia_rio_en_dd816725` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/b0606b9569b0543cc385860935e50699c0cbb45e68fb942b294d4b684a46a450.webp)
 
 B KOMnneKT npocTbIx Knoyen, B KOTOPbIN BXOAAT ABaKIo4aAn6npkacHOMepOMcepuNKnloyen. KaXAbIMKIOYOMN3KOMnekTa MOKHO OTnepeTb 3aMKN nepeAHNXABepenN BKNIO4NTb3aXNraHne.
 
 ### NONE3HbIN COBET
-`kia_rio_en_e796d509` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CoxpaHNTe 6npky:4To6bl He MeHATb 3aMKN B cnyyae yrepnKnoyei,no NX HOMepy Ha3aBOAeN3rOTOBNTeNeMOKHO3aKa3aTb HOBbIeKIO4N.
 
@@ -574,7 +542,6 @@ AnpnBeneeng KIo4a B pa6o4ee nonoXeHNeHaXMNTe Ha KHOnKyHa nynbte...
 ...cTepxeHb Klo4a3anmerpa6o4eenonoeHNe.4To6bly6paTb CTepxeHbKlouaB KOpnycnynbTa,HaxMTe Ha KHONKynOBePHNTe CTep\*eHbpykOnAO山en4ka;
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_63178594` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Nonbltka noBopota CTepxHg Kloya 6e3 HakaBUA HaKHOnkynpNBeAeT KnonoMkeKsioya.
 
@@ -587,7 +554,6 @@ Ang NBneyeHNA MexaHN4eCkoro Ko4a HaXMNTeHaKHOnKy AN,yAepxnBagKHonky, N3BeKNTeKIO
 BKOMnnekTeCpacKsaAHbIMNKnloyaMN3aKNraHng (CKHOnKaMNANCTaHuNOHHOrO ynaBeHn3aMkaMnABepeaBTOMo6nn3aMKOMKpbI山kn6araxHnka) TakxeecTb6npka C HaKeNkoNKOna Knioya.
 
 ### NNE3HN COBET
-`kia_rio_en_bab71137` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CoxpaHnTe HaKnenikN: 4TO6bIHeMeHATb3aMKN Bcnyuae yrepnKnioyen, nOKOAyHa3aBOAe-N3- rOTOBNTeneMO>KHO3aKa3aTbHOBble KIOLN.
 
@@ -602,19 +568,16 @@ An3aMeHbl6aTapeiknBnynbTe ynpabneHNABbInonHnte cnenyioWne onepaLnN.
 2.N3BneknTeN3Kopnyca6aTapenky.
 
 ### NPNMEYAHNE
-`kia_rio_en_718ec0e3` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B 6noke ANCTaHuNOHHorO ynpaBnehng npnMeHAeTcg 6arapenka CR2032. O6paTnTe BHNMaHneHa Mapknpobky,4To6bI npno6pectn TO4HO TaKyIOXe HOByIO.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_2a527538` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pnycTaHoBke6aTapenknco6nioAautenonapHOCTb: nonoXnTenbHbln nOnIoC 6aTapenkn AOnKeH6bITb CBepxy.
 
 3.ycTaHOBNTeHOByIO 6aTapeiky BnoPaAke,o6paTHOM CHATNIO.
 
 ### OPTAHbl YNPABNEHNA
-`kia_rio_en_791937d9` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 PacnonokeHNeopraHoBynpaBneHn9COOTBETCTByETHOPMaM N npabnnam no 6e3onacHOCTN E3KOOH.AnyAO6CTBanOnIb3OBaHNA Ha py4KN, KHOnKNNKOHTpObHblenpu6opbl, pacnonoxeHHbieHa naHennnpn6opoBApyrNx AONONHNTENbHbIX naHengx ynpaBneHna, HaHeceHbI CNMBOnbI NX yHKuNOHanbHorO Ha3Ha4eHNA.
 
@@ -622,7 +585,6 @@ PacnonokeHNeopraHoBynpaBneHn9COOTBETCTByETHOPMaM N npabnnam no 6e3onacHOCTN E3KO
 2-6nok ynpaBneHng HapyKHbiMN 3epkanaMN 3aAHero BNAa nO3BOnT OTperynNpOBaTbnookeHNe HapyKHbIX3epkan.
 
 ### NAHENb NPNBOPOB
-`kia_rio_en_2701a055` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha naHenn npn6opoB pacnonoxeHbl cneAylowneopraHbl ynpaBneHngN KOHTPONbHON3MepuTenbHblenpn6opbl (pnc.1.6).
 
@@ -674,7 +636,6 @@ O-BCe BbIKnlO4eHO;
 An CNrHanN3aLNn AabHNMCBeTOM Φap HaXMNTeHa pblyar nepeknioyatengno HanpaBNeHNIO KpyneBOMyKOneCy.pN3TOMBKOMOnHaunnnpnoopoB Takxe3aropNTCA CurHa几N3aTop10;
 
 ### NPNMEYAHNE
-`kia_rio_en_3d83522f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ang ChrHann3aunn AanbHNM CBETOM Φap BKNIOyaTb 6nNXHni CBeT HeoOs3aTenbHO.
 
@@ -700,7 +661,6 @@ B KOMNneKTaLNAX, npeAycMaTpnBaiownx yCTaHOBKy nepeAHNX npOTNBOTyMaHHbIX Φap, nO
 NPNME4AHNE
 
 ### 5-pyneboe koneco.
-`kia_rio_en_874394fa` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/73fd5c83633a77414fbefc6ce0597dd300007ee8b6c1cdb43887628b6d46dc8a.webp)
 Tak BbIrnsANtnepeksioyatenb HapyxHoro OCBeweHnsNyka3atene noBopotanpn ycTaHOBJeHHbIXnpOTNBOTyMaHHbIXapax.
@@ -716,7 +676,6 @@ Tak BbIrnsANtnepeksioyatenb HapyxHoro OCBeweHnsNyka3atene noBopotanpn ycTaHOBJeH
 7- BblKlloyaTenb (3aMOK) 3axnraHng 06beANHeH 5 nPOTNBOyrOHHbIMyCTpONCTBOM N npnemHon aHTeHHON NMMO6nnN3aTopa, pacnonoxeH Cnpabon CTOPOHblpysnebon KONOHKN.
 
 ### NPNME4AHNE
-`kia_rio_en_0e7b5e39` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/b00f4deb1c3d5b158101d012a8e9838441c887f034e7dfc14fc3211420230875.webp)
 BaBTOMO6NNIAX C CNCTeMON SmartKey (KOMnnektauns Premium) AA nycka N OCTAHOBKN ABNraTens NCNOnb3yeTCsKHOnka.
@@ -772,7 +731,6 @@ NHTepBan pa6oTbl npepbIBNCToro pexnMa perynNpyeTCgnoBOpOTHbIMKOnbLOMAnepeKnlo4aT
 ...KpavHee BepxHeenonoxeHne- Han6onbwnW NHTepBan...
 
 ### NPNME4AHNE
-`kia_rio_en_7bd9d685` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/95af2a9cbcdd1e2e84dceea405970995e4d33f15f3d0eaef548f9f285d374e86.webp)
 ...kpaHeeHNXHeenOnoxeHne-HaNMeHbWN NHTepBan.
@@ -830,7 +788,6 @@ B3aBNCNMOCTN OT KOMNneKTaLNN MOKeT 6bITb yCTaHOBneH 6nok aBTOMaTN4eCKOrO ynpabne
 4 22 心 nenenbHnua (CM. "FlenenbHuua N
 
 ### NPNME4AHNE
-`kia_rio_en_8d077cd1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npnkypuBaTenb>,C.31). 9
 Y0 DO 业
@@ -868,7 +825,6 @@ Ang Toro 4T06bI pacTOpMO3NTb aBTOMO6Nnb,nOTAHNT pblyar HEMHOrO BBepx, HaxMNTe Ha
 31-6nok ynpaBnehng 3nektpokoppekTOpOM CBeTaΦap.
 
 ### NPNMEYAHNE
-`kia_rio_en_a23bfff3` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/9e848a88a20c759d936e02e66f445046c26946c3c495f2f25461b4a697dd9717.webp)
 
@@ -888,14 +844,12 @@ BpameHneM PyKORTKN perynstopa 3nekTpOKOppeKTOpaCBeTaΦapB3aBNCNMOCTN OT 3arpy3kN
 32 -6noKynpaBneHngnepeAHnMNCTeKNONOAbeMHNKAMN(CM. “Bepn,C.25）.
 
 ### NPNMEYAHNE
-`kia_rio_en_6f970b38` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/27f8193e5ba0de58147e4bfa8bdec8ec7e82794c43ac776e092e32c38909dda8.webp)
 
 B3aBNCNMOCTN OT KOMNJKTaLNN Ha aBTOMO6nne nPnMeHSIOT 6nok ynpaBnenng ACTeknoNOAbeMHNKAMN BCexABepen. B 3TOM cnyyae OH COBMeLeH CKnaBnwen 66nokupOBKN 3aMKOBABePen NKnaBnwen B 6noKNPoBKn CTeKsONOAbeMHNKOB (cM.“ABepn,C.25).
 
 ### KHMANHALNA NPN6OPOB
-`kia_rio_en_c224706b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B 3aBNCNMOCTNOT KOMnnekTaLNN aBTOMO6nngyCTaHaBnNBaIOTpa3nN4HbIeKOM6nHauNN npn6opob. B aBTOMO6nngX KOMnnekTaunn Comfortn LuxeyCTaHaBNNBaIOT KOMONHALNIO npn6opoB,N3o6paxeHHyO Hapuc. 1.7.HaaBTOMO6nnn KomnnektauniPrestige nPremium yCTaHaBnNBaIOTKOM6NHauNIOnpn6opOBSupervision,N3o6paxeHHyiOHapnc.1.8.
 
@@ -927,12 +881,10 @@ Ce S公务
 8-yka3atenb ypoBHg TonninBa.lepemeWeHne yPOBHa TOnnnBa K nONOxeHNIO "E" yKa3bIBaeTHaHeO6xOqNMOCTbAO3aNpaBKNBO N36exaHnenepe6oeB pa6oTeABnraTeng.
 
 ### KHMANHALNA NPN6OPOB
-`kia_rio_en_5a965a70` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 9- CurHanN3aTOP MNHNMANbHOrO pe3epBa TOnnnBa B6ake (CO CBeTOunbTpOM opaHkeboro LBeTa) 3aropaeTcgnpu OCTaTKe TOnnNBa nPNMepHO Ha 50KMnyTN.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_0ae176d5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 no BO3MOXHOCTN N36eraNTe ABNKeHNS Ha pe-3epBHOM OCTaTKe TOnnnBa. Pa6oTa 3nektpo-6eH30Hacoca npn OTCYTCTBNN HenpepbIBHOnnoAaunTonnnBa CnonaAaHneM BCNCTeMyBO3-AyxanpNBeAeTKBbIxOAyHacoca N3CTPOR!
 
@@ -962,7 +914,6 @@ HeT.CurHann3aTopkpacHoro uBeTa 3aropaeTCA, korAaTeMnepaTypa oxnaxAaomen XNAKOCTN
 B 3TOM cnyyae cneAyeT OCTAHOBNTbCA, AaTbABNraTenIOOCTbITbNyCTpaHNTbnpN4NHy neperpeBaABuraTeng. 注
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_c2bfeee7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 He Aonyckante Skcnnyataunn aBTOMOonng C neperpeTbIMABNraTeneM, Tak KAK3TO npnbeAeTKCePbe3HbIM nOnOMKaMABNraTens.
 
@@ -983,7 +934,6 @@ Ecnn CNrHanN3aTOp npoAonkaet ropeTb NnN NOABNnnCbApyrnenpN3HaKN HencnpabHOCTN TO
 21-cnrHann3aTop HencnpaBHocTN CNCTeMbI ynpaBneHna ABnraTeneM. 3aropaeTCЯOpaHKeBbIMCBeTOMnPNBKNIO4eHNN3aKuraHng,nocnenyckaABurateng racHeT.
 
 ### NPNMEYAHNE
-`kia_rio_en_9b2ae25d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TopeHne CurHanN3aTOpa npn pa6oTaIoweM ABNraTene CBNAeTenbCTBYeT 0 HeNCnPaBHOCTN CNCTeMbI ynpaBneHNsABNraTeneM. 3TO He 03- Ha4aeT, 4TO ABNratenb HaAO HeMeAeHHO OCTaHOBNTb:CNCTeMa ynpaBneHngABnraTenem nepexoANTHaaBapnNHbIepeXNMbl,no3BosIO山NeABNraTenIO pa6oTaTbB yCnOBNAX, 6nN3KNX KHOPManbHbIM. OAHakO npnynHy HeNCnpaBHOCTN HaAO nOcTapaTbCA ycTpaHNTb Kak MOXKHO 6bIcTpee, TaK KaK AnNTenbHas Skcnnyatauns aBTOMO6Nng C WiPaLnm CNrHaJN3aTOPOM MOKeTnpNBeCTN KyBenNyeHNIO pacxona TOnnNBa,yxyAweHNIO TArOBbIX xapaKTepNCTNKaBTOMO6NnA NNONOMKAMABNraTEng.
 
@@ -994,7 +944,6 @@ TopeHne CurHanN3aTOpa npn pa6oTaIoweM ABNraTene CBNAeTenbCTBYeT 0 HeNCnPaBHOCTN 
 24-CNrHaN3aTop3KOHOMN4HoropeKNMapa6oTbIABNraTeng ECO(3eneHOrOLBeTa).
 
 ### MAPWPYTHbIN KOMNbIOTEP
-`kia_rio_en_049a2baf` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 MapwpyTHbli KOMnbIOTep npeACTaBngT Co6oNNHOpMauNOHHyIOCCTeMy,KOTopas OTo6paxaeT HaAncnneenHopMaunioo noe3Ake: 3anacxona Ha OCTaBWeMCA B6ake TOnnnBe,cpeAHnNNTeky山nn pacxOATOnnnBa, OAOMeTp, CPeAHIOIO CKOPOCTb, Bpemg B nyTN,COCTOgHne3KOHOMN4HOrOpeXNMapa6OTbI ABNraTeng, TeMnepaTypa HapyxHoro BO3Ayxa.
 
@@ -1006,7 +955,6 @@ PNc.1.8.KoM6nHauNA npn6opoB Supervision: TaxOMeTp; CnNAOMeTp; Ancnnen MapwpyTHor
 Ha aBToMo6ungx c MKn (np Hannynn)B Ancnnee MapwpyTHoro KOMnbIOTepa OTO6paxaeTcscnrHann3aTop,pekoMeHAyIomnn nepekNoyeHne nepenay AA Han6onbwen WKOHOMNN TOnnnBa.pn 3aropaHnn curHanN3atopa,Hanpmep3,enaenbHonepeKIOYNTbCA Ha I三 nepena4y (B HaCTORWee BpeMBKNIOyeHa nnnll nepenaya) pn3aropaHnNcurHann3aTopa3pekoMeHAyeTc9 nepeknIoyntbcA Ha Illnepenayy （B HacTOR山eeBpeMg BknIoyeHa IV nnnVnepeAa4a).
 
 ### NPNMEYAHNE
-`kia_rio_en_3b030369` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AaHHagyHkuNs paGoTaetTOnbkonpn BKnIoyeHHOM ЗKOHOMN4HOM PeXNMePa6OTbIABNraTeng.
 
@@ -1050,7 +998,6 @@ G CPeAhag CKOPOCTb ABNXEHNA aBTOMO6n.ToTnapaMeTpoTo6paxaercpeAHIoIo CKOPOCTbABNK
 NHANKaTOP COCTOSHNANKOHOMNNHOrO pexnMa pa6oTbl ABNraTeng. Ecnn HaXaTb N yAepXNBaTb KHOnKy“TRIP》AOnb山e OAHON ceKyHAbI npn BKNIO4eHHOM 3KOH0- MN4HOMpexNMe... 27 .a Ancnnee OT06pa\*aeTcA HaAnncb “ECOOFFNNHANKaTOp“ECO"BbIKIO4aeTC9 BO BPeMAABNKHNg 4TO6bICHOBa BKIO4NTb WHANKaTOp,BpeXNMeECOOFFHaXMNTe yAepXNBaNiTe KHOnKyTRIPAOnbWeOAHON cekyHAbI, nocne4eroHaAncnneeoTo6pa3ntCЯpexNM“ECOON".
 
 ### NPNMEYAHNE
-`kia_rio_en_57f02cec` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/f6e0a02b961a4b0edc85ba5e425b6371ec648af34b2104b808d52005200faf81.webp)
 
@@ -1066,7 +1013,6 @@ NPNMEYAHNE
 Ha ABTOMOONNAX KOMnsekTaunn Prestige N Premium Ha Ancnnen 3（pnc. 1.8) BbIBOANTCS NHOpMaunsMapuPyTHOroKOMnbIOTepa CCOOTBeTCTByIOuen HaAnNCbIO,BAaHHOMCnyyae3KOHOMNYHbIN PKNM BKNIONH. CRHSMSN
 
 ### OTONNEHNE (KOHANLINOHNPOBAHNE) N BEHTNNALNY CATOHA
-`kia_rio_en_990428c9` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CNCTema OTONneHNg (KOHANUNOHNPOBAHNA) W BEHTNnALNNCaNOHa,yCTaHOBneHHag Ha aBTOMo6nne, 3ΦΦeKTNBHO AeNCTByeT npn 3aKpbITbIXOKHaX N npeACTaBngT co6onennHbln KOMnneKC, o6ecneynBaiomnn MakCNMabHO KOMOpTHbIeyCnOBNA BaBTOMOONneHe3aBNCNMO OT noroAHbIXyCnOBNN N TeMnepaTypbl okpyxaiomencpenbl. TeMnepaTypaBcanoHe perynpyeTcaCMe山nBaHneMxOnoAHoronropayero BO3Ayxa. BnoKOxnaxAeHn CncTeMbl KOHANLNOHNPOBaHNCHNXaeTTeMnepaTypyN BnaXHOCTb BO3Ayxa, ounWaeT ero OT nbInn. OTONNTeb nOBbIWaeT TeMnepaTypy BO3Ayxa npnno6bIxpexNMaxpa6oTblCncTeMbl.
 
@@ -1091,14 +1037,12 @@ HanpaBneHNe nOToKa BO3Ayxa BBePX-BHN3 N3MeHAIOTNOBOPOTOMPYKORTKNBBEPX-BHN3.
 HanpaBneHNenOTOkaBO3AyxaBneBO-BnpaBO N3MEHAIOT NOBOPOTOM pyKORTKN BneBOBnpabo. SNGOA 3
 
 ### NPNMEYAHNE
-`kia_rio_en_099873f6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/7c5d32bbb28a7ad4f32f486730aaa81cff1c073f8aa81d1c57277ba027505a25.webp)
 
 ToyHO Tak Xe HanpaBngIoTNperynnpyioT NOTOKNBO3Ayxa N3ueHTpanbHbIX conen. Npn nepeBOAe pyKOsTkn ynpaBneHng BKpanHee neboe nonoxeHNenOAa4a BO3Ayxa BcanOH 4epe33T0 consonpekpawaetca. 中
 
 ### CNCTEMA C 5JOKOM Py4Horo YNPABNEHNA
-`kia_rio_en_276cae65` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/1bd7e700c349eed3c36c7c089b19cc037beefce81a414984b82a3c0ace821f86.webp)
 
@@ -1129,7 +1073,6 @@ T AN3MeHeHng TeMnepaTypbl nocTynaio山ero B canoH BO3AyxaBpamavitepykOgTKy peryn
 Ang 6bICTporo ycTpaHeHNg 3anOTeBaHNg 3aAHeroCTeKaHaXMNTe Ha KHONKy BbIKIO4ateng 63nektpoo6orpeba3anHero CTekna. pnHaxaTuN Ha KHONKy BblKnoyaTeng (ABNraTenbAOnxeHpa6oTatb) BKNO4aeTCA 3nekTpOo6orpeBCTeKna,OAHOBpeMeHHOB KHONke 3aropaercg CNrHanN3aTOp. pnnOBTOPHOM HaxaTuN Ha KHONKy 06orpeb BbIKllOyaeTcg, CNrHann3aTOpraCHeT.
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_36944d72` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HarpeBaTenbHbli 3neMeHT noTpe6ngeT o4eHb6onbwon TOK. NO3TOMy BO N36exaHne 4pe3-MepHoro paspaAa aKKyMynATOPHON 6atapenBKnioyaite 3nektpoo6orpeB npn pa6oTalowemABNraTene N TOnbKO Ha BpeMa,Heo6xoANMoeAyCTpaHeHnA 3anOTeBaHngCTekna.AnA Toro 4To6bl He nOBpeANTb HNTN o6orpeba-Teng,Ang OUNCTKN BHYTPEHHeN CTOPOHbI CTe-KnaHencnonb3yuteCkpe6kn NApyrneoctpblenpeAMeTbI,aTakkeMoIo山ne cpeAcTBaCa6pa-3NBHbIMNBeWeCTBaMN. 0
 
@@ -1140,7 +1083,6 @@ Ana BKNIOYeHNA pexnMa Peunpkynsunn HaXMNTe Ha KHONKyBbIknIOyaTeng 5 pexnMa peuNp
 CA CNrHanN3aTOp. pNnOBTOPHOM HaxaTuN Ha KHONKyBO306HOBNTC9 nonaya HapyxHoro BO3Ayxa, N CNrHanN3aTOp B KnaBn山enoracHeT.Tpn BKoyeHHOMpeKNMepeuNpKynaLNN HapyXHbIN BO3AyX He nocTynaeT B canOH, a BEHTNNATOP BO3AyxOHarHeTaTeng 06ecneunBaeT LnPkynnunio B03Ayxa BHyTPN canoHa. 3TOT peKNM NCnonb3ylOTAng 6bICTporo nporpebacaoHa BxOnonHoeBpeMA rona, aTaKxenpnnOBbI山eHHoN3anbIneHHoCTnN3ara30- BaHHOCTNOKpy\*aIO山erOBO3Ayxa.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_de7425f2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 He peKOMeHAyeTCA ANNTenbHOe BKNIO4eHNepexnMa Peuhpkynsgnn BO BpeMa ABNKeHNSaBTOMOONng,Tak Kak 3T0 O6bI4HO nPNBOANT K3aNOTEBAHNIOCTeKON.
 
@@ -1153,17 +1095,14 @@ Ang xnaxnennn BO3Ayxa, nocTynaiomero BCaOHaBTOMO6Nng,HaKMNTeHaKnaBn山y2 BbIKNIO
 nOBOPOTOM perynstopa 1 TeMnepaTypbl nocTynaio山eroBcanoH BO3AyxaoTperynnpyite TeMnepaTypy OxnaxAeHHoro BO3Ayxa. Ang BbIKNIOYeHNg KOHANLNOHePa NOBTOPHO HaXMNTe Ha KnaB山y2 BbIKNIOyaTenKOHANLNOHepa,npn3TOMcrHann3atop B KaBnwe AOnxeH noracHyTb.
 
 ### OPNMEYAHNE
-`kia_rio_en_a9568fec` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KOHAnuNOHep He BKIOLNTCA, ecnn nepeksioyatebpeKNMOB pa6OTbI BeHTunsTopa BO3AyXOHarHeTaTeng yCTaHOBNeH B nonoxeHne "O" (BeHTNNATOP BbIKNIOLeH) NJN TeMnepatypa OkpyxaIoWerOBO3Ayxa HNke0C.3TO HeBeTCAnpN3HaKOM HencnpaBHocTn,anpeAycMOTpeHOKOHCTPyKLNen.
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_1cf330e5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BKnIOYeHNe KOHANLNOHepa BO BpeMapa6oTbl ABNrATenBTAXenbIX yCnOBNX(3aTAKHbIenOAbeMbl, NHTeHCNBHOe ropoAckoe ABNKeHNe N np.)MOXeTnpNBeCTNKneperpeByABNraTens. CneANTe3anoka3aHnaMNyka3aTen9TeMnepaTypbloxnaxAaiomen KNAKOCTN: ecnn TeMne
 
 ### paTypanpeBbICNT AOnyCTNMOe3Ha4eHNe, BblKIOYNTeKOHANLNOHeP.
-`kia_rio_en_2bfb4fcc` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpnAnntenbHbIx noe3AkaxB ycnoBnax ropoACKOrOABNKeHNs 3ΦΦeKTNBHOCTb pa6OTbI KOHANUNOHePa MOKeTCHN3NTbCs N3-3a HanPsKeHHOrOTenoBorOpeKnMaABnraTeng.3To HeBeTcA npN3HaKOM HeNCnpaBHOCTN, npn ABNKeHNN B HOPMabHbIXAOPoKHbIXyCnOBNX KOHANuNoHep 6yAeTpa6oTaTb 3ΦΦeKTnBHO.
 
@@ -1184,17 +1123,14 @@ AepxaHng ONTNManbHON TeMnepaTypbl B03- Ayxa BCanOHenOCneero NHTeHCNBHOronporpeba
 -pexnM o6orpeba BeTpOBoro CTeKna, CTekOnnpeAHnXABepen NOTOnneHng.Vcnob3yetcgAngnpeAoTBpa山eHng3anotebaBNA CTeKONnpNNOBbIWeHHONBnaXHOCTN BO3- Ayxa BpekNMeOTonneHna.fepeksloyatenb 4 NHTEHCNBHOCTNNOAa4NBO3Ayxa BcanOHyCTaHOBNTeBnonoxeHne“2".PeryngTop3pacnpeAeneHNNOTOKOBBO3AyXayCTaHOBNTeB nonoxeHne Peryngtopa 1 TeMnepaTypblycTaHOBNTeB KpaNHeenosoxeHneKpacHon 4aCTN Wkanbl. BbIKloyaTenem2 pexnmapeunpkyngLNN BKIIOYNTe nonayy HapyKHoro BO3Ayxa. KOHANLNOHepMOKeT HaXOANTbCRBOBKIO4eHHOMWNBBbIKIIO4eHHOMCOCTOSHNNB3aBNCNMOCTNOTTeMnIepaTypbIOkpykaio山encpenbl;
 
 ### paTypanpeBbICNT AOnyCTNMOe3Ha4eHNe, BblKIOYNTeKOHANLNOHeP.
-`kia_rio_en_f19f3a3e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 二 pexnM o6AyBa BeTpObOro CTeKia N CTeKOn nepeAHnx ABepen. Ncnonb3yeTcg A 6bICTporoyCTpaHeHng3anOTeBaHng CTeKO几 npn NOBbIWeHHON BnaXHOCTN BO3Ayxa. PyKOgTky nepeknioyateng 4 NHTEHCNBHOCTN nona4NBO3Ayxa B CaNOHyCTaHOBNTeB nonokeHne“2".PerynaTop 3pacnpeneneHng noTOKOBBO3AyXayCTaHOBNTeB nonoxeHne 国 PeryngTopa 1TeMnepaTypbl yCTaHOBNTe B kpaHeenonoxeHne KpaCHON 4aCTN Wkanbl. BblKloyatenem 2 pexnMa Peuwpkynnann BKIIoyNTenOAayyHapyKHorOBO3Ayxa KOHANLNOHep MOXeT HAxOANTbcA BO BKIO4eHHOM WnN BBbIKIIO4eHHOM COCTORHNN B 3aBNCNMOCTNOTTeMnepaTypblOkpykaio山encpeAbl. 福
 
 ### NPNMEYAHNE
-`kia_rio_en_ed688648` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 An Toro 4To6bl CTekna He3anOTeBanN BAOXANBYIO noroAy, BKSIIO4NTe peXNM NX o6AyBa npn BbIKNIOYeHHOM OTONNTene, TaKKakpa3HN4a 3Ha4eHniTeMnepaTypbInoBepXHOCTN CTeKa N noAaBaeMoroBO3Ayxa MOKeT Bbl3BaTb KOHAeHCAUNIO Bnarn. ICisnY 具
 
 ### NONE3HbIE COBETbl
-`kia_rio_en_6163504c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 An6onee 3eKTnBHoro AeCTBns BeHTungN N OnnN nPn OPO ABKe abTOMo6nnsMeHee50KM/4 N npnnpoe3neoco60 3anbIneHHbIXy4aCTKOBAOpOrC3aKpbITbIMN OKHaMN (A CO3AaHnn N36bITO4HOrO AaBneHng BO3Ayxa BcanoHe, npeAoTBpaLaiomero nOACOCnbIJIn) peKOMeHAyeM BKIouatb nepeksioyaTeNeMBEHTNnSTOP OTONNTnAHaMAnyIO NNN MaKCNManbHyioCKOpoCTb.
 
@@ -1203,7 +1139,6 @@ AyckopeHHoroycTpaHeHn93anOTeBaHn93aAHeroCTekna NocBo6oxAeHngero OT HaneANN CHera
 EcnN BbI He NCnOnb3yeTeKOHAnuNOHepnpoAOnKNTenbHOe BpeMa, Heo6x0ANMO pa3 B HeAeno HeHaAONrOBKnIOyaTb eronpnpa6oTalomeM ABNraTene AnA BOCCTAHOBNeHNA CNOR CMa3KN Ha AeTangx kOMnpeccopa N ynnOTHeHNAX.
 
 ### CNCTEMA C bnOKOM ABTOMATNYECKOrO YNPABNEHNA
-`kia_rio_en_83de4110` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CNCTeMa OONNHNg,BeHTnALNNNKOHAN-LNOHNPOBaHNgMOKeTpa6OTaTb BAByxpexn-MaX:aBTOMaTN4eCKOMNPy4HOM. 福
 
@@ -1212,7 +1147,6 @@ CNCTeMa OONNHNg,BeHTnALNNNKOHAN-LNOHNPOBaHNgMOKeTpa6OTaTb BAByxpexn-MaX:aBTOMaTN
 1.HaXMNTe HaKHOnKy“AUTO"BbIKlIOyaTe2 （pvc.1.10）pexMa aBTOMaTN4eCKOrO ynpaBneHNgCucTeMoN OTONneHNN N KOHANLNOHNpoBaHng.Ha Ancnnee 3NOABNCAHannnCb AUTO (BKNIO4eH aBTOMaTN4eCKNN peKNM),aTakke3HaueHngTeMnepaTypbInoAaBaeMoro B canOH N HapyKHoro BO3Ayxa N CNMBOnbI, noka3biBaio山neHanpaBneHnenoTOKOB B03Ayxa N NHTeHCNBHOCTb pa60Tbl 3nekTPOBeHTunTOPa.TpN ЗTOMnPONcxonnT aBTOMaTNyeckoeynpaBneHNepexNMaMN noAa4NBO3Ayxa 4epe3 conna B naHennnpn6opOB, BHNKHIOIO 4aCTb canoHaNHao6oBoe CTeKnO（NnN 4epe3connaBnaHennnpn6opoB NB HNKHIOIO4aCTbcanOHa),a TakxeckOpoCTbIO BeHTNNATOPa BO3AyxOHarHeTaTeng N KOMnPeccOpaKOHANLNOHepa.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_49a636b1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/988820c555775285deb474560ace6a116d63944b3b090d8d011e2207e4fb3dca.webp)
 
@@ -1228,7 +1162,6 @@ B py4HOMpeXNMe ynpaBnenng CNCTeMa OTONNeHNA, BEHTNNALNN KOHANLNOHNPOBaHNpa6oTaeT
 PHC.1.1O.nOKOecKoroypBneHACCeON OonneHA,KOHAuOHpoBaABeHTnAuN:1-pery nATOpTeMnepaTypbInocTynaiouero BCanOHBO3Ayxa; 2 - KHOnKaBbIKnIoyaTenA ABTOMaTN4eCKOrO pexNMa pa6oTbI CNCTeMbl; 3-ANcnnen;4-nepeknio4arenb penMoB pa6oTbl3nekTpobeHTnnATopa;5 - KHOnKaBbIKnIoyaTenAKOMnpeccopa KOHANnOHepa;6- BbIKnIoyaTenb pexMa peunpkynaunn;7-AaTynKTeMnepaTypbl BO3AyxaBcanoHe;8-nepeko4ateb Bbl6opapexumapacnpeAeneHn Bo3AyHbIx nOTOKOB;9 -BblKoyaTenb o6orpeBa3aAHeroCTekna;10-BblknlouaTenb06AyBa BeTPOBOro CTeKnaN CTekon nepeAHNxABepen;11- BbIKnIo4aTenbaBTOMaTnyeCKoropeXNMa pa6OTbICNCTeMbI OToneHHA,KOHANUNOHNPOBAHNA A TE
 
 ### OTROS4OBOSN 408ROH
-`kia_rio_en_c852a2be` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CTeneHb 3aWTpNXOBKN Wkanbl NHTEHCNBHOCTNpa6oTbl3neKTpOBeHTnnaTOpa. M00
 
@@ -1253,12 +1186,10 @@ p KaxAOMHaxaTN Ha KHONKyHaANCnnee 6yAeT NORBNATbCRCOOTBETCTBYIOWNN CNMBOn. O8 Y
 Hbl BO3AyX HenOCTynaeTBcanOH,aBeHTWngTOpBO3AyxOHarHeTaTenAo6ecneuNBaeT unpKynALNIOBO3AyXaBHyTpNCanOHa. NpN3TOM B KHONkeBbIklIo4aTen93aropaeTcaCnrHaN3aTOp. 3TOTpexNM NCNONb3YIOT A6bICTporo nporpeba canoHa BXONOAHOeBPeMg rona, a TaKxenpNnOBbI山eHHON3anbIneHHOCTNN3ara3OBaHHOCTN okpyxaiomero BO3Ayxa. Npn NOBTOPHOM HaxaTuN Ha KHOnKy pexumpeWNAkynnann OTKIO4aeTCA N CNrHann3aTOpB KHONke racHeT.
 
 ### He peKOMeHAyeTCA ANNTenbHOe BKNIOYeHNe pexnMa Phhakynninn BO BpeMa ABNKeHNs aBTOMO6Nng,TaK KaK 9T0 O
-`kia_rio_en_88ffcbd0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 5.Ang 6bictporoynaneHng Bnarn wnn NHeg CBeTPOBOrO CTekna NCO CTeKOn nepeAHnx ABepen npNnOBbIWeHHONBnaKHOCTNBO3Ayxa HaXMNTeHa KHONKy BblKlloyaTeng 10NHTeHCNBHON nona4n BO3Ayxa HaJo6oBoeCTeKO N CTeKna nepeAHNxABepen. pn3TOM eCnNTeMnepaTypaHapykHoroBO3AyxaBbl山e 2Cg eroOxnaxneHngaBToMaTnyeCKN HaYNHaeTpa6OTaTbKOHANUNOHep. 9 BMOX
 
 ### NONE3HbIE COBETbI
-`kia_rio_en_81aece4a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 An 6onee 3cekTnBHoro AencTBNg BEHTNNALNNN OTOnnHN nPN CKOPOn ABKeHN aTOMo6nngMeHee50kM/4Nnpnnpoe3Aeoc060 3anbIneHHbIXy4aCTKOBAOpOrC3aKpbITbIMNOKHaMN （Ag CO3AAHng N3bITOyHorOAaBnHng BO3Ayxa B canoHe,npeAoTBpa山aIomero nOA
 
@@ -1267,12 +1198,10 @@ COC nbIsn) peKOMeHAyeM BKslIoyaTb nepeknioHaTeNeM BeHTNnATOP OTONNTEn Ha ManyioN
 Ang yckopeHHoro ycTpaHeHNg 3anoTeBaHNg CTeKna ABepn 3aAka N OCBo6KAHnA ero OT HaneAN N CHera BKnIoynTe o6orpeB CTekna. EcnNBbl He nCnOnb3yete KOHANuNoHeP npoAOnKNTenbHOe BpeMa, Heo6xOANMO pa3 B HeAenio HeHaAOnrO BKnioyaTbero npn pa6oTaloWeM ABnratene AnA BOCCTAHOBNHNA CnOn CMa3KN Ha AeTanax KOMnpeccopa N ynnOTHeHNAX. O0
 
 ### TONOBHOE yCTPONCTBO AyANOCNCTEMbI
-`kia_rio_en_15a78796` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pneMbl ynpaBneHngaynocnctemonee HaCTpONka nOApO6HO OnncaHbl B npnknanblBaeMOMKaBTOMO6NnOPyKOBOACTBe no 3KcnnyaTaLnn. BHeWHNN BNA naHennn Ha3Ha4eHne OpraHoB ynpabneHng rOnOBHOrO yCTpovCTBanOka3aHbI Hapnc.1.11.
 
 ### IPNMEYAHNE
-`kia_rio_en_3462ab74` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B3aBNCNMOCTNOT KOMNNeKTAuNNaBTOMOonng BHNWe OOnNUOBKNTOHHn nonaokononpnkyPnBaTeng N p03eTKN pacnonoxeH 6nokAng NOAKNIOYeHN BHeWHerO HOCNTens(ayANOBXOA AUX N USB).
 
@@ -1280,7 +1209,6 @@ B3aBNCNMOCTNOT KOMNNeKTAuNNaBTOMOonng BHNWe OOnNUOBKNTOHHn nonaokononpnkyPnBaTen
 9 TON
 
 ### 3AMKN
-`kia_rio_en_e5ed756f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/66704daed9da55f8c3bb7223792cf4504e2a7695848f59bd9315183b74744854.webp)
 PHC.1.11.OpraHblynpaBneHnAayAnocnCTeMo:1- KHOnKaBbl6opapeKMaBOCnpo3BeAeHNAKOMnaKT-ANCKaNuTeHNA CBHeWHerOHOCNTenA 《CD/AUX>;2 - KHOnka Bbl6opaANana3oHaceAHNX BONH 《AM》;3 一 KHOnKa Bbl6opaAnana3oHa ynbTpaKOpOTKNXBOnH《FM>;4- KHOnKa N3BneyeHNKOMnaKT-ANCKa;5-COTA 3arpy3KNKOMnaKT-ANCKa;6- KHOnka perynnPOBKN ApKoCTn ANCnneR;7- KaBN山a BbIKoyeHNA 6bABneHn OCNTyaUNN Ha AOpore(TA）;8-KHonKaNHcopMaLNOHHON CTPOKN《INFO》（B pexnme npONrPbIBaHNAKOMnAKT-ANCKOB/BOCnPON3BeAeHNA danna C BHeWHerO HOCNTeNA); 9-KHOnka Bbl30Ba HaCTpoeK ayqnocncTeMblSETUP》;10-Ancnnen;11-nepeksouatenbpaAnocTaHun（B pexnMepaANO)/KHonKa HaCTpokn TeM6pa3By4aHna,6anaHca CnCTeMbl;12- KnaBnwa Bbl6opa AKTNBHON nankn(B pexume nponrpblBaHNA KOMnaKT-ANCKOB);13- KnaBnwa CKaHNpOBaHNA paANOyaCTOT《SCAN》W ABTOMATI 4eckoro COXpaHeHNACBbICOKNM ypOBHeM npnema 《AST(B pexnme paAno) BOCnPON3BeAeHNe KOMnO3NLNN KOMnaKT-ANCKa; 14 - KnaBNWN noncka paANOCTaHunn（B pexnMe paAno), nepeknIoyeHnATpekOB BpexnMe nPonrPbiBaHna KOMnaKT-ANCKOB)；15-KHOKN npeABaPNTenbHon HaCTponkN paANoCTaHuni(BpexnMe paAno) MHorocyHKunoHanbHbIe KnaBnwN B pexnMe nponrpbIBaHnsKOMnaKT-ANCKOB);16-BblKnoyaTenbayNoCnCTeMbl,perynToprpoMKOCTn
@@ -1311,7 +1239,6 @@ N3HyTpNABepb 3annpaloTKnaBnwei.6noKNPOBKN.
 B 3aBNCNMOCTN OT KOMnnektaunn Ha NOANOKOTHNKe ABepn BOANTeNA MO\*eT 6blTbyCTaHOBNeH nepeknioyatenb ueHTpa几N30BaHHOrO ynpaBneHng 3aMKaMN ABepen. TpNHaxaTnN HanepeAHioIO4acTbKaBNWN nepeknoyateng 3aMKN BCexABepen aBTOMO6NnA 6yAyT3a6noknpoBaHbl. npn HaxaTNNHa3aAHIOIOyaCTb KaBnwnnepeKno4aTeng3aMKNBCex ABepen 6yAyTpa3- 6noknpoBaHbl. 92
 
 ### NPNMEYAHNA
-`kia_rio_en_f0e5d244` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn KIOY HAXOANTCA B 3aMke 3axnraHng N onag nepeAHgg ABepb OTKpbITa,Haxatne Ha nepeAHioIO yacTb KnaBNWN nepeknioyateng LeHTPanN3OBaHHOro ynpaBneHng 3aMKaMN ABepenHe nPNBeAeT K 3annpaHNIO ABepen, a 3aAHneABepNMOXHO 3a6nOKNPOBaTb NnN pa3- 6nOKNpOBaTb TOnbKO KnaBN山aMN 6nOkNpOBkN. ABepb BOANTeng MOKHO 3a6nokNpoBaTb knaBNwen 6nokNPoBKN TONbKO B3aKpbITOM nonoKeHNN,Ang 6nokNPoBkn OCTanbHbIXABepen Ha KnaBnwy 6nOKNpOBKN MOKHO HaKaTb npN OTKPbITOM nONOKeHNN ABepN, a 3aTeM 3aKpbITb ABepb.
 
@@ -1344,18 +1271,15 @@ WIN CTaBbTe KNIO4 B BbIKIOUaTenb 3aMka 6araxHNka...
 AnToro4To6bl3akpbITbKpblwky6araXHNka, NOTAHNTeKpblwky3apy4kyN3aXsOnHNTe ee.
 
 ### HPNMEYAHNA
-`kia_rio_en_50a9eee8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pa36noknpobatb 3aMOK KPbIWKN 6araxHnka MOKHO, Haxab Ha COOTBETCTBYIOWyIO KHOnKy packnaAHoro/3nekTpOHHoro Koya 3axnraHng (c KHONKAMN C KnaBnwaMN ANCTAHUNOHHOrO yrpaBneHn3aMkaMNABepeiN3aMkOMKpbl山- KN6araxHNka).
 OTKpbITbKpbI山ky 6araXHnka aBToMo6nn9 KOMnnektaunn Premium Takke MOKHO, Haxab Ha KHONKy Bpyuke npn HAnnunn 3nekTpOHHoro KJloya SmartKey.
 
 ### CTEKIONOAbEMHNKN
-`kia_rio_en_444928ee` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CTekna nepeAHnx N 3aAHNX ABepen onyCKHbIe. B 3aBNCNMOCTN OT KOMnnekTaLNN 3NeKTpOCTeKNOnOAbeMHNKNyCTaHaBNBaIOT WNTOnbkO Ha nepeAHNeABepN, nNHa BCe ABePNabTOMO6nng.
 
 ### NPNMEYAHNE
-`kia_rio_en_f7682148` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CTeKna 3aAHNXABepei N3-3a KOHCTpyKTNBHON OCO6eHHoCTNABepeN OnyCKaIOTCR He NONHOCTbIO.
 
@@ -1368,7 +1292,6 @@ CTeKna 3aAHNXABepei N3-3a KOHCTpyKTNBHON OCO6eHHoCTNABepeN OnyCKaIOTCR He NONHOC
 ...Nnn CTeKNOnOAbeMHNkaMN nepeAHnx ABepen. 3 NC
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_4aaf411b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bon36exaHne neperopaHna npeAoxpaHnteng N NobpexAennn CNCTeMbI 3nekTpn4ecKNX CTeKIONOAbeMHNKOB 3anpewaercg BKIIO4aTb OAHOBpeMeHHO6OneeTpexCTeKnonoAbeMHNKOB.
 
@@ -1387,7 +1310,6 @@ An9TOro yTo6bI OnyCTNTb CTeKnO, HaxMNTe BHN3 KnaBnwy ynpaBneHng CTeknonoAbeMHNKO
 3aAHNMn CTeKJOnOAbeMHNKaMN. B03M0XHOCTbynpaBneHng3aAHnMnCTekonoAbeMHNKaMN CLeHTpanbHoro 6nokaynpaBnehng cOxpaHgeTCA.
 
 ### NPNMEYAHNE
-`kia_rio_en_7a26afab` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn CJerka HaxaTb Ha KnaBnwy ynpabnenng CTeKnOnOAbMHNOAn BOANns, TO CTeKO npekpaTnT onyckaTbCA npn OTnyCKaHNN KnaBNWn,a ecnn HaxaTb Ao ynopa BHN3, TO CTEKNO ONYCTNTCA NONHOCTbIO.
 
@@ -1396,7 +1318,6 @@ Ecnn CJerka HaxaTb Ha KnaBnwy ynpabnenng CTeKnOnOAbMHNOAn BOANns, TO CTeKO npekp
 BnoJokoTHnkaxABepennaccaxupoBpacnonoxeHb TOIbKONHANBNAyabHbIeKaBNWN ynpaBneHng CTeKNOnOAbeMHNKOMABepN.
 
 ### NPNMEYAHNA
-`kia_rio_en_76e071b5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn KnaBnwa nepeknioyatens CTeknonoAbeMHNKa NONHOCTbIO HaxaTa (NPNNOAHaTa), TO CTeKIO onyckaeTcA (NOAHNMaeTcA) NOnHOCTbIO. Ecnn Bbl XOTNTe OCTaHOBNTb CTeKNO B NPOMeXyTOYHOM NONOXeHNN, cnerka nepemeCTNTe KnaBNWy B NPOTNBONONOKHOM HanpaBJeHNN.
 
@@ -1411,7 +1332,6 @@ EcnN kakoe-nn6onpengtcTBne Mewaet3akpblTNIO, TOnepeMeweHne CTeKnanpnoctaHabnNBae
 ynpaBngIOT CTeKNOnOAbeMHNKOM CMexaHN4eCKNM NPNBOAOm CnOMOWbio PyKORTKN. Npn BpaweHnn pyKORTKN nPOTNB 4acOBON CTpenkN CTeKO NOAHNMaeTCA, npn BpaweHNN PyKORTKN no 4acoBON cTpenke CTeKIO onyckaeTcA.
 
 ### PEMHN 5E3ONACHOCTN
-`kia_rio_en_a0a7c8ca` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 PeMHN 6e30nacHocTN 一 3ΦΦeKTNBHOeCpeACTBO 3aNTbl BOANTeNA N naccaxnpoBOTTAXebIXTPaBMnPNAOPOXHO-TpaHCnOPT-HbIX nponcwecTBNAX. Bo BpeMa ABNKeHNA0693aTebHOnpNCTerNBaTeCbpeMHeMNHenepeBO3NTe He npNCTerHyTbIX PAMHAMN 6e-30nacHocTNnacca\*NpOB.
 
@@ -1422,12 +1342,10 @@ HaaBTomonneAngBonntengNnepeAHero naccaXpayCTaHOBeHbI NHepLNOHHbIepeMHN 6e30nacHo
 ABcex naccaxnpob 3anHero CnAeHbAyCTaHOBneHbI NHepunOHHbIepeMHN 6e3onac-HOCTN.
 
 ### NONE3HbIECOBETbI
-`kia_rio_en_1398edd7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 PerynspHo npobepante COCTORHNe peMHen. EcnN BblO6HapyxNTe HapeMHgXnOTepToCTN,HaAPbIBbI NnnApyrne noBpeKAeHng,oR3aTenbHO 3aMeHNTepeMHN.Ecnn peMHN 3arpg3HeHbl,npoMOMTeNXCna6bIMMbIIbHbIMpaCTBOpOM. 1 PeMHAMN 6e3onacHocTN MOXHO 3acnkcnpoBaTb OT nepemeweHng nepebo3nMbln Ha 3aAHeMCnAeHberpy3.
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_2705b91d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HNB KoeM Cny4ae He rnagbte peMHn yTiorOM. Henpncternbaite pemHem pe6eHka,cnA山erOHakoneHgxnaccaxnpa.
 0693aTebHO 3aMeHNTe peMHN, noABeprwneCA KPNTNyeCKON Harpy3ke B AOPOKHO-TPaHcnOPTHOMnPONCWeCTBNN.
@@ -1447,7 +1365,6 @@ HaaBToMo6nneTaKkenpenycMoTpeHaperynnpobka nepeAHnx peMHen 6e3onacHoCTNnOBbICOTe.
 Aperynnpobkn nonoxehn pemH HaMNTe Ha Φukcatop perynnpyiouero yctponCTBa NOnycTNTe nnN NOAHNMNTe kpenneHne peMHgTaKNMO6pa3OM,4To6bIpeMeHbHe kacancsWeNNHeAaBNn Hanneyo. 3 RNHB8OH
 
 ### NPNMEYAHNE
-`kia_rio_en_4b57cffd` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AToro yTo6bl npnCTerHyTb peMeHb Bbl-TAHNTe erO N3KaTyWK...
 
@@ -1456,12 +1373,10 @@ AToro yTo6bl npnCTerHyTb peMeHb Bbl-TAHNTe erO N3KaTyWK...
 NoOKOH4aHNNperynNpOBKN y6eANTeCb BTOM, 4TOAepxaTenb peMHA 3acnkcNpoBancsB OAHOM N3npeAyCMOTpeHHbIX KOHCTpyKLNen nonoxeHn.Ang Toro,He HaxkNMas Ha ukcaTOp, NOTAHNTe peMeHb BHN3: ecnn OH ObIHe 3acnkcNpOBaH,TOnepeMeCTnTCg BHN3AO6nNkaiwerocnkcnpoBaHHoro nonoxeHna.
 
 ### PEFYNNPOBKANONOKEHNA NEPEAHNXCNAEHNN H
-`kia_rio_en_d4fab771` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ango6ecneyeHng Han6onee yAo6Hon nocankNlonepa3Horopocta NTenocnokeHng nonoxeHne CNAeHNn BOANTenA NnepeAHero naccaxNpaMOXHo N3MeHNTb B NPOAOnbHOM HanpaBneHNN, noyrnyHaKnoHa CNNHKN, no BbICOteNyrny HaKoHanOAyWKN (KONN4eCTBO perysnpoBOK CAneHA 3aBNCNT OT KOMnnekTaunn). KpOMeTOrO,BO3MOHa NperynnpoBkanoArOnOBHNkanOBbICOTe.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_f6fa8841` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Perynupyute nonoxeHne CNAeHbA BOANTeng TOnbKO Ha HNOABNKHOM aBTOMO6nne. Ecnn npnnonbitke peryninpoBkN B ABNKEHNN Bbl HeyeTKO 3acnkcnpyere CNAeHbe B nPOAOnbHOM HanpaBneHnNN OHOHeOXNAaHHOnepeMeCTNTCA, TO MOXHO nOTepATb KOHTPONb HaAaBTOMO6unem. 中
 
@@ -1486,7 +1401,6 @@ epeMeCTNTeNOArONOBHNK BBepXWnNBHN3 Ha Tpe6yeMyioBbICOTy. OnTuManbHbIM C4NTaeTCA 
 ![](images/f17a2e624c85b7199ff537cbd0325d54f33832cb909846239cabdb0a01395a16.webp)
 
 ### 3AAHEECNAEHbE
-`kia_rio_en_c7fb28a9` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aAHeeCuAeHbe o6opyAOBaHo nonronobHNKaMN, KOTOpbIe MOXHO perynupobatb no BbICOTe.
 
@@ -1515,7 +1429,6 @@ EcnNHyKHO onyCTNTbnOAyWKy CNAeHbA, onyCTNTe pblyar BHN3 NOTnyCTNTeero- no...NCHN
 ![](images/9030660b5ff7e1b667fc3c9fd06de09423b55c6a92579ecd70502e90dcb3bd47.webp)
 
 ### NPNMEYAHNE
-`kia_rio_en_2cd5b817` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ang nIoAen OyeHb BbICOKOrO pOCTa nOAHNMNTe NOArOnOBHNKB KpaNHee BepxHee nonoxeHne, Ans nIOAen O4eHb HN3KOro pocTa onyCTnTe NOArONOBHNK 8 kpaNHeeHNXKHee nOnoXeHNe.
 
@@ -1529,7 +1442,6 @@ Ang nIoAen OyeHb BbICOKOrO pOCTa nOAHNMNTe NOArOnOBHNKB KpaNHee BepxHee nonoxeHn
 3. .WOnyCTNTe CNNHKy CNAeHbA BHN3. 4.paByIO 4aCTb CnNHkN CNAeHb9CKnaAblBaIOTaHanOrN4HO.
 
 ### NCNONb3OBAHNE AETCKNXCNAEHNN
-`kia_rio_en_f62f695c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/593538b47f1a9439485a4a55fa626b8de2833064c6458468a6e7549eb9b42209.webp)
 
@@ -1542,29 +1454,24 @@ Ha aBTOMo6nne A9 kpenneHng AeTCKNX CNAeHNn MoryT NCNOnb3OBaTbC9 WTaTHble peMHn6e
 NHcopMaunIO 0 TunaxAeTCkNxCnAeHNN MeCTaXB aBTOMO6une,HaKOTOpbIeOHNMOryT 6bITbyCTaHOBneHbl,CM.BTa6n.1.2.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_ae2e7987` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/cfc151d4db3dd3c5ee8f915344080cec6c34319704ea7657d5162b1517ad64d5.webp)
 
 BCBR3NCOTCyTCTBNeM Ha aBTOMO6NneBbIKIIOyatens nOAyWKN 6e3onacHoctn nepeAHero naccaxnpaHenepeBo3nteAeTen HanepeAHeM
 
 ### KateropunOnO+(Ao 13kr)
-`kia_rio_en_5e5fb374` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 WegAByxneTHero pe6eHka oyeHb xpynkag. NepeBO3NTeAeTeNB CNAeHbAXKOP3NHOYHOrO Tuna, yCTaHOBNeHHbIX NPOTNB Hanpabnehng ABNKEHNA. B3TOM nonoxeHnNo6ecneunBaeTC9MakcuManbHas6e3onacHocTbpe6eHka.
 
 ### KaTeropng （OT9A018Kr）
-`kia_rio_en_44a78c57` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AnnepeBo3knAete oT2Ao4neT ncnonb3yuTe OXBaTbIBaIOWee CNAeHbe, KOTOpOe no3BOnAeTnOAAepKNBaTbpe6eHkaC nOMOLbio cneuNanbHoro AeTCKoro PeMHg 6e3onacHoCTN NnNcneunanbHon ynpyron nonywkn.
 
 ### KateropnN ll（oT15Ao25Kr)nIll（oT22 A036Kr)
-`kia_rio_en_6a775acc` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AngAeren Mnanwe 12neT cnonb3yTe AeTCKOe CnAeHbe B BnAe nOAyWKN CHanpaBwnnAnspemHenoecnenBaonn CKOnbXeHNe PeMHA 6e3onacHocTN no 6eApaMpe6eHka6e3nepekpyuNBaHng.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_223f383f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HNKorAa He Aepxnte pe6eHka Ha KONeHAX B ABNKyWeMCg aBTOMO6Nne.
 
@@ -1573,7 +1480,6 @@ HNKorAa He Aepxnte pe6eHka Ha KONeHAX B ABNKyWeMCg aBTOMO6Nne.
 C AyCTaHOBKN NKpenneHngAeTCKOrO CNAeHbAHaOCHOBaHNNKy3OBa NMeIOTCACKOObI AkpenneHn Tuna ISOFIX.
 
 ### NPNMEYAHNE
-`kia_rio_en_edc8065e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/60bd8e4def21d8c489b1e7405f32180b781c150ac3ba577308da671c510cf77d.webp)
 
@@ -1587,7 +1493,6 @@ Cko6bI Ag KpenneHnn Tuna ISOFIXpacnonoXeHbl B 3a3ope MexAy noAywkon N CnNHKON 3a
 ...NOA3aWNTHbIMNKPbIWKaMN. MectopacnoJoxeHne CKO6 0603Ha4eHo HaWNBKaMN Ha CnNHke.yCTaHaBJNBaiTeAeTCKOe CHAeHbe cornacHO npnnoxeHHoN nHCtpykunn.
 
 ### BATAKHNK
-`kia_rio_en_835a6f7a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/7d5af184a5564dc22f4236f56bcc6f2a4ded225083471887018f220339accbf2.webp)
 - baraxHnk aBTOMOonng AOCTaTO4HO BMeCTNTenbHbIN. G 5 Ose x
@@ -1598,7 +1503,6 @@ Ta6nnua 1.2
 NpNCnoxeHHbIXCnNHKax 3aHero CHAeHA o6pa3yetcgAononHnTenbHoe npOcTpaHCTBO ATpaHCnOPTUpOBKNAnNHHOMepHbIXNrpy30B.
 
 ### AONYCTNMOCTbyCTAHOBKNAETCKNXCNAEHNN B3ABNCNMOCTNOTBECOBONKATErOPNN（BEC,BO3PACT)PE5EHKA
-`kia_rio_en_fe4d5d04` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a3f30c6c0ba4b0154f8bd9b9db95386446829eb6492faaa90b1384a999433194.webp)
 ycnOBHbIeo603Ha4eHng: --MeCTO HenPNroAHO yCTaHOBKNCNAeHbЯ; +-MeCTOnPNrOAHOAIAyCTaHOBKN CNAeHbA; +\*>- MCTOnPNrOAHOAAyCTaHOBKNCNAeHbA,HOnePeBO3NTb AeTen peKOMeHAyeTCA CNCnOnb30BaHNeM COOTBeTCTByIO山NXyCTpOCTBHa3aqHeMCNeHbe.
@@ -1608,17 +1512,14 @@ ycnOBHbIeo603Ha4eHng: --MeCTO HenPNroAHO yCTaHOBKNCNAeHbЯ; +-MeCTOnPNrOAHOAIAyC
 CneBa pacnonoxeH OTCeK AA npeAMeTOB (HanpnMep,anTeuKN,KaHNCTpbl),OTAeneHHbln PEMHAMNOTOCHOBHOrO6araKHOrOOTAeneHNA.
 
 ### PEryNNPOBKAHINISEHUNPynEBOro KONECA
-`kia_rio_en_9e478c8b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha aBTOMO6unbyCTaHOBneHapyneBag KOnoHka,perynnpyemas no yrlyHaKnOHa. nlepeAnoe3Akon oTperynnpyntenonoxeHnepyneBoro koneca TaK, 4T06bl 6bino yA06HO ynpaBngTb aBTOMO6NneM N Obina xopowo BNAHa KOM6nHaLng npn6oPoB.
 
 ### NPNMEYAHNE
-`kia_rio_en_573ec303` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 PekoMeHAyeM perynnpoBatbnonoxeHne pyneBOrokoneca nOCne yCTaHOBKN CNAeHbA ByA06- Hoe nonoxeHne (cm."PerynnpoBkanonoxeHng nepeAHNx cnAeHn,c.27).
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_f2219c0f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Perynnpyute NOnoXeHne pyneboro koneca TONbKO Ha HENOABNKHOM aBTOMO6nne. Ecnn npNnOnbITkeperynNpOBKNBABNKeHNN HeyeTKO 3acnkcnpoBatb pynebyio KONOHKy, N OHa HeOXNAaHHONepeMeCTNTCA, Bbl MOxeTe notePATb KOHTPOnb HaAaBTOMOONneM.
 
@@ -1635,12 +1536,10 @@ Perynnpyute NOnoXeHne pyneboro koneca TONbKO Ha HENOABNKHOM aBTOMO6nne. Ecnn npN
 4 3.3a6noknpyiTepyneByloonoHkyeHyB pblyar BWTaTHoenONoxeHne. 2 C 0A
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_9826479e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nepeA HayanoM ABNKeHNg nOnbITaviTecb CABNHyTbpyneboe koneco BBepxN BHN3,4To6bly6eANTbCRB HaAeKHOn nKcauNN PyneBON KOnOHKN.
 
 ### 3EPKAIA 福 3AAHErO BNAA
-`kia_rio_en_176687a8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ABTOMO6nnb OCHaWeH 3nekTpn4eCKNM NPnBOAOm perysupobkn GOnoxeenn HapyxHbIX3epka3anHeroBNAa.
 
@@ -1658,7 +1557,6 @@ Ang yMeHbWeHng ra6apnta aBTOMOonng npn napkOBke B MeCTAXCNHTeHCNBHbIMABNKEHNeMHa
 5 no OKOH4aHNNperynNpOBKNBepHNTe KnaBNWy 5BcpeAHee nonoxeHne. 福
 
 ### NPNMEYAHNE
-`kia_rio_en_042ea011` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/de41c6f5cf461f3c105763e16135c2cbb9beff6e71178508ea089974f2959550.webp)
 
@@ -1673,7 +1571,6 @@ NonoxeHne BHyTpeHHero 3epkana 3aqHero BNAaperysnpyioT NOBOPOTOM ero B HyHyIO CTO
 万 AnpeAopaeng cnnneng BO apABnxy山erocsc3aANTpaHcnopTaMOKHO nOBOPOTOMpbI4araN3MeHNTbnOnOXeHNeonTN4eckoro3neMeHTaHaeroonope.
 
 ### OCBELEHNE CAIOHA
-`kia_rio_en_e8608006` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AOcBe山eHng CanoHa BoNBke noTonka yCTaHOBneHbInnacOHbI OcBeWeHnA.
 
@@ -1716,7 +1613,6 @@ OFF-OcBe山eHNeCanOHa BbIKIO4eHO; DOOR 二 OCBe山eHNe canoHa BKNIO4aeTCA npNOTK
 ON-OcBe山eHneCanOHa BKnIOyeHO.
 
 ### NPOTNBOCONHE4HbIE K03bIPbKN
-`kia_rio_en_f95e868c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a759ad9aa73a3ad26d177abd545dbcea045b396f6484c9b922d9aea565e99f01.webp)
 
@@ -1738,7 +1634,6 @@ C 06paTHon CTOPOHbI o6onx KO3bIpbKOB nOA CABNKHbIMN KpbIWkaMN yCTaHOBneHbl KOCMe
 AnAOCTynaK3epkanyCABNHbTeKpbIwKy.
 
 ### NENENbHNLA N NPNKYPNBATENb
-`kia_rio_en_ba7d3ba0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/e00c50197cb8d3dfb1b4bc3f12ea688f0fdfb2bd11f66d1883456fa37be2923a.webp)
 Yo BnepeAHen.. PCgO GNPOHINTOO
@@ -1760,7 +1655,6 @@ U
 3.Ang ncnob3oBaHng nenenbHnublnaccaKNpaMN Ha3aHeMCNAeHbenOMeCTИTeeeB Aepxatenb B3aAHen 4actNO6nNLOBkn TOHHen nona.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_6bb7ecdc` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ncnonb3yite nenenbHnuy Tonbko no npaMOMy Ha3Ha4eHNIO 一 AS OKyPKOB cnrapet, cnrap N T.A. Bo N36exaHne Bo3ropaHng N nocneAyio山ero nOBpeKAeHng aBTOMonng He KnaAnte B nenenbHnuy o6pbiBkn 6yMarn,o6epTKNOT KOHeTnnpoyne ropioune Matepnanbl
 
@@ -1775,7 +1669,6 @@ RNNGXORN
 6.ocne 3TOrON3BnekNTenpNKypNBaTenb ANnonOBAHN
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_802a3019` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpNKyPNBaTeSIb MOXHO NOBTOPHO BKNIOUNTb He paHee4eM4epe3 20c.
 HeyAepxnBante KHOnky npnkypnBaTens npnHYANTENbHOB HaKaTOMNONOXEHNN.
@@ -1783,7 +1676,6 @@ He ncnonb3yuite naTpoH pnkypnbatensAng NoAksiouehns MwHx npnucnx Hnoo POB (ənek
 EcsNKHonkanpuKypnBaTeng HeBO3BpawaeTcg BNCXOAHOe nonoxeHne yepe3 30 C nocne HaKaTNs,N3BnekNTe npNkypNBaTenb N3naTpOHa, 4TO6bI He AonyCTnTb neperopaHng cnnpann.
 
 ### KANOT
-`kia_rio_en_f2ed044c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/eb0b65eee826d44ad6479412eaceb2b26ce8e66a9b01593ce63d5383da3ef0af.webp)
 
@@ -1802,12 +1694,10 @@ EcsNKHonkanpuKypnBaTeng HeBO3BpawaeTcg BNCXOAHOe nonoxeHne yepe3 30 C nocne HaKa
 4...NyCTaHOBnte ynop B cneunanbHblnna3 HaKy30Be.
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_dbbf2d25` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 IpN3aKpbIBaHNN KanOTanpOBepbTe HaAexHOCTb cpa6aTbIBaHNg 3aMka: B MOMeHT 3annpaHng AOnKeH 6bITb CnbIWH xapakTepHbln Wes4ok. BoNOOeKAHNe NORBNHN BMTNH HA nobepxHOCTN KanOTa 3akpbIBaNTe KanoT 3axnonblbaHNeM,onyckas ero C BbICOTbl 15-20 CM OT BepXHeN KpOMKN 山NTa nepeAka.
 
 ### YNPABNEHNE 0010I TO KOPO5KON NEPEAAY
-`kia_rio_en_c39b0725` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha aBTOMO6nnb yCTaHaBNNBAIOT NATNCTYneH4aTyIo MexaHnyeCKyio NnN 4eTbIpexctyneH4aTyIOaBTOMaTu4eCKyIiOKopo6kynepenay.
 
@@ -1820,7 +1710,6 @@ AngBknioyeHng 3anHeni nepenaun HaMNTe Ha KHONIKy NOA PyKORTKON, nepeMeCTNTe pbl4
 5 ABTOMaTuyeckagKopo6kanepeAa4NMeeT HeTbipenepeAanAgABkeHngBnepeA N OAHynepenayy3anHeroxona.BknloueHnekaxnon nepena4NnpONCxOANTaBTOMaTN4eCKNB3aBNCNMOCTN OT NoHUn pbiuara cenekTopa ynpaBneHngkopo6konepenay, CKOPOCTN aBTumO0N nonoxeHngnenannakcenepatopa.
 
 ### NPNMEYAHNE
-`kia_rio_en_826f9dfa` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B nepnoA O6KaTKN HOBOrO aBTOMO6NnR NAN cpa3y nocne HAknvennn aKKyMynTOPHON 6atapen (nocneee OTKJIOYEHNA NnN 3aMeHbl) nepeknioyeHne nepeAay MOxeT nPOnCxOANtb HeTaKnnaBHO,Kak O6bI4HO. TO He CBNAeTenbCTBYeT 0HeNCnpaBHOCTN - nocneHeckObKNX aBTOMaTnuecknxnepeknoueHnnnepeAaynipoLeccnepeksioyeHng CTaHeTnaBHbIM. 3
 
@@ -1831,7 +1720,6 @@ PbiyarcenekTopapacnonoxeHHa TOHHene nonaBTOMXe MeCTe, 4TONpbluar ynpabneHNA Mexa
 -R- 3aAHNxoA.epeBOnntepbl4arB 3T0 nonoxeHne TOnbKO nocne nOnHONOcTaHOBKNaBTOMO6Nng. PbiyarcenekTopa nepeBOANTCA B nonoxeHne“RTObkO npn HaxaToNnenannTopMo3a;
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_37bc62a0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HukorAa He nepeBoAnte pblyar cenektopa B NonoxeHng“P"(CTORHka) Nnn“R(3aAHnnxOA) BO BpesAeene aBTOMOene le npnbeAeTKnonoMke kopo6kN nepeAay.
 
@@ -1841,7 +1729,6 @@ PNc.1.12.PbluarcenekTopa ynpaBneHnA aBTOMaTN4eCKoN Kopo6kon nepeAay: 1 = 山kana
 -N-HeTpanb.pN 3TOM NONOkeHNN pbl4ara BKopo6ke nepenay He BKNIO4eHa HN OAHanepena4a. 3TononoxeHne ncnonb3yloT BOBpeM9ANTenbHbIXOCTaHOBOK,HanpNMep BAOpoXHbIX npo6kax;
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_03a71814` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HukorAa He nepeboAnte pblyar cenektopa B nonoxeHne "N" (HenTpanb) BO BpeMg ABNKeHNA! npn 3TOM BbIMoxeTe cnyuanHonepeMeCTNTb pblyar B nONoxeHne P (CTORHKa) WIN “R（3aAHnn XOA) BOBPeMRABNKHN aBTOMO6ung, 4TOnpnBeAeTKnonoMkeKopo6kn nepeAay. KpoMe 3TOro, CTaHeTHeBO3MOKHbIMTOpMOXeHNeABNraTeneM.
 
@@ -1850,14 +1737,12 @@ N 一 D- ABNKeHNe nepeAHNM XOAOM.3T0 OCHOBHOe nonoxeHne pblyara cenekTO-pa, BKOT
 AnepememeHngpbluara cenektopa N3 nxennn "P" (CTO9HKa) B nonoxeHne “R》 (3aAHNixoA) HaXMNTeHanenanbTopMo3a.
 
 ### NPNMEYAHNE
-`kia_rio_en_c41596fa` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CneunanbHoe ycTpONCTBO 6noknPOBkN He no-3BONNTnepebecTnpbl4arcenektopan3nonoxe-HN "P"(CTOAHKa) NN（Hentpanb) BKakoe-nn6oApyroenonoxeHne,ecnn neAanbTopMo3aHeyAepxNBaIOT B HaxATOMNOJOXeHNN. 新
 
 Apn BKNIO4eHHOM 3axuraHNN Ha Ancnnee MapupyTHoro KOMnbIOTepa B KOM6NHauNN npn6opoB NOBAAeTCR CNrHanN3aTOP, COOTBeTCTByionnonoxeHNiopbl4aracenekTopa; -3”,2,“L pexnMbl OrpaHnyehng Bbl6opanepeAay COOTBeTCTBeHHOAO IlI,I NN nepeAaun.3TnpexnMbl Ncnonb3yioTCA BOCHOBHOMAITOPMOKEHNABNraTENM.
 
 ### BEWEBbIE MWIKE CATOHA C
-`kia_rio_en_93b0542e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/b3761a5c1e1891aa0b143dfcc009d51415de78c22fa41e38c5381c92ff4f49c2.webp)
 
@@ -1882,7 +1767,6 @@ BcanoHeaBToMo6nngnpeAycMOTpeHb...
 OTCeKNAMenKNXnpeAMeTOBNAepxaTennA nenenbHnubl N 6yTbInOKB casoHe MeKAynePeAHNMNCNAeHbAMN. 福
 
 ### NPNMEYAHNE
-`kia_rio_en_b2dea603` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/feb9e6bb6664eeddc917fdc5c2c8de818587f670883a9bcb71ca27b92b02b4ba.webp)
 B3aBNCNMOCTN OT KOMNNeKTaUNN Ha aBTOMO6nnb YCTAHABNNBAIOTNOAOKOTHNKC BeWeBbIM OTCeKOMAnMkNXPeAMeTOB. HO
@@ -1893,7 +1777,6 @@ AngAocTyna KBemeBoMynkypnonoKeHHOMyCOCTopoHblnepeAHeronaccaxNpa...
 ...OTOXMNTe pyuky KPbIWKN AWNkA N OTkpovite AWNK. 3 18
 
 ### NPABNNA TEXHNKN 5E3ONACHOCTN
-`kia_rio_en_918921c7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OTpa6oTaBwne ra3bl TOKCN4HbI! Ecnn Heo6xOANMO 3aBeCTN ABNraTenb B rapaxe WnN ApyroMnomeueHnn,o6ecneybTexopo山YIOBEHTnALNIO NnNO6A3aTenbHO OTKPONTe BOpOTa.
 
@@ -1912,12 +1795,10 @@ beH3NH, AN3enbHoe TONnNBO, aHTnΦpn3, TOPMO3HaR XNAKOCTb N He3aMep3aio山ag KAKO
 npn noAbeMe ABTOMOonnn AOMKpaTOM 0693aTenbHo BKNIOYNTe CTORHOYHbIN TOPMO3 Nnooxntenon koneca C NPOTNBONONOKHon CToPoHbI nnxOAgne ynopbl. 2
 
 ### PEKOMEHAALNN nO SKCNJIYATALNN
-`kia_rio_en_133a8adf` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NepeA noe3Akon nporpente ABNraTenb, nockonbkypa6ota HenporpeToroABnraTeng Ha nOBbIWeHHbIX 06opoTaxyMeHbwaeT CpOK erocnyx6bl.
 
 ### NPNMEYAHNE
-`kia_rio_en_8060e4ec` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CornacHo COBPeMeHHbIM BO33PeHNAM, ABNra-Tenb AOCTNrHeT pa6oyen TeMnepaTypbl 6bl-CTpee,aero n3Hoc 6yAeT MeHb山e,ecnn nocnenyckanporpeBaTb erO He Ha xOnocToM xoAy,aBnpouecce ABNKeHNg,N36erag, KOHEYHO, N3-nNWHeN Harpy3KN HaABnraTenb. 京 9TNO0X
 
@@ -1946,7 +1827,6 @@ pu 3apane akkyMyngTopHon 6aTapenHenocpeACTBeHHO HaaBTOMO6NneOTBHeWHerO NCTO4HNKa
 He Hapywante CpOKN nPobeneHng KOHTpOnbHO-OCMOTPOBbIX N pernaMeHTHbIXpa6oT. Bce pa60Tbl nPOBOAnTe B NONHOM 06beMe. epnonN4HocTbnpoBeneHNgpa6oTyka3aHa Bpa3n.4TexHu4eckoeo6cnyxuBaHne",c.55.
 
 ### PEKOMEHAALNN NO5E3OIACHOCTN ABNKEHNA
-`kia_rio_en_5ef170a8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CneAyeT NMeTb B BNAy, 4TO Aaxe yaBTOMo6nnen OAHON MOAenn, BbInyWeHHbIX npakTnyeckN OAHOBPeMeHHO, eCTb NHANBNAyanbHbie OCO6eHHOCTN NOBeAeHng Ha AOpore. Ncnonb30BaTb NONHOCTbIO CKOPOCTHbleNANHaMN4eCKNeBO3MOKHOCTNaBTOMO6nngpekOMeHAyeTcanOMepenpNBbIKaHNAK HeMy, NOCTNXEHNA eroxapaktepa N TOJbKO nocne poxoxAehnn aBTOMO6NneM nepBbIX 2000-3000 KM C co6noneHneM orpaHnyeHN,yKa3aHHbIXB nonpasAene O6kaTkaaBTOMO6nn9,C.35.
 
@@ -1980,7 +1860,6 @@ OTperynnpynte BOANTenbCKOe CnneHbe TaK,4T06bl MOKHO6bINOnerKOAOTAHyTbCRAO no6oro
 -CTporo co6nionante paBnnaAopokHoro ABNKeHNA. 福
 
 ### NONE3HbIECOBETbl
-`kia_rio_en_7b1fbcf0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BoN36exaHNe nOTepN KOHTpOns HaA aBTOMO6nnem WN onpoknAbIBaHng CneAyute npnbeAeHHbIM HNke pekOMeHAauNAM:
 1 BbInOnHANTe nOBOPOTbl Ha MeHbWen CKOpoCTNB CpaBHeHNN CO6bI4HbIMN nerkOBbIMN aBTAMOONNSMN;
@@ -1989,7 +1868,6 @@ BoN36exaHNe nOTepN KOHTpOns HaA aBTOMO6nnem WN onpoknAbIBaHng CneAyute npnbeAeHH
 -Henepebo3Nte TAxeble rpy3bl Ha Kpblwe abTOMoONns.
 
 ### ObKATKA ABTOMOENNA
-`kia_rio_en_7c018cf7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ABTOMO6unNCpa3yrOTOBblKnOnHOLeHHon 3kcnyaTaunn N He Tpe6yIOT cneunanbHon 06KaTKN. OAHaKO B HayanbHbl nepnoA 3Kcnnyataunn abToMo6ung (nepBble1000 KM npo6era) nPoncxoAnt NHTeHCNBHaA npnpa6oTka AeTanen. Ang NOBbIWeHNA HanexHOCTN, AOnrOBeyHOCTN N 3KOHOMNYHOCTN aBTOMoonng npneroAanbHevweiəkcnnyataunn N nocne kanNTanbHoro peMOHTa ABnrateng pekOMeHAyeM BbInOnHRTb CneAyIOWne npaBunaЗkcnnyaTauNnaBToMoonng. r
 
@@ -2014,7 +1892,6 @@ ABTOMO6unNCpa3yrOTOBblKnOnHOLeHHon 3kcnyaTaunn N He Tpe6yIOT cneunanbHon 06KaTKN
 福 10.pOBepgiTeaBTOMaTn4ecKn HaTAKNTenbNHaTaxeHnepeMHgnpnBOna BCnoMoraTenbHbIxarperaTOB. B HayanbHblnnepnoA3Kcnnyataunn peMeHb Han6onee NHTEHCNBHO pacTarNBaTbCЯ.
 
 ### PKCNNYTLNS ABTOMOBNNA BTAPAHTNNHbIN NEPNOA
-`kia_rio_en_655dd8fb` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 O6cnyxuBaHnen PeMOHTaBTOMO6nng B TeyeHne rapaHTnHOrO cpoka Heo6xoANMO nPOBOANTbTONbKOHaCTaHLNAXTeXHN4eCKOrO 06cnyxNBaHngC 0693aTenbHONOTMeTKON 0 npOBeAeHNN pa6oT B TanOHax CepBNCHON KHNKKN,NHa BblN山NTeCbrapaHTNNHaaBTOMO6Nb.
 
@@ -2043,7 +1920,6 @@ KpoMe Toro, Bnaneneu abTomonng nnwaeTCЯrapaHTnNHorOO6Cny\*NBaHNABcneAyIoWnxcny4
 1.Hapy山eHue yka3aHu Tpe6oBaHni,n3- NOXeHHbIX B pyKOBOACTBe noəkcnnyataunn 3aBOAa-N3rOTOBNTeng. 2.Heco6noAeHNeyka3aHHbIXBcepBNCHon KHNXKe MexCepBNCHbIX npo6eroB MexAy nnaHOBbIMN TeXHN4eCKNMN o6cnyxnBaHngMN. 3. oBpexAeHneaBToMo6nngBpe3ynbTate AOPOXHO-TpaHCnOPTHOrOnpONC山eCTBNg. 产 4. CaMOCTORTenbHOe CHATNeNpeMOHTy3- 几OB NarperaTOBaBTOMO6nng B rapaHTNNHbIN nepnoA. 2 5.3aMeHaCTaHAapTHbIXy3nOBNarperaTOB Ha HenpeAyCMOTpeHHbIeKOHCTpyKuNenaBTOMoOnnA. 6.ycTaHOBka AONOnHNTenbHOrO 06opyAoBAHNA, HepeKOMeHAOBaHHOrO3aBOAOM-N3- rOTOBNTENeM. 7. Ncnonb30BaHne aBTOMO6Nng B rOHKax WNNCOPeBHOBaHNAX.
 
 ### NOArOTOBKA ABTOMOBNNA KBblE3Ay
-`kia_rio_en_6fede927` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nepeA Bble3AOM npOBepbTe TeXHN4eCKOe COCTORHNe aBTOMO6Nng. Bbl 3aTpaTNTe He 6oneeAecaTW MNHyT,3aTo6yAeTe yBepeHbl B NCNpaBHOCTNCNCTeMNarperaTOBaBTOMO6N.poBepKy Heo6xOANMO BbInOnHTbNnpn exenHeBHon 3KcnnyaTaunNaBToMo6nng,Aaxe ecnNBaM kaxeTCA, 4TOBCepa6oTaeT 6e3yKOpN3HeHHo.4aCTbpa6OTMOXHOnpOBeCTN BO BpeMg nporpeBaABnraTeng, CЗKOHOMNB HeCKOJIbKO MNHYT.
 
@@ -2066,7 +1942,6 @@ Pa3HNua 3Ha4eHnN AABneHng BWNHaX OAHoi ocn （20-30kfla) MokeTyxyA山NTb napaMeT
 1 HanN4NeNCOCTOAHNe HOMepHbIX 3HaKOB.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_15c6246d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Φapbl, 3aAHne ΦOHapn N HOMepHble 3HaKN AOnKHbIObITb YNCTbIMN.
 
@@ -2081,7 +1956,6 @@ Pa3HNua 3Ha4eHnN AABneHng BWNHaX OAHoi ocn （20-30kfla) MokeTyxyA山NTb napaMeT
 5..NypoBeHb oxnaxnaio山enuAkocTN B pacwnpNTenbHoM6a4ke. pnHeo6xonNMoCTNAONeNTeKNAKOCTNAO HOPMbI.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_e4e97982` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 A AONNBKN ncnonb3yuite TOPMO3HyIO KNAKOCTb Knacca DOT-3 NNN DOT-4. CneAyeT NMeTbBBNAy,4TOTOPMO3HaAKNAKOCTbKaCca DOT-5HenOAXOANT ATOPMO3HONCNCTeMbl BaweroabTOMo6nng.
 
@@ -2117,7 +1991,6 @@ A AONNBKN ncnonb3yuite TOPMO3HyIO KNAKOCTb Knacca DOT-3 NNN DOT-4. CneAyeT NMeTb
 4TOBCeABepn HaAeXHO3aKpbITbl. H
 
 ### NPNMEYAHNE
-`kia_rio_en_7cb75601` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NepeAAanbHen noe3Akon NnocneAntenbHOro nepepbiBa B 3kcnnyataunn npoBepbTe CoCTORHNe 3anachoro koneca, yKOMnnekTynTe aBTOMO6NNb NHCTPyMeHTaMN N nPnHaAnhoCTAMN.
 
@@ -2126,14 +1999,12 @@ B cnyuae 06Hapy\*eHng HencnpaBHOCTN npNMnTe peweHne (C y4eTOM Tpe6oBaHnn paBnnAO
 ToApo6HonpoBepkn onncaHblBnoApa3neneExenHeBHoe o6cny\*NBaHne(EO)》,C. 56.
 
 ### 3ANPABKA ABTOMOENNA TONNBOM
-`kia_rio_en_3f80cdeb` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ABTOMO6unb pacc4ntaH A9 pa6oTbl Ha 6eH3NHe COKTaHOBbIM 4NCNOM 95.AonyckaeTcA NCNONb30BaTb HeTnNPOBaHHblN 6eH3NH C OKTaHOBbIM 4nCnOM 92, HO TOnIbKO B KpaHeMCny4ae,ecnNBOBpeMnoe3AKN HeBO3MOKHO3anpaBNTbaBTOMO6nnb6eH3NHOM COKTaHOBbIM4NCNOM 95n Bblwe. BTaKNx cnyyagx He Tpe6yeTcg cneunanbHo perynnpOBaTbABNraTenb. pN3anpaBke6eH3NHOMC OKTaHOBbIM YNCNOM 92 əkcnnyaTauNOHHble xapaKTePNCTNKNABNraTenCHNKaIOTCA.EcNN BblBCe xe 3anpaBnnNcb6eH3NHOM C HN3KNM OKTaHOBbIM4NCNOM, TO He nOABepraiiTeABNratenb 60nbwnM Harpy3kaM - 3T0 MOXeT npNBeCTNK cepbe3HbIMnonoMkaM.pnnepBON xe B03MOXHOCTN 3anente pekOMeHAOBaHHOeTONnNBO.
 
 BaMnOTpe6yIOTC9:KaHNcTpac 6eH3NHOM,Cneunanbhas BopohkaAnsroponHbl TOnnNBHoro 6aka. 68
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_7e553560` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/97f6bb38af1eb189ce3b54ac821aa6682b2a473c62005195b45e2449751a7e81.webp)
 
@@ -2143,7 +2014,6 @@ NOSTOMyAnA NCKJIOyeHna cnyuanHon 3anpabKN TaKNM 6eH3NHOM ANaMeTp rOPnOBnHbi HanN
 HeKypnte W HenONb3yNTeCb OTKPbITbIM OrHeM BO BpeMg3anpaBkN.
 
 ### NONE3HbIE COBETbl
-`kia_rio_en_f8c7a41f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcJN Ha A3C,rAe Bblpacc4NTbiBanN 3anpaBNTb aBTOMO6nnb,TOnbKO 4TO CnNBann TONNBO N3 6eH3OBo3a,nyywenonckatbApyryio KONOHKy, nn60 BePHyTbCA Ha Hee 4epe3HeCkOnbkO 4aCOB.AenOBTOM, 4TOHe BCeKOnOHKN O6OPyAOBaHbIXOPOWNMNnnbTpaMN O4NCTKN NHYXKHO BpeMg,4TO6bl BCgrpg3bB 6eH3NHe ocena Ha AHO UNCTepHblA3C.3anpaBngTeaBToMo6nnb HanpoBepeHHbIxA3C.MoWHoCTbNAOnroBeyHOCTbABNraTen HanPAMYIO 3aBNCT OT kayeCTBa6eH3NHa.
 
@@ -2170,7 +2040,6 @@ po6ka HanuBHon Tpy6bl TonnuBHoro 6akapacnonoxeHa Ha neBOM 3aAHeM KpblnenoAOTKNAH
 5.Npo6kaTonnBHoro6akanpukpenneHaK Ky30By naCTNKOBbIM XryTOM. 4To6bl He nouapanaTbNakOkpaco4HoenOkpbITueKy30Ba, 3akpennTenpo6KyBAepkaTene Ha BHyTpeHHeCTOpOHeKpbIWKN.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_d0b6bcc3` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Nockonbky napbl TOnnnBa Moryt CO3AaBaTbBHyTPN 6aka noBbIWeHHoe AaBeHne, OTBOPa-4NBaNTe npo6ky HAnNBHON rOPnOBNHbI MeA-neHHO. 3TO nO3BOnnT ypaBHaTb AaBneHne BHy-TpN6aKaCaTMocΦepHbIMAaBnIeHNeM.EcnNBblyBNAnte nap,BbxoAawnn N3-noA npokn, NNNycnbIWnTe WuRRRNM 3ByK, TO npekpaTnTeOTBOpa4NBaTb npo6kyN NOAOKANTe, nOka3TN3BYKN He npeKpaTaTCA. NHaye TonNBO MOKeTBbInneCHyTbCSN3 6aka. 2 H168 LNU
 
@@ -2181,7 +2050,6 @@ Nockonbky napbl TOnnnBa Moryt CO3AaBaTbBHyTPN 6aka noBbIWeHHoe AaBeHne, OTBOPa-4
 8.3akpouTeKpblukyNoka NynanntenoteKNTONnNBaBETO山bIO
 
 ### NO几b3OBAHИE AOMKPATOM
-`kia_rio_en_115d0ab1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ang 6e3onacHoro noAbeMa aBTOMO6nnA AOMKpaTOM Heo6xoANMO BbInOnHNTb cneAyiomee.
 
@@ -2201,7 +2069,6 @@ YcTaHOBNTe npOTNBOOTKaTHbIe ynopbl noA konecaco CTOPOHbI,nPOTBOnONOXHONTOn, KOTO
 3.onneHbTe 4epe3 OTBepcTne KpbI山Ky HN山NA93anacHoroKoneca N3BneknteKpblwky BMeCTeCKOBpNKOMN36araXHNka.
 
 ### NPNME4AHNE
-`kia_rio_en_fa4d027b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/446651a55dc81ac3898d69886ef98dae0df3fd5e55c5b3dd0bff2f8b96fc209e.webp)
 BnonOCTNANcka 3anacHorOkOnecaHaxoANTCA CyMkaAsXPaHHN NHCTPyMEHTOB.
@@ -2211,7 +2078,6 @@ C
 ![](images/6fb1a269824a0bf4ab7decbe3f04106b368199e7cdc00800e917e6184b721474.webp)
 
 ### 5.V3BneKNTeN3CyMKNAOMKpat...
-`kia_rio_en_7685f835` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/00f80f1045b776836908112e68de784a5d5738244b31222be4aa16e1f27b9487.webp)
 
@@ -2232,7 +2098,6 @@ AOMKpaT CHa6xeH HaKneikon, Ha KOTOPyIO HaHeceHa NHCTPyKUNAnO eroNcnOnb3OBaHNIO.
 8.ycTaHOBNTeAOMKpaTnOA nOpOrKy3OBa TaK, 4TO6bI pe6po nopora pa3MeCTNnNCb B na3yrOnOBkNAOMkpaTa.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_4843d85e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 He pa6oTante NOA aBTOMO6NneM, MIAHSTIIM HaAOMKpaTe,HOecN 6e33Toro He o6oiTNCb, yCTaHOBNTe nOA Ky3OBnpo4HbleN yCTONynBble oropbl.
 
@@ -2251,7 +2116,6 @@ AononHNTenbHble onopbl cnenyeT ycTaHaBANBaTbTOnbkOnOAcneLNanbHOnpeAHa3Ha4eHHble 
 11.4To6blnonHgTbaBToMo6ub,Bpamante CNNOBON BNHTAOMKpaTanO 4aCOBONCTpenke. 12.ocne NCnOnb3OBaHN9 nOnHoCTblOCnOKNTeAOMKpaT,Bpa山agCNnOBON BNHTAOMKpaTanpOTNB4aCOBOCTpenKN,nOMeCTNTeerOB cyMKy.Takke y6epnte B CyMKyBOPOTOKNKIO4 AA raekKonec. y6eputeynopN3-nonKoneca.
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_c82e18f3` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ABNraTenN abTOMo6nnen, o6opyAOBaHHbIXKaTanNTNyeCKNM HeNTpaN3aTopOM OTpa6oTaBWNX ra30B, Henb39 nyckaTb 6yKCNpoBkoN NNN TONKAHNeM -3TOMOXeTnPNBeCTN Kneperpeby N BbIxOAy HenTpann3aTopa N3CTpOg.
 B cnyaepa3paAkN akkyMyngTopHon 6atapen HenbITaiTeCb nyCTNTbABNraTeb 6yKCNpOBKON NNTOnKaHNeM aBTOMOGnng.
@@ -2284,7 +2148,6 @@ BakyyMHbliycnnntenb TOPM03HON CNCTeMbl AeNCTByeT TOJbKO npnpa6oTaIoweMABnratene.
 7..N 3aaHepoynHynobygo A9 raek KOnec BKa4eCTBeBOPOTKa. 福 ep
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_4c3f486e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ABTOMO6Nnb C aBTOMaTN4eCKON kopo6kon nepeAay MoxHO 6yKcnpoBaTb CO CKOpoCTbIO He 6onee 10KM/4 Ha paccTORHNe He 6onee 30 KM. nepeA 6ykcnpoBkon 0693aTenbHo y6eAnTecb B OTCYTCTBNN yTeyek pa6oyen KNAKOCTN N3 AKN.Npn Hannynn yTeyek pa6o4enXnAkoctn N3 AKn ncnonb3yute nnatΦopMy 3BakyaTopa.
 
@@ -2299,7 +2162,6 @@ ANnOnb3OBaHg aBTOn Bka4eCTBe 6ykcnpoBuNka B3aAHeN 4aCTNOCHOBaHNgKy3oBanpnBapeHac
 3akpenuTe 6yKcupoBOyHbIn Tpoc 3a 9Ty npoywnHy.
 
 ### OBWNE NPNEMbI NYCKAABNrATENЯ
-`kia_rio_en_2dff8a58` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pnembl nycka ABNraTeng C CNCTeMON Bnpbicka TOnnnBa OANHaKOBbI npn n06on TeMnepaTypeHapyKHoroBO3Ayxa N XNAKOCTNBCNCTeMeOXNaXAeHNgABNraTeng. 930
 
@@ -2326,7 +2188,6 @@ Angnycka AOCTaTO4HO nn山b BKNIO4NTb CTapTep, He npnkacagcb K nenann npnbona Apo
 6.He 3akpblBag KanoT (B CnyyaeAOxA Wn CHeronananpukpoute ero),canutecb3a pynb. NoBepHNTe KlOY B BbIKloyaTene (3aMke) 3aXNraHngBnOnOXeHNe“ON"(BKIOYNTe 3axwraHNe)nPNTOMBKIO4NTCA 3nekTpo6eH30- HaCOC.yCTNTeABNraTenb, nOBepHyBKAOyB 3aMke3aXNraHNABnOnOXeHNe“START"WnNC NOMOWbIOKHONKNnycka N OCTaHOBKNABNraTen9(CM.“OpraHbl ynpaBneHng,c.13).
 
 ### NONE3HbIECOBETbl
-`kia_rio_en_089b3411` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KanOT nyywe 3akpbiTb nocne ToroKaK ABNraTenb HayHeTpa6oTaTb.NlepeA3TNM KenatenbHO e山epa3OCMOTpeTbABnraTenb,y6eANTbCR BOTCYTCTBNNTeyen TOnsnBa, Macna,oxnaxAaiomen XNAKOCTN,nOCTOpOHHNX3ByKOBBerO pa6oTe. Ecnn no kakon-nn6o npngnHe BO BpeMg HeyAayHon nonbITKN nycka 6yAyT"3annTbl" CBeLn 3axuraHng, BOCNOJb3yNTeCb peXNMOM anpoAyBKN"LNNNHAPOB. A3TOrO HaXMnte Ha neAanb npNBOAaApoccenbHon3acnoHkNAOynopaNBKNIOnte CTapTep. BəTOMpexnMe noAa4a TOnnnBa OTCYTCTBYeT N N3 UNNNHAPOs NOTOKOM CBexerO BO3Ayxa6yAeTyAaneHnN山- HNN 6eH3NH,np 3TOM CBe4N 3axnraHng cyWaTcA. nocne npOAyBkN NOBTOpNTe nonbITKy nycka B oObIuHOM nopaAke.
 
@@ -2337,12 +2198,10 @@ Ecnn ABraTenb He 3aBencA, CyWeCTBYIOT TPNOCHOBHbIenpN4NHbl:
 -Hepa6OTaeTCNCTeManNTaHNg.
 
 ### NPNMEYAHNE
-`kia_rio_en_270a55b1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NOMNMO nepeyncneHHbIx OCHOBHbIX NPNunH, ABNraTenbMOXeT HenyCkaTbCA npNHencnpabHOCTN KnanaHa npoAyBkN aAcop6epa wnn nOACoceBO3Ayxa 4epe3coeANHeHnsWnaHrOB CNCTeMbI ynabnnBaHng napOB TOnnnBa.
 
 ### HENCNPABHOCTN BCNCTEMENYCKA
-`kia_rio_en_1045718a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HencnpaBHOCTNB CNCTeMenyckanpOABngIOTCA B HapyweHNgX HOpManbHon pa6oTbl CTapTepa. MoXHO Bblenntb CneAyIoWne OCHOBHble HeNCnpaBHOCTNCTapTepa.
 
@@ -2363,7 +2222,6 @@ yka3aHHble HeNcnpaBHOCTN Tpe6yioT KBannnunpOBaHHoro BMeWaTeNbCTBa B aBTOcepBNce 
 N3aTAXKyKOHTaKTHbIXCOeANHeHNiBLenNcTaptepa. NUNH VLNON GTNMNHAON
 
 ### NONE3HbIN COBET
-`kia_rio_en_5e92c501` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NepeA npobepkon CNCTeMbI 3axNraHng ycTaHOBNTe pbiyar nepeksiogeHng MexaHNyeckON KOpo6KN nepeAay B HeNTpanbHoe nonoxeHne (pblyar Hepeknlogenng cenektopa aBTOMaTN4eckoNkopo6kn nepeAay B nonoxeHne "P")N BKNIOYNTe CTOAHOYHbIN TOPMO3.
 
@@ -2387,14 +2245,12 @@ NepeA npobepkon CNCTeMbI 3axNraHng ycTaHOBNTe pbiyar nepeksiogeHng MexaHNyeckON 
 7 npnxMnte CBeyy MeTannyeckon 4aCTbIO K“Macce"aBoMo6uns,HanpMepK BblnyCKHOMykonnekTopy.TonpocntenoMOHNka npOBepHyTb CTapTepOMKOneH4aTbIn Ban ABNraTeng.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_096903eb` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaAeKHbINKOHTaKTKOpnyca CBeLN C“MaccoN"063aTeneH,TaK KaK npn NNNHNAONNN
 
 TenbHoro nCkpoBoronpoMexyTka, 6onbwero, 4eM 3a30p MexAy3nektpoAaMN CBeUN, B03- MOXHOnoBpeXAeHNeKaTy山kN3aKNraHNg. 9TO yka3aHHyionpoBepkynpoBoAnTe He6oneengtn CeKyHA, 4T06bl He nOBpeANTb Hentpann3aTop OTpa6OTaBWNX ra3OB npN nonaAaHNN B Hero He cropeBwero BuNnnHApaXABnraTeng 6eH3NHa.
 
 ### NPNMEYAHNE
-`kia_rio_en_7ea9c7e6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/6433d3fa3b9c306d25cfe02d5fe86f673dff992928468cc7794cb4c0a555c0ca.webp)
 
@@ -2407,7 +2263,6 @@ NMenite B BNAy, 4TO 3nekTpo6eH30Hacoc He BKNIOyaeTCA, ecnn B.CNCTeMe TonnnbonoAa
 2.NpoueAypa npoBepknAaBneHnsTonnuBa onncaHa B pa3n. 5BnraTenb（CM. fpoBepkaAaBAeHNgBCNCTeMenNTAHNAABNraTec.10O).pn pa6oTaio山eM Ha xonocTOM XOAyABNraTeneAaBneHNeBTOnnNBOnpOBOAe AOnKHO6bITbnpNMepHo3KrC/CM² CnslatHon
 
 ### NPOBEPKA CNCTEMbI NNTAHNAABNIATENA
-`kia_rio_en_b8c39a82` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B03MOXHbl cneAyIowne nPnynHbI CHNKeHAABHNA: 4 1
 
@@ -2419,7 +2274,6 @@ OCHOBHbIMnOKa3aTeneMNCnpaBHOCTN CNCTeMbl NTaHNgABNraTng RBRTER AaBneHneTOnnnBa B
 ![](images/9a832b05dc5e10224b660973c70ef69f85f660a6e0ff89fb1a4a99fef9825194.webp)
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_8287df0c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpoBepka AaBneHng TOnnBa BTONNNBHON paMneABNraTengBO3MOKHa TOnbkOnPNHanNNNMaHoMeTpaCHa6opOMnepexoAHnkOBAA NOAKTIOUeHNgKTOnnNBHOMyTPyOOnPOBOAy.
 
@@ -2440,7 +2294,6 @@ Cnoco6bl yCTpaHeHNg 3TNX HencnpaBHO-CTen BblHanneTe Bpa3. 5BnraTenb）(CM.“CNC
 NTX0M9N MTHONO
 
 ### HENCNPABHOCTN CNCTEMbI BNPbICKA TONNNBA
-`kia_rio_en_7c164e69` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha aBTOMO6nne npnMeHeHa CNCTeMa pacnpeAeneHHoroBnpbICka TOnnNBa C 06paTHoiCBA3blo.PacnpeAeneHHblMBnpbICK Ha3blBaeTCA nOTOMy, 4TOTONANBO BNpbICKNBAETC9 B kaxAbln LNANHAP OTAenbHOn ΦopcyHkon. CucTeMa BnpbIcka TOnnnBa n03B0nT CHN
 
@@ -2449,7 +2302,6 @@ Ha aBTOMO6nne npnMeHeHa CNCTeMa pacnpeAeneHHoroBnpbICka TOnnNBa C 06paTHoiCBA3bl
 B3TOMpa3AenenN山bKpaTkOOnncaHbl He-NCnPaBHOCTN CNCTeMbIBnpbICKa, Bbl3BaHHbleOTKa30M Tex wnn NHbIX AaT4NKOB. NopanokCHTNNyCTaHOBKNy3NOBCNCTeMnNTAHNNynpaBneHng ABNraTeneM npnBeAeH B no-Apa3nenax “CNcTeManNTaHNa" C. 98; "Cn-CTeMaynpaBneHn9ABnraTeneM",C.211. 号
 
 ### NPEAYNPEXAEHNA
-`kia_rio_en_9d4d85eb` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpexAe 4eM CHNMaTb no6bley3/blCncTeMbl BnpbIcka TonnnBa, OTCOeANHNTe nPOBOA OT KneMMbI“MNHyCaKKyMyngTOpHOn6aTapen.
 
@@ -2493,7 +2345,6 @@ Npobepky CNCTeMbI BnpbICka npOBOANTeB cnenyIoLeMnopsAke.
 福 AaTuNK a6conIoTHoro AaBneHng (pa3- pexeHns) BOBnyCKHON Tpyoe -npnOTka3e
 
 ### NPEAYNPEXAEHNA
-`kia_rio_en_8e683faa` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AaT4nka nOBblWaeTCA pacxoA TOnnnBa, 3HaNTenbHOyXyAWaeTCAANHaMNka, BO3HNKaIOT npo6neMbICnyCkOMABnraTen;
 
@@ -2511,7 +2362,6 @@ AaT4nka nOBblWaeTCA pacxoA TOnnnBa, 3HaNTenbHOyXyAWaeTCAANHaMNka, BO3HNKaIOT npo
 -AaT4NK CKOPOCTN -B03MOXHblyxyAweHNe ANHAMN4eCKNX Ka4eCTB aBTOMO6nng N nOBbIweHNe pacxoAa TOnnnBa. npoBepbte HaAeXHOCTb HPncoenNHenng KAaT4NKy KOnOAKNryta nPOBOAOBN O4NCTNTe OT OKNCNOBeeKOHTaKTbl. g seRdd
 
 ### NPONAN C XONOCTON XOA
-`kia_rio_en_083cb8be` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AonpeAenehng npnnH ton HencnpaHOCTNTpe6yeTCA cneunanbHoe ANarHOCTN4eckoe o6opyAOBaHne, nO3TOMyB AAHHOM cnyyae COBeTyeM 06paTNTbCA Ha CTAHLNIO TeXHN4eCkoro o6cnyxnBaHng, cneunann3npyiomyioca Ha peMOHTe aBTOMO6nnen CNHKeKTOPHbIMNABNraTEnAMN.
 
@@ -2520,7 +2370,6 @@ AonpeAenehng npnnH ton HencnpaHOCTNTpe6yeTCA cneunanbHoe ANarHOCTN4eckoe o6opyAO
 OnHaKO HeO6XOANMO OTMeTNTb, 4T0ya山e BCeroəTa HeNCnpaBHOCTb 6bIBaeT Bbl3BaHa OTKa30M AaT4nka nnokeHnAAPoccenbHon 3acnOHKN NnN nOACOCOM nOCTOPOHHero BO3Ayxa 4epe3 HennOTHble COeANHeHnn WnaHroB, npNcoeANHeHHbIXKBnyCKHOnTpy6e. Ecnn 3aMeHoN ApoccenbHoro y3na N NOATAXKON XOMyTOBWNaHrOB BOCCTaHOBNTb XONOCTON XOA He yAanocb, 06paTnTecb K cneLnannctaM.
 
 ### NEPEbON B PAbOTE ABNIATENA
-`kia_rio_en_8728efcd` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pNnepe6ogxABnraTenb HepoBHopa6oTa-eT HaXONOCTOM xOAy, He pa3BNBaeT AOCTa-TO4HON MOWHOCTN, nOBbIWeHHO pacxonyeT6eH3NH.Tepe6on, Kak npaBnno, 1OACHRIOT-C9HeNCnpaBHOCTbIOOpCyHOK, kaTywek NnNCBeyen 3axnraHng OAHOrO N3 LNnNHAPOB,3nekTpo6eH30Hacoca (CM. "CNCTeMa nNTa-HNA", C. 98). HyKHO HaiTN HeNCnpaBHOCTbNNOBO3MOKHOCTNyCTpaHNTbee.
 
@@ -2545,7 +2394,6 @@ pNnepe6ogxABnraTenb HepoBHopa6oTa-eT HaXONOCTOM xOAy, He pa3BNBaeT AOCTa-TO4HON 
 8.N3Bneknte KaTyuky 3axnraHna 1-rouNnNHApa. ycTNTe ABnraTenb. Ecnnnepe6on ABNraTeng Heycnnnncb, 3aMeHNTe CBe4y B 1-M UNnNHApe 3aBeAOMO NCnpaBHON. Ecn nepe6onycnnnnncb, nocnenoBaTenbHo nOBTopaiiteaTynpoueAypy COBCeMNLNNHApaMN,4TOObl O6HapyKNTb HenCnpaBHyiOCBeyy.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_5c63db99` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha OnncaHHyIo Bblwe npoBepky nocTapaitecb 3aTpaTNTb KAKMOKHO MeHbWe BPeMeHN: kaTaJNTN4eCKNN HeNTpann3aTop npn AJNTeNbHOM nOCTyneHNN B Hero Hecropebwero 6eH3NHa MOKeTBbINTnN3CTpOsN3-3aneperpeBa,TaKKaK 6eH3NH6yAeTCropaTb HenocpeACTBeHHOBHeM.
 
@@ -2554,7 +2402,6 @@ Ha OnncaHHyIo Bblwe npoBepky nocTapaitecb 3aTpaTNTb KAKMOKHO MeHbWe BPeMeHN: kaT
 BepkaKOMnpeccuN BLNnNHApax>,c.70). Hop-ManbHan KOMnpeccng - He MeHee 10Mna(10Krc/CM²), pa3Hnua3Ha4eHnKOMnpeccnNBnnHApax6onee0,2Ma （2KrC/CM²）CBN-AeTenbCTByeT 0 Heo6xOANMOCTN peMOHTaABNraTeng.
 
 ### ANAFHOCTNKA CAUROSONS ABNTATENA nO BHEWHEMY BNAY CBE4EN 3AKNIAHNA
-`kia_rio_en_84618387` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/6b653ebd85ef7b9fb3aaa409e0ac84a3c034ebc21995e6798b335ecef106b4d1.webp)
 
@@ -2563,19 +2410,16 @@ BepkaKOMnpeccuN BLNnNHApax>,c.70). Hop-ManbHan KOMnpeccng - He MeHee 10Mna(10Krc
 Kopu4HeBbln NnN cepObaTO-xenTOBaTbl LBeTN He6onb山oN N3HOC anekTpOAOB. To4- HOe COOTBeTCTBNe TenOBOrO3Ha4eHN9CBeNgABnratengnpaooynxycnobnn.
 
 ### NONE3HbIN COBET
-`kia_rio_en_409d16dc` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pN3aMeHe CBeye HOBbIMN yCTaHaBnNBaiTe CBeLn CTEMNXexapaKTepNCTNKaMN N34ncna peKOMeHAOBaHHbIX3aBOAOM-N3rOTOBNTEneM.
 
 ![](images/f5a5fde5d8d2850548d6582168bce4cffb1fd5739fe60307f9aa511b60815664.webp)
 
 ### 2.OTnoxeHNcaxn.
-`kia_rio_en_1d94519c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OToxeHNe cyxon KONOTN yKa3bIBaeT Ha 6oraTylo TONNNBOBO3Ay山HyIOCMeCb NNNnO3- AHee 3axuraHne. Bbl3blBaeTnponyckn3axNraHN,3aTpyAHeHHblnyCKABNraTengHeyCTON4NByIOpa6OTyABNraTeng. NpoBepbTe,He 3a6NT 几 BO3AyWHbIN ΦnnbTp, NcnpaBHbl N AaT4NKN TeMnepaTypbIoxnaxAaio山ennAkoCTN NBCaCbIBaeMOrOBO3Ayxa. 1
 
 ### Ncnonb3yite 6onee "ropgyyio"CBeyy.
-`kia_rio_en_04a67630` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5f419477bbf6d5fba6d31d695e8f0eee3df737aab3bf1beedc5957dd4aae5630.webp)
 
@@ -2590,7 +2434,6 @@ OToxeHNe cyxon KONOTN yKa3bIBaeT Ha 6oraTylo TONNNBOBO3Ay山HyIOCMeCb NNNnO3- AH
 OTAOKEHNA Ha 1o6ke nONSTOPA OKNCNOB xene3aKNpnN4HO-KpaCHOrOLBeTaN3aHTnAeTOHALNoHHbIxXenIe3ocoAepxawNXnpncaAok (ΦeppoueHoB) K 6eH3NHyOTKnaAbIBaIOTCg POBHbIM, OTHbIMCnOeM. pupa6oteABnraTeng 6onbwonHarpy3kon nOnBo3neNiCTBNeMBbICOKON TeMnepaTypbl NAaBneHNg B KaMepeCrOpaHNAOKNCbIBOCCTaHaBNNBaIOTCA B TOkOnPOBOAnLNe AOPOXKN yNCToroKene3a, 3aMblkaioWne LeHTpanbHbin aneKTpoA Ha “MaCCy".3TOBbl3blBaeTnponyCKN3aXNraHN9 N,KaKCneACTBNe,naAeHNeMO山HocTnABnraTeng NnOBbI山eHHbIpaCxOATOnnBa. nloMNMO 3TOrOMOXeT6bITb NOBpeXAeH KaTannTN4eCkNN HeiTpann3aTop OTpa6OTaBwNxra3oB, CNnbHO neperpeBaiownncsnpn nonanaHnnB Hero He CropeBwerOBLNnNHApaxABNrateng 6eH3NHa. HaneTnpaKTuyeckN HeyAangeMMexaHN4eCKNM cnoco60M N He BbiropaeT npn AINTenbHOM ABNKeHNN C 6onbwon CkopoCTbIO. EcnN3TOT HAnetNOnnnA HaHOBbIX CBe4axnocne He6onbuoronpo6era,cMeHnte MeCTO3anpaBkN.
 
 ### NONE3HbIN COBET
-`kia_rio_en_945d12bd` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn HeT BO3MOXHOCTN cpa3y xe 3aMeHNTb CBeyn HOBbIMN,nonpo6yite yAanntb 3TOT HaneT,norpy3NBCBeyn HaAeCTbMNHyTIOOKaMN N3ONATOPOB B opTOcoccopHyIo KNCNOTY NNN npeo6pa3obaTenbpxaB4NHbl (COAepXNT OPTOOccOpHyIo KNCnOTy).oCne əTorO ouNCTnTe HaneT HeMeTannnueckOi山eTKON (MOXHOCTapon 3y6Hon山etkon) NnpOMONTeCBeyNCHayanaBoAon,a3aTeM6eH3NHOM.
 
@@ -2602,19 +2445,16 @@ OnnaBneHHble3nekTpoAbI.N3ongTop6enbln HO MOxeT 6bITb 3arpa3HeH N3-3a nponyckOB N
 ![](images/247ab054c30a01fd335c96edebf37513aa661518e8b9f9e63f30dd67dabea91b.webp)
 
 ### 6.AeTOHaLng.
-`kia_rio_en_864a8d3c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 N3ONTOP MOKeT 6bITb pacTpeckaBwNMCA WN CO CKOnaMN, 4TOMOKeTnPNBeCTN K NOBPe\*AeHniO NOPWHA. y6ennTecb, 4TO OKTaHOBOe 4nCno 6eH3NHa COOTBETCTByeTTpe6yeMOMy.
 
 ![](images/acfdc6f11fbbb23eaedd6e7f7cd666ebd1ce4139c28f184198db230412cc3396.webp)
 
 ### 7.MexaHn4eckNe nobpe\*AeHNg.
-`kia_rio_en_05302870` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NoBpexAeHngMory 6bITb Bbl3BaHbl NHOPOAHbIMNnpeAMeTaMN,nonaBWNMN B kaMepy cropaHna, aB cnyyae CNb30BHNA CANWKOMANHHON CBeynee3nekTpoAbl MO\*eT3auennTbnopweHb. 3TOnpNBOANT k pa3- pyweHnIO CBe4N, OTKAIOYeHNIO UNnNHApa N MOXeT noBpeAnTb nopweHb. yAasnTe NHOpOAHbIn npeAMeT N3 UwnnHApan (nnn)3ameHNTeCBe4y.
 
 ### ABTOMOBNNb ABNKETCA PbIBKAMИ
-`kia_rio_en_2e0c6147` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pNMeHNTenbHO K aBTOMO6NIO PbIBOK 二 3T0 KpaTKOBpeMeHHOe caMOnpoN3BobHoe N3MeHeHNe4aCTOTbI Bpa山eHNg KOneHyaTOro Bana ABNraTeng He3aBNCNMO OT ONOoHUn nenann npNBOAaApoccenbHo3aCnOHKN B nOBceAHeBHON əkcnyaTaunN, Kak npaBnno, NMeIOT MeCTO cepnn PbIBKOB. NpenenbHbli CyyanpblBka,npoBan,npeAcTaBngeT co6on O山yTNMOe3ana3AbIBaHNeOTBeTHOpeaKuNN ABNraTeng Ha HaxaTne nenann npnBoAa ApOccenbHO 3acnOHKN. Dsa
 
@@ -2625,26 +2465,22 @@ Ang onpeAeneHng nPnunH PbIBKOB npn ABNXeHNN aBTOMo6nng C NHXeKTOPHbIM ABNraTeneM
 pN HanNyNN HeKOTOPbIX HaBbIkOB npNuNHy PbIBKOB MOKHO BbIABNTbCaMOCTORTeNbHO.
 
 ### PbIBOK BMOMEHT HAYANA ABNKEHNY
-`kia_rio_en_6ca10486` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 福 B MOMeHT Hayana ABNKAHNN 4a山eNMeeT MeCTOnpenenbHblncy4aipblBka 一 npoBan. CaMble HenPNgTHble Wymennn CB93aHbI WMEHHOC3ana3AbIBaHNeMOTBeTHOpeaKuNN ABNraTeng Ha HaxaTne nenann npnBoAa ApoccenbHon 3acnOHKN. NHorAa ABNraTenb npN3ToMAaxeroxHeT.
 
 PbIBOKBO3HNKaeTBMOMeHT Ha4anaOTkpblTNAPOccenbHON3aCnOHKN, korna3nektpOHHbln 6nok ynpaBneHng ABnrateneMonpeneTMOMeHTnepexona N3 pexnMaxOnOcTOro xona Ha Harpy304Hbln pexnM N AOnKeH yBennynTb KONN4eCTBO nonaBaeMoro 4epe3 opcyHKNTOnnnBa pN HeAOCTaTO4HOMAaBneHNNBTonnnBHon paMne,AakenpN yBenn4eHNNANTenbHOCTNBnPbICKa, TOnnnBa nnaBHoroTporaHNgC MeCTa He XBaTaeT. MeTOANkanpOBepkN AaBneHng TonnnbaonncaHa B nonpa3nenelpoBepkaAaBneHng BCNCTeMenNTaHNgABNraTen",C. 100. 药
 
 ### PbIBKN NPN PA3rOHE
-`kia_rio_en_626df2aa` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpnynHon PbIBKOB npn pa3roHe MOXeT 6bITb,KakNBnpeAbIAy山eMcnyyae,HenoctaTO4HOeAaBneHNeTOnnNBaB TONnNBHONpaMne.3nekTpoHHbl 6nokynpaBneHngABnrateneM, nonyynB OT 6noka ynpaBnenng ApoccenbHon3acnOHKOn CNrHaNO6NHTeHCNBHOM OTKPbITNN3aCnOHKN Ha 6onbwon yron,cpeMNTCA MakcuMabHO yBenNyNTb nonayy TOnnnBa, HO N3-3anOHNKeHHOrOAaBneHNTOnnNBaHeBCOCTOAHNN 3TOrOCAenaTb.pn4NHbl Takoro BBHR N cnoco6 npoBepkn pacCMOTpeHbl B nonpa3nenePblBOK B MOMeHTHa4anaABNKeHN,C.44. KNOnLXAE
 
 nOMNMO yka3aHHbIX nPNynH, PbIBKN npn pa3roHeaBTOMO6nng C aBTOMaTN4eCKON KOpo6ko nepeAa4 MoryT6bITbBbl3BaHblKaKHeAOCTaTKOMpa6O4enNAKOCTNB kopo6kenepenay (cM.fpoBepkaypoBHg WAonnBkapa604ennnkoctn BaBTOMaTu4eCKyIOKOpo6Ky nepena4>,c. 58),Tak NHeNCnpaBHOCTblocaMOn Kopo6kn nepenay. 福 CRO
 
 ### NPNME4AHNE
-`kia_rio_en_8c255cf2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ABTOMO6Nnb CaBTOMaTN4eCkON KOpO6Kon nepeAay MOKeT Pa3rOHATbCA PbIBKaMN B Hayane nepbon noe3AkN nocne OTKNIOYEHNN No6paTHOrONAKNOYHNg aKKyMyJSTOPHON 6aTapen. 3TOHeBnAeTCRHeNCnPaBHOCTbIO, TaKKaknocne HeCKOnbKNX pa3rOHOB3neKTpOHHbI6noK OTTapnpyetynpaBneHne Kn N nepeksoyeHne nepeAay CTaHeTnNaBHbIM. 1
 
 ### PbIBKNNPNYCTAHOBNBWEMCA ABNKEHNN C
-`kia_rio_en_c6f77b8e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 YHOSOnCTOHMOH OHPOTATOOD 195880
 
@@ -2673,7 +2509,6 @@ ABNraTeng,
 Ecnn BblABneHa HeNCnpaBHOCTb AaT4nkanOxeHN9ApoccenbHON3aCOHkN,3aMeHN-Te ApoccenbHbln y3en (CM. "CHTne  ycta-HOBkaApoccenbHoroy3na,C.108). MOX
 
 ### ABTOMOENNb nnoX PA3FOHAETCA
-`kia_rio_en_31cb2d1c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpuuNH yxyAweHng ANHAMNKNMHOrO, OCHOBHbleN3 HNXCneAyIOWne.
 
@@ -2697,7 +2532,6 @@ Bbl6erAonxeH COCTABNTb OKOno500M.
 3.poBepbtepa6oTycncTeMbl 3axnraHng, KakOnncaHO Bblwe.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_8358bbe1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 yuTnTe, 4TO npn Hepa6oTaIoWeMABnraTene 3ΦΦeKTNBHOCTbTOPMO3HON CNCTEMbIaBTOMO6nng CHNKaeTCA, nO3TOMy ATOPmoHn MOKeT noTpe6oBaTbcs 6onbwee ycnnne Ha TOPMO3HonneAann. Toxe caMoenponcxoANt CpyneBbIMynpaBneHneM,o6opyAOBaHHbIMrnApoycnnNTeneM.
 
@@ -2730,7 +2564,6 @@ An Hayana BbIACHNTe, eCTb 6eH3NHB6ake, BKnIO4NTe 3axnraHne N B3AHNTe HaKOM6nHaun
 OTKpONTeKanOT N BHNMaTebHO OCMOTPNTe nOAkanOTHOe nPOCTPaHCTBO. O6paTnre BHNMaHNeHa LenocTbBcexarperaTOB. npoBepbTe, Ha MeCTe N BCe npOBOAa, HeT 06oPBaHHbIX, cropeBwNx, C nOBPexAeHHoN nonnunen. OCMOTpNTe6eH3NHOBbIe WnaHrN,TonnNBHyiopaMnyNy6entecb, 4T0 HeT NOTeKOB6eH3NHa.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_09040bd5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnN nOATeKaeT 6eH3NH,HNB KOeM Cnyyae He nyckante ABNraTenb AO NOnHOrO yCTpaHeHNg HeNCnpaBHOCTN!
 
@@ -2743,7 +2576,6 @@ OcMOTpuTe pacwnpnTenbHbl 6ayokCNcTeMbl xnaxnerns -He BbITekna nN oxnaxnaoLan XNA
 1 KpOMeTOrO,BHe3anHyIO OCTaHOBKyABNraTeng N HeB03MOXHOCTb ero nocnenyiowero nyCkaMOXeTBbl3BaTbOTKa3AaT4NkanOnoxeHNAKOneHyaToroBana NNOTCOeANHeHne OT HerOKOOAkNXryTanpOBOAOB.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_3394463b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/4f9c2b9f4356fc9c37a5a62a7fdfd7e96083be93db7b82440fec82e7d6098758.webp)
 
@@ -2754,19 +2586,16 @@ Oropaune AeTanNABNraTens MOKHO o6xeybC9, nO3TOMy HaAeHbTe nepyaTkn N OAeKAY C AI
 3NHOBoi npoknaAkn nbTpa,ecnn OHanoBpexAeHa nnNnnbTp cna6o3aTaHyT.NHorna 6bIBaeTAOCTaTO4HO HeMHOrOAOBePHyTb ero no 4acOBONCTpenke. 福 1
 
 ### yNANO AABNEHNE MACIA NA
-`kia_rio_en_4efc2518` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/6a99106562e5bfb34c26800b4e088d7073c768ab612ae39760ef84a7010f64b1.webp)
 
 EcnNnpnpa6oTaio山eMABnratene3aropaetcg CNrHanN3aTOpaBapniHoro naAenng AaBneHng MacnaN npoAonxaetropetbnpnnoBbiueHHon 4aCTOTe BpaweHng, TO 3TOTpeBoXHblNnpn3- Hak. HyKHO HeMeAeHHO npekpaTNTb ABNKeHNe,OCTaHOBNTbABNraTenbNBbIACHNTbnPNYNHy.AanbHenuag pa6ota ABnrateng npn NOHNKeHHOMAaBeHNN Macna MOKeT nPNBeCTN K cepbe3HoneronooMkeN 60nbwnMnHaHcoBbIM3aTpaTaMHapeMOHT.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_8b2b90fd` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 4.BblHbTe MacnHbn 山yn,npotpute ero UNCTON TPankon N BePHNTe Ha MeCTO. Eue pa3 AOCTaHbTe 山yn N npobepbte ypoBeHb Macna. OHAOnKeH HaXOANTbCRMeKAY BepxHeNHNKHeN MeTKaMN.
 
 ### NPOBEPKA CNCTEMbI CMA3KN
-`kia_rio_en_ab87a34f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTkpovitekanoT.He cnewnte cpa3y npoBepaTbypOBeHb Macna B ABNraTene, Aante eMy CTe4b B MacnAHbIN kapTep, 3T0 3aNMeT ABe-TPNMNHyTbl. 3a3T0BpeMBHNMaTebHO OCMOTPNTeABNraTenb 1 HeT 几 HaHeMCBeKNXNOTeKOBMacna.
 
@@ -2783,24 +2612,20 @@ EcnNnpnpa6oTaio山eMABnratene3aropaetcg CNrHanN3aTOpaBapniHoro naAenng AaBneHng 
 3 3. O6paTnTe BHNMaHNe Ha MacnHbin NbTp.MaCnOMOxeT nOATekaTbN3-nOApe
 
 ### NOJE3HbIN COBET
-`kia_rio_en_a5b1d567` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpN OTCyTCTBNN BOPOHKNAAOnNBKN MACna MOXKHO NCnOnb3OBaTb ropsOBnHy o6pe3aHHon nnacTNKOBon 6yTbIKN.
 
 6.yCTNTeABNraTenb. Ecnnnpn HopManbHOM ypOBHe CurHanN3aTOp naneHng AaBneHNA Macna norac, MOKHO nPonOnKatbABNxeHne. EcnNcnrHann3aTop He raCHeT, OTOyKCupyNTe aBTOMo6nnb B rapax NnpoBepbTe NCnpaBHOCTb AaT4Nka AaBneHNgMacna. BblBePHNTe WTaTHbIn AaT4NK AaBneHng Macna (CM."3aMeHaAaT4nkoBCNCTeMbl ynpaBeHNA ABNraTeneM", C. 215) N yCTaHOBNTe Ha ero MeCTO MexaHN4eCKN MaHOMeTp. Ecnn AaBneHnenpN HopManbHon 4acTOTe BPameHng xonocToroxona6onee0,1Mna(1,0rc/cM²) yBenN4NBaeTCgCPOCTOM4aCTOTbl BpaweHN,HeNCnpaBeHAaT4NK NN eroənektpnueCkasuenb.
 
 ### NONEHbN COBET
-`kia_rio_en_6eea7d0f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnnyBac HeTMaHOMeTpa, OCTaeTCA TOnbKO npOBepNTb HaAeXHOCTb KOHTaKTa B KONOAke C nPOBOAaMNAaTuNka WNN 3aMeHNTbAaT4NKHa 3aBeAOMO NCnpaBHbIn. Ecnn nocne ycTpaHeHNg BCex BNANMbIX NPnunH AaBneHneMacna BABNraTene HeAOCTaTO4HO(rOPNTCNrHann3atop aBapniHoro naAeHNg AaBneHNA Macna), npOBeANTe ANarHOCTNKy N eMOHT ABnraTens(cM.pa3n.5"BnraTenb,C.63).
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_ce211b2c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HenblTauTecbAoexaTbAO rapaxa-ABnratenb BbINAeTN3 CTpOg.OT6yKcNpyuTe aBTOMo6nnbC Hepa6oTaIoWNMABNraTeneMAnApeMOHTa.
 
 ### NEPErPEB ABNTATENЯ
-`kia_rio_en_0fcc32c9` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npu pa6ote ABnraTeng NcnpaBHag CNCTeMa xnAxAeHnn nOAAepKNBaeT OnTNManbHblNTeMnepaTypHblpeNM HapyweBNA Bpa6oTe CNcTeMbI xnakAeHng MOryt npNBeCTN K neperpeby ABNraTeng. Ecnn nponycTNTb 3TOT MOMeHT, MOryT BO3HNKHyTb HenpNgTHble nocneACTBNg:npo6on npoknaAknronoBkn6noka,kopo6neHneroNOBKNN, KaKcneACTBNe, CNOXHbIpeMOHT ABNraTeng.
 
@@ -2813,14 +2638,12 @@ BKOM6nHauNNnpn6opOB（B3aBuCNMOCTN OT KOMnneKTaLNN BaweroabTOMo6Nna) eCTb curHan
 ...nn yka3aTenb TeMnepaTypbl oxnaxnaOwenXNAKOCT B CNCTeMeOxnaxAeHnABNrateng.Tpu3aropaHnN3TorocnrHann3atopa KpaCHbIMLBeTOMNnNnpN6nNXeHNNCTpenkN yka3aT reng KKpaCHON 30He Wkanbl cneAyeT OCTaHOBNTbCA, AaTbABNraTenIO OCTbITb N yCTpaHnTbnpn4nHyneperpeBa.
 
 ### NPOBEPKA CNCTEMbI HXJAKAEHNN
-`kia_rio_en_d5941ec1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpNnepBbIx npn3Hakaxneperpeba, ecnn curHann3atopneperpeba 3aropenics kpacHbIM LBeTOM NN CTpenkayka3aTenTeMnepatypblnpn6nnxaetcg K MeTKe “H,HO 3-nOAkanoTa He BbIpbIBaIOTCAKnyObl napa, BKNIOUnTeMaKCNManbHblpeXNM OTOBeun canoHa (CM. pa3A 12OTonneHne (KOHANUNOHNPOBAHNe) N BHNnLNn canOHa", C. 21).3T0 Heo6xoANMO Ag Toro, 4T06bI CHN3NTb TeMnepaTypy oxnaxnaomen XNAKOCTN B CNCTeMe xnaxAennn ABnraTens.
 
 BKnIoyNTe aBapnnHyio curHann3aunio, BbIXMNTe neAanb cLennenng (A9aBTOMO6nngcMKn),nepeBeAnte pblyarcenektopa Bbl6opa nepenay BnonoxeHne“N（Ang abTomoonnn CAKII), 3aTeM, NCnOnbyANHePUNIOaBTOMO6nns,nOCTapaNTeCbOCTopOXHO nepeMeCTNTbCA KKpaio npoe3xen 4acTn N OCTaHOBNTbCA KaKMOXHO npabee,yo6o4nHbl, a ecnn B03MOXHO, TO 3a npenenaMn npoe3ken yactn.AaniteABuraTenionopa6oTaTb napy MNHyT npn HOPManbHON 4aCTOTe BPamenng KONeH4aTorO Bana Ha XONOCTOM XOAy, CBKNIO4eHHbIM,HanOnHyIOMOWHOCTb, OTONNTeneM.
 
 ### NPEAYNPEXAEHNA
-`kia_rio_en_761208c2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 He ocTaHaBnNBaiTe ABnraTenb Cpa3y! EANHCTBEHHOe ycnOBne 一 coxpaHeHnerepMeTnyHOCTN CNCTeMbl xJaxAeHns. Ecnn JOnHyN NJN COCKOUNn WnaHr nn60 06pa3oBanocb Apyroe MecTOyTeUKN, KpOMe Bbl6pocanAKOCTN N3-nOA npo6kn pacwnpntenbHoro 6a4ka,ABnraTenbnpnAeTcg OCTaHOBNTb HeMeAIeHHO. 0 Jt
 
@@ -2840,7 +2663,6 @@ nocne OCTAHOBKN neperpeToroABnraTeng Ha4NHaeTCA MeCTHbIN neperpeb oxnaxAaiomen X
 ![](images/a4acf56742d15a0b6f97c2a119b34368b32fd89bfd722d32f63d8095dfe6d2e9.webp)
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_cfb61539` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HukorAa He OTkpblBaite cpa3y npo6ky pacwNPNTenbHoro 6a4ka. KNAKOCTb B CNCTeMe OxNaXAHNs HAxOANTCsNOAAaBeHNM,NPN OTKpbITnn npo6knAaBneHne pe3kO ynaAeT,XnAKOCTb 3akNnNT, N ee 6pbl3rn MOryT Bac ownapntb. Ecnn Bbl XOTNTe OTKPbITb npo6ky pacwupntenbHoro 6a4ka Ha ropsyeMABnraTene, npeABapnTenbHo HaKNHbTe CBepxy nSOTHyIOTONCTyIOOOTNPOHHyIOTKaHbN TOnbKO noCne3toro oCTopoxHo noBopa4NBaite npo6ky.
 
@@ -2849,7 +2671,6 @@ HukorAa He OTkpblBaite cpa3y npo6ky pacwNPNTenbHoro 6a4ka. KNAKOCTb B CNCTeMe Ox
 TeybpannaTopa, TepMOCTaTaNnNOTOnNTeAOBONbHO CNOXHO yCTpaHNTb Ha MeCTe, no3TOMy BTaKONCNTyaLNN Heo6xOnNMOAOnNTbBCNCTeMy OXnaXAeHn BOAynPNABNXeHNN BHNMaTenbHOCeANTb3ayKa3aTeneM TeMnepaTypbl, nepnonnyeckn BOCCTaHaBNNBagypOBeHbBCNCTeMeOXnaXAeHNg.
 
 ### NPEAYNPEXAEHNA
-`kia_rio_en_04cd032a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Npn nepbon KeBO3MOXHOCTN 3aMEHNTe BOAY Ha aHTNΦpN3. BoAa npNBOANT K 06pa3oBaHNio Haknnn B CNCTeMe HXNAkAenns ABnraTens, yxyAWeHnIO ero XnaKAeHnn N, Kak cneACTBNe,KcokpaweHniopecypca. HNKOrAa He AONBaiTe XOnOAHyIO BOAy BneperpeTbln ABNraTenb. ABNraTenb AOnKeH OCTblBaTbCOTKpbITbIM KaNOTOMHe MeHee 3O MNH.
 
@@ -2858,7 +2679,6 @@ Npn nepbon KeBO3MOXHOCTN 3aMEHNTe BOAY Ha aHTNΦpN3. BoAa npNBOANT K 06pa3oBaHNi
 4.ABraTenb MoxeT neperpeTbCA B Cnyyae BbIxOAaN3 CTPOA TepMOcTaa,OopbliprynNpyeTnPOxOXAeHNenOTOKaNAKOCTNB CNCTemeoxnaxneHngyepe3panatopnn MNMOHero(AngyckopeHngnporpebaxonoAHoro ABnrateng)
 
 ### NPNMEYAHNE
-`kia_rio_en_1005d7ef` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/b54be7a2d0265ba2eaa7e26612ff8e16ec606dbdaee978808950ac7342663bc3.webp)
 
@@ -2875,14 +2695,12 @@ AnnpoBepkN TepMocTaTa HyxHO Ha nporpeTOMABNraTene npOBepnTb Ha owynb TeMnepatypy
 7.NpoBepbte anektpoABratenb,Ang 4ero B03bMNTe ABa AONOnHNTEnbHbIX npOBoAa N nOAate Ha HerOnNTaHNe HeNOCpeACTBEHHO OTakkyMyngTopHon6aTapen. NpOBOnaAOnHbI 6bITb HaAexHO 3akpenneHbl N N3OnnpOBaHbl.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_14fcdcda` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 He AonyckanTe 3aMbIkaHNA nPOBOAOB MeXAy co6on! O6paTnTe BHNMAHNe Ha NONAPHOCTI NOAKNONEHNA: əneKTpOABnraTenb AOnKeH BpaWaTbcA TaK, 4TO6bl BEHTNNATOP HarHeTan BO3AYX yepe3 paAnatop Ha ABNraTenb, a HanpaBneHns o6pa3yemoron Ha6eraiowero (nyTeBOrO)nOTOKOBBO3AyxaCOBnaAann.
 
 Ecnn 3neKTpOABnraTenb Hayan pa6oTaTb, HencnpaBHaЗnekTponpoBoAka, npenoxpaHnTenNnnn pene BKNIOYeHNA BEHTNNATOPa CNCTeMbI xNaxAeHnn; ecnn HeT, Takke HencnpaBHa anektponpoBoAka WnN CO6CTBEHHO aneKTpOABNraTenb. Pene,npenoxpaHntenn 3neKTpOABNraTenb HepeMOHTOnpNrOAHbl, 3aMeHNTeNX (CM. pa3A. 10 "Onektpoo6opynoBaHNe,C. 194).
 
 ### NONE3HbIN COBET
-`kia_rio_en_ed850aad` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/16d234ea45738559b6d5cba34ecf77ebc7a89302375fdacfd5b200bf1a10a43e.webp)
 
@@ -2891,7 +2709,6 @@ Bnpo6ke paAnaTopa ycTaHoBneHbl ABa KanaHa - BnyCKHON N BbInyCKHON. BbInyCKHon Kn
 NoatoMypa3 BroAnpoMbibaite npo6ky paAnaTopanPOTOUHON BOAON. Ecnn NOABNNNUNCOMHeHNg,3aMeHnte npo6ky.OyeBNAHO,4TO ecnN Ha neperpeTOM ABnraTene CHaTb npo6ky paAnaTopaNnO BpeMeHN ЗTOAeNCTBNe COBnaAeT "TennOBbIMyAaPOM", TO BCKNNaHNe XNAKOCTN NO6pa3OBaHNe BO3Ay山HbIXnpO6OKBCNCTeMe OxnaXAeHns 6yAeTrapaHTuPoBaHo.
 
 ### AKKYMYNATOPHAA BATAPEЯ HE NOA3APAKAETCA
-`kia_rio_en_e9faa063` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 福 HaaBTOMO6uneABa NCTOHHnka TOKa -akkyMyngtopHag6atapeg N reHepaTop. AKKyMyngTOpHaa6aTapeaNcnonb3yeTcgnpnnyckeABNratengN AA NNTAHNA 3nekTpnyeckNM TOKOM HanpskeHnem 12BcTaprepaNApyrnxnotpe6nTenennpNHepa6oTaIo山eMABuraTene.
 
@@ -2903,7 +2720,6 @@ Ecnn BKOM6NHaunn npn6opoB ropnt curHanN3aTop paspgna aKKyMynsTOPHON 6aTa
 pen,3Ha4NT,TOKHenOCTynaeT OT reHepaTopa B6OpTOByIoceTbNpaCXOAyeTC9 3anac3HepruNakkyMynTopHon6aapen.3kcnnyaTaung aBTOMO6nng C WTPamnm CNrHanN3aTOPOM pa3panaakkyMyngTopHon 6arapen HenonyCTNMa, Tak KakNHorna npnynHon 3aropaHng CNrHanN3aTOpaMOxeT6bITb KOPOTKOe3aMblkaHne nPOBOAKn, npnboAnee K noxapy B MOTOPHOM OTCeke aBTOMO6nnA. OcTaHOBNTe aBTOMO6nnb, 3arny山NteABNratenb N onpeAennTe, kaka9HeNCnpaBHOCTbnpnBena K3aropaHniocurHann3aTopa.Ecnnnpu4nHo HeNCnpaBHOCTN HeCTanOKOpOTKOe3aMbIKaHNe, aakkyMynTOpHag 6atapea 6bina 3apgxeHa NONHOCTbIO, MOKHO AoexaTb Aorapaxan6e3 reHepaTopa, HO nyywe NOnbITaTbCA yctpaHNTbHeNCnpaBHOCTbHaMeCTe.
 
 ### NPOBEPKA SNEKTPOOSOPYAOBAHNS
-`kia_rio_en_72490c64` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/3d48499811662df4514644bfa0280e67fd6243a1b9e9931c6f6676cb659b39ca.webp)
 
@@ -2925,26 +2741,22 @@ NPNMEYAHNE 8 RNHODN
 5..aTakxeKreHepatopy. pOBOnaMOryT 6bITbOopBaHbl,OnoMaHbIBHyTpNNonaunN NNC OKNCNeHHbIMN NNHeHaAeXHbIMN KOHTaKTaMN.yCTpaHNTe HeNCnpaBHOCTbNnyCTNTeABNraTenb. Ecnn JIABUNUR TOK 3apAAkn, MOKHOnPOAOnKATbABNKeHNe. 推 福 6. EcnNpemeHb HaTAHyTHOPMaNIbHO, npoBepbTe, Heneperopen NNCOOTBETCTBYIOWNN npenoxpaHnTenb B MOHTaXHOM 6noke npeAOxpaHNTeneNN pene,yCTaHOBneHHOMBnOAKaNOTHOM npOCTpaHCTBe (CM. MOHTaKHble 6nOKN,C. 195) EcnnnpeAoxpaHntenbneperopen, 3aMeHNTe ero, nyCTNTe ABNratenb N npobepbTe, noracnNcurHann3aToppa3pana akkyMyngTopHon6aTapen. Ecnn cnrHann3aTOpnOraC,MOXHOnPOAOnKaTbABNKeHNe.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_62ee56a8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HeycTaHaBnnBaiTenpeAoxpaHnTenn,pacc4NTaHHbIe Ha 6onbwnn HOMNHanbHbIN TOK. 3T0 MOKetnpnBectnKnoBpeXAeHnio3nektpoo60- PyAOBAHNgNAaxe Knoxapy. 18
 
 EcnNNnocnenpNHaTbIXMepCurHann3aTop paapgnanpononkaet ropeTb npnpa6oraioWeM ABnraTene, TOBO3MOKHaRPN4NHa HeNCnPaBHOCTN KPOeTCAB caMOMreHepaTope. NpN4NHMOKeT 6bITbHeCKONbKO,yCTpaHTbNX nyuwe ByCNOBNXaBTOCepBNCaNN rapaxa, aBaMOCTaeTcgHaAeATbC9,yTO3anaca3HeprNN BakkyMynTopHon6aTapeeXBaTnT,4To6bl AOHNXAOOPaTbCA.
 
 ### NONE3HbIN COBET
-`kia_rio_en_740aa065` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AToro4To6bICHN3NTb nOTpe6neHne TOkanpN ABNKeHNN aBTOMOONnACHeNCnpaBHbIMreHepaTOpOM, no B03MOXKHOCTN OTKNIOYNTe ayAnocnCTeMy,nnWHne npn6opbI OcBeWeHns,BeHnsTOpOTonnTeng,o6orpeB3aAHeroCTekna NAp.
 
 TNNAONE OHXO NTOON
 
 ### nyCK ABNIATENA OT BHEWHNX NCTO4HNKOB TOKA
-`kia_rio_en_9ae78d7d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnN He yAaeTCs nyCTNTbABnraTenb N3-3a yaCTN4HOrO NnN NONHOrO pa3pgnaakkyMyngTOPHON 6arapen,To AAnycka MOKHO BOCnonb30BaTbCA aKKyMynATOPHON 6arapeen Apyroro aTomonng.AngnonKnoueHng 6aTapen-"AOHopa" Ncnonb3yite cneunanbHble COeANHNTebHble ka6enn C3axNMaMNTnna "KPOKOAnn>. 福
 
 ### NPEAYNPEKAEHNS
-`kia_rio_en_b2c71de7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpNnyCkeABNraTeng OTAONOHnTenbHOn akKyMynsTOPHOn 6aTapen TWaTenbHO co6noAante nOcneAOBaTenbHOCTb pa6oTbl, N310-
 
@@ -2961,14 +2773,12 @@ Ecnn BOBpeMA nyCKaABNraTenOT AONONHNTenbHOnaKKyMyngTopHon 6aTapeNBbl OCTaBNTe ay
 1.YcTaHOBNTeaBTOMO6uJbCpa3paKeHHoni aKkyMyngTopHon6aTapeenpAAOM CaBTOMO6nneM-"AOHOPOM" B npenenax AocaraeMoCTNCOeANHNTenbHbIXKa6enen. T6LD
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_4c1bb124` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ABTOMO6NnNHNBKOeMCnyUae HeAOnXHbI COnpNkacaTbCA. BnpOTHBHOMCny4aeMOXeTnpoN3ONTNHeXenaTenbHOe3aMbIKaHNeHa "Maccy", Bpe3ynbTate 4ero BblHe CMOKeTenYCTNTbABNratenbabTOMo6Nn Cpa3psKeHHonakkyMynTOpHon6aTapeei,a3nekTpocncteMblo6onxabTOMOOnnenMoryT nonyuntbnoBpeXAeHNA.
 
 2.3aTopMO3NTeo6aaBTOMo6nn9CTOgHO4- HbIMTOPM030M. 1 3.poBepbreypoBeHb3nekTponntaB pa3- paxeHHon 6arapee.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_e428722a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnnypobeHb 3nektponnta CNJbHO NOHNKH WN nPonnBbIrAN 3aMep3WNM,He nblTaNTecb nyCTNTb ABNratenb OTAONOnHNTenbHoakkyMynsTopHon6aTapen!B3TOM ciyyae B03MOXeH B3pbIBpa3pskeHHon akkyMynTOpHoiaTapen.
 
@@ -2988,7 +2798,6 @@ EcnnypobeHb 3nektponnta CNJbHO NOHNKH WN nPonnBbIrAN 3aMep3WNM,He nblTaNTecb nyC
 7. BTopon3anMka6e9 KpaCHbIMN pyKORTKAMN npncoeAnHnte KKneMMe“IOC" 6aTapen-"AOHopa". H5
 
 ### NPNMEYAHNE
-`kia_rio_en_9bf3ec14` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 A HarnsAHoctn Onepauns nokaaHa Ha CHATo akkyMyngTopHon 6aTapee. TOOHSSGnONSH
 
@@ -3000,7 +2809,6 @@ A HarnsAHoctn Onepauns nokaaHa Ha CHATo akkyMyngTopHon 6aTapee. TOOHSSGnONSH
 9...aBTopon 3axuMka6engC4epHbIM pyKORTKAMN 二 K Macce"aBTOMo6nnCpa3pgXeHHON 6aTapeen B Mecte,pacnonoxeHHOM Ha MaKCNMaJIbHOBO3MOKHOM PACcTOAHNN OT 6aTapen.yno6HeeBcero APNcoeANHAtb 3aNMKTpaHCnOpTHOnpOy山NHeABNraTeng.
 
 ### NPNME4AHNE
-`kia_rio_en_18b884c7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Tpe6oBaHnenpncoeANHeHngnpoBoAaHaMakCNMANbHOMPaCCTORHNN OT 6aTapeno6bacHgeTcA B03MOXHOCTbI0 NCKPeHNg BMOMeHT npnCOeANHeHNg.
 
@@ -3013,29 +2821,24 @@ Tpe6oBaHnenpncoeANHeHngnpoBoAaHaMakCNMANbHOMPaCCTORHNN OT 6aTapeno6bacHgeTcA B03
 13.OTcoeANHnte ka6enN B nopake,cTporoo6paTHoMnopAAkyNxnpncoenNHeHng.
 
 ### HENCNPABHOCTN 3几EKTPOObOPYAOBAHNA
-`kia_rio_en_45ee96ba` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 4ameBceronpnnoBceAHeBHon əkcnnyataUNNaBTOMO6nnBCTpe4aIOTCgHeNCnpaBHOCTN3nektpoo6opyAoBaHNg. o06beKTNBHbIM npnynHam npeAnOyTnTenbHO, 4TO6bIpeMOHT nektPOoGoPyAoBaHngnPoBonnnnkBannnUNpOBaHHbIeCneuNanNCTbIaBTocepBNca
 
 ### HencnpaBHoCTb 3nekTPoo6opyAOBaHng (KOpOTKOe 3aMbIKaHNe) MOKeTnpNBeCTN KBO3r0- paHnio3nektponPoboAkN 
-`kia_rio_en_2fe97a41` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn Bblwna N3 CTPOR kakag-nn60 uenb anektPoo6opyAOBaHng, nepBbIMAenOMnpoBepbTe, He neperopennn3amnmaomnn ee npenoxpaHnTenb, OPNeHTuPyACb Ha AaHHble Ta6n.10.1n10.2（CM.“MoHTaXHble6nokN, C. 195).HencnpaBHbln npenoxpaHnTenb 3aMeHNTe. NOBTOPHOe neperopaHne Toro xe npenoxpaHnteng CnyKNT CNrHanOM AA HeMeAeHHOrO peMOHTa COOTBeTCTByIO山euennanektpoo6opyAobahng.
 
 ### KaTeropn4eckn3anpeuaeTca3aMeHgTbnepe-ropebWnnnpeAoxpaHnTenb ApyrnM,6onbweroHOMNHana,NnN"Xy4KOM".
-`kia_rio_en_f215db9e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ang Toro 4TO6bI o6neruntb nONCK HeNCnpaBHOCTe,BOCnOnb3yTeCbCxeMaMNənekTPOo6opyAOBaHngBa山eroaBTOMo6nng, npnBeAeHHbIMNB KOHLeKHNrN.
 
 ### CTYKN BABNrATENE
-`kia_rio_en_669ed90a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn BaM noka3anocb, 4TO npn pa6ote ABnraTeng NRBUNC 3ByKN, KOTOPbIX He 6binopaHbwe, HeMeAneHHO y6enNTeCb,BCe n B nOpaAke CABnraTeneM. 4awe BCero
 
 CTYKBABNraTeneCBA3aH C Cepbe3HbIMN HeNCNPaBHOCTAMN, AA ANArHOCThPOBAHNg N ycTpaHeHNA KOTOPbIX nPnnetcA pa36npaTb ABNraTenbByCnOBNXCepBNcaNnN rapaxa. OAHaKO MOKHO nOnbITaTbCA CaMOCTORTebHO onpeAenntb npnynHy CTyKa, 4T06bl peWNTb, exaTb Ha aBTOCepBNC CBONM XOAOM wnn Ha 6ykcnpe.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_b92a8a83` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnnyBac nReRMANNNe COMHEHNB pe3ynbTaTax CAMOCTORTenbHON ANarHOCTNKN, AOCTaBaiTe6yKcnpoBoyHbInTpoc.Cepbe3Hbn PeMOHTnOBpeXAeHHOrOABnraTenA6yAeTCTONTbAOpoxe, yeMycsiyrn6yKcnpoBWnka. 新
 
@@ -3052,17 +2855,14 @@ CTyK KnanaHOB (npocnyWNBaeTCAB BepxHe yaCTNABNraTeng BpavoHeKpbl山kNronoBKN6nOk
 AeTOHauNOHHbIe CTyKN - onacHble, HO, kaknpaBnno, yCtpaHgIOTCA3aMeHONAaT4NKa AeTOHaLNN WИ3anpaBkONKa4eCTBeHHbIMTONNBOM. N36erag CunbHonHarpy3kN ABnraTeng, MOXHO AOexaTb AOaBTOcepBNca NnN rapaxaCaMOCTOgTenIbHO.3BOHkneMeTaN4eckne CTYKN, BO3HNKaIO山Ne 06bI4HO npn pa3rOHeaBTOMO6nng. pN4NHa-OTka3AaT4NKaAeTOHaLNN,npNMeHeHNeHN3KOOKTaHOBOro TOnnnBa, neperpy3ka ABnraTeng npn CANWKOM paHHeM BKIIO4eHNN nOBbIWeHHON nepena4n, 3Ha4NTenbHoe Harapoo6pa3oBaHNe BkaMepaxcropaHNg. Heo6xoAnMo npnMeHNTb cneunanbHyio npncanky KTONnNBy AA yAaneHngHarapaHaKnanaHax B kaMepaxcropaHng.
 
 ### CTYKNB NOABECKE MTPAHCMNCCNN
-`kia_rio_en_1344e7e0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npn NORBNEHNN NOCTOPOHHNX CTYKOB B nOABecke ABnxy山erocg aBTOMO6nng HeO6XOANMO Cpa3y\*e yCTaHOBNTbNX NCTO4- HNK He3aBNCNMO OT TOrO,nOCTORHHbIN 3T0 CTYKNnN NOBACeTOnbOnPnnPO3Ae HPOBHOCTen.
 
 ### HencnpaBHOCTNBnOABeCKeaBTOMO6Nn9MOryT npNBeCTNKCepbe3HONaBapnn! 村 H85015
-`kia_rio_en_95c8c9f2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 poBeANtenpoBepky nOABeCKN cornacHoMeTOANKe,N3nOXeHHON Bpa3A. 7 Xonobag4acTb" (CM.lpoBepka TexHN4eckoro CO-CTORHNRATAnn nepeAHennoABeckN Ha aB-TOMo6nne>,c. 145; poBepka TexHn4eckoroCOCTOAHNAAeTane3aQHenOABeCkN HaaB-TOMo6nne,c.156). 场
 
 ### NONE3HbIN COBET
-`kia_rio_en_e9f91ab0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ApoBepaTb COCTORHNe NOABeCKN nyuwe, noCTaBNB aBTOMO6Nnb Ha 3CTakaAy, CMOTPOByIO KaHaBy NN nOAbeMHNK,a eCNTaKON BO3MOXHOCTN HeT, MOKHO BbINONHNTb 3Ty pa6oTy Ha CBOGOAHON POBHON nnOWaAke, XOTNCMeHbWNMN yAO6CTBaMn. Bno6oM cnyyae BaM noHaAO6NTCgnOMOWHNK.I
 
@@ -3081,7 +2881,6 @@ ANarHoCTupoBaTb NCnpaBHOCTb y3nOB TpaHCMNCCNN no N3AaBaeMbIM NMN 山yMaM AOBONbH
 BblweAwne N3 CTpOy3nbl TpaHCMNCCNN OTpEMOHTNpyuTeNnN3aMeHNTe (CM.pa3. 6 TpaHCMNccng,c.115).
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_a094cda5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CoCTOsHnepyneBoro ynpaBneHngB3HauntenbHON CTeneHN BANReT He TOnbKO Ha yAO6CTBO ynpaBneHng aBTOMo6nnem, HO NHa 6e3onacHOCTbABNKEHNA.
 
@@ -3094,14 +2893,12 @@ Ecnn yAapbl HBnopaunn Ha pyneboM konece JIINSIOOUS B MOMeHT HaxaTngHaneAanbTOpMO
 AOK,peMOHTNN3aMeHanepeAHNXTOPMO3HbIX ANCKOB (CM. "TopMo3Hble MexaHn3MbI nepeAHNXKOneC",C. 188).
 
 ### NOJE3HbIECOBETbl
-`kia_rio_en_3ff88aae` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npn NRBNEHUN npo6nem CTOPMO3aMN npokayavite TOPMO3HyIOCNCTeMy (CM. "lipoKa4ka ruAponpnbona TOPMO3HON CNCTeMbl", c.179).Ecnn 3To Heano xenaemoro pe3ynbTaTa, Heo6xOANMOT山aTenbHOnPOBepNTbBCIO TOPMO3HyIOCNCTeMy,KaK OnNCaHOHNKe(CM. poBepkaTopMO3Hon cnCTeMbl，C.51).
 
 TopMO3Hag CNCTeMa Bawero aBTOMO6nng CHa6eHaBaKyyMHbIMyCNnNTeeMNAOBOnbHO 3ΦΦeKTNBHa. CHNXeHNe3ΦeKTNBHOCTN TOPMOKeHNA, 3aHOcaBTOMO6nngnpn TOPMOKeHNNAOnKHbI CTaTbCNrHaNOMAACpO4HON npOBepKNTOPMO30B. 1
 
 ### NPO6几EMbl C TOPMO3AMN
-`kia_rio_en_de036a84` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/63202342a3903b4e2a9ba181b660879ecaf739260010d0dc0d975a2363e3dcae.webp)
 
@@ -3114,7 +2911,6 @@ Ana yAaneHng BO3Ayxa N3 CNCTeMbI Heo6xoANMO npokayaTb TOPM03a. NpoueAypa npoka4k
 noApo6Hoe onncaHne npoka4kn TOPM03- HOCNCTeMbIBbl HaAeTeBpa3A. 9"TopM03- Hag CNCTeMa" (cM."fpokaykarnAponpuBona TOpMO3HOncnCTeMbl,C.179).
 
 ### NPOBEPKA TOPMO3HON CNCTEMbI AACOT HON
-`kia_rio_en_61da36f1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.pN4NHoi nOTepN 3ΦΦeKTNBHoCTn TOpMOKeHNA MOXeT 6bITb HeyAOBneTBOPNTenbHag pa6oTaBakyyMHorOycunnTeng. Angero əKCnpecC-npOBepKN HaXMNTe HeCKONbkOpa3 HanenanbTopMo3anpn Hepa6oTalo山eMABNratene,4To6bI CHaTb pa3pexeHneByCnnNtene, a 3aTeM, yAepxnBag nenanb, nyCTNTe ABNraTenb. Ecnnnocne nyckaABnraTengneAabHeMHOro OnyCTNTCg,BaKyyMHblNycnnnTenbNcnpaBeH.
 
@@ -3131,7 +2927,6 @@ noApo6Hoe onncaHne npoka4kn TOPM03- HOCNCTeMbIBbl HaAeTeBpa3A. 9"TopM03- Hag CNC
 4. . C ycnnnTeneM. HerepMeTnyHbIN WnaHr 3aMeHNTe (CM. "3aMeHaBaKyyMHoro ycnnneng,c.181).
 
 ### NPOKON KONECA
-`kia_rio_en_a7379dce` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pOKOn KOneca-əTO HenpNTHOCTb, C KOToponpaHo WnN NO3AHO CTankNBaeTCKaAbIN BOANTenb. Bo3Ayx N3nPOKOOTOro KOecaMOxeT BbIXOANTb6bICTPO NnN MeAeHHO, 3T0 3aBNCNT N OT pa3Mepa npenMeTa, KOTOpblnnpOkOnOn KOneCO,NOTTOrO,KaKne 山NHbl yCTaHOBeHblHaaBTOMo6unb:KaMepHblennn6eckaMepHble. CHe6onbWNM TB03- AeM B 6eckaMepHon WNHe MOXHO e3ANTb MHOrOAHeN, npexneyeMBbl 3aMeTNTe,4TO KOnecO“CnyCTnnO". 福 3 6
 
@@ -3140,7 +2935,6 @@ O4eHb BaXHO BOBpeMgonpenenntb, 4TO npon3owennpokon koneca. Bo BPeMgABNKEHnA o6pa
 CaMbl npocTon cnoco6 oTpeMOHTnpOBatb Koneco 中 06paTNTbCA B 6nnxanwyio WNHOMOHTaKHyIOMaCTepCKyIO, rAepeMOHT CAenaIOT6bICTpo,npodeccnoHanbHO, kaknpaBnnO,nO BnOnHe AOCTynHON LeHe. 5 福
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_bf5abc2d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/3aa416a21b67a76a1ce32e0a812cb8c36c5f4c34ba79b35f6572870f7061f00b.webp)
 
@@ -3151,12 +2945,10 @@ HyXHo 3aMeHNTb nOBpe\*AeHHOeKOneco 3anacHbIM. 3ta AOBONbHO nPOctaR onepaBNn TEM 
 pnnpokone koneca BKNIoynteabapnnHyIO CurHann3auNIo, nnaBHO 3aTOPMO3NTe aBTOMO6nnbAOCKopoCTn2-3KM/4,HanepBOn nepenaye nocTapantecb OCTOPOXHO nepeMeCTNTbCA K kpaionpoe3xen 4aCTNN OCTAHOBNTbCA Kak MOKHO npabeeyo6o4nHbl, a ecnn BO3MOXHO, TO 3a npenenaMn npoe3xen 4aCTN. Ecnn NO3BONAITAOPOHbleycnoBnN 3T0 He nPOTNBOPeyNT Tpe6OBaHNAM npaBun AOpoXHorO ABNKeHNA, TO npn npokone no6oro koneca CnpaBon CTOPOHbIaBTOMO6nnAnpnKNManTecb KnpaBONo6o4nHe, npnnpokone cneBa-KneBon. CTapaNTeCb HeOCTaHaBANBaTbaBTOMO6nnb B MeCTax, rAeAopora nnoxo npocMaTpnbaeTCЯ:BKpyTbIXnOBOpOTaX,Ha CnyCkaXnOAbeMax,MOCTax, BTOHHENAX. EcnNabTOMO6nnb OCTancA Hanpoe3xen 4aCTN,B nepByIO o4epeAb o6ecneybte CO6CTBeHHyIO 6e3onacHoCTb N 6e30naCHoCTb Apyrnx y4aCTHNKOB AOPOXHoro ABNXEHNA! BKnIO4NTeaBapNNHyio cnrHann3auNIO NyCTaHOBNTe3HakaBapnHoN OCTAHOBKN.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_731ebce1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 oMHNTe,4TO 3aMeHaKoneca nocpeAN MHronOnOCHoro CKOPOCTHOrO wocce CTABNT nOA yrpo3yBawyXN3Hb N KN3HN ApyrnxyyaCTHNKOBAOPOXHOrOABNKeHNA.OЗTOMy B HeKOTOpbXCny4aX3aMeHbl konecapa3yMHeenepeABNHyTb aBTOMO6nnb Ha o6oynHy NSN CTORHOYHyIO nnomaAky, Aaxe ecnn npn 3TOM NOBPeKAeHHagWNHa OKOHyaTeJIbHO NCNOPTNTC9.XN3HbN 3AOpOBbeAOpoxeMaTepNanbHbIX 3aTpaT HanOKynKyHOBONWNHbl. O
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_6f50365f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BepHyBWNCbKnpnnapKOBaHHOMyaBTOMo6wnO N o6HapyxuBnpokon koseca, 6yAbTeBHNMaTenbHbl. B03MOXHO, ero npokononn3noyMbl山eHHNKN,4TO6bI nOXNTNTb LeHHbIeBe山NN3 CaOHa aBTOMO6NBTOBpeMA, korAa Bbl6yAeTe3aHsTbl 3aMeHoi KOneca NCocpeAOTONTeCBOe BHNMaHNe Ha pa6OTe. 1S GMCO1
 
@@ -3169,7 +2961,6 @@ BepHyBWNCbKnpnnapKOBaHHOMyaBTOMo6wnO N o6HapyxuBnpokon koseca, 6yAbTeBHNMaTenbHb
 1.BKnIoO4nTe nepena4y BMexaHNyeckon kopo6kenepenay wnNnepebeqntepblyarcenekTOpaaBTOMaTu4eckoNKOpo6kNBnonokeHNe“P"(CTORHKa),3aTOpMO3NTeaBTOMO6nb CTORHOYHbIM TOPM030M. Nonpocnte naccaKNPOB BbITN N3 aBTOMOnng. EcnnBbl 6ykcupoBannnpnuen, OTCOeANHNTeerO OTaBTOMonngAng npenorBpamenng cnyyavHoro nyckaABNraTeng BbIHbTe KIO4 N33aMKa 3aKnraHng.
 
 ### NPNMEYAHNE
-`kia_rio_en_e9edba23` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/532215df356c5073aeb01883129ac7499227f5fc30e34f0d9554239877748b71.webp)
 
@@ -3190,7 +2981,6 @@ BceHeo6xoANMoe A 3aMeHbIKOneca HaxOANTCA B 6araxHNkenoAKpbIukon Hng3anacHorokone
 7.BKnIOnTe nepena4yN3aTopMO3nteaBTOMO6NAbCTOAHO4HbIMTOPMO3OM.OCna6bTe 3aTAxkyraekKpenneHng Koneca.
 
 ### NOJE3HbIECOBETbl
-`kia_rio_en_60a95cb5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AnToro yTobIner4e 6bIno OTBepHyTb KoneCHblerankn,MOXHO BOCNO几b30BaTbCA HepykaMN,aHoroi,HacTynas cBepxy Ha pykosTky6anNOHHOrO KIoya.
 Anooneryenng OTBOPaUNBAHNA raek pekoMeHAyeM npno6pecTn cneunanbHbin 6annoHHbIN KIOY C Teneckonnyeckon pyKORTKON. YAo6HO pa6oTatb N 6anOHHbiM KSIO4OM kpeCToo6pa3HonopMbl.
@@ -3201,7 +2991,6 @@ Anooneryenng OTBOPaUNBAHNA raek pekoMeHAyeM npno6pecTn cneunanbHbin 6annoHHbIN K
 8. ycTaHOBNTe AOMKpaT noA aBTOMO6nb PAAOMCKOnIeCOM,KOTOpOeHyKHO3aMeHNTb （CM.aOnb3OBaHNeAOMkpaToM，C.38）.
 
 ### NONE3HN COBET
-`kia_rio_en_a5f48219` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 4To6bIHe NcnaukaTbcAnpN3aMeHeKOneca,HaAeHbTe nepyaTkn N cneLOAeXAy, ecnN OHN eCTb B BaWeM aBTOMO6nne. dna
 
@@ -3216,7 +3005,6 @@ Anooneryenng OTBOPaUNBAHNA raek pekoMeHAyeM npno6pecTn cneunanbHbin 6annoHHbIN K
 11 Koneco.
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_a7985e56` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CrapanTecb, 4T06bl aBTOMO6nnb KaKMOXHO MeHbWe BPeMeHN HAxOAnncA B BbIBeWeHHOM COCTORHNN COHATbIMKOJeCOM. NpnnoAHnMante aBTOMO6nnb AOMKPaTOM TONbKO Ha BbICOTy,Heo6xOANMyIOA CHATNA N yCTaHOBKNKONeca. Ecnn pa6otaete Ha MsrkOMrpyHte,nonoxnte nOA OCHOBAHNe AOMKpaTa TONCTyIOAOCKy. He HpnMeHnte An tOn Lnn Pnnun:OHn nrKOpaCKanIbIBaIOTCs,NaBTOMo6nbMOKeTCopBaTbCACAOMKpaTa,TXenO TpaBMNpOBaBBaC.
 
@@ -3227,14 +3015,12 @@ CrapanTecb, 4T06bl aBTOMO6nnb KaKMOXHO MeHbWe BPeMeHN HAxOAnncA B BbIBeWeHHOM CO
 13.OnyCTNTeaBTOMO6NIb,NOKOH4aTenbHO 3aTAHNTerankN Ha CTORLEM Ha 3eMneaBTOMo6nne. NTL 600 JONUE
 
 ### NPNMEYAHNE
-`kia_rio_en_f1b27e71` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aTarnBaite KonecHbIe raikn KpecT-HakpecT. Bo n36exaHNe noBpexAeHns ANCka Koneca He nbITaNTecb "AOTAHytb"rankNKpenneHns KOneca,HaxNMaR HOrON HapyKOgTky KIOya.
 
 14.epeATeMKaKnpOAOnxNTbABNXeHNe, 0693aTenbHOnpoBepbTeAaBneHNeBO3AyxaB 山NHeyCTaHOBneHHOrOKOneca.
 
 ### NOJE3HbIECOBETbI
-`kia_rio_en_ff81c2ba` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha aBTOMO6nnb yCTaHOBneHbl 6eckamepHble 山NHbI.ECnNyBaC HeAOCTaTOyHO HaBbIKOB MOHTaxa WNH, COBeTyeM He nbITaTbCA BbINONHNTb 3Typa6oTycaMOCTOgTenbHO.OAHO nOBpexAeHNe 6OKOBNHbI- N npNAeTcA nOkynatb HOBYIO WNHy NNN BCTABNATb kamepy.
 
@@ -3243,7 +3029,6 @@ B 6e3BbIxOAHON CNTyaunN MOXKHO BOCnonb30- BaTbCA cneunanbHon anTeykon AA peMOHTa
 ANTb CrBO3AeMB konece, noka HeNORBNTCA BO3MOXHOCTb ero OTPeMOHTNPOBaTb.
 
 ### PEMOHT SECKAMEPHON WNHbI
-`kia_rio_en_55bdf8d6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 beckamepHag WNHa o6nanaer 6onbwon "KNBy4eCTbIO". OHacnoco6HacoxpaHTbrepMeTN4HOCTb Aaxe npn CKB03HOM nobpexneHNN.CNHOpOAHbIMTenOM,3aCTpABWNMBOTeKTOpe,3a4aCTyIOMOXHOnpoexaTbMHOrOKNNOMeTPOB, Aaxe He noA03pebag 06 3TOM. OAHakO HeO6xOANMOCTbBpeMOHTe BCepaBHO MOKeT BO3HNKHYTb. BoMHornx cnyaax MenKui peMOHT 6eCKaMepHONiWNHbI MOXHOnpoBECTNCBONMNCNNAMNnPAMOBnyTNNNHOrAa Aaxe6e3CHTNg koneca CaBTOMo6nng.
 
@@ -3304,7 +3089,6 @@ BHa6op BXOAAT cneLnanbHagnrna, pawnb,eMKOCTbCKneeM, HOK,rYTA3anOnHeHNg nPOKONOB.
 808088
 
 ### e
-`kia_rio_en_e9869a0f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OnNcaHHblMeTOAPeMOHTa He 3aMeHAeTnpoΦeccnoHanbHbln peMOHT B cneunann3n-pOBaHHbIXMaCTepCKNX. 3T0 TOnbKO cnoco6peWNTbBO3HNKWyIO BnyTnnpo6nemyn6e30-nacHO 3aBepwNTb nyTb. OAHako BO MHOrNXcnyyagx nocne Ka4eCTBEHHO npOBeAeHHOroCaMOCTOgTeNIbHOrOPeMOHTaMOXHO3KCnya-TNPOBaTb KOneCO CKOb yrOAHOAOnrO.
 
@@ -3313,7 +3097,6 @@ OnNcaHHblMeTOAPeMOHTa He 3aMeHAeTnpoΦeccnoHanbHbln peMOHT B cneunann3n-pOBaHHbI
 ![](images/176fd634e3198a28e68ab6a4c7e687bd3e51a3bdd2cb42becb0b7596e9badb2f.webp)
 
 ### OBWNE HHSISEHUN
-`kia_rio_en_c0beb194` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 O6cnyxnBaHne N peMOHT aBTOMO6nng B TeyeHne rapaHTnuHoro Cpoka Heo6xOANMO nPOBOANTbTObKO HaCTaHLNAXTeXHN4eCKOrO o6cnyKNBaHng(CTO)cO6R3aTenbHON OTMeTKON OnpoBeneHnnpa6oTB TanOHaxcepBncHONKHNKKN,NHa4eBblNWNTeCbrapaHTNNHa aBTOMO6nnIb.
 
@@ -3324,7 +3107,6 @@ B AaHHOM pa3Aene onncaHbl pa6oTbl no exeAHeBHOMy TeXHN4eCKOMy 06cnyxNBaHnIO aBTO
 E\*eAHeBHoeO6cnyKNBaHneBKlo4aeT pa60Tbl, BblnOnHgeMble BOANTeneM nepeA Bble3AOM(CM. "oArOTOBkaaBTOMO6NnKBble3- Ay，c.35），a Takke MOvKy aBTOMoonng N y6opky canoHa. KpernaMeHTHOMyTeXHN4eCKOMy 06cnyKNBaHNIO OTHOCATCA pa6oTbl, BbInonHgeMble nocneonpeAeneHHoro npo6era NnN 4epe3 onpeneneHHoe BpeMa. bonee TO4HOe noApa3AeneHnepa6oT nocpokaM npo6eraM npuBeAeHO BCepBNCHON KHNXKe, npNknaAbIBaeMonKaBTOMo6nno, a Takke B Ta6n.4.1.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_165d39f5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AaHHbIe NHCTpykuNN no 6e3onaCHOCTN He NCyepnbiBaiowne, Tak KaK HeBO3MOXHOnPeABNAeTba6cONIOTHO Bce OnaCHbIeCNTyaLNN,KOTOpbleMOryTBO3HNKHYTb npnnPoBeAeHnnTexHNyeckoro o6cnyknBanns aBTOMOONng. npn BbInONHEHNN pa6oT BCerAa pyKOBOACTByNTeCb 3ApaBbIMCMbICnOM,6yAbTeOCMOTpNTenbHbl OCTOPOXHbI.
 
@@ -3359,7 +3141,6 @@ AaHHbIe NHCTpykuNN no 6e3onaCHOCTN He NCyepnbiBaiowne, Tak KaK HeBO3MOXHOnPeABNA
 Ang 6e3onacHoro noAbeMa aBTOMOonng AOMKpaTOM Heo6xoANMO BbINONHATb cneAyiomee.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_116e5176` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. ycTaHOBNTe aBTOMO6Nb Ha POBHyIO TBePAyIOnOBepXHOCTb.
 
@@ -3402,7 +3183,6 @@ PETNAMEHT TEXHN4ECKOIOOBCNYKNBAHN9ABTOMOENNA
 9. pN CHATNTKenbIX y3nOB NarperaTOB CaBTOMOONn9,yCTaHOBneHHOrOHa noAbeMHNKe,nOACTaBbTeAOnOnHnTenbHbIeonopbl.
 
 ### PEKOMEHAALNN
-`kia_rio_en_74c45a72` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 PerynspHo npobepante AaBneHne BO3Ayxa BWNHax (Ta6n. 4.2).oAAepxaHne HoMnHanb-
 
@@ -3411,7 +3191,6 @@ HOrOAaBNeHNBO3Ayxa B WNHaxo6ecneunbaeT Hannyuwee coyeTaHneynpaBngeMOCTN aBTOMOon
 ![](images/7515ffc9903821bfbfe83a6e5330a4ec31ed9792e12bffe577800a6f7f0aaba2.webp)
 
 ### PeKOMeHAyeMNONb3OBaTbCRHOXHbIMHaCOCOM Co BCTPOeHHbIM MaHOMeTPOM.
-`kia_rio_en_4f7ec8ec` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KaxAbli pa3,KorAa Bbl npoBepgeteAaBneHne BO3AyxaB WNHaX,BHNMaTeNbHO OCMaTPNBaNTe NX N HanpeAMeTo6HapyKeHnsMexaHnyeCKNX noBpexAeHni npoTektopa N 6OKOBNH,MeKNX KaMHen,rBO3Aen,3aCTpABWNX BnpOTekTope, npN3HaKOB CNJIbHOrO N3HOca npOTektopa. ByAbTeOCO6eHHO BHNMaTeIbHbIKCneAyIOWNM AeΦeKTaMWNH: 2 7F1 -MeCTHOeB3AyTNe NN BbInyunBaHne Kapkaca B 30He npoTektopa NJN Ha 6OKOBNHax. WnHac nOAO6HbIM AeekTOM noAnexnT3aMeHe; 会
 
@@ -3425,7 +3204,6 @@ A TOrO YTobI WNHbI N3HaWNBanNCb paBHOMepHo,4epe3 kaxAble 12 000KMnpo6era nepecta
 KpoMeToro, 4epe3kaxAble15000KMnpo6era 6anaHcnpynte koneca N npobepante yrnbl yCTaHOBKNnepeAHNX KOnec. Ang 3toro o6paTNTeCb B cneunann3NpoBaHHyiOMacTepckyio.
 
 ### NPNMEYAHNA
-`kia_rio_en_cc89ea37` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Cold tyre inflation pressure: bar(psi) L000
 PesoeHayeoe eAaBneHve xonogHbx axbar（psi)
@@ -3453,14 +3231,12 @@ NpoBepbTe,uTo6bInocne peMOHTa Koneco 6blnoOT6anaHcnpoBaHo. 过
 4.EcnnAaBneHne6onb山eTpe6yemoro,HaAaBNTe HaHaKOHe4HNK3OOTHNKaNBbInYCTNTe BO3AYXN3WNHbl.N3MepbTeMaHOMeTPOM AaBneHne. NOBTopa t nepaLnnAOBenn TeAaBneHNeAOHOpMbl. 5.EcnN Bbl3aMeTNTe,4TOAaBneHNeBO3Ayxa B WNHax NOCTOSHHO nanaer,nonpo6yute nOTYKe3aBepHyTb30nOTHNKCnOMO山bIOKOnnayka CKJIIO4OM.
 
 ### NPNMEYAHNE
-`kia_rio_en_aa17003c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/12089450a14ffac447680abf5b7d0f46a983fe987913c64680afa427842a1d80.webp)
 
 Tak BbIrnAANT3WNTHbIn konnayok C KNIOYOM AA3aTAKKN30NOTHNKa.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_95cf5828` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BoN36eKaHNe3arpA3HeHN3OnOTHNKOBHe3KcnnyaTnpyuTe aBTOMo6nnb 6e33aunTHbIX KOnnaykoB. EcnNKonna6bnnyepaHblaTenbHOyCTaHOBNTeHOBble.
 
@@ -3477,7 +3253,6 @@ BoN36eKaHNe3arpA3HeHN3OnOTHNKOBHe3KcnnyaTnpyuTe aBTOMo6nnb 6e33aunTHbIX KOnnayko
 9. ECnNnOApyKON HeTWTaHreHLNPKynA,TO ry6nHynpOTeKTopa MOKHO npOBepNTbBN3yanbHOnONHANKaTOPaMN3Hoca WNHbIB BNA CNnOwHbIXnonepeyHbIXnonoCHanpoTekTope.
 
 ### NPNMEYAHNE
-`kia_rio_en_3b3dd56c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/73ba0cce0cef075066fc3880972929ec8e2940ab9fa723bca5e065e4a7fdc14f.webp)
 MecTapacnonokeHNNHANkaTopOBnOMeyeHbl Ha6oKOBNHeWNHbITpeyronibHNKOM NnN6yKBaMNTWI B86AD 福 NT
@@ -3487,7 +3262,6 @@ MecTapacnonokeHNNHANkaTopOBnOMeyeHbl Ha6oKOBNHeWNHbITpeyronibHNKOM NnN6yKBaMNTWI
 10.poBepbte3aTgxkyraekkpenneHn9KO neca.
 
 ### NPNMEYAHNE
-`kia_rio_en_16ea9bd2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aBOA- -N3rOTOBNTenbpeKOMeHAyeTnPNMeHSTb Macno yPOBHg KayeCTBaAPI SL(API SM).
 
@@ -3498,7 +3272,6 @@ PEKOMEHAYEMbIE Ta6nnua4.2 TEMNEPATYPHbIEANANA3OHbI NPNMEHEHNMOTOPHbIXMACEN
 ![](images/0ad40a03c3611156216357a88af8c6e635335966b2c4226368ceb95def104ea2.webp)
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_a11253cf` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NepeAnpoBepkon ypoBHg Macna nocnenoe3AKN 3arnywnte ABNraTenb N NOAOAnte 5-10 MNH,noka MacnO He COnbeTCA BKapTep. NpoBepanTe ypobeHb, yCTaHOBNB aBTOMO6Nnb Ha pOBHon rOpn3oHtanbHon nnomaAke. AonnBaite Macso TON ke MapKN, B93KOCTN N KnaccaKa4ecTBa,KaKyNCnOnb3OBaHHorOpaHee. ypoBeHb Macna BKapTepeABNraTeng HeAOnXeH npeBbIWaTb BepXHIOIO MeTKy, NHaye B03- MOXHbl TeyN yepe3npoknaAknNcanbHnkn,noBblweHHbl pacxoAMacna.
 
@@ -3532,21 +3305,18 @@ H 2..npOTpnTe.yNcTon BeTOWblO...
 7. 3aneviteMacno BABNraTenb,KOHpOnNpysno yka3arenio (myny)ero ypobeHb. TepeA TeM kak BbIHNMaTb yka3atenb, nOAOKANTe ABe-TpNMNHyTbl,4TO6bIAaTb MaCny CTeyb B kapTep. 15
 
 ### NONE3HbINCOBET
-`kia_rio_en_9b123f3f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ango6neryenng AONNBKN Macna yAo6Ho NCNOJb3OBaTb BOPOHKy.IpN OTCyTCTBNN BOPOHKN AAOnNBKN MACNa MOKHO N3rOTOBNTb BOPOHKyN3rOpnOBNHblnnaCTNKOBon 6yTbIKN.
 
 8.ocne ToroKakypoBeHb MacnaAOCTrHeT Tpe6yeMoro,3aBepHnTenpo6kyropnoBNHbI. yAannte nOTeKN Macna O6TuPO4Hon TKaHbIO.
 
 ### NPOBEPKA YPOBHЯ N AONNBKA PABOYENKNAKOCTN BABTOMATN4ECKYIO U881OG0 KOPObKy NEPEAAY ge
-`kia_rio_en_436e261d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BaM noTpe6yIoTcg:pa6oyag XnAKOcTb A aBTOMaTNyeCKON KOpo6kn nepeAay, eMKOCTb C HAKOHeYHNKOM A AONNBKN, HNCTag OOTHPOYHagTKaHb.
 
 NepnoAnueckn(HOHepexeonHoropa3a3a 15000 KMnpo6era)npobepauiteypoBeHb pa60yennAKOCTn. BaBTOMaTu4eckONKOpo6ke nepenaypa6o4yio\*nAKocTb3aMeHgIOT4epe3 90 TbIC.KMnpo6era.
 
 ### NPNMEYAHNE
-`kia_rio_en_0979bad2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B aBTOMaTnyeckylo Kopo6ky nepeAa4 3annBanTepa6o4yIOXNAKOCTbDIAMONDATFSP-III.
 
@@ -3571,12 +3341,10 @@ B aBTOMaTnyeckylo Kopo6ky nepeAa4 3annBanTepa6o4yIOXNAKOCTbDIAMONDATFSP-III.
 7.ypOBeHbXNAKOCTNAOnXeH HaXOANTbCR B ANana30He B MexAy BepXHen N HNKHen rpaHnuaMN WkanbI“HOTHa山yne.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_83aea583` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn npobepka yPOBHg BbIHyXAeHHO nPOBOANTCRBxonoAHon Kopo6ke nepeAay,Bocnonb3yNTeCb Wkanon "C Ha Lyne. Anana3oH A MexAy MeTKaMN NMeeT pekOMeHAaTenbHbIn xapaktep N He AOnXeH NCNOnb30BaTbCA AA TouHoroonpeAenehngypobhg pa6oyennnkoCTNBAKn.pNnepBONeBO3MOXHOCTN NOBTOPNTe npobepky B COOTBETCTBNNCPeKOMeHAauNMNn.1.
 
 ### NPOBEPKA YPOBHA NAONNBKA PABOYENKNAKOCTNB BA4OK FNAPOYCNNNTENA PynEBOro YNPABNEHNA
-`kia_rio_en_90b06aad` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BaM noTpe6yIoTcA: AKOCT A rnApoycnnntenspyneBoro ynpabnehng,unCTag OOTHpOYHagTKaHb.
 
@@ -3585,14 +3353,12 @@ BaM noTpe6yIoTcA: AKOCT A rnApoycnnntenspyneBoro ynpabnehng,unCTag OOTHpOYHagTKa
 ba4OkyCTaHOBneHHaKpOHWTeHeBnpaBON 4aCTNMOTOpHOroOTCeka.fIepNOAn4eCKN npOBepaTeypOBeHbXNAKOCTNB6a4keyCNnntengpyneboroynpabneHng. EDi 3
 
 ### NPNMEYAHNE
-`kia_rio_en_43aa4631` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B 6a4ok rnAPoycnnnTens AOnNBaNTe TOnbKO XNAKOCTb,peKOMeHAOBaHHyIO 3aBOAOM-N3r0- TOBNTeneM.
 
 pn HopManbHon TeMnepaTypeypoBeHb KWAKOCTNAOnKeHHaXOANTbCRMeKAyMeTkaMNMAX" N《MIN>Ha 60kOBON CTopOHe yka3ateng. 心 5 i51
 
 ### NPNMEYAHNE
-`kia_rio_en_503be19c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/66e2559efb553038f32d92173d425eee2bfc6ae6226d0d448d3f03b28b676627.webp)
 
@@ -3600,7 +3366,6 @@ pn HopManbHon TeMnepaTypeypoBeHb KWAKOCTNAOnKeHHaXOANTbCRMeKAyMeTkaMNMAX" N《MI
 06TuPO4HONTKaHblo.
 
 ### NPNMEYAHNA
-`kia_rio_en_fe4293cd` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 y6eANTeCbBTOM, 4TOyPOBeHbXNAKOCTNHaXOANTCABANana3OHe “HOT,yKa3aHHOM Ha6ayKe,ecnNnpOBepkanpOBOANTCRHaaBTOMo6nne CnpOrpeTbIMABnraTeneM. EcnNABnraTenbaBTOMOONng He 3aBoAnnn ANNTenbHOe BpeMa, y6eANTeCbBTOM,4TOyPOBeHbKNAKOCTNHaXOANTCRBANana3OHe"COLD". 2i G a9R
 
@@ -3609,7 +3374,6 @@ y6eANTeCbBTOM, 4TOyPOBeHbXNAKOCTNHaXOANTCABANana3OHe “HOT,yKa3aHHOM Ha6ayKe,ec
 He CMeWNBaNTe KNAKOCTN pa3Horo UBeTa N pa3HbIXnpoN3BOANtenen. EcnN BaM Heo6xOANMO AONNTb OxnaxAaomyionAkocTb, HO Bbl He 3HaeTeMapky 3annton B CNCTeMyNAKOCTN, 3aMeHNTe BCIOXNAKOCTb R CNCTeMeOxnaxAeHNg. pnMeHsnTe nPOAyKLNIO TOnbKO npoBepeHHbIX N3rOTOBNTeneN.OMHNTe,4TOnpNMeHeHNeHN3- KOKayecTBeHHoNOxnaXAaIO山enXnAKOCTN npnBOANTKAOPOrOCTOSWeMyPeMOHTyABNraTeng! NepeAHauanOMpa6oTbl yCTaHOBNTe aBTOMO6Nnb HapOBHyIO rOpN3OHTanbHyIO nOBepXHOCTb.
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_34e7569b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npoBepsute ypoBeHb oxnaxAaiomen KNAKOCTN TONbKO HaXONOAHOMABNraTene.
 OxnaxAaomas nAkoctb TOKCN4Ha, nO3TOMy npn pa6ote CHeN co6nonante Mepbl npeAoCTOPOXHOCTN.
@@ -3629,7 +3393,6 @@ NpNnyckeABnratensnpo6kapacwnpntenbHoro 6a4kaAOnXHa 6bITbnnOTHO 3akpbiTa.
 2. ...NAOnente Heo6xoqNMoe KONNyeCTBO pa6oyennAKOCTN. T
 
 ### NOJE3HbIECOBETbI
-`kia_rio_en_8ffc0a42` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NOCTOSHHO cneANTe 3a ypOBHeM oxnaxAaIOWen KNAKOCTN. Ero pe3koe CHNXKeHNe NnN yBenNYeHNe AONKHO CTaTb CNrHANOM AA HeMeAneHHon npoBepkN CNCTeMbI HxnaxAennn ABNraTeng. TAn
 
@@ -3652,7 +3415,6 @@ PacwnpntenbHbln 6a4ok yCTaHOBNeH B NOAKanOTHOM npOCTpaHCTBe Ha KOxyxe BeHTHNATOP
 4. Aonente oxnaxAaiomyio XNAKOCTb AO Tpe6yeMOrOypoBHNnnOTHO3aKpoNiTenpo6- Ky pacwnpnTenbHoro 6auka,nponnTyio uAKOCTbyAanNTeYNCTON OOTNPO4HON TKaHbIO. H
 
 ### NPNMEYAHNE
-`kia_rio_en_20719a1d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/734ef8721dfd657f157adc006a3360fae084c8e56a008f46113cc299bfcc4dd6.webp)
 EcnN pacwnpnTenbHbli 6ayok coBepueHHo nyCTO,nOBepHNTe Ha 90°...
@@ -3665,7 +3427,6 @@ NCHNMnte npoky HannBHon ropnoBuHbl paANATOpaCNCTeMbI OxnaxAeHnAABnraTeng...
 3ateM Aonente oxnaxAaomyioKnAKoCTb AO KpasHanuBHonropnoBnHbl.3aTeM3akpoteropsoBnHynpo6kon. 福 Aonente OxnaxAaIoWyioXnAKOCTb BpacunpNTeIbHbln6ayokAOTpe6yeMoroypoBHs(CM. Bblwe), BTUD U 0860 3
 
 ### NONE3HbN COBET
-`kia_rio_en_642b745b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B npo6ke yCTaHOBJeHbI ABa KnanaHa -Bny-CKHONN BbInyCKHon.BbInyCKHOnKnanaH NrpaeTGonbwyio ponb Bo6ecneyeHnN onTNMabHoroTeMnepaTypHoro pexNMa ABNraTens.OH nOA-AepxNBaeT BCNCTeMe N36bITO4HOe AaBneHneHeMeHee0,3Ma（1,3rc/cM²),6ecnnOBbILWeHNe TeMnepaTypbl Hayana 3aknnaHnsoxnaAaowennAkoctn M npeAynpexAasnH-TeHCNBHOe napoo6pa3oBaHne. KcoxaneHnIO,npN3aKNHNBaHNN KnanaHa 3akpbITOM nono-KeHNN npn neperpebe BO3HNKaeT 3HayNTeJb-HoenpeBbIeHne N36bITO4HorOAaBneHn-60-ee0,15a（1,5rc/M2），oxeCTN K pa3pbiBy pacWnpnTenbHoro 6auka WNCpbIby OAHOrO N3 WnaHroB. B CBOIO oyepeAb,3aKNHNBaHNeKnanaHa BOTKPbITOMNOJOXEHNNNPNBOANT K npexAeBpeMeHHOMy 3akNnaHNiOOxaAaioWennAkocTn.
 
@@ -3674,7 +3435,6 @@ B npo6ke yCTaHOBJeHbI ABa KnanaHa -Bny-CKHONN BbInyCKHon.BbInyCKHOnKnanaH NrpaeT
 NoatoMy pa3 B roA npoMbibante npo6ky paANatopa CNCTeMbI YXNAAens nPotuhon BOAOn. ECnN NORBNNCb COMHEHNA B NcnpaBHOCTN KnanaHa,3aMeHnte npo6ky.
 
 ### NONE3HbIECOBETbI
-`kia_rio_en_4bbf72bc` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BaM noTpe6yIOTCA: TOPMO3HaNAKOCTb,O6TNpO4HagTKaHb. 只 0
 
@@ -3687,12 +3447,10 @@ ba4Ok yCTaHOBneH Ha raBHOMTOPMO3HOM UNnNHAPe CNeBON CTOPOHbI MOTOpHOrO OTCekay�
 HecMOTpg Ha TO，HTOB6a4OKrnaBHorO TOpMO3HOrOLNNHAPaBCTPOeHAaT4NKyPOBHgTOPMO3HON XNAKOCTN, pekOMeHAyeM nepnonnyeCKNnPOBepRTbypOBeHbKNAKOCTN BN3yanbHO.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_25158790` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Co6nonanteMepbl npeAOCTOPOKHOcTN npnpa6ote C TOPMO3HONKNAKOCTbIO:OHa TOKCNY-Ha.He AonyckaiiTe NonaAaHng TOPM03HONKNAKOCTNBrna3a. pnnonaAaHnn TOPMO3HONKNAKOCTN B ra3aHeMeAneHHO npoMonte NX6onbwnm KONNYeCTBOM nPOTOUHOn BOAOnPO-BOAHON BOAbIBOT 江 Voogn STNOOT
 
 ### NONE3HbIECOBETbI
-`kia_rio_en_222ba7ec` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ang Toro yToObI B 6yAy山eM He noABeprHyTb ce69 HenPeABnAeHHbIM pacxoAam no peMOHTy TOPMO3HONCNCTeMbl, a TON BCerO aBTOMO6nn9 BLenOM,CBOeBpeMeHHO3aMeHsTeTOpMO3HyIO KNAKOCTb CBexen. OHa oyeHb rnrpockonN4Ha, T.e.nornowaet Bnary N3BO3Ayxa,O,n AIRBROUN KOppo3NNAeTaneN TOpMO3HOn CNCTeMbI, nOHNxaeTTeMnepaTypy KHNHNA CaMON XKNAKOCTN, a3T0 MOKeT npNBeCTN KOTKa3y TopMO30BIPN 4aCTbIX MHTeHCNBHbIX TOPMOKeHNAX. Hencnonb3ynte CJNTyION3 CNCTeMbl KNAKOCTb NOBTOPHO:OHa 3arpa3HeHa, HacbIWeHa BO3AYXOMNBnaron.
 
@@ -3707,7 +3465,6 @@ MeTKaMN "MIN>N "MAX", HaHeCeHHbIMN Ha kopnyc6a4ka.
 2.EcnN ypOBeHb TOpMO3HOnAKOCTN HN\*e MeTKN“MIN", OTBepHntenpo6ky6aukaN CHNMNTenpo6ky.
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_1bb06e31` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocTeneHHoe NOHNKeHNe yPOBH TOPMO3HOn XNAKOCTN npn OTCYTCTBNNyTe4eKyKa3bIBaeT, CKOpeeBCero, HaHeo6xOANMOCTb3aMeHbITOpMO3HbIXKOnOAOK.pOBepbTe COCTORHNeTOPMO3HbIX KONOAOK(CM. poBepka TeneHN N3- HOcaTOPMO3HbIXKOOAOK ANCKOB,C.177). HeCBOeBpeMeHHaa3aMeHa KOnOnOKnpNBOANT KAOporOcTOgLeMypeMOHTy(3aMeHaTOPMO3- HbIXANCKOBNCynnOPTOB)! 06paTnTe oc06oe BHNMAHNe Ha COCTOAHNe rnabHoroNpa6oyero LNNNHAPOB CAnnenns. OHN Toxe MOryT 6bItb npNNHOn IHNHIN yPOBHATOPMO3HONKNAKOCTN B6auke.
 
@@ -3719,12 +3476,10 @@ nocTeneHHoe NOHNKeHNe yPOBH TOPMO3HOn XNAKOCTN npn OTCYTCTBNNyTe4eKyKa3bIBaeT, C
 4 N3aBepHutenpo6ky6auka.ponnTyio NAKOCTbBbITpNTeO6TupO4HOnTKaHbIO.
 
 ### NPOBEPKAYPOBHЯ NAONNBKAKNAKOCTN B BA4OKOMbIBATENR
-`kia_rio_en_0eef9d9f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BaM noTpe6yIoTcA: neTOM 一 KOHLeHTpaT cneLnanbHon KNAKOCTN A 6a4ka OMbIBaTens,pa3BeAeHHbIN nCTON BOAON; 3NMON-He3aMeP3aIouaKNAKOCTb.
 
 ### NONE3HbIECOBETbl
-`kia_rio_en_f6406ebd` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ncnonb3yuTeHe3aMep3aIo山yioXnAKoCTbnpoN3BOACTBa N3BeCTHbIXΦNpM,He coAepa山yio OnacHblNAs3AOPoBMaHon.
 
@@ -3733,7 +3488,6 @@ NpnnoBbIweHnN TeMnepaTypbl Okpykaiowero BO3Ayxa He pa36aBngnte He3aMep3aio山yio
 CnepBbIMN MOp03aMN HIRBNSOCR orpoMHbin cnpocHa He3aMep3aiowyio HhA KCABaTenen CTeKOn. HeKOTopbIe HeAo6pocoBecTHble HpoAaBubl,nonbyscbTNM, NPOAaiotKnAKOCTNHN3KOrOKa4eCTBa, noaToMynyywenpno6peTatb ee 3a6na OBPeMeHHO. none3Ho Takke npOBeCTN HecnoKHblN TeCT.HanenTe HeMHOrO KNAKOCTN B nnaCTNKOBbIN CTaKaH N akkypaTHO nOCTaBbTe ero Ha HeCKOJbkO4acOB B MOPo3NJbHyIO kaMepy KONOANNbHNKA. Ecnn KNAKOCT 3aMep3na NNN B HeN NIABUNNCO KpNCTanbl JbAa, OHa He npnroAHa AA NCNON3OBAHN 3NMON B CTeKIOOMbIBaTene BaweroabTOMo6nng.
 
 ### NPEAYNPEKAEHNS
-`kia_rio_en_0473fee2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aBOA-N3rOTOBNTenIb HepeKOMeHAyeTNCnoIb30BaHneo6bi4HoNBoAbIA93anonHeHn6a4ka OMbIBaTens. < 3amep3aHne KNAKOCTN B 6auke OMbIBaTenA npuBeAeTKeropa3pyweHnIo.
 
@@ -3753,17 +3507,14 @@ NAOneTeB HerOKNAKOCTbAO HNXHeN KpOMKNrOpnOBnHbl. 3. nocneAOnNBkN XNAKOCTN NNOTHO
 4. Npn 3acopeHnN Xnknepa OMbIBaTeng npO4nCTnte ero WBevHoN nrnon. EIOMOXHO OTperynnpobatb NHanpaBnIeHneCTpynOMblBaIomeNnnkOcTN.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_e092fe88` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AngnpouncTKN NperynnpoBknnKnepoBnpnMeHAiTeTObkO He3akaneHHbIe NrbI Nnn6ynaBKM. 06nOMNBWnNCA KOH4NK 3aKaJeHHON Nrsibl yAanNTb N3OTBePCTNXNKIepa HeBO3MOKHO.
 
 ### NPOBEPKA BHEWHNX 1OCBETNTENbHbIXNPNBOPOB
-`kia_rio_en_84213089` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpoBepbrepa6otyap, 3aAHNxoHapen, AONONHNTenbHOrOCTON CurHana,yka3aenen nOBOpOTa OHapeOCBe山eHNA HOMepHOrO 3Haka. HencnpaBHblenaMnbl 3aMeHNTe (CM. 3aMeHanaMn,c.220)
 
 ### NPNMEYAHNE
-`kia_rio_en_78c29296` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocne noe3AkN nOA CNNbHbIM AOKAM NNN MOMKN aBTOMo6nns paccenBaTenN ap  3aAHNX ΦoHapen MoryT BbIrnaAeTb no6eneBWNMN, 4TO o6ycnoBneHo pa3Hnuen 3Ha4eHNN TeMnepaTypbl BO3Ayxa BHyTPN N CHapyxN Φap.ЗTO BneHNe aHanorn4HO 3anoTeBaHNIO CTeKOn OKOHaBTOMOONNAN3HYTPN BO Bpemg AOKAA NHe SBNRTCR npN3HaKOM HencnpabHOCTN.
 
@@ -3811,7 +3562,6 @@ n e 08N 2 91N00 一 6OKOBONyka3atenb NOBOpOTayCTaHOBNeH HanepeAHnXKpbIbAxaBToMo6
 ![](images/5b4894afc67a0072d055038d88f072e605e7e8b447c7f7f6bcda6b97e7b2b9e0.webp)
 
 ### NPNMEYAHNE
-`kia_rio_en_c475081c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/2db6fd0326c7dad37709c28f2568dbfca95cfc72e96542dce9f7e66a48b46916.webp)
 
@@ -3828,14 +3578,12 @@ H P A O 海 TOOXANKANNNO ASIHNOH
 9 3 30
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_c9ebe2cc` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ABTOMO6unn KIARioqgpoccuuckoropblHka oCHaWaioTnonepe4HOpacnonoxeHHbIMN4eTblDeXTaKTHbIMN yeTbIpeXLNNHAPOBbIMN 6eH3NHOBbIMN NHXeKTopHbIMN16-KnanaHHbIMNABNraTe9MNDOHCCWTpa6o4NMo6beMOM1,4n 1,6n.BHeWHn BNAABNraTene B COCTaBe CNnoBoroarperatanoka3aHHapnc.5.1n5.2.
 
 06a ABNraTeng npakTnyeckN NONHOCTbIO DANHaKOBbI no KOHCTPYKLNN N OTNNYAIOTCA nuwbpaANycoMKpnBownnaKOneHyaToro Bana(pa3Hag BennyNHa XOAa nOPwHg: yABuraTenO6beMOM1,4n-74,99MM,ayABraeA 06beMOM1,6n 85,44MM) BbICOTON 6nokaLNnNHAPOB. BCB93N C3TNMBCepa60- Tbl nopeMOHTy NO6cnyXNBaHnIOABNraTenB AaHHOMpa3Aene onncaHbl HanpnMepeABNatengpa6o4uM06beM0M1,6n.Pa6oTblno ABuraTeniopa6o4nM 06beMOM1,4n NOnHOCTblOaHanornyHbl.
 
 ### NPNMEYAHNE
-`kia_rio_en_fc991792` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pa6ounn oGbemABnraTeng(NnTPak)-OANH N3 BaXKHeN山NX KOHCTpyKTNBHbIX napaMeTpOB (xapaKTepnCTNK) ABNraTeng BHyTPeHHerO cropaHNs (ABC),Bbpaxaembl B nnTpax (n) n ky6NyeCKNX CaHTNMeTpax(cM2).
 
@@ -3854,7 +3602,6 @@ Pwc.5.1. CHnOBOn arperar(BnA CnepeAn): KPOHWTeNH KpenneHnAnpabon onopbl nOABeCKN
 PNc.5.2.CnnoBon arperar (BnA c3aAn): -MexaHN3M nePekniogenna Bbl6opa nepenay;2- BbIKnIoyaTenb CBeTa3aAHero xOAa;3 TpaHCnOpTHbl pbIM;4 ronoBka 6nokaLnnHAPOB;5 KpbIwka ronoBkn 6nokannHApoB; Kpblwka CBe4HbIX KOnOALeB; ynpaBnsomnn AaTyNK KOHLeHTpauNN KnCnopoAa;8 TePMO3KpaH KaTkOnnektopa; npo6ka Macno HanNBHOn ropnoBnHbl;10 nonaiomnn Tpy6onpoBoA TWAPOyCNnNTenA pyneboro ynpaBneHng;11 KPOHWTeNH kpenne HNA npabononopbl noABeCKN CWNOBoroarperata; 12 pemeHbnpw BOAa BCnOMoraTenbHbIxarperaToB;13- MaCnAHbln KapTep;14 6nOKuNnHApoB;15 HarHeTaounTpy6onpoBoArnApoycunuTens pyneBoro ynpaBneHns;16 KaTKOnneKTOp; 17 AaT4NKCKOPOCTNaBTOMO6Nn;18 kopo6kanepenay
 
 ### NPNMEYAHNE
-`kia_rio_en_0acf9c30` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/4d6ef3106bcd716fa3be6f75b5bfc1c9e96ef1a3f6a92c32578d0d315f1bc0b7.webp)
 Pnc.5.3.MexaH3M N3MeHeHns a3 ra3opacnpeAeneHNA: 1- KOpnycMexaHN3Ma N3MeHeHnA a3;2- pOTOp; 3-MaCnAHblKaHan
@@ -3874,7 +3621,6 @@ PnC.5.5.3neKTpomarHnTHbINKanaHCNCTeMbl N3MeHeHnsa3ra3opacnpeAeneHnA:A - nonOCTb,
 BCOOTBETCTBNN CTOKOMaHnonnepeme山aeTc93onOTHuK2（pnc.5.5)ənekTpomarHnTHOro KnanaHa, HanpnMep, B HanpaBneHNN 6onbwero OnepexeHngOTkPbItng BnyCKHbIX KnanaHOB.fIpN3ToMnoaBaeMoenOAAaBneHNeMMacnonocTynaeT4epe3KaHan BKopryce ra3opacnpenennTebHoroMexaHN3Ma B KOpnyc MexaHN3Ma CWT N Bbl3blBaeT NOBOPOT pacnpenenNTenbHoro Bana B Tpe6yeMOM HanpaBneHnn. Npn nepememeHnn 30JOTHNKa B HanpaBneHNN, COOTBeTCTByIOLeM6OneepaHHeMy OTKPbITNIO KnanaHOB, KaHanA 6onee NO3AHerONXOTKpbITNaBTOMaTN4eCKNCOenNHAeTCACO CNNBHbIM KaHaJOM. EcnnpacnpenenNTenbHbIn Ban nOBepHyncA Ha Tpe6yeMbln yron, 30NOTHNK 3NeKTpOMarHNTHOro KnanaHa no KOMaHAe 6nokaynpabneHng ycTaHaBnNBaeTCA B nosoxeHne,npn KOTOPOM Macno noAAepKNBaeTCsnOAAaBnIeHNeMno 06eCTOpOHbl kaxnon N3nonacten poTopaMyTbl.EcnnTpe6yetcgnoBopoTpacnpeAennTenbHoroBana B CTOPOHy 6oneenO3AHerOOTKpbITngKanaHOB, npouecc perynnPobaHngnPObOAncA cnonayenMacna BO6paTHOMHanpaBeHNN.
 
 ### NPNMEYAHNE
-`kia_rio_en_2b26f35d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3neMeHTbl CNCTeMbI CVVT(3nekTpomarHNTHbIN KnanaH N MexaHN3MANHaMN4eCKOrO N3MeHeHNA AINoernn pacnpeAenntenbHoTO Bana) npeAcTaBngIOTCo6onnpeLN3NOHHO N3rOTOBNeHHble y3nbl. B CBA3N C 3TNM npn BbInOnHeHNN TexHNyeCKoro 6cnyuBaHng NnN peMOHTaCNCTeMbIN3MeHeHN9a3ra30- pacnpeneneHnsAonyckaeTcA nNWb 3aMeHa 3neMeHTOBCNCTeMbIBC6ope.
 
@@ -3903,7 +3649,6 @@ pN pa6oTeABNraTengHaXOnOCTOMXOAyN BpexNMaxManbIxHarpy3OK, KOrAa pa3pexeHNe BOBNy
 1 Bpe\*NMaxnonHbIxHarpy3ok,KornaApoccenbHag3acnoHkaOTkpblTaHa6onb山onyron, pa3pexeHNeBOBnyCKHoTpy6e CHNKaETCA, aBBO3AyXOnOABOAA山eMPyKaBeBO3pacTaeT, kapTepHble ra3bl 4epe3 WnaHr 60nbwon BeTBN,nOACOeANHeHHbIn KWTyuepyHaKpblwke rOJOBKN6nOKa,BOCHOBHOMnOCTynaIOTBBO3- AyXONOABOAAINN pykaB, a 3aTeM 4epe3 ApoccenbHbln y3en -BO BnyCKHyIO Tpy6yNB LnNHAPbIABnraTng. dleg
 
 ### NPNMEYAHNE
-`kia_rio_en_34d5e333` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CNCTeMa oxnaxAeHng ABuraTeng repmeTN4HaA, Cpacwnpnten HbIM6a4KOM, COCTONT N3Py6aWknOxnaXAeHn,BbInoHeHHonBNTbeNOkpykaio山en LnnnHApblB6noke,kaMepbl cropaHng N ra30Bble kaHasbl B ronoBke 6noka LnnNHAPOB TpnHyAnTenbHyiounpkyALNII oxnaxnao山ennAkoctn o6ecne4nBaeTLeHTPO6eKHbIN BOAHON HaCOCCnPNBOAOM OT KOneHyaToro Bana NKNHOBIM peMHeM, AHOBPMHHOnPNBOANM reHepatop.Ang noAAepkaHng HopManbhonpa6oenTeMnepaTypbIoxsiaxAaioLennAkocTNB CNCTeMe xnaxAennn yCTaHOBNeH TepMOCTaT,nepekpblBao山nn 6onbwonkpyrcncteMbl npn HenporpeTOM ABNraTene NHN3KON TeMnepaTypeoxnaxAaiomenKnAkOCTn. 3
 
@@ -3914,7 +3659,6 @@ CucTeMa 3auraHng ABNraTeng MNKPOnpoueccopHag,COCTONTN3KaTy山eKNCBe4en 3axnraHns
 CNnOBon arperat (ABNraTenb CKOpo6kon nepenay, cLenneHneM raBHON nepenayen) yCTaHOBnIeHHaTpexonopaXC3naCTN4HbIMNpe3NHOBbIMN3NIeMeHTaMN:AByXBepXHNX 60KOBbIX (npaBonNnebon), BOCNPNHNMAIOWNXOCHOBHyIO MaccycnoboroarperaTa,N3anHen,OMneHcNpyoLenKpyTannMOMeHT OT TpaHCMNCCNNN Harpy3kN,BO3HNkaIoLINenpNTporaHnNaOMO6nCMecTa, pa3roHeNTOpMOKeHNN.
 
 ### NO几E3HbIE COBETbI
-`kia_rio_en_503689af` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pNN3BeCTHOMHaBbIKeNBHNMaTeIbHOCTN MHOrne HenCnpaBHOCTnABNraTengNerOCNCTeMMOKHOAOBObHO TO4HOonpeAennTbnO uBeTy AbIMa, BbixOAg山ero N3 BbIXnOnHON
 
@@ -3932,7 +3676,6 @@ AOBOnbHO 4acTO MOXHO yBNAeTb CTORWNN nocpennropoAckonnpo6knaBToMo6nnbCOTKpbITbIM
 NpaKTN4eCKN BO BCeXNHCTPyKLNAXKaBTOMo6uniocoAepkntcs pekomeHAaung npn nyCkeABNraTen9 o6a3aTenbHO BbI\*aTb CuenneHne.ЗtapekoMeHAaung onpaBAaHa TonbkO B cnyyae nycka BCNnbHbIN MOp03, 4TO6bI He TpaTnTb3HeprnIOakkyMynsTopaHanpobopa4NBaHNeBanoB山ecTepeHKOpo6kNnepeAay B3aryCTeBWeM Macne. BocTanbHbIX cnyyagx 3Ta MepaHanpaBeHa nNWb Ha TO,4TO6bl aBTOMO6nnb HeTPOHynCA, ecnNnO3a6blB4NBOCTN BKNloyeHanepena4a.3ToTnpneMBpeneH A9 ABnraTeng, Tak Kak npn BbIXaTOM cuenneHnn 4epe3HeroHa ynopHbln NOAWNNHNK KOneHyaToroBananepeAaeTc93HayNTebHoe ycnnne, a npnnycke (oCo6eHHO XONOAHOM) CMa3ka KHeMyAonroHenocTynaeT.TloAuunHNK6bICTpO N3Ha山NBaeTCA, KOneHyaTblNBan nonyyaeT oceBoNnIOT, aTporaHne CMeCTa Ha4NHaeT conpoBoXnaTbcA CunbHOnBn6paLnen.n Toro yTobl He nOPTNTbABNraTenb, B03bMNTe B npNBbl4KynpoBepaTbnepeA nyCKOMnonoxeHnepblyara nepeknioyeHng nepenayn nyckaTb ABNraTenb npn 3aTSHyTOM CTORHOYHOM TOPMO3e, He BbIknMag cLenneHue6e3KpaNHenHeo6xoANMOCTN.
 
 ### CHATNE NYCTAHOBKA3AWNTbI KAPTEPAN5PbI3rOBNKOBABNTATENA
-`kia_rio_en_781cea44` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 6pbl3rOBNKNABNraTeng, pacnonoxeHHble 4 MOTOPHOM OTCeKe CHN3y BnepeAN BueHTpe, a Takke no 6okaM, nPeAOxPaHAOT noAkanoTHOenPOCTPaHCTBOOT3arPA3HeHNNHeBIOCRCOBN 3aWTON kapTepaABNraTeng. 3TyyHkuNIO BbInOnHgeT 3aunTakapTepa
 
@@ -3950,7 +3693,6 @@ CHNMaIOT 6pbl3rOBNKN N 3aWnTy kapTepa ABNraTeng npn NX noBpexAeHnn NnN A9 o6ecne
 BaM noTpe6yIoTCA: Topyobbie rOnOBKN "Ha10,“Ha 13", “Ha17》.
 
 ### NPNMEYAHNE
-`kia_rio_en_69da6902` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pa6oTbl no CHATNIO 6pbI3rOBNKOB N 3aWNTbl KapTepaABNraTeng yAOGHee BbInOnHgTb HanoAbeMHNKe.
 
@@ -3963,7 +3705,6 @@ CH kapTepa ABuraTeng BbInOnHNTe CneAyIoWee.
 2.BblBepHnte6ontblAKpenneHns3aub kapTepa ABnrateng KHNXHeN nonepeynHe paMkNpannatopan CHNMNTe3aWnTyKapTepaABnrateng.
 
 ### NPNME4AHNE
-`kia_rio_en_46509101` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/6d35e051115a6bea2a8d2387e587fee0d2440586208bf8a4701659572852addf.webp)
 
@@ -3991,7 +3732,6 @@ Tak pacnonoxeHbl 6onTblA kpennenns 3awnt kapTepa ABnrateng K HNKHeN nonepeynHe p
 5... CHNMNTe 6pbl3rOBNK. 6.ycTaHOBNTe neBbln 6OKOBON 6pbl3rOBNK NBCeAeTanNBnOpAAKe,O6paTHOMCHTNIO.
 
 ### 3AMEHA ONOP M8 NOABECKN 真Y agi CnnOBoro AFPETATA
-`kia_rio_en_ef24f47f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 福 CNnOBOn arperaT (ABNraTenb C Kopo6kon nepenay,cuenneHneM raBHonnepenayen yCTaHOBNeHHa Tpexonopax(c3nactn4HbIMN pe3NHOBbIMN3neMeHTaMN):npaBo neBoN BOCNPNHNMaIOLINXOCHOBHyIOMaCCyCNNOBOroarperara, 3aqHei,KOMneHcnpyio山en KpyTLNMOMEHTOTTPAHCMNCCNN NHarpy3kn, BO3HNKaIO山Ne npn TporaHNN aBTOMoonnn C MeCTa,pa3roHe N TOPMOXeHNN.
 
@@ -4001,7 +3741,6 @@ Tak pacnonoxeHbl 6onTblA kpennenns 3awnt kapTepa ABnrateng K HNKHeN nonepeynHe p
 OCHOBHoNnpN4NHON 3aMeHbIOnOPChnOBOro arperaTasBngeTcg NXnoBpexAeHneWnnnoTePa 3naCTN4HOCTN, 4TOyCNNBaeT Bn6paLNiO, nepeAaBaeMyIO HaKy3OBOTCunoBoroarperaTa.
 
 ### BaM noTpe6yIOTcg:ABa KnIlOya“Ha 17”, KIOY “Ha14. 3 YSB0
-`kia_rio_en_bd263249` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/ef34b1dc7fb4e9ab15dab82ddc9d89c076221eb53f1438ea6430b23e03590618.webp)
 4.BblBepHnteABa6onTaKpenneHng KpOH WTeNHa3aAHenonopbl KnonepeynHenepenHe nOABeCKN... OHHY M
@@ -4025,7 +3764,6 @@ kia-rio.net ABNraTenb 69
 6.yCTaHOBNTe3aAHIOI0 onopy nOABeckN CNNOBOrO arperata B nopgAke, 06paTHOM CHATNIO. 2 H
 
 ### BaMnOTPe6yIOTCA:TOPLOBbIN KNIOy Ha 17",Topuobag ronobka “Ha19, T
-`kia_rio_en_49f2e179` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. CHNMNTe 3amnTy kapTepa ABNraTeng（eCnNyCTaHOBneHa)（CM.CHTNeNyCTaHOB-ka3awnTblkapTepa 6pbl3OBKOBABraTe-,C.67). 0V60
 
@@ -4052,7 +3790,6 @@ kia-rio.net ABNraTenb 69
 4. OTcOeANHNte KOnOAKyKryTa npOBOAOB OT3nekTpoHHoro6noka ynpaBneHngABnrateneM (CM."CHaTNeNyCTaHOBKa 3neKTpOHHOrO 6nokaynpaBneHnЯABnraTeneM>,c.215).
 
 ### 3AMEHA几EBON OnOPbl O NOABECKN CNNOBOrOArPETATA
-`kia_rio_en_858e94cd` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3.CHNMNTeaKKyMyngTopHyIO6aTapeIO(CM. “CHATNeNyCTaHOBkaaKKyMynTOpHon6atapew>,c.201).
 
@@ -4068,7 +3805,6 @@ kia-rio.net ABNraTenb 69
 6 KKy3OBy.
 
 ### 0 BaMnOTpe6yioTcg:TOpuOBble rOnOBKN"Ha 10》，“Ha 17”，“Ha19”. 90
-`kia_rio_en_81312ff1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. CHNMNTe 3awnTy kapTepa ABnrateng (ecnNyCTaHOBneHa)(CM.“CHTNeNyCTaHOBka 3auiNTblKapTepaN6pbl3rOBnKOBABuraTen9,c.67).
 
@@ -4110,7 +3846,6 @@ kia-rio.net ABNraTenb 69
 15. ...N CHNMNTe neByIO onopy nOABeCKN CNnOBOroarperaTacabToMo6nng. 16.YcTaHOBNte neByioonopy nOABeckn CNNOBoroarperata BNOPAAke,O6paTHOMCHATNIO.
 
 ### NPOBEPKA KOMNPECCNN B LNNNHAPAX
-`kia_rio_en_6c43920e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/beaf254b8ff6e340f2632dda0ddba2814b186d1602a23bc6a4e7a364878b485b.webp)
 
@@ -4119,7 +3854,6 @@ kia-rio.net ABNraTenb 69
 NpOBePaIoT KOMnpeccNIO cneunanbHbIM npn6opom 一 KOMnpeccOMeTpOM, KOTOPbIN B HaCTOgWee BpeMg MOXHO CBO6OAHO npuo6peCTNBKpynHbIXMara3NHaxaBTo3an4acten.
 
 ### NPNMEYAHNA
-`kia_rio_en_db8a83b7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/8cd848319b337e5c1b088a5115c800806638cde3d1279d5a2e03161fd6f990b4.webp)
 TaKBbIrnAANT KOMnpecCOMeTP, NCnonb30BaHHbAn NnnCTPPAHNAaHHN KHNN IRS
@@ -4129,7 +3863,6 @@ TaKBbIrnAANT KOMnpecCOMeTP, NCnonb30BaHHbAn NnnCTPPAHNAaHHN KHNN IRS
 CyWeCTByIOT BapNaHTbI KOMnpeccoMeTpOB, KOTOPbIX BMeCTO pe3NHOBOro HaKOHeyHNKa yCTaHOBNeH pe3b60Bon WTyuep C ynnOtHNTenbHbIM KOnbLOM,AN BBOPaUNBAHNR BMeCTO CBe4n 3axnraHng. Takne koMnpeccoMeTpb yAo6Hee,TaK KaK NO3BONAIOT APOBOANtb npoBepkyKoMnpeccnn 6e3noMo山,HNka. 心
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_1a194a19` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BaKHbIMN yCnOBNAMN npaBnnbHOcTN noka3aHn npu npobepke KMAPCCNNSnSOCA NCnpaBHocTbCTapTepaNerO ənekTpn4ecknxuene,aTakke nonHag 3apsxeHHoctbakkyMyngTOpHon6arapen. 05
 
@@ -4158,7 +3891,6 @@ BaKHbIMN yCnOBNAMN npaBnnbHOcTN noka3aHn npu npobepke KMAPCCNNSnSOCA NCnpaBHocTb
 9.TonpOCNTenOMOWHNkKa BKSIO4NTb CTaprep NnpoBopaynBante NM KOneHyaTbln Ban BuraTengAO Texnop,noka AaBneHNeB LNmMHApe He nepeCTaHeTyBeNN4NBaTbCg, 4TO COOTBETCTBYeT npuMepHO 4eTbIpeM TaKTaM cxaTnA.
 
 ### IPNMEYAHNE
-`kia_rio_en_fa00d764` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ang NonyyeHngnpaBnnbHbIX Hoka3aHnn KOM-peccoMeTpa KOneHyaTbln Ban AOnKeH BpaaTbCR CO CKOPOCTblo 180-20OMNH-1NnNBbleHo He6onee350MNH1.
 
@@ -4170,7 +3902,6 @@ Ang NonyyeHngnpaBnnbHbIX Hoka3aHnn KOM-peccoMeTpa KOneHyaTbln Ban AOnKeH BpaaTbC
 11..yaHBeeropenkyaObaXaBHa KnanaHBbInyCkaBO3Ayxa.
 
 ### NPNMEYAHNE
-`kia_rio_en_f06169ff` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 yKOMNpeCCOMeTpOB NHON KOHCTpyKLNN noka3aHN9MOryTc6paCbiBaTbCRApyrnMNCnoco6aMN(BCOOTBeTCTBNNC NHCTpyKLNeN KnpN6Opy).
 
@@ -4181,14 +3912,12 @@ yKOMNpeCCOMeTpOB NHON KOHCTpyKLNN noka3aHN9MOryTc6paCbiBaTbCRApyrnMNCnoco6aMN(BC
 13.A BbIACHeHNA nPNHNH HeAOCTaTO4Hon KOMnpeccnn3anete BLNnNHAP C NOHNKeHHOKOMnpeccnen OKONO 20CM 4NCTOrO MOTOPHOrO Macna N BHOBb N3MepbTe KOMnpecCNIO. EcnNnoka3aHN9KoMnpeccoMeTpanoBblCNnNCb, Han6onee BepORTHa HeNcnpaBHOCTb nopWHeBbIX koneL. Ecnn KOMnpeccng OCTanacbHeN3MeHHON, 3Ha4NT,Tapnk KanaHOB HnnoTHOnpnneraIoTKNXceaMnnnnoBpeAeHanpokanka ronoBkn 6noka LnnnHApOB.
 
 ### NONE3HbIN COBET
-`kia_rio_en_a48ff40c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpnyNHy HeAOCTaTOYHOn KOMnpeccNN MOXHO BbIACHNTb Takxe noAayen CKaTOrO BO3Ayxa B LNNNHAP, BKOTopoM nopweHbnpeABapntenbHO yCTaHOBNeHB BMTTaKTa CXaTN9 AnA3Toro CHNMNTe C kOMnpeccoMetpa HaKOHeYHNK N npncoeANHNTe K HeMy WnaHr kOMnpeccopa. BCTaBbTe HaKOHe4HNK BCBeyHOe OTBePCTNe nOAante LNNNHAP BO3AYX nOA AaBneHNeM 0,2-0,3Mna.AnsToro 4o6bl KOneHyabn Ban ABNraTeng He nPOBepHynca, BKNIO4NTe BblcWyio nepeAayy N3aTOPM03NTe aBTOMO6Nnb CTORHOYHbIM TOPM030M. BbIXOA (yTeuka) BO3- Ayxa yepe3 ApoccenbHbln y3en CBNAeTenbCTBYeT 0 HerepMeTN4HOCTN BNyCKHOrO knanaHa, a 4epe3rnywntenb 一 OHerepMeTN4HOCTN BbInyckHoroKnanaHa.pNnoBpexAeHnnnpo
 
 KnaAkN ronoBkn 6noka LnnnHAPOB BO3Ayx6yAeT BbIXOANTb 4epe3 ropnoBnHypacwnpntenibHOro 6a4ka B BNAe ny3blpen NnN B COCeAHNN LNNNHAP, 4TO o6HapyKNBaeTCs noxapaktepHOMy WnnsWeMy 3Byky.
 
 ### yCTAHOBKA HHPWUN NEPBOrO LNNNHAPA B NONOKEHNE BMT TAKTA CKATNA
-`kia_rio_en_0a19f757` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/9f50767d872cb8da3198fe3bb549431ccd0f28b43101387fe64127eaa86f4fcb.webp)
 
@@ -4203,7 +3932,6 @@ BaM noTpe6yetcg TOPuOBbIn KnIOY "Ha 22".
 ![](images/63eaeb73c904dadc2a7e78eb1324d986057cc25cc9ee723d6acbffcf917d5191.webp)
 
 ### 2. CHNMNTenpaBbli 6pbl3rOBNKABNraTeng
-`kia_rio_en_f09e70b1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 (CM.CHTneN yCTaHOBka3auNTbIKapTepa 6pbl3rOBNkOBABnraTeng,C.67).
 
@@ -4220,7 +3948,6 @@ BaM noTpe6yetcg TOPuOBbIn KnIOY "Ha 22".
 5.pobepbte cobnaneHne MeTOK Ha weCTepHaxpacnpenenntenbHbIX BanoB CBepxHen nOBepXHOCTbIO rOnOBKN 6noka UNNNHApOB.KpOMeTOrO,MeTkN Ha3Be3AO4kaxAOnKHblOKa3aTbCAHanpOTNBApyrApyra.
 
 ### NPOBEPKA 90 我 NPEryNNPOBKA 3A30POB BNPNBOAE KIANAHOB 免 99
-`kia_rio_en_06f543d9` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/7a7307fbac3436cc0a8bc73406f7b1f273f4d56e5df437f6991b6100e34cfe83.webp)
 
@@ -4256,7 +3983,6 @@ Aa H=5,42+0,31 -0,20=5,53（MM）. BnpenenaxAonycka3a3opa(±0,05MM)no
 6epnte 6nnkaNwninoTonnHeTonkaTenb.
 
 ### NPNMEYAHNE
-`kia_rio_en_abf12bd7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B3anacHbIe 4aCTN nOCTaBngIOT TOnkaTenN Kna naHa 41-ro pa3mepa, TONWNHON OT 3,00 A 3,60MMCaroM0,015MM.
 
@@ -4279,7 +4005,6 @@ cnpenenNTenbHoroMexaHn3MaN BCeCHTbIe
 AeTann BnOPAAKe,OOPaTHOMCHATNIO 真 1
 
 ### CHATNE AE中EKTOBKA N yCTAHOBKA MAXOBNKA
-`kia_rio_en_f754559c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/f32080d3bc2b29e7815c8d46c8353aad235a9593c6f9c38843429abf52d9426e.webp)
 
@@ -4294,7 +4019,6 @@ BaM nOTpe6yIOTCA: NHCTPyMeHTbI, Heo6xoANMble ANA CHARNS KOpo6kN nepeAay N cuenne
 2. BbIBepHNTe WecTb 6OnTOB kPennenng MaxOBNka, yAepxNBaa MaxOBNKOTnPOBOpaPUBAHNA C NOMOWIbIO OTBEPTKN NNMOHTAKHONJOnaTKN.
 
 ### IPNMEYAHNA
-`kia_rio_en_076475de` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 MaXOBNK MOXeT 6bITb yCTaHOBneH Ha kOneHyaTbIN Ban TOnbKO B OnpeAeneHHomnonoxeHnn, Tak KaK OAHO N3OTBEPCTNN BMaXOBNKe M OAHO 3OTBepctnNKOneH4aToroBanapacnonoxeHbl aCNMMeTpN4HO(CyrOBbIMCMeueHNeM).
 
@@ -4319,7 +4043,6 @@ Ang oneryeHng yCTaHOBKN MaxOBNka pekoMeHAyeM nOMeTNTb B3aNMHoe pacnonokeHne AeTa
 7.ycTaHOBNTeMaXOBNKN BCe CHATbIey3- nbl B nocneAOBaTenbHOCTN, 06paTHon CHATNIO. Pe3b6y 60nTOB kPennenng MaxOBNka CMaxbTe aHaapo6HbIM ΦNkcaTopOm pe3b6bl, npeABapNTenbHo o6e3xupuB 6onTbl N pe3b60Bble OTBePCTNA NOA HNX. 3aTgHNte 6onTbIpaBHOMepHOKpeCT-HaKpeCTMOMeHTOM71,5-75,5HM.
 
 ### 3AMEHA NPOKNAAKN KPbIWIKN FONOBKN bnOKA LNNNHAPOB
-`kia_rio_en_b7641eb4` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a85a8e8b903daa1ce6379efb3801dd2ec9fc8c9fbdcdcb9e1c7e8275885213a1.webp)
 
@@ -4367,7 +4090,6 @@ KpbIwkN rOnoBkn 6noka LnnNHAPOB. 12.YcTaHOBnteKpbl山ky ronOBKN 6nokan
 pAke,O6paTHOMCHATNIO.
 
 ### 3AMEHA NPOKJIAAKN TOJOBKN BNOKA LNNNHAPOB
-`kia_rio_en_94cf7f65` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/d2ed833bfa3affd473cb3b91dfefc38c7602919891fc1513d4922cc1886b59d6.webp)
 
@@ -4413,7 +4135,6 @@ PHC.5.7.opAAOK BbIBOpauNBaHNA 6OnTOB KpenneHnA rOnOBKN 6nOKa NnNHAPOB
 12. ...npoknanky. 13. OUNCTNTe npnBanoyHble nOBepXHOCTN rONOBKN 6noka.
 
 ### 3AMEHA NPOKJIAAKN TOJOBKN BNOKA LNNNHAPOB
-`kia_rio_en_5a5b1372` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/993c279c3488afa44eb24dff42e25f976c0a0beebe1852a6b26743a78dde9ab0.webp)
 
@@ -4441,7 +4162,6 @@ Tan -AOBepHNTeByKa3aHHOMnOpaAKe Hayron 90°;
 PHC.5.8.nopAAOK3aTAKKN6onTOBKpenneHNAronOBKN 6nokayNnNHAPOB
 
 ### 3AMEHAYNIOTHEHNЯ NOAAOHA MACNSHOrOKAPTEPA
-`kia_rio_en_06abd6fc` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/96d6e64c115bc0b7d466effa9b09bf95af2b91ca37bee74d4b6f1ff12e750b68.webp)
 
@@ -4474,12 +4194,10 @@ P
 8.3aneiTeMacnoBABnraTenb(CM.3aMeHa Macna B ABNraTene N MAcnAHOrO onnbTpa,c.89).
 
 ### NPNMEYAHNE
-`kia_rio_en_b85c331d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3annBaTbMacno NnyckaTbABNraTenbMOKHO He paHee 4eM 4epe3 OANH yaC nocne yctaHOBKN NOAAOHa MACnSHOrO kapTepa 一 3T0 BpeMa Heo6xoANMO AnA nonnMepnaunn repMeTNka.
 
 ### 3AMEHAYNNOTHEHNA MACNSHOrO KAPTEPA
-`kia_rio_en_903ac72a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/f37d5275e3bfcafdd6bc16d286c65ab08065424bdf522260de890991f5278e4d.webp)
 
@@ -4494,7 +4212,6 @@ MacnaHbIn kaptep yCTaHOBneH Ha repMeTNK,Kakag-nn6onpOKnankaOTcyTCTByeT.pn yteyke
 2. CHNMNTe NOAAOH MAcnAHOrO kapTepa (CM. "3aMeHa YNnOTHHNANOAAOAACNAHOro kapTepa",c.75).
 
 ### An HarngAHoctN pa6oTa noka3aHa Ha CHATOM ABNraTene.
-`kia_rio_en_878c4b93` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/8bd636d4dcd72f299f22a03b7d7ea32eda3a04fc520e731bba51426cae53129f.webp)
 
@@ -4512,7 +4229,6 @@ Pnc.5.1O.CxeMa HaHeceHnA repMeTuka Ha npnbanoyHyIOnOBepXHOCTbMaCnAHOrO kapTepa
 6.YcTaHOBuTeMacnAHbINKapTepN3aT9HNTe6ontblerokpenneHngpaBHoMepHo, BHeCKOnbKOnpOXOOBMOMeHTOM18-24H·M.
 
 ### 3AMEHA CANbHNKOB KOJEH4ATOrO BAIA
-`kia_rio_en_08b26ce7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/8bbe1767da0438ffa577622f55ebeeec274f72262aaceb172076bdb41c20147c.webp)
 
@@ -4537,14 +4253,12 @@ BaM noTpe6yIOTCe: TOpuObble ronoBkN "Ha 19", "Ha 22", OTBepTKa C NJOCKNM Je3BNeM
 5. yAepxuBas WKNB KOneH4aToro Bana OT HPoBopaynBahng cneunanbHbIM npncnoco6neHneM,BbIBepHne 60nT KpenneHngWkNBa.
 
 ### NPNMEYAHNA
-`kia_rio_en_0021032c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AAHArnAHOCTN NOka3aHO Ha CHATOM ABNraTene. EcnNcneunanbHoro npucnoco6neHns HeT, noMOWHNK AOnKeH HaaBTOMO6nne C 3arnyweHHbIMABNraTeneM BKIIOLNTb NATYIO nepenauy, pe3kOHaxaTb HaneAanbTopMo3ayeTbIpe-ngTb pa3,nocneyero yAepxnBaTbneAanb HaxaTon.
 
 ![](images/49e311ae96723e95ca0e8929c6ae75d601872aa7e803b210ed4ae56c5220f609.webp)
 
 ### 6.CHNMNTe山KNBCKONeH4aTOrOBana.
-`kia_rio_en_21bb14ce` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5b5e0fca30a77d8a432bf3729e83ebdbbeff3c912add713be8f9fbea137a2052.webp)
 
@@ -4562,7 +4276,6 @@ IPNMEYAHNE
 9. 3anpeccyute canbHNK B nepeAHiOIO Kpblwky 6noka unnHApoBAO ynopa CnoMo LbIo onpaBknnonxonAleroAnametpa.
 
 ### NPNME4AHNE
-`kia_rio_en_737e093c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ka4eCTBe onpaBkN MOKHONCnOb3OBaTbrOnOBKy N3 Ha6Opa NHCTPyMeHTOB nOAXOAA山erO pa3Mepa nnnCTapblcabHnK.
 
@@ -4590,7 +4303,6 @@ EcnNOTBepTKONN3Bne4bCanbHNKHeyAaeTCA, MOKHO BBepHyTbBO6OMyCaJbHNKaABa BNHTa nacc
 6.ycTaHOBNTeCHTbley3nbl NAeTaN BnoPAAKe,OOpaTHOMCHATNIO.
 
 ### 3AMEHANPOKJAAKN BNyCKHONTPybbI
-`kia_rio_en_ee640959` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/f5b793bf2d29069f5f0185d956fa82416099804a05c474c344baf27f788b895c.webp)
 3.BbIBepHnte 4eTbIpe 6onta kpenneng ApoccenbHoroy3naK BnyCKHonTpy6e...
@@ -4665,7 +4377,6 @@ CyHOK, OTCOeANHNTeKONOAKNKFyTOBnPOBOAOBOT ΦopcyHO...
 18.ycTaHOBNTe BnyCKHyIoTpy6y N BcepaHee CHATbIe AeTann B nOPaAke, 06paTHoM CHATNIO. 3aTaHNte6onTbl NraknKpenneHs BnyCKHOnTpy6blMOMeHTOM18,6-23,5H·M.
 
 ### 3AMEHAMACIOCbEMHbIX KONNA4KOB
-`kia_rio_en_d030a158` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/4f9894764e30424fd2603e6b53f51775fda58419b71b2ca73a5bcaf9d6fc7483.webp)
 
@@ -4686,12 +4397,10 @@ BaM noTpe6yIoTcA: BCe NHCTPyMeHTbl, Heo6xoAnMbie Ang CHARNS rONOBKN 6noka LnNNHA
 ...Nnn NHePUNOHHbin CbeMHNK MaCNoCbeMHbIXKOnnaykOB. NpN OTCyTCTBNN TaKOro CbeMHNka noTpe6yIoTcA naccaTNXN AAACHSNA KOnnaykOB N onpabka NOAXO
 
 ### AsWerO ANaMeTpa AA NX HanpeccoBKN a HANPABNSIOWNe BTynkN KaNaHOB.
-`kia_rio_en_0b0cf027` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. CHNMNTe pacnpeAennTenbHble Banbl CM. CHATNe NyCTaHOBKa pacnpeAenntenbX BanOB,C. 82). 2.CHnMNte rOnOBky 6noka LunHApOB(CM. 3aMeHa npoknankn rOnOBKN 6noka UNNNHDOB,C.74).
 
 ### IPNMEYAHNE
-`kia_rio_en_85b4e72e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pNHann4NNAOCTaTOyHOroOnbITa 3aMeHaMaCnOCbeMHbIX KOnna4KOB BO3MOXHa 6e3 CHATNS TONOBKN 6noka LunnHAPob. npu3ameHe KOnna4KOB 1-ro N 4-ro LNNNHAPOR yCTaHOBNTe nopweHb 1-ro unnnHApa B nonoxeHne BMT. npn 3aMeHe Konna4koB2-roN3-ro LnnnHApOB YCTaHOBNTe nopweHb 1-ro unnHApa B nonoKeHNe HMT.
 
@@ -4706,7 +4415,6 @@ pNHann4NNAOCTaTOyHOroOnbITa 3aMeHaMaCnOCbeMHbIX KOnna4KOB BO3MOXHa 6e3 CHATNS TO
 5. CoXMNTe npncnoco6neHnem npyxNHy OAHOrO N3 KnanaHoB N C nOMOWbIO nNHUeTa UN HaMarHNyeHHON OTBepTKN BbIHbTe N3 TapenkNnpyxNHbI ABa cyxapg. 3aTeMCHNMNTe npncnoco6neHne.
 
 ### NONE3HbIN COBET
-`kia_rio_en_1b219044` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnnycnnnenepemeweHngpbluaranpncnoco6neHNg3HaUNTenbHO yBenN4NBaeTCA, acyxapn He BbIXOAST N3 nPOTOykn KnanaHa, HaHeCNTe nerknn yAap MOJOTKOM no TapenkenpyxnHbl, To6blcyxapn ocBo6oAnnncb.
 
@@ -4722,12 +4430,10 @@ EcnnycnnnenepemeweHngpbluaranpncnoco6neHNg3HaUNTenbHO yBenN4NBaeTCA, acyxapn He 
 8. CnpeccyiiTeMacnocbeMHblNKOnna4OK Q HanpaBnaIo山enBTynkNKnanaHa.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_f46af6a7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npn OTCYTCTBNN nPNCnOCO6neHNA AA CHATNA KOJna4KOBaKKypaTHOCHNMNTeNXnaCCaTNKaMN. ycunne HyXHO npNKnaAbIBaTb CTporo BBepx He npOBOPa4NBaTbKOnnaykN, 4TOObI He nOBPeANTb HAnpaBnsiOWne BTynkN KanaHoB. NpNMeHeHne AЗTOn LennAByx OTBepTOk 3anpeweHO.
 
 ### NONE3HbIN COBET
-`kia_rio_en_0d399409` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn B KOMNJeKT HOBbIX KOnnaykOB BXOANT yCTaHOBO4Has BTynka, HaAeHbTe ee Ha cTepXeHb KanaHa, 4To6bI npeAoxpaHNtb OT NOBpexneHnn pa6oyyio KPOMKy konnayka OCTPblMN KpasMNnpOToyek nOA cyxapn HaCTepXHe KnanaHa.
 
@@ -4737,7 +4443,6 @@ Ecnn B KOMNJeKT HOBbIX KOnnaykOB BXOANT yCTaHOBO4Has BTynka, HaAeHbTe ee Ha cTep
 12. CxNMas npyknHy npncnoco6neHnem, yCTaHOBNTeCyXapNTaK, 4TO6bIOHNBCTANNB npOTO4KNCTepKHgKnanaHa.
 
 ### NOJE3HbIN COBET
-`kia_rio_en_fd188774` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ocneyCTaHOBkNcyxape CHANSNPNCNOCOGengAnn CKaTNA KnanaHHbIX npyNHHaHeCNTeHeCKONbKO HeCNIbHbIXyAaPOBMONOTKOM no TOPuycTepHA KnanaHa,4To6bl cyxapn rapaHTNpOBaHHO 3acNKcNpOBanncb B npOTO4ke CTePKHS. EcnNyCTaHOBneHHble C nepekocom cyxapNOCTaHyTCAHe3aΦNKCNPOBaHHbIMN,npN nycke ABNraTena"paccyxapeHHbIN" KnanaH APoBanntcs B LNNNHAP, 4TO npnBeAeT K cepbe3HON nOnOMkeABNraTeng.
 
@@ -4745,14 +4450,12 @@ ocneyCTaHOBkNcyxape CHANSNPNCNOCOGengAnn CKaTNA KnanaHHbIX npyNHHaHeCNTeHeCKONbK
 14.yctaHoBntepacnpenenuTenbHbleBanbl NBCe CHATbIeAeTanN BnopaAke, 06paTHOM CHATNIO.
 
 ### 3AMEHANPOKIAAKN KATKONNEKTOPA
-`kia_rio_en_7abd89ad` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 MexAy naHuaMnronOBkN 6noka nnnHAPOB KaTKOnneKTOpayCTaHOBeHaynnOTHNTenbHagnpoknanka, N3rOTOBNeHHaN3 AByx TOHKNXOTΦOPMOBaHHbIXMeTaNN4eCKNX nonoc, COeANHeHHbIX MexAy co6on TO4e4Hon CBapkOn.
 
 NpN Hapy山eHnN repMeT4HoCtN 3Ton npo-Knankn nPONcxOAnt npopblb OTpa6oTaBWNXra30B Hapyxy, conpoboxAaomnnca xapak-TepHbIM pe3KNM3ByKOM (KOnneKTOp“Ce4eT").EcnN He yAaetcA yCTpaHNTb HeNCnpaBHOCTbnOATaxkonkpenneHnkaTkOnnekTopa,3aMe-HntenpoknaAky.3ameHanpoknanknonncaHaBnpouecce CHATNA NyCTaHOBKNKaTKOneK-Topa(CM.“CHTNeNyCTaHOBKa KaTKOneKTO-pa,c.112).
 
 ### CHATNENYCTAHOBKA LENNNPNBOAATA30 PACNPEDENNTENbHOrO MEXAHN3MA
-`kia_rio_en_100b2666` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/298d0411b474b93ab8838e13ce4762eaa39fe698e5ca706e1dbb0765d1f6e4d1.webp)
 
@@ -4782,7 +4485,6 @@ BaM noTpe6yIoTcg: KO4N “Ha 14","Ha 17,“Ha19”，“Ha 22,TopOBble rOnOBKN �
 9..N OTBeANTe HacOC B CToPOHy.
 
 ### NPNMEYAHNE
-`kia_rio_en_a8dd768d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 A HarngAHocTN pa6OTa nOka3aHa Ha CHATOM ABnratene.
 
@@ -4856,7 +4558,6 @@ PHC.5.11.PacnonoxeHne 6onToB KpenneHna KpbiwKN uenNnpuBoAara3opacnpeAenntenbHoro
 C 28.ycTaHOBNTeuenb B o6paTHoM nopaAke no MeTKaM Ha wectepHgxpacnpenenntenbHbIXBanOB NHa uenn (OkpaweHHble 3BeHb9), cnens 3aTeM,4TO6bl yCTaHOBO4Hbln WTNOT Ha KONeH4aTOMBanyHaXOQNJIcABBepxy.
 
 ### NPNMEYAHNE
-`kia_rio_en_908b7a68` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/70bde35f2ff50ca9ee8b07d4605e63770b2db26ac899ad61df08cee4bcfa3041.webp)
 
@@ -4877,19 +4578,16 @@ C 28.ycTaHOBNTeuenb B o6paTHoM nopaAke no MeTKaM Ha wectepHgxpacnpenenntenbHbIXB
 34.yCTaHOBNTe BCe OCTanbHble AeTanNB nOPAAke,OOpaTHOMCHATNIO.
 
 ### NONE3HbIN COBET
-`kia_rio_en_ef651c42` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pNKaXAOMCHNN KpbIwknLenn npnBoAara30pacnpeAennTenbHoroMexaHn3Ma3aMeHaiite CanbHNKKOneHyaTOrOBana(CM. "3ameHa canbHNKOB KOJeH4aTOrO BanaABnrareng,C.76).
 
 ### OCOBEHHOCTN PEMOHTA
-`kia_rio_en_85124335` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 新 BAaHHoMnoApa3AeneonncaHTOnbkonpo-uecc CHATNN N yCTaHOBKN pacnpenenntenb-HbIXBanOB.
 
 PeMOHTrOnOBkN 6nOka LNnNHApOBC3aMeHO ceAen,HanpaBgIO山Nx BTyOKKnanaHOB WnNcOBkOn npNBanO4HOn nOBepXHocTn roNOBKN Tpe6yeT APNMeHees cneunanbHbIx NHCTpyMeHTOBNHa6opa3anaCHbIX4aCTen, He nocTynaIoWNX BCBO6oAHyionpoAaky.otoMynpNHeO6xOqNMOCTNCepbe3Horo peMOHTa rOnOBkN 6noka unnnHApoBo6pa山antecb Ha CTO NnN 3aMeHnteronoBky Bc6ope
 
 ### CHATNEN YCTAHOBKA PACNPEAENNTENbHbIX BANOB
-`kia_rio_en_3098a105` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/81278fa701b8192ce2ffa4bb02699ce127314814178de6f2ab8c7c09d9bd6ce3.webp)
 
@@ -4924,7 +4622,6 @@ BaM noTpe6yIoTcg: KIIONN “Ha 14,"Ha 17","Ha 19", Ha 22",“Ha 30n,TopuOBble rO
 6. AHanorN4HO CHNMNTe WeCTepHIO C MyΦ- TON CuCTeMbl N3MeHeHngΦa3ra3opacnpeneNeHnn CpacnpeAennTenbHoroBanaBnyCKHbIx KnanaHOB.
 
 ### NPNMEYAHNE
-`kia_rio_en_f2563c19` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHNMaTb WeCTepHN CNeAyeTTONbKOBTOM Cny4ae,ecnnB 3TOM eCTb HeO6xOANMOCTb (HanpNMep,As 3aMeHbl).
 
@@ -4935,7 +4632,6 @@ CHNMaTb WeCTepHN CNeAyeTTONbKOBTOM Cny4ae,ecnnB 3TOM eCTb HeO6xOANMOCTb (HanpNMe
 8 N CHuMnTe pacnpeAenntenbHble Banbl
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_c45e9920` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha KPbIWKN NOAWNNHNKOB pacnpeAenntenbHbIXBanOB HaHeceHbI NXnopsAKOBbIeHOMepa. 3anoMHnte NN 3annwnte pacnonoxeHne KpbIweK,4To6bIyCTaHOBNTb NXHanpeXHNe MeCTa: KPbILKN 06pa6aTbIBaIOT COBMeCTHO C ronOBKON6noka LNNNHAPOn N 06e3nN4nBaTb MX 3anpeweHo.
 
@@ -4945,7 +4641,6 @@ PNC.5.12.opAAOK BbIBopa4NBaHNA 6onTOB KpenneHnA KPbIWeK nOAWNnHNKOB pacnpeAennTe
 9.OcMoTpnte pacnpenenntenbHble Banbl. noBepXHOCTN OnoPHbIX week N Kyna4kOB AONKHbI 6bITbxopomo OTnOnNPOBaHbl, 6e3 noBpexAeHnn. Ha pa6ounx nOBePXHOCTAX week HeAOnyCkaIOTCA 3aAnpbl, 3a6onHbl, uapannHbl, HaBOnaKNBaHNe SnIOMNHnn OT He3ANOAWNnHNka BrOnoBke 6noka. Ecnn Hapa6o4NXnOBepXHoCTXKyna4kOB o6HapyXeHbI cneAbi 3aeAaHng, neperpeba, rny60- KuepNCKNNnNN3HOC BBNAeOrpaHKN,3aMeHNTeBanbl.
 
 ### nPEAYNPEXAEHNE
-`kia_rio_en_a32cef7a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Wnncobka kynaykoB pacnpeAenntenbHbIx BaNOB AycTpaHeHng CTyneH4aTOrO N3HOCa 3anpeweHa, Tak Kaknpn N3MeHeHNNpa3MepOB npoungKynaykoB6yAyT HapyueHbla3blra3opacnpeAeneHng. 010 1 5
 
@@ -4960,14 +4655,12 @@ Wnncobka kynaykoB pacnpeAenntenbHbIx BaNOB AycTpaHeHng CTyneH4aTOrO N3HOCa 3anpe
 14.YcTaHOBNTeBcepaHeeCHgTbIeAeTaNNB o6paTHOMnopgAke.
 
 ### CHATNE NYCTAHOBKA ABNTATENA
-`kia_rio_en_0c399c0f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5b701108308e49e951e35c1473a8c3888eb4dfe85086100bc5af156adb6b7020.webp)
 
 CHNMaNiTeABNraTenb B.c6opeckopo6kon nepenay, onyckaa eroBHN3N3 MOTOPHOrOOTCeka.An3TOrOHeo6xOANMnOAbeMHNK,4TO6blnOBblwe NOAHATNePeAHIOIO 4acTb aBTOmoOnng. B rapaxHbIX ycnOBNAX npn OTCyTCTBNNnOAbeMHNkanOTpe6yeTCAAOMKpaT, a Takke npo4Hble N AOCTaTO4HOBbICOKNe onopbl,4TO6bl yCTaHOBNTb Ha HNXNPNNOAHTIO epeAHIOIO4aCTbaBTOMO6Nn9,3TOnO3BOnNT 3BneybN3-nOnaBTOMo6nngABnraTenb,ony山eHHbI Ha non rapaxa.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_f63a2d0f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 PN CHANN NyCTaHOBKeABnraTens,NMeIOmero Gonbwyio Maccy,nnMese TOnbKO nonHOCTbIO NCnpaBHble rpy3onoAbeMHble MexaHN3MbI,pacCyNTaHHble Ha COOTBETCTBYIOWyIO Harpy3ky, N OC06eHHO TWaTenbHO KOHTPONNpyutenpaBnbHOCTbN HaAexHocTbnPncoeANHeHNg TpOCOB,TpaBepc T.n. KTPaHCnOpTHbIM npoyWNHaMABNraTeng.
 
@@ -5025,7 +4718,6 @@ PN CHANN NyCTaHOBKeABnraTens,NMeIOmero Gonbwyio Maccy,nnMese TOnbKO nonHOCTbIO N
 17. OTCOeANHNTe KONOAKN XryTOB npOBO-AOBOTBbIBOAOBAaT4NKOBCNCTeMbIynpaBne-HNAABNraTeneM(CM. “CnctemaynpabneHngABraTeneM,c.211). 福 业
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_7f6528dc` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 18. OTCOeANHNTe WnaHrn OT WTyuepoBBnyCKHON Tpy6bl.
 
@@ -5065,7 +4757,6 @@ cneAyiowne onepaLnn. 1.3anente oxsaxAaiomyio XNAKOCTb(CM.
 福 3. yCTNTeABNraTenbNnpOBepbTe,HeTN yreyekTOnnnBa, Macna MoxnaxnaiomennnKOCTN. NpoBepbTe AaBneHne Macna. nocny山aviTeABnraTenb,OHAOnKeH pa6OTaTb OBHO, 6e3noCTOPOHHNXWyMOB NCTYKOB.
 
 ### CHATNENYCTAHOBKAAETANEN WATYHHO-NOPWHEBONrPYnnbI
-`kia_rio_en_290c839f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/f1f65841a3ae13337729460e8e62d77daecab8ae8986ede221fe840c3f7c2967.webp)
 
@@ -5074,7 +4765,6 @@ cneAyiowne onepaLnn. 1.3anente oxsaxAaiomyio XNAKOCTb(CM.
 2.CHNMnTe rOnOBKy 6noka LNnNHApOB(CM. "3ameHanpoknankn rOnOBKN 6noka UNnnHApOB",C.74). 3.CHNMnTe MacngHbln apTep(cM.3ameHa ynnoTHeHng MacnaHoro kapTepa",c.76). 4.oBepHe OneH4aTbl Ban TaK4ob CHNMaeMbI nopweHb Oka3ancA B HNKHeN MepTBON TO4Ke (HMT). 5.OTBepHnte ABa 6onTa9 (pnc. 5.13) kpenneHNg KpbIwkNwaTyHa. 6.CHNMNTe KpbIWKy WaTyHa. EcnNCHTne Kpbl山kN3aTpyAHeHO,npeABapnTenbHOCTpOHbTeee HeCNIbHbIMNyAapaMNMOnOTka.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_4c6e0049` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HoMep LNNHAPa BbI6NT Ha 60KOBON noBepx-HOCTN KPbIWKN. KpbIWKN 06pa6aTbIBaIOTCA Bc6opeCWaTyHOM, NOOTOMyOHN HeB3aNM03a-MeHgeMbI. NpoMapknpyiTe WaTyH N KpbIWKyWaTyHa HOMepoM LunnHApa,4Tobl He nepenyTaTb Nx npn c6opke. THOMY NMIdK HN
 
@@ -5084,26 +4774,22 @@ PNc.5.13.AeTanN aTyHHo-nopuHeBon rpynnbl: 1 BepXHee KOMnpeCCNOHHOe KOnbuO;2 - HN
 7poTonKHNte WaTyH py4kon MONOTka BHyTpbLNnNHApa NOCTOPOXHOBbIHbTenOpWeHb C 山aTyHOM N3 LnnNHAPa. Cnennte 3a TeM,YTObI HKH ronOBka WaTyHaHekacanacb3epkana LNnNHAPa, NHaye MOXHO NOBpeAnTb 3epkano. AHanorn4HO CHNMNTe OCTanbHbienopwHN.
 
 ### APNMEYAHNS
-`kia_rio_en_ba7394e4` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnNnpeAnonaraeTcg CHsTb nop山eHb CWaTyHa, npoMapknpynte nopweHb HOMePOM LwnnHApa, 4TO6bI He nepenyTaTbnopwHN npN yCTaHOBke.
 
 8. BbIHbTe BKnaAbIWN 3WaTyHa N3 ero KpbIWKN.EcnNBKnaAbI山NOCTaNCb Ha KOneH4aTOM Bany, CHNMNTe NX C Bana. Ecnn He npeqnonaraetca 3aMeHa BKnaAbllen, npn CHATNNnpOMapkNpyute NXHa Hepa6oyen noBEPXHOCTNOTHOCNTENbHOWaTYHOBN Kpblwek. 9.pN Heo6xoANMOCTN 3aMeHbl CHNMNTe nopwHeBbie Konbua CneLNanbHbIM CbeMHNKOM. EcnNero HeT,CHNMe KOnbua C nop山HЯ,akkypaTHo pa3Ben9 NX 3aMKN.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_a5426476` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 He pa3BoAnTe 3aMkN nopwHeBbIx Koneu 6onbwe, 4eM 3TO Tpe6yeTcAA PXCHATNA. BnpoTHBHOM Cny4ae BO3MOXHbI HapyweHNe reOMeTpun nnnAake nonoMka Koney
 
 10. BbInpeccyite nopwHeBOn naneun3 BepxHen rONOBKN waTyHa N CHNMNTe nopweHbCwaTyHa. QORN 1 75
 
 ### NONE3HbINCOBET
-`kia_rio_en_852242ec` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NOMeTbTeAeTanN. EcnnAeTann HenoBpexAeHbl N Mano N3HOWeHbI, NX MOKHO NCnonb30- BaTb, yCTaHOBNBHanpeXHNeMeCTa.
 
 ### AE中EKTOBKAAETAJEN WATYHHO-NOPWHEBON rPynnbl N BNOKALNNNHAPOB
-`kia_rio_en_8d0126a6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/462f53c5a52f7dbbb1cac2c41cf64c7538cdda72d1d59087dd989401c5d9b560.webp)
 
@@ -5128,7 +4814,6 @@ BaMnoTpe6yIOTCA: nepeHocHasnaMna, Ha6opnnocknx山ynoB,NHeNka, WTaHreHuupkyb,Hypo
 6 ...POABNHbTe nopwHeM kakonpaBkon KOnbuOBLNnNHAP,4TO6bI OHOyCTAHOBNNOCb BLNnNHApepoBHo,6e3nepekocOB, N3BeKNTenopweHb...
 
 ### N3MepbTe山ynOM3a30pB3aMkeKOnbLa. HoMNHanbHbl/npeAenbHoAonyCTHMbIn 3a30pB3aMKe,MM:
-`kia_rio_en_be596552` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 0，14-0,28/0,8- BEpXHeeKOMnpecCNOHHOe KOnbLO 0,30-0,45/0,8- HNXHeeKOMnpeCCNOHHOe KOnbuO 门门 0n 5 中 6 0,20-0,70/1,0 MacnOCbeMHoeKObLO SM Ecnn3a3opAn9nepBoroKoMnpeccnoHHOroKOnbLaMeHbWe0,3MM,ABToporo- MeHbwe0,5MM,aA MacnocbeMHorOkonbua MeHb山e0,8MM, akkypaTHO CTO4NTe HanouneMTOpublKonbua.
 
@@ -5167,7 +4852,6 @@ BepxHen ONOBKNWaTyHa;
 HNKHeN ronoBkewaTyHa.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_14c907db` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KpbIWKNWaTyHOB nonyyaIoT MeTOAOMOTPbIBa OTTena 山aTyHa. WaTyHbI 06pa6aTbIBaIOTCOBMECTHO CKpbIwkamn,noomy pa3ykonneTOBbIBaTbNX3anpewaeTcA.
 
@@ -5196,7 +4880,6 @@ EcnnakTnueckn pac4eTHbl 3a30p MeHb山enpeAenbHOAOnyCTNMOrO,MOKHOCHOBa NCNONb30Ba
 Ecn3a30p 6onbwe npenenbHo AOnyCTNMoro, HyKHO 3aMeHNTb BKnaAbIWN Ha 3TNX wenkax HOBbIMN HOMNHANbHON TOnWNHbI, nonxOAg山eroKnacca.
 
 ### NONE3HbIECOBETbI
-`kia_rio_en_e99c1745` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AN3MepeHns 3a3opoBMeAyBKnaAbIWaMN NWeNkaMNKOneH4aTOrOBana MOKHOBOCNONb30BaTbCA cneunanbHon kann6poBo4Hon npoBOnokonPlastigage. C
 
@@ -5230,7 +4913,6 @@ Ncnonb3yscneunanbHblnnpnnaraembli3Me-pNTebHblWa6noH,N3MepaIOT WNpNHy OTne-4atkap
 ..nN BknaAblwe 6. no cneunanbhon TaonnuenepecyeTa HaHeceHHon Ha 山a6noH,onpeAeng-IOT3a30p BCOeANHeHNN. STNOMOC
 
 ### NPNMEYAHNE
-`kia_rio_en_864c23df` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaTOpuOByIO nOBepXHOCTb 山aTyHHbIXBKnaAbl山ekaccoB1N3HaHeceHaMapknpoBka,pa3- nnaiomancn no uBeTy: BKnaAbIWN Kacca 1 MapknpyioT4epHonpacko,Knacca3-3eneHoii.BknaAbI山N Knacca2HeMapkNpyioTcA. 9
 
@@ -5242,7 +4924,6 @@ PNC.5.15.PacnonoxeHne3aMKOB nopwHeBbIx koneu nepeA yCTaHOBKON nopwHA BUNnNHAP: 1
 19. ycTaHOBNTe nopwHeBble Konbua Ha nopweHb.
 
 ### ycTaHaBnNBaNTe KOMnpeccNoHHble konbua MapKNPOBKONBBepX. 1
-`kia_rio_en_1c80b83a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 C 20.CopneHTupyuiTe KOnbua, Kaknoka3aHO Hapnc.5.15.ycTaHOBNTeKonbua HaOcTanbHblenopwHN.
 21.ycTaHOBNTeBKnaAblW B 山aTyH,COBMeCTNByCTaHOBO4HblyCNKBKnaAbI山aCBbIeMKONHaWaTyHe.
@@ -5251,19 +4932,16 @@ C 20.CopneHTupyuiTe KOnbua, Kaknoka3aHO Hapnc.5.15.ycTaHOBNTeKonbua HaOcTanbHble
 24.pOBepHnTeKOneH4aTblBanTaK, 4TO6blero WaTyHHagWeika, HaKOTOPyIOMOHTNPyIOT WaTyHHO-nOPWHeByIO rpynny, ycTaHOBNnacb BBMT.yCTaHOBNTe nOpWeHb LNnNHApa B COOTBETCTBNN CMapknpoBkON HOMepa LNnNHApa Ha WaTyHe. 20 25. HaxMNTe(HanpuMep,pyykon MOnoTka) HanopweHb NCABNHbTeerON3OnpaBkNBUNNHAPAOMOMeHTayCTaHOBKNHNKHerOOBKNWaTyHa Ha WaTyHHyIOWeiKyKOneHyaTOro Bana. AHaNOrN4HOyCTaHOBNTe NOPwHn B OCTanbHbIeLnnNHApbl. H
 
 ### NPNMEYAHNE
-`kia_rio_en_5aed662c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pnycTaHoBke nopwHen BLNnNHAbI CTPnKN Ha nopwHXAOnxHbI 6bITbHanpaBeHblB CTOpOHynepeAHenyacTnABnraTeng. 1
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_a4446c9a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pnycTaHoBke nopwHg nOTHO nPNXNMaNtenpncnoco6nehneAng CKaTNs nopwHeBbIx KO-neu K 6noky LNNNHAPOs, NHaye nopWHeBblekOnbLaCnOMaIOTCA.ycTaHaBNBaNTenOPWeHbBLNnNHAPOCTOPoX-HO,4TO6bI HNKHen ronOBKONWaTyHa Henobpe-ANTbWaTyHHyIOWeNKyKOneHyaTOrOBana. 3NOn
 
 26. ycTaHOBNTe WaTyHHble BKnaAbIWN B KPbIWKNWaTyHOB, COBMeCTNByCTaHOBO4HbI yCNKBKnabl山aCBbleMKOHa KpbIWke. 27. CMaKbTeMOTOpHbIMMaCnOM BKnaAblWN B KpbIwkax WaTyHOB N WaTyHHbIe wenkn KOneH4aToroBana. 28.ycTaHOBNTe KpbI山ky WaTyHa, COeANHNB 山aTyHC山eNkONKOneH4aTOrOBana.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_edde5a1f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KpbIwky WaTyHa yCTaHaBnNBaiTe TakNM o6pa30M,4TO6bIMeTKNHa WaTyHe NHakpbIWke, HaHeceHHble npnpa36opke, 6blnnpacnonoxehbl C OAHON CTOPOHbl.
 
@@ -5276,7 +4954,6 @@ KpbIwky WaTyHa yCTaHaBnNBaiTe TakNM o6pa30M,4TO6bIMeTKNHa WaTyHe NHakpbIWke, HaH
 30. pOBepbre6oKOBo 3a3opWaTyHa OH AOnXeH 6bITb B npenenax0,100,25 MM. penenbHoAonyCTuMbIn 3a30p COCTABNAeT 0,35MM.yBenn4eHHbli3a3opyka3blBaeT Ha ype3MepHbl N3HOC山eKKpNBO山nna KOneH4aToro Bana. B 3TOM cnyyae 3aMeHNTe KOneHyaTblBan.
 
 ### CHATNE,AE中EKTOBKA NYCTAHOBKAKOIEHYATOrO BAJA
-`kia_rio_en_87837486` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/b557f2b53f2e2a2bce7e830ee48d366651465c2213f0aba830c7e72b438829f3.webp)
 
@@ -5298,7 +4975,6 @@ pbl,OTCnOeHnaHTnpNKuNOHHOrO CnOg,3a
 MeHNTeBKNaAbI山NHOBbIMN.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_7c722f17` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3anpewaetcg nPOBOAntb kakne-nn6o noAroHOuHble onepaLnN Ha BKnaAblwax. XN
 
@@ -5307,7 +4983,6 @@ MeHNTeBKNaAbI山NHOBbIMN.
 福 8.N3MepbTe MNKpoMeTpOMHapyXHblANaMeTpDH KOpeHHbIXWeeK. aKTnueckn 3a30pMexAy BKnaAbILaMNKOpeHHbIXnOAWNnHNKOB N KOPeHHbIMN wenkaMn KOneHyaToro BanaonpeAenIoTnOMetoAnke,N3nokeHHOn A9 WaTyHHbIX BKsaAblwen (CM. "CHaTNe N yCTaHOBKa AeTanen WaTyHHO-nOpwHebon rpynnbl", C.84).HoMnHanbHbl pacyeTHbln 3a3opcocaBgeT0,18-0,045MM,nenebHOAOnyCTnMbl3a3op-0，1MM EcnnΦaktnyecknpac4eTHbli3a3opMeHb山enpenenbHO AONyCTNMOrO 3Ha4eHNA, MOXHO CHOBa NCnonb3OBaTbBKnaAblWN, KOTOpble 6bInnycTaHOBneHbI. Ecnn3a3op6onb山enpenenbHoAOnyCTNMOro, 3aMeHNTe BKnaAbI山n Ha 3TNX WeNkax HOBbIMN, noAo6paB NxnoKnaccyHOMNHanbHoroANaMetpa KOPeHHbIX week KOneH4aToroBana.
 
 ### NPNMEYAHNA
-`kia_rio_en_d0208bb1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KopeHHbieWenikn KONeHyaTorOBana no HOMNHanbHOMyANaMeTpypa36NTbI HaTpNKnacca: 一 Kacc （DH=47,960-47,954MM）； -Knacc2（DH=47,954-47,948MM); -Knacc3（DH=47,948-47,942MM). TopuOBbIe nOBepXHocTN BKsaAbI山enKOpeHHbIX NOAWNNHNKOBKNACCOB 1n3npoMapknpobaHbl pa3HbIM4BeTOM:BKnaAbI山NKnacca 1 -4epHon kpackon, Knacca 3- 3eneHon. BknaAbIwn Knacca 2HeMapKupyIOTCA.
 
@@ -5316,14 +4991,12 @@ KopeHHbieWenikn KONeHyaTorOBana no HOMNHanbHOMyANaMeTpypa36NTbI HaTpNKnacca: 一
 10. poMontekaHanbl KOneH4aToro Bana, yero3anenteB pannanbHbleKaHanbl6eH3NH,npeABapnTebHO 3arnywNB NXCOAHON CTOPOHbI AepeBAHHbIMN npo6kaMn. BbinepXNTe He MeHee 20 MNH N npOMOnte kaHanbl 6eH3NHOM, BnpbICKNBag erope3NHOBOn rpywen nnn MeANuNHCKNMWnPNLeM. AepeBaHHble3arny山kNyAanNTenocnenpoMbIBKN coeANHNTeNbHbIX KaHanOB. pnHeo6xOANMOCTN NOBTOPANTenpOMbIBKyAO HayanaBbITekaHNg 4NCTOro6eH3NHa.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_c637b5d3` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpoMbIBKy KaHAnOBKOneHyaTOro Bana npoboANTe BXOPOWOnPOBeTPnBaeMOMnOMe山eHNN, CNCnOb3OBaHNeM3auNTHbIXCpeACTB.
 
 11.ynoxnte BnocTenn 6noka UNNNHAPOB BEpXHNeBKnaAbI山NKOPeHHbIXnOAWNnHNKOB.
 
 ### NPNMEYAHNE
-`kia_rio_en_e4e36d5f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BKaAbIwN yCTaHaBnnBante Tak,yTobI yctaHOBOYHbINyCNK BKnaAblWa COBMeCTNNICA CBbleMKONBnocTenn. 3
 
@@ -5334,7 +5007,6 @@ NNHAPOB. 14.ycTaHoButeynopHblenonykonbua4n6
 Bana. MAGO
 
 ### NPNMEYAHNE
-`kia_rio_en_0dcd98f8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nepeAHee ynopHoenonykonbuo4ycTaHabsinBaIOT KaHaBKaMN B CTOpOHynepeAHen yacTN ABNraTens.
 
@@ -5346,7 +5018,6 @@ PHc.5.17.NopAAOk 3aTAKKN 60nTOB KPenneHng KpblWeKKOPeHHbIX nOAWNnHNKOBKONeH4aTOr
 ![](images/667ba4721545acf9aaf58a689eb77df62b51a21b97ff033bbb706c65764c8f10.webp)
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_945dac1d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/9d4524637ed0b5f3bc0e3f644273f15528fa95d53a2862239fb51c0fc284ade1.webp)
 PNC.5.16.nOKUNnNHApoBABnraTeng N KoneHuatbI Ban:1-HWKHN BKnaAbIW KOPeHHOrO nOAWNnHNKa KOneHyaTOro Bana;2-KOneH4aTbl Ban;3-BepXHnn BKnaAbIW KOPeHHOrO nOAWNnHnKa KOneH4aToro Bana; 4 1 nepeAHee ynopHoe nonyKonbuoKoneHyaToro Bana;5-6nok unHApoB;6 -3aAHee ynopHoe nonykonbuo KOneHyaToro Bana;7 1 KpbIwka KOpeHHoro noAwnnHuka KoneHyatoroBana;8-6ontKpenneHngKpblweK KOPeHHbIX NOAWNNHNKOB KONeHyaToroBana
@@ -5361,7 +5032,6 @@ NepeAyCTaHOBKOn 6OnTOBKpenneHngkpbIwek KOPeHHbIXNOAWNnHNKOBKOneH4aTOrOBAnaN3-
 Sno MepbTeNXANHy OTHNKHeNHaCTN rOnOBKNAO Topua.EcnnnnHa6onta6onb山e75,3MM,3aMeHNTe6ONTHOBbIM. 饼 UTN 9NCO30
 
 ### NPNMEYAHNE
-`kia_rio_en_1b227b35` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 20. AoBepHnte6ontblKpenneHng Kpblwek KOPeHHbIX NOAWNNHNKOB Ha yron 88-92° B TOMxenopaAke. 福 ANE
 
@@ -5371,7 +5041,6 @@ Sno MepbTeNXANHy OTHNKHeNHaCTN rOnOBKNAO Topua.EcnnnnHa6onta6onb山e75,3MM,3aMeH
 06paTHOMCHATNIO. 49 R 建
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_8c490c1d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CNCTeMaCMa3KN CyNCMa3bIBAHN TpyunxcR noBepxHocren,ynaneHng npoAykTOB N3HOcaN OTBOAa Tenna oTAeraneABNrateng. CNCTeMa CMa3KN ABnraTeng KOM6NHNpOBaHHag,HaN6onee HarpykeHHbleAeTann CMa3bIBaTbC9 NOAAaBneHNeM, OCTanbHble - pa36pbl3rNBaHNeM Macna, BbITekaIO山ero N3 3a30pOBMeXAy ABNKWNMNCA AeTangMN NN HanpaBneHHbIM pa36pbl3rNBaHNeM, CnCTeMa CMa3KN COCTONTN3nOAOHa 10（pnc. 5.19)MacnHorokapTepa,MacngHoroHacoca C MacnonpneMHNKOM, NONHONOTOUHOrO MaCNAHOrO ΦunbTpa, peAyKLNOHHOrO KnanaHa, AaT4nka6NMaCnAHbIX KaHanoB.KopnycMaCJHOrOHacOcanPNkpenneHTPeMBnHTaMN 560nTOM 11KKpblWke Lennnpnbona ra30pacnpeAennTenbHoro MexaHN3Ma.
 
@@ -5382,7 +5051,6 @@ HacOCBCaCblBaeTMaCnON3nOAAOHaMaCAHOrO kaprepa ABnrateng 4epe3MacnonpneMHNK 7CceT
 N3nnwek Macna CnNBaeTCA N3 rOnOBKN 6noka BMacnHblKapTep 4epe3BepTukanbHblApeHaXHblKaHan.
 
 ### 3AMEHA MACJA BABNIATENE NMACNHOrO NJITPA 12s
-`kia_rio_en_23b1b060` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/b98c6e73a0a31a615ed4fe370eb4919036645f067abc5da3f13b65d19602714f.webp)
 
@@ -5391,14 +5059,12 @@ CornacHo pekOMeHAaunn 3aBOna-N3rOTOBNTenMacno BABNraTeneCneAyeT3aMeHATb 4epe3 15
 BaM noTpe6yIoTcA: MOTOPHOe Macno, MacnsHbln ΦunbTp, Gorupoohan TKaHb, eMKOCTb(HeMeHee4,5n)A cnNBaeMOro Macna, "Ha3,oagKa nnN Kioy “Ha 17",cneunanbHbln nioy AOTBOPauNBaHnsMacnsHOro nnpa.
 
 ### NOJE3HbIECOBETbl
-`kia_rio_en_e0945193` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Macno cnnbaite nocne noe3AkN,nokaABnratenb ewe He OCTbI N Macno oonaAaeT HaN6onbwen TekyuecTblo. EcnNABnratenb XONOAHbIN, nyCTNTe N nporpente ero AO pa6oyen remnepaTypbl. 1
 
 3annBavTe MacnO Ton e MapkN,yTO Ny Macna, KOTOpOe6bInOBABNraTene.EcnNBbl BCexe pewnnn CMeHNTb Mapky Macna,npoMoite CNCTeMyCMa3KNnpOMbIBO4HbIMMaCNOM NN MaCnOM TON MapKN, KOTOPaa 6yAeT NCnonb30- BaTbC9. Angtoronocne CnNBaCTaporOMacna saneNTeHOBOe, AOHNXHeNMeTKNMaCJON3MePMTebHOrO 山yna yCTNTeABNraTenbNAaNTe eMy nopa6otatb 10 MMH Ha XONOCTOM XOAy. CnenTe MacnONTOnbkO nocne3TOrO3aMeHNte MAcnshbIn Φunbtp. TenepbMOxeTe3anNTb HOoeMacno AOTpe6yeMoroypOBHs(AO BepxHen WeTKN Hawyne). 福 5
 
 ### eCnNBaiTeOTpa6oTaHHoeMacnOHa3eMIO3arpA3HgNTeokpyxaIo山yiocpeAy!
-`kia_rio_en_5003a3ef` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHNMNTe 3aunTy KapTepa ABnraTena,ecnNyCTaHOBneHa)（CM.“CHATNeNyCTaHOB-3auNTblKapTepaN6pbl3rOBNKOBABNraTe-,C.67). 有 COMO AO6M
 
@@ -5422,7 +5088,6 @@ PNc.5.19.AeranNCCTeMblCMa3KN:1- Kpblwkauenn npnBoAa ra3opacnpeAenuTenbHoro MexaH
 6. ...BbIBepHNTe npo6ky,npeABapuTenbHo NOACTABNBeMKOCTb CNBaeMoroMacna, cnente Macno.
 
 ### NPNMEYAHNE
-`kia_rio_en_8f429826` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/d78e5364cc43569b283f00f1ae8171ffc82a3389a32082f624fb7c84285467e5.webp)
 NpoBepbte COCTOAHNe npoknaAkn npo6kn CNNBHOrO OTBePCTNA npNHeo6xOANMOCTN3aMeHNTe ee.
@@ -5437,7 +5102,6 @@ NpoBepbte COCTOAHNe npoknaAkn npo6kn CNNBHOrO OTBePCTNA npNHeo6xOANMOCTN3aMeHNTe
 9...N CHNMnTe unbTp. RNTO06G00
 
 ### NONE3HbN COBET
-`kia_rio_en_de4074e4` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AToPaunaHneMacnhoro nbPa nonb3yNTecb cneLnanbHbIM KJIO4OM. Ecnn Takoro KnIoyaNnnaHanornyHoro CbeMHNKaHeT, npo6eiTekopnyc nbTpa OTBepTkON N, ncnonb3y9 ee Kakpbl4ar, OTBepHnTeΦnnbTp.po6nBauitenbTpKaK MOXHo6nNXeKOAHy,4To6bl He nOBpeANTbWTyuep.MoKHO BOCnOnb3OBaTbC9 NCBePHyTON BABOenonockonrpy6on HaxAa4Hoi 6yMarn,o6epHyB eIONnbTp NCpOHyB eroCMectapykaMN.
 
@@ -5463,12 +5127,10 @@ L 10. TuaTesbHo npOTpNTe 06TnpO4HonTkaHbIOOTPA3N N CTaporoMacnanpnBanouHyio noBe
 ![](images/6ce904e81f5167de4035a931dc4ebbb929774d49f1d4175ed5f3f2981aa7c76c.webp)
 
 ### 16. 3aBepHuTenpo6ky MacNOHaNBHON rOpsOBnHbl. 979 pogpn eYn
-`kia_rio_en_dfa78329` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 17.ycTuTeABratenb AaiiteeMy nopa60TaTb Ha XONOCTOM XOAyHeCKONbKOMNHyT (CurHann3aTopaBapnnHoro naneHngaBneHNA Macna AOnKeH noracHyTb 4epe3 2-3c nocne nyckaABNraTena). Bo BpeM9pa6oTb ABNraTengnpOBepbTe,HeTnNnOTekOBMacna N3-nOAnpo6kn CNNBHOrO OTBEPCTNA N MaCAAHOrO unbTpa. OCTaHOBNTeABraTenb npOBepbte ypOBeHb Macna, npnHeo6xonnMOCTNAOneNTeMacno, nOATaHnTe npoky ΦunbTp. T 1 AR 5
 
 ### CHATNE,AE中EKTOBKA NYCTAHOBKAMACJHOTO HACOCA
-`kia_rio_en_3d25be31` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/52648ce7b15d6071fbe96964f0eb4a63bd185dcf505d6ca4a112267bd351321c.webp)
 
@@ -5516,7 +5178,6 @@ BaM noTpe6yIOTCe: OTBePTKa C KPeCTOo6pa3HbIM Ne3BneM,TOpuoBag ronobka Ha10"，Ko
 11.MeTannNyeckonnNHekoN ynOMN3- MepbTe6OKOBOi3a3Op山eCTepeHMaCnHOrO Hacoca. 3a30pAOnxeHCOCTaBTb0,18MM. 12.N3MepbTe3a30pMeKAy3y6baMNBeAy山ennBenoMon WecTepeH MacngHOrOHacOca. HoMNHanbHbli3a3opMeAy3y6baMNBeAy山en NBeAOMOnWeCTepeHMaCnAHOrO Hacoca 0,376MM. 4
 
 ### NONE3HbN COBET
-`kia_rio_en_a72dad8b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pNKaXAOMCHTN KpbI山kn Lenn npNBOAa ra30pacnpeAeJinTenbHoro MexaHN3Ma3aMeHTe caJbHNK KONeHyaTOro Bana (CM. 3aMeHa canbHNKOB KoneHuaToro Bana,c.76). 5
 
@@ -5529,12 +5190,10 @@ pNKaXAOMCHTN KpbI山kn Lenn npNBOAa ra30pacnpeAeJinTenbHoro MexaHN3Ma3aMeHTe caJ
 15.YcTaHOBNTeKpbI山kyMaCngHorOHaCoca NBCepaHeeCHgTble AeTanNBO6paTHOM nopAAke.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_5e02ce5d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NyckaTb ABNraTenb nocneyCTaHOBKNMacngHOrO HaCOcaMOXHOHe paHee4eM4epe3OANH Yac-TBPe HoOAnAnnOnnPN3auNNrepmeTnka.
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_fc67ce00` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CNCTeMa OXnaKAeHNgABNraTengNAKOCTHag, 3akpbIToro Tuna, C nPNHyANTEnbHOn Lnpkynnunen XNAKOCTN. CNCTeMa COCTONT N3py6awknOxnaxAeHngB6nokeLnnnHAPOB N rOnOBke 6noka LNnNHAPOB, pannaTopa C 3neKTPOBeHTNnATOPOM, pannatopaOTonnten9,pacunpnTenbHoro6ayka,BongHoroHacoca, TepMOCTaTaNWnaHrOB. 1
 
@@ -5564,19 +5223,16 @@ loweNXnAkoctN NCOkpauaeT BpeMg nporpeBaABNraTeng. TepMOCTaT yCTaHOBneHB KOpnyce,
 SnektpobeHtnnstop CNCTeMbI oxnaxneHNA (cnnaCTMaccoBonKpbIbyaTkon) cnyKNT AnAononHnTenbHoro onybapannaTopa,OH BKNIOyaeTcgNBbIKnIoyaeTcgnOCnrHany3nekTPOHHOrO 6nokaynpaBneHng ABNraTeneM. Apnyem B 3aBNCNMOCTN OT HaNpAKeHHOCTN TenoBoropexNMa NanropnTMapa6oTbI KOHANLNOHepa 3neKTPOBeHThnTOPMOKeT Bpa山aTbcACManon N 60nbwonCKopoCTbIo.N3- MeHeHNeCKOpOCTHOrOpeXNMaBeHTWngTOpa o6ecneyNBaetcs6nokoM ynpaBneHnaABnraTeneM NOAKNIoueHneMAonOnHnTenbHorOcOnpOTuBneHns. 3nektpoBeHTugTop B c6ope c KOKyxOM3akpenneH Ha pannatope CNCTeMbI OxnaxAeHng.
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_0ffb46e5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CNCTeMy 3ANOHIOT XNAKOCTbIO (aHTNΦpn30M) He3aMep3aiowen npnTemnepatypeokpyxaiouencpenblA0-40C.PekoMeHAyeMblnTunOxnaxAaIoWenXnAKoctNyka3aH R NpnnoxeHnn 2
 
 ### 3AMEHA OXJAKAAIOWEN KNAKOCTN
-`kia_rio_en_3feb5443` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/1520efa16bd4391212a09333b7680fc47a8c0e58f39e27fbff917df34bb5b319.webp)
 
 BaM noTpe6yIOTCA: xnaxAaoman KNAKOCTb, BeTOWb, eMKOCTb BMeCTNMOCTbIO He MeHee 7 AA CnNBaeMOn OXnaAaowennAkoctn.
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_9efcff5d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpnMeHante oxnaxAaoWne KNAKOCTN Ha OCHOBe 3TnneHrnnKons (aHtnPn3). 3aMeHgite oxnaxAaIowyo KNAKOCTb TOnbKO HaXOnOAHOMABNraTene. D Ornamnaioian KNAKOCTb TOKCN4Ha, nO3TOMy 6yAbte ocTopoxHbl npn pa6oteC Hen. npn nycke ABNraTens npo6kn paAnatopa N pacwnpntenbHoro 6a4kaAonxHbl6bITb 3akpblTbl. 3aBopaynBaitenpo6ky paqnatopa nJOTHO. CNCTeMa nkAenn npn pa6oTaIoweM ABNraTeneHaxoANTCA nOAAaBneHNeM,no3TOMy N3-noAcna6o 3aBepHyTOn npo6knMOxeT nOTeyb oxnaxAaowasnAkoct. G 0
 
@@ -5611,7 +5267,6 @@ NpnMeHante oxnaxAaoWne KNAKOCTN Ha OCHOBe 3TnneHrnnKons (aHtnPn3). 3aMeHgite oxn
 9..cHuMnte 山naHrCnaTpy6ka 6auka paqnaTopa Ncnente NAKOCTb N3 ABNraTengB npNrOTOBNeHHyIOeMKOCTb.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_4519ac20` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AHTNPN3 CMPTebHO AOBNT As BCerO KNBoro.Ang Toro 4To6bI He 3arpg3HaTb OKpyKaIO山yio cpeAy,cnnBante ero n3paAnaropa nABnrateng 4epe3 BOPOHKy (HanpuMep, N3rOTOBNeHHyIO N3 nnacTNKOBON 6yTbIkN A9 ra3NpOBaHHON BOAbI).
 
@@ -5625,7 +5280,6 @@ AHTNPN3 CMPTebHO AOBNT As BCerO KNBoro.Ang Toro 4To6bI He 3arpg3HaTb OKpyKaIO山
 12.3anonHNTeCnCTeMy OXnaxAeHNABuraTeng, 3annBas oxnaxJaIo山yioXnAKOCTbB Ha
 
 ### BO3MOKHbIEHENCNPABHOCTN CNCTEMbIOXJAKAEHNA, NXNPN4NHbIN CNOCOEbIyCTPAHEHNA
-`kia_rio_en_ad35e19c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpNyNHa HenCnpaBHOCTN 国0 Cnoco6ycTpaHeHng 0 ABnratenbneperpeBaetcs loHnkeHHblypoBeHboxnaXAaiomei KNAKOCTNB Aoneite oxnaxgaiomyio KNAKOCTb aC TebHOM 6auke Hen paBeH TEpMOCTaT (KnanaH3aBNCB 3aKpbITOM 3aMeHNTeTepMOCTaT onoX KeHNN) Hencr paBeH BOAAHON Hacoc pobepbTe HaCOC BCy4aeHeNCnpaBHOCTW3aMHNTe CepALeBnHapannaropa 3acopeHa TPA3bl0 HaCeKOMbIMN pOMoviTe CHapyNcepAueBNHy pannatopa Tpy6knpannatopa, WnaHrn pybawka oxnaxqenng poMOviTeCNCTeMy OxnaxgeHn 3anonHnte CBexen ABnraTeng 3acopeHblHaKNnbiO M WNCTIMNOTNOXEHNMN oxnaxnaiomen KNAKOCTbIO 3nekTPOBeHTungtoP HeBKlO4aeTCsN3-3a06pblBa poBepbTeNBOCCTaHOBNTe3neKTpNyeCKNeLenN. npn 3nekTpN4eCKNX Lenen AaT4NKOB,BbIXOAa N3CTpOR HeO6xOANMOCTN 3aMeHNTeAaT4NKN,peneWIN AaT4NKOB,pene WN3nekTPOABNraTengBeHTngTOpa 3neKTPOBeHTWnTOPB c6ope NoBpexqeHneKnanaHa Bnpo6ke HanuBHonropnoBnHbl 3aMeHNte npo6ky HanuBHou ropnoBHbl paaTopa (nOCTOAHHOOTkpbIT,N3-3a4erOCNCTeMa HAxOANTcA non aTMOCΦepHbIMAaBeHNeM) ABnrarenb neperpeBaetca, N3OTONNeng nocynet XOnOAHbn BO3AyX Hpe3MepHoe CHNxeHNe ypoBHg OXnaKJaIouei NAKOCTN ycTpaHnTe yTeukyoxnaxnaioueinKoctn.3aMeHNte N3-3ayreukn wnn noBpexAeHn npoknankn ronOBkN6noka noBpexAeHHyIOIpoknanky ronoBkn 6nokaLnnHAPOB UNWHApOB,BbI3bIBaloueeo6pa3OBaHne napoBbIxnpo6ok 4 BOAgHON pyOawke ABnraTeng ABNrarenb AOnro He nporpeBaeTcAAO pa6oyenTeMneparypbl, TNnOBON PXN BO BPMgABNXHN HeCTa6NneH HeNcnpaBeHTepMOCTaT (KnanaH3aBNCBOTKPbITOM 3aMeHNTeTePMOCTaT NOnOxeHNN) NoctonHoeCHnkeHne VoBhs OxIaXaiouennAkoctnBpacunPnenbhouke HerepMerwueHpaqnatop 3aMeHntepanvatop HerepMeTnyeHpacwNpNTesIbHbIn 6a4ok 3aMeHNtepacuNputeslbHbli6a4oK yTeukNoxnaxnaiowenxuqkoctN4epe3 HerepMeTu4HbIe NOATAHNTeXOMyTbI KpenneHNA WnaHroB COeANHeHnA naTpyOKOB N WnaHroB NoBpexqeHO yrNOTHeHNe BOAAHOrO HaCoca 3aMeHNTe BOAHON HaCOC NoBpexqehanpoknanka kopnyca BOAAHOrO HaCOca 3aMeHNtenpoknanky HeAOCTaTOHHO3aTgHyTbl6onTblKperneHNrOnOBkN6noka 3aTaHnte 6ontbl Kpennen ronoBkn 6noka LnnAPOB LHHAPOB BO BPMTnHO CTORHN Ha XONOAHOM HeO6XOqNMbIMMOMeHTOM (CM. 3aMeHanpoknankn ABNraTene oBnAetceTeu OxnaxnaoueiAkOCTNB ronOBkN 6noka LwnNHApoB>,C.73). 3aMeHNTe CTbIKe ronoBkn6noka 6nOKOMLWNHApOB,KOe Tro, noBpexneHHyIOnpOKnaAKy,BOCCTaHOBNTerepMeTW4HOCTb BO3MOXHO noABneHNecnenOB OxnaxAaIoueiKOCTB 3arsywek MOTOPHOMMaCne) HerepMeTu4eHpaNaTopOTonnTeng 3aMeHNTepanNaTOp OTonnteng
 
@@ -5638,14 +5292,12 @@ nNBHyiOropnoBnHypaAnaTopaAOTexnop,nokaOHaHeHa4HeTnepenNBaTbCaN3rOpOBNHbl B WnaHr
 14.ycTnTeABnraTenb NnporpeTe eroAo pa6oyenTeMnepaTypbl (AO BKSIIOYEHNA BEHTunsTOPa) Nocne 3TOrO OCTaHOBNTe ABNraTenb, npoBepbte ypOBeHb oxnaxAaomen XNAKOCTNN npNHeo6xoANMoCTNAOneteee BpaCwnpNTenbHbli6a4OKAOMeTKN“F》.
 
 ### NPNMEYAHNE
-`kia_rio_en_5781351d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pupa6oreABurareng Cnennre3aTemnepatypon oxnaxAaowen XNAKOCTN nio yka3aTenio.
 
 EcnNyka3aTenbAOuenAOKpacHoN 3OHbl,aBeHTANSTOP paAnatopa He BKNIOUNNCA, BKSIOYNTe OTONNTenb N npoBepbTe, kakon B03AyX 4epe3 HeronpoxoANt. EcnN OTonnTenb nonaet nOAOrpeTbln BO3Ayx,copee BCero,HencnpaBeHBeHTNATOP,a eCnN nOAaeT xOnOAHbIN BO3Ayx,3HaHNT,BCNCTeMe OxnaAeHNAABNraTens O6pa30- Banacb BO3AYWHaR npo6ka. Ans ee yAaneHng 3arnywnTe ABNraTenb, Aante emy OCTbITb N OTBepHnTe npo6ky HanNBHoN ropnOBnHbl. nyCTNTeABnraTeb,AanTeeMynopa6oTaTbBTeueHne3-5MnHN3akpoitenpo6ky ropsoBnHbl.
 
 ### NONE3HbIE COBETbI
-`kia_rio_en_fe39dc4f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Angnyuwero 3anOnHeHng CNCTeMbl 6e3 B03- AywHbIx npo6oknepnoANyecKn... RAOT ...npoxuMaiteWnaHrnpaAnatopapykon. 4epe3HeckonbKOAHeN 3KcnnyaTaLnN aBTOMO6nnocne3ameHbI oxnaxAaiouennAkOcTn npOKOHTpOnnpynte ee ypoBeHb. pnHeo6xoANMOCTN BOCnOnHNTe ypOBeHb.
 
@@ -5654,14 +5306,12 @@ Angnyuwero 3anOnHeHng CNCTeMbl 6e3 B03- AywHbIx npo6oknepnoANyecKn... RAOT ...np
 EcnN4epe3o4eHbKOpOTkoe BpeMg 4BeT CBexe NAKOCTN CTan KOPN4HeBbIM,3Ha4NT, Bbl 3annnn nOAAenky, B KOTOPyiOnpON3BOAnTenb "3a6bII"AO6aBNTb NHrn6NTOpbI KOpPO3NN. Kpome Toro,OAHNM N3 nPN3HaKOBNOAAenknBneTcape3koe nonHoe o6ecuBeunBaHneKnAKOCTN.Kpacntenb oxnaxAaIo山ennAkocTn xopowero ka4eCTBa O4eHb CTOeK N CO BpeMeHeM TOJbKO TeMHeeT. O6ecuBe4NBaeTCA KNAKOCTb, NOAkPaweHHag 6ebebon cnHbkon. Takon "aHTucpN3" Heo6xoANMO6bICTpee 3aMeHNTb.
 
 ### 3AMEHA PAANATOPA CNCTEMbI HXNAKAEHON
-`kia_rio_en_2cd99885` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5ad1c718107913ce918155bcca0f9c7568f1fd1e76f1ce668deca776283dea1a.webp)
 
 Pannatop noexnT3aMeHenpn 06HapyXeHNN BHeMTeuNOxnaxnaIoWennAKOCTN.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_2216dd31` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHNMaNTepaANaTOPTOnbkO HaXOnOAHOMABNratene.
 
@@ -5701,7 +5351,6 @@ N8 7...N CHNMNTe KOxyX. CHVOAO09T08
 1SRS 9 CHNMNTe KOxyX. No
 
 ### 11...N CHNMTe KOxyx.
-`kia_rio_en_67dd1ff7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/77bf6a4254497706c3bfc2133ee79582a3802bb457607a736093175ecea215ce.webp)
 
@@ -5744,7 +5393,6 @@ N8 7...N CHNMNTe KOxyX. CHVOAO09T08
 ![](images/a2255d2d89231aae967119f7e8e3e7a0789596e34bc5b11ecc0dde490d393fae.webp)
 
 ### NPNMEYAHNE
-`kia_rio_en_acb7dffb` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/7cb9a78c284e517ad397e7b5ad78463fbb6a84939eebab91d848ab8705cccdf0.webp)
 
@@ -5785,14 +5433,12 @@ Tak pacnonokeHbl wTyuepa kpenneHng WnaHrOB xAkAnnn KOpo6kN nepenay Ha pannarope 
 35.ycTaHoBntepannaTop NoctanbHbleAeTann CNCTeMbI xnAAeHngABnratnn B noPAke,O6paTHOMCHATNIO X NNTO086TO
 
 ### NOJE3HbIN COBET
-`kia_rio_en_478957a2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ans Toro 4TO6bI B AanbHenweM NCKNIOYNTbB03MOXHOCTb NOATeKaHNg oxnaxAaomenKNAKOCTn,nepeA yCTaHOBkON 山naHrOBCMaxb-Tenatpy6kn paAnatopa TOHKNM CJoeM CANN-KOHOBOrO repMeTnka.
 
 36. 3anente oxnaxAaiomyio KNAKOCTb W yAannte N3 CNCTeMbI Hxnaxnernn BO3AYWHble npo6kn (CM. "3aMeHa oxnaxAaiomen KNAKOCTN", C. 92).
 
 ### CHATNENYCTAHOBKA xense! 3JEKTPOBEHTNNATOPARN PAANATOPACNCTEMbI OXJAKAEHNSABNrATENS BCEOPECKOKYXOM
-`kia_rio_en_e5cf254a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/3d71f1da099eadf4f371edd0be350a4fdd4b25f2e294184d8104caa86f9359d2.webp)
 
@@ -5827,14 +5473,12 @@ Ans Toro 4TO6bI B AanbHenweM NCKNIOYNTbB03MOXHOCTb NOATeKaHNg oxnaxAaomenKNAKOCT
 7.CHNMNTe 3neKTpOBeHTTOpB c6ope KOXyXOM.
 
 ### NPNMEYAHNE
-`kia_rio_en_94de6acf` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aMeHa 3nektpoABnraTens BeHtnngTopa paAWatopa CNCTEMbI YXNaKAenns onncaHa B pa3A 10 "3nekTpoo6opyAoBaHne (CM. "CHATNe ycTaHOBka 3nekTpOABnrateng BEHTNNATOPa pa ANaTopa CHCTeMbl xnaxAeHns,c.230)
 
 福 8. ycTaHOBNTeAeTanN B nOPaAke, o6paT-HOM CHTNIO.
 
 ### 3AMEHA BOASHOrO HACOCA
-`kia_rio_en_22d7af0c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/09e7d900b3734e95e29ee968993402ac132c491b7d2c0c85c193fd36e3caa272.webp)
 
@@ -5865,14 +5509,12 @@ BaM noTpe6yIoTCe: KNIONN"Ha 10", HE 12 福
 8.NyCTaHOBneHHyIOnOA HNM npoKnaAky.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_c433ac77` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ynnOTHNTenbHyIonpOKnaAKyKOpnyca BOAgHOrO HacocanPNKaXAOMCHTNNO6R3aTenIbHO 3aMeHANTe HOBON He3ABNCNMO OTeeCOCTORHN.
 
 9. yCTaHOBNTe BOAAHON Hacoc B nOPaAke, O6paTHOMCHATNIO. 10. ycTaHOBuTe OCTanbHbIepaHee CHATbIe AeTann BO6paTHOMnopsAke. 11.3anente oxnaxnaiouyioXnAkocTb (CM. "3aMeHa OxnaxAaiomen nKoctW,c.92).
 
 ### 3AMEHA TEPMOCTATA
-`kia_rio_en_968eeb78` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/25847edd5f7132b9d944f31fd21514b1b18b1adaf87906d591f390ac3e70ea3d.webp)
 
@@ -5904,7 +5546,6 @@ BaM noTpe6yioTcs:naccaTnxn,TopuoBag ronOBka Ha “12",ynb, TOK.
 7 N N3BneKNTe TepMOCTaTN36nOkaUNANHAPOB.
 
 ### NPNMEYAHNE
-`kia_rio_en_c7b71dee` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/7fa36a502c10ec7cbb1cd7eff17c6d809caabb556614e825aa075a2126574ca5.webp)
 Tak BbIrngANT CHATbIN CaBTOMO6nn TePMOCTaT.O6paTNTe BHNMaHNe HaeroMapkupOBky, 4To6bInpN 3aMeHenpno6pectn TakoNxe
@@ -5914,7 +5555,6 @@ Tak BbIrngANT CHATbIN CaBTOMO6nn TePMOCTaT.O6paTNTe BHNMaHNe HaeroMapkupOBky, 4T
 8.An npoBepkn OnyCTNTe TepMOCTaT B eMKOCTb C BOAON, nOAOr peTon AO 78-80C. octeneHHO HarpeBagBOAy,CeNTe3aeMnepatypon Ha4ana OTKPbITNA KnanaHa TepMOCTaTa.
 
 ### NPNMEYAHNE
-`kia_rio_en_64126203` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TepMOCTaT CNCTeMbI xnaxAerns C4NTaeTCA NcNpaBHbIMnpncneAyIownxycnobngx:
 一 TeMnepaTypa Hayana OTKPbITNS KnanaHa （82±1,5）℃;
@@ -5926,14 +5566,12 @@ TepMOCTaT CNCTeMbI xnaxAerns C4NTaeTCA NcNpaBHbIMnpncneAyIownxycnobngx:
 10.ycTaHOBNTeKOpnyC TepMOCTaTa O4NCTNB npnbanoyHble nOBepXHOCTN kopnyca N 6nOKaLNANHAPOB OT OKNCNOB N3arp93HeHnn. 11.3anente oxnaxAaiomyio KNAKOCTb N yAannte N3 CNCTeMbI xnaxAeHng BAyHble npo6kn (CM. 3aMeHa oxnaxAaomen KNAKOCTN", C. 92).
 
 ### CHATNE NYCTAHOBKA PACWNPNTENbHOrO BA4KA
-`kia_rio_en_162a8bb0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/36b56b2e0237399f35b53ad90da7c7d5511655b5c7ed2807b8640073c01ae678.webp)
 
 PacunpuTenbHbli 6ayokcncTeMbl oxnaxAeHNgyCTaHOBNeH cnpaba Ha kOxyxeənekTPOBEHTNnATOPa. Npn nonomke 6a40knoAneNT3aMeHeBc6opeC KOxyxoM3nektpoBEHTNNATOPa (CM. CHATNe N yCTaHOBka 3neKTPOBeHTNnATOpa pannatopa CNCTeMbI xnaxAeHnn ABNraTeng B c6ope cKOxyxOM,c.96).
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_3a4c428f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B COCTaBCNCTeMbI nNTAHNBXOATATANN y3nblCneAyIowNxCNCTeM:
 
@@ -5956,7 +5594,6 @@ OCHOBHbIM AaT4NKOM AA o6ecne4eHna OnTNManbHOro npouecca cropaHng BReTCynPaBngIoW
 ![](images/7bd4139dd5787fd15b1d3bffba6d0c0cd9d98a7536b37256506ebeb482ad09a5.webp)
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_1a06b703` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Oco6eHHOCTbCNCTeMblynpaBneHNABnraTeneMabTOMO6nng KIARio COCTONTBHaNN4NN,noMnMOynpaBnaIO山erOAaTynka,BTOpOro, ANarHOCTN4eCKOrO AaT4Nka KOHLEHTpaunn KNCnopoAa, yCTaHOBNeHHOrO Ha BbIXOAeN3 kaTasnTNyeckOroHeNTpann3aTopa CNCTEMbI Bblnycka OTpa6OTaBWNxra3OB. no COCTaByra3OB, npowenwnx4epe3Hentpann3aTop, OHOnpeAenseT 3ΦΦeKTnBHoCTbpa60- Tbl CNCTeMbI ynpaBneHNgABnraTeneM. Ecnn 6noKynpaBneHngABnratenem nO NHcopMaLNN,nonyyeHHOn OT ANarHOCTN4eCKOrOAaT4NKa KOHLeHTPaUNN KNcnopoAa, Φnkcnpyet npeBblweHne HOPMbI TOKCN4HOCTN OTpa60- TaBWNX ra30B,He yCTpaHgeMoeTapupOBkOn CNCTeMbIynpaBneHNg, TO OH BKNoyaeT B KOM6NHauNNnpn6opoBCnrHann3aTop HencnpaBHOCTN ABnraTeng N 3aHOCNT B naMATb KOA OwnOknAsnocneAyIoWenAnarHocTukN.
 
@@ -5981,7 +5618,6 @@ KnanaH3akpblBaeTcg nOAAeNCTBNeMnpyNHbl,yCTaHOBNeHHO NOA HNM. noAAaBneHNeM TOnnnB
 TonnnbonPobogbl CNCTeMbl NNTAHNAnpeAcTaBngIOTco6onTpy6kn, CoeAnHROmneMexAyco6oipa3nu4Hble3neMeHTbICnCTeMbl.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_939e48e7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 WnaHrn CNCTeMbl NNTAHNA N3rOTOBNeHbl no oco6on TeXHONOrnn N3 Macno6eH30CTONKNX MaTepnanOB.TpNMeHeHne WnaHroB,OTnnyaIoBNXCR no KOHCTPyKUNN OT peKOMeHAOBAHHbIX, MOXeTnPNBECTN KOTKa3yCNCTeMbINNTaHN9, a HeKOTopbIXcny4asXKnoxapy.
 
@@ -6008,7 +5644,6 @@ opcyHknnpukpenneHblKpamneN3KOTopon K HNM nonaetcA TONANBO, a CBONMN PacnbInNTnAM
 PNc. 5.21. 中opcyHka CNCTeMbI BnpbICka TOnnBa: \~ - BepXHee ynnOTHnTenbHoeKOnbuo;2 一 WTekepHbIe BblBOAbl 06MOTKN 3neKTpoMarHnTa; 3 - HNKHee ynnOTHNTenbHoe KOnbuO
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_236b6ad5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/c059b961818bce70e2730fb9cca1c48643b1212546395284f664b22367ab2a27.webp)
 
@@ -6033,7 +5668,6 @@ bnok ynpaBneHngABnraTenem, o6pa6oTaB CurHanbl OT AaT4NKOB, onpeAenget Heo6x0- AN
 BKIoyeHne AONOnHNTenbHbIXarperaTOB Bbl3bIBaeT ybennyeHne Harpy3kNABuraTeng, conpoBoXAaeMoeCHNkeHNeM 4aCTOTblBpaBAnnA KONeH4aTOrOBana B pexnMexOnocTOro xona N N3MeHeHNeMpa3pexeHNg BO BnyCKHON Tpy6e, 4TO Takke KOMneHCNpyeTCA 6nokOMynpaBneng CnOMowbioperynatopa.
 
 ### NPOBEPKAAABNEHNA BCNCTEMENNTAHNЯ ABNrATENA
-`kia_rio_en_221a5192` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/2be90680d077f420c21fbc1e27b81358832a151b733dfa3f50f35b14c700d40e.webp)
 
@@ -6058,12 +5692,10 @@ Npobepka AaBneHng TONnNBa B CNCTeMe NNTAHN9BO3MOKHa TOnbkOnpNHanyNN MaHOMeTpa CO
 1.Bknonte 3axnraHneNnpncnywavTecb: B Te4eHNeHeCKOnIbKNXCeKyHABbIAOnXHbIyCnblwaTb 3ByKpa6oTbl3neKTpo6eH30Hacoca. EcnNero He cnbl山Ho,npobepbTe3nektpn4eCKyIOLenbnNTaHNg HacOca.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_100e7f2a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NMeniTe B BNAy, 4TO 3nekTpo6eH30Hacoc HeBKNIO4aeTCA, ecNNB CNCTeMe TonnnBOnOgaunecTb AaBneHne. NHbIMN CnOBaMN, ecnn BblnpeABapnTenbHO ye BKNIOyAnN 3axnraHne NnbiTanncb nyCTNTb ABNraTenb, TO NcnpaBHblN3nekTpo6eH3oHacoc ykeAOnxeH 6bICo3AatbAaBneHne B CNCTeMe, NO3TOMy OTCYTCTBNe3Bykapa6oTbl3neKTpo6eH30Hacoca B AAHHOMcnyyaeHeBngTcA HeNCnPaBHOCTbIO.
 
 ### 2.CHN3bTe AaBneHne B CNCTeMe NNTaHNn
-`kia_rio_en_af6cb6a9` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 (CM. CHNxeHNeAaBneHng B CNCTeMe nnTaHABnraTeng>,C.101).
 
@@ -6093,7 +5725,6 @@ Bo3MOXHbI cneAyioLNe npnynHbI CHNKeHABnTnna:
 5. OCTaHOBNTe ABNraTenb N CHN3bTe AaBneHMeBCNCTeMeNNTAHNA (CM."CHNKeHNenaBneHABCNCTeMenaHNABraTen9,C.101). 6. OTCOeANHNTe MaHOMeTP OTTONnNBOnOnaio山ero Tpy6onpoboAaNWTyuepaTonnnBHonpamnbl. 7.oAcoennHte TonnnBononaon tpy6onpOBOAKWTyuepyTOnnNBHOni paMnbl.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_2376527d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TonnnBO B CNCTeMe HTAHNg HAXOANCA nOA BbICOKNM AaBneHNeM, nO3TOMy 3anpewaetcg ocna6ntb COeANHeHNn TOnnNBOnPOBOAOB BO BpeMspa6oTbIABnrateng NN cpa3ynocne ero OCTAHOBkn.Ans npOBeAeHngpa6OT nOpeMOHTy CNCTeMbl NNTAHNA Ha TOnbKO 4TO OCTaHOBJEHHOM ABNraTene Heo6xoANMO npeABapnTeJbHOCHN3NTbAaBNeHNeBCNCTeMeNNTaHNg.
 
@@ -6105,7 +5736,6 @@ TonnnBO B CNCTeMe HTAHNg HAXOANCA nOA BbICOKNM AaBneHNeM, nO3TOMy 3anpewaetcg oc
 4. NoncoeANHNTe nPOBon K KneMMeMNHyC"akkyMyngTopHon 6aapen,nycTnTeABNratenb NAanTe eMynopa6oTaTbAO NONHOn BbIpa6oTKN TOnnNBa N3 TONNNBHON pamnbl. Nocne3ToroABnraTenb3arnoXHeT. 5. BbIKnIOunTe 3axuraHne. TenepbMOXHO pa3beANHATbTOnnNBOnPOBOAbI.
 
 ### 3AMEHANNbTPYIOLErO ЗNEMEHTA BO3AYWHOrO ΦNnbTPA
-`kia_rio_en_3dd7612c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/048cd25ed2bda1d18b46d8241c7cabf20e2e58e9dbcc04c557020e63e5706ed9.webp)
 
@@ -6118,7 +5748,6 @@ BCOOTBeTCTBNNCpeKOMeHAauNeN3aBOnaN3rOTOBNTEnBO3AyWHbIN bTp3aMeHIOT 4epe345000 KM
 1. OTOXMNTe ABa Φukcatopa BepxHen KpbI山KN BO3Ay山HOrONnbTpa.
 
 ### NPNMEYAHNE
-`kia_rio_en_80d4b230` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/f33d233174ac47e4b5f49fe785ba3a247a4c12519f39628ce86aae84e0ea1546.webp)
 Tak pacnonoxehbl ΦuKcaTopbl KPbIWKN B03- Ay山Horo nnbtpa.
@@ -6132,7 +5761,6 @@ Tak pacnonoxehbl ΦuKcaTopbl KPbIWKN B03- Ay山Horo nnbtpa.
 福 4.yCTaHOBNTe B KopnyCHOBblunbTpyio山nn 3nemeHT.
 
 ### NPNMEYAHNE
-`kia_rio_en_cc08640f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/86f50ab374545119481ac68d9cea5d38adb0b37bc183ab3156331718b7209e8f.webp)
 
@@ -6144,7 +5772,6 @@ opmapyouero neea, ynBaeMoro HaaBTOMO6NNb,COOTBeTCTByeTOpMe kopnyca BO3AyWHOrO pu
 5.ycTaHOBuTe KpbI山Ky BO3Ay山HOrO ubTpa3awenkHntenpyknHHbleukcaTopbl.
 
 ### CHATNENYCTAHOBKA BO3AYWHOrO NnbTPA
-`kia_rio_en_26feefcb` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/4758a3d2c65aadfa4b2a6089d4774c0df622c83c282daa2d4c2956a5241bba28.webp)
 
@@ -6210,7 +5837,6 @@ BaM nOTpe6yIOTCA: Topuoban ronOBka 《Ha10",nacCaTnKN,OepKN C NSOCKNM NKpeCToo6p
 19.CHNMnte rnyWNTenb山yMaBnyckacaBTOMoOnng. 0 20. ycTaHOBNTeAeTanN B nocnenobatenbHOCTN,O6paTHON CHATNIO.
 
 ### CHATNE N yCTAHOBKA TNnNBHOrOMOAYNn
-`kia_rio_en_8d7b441f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/1f01c03cbcbdb38d1fadd462de7de074d6d3b952e07307fbe5c15613b2e34a33.webp)
 
@@ -6278,14 +5904,12 @@ npnKNMHOrOKonbua TONNNBHOrOMOAynA... 3
 104 Kia Rio lll kia-rio.net
 
 ### NPNMEYAHNE
-`kia_rio_en_76e2b513` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Npn N3BneyeHNN TONNNBHOrO MOAYnn 6yAbte BHNMaTenbHbl: HenorHntepbluarAaTuNkayka3aTengypoBHATonnNBa,NHauenOka3aHng yka3ateBKOM6NHaLNNnpN6opOB6yAyT HeBepHbIMN.
 
 15.YcTaHOBNTe TOnBHbl MOAyb  BCe CHATbIeAeTanN BnopaAke, O6paTHOMCHATNIO.
 
 ### PEMOHT TONNNBHOrO BAYNN
-`kia_rio_en_cb6df665` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/56f731543d83a77893cb63c7105636ad096d551934a395f63a669360cd8e57ab.webp)
 
@@ -6357,7 +5981,6 @@ Cn 122 14...N CHNMTe KpbI山KyTOnBHOrOMOAyg
 17.N3BneknTeN3KOpnycaTonnNBHorOMOynNAbTP TOHKON OUNCTKN TONnNBa.
 
 ### PEMOHT TONNNBHOrO BAYNN
-`kia_rio_en_159300c1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/dad70e97b38f46f233d54e2a415d36c77dec8cab5acedff4dc4506ad2f3d5351.webp)
 
@@ -6413,7 +6036,6 @@ S 20. OTCOeANHNTe HaKOHe4HNK npOBOna OT BbIBOAaKopnycaunbTpa.
 32. Nocne yCTaHOBKN TOnnNBHOrO MOAyng nyCTNTe ABNraTenb N npobepbte repMeTn4- HOCTb NOAcOeANHeHng K MOAynIO TONnNBONPOBOAOB.
 
 ### 3AMEHA TONNNBHOrO BAKA
-`kia_rio_en_c7b21c57` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Npuo6HapyxeHnn yreukn TONnNBaN36aka pekOMeHAyeTcg 3aMeHNTb 6ak, Tak kak ero nanka Tpe6yeT onpeneneHHon KBannonkaLNN NOnHNTnn N cneLnanbHoro OcHaweHNA. NoMNMO3ToroHeoGxoAnMaTmaTenbHag npOMbIBka Wnponapka 6aka,nHa4e BO3M0- KeHB3pbIBnapOB TOnnnBa npnnavke. Ecnn CeTkaTOnNBHOrO HaCoca4aCTO3aCOpaeTCЯ, CHNMNTe MnpOMoNte 6ak.
 
@@ -6484,7 +6106,6 @@ BaM nOTPe6yIOTCA:KIO4N "Ha 10n,Ha 14", naccatnxn C TOHKNMN ry6kamn, OTBepTKaCnOC
 18. Ocna6bte 3aTAXKy XOMyTa KPennehngwnaHraKTOnnuBHOMy6aky..
 
 ### 3AMEHA TONNNBHOrO BAKA
-`kia_rio_en_eadf559c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5f6e203305c05b02fe62ad3e60561ba1e827ac2bd9ef835b716cd8244ede6105.webp)
 
@@ -6507,7 +6128,6 @@ BaM nOTPe6yIOTCA:KIO4N "Ha 10n,Ha 14", naccatnxn C TOHKNMN ry6kamn, OTBepTKaCnOC
 5.ycTaHOBNTe HanNBHyIO Tpy6y NTONnNBHbln6ak BnOpAAKe,O6paTHOMCHATNIO. 福 6.3anente B6aKTOnnNBO,nyCTnTeABNraTenb N npobepbte repMeTN4HOCTbBCeXCOeANHEHNN TONnNBONPOBOAOB.
 
 ### CHATNE N YCTAHOBKA TONNNBHONPAMNbI
-`kia_rio_en_961db8df` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/0f39420858dde78d01e94ebc1bdf9cf79e49a133eba4d296f9685669eef85b56.webp)
 
@@ -6541,7 +6161,6 @@ BaMnoTpe6yIoTca:KIOY Ha 10",TopLobagronobka "Ha 12, OTBePTKa cnnoCKNMJe3BNeM.
 8.. OTCOeANHNTe Tpy6onpOBOAOT TOnNBHOnpamnbl
 
 ### NPNMEYAHNE
-`kia_rio_en_66b12cc4` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 山TyuepTpy6onpoBoAa ynJOTHeHPe3NHOBbIMKObLOM,3aMeHAiTe KOnbLO p kaxAOM OT-coeAnHeHnNTpy6onpoBoAa.
 
@@ -6552,7 +6171,6 @@ BaMnoTpe6yIoTca:KIOY Ha 10",TopLobagronobka "Ha 12, OTBePTKa cnnoCKNMJe3BNeM.
 ![](images/15c8b30fc4f16407000b98470366c922807821da261039f93e8347d962c78dfd.webp)
 
 ### CHATNE,NPOBEPKA NYCTAHOBKAΦOPCYHOK
-`kia_rio_en_3a67bed2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/0d83673b6c6cb1869c6be8e26e6c19549028a98fe27d39270334273ec68aa477.webp)
 
@@ -6567,7 +6185,6 @@ EcnN nPN CHTuN TOnnNBHOn paMnbI KakaR-nn60 ΦopcyHka OCTAHeTCABOTBePCTNN rONOBKN
 11.YcTaHOBNTeTOnnNBHyIOpaMny B o6patHOM nopaAke, 3aMeHNB ynnOTHNTenbHble KOnbuaΦopcyHOK.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_26d59a09` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHNMNTe TonnNBHyiO paMny (CM."CHg-TNe NyCTaHOBkaTOnNBHONpaMnbl",C. 107).
 
@@ -6580,7 +6197,6 @@ EcnN nPN CHTuN TOnnNBHOn paMnbI KakaR-nn60 ΦopcyHka OCTAHeTCABOTBePCTNN rONOBKN
 S 6. Npobepbte COnPOTNBneHNe 06MOTKN ΦopcyHkn.ConpoTuBneHne NcnpaBHon ΦopCyHKNAONXHO 6bITb0,013-0,016OM. Ecnn COnPOTNBneHne 06MOTKN He COOTBETCTBYeT HOpMe,3aMeHneOpcyHky,aKa OHa HepeMOHTOnPNrOAHa.
 
 ### NPNMEYAHNE
-`kia_rio_en_ed516600` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpoBepkyopcyHok noopMe pacnbInaemoro cakena Tonnnba N Ha repMeTN4HOCTb npoboANTe Ha cneLNann3npoBaHHbIx CTAHLNAX TeXHN4eckoro o6cnyxNBaHng,TaK Kak Takag npoBEpkaHeNOCpeACTBeHHOHa aBTOMo6nneo4eHb noxapoonacHa.
 
@@ -6589,7 +6205,6 @@ NpoBepkyopcyHok noopMe pacnbInaemoro cakena Tonnnba N Ha repMeTN4HOCTb npoboANTe
 7.NOAAeHbTe OTBepTKON NCHNMNTe ynnOt HNTenbHbieKOnbua.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_08e6870d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aMeHnte ynnOTHNTenbHble konbua ΦopcyHOk HE3ABNCNMOOTNXCOCTOSHNA.
 
@@ -6606,7 +6221,6 @@ O 9=
 8. ycTaHOBNTe HOBble ynnOTHNTEnbHble Konbua, CMa3aBNXMOTOPHbIMMaCJIOM.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_1cbfa96c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 He AOnyckaeTCA npOMbIBka ΦopcyHOK OKyHaHNeMBMOIO山NN COCTaB,TaKKaKBЗTOMCy4ae 6yAeT nOBpexAeHa Nx ənektpnyeckaa 4acTb.
 
@@ -6615,7 +6229,6 @@ He AOnyckaeTCA npOMbIBka ΦopcyHOK OKyHaHNeMBMOIO山NN COCTaB,TaKKaKBЗTOMCy4ae 
 10. ycTaHOBNTe ΦopcyHKn B TONnNBHYIO pamny,a 3aTeM, nOACOeANHNB Tpy6onpoboAbI KpaMne,nyCTuTeABNraTenb N npOBepbTe repMeTN4HOCTbCOeANHeHNgTpy6onpOBOna ynJOTHeHNiOpCyHOK.
 
 ### CHATNENYCTAHOBKA APOCCENbHOrOy3NA
-`kia_rio_en_d0a1459f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/371cfb123b007ed08f7717861195b26b9124bd4c71a3bacb78f7eaea4067f89d.webp)
 
@@ -6626,7 +6239,6 @@ NOMNMO 3TOr0 onncaHHble HeAOCTaTKN B pa6oTe ABNraTeng MOryT 6bITb Bbl3BaHbl 3ap3
 BaMnoTpe6yIoTcg:KnIOy “Ha 8",Kon山eCTnrpaHHnKN “Ha 3》,“Ha 4>, TopuOBag ronOBka "Ha 12",naccaTnxn, OTBePTKN C nOCKNMNKpeCTOO6pa3HbIMe3BNeM.
 
 ### IPNMEYAHNE
-`kia_rio_en_9fde98c6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpN N3BeCTHOM HaBbIke oxnaAaioiyio XKNAKOCTb MOXKHO He CNNBaTb.IpNrOTOBbTe nOAxOAAWNE nopa3mepynpo6kn, KOTOPbIMN3arnyWNTe WnaHrn cpa3y nocne NX OTCOeANHEHNA. notepa oxnaxAaiomen KNAKOCTN npn TaKOM cnoco6e 6yAeT He3HauNTenbHon. R
 
@@ -6665,7 +6277,6 @@ NpN N3BeCTHOM HaBbIke oxnaAaioiyio XKNAKOCTb MOXKHO He CNNBaTb.IpNrOTOBbTe nOAxO
 10. ...N OTCOeANHNTe WnaHr OT naTpy6ka ApoccenbHoroy3na.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_d579b49e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpN OTCOeANHEHNN WnaHroB CNCTeMbI oxaxAeHNA OT naTpy6koBApoccesIbHoroy3na HayHeTBbITeKaTb oxnaxAaIomaAKnAKoctb.Cpa3y nocne OTCOEANHEHNS WnaHrob 3arnywnte NX 3apaHee 3arOTOBneHHbIMNnpo6KaMN.
 
@@ -6680,7 +6291,6 @@ NpN OTCOeANHEHNN WnaHroB CNCTeMbI oxaxAeHNA OT naTpy6koBApoccesIbHoroy3na HayHeT
 13.CHNMnTenpoknankyApoccenbHoroy3na.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_191fb9d3` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/180c69cd76363855fd9831eef3bf78fbf10cafe82fdffea1b2ebb050bbe92d5b.webp)
 3aMeHnte npoknaAky He3aBNCNMO OTee CoCRARHNS.
@@ -6688,7 +6298,6 @@ NpN OTCOeANHEHNN WnaHroB CNCTeMbI oxaxAeHNA OT naTpy6koBApoccesIbHoroy3na HayHeT
 14. ycTaHOBNTeApoccenbHbliy3en N BCe CHATbIeAeTanNB NOPAAke,OOpaTHOMCHATNIO.
 
 ### BaM nOTpe6yIOTCA: TopuoBas ronobka “Ha12",yAnNHNTenb,BOpOTOK.
-`kia_rio_en_21786de9` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTCoeANHNTe nPOBOAOTKNeMMbl "MNHyC"akKyMynTopHon6arapen.
 
@@ -6710,7 +6319,6 @@ NpN OTCOeANHEHNN WnaHroB CNCTeMbI oxaxAeHNA OT naTpy6koBApoccesIbHoroy3na HayHeT
 6. ycTaHOBNTe nenanb ynpabneHng ApoccenbHo3acnoHko BCeAeTann B nOPaAke, 06paTHOMCHATNIO.
 
 ### CHATNE NYCTAHOBKA AACOPEEPACNCTEMbI YNABnNBAHNg NAPOB TONNNBA
-`kia_rio_en_f79e18a1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/025351e549fc334e0c4e1e9a0381c14def5b55a2d080193ff3509d00b05ad790.webp)
 
@@ -6729,7 +6337,6 @@ Ancop6epyCTaHOBneH Ha TONNBHOM6ake. BaM noTpe6yIoTCA: Topuobas ronObka WnN KlO4 
 ![](images/7674fb67e6630cebe38e6cd1babcc9afca31af2d5bea4798895d190ad5fd9951.webp)
 
 ### 4.OTOXMNTeΦnKcaTopb...
-`kia_rio_en_1c04c852` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/f2b482621163de1b1e5a1661d9d8fa515830eaa7df4f12323fa81d650629b469.webp)
 
@@ -6748,7 +6355,6 @@ Ancop6epyCTaHOBneH Ha TONNBHOM6ake. BaM noTpe6yIoTCA: Topuobas ronObka WnN KlO4 
 8 NCHnMuTeancop6ep.9.YcTaHOBNTeaAcop6epN BceCHTbIeAeTaBnOCneAOBaTenbHOCTN,O6paTHONCHATIO
 
 ### CNCTEMA BblnyCKA OTPABOTABWNX TA30B
-`kia_rio_en_e7f288bb` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OCOBEHHOCTN KOHCTPYKLNN
 
@@ -6786,25 +6392,21 @@ An3a山NTbI OT HarpeBaABnraTengNy3nOB B MOTOPHOM OTCeke KaTKOnneKtOp 3akpbIT CTa
 CuCTeMa BbInyCka OTpa6oTaBWNX ra3OBHe Tpe6yeT cneunanbHoro o6cnyXNBaHna. AoCTaTO4HO nepnonnyeckn nPOBepaTb HanexHOCTb3aTAXKNpe3b6oBbIXCOeANHeHnuenOCTb nOAyWeK nOABeCKN.
 
 ### NONE3HbINCOBET
-`kia_rio_en_f7c12806` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nepnoANueckn npoBepaite cncTeMy Bblnycka OTpa6OTaB山NXra3OB.TIpNnOBbI山eHHOMypOBHe wyMa OT CNCTeMblBbInyCKa npobepbte ee repMeTN4HOCTb.Ang3TOrOnyCTNTeABNraTenb N OCMOTPNTe BCIO CNCTeMy. NpOBeAnTe pykon HaA MECTaMN BO3MOXHON yTe4KN,He kacagcb y3nOB, 山 Bbl cpa3y omyTuteyTeukyra3oB.pN Heo6xOANMOCTN 3aMeHNTe npopxaBeBwne N nporopeBwney3nbl.
 
 ### NPEAYNPEXAEHNA
-`kia_rio_en_f16f0b81` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NepeA peMOHTOM CNCTeMbl BbInyCka oTpa6oTaBWNXra3OBAaNTe en OCTbITb,TaKKaKBO BpeMpa6oTbIABNraTen OHa HarpeBaeTcsAOBblCOKON TeMnepaTypbl.
 OTpa6oTaBWne ra3bl AAOBNTbI, OTpaBneHNe NMN npONCxOANTHe3aMeTHO, nO3TOMy nepeA nyCKOMABNraTeng B rapaxe06g3aTenbHo OTKpONTeBOpOTa!
 
 ### 3AMEHANOAYWEKNOABECKN CNCTEMbI BblnyCKA OTPABOTABWNXTA3OB
-`kia_rio_en_ad25256c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/892df8686ed8e03fdc662d1d84e8741faec2853c5a5beb150c97ff5c899715e6.webp)
 
 Pe3NHOBbIe noAyWKN nOABeCKNAeTanen CNCTeMbI BbInycka OTpa6oTaBWNX ra30B 3aMeHAIOTBTOMCJy4ae， ecnNn3-3aNxnoBpexAeHNA nn4pe3mepHon AeΦopmaunn 3- eMeHTbI CNCTeMbl Ha4NHaIOTCTyyaTb, conpnkacagcbC Ky3OBOMNnApyrnMNarperaTaMn aBTOMO6nnA.
 
 ### BaMnoTpe6yeTcg OTBePTKa CNOCKNM ne3BNeM.
-`kia_rio_en_6820d769` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.YcTaHOBNTe aBTOMO6NNb Ha CMOTpOByIO KaHaByWnNNOAbeMHNK.
 
@@ -6817,7 +6419,6 @@ Pe3NHOBbIe noAyWKN nOABeCKNAeTanen CNCTeMbI BbInycka OTpa6oTaBWNX ra30B 3aMeHAIO
 3 a3aTeM C KpOHWTeNHa nonepeynHbl nepeAHennonBeckN aBToMo6nng.
 
 ### NONE3HN COBET
-`kia_rio_en_c47cdbb7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnN3aMeHAeTenOBpeXAeHHyIOnOAy山ky,ANs o6neryenna CHATNS pa3pexbte ee HOKOM AO OTBePCTNN.
 
@@ -6828,7 +6429,6 @@ EcnN3aMeHAeTenOBpeXAeHHyIOnOAy山ky,ANs o6neryenna CHATNS pa3pexbte ee HOKOM AO 
 5. AHanOrn4HO 3aMeHNTe OCTanbHble noAyWKNnOABeCKN CNCTeMbl BblnyckaoTpa6oTaBWNxra3OB. SES 福
 
 ### CHATNENYCTAHOBKA KATKONEKTOPA Le
-`kia_rio_en_16c3af12` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 2ACICHIEDEAI XNIUSATUBARTO
 
@@ -6845,7 +6445,6 @@ BaM noTpe6yIOTCA: KI4N “Ha 12,Ha 19","Ha 22",TopuoBag ronoBka “Ha 14", OTBep
 1.OTcoeANHNte npOBOA OT KNeMMbI "MNHyC"akkyMyngTopHoi6arapen. V BbIBepHnte ynpaBngioWnn AaT4NK KOHLeHTpaunN KncnopoAa (cM.“3aMeHaAaT4NKOB CNCTeMbl ynpaBneHNgABnraTeneM", c.215)
 
 ### NONE3HbINCOBET
-`kia_rio_en_86cda3af` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NepeA OTBOPa4NBaHNeM raek kPennenng ΦnaHua CnnbcOHa K ΦnaHuy kaTKOnneKtOpa OUNCTNTe MeTannyeckon WeTKOn OTrPA3N N pxaBynHbl BbICTynaiowne pe3b6oBble KOHubl WnnnekNo6pa6oTanTe nxnerkonpoHnkaioWen CMa3KON.
 
@@ -6858,7 +6457,6 @@ NepeA OTBOPa4NBaHNeM raek kPennenng ΦnaHua CnnbcOHa K ΦnaHuy kaTKOnneKtOpa OUN
 4. ...N OTCOEANHNTe CNnbOOH OTKaTKONneKTopa.
 
 ### NPNMEYAHNE
-`kia_rio_en_949d57c6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AaneeAns HarnsAHOCtn HekOTopbleonepaunn nOka3aHbIHa CHATOMCNnOBOMarperate. ILABT
 
@@ -6898,7 +6496,6 @@ AaneeAns HarnsAHOCtn HekOTopbleonepaunn nOka3aHbIHa CHATOMCNnOBOMarperate. ILABT
 13. ...WCHNMNTe HNXHnNTepMOЗKpaH. 14.YcTaHOBTeKaTKOnneKTop N BCe CH9- TbleAeTann BnopgAke, 06paTHOMCHATNIO.
 
 ### CHATNENYCTAHOBKA CNNbOHA
-`kia_rio_en_d5761352` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/6fe164b58b93261ae87e4409f33be5c5ae5d12cc2c91c748343d20cc36e6fe7f.webp)
 
@@ -6907,7 +6504,6 @@ BaM noTpe6yIOTCA: Topuobas ronobkaHa 19",OTBepTkaCnnocknMe3BneM.
 1.OTBepHNTe ABerankn wnnnek kpenneHN9 KaTkonnekTopaKcnbOHy.
 
 ### NONE3HbIN COBET
-`kia_rio_en_33e573f3` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nepeA OTBOPa4NBAHNeM raek KPennenng ΦnaHua CNnbCOHa K ΦnaHuy KaTKOnneKTOpa O4NCTNTe MeTAnnNyeCKON WeTKON OTrPA3N N PKaB4NHbI BbICTynaiowne pe3b6obble KOHUbI WnnnekNo6pa6oTanTenxnerkonpoHnkaIowen CMa3KON.
 
@@ -6930,7 +6526,6 @@ nepeA OTBOPa4NBAHNeM raek KPennenng ΦnaHua CNnbCOHa K ΦnaHuy KaTKOnneKTOpa O4N
 7.V3BNeKNTeCNnbOHN3MOTopHOroOTCeka. 8. ycTaHOBNTe CubΦOH B nocnenoBatenbHOCTN,O6paTHON CHATIO.
 
 ### CHATNENYCTAHOBKA AONONHNTENbHOrO KATANNTNYECKOrO HENTPANN3ATOPA NAONONHNTENbHOrO FiVWNTens
-`kia_rio_en_9bf91bf1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/312d5d570d88e52b3d3be87f594596b48f587184d2cbc78e4ca084e033845467.webp)
 2.OTBeAuTenpNeMHyIOTpy6y OTcunbΦoHa
@@ -6968,7 +6563,6 @@ G
 福 9.ycTaHOBNTe BCe CHTbIeAeTaN BnOpAAKe,O6paTHOMCHATNIO.
 
 ### CHATNENYCTAHOBKA OCHOBHOrOrYWNTENA
-`kia_rio_en_fa26d869` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a3b9243a6a769135c1fb2780d6892b243cdd9c4745bbbc77624fb7202b7b1530.webp)
 
@@ -6985,7 +6579,6 @@ BaM noTpe6yIoTCA: Topuobas ronobka “Ha 19",OTBepTka C NJIOCKNMNe3BNeM.
 ![](images/a9df1d768f6866fe0ebd46493679cdbaa3b411d83edd5f2af6409b3ab9d17141.webp)
 
 ### 3.CHNMNte co山nunek npoknanky.
-`kia_rio_en_aa7ce72d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 4. NOAAeB OTBEpTKOn OTCOeANHNTe nePeAHIOIOnOAy山Ky OT KpOHWTeViHaOCHOBHOrO rnywnTens.
 
@@ -7000,7 +6593,6 @@ BaM noTpe6yIoTCA: Topuobas ronobka “Ha 19",OTBepTka C NJIOCKNMNe3BNeM.
 6. CHNMNTe OCHOBHON rnywnTenb C aBTOmoonng.
 
 ### NPNME4AHNE
-`kia_rio_en_f0fc9624` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BceOnepaLNN nO CHTNIO NyCTaHOBKeTepMO3KpaHOBnPOBOANte Ha aBTOMo6wne COCTbIB山en CNcTeMON BbInycKaOTpa6oTaB山NXra3OB.
 
@@ -7023,7 +6615,6 @@ BceOnepaLNN nO CHTNIO NyCTaHOBKeTepMO3KpaHOBnPOBOANte Ha aBTOMo6wne COCTbIB山en
 6.oBepHnTe TepMoakpaH BOKpyr rnywnTeng N CHNMNTe ero. 7.ycTaHOBNTeAeTann B nopgAke,o6paHOMCHATNIO. HOOdNO QOYTO VOAU
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_ab6ee8e9` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaaBTOMo6unn KIARio,OCHa山eHHbIe MexaHN4eckon KOpo6kon nepenay,yctaHaBnnBaIOT cyxoe OAHOANCkOBOe CuenneHneCLeHTpanbHonANacparMeHHonnpyxnHon.
 
@@ -7064,7 +6655,6 @@ BncxoAHoenonoxeHne nenanb Bo3BpauaeTcAnpykNHOn.
 TnaBHbIn LNNNHAP COeANHeH WnaHrom C 6a4KOM,yCTaHOBneHHbIMHaraBHOMTOMO3- HOM LNnNHApe (6a40k wmmnn AA 06onx rnaBHbIX LNnNHAPOB) B ruAPonPubOne BblKIOYeHNCLnneHNg NCNOnb3yeCATOPMO3- Ha9\*nAKocTb.IpeAycMOTpeHaperynnpOBka NpBOAa BbInoeHngCuennng BəkcnnyaTaunn.
 
 ### NOJE3HbIECOBETbl
-`kia_rio_en_7f3ce62f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ang Toro yTo6bI cLenneHne cnynnO Aonro n 6e30TKa3HO, He AepxNTe NOCTORHHO Hory Ha neAann cLennenns. 3ty BPeAHyiO npnBbIuky 3a4acTyIO npno6petaioT BO Bpems G6yuenna BOXAEHNIO BaBTO山kOnaXN36Og3HNHeycneTb BbIKNIOYNTb cuenneHne BO BPeMa OCTaHOBKN aBTOMO6nng.foMNMo6bICTpoN yCTanOCTNHOrn,HaxAswncs BCeBpeMA Ha neAann, cueneHNeOKa3bIBaeTCAXOTA6bIHeMHOrO, HO BblKaTO, N BeAOMbInANCKnpN3TOMnPo6yKCOBblBaeT NN3HaWNBaeTCs. KpoMeToro, HeCMOTPA Ha TO, 4TO BbIKNMHON nOAWNnHNK PaCCNTaH Hapa6oTyB pexnMe NOCTORHHOrO BPAWeHNs, Aaxe npn cnerka HaxaTon neAann OH HaxoANTCA nOA nOBbIweHHoN Harpy3koN,N ero pecypCCHNKaeTCA. no ətonxe npNuNHe He peKOMeHAyeTCA noAonryAepxatb cuenneHne B BbIKnIoyeHHoMOCTOsHnN(HanpnMep,Bno6- kax).Ecnn He APnAercs cpa3yTporaTbcg C MeCta,nyuwe nepeBectn pblyar kopo6kn nepeAay B HeNTpanbHoe nOnOxeHne N OTNYCTNTb neAanb.
 
@@ -7074,7 +6664,6 @@ BO3MOKHbIEHENCNPABHOCTN CLENNEHNA, NXNPN4NHbINCNOCObbIyCTPAHEHNA
 Npo6ykcoBky CAennennn MOKHO onpeAenntb no TaxOMeTpy. Ecnn BO BpeMg ABNKEHNA npn pe3KOM HaxaTNn Ha neAanb akcenepatopa o6opOTbIpe3KOpaCTyT,anoTOM HeMHoro CHNKAIOTCANaBTOMOGNnb HaYNHAeTPa3rOHATbCA, TOCUenNeHNe HaAO OTPeMOHTNPOBaTb.
 
 ### NPOBEPKA NPEryNNPOBKA XOAANEAANN NPNBOAA BbIKNIOYEHnA CUENSEHNg
-`kia_rio_en_e267ae6d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/437d0a55ce65095792bbe9750298a029c2ba8bea31e39f058700ed6124d537eb.webp)
 
@@ -7091,7 +6680,6 @@ NpOBepbTe CBo6oAHbln XOAnenann. Ang 3TOro HaXMNTe Ha nenanb AO PARBREUN OLyTNMOr
 N3MepbTe BbIcoTynenann,paccTogHe H OT nnomaAkn nenann AO nona AONKHO COCTaBTb（140±5）MM.EcnN CBo6oAHblXOA neAann6onb山e,BO3MOxHO He4eTkoe BbIKnIo4eHNe cuennenng (cuenneHne “BeneT"). Apn 4pe3MepHOMaOM CBOGOAHOMXOne NnN ero NONHOMOTCyTCTBNNCLeNNEHNeHeNONHOCTbIO BKIIoyaeTcg (CuenneHnenpo6ykcoBbIBaeT).
 
 ### NPNMEYAHNE
-`kia_rio_en_faee0dfd` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ang HARnAAHOCTN onepaunn no perynupobke neAann npnboAa cuennenng nOka3aHblHa CHATon neAann.
 
@@ -7106,7 +6694,6 @@ EcnN CBooAHbIn xOA nenann OTnnyaeTcg OTHOMNHabHOrO3Ha4eHN9...
 p3TMAneHNBC Hnbn3a3opMexnynenanblocuennehngNpe3b6onnat4Nka Hayana xona nenann cuenneHng, HOMNHanbHbl/3a3OpAOnXeHCOCTaBn9Tb0,5-1,0MM. Ecnn nonoxeHne nenann cuenneHng oTperynnpobaTb He yAaeTca,npokayaiiternAponpNBOAnnN3aMeHNTeCLenneHne.
 
 ### NPOKAYKA TNAPONPNBOAA BIKHYEHNS CLENNNA
-`kia_rio_en_661d6ab8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/e87e8ba76bf252ad8340a12aab008b7395dde5aaffbe49d9f76c428d1c399869.webp)
 
@@ -7129,14 +6716,12 @@ BaM noTpe6yoTcA: TOPMO3Ha9 KNAKOCTb, WnaHr AA npokaykn, KJIOY "Ha 10",eMKOCTbAn 
 4. 3aBepHnTe KnanaH N nonpocute OTnyCTNTb nenanb cuenneHng. 5. NOBTOpNTe onepaunn 3N4 HeCKObKO pa3AO Hayana Bbixona N3 wnaHra XNAKOCTN 6e3ny3blpbKOBBO3Ayxa.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_cb39e059` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bo BpeMs npokaykn rnAPonpnBoAa nepnoAn4eCKNnpOBepaiTe ypOBeHb KnAKOCTN B6auke rnaBHoro TOPM03Horo LNnNHApa. He AonyCkaitenaAeHnA ypOBHsKnAKOCtN B 6auke HNe25MM OT erOAHa.CBOeBpeMeHHOAOnNBaNTeXNAKoCTb,NHauenpN ocy山eHnNAHa 6a4kaB CNCTeMynOnaAeTBO3AyxNnpOkaykynpnAeTCA NOBTOPATbCHOBa.
 
 6. 3aBepHnTe KnanaH, HaneHbTe3awNTHbln KOnnayOKNnPn HeOXOANMOCTNAOneTeKNAKOCTbB6a4OKrnaBHOrOTOpMO3HOrOLNNHApa.
 
 ### CHATNENYCTAHOBKA CUENNEHN
-`kia_rio_en_da63008d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a5f3f71edc0638660d58f418c1a87031c4aea59a13ccdc8defb41a28025c123c.webp)
 
@@ -7151,7 +6736,6 @@ nneHne 6ykcyeT);
 nneHne “BeAeT").
 
 ### NONE3HbIN COBET
-`kia_rio_en_431869ff` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pN BbIxOAe N3 CTPOR cuenneHng pekomeHAyeM3aMeHTbOAHOBPeMHHO BCe ero3nemehTbl（BeAOMbIn N HAKNMHOnANCKN,NOAWNNHNK BbIKnIOYeHNg CLenneHng),TaK kakpa6oTa no 3aMeHe CAennennn TpyAOeMkas, ay HenOBpexAeHHbIx 3neMeHTOBCLenneHNapecypc ye CHNXeH,nO3TOMy, ecnn NXyCTaHOBNTb BHOBb, MOxeT nOTpe6oBaTbCA nOBTOPHOe CHRThe/yCTaHOBka CuenneHns nocne CpaBHNTebHOHe6onbworonpo6era. 5
 
@@ -7166,7 +6750,6 @@ pN BbIxOAe N3 CTPOR cuenneHng pekomeHAyeM3aMeHTbOAHOBPeMHHO BCe ero3nemehTbl（B
 3. ynepxnBaa MaxOBNK MOHTAKHON nonaTkon (unn6onbwon OTBepTkon) OTnPOBOpayNBaHng, BbIBepHNTe WecTb 6OnTOB kPennenng KOxyxa HaXNMHOrOANCka cueNeHNgKMaXOBNky. 3aTa\*ky 6onToBocna6ngite paBHoMepHo:kaAbn 60nT no ABa 06opoTaKnioya, nepexongoT6ontak6onty noAnametpy. 9815 PTOn
 
 ### NPNMEYAHNE
-`kia_rio_en_24f18379` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/be6e1071ef887b68ec2889db926d92c4111c90b9869dc1eddb5608c50d1f7984.webp)
 Takpacnonokehbi 6ontbl kpennehng HakNMHOrOANcka KMaxOBNKy.
@@ -7179,7 +6762,6 @@ Takpacnonokehbi 6ontbl kpennehng HakNMHOrOANcka KMaxOBNKy.
 5.OcMOTpnte BeAoMbI ANck CuenneHng. TpewNHbI HaAeTanAX BeAOMorOANCka HeAOnyckaIOTCA.
 
 ### NPNMEYAHNE
-`kia_rio_en_ecb452a6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BeAoMbln ANCK COCTONT N3AByX KOJbueBbIX ΦpNKuNOHHbIX HaKnanok, KOTOpbieykpenseHbl HacTynnueAnckayepe3AeMncepHblenpyxNHbI.EcnN HaKnaAkN BeAoMorOANcka 3aMacneHbl,TO NPNunHon MOKeT 6bITb N3HOC CabHNKa nepBN4Horo Bana Kopo6kn nepeAay.Bo3MoxHO,Tpe6yeTcg ero3aMeHa.
 
@@ -7231,7 +6813,6 @@ HOCa(N3HoC HeOnkeH6bITb6onee0,8MM). B nPOTNBHOM cnyuae 3aMeHNTeHaXNMHOM ANCKBc6o
 ![](images/add8f225d7998a08a055968aff3ae96aca5a764bd87930ef346c7100f91b5d22.webp)
 
 ### NPNMEYAHNE
-`kia_rio_en_3af5f5cd` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 18.pN MOHTaxe cuenneHng CHa4ana cnoMOWblO OnpaBKN yCTaHOBNTe BeAOMblANCK..
 
@@ -7240,7 +6821,6 @@ HOCa(N3HoC HeOnkeH6bITb6onee0,8MM). B nPOTNBHOM cnyuae 3aMeHNTeHaXNMHOM ANCKBc6o
 19. ...a 3aTeM KOXyx HaXNMHOrO ANCka, COBMeCTNBHaHeCeHHbIeNepeACHATNeMMeTKN, WBBepHNTe 6ontbl kpennehng KOxyxa K MaxOBNKy.
 
 ### NPNMEYAHNE
-`kia_rio_en_9159a68b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ycTaHaBnNBaNTe BeAOMbln ANCK TaKNM o6pa30M,4To6bI BbICTynaIowag 4aCTb CTynNubIANCka 6bIna HanpaBneHa B CTopoHy ANacparMeHHon npyknHbI okyxa cLenneHng.
 
@@ -7249,7 +6829,6 @@ ycTaHaBnNBaNTe BeAOMbln ANCK TaKNM o6pa30M,4To6bI BbICTynaIowag 4aCTb CTynNubIAN
 20.BBopauuBaiTe 6ontbl paBHOMepHo, no OAHOMy o6opoTyKnoya KaxAbl, BnocnenoBaTenbHOCTN,nOKa3aHHO Ha ΦOTO. 21.CHNMNTeonpaBkyNyCTaHOBNTeKOpo6- Kynepenay (CM.“CHATNe N yCTaHOBka MexaHN4eckonkopo6knnepeAa4",c. 127). 22. NpoBepbte pa6oTy cuenneHng (CM. poBepka n perynupobka xona nenann npBOAaBbIknIOYeHNA CLennHN", c.116).
 
 ### NPNMEYAHNE
-`kia_rio_en_9c23c9e1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pN 3aMeHe NOAWNNHNKA BbIKJIOYeHNA cueAnerun no npnunHe WyManpoBepbte COCTORHNenenecTKOB HAKNMHOn npyxNHbIBeAymero ANCka. npn CNNbHOM N3HOCe KOHLOB neneCTKOB BMeCTaX KOHTAKTa CNOAWNNHNKOM 3aMeHNTe BeAy山Ni ANCK B C6Ope (CM.CHTNe ycTaHoBka cuenneHng",c.117).
 
@@ -7273,7 +6852,6 @@ NOAWNNHNK A BbIKIOYeHNg cuennenng B c6opeCMyTOn yCTaHOBneH Ha HanpabngO 山en BT
 6.pNHeo6xOANMOCTN CHNMNTerp93e3a山NTHbIN 4exon.
 
 ### NPNME4AHNE
-`kia_rio_en_0364338e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHuMnte kopo6ky nepenay(cm. "CHATNe N yCTaHOBka MexaHN4eckoiKopo6kn nepeAa4,c.127).
 
@@ -7288,7 +6866,6 @@ NOBpexAeHHbIn rpA3e3aWnTHbIn YexonMOKHo 3aMeHNTb,He CHNMag BNnKy BbIKNIO4eHN CLe
 Anətoro noAAehbte nanbueM kpan rpa3e3aWNTHOrO yexna...
 
 ### 3AMEHANOAWNNHNKANBNNKN BIKSIOYHNA CLNNNA
-`kia_rio_en_57f753a6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/9efe0a61528ec18f794c818ebb6e678b333c8ec7e2b0240525a69e7dd006b7ca.webp)
 
@@ -7313,7 +6890,6 @@ TpN3HaKOMHeo6xonNMOCTN 3aMeHbl noAWNNHNKa BbIKIOYeHNg cAennennn BRTR nOBbIWeHHbI
 10. ycTaHOBNTe BNnKy BbIKnIOYeHNg cuenneHN,rpe3aWNTHbInYexOnNHOBbnnOAWNNHNK B c6ope C MyCTOn (y6eANBwncb B nnaBHOCTN6eCWyMHOCTN ero BpameHng N OTCYTCTBNN NIOΦTOB) B nopaAke, 06paTHOM CHATNIO.
 
 ### 3AMEHATJIABHOrOLNNNHAPA NPNBOAA BbIKIIOYEHNA CLENNEHNA NT 清 vOn9
-`kia_rio_en_36940cb1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/9793ec90b5d72fd3989e2abb23e7954a9369009cc18c3d06136bb8b484af3577.webp)
 
@@ -7348,7 +6924,6 @@ BaM noTpe6yIoTCA: KIOYN "Ha 10","Ha 12",naccanxn,eocb...
 TOPMO3HyIO KNAKOCTb B 3apaHee nOArOTO-BNeHHyIOeMKOCTb.
 
 ### NPNMEYAHNE
-`kia_rio_en_7e2061c2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/96496599e350d818d693221bcd5b5f3ffb9d4f3557a91f4ca46bf3beaa209a54.webp)
 NPNMEYAHNE
@@ -7378,7 +6953,6 @@ CoeANHeHNeTpy6oK C raBHbIM LNNNHAPOM cuennennn ynOTHeHO pe3NHOBbIM KOnbLOM. 3aMe
 11.OTcoeANHnte WnaHr OTWTyueparnabHOrO UnnnHApa npuBoAa BbIKAIOYEHNA cuenHNA NCHNMNTe ero. 15
 
 ### NPNMEYAHNE
-`kia_rio_en_bb8302e5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ans HArnAAHOCTN HeKOTOpble AanbHenwne onepaunnnoka3aHbl Ha CHATbIXy3nax.
 
@@ -7411,7 +6985,6 @@ OOY 14.CHNMNTe wan6y. 1A
 19.ycTaHoBNTeAeTanNBnopgAke,o6paTHOM CHATNIO, N yAannte BO3AyX N3 rnAponpnbona BbIKnloyeHngCLenneHng(CM.pokaukarnAponpBona BblknloyeHn cuenneHng",c.116).
 
 ### 3AMEHAPABO4ErO LNNNHAPA NPNBOAA BbIKNIOYEHNA CUENNEHNA
-`kia_rio_en_777dd866` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/2e19156d428fe6aae9a28cbe769451a88db236b48cceb0f5faa15e6187383eb9.webp)
 
@@ -7430,7 +7003,6 @@ An3ameHbi pa6oyero LnnnHApa cuenneHNA BbinonHnteCneAyIoWneonepaLnn.
 2.N OTBeANte eroOT pa6o4ero unnnHApa. 3arnywnte OTBePCTNe WTyuepa, 4T06bl HeBbITekanaTOpMO3HagXNAKOCTb.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_f4b54eac` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 He HaxNMaNte Ha neAanb BbIKIOYHNn cueNenus.
 
@@ -7456,7 +7028,6 @@ He HaxNMaNte Ha neAanb BbIKIOYHNn cueNenus.
 6.ynanNTe BO3Ayx N3 CNCTeMbl (CM.poka4ka runponpubona BbIKNIONeHNg cuenneHN9,C.116).
 
 ### 3AMEHAWNAHrANTPYBKN THAPONPNBOAA BbIKIIOYEHNg CUENnEHNA
-`kia_rio_en_d6e56074` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/45d9943337f1a821f9423514523a60f99a95e88ca58092f7c6316fcb555baba4.webp)
 
@@ -7483,7 +7054,6 @@ BaM noTpe6yioTcs:naccaTnKN, cneLnanbHbin Koy“Ha 11"A raek Tpy60- NPOBOAOb.
 9 NOTCOeANHNTeTpy6ky. HNU 0e 10.YcTaHOBNTeeTanN B noPaAke, o6paTHOMCHATnIO,NyAanNTeBO3AyXN3rNApOnPNBOna (CM. "pokauka rnAponpuBona Bblknio 4eHn cuenneHng,C.116)
 
 ### CHATNEN YCTAHOBKANEAANN CLENNEHNA
-`kia_rio_en_4acc472c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/2001dfd21a432b5a12ea3a41d2f6dd016595118e92fa2c54047d376ae0b17d37.webp)
 6.BbIBeAnTe HaKOHe4HuK WnaHra N3 KpOHWTeNHa.
@@ -7529,7 +7099,6 @@ Nenanb CLennennn CHNMaIOT AA 3aMeHbl nnacTMaccOBbIX BTyJOK nenann OCN npn noABNE
 8.OTBepHNte 4eTblpe ranknkpenneHngneAann cuenneHng KKY30By...
 
 ### 9..NcHnMnte neAanb cuenneHng.
-`kia_rio_en_a32c5eb7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/73251fae919bc188aeeaf5f26415dab20cf16bc0e1b82333b427b7b821e2e02c.webp)
 12. yAepknBagKnlo4OM OTnpobopaynBaHNA, OTBEPHNTe ravky KPennenng AaT4nka KOHuaxonanenanncuenneHnA...
@@ -7548,7 +7117,6 @@ Nenanb CLennennn CHNMaIOT AA 3aMeHbl nnacTMaccOBbIX BTyJOK nenann OCN npn noABNE
 15.OTBepHterakykpenneHugocu nenanNCLenneHng,yAepxNBagOcb OT npobopaYNBaHNg BTOPbIMKNIOYOM. e MOHTSOOO ,ex
 
 ### 13...CHNMNTeAaT4NK.
-`kia_rio_en_f85e4339` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/ee818dc9dad5365e8b103da14f6d58074ca0f29dda84b35a08019880a3b22ecd.webp)
 
@@ -7575,14 +7143,12 @@ NMNUO MUEAOUOMHHNTOUGHAM
 20.Co6epnte nenanb cuenneHng BnopaAke,o6paTHOM pa36opke. OCbNBTyKN CMaKbTeTOHKNM CNOeMKOHCNCTeHTHOCMa3KN. pN HeO6XOANMOCTN yCTaHOBNTe HOByIO B03- BpaTHyiOnpyKNHy NeAanncuennenng. 21.ycTaHOBte nenanb BblKnIOeHng CueNHnB NOPAAke,OpaTHOMCHTUIO.
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_81d2b54f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/42a562bc005a1d0d679d67185c0a1dd135e37cc936d58051db1fba569c69e252.webp)
 
 HaaBTOMO6unNKIARioBBapNaHTHOMNCNONHEHNN yCTAHABNNBaIOT nATNCTyneH4aTyIOMeXaHNyeCKyIO kopo6ky nepenay MOA. M5CF1. VHNK
 
 ### BO3MOKHbIEHENCNPABHOCTNMEXAHN4ECKONKOPOEKNNEPEAA4, NXNPNYNHbI N CNOCOBbIyCTPAHEHNЯ
-`kia_rio_en_9b0ee3fa` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/6df9c7d50945c7fdd03115635ca201ee5908bf4ff51d7b5eaaf6d241fe3e8246.webp)
 
@@ -7595,7 +7161,6 @@ TnaBHag nepeAaya BblnonHeHa BBNAenapbl LWJNHApn4ecKNXWeCTepeH, nonoOpaHHbIX no W
 AnΦΦepeHunanKOHnyeckni,4eTblpexcaTennNTHbIn. TepMeTN4HOCTbCOeANHeHNABHyTPeHHNX WapHupOB NPNBOAOB nepeAHnx KOnecC山ecTepHaMnAnepeHunanao6ecne4NBaeTcAcanbHnkaMn.
 
 ### NPOBEPKAyPOBHЯ,AONNBKAN3AMEHAMACIABMEXAHNYECKON KOPO5KENEPEAAY
-`kia_rio_en_a831b9e6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/7903c7699759072777cfd3d587f746243ac93970837fd782426e6905d0e0af5b.webp)
 
@@ -7604,19 +7169,16 @@ TepvoAuyeckN,HO Hepeke OAHoropa3a3a 15 000 KM npo6era npoBepante ypoBeHb Macna B
 Aa4 HenpeAycMaTpNBaeT 3aMeHbl MacnaB TeyeHne BCero cpokacyx6blaBToMo6nng. OAHakONHOrnaHeo6xoANMOCTb3aMeHblMacna MOXeTBO3HNKHYTb, HanpnMep,npn nepexoneHa MaCnOApyronBa3kOCTn,npnpeMOHteKopo6knnepenayT.n.
 
 ### NONE3HbIN COBET
-`kia_rio_en_98504dc0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CnnBaTb Macno peKOMeHAyeTCA B TeyeHne 15 MNH nocne noe3AKn, noka OHO He OCTbINO No6nanaeTxopouen TekyyecTbIo.
 
 ### NPNMEYAHNE
-`kia_rio_en_abddb523` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BMexaHN4eckyio kopo6kynepeAay3annBante MaCno APIGL4SAE75W-85. 1
 
 BaM noTpe6yIoTcA: Topyobble rOnOBKN NNN KNIOYN “Ha14n，Ha 17",wnpu,06- THPOyHaR TKaHb.
 
 ### NPNMEYAHNE
-`kia_rio_en_ab9e5d7f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/442907ac252b9640c16f3ac53d4118fe3a37ccfa88ae560da61273b0b31f2fbd.webp)
 Npo6ka HanNBHOrO OTBepCtng HaXOANTCA BnepeAHen yactn Kopo6kN nepeAay.
@@ -7644,7 +7206,6 @@ PNC.6.4.npuBOAynpaBneHnA MexaHNueckon Kopo6Kon nepeAay: 1-pbl4arynpaBneHnaKopo6k
 6...3aTeMcneTeMacnoB3apaHeenoroTOBNeHHyIOeMKOCTb.
 
 ### NPNMEYAHNE
-`kia_rio_en_8b3324b7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/8701f1eeb6786d6d7d4e0b798d715bac7ddd3cdbe55e5d7ab0ee321ba8d86f16.webp)
 npo6ka ynnoTHeHa anIoMnHNeBon Wan6on.
@@ -7658,7 +7219,6 @@ Ecnn wan6a cunbHo o6xata, 0693aTebHO3aMeHNTeee. 2
 7.BBepHnte npo6ky. 8.3anete Macno B kopo6ky nepena4(cM. nn.1-4AaHHoronopa3nena)
 
 ### 3AMEHA CAJbHNKOB MEXAHN4ECKON KOPOBKN NEPEAAY
-`kia_rio_en_67a8ad83` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5ab42fe6e617b82982ff19e342d4bf31edc68cde1017871fd1f847b038f2b006.webp)
 
@@ -7671,7 +7231,6 @@ pn3HaKOM Heo6xoANMOCTN 3aMeHbl canbHNKOBKopo6kN nepenay BnAeTCATeybMaCna4epe3nx 
 3.Ang3aMeHblcanbHnka npuBona nepenHerOKONecaCHNMNTenpNBOAKOnecaCOCTOpOHbl 3aMeHgeMorocabHNka (CM.“CHaTNe N yCTaHOBKanpNBOqOB nepenHNx KOneC",C. 142).
 
 ### NPNMEYAHNE
-`kia_rio_en_7e24c899` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CanbHNKN nPNBOAOB nePeAHNX konec MOKHO 3aMeHNTb,He CHNMas Kopo6kynepenaycaBTOMOOnNs.
 
@@ -7684,7 +7243,6 @@ CanbHNKN nPNBOAOB nePeAHNX konec MOKHO 3aMeHNTb,He CHNMas Kopo6kynepenaycaBTOMOO
 5. CMaxbTe pa6o4yio KpOMKy canbHnka TpaHCMNCCNOHHbIM MacnOM N 3anpeccyute eroonpaBkon nonxoAg山eroAnaMeTpapa6oye KpOMKOn BHyTpbKOpO6Kn. 6.AHanOrn4HO3aMeHNTe BTOpONcanbHNK.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_21870b51` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/bdf84e8e305064ba01a55ecfdb74e0aa233fa0c71c5964a413646d6701fe06f0.webp)
 
@@ -7702,14 +7260,12 @@ yMOTOPHOrONTpaHCMNCCNOHHOrO Mace pa3Hbl 3anax. NMegonpeAeneHHbli HaBblk no3anaxy
 Puc.6.5.MexaHn3MnepeKnloyeHnsnepeAa4MexaHnuecKon Kopo6KnnepeAa4:1-TpocBbl6opanepeAau;2-pbl4ar Bbl6opa nepeAay;3 BbIKnIOyaTenb CBeTa 3aAHero xona;4- TpocnepeknioueHnanepeAay;5-pbl4arnepeksoyeHnA nepenay;6-npoTnBoBecpblyara nepeknoyeHnA nepenay SN 0 5
 
 ### NONE3HbN COBET
-`kia_rio_en_dc127685` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcTb ewe OANH CnoCO6 onpeAeneHng Tuna Macna. KanHNTe MaCnOBBOAy，HanNTyIO B COCYATOHKNM CnOeM(MOXHO Byky).TpaHcMncCNOHHoeMacnOpaCTeyeTcA nOBceNnoBepxHOCTN BOAbI B BNAE paAyKHon nneHkN,a OOpHoeMaco OCTAHeTCA B BNAe Kannn, noxoxen Ha3epHOye4eBNLbl.
 
 An 3aMeHbI canbHnka nepBn4Horo Bana Heo6xoANMO pa306paTb Kopo6ky nepenay. AaHHag npoueAypa Tpe6yer onpeAeneHHbIx HaBbIKOB, nO3TOMy npn Heo6xOANMOCTN 3aMeHbI canbHnka nepBn4HoroBanao6pamanTeCbHa Cneunann3NpoBaHHbln cepBnC.
 
 ### CHATNENYCTAHOBKA MEXAHNYECKON KOPOBKN NEPEAAY
-`kia_rio_en_b593bc8f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/de866f41639bfb48e6d61df2450338163a35847daed8cc46da94a397042786e2.webp)
 
@@ -7722,7 +7278,6 @@ OCHOBHbIe HeNCnpaBHOCTN, AyCTpaHeBNA KOTOPbIXHeO6XOANMO CHNMaTbMeXaHN4eckyiokopo
 Kpome Toro, Kopo6ky nepenay CHNMaIOT q3aMeHbIcuenneHng,MaxOBNka N3anHero cabHNkaKOneH4aTOrOBanaABNraTeng.
 
 ### nONE3HbIE COBETbI
-`kia_rio_en_a222fa55` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pa6oTano CHATNIO NyCTaHOBKeKOpo6KN nepeAay BeCbMa TpyAOeMka, nO3TOMy npeABapnTenbHOo6R3aTenbHOy6eANTecbBTOM,4TO ee HeNCNPaBHOCTN He Bbl3BaHbl HHbIMNNPNYNHa
 
@@ -7783,7 +7338,6 @@ BaM noTpe6yIoTcA: TOpuObble rOnOBKN "Ha 10",“Ha 12","Ha 14","Ha 17,MOHTaKHasno
 17..NHakoHe4HnKTpocacocnpblyaranePekslloyeHng nepenay.
 
 ### nONE3HbIE COBETbI
-`kia_rio_en_63eeec4d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/aa814672d8c5f97e9d657dbd8b79b7f7b44808949844cd4dff8906b61138382f.webp)
 18. N3BnekNTe WNNHT kPennenng HakOHe4HNkaTpOCaN3OTBepCTN9OCNpbI4araBbl6opanepenay... ICITON 9 N60
@@ -7847,7 +7401,6 @@ BaM noTpe6yIoTcA: TOpuObble rOnOBKN "Ha 10",“Ha 12","Ha 14","Ha 17,MOHTaKHasno
 35. BbIBepHNTeABa 6onTa BepxHero kpeneHngkopo6knnepenay.
 
 ### NPNMEYAHNE
-`kia_rio_en_ae79cff8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 WnaHrn CNCTeMbI xAXAHnsAnrATns AA HAPNAAHOCTN CHATbI.
 
@@ -7866,14 +7419,12 @@ LblBenomorOANckacuenneHng... 9
 40...N akkypaTHo CHNMNTe Kopo6ky nepeAa4CaBTOMO6Nng.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_d133ecad` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pN CHaTuNKopo6kn nepeAay He onnpaite kOHeunepBn4Horo Bana oNenecTknAnaΦparMeHHoinpyxnHbl,4To6bl HeAecopMNpoBaTb NX.
 
 41.ycTaHoBuTe Kopo6ky nepenay, BCe AeTan N y3blBnopaAke,o6paTHoMCHATHIO.
 
 ### NONE3HbIECOBETbl
-`kia_rio_en_91a86d92` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NepeA yCTaHOBKON Kopo6kn nepeAay pekoMeHAyeM CMa3aTb Wnnnbi nepBn4Horo Bana TOHKNM cnoeM TyronnaBkon KOHCNCTeHTHON CMa3KN.
 NpoBepbTe C nomowbio cneunanbhon onpabKN, KaKOTUeHTPNPOBaH BeAOMbIANCK cuenneHNg (CM.CHTne N yCTaHOBKa cuenseH,C.117).
@@ -7886,7 +7437,6 @@ NpoBepbTe C nomowbio cneunanbhon onpabKN, KaKOTUeHTPNPOBaH BeAOMbIANCK cuenneHNg
 2.CHNMNTe 6nok ynpaBneHngABnrateneM B c6ope C KPOHWTENHOM (CM.CHTne N yCTaHOBka MexaHN4eCkON Kopo6kn nepeAa4,c.127).
 
 ### 3AMEHATPOCOB YNPABNEHNA MEXAHN4ECKON KOPOBKON NEPEAAY
-`kia_rio_en_c3907877` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/bac46d937f45bb11b08aadf121555006ce97db7d54a489b8c2ad03759958a1c3.webp)
 
@@ -7936,7 +7486,6 @@ A CHNMNTe wan6y... N Fcnegen 00000
 ![](images/09be9ad3366ac9e0c761d70e04cd5f16c0db435c176997d8dacecd6d7a764b91.webp)
 
 ### 13.oAAeHbTeOTBepTkO..
-`kia_rio_en_258d9501` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/4ba0ea1a60efc2f8fd69e4095b80dc7ebf1e5493cc14d49dabac4d768c2e75d9.webp)
 14. ...NN3BeKnte WNNHT N3 OTBePCTNA nanbua pblyara nepeknoyehng nepenay C npaBONCTOpOHbl.
@@ -7978,7 +7527,6 @@ A CHNMNTe wan6y... N Fcnegen 00000
 24.ycTaHOBNTe TPOCbl ynpaBeHngMexaHN4eCKON KOpo6kon nepenay N BCe CHATbIe AeTann BNOPAAke,O6paTHOMCHATNIO.
 
 ### PErYNNPOBKA NPNBOAA YNPABNEHNMEXAHNYECKON KOPOSKONNEPEAAY
-`kia_rio_en_d31343ee` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpN He4eTKOM nepeknoyeHnn nepenay npuBOAynpaBneHngperynnpyetcgnepeABN\*eHneMperynnpobo4Hon CKO6bI HaKOHe4HNkaTpocanepeknioyeHnanepenay.
 
@@ -7989,7 +7537,6 @@ NpN He4eTKOM nepeknoyeHnn nepenay npuBOAynpaBneHngperynnpyetcgnepeABN\*eHneMpery
 2.NepeMecTuTeperynupoBo4HyIoCko6yOTHOCNTebHOHaKOHe4HNkaTpOcaBnepeAnOHanpaBneHnIO ABuKeHNg aBTOMOong, ecnn He4eTKOBKnloyaiocgl,InVnepeAayn,NaaAeCNHeyeTkOBKnIo4aIoTcAllnIVnepena4n. H 3.YCTaHOBNTeBCeCHATbIeAeTaN BnoPnAKe,O6paTHOMCHTNIO. HUO AONNAX sOyiOO
 
 ### CHATNENYCTAHOBKAKYJNCbIPbI4ArAVNPABNEHNAMEXAHN4ECKON KOPO5KONNEPEAAY
-`kia_rio_en_16470a82` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/867b366f40d167e1e789605ac4e8657169fdf9098c9eb3ae97c24409add2c6a7.webp)
 
@@ -8012,13 +7559,11 @@ BaMnoTpe6yIoTcg:KnIoy “Ha 12,nac-CaTNKN, OTBePTKNCnOCKNMN Kpecto06-pa3HbIMNe3B
 6. CHNMNTe Kynncy. 7.yctaHoBnte kynncy pbl4ara ynpaBneHng KOpo6kon nepenay N BCe CHATbIe AeTanN B noPaAke, O6PaTHOMCHATNIO.
 
 ### NOJE3HbIN COBET
-`kia_rio_en_3b2456d0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/aeb18ea9b476069a3fdab56cac162b1a524acc521bb3ff91681a17000f908d57.webp)
 Npn 3aTPyAHeHHOM nepeMeweHnn pblyara ynpaBneHnskopo6kon nepeAaynnn NIRBNHNN CkpnnanpnnepeknioyeHnnnepeAayMoxHo nonpo6oBaTb, He CHNMaR kyJncy C aBTOMO6Nng, CMa3aTbWapHNpPbI4araKOHCNCTeHTHON CMa3- Kon.Bo3MoxHo,nocne cMa3kn apHnpa AanbHenwas pa36opka Kynncbl He noTpe6yeTcs.
 
 ### ABTOMATN4ECKAЯ KOPOBKA NEPEAAY
-`kia_rio_en_4a5cba9b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OCOBEHHOCTN KOHCTPYKLNN
 
@@ -8043,7 +7588,6 @@ Tpn OTKJIIO4eHNNANCKOBbIXTOPMO3OBpa60- 4a9\*nkocTbnepectaeT nOnaBaTbCA BMyTy nOp
 Oco6eHHOCTbKOHCTPyKLNN MHOrOANCKOBON MyTbI3aKNIO4aeTCABTOM,4TOOHaHaXONTC9 B NOCTORHHOM BpaweHnn N nOA AeNCTBNeM LeHTpo6exHocnnbl,AecTByio山en Ha pa6oyylOKNAKOCTb,CO3AaeTCAAaBneHNe,OOpoe HeAaeT pa36nokupoBaTbcs MyTe.AononHnTebHO BMyTeyCTaHOBneHWapuKOBbINKnanaH. OHpacnonoxeHKak MOXHo6nnkekpaio OTLeHTpa MyTbI.TpN nOBbIweHnNAaBneHng pa6oyennnkocTn B KaMepeMHOrOqNCKOBOn MyTbI 山apNKOBbln KanaH 3akpbIBaeTCNBHOe OTBepCTne,anp CHNKeHNN AaBneHng B kaMepe 山apnkOBbin KnanaH nOAAeNCTBNeM LeHTpo6exHon CnnbI OTKPbIBaeT CINBHOe OTBepCTNe NMyΦTapa36noknpyercg. AM eoyn
 
 ### ABTOMATN4ECKAЯ KOPOBKA NEPEAAY
-`kia_rio_en_f01f06a7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bh
 立酒 纯 L
@@ -8058,7 +7602,6 @@ AnΦΦepeHunanaBTOMaTuyeckon Kopo6- KNnepenay no KOHCTPyKLNNnONHOCTbIOaHanornyeH
 A9 peMOHTa aBTOMaTN4eCKON kopo6kn nepenay Tpe6yIOTcA 60nbwon Ha6op cneLnanbHbIX NHCTPyMeHTOB N COOTBeTCTBYIOEag nOArOTOBka NCNOnHNTenA, nO3TOMy B AaHHOMpa3AenepaccMOTpeHbl TOnbKO CHRTNe NyCTaHOBKa KOpo6kn nepenay, 3aMeHa eeynnOTHeHnn, peMOHT npnBoAa. Bcnyuae HeO6XOANMOCTN BbInOnHNTe peMOHT KOpo6kn nepenay B cneunann3npoBaHHOM cepBnce.
 
 ### 3AMEHA PABOYENKNAKOCTN BABTOMATN4ECKONKOPOSKE NEPEAAy
-`kia_rio_en_e5e2b7a2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BaM nOTpe6yIOTCA: pa6oyag KnAkocTb A aBTOMaTNyeCKON Kopo6kn nepeAay, eMKOCTb C HaKOHe4HNKOM AA AONNBKN, HNCTaROOTnpOyHasTKaHb.
 
@@ -8068,7 +7611,6 @@ Tepnonnyeckn （HO HepexeoAHoropa3a3a15000 KMnpo6era)npobepanTeypobeHbpa-604enXn
 PNc.6.8.nnaHeTapHbIn peAyKTop cNcTeMblPaBNHbe:1-AnHHbI CaTennNT;2-BOAunO;3 1 ManaAconHeyHaRwecTepHA;4-6onb山aA ConHeyHaA wecTepHA;5 KOpOTKn caTennnT;6-KOpOHHag weCTepHЯ 3
 
 ### BaBTOMatuyeckylioKopo6kynepeAay3annBanTepa6oyyioXnAKOCTb DIAMOND ATFSP-III.
-`kia_rio_en_be4f495b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/b8796c4d8f7e88313049f3ba90f4d2699328f899a594b9b320350957d9b2557f.webp)
 PHC.6.9.CxeMapa6oTbIMHoroANcKOBOMycTbl:A-MHrOANCKOBaMyTaBKOeHa;b-MHrOANCKOBaMyTaBbKO4eHa;1-apnkoBbl KnanaH;2 - ynnOTHNTenbHoeKOnbuO;3 = nopweHb;4-ΦpNKuNOHHbIANCK;5-pnKuNOHHbIANCKC HaKnaKaMn;6-yopbc；7-ynaMybl;8-yopnpybl;9-oopHoeKObO10-B3Bpaanya
@@ -8109,7 +7651,6 @@ PHC.6.11.pBoA ynpaBneHnAaTomaTuuecko Kopo6kon nepeAau:1-pbiar nepeknoyeHnA nepeA
 1-2MNH BnOnoxeHNN“D",nOTOMnepeBeANTe cenektop Ha3-4c nocneAoBaTebHO B KaxAblNpexNMpa6OTblNyCTaHOBNTeBnono\*eHNe NABuratenb BO BPeMg npoBepkn AOnXeH pa6oTaTb.
 
 ### BaBTOMatuyeckylioKopo6kynepeAay3annBanTepa6oyyioXnAKOCTb DIAMOND ATFSP-III.
-`kia_rio_en_3a35a5a4` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/d11d69093926bf1d47bf2e41506e612697887805f86869de95c078784ea46a67.webp)
 12.BblHbte yka3arenb(uyn...
@@ -8124,12 +7665,10 @@ PHC.6.11.pBoA ynpaBneHnAaTomaTuuecko Kopo6kon nepeAau:1-pbiar nepeknoyeHnA nepeA
 15.1ocneAOnNBkNNAKOCTNO6R3aTenbHO e山epa3npobepbTeee ypOBeHb. Henb3gnpeBbl山aTbMaKCNManbHOAOnyCTNMbIypOBeHb, TaKKaK3TOMOXeTnpNBeCTNKBbIXOAyKOpO6- KNnepeAayn3cTpog.
 
 ### 3AMEHA CAIbHNKOB ABTOMATN4ECKONKOPOEKN NEPEAAY
-`kia_rio_en_16662042` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Aa opgnok 3ameHbl CanbHNKOBaBTOMaTN4eCKONKOpo6kn nepenay aHanornyeH 3aMeHe CabHNKOBMeXaHNyeCKON kopo6knnepenay (CM.3aMeHa canbHNKOBMexaHN4eCkON KOpo6kn nepenay,c. 126). HO
 
 ### NO几E3HbIECOBETbI
-`kia_rio_en_5d1c0c49` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pa6oTano CHTNION yCTaHOBKe Kopo6knnepeAay BeCbMa TpyAOeMka,no3TOMy npeABapnTenbHo o6s3aTenbHo y6eANTecb BTOM,4TO ee HeNCnpaBHOCTN HeyCTpaHNMbI 6e3 CHATN(HeAOCTaToyHbiypoBeHb pa6oyen XNAKOCTN, AeΦeKTbl npnBoAa, ocna6neHne KPennenng KOpo6kn nnp.).
 
@@ -8185,7 +7724,6 @@ H 12.CHNMnte 3arnyukynokaBkapTepe rNApOTpaHcΦopMaTopa. QNn oart E0 DnoON
 18. OTcOeANHNTe KONOAKN xryTa npoboAOB,pacnonoxeHHbIecBepxypaAOMCMacnoN3MepNTenbHbIM山ynOM.
 
 ### NO几E3HbIECOBETbI
-`kia_rio_en_c5b67ea5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a341430b704c32913d0a2a6a0c465374abb8b25b6b5a75ba2c4fd393d68d37cc.webp)
 16...ABNHbTe xOMyTnOnaHr..
@@ -8239,7 +7777,6 @@ H 12.CHNMnte 3arnyukynokaBkapTepe rNApOTpaHcΦopMaTopa. QNn oart E0 DnoON
 29...NCHNMNTeKpOH山TeH3aAHen onopbl noABeckncnnoBoroarperata.
 
 ### NPNMEYAHNE
-`kia_rio_en_7ea2ab95` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KpOHwTeNH 3aAHen OnOPbI nOABeckNCnOBoro arperata peKOMeHAyeTCR CHNMATbAA nonyHeHngnyywerOAOcTyna K3neMeHTaMKpenneBNA Kopo6knnepeAay.
 
@@ -8272,13 +7809,11 @@ WTeNHy HaKopo6ke nepenay.
 38...NABa CHN3y.39. CABNHbTeKopo6kynepenay Ha3anak-KypaTHO CHNMNTe Kopo6ky nepenayCabTO-Mo6nng. 1 BTAKIRN40.ycTaHoBTeKopo6kynepenay Bcene-Tan,y3nblB nOPaAke, 06PaTHOMCHATNIO.41.3aneiTepa6o4yio\*nAKocTbBAKN (CM.3aMeHa pa6oyeni \*NAKOCTn B aBTOMaTNye-ckoi kopo6ke nepena4,c.134).
 
 ### 3AMEHA TPOCA YNPABNEHNЯ ABTOMATN4ECKON KOPOEKON NEPEAAY
-`kia_rio_en_b9efca74` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/95f5b6c983090cd7adb0696791e630628a9006e3e5e2230e785c38163db7ce0b.webp)
 3.OTBepHnTeraiky kpenneHna HakOHe4HNka Tpoca ynpaBneHng Kopo6kon nepenay K pblyarynepeknouatensAnana3oHoBnepenay Ha 6noke ynpaBneHnskopo6ku nepenay.
 
 ### BaM noTpe6yIOTCA: KIOyHa 10",naccaTNKN. 3
-`kia_rio_en_8ac58967` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHNMNTeaKkyMyngTopHyIo 6aTapelO(CM. "CH9Tne n yCTaHOBka aKKyMyngTopHon 6aTapen>,c.201).
 
@@ -8314,7 +7849,6 @@ WTeNHy HaKopo6ke nepenay.
 10.yctaHOBNTeTpoc ynpaBneHN9 aBTOMaTu4eCkonKopo6kon nepenay N BCe CHATbIe AeTanNBnOpAAKe,O6paTHOMCHATNIO
 
 ### BaM noTpe6yIOTCA: Topuobas ronobka NNN KIoy"Ha 12",nnockory6ubl,- kaCnnocknMne3BneM,Mapkep.
-`kia_rio_en_5c214276` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTcOeANHNTe nPOBOAOTKNeMMbI "MNHyC"akkyMyngTopHon6arapen. 2. CHNMNTe o6nNuOBky THHNA NON (CM. CHATNe NyCTaHOBKa O6nNLOBkNTOHHengnona,c.260).
 
@@ -8376,12 +7910,10 @@ WTeNHy HaKopo6ke nepenay.
 20. ycTaHOBNTe Kysncy cenektopa ynpaBneHngKopo6konnepenay N BCeCHaTbIeAeTanNBnOPAAke,O6paTHOMCHTNIO.
 
 ### NPNMEYAHNE
-`kia_rio_en_aaf422ea` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pa36opka Kynncbl B cnyyae ee NOBpeAens e NMeeT CMbIcna, Tak KaKAeTanN KyJNCbI B OTAenbHOCTNB3aNaCHbIe4aCTN HenOCTaB几AIOTCR.
 
 ### PErYNNPOBKA NPNBOAAYNPABNEHNA ABTOMATN4ECKON KOPOBKONNEPEAAY
-`kia_rio_en_409bebcf` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 福 BaM noTpe6yIoTCA: TOpuobbie ronOBKN"Ha 10", Ha 12",OTBepTka C KpecT006-pa3HbIMNe3BNeM.
 
@@ -8410,7 +7942,6 @@ Pa36opka Kynncbl B cnyyae ee NOBpeAens e NMeeT CMbIcna, Tak KaKAeTanN KyJNCbI B 
 9.pOBepbTe 4eTKOCTb BKTOYeHNA pexnMOBKOpO6KN nepenay BO BCexnOnoXeHNAX cenektopa ynpaBneHngKopo6koi nepenay.
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_e7ebf54b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpnBOAblnepeAHNX KOnec COCTORT N3 HapyKHbIx2（pnc.6.12）nBHyTpeHHx7wapHnpOBpaBHbIx yrnoBbIx CkopocTen (LPyC), COeANHeHHbIXBaaMNnPNBOAOB 69. Hapy\*- HbIN wapHup 06ecneynBaeT BO3MOXHOCTb TObkOyrnoBbIXnepeMeleHnncoeANHgeMbIx BanOB. BHyTpeHHnN WapHNp AOnOnHNTenbHO KyrOBbIMO6ecne4NBaeTOceBbleCMe山eHng BanOBnpNnOBOPOte nepeAHnxkonecNpa6oTe nOABeCKN. HakopnycHapyKHoro山apHupa HanpeccoBaHo3anaio山eeKOnbuO 1 AaT4nka 4aCTOTbIBpa山eHNgKOneca.
 
@@ -8428,7 +7959,6 @@ BHyTpeHHNapHNpnOCTaBngIOT B3anacHble 4acTn B BNAe AByX peMKOMnnIeKTOB: 6onbworo,
 PHc.6.12.pBoAbInepeAHxKonec:1-aAaioueeKOnbuOAa4ka yactoTblBpaueHAKOneca;2-HapyKHb apHp paBHbIX yrnoBbIx CkopocTen;3 -6onbwonxomyTKpenneHna yexna wapHnpa;4 -4exon waphupa;5- ManblnxOMyT kpeAneHNA yexna wapHupa;6 - BannpwBoAanpaBoro nepeAHero KOneca;7-BHyTpeHHNn wapHnp paBHbIXyrnoBbIXCkopocTen; 8-CTonopHoe KOnbu0;9- Ban npuBonaneBoronepeAHero Koneca;10 -ANHaMNyeckni AeMndep
 
 ### B03MOKHbIE HENCNIPABHOCTN NPNBOAOBNEPEAHNXKONEC,NXNPN4NHbIN CNOCOBbIYCTPAHEHNЯ
-`kia_rio_en_01a2ce42` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/21e5268235aba5dfd40df06f0d36c66265b065b4da09450f1f3fd27c68a16296.webp)
 
@@ -8437,14 +7967,12 @@ Ang CMa3KN WapHnpOB npnMeHeHa cneLnanbHagCMa3ka CANcynbnnomMonn6neHa(OTe4eCTBEHH
 Banbl npNBoAOB pa3nn4aioTcA no ANHe, noЗTOMynpNBOAbI npaBoroNneBoroKoneca HeB3anMO3aMeHeMbI.AnCHNXeHNABN6paUNNBTpaHCMNCCNN Ha BanynpaboronpnbOAayCTaHOBneHANHaMN4eCKnAeMnep 10, 3akpenneHHblixOMyTOM, aHanorn4HbIM MabIMXOMyTaM5 4exnOB4.
 
 ### NOJE3HbIN COBET
-`kia_rio_en_81c6be00` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 WaPHuPbI nPNBOAOB o4eHb AOnrOBeyHbI, NX pacyeTHbln pecypcnoyTn paBeH pecypcy aBTOMoonns. OAHaKO B 3kcnnyataunn NX MEHAIOT NNNPeMOHTNPyIOTAOBONbHO 4aCTON3-3a NOBPeKAeHng 3aWNTHbIX 4exnoB. Takas pa6ota AoporagNTpyAoeMkag.4To6bIcepbe3HocЗKOHOMNTb,perysspHO npOBepsNTecOCTOsHne3aWNTHbIX YeXNOB WaPHNPOB N HMeAIHHO 3aMeHANTe NX npn Manenwnx NOBpexAennnx.
 
 Ecnn BWapHnp 4epe3noBpexAeHHbln 4exon nonaAer BOAa NnN nblb, OH BbINAeT N3 CTPOR 4epe3 HeCKONbKO COTeH KNnOMeTpOB npo6era. TepMeTu4HbIN WapHnP N3HaWNBaeTcg ype3Bbl4aNHOMeAIeHHO.
 
 ### NONE3HbIN COBET
-`kia_rio_en_e9df1ba8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 WapHNpa nPNBOAOB OyeHb AOnrOBe4Hbl. OAHa-KO npn nobpexAeHnn BHNX nonaAaetrpa3bNBoAa,B pe3ynbTate 4eroapHnpbl 6blctpo Bbl-XOAST N3 CTPOS. Pa6oTa no 3aMeHe npNBOAOBKONeCAOBOnbHOTpyAOeMKa,anpNBOAbI He Ae-WeBbl.As Toro yTo6bl cepbe3HO C3KOHOMNTbCBOe BpeM9 N AeHbrn,n36eranTe noBpexAe-HN4exnOBWapHNpOB(HanpnMep,BCneACTBneHae3Aa Ha Topyawyio N33eMnnnpoBooky) NHeMeANeHHO 3aMeHaNTe NX npn ManenwnxNOBpexAennsx.
 
@@ -8464,7 +7992,6 @@ WapHNpa nPNBOAOB OyeHb AOnrOBe4Hbl. OAHa-KO npn nobpexAeHnn BHNX nonaAaetrpa3bNB
 6. poBepbTe nNOTHOCTb APnneranng noACKOB kaxnoroyexna N HanexHocTbKpenneHNA XOMyTOB. 4exon He AOnKeH npobopaynBaTbCA Ha wapHnpe, 8 XOMyTbI -Ha yexne. BnpOTNBHOMCny4ae3aMeHNTeXOMyTbl. 5
 
 ### CHSTNENYCTAHOBKA 05 NPNBOAOBNEPEAHNXKONEC
-`kia_rio_en_12ae0ae2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/4098c51dca03a6025d2b9c4565bfa0e0c2e5516c7358ba1d692097c3e7bf7cf9.webp)
 
@@ -8484,7 +8011,6 @@ BaM noTpe6yIoTCA: Topuobble rOnOBKN 《Ha17”，“Ha 32，naccaTK, MOHTAKHAS n
 5.Ocna6bTe 3aTaxky ravikn cTynnubl konecaHaCTO山eMHa 3eMneabTOMo6nne.
 
 ### NPNMEYAHNE
-`kia_rio_en_4ccea5e9` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHATNe N yCTaHOBKa APNBOAOB nepeAHnx KOnec noka3aHa Ha npnMepe neboro npnBoAa. NpaBbin NPNBOA CHNMaIOT N yCTaHaBNNBaIOT aHanOrnyHO.
 
@@ -8505,7 +8031,6 @@ CHATNe N yCTaHOBKa APNBOAOB nepeAHnx KOnec noka3aHa Ha npnMepe neboro npnBoAa. N
 10. OTBEANTeaMOpTN3aTOpHyIO CTONKyBCTOPOHy, OAHOBpeMeHHOBbIHNMagN3CTynN-Lbl XBOCTOBNK HapyxHoro wapHupa paBHbIXyrnOBbIXCKOpOcTen. 0 5 W
 
 ### NONE3HbIN COBET
-`kia_rio_en_b94896ad` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/dcc45e2eb7bf1c5144d2b7fb8f428ff49db485b43e8225ca89ab6bb19cebee0a.webp)
 
@@ -8519,7 +8044,6 @@ ECnN He yAaeTCA N3Bne4b XBOCTOBNK WaPHNpa ycnsneM pyk, Bbl6enTe ero N3 CTynnLbI 
 12...CHNMNTenpNBOA.
 
 ### NPNMEYAHNE
-`kia_rio_en_f81af69f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3a30pMexAyKopnycoM BHyTpeHHeroWapHNpa NKapTepoM Kopo6knnepeAay O4eHbMan, n03- TOMYHeBO3MOXHO Cpa3yNONHOCTbIO BCTaBNTb BHero Je3BNeMOHTaKHON nonaTkN.BBeA93aOCTPeHHyIO 4aCTbMOHTaKHONNOnaTKNB3a30p, aKKypaTHbIMNyAapaMN MONOTka BAOnb JonaTKN B6eNTe ee ne3Bne Brny6b 3a3opa,OTOABNrasNonatkonkak KNINHOM kopnycwapHnpa OT kapTepa AO MOMeHTa BbIxOAa CTOnOpHOrO KOJbua XBOCTOBNkaWapHNpa N3WeCTepHN nOnyocn. 3aTeM OKOH4aTenbHO BbIABNHbTe nonaTkON XBOCTOBNK WapHNpa N3WeCTepHN.
 
@@ -8529,7 +8053,6 @@ ECnN He yAaeTCA N3Bne4b XBOCTOBNK WaPHNpa ycnsneM pyk, Bbl6enTe ero N3 CTynnLbI 
 14. 3anente Macno (pa6o4yi0 XNAKOCTb) BKOpo6ky nepeAay (CM.“poBepkaypOBH9, AOnNBkaN3aMeHaMacna B MexaHN4eCkOiKOpo6ke nepenay", C. 124, 3ameHapa6oyen KNAKOCTN BaBTOMaTuyeckoikopo6kenepeAa4,C.134）.x NTOT GGn
 
 ### 3AMEHA 山APHNPOBPABHbIX yrJOBbIXCKOPOCTEN 福
-`kia_rio_en_17bcdfff` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/f1cbea68599c74cc92637dd3564a091751e48f2cb9d656cfe6fabcb34926dfed.webp)
 
@@ -8556,7 +8079,6 @@ BaMnOTpe6yIOTCg:OTBepTkaCnOCKNM ne3Bnem,6okope3bl, 6opoAok, MONOTOK, CbeMHNKAACT
 3. An3ameHbl HapyxHoro wapHupa NN ero4exnapa3beANHNTeOTBepTkONNnN nepeKyCNTe 60kope3aMN 3aMOK XOMyTa kpenneHNA 6onbworo yexna HapyxHorowapHupa n CHNMNTeXOMYT.
 
 ### NPNMEYAHNE
-`kia_rio_en_986ef10e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 XoMytbIKpennens 3awntHbIx yexnoB WapHnpoB paBHbIX yrnOBbIXCKopoCTe OAHOpa3OBoro NCnOnb3OBaHNA, npn c6opke3aMeHnTeNX HOBbIMN. KaKnpaBuno, XOMyTbI BXOART B KOMnneKT HOBOrOWapHnpa.
 
@@ -8573,7 +8095,6 @@ XoMytbIKpennens 3awntHbIx yexnoB WapHnpoB paBHbIX yrnOBbIXCKopoCTe OAHOpa3OBoro 
 6 nc6ente C Bana MONOTKOM4epe3 60- poAOko6onMy wapHnpa, npeononebag ycnnneCtonopHoro kobua. 7.CHNMte Hapy\*Hbl wapHnp co wnnueB Bana.
 
 ### NPNMEYAHNE
-`kia_rio_en_0a9d673d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pnc6opke 3aMeHNte CTOnOpHoe Konbuo HOBbIM.KaKnpaBnno, KOnbLO BXOANT B KOMnneKT HOBOrOWapHnpa.
 
@@ -8582,7 +8103,6 @@ pnc6opke 3aMeHNte CTOnOpHoe Konbuo HOBbIM.KaKnpaBnno, KOnbLO BXOANT B KOMnneKT H
 9.CHNMNTe CBananpNBoa3auNTHblyexon.
 
 ### NPNMEYAHNE
-`kia_rio_en_6391d928` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpnycTaHoBke WapHnpa 3auNTHbln 4exon3aMeHNTe HOBbIM. O6bI4Hoyexon BXOANT B KOMnJeKT HOBOrO山apHnpa.
 
@@ -8591,7 +8111,6 @@ NpnycTaHoBke WapHnpa 3auNTHbln 4exon3aMeHNTe HOBbIM. O6bI4Hoyexon BXOANT B KOMnJ
 10. NepeA yCTaHOBKON HOBOrO HapyxHoro wapHupa 3anonHnte ero nOnOCTb CMa3KON (ecnn wapHnp He 6bInCMa3aH N3rOTOBNTeneM)Bkonu4ecTBe(135±6)r:B山apHnp3an0- XNTe（70±3)r，aB4exon 一 （65±3)r.
 
 ### NPNMEYAHNE
-`kia_rio_en_6c4216b1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npNOTCyTCTBNN CMa3KN,peKOMeHAOBaHHOW 3aBOAOM-N3rOTOBNTeneM, MOXKHO NCNONb30BaTb OTeUeCTBeHHyIOMOnN6AeHOByIOCMa3Ky山PyC-4.
 
@@ -8627,7 +8146,6 @@ YCCOBOOXOHA NOEBMO dTOUAOn 016 OTNHNONSS SuNHOe dN80G78N085OM 安 HA UN sg 808 1
 16. ...N CHNMNTe KOnbuo, BbIBeA ero N3 npOTO4KNBana. 0 90
 
 ### NPNMEYAHNE
-`kia_rio_en_d3eb86c8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AnHarnsAHocTN N3山apHnpayAaneHaCMa3ka.
 
@@ -8646,7 +8164,6 @@ VMNT HO CHRHAA HAKa SnYePRNHOAN
 18...NCHNMNTeC Bana 3auNTHbl 4exon.
 
 ### NPNMEYAHNE
-`kia_rio_en_1670fff4` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pNycTaHoBke WapHupa 3auNTHbl 4exon3aMeHNTe HOBbIM.O6bI4HO OHBXOANT B KOMNneKT HOBOroWapHnpa.
 
@@ -8657,7 +8174,6 @@ pNycTaHoBke WapHupa 3auNTHbl 4exon3aMeHNTe HOBbIM.O6bI4HO OHBXOANT B KOMNneKT HO
 20. nepeA c6opkon 3anonHnte nONOCTbkopnyca N 4exon BHyTPeHHerO wapHnpaCMa3KON B KOnN4eCTBe（145±6) r: BWapHNp3anoxNTe（100±3），aB 4exon 一 （45±3）r.
 
 ### NPNMEYAHNE
-`kia_rio_en_fbda10fb` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npn OTCYTCTBNN CMa3KN, PeKOMeHAOBAHHON 3aBOAOM-N3rOTOBNTeneM, MOXHO NCnOnb30- BaTb OTe4eCTBEHHyIO MonnGAeHoByIo CMa3Ky WPyC-4.
 
@@ -8671,7 +8187,6 @@ DBHE A 06N
 ![](images/f8ff00d1c5c7d7d57f7072dcd213a80938f9be5913f3093925b91951fa88b5bb.webp)
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_fca7b2a5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TepeAHg9noBeckaHe3aBncnag,bla-HO-npyNHHaTuna MakΦepcoH, CTenecko-NN4eCKNMN aMOPTN3aTOPHbIMN CTONKaMN1(puC.7.1），BTbIM LnnnHApnuecKHMnnpy-KNHaMN, nonepeyHbiMN pbl4araMn7, CTa6n-NN3aTOPOM nonepeyHon yCTON4NBOCTN TOp-CNOHHOrO Tuna.
 
@@ -8686,7 +8201,6 @@ Pbl4arn7noABeckn npnkpenneHblKnonepe4nHenepeqHennoABeckn4yepe3cauneHt6nOkNNpe3NH
 CTynNubI nepeAHNXKOneCyCTaHOBneHbI Ha HeperynnpyeMbIx ABYXPAAHbIX pannanbHoynoPHbIXWaPNKOBbIXnOAWNnHNkax. 4
 
 ### BaM nOTpe6yIoTcA: KIOYN "Ha 8", "Ha 17",MOHTaXHag NOnaTka.
-`kia_rio_en_5f95c6ec` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TpoBepkynpoBOAnte BMOTOPHOMOTCeKeN CHN3yaBTOMO6Nng,yCTaHOBneHHOrO Ha CMOTPOBON KaHaBeNnNOnOpax(CBbIBeweHHbIMN nepeAHNMN konecamn). AngnpenoTbpameHNA cnyyanHoro nyckaABnraTeng BbIHbTe KIO4N33aMka3aKNraHNg.
 
@@ -8728,7 +8242,6 @@ naTkyMeKAynOBOpOTHbIMKynaKOMN pbl4arOM nOABeCKN N, Onnpagcb Ha pblyar,nonblTauTe
 5.pn ncnpaBHbIx wapoBbIx onopax,noka-4NBaAKOnecaBBepTuKanbHONnOcKOCTn,y6e-ANTeCb B OTCYTCTBNN NIOCTOB NOAWNNHNKOB.EcnNecTbnoTbl,3aMeHNTenOA山nnHNKN.
 
 ### NONE3HbIN COBET
-`kia_rio_en_4efa3a55` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npn nOka4NBAHNN BbIBeWeHHOro nepeAHero KOJeca TPyAHO pa3nn4nTb nIOTbI B NOAWNnHNKaxcTynnuNBWapobbIx onopax.Tonpocnte NOMOWHNKa HaXaTb Ha neAanb TOPMO3a: ecnn N B 3TOM cnyyae oyTnTe nIoT,TO HencnpaBHbl Wapobble onopbl.
 
@@ -8764,7 +8277,6 @@ npn nOka4NBAHNN BbIBeWeHHOro nepeAHero KOJeca TPyAHO pa3nn4nTb nIOTbI B NOAWNnHN
 x14. noAHnMnteHexon N npobepbTe WTOK aMOpTN3aTOpa. nOTeKN XNAKOCTN 10 WTOKy He AOnyckaIOTCA. H PP03
 
 ### BaM noTpe6yIoTcA: KIOLN Ha 8", "Ha 17",Knoy Ang raek konec.
-`kia_rio_en_8a2a403f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.3aTopM03NTe aBTOMo6nnb CTORHOYHbIM TOPM030M...
 
@@ -8819,12 +8331,10 @@ x14. noAHnMnteHexon N npobepbTe WTOK aMOpTN3aTOpa. nOTeKN XNAKOCTN 10 WTOKy He A
 16.ycTaHOBNTe CTONky B nOPaAke, o6patHOMCHATNIO. 17.AHanOrN4HO CHNMNTe BTOpyIO aMOpTN3aTOpHyIOCTONky.
 
 ### PEKOMEHAALNA
-`kia_rio_en_7511c159` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocne yCTaHOBKN aMOpTN3aTOpHOi CTONKN nepeAHen NOABeCKN N ee AeTanen npobepbte N npn Heo6XOANMOCTN OTperynnpynTe yrnbl yCTaHOBKN KONeC. An 3Toro Bocnonb3yuTeCb ycnyraMn MacTepCKNX, pacnonaraiownx cneUNabHbIMO6opyAOBaHneM.
 
 ### PEMOHT AMOPTN3ATOPHON CTONKN NEPEAHEN NOABECKN
-`kia_rio_en_ffcf9f5e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/34e64a775a749f8534abf147ba15da98332efee7bb1a34dc2a4a9e39f78f26e8.webp)
 
@@ -8833,7 +8343,6 @@ BaM noTpe6yIoTcs: KIONN "Ha 8", "Ha 17”，“Ha21"..
 ![](images/9e5f06d22cd9abd4b581c0c1780dbc6e95616ecba8108c211a5b5e4969b152a9.webp)
 
 ### .NnpncnoconehneAs cxatnsnpyXNH. Q2
-`kia_rio_en_84da9f98` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. CHNMNTe aMOpTN3aTOPHyIO CTONKy C aBTOMo6nng (CM. "CHATNe N ycTaHOBka aMOpTn3aTOpHoNctOuiknnepeAHen noABeCKN,C.147) V wekGv0oT 6 NHqSaTO
 
@@ -8885,7 +8394,6 @@ PnC.7.2.AeTanN aMopTn3aTopHoN CTonkN nepeAHen noABecKN:1-3auTHbl 4exon;2-6yepxoA
 15.YcTaHOBNTeaMOpTN3aTOpB BepTNkanbHOe nonokeHne N HeCKOnbKO pa3AO ynopa OnyCTNTe, NNOAHNMNTeWTOKaMOPTN3aTOpa. NepeMemasWTOk, y6eANTecbB TOM,4TO OH nepemewaeTca 6e3 npoBanob, 3aenaHnn N yAapoB. pu o6HapyxeHNN noTeKOB XNAKOCTN TaKke3aMeHNTeaMOpTN3aTOp.
 
 ### NPNMEYAHNA
-`kia_rio_en_01396f11` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AaHHag npobepka pa6oTbl amopTn3aTopa npnTenHag,A Gonee TOYHON OLeHKN ee TeXHN4eCkoro CACPORHNN o6paTNTecb B cneLNanN3NpOBaHHbIN aBTOcepBNC. AMOpTN3aTopbI(neBblN N npabbli3aMeHTe napamn. TOAA 中 二
 
@@ -8901,14 +8409,12 @@ Wmo
 18.3aMeHnTenpyxNHy, ecnN Ha Hei o6HapyeHbICneAbICOyAapeHNA BNTkOB,TpeWNHbI NAedopmaunn.
 
 ### NONE3HbN COBET
-`kia_rio_en_6397297c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/f734d55f4278b148ab2e2356f8844b2617a787d39bc35c4dd029a24f3c8f38f1.webp)
 
 NpNc6opkeaMopTn3aTopHon cToikN 3akpennTe npoknagkn HanPyxnHe nnnkonnHonnn HaAeKHOnNKCauNN nO MeCTy yCTaHOBKN.
 
 ### PEKOMEHAALNA
-`kia_rio_en_dda47ad8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocne peMOHTa aMOpTN3aTOpHon CTONKN nepeAHen nOABeCKN N eeAetanen npobepbte N npn HeO6xOANMOCTN oTperynnpynte yrnbl yCTaHOBKN KOnec. An 3Toro Bocnonb3yiTecb ycnyraMn Mactepcknx,pacnonaraiownx cneunanbHbIM O6opyAOBaHNeM.
 
@@ -8917,7 +8423,6 @@ pNycTaHOBkenpyxNHbI CneANTe 3a TeM,4TO6bl KOHeL HNKHerO BNTKa ynnpanca B cneLNaJ
 ![](images/00efa7a3efd321b414ccc8857d8674601e4682aff2e7c2d3321c42774ef9ad39.webp)
 
 ### CHATNEN YCTAHOBKA PblyArANEPEAHEN NOABECKN 三
-`kia_rio_en_da5feb7d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BaM noTpe6yIOTCA: KNIOYN Ha 17》,“Ha 19”,“Ha21”..
 
@@ -8929,7 +8434,6 @@ BaM noTpe6yIOTCA: KNIOYN Ha 17》,“Ha 19”,“Ha21”..
 3.OTBepHnteraikykpenneHng nanbuawaPOBONOnOPbIKnOBOPOTHOMy Kynaky. BPSPSE
 
 ### NPNMEYAHNE
-`kia_rio_en_ebf4aa1e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpaBbln W neBbln pblyarnnepeAHen NOABeCKN HeB3aNMO3aMeHReMbl.
 
@@ -8940,7 +8444,6 @@ Hapblyarn HaHeceHbI 6ykBbl "R"N“LCOOTBeTCTBEHHO. 推
 1.3aTOpMO3NTe aBTOMO6NNb CTOAHO4HbIM TOPM030M N yCTaHOBNTe nPOTNBOOTKaTHbIe ynopbl(“6awMakn") noA3aAHne Koneca. 2. NpunoAHnMnte nepeAHioIO 4aCTbaBTOMO6Nng,yCTaHOBuTeee HaHaAexHbieonopbl CHNMNTeKOneCO.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_cab2feec` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ocna6naiteN3atarnBauiTerankn kpenneHng KOneCTOnbKOHaaTOMo6nne,OueHa 3eMne.
 
@@ -8971,7 +8474,6 @@ Ocna6naiteN3atarnBauiTerankn kpenneHng KOneCTOnbKOHaaTOMo6nne,OueHa 3eMne.
 10.ycTaHoBute pbl4ar nepeqHei nonBeckn BnOPaAke, O6paTHOMCHATNIO.
 
 ### NPNMEYAHNE
-`kia_rio_en_a49efd8d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/4b113fb73a8007bca80a42580399d92ecc6e6041b42660017d3cd01ff04f9bd2.webp)
 Ecnn npoBepkanepeAHero...
@@ -8983,12 +8485,10 @@ Ecnn npoBepkanepeAHero...
 11.OnyCTNB aBTOMO6Nnb Ha 3eMNIO,HecKONbkOpa3CNnbHO Ka4HNTeero.OkOH4aTenbHO3aTarNBaiTepe3b6oBbleCOeANHeHNg nOABeCKN Ha aBTOMo6une, CTORLEM Ha 3eMne, MOMeHTOM,y3H B npunoxeHnn1. 12. AHanorNyHO 3aMeHNTe BTOPON pbiyar nepeAHennOABeCKN.
 
 ### PEKOMEHAALNA
-`kia_rio_en_66dc72bc` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Nocne ycTaHoBkn pbIyara nepeAHei noABecKN npobepbteN npNHeo6xoANMOCTnOTperynnpyMTe yrsibl yCTaHOBKN konec. Ang 3Toro BOCnonb3yTecbycnyraMNMactepcknx,pacnonaraiownxcneunanbHbIMo6opyAoBaHneM. CRGNU
 
 ### 3AMEHA WAPOBON OnOPbl NEPEAHENNOABECKN
-`kia_rio_en_9adb6962` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/28108aae98a879ec8d9b4b052605a9575933fc0fb5164dedbc64028bc72dae9f.webp)
 
@@ -9004,7 +8504,6 @@ BaM noTpe6yIOTCA: OTBepTka C nnoCKNM ne3BneM, pa3ABNKHble naccatnXN, MONOTOK, on
 ![](images/bba7d862302d469a3432d175936b8f75ffd2cfe39e6ae035819c0659de4f163a.webp)
 
 ### 3... CHNMNTe yexon.
-`kia_rio_en_741f6733` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/1ccdc619882195151600646d2b233b6fc3b3288c7cacade2c2799edb7e181ab7.webp)
 
@@ -9019,7 +8518,6 @@ BaM noTpe6yIOTCA: OTBepTka C nnoCKNM ne3BneM, pa3ABNKHble naccatnXN, MONOTOK, on
 7.ycTaHOBute WapoByloonopy W BceAeTa几 B nOPAAke, 06paTHOM CHATNIO. NepeA yCTaHOBKON 3aWNTHOro yexna HaHeCNTe Ha OnopyKOHCNCTeHTHyIOCMa3ky.
 
 ### PEKOMEHAALNA
-`kia_rio_en_9097b0c0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Nocne 3aMeHbl WapoBon onopbl nepeAHen NOABeCKN npoBepbte N nPN Heo6xOANMOCTN OTperynnpynte yrnbl yCTaHOBKN konec. Ang 3TOro BOCnonb3ynTecb ycnyraMN MactepCKNX,pacnonaraiomnxcneunanbHblMo6opyAOBaHNeM. S F
 
@@ -9030,7 +8528,6 @@ Nocne 3aMeHbl WapoBon onopbl nepeAHen NOABeCKN npoBepbte N nPN Heo6xOANMOCTN OTp
 ![](images/87634656b480ad46a440c95f89ed05e46e898ba80d353abfb9bfa4105454e6bb.webp)
 
 ### BaMnoTpe6yIoTCg:KnIOyN“Ha 17"(ABa).
-`kia_rio_en_ffcfd1a8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 4 OTBepHNTe ranky Kpennehng nanbua BepxHero山apHupaCToukNCTa6unu3aTopaK aMOpTN3aTOPHON CTOMK...
 
@@ -9043,7 +8540,6 @@ Nocne 3aMeHbl WapoBon onopbl nepeAHen NOABeCKN npoBepbte N nPN Heo6xOANMOCTN OTp
 An3aMeHbl WTaHrn CTa6nnn3aTopa nonepe4Hon yCTON4NBOCTN BblnONHNTe cneAyiomee. 2 NTO
 
 ### 3AMEHACTOEKCTABNNN3ATOPA NEPEAHENNOABECKN
-`kia_rio_en_c14db2f8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/dec0c2d3352307c2d9f122d87dc4ae1cfd7ca108e51dea13eaea9f44996284a8.webp)
 4 1.CHNMnte nonepenHy nepeAHen noABeCKN (CM.CHTne N yCTaHOBka nOnepeNHbl nepenHennonBeckn",c. 154).
@@ -9058,7 +8554,6 @@ An3aMeHbl WTaHrn CTa6nnn3aTopa nonepe4Hon yCTON4NBOCTN BblnONHNTe cneAyiomee. 2 
 7.CHNMnte CTOky CTa6nnN3atopa. 8. YcTaHOBNTe CTONKy B nOPaAke, o6patHOM CHATNIO. 9.pn Heo6xoANMOCTN aHanorn4HO CHNMNTeBTOpyloCToikKyCTa6Nnn3aTopa.
 
 ### 3AMEHAWTAHrN CTABNJN3ATOPA NEPEAHEN NOABECKN
-`kia_rio_en_bf6513ae` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/937ffe5227d5ca5b27301de64ae8a67d507ce0fcd637d85a95d145c18d763699.webp)
 
@@ -9073,7 +8568,6 @@ BaM noTpe6yeTcg KIOy “Ha 14".
 4.CHNMNTe山TaHryCTa6NnN3aTopaCnonepeynHbl. 5. ycTaHOBNTeAeTanN B nOpaAke, o6patHOMCHATNIO.
 
 ### PEKOMEHAALNA
-`kia_rio_en_58ff3c33` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocne 3aMeHbl WTaHrN CTa6nnn3atopa nepeAHen NOABeCKN npoBepbTe N npN Heo6xoANMOCTNOTperyJNpynTeyrnbIyCTaHOBKNKOnec. Ans 3TOro BOCnonb3ynTecb ycnyraMN Mactepcknx,pacnonaraio山nxcneunanbHbiM 06opyAOBaHNeM. A 1
 
@@ -9096,14 +8590,12 @@ nocne 3aMeHbl WTaHrN CTa6nnn3atopa nepeAHen NOABeCKN npoBepbTe N npN Heo6xoANMOC
 5.ycTaHOBnTe nonyuky WTaHrN CTa6nnn3aTopa B nOPaAke, 06paTHOMCHATNIO. 6.AHanorN4HO3aMeHNTeBTOpyIOnOAyWKy.
 
 ### CHATNENYCTAHOBKA NOBOPOTHOrOKYJAKA
-`kia_rio_en_f6c38908` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/e2b62a98eed7e488b044b008635403ddfe6bfcf680db3665ef1da0b80be14179.webp)
 
 BaM noTpe6yIoTca:KnIo4N 《Ha 10", "Ha 17", "Ha 32, CbeMHNK ANA Wapobbix onop,6opoAok,Monook
 
 ### NPNMEYAHNE
-`kia_rio_en_a7d3a7ac` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pa6oTyno CHSTNIOnOBOPOTHOrOKynaka yA06- Hee BbINONHATbHa nOAbeMHNKe BnenOs8
 
@@ -9169,7 +8661,6 @@ Pa6oTyno CHSTNIOnOBOPOTHOrOKynaka yA06- Hee BbINONHATbHa nOAbeMHNKe BnenOs8
 20.N3BneKNTe6onTblN3OTBepCTN B NOBOpOTHOMKynake KPOH山TeNHeCTONKN.
 
 ### NPNMEYAHNE
-`kia_rio_en_97b9a2ff` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/2b6f90abf464dd077f5e35c20e4cf72dc3a4b5e8182ea217c1d96c459f270aa5.webp)
 
@@ -9198,12 +8689,10 @@ O
 26. TpNHeO6xOANMOCTNaHanOrN4HO CHNMNTenOBOpOTHblN KynaKnepeAHeNnOABeCKN CApyroN CTOpOHbI.
 
 ### PEKOMEHAALNA
-`kia_rio_en_726039c0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Nocne CHTAN yCTaHOBKN nOBOPOTHOrOkyna-ka nepeAHen nOABeCKN npobepbte N npnHeo6xoAnMoctn OTperynnpyuTeyrnbIycTaHOB-KN konec. AnəToro Bocnonb3yuTecb ycnyra-MN MacTepcKNX, pacnonaraiomnx cneunanb-HbIMo6opyAOBaHNeM.
 
 ### 3AMEHA NOAWNNHNKA CTYNNLbI NEPEAHErO KOJECA
-`kia_rio_en_8042eb64` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/e3635fe89594f751e954eecb514c31791282a4e4badea09b19489364a8c468ee.webp)
 
@@ -9225,7 +8714,6 @@ BaM noTpe6yIOTCR: BCe WHCTPyMeHTbI AJA CHATNA NOBOPOTHOrO Kynaka, a Takke CbeMHN
 5.pN OTCyTCTBNN CbeMHNKa BbInpeccyTe CTynnuy, Ncnonbyg onpabky noAXOARLerO ANaMeTpa. 美 6.ycTaHOBNTe.CbeMHNKnOAWNnHNKOB, Bblnpeccyute N N3BneKNTe NOAWNNHNK N3 OTBePCTNBnOBOPOTHOMKynake. ogaran NM
 
 ### NPNMEYAHNE
-`kia_rio_en_b96fac83` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TaKBbIrnANT NMeoWnncsBnPoAaeCbMHNK AsNOAWNNHNKB CNNLKOnec. 福 870 80T
 
@@ -9234,7 +8722,6 @@ TaKBbIrnANT NMeoWnncsBnPoAaeCbMHNK AsNOAWNNHNKB CNNLKOnec. 福 870 80T
 7 npn OTCYTCTBNN CbeMHNka Bbl6enTe noAwNnHnk,Nnonbys nPaBynonxonner0 ANaMeTpa,Tak KaKBbInpecCOBaHHbINnoAWNNHNK NOBTOPHOMy NCnOnb3OBaHNIO He nonnexnT. BXR 8. O4NCTNTe AeTann N CMaxbTe TOHKNM cnoeM KOHCNCTeHTHON CMa3KN BHYTPEHHIOIO nOBepXHOCTb rHe3Aakynaka N HapyXHyIO noBepXHOCTb CTyNNLbl. 9. 3anpeccyute HOBbIN NOAWNNHNK B OTBepCTuenOBOpOTHorOKyakaAOynopa.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_d3009215` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpN 3anpeccobke NOAWNnHNKa B NOBOPOTHbIN Kynak ycnnne HeoxoAnMonpnknaAbIBatb TOnbKOKHaPyKHOMy KOnbuynOAWnnHNka,BnPOTNBHOMCnyuaeMOKHONOBPeANtNOAWNNHNK.
 
@@ -9244,21 +8731,18 @@ H 10. 3anpeccyute cTynnuyAO ynopa, onnpagBHyTpeHHee KOnbLO nOA山nnHNka HanOAXOn
 1.yctaHobute pyneBoe Koneco B nonoxeHNeNPAMONNHNHOrOABNKHNA.
 
 ### NPEAYNPEXKAEHNE
-`kia_rio_en_f1d9fbef` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NonbiTka 3anpeccoBaTb cTynnuy, ynnpaacb onpaBkon B HapyHOe KOnbLO NOAWNNHNKA NNNB nOBOpOTHbIn Kynak,npBeAe KBbIXOAy noAWNnHNKa N3CTPOs.
 
 11.ycTaHOBNTe nOBOpOTHbIKynaK Ha aBTOMO6nnIb BnopgAke, O6paTHOMCHATNIO. 12.AHanoru4HO 3aMeHnTe noq山nnHnK CTynuubICApyron CTopOHbI nepeAHen noABeckn.
 
 ### CHATNENYCTAHOBKA NONEPEYNHbINEPEAHEN NOABECKN
-`kia_rio_en_8943a3ae` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/3e7903feaa1c43ee7470e9f3b3274d810f0d7d9cde43a6efe1e89f43e678a9df.webp)
 
 NonepeyNHa nepeAHei noABeckN Bco6ope noka3aHaHa pnc.7.3. BaM noTpe6yIoTCs:KO4N “Ha 10", "Ha 17),“Ha19”,“Ha21,naccaTkN.
 
 ### NPNMEYAHNE
-`kia_rio_en_fa3c9435` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pa6oTy no CHaTio nonepeunHbI nepeAHen noABeCKN yAO6Hee BbInOnHgTb Ha nOAbeMHNke.
 
@@ -9267,7 +8751,6 @@ Pa6oTy no CHaTio nonepeunHbI nepeAHen noABeCKN yAO6Hee BbInOnHgTb Ha nOAbeMHNke.
 2. 3aTopMO3NTeaBTOMO6NnbCTOgHO4HbIM TOPM030M N yCTaHOBNTe nPOTNBOOTKaTHble ynopbl(6awMakn") noA3aAHne Koneca. 3. NpNnoAHnMNTe nePeAHiOIO 4acTb aBTOMO6ung,yCaHOBte ee Ha HanexHbleonopbl NCHNMNTeKONeCO.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_99a39836` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ocna6naute N 3atsrnBante raNkN kPennenng koneca TOnbKO Ha aBTOMOonne, CTORWEM Ha 3eMne.
 
@@ -9300,7 +8783,6 @@ Pnc.7.3.nonepeynHa nepeAHe noABecKN Bc6ope:1,9 nanbublwapHnpob HaKOHe4HNKOBpyneB
 10. OTCOeANHNTe HaKOHe4HNKpyneBONTArN OT pbl4aranoBopoTHoro kynaka(CM.3aMeHaHaKOHeyHnkapyneBON TarN,C.165).
 
 ### NPNMEYAHNE
-`kia_rio_en_78945c07` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/cfc8396d97848758041acb748b02142d0a4ade5bb97ff154086127d7cac5ccbf.webp)
 Ang BbInpeccOBKN nanbueB WapoBbIx onop N HaKOHeyHNKOB PyneBbIX TAr NCnonb3yNTe cneunanbHbli CbeMHNK.
@@ -9362,19 +8844,16 @@ Ang BbInpeccOBKN nanbueB WapoBbIx onop N HaKOHeyHNKOB PyneBbIX TAr NCnonb3yNTe c
 27.OnyCTNB aBTOMO6unb Ha 3eM几IO,HeCKOnbkOpa3cunbHO Ka4HNTeero. OKOH4aTenbHO3aTarNBaNiTepe3b6oBbIeCOeANHeHnAnOABeCKN HaaBTOMo6nne, CTORWEM Ha 3eMne, MOMeHTOM,yKa3aHHbIMBnpNnOXeHNN1.
 
 ### NPNMEYAHNE
-`kia_rio_en_f6fc504e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/12fad7c1c9c69d7a523e2fc01b5e734793b96c9fcc2a422f4e8dd40363d010c9.webp)
 
 28. 3anevteKNAKOCTb B CNCTeMy rnAPoycunntenspyneboro ynpabneHng N yAannte N3 Hee BO3nyx(cM.3ameHapa6o4enNKO CTNNnpoka4kacncteMblrnApoycnnnTenspyneBoro ynpaBneHng" c.167).
 
 ### PEKOMEHAALNA
-`kia_rio_en_5f734860` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocne ycTaHoBkn nonepeunHbI nepeAHen noABeCKN npoBepbteN npN Heo6xOANMOCTNOTperysnpyuteyrnbl yCTaHOBKN KOnec. Ang3toro BOCnOnb3yNTeCb ycnyraMn MacTepckNx,pacnonaralounxcneunanbHblMo6opyAoBaHneM.
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_8507a343` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3anHg NonBecka nonyHe3aBncnMas,npyKNHHAA, CnonepeyHon 6ankon rnnpaBnn4eCKNMNaMOpTN3aTopaMN.
 
@@ -9383,7 +8862,6 @@ K6anke5（pnc.7.4）3anHeinonBecku npBapeHbl KPOHWTeNHbI Akpenneeng amopTN3aTOPO
 Ha kpoHTeHax 6ankn 3aHe nonBeckn 6ontaMN 3akpenneHbI HNXHne WapHupbl rNApaBAN4eCKNXaMOpTN3aTOpOBAByCTOpOHHero AeNCTBNA. BepxHne山apHnpblaMopTn3aTOpOBnpnkpenneHblKKy3OBy.
 
 ### NPOBEPKATEXHN4ECKOrO BAHOOSONN AETAIEN3AAHEN NOABECKN HAABTOMOENNE
-`kia_rio_en_36b9b2a6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BcenpoBepKN  pa6oTbI npOBoAuTe CHN3y aBTOMOOung,yCTaHOBneHHorO HanOAbeMHNKe WNNCMOTPOBON kaHabe (C BbIBeWeHHbIMN 3aHNMNKOnecaMN).
 
@@ -9423,7 +8901,6 @@ IpNnpoBepke oCMOTpNTe cneAylomee.
 Pnc.7.4. 3aAHAA noABecka(neBaA CopoHa,npaBaopoHacMepn4Ha):1-npykHa 3aAHei noABecKn;2-6y ΦepCKaTuA3aAHenoABeCKn;3-aMopT3aTop3aAHeNnoABecKn;4-pe3NHOMeTannyecKnapHup(caneHT6nok)npoAOnbHorO pblyara;5 -6anka 3aAHen noABeckn;6-npoAonbHbln pbiuar3aAHei noABeCkn;7-HHAA onopanpyHb
 
 ### BO3MOKHbIEHENCNPABHOCTN3AAHENNOABECKN, NXnPN4NHbINCNOCOBbIyCTPAHEHN9
-`kia_rio_en_5e73a5b6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/6af6b7709bb8faa8bdc2baa01b73311990b02ef4fa5b80ac2833369f1d4b5744.webp)
 
@@ -9437,7 +8914,6 @@ Pnc.7.4. 3aAHAA noABecka(neBaA CopoHa,npaBaopoHacMepn4Ha):1-npykHa 3aAHei noABec
 6.OAWNnHNKN CTynNL 3aAHNX KOnec.
 
 ### NONE3HbIN COBET
-`kia_rio_en_1353ed4d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 O6paTnte BHNMAHNe Ha CNCTeMy Bblnycka OTpa6oTaBWNXra3OB. nocTOPOHHNe CTyKN, N3- AaBaeMbleeio, yaCTO NPNHNMaIOT 3aCTYKB 3aAHeN nOABeCke. NpNMeHeHNe HeCTaHAaPTHbIX AeTanen NSN 06pbIB 3neMeHTOB NOABeCKN rnyWNTeng MOryT Bbl3BaTb CNIbHbIN CTyK,OCO6eHHO npn nepera3oBkax. npn npoBepke OCTaHOBNTe ABNratenb, BHNMaTeNbHO OCMOTPNTe CNCTeMy Bbinycka, npoBepbte HaAeXHOCTb KPenneHng N nOABecKy rnywnTens. B3ABWNCb 3akoHeuBblxnonHonTpy6bl,nokayanternywnTenbBBePX-BHN3N N3CTOPOHblB CTOPOHy - CTyKOB 6bITb HeAONKHO.
 
@@ -9445,7 +8921,6 @@ O6paTnte BHNMAHNe Ha CNCTeMy Bblnycka OTpa6oTaBWNXra3OB. nocTOPOHHNe CTyKN, N3- 
 7.pyxnHbln 6yepa xona cxaTng 3aHen NOABeCKN. PON pro ds0ron 24G5
 
 ### AMopTn3atopbl (neBbln N npaBbln) 3aMeHaNTe napaMn.
-`kia_rio_en_c53dc0a3` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.epeATeMKaKnOAHTb 3aAHIOIO4aCTb aBTOMOONNA,BKNIONTe nepenayy (nepebeANTeCeneKTOpaBTOMaTN4eckON kopo6knnepenayBnonoxeHne“P").
 
@@ -9482,7 +8957,6 @@ O6paTnte BHNMAHNe Ha CNCTeMy Bblnycka OTpa6oTaBWNXra3OB. nocTOPOHHNe CTyKN, N3- 
 12.pN Heo6xoANMocTN aHanorN4HO 3aMeHNTeBTOpONaMOpTN3aTOp.
 
 ### 3AMEHA NPyKNHbI 3AAHEN NOABECKN
-`kia_rio_en_a8e0c6a9` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/465ddfc1b5ba95419fbd78b2fc43735a3da9afdd32e91a3922d741ec6bc44aae.webp)
 BaMnoTpe6yoTcg:KIoy “Ha12
@@ -9490,7 +8964,6 @@ BaMnoTpe6yoTcg:KIoy “Ha12
 ![](images/025a30421efc9c733c3ec0263128a70616819d5243ce7d5f53a3d9ee8c684bb1.webp)
 
 ### ...Nnpncnoconehne Ans CxaTns npyKNH.
-`kia_rio_en_201d2d3d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/b4fbf01a795bb746a57237d14cc9ef2e90b6fc56a3a690600cdd0da76a086e70.webp)
 4.ycTaHoBute npncnoco6neHneAng cxaTnPyNH COXMNTenpyKNHy. 9
@@ -9504,7 +8977,6 @@ BaMnoTpe6yoTcg:KIoy “Ha12
 -CNJbHO BblpaxeHHble CneAbl COyAapeHNg BNTKOBnPyKNHbl.
 
 ### NpyxnHbl(neBylo NnpaBylo) 3aMeHaitenapamn.
-`kia_rio_en_9b5161cd` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.epe TeM Kak nOAHTb 3AAHIOI0 4acTb
 aBTOMOONng, BKNIOYNTe nepenayy(nepebe
@@ -9535,26 +9007,22 @@ Waton TOXOP NIdN 6. CHNMNTe BePXHIOIO.. ROTOEX VnQn
 9...N CHNMNTe 6yΦep.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_3e420e1e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NoBpexAeHHble 6ycep caTna, npynHy, BePXHIOIO NHNKHoIOnPOknaAkN3aMeHNte HOBbIMN.
 
 10.VcTaHoBnTe 6yep cxaTn,npyxNHy cnpOKnaAKaMN Ha aBTOMo6nnb 8 nOPaAke, 06-PaTHOM CHSTNIO.11.BTopylo npyKNHy (cnpabon CTOPOHbIaBTOMo6nng)3aMeHnTeaHanorn4HO.
 
 ### NPNMEYAHNE
-`kia_rio_en_eb54ac78` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pNycTaHOBkenpyKNHbI CneANTe3aTeM,4TO6blee KOHLblCBepxyNCHN3y ynupanCbBcneunanbhble ynopbl HanpoknaAkax.
 
 ### CH9TNEN YCTAHOBKA CTYNNLbI3AAHErO KONECA
-`kia_rio_en_b8f6d816` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/df8164d5f442833d966974689d30db9592948785b66c63f2238c4f4e43eef658.webp)
 
 Ctynnua 3anHeroKoneca N ee NOAWNNHNKnpeACTaBnAIOT co6on TpyAHopa36opHblny3en. OMNMO3TOrONOAWNNHNKOTAenbHOB3anacHbIe4aCTNHenOCTaBngIOT,nO3TOMynpNBbIxOAe N3 CTPOR NOAWNNHNKa 3aMeHNTey3enBc6ope.
 
 ### BaM noTpe6yIoTCA: Topuobas ronOBka "Ha 12",OTBepTka C KpecToo6pa3HbIM ne3BNeM. 88 T
-`kia_rio_en_8291cef0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.epeA Tem Kak NOAHT3aAHIOIO 4acTb aBTOMOONng, BKNIO4NTe nepenayy (nepebeANTeCeneKTOpaBTOMaTu4eckON KOpo6knnepeAayBnonokeHne "P").
 2. 3aTOpMO3NTe aBTOMO6NNb CTOAHO4HbIM TOPM030M N yCTaHOBNTe npOTNBOOTKaTHble ynopbl ("6awmakn")noA nepeAHne koneca. 福 中 3.punOAHnMnte 3aAHioIO 4acTb aBTOMO6ung,yCTaHOBnTe ee Ha HanekHble onopbl N CHNMNTeKONeCO.
@@ -9573,14 +9041,12 @@ Ctynnua 3anHeroKoneca N ee NOAWNNHNKnpeACTaBnAIOT co6on TpyAHopa36opHblny3en. OM
 ![](images/1ed7a911a46437bbb77fe2066d16bb81f2c9c9b3349318676fe488d7a02dbd7c.webp)
 
 ### 3AMEHAWNNNEK 3 KPENNEHNAKONECA
-`kia_rio_en_7c64004a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a5691e903b7297486914c3861dd9b56e3bc39b906adf905bc19fe2f8fb013e96.webp)
 
 8.NpOBepbTe nOAWNnHNK CTynnubl Ha nerKOCTb BPaweHng, OTCyTCTBNe 3aeAaHn N OLyTNMbIX NIOΦTOB. HencnpaBHyio cTynnuy 3aMeHNTe. YVSS 9.ycTaHOBNTe CTynnuy 3aAHero koneca N BCeAeTanNBnopAke O6paTHOMCHATNIO.
 
 ### BaM noTpe6yetca CbeMHNK nanbueb WapoBbIXWapHnPOB. UC
-`kia_rio_en_24605ff3` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/81ecbf0bc1e34e055dabfab08835cf1c65ab0353e1c92cb56d5cb1e4525837f6.webp)
 
@@ -9596,7 +9062,6 @@ Ctynnua 3anHeroKoneca N ee NOAWNNHNKnpeACTaBnAIOT co6on TpyAHopa36opHblny3en. OM
 4. ycTaHOBNTe CbeMHNK N Bbinpeccynte 山nnnbKy N3OTBepCTNACTynNLbl.
 
 ### NPNMEYAHNE
-`kia_rio_en_2ea28215` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Npn OTCYTCTBNN CbeMHNka NOBPexAeHHyio WnNnbKy MOXHO BbI6NTb N3 OTBEPCTNA CTyNNLbI MONOTKOM4epe3npOCTaBKyN3MarkOrOMeTanna.
 
@@ -9605,19 +9070,16 @@ Npn OTCYTCTBNN CbeMHNka NOBPexAeHHyio WnNnbKy MOXHO BbI6NTb N3 OTBEPCTNA CTyNNLb
 5. Cnomomblo raikn kpenneHng koneca N BTyNKN noAxonA山ero pa3Mepa 3anpeccyute HOByIOWnNbKyBCTynNuy. 6.ycTaHOBNTe CHATbIeAeTanN B nOPaAke, 06paTHOMCHATNIO.
 
 ### 3AMEHA BANKN 3AAHEN NOABECKN
-`kia_rio_en_7a7434cf` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a3a523ac80f837a28b40e25ee1c8513e1eedbbba2dcb4ab91c8e1af22d7a7480.webp)
 
 电 BaM noTpe6yIoTCA: KIOYN “Ha 10”，"Ha19",onopa N npncnoconenneAng cxa-TUANPyKNH.
 
 ### NONE3HbIN COBET
-`kia_rio_en_0897664c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHNMaTb 6anky 3aAHen noABeckn Heo6xoANMO C NOMOWHNKAMN, KOTOpbIe 6yAyT npnAepknBaTb NonyckaTb6anky. 5
 
 ### NPNMEYAHNE
-`kia_rio_en_535f376a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Aanee noka3aHbl onepaunn,npoBeAeHHbie C neBoN cTopoHbl noABeckn,OnepauNNcnpabon CTOPOHbI BbInONHAIOTaHaNOrNyHO.
 
@@ -9663,7 +9125,6 @@ Aanee noka3aHbl onepaunn,npoBeAeHHbie C neBoN cTopoHbl noABeckn,OnepauNNcnpabon 
 ![](images/8b78d1cbfbc10d7b205062e85de696e7d940d8971b42dfe4395ce0b25f3d8b26.webp)
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_1f2809ec` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaaBTOMo6unnKIARioyCTaHaBnNBaIOTpyneBoeynpaBneHne CrnApoycnnnTeneMpyneBbIM MexaHN3MOMTNna wecTepHa-penka. Pyneboe ynpabneHne aBTOMO6nng COCTONT n3pyneBoroKoneca,pyneBon onoHkn,pyneBOrOMexaHN3Ma, OCHa山eHHOro ruapoycunnTeseM, NAByXpyneBbIXTr,COeqNHeHHbIX山apOBbIMN山apHNpaMNCnOBOpOTHbIMNKynakaMNnepeAHennoABeCkn. 店
 
@@ -9690,7 +9151,6 @@ ba4ok FnAPOyCnnnTeng pyneboro ynpabnenng yCTaHOBNeH B NOAKANOTHOM npOCTpaHCTBeHa
 PyneBble Tarn39CM. pnc.8.2)npnkpenneHbl KpenkepysieboroMexaHn3Ma wapoBbIMNWapHnpaMn.HakoHe4Hnkn1n11pyneBbIX TarCnOMOLbIOWapoBbIXWapHnPOBnpNkpenneHbl KnOBOpOTHbIMKynakaMnepeAHen NOABeCKN. OTnpOBOpaynBaHng Ha pyneBbIx Tarax HaKOHe4HNKN 3aΦNkcNpoBaHbl KOHTPravkaMn2N10.Bpa山eHneMHakoHe4HnkaHa pyneBonTareperynnpyioT cxoxneHneynpaBneMbIXKOnec.
 
 ### OCMOTP NNPOBEPKA PynEBOro YNPABNEHNA HA ABTOMOBNNE
-`kia_rio_en_322fa8f3` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 PeryngpHo npoBepante COCTORHNe pyneBoroynpaBneHng, TaK kak OT Hero 3aBNCNT 6e30naCHOCTbABNKeHNg.
 
@@ -9703,14 +9163,12 @@ TpoBepbte pacnonoxeHue cnnL pyneboro Koneca,KOToPblenpnnpaMOnnHenHoMnonoxeHnNnep
 oBopayNBaapyneBoeKoneco OTynopaAo ynopa,npOBepbTeBn3yanbHONHacyx: 0006 H - HanexHoctbkpenneHngpyseboroMexaHN3MaNpysieborokoneca; 28 -OTCyTCTBNe 3a30pa BOBTynkaxpyneBbIX TAr NWapoBbIX 山apHNpaXHaKOHe4HNKOBpyneBbIXTAr; 京 中 2 1 EMCNN 190
 
 ### BO3MOXHbIEHENCNPABHOCTNPY几EBOrOyNPAB几EHNЯ, NXNPNYNHbIN CNOCOEbIyCTPAHEHNA
-`kia_rio_en_0958d8ca` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a95458b0287ece8a68758553aa0ee4bf573c54e37d4eac50f1a3d3f8ffe73092.webp)
 
 4.pOBepbTeCOCTogHne3auNTHbIx4exnOB pyneBbIx TAr. oBpexAeHHbleyexnbl 0693aTenbHO3aMeHNTe.
 
 ### NPOBEPKACBObOAHOrO XOAA(JIOΦTA) PynEBOroKONECA
-`kia_rio_en_c9e406f4` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pn yBenNeHHOM CBo6OAHOM XOAe pyne-BOrOKOneca3aTpyAHgeTcgynpaBneHNeaBTO-MO6nneM,TakKakOHCono3naHneMpearnpy-THaANCTBN BOANTenA. KpOMeToro,ybe-nnyeHHbIn XOA, KOTOPbIN He yAaeTcAycTpaHntbperynnpoBkonpyneborOMexaHN3-Ma,CBNAeTenbCTByeT HencnpaBHoCTNpyne-BOro ynpabneHng (ocna6neHne kpenneHngpyneBoroMexaHN3Ma,pyneBbIXTarWnNN3HOCNXAeTanen).
 
@@ -9727,7 +9185,6 @@ rneL-noT pyneBoroKoneca，MM;π=3,14; D-HapykHblANaMeTppyneBoroKoneca, MM.
 -HaAeXHOCTb3aT9XKN NCTOnOPeHNg raeknanbueB 山apoBbIxWapHnpOB;
 
 ### L=（5°/360°πD,
-`kia_rio_en_54bc597a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.pOBepbTe COCTOAHNe 3a山NTHbIX 4eXOB HaKOHEYHNKOB pynebbIx TAr. 3aMeHNTe nopBaHHbIe, noTpeckaBWnecA WnN nOTepABwne 3naCTN4HOCTbyexbl. 3
 
@@ -9758,14 +9215,12 @@ HayananobopotanepeAHNX konec. B TaKOM NONOXeHNNHaHeCNTe Ha 060A pyneboro kOnecaB
 4. N3MepbTeno o6oAy pacctORHNe MeKAy MeTKaMN.OHOAOXHO 6bITb He 6onbwe pacC4NTAHHOrO 3Ha4eHNA. Ecnn paccTORHNe (CBO6OAHbIn XOA pyneboroKoneca) 6onbwe, Heo6xOANMO yCTaHOBNTb npnunHy NycTpaHNTbee.
 
 ### CHATNENYCTAHOBKAPynEBOrO KONECA
-`kia_rio_en_7b507452` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/b1ac075870018ab72ed86cf93f2855912657c70d0d8e4726eab5c5bb039cc636.webp)
 
 BaM noTpe6yIoTCA: Topuobas ronobka “Ha21",Mapkep.
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_59234941` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AANarHOCTNKN NpeMOHTa 3neKTpOHHbIX CNCTeM nacCNBHON 6e3onacHoCTN (SRS) Tpe6yIOTCACneunanbHoe o6opyAOBaHne M OCHaCTKa. B cnyyae BbIxOAa NXN3 CTposo6pawantecb Ha CneLNaNN3NPOBaHHyIO CTaHUNIO TeXHN4eCKOrO O6cnyKNBaHng. Bo N36exaHne Nonyyennn TpaBM OTHeCaHKuNOHNpOBaHHOrOCpa6aTbIBaHNS nNPOTeXHNyeCKNX 3aPsAOB He nPOBOAnte CAMOCTOSTeNbHO pa36opky 3JeMeHTOB CNCTeMbl.OAHaKO npnpemoHte pyneboro ynpabneHNg,anektpoo6opyAoBaHns N Ky30Ba MOAynb NOAy山kN 6e3OnaCHoCTN BOANTeng MOXeT npeNTCTBOBaTbnpOBeAeHNIO pa6OT.NpN Heo6xOANMOCTN ero CHATNA NyCTaHOBKNpa6OTbIMOXKHO NPOBeCTNCaMOCTOATenbHO, CTPoronpnAepKNBagCb cneAyIoWNX npabun 3kcnnyataunn CNCTeMbl.
 
@@ -9793,7 +9248,6 @@ Npn nepBOM BKNIOYeHNN 3axnraHng nocne yCTaHOBKN MOAYNS nOAyWKN 6e3onacHocTN Ha a
 2. CHNMNTe noAyWKy 6e3onacHoCTN (CM. "CHaTNe NyCTaHOBkanoAy山kN6e3onacHoCTN.BOANTEnA", c.293).
 
 ### 3. COXMNTeNKcaTop...
-`kia_rio_en_1ff65723` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/00987219da544b178285ef95b794b8ea33b2747ea75c46b894da63bb36b4be8e.webp)
 
@@ -9809,7 +9263,6 @@ Npn nepBOM BKNIOYeHNN 3axnraHng nocne yCTaHOBKN MOAYNS nOAyWKN 6e3onacHocTN Ha a
 6. Ocna6bte 3ataxky ravikn kpenneHng pyneborokoneca KpyneBomyany,yAepnag pyneBOeKOnecOOTnpOBOpa4NBaHng.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_eb526261` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 raiky kpennehns pyneboro koneca HeOTBOPaUNBaNte nOnHOCTbIO, NHaye npn CHATNN pyneBoro koneca pykaMN MOKHO HAHeCTN ce6e TpaBMy B Cny4ae ero pe3korO OTcoeANHeHngOT pyneboro Bana.
 
@@ -9824,7 +9277,6 @@ raiky kpennehns pyneboro koneca HeOTBOPaUNBaNte nOnHOCTbIO, NHaye npn CHATNN pyn
 9...CHumnte pyneBoe Koneco 10. ycTaHOBNTe pyneboe koneco BNopnAke O6paTHOM CHATNIO, COBMeCTNB MeTKyHa ero CTynNue C MeTkon Ha Topue pyneBoro Bana. 11.YCTaHOBNTeBCeAeTanN BnopaAke,06- PaTHOMCHATNIO.
 
 ### BaM noTpe6yeTca OTBEPTKa C KpectO-o6pa3HbIMNe3BNeM.
-`kia_rio_en_19566daa` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTCOeANHNTe nPOBOA OT KeMMbl“MNHyC"aKkyMyngTopHon6aTapen. 2. CHNMNTe pyneboe KOneco (cM."CHATe yCTaHobka pyneBoro koneca",C.163).
 
@@ -9843,7 +9295,6 @@ raiky kpennehns pyneboro koneca HeOTBOPaUNBaNte nOnHOCTbIO, NHaye npn CHATNN pyn
 ![](images/fb51a71944e76dd6f2f5363c541a070d1523b784799b7882547acc6680b0ff8f.webp)
 
 ### 6.CHNMNTeBepXHIOIO...
-`kia_rio_en_955810ca` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/424c6f7dcbfc5cbd608450ce21c009f71e25648fc45999301776258384936524.webp)
 VIINTCGT.RNHGNKSEZABTEEORNEONEPON
@@ -9851,7 +9302,6 @@ VIINTCGT.RNHGNKSEZABTEEORNEONEPON
 7.NHNXHIOIO yaCTN KOXyXa pyneBOn KONOHKN. 8. ycTaHOBNTe KOxyx pynebon KONOHKN B noPaAke, 06paTHOMCHATNIO.
 
 ### CHATNENYCTAHOBKA PYNEBONKOJOHKN
-`kia_rio_en_ada650e8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pynebag KOnOHka 一 OANH N3 BaXHenuNx 3eMeHTOB o6ecne4eHng 6e3onacHoCTN AOPOXHOrOABNXeHNg,nO3TOMy3aMeHNTeyCTaHOBNeHHbIe BpynebonKOnoHkeBanblpynebOroynpaBneHng npn HannunncnenyiownxAeΦeKTOB:
 
@@ -9902,7 +9352,6 @@ BaMnoTpe6yIOTCg: KJTIOY "Ha 12", TopLOBag ronOBka "Ha 14， yANNHNTenb, OTBePTKa
 13. .NCHNMNTe HNXHNN wapHup CBana山ecTepHNpynIeBoroMexaHn3Ma. 8
 
 ### NONE3HbN COBET
-`kia_rio_en_9a01a8f8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/d5ab8715f6805214aba2f5972aaa993198c46334145015b048979b1f0437857d.webp)
 
@@ -9927,7 +9376,6 @@ QOON NOYSUHONSSPNRASTON YNOYRTONP
 18. .CHNMNTe BepXHN wapHupnpomeKyTO4HoroBanacpyneborobana.
 
 ### NONE3HbINCOBET
-`kia_rio_en_5801f171` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/0fd84bb8b36ffd387f1cb986eca84f3025a5575ebcf90f72fbbf658ecb5d0f19.webp)
 npn CHATNN npOMexyTOyHOro Bana nOMeTbTe N6bIMAOCTynHbIMCnoCO6OM B3aNMHOe pacnonoxeHne KJeMMOBOrO COeANHeHng BepxHerokapAaHHoroWapHnpa npoMexyTOyHOro BananBana pynebon KONOHKN.
@@ -9935,7 +9383,6 @@ npn CHATNN npOMexyTOyHOro Bana nOMeTbTe N6bIMAOCTynHbIMCnoCO6OM B3aNMHOe pacnono
 19.ycaoe eylonoky XyTO4HbIn Ban N BCe AeTann B nopaAke, 06- PaTHOMCHATNIO.
 
 ### PynEBbIE TAEN
-`kia_rio_en_5f63a634` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3AMEHAHAKOHEYHNKA PynEBON TARN
 
@@ -9944,7 +9391,6 @@ npn CHATNN npOMexyTOyHOro Bana nOMeTbTe N6bIMAOCTynHbIMCnoCO6OM B3aNMHOe pacnono
 BaM noTpe6yIoTcs: KIOYN Ha 16","Ha 19",Ha 22,nc,e HNKWapOBbIXWapHNpOB,naccaTNKN.
 
 ### NPNMEYAHNA
-`kia_rio_en_1d71004f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pa6oTy yAO6Hee BbInONHATb Ha NOAbeMHNKe. MOXHO BbINONHNTb ee N HaaBOmo6nne,yaHOBJeHHOM Ha HaAexHble onopbl.
 3aMeHa HaKOHeUHNKa noka3aHa Ha npnMepe neBoipyneBON Tarn,HaKOHeyHnK npaBon TArN 3aMeHgNTeaHanorn4HO. S
@@ -9954,12 +9400,10 @@ Pe3b6a neboro HAKOHeyHNkanpaBas, anpaboro-neBag.
 1.oAHNMNTeNyCTaHOBNTe Ha onopy nePeAHIOIO 4aCTbaBTOMO6NnA CO CTOPOHbI 3aMeHgeMOrOHaKOHe4HNKa. CHNMNTeKOnecO.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_9880a085` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aTOpMO3Nte aBTOMO6nnb CTORHOYHbIM topM030M NyCTaHOBNTe NOA3aAHNe konecanpoTHBOOTkaTHbIe ynopbl ("6awMakn).
 
 ### NONE3HbIN COBET
-`kia_rio_en_823a4ded` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcNKpenexHbIeAeTanN CnIbHO 3arpa3HeHbl, O4NCTNTe NXMeTannnecKONWeTkON No6pa6oTantenerkonpoHnkaIo山encMa3kon.
 
@@ -9999,12 +9443,10 @@ EcNKpenexHbIeAeTanN CnIbHO 3arpa3HeHbl, O4NCTNTe NXMeTannnecKONWeTkON No6pa6oTan
 1.CHNMnTe pynebon MexaHN3M (CM."3aMeHapyneBoroMexaHn3Ma,C. 169).
 
 ### PEKOMEHAALNA
-`kia_rio_en_66ae484b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Nocne yCTaHOBKN pynebon TArN npobepbTe N npn Heo6xOANMOCTN OTperynnpyute yrnbl yCTaHOBKN KONec BMacTepckon, pacnonaraio山ei cneunanbHbIM o6opyAobaHneM.
 
 ### 3AMEHA PYNEBONTArN
-`kia_rio_en_0282ae43` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/b96e9c21ae52a910f49555b41f09735896211aec0ba041995697f02258625956.webp)
 
@@ -10040,7 +9482,6 @@ BaM noTPe6yIOTcR:KnIOuN Ha 19",“Ha 22",“Ha32",acca,epkan CKNMe3BNeM.
 8. CABNHbTe yexon no Tare N OTBepHNTe BHyTpeHHnn wapoBOn 山apHnppyneBon Tarn.
 
 ### NONE3HbINCOBET
-`kia_rio_en_f495529a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpNOTBopaynBaHnNpeiikypyneBoroMexaHN3Ma AyAO6CTBa3aXMNTeBTNCKNCMrKNMNry6KaMN(NnN yepe3 HaKnaAKn N3 MsrkorO MeTaia).
 
@@ -10058,12 +9499,10 @@ NpNOTBopaynBaHnNpeiikypyneBoroMexaHN3Ma AyAO6CTBa3aXMNTeBTNCKNCMrKNMNry6KaMN(NnN
 -npoBepbte 3a山nTHbln yexonpyneBon T9- rn. EcnNHa yexneo6HapyxeHblTpeWNHbl, 3aMeHNTeero; 二 yCTaHOBNTe HOBble XOMyTbI KPennenng 3a山NTHoro yexnapynebon Tarn. A A8
 
 ### PEKOMEHAALNA
-`kia_rio_en_1f68f6d5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Nocne yCTaHoBkN pyneBon penkN n BCexAeTa-enpoBepbTe NnpN Heo6xoANMocTnOTperynn-pyuiteyrsbI yCTaHoBkN KOnecBMaCTepckon,pac-nonaralowencneunanbHblMo6opyAoBaHneM.
 
 ### 3AMEHAPABO4ENKNAKOCTN NNPOKAYKA CNCTEMbI FNAPOYCNNNTENA PynEBOrO YNPABNEHNA
-`kia_rio_en_f4d30ab8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/ada0124185d7e6d1f9cdef7f5d7b756df8ab5776ee3b6b2bf4ea120fb9dd9584.webp)
 3.Ocna6bre xoMyT kpenneHngKTpy6onpo-BOAy Hacoca rnAPoycnnnTenn pyng nNTaio-山ero山naHra,c\*aBnaccaTnxaMneroOTor-HyTbleyWKN.
@@ -10075,7 +9514,6 @@ A3ameHbI pa6oyeuAKOCTN B CNCTeMe ruAPOycnnnTeng pyneboro ynpabneHng BbInOnHNTe C
 BaM NOTPe6yIOTCA: naccatnxn, yAINHNTenb NronoBka“Ha24".
 
 ### NPNMEYAHNE
-`kia_rio_en_a09341eb` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npn CNNbHOM 3arpa3HeHnn N NOTeMHeHNN KNAKOCTN npOBepbTe NCnpaBHOCTb Hacoca rNApoycnnnteng pyneboroynpabneHng. B03- MOXHO, eroHeo6xOANMO3aMeHNTb.
 
@@ -10104,7 +9542,6 @@ npn CNNbHOM 3arpa3HeHnn N NOTeMHeHNN KNAKOCTN npOBepbTe NCnpaBHOCTb Hacoca rNApo
 9. OTCOeANHNTe OT Hacoca HanopHblTpy6onpobon C ynnOTHNTenbHONn wan6on, yctaHOBNEHHON NOA Hen. pN3TOMBO3MOKHOBblTekaHne He6onbworo KOnNyeCTBa pa6o4en WAKOCTNN3Tpy6onpOBOAa Hacoca.
 
 ### NPNMEYAHNE
-`kia_rio_en_daee8055` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/537e02efb92927d42d6cd0fadf5454be6448f58a8ac514b1dfe5ee68994a79e3.webp)
 Npn c6opke 3aMeHNTe ynnoTHNtenbHbie wan6blHOBbIMN.
@@ -10118,7 +9555,6 @@ Npn c6opke 3aMeHNTe ynnoTHNtenbHbie wan6blHOBbIMN.
 Heo6xoANMOCTb npOka4keBO3HNKaeTnpN nonanaHnn BrNApaBnN4ecKyioCNCTeMy B03- Ayxa BOBpeM3aMeHblNAKOCTW, npobeAeBNA peMOHTHbIXpa6oT WNN npn HapyweHnn repmeTn4HoctNnpN ЗkcnniyaTaunn. Npn3HaKOM BAnnunn BO3Ayxa B CNCTeMe AATCR nOAKnNHNBaHNepyneBorOKOnecanpNnonblTke pe3koronoBopOTa.KpoMeToro,HacocN3- AaeT nOBbIWeHHbIn WyM B MOMeHT nOBOpOTa pyneborokoneca, aNAKOCTb B 6a4keo6blyHO BCNEHNBAETCA.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_70f57118` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Hannyne BO3Ayxa BCNCTeMe rnApoycnnnteng pyneBoro ynpabnehnsnPnbognt npexgebpeMeHHOMy BbIXOAy N3 CTPOA HacocarnApoycnnnTens.
 
@@ -10129,7 +9565,6 @@ Ang npokaukn CNCTeMbI uApoycnnnTenn pyneboro ynpabneHng BbInOnHNTe cneAyio山ee.
 2.yCTNTeABNraTenb, nOBepHNtepyneboe koneco nATb-WeCTb pa3 B 06e CTOPOHbI AO ynopa. 3. 3arnywnTe ABuraTenb Aonentepa6o4yIOXNAKOCTbAOMeTKN“MAX>. 4. NOBTOpaNTe nn. 2-3A0 Tex nop,noka ypOBeHb B 6a4keHenepeCTaHeTnOHNxaTbCg.
 
 ### 3AMEHA BA4KA APOYCNNNTES PYSEBOrOYNPABNEHNA
-`kia_rio_en_f9796121` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5a1075a0d54eb4c47d48fe434ec459b24c54ae4a2ee0c9ccba2b5d93fb48418c.webp)
 
@@ -10170,7 +9605,6 @@ BaMnoTpe6yIoTcg:naccaTnXN,OBep-ka CnnOCKNMNe3BNeM. MA
 9. Aonenite XnAKOCtb B6a40KAO MeTKN "MAX" NyAannte BO3AyX N3 CNCTeMbI rnAPoycnnnTeng pyneboro ynpabneHng (CM. 3aMeHapa6oyeinAkoctu Nnpoka4ka cNCteMbl rnApoycnnntengpyneboro ynpaBneHN9,C.167).
 
 ### 3AMEHAPYJEBOrOMEXAHN3MA
-`kia_rio_en_77c49add` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/13cc161b7a7faef37e85effb8b64739f0507b8a2917c0f7a81efdf1153f9c478.webp)
 
@@ -10236,19 +9670,16 @@ BN 11...N CHNMNTeTpy6onpOBOA. HHBUBE
 17...N CHNMTe pe3NHOBbl ynnOTHtenb C pyneboroMexaHN3Ma. 3 KMNH
 
 ### NPNMEYAHNE
-`kia_rio_en_3d3df237` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CNnbHO 3aTBepAeBWnn NSN noTpeckaBWnNcA ynnOTHNTenb3aMeHNTe.
 
 5 18. ycTaHOBNTeAeTanN BnopaAke, o6paTHOMCHATnIo.3anOnHnTeCNCTeMyrnApoyCNnNTeng pyneboro ynpaBnehngpa6oyen KNAKOCTbIO NyAannte N3 Hee BO3Ayx (CM.3aMeHa pa6o4en KNAKOCTN N npoka4ka CNCTeMbI rNApoycnnntens pyneBoro ynpaBneHng",c.167).
 
 ### PEKOMEHAALNA
-`kia_rio_en_0fdecbe9` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocne yCTaHOBKN pyneboro MexaHN3Ma npo-BepbTe N npNHeo6xOANMOcTN OTperynnpyiteyrnbl yCTaHOBKN BMaCTepckon, pacnonaraio-山ei cneunanbHblM o6opyAoBaHneM.
 
 ### 3AMEHAHACOCA FAPOYCNNNTENS PySIEBOrOyNPABNEHNЯ
-`kia_rio_en_a81a4e17` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/7399616112b373b88f236f319fd328d3ee9d6c46e39a89d8b156fe2381fb9718.webp)
 
@@ -10303,7 +9734,6 @@ BaM noTpe6yIoTCg: KIOYN NN TopuoBbleronOBKN“Ha 12》,“Ha 14",“Ha19",“Ha 
 11.CHNMNTe ynnOTHNTenbHyIOwan6y.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_990fffad` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 12. CnOMOwblo Wnpnua OTka4aiite OcTaTKNpa6o4en NAKOCTN N3 Hacoca rnApoycnnNTeng.
 
@@ -10322,7 +9752,6 @@ NpuMnte Mepbl, npeAoTBpauaiomne BbITekaHnepa6oyennAkoctn N3 Tpy6onpoBoAa, 3arnyw
 ![](images/ac90091be76d249a3d65bbdccd1081db43556c1448529c08aa43ac16db8ecebc.webp)
 
 ### 17..NCHNMNTe Tpy6onpoBoA.
-`kia_rio_en_1e627278` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/7b4c88b5bf06a4ba97f88988453fa975ae7f5e51d9fafd27f50defa11b974bc5.webp)
 
@@ -10346,7 +9775,6 @@ NpuMnte Mepbl, npeAoTBpauaiomne BbITekaHnepa6oyennAkoctn N3 Tpy6onpoBoAa, 3arnyw
 22.YnepXNBagMOHTaKHoNnOnaTkoWKNB HaCOcaOTnpOBOpayNBaHNa,OTBepHNeraky kPenneHng WKNBa N CHNMNTe WKNB Hacoca rnApoycnnnTeng. O 23. ycTaHOBNTe HacocrnApoycnnnTengpyneBOrOynpaBneHNgBnOPAAKe,O6paTHOMCHATNIO. 24.ycTaHOBNTepeMeHbnpNBOnaBCnOMoraTenbHblXarperaTOB(CM. 3aMeHapeMHgnpNBOnaBcnoMoraTenbHbIxarperaToB,c.202). 2 25. 3anente XNAKOCTb B CNCTeMyrNAPOycunntengpyneboroynpabnehng NyAannte N3HeeBO3Ayx(cM.3aMeHapa6oyeiNAKOCTNNnpokaukacncteMblrnApoycnnntengpyneBoroynpaBneHn",C. 167)
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_3696c597` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ABTOMO6Nnb 06opyAOBaHABYMA He3aBNCNMbIMN TOPMO3HbIMN CNCTEMAMN: pa6o4en N CTORHOYHON. NepBas, OCHaweHHag rnnpabnn4eCKNMnpnBOnOM,o6ecne4nBaeTTOpMoxeHne NPNABNKeHNNaBTOMonns, BTOpas3aTOpMaNBaeTaBTOMO6nnb Ha CTOAHKe. Pa604ag CNCTeMaAByXKOHTypHag,CANarOHanbHbIMCOeqNHeHNeM TOPMO3HbIX MexaHN3MOB nepeAHnx N 3aHNXKOnec. NepBbli KOHTyp ruAponpBona o6ecneynBaeT pa6oTynpaboro nepeAHero N 几eBOrO3anHeroTOpMO3HbIXMeXaHN3MOB,BTOpon -eBoronepeqHeroNnpaboro3aHero.
 
@@ -10369,12 +9797,10 @@ PNc.9.2.Top3HoN Mexa3M3AHerooneca:1,11-anpaBnoenanbblCynnopa(noBKoo6b);2-no ABNK
 CTORHOUHbIN TOPMO3, nPNBOANMbIn B AeNCTBNeMexaHNyeCKN, COCTONT N3 pblyara, yCTaHOBNeHHOrOHaOCHOBaHNNKy3OBaMeXAy HpeAHNMNCNAeHAMn, nepeAHerOTpoca C perynnpoBoyHbIM yCTPONCTBOM N ypaBHNteneM,KKOTOpOMynpNCoeANHeHblABa Tpoca,N pbl4arOB,yCTaHOBneHHbIX R TOPMO3HbIXMexaHN3MaX3aAHNXKOneC.
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_27077812` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CTORHOYHbIN TOPMO3He Tpe6yer oco6oro yxona. Npn TekyWeM peMOHTe npoBepbTe CTeneHbN3HOca3y6beB ceKTOpa N co6a4kn. Npno6HapyxeHnno6pbiBa TPOCOB3aMeHNTe WXHOBbIMN.
 
 ### NONE3HbINCOBET
-`kia_rio_en_9325a68e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HekoTopbIe BOANTeNN, CTPeMACb nOMeHbWe N3HaWNBaTb Tpocbl CTORHOUHORO TOPMO3a, CTapaIOTCA pexe NM nonb3OBaTbCs. Takag WKOHOMNR NPNBOANT K o6paTHomy pe3ynbtaTy:Tpoc,peAkonepemewascb Bo6onoyke,noCTeNeHHO TePAT NOABNKHOCTb, ero 3aKJNHNBaeT,B pe3ynbTaTe Tpoc o6pblBaeTcs. To3TOMy nonb3yNTeCb CTOAHO4HbIM TOPM030M BO BCex cny4agx,KOrAa3To Heo6xoANMO.
 
@@ -10404,7 +9830,6 @@ CNcTeMa ABS o6ecneunBaeT cnenyiowne npenMy山ecTBa:
 行 COKpa山eHNeTOpMO3HOrO nyTN npn 3k-CTPEHHOM TOPMOKeHNNC coxpaHeHneMKyp-COBONyCTON4NBOCTNynPaBnAeMOCTNaBTO-MOONngBTOM 4ncne NBnOBOPOTe.
 
 ### NONE3HbINCOBET
-`kia_rio_en_3b813703` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B cny4ae HeNCnpaBHOCTN CNCTeMbl npeAyCMOTpeHbI ΦyHKuNn ANarHOCTNKN N nOAAepxaHNapa6oTbInpNOTka3axCNCTeMbl.
 
@@ -10413,14 +9838,12 @@ PacnonoxeHne3neMeHTOB, npnHunnAenCTBNA N B03MOXHble HeNcnpaBHOCTN CNCTeMbl ABSpa
 rnApaBnnyeckas CNCTeMa TOPM030B06beANHeHa B eANHoeuenoe MeTannyeckn-MNTpy6onpobonaMN NWnaHraMn. CncTeMa3anonHeHacneLNanbHonTOpMO3HONAKO-CTbIO Kacca He HNKe DOT-4, KOTOPyIOHeo6xonNMOnepnoAN4eckN3aMeHTb. nopa-AOK3aMeHbITOPMO3HONAKOCTNN npobep-KaTOpMO3HOCNCTeMbIOnNCaHbIHNXe.
 
 ### NPOBEPKA TOPMO3HON CNCTEMbI
-`kia_rio_en_7ff53a22` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CnNWkoM Manbli pa6ouni xon nenann TopMO3a CBNAeTenbCTByeT 。 HenpaBunbHon HayalbHoN ycTaHoBkenenannTopMo3a,HapyweHNNperynnpOBkN BaKyyMHOrOyCunTeng TopMO30B 3aeAaHnnpa6oyeroLunnHApa, 06- yCNOBnNBaeTnOBbI山eHHblpacxoA TONNBa N yCKOpeHHbI/ N3HOCTOPMO3HbIXKOnOAOK.CnN山- KOM 60nbwon pa6o4nnxoA - npN3Hak CBepxHOPMaTNBHbIX 3a30pOB B MexaHN3Me nenann WnwHapyweHnsrepMtuuHocthruAPonPnBona TOPMO3HONCNCTeMbl. Ecnnpa6ounixoA yMeHbWaeTCANPN HeOAHOKPaTHOMHaKATNN Ha neAanb, T.e.OHaCTaHOBNTCЯ“KeCT4e",-BCNCTeMeBO3AyX. EcnNnonHblxoAnenanN HaynHaeT yBenN4NBaTbCg,CNCTeMaHerepMeTN4Ha. 3 中 Ecnnnpn TOPMOxeHNNnenanbTOpMo3aBCerAa Ha4NHaeT BN6pnpoBaTb, BePORTHee BCero, nokOpo6nIeHblTopM03Hble ANCKN. B Takon cnTyaunn Heo6xoANMO yCTAHOBNTb ANCK(ANCKN) kakoroKoseca (nepenHerownn 3anHero) nokopo6neH, N 3aMeHNTbCpa3y 06aANckaCCOOTBeTCTByIOLeNOCN aBTOMOOWIA. Nepnonnueckn BHnRSILSnCO NNcye3aiowanBnpaungnenannpnpe3kOM TOpMOXeHNNconpoBOXAaerpa60TyaHTN6nOKNpOBO4HOCNCTeMblTOpMO30BN HeBIAeTCAnPN3HaKOMHeNCNpaBHOCTN.
 
 Ecnn npNTOpMOkeHNn MaWNHyHa4NHaeT TaHyTbBCTopOHy,npoBepbTepa6oyneLNnNHApbl-BO3MOKHO,nOTpe6yeTC9 NX3aMeHa. ECnNBnepeAHeN nOABecke nogBNncg CTyK, nponanaowinnnpnTopmoxeHnn,npobepbTe 3aTAxky6onToBkpenneHng cynnopTa.q
 
 ### NPOBEPKAЗΦ中EKTNBHOCTN O PABOTbITOPMO3HONCNCTEMbI
-`kia_rio_en_e9d8a2ec` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpoBepatb 3ΦΦeKTNBHOCTb pa60Tbl TopMO3HON CNCTeMblXenaTenbHOHa cneunanbHbIXTOPMO3HbIXCTeHAaX. BKpaiHeMcnyyae OpNeHTNpOBO4HyIOKOMnneKCHyIOOLeHKypa6OTblTOPMO3HONCNCTeMbIMOKHOBbInONHNTb HapOBHon ropn3oHTanbHon nnouanke, 3aKPbITONAABNXeHNgTPAHCnOPta. V OTE
 
@@ -10429,18 +9852,15 @@ ABTOMO6unb6e3Harpy3KN（BCanoHe TOnbKO BOANTenb) pa3rOHNTeAO CKOPOCTNnpNMePHO 15
 EcnNabTOMO6nnbOCTaHOBNnCg6e3OTKnOHEHNA OT APHMONNHNHOrOABNKHn, a3aMeeHne 6bIno AOCTaTO4HO NHTEHCNBHbIM, TOPMO3HyIOCNCTeMyMOXHOC4NTaTbNCnpaBHo.BnpOTuBHOMCny4aenpOBepbTeCOCTORHNe3neMeHTOB npn Heo6xoANMOCTNOTpeMOHTNpyUTeCNCTeMy. ROTO INPGXSH roh
 
 ### NPNMEYAHNE
-`kia_rio_en_4b814c77` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AoxHbIconIoAaTbcs cneAyIoune cooTHomeHANHbITOPMO3HbIXCAOB (pnc.9.4): Lneb.nep, =LnpaB. nep.
 LneB.3aAH.=LnpaB.3aAH. 0 TEXRHP Lnep.>L3aAH.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_56029363` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnnnpN aHanornyHon npoBepke abtomo6nng, OCHaWeHHOrO ABS, TOPMO3Hble cneAbl 6yAyT BNAHbI YeTKO, TO aHTN6nOkNPOBO4Hag CNCTeMa TOPMO3OBHeNCnpaBHa.B3TOMCy4ae CPO4HO o6paTNTeCbBaBTOCepBNCIs eepeMOHTa. He3noynoTpe6nsnte noAo6HonoueHkon, n6o OHa CBs3aHa CnOBbIWeHHbIM OAHOCTOPOHHNM N3HOCOMWNH. 2
 
 ### NPOBEPKA HHNIKEUUN NPEFYNNPOBKANEAANN TOPMO3A
-`kia_rio_en_30b78948` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.yCTnTeABnraTenb,OCTaBbTeeropa60- TaTbHapeKNMexOnocTorOxona NHeCKOnbKO pa33Hepru4HO HaXMNteHaneAanbTopMO3a. 2.OTTaHNTe neAanb TOpMO3apykon BBepX Aoynopa.
 
@@ -10455,12 +9875,10 @@ EcnnnpN aHanornyHon npoBepke abtomo6nng, OCHaWeHHOrO ABS, TOPMO3Hble cneAbl 6yAy
 OK 5. OcTaHoBkaneAannnpn HaxaTuNnpaktu4eCkNy caMorononayka3blBaet HaHannyne BO3Ayxa B rnAPonPnBOAe TOPM030B NnN Ha npeAenbHbI N3HOCHaKnaAOKTOpMO3HbIXKOOAOK,TOPMO3HbIXANCKOB Ecnn B CNCTeMe eCTbBO3Ayx,nenanbnpN HecKOnbkxnOBOpHbIXHaKaTNXOCTaHaBNBaeTCAAab山e OT nona (Haka4NBaeTCa).IpoBepbTen 3aMeHNTe N3HOWeHHble AeTann, N npokayante TOPM03HyIO CNCTeMy (cM.“lpokaukarnAponpBOnaTopMO3HoN cNCTeMbl,C.179).
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_1c7a3cde` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnNHaxatag A0 ynopa NyAepxNBaeMag B3TOMnonoxeHnNneAanb nocTeneHHOnepeMe-山aetcs Knony, npon3owna yTeyka KNAKOCTNN3 rnAponpnBoAa NN HencnpaBeH rnaBHbInTOPMO3HON LNNNHAP. 3TN HeNCNPaBHOCTNOueHb OnaCHbI,nOTOMy HeMeAeHHO BbIBNtenpNUNHyHeNCNpaBHOCTNNyCTpaHNTeee! 200
 
 ### BO3MOKHbIEHENCNPABHOCTNTOPMO3HON CNCTEMbl,NXNPN4NHbI NCNOCOEbIyCTPAHEHNЯ
-`kia_rio_en_9a241c26` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/35a72e7cd1ac917a418c2c1089be68a8b4ef0b3acdca605987d7c4de73cd5b65.webp)
 
@@ -10501,7 +9919,6 @@ CTON-CNrHanOBTaK,4TO6bIBbIKIO4aTenbOCTaBancA HaxaTbIM npn NONHOCTbIOOTNY山EHHON
 6.ycTaHOBNTe AeTanN BnopaAke o6patHOM CHTNIO.
 
 ### NPOBEPKAFEPMETNYHOCTN TNAPONPNBOAA TOPMO3HON CNCTEMbI
-`kia_rio_en_6ba54033` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ang npeAynpeXAeHngBHe3anHoro OTka3a TOPMO3HOCNCTeMbl T山aTenbHOnpOBepante COCTOAHNeBceXTpy6OnpOBOAOB. 3aMeHgiTe AeTann HOBbIMN, ecnn eCTbManenwee COMHeHNeBNXnPNrOAHOCTN. Bce pe3NHOBbleAeTanNTOPMO3HbIXy3OB (山naHrn,MaHxeTbl N Ap.)He3aBNCNMOOTNXCOCTOAHNA3aMeHATe HOBbIMN4epe3 100TbIC.KMnpo6eraNnn7neT 3kcnnyataunn （B3aBNCNMOCTN OT TOro, 4TO HaCTynNT paHbwe), 4T06bl npeAynpeANTb BHe3anHblepa3pblBblN3-3aCTapeHNg.
 
@@ -10512,14 +9929,12 @@ CMOTPOBONKaHaBe); 二 C6OKOBaBTOMO6Nng CO CHATbIMN kone
 caMN.
 
 ### NONE3HbINCOBET
-`kia_rio_en_ad1e0fea` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OcMOTP 4acTN rnAponpnBoAa, pa6oTaiowen nOA AaBneHNeM, nPOBOAnte CNOMOWHNKOM. OHAOnxeH4eTbIpe-nTb pa3HaxaTb HaneAanb TOPMO3a (4TO6bITaKNM 06pa30M CO3AaTbAaBNeHNeBrnApOnpNBOAe) NyAepXNBaTb ee HaxatoN AO Tex nop,noka Bbl HeOCMOTpNTernAPonpnBOA.
 
 OcMOTP rnAponpNBOAa, He HAxoAslerocAnOAAaBneHNeM,AOnyCTNM,HO MeHee 3eK-TNBEH.
 
 ### NPNMEYAHNA
-`kia_rio_en_3888e802` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpN o6HapykeHnN HapyweHng repMeTuuHOCTN COeANHeHNN NOATAHNTe XOMyTbl, 3arnywkn, rankn.
 WnaHrn N Tpy6onpoboAbl C MexaHN4eCKNMN nOBpeXAHNMN3aMeHNte.
@@ -10568,14 +9983,12 @@ WnaHrn N Tpy6onpoboAbl C MexaHN4eCKNMN nOBpeXAHNMN3aMeHNte.
 ![](images/a8a44852f93881ff79bd0201e3d1aa64186302f9cdfa8486b296a9cd40572b3a.webp)
 
 ### 13..NCHNMNTe KOxyx.
-`kia_rio_en_e9735b0c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5124bf14a6b1cc6ecb3823f06630d771160eb6a95f2e4835b2f15f424236cff8.webp)
 
 14.pobepbTeKpenneHneTpy6onpoBOAOB BAepKaTengXHaAHN山eKy3OBa. 15.AHanorn4HonpoBepbTe OCTanbHbleMeCTaKpenneHnTOpMO3HbIXTpy6onpOBOAOB.
 
 ### NPOBEPKA PA5OTbI BAKYYMHOrOYCNnNTENS TOPM030B
-`kia_rio_en_c4a8c547` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpN BbIxOAe N3 CTpORBaKyyMHOrOycnnnTen93Ha4NTebHOBO3paCTaeTyCNnNeHaneAann TOPMO3a, 4TO HeraTNBHO CKa3bIBaeTCЯ HaynpaBneHNNaBTOMo6NnIeM. SNHD
 
@@ -10609,14 +10022,12 @@ Ang npobepkn o6paTHoro KnanaHa Bbl-nOJHNTecneAyio山ee.
 6.ycTaHOBNTeO6paTHblKnanaHBnopgA Ke,O6paTHOMCHATNIO. 580
 
 ### NPNMEYAHNE
-`kia_rio_en_58dc72bd` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/ed840f224838a100f0949e70c50edee3374c67e85d0d6aa2866263a4fd691025.webp)
 
 NpN yCTaHOBke o6paTHoro KnanaHa o6paTnte BHNMaHNe Ha TO, 4TO WTyuep A 6enoro uBeTa yCTAHaBANBaIOTBBaKyyMHbINWnaHr CO CTOPOHbl BakyyMHorO yCnnnTens, aWTyuep 64ePHoro 4BeTa - CO CTOPOHbI npOMexyTO4HON Tpy6- KN. Kpome Toro,Ha kopnyce o6paTHoro KnanaHa OTWTaMnOBaHbl CTpenKN B HanpaBnehng nOTOKa BO3Ayxa.
 
 ### NPOBEPKACTENEHN N3HOCA TOPMO3HbIXKOJOAOK,ANCKOB
-`kia_rio_en_9703c2e3` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BTOPMO3HbIXKONOAKax TOPMO3HbIXMexaHN3MOBnepeAHN...
 
@@ -10630,7 +10041,6 @@ BTOPMO3HbIXKONOAKax TOPMO3HbIXMexaHN3MOBnepeAHN...
 4To6blHeo6xOANMOCTb3aMeHblKOnOnOKHe 3actana Bac Bpacnnox, HeAoxnAaiTecb cpa6aTbIBaHNg CNrHanN3aTOpa N3HOca. NepeA AanbHennoe3Akonnnn npNnepecTaHoBkeKOneCBN3yanbHO npoBepate CTeneHb N3HOca KONOAOKNANCKOBTOPMO3HbIXMeXaHN3MOB.
 
 ### NPNMEYAHNE
-`kia_rio_en_b937ce19` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn npn TOPMOKeHNN aBTOMO6nb YBOANT B CTOPOHy NnNCnbIWeH nOCTOPOHHNN WyM,nPoBepbTeCOCTORHNeTOPMO3HbIXKONOAOK.
 
@@ -10647,7 +10057,6 @@ BaMnOTpe6yIoTcg:山TaHreHuNpKynb,MNKpOMeTpN OTBePTKaCnOCKNMe3BNeM.
 4.NpoBepbTe 4epe3 OTBepCTne BKOpnyce cynnopta COCTORHNe KONOAOK TOPMO3HbIX MexaHN3MOBnepeAHNXKONec.
 
 ### NPNMEYAHNE
-`kia_rio_en_2cb4714a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/caa9b0b7e7706a011f20c32594f27667d58caaf952cf6d080ca4cdb06107c17d.webp)
 
@@ -10672,7 +10081,6 @@ N3MePSIOT TOnbKO TOnwNHypnNOHHnHaKnaAKN (Ang HArnSAHOCTN nOka3aHO Ha CHATON KOnO
 3. pOBepbTe4epe3OTBepCTNeB kopnyce cynnopta COCTOAHNe KONOAOK TOPM03HbIX MexaHN3MOB3aAHNXKOne...
 
 ### NPNME4AHNE
-`kia_rio_en_4d5c56f5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 N3MePRIOT TOnbKO TOnWNHypnKuNOHHOn HaKnaAKN ANAHARNAAHOCTN nOka3aHO HaCHATON KOnoAke).TonwnHa MeTannnyeckon nnacTNHbI OCHOBAHNgKOnOAKNnPN N3MePHNN HeyUNTblBaeTcs.EcnN TOnWNHa ΦpNKLNOHHbIX HaKna
 
@@ -10682,7 +10090,6 @@ AOK MeHbwe AonycTnMon (Ta6n.9.1),3aMeHnTeTOpMO3HbIeKOnOAKN (CM.3aMeHaTOpMO3- HbI
 4. .NTOPMO3HbIXANCKOB TOPMO3HbIXMeXaHN3MOB3aAHNX KOnec. 龙 6a
 
 ### NPNMEYAHNE
-`kia_rio_en_4b773d38` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/e5e60adf1169b0d80e35428e11bcfcc94b7a7ac94cc354a989cc40fe9ccdaa34.webp)
 Ha nOBepXHOCTb TOPM03HOrO ANCka 3aAHero koneca HaHeceHbIKneNMeHNeM 3HayeHN9MNHNMAbHON TOn山NHbI TOPMO3HOrOANCKapa6o4eN TOpMO3HON CNCTeMbl.
@@ -10692,12 +10099,10 @@ Ha nOBepXHOCTb TOPM03HOrO ANCka 3aAHero koneca HaHeceHbIKneNMeHNeM 3HayeHN9MNHNM
 5.poBepbTe nOABuKHOCTb nopHen NHa-APabnnoinx nanbLeBTOpMO3HbIXMexaHN3-MOBOTBEPTKON, BCTABNeHHOMeXAyANCKOMN TOPMO3HON KONOAKOn. Ecnn KONOAKN HeyAaeTca CABNHyTb, 3Ha4NT,3aKNHnO nop-WeHb BTOPM03HOM LNNNHAPe NnN Hanpa-Bnaiowne nanbubI cynnopta.
 
 ### NPEAVNPEKAEHNE
-`kia_rio_en_ea30a85e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocne HKOHYAHNN npobepok HeCkOnbkO pa3 HaKMNTe AO ynopa Ha neAanb TOPMO3a. 3TO Heo6xoANMOAngTOro,4To6bl BbI6paTb 3a30pbl BTOPMO3HOM MeXaHN3Me,NOgBNBWNeCA nocne BAABnnBAHng NOPHen BLunNHAPbl.
 
 ### NPOBEPKA CTOSHOYHOrO TOPMO3A
-`kia_rio_en_fa5847c6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/b7cb3b5e5c6a120424b389999473acab61d787ca11d5f620daaac0a1d9f14ab5.webp)
 
@@ -10721,19 +10126,16 @@ HTbTOPMO3HyIO KNAKOCTb cneAyeT 4epe3
 BaM noTpe6yoTce:KNIOY “Ha 10,TOpMO3Ha9 KNAKOCTb, npo3pa4Hbln wnaHr, wnpnu nnn pe3NHOBag rpywa, npo3payHbIN COCyA. 福 T 8
 
 ### NONE3HbIE COBETbI
-`kia_rio_en_eaeb3a45` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aMeHy TOpMO3HON XNAKOCTN peKOMeHAyeTCA nPOBOAntb C NOMOWHNKOM, npeABaPNTenbHO yCTaHOBNB aBTOMO6Nnb Ha CMOTPOByIO KaHaBy WJN3CTaKaAy(HenOTpe6yeTCRCHNMaTbKOneca). OyepeAHOCTb 3aMeHbIKNAKOCTN B TOPM03HbIX MexaHN3Max:
 
 -npaBbln 3aAHnn; -neBbln nepeAHnn; -eBbln 3aAHNn; O -npaBblnnepeAHnn.
 
 ### 3AMEHA TOPM03HON KNAKOCTN BTNAPONPNBOAE TOPM030B
-`kia_rio_en_051ed39b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TopMO3Han XNAKOCTb O4eHb rnrpockonN4Ha, nornomaet Bnary N3 BO3Ayxa, 4TO, NOMNMOnoBneHngKoPPonNAetanenTOPMO3HON CNCTeMbI, NOHNXaeT TeMnepaTypy KNNEHNn camon XNAKOCTN, a 3T0 MOXeT npNBeCTN K OTKa3y TOPM030B npn 4acTbIx NHTeHCNBHbIX TOPMOKeHNAX. CornacHo peKOMeHAALNN 3aBOAa-N3rOTOBNTeng 3aMe
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_d30e988c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpnMeHanTe TOpMO3Hble KNAKOCTN, COOTBETCTBYIOWne Knaccy DOT-4.
 Hencnonb3yte CJNTYIOXNAKOCTb NOBTOPHO: OHa 3arpa3HeHa, HacbIWeHa BO3AyXOM N Bnaron.BcerAa AonnBaute B CNCTeMyTONIbKO HOByIoKNAKOctb TOn Mapkn,KOTopag 6bIna 3annTa npexAe.
@@ -10765,7 +10167,6 @@ HN3ManpaBoro3aqHerOkoneca norpy3nte KOHeLWnaHraB 4nCTblnnpo3pa4Hbln cOCyAC TOPMO
 7.OTBepHNTe Ha1/2-3/406opoTa KnanaH Bblnycka BO3Ayxa. N3WnaHra Ha4HeT BbITeKaTbCTapag(rpa3Hag) TOPMO3Hag\*NAKOCTb. enab TOpMO3a BTO BpeMAOnKHa nnaBHO AOTNAO ynopa.KaK TOnbKONAKOCTb nepeCTaHeTBbITeKaTb,3aBepHNTeKnanaHBblnyCka BO3Ayxa.
 
 ### NPNMEYAHNE
-`kia_rio_en_02d31d1b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OCTORHHO CneANTe 3a ypOBHeM XNAKOCTN B 6a4ke,HeAOnyckag ero CHNxeHng HNXe MeTKN “MIN" Ha CTeHKe 6a4ka. no Mepe CHNKHNN yPOBHg AONNBaNTe HOBYIO TOPMO3HyIO KNAKOCTb,4To6bI HeAOnyCTNtb nOnaAaHNsBO3Ayxa BrNAPonPnBOA. TaKNMo6pa3oMo6ecneyNBaeTcs nOCTeneHHOe BbITeCHeHNe CTapON KNAKOCTN HOBON 6e3ocyWeHng rnApocncTeMbl.
 
@@ -10789,7 +10190,6 @@ OCTORHHO CneANTe 3a ypOBHeM XNAKOCTN B 6a4ke,HeAOnyckag ero CHNxeHng HNXe MeTKN 
 15. Aonente TOPMO3HyIO XNAKOCTb AO yPOBH9MeTKN《MAX》 Ha CTeHke6a4karnabHOrOTOPMO3HOrOLNNNHAPa. 3akponiTe6a4ok KpbIWKOn.
 
 ### NPOKA4KA TNAPONPNBOAA TOPM03HON CNCTEMbI
-`kia_rio_en_855000ac` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TNAPOnPnBOA TOPMO3OBnPOKa4NBaIOTAA yAaneHng BO3Ayxa, nonaBwero TyAa npn 3aNONHEHNNXNAKOCTbIOnOcne ee3aMeHbl WNN nocne peMOHta y3nOB rnAponpnBona CBA3aHHoroCeropa3repMeTn3aunen.
 
@@ -10800,21 +10200,18 @@ NpH3HAKu HannunABOAyaBrApOnPBon 一 yBennyeHnexoganenann, ee "MArKOCTb npNOAHOKP
 NepeAnpokauKon rnAponpuBoAa Heo6xoANMOo6HapyKNTbN yCTpaHNTbnpN4NHypa3- repMeTN3aLNN.
 
 ### NONE3HbIN COBET
-`kia_rio_en_9dbb56ba` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn npokayka rnAPonPnboAa CBR3aHa cpeMOHTOM KaKOrO-JN6O OAHOrO KOHTypa N 3aBeAOMON3BeCTHa NCnpaBHOCTbAPyrOrOKOHTypa, TOAOnycTnMa npokauka TONbKO peMOHTupyeMOrOKOHTypa.
 
 AenctBng npn npokauke rnAponpuboAa Ta-Knexe, KaKNnpN3aMeHeTOpMO3HONNAKO-CTN (cM.3aMeHaTOpMO3HoinAKOCTBrW-AponpNBone TopMo30B,c.178).Pa3nu4neCOCTONT nNWb BTOM, 4TOKpNTepneM3abep-WeHng npokaykn pa604ero LNnNHApa BR-eTcgnpekpaweHne BbIxOna ny3bIpbKOB B03-Ayxan3wnaHra, aHenogBnIeHneCBexeNTOp-MO3HONKNAKOCTN.
 
 ### IABHbIN TOPM03HON LNNNHAP
-`kia_rio_en_9edad693` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KaKnoka3bIBaeT npakTnka, BO MHOrNXCnyaAxPeMOHT LNnNHApa B rapaxHbIXyCnOBNAX He NPNBOANT K\*enaeMoMype3ynbTaTy.KpoMe TOro,rnaBHbINTOPMO3HON UNnNHAP HenOCpeACTBEHHO BnNgeT Ha6e3OnaCHoCTbABN
 
 KeHNA. oTOMyBAaHHoMnonpa3neneonncaHaTOnbkO3aMeHa6a4karaBHoro TOPM03- Horo LnnnHApa N caMoro raBHOro TOPM03- HOroLNnNHAPa.
 
 ### 3AMEHABA4KATJABHOrO TOPMO3HOrOLNNNHAPA
-`kia_rio_en_14fa8b39` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/7076b1d3e6713e916b3a11f6dae9f9521fea12689018811cdc38fea2029f95ec.webp)
 
@@ -10847,7 +10244,6 @@ BaMnoTpe6yIoTcs:naccaTnxn,npnu, OTBepTkaCKpeCTOO6pa3HbIM Ne3BNeM.
 8. ...N CHNMNTe 6a4ok, N3Bnekag ero naTpy6KN N3COeANHNTenbHbIXBTynOK.
 
 ### NONE3HbIN COBET
-`kia_rio_en_d64b11b0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3arnywnte WnaHrnoAaunPaGoyennAkocTnB rnaBHbIn LNnNHAPnPNBOAa BbIKIIOYeHNA cuennHNgnIoObIMAOCTynHbIMCnoCoGOM(HanpnMep,BCTaBNB BOTBepcTneWnaHra6ontnoAxoA山erOAnaMeTpa N CTAHYBWnaHrXOMyTOM), 4TO6bInpeAOTBpaTnTb BbITeKaHNe TOPM03HON XNAKOCTN.
 
@@ -10856,7 +10252,6 @@ BaMnoTpe6yIoTcs:naccaTnxn,npnu, OTBepTkaCKpeCTOO6pa3HbIM Ne3BNeM.
 ![](images/e464241d25717d53b93042984679be7a996559789919ffecebadd8b40c1186ae.webp)
 
 ### NPNMEYAHNE
-`kia_rio_en_07378e58` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/f11cdbd82342d9e14d2a19a3e55dbfea6ad63ffc5dc788f664ef760563dd46ab.webp)
 
@@ -10866,7 +10261,6 @@ nepeA yCTaHOBKON 6auka BCTaBbTe B OTBepCTNA rnabHoro TOPM03HOrO UNnNHApa HOBble 
 9.ycTaHOBTe 6a4OK,BCTaBuB eronapy6- KNB COeANHNTenbHble BTYnKN ycunnempykn Aoynopa.
 
 ### NONE3HbIN COBET
-`kia_rio_en_9d89806e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ans oneryenng yCTaHOBKN COeANHNTenbHbIXBTYNOKBLNnNHAP MnaTpy6koB6a4ka BO BTYN-KN CMO4NTe NX CBeXeNTOPMO3HONXNAKOCTbIO.
 
@@ -10877,12 +10271,10 @@ Ans oneryenng yCTaHOBKN COeANHNTenbHbIXBTYNOKBLNnNHAP MnaTpy6koB6a4ka BO BTYN-KN
 11.3aneTeTOpMO3HyIoNnKOCTb.
 
 ### NPNMEYAHNE
-`kia_rio_en_1e6607b0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocne yCTaHOBKN 6a4ka npobepbte rnAponpnBOA TOPMO3HON CNCTeMbI Ha HanN4Ne BO3AyXa. NpN Heo6xoANMoctN yAanTe BO3AyxN3rnApOnpBOAa TopMO3Hon cncTeMbl (cM.poka4ka rnAponpBoAa TopMo3Hon cncteMbI>,c.179).
 
 ### 3AMEHA TABHOrO TOPMO3HOrO LNNNHAPA
-`kia_rio_en_370e77f2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/2db77daf79d7c2e8e2d898759bc760209a34ee1f22ca8a437719b2f4b9cad230.webp)
 
@@ -10891,7 +10283,6 @@ BaM noTpe6yIoTcs: Topuobas ronobka "Ha 12",naccaxn,npu..
 ![](images/e46dfa5008ea4977c85632d1d7e04a190a92ea405c7f429d73d364f8d2173eec.webp)
 
 ### ...N cneunanbHblKoyHa 11ngraeKTOpMo3HbIxTpy6onpoBOAOB. 我子 4
-`kia_rio_en_87ba1d55` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTBepHNTe N CHNMNTenpo6ky cropnoBNHbI6a4karnaBHoroTopMo3HoroLNnNHApa. 2.OTka4anTeTopMO3HyIOXNKoCTbN36a4- ka raBHOrOTOPMO3HOrO LnnNHAPa pe3NHOBON rpywen NnN 60bwnm MeANLNHCKNM 山npnueM N3akpoitenpo6ky6a4ka.
 
@@ -10912,7 +10303,6 @@ BaM noTpe6yIoTcs: Topuobas ronobka "Ha 12",naccaxn,npu..
 6..OTBennTe Tpy6onpoBOAbl BCTOPOHy.
 
 ### NONE3HbIn COBET
-`kia_rio_en_98b43e54` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3arnywnTeTpy6onpoBoAblIo6bIMAoCTynHbIM Cnoco6oM (Hanpmep,HaAeB Ha NX KOHLbI 3a山NTHbIe KOnnaykN KAnaHOBAn Bblnycka BO3- Ayxa),yTo6bI npeAOTBpaTnTb BbITekaHne TopMO3HON KNAKOCTN.
 
@@ -10921,7 +10311,6 @@ BaM noTpe6yIoTcs: Topuobas ronobka "Ha 12",naccaxn,npu..
 ![](images/468aab05ab29ff35a1176a190f8c3a5df2129cc6e1c5846289dcb48ef793a411.webp)
 
 ### NPNMEYAHNE
-`kia_rio_en_1022624c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/c533492c02b74b0a0efb80a9a9400c2b89f854ea1c6575eeaa81df8b3b4da787.webp)
 TakpacnonoxeHbl ravkn wnnnek kPennenng rnaBHOrO TOPMO3HOrO LNnNHAPa KBaKyyMHOMy ycNnNTenio TOPM030B.
@@ -10929,7 +10318,6 @@ TakpacnonoxeHbl ravkn wnnnek kPennenng rnaBHOrO TOPMO3HOrO LNnNHAPa KBaKyyMHOMy 
 9. ycTaHOBNTe rnaBHbln TOPM03HON unnNHAP B nopaAke, 06paTHOMCHTIO,3anenTe TOPMO3HyIOKNAKOCTb yAannte BO3AYXN3 CuCTeMbl(cM.fpoka4karnAponpnBonaTopMO3HO cCTeMbl,C.179). #
 
 ### 3AMEHA BAKyyMHOrO YCNNNTENn
-`kia_rio_en_6eb39a14` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a721f9607ef15bfffb90d729a5013065a0f57b14ce33d003da1e33f1b008b9e0.webp)
 
@@ -10938,7 +10326,6 @@ BakyMHbliycunNenbTopMO3OBnpenctaBnAeT co6on CnOXHyIO TPyAHopa36opHyiO KOHCTPYKLN
 BaM noTpe6yIOTCe: Topuobas ronObka N KIIOy"Ha13",OTBepTkaCnoCKNMne3BNeM.
 
 ### NONE3HN COBET
-`kia_rio_en_0cc8b222` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/596341cd1ad24673d7634a2036b7590e1191b517e8fd368a3e4365d9a2267f52.webp)
 Ang OTBOPAyNBAHNg TpyAHOAOCTynHbIX raek KpenneHngBaKyyMHOro yCnnnteng BaMnOHaAO6NTCAHa6opTOpLOBbIx rOnoBOK,yAnnHnTenenn BOPOTKOB,nOAO6HbIn N3O6paKeHHOMy HaΦOTO.
@@ -10978,12 +10365,10 @@ Ang OTBOPAyNBAHNg TpyAHOAOCTynHbIX raek KpenneHngBaKyyMHOro yCnnnteng BaMnOHaAO6
 10. EcnNCHAnNBaKyyMHbIN yCunnTenb9 3aMeHbl, CHNMNTe C ero wnnnek ynnOTHNTenbHyionpoksankynepecTabbteeeHaHOBblyCNnNTenb.CunbHOo6KaTyIO WnN HanopBaHHyiOnpOKnanky3aMeHNTe.
 
 ### NOnb3OBaHNNOObIyHbIMNKnIYAMN rpaHnraek CMNHaIOTCA.
-`kia_rio_en_529b45fa` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 11. ycTaHOBNTe BakyyMHbIn ycunntenb N BCe AeTann B nOpaAke, 06paTHOM CHATNIO, 3anente TOPMO3HyIO XNAKOCTb N yAannte BO3AyXN3 CNCTeMbI (cM."poka4ka ruAponpBonaTopMO3HocncTeMbl>,C.179).
 
 ### 3AMEHA WNAHrOB NTPYbONPOBOAOB TNAPONPNBOAA TOPM030B
-`kia_rio_en_379b261a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaaBTOMo6uneyCTaHOBeHO WeCTb TopMO3HbIXWnaHrOB-ABanepeAHNXHaTOPMO3- HbleMexaHN3Mbl nepeAHnx KOnec N 4eTbIpe 3aAHnx(ABa nepeAHnxWnaHra coenNHeHHnTpyoonpobonoB Ha Ky30Be N Tpy6onpoBOAOB Ha 6anke3aAHen nOABeCKN NABa 3aAHNX 一 AA CoeANHeHng Tpy6onpoBOAOB Ha 6anke3anHen nonBeckn CO 山naHramnpa6o4NXLNNNHAPOB).
 
@@ -10997,7 +10382,6 @@ A9 3aMeHbl 山naHra TopMo3Horo MexaHN3Ma nepeAHero koneca BbInOnHNTe cneAyiomee.
 2.OTBepHne raky kpenneHng Tpy6onpoBOAa KHaKOHe4HNKy TOpMO3HOroWnaHra.
 
 ### 3AMEHATOPMO3HbIX山NAHrOB
-`kia_rio_en_4cd2e907` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/aba8f992e208dfc65b476c3fd9532168c8aab2f29518818467e916e514fd508f.webp)
 
@@ -11010,7 +10394,6 @@ BaM noTpe6yIoTcg: KIouN “Ha 10",“Ha 12",“Ha 17”, TopuoBag rOnOBka Ha 12"
 ...N cneunabHbli Knoy Ha 11"Ag raeKTOpMo3HbIxTpy6onpoBOAOB.
 
 ### NONE3HbIN COBET
-`kia_rio_en_009ddb7d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ang OTBOPayNBAHNg raek KPennenng Tpy6oNPOBOAOB BcerAa npnMeHaNte cneunanbHbie KIOUN,TaKKaKraNkN CNJbHO3aTAHyTbIN06bI4- HO KOPpOANpOBaHbl, BCNeACTBNe yero npn
 
@@ -11036,7 +10419,6 @@ Ang OTBOPayNBAHNg raek KPennenng Tpy6oNPOBOAOB BcerAa npnMeHaNte cneunanbHbie KI
 8 NOTCOeANHNTe HaKOHe4HNKTOPMO3HOroWnaHra OTpa6oyeroLnnnHApa.
 
 ### NPNMEYAHNE
-`kia_rio_en_a16d044c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/4f844fa8112daae1d4499c1929ccc521ecc421d55bc732024f3bc136341553a8.webp)
 
@@ -11049,7 +10431,6 @@ Ang OTBOPayNBAHNg raek KPennenng Tpy6oNPOBOAOB BcerAa npnMeHaNte cneunanbHbie KI
 10.YCTaHOBNTe HOBbIWnaHr BnopaAke, O6paTHOMCHRTNIO.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_f035f944` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpocneAnTe 3a TeM,4To6bIWnaHr He nepekpyUNBancA npN yCTaHOBke BAOnb OCN.B AH
 
@@ -11104,7 +10485,6 @@ Ang 3aMeHbl 3aAHero TOPMO3Horo WnaHra COeANHeHna Tpy6onpoboAa Ha 6anke 3aAHen no
 福 4. BbIBepHNTe 6ont-WTyuep Kennehng TOpMO3Horo山naHraKpa6o4eMyTopMO3HOMy UNnNHApy 3aAHeroKoneca...
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_4694bc05` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 5. ...N N3BneKNTe6OnTN3OTBepCTNA. 06- paTnTe BHNMaHNe Ha wan6y npn c6opke yCTaHOBNTe HOByIOWani6y.
 
@@ -11129,7 +10509,6 @@ KR 9.OTBepHNTe ranky WNnnbKn KpenneHng HaKOHe4HNKa3aAHerOTOpMO3HOrO山naHra.
 11...NCHNMNTe 3aAHN TOpMO3HO 山naHr. 12. ycTaHOBNTe TOPMO3HOn WnaHr B nopAKe,O6paTHOMCHATNIO. 13.ocne 3ameHbl WnaHrOB yAannte BO3- Ayx N3TOPMO3HON CNCTeMbl(CM. "Npoka4ka rNApOnPNBOAaTOpMO3HOn CNCTeMbl", C. 179).
 
 ### 3AMEHATPYBONPOBOAOB TOPMO3HONCNCTEMbI
-`kia_rio_en_3990ca60` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pNHLNnbl 3aMeHblTpy6onpOBOAOBNXCOeNHeHNCOBCeMNy3aMNTOpMO3HONCNCTeMbl NWnaHraMNONHaKOBbl. BceraviknTpy6onpOBOAOB BbInOnHeHbI nOAKIOy “Ha 11"
 
@@ -11140,12 +10519,10 @@ BaMnoTpe6yIoTcs:naccaTNKN...
 cneunanbHbln Knoy Ha 11"g raeKTOpMo3HbIxTpy6onpoBOAOB.
 
 ### NONE3HbIN COBET
-`kia_rio_en_c28e6146` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ang OTBOPayNBAHNg raek KPensehng Tpy6onPOBOAOB BcerAa npnMeHaNite cneunanbHble KNIOYN,TaKKaKraNKN CNnbHO3aTAHyTbI NO6bl4- HO KOpPoANpoBaHbl, BCneACTBNe yero npn NonbOOBaHHNOObIYHbIMN KIoyaMNrpaHN raek CMNHaIOTCA.
 
 ### NPNMEYAHNE
-`kia_rio_en_d15308dd` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pa6ota noka3aHa Ha npnMepe Tpy6onpoboAa, COeANHAIO山erO TOPMO3HOn 山naHrC pa604nM TOPMO3HbIMLNnNHApOM6apa6aHHorOTOPMO3-
 
@@ -11168,14 +10545,12 @@ HOrOMexaHN3Ma 3aAHero koneca. OcTanbHble Tpy6onpoboAbl CHNMaIOTnpaKTNyeCKN aHano
 8. ycTaHOBNTe HOBbIe Tpy6onpoboAbl B nOpaAke, 06paTHOM CHATNIO, N npokayante rnAPOnPnBOA TOPM03HON CNCTeMbl (CM. "pokayka rnAponpnbona TOPMO3HON CNCTeMbl,C. 179).
 
 ### CHATNE NYCTAHOBKA NEAAIN TOPMO3A
-`kia_rio_en_30de24f7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/2024828743200ca61694d1eadee988d0a245fc3538fb51455c8c3460109964b1.webp)
 
 BaM noTpe6yIoTcA: Topuobas ronobka "Ha 12", KIOYN “Ha 14, "Ha 17", ABe OTBepTKNCnnOCKNMNe3BNeM,naccaTNKN.
 
 ### NPNMEYAHNE
-`kia_rio_en_673fa970` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a911e7a6e6d5001bfd0b7b8e5c5334a9b8e90a03f04d0919e0d69620070c33f2.webp)
 4. nonneHbTe naccatnxaMnnpyxNHHbIn 山NnNHTNN3BeKNTeerON3 OTBepCTNgpblyaranenann TOPMO3a.
@@ -11237,19 +10612,16 @@ CHATNeneAanN TopMo3a noka3aHo HanpnMepe aBTOMO6NnA G aBTOMaTN4eCKON Kopo6kon nep
 18. ycTaHOBNTe HOByIOnpyKNHy, nenanb TOPMO3a N, BCTABNB 6ONT-OCb B OTBePCTNg, 3aΦnkcnpyuiterakon.
 
 ### NPNMEYAHNE
-`kia_rio_en_d490f6f6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/52e81604fe31a668f0cdd6ef4a2430954ba901cba2a0b2fa6ad3557bdaa7e011.webp)
 
 19.pN Heo6xOANMOCTN CHNMNTe BbIKIO4aTenbCTon-curHana (CM.3aMeHa BblknouaTengCon-crHana,c.236). 20.ycTaHOBNte neAanb TopMO3a B NOPRAke,06paTHOM CHATNIO.
 
 ### TOPMO3HbIE evaasn MEXAHN3MbI IONSSNN NEPEAHNX KONEC
-`kia_rio_en_6d08ce2b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TopM03Hble KONOAKN Heo6xoANMO 3aMeH9Tb npn N3HOCe HaknaAOK (MNHNMANbHO AOnyCTnMagTOn山NHapNKLNOHHbIX HaKnaAOK - 2MM),npn Henpo4HOM COeANHeHNN HaKnanOKCOCHOBaHNeM,3aMaCnNBaHnnpa6o4nxnoBepxHoctei,Hann4nnrny6oknx6oPO3ANnNCKONOB
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_f0e5f535` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aMeHaNTe TOPM03Hble KONOAKN nepeAHnx TOPM03HbIX MexaHN3MOB TOnbKO KOMNseKTOM N34WT. (nOABe Ha kaXAyIOCTOpOHy). NepeA3aMeHoN TOpMO3HbIx KOnOAOKnpOBepbTe yPOBeHbTOPMO3HONKNAKOCTN B6a4kernabHoro TOPMO3Horo uNnnHApa.EcnN ypoBeHb 6nn3OK K BepxHen MeTke, Heo6xoANMO OTKa4aTb 4acTb XNAKOCTN, TaKkaknocne 3aMeHbl N3HOWeHHbIX KONOAOKHOBbIMN yPOBeHNOAHNMTCA.
 
@@ -11282,7 +10654,6 @@ Te3aTeM, 4To6blTOpMO3HonWnaHrHenepeKpyynBancg He 6bICUIbHO HaTAHYT.
 8.NBHyTpeHHIOIOTOpMO3HbIe KONOAKN.
 
 ### NPNME4AHNE
-`kia_rio_en_3d9a689b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a16e89f5fc1b72c0619ff1cee0c617630f8596a3b67351f3ed3e29fffd0fd32d.webp)
 
@@ -11308,7 +10679,6 @@ Ecnn nepeMeleHne3aTpyAHeHO, CMaKbTe KOHCNCTEHTHON CMa3KON Hanpabnnioine nanbubl 
 15.poBepbTe NnpN Heo6xOANMOCTN BOCCTAHOBNTeypOBeHb TOPM03HON XNAKOCTN B 6a4kernaBHoroTOpMO3HoroLNnNHApa.
 
 ### NONE3HbIE COBETbI
-`kia_rio_en_4965e2b1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aMeHNB N3HOWeHHble TOPMO3HbIe KOnOAKN HOBbIMN, He cnewNTeCpa3yBble3xaTbHa OXKNBJeHHble MarnCTpanN.He NCKsIoyeHO, 4TO npn nepBOMxe NHTEHCNBHOM TOPMOXeHNNBbl 6yAeTe HenpNgTHO nopaxeHbI HN3koN 3ΦeKTNBHOCTbIOTOPMO30B HeCMOTPA HaTO,yTOyCTaHOBneHbl ΦnpMeHHbie KONOAKN. TopMO3HbleANCKN TOxe N3HAWNBAIOTCA, N HOBble KONOAKN KacaIOTCA NX TOnbKO KpaAMN,npakTnyeckN He TOPMO39. Bbl6epnTe TuXyIO ynoyky NNN npoe3A 6e3aBToMo6nnen N HeCKOJbKO pa3 naBHO3aTOPMO3NTe,4TO6bI KOOAKN npntepnncb N CTaN npnneratb Bcen nOBepxHOCTblO. 3aoAHo OueHnTe N3ΦΦeKTNBHOCTb TOPM030B. CTapanTecb He TOPMO3NTbpe3KO XOT6blnepBble 100KM. npn CNNbHOM Harpebe Henpnpa60TaBWNXC9 KONOAOK BepXHni cnOn NX HaknaAOKnoAropaeT M TOPMO3a eweAonro He 6yAyT MaKCNManbHO 3eKTNBHbIMN.
 
@@ -11318,7 +10688,6 @@ Ecnn nepeMeleHne3aTpyAHeHO, CMaKbTe KOHCNCTEHTHON CMa3KON Hanpabnnioine nanbubl 
 JTNTORPOSASI8YSAENNNOXSOHSTYASUO
 
 ### 3AMEHA CynNOPTA TOPMO3HOrOMEXAHN3MA NEPEAHErO KONECA
-`kia_rio_en_226d89ef` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/985f984798bb8eb38460b38f4ee711f528da09770a785987b18ba2208607deba.webp)
 
@@ -11349,7 +10718,6 @@ nNHApaN yAannTeBO3Ayx N3 CNCTeMbI(CM
 CTeMbl>,C. 179)K RSSNHY
 
 ### 3AMEHATOPMO3HOrO ANCKA TOPMO3HOrOMEXAHN3MA NEPEAHErO KONECA
-`kia_rio_en_ca11a3bd` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/b0edc9b43a849dc2b7e54b34c832f9d9f70830cad8c0b7c1cce250f3a6c6cfb6.webp)
 
@@ -11376,7 +10744,6 @@ npn Hannynn Ha pa6o4en nOBepXHOCTN ANCKa3anNpoB,rny6oknxpncoKNApyrnxAeeKTOB,yBen
 7...CHNMNTeTOpMO3HOANCK.
 
 ### NPNMEYAHNE
-`kia_rio_en_20de2242` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pN3aTPyAHeHHOM CHATNN CTPOHbTeANCK pe3NHOBbIM NNN nonNMePHbIM MOJOTKOM.
 
@@ -11385,7 +10752,6 @@ pN3aTPyAHeHHOM CHATNN CTPOHbTeANCK pe3NHOBbIM NNN nonNMePHbIM MOJOTKOM.
 8.ycTaHOBNTeTOpMO3HON ANCKN CHATbIe AeTanNB 06paTHOM nopgAke. 国 58 福
 
 ### NPNMEYAHNE
-`kia_rio_en_6dcc6cfa` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/142b90cffe8996340ef7aff2291a74b004efcfcaa02c7c8c17f42422d1f65d89.webp)
 
@@ -11396,21 +10762,18 @@ NepeA yCTaHOBKON ANCKa T山aTenbHO OUNCTNTe OTPKaBunHbI NOKannHbInpuBanoyHbienoB
 .NTOpMO3HOrOANCka,TaKKakAaxe Menbyan山ag 4acTnua, 3axatagMexAynpnBanouHbIMN nOBepXHOCTAMN,BbI3OBeT 6neHneAncka N BN6paunn npn Topmoxehnn.
 
 ### 3AMEHA 8 1 TOPMO3HbIX KONOAOK TOPMO3HbIXMEXAHN3MOB 3AAHNX KONEC
-`kia_rio_en_46cada43` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/6fd11aafa8cfc52747916f016d7492367c6f048699ba66f6d384a405c4a447a9.webp)
 
 BaM noTpe6yIoTCg:KO4N “Ha 14",Ha 17",npncnoco6nene Ag YannNBAHng RHPwon TOPMO3HOrOLNnNHApa, CbeMHNK CTOnOpHbIX KOneL.
 
 ### NONE3HbIECOBETbl
-`kia_rio_en_caf4c9f5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aMeHNB N3HOWeHHbIe TOpMO3HbIe KONOAKN HOBbIMN, He cnewnTe cpa3y Bble3xaTb Ha OXNBneHHble MarncTpann. He NCKNIOYeHO, 4TO nPNnePBOM Xe NHTeHCNBHOM TOPMOXeHNN BbI 6yAeTe HenpNaTHO nopaxeHbI HN3KON 3ΦΦeKTNBHOCTbIO TOPMO3OB HeCMOTP9Ha TO, 4TO yCTaHOBneHbI upMeHHbIe KOnOAKN TopMO3Hble 6apa6aHbl(n ANCKN) TOxe N3HaWNBaIOTCA,NHOBbIeKONOAKN KaCaIOTCA NX TOJbKO He Bcen nnOCKOCTbIO, npakTnyecKN He TOPMO39.BbI6epNTeTNxyio ynouky nnnnpoe3A 6e3 aBTOMO6nnen N HeCKOnbKO pa3 nnaBHO3aTOpMO3NTe, 4T06bl KONOAKN npnTepnncbN cTanN npnneraTbBcei noBepxHOCTbIO. 3aoAHo OLeHNTe N 3ΦΦeKTNBHOCTb TOPM030B.
 
 CTapaiTecb He TOPMO3NTb pe3KOXOT9 6blnepBble 100 KM. npn CNJbHOM Harpebe Henpupa6OTABwNXcA KOnOAOK BepXHni CnOn NX HaknaAOKnoAropaeTNTopMo3a ewe AOnro He 6yAyT MaKCNMaNbHO 3ΦeKTNBHbIMN.
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_d41a66ff` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aMeHaiTe TOpMO3Hble KOJOAKN 3AAHnx TopMO3HbIXMeXaHN3MOB TOnbKO KOMNNeKTOMN34 WT.(nO ABe Ha KaxAyIO CTOpOHy). nepeA 3aMeHon TOPM03HbIX KONOAOK npoBepbTeyPOBeHbTOpMO3HONKNAKOCTN B6ayke rnaBHoro TOPM03HOr0 unnNHApa. EcnnypoBeHb 6nN30K KBepxHeN MeTke, Heo6xOANMO OTKayaTb yaCTb XNAKOCTN,TaK KaK noce 3aMeHbI N3HOWeHHbIX KONOAOK HOBbIMN yPOBeHb NOAHNMeTCA.
 
@@ -11420,7 +10783,6 @@ CTapaiTecb He TOPMO3NTb pe3KOXOT9 6blnepBble 100 KM. npn CNJbHOM Harpebe Henpupa
 4. BbIBepHNTe HNKHN NBepXHNN 6onTbI Kpnehnn HanpaBnnownxnanbennnHON CKO6bl cynnopTa,yAepxnBasnanbLbl OT NPOBOPa4NBaHNABTOPbIMKIO4OM.
 
 ### NPNMEYAHNA
-`kia_rio_en_1705c8f2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5bdec1390d818f4bef3eab85374e1fead37b654d87cb98ab322b9e646c6134c5.webp)
 Tak pacnosoxeHbl 6OnTbl KPennenns HanpaBnaowninanbieB CKO6bl cynnopta.
@@ -11476,7 +10838,6 @@ Tak pacnosoxeHbl 6OnTbl KPennenns HanpaBnaowninanbieB CKO6bl cynnopta.
 酒 20.An NCKnIOyeHNg CaMOBbIBOPaUNBAHnA 6OnTOB kennenng Hanpabnsomnx nanbueb cynnopTaCMaxbTenxpe3b6ynepeA yCTaHOBKONaHaapo6HbIMΦnKcaTopoMpe3b6bl.
 
 ### NPNMEYAHNA
-`kia_rio_en_07fafe35` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 21.Heckonbkopa3 HaXMNTeAOynopa Hanenanb TOPMO3a, 4T06bl Bbl6paTb3a30pblBTOPMO3HOMMexaHN3Me,nORBNBWNeCRnOcneBAaBnnBaHngNOPHen BLnnnHAPbl.
 
@@ -11485,14 +10846,12 @@ Tak pacnosoxeHbl 6OnTbl KPennenns HanpaBnaowninanbieB CKO6bl cynnopta.
 23. AHanorn4HO 3aMeHNTeTOpMO3Hble KONOAKN TOPM03H0r0 MexaHN3Ma Apyroro 3aAHeroKoneca. 24.poBepbTe N npN Heo6xoAuMoCTN BOCCTAHOBNTe ypOBeHbTOpMO3HON KNAKOCTN B 6a4kernaBHoro TOpMO3Horo LnnNHApa.
 
 ### NONE3HbIE COBETbl
-`kia_rio_en_8bddfa22` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aMeHNB N3HOWeHHble TOPMO3Hble KONOAKN HOBbIMN,He cnewnte cpa3y Bble3xaTbHaOXNBneHHbIe MarncTpann.He NCKIOYeHO,yTOnpn nepBOMxe NHTeHCNBHOMTOPMOKEHNN Bbl6yAeTe HENPNATHO nopaxeHbI HN3kOu3ΦΦeKTNBHOCTbIO TOPM030B, XOTA KONOAKN NOCTaBNNN ΦnpMeHHbIe. TopMO3HbIeANCKN TOxe N3HaWNBaIOTCA, NHOBbIe KONOAKN kacaIOTCA NX TOnbKO KPasMn, npaKTNyeCKN He TOPMO39. BbI6epnTe ThXyIoynoukynnnnpoe3A6e3aBtoMonnenN HeCKOnbkO pa3 nnaBHO 3aTOPMO3NTe, 4TO6bI KONOAKN npNTepsnCb N CTanN npNneraTb BCen nOBepXHoCTbio.3aOAHO OueHNte N3ΦcekTnBHOCTbTOPM030B.
 
 CTapanTecb He TOPMO3NTbpe3kO XOT96bl nep-Bble 100 KM. npn CNSbHOM HarpebeHenpnpa-6OTaHHbIXKONOAOK BepxHni CnON nX HaknaAOKnoAropaeTN TOPM03a Aonro He 6yAyTMaKcN-MaJbHO 3ΦΦeKTNBHbIMN. AB5O
 
 ### BaM noTpe6yIoTcA: TOpuOBble rOnOBKN"Ha 12》,Ha14“Ha12，.
-`kia_rio_en_696c7ce0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.Bknlountel nepenayy (nepeBenute cenekTOpaBToMaTN4eckoNKOpo6knnepeAa4BnOnoxeHNe“P") NyCTaHOBNTe nPOTNBOOTKaTHbIe ynopbl("6awmaku>)nog nepenHneKoneca.
 
@@ -11535,7 +10894,6 @@ CTapanTecb He TOPMO3NTbpe3kO XOT96bl nep-Bble 100 KM. npn CNSbHOM HarpebeHenpnpa
 13.. CHNMnTe cynnopTB c6opeC HanpaBnAIOLeN KOnOnOk. YQ
 
 ### NOACTaBbTe eMKOCTb AA cnNBa OCTaTka Top-MO3HONNAKOCTN N3 CyNnOpTa.
-`kia_rio_en_8eb311c6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/fd9f4125275188d9dca0d9de462e8a24188d1e142a696d2cade5f50430806359.webp)
 
@@ -11544,7 +10902,6 @@ CTapanTecb He TOPMO3NTbpe3kO XOT96bl nep-Bble 100 KM. npn CNSbHOM HarpebeHenpnpa
 15.ocne yCTaHOBkN yAannte BO3AYXN3 ruAponPnboAaToPMO3OB (cM."lpokayka rnAponpNBOAa TOpMO3HOncnCTeMbl", c.179) BOCCTaHOBNTeyPOBeHbTOPMO3HON \*NAKOCTN B6a4keraBHoroTOpMo3Horo LNnNHApa.
 
 ### 3AMEHATOPMO3HOrO ANCKA TOPMO3HOrOMEXAHN3MA 3AAHErO KONECA
-`kia_rio_en_b5b693b2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/37d10f34ee656e0bfa5af145d216d43df510296642771fa929ff2f546b06b794.webp)
 
@@ -11572,7 +10929,6 @@ MO3HON山naHr NTPOC nPNBOAa CTORHOYHOrO TOpMO3a,N3aKpennTenpOBOnOkONHaKy3OBe, He
 6. .NCHNMNTeTOPMO3HONANCKCOCTynNubl. 7. ycTaHOBNTe TOPMO3HONANCKBnOPAAKe, 06paTHOMCHATNIO.
 
 ### NepeA yCTaHOBKONANCKa T山aTeIbHO O4NCTNTe OTPXaBuNHbI NOkannHbI nPNBanOyHbIenOBepXHOCTN CTynNLbl...
-`kia_rio_en_77869cbf` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/00a66935845cb6266555874f44ba947c4902cc1a53bc36991cb82ce127d652c9.webp)
 
@@ -11581,14 +10937,12 @@ MO3HON山naHr NTPOC nPNBOAa CTORHOYHOrO TOpMO3a,N3aKpennTenpOBOnOkONHaKy3OBe, He
 8.ycTaHOBNTe BCe AeTanN B noPaAke, 06- PaTHOMCHATNIO. 9. AHanorn4HO CHNMNTeTOPMO3HON ANCK BTOporoKoneca. SH8OT 1
 
 ### PErYNNPOBKA NPNBOAA CTOSHO4HOrO TOPMO3A
-`kia_rio_en_f91e3bbb` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/e6de33b473aa3e84ad983d2a4b6af4581d71ca05dc5905ba8bf51e15224ce940.webp)
 
 AngnpeABapnTenbHoni npobepkn npaBnnbHOCTN perynnpOBkN npNBOAa CTOAHOYHOrO TOPMO3a HeCKOnbKO pa3 BbIKMNTe neAanb TOPMO3a AO ynopa, 4TO6bI BbICTaBNTb npaBUbHblN 3a3opMekAyKonoAkaMN N6apa6aHOM （ANCKOM). NOAHNMNTe pbl4ar npnBoAa BBepxAOynopa, npN3TOMBbIAOnKHbI ynbl山aTb4nnn5山en4koBxpanoBoroycTpocTBa. EcnNKOnNyecTBO山enuKOB He COOTBETCTBYeT yKa3aHHOMyNnNaBTOMO6unbHeyAepXNBaeTCR CTORHOYHbIM TOPM030M (CM. "flpobepka CTORHO4Horoo3a,c.178),ey ite nPNBOA. PerynnpoBoyHblny3ennpNBoAa CTOAHO4HOrO TOpMO3apaCnOnOKeHB canoHe NOAOOnNLOBKON TOHHen nna.
 
 ### BaM noTpe6yeTCg KnIoy “Ha 12".
-`kia_rio_en_4686d4ca` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ag perysnpoBkn npnbona CTOAHO4HOrO TOpMO3a6apa6aHHOr0TopMo3HorOMexaHN3- Ma3aAHero konecaBbInonHntecneAyio山ee. 1. NepeATeM Kak NOAHROI 3AAHIOIO 4acTb aBTOMO6NnA, BKIIOYNTe nepenayy (nepebeANTeceneKTOpaBTOMaTuyecKON KOpo6kNnepenayBnonoxeHne“P").
 
@@ -11607,7 +10961,6 @@ Ag perysnpoBkn npnbona CTOAHO4HOrO TOpMO3a6apa6aHHOr0TopMo3HorOMexaHN3- Ma3aAHer
 7.onOMkpaTbTe3aAHIOIO 4aCTbaBTOMOBnng N npOBepHNTe pykon 3aAHne koneca. OHN AOnKHbI BpawaTbcA paBHOMepHO, 6e3 PbIBKOB. B nPOTNBHOM cny4ae OTPeMOHTNpynte nPnBOA CTORHO4HOrO TOpMO3a NnN TOPMO3HbIeMexaHN3Mbl3aqHNXKOneC.
 
 ### 3AMEHATPOCOBNPNBOAA CTOSHO4HOrOTOPMO3A
-`kia_rio_en_1fbee0d1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5e6c7be8771292c29917050a60fef73aa1839a98a6de807aaad17d5b58b1147b.webp)
 
@@ -11619,7 +10972,6 @@ G 3.N3BneKNTeHaKOHe4HNKN3aAHNXTPOCOB N3ypaBHNTeng.
 BaM noTpe6yIoTcA: Kloy Ha 12,nacCaTNKN,OBepTkaCnOCKNMn3BNeM.
 
 ### NPNMEYAHNE
-`kia_rio_en_41356ca8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pa6oTy nO3aMeHe TPOCOBnPNBOAaCTOAHOUHOrO TOPMO3ayAO6Hee BbInOJIHATb Ha nOAbeMHNKe.
 
@@ -11679,14 +11031,12 @@ TOpMO3a. 14.BTOpON TpOCCHNMNTeaHanOrN4HO. 15. YCTaHOBNTeTpOCbI N BCe AeTann Bno
 PAAke,O6paTHOMCHATNIO. 16.ocneyCTaHOBKNTpOCOBnpNBOnaCTO9-
 
 ### NPNMEYAHNE
-`kia_rio_en_c637dd77` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HO4HOrOTOPM03a OTperynNpyiTeCTOAHO4HyIO
 TOPMO3HyIOCNCTeMy (CM. "PerynupoBkanpu
 BOAa CTORHO4HOro TOpMO3a,C.191). 06TO
 
 ### 3AMEHA PbI4ArA NPNBOAACTOAHOYHORO TOPMO3A 国
-`kia_rio_en_f70f4a8a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BaMnoTpe6yeTcg Topuobas ronobka Ha12 1.CHNMNTe o6nnuOBKy TOHHNANONa (CM. CHATNeNyCTaHOBKaO6nNLOBKNTOHHeng nona,c.260). OH
 
@@ -11714,7 +11064,6 @@ BaMnoTpe6yeTcg Topuobas ronobka Ha12 1.CHNMNTe o6nnuOBKy TOHHNANONa (CM. CHATNeN
 MOT8G
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_88ec9e00` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 SneKtpoo6opyAOBaHne aBTOMO6nng BblnOnHeHOnOOAHONPOBOAHONCxeMe:OTPNuaTenbHble BbIBOAbl NCTO4HNKOB NnoTpe6nteneəneKTpoəHeprnncoennHeHblC“MaccoN". yHKLNIO BTopOronpOBOAa BbInOnHAeT Ky30B aBTOMO6Nng. 3nektpuueckne uenn CNCTeMbI ynpaBneHngABNraTeneMBbInOnHeHbInOMHOrOnPOBOAHOn cxeMe N COeANHeHbI C "MacCONaBToMo6nnsTOnbkO 4epe33neKTpOHHbln 6nok ynpaBneHng. NnTaHne noTpe6ntenen OcyWeCTBnAeTCA OT aKkyMynTOPHON 6atapen (npN Hepa6oTaIo山eMABnraTene) nreHepaTopa(npnpa6oTaIo山eMABnraTene).
 
@@ -11723,7 +11072,6 @@ SneKtpoo6opyAOBaHne aBTOMO6nng BblnOnHeHOnOOAHONPOBOAHONCxeMe:OTPNuaTenbHble BbI
 AnKOMMyTauNN OCHOBHbIX Lene aBTOMOBunn CnyKNT KOMONHNPOBaHHbIN BblKnio4aTenb (3aMOk) 3aNraHns,cocToaWn N3 KOHTAKTHON 4aCTNN MexaHNyeCkOro npOTNBOyrOHHOrO yCTpONCTBa C3aMKOM.
 
 ### B3aBNCNMOCTN OTKOMNNKTALNNA KOMMy-Taunn OCHOBHbIX Lenen aBTOMO6nng yCTaHa-BJINBAIOTKHONKynYCKaNOCTaH
-`kia_rio_en_be262832` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Oco6eHHoCTbIOCNCTeMbl3neKTpoo6opynoBaHNgaBTOMOOnng ABnATCgNnONb3OBAHN AA nepenaun AaHHbIX MynbTNnneKCHbIX WNH CAN(ControllerArea Network). KaxnasMynibTNnnekcHag WNHa npeACTaBngeT CO6oNBNTYIO napy NPOBOAOB, CoeANHAOLyIO3neKTpOHHble 6nokn ynpaBneHng. CAN-WNHbI cOnPAkeHbI Menyco6on4epe3MexceTebon NHTepΦeic. Ncnonb3oBaHNeMynbTNnnIekCHbIXWNH CAN o6ecneynBaeT BbICOKyIO CKOpOCTb nepenayn AaHHbIX (AO 1M6NT/c) N nO3BOnAT 3Ha4NTenbHO COKpaTNTb KONNyeCTBO nPOBOAOB B aBTOMO6nne.
 
@@ -11736,7 +11084,6 @@ AnarHocTu4eckag山NHa CANcoeANHeHa C ANArHOCTN4eCKNM pa3beMOM, pacnonoxeHHbIMB c
 CxeMbl3nekTpoo6opyAOBaHNA aBTOMO6n几 npNBeAeHbIBKOHLe KHNrN.
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_e81f8638` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 No6ble pa6oTbl C3neKTpOo6opyAOBaHNeMabTOMOONnA nPOBOAnTe TOnbKO npn OTKNIOYeHHON akkyMynTOPHOn 6aTapee.
 OTCOeANHATb NNN NOACOeANHAT akkyMynsTOPHyIO 6aTapelo MOXKHO TOnbKO npn BbIKIO4eHHOM3aKNraHNN.
@@ -11748,7 +11095,6 @@ Npn Npobenehnn 3nekTpocBapo4HbIX pa6oT Ha aBTOMOGNne HeO6xOANMO OTCOeANHTbnPOBOn
 NpNnoA3apaAke akkyMynsTOpHon 6aTapen C nOMOubIO3apaAHoroyCTpoNCTBa OTCOeANHNTenpOBOAa OT KNeMM6aTapen.
 
 ### ANATHOCTNKAHENCNPABHOCTEN6OPTOBOrO 3EK-TPOObOPYAOBAHNA
-`kia_rio_en_42301ee7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B COCTaB TNNNYHON anektpnyeckon uennMOryTBXOANTbOCHOBHON3neKTpN4eCKnən-eMeHT,pa3nuyHbleBblknio4aTenn,pene, 3nek-TPOMOTOPbl, npeAoxpaHnTenn, nnaBkneBCTaBKNNAN npepbiBaTennLenn, ITHICAWIN-eca K AAHHOMy 3neMeHTy,npOBOAka N KOH-TaKTHblepa3beMbl, cnyxawneAnn cOeANHe-HNA OCHOBHOrO3eMeHTaC aKKyMyngTOPHON6arapeenn "MaccoN"Ky3OBa.
 
@@ -11765,7 +11111,6 @@ HAknoYeHNn pa3nn4HbIX 3eMeHTOB 3nek-TpoooopyAobahng npn ANarHOCTNKe uenn.KaK yxe
 NpoBepkn HAnnunn BAAseeens NNTaBNA HPOBOACAB cnyyaeHapywehngənekTpn4eckonLenn. NonknloNte OANH N3 npoBOAOB TecTepa 3nekTpnyecknx LenenK OTpnuaTenbHon KeMMe aKKyMynAT TOPHON 6aTapennn60 o6ecneybTexopownn KOHTAKT CKy30BOM aBTOMO6nng.Apyron npoBOA TecTepa NOACOeANHNTe K KOHTaKTY pa3beMa npobepgeMon uenn, npeAno4TnTenbHo 6nnxaiwemy KakKyMynTOpHON 6aTapee Nnn npeAoxpaHnTenio. Ecnn KOHTPONbHAn namna TecTepa 3aropaeTcA, HanpakeHne NNTAHNA Ha AAHHOM OTpe3ke uenn eCTb, 4TO nOATBepxAaeT NcNpaBHOCTbLenNMeXAyAaHHON TO4KON uenn NakkyMynTOpHon 6arapeen. AeNCTBys TaKNM xe 06pa30M, nccneAynte OCTanbHyIO 4acTb uenn. O6HapyxeHne HapyWHNAHANPAKEHNANNTAHNACBNAeTEnbTBYeTo Hann4nNHeNCnpaBHOCTNMeKAyAaHHON TO4konLenn nocneHen N3 npoBepeHHbIx paHee (rne 6blno HanpaxeHne NNTAHNA) B 60nbWNHCTBe cnyyaeb npn4nHa OTKa3a 3aKJoyaeTcA B ocna6neHnn KOHTaKTHbIX pa3beMOB N nOBpeXAeHNNCaMNXKOHTaKTOB (OKNCneHNe).
 
 ### ANATHOCTNKAHENCNPABHOCTEN6OPTOBOrO 3EK-TPOObOPYAOBAHNA
-`kia_rio_en_61008e80` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nONCKN MeCTa KOPOTKOrO 3aMbIKaHNg. OAHNMN3 MeTOAOBnONCKaKOPOTKOrO3aMblKAHng ABnRTCA N3BneyeHne npenoxpaHnte几 N nOAKloyeHne BMeCTO Hero naMnblnpo6Hnka NnN BOnbTMeTpa. HanpaxeHne B uenn AONKHO OTCYTCTBOBaTb. noneprante nPOBOAKy, Ha6nionag 3a namnon-npo6HnKOM. Ecnn naMna Ha4HeT MNraTb, rAe-TO B AaHHOMXryte NPOBOAOB eCTb3aMbIKaHneHa "Maccy", B03MOXHO, Bbl3BaHHOe nepeTupaHNeM NWUILNN nPOBOAOB. AHanorn4Hag npoBepka MOXeT 6bITb npoBeneHa AA kaxAoro N3 KOMNOHeHTOB3neKTpN4eCKON uenn nyTeMBKNIOYeHNg COOTBETCTBYIOLINXBbIKIOuatenen.
 
@@ -11780,7 +11125,6 @@ Ba yuacTkaənektpn4eckon LennBn3yanbHO o6HapyKNTb npNUNHy HeNCnpaBHOCTN OKa3blBa
 AnarHOCTNka HeNcnpaBHOCTen 3nektpu4ecknx uenen He npeACTaBngeT co6on TPyAHyiO 3ana4y npn ycOBNN 4eTKOro npeAcTaBneHng Toro, 4TO 3nektpnyecknn TOK nocTynaeT KO BCeM nOTpe6ntenAM (namna, 3nektpOMOTop N T.n.) OT akkyMynTOpHon 6atapenno npOBOAaM4epe3BblKnoyatenn, pene, npeAoxpaHnTenn, nnabKne BCTaBKN,a 3aTeMBO3Bpa山aeTC9 B 6aTapelo 4epe3“Maccy"(Ky30B) aBTOMO6Nng. 几o6ble npo6neMbl, CB93aHHbIe C OTKa30M 3neKTpOO6opyAOBaHN9,MOryT 6bITb Bbl3BaHbl npekpameHnem nonaun Ha HNX 3nekTpN4eckoroTOKa OT 6aTapenWnNBO3Bpata TOKaB 6aTapeio.
 
 ### PACNONOKEHNE NPEAOXPAHNTENEN, NNABKNX BCTABOK, PENEИNX3AMEHA
-`kia_rio_en_6adedb6d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 bonbWNHCTBO uenen NNTAHNA 3nekTpo-o6opyAOBaHng aBTOMO6Nng 3awnmeHonnaBknMnnpeAoxpaHnTengMn.MoWHbIeno-Tpe6ntenn TOka noAKOyeHb 4epe3 pene.NpeAoxpaHnTenn N pene yCTaHOBNeHbI B
 
@@ -11811,7 +11155,6 @@ AngAOctyna K MOHTaXHoMy6nokynpenoxpaHntenen,pacnonoxeHHOMyB canoHe, BblnOnHNTe c
 2 CHMNTe Kpbluky CnaHennnpn6opoB.
 
 ### NPNMEYAHNE
-`kia_rio_en_fbe04776` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/9b9ce52412440014f7aeb26f41fc23bb30a4340a60b197ea77114fdee47e8906.webp)
 
@@ -11827,19 +11170,16 @@ Ta6nuua10.1
 PNC.10.2.nnaBKne BCTaBKn,npeAoxpaHnenN pene BMOHTaKHOM6nOke，pacnonOxeHHOM B MOTOPHOM OTCeke
 
 ### HA3HAYEHNENPEAOXPAHNTENEN, PENENNNABKNXBCTABOK BMOHTAXHOM6NOKE,PACNOJOKEHHOM BMOTOPHOMOTCEKE
-`kia_rio_en_c47d8a81` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 He 3aMeHaNTe npeAOxpaHnTenN nepeMbI4kaMN NnN npeAoxpaHntengMn, pacc4NTaHHbIMN Ha Apyryiocnny Toka,NcamoAenbHbIMN nepeMblyKaMN - 3T0 MOKeT npNBeCTN KnoBpexnehnio 3nekTpn4ecknxnpn6opoBNAaxe Knoxapy.
 
 ### NPNMEYAHNE
-`kia_rio_en_82bf2e9b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BcneunanbHoMrHe3Ae MoHTaxHoro 6noka,pacnONOKEHHOrO B MOTOPHOM OTCeke, 3akpennen rHLePn NneyehngnpAoxpaHntenen.
 
 4.CneunabHbIMnnacTMaccoBblM NNHLETOM N3BnekNTe3aMeHgeMblnnpenOxpaHnTenb.
 
 ### NPNMEYAHNE
-`kia_rio_en_02853f09` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/40e1e802dbf5d5cb7c4294bc8d2e2be815e90cefc5de33aa2d800fb662cf0653.webp)
 Ta6nnua10.2
@@ -11870,7 +11210,6 @@ NPNMEYAHNE
 HaBHyTpeHHIOIOCTOPOHyKPbI山KNMOHTaKHOrO 6nokapene M npeAoxpaHnTenen,pacnonoxeHHOro BMOTOPHOMOTCeKe, HaHeceHa cxeMapacnonoxehns npeAoxpaHntenen,pene NnsaBknx BCTaBOK, BCneLnanbHbIxAepxaTenaxyCTaHOBJeHbl3anacHblenpeAoxpaHNTenn.
 
 ### HA3HAYEHNENABKNXNEPEMbIYEK B6NOKECNNOBbIXNPEAOXPAHNTENEN
-`kia_rio_en_c828125f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/e547b7c489ad1c8ba9de5d331b414cd53611ba4544941fa9c7ce6c9e7a72e013.webp)
 
@@ -11899,14 +11238,12 @@ PNC.10.3.naBknenepeMbl4kn B6nokecnnoBbIxnpeAoxpaHntenen (noka3aHO HarnaBHOM npeA
 4. OCMOTpnte6nokCunoBbIxnpeAoxpaHnTenenHa HasnyneneperopeB山nxnepeMbl4ek NonnaBneHnn. 5.ycTaHoBnTe6noKCunoBbIXnpeAoxpaHnTenenBnopaAke, O6paTHOMCHTNIO.
 
 ### CHATNENYCTAHOBKA MOHTAKHbIX5JOKOB
-`kia_rio_en_a9daf542` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/9682e27780b697df945c5c58a331db5e9e297278cb373772ed35e0bc43952943.webp)
 
 BaMnOTPe6yIOTCg:OTBepTKaCnNOCKNM ne3BneM,Koy “Ha10",
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_a17bd4d2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ang CHATN MOHTaKHOrO 6nOka BCanOHe aBTOMO6nnA nOTpe6yetcA CHTNe naHenn npn6opoB C OTCOeAnHeHneM 6onbWorO KonnyeCTBa KONOAOK KryTOB nPOBOAOB N CHSTNeM AeTanen Ny3nOB aBTOMO6nng. Ecnn Bbl He o6naAaete Heo6XOANMbIMN HaBbIKaMN, 06- paTNTecb Bcneunann3npoBaHHbin cepBNcHbln yeHtp.
 
@@ -11957,14 +11294,12 @@ Ang CHATNA MOHTaXHOrO 6nokanpenoxpaHnTenen, pacnonokeHHoro B canoHe aBTOMO6nng, 
 ![](images/a826841eacac81b49910c43ddbd60a0a07bf668857325846c021e3810f2b3c63.webp)
 
 ### NPNMEYAHNE
-`kia_rio_en_87bda3ed` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHATNe NyCTaHOBKa B rapaxHbix ycnOBNRX MOHTAXHOrO 6nokanpeAoxpaHntenen,pacnoJOXeHHOrOBMOTOPHOMOTCeKe,MOXeTHenpNBeCTNKxenaeMoMy pe3ynbtaTy,no3ToMyAng ero CHATNS NyCTaHOBKN O6paTNTeCbBCneLnaN3NpOBaHHbIN cepBNCHbIN LeHTp.
 
 15.ycTaHOBTe MOHTaKHbl 6nOK npenoxpaHNTenenNBceATann B nopaAke, o6patHOMCHATNIO.
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_8e8368bd` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/24da5c7cce3b580a0e022cdc821ceeb4a077178fbe910bc8f75f626cf8de2bb5.webp)
 
@@ -11985,12 +11320,10 @@ Heo6xogNMo nOMHNTb, 4TO npN HN3KON TemnepaType N3-3a yBennyeHng B93KOCTN MOTOPHO
 BTa6n. 10.4npeACTaBneHa 3aBNCNMOCTb eMKOCTNaKkyMyngTopHon6aTapenOTTeMnepatypbl3nektponnta. EMKOCTbaKKyMynTOpHON 6aTapen noka3aHa B npoueHTaXOT TON eMKOCTN, KOTOpyIoakkyMyngTopHag6atapeg cnoco6HaBblAaTbnpn25℃.
 
 ### NPNMEYAHNE
-`kia_rio_en_7353c7d1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NPNHuun pa6oTbl CBNHLOBO-KNCNOTHbIX aKKyMynSTOPOB OCHOBAH Ha 3nekTpOXNMN4eCKNX peakLNgxCBNHua NANOKCNAaCBNHua B cepHOKNCNOTHON cpeAe. Bo BPeMg paspaAa nponcXOANT BOCCTAHOBNeHNe ANOKCNAa CBNHLa Ha KaTOAeN OKNCNeHNe CBNHLa Ha aHOAe Npn3apaAenpoTekaioT o6paTHble peakunn, K KOTOpbIM B KOHUe 3apgAa AO6aBngeTCA peakung ənektponn3a Bonbl,conpoboxAaomncs BblAeneHneM KNCnopoAa Ha NOnOKNTenbHOM 3nKTPOAeNBOAOPOAa-Ha OTPNUaTenbHOM.
 
 ### BO3MOXHbIEHENCNPABHOCTNAKKYMYIЯTOPHON6ATAPEN, NXNPN4NHbIN CNOCOEbIyCTPAHEHNA
-`kia_rio_en_e9b38db6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3nemeHT CBNHLOBO-KNCJOTHOrO akkyMyngTopa COCTONT N3 nOnOXNTeNbHbIX NOTpnuaTenbHbIX3neKTpOAOB, cenapaTopoB (pa3nennTenbHbIXpeweTOK) N 3nektponnta. nonoxnTenbHble anektpoAbI npeACTABnAIOT co6on CBNHLOByIO peweTKy,B KOTOpON aKTNBHbIM Be山eCTBOM RBNSTER nepekncb CBNHLa (PbO2).
 
@@ -11999,7 +11332,6 @@ OTpnuaTenbHble anektpoAbl Takxe npeActaBAIOT Co6oNCBNHLOByIOpeWeTky Cry64aTbIM C
 BHOBbIXKOHCTpyKLNAXaKKyMynTOpHbIX6aTapencBNHuOBbIennaCTNHbl(peueTkN) 3aMeHAIOTBCNeHEHHbIM Kap60HOM, nOKpbITbIM TOHKOnCBNHuoBonnneHkoi,anAknneponn xennpyioT CNnNkarenem A0 nacToo6pa3Horo CACTORHNA. Ncnonb3ys MeHbwee KONN4eCTBO CBNHLaNpacnpenennBerono 6onbmonnno山anN,6aTapeioAenaIoT HeTonbko6onee KOMnaKTHON Nnerkon, HO N 3Ha4NTebHO 6onee 3ΦΦekTnBHoN:noMNMo 6onbWeroKnA,3apaXaeTC9OHa3HauNTenbHo6bICTpeeaKKyMyn9- TOpOBnpenbIAywnxnokoneHnn.
 
 ### NPNMEYAHNE
-`kia_rio_en_628fba5b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BMeCTO WTaTHoi Heo6cnyXNBaeMon 6aTapen MOKHO yCTaHOBNTb n1o6yio aHanOrnyHyIO no eMKOCTN N MOHTaXHbIM pa3MepaM 6aTapeio
 
@@ -12008,7 +11340,6 @@ BMeCTO WTaTHoi Heo6cnyXNBaeMon 6aTapen MOKHO yCTaHOBNTb n1o6yio aHanOrnyHyIO no 
 Apyrnx npon3BOANtenen. B 3TOM cnyuae NCnonb3yute N o6cnyxnBaite 6atapeio B COOTBeTCTBNNCnPNnOXeHHON K HeN NHCTPyKLNen.
 
 ### BaM noTpe6yIoTCs: KIOy Ha 10",TopLobag ronobka "Ha 12.
-`kia_rio_en_fb555fe0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.BblKnloynte 3axuraHve (ecnn OHO 6bINO BKNIO4eHO)N OTKPONTeKanOT.
 
@@ -12037,7 +11368,6 @@ Apyrnx npon3BOANtenen. B 3TOM cnyuae NCnonb3yute N o6cnyxnBaite 6atapeio B COOTB
 ![](images/48c2531e4466068d915923544a8d0a5d018aa697fd06153303b4d97031e65830.webp)
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_c46adf46` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/3c01263f4aca05c8e52b2a990c5429889c4634a89d6e18173f81db365b139899.webp)
 9..NCHNMnTe ee.
@@ -12062,7 +11392,6 @@ Hanpakehne An BO36yKAeHNg reHepatopa HPBnoen 3auaHNnBnuA K BbIBOAy LperynsTopaHa
 Pa6oTareHepatopa OTCNeXNBAETCЯ CNrHanN3aTOPOM pa3pana aKKyMynTOPHON 6aTapen, pacnonoxeHHbIM B KOM6NHaLNNnpn6opOB.TpNBKNIo4eHNN3aXNraHNACNrHanN3aTOP AOnKeH rOpeTb, nocne nyckaABnraTeng -racHyTb,ecnNreHepaTopncnpaBeH. Apkoe ropeHNeCNrHanN3aTopa WnN eroCBe4eHne BnOnHakanaCBNqeTeNbCTByeTOHeNCNpaBHOCTAX.
 
 ### NONE3HbIN COBET
-`kia_rio_en_e3697866` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BnocneAHee BpeMa NORBNNOCO MHOro ΦupM, cneunannnpyoncs Ha peMOHTe NMnOPTHbIX CTapTepOB N reHepaTopoB. TaM MOKHO npOBeCTN ANarHOCTNKy HencnpaBHoro y3na, npnopectn 3anyactn Ang noon MAnn reHepaTopa (cTapTepa), nOnyuntb KBannonunPOBaHHyIOKOHCynbTaLNIO. EcnN Bbl He ybepe
 
@@ -12072,7 +11401,6 @@ Pnc.10.4.AerannreHepaTopa:1-raikakpeneHna 山KNBa;2-WKB;3-ANCTaHuNOHHOe KOnbuO;4
 Hbl, 4TO MOXeTeOTpeMOHTNpOBaTbreHepaTop(CTapTep) caMoCTOsTenbHO,ecTbCMbICno6pa-TNTbCA BTaKyiONpMy,rAe peMOHT 3TNXY3nOBBbInOnHT6bICTpO,CXOpOWNM Ka4eCTBOM \~ noBnOnHe AOCTynHON LeHe. OAHaKO Ha aBTOMO-B5nX C 6onbWnMnpo6eroM 4acto 6blBaeT Bbl-rOAHee3aMeHNTby3enBC6ope HOBbIM,4eM3a-MeHATb BbIWeAWNe N3 CTPORAeTanN.
 
 ### 3AMEHAPEMH9 NPNBOAA BCNOMOrATENbHbIXArPErATOB
-`kia_rio_en_0239ff70` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/de91b95d903b9dea1c96df3dcf2f8ababe64fc32bc777993dc66b2e9d7e483cc.webp)
 
@@ -12096,7 +11424,6 @@ LoC
 6. CHNMNTe pemeHb npNBOna BCnOMoraTebHbIXarperaTOB.
 
 ### NPNMEYAHNE
-`kia_rio_en_cb65b3f7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/44eda6f99c3b1c27963d4518ca73305dbfb48a49b3aaa8d6df915248fbf110bc.webp)
 
@@ -12114,7 +11441,6 @@ PeMeHbco CneAaMNMOTOpHOrOMaCnaHa nIo6o ero noBepXHocTN HaAOo6R3aTenbHO3aMeHNTb,T
 7.yctaHOBNTepeMeHbnpNBOAa BCnoMora-TenbHbIX arperaToB B nopaAke, 06paTHOMCHATNIO.
 
 ### NPNMEYAHNE
-`kia_rio_en_1db2cc1e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HenpaBunbHo IpaBnnbHO HenpaBubHoyknaAblBaite peMeHb Ha WKNBbI TaKNM o6pa-30M,4TO6bI BHyTpeHHNe pyubN WKNBOB OCTa-nNCbCBO6OAHbIMN.
 
@@ -12123,7 +11449,6 @@ HenpaBunbHo IpaBnnbHO HenpaBubHoyknaAblBaite peMeHb Ha WKNBbI TaKNM o6pa-30M,4TO
 8. NpOBepHNTe KOneH4aTbIn Ban Ha TPN NONHbIX 06opoTa, 4T06bI pemeHb npnboAa BCNOMOraTenbHbIXarperaTOB3aHgnnpaBnnbHOe nonokeHne Ha WKNBax.
 
 ### CHATNEN YCTAHOBKA TEHEPATOPA
-`kia_rio_en_9f603b70` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/702bb1c47b70cdd3386dc65d4849988abccfaab9e2ebef87c54ee337c6f44e3d.webp)
 
@@ -12170,7 +11495,6 @@ TC
 13.CHNMNTereHepaTopCaBTOMo6nng. 14.ycTaHOBNTereHepaTop BnopgAke, 06- PATHOMCHATNIO.
 
 ### PEMOHTrEHEPATOPA
-`kia_rio_en_46910ded` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/2318ebba7cbe1041608e9a5df213a2f5180f956367e8291200e3a14f0f87a0a9.webp)
 
@@ -12193,7 +11517,6 @@ BaM noTpe6yIoTCA: KIOYN "Ha 7,"Ha 10",“Ha27",IO TOXT5,c,yBepcanIbHbIi CbeMHNK,
 4..NANCTaHLNOHHOeKOnbuo.
 
 ### NPNMEYAHNE
-`kia_rio_en_8d14d107` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 山KNBreHepaTopa3acnkcnpobaHOTnpoBopaYNBAHNA Ha Bany potopa TOnbKO 3a C4eT CNN TPeHng nocne 3ATAKKN rankn ero KPennenns Tpe6yeMbIM MOMeHTOM. WnOHKN B coeAnHeHNN HeT.
 
@@ -12237,7 +11560,6 @@ L 5.oMeTbTeno6bIMcnoco6oM(HanpuMep MapkepoM) B3aNMHOe pacnonoxeHne CTaTOpankpbl�
 ![](images/0d6987d6d79807fc629eab71d3f629cadeb563d412d2ed8037bb3007cb352827.webp)
 
 ### 15....N CHNMNTe nnacTNHy.
-`kia_rio_en_118a4266` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5196b423b07599fa54753eedf9d9edb4af581c65bc8548286c8ad94fd685e60c.webp)
 
@@ -12258,7 +11580,6 @@ L 5.oMeTbTeno6bIMcnoco6oM(HanpuMep MapkepoM) B3aNMHOe pacnonoxeHne CTaTOpankpbl�
 20.3anpeccyiTe HoBblinoAuNnHNK Ha Ban pOTopaAOynopa B6ypTNKBana, npnknanblBaaycnnne KBHyTpeHHeMyKOnbuynOAWNnHNkayepe3onpaBkynonxoAg山eroAnaMetpa.
 
 ### NPNMEYAHNE
-`kia_rio_en_67cd2114` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbInpaMnTenbHbln 6nokNKpbIwka npeACTangIOTCo6oneAnHbln y3ennAasbHenwenpa36opKe He noyiexaT,nockOnbky TpNANoAa BbinpaMNTebHoro 6noka 3anpeccoBaHbl B 3aAHIOIO KpbIwKy NCOANHeHbICBbInPaMNTenbHbIM6noKOMCBapKONTOKaMN BbICOKON 4aCTOTbl. X
 
@@ -12287,7 +11608,6 @@ BA K TeM xe TpeM KOHTaKTHbIM BbIBOAaM ANOAOB. EcnNANoAbl NcnpaBHblTecep noKaxeT7
 29.Co6epnTereHepaTop B nopanke,o6patHOMpa36opke,copNeHTnpoBaB KpbIWKNreHepaTOpaNCTaTOpnOpaHeeCAenaHHbIMMeTkaM.
 
 ### NPNMEYAHNE
-`kia_rio_en_302e8bf3` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/84c35a873a9b5c4471519a1979c6686befd001203586876d0582ec35e76398fe.webp)
 NepeA yCTaHOBKON WeTKOAepxaTens, 4TOObIHe noBpeANtb WeTKN npn yCTaHOBKe, CHNMNTeKpbIwky 山eTo4HorO y3na...
@@ -12299,7 +11619,6 @@ NepeA yCTaHOBKON WeTKOAepxaTens, 4TOObIHe noBpeANtb WeTKN npn yCTaHOBKe, CHNMNTe
 ...N yCTaHOBNTe KpbIWKy 山eTO4Horo y3na Ha MeCTO.
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_9fcbbc7d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/1e9971d5b0dc99947a4ed6d7226838d9f3c001026d72b705cdc83e07603d6333.webp)
 
@@ -12310,7 +11629,6 @@ BapOTopa Bpa山aeTcgBAByxMeTannokepaMN4eCKNXBTynKaXNOA山NNHNKOB, 3anpecCOBaHHbI
 Hakpblwke 2 3akpenneHoTaroBoepene4 AKOpbKOToporo4epe3pbl4ar 14nepeMe山aeT MyTy CBo6onHOroxona.
 
 ### NONE3HbIE COBETbl
-`kia_rio_en_0dee0732` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ans Toro 4TO6bl N36exaTb MHOrNXHeNCnpaBHOCTeN CTaprepa, Co6noAaNte paA npocTbIx npabnn npneroakcniyataunn:
 
@@ -12320,7 +11638,6 @@ Ans Toro 4TO6bl N36exaTb MHOrNXHeNCnpaBHOCTeN CTaprepa, Co6noAaNte paA npocTbIx 
 一 He nepeABnrante aBTOMO6Nb C nOMoWbio CTapTepa, TaK KaK3TO Bbl3blBaeT ero 3Ha4NTenbHyioneperpy3kyNnoBpexAeHne.
 
 ### CHATNENYCTAHOBKA CTAPTEPA
-`kia_rio_en_b9b27780` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/11907dcf55f12d806a720adf581e3af90e9151b81bcb64b52c3f325f416d061c.webp)
 
@@ -12346,7 +11663,6 @@ BO3MOXHbIEHENCNPABHOCTN CTAPTEPA, NXNPN4NHbINCNOCOBbIyCTPAHEHNA
 9. .CHNMNTeCTapTep. 00ae 5910 YO 10.ycTaHOBNTeCTapTep BnopaAke,o6patHOMCHATNIO. OT
 
 ### PEMOHTCTAPTEPA
-`kia_rio_en_c2b8d980` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/b3c7944b2b12ec03b539a36d3c9a7ea84b40aa9b613db4c0c5529f89f6e9433c.webp)
 
@@ -12391,7 +11707,6 @@ BaMnOTpe6yIOCs:IO4 TORXT2O,O4N“Ha8》,“Ha 10",“Ha 12,OTBepTKNCnCKNM N KpeC
 ![](images/fd740895f9a2485a4d38a4137225fff48a25f736eac0bd969c80d196779d2c23.webp)
 
 ### 4....NCHNMNTe TaroBoe pene.
-`kia_rio_en_519f5aa7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/58e2ada874203420d74ce8ef6c0cc5f67177e0ad412a046cd75f168fd8874405.webp)
 
@@ -12470,7 +11785,6 @@ C
 26. NpoBepbTe MyΦTy CBO6OAHOrO xona. 3y6ba WecTepHN He AOnKHbI 6bITb 3Ha4NTenbHON3HOWeHbl. 山ecTepH AOnKHa nerko npOBOpayNBaTbcA OTHOCNTENbHO CTynnubI MycTbl B CTOPOHy Bpamenng pOTOpa N He AOnKHa npOBOpayNBaTbcA B NPOTNBONOnOXHOMHanpaBneHNn.EcnN 3y6bAWeCTepHNN3- HOWeHbI WnN noBpe\*AeHbl nn6o WecTepHg npOBOpayNBaetcA B o6onx HanpaBneHNgx, 3aMeHNTeMyΦTy. 8
 
 ### 4....NCHNMNTe TaroBoe pene.
-`kia_rio_en_2139e9d2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/015e3d7be91bca18e0fa024ef1df65269daaf810991ef90d517b5de7eafd25fb.webp)
 
@@ -12494,7 +11808,6 @@ C
 -A9yCTaHOBKN OrpaHN4nTenbHOrOKOnbua BOCnOnb3yNTeCb pa3ABNKHbIMN naccaTnxaMn;
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_7c152937` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bnpouecce əkcnsyaTaunN MyTy cBo6oAHoro xOAa HeHyKHO CMa3bIBaTb. OAHaKO HeO6XOANMO OunWATb ee OTrPA3N. Henpnmeaite OUNCTKN CpeACTBa, KOTOpble MOryT BbIMbITb3aNOXeHHyIOBMyTy CMa3Ky.
 
@@ -12505,7 +11818,6 @@ Bnpouecce əkcnsyaTaunN MyTy cBo6oAHoro xOAa HeHyKHO CMa3bIBaTb. OAHaKO HeO6XOAN
 ...N yCTaHOBNTe Ha pOTOp, CABNHYB C onpaBkNHa KOnekTOppOTopa; - nepeAyCTaHOBKOn TarOBoropene HaHeCNTe TOHKNN CNONCnnNKOHOBOrOrepMeTnka Ha nOBepXHOCTb pene, KOHTaKTNPyIOWyIO C KpbIWKONcTapTepa.
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_15b7cf08` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbIKnloyaTenb (3aMOK) 3axnraHng CMexaHN4eCKNM 3anopHbIMyCTpOCTBOM, aHTeHHbiM 6nOKOM NMMO6nnN3aTopa, AaT4NKOM nneHnnnioga N3neKTpN4eCKONKOHTaKTHorpynnon3akpenneH Ha kOpnycepynebon KONOHKN 3a pyneBbIM KOnecOM. 3nektpnueCkaa KOHTaKTHagrpynna BbIksloyateng N 3anopHOe yCTpONCTBO CBR33HbIApyr CApyrOM, pa6oTaIoT CNHXPOHHO N HPNBOAncA B AenCTBNeKIO4OM3aXNraHNg.
 
@@ -12513,7 +11825,6 @@ BbIKnloyaTenb (3aMOK) 3axnraHng CMexaHN4eCKNM 3anopHbIMyCTpOCTBOM, aHTeHHbiM 6nO
 3. CHNMNTe HNKHIOIO 4acTb Koxyxa pyneBO KONOHKN (CM."CHЯTNe NyCTaHOBKa KOxyxapyseBoNKOnOHkN",C. 164).
 
 ### BaM noTpe6yeTcs OTBepTka CNNOCKNM ne3BNeM.
-`kia_rio_en_8f265cdd` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. OTCOeANHNTe npOBOA OT KneMMbl“MNHyC"akkyMyngTopHon 6aTapen. 2. CHNMNTe pyneBOe KOnecO (cM."CHaTue NycTaHobka pyneBorokoneca",c. 163).
 
@@ -12548,7 +11859,6 @@ BnonoxeHNe“ACC", 3aTeM,CABNrag AaT4NK nookeHNgKNlO4aB3aMke 3axNraHng,BblBeANte
 10..NCHNMNTe aHTeHHbIi 6nOK NMMO6Nnn3aTopa. 11.ycTaHoBnteAeTannBnopaAke,o6paTHOMCHATNIO.
 
 ### BaM noTpe6yetca OTBEPTKa C KpecTO-o6pa3HbIMNe3BNeM.
-`kia_rio_en_b5d570dc` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. OTcoeANHNTe nPOBOA OT KeMMbI "MNHyC"akkyMyngTopHon 6aTapen. 2. CHNMNTe pyneboe KOneco (CM.CHЯTne ycTaHoBka pyneBoro Koneca>,c.163). 3. CHNMNTe HNKHIOIO yactbkoxyxa pyseBON KONOHKN(CM. "CHATNe N yCTaHOBKaKOKyxapynebon KOnOHKN,C.164).
 
@@ -12571,7 +11881,6 @@ BnonoxeHNe“ACC", 3aTeM,CABNrag AaT4NK nookeHNgKNlO4aB3aMke 3axNraHng,BblBeANte
 8 n N3BNeKNTe KOHTAKTHyIO rpynny BblKlOyaTeng(3aMka) 3axnraHng. 18 9. ycTaHOBNTe KOHTaKTHyIO rpynny N BCe AeTanNBnOpAAKe,O6paTHOMCHATNIO.
 
 ### CHATNENYCTAHOBKA BbIKNIOYATEnA (3AMKA) 3AKNIAHNA
-`kia_rio_en_98f8788a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/210080ba839806e3a7b1481fbc5592e1efe5a616c1cebc6f31f4b905fe496a13.webp)
 
@@ -12591,7 +11900,6 @@ BaMnOTpe6yIoTcg: MONOTOK, 3y6nno, OTBepTKa CnOCKNM ne3BNeM.
 8.BbIBepHnTeCnoMoublo3y6unaN MOnOTka 60nTblc CaMOcpe3aIomNMNcsrONOBkaMn NCHNMNTe3aMOK3aXNraHNg. 9.YcTaHOBNTeBbIKOyaTenb (3aMOK)3axNraH3aTHnTe HOBbe6onTblpeneHNAO OTPbIBarOnOBKN. 福 10.cTaHOBNTeBCeAeTanNB nopaAke,06- PaTHOMCHATNIO. UTOV NMIIHJROTNHNON
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_955b28f6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ABNraTenn，yCTaHaBnNBaeMbleHa aBTOMO-6unnKIARio,oCHaueHblnekTpoHHoncce-MOn ynpabneHng ABNraTeneM cpacnpene-neHHbIM BnpbICKOM TOnnnBa. 3ta CNCTeMao6ecneynbaeT BblnOnHeHne COBpeMeHHbIXHOPM no TOKCN4HOCTN Bbl6pocOBN ncnape-HNAMnPNCOXpaHeHNNBbICOKNXXOAOBbIX ka-4eCTBNHN3KOrOpaCXOAaTOnNBa TL JAaIynpaBngloLnMycTpocTBOM B CNCTeMeB-ngetcA3nektpoHHbln 6nokynpaBneng（by,KOHTpOnep).HaocHoBe nHopMauNn,nony-4eHHON OTAAT4NKOB, 96ypaccynTbIBaeT na-paMeTpblperynnpoBaHngBnpbickaTonnnBaNynpabneHngyrnom onepexeHng 3axnraHng.KpOMeTOrO，BCOOTBeTCTBNN C 3a0KeHHbIManropnTMOM byynpaBngetanektpoABnra-TeneM BeHTNnATOPa CNCTeMbl xnaxnernnABNraTeng N 3nekTpOMarHNTHOn MyΦTOnBKJIOyeHNKOMnPeCCOPaKOHANuNOHepa Bbl-NOnHAeTyHKLNIOCaMOANarHOCTHKN3neMeH-TOB CNCTeMbI NOnoBe山aeT BOANTenOBO3-HNKWNXHeNCNPaBHOCTAX.
 
@@ -12616,7 +11924,6 @@ BnOKnNTaeTnOCTOAHHbIMTOKOM HanPAKeHNeM5N12 B pa3nn4HbleAaT4NkN N BbIKIO4atenn CN
 ![](images/9d9cdf6318d650520f7b082b05c874a90191c225f017bdc9bd5d60cf14f28163.webp)
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_35e43e90` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AaT4NK MONOoOnn KOneHyaToro Bana npeAHa3Ha4eH AA CNHXPOHN3ALNN pa6oTbl 3neKTpOHHOro 6okay ynpaBneHngABnraTeneMC yrnOBbIMnonoxeHNeMKOneHyaToroBana.enCTBNeAaT4NkaOCHOBaHOHa3ΦΦekTeXonna.
 
@@ -12648,7 +11955,6 @@ C TpeTbero BbIBOAa nOTeHLNOMeTpa (OT non3yHka) NAeT BbIXOAHON CNrHan K 3nekTpOHH
 KornaApoccenbHag 3acnOHka nobopaunBaeTCg （OTBO3AeNCTBNg 3neKTpOnPNBOAanonyyaio山erocnrHan cnenann akcenepaTopa), HanpAxeHNeHaBbIXOAeAaT4NkaN3MeHgeTCA. pn3akpblTonApoccenbHon 3acnOHke OHO HNKe 0,5B. Korna 3acnoHka OTKpbIBaeTCA, HanpgxeHNe Ha BbIXOAeAaT4Nka paCteT, npn nONHOCTbIOOTKpbITON3aCnOHke OHOAONKHO 6bITb6onee4B.
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_1ab661c8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OTcnexNBag BbIXOAHOe HanpaxeHneAaT4Nka, 36y KOppeKTupyeT nonayy TOnnnBa B 3aBNCNMOCTNOTyrnaOTKpbITNAApOCCenbHON 3aCNOHKN(T.e.nOKenaHNIOBOZNTeg).
 
@@ -12677,7 +11983,6 @@ AaT4NK AeTOHAUNN npnkpenneHK BepxHen 4aCTN 6noka LNnNHAPOn B 30HeMexAy 2-MW 3-M 
 Bnpoueccepa6oTbl 35yncnonb3yeT TaKxeAaHHble 0 CKOPOCTNaBTOMO6nng, nonyyaeMbleoT6noka ynpaBneHngABS. HaBepcnax aBTOMOoung, He 06OpyAOBaHHbIX ABS, AA ton Lenn NCNOJb3yeTCA AaT4NK CnNAOMeTpa,yCTaHoBneHHblNBKopo6kenepeAay,Nn OTAenbHbIn AaT4NK 4aCTOTbI BpaWeHNg npaBoronepenHerokoneca.
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_b3163d0f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/d8b2a534465b5f5df3c509e6189d4e4cac6035a26392586c3eb41f2c6a3f609d.webp)
 
@@ -12698,7 +12003,6 @@ Ang BbIBOAaN3 naMATN 36y KOAOB HeNCnpaBHOCTen, BbIBneHHbIXnpNpa6oTeCnCTeMbl ynpa
 ANarHOCTN4eCKnN pa3bempacnonoxeH B canOHeaBTOMOnngCNeBONCTOPOHbIPAOM CpyKOgTkOnnpNBOna 3aMkakanoTa,KAnarHOCTN4eCKOMy pa3beMy MOKHO NOAKOUNTb CKaHNpyioueeycTpoNiCTBO, KOTOpOe C4NTblBaeTNHcOpMauNiO CnocnenoBaTenbHonWnHblAaHHbIX. H 800
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_acafcbad` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpexAe 4eM CHNMaTb no6ble y3nbl CNCTeMbl ynpaBneHns BnPbICKOM TOnnNBa,OTCOeANHNte nPOBOA OT KJeMMbI "MNHyC" aKKyMynsTOPHON 6aTapen.
 He nyckante ABNratenb, ecnn HaKOHeYHNKN npOBOAOB Ha akkyMyngTopHon 6aTapee noxo 3aTSHyTbl.
@@ -12706,7 +12010,6 @@ HnkorAa He OTCOeANHANTe aKKyMynsTOPHyIO 6aTapeloOT 6opToBON CeTN aBTOMO6NnA npn 
 NpN3apgAkeakkyMynsTopHon 6aTapen OTcoeANHATe ee OT6OpTOBON CeTN aBTOMO6nA.
 
 ### BO3MOXHbIEHENCNIPABHOCTN CИCTEMbIyNPABNEHN9ABNrATENEM,NXNPN4NHbI NCNOCOEbIyCTPAHEHNЯ
-`kia_rio_en_7318b5c1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5e881478e3d2cd8f42bc775ec6e9447b32362718ae098dd005f3096363fc4078.webp)
 
@@ -12717,7 +12020,6 @@ NepeA npobeAeHNeM ənekTpocBapo4HbIX pa6OTHa aBTOMOONne OTCOeANHANTe npOBOAa OT 
 Bce NMpeHne HanPAkeHns BbInoHnte 4NΦpOBbIM BONIbTMeTPOM, BHYTPEHHee COnPOTNBeHNeKOTOpOroCoCTaBgeTHeMeHee 10MOM. nektpoHHbiey3nbl,npnMeHgeMble BCNCTeMe BnpbIcka TOnsnBa, pacc4NTaHbl Ha o4eHb Manoe HanpaxeHne, NO3TOMy nerkO MoryT6bITb noBpexAehbl 3nekTpocTaTN4ecKNMpa3paAOM. AnToroyTo6bl He AONyCTNTb NobpexAenng 3by,He npnkacaiecb pykaMN ero BbIBOAaM. AANarHocTnkNcncTeMbIynpaBneHnsABnraTeneM BO BCex cnyuagx Tpe6yerca cneunanbHOe CKaHNpyioweeyctpoicTBO, nO3TOMy npn BO3HNKHOBeHNN HeNCnpaBHOCTeN CNCTeMblO6- pawanTecb Ha cneunann3npoBaHHbli cepBNc.
 
 ### BaM noTpe6yetca Topuoban ronobka “Ha10".
-`kia_rio_en_78bbdf83` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha aBTOMO6nne yCTaHOBNeHbl 4eTbipe KaTyWKN3axnraHNg, kaxnag N3 KOTOPbIXHenOCpeACTBeHHOCOeANHeHa CO CBeyoN3axnraHNA WpacnonoxeHa B CBe4HOMKONOAue ronOBKN 6nOka LNnNHAPOB.
 
@@ -12743,7 +12045,6 @@ Ha aBTOMO6nne yCTaHOBNeHbl 4eTbipe KaTyWKN3axnraHNg, kaxnag N3 KOTOPbIXHenOCpeAC
 5. OTOXMNTeNKcaTOp NOTCOeANHNTeKONOAKyXryTanpOBOAOBOT KaTyWKN3aXNraHNg.
 
 ### 3AMEHANOBCJYKNBAHNE CBE4EN3AKNrAHNЯ
-`kia_rio_en_a79eb29a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BaMnoTpe6yeTcg cneunanbHbin KnOY "Ha 16 BbIBOpa4NBaHng CBe4e3aKNrAHng(Cpe3NHOBON BTynkON Aig yAepXNBAHNg CBeUN). 000
 
@@ -12752,14 +12053,12 @@ BaMnoTpe6yeTcg cneunanbHbin KnOY "Ha 16 BbIBOpa4NBaHng CBe4e3aKNrAHng(Cpe3NHOBON
 ![](images/6d43013ec349e7d07e5d4e6e043114e17e79a1da8f7f9e8e063980ecdffcea33.webp)
 
 ### 3.BbIBepHNTe CBeyN..
-`kia_rio_en_868d4910` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/112144d3729eddf6ad85094d4d2a2e2f794c5af12774e91519c2a1ef1c4bb5b1.webp)
 
 4.NN3BneKNTe NX N3CBe4HbIX KOnOALeB.
 
 ### NPNMEYAHNE
-`kia_rio_en_f21d31b7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OCMOTpNTe CBeUN N OLeHNTe NX COCTORHNenO BHeWHeMy BNAy(CM."ANarHOCTNKaCOCTOHN ABNraTensnO BHeWHeMy BNAY CBeyen 3axnraHNA,C.43). SDOR
 
@@ -12771,14 +12070,12 @@ OCMOTpNTe CBeUN N OLeHNTe NX COCTORHNenO BHeWHeMy BNAy(CM."ANarHOCTNKaCOCTOHN AB
 6. ECNN3a3OPOTIN4aeTCAOTHOMNHaNbHOro 3Ha4eHnA, OTperysnpyite ero, nonrnoas 6OKOBOn anekTpOA.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_10d5d72d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Perynnpyute 3a30p TOnbKO noArn6aHneM 6oKOBOrO anektpona. Jo6onn3rn6 ueHTpanbHoro ənektpoAa npnBeAeTKnOnOMke BO0NNTOpa CBe4N. 1
 
 7.ycTaHOBNTe CBe4N 3aXNraHN9 BNoPoAke,O6paTHOM CHATNIO.
 
 ### BaM noTpe6yetca OTBepTKa C kpecTOo6pa3HbIMNIe3BNeM. 2
-`kia_rio_en_81a85404` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTcOeANHNte nPOBOA OT KneMMbI"MNHyC"akkyMynTopHoi 6aTapen.
 
@@ -12796,7 +12093,6 @@ Perynnpyute 3a30p TOnbKO noArn6aHneM 6oKOBOrO anektpona. Jo6onn3rn6 ueHTpanbHoro
 6.ycTaHOBNTe 36yB nopaAke, 06paTHOM CHATNIO.
 
 ### 3AMEHA AAT4NKOB CNCTEMbI YNPABNEHN ABNTATENEM
-`kia_rio_en_bc2e7885` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/1f2fe461a15205b1f564854fab890c77aa4e5fe54894c416c9df12f1a3e26e32.webp)
 
@@ -12826,7 +12122,6 @@ BaM noTpe6yIoTcA: Topuobas ronObka "Ha 8", OTBepTKa CnnOCKNMNe3BNeM.
 AaT4NK AINIoOOn pacnpeAenntenbHorO Bana（AaT4NKa3bI) yCTaHOBneHBnepeAHen 4acTn FONOBKN 6noka LNNNHAPOB. npn HeNCnpaBHOCTN B uenn AaT4nka 3nekTPOHHbIN 6noKynpaBneHNgABuraTenem 3aHOCNT B naM9Tb KOA HeNcnpaBHOCTN N NCnonb3yeto6xoAHyionporpaMMyynpaBneHng ABNraTeneM (6e3 N3MeHeHNA Φa3 ra3opacnpeneneHng). 5
 
 ### BaMnoTpe6yeTcg Koy“Ha 10".
-`kia_rio_en_854d2764` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. OTcOeANHNTe nPOBOA OT KneMMbl "MNHyC"akkyMyngTopHoi6aTapen.
 
@@ -12850,7 +12145,6 @@ BaM noTpe6yIoTcA: Topuobas ronobka "Ha 19",TecTep,epMoMep TNK
 1 OTCOeANHNTe nPOBoA OT KneMMbI "MNHyC"aKkyMyngTopHon 6aTapen. 18 2.CneTe nKOCTb 3 CNCTeMblOxaxneHNA ABNraTeng (CM,"3ameHaoxnaxnaiowen NAKOCTN>,C.92). 08 H 9031
 
 ### NONE3HbINCOBET
-`kia_rio_en_884ce977` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 IpN3aMeHeAaT4nka OxnaxAaIo山yiOnAKOCTb MOXKHO He CNBaTb: nocne CHATNN AATYNKA 3arnywnte OTBepCtne nanbLem nnn npo6kon NOTePAKNAAKOCTN 6yAeTMNHNManbHOn.
 
@@ -12871,7 +12165,6 @@ IpN3aMeHeAaT4nka OxnaxAaIo山yiOnAKOCTb MOXKHO He CNBaTb: nocne CHATNN AATYNKA 3
 7.pN OTKNOHeHNNCONPOTNBNeHNAOT HOPMbl3aMeHNTeAaT4NK. 法 3
 
 ### NPNMEYAHNE
-`kia_rio_en_3db9087b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ans repmetn3aunN CeAnHennn HaHeCNTe Ha pe3b60Byio nOBepXHOCTb He6onbwoe konnyeCTBOrepMeTNka.
 
@@ -12915,7 +12208,6 @@ Nan8.08m 8795362 HHA
 AaTYNKAeTOHaUNN yCTaHOBNeH Ha CTeHKe 6nOkaunnNHApOB（BerOBepXHe 4aCTn)B30- He MexAy2-MN3-MLNnnHApaMn.pNOTka3e AaT4nka 3nekTpOHHbln 6nokynpabneHng ABNraTenem 3aHOCNT B naMgTb KOA HenCnpaBHOCTN N NCnonb3yeT 06X0AHyIO nporpaMMyynpaBneHng ABNraTeneM (c yMeHbWHHbiMyroMnepekeHg3akuraHngA NCKNIOYEHNSAeTOHALNN). a adAn ET NAROE
 
 ### BaMnoTpe6yeTcRKnIoy“Ha13.
-`kia_rio_en_1cbce755` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTcOeANHNTe nPOBOA OT KeMMbl "MNHyCakkyMyngTopHon 6aTapeN. OMS!
 
@@ -12938,7 +12230,6 @@ AaT4NKa6cOnIOTHorOAaBnIeHNg BO BnyCKHONTpy6eyCTaHOBneH HaBnyCKHON Tpy6e. OH Φnk
 4.BbIBepHnTe BNHT KpenneHNAAaT4Nka..
 
 ### BaM noTpe6yetca OTBepTKa C KpecTO-o6pa3HbIMNe3BNeM. U PCTF.
-`kia_rio_en_4da4e1a1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. OTCOeANHNTe nPOBOA OT KneMMbI MN-HyCakkyMynTopHon6aTapen.2. OTBeANTe ApoccenbHbly3enBCTopOHy,He OTCOeANHAA WnaHrn CNCTeMbI oxnaxne-HN（CM.CHATNeN yCTaHOBkaApOcceAbHoroy3na,c. 108). Jno8
 
@@ -12995,7 +12286,6 @@ L M OTCOeANHnte KOnOAKyKryta npOBODCBOT3nekTpoMarHNTHOrOKnanaHa CNCTeMbl HeHM9 �
 5.ycTaHOBNTe HOBbl 3neKTpOMarHNTHbln KnanaH B nocneAOBaTenbHOCTN, 06paTHon CHATNIO.
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_26c5fbc2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Φapbl. Ha aBTOMO6NnAX HPNMHAIOTCA 6nok-Φapbl, obennHnomne B ce6e naMnbl 6nnxHero/nanbHerocBeTa, ra6apnTHbleorHN N yka3atenn nOBOpOTa. B ΦapaxnpnMeHeHa TaKHa3blBaeMasOnTNka npo3pa4HbIX CTeKOn. nnaΦoH Φapbl 06CONIOTHO npo3pa4eH N He o6nanaeryHkunenpaccenBaHng. OHN3r0- TOBNEH N3nnacTnka, 6onenpospa4Horo, 4eM CTeKNO, KTOMy\*eHaMHOrOer4eCTeKnAHHOro nnacoHa. Cnon 3amnTHoro naka npenoxpaHgeT ero OT MenknxnoBpexneHni(uapaNNH). B yka3aTengx nOBOpOTa HeT LBeTHbIX CBeTOCunbTpOB, BMeCTO HNX NCNOb3yIOTCA NaMnbICOCTeKIOMCOOTBETCTByIOLIerOLBETa.
 
@@ -13012,7 +12302,6 @@ yka3aTenN noBopota. yka3atennnpaboro NnN neBOrOnOBOPOTaBKIOyaIOTCANeBbIM noApyne
 3nektpokoppektop cBeTaΦap.Ha aBTOMo6nnn yCTaHaBNNBaIOT ənektpokoppektop CBeTaap,nO3BonIon N3MeHTb HanpaBneHne ny4ka CBeTa Φap B BepTNKaNbHON NOCKOCTNB3aBNCNMOCTN OTHarpy3KNaBTOMOOnng.
 
 ### NONE3HbIE COBETbI
-`kia_rio_en_766f03a8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn apbl BApyr CTann ropeTb TyCKIO, anpn BKIOYeHNN CurHana nOBOpota Ha4NHaeT MNraTb naMna ra6apnTHoro orHs, BOCCTAHOBNTe KOHTAKT "MaccoBorO"npoboAa CKY30BOM. Bo3bMNTece6e BnpNBbIykyperynaPHOMeHAtb naMnbl (oco6eHHo rOJOBHOrO CBeTa Φap). Co BpeMeHeM kon6a naMnbl MYTHeeTN APKOCTb naMnbl yMeHbWaeTCs. Npnyem 3TOT npouecc NPOnCxOANAOBOnbHOeHHO,NOTMyBO ANTenbHe 3aMeyaeT nocTeneHHorO yxyAWeHNA OCBeWeHHOCTNAOPOrn.
 
@@ -13024,7 +12313,6 @@ BO3MOXHbIEHENCNPABHOCTNOCBE山IEHNANCBETOBONCNFHAIN3ALNN,NXNPN4NHbIN CNOCOEbIyCT
 HOCTb CBepx HOPMbl. 4aCTOyCTaHOBKa TaKNX NAMn nPnBOAnt K nnasnnoDnnnno BOAOB,neperopaHnioneyaTHbIx CXeMMOHTaXHbIx6noKOBN Aaxe noxapy!Jlyuwe Henpno6peTante3a CBON AeHbrn "ronOBHyio 6onb",a KynnTe o6bI4Hble, peKOMeHAOBAHHble aBTOnPON3BOANTeneM, naMnbl xopowero kayeCTBa,TeM 6onee 3akOH B HaCTO山ee BpeMA He noOWpAeT yCTaHOBKy Ha aBTOMO6Nnb HeWTaTHON CBeTOTeXHNKN.
 
 ### NPOBEPKANPEFYNNPOBKA CBETAΦAP
-`kia_rio_en_07a9ac0e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpoBepky NperynupoBky CBeTa ΦapnpoBOANTeHaCHapAXeHHOMaBTOMO6Nne(CnonHOCTbIO 3anpaBneHHbIM TONNBHbIM 6akoM, KOMNNeKTOMNHCTPYMEHTOBN 3anacHbIM KOecoM)OnNcaHHbIMB AAHHOM noApa3nene Cnoco6oM C npnMeHeHNeM pa3Me4eHHoro 3kpaHa MOKHO perynnpobaTb CBeT TOnIbKO apCraoreHoBbIMNNaMnaMNHakanNBaHNg. AnperynnpobkN CBeTa Φap C ra3opa3paAHbIMN naMnaMno6pawanTecb Ha cneunann3NpOBaHHbINcepBNC, pacnonaraiownnontn4eCKNMNCTEHAAMN.
 
@@ -13071,12 +12359,10 @@ AnperynNpOBkN nPOTnBOTyMaHHbIxap BbInOnHnTe cneAyiomee.
 2. yctaHOBNTe aBTOMO6Nnb nepneHAnkynAPHO rnankOn CTeHe Ha PaCCTOAHNN 1 M. Pa3MeTbTe Ha CTeHe 3KpaH, Kak nOka3aHOHa pvC.10.8.Pa3MepblA19pa3MeTkNyKa3aHblB Ta6n.10.8.a4HeaOo6nb c6oy6blCaMOyCTaHOBUnNCbnpyKNHbInOABeCOK.
 
 ### NPOBEPKANPEFYNNPOBKA CBETAΦAP
-`kia_rio_en_c362f763` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3.Bpauag OTBepTkon perynnpoboyHbin BNHT no 4acOBON CTpenke NnN nPOTNB Hee, OTperynupyute CBeT NPOTNBOTyMAHHbIX Φap TaK,4TO6bIBepXHg9rpaHNuaCBeTOBOrOngTHa 56bna HnkerOpN3OHTanbHonnNHNN 44eHTpaNaMnnPOTNBOTyMaHHbIX apHa60MM.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_255b3cb0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 epeA3aMeHoinaMn Bnpn6opaxocbewenng aBTOMOONngOTCOeANHNTenPOBOAOT KeMMbl "MWHyC"akkyMyngTopHon 6atapen.
 
@@ -13107,7 +12393,6 @@ PNC.10.8.Pa3MeTka3KpaHaAperyspoBKnpoBoTyaHHbIxap:1-BepTKabHanHAeHTpaCBeToBoronoT
 5.YcTaHOBNTenaMny 6nnxHero/AanbHero CBeTa BnOPAAKe,O6paTHOMCHATNIO.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_4d97c83e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HeKacaiTecbnanbuaMNKon6blJaMnbl,TaKKaK JaMna CNnbHO HarpeBaeTcg NXNpHble NSTHa Bbl3OByTnOTeMHEHNeKOn6bl. bepntenaMny3a KOn6yTOnbKO B 4NCTbIXnep4aTKaXNnN4NCTON TPAnKON. Ecnn Ha namne BCe-TaKN OCTaHYTCA nTHa,yAannte NX cancerkon, CMOYeHHON CnNPTOM. 中
 
@@ -13173,7 +12458,6 @@ KN6araxHNka>,C.243).
 ![](images/18c6ab4791171b31dbeb385e8cc103071e88a191397f0fbf9facf5b3896958fb.webp)
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_e4514647` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/fc3496f14166fa3c210c937d47f7eac51fc3b675a6ef0f88a746e3737b5c19a8.webp)
 
@@ -13193,7 +12477,6 @@ KN6araxHNka>,C.243).
 4.HaxMte HaaMnynoBepHnteeenpoTNB 4acOBOnCTpenKN N3BnekntenaMny N3 naTpOHa. 5.yCTaHOBNTe HOByIOaMny BCeAeTanNB NOPAAke,O6paTHOMCHATNIO A3aMeHbl aMnbl 3aAHero yka3ateng nOBOpoTa BbInOnHnte CneAyIoWee.
 
 ### NPNMEYAHNE
-`kia_rio_en_195b1303` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/8fb3dafd05ab597723a5535510b7301110f23f2cacadd15c574b1c6a698da029.webp)
 
@@ -13261,7 +12544,6 @@ An 3aMeHbI amn B oHapax ocBewenng HOMepHOrO 3Haka BbInOnHNte cneAyio山ee.
 2...N3BneknTennaOHN3npoema.
 
 ### NPNMEYAHNE
-`kia_rio_en_e69e0aa1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/c18775d21ae4799b0303ba4b4def0fa832e40c247185ed7165f22bb4d9a5d786.webp)
 
@@ -13308,7 +12590,6 @@ An 3aMeHbl NaMnblBnnacoHeo6weroocBeweHng BbInonHntecnenyIoLne Onepaunn.
 3. Npeononebas COnPOTnBneHne npyKNHHbIXKOHTaKTOB,N3BneKNTeaMny. 4.ycTaHOBnte aMny o6meroocBe山eHng canoHa BnOPaAke,O6paTHOMCHTNIO.
 
 ### 3AMEHA 6JOK-ΦAPbl
-`kia_rio_en_11871279` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/33a34e1a8dcc6900b9f31042c4d75928507103f00e169f80b438b70b723925d7.webp)
 
@@ -13341,7 +12622,6 @@ BAM noPyIOcg:KnIoy Nnn TOPUBs rOnOBka "Ha 10, OTBePTKa C nocoIw Ne3BNeM.
 9. CHNMnte 6nok-apy caBTomo6ung. 10.YctaHoBnte 6nok-Φapy BnOPaAke, 06- PATHOMCHATNIO.
 
 ### BaM nOTPe6yIoTCe: Knoy Wnn TOPLoBag ronoBka《Ha10》.
-`kia_rio_en_61fc9ac6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aAHnn ΦoHapb COCTONT N3 AByxyacTen, OAHa N3 KOTOpbIx3akpeneHa BnpoeMe 3aAHerokpblna Ky30Ba, a BTOPag- Ha KpbIWke 6araxHNka.oka3aHa3aMeHaneBoro3aHeroΦoHaps,npaBbl 3aAHnoHapb3aMeHIOTaHanorn4HO.
 
@@ -13379,7 +12659,6 @@ Wnnnbkn kpenneng N3 OTBEPCTNN KPbIWKN 6araxHuka.
 7.VcTaHOBTe 3aH OHapbBCeAeTanN BnopaAke, 06paTHOMCHATNIO.
 
 ### 3AMEHA 6OKOBOro OHAPA YKA3ATENSNOBOPOTA
-`kia_rio_en_6c6ad35d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BaMnOTpe6yIOTCA:OTBEPTkaCnNOCKNM Je3BNeM wnnnpncnoco6neHne AA CHATnOonnuobok canoHa.
 
@@ -13398,7 +12677,6 @@ BaMnOTpe6yIOTCA:OTBEPTkaCnNOCKNM Je3BNeM wnnnpncnoco6neHne AA CHATnOonnuobok can
 3.poBepHnTe naTpOH nPOTNB yacoBon CTpenkN N CHNMNTe ΦOHapb yka3ateng noBOPOTa. 4.ycTaHOBTe6OKOBoiOHapbyka3aTeng nOBOpOTa B nopaAke, 06paTHOMCHATNIO.
 
 ### BaM nOTPe6yIOTCg:OTBePTka CnNOCKNM ne3BNeM,TOpLObag rOnOBka “Ha10"
-`kia_rio_en_93a349b1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTcOeANHNTe nPOBOA OT KneMMbl MNHyCakkyMyngTopHon 6aTapen.
 
@@ -13420,7 +12698,6 @@ uT 4 nonAeHbTe OTBEPTKON wnN cneunanbHbIMnpucnoconeHneMA CHATNA oonnuoBOK casoHa
 5...N3BneknTennacOHN3O6NBkNnoTonka Npa3BepHNTeero. 福 全话
 
 ### BaM nOTpe6yIOTCg:OTBePTKN C KpecTO-06pa3HbIMN nJOCKNMJe3BNeM.
-`kia_rio_en_85bd5ff8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTcoeANHNTe NPOBOAOT KnIeMMbI "MNHyCaKkyMyngTopHoi 6aTapen.
 
@@ -13448,7 +12725,6 @@ R 7 pNHeo6xOANMOCTN3aMeHNTe BbIKAIO4aTenb naMnbl nnacoHa NHANBNAyaIbHOrO OCBe山
 10...n,npeononeBag conpoBneHnenepxatenen, CHNMNTe ero. 11.ycTaHOBNTe nnaOH NHANBNAyanbHoro OCBeWeHNABnOPAAKe,O6PaTHOMCHATNIO.
 
 ### BaM noTpe6yeTca OTBepTKa CnSOCKNM eBnem nnn npncnoconehne Ang CHATAOnnuoBokcanoHa.
-`kia_rio_en_26a09f4f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTCOeANHNTe npoBoA OTKeMMblMNHyC"akKyMynTOpHON 6aTapen.
 
@@ -13465,7 +12741,6 @@ R 7 pNHeo6xOANMOCTN3aMeHNTe BbIKAIO4aTenb naMnbl nnacoHa NHANBNAyaIbHOrO OCBe山
 4.OTOXMNTe NKcaTOp N OTCOeANHnTe KONOAKyXryTanPOBOAOB OTnnadOHa 5.yctaHoBnte nnaΦoH o6uero ocBemeHNg canOHa B NOPAAke,O6paTHOMCHTNIO
 
 ### 3AMEHANAOHA OCBEWEHNA BATAXKHNKA TN 8
-`kia_rio_en_e84b6d39` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5fd97041ff4b9a3f19b3acd3e249f64e354d5db1f89bc70eb3caf460c30a3da4.webp)
 
@@ -13481,7 +12756,6 @@ An 3ameHbl nnacoHa ocBeweHng 6araxHNKa NHCTPyMeHT HenoTpe6yeTcA.
 3. OTOXMNTeΦuKCaTOpNCHNMNTennaOH. 4.YcTaHOBnTennaoHocBeueHng6ara\*- HNKa BnOPAAKe,O6paTHOMCHATNIO. ed
 
 ### BaM nOTpe6yIOTCЯ:OTBepTKN C KpeCTOo6pa3HbIMN nJOCKNM e3BNeM.
-`kia_rio_en_44aa2740` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. OTCOeANHNTe nPOBOA OT KeMMbI "MNHyC"akkyMynTopHoi 6atapen. 2. CHNMNTepyneboe koneco (CM. "CHATNe NycTaHoBkapyeBorOKOneca>,C. 163). 3. CHNMNTeKOXyX pynebon KONOHKN (CM. "CHATneNyCTaHOBkaKOxyxapyneBON KOnOHKN,C.164). 4.CHNMNTe KOHTaKTHOe KOnbLO 3ByKOBOr0 curHana NnOAy山KN 6e3onaCHocTNBOANenA (CM."CHЯTNe N yCTaHOBKa KOHTaKTHOrO KOnba,c.294).
 
@@ -13512,7 +12786,6 @@ pNHeO6XOANMOCTNMOKHO 3aMeHNTbTOIbKO nepeknoyatesb OUNCTNTANOMbIBATN BeTPOBOro CT
 9.ycTaHoBnte noApyneBble nepeknlo4atenNBnoPaAke, 06PaTHOMCHATNIO.
 
 ### BaM noTpe6yetca Topuobas ronoBka "Ha10)
-`kia_rio_en_3dc1a3d7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.YcTaHOBNTe aBTOMO6NbHa NOAbeMHNK WAN CMOTPOByIOKaHaBy. 2.OTcoeANHnTe nPOBOA OT KNeMMbI "MNHyC"akkyMyngTopHon6aTapen. 3.CHNMnTenepeAHni6pbl3roBukABuraten (CM. CHATNe N yCTaHOBka 3auNTbI KapTepaN6pbI3rOBKOBABnraTeng,C.67). M
 
@@ -13527,7 +12800,6 @@ pNHeO6XOANMOCTNMOKHO 3aMeHNTbTOIbKO nepeknoyatesb OUNCTNTANOMbIBATN BeTPOBOro CT
 6. NCHNMNTe3ByKOBOCNrHan. 7.ycTaHOBNTe3ByKOBONCNrHanBnOpAAKe, O6paTHOMCHATNIO.
 
 ### BaM noTpe6yIoTca: KIONN Ha12”, Ha 27",Topuobag rOnOBka "Ha 10".
-`kia_rio_en_849a2714` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTCOeANHNTe npOBOA OT KneMMbI "MNHyC"aKKyMynTOpHOn 6aTapen. 2.CHNMNTepbI4arnCTeKsIoO4NCTNTenA (CM. "CH9TNe NyCTaHOBKapbI4arOBCTeKnOOUNCTNTenABeTpOBOrO OKHa", C. 270). 3.CHNMnte pemeTky kopo6aBo3AyxonpnTOKa(CM. "CHATue N yCTaHOBka peweTkN KOpo6a BO3AyxonpnTOKa,c. 242). 4 CHNMNTeTpaneLNIO CTEKNOO4NCTNTenA (CM. "CHATNeN yCTaHOBkaTpaneunn CTeKnOO4NCTNTeng BeTpOBOrO OKHa",C.270).
 
@@ -13549,7 +12821,6 @@ pNHeO6XOANMOCTNMOKHO 3aMeHNTbTOIbKO nepeknoyatesb OUNCTNTANOMbIBATN BeTPOBOro CT
 8..NCHNMNTe MOTOpeAyKTOp.
 
 ### NPNMEYAHNE
-`kia_rio_en_fe4e48ee` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nepeA yCTaHOBKON HOBOrO MOTOpeAyKTOpa Heo6xoAnMo ero OTperynnpoBatb (yCTaHOBNTb BKOHLeBoe nonoxeHne) cneAyioWnMo6pa3om: NOACOeANHNTe KONOAKy kryta NPOBOAOB K MOTOPeAyKTOpy;
 nOnOKNte MOTOpeAyKTOP B npoem kopo6a BO3Ayx03a60pHNKa;
@@ -13563,14 +12834,12 @@ nOnOKNte MOTOpeAyKTOP B npoem kopo6a BO3Ayx03a60pHNKa;
 9. ycTaHOBNTe MOTOPeAyKTOP B nopaAke, 06paTHOMCHATNIO.
 
 ### OMbIBATENb 2X BETPOBOrO CTEKNA
-`kia_rio_en_df14dbd0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3AMEHA 3NEKTPOHACOCA OMbIBATENЯ
 
 ![](images/19bfee38d45a77dfd5ef2191f31aa974bac92428962b5fc34c1f167b3f38283f.webp)
 
 ### BaMnOTPe6yIOTCR:OTBEPTKN CNNOCKNM W KpeCToo6pa3HbIMNe3BNeM.
-`kia_rio_en_34625f8e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. 3aTopMO3NTeaBTOMo6wnb CTORHOYHbIM TOPM030M, yCTaHOBNTe ynopbl ("6awMakn>) NoA3aAHNeKOneca, nOAAOMKpaTbTenpaByio nepeAHIOIo 4acTb aBTOMO6nnA N CHNMNTe npaboe nepeqHeeKoneco. 2. OTcOeANHNTe npOBOA OTKeMMbl "MNHyC"aKKyMynTOPHOn 6aTapen.
 
@@ -13581,7 +12850,6 @@ nOnOKNte MOTOpeAyKTOP B npoem kopo6a BO3Ayx03a60pHNKa;
 4 NN3BneKNTenNCTOH N3OTBePCTNA. AHaNOrn4HO N3BneKNte nnCTOHbI KpenneHngnAKpbInkanepeqHerokoneca K6aMnepyNKy30By.
 
 ### NPNMEYAHNE
-`kia_rio_en_79c8163f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/862bcfbb38a0ae470aaf64b72bd3632f60fcfcc0affd8727369175ae2c0f837b.webp)
 TakpacnonokeHbl nnctoHblKpenneHns nepeAHero noAKpbIka KnepeAHemy6aMnepy..
@@ -13624,7 +12892,6 @@ TakpacnonokeHbl nnctoHblKpenneHns nepeAHero noAKpbIka KnepeAHemy6aMnepy..
 14.ycTaHoBNTe 3nekTpoHacoc OMbIbaTeng BeTPOBOro CTeKna B nOPAAke, 06paTHOM CHATNIO.
 
 ### CHATNE NYCTAHOBKA BA4KA OMbIBATENA
-`kia_rio_en_d894827e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/78b506cb5e754b13406dc5d00fd74c9ca1bcc1011c6f4d76d88b56d523657008.webp)
 
@@ -13667,19 +12934,16 @@ BaM noTpe6yIoTcA: Topuobas ronOBka“Ha 10, OTBepTka C KpecT0o6pa3HbiMne3BNeM.
 nneHng6a4kaOMbIBaTengNCHNMnTe6a4ok onyckageroBHN3. 13. ycTaHOBNTe 6a40K OMbIBaTeng N BCe AeTAnNBnOpaAke,O6paTHOMCHTNIO.
 
 ### 3几EKTPOCTEKIONOAbEMHNKN 9
-`kia_rio_en_f85492d5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3AMEHA BJOKAYNPABNEHNA 3NEKTPOCTEKIO NnOv NH NOAbEMHNKAMN 1SuDo HUE
 
 ![](images/04bb4b1da504030b8fe769707fa54d2572ee26b3d7e506c45b3791dc3f4e97b1.webp)
 
 ### BaM NOTPe6yIOTCA:OTBePTKN CNNOCKNM W KpeCT006pa3HbIMNe3BNeM.
-`kia_rio_en_b15099e2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTCOeANHnte npOBOA OT KNeMMbIMNHyC"akkyMyngTopHon 6atapen. 2. CHNMNTe o6nnuoBky nepeAHen ABepn (CM."CHATne N yCTaHOBka o6nNLOBkN nepenHeNABepN", c.247).
 
 ### NPNME4AHNE
-`kia_rio_en_e58e2ea1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/d7165378c4ad44766af0113dc1dcfdd69a35ac11136c6fc0b47564a16c045056.webp)
 
@@ -13701,7 +12965,6 @@ Tak pacnonoxeHbl 6ontbl 6 Nukcatop AkpenneHng6aukaOMbIBaTensKJOHkepoHyKy3OBa.
 5..N6nokynpaBneHng 3nektpocteknonoAbeMHNKaMN. 6.ycTaHOBute6nokynpaBneHngCTeknonoAbeMHNKaMNNBCeAeTaN BnopaAke,o6patHOMCHATNIO.
 
 ### BaMnoTpe6yeTca KNIOY TORXT20.
-`kia_rio_en_9af2bb46` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTcoeANHNTe nPOBoA OTKeMMbl "MNHyCakkyMynTopHon6atapen. 2. CHNMNTe o6nvuoBky nepeAHeABepn N BnarO3aWNTHyIOnneHKy(CM.CHATNeN yctaHOBKa o6nnuoBkn nepenHei ABepn,C.247).
 
@@ -13725,7 +12988,6 @@ HXAAKAEHNN
 ![](images/bf6e66a609fe37d1b11e6426e51a0e605ca7d3bcb863464adc132a6618752207.webp)
 
 ### BaM noTpe6yIOTCA: Topuobas ronobka"Ha 10", OTBePTKa C KpecToo6pa3HbIMne3BNeM.
-`kia_rio_en_ff78bb22` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. CHNMNTe 3neKTpOBeHTnnTOP CNCTeMbI xnaxnenna ABNraTeng B c6ope C KOXyXOM (CM. "CHATne NyCTaHOBKa 3nektpoBeHtngTopa pannatopa cnctembl OxsaxAeHng ABNraten9 B c6ope c KoxyxoM>,C.96).
 
@@ -13754,7 +13016,6 @@ HXAAKAEHNN
 7. ...N OTCOeANHNTe 3nekTpoABnraTenb BEHTNNATOPaOT KOxyxa. 8.YcTaHOBNTe3neKTpOABNraTenbBeHTWngTopa pannatopa CNCTeMbIOxnaxAeHN BCe AeTannBnopgAke O6paTHOMCHRTNIO.
 
 ### BaM noTpe6yeTca OTBepTKa CKpeCTOo6pa3HbIMNIe3BNeM.
-`kia_rio_en_392449da` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTCOeANHNTe nPOBOA OT KeMMbl"MNHyCakkyMyngTopHoi 6arapen. A
 
@@ -13771,7 +13032,6 @@ HXAAKAEHNN
 4 NCHNMNTeBeHTNnSTOpBO3AyXOHarHeTaTeng,OnyCTnBero BHN3. 5.yCTaHOBNTeBeHTNnTOpBO3AyXOHarHeTaTeng BnopaAke, 06paTHOMCHATNIO. ABE
 
 ### 3AMEHA AONONHNTENbHOrO CONPOTNBNEHNA BEHTNNATOPA BO3AyXOHAFHETATENA
-`kia_rio_en_dc4dd475` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/ecb530335a8af2fdc28d177a710dc49768c410849627b0526a5bae5ec16b3611.webp)
 
@@ -13795,7 +13055,6 @@ BaM noTpe6yetca OTBePTKa C KpecTO-o6pa3HbIMNe3BNeM.
 5.YcTaHOBNTeAOnOnHNTenbHoe COnpOTNBneHne BeHTNNATOPa BO3AyXOHarHeTaTeng B nOPaAke, O6paTHOMCHATNIO.
 
 ### BaM noTpe6yeTcA OTBEPTKa CKpeCTO6pa3HbIMNe3BNeM.
-`kia_rio_en_458287d2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. OTcoenNHNTe nPOBOAOT KeMMbI MNHyCaKkyMynTopHoi6aTapen.
 
@@ -13812,7 +13071,6 @@ BaM noTpe6yetca OTBePTKa C KpecTO-o6pa3HbIMNe3BNeM.
 4. CHNMNTe 6nok ynpaBneHng HapyXHbIMN 3epkanaMN3aAHeroBNna. H 5.YcTaHoBute 6nok ynpaBeHng HapyxHblMИ3epkanaMN3aqHerOBnAa BCeAeTanNB nOpaAke, 06paTHOMCHATNIO.
 
 ### З几EKTPOObOrPEB 3AAHErO OKHA
-`kia_rio_en_8f8214a1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HarpeBaTenbHbli əneMeHT3aqHeroCTeknaCOCTONT N3 ropN30HTanbHbIX TOkonPObOnn-山nXnonoc, COeANHeHHbIXno 06enM CTOPO-
 
@@ -13841,7 +13099,6 @@ AnpeMoHTa HarpeBaTenbHoro 3neMeHTaMOKHO NCNOnb3OBaTbOANH 3CA Bnponaxe cneunanbHb
 4. TuaTenbHo nepeMewaiTeoTBepANTenbCOCHOBHbIMCOCTaBOMCePe6pNCTOrOLBeTa.EcnNOTBepANTenb3aryCten,noMecTuTeyna-KOBKyC HNM B ropauyio BOAyN nOnOXANTe,nOkaOTBePANTenbHeCTaHeT\*NAKNM.5.HaHeCNTeKOMnO3NLNIOAepeBaHHOnO-naTkOHapeMOHTNpyeMblNy4aCTOKNCHNMN-TenNnKyIOneHTy.6.ycTaHoBNTe HarpeBaTenbHapacCTO9HNN25 MMOTnOBpeXAeHHOrOMeCTa NHarpeban-TeKOMnO3NuNIOBTe4eHNe1-2MWH.
 
 ### NPNMEYAHNE
-`kia_rio_en_915b39df` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BHeKOTOPbIX Ha6opax COCTaB He HaAO HarpeBaTb:OHnONNMePN3yeTCAnPNKOMHaTHONTeMnepaType.
 
@@ -13856,7 +13113,6 @@ Ecnn KOHTaKT OTOPBancA OT WNHbI, npnnaaiteeronpunoeM,conepxaunM3%cepe6pa NkaHnon
 5 2. KNCTO4KON HaHeCNTe Ha coenNHgeMble MeCTaKOHTaKTaN WNHbI HeMHOrO kaHnonbHONnacTbl. 3.HaHecNTeTOHkuiCnoNnpunog HaKOHTaKT. 4.pNnagiTeKOHTaKTKWNHe,N36eragneperpebacoennHgeMbIxAetanen.
 
 ### OCO5EHHOCTN KOHCTPYKLNN
-`kia_rio_en_268cdec9` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/10008589a94ce06e238c3273a75cf6a99d9b0342fe42b417f585b1efb6b6a081.webp)
 
@@ -13865,12 +13121,10 @@ Bce KOHTPObHO-N3MepnTenbHblenpn60- pblabTOMoonng 06beANHeHbl B KOMONHALNIO npn6o
 KomonHaung npn6opob HepeMOHTOnpnrOAHa, nO3TOMy B cnyuae BbIxona npu6opoB N3CTpO9ee3aMeHgIOTBC6ope.
 
 ### NONE3HbIECOBETbl
-`kia_rio_en_6c973a19` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AngToroyTo6bI HenOBpeANTbCTeKnOKOM6HHaUNnnpn6opoB,He ounwaite ero CnpNMeHeHNeM kaknx-nn6o paCTBOpNTenen. MOXKHO npoMbITbCTeKOCna6bIMMbIIbHbIMpaCTBOpOMN60 CHLNANIbHbIMONCTNTnMA CTeKOn.
 
 ### BaM noTpe6yeTca OTBEPTKa CKpeCTOo6pa3HbIMne3BNeM.
-`kia_rio_en_7f71daae` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. OTCOeANHNTe nPOBOA OT KeMMbI "MNHyCakkyMyngTopHon6aTapen. 2. CHNMNTepyneboe KOneco (CM,"CHATne NyCTaHobkapyneBoroKOneca,c. 163). 3.OnyCTNTepyneByIOKOnOHKyBHN3AOynopa.
 
@@ -13893,7 +13147,6 @@ AngToroyTo6bI HenOBpeANTbCTeKnOKOM6HHaUNnnpn6opoB,He ounwaite ero CnpNMeHeHNeM k
 8...CHNMNTeKO3bIpeKCO6nnLOBkO KOM6nHaunn npn6opoB.
 
 ### NPNMEYAHNE
-`kia_rio_en_b8884d00` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/f9e2c457b7af64565ee26223a4e124fd9ff87d4e64d1cb1d106a003316a4dde0.webp)
 
@@ -13924,7 +13177,6 @@ pN Heo6xOANMOCTN 3aMeHnTe BbIKnoyatenb “TRIP"(ynpaBneHns MapwpyTHbIM KOMnbIOTe
 13.AHanOrN4HO OTCOeANHNTe BTOpyIO KOnOAKy ryta npOBOAOB OT KOMOnHaLnn npn6oPOBN CHNMNTeKOM6NHaLNIOnpN6opOB. 14.ycTaHOBNTeKOM6NHauNIO npN6opOB B nOPaAke, 06paTHOM.CHATNIO.
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_51200381` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha aBTOMO6nnN KIA Rio yCTaHaBNNBaIOT NMMOOnnN3aTOp -3neKTpOHHOeyCTpONCTBO, npeAHa3Ha4eHHoe AA npenoTBpameHng HecaHKLNOHNpOBaHHOrOnyCkaABNraTengnyTeMpa3pbIBa3nektpn4ecknxLeneicncTeMbl ynpaBneHNgABNraTeneM.
 
@@ -13933,21 +13185,18 @@ NMMO6NnN3aTOpCOCTONT N36nokaynpaBNeHN9,aHTeHHOro6noka B3aMke3axNraHN9 (kOnbua Tp
 bnoKynpaBneHN NMMo6nnN3aTopOMyCTaHOBNeH cneBa nOA naHenbio npn6opob Ha KPOHWTeNHe KPennenng pynebon KONOHKN N NOAKIONeH K 3neKTpOHHOMy 6nokyynpabneHNA ABNraTeneM, a Takke KaHTeHHOMy6nOKy WMMO6wnN3aTopa.TpNBKnlOyeHnN3akuraHnA 6nok ynpabnenng ABNraTeneM nonyyaet OT 6noka ynpaBneHnANMMonnn3atopa KoA-napob,KOTOpbIN cpaBHNBaeTcg CNHoOPMaLne,xpaHa山evicgBeronaMTn.Tlope3ynbTaTy aHann3a KOna 6nokynpaBneHng npNHNMaeT peweHneo BO3MOKHOCTNnyCKaABNraTeng.
 
 ### 3AMEHA B几OKA YNPABNEHNA NMMOBNNN3ATOPOM
-`kia_rio_en_80fbfd0a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/e05548a5eee7f43f139f9168226b8787998416ac042bbbd76dc8641860b1f039.webp)
 
 BaM noTpe6yeTcs Topuobas ronOBka “Ha10”.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_ed39d134` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pn3ameHe 6noka ynpaBnenng nMmoonnn3aTOpOM Heo6xoANMO 3aMeHNTb KnIOYN BblKloyatens (3aMka) 3axnraHng N, cnenobaTenbHO,uNnNHAp 3aMka,CM.CHTnen yaHOBKa aHTeHHOrO 6noka NMMo6nnn3atopa N LNnNHApa BbiKnioyateng (3aMka) 3axnraHN,C.210, NNnepenporpaMMnpobatb HOBbIN NMMO6nnn3aTop B cneunann3npobaHHOM aBTOLeHTpe.
 
 1.OTcoeANHNTe nPOBOA OT KeMMbl“MNHyC"akkyMyngTopHon6aTapen 2. CHNMNTe naHenb npn6opob (CM. CH9- TeNyCTaHoBkanaHennpn6opoB>,c.261).
 
 ### NPNMEYAHNE
-`kia_rio_en_2d0efd46` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/fd8a6cfecb578f1b60f7d24078986cb63e8c87e1f22a98927a972007db20d9c8.webp)
 5nokynpaBneHng WMMOONIN3aTOPOM pacnoJOxeH HaKpOH山TeNHe pyneBONKOnOHKN.
@@ -13967,7 +13216,6 @@ pn3ameHe 6noka ynpaBnenng nMmoonnn3aTOpOM Heo6xoANMO 3aMeHNTb KnIOYN BblKloyaten
 6.ycTaHoBte 6noK ynpaBneHng MMO6NN3aTOpOM B NOPAAKe,O6paTHOMCHATNIO.
 
 ### BaMNOTPe6yIOTCS:OTBePTKNCNNOCKNM NKpeCToo6pa3HbIMNe3BNeM.
-`kia_rio_en_718006a0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTcoeANHnTe nPOBoA OTKneMMbl "MNHyC"akkyMynTopHon 6aTapen. 2. CHNMNTepyneboe KOneco (CM."CHATne yCTaHoBkapyneBorOKOneca,C. 163). 3.OnyCTNTepyneByIOKOnOHKy BHN3AOynopa.
 
@@ -14012,7 +13260,6 @@ pn3ameHe 6noka ynpaBnenng nMmoonnn3aTOpOM Heo6xoANMO 3aMeHNTb KnIOYN BblKloyaten
 13. ycTaHOBNTe HOBbIl CBeTOANOA B Bbl-KnioyaTenb aBapnNHOn CurHann3aunn, Bbl-KoyaTenb B npoem 6noka conen CNCTeMbIONnEHNn N KOHANUNOHNPOBAHNA, 3aTeMyCTaHOBNTeBceAeTaNBnOpaAke, 06paTHOMCHATNIO.
 
 ### 3AMEHA PEFYNЯTOPA 3几EKTPOKOPPEKTOPA CBETAAP
-`kia_rio_en_ca415151` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/c5c79fda7ea541999a36905dba8843344fbafba35b122d1b98d9b09d6ab5a205.webp)
 4. ... CHNMNTe o6nnuoBky, npeononebag CONpOTNBneHNeNKCaTOpOB.
@@ -14020,7 +13267,6 @@ pn3ameHe 6noka ynpaBnenng nMmoonnn3aTOpOM Heo6xoANMO 3aMeHNTb KnIOYN BblKloyaten
 ![](images/c81efd6846489d504d70ce94537efbfc744e22af14819c61de40e56d674c15c7.webp)
 
 ### BaM NOTpe6yIOTC9:OTBepTKNCNNOCKNM NKpeCT0O6pa3HbIMNe3BNeM.
-`kia_rio_en_766b0d8e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTcoeNHnTe nPOBOA OTKeMMbl "MNHyC"akkyMynsTopHon6atapen.
 
@@ -14053,7 +13299,6 @@ pn3ameHe 6noka ynpaBnenng nMmoonnn3aTOpOM Heo6xoANMO 3aMeHNTb KnIOYN BblKloyaten
 12.yctaHoBue peryngtop anektpokoppekTopa cBeTaΦap BnOpAAke,O6paTHOMCHTHIO.
 
 ### 3AMEHA BbIKNIO4ATENEN N AAT4NKOB
-`kia_rio_en_adc18efc` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3AMEHA BbIKNIOYATENA CBETA 3AAHErO XOAA
 
@@ -14072,7 +13317,6 @@ BaM noTpe6yetca Topuobas ronobka "Ha24". 1. OTCOeANHNTenPOBOAOTKIeMMbI MNHyC"akk
 ![](images/94fe75847d176a1b6849f5433f8a3afaba12c0436f231b9057a99cac128ff531.webp)
 
 ### NONE3HbN COBET
-`kia_rio_en_5bff3d3f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NepeA yCTaHOBkoN BbIKnIouaTengCBeTa3aAHeroxoAaCMaxbte erope3b6oByionoBepXHOCTb aHaapo6HbIMnkcaTopoMpe3b6bl. E 2 5
 
@@ -14081,7 +13325,6 @@ NepeA yCTaHOBkoN BbIKnIouaTengCBeTa3aAHeroxoAaCMaxbte erope3b6oByionoBepXHOCTb a
 5.YcTaHOBNTeBbIKlO4aTenbCBeTa3aqHero xona B nopgAke, O6PaTHOMCHATNIO.
 
 ### 3AMEHA BbIKNIOYATENA -101 CNrHANN3ATOPA BKSIOYEHNA CTOSHO4HOrOTOPMO3A
-`kia_rio_en_7a0a9087` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/b750b94e5f40a39a2c7ba689aecdcbce222113cf2c0871608c5c8c9ab81813ab.webp)
 
@@ -14103,7 +13346,6 @@ BaM noTpe6yetca OTBePTKa C KpeCTOo6pa3HbIMNe3BNeM.
 5 NCHNMNTe BbIKnIo4aTenbCNrHann3aTOpa CKpOH山TeiHa pblyara CTORHOYHOrO TOpMO3a（AgHarnAAHOCTNNOka3aHO Ha CHATOM pbl4arenPNBOAaCTOAHO4HOroTOpMO3a) 6. ycTaHOBNTe BblKnloyatenb B nOpaAke, 06paTHOMCHATNIO.
 
 ### 3AMEHA BbIKNIOYATENR CTON-CNrHANA
-`kia_rio_en_12d984a0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/8dd0d1d398f803a309d5d14d1bdc52c49b5df6c68e5b4ac93905b218b66fdb51.webp)
 OTOOGN 9 BATge8TO ROTSVd00700 MGE
@@ -14129,7 +13371,6 @@ BbIKnoyaTenb CTON-CnrHana yCTaHOBNeH HaKpOH山TeiHe neAanNTOpMo3a. 1.OTcoeANHnTe
 ![](images/8aacd38f240dc9c5c5bfccae692b7789b8c098f89f361159efb2aefeb2bbe578.webp)
 
 ### 3AMEHAAATYNKA HAYANA XOAA NEAANN CUENNEENn
-`kia_rio_en_7cd4b067` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/869cd7001afb04e2b562345ee190fc7dad315d50cdcf6ad6832ef2d0bf2ea55a.webp)
 
@@ -14138,7 +13379,6 @@ BbIKnoyaTenb CTON-CnrHana yCTaHOBNeH HaKpOH山TeiHe neAanNTOpMo3a. 1.OTcoeANHnTe
 AaT4NK Hayana xona nenann cLennenng (AngaBTOMoNneiCMKnl)yCTaHOBeHB BepxHei yacTn KpoHwTeHa nenannCuenneHng.
 
 ### BaM noTpe6yeTca KSIOY “Ha14”.
-`kia_rio_en_a351201c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. OTCOeANHNTe nPOBOA OT KneMMbl "MNHyCakkyMynsTopHon6arapen.
 
@@ -14147,7 +13387,6 @@ AaT4NK Hayana xona nenann cLennenng (AngaBTOMoNneiCMKnl)yCTaHOBeHB BepxHei yacTn
 2. OTOXMNTe nKcaTopblN OTCOeANHNTe KOnOAKyryTa npOBOAOB OTAaTuNka Ha4ana xonanenann cLennennn. 609000
 
 ### NPNMEYAHNE
-`kia_rio_en_4fccbed7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AanbHenwne onepaunn Ang HARnAAHOCTN noka3aHbI Ha CHgTON neAann CuenneHng.
 
@@ -14162,14 +13401,12 @@ AanbHenwne onepaunn Ang HARnAAHOCTN noka3aHbI Ha CHgTON neAann CuenneHng.
 5.yctaHoButeAaTunk Hayanaxona nenanN cuenneHngB NOPAAke,O6paTHOMCHTNIO 福 6.ocne yCTaHOBkNAaT4nka oTperynnpyvTe XOA nenann cuenneHna (cm.lpoBepka n perynnpobkaxona nenann npnbona BbIKnIo4eHng cuenneHng,C.116).
 
 ### 3AMEHA AATYNKA KOHLA XOAA NEAANN CUENNEHNA
-`kia_rio_en_f8445dff` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/49dba3d3c774f0bf564f61241de383c4e4fe0ade34e10a7e5378e98e28834a2f.webp)
 
 AaT4NK KOHua xona nenann cUennenng （aBTOMO6nngcMKn) yCTaHOBneHBcpenHe 4actN KpoH山TeHa nenanN cuenneHng.
 
 ### BaM noTpe6yeTcg Kioy “Ha14"
-`kia_rio_en_80f836f7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTcoeANHNTe NPOBOAOT KneMMbI "MNHyCakkyMyngTopHoi 6aTapen.
 
@@ -14178,7 +13415,6 @@ AaT4NK KOHua xona nenann cUennenng （aBTOMO6nngcMKn) yCTaHOBneHBcpenHe 4actN Kp
 2.OTOXMNTeuKcaTop N OTcOeANHNTe KONOAKyKryta npOBOAOB OT AaT4NKaKOHLa XOAanenann cuenneHng.
 
 ### NPNMEYAHNE
-`kia_rio_en_d5689e20` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AanbHenwne onepaunn A HArnSAHOCTn noka3aHbl HaCHATon neAann cuenneHng.
 
@@ -14195,7 +13431,6 @@ AanbHenwne onepaunn A HArnSAHOCTn noka3aHbl HaCHATon neAann cuenneHng.
 5...OTBepHnte HNKHolo raiky KpenneHng 4 CHNMNTe AaT4NK KOHLa xona nenann cueNnenna. 6. yCTaHOBNTeAaT4NK KOHuaxonanenann CUennennn BnopaAke, O6paTHOMCHTNIO, He 3aTrNBasKOHTpraNkN. 三 7.Bpaag KOHTpravkn,OTperynnpyvTeMOMeHTBKIOyeHNAAaTuNka KOHuaXOAanenanN cuenneHng.
 
 ### BaM noTpe6yIoTcA: KIOY "Ha 24", OTBePTKa CNOCKNM Je3BNeM.
-`kia_rio_en_dbf96f10` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTCOeANHNTe NPOBOAOT KNeMMbl "MNHyC"akkyMyngTopHon6aTapen.
 
@@ -14204,14 +13439,12 @@ AanbHenwne onepaunn A HArnSAHOCTn noka3aHbl HaCHATon neAann cuenneHng.
 ![](images/c820390bcf52b9b51b7b482e19422847cf753048357d095b7ecfe205b35aeeb4.webp)
 
 ### 3.BbIBepHNTeAaT4NKAaBneHNgMaCna
-`kia_rio_en_8aba9f9d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/8bc78ea1faf0a2ab9baf103d244154ef9422f1038e68e967949160a700047568.webp)
 
 4. yCTaHOBNTeAaT4NK AaBneHngMacna B NopaAke,O6paTHOMCHATNIO.
 
 ### 3AMEHABbIKNIOYATENEN NAOHOB OCBEWEHNg CAJOHA
-`kia_rio_en_6a0129e8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/7f5479b5776b2958953e1e46e82326ae96d2a10694a7a8c41b29dc38137e2e4e.webp)
 4. OTOXMNTe ΦNKcaTop KONOAKN xryta NPOBOAOB BblKnloyaTeng nnacoHa ocBeme
@@ -14221,7 +13454,6 @@ AanbHenwne onepaunn A HArnSAHOCTn noka3aHbl HaCHATon neAann cuenneHng.
 BbIKlloyatenN nnaoHoB OcBeueHng canoHayCTaHOBNeHbIBOTBePCTNAXCTOeKKy3OBa.
 
 ### BaM noTpe6yeTcg OTBePTKa C KpecTO-06pa3HbIMne3BNeM.
-`kia_rio_en_cc3f0c8d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1 OTCOeANHNTe nPOBOn OT KneMMbI "MNHyC"aKkyMyngTopHoi6aTapen. 2 BbIBepHNTe BNHTKpenneHNABbIKnIOuaTennaoHa ocBeeHngcanoHa.
 
@@ -14234,7 +13466,6 @@ BbIKlloyatenN nnaoHoB OcBeueHng canoHayCTaHOBNeHbIBOTBePCTNAXCTOeKKy3OBa.
 BNA canOHa OTCOeANHNTe KONOAKy OT BblKlloyateng. 5.ycTaHOBNTeBbIKNIo4aTenbnnadoHaocBe山eHngcaOHa BNopaAke, 06PaTHOMCHATNIO.
 
 ### BaMnOTpe6yIOTC9:OTBepTkaCnnOCKNMne3BNeM,Apenb. 福
-`kia_rio_en_634eed3e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTcoeANHNTe nPOBOAOTKNeMMbI "MNHyC"akkyMynTopHoi 6atapen. 2. CHNMNTe o6nnuoBky nepenHen ABepn (CM."CHaTne N yCTaHOBka o6nNuOBkN nepeAHeABepN,c.247).
 
@@ -14254,7 +13485,6 @@ BNA canOHa OTCOeANHNTe KONOAKy OT BblKlloyateng. 5.ycTaHOBNTeBbIKNIo4aTenbnnadoH
 6.BbICBepnute 3aknenknKpenneHngANHaMNKaN CHNMNTeerOCABepN. 7.VCTaHOBNTeANHaMNKNBCeAeTanBnOPAAKe,O6paTHOM CHATNIO. no
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_342ec8a9` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ky3OBaBTOMO6ung KIA Rio LenbHoMetannn4eCKNN,HeCy山enKOHCTpyKUNN, TNnayeTblpexABepHbiN cenaH. KapkacKy3OBaBKIOyaeT Bce6ROOBaHe,6OBnHbl,bl山y几n, CoeANHeHHbIe MexAy co6on anektpoCBapKOn(TOye4HOn, WOBHON NAyrOBOn). Ky30B npeACTABngT co6on Hepa36opHyioKOHCTPyKLNIO, o6nanaiomyio AOCTaTO4HON XeCTKOCTbIO, h HeceT Ha ce6e BCe arperaTbl aBTOMOONnA, HaBeCHbley3blKy3OBa NAeTanN NHTepbepa.
 
@@ -14283,14 +13513,12 @@ B3aBNCNMOCTNOTKOMNAeKTaLNNaBTOMO6nnb MOxeT 6bITb o6opyAoBaH 06orpeboM nepeAHNxCN
 Ang 6yKCupOBKN HencnpaBHoro aBTOMOGnng B nepeAHen 4aCTN Ky3OBaBbInOHeHO cneunanbHoepe3b6oBoe rHe3AO, 3akpbIToe 3arnywkon B6amnepe, yCTaHOBKNCbeMHON npoywnHbl. Ang 6yKcnpoBkn Apyroro ABTOMOONNA NOAAHNWeM Ky30Ba B ero 3aAHen 4acTN yCTaHOBneHa cneunanbHas, npeAHa3Ha4eHHagAg 3TON uenn HeCbeMHag npoywnHa.
 
 ### NONE3HbIN COBET
-`kia_rio_en_0104cbd9` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha BPANbHON CTOAHN aTOMONn HaKpbIBaNTe KY30B 4exnoM N3 nNOTHOrO MaTepnana.HaMok山nnoAAoxAeM 4exonco3AaeT npn Harpebe Ha COnHue napoByiO"6aHiO", naKOKpaco4HOe nOKpbITNeKy3OBa NOAHNMMOKT OTCNONTbCA M BCNy4NTbCA. KpoMeToro, NOAnOPbIBaMN BeTpa 4exon nepeMe山aetcsN CTNpaeTKpacky HaBbICTynaIoWNX 4acTAX KY30Ba. HeKnaqNTe HaKy3OBpe3NHOBblenpeAMeTbl. 4epe3HekOTOpOeBpeMsPe3NHaOCTaBNTHa nokpblTNN(OCO6eHHO CBeTNOM) HeCMbIBaeMbIenSTHa. BpeMOTBpeMeHN npOBOANTe TOHKON MeTanJnyeckon nnacTHHKON MeXAy 60KOBbIM CTeKNOMN pe3NHOBON HaKnaAKOn HaABepN,4TO6bI yAanNTb nbIb,necoK NnpeAOxpaHnTb CTeknO OTuapannH.
 
 Nocne MOMkN o6g3aTenbHO BbIHbTe pe3NHOBble KOBPNKN N npocywnte canOH. Bnara NOA KOBPNKaMN- rnabHagHnunaNnnnsoPPo3NNnona.
 
 ### CHATNE N yCTAHOBKA5PbI3r0BNKOB KONECNNOAKPbINKOB
-`kia_rio_en_8d60b4b1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/311852144dfc59f01b8f6c98b0d8dcb889d759c9bde85af430a74910930afe32.webp)
 
@@ -14335,7 +13563,6 @@ Ang CHATNA 6pbl3roBnka nepeAHero KOneca BbInOnHnte cneAyIoWne onepaunN.
 ![](images/13596cf06003fd43d6904d0b09bc79480d0508a7519d7560215b6f1df189c2c9.webp)
 
 ### CHATNE N yCTAHOBKA5PbI3r0BNKOB KONECNNOAKPbINKOB
-`kia_rio_en_e88fb791` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 5. ...n HNXHIOIO rankn 山nnnekkpennehng nOAKPbInka.
 
@@ -14391,7 +13618,6 @@ B
 NPNMEYAHNE
 
 ### CHATNE N yCTAHOBKA BAMNEPOB
-`kia_rio_en_7336b01b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHATNENYCTAHOBKA NEPEAHErOBAMNEPA
 
@@ -14432,7 +13658,6 @@ M 8.pNHeO6xOANMOCTNBbIBepHNTe BOCeMb 6OnTOB (no 4eTbipe C kaxnon CTOPOHbl) OTBEP
 9..N CHNMnte ycunutenb 6aMnepa. 30865 10.ycTaHOBNTe nepeAHnn 6amnep N BCe CHATbIeAeTanNBnoPAAke, O6PaTHOMCHATNIO.
 
 ### CHTNENYCTAHOBKA 3AAHErO BAMNEPA
-`kia_rio_en_727535d0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/3a3ea8d1c72b228d2cb8820cbbcde13c6d6821cf7e2a9afaa453dcf86fb6ac01.webp)
 
@@ -14459,7 +13684,6 @@ BaM noTpe6yIoTcA: Topuebas ronOBka 《Ha10",OTBepTKN CnnOCKNM N KpeCTOo6- pa3HbI
 6..NN3BneKnte NNCTOHbI HNKHerO kpenneng 6amnepa.o
 
 ### NPNMEYAHNE
-`kia_rio_en_eb3289d4` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/bc358944538d19b8bf3b35c5a2db06086a58e6564b67b7570a89c176c3375d51.webp)
 TakpacnonoxeHblnnCTOHbl HNXKHerO KpenneHng6amnepa. NTOOI 60T0n VC
@@ -14489,7 +13713,6 @@ TakpacnonoxeHblnnCTOHbl HNXKHerO KpenneHng6amnepa. NTOOI 60T0n VC
 13...NCHNMNTeCBeTOBO3BpaLaTenb. 88 14.yCTaHOBNTe3aAHn 6amnepn BcepaHeeCHTbIeAeTann BO6paTHOMnoPaAke.
 
 ### BaMnOTPe6yIOTCA:OTBEPTKNCnNOCKNM NKpeCT0o6pa3HbIMNe3BNeM. 0
-`kia_rio_en_3f1cbfdf` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. CHNMNTe nepenHn 6aMnep(cM."CHgTHe N ycTaHoBka nepenHero 6amnepa,c.240).
 
@@ -14505,7 +13728,6 @@ TakpacnonoxeHblnnCTOHbl HNXKHerO KpenneHng6amnepa. NTOOI 60T0n VC
 4...N cHnmnte o6nnuoBky pannatopa. 福 5.ycTaHoBnte o6nnuOBkypannaTopaB noPAke,O6paTHOMCHATIO. 50 97 S
 
 ### CHATNE N yCTAHOBKA PEWETKN KOPObA BO3AYXONPNTOKA
-`kia_rio_en_40e0c02e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/fd479eb1023e5c7f6b2eb3f57cf79640d92f3f69cc1cfc7065e890d15783e084.webp)
 
@@ -14535,7 +13757,6 @@ BaMnoTpe6yeTcsOTBepTKa CnJoCKNM ne3BneM. HNAU
 7.CHuMnte pewetky kopo6a BO3AyxonPnTOka. 8.ycTaHOBNTe peweTkykopo6a B03AyXOnpNTOka BnOPAAke,OpaTHOMCHTNIO.T
 
 ### CHATNE N YCTAHOBKA KANOTA
-`kia_rio_en_acfe9cf4` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/58687f3fa8aa284713f0cffd0a494577274e60db6a666eabfcca10aa9a20461f.webp)
 
@@ -14552,7 +13773,6 @@ BaM noTpe6yeTca Topuobas ronOBka "Ha 12.
 3. BbIBepHNTe CkaxAon CTOPOHbI no ABa 6ontakpenneHng kanota KNTMCHNMNTekanOT.
 
 ### ONE3HbIN COBET
-`kia_rio_en_5c8c7df8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KaNOTAOBOnbHOTKenbINNrPOMOAKNN NO3TOMypeKOMeHAyeMCHNMaTb erOCnOMOLIHNKOM.
 
@@ -14565,7 +13785,6 @@ KaNOTAOBOnbHOTKenbINNrPOMOAKNN NO3TOMypeKOMeHAyeMCHNMaTb erOCnOMOLIHNKOM.
 6.ycTaHOBNTe CHATbIe AeTann B nOPAAke, O6paTHOM CHATNIO.
 
 ### CHATNEN YCTAHOBKA 3AMKAKANIOTA
-`kia_rio_en_55eff315` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/7af9d44440baeb3f8c6743e981dc6a2b7db4b9d8799cf64f43bac9b904159cfd.webp)
 
@@ -14594,7 +13813,6 @@ C
 6. ...NCHNMNTe3aMOKKanOTa.1 ycTaHOBTe3aMOKKanOTaBnopaAke,06-paTHOMCHTuIo.epeAyCTaHOBkON3aMka Ka-noTa CMaXbTe ero3anopHblMexaHN3M KOH-CNCTeHTHOn CMa3kOn (HanpNMep,nNOnOM).8. Ecnn nocneyCTaHOBKN 3aMOK He4eTKO3anNpaeTCRNnNCTPyAOMOTnNPaeTCA, OTpe-rynnpynteero nonoxeHne. Ocna6bte6onTblKPennehng 3aMka N,nepemeag eronobep-TuKanNBnpeAenaxOTBepCTnNKOpnyca, A06-enTeCb4eTkOnpa6oTbl3aMka. N RHO
 
 ### BaM noTpe6yetca Topuobag ronobka “Ha 10 uad L
-`kia_rio_en_03ef1751` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. CHNMNTe 3aMOK kanoTa(CM. "CHATNen yCTaHOBka3aMkaKanoTa,c.243). -
 
@@ -14621,7 +13839,6 @@ C
 7.yctaHOBnTe npOMexyTO4Hbln TpocnpuBOAa3aMkaKanOTa, 3aMOKKanoTa,TpocnpnBOAaNpbluarnpuBoAa3aMkakanoTa,aTakxe BCeAeTann BnOpAAKe,O6paTHOMCHATNIO. 6C
 
 ### CHTNENYCTAHOBKA OGNNLOBKN KPbIWKN BArAKHNKA
-`kia_rio_en_d424ba7c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/9d78156471b38ca2ded6be41eafc5d8c42f92b047afaf0b4ab705b8d02455a6e.webp)
 BaMNOTPe6yIOTCA:OTBEPTKNCnNOCKNMNKpecToo6pa3HbIMNe3BNeM.
@@ -14643,7 +13860,6 @@ BaMNOTPe6yIOTCA:OTBEPTKNCnNOCKNMNKpecToo6pa3HbIMNe3BNeM.
 5.BbIBepHnte NKCaTOPbI nNCTOHOB KpenneHng o6nuuoBkn kpblwku 6araxHnka...
 
 ### NPNMEYAHNE
-`kia_rio_en_07539257` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/e918ff3d53c0fc24604d5053f165012ba276d18f28d350c377529297b7311b2c.webp)
 Tak pacnonoxeHbl nnctoHbl kpenneHng o6nnLOBKNKpbIwkN6araXHnka.
@@ -14653,7 +13869,6 @@ Tak pacnonoxeHbl nnctoHbl kpenneHng o6nnLOBKNKpbIwkN6araXHnka.
 7.CHNMNte o6nnuoBkyKpbI山ku6araKHuka. 8.ycTaHOBNTe 06nnuoBky KPbIWKN 6araxHNKa BnOPAAKe,O6paTHOMCHATNIO. HS
 
 ### BaM noTpe6yeTca Topuobas rosobka “Ha10" soUgoT ROTS 180g ron M88
-`kia_rio_en_c68d07a3` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/95d88e911b823f89702032d88a5300dce25e5dba5c8839918e52914b68853e54.webp)
 3NOTCOeANHNTe Tary OT BblKnloyaTeng 3aMka. 2
@@ -14675,7 +13890,6 @@ Tak pacnonoxeHbl nnctoHbl kpenneHng o6nnLOBKNKpbIwkN6araXHnka.
 5. CHNMNTe BblKnoyaTenb. 6.YcTaHOBnTe BbIKlO4aTenb3aMka kanota BnOPAAKe,O6paTHOMCHATNIO.
 
 ### CHATNENYCTAHOBKA 3AMKAKPbIWKN BAFAKHNKA
-`kia_rio_en_7bff92a7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a2d251958a1aa29a47fc0807dd1640f8195e857a8402c55418d98c31660484c5.webp)
 
@@ -14691,7 +13905,6 @@ raxHnka BbIBepHNTe ABa 6onTa KPennenng
 06PaTHOMCHATNIO. 22 J
 
 ### NPNMEYAHNE
-`kia_rio_en_146eb3a1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pNHeo6xOANMocTN OTperysnpyuTe 4eTKOCTb sannpanng 3aMka nepeMeweHnem 3awenkn, ocna6nB 6onTbl eekpenneHng.
 
@@ -14720,7 +13933,6 @@ Ang CHATNA 3aMka KPbIWKN 6araxHuka BbInOnHnTe cneAyIowee. 1.OTcOeANHNTe nPOBOA O
 4.CHNMNte nnaoHbl OcBeweHng HOMepHOrO3Haka.
 
 ### CHATNENYCTAHOBKA KPbIWKN BArAXHNKA
-`kia_rio_en_72e5daad` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a762960d9c058154f032d1feb238e6823b998f556e0c3243245692fb6e839e07.webp)
 
@@ -14756,7 +13968,6 @@ BaM noTpe6yIoTca: Topuobas ronOBka "Ha 10, OTBePTKa C NNOCKNM ne3BNeM, Φnomacte
 12. NoAneHbTe OTBEpTKON N N3BneKNTe \*ryT nPOBOAOB N3 4eTblpexAepxaTenen Ha neTneKpbl山kn6araxHNka.
 
 ### NONE3HN COBET
-`kia_rio_en_9864b2cb` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/c38473dd4e6ed9f3d5acfba5170c70fcba580e6e1b395e35d44f04d62b71f9b8.webp)
 Ecnn kpbIwky 6araxHnka CHnMaete He A93aMeHbl,nomebenoactepoM eenonoxeHne OTHOCNTenbHOneTeb.
@@ -14768,7 +13979,6 @@ Ecnn kpbIwky 6araxHnka CHnMaete He A93aMeHbl,nomebenoactepoM eenonoxeHne OTHOCNT
 14.ycTaHOBNTe KpbIWKy 6araxHuka BnoPAAKe, 06paTHOM CHATNIO. Ecnn Bbl ycTaHaBnNBaeTenpe\*HIOIO KpbIWKy, nepeA OKOH4aTenbHON 3aTAKKON 6OnTOB KPennenng Heo6xOANMO COpNeHTNpOBaTb ee no paHee HaHeCeHHbIM MeTKaM. B npOTNBHOM cnyyae nonoxeHneKpbIWKN 6araxHnkaHanooTperynNpOBaTb TaKNM o6pa30M, 4T06bI 3a30pbl Me\*AyKpbI山kon N6OKOBNHaMNKy3OBa6bInN OANHaKOBbIMN C o6enx CTOPOH, a 3a30pbl MexAyBepxHen N HNKHeKpOMKaMNKpbIWKN NConpAraeMbIMnCKpbIukonAeTanaMn6bInn paBHOMepHbIMN.
 
 ### CHATNE N yCTAHOBKA ObNNLOBOK BATAKHNKA
-`kia_rio_en_9e1858df` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/06cabfc26ff78908163cc6c2e1e4845930f94f1b8cfa89bb812782d297ef6fd0.webp)
 
@@ -14803,7 +14013,6 @@ TaKpacnonoxeHblnsTbAepxaTenen kpenne-Hn6okoBon o6nnLoBkn 6araxHNka.
 7 n CHNMNTe 6OKOByIO o6nnLoBky 6araxHnka. 福 8. AHanorn4HO CHNMNTeBTOPyIO 6OKOByIO o6nNuoBky6araxHnka. 5 9.ycTaHoBuTeo6nnLOBkn 6araXHnkaBnoPAAke,O6paTHOMCHATNIO.
 
 ### CHATNE N yCTAHOBKA KPbIWKN JIOKA HAINBHON TPybbl TONNNBHOrO BAKA
-`kia_rio_en_f8b5f717` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/90d07d533e7e665d68530705fdf8cfdcd9e4067c194c1d9c7aa91e2ce16f65c9.webp)
 
@@ -14826,7 +14035,6 @@ BaM noTpe6yIoTCA: KIOY Ha 10", OTBepTKa C NNOCKNM Ne3BNeM.
 福 5.YcTaHOBuTe KpbI山KyOka HanNBHON Tpy-6bl TONNNBHOrO 6aka B nopaAke, 06paTHOMCHATNIO.
 
 ### 60KOBbIE ABEPN
-`kia_rio_en_11564af3` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHTNEN YCTAHOBKA OGNNLOBKN NEPEAHEN ABEPN
 
@@ -14835,14 +14043,12 @@ CHTNEN YCTAHOBKA OGNNLOBKN NEPEAHEN ABEPN
 BaM NOTPE6yIOTCR:OTBePTKN C NAOCKNM NKpeCToo6pa3HbIMNe3BNeM. 2
 
 ### NONE3HbIN COBET
-`kia_rio_en_cc3a10cb` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/ea6a70bbc5f2f014d4b0e90616f513cbebac8d80ba5682818fe827a479c5f8b3.webp)
 
 PeKOMeHAyeM npno6pectn cneunabHbln Ha6opnpncnoco6neHnnAnaAemoHTakaonnuoBOKCanOHaaBTOMO6Nn 5
 
 ### NPNMEYAHNE
-`kia_rio_en_5451463f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Noka3aHbI CHATNe N yCTaHoBka o6nnuOBkn neBon nepeAHen ABepn.O6nnuoBky npaBon nepeAHeNABePNCHNMaIOTNyCTaHaBnNBaIOT aHanOrnyHO.
 
@@ -14918,7 +14124,6 @@ O6nNuOBKa(BNAC o6paTHON CTOpOHbI) KpennTCR K BHyTPeHHen naHenn ABepn AEBATbIO na
 21.CoxMNTe NkcaTop KONOAKN xryTa npOBoAOB... THNGOTNHC
 
 ### NPNMEYAHNE
-`kia_rio_en_c74312bc` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5c0c6314fc277dc0d1ea57b71610b94d1bf1700a1ef359abfa24c5e5938e8680.webp)
 24.NN3BneknteAepxaTennXryra npo-BOAOBN3KOpnyCaANHaMNka... 1
@@ -14945,7 +14150,6 @@ O6nNuOBKa(BNAC o6paTHON CTOpOHbI) KpennTCR K BHyTPeHHen naHenn ABepn AEBATbIO na
 27 CABNHbTe py4ky no HanpaBneHniO cTpenKN... 行 0 H
 
 ### NPNME4AHNE
-`kia_rio_en_19de1266` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/f202957df33bf5e51b7bcc35ca384a56a128c58beddedfb6d21f178afcdbc358.webp)
 pNHeO6xOANMOCTN nOAPexbTe ynsOTHeHNe nonepNMeTPynnEHKN HOKOM.
@@ -14963,7 +14167,6 @@ pNHeO6xOANMOCTN nOAPexbTe ynsOTHeHNe nonepNMeTPynnEHKN HOKOM.
 32 BbIBeA9ryTbl npOBOnOB NBHyTPeHHIOIOpyuky3aMkaABepN 4epe3OTBePCTNAB nneHke.
 
 ### 3AMEHA CTEKIA NEPEAHENABEPN
-`kia_rio_en_48b542cf` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 29.BbIBepHnTeABa BHTaKpenneHng KpOHWteNHa o6nnuoBkN nepeAHen ABepn...
 
@@ -14972,7 +14175,6 @@ pNHeO6xOANMOCTN nOAPexbTe ynsOTHeHNe nonepNMeTPynnEHKN HOKOM.
 ![](images/c1049fa8cd1c78c2b9ce2117dc159e96aed77ec1594b51f41e0c33ede8cf0edf.webp)
 
 ### 30....N CHNMNTe KpOH山TeNH.
-`kia_rio_en_c2ab78b2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/ee955a080761cc7cd8da47c2dbcb338d81c179a32cc6391504488f0e823b7e4b.webp)
 31.Bo3bMNTe3aKpa N CHNMNTeBnaro3a山NTHyIOnneHKyCBHyTpeHHeinaHenNABepN...
@@ -14983,7 +14185,6 @@ pNHeO6xOANMOCTN nOAPexbTe ynsOTHeHNe nonepNMeTPynnEHKN HOKOM.
 BaM noTpe6yeTca OTBePTKa C KpecTO-06pa3HbIMNe3BNeM.
 
 ### OPNMEYAHNE
-`kia_rio_en_e18b0349` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Noka3aHbl CHATNe NyCTaHOBKa CTekna neBON nepeAHen ABepn. CTeKnO npabon nepeAHen ABEPNCHNMaIOTNyCTAHaBINBaIOTaHaNOrNYHO.
 
@@ -14997,7 +14198,6 @@ Noka3aHbl CHATNe NyCTaHOBKa CTekna neBON nepeAHen ABepn. CTeKnO npabon nepeAHen 
 3. BpeMeHHO NOAKNIOUNTe aKkyMynsTOpHyIO 6aTapeio, nOACOeANHNTe 6nokynpabneHNA CTeKNOnOAbeMHNKaMN N, HaxNMaR Ha KnaBnwy 6nokaynpabnehng CTeKNonoAbeMHNKOM,yCTaHOBNTeCTeKnOnepeAHeABepNB nonoxeHNe,npnKOTOpOm BNHTbl KpenneHN 06oiMblCtekna Knon3yHy pacnonoxatcg B yAO6HOeAAOCTynaKHnMnOnOXeHne. V1
 
 ### NPNMEYAHNE
-`kia_rio_en_a5d4f660` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/362ca1aec0c03c0a818ffec600a8b4151cfa26fccfa731b662acc2c83ec0e2df.webp)
 
@@ -15006,14 +14206,12 @@ O6paTnte BHNMaHNe Ha MapkNpoBky CTekna. A3aMeHbI npo6peTanTe CTeknO C Takon e Ma
 7.ycTaHOBNTe CTeknonepeAHen ABepn N BCe CHATbIe AeTann B nOPaAke, 06paTHOM CHATNIO.
 
 ### CHTNENYCTAHOBKA 3NEKTPOCTEKIONOAbEMHNKA NEPEAHEN ABEPN
-`kia_rio_en_2b7ceb58` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/8817a00950a1c59a6bf10334dd92ea0969a58728fcd892ceed63701a7efa464b.webp)
 
 BaM noTpe6yIoTCA: Topuobas ronOBka "Ha 10, OTBepTKa C KpecToo6pa3HbIM ne3BNeM,CKOT4. 00/108
 
 ### NPNMEYAHNE
-`kia_rio_en_0cbcc431` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NOka3aHbICH9TNeNyCTaHOBKaMeXaHN3MaCTeKnOnOAbeMHNka neBoN nepeAHen ABepn. MeXaHN3M CTeknonoAbeMHnka npaBon nepeAHen ABEPNCHNMaIOTNyCTaHaBNNBaIOTaHaNOrN4HO.
 
@@ -15041,7 +14239,6 @@ K
 8. OTBepHNTe ceMb raek 山nunek kpenne-HNACTeknonOAbeMHNka KBHyTpeHHenaHe-nNABepn...
 
 ### NPNMEYAHNE
-`kia_rio_en_7fd06a73` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TaKpacnonoxeHbl rankNKpenseHngCteknonoAbeMHnka KBHyTpeHHen naHenn nepeAHen ABepn. 福 H80ON MieHesgOo
 
@@ -15060,14 +14257,12 @@ TaKpacnonoxeHbl rankNKpenseHngCteknonoAbeMHnka KBHyTpeHHen naHenn nepeAHen ABepn
 P 10.YcTaHOBNTeMexaHN3MCTeKnOnOAbeMHNKaNBCeCHATbIeAeTanN BnopaAke,o6patHOMCHATNIO. 3 R1D
 
 ### CHATNENYCTAHOBKA BHYTPEHHEN Py4KNNPNBOAA 3AMKA NEPEAHENABEPN
-`kia_rio_en_717d2da9` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/b2c15568869a8d7b3915e7bb4dda4af82b6c27918136def0d3366717575ce3e0.webp)
 
 福 BaM noTpe6yeTca OTBePTKa C KpecTO-06pa3HbIMne3BNeM. 2
 
 ### NPNMEYAHNE
-`kia_rio_en_5d25e4ef` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 noka3aHbl CHATNe N yCTaHOBKaBHyTpeHHeN pyukNnpnBoAa3aMkaneBonnepeAHenABepn BHyTpeHHioIOpyykynpnBoAa 3aMkanpaBon nepeAHeNABePNCHNMaIOTNyCTaHaBNNBaIOTaHanOrn4HO.
 
@@ -15095,7 +14290,6 @@ noka3aHbl CHATNe N yCTaHOBKaBHyTpeHHeN pyukNnpnBoAa3aMkaneBonnepeAHenABepn BHyTp
 8. CHNMNTepy4ky. 9.ycTaHOBNTeBHyTpeHHIOIOpy4KynpNBOna 3aMkanepeAHen ABepNN BCepaHee CHATbIe AeTanNBO6paTHOM nopaAke.
 
 ### CHATNE N YCTAHOBKA HAPYKHON PY4KN NPNBOAA 3AMKANEPEAHENABEPN
-`kia_rio_en_12f023cf` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/9ab3b1eb97c899b2bcbc5122f8a76ca3562afa9d99b844a69a17e56bb29a7f31.webp)
 
@@ -15144,14 +14338,12 @@ H 14.BbIBepHNTeBNHTKpenneHn9KpOHWTeNHaHapyXHON py4KN.
 15.N3BneknTe KpoHwTeH KpenneHng HapyHON py4kN N3 nonoCtNABepn. 3 16.YcTaHOBNTe CHTbIeAeTanN BnopaAke, O6PaTHOMCHATNIO.
 
 ### CHATNENYCTAHOBKA 3AMKANEPEAHENABEPN
-`kia_rio_en_1bed4c38` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/ecef59245d58895d7c65ba3a0a8f2f7e6e78952a8e766504358636bb79a7aac7.webp)
 
 BaM nOTpe6yIOTCA: KIOY TORX T30, OTBEPTKN C nnOCKNMNe3BNeM.
 
 ### NPNMEYAHNE
-`kia_rio_en_033225e9` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 noka3aHbl CHATNe NyCTaHOBKa 3aMka neBon nepeAHen ABepn. 3aMoknpabon nepeAHen ABEPNCHNMaIOTNyCTaHaBNNBaIOTaHaNOrN4HO.
 
@@ -15191,7 +14383,6 @@ noka3aHbl CHATNe NyCTaHOBKa 3aMka neBon nepeAHen ABepn. 3aMoknpabon nepeAHen ABE
 12.CHNMNTe 3aMOK. 13. ycTaHOBNTe 3aMOKnepeAHen ABepn N BCe CHATbIe AeTann B nopanke, 06paTHOM CHATNIO.
 
 ### 美 BaM noTpe6yIoTcg: KNIOYN Ha 10", "Ha 12.
-`kia_rio_en_544d8b2e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHNMNTe O6nNLOBky  BnarO3aWNTHyIO nneHky nepeAHenABepn(CM."CHaTneN yCTaHOBka o6nnuoBkn nepenHeiABepN>, C. 247)
 
@@ -15209,7 +14400,6 @@ noka3aHbl CHATNe NyCTaHOBKa 3aMka neBon nepeAHen ABepn. 3aMoknpabon nepeAHen ABE
 6.ycTaHOBNTe OrpaHnyNTenb OTKPbIBaHNA ABepnBnopaAke,O6paTHOM CHATNIO.
 
 ### CHATNENYCTAHOBKA NEPEAHENABEPN
-`kia_rio_en_8a9a030d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/126140f0c06604c4ca75608fc722201f00405abb28fc9989b83edaf8161fe84d.webp)
 
@@ -15227,7 +14417,6 @@ BaM noTpe6yeTcg Kioy “Ha 13".
 3 NOTCoeANHNte KOnOAky OT pa3beMaHa nepeAHen CToNke.
 
 ### IPNMEYAHNE
-`kia_rio_en_cfd80917` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnNCHNMaeTeABepbHe3aMeHbl,nOMeTb-renonxeHne eenetenbHa ABepN(HanpnMep,OOBeAn netnnno KOHTypyΦnoMactepOM).
 
@@ -15236,7 +14425,6 @@ EcnNCHNMaeTeABepbHe3aMeHbl,nOMeTb-renonxeHne eenetenbHa ABepN(HanpnMep,OOBeAn ne
 4.pnAepxnBasABepb, BbIBePHNTenOABa 6ontakpenneHng BepxHen HNKHenetenb KpenneHngABepn. 5.CHNMnTe nepeAHIoIoABepb. 6.ycTaHOBNTe nepeAHioIOABepb BNOPAAKe,O6paTHOMCHTNIO.
 
 ### BAM NOTPE6yIOTCA:OTBePTKN CNIOCKNMNKpeCT0o6pa3HbIMNe3BNeM.
-`kia_rio_en_58714ed1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 oka3aHbI CHTNe N yCTaHOBKa O6nNLOBKN neBON 3aAHenABepN. O6nnuoBky npabon 3aAHeNABepNCHNMaIOTNyCTaHaBNNBaIOTaHanOrn4HO. IOYORO TNH
 
@@ -15272,7 +14460,6 @@ oka3aHbI CHTNe N yCTaHOBKa O6nNLOBKN neBON 3aAHenABepN. O6nnuoBky npabon 3aAHeNA
 ![](images/cd275ed95b18928f6b0be28bdbeb5c92372508c77f98192c7ee38ca9249873eb.webp)
 
 ### 9..N BbIBepHNTe BNHT.
-`kia_rio_en_43d322e5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/fcb7ef557aa1a22212c419f68ca3e57d492e48fc084fad03aaa736e8bdf48a63.webp)
 10.CHNMNTe o6nnuoBky BHyTpeHHen py4KN.
@@ -15281,7 +14468,6 @@ oka3aHbI CHTNe N yCTaHOBKa O6nNLOBKN neBON 3aAHenABepN. O6nnuoBky npabon 3aAHeNA
 11. CHNMNTe py4ky CTeKNOnOAbeMHnKa, npeononebag CONPOTNBneHne npyXNHHOro ΦnkcaTopa.
 
 ### NPNMEYAHNE
-`kia_rio_en_9727026e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/2add78b64f4a1051deb4f350093d7c3c4553f3b21e7754d1a18e90b760f9163e.webp)
 TaK BbIrnAANT ΦnkcaTop PyKOSTKN CTeKJonoAbeMHNka.
@@ -15334,7 +14520,6 @@ Wngos A09 n non 9T 23. .NCHNMNTeKPOHWTeNH. NKT8r 08d0
 24. Bo3bMNTe3a kpan NCHNMNTeBaro3aWNTHyIOnneHKyCBHyTpeHHeNnaHenNABepN...
 
 ### NPNMEYAHNE
-`kia_rio_en_796816d4` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/b666d2e2d3d488bf2e90d3b9caf5e7952e8a0516d9abb5f4dd50fa3f037dadc2.webp)
 Npn Heo6xOANMOCTN noApexbte ynnOTHeHne nonepnmetpy NJIHKN HOKOM.
@@ -15344,12 +14529,10 @@ Npn Heo6xOANMOCTN noApexbte ynnOTHeHne nonepnmetpy NJIHKN HOKOM.
 25 BbIBeAAryT nPOBOAOBN BHyTpeHHIOIO pyyky3aMKaABepNepe3OTBepCTuABnneHke. 26. ycTaHOBNTe o6NBKy 3aAHen ABepn N BCeAeTann BNOPAAKe,O6paTHOMCHATNIO. SA9
 
 ### NPNMEYAHNE
-`kia_rio_en_203bf829` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 oka3aHbICHaTNe NyCTaHOBKa BHyTpeHHeNpy4- KN nPnBOAa 3aMka neBOi 3aAHen ABepN. BHyTpeHHIoIOpy4kynpNBoAa 3aMkanpaBoN 3aAHen ABepNCHNMaIOT NyCTaHaBNNBaIOTaHaNOrN4HO.
 
 ### BaMNOTPe6yIOTCA:OTBePTKN CnNOCKNMNKpecToo6pa3HbIMNe3BNeM.
-`kia_rio_en_97d3d5af` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHNMnTe o6nnLOBky 3aAHe ABepn (CM. CHATneNyCTaHOBkaO6nNLOBkN 3aAHenABepN", C. 253).
 
@@ -15380,7 +14563,6 @@ oka3aHbICHaTNe NyCTaHOBKa BHyTpeHHeNpy4- KN nPnBOAa 3aMka neBOi 3aAHen ABepN. BH
 8. AHanorNUHO OTCOeANHNTeTry OTPblyaraBHyTpeHHen py4kNnpNBOAa3aMkaABepN. 9.ycTaHOBNTeBHyTpeHHIOIOpy4KynpNBOAa 3aMka3aHeABepN N BCe paHee CHTbleAeTanNB o6paTHOM nopaAke.
 
 ### CHSTNEN YCTAHOBKA HAPYKHON PYYKN NPNBOAA 3AMKA3AAHENABEPN
-`kia_rio_en_ed6bd165` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/1fcdaf9f4f2f3d8c4e6f6162df7020af640807dd85a71c8192eec46435b57421.webp)
 
@@ -15435,7 +14617,6 @@ BaM nOTpe6yIOTCA: Topuobas ronOBka “Ha10",OTBepTKNCnnOCKNMNKpeCTOO6- pa3HbIMNe
 15. N OTCOeANHNTeTAry OTHapyKHON py4KN. 国 福 OON 1
 
 ### BaM noTPe6yIOTCA: KnIOY TORX T30, OTBepTKaC NJOCKNM Ne3BNeM.
-`kia_rio_en_8b2525f0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/37558e803299cf9c06b0d84dcff72e14df242af98cf36a0d70bb883ec5301366.webp)
 6.OTKNHbTeuKCaTOpTarN 3aMka...
@@ -15469,7 +14650,6 @@ BaM nOTpe6yIOTCA: Topuobas ronOBka “Ha10",OTBepTKNCnnOCKNMNKpeCTOO6- pa3HbIMNe
 12.CHNMNTe3aMOK. 13.YcTaHOBNTe3aMOK3aHeABepNBCe CHATbIeAeTAnN BnOPaAKe,O6paTHOMCHATNIO.
 
 ### BaM noTpe6yeTca OTBEPTKa C KpecTO-06pa3HbIMNIe3BNeM.
-`kia_rio_en_4bdc58a9` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHNMnTe o6nNLOBKy N Bnaro3a山NTHyIO nneHky3aAHen ABepN (CM. CHaTNenyCTaHOBkao6nnuoBkN 3aqHeABepn",c.253). 2. N3BnekNte HanpaBnsomyio onycKHoro CTekna N3nonoCTnABepN（CM.nn.9-13CH9- TNe NyCTaHoBka HapyKHoipyukn npnbona 3aMka 3aAHeiABep,C.255).
 
@@ -15478,7 +14658,6 @@ BaM nOTpe6yIOTCA: Topuobas ronOBka “Ha10",OTBepTKNCnnOCKNMNKpeCTOO6- pa3HbIMNe
 3.HaneHbTepyKOgTkyHa 山nnubICTeknonoAbeMHnka N, Bpamag pyKORTKy, yCTaHOBNTe CTeKIO 3aAHenABepN BnonoxeHne,npn KOTOPOM BNHTbI kPennehng 06oNMbl CTeKna K non3yHypacnonokatcsByAoHoeAnsAOcTyna KHNMNOOKeHNe.
 
 ### NPNMEYAHNE
-`kia_rio_en_37dda99f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaaBTOMo6nneC3aAHNMN 3neKTpoCTeknonoAbeMHNKaMN BpeMeHHO nPncoeANHnte akkyMynSTOPHyIO 6aTapeio N yCTaHOBNTe CTeKJO 3aAHen ABepn B nonoxeHne,npn KOTOPOM BNHTbI kPenneHng 06onMbl CTeKna Knon3yHy pacnonoxatcs ByAo6HoeA AOCTyna K HNM nonoxeHne.
 
@@ -15493,7 +14672,6 @@ HaaBTOMo6nneC3aAHNMN 3neKTpoCTeknonoAbeMHNKaMN BpeMeHHO nPncoeANHnte akkyMynSTOP
 6.N3BneknTe CTeKIO N3 ABepn, BbIHNMas ero BBepx N nobopaynban B npoeme ABepN, KaKnOKa3aHOHaΦOTO.
 
 ### NPNME4AHNE
-`kia_rio_en_a8918db3` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KOEEA AUTOGLASS EMPERED-13.2 DOIZ45AS2M32 E 43R:000351T =
 
@@ -15502,14 +14680,12 @@ O6paTNTe BHNMaHNe Ha MapkNpOBky CTeKna. A3aMeHbI npno6petaute CTekno C Takonxe M
 7.ycTaHOBNTe CTeKnO 3aHeABepN  BCe CHATbIeAeTanNBnOpAAKe,O6paTHOMCHATNIO.
 
 ### CHSTNENYCTAHOBKA CTEKIONOAbEMHNKA 3AAHENABEPN 0388
-`kia_rio_en_6e8005b7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/30b8058f70ec0ae616f76fdffd18932e30245c7305ca11cba5f4b5d428c469d4.webp)
 
 BaM noTpe6yIoTca: Topuobas ronOBka "Ha 10", OTBEPTKa C KpecToo6pa3HbIM ne3BNeM,CKOT4.
 
 ### NPNMEYAHNE
-`kia_rio_en_6758bdc5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Noka3aHbICHATNe NyCTaHOBKaMexaHN3MaCTeKNONOAbeMHNKa NeBON 3aAHenABepn. MexaHN3M CTeKNOnOAbeMHNka npabon 3aAHenABepn CHNMaIOTNyCTaHaBJINBaIOTaHaNOrNYHO. BAaHHoM noApa3Aene OnncaHO CHATNe MexaHN4eCkoro CTeKnonoAbeMHnka 3aAHeiABepN, CHSTNe 3nekTpocteknonoAbeMHnka 3aAHen ABepn AHanornyHO CHATNIO 3neKTpocTeknonOAbeMHNka nepeAHen ABepn (CM. "CHATNe N yCTaHoBka 3nektpocteknonoqbeMHnkanepeAHenABepn,c.243).
 
@@ -15533,7 +14709,6 @@ KOTOPOMBNHTbIKpenIeHNgO6OMMbICTeKnaK non3yHypacnonokatcaByAoHoeAngAOcTynaKHNMnOO
 福 6.BbIbepHnteceMb raek KpenneHng MexaHN3MaCTeKJOnOAbeMHNka KBHyTpeHHennaHenNABepn...
 
 ### BaM noTpe6yIOTCg: TOpuObble rONOBKN “Ha10》,“Ha12》.
-`kia_rio_en_4acb8249` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. CHNMNTe o6nNLOBKy NBnaro3a山NTHyIO nneHky 3aAHen ABepn(CM. "CHaTne N yctaHOBka o6nnuoBkN 3anHenABep,c.253).
 
@@ -15548,7 +14723,6 @@ KOTOPOMBNHTbIKpenIeHNgO6OMMbICTeKnaK non3yHypacnonokatcaByAoHoeAngAOcTynaKHNMnOO
 ![](images/4ab72e35f8e174a6cc8c95fadfbd06fe846d6bd88d316da20d4c9909e80ae2d1.webp)
 
 ### NPNMEYAHNE
-`kia_rio_en_b62ab985` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 noka3aHbl CHATNe NyCTaHOBKa neBoN3aAHen ABepn. NpaByio 3aAHIOIO ABepb CHNMaIOT N yCTaHaBNNBaIOTaHaNOrN4HO.
 
@@ -15577,7 +14751,6 @@ noka3aHbl CHATNe NyCTaHOBKa neBoN3aAHen ABepn. NpaByio 3aAHIOIO ABepb CHNMaIOT N
 6.ycTaHOBNTe OrpaHn4NTenb OTKpbIBaHng ABepNBnOPAAKe,O6paTHOMCHATNIO.
 
 ### CHATNENYCTAHOBKA 3AAHEN ABEPN
-`kia_rio_en_1575dd4c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BaM noTpe6yIoTCA: Topuobas ronobka Ha 12",OTBepTka C NNOCKNM Ne3BNeM.
 
@@ -15593,14 +14766,12 @@ BaM noTpe6yIoTCA: Topuobas ronobka Ha 12",OTBepTka C NNOCKNM Ne3BNeM.
 7.AHanorn4HO BbIBepHNTe ABa 6Onta kpeNHN HNKHn neTnn K ABepN, nocne 4ero CHNMNTe 3aAHOIOABePb. 8. ycTaHOBNTe 3aHIOIO ABepb B nOPaAke, O6PaTHOM CHATNIO.
 
 ### CHATNEN YCTAHOBKA NEPEAHErO CNAEHA
-`kia_rio_en_ca463002` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/36e1c6c06ac1aa829c7648ec20731c267ec400ad855a33e4d890527cd71345dd.webp)
 
 BaM noTpe6yeTca Topuobas ronObka "Ha 14".
 
 ### NPNMEYAHNE
-`kia_rio_en_03167b4b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pa6ota noka3aHa Ha npnmepe neBoro nepeAHero cnAeHba,npaboe CNAEHbeCHNMaIOT aHanOrn4HO.
 
@@ -15638,7 +14809,6 @@ Pa6ota noka3aHa Ha npnmepe neBoro nepeAHero cnAeHba,npaboe CNAEHbeCHNMaIOT aHanO
 12.CHNMnTe 山ai6y. 70N HB13.ycTaHOBNTe nepeAHee CNAeHbe N BCeCHATbIeAeTanNBnOpAAKe, O6paTHOMCHATNIO.
 
 ### CHTNENYCTAHOBKA3AAHErO CNAEHbA
-`kia_rio_en_2b303e46` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/042fbfe29841f7844ded31d36e65ceeee249d1758add93bce95d8fe19e217707.webp)
 
@@ -15661,7 +14831,6 @@ BaM noTpe6yetca Topuobas rosObka Ha12.
 5.BbIBepHnteABa6onTaKpenneHnACnNHKN..
 
 ### NPNMEYAHNE
-`kia_rio_en_fb1f6783` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/ae61e6c2731aa523da566ed8bda7743589aaaa6fd19d0fb75f9e9f504e15d181.webp)
 Tak pacnonoxeHbl 6onTbl KPennenng CNNHKN 3aAHerO CNAeHbA. RASHHOT
@@ -15674,14 +14843,12 @@ AHerO CNAeHbA.
 O6PaTHOMCHATNIO
 
 ### CHATNEN YCTAHOBKA ObNNLOBKN TOHHENA NONA
-`kia_rio_en_e79c5ec3` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/570ba21aff20a3e07aa72bb34fe398fc74ffe5d17997425249ba7f3e1c52ea3c.webp)
 
 BaM noTpe6yIoTcA: Topuobas ronOBka "Ha10,OTBepTKN CnOCKNM N KpeCTOo6- pa3HbIMJe3BNeM.
 
 ### NPNMEYAHNE
-`kia_rio_en_64f0e91b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 oka3aHbICHTNe NyCTaHOBKa O6nNUOBKN TOHHeng nona Ha aBTOMO6nne C ABTOMATNYeCKON Kopo6kon nepeAay. NpneMbl CHSTNS N yctaHOBKN OnNLOBKN TOHHeng nOna Ha aBTOMOGNne CMexaHnyeckon Kopo6kon nepeAay aHanorN4HbI.
 
@@ -15699,7 +14866,6 @@ oka3aHbICHTNe NyCTaHOBKa O6nNUOBKN TOHHeng nona Ha aBTOMO6nne C ABTOMATNYeCKON K
 5.BbIBepHNTe BNHT...
 
 ### 6....CHNMNTepyKOgT.y..
-`kia_rio_en_274ddb19` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/b3368e81f40682cc95b032c5e29dcc8d544dfea99584c88b4f2f7dabcc4e2506.webp)
 9. BbIBepHNTe ABa BNHTa LeHTpanbHoro KpenneHngOnNLOBknTOHHeng NOnaKKy3OBy.
@@ -15754,7 +14920,6 @@ ycunntenbnaHenn npn6opob, B CBOIO04epeAb, COCTONT N3CTanbHonapaTypblKOTopon npuk
 16. .NOTCOeANHNTeKOnOAKy OT pa3beMa pO3eTKN. EH
 
 ### CHATNEN YCTAHOBKA NAHENN NPNBOPOB 9
-`kia_rio_en_7a60e34d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/679aaf98a17f9c047e6f1861de09e9b6ca650684b281aad898b6105d590ddacc.webp)
 
@@ -15773,7 +14938,6 @@ BaM nOTpe6yIOTCA: Topuobas ronObka "Ha 10",OTBepTKNC nnOCKNMNKpeCToo6- pa3HbIMSe
 19.CHNMNte HaKnaAKy O6nnLOBkN TOHHeng nona C6nOkOMnpnkypNBaTengn pO3eTkOn.
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_8f61c25b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NaHenb npn6opob npeACTaBngeT co6on pa36opHyIOKOHCTpyKLNIO,COCTOA山yIO N3AeKOPaTNBHON naHenn Nycunnteng naHenn npn6opob.
 
@@ -15832,7 +14996,6 @@ Co6paTHon CTOPOHbIKAeKOpaTNBHOnnaHenN npukpenneHblBO3AyXOBOAbl CNCTeMbl OTNnHNn,
 22. BbIBepHNTe 60nT kPennehng naHenn npn6opoBB HNweBemeBorOamNka.
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_c3c7ad7e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/1fc71af2b235987200408175b448f597faeeb6bdf3e4c0d724a874118e791ee9.webp)
 13. BblBepHNTe no OAHOMY 6onTy kpenneHNA naHennnpn6opob K nepeAHNMCTONkaM Ky30Ba. OTNMN
@@ -15860,7 +15023,6 @@ Co6paTHon CTOPOHbIKAeKOpaTNBHOnnaHenN npukpenneHblBO3AyXOBOAbl CNCTeMbl OTNnHNn,
 27.CHNMnTenaHenb npn6opoB. STSR 28. ycTaHOBNTe naHenb npn6opob N BCe paHee CHATble AeTann B nopaAke, 06paTHOM CHATNIO.
 
 ### CHATNEN yCTAHOBKA YNHN NPNBOPOB
-`kia_rio_en_870792a9` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BaMNOTPe6yIOTCA:OTBEPTKNCnJOCKNMN KpecToo6pa3HbIM Je3BneM, TOpuoBbleKIo4N“Ha10"，Ha12”.
 
@@ -15906,7 +15068,6 @@ BaMNOTPe6yIOTCA:OTBEPTKNCnJOCKNMN KpecToo6pa3HbIM Je3BneM, TOpuoBbleKIo4N“Ha10
 14.BblBepHNTe 6onT kpennenng kopnyca BO3AyxOHarHeTaTeng K ycnnNTeno naHenn npn6opob. TXSnE 1
 
 ### 15.1onAeHbTeOTBepTkON..
-`kia_rio_en_9685accb` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/675600023604d0c192466f478d6e6e2834d7a7fffc7cc62868151676f862359b.webp)
 
@@ -15928,7 +15089,6 @@ BaMNOTPe6yIOTCA:OTBEPTKNCnJOCKNMN KpecToo6pa3HbIM Je3BneM, TOpuoBbleKIo4N“Ha10
 20.CHNMnTe ycunntenbnaHenn npn6opoB.
 
 ### NPNMEYAHNE
-`kia_rio_en_f7a8874b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a5c6388ddba09d06179ecaa01a3c410018b4a7969a2cbb58e84aed934f76bba1.webp)
 TaK BbIrnAAN CHATN CaBTOMOGNnAyCnnnTenb naHenn npn6opob.
@@ -15936,7 +15096,6 @@ TaK BbIrnAAN CHATN CaBTOMOGNnAyCnnnTenb naHenn npn6opob.
 21.ycTaHoBnte ycunnTenb naHenn npn6oPOBNBCepaHee CHATbIeAeTanN B noPaAke, 06paTHOMCHATNIO.
 
 ### CHSTNENYCTAHOBKA BEWEBOrO SWNKA
-`kia_rio_en_ddf96eff` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/0ebf4eab2ddbe89594457e7586ff65a7d6d593bacfd947bd70ad77aed3247b08.webp)
 
@@ -15960,7 +15119,6 @@ TaK BbIrnAAN CHATN CaBTOMOGNnAyCnnnTenb naHenn npn6opob.
 福 6...HNMNTe BeWeBON WNK. 电 7.yCTaHOBNTe Be山eBon AWNK B noPanke O6paTHOMCHATNIO. 10Gk
 
 ### BaM noTpe6yIoTcs: Topuobas rosObka《Ha10",OTBepTKn CnnOCKNMN KpecT006-pa3HbIMNe3BNeM. ROTSI
-`kia_rio_en_dcebefaf` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. OTCOeANHNTe NPOBOAOT KneMMbI "MNHyC"aKKyMynTOPHON 6aTapen. POU
 
@@ -16000,14 +15158,12 @@ NABa6ontaueHTpanbHorokpenneHng MXHeroAeKopaTuBHorO山NTkanaHennnpN6opoB. 2
 CHATNENYCTAHOBKA HAPYKHbIX3EPKAN
 
 ### 3EPKAIA 3AAHErO BNAA
-`kia_rio_en_693008b0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/571118dac1b5aca6a53177101ce6ce1031d416c8d5a9eb3b101be0c2a8b6b664.webp)
 
 BaMNOTpe6yIOTCg:OTBEpTKa CnnOCKNMne3BneM,KIoy “Ha10》
 
 ### NPNMEYAHNE
-`kia_rio_en_e2793284` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Noka3aH npouecc CHATNA NyCTaHOBKN HapyXHoro 3epKana 3aAHerO BNAa C neBON CTOpOHbl. HapyxHoe 3epkano 3aAHero BNAa Cnpabon CTOPOHbICHNMaIOTaHaJIOrN4HO.
 
@@ -16028,7 +15184,6 @@ Noka3aH npouecc CHATNA NyCTaHOBKN HapyXHoro 3epKana 3aAHerO BNAa C neBON CTOpOHb
 8.ycTaHoBNTe HapyKHoe 3epkanO3aHeroBNna BNOPAAKe,OOPaTHOMCHATNIO. 特
 
 ### CHATNENYCTAHOBKA BHYTPEHHErO 3EPKANA
-`kia_rio_en_319fb68f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a7893e60ceee6e630dd7cbf3ae902f38a54ec9da11fbe25af7508e5fb770389f.webp)
 
@@ -16048,12 +15203,10 @@ TaKBbIrnaAnT nkcaTOp KpennHng 3epkana K KPOHWTeNHy.
 3.ycTaHOBNTe BHyTpeHHee3epkano BnopaAke, 06paTHOMCHATNIO.
 
 ### NONE3HbINCOBET
-`kia_rio_en_cf0d9a98` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KpOHwTeiH KpenneHng BHyTpeHHero 3epkana 3aAHero BNAa npnkneer ￥ CTeKny cneunanbHbIM KneeM. Ecnn no KaKON-TOnpn4NHe OH OTKnenncA OT CTekna, MOKHO CHOBa npnKnentb eroHa MeCTO.
 
 ### BaM nOTpeyIOTCA: Topuobas ronobka “Ha10》,OTBepTka CnOCKNMe3BNeM.
-`kia_rio_en_f7d87f90` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 6.ycTaHOBnTe nOpy4HN B nopAAke, 06paTHOM CHATNIO. NHEQ
 
@@ -16064,7 +15217,6 @@ KpOHwTeiH KpenneHng BHyTpeHHero 3epkana 3aAHero BNAa npnkneer ￥ CTeKny cneunan
 ![](images/9ead4a88016c2f93445478c77523c44203cf776ad90ad5df6b9e657998accc25.webp)
 
 ### 3AMEHA CONHLE3AWNTHbIX KO3bIPbKOB
-`kia_rio_en_0ec065fb` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/b670008a14973a5cd879c8bd24cb2d8ba4aed38a14e7ee7558e8fb3bdebcfaae.webp)
 
@@ -16106,7 +15258,6 @@ kia-rio.net Ky30B 267
 6... CHNMNTe KpIO4OK.
 
 ### NPNMEYAHNE
-`kia_rio_en_cd8c4542` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/0c7c71a6bd98c225bea8f1bdab686c0fe568b6cd23ac2f898e50ae176c9efb8f.webp)
 Tak BbIrnAANT CHATbIN C ABTOMOoNng KPIO4OK CONHUe3a山NTHOrO KO3bIpbka.
@@ -16116,7 +15267,6 @@ Tak BbIrnAANT CHATbIN C ABTOMOoNng KPIO4OK CONHUe3a山NTHOrO KO3bIpbka.
 7.ycTaHOBNTe CONHue3a山NTHble KO3bIpbKN BCeAeTann BnOPAAKe,O6paTHOMCHATNIO.
 
 ### CHATNE NyCTAHOBKA ObNNLOBOK CATOHA
-`kia_rio_en_6cb2365a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/24b38f15224dbd6520fa5f3607097177fe8d604a4916db7dc083b7cea7e8aed8.webp)
 
@@ -16135,7 +15285,6 @@ BaMnOTPe6yIOTC9:OTBePTKNCnNOCKNMN KpecToo6pa3HbIM ne3BNeM, TopuobasronOBka “Ha
 3...CHNMnte BepXHIolo o6nNuOBky nepenHeNCTONKN.
 
 ### NPNME4AHNE
-`kia_rio_en_9d4ac8e5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NoBpexAeHHbleNkcaTopbl 3aMeHNTe.
 
@@ -16156,7 +15305,6 @@ NoBpexAeHHbleNkcaTopbl 3aMeHNTe.
 5 N,npeononebas conpotuBneHne ynpyrNXAepxaTenen,cHnMnTeo6nnLOBky.
 
 ### NPNMEYAHNE
-`kia_rio_en_1b36a70f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5c2011ca1592ab228ba52d2d72e7a49565645c2b938f664a178f2fbf96b793fe.webp)
 
@@ -16204,7 +15352,6 @@ TakpacnonoxeHbIAepxatenn nepeAHei o6nnLOBKN nopora. noBpexAeHHbIe AepxaTenn 3aMe
 18. nonAeHbte o6nnuobkyn,npeononeBag conpOTnBneHneynpyrnxAepxaTenen, OTBeANTe BePXHIOIO o6nnuoBky LeHTpanbHOn CTONKNBCTOPOHy.
 
 ### NPNMEYAHNE
-`kia_rio_en_6b9c22fb` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/67a67561b7370f69d982f0623f01176d6125eb7a585ab3f07bd4f3c4e3f94290.webp)
 Tak pacnonoxeHbl Aepxatenn BepxHen o6nnLOBKN LeHTpanbHon CTONKN. NoBpexAeHHbIe AepxaTenN 3aMeHNTe.
@@ -16279,7 +15426,6 @@ seane eGon Biogonsou 22.BbIBepHNTeNKCaTOp nNCTOHa..
 37.CHNMTe ee npeononebasconpoTNBneHNeAnaCTMaccOBbIXAepxaTenen.
 
 ### NPNMEYAHNE
-`kia_rio_en_bc81b123` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 39..N LeHTpanbHbln peMeHb 6e3onacHo-CTN3aAHNXnaccaxnpOB.
 
@@ -16290,7 +15436,6 @@ seane eGon Biogonsou 22.BbIBepHNTeNKCaTOp nNCTOHa..
 41.NOTaHyB o6nuuOBky BBepXN npeononeBag COnPOTNBneHne ynpyrnxAepxaTenen, CHNMNteo6nuuoBky 3aqHennonkncanoHa.
 
 ### NPNMEYAHNE
-`kia_rio_en_a2b243a7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/c8fc017967611a4cba56425381992308cf73bd645b0e59feacb3629812c234cd.webp)
 Tak pacnonoxeHbl ΦnKcaTopbi KPennenng o6nnLobkn 3aAHen nonkN canoHa. EE000
@@ -16298,7 +15443,6 @@ Tak pacnonoxeHbl ΦnKcaTopbi KPennenng o6nnLobkn 3aAHen nonkN canoHa. EE000
 42. ycTaHOBNTe O6nNLOBKN canOHa BnopAke,O6paTHOMCHATNIO.
 
 ### 3AMEHA 山ETOKCTEKNOO4NCTNTENABETPOBOrO OKHA
-`kia_rio_en_53a270c3` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/474b9a7b186192c0ce0ff493b35810c523000212fa5db86cd41acb4b61626dee.webp)
 
@@ -16313,14 +15457,12 @@ Tak pacnonoxeHbl ΦnKcaTopbi KPennenng o6nnLobkn 3aAHen nonkN canoHa. EE000
 3.CABNHbTe山eTKy BHN3 nO pblyaryn CHNMNTe Cpblyara. 4.AHanOrN4HO CHNMNTe BTOpyIO山eTKy. 5.ycTaHOBNTe山eTkNBnOpAAke,O6paTHOM CHATNIO.pNЗTOManantep 山TKNBBEANTe B KpIo4OKpbl4araAO 3a山enkNBaHNg.
 
 ### NPNME4AHNE
-`kia_rio_en_fd2a814a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/3d4f918fa3347f0b4a5a3ac908d328213a962c0879de3cb297eaa4c72ecd57b8.webp)
 
 O6paTNTe BHNMaHNe: Ha aBTOMo6nne ncnonb3YIOTCA 山eTKNCTeKNOOYNCTnTenspa3HONAnNHbl. 山etka neboro pbluara CTeKNOO4NCTNTENA ANHHee WeTkn npaBorO pbiyara.
 
 ### CHATNENYCTAHOBKA PbIYArOB CTEKNOO4NCTNTENЯ BETPOBOrO OKHA
-`kia_rio_en_7bedd650` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/2fda4b04eea512e600744707fa06e8584c7c50f79324765c2463d8b37d7fe45e.webp)
 
@@ -16349,7 +15491,6 @@ BaM noTpe6yIoTCA: KJIOY "Ha 14", OTBepTkaC NnOCKNMSe3BNeM.
 6.ycTaHOBNTe pblyarn CTeKNOO4NCTNTENA BeTpOBOro OKHa B nOPaAke, 06paTHOM CHATNIO,COBMeCTNB山eTKN CTeKJIOO4NCTNTEnA C MeTKaMNHaCTeKNe BETPOBOrOOKHa. N8
 
 ### NPNMEYAHNE
-`kia_rio_en_0f89f00e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/1c5120d28002edcbaa6df31ce9acc0a9c6ae45ddcfc873a6e15c85e6a64c933f.webp)
 
@@ -16359,7 +15500,6 @@ O6paTNTe BHNMaHNe: HaaBTOMo6nne Ncnonb3yIOTC9 pblyarn CTeKNOO4NCTNTenA pa3Hon An
 4.CoxMnteΦNkcatop...
 
 ### BaM noTpe6yeTca Topuobaa ronOBka “Ha 10.
-`kia_rio_en_271bd569` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTcoeANHNTe nPOBOA OT KneMMbl "MNHyC"akkyMyngTopHon6aTapen. 2 CHNMNTe pblyarn CTeKNOO4NCTNTenA BMeCTe CO 山eTkaMN (CM.“CHATneNyCTaHOBKapbI4arOBCTeKIOO4NCTNTenABeTpOBOrOOKHa,c.270). 3. CHNMNTe peueTky Kopo6a BO3AyxonpuTOKa (CM. “CHATNe N yCTaHOBka pe山eTkN KOpo6a BO3AyxonpNToka",c.242).
 
@@ -16377,7 +15517,6 @@ O6paTNTe BHNMaHNe: HaaBTOMo6nne Ncnonb3yIOTC9 pblyarn CTeKNOO4NCTNTenA pa3Hon An
 CHNMNTeTpaneLNIOCTeKnOOuNCTNTengC aBTOMO6nng. 8.ycTaHOBnTeTpaneuNIo CTEKNOO4NCTNTe服 B c6ope CMOTOpeAyKTOPOM B nopaAke, 06PaTHOMCHATNIO. HS
 
 ### CMA3KA APMATYPbI Ky30BA
-`kia_rio_en_93ed14e8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 epnonnyeckn cMa3blbaiTeAeTann apmaTypbl Ky30Ba, 4TO6bI npeAOTBpaTNTb 3aenaBNA 3aMKOB,neTenbNWapHNpOB.ACMa3kn apMaTypbl Han6onee yAO6Ha CunNKOHOBaR CMa3kaBaЗpo3obHonynakoBke.
 
@@ -16421,7 +15560,6 @@ X
 S
 
 ### NPO4NCTKA APEHAKHbIX OTBEPCTNN
-`kia_rio_en_a0c10289` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B npouecce əkcnnyataunn aBTOMO6nng npnpe3knx nepenanax Temnepatypbl HapyxHOrOBO3Ayxa BOBHyTPeHHNXNONOCTAX Ky30- BaNABepen KOHAeHCupyeTCABnara nOMNMO 3TOro npn MONke aBTOMO6nng N B AOXAb B 3TN nOnOCTN MOXeT NPOHNKHyTb BOAa. CKONNBWaACABnONOCTAXBOAaBbI3bIBaeTKOPPO3NonaHenen Ky3OBaNABepen. 福
 
@@ -16439,7 +15577,6 @@ B npouecce əkcnnyataunn aBTOMO6nng npnpe3knx nepenanax Temnepatypbl HapyxHOrOBO
 4.TpNApeHaXHbIXOTBepCTu9BbInOnHeHblN B HNXHeN KpOMke KPbIWKN 6araxHuka. Nx Takxe cneAyeT nepnonnyeckn npoynwatb, KaK N OTBePCTNA B6OKOBbIXABepAX.
 
 ### OCOBEHHOCTN yCTPONCTBA
-`kia_rio_en_2a9de357` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CncTeMa OTONneHNA, KOHANLNOHNPOBaBNA NBEHTNNLNN npeACTaBnAeT co6on eAnHblnKoMnnekc,o6ecnenBaio山n MakCNManbHO KOMΦopTHbIe yCnOBng B canOHe aBTOMO6nng He3aBNCNMO OT norOAHbIX ycnOBnN N pexnMa ABNKeHNA. CncTema BKNO4aeT B ce6g OTOnNTenb (noBblwaeT TeMnepaTypy Bo3AyxanpNno6bIxpexNMax pa6oTbI CNCTeMbl),KOHANuNOHep (CHNXaeT TeMnepaTypy N BaXHOCTb BO3Ayxa), BO3AyxOHarHeTaTenb (BeHTNnSTOP) N BO3AyXOBOAbI C ΦnnbTPOM (o6ecneynBaIOTB03AyX006MeHB canOHe, ounmaIoT BO3- AyX OT nbInn),a Takke 6nok ynpanenng (ynpabngeT BCeMN 3eMeHTaMN CNCTeMbl AnonyyeHn3aAaHHbIxNapaMeTpoBKOMΦopTa).
 
@@ -16469,7 +15606,6 @@ PNC.12.1.pNHuNnNanbHaA CxeMa ABNKeHnA BO3AyWHbIx NOTOKOB CNCTEMe BEHTNALNN, OTON
 -3acnoHkn2pacnpeneneHn9Bo3Ayxa,noCTynaIoWerO N3OTonnteng no BO3AyXOBOAaM BCanOHWnNAO6AyBaBeTpOBOrOCTekna.
 
 ### OCO5EHHOCTN yCTPONCTBACNCTEMbI KYHANLNOHNPOBHNS
-`kia_rio_en_afc04749` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 5 HaaBTOMo6NngxKIA RioyCTaHOBneHa CNCTeMaKOHANLNOHNPOBAHNKOMNPeCCOPHOro Tuna. y3bl OTonnteng NTennoo6MeHHNK NCnaPNTenAKOHANLNOHePaCKOMnOHOBaHbIB OAHOM6noke. OpraHblynpaBneHngCncteMon KHANUNHNPOHNn BO3Ayxa pacnonokeHbl Ha naHenn,o6men CopraHaMnynpaBneHng OTONNTeNeM.
 
@@ -16493,7 +15629,6 @@ PNC.12.2.pHnHabHagCxeMaABKeHXnaAareHTaBCNCTeMe KOHANuNOHNpoBaHNABO3AyXa:1-KOM6NH
 PNc.12.3.KoMnpeccop KoHAnuNoHepa:1-npnKuMHo ANCK;2-KNB npBOAa;3-nepeAHAg kpbIwka Kopnyca;4- KONOAKa aneKTpnueckoro pa3beMa KaTywKN 3neKTpoMarHTa;5-naHeu KpenneHnTpy6onpoBoAa HN3koroAaBneHns; 6 - Kpblwka 6noka KnanaHoB;7-naHey KpenneHnATpy6onpoBOAa BbICOKorO AaBneHnA;8- npoywnHa kpenneHna; 9- KopnyCHacocHo yacTn;10-3arnywka HannBHoro OTBepCTng;11-AeMnepnpnKMHoroANCKa
 
 ### NPNMEYAHNA
-`kia_rio_en_3a1dedcb` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcNCNCTeMa ncnpaBHa, BO BpeMg BKIOYeHNA KOHpnunoHepapa3Aaetcsenuok 3TOnPHKNMHOANCK MyTbInOAAeNCTBNeM 3JekTpoMarHNTa BXOANT B 3aueneHne COWIKNBOM npnBona, M Ha4NHaeTBpa山aTbCspOTOpKOMnpeccopa. Ho Bnpouecce Skcnnyataunn KOHAnUNOHepa MOryt BO3HNKHyTbCeAyIOWNeHeNCnpaBHOCTN kOMnpeccopa.
 
@@ -16523,12 +15658,10 @@ Ha 3aHen KPbILke KOMnpeccopa ycTaHOBneH KnanaHc6pocaaBapniHorOAaBseHng. B cnyaep
 KOHAeHCOP (pannatop KOHANUNOHePa) (pnc. 12.4) MHOronOTo4HorOTnnapacnonoxeH nepenpannatopoM CHCTeMbIOxnaxQeHnABNrateng. OHnpnkpenneH CNOMOLbIOKPOHWTeNHOBKpaMkepannaTopa.CoTblKOHneHcopaN3roTOBneHbIN3OCKNX TOHKOCTEHHbIXaNIOMNHNeBbIX Tpy6ok C BHyTPeHHNMN NPOAOnbHIMN neperopoAkaMn AA XeCTKOCTN N HapyKHbIM ope6peHnem AA ynyywenng Tenoo6MeHa. ba4knalloMnHneBble, cnaHuannnoncoeANHHngTpyonPobOOB pecNBepa.oBbICOTe6ayknpa3neneHbl Ha CeKLNN, nosTOMy,nXOA 4epe3 KOHneHcop, NOTOK xnanareHTaHecKOJbKOpa3MeHgeTHanpaBneHNe. B KOHAeHcope NpONCXOANTKOHAeHCaLNANapOBCKaTOrOKOMnpeccopoMxnanareHTaNOTBonBbIAensIo山eroCnpN3TOMTenna BOKpykaIoLnBO3AyX.
 
 ### NPNMEYAHNA
-`kia_rio_en_d64b9c03` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pN BKIOyeHNN KOHAnLNOHepa 6nOk ynpaBneHnA ABNraTeneM BKAIO4aeT LenbNnTAHng ənektpNyeckorobeHTnnsTopapannaTopaoxnaxnenng ABnraTeng, 4TOynyuwaeT Tenno06MeHB KOHAeHCOpeNCHNKaeTAaBeHNe B CNCTeMeKOHANLNOHepa.
 
 ### NONE3HbIECOBETbl
-`kia_rio_en_bc92db16` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5ae1d22ddac28209c65c7d7716b9def2d4ee7151a87c227eb7650ad0da55fabf.webp)
 
@@ -16559,12 +15692,10 @@ Npn oxnaxAennnnpoxoggero uepe3ncnapn-Tenb BO3Ayxa coAepkamnecA B HEM BOARHbIenap
 KOHAeHcaT4epe3 ApeHaxHyioTpy6ky,pacnonOXeHHyIOHa HNXKHen yaCTNnpaBoNCTOpOHbl MOTOPHOrO山NTa, CnNBAeTCA NOAAHNWe aBTOBAoonA. NpN BbIcokon BAXHOCTN Okpyxaio山eroBO3AyxanOAaBTOMO6nneMMOxeTo6pa3OBATbCANYKaBOAbI,4TOBAETCRKOCBHHbIM nPN3HaKOMNCNPaBHOCTN CNCTeMbIKOHANUNOHNPOBAHNA.
 
 ### NONE3HbIECOBETbl
-`kia_rio_en_f1ec9f4d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B npouecce 3kcnnyataunn abtomoonng Ha BnaXHOn OT KOHAeHcaTa HapyKHON nOBepXHOCTN NcnapntensoceAaIoT YaCTnLbIAOPOXHOn NbnNNrP.
 
 ### IPNMEYAHNE
-`kia_rio_en_d634f02b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/ab8bce3765d95015c184317cb3836d799682ec49c96cb8f32db83416e20e451b.webp)
 HNAGOOAON RrUA WNBnCnx 9HHONAO
@@ -16572,7 +15703,6 @@ HNAGOOAON RrUA WNBnCnx 9HHONAO
 Tpy6onpoBoAbICOenNHaIOTBCe3neMeHTblCHCTeMbI KOHANuNOHNPOBaHNABeANHbInrep-MeTN4HbIKOHTyp. Tpy6onpoBoAblNnaHublNXKpenneHNAN3rOTOBneHbIN3anIOMNHNeBbIXCnnaBOB.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_07386f50` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/d42f5c770e0646b10947e7463e9e15509d83e947bfc475dc24b0e4756ef7aaa5.webp)
 
@@ -16587,7 +15717,6 @@ Tepmoperynnpylownn KnanaH 6no4Horo TNna pacnonokeH B kopnyce ncnapnteng. KnanaHn
 PecnBep-ocywnTenb AyCTaHOBneH Ha KOHAeHCOpeCneBOiCTOpOHbINCOCTaBnAeTC HWMHepa36opHbln6nok.BHyTpNKopnyca HaXOANTCAnnbTpyIomnn anemeHT(kaptpnA), 3anonHeHHbl rpaHynaMnOcywnteng (cnnnkarena). Apoxongmnn 4epe3 pecnbep CXNXeHHbIn xnanareHT OunmaeTCA OT B03MOXHbIXnpnMecen, rpA3NBnarn. B HNKHen 4aCTN kopnyca pecubepa pacnonoxeHo 3akpblToenpo6kon 6OTBepCtueA93aMeHbl unbTpyiowero3nemeHta.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_2b16bd37` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bcnyyae peMOHta NNN 3aMeHbI3eMHTOB CNCTeMbI KOHANUNOHNPOBaHNn,eCnN OHa HaXOANnacb BOTKPbITOM COCTORHNN (6bInnCHb) kaKne-nn6o y3nbl, pa3pyweHbl Tpy6onpoboAblN T.n.),KapTpA pecnBepa-ocy山nTeng noAneXNT 3aMeHe. NHaye nocne3anpaBkNCncTeMbl XaAareHT He 6yAeT ocywaTbCA N BHyTPN CNCTeMbIMOryTO6pa3OBaTbCKNCnOTbl,KOTOpble pa3pywaTN3HyTpNAeTanN koHANLNOHePa.
 
@@ -16605,7 +15734,6 @@ BMeCTaXCOeANHeHNOTAenbHbIX3neMeHTOB CNCTeMblyCTaHOBneHblynOTHNTebHble kOnbua kpy
 CepBnCHbie KnanaHbl A nOAcoeAnHeHNAANarHOCTN4eCKOrON 3anpabo4Horo060- pyAOBaHngpacnonoxeHbI HaTpy6onpobonax.
 
 ### NPNMEYAHNE
-`kia_rio_en_84e0cd84` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/da0325a4f87dc5434676ed6a48d2046d808515abcaeec7aca742b0ab849ff6df.webp)
 TakpacnonoxeHbl HaTpy6onpoboAaxcepBNcHbleKanaHbI NHNNHN3KOrO AN BbICOKoro 5 AaBneHng.
@@ -16623,7 +15751,6 @@ B KanaHaXyCTaHOBneHbI3OnOTHNKN,CXOAHbIenOKOHCTPyKLNNC3ONOTHNKaMNWNH KOneC,HO OTN
 BbIBOpaynBaH BBOPayNBAHNg 30- NOTHNKOB NCNOb3yeTCACNeLNabHbINKIO4.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_15c111a1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/f4855d16a903623a950955aecac94418f107bad0c2a5d110dc9f00485738f08d.webp)
 
@@ -16654,7 +15781,6 @@ XnagareHT. CuCTeMa 3anpaBneHaxiana reHTOMHFC-134a(R-134a). NOnHbIn 06bem 3anpaBk
 B xanareHT Ao6aBneHo (120±10) rcne unanbhoro Macna (PAG) AA CMa3KN KOMnpeccopa. KaTeropnyeckn 3anpeweHo NCnOnb30BaTb B CNCTeMe xnanareHTbl N Macna APyrNXTNNOB.
 
 ### NPNMEYAHNA
-`kia_rio_en_fbef1201` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B npouecce akcnnyataunn aBTOMO6NNbHOrG KOHAnunoHepa nePnOAnueckn BO3HNKAIOT CWTyaunn, KOrAaTpe6yeTca o6cnyKnBaHne CH CTeMbI KHANUNOHNPOHNn WN eepeMoHt. An3Toro NCnonb3yeTCA COBpeMeHHOe AnarHOCTN4eCKOe N peMOHTHOeo6opyAOBaHne CaMas pacnpoctpaHeHHas CnTyaLNg - 3T0 pa3repMeTN3aung CNCTeMbI N BbIXOA N3 Hee xnanareHta. N
 
@@ -16681,7 +15807,6 @@ AnpOBeAeHNsBbICOKOKayeCTBeHHON3anpaBKN aBTOMO6nNbHOrOKOHANLNOHepa HeO6XOANMbI:
 ![](images/acbc18e31259a2562bd5a5bf9bf35224f949cbf0f48fe9d6c5f6204bbefa6c34.webp)
 
 ### 二 npeLN3NOHHbIeMaHOMeTpN4eCKNe 6nokNcoCneLNanbHbIMN COeANHNTenbHbIMN HaKOHey-HNKaMN;
-`kia_rio_en_77ffdf15` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/aacf4518359bee1a5fcb3981b60d529b24cfa113dfe39a9d69de9ef29b61237d.webp)
 一 AByXCTyneHyaTbIn BakyyMHbIn Hacoc AA NONHOrO yAaneHng BO3Ayxa N BOAAHbIX naPOB N3CNCTeMbl;
@@ -16693,7 +15818,6 @@ BbICokoToyHbie（ueHaAeneHngHe 6onee5r) BeCbl AA A03npobaHng3anpabngeMoroxnaAare
 B CBA3N CO cneLncnyeckNMN OC06eHHOCTAMNPeMOHTa CNCTeMbI KOHANUNOHNPOBaHNA BAaHHoMpa3AeneonncaHbl TOJbKO pa6OTbI NO CHTHIO NyCTaHOBKe OTAebHbIX3neMeHTOB N 6noka ynpaBneHng CNCTeMON. Pa6oTbl, CB93aHHbIe C 3anpaBkon CNCTeMbI xnanareHTOM, CnenyeT npOBOANTbB cneuna几N3NpOBaHHbIXCepBNCHbIXLeHTpaX.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_fbc6d23f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/93462d57f390f65e8a8b705de38e5e26270641a2164f59bd2d6a36837cfb7e99.webp)
 
@@ -16706,7 +15830,6 @@ CNCTeMaKOHANuNOHNpOBaHng3anpaBneHaXna-AareHTOM nOA BbICOKNM AaBneHNeM. Nonana-HN
 ![](images/b1c4f2b4a220fe7f831471e8cfb6cffc2a9dbbd8fc27ffbd1fac70b4c7bdf97d.webp)
 
 ### OCOBEHHOCTNYCTPONCTBA CNCTEMbI BEHTNNLNN 68H
-`kia_rio_en_8cc67afe` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaaBToMo6unenpuMeHeHa CNCTEMaBEHTUAUNNNPNTOYHO-BbITAKHOOTHNa. HapyxHbINBO3AyXMOXeT nOCTynaTbBcanOH4epe3 OKHaABepennpNOny山eHHbIXCTeKnax... Akt
 
@@ -16721,7 +15844,6 @@ BbITAKHaR BEHTNNALNA Ocy山eCTBngTCA 4epe3 peweTKN, KOTOpble BblnOnHeHbI B 3aAHe
 Co CTOPOHbI ynnubl OTBePCTNA BbITAXHON BEHTNnAuNN3aKpbITbIAeΦneKTopaMNCneneCTKOBbIMNKanaHaMN,KOOpbIeyCaHOBeHbl B 3aAHen 4aCTN Ky30Ba, BnOnocTN3aAHero 6amnepa.
 
 ### NPABNNA TEXHNKN 5E3ONACHOCTN NPИPEMOHTE N OBCIYKNBAHNN CNCTEMbI KOHAИLNOHNPOBAHNA
-`kia_rio_en_cefff85e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.XnanareHTnpencTaBngeTco6onXNMNyecknn COCTaB, Tpe6yownn OCTOPOXHOrO oopamenng BON36exaHnenpnunHeHngBpeAa3A0pOBblO. 78808 E5 008 JASTTSH
 
@@ -16744,7 +15866,6 @@ Co CTOPOHbI ynnubl OTBePCTNA BbITAXHON BEHTNnAuNN3aKpbITbIAeΦneKTopaMNCneneCTKO
 10.HemeqneHHo nocne pa3beANHeHng kaKOro-nn6oy4aCTkaCNcTeMbl3aKpouTeOTBepCTNA konnaykaMn WnNNeHTON. to npenotBpaTnTnonanaHNe BCNCTeMyBnarNNrpA3N, KOTOpbleMOryT Bbl3BaTb BbIXOAN3 CTPO HaCOCHON yacTNKOMnpeccopa.
 
 ### YAANEHNE XIAAAFEHTA N3 CNCTEMbI KOHANLNOHNPOBAHNN
-`kia_rio_en_d6fc86a5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nepeA BblnOnHeHNeM pa6oT, CB93aHHbIX C pa3repMeTN3aLNeNCNCTeMbIKOHANLNOHNPOBaHNBO3Ayxa,yAanNTeXnanareHTN3CNcTeMbl.
 
@@ -16752,7 +15873,6 @@ nepeA BblnOnHeHNeM pa6oT, CB93aHHbIX C pa3repMeTN3aLNeNCNCTeMbIKOHANLNOHNPOBaHNB
 0 1.OTBepHNTepe3b6oBoN KOnnayOkOAHoro N3AByXcepBNCHbIXKanaHOB. 880
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_90a4f20e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/6fd8e4dba825270d35ca247fecfcbf452d30685ba83b54f0d7d93fcaccf9203b.webp)
 Pa6oTante B3AWNTHbIXO4KaX.
@@ -16762,14 +15882,12 @@ Pa6oTante B3AWNTHbIXO4KaX.
 2.AKKypaTHO HaXMNTeTOHKON OTBepTKONC ANHHbIM xanom Ha HaKOHe4HNK 30NOTHNKa KanaHaNCTpaBNTeXaAareHTN3CNCTeMbl.
 
 ### NPEAYNPEKAEHNS
-`kia_rio_en_c4b10360` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbInyckaTeXIaAareHTN3CNCTeMbIKOHANUNO-HNPOBAHNA Ha OTKPbITOM BO3AyXe NNN B xopo-山OnpOBeTPNBaeMOMnOMeWeHNN.
 
 XnanareHT npN aTMocdepHOM AaBneHnN nepeXOANT B ra3006pa3Hoe CoCTosHne.BbInyckanTexnaAareHT N3 CNCTeMbl O4eHb TOHKONCTpyen. pN CTpaBnNBaHnN XnaAareHTa BO3MOKHO pa36pbI3rNBaHNeHekOToporo KOJN4eCTBaCMeWaHHOrO C HHMMacna.AnsnpeAoxpaHehng NOAKanOTHOrO npOcTpaHCTBa OT 3arpa3HeHng NONOKNte BOKpyr cepBNCHOro KnanaHa 06TNpOYHyIOTKaHb.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_327b5b4d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HecMoTpa Ha TO,4TO ynnOTHNTebHble KOnbua BHeWHe MOryTBbIrnaAeTb OANHaKOBO,HeO6XOANMO NCNOJb30BaTb TOnbKO Te ynnOTHNTenbHbleKOnbua,KOTopbIepekOMeHAOBaHbIACNCTeMKOHANUNOHNPOBAHNSBO3AYXa. BnpOTNBHOMcnyuae B COeANHeHNN MOKeT BO3HNKHYTb yTeykaxnanareHta. -F a
 
@@ -16784,7 +15902,6 @@ pN3aMeHeyOTHTenbHoroKObLaBpa3- 6OPHOMCOenNHeHnN TO4HOOnpenennte KOHCTpyKuNIO nTN
 nepeA yCTaHOBkONy6ennTeCb BTOM,4TO HN ynnOTHNTenbHOeKOnbLO A HN ΦNTNHr6 He noBpexAeHbl N He AedopMnpobaHbl. AeΦopMNpoBaHHbIe nnnnoBpeXAeHHbIeAeTann noexat 3aMeHe Npn yCTaHOBKe HOBbIX ynnOTHNTenbHbIXKOneLo6R3aTenbHOCMaxbTe NX MAcMA KOMnpeccopa KOHANLNOHepa.Heco6nioneHnepekoMeHaun nocHgTNIO NyCTaHOBKe3NeMeHTOB CNCTEMbIMOXT npNBeCTN KyTe4ke xnanareHTa B npouecce 3kcNIyATauNNKOHANLNOHepa.
 
 ### KOMNPECCOP KOHANLNOHEPA
-`kia_rio_en_bb5eee3f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KoMnpeccOpKOHANuNOHepa -AOCTaTO4HO CnOXHbI, BbICOKOTeXHONOrN4HbIN arperat. HeKOTopbley3nbl HacocHon 4aCTNKOMnpeccopa N3rOTOBneHbl C npNMeHeHNeM cenekTNBHONC6OPKN. o3TOMy Φupmbl,npon3B0- AneKoMnnekTyoneAeannngpemOHTa HacOCHON 4acTN KOMnpeccopOB 中 P03HN4HyIO nponaxy He NOCTABNAIOT. EANHCTBeHHbIN peMOHTOnPNroAHbIn B rapaxHbIx ycnOBNgxy3enKOMnpeccopa 一 3TO3nekTpoMarHNTHagMyTanpNBOna. 福
 
@@ -16803,7 +15920,6 @@ KaTyWKN, APoncxonnt anekTpnyeckoe 3aMblkaHne - 3neKTPOMarHNTBbIXOANT N3 CTPOR. B
 npn Heo6xoNMOCTN 3aMeHNTe nOAWnnHNK, HeAoxnnagcberononHoropa3py山eHng.
 
 ### CHATNENYCTAHOBKA KOMNPECCOPA KOHANLNOHEPA
-`kia_rio_en_2c5e209e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BaMnoTpe6yIOTCA: KIIOYN "Ha 10","Ha 12". 2
 
@@ -16819,7 +15935,6 @@ BaMnoTpe6yIOTCA: KIIOYN "Ha 10","Ha 12". 2
 5.pOBepbTeCOCTOsHNenpHBOAHOropeMHg.
 
 ### NPNMEYAHNE
-`kia_rio_en_8d769687` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aMeHNTe peMeHb,ecnN npN ocMotpe Bbl06- HapyxnTe:
 一 cneAbl N3HOCa 3y64atoN nOBepxHOCTN, Tpe山NHbI,nOAPe3bI,CnaAKN NnN CnOeHn TKaHN OTpe3NHbI;
@@ -16827,7 +15942,6 @@ BaMnoTpe6yIOTCA: KIIOYN "Ha 10","Ha 12". 2
 -cneAbI Macna Ha NOBePXHOCTNPeMHa.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_61a580a1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/7d5fe6055b889e58ff42e1b5482504b081e739b2bb82f00e2286de8511afa0e3.webp)
 6. BbIBepHNTe 60nT kpennehng ΦnaHua Tpy6onpOBOAaBbICOKOrOAaBneHNgKKOpnycy KOMnpeccopa...
@@ -16835,7 +15949,6 @@ BaMnoTpe6yIOTCA: KIIOYN "Ha 10","Ha 12". 2
 PeMeHbCO cneAaMN MOTOpHOrOMacna Ha nIO-6oeronoBepXHocTN HaAOo6a3aTenIbHO3aMe-HNTb,TaKKaKMaCnO 6bICTpo pa3py山aeTpe3N-Hy. NpnunHy HOnaAannn Macna Ha peMeHb(o6bI4HO BCneACTBne Hapy山eHng repMeTN4HO-CTN CaJbHNKOB BanOBABNraTeng) HaAO yCtpa-HNTbHeMeeHHO.
 
 ### NPNMEYAHNE
-`kia_rio_en_ba25a636` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/c328c7ef593766f28c4c6adfd2d752ca008d4b1af0649415948f07092d0f6000.webp)
 Tpy6onpoBOAbI HN3KOroANBbICOKOro5AaBneHnOAcoeANHeH KKOprycykoMnpeccopa C nOmOwbIOnaHLeBbIx coeAnHeHnn. 3
@@ -16849,7 +15962,6 @@ Tpy6onpoBOAbI HN3KOroANBbICOKOro5AaBneHnOAcoeANHeH KKOprycykoMnpeccopa C nOmOwbI
 7 NOTcOenNHnte Tpy6onpoBOA.
 
 ### NPNMEYAHNE
-`kia_rio_en_e491191b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHATNe KOMnpeccopa AHARnAHOCTN noka3aHO Ha CHATOM CNNOBOMarperate.
 
@@ -16858,7 +15970,6 @@ CHATNe KOMnpeccopa AHARnAHOCTN noka3aHO Ha CHATOM CNNOBOMarperate.
 8. AHanorn4HO OTCOeANHnTeTpy6onpOBOn HN3KOrOAaBneHNg. DA08 3E
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_95416c27` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Cpa3yxe nocne OTCOeANHHN 3arnywnte npo6kaMn OTBePCTNS KOMnpeccopa N Tpy6onPOBOAOB, 4T06bl He AOnyCTNTb NonaAaHng BnarnNrpa3N BCHCTMyOHANUNOHNPOAHN.
 
@@ -16873,7 +15984,6 @@ Cpa3yxe nocne OTCOeANHHN 3arnywnte npo6kaMn OTBePCTNS KOMnpeccopa N Tpy6onPOBOAO
 11.CHMNTe KOMnpeCCopKOHANuNOHepa 12.YcTaHOBTeKOMnpeccopBCe CHATbIe AeTanNB nopaAke, 06paTHOMCHATNIO.
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_ff1e6d15` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/d5358123726baff1c0096705059f30375bf3ffe5ea00c7f662ea10f885df6bc6.webp)
 
@@ -16888,12 +15998,10 @@ HoBbleynoTHnTenbHbleKonbLa naHueB Tpy6onpOBOAOBnpN yCTaHOBke o6g3aTeIbHO CMaKbte
 14.y6ennTecb, 4TOnpNyCTaHOBKepeMHg npnBona KANHOBbIe AOPOKKN COBnann C py4bAMNWKNBOB, aHaT9XeHNePeMHCOOTBeTCTBYeTHOPMe. 15.3anpabbTecnCTeMy KOHANLNOHNPOBaHNA xnanareHTOM B cneLnann3npobaHHOM ueHTpe no o6csyxnBaHniO aBTOMO6NnbHbIX KOHANLNOHePOB.
 
 ### NONE3HbN COBET
-`kia_rio_en_b4009ca4` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Npn nokynke HOBOrO KOMnpeccopa yTOUHNTe ynponabua KONNHeCTBO NTNN 3aJNToro B HOBbIKOMnpeccop Macna. 3Ta PuaoPmauNn MOKeT6bITbnone3HaAnsMexaHnkoB,KOTopbIe Bnocnen-CTBNN6yAyT3anpaBnsTbCNCTeMyXnaAJareHTOM.
 
 ### 3AMEHA NOAWNNHNKA WKNBA NPNBOAA ND
-`kia_rio_en_56747dac` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 山KNByCTaHOBneH HaAByXpAAHOMWapNKOBOMnOA山NnHNKe,KOTOPbIBO BpeMs3kcnnyaTaunn He Tpe6yeTperynnpoBKN N CMa3KN. pNBbInpeccoBkenoA山NnHNkpa3py山aeTcg, nO3TOMy BbInpeccOBbIBaiTeero TOnbKO AA 3aMeHbl.
 
@@ -16910,7 +16018,6 @@ Npn nokynke HOBOrO KOMnpeccopa yTOUHNTe ynponabua KONNHeCTBO NTNN 3aJNToro B HOB
 4 BblBepHnTe6onTKpenneHng.
 
 ### NPNMEYAHNE
-`kia_rio_en_2a82bf1e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/2a496e6957cb0a782b0eb2fa6ed7f333f04f7b92d85483b70f7b5ebc851a4220.webp)
 Ang yAepxNBaHng poTopa KOMnpeccopa OT npoBopaynBahng NCnonb3yNTe cneLnanbHoe npncnoco6neHne. U IGn
@@ -16921,7 +16028,6 @@ Ang yAepxNBaHng poTopa KOMnpeccopa OT npoBopaynBahng NCnonb3yNTe cneLnanbHoe npn
 4eB Bana KOMnpeccopa.
 
 ### NPNMEYAHNE
-`kia_rio_en_7593e530` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/8b3e3f91ae07edede6d0c6230fd70d3f531857be522b81ea9c0b7d1f3ee580c1.webp)
 OcMOTpNTe pa6oune nOBePXHOCTN TPeHns WKNBa...
@@ -16942,7 +16048,6 @@ OCMOTpNte AeMndep npNXNMHOn nnacTNHbI. Hape3NHOBOM MaCCNBeAeMncepa He AOnKHO 6bI
 6.OcMOTpNTe nOBepXHOCTb Bana. NpN Ha4NNcnenOBnoATekaHNgMacna4epe3canbHNKBanaKOMnpeccopnoexNT3aMeHe.
 
 ### NONE3HbINCOBET
-`kia_rio_en_81deab31` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B HeKOTOpbIx cnyyagx npn o6HapyxeHnn TeyN MOXKHO 3aMeHNTb canbHNK. OAHaKO cneAyeT NOMHNTb, 4TO Teyb,kaK npaBnnO, 6bIBaeTBbl3BaHa NIOΦTOM Bana BCneACTBNe N3HOCa nOAWNNHNKOB,KOPPO3Nen NNN N3HOCOM nOBepXHOCTN BanaB3OHenpnneraHngcanbHNka. noaTOMyByyWeM cnyyae3aMeHacanbHNkaAaCT TONbKOKpaTKOBpeMeHHbIN pe3ybTaT. npn o6- HapyxeHnNTeuN caJbHNka peKoMeHAyeTcg 3aMEHNTb KOMnpeccOp Bc6ope.
 
@@ -16952,21 +16057,18 @@ B HeKOTOpbIx cnyyagx npn o6HapyxeHnn TeyN MOXKHO 3aMeHNTb canbHNK. OAHaKO cneAye
 ![](images/351f3fe22bce19a868a84da8dd7f8b9de4fbb0d933e11d4e3a54153f9ad8a689.webp)
 
 ### 8.ycTaHOBNTe CbeMHNK...
-`kia_rio_en_07797354` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/1623a3ac81e0aa4c02808c2814e118665f2d0856b0dc807b22cc231e85bca61b.webp)
 
 9. ...N cnpeccyiite WKNB CnocaAOyHOn weikNnepeAHen pbI山kn KoMnpeccopa.
 
 ### NONE3HbN COBET
-`kia_rio_en_6c320ce8` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/7d2d277db66f52a2fb92351e3d2ca290a2651bd861bc4dcb0ed67e37775791ee.webp)
 
 AnACHATNA WKNBa yAOGHO NCNONb3OBaTb YHNBepcanbHblTpexnanblCbeMHNK. NHMe 1..
 
 ### NPNMEYAHNE
-`kia_rio_en_6b3aed62` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/28dc647858a339a978f5d37ea304af949aaf17070fb68b9b5f843d2b72ca3bf6.webp)
 
@@ -16981,7 +16083,6 @@ nocne CHATNA WKNBa OCMOTPNTe wnnub 1n pe3b6OBOeOTBepCTNe 2BanaKaHaBKN 3Ang CTOnO
 11.BbinpeccyiTe onpaBkoni noAxonaero ANaMeTpaCTapbInnOA山NnHNKN3 WKNBa.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_a28d1f18` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NOCNe CHAA NOAWNNHNKAs NOTOPHOO NCNbO0BaHn He npnroAeH,noaToy ero HaAo 3aMeHNTb. 话
 
@@ -16994,7 +16095,6 @@ NOCNe CHAA NOAWNNHNKAs NOTOPHOO NCNbO0BaHn He npnroAeH,noaToy ero HaAo 3aMeHNTb.
 13.3aΦukcupyuTenonwnnHnKKepHeHNem KpagnocanOyHOroOTBePCTng WKNBa.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_ebcbd0e6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npn3anpeccoBkenoA山nnHnka 6yAbte MaKCNManbHO akkypaTHbl.
 
@@ -17011,12 +16111,10 @@ CTeHka HapyxHoi o6oiMbInoAwNnHnka 山KNBaO4eHbTOHkas.Aaxe He3HayNTeIbHblNnepekoc
 15.YCTaHOBNTeCTOnOpHOeKObuO.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_2dd75a00` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocne HanpeccoBKN WKNBa Ha KOMnpeccop y6eANTeCb,HTOWKNBBpauaeTCRpaBHOMepHO, 6ecwyMHo, 6e3 3aeAaHnn. He AOJXKHO 6bITb
 
 ### oceBoro nnnpaAnanbHoro Gnenng. BnpoTnBHOM Cny4ae WKNB Heo6xOANMO 3aMeHNTb.
-`kia_rio_en_3a71f983` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 16.HaneHbTe HaBan npnXuMHylo nnacTHHy N BBepHNTe ukcupyiomn 6onT. 17.YcTaHOBNTeKOMnpecCopBTNCKN.
 
@@ -17027,7 +16125,6 @@ nocne HanpeccoBKN WKNBa Ha KOMnpeccop y6eANTeCb,HTOWKNBBpauaeTCRpaBHOMepHO, 6ecw
 19. EcnN 3a3Op OTnNyaeTC9OT HOMNHabHOrO, NOBTOPHO CHNMNTE NPNKNMHyIO naCTNHY. C nOMoWbIo perynnpoBoyHbIx wan6, yCTaHaBNNBaeMbIXHa Ban pOTopa, OTperysnpyute 3a30p. CHOBa HaneHbTe nPNXNMHyiO nacTNHyN npoBepbTenony4eHHbll3a30p.
 
 ### NPNMEYAHNE
-`kia_rio_en_ba86cee2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 80 =
 
@@ -17036,7 +16133,6 @@ Ansperynnpobkn 3a3opa Ncnonb3yNTe cneLnanbHbie kann6poBaHHble perynnpobo4Hble wa
 20. ycTaHOBNTe KOMnpeccopNBCe CHATbIe AeTann B nopaAke, 06paTHOMCHATNIO. 21.3anpaBbTeCnCTeMy KOHANUNOHNPOBaHNA XnanareHTOM B cneLnanN3NpoBaHHOM LeHTpe no o6cnyxNBaHnIO aBTOMO6NNbHbIX KOHANLNOHEPOB. 030
 
 ### 3AMEHA З几EKTPOMArHNTA MyΦTbl KOMNPECCOPA
-`kia_rio_en_0dd5f016` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/c8d17563c2c8ab2c4f108b27c62bbc234965e63b6c6af141f9fdb61cef86a1b4.webp)
 4. CHNMNTeCbeMHNKOMCTOnOPHOeKONbLO 3NekTpOMarHNTaMyΦTbIKOMnpeccopa.
@@ -17047,7 +16143,6 @@ BaM noTpe6yIoTcA: KnIOY Ha 10", OTBePTKN C NNOCKNM NKpecToo6pa3HbIM Je3BNeM, Cbe
 3.N WKB npNBoAa (cM. 3aMeHa nOAWNNHNka WKNBa npuBOAa,c.280).
 
 ### NPNMEYAHNE
-`kia_rio_en_d91de532` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/7046930a07843e4327308f8693760b629bec31870a0474a5c1bb20f376e54451.webp)
 Ans CHATNN CTOnOpHOrO konbua NCnonb3yuTe cneLnanbHbinpa3xnMHonCbeMHNK.
@@ -17069,7 +16164,6 @@ Ans CHATNN CTOnOpHOrO konbua NCnonb3yuTe cneLnanbHbinpa3xnMHonCbeMHNK.
 8.ycTaHOBnTe KaTy山ky3neKTpOMarHNTaHa KOMnpeccop. y6enntecb, 4TO CTOnOpHOe KOnbLO NONHOCTbIO BOWNO B npOTO4ky Ha Kpbl山kekoMnpeccopa.
 
 ### NPNMEYAHNE
-`kia_rio_en_a1efa075` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/1702f8b3c8830b9489b0e2f609f85c66c62390ed55be21b63b9c36d1d099d5c8.webp)
 
@@ -17081,7 +16175,6 @@ pNyCTaHOBKeKaTy山KN Ha KOMnpeCCOp ΦVKcnpyIoWnNBbICTyn AHa3aAHennoBepxHoc Kopny
 9. Hanpeccyuite WKNB. pnHanpeccoBke npunarante ycnnne TOnbKO KBHyTpeHHe o6onMenonWnnHNka.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_45ae2cd3` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocne HanpeccOBKN npobepbte BpaweHne WKNBa. OH AOnKeH BpawaTbCA paBHOMepHO, 6ecmyMHo, 6e33aeAaHnn. He AONKHO 6bITb 3aAeBaHng3a kOpnyc3nekTpoMarHNTa. Ecnn npnnpoBepke o6HapykeHO, 4TO WKNB KacaeTCMarHnTa,ero Heo6xoANMO yCTpaHnTb.
 
@@ -17092,7 +16185,6 @@ nocne HanpeccOBKN npobepbte BpaweHne WKNBa. OH AOnKeH BpawaTbCA paBHOMepHO, 6ecm
 CHO
 
 ### BaM noTpe6yIoTcA: KIOY N Topuobas ronOBka“Ha10".
-`kia_rio_en_9e7008fd` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.CHNMNTeakkyMynTopHyIo6aTapeIo(CM. =CHaTne NyCTaHOBkaaKkyMynTopHo 6arape,c201）
 
@@ -17109,7 +16201,6 @@ CHO
 5 NOTCOeANHNTeTpy6onpOBOAbl OT KOHAeHcopa.
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_1febe023` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Cpa3y nocne OTcoeANHeHng3arny山nte OTkpblTble KOHubITpy6onpoboAOB BO N36exaHne nonaAaHngBCNcTeMyrpA3NN Bnarn. O6paTnTe BHNMaHNe Ha ynnOTHNTebHbIe KOnb4a naHueBbIx coeAnHeHnn Tpy6onpoBoAOB. npN pa3beAnHeHnN Tpy6onpoBoAOB BO Bpemg peMOHTa CNCTeMbIynnOTHNTenbHble konbua noexaTo6R3aTenbHo3aMeHe. 0H180
 
@@ -17168,14 +16259,12 @@ Tak pacnonoxehbi 6ontblkpenneHng BepxHero koxyxapannatopa.
 ![](images/70ba228104b3622efc8e542f11dbb7b0d643eb8ae2d3abcf82e70f0b10cd91aa.webp)
 
 ### 19....N CHNMNTe KOHeHCop.
-`kia_rio_en_75138788` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/e6315e8c46d83ab4921f4ad613fb3142b3b2662e6d909604a61a7926180fee6d.webp)
 
 福 20.yCTaHOBNTeKOHAeHCOp BnopaAke, 06- paTHOMCHTNIO. 00TX 00
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_c485d50a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TeXHOnorn4eCKNe 3arny山KnΦnaHueB HOBOrO KOHAeHcopa OTKPbIBaNTe TOJbKO HenocpeACTBEHHO nepeAnoncoeANHehnemTpy6onpobonoB.
 
@@ -17186,7 +16275,6 @@ HoBble ynnoTHntenbHbIe KOnbua naHueB Tpy6onpoBOAOB npN yCTaHOBke o6g3aTenbHO CMa
 21.3anpaBbTe CNCTeMy KOHANuNOHupOBaHNA xnanareHTOM B cneunann3uPoBaHHOM ueHTpe no o6cnyxuBaHnIO aBTOMO6NJbHbIX KOHANLNOHePOB.
 
 ### BaM noTpe6yIOTcA: Topuobas ronObka "Ha 10",Knoy“Ha 12",
-`kia_rio_en_3704e7d7` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.ynannte xnanareHT N3CNCTeMbIKOHANAOHNPOBAHnn (CM. "ynaneHne xnanareHta N3CNCTeMbIKOHANuNOHNPOBaHNA>,C.278).
 
@@ -17201,7 +16289,6 @@ TeABa6ontabkpenneHngKnanaHaKnaHuyncnapnteng.
 5.CHNMnTe KnanaHCnaHua ncnapnteng.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_05e527af` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/3613cabb9a5742b269fdbd5c43094b075fc0ee0d489a06dcebaafe33c7fb1ce0.webp)
 
@@ -17223,7 +16310,6 @@ HNTenbHble KObuaNCMaKbTeNXMacnOMA kOMnpeccopa. NoncoeANHnte Tpy6onpoboAbI KTepMo
 10.3anpaBbTeCNCTeMy KOHANLNOHNPOBaBNA XanareHTOM B cneLNanN3npoBaHHOM ueHTpe no O6cnyXNBaHnIO aBTOMO6NnbHbIX KOHANLNOHePOB.
 
 ### 3AMEHA 中NNbTPYIOLErO 3几EMEHTA PECИBEPAOCYWNTENA
-`kia_rio_en_62c363a5` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B csy4aepeMOHTa WN3aMeHbl3neMeHTOB CHCTeMbIKOHANLNOHNPOBAHNA, ecnNCNCTeMa KOHANUNOHNPOBAHN HaXOANnaCbBOTKPITOM COCTORHNN (6bCHT kakne-TOy3bl，a3- pyweHbl Tpy6onpoBoAblNT.n.),unbpyiownn 3neMeHT pecnBepa-ocyWnTeng (kapTpnAx) NoAnexne 0693aTebHoN3aMeHe. 5e3 3TOro nocne3anpaBKNCuCTeMbIXaAareHTHe6yneT oCyWaTbCANBHyTPNCNCTeMbIMOryTO6pa30- BaTbCA KNCNOTbl,KOTOpble 6yAyT pa3pywaTb eTAnNKOHANUNOHePaN3HyPN.
 
@@ -17240,7 +16326,6 @@ B csy4aepeMOHTa WN3aMeHbl3neMeHTOB CHCTeMbIKOHANLNOHNPOBAHNA, ecnNCNCTeMa KOHANU
 6.N3BneknTeN3KoprycapecnBepaceT4annbtp NCTapbl kapTpnAx. TRNHBOONH
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_64d9ef5d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn Ha nOBePXHOCTN kaptpnAka o6HapykeHbl yacTnubI AAAMNonn NNN nnactnka, 3Ha4NT, pa3pywnnacb HacOcHag 4actb koMnpeccopa. 3aMeHa TOnbKO kapTpnAxa B 3TOM cnyyae He AaCT nonoxNTenbHoro pe3ynbtata.noTpe6yeTCA 3aMeHa koMnpeccopa CnPOMbIBKON CNCTeMbl. 3Ta AOCTaTO4HO TPyAOeMKag npoueAypa MOKeT 6bITb BbInonHeHa TOnbKO B cneLNAnn3nPobaHHOM CePBNCHOM ueHTpe C NCNOJb3OBaHNeM cneunanbHoro TexHONOrnyeckoroo6opyAOBaHng.
 
@@ -17249,7 +16334,6 @@ Ecnn Ha nOBePXHOCTN kaptpnAka o6HapykeHbl yacTnubI AAAMNonn NNN nnactnka, 3Ha4NT
 7.PacneuaTaviterepMeTu4HyioynakoBkyN yCTaHOBNTeBpeCNBepHOBbI/ KapTpNAK.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_b74a934e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/24c87708a1780ff25d0a90afdd4e2c531e0b7843c89677290474435bb0b979e7.webp)
 
@@ -17258,7 +16342,6 @@ HpnoGperas Hobbln ubpyiomnn 3neMeHT (kaPTpnAx), y6eAnTecb, 4TO OH XPaHucs B repM
 8.CMaXbTe ynnoTHntenbHble KOnbua npo6- KNHNCTbIMMaCnOMAIKOMnpeccopa. BBepHNTenpo6ky BpecuBep. 9. 3anpaBbte CNCTeMy KOHANUNOHNPOBaBNA xanareHTOM B cneLnann3NpoBaHHOM ueHTpe no o6cnyKNBaHnIO aBTOMO6NnbHbIX KOHANLNOHePOB. HO 010 E
 
 ### 3AMEHA AAT4NKA AABNEHNA XIAAAFEHTA B CNCTEME KOHANLNOHNPOBAHNN
-`kia_rio_en_090087df` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/4ee9b6053988dd17dedd9c3404f71cc9a6a790152e2e261dc97dd3c7e7be26ba.webp)
 
@@ -17280,7 +16363,6 @@ BaMnOTpe6yIOTCg:OTBepTKaCnOCKNM ne3BNeM, KOyHa24. 91 S HSX onong
 4.BbIBepHNTeAaT4NK N3pe3b6oBoro WTyuepa Ha Tpy6onpoBoAe. 5.YcTaHOBNTe HOBbln AaT4NK BnopaAke, O6paTHOM CHATNIO. 3aTAHNTeAaT4NK MOMeHTOM11H·M.
 
 ### NPNMEYAHNE
-`kia_rio_en_4af06f07` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/14497f738814b27b329f6b9d92271ed370332869385d296ff14729a27f385460.webp)
 
@@ -17289,7 +16371,6 @@ ynnOTHnTenbHOe KOnbLo AHape3b6oBOMHakOHeUHNKe npn3aMeHe AaT4Nka CneAyeT 3aMeHNTb
 福 6. 3anpaBbTe CNCTeMy KOHANLNOHNPOBaBNA xanareHTOM B cneLNann3NpoBaHHOM ueHTpe no 06cnyKNBaHnIo aBTOMO6NIbHbIX KOHANLNOHePOB. 2
 
 ### CHATNE NYCTAHOBKAAAT4NKA HAPyKHONTEMNEPATYPbI
-`kia_rio_en_d71f7123` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/190650cf68ff2cf082cb5b37ed9ff2eeb7bffdc5e6c091cde6249ce335f753bf.webp)
 
@@ -17330,7 +16411,6 @@ CHATNE NYCTAHOBKA bnOKA YNPABNEHNA CNCTEMON HPINNEHNN KOHANLNOHNPOBAHNA N BEHTNA
 ![](images/54544bc373fabb00dc524b1cf37f144ba57fcdb77d7b10805d47c9171efc7b8b.webp)
 
 ### BaMnOTPE6yIOTCa:OTBePTKNCnNOCKNM N KpecToo6pa3HbIM Ne3BNeM, CbeMHNK CTOnOPHbIXKOneu.
-`kia_rio_en_ce67954c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. OTcoeANHNTe nPOBOA OT KNeMMbI "MWHyC"akkyMyngTopHo6aTapen.
 
@@ -17390,7 +16470,6 @@ CHATNE NYCTAHOBKA bnOKA YNPABNEHNA CNCTEMON HPINNEHNN KOHANLNOHNPOBAHNA N BEHTNA
 1.OTkpoViTe BemeBON WNK.
 
 ### 3AMEHA ΦNnbTPA NOCTYNAIOLErO B CAIOH BO3AYXA
-`kia_rio_en_8e52db21` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/5f50711c79b61b302ea5c34cb3a08fcb5dfae8afbe4caa3e72458315c603beb3.webp)
 
@@ -17413,7 +16492,6 @@ NpoN3BOANTenb npeAnncbiBaeT 3aMeHATbcanoHHblunbtpepe3 15TbIC. KMnpo6eraNnN 1rOA�
 ![](images/172a596009e5decf89df0a0cf56cd4c26188d97b97a9b945f06c4be90b8c4555.webp)
 
 ### 5. COXMNTe ΦukcaTopbl KPbIWKN OTceka unbTpyio山ero3neMeHTa. 福
-`kia_rio_en_96d7dd93` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/d1a96e6b4d53eaa8202d1f685e3ccd400262ff6c4ae83d29b2f28ad49901a633.webp)
 
@@ -17436,7 +16514,6 @@ BN NOGO  HPTOHAE WV a.qor
 DSNHONGSCA 1日 eCbpar SZORO Ooonoeoc
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_88d6e6c1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/84cd85b9d43f12bf43f28f139964a93830bdecb053a1ace1673eaef252cbd131.webp)
 CeT4aTbIN unbTp yCTaHaBnNBante HaAnNCbIO "UP"BBepx.
@@ -17458,7 +16535,6 @@ SHALON onogoB 080068
 ![](images/12bb29052112fffcdc2951f992c3f1c67d5d6f66a3e7c8d7c37894530f7d665a.webp)
 
 ### OCOEEHHOCTN KOHCTPYKLNN
-`kia_rio_en_c82fc383` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AHTu6noknPOBOyHag CNCTeMa TOPM030B (ABS) COCTONT N3AaT4NKOB 4acTOTblBpaweHNA KOnec,BbIknIoyang HaneAanNTopMo3a, rNAPoaneKTPOHHOrO Mnyngynpabnenng N CNrHanN3aTOPOB B KOM6NHALNN npn6opob. AHTN6nOKNpOBO4HagCNCTeMa BKIOyaeT nOACNCTeMy KypCOBO yCTO4NBOCTN ESC（B 3aBNCNMOCTN OTKOMnneKTaLNN)NCNCTeMy caMOANarHOCTNKN, BbIABNAILYIO HeNcnpaBHOCTNKOMNIOHEHTOBCNCTEMbI.
 
@@ -17483,7 +16559,6 @@ Pa3nn4aioT cnenyiowne pexuMbl pa6otbl aHTN6nOKNPOBO4HONCNCTeMbI: 90 58 - pexnM H
 TpNHaxaTuN HaneAanbTOpMo3aTOpMO3HagKWAKOCT NOAAaBNeHNeM NOAAeTCA Bpa60-4nn UNNNHAP N NPNBOAnT B AeNCTBNe Top-MO3HbIeMexaHN3Mbl KOnec.TpN OTnyckaHuNnenann TOPM03a TOPM03Hag XNAKOCTb B03-BpawaeTcA BrnaBHbln TOPMO3HON nNHAP4epe3BnyCKHON Mo6paTHblKanaHbl；
 
 ### pexnM 3KCTPeHHOrO TOPMOXeHns.
-`kia_rio_en_63a7b7bd` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ECnNnpN3KCTpeHHOMTOpMOXeHNNHauNHaeTcg6noknpoBka koseca, MOAylbBblAaeT Ha 3nekTpoABnraTenb Hacoca KOMaHAY HayMeHbweHNe noAayNTOPMO3HOn XNAKOCTN,3aTEMHanpgxeHNenOAaeTcA HakaxAblənekTPOMarHNTHbIN KnanaH. BnyCKHon KnanaH 3akpbIBaeTCA,NnOAa4aTOPMO3HONKNAKOCTN N3 TaBHOro UwnNHAPan Hacoca nepekpblbaeTCA;BbInyCKOn KnanaHOTKpbIBaeTC9, N TopMO3HaANAKOCTbNOCTynaeT N3pa6o4erouNnNHApa BrnaBHbIn, a3aTeMB6a4OK,4TOBbl3bIBaeTCHNKeHNeAaBneHNg;
 
@@ -17494,7 +16569,6 @@ ECnNnpN3KCTpeHHOMTOpMOXeHNNHauNHaeTcg6noknpoBka koseca, MOAylbBblAaeT Ha 3nekTpo
 联 BAaHHoMnoApa3AeneonncaHa TobkO 3a-MeHaAaT4NKOB4aCTOTbIBpa山eHNAKONeCrN-APO3neKTpOHHoro 6noka. OAHaKO NMeNTe BBNAy,4TOAnA yAaneHN BO3Aya,KOObl O-KeT nonacTbBCNCTeMyKNanaHOBrNApo3neK-TPOHHOrO 6noka HpnHekBannnuNPOBaHHOMCHATNN,Tpe6yetcscneunanbHoe o6opyAOBa-Hne. No3TOMyHepeKOMeHAyeMCHNMaTb6nOK6e3kpaviHen Heo6xonNMoCTn,a AA 3aMeHbl6nokacnenyero6pauatbcgHa cepBNC.
 
 ### 3AMEHAAATYNKOB 4ACTOTbI BPAWEHNS KONEC
-`kia_rio_en_93b39198` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/90f89c7554f7e8859bf51ae8cb52bdc884437c9476f3e49af63fda391560bd28.webp)
 
@@ -17526,7 +16600,6 @@ AaT4NK yacTOTbI Bpa山eHng nepeAHero KOJeCayCTaHOBNeHBOTBepCTNNNOBOPOTHOrokynaka
 10.HakMte Ha uKcaTop KonoAku Kryta nPOBOAOB AaT4Nka 4aCTOTbl BpaweHng nepeAHerokoneca Npa3beANHNTeKOnOAky.
 
 ### NPEAVNPEKAEHNA
-`kia_rio_en_ddb90442` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npn yCTaHOBKe AaT4NKa 4aCTOTbl BPawenns nepeAHero koneca TO4HO COBMeCTNTe OTBepCTNeBero kopnyce Cpe3b6OBbIMOTBepCTNeMB kynake. B npouecce yCTaHOBKN He nobopaynBaTeAaT4NKBOKpyrnpOAONbHON OCN. yBennyeHne CONPOTNBnHNA nepemeweHnio AATUNKa AONKHO iyiatbcA TOJbKO nocneAHNe2MM nepeAero nonHon nocaAkonBKynak. EcnNAaTuNK 60b山nMCOnPOTNBneHNM BXOANT B OTBepCTneKynaka C caMoroHa4anaycTaHOBKN, N3BNeKNTe AaTYNK NyCTpaHnTenpnyNHy 3aeAaHng(rpab, 3ayceHeu Ha kOpnyceNT.n.) KaTeropnyeckN 3anpe山aeTc93anpeccoBbIBaTb AaT4NK 4aCTOTbIBPAWeHNg koneca MOJOTKOM.
 
@@ -17566,14 +16639,12 @@ AaT4NK yacTOTbI Bpa山eHNs 3aAHerO KOecayCTaHOBeH B OTBePCTNN KpOHWTeNHa cynnopT
 11.AHanorn4HO CHNMNTeAaT4NK 4aCTOTbl Bpa山eHngApyroro3anHerokoneca 12. yCTaHOBNTeAaT4NK 4aCTOTblBpaWeHNg 3aHeroKonecaBnopgAke, O6PaTHOM.CHATNIO.
 
 ### NPEAYNPEXAEHNS
-`kia_rio_en_d6d616f4` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npn yCTaHOBKe AaT4nka TO4HO COBMeCTNTe OTBePCTNeHa eroKopnyceCpe3b6oBbIMOTBepCTNeM B KpOHWTeNHe cynnopta TOPM03HOr0 MexaHN3Ma. B npouecce yCTaHOBKN He NOBOpauNBaiTeAaTunK BOKpyrnpOAONbHON OCN. yBennyeHne CONPOTNBneHng nepeMeweHnio AaTUNka AONXHO owyiaTbcs TOnbKO nocneAHne2MMnepeA ero nonHon nocaAKon BKpOHWTeNH. EcnnAaTunK C6onbwnM conpOTnBneHNEMBXOANTBOTBePCTNeKPOH山TENHaCCaMOro Hayana yCTaHOBKN, N3BNeKNTe AaT4NK N ycTpaHNTe NPNunny 3aeAaHng (rpa3b, 3ayceHeuHa kopnyceNT.n.)
 
 KaTeropnyeckn 3anpemaetca 3anpeccoBblBaTbAaT4NK4aCTOTbIBpa山eHNg3aAHerOKONecaMOJIOTKOM. 1
 
 ### CHTNENYCTAHOBKA d! Q0AFAPOONETPOHHOOAn
-`kia_rio_en_fd6d20dc` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/6798c0946378fa612b6ae0fd81f6fd608e271073266a3941adb11c3ff6a2a740.webp)
 
@@ -17610,12 +16681,10 @@ PHc13.1e：-naB2-y6A6oeroopa npaBoronepeAHeroKoneca;3-Tpy6onpoBoApa6oueroTopMo3H
 8.BblBepHe6ontKpenneHngKpoHtenHa rnAPoanekTpoHHoro MOAyng K Ky30By. AHanOrn4HO BbIBepHNTe OCTanbHble 6onTbl Kpennenng NCHNMNTeMOAyJb. 福 9. ycTaHOBNTernApOanekTpOHHbln MOyb ynpabnenng aHTn6nOkNPOBO4HON CNCTeMON TOPM030B NBCe CHATbIeAeTanN B nopaAke, O6paTHOMCHATNIO. 6080A 10. pOkayaTeTOpMO3HyiOCNCTeMy (CM. "pokaukarnAponpNBoAaTopMo3Hon cncteMbl>,C.179). 0
 
 ### OCOBEHHOCTN KOHCTPYKLNN
-`kia_rio_en_78f30d90` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CNcTeMa naccNBHo 6e3onaCHocTN(SRS) aBTOMO6nng 06beANHgeTB KOMnnekce nepeAHwe1n2（pnc.13.2),6ok0BblenoAykn3 6e3onaCHOctnABOAnng NnaccaxnpaHa nepeAHeM CNAeHbe, HaAyBHble 60KOBble 山TOpKN4（B3aBNCNMOCTNOTKOMnneKTaunN), NHepLNOHHbIepeMHN 6e30naCHocTA BOANTenNBcexnaccaNpOB. PeMHn6e3onacHOCTNABonntengNnepenHeronaccaknpa OCHameHbl nNPOTexHN4eCKNMN NPEAHATsnTenAMn, yCTaHOBNeHHbIMN B NHePLNOHHbIX kaTyWkax.
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_708850d9` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 noAyWKN 6e3onacHocTN He 3AMeHAIOT peMHN 6e3onacHoctn.bonee Toro,npN ABnkeHnN aBTOMOONNS BOANTenb N nepeAHnn naccaxup 06A3aTenbHO AOnKHbI 6bITb npnCTerHyTbI peMHAMN, Tak Kak B cnyyae AOPOKHO-TpaHCnoPTHOro nponcwectBns cpa6oTaBwag noAywka 6e3onacHocTN caMa MOKeTHAHECTN TXeNYIO TpaBMy He npNCTerHyTOMy peMHeM 6e3onacHOCTNyenOBeky.
 
@@ -17642,14 +16711,12 @@ MOAyJb nOAyWKN 6e30naCHocTN BOANTens,pacnonoxeHHbln B cTynnuepyneBoro KOnecaNCOC
 1 MOAynbnoAyWKN 6e3onacHocTn nepeAHeronaccaxnpa,HaxonancsBnaHen npn6opoB CO CTOPOHbI naccaxupa N COCTOAWNN N3CnOKeHHoNOOonoUNNoAyNN ra3oreHepaTopa. OTnNyaeTCA OT nOAyWKN 6e3onacHoctn BonnTengopmon6onbnM 06beMOM; 0 H S 福 NT3ON
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_67c67549` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/f519d9c26950932c0fb7b17256a1fff29845bd07907586a50cac5a5fcd3e600d.webp)
 
 -MOAynN 60kOBbIx noAy山ek 6e3onacHo-CTNBOANTNA MnepeqHeronaccaxnpa,pac-nonoXeHHbie BHapyKHbIX6OKOBbIX4aCT9XCNN-HOK nepenHNxCnAeHnn NCOCTORLINe N3 cnO-XeHHoio6ono4kNnoAy山KNNra3oreHepaTopa;-MOAynNWTOpOK6e3ONaCHOCTNBOAN-Teng NnaccaxnpoB, pacnonoxeHHble noA6nnLoBkaMN nepeAHNxN 3aAHNXCTOeK ky-30BaNCOCTOWNe N3CnOXeHHON O6oNO4kNnoAy山kNNra3oreHepaTopa;
 
 ### NPNME4AHNE
-`kia_rio_en_dabe9c71` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/7e9ed57cf26cb900d63292f717d60c4dc687257ff5b1cae28e063a5dfdfd1724.webp)
 Mecta pacnonoxeHns noAy山ek 6e3onacHoCTN 0603HayeHbI HaAnnCbIO “AIRBAG".
@@ -17658,7 +16725,6 @@ Mecta pacnonoxeHns noAy山ek 6e3onacHoCTN 0603HayeHbI HaAnnCbIO “AIRBAG".
 Pnc.13.2.Cxema pacnonoxeHns noAymek 6e3onacHoctu (Komnnekraunn Prestige nPremium):1 -noAywka 6e30- naCHOCTN BOANTenA;2 - noAywka6e3onacHoCTnnaccaxupa;3-6oKOBblenoAyuKN6e3onacHocTn;4-TopKn
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_ef75da34` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BCB93NCOTCyTCTBNeMHa aBTOMO6NneBbIKOyaTensnoAy山kn 6e3onacHocTN nepeAHero naccaxnpa HenepeBO3NTeAeTen Ha nepeAHem CnAeHbeBAeTCKOM CNAeHbe, NPeAHa3HA4eHHOMAng nocaAKN pe6eHkaCnNHON nO XOAyABNKeHng.
 
@@ -17677,7 +16743,6 @@ EcnNakkyMynTopHag6aTapesaBTOMO6Npa36nnacb BO BPeMa abapnn,ənektpnyeCkagLenbyAep
 AaT4NkN 6OKOBOroyAapa（B3aBNCNMOCTN OT KOMnnektaLnn) yCTaHOBNeHbI Ha LeHTpanbHonCTONke Ky30Ba CBHyTPeHHeNCTOpOHbl 3a06nNuOBkaMNCTOeK; 5
 
 ### APNMEYAHNA
-`kia_rio_en_e716648d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Noka3aH AaTYNK 6oKOBoro yAapa, pacnonoKeHHbINCneBONCTopOHbI aBTOMO6nng.Apyron AaT4nk pacnonoxeHC npaBon CTopoHbIaHanorN4HbIM06pa30M. 1
 AaTuNKN 60KOBoro yAapa yCTaHABNNBAIOT Ha aBTOMO6NnN C 6OKOBbIMN noAyWkaMN 6e30- naCHOCTN NHAAYBHbIMN WTOPKAMN BBapnaHTHOMNCNONHEHNN.
@@ -17687,7 +16752,6 @@ AaTuNKN 60KOBoro yAapa yCTaHABNNBAIOT Ha aBTOMO6NnN C 6OKOBbIMN noAyWkaMN 6e30- 
 - peMHN 6e30nacHocTN. pnyAape onpeneneHHoncnnbI by, nonyynB CNrHanbl OTAaT4NkoByAapa,nepeAakTnBaunei noAyWek 6e3onacHOCTNyBenNyNBaeT HaTgXeHNe peMHen, BblAaBagKOMaHAyHannpOTeXHn4eCKNe 3nMeHTbI npeAHaTsKNTenen. nocneAHNe 06ecneynBaIoT CBOeBpeMeHHOe pearnpOBaHneHaaBapniHoe3aMeeHneaBTOMOonng, PpnTarnbag BOANTeng N nepeAHero naccaxupa KCnNHKaMCNAeHnn, NCKIO4AIOT AanbHenwee nepemeweHnenx no NHePuNn BnepeANnonyyeHne TpaBM OTCpa6oTaBwen noAyWkN6e3onacHoCTN;
 
 ### NPNMEYAHNE
-`kia_rio_en_4fbd5bbd` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 MexaHN3M HAHaAKnns peMHa 6e3onac-HOCTN BCerAa nPNBOANTCA BAeNCTBnepaHbwe,4eMnoAy山ka 6e3onacHoCTN.
 
@@ -17700,20 +16764,17 @@ Mo6nne, npn CNbHOM yAape c3ann N npn Cpa6aTbIBaHNNnoAy山ek6e3onacHoCTN.
 oAronOBHNKN nepeAHNX n 3aHnx cnne-HNMOXHOperysnpOBaTbnOBbICOTe HaKaTN-eM Ha ΦukcaTop N nepemeweHnem noAro-NOBHNKaBBepXNN BHN3Ha Tpe6yeMyiO Bbl-COTy(CM.“CNAeHbA,C.27）；
 
 ### MPNMEYAHNA
-`kia_rio_en_a3a32ef1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OnTNManbHbiM C4NTaeTCA Takoe nonoxeHne noAronOBHnka, npn KOTOPOM ero BEPXHas KpOMka pacnonoxeHa Ha OAHOM ypOBHe C BepXHen4acTblOronoBbl.
 AnNOAen oyeHb BbICokoropocta NOAHNMNTenoArOnobHnkBKpanHee BepxHee nOoxeHNe, AA nIoAen O4eHb HN3KOr0 pocta onyCTHTe nOArOnOBHnKB KpaNHee HnKHee nOnOXeHne.
 
 ### CNrHanN3aTOpbl CNCTeMbI nacCNBHON 6e3onacHocTN:
-`kia_rio_en_a1c692f0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a4053bceacac76d3dd88b3961e3df5fb58296d78ec2702de1c6ab720840e49d1.webp)
 
 -CNrHanN3aTOpHeNCnpaBHOCTNBCNCTeMe nony山ek6e3onacHoCTn;
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_70e57ab2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 npn 3aropaHnn CNrHanN3aTopa HeMeAIeHHO o6paTnTecb BCneuNanN3npoBaHHblN aBtocepBNC. NOMNMOBO3MOXHOrO OTKa3a BaBapnNHON CNTyauNN,noAy山ka6e3onacHocTN MOxeT HeOKNAAHHO cpa6oTaTb BO BpeMa ABNKEHNA N nPNBeCTNKTAKenbIM NOCneACTBNAM.
 
@@ -17724,7 +16785,6 @@ BAaHHoMnOAPa3AeneOnncaHbICHTneN yCTaHOBKanOAy山eK6e3OnaCHocTNBOAnTe几 NnepeAHe
 COHaNOM. Perynupobka NOnoEH NOnrONOBHNKOB N NX CHATNe OnNcaHbI B pa3A. 1 "ycTpONCTBO aBTOMO6Nng"(CM."CnAeHbЯ", c.27)
 
 ### BaM noTpe6yIoTcA: KIOY TORX T25,OTBepTKa CKpeCT0o6pa3HbIMNe3BNeM. 动
-`kia_rio_en_b1477e6f` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. OTcOeANHNTe nPOBOA OTKneMMbl "MNHyC"aKkyMyngTopHoi 6aTapen.
 
@@ -17732,7 +16792,6 @@ COHaNOM. Perynupobka NOnoEH NOnrONOBHNKOB N NX CHATNe OnNcaHbI B pa3A. 1 "ycTpON
 2.BbIBepHNTe ABa BNHTa (cnpaba ncneBa) Knneeng onynn nOAyWKN 6e3onacHocTN HapyneBOMKOneceNN3BneKnTe BNHTbI.
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_0ee31ddb` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NoNbITka CHtg MOAyng nOAyWkN 6e3OnacHOCTN6e3OTKIO4eHNA ero 3nektponntaHng MOKeT npNBeCTN K HeOKNAaHHOMy cpa6aTbIbaHNIONOAYWKN.
 
@@ -17765,7 +16824,6 @@ Npn nepBOM BKNIOYEHNN 3axnraHng nocne yCTaHOBKN MOAyNA NOAyWKNB aBTOMOGNnb HaXOA
 9.ycTaHoBnTeMoAynbnoAy山kN6e3onaCHO-CTNBOANTnA B nopanke, 06paTHOMCHATNIO.OM
 
 ### BaM noTpe6yetcs ManApHbln ckOTy WnN NONHAHHHSRHA. A A
-`kia_rio_en_0ab213fb` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1 1 OTCOeANHNTe nPOBOA OTKNeMMbI "MN
 HyC"akkyMynTopHo6aTapen. 福 2.CHNMNTenoAy山ky 6e3OnacHocTN BOAN
@@ -17800,7 +16858,6 @@ KN,C.164).
 10..CHNMNTe KOHTAKTHOe KOnbLO noAyWKN6e3onacHocTNBOnNeng C BanapyneBONKONOHKN.
 
 ### NPEAYNPEXAEHNE
-`kia_rio_en_5abd01e0` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ECnN nPNCHATNN KOHTAKTHOe KONbLO HaXOAN nocb He B HeiTpanbHOM NONOXeHNN, nocne 06paTHONyCTaHOBKN Takoro konbua B03M0- XeH pa3pbiB ero cnnpanbhon npyxnHbl npn noBopotepyneboro koneca BKpanHee nonoxeHne N,KaKCneACTBne, OTKa3Bpa6oTe CNCTeMbI SRS. 3 2 2 大 a00
 
@@ -17809,14 +16866,12 @@ ECnN nPNCHATNN KOHTAKTHOe KONbLO HaXOAN nocb He B HeiTpanbHOM NONOXeHNN, nocne 0
 11.ycTaHOBNTe KOHTaKTHOe KOnbLO B noPAAKe,O6paTHOMCHATNIO.
 
 ### CHATNENYCTAHOBKANOAYWKN 5E3ONACHOCTNNEPEAHErO NACCAKNPA
-`kia_rio_en_bf0aa0f6` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/acdcf33fefb95cb5d99434fd3d7d4388f044c7fa6ed059f24935dfc40f559f7c.webp)
 
 noAywky 6e3onacHocTnnepenHero naccaxupa CHNMaIOT Bcnyyae eeHencnpaBHOCTN NnN npn 3aMeHe naHenn npn6opoB, eCnNNOAyWKa OTCyTCTByeT Ha HOBON naHenN.PekOMeHAyeM 3aMeH9TbnOAy山Ky6e30- naCHOCTN nepeAHero naccakupa Ha cneLnann3nPobaHHon CTAHUNN TeXHNyeCkoro o6cnyxnBaHng.
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_ac7b3e4d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bon36exaHne nonyyeHng TPaBMOT HecaHKLNO-HNpOBaHHOrO Cpa6aTbIBaHNA ra3oreHepaTopOBHepa36NpaNTecaMocTOgTenbHO3neMeHTbl CN-CTeMbl. OAHaKO npn peMOHTe Ky3OBa MOAysnbnoAy山kn 6e3onacHocTN nepeAHero naccaxnpaMOKeTnpEngTCTBOBaTbnpOBeAeHNIOpa6OT.
 
@@ -17829,7 +16884,6 @@ HeAOnyckaeTcsnaAeHneMoAyns noAykN6e30naCHOCTN NnonaAaHne HaHero BOAbl,Ca3- KNNJN
 He AOnyckaeTCs BO3AeNCTBNe Ha MOAynb noAyWKN 6e3onacHocTH TeMnepaTypbl BbI山e95C. Npny yCTAHOBkeMOAynsBaBTOMO6WIb HaXOANTeCb BHe30HbIPa3BOpa4NBaHNg HaAyBHON nOAyWKN.
 
 ### BaM noTpe6yIoTcA: Topuobas ronObka“Ha10",OTBepTka C nnOCKNMSe3BNeM. 5
-`kia_rio_en_48f79d38` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTcoeNHNte nPOBOA OT KeMMbI "MNHyC"akkyMynTopHon6aTapen. # 2. CHNMNTe naHenb npn6opob (CM. "CHgTueycTaHoBkanaHenN npn6opoB,C. 261).
 
@@ -17847,14 +16901,12 @@ He AOnyckaeTCs BO3AeNCTBNe Ha MOAynb noAyWKN 6e3onacHocTH TeMnepaTypbl BbI山e95
 6.ycTaHOBNTe MOAynb nOAyWKN 6e3onacHOCTNnepeAHeronaccaxnpa N BCe CHATbIe AeTannB nOPAAKe,OOpaTHOMCHTNIO.
 
 ### NPNMEYAHNE
-`kia_rio_en_938d0c1e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/6c28ab159578484b828151207fa056ae4305a407b9805187d58ae1788f823c21.webp)
 
 BAaHHOM nOAPa3Aene 3aMeHa nepeAHnX peMHe6e3onacHocTN noka3aHa Ha npNMepe peMHg 6e30naCHocTNBOANTeng.PeMeHb 6e3OnaCHOCTN nepeAHeronaccaxNpa 3aMeHsioTaHanorn4Ho.
 
 ### NPEAYNPEKAEHNA
-`kia_rio_en_dad30ca2` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocne OTCOeANHHNS npOBoAa OT KJeMMbI MNHyC"akkyMyngTopHon 6aTapen Heo6xoANMO noAoKAaTb He MeHee OAHON MNHyTbI, N TOnbKO no NCTeyeHNN 3TOro BpeMeHN MOKHO npNCTynnTb K CHATNIO PeMHs 6e30nacHoCTN, OCHaWeHHOrO npeAHaTaxNtenem.
 Pa36opka npeAHaTAKntenen peMHen 3anpemaeTcs.
@@ -17866,7 +16918,6 @@ HeAOnyCkaeTcA BO3AenCTBNe HanpeAHaTANTennpeMHei TeMnepaTypbl BbIwe95C.
 ![](images/d4c88530783b1259a4fe46216dc66e56a06796107b1c414e583b72920ed1bba2.webp)
 
 ### 3.CHNMNTe HNXHIOIO...
-`kia_rio_en_7623056d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/59010cec4401ad17737909a34c7374f899530dfe2eff09365d6ca6c4058c5f27.webp)
 
@@ -17906,7 +16957,6 @@ HeAOnyCkaeTcA BO3AenCTBNe HanpeAHaTANTennpeMHei TeMnepaTypbl BbIwe95C.
 13.oAAeHbTe OTBepTkon ABa uKcaTopbl KpenneHng Aepxateng KOJOAOK (o6orpeba nepeAHerocnAeHbA NAaTunkaHenpnCTerHyToropeMHg6e3onacHoctn...
 
 ### NPNMEYAHNE
-`kia_rio_en_dbfbf176` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Aepxatenb KonoAok pacnonoxeH NOAnOAyWKon nepeAHero cnAeHbs.
 
@@ -17944,7 +16994,6 @@ BXNPTBRLOINT
 22. yCTaHOBNTe3aMOK peMHg 6e3onacHoCTN N BCe CHATbIeAeTanN BnopaAke,o6patHOM CHATNIO.
 
 ### CHATNE MYCTAHOBKA 3AAHNX PEMHEN BE3ONACHOCTN
-`kia_rio_en_b27ed4ab` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/1f4bd76073872bddb8bd8477b378a6e32b5628b78b4a72f1c754c897ddee86ce.webp)
 
@@ -17953,7 +17002,6 @@ BaM noTpe6yIoTcA: KJIOY “Ha 14", OTBePTKaC nJOCKNMJe3BNM.NMNHO
 ![](images/98d0ce1de0d4ca397a2ce6778e15178d5173ad2fc7c205ea3e958b6c1cce800a.webp)
 
 ### NPNMEYAHNE
-`kia_rio_en_78679200` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Noka3aHa 3aMeHa peMHa 6e3onacHocTN 3a-AHeronpaBoro naccaxnpa. PeMeHb6e30nac-HOCTN neBoro N cpeAHero naccaxnpob 3aMe-HRIOTaHaNOrNYHO.
 
@@ -18003,7 +17051,6 @@ Noka3aHa 3aMeHa peMHa 6e3onacHocTN 3a-AHeronpaBoro naccaxnpa. PeMeHb6e30nac-HOCT
 12.ycTaHOBNTeAeTanNBnopnke, 06paTHOM CHATNIO. VOn
 
 ### BaM noTpe6yIoTcA: Topuobas ronObka “Ha 10",OTBepTka C NNOCKNM ne3BNeM.
-`kia_rio_en_143b4d5c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.OTcoeANHNTe NPOBOAOT KeMMbIMNHyC"akkyMyngTopHon6atapen. 3 2. CHNMNTe O6nNLOBKy TOHHeng nona (CM. "CHATNe N yCTaHOBKa O6nNuOBkN TOHHeng nona，c.260).
 
@@ -18035,21 +17082,18 @@ Noka3aHa 3aMeHa peMHa 6e3onacHocTN 3a-AHeronpaBoro naccaxnpa. PeMeHb6e30nac-HOCT
 9. CHNMNTe 6nok ynpaBneHng CNCTeMON naccNBHoN6e3onaCHOCTN.
 
 ### NPNMEYAHNE
-`kia_rio_en_6fced00d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 6nok ynpaBnehngMOKHo yCTaHOBNTbHaaBTOMo6nnIb TOnbKO B OAHOM NONOXeHNn, OAHaKO AKOHTPOnA OOPATNTe BHNMAHNe Hactpenky, HaHeCeHHyIO Ha ero 3TNKeTKy: OHa AOnKHa 6bITb HanpaBneHa BnepeA no HanpaBneHNIo ABNKHNR aBTOMOONnA.
 
 10. ycTaHOBNTe 3neKTpOHHbI 6nok ynpaBneHNg CNCTeMOnaccNBHon6e3OnaCHOCTWN BCeOCTanbHbIeAeTannBo6paTHoMnopaAke.
 
 ### 3AMEHAAATYNKOB YAAPA
-`kia_rio_en_e5fec299` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/f28d0b4010b2f62da396253b5ab96a26a094329916922db60b6a7a026e509aeb.webp)
 
 BaM noTpe6yoTCA: KJIOY "Ha 10", OTBepTKa CnOCKNM Ne3BNeM.
 
 ### NPNMEYAHNE
-`kia_rio_en_14ee8a2c` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Noka3aHa 3aMeHa AaT4NKOB yAapa cnebon CTOPOHbl. AaTynKNyAapa Cnpabon CTOPOHbI 3AMeHSIOT aHanornyHO. BGI
 
@@ -18058,7 +17102,6 @@ An 3aMeHbl AaT4Nka 60KOBoro yAapa BbInOnHnTe CneAyIioWee.
 1. OTCOeANHNTe nPOBon OT KneMMbl "MNHyC"aKkyMyngTopHon6aTapen.
 
 ### NPEAYNPEKAEHNE
-`kia_rio_en_c6cfde39` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/84c5ba12b794a3a443fc9d41588f2a2a84f070bf0f991415d45777dd29fc3efd.webp)
 3.OTOKMNTeuKCaTopKOnOAkN npOBOAOBAaTuNka6okoBorO yAapa... G100 MT3OH
@@ -18097,7 +17140,6 @@ pnnoxeHne5
 \*HaaBTOMo6NngxKOMnneKTaLNN Prestige yCTaHOBneHbl CBeTOANOAHbIe6OKOBbIeyKa3aTenNnOBOpOTa KOpnycaXHapykHbIx3epkan3aHerOBNna x3aMeHbl o6pawantecb OnuNanbHOMyAnnepyKIA.
 
 ### KOHTPO几bHbIEPA3MEPbIKY3OBA
-`kia_rio_en_5f54e167` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/1e9d4fa95480658d7557bb78f214d662959772843ce75af5adf9180f6ec09286.webp)
 PHc.N6.1.MoTopHblN OTceK
@@ -18147,7 +17189,6 @@ CxeMa1r.CnCTeMa ynpaBneHnAABnraTeneM:1 MOHTaXHbl6noKBcanOHeaBToMo6ung;2-cCTeMayn
 CxeMa2.CnCTeManyCkaABnraTenA6e33neKTpoHHoroKnoua:1 aKkyMyngTopHan6arapeR;2 MOHTaKHbI6nOKBMOTOPHOMOTCeKe; BbIKnOyaTeb（3aMOK)3axnraHn;4 MOHTaX Hbl 6nOKBCanOHeaBTOMO6nnA;5 MOAybynpaBneHnA3aKnraHNeM;6 CeneKTOpaBTOMaTu4eCKONKOpO6KN nepeAay; -CTaprep;8,9- 3neKTPOHHbl6nOKynpaBneHnAABNraTeneM
 
 ### KOHTPO几bHbIEPA3MEPbIKY3OBA
-`kia_rio_en_20bb1ee1` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/42ec51166df33878b9027d8f91823bfafc0d3dbb42e8e142634b28a731d6ec26.webp)
 CxeMa3.CNCTeManyCKaABNraTenAC3neKTpOHHbIMKnIO40M:1 aKKyMynopHag6arapen;2 MOHTaKHbI6nOK MOTOPHOMOTCeKe; 3 AeKTpOHHbI6nOKynpaBneHNABuraTene 4-CeneKTOpaBToMaTnyeckon Kopo6Kn nepeAa4; - MOHTaKHbI6nOK canoHeaBTOMo6nn;6 KHOnkanycka OCTaHOBKNABraTen;7-CTapTep; 8 nekTpOHHbl 6nOK ynpaBne HNAABNraTeneM; MOAyNbynpaBneHNAKHOnKONnyCKaNOCTaHOBKNABraTenA 51 3
@@ -18180,7 +17221,6 @@ CxeMa11.3neKTpokoppekTopCBeTacap: MOHTaXKHbI 6nOKBcanOHeaBTOMo6n;2 perynaTop3neK
 xeMa12.pNBOA3aMKOBABepeNC6nOKOMBCM:1 -MOAynbynpaBneHnA3neKTpoo6opyAoBaHneMKy30Ba；2 npBOA3aMKaKpbIWKN6araKHNKa;3-npNBOA3aMKaABepN BOANTens -npBOA3aMKaneBOn 3aAHenABepn;5-npuBOA3aMKanpaBoN 3aAHen ABepN; D -npNBOA3aMKaABepNnepeAHerO naccaxnpa
 
 ### KOHTPO几bHbIEPA3MEPbIKY3OBA
-`kia_rio_en_47874fbc` | rio | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:unknown
 
 ![](images/209b85ee6d73aa3ef4d5329e9aa922cc15a803db05c7d8b70a0ea527a8a16177.webp)
 CxeMa13.CBeT3aAHeroxoAa:1 MOHTaKHbI6nOKBCanOHeaBTOMo6ng;2-MOHTaKHb6nOK MOTOPHOM OTCeKe;3 KOM6NHaunnpu6opoB;4 -BblKnlouatenb CBeTa3aqHeroxoAa;5 CeneKTopoaeopepea；6-Ayypaeae；78-a6apooBoroera;10 naMnara6apnTHoroorHA neBoro3aAHerooHapa;11 MOAynbynpaBneHn3neKTpoo6opyAoBaHneMKy3OBa;12-3epKano3aAHeroBAa CΦyHKuNenaBTOMaTNyeCKOrO3aTeMHeHNA
@@ -18204,7 +17244,6 @@ CxeMa18.3neKTpocTeknonoAbeMHKnepeAHeN naccaxupckonABepn (CNHTenneKTyanbHbIMMOAyn
 CxeMa19.3nekpocTeknonoAbeMHNKN 3aAHNXABepen (CNHTenneKTyanbHbIMMOAyneMnpuBOAOB): 6nOKynpaBneHCeKnonoAbeMHKaMN,epKanaMN3aAHeroBAa 6noknPOBKON 3aMKOBABepen WHTenneKTyanbHbIM MOAyneM npNBOAOBCTeKIOnOAbeMHNKOB);2 NHTennekTyanbHbI MOAynbnpNBoAaCTeknonOAbeMHNkanpaBOn 3aqHenABepn;3- KnaBnwa ynpaBnenna eneKTPoCTeKionOAbeMHNKOM npaBon 3aAHenABepn;4 KnaBNwaynpaBneHNA3neKtpoCTeKnonoAbeMHukOM neBon 3aAHen ABepn;5 WHTennekTyanbHb MOAynb npuBOAa CTeKNOnOAbeMHNKaneBON 3aAHeABepN
 
 ### KOHTPO几bHbIEPA3MEPbIKY3OBA
-`kia_rio_en_dc0d6061` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/7a2f44736927d137f8156a2c2c9afa1628e3d4133059af566b6c51218a555dd6.webp)
 CxeMa20.3neKpoCTeKonOAbeHKABepBOATen（6e3HeeKTyabHoroMOAyn npBOAaCTeKnOnOAbeMHNKOB): -6nok pene npeAoxpaHnTenen MOTOPHOM OTCeKe; 2-6nokpene npeAoxpaHntenen canOHeaBTOMo6n;3-6nOKynpaBneHnCTeKnonOAbeMHKaMN,3epKanaMN3aAHeroBAa 6nOKNPOBKON 3aMKOBABepen;4 3neKTPOABnraTenb CTeKnOnOAbeMHNKaABepN BOANTenA
@@ -18219,19 +17258,16 @@ Cxema 22.3ByKOBoNCNrHan:1 6noKpeneNnpenoxpaHntenen MOTOPHOMOTCeKe:2 CHrHanBblCOK
 Cxema23. CTeKNOOUNCTNTenb N CTeKNOOMbIBaTenb BeTpOBOro OKHa: -HaCOC OMbIBaTen;2 MOHTaXKHbIN 6noK CanoHe aBTOMO6nnA; - MOHTaKHbI 6noK pene npeAoxpaHn neBMOTOPHOM OTceke; 4 MOTOPeAyKTOP CTeKnOO4NCTNTenA;5-3byABNraTeneM;6 nepeknOUaTenbCTeKnoOunCTNTenA H CTeKnOOMbIBaTenA BeTpOBOrOOKHa
 
 ### PIOBYOOOTnMX
-`kia_rio_en_40c5072d` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 SARNOE ABTOMaTN4eCKNHaT9XNTenbpeMHAnpNBOna BCNOMoraTenbHbIxarperaTOB  !   .202 ABTOMO6NnbABNXeTCApbIBKaMN   ..44 ABTOMOONb nnoxopa3roHgercA ..45 Ancop6epcNcTeMbl NTRHO) Y 作 ynaBnNBaHngnapOBTonnBa   110 AKKyMyngTopHag6aTapeg . . .200 AKKyMyngTopHag6aTapeg(CHTue NyCTaHOBka)...201 AKKyMynsTopHag6arapes He non3apgxae.Ttcq 48 AMOPTN3aTOp 3anHen noABeckn TdRNO Nei （CHATe.y.CTaH..ka 57 AMOpT3aTopHag CTonikanepenHei noABeCKN EMgOT (CHATNeNyCTaHOBKa)   ..147 AHTeHHblinOKNMMonN3aTopa...  0 AHTN6nOKNPOBO4HagCNCTeMaTOpMO3OB（ABS)..289 Apa.y.y3 71 ApMaTypa.a.no... .. .. 266 AynNocNCTeMa  27
 
 ### BaraxHNK
-`kia_rio_en_8fca3d7b` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 banka3anHen nonBeckn ..160 ba4OkrnaBHoro TOPM03HOrO wH 180 ba4OKOMbIBaTeng (CHЯTNe NyCTaHOBKa) .ou.. 288 Bnok AONONHNTenbHOrO rnywnten 113 bnokpeHopybN.cboHa 112 HeiTpann3aTopOTpa6oTaBWNX ra30B 113 bnoKynpaBneHN9KnNMaTNyeCKONCNCTeMON (ynpaBneHne  21 5nOKynpaBneHNKNMaTNueCKONCNCTeMON (CHATNe MyCTaHOBKa) ..…. 1   .286 6nok yrpaBneHns3nektpocteknonoAbeMHnkaMn NHapyKHbIMN3epkanaMN (ynpaBneHne 3nKTPOCTeknonOAbeMHNKaMn)   .26 Bnok ynpaBneHnA3nektpoctekIonoAbeMHNkaMN N HapyxHbIMN3epkaaMN (ynpaBneHneHapyKHbIMN3epkanaMN   30 BnoKynpaBneHNAHapyxHbIMN3epkanaMN (CHTNeNyCTaHOBKa) 231 Bnok ynpaBneHNg_CTeksonOAbeMHNKaMn (CHATNeNyCTaHOBKa) 230 5nOKynpaBneHnganektpokoppeKTopOM CBet...\*4 bnok-apa ..  \* \*..\*\*\*.S 223 bOKOBONoHapbyKa3aTeng noBopoTa . 225 boKOBbleABepN   247 bVKCNDOBKaaBTOMO6Wng 39
 
 BakyMbywwbopm3o 181 BaKyyMHbIi yCwnNTebTopMO3OB (npOBepKka)...176 BeweBble AWKK ca.o.Ha..33 Bn6pauugNyAapbI HapyneBoMKonece .51 BHyTpeHHee3epkano ... BHypeHHee3epKano(CHTeNyCTaHOBKa) ..6 BHyrpeHHggpykanpuBona 3aMka 3aAHen ABep  255 BHyTpeHH pyukanpuBona3aMka 890T 000 nepenHen ABepn   D . 250 BOASHON HaCOC   .96 Bo3AyWHbI WbTp （CHgTue N yCTaHOBka) 101 BblKlloyaTenb(3aMka) 3axnraHNg (CHATNe MyCTaHOBKa .11 BbIKlOyaTeb(3aMOK)3aXraHN ..
 
 ### ...... HaB8edhdnstneneant9
-`kia_rio_en_15968f6a` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbIKloyarenb3amkanepenHeABep...251
 BblKnlOaTenbCBeTa3aHerO x 35
@@ -18254,7 +17290,6 @@ KanoT.
 KanOT (CHgTNe NyCTaHOBka …… .242 KaTKOneKTOp. . ...2 KaTyWKN 3axuraHNA (CHTNeNyCTaHOBKa) ...4
 
 ### O 60
-`kia_rio_en_a78630aa` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KN  KoxyxpyneBONKONIOHKN .164 KOMOnHaung npn6opob 2 KOMOnHaLns npn6opob CHATNe yCTaHOBKa .232 Komnpeccop KOHAnLNOHePa 278 KOHAeHCOP .. .283 KOHTaKTHagrpynnaBblKniouaTens(3aMka) 3axuraHng 21   KOHTaKTHOeKONbuO 3BYKOBOrG CurHana NnOAyWKN 6e3onaCHoCTW  94 Kopo6kanepenay （MexaHe.c.ka） 124 Kopo6kanepenay (MexaHNyeCkag, CHATNe yCTaHOBKa). … .127 Kopo6kanepenay （aBTo...eka 132 Kopo6kanepenay (aBTOMaTNueCKag, CHATNe yCTaHOBKa).     136 Kpbluka6araxHuka   Kpblwka6araxHnka(CHaTe yCTaHOBKa) .45 Kpblwkanioka HAnNBHOn Tpy6bl TONNBHOrO baka 246 Ky30B   238
 aMnbl  · .2 Jlebagonopa nonBeckn CNNOBoroarperata   .69
@@ -18280,7 +17315,6 @@ IpoBepka yPOBHANAOnNBka
 oxnaxnaiomei KNAKOCTN  o..… .59 poBepkaypoBHg AONNBKaTOPMO3HON
 
 ### O 60
-`kia_rio_en_ea19f809` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 XNAKOCT 6a4ok TuAPonPobonon
 MO3 CNCTEM
@@ -18326,7 +17360,6 @@ ToNBHagpaMna (CHTue NyCTaHOBKa) . 10 TonnnBHbleopCyHKN CHATNe, npobepka NyCTaHOB
 TonnBHbl6ak … 106 TOnNBHbI MOAysIb CHATNe yCTaHOBKa WpeMOHT)  103 TonNBHblunbTp.  104 TopMO3HagCNCTeMa  ·...….· .172 TopM03Hoi ANCK TOPM03H0r0 MexaHN3Ma 3aHero koneca TopMO3HOANCKTOpMO3HOrOMeXaHN3Ma nepeAHer koneca 188 TOpM03Hble KONOAKN ANCK  177 TopM03Hble KOnOAKN TOPMO3HOrOMexaHN3Ma 3aqHeroKoneca TopM03Hble KOJOAKNTOPMO3HOrOMeXaHN3Ma epeAF koneca TopM03Hble MexaHN3Mbl3aqHMX Konec.. ..88 TopM03Hble MexaHN3Mbl nepeAHNXKonec TopMO3HbleTpy6KN TopM03Hble WnaHrn 182 TpaneLNgCTeKIOOYNCTNTEngBeTpOBOrOOKHa BC6opeCMOTOpeAyKTOPOM .270 TpocbInpMBOa.T.oaHO.Horo.TopMMo3 192 TpocynpaBneHNsaBTOMaTu4eCKo Kopo6konnepenay TpocblynpaBneHnsMexaHn4eckoni Kopo6konnepenay . 130
 
 ### O 60
-`kia_rio_en_6710dc90` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ynano AaBneHe.c 46
 yoTHeHneMaCngHoroaptepa ...76
@@ -18342,14 +17375,12 @@ nekrtpoo6orpeB3aHerocekn...231
 neKTpocTeKnonobeMHNKN 229
 
 ### A 三国
-`kia_rio_en_e089d021` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpeACTaBAAeMPyKOBOACTBOnO 3KCnAyaTauNN,O6CAyXKNBaHHION peMOHTyaBTOMO6NAR KIA RIO III C 6eH3NHOBbIMNABNraTEARMN 1.4n(107n.c.)n1.6n(123 n.c.), MeXaHNuecKoN5-cTyneH4aToNNANaBToMaTH4ecKON4-cTyneHyaTonKn.
 
 CEPNЯ
 
 ### PEMOHT 6E3nPO5NEM
-`kia_rio_en_841fd29e` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KHnrN cepnN "PeMOHT 6e3npo6AeM CO3AaIOTCAB Hay4Ho-TexHnyeckonAa6opaToPnN N3AATeAbCTBa.AASnOAy4eHNAMaKCNMaAbHOAOCTOBePHON WHCOPMauNN Mblnokynaem aBTOMo6nAb,pa36npaeM ero NoTorpacnpyeMKaxAyioonepaunio. CneLNaAnCTbl N3AaTeAbCTBa B npouecce NOArOTOBKN KHNIN OnPeAeARIOT HaNMeHee TPyAOeMKNe CnOCO6bI yCTpaHeHNA HeNCnpaBHOCTeN aBTOMO6NAR, OT6nPaIOT Han6OAee NHCOpMaTHBHbIe cOTOrpacnNNAOnOAHAIOT HXNAPOHbIMN OnNCAHNMN.Haw nPHHUNn npOBepATb BCe,4TOMbI peKOMeHAyeMHaWNM 4NTaTeAAM.HaWN 3HaHNNOnbIT 一 rapaHTnsTOro, 4TOBbICMOXeTe OTPEMOHTNPOBaTbCBON aBTOMO6NAbnO Hawen KHNre. KaxAagKHNraCepNNBKAIo4aeT B ce6AOnncaHne ycTponCTBa,3kcnAyaTaunN N O6CAyXKHBaHNAaTOMOONAA,ANarHOCTHKyHeNCnpaBHOCTeN,MOH N peryAnpobky CHCNOAb3OBaHHeMO6bI4HorOHa6opaNHCTpyMeHTOBB ycAOBngxrapaka. B KOHLe KHNrM nPnBeAeHbI UBeTHbIe3AeKTpOCXeMbl.
 
@@ -18399,14 +17430,11 @@ TOYOTACAMRYVC2006r.TOYOTACOROLLAC2006r.TOYOTA RAV4IIc2005r.VOLKSWAGEN PASSAT B3/
 NPOAONKEHNECEAYET...
 
 ### Bbinyck c2011r. beH3NHOBbIe ABNraTEnN: 1.4n（107 n.c.) 1.6n(123n.c.)
-`kia_rio_en_9fcd4e86` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/47a4c2e6262445fb896b855cc802e3cd341c61705b030e4b3ae2e7e4f4a1032a.webp)
 
 ![](images/6ade2e24608ef441e1a1451e15f0b7035693b588d02d55130828fa92d7253050.webp)
 
 ### ABTOMOBNJbHbIE TOBAPbI TPETNN PNM
-`kia_rio_en_1f7ab385` | rio | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nepBbln3rax, npaBagyacTbueHTpanbHorobxoAanpaMO,naB. 4acblpa6oTbl:nH.-nT. c9:00o20:00, C6.,BC.C9:00AO 18:00 e-mail:avtokniga-108@yandex.ru Ten. 8(905)552-52-38 8(901)545-09-75
-

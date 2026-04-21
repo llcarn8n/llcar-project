@@ -1,5 +1,10 @@
-# Manual: uaz/patriot (237 chunks)
-<!-- doc_type:owners_manual tier:2 lang:ru -->
+---
+brand: uaz
+model: patriot
+generation: patriot_2005
+source: kb
+---
+
 
 ### Page 1
 `uaz_patriot_ru_d043ec6f` | patriot | pdf_official | tier:1 | lang:ru | layer:general | p:1 | doc_type:owners_manual
@@ -11546,9 +11551,6 @@ DOT 
 Московское шоссе, 92
 http://www.uaz.ru
 
-
-# Manual: uaz/patriot (237 chunks)
-<!-- doc_type:owners_manual tier:2 lang:ru -->
 
 ### Page 1
 `uaz_patriot_ru_d043ec6f` | patriot | pdf_official | tier:1 | lang:ru | layer:general | p:1 | doc_type:owners_manual

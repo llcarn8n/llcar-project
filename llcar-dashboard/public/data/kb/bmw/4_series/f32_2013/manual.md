@@ -1,5 +1,10 @@
-# Manual: bmw/4_series_g22 (388 chunks)
-<!-- doc_type:owners_manual tier:2 lang:en -->
+---
+brand: bmw
+model: 4_series
+generation: f32_2013
+source: kb
+---
+
 
 ### The Ultimate
  | 4_series_g22 | pdf_manual | tier:2 | lang:en | layer:general | p:1
@@ -268,94 +273,93 @@ Information
 8
 Online Edition for Part no. 01405A392C9 - VI/21
 
-### Warning
- | 4_series_g22 | pdf_manual | tier:2 | lang:en | layer:engine | p:9
-
-Warning
-Engine exhaust and a wide variety of Automo‐
-bile components and parts, including compo‐
-nents found in the interior furnishings in a vehi‐
-cle, contain or emit chemicals known to the
-State of California to cause cancer and birth
-defects and reproductive harm. In addition, cer‐
-tain fluids contained in vehicles and certain
-products of component wear contain or emit
-chemicals known to the State of California to
-cause cancer and birth defects or other repro‐
-ductive harm. Battery posts, terminals and re‐
-lated accessories contain lead and lead com‐
-pounds. Batteries also contain other chemicals
-known to the State of California to cause can‐
-cer. Wash your hands after handling. Used en‐
-gine oil contains chemicals that have caused
-cancer in laboratory animals. Always protect
-your skin by washing thoroughly with soap and
-water. For more information go to
-www.P65Warnings.ca.gov/passenger-vehicle.
-Warning
-Operating, servicing and maintaining a passen‐
-ger vehicle or off-highway motor vehicle can
-expose you to chemicals including engine ex‐
-haust, carbon monoxide, phthalates, and lead,
-which are known to the State of California to
-cause cancer and birth defects or other repro‐
-ductive harm. To minimize exposure, avoid
-breathing exhaust, do not idle the engine ex‐
-cept as necessary, service your vehicle in a
-well-ventilated area and wear gloves or wash
-your hands frequently when servicing your ve‐
-hicle. For more information go to
-www.P65Warnings.ca.gov/passenger-vehicle.
-Service and warranty
-We recommend that you read this publication
-thoroughly. Your vehicle is covered by the follow‐
-ing warranties:
-▷New Vehicle Limited Warranty.
-▷Rust Perforation Limited Warranty.
-▷Federal Emissions System Defect Warranty.
-▷Federal Emissions Performance Warranty.
-▷California Emission Control System Limited
-Warranty.
-Detailed information about these warranties is
-listed in the New Vehicle Limited Warranty Book‐
-let.
-Your vehicle has been specifically adapted and
-designed to meet the particular operating condi‐
-tions and homologation requirements in your
-country and continental region in order to deliver
-the full driving pleasure while the vehicle is oper‐
-ated under those conditions. If you wish to oper‐
-ate your vehicle in another country or region, you
-may be required to adapt your vehicle to meet
-different prevailing operating conditions and ho‐
-mologation requirements. You should also be
-aware of any applicable warranty limitations or
-exclusions for such country or region. In such
-case, please contact Customer Relations for fur‐
-ther information.
-Maintenance
-Maintain the vehicle regularly to sustain the road
-safety, operational reliability and the New Vehicle
-Limited Warranty.
-Specifications for maintenance measures:
-▷BMW Maintenance system.
-▷Maintenance Booklet, available online and ac‐
-cessible via a QR code in the New Vehicle
-Limited Warranty Booklet.
-▷Warranty and Service Guide Booklet for
-Canadian models.
-If the vehicle is not maintained or is improperly
-maintained, this could result in serious damage
-to the vehicle.
-A failure to maintain your vehicle or improper
-maintenance may affect your warranty coverage.
-Please consult the New Vehicle Limited War‐
-ranty Booklet for further information on warranty
-matters.
-Information
-NOTES
-9
-Online Edition for Part no. 01405A392C9 - VI/21
+> ⚠️ **Внимание:** | 4_series_g22 | pdf_manual | tier:2 | lang:en | layer:engine | p:9
+>
+> Warning
+> Engine exhaust and a wide variety of Automo‐
+> bile components and parts, including compo‐
+> nents found in the interior furnishings in a vehi‐
+> cle, contain or emit chemicals known to the
+> State of California to cause cancer and birth
+> defects and reproductive harm. In addition, cer‐
+> tain fluids contained in vehicles and certain
+> products of component wear contain or emit
+> chemicals known to the State of California to
+> cause cancer and birth defects or other repro‐
+> ductive harm. Battery posts, terminals and re‐
+> lated accessories contain lead and lead com‐
+> pounds. Batteries also contain other chemicals
+> known to the State of California to cause can‐
+> cer. Wash your hands after handling. Used en‐
+> gine oil contains chemicals that have caused
+> cancer in laboratory animals. Always protect
+> your skin by washing thoroughly with soap and
+> water. For more information go to
+> www.P65Warnings.ca.gov/passenger-vehicle.
+> Warning
+> Operating, servicing and maintaining a passen‐
+> ger vehicle or off-highway motor vehicle can
+> expose you to chemicals including engine ex‐
+> haust, carbon monoxide, phthalates, and lead,
+> which are known to the State of California to
+> cause cancer and birth defects or other repro‐
+> ductive harm. To minimize exposure, avoid
+> breathing exhaust, do not idle the engine ex‐
+> cept as necessary, service your vehicle in a
+> well-ventilated area and wear gloves or wash
+> your hands frequently when servicing your ve‐
+> hicle. For more information go to
+> www.P65Warnings.ca.gov/passenger-vehicle.
+> Service and warranty
+> We recommend that you read this publication
+> thoroughly. Your vehicle is covered by the follow‐
+> ing warranties:
+> ▷New Vehicle Limited Warranty.
+> ▷Rust Perforation Limited Warranty.
+> ▷Federal Emissions System Defect Warranty.
+> ▷Federal Emissions Performance Warranty.
+> ▷California Emission Control System Limited
+> Warranty.
+> Detailed information about these warranties is
+> listed in the New Vehicle Limited Warranty Book‐
+> let.
+> Your vehicle has been specifically adapted and
+> designed to meet the particular operating condi‐
+> tions and homologation requirements in your
+> country and continental region in order to deliver
+> the full driving pleasure while the vehicle is oper‐
+> ated under those conditions. If you wish to oper‐
+> ate your vehicle in another country or region, you
+> may be required to adapt your vehicle to meet
+> different prevailing operating conditions and ho‐
+> mologation requirements. You should also be
+> aware of any applicable warranty limitations or
+> exclusions for such country or region. In such
+> case, please contact Customer Relations for fur‐
+> ther information.
+> Maintenance
+> Maintain the vehicle regularly to sustain the road
+> safety, operational reliability and the New Vehicle
+> Limited Warranty.
+> Specifications for maintenance measures:
+> ▷BMW Maintenance system.
+> ▷Maintenance Booklet, available online and ac‐
+> cessible via a QR code in the New Vehicle
+> Limited Warranty Booklet.
+> ▷Warranty and Service Guide Booklet for
+> Canadian models.
+> If the vehicle is not maintained or is improperly
+> maintained, this could result in serious damage
+> to the vehicle.
+> A failure to maintain your vehicle or improper
+> maintenance may affect your warranty coverage.
+> Please consult the New Vehicle Limited War‐
+> ranty Booklet for further information on warranty
+> matters.
+> Information
+> NOTES
+> 9
+> Online Edition for Part no. 01405A392C9 - VI/21
 
 ### Refer to section on engine oil change regarding
  | 4_series_g22 | pdf_manual | tier:2 | lang:en | layer:engine | p:10
@@ -20583,73 +20587,72 @@ Wheels and tires
 320
 Online Edition for Part no. 01405A392C9 - VI/21
 
-### Warning
- | 4_series_g22 | pdf_manual | tier:2 | lang:en | layer:tires | p:321
-
-Warning
-Tires can become damaged by driving over ob‐
-stacles, e.g., curbs or road damage, at high
-speed. Larger wheels have a smaller tire crosssection. The smaller the tire cross-section, the
-higher the risk of tire damage. There may be a
-risk of accident and risk of damage to property.
-If possible, avoid driving over objects or road
-conditions that may damage tires, or drive over
-them slowly and carefully.
-Changing wheels and tires
-Mounting and wheel balancing
-Have mounting and wheel balancing carried out
-by a dealer’s service center or another qualified
-service center or repair shop.
-Approved wheels and tires
-General information
-The following properties are recommended and
-approved by the manufacturer of the vehicle for
-the approved wheels and tires per vehicle type
-and special equipment:
-▷Wheel and tire combinations.
-▷Rim designs.
-▷Tire sizes.
-▷Tire brands.
-You can ask a manufacturer service center or an‐
-other qualified service center or repair shop
-about the approved wheels and tires for the vehi‐
-cle and the special equipment.
-Safety information
-Warning
-Wheels and tires which are not suitable for your
-vehicle can damage parts of the vehicle, for in‐
-stance due to contact with the body due to tol‐
-erances despite the same official size rating.
-There is a risk of an accident. The manufac‐
-turer of your vehicle strongly suggests that you
-use wheels and tires that have been recom‐
-mended by the vehicle manufacturer for your
-vehicle type.
-Warning
-Mounted steel wheels can cause technical
-problems, for instance unexpected loosening of
-the lug bolts and damage to the brake discs.
-There is a risk of accident. Do not mount steel
-wheels.
-Warning
-Incorrect wheel/tire combinations will impair the
-vehicle's handling characteristics and a variety
-of system functions, such as the Antilock Brak‐
-ing System (ABS) or Dynamic Stability Control.
-There is a risk of accident. To maintain good
-handling and vehicle response, use only tires
-with a single tread configuration from a single
-manufacturer. The manufacturer of the vehicle
-recommends that you use wheels and tires that
-have been recommended by the vehicle manu‐
-facturer for your vehicle type. Following tire
-damage, have the original wheel/tire combina‐
-tion remounted on the vehicle as soon as pos‐
-sible.
-Wheels and tires
-MOBILITY
-321
-Online Edition for Part no. 01405A392C9 - VI/21
+> ⚠️ **Внимание:** | 4_series_g22 | pdf_manual | tier:2 | lang:en | layer:tires | p:321
+>
+> Warning
+> Tires can become damaged by driving over ob‐
+> stacles, e.g., curbs or road damage, at high
+> speed. Larger wheels have a smaller tire crosssection. The smaller the tire cross-section, the
+> higher the risk of tire damage. There may be a
+> risk of accident and risk of damage to property.
+> If possible, avoid driving over objects or road
+> conditions that may damage tires, or drive over
+> them slowly and carefully.
+> Changing wheels and tires
+> Mounting and wheel balancing
+> Have mounting and wheel balancing carried out
+> by a dealer’s service center or another qualified
+> service center or repair shop.
+> Approved wheels and tires
+> General information
+> The following properties are recommended and
+> approved by the manufacturer of the vehicle for
+> the approved wheels and tires per vehicle type
+> and special equipment:
+> ▷Wheel and tire combinations.
+> ▷Rim designs.
+> ▷Tire sizes.
+> ▷Tire brands.
+> You can ask a manufacturer service center or an‐
+> other qualified service center or repair shop
+> about the approved wheels and tires for the vehi‐
+> cle and the special equipment.
+> Safety information
+> Warning
+> Wheels and tires which are not suitable for your
+> vehicle can damage parts of the vehicle, for in‐
+> stance due to contact with the body due to tol‐
+> erances despite the same official size rating.
+> There is a risk of an accident. The manufac‐
+> turer of your vehicle strongly suggests that you
+> use wheels and tires that have been recom‐
+> mended by the vehicle manufacturer for your
+> vehicle type.
+> Warning
+> Mounted steel wheels can cause technical
+> problems, for instance unexpected loosening of
+> the lug bolts and damage to the brake discs.
+> There is a risk of accident. Do not mount steel
+> wheels.
+> Warning
+> Incorrect wheel/tire combinations will impair the
+> vehicle's handling characteristics and a variety
+> of system functions, such as the Antilock Brak‐
+> ing System (ABS) or Dynamic Stability Control.
+> There is a risk of accident. To maintain good
+> handling and vehicle response, use only tires
+> with a single tread configuration from a single
+> manufacturer. The manufacturer of the vehicle
+> recommends that you use wheels and tires that
+> have been recommended by the vehicle manu‐
+> facturer for your vehicle type. Following tire
+> damage, have the original wheel/tire combina‐
+> tion remounted on the vehicle as soon as pos‐
+> sible.
+> Wheels and tires
+> MOBILITY
+> 321
+> Online Edition for Part no. 01405A392C9 - VI/21
 
 ### Recommended tire brands
  | 4_series_g22 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:322
@@ -21857,58 +21860,57 @@ Wheels and tires
 338
 Online Edition for Part no. 01405A392C9 - VI/21
 
-### Warning
- | 4_series_g22 | pdf_manual | tier:2 | lang:en | layer:tires | p:339
-
-Warning
-On soft, uneven or slippery ground, for example
-snow, ice, tiles, etc., the vehicle jack can slip
-away. There is a risk of injury. If possible,
-change the wheel on a flat, solid, and slip-re‐
-sistant surface.
-Warning
-The vehicle jack is optimized for lifting the vehi‐
-cle and for the jacking points on the vehicle
-only. There is a risk of injury. Do not lift any
-other vehicle or cargo using the vehicle jack.
-Warning
-When the vehicle jack is not inserted into the
-jacking point provided for this purpose, the ve‐
-hicle may be damaged or the vehicle jack may
-slip when it is being cranked up. There is a risk
-of injury or risk of damage to property. When
-cranking up the vehicle jack, ensure that it is in‐
-serted in the jacking point next to the wheel
-housing.
-Warning
-A vehicle that is raised on a vehicle jack may fall
-off of the jack if lateral forces are exerted on it.
-There is a risk of injury and risk of damage to
-property. While the vehicle is raised, do not ex‐
-ert lateral forces on the vehicle or pull abruptly
-on the vehicle. Have a stuck wheel removed by
-a dealer’s service center or another qualified
-service center or repair shop.
-Securing the vehicle against
-rolling
-General information
-The vehicle manufacturer recommends to addi‐
-tionally secure the vehicle against rolling away
-when changing a wheel.
-On a level surface
-Place wheel chocks or other suitable objects in
-front and behind the wheel that is diagonal to the
-wheel to be changed.
-On a slight downhill gradient
-If you need to change a wheel on a slight down‐
-hill grade, place chocks and other suitable ob‐
-jects, for instance rocks, under the wheels of
-both the front and rear axles against the rolling
-direction.
-Wheels and tires
-MOBILITY
-339
-Online Edition for Part no. 01405A392C9 - VI/21
+> ⚠️ **Внимание:** | 4_series_g22 | pdf_manual | tier:2 | lang:en | layer:tires | p:339
+>
+> Warning
+> On soft, uneven or slippery ground, for example
+> snow, ice, tiles, etc., the vehicle jack can slip
+> away. There is a risk of injury. If possible,
+> change the wheel on a flat, solid, and slip-re‐
+> sistant surface.
+> Warning
+> The vehicle jack is optimized for lifting the vehi‐
+> cle and for the jacking points on the vehicle
+> only. There is a risk of injury. Do not lift any
+> other vehicle or cargo using the vehicle jack.
+> Warning
+> When the vehicle jack is not inserted into the
+> jacking point provided for this purpose, the ve‐
+> hicle may be damaged or the vehicle jack may
+> slip when it is being cranked up. There is a risk
+> of injury or risk of damage to property. When
+> cranking up the vehicle jack, ensure that it is in‐
+> serted in the jacking point next to the wheel
+> housing.
+> Warning
+> A vehicle that is raised on a vehicle jack may fall
+> off of the jack if lateral forces are exerted on it.
+> There is a risk of injury and risk of damage to
+> property. While the vehicle is raised, do not ex‐
+> ert lateral forces on the vehicle or pull abruptly
+> on the vehicle. Have a stuck wheel removed by
+> a dealer’s service center or another qualified
+> service center or repair shop.
+> Securing the vehicle against
+> rolling
+> General information
+> The vehicle manufacturer recommends to addi‐
+> tionally secure the vehicle against rolling away
+> when changing a wheel.
+> On a level surface
+> Place wheel chocks or other suitable objects in
+> front and behind the wheel that is diagonal to the
+> wheel to be changed.
+> On a slight downhill gradient
+> If you need to change a wheel on a slight down‐
+> hill grade, place chocks and other suitable ob‐
+> jects, for instance rocks, under the wheels of
+> both the front and rear axles against the rolling
+> direction.
+> Wheels and tires
+> MOBILITY
+> 339
+> Online Edition for Part no. 01405A392C9 - VI/21
 
 ### Lug bolt lock
  | 4_series_g22 | pdf_manual | tier:2 | lang:en | layer:tires | p:340
@@ -22571,42 +22573,41 @@ MOBILITY
 351
 Online Edition for Part no. 01405A392C9 - VI/21
 
-### Warning
- | 4_series_g22 | pdf_manual | tier:2 | lang:en | layer:engine | p:352
-
-Warning
-Washer fluid can ignite and catch fire on con‐
-tact with hot engine parts. There is a risk of in‐
-jury or risk of damage to property. Only add
-washer fluid when the engine is cooled down.
-Next, fully close the lid of the washer fluid res‐
-ervoir.
-NOTICE
-Silicon-containing additives in the washer fluid
-for the water-repelling effect on the windows
-can lead to damage to the washing system.
-There is a risk of damage to property, among
-other potential damage. Do not add siliconcontaining additives to the washer fluid.
-NOTICE
-Mixing different windshield washer concen‐
-trates or antifreeze can damage the washing
-system. There is a risk of damage to property,
-among other potential damage. Do not mix dif‐
-ferent windshield washer concentrates or anti‐
-freeze. Follow the information and mixture ra‐
-tios provided on the containers.
-Overview
-The washer fluid reservoir is located in the en‐
-gine compartment.
-Malfunction
-The use of undiluted windshield washer concen‐
-trate or alcohol-based antifreeze can lead to in‐
-correct readings at temperatures below
-+5 ℉/-15 ℃.
-MOBILITY
-Operating materials
-352
-Online Edition for Part no. 01405A392C9 - VI/21
+> ⚠️ **Внимание:** | 4_series_g22 | pdf_manual | tier:2 | lang:en | layer:engine | p:352
+>
+> Warning
+> Washer fluid can ignite and catch fire on con‐
+> tact with hot engine parts. There is a risk of in‐
+> jury or risk of damage to property. Only add
+> washer fluid when the engine is cooled down.
+> Next, fully close the lid of the washer fluid res‐
+> ervoir.
+> NOTICE
+> Silicon-containing additives in the washer fluid
+> for the water-repelling effect on the windows
+> can lead to damage to the washing system.
+> There is a risk of damage to property, among
+> other potential damage. Do not add siliconcontaining additives to the washer fluid.
+> NOTICE
+> Mixing different windshield washer concen‐
+> trates or antifreeze can damage the washing
+> system. There is a risk of damage to property,
+> among other potential damage. Do not mix dif‐
+> ferent windshield washer concentrates or anti‐
+> freeze. Follow the information and mixture ra‐
+> tios provided on the containers.
+> Overview
+> The washer fluid reservoir is located in the en‐
+> gine compartment.
+> Malfunction
+> The use of undiluted windshield washer concen‐
+> trate or alcohol-based antifreeze can lead to in‐
+> correct readings at temperatures below
+> +5 ℉/-15 ℃.
+> MOBILITY
+> Operating materials
+> 352
+> Online Edition for Part no. 01405A392C9 - VI/21
 
 ### Maintenance
  | 4_series_g22 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:353

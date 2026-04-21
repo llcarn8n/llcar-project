@@ -1,8 +1,12 @@
-# Manual: livan/s6_pro (1605 chunks)
-<!-- doc_type:owners_manual tier:2 lang:ru -->
+---
+brand: livan
+model: s6_pro
+generation: s6_2023
+source: kb
+---
+
 
 ### Предисловие
-`livan_s6_pro_ru_f3d0aa65` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 Уважаемый пользователь!
 Спасибо Вам за доверие, оказанное компании LIVAN, и за выбор автомобиля
 марки LIVAN, который обеспечит вам отличные характеристики в области безопасности,
@@ -26,7 +30,6 @@
 особенностями
 
 ### Вашего
-`livan_s6_pro_ru_1bdba5ae` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 автомобиля,
 тем
 больше
@@ -46,14 +49,12 @@
 настоящего Руководства.
 
 ### Руководство содержит
-`livan_s6_pro_ru_76aa2620` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 информацию,
 актуальную на
 момент его
 опубликования.
 
 ### Вследствие
-`livan_s6_pro_ru_acaff1d2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 большого
 разнообразия
 комплектаций
@@ -76,7 +77,6 @@
 данное
 
 ### Руководство
-`livan_s6_pro_ru_72773a47` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:1 | doc_type:owners_manual
 новому
 владельцу.
 Вся
@@ -91,7 +91,6 @@
 ООО «Ливэн Моторс Русе
 
 ### Октябрь
-`livan_s6_pro_ru_7caebd51` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:2 | doc_type:owners_manual
 2023 года
 Авторские права защищены. Без письменного разрешения компании ООО «Ливэн
 Моторс Русе настоящее руководство не может быть воспроизведено или скопировано
@@ -110,7 +109,6 @@
 1
 
 ### Руководство по
-`livan_s6_pro_ru_69592d34` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:3 | doc_type:owners_manual
 эксплуатации
 автомобиля:
 идентификация
@@ -130,7 +128,6 @@
 12 Табличка изготовителя
 
 ### Система контроля и
-`livan_s6_pro_ru_36c66ecb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:3 | doc_type:owners_manual
 управления
 13 Устройства системы контроля и
 управления
@@ -189,7 +186,6 @@
 58 Багажник
 
 ### Система
-`livan_s6_pro_ru_ed33f966` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:4 | doc_type:owners_manual
 кондиционирования
 воздуха
 59 Отопление, вентиляция и
@@ -206,7 +202,6 @@
 70 Система очистки воздуха
 
 ### Сиденья и устройства
-`livan_s6_pro_ru_7291e180` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:4 | doc_type:owners_manual
 защиты
 73 Сиденья
 73 Передние сидения
@@ -253,7 +248,6 @@
 защиты
 
 ### Запуск двигателя и
-`livan_s6_pro_ru_f85dc919` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:5 | doc_type:owners_manual
 вождение
 111 Ключ
 111 Смарт-ключ
@@ -307,7 +301,6 @@
 145 Антиблокировочная система
 
 ### (ABS)
-`livan_s6_pro_ru_b0e7e59b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:5 | doc_type:owners_manual
 146 Электронная система
 контроля устойчивости (ESC)
 146 Усилитель торможения (HBA)
@@ -316,7 +309,6 @@
 147 Антипробуксовочная система
 
 ### (TCS)
-`livan_s6_pro_ru_306bdcec` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:5 | doc_type:owners_manual
 149 Система помощи при парковке
 4
 149 Система парковочных
@@ -331,7 +323,6 @@
 слепых зон (BSD)
 
 ### Неисправности во время
-`livan_s6_pro_ru_ab13245a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:6 | doc_type:owners_manual
 вождения
 161 Устройства предупреждения
 об опасности
@@ -370,12 +361,10 @@
 оперативных служб (ЭРА-
 
 ### ГЛОНАСС)*
-`livan_s6_pro_ru_cde338ed` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:6 | doc_type:owners_manual
 192 Остановка двигателя
 192 Если автомобиль застрял
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_1c0acb1e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:6 | doc_type:owners_manual
 193 Регулярное техническое
 обслуживание
 197 Моторный отсек
@@ -409,14 +398,12 @@
 208 Электроусилитель руля
 
 ### (EPS)
-`livan_s6_pro_ru_e1193395` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:7 | doc_type:owners_manual
 209 Передняя комбинированная
 фара
 209 Запотевание передних
 комбинированных фар
 
 ### 210 АКБ
-`livan_s6_pro_ru_7e8aa088` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:7 | doc_type:owners_manual
 210 Обслуживание АКБ
 211 Проверка АКБ
 211 Замена АКБ
@@ -432,7 +419,6 @@
 216 Очистка салона
 
 ### Технические данные
-`livan_s6_pro_ru_29c36b57` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:7 | doc_type:owners_manual
 219 Основные параметры
 автомобиля
 219 Основные массогабаритные
@@ -460,7 +446,6 @@
 7
 
 ### Руководство
-`livan_s6_pro_ru_89172369` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:9 | doc_type:owners_manual
 по
 эксплуатации
 Предостережение
@@ -471,7 +456,6 @@
 антиблокировочной системой (ABS).
 
 ### В случае экстренного торможения с
-`livan_s6_pro_ru_22c88fa0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:9 | doc_type:owners_manual
 усилием зажмите педаль тормоза до
 полной
 остановки
@@ -479,7 +463,6 @@
 порывистое нажатие не допускается.
 
 ### 2. В
-`livan_s6_pro_ru_1c31b779` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 соответствии
 с
 рекомендациями
@@ -489,7 +472,6 @@
 шин и давления в колесах.
 
 ### 3. Используйте
-`livan_s6_pro_ru_7bd85bdb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 масла
 и
 жидкости,
@@ -507,7 +489,6 @@
 Руководством.
 
 ### 4. В целях безопасности вождения не
-`livan_s6_pro_ru_a0bd11f6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 снимайте
 детали
 и
@@ -525,7 +506,6 @@
 автомобиля.
 
 ### 6. Не
-`livan_s6_pro_ru_55545fcc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 находитесь
 долгое
 время
@@ -542,7 +522,6 @@
 Вашем здоровье.
 
 ### 7. Не
-`livan_s6_pro_ru_9c80c518` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 отдыхайте
 и
 не
@@ -554,7 +533,6 @@
 двигателе.
 
 ### Избегайте
-`livan_s6_pro_ru_ad568c8b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 продолжительной работы двигателя
 на
 холостом
@@ -577,7 +555,6 @@
 опасность Вашей жизни и имуществу.
 
 ### 8. Запрещено
-`livan_s6_pro_ru_edbeda02` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 переоборудование
 или
 установка
@@ -585,7 +562,6 @@
 оборудования.
 
 ### Переоборудование
-`livan_s6_pro_ru_71cd49d6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 или
 установка
 дополнительного
@@ -602,7 +578,6 @@
 нести ответственности.
 
 ### 9. Не
-`livan_s6_pro_ru_377a46d7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:9 | doc_type:owners_manual
 следует
 устанавливать
 устройства, которые могут привести к
@@ -610,7 +585,6 @@
 другого электрооборудования.
 
 ### 10. При
-`livan_s6_pro_ru_026d09c7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 установлении
 дополнительных
 устройств нельзя создавать помех в
@@ -622,7 +596,6 @@
 меры по их устранению.
 
 ### 11. «Инструкция
-`livan_s6_pro_ru_cfaefb15` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:9 | doc_type:owners_manual
 по
 эксплуатации
 мультимедиае, предназначенная для
@@ -640,42 +613,36 @@
 Руководство по эксплуатации автомобиля:идентификация моделей
 8
 
-### Предупреждение
-`livan_s6_pro_ru_42bb95b1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
-Указывает на то, что игнорирование
-данного
-предупреждения
-может
-привести
-к
-серьезным
-травмам
-и
-летальному
-исходу.
+> ⚠️ **Внимание:** Указывает на то, что игнорирование
+> данного
+> предупреждения
+> может
+> привести
+> к
+> серьезным
+> травмам
+> и
+> летальному
+> исходу.
 
 ### Указанные
-`livan_s6_pro_ru_b890967a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 процедуры
 или
 требования
 должны
 строго соблюдаться.
 
-### Внимание
-`livan_s6_pro_ru_1f4ce17e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
-Указывает на то, что несоблюдение
-изложенных
-процедур
-или
-требований
-может
-привести
-к
-повреждению автомобиля.
+> ⚠️ **Внимание:** Указывает на то, что несоблюдение
+> изложенных
+> процедур
+> или
+> требований
+> может
+> привести
+> к
+> повреждению автомобиля.
 
 ### Указывает на данные для лучшего
-`livan_s6_pro_ru_8e4cc608` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 пользования автомобилем.
 Защита окружающей среды
 Указывает
@@ -688,7 +655,6 @@
 окружающей среды.
 
 ### Астериск
-`livan_s6_pro_ru_b0714e9b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 Типографский знак «*еуказывает на то,
 что
 перечисленное
@@ -701,7 +667,6 @@
 определенных моделей автомобиля, и
 
 ### Ваш автомобиль необязательно может
-`livan_s6_pro_ru_7c76808d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 быть ими обеспечен.
 Данные
 о
@@ -710,13 +675,11 @@
 Описание указанного объекта.
 
 ### Направление движения
-`livan_s6_pro_ru_5826a8fa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 указанного объекта.
 Направление вращения
 указанного объекта.
 
 ### Указывает на запрещение такого
-`livan_s6_pro_ru_baa796da` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 действия или возникновения
 такой ситуации.
 Руководство по эксплуатации автомобиля:идентификация моделей
@@ -731,7 +694,6 @@
 9
 
 ### Идентификация
-`livan_s6_pro_ru_75047b7e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 моделей
 автомобиля
 Идентификатор автомобиля
@@ -757,7 +719,6 @@
 коробки передач.
 
 ### 3. Идентификационный
-`livan_s6_pro_ru_9981dc8b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 номер
 транспортного средства (VIN)
 Расположение
@@ -765,7 +726,6 @@
 автомобиля
 
 ### Расположение
-`livan_s6_pro_ru_106c57d3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:11 | doc_type:owners_manual
 номера
 двигателя
 Номер нанесен на блок двигателя, рядом
@@ -795,7 +755,6 @@
 10
 
 ### Расположение
-`livan_s6_pro_ru_b125bb21` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 идентификационного
 кода
 автомобиля (VIN код)
@@ -805,7 +764,6 @@
 виден через него.
 
 ### На перекладине нижней части правого
-`livan_s6_pro_ru_ef7cb4a8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:12 | doc_type:owners_manual
 переднего
 сиденья
 также
@@ -835,7 +793,6 @@
 (код
 
 ### VIN).
-`livan_s6_pro_ru_47c0f86f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 Если
 нанесенный идентификационный код VIN
 на
@@ -849,7 +806,6 @@
 технического обслуживания LIVAN.
 
 ### Идентификационный код автомобиля на
-`livan_s6_pro_ru_738130d9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 табличке изготовителя:
 Идентификационный
 код
@@ -857,7 +813,6 @@
 (код
 
 ### VIN)
-`livan_s6_pro_ru_05fae941` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:12 | doc_type:owners_manual
 состоит
 из
 17
@@ -883,7 +838,6 @@
 11
 
 ### Считывание
-`livan_s6_pro_ru_c7ff8579` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 идентификационного
 кода
 Код
@@ -899,7 +853,6 @@
 Этапы проведения считывания:
 
 ### 1. Перевести
-`livan_s6_pro_ru_5abbdaac` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 зажигание
 в
 положение
@@ -907,7 +860,6 @@ OFF;
 2. Подключить устройство диагностики
 
 ### 3. Включить
-`livan_s6_pro_ru_b674dafe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 программу
 диагностики,
 завести
@@ -917,7 +869,6 @@ OFF;
 «разрешить подключениее;
 
 ### 4. Автоматическое
-`livan_s6_pro_ru_e31e32f7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 считывание
 кода
 VIN.
@@ -928,14 +879,12 @@ VIN.
 технического обслуживания автомобилей
 
 ### Микроволновое
-`livan_s6_pro_ru_33f8c70c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 окно
 автомобиля
 располагается в центре лобового стекла,
 перпендикулярно, примыкая к нему.
 
 ### Электронное лого автомобиля должно
-`livan_s6_pro_ru_2284c37c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:13 | doc_type:owners_manual
 располагаться справа от микроволнового
 окна.
 Оно
@@ -948,7 +897,6 @@ VIN.
 заднего вида, кронштейном датчика и пр.
 
 ### В
-`livan_s6_pro_ru_195af796` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 данном
 лого
 хранится
@@ -958,7 +906,6 @@ VIN.
 автомобиле.
 
 ### Сохраняйте лобовое стекло чистым
-`livan_s6_pro_ru_d45859c9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:13 | doc_type:owners_manual
 и
 сухим.
 Не
@@ -988,7 +935,6 @@ VIN.
 12
 
 ### Табличка изготовителя располагается в
-`livan_s6_pro_ru_6baf6691` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 нижней части центральной стойки справа
 и включает следующие данные:
 •
@@ -1001,7 +947,6 @@ VIN.
 •
 
 ### Знак обращения на рынке
-`livan_s6_pro_ru_e115f80f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 •
 Идентификационный
 номер
@@ -1011,7 +956,6 @@ VIN.
 •
 
 ### Предельный
-`livan_s6_pro_ru_f10cb8aa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 вес
 буксируемого
 прицепа
@@ -1021,7 +965,6 @@ VIN.
 •
 
 ### Максимальная допустимая масса на
-`livan_s6_pro_ru_ba9f7153` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 заднюю ось
 •
 Страна производитель
@@ -1037,13 +980,11 @@ VIN.
 13
 
 ### Устройства
-`livan_s6_pro_ru_f0e57f2f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 системы
 контроля и управления
 Обзор стороны водителя
 
 ### Система контроля и управления
-`livan_s6_pro_ru_5c08723e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:15 | doc_type:owners_manual
 14
 1.
 Внутренняя дверная ручка
@@ -1057,7 +998,6 @@ VIN.
 10.
 
 ### Педаль тормоза
-`livan_s6_pro_ru_07bd320c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:16 | doc_type:owners_manual
 3.
 Комбинированный
 выключатель
@@ -1070,7 +1010,6 @@ VIN.
 4.
 
 ### Кнопка в левой части руля
-`livan_s6_pro_ru_ffd0ae86` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:16 | doc_type:owners_manual
 12.
 Ручка открывания капота
 5.
@@ -1078,7 +1017,6 @@ VIN.
 13.
 
 ### Управление приборной панелью
-`livan_s6_pro_ru_89e3b2b1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:16 | doc_type:owners_manual
 6.
 Приборная панель
 14.
@@ -1088,7 +1026,6 @@ VIN.
 7.
 
 ### Кнопка в правой части руля
-`livan_s6_pro_ru_cb1e5fab` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:16 | doc_type:owners_manual
 15.
 Переключатель
 управления
@@ -1098,7 +1035,6 @@ VIN.
 стеклоочистителей
 
 ### Система контроля и управления
-`livan_s6_pro_ru_b31d63b5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:16 | doc_type:owners_manual
 2
 8
 7
@@ -1115,7 +1051,6 @@ VIN.
 2.
 
 ### Дисплей
-`livan_s6_pro_ru_69fbf066` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:17 | doc_type:owners_manual
 8.
 Переключатель
 управления
@@ -1127,7 +1062,6 @@ VIN.
 3.
 
 ### Центральный дефлектор системы
-`livan_s6_pro_ru_308f3992` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:17 | doc_type:owners_manual
 вентиляции и отопления
 9.
 Перчаточный ящик
@@ -1138,7 +1072,6 @@ VIN.
 10.
 
 ### Кнопка
-`livan_s6_pro_ru_bc2cb597` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:17 | doc_type:owners_manual
 открытия
 перчаточного
 ящика
@@ -1150,7 +1083,6 @@ VIN.
 11.
 
 ### Рычаг переключения передач
-`livan_s6_pro_ru_a995d34e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:17 | doc_type:owners_manual
 6.
 Отверстие для обогрева стекла
 справа
@@ -1160,7 +1092,6 @@ VIN.
 тормоза
 
 ### Система контроля и управления
-`livan_s6_pro_ru_9a4bb841` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 16
 Приборная панель
 Описание приборной панели
@@ -1169,7 +1100,6 @@ VIN.
 3.
 
 ### Указатель
-`livan_s6_pro_ru_1c003077` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:18 | doc_type:owners_manual
 температуры
 охлаждающей жидкости
 2.
@@ -1178,14 +1108,12 @@ VIN.
 Указатель уровня топлива
 
 ### Режим отображения приборной панели можно установить вручную на экране
-`livan_s6_pro_ru_11ed4fe4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:18 | doc_type:owners_manual
 дисплея.
 Изображение приборной панели является схематическим и приведено только для
 ознакомления. Для реального примера ознакомьтесь с приборной панелью
 автомобиля.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_827b5530` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:18 | doc_type:owners_manual
 2
 8
 7
@@ -1201,7 +1129,6 @@ VIN.
 охлаждающей жидкости
 
 ### ON
-`livan_s6_pro_ru_fc641a87` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 указатель
 температуры
 воды
@@ -1210,7 +1137,6 @@ VIN.
 двигателя.
 
 ### Температура
-`livan_s6_pro_ru_de1235e6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:19 | doc_type:owners_manual
 жидкости
 для
 охлаждения
@@ -1223,7 +1149,6 @@ VIN.
 нагрузки на двигатель.
 
 ### Максимальный
-`livan_s6_pro_ru_02182818` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 предел
 температуры
 охлаждающей
@@ -1234,7 +1159,6 @@ H,
 -
 
 ### С.
-`livan_s6_pro_ru_16f10e35` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:19 | doc_type:owners_manual
 Если
 загорается
 индикатор
@@ -1252,7 +1176,6 @@ H,
 обслуживания
 
 ### LIVAN
-`livan_s6_pro_ru_1630f173` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:19 | doc_type:owners_manual
 для
 проведения
 проверки.
@@ -1279,7 +1202,6 @@ H,
 •
 
 ### Резкое
-`livan_s6_pro_ru_1d38fdee` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 снижение
 скорости
 или
@@ -1293,7 +1215,6 @@ H,
 работе двигателя в холостом режиме.
 
 ### Тахометр
-`livan_s6_pro_ru_047c7c47` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 показывает
 число
 оборотов
@@ -1310,7 +1231,6 @@ H,
 топлива.
 
 ### В
-`livan_s6_pro_ru_3fd262d3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 большинстве
 случаев
 при
@@ -1337,7 +1257,6 @@ H,
 серьезному повреждению двигателя.
 
 ### Спидометр отображает текущую скорость
-`livan_s6_pro_ru_a01f1fee` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 автомобиля
 в
 км/ч,
@@ -1345,7 +1264,6 @@ H,
 отображаемое значение 240 км/ч.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_a90a7633` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 18
 При
 хорошем
@@ -1366,7 +1284,6 @@ H,
 120 км/ч
 
 ### Оповещение
-`livan_s6_pro_ru_9c45b042` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 о
 превышении
 скорости
@@ -1381,7 +1298,6 @@ H,
 водителя.
 
 ### Оповещение
-`livan_s6_pro_ru_9c45b042` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 напоминает водителю о необходимости
 снизить
 скорость
@@ -1391,7 +1307,6 @@ H,
 для сигнала о превышении скорости: 30240 км/ч.
 
 ### Указатель уровня топлива
-`livan_s6_pro_ru_407b9abb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 Когда
 замок
 зажигания
@@ -1457,7 +1372,6 @@ H,
 обслуживания
 
 ### LIVAN
-`livan_s6_pro_ru_0adb0df0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 для
 проведения
 проверки.
@@ -1480,21 +1394,18 @@ H,
 Возможная дистанция:
 
 ### Возможная
-`livan_s6_pro_ru_9e929fa4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 дистанция
 указывает
 количество километров, которое можно
 проехать при текущем уровне топлива.
 
 ### Система
-`livan_s6_pro_ru_a6cb7068` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 рассчитывает
 дистанцию
 каждую секунду, интерфейс обновляется
 каждые 10 секунд.
 
 ### Значение
-`livan_s6_pro_ru_352717fe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 возможной
 дистанции
 рассчитывается
@@ -1528,7 +1439,6 @@ H,
 дистанция будет сбрасываться.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_af5fe98f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:20 | doc_type:owners_manual
 2
 8
 7
@@ -1542,7 +1452,6 @@ H,
 Описание дисплея
 
 ### 1. Область отображения часов
-`livan_s6_pro_ru_a53e3233` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 •
 Часы:
 по
@@ -1563,7 +1472,6 @@ H,
 2.
 
 ### Область
-`livan_s6_pro_ru_cc1dde5f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 отображения
 температуры снаружи машины
 •
@@ -1572,7 +1480,6 @@ H,
 отображаемый диапазон -40°С~60°С.
 
 ### 3. Область отображения передачи
-`livan_s6_pro_ru_b068af3d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:21 | doc_type:owners_manual
 •
 Текущее
 положение
@@ -1587,7 +1494,6 @@ H,
 передачи: P, R, N, D.
 
 ### 4. Область отображения меню
-`livan_s6_pro_ru_6a84a48e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 •
 Отображается
 мгновенный
@@ -1604,7 +1510,6 @@ Trip
 шинах,
 
 ### Settings
-`livan_s6_pro_ru_2779c2d2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 (настройки
 автомобиля)
 и
@@ -1614,7 +1519,6 @@ Trip
 5.
 
 ### Область
-`livan_s6_pro_ru_cc1dde5f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:21 | doc_type:owners_manual
 отображения
 информации о текущих функциях
 •
@@ -1623,7 +1527,6 @@ Trip
 информации.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_ddc63b0e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:21 | doc_type:owners_manual
 20
 Настройка дисплея
 Не
@@ -1644,7 +1547,6 @@ Trip
 руле.
 
 ### 1. Кнопка
-`livan_s6_pro_ru_049508e6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:22 | doc_type:owners_manual
 главной
 страницы:
 коротко
@@ -1658,7 +1560,6 @@ Trip
 .
 
 ### 2. Кнопка
-`livan_s6_pro_ru_791db417` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 выбора/подтверждения:
 кратковременно нажмите эту кнопку,
 чтобы
@@ -1698,7 +1599,6 @@ Trip
 времени.
 
 ### 3. Правая
-`livan_s6_pro_ru_9f066f89` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 кнопка
 выбора:
 коротко
@@ -1707,7 +1607,6 @@ Trip
 приборной панели.
 
 ### 4. Кнопка
-`livan_s6_pro_ru_ea8bb688` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:22 | doc_type:owners_manual
 переключения:
 коротко
 нажмите
@@ -1724,7 +1623,6 @@ Trip
 панелью и экраном.
 
 ### 5. Левая
-`livan_s6_pro_ru_10f798b7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 кнопка
 выбора:
 коротко
@@ -1733,7 +1631,6 @@ Trip
 приборной панели.
 
 ### Подсказки
-`livan_s6_pro_ru_2e5f94e9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:22 | doc_type:owners_manual
 и
 оповещения
 на
@@ -1771,7 +1668,6 @@ Trip
 оповещений в меню приборной панели.
 
 ### Оповещение
-`livan_s6_pro_ru_86c5f854` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 исчезнет
 только
 после
@@ -1788,7 +1684,6 @@ Trip
 21
 
 ### Водитель
-`livan_s6_pro_ru_c2ae4ebd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 должен
 серьезно
 относиться ко всем оповещениям.
@@ -1808,7 +1703,6 @@ Trip
 повреждению автомобиля или травмам.
 
 ### Настройки
-`livan_s6_pro_ru_ff27e205` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 интерфейса
 бортового компьютера
 После
@@ -1819,7 +1713,6 @@ Trip
 зафиксированные данные.
 
 ### В интерфейсе промежуточного общего
-`livan_s6_pro_ru_2cce57bb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 пробега или текущего пробега бортового
 компьютера
 нажмите
@@ -1828,7 +1721,6 @@ Trip
 кнопку
 
 ### TRIP
-`livan_s6_pro_ru_c872fe6d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 в
 левом
 краю
@@ -1838,7 +1730,6 @@ Trip
 бортовом компьютере.
 
 ### Компьютерная информация о
-`livan_s6_pro_ru_4a25db18` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 трафике
 Мнгновенный расход топлива
 При эксплуатации автомобиля частота
@@ -1862,7 +1753,6 @@ Trip
 →
 
 ### Настройка
-`livan_s6_pro_ru_7a40be73` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 единиц
 измерения. В этом интерфейсе единицу
 измерения
@@ -1873,7 +1763,6 @@ Trip
 галлон
 
 ### (США)
-`livan_s6_pro_ru_4621e565` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 или
 миля
 на
@@ -1889,7 +1778,6 @@ Trip
 расхода топлива.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_a9a0df8d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 22
 Short Trip (короткая поездка)
 Если с момента последнего выключения
@@ -1908,7 +1796,6 @@ Short Trip (короткая поездка)
 Trip (короткая поездка), следующие:
 
 ### 1. Trip (поездка): промежуточный пробег
-`livan_s6_pro_ru_c7b3cafb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 Short
 Trip
 (короткой
@@ -1932,7 +1819,6 @@ Trip
 «кме и «миляе в настройках меню.
 
 ### 2. Расход времени
-`livan_s6_pro_ru_2871135a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:24 | doc_type:owners_manual
 : после проверки
 на запуск двигателя начинается учет
 времени вождения в коротком цикле.
@@ -1957,7 +1843,6 @@ Trip
 времени.
 
 ### Максимальное отображаемое время
-`livan_s6_pro_ru_013b3ede` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 вождения составляет 999:59 часов.
 3. Avg: средний расход топлива в Short
 Trip (короткой поездке) по умолчанию
@@ -1998,7 +1883,6 @@ Trip (короткой поездке) по умолчанию
 расчета.
 
 ### Количество впрыскиваемого топлива
-`livan_s6_pro_ru_2ae999c0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 на холостом ходу накапливается до
 момента
 однократного
@@ -2006,7 +1890,6 @@ Trip (короткой поездке) по умолчанию
 топлива.
 
 ### Единицу
-`livan_s6_pro_ru_b9bd9544` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 расхода
 топлива
 можно
@@ -2015,7 +1898,6 @@ Trip (короткой поездке) по умолчанию
 галлон (Великобритания).
 
 ### 4. Средняя скорость
-`livan_s6_pro_ru_b57a4093` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 : рассчитывается
 средняя скорость короткой поездки
 после
@@ -2027,14 +1909,12 @@ Trip (короткой поездке) по умолчанию
 автомобиль стоит.
 
 ### Единицу
-`livan_s6_pro_ru_b9bd9544` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 измерения
 можно
 переключать между км/ч и милями в
 час через меню.
 
 ### Использование различных стилей
-`livan_s6_pro_ru_fd224349` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:24 | doc_type:owners_manual
 вождения
 приводит
 к
@@ -2074,7 +1954,6 @@ Long Trip (долгая поездка) отображает
 Trip (долгая поездка), следующие:
 
 ### 1. Trip
-`livan_s6_pro_ru_712d36e7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 (поездка):
 этот
 интерфейс
@@ -2103,7 +1982,6 @@ Trip (долгая поездка), следующие:
 настройках меню.
 
 ### 2. Расход времени
-`livan_s6_pro_ru_2cc81b51` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:25 | doc_type:owners_manual
 : после проверки
 на запуск двигателя начинается учет
 времени вождения в Long Trip (долгая
@@ -2123,7 +2001,6 @@ Trip (долгая поездка), следующие:
 начала.
 
 ### Максимальное отображаемое время
-`livan_s6_pro_ru_3e431d48` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 вождения составляет 999:59 часов.
 3. Avg: средний расход топлива в Long
 Trip (долгая поездка) по умолчанию
@@ -2179,7 +2056,6 @@ Trip (долгая поездка) по умолчанию
 расход топлива.
 
 ### После каждого включения зажигания
-`livan_s6_pro_ru_8aa1805a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 для отображения среднего расхода
 топлива
 используются
@@ -2188,7 +2064,6 @@ Trip (долгая поездка) по умолчанию
 последней поездки.
 
 ### 4. Средняя скорость
-`livan_s6_pro_ru_89e61767` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 : после запуска
 двигателя
 рассчитывается
@@ -2196,13 +2071,11 @@ Trip (долгая поездка) по умолчанию
 скорость Long Trip (долгая поездка).
 
 ### Система контроля и управления
-`livan_s6_pro_ru_e7f38197` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:25 | doc_type:owners_manual
 24
 Когда двигатель останавливается или
 глохнет, расчет приостанавливается.
 
 ### Использование различных стилей
-`livan_s6_pro_ru_baf07f18` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:26 | doc_type:owners_manual
 вождения
 приводит
 к
@@ -2225,7 +2098,6 @@ Trip (долгая поездка) по умолчанию
 «Запуск двигателя и вождениее.
 
 ### Давление
-`livan_s6_pro_ru_a693abea` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:26 | doc_type:owners_manual
 и
 температура
 шин
@@ -2245,7 +2117,6 @@ Settings (настройки автомобиля)] →[Unit
 (блок)].
 
 ### В
-`livan_s6_pro_ru_d7f0653b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 этом
 интерфейсе
 единица
@@ -2263,41 +2134,38 @@ Settings (настройки автомобиля)] →[Unit
 С или °F.
 •
 
-### Предупреждение
-`livan_s6_pro_ru_a5b3c6f1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:26 | doc_type:owners_manual
-о
-высокой
-температуре шин, утечке воздуха из
-них и
-низком заряде аккумулятора
-датчика
-При
-срабатывании
-оповещения
-о
-высокой
-температуре
-шины,
-утечке
-воздуха из шины и низком заряде
-аккумулятора
-датчика
-соответствующий
-световой
-сигнал
-начнет
-мигать
-в
-сопровождении
-звукового,
-в
-интерфейсе
-появятся
-текстовые подсказки.
-•
+> ⚠️ **Внимание:** о
+> высокой
+> температуре шин, утечке воздуха из
+> них и
+> низком заряде аккумулятора
+> датчика
+> При
+> срабатывании
+> оповещения
+> о
+> высокой
+> температуре
+> шины,
+> утечке
+> воздуха из шины и низком заряде
+> аккумулятора
+> датчика
+> соответствующий
+> световой
+> сигнал
+> начнет
+> мигать
+> в
+> сопровождении
+> звукового,
+> в
+> интерфейсе
+> появятся
+> текстовые подсказки.
+> •
 
 ### Оповещение
-`livan_s6_pro_ru_1bb504b6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:26 | doc_type:owners_manual
 о
 низком
 давлении
@@ -2325,7 +2193,6 @@ Settings (настройки автомобиля)] →[Unit
 звуковым.
 
 ### В
-`livan_s6_pro_ru_d7f0653b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 некоторых
 моделях
 автомобилей
@@ -2349,7 +2216,6 @@ Settings (настройки автомобиля)] →[Unit
 •
 
 ### Оповещение
-`livan_s6_pro_ru_1bb504b6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:26 | doc_type:owners_manual
 о
 неисправности
 системы
@@ -2370,7 +2236,6 @@ Settings (настройки автомобиля)] →[Unit
 ситуации, сопровождаемой звуковым
 
 ### Система контроля и управления
-`livan_s6_pro_ru_f97f2b94` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 2
 8
 7
@@ -2416,7 +2281,6 @@ Settings (настройки автомобиля)] →[Unit
 проведения диагностики!
 
 ### Лампы не выключены
-`livan_s6_pro_ru_1b3583ee` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:27 | doc_type:owners_manual
 Когда
 пусковой
 переключатель
@@ -2438,7 +2302,6 @@ Settings (настройки автомобиля)] →[Unit
 аккумулятора.
 
 ### При выходе из машины выключайте
-`livan_s6_pro_ru_724d3587` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:27 | doc_type:owners_manual
 все
 фары,
 чтобы
@@ -2449,7 +2312,6 @@ Settings (настройки автомобиля)] →[Unit
 невозможномсти запуска двигателя.
 
 ### Уведомление
-`livan_s6_pro_ru_b1320076` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:27 | doc_type:owners_manual
 о
 не
 закрытой
@@ -2471,7 +2333,6 @@ Settings (настройки автомобиля)] →[Unit
 время движения автомобиля.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_120e5098` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:27 | doc_type:owners_manual
 26
 Информация меню
 Меню первого
@@ -2480,7 +2341,6 @@ Settings (настройки автомобиля)] →[Unit
 уровня
 
 ### Меню третьего
-`livan_s6_pro_ru_83f57af2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 уровня
 Меню четвертого
 уровня
@@ -2498,7 +2358,6 @@ Binding (Привязка
 □Sport (Спорт)
 
 ### Overspeed
-`livan_s6_pro_ru_165a151b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 warning
 (Предупрежде
 ние о
@@ -2514,14 +2373,12 @@ warning
 □Off (Выключить)
 
 ### Громкость
-`livan_s6_pro_ru_ef5ac9f7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 оповещений
 □High (Высокая)
 □Middle (Средняя)
 □Low (Низкая)
 
 ### Service Info
-`livan_s6_pro_ru_ddfc7d18` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 (сервисная
 информация)
 10000 км или 360
@@ -2535,7 +2392,6 @@ warning
 Language (язык)
 
 ### English
-`livan_s6_pro_ru_f2318ab4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 (английский)
 Russian (русский)
 Spanish
@@ -2543,7 +2399,6 @@ Spanish
 Arabic (арабский)
 
 ### Система контроля и управления
-`livan_s6_pro_ru_9041148c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 2
 8
 7
@@ -2559,7 +2414,6 @@ Arabic (арабский)
 уровня
 
 ### Меню третьего
-`livan_s6_pro_ru_1e093101` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 уровня
 Меню четвертого
 уровня
@@ -2581,7 +2435,6 @@ Unit (Единицы)
 (Температура)
 
 ### □°F
-`livan_s6_pro_ru_5cdb1222` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 □Pressure
 (Давление)
 □фунт на квадратный
@@ -2600,13 +2453,11 @@ Unit (Единицы)
 □миль, миль на галлон
 
 ### (США)
-`livan_s6_pro_ru_7c5f0161` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 □миль, миль на галлон
 (Великобритания)
 Настройки меню
 
 ### Коротко нажмите кнопку меню на правой
-`livan_s6_pro_ru_d7c7a3a2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 стороне руля,
 а затем нажмите кнопку
 выбора/подтверждения,
@@ -2617,7 +2468,6 @@ Unit (Единицы)
 управлять приборной панелью.
 
 ### 1. Переключение меню
-`livan_s6_pro_ru_ffaba210` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 •
 После открытия меню приборной
 панели переключите отображение
@@ -2627,7 +2477,6 @@ Unit (Единицы)
 кнопке руля.
 
 ### 2. Выбор меню
-`livan_s6_pro_ru_2e93008b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:29 | doc_type:owners_manual
 •
 После
 активации
@@ -2637,7 +2486,6 @@ Unit (Единицы)
 кнопку
 
 ### Система контроля и управления
-`livan_s6_pro_ru_baf97cc2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:29 | doc_type:owners_manual
 28
 выбора/подтверждения на правой
 стороне руля вверх/вниз, чтобы
@@ -2651,7 +2499,6 @@ Unit (Единицы)
 установить функцию.
 
 ### 3. Состояние выбора
-`livan_s6_pro_ru_b3321d24` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 •
 Когда
 пункт
@@ -2662,7 +2509,6 @@ Unit (Единицы)
 •
 
 ### Нажмите
-`livan_s6_pro_ru_d17cbc6a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 кнопку
 выбора/
 подтверждения,
@@ -2693,7 +2539,6 @@ Unit (Единицы)
 автоматически закроется.
 
 ### Что необходимо знать о настройках
-`livan_s6_pro_ru_b425427d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 меню
 •
 После входа в интерфейс меню строка
@@ -2701,7 +2546,6 @@ Unit (Единицы)
 •
 
 ### Если пунктов меню слишком много и
-`livan_s6_pro_ru_dc1da917` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:30 | doc_type:owners_manual
 они
 не
 помещаются
@@ -2735,7 +2579,6 @@ Unit (Единицы)
 •
 
 ### Происходит переход от меню более
-`livan_s6_pro_ru_d4333fb2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 верхнего
 уровня
 к
@@ -2750,7 +2593,6 @@ Unit (Единицы)
 закроется.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_53f3439e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 2
 8
 7
@@ -2769,7 +2611,6 @@ Unit (Единицы)
 индикаторных ламп
 
 ### Краткие
-`livan_s6_pro_ru_0730f6a9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:31 | doc_type:owners_manual
 сведения
 о
 сигнальных
@@ -2780,14 +2621,12 @@ Unit (Единицы)
 ие
 
 ### Включение левого
-`livan_s6_pro_ru_1d34fce1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 указателя поворота
 Правый указатель поворота
 Включение правого
 указателя поворота
 
 ### Индикаторная лампа фар дальнего
-`livan_s6_pro_ru_47ba3f85` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:31 | doc_type:owners_manual
 света
 Включение фар дальнего
 света
@@ -2795,26 +2634,22 @@ Unit (Единицы)
 противотуманных фар
 
 ### Включение задних
-`livan_s6_pro_ru_e0ca17fb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:31 | doc_type:owners_manual
 противотуманных фар
 Сигнальная лампа неисправности
 антиблокировочной системы (ABS)
 
 ### Неисправность
-`livan_s6_pro_ru_30572105` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:31 | doc_type:owners_manual
 антиблокировочной
 системы
 Сигнальная лампа неисправности EBD
 
 ### Неисправность
-`livan_s6_pro_ru_30572105` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:31 | doc_type:owners_manual
 электронного
 распределения тормозных
 Система контроля и управления
 30
 
 ### Изображен
-`livan_s6_pro_ru_f48690ce` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:32 | doc_type:owners_manual
 ие
 Наименование
 Инструкции
@@ -2823,7 +2658,6 @@ Unit (Единицы)
 тормозной системы
 
 ### Неисправность тормозной
-`livan_s6_pro_ru_6fb0ed61` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:32 | doc_type:owners_manual
 системы
 Сигнальная лампа стояночного тормоза
 Включена функция
@@ -2831,33 +2665,28 @@ Unit (Единицы)
 тормоза
 
 ### Включена автоматическая
-`livan_s6_pro_ru_06fc4d6f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:32 | doc_type:owners_manual
 парковка (AUTO HOLD)
 Сигнальная лампа неисправности
 электрического стояночного тормоза
 
 ### Неисправность
-`livan_s6_pro_ru_6c62acfb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:32 | doc_type:owners_manual
 электрического стояночного
 тормоза (EPB)
 Индикаторная лампа состояния
 автоматической парковки (AVH)
 
 ### Включена функция
-`livan_s6_pro_ru_f0631298` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:32 | doc_type:owners_manual
 автоматической парковки
 (AVH)
 Неисправность
 автоматической парковки
 
 ### Сигнальная лампа неисправности
-`livan_s6_pro_ru_4b7ba862` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:32 | doc_type:owners_manual
 подушки безопасности
 Неисправность системы
 подушки безопасности
 
 ### Сигнальная лампа непристегнутого
-`livan_s6_pro_ru_0e2df2b7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:32 | doc_type:owners_manual
 ремня безопасности переднего сиденья
 Передний ремень
 безопасности не пристегнут,
@@ -2865,13 +2694,11 @@ Unit (Единицы)
 ремень безопасности
 
 ### Сигнальная лампа неисправности
-`livan_s6_pro_ru_4b7ba862` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:32 | doc_type:owners_manual
 двигателя связанная с экологией
 Неисправность выхлопной
 системы двигателя
 
 ### Сигнальная лампа неисправности
-`livan_s6_pro_ru_4b7ba862` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:32 | doc_type:owners_manual
 системы двигателя
 Неисправность систем
 двигателя
@@ -2880,7 +2707,6 @@ Unit (Единицы)
 устойчивости (ESC)
 
 ### Неисправность системы
-`livan_s6_pro_ru_9f524955` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:32 | doc_type:owners_manual
 электронного контроля
 устойчивости (ESC)
 Индикаторная лампа выключения
@@ -2888,7 +2714,6 @@ Unit (Единицы)
 устойчивости (ESC)
 
 ### Выключение системы
-`livan_s6_pro_ru_e52f5bd2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:32 | doc_type:owners_manual
 электронного контроля
 устойчивости (ESC)
 Система контроля и управления
@@ -2903,7 +2728,6 @@ Unit (Единицы)
 31
 
 ### Изображен
-`livan_s6_pro_ru_2528e757` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 ие
 Наименование
 Инструкции
@@ -2911,27 +2735,23 @@ Unit (Единицы)
 температуры охлаждающей жидкости
 
 ### Высокая температура в
-`livan_s6_pro_ru_47f05fe9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 двигателе
 Сигнальная лампа низкого уровня
 топлива
 Низкий уровень топлива
 
 ### Сигнальная лампа низкого давления
-`livan_s6_pro_ru_c0c24d5b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 масла
 Низкое давление масла
 Сигнальная лампа неисправности
 системы зарядки аккумулятора
 
 ### Система зарядки
-`livan_s6_pro_ru_870e62b3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 аккумулятора неисправна
 Индикаторная лампа круиз-контроля
 Активация круиз-контроля
 
 ### Сигнальная лампа не нормального
-`livan_s6_pro_ru_6934ae82` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 давления в шинах (TPMS)
 Неисправность системы
 контроля давления в шинах
@@ -2939,7 +2759,6 @@ Unit (Единицы)
 шинах
 
 ### Сигнальная лампа неисправности
-`livan_s6_pro_ru_5b095264` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 коробки передач
 Неисправность коробки
 передач
@@ -2947,7 +2766,6 @@ Unit (Единицы)
 коробки передач
 
 ### Ухудшение характеристик
-`livan_s6_pro_ru_247580e0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:33 | doc_type:owners_manual
 коробки передач
 Сигнальная лампа неисправности
 системы электроусиления рулевого
@@ -2958,13 +2776,11 @@ Unit (Единицы)
 рулевого управления
 
 ### Включение габаритных
-`livan_s6_pro_ru_aed241f2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 огней
 Индикаторная лампа эко-режима
 Включение эко-режима
 
 ### Индикаторная лампа спортивного
-`livan_s6_pro_ru_b54b9e91` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 режима
 Включение спортивного
 режима
@@ -2972,7 +2788,6 @@ Unit (Единицы)
 света
 
 ### Включение фар ближнего
-`livan_s6_pro_ru_086f5b07` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 света
 Индикаторная лампа фар ближнего
 света
@@ -2980,7 +2795,6 @@ Unit (Единицы)
 ближнего света
 
 ### Система контроля и управления
-`livan_s6_pro_ru_3e4cca2c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 32
 Изображен
 ие
@@ -2989,19 +2803,16 @@ Unit (Единицы)
 Индикаторная лампа усталости
 
 ### Напоминание об усталости
-`livan_s6_pro_ru_ad990f9a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 от вождения, необходим
 отдых
 Сигнальная лампа неисправности
 
 ### Имеются неразрешенные
-`livan_s6_pro_ru_6f095149` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 текстовые сигналы тревоги,
 активируется сигнальная
 лампа неисправности.
 
 ### Индикаторная лампа системы запуска и
-`livan_s6_pro_ru_b814ce0d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:34 | doc_type:owners_manual
 остановки двигателя
 Система запуска и
 остановки двигателя
@@ -3016,7 +2827,6 @@ Unit (Единицы)
 серьезным травмам или повреждению имущества.
 
 ### Когда индикаторная лампа предупреждения продолжает гореть красным после
-`livan_s6_pro_ru_72a5aa55` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 запуска или когда сигнальная лампа горит красным во время движения, это
 указывает
 на
@@ -3028,7 +2838,6 @@ Unit (Единицы)
 обратитесь в центр технического обслуживания LIVAN для проведения диагностики.
 
 ### Черные изображения в таблице будут отображаться белого цвета на экране
-`livan_s6_pro_ru_db0e6942` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:34 | doc_type:owners_manual
 приборной панели.
 Система контроля и управления
 2
@@ -3042,7 +2851,6 @@ Unit (Единицы)
 33
 
 ### Комбинированный
-`livan_s6_pro_ru_0b33a2e6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:35 | doc_type:owners_manual
 переключатель
 освещения
 и
@@ -3051,7 +2859,6 @@ Unit (Единицы)
 выключатель освещения
 
 ### 1. Переключатель
-`livan_s6_pro_ru_c83a7669` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:35 | doc_type:owners_manual
 управления
 освещением
 2. Переключатель
@@ -3059,7 +2866,6 @@ Unit (Единицы)
 противотуманных фар
 
 ### 3. Ручка
-`livan_s6_pro_ru_804d11ef` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 переключателя
 освещения
 (управление
@@ -3073,7 +2879,6 @@ Unit (Единицы)
 поворотниками)
 
 ### Управление комбинированным
-`livan_s6_pro_ru_b4d9ad3b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:35 | doc_type:owners_manual
 переключателем освещения
 Габаритные огни
 Поворачивайте
@@ -3081,7 +2886,6 @@ Unit (Единицы)
 управления освещением в направлении
 
 ### А вплоть до
-`livan_s6_pro_ru_fa51d703` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 отметки
 , загорятся
 габаритные
@@ -3091,7 +2895,6 @@ Unit (Единицы)
 подсветки.
 
 ### Поворачивайте
-`livan_s6_pro_ru_7290388b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 переключатель
 управления освещением в направлении
 В вплоть до
@@ -3099,7 +2902,6 @@ Unit (Единицы)
 габаритные огни и лампа подсветки.
 
 ### Установите
-`livan_s6_pro_ru_472fdfd6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -3124,7 +2926,6 @@ ON
 огни.
 
 ### Поворачивайте
-`livan_s6_pro_ru_7290388b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:35 | doc_type:owners_manual
 переключатель управления освещением
 в направлении B до тех пор, пока стрелка
 не
@@ -3133,7 +2934,6 @@ ON
 отметку
 
 ### O,
-`livan_s6_pro_ru_2ec41664` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 фары
 ближнего света будут отключены.
 Переключение
@@ -3143,7 +2943,6 @@ ON
 ближнего света
 
 ### Установите
-`livan_s6_pro_ru_472fdfd6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:35 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -3154,7 +2953,6 @@ ON
 фары
 
 ### Система контроля и управления
-`livan_s6_pro_ru_dd70a575` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 34
 ближнего света, переместите рукоятку
 переключателя
@@ -3180,14 +2978,12 @@ ON
 направлении
 
 ### C,
-`livan_s6_pro_ru_b20248c0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 чтобы
 выключить
 дальний свет.
 Мигание фар дальнего света
 
 ### Переместите
-`livan_s6_pro_ru_b2325d4a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 ручку
 переключателя
 освещения в направлении F в крайнее
@@ -3202,7 +2998,6 @@ ON
 выключится.
 
 ### Установите
-`livan_s6_pro_ru_a6ebd1ef` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -3216,7 +3011,6 @@ ON,
 направлении
 
 ### E,
-`livan_s6_pro_ru_8aaf80c8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:36 | doc_type:owners_manual
 левый
 индикатор
 рулевого
@@ -3231,7 +3025,6 @@ ON,
 положение, сигнал поворота выключится.
 
 ### D,
-`livan_s6_pro_ru_444b1c78` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:36 | doc_type:owners_manual
 правый
 индикатор
 рулевого
@@ -3240,7 +3033,6 @@ ON,
 мигать.
 
 ### После завершения рулевого управления
-`livan_s6_pro_ru_139d4c5a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:36 | doc_type:owners_manual
 ручка
 переключателя
 освещения
@@ -3248,7 +3040,6 @@ ON,
 положение, сигнал поворота выключится.
 
 ### Установите
-`livan_s6_pro_ru_a6ebd1ef` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -3263,14 +3054,12 @@ ON,
 направлении
 
 ### D
-`livan_s6_pro_ru_a72b343c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 или
 E,
 индикатор правого или левого поворота
 мигнет 3 раза.
 
 ### Поворачивайте
-`livan_s6_pro_ru_8aa6daa2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 переключатель
 управления освещением в направлении
 A до тех пор, пока стрелка не укажет
@@ -3278,7 +3067,6 @@ A до тех пор, пока стрелка не укажет
 положение
 
 ### AUTO,
-`livan_s6_pro_ru_1acc6046` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 будет
 включена
 функция
@@ -3299,7 +3087,6 @@ A до тех пор, пока стрелка не укажет
 освещения.
 
 ### Система
-`livan_s6_pro_ru_70c1f3e7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 автоматического
 освещения
 может
@@ -3324,7 +3111,6 @@ A до тех пор, пока стрелка не укажет
 габаритные огни и фары ближнего света.
 
 ### Система имеет функцию ручного
-`livan_s6_pro_ru_3f5fab0b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 приоритета
 в
 автоматическом
@@ -3333,7 +3119,6 @@ A до тех пор, пока стрелка не укажет
 режима автоматического освещения.
 
 ### Когда включена фара ближнего света или
-`livan_s6_pro_ru_4e4b8282` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 автоматическое
 освещение,
 нажмите
@@ -3342,7 +3127,6 @@ A до тех пор, пока стрелка не укажет
 задней
 
 ### Система контроля и управления
-`livan_s6_pro_ru_f93d71bc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 2
 8
 7
@@ -3362,7 +3146,6 @@ A до тех пор, пока стрелка не укажет
 фару.
 
 ### Когда пусковой переключатель находится
-`livan_s6_pro_ru_d295a35d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 в
 положении
 ON,
@@ -3380,7 +3163,6 @@ ON,
 передних фар
 
 ### 1. Ручка регулировки высоты передних
-`livan_s6_pro_ru_c504c759` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 фар
 Данная
 ручка
@@ -3390,7 +3172,6 @@ ON,
 фар.
 
 ### Ручка регулировки высоты передних фар
-`livan_s6_pro_ru_820b7692` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:37 | doc_type:owners_manual
 имеет четыре положения: 0, 1, 2 и 3.
 Установите
 положение
@@ -3426,7 +3207,6 @@ ON,
 движущихся с встречной стороны.
 
 ### Включение дневных ходовых огней
-`livan_s6_pro_ru_8c9df3a8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 После
 запуска
 двигателя
@@ -3442,7 +3222,6 @@ ON,
 дальнего света.
 
 ### Дневные
-`livan_s6_pro_ru_029fb9b5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 ходовые
 огни
 автоматически
@@ -3452,14 +3231,12 @@ ON,
 •
 
 ### Включение фар ближнего света
-`livan_s6_pro_ru_3c9864d7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 •
 Включение фар дальнего света
 Система контроля и управления
 36
 
 ### Проводи меня домой
-`livan_s6_pro_ru_5c973528` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 Включение функции «Проводи меня
 домойе
 В течение 10 минут после включения
@@ -3468,13 +3245,11 @@ ON,
 положение
 
 ### OFF
-`livan_s6_pro_ru_e0bf1e74` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 быстро
 переведите переключатель освещения из
 положения O в положение, отличное от
 
 ### O,
-`livan_s6_pro_ru_d9e5069c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:38 | doc_type:owners_manual
 а
 затем
 верните
@@ -3491,13 +3266,11 @@ O.
 домойе
 
 ### При выполнении любого из следующих
-`livan_s6_pro_ru_365762e0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 условий функция «Проводи меня домойе
 будет отключена:
 •
 
 ### Пусковой переключатель не находится
-`livan_s6_pro_ru_b727df0f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:38 | doc_type:owners_manual
 в положении OFF.
 •
 Истечение времени.
@@ -3507,7 +3280,6 @@ O.
 переключатель света в положение не
 
 ### О.
-`livan_s6_pro_ru_7646676b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:38 | doc_type:owners_manual
 Время действия функции «Проводи
 меня домойе
 Время действия функции «Проводи меня
@@ -3518,7 +3290,6 @@ O.
 мультимедиа.
 
 ### Комбинированный
-`livan_s6_pro_ru_f35d9fe2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 переключатель
 стеклоочистителя
 Комбинированный
@@ -3526,7 +3297,6 @@ O.
 стеклоочистителей
 
 ### 1. Ручка
-`livan_s6_pro_ru_009d2965` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 управления
 стеклоочистителями
 2. Ручка
@@ -3555,7 +3325,6 @@ O.
 стеклоочистителей.
 
 ### Если на ветровом стекле есть пыль или
-`livan_s6_pro_ru_67341787` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 гравий, пожалуйста, очистите его перед
 использованием
 стеклоочистителей,
@@ -3569,7 +3338,6 @@ O.
 стеклоочистителей.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_2cd41a6e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 2
 8
 7
@@ -3584,7 +3352,6 @@ O.
 стеклоочистителей
 
 ### Кратковременное
-`livan_s6_pro_ru_4d84945a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 движение
 передних стеклоочистителей
 Переместите
@@ -3599,7 +3366,6 @@ O.
 стеклоочистителями.
 
 ### Рукоятка управления стеклоочистителем
-`livan_s6_pro_ru_f322266c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 автоматически возвратится в положение
 O,
 стеклоочистители
@@ -3607,7 +3373,6 @@ O,
 толчками.
 
 ### Выключение стеклоочистителей
-`livan_s6_pro_ru_568199e6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 Когда
 ручка
 управления
@@ -3617,7 +3382,6 @@ O,
 положении
 
 ### O,
-`livan_s6_pro_ru_78060e64` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 стеклоочистители
 выключатся.
 Прерывистое
@@ -3625,7 +3389,6 @@ O,
 стеклоочистителей
 
 ### Переместите
-`livan_s6_pro_ru_cbfd6650` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 рукоятку
 управления
 стеклоочистителями в направлении A в
@@ -3633,7 +3396,6 @@ O,
 выполнять прерывистое движение.
 
 ### Скорость
-`livan_s6_pro_ru_d2bfd2b1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 работы
 стеклоочистителей
 можно
@@ -3653,7 +3415,6 @@ O,
 изменилась с быстрой на медленную.
 
 ### Движение
-`livan_s6_pro_ru_3d8b2816` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 стеклоочистителей
 с
 низкой скоростью
@@ -3671,7 +3432,6 @@ O,
 низкой скорости.
 
 ### Движение
-`livan_s6_pro_ru_3d8b2816` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 стеклоочистителей
 с
 высокой скоростью
@@ -3696,7 +3456,6 @@ O,
 положение
 
 ### OFF,
-`livan_s6_pro_ru_4fe072fe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 с
 помощью
 рукоятки
@@ -3708,7 +3467,6 @@ O,
 направлении
 
 ### B
-`livan_s6_pro_ru_8899d4cf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 в
 положение
 и удерживайте более 2
@@ -3722,7 +3480,6 @@ O,
 цикле зажигания.
 
 ### Переместите
-`livan_s6_pro_ru_cbfd6650` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 ручку
 управления
 стеклоочистителями в направлении D,
@@ -3740,7 +3497,6 @@ O,
 воду.
 
 ### После очистки стеклоочистители будут
-`livan_s6_pro_ru_b5b1307b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 продолжать
 движение в течение трех
 Система контроля и управления
@@ -3757,7 +3513,6 @@ O,
 цикл работы.
 
 ### Замедление стеклоочистителей при
-`livan_s6_pro_ru_ea8196fb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:40 | doc_type:owners_manual
 парковке
 Когда автомобиль остановлен, скорость
 работы
@@ -3776,7 +3531,6 @@ O,
 мультимедиа.
 
 ### Нажмите
-`livan_s6_pro_ru_7da73ce0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:40 | doc_type:owners_manual
 на
 область
 изображения
@@ -3788,7 +3542,6 @@ O,
 руле, сработает звуковой сигнал.
 
 ### Область изображения клаксона на
-`livan_s6_pro_ru_de662328` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:40 | doc_type:owners_manual
 руле
 также
 является
@@ -3811,7 +3564,6 @@ O,
 несчастных случаев.
 
 ### Регулировка
-`livan_s6_pro_ru_90299e30` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:40 | doc_type:owners_manual
 рулевого
 колеса
 Не
@@ -3828,7 +3580,6 @@ O,
 повреждению имущества.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_18f9b16c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:40 | doc_type:owners_manual
 2
 8
 7
@@ -3844,7 +3595,6 @@ O,
 травмам и повреждению имущества.
 
 ### 2. Регулировка рулевого колеса вверх-
-`livan_s6_pro_ru_cc337ce2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:41 | doc_type:owners_manual
 вниз
 3. Рычаг блокировки рулевого колеса
 Установите рулевое колесо в правильное
@@ -3854,7 +3604,6 @@ O,
 действия:
 
 ### 1. Поверните
-`livan_s6_pro_ru_d43fd633` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:41 | doc_type:owners_manual
 рулевое
 колесо
 в
@@ -3863,7 +3612,6 @@ O,
 рулевого колеса.
 
 ### 3. Удерживая
-`livan_s6_pro_ru_1c771e69` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 руль
 обеими
 руками,
@@ -3874,7 +3622,6 @@ O,
 подходящего положения.
 
 ### 4. Выбрав
-`livan_s6_pro_ru_5eb714cc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:41 | doc_type:owners_manual
 подходящее
 положение
 рулевого колеса, до конца потяните
@@ -3889,7 +3636,6 @@ O,
 колесо в новом положении.
 
 ### 1. Кнопка
-`livan_s6_pro_ru_cd0cc8b4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 регулировки
 и
 настройки
@@ -3906,7 +3652,6 @@ O,
 скорость.
 
 ### Переведение
-`livan_s6_pro_ru_82bbae92` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 данной
 кнопки
 вниз
@@ -3919,7 +3664,6 @@ O,
 крейсерской.
 
 ### 2. Кнопка разговора по телефону: ответ/
-`livan_s6_pro_ru_edcc8966` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:41 | doc_type:owners_manual
 завершение вызова по Bluetooth.
 3. Кнопка
 круиз-контроля:
@@ -3927,7 +3671,6 @@ O,
 выключает круиз-контроль.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_e3a55c35` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 40
 1. Кнопка
 отключения
@@ -3942,7 +3685,6 @@ O,
 режима отключения звука.
 
 ### 2. Правая кнопка выбора: когда меню
-`livan_s6_pro_ru_cb74b084` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 приборной
 панели
 открыто,
@@ -3958,14 +3700,12 @@ O,
 следующую песню или канал.
 
 ### 3. Кнопка
-`livan_s6_pro_ru_aac45d52` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 меню:
 кратковременно
 нажмите эту кнопку, а затем нажмите
 кнопку
 
 ### OK,
-`livan_s6_pro_ru_26c68207` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:42 | doc_type:owners_manual
 чтобы
 открыть
 меню
@@ -3987,7 +3727,6 @@ O,
 руле находится в мультимедиа.
 
 ### MODE:
-`livan_s6_pro_ru_9bc6ae49` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:42 | doc_type:owners_manual
 переключение
 источника
 звука
@@ -3997,7 +3736,6 @@ O,
 мультимедийный интерфейс.
 
 ### 5. Левая
-`livan_s6_pro_ru_585a784c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 кнопка
 выбора
 или
@@ -4033,7 +3771,6 @@ O,
 предыдущую песню или канал.
 
 ### 6. Кнопка главной страницы: когда в
-`livan_s6_pro_ru_e6b64c6f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:42 | doc_type:owners_manual
 меню
 настроек
 автомобиля
@@ -4058,7 +3795,6 @@ O,
 страницу.
 
 ### 7. Кнопка регулировки громкости, кнопка
-`livan_s6_pro_ru_f607b0d4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:42 | doc_type:owners_manual
 выбора
 меню
 или
@@ -4076,7 +3812,6 @@ OK:
 чтобы перезапустить экран.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_738c55e9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:42 | doc_type:owners_manual
 2
 8
 7
@@ -4093,7 +3828,6 @@ OK:
 вида
 
 ### Не регулируйте боковые зеркала
-`livan_s6_pro_ru_44884587` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 заднего вида во время движения
 автомобиля, иначе это может привести к
 травмам или повреждению имущества.
@@ -4107,7 +3841,6 @@ OK:
 правильно отрегулированы.
 
 ### Переключатель
-`livan_s6_pro_ru_84aea9ff` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 регулировки
 боковых
 зеркал
@@ -4118,7 +3851,6 @@ OK:
 внутренней панели водительской двери.
 
 ### 1. Переключатель регулировки боковых
-`livan_s6_pro_ru_e71f34de` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 зеркал заднего вида
 Расстояние до объектов, видимых в
 боковых
@@ -4144,14 +3876,12 @@ OK:
 предметы, чтобы соскрести лед с них.
 
 ### Используйте
-`livan_s6_pro_ru_a150aa10` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 спрей
 или
 антиобледенитель для удаления льда с
 поверхности зеркал.
 
 ### Не прикасайтесь к боковым зеркалам
-`livan_s6_pro_ru_8a1bbc18` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 заднего
 вида
 во
@@ -4160,7 +3890,6 @@ OK:
 чтобы избежать травм.
 
 ### Регулировка
-`livan_s6_pro_ru_49003abd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 боковых
 зеркал
 заднего вида
@@ -4168,7 +3897,6 @@ OK:
 положении
 
 ### ON,
-`livan_s6_pro_ru_be0049a9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:43 | doc_type:owners_manual
 установите
 ручку
 регулировки
@@ -4185,7 +3913,6 @@ OK:
 вида соответственно.
 
 ### 2. Перемещайте
-`livan_s6_pro_ru_d7fbe470` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 переключатель
 регулировки
 бокового
@@ -4195,12 +3922,10 @@ OK:
 наклона.
 
 ### 3. После регулировки установите ручку
-`livan_s6_pro_ru_85c5eff6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 регулировки боковых зеркал заднего
 вида в исходное положение (О).
 
 ### Система контроля и управления
-`livan_s6_pro_ru_2b185ef6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 42
 Складывание боковых зеркал
 заднего вида
@@ -4214,13 +3939,11 @@ OK:
 дорогам и парковке автомобиля.
 
 ### Ручное складывание боковых зеркал
-`livan_s6_pro_ru_3b174620` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:44 | doc_type:owners_manual
 заднего вида
 Сложите боковое зеркало заднего вида
 внутрь.
 
 ### Электронное складывание боковых
-`livan_s6_pro_ru_ad9780b8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:44 | doc_type:owners_manual
 зеркал заднего вида*
 Поверните ручку регулировки бокового
 зеркала заднего вида так, чтобы метка на
@@ -4230,7 +3953,6 @@ OK:
 сложится.
 
 ### Поверните
-`livan_s6_pro_ru_0ed1a437` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 ручку
 регулировки бокового зеркала заднего
 вида
@@ -4241,7 +3963,6 @@ OK:
 развернуть его.
 
 ### Функция
-`livan_s6_pro_ru_baf392e6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:44 | doc_type:owners_manual
 автоматического
 складывания
 боковых
@@ -4287,7 +4008,6 @@ OK:
 автоматически раскроются.
 
 ### Функция
-`livan_s6_pro_ru_baf392e6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 обогрева
 боковых
 зеркал заднего вида
@@ -4301,7 +4021,6 @@ OK:
 кнопки.
 
 ### Функция
-`livan_s6_pro_ru_baf392e6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 оттаивания
 и
 запотевания
@@ -4320,7 +4039,6 @@ OK:
 раздел
 
 ### Система контроля и управления
-`livan_s6_pro_ru_4daa8436` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:44 | doc_type:owners_manual
 2
 8
 7
@@ -4339,7 +4057,6 @@ OK:
 кондиционированияе
 
 ### Внутреннее зеркало заднего
-`livan_s6_pro_ru_e77f5c41` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 вида
 Регулировка
 внутреннего
@@ -4350,7 +4067,6 @@ OK:
 травмам или повреждению имущества.
 
 ### Внутреннее
-`livan_s6_pro_ru_c13b48bb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 зеркало
 заднего
 вида
@@ -4367,7 +4083,6 @@ OK:
 желаемое положение.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_11d37991` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 44
 Внутреннее
 зеркало
@@ -4378,7 +4093,6 @@ OK:
 затемнением
 
 ### Нажмите
-`livan_s6_pro_ru_1928a94e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:46 | doc_type:owners_manual
 на
 ручку
 в
@@ -4398,7 +4112,6 @@ OK:
 затемнения.
 
 ### Потяните
-`livan_s6_pro_ru_7ecc3525` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 ручку
 назад,
 чтобы
@@ -4417,7 +4130,6 @@ OK:
 Окна
 
 ### Электрические
-`livan_s6_pro_ru_0dc26abf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 стеклоподъемники
 Никогда
 не
@@ -4436,7 +4148,6 @@ OK:
 окнами.
 
 ### Неспособность открытия этими лицами
-`livan_s6_pro_ru_ae107faa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:46 | doc_type:owners_manual
 дверей и окон может повлечь за собой
 вред
 здоровью
@@ -4449,7 +4160,6 @@ OK:
 температуры.
 
 ### Не пытайтесь использовать части
-`livan_s6_pro_ru_38d53a56` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:46 | doc_type:owners_manual
 своего тела для проверки функции
 защиты от защемления, иначе это может
 привести к травмам или смерти.
@@ -4464,7 +4174,6 @@ OK:
 от защемления может не сработать.
 
 ### 1. Переключатель
-`livan_s6_pro_ru_8aad69ed` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 левого
 переднего
 стеклоподъемника
@@ -4474,7 +4183,6 @@ OK:
 стеклоподъемника
 
 ### 3. Переключатель
-`livan_s6_pro_ru_2e53af4b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 правого
 заднего
 стеклоподъемника
@@ -4490,7 +4198,6 @@ OK:
 45
 
 ### 4. Переключатель
-`livan_s6_pro_ru_b022f089` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 левого
 заднего
 стеклоподъемника
@@ -4499,7 +4206,6 @@ OK:
 стеклоподъемников
 
 ### Стеклоподъемниками
-`livan_s6_pro_ru_39e82de7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 можно
 управлять,
 когда
@@ -4507,7 +4213,6 @@ OK:
 переключатель находится в положении
 
 ### ON.
-`livan_s6_pro_ru_462359b2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 Когда
 пусковой
 переключатель
@@ -4516,7 +4221,6 @@ OK:
 положение
 
 ### OFF,
-`livan_s6_pro_ru_c5c0d957` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 если
 передняя
 дверь
@@ -4528,7 +4232,6 @@ OK:
 в положение OFF.
 
 ### Ручное управление
-`livan_s6_pro_ru_5a645a52` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 Открытие:
 нажмите
 и
@@ -4538,7 +4241,6 @@ OK:
 переключатель, чтобы закрыть окно.
 
 ### Работа
-`livan_s6_pro_ru_ae6157cc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 в
 автоматическом
 режиме
@@ -4555,14 +4257,12 @@ OK:
 автоматически открыть или закрыть окно.
 
 ### Если переключатель окна снова нажат
-`livan_s6_pro_ru_55b841ba` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 или потянут вверх во время процесса
 автоматического открытия или закрытия
 окна, окно перестанет открываться или
 закрываться.
 
 ### В автомобиле так же имеется функция
-`livan_s6_pro_ru_0cc30c82` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 закрытия
 с
 одной
@@ -4572,7 +4272,6 @@ OK:
 дистанционного управления:
 
 ### Установите
-`livan_s6_pro_ru_9ec5bff6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -4584,7 +4283,6 @@ OK:
 смарт-ключе, окна закроются.
 
 ### Если включена функция автоматического
-`livan_s6_pro_ru_21984715` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:47 | doc_type:owners_manual
 закрытия
 окон
 при
@@ -4605,7 +4303,6 @@ OK:
 включается в настройках мультимедиа.
 
 ### Дистанционное
-`livan_s6_pro_ru_13b5ecfd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 открытие/
 закрытие окон
 Выключите
@@ -4624,7 +4321,6 @@ OK:
 на
 
 ### Система контроля и управления
-`livan_s6_pro_ru_36fd8719` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 46
 крыше
 откроются
@@ -4643,7 +4339,6 @@ OK:
 закроются.
 
 ### Переключатель
-`livan_s6_pro_ru_1fbfce3a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:48 | doc_type:owners_manual
 блокировки
 окон
 Переключатель
@@ -4653,7 +4348,6 @@ OK:
 переключателями окон.
 
 ### Нажмите
-`livan_s6_pro_ru_3e3c0fff` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:48 | doc_type:owners_manual
 на
 переключатель,
 чтобы
@@ -4693,7 +4387,6 @@ OK:
 и функция блокировки будет отключена.
 
 ### Тепловая
-`livan_s6_pro_ru_609a9ff0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 защита
 электрических
 стеклоподъемников
@@ -4716,13 +4409,11 @@ OK:
 привода.
 
 ### Функционирование
-`livan_s6_pro_ru_bd7a98d9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 электрических
 стеклоподъемников будет возобновлено
 через короткий промежуток времени.
 
 ### Функция
-`livan_s6_pro_ru_4ac51eac` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 защиты
 от
 защемления
@@ -4749,7 +4440,6 @@ OK:
 никакие предметы не зажаты.
 
 ### Самообучение
-`livan_s6_pro_ru_4c304581` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 электрических
 стеклоподъёмников
 При возникновении следующих ситуаций
@@ -4758,7 +4448,6 @@ OK:
 •
 
 ### Подсоедините
-`livan_s6_pro_ru_8995180b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:48 | doc_type:owners_manual
 аккумулятор
 после
 отключения электропитания.
@@ -4770,7 +4459,6 @@ OK:
 •
 
 ### Функция защиты от защемления будет
-`livan_s6_pro_ru_06b7bfe6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:48 | doc_type:owners_manual
 работать неправильно.
 Перед самообучением необходимо
 убедиться,
@@ -4780,7 +4468,6 @@ OK:
 Процесс самообучения:
 
 ### 1. Потяните переключатель вверх, пока
-`livan_s6_pro_ru_4b1184f5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:48 | doc_type:owners_manual
 окно
 полностью
 не
@@ -4798,14 +4485,12 @@ OK:
 защемления.
 
 ### 2. Нажмите переключатель вниз, чтобы
-`livan_s6_pro_ru_4b33e4bf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 опустить
 стекло.
 Продолжайте
 нажимать переключатель в течение 2
 
 ### Система контроля и управления
-`livan_s6_pro_ru_af7f58ee` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:48 | doc_type:owners_manual
 2
 8
 7
@@ -4826,7 +4511,6 @@ OK:
 активирует плавное опускание.
 
 ### 3. Выполните один подъем снизу вверх,
-`livan_s6_pro_ru_e813b4cb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:49 | doc_type:owners_manual
 но удерживайте в течение 2 секунд.
 Если
 электрические
@@ -4847,7 +4531,6 @@ OK:
 Люк
 
 ### Управление люком
-`livan_s6_pro_ru_72b4a31d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:49 | doc_type:owners_manual
 Вы
 можете
 войти
@@ -4857,14 +4540,12 @@ OK:
 )] →[Sunroof (Люк)].
 
 ### 1. Sunroof vent (люк в крыше): подъем
-`livan_s6_pro_ru_c831c93b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:49 | doc_type:owners_manual
 люка
 2. Disabled/close
 (отключить/закрыть):
 закрытие люка
 
 ### 3. Open
-`livan_s6_pro_ru_608dbbdd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:49 | doc_type:owners_manual
 (открытие):
 полное
 открытие
@@ -4873,7 +4554,6 @@ OK:
 закрытие люка
 
 ### Система контроля и управления
-`livan_s6_pro_ru_85b6c279` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:49 | doc_type:owners_manual
 48
 Когда
 пусковой
@@ -4883,7 +4563,6 @@ OK:
 положения
 
 ### ON
-`livan_s6_pro_ru_dfaf3f61` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:50 | doc_type:owners_manual
 в
 положение OFF, пока передняя дверь не
 открыта, люк на крыше может работать в
@@ -4892,7 +4571,6 @@ OK:
 в положение OFF.
 
 ### Обязательно
-`livan_s6_pro_ru_9c9eea3d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 соблюдайте
 следующие
 меры
@@ -4903,13 +4581,11 @@ OK:
 •
 
 ### Во время движения автомобиля части
-`livan_s6_pro_ru_275ce0c5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 тела всех пассажиров не должны быть
 высунуты из люка.
 •
 
 ### Строго
-`livan_s6_pro_ru_c3ae575c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 запрещается
 высовывать
 голову или другие части тела из люка.
@@ -4923,7 +4599,6 @@ OK:
 •
 
 ### Запрещается
-`livan_s6_pro_ru_b728d4e5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 сидеть
 на
 крыше
@@ -4950,7 +4625,6 @@ OK:
 деталей люка.
 
 ### Если на уплотнительной резинке
-`livan_s6_pro_ru_3e2038cf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:50 | doc_type:owners_manual
 стекла
 люка
 и
@@ -4975,12 +4649,10 @@ OK:
 Поднятие / опускание люка
 
 ### Нажмите на интерфейс люка на экране
-`livan_s6_pro_ru_e6527181` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:50 | doc_type:owners_manual
 дисплея, чтобы включить вентиляцию,
 люк наклонится и откроется.
 
 ### Опускание люка
-`livan_s6_pro_ru_dd991f16` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:50 | doc_type:owners_manual
 Когда
 люк
 находится
@@ -4994,7 +4666,6 @@ OK:
 экране, люк закроется.
 
 ### Дистанционное
-`livan_s6_pro_ru_eb997b53` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:50 | doc_type:owners_manual
 открытие/
 закрытие люка
 В
@@ -5013,7 +4684,6 @@ OK:
 положение
 
 ### OFF,
-`livan_s6_pro_ru_f51db2ba` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 нажмите
 и
 удерживайте
@@ -5026,7 +4696,6 @@ OK:
 полностью.
 
 ### Нажмите
-`livan_s6_pro_ru_e2c55a2c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 и
 удерживайте
 кнопку
@@ -5036,7 +4705,6 @@ OK:
 не закроется полностью.
 
 ### Функция
-`livan_s6_pro_ru_87317737` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:50 | doc_type:owners_manual
 защиты
 от
 защемления
@@ -5058,7 +4726,6 @@ OK:
 направлении, чтобы избежать травм.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_ec400475` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:50 | doc_type:owners_manual
 2
 8
 7
@@ -5091,7 +4758,6 @@ OK:
 Процесс самообучения:
 
 ### 1. Установите люк в полностью закрытое
-`livan_s6_pro_ru_9974417b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 положение
 с
 помощью
@@ -5110,7 +4776,6 @@ OK:
 завершится;
 
 ### 3. Отпустите кнопку закрытия, а затем
-`livan_s6_pro_ru_a1f512a4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 снова нажмите и удерживайте ее в
 течение
 4
@@ -5120,7 +4785,6 @@ OK:
 опустится, откроется и закроется;
 
 ### 4. После закрытия и остановки люка
-`livan_s6_pro_ru_9ddd6fa0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 самообучение
 закончится
 (только
@@ -5128,7 +4792,6 @@ OK:
 закрытия).
 
 ### Во время процесса самообучения
-`livan_s6_pro_ru_bf0e99dd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 люка
 необходимо
 непрерывно
@@ -5138,12 +4801,10 @@ OK:
 люка.
 
 ### Если эта кнопка будет отпущена во время
-`livan_s6_pro_ru_2adcc7c6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 процесса самообучения, это приведет к
 сбою самообучения.
 
 ### Солнцезащитный козырек люка можно
-`livan_s6_pro_ru_4f9d3cd7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 открыть
 вместе
 со
@@ -5156,7 +4817,6 @@ OK:
 потянуть назад, чтобы закрыть.
 
 ### Во время движения автомобиля на
-`livan_s6_pro_ru_31e862d8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 высокой
 скорости
 запрещается
@@ -5164,7 +4824,6 @@ OK:
 открытом люке.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_9f2142d5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:51 | doc_type:owners_manual
 50
 Освещение салона
 Внутреннее
@@ -5172,7 +4831,6 @@ OK:
 переднего ряда
 
 ### Выключатель
-`livan_s6_pro_ru_0d4adad7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 переднего
 внутреннего
 освещения
@@ -5182,7 +4840,6 @@ OK:
 переключатель.
 
 ### Индуктивной
-`livan_s6_pro_ru_6f2ed953` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 зоной
 является
 значок
@@ -5192,7 +4849,6 @@ OK:
 освещения.
 
 ### Управление
-`livan_s6_pro_ru_821a8b5f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 внутренним
 освещением переднего ряда
 Проведя
@@ -5213,7 +4869,6 @@ OK:
 выключить освещение.
 
 ### Включите
-`livan_s6_pro_ru_04cd2655` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:52 | doc_type:owners_manual
 или
 выключите
 функцию
@@ -5263,7 +4918,6 @@ OK:
 значка освещения, чтобы выключить его.
 
 ### Внутреннее
-`livan_s6_pro_ru_c005d7e5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:52 | doc_type:owners_manual
 освещение
 заднего ряда сидений*
 Нажмите
@@ -5286,7 +4940,6 @@ OK:
 аккумулятора.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_22803b3c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 2
 8
 7
@@ -5304,7 +4957,6 @@ OK:
 дверей автомобиля
 
 ### Включение освещения
-`livan_s6_pro_ru_3cd4dec9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:53 | doc_type:owners_manual
 •
 В
 условиях
@@ -5319,7 +4971,6 @@ OK:
 положении
 
 ### OFF,
-`livan_s6_pro_ru_75a3f071` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:53 | doc_type:owners_manual
 постепенно
 включится внутреннее освещение.
 •
@@ -5334,7 +4985,6 @@ OK:
 •
 
 ### В
-`livan_s6_pro_ru_19e7119c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 условиях
 низкой
 освещенности,
@@ -5348,7 +4998,6 @@ OK:
 открытии любой двери.
 
 ### Выключение освещения
-`livan_s6_pro_ru_7e720316` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:53 | doc_type:owners_manual
 •
 При
 закрытых
@@ -5381,7 +5030,6 @@ OK:
 •
 
 ### Установите зажигание
-`livan_s6_pro_ru_c671ede2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 в
 положение
 ON,
@@ -5407,7 +5055,6 @@ ON,
 двери будут закрыты.
 
 ### Лампа подсветки багажника
-`livan_s6_pro_ru_9bc39f31` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:53 | doc_type:owners_manual
 При
 открытии
 багажного
@@ -5428,14 +5075,12 @@ ON,
 погаснет.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_fd99cca1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:53 | doc_type:owners_manual
 52
 Внешнее освещение
 Лампа, сигнализирующая об
 экстренном торможении
 
 ### При экстренном торможении автомобиля
-`livan_s6_pro_ru_7a0ba06b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:54 | doc_type:owners_manual
 включится
 аварийная
 световая
@@ -5465,7 +5110,6 @@ ON,
 сзади.
 
 ### Перчаточный
-`livan_s6_pro_ru_8171576b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 ящик
 расположен
 на
@@ -5473,7 +5117,6 @@ ON,
 пассажира.
 
 ### Нажмите
-`livan_s6_pro_ru_fcf2d091` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 кнопку
 открытия
 перчаточного
@@ -5485,7 +5128,6 @@ ON,
 ящик.
 
 ### Толкните
-`livan_s6_pro_ru_30d00507` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 крышку
 перчаточного
 ящика
@@ -5493,7 +5135,6 @@ ON,
 чтобы закрыть его.
 
 ### Верхний отсек для хранения на
-`livan_s6_pro_ru_4217546c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 центральной консоли
 В
 верхней
@@ -5506,7 +5147,6 @@ ON,
 можно
 
 ### Система контроля и управления
-`livan_s6_pro_ru_89232caa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 2
 8
 7
@@ -5523,7 +5163,6 @@ ON,
 предметов, как мобильные телефоны.
 
 ### Отсек для хранения с левой
-`livan_s6_pro_ru_fcee6069` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 стороны
 Модель 1
 Отсек для хранения с левой стороны
@@ -5540,7 +5179,6 @@ ON,
 Модель 2
 
 ### В
-`livan_s6_pro_ru_4ce6a77f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 моделях
 автомобиля,
 оснащенных
@@ -5554,7 +5192,6 @@ ON,
 центральным подлокотником
 
 ### Поднимите
-`livan_s6_pro_ru_52b40c0b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 передний
 центральный
 подлокотник,
@@ -5569,7 +5206,6 @@ ON,
 мелких предметов.
 
 ### Этот автомобиль оснащен несколькими
-`livan_s6_pro_ru_875ee59f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 небольшими
 отсеками
 для
@@ -5583,7 +5219,6 @@ ON,
 хранения мелких предметов.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_f6ae2bd9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 54
 Задний отсек для хранения
 Задний отсек для хранения расположен в
@@ -5596,7 +5231,6 @@ ON,
 хранения мелких предметов.
 
 ### Противосолнечный козырек
-`livan_s6_pro_ru_d511e570` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:56 | doc_type:owners_manual
 и аксессуарное зеркало
 Сторона водителя и сторона переднего
 пассажира
@@ -5614,7 +5248,6 @@ ON,
 вверх.
 
 ### Солнцезащитная
-`livan_s6_pro_ru_0f388bc0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 шторка
 со
 стороны
@@ -5636,7 +5269,6 @@ ON,
 (например, счетов).
 
 ### Система контроля и управления
-`livan_s6_pro_ru_af7f5567` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 2
 8
 7
@@ -5652,7 +5284,6 @@ ON,
 подлокотник
 
 ### Передний
-`livan_s6_pro_ru_32f61a55` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 центральный
 подлокотник
 расположен
@@ -5665,7 +5296,6 @@ ON,
 переднего ряда.
 
 ### Открытый передний центральный
-`livan_s6_pro_ru_6042b476` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 подлокотник
 может
 повлиять
@@ -5674,7 +5304,6 @@ ON,
 может привести к авариям и травмам.
 
 ### Передний центральный подлокотник во
-`livan_s6_pro_ru_adec15d3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 время движения должен оставаться в
 таком
 положении,
@@ -5684,7 +5313,6 @@ ON,
 рисунке.
 
 ### Задний
-`livan_s6_pro_ru_5a0ec78c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 центральный
 подлокотник*
 Задний
@@ -5699,7 +5327,6 @@ ON,
 откинув вниз.
 
 ### На вспомогательной приборной панели
-`livan_s6_pro_ru_cd47a1f6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 имеется подстаканник для размещения
 чайных стаканов или напитков. Кроме
 того,
@@ -5714,7 +5341,6 @@ ON,
 предметы.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_b7e7ef9d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 56
 При использовании подстаканника
 важно избегать резкого трогания с
@@ -5730,7 +5356,6 @@ ON,
 Задний подстаканник*
 
 ### Задний
-`livan_s6_pro_ru_b67c72f2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 подстаканник
 расположен
 в
@@ -5740,14 +5365,12 @@ ON,
 сидений.
 
 ### Откиньте
-`livan_s6_pro_ru_d4b162dc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:58 | doc_type:owners_manual
 вниз
 центральный
 подлокотник, чтобы использовать его.
 Розетка электропитания 12В
 
 ### Резервный
-`livan_s6_pro_ru_ef2a7533` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:58 | doc_type:owners_manual
 источник
 питания
 (12В)
@@ -5766,7 +5389,6 @@ ON,
 вспомогательной приборной панели.
 
 ### Мультимедийный
-`livan_s6_pro_ru_6fe82e6c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:58 | doc_type:owners_manual
 интерфейс
 1. Мультимедийный разъем USB
 2. Разъем USB для зарядки
@@ -5776,7 +5398,6 @@ ON,
 мультимедийным
 
 ### USB
-`livan_s6_pro_ru_191bb6ae` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:58 | doc_type:owners_manual
 разъемом
 и
 разъемом USB для зарядки в передней
@@ -5794,7 +5415,6 @@ ON,
 разъем
 
 ### USB
-`livan_s6_pro_ru_191bb6ae` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 для
 зарядки
 имеет только функцию зарядки.
@@ -5824,7 +5444,6 @@ USB-интерфейс
 только функцию зарядки.
 
 ### Со сторон пассажиров переднего ряда и
-`livan_s6_pro_ru_e375bd46` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 с двух сторон заднего ряда автомобиля
 предусмотрены
 внутренние
@@ -5839,7 +5458,6 @@ USB-интерфейс
 положение при отпускании.
 
 ### Внутренние ручки с обеих сторон заднего
-`livan_s6_pro_ru_59526478` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 ряда
 сидений
 автомобиля
@@ -5847,7 +5465,6 @@ USB-интерфейс
 крючками для одежды пассажиров.
 
 ### Не вешайте тяжелые предметы на
-`livan_s6_pro_ru_e6630119` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 крючки
 для
 одежды,
@@ -5863,7 +5480,6 @@ USB-интерфейс
 шторки безопасности (при наличии).
 
 ### Карман
-`livan_s6_pro_ru_236bef01` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 для
 печатных
 изданий
@@ -5877,7 +5493,6 @@ USB-интерфейс
 карты.
 
 ### Не кладите в карман для печатных
-`livan_s6_pro_ru_3e5df183` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 изданий
 тяжелые
 или
@@ -5885,7 +5500,6 @@ USB-интерфейс
 предметы, чтобы не повредить его.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_0ab0a42f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:59 | doc_type:owners_manual
 58
 Багажник
 Пространство со сложенными сиденьями
@@ -5901,7 +5515,6 @@ USB-интерфейс
 домашних животных.
 
 ### Если вес загруженных предметов
-`livan_s6_pro_ru_1dff3e4c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 превышает
 грузоподъемность
 автомобиля,
@@ -5931,13 +5544,11 @@ USB-интерфейс
 размещения.
 
 ### Предмет
-`livan_s6_pro_ru_8fe50424` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 должен
 располагаться как можно ниже и ближе к
 передней части автомобиля.
 
 ### Погрузка высоких предметов
-`livan_s6_pro_ru_31bcf969` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 При
 загрузке
 высокого
@@ -5954,7 +5565,6 @@ USB-интерфейс
 движения.
 
 ### Погрузка
-`livan_s6_pro_ru_1c9a20b2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:60 | doc_type:owners_manual
 крупногабаритных
 предметов
 При
@@ -5971,7 +5581,6 @@ USB-интерфейс
 движения.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_7d4dd80b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:60 | doc_type:owners_manual
 3
 8
 7
@@ -5985,7 +5594,6 @@ USB-интерфейс
 кондиционирование
 
 ### Система
-`livan_s6_pro_ru_a649338a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 управления
 кондиционером
 1.
@@ -5993,7 +5601,6 @@ USB-интерфейс
 10.
 
 ### Кнопка обдува ног в режиме
-`livan_s6_pro_ru_427a3881` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 подачи воздуха
 2.
 Кнопка оттаивания/ отпотевания
@@ -6001,7 +5608,6 @@ USB-интерфейс
 11.
 
 ### Кнопка обдува ветрового окна в
-`livan_s6_pro_ru_b171a37a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 режиме подачи воздуха
 3.
 Боковые зеркала заднего вида/
@@ -6014,7 +5620,6 @@ USB-интерфейс
 13.
 
 ### Кнопка OFF
-`livan_s6_pro_ru_ba5b15ac` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 5.
 Кнопка G-Clean*
 14.
@@ -6026,7 +5631,6 @@ USB-интерфейс
 7.
 
 ### Клавиша регулировки температуры
-`livan_s6_pro_ru_14e4fee4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:61 | doc_type:owners_manual
 16.
 Клавиша A/C MAX
 8.
@@ -6035,21 +5639,18 @@ USB-интерфейс
 17.
 
 ### Кнопка переключения между
-`livan_s6_pro_ru_89fcb532` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 внутренней/внешней циркуляцией
 9.
 Кнопка обдува лица в режиме
 подачи воздуха
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_7115993a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:61 | doc_type:owners_manual
 60
 В панели управления кондиционером на мультимедийном экране кнопки обдува
 ног, окна и лица в режиме подачи воздуха используются по отдельности, исходя
 из необходимости, также их использование можно комбинировать.
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_afbc08e0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
 3
 8
 7
@@ -6065,7 +5666,6 @@ USB-интерфейс
 управления кондиционером
 
 ### 1. Кнопка настройки кондиционера
-`livan_s6_pro_ru_2fc10753` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:63 | doc_type:owners_manual
 Нажмите эту кнопку, чтобы включить/
 выключить
 функции
@@ -6082,7 +5682,6 @@ USB-интерфейс
 кондиционирования.
 
 ### 2. Кнопка
-`livan_s6_pro_ru_611f2b6a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 оттаивания/
 отпотевания
 ветрового стекла
@@ -6104,7 +5703,6 @@ USB-интерфейс
 размораживанием/отпотеванием.
 
 ### Нажатие
-`livan_s6_pro_ru_29794589` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 на
 кнопку
 регулировки
@@ -6137,7 +5735,6 @@ USB-интерфейс
 циркуляцию.
 
 ### 3. Боковые зеркала заднего вида/кнопка
-`livan_s6_pro_ru_b31cc61c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:63 | doc_type:owners_manual
 оттаивания
 и
 отпотевания
@@ -6173,7 +5770,6 @@ USB-интерфейс
 зеркал заднего вида/ заднего стекла.
 
 ### Не пытайтесь использовать скребок
-`livan_s6_pro_ru_5a2b3997` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 или
 любой
 другой
@@ -6196,14 +5792,12 @@ USB-интерфейс
 расстоянии от окон.
 
 ### 4. Кнопка AQS*
-`livan_s6_pro_ru_26e31d41` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 Нажмите эту кнопку, чтобы выбрать,
 включить
 или
 выключить функцию
 
 ### Активировав
-`livan_s6_pro_ru_f0cbad9c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 функцию
 AQS,
 можно
@@ -6221,7 +5815,6 @@ AQS,
 хороший воздух снаружи.
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_549bffbf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 62
 При
 нажатии
@@ -6253,13 +5846,11 @@ AQS,
 менее идеальный внешний воздух.
 
 ### 6. Кнопка ECO
-`livan_s6_pro_ru_bdff0a21` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 Нажмите эту кнопку, чтобы включить
 или выключить экономичный режим
 работы кондиционера.
 
 ### 7. Клавиша регулировки температуры
-`livan_s6_pro_ru_36800c63` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 Нажмите ∧или ∨над и под значением
 температуры, чтобы увеличить или
 уменьшить
@@ -6270,7 +5861,6 @@ AQS,
 Цельсия.
 
 ### Диапазон
-`livan_s6_pro_ru_eebe58ef` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 регулировки
 температуры
 кондиционера составляет от 17,5 до
@@ -6286,7 +5876,6 @@ AQS,
 ниже 17,5 градусов Цельсия, это LO.
 
 ### 8. Кнопка регулирования интенсивности
-`livan_s6_pro_ru_8465d73d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:64 | doc_type:owners_manual
 вентиляции
 Кнопка
 регулировки
@@ -6324,21 +5913,18 @@ AQS,
 только после запуска автомобиля.
 
 ### 9. Кнопка обдува лица в режиме подачи
-`livan_s6_pro_ru_e1979ed1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 воздуха
 Нажмите эту кнопку, чтобы выбрать
 режим обдува лица в качестве подачи
 воздуха.
 
 ### 10. Кнопка обдува ног в режиме подачи
-`livan_s6_pro_ru_b63b506a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 воздуха
 Нажмите эту кнопку, чтобы выбрать
 режим обдува ног в качестве подачи
 воздуха.
 
 ### 11. Кнопка
-`livan_s6_pro_ru_255b29b3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 обдува
 ветрового
 окна
@@ -6353,7 +5939,6 @@ AQS,
 качестве подачи воздуха.
 
 ### 12. Кнопка подогрева сиденья*
-`livan_s6_pro_ru_ed358d27` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 Нажмите эту кнопку, чтобы перейти к
 интерфейсу
 обогрева
@@ -6363,7 +5948,6 @@ AQS,
 переднего сиденья и передачей.
 
 ### 13. Кнопка OFF
-`livan_s6_pro_ru_2135bb4a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 Когда
 система
 кондиционирования
@@ -6373,7 +5957,6 @@ AQS,
 кнопки
 
 ### OFF остановит всю работу системы
-`livan_s6_pro_ru_d3dffd34` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 кондиционирования.
 14. Кнопка AUTO
 Вы можете регулировать температуру
@@ -6382,7 +5965,6 @@ AQS,
 ощущений.
 
 ### Нажмите
-`livan_s6_pro_ru_9bd1b6f6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 кнопку AUTO, и кондиционер будет
 автоматически
 управлять
@@ -6391,7 +5973,6 @@ AQS,
 внешнюю циркуляцию, режим подачи
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_ed3bfb85` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 3
 8
 7
@@ -6407,7 +5988,6 @@ AQS,
 температуры.
 
 ### В
-`livan_s6_pro_ru_d587a91f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 этот
 момент, если режим подачи воздуха
 отрегулирован вручную или нажата
@@ -6435,7 +6015,6 @@ AUTO будет отключена, а остальные
 кнопку
 
 ### AUTO,
-`livan_s6_pro_ru_93d2f2cb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 чтобы
 активировать работу кондиционера и
 войти в полностью автоматический
@@ -6449,7 +6028,6 @@ AUTO будет отключена, а остальные
 выключения кондиционера.
 
 ### 15. Клавиша A/C
-`livan_s6_pro_ru_dd93322b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:65 | doc_type:owners_manual
 Когда двигатель запустится, нажмите
 эту кнопку, чтобы включить систему
 кондиционирования
@@ -6461,7 +6039,6 @@ AUTO будет отключена, а остальные
 кнопки.
 
 ### Нажмите
-`livan_s6_pro_ru_b27f9ca5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 эту
 кнопку
 еще
@@ -6491,7 +6068,6 @@ AUTO будет отключена, а остальные
 обслуживания LIVAN для очистки.
 
 ### Размещение барьера
-`livan_s6_pro_ru_42365e67` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:65 | doc_type:owners_manual
 перед
 передним
 капотом
@@ -6504,7 +6080,6 @@ AUTO будет отключена, а остальные
 кондиционирования воздуха.
 
 ### Нажмите
-`livan_s6_pro_ru_b27f9ca5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 кнопку
 A/C
 MAX,
@@ -6517,7 +6092,6 @@ MAX,
 максимальную скорость вентилятора.
 
 ### 17. Кнопка
-`livan_s6_pro_ru_793f7b91` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 переключения
 между
 внутренней/внешней циркуляцией
@@ -6537,7 +6111,6 @@ MAX,
 воздуха
 
 ### (AQS)
-`livan_s6_pro_ru_ab552a4e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 состояние
 внутренней
 и
@@ -6557,7 +6130,6 @@ MAX,
 дождя.
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_2ad8758d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:65 | doc_type:owners_manual
 64
 Датчики
 окружающего
@@ -6567,7 +6139,6 @@ MAX,
 света
 
 ### Датчик
-`livan_s6_pro_ru_bf9d3faa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:66 | doc_type:owners_manual
 внешней
 освещенности
 и
@@ -6598,7 +6169,6 @@ MAX,
 фар.
 
 ### Содержите датчик в чистоте и не
-`livan_s6_pro_ru_0cbc5c3f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:66 | doc_type:owners_manual
 наклеивайте на него наклейки и
 другие предметы. В противном случае
 система
@@ -6608,7 +6178,6 @@ MAX,
 должным образом.
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_e88e0519` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:66 | doc_type:owners_manual
 3
 8
 7
@@ -6621,7 +6190,6 @@ MAX,
 Система кондиционирования воздуха и вентиляции
 
 ### Своевременно
-`livan_s6_pro_ru_f855d8cc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:67 | doc_type:owners_manual
 удаляйте
 все
 загрязнения
@@ -6632,7 +6200,6 @@ MAX,
 автомобиль.
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_746c8c06` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:67 | doc_type:owners_manual
 66
 Дефлектора отопителя
 Передние дефлектора
@@ -6644,7 +6211,6 @@ MAX,
 4.
 
 ### Воздуховод
-`livan_s6_pro_ru_8cd1c2a7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:68 | doc_type:owners_manual
 на
 уровне
 ног
@@ -6657,7 +6223,6 @@ MAX,
 5.
 
 ### Боковой
-`livan_s6_pro_ru_65f1a7cc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:68 | doc_type:owners_manual
 воздуховод
 для
 оттаивания
@@ -6667,7 +6232,6 @@ MAX,
 6.
 
 ### Правый
-`livan_s6_pro_ru_239eb99b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:68 | doc_type:owners_manual
 дефлектор
 системы
 вентиляции и отопления
@@ -6683,7 +6247,6 @@ MAX,
 67
 
 ### Задний дефлектор
-`livan_s6_pro_ru_683ac03b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 1.
 Задний дефлектор
 2.
@@ -6691,7 +6254,6 @@ MAX,
 сидений
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_535ea081` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 68
 Регулировка дефлекторов и
 техническое
@@ -6699,7 +6261,6 @@ MAX,
 кондиционера
 
 ### Центральный
-`livan_s6_pro_ru_8155186e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 дефлектор
 можно
 отрегулировать,
@@ -6721,7 +6282,6 @@ MAX,
 регулировки лопастей.
 
 ### Направление
-`livan_s6_pro_ru_24ae7d48` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:70 | doc_type:owners_manual
 левого
 и
 правого
@@ -6731,7 +6291,6 @@ MAX,
 чтобы настраивать направление воздуха.
 
 ### Левый и правый дефлекторы также могут
-`livan_s6_pro_ru_06f88a32` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 закрывать
 поток
 воздуха
@@ -6739,7 +6298,6 @@ MAX,
 регулировки лопастей.
 
 ### Задний
-`livan_s6_pro_ru_f8bfefa5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 дефлектор
 можно
 отрегулировать,
@@ -6754,14 +6312,12 @@ MAX,
 воздуха.
 
 ### Задний
-`livan_s6_pro_ru_f8bfefa5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 дефлектор
 может
 закрывать
 воздух путем регулировки лопастей.
 
 ### Фильтр
-`livan_s6_pro_ru_c4cb531c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 кондиционера
 расположен
 за
@@ -6777,7 +6333,6 @@ MAX,
 чрезвычайно
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_616ca029` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 3
 8
 7
@@ -6792,7 +6347,6 @@ MAX,
 имеет функцию обеззараживания.
 
 ### Для поддержания наилучшего эффекта
-`livan_s6_pro_ru_27649617` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 от фильтрации регулярно проверяйте и
 заменяйте
 фильтрующий
@@ -6801,7 +6355,6 @@ MAX,
 соответствии с данным руководством.
 
 ### Техническое
-`livan_s6_pro_ru_f90bdcd2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 обслуживание
 системы кондиционирования
 •
@@ -6814,7 +6367,6 @@ MAX,
 высокой.
 
 ### В
-`livan_s6_pro_ru_c6f092a5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 этом
 случае
 следует
@@ -6837,7 +6389,6 @@ MAX,
 •
 
 ### Во влажную погоду не допускается
-`livan_s6_pro_ru_93706e42` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:71 | doc_type:owners_manual
 направлять прямой поток холодного
 воздуха
 на
@@ -6850,7 +6401,6 @@ MAX,
 •
 
 ### Закройте
-`livan_s6_pro_ru_16d51d89` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 все
 окна,
 рекомендуется
@@ -6891,14 +6441,12 @@ MAX,
 •
 
 ### Держите пространство под передними
-`livan_s6_pro_ru_8548630c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 сидениями,
 свободной,
 чтобы
 облегчить циркуляцию воздуха.
 
 ### Если вы хотите оставить автомобиль на
-`livan_s6_pro_ru_fdec2b2e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 хранение
 или
 не
@@ -6908,7 +6456,6 @@ MAX,
 течение двух недель или более, дайте
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_8dea4783` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 70
 системе
 кондиционирования
@@ -6927,13 +6474,11 @@ MAX,
 течение пяти минут на холостом ходу.
 
 ### Это позволит полностью смазать систему
-`livan_s6_pro_ru_84884232` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 кондиционирования и свести к минимуму
 вероятность повреждения компрессора
 при повторном запуске системы.
 
 ### Система очистки воздуха
-`livan_s6_pro_ru_0b5a5e2c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:72 | doc_type:owners_manual
 Функция AQS*
 Кнопка
 AQS
@@ -6943,7 +6488,6 @@ AQS
 AQS, данная система запустится.
 
 ### AQS
-`livan_s6_pro_ru_bc3940b8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 определяет
 качество
 воздуха
@@ -6968,7 +6512,6 @@ G-clean*
 функции
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_02fb9726` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 3
 8
 7
@@ -6983,7 +6526,6 @@ G-clean*
 функции
 
 ### A/C
-`livan_s6_pro_ru_96ad8dc2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 данная
 функция
 запускается
@@ -7002,7 +6544,6 @@ G-clean*
 кнопки.
 
 ### После входа в интерфейс кондиционера
-`livan_s6_pro_ru_bd1cd1a4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 нажмите
 «настройкие,
 откроются
@@ -7013,7 +6554,6 @@ self-drying
 кондиционера)
 
 ### 2. Cabin
-`livan_s6_pro_ru_a32de837` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:73 | doc_type:owners_manual
 air
 refresh
 mode
@@ -7021,7 +6561,6 @@ mode
 обновления воздуха в салоне)
 
 ### 3. A/C
-`livan_s6_pro_ru_b53b8f16` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:73 | doc_type:owners_manual
 timing
 ventilation
 (вентиляция
@@ -7029,14 +6568,12 @@ ventilation
 времени)
 
 ### 4. A/C
-`livan_s6_pro_ru_abf67013` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 automation
 level
 (уровень
 автоматизации кондиционера)
 
 ### 5. Air
-`livan_s6_pro_ru_a3fb4a96` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 conditioning
 interface
 hold
@@ -7047,7 +6584,6 @@ time
 кондиционера)
 
 ### A/C
-`livan_s6_pro_ru_96ad8dc2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 self-drying
 (самоочистка
 кондиционера)
@@ -7065,7 +6601,6 @@ self-drying
 и заплесневелостью в испарителе.
 
 ### В интерфейсе настроек кондиционера на
-`livan_s6_pro_ru_3b6f3445` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:73 | doc_type:owners_manual
 экране включите функцию самоосушения
 кондиционера.
 Cabin
@@ -7106,7 +6641,6 @@ mode
 очистки.
 
 ### Включите
-`livan_s6_pro_ru_1c3729db` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:73 | doc_type:owners_manual
 активную
 функцию
 очистки
@@ -7117,7 +6651,6 @@ mode
 кондиционера на экране.
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_04347833` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:73 | doc_type:owners_manual
 72
 Функция вентиляции во время парковки
 может
@@ -7146,7 +6679,6 @@ mode
 экране.
 
 ### Функция проветривания по времени
-`livan_s6_pro_ru_08d0bec4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:74 | doc_type:owners_manual
 включается во время парковки, что
 является
 нормальным
@@ -7158,7 +6690,6 @@ mode
 салона автомобиля.
 
 ### A/C
-`livan_s6_pro_ru_17090710` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:74 | doc_type:owners_manual
 automation
 level
 (уровень
@@ -7170,7 +6701,6 @@ level
 отображения LO или HI нажмите кнопку
 
 ### AUTO,
-`livan_s6_pro_ru_45a78310` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:74 | doc_type:owners_manual
 чтобы
 выбрать
 мягкий,
@@ -7184,7 +6714,6 @@ level
 соответствующим образом.
 
 ### Установите
-`livan_s6_pro_ru_140a9c31` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:74 | doc_type:owners_manual
 автоматический
 уровень
 кондиционирования
@@ -7213,7 +6742,6 @@ time
 установленное время.
 
 ### Установите
-`livan_s6_pro_ru_140a9c31` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:74 | doc_type:owners_manual
 время
 удержания
 кондиционирования
@@ -7224,7 +6752,6 @@ time
 кондиционирования воздуха на экране.
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_b2843ae1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:74 | doc_type:owners_manual
 4
 8
 7
@@ -7241,7 +6768,6 @@ time
 передних сидений
 
 ### Подголовники
-`livan_s6_pro_ru_14b0b3c3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:75 | doc_type:owners_manual
 передних
 сидений
 являются
@@ -7251,7 +6777,6 @@ time
 регулируются.
 
 ### Ручная
-`livan_s6_pro_ru_e8877e58` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:75 | doc_type:owners_manual
 регулировка
 сиденья
 водителя
@@ -7265,7 +6790,6 @@ time
 и спереди от сиденья соответственно.
 
 ### 1. Рычаг
-`livan_s6_pro_ru_cb62c04a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:75 | doc_type:owners_manual
 для
 регулировки
 сиденья
@@ -7273,7 +6797,6 @@ time
 2. Ручка регулировки сиденья по высоте
 
 ### 3. Ручка
-`livan_s6_pro_ru_82493400` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:75 | doc_type:owners_manual
 для
 регулирования
 наклона
@@ -7281,7 +6804,6 @@ time
 Регулировка сиденья вперед и назад
 
 ### Возьмитесь
-`livan_s6_pro_ru_2fd04c83` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:75 | doc_type:owners_manual
 за
 середину
 рычага
@@ -7305,7 +6827,6 @@ time
 вплоть до его фиксации.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_4a127c90` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:75 | doc_type:owners_manual
 74
 Когда ручка регулировки высоты сиденья
 поднимется
@@ -7318,14 +6839,12 @@ time
 уменьшится.
 
 ### Отрегулируйте
-`livan_s6_pro_ru_92e4af2a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:76 | doc_type:owners_manual
 сиденье
 на
 желаемую
 высоту и отпустите ручку регулировки.
 
 ### Регулирование угла наклона спинки
-`livan_s6_pro_ru_8ce36e7a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:76 | doc_type:owners_manual
 сиденья
 Если необходимо
 отрегулировать
@@ -7356,7 +6875,6 @@ time
 спинку;
 
 ### Если необходимо
-`livan_s6_pro_ru_7497d8af` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:76 | doc_type:owners_manual
 отрегулировать
 угол
 наклона спинки в направлении вперед,
@@ -7384,7 +6902,6 @@ time
 автомобиля.
 
 ### В
-`livan_s6_pro_ru_4664032b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:76 | doc_type:owners_manual
 противном
 случае при аварии возможны травмы или
 смерть.
@@ -7399,7 +6916,6 @@ time
 положения.
 
 ### Сиденье
-`livan_s6_pro_ru_b3cbec5e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:76 | doc_type:owners_manual
 водителя
 с
 электронной регулировкой*
@@ -7409,7 +6925,6 @@ time
 сиденья.
 
 ### Не кладите предметы под сиденье
-`livan_s6_pro_ru_fd51bba7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:76 | doc_type:owners_manual
 с
 электроприводом
 и
@@ -7420,14 +6935,12 @@ time
 сиденья или кронштейна двигателя.
 
 ### 1. Переключатель
-`livan_s6_pro_ru_f8f43c0a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:76 | doc_type:owners_manual
 для
 регулировки
 высоты сиденья/ движения сиденья
 вперед-назад
 
 ### 2. Переключатель для регулировки угла
-`livan_s6_pro_ru_dcc76c64` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:76 | doc_type:owners_manual
 наклона спинки
 Сиденья и устройства защиты
 4
@@ -7441,7 +6954,6 @@ time
 75
 
 ### Передвиньте переключатель регулировки
-`livan_s6_pro_ru_db2ec2da` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:77 | doc_type:owners_manual
 сиденья вперед и назад/ по высоте в
 направлении
 стрелки,
@@ -7451,7 +6963,6 @@ time
 При нормальной температуре (25°
 
 ### С),
-`livan_s6_pro_ru_072b2b35` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:77 | doc_type:owners_manual
 если
 сработала
 защита
@@ -7468,7 +6979,6 @@ time
 разблокирован.
 
 ### Передвиньте переключатель регулировки
-`livan_s6_pro_ru_db2ec2da` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:77 | doc_type:owners_manual
 сиденья вперед и назад/ по высоте в
 направлении
 стрелки,
@@ -7477,7 +6987,6 @@ time
 двигаться вверх или вниз.
 
 ### Регулирование угла наклона спинки
-`livan_s6_pro_ru_ce76b6fa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 сиденья
 Нажмите переключатель для регулировки
 угла
@@ -7488,7 +6997,6 @@ time
 стрелки, чтобы отрегулировать наклон.
 
 ### Ручное
-`livan_s6_pro_ru_fee9bd77` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:77 | doc_type:owners_manual
 регулирование
 переднего
 пассажирского
@@ -7508,7 +7016,6 @@ time
 соответственно.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_c72fe469` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 76
 1. Ручка
 для
@@ -7517,7 +7024,6 @@ time
 спинки сиденья
 
 ### 2. Рычаг
-`livan_s6_pro_ru_cf08e573` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 для
 регулировки
 сиденья
@@ -7533,7 +7039,6 @@ time
 водителя.
 
 ### Регулирование
-`livan_s6_pro_ru_73b53cb5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 подголовника
 задних сидений
 Нажатие на кнопку на боковой части
@@ -7546,7 +7051,6 @@ time
 вертикально.
 
 ### Характерный
-`livan_s6_pro_ru_09082ce3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 щелчок
 означает, что положение подголовника
 зафиксировано. При помощи нажатия на
@@ -7554,7 +7058,6 @@ time
 подголовник.
 
 ### Складывание спинки
-`livan_s6_pro_ru_68d56d17` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:78 | doc_type:owners_manual
 заднего
 сиденья
 Заднее сиденье полностью фиксируется
@@ -7562,7 +7065,6 @@ time
 6/4 и может складываться.
 
 ### 1. Тяните
-`livan_s6_pro_ru_e811c7f4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 ручку
 для
 разблокировки
@@ -7570,7 +7072,6 @@ time
 пока спинка не разблокируется;
 
 ### 2. Потяните
-`livan_s6_pro_ru_0f37e63a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:78 | doc_type:owners_manual
 вперед,
 чтобы
 сложить
@@ -7615,7 +7116,6 @@ time
 сиденья.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_3e1c906c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 4
 8
 7
@@ -7629,7 +7129,6 @@ time
 Подогрев передних сидений
 
 ### Чтобы при необходимости включить или
-`livan_s6_pro_ru_a7244c4d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:79 | doc_type:owners_manual
 выключить функцию обогрева переднего
 сиденья,
 после
@@ -7647,7 +7146,6 @@ time
 дисплея.
 
 ### Подогрев сиденья водителя и переднего
-`livan_s6_pro_ru_f11d3d98` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 пассажира
 можно
 регулировать
@@ -7723,7 +7221,6 @@ time
 •
 
 ### Устройство обогрева сидений можно
-`livan_s6_pro_ru_9b6925fe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:79 | doc_type:owners_manual
 включать
 только
 при
@@ -7746,7 +7243,6 @@ time
 •
 
 ### Не кладите чехол спинки сиденья на
-`livan_s6_pro_ru_f007f2e4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:79 | doc_type:owners_manual
 сиденье
 во
 время
@@ -7757,7 +7253,6 @@ time
 сиденья
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_c93f58f3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 78
 В
 исходном
@@ -7768,7 +7263,6 @@ time
 Пункт
 
 ### Параметры
-`livan_s6_pro_ru_cbc3effb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 Си
 де
 нье
@@ -7785,7 +7279,6 @@ time
 назад - 50 мм)
 
 ### Регули
-`livan_s6_pro_ru_d0798ff2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 рова
 ние
 спинки
@@ -7794,7 +7287,6 @@ time
 48°)
 
 ### Регули
-`livan_s6_pro_ru_d0798ff2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 рова
 ние
 высот
@@ -7814,7 +7306,6 @@ time
 е
 
 ### Регули
-`livan_s6_pro_ru_d0798ff2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 рова
 ние
 впе
@@ -7824,7 +7315,6 @@ time
 назад - 50 мм)
 
 ### Ремень безопасности
-`livan_s6_pro_ru_c18ad606` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:80 | doc_type:owners_manual
 Общие
 сведения
 о
@@ -7846,7 +7336,6 @@ time
 эксплуатацию ремня безопасности.
 
 ### Ненадлежащее
-`livan_s6_pro_ru_a80d4ffd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 использование
 ремня
 или
@@ -7860,7 +7349,6 @@ time
 травмам.
 
 ### Правильное
-`livan_s6_pro_ru_5e775861` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 использование
 ремня
 безопасности
@@ -7872,7 +7360,6 @@ time
 свойства.
 
 ### Правильное
-`livan_s6_pro_ru_5e775861` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 использование
 ремня
 безопасности
@@ -7888,7 +7375,6 @@ time
 безопасности.
 
 ### Пассажирам
-`livan_s6_pro_ru_7570db28` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 запрещается
 садиться
 в
@@ -7901,7 +7387,6 @@ time
 сиденья с неисправными ремнями.
 
 ### Данный
-`livan_s6_pro_ru_a08fe9eb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:80 | doc_type:owners_manual
 автомобиль
 оборудован
 световым сигналом, предупреждающим о
@@ -7931,7 +7416,6 @@ time
 тяжести. Во многих подобных аварийных
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_c3bccbc0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:80 | doc_type:owners_manual
 4
 8
 7
@@ -7965,7 +7449,6 @@ time
 тесно связаны!
 
 ### Какова
-`livan_s6_pro_ru_9e5489bf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 защитная
 роль
 ремня безопасности
@@ -7980,13 +7463,11 @@ time
 скорость
 
 ### Вашего
-`livan_s6_pro_ru_1f411f81` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 движения
 соответствует скорости движения такого
 объекта.
 
 ### Рассмотрим
-`livan_s6_pro_ru_253eea63` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:81 | doc_type:owners_manual
 на
 примере
 простейшего
@@ -8013,14 +7494,12 @@ time
 останавливается.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_69f1e38f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 80
 Человек продолжит движение до тех пор,
 пока какой-то объект не преградит ему
 путь.
 
 ### В
-`livan_s6_pro_ru_6927e65f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:82 | doc_type:owners_manual
 реальном
 автомобиле
 таким
@@ -8047,14 +7526,12 @@ time
 скелет.
 
 ### Именно
-`livan_s6_pro_ru_a741e886` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:82 | doc_type:owners_manual
 поэтому
 важно
 использовать ремень безопасности.
 Правильная посадка
 
 ### Правильное сидячее положение крайне
-`livan_s6_pro_ru_c317f0c9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:82 | doc_type:owners_manual
 важно для лучшей защиты с помощью
 подушки и ремня безопасности. Сиденья
 водителя
@@ -8094,7 +7571,6 @@ time
 ремня безопасности.
 
 ### Во время движения не наклоняйте
-`livan_s6_pro_ru_08f55c38` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:82 | doc_type:owners_manual
 сиденье
 слишком
 сильно
@@ -8117,7 +7593,6 @@ time
 исходу.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_14b046fc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:82 | doc_type:owners_manual
 4
 8
 7
@@ -8137,7 +7612,6 @@ time
 между телом и подушкой безопасности.
 
 ### Правильная посадка водителя является
-`livan_s6_pro_ru_0263d354` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 крайне
 важным
 для
@@ -8152,7 +7626,6 @@ time
 травм.
 
 ### Водителю
-`livan_s6_pro_ru_124d316f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 рекомендуется осуществить следующие
 регулировки:
 •
@@ -8161,7 +7634,6 @@ time
 •
 
 ### Регулировка
-`livan_s6_pro_ru_1e1bd741` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:83 | doc_type:owners_manual
 сиденья
 вперед-назад:
 удобное для водителя положение для
@@ -8173,14 +7645,12 @@ time
 •
 
 ### Регулировка
-`livan_s6_pro_ru_1e1bd741` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 подголовника:
 подголовник должен быть правильно
 отрегулирован по высоте.
 •
 
 ### Спинка сиденья должна находиться в
-`livan_s6_pro_ru_b15215fb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 положении
 «сидяе,
 спина
@@ -8189,7 +7659,6 @@ time
 •
 
 ### Ремень
-`livan_s6_pro_ru_0427bade` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:83 | doc_type:owners_manual
 безопасности
 должен
 быть
@@ -8200,7 +7669,6 @@ time
 пассажира
 
 ### Для Вашей собственной безопасности и
-`livan_s6_pro_ru_9599f866` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 во избежание риска получения травм
 пассажиру
 переднего
@@ -8209,7 +7677,6 @@ time
 •
 
 ### Соблюдать
-`livan_s6_pro_ru_f95f8d25` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 расстояние
 между
 пассажиром и приборной панелью не
@@ -8217,7 +7684,6 @@ time
 •
 
 ### Регулировка
-`livan_s6_pro_ru_1e1bd741` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 подголовника
 должна
 быть
@@ -8228,7 +7694,6 @@ time
 прилегала к нему.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_c1a2ac0b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:83 | doc_type:owners_manual
 82
 •
 Ремень
@@ -8242,14 +7707,12 @@ time
 ремень безопасности
 
 ### Информация
-`livan_s6_pro_ru_bd015be2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 в
 данном
 разделе
 относится только ко взрослым людям.
 
 ### В первую очередь перед использованием
-`livan_s6_pro_ru_e8d1e23e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 ремней безопасности Вы или пассажиры
 автомобиля должны узнать
 некоторую
@@ -8277,7 +7740,6 @@ time
 безопасности, это крайне важно.
 
 ### В
-`livan_s6_pro_ru_fcaf5561` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 соответствии
 со
 статистическими
@@ -8301,7 +7763,6 @@ time
 пристегнутыми пассажирами.
 
 ### В
-`livan_s6_pro_ru_fcaf5561` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 сидячем
 положении
 необходимо
@@ -8313,7 +7774,6 @@ time
 собой.
 
 ### Нижняя
-`livan_s6_pro_ru_c0352204` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 часть
 ремня
 в
@@ -8334,7 +7794,6 @@ time
 ремня должна пересекать плечо и грудь.
 
 ### Именно
-`livan_s6_pro_ru_7d2f2200` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:84 | doc_type:owners_manual
 эти
 части
 тела
@@ -8376,7 +7835,6 @@ time
 ремнями безопасности.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_624dc2d7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 4
 8
 7
@@ -8404,7 +7862,6 @@ time
 живота.
 
 ### Беременная
-`livan_s6_pro_ru_47f7ce3e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:85 | doc_type:owners_manual
 женщина
 должна
 сидеть как можно прямее, в отдалении от
@@ -8416,7 +7873,6 @@ time
 безопасности.
 
 ### Лучший
-`livan_s6_pro_ru_8e55089f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 способ
 защитить
 ребенка
@@ -8439,7 +7895,6 @@ time
 использования ремня безопасности.
 
 ### Регулятор
-`livan_s6_pro_ru_f4b21a83` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 высоты
 ремня
 безопасности
@@ -8455,7 +7910,6 @@ time
 высоты плеча.
 
 ### Отрегулируйте
-`livan_s6_pro_ru_4b3e2eef` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 высоту
 таким
 образом,
@@ -8479,7 +7933,6 @@ time
 плечо.
 
 ### Неправильная
-`livan_s6_pro_ru_7bde6969` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 регулировка
 высоты
 ремня
@@ -8504,7 +7957,6 @@ time
 вверх.
 
 ### После перемещения регулятора в нужное
-`livan_s6_pro_ru_b84f9326` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 положение
 отпустите
 кнопку
@@ -8514,7 +7966,6 @@ time
 на месте.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_4bd0eeb2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:85 | doc_type:owners_manual
 84
 Трехточечный
 ремень
@@ -8533,7 +7984,6 @@ time
 безопасности.
 
 ### 1. Возьмитесь за язычок крепления и
-`livan_s6_pro_ru_f722fa24` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:86 | doc_type:owners_manual
 потяните ремень, пересекая тело. Не
 позволяйте ремню перекручиваться.
 Если
@@ -8553,7 +8003,6 @@ time
 пересекая тело.
 
 ### 2. Вставьте
-`livan_s6_pro_ru_f4264329` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 язычок
 крепления
 в
@@ -8568,7 +8017,6 @@ time
 фиксации.
 
 ### Удостоверьтесь в положении кнопки
-`livan_s6_pro_ru_05c2e80a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:86 | doc_type:owners_manual
 разблокировки
 на
 застежке,
@@ -8577,7 +8025,6 @@ time
 необходимости.
 
 ### 3. Потянув плечевую часть ремня вверх,
-`livan_s6_pro_ru_4a6ddd5c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:86 | doc_type:owners_manual
 можно затянуть нижнюю часть.
 4. Для того чтобы отстегнуть ремень,
 нажмите
@@ -8588,7 +8035,6 @@ time
 застежке.
 
 ### Позвольте
-`livan_s6_pro_ru_3f070a25` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 ремню
 вернуться в исходное положение.
 Не допускайте попадания в замок
@@ -8631,7 +8077,6 @@ time
 к
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_faf0e399` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 4
 8
 7
@@ -8647,7 +8092,6 @@ time
 летальному исходу.
 
 ### Чтобы избежать травмирования при
-`livan_s6_pro_ru_f9bab8cf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:87 | doc_type:owners_manual
 слишком быстрой перемотке ремня
 или заедания при слишком медленной
 перемотке,
@@ -8670,7 +8114,6 @@ time
 ремень.
 
 ### Преднатяжитель
-`livan_s6_pro_ru_51f66b89` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:87 | doc_type:owners_manual
 ремня
 безопасности
 (согласно
@@ -8698,7 +8141,6 @@ time
 столкновения.
 
 ### Преднатяжитель работает только один
-`livan_s6_pro_ru_dd22925e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:87 | doc_type:owners_manual
 раз.
 В
 случае
@@ -8722,7 +8164,6 @@ time
 «Сиденья и устройства защитые.
 
 ### Сигнализатор непристегнутого
-`livan_s6_pro_ru_212f270d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:87 | doc_type:owners_manual
 ремня безопасности
 Передние
 и
@@ -8746,7 +8187,6 @@ time
 безопасности.
 
 ### Информацию
-`livan_s6_pro_ru_2e8dca63` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:87 | doc_type:owners_manual
 о
 расположении
 предупреждающих
@@ -8768,7 +8208,6 @@ time
 •
 
 ### Звуковой
-`livan_s6_pro_ru_f6f8e075` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:87 | doc_type:owners_manual
 сигнал
 находится
 в
@@ -8813,7 +8252,6 @@ time
 ч, а затем повторном ее увеличении до
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_45d57865` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:87 | doc_type:owners_manual
 86
 25
 км/ч,
@@ -8879,7 +8317,6 @@ time
 пристегнуты.
 
 ### Правильное пристегивание ремня
-`livan_s6_pro_ru_dbf97fa1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 безопасности может сократить риск
 получения
 травм
@@ -8894,7 +8331,6 @@ time
 время движения автомобиля.
 
 ### Игнорирование
-`livan_s6_pro_ru_529a1701` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 горящих
 сигнальных
 ламп,
@@ -8916,7 +8352,6 @@ time
 происшествию.
 
 ### Обслуживание
-`livan_s6_pro_ru_aa00207f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 и
 замена
 ремня безопасности
@@ -8925,7 +8360,6 @@ time
 безопасности
 
 ### Регулярно проводите проверку системы
-`livan_s6_pro_ru_5e910229` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:88 | doc_type:owners_manual
 безопасности
 в
 соответствии
@@ -8970,7 +8404,6 @@ time
 •
 
 ### Сохраняйте
-`livan_s6_pro_ru_8b549126` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:88 | doc_type:owners_manual
 ремень
 безопасности
 сухим и чистым.
@@ -8979,7 +8412,6 @@ time
 безопасности
 
 ### Сохраняйте ремень безопасности сухим
-`livan_s6_pro_ru_4d2f5ea4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:88 | doc_type:owners_manual
 и чистым.
 Не отбеливайте и не окрашивайте
 ремень безопасности. Это может
@@ -8999,7 +8431,6 @@ time
 воду.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_15ceefec` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 4
 8
 7
@@ -9015,7 +8446,6 @@ time
 безопасности.
 
 ### В случае небольшой аварии посетите
-`livan_s6_pro_ru_9e8bb9d0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 центр технического обслуживания LIVAN,
 чтобы провести диагностику или замену
 блока ремня безопасности. Даже если во
@@ -9028,7 +8458,6 @@ time
 все равно необходима.
 
 ### Автомобильная
-`livan_s6_pro_ru_bf04eeee` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 авария
 может
 привести
@@ -9041,7 +8470,6 @@ time
 безопасности.
 
 ### Необходимо
-`livan_s6_pro_ru_6a1fa91f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 как
 можно
 скорее
@@ -9051,7 +8479,6 @@ time
 дилеру LIVAN для его замены.
 
 ### Общие сведения о подушке
-`livan_s6_pro_ru_9157cb55` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:89 | doc_type:owners_manual
 безопасности
 Подушка
 безопасности
@@ -9086,7 +8513,6 @@ time
 травмам.
 
 ### Именно
-`livan_s6_pro_ru_21243813` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 поэтому
 во
 время
@@ -9094,7 +8520,6 @@ time
 автомобиле, должны быть пристегнуты.
 
 ### Подушка безопасности срабатывает не
-`livan_s6_pro_ru_8a02d47d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:89 | doc_type:owners_manual
 во всех случаях. Это зависит от места и
 угла удара, степени удара, характера
 объекта
@@ -9104,7 +8529,6 @@ time
 факторов.
 
 ### Подушка безопасности раскрывается с
-`livan_s6_pro_ru_7a6e8312` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:89 | doc_type:owners_manual
 большой
 силой.
 Если
@@ -9152,7 +8576,6 @@ time
 безопасности.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_44a61641` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:89 | doc_type:owners_manual
 88
 На
 пути
@@ -9166,13 +8589,11 @@ time
 помех.
 
 ### Нельзя
-`livan_s6_pro_ru_3253309a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 помещать
 какие бы то ни было предметы между
 пассажиром и подушкой безопасности.
 
 ### При наличии помех между пассажиром и
-`livan_s6_pro_ru_ba4987d9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 подушкой
 безопасности
 при
@@ -9191,12 +8612,10 @@ time
 травмам или летальному исходу.
 
 ### При срабатывании подушки безопасности
-`livan_s6_pro_ru_32828ef5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 ее детали могут быть горячими, поэтому
 не прикасайтесь к ним.
 
 ### При срабатывании подушки безопасности
-`livan_s6_pro_ru_32828ef5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 может
 выбрасываться
 некоторое
@@ -9221,7 +8640,6 @@ time
 неисправности.
 
 ### Запрещается
-`livan_s6_pro_ru_b2390b0b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 дополнительно
 устанавливать
 или
@@ -9230,13 +8648,11 @@ time
 безопасности.
 
 ### Категорически
-`livan_s6_pro_ru_5033e1ed` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 запрещается без разрешения изменять
 конструкцию автомобиля и жгут проводов
 системы подушек безопасности.
 
 ### Система подушки безопасности может
-`livan_s6_pro_ru_d5feea77` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 быть использована только один раз. Если
 подушка
 безопасности
@@ -9249,7 +8665,6 @@ time
 замены.
 
 ### Дети и подростки могут получить
-`livan_s6_pro_ru_363065a8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 серьезные травмы или умереть при
 срабатывании
 подушки
@@ -9267,13 +8682,11 @@ time
 безопасности.
 
 ### LIVAN
-`livan_s6_pro_ru_f0f91741` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 настоятельно рекомендует, чтобы дети и
 подростки сидели на задних сиденьях,
 используя надлежащие средства защиты.
 
 ### Положение
-`livan_s6_pro_ru_9c0f3497` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 подушки
 безопасности
 Фронтальная
@@ -9313,7 +8726,6 @@ time
 панелью.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_67d2056c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 4
 8
 7
@@ -9341,7 +8753,6 @@ time
 надписью «AIRBAGе.
 
 ### Фронтальная
-`livan_s6_pro_ru_64238ed7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 подушка
 безопасности
 не
@@ -9355,7 +8766,6 @@ time
 остановке.
 
 ### Подушка
-`livan_s6_pro_ru_25677496` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 безопасности
 срабатывает
 за
@@ -9410,7 +8820,6 @@ time
 летального исхода пассажира.
 
 ### Запрещается
-`livan_s6_pro_ru_09352e30` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 переоборудовать,
 разбирать, ударять или открывать какиелибо
 части
@@ -9431,7 +8840,6 @@ time
 летальному исходу.
 
 ### При пользовании автомобилем не
-`livan_s6_pro_ru_46555d33` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 нужно
 садиться
 рядом
@@ -9448,7 +8856,6 @@ time
 подушкой или слишком близко к ней.
 
 ### Водитель и пассажир должны соблюдать
-`livan_s6_pro_ru_a10e9971` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 расстояние
 в
 как
@@ -9457,7 +8864,6 @@ time
 сантиметров от подушки безопасности.
 
 ### Нельзя сидеть на переднем сиденье с
-`livan_s6_pro_ru_263a5d3a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 ребенком
 на
 коленях.
@@ -9489,7 +8895,6 @@ time
 центр технического обслуживания LIVAN:
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_86639edf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 90
 •
 После
@@ -9517,7 +8922,6 @@ time
 безопасности.
 
 ### Боковые
-`livan_s6_pro_ru_fbef1767` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 подушки
 безопасности
 Боковые
@@ -9547,7 +8951,6 @@ time
 переднего ряда.
 
 ### Боковые
-`livan_s6_pro_ru_fbef1767` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 подушки
 безопасности
 установлены в спинках сидений водителя
@@ -9586,7 +8989,6 @@ time
 серьезным травмам.
 
 ### Запрещается устанавливать чехлы
-`livan_s6_pro_ru_6ab3e531` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 на сиденья, оснащенные боковыми
 подушками
 безопасности,
@@ -9605,7 +9007,6 @@ time
 •
 
 ### Боковая
-`livan_s6_pro_ru_f4f5e54d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 подушка
 безопасности
 раскрылась.
@@ -9635,13 +9036,11 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Устанавливать
-`livan_s6_pro_ru_66cc68a5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:92 | doc_type:owners_manual
 электронное
 оборудование, такое как мобильные
 устройства двусторонней радиосвязи,
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_88395e09` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 4
 8
 7
@@ -9658,7 +9057,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Изменять
-`livan_s6_pro_ru_9138d3b9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 боковую
 конструкцию
 со
@@ -9668,7 +9066,6 @@ LIVAN запрещается вносить какие-либо
 безопасности*
 
 ### Боковые
-`livan_s6_pro_ru_7791fdfe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 шторки
 безопасности
 обеспечивают
@@ -9706,7 +9103,6 @@ LIVAN запрещается вносить какие-либо
 заднего ряда.
 
 ### Боковые
-`livan_s6_pro_ru_7791fdfe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:93 | doc_type:owners_manual
 шторки
 безопасности
 устанавливаются над дверями с левой и
@@ -9783,7 +9179,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Боковая
-`livan_s6_pro_ru_e5c499d8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 шторка
 безопасности
 раскрылась.
@@ -9810,7 +9205,6 @@ LIVAN запрещается вносить какие-либо
 повреждения.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_970b5005` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 92
 Без
 консультации
@@ -9824,7 +9218,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Устанавливать
-`livan_s6_pro_ru_667641aa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:94 | doc_type:owners_manual
 электронное
 оборудование, такое как мобильные
 устройства двусторонней радиосвязи,
@@ -9837,7 +9230,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Выполнять ремонт на консоли или
-`livan_s6_pro_ru_45f9f3e1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 рядом с ней.
 Срабатывание
 подушки
@@ -9847,7 +9239,6 @@ LIVAN запрещается вносить какие-либо
 подушки безопасности
 
 ### Фронтальная
-`livan_s6_pro_ru_3440c08f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 подушка
 безопасности
 срабатывает при движении автомобиля
@@ -9873,7 +9264,6 @@ LIVAN запрещается вносить какие-либо
 безопасности.
 
 ### Водитель и пассажир переднего сиденья
-`livan_s6_pro_ru_511474c8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 должны отрегулировать положения своих
 сидений на достаточном расстоянии от
 фронтальной подушки безопасности.
@@ -9890,7 +9280,6 @@ LIVAN запрещается вносить какие-либо
 необходимо ли срабатывание подушки.
 
 ### Функционирование
-`livan_s6_pro_ru_47a9e946` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 подушки
 безопасности
 зависит
@@ -9914,7 +9303,6 @@ LIVAN запрещается вносить какие-либо
 ударе.
 
 ### Срабатывание
-`livan_s6_pro_ru_32339ca3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 подушки
 безопасности
 не
@@ -9926,7 +9314,6 @@ LIVAN запрещается вносить какие-либо
 автомобиля.
 
 ### При серьезном лобовом столкновении
-`livan_s6_pro_ru_9c469f8e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 срабатывают две фронтальные подушки
 безопасности.
 Сиденья и устройства защиты
@@ -9941,7 +9328,6 @@ LIVAN запрещается вносить какие-либо
 93
 
 ### Срабатывание
-`livan_s6_pro_ru_39dc0f08` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 боковых
 подушек
 и
@@ -9986,7 +9372,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### При столкновении во время движения
-`livan_s6_pro_ru_3052e3be` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 со
 ступенями
 и
@@ -9998,7 +9383,6 @@ LIVAN запрещается вносить какие-либо
 или ров.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_e041de4a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 94
 •
 При наезде на (врезании в) заднюю
@@ -10011,7 +9395,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### При наличии неисправности системы
-`livan_s6_pro_ru_a19d9933` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 подушки безопасности.
 •
 При других непредвиденных условиях.
@@ -10021,7 +9404,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Лобовое
-`livan_s6_pro_ru_e486a7db` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:96 | doc_type:owners_manual
 или
 почти
 лобовое
@@ -10030,7 +9412,6 @@ LIVAN запрещается вносить какие-либо
 Столкновение сзади.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_ca0f5e25` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 4
 8
 7
@@ -10064,13 +9445,11 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### При наличии неисправности системы
-`livan_s6_pro_ru_5a6d952d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 подушки безопасности.
 •
 При других непредвиденных условиях.
 
 ### Обслуживание
-`livan_s6_pro_ru_a1a876e5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 и
 замена
 подушки безопасности
@@ -10108,7 +9487,6 @@ LIVAN запрещается вносить какие-либо
 сигнала.
 
 ### Автомобильная
-`livan_s6_pro_ru_074213dd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 авария
 может
 привести
@@ -10139,7 +9517,6 @@ LIVAN запрещается вносить какие-либо
 безопасности.
 
 ### Если произошло срабатывание подушки
-`livan_s6_pro_ru_de59f1e8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 безопасности,
 необходима
 замена
@@ -10152,7 +9529,6 @@ LIVAN запрещается вносить какие-либо
 проведения ремонта.
 
 ### Если при движении автомобиля светится
-`livan_s6_pro_ru_ba465a2b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:97 | doc_type:owners_manual
 лампа
 сигнализации
 о
@@ -10177,7 +9553,6 @@ LIVAN запрещается вносить какие-либо
 для проведения диагностики.
 
 ### При продаже автомобиля позаботьтесь о
-`livan_s6_pro_ru_def39825` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 том, чтобы новый владелец был в курсе
 даты замены подушки безопасности и ее
 системы.
@@ -10189,7 +9564,6 @@ LIVAN запрещается вносить какие-либо
 использования,
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_3d4454f1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 96
 несработавшая
 подушка
@@ -10203,7 +9577,6 @@ LIVAN запрещается вносить какие-либо
 специалистом в специальных условиях.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_dccf4835` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:98 | doc_type:owners_manual
 4
 8
 7
@@ -10217,14 +9590,12 @@ LIVAN запрещается вносить какие-либо
 детского кресла
 
 ### Данные по совместимости всех сидений с детским креслом в условиях фиксации
-`livan_s6_pro_ru_05eed620` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 детского кресла ремнями безопасности:
 Груп
 па
 Вес ребенка
 
 ### Положение
-`livan_s6_pro_ru_4fd295a3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 места
 пассажира
 переднего ряда
@@ -10235,7 +9606,6 @@ LIVAN запрещается вносить какие-либо
 сбоку
 
 ### Положение
-`livan_s6_pro_ru_4fd295a3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 места
 пассажира
 заднего ряда
@@ -10246,7 +9616,6 @@ X
 U
 
 ### X
-`livan_s6_pro_ru_994508a7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 0+
 <13 КГ
 X
@@ -10266,7 +9635,6 @@ X
 22-36 кг
 
 ### X
-`livan_s6_pro_ru_994508a7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 Смысл условных обозначений в таблице выше: U = универсальный тип детской
 удерживающей системы, утвержденный для использования для этой весовой группы; X
 = детская удерживающая система, неподходящая для этой весовой группы.
@@ -10274,7 +9642,6 @@ X
 в детском кресле детской системы защиты ISOFIX:
 
 ### Группа
-`livan_s6_pro_ru_86f5ae2c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 Вес
 ребенка
 Катего
@@ -10292,7 +9659,6 @@ X
 го ряда
 
 ### Положе
-`livan_s6_pro_ru_a4156d3b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 ние
 места
 пассажи
@@ -10316,7 +9682,6 @@ X
 -
 
 ### X
-`livan_s6_pro_ru_994508a7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 0
 <10 КГ
 E
@@ -10334,7 +9699,6 @@ X
 D
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_9716951b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 98
 Группа
 Вес
@@ -10347,7 +9711,6 @@ D
 и
 
 ### Положе
-`livan_s6_pro_ru_bf111d23` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:100 | doc_type:owners_manual
 ние
 места
 пассажи
@@ -10364,7 +9727,6 @@ D
 сбоку
 
 ### Положе
-`livan_s6_pro_ru_bf111d23` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:100 | doc_type:owners_manual
 ние
 места
 пассажи
@@ -10377,7 +9739,6 @@ C
 ISO/R3
 
 ### Ⅰ
-`livan_s6_pro_ru_2e9da912` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:100 | doc_type:owners_manual
 9-18 кг
 D
 ISO/R2
@@ -10395,7 +9756,6 @@ X
 IUF
 
 ### X
-`livan_s6_pro_ru_e1eb54c7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:100 | doc_type:owners_manual
 Смысл условных обозначений в таблице выше: IL = на данном сиденье используется
 детское кресло категории ISOFIX, указанное в перечне, сопровождающем автомобиль;
 используется вместе с сиденьем; IUF = на данном сиденье используется детское кресло
@@ -10403,7 +9763,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 крепежным кольцом для системы ISOFIX.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_ad4f2b14` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:100 | doc_type:owners_manual
 4
 8
 7
@@ -10418,12 +9777,10 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 защитных устройств
 
 ### Новорожденные и малолетние
-`livan_s6_pro_ru_600b60db` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 дети и дети старшего возраста
 Новорожденные и малолетние дети
 
 ### Все находящиеся в автомобиле люди
-`livan_s6_pro_ru_aee79102` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 должны быть защищены! В том числе и
 новорожденные
 и
@@ -10431,7 +9788,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 дети.
 
 ### Протяженность
-`livan_s6_pro_ru_aebde593` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 маршрута,
 а
 также
@@ -10445,7 +9801,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 безопасности.
 
 ### Если плечевой ремень обмотается
-`livan_s6_pro_ru_338ec072` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:101 | doc_type:owners_manual
 вокруг
 шеи
 ребенка,
@@ -10470,7 +9825,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 ремнями безопасности.
 
 ### Подушка безопасности и трехточечный
-`livan_s6_pro_ru_c6bd91d6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:101 | doc_type:owners_manual
 ремень
 безопасности
 могут
@@ -10495,7 +9849,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 устройств защиты.
 
 ### Незакрепленный
-`livan_s6_pro_ru_0b4e4df6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 надлежащим
 образом
 ребенок может налететь на других людей
@@ -10535,7 +9888,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 держащего.
 
 ### Младенцы
-`livan_s6_pro_ru_1d70900a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:101 | doc_type:owners_manual
 должны
 быть
 закреплены
@@ -10554,7 +9906,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 сиденье,
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_7d805cbe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:101 | doc_type:owners_manual
 100
 защищаемое
 фронтальной
@@ -10577,7 +9928,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 погибнуть.
 
 ### Запрещается
-`livan_s6_pro_ru_b146d46c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:102 | doc_type:owners_manual
 помещать
 на
 сиденье
@@ -10590,7 +9940,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 назад.
 
 ### Устройство
-`livan_s6_pro_ru_ff9a4dd2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 детской
 защиты,
 направленное
@@ -10600,7 +9949,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 установлено на сиденьях заднего ряда.
 
 ### Устройство
-`livan_s6_pro_ru_ff9a4dd2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 детской
 защиты,
 направленное
@@ -10610,7 +9958,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 установлено на сиденьях заднего ряда.
 
 ### Для того чтобы уменьшить риск
-`livan_s6_pro_ru_373e2909` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 получения травм шеи и головы во
 время аварии, младенцам необходима
 поддержка всего тела.
@@ -10640,7 +9987,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 части его тела - спине и плечам.
 
 ### Младенец
-`livan_s6_pro_ru_e8eea606` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 должен
 быть
 все
@@ -10649,7 +9995,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 направленном назад.
 
 ### Тазовая
-`livan_s6_pro_ru_ed2db7d3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:102 | doc_type:owners_manual
 кость
 ребенка
 относительно
@@ -10661,7 +10006,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 кости.
 
 ### Поэтому
-`livan_s6_pro_ru_8b1a309a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 он
 перемещается
 на
@@ -10696,7 +10040,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 устройстве защиты все время.
 
 ### Дети старшего возраста
-`livan_s6_pro_ru_dc3edb33` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 Дети старшего возраста, которые уже не
 могут сидеть в детском автомобильном
 кресле,
@@ -10706,7 +10049,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 безопасности.
 
 ### В
-`livan_s6_pro_ru_9e64bee7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:102 | doc_type:owners_manual
 руководстве
 по
 эксплуатации
@@ -10732,7 +10074,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 нему.
 
 ### Находятся
-`livan_s6_pro_ru_38b831a2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 ли
 Сиденья и устройства защиты
 4
@@ -10755,7 +10096,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 •
 
 ### Застегните
-`livan_s6_pro_ru_c674dd39` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 трехточечный
 ремень
 безопасности.
@@ -10814,7 +10154,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 ограничения.
 
 ### Плечевая
-`livan_s6_pro_ru_c02a63c1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:103 | doc_type:owners_manual
 часть
 ремня
 не
@@ -10887,7 +10226,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 травмы.
 
 ### Ремнем
-`livan_s6_pro_ru_5fc1b84c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:103 | doc_type:owners_manual
 может пользоваться только один человек.
 Сиденья и устройства защиты
 102
@@ -10902,7 +10240,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 ребенка.
 
 ### Неправильное
-`livan_s6_pro_ru_4aa83f93` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 использование
 ремня
 безопасности
@@ -10940,7 +10277,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 исходу.
 
 ### Плечевая
-`livan_s6_pro_ru_0877ad6b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 часть
 ремня
 должна
@@ -10951,7 +10287,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 средств защиты
 
 ### Детские
-`livan_s6_pro_ru_b11a7929` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 сиденья,
 направленные
 назад
@@ -10970,7 +10305,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 устройстве защиты.
 
 ### Рекомендуется
-`livan_s6_pro_ru_ee8fc875` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:104 | doc_type:owners_manual
 использовать
 фиксирующие
 детские
@@ -10998,7 +10332,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 состоянии)!
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_836e5815` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 4
 8
 7
@@ -11020,7 +10353,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 пристегивания его тела ремнями.
 
 ### Рекомендуется
-`livan_s6_pro_ru_c8c23151` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 использовать
 фиксирующие
 детские
@@ -11032,7 +10364,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 сиденья.
 
 ### Вспомогательное кресло
-`livan_s6_pro_ru_f3d5d217` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 Вспомогательное кресло - это детское
 устройство
 защиты,
@@ -11042,7 +10373,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 автомобильного ремня безопасности.
 
 ### Установка детских средств
-`livan_s6_pro_ru_f65e5221` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:105 | doc_type:owners_manual
 защиты
 По
 данным
@@ -11138,7 +10468,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 обратите на это внимание.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_a2e20da5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:105 | doc_type:owners_manual
 104
 Не
 помещайте
@@ -11158,14 +10487,12 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 состоянии).
 
 ### Установка при использовании
-`livan_s6_pro_ru_a587ccfd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:106 | doc_type:owners_manual
 ремня безопасности бедренноплечевого
 типа
 (ремень
 безопасности ALR/ELR)
 
 ### Установка
-`livan_s6_pro_ru_635a383e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:106 | doc_type:owners_manual
 детского
 кресла,
 направленного назад
@@ -11195,7 +10522,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 к
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_228c81b0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:106 | doc_type:owners_manual
 4
 8
 7
@@ -11218,7 +10544,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 установите его за сиденьем справа.
 
 ### В
-`livan_s6_pro_ru_15874072` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:107 | doc_type:owners_manual
 соответствии
 с
 инструкциями,
@@ -11241,7 +10566,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 перекручен.
 
 ### Бедренная
-`livan_s6_pro_ru_35a229af` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:107 | doc_type:owners_manual
 часть
 ремня
 должна сохранять натяжение.
@@ -11274,7 +10598,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 этим сиденьем.
 
 ### Передвиньте детское кресло в разных
-`livan_s6_pro_ru_4f07a616` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:107 | doc_type:owners_manual
 направлениях, толкайте и тяните, чтобы
 убедиться
 в
@@ -11285,13 +10608,11 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 закреплено.
 
 ### Для того чтобы снять детское средство
-`livan_s6_pro_ru_ab9f14b5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:107 | doc_type:owners_manual
 защиты, нажмите на кнопку замка.
 Сиденья и устройства защиты
 106
 
 ### Установка
-`livan_s6_pro_ru_966f5b42` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:108 | doc_type:owners_manual
 детского
 сиденья,
 направленного вперед
@@ -11313,7 +10634,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 натянут в поясной части.
 
 ### Полностью
-`livan_s6_pro_ru_347acc2b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:108 | doc_type:owners_manual
 вытяните
 плечевую
 часть
@@ -11339,7 +10659,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 зафиксировано.
 
 ### Крепко прислоните детское устройство
-`livan_s6_pro_ru_63736739` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:108 | doc_type:owners_manual
 защиты
 к
 подушке
@@ -11350,7 +10669,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 прочно закрепить ребенка на сиденье.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_5578efb8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 4
 8
 7
@@ -11377,7 +10695,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 компанией-изготовителем.
 
 ### Установка вспомогательного кресла
-`livan_s6_pro_ru_f9576c97` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:109 | doc_type:owners_manual
 Посадите ребенка в устройство защиты.
 Как
 указано
@@ -11407,7 +10724,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 ребенка.
 
 ### Подробнее
-`livan_s6_pro_ru_035b1281` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:109 | doc_type:owners_manual
 см.
 параграф
 «Ремень
@@ -11460,7 +10776,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 на нижней части предплечья ребенка.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_b7094110` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 108
 Установка устройства детской
 защиты ISOFIX
@@ -11471,7 +10786,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 специальным соединением по стандарту
 
 ### ISO устанавливается на сиденье заднего
-`livan_s6_pro_ru_00a12ed0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:110 | doc_type:owners_manual
 ряда.
 Разъемы
 для
@@ -11491,7 +10805,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 ряда.
 
 ### Детское
-`livan_s6_pro_ru_8926ed7f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 устройство
 защиты
 по
@@ -11505,7 +10818,6 @@ ISO
 соединения.
 
 ### В
-`livan_s6_pro_ru_e03d6efa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 таком
 случае не нужно
 использовать ремни
@@ -11513,7 +10825,6 @@ ISO
 защиты.
 
 ### При использовании и установке детской
-`livan_s6_pro_ru_aa2f17a9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 системы
 защиты
 ISOFIX
@@ -11530,7 +10841,6 @@ ISOFIX
 неэффективной.
 
 ### О
-`livan_s6_pro_ru_1bca650a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 возможности
 использования
 конкретного
@@ -11546,7 +10856,6 @@ ISOFIX
 компаниипроизводителя данного устройства.
 
 ### Установите
-`livan_s6_pro_ru_750a43c7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 детское
 автомобильное
 кресло
@@ -11561,7 +10870,6 @@ ISOFIX
 шагами:
 
 ### 1. Поднимите
-`livan_s6_pro_ru_fc754919` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 подголовник
 в
 соответствующее положение.
@@ -11571,7 +10879,6 @@ ISOFIX
 стержня.
 
 ### 3. Убедитесь
-`livan_s6_pro_ru_40519910` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 в
 том,
 что
@@ -11579,7 +10886,6 @@ ISOFIX
 ISOFIX находится рядом с разъемом.
 
 ### 4. Присоедините
-`livan_s6_pro_ru_9d60794e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 крепление
 детского
 автомобильного
@@ -11589,7 +10895,6 @@ ISOFIX
 разъему ISOFIX, закрепите его.
 
 ### 5. Проверьте,
-`livan_s6_pro_ru_39e05cf5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 правильно
 ли
 зафиксирована защелка.
@@ -11605,7 +10910,6 @@ ISOFIX
 109
 
 ### 6. Закрепите
-`livan_s6_pro_ru_717325a0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 фиксатор
 верхнего
 натяжного
@@ -11635,7 +10939,6 @@ ISOFIX
 инструкцией по монтажу.
 
 ### Детское
-`livan_s6_pro_ru_1d57814a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 устройство
 защиты
 не
@@ -11643,7 +10946,6 @@ ISOFIX
 соединения
 
 ### ISOFIX,
-`livan_s6_pro_ru_d57982ba` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 соответствующего
 для
 установки
@@ -11686,7 +10988,6 @@ ISOFIX
 автомобиле.
 
 ### Нельзя
-`livan_s6_pro_ru_85a28cdb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 устанавливать
 устройство
 детской
@@ -11700,7 +11001,6 @@ ISOFIX
 защиты
 
 ### ISOFIX
-`livan_s6_pro_ru_fcaf9ecc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 с
 соединением
 ISOFIX
@@ -11709,7 +11009,6 @@ ISOFIX
 характерный щелчок.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_a876d9f6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 110
 5
 8
@@ -11743,7 +11042,6 @@ ISOFIX
 обслуживания
 
 ### LIVAN,
-`livan_s6_pro_ru_2b6acbe7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 утерянный
 ключ
 дистанционного
@@ -11763,7 +11061,6 @@ ISOFIX
 немедленно.
 
 ### Центру
-`livan_s6_pro_ru_f208ee2c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 технического
 обслуживания
 LIVAN
@@ -11774,7 +11071,6 @@ LIVAN
 вашим автомобилем.
 
 ### Настоящий
-`livan_s6_pro_ru_5c3efd1e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 автомобиль
 оснащен
 отдельным механическим ключом,
@@ -11784,7 +11080,6 @@ LIVAN
 смартключа.
 
 ### Храните
-`livan_s6_pro_ru_effabf8b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:113 | doc_type:owners_manual
 запасной
 смарт-ключ
 в
@@ -11806,7 +11101,6 @@ LIVAN
 может не завестись.
 
 ### Замена
-`livan_s6_pro_ru_d2b3ff88` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 элемента
 питания
 смарт-ключа
@@ -11824,7 +11118,6 @@ LIVAN
 смарт-ключе.
 
 ### 1. Вставьте отвертку с прямым шлицем
-`livan_s6_pro_ru_8c6380c2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 в прорезь посередине, одновременно
 переверните ключ задней стороной
 вверх,
@@ -11847,7 +11140,6 @@ LIVAN
 ключа.
 
 ### Будьте
-`livan_s6_pro_ru_65cfc006` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 осторожны,
 не
 наклоняйте
@@ -11862,7 +11154,6 @@ LIVAN
 декоративные детали.
 
 ### 2. После открытия корпуса смарт-ключа
-`livan_s6_pro_ru_8f116f6a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 необходимо
 вставить
 отвертку
@@ -11893,7 +11184,6 @@ LIVAN
 вниз.
 
 ### Модель
-`livan_s6_pro_ru_c9255951` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:114 | doc_type:owners_manual
 элемента питания смарт-ключа: 3В,
 CR2032.
 3. После установки крышки батарейного
@@ -11921,7 +11211,6 @@ CR2032.
 ниже
 
 ### -20° С
-`livan_s6_pro_ru_f404d462` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 в
 течение
 длительного
@@ -11937,7 +11226,6 @@ CR2032.
 смарт-ключа.
 
 ### Своевременно
-`livan_s6_pro_ru_d8480316` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 заменяйте элемент питания. Избегайте
 влияния на функционал дистанционного
 управления,
@@ -11956,7 +11244,6 @@ CR2032.
 использование.
 
 ### Противоугонная
-`livan_s6_pro_ru_d6a64f3d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 защита
 двигателя
 Противоугонную
@@ -11977,7 +11264,6 @@ CR2032.
 автоматически отключается.
 
 ### Если противоугонная защита двигателя
-`livan_s6_pro_ru_d061ab26` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 не снимается, а смарт-ключ не содержит
 признаков
 повреждения,
@@ -11990,7 +11276,6 @@ CR2032.
 •
 
 ### Используйте другие действительные
-`livan_s6_pro_ru_ad14601d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:114 | doc_type:owners_manual
 смарт-ключи,
 которыми
 оборудован
@@ -12015,14 +11300,12 @@ CR2032.
 ремонте.
 
 ### Свяжитесь
-`livan_s6_pro_ru_c72126ed` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 с
 центром
 технического
 обслуживания автомобилей LIVAN.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_80a3fd2f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 5
 8
 7
@@ -12038,7 +11321,6 @@ CR2032.
 отключающее противоугонную защиту.
 
 ### Открытие
-`livan_s6_pro_ru_4f8f23f8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 и
 закрытие
 автомобиля
@@ -12067,7 +11349,6 @@ CR2032.
 проверьте, успешно ли она выполнена.
 
 ### Автомобиль можно запереть с помощью
-`livan_s6_pro_ru_f173a245` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 смарт-ключа,
 только
 когда
@@ -12076,7 +11357,6 @@ CR2032.
 OFF и все двери закрыты.
 
 ### Если незапертый автомобиль стоит на
-`livan_s6_pro_ru_c81046ed` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:115 | doc_type:owners_manual
 стоянке в течение длительного времени,
 аккумулятор
 автомобиля
@@ -12101,7 +11381,6 @@ OFF и все двери закрыты.
 помощью механического ключа.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_1c4203ff` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 114
 Бесключевой вход в систему
 •
@@ -12227,7 +11506,6 @@ Bluetooth и т.д., функция бесключевого
 запирания.
 
 ### Когда все двери автомобиля закрыты и
-`livan_s6_pro_ru_dc9e363c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:116 | doc_type:owners_manual
 заблокированы, подойдите к автомобилю
 с действующим смарт-ключом, положите
 руку прямо на ручку двери со стороны
@@ -12240,7 +11518,6 @@ Bluetooth и т.д., функция бесключевого
 топливного бака будут разблокированы.
 
 ### Некоторые модели оснащены функцией
-`livan_s6_pro_ru_4b3fd3b0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:116 | doc_type:owners_manual
 разблокирования
 при
 приближении,
@@ -12248,7 +11525,6 @@ Bluetooth и т.д., функция бесключевого
 блокировки двери на экране дисплея.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_7f8715b2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 5
 8
 7
@@ -12290,7 +11566,6 @@ Bluetooth и т.д., функция бесключевого
 огни.
 
 ### В
-`livan_s6_pro_ru_d61072f6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 некоторых
 моделях
 после
@@ -12307,7 +11582,6 @@ Bluetooth и т.д., функция бесключевого
 комбинированные фары.
 
 ### Если автомобиль не используется в
-`livan_s6_pro_ru_cc622acd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 течение
 определенного
 периода
@@ -12346,7 +11620,6 @@ Bluetooth и т.д., функция бесключевого
 разблокировки автомобиля.
 
 ### Установите
-`livan_s6_pro_ru_8a104aaf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:117 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -12375,7 +11648,6 @@ OFF,
 заблокируются.
 
 ### Некоторые
-`livan_s6_pro_ru_1b3b2a4e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:117 | doc_type:owners_manual
 модели
 оснащены
 функцией
@@ -12415,7 +11687,6 @@ OFF,
 комбинированные фары.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_edcd19b5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 116
 Если автомобиль не используется в
 течение
@@ -12456,13 +11727,11 @@ OFF,
 блокировки автомобиля.
 
 ### Дистанционное
-`livan_s6_pro_ru_4b589e3a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 блокирование
 и разблокирование замков
 Разблокирование замков
 
 ### Кратковременно
-`livan_s6_pro_ru_c092ed28` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:118 | doc_type:owners_manual
 нажмите
 кнопку
 разблокировки на смарт-ключе
@@ -12489,7 +11758,6 @@ OFF,
 комбинированные фары.
 
 ### Кратковременно
-`livan_s6_pro_ru_c092ed28` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 нажмите
 кнопку
 запирания замков
@@ -12515,7 +11783,6 @@ OFF,
 огни и передние комбинированные фары.
 
 ### Нажмите
-`livan_s6_pro_ru_752b34df` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 и
 удерживайте
 кнопку
@@ -12526,7 +11793,6 @@ OFF,
 четырех дверей и люк в крыше.
 
 ### Если включена функция автоматического
-`livan_s6_pro_ru_2425b7a4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 закрытия
 окон
 при
@@ -12557,7 +11823,6 @@ OFF,
 сигнал-напоминание.
 
 ### Не позволяйте детям проникать в
-`livan_s6_pro_ru_53f2cfad` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:118 | doc_type:owners_manual
 багажное
 отделение.
 Если
@@ -12593,7 +11858,6 @@ OFF,
 травмам.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_6685e373` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 5
 8
 7
@@ -12609,7 +11873,6 @@ OFF,
 механическим ключом
 
 ### 2. Вставьте
-`livan_s6_pro_ru_3efcb186` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 механический
 ключ
 в
@@ -12622,7 +11885,6 @@ OFF,
 водителя и снимите ее.
 
 ### 3. Вставьте механический ключ в замок
-`livan_s6_pro_ru_b93cf56d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 двери
 со
 стороны
@@ -12632,7 +11894,6 @@ OFF,
 и крышку топливного бака.
 
 ### Блокирование
-`livan_s6_pro_ru_1ed7d998` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 и
 разблокирование
 замков
@@ -12641,7 +11902,6 @@ OFF,
 1. Кнопка разблокировки
 
 ### 2. Кнопка блокировки
-`livan_s6_pro_ru_a5678473` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 Если четыре двери закрыты, нажмите
 кнопку
 блокировки
@@ -12657,7 +11917,6 @@ OFF,
 разблокировать все двери.
 
 ### Разблокировка
-`livan_s6_pro_ru_13e6411d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 при
 помощи
 центральной кнопки управления в
@@ -12676,7 +11935,6 @@ OFF,
 невозможно.
 
 ### Автоматическое блокирование
-`livan_s6_pro_ru_dcef20ab` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:119 | doc_type:owners_manual
 и разблокирование
 Автоматическое
 повторное
@@ -12693,7 +11951,6 @@ OFF,
 зависимости от конфигурации модели).
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_a94a8f1b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 118
 Если
 четыре
@@ -12709,7 +11966,6 @@ OFF,
 заблокируется.
 
 ### Автоматическая
-`livan_s6_pro_ru_bc852ab0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 блокировка
 в
 движении
@@ -12727,7 +11983,6 @@ OFF,
 установленную скорость.
 
 ### Функция
-`livan_s6_pro_ru_0b826606` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:120 | doc_type:owners_manual
 автоматической
 блокировки
 в
@@ -12737,7 +11992,6 @@ OFF,
 дисплея.
 
 ### Автоматическая
-`livan_s6_pro_ru_bc852ab0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:120 | doc_type:owners_manual
 разблокировка
 после останова двигателя
 После
@@ -12764,7 +12018,6 @@ OFF,
 мультимедиа.
 
 ### Если автомобиль попадает в серьезное
-`livan_s6_pro_ru_dab035aa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 лобовое
 столкновение
 во
@@ -12779,7 +12032,6 @@ OFF,
 автомобиль.
 
 ### Функция поиска автомобиля
-`livan_s6_pro_ru_570794cd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 Если
 местоположение
 вашего
@@ -12800,7 +12052,6 @@ OFF,
 положении
 
 ### OFF,
-`livan_s6_pro_ru_8f5d7ce2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 закрытых
 и
 заблокированных
@@ -12809,7 +12060,6 @@ OFF,
 системой.
 
 ### Автомобиль
-`livan_s6_pro_ru_89acaee3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 3
 раза
 подаст
@@ -12829,7 +12079,6 @@ OFF,
 местоположении автомобиля.
 
 ### Открытие багажника в машине
-`livan_s6_pro_ru_1c1104d5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:120 | doc_type:owners_manual
 Чтобы открыть крышку багажника, когда
 автомобиль
 припаркован,
@@ -12848,7 +12097,6 @@ OFF,
 переключателей приборной панели.
 
 ### Открытие
-`livan_s6_pro_ru_d186106c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:120 | doc_type:owners_manual
 багажника
 снаружи
 машины
@@ -12877,7 +12125,6 @@ OFF,
 багажника.
 
 ### Бесключевое открытие багажника
-`livan_s6_pro_ru_a1bdc30e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:121 | doc_type:owners_manual
 Чтобы
 открыть
 багажник,
@@ -12903,7 +12150,6 @@ OFF,
 положение
 
 ### OFF,
-`livan_s6_pro_ru_d2b1082c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:121 | doc_type:owners_manual
 нажмите
 и
 удерживайте
@@ -12911,7 +12157,6 @@ OFF,
 открытия багажника на смарт-ключе.
 
 ### Автоматическое
-`livan_s6_pro_ru_cb71ef48` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:121 | doc_type:owners_manual
 индуктивное
 открытие багажника
 Некоторые модели оснащены функцией
@@ -12952,7 +12197,6 @@ OFF,
 открыт.
 
 ### Если водитель длительное время
-`livan_s6_pro_ru_6789c036` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:121 | doc_type:owners_manual
 стоит
 в
 зоне
@@ -12970,7 +12214,6 @@ OFF,
 может быть открыта по ошибке. В целях
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_92cf6284` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:121 | doc_type:owners_manual
 120
 обеспечения сохранности имущества ,
 обязательно
@@ -13000,7 +12243,6 @@ OFF,
 повреждению багажника.
 
 ### Будьте
-`livan_s6_pro_ru_e15ad9a0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 осторожны
 при
 открытии
@@ -13027,7 +12269,6 @@ OFF,
 времени.
 
 ### В
-`livan_s6_pro_ru_db224974` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 это
 время
 дверцу
@@ -13037,7 +12278,6 @@ OFF,
 подняв ее вручную.
 
 ### Аварийное
-`livan_s6_pro_ru_da9075fd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 открытие
 багажника
 Багажное отделение этого автомобиля
@@ -13056,7 +12296,6 @@ OFF,
 способами:
 
 ### 1. Нажмите
-`livan_s6_pro_ru_ccb34df4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 и
 удерживайте
 кнопку
@@ -13067,7 +12306,6 @@ OFF,
 переключателей приборной панели;
 
 ### 2. Нажмите
-`livan_s6_pro_ru_9afece4b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 и
 удерживайте
 кнопку
@@ -13086,7 +12324,6 @@ OFF,
 аварийного открытия багажника.
 
 ### Открытие
-`livan_s6_pro_ru_3bf58113` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 производится
 следующим
 образом:
@@ -13094,7 +12331,6 @@ OFF,
 сиденья.
 
 ### Подробнее
-`livan_s6_pro_ru_f50eccef` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 см.
 в
 главе
@@ -13105,7 +12341,6 @@ OFF,
 «Сиденья и устройства защитые.
 
 ### 3. Нажмите
-`livan_s6_pro_ru_b4200408` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 кнопку
 аварийного
 открывания багажника в направлении
@@ -13113,7 +12348,6 @@ OFF,
 чтобы открыть багажник.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_1a5c4cbb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 5
 8
 7
@@ -13141,7 +12375,6 @@ OFF,
 помощью двух рывков внутренней ручки.
 
 ### Первый
-`livan_s6_pro_ru_e16b4014` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 рывок
 предназначен
 для
@@ -13149,7 +12382,6 @@ OFF,
 открытия.
 
 ### Детский замок безопасности
-`livan_s6_pro_ru_c57447e5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 Левая
 и
 правая
@@ -13171,7 +12403,6 @@ OFF,
 безопасности.
 
 ### Детский замок безопасности расположен
-`livan_s6_pro_ru_5b29dfa8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:123 | doc_type:owners_manual
 на
 внешних
 краях
@@ -13207,7 +12438,6 @@ OFF,
 работает нормально.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_71faecd4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 122
 Запуск
 двигателя
@@ -13218,7 +12448,6 @@ OFF,
 (бесключевой запуск)
 
 ### Этот автомобиль оснащен электронным
-`livan_s6_pro_ru_3ea4f6be` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:124 | doc_type:owners_manual
 бесключевым
 запуском,
 который
@@ -13244,7 +12473,6 @@ OFF: в этом положении автомобиль
 переключатель находится в режиме
 
 ### OFF,
-`livan_s6_pro_ru_80843f82` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:124 | doc_type:owners_manual
 нажмите
 педаль
 тормоза.
@@ -13255,7 +12483,6 @@ OFF: в этом положении автомобиль
 цветом.
 
 ### Нажмите
-`livan_s6_pro_ru_3e187997` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 кнопку
 зажигания, чтобы завести автомобиль.
 •
@@ -13273,7 +12500,6 @@ ACC:
 незаведенном двигателе автомобиля.
 
 ### Когда автомобиль не заведен и педаль
-`livan_s6_pro_ru_0a4411bb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:124 | doc_type:owners_manual
 тормоза не нажата, нажатие на кнопку
 зажигания включает режим ACC. Если
 в положении ACC нажать на педаль
@@ -13293,7 +12519,6 @@ ACC:
 перевести его в состояние движения.
 
 ### Если пусковой переключатель все
-`livan_s6_pro_ru_43d272cb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:124 | doc_type:owners_manual
 еще
 находится
 в
@@ -13311,7 +12536,6 @@ ACC
 •
 
 ### ON:
-`livan_s6_pro_ru_3f14b08d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:124 | doc_type:owners_manual
 когда
 пусковой
 переключатель
@@ -13356,7 +12580,6 @@ START: этот режим используется для
 режиме
 
 ### START
-`livan_s6_pro_ru_25c7e9fb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:124 | doc_type:owners_manual
 двигатель
 продолжит
 работу
@@ -13364,7 +12587,6 @@ START: этот режим используется для
 приведения в действие.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_82ebbbc9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 5
 8
 7
@@ -13384,14 +12606,12 @@ START: этот режим используется для
 следующие условия:
 
 ### 3. Переведите
-`livan_s6_pro_ru_8dac80aa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 рычаг
 переключения
 передач в положение парковки (P)
 или нейтральное положение (N).
 
 ### 4. Нажмите на кнопку зажигания.
-`livan_s6_pro_ru_1f393743` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:125 | doc_type:owners_manual
 •
 Перед
 запуском
@@ -13415,7 +12635,6 @@ START: этот режим используется для
 •
 
 ### Приводите автомобиль в движение в
-`livan_s6_pro_ru_c8febc75` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:125 | doc_type:owners_manual
 соответствии с местными законами и
 нормативами.
 •
@@ -13428,7 +12647,6 @@ START: этот режим используется для
 •
 
 ### Если двигатель еще не достиг рабочей
-`livan_s6_pro_ru_3855098b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:125 | doc_type:owners_manual
 температуры,
 избегайте
 высокой
@@ -13441,7 +12659,6 @@ START: этот режим используется для
 •
 
 ### Во время движения автомобиля не
-`livan_s6_pro_ru_03c792b2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:125 | doc_type:owners_manual
 направляйте
 пульт
 дистанционного
@@ -13478,7 +12695,6 @@ START: этот режим используется для
 обеспечить лучшее смазывание.
 
 ### 1. Когда
-`livan_s6_pro_ru_bb8aa41a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:125 | doc_type:owners_manual
 водителю
 нужно
 запустить
@@ -13506,7 +12722,6 @@ START: этот режим используется для
 хорошую смазку.
 
 ### 2. Если
-`livan_s6_pro_ru_a6de294b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:125 | doc_type:owners_manual
 смарт-ключ
 не
 находится
@@ -13518,7 +12733,6 @@ START: этот режим используется для
 панели подскажет, что ключа нет в
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_32ff8451` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:125 | doc_type:owners_manual
 124
 автомобиле, в это время двигатель
 не
@@ -13540,7 +12754,6 @@ START: этот режим используется для
 компоненты.
 
 ### Если Вы нажмете кнопку зажигания и
-`livan_s6_pro_ru_91e9ed62` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:126 | doc_type:owners_manual
 отпустите ее, когда двигатель начнет
 запускаться,
 стартер
@@ -13572,7 +12785,6 @@ START: этот режим используется для
 чтобы начать следующий пуск.
 
 ### Если после неудачного пуска сразу
-`livan_s6_pro_ru_2855909b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:126 | doc_type:owners_manual
 же
 повторно
 нажать
@@ -13595,7 +12807,6 @@ START: этот режим используется для
 полного остывания стартера.
 
 ### Резервная процедура запуска
-`livan_s6_pro_ru_a1296081` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:126 | doc_type:owners_manual
 автомобиля
 Если
 автомобиль
@@ -13620,7 +12831,6 @@ START: этот режим используется для
 автомобиль с помощью запуска с кнопки.
 
 ### Запустите
-`livan_s6_pro_ru_e9380fa0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:126 | doc_type:owners_manual
 автомобиль
 следующим
 образом:
@@ -13631,12 +12841,10 @@ START: этот режим используется для
 или нейтральное положение (N).
 
 ### 2. Положите смарт-ключ в контейнер за
-`livan_s6_pro_ru_be532e09` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:126 | doc_type:owners_manual
 центральной консолью.
 3. Нажмите на педаль тормоза.
 
 ### 4. Нажмите на кнопку зажигания.
-`livan_s6_pro_ru_4d95f26d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:126 | doc_type:owners_manual
 Если
 автомобиль
 заглох
@@ -13655,7 +12863,6 @@ START: этот режим используется для
 тормоза.
 
 ### Переведите
-`livan_s6_pro_ru_521dc33f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:126 | doc_type:owners_manual
 рычаг
 переключения передач в положение N и
 источник
@@ -13664,7 +12871,6 @@ START: этот режим используется для
 на
 
 ### ON,
-`livan_s6_pro_ru_180d8d3c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:126 | doc_type:owners_manual
 далее нажмите кнопку зажигания.
 Когда
 автомобиль
@@ -13684,7 +12890,6 @@ START: этот режим используется для
 восстановится.
 
 ### Если процедура бесключевого запуска не
-`livan_s6_pro_ru_404b3eac` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:126 | doc_type:owners_manual
 может
 быть
 использована
@@ -13729,7 +12934,6 @@ Bluetooth,
 консолью.
 
 ### Дистанционный
-`livan_s6_pro_ru_7918c9ad` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:127 | doc_type:owners_manual
 запуск
 двигателя
 В пределах зоны действия смарт-ключа
@@ -13753,7 +12957,6 @@ Bluetooth,
 обеспечивает надежную защиту.
 
 ### По истечении некоторого времени
-`livan_s6_pro_ru_a409c47b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 после
 дистанционного
 запуска
@@ -13768,7 +12971,6 @@ Bluetooth,
 топливо.
 
 ### Перед проверкой двигатель необходимо
-`livan_s6_pro_ru_b38cf612` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:127 | doc_type:owners_manual
 запустить двигатель в соответствии с
 правильной процедурой и убедиться в
 наличии
@@ -13777,7 +12979,6 @@ Bluetooth,
 топлива.
 
 ### Данный
-`livan_s6_pro_ru_0848f648` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:127 | doc_type:owners_manual
 автомобиль
 оснащен
 электронной
@@ -13785,7 +12986,6 @@ Bluetooth,
 системой.
 
 ### Необходимо
-`livan_s6_pro_ru_a28b27a0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:127 | doc_type:owners_manual
 убедиться,
 можно
 ли
@@ -13801,7 +13001,6 @@ Bluetooth,
 ключ.
 
 ### Передайте
-`livan_s6_pro_ru_9d7a2de3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 смарт-ключ
 в
 центр
@@ -13828,7 +13027,6 @@ Bluetooth,
 обслуживания
 
 ### LIVAN
-`livan_s6_pro_ru_e3b4c87f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:127 | doc_type:owners_manual
 для
 проведения
 технического
@@ -13841,7 +13039,6 @@ Bluetooth,
 скорость слишком низкая:
 
 ### 1. Убедитесь, что клеммы аккумулятора
-`livan_s6_pro_ru_eae990ad` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:127 | doc_type:owners_manual
 затянуты и чистые;
 2. Если
 проблем
@@ -13868,7 +13065,6 @@ Bluetooth,
 его
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_ac5d5ecd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 126
 можно
 попытаться
@@ -13903,7 +13099,6 @@ Bluetooth,
 обслуживания
 
 ### LIVAN
-`livan_s6_pro_ru_d0913750` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:128 | doc_type:owners_manual
 для
 проведения
 технического
@@ -13941,7 +13136,6 @@ Bluetooth,
 проведения технического обслуживания.
 
 ### Технология
-`livan_s6_pro_ru_fe3369b3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 запуска/
 остановки двигателя
 Положение
@@ -13963,7 +13157,6 @@ Bluetooth,
 control]
 
 ### Переведите
-`livan_s6_pro_ru_913f7721` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 замок
 зажигания
 в
@@ -13988,7 +13181,6 @@ ON,
 км/ч.
 
 ### Световой
-`livan_s6_pro_ru_3198b1cc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:128 | doc_type:owners_manual
 индикатор
 состояния
 системы
@@ -14013,7 +13205,6 @@ ON,
 остановки).
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_6650c59a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 5
 8
 7
@@ -14028,7 +13219,6 @@ ON,
 автоматической остановки
 
 ### Допустимые
-`livan_s6_pro_ru_1a7ad57b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 критерии
 автоматической
 остановки
@@ -14045,7 +13235,6 @@ EMS
 автоматическую остановку):
 
 ### 1. Включить
-`livan_s6_pro_ru_3522241a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 переключатель
 запускаостановки;
 2. Нормальная
@@ -14053,7 +13242,6 @@ EMS
 охлаждающей жидкости двигателя;
 
 ### 3. Нет
-`livan_s6_pro_ru_925e633a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 неисправностей
 воздушной
 заслонки,
@@ -14062,14 +13250,12 @@ EMS
 расходомера воздуха;
 
 ### 4. Электронная
-`livan_s6_pro_ru_bedb704a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:129 | doc_type:owners_manual
 система
 контроля
 устойчивости ESC не активирована;
 5. Капот переднего отсека закрыт;
 
 ### 7. Ремень
-`livan_s6_pro_ru_ff14e4cd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:129 | doc_type:owners_manual
 безопасности
 со
 стороны
@@ -14080,13 +13266,11 @@ EMS
 тормозов;
 
 ### 9. Нет препятствий для торможения, нет
-`livan_s6_pro_ru_a40bbf4e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:129 | doc_type:owners_manual
 препятствий для скорости;
 10. Воздушная подушка безопасности не
 раскрыта;
 
 ### 11. Система
-`livan_s6_pro_ru_df55d104` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:129 | doc_type:owners_manual
 кондиционирования
 допускает запуск/парковку;
 12. Коробка
@@ -14095,7 +13279,6 @@ EMS
 остановку;
 
 ### 13. Высота над уровнем моря ниже 4000
-`livan_s6_pro_ru_b8c55b48` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 метров;
 14. Угол
 поворота
@@ -14104,7 +13287,6 @@ EMS
 установленного;
 
 ### 17. Рычаг
-`livan_s6_pro_ru_cb3f3b89` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:129 | doc_type:owners_manual
 переключения
 передач
 в
@@ -14114,13 +13296,11 @@ EMS
 аккумулятора 12V;
 
 ### 19. Скорость
-`livan_s6_pro_ru_b2174d73` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 больше
 определенного
 значения, допускающего остановку.
 
 ### Если все вышеуказанные критерии
-`livan_s6_pro_ru_101efa04` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:129 | doc_type:owners_manual
 соблюдены,
 световой
 индикатор
@@ -14129,7 +13309,6 @@ EMS
 зеленый.
 
 ### Условия
-`livan_s6_pro_ru_ce04f297` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 автоматического
 запуска-остановки
 Условия автоматического запуска EMS
@@ -14141,7 +13320,6 @@ EMS
 условий):
 
 ### 1. Выключите
-`livan_s6_pro_ru_ff5b76aa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 переключатель
 запускаостановки;
 2. Недостаточная
@@ -14149,7 +13327,6 @@ EMS
 охлаждающей жидкости;
 
 ### 5. Ремень
-`livan_s6_pro_ru_1a95bf21` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:129 | doc_type:owners_manual
 безопасности
 со
 стороны
@@ -14161,7 +13338,6 @@ EMS
 отвечает требованиям;
 
 ### 7. Система кондиционирования требует
-`livan_s6_pro_ru_57db7775` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 запуск;
 8. TCU требует запуск;
 9. Угол
@@ -14171,12 +13347,10 @@ EMS
 установленного;
 
 ### 11. При отпускании педали тормоза (или
-`livan_s6_pro_ru_5da8e2e7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:129 | doc_type:owners_manual
 недостаточном нажатии) в положении
 рычага D и отпускании кнопки AUTO
 
 ### 12. Нажатие
-`livan_s6_pro_ru_1510ae1e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:129 | doc_type:owners_manual
 на
 педаль
 тормоза,
@@ -14190,7 +13364,6 @@ EMS
 положения
 
 ### D
-`livan_s6_pro_ru_c54d5a77` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 в
 положение, отличное от P;
 13. Переведение
@@ -14200,7 +13373,6 @@ EMS
 другое положение;
 
 ### 14. Нажатие
-`livan_s6_pro_ru_7e60aec3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 на
 педаль
 газа
@@ -14208,7 +13380,6 @@ EMS
 активированной кнопке AUTO HOLD;
 
 ### 15. Относительно
-`livan_s6_pro_ru_580aafde` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:130 | doc_type:owners_manual
 низкое
 напряжение
 аккумулятора 12V;
@@ -14220,7 +13391,6 @@ EMS
 запускаостановки
 
 ### 1. Неисправность
-`livan_s6_pro_ru_f4a18889` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:130 | doc_type:owners_manual
 тормозного
 переключателя;
 2. Неисправность
@@ -14228,7 +13398,6 @@ EMS
 скорости;
 
 ### 3. Ошибка сигнала датчика тормозного
-`livan_s6_pro_ru_061b6652` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:130 | doc_type:owners_manual
 давления;
 4. Местоположение сигнала воздушной
 подушки безопасности.
@@ -14244,7 +13413,6 @@ EMS
 (положение наклона).
 
 ### 1. При превышении определенного угла
-`livan_s6_pro_ru_4fff5a85` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 наклона активация запуска-остановки
 невозможна;
 2. При остановке двигателя на дороге с
@@ -14258,7 +13426,6 @@ EMS
 функцию
 
 ### HOLD,
-`livan_s6_pro_ru_0aa64821` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 чтобы
 предотвратить
 откатывание
@@ -14282,7 +13449,6 @@ EMS
 •
 
 ### При движении по дорогам с плохим
-`livan_s6_pro_ru_f647dc68` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 дорожным покрытием.
 •
 При наезде на бордюр.
@@ -14292,7 +13458,6 @@ EMS
 автомобиль полностью загружен.
 
 ### В
-`livan_s6_pro_ru_449ac216` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 автомобиле,
 оснащенном
 двигателем с турбонаддувом строго
@@ -14305,7 +13470,6 @@ EMS
 передаче.
 
 ### В
-`livan_s6_pro_ru_449ac216` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:130 | doc_type:owners_manual
 случае
 внезапного выключения двигателя при
 полной
@@ -14329,7 +13493,6 @@ EMS
 повреждению.
 
 ### Обкатка новых автомобилей в основном
-`livan_s6_pro_ru_83fb0b96` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 предназначена для улучшения трения и
 качества
 поверхностей
@@ -14343,7 +13506,6 @@ EMS
 расхода топлива.
 
 ### В
-`livan_s6_pro_ru_449ac216` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 период
 обкатки
 нового
@@ -14357,7 +13519,6 @@ EMS
 •
 
 ### Старайтесь не нажимать педаль газа
-`livan_s6_pro_ru_5e9092de` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 до упора при трогании с места и в
 движении.
 Запуск двигателя и вождение
@@ -14373,13 +13534,11 @@ EMS
 •
 
 ### Во время обкатки автомобиль должен
-`livan_s6_pro_ru_181dcefe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 двигаться по ровной дороге. Избегайте
 езды по грязи или песчаным дорогам.
 •
 
 ### Избегайте
-`livan_s6_pro_ru_4095b865` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 работы
 двигателя
 на
@@ -14389,7 +13548,6 @@ EMS
 •
 
 ### Избегайте экстренного торможения в
-`livan_s6_pro_ru_5cc3b4c0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 течение первых 300 километров.
 •
 Не
@@ -14406,7 +13564,6 @@ EMS
 времени.
 
 ### Использование автомобиля в
-`livan_s6_pro_ru_731809c7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:131 | doc_type:owners_manual
 холодном климате (ниже 0°С)
 90%
 износа
@@ -14425,12 +13582,10 @@ EMS
 соблюдать следующие требования:
 
 ### После запуска автомобиль работает в
-`livan_s6_pro_ru_fc7cdc33` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 течение 2-3 минут на холостом ходу,
 затем можно начинать движение.
 
 ### После запуска автомобиль следует вести
-`livan_s6_pro_ru_f13f2634` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 со скоростью ниже 40 км/ч, а после того,
 как индикатор температуры воды начнет
 меняться, можно двигаться в обычном
@@ -14450,7 +13605,6 @@ EMS
 положении
 
 ### P.
-`livan_s6_pro_ru_b200447b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 При
 сравнительно
 низких
@@ -14463,7 +13617,6 @@ EMS
 положения P.
 
 ### При долгом движении на короткие
-`livan_s6_pro_ru_53209e32` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:131 | doc_type:owners_manual
 дистанции при холодном климате
 средняя отметка температуры воды не
 достигается, что приводит к старению
@@ -14503,7 +13656,6 @@ EMS
 более 30 км.
 
 ### Парковка
-`livan_s6_pro_ru_673721ef` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 на
 горючих
 материалах
@@ -14529,7 +13681,6 @@ EMS
 легковоспламеняющихся материалах.
 
 ### В
-`livan_s6_pro_ru_d87c0023` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 разных
 режимах
 движения
@@ -14544,7 +13695,6 @@ EMS
 топлива и защиты окружающей среды.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_9468eb28` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 130
 Пожалуйста,
 соблюдайте
@@ -14562,7 +13712,6 @@ EMS
 общественного транспорта.
 
 ### 1. Плавный старт и ускорение
-`livan_s6_pro_ru_94050c78` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 При
 трогании
 с
@@ -14581,7 +13730,6 @@ EMS
 ускорения.
 
 ### Плавное
-`livan_s6_pro_ru_de853929` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 трогание
 и
 ускорение
@@ -14590,7 +13738,6 @@ EMS
 топлива.
 
 ### 2. Поддержание
-`livan_s6_pro_ru_891a2785` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 постоянной
 экономичной скорости
 Экономичной является скорость 4060
@@ -14607,7 +13754,6 @@ EMS
 автомагистралям.
 
 ### С
-`livan_s6_pro_ru_0400ef7c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 точки зрения безопасного вождения
 поддержание
 постоянной
@@ -14615,7 +13761,6 @@ EMS
 меньшему расходу топлива.
 
 ### 3. Избегайте
-`livan_s6_pro_ru_3934f106` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:132 | doc_type:owners_manual
 торможения
 без
 необходимости
@@ -14641,7 +13786,6 @@ EMS
 резкого торможения.
 
 ### 4. Выключайте
-`livan_s6_pro_ru_30e0f89f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:132 | doc_type:owners_manual
 двигатель
 при
 длительных
@@ -14654,7 +13798,6 @@ EMS
 ходу.
 
 ### На холостом ходу также потребляется
-`livan_s6_pro_ru_50fab73b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:132 | doc_type:owners_manual
 топливо. Заглушите двигатель, если
 время остановки превышает 1 минуту
 в случае пробок на дорогах, длинных
@@ -14673,7 +13816,6 @@ EMS
 запуска двигателя.
 
 ### 5. Поддержание низкого сопротивления
-`livan_s6_pro_ru_ab1904de` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:132 | doc_type:owners_manual
 воздуха
 Открытие окна на высокой скорости
 значительно
@@ -14692,7 +13834,6 @@ EMS
 закройте окна.
 
 ### 6. Поддержание правильного давления
-`livan_s6_pro_ru_e781402c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 в шинах
 Регулярно
 проверяйте
@@ -14706,7 +13847,6 @@ EMS
 ведет к увеличению расхода топлива.
 
 ### 7. Минимизация
-`livan_s6_pro_ru_ff6ac6cd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:132 | doc_type:owners_manual
 использования
 кондиционера
 Кондиционер
@@ -14737,7 +13877,6 @@ EMS
 использовании кондиционера.
 
 ### Каждый дополнительный килограмм
-`livan_s6_pro_ru_32e314e3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 веса
 может
 увеличить
@@ -14747,7 +13886,6 @@ EMS
 убирайте
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_4676f9cd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 5
 8
 7
@@ -14764,7 +13902,6 @@ EMS
 средства.
 
 ### 9. Своевременное
-`livan_s6_pro_ru_0c62acc3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 техническое
 обслуживание
 Чтобы поддерживать автомобиль в
@@ -14776,7 +13913,6 @@ EMS
 правилам.
 
 ### Хорошая
-`livan_s6_pro_ru_286efe95` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 работа
 двигателя
 способствует
@@ -14788,7 +13924,6 @@ EMS
 топлива.
 
 ### Оптимизируйте
-`livan_s6_pro_ru_caa3f406` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 маршрут
 и
 старайтесь избегать перегруженных
@@ -14798,7 +13933,6 @@ EMS
 топлива.
 
 ### 11. Не
-`livan_s6_pro_ru_ad7518f3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 стоит
 менять
 размер
@@ -14810,7 +13944,6 @@ EMS
 топлива.
 
 ### Осторожное вождение
-`livan_s6_pro_ru_f5d58c89` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:133 | doc_type:owners_manual
 Первое,
 что
 нужно
@@ -14820,7 +13953,6 @@ EMS
 ремень безопасности.
 
 ### Безопасное
-`livan_s6_pro_ru_05c6c747` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 вождение:
 во
 время
@@ -14843,7 +13975,6 @@ EMS
 меры для предотвращения аварии.
 
 ### Соблюдайте
-`livan_s6_pro_ru_5931a0db` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 дистанцию
 и
 сосредоточьтесь
@@ -14853,7 +13984,6 @@ EMS
 столкновению и травмированию людей.
 
 ### Соблюдайте
-`livan_s6_pro_ru_5931a0db` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 достаточную
 дистанцию между Вашим и впереди
 идущим автомобилем. Сосредоточьтесь
@@ -14861,7 +13991,6 @@ EMS
 вождении.
 
 ### Рассеянность
-`livan_s6_pro_ru_70f85b9b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 водителя
 может привести к столкновению, травмам
 и гибели людей. Эти простые техники
@@ -14869,7 +13998,6 @@ EMS
 жизнь.
 
 ### Вождение
-`livan_s6_pro_ru_23150fa5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 в
 состоянии
 алкогольного опьянения
@@ -14887,7 +14015,6 @@ EMS
 алкогольного опьянения запрещено.
 
 ### Ответственность
-`livan_s6_pro_ru_c8c6158a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 и
 последствия
 установлены
@@ -14895,7 +14022,6 @@ EMS
 законодательством РФ.
 
 ### Во избежание повреждения автомобиля
-`livan_s6_pro_ru_fb44eade` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 при движении по воде (например, при
 Запуск двигателя и вождение
 132
@@ -14903,14 +14029,12 @@ EMS
 на следующее:
 
 ### 1. Определите
-`livan_s6_pro_ru_569a79d9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 глубину
 перед
 движением по воде. Максимальный
 уровень воды - ребро краевой балки.
 
 ### 2. Двигайтесь на малой скорости, иначе
-`livan_s6_pro_ru_d2660863` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 перед
 автомобилем
 могут
@@ -14924,7 +14048,6 @@ EMS
 автомобиля.
 
 ### 3. Ни при каких обстоятельствах нельзя
-`livan_s6_pro_ru_c96f55c9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:134 | doc_type:owners_manual
 останавливаться, двигаться задним
 ходом,
 глушить
@@ -14998,7 +14121,6 @@ EMS
 •
 
 ### Не совершайте движение по соленой
-`livan_s6_pro_ru_4c876446` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 воде. Соль может вызвать коррозию
 автомобиля. Все части автомобиля,
 контактирующие
@@ -15028,7 +14150,6 @@ EMS
 безопасности вождения.
 
 ### При остановке на автомобиле с
-`livan_s6_pro_ru_7b0bef95` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 двигателем
 с
 турбонаддувом
@@ -15071,7 +14192,6 @@ EMS
 максимум 20 минут).
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_0db5cf05` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:134 | doc_type:owners_manual
 5
 8
 7
@@ -15107,7 +14227,6 @@ EMS
 тормоз.
 
 ### Переведите
-`livan_s6_pro_ru_576d6e14` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:135 | doc_type:owners_manual
 рычаг
 переключения
 передач в положение P.
@@ -15130,13 +14249,11 @@ EMS
 автомобиля, травмам или смерти.
 
 ### Трехкомпонентный
-`livan_s6_pro_ru_8ec02df7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 каталитический
 нейтрализатор
 отработавших газов ДВС
 
 ### Информация
-`livan_s6_pro_ru_f9d11a1f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 о
 трехкомпонентном
 каталитическом
@@ -15148,7 +14265,6 @@ EMS
 сгорания
 
 ### Трехкомпонентный
-`livan_s6_pro_ru_8ec02df7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 каталитический
 нейтрализатор
 отработавших
@@ -15167,7 +14283,6 @@ EMS
 окисления и восстановления.
 
 ### Неправильное
-`livan_s6_pro_ru_f1ce9c52` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 использование
 может
 привести
@@ -15185,7 +14300,6 @@ EMS
 ниже требования.
 
 ### Температура
-`livan_s6_pro_ru_b42b8476` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:135 | doc_type:owners_manual
 выхлопных
 газов
 высока. Не паркуйте автомобиль на
@@ -15205,7 +14319,6 @@ EMS
 привести к возгоранию.
 
 ### Пропуски
-`livan_s6_pro_ru_f2278f66` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 зажигания,
 догорание
 топлива и т. д. могут привести к
@@ -15213,7 +14326,6 @@ EMS
 повреждению
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_be55f205` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 134
 трехкомпонентного
 каталитического
@@ -15233,7 +14345,6 @@ EMS
 руководства.
 
 ### Требования к топливу
-`livan_s6_pro_ru_ddf356b7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 •
 Можно
 использовать
@@ -15257,7 +14368,6 @@ EMS
 повреждению топливного насоса.
 
 ### Требования к запуску
-`livan_s6_pro_ru_840cdb3e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 •
 Не
 продолжайте
@@ -15270,7 +14380,6 @@ EMS
 •
 
 ### Если двигатель
-`livan_s6_pro_ru_ad96e908` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 не запускается, не
 следует
 пытаться
@@ -15283,14 +14392,12 @@ EMS
 акселератора.
 
 ### Требования к движению
-`livan_s6_pro_ru_c60b9b94` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 •
 Не перегружайте и не превышайте
 обороты двигателя.
 •
 
 ### Не глушите автомобиль при движении
-`livan_s6_pro_ru_3905b77e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 на передаче.
 •
 Если мощность автомобиля снижается
@@ -15299,7 +14406,6 @@ EMS
 •
 
 ### Ни в коем случае не снимайте свечу
-`livan_s6_pro_ru_be310bd0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 зажигания или индукционную катушку
 при работающем двигателе.
 •
@@ -15307,7 +14413,6 @@ EMS
 удариться днищем автомобиля.
 
 ### Устройство
-`livan_s6_pro_ru_d97fb5ae` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 контроля
 выхлопных газов
 •
@@ -15317,7 +14422,6 @@ EMS
 масло, соответствующие регламенту.
 
 ### Свинец
-`livan_s6_pro_ru_63d0cc90` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 в
 бензине
 и
@@ -15343,7 +14447,6 @@ EMS
 нейтрализатора.
 
 ### Выхлопные газы
-`livan_s6_pro_ru_c6b3a1f5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:136 | doc_type:owners_manual
 •
 Если
 автомобиль
@@ -15373,7 +14476,6 @@ EMS
 •
 
 ### Неисправности
-`livan_s6_pro_ru_7bb0c044` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 в
 работе
 двигателя
@@ -15397,7 +14499,6 @@ EMS
 обслуживания LIVAN для проверки.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_67f09bec` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 5
 8
 7
@@ -15428,7 +14529,6 @@ EMS
 нахождение вблизи него.
 
 ### Избегайте
-`livan_s6_pro_ru_c43ea5b3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 вдыхания
 выхлопных
 газов. Выхлопные газы содержат
@@ -15452,7 +14552,6 @@ EMS
 ослаблены.
 
 ### Регулярно
-`livan_s6_pro_ru_6affddb7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 проверяйте
 выхлопную
 систему.
@@ -15472,7 +14571,6 @@ EMS
 обслуживания.
 
 ### Не запускайте двигатель в гараже или в
-`livan_s6_pro_ru_e956b779` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:137 | doc_type:owners_manual
 закрытом
 помещении,
 иначе
@@ -15535,7 +14633,6 @@ EMS
 других препятствий.
 
 ### Если вы чувствуете запах выхлопных
-`livan_s6_pro_ru_e4bcc8f6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 газов
 в
 машине,
@@ -15549,7 +14646,6 @@ EMS
 обслуживания
 
 ### LIVAN
-`livan_s6_pro_ru_0b78c67e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 для
 проведения
 технического обслуживания.
@@ -15557,7 +14653,6 @@ EMS
 136
 
 ### Требования к топливу
-`livan_s6_pro_ru_a08ee27a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 Пожалуйста,
 заправляйте
 топливный бак в соответствии с
@@ -15568,7 +14663,6 @@ EMS
 указанными на этикетке на крышке бака.
 
 ### Использование низкомарочного бензина
-`livan_s6_pro_ru_9e605ed0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 может привести к сильному повреждению
 трехкомпонентного
 каталитического
@@ -15578,7 +14672,6 @@ EMS
 двигателя внутреннего сгорания.
 
 ### Для поддержания двигателя в чистоте и
-`livan_s6_pro_ru_cb7d622a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 достижения
 наилучших
 характеристик
@@ -15612,7 +14705,6 @@ EMS
 уровня, двигатель нуждается в ремонте.
 
 ### Некоторые
-`livan_s6_pro_ru_2e84db54` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 виды
 топлива
 содержат
@@ -15624,7 +14716,6 @@ EMS
 марганца
 
 ### (ММТ).
-`livan_s6_pro_ru_de8f4bef` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 Мы
 не
 рекомендуем
@@ -15633,7 +14724,6 @@ EMS
 содержащее ММТ. Топливо, содержащее
 
 ### ММТ,
-`livan_s6_pro_ru_916c5505` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 сократит
 срок
 службы
@@ -15654,7 +14744,6 @@ EMS
 обслуживания
 
 ### LIVAN
-`livan_s6_pro_ru_4b4ca767` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 для
 проведения
 технического обслуживания.
@@ -15663,7 +14752,6 @@ EMS
 системы от нагара
 
 ### Очиститель топливной системы от нагара
-`livan_s6_pro_ru_a601e06e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 обладает
 способностью
 улучшения
@@ -15712,7 +14800,6 @@ EMS
 компанией
 
 ### LIVAN,
-`livan_s6_pro_ru_966a93a9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 не
 должны
 добавляться
@@ -15730,7 +14817,6 @@ EMS
 использованием топлива с метанолом.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_0cb87162` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:138 | doc_type:owners_manual
 5
 8
 7
@@ -15776,7 +14862,6 @@ EMS
 пистолета.
 
 ### Топливозаливная горловина
-`livan_s6_pro_ru_58775d20` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 и заправка
 Крышка топливного бака расположена на
 задней
@@ -15785,7 +14870,6 @@ EMS
 автомобиля.
 
 ### Крышка
-`livan_s6_pro_ru_99e62ec7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 топливного
 бака
 открывается
@@ -15795,7 +14879,6 @@ EMS
 автомобиле.
 
 ### Нажатие
-`livan_s6_pro_ru_d5e841af` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 на
 правую
 сторону
@@ -15803,7 +14886,6 @@ EMS
 топливного бака позволяет открыть ее.
 
 ### Привязанная
-`livan_s6_pro_ru_99f62502` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 крышка
 топливозаливной
 горловины
@@ -15840,7 +14922,6 @@ EMS
 ними.
 
 ### Заглушите
-`livan_s6_pro_ru_4c80cf93` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:139 | doc_type:owners_manual
 двигатель
 во
 время
@@ -15856,7 +14937,6 @@ EMS
 •
 
 ### Не оставляйте заправочный пистолет
-`livan_s6_pro_ru_6be70e3b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 без
 присмотра
 во
@@ -15884,7 +14964,6 @@ EMS
 ожогам.
 
 ### Переполнение
-`livan_s6_pro_ru_1a45f244` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 топливного
 бака
 может
@@ -15911,7 +14990,6 @@ EMS
 топливозаливной горловины.
 
 ### Будьте
-`livan_s6_pro_ru_a76ca141` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 осторожны,
 чтобы
 не
@@ -15928,7 +15006,6 @@ EMS
 После
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_1677c97a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 138
 выключения
 заправочного
@@ -15952,7 +15029,6 @@ EMS
 щелчка.
 
 ### Закройте
-`livan_s6_pro_ru_a65f1aa2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 крышку
 топливного
 бака
@@ -15968,7 +15044,6 @@ EMS
 атмосферу.
 
 ### Закройте
-`livan_s6_pro_ru_a65f1aa2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 крышку топливного бака.
 Если во время заправки возникло
 возгорание,
@@ -15978,7 +15053,6 @@ EMS
 пистолет.
 
 ### Необходимо
-`livan_s6_pro_ru_6caccdcc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 сообщить
 персоналу
 АЗС,
@@ -15988,7 +15062,6 @@ EMS
 покинуть площадку.
 
 ### Закрывайте
-`livan_s6_pro_ru_80b1d474` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 крышку
 топливного
 бака,
@@ -16003,7 +15076,6 @@ EMS
 повреждена.
 
 ### Если вам нужно заменить крышку
-`livan_s6_pro_ru_cc3acc32` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 топливозаливной
 горловины,
 обратитесь
@@ -16027,7 +15099,6 @@ EMS
 топлива.
 
 ### Детали
-`livan_s6_pro_ru_5048ab1e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:140 | doc_type:owners_manual
 и
 компоненты
 топливной
@@ -16057,7 +15128,6 @@ EMS
 обслуживаниюе.
 
 ### Удар отсечной системы
-`livan_s6_pro_ru_72400a9f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 Во
 время
 удара
@@ -16071,7 +15141,6 @@ EMS
 топлива.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_bcf03a98` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:140 | doc_type:owners_manual
 5
 8
 7
@@ -16087,7 +15156,6 @@ EMS
 передач (7DCT)
 
 ### Информация о передачах
-`livan_s6_pro_ru_52329099` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:141 | doc_type:owners_manual
 P (парковка)
 Когда
 рычаг
@@ -16122,7 +15190,6 @@ R (передача заднего хода)
 хода
 
 ### (R)
-`livan_s6_pro_ru_1d10da55` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:141 | doc_type:owners_manual
 на
 парковку
 (P),
@@ -16131,7 +15198,6 @@ R (передача заднего хода)
 Р, не нажимая педаль тормоза.
 
 ### Переключиться
-`livan_s6_pro_ru_98832a53` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:141 | doc_type:owners_manual
 на
 передачу
 заднего
@@ -16177,14 +15243,12 @@ N (нейтральная передача)
 положение
 
 ### ON,
-`livan_s6_pro_ru_5ea53ca9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 чтобы
 переключиться с нейтральной передачи
 (N) на парковку (P), достаточно нажать
 кнопку
 
 ### P;
-`livan_s6_pro_ru_6cdf85a2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:141 | doc_type:owners_manual
 чтобы
 переключиться
 с
@@ -16200,7 +15264,6 @@ N (нейтральная передача)
 переключиться с нейтральной передачи
 
 ### (N)
-`livan_s6_pro_ru_e4079214` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:141 | doc_type:owners_manual
 на
 передачу
 заднего
@@ -16213,7 +15276,6 @@ N (нейтральная передача)
 вперед.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_b59f6cc5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 140
 D
 (передача
@@ -16249,14 +15311,12 @@ ON, чтобы переключиться с передачи
 передачу
 
 ### (N),
-`livan_s6_pro_ru_25b74382` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 а
 затем
 переключить с нейтральной передачи (N)
 на передачу заднего хода (R).
 
 ### При рычаге переключения передач
-`livan_s6_pro_ru_366fce7b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:142 | doc_type:owners_manual
 в положении движения вперед (D)
 или движения назад (R), если водитель
 отпустит
@@ -16271,7 +15331,6 @@ ON, чтобы переключиться с передачи
 автоматически.
 
 ### Во время длительной стоянки или во
-`livan_s6_pro_ru_ed09a9e4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 время
 стоянки
 на
@@ -16286,7 +15345,6 @@ ON, чтобы переключиться с передачи
 переключатель
 
 ### EPB
-`livan_s6_pro_ru_2ef11874` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:142 | doc_type:owners_manual
 для
 установки
 стояночного тормоза,
@@ -16308,7 +15366,6 @@ ON, чтобы переключиться с передачи
 EPB для установки стояночного тормоза.
 
 ### При краткосрочных остановках не
-`livan_s6_pro_ru_7a3a9489` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 рекомендуется
 использовать
 положение
@@ -16316,7 +15373,6 @@ EPB для установки стояночного тормоза.
 вперед
 
 ### (D),
-`livan_s6_pro_ru_ecdac37e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:142 | doc_type:owners_manual
 движения
 назад
 (R)
@@ -16333,7 +15389,6 @@ M
 тормоза.
 
 ### Это может повлиять на срок службы
-`livan_s6_pro_ru_81a0b707` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 автоматической коробки передач. Ни при
 каких
 обстоятельствах
@@ -16352,7 +15407,6 @@ M
 управление.
 
 ### Запустите
-`livan_s6_pro_ru_8ee2e6f6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:142 | doc_type:owners_manual
 двигатель
 в
 положении
@@ -16399,7 +15453,6 @@ M
 передачи или до включения передачи.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_4e9895b1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:142 | doc_type:owners_manual
 5
 8
 7
@@ -16436,7 +15489,6 @@ M
 газа.
 
 ### Переключение
-`livan_s6_pro_ru_4ae69bd4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 способов
 управления автомобилем
 Вы
@@ -16466,7 +15518,6 @@ M
 Экономичный (ECO)
 
 ### В экономичном режиме все передачи
-`livan_s6_pro_ru_af28a8c5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 движения вперед будут автоматически
 переключаться на повышенную передачу
 заранее
@@ -16483,7 +15534,6 @@ M
 Спорт (SPORT)
 
 ### В
-`livan_s6_pro_ru_efd4d149` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 спортивном
 режиме
 все
@@ -16510,7 +15560,6 @@ M
 Интеллектуальный (ADAPTIVE)
 
 ### В
-`livan_s6_pro_ru_efd4d149` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 режиме
 Adaptive
 система
@@ -16520,7 +15569,6 @@ Adaptive
 способ управления.
 
 ### Запрещается
-`livan_s6_pro_ru_3d223214` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 переключение
 способа
 управления
@@ -16541,14 +15589,12 @@ Adaptive
 исходу.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_3c571367` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:143 | doc_type:owners_manual
 142
 Тормозные и электронные
 вспомогательные
 системы
 
 ### Торможение включает в себя время на
-`livan_s6_pro_ru_3bd0c7b7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 обнаружение
 и
 реакцию.
@@ -16593,7 +15639,6 @@ Adaptive
 депрессия также могут оказать влияние.
 
 ### Но даже если время реакции составляет
-`livan_s6_pro_ru_07abbd54` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 3/4 секунды, автомобиль, движущийся со
 скоростью 100 км/ч, проедет 20 метров. В
 экстренной ситуации это будет большое
@@ -16606,7 +15651,6 @@ Adaptive
 средств.
 
 ### Фактический
-`livan_s6_pro_ru_5dc61e7a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 тормозной путь сильно различается в
 зависимости
 от
@@ -16631,7 +15675,6 @@ Adaptive
 усилия.
 
 ### Следует
-`livan_s6_pro_ru_c5c1ab99` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 избегать
 экстренного
 торможения
@@ -16660,7 +15703,6 @@ Adaptive
 метод.
 
 ### Тормоза
-`livan_s6_pro_ru_069ad62e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 могут
 не
 успеть
@@ -16720,7 +15762,6 @@ Adaptive
 педаль тормоза.
 
 ### Если в автомобиле слышен резкий
-`livan_s6_pro_ru_0ff181b2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 звук трения металла при нажатии
 на
 педаль
@@ -16745,7 +15786,6 @@ Adaptive
 движения.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_15a1d79c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 5
 8
 7
@@ -16764,7 +15804,6 @@ Adaptive
 тормоза.
 
 ### В
-`livan_s6_pro_ru_005f4132` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 противном
 случае
 компоненты тормоза будут изнашиваться
@@ -16772,7 +15811,6 @@ Adaptive
 увеличиваться.
 
 ### При длительном спуске по склону
-`livan_s6_pro_ru_4addc541` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 используйте торможение двигателя.
 Продолжительное
 использование
@@ -16781,7 +15819,6 @@ Adaptive
 ручной режим на 3 или 2 передаче.
 
 ### Электрический
-`livan_s6_pro_ru_c5f91667` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 стояночный
 тормоз (EPB)
 Переключатель
@@ -16790,7 +15827,6 @@ Adaptive
 центральной консоли.
 
 ### Переведите
-`livan_s6_pro_ru_d56056d6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 замок
 зажигания
 в
@@ -16807,12 +15843,10 @@ ON,
 завершено.
 
 ### Автоматическое отключение EPB
-`livan_s6_pro_ru_c38773f0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:145 | doc_type:owners_manual
 Запустите двигатель, пристегните ремень
 безопасности,
 
 ### EPB
-`livan_s6_pro_ru_6b6c29a9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 включен,
 рычаг
 переключения
@@ -16824,13 +15858,11 @@ ON,
 газа,
 
 ### EPB
-`livan_s6_pro_ru_6b6c29a9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:145 | doc_type:owners_manual
 отключится
 автоматически, световой индикатор EPB
 погаснет.
 
 ### Ручная парковка EPB
-`livan_s6_pro_ru_2327df05` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 При
 стационарном
 положении
@@ -16839,7 +15871,6 @@ ON,
 переключатель
 
 ### EPB,
-`livan_s6_pro_ru_9f3cd11d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:145 | doc_type:owners_manual
 ручная
 парковка
 завершится,
@@ -16848,7 +15879,6 @@ ON,
 использовании
 
 ### EPB
-`livan_s6_pro_ru_6b6c29a9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 предупреждающий световой сигнал
 стояночного
 тормоза
@@ -16864,7 +15894,6 @@ ON,
 автомобилей
 
 ### LIVAN
-`livan_s6_pro_ru_f15d6c8c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 для
 проведения
 технического обслуживания.
@@ -16872,13 +15901,11 @@ ON,
 144
 
 ### Функция автоматического удержание
-`livan_s6_pro_ru_952e13a5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 автомобиля, оборудованного EPB
 Когда автомобиль находится в состоянии
 покоя, при замке зажигания в положении
 
 ### OFF
-`livan_s6_pro_ru_6a8162d5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 или
 при
 скорости
@@ -16886,7 +15913,6 @@ ON,
 двигателя меньше 180 оборотов в минуту
 
 ### EPB
-`livan_s6_pro_ru_57708e42` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 производит
 автоматическое
 удержание автомобиля.
@@ -16894,7 +15920,6 @@ ON,
 удержание
 
 ### HOLD
-`livan_s6_pro_ru_6790571d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:146 | doc_type:owners_manual
 может
 помочь
 водителю удобнее начать движение на
@@ -16915,7 +15940,6 @@ ON,
 предотвращая проскальзывание.
 
 ### Если промедлить с нажатием на
-`livan_s6_pro_ru_c58bf04b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:146 | doc_type:owners_manual
 педаль
 газа
 до
@@ -16930,7 +15954,6 @@ ON,
 двигаться.
 
 ### Переключатель AUTO HOLD находится в
-`livan_s6_pro_ru_39be3f33` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 звене
 переключателей
 центральной
@@ -16942,7 +15965,6 @@ ON,
 безопасности нажмите на переключатель
 
 ### HOLD,
-`livan_s6_pro_ru_cb21c551` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:146 | doc_type:owners_manual
 функция
 AUTO
 HOLD
@@ -16953,7 +15975,6 @@ HOLD
 панели загорится индикатор состояния
 
 ### Выключение
-`livan_s6_pro_ru_c9659c11` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:146 | doc_type:owners_manual
 функции
 автоматического удержания
 Нажмите на переключатель AUTO HOLD,
@@ -16968,7 +15989,6 @@ HOLD
 .
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_f003a388` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 5
 8
 7
@@ -16985,7 +16005,6 @@ HOLD
 автоматического удержания
 
 ### 1. Запустите
-`livan_s6_pro_ru_a96c36e8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:147 | doc_type:owners_manual
 двигатель,
 закройте
 переднюю левую дверь, пристегните
@@ -16993,14 +16012,12 @@ HOLD
 функции
 
 ### HOLD
-`livan_s6_pro_ru_a787f58d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 скорость
 движения равна нулю. Нажмите на
 педаль
 тормоза.
 
 ### AUTO
-`livan_s6_pro_ru_c3423092` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 HOLD активируется,
 на
 приборной
@@ -17011,7 +16028,6 @@ HOLD активируется,
 ;
 
 ### 2. Слегка нажмите на педаль газа или
-`livan_s6_pro_ru_dc6a690d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 переведите
 рычаг
 передач
@@ -17022,14 +16038,12 @@ HOLD активируется,
 функция
 
 ### HOLD
-`livan_s6_pro_ru_a787f58d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 отменится,
 предупреждающий световой сигнал
 стояночного тормоза
 погаснет.
 
 ### 3. Если
-`livan_s6_pro_ru_8ee34006` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 по
 истечении
 10
@@ -17046,7 +16060,6 @@ HOLD активируется,
 загорится.
 
 ### Функция автоматического удержания
-`livan_s6_pro_ru_6285e65c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:147 | doc_type:owners_manual
 отменится принудительно.
 1. Отстегните
 ремень
@@ -17057,7 +16070,6 @@ HOLD активируется,
 функция
 
 ### HOLD
-`livan_s6_pro_ru_a787f58d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:147 | doc_type:owners_manual
 отменится
 автоматически.
 2. Если функция AUTO HOLD активна,
@@ -17071,7 +16083,6 @@ HOLD активируется,
 тормоз
 
 ### EPB,
-`livan_s6_pro_ru_a42a0604` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 на
 приборной панели гаснет индикатор
 состояния
@@ -17083,7 +16094,6 @@ AVH
 .
 
 ### (ABS)
-`livan_s6_pro_ru_d851a539` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 Антиблокировочная система (ABS) может
 предотвратить
 блокировку
@@ -17114,7 +16124,6 @@ AVH
 явление.
 
 ### Слишком
-`livan_s6_pro_ru_54e76aa9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 высокое
 или
 слишком
@@ -17128,7 +16137,6 @@ AVH
 эффективности торможения.
 
 ### Применение
-`livan_s6_pro_ru_34cf8e3b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 функции
 антиблокировки
 Не нужно давить на педаль тормоза.
@@ -17144,7 +16152,6 @@ AVH
 нормальное явление.
 
 ### Торможение
-`livan_s6_pro_ru_f10194ff` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 в
 аварийной
 ситуации
@@ -17159,7 +16166,6 @@ AVH
 выполнение
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_936040b9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 146
 поворота
 более
@@ -17168,14 +16174,12 @@ AVH
 оптимальное торможение.
 
 ### Электронное
-`livan_s6_pro_ru_7783f846` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 распределение
 тормозного усилия (EBD)
 Антиблокировочная
 система
 
 ### (ABS)
-`livan_s6_pro_ru_e9f5c1a3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 оборудована
 функцией
 электронного
@@ -17191,7 +16195,6 @@ AVH
 характеристики.
 
 ### Система
-`livan_s6_pro_ru_763a1cb4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 электрического
 стояночного
 тормоза
@@ -17205,7 +16208,6 @@ AVH
 передними и задними колесами.
 
 ### Электронная
-`livan_s6_pro_ru_ca4a9679` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:148 | doc_type:owners_manual
 система
 контроля
 устойчивости
@@ -17216,7 +16218,6 @@ AVH
 устойчивости
 
 ### (ESC)
-`livan_s6_pro_ru_e0b7ccbd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 -
 это
 активная
@@ -17243,7 +16244,6 @@ AVH
 курс.
 
 ### Электронная
-`livan_s6_pro_ru_ca4a9679` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:148 | doc_type:owners_manual
 система
 контроля
 устойчивости (ESC) является лишь
@@ -17257,7 +16257,6 @@ AVH
 Пожалуйста, водите осторожно.
 
 ### Выключение ESC
-`livan_s6_pro_ru_6460a9c7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 Вы
 можете
 управлять
@@ -17272,7 +16271,6 @@ SPORT,
 control】
 
 ### В
-`livan_s6_pro_ru_f9338d39` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:148 | doc_type:owners_manual
 это
 время
 на
@@ -17285,14 +16283,12 @@ ESC можно отключить:
 •
 
 ### При движении по глубокому снегу или
-`livan_s6_pro_ru_1f739567` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 по рыхлым дорогам.
 •
 При преодолении ям.
 Включение ESC
 
 ### SPORT
-`livan_s6_pro_ru_81606721` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:148 | doc_type:owners_manual
 включается
 на
 интерфейсе
@@ -17303,7 +16299,6 @@ ESC можно отключить:
 гаснет.
 
 ### Усилитель
-`livan_s6_pro_ru_bbf2a4f5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 торможения
 (HBA)
 При
@@ -17323,7 +16318,6 @@ ESC можно отключить:
 на педаль тормоза с достаточной силой,
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_510722aa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 5
 8
 7
@@ -17389,7 +16383,6 @@ ESC можно отключить:
 вернется в нормальный режим работы.
 
 ### Вспомогательная
-`livan_s6_pro_ru_8110c289` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 гидравлическая
 тормозная
 система
@@ -17408,7 +16401,6 @@ ESC можно отключить:
 и водить осторожно.
 
 ### Функция
-`livan_s6_pro_ru_90f9c8af` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 помощи
 при
 подъеме в гору (ННС)
@@ -17431,7 +16423,6 @@ ESC можно отключить:
 функция HHC также будет доступна.
 
 ### Функцию помощи при подъеме по
-`livan_s6_pro_ru_84c93491` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 склону можно активировать только
 при
 включенной
@@ -17444,7 +16435,6 @@ ESC можно отключить:
 отпущенном стояночном тормозе.
 
 ### Функция помощи при подъеме по
-`livan_s6_pro_ru_41016a21` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 склону
 лишь
 временно
@@ -17466,7 +16456,6 @@ ESC можно отключить:
 осторожность!
 
 ### Антипробуксовочная
-`livan_s6_pro_ru_25519f5b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:149 | doc_type:owners_manual
 система (TCS)
 Антипробуксовочная
 система
@@ -17480,7 +16469,6 @@ ESC можно отключить:
 ускорения.
 
 ### Посредством
-`livan_s6_pro_ru_ca005f49` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:149 | doc_type:owners_manual
 управления
 выводом мощности или использования
 торможения
@@ -17494,7 +16482,6 @@ ESC можно отключить:
 автомобиля.
 
 ### Антипробуксовочная
-`livan_s6_pro_ru_25519f5b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:149 | doc_type:owners_manual
 система
 запускается автоматически. Функция ESC
 SPORT
@@ -17504,7 +16491,6 @@ SPORT
 функций управления на дисплее. При
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_94281a73` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:149 | doc_type:owners_manual
 148
 включении
 функции,
@@ -17568,7 +16554,6 @@ SPORT
 система
 
 ### (TCS)
-`livan_s6_pro_ru_918c98f5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 может
 сразу
 же
@@ -17578,7 +16563,6 @@ SPORT
 выключении
 
 ### SPORT
-`livan_s6_pro_ru_dc3f12ff` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:150 | doc_type:owners_manual
 и
 отключении
 функции
@@ -17588,7 +16572,6 @@ SPORT
 выключения системы ESC.
 
 ### При переводе замка зажигания в
-`livan_s6_pro_ru_478e3e8b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:150 | doc_type:owners_manual
 положение
 ON
 осуществляется
@@ -17605,7 +16588,6 @@ ON
 устойчивости
 
 ### ESC.
-`livan_s6_pro_ru_03676bad` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 Через несколько секунд, при отсутствии
 неисправностей,
 он
@@ -17613,7 +16595,6 @@ ON
 гореть.
 
 ### При неисправности антипробуксовочной
-`livan_s6_pro_ru_9bb0001d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 системы
 (TCS)
 на
@@ -17627,7 +16608,6 @@ ON
 системы
 
 ### ESC.
-`livan_s6_pro_ru_03676bad` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 Если
 неисправность не устранить, индикатор
 будет гореть все время. Если неполадку
@@ -17641,7 +16621,6 @@ ON
 проведения проверки.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_2fa57687` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:150 | doc_type:owners_manual
 5
 8
 7
@@ -17678,7 +16657,6 @@ ON
 1,5 метра позади автомобиля.
 
 ### Система парковочных радаров не
-`livan_s6_pro_ru_8dda1bb6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:151 | doc_type:owners_manual
 может
 заменить
 визуальное
@@ -17705,7 +16683,6 @@ ON
 •
 
 ### Система парковочных радаров может
-`livan_s6_pro_ru_6fd6450a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 не
 обнаружить
 детей,
@@ -17717,7 +16694,6 @@ ON
 •
 
 ### Система
-`livan_s6_pro_ru_edd58160` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 парковочных
 радаров
 не
@@ -17726,7 +16702,6 @@ ON
 •
 
 ### Если Вы не обращаете внимания на
-`livan_s6_pro_ru_3bbb7f7e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:151 | doc_type:owners_manual
 окружение
 автомобиля
 до
@@ -17754,7 +16729,6 @@ ON
 двигаться задним ходом.
 
 ### Включение
-`livan_s6_pro_ru_007f0715` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 и
 выключение
 системы
@@ -17764,12 +16738,10 @@ ON
 (R) система включается.
 
 ### Выключение
-`livan_s6_pro_ru_7d0dd99b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 При выключении задней передачи (R)
 система отключается.
 
 ### Как работает система
-`livan_s6_pro_ru_e80ecdd1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 При
 работе
 системы
@@ -17802,7 +16774,6 @@ ON
 отделения.
 
 ### Однако
-`livan_s6_pro_ru_a2dc28a8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:151 | doc_type:owners_manual
 предметы
 должны
 находиться в пределах 1,5 метров от
@@ -17826,7 +16797,6 @@ ON
 тревогу при следующих условиях:
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_ee007edc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:151 | doc_type:owners_manual
 150
 Неспособность
 обнаруживать
@@ -17846,7 +16816,6 @@ ON
 •
 
 ### Датчики
-`livan_s6_pro_ru_2d1a0563` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:152 | doc_type:owners_manual
 системы
 парковочных
 радаров
@@ -17858,7 +16827,6 @@ ON
 •
 
 ### Датчики
-`livan_s6_pro_ru_2d1a0563` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:152 | doc_type:owners_manual
 системы
 парковочных
 радаров
@@ -17873,7 +16841,6 @@ ON
 •
 
 ### Датчики
-`livan_s6_pro_ru_2d1a0563` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:152 | doc_type:owners_manual
 системы
 парковочных
 радаров
@@ -17892,7 +16859,6 @@ ON
 ультразвуковые волны.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_e8d6af8e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:152 | doc_type:owners_manual
 5
 8
 7
@@ -17915,7 +16881,6 @@ ON
 специфической формы.
 
 ### Возможна ложная тревога
-`livan_s6_pro_ru_3e68b1b6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:153 | doc_type:owners_manual
 •
 Когда поверхность датчиков системы
 парковочных
@@ -17929,7 +16894,6 @@ ON
 •
 
 ### Когда поверхность датчиков системы
-`livan_s6_pro_ru_0bd58ade` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:153 | doc_type:owners_manual
 парковочных
 радаров
 загрязнена,
@@ -17951,7 +16915,6 @@ ON
 сигнал тревоги.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_e98ca624` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:153 | doc_type:owners_manual
 152
 •
 Если на автомобиле или рядом с ним
@@ -17981,7 +16944,6 @@ ON
 •
 
 ### При движении автомобиля во время
-`livan_s6_pro_ru_6935f2e0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:154 | doc_type:owners_manual
 снега или дождя система парковочных
 радаров
 может
@@ -18032,7 +16994,6 @@ ON
 другие препятствия.
 
 ### Не распыляйте воду под высоким
-`livan_s6_pro_ru_7a75d8de` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:154 | doc_type:owners_manual
 давлением на датчик, например, из
 водяного пистолета, а также не сжимайте
 и
@@ -18045,7 +17006,6 @@ ON
 система может выйти из строя.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_c6d49afa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:154 | doc_type:owners_manual
 5
 8
 7
@@ -18061,7 +17021,6 @@ ON
 задним ходом
 
 ### Система наблюдения за задним ходом
-`livan_s6_pro_ru_96cf4f55` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:155 | doc_type:owners_manual
 помогает
 водителю
 четко
@@ -18097,7 +17056,6 @@ ON
 отображавшийся интерфейс.
 
 ### Система
-`livan_s6_pro_ru_54457788` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:155 | doc_type:owners_manual
 наблюдения
 за
 задним
@@ -18109,7 +17067,6 @@ ON
 •
 
 ### Камера
-`livan_s6_pro_ru_321dca42` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:155 | doc_type:owners_manual
 заднего
 вида
 не
@@ -18123,7 +17080,6 @@ ON
 •
 
 ### Камера
-`livan_s6_pro_ru_321dca42` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:155 | doc_type:owners_manual
 заднего
 вида
 может
@@ -18192,7 +17148,6 @@ ON
 прежде чем двигаться задним ходом.
 
 ### Камера заднего вида расположена над
-`livan_s6_pro_ru_51b6d9af` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:155 | doc_type:owners_manual
 задним
 номерным
 знаком.
@@ -18202,7 +17157,6 @@ ON
 объекты по углам или под бампером.
 
 ### Изображение
-`livan_s6_pro_ru_74e1c9ba` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:155 | doc_type:owners_manual
 на
 мультимедийном
 дисплее
@@ -18220,7 +17174,6 @@ ON
 отличается от фактического.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_ed5f55bf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:155 | doc_type:owners_manual
 154
 Вспомогательная
 линия
@@ -18242,7 +17195,6 @@ ON
 именно:
 
 ### 3. Зеленая 1.0 м.
-`livan_s6_pro_ru_7d469540` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 Ввиду
 разной
 нагрузки
@@ -18255,14 +17207,12 @@ ON
 •
 
 ### Вспомогательная
-`livan_s6_pro_ru_55d64ed7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 линия
 местоположения заднего вида
 Положение вспомогательных линий - 20
 ±10 см слева и справа от автомобиля.
 
 ### Динамическая
-`livan_s6_pro_ru_1559c18d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:156 | doc_type:owners_manual
 вспомогательная
 линия
 положения
@@ -18276,7 +17226,6 @@ ON
 поворота рулевого колеса.
 
 ### Прерывание связи камеры заднего
-`livan_s6_pro_ru_61c400da` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:156 | doc_type:owners_manual
 хода
 Когда камера заднего хода не работает
 или
@@ -18290,7 +17239,6 @@ ON
 что камера пользователя не работает.
 
 ### Если связь с камерой восстанавливается
-`livan_s6_pro_ru_45a185c4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 в течение 10 секунд, восстанавливается и
 изображение. Если связь с камерой не
 восстанавливается в течение 10 секунд,
@@ -18303,7 +17251,6 @@ ON
 ходом.
 
 ### Рекомендуем
-`livan_s6_pro_ru_89ce7011` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 Вам
 обратиться
 в
@@ -18334,7 +17281,6 @@ ON
 помощью видеоизображения.
 
 ### Система
-`livan_s6_pro_ru_d4dcdb9f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 камер
 общего
 вида
@@ -18353,7 +17299,6 @@ ON
 внимательно
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_645112af` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 5
 8
 7
@@ -18371,7 +17316,6 @@ ON
 автомобиля.
 
 ### Широкоугольные
-`livan_s6_pro_ru_f4bfd57b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 камеры
 подвержены
 влиянию
@@ -18416,7 +17360,6 @@ ON
 •
 
 ### Включите
-`livan_s6_pro_ru_c3aa7af8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:157 | doc_type:owners_manual
 совмещенную
 функцию
 поворота на
@@ -18434,7 +17377,6 @@ ON
 •
 
 ### Нажмите
-`livan_s6_pro_ru_8d2bef6b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 на
 общий
 вид
@@ -18445,14 +17387,12 @@ ON
 •
 
 ### Переведение
-`livan_s6_pro_ru_0ed606be` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 рычага
 переключения
 передач в положение R автоматически
 включает систему камер общего вида.
 
 ### Войти в интерфейс изображения
-`livan_s6_pro_ru_6426c4f4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 общего
 вида
 вышеуказанным
@@ -18460,7 +17400,6 @@ ON
 скоростью менее 30 км/ч.
 
 ### При переходе дисплея в интерфейс
-`livan_s6_pro_ru_3aff9935` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:157 | doc_type:owners_manual
 навигации
 совмещенная
 функция
@@ -18471,7 +17410,6 @@ ON
 изображения общего вида
 
 ### 1. Включив указатель поворота, войдите
-`livan_s6_pro_ru_cb77edcc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 в
 изображение
 общего
@@ -18495,7 +17433,6 @@ ON
 автоматически.
 
 ### 2. Нажмите
-`livan_s6_pro_ru_4d2361e7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 на
 кнопку
 «Назаде
@@ -18505,7 +17442,6 @@ ON
 вида на дисплее.
 
 ### 3. Включенная система камер общего
-`livan_s6_pro_ru_065f8bfa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 вида
 при
 положении
@@ -18513,7 +17449,6 @@ ON
 переключения передач в положении
 
 ### R выключается при переводе рычага
-`livan_s6_pro_ru_5b844870` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 в положение D, скорости автомобиля
 свыше 15 км/ч.
 4. После
@@ -18529,7 +17464,6 @@ ON
 система выключается автоматически.
 
 ### 5. При переключении на передачу P с
-`livan_s6_pro_ru_0181bd58` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 других
 положений
 изображение
@@ -18540,7 +17474,6 @@ ON
 бездействии в течение 5 секунд.
 
 ### Функционирование
-`livan_s6_pro_ru_5825b28b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 интерфейса
 изображения
 общего вида
@@ -18552,7 +17485,6 @@ ON
 его
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_f15127fc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 156
 потребностями,
 нажимая
@@ -18560,7 +17492,6 @@ ON
 определенные части дисплея.
 
 ### Выход из интерфейса изображения
-`livan_s6_pro_ru_6365f3e1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 общего вида.
 2. Вспомогательные линии парковки
 Нажатие
@@ -18576,13 +17507,11 @@ ON
 парковки.
 
 ### При следующей активации системы
-`livan_s6_pro_ru_08b76228` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 она включится по умолчанию.
 3. Эффект вида 3D
 Переключает на эффект вида 3D.
 
 ### 4. Множественная
-`livan_s6_pro_ru_4b798c65` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 пространственная
 диаграмма
 Открыв меню выбора множественной
@@ -18593,7 +17522,6 @@ ON
 множественных проекций.
 
 ### 5. Настройки
-`livan_s6_pro_ru_86beb626` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 Можно включить/выключить эффект
 кругового
 3D,
@@ -18605,7 +17533,6 @@ ON
 поворота.
 
 ### За исключением кнопок вышеуказанных
-`livan_s6_pro_ru_dc816cf9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 функций также можно напрямую нажать
 на значок камеры возле изображения
 модели автомобиля общего вида, чтобы
@@ -18616,7 +17543,6 @@ ON
 ракурсы изображения.
 
 ### Данный
-`livan_s6_pro_ru_d284b452` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:158 | doc_type:owners_manual
 автомобиль
 оборудован
 широкоугольными
@@ -18682,7 +17608,6 @@ ON
 обстановку.
 
 ### Оценивайте
-`livan_s6_pro_ru_afc55ceb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 состояние
 окружающей
 дороги на основе реальной обстановки,
@@ -18702,12 +17627,10 @@ ON
 вида.
 
 ### Данная
-`livan_s6_pro_ru_938ed6cc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 система может использоваться только в
 качестве вспомогательного средства.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_fbc85e4c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 5
 8
 7
@@ -18722,7 +17645,6 @@ ON
 Система управления круизконтролем (СС)
 
 ### Благодаря
-`livan_s6_pro_ru_a7a09e34` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 системе
 управления
 круизконтролем
@@ -18762,14 +17684,12 @@ ON
 автомобиль может потерять управление.
 
 ### Кнопка
-`livan_s6_pro_ru_907412d9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:159 | doc_type:owners_manual
 управления
 круиз-контролем
 расположена на левой стороне рулевого
 колеса.
 
 ### 1. Кнопка круиз-контроля: нажмите эту
-`livan_s6_pro_ru_a8e44a80` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 кнопку,
 чтобы
 включить
@@ -18780,7 +17700,6 @@ ON
 круиз-контролем.
 
 ### Световой
-`livan_s6_pro_ru_12614b5a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:159 | doc_type:owners_manual
 индикатор круиз-контроля на дисплее
 приборной
 панели
@@ -18789,14 +17708,12 @@ ON
 потухнет.
 
 ### 2. Кнопки
-`livan_s6_pro_ru_e79420cb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 регулировки
 скорости
 и
 настройки скорости движения:
 
 ### Крейсерский режим используется для
-`livan_s6_pro_ru_7bfb45d1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 настройки
 крейсерской
 скорости
@@ -18809,7 +17726,6 @@ ON
 скорость.
 
 ### Переведение
-`livan_s6_pro_ru_a880d02a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 данной
 кнопки
 вниз
@@ -18840,7 +17756,6 @@ ON
 круиз-контролем, выключите ее.
 
 ### Настройка
-`livan_s6_pro_ru_19293f2d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 скорости
 автомобиля
 1. Нажмите
@@ -18849,7 +17764,6 @@ ON
 чтобы активировать круиз-контроль.
 
 ### 2. Для
-`livan_s6_pro_ru_d6e8a6a3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 установки
 текущей
 скорости
@@ -18865,7 +17779,6 @@ ON
 направлении вниз.
 
 ### 3. Нажимая
-`livan_s6_pro_ru_62a32427` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 кнопку
 регулировки
 и
@@ -18883,7 +17796,6 @@ ON
 использовании круиз-контроля.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_d487518c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:159 | doc_type:owners_manual
 158
 Возобновление
 работы
@@ -18906,7 +17818,6 @@ ON
 отключится.
 
 ### В
-`livan_s6_pro_ru_62880750` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 это
 время
 текущая
@@ -18933,7 +17844,6 @@ ON
 настройки.
 
 ### Увеличение
-`livan_s6_pro_ru_aff3c21e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 скорости
 при
 использовании круиз-контроля
@@ -18941,7 +17851,6 @@ ON
 •
 
 ### Нажатие педали газа может увеличить
-`livan_s6_pro_ru_c19ea164` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 скорость. Если необходимо сохранить
 набранную
 скорость
@@ -18965,7 +17874,6 @@ ON
 удерживайте.
 
 ### Сначала
-`livan_s6_pro_ru_d179f8d1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 крейсерская
 скорость настроится на кратное 5-ти
 целое
@@ -18983,7 +17891,6 @@ ON
 автомобиля.
 
 ### Каждое
-`livan_s6_pro_ru_a68868f4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 переведение
 вверх
 увеличивает
@@ -18991,7 +17898,6 @@ ON
 скорость на 1 км/ч.
 
 ### Уменьшение
-`livan_s6_pro_ru_cc4bafe0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 скорости
 при
 использовании круиз-контроля
@@ -19010,7 +17916,6 @@ ON
 удерживайте.
 
 ### Сначала
-`livan_s6_pro_ru_d179f8d1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 крейсерская
 скорость
 настроится на
@@ -19035,7 +17940,6 @@ ON
 круиз-контроля
 
 ### Используйте
-`livan_s6_pro_ru_ad6f034d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 педаль
 газа,
 чтобы
@@ -19051,14 +17955,12 @@ ON
 на дороге с уклоном
 
 ### Работа
-`livan_s6_pro_ru_e9ffe5b8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 системы
 управления
 круизконтролем на дороге с уклоном зависит
 от скорости, нагрузки и уклона дороги.
 
 ### При подъеме по крутому склону Вам
-`livan_s6_pro_ru_b6b0d4d0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:160 | doc_type:owners_manual
 нужно удерживать нажатие на педаль
 газа, чтобы поддерживать скорость. При
 спуске возможно потребуется тормозить
@@ -19073,7 +17975,6 @@ ON
 круизконтроль отключается.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_10ab7818` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:160 | doc_type:owners_manual
 5
 8
 7
@@ -19101,7 +18002,6 @@ ON
 выключить систему управления круизконтролем.
 
 ### Очищение памяти скорости
-`livan_s6_pro_ru_a6cf465b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 Когда вы выключаете круиз-контроль или
 замок
 зажигания,
@@ -19113,7 +18013,6 @@ ON
 памяти.
 
 ### Система
-`livan_s6_pro_ru_8772a55f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 мониторинга
 слепых зон (BSD)
 Система контроля слепых зон помогает
@@ -19141,7 +18040,6 @@ ON
 отображаемому интерфейсу.
 
 ### Система контроля слепых зон не
-`livan_s6_pro_ru_f9a6db48` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:161 | doc_type:owners_manual
 может
 заменить
 весь
@@ -19175,7 +18073,6 @@ ON
 даже смерти.
 
 ### Камера контроля слепых зон
-`livan_s6_pro_ru_c829e451` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:161 | doc_type:owners_manual
 •
 Камера
 расположена
@@ -19187,7 +18084,6 @@ ON
 вида.
 
 ### Обязательно держите эту область в
-`livan_s6_pro_ru_86cbaf4d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:161 | doc_type:owners_manual
 чистоте. Если камера покрыта грязью
 или влагой, необходимо при помощи
 мягкой
@@ -19205,7 +18101,6 @@ ON
 наклейками.
 
 ### В некоторых ситуациях система контроля
-`livan_s6_pro_ru_fdc505cb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 слепых зон не может помочь водителю. К
 возможным ситуациям относятся:
 •
@@ -19213,7 +18108,6 @@ ON
 снег.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_467db4d1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:161 | doc_type:owners_manual
 160
 •
 Световые помехи (в том числе свет
@@ -19231,7 +18125,6 @@ ON
 •
 
 ### Плохое
-`livan_s6_pro_ru_a6c82b6b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 состояние
 камеры
 и
@@ -19248,7 +18141,6 @@ ON
 161
 
 ### Устройства
-`livan_s6_pro_ru_f2ae118c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:163 | doc_type:owners_manual
 предупреждения
 об
 опасности
@@ -19285,7 +18177,6 @@ ON
 остальных участников движения.
 
 ### Знак аварийной остановки находится в
-`livan_s6_pro_ru_37c79f08` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 багажном отделении.
 На
 обычной
@@ -19306,7 +18197,6 @@ ON
 должна быть увеличена до 200 м.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_5828dd38` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:163 | doc_type:owners_manual
 162
 Светоотражающий жилет
 Светоотражающий
@@ -19317,7 +18207,6 @@ ON
 открытии.
 
 ### В экстренной
-`livan_s6_pro_ru_0ac832bf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:164 | doc_type:owners_manual
 ситуации водитель
 должен
 заранее
@@ -19335,7 +18224,6 @@ ON
 Аптечка первой помощи*
 
 ### Аптечка первой помощи размещается в
-`livan_s6_pro_ru_0b9ced4b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 багажном отделении.
 Неисправности во время вождения
 6
@@ -19349,7 +18237,6 @@ ON
 163
 
 ### Запуск
-`livan_s6_pro_ru_e029364c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:165 | doc_type:owners_manual
 от
 внешнего
 источника питания
@@ -19369,7 +18256,6 @@ ON
 инструкциям.
 
 ### Неправильное
-`livan_s6_pro_ru_13dbf7dc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:165 | doc_type:owners_manual
 использование
 аккумулятора
 может
@@ -19378,7 +18264,6 @@ ON
 травмам.
 
 ### Аккумулятор
-`livan_s6_pro_ru_ed7a395a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:165 | doc_type:owners_manual
 опасен,
 потому
 что:
@@ -19395,7 +18280,6 @@ ON
 •
 
 ### Электрический заряд может нанести
-`livan_s6_pro_ru_1ecdd7e7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 ожог.
 Если вы не будете строго следовать
 приведенным
@@ -19408,7 +18292,6 @@ ON
 травмы.
 
 ### Игнорирование этих шагов может
-`livan_s6_pro_ru_e18d6ede` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 привести
 к
 серьезному
@@ -19419,18 +18302,15 @@ ON
 гарантией.
 
 ### Автомобиль нельзя завести толканием и
-`livan_s6_pro_ru_da5d3215` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 буксировкой от другого автомобиля, от
 этого он может быть поврежден.
 
 ### 1. Выключите кнопку запуска, все фары
-`livan_s6_pro_ru_dfca8e66` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:165 | doc_type:owners_manual
 и электрооборудование автомобиля,
 кроме ламп аварийной сигнализации
 (при необходимости).
 
 ### Охлаждающие
-`livan_s6_pro_ru_ccb77f44` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 вентиляторы
 и
 другие
@@ -19449,7 +18329,6 @@ ON
 руками, одеждой и инструментами.
 
 ### Использование
-`livan_s6_pro_ru_09d94516` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:165 | doc_type:owners_manual
 открытого
 огня
 рядом
@@ -19461,13 +18340,11 @@ ON
 Аккумуляторная кислота может гореть.
 
 ### Не допускайте попадания кислоты на
-`livan_s6_pro_ru_c9e4f09d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 ваше тело. Если кислота попала в глаза
 или на кожу, немедленно промойте их
 водой и обратитесь к врачу.
 
 ### 2. Подсоедините один конец красного
-`livan_s6_pro_ru_ab86f891` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 положительного
 (+)
 кабеля
@@ -19477,14 +18354,12 @@ ON
 клемме
 
 ### (A)
-`livan_s6_pro_ru_2c0419b2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 автомобиля,
 который
 нужно
 запустить от внешнего источника.
 
 ### 3. Не допускайте контакта другого конца
-`livan_s6_pro_ru_210fe46d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 красного положительного (+) кабеля с
 металлом.
 Подсоедините
@@ -19495,13 +18370,11 @@ ON
 клемме
 
 ### (B)
-`livan_s6_pro_ru_dfdcae32` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:165 | doc_type:owners_manual
 работающего аккумулятора.
 Неисправности во время вождения
 164
 
 ### 4. Подсоедините
-`livan_s6_pro_ru_0986807b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 один
 конец
 черного
@@ -19514,7 +18387,6 @@ ON
 клемме
 
 ### (C)
-`livan_s6_pro_ru_83e9b67e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:166 | doc_type:owners_manual
 аккумулятора. Не позволяйте другому
 концу ни к чему прикасаться, прежде
 чем перейдете к следующему шагу.
@@ -19539,7 +18411,6 @@ ON
 разряженным аккумулятором.
 
 ### 5. Подсоедините другой конец черного
-`livan_s6_pro_ru_61e09fc1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:166 | doc_type:owners_manual
 отрицательного
 (-)
 кабеля
@@ -19552,7 +18423,6 @@ ON
 двигателя и аккумуляторной батареи.
 
 ### 6. Запустите двигатель
-`livan_s6_pro_ru_cc0bc062` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:166 | doc_type:owners_manual
 автомобиля
 с
 заряженным аккумулятором и дайте
@@ -19560,7 +18430,6 @@ ON
 менее четырех минут.
 
 ### 7. Попытайтесь завести автомобиль с
-`livan_s6_pro_ru_ee0ea212` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:166 | doc_type:owners_manual
 разряженным
 аккумулятором.
 Если
@@ -19582,7 +18451,6 @@ ON
 входят в сферу гарантийного ремонта.
 
 ### Поэтому необходимо подсоединять или
-`livan_s6_pro_ru_a66d11da` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 снимать кабели в правильном порядке и
 следить
 за
@@ -19604,7 +18472,6 @@ ON
 автомобилях:
 
 ### 1. Отсоедините черный отрицательный
-`livan_s6_pro_ru_e5c3c6e8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:166 | doc_type:owners_manual
 (-)
 кабель
 в
@@ -19613,7 +18480,6 @@ ON
 разряженным аккумулятором.
 
 ### 2. Отсоедините черный отрицательный
-`livan_s6_pro_ru_e72c5a2a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:166 | doc_type:owners_manual
 (-)
 провод
 в
@@ -19622,7 +18488,6 @@ ON
 работающим аккумулятором.
 
 ### 3. Отсоедините красный положительный
-`livan_s6_pro_ru_8d69919c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:166 | doc_type:owners_manual
 (+)
 кабель
 в
@@ -19631,7 +18496,6 @@ ON
 работающим аккумулятором.
 
 ### 4. Отсоедините красный положительный
-`livan_s6_pro_ru_c785f028` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:166 | doc_type:owners_manual
 (+)
 кабель
 в
@@ -19640,7 +18504,6 @@ ON
 разряженным аккумулятором.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_8ed64b40` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 6
 8
 7
@@ -19654,7 +18517,6 @@ ON
 Подсказки по буксировке
 
 ### Все средства для буксировки должны
-`livan_s6_pro_ru_344e967b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 использовать
 систему
 предохранительных
@@ -19670,7 +18532,6 @@ ON
 тележку.
 
 ### 1. При
-`livan_s6_pro_ru_aa967952` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 использовании
 гибкого
 соединительного тягового устройства
@@ -19689,7 +18550,6 @@ ON
 м.
 
 ### Буксируемое
-`livan_s6_pro_ru_cbd20992` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:167 | doc_type:owners_manual
 транспортное
 средство
 с
@@ -19707,7 +18567,6 @@ ON
 трубы).
 
 ### 2. И
-`livan_s6_pro_ru_31f6b649` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:167 | doc_type:owners_manual
 буксирующее,
 и
 буксируемое
@@ -19720,7 +18579,6 @@ ON
 сигнализацию.
 
 ### 3. Если
-`livan_s6_pro_ru_0ad455b1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 вы
 хотите
 буксировать
@@ -19734,7 +18592,6 @@ ON
 •
 
 ### Установите
-`livan_s6_pro_ru_19145498` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 рычаг
 переключения
 передач в нейтральное положение
@@ -19742,7 +18599,6 @@ ON
 •
 
 ### Не буксируйте на скорости более
-`livan_s6_pro_ru_3d3bc1c6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 50 км/ч.
 •
 Расстояние буксировки не должно
@@ -19750,7 +18606,6 @@ ON
 •
 
 ### При использовании специального
-`livan_s6_pro_ru_77ab4e72` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 тягача
 разрешается
 поднимать
@@ -19772,7 +18627,6 @@ ON
 передач.
 
 ### 4. Запрещается
-`livan_s6_pro_ru_964a875e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 буксировать
 данное
 транспортное
@@ -19799,7 +18653,6 @@ ON
 может превышать 50 километров.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_72852f03` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 166
 Буксировочное кольцо
 Данный
@@ -19827,7 +18680,6 @@ ON
 •
 
 ### Рекомендуется
-`livan_s6_pro_ru_b63cb1b9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 установить
 на
 буксировочном кольце и использовать
@@ -19837,7 +18689,6 @@ ON
 •
 
 ### Не используйте буксировочное кольцо
-`livan_s6_pro_ru_3d889df4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 для
 буксировки
 автомобиля
@@ -19847,7 +18698,6 @@ ON
 •
 
 ### Не используйте буксировочное кольцо
-`livan_s6_pro_ru_3d889df4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 для
 извлечения
 застрявшего
@@ -19871,7 +18721,6 @@ ON
 кольцом.
 
 ### Тяговая
-`livan_s6_pro_ru_03ff4b75` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 цепь/
 натяжной
 канат
@@ -19885,7 +18734,6 @@ ON
 •
 
 ### Несоблюдение данных инструкций по
-`livan_s6_pro_ru_bd09b316` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 использованию буксировочного кольца
 может
 привести
@@ -19895,7 +18743,6 @@ ON
 травмам или смерти.
 
 ### Буксировочное
-`livan_s6_pro_ru_286b6018` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 кольцо
 используется только для помощи на
 дороге и не должно использоваться для
@@ -19948,7 +18795,6 @@ ON
 линии.
 
 ### Несоблюдение
-`livan_s6_pro_ru_471dc19c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 вышеуказанных
 инструкций
 может
@@ -19957,7 +18803,6 @@ ON
 повреждению автомобиля.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_7cda9383` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 6
 8
 7
@@ -19972,7 +18817,6 @@ ON
 буксировочного кольца
 
 ### Положение
-`livan_s6_pro_ru_a490d287` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:169 | doc_type:owners_manual
 установки
 буксировочного
 кольца – с правой стороны переднего
@@ -20014,7 +18858,6 @@ ON
 автомобиля.
 
 ### Замена шин
-`livan_s6_pro_ru_834662ad` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 Шина
 Описание
 Если у вас возникнут какие-либо вопросы
@@ -20035,7 +18878,6 @@ ON
 информации.
 
 ### Другую информацию можно запросить у
-`livan_s6_pro_ru_6691c99f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 производителя шин.
 Использовать
 плохо
@@ -20045,7 +18887,6 @@ ON
 эксплуатируемые шины опасно.
 
 ### Перекачанные
-`livan_s6_pro_ru_f2395376` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 или
 недостаточно
 накачанные шины вызывают чрезмерный
@@ -20058,7 +18899,6 @@ ON
 получению серьезных травм или смерти.
 
 ### Все шины следует регулярно проверять и
-`livan_s6_pro_ru_db158a4d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 поддерживать рекомендуемое давление.
 Давление в шинах следует проверять в
 холодном состоянии. См. «Давление в
@@ -20069,7 +18909,6 @@ ON
 «Технических данныхе.
 
 ### Перекачанные
-`livan_s6_pro_ru_f2395376` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 шины
 с
 большей
@@ -20081,7 +18920,6 @@ ON
 рекомендуемое давление в шине.
 
 ### Изношенные шины могут стать причиной
-`livan_s6_pro_ru_af4a2902` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 аварии. Если протектор шины сильно
 изношен
 или
@@ -20091,7 +18929,6 @@ ON
 подлежит незамедлительной замене.
 
 ### В
-`livan_s6_pro_ru_0f3160ac` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 шине
 должно
 быть
@@ -20099,7 +18936,6 @@ ON
 давление для эффективной работы.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_8c9fcc6d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 168
 Недостаточное
 или
@@ -20121,7 +18957,6 @@ ON
 •
 
 ### Преждевременный
-`livan_s6_pro_ru_91734bfb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 или
 неравномерный износ;
 •
@@ -20130,7 +18965,6 @@ ON
 Повышение расхода топлива.
 
 ### При избыточном давлении в шине могут
-`livan_s6_pro_ru_6fafdda6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 возникнуть следующие ситуации:
 •
 Аномальный износ;
@@ -20153,7 +18987,6 @@ ON
 шинах.
 
 ### Табличка
-`livan_s6_pro_ru_7211847e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 находится
 на
 левой
@@ -20167,7 +19000,6 @@ ON
 запасном колесе.
 
 ### Система контроля давления в
-`livan_s6_pro_ru_e3f07b44` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:170 | doc_type:owners_manual
 шинах
 Система
 контроля
@@ -20190,7 +19022,6 @@ ON
 состояние шины должно быть холодное.
 
 ### Каждая шина должна быть накачана до
-`livan_s6_pro_ru_e4346a0a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 рекомендованного
 значения
 давления,
@@ -20198,7 +19029,6 @@ ON
 центральной стойке.
 
 ### Если горит сигнальная лампа TPMS о
-`livan_s6_pro_ru_3067678d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:170 | doc_type:owners_manual
 ненормальном давлении в шинах, значит,
 что
 в
@@ -20212,7 +19042,6 @@ ON
 норме.
 
 ### В
-`livan_s6_pro_ru_2df61b76` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 таком
 случае
 необходимо
@@ -20227,7 +19056,6 @@ ON
 давления.
 
 ### Давление в шинах в холодном состоянии
-`livan_s6_pro_ru_355a8681` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 указано на табличке давления в шинах,
 прикрепленной к автомобилю. Система
 контроля давления в шинах автомобиля
@@ -20241,7 +19069,6 @@ ON
 данного раздела.
 
 ### Запасное колесо не оборудовано
-`livan_s6_pro_ru_c2b31471` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:170 | doc_type:owners_manual
 датчиком контроля давления.
 При движении автомобиля зимой,
 если заменить все четыре шины на
@@ -20252,7 +19079,6 @@ ON
 на
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_150a38ca` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:170 | doc_type:owners_manual
 6
 8
 7
@@ -20267,7 +19093,6 @@ ON
 неисправности системы.
 
 ### Когда нужно проверять шины
-`livan_s6_pro_ru_dc7a0ad6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 Проверяйте шины, включая запасную, не
 реже одного раза в месяц. Давление в
 запасной шине см. в главе «Давление в
@@ -20278,7 +19103,6 @@ ON
 «Технических данныхе.
 
 ### Проверьте давление в шинах с помощью
-`livan_s6_pro_ru_3bda2bb9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 карманного
 шинного
 манометра
@@ -20307,7 +19131,6 @@ ON
 шины.
 
 ### Плотно
-`livan_s6_pro_ru_3a63d970` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 прижмите
 манометр
 к
@@ -20332,14 +19155,12 @@ ON
 манометра.
 
 ### Обязательно
-`livan_s6_pro_ru_d7b5b925` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 установите
 колпачок клапана обратно на ниппель.
 Колпачки клапана защищают от грязи и
 влаги.
 
 ### На необходимость замены шин влияют
-`livan_s6_pro_ru_7a245e3a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 различные
 факторы,
 такие
@@ -20347,7 +19168,6 @@ ON
 техническое обслуживание, температура,
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_c4e392ff` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 170
 скорость
 движения,
@@ -20371,7 +19191,6 @@ ON
 изношен до 1,6 мм или меньше.
 
 ### Новые шины требуются в следующих
-`livan_s6_pro_ru_526e4a2d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 ситуациях:
 •
 На шине есть как минимум 3 место с
@@ -20379,7 +19198,6 @@ ON
 •
 
 ### Сквозь резину шины можно увидеть
-`livan_s6_pro_ru_6d0e7f9b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 корд или протекторную ткань.
 •
 Протектор или боковая стенка имеют
@@ -20401,7 +19219,6 @@ ON
 ремонту.
 
 ### Качество резины в шинах со временем
-`livan_s6_pro_ru_964231eb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 ухудшается, даже если эти шины никогда
 не использовались. То же самое верно и
 для запасных шин. На скорость старения
@@ -20428,7 +19245,6 @@ ON
 производителю.
 
 ### Утилизируйте
-`livan_s6_pro_ru_daf98e0c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 использованные
 шины
 в
@@ -20441,7 +19257,6 @@ ON
 окружающей среды.
 
 ### Покупка новых шин
-`livan_s6_pro_ru_d1cd017c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 При покупке новых шин убедитесь, что
 они
 подходят
@@ -20457,7 +19272,6 @@ ON
 производителя.
 
 ### Рекомендуется
-`livan_s6_pro_ru_cea4d55c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 производить замену сразу четырех шин.
 См. главу «Проверка и замена шине в
 этом
@@ -20467,7 +19281,6 @@ ON
 соответствующей информации.
 
 ### Установка
-`livan_s6_pro_ru_9ba531bb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 шин
 из
 разных
@@ -20486,7 +19299,6 @@ ON
 управляемости.
 
 ### Использование
-`livan_s6_pro_ru_2bcf7be3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 шин
 разных размеров и типов также может
 привести к повреждению автомобиля. На
@@ -20494,7 +19306,6 @@ ON
 шины корректного размера и типа.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_9601026f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 6
 8
 7
@@ -20514,7 +19325,6 @@ ON
 пробега.
 
 ### Внезапная
-`livan_s6_pro_ru_b2dc575e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 потеря
 контроля
 над
@@ -20528,7 +19338,6 @@ ON
 использовать только радиальные шины.
 
 ### Использование колес или шин другого
-`livan_s6_pro_ru_a29b504d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:173 | doc_type:owners_manual
 размера,
 отличные
 от
@@ -20588,7 +19397,6 @@ ON
 травм.
 
 ### Если переднее колесо выходит из
-`livan_s6_pro_ru_b00b3378` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 строя и необходимо использовать
 запасное
 колесо,
@@ -20600,7 +19408,6 @@ ON
 колеса.
 
 ### В
-`livan_s6_pro_ru_a85a832f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 целях
 обеспечения
 безопасности
@@ -20648,7 +19455,6 @@ Livan
 обеспечения безопасности вождения.
 
 ### Перестановка шин
-`livan_s6_pro_ru_663f7647` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 Мы
 рекомендуем
 вам
@@ -20685,7 +19491,6 @@ Livan
 главе.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_2eea1831` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 172
 При
 перестановке
@@ -20710,7 +19515,6 @@ Livan
 в шинахе в данном разделе.
 
 ### Ржавчина или грязь на колесах или
-`livan_s6_pro_ru_2e2d78a1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 креплениях
 колес
 могут
@@ -20730,7 +19534,6 @@ Livan
 или проволочной щетки.
 
 ### Регулировка
-`livan_s6_pro_ru_b7a5d4a4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 и
 балансировка
 колес
@@ -20765,7 +19568,6 @@ Livan
 колес.
 
 ### Если автомобиль испытывает тряску при
-`livan_s6_pro_ru_aefdc57f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 движении по ровной поверхности, может
 потребоваться повторная балансировка
 шин и колес. Пожалуйста, немедленно
@@ -20776,7 +19578,6 @@ Livan
 обслуживания
 
 ### LIVAN
-`livan_s6_pro_ru_3886fec0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 для
 проведения
 диагностики.
@@ -20800,7 +19601,6 @@ Livan
 заменить.
 
 ### В
-`livan_s6_pro_ru_97ac0908` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 случае
 любой
 из
@@ -20837,7 +19637,6 @@ Livan
 датчики
 
 ### TPMS
-`livan_s6_pro_ru_87421905` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 подойдут
 вашему
 автомобилю.
@@ -20849,7 +19648,6 @@ Livan
 гаек
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_b80c6de3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 6
 8
 7
@@ -20875,7 +19673,6 @@ Livan
 автомобилем.
 
 ### Несчастные
-`livan_s6_pro_ru_9250625a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 случаи
 могут
 привести к
@@ -20888,7 +19685,6 @@ Livan
 колесную гайку.
 
 ### Использование некорректных типов
-`livan_s6_pro_ru_f0c9cd5f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:175 | doc_type:owners_manual
 колес
 также
 может
@@ -20916,7 +19712,6 @@ Livan
 противоскольжения и кузовом и шасси.
 
 ### Ставить старые колеса на автомобиль
-`livan_s6_pro_ru_553d94e7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 опасно.
 Потому
 что
@@ -20944,7 +19739,6 @@ Livan
 колеса от оригинального производителя.
 
 ### Зимние шины
-`livan_s6_pro_ru_8f6fdd05` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 Если
 планируется
 частая
@@ -20956,7 +19750,6 @@ Livan
 лучше всего оснастить зимними шинами.
 
 ### Всесезонные шины могут не обеспечить
-`livan_s6_pro_ru_a789201f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 желаемого
 сцепления
 или
@@ -20966,7 +19759,6 @@ Livan
 заснеженных дорогах.
 
 ### Зимние
-`livan_s6_pro_ru_5f5279ff` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 шины
 используются
 для
@@ -20992,7 +19784,6 @@ Livan
 и торможении.
 
 ### Для получения подробной информации о
-`livan_s6_pro_ru_117a3ab9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 наличии
 зимних
 шин
@@ -21004,7 +19795,6 @@ Livan
 •
 
 ### Используйте
-`livan_s6_pro_ru_862b25d3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 шины
 от
 одного
@@ -21013,7 +19803,6 @@ Livan
 •
 
 ### Используйте только радиальные шины
-`livan_s6_pro_ru_2e6dd7ed` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 того же размера, диапазона нагрузки и
 скорости, что и шины от оригинального
 производителя.
@@ -21029,7 +19818,6 @@ Livan
 скорость шины.
 
 ### Цепи противоскольжения не входят
-`livan_s6_pro_ru_6e2be83f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 в
 комплект
 оборудования
@@ -21040,7 +19828,6 @@ Livan
 предоставляется для справки.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_61d1009f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 174
 Пожалуйста, определите, нужно ли вам
 добавлять
@@ -21057,7 +19844,6 @@ Livan
 водите осторожно и на малых скоростях.
 
 ### В противном случае автомобиль может
-`livan_s6_pro_ru_0d148e9b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 быть
 поврежден
 или
@@ -21066,7 +19852,6 @@ Livan
 качества могут ухудшиться.
 
 ### При установке цепей противоскольжения
-`livan_s6_pro_ru_3a845ba6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 необходимо
 выбирать
 цепи,
@@ -21086,7 +19871,6 @@ Livan
 дорогах.
 
 ### Если шина лопнет во время движения
-`livan_s6_pro_ru_15fc871f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 автомобиля,
 произойдут
 следующие
@@ -21101,7 +19885,6 @@ Livan
 ситуаций):
 
 ### 1. Если лопнет передняя шина, тянущий
-`livan_s6_pro_ru_4d594f22` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 эффект спущенной шины приведет к
 тому,
 что
@@ -21111,7 +19894,6 @@ Livan
 шины.
 
 ### Отпустите
-`livan_s6_pro_ru_4fa14092` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:176 | doc_type:owners_manual
 педаль
 акселератора и крепко держите руль.
 Направьте
@@ -21126,7 +19908,6 @@ Livan
 безопасную сторону дороги.
 
 ### 2. Если заднее колесо лопнет, отпустите
-`livan_s6_pro_ru_bbb0f5c6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 педаль акселератора. Когда задняя
 шина
 лопается
@@ -21135,7 +19916,6 @@ Livan
 возникает эффект, как при заносе.
 
 ### Поэтому следует принимать те же
-`livan_s6_pro_ru_cfa5bd96` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:176 | doc_type:owners_manual
 меры, что и при заносе. Поверните
 рулевое
 колесо
@@ -21178,7 +19958,6 @@ Livan
 следующие действия:
 
 ### 1. Медленно выведите автомобиль на
-`livan_s6_pro_ru_57a0f480` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 безопасную
 ровную
 поверхность,
@@ -21188,7 +19967,6 @@ Livan
 повреждения шин и колес.
 
 ### 2. Включите
-`livan_s6_pro_ru_ea071c53` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 аварийные
 сигнальные
 лампы.
@@ -21196,7 +19974,6 @@ Livan
 Замена шин может быть опасной.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_b47f968c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 6
 8
 7
@@ -21219,7 +19996,6 @@ Livan
 •
 
 ### Поставьте автомобиль на стояночный
-`livan_s6_pro_ru_2f4055c1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:177 | doc_type:owners_manual
 тормоз.
 •
 Установите
@@ -21236,7 +20012,6 @@ Livan
 •
 
 ### Не позволяйте пассажирам оставаться
-`livan_s6_pro_ru_9075b11b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 в автомобиле.
 •
 Перед
@@ -21248,7 +20023,6 @@ Livan
 оставшихся колес.
 
 ### Припаркуйте автомобиль на ровной
-`livan_s6_pro_ru_c577817b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:177 | doc_type:owners_manual
 площадке,
 которая
 не
@@ -21286,7 +20060,6 @@ Livan
 устройства защитые.
 
 ### Этот автомобиль оснащен двумя типами
-`livan_s6_pro_ru_747f9e15` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 колес и шин. Доп. информацию см. часть
 «Колеса
 и
@@ -21297,7 +20070,6 @@ Livan
 «Технические данныее.
 
 ### Выньте
-`livan_s6_pro_ru_19876cfa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 запасное
 колесо
 и
@@ -21305,7 +20077,6 @@ Livan
 Домкрат и инструменты водителя
 
 ### Домкрат и автомобильные инструменты
-`livan_s6_pro_ru_d49ca140` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:177 | doc_type:owners_manual
 размещены в багажнике автомобиля.
 Пожалуйста,
 используйте
@@ -21316,7 +20087,6 @@ Livan
 автомобилем.
 
 ### Запрещается
-`livan_s6_pro_ru_128e953c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 использовать
 другие
 неподходящие домкраты, в противном
@@ -21326,7 +20096,6 @@ Livan
 автомобиля.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_3655d3d8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:177 | doc_type:owners_manual
 176
 Запасное колесо хранится в багажном
 отделении. Откройте обшивку багажника,
@@ -21338,7 +20107,6 @@ Livan
 колеса и извлеките запасное колесо.
 
 ### Запасное
-`livan_s6_pro_ru_ef41a350` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 колесо
 автомобиля
 представляет собой маленькое Тобразное колесо. При его использовании
@@ -21352,7 +20120,6 @@ Livan
 обслуживания LIVAN как можно скорее.
 
 ### Снимите спущенное колесо и
-`livan_s6_pro_ru_07e2b923` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 установите запасное
 Запасное
 колесо
@@ -21368,7 +20135,6 @@ Livan
 заменить как можно скорее.
 
 ### 1. Прежде
-`livan_s6_pro_ru_89e11ff4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 чем
 продолжить
 эксплуатацию,
@@ -21377,7 +20143,6 @@ Livan
 безопасности.
 
 ### 2. Выньте пластиковые плоскогубцы из
-`livan_s6_pro_ru_0475de4d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 ящика с инструментами, захватите
 колпачок
 колесной
@@ -21393,7 +20158,6 @@ Livan
 колпачок на себя.
 
 ### 3. Выньте баллонный ключ из ящика для
-`livan_s6_pro_ru_307a124d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 инструментов водителя, наденьте его
 на колесную гайку, затем поверните
 против часовой стрелки и ослабьте
@@ -21401,7 +20165,6 @@ Livan
 оборот, но не откручивайте их.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_79d83625` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 6
 8
 7
@@ -21419,13 +20182,11 @@ Livan
 сторонами автомобиля.
 
 ### 5. Установите домкрат и отрегулируйте
-`livan_s6_pro_ru_ce8ae2be` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 до подходящей высоты, прежде чем
 поместить его под точку подъема, как
 показано на рисунке.
 
 ### Неправильное
-`livan_s6_pro_ru_78624226` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 положение
 опоры
 домкрата при подъеме автомобиля
@@ -21464,14 +20225,12 @@ Livan
 погибнуть.
 
 ### Запрещается
-`livan_s6_pro_ru_1f8451c3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 находиться
 под
 автомобилем, поддерживаемым только
 домкратом.
 
 ### Опасно поднимать автомобиль и
-`livan_s6_pro_ru_e4de58d7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 садиться в него для технического
 обслуживания или ремонта, не обладая
 навыками и надлежащим оборудованием
@@ -21497,20 +20256,17 @@ Livan
 соскользнет с домкрата.
 
 ### 7. Поверните ручку домкрата по часовой
-`livan_s6_pro_ru_1d2e78a3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 стрелке, чтобы поднять автомобиль
 на достаточную высоту над землей,
 чтобы запасное колесо можно было
 установить под автомобилем.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_fd37dd16` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 178
 8. Снимите все колесные гайки.
 9. Снимите деформированную шину.
 
 ### 10. Удалите
-`livan_s6_pro_ru_ce4d0eeb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 ржавчину
 или
 грязь
@@ -21521,7 +20277,6 @@ Livan
 поверхностей и запасного колеса.
 
 ### 12. Замените
-`livan_s6_pro_ru_c9f3343e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 колесные
 гайки.
 С
@@ -21534,7 +20289,6 @@ Livan
 не окажется на ступице.
 
 ### 13. Поверните
-`livan_s6_pro_ru_dcec91e3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 ручку
 домкрата
 против
@@ -21545,7 +20299,6 @@ Livan
 автомобиль.
 
 ### Полностью
-`livan_s6_pro_ru_114e5ec2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 опустите
 домкрат.
 Не наносите масло или смазку на
@@ -21557,31 +20310,26 @@ Livan
 ослабнут.
 
 ### Колеса
-`livan_s6_pro_ru_99267d42` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 автомобиля
 могут
 оторваться, что приведет к аварии.
 
 ### 14. Затяните
-`livan_s6_pro_ru_413e47d6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 колесные
 гайки
 крестнакрест, как показано на рисунке.
 
 ### 15. Полностью
-`livan_s6_pro_ru_1cab8b99` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 опустите
 домкрат
 и
 уберите домкрат из-под автомобиля.
 
 ### 16. Затяните колесные гайки с помощью
-`livan_s6_pro_ru_b6008489` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 баллонного ключа для колес.
 17. Установите накладки на гайки.
 
 ### Уложите
-`livan_s6_pro_ru_a595bb52` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 запасное
 колесо
 и
@@ -21598,13 +20346,11 @@ Livan
 ключ по часовой стрелке до щелчка.
 
 ### Верните
-`livan_s6_pro_ru_7dbb1043` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 использованные
 инструменты
 на место и надежно закрепите их.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_5e2fb345` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 6
 8
 7
@@ -21621,7 +20367,6 @@ Livan
 предохранителя
 
 ### Плавкие
-`livan_s6_pro_ru_fff50ce0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:181 | doc_type:owners_manual
 предохранители
 защищают
 автомобильное
@@ -21629,7 +20374,6 @@ Livan
 предотвращая перегрузки в электроцепи.
 
 ### Перегоревший
-`livan_s6_pro_ru_8a4151c8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 предохранитель
 указывает на то, что цепь, которую он
 защищает, вышла из строя и перестала
@@ -21646,7 +20390,6 @@ Livan
 B - предохранитель перегорел
 
 ### Предохранитель
-`livan_s6_pro_ru_7c126cb3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:181 | doc_type:owners_manual
 находится
 в
 блоке
@@ -21663,7 +20406,6 @@ B - предохранитель перегорел
 панели.
 
 ### Предохранители
-`livan_s6_pro_ru_311d7f32` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:181 | doc_type:owners_manual
 бывают двух видов:
 1. Пластинчатый
 предохранитель
@@ -21677,7 +20419,6 @@ B - предохранитель перегорел
 составляет 5-25А.
 
 ### 2. Медленный
-`livan_s6_pro_ru_d0e29674` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:181 | doc_type:owners_manual
 плавкий
 предохранитель
 -
@@ -21686,7 +20427,6 @@ B - предохранитель перегорел
 ток электроцепи составляет 20-60 А.
 
 ### Цвет указывает на значение силы тока
-`livan_s6_pro_ru_9c02913b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 предохранителя, которая также отмечена
 на предохранителе.
 Не
@@ -21707,7 +20447,6 @@ B - предохранитель перегорел
 провода.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_84bd708d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:181 | doc_type:owners_manual
 180
 Блок
 предохранителей
@@ -21716,7 +20455,6 @@ B - предохранитель перегорел
 1. Откройте капот моторного отсека.
 
 ### 2. Чтобы
-`livan_s6_pro_ru_a4597ddb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 осмотреть
 предохранитель,
 ослабьте
@@ -21729,7 +20467,6 @@ B - предохранитель перегорел
 предохранителей.
 
 ### Попадание
-`livan_s6_pro_ru_be03056b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 жидкости
 может
 привести к
@@ -21737,7 +20474,6 @@ B - предохранитель перегорел
 электрического компонента автомобиля.
 
 ### Следите
-`livan_s6_pro_ru_8d978130` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:182 | doc_type:owners_manual
 за
 тем,
 чтобы
@@ -21746,7 +20482,6 @@ B - предохранитель перегорел
 электроприборов были на месте.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_91393b2e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 6
 8
 7
@@ -21762,7 +20497,6 @@ B - предохранитель перегорел
 Наименование
 
 ### Величи
-`livan_s6_pro_ru_bd17e5b4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 на в
 амперах
 При
@@ -21772,7 +20506,6 @@ EF01
 Предохранитель DTC 3
 
 ### 30A
-`livan_s6_pro_ru_b8049732` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 -
 EF02
 Предохранитель DTC 4
@@ -21782,7 +20515,6 @@ EF03
 Предохранитель системы управления двигателем
 
 ### 10A
-`livan_s6_pro_ru_9bcedae4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:183 | doc_type:owners_manual
 -
 EF05
 Предохранитель топливного насоса
@@ -21791,7 +20523,6 @@ EF06
 Предохранитель тормозного переключателя
 
 ### 5A
-`livan_s6_pro_ru_6ad3e62c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 -
 EF08
 Предохранитель клапана управления угольным
@@ -21799,7 +20530,6 @@ EF08
 газораспределения
 
 ### 20A
-`livan_s6_pro_ru_64fcf232` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 -
 EF11
 Предохранитель катушки зажигания
@@ -21812,7 +20542,6 @@ EF11
 ителя
 
 ### Величи
-`livan_s6_pro_ru_1190b25c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:184 | doc_type:owners_manual
 на в
 амперах
 При
@@ -21822,7 +20551,6 @@ EF12
 Предохранитель кислородного датчика
 
 ### 15A
-`livan_s6_pro_ru_4885088c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:184 | doc_type:owners_manual
 -
 EF16
 Реле низкооборотного вентилятора/реле
@@ -21832,7 +20560,6 @@ EF16
 сцепления
 
 ### 5A
-`livan_s6_pro_ru_42f66b36` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 -
 EF17
 Предохранитель сигнала обратной связи пуска
@@ -21840,7 +20567,6 @@ EF17
 -
 
 ### 15A
-`livan_s6_pro_ru_4885088c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:184 | doc_type:owners_manual
 -
 EF29
 Предохранитель переднего стеклоочистителя
@@ -21848,7 +20574,6 @@ EF29
 -
 
 ### EF30
-`livan_s6_pro_ru_5af237d6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 Предохранитель IBC B+ 1
 30A
 -
@@ -21856,7 +20581,6 @@ EF31
 Предохранитель IBC B+ 2
 
 ### 30A
-`livan_s6_pro_ru_a1066bf0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 -
 EF32
 Предохранитель IBS B +
@@ -21866,7 +20590,6 @@ EF34
 Предохранитель обогрева заднего стекла
 
 ### 40A
-`livan_s6_pro_ru_a53b0b3d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 -
 EF35
 Предохранитель DTC
@@ -21876,7 +20599,6 @@ EF36
 Предохранитель высокоскоростного вентилятора
 
 ### 60A
-`livan_s6_pro_ru_6262310a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:184 | doc_type:owners_manual
 -
 EF37
 Предохранитель левого стеклоподъемника
@@ -21884,7 +20606,6 @@ EF37
 -
 
 ### 40A
-`livan_s6_pro_ru_a53b0b3d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 -
 EF39
 Предохранитель приборов (IG2)
@@ -21894,7 +20615,6 @@ EF40
 Предохранитель DTC 2
 
 ### 30A
-`livan_s6_pro_ru_a1066bf0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 -
 EF42
 Предохранитель счетчика (B+)
@@ -21904,7 +20624,6 @@ EF43
 Предохранитель низкооборотного вентилятора
 
 ### 40A
-`livan_s6_pro_ru_a53b0b3d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 -
 EF44
 Предохранитель стартера
@@ -21914,7 +20633,6 @@ EF45
 Предохранитель ESC&EPB 2
 
 ### 40A
-`livan_s6_pro_ru_a53b0b3d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 -
 EF46
 Предохранитель ESC&EPB 1
@@ -21924,14 +20642,12 @@ EF47
 Предохранители (IG1 и ACC) приборов
 
 ### 60A
-`livan_s6_pro_ru_6262310a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:184 | doc_type:owners_manual
 -
 EF48
 Предохранитель электроусилителя рулевого
 управления
 
 ### 80A
-`livan_s6_pro_ru_e4ed2376` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 -
 EF49
 Предохранитель генератора
@@ -21952,7 +20668,6 @@ EF49
 ителя
 
 ### Величи
-`livan_s6_pro_ru_c753ee27` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 на в
 амперах
 При
@@ -21965,7 +20680,6 @@ ER01
 ER02
 
 ### Реле блокировки пуска
-`livan_s6_pro_ru_19c4a838` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 -
 -
 ER05
@@ -21979,7 +20693,6 @@ ER08
 ER10
 
 ### Реле вентилятора
-`livan_s6_pro_ru_0238ea3a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 -
 -
 ER12
@@ -21989,7 +20702,6 @@ ER12
 ER13
 
 ### Реле высокоскоростного вентилятора
-`livan_s6_pro_ru_472e835f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:185 | doc_type:owners_manual
 -
 -
 ER14
@@ -21998,7 +20710,6 @@ ER14
 -
 
 ### Реле низкоскоростного стеклоочистителя
-`livan_s6_pro_ru_60b6e22f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:185 | doc_type:owners_manual
 -
 -
 ER16
@@ -22011,7 +20722,6 @@ ER17
 -
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_3707d870` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 184
 Внутренний
 блок
@@ -22024,7 +20734,6 @@ ER17
 панели.
 
 ### Доступ
-`livan_s6_pro_ru_99589985` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 к
 предохранителям
 можно получить, сняв левый ящик для
@@ -22032,7 +20741,6 @@ ER17
 Модель 2
 
 ### Внутренний предохранитель расположен
-`livan_s6_pro_ru_fb09830e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 на
 левой
 стороне
@@ -22050,7 +20758,6 @@ ER17
 плоской отвертки.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_277f5e97` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 6
 8
 7
@@ -22066,7 +20773,6 @@ ER17
 Наименование
 
 ### Величина
-`livan_s6_pro_ru_fdefb343` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 в амперах
 Приме
 чания
@@ -22074,7 +20780,6 @@ CF01
 Предохранитель резервного питания
 
 ### 15A
-`livan_s6_pro_ru_dab11f72` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 -
 CF02
 -
@@ -22084,14 +20789,12 @@ CF03
 Предохранитель видеорегистратора
 
 ### 5A
-`livan_s6_pro_ru_7c308269` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 -
 CF04
 Предохранитель переключателя зеркал
 заднего вида
 
 ### 5A
-`livan_s6_pro_ru_7c308269` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 -
 CF05
 -
@@ -22101,7 +20804,6 @@ CF06
 Предохранитель USB-порта для зарядки
 
 ### 10A
-`livan_s6_pro_ru_0ad71af7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 -
 CF07
 -
@@ -22112,7 +20814,6 @@ CF08
 автономного вождения
 
 ### 5A
-`livan_s6_pro_ru_7c308269` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 -
 Неисправности во время вождения
 186
@@ -22121,7 +20822,6 @@ CF08
 еля
 
 ### Величина
-`livan_s6_pro_ru_f880a7c8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:188 | doc_type:owners_manual
 в амперах
 Приме
 чания
@@ -22132,7 +20832,6 @@ CF09
 управления коробкой передач
 
 ### 7,5A
-`livan_s6_pro_ru_d77f9d0d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:188 | doc_type:owners_manual
 -
 CF10
 -
@@ -22144,7 +20843,6 @@ CF11
 руля
 
 ### 7,5A
-`livan_s6_pro_ru_d77f9d0d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 -
 CF12
 Предохранитель блока управления
@@ -22152,14 +20850,12 @@ CF12
 передач
 
 ### 7,5A
-`livan_s6_pro_ru_d77f9d0d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 -
 CF13
 Предохранитель питания корректора
 правой фары
 
 ### 7,5A
-`livan_s6_pro_ru_d77f9d0d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 -
 CF14
 -
@@ -22176,7 +20872,6 @@ CF17
 CF18
 
 ### Предохранитель системы
-`livan_s6_pro_ru_fe7115bc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:188 | doc_type:owners_manual
 кондиционирования
 10A
 -
@@ -22185,7 +20880,6 @@ CF19
 заднего мотора омывателя
 
 ### 15A
-`livan_s6_pro_ru_6e8c6544` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 -
 CF20
 -
@@ -22198,7 +20892,6 @@ CF22
 CF24
 
 ### Предохранитель подогревателя зеркал
-`livan_s6_pro_ru_d1f36822` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 заднего вида
 10A
 -
@@ -22210,7 +20903,6 @@ CF25
 вызова
 
 ### 10A
-`livan_s6_pro_ru_1ed066fa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:188 | doc_type:owners_manual
 -
 CF26
 Предохранитель навигационной системы
@@ -22219,7 +20911,6 @@ CF26
 CF27
 
 ### 20A
-`livan_s6_pro_ru_9992ff3b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 -
 CF28
 Предохранитель диагностического порта
@@ -22240,7 +20931,6 @@ CF28
 еля
 
 ### Величина
-`livan_s6_pro_ru_58e66e15` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 в амперах
 Приме
 чания
@@ -22249,7 +20939,6 @@ CF29
 Предохранители радиочастотной антенны
 
 ### 10A
-`livan_s6_pro_ru_c8e709d5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 -
 CF30
 -
@@ -22263,14 +20952,12 @@ CF32
 Предохранитель указателей поворота
 
 ### 15A
-`livan_s6_pro_ru_88cf47df` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 -
 CF33
 Предохранитель питания выключателя
 замка двери
 
 ### 25A
-`livan_s6_pro_ru_0e3a2cf3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 -
 CF34
 Предохранитель питания IBC
@@ -22280,7 +20967,6 @@ CF35
 Предохранитель питания шлюза
 
 ### 5A
-`livan_s6_pro_ru_1b0c83f8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 -
 CF36
 -
@@ -22293,7 +20979,6 @@ CF37
 -
 
 ### CF39
-`livan_s6_pro_ru_b62a9617` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:189 | doc_type:owners_manual
 -
 -
 Резерв
@@ -22310,14 +20995,12 @@ CF42
 электроприводом
 
 ### 30A
-`livan_s6_pro_ru_da851198` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 -
 CF44
 Плавкие предохранители модуля защиты от
 защемления
 
 ### 25A
-`livan_s6_pro_ru_0e3a2cf3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 -
 Неисправности во время вождения
 188
@@ -22327,7 +21010,6 @@ CF44
 предохранителя
 
 ### 1. Выключите
-`livan_s6_pro_ru_299f7c18` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:190 | doc_type:owners_manual
 зажигание
 и
 все
@@ -22336,7 +21018,6 @@ CF44
 отрицательный кабель аккумулятора.
 
 ### 2. Удерживая
-`livan_s6_pro_ru_f2613f99` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 головку
 предохранителя
 одним концом щипцов, потяните и
@@ -22351,7 +21032,6 @@ CF44
 перегорел ли металлический провод.
 
 ### 3. Замените
-`livan_s6_pro_ru_08494653` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 перегоревший
 предохранитель новым с таким же
 значением
@@ -22375,7 +21055,6 @@ CF44
 обслуживания
 
 ### LIVAN
-`livan_s6_pro_ru_d6939d47` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 для проведения ремонта.
 Неисправности во время вождения
 6
@@ -22389,7 +21068,6 @@ CF44
 189
 
 ### Модели ламп
-`livan_s6_pro_ru_8cd1ae6e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:191 | doc_type:owners_manual
 Замена ламп обычно требует демонтажа некоторых компонентов автомобиля, поэтому
 для соответствующих операций требуются профессиональные навыки. Эксплуатация
 ламп, заменить которые возможно только из передней части моторного отсека,
@@ -22397,7 +21075,6 @@ CF44
 замены лампы рекомендуется обратиться в центр технического обслуживания LIVAN.
 
 ### Модель
-`livan_s6_pro_ru_fb83dfcb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 лампы
 Мощность
 Передняя
@@ -22405,7 +21082,6 @@ CF44
 фара в сборе
 
 ### LED
-`livan_s6_pro_ru_92def08a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 -
 Фара дальнего света
 LED
@@ -22415,7 +21091,6 @@ LED
 -
 
 ### PY21W
-`livan_s6_pro_ru_37a79f9f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 21Вт
 Дневные ходовые
 огни
@@ -22424,7 +21099,6 @@ LED
 -
 
 ### Задняя
-`livan_s6_pro_ru_fe0e7e25` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 комбинированная
 фара в сборе
 Фонари заднего хода
@@ -22433,7 +21107,6 @@ LED
 Стоп-сигнал
 
 ### LED
-`livan_s6_pro_ru_92def08a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 -
 Задний указатель поворота
 LED
@@ -22441,7 +21114,6 @@ LED
 Задние габаритные огни
 
 ### LED
-`livan_s6_pro_ru_92def08a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 -
 Задние противотуманные
 фары
@@ -22451,7 +21123,6 @@ LED
 Центральный стоп-сигнал
 
 ### LED
-`livan_s6_pro_ru_92def08a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 -
 Фонарь освещения
 номерного знака
@@ -22459,7 +21130,6 @@ LED
 номерного знака
 
 ### LED
-`livan_s6_pro_ru_92def08a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 -
 Передние лампы
 внутреннего
@@ -22467,7 +21137,6 @@ LED
 Лампа для чтения
 
 ### LED
-`livan_s6_pro_ru_92def08a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 -
 Задние лампы
 внутреннего
@@ -22475,7 +21144,6 @@ LED
 Левая лампа для чтения
 
 ### LED
-`livan_s6_pro_ru_92def08a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 -
 Правая лампа для чтения
 LED
@@ -22484,7 +21152,6 @@ LED
 багажника
 
 ### Лампы освещения
-`livan_s6_pro_ru_a1a10219` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:191 | doc_type:owners_manual
 багажника
 LED
 -
@@ -22492,7 +21159,6 @@ LED
 190
 
 ### Действия
-`livan_s6_pro_ru_8ea11af5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:192 | doc_type:owners_manual
 в
 аварийной
 обстановке
@@ -22516,7 +21182,6 @@ LED
 необходимо выполнить следующее:
 
 ### 1. Съедьте с дороги в безопасное место,
-`livan_s6_pro_ru_80549a7a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:192 | doc_type:owners_manual
 затем
 остановитесь
 и
@@ -22524,7 +21189,6 @@ LED
 аварийную световую сигнализацию.
 
 ### Установите
-`livan_s6_pro_ru_322b861b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:192 | doc_type:owners_manual
 коробку
 передач
 в
@@ -22540,7 +21204,6 @@ LED
 следует выключить.
 
 ### 2. Остановите
-`livan_s6_pro_ru_60cbd090` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:192 | doc_type:owners_manual
 двигатель,
 если
 из
@@ -22569,7 +21232,6 @@ LED
 переключатель запуска.
 
 ### 3. Осмотрите
-`livan_s6_pro_ru_d9228939` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:192 | doc_type:owners_manual
 приводной
 ремень
 двигателя (ремень водяного насоса)
@@ -22584,7 +21246,6 @@ LED
 жидкости.
 
 ### Однако
-`livan_s6_pro_ru_4dfb6479` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 если
 из
 работающего
@@ -22592,7 +21253,6 @@ LED
 это нормально.
 
 ### 4. Если
-`livan_s6_pro_ru_1d6f4a19` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:192 | doc_type:owners_manual
 ремень
 привода
 водяного
@@ -22618,7 +21278,6 @@ LED
 ремонта.
 
 ### 5. Если
-`livan_s6_pro_ru_10af6cc6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:192 | doc_type:owners_manual
 нет
 проблем
 с
@@ -22642,7 +21301,6 @@ LED
 отметки
 
 ### MIN,
-`livan_s6_pro_ru_a770f957` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 долейте
 охлаждающую
 жидкость
@@ -22650,7 +21308,6 @@ LED
 расширительный бачок.
 
 ### 6. После
-`livan_s6_pro_ru_e50b0961` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 того,
 как
 температура
@@ -22674,7 +21331,6 @@ LED
 половину.
 
 ### Сильные
-`livan_s6_pro_ru_0148b7aa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 потери
 охлаждающей
 жидкости
@@ -22689,7 +21345,6 @@ LED
 проверки.
 
 ### 7. Летом
-`livan_s6_pro_ru_c659186f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 после
 стоянки
 вентилятор
@@ -22705,7 +21360,6 @@ LED
 автоматически выключится.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_c0ea43c9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:192 | doc_type:owners_manual
 6
 8
 7
@@ -22726,7 +21380,6 @@ LED
 жидкости говорит о высоком давлении.
 
 ### Держите руки и одежду подальше от
-`livan_s6_pro_ru_74a72b3a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:193 | doc_type:owners_manual
 крутящегося вентилятора и приводного
 ремня при работающем двигателе.
 Не
@@ -22741,7 +21394,6 @@ LED
 радиатора.
 
 ### Выбрасываемый
-`livan_s6_pro_ru_aa4b2dac` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 высокотемпературный
 пар
 и
@@ -22749,7 +21401,6 @@ LED
 могут привести к серьезным травмам.
 
 ### Система вызова экстренных
-`livan_s6_pro_ru_73a4547a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 оперативных
 служб
 (ЭРАГЛОНАСС)*
@@ -22764,7 +21415,6 @@ LED
 служб
 
 ### (ЭОС),
-`livan_s6_pro_ru_ebfb4c36` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 передачи
 минимального набора данных (МНД) с
 описанием автомобиля, координат его
@@ -22777,7 +21427,6 @@ LED
 государственной федеральной системы
 
 ### Динамик SOS расположен под группой
-`livan_s6_pro_ru_81083b2c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 переключателей
 приборной
 панели
@@ -22793,7 +21442,6 @@ LED
 эксплуатации
 
 ### УВЭОС
-`livan_s6_pro_ru_79c4a198` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:193 | doc_type:owners_manual
 представлен
 в
 электронном
@@ -22809,7 +21457,6 @@ QR
 документе "Паспорт УВЭОС".
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_e455341d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 192
 Остановка двигателя
 1. Плавно
@@ -22824,7 +21471,6 @@ QR
 обочине.
 
 ### 2. Включите
-`livan_s6_pro_ru_7e91d2e0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:194 | doc_type:owners_manual
 аварийные
 сигнальные
 лампы.
@@ -22852,7 +21498,6 @@ QR
 будет труднее, чем обычно.
 
 ### Если автомобиль застрял
-`livan_s6_pro_ru_06cfc244` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 Если автомобиль застрял в снегу, грязи,
 песке и т. д., необходимо попытаться
 переключиться между передней и задней
@@ -22898,7 +21543,6 @@ QR
 пробуксовки колес.
 
 ### Если автомобиль не освободился после
-`livan_s6_pro_ru_3a845d93` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 колебательных
 движений
 в
@@ -22913,7 +21557,6 @@ QR
 другие методы.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_954e4b29` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 7
 8
 6
@@ -22928,7 +21571,6 @@ QR
 обслуживание
 
 ### Правильное техническое обслуживание
-`livan_s6_pro_ru_6bdb7ee8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 автомобиля
 не
 только
@@ -22948,7 +21590,6 @@ QR
 важны.
 
 ### Неправильное
-`livan_s6_pro_ru_b3d02750` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 техническое
 обслуживание
 автомобиля
@@ -22960,12 +21601,10 @@ QR
 воздуха.
 
 ### Неправильный уровень жидкостей или
-`livan_s6_pro_ru_28b9df18` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 неправильное давление в шинах может
 увеличить объем выбросов автомобиля.
 
 ### Чтобы защитить окружающую среду и
-`livan_s6_pro_ru_74131a55` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 поддерживать
 автомобиль
 в
@@ -22976,7 +21615,6 @@ QR
 обслуживать его.
 
 ### Если автомобиль эксплуатируется в
-`livan_s6_pro_ru_2357116c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 указанных ниже тяжелых условиях,
 рекомендуется
 проходить
@@ -22986,7 +21624,6 @@ QR
 •
 
 ### Автомобиль
-`livan_s6_pro_ru_8eb7c6a0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 эксплуатируется
 на
 короткие расстояния (менее 10 км) в
@@ -22995,7 +21632,6 @@ QR
 •
 
 ### Автомобиль
-`livan_s6_pro_ru_8eb7c6a0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 в
 течение
 длительного
@@ -23013,7 +21649,6 @@ QR
 •
 
 ### Чрезмерная работа на холостом ходу
-`livan_s6_pro_ru_e8be4b3c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 или
 длительная
 езда
@@ -23023,7 +21658,6 @@ QR
 •
 
 ### Частое
-`livan_s6_pro_ru_06a68a97` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 вождение
 с
 постоянными
@@ -23034,7 +21668,6 @@ QR
 •
 
 ### Частое вождение по песчаным или
-`livan_s6_pro_ru_9c05ce42` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 пыльным дорогам;
 •
 Частое
@@ -23045,7 +21678,6 @@ QR
 •
 
 ### Применение
-`livan_s6_pro_ru_1bb746b2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 топлива,
 не
 соответствующего
@@ -23083,7 +21715,6 @@ QR
 стоянки.
 
 ### Рекомендуется парковать автомобиль в
-`livan_s6_pro_ru_1779c656` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 теплом месте, защищенном от ветра,
 если
 он
@@ -23105,7 +21736,6 @@ QR
 -
 
 ### 35° С
-`livan_s6_pro_ru_9c177ef0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 -
 предел
 температуры
@@ -23122,7 +21752,6 @@ QR
 на
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_b6830536` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:195 | doc_type:owners_manual
 194
 равнине. Поскольку вязкость моторного
 масла
@@ -23139,7 +21768,6 @@ QR
 усилием.
 
 ### Запуск
-`livan_s6_pro_ru_28f5f710` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 при
 температуре ниже - 35° С не удастся. В
 очень холодных районах (- 30°С и ниже)
@@ -23148,7 +21776,6 @@ QR
 эксплуатацию.
 
 ### Программа
-`livan_s6_pro_ru_bb51407d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 обслуживания
 во
 время использования
@@ -23166,7 +21793,6 @@ QR
 различаются.
 
 ### Водителю
-`livan_s6_pro_ru_a33453c0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 может
 потребоваться
 увеличить частоту осмотров и замен.
@@ -23182,7 +21808,6 @@ QR
 обслуживания
 
 ### Данный
-`livan_s6_pro_ru_3a6389d5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 план
 технического
 обслуживания
@@ -23217,7 +21842,6 @@ QR
 «Запуск двигателя и вождениее.
 
 ### Операции
-`livan_s6_pro_ru_6c5a9c92` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 по
 техническому
 обслуживанию автомобиля сложны
@@ -23227,7 +21851,6 @@ QR
 опасны.
 
 ### Выполняя
-`livan_s6_pro_ru_f2728f84` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 некоторые
 работы
 по
@@ -23241,7 +21864,6 @@ QR
 травмы.
 
 ### Только имея достаточный технический
-`livan_s6_pro_ru_bd6e2bab` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 опыт
 обслуживания,
 а
@@ -23257,7 +21879,6 @@ QR
 самостоятельно.
 
 ### В
-`livan_s6_pro_ru_9fe2c4b6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 противном случае обратитесь в центр
 технического обслуживания LIVAN.
 При
@@ -23290,7 +21911,6 @@ QR
 требуется.
 
 ### Рекомендуется
-`livan_s6_pro_ru_b0c6e67a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 использовать
 оригинальные
 запчасти,
@@ -23298,7 +21918,6 @@ QR
 обслуживания LIVAN.
 
 ### Отметки
-`livan_s6_pro_ru_e9322be5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 о
 прохождении
 технического обслуживания
@@ -23322,7 +21941,6 @@ QR
 обслуживании.
 
 ### Этот автомобиль оснащен устройством
-`livan_s6_pro_ru_7e762e42` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 контроля
 выбросов
 и
@@ -23337,7 +21955,6 @@ QR
 отрицательно
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_19ae7205` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 7
 8
 6
@@ -23379,7 +21996,6 @@ QR
 показатели выбросов автомобиля.
 
 ### Техническое
-`livan_s6_pro_ru_f7f7481d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 обслуживание
 автовладельцем
 Если
@@ -23407,7 +22023,6 @@ QR
 обслуживания LIVAN.
 
 ### В
-`livan_s6_pro_ru_817ead8a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 дополнение
 к
 техническому
@@ -23426,7 +22041,6 @@ QR
 рекомендаций.
 
 ### Ежедневный осмотр
-`livan_s6_pro_ru_cc20f777` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 •
 Работоспособность
 фар,
@@ -23436,7 +22050,6 @@ QR
 •
 
 ### Работоспособность
-`livan_s6_pro_ru_be9652c1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:197 | doc_type:owners_manual
 ремня
 безопасности и тормоза.
 •
@@ -23447,7 +22060,6 @@ QR
 Проверьте внешний вид шин.
 
 ### Еженедельный осмотр
-`livan_s6_pro_ru_35dcf913` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:197 | doc_type:owners_manual
 •
 Уровень моторного масла.
 •
@@ -23457,7 +22069,6 @@ QR
 •
 
 ### Уровень
-`livan_s6_pro_ru_1366f7fe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 жидкости
 омывателя
 ветрового стекла.
@@ -23466,7 +22077,6 @@ QR
 •
 
 ### Работа системы кондиционирования
-`livan_s6_pro_ru_15612b46` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:197 | doc_type:owners_manual
 воздуха.
 Если автомобиль часто и в течение
 длительного
@@ -23480,20 +22090,17 @@ QR
 проверять моторное масло.
 
 ### Восемь
-`livan_s6_pro_ru_a957b577` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 правил
 предотвращения
 случайных
 возгораний в автомобиле
 
 ### 1. Запрещается
-`livan_s6_pro_ru_55feb948` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 хранить
 легковоспламеняющиеся вещества в
 автомобиле.
 
 ### Легковоспламеняющиеся
-`livan_s6_pro_ru_62aec767` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 и
 взрывоопасные
 материалы
@@ -23503,7 +22110,6 @@ QR
 пожар (зажигалки и т. д.).
 
 ### 2. Не
-`livan_s6_pro_ru_d0b91002` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 допускайте
 прямого
 контакта
@@ -23514,7 +22120,6 @@ QR
 или
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_a6f2d82e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 196
 ветвями во время
 парковки. Если
@@ -23522,7 +22127,6 @@ QR
 возникнет пожар.
 
 ### 3. Запрещается
-`livan_s6_pro_ru_41a822c3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:198 | doc_type:owners_manual
 установка
 других
 декоративных фонарей, отличных от
@@ -23542,7 +22146,6 @@ QR
 нагрузки, что приведет к пожару.
 
 ### 4. При
-`livan_s6_pro_ru_45229705` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 модификации
 автомобиля
 механической
@@ -23559,7 +22162,6 @@ CD
 возгоранию.
 
 ### 5. Запрещается
-`livan_s6_pro_ru_19a06caa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 использование
 ламп,
 отличающихся
@@ -23573,7 +22175,6 @@ CD
 и это может привести к возгоранию.
 
 ### 6. Запрещается нажимать педаль газа в
-`livan_s6_pro_ru_4212e9ab` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:198 | doc_type:owners_manual
 течение
 длительного
 времени
@@ -23589,7 +22190,6 @@ CD
 автомобиля.
 
 ### Вплоть
-`livan_s6_pro_ru_5ae5f2d2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:198 | doc_type:owners_manual
 до
 возгорания топливного бака.
 7. Моторный
@@ -23606,7 +22206,6 @@ CD
 моторном отсеке.
 
 ### 8. После курения убедитесь, что окурок
-`livan_s6_pro_ru_1b995f4d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 полностью погас. Если нет, может
 случиться пожар.
 Токсичные жидкости
@@ -23619,7 +22218,6 @@ CD
 раны.
 
 ### К
-`livan_s6_pro_ru_8bfbfd5f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:198 | doc_type:owners_manual
 токсичным
 жидкостям
 относятся:
@@ -23633,7 +22231,6 @@ CD
 жидкость и т. д.
 
 ### В
-`livan_s6_pro_ru_88b139b6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 целях
 безопасности
 водителя
@@ -23645,7 +22242,6 @@ CD
 и контейнерах.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_63feb879` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:198 | doc_type:owners_manual
 7
 8
 6
@@ -23670,7 +22266,6 @@ CD
 врачу.
 
 ### Отработанное
-`livan_s6_pro_ru_fa102236` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:199 | doc_type:owners_manual
 моторное
 масло
 нельзя
@@ -23682,7 +22277,6 @@ CD
 окружающую среду.
 
 ### Открытие
-`livan_s6_pro_ru_e11b687f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:199 | doc_type:owners_manual
 капота
 моторного
 отсека
@@ -23700,7 +22294,6 @@ CD
 следующие действия:
 
 ### 1. Потяните
-`livan_s6_pro_ru_96bc9c69` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:199 | doc_type:owners_manual
 ручку
 открывания
 капота
@@ -23713,7 +22306,6 @@ CD
 стороны водителя в автомобиле.
 
 ### 2. Нажмите на рукоятку предохранителя
-`livan_s6_pro_ru_97c4ae49` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:199 | doc_type:owners_manual
 замка
 капота,
 расположенную
@@ -23722,7 +22314,6 @@ CD
 освободить ее.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_d69dbd46` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:199 | doc_type:owners_manual
 198
 3. Поднимите
 капот,
@@ -23732,7 +22323,6 @@ CD
 подоприте капот.
 
 ### Закрытие
-`livan_s6_pro_ru_5743d470` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:200 | doc_type:owners_manual
 капота
 моторного
 отсека
@@ -23757,7 +22347,6 @@ CD
 закрыты.
 
 ### Вставьте
-`livan_s6_pro_ru_c8e24020` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:200 | doc_type:owners_manual
 опорный
 стержень
 капота
@@ -23781,7 +22370,6 @@ CD
 образом.
 
 ### Передний
-`livan_s6_pro_ru_be1e24cf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:200 | doc_type:owners_manual
 капот
 может
 внезапно
@@ -23801,7 +22389,6 @@ CD
 имущества, травмам или даже смерти.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_2aa9b8f3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:200 | doc_type:owners_manual
 7
 8
 6
@@ -23819,7 +22406,6 @@ CD
 5.
 
 ### Блок предохранителей в моторном
-`livan_s6_pro_ru_760cc75a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 отсеке
 2.
 Крышка
@@ -23829,7 +22415,6 @@ CD
 6.
 
 ### Воздушный фильтр двигателя
-`livan_s6_pro_ru_9f1db708` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:201 | doc_type:owners_manual
 3.
 Бачок для тормозной жидкости
 7.
@@ -23838,7 +22423,6 @@ CD
 4.
 
 ### Аккумуляторная батарея
-`livan_s6_pro_ru_e0b56e5e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:201 | doc_type:owners_manual
 8.
 Бачок жидкости стеклоомывателя
 Для любого двигателя любой компонент моторного отсека имеет специфические
@@ -23852,12 +22436,10 @@ CD
 повреждения.
 
 ### Запрещается
-`livan_s6_pro_ru_07f7b4c4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 самостоятельно
 оборудовать и устанавливать нижнюю защитную панель двигателя.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_e6fc8919` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 200
 Моторное
 масло
@@ -23867,7 +22449,6 @@ CD
 масла
 
 ### Моторное
-`livan_s6_pro_ru_9d3b994a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:202 | doc_type:owners_manual
 масло
 и
 масляный
@@ -23920,7 +22501,6 @@ CD
 уровня масла.
 
 ### 1. Заглушите
-`livan_s6_pro_ru_63ab47ab` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:202 | doc_type:owners_manual
 двигатель
 и
 подождите
@@ -23946,7 +22526,6 @@ CD
 фактический уровень.
 
 ### 2. Вытащите масляный щуп, протрите
-`livan_s6_pro_ru_be395845` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 его
 бумажным
 полотенцем
@@ -23955,7 +22534,6 @@ CD
 упора.
 
 ### 3. Снова
-`livan_s6_pro_ru_fb2bb92c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 вытащите
 масляный
 щуп,
@@ -23967,7 +22545,6 @@ CD
 отметки MIN на щупе.
 
 ### 4. Если уровень моторного масла ниже
-`livan_s6_pro_ru_5bbffeec` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:202 | doc_type:owners_manual
 отметки
 MIN,
 отвинтите
@@ -23981,7 +22558,6 @@ MIN,
 и MIN на щупе для измерения уровня.
 
 ### 5. Подождите несколько минут и снова
-`livan_s6_pro_ru_36a2360c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:202 | doc_type:owners_manual
 проверьте
 уровень.
 При
@@ -23992,7 +22568,6 @@ MIN,
 моторного масла.
 
 ### 6. Наконец,
-`livan_s6_pro_ru_e43df8e0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:202 | doc_type:owners_manual
 убедитесь,
 что
 маслоизмерительный щуп правильно
@@ -24028,7 +22603,6 @@ MIN,
 масло, рекомендованное и одобренное
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_37b45b4d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 7
 8
 6
@@ -24048,7 +22622,6 @@ MIN,
 «Технические данныее.
 
 ### Утилизируйте
-`livan_s6_pro_ru_577739b6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:203 | doc_type:owners_manual
 отработанное
 моторное масло в соответствии с
 применимыми
@@ -24058,7 +22631,6 @@ MIN,
 окружающей среды.
 
 ### Воздушный
-`livan_s6_pro_ru_60976df2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:203 | doc_type:owners_manual
 фильтр/
 фильтрующий
 элемент
@@ -24073,7 +22645,6 @@ MIN,
 водителя.
 
 ### Когда следует проверять воздушный
-`livan_s6_pro_ru_99ed1af3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 фильтрующий элемент двигателя
 Периодичность
 проверки
@@ -24088,7 +22659,6 @@ MIN,
 книжке.
 
 ### Если вы хотите проверить воздушный
-`livan_s6_pro_ru_bdb0a57f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 фильтр/фильтрующий элемент, снимите
 его
 с
@@ -24098,7 +22668,6 @@ MIN,
 встряхните, чтобы удалить пыль и грязь.
 
 ### Если на фильтрующем элементе все еще
-`livan_s6_pro_ru_1ab4eb09` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 остается грязь, замените его на новый.
 Замена
 воздушного
@@ -24106,7 +22675,6 @@ MIN,
 элемента двигателя
 
 ### 1. Ослабьте
-`livan_s6_pro_ru_587f6639` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 5
 крепежных
 винтов
@@ -24116,7 +22684,6 @@ MIN,
 фильтра двигателя.
 
 ### 4. Проверьте или замените воздушный
-`livan_s6_pro_ru_06a840b2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 фильтр/фильтрующий
 элемент
 двигателя.
@@ -24127,7 +22694,6 @@ MIN,
 крышку корпуса элемента.
 
 ### 6. Затяните
-`livan_s6_pro_ru_3fdc4142` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:203 | doc_type:owners_manual
 5
 установочных
 винтов,
@@ -24137,7 +22703,6 @@ MIN,
 пыли в двигатель.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_64b7e2d4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 202
 Система охлаждения
 Информация
@@ -24146,7 +22711,6 @@ MIN,
 охлаждения
 
 ### Роль системы охлаждения заключается в
-`livan_s6_pro_ru_50607b9f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 обеспечении
 наиболее
 подходящей
@@ -24154,7 +22718,6 @@ MIN,
 двигателя.
 
 ### Интервал
-`livan_s6_pro_ru_9820b876` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 замены
 охлаждающей
 жидкости
@@ -24166,7 +22729,6 @@ MIN,
 книжке.
 
 ### Даже при незапущенном двигателе
-`livan_s6_pro_ru_f8957fa7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:204 | doc_type:owners_manual
 вентилятор
 в
 моторном
@@ -24191,7 +22753,6 @@ MIN,
 ожог.
 
 ### Запрещается
-`livan_s6_pro_ru_ff63319c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:204 | doc_type:owners_manual
 запускать
 двигатель
 при
@@ -24200,7 +22761,6 @@ MIN,
 жидкости.
 
 ### В
-`livan_s6_pro_ru_670f131c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:204 | doc_type:owners_manual
 противном
 случае
 двигатель
@@ -24209,7 +22769,6 @@ MIN,
 материальному ущербу.
 
 ### Утилизируйте
-`livan_s6_pro_ru_ef987b89` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 антифриз
 в
 соответствии
@@ -24218,7 +22777,6 @@ MIN,
 законами об охране окружающей среды.
 
 ### Проверка
-`livan_s6_pro_ru_046c5ad9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 охлаждающей
 жидкости
 При
@@ -24256,7 +22814,6 @@ MIN,
 отметки
 
 ### MIN,
-`livan_s6_pro_ru_f851f8b1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 заполните
 расширительный
 бачок
@@ -24268,7 +22825,6 @@ MIN,
 жидкости
 
 ### Запрещается
-`livan_s6_pro_ru_ff63319c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 открывать
 крышку
 расширительного
@@ -24285,7 +22841,6 @@ MIN,
 верхний шланг радиатора.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_3c545bb2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 7
 8
 6
@@ -24303,7 +22858,6 @@ MIN,
 внутри все еще есть давление.
 
 ### 2. Продолжайте поворачивать крышку,
-`livan_s6_pro_ru_88cf0c02` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 пока не снимите ее.
 Пар и кипящая жидкость из горячей
 системы охлаждения могут выйти
@@ -24326,7 +22880,6 @@ MIN,
 жидкость.
 
 ### Никогда
-`livan_s6_pro_ru_afad20df` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 не
 разбирайте
 систему
@@ -24347,7 +22900,6 @@ MIN,
 бака остынут.
 
 ### 3. Залейте
-`livan_s6_pro_ru_051f9fbd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 необходимое
 количество
 охлаждающей
@@ -24366,7 +22918,6 @@ MIN,
 детали.
 
 ### Охлаждающая
-`livan_s6_pro_ru_c7b82796` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:205 | doc_type:owners_manual
 жидкость
 содержит этиленгликоль, который может
 воспламениться, если компонент сильно
@@ -24382,7 +22933,6 @@ MIN,
 жидкости разных марок и типов.
 
 ### Различные
-`livan_s6_pro_ru_2abfe6f3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 химические
 компоненты,
 такие
@@ -24421,7 +22971,6 @@ LIVAN. Повреждения или неисправности,
 гарантией LIVAN.
 
 ### 4. При
-`livan_s6_pro_ru_a1c0fc77` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:205 | doc_type:owners_manual
 открытой
 верхней
 крышке
@@ -24437,7 +22986,6 @@ LIVAN. Повреждения или неисправности,
 нагреваться.
 
 ### Будьте
-`livan_s6_pro_ru_4a8a7e3f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 осторожны
 с
 вентилятором
@@ -24447,7 +22995,6 @@ LIVAN. Повреждения или неисправности,
 в
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_57fc6a61` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 204
 расширительном баке может упасть.
 Если
@@ -24468,7 +23015,6 @@ LIVAN. Повреждения или неисправности,
 между отметками MAX и MIN.
 
 ### 5. Закрытие
-`livan_s6_pro_ru_34c05996` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:206 | doc_type:owners_manual
 крышки.
 Убедитесь,
 что
@@ -24509,7 +23055,6 @@ LIVAN. Повреждения или неисправности,
 обслуживания как можно скорее.
 
 ### Автомобиль
-`livan_s6_pro_ru_3377c72a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:206 | doc_type:owners_manual
 с
 хорошими
 тормозными
@@ -24543,7 +23088,6 @@ LIVAN. Повреждения или неисправности,
 безопасности движения.
 
 ### Изношенные тормозные колодки не могут
-`livan_s6_pro_ru_77f6b02d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:206 | doc_type:owners_manual
 эффективно затормаживать автомобиль.
 Степень износа тормозных
 колодок
@@ -24610,7 +23154,6 @@ LIVAN. Повреждения или неисправности,
 эффективность торможения.
 
 ### Экстренное торможение не должно
-`livan_s6_pro_ru_43c2299c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:206 | doc_type:owners_manual
 применяться
 при
 движении
@@ -24632,7 +23175,6 @@ LIVAN. Повреждения или неисправности,
 дорогам.
 
 ### Перед движением по затяжному спуску
-`livan_s6_pro_ru_aff2f7b0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 следует
 перевести
 автомобиль
@@ -24658,7 +23200,6 @@ LIVAN. Повреждения или неисправности,
 обеспечить восстановление тормоза.
 
 ### Обязательно
-`livan_s6_pro_ru_a65785f6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 посетите
 центр
 технического обслуживания LIVAN
@@ -24673,7 +23214,6 @@ LIVAN. Повреждения или неисправности,
 торможение.
 
 ### Новые тормозные колодки обладают не
-`livan_s6_pro_ru_ff8f2612` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 самыми
 лучшими
 фрикционными
@@ -24719,7 +23259,6 @@ LIVAN. Повреждения или неисправности,
 и несчастных случаев.
 
 ### Если педаль тормоза не может вернуться
-`livan_s6_pro_ru_e55cb030` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 на нормальную высоту или ход педали
 тормоза увеличивается слишком быстро,
 может потребоваться ремонт тормозной
@@ -24733,7 +23272,6 @@ LIVAN. Повреждения или неисправности,
 LIVAN как можно скорее.
 
 ### Звук тормозов
-`livan_s6_pro_ru_2432218b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 Нажмите на педаль тормоза, передние и
 задние
 тормоза
@@ -24769,7 +23307,6 @@ LIVAN как можно скорее.
 системы.
 
 ### Звук тормозов при трогании с
-`livan_s6_pro_ru_b0fd1b53` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 места
 Звук
 трения
@@ -24794,7 +23331,6 @@ D, двигатель вырабатывает движущую
 остается
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_c8c8170f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 206
 неподвижным,
 тормозной
@@ -24823,7 +23359,6 @@ D, двигатель вырабатывает движущую
 автомобиля.
 
 ### Звук руля при нажатии педали
-`livan_s6_pro_ru_2e456c7f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 тормоза на месте
 Когда автомобиль неподвижен, колеса
 прокручиваются при повороте рулевого
@@ -24831,7 +23366,6 @@ D, двигатель вырабатывает движущую
 тормоза, колеса прокручиваться не будут.
 
 ### При одновременном действии рулевого и
-`livan_s6_pro_ru_5b9ab800` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 тормозного
 усилия
 транспортное
@@ -24847,7 +23381,6 @@ D, двигатель вырабатывает движущую
 работу и эксплуатацию автомобиля.
 
 ### Повышенная
-`livan_s6_pro_ru_70e3e7be` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 температура
 тормозных
 дисков
@@ -24873,7 +23406,6 @@ D, двигатель вырабатывает движущую
 тепло.
 
 ### Нагрев
-`livan_s6_pro_ru_8069de02` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 тормозного
 диска
 после
@@ -24889,7 +23421,6 @@ D, двигатель вырабатывает движущую
 обжечься.
 
 ### Замена
-`livan_s6_pro_ru_518430ad` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 компонентов
 тормозной системы
 Тормозная система автомобилей очень
@@ -24934,7 +23465,6 @@ D, двигатель вырабатывает движущую
 Пункт
 
 ### Единица
-`livan_s6_pro_ru_420eff88` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 измерени
 я
 Величина
@@ -24948,7 +23478,6 @@ D, двигатель вырабатывает движущую
 10
 
 ### Минималь
-`livan_s6_pro_ru_d525797b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 ная
 толщина
 передних
@@ -24969,7 +23498,6 @@ D, двигатель вырабатывает движущую
 Пункт
 
 ### Единица
-`livan_s6_pro_ru_ae50ded5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 измерени
 я
 Величина
@@ -24983,7 +23511,6 @@ D, двигатель вырабатывает движущую
 11
 
 ### Минималь
-`livan_s6_pro_ru_a164f6f8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 ная
 толщина
 задних
@@ -24994,7 +23521,6 @@ D, двигатель вырабатывает движущую
 Тормозная жидкость
 
 ### Заполните
-`livan_s6_pro_ru_aa35951a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 бачок
 тормозной
 жидкости
@@ -25006,7 +23532,6 @@ D, двигатель вырабатывает движущую
 падает по двум причинам:
 
 ### 1. Стандартный
-`livan_s6_pro_ru_6aeb201d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 износ
 тормозных
 колодок.
@@ -25020,12 +23545,10 @@ D, двигатель вырабатывает движущую
 норму.
 
 ### 2. Также причиной низкого уровня может
-`livan_s6_pro_ru_1e343ffe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 быть утечка тормозной жидкости из
 тормозной гидравлической системы.
 
 ### Следует отремонтировать тормозную
-`livan_s6_pro_ru_ab423856` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 гидравлическую систему, поскольку
 утечка
 приведет
@@ -25034,7 +23557,6 @@ D, двигатель вырабатывает движущую
 работе тормозов.
 
 ### Добавление тормозной жидкости не
-`livan_s6_pro_ru_82d2bd49` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 решит
 проблему
 утечки.
@@ -25068,7 +23590,6 @@ D, двигатель вырабатывает движущую
 системы.
 
 ### Если вы добавите слишком много
-`livan_s6_pro_ru_8d6ee562` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 тормозной
 жидкости,
 она
@@ -25083,7 +23604,6 @@ D, двигатель вырабатывает движущую
 автомобиля.
 
 ### Поэтому
-`livan_s6_pro_ru_12d355cd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 доливать
 тормозную
 жидкость
@@ -25102,7 +23622,6 @@ D, двигатель вырабатывает движущую
 окрашенные поверхности автомобиля.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_73033367` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 208
 Уровень
 тормозной
@@ -25115,7 +23634,6 @@ D, двигатель вырабатывает движущую
 MAX и MIN.
 
 ### Использование
-`livan_s6_pro_ru_585dca5b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:210 | doc_type:owners_manual
 неподходящей
 жидкости
 серьезно
@@ -25124,7 +23642,6 @@ MAX и MIN.
 системы.
 
 ### Система
-`livan_s6_pro_ru_b916e3b3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:210 | doc_type:owners_manual
 рулевого
 управления
 Электроусилитель
@@ -25137,7 +23654,6 @@ MAX и MIN.
 из основных характеристик автомобиля.
 
 ### Она напрямую влияет на управляемость
-`livan_s6_pro_ru_075b3e8d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:210 | doc_type:owners_manual
 автомобилем.
 Важную
 роль
@@ -25157,7 +23673,6 @@ MAX и MIN.
 диагностики.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_ffc01d8a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:210 | doc_type:owners_manual
 7
 8
 6
@@ -25174,7 +23689,6 @@ MAX и MIN.
 комбинированных фар
 
 ### Передние
-`livan_s6_pro_ru_4802dab6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:211 | doc_type:owners_manual
 комбинированные
 фары
 вентилируются, чтобы приспособиться к
@@ -25190,7 +23704,6 @@ MAX и MIN.
 конструкцией.
 
 ### Когда через вентиляционное отверстие
-`livan_s6_pro_ru_beb2e417` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:211 | doc_type:owners_manual
 водяной
 пар
 попадает
@@ -25225,7 +23738,6 @@ MAX и MIN.
 •
 
 ### Присутствует
-`livan_s6_pro_ru_00079ceb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 тонкий
 слой
 туманообразной влаги (без разводов,
@@ -25233,7 +23745,6 @@ MAX и MIN.
 •
 
 ### Площадь
-`livan_s6_pro_ru_1a02e6e0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 покрытия
 туманообразной
 влагой
@@ -25243,7 +23754,6 @@ MAX и MIN.
 комбинированной фары менее 50%.
 
 ### Следующие
-`livan_s6_pro_ru_3eec0283` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 ситуации
 недопустимы
 (обычно они вызваны протечкой воды из
@@ -25251,7 +23761,6 @@ MAX и MIN.
 •
 
 ### Внутри
-`livan_s6_pro_ru_e3b39984` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 передней
 комбинированный
 фары образовалась вода.
@@ -25277,7 +23786,6 @@ Livan
 вашего автомобиля.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_bea0720d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:211 | doc_type:owners_manual
 210
 АКБ
 Обслуживание АКБ
@@ -25288,7 +23796,6 @@ Livan
 аккумулятором.
 
 ### Расположение
-`livan_s6_pro_ru_e84226f6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:212 | doc_type:owners_manual
 аккумулятора см.
 главу
 «Моторный отсеке данного раздела.
@@ -25314,7 +23821,6 @@ Livan
 •
 
 ### Избегайте перезарядки аккумулятора
-`livan_s6_pro_ru_8b4a0008` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:212 | doc_type:owners_manual
 или длительный недозаряд.
 •
 Когда
@@ -25330,7 +23836,6 @@ Livan
 •
 
 ### Аккумуляторы следует хранить вдали
-`livan_s6_pro_ru_1a3a3b59` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 от источников тепла и открытого огня,
 а также обеспечивать вентиляцию во
 время зарядки и использования, чтобы
@@ -25362,13 +23867,11 @@ Livan
 •
 
 ### Аккумулятор должен быть неподвижно
-`livan_s6_pro_ru_a70fb262` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 закреплен на транспортном средстве
 во избежание вибрации.
 •
 
 ### Регулярно
-`livan_s6_pro_ru_68219b25` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:212 | doc_type:owners_manual
 проверяйте,
 надежно
 ли
@@ -25397,7 +23900,6 @@ Livan
 разрядки
 
 ### АКБ
-`livan_s6_pro_ru_07804f0d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 во
 избежание замерзания электролита.
 Ремонт и обслуживание
@@ -25412,7 +23914,6 @@ Livan
 211
 
 ### АКБ
-`livan_s6_pro_ru_f7d763f9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:213 | doc_type:owners_manual
 и
 не
 нуждается
@@ -25425,7 +23926,6 @@ Livan
 обслуживания
 
 ### LIVAN
-`livan_s6_pro_ru_23b79b12` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:213 | doc_type:owners_manual
 для
 регулярной
 проверки
@@ -25433,7 +23933,6 @@ Livan
 Замена АКБ
 
 ### АКБ
-`livan_s6_pro_ru_f7d763f9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:213 | doc_type:owners_manual
 обязательно
 следует
 осуществлять на устройство аналогичной
@@ -25445,7 +23944,6 @@ Livan
 техобслуживание LIVAN.
 
 ### Аккумуляторная
-`livan_s6_pro_ru_a435ef17` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:213 | doc_type:owners_manual
 кислота
 может
 вызвать ожоги, а образующийся газ
@@ -25474,7 +23972,6 @@ Livan
 замены
 
 ### АКБ
-`livan_s6_pro_ru_f7d763f9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:213 | doc_type:owners_manual
 передайте
 старое
 устройство
@@ -25501,7 +23998,6 @@ Livan
 роняйте аккумулятор на землю.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_1431d44b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:213 | doc_type:owners_manual
 212
 Хранение автомобиля
 В состоянии покоя вследствие слабого
@@ -25519,7 +24015,6 @@ Livan
 отсоединять, чтобы АКБ не разряжалась.
 
 ### Автомобиль
-`livan_s6_pro_ru_004acf72` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:214 | doc_type:owners_manual
 должен
 храниться
 в
@@ -25540,7 +24035,6 @@ Livan
 старение деталей автомобиля ускорятся.
 
 ### Соблюдайте рекомендации и требования
-`livan_s6_pro_ru_7d75e68a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:214 | doc_type:owners_manual
 «Руководства
 по
 гарантии
@@ -25552,7 +24046,6 @@ Livan
 техническое обслуживание автомобиля.
 
 ### Жидкость
-`livan_s6_pro_ru_4579c002` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:214 | doc_type:owners_manual
 омывателя
 и
 щетки стеклоочистителя
@@ -25587,7 +24080,6 @@ Livan
 очистителя.
 
 ### Температура
-`livan_s6_pro_ru_ea12255c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:214 | doc_type:owners_manual
 точки
 замерзания
 очистителя должна быть на 10° C
@@ -25597,7 +24089,6 @@ Livan
 характерной для местности.
 
 ### Откройте крышку горловины с символом
-`livan_s6_pro_ru_e3b75208` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:214 | doc_type:owners_manual
 омывателя.
 Залейте
 очиститель,
@@ -25609,7 +24100,6 @@ Livan
 отсеке
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_0c946e9b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:214 | doc_type:owners_manual
 7
 8
 6
@@ -25640,7 +24130,6 @@ Livan
 водой.
 
 ### Добавление
-`livan_s6_pro_ru_406d9418` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:215 | doc_type:owners_manual
 воды
 может
 привезти
@@ -25655,7 +24144,6 @@ Livan
 стекла.
 
 ### В очень холодную погоду резервуар для
-`livan_s6_pro_ru_84414e56` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:215 | doc_type:owners_manual
 очистителя может быть заполнен только
 на три четверти. Таким образом можно
 оставить пространство при расширении
@@ -25669,7 +24157,6 @@ Livan
 полного заполнения.
 
 ### Не используйте охлаждающую жидкость
-`livan_s6_pro_ru_1e1b52db` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:215 | doc_type:owners_manual
 (антифриз)
 в
 омывателе
@@ -25680,7 +24167,6 @@ Livan
 автомобиля.
 
 ### Щетка стеклоочистителя
-`livan_s6_pro_ru_39d5f682` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 Жидкости,
 содержащие
 жиры,
@@ -25704,7 +24190,6 @@ Livan
 состояние.
 
 ### Часто промывайте
-`livan_s6_pro_ru_0be47edd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 переднее
 ветровое
 стекло
@@ -25726,7 +24211,6 @@ Livan
 службы.
 
 ### Если обнаружено затвердевание резины
-`livan_s6_pro_ru_65a6df82` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 или
 трещины,
 или
@@ -25739,7 +24223,6 @@ Livan
 стеклоочистителя.
 
 ### Регулярно
-`livan_s6_pro_ru_9d1df313` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 очищайте
 ветровое
 стекло
@@ -25754,7 +24237,6 @@ Livan
 стекло тщательно очищено.
 
 ### Используйте
-`livan_s6_pro_ru_3ad75d01` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 только
 щетки
 стеклоочистителя, которые совпадают по
@@ -25794,7 +24276,6 @@ Livan
 поднят.
 
 ### Замена
-`livan_s6_pro_ru_1e4b2afa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 щетки
 стеклоочистителя
 переднего
@@ -25813,7 +24294,6 @@ Livan
 необходимо:
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_124171e4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 214
 1. Войти в сервисный режим
 Переключить
@@ -25840,13 +24320,11 @@ Livan
 секунд.
 
 ### Стеклоочиститель
-`livan_s6_pro_ru_85cdab61` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 сдвинется и остановится на ветровом
 стекле. В этом положении его легко
 заменить.
 
 ### Оттяните щетку стеклоочистителя от
-`livan_s6_pro_ru_be481bd2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 ветрового
 стекла,
 нажмите
@@ -25865,13 +24343,11 @@ Livan
 щетку.
 
 ### 3. Установка
-`livan_s6_pro_ru_73993c52` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 щетки
 стеклоочистителя
 производится в обратном порядке.
 
 ### Поверните пусковой переключатель в
-`livan_s6_pro_ru_f08dabef` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 положение
 ON,
 переключите
@@ -25888,7 +24364,6 @@ ON,
 режима.
 
 ### Стеклоочиститель может повредить
-`livan_s6_pro_ru_e354e6b4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 переднее ветровое стекло, если не
 установлена
 щетка.
@@ -25902,7 +24377,6 @@ ON,
 переднему ветровому стеклу.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_0aca5592` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:216 | doc_type:owners_manual
 7
 8
 6
@@ -25919,7 +24393,6 @@ ON,
 автомобиля
 
 ### Частая мойка автомобиля способствует
-`livan_s6_pro_ru_ca1e6c80` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 сохранению
 его
 внешнего
@@ -25932,7 +24405,6 @@ ON,
 выключатель.
 
 ### Процедура
-`livan_s6_pro_ru_73cac3dc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 необходимо
 выполнять в прохладном месте, не под
 прямыми
@@ -25996,7 +24468,6 @@ ON,
 удаления спирта.
 
 ### Чистка
-`livan_s6_pro_ru_9d4726c2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 кузова
 с
 помощью
@@ -26016,7 +24487,6 @@ ON,
 •
 
 ### Обязательно
-`livan_s6_pro_ru_2cd425d2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
 выполняйте
 очистку
 в
@@ -26044,7 +24514,6 @@ ON,
 поверхности.
 
 ### Сохраняйте
-`livan_s6_pro_ru_707429b6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
 сопло
 в
 движении,
@@ -26062,7 +24531,6 @@ ON,
 •
 
 ### Не используйте насадки с множеством
-`livan_s6_pro_ru_38cbfdac` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:217 | doc_type:owners_manual
 отверстий
 для
 очистки
@@ -26123,7 +24591,6 @@ ON,
 изоляционные материалы.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_475f2bd5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 216
 Автоматическая
 мойка
@@ -26149,7 +24616,6 @@ ON,
 •
 
 ### Лакокрасочная
-`livan_s6_pro_ru_65b1a430` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:218 | doc_type:owners_manual
 поверхность
 кузова
 достаточно прочная, чтобы выдержать
@@ -26162,7 +24628,6 @@ ON,
 краску.
 
 ### Степень
-`livan_s6_pro_ru_c797b270` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:218 | doc_type:owners_manual
 воздействия
 в
 основном
@@ -26208,7 +24673,6 @@ ON,
 кузова автомобиля.
 
 ### Регулярная уборка внутри автомобиля
-`livan_s6_pro_ru_18aaf78a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:218 | doc_type:owners_manual
 способствует улучшению обстановки в
 салоне. Пыль и грязь скапливаются на
 обивке,
@@ -26225,7 +24689,6 @@ ON,
 могут быстро затвердеть.
 
 ### Используйте небольшую щетку с мягкой
-`livan_s6_pro_ru_9175597a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:218 | doc_type:owners_manual
 щетиной,
 чтобы
 стряхнуть
@@ -26285,7 +24748,6 @@ ON,
 мягкой ткани и стеклоочиститель.
 
 ### Моющие
-`livan_s6_pro_ru_14e56278` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:218 | doc_type:owners_manual
 средства
 содержат
 растворители,
@@ -26304,7 +24766,6 @@ ON,
 технике безопасности.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_22adca1c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:218 | doc_type:owners_manual
 7
 8
 6
@@ -26323,7 +24784,6 @@ ON,
 достаточную вентиляцию.
 
 ### При чистке салона обратите внимание на
-`livan_s6_pro_ru_514cf4b1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:219 | doc_type:owners_manual
 следующее:
 •
 Не используйте лезвия или другие
@@ -26340,7 +24800,6 @@ ON,
 •
 
 ### Не применяйте силу и не создавайте
-`livan_s6_pro_ru_1d3b2088` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 чрезмерное
 давление
 тряпкой.
@@ -26354,7 +24813,6 @@ ON,
 •
 
 ### Используйте
-`livan_s6_pro_ru_d485c345` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 только
 мягкое,
 нейтральное
@@ -26370,7 +24828,6 @@ ON,
 жир.
 
 ### При использовании слишком большого
-`livan_s6_pro_ru_6375f3bc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:219 | doc_type:owners_manual
 количества
 мыла
 могут
@@ -26396,7 +24853,6 @@ ON,
 Ткань/напольное покрытие
 
 ### Используйте пылесос с мягкой щеткой
-`livan_s6_pro_ru_a0e7bab3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 для удаления пыли и налета. Для стойких
 пятен попробуйте сначала использовать
 воду или воду с содой. Перед чисткой
@@ -26419,7 +24875,6 @@ ON,
 Этапы очистки:
 
 ### 1. Смочите чистую безворсовую белую
-`livan_s6_pro_ru_970efe25` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 тряпку водой или раствором пищевой
 соды.
 2. Отожмите
@@ -26429,7 +24884,6 @@ ON,
 лишнюю воду.
 
 ### 3. При
-`livan_s6_pro_ru_4eaa4768` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 удалении
 пятен
 осторожно
@@ -26437,7 +24891,6 @@ ON,
 на тряпке не перестанет.
 
 ### 4. Если пятно не удается полностью
-`livan_s6_pro_ru_fbde5e23` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 стереть, повторите описанные выше
 действия
 с
@@ -26479,7 +24932,6 @@ ON,
 напольного покрытия.
 
 ### Для удаления пыли можно использовать
-`livan_s6_pro_ru_135d6cfc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 кусок мягкой ткани, смоченный водой.
 Для
 более
@@ -26488,7 +24940,6 @@ ON,
 используйте мягкую ткань, смоченную в
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_5fe2eec7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 218
 слабом мыльном растворе. Дайте коже
 высохнуть
@@ -26499,7 +24950,6 @@ ON,
 для уборки кожаных поверхностей.
 
 ### Никогда
-`livan_s6_pro_ru_d0172973` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:220 | doc_type:owners_manual
 не
 используйте
 чистящие
@@ -26512,7 +24962,6 @@ ON,
 изменить внешний вид обивки салона.
 
 ### Также не используйте средства на основе
-`livan_s6_pro_ru_626908a0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:220 | doc_type:owners_manual
 силикона,
 воска
 или
@@ -26528,7 +24977,6 @@ ON,
 поверхностей.
 
 ### Приборная
-`livan_s6_pro_ru_0f34d30e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:220 | doc_type:owners_manual
 панель
 и
 другие
@@ -26545,7 +24993,6 @@ ON,
 салона.
 
 ### Некоторые
-`livan_s6_pro_ru_2feb5bc8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 имеющиеся
 в
 продаже
@@ -26561,7 +25008,6 @@ ON,
 может серьезно ухудшить видимость.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_779b7167` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 8
 7
 6
@@ -26578,7 +25024,6 @@ ON,
 Пункт
 
 ### Единица
-`livan_s6_pro_ru_6f6f2238` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 измерения
 Автомобиль Livan
 Длина автомобиля
@@ -26586,7 +25031,6 @@ ON,
 4730
 
 ### Ширина автомобиля
-`livan_s6_pro_ru_755ecc3a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 мм
 1818
 Высота автомобиля
@@ -26598,7 +25042,6 @@ ON,
 1562
 
 ### Ширина колеи задних колес
-`livan_s6_pro_ru_fc1ddc35` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 мм
 1569
 Межосевое расстояние
@@ -26614,7 +25057,6 @@ ON,
 знаки, резиновые стопоры, ручки и т. д.
 
 ### Технические данные
-`livan_s6_pro_ru_45c3a013` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 220
 Параметры
 качества
@@ -26624,7 +25066,6 @@ ON,
 измерения
 
 ### Количество пассажиров
-`livan_s6_pro_ru_2585987b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 чел.
 5
 Масса без нагрузки
@@ -26636,7 +25077,6 @@ ON,
 837
 
 ### Масса задней оси без нагрузки
-`livan_s6_pro_ru_f32e75c8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 кг
 513
 Полная масса
@@ -26647,7 +25087,6 @@ ON,
 947
 
 ### Масса задней оси с нагрузкой
-`livan_s6_pro_ru_6a36d1c6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:222 | doc_type:owners_manual
 кг
 798
 Свободный ход педали
@@ -26659,7 +25098,6 @@ ON,
 10-25 мм
 
 ### Технические данные
-`livan_s6_pro_ru_aafb53de` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 8
 7
 6
@@ -26675,7 +25113,6 @@ ON,
 Пункт
 
 ### Единица
-`livan_s6_pro_ru_7cdff67b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:223 | doc_type:owners_manual
 измерения
 BHE15–EFZ
 BHE15–AFZ
@@ -26684,7 +25121,6 @@ BHE15–AFZ
 4 цилиндра в ряд
 
 ### Диаметр цилиндра
-`livan_s6_pro_ru_117708eb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:223 | doc_type:owners_manual
 х такт
 мм
 73,4×88,57
@@ -26696,7 +25132,6 @@ BHE15–AFZ
 11∶1
 
 ### Номинальная
-`livan_s6_pro_ru_a5d59546` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 скорость оборотов
 мощности
 об./мин.
@@ -26709,7 +25144,6 @@ BHE15–AFZ
 108
 
 ### Максимальный
-`livan_s6_pro_ru_c3c86ff9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 крутящий момент
 Нбм
 290
@@ -26722,7 +25156,6 @@ BHE15–AFZ
 2000-3500
 
 ### Скорость оборотов
-`livan_s6_pro_ru_86f81b35` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 при холостом ходе
 об./мин.
 710±50
@@ -26732,7 +25165,6 @@ BHE15–AFZ
 1–3–4–2
 
 ### Технические данные
-`livan_s6_pro_ru_965889fe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 222
 Мощность автомобиля
 Пункт
@@ -26743,7 +25175,6 @@ BHE15–AFZ
 энергопотреблением
 
 ### Версия с
-`livan_s6_pro_ru_1cde2916` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 высокой
 мощностью
 Максималь
@@ -26754,7 +25185,6 @@ BHE15–AFZ
 195
 
 ### Максималь
-`livan_s6_pro_ru_70f94c1b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 ный
 преодолевае
 мый подъём
@@ -26765,7 +25195,6 @@ BHE15–AFZ
 Пункт
 
 ### Единица
-`livan_s6_pro_ru_87ec1772` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 измерения
 Версия с
 низким
@@ -26781,7 +25210,6 @@ BHE15–AFZ
 6,3
 
 ### Уровень выхлопных газов
-`livan_s6_pro_ru_7d75ed15` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 Пункт
 Версия с низким
 энергопотреблением
@@ -26789,7 +25217,6 @@ BHE15–AFZ
 мощностью
 
 ### Уровень
-`livan_s6_pro_ru_f5a4e7f0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 выхлопных
 газов
 Евро-6
@@ -26806,14 +25233,12 @@ BHE15–AFZ
 223
 
 ### Модель шин
-`livan_s6_pro_ru_3f7bd727` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 Пункт
 Модель 1
 Спецификация колесных дисков
 17×6,5J
 
 ### Колесные диски
-`livan_s6_pro_ru_d160e9fa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 Шина
 Величина динамического
 дисбаланса
@@ -26823,7 +25248,6 @@ BHE15–AFZ
 Давление в шине (холодное состояние)
 
 ### Передние колеса
-`livan_s6_pro_ru_833e8b28` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 кПа
 230
 Задние колеса
@@ -26834,7 +25258,6 @@ BHE15–AFZ
 420
 
 ### Технические данные
-`livan_s6_pro_ru_7da363f2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 224
 Масло
 Рекомендуемое масло и объем
@@ -26843,7 +25266,6 @@ BHE15–AFZ
 Объем
 
 ### Бензин
-`livan_s6_pro_ru_f7b59017` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 Пожалуйста, заправляйте топливный бак
 в соответствии с требованиями к
 расходу топлива, указанными на
@@ -26851,14 +25273,12 @@ BHE15–AFZ
 55 л
 
 ### Моторное масло
-`livan_s6_pro_ru_97e02f08` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:226 | doc_type:owners_manual
 Масло SP 0W-20
 4,3 л (сухой тип)
 4,0 л (смешанный
 тип)
 
 ### Жидкость для
-`livan_s6_pro_ru_456d040c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 охлаждения
 двигателя
 Охлаждающая жидкость на основе
@@ -26867,7 +25287,6 @@ Livan
 6,2 л
 
 ### Высокоэффективное гибридное
-`livan_s6_pro_ru_6181cad7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:226 | doc_type:owners_manual
 трансмиссионное масло от Royal Shell
 Dutch
 3,3 л (сухой тип)
@@ -26875,7 +25294,6 @@ Dutch
 тип)
 
 ### Тормозная
-`livan_s6_pro_ru_443bbc4d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:226 | doc_type:owners_manual
 жидкость
 DOT4
 0.76 л
@@ -26885,44 +25303,29 @@ KVWP (-25 ℃)
 3.5±0.1 л
 
 ### Хладагент
-`livan_s6_pro_ru_ca10202d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 кондиционера
 R134a
 500±20 г
 Технические данные
 Указатель
 
-### Внутренний блок
-`livan_s6_pro_ru_a20deb29` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
-
-### Выбор детского защитного
-`livan_s6_pro_ru_54c9285f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 
 ### Информация о системе
-`livan_s6_pro_ru_82fb7f2e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 Информация о
 трехкомпонентном
 каталитическом нейтрализаторе
 отработавших газов двигателя
 
-### Проверка охлаждающей
-`livan_s6_pro_ru_1d4e430b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
 
 ### Сигнальные и индикаторные
-`livan_s6_pro_ru_88fcdb08` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
 Система вызова экстренных
 оперативных служб (ЭРА-
 
 ### Установка детских средств
-`livan_s6_pro_ru_4ae71ea9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
 Установка запасного колеса ........ 175
 
 
-# Manual: livan/s6_pro (1605 chunks)
-<!-- doc_type:owners_manual tier:2 lang:ru -->
-
 ### Предисловие
-`livan_s6_pro_ru_f3d0aa65` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 Уважаемый пользователь!
 Спасибо Вам за доверие, оказанное компании LIVAN, и за выбор автомобиля
 марки LIVAN, который обеспечит вам отличные характеристики в области безопасности,
@@ -26946,7 +25349,6 @@ R134a
 особенностями
 
 ### Вашего
-`livan_s6_pro_ru_1bdba5ae` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 автомобиля,
 тем
 больше
@@ -26966,14 +25368,12 @@ R134a
 настоящего Руководства.
 
 ### Руководство содержит
-`livan_s6_pro_ru_76aa2620` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 информацию,
 актуальную на
 момент его
 опубликования.
 
 ### Вследствие
-`livan_s6_pro_ru_acaff1d2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 большого
 разнообразия
 комплектаций
@@ -26996,7 +25396,6 @@ R134a
 данное
 
 ### Руководство
-`livan_s6_pro_ru_72773a47` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:1 | doc_type:owners_manual
 новому
 владельцу.
 Вся
@@ -27011,7 +25410,6 @@ R134a
 ООО «Ливэн Моторс Русе
 
 ### Октябрь
-`livan_s6_pro_ru_7caebd51` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:2 | doc_type:owners_manual
 2023 года
 Авторские права защищены. Без письменного разрешения компании ООО «Ливэн
 Моторс Русе настоящее руководство не может быть воспроизведено или скопировано
@@ -27030,7 +25428,6 @@ R134a
 1
 
 ### Руководство по
-`livan_s6_pro_ru_69592d34` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:3 | doc_type:owners_manual
 эксплуатации
 автомобиля:
 идентификация
@@ -27050,7 +25447,6 @@ R134a
 12 Табличка изготовителя
 
 ### Система контроля и
-`livan_s6_pro_ru_36c66ecb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:3 | doc_type:owners_manual
 управления
 13 Устройства системы контроля и
 управления
@@ -27109,7 +25505,6 @@ R134a
 58 Багажник
 
 ### Система
-`livan_s6_pro_ru_ed33f966` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:4 | doc_type:owners_manual
 кондиционирования
 воздуха
 59 Отопление, вентиляция и
@@ -27126,7 +25521,6 @@ R134a
 70 Система очистки воздуха
 
 ### Сиденья и устройства
-`livan_s6_pro_ru_7291e180` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:4 | doc_type:owners_manual
 защиты
 73 Сиденья
 73 Передние сидения
@@ -27173,7 +25567,6 @@ R134a
 защиты
 
 ### Запуск двигателя и
-`livan_s6_pro_ru_f85dc919` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:5 | doc_type:owners_manual
 вождение
 111 Ключ
 111 Смарт-ключ
@@ -27227,7 +25620,6 @@ R134a
 145 Антиблокировочная система
 
 ### (ABS)
-`livan_s6_pro_ru_b0e7e59b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:5 | doc_type:owners_manual
 146 Электронная система
 контроля устойчивости (ESC)
 146 Усилитель торможения (HBA)
@@ -27236,7 +25628,6 @@ R134a
 147 Антипробуксовочная система
 
 ### (TCS)
-`livan_s6_pro_ru_306bdcec` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:5 | doc_type:owners_manual
 149 Система помощи при парковке
 4
 149 Система парковочных
@@ -27251,7 +25642,6 @@ R134a
 слепых зон (BSD)
 
 ### Неисправности во время
-`livan_s6_pro_ru_ab13245a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:6 | doc_type:owners_manual
 вождения
 161 Устройства предупреждения
 об опасности
@@ -27290,12 +25680,10 @@ R134a
 оперативных служб (ЭРА-
 
 ### ГЛОНАСС)*
-`livan_s6_pro_ru_cde338ed` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:6 | doc_type:owners_manual
 192 Остановка двигателя
 192 Если автомобиль застрял
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_1c0acb1e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:6 | doc_type:owners_manual
 193 Регулярное техническое
 обслуживание
 197 Моторный отсек
@@ -27329,14 +25717,12 @@ R134a
 208 Электроусилитель руля
 
 ### (EPS)
-`livan_s6_pro_ru_e1193395` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:7 | doc_type:owners_manual
 209 Передняя комбинированная
 фара
 209 Запотевание передних
 комбинированных фар
 
 ### 210 АКБ
-`livan_s6_pro_ru_7e8aa088` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:7 | doc_type:owners_manual
 210 Обслуживание АКБ
 211 Проверка АКБ
 211 Замена АКБ
@@ -27352,7 +25738,6 @@ R134a
 216 Очистка салона
 
 ### Технические данные
-`livan_s6_pro_ru_29c36b57` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:7 | doc_type:owners_manual
 219 Основные параметры
 автомобиля
 219 Основные массогабаритные
@@ -27380,7 +25765,6 @@ R134a
 7
 
 ### Руководство
-`livan_s6_pro_ru_89172369` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:9 | doc_type:owners_manual
 по
 эксплуатации
 Предостережение
@@ -27391,7 +25775,6 @@ R134a
 антиблокировочной системой (ABS).
 
 ### В случае экстренного торможения с
-`livan_s6_pro_ru_22c88fa0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:9 | doc_type:owners_manual
 усилием зажмите педаль тормоза до
 полной
 остановки
@@ -27399,7 +25782,6 @@ R134a
 порывистое нажатие не допускается.
 
 ### 2. В
-`livan_s6_pro_ru_1c31b779` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 соответствии
 с
 рекомендациями
@@ -27409,7 +25791,6 @@ R134a
 шин и давления в колесах.
 
 ### 3. Используйте
-`livan_s6_pro_ru_7bd85bdb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 масла
 и
 жидкости,
@@ -27427,7 +25808,6 @@ R134a
 Руководством.
 
 ### 4. В целях безопасности вождения не
-`livan_s6_pro_ru_a0bd11f6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 снимайте
 детали
 и
@@ -27445,7 +25825,6 @@ R134a
 автомобиля.
 
 ### 6. Не
-`livan_s6_pro_ru_55545fcc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 находитесь
 долгое
 время
@@ -27462,7 +25841,6 @@ R134a
 Вашем здоровье.
 
 ### 7. Не
-`livan_s6_pro_ru_9c80c518` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 отдыхайте
 и
 не
@@ -27474,7 +25852,6 @@ R134a
 двигателе.
 
 ### Избегайте
-`livan_s6_pro_ru_ad568c8b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 продолжительной работы двигателя
 на
 холостом
@@ -27497,7 +25874,6 @@ R134a
 опасность Вашей жизни и имуществу.
 
 ### 8. Запрещено
-`livan_s6_pro_ru_edbeda02` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 переоборудование
 или
 установка
@@ -27505,7 +25881,6 @@ R134a
 оборудования.
 
 ### Переоборудование
-`livan_s6_pro_ru_71cd49d6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 или
 установка
 дополнительного
@@ -27522,7 +25897,6 @@ R134a
 нести ответственности.
 
 ### 9. Не
-`livan_s6_pro_ru_377a46d7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:9 | doc_type:owners_manual
 следует
 устанавливать
 устройства, которые могут привести к
@@ -27530,7 +25904,6 @@ R134a
 другого электрооборудования.
 
 ### 10. При
-`livan_s6_pro_ru_026d09c7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 установлении
 дополнительных
 устройств нельзя создавать помех в
@@ -27542,7 +25915,6 @@ R134a
 меры по их устранению.
 
 ### 11. «Инструкция
-`livan_s6_pro_ru_cfaefb15` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:9 | doc_type:owners_manual
 по
 эксплуатации
 мультимедиае, предназначенная для
@@ -27560,42 +25932,36 @@ R134a
 Руководство по эксплуатации автомобиля:идентификация моделей
 8
 
-### Предупреждение
-`livan_s6_pro_ru_42bb95b1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
-Указывает на то, что игнорирование
-данного
-предупреждения
-может
-привести
-к
-серьезным
-травмам
-и
-летальному
-исходу.
+> ⚠️ **Внимание:** Указывает на то, что игнорирование
+> данного
+> предупреждения
+> может
+> привести
+> к
+> серьезным
+> травмам
+> и
+> летальному
+> исходу.
 
 ### Указанные
-`livan_s6_pro_ru_b890967a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 процедуры
 или
 требования
 должны
 строго соблюдаться.
 
-### Внимание
-`livan_s6_pro_ru_1f4ce17e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
-Указывает на то, что несоблюдение
-изложенных
-процедур
-или
-требований
-может
-привести
-к
-повреждению автомобиля.
+> ⚠️ **Внимание:** Указывает на то, что несоблюдение
+> изложенных
+> процедур
+> или
+> требований
+> может
+> привести
+> к
+> повреждению автомобиля.
 
 ### Указывает на данные для лучшего
-`livan_s6_pro_ru_8e4cc608` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 пользования автомобилем.
 Защита окружающей среды
 Указывает
@@ -27608,7 +25974,6 @@ R134a
 окружающей среды.
 
 ### Астериск
-`livan_s6_pro_ru_b0714e9b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 Типографский знак «*еуказывает на то,
 что
 перечисленное
@@ -27621,7 +25986,6 @@ R134a
 определенных моделей автомобиля, и
 
 ### Ваш автомобиль необязательно может
-`livan_s6_pro_ru_7c76808d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 быть ими обеспечен.
 Данные
 о
@@ -27630,13 +25994,11 @@ R134a
 Описание указанного объекта.
 
 ### Направление движения
-`livan_s6_pro_ru_5826a8fa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 указанного объекта.
 Направление вращения
 указанного объекта.
 
 ### Указывает на запрещение такого
-`livan_s6_pro_ru_baa796da` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 действия или возникновения
 такой ситуации.
 Руководство по эксплуатации автомобиля:идентификация моделей
@@ -27651,7 +26013,6 @@ R134a
 9
 
 ### Идентификация
-`livan_s6_pro_ru_75047b7e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 моделей
 автомобиля
 Идентификатор автомобиля
@@ -27677,7 +26038,6 @@ R134a
 коробки передач.
 
 ### 3. Идентификационный
-`livan_s6_pro_ru_9981dc8b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 номер
 транспортного средства (VIN)
 Расположение
@@ -27685,7 +26045,6 @@ R134a
 автомобиля
 
 ### Расположение
-`livan_s6_pro_ru_106c57d3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:11 | doc_type:owners_manual
 номера
 двигателя
 Номер нанесен на блок двигателя, рядом
@@ -27715,7 +26074,6 @@ R134a
 10
 
 ### Расположение
-`livan_s6_pro_ru_b125bb21` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 идентификационного
 кода
 автомобиля (VIN код)
@@ -27725,7 +26083,6 @@ R134a
 виден через него.
 
 ### На перекладине нижней части правого
-`livan_s6_pro_ru_ef7cb4a8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:12 | doc_type:owners_manual
 переднего
 сиденья
 также
@@ -27755,7 +26112,6 @@ R134a
 (код
 
 ### VIN).
-`livan_s6_pro_ru_47c0f86f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 Если
 нанесенный идентификационный код VIN
 на
@@ -27769,7 +26125,6 @@ R134a
 технического обслуживания LIVAN.
 
 ### Идентификационный код автомобиля на
-`livan_s6_pro_ru_738130d9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 табличке изготовителя:
 Идентификационный
 код
@@ -27777,7 +26132,6 @@ R134a
 (код
 
 ### VIN)
-`livan_s6_pro_ru_05fae941` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:12 | doc_type:owners_manual
 состоит
 из
 17
@@ -27803,7 +26157,6 @@ R134a
 11
 
 ### Считывание
-`livan_s6_pro_ru_c7ff8579` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 идентификационного
 кода
 Код
@@ -27819,7 +26172,6 @@ R134a
 Этапы проведения считывания:
 
 ### 1. Перевести
-`livan_s6_pro_ru_5abbdaac` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 зажигание
 в
 положение
@@ -27827,7 +26179,6 @@ OFF;
 2. Подключить устройство диагностики
 
 ### 3. Включить
-`livan_s6_pro_ru_b674dafe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 программу
 диагностики,
 завести
@@ -27837,7 +26188,6 @@ OFF;
 «разрешить подключениее;
 
 ### 4. Автоматическое
-`livan_s6_pro_ru_e31e32f7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 считывание
 кода
 VIN.
@@ -27848,14 +26198,12 @@ VIN.
 технического обслуживания автомобилей
 
 ### Микроволновое
-`livan_s6_pro_ru_33f8c70c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 окно
 автомобиля
 располагается в центре лобового стекла,
 перпендикулярно, примыкая к нему.
 
 ### Электронное лого автомобиля должно
-`livan_s6_pro_ru_2284c37c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:13 | doc_type:owners_manual
 располагаться справа от микроволнового
 окна.
 Оно
@@ -27868,7 +26216,6 @@ VIN.
 заднего вида, кронштейном датчика и пр.
 
 ### В
-`livan_s6_pro_ru_195af796` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 данном
 лого
 хранится
@@ -27878,7 +26225,6 @@ VIN.
 автомобиле.
 
 ### Сохраняйте лобовое стекло чистым
-`livan_s6_pro_ru_d45859c9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:13 | doc_type:owners_manual
 и
 сухим.
 Не
@@ -27908,7 +26254,6 @@ VIN.
 12
 
 ### Табличка изготовителя располагается в
-`livan_s6_pro_ru_6baf6691` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 нижней части центральной стойки справа
 и включает следующие данные:
 •
@@ -27921,7 +26266,6 @@ VIN.
 •
 
 ### Знак обращения на рынке
-`livan_s6_pro_ru_e115f80f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 •
 Идентификационный
 номер
@@ -27931,7 +26275,6 @@ VIN.
 •
 
 ### Предельный
-`livan_s6_pro_ru_f10cb8aa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 вес
 буксируемого
 прицепа
@@ -27941,7 +26284,6 @@ VIN.
 •
 
 ### Максимальная допустимая масса на
-`livan_s6_pro_ru_ba9f7153` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 заднюю ось
 •
 Страна производитель
@@ -27957,13 +26299,11 @@ VIN.
 13
 
 ### Устройства
-`livan_s6_pro_ru_f0e57f2f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 системы
 контроля и управления
 Обзор стороны водителя
 
 ### Система контроля и управления
-`livan_s6_pro_ru_5c08723e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:15 | doc_type:owners_manual
 14
 1.
 Внутренняя дверная ручка
@@ -27977,7 +26317,6 @@ VIN.
 10.
 
 ### Педаль тормоза
-`livan_s6_pro_ru_07bd320c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:16 | doc_type:owners_manual
 3.
 Комбинированный
 выключатель
@@ -27990,7 +26329,6 @@ VIN.
 4.
 
 ### Кнопка в левой части руля
-`livan_s6_pro_ru_ffd0ae86` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:16 | doc_type:owners_manual
 12.
 Ручка открывания капота
 5.
@@ -27998,7 +26336,6 @@ VIN.
 13.
 
 ### Управление приборной панелью
-`livan_s6_pro_ru_89e3b2b1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:16 | doc_type:owners_manual
 6.
 Приборная панель
 14.
@@ -28008,7 +26345,6 @@ VIN.
 7.
 
 ### Кнопка в правой части руля
-`livan_s6_pro_ru_cb1e5fab` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:16 | doc_type:owners_manual
 15.
 Переключатель
 управления
@@ -28018,7 +26354,6 @@ VIN.
 стеклоочистителей
 
 ### Система контроля и управления
-`livan_s6_pro_ru_b31d63b5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:16 | doc_type:owners_manual
 2
 8
 7
@@ -28035,7 +26370,6 @@ VIN.
 2.
 
 ### Дисплей
-`livan_s6_pro_ru_69fbf066` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:17 | doc_type:owners_manual
 8.
 Переключатель
 управления
@@ -28047,7 +26381,6 @@ VIN.
 3.
 
 ### Центральный дефлектор системы
-`livan_s6_pro_ru_308f3992` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:17 | doc_type:owners_manual
 вентиляции и отопления
 9.
 Перчаточный ящик
@@ -28058,7 +26391,6 @@ VIN.
 10.
 
 ### Кнопка
-`livan_s6_pro_ru_bc2cb597` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:17 | doc_type:owners_manual
 открытия
 перчаточного
 ящика
@@ -28070,7 +26402,6 @@ VIN.
 11.
 
 ### Рычаг переключения передач
-`livan_s6_pro_ru_a995d34e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:17 | doc_type:owners_manual
 6.
 Отверстие для обогрева стекла
 справа
@@ -28080,7 +26411,6 @@ VIN.
 тормоза
 
 ### Система контроля и управления
-`livan_s6_pro_ru_9a4bb841` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 16
 Приборная панель
 Описание приборной панели
@@ -28089,7 +26419,6 @@ VIN.
 3.
 
 ### Указатель
-`livan_s6_pro_ru_1c003077` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:18 | doc_type:owners_manual
 температуры
 охлаждающей жидкости
 2.
@@ -28098,14 +26427,12 @@ VIN.
 Указатель уровня топлива
 
 ### Режим отображения приборной панели можно установить вручную на экране
-`livan_s6_pro_ru_11ed4fe4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:18 | doc_type:owners_manual
 дисплея.
 Изображение приборной панели является схематическим и приведено только для
 ознакомления. Для реального примера ознакомьтесь с приборной панелью
 автомобиля.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_827b5530` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:18 | doc_type:owners_manual
 2
 8
 7
@@ -28121,7 +26448,6 @@ VIN.
 охлаждающей жидкости
 
 ### ON
-`livan_s6_pro_ru_fc641a87` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 указатель
 температуры
 воды
@@ -28130,7 +26456,6 @@ VIN.
 двигателя.
 
 ### Температура
-`livan_s6_pro_ru_de1235e6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:19 | doc_type:owners_manual
 жидкости
 для
 охлаждения
@@ -28143,7 +26468,6 @@ VIN.
 нагрузки на двигатель.
 
 ### Максимальный
-`livan_s6_pro_ru_02182818` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 предел
 температуры
 охлаждающей
@@ -28154,7 +26478,6 @@ H,
 -
 
 ### С.
-`livan_s6_pro_ru_16f10e35` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:19 | doc_type:owners_manual
 Если
 загорается
 индикатор
@@ -28172,7 +26495,6 @@ H,
 обслуживания
 
 ### LIVAN
-`livan_s6_pro_ru_1630f173` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:19 | doc_type:owners_manual
 для
 проведения
 проверки.
@@ -28199,7 +26521,6 @@ H,
 •
 
 ### Резкое
-`livan_s6_pro_ru_1d38fdee` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 снижение
 скорости
 или
@@ -28213,7 +26534,6 @@ H,
 работе двигателя в холостом режиме.
 
 ### Тахометр
-`livan_s6_pro_ru_047c7c47` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 показывает
 число
 оборотов
@@ -28230,7 +26550,6 @@ H,
 топлива.
 
 ### В
-`livan_s6_pro_ru_3fd262d3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 большинстве
 случаев
 при
@@ -28257,7 +26576,6 @@ H,
 серьезному повреждению двигателя.
 
 ### Спидометр отображает текущую скорость
-`livan_s6_pro_ru_a01f1fee` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 автомобиля
 в
 км/ч,
@@ -28265,7 +26583,6 @@ H,
 отображаемое значение 240 км/ч.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_a90a7633` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 18
 При
 хорошем
@@ -28286,7 +26603,6 @@ H,
 120 км/ч
 
 ### Оповещение
-`livan_s6_pro_ru_9c45b042` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 о
 превышении
 скорости
@@ -28301,7 +26617,6 @@ H,
 водителя.
 
 ### Оповещение
-`livan_s6_pro_ru_9c45b042` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 напоминает водителю о необходимости
 снизить
 скорость
@@ -28311,7 +26626,6 @@ H,
 для сигнала о превышении скорости: 30240 км/ч.
 
 ### Указатель уровня топлива
-`livan_s6_pro_ru_407b9abb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 Когда
 замок
 зажигания
@@ -28377,7 +26691,6 @@ H,
 обслуживания
 
 ### LIVAN
-`livan_s6_pro_ru_0adb0df0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 для
 проведения
 проверки.
@@ -28400,21 +26713,18 @@ H,
 Возможная дистанция:
 
 ### Возможная
-`livan_s6_pro_ru_9e929fa4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 дистанция
 указывает
 количество километров, которое можно
 проехать при текущем уровне топлива.
 
 ### Система
-`livan_s6_pro_ru_a6cb7068` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 рассчитывает
 дистанцию
 каждую секунду, интерфейс обновляется
 каждые 10 секунд.
 
 ### Значение
-`livan_s6_pro_ru_352717fe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 возможной
 дистанции
 рассчитывается
@@ -28448,7 +26758,6 @@ H,
 дистанция будет сбрасываться.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_af5fe98f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:20 | doc_type:owners_manual
 2
 8
 7
@@ -28462,7 +26771,6 @@ H,
 Описание дисплея
 
 ### 1. Область отображения часов
-`livan_s6_pro_ru_a53e3233` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 •
 Часы:
 по
@@ -28483,7 +26791,6 @@ H,
 2.
 
 ### Область
-`livan_s6_pro_ru_cc1dde5f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 отображения
 температуры снаружи машины
 •
@@ -28492,7 +26799,6 @@ H,
 отображаемый диапазон -40°С~60°С.
 
 ### 3. Область отображения передачи
-`livan_s6_pro_ru_b068af3d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:21 | doc_type:owners_manual
 •
 Текущее
 положение
@@ -28507,7 +26813,6 @@ H,
 передачи: P, R, N, D.
 
 ### 4. Область отображения меню
-`livan_s6_pro_ru_6a84a48e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 •
 Отображается
 мгновенный
@@ -28524,7 +26829,6 @@ Trip
 шинах,
 
 ### Settings
-`livan_s6_pro_ru_2779c2d2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 (настройки
 автомобиля)
 и
@@ -28534,7 +26838,6 @@ Trip
 5.
 
 ### Область
-`livan_s6_pro_ru_cc1dde5f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:21 | doc_type:owners_manual
 отображения
 информации о текущих функциях
 •
@@ -28543,7 +26846,6 @@ Trip
 информации.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_ddc63b0e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:21 | doc_type:owners_manual
 20
 Настройка дисплея
 Не
@@ -28564,7 +26866,6 @@ Trip
 руле.
 
 ### 1. Кнопка
-`livan_s6_pro_ru_049508e6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:22 | doc_type:owners_manual
 главной
 страницы:
 коротко
@@ -28578,7 +26879,6 @@ Trip
 .
 
 ### 2. Кнопка
-`livan_s6_pro_ru_791db417` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 выбора/подтверждения:
 кратковременно нажмите эту кнопку,
 чтобы
@@ -28618,7 +26918,6 @@ Trip
 времени.
 
 ### 3. Правая
-`livan_s6_pro_ru_9f066f89` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 кнопка
 выбора:
 коротко
@@ -28627,7 +26926,6 @@ Trip
 приборной панели.
 
 ### 4. Кнопка
-`livan_s6_pro_ru_ea8bb688` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:22 | doc_type:owners_manual
 переключения:
 коротко
 нажмите
@@ -28644,7 +26942,6 @@ Trip
 панелью и экраном.
 
 ### 5. Левая
-`livan_s6_pro_ru_10f798b7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 кнопка
 выбора:
 коротко
@@ -28653,7 +26950,6 @@ Trip
 приборной панели.
 
 ### Подсказки
-`livan_s6_pro_ru_2e5f94e9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:22 | doc_type:owners_manual
 и
 оповещения
 на
@@ -28691,7 +26987,6 @@ Trip
 оповещений в меню приборной панели.
 
 ### Оповещение
-`livan_s6_pro_ru_86c5f854` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 исчезнет
 только
 после
@@ -28708,7 +27003,6 @@ Trip
 21
 
 ### Водитель
-`livan_s6_pro_ru_c2ae4ebd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 должен
 серьезно
 относиться ко всем оповещениям.
@@ -28728,7 +27022,6 @@ Trip
 повреждению автомобиля или травмам.
 
 ### Настройки
-`livan_s6_pro_ru_ff27e205` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 интерфейса
 бортового компьютера
 После
@@ -28739,7 +27032,6 @@ Trip
 зафиксированные данные.
 
 ### В интерфейсе промежуточного общего
-`livan_s6_pro_ru_2cce57bb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 пробега или текущего пробега бортового
 компьютера
 нажмите
@@ -28748,7 +27040,6 @@ Trip
 кнопку
 
 ### TRIP
-`livan_s6_pro_ru_c872fe6d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 в
 левом
 краю
@@ -28758,7 +27049,6 @@ Trip
 бортовом компьютере.
 
 ### Компьютерная информация о
-`livan_s6_pro_ru_4a25db18` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 трафике
 Мнгновенный расход топлива
 При эксплуатации автомобиля частота
@@ -28782,7 +27072,6 @@ Trip
 →
 
 ### Настройка
-`livan_s6_pro_ru_7a40be73` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 единиц
 измерения. В этом интерфейсе единицу
 измерения
@@ -28793,7 +27082,6 @@ Trip
 галлон
 
 ### (США)
-`livan_s6_pro_ru_4621e565` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 или
 миля
 на
@@ -28809,7 +27097,6 @@ Trip
 расхода топлива.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_a9a0df8d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 22
 Short Trip (короткая поездка)
 Если с момента последнего выключения
@@ -28828,7 +27115,6 @@ Short Trip (короткая поездка)
 Trip (короткая поездка), следующие:
 
 ### 1. Trip (поездка): промежуточный пробег
-`livan_s6_pro_ru_c7b3cafb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 Short
 Trip
 (короткой
@@ -28852,7 +27138,6 @@ Trip
 «кме и «миляе в настройках меню.
 
 ### 2. Расход времени
-`livan_s6_pro_ru_2871135a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:24 | doc_type:owners_manual
 : после проверки
 на запуск двигателя начинается учет
 времени вождения в коротком цикле.
@@ -28877,7 +27162,6 @@ Trip
 времени.
 
 ### Максимальное отображаемое время
-`livan_s6_pro_ru_013b3ede` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 вождения составляет 999:59 часов.
 3. Avg: средний расход топлива в Short
 Trip (короткой поездке) по умолчанию
@@ -28918,7 +27202,6 @@ Trip (короткой поездке) по умолчанию
 расчета.
 
 ### Количество впрыскиваемого топлива
-`livan_s6_pro_ru_2ae999c0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 на холостом ходу накапливается до
 момента
 однократного
@@ -28926,7 +27209,6 @@ Trip (короткой поездке) по умолчанию
 топлива.
 
 ### Единицу
-`livan_s6_pro_ru_b9bd9544` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 расхода
 топлива
 можно
@@ -28935,7 +27217,6 @@ Trip (короткой поездке) по умолчанию
 галлон (Великобритания).
 
 ### 4. Средняя скорость
-`livan_s6_pro_ru_b57a4093` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 : рассчитывается
 средняя скорость короткой поездки
 после
@@ -28947,14 +27228,12 @@ Trip (короткой поездке) по умолчанию
 автомобиль стоит.
 
 ### Единицу
-`livan_s6_pro_ru_b9bd9544` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 измерения
 можно
 переключать между км/ч и милями в
 час через меню.
 
 ### Использование различных стилей
-`livan_s6_pro_ru_fd224349` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:24 | doc_type:owners_manual
 вождения
 приводит
 к
@@ -28994,7 +27273,6 @@ Long Trip (долгая поездка) отображает
 Trip (долгая поездка), следующие:
 
 ### 1. Trip
-`livan_s6_pro_ru_712d36e7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 (поездка):
 этот
 интерфейс
@@ -29023,7 +27301,6 @@ Trip (долгая поездка), следующие:
 настройках меню.
 
 ### 2. Расход времени
-`livan_s6_pro_ru_2cc81b51` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:25 | doc_type:owners_manual
 : после проверки
 на запуск двигателя начинается учет
 времени вождения в Long Trip (долгая
@@ -29043,7 +27320,6 @@ Trip (долгая поездка), следующие:
 начала.
 
 ### Максимальное отображаемое время
-`livan_s6_pro_ru_3e431d48` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 вождения составляет 999:59 часов.
 3. Avg: средний расход топлива в Long
 Trip (долгая поездка) по умолчанию
@@ -29099,7 +27375,6 @@ Trip (долгая поездка) по умолчанию
 расход топлива.
 
 ### После каждого включения зажигания
-`livan_s6_pro_ru_8aa1805a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 для отображения среднего расхода
 топлива
 используются
@@ -29108,7 +27383,6 @@ Trip (долгая поездка) по умолчанию
 последней поездки.
 
 ### 4. Средняя скорость
-`livan_s6_pro_ru_89e61767` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 : после запуска
 двигателя
 рассчитывается
@@ -29116,13 +27390,11 @@ Trip (долгая поездка) по умолчанию
 скорость Long Trip (долгая поездка).
 
 ### Система контроля и управления
-`livan_s6_pro_ru_e7f38197` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:25 | doc_type:owners_manual
 24
 Когда двигатель останавливается или
 глохнет, расчет приостанавливается.
 
 ### Использование различных стилей
-`livan_s6_pro_ru_baf07f18` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:26 | doc_type:owners_manual
 вождения
 приводит
 к
@@ -29145,7 +27417,6 @@ Trip (долгая поездка) по умолчанию
 «Запуск двигателя и вождениее.
 
 ### Давление
-`livan_s6_pro_ru_a693abea` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:26 | doc_type:owners_manual
 и
 температура
 шин
@@ -29165,7 +27436,6 @@ Settings (настройки автомобиля)] →[Unit
 (блок)].
 
 ### В
-`livan_s6_pro_ru_d7f0653b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 этом
 интерфейсе
 единица
@@ -29183,41 +27453,38 @@ Settings (настройки автомобиля)] →[Unit
 С или °F.
 •
 
-### Предупреждение
-`livan_s6_pro_ru_a5b3c6f1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:26 | doc_type:owners_manual
-о
-высокой
-температуре шин, утечке воздуха из
-них и
-низком заряде аккумулятора
-датчика
-При
-срабатывании
-оповещения
-о
-высокой
-температуре
-шины,
-утечке
-воздуха из шины и низком заряде
-аккумулятора
-датчика
-соответствующий
-световой
-сигнал
-начнет
-мигать
-в
-сопровождении
-звукового,
-в
-интерфейсе
-появятся
-текстовые подсказки.
-•
+> ⚠️ **Внимание:** о
+> высокой
+> температуре шин, утечке воздуха из
+> них и
+> низком заряде аккумулятора
+> датчика
+> При
+> срабатывании
+> оповещения
+> о
+> высокой
+> температуре
+> шины,
+> утечке
+> воздуха из шины и низком заряде
+> аккумулятора
+> датчика
+> соответствующий
+> световой
+> сигнал
+> начнет
+> мигать
+> в
+> сопровождении
+> звукового,
+> в
+> интерфейсе
+> появятся
+> текстовые подсказки.
+> •
 
 ### Оповещение
-`livan_s6_pro_ru_1bb504b6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:26 | doc_type:owners_manual
 о
 низком
 давлении
@@ -29245,7 +27512,6 @@ Settings (настройки автомобиля)] →[Unit
 звуковым.
 
 ### В
-`livan_s6_pro_ru_d7f0653b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 некоторых
 моделях
 автомобилей
@@ -29269,7 +27535,6 @@ Settings (настройки автомобиля)] →[Unit
 •
 
 ### Оповещение
-`livan_s6_pro_ru_1bb504b6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:26 | doc_type:owners_manual
 о
 неисправности
 системы
@@ -29290,7 +27555,6 @@ Settings (настройки автомобиля)] →[Unit
 ситуации, сопровождаемой звуковым
 
 ### Система контроля и управления
-`livan_s6_pro_ru_f97f2b94` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 2
 8
 7
@@ -29336,7 +27600,6 @@ Settings (настройки автомобиля)] →[Unit
 проведения диагностики!
 
 ### Лампы не выключены
-`livan_s6_pro_ru_1b3583ee` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:27 | doc_type:owners_manual
 Когда
 пусковой
 переключатель
@@ -29358,7 +27621,6 @@ Settings (настройки автомобиля)] →[Unit
 аккумулятора.
 
 ### При выходе из машины выключайте
-`livan_s6_pro_ru_724d3587` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:27 | doc_type:owners_manual
 все
 фары,
 чтобы
@@ -29369,7 +27631,6 @@ Settings (настройки автомобиля)] →[Unit
 невозможномсти запуска двигателя.
 
 ### Уведомление
-`livan_s6_pro_ru_b1320076` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:27 | doc_type:owners_manual
 о
 не
 закрытой
@@ -29391,7 +27652,6 @@ Settings (настройки автомобиля)] →[Unit
 время движения автомобиля.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_120e5098` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:27 | doc_type:owners_manual
 26
 Информация меню
 Меню первого
@@ -29400,7 +27660,6 @@ Settings (настройки автомобиля)] →[Unit
 уровня
 
 ### Меню третьего
-`livan_s6_pro_ru_83f57af2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 уровня
 Меню четвертого
 уровня
@@ -29418,7 +27677,6 @@ Binding (Привязка
 □Sport (Спорт)
 
 ### Overspeed
-`livan_s6_pro_ru_165a151b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 warning
 (Предупрежде
 ние о
@@ -29434,14 +27692,12 @@ warning
 □Off (Выключить)
 
 ### Громкость
-`livan_s6_pro_ru_ef5ac9f7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 оповещений
 □High (Высокая)
 □Middle (Средняя)
 □Low (Низкая)
 
 ### Service Info
-`livan_s6_pro_ru_ddfc7d18` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 (сервисная
 информация)
 10000 км или 360
@@ -29455,7 +27711,6 @@ warning
 Language (язык)
 
 ### English
-`livan_s6_pro_ru_f2318ab4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 (английский)
 Russian (русский)
 Spanish
@@ -29463,7 +27718,6 @@ Spanish
 Arabic (арабский)
 
 ### Система контроля и управления
-`livan_s6_pro_ru_9041148c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 2
 8
 7
@@ -29479,7 +27733,6 @@ Arabic (арабский)
 уровня
 
 ### Меню третьего
-`livan_s6_pro_ru_1e093101` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 уровня
 Меню четвертого
 уровня
@@ -29501,7 +27754,6 @@ Unit (Единицы)
 (Температура)
 
 ### □°F
-`livan_s6_pro_ru_5cdb1222` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 □Pressure
 (Давление)
 □фунт на квадратный
@@ -29520,13 +27772,11 @@ Unit (Единицы)
 □миль, миль на галлон
 
 ### (США)
-`livan_s6_pro_ru_7c5f0161` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 □миль, миль на галлон
 (Великобритания)
 Настройки меню
 
 ### Коротко нажмите кнопку меню на правой
-`livan_s6_pro_ru_d7c7a3a2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 стороне руля,
 а затем нажмите кнопку
 выбора/подтверждения,
@@ -29537,7 +27787,6 @@ Unit (Единицы)
 управлять приборной панелью.
 
 ### 1. Переключение меню
-`livan_s6_pro_ru_ffaba210` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 •
 После открытия меню приборной
 панели переключите отображение
@@ -29547,7 +27796,6 @@ Unit (Единицы)
 кнопке руля.
 
 ### 2. Выбор меню
-`livan_s6_pro_ru_2e93008b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:29 | doc_type:owners_manual
 •
 После
 активации
@@ -29557,7 +27805,6 @@ Unit (Единицы)
 кнопку
 
 ### Система контроля и управления
-`livan_s6_pro_ru_baf97cc2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:29 | doc_type:owners_manual
 28
 выбора/подтверждения на правой
 стороне руля вверх/вниз, чтобы
@@ -29571,7 +27818,6 @@ Unit (Единицы)
 установить функцию.
 
 ### 3. Состояние выбора
-`livan_s6_pro_ru_b3321d24` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 •
 Когда
 пункт
@@ -29582,7 +27828,6 @@ Unit (Единицы)
 •
 
 ### Нажмите
-`livan_s6_pro_ru_d17cbc6a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 кнопку
 выбора/
 подтверждения,
@@ -29613,7 +27858,6 @@ Unit (Единицы)
 автоматически закроется.
 
 ### Что необходимо знать о настройках
-`livan_s6_pro_ru_b425427d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 меню
 •
 После входа в интерфейс меню строка
@@ -29621,7 +27865,6 @@ Unit (Единицы)
 •
 
 ### Если пунктов меню слишком много и
-`livan_s6_pro_ru_dc1da917` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:30 | doc_type:owners_manual
 они
 не
 помещаются
@@ -29655,7 +27898,6 @@ Unit (Единицы)
 •
 
 ### Происходит переход от меню более
-`livan_s6_pro_ru_d4333fb2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 верхнего
 уровня
 к
@@ -29670,7 +27912,6 @@ Unit (Единицы)
 закроется.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_53f3439e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 2
 8
 7
@@ -29689,7 +27930,6 @@ Unit (Единицы)
 индикаторных ламп
 
 ### Краткие
-`livan_s6_pro_ru_0730f6a9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:31 | doc_type:owners_manual
 сведения
 о
 сигнальных
@@ -29700,14 +27940,12 @@ Unit (Единицы)
 ие
 
 ### Включение левого
-`livan_s6_pro_ru_1d34fce1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 указателя поворота
 Правый указатель поворота
 Включение правого
 указателя поворота
 
 ### Индикаторная лампа фар дальнего
-`livan_s6_pro_ru_47ba3f85` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:31 | doc_type:owners_manual
 света
 Включение фар дальнего
 света
@@ -29715,26 +27953,22 @@ Unit (Единицы)
 противотуманных фар
 
 ### Включение задних
-`livan_s6_pro_ru_e0ca17fb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:31 | doc_type:owners_manual
 противотуманных фар
 Сигнальная лампа неисправности
 антиблокировочной системы (ABS)
 
 ### Неисправность
-`livan_s6_pro_ru_30572105` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:31 | doc_type:owners_manual
 антиблокировочной
 системы
 Сигнальная лампа неисправности EBD
 
 ### Неисправность
-`livan_s6_pro_ru_30572105` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:31 | doc_type:owners_manual
 электронного
 распределения тормозных
 Система контроля и управления
 30
 
 ### Изображен
-`livan_s6_pro_ru_f48690ce` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:32 | doc_type:owners_manual
 ие
 Наименование
 Инструкции
@@ -29743,7 +27977,6 @@ Unit (Единицы)
 тормозной системы
 
 ### Неисправность тормозной
-`livan_s6_pro_ru_6fb0ed61` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:32 | doc_type:owners_manual
 системы
 Сигнальная лампа стояночного тормоза
 Включена функция
@@ -29751,33 +27984,28 @@ Unit (Единицы)
 тормоза
 
 ### Включена автоматическая
-`livan_s6_pro_ru_06fc4d6f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:32 | doc_type:owners_manual
 парковка (AUTO HOLD)
 Сигнальная лампа неисправности
 электрического стояночного тормоза
 
 ### Неисправность
-`livan_s6_pro_ru_6c62acfb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:32 | doc_type:owners_manual
 электрического стояночного
 тормоза (EPB)
 Индикаторная лампа состояния
 автоматической парковки (AVH)
 
 ### Включена функция
-`livan_s6_pro_ru_f0631298` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:32 | doc_type:owners_manual
 автоматической парковки
 (AVH)
 Неисправность
 автоматической парковки
 
 ### Сигнальная лампа неисправности
-`livan_s6_pro_ru_4b7ba862` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:32 | doc_type:owners_manual
 подушки безопасности
 Неисправность системы
 подушки безопасности
 
 ### Сигнальная лампа непристегнутого
-`livan_s6_pro_ru_0e2df2b7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:32 | doc_type:owners_manual
 ремня безопасности переднего сиденья
 Передний ремень
 безопасности не пристегнут,
@@ -29785,13 +28013,11 @@ Unit (Единицы)
 ремень безопасности
 
 ### Сигнальная лампа неисправности
-`livan_s6_pro_ru_4b7ba862` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:32 | doc_type:owners_manual
 двигателя связанная с экологией
 Неисправность выхлопной
 системы двигателя
 
 ### Сигнальная лампа неисправности
-`livan_s6_pro_ru_4b7ba862` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:32 | doc_type:owners_manual
 системы двигателя
 Неисправность систем
 двигателя
@@ -29800,7 +28026,6 @@ Unit (Единицы)
 устойчивости (ESC)
 
 ### Неисправность системы
-`livan_s6_pro_ru_9f524955` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:32 | doc_type:owners_manual
 электронного контроля
 устойчивости (ESC)
 Индикаторная лампа выключения
@@ -29808,7 +28033,6 @@ Unit (Единицы)
 устойчивости (ESC)
 
 ### Выключение системы
-`livan_s6_pro_ru_e52f5bd2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:32 | doc_type:owners_manual
 электронного контроля
 устойчивости (ESC)
 Система контроля и управления
@@ -29823,7 +28047,6 @@ Unit (Единицы)
 31
 
 ### Изображен
-`livan_s6_pro_ru_2528e757` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 ие
 Наименование
 Инструкции
@@ -29831,27 +28054,23 @@ Unit (Единицы)
 температуры охлаждающей жидкости
 
 ### Высокая температура в
-`livan_s6_pro_ru_47f05fe9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 двигателе
 Сигнальная лампа низкого уровня
 топлива
 Низкий уровень топлива
 
 ### Сигнальная лампа низкого давления
-`livan_s6_pro_ru_c0c24d5b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 масла
 Низкое давление масла
 Сигнальная лампа неисправности
 системы зарядки аккумулятора
 
 ### Система зарядки
-`livan_s6_pro_ru_870e62b3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 аккумулятора неисправна
 Индикаторная лампа круиз-контроля
 Активация круиз-контроля
 
 ### Сигнальная лампа не нормального
-`livan_s6_pro_ru_6934ae82` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 давления в шинах (TPMS)
 Неисправность системы
 контроля давления в шинах
@@ -29859,7 +28078,6 @@ Unit (Единицы)
 шинах
 
 ### Сигнальная лампа неисправности
-`livan_s6_pro_ru_5b095264` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 коробки передач
 Неисправность коробки
 передач
@@ -29867,7 +28085,6 @@ Unit (Единицы)
 коробки передач
 
 ### Ухудшение характеристик
-`livan_s6_pro_ru_247580e0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:33 | doc_type:owners_manual
 коробки передач
 Сигнальная лампа неисправности
 системы электроусиления рулевого
@@ -29878,13 +28095,11 @@ Unit (Единицы)
 рулевого управления
 
 ### Включение габаритных
-`livan_s6_pro_ru_aed241f2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 огней
 Индикаторная лампа эко-режима
 Включение эко-режима
 
 ### Индикаторная лампа спортивного
-`livan_s6_pro_ru_b54b9e91` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 режима
 Включение спортивного
 режима
@@ -29892,7 +28107,6 @@ Unit (Единицы)
 света
 
 ### Включение фар ближнего
-`livan_s6_pro_ru_086f5b07` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 света
 Индикаторная лампа фар ближнего
 света
@@ -29900,7 +28114,6 @@ Unit (Единицы)
 ближнего света
 
 ### Система контроля и управления
-`livan_s6_pro_ru_3e4cca2c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 32
 Изображен
 ие
@@ -29909,19 +28122,16 @@ Unit (Единицы)
 Индикаторная лампа усталости
 
 ### Напоминание об усталости
-`livan_s6_pro_ru_ad990f9a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 от вождения, необходим
 отдых
 Сигнальная лампа неисправности
 
 ### Имеются неразрешенные
-`livan_s6_pro_ru_6f095149` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 текстовые сигналы тревоги,
 активируется сигнальная
 лампа неисправности.
 
 ### Индикаторная лампа системы запуска и
-`livan_s6_pro_ru_b814ce0d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:34 | doc_type:owners_manual
 остановки двигателя
 Система запуска и
 остановки двигателя
@@ -29936,7 +28146,6 @@ Unit (Единицы)
 серьезным травмам или повреждению имущества.
 
 ### Когда индикаторная лампа предупреждения продолжает гореть красным после
-`livan_s6_pro_ru_72a5aa55` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 запуска или когда сигнальная лампа горит красным во время движения, это
 указывает
 на
@@ -29948,7 +28157,6 @@ Unit (Единицы)
 обратитесь в центр технического обслуживания LIVAN для проведения диагностики.
 
 ### Черные изображения в таблице будут отображаться белого цвета на экране
-`livan_s6_pro_ru_db0e6942` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:34 | doc_type:owners_manual
 приборной панели.
 Система контроля и управления
 2
@@ -29962,7 +28170,6 @@ Unit (Единицы)
 33
 
 ### Комбинированный
-`livan_s6_pro_ru_0b33a2e6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:35 | doc_type:owners_manual
 переключатель
 освещения
 и
@@ -29971,7 +28178,6 @@ Unit (Единицы)
 выключатель освещения
 
 ### 1. Переключатель
-`livan_s6_pro_ru_c83a7669` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:35 | doc_type:owners_manual
 управления
 освещением
 2. Переключатель
@@ -29979,7 +28185,6 @@ Unit (Единицы)
 противотуманных фар
 
 ### 3. Ручка
-`livan_s6_pro_ru_804d11ef` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 переключателя
 освещения
 (управление
@@ -29993,7 +28198,6 @@ Unit (Единицы)
 поворотниками)
 
 ### Управление комбинированным
-`livan_s6_pro_ru_b4d9ad3b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:35 | doc_type:owners_manual
 переключателем освещения
 Габаритные огни
 Поворачивайте
@@ -30001,7 +28205,6 @@ Unit (Единицы)
 управления освещением в направлении
 
 ### А вплоть до
-`livan_s6_pro_ru_fa51d703` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 отметки
 , загорятся
 габаритные
@@ -30011,7 +28214,6 @@ Unit (Единицы)
 подсветки.
 
 ### Поворачивайте
-`livan_s6_pro_ru_7290388b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 переключатель
 управления освещением в направлении
 В вплоть до
@@ -30019,7 +28221,6 @@ Unit (Единицы)
 габаритные огни и лампа подсветки.
 
 ### Установите
-`livan_s6_pro_ru_472fdfd6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -30044,7 +28245,6 @@ ON
 огни.
 
 ### Поворачивайте
-`livan_s6_pro_ru_7290388b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:35 | doc_type:owners_manual
 переключатель управления освещением
 в направлении B до тех пор, пока стрелка
 не
@@ -30053,7 +28253,6 @@ ON
 отметку
 
 ### O,
-`livan_s6_pro_ru_2ec41664` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 фары
 ближнего света будут отключены.
 Переключение
@@ -30063,7 +28262,6 @@ ON
 ближнего света
 
 ### Установите
-`livan_s6_pro_ru_472fdfd6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:35 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -30074,7 +28272,6 @@ ON
 фары
 
 ### Система контроля и управления
-`livan_s6_pro_ru_dd70a575` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 34
 ближнего света, переместите рукоятку
 переключателя
@@ -30100,14 +28297,12 @@ ON
 направлении
 
 ### C,
-`livan_s6_pro_ru_b20248c0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 чтобы
 выключить
 дальний свет.
 Мигание фар дальнего света
 
 ### Переместите
-`livan_s6_pro_ru_b2325d4a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 ручку
 переключателя
 освещения в направлении F в крайнее
@@ -30122,7 +28317,6 @@ ON
 выключится.
 
 ### Установите
-`livan_s6_pro_ru_a6ebd1ef` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -30136,7 +28330,6 @@ ON,
 направлении
 
 ### E,
-`livan_s6_pro_ru_8aaf80c8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:36 | doc_type:owners_manual
 левый
 индикатор
 рулевого
@@ -30151,7 +28344,6 @@ ON,
 положение, сигнал поворота выключится.
 
 ### D,
-`livan_s6_pro_ru_444b1c78` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:36 | doc_type:owners_manual
 правый
 индикатор
 рулевого
@@ -30160,7 +28352,6 @@ ON,
 мигать.
 
 ### После завершения рулевого управления
-`livan_s6_pro_ru_139d4c5a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:36 | doc_type:owners_manual
 ручка
 переключателя
 освещения
@@ -30168,7 +28359,6 @@ ON,
 положение, сигнал поворота выключится.
 
 ### Установите
-`livan_s6_pro_ru_a6ebd1ef` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -30183,14 +28373,12 @@ ON,
 направлении
 
 ### D
-`livan_s6_pro_ru_a72b343c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 или
 E,
 индикатор правого или левого поворота
 мигнет 3 раза.
 
 ### Поворачивайте
-`livan_s6_pro_ru_8aa6daa2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 переключатель
 управления освещением в направлении
 A до тех пор, пока стрелка не укажет
@@ -30198,7 +28386,6 @@ A до тех пор, пока стрелка не укажет
 положение
 
 ### AUTO,
-`livan_s6_pro_ru_1acc6046` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 будет
 включена
 функция
@@ -30219,7 +28406,6 @@ A до тех пор, пока стрелка не укажет
 освещения.
 
 ### Система
-`livan_s6_pro_ru_70c1f3e7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 автоматического
 освещения
 может
@@ -30244,7 +28430,6 @@ A до тех пор, пока стрелка не укажет
 габаритные огни и фары ближнего света.
 
 ### Система имеет функцию ручного
-`livan_s6_pro_ru_3f5fab0b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 приоритета
 в
 автоматическом
@@ -30253,7 +28438,6 @@ A до тех пор, пока стрелка не укажет
 режима автоматического освещения.
 
 ### Когда включена фара ближнего света или
-`livan_s6_pro_ru_4e4b8282` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 автоматическое
 освещение,
 нажмите
@@ -30262,7 +28446,6 @@ A до тех пор, пока стрелка не укажет
 задней
 
 ### Система контроля и управления
-`livan_s6_pro_ru_f93d71bc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 2
 8
 7
@@ -30282,7 +28465,6 @@ A до тех пор, пока стрелка не укажет
 фару.
 
 ### Когда пусковой переключатель находится
-`livan_s6_pro_ru_d295a35d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 в
 положении
 ON,
@@ -30300,7 +28482,6 @@ ON,
 передних фар
 
 ### 1. Ручка регулировки высоты передних
-`livan_s6_pro_ru_c504c759` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 фар
 Данная
 ручка
@@ -30310,7 +28491,6 @@ ON,
 фар.
 
 ### Ручка регулировки высоты передних фар
-`livan_s6_pro_ru_820b7692` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:37 | doc_type:owners_manual
 имеет четыре положения: 0, 1, 2 и 3.
 Установите
 положение
@@ -30346,7 +28526,6 @@ ON,
 движущихся с встречной стороны.
 
 ### Включение дневных ходовых огней
-`livan_s6_pro_ru_8c9df3a8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 После
 запуска
 двигателя
@@ -30362,7 +28541,6 @@ ON,
 дальнего света.
 
 ### Дневные
-`livan_s6_pro_ru_029fb9b5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 ходовые
 огни
 автоматически
@@ -30372,14 +28550,12 @@ ON,
 •
 
 ### Включение фар ближнего света
-`livan_s6_pro_ru_3c9864d7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 •
 Включение фар дальнего света
 Система контроля и управления
 36
 
 ### Проводи меня домой
-`livan_s6_pro_ru_5c973528` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 Включение функции «Проводи меня
 домойе
 В течение 10 минут после включения
@@ -30388,13 +28564,11 @@ ON,
 положение
 
 ### OFF
-`livan_s6_pro_ru_e0bf1e74` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 быстро
 переведите переключатель освещения из
 положения O в положение, отличное от
 
 ### O,
-`livan_s6_pro_ru_d9e5069c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:38 | doc_type:owners_manual
 а
 затем
 верните
@@ -30411,13 +28585,11 @@ O.
 домойе
 
 ### При выполнении любого из следующих
-`livan_s6_pro_ru_365762e0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 условий функция «Проводи меня домойе
 будет отключена:
 •
 
 ### Пусковой переключатель не находится
-`livan_s6_pro_ru_b727df0f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:38 | doc_type:owners_manual
 в положении OFF.
 •
 Истечение времени.
@@ -30427,7 +28599,6 @@ O.
 переключатель света в положение не
 
 ### О.
-`livan_s6_pro_ru_7646676b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:38 | doc_type:owners_manual
 Время действия функции «Проводи
 меня домойе
 Время действия функции «Проводи меня
@@ -30438,7 +28609,6 @@ O.
 мультимедиа.
 
 ### Комбинированный
-`livan_s6_pro_ru_f35d9fe2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 переключатель
 стеклоочистителя
 Комбинированный
@@ -30446,7 +28616,6 @@ O.
 стеклоочистителей
 
 ### 1. Ручка
-`livan_s6_pro_ru_009d2965` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 управления
 стеклоочистителями
 2. Ручка
@@ -30475,7 +28644,6 @@ O.
 стеклоочистителей.
 
 ### Если на ветровом стекле есть пыль или
-`livan_s6_pro_ru_67341787` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 гравий, пожалуйста, очистите его перед
 использованием
 стеклоочистителей,
@@ -30489,7 +28657,6 @@ O.
 стеклоочистителей.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_2cd41a6e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 2
 8
 7
@@ -30504,7 +28671,6 @@ O.
 стеклоочистителей
 
 ### Кратковременное
-`livan_s6_pro_ru_4d84945a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 движение
 передних стеклоочистителей
 Переместите
@@ -30519,7 +28685,6 @@ O.
 стеклоочистителями.
 
 ### Рукоятка управления стеклоочистителем
-`livan_s6_pro_ru_f322266c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 автоматически возвратится в положение
 O,
 стеклоочистители
@@ -30527,7 +28692,6 @@ O,
 толчками.
 
 ### Выключение стеклоочистителей
-`livan_s6_pro_ru_568199e6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 Когда
 ручка
 управления
@@ -30537,7 +28701,6 @@ O,
 положении
 
 ### O,
-`livan_s6_pro_ru_78060e64` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 стеклоочистители
 выключатся.
 Прерывистое
@@ -30545,7 +28708,6 @@ O,
 стеклоочистителей
 
 ### Переместите
-`livan_s6_pro_ru_cbfd6650` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 рукоятку
 управления
 стеклоочистителями в направлении A в
@@ -30553,7 +28715,6 @@ O,
 выполнять прерывистое движение.
 
 ### Скорость
-`livan_s6_pro_ru_d2bfd2b1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 работы
 стеклоочистителей
 можно
@@ -30573,7 +28734,6 @@ O,
 изменилась с быстрой на медленную.
 
 ### Движение
-`livan_s6_pro_ru_3d8b2816` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 стеклоочистителей
 с
 низкой скоростью
@@ -30591,7 +28751,6 @@ O,
 низкой скорости.
 
 ### Движение
-`livan_s6_pro_ru_3d8b2816` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 стеклоочистителей
 с
 высокой скоростью
@@ -30616,7 +28775,6 @@ O,
 положение
 
 ### OFF,
-`livan_s6_pro_ru_4fe072fe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 с
 помощью
 рукоятки
@@ -30628,7 +28786,6 @@ O,
 направлении
 
 ### B
-`livan_s6_pro_ru_8899d4cf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 в
 положение
 и удерживайте более 2
@@ -30642,7 +28799,6 @@ O,
 цикле зажигания.
 
 ### Переместите
-`livan_s6_pro_ru_cbfd6650` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 ручку
 управления
 стеклоочистителями в направлении D,
@@ -30660,7 +28816,6 @@ O,
 воду.
 
 ### После очистки стеклоочистители будут
-`livan_s6_pro_ru_b5b1307b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 продолжать
 движение в течение трех
 Система контроля и управления
@@ -30677,7 +28832,6 @@ O,
 цикл работы.
 
 ### Замедление стеклоочистителей при
-`livan_s6_pro_ru_ea8196fb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:40 | doc_type:owners_manual
 парковке
 Когда автомобиль остановлен, скорость
 работы
@@ -30696,7 +28850,6 @@ O,
 мультимедиа.
 
 ### Нажмите
-`livan_s6_pro_ru_7da73ce0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:40 | doc_type:owners_manual
 на
 область
 изображения
@@ -30708,7 +28861,6 @@ O,
 руле, сработает звуковой сигнал.
 
 ### Область изображения клаксона на
-`livan_s6_pro_ru_de662328` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:40 | doc_type:owners_manual
 руле
 также
 является
@@ -30731,7 +28883,6 @@ O,
 несчастных случаев.
 
 ### Регулировка
-`livan_s6_pro_ru_90299e30` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:40 | doc_type:owners_manual
 рулевого
 колеса
 Не
@@ -30748,7 +28899,6 @@ O,
 повреждению имущества.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_18f9b16c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:40 | doc_type:owners_manual
 2
 8
 7
@@ -30764,7 +28914,6 @@ O,
 травмам и повреждению имущества.
 
 ### 2. Регулировка рулевого колеса вверх-
-`livan_s6_pro_ru_cc337ce2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:41 | doc_type:owners_manual
 вниз
 3. Рычаг блокировки рулевого колеса
 Установите рулевое колесо в правильное
@@ -30774,7 +28923,6 @@ O,
 действия:
 
 ### 1. Поверните
-`livan_s6_pro_ru_d43fd633` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:41 | doc_type:owners_manual
 рулевое
 колесо
 в
@@ -30783,7 +28931,6 @@ O,
 рулевого колеса.
 
 ### 3. Удерживая
-`livan_s6_pro_ru_1c771e69` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 руль
 обеими
 руками,
@@ -30794,7 +28941,6 @@ O,
 подходящего положения.
 
 ### 4. Выбрав
-`livan_s6_pro_ru_5eb714cc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:41 | doc_type:owners_manual
 подходящее
 положение
 рулевого колеса, до конца потяните
@@ -30809,7 +28955,6 @@ O,
 колесо в новом положении.
 
 ### 1. Кнопка
-`livan_s6_pro_ru_cd0cc8b4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 регулировки
 и
 настройки
@@ -30826,7 +28971,6 @@ O,
 скорость.
 
 ### Переведение
-`livan_s6_pro_ru_82bbae92` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 данной
 кнопки
 вниз
@@ -30839,7 +28983,6 @@ O,
 крейсерской.
 
 ### 2. Кнопка разговора по телефону: ответ/
-`livan_s6_pro_ru_edcc8966` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:41 | doc_type:owners_manual
 завершение вызова по Bluetooth.
 3. Кнопка
 круиз-контроля:
@@ -30847,7 +28990,6 @@ O,
 выключает круиз-контроль.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_e3a55c35` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 40
 1. Кнопка
 отключения
@@ -30862,7 +29004,6 @@ O,
 режима отключения звука.
 
 ### 2. Правая кнопка выбора: когда меню
-`livan_s6_pro_ru_cb74b084` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 приборной
 панели
 открыто,
@@ -30878,14 +29019,12 @@ O,
 следующую песню или канал.
 
 ### 3. Кнопка
-`livan_s6_pro_ru_aac45d52` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 меню:
 кратковременно
 нажмите эту кнопку, а затем нажмите
 кнопку
 
 ### OK,
-`livan_s6_pro_ru_26c68207` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:42 | doc_type:owners_manual
 чтобы
 открыть
 меню
@@ -30907,7 +29046,6 @@ O,
 руле находится в мультимедиа.
 
 ### MODE:
-`livan_s6_pro_ru_9bc6ae49` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:42 | doc_type:owners_manual
 переключение
 источника
 звука
@@ -30917,7 +29055,6 @@ O,
 мультимедийный интерфейс.
 
 ### 5. Левая
-`livan_s6_pro_ru_585a784c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 кнопка
 выбора
 или
@@ -30953,7 +29090,6 @@ O,
 предыдущую песню или канал.
 
 ### 6. Кнопка главной страницы: когда в
-`livan_s6_pro_ru_e6b64c6f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:42 | doc_type:owners_manual
 меню
 настроек
 автомобиля
@@ -30978,7 +29114,6 @@ O,
 страницу.
 
 ### 7. Кнопка регулировки громкости, кнопка
-`livan_s6_pro_ru_f607b0d4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:42 | doc_type:owners_manual
 выбора
 меню
 или
@@ -30996,7 +29131,6 @@ OK:
 чтобы перезапустить экран.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_738c55e9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:42 | doc_type:owners_manual
 2
 8
 7
@@ -31013,7 +29147,6 @@ OK:
 вида
 
 ### Не регулируйте боковые зеркала
-`livan_s6_pro_ru_44884587` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 заднего вида во время движения
 автомобиля, иначе это может привести к
 травмам или повреждению имущества.
@@ -31027,7 +29160,6 @@ OK:
 правильно отрегулированы.
 
 ### Переключатель
-`livan_s6_pro_ru_84aea9ff` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 регулировки
 боковых
 зеркал
@@ -31038,7 +29170,6 @@ OK:
 внутренней панели водительской двери.
 
 ### 1. Переключатель регулировки боковых
-`livan_s6_pro_ru_e71f34de` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 зеркал заднего вида
 Расстояние до объектов, видимых в
 боковых
@@ -31064,14 +29195,12 @@ OK:
 предметы, чтобы соскрести лед с них.
 
 ### Используйте
-`livan_s6_pro_ru_a150aa10` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 спрей
 или
 антиобледенитель для удаления льда с
 поверхности зеркал.
 
 ### Не прикасайтесь к боковым зеркалам
-`livan_s6_pro_ru_8a1bbc18` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 заднего
 вида
 во
@@ -31080,7 +29209,6 @@ OK:
 чтобы избежать травм.
 
 ### Регулировка
-`livan_s6_pro_ru_49003abd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 боковых
 зеркал
 заднего вида
@@ -31088,7 +29216,6 @@ OK:
 положении
 
 ### ON,
-`livan_s6_pro_ru_be0049a9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:43 | doc_type:owners_manual
 установите
 ручку
 регулировки
@@ -31105,7 +29232,6 @@ OK:
 вида соответственно.
 
 ### 2. Перемещайте
-`livan_s6_pro_ru_d7fbe470` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 переключатель
 регулировки
 бокового
@@ -31115,12 +29241,10 @@ OK:
 наклона.
 
 ### 3. После регулировки установите ручку
-`livan_s6_pro_ru_85c5eff6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 регулировки боковых зеркал заднего
 вида в исходное положение (О).
 
 ### Система контроля и управления
-`livan_s6_pro_ru_2b185ef6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 42
 Складывание боковых зеркал
 заднего вида
@@ -31134,13 +29258,11 @@ OK:
 дорогам и парковке автомобиля.
 
 ### Ручное складывание боковых зеркал
-`livan_s6_pro_ru_3b174620` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:44 | doc_type:owners_manual
 заднего вида
 Сложите боковое зеркало заднего вида
 внутрь.
 
 ### Электронное складывание боковых
-`livan_s6_pro_ru_ad9780b8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:44 | doc_type:owners_manual
 зеркал заднего вида*
 Поверните ручку регулировки бокового
 зеркала заднего вида так, чтобы метка на
@@ -31150,7 +29272,6 @@ OK:
 сложится.
 
 ### Поверните
-`livan_s6_pro_ru_0ed1a437` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 ручку
 регулировки бокового зеркала заднего
 вида
@@ -31161,7 +29282,6 @@ OK:
 развернуть его.
 
 ### Функция
-`livan_s6_pro_ru_baf392e6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:44 | doc_type:owners_manual
 автоматического
 складывания
 боковых
@@ -31207,7 +29327,6 @@ OK:
 автоматически раскроются.
 
 ### Функция
-`livan_s6_pro_ru_baf392e6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 обогрева
 боковых
 зеркал заднего вида
@@ -31221,7 +29340,6 @@ OK:
 кнопки.
 
 ### Функция
-`livan_s6_pro_ru_baf392e6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 оттаивания
 и
 запотевания
@@ -31240,7 +29358,6 @@ OK:
 раздел
 
 ### Система контроля и управления
-`livan_s6_pro_ru_4daa8436` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:44 | doc_type:owners_manual
 2
 8
 7
@@ -31259,7 +29376,6 @@ OK:
 кондиционированияе
 
 ### Внутреннее зеркало заднего
-`livan_s6_pro_ru_e77f5c41` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 вида
 Регулировка
 внутреннего
@@ -31270,7 +29386,6 @@ OK:
 травмам или повреждению имущества.
 
 ### Внутреннее
-`livan_s6_pro_ru_c13b48bb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 зеркало
 заднего
 вида
@@ -31287,7 +29402,6 @@ OK:
 желаемое положение.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_11d37991` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 44
 Внутреннее
 зеркало
@@ -31298,7 +29412,6 @@ OK:
 затемнением
 
 ### Нажмите
-`livan_s6_pro_ru_1928a94e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:46 | doc_type:owners_manual
 на
 ручку
 в
@@ -31318,7 +29431,6 @@ OK:
 затемнения.
 
 ### Потяните
-`livan_s6_pro_ru_7ecc3525` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 ручку
 назад,
 чтобы
@@ -31337,7 +29449,6 @@ OK:
 Окна
 
 ### Электрические
-`livan_s6_pro_ru_0dc26abf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 стеклоподъемники
 Никогда
 не
@@ -31356,7 +29467,6 @@ OK:
 окнами.
 
 ### Неспособность открытия этими лицами
-`livan_s6_pro_ru_ae107faa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:46 | doc_type:owners_manual
 дверей и окон может повлечь за собой
 вред
 здоровью
@@ -31369,7 +29479,6 @@ OK:
 температуры.
 
 ### Не пытайтесь использовать части
-`livan_s6_pro_ru_38d53a56` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:46 | doc_type:owners_manual
 своего тела для проверки функции
 защиты от защемления, иначе это может
 привести к травмам или смерти.
@@ -31384,7 +29493,6 @@ OK:
 от защемления может не сработать.
 
 ### 1. Переключатель
-`livan_s6_pro_ru_8aad69ed` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 левого
 переднего
 стеклоподъемника
@@ -31394,7 +29502,6 @@ OK:
 стеклоподъемника
 
 ### 3. Переключатель
-`livan_s6_pro_ru_2e53af4b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 правого
 заднего
 стеклоподъемника
@@ -31410,7 +29517,6 @@ OK:
 45
 
 ### 4. Переключатель
-`livan_s6_pro_ru_b022f089` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 левого
 заднего
 стеклоподъемника
@@ -31419,7 +29525,6 @@ OK:
 стеклоподъемников
 
 ### Стеклоподъемниками
-`livan_s6_pro_ru_39e82de7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 можно
 управлять,
 когда
@@ -31427,7 +29532,6 @@ OK:
 переключатель находится в положении
 
 ### ON.
-`livan_s6_pro_ru_462359b2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 Когда
 пусковой
 переключатель
@@ -31436,7 +29540,6 @@ OK:
 положение
 
 ### OFF,
-`livan_s6_pro_ru_c5c0d957` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 если
 передняя
 дверь
@@ -31448,7 +29551,6 @@ OK:
 в положение OFF.
 
 ### Ручное управление
-`livan_s6_pro_ru_5a645a52` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 Открытие:
 нажмите
 и
@@ -31458,7 +29560,6 @@ OK:
 переключатель, чтобы закрыть окно.
 
 ### Работа
-`livan_s6_pro_ru_ae6157cc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 в
 автоматическом
 режиме
@@ -31475,14 +29576,12 @@ OK:
 автоматически открыть или закрыть окно.
 
 ### Если переключатель окна снова нажат
-`livan_s6_pro_ru_55b841ba` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 или потянут вверх во время процесса
 автоматического открытия или закрытия
 окна, окно перестанет открываться или
 закрываться.
 
 ### В автомобиле так же имеется функция
-`livan_s6_pro_ru_0cc30c82` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 закрытия
 с
 одной
@@ -31492,7 +29591,6 @@ OK:
 дистанционного управления:
 
 ### Установите
-`livan_s6_pro_ru_9ec5bff6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -31504,7 +29602,6 @@ OK:
 смарт-ключе, окна закроются.
 
 ### Если включена функция автоматического
-`livan_s6_pro_ru_21984715` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:47 | doc_type:owners_manual
 закрытия
 окон
 при
@@ -31525,7 +29622,6 @@ OK:
 включается в настройках мультимедиа.
 
 ### Дистанционное
-`livan_s6_pro_ru_13b5ecfd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 открытие/
 закрытие окон
 Выключите
@@ -31544,7 +29640,6 @@ OK:
 на
 
 ### Система контроля и управления
-`livan_s6_pro_ru_36fd8719` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 46
 крыше
 откроются
@@ -31563,7 +29658,6 @@ OK:
 закроются.
 
 ### Переключатель
-`livan_s6_pro_ru_1fbfce3a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:48 | doc_type:owners_manual
 блокировки
 окон
 Переключатель
@@ -31573,7 +29667,6 @@ OK:
 переключателями окон.
 
 ### Нажмите
-`livan_s6_pro_ru_3e3c0fff` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:48 | doc_type:owners_manual
 на
 переключатель,
 чтобы
@@ -31613,7 +29706,6 @@ OK:
 и функция блокировки будет отключена.
 
 ### Тепловая
-`livan_s6_pro_ru_609a9ff0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 защита
 электрических
 стеклоподъемников
@@ -31636,13 +29728,11 @@ OK:
 привода.
 
 ### Функционирование
-`livan_s6_pro_ru_bd7a98d9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 электрических
 стеклоподъемников будет возобновлено
 через короткий промежуток времени.
 
 ### Функция
-`livan_s6_pro_ru_4ac51eac` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 защиты
 от
 защемления
@@ -31669,7 +29759,6 @@ OK:
 никакие предметы не зажаты.
 
 ### Самообучение
-`livan_s6_pro_ru_4c304581` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 электрических
 стеклоподъёмников
 При возникновении следующих ситуаций
@@ -31678,7 +29767,6 @@ OK:
 •
 
 ### Подсоедините
-`livan_s6_pro_ru_8995180b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:48 | doc_type:owners_manual
 аккумулятор
 после
 отключения электропитания.
@@ -31690,7 +29778,6 @@ OK:
 •
 
 ### Функция защиты от защемления будет
-`livan_s6_pro_ru_06b7bfe6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:48 | doc_type:owners_manual
 работать неправильно.
 Перед самообучением необходимо
 убедиться,
@@ -31700,7 +29787,6 @@ OK:
 Процесс самообучения:
 
 ### 1. Потяните переключатель вверх, пока
-`livan_s6_pro_ru_4b1184f5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:48 | doc_type:owners_manual
 окно
 полностью
 не
@@ -31718,14 +29804,12 @@ OK:
 защемления.
 
 ### 2. Нажмите переключатель вниз, чтобы
-`livan_s6_pro_ru_4b33e4bf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 опустить
 стекло.
 Продолжайте
 нажимать переключатель в течение 2
 
 ### Система контроля и управления
-`livan_s6_pro_ru_af7f58ee` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:48 | doc_type:owners_manual
 2
 8
 7
@@ -31746,7 +29830,6 @@ OK:
 активирует плавное опускание.
 
 ### 3. Выполните один подъем снизу вверх,
-`livan_s6_pro_ru_e813b4cb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:49 | doc_type:owners_manual
 но удерживайте в течение 2 секунд.
 Если
 электрические
@@ -31767,7 +29850,6 @@ OK:
 Люк
 
 ### Управление люком
-`livan_s6_pro_ru_72b4a31d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:49 | doc_type:owners_manual
 Вы
 можете
 войти
@@ -31777,14 +29859,12 @@ OK:
 )] →[Sunroof (Люк)].
 
 ### 1. Sunroof vent (люк в крыше): подъем
-`livan_s6_pro_ru_c831c93b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:49 | doc_type:owners_manual
 люка
 2. Disabled/close
 (отключить/закрыть):
 закрытие люка
 
 ### 3. Open
-`livan_s6_pro_ru_608dbbdd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:49 | doc_type:owners_manual
 (открытие):
 полное
 открытие
@@ -31793,7 +29873,6 @@ OK:
 закрытие люка
 
 ### Система контроля и управления
-`livan_s6_pro_ru_85b6c279` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:49 | doc_type:owners_manual
 48
 Когда
 пусковой
@@ -31803,7 +29882,6 @@ OK:
 положения
 
 ### ON
-`livan_s6_pro_ru_dfaf3f61` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:50 | doc_type:owners_manual
 в
 положение OFF, пока передняя дверь не
 открыта, люк на крыше может работать в
@@ -31812,7 +29890,6 @@ OK:
 в положение OFF.
 
 ### Обязательно
-`livan_s6_pro_ru_9c9eea3d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 соблюдайте
 следующие
 меры
@@ -31823,13 +29900,11 @@ OK:
 •
 
 ### Во время движения автомобиля части
-`livan_s6_pro_ru_275ce0c5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 тела всех пассажиров не должны быть
 высунуты из люка.
 •
 
 ### Строго
-`livan_s6_pro_ru_c3ae575c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 запрещается
 высовывать
 голову или другие части тела из люка.
@@ -31843,7 +29918,6 @@ OK:
 •
 
 ### Запрещается
-`livan_s6_pro_ru_b728d4e5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 сидеть
 на
 крыше
@@ -31870,7 +29944,6 @@ OK:
 деталей люка.
 
 ### Если на уплотнительной резинке
-`livan_s6_pro_ru_3e2038cf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:50 | doc_type:owners_manual
 стекла
 люка
 и
@@ -31895,12 +29968,10 @@ OK:
 Поднятие / опускание люка
 
 ### Нажмите на интерфейс люка на экране
-`livan_s6_pro_ru_e6527181` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:50 | doc_type:owners_manual
 дисплея, чтобы включить вентиляцию,
 люк наклонится и откроется.
 
 ### Опускание люка
-`livan_s6_pro_ru_dd991f16` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:50 | doc_type:owners_manual
 Когда
 люк
 находится
@@ -31914,7 +29985,6 @@ OK:
 экране, люк закроется.
 
 ### Дистанционное
-`livan_s6_pro_ru_eb997b53` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:50 | doc_type:owners_manual
 открытие/
 закрытие люка
 В
@@ -31933,7 +30003,6 @@ OK:
 положение
 
 ### OFF,
-`livan_s6_pro_ru_f51db2ba` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 нажмите
 и
 удерживайте
@@ -31946,7 +30015,6 @@ OK:
 полностью.
 
 ### Нажмите
-`livan_s6_pro_ru_e2c55a2c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 и
 удерживайте
 кнопку
@@ -31956,7 +30024,6 @@ OK:
 не закроется полностью.
 
 ### Функция
-`livan_s6_pro_ru_87317737` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:50 | doc_type:owners_manual
 защиты
 от
 защемления
@@ -31978,7 +30045,6 @@ OK:
 направлении, чтобы избежать травм.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_ec400475` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:50 | doc_type:owners_manual
 2
 8
 7
@@ -32011,7 +30077,6 @@ OK:
 Процесс самообучения:
 
 ### 1. Установите люк в полностью закрытое
-`livan_s6_pro_ru_9974417b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 положение
 с
 помощью
@@ -32030,7 +30095,6 @@ OK:
 завершится;
 
 ### 3. Отпустите кнопку закрытия, а затем
-`livan_s6_pro_ru_a1f512a4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 снова нажмите и удерживайте ее в
 течение
 4
@@ -32040,7 +30104,6 @@ OK:
 опустится, откроется и закроется;
 
 ### 4. После закрытия и остановки люка
-`livan_s6_pro_ru_9ddd6fa0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 самообучение
 закончится
 (только
@@ -32048,7 +30111,6 @@ OK:
 закрытия).
 
 ### Во время процесса самообучения
-`livan_s6_pro_ru_bf0e99dd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 люка
 необходимо
 непрерывно
@@ -32058,12 +30120,10 @@ OK:
 люка.
 
 ### Если эта кнопка будет отпущена во время
-`livan_s6_pro_ru_2adcc7c6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 процесса самообучения, это приведет к
 сбою самообучения.
 
 ### Солнцезащитный козырек люка можно
-`livan_s6_pro_ru_4f9d3cd7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 открыть
 вместе
 со
@@ -32076,7 +30136,6 @@ OK:
 потянуть назад, чтобы закрыть.
 
 ### Во время движения автомобиля на
-`livan_s6_pro_ru_31e862d8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 высокой
 скорости
 запрещается
@@ -32084,7 +30143,6 @@ OK:
 открытом люке.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_9f2142d5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:51 | doc_type:owners_manual
 50
 Освещение салона
 Внутреннее
@@ -32092,7 +30150,6 @@ OK:
 переднего ряда
 
 ### Выключатель
-`livan_s6_pro_ru_0d4adad7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 переднего
 внутреннего
 освещения
@@ -32102,7 +30159,6 @@ OK:
 переключатель.
 
 ### Индуктивной
-`livan_s6_pro_ru_6f2ed953` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 зоной
 является
 значок
@@ -32112,7 +30168,6 @@ OK:
 освещения.
 
 ### Управление
-`livan_s6_pro_ru_821a8b5f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 внутренним
 освещением переднего ряда
 Проведя
@@ -32133,7 +30188,6 @@ OK:
 выключить освещение.
 
 ### Включите
-`livan_s6_pro_ru_04cd2655` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:52 | doc_type:owners_manual
 или
 выключите
 функцию
@@ -32183,7 +30237,6 @@ OK:
 значка освещения, чтобы выключить его.
 
 ### Внутреннее
-`livan_s6_pro_ru_c005d7e5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:52 | doc_type:owners_manual
 освещение
 заднего ряда сидений*
 Нажмите
@@ -32206,7 +30259,6 @@ OK:
 аккумулятора.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_22803b3c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 2
 8
 7
@@ -32224,7 +30276,6 @@ OK:
 дверей автомобиля
 
 ### Включение освещения
-`livan_s6_pro_ru_3cd4dec9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:53 | doc_type:owners_manual
 •
 В
 условиях
@@ -32239,7 +30290,6 @@ OK:
 положении
 
 ### OFF,
-`livan_s6_pro_ru_75a3f071` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:53 | doc_type:owners_manual
 постепенно
 включится внутреннее освещение.
 •
@@ -32254,7 +30304,6 @@ OK:
 •
 
 ### В
-`livan_s6_pro_ru_19e7119c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 условиях
 низкой
 освещенности,
@@ -32268,7 +30317,6 @@ OK:
 открытии любой двери.
 
 ### Выключение освещения
-`livan_s6_pro_ru_7e720316` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:53 | doc_type:owners_manual
 •
 При
 закрытых
@@ -32301,7 +30349,6 @@ OK:
 •
 
 ### Установите зажигание
-`livan_s6_pro_ru_c671ede2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 в
 положение
 ON,
@@ -32327,7 +30374,6 @@ ON,
 двери будут закрыты.
 
 ### Лампа подсветки багажника
-`livan_s6_pro_ru_9bc39f31` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:53 | doc_type:owners_manual
 При
 открытии
 багажного
@@ -32348,14 +30394,12 @@ ON,
 погаснет.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_fd99cca1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:53 | doc_type:owners_manual
 52
 Внешнее освещение
 Лампа, сигнализирующая об
 экстренном торможении
 
 ### При экстренном торможении автомобиля
-`livan_s6_pro_ru_7a0ba06b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:54 | doc_type:owners_manual
 включится
 аварийная
 световая
@@ -32385,7 +30429,6 @@ ON,
 сзади.
 
 ### Перчаточный
-`livan_s6_pro_ru_8171576b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 ящик
 расположен
 на
@@ -32393,7 +30436,6 @@ ON,
 пассажира.
 
 ### Нажмите
-`livan_s6_pro_ru_fcf2d091` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 кнопку
 открытия
 перчаточного
@@ -32405,7 +30447,6 @@ ON,
 ящик.
 
 ### Толкните
-`livan_s6_pro_ru_30d00507` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 крышку
 перчаточного
 ящика
@@ -32413,7 +30454,6 @@ ON,
 чтобы закрыть его.
 
 ### Верхний отсек для хранения на
-`livan_s6_pro_ru_4217546c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 центральной консоли
 В
 верхней
@@ -32426,7 +30466,6 @@ ON,
 можно
 
 ### Система контроля и управления
-`livan_s6_pro_ru_89232caa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 2
 8
 7
@@ -32443,7 +30482,6 @@ ON,
 предметов, как мобильные телефоны.
 
 ### Отсек для хранения с левой
-`livan_s6_pro_ru_fcee6069` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 стороны
 Модель 1
 Отсек для хранения с левой стороны
@@ -32460,7 +30498,6 @@ ON,
 Модель 2
 
 ### В
-`livan_s6_pro_ru_4ce6a77f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 моделях
 автомобиля,
 оснащенных
@@ -32474,7 +30511,6 @@ ON,
 центральным подлокотником
 
 ### Поднимите
-`livan_s6_pro_ru_52b40c0b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 передний
 центральный
 подлокотник,
@@ -32489,7 +30525,6 @@ ON,
 мелких предметов.
 
 ### Этот автомобиль оснащен несколькими
-`livan_s6_pro_ru_875ee59f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 небольшими
 отсеками
 для
@@ -32503,7 +30538,6 @@ ON,
 хранения мелких предметов.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_f6ae2bd9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 54
 Задний отсек для хранения
 Задний отсек для хранения расположен в
@@ -32516,7 +30550,6 @@ ON,
 хранения мелких предметов.
 
 ### Противосолнечный козырек
-`livan_s6_pro_ru_d511e570` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:56 | doc_type:owners_manual
 и аксессуарное зеркало
 Сторона водителя и сторона переднего
 пассажира
@@ -32534,7 +30567,6 @@ ON,
 вверх.
 
 ### Солнцезащитная
-`livan_s6_pro_ru_0f388bc0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 шторка
 со
 стороны
@@ -32556,7 +30588,6 @@ ON,
 (например, счетов).
 
 ### Система контроля и управления
-`livan_s6_pro_ru_af7f5567` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 2
 8
 7
@@ -32572,7 +30603,6 @@ ON,
 подлокотник
 
 ### Передний
-`livan_s6_pro_ru_32f61a55` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 центральный
 подлокотник
 расположен
@@ -32585,7 +30615,6 @@ ON,
 переднего ряда.
 
 ### Открытый передний центральный
-`livan_s6_pro_ru_6042b476` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 подлокотник
 может
 повлиять
@@ -32594,7 +30623,6 @@ ON,
 может привести к авариям и травмам.
 
 ### Передний центральный подлокотник во
-`livan_s6_pro_ru_adec15d3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 время движения должен оставаться в
 таком
 положении,
@@ -32604,7 +30632,6 @@ ON,
 рисунке.
 
 ### Задний
-`livan_s6_pro_ru_5a0ec78c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 центральный
 подлокотник*
 Задний
@@ -32619,7 +30646,6 @@ ON,
 откинув вниз.
 
 ### На вспомогательной приборной панели
-`livan_s6_pro_ru_cd47a1f6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 имеется подстаканник для размещения
 чайных стаканов или напитков. Кроме
 того,
@@ -32634,7 +30660,6 @@ ON,
 предметы.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_b7e7ef9d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 56
 При использовании подстаканника
 важно избегать резкого трогания с
@@ -32650,7 +30675,6 @@ ON,
 Задний подстаканник*
 
 ### Задний
-`livan_s6_pro_ru_b67c72f2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 подстаканник
 расположен
 в
@@ -32660,14 +30684,12 @@ ON,
 сидений.
 
 ### Откиньте
-`livan_s6_pro_ru_d4b162dc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:58 | doc_type:owners_manual
 вниз
 центральный
 подлокотник, чтобы использовать его.
 Розетка электропитания 12В
 
 ### Резервный
-`livan_s6_pro_ru_ef2a7533` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:58 | doc_type:owners_manual
 источник
 питания
 (12В)
@@ -32686,7 +30708,6 @@ ON,
 вспомогательной приборной панели.
 
 ### Мультимедийный
-`livan_s6_pro_ru_6fe82e6c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:58 | doc_type:owners_manual
 интерфейс
 1. Мультимедийный разъем USB
 2. Разъем USB для зарядки
@@ -32696,7 +30717,6 @@ ON,
 мультимедийным
 
 ### USB
-`livan_s6_pro_ru_191bb6ae` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:58 | doc_type:owners_manual
 разъемом
 и
 разъемом USB для зарядки в передней
@@ -32714,7 +30734,6 @@ ON,
 разъем
 
 ### USB
-`livan_s6_pro_ru_191bb6ae` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 для
 зарядки
 имеет только функцию зарядки.
@@ -32744,7 +30763,6 @@ USB-интерфейс
 только функцию зарядки.
 
 ### Со сторон пассажиров переднего ряда и
-`livan_s6_pro_ru_e375bd46` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 с двух сторон заднего ряда автомобиля
 предусмотрены
 внутренние
@@ -32759,7 +30777,6 @@ USB-интерфейс
 положение при отпускании.
 
 ### Внутренние ручки с обеих сторон заднего
-`livan_s6_pro_ru_59526478` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 ряда
 сидений
 автомобиля
@@ -32767,7 +30784,6 @@ USB-интерфейс
 крючками для одежды пассажиров.
 
 ### Не вешайте тяжелые предметы на
-`livan_s6_pro_ru_e6630119` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 крючки
 для
 одежды,
@@ -32783,7 +30799,6 @@ USB-интерфейс
 шторки безопасности (при наличии).
 
 ### Карман
-`livan_s6_pro_ru_236bef01` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 для
 печатных
 изданий
@@ -32797,7 +30812,6 @@ USB-интерфейс
 карты.
 
 ### Не кладите в карман для печатных
-`livan_s6_pro_ru_3e5df183` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 изданий
 тяжелые
 или
@@ -32805,7 +30819,6 @@ USB-интерфейс
 предметы, чтобы не повредить его.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_0ab0a42f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:59 | doc_type:owners_manual
 58
 Багажник
 Пространство со сложенными сиденьями
@@ -32821,7 +30834,6 @@ USB-интерфейс
 домашних животных.
 
 ### Если вес загруженных предметов
-`livan_s6_pro_ru_1dff3e4c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 превышает
 грузоподъемность
 автомобиля,
@@ -32851,13 +30863,11 @@ USB-интерфейс
 размещения.
 
 ### Предмет
-`livan_s6_pro_ru_8fe50424` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 должен
 располагаться как можно ниже и ближе к
 передней части автомобиля.
 
 ### Погрузка высоких предметов
-`livan_s6_pro_ru_31bcf969` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 При
 загрузке
 высокого
@@ -32874,7 +30884,6 @@ USB-интерфейс
 движения.
 
 ### Погрузка
-`livan_s6_pro_ru_1c9a20b2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:60 | doc_type:owners_manual
 крупногабаритных
 предметов
 При
@@ -32891,7 +30900,6 @@ USB-интерфейс
 движения.
 
 ### Система контроля и управления
-`livan_s6_pro_ru_7d4dd80b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:60 | doc_type:owners_manual
 3
 8
 7
@@ -32905,7 +30913,6 @@ USB-интерфейс
 кондиционирование
 
 ### Система
-`livan_s6_pro_ru_a649338a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 управления
 кондиционером
 1.
@@ -32913,7 +30920,6 @@ USB-интерфейс
 10.
 
 ### Кнопка обдува ног в режиме
-`livan_s6_pro_ru_427a3881` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 подачи воздуха
 2.
 Кнопка оттаивания/ отпотевания
@@ -32921,7 +30927,6 @@ USB-интерфейс
 11.
 
 ### Кнопка обдува ветрового окна в
-`livan_s6_pro_ru_b171a37a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 режиме подачи воздуха
 3.
 Боковые зеркала заднего вида/
@@ -32934,7 +30939,6 @@ USB-интерфейс
 13.
 
 ### Кнопка OFF
-`livan_s6_pro_ru_ba5b15ac` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 5.
 Кнопка G-Clean*
 14.
@@ -32946,7 +30950,6 @@ USB-интерфейс
 7.
 
 ### Клавиша регулировки температуры
-`livan_s6_pro_ru_14e4fee4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:61 | doc_type:owners_manual
 16.
 Клавиша A/C MAX
 8.
@@ -32955,21 +30958,18 @@ USB-интерфейс
 17.
 
 ### Кнопка переключения между
-`livan_s6_pro_ru_89fcb532` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 внутренней/внешней циркуляцией
 9.
 Кнопка обдува лица в режиме
 подачи воздуха
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_7115993a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:61 | doc_type:owners_manual
 60
 В панели управления кондиционером на мультимедийном экране кнопки обдува
 ног, окна и лица в режиме подачи воздуха используются по отдельности, исходя
 из необходимости, также их использование можно комбинировать.
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_afbc08e0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
 3
 8
 7
@@ -32985,7 +30985,6 @@ USB-интерфейс
 управления кондиционером
 
 ### 1. Кнопка настройки кондиционера
-`livan_s6_pro_ru_2fc10753` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:63 | doc_type:owners_manual
 Нажмите эту кнопку, чтобы включить/
 выключить
 функции
@@ -33002,7 +31001,6 @@ USB-интерфейс
 кондиционирования.
 
 ### 2. Кнопка
-`livan_s6_pro_ru_611f2b6a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 оттаивания/
 отпотевания
 ветрового стекла
@@ -33024,7 +31022,6 @@ USB-интерфейс
 размораживанием/отпотеванием.
 
 ### Нажатие
-`livan_s6_pro_ru_29794589` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 на
 кнопку
 регулировки
@@ -33057,7 +31054,6 @@ USB-интерфейс
 циркуляцию.
 
 ### 3. Боковые зеркала заднего вида/кнопка
-`livan_s6_pro_ru_b31cc61c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:63 | doc_type:owners_manual
 оттаивания
 и
 отпотевания
@@ -33093,7 +31089,6 @@ USB-интерфейс
 зеркал заднего вида/ заднего стекла.
 
 ### Не пытайтесь использовать скребок
-`livan_s6_pro_ru_5a2b3997` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 или
 любой
 другой
@@ -33116,14 +31111,12 @@ USB-интерфейс
 расстоянии от окон.
 
 ### 4. Кнопка AQS*
-`livan_s6_pro_ru_26e31d41` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 Нажмите эту кнопку, чтобы выбрать,
 включить
 или
 выключить функцию
 
 ### Активировав
-`livan_s6_pro_ru_f0cbad9c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 функцию
 AQS,
 можно
@@ -33141,7 +31134,6 @@ AQS,
 хороший воздух снаружи.
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_549bffbf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 62
 При
 нажатии
@@ -33173,13 +31165,11 @@ AQS,
 менее идеальный внешний воздух.
 
 ### 6. Кнопка ECO
-`livan_s6_pro_ru_bdff0a21` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 Нажмите эту кнопку, чтобы включить
 или выключить экономичный режим
 работы кондиционера.
 
 ### 7. Клавиша регулировки температуры
-`livan_s6_pro_ru_36800c63` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 Нажмите ∧или ∨над и под значением
 температуры, чтобы увеличить или
 уменьшить
@@ -33190,7 +31180,6 @@ AQS,
 Цельсия.
 
 ### Диапазон
-`livan_s6_pro_ru_eebe58ef` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 регулировки
 температуры
 кондиционера составляет от 17,5 до
@@ -33206,7 +31195,6 @@ AQS,
 ниже 17,5 градусов Цельсия, это LO.
 
 ### 8. Кнопка регулирования интенсивности
-`livan_s6_pro_ru_8465d73d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:64 | doc_type:owners_manual
 вентиляции
 Кнопка
 регулировки
@@ -33244,21 +31232,18 @@ AQS,
 только после запуска автомобиля.
 
 ### 9. Кнопка обдува лица в режиме подачи
-`livan_s6_pro_ru_e1979ed1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 воздуха
 Нажмите эту кнопку, чтобы выбрать
 режим обдува лица в качестве подачи
 воздуха.
 
 ### 10. Кнопка обдува ног в режиме подачи
-`livan_s6_pro_ru_b63b506a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 воздуха
 Нажмите эту кнопку, чтобы выбрать
 режим обдува ног в качестве подачи
 воздуха.
 
 ### 11. Кнопка
-`livan_s6_pro_ru_255b29b3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 обдува
 ветрового
 окна
@@ -33273,7 +31258,6 @@ AQS,
 качестве подачи воздуха.
 
 ### 12. Кнопка подогрева сиденья*
-`livan_s6_pro_ru_ed358d27` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 Нажмите эту кнопку, чтобы перейти к
 интерфейсу
 обогрева
@@ -33283,7 +31267,6 @@ AQS,
 переднего сиденья и передачей.
 
 ### 13. Кнопка OFF
-`livan_s6_pro_ru_2135bb4a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 Когда
 система
 кондиционирования
@@ -33293,7 +31276,6 @@ AQS,
 кнопки
 
 ### OFF остановит всю работу системы
-`livan_s6_pro_ru_d3dffd34` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 кондиционирования.
 14. Кнопка AUTO
 Вы можете регулировать температуру
@@ -33302,7 +31284,6 @@ AQS,
 ощущений.
 
 ### Нажмите
-`livan_s6_pro_ru_9bd1b6f6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 кнопку AUTO, и кондиционер будет
 автоматически
 управлять
@@ -33311,7 +31292,6 @@ AQS,
 внешнюю циркуляцию, режим подачи
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_ed3bfb85` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 3
 8
 7
@@ -33327,7 +31307,6 @@ AQS,
 температуры.
 
 ### В
-`livan_s6_pro_ru_d587a91f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 этот
 момент, если режим подачи воздуха
 отрегулирован вручную или нажата
@@ -33355,7 +31334,6 @@ AUTO будет отключена, а остальные
 кнопку
 
 ### AUTO,
-`livan_s6_pro_ru_93d2f2cb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 чтобы
 активировать работу кондиционера и
 войти в полностью автоматический
@@ -33369,7 +31347,6 @@ AUTO будет отключена, а остальные
 выключения кондиционера.
 
 ### 15. Клавиша A/C
-`livan_s6_pro_ru_dd93322b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:65 | doc_type:owners_manual
 Когда двигатель запустится, нажмите
 эту кнопку, чтобы включить систему
 кондиционирования
@@ -33381,7 +31358,6 @@ AUTO будет отключена, а остальные
 кнопки.
 
 ### Нажмите
-`livan_s6_pro_ru_b27f9ca5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 эту
 кнопку
 еще
@@ -33411,7 +31387,6 @@ AUTO будет отключена, а остальные
 обслуживания LIVAN для очистки.
 
 ### Размещение барьера
-`livan_s6_pro_ru_42365e67` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:65 | doc_type:owners_manual
 перед
 передним
 капотом
@@ -33424,7 +31399,6 @@ AUTO будет отключена, а остальные
 кондиционирования воздуха.
 
 ### Нажмите
-`livan_s6_pro_ru_b27f9ca5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 кнопку
 A/C
 MAX,
@@ -33437,7 +31411,6 @@ MAX,
 максимальную скорость вентилятора.
 
 ### 17. Кнопка
-`livan_s6_pro_ru_793f7b91` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 переключения
 между
 внутренней/внешней циркуляцией
@@ -33457,7 +31430,6 @@ MAX,
 воздуха
 
 ### (AQS)
-`livan_s6_pro_ru_ab552a4e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 состояние
 внутренней
 и
@@ -33477,7 +31449,6 @@ MAX,
 дождя.
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_2ad8758d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:65 | doc_type:owners_manual
 64
 Датчики
 окружающего
@@ -33487,7 +31458,6 @@ MAX,
 света
 
 ### Датчик
-`livan_s6_pro_ru_bf9d3faa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:66 | doc_type:owners_manual
 внешней
 освещенности
 и
@@ -33518,7 +31488,6 @@ MAX,
 фар.
 
 ### Содержите датчик в чистоте и не
-`livan_s6_pro_ru_0cbc5c3f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:66 | doc_type:owners_manual
 наклеивайте на него наклейки и
 другие предметы. В противном случае
 система
@@ -33528,7 +31497,6 @@ MAX,
 должным образом.
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_e88e0519` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:66 | doc_type:owners_manual
 3
 8
 7
@@ -33541,7 +31509,6 @@ MAX,
 Система кондиционирования воздуха и вентиляции
 
 ### Своевременно
-`livan_s6_pro_ru_f855d8cc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:67 | doc_type:owners_manual
 удаляйте
 все
 загрязнения
@@ -33552,7 +31519,6 @@ MAX,
 автомобиль.
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_746c8c06` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:67 | doc_type:owners_manual
 66
 Дефлектора отопителя
 Передние дефлектора
@@ -33564,7 +31530,6 @@ MAX,
 4.
 
 ### Воздуховод
-`livan_s6_pro_ru_8cd1c2a7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:68 | doc_type:owners_manual
 на
 уровне
 ног
@@ -33577,7 +31542,6 @@ MAX,
 5.
 
 ### Боковой
-`livan_s6_pro_ru_65f1a7cc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:68 | doc_type:owners_manual
 воздуховод
 для
 оттаивания
@@ -33587,7 +31551,6 @@ MAX,
 6.
 
 ### Правый
-`livan_s6_pro_ru_239eb99b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:68 | doc_type:owners_manual
 дефлектор
 системы
 вентиляции и отопления
@@ -33603,7 +31566,6 @@ MAX,
 67
 
 ### Задний дефлектор
-`livan_s6_pro_ru_683ac03b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 1.
 Задний дефлектор
 2.
@@ -33611,7 +31573,6 @@ MAX,
 сидений
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_535ea081` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 68
 Регулировка дефлекторов и
 техническое
@@ -33619,7 +31580,6 @@ MAX,
 кондиционера
 
 ### Центральный
-`livan_s6_pro_ru_8155186e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 дефлектор
 можно
 отрегулировать,
@@ -33641,7 +31601,6 @@ MAX,
 регулировки лопастей.
 
 ### Направление
-`livan_s6_pro_ru_24ae7d48` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:70 | doc_type:owners_manual
 левого
 и
 правого
@@ -33651,7 +31610,6 @@ MAX,
 чтобы настраивать направление воздуха.
 
 ### Левый и правый дефлекторы также могут
-`livan_s6_pro_ru_06f88a32` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 закрывать
 поток
 воздуха
@@ -33659,7 +31617,6 @@ MAX,
 регулировки лопастей.
 
 ### Задний
-`livan_s6_pro_ru_f8bfefa5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 дефлектор
 можно
 отрегулировать,
@@ -33674,14 +31631,12 @@ MAX,
 воздуха.
 
 ### Задний
-`livan_s6_pro_ru_f8bfefa5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 дефлектор
 может
 закрывать
 воздух путем регулировки лопастей.
 
 ### Фильтр
-`livan_s6_pro_ru_c4cb531c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 кондиционера
 расположен
 за
@@ -33697,7 +31652,6 @@ MAX,
 чрезвычайно
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_616ca029` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 3
 8
 7
@@ -33712,7 +31666,6 @@ MAX,
 имеет функцию обеззараживания.
 
 ### Для поддержания наилучшего эффекта
-`livan_s6_pro_ru_27649617` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 от фильтрации регулярно проверяйте и
 заменяйте
 фильтрующий
@@ -33721,7 +31674,6 @@ MAX,
 соответствии с данным руководством.
 
 ### Техническое
-`livan_s6_pro_ru_f90bdcd2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 обслуживание
 системы кондиционирования
 •
@@ -33734,7 +31686,6 @@ MAX,
 высокой.
 
 ### В
-`livan_s6_pro_ru_c6f092a5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 этом
 случае
 следует
@@ -33757,7 +31708,6 @@ MAX,
 •
 
 ### Во влажную погоду не допускается
-`livan_s6_pro_ru_93706e42` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:71 | doc_type:owners_manual
 направлять прямой поток холодного
 воздуха
 на
@@ -33770,7 +31720,6 @@ MAX,
 •
 
 ### Закройте
-`livan_s6_pro_ru_16d51d89` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 все
 окна,
 рекомендуется
@@ -33811,14 +31760,12 @@ MAX,
 •
 
 ### Держите пространство под передними
-`livan_s6_pro_ru_8548630c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 сидениями,
 свободной,
 чтобы
 облегчить циркуляцию воздуха.
 
 ### Если вы хотите оставить автомобиль на
-`livan_s6_pro_ru_fdec2b2e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 хранение
 или
 не
@@ -33828,7 +31775,6 @@ MAX,
 течение двух недель или более, дайте
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_8dea4783` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 70
 системе
 кондиционирования
@@ -33847,13 +31793,11 @@ MAX,
 течение пяти минут на холостом ходу.
 
 ### Это позволит полностью смазать систему
-`livan_s6_pro_ru_84884232` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 кондиционирования и свести к минимуму
 вероятность повреждения компрессора
 при повторном запуске системы.
 
 ### Система очистки воздуха
-`livan_s6_pro_ru_0b5a5e2c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:72 | doc_type:owners_manual
 Функция AQS*
 Кнопка
 AQS
@@ -33863,7 +31807,6 @@ AQS
 AQS, данная система запустится.
 
 ### AQS
-`livan_s6_pro_ru_bc3940b8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 определяет
 качество
 воздуха
@@ -33888,7 +31831,6 @@ G-clean*
 функции
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_02fb9726` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 3
 8
 7
@@ -33903,7 +31845,6 @@ G-clean*
 функции
 
 ### A/C
-`livan_s6_pro_ru_96ad8dc2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 данная
 функция
 запускается
@@ -33922,7 +31863,6 @@ G-clean*
 кнопки.
 
 ### После входа в интерфейс кондиционера
-`livan_s6_pro_ru_bd1cd1a4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 нажмите
 «настройкие,
 откроются
@@ -33933,7 +31873,6 @@ self-drying
 кондиционера)
 
 ### 2. Cabin
-`livan_s6_pro_ru_a32de837` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:73 | doc_type:owners_manual
 air
 refresh
 mode
@@ -33941,7 +31880,6 @@ mode
 обновления воздуха в салоне)
 
 ### 3. A/C
-`livan_s6_pro_ru_b53b8f16` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:73 | doc_type:owners_manual
 timing
 ventilation
 (вентиляция
@@ -33949,14 +31887,12 @@ ventilation
 времени)
 
 ### 4. A/C
-`livan_s6_pro_ru_abf67013` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 automation
 level
 (уровень
 автоматизации кондиционера)
 
 ### 5. Air
-`livan_s6_pro_ru_a3fb4a96` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 conditioning
 interface
 hold
@@ -33967,7 +31903,6 @@ time
 кондиционера)
 
 ### A/C
-`livan_s6_pro_ru_96ad8dc2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 self-drying
 (самоочистка
 кондиционера)
@@ -33985,7 +31920,6 @@ self-drying
 и заплесневелостью в испарителе.
 
 ### В интерфейсе настроек кондиционера на
-`livan_s6_pro_ru_3b6f3445` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:73 | doc_type:owners_manual
 экране включите функцию самоосушения
 кондиционера.
 Cabin
@@ -34026,7 +31960,6 @@ mode
 очистки.
 
 ### Включите
-`livan_s6_pro_ru_1c3729db` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:73 | doc_type:owners_manual
 активную
 функцию
 очистки
@@ -34037,7 +31970,6 @@ mode
 кондиционера на экране.
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_04347833` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:73 | doc_type:owners_manual
 72
 Функция вентиляции во время парковки
 может
@@ -34066,7 +31998,6 @@ mode
 экране.
 
 ### Функция проветривания по времени
-`livan_s6_pro_ru_08d0bec4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:74 | doc_type:owners_manual
 включается во время парковки, что
 является
 нормальным
@@ -34078,7 +32009,6 @@ mode
 салона автомобиля.
 
 ### A/C
-`livan_s6_pro_ru_17090710` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:74 | doc_type:owners_manual
 automation
 level
 (уровень
@@ -34090,7 +32020,6 @@ level
 отображения LO или HI нажмите кнопку
 
 ### AUTO,
-`livan_s6_pro_ru_45a78310` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:74 | doc_type:owners_manual
 чтобы
 выбрать
 мягкий,
@@ -34104,7 +32033,6 @@ level
 соответствующим образом.
 
 ### Установите
-`livan_s6_pro_ru_140a9c31` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:74 | doc_type:owners_manual
 автоматический
 уровень
 кондиционирования
@@ -34133,7 +32061,6 @@ time
 установленное время.
 
 ### Установите
-`livan_s6_pro_ru_140a9c31` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:74 | doc_type:owners_manual
 время
 удержания
 кондиционирования
@@ -34144,7 +32071,6 @@ time
 кондиционирования воздуха на экране.
 
 ### Система кондиционирования воздуха
-`livan_s6_pro_ru_b2843ae1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:74 | doc_type:owners_manual
 4
 8
 7
@@ -34161,7 +32087,6 @@ time
 передних сидений
 
 ### Подголовники
-`livan_s6_pro_ru_14b0b3c3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:75 | doc_type:owners_manual
 передних
 сидений
 являются
@@ -34171,7 +32096,6 @@ time
 регулируются.
 
 ### Ручная
-`livan_s6_pro_ru_e8877e58` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:75 | doc_type:owners_manual
 регулировка
 сиденья
 водителя
@@ -34185,7 +32109,6 @@ time
 и спереди от сиденья соответственно.
 
 ### 1. Рычаг
-`livan_s6_pro_ru_cb62c04a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:75 | doc_type:owners_manual
 для
 регулировки
 сиденья
@@ -34193,7 +32116,6 @@ time
 2. Ручка регулировки сиденья по высоте
 
 ### 3. Ручка
-`livan_s6_pro_ru_82493400` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:75 | doc_type:owners_manual
 для
 регулирования
 наклона
@@ -34201,7 +32123,6 @@ time
 Регулировка сиденья вперед и назад
 
 ### Возьмитесь
-`livan_s6_pro_ru_2fd04c83` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:75 | doc_type:owners_manual
 за
 середину
 рычага
@@ -34225,7 +32146,6 @@ time
 вплоть до его фиксации.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_4a127c90` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:75 | doc_type:owners_manual
 74
 Когда ручка регулировки высоты сиденья
 поднимется
@@ -34238,14 +32158,12 @@ time
 уменьшится.
 
 ### Отрегулируйте
-`livan_s6_pro_ru_92e4af2a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:76 | doc_type:owners_manual
 сиденье
 на
 желаемую
 высоту и отпустите ручку регулировки.
 
 ### Регулирование угла наклона спинки
-`livan_s6_pro_ru_8ce36e7a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:76 | doc_type:owners_manual
 сиденья
 Если необходимо
 отрегулировать
@@ -34276,7 +32194,6 @@ time
 спинку;
 
 ### Если необходимо
-`livan_s6_pro_ru_7497d8af` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:76 | doc_type:owners_manual
 отрегулировать
 угол
 наклона спинки в направлении вперед,
@@ -34304,7 +32221,6 @@ time
 автомобиля.
 
 ### В
-`livan_s6_pro_ru_4664032b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:76 | doc_type:owners_manual
 противном
 случае при аварии возможны травмы или
 смерть.
@@ -34319,7 +32235,6 @@ time
 положения.
 
 ### Сиденье
-`livan_s6_pro_ru_b3cbec5e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:76 | doc_type:owners_manual
 водителя
 с
 электронной регулировкой*
@@ -34329,7 +32244,6 @@ time
 сиденья.
 
 ### Не кладите предметы под сиденье
-`livan_s6_pro_ru_fd51bba7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:76 | doc_type:owners_manual
 с
 электроприводом
 и
@@ -34340,14 +32254,12 @@ time
 сиденья или кронштейна двигателя.
 
 ### 1. Переключатель
-`livan_s6_pro_ru_f8f43c0a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:76 | doc_type:owners_manual
 для
 регулировки
 высоты сиденья/ движения сиденья
 вперед-назад
 
 ### 2. Переключатель для регулировки угла
-`livan_s6_pro_ru_dcc76c64` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:76 | doc_type:owners_manual
 наклона спинки
 Сиденья и устройства защиты
 4
@@ -34361,7 +32273,6 @@ time
 75
 
 ### Передвиньте переключатель регулировки
-`livan_s6_pro_ru_db2ec2da` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:77 | doc_type:owners_manual
 сиденья вперед и назад/ по высоте в
 направлении
 стрелки,
@@ -34371,7 +32282,6 @@ time
 При нормальной температуре (25°
 
 ### С),
-`livan_s6_pro_ru_072b2b35` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:77 | doc_type:owners_manual
 если
 сработала
 защита
@@ -34388,7 +32298,6 @@ time
 разблокирован.
 
 ### Передвиньте переключатель регулировки
-`livan_s6_pro_ru_db2ec2da` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:77 | doc_type:owners_manual
 сиденья вперед и назад/ по высоте в
 направлении
 стрелки,
@@ -34397,7 +32306,6 @@ time
 двигаться вверх или вниз.
 
 ### Регулирование угла наклона спинки
-`livan_s6_pro_ru_ce76b6fa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 сиденья
 Нажмите переключатель для регулировки
 угла
@@ -34408,7 +32316,6 @@ time
 стрелки, чтобы отрегулировать наклон.
 
 ### Ручное
-`livan_s6_pro_ru_fee9bd77` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:77 | doc_type:owners_manual
 регулирование
 переднего
 пассажирского
@@ -34428,7 +32335,6 @@ time
 соответственно.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_c72fe469` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 76
 1. Ручка
 для
@@ -34437,7 +32343,6 @@ time
 спинки сиденья
 
 ### 2. Рычаг
-`livan_s6_pro_ru_cf08e573` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 для
 регулировки
 сиденья
@@ -34453,7 +32358,6 @@ time
 водителя.
 
 ### Регулирование
-`livan_s6_pro_ru_73b53cb5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 подголовника
 задних сидений
 Нажатие на кнопку на боковой части
@@ -34466,7 +32370,6 @@ time
 вертикально.
 
 ### Характерный
-`livan_s6_pro_ru_09082ce3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 щелчок
 означает, что положение подголовника
 зафиксировано. При помощи нажатия на
@@ -34474,7 +32377,6 @@ time
 подголовник.
 
 ### Складывание спинки
-`livan_s6_pro_ru_68d56d17` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:78 | doc_type:owners_manual
 заднего
 сиденья
 Заднее сиденье полностью фиксируется
@@ -34482,7 +32384,6 @@ time
 6/4 и может складываться.
 
 ### 1. Тяните
-`livan_s6_pro_ru_e811c7f4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 ручку
 для
 разблокировки
@@ -34490,7 +32391,6 @@ time
 пока спинка не разблокируется;
 
 ### 2. Потяните
-`livan_s6_pro_ru_0f37e63a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:78 | doc_type:owners_manual
 вперед,
 чтобы
 сложить
@@ -34535,7 +32435,6 @@ time
 сиденья.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_3e1c906c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 4
 8
 7
@@ -34549,7 +32448,6 @@ time
 Подогрев передних сидений
 
 ### Чтобы при необходимости включить или
-`livan_s6_pro_ru_a7244c4d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:79 | doc_type:owners_manual
 выключить функцию обогрева переднего
 сиденья,
 после
@@ -34567,7 +32465,6 @@ time
 дисплея.
 
 ### Подогрев сиденья водителя и переднего
-`livan_s6_pro_ru_f11d3d98` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 пассажира
 можно
 регулировать
@@ -34643,7 +32540,6 @@ time
 •
 
 ### Устройство обогрева сидений можно
-`livan_s6_pro_ru_9b6925fe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:79 | doc_type:owners_manual
 включать
 только
 при
@@ -34666,7 +32562,6 @@ time
 •
 
 ### Не кладите чехол спинки сиденья на
-`livan_s6_pro_ru_f007f2e4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:79 | doc_type:owners_manual
 сиденье
 во
 время
@@ -34677,7 +32572,6 @@ time
 сиденья
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_c93f58f3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 78
 В
 исходном
@@ -34688,7 +32582,6 @@ time
 Пункт
 
 ### Параметры
-`livan_s6_pro_ru_cbc3effb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 Си
 де
 нье
@@ -34705,7 +32598,6 @@ time
 назад - 50 мм)
 
 ### Регули
-`livan_s6_pro_ru_d0798ff2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 рова
 ние
 спинки
@@ -34714,7 +32606,6 @@ time
 48°)
 
 ### Регули
-`livan_s6_pro_ru_d0798ff2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 рова
 ние
 высот
@@ -34734,7 +32625,6 @@ time
 е
 
 ### Регули
-`livan_s6_pro_ru_d0798ff2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 рова
 ние
 впе
@@ -34744,7 +32634,6 @@ time
 назад - 50 мм)
 
 ### Ремень безопасности
-`livan_s6_pro_ru_c18ad606` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:80 | doc_type:owners_manual
 Общие
 сведения
 о
@@ -34766,7 +32655,6 @@ time
 эксплуатацию ремня безопасности.
 
 ### Ненадлежащее
-`livan_s6_pro_ru_a80d4ffd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 использование
 ремня
 или
@@ -34780,7 +32668,6 @@ time
 травмам.
 
 ### Правильное
-`livan_s6_pro_ru_5e775861` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 использование
 ремня
 безопасности
@@ -34792,7 +32679,6 @@ time
 свойства.
 
 ### Правильное
-`livan_s6_pro_ru_5e775861` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 использование
 ремня
 безопасности
@@ -34808,7 +32694,6 @@ time
 безопасности.
 
 ### Пассажирам
-`livan_s6_pro_ru_7570db28` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 запрещается
 садиться
 в
@@ -34821,7 +32706,6 @@ time
 сиденья с неисправными ремнями.
 
 ### Данный
-`livan_s6_pro_ru_a08fe9eb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:80 | doc_type:owners_manual
 автомобиль
 оборудован
 световым сигналом, предупреждающим о
@@ -34851,7 +32735,6 @@ time
 тяжести. Во многих подобных аварийных
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_c3bccbc0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:80 | doc_type:owners_manual
 4
 8
 7
@@ -34885,7 +32768,6 @@ time
 тесно связаны!
 
 ### Какова
-`livan_s6_pro_ru_9e5489bf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 защитная
 роль
 ремня безопасности
@@ -34900,13 +32782,11 @@ time
 скорость
 
 ### Вашего
-`livan_s6_pro_ru_1f411f81` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 движения
 соответствует скорости движения такого
 объекта.
 
 ### Рассмотрим
-`livan_s6_pro_ru_253eea63` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:81 | doc_type:owners_manual
 на
 примере
 простейшего
@@ -34933,14 +32813,12 @@ time
 останавливается.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_69f1e38f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 80
 Человек продолжит движение до тех пор,
 пока какой-то объект не преградит ему
 путь.
 
 ### В
-`livan_s6_pro_ru_6927e65f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:82 | doc_type:owners_manual
 реальном
 автомобиле
 таким
@@ -34967,14 +32845,12 @@ time
 скелет.
 
 ### Именно
-`livan_s6_pro_ru_a741e886` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:82 | doc_type:owners_manual
 поэтому
 важно
 использовать ремень безопасности.
 Правильная посадка
 
 ### Правильное сидячее положение крайне
-`livan_s6_pro_ru_c317f0c9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:82 | doc_type:owners_manual
 важно для лучшей защиты с помощью
 подушки и ремня безопасности. Сиденья
 водителя
@@ -35014,7 +32890,6 @@ time
 ремня безопасности.
 
 ### Во время движения не наклоняйте
-`livan_s6_pro_ru_08f55c38` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:82 | doc_type:owners_manual
 сиденье
 слишком
 сильно
@@ -35037,7 +32912,6 @@ time
 исходу.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_14b046fc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:82 | doc_type:owners_manual
 4
 8
 7
@@ -35057,7 +32931,6 @@ time
 между телом и подушкой безопасности.
 
 ### Правильная посадка водителя является
-`livan_s6_pro_ru_0263d354` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 крайне
 важным
 для
@@ -35072,7 +32945,6 @@ time
 травм.
 
 ### Водителю
-`livan_s6_pro_ru_124d316f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 рекомендуется осуществить следующие
 регулировки:
 •
@@ -35081,7 +32953,6 @@ time
 •
 
 ### Регулировка
-`livan_s6_pro_ru_1e1bd741` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:83 | doc_type:owners_manual
 сиденья
 вперед-назад:
 удобное для водителя положение для
@@ -35093,14 +32964,12 @@ time
 •
 
 ### Регулировка
-`livan_s6_pro_ru_1e1bd741` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 подголовника:
 подголовник должен быть правильно
 отрегулирован по высоте.
 •
 
 ### Спинка сиденья должна находиться в
-`livan_s6_pro_ru_b15215fb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 положении
 «сидяе,
 спина
@@ -35109,7 +32978,6 @@ time
 •
 
 ### Ремень
-`livan_s6_pro_ru_0427bade` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:83 | doc_type:owners_manual
 безопасности
 должен
 быть
@@ -35120,7 +32988,6 @@ time
 пассажира
 
 ### Для Вашей собственной безопасности и
-`livan_s6_pro_ru_9599f866` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 во избежание риска получения травм
 пассажиру
 переднего
@@ -35129,7 +32996,6 @@ time
 •
 
 ### Соблюдать
-`livan_s6_pro_ru_f95f8d25` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 расстояние
 между
 пассажиром и приборной панелью не
@@ -35137,7 +33003,6 @@ time
 •
 
 ### Регулировка
-`livan_s6_pro_ru_1e1bd741` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 подголовника
 должна
 быть
@@ -35148,7 +33013,6 @@ time
 прилегала к нему.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_c1a2ac0b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:83 | doc_type:owners_manual
 82
 •
 Ремень
@@ -35162,14 +33026,12 @@ time
 ремень безопасности
 
 ### Информация
-`livan_s6_pro_ru_bd015be2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 в
 данном
 разделе
 относится только ко взрослым людям.
 
 ### В первую очередь перед использованием
-`livan_s6_pro_ru_e8d1e23e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 ремней безопасности Вы или пассажиры
 автомобиля должны узнать
 некоторую
@@ -35197,7 +33059,6 @@ time
 безопасности, это крайне важно.
 
 ### В
-`livan_s6_pro_ru_fcaf5561` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 соответствии
 со
 статистическими
@@ -35221,7 +33082,6 @@ time
 пристегнутыми пассажирами.
 
 ### В
-`livan_s6_pro_ru_fcaf5561` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 сидячем
 положении
 необходимо
@@ -35233,7 +33093,6 @@ time
 собой.
 
 ### Нижняя
-`livan_s6_pro_ru_c0352204` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 часть
 ремня
 в
@@ -35254,7 +33113,6 @@ time
 ремня должна пересекать плечо и грудь.
 
 ### Именно
-`livan_s6_pro_ru_7d2f2200` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:84 | doc_type:owners_manual
 эти
 части
 тела
@@ -35296,7 +33154,6 @@ time
 ремнями безопасности.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_624dc2d7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 4
 8
 7
@@ -35324,7 +33181,6 @@ time
 живота.
 
 ### Беременная
-`livan_s6_pro_ru_47f7ce3e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:85 | doc_type:owners_manual
 женщина
 должна
 сидеть как можно прямее, в отдалении от
@@ -35336,7 +33192,6 @@ time
 безопасности.
 
 ### Лучший
-`livan_s6_pro_ru_8e55089f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 способ
 защитить
 ребенка
@@ -35359,7 +33214,6 @@ time
 использования ремня безопасности.
 
 ### Регулятор
-`livan_s6_pro_ru_f4b21a83` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 высоты
 ремня
 безопасности
@@ -35375,7 +33229,6 @@ time
 высоты плеча.
 
 ### Отрегулируйте
-`livan_s6_pro_ru_4b3e2eef` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 высоту
 таким
 образом,
@@ -35399,7 +33252,6 @@ time
 плечо.
 
 ### Неправильная
-`livan_s6_pro_ru_7bde6969` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 регулировка
 высоты
 ремня
@@ -35424,7 +33276,6 @@ time
 вверх.
 
 ### После перемещения регулятора в нужное
-`livan_s6_pro_ru_b84f9326` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 положение
 отпустите
 кнопку
@@ -35434,7 +33285,6 @@ time
 на месте.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_4bd0eeb2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:85 | doc_type:owners_manual
 84
 Трехточечный
 ремень
@@ -35453,7 +33303,6 @@ time
 безопасности.
 
 ### 1. Возьмитесь за язычок крепления и
-`livan_s6_pro_ru_f722fa24` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:86 | doc_type:owners_manual
 потяните ремень, пересекая тело. Не
 позволяйте ремню перекручиваться.
 Если
@@ -35473,7 +33322,6 @@ time
 пересекая тело.
 
 ### 2. Вставьте
-`livan_s6_pro_ru_f4264329` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 язычок
 крепления
 в
@@ -35488,7 +33336,6 @@ time
 фиксации.
 
 ### Удостоверьтесь в положении кнопки
-`livan_s6_pro_ru_05c2e80a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:86 | doc_type:owners_manual
 разблокировки
 на
 застежке,
@@ -35497,7 +33344,6 @@ time
 необходимости.
 
 ### 3. Потянув плечевую часть ремня вверх,
-`livan_s6_pro_ru_4a6ddd5c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:86 | doc_type:owners_manual
 можно затянуть нижнюю часть.
 4. Для того чтобы отстегнуть ремень,
 нажмите
@@ -35508,7 +33354,6 @@ time
 застежке.
 
 ### Позвольте
-`livan_s6_pro_ru_3f070a25` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 ремню
 вернуться в исходное положение.
 Не допускайте попадания в замок
@@ -35551,7 +33396,6 @@ time
 к
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_faf0e399` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 4
 8
 7
@@ -35567,7 +33411,6 @@ time
 летальному исходу.
 
 ### Чтобы избежать травмирования при
-`livan_s6_pro_ru_f9bab8cf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:87 | doc_type:owners_manual
 слишком быстрой перемотке ремня
 или заедания при слишком медленной
 перемотке,
@@ -35590,7 +33433,6 @@ time
 ремень.
 
 ### Преднатяжитель
-`livan_s6_pro_ru_51f66b89` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:87 | doc_type:owners_manual
 ремня
 безопасности
 (согласно
@@ -35618,7 +33460,6 @@ time
 столкновения.
 
 ### Преднатяжитель работает только один
-`livan_s6_pro_ru_dd22925e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:87 | doc_type:owners_manual
 раз.
 В
 случае
@@ -35642,7 +33483,6 @@ time
 «Сиденья и устройства защитые.
 
 ### Сигнализатор непристегнутого
-`livan_s6_pro_ru_212f270d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:87 | doc_type:owners_manual
 ремня безопасности
 Передние
 и
@@ -35666,7 +33506,6 @@ time
 безопасности.
 
 ### Информацию
-`livan_s6_pro_ru_2e8dca63` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:87 | doc_type:owners_manual
 о
 расположении
 предупреждающих
@@ -35688,7 +33527,6 @@ time
 •
 
 ### Звуковой
-`livan_s6_pro_ru_f6f8e075` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:87 | doc_type:owners_manual
 сигнал
 находится
 в
@@ -35733,7 +33571,6 @@ time
 ч, а затем повторном ее увеличении до
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_45d57865` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:87 | doc_type:owners_manual
 86
 25
 км/ч,
@@ -35799,7 +33636,6 @@ time
 пристегнуты.
 
 ### Правильное пристегивание ремня
-`livan_s6_pro_ru_dbf97fa1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 безопасности может сократить риск
 получения
 травм
@@ -35814,7 +33650,6 @@ time
 время движения автомобиля.
 
 ### Игнорирование
-`livan_s6_pro_ru_529a1701` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 горящих
 сигнальных
 ламп,
@@ -35836,7 +33671,6 @@ time
 происшествию.
 
 ### Обслуживание
-`livan_s6_pro_ru_aa00207f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 и
 замена
 ремня безопасности
@@ -35845,7 +33679,6 @@ time
 безопасности
 
 ### Регулярно проводите проверку системы
-`livan_s6_pro_ru_5e910229` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:88 | doc_type:owners_manual
 безопасности
 в
 соответствии
@@ -35890,7 +33723,6 @@ time
 •
 
 ### Сохраняйте
-`livan_s6_pro_ru_8b549126` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:88 | doc_type:owners_manual
 ремень
 безопасности
 сухим и чистым.
@@ -35899,7 +33731,6 @@ time
 безопасности
 
 ### Сохраняйте ремень безопасности сухим
-`livan_s6_pro_ru_4d2f5ea4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:88 | doc_type:owners_manual
 и чистым.
 Не отбеливайте и не окрашивайте
 ремень безопасности. Это может
@@ -35919,7 +33750,6 @@ time
 воду.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_15ceefec` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 4
 8
 7
@@ -35935,7 +33765,6 @@ time
 безопасности.
 
 ### В случае небольшой аварии посетите
-`livan_s6_pro_ru_9e8bb9d0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 центр технического обслуживания LIVAN,
 чтобы провести диагностику или замену
 блока ремня безопасности. Даже если во
@@ -35948,7 +33777,6 @@ time
 все равно необходима.
 
 ### Автомобильная
-`livan_s6_pro_ru_bf04eeee` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 авария
 может
 привести
@@ -35961,7 +33789,6 @@ time
 безопасности.
 
 ### Необходимо
-`livan_s6_pro_ru_6a1fa91f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 как
 можно
 скорее
@@ -35971,7 +33798,6 @@ time
 дилеру LIVAN для его замены.
 
 ### Общие сведения о подушке
-`livan_s6_pro_ru_9157cb55` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:89 | doc_type:owners_manual
 безопасности
 Подушка
 безопасности
@@ -36006,7 +33832,6 @@ time
 травмам.
 
 ### Именно
-`livan_s6_pro_ru_21243813` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 поэтому
 во
 время
@@ -36014,7 +33839,6 @@ time
 автомобиле, должны быть пристегнуты.
 
 ### Подушка безопасности срабатывает не
-`livan_s6_pro_ru_8a02d47d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:89 | doc_type:owners_manual
 во всех случаях. Это зависит от места и
 угла удара, степени удара, характера
 объекта
@@ -36024,7 +33848,6 @@ time
 факторов.
 
 ### Подушка безопасности раскрывается с
-`livan_s6_pro_ru_7a6e8312` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:89 | doc_type:owners_manual
 большой
 силой.
 Если
@@ -36072,7 +33895,6 @@ time
 безопасности.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_44a61641` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:89 | doc_type:owners_manual
 88
 На
 пути
@@ -36086,13 +33908,11 @@ time
 помех.
 
 ### Нельзя
-`livan_s6_pro_ru_3253309a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 помещать
 какие бы то ни было предметы между
 пассажиром и подушкой безопасности.
 
 ### При наличии помех между пассажиром и
-`livan_s6_pro_ru_ba4987d9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 подушкой
 безопасности
 при
@@ -36111,12 +33931,10 @@ time
 травмам или летальному исходу.
 
 ### При срабатывании подушки безопасности
-`livan_s6_pro_ru_32828ef5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 ее детали могут быть горячими, поэтому
 не прикасайтесь к ним.
 
 ### При срабатывании подушки безопасности
-`livan_s6_pro_ru_32828ef5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 может
 выбрасываться
 некоторое
@@ -36141,7 +33959,6 @@ time
 неисправности.
 
 ### Запрещается
-`livan_s6_pro_ru_b2390b0b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 дополнительно
 устанавливать
 или
@@ -36150,13 +33967,11 @@ time
 безопасности.
 
 ### Категорически
-`livan_s6_pro_ru_5033e1ed` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 запрещается без разрешения изменять
 конструкцию автомобиля и жгут проводов
 системы подушек безопасности.
 
 ### Система подушки безопасности может
-`livan_s6_pro_ru_d5feea77` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 быть использована только один раз. Если
 подушка
 безопасности
@@ -36169,7 +33984,6 @@ time
 замены.
 
 ### Дети и подростки могут получить
-`livan_s6_pro_ru_363065a8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 серьезные травмы или умереть при
 срабатывании
 подушки
@@ -36187,13 +34001,11 @@ time
 безопасности.
 
 ### LIVAN
-`livan_s6_pro_ru_f0f91741` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 настоятельно рекомендует, чтобы дети и
 подростки сидели на задних сиденьях,
 используя надлежащие средства защиты.
 
 ### Положение
-`livan_s6_pro_ru_9c0f3497` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 подушки
 безопасности
 Фронтальная
@@ -36233,7 +34045,6 @@ time
 панелью.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_67d2056c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 4
 8
 7
@@ -36261,7 +34072,6 @@ time
 надписью «AIRBAGе.
 
 ### Фронтальная
-`livan_s6_pro_ru_64238ed7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 подушка
 безопасности
 не
@@ -36275,7 +34085,6 @@ time
 остановке.
 
 ### Подушка
-`livan_s6_pro_ru_25677496` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 безопасности
 срабатывает
 за
@@ -36330,7 +34139,6 @@ time
 летального исхода пассажира.
 
 ### Запрещается
-`livan_s6_pro_ru_09352e30` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 переоборудовать,
 разбирать, ударять или открывать какиелибо
 части
@@ -36351,7 +34159,6 @@ time
 летальному исходу.
 
 ### При пользовании автомобилем не
-`livan_s6_pro_ru_46555d33` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 нужно
 садиться
 рядом
@@ -36368,7 +34175,6 @@ time
 подушкой или слишком близко к ней.
 
 ### Водитель и пассажир должны соблюдать
-`livan_s6_pro_ru_a10e9971` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 расстояние
 в
 как
@@ -36377,7 +34183,6 @@ time
 сантиметров от подушки безопасности.
 
 ### Нельзя сидеть на переднем сиденье с
-`livan_s6_pro_ru_263a5d3a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 ребенком
 на
 коленях.
@@ -36409,7 +34214,6 @@ time
 центр технического обслуживания LIVAN:
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_86639edf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 90
 •
 После
@@ -36437,7 +34241,6 @@ time
 безопасности.
 
 ### Боковые
-`livan_s6_pro_ru_fbef1767` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 подушки
 безопасности
 Боковые
@@ -36467,7 +34270,6 @@ time
 переднего ряда.
 
 ### Боковые
-`livan_s6_pro_ru_fbef1767` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 подушки
 безопасности
 установлены в спинках сидений водителя
@@ -36506,7 +34308,6 @@ time
 серьезным травмам.
 
 ### Запрещается устанавливать чехлы
-`livan_s6_pro_ru_6ab3e531` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 на сиденья, оснащенные боковыми
 подушками
 безопасности,
@@ -36525,7 +34326,6 @@ time
 •
 
 ### Боковая
-`livan_s6_pro_ru_f4f5e54d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 подушка
 безопасности
 раскрылась.
@@ -36555,13 +34355,11 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Устанавливать
-`livan_s6_pro_ru_66cc68a5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:92 | doc_type:owners_manual
 электронное
 оборудование, такое как мобильные
 устройства двусторонней радиосвязи,
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_88395e09` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 4
 8
 7
@@ -36578,7 +34376,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Изменять
-`livan_s6_pro_ru_9138d3b9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 боковую
 конструкцию
 со
@@ -36588,7 +34385,6 @@ LIVAN запрещается вносить какие-либо
 безопасности*
 
 ### Боковые
-`livan_s6_pro_ru_7791fdfe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 шторки
 безопасности
 обеспечивают
@@ -36626,7 +34422,6 @@ LIVAN запрещается вносить какие-либо
 заднего ряда.
 
 ### Боковые
-`livan_s6_pro_ru_7791fdfe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:93 | doc_type:owners_manual
 шторки
 безопасности
 устанавливаются над дверями с левой и
@@ -36703,7 +34498,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Боковая
-`livan_s6_pro_ru_e5c499d8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 шторка
 безопасности
 раскрылась.
@@ -36730,7 +34524,6 @@ LIVAN запрещается вносить какие-либо
 повреждения.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_970b5005` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 92
 Без
 консультации
@@ -36744,7 +34537,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Устанавливать
-`livan_s6_pro_ru_667641aa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:94 | doc_type:owners_manual
 электронное
 оборудование, такое как мобильные
 устройства двусторонней радиосвязи,
@@ -36757,7 +34549,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Выполнять ремонт на консоли или
-`livan_s6_pro_ru_45f9f3e1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 рядом с ней.
 Срабатывание
 подушки
@@ -36767,7 +34558,6 @@ LIVAN запрещается вносить какие-либо
 подушки безопасности
 
 ### Фронтальная
-`livan_s6_pro_ru_3440c08f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 подушка
 безопасности
 срабатывает при движении автомобиля
@@ -36793,7 +34583,6 @@ LIVAN запрещается вносить какие-либо
 безопасности.
 
 ### Водитель и пассажир переднего сиденья
-`livan_s6_pro_ru_511474c8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 должны отрегулировать положения своих
 сидений на достаточном расстоянии от
 фронтальной подушки безопасности.
@@ -36810,7 +34599,6 @@ LIVAN запрещается вносить какие-либо
 необходимо ли срабатывание подушки.
 
 ### Функционирование
-`livan_s6_pro_ru_47a9e946` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 подушки
 безопасности
 зависит
@@ -36834,7 +34622,6 @@ LIVAN запрещается вносить какие-либо
 ударе.
 
 ### Срабатывание
-`livan_s6_pro_ru_32339ca3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 подушки
 безопасности
 не
@@ -36846,7 +34633,6 @@ LIVAN запрещается вносить какие-либо
 автомобиля.
 
 ### При серьезном лобовом столкновении
-`livan_s6_pro_ru_9c469f8e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 срабатывают две фронтальные подушки
 безопасности.
 Сиденья и устройства защиты
@@ -36861,7 +34647,6 @@ LIVAN запрещается вносить какие-либо
 93
 
 ### Срабатывание
-`livan_s6_pro_ru_39dc0f08` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 боковых
 подушек
 и
@@ -36906,7 +34691,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### При столкновении во время движения
-`livan_s6_pro_ru_3052e3be` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 со
 ступенями
 и
@@ -36918,7 +34702,6 @@ LIVAN запрещается вносить какие-либо
 или ров.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_e041de4a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 94
 •
 При наезде на (врезании в) заднюю
@@ -36931,7 +34714,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### При наличии неисправности системы
-`livan_s6_pro_ru_a19d9933` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 подушки безопасности.
 •
 При других непредвиденных условиях.
@@ -36941,7 +34723,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Лобовое
-`livan_s6_pro_ru_e486a7db` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:96 | doc_type:owners_manual
 или
 почти
 лобовое
@@ -36950,7 +34731,6 @@ LIVAN запрещается вносить какие-либо
 Столкновение сзади.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_ca0f5e25` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 4
 8
 7
@@ -36984,13 +34764,11 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### При наличии неисправности системы
-`livan_s6_pro_ru_5a6d952d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 подушки безопасности.
 •
 При других непредвиденных условиях.
 
 ### Обслуживание
-`livan_s6_pro_ru_a1a876e5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 и
 замена
 подушки безопасности
@@ -37028,7 +34806,6 @@ LIVAN запрещается вносить какие-либо
 сигнала.
 
 ### Автомобильная
-`livan_s6_pro_ru_074213dd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 авария
 может
 привести
@@ -37059,7 +34836,6 @@ LIVAN запрещается вносить какие-либо
 безопасности.
 
 ### Если произошло срабатывание подушки
-`livan_s6_pro_ru_de59f1e8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 безопасности,
 необходима
 замена
@@ -37072,7 +34848,6 @@ LIVAN запрещается вносить какие-либо
 проведения ремонта.
 
 ### Если при движении автомобиля светится
-`livan_s6_pro_ru_ba465a2b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:97 | doc_type:owners_manual
 лампа
 сигнализации
 о
@@ -37097,7 +34872,6 @@ LIVAN запрещается вносить какие-либо
 для проведения диагностики.
 
 ### При продаже автомобиля позаботьтесь о
-`livan_s6_pro_ru_def39825` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 том, чтобы новый владелец был в курсе
 даты замены подушки безопасности и ее
 системы.
@@ -37109,7 +34883,6 @@ LIVAN запрещается вносить какие-либо
 использования,
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_3d4454f1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 96
 несработавшая
 подушка
@@ -37123,7 +34896,6 @@ LIVAN запрещается вносить какие-либо
 специалистом в специальных условиях.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_dccf4835` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:98 | doc_type:owners_manual
 4
 8
 7
@@ -37137,14 +34909,12 @@ LIVAN запрещается вносить какие-либо
 детского кресла
 
 ### Данные по совместимости всех сидений с детским креслом в условиях фиксации
-`livan_s6_pro_ru_05eed620` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 детского кресла ремнями безопасности:
 Груп
 па
 Вес ребенка
 
 ### Положение
-`livan_s6_pro_ru_4fd295a3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 места
 пассажира
 переднего ряда
@@ -37155,7 +34925,6 @@ LIVAN запрещается вносить какие-либо
 сбоку
 
 ### Положение
-`livan_s6_pro_ru_4fd295a3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 места
 пассажира
 заднего ряда
@@ -37166,7 +34935,6 @@ X
 U
 
 ### X
-`livan_s6_pro_ru_994508a7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 0+
 <13 КГ
 X
@@ -37186,7 +34954,6 @@ X
 22-36 кг
 
 ### X
-`livan_s6_pro_ru_994508a7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 Смысл условных обозначений в таблице выше: U = универсальный тип детской
 удерживающей системы, утвержденный для использования для этой весовой группы; X
 = детская удерживающая система, неподходящая для этой весовой группы.
@@ -37194,7 +34961,6 @@ X
 в детском кресле детской системы защиты ISOFIX:
 
 ### Группа
-`livan_s6_pro_ru_86f5ae2c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 Вес
 ребенка
 Катего
@@ -37212,7 +34978,6 @@ X
 го ряда
 
 ### Положе
-`livan_s6_pro_ru_a4156d3b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 ние
 места
 пассажи
@@ -37236,7 +35001,6 @@ X
 -
 
 ### X
-`livan_s6_pro_ru_994508a7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 0
 <10 КГ
 E
@@ -37254,7 +35018,6 @@ X
 D
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_9716951b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 98
 Группа
 Вес
@@ -37267,7 +35030,6 @@ D
 и
 
 ### Положе
-`livan_s6_pro_ru_bf111d23` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:100 | doc_type:owners_manual
 ние
 места
 пассажи
@@ -37284,7 +35046,6 @@ D
 сбоку
 
 ### Положе
-`livan_s6_pro_ru_bf111d23` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:100 | doc_type:owners_manual
 ние
 места
 пассажи
@@ -37297,7 +35058,6 @@ C
 ISO/R3
 
 ### Ⅰ
-`livan_s6_pro_ru_2e9da912` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:100 | doc_type:owners_manual
 9-18 кг
 D
 ISO/R2
@@ -37315,7 +35075,6 @@ X
 IUF
 
 ### X
-`livan_s6_pro_ru_e1eb54c7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:100 | doc_type:owners_manual
 Смысл условных обозначений в таблице выше: IL = на данном сиденье используется
 детское кресло категории ISOFIX, указанное в перечне, сопровождающем автомобиль;
 используется вместе с сиденьем; IUF = на данном сиденье используется детское кресло
@@ -37323,7 +35082,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 крепежным кольцом для системы ISOFIX.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_ad4f2b14` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:100 | doc_type:owners_manual
 4
 8
 7
@@ -37338,12 +35096,10 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 защитных устройств
 
 ### Новорожденные и малолетние
-`livan_s6_pro_ru_600b60db` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 дети и дети старшего возраста
 Новорожденные и малолетние дети
 
 ### Все находящиеся в автомобиле люди
-`livan_s6_pro_ru_aee79102` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 должны быть защищены! В том числе и
 новорожденные
 и
@@ -37351,7 +35107,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 дети.
 
 ### Протяженность
-`livan_s6_pro_ru_aebde593` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 маршрута,
 а
 также
@@ -37365,7 +35120,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 безопасности.
 
 ### Если плечевой ремень обмотается
-`livan_s6_pro_ru_338ec072` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:101 | doc_type:owners_manual
 вокруг
 шеи
 ребенка,
@@ -37390,7 +35144,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 ремнями безопасности.
 
 ### Подушка безопасности и трехточечный
-`livan_s6_pro_ru_c6bd91d6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:101 | doc_type:owners_manual
 ремень
 безопасности
 могут
@@ -37415,7 +35168,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 устройств защиты.
 
 ### Незакрепленный
-`livan_s6_pro_ru_0b4e4df6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 надлежащим
 образом
 ребенок может налететь на других людей
@@ -37455,7 +35207,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 держащего.
 
 ### Младенцы
-`livan_s6_pro_ru_1d70900a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:101 | doc_type:owners_manual
 должны
 быть
 закреплены
@@ -37474,7 +35225,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 сиденье,
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_7d805cbe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:101 | doc_type:owners_manual
 100
 защищаемое
 фронтальной
@@ -37497,7 +35247,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 погибнуть.
 
 ### Запрещается
-`livan_s6_pro_ru_b146d46c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:102 | doc_type:owners_manual
 помещать
 на
 сиденье
@@ -37510,7 +35259,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 назад.
 
 ### Устройство
-`livan_s6_pro_ru_ff9a4dd2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 детской
 защиты,
 направленное
@@ -37520,7 +35268,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 установлено на сиденьях заднего ряда.
 
 ### Устройство
-`livan_s6_pro_ru_ff9a4dd2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 детской
 защиты,
 направленное
@@ -37530,7 +35277,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 установлено на сиденьях заднего ряда.
 
 ### Для того чтобы уменьшить риск
-`livan_s6_pro_ru_373e2909` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 получения травм шеи и головы во
 время аварии, младенцам необходима
 поддержка всего тела.
@@ -37560,7 +35306,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 части его тела - спине и плечам.
 
 ### Младенец
-`livan_s6_pro_ru_e8eea606` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 должен
 быть
 все
@@ -37569,7 +35314,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 направленном назад.
 
 ### Тазовая
-`livan_s6_pro_ru_ed2db7d3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:102 | doc_type:owners_manual
 кость
 ребенка
 относительно
@@ -37581,7 +35325,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 кости.
 
 ### Поэтому
-`livan_s6_pro_ru_8b1a309a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 он
 перемещается
 на
@@ -37616,7 +35359,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 устройстве защиты все время.
 
 ### Дети старшего возраста
-`livan_s6_pro_ru_dc3edb33` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 Дети старшего возраста, которые уже не
 могут сидеть в детском автомобильном
 кресле,
@@ -37626,7 +35368,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 безопасности.
 
 ### В
-`livan_s6_pro_ru_9e64bee7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:102 | doc_type:owners_manual
 руководстве
 по
 эксплуатации
@@ -37652,7 +35393,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 нему.
 
 ### Находятся
-`livan_s6_pro_ru_38b831a2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 ли
 Сиденья и устройства защиты
 4
@@ -37675,7 +35415,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 •
 
 ### Застегните
-`livan_s6_pro_ru_c674dd39` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 трехточечный
 ремень
 безопасности.
@@ -37734,7 +35473,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 ограничения.
 
 ### Плечевая
-`livan_s6_pro_ru_c02a63c1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:103 | doc_type:owners_manual
 часть
 ремня
 не
@@ -37807,7 +35545,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 травмы.
 
 ### Ремнем
-`livan_s6_pro_ru_5fc1b84c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:103 | doc_type:owners_manual
 может пользоваться только один человек.
 Сиденья и устройства защиты
 102
@@ -37822,7 +35559,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 ребенка.
 
 ### Неправильное
-`livan_s6_pro_ru_4aa83f93` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 использование
 ремня
 безопасности
@@ -37860,7 +35596,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 исходу.
 
 ### Плечевая
-`livan_s6_pro_ru_0877ad6b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 часть
 ремня
 должна
@@ -37871,7 +35606,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 средств защиты
 
 ### Детские
-`livan_s6_pro_ru_b11a7929` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 сиденья,
 направленные
 назад
@@ -37890,7 +35624,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 устройстве защиты.
 
 ### Рекомендуется
-`livan_s6_pro_ru_ee8fc875` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:104 | doc_type:owners_manual
 использовать
 фиксирующие
 детские
@@ -37918,7 +35651,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 состоянии)!
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_836e5815` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 4
 8
 7
@@ -37940,7 +35672,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 пристегивания его тела ремнями.
 
 ### Рекомендуется
-`livan_s6_pro_ru_c8c23151` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 использовать
 фиксирующие
 детские
@@ -37952,7 +35683,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 сиденья.
 
 ### Вспомогательное кресло
-`livan_s6_pro_ru_f3d5d217` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 Вспомогательное кресло - это детское
 устройство
 защиты,
@@ -37962,7 +35692,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 автомобильного ремня безопасности.
 
 ### Установка детских средств
-`livan_s6_pro_ru_f65e5221` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:105 | doc_type:owners_manual
 защиты
 По
 данным
@@ -38058,7 +35787,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 обратите на это внимание.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_a2e20da5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:105 | doc_type:owners_manual
 104
 Не
 помещайте
@@ -38078,14 +35806,12 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 состоянии).
 
 ### Установка при использовании
-`livan_s6_pro_ru_a587ccfd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:106 | doc_type:owners_manual
 ремня безопасности бедренноплечевого
 типа
 (ремень
 безопасности ALR/ELR)
 
 ### Установка
-`livan_s6_pro_ru_635a383e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:106 | doc_type:owners_manual
 детского
 кресла,
 направленного назад
@@ -38115,7 +35841,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 к
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_228c81b0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:106 | doc_type:owners_manual
 4
 8
 7
@@ -38138,7 +35863,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 установите его за сиденьем справа.
 
 ### В
-`livan_s6_pro_ru_15874072` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:107 | doc_type:owners_manual
 соответствии
 с
 инструкциями,
@@ -38161,7 +35885,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 перекручен.
 
 ### Бедренная
-`livan_s6_pro_ru_35a229af` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:107 | doc_type:owners_manual
 часть
 ремня
 должна сохранять натяжение.
@@ -38194,7 +35917,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 этим сиденьем.
 
 ### Передвиньте детское кресло в разных
-`livan_s6_pro_ru_4f07a616` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:107 | doc_type:owners_manual
 направлениях, толкайте и тяните, чтобы
 убедиться
 в
@@ -38205,13 +35927,11 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 закреплено.
 
 ### Для того чтобы снять детское средство
-`livan_s6_pro_ru_ab9f14b5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:107 | doc_type:owners_manual
 защиты, нажмите на кнопку замка.
 Сиденья и устройства защиты
 106
 
 ### Установка
-`livan_s6_pro_ru_966f5b42` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:108 | doc_type:owners_manual
 детского
 сиденья,
 направленного вперед
@@ -38233,7 +35953,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 натянут в поясной части.
 
 ### Полностью
-`livan_s6_pro_ru_347acc2b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:108 | doc_type:owners_manual
 вытяните
 плечевую
 часть
@@ -38259,7 +35978,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 зафиксировано.
 
 ### Крепко прислоните детское устройство
-`livan_s6_pro_ru_63736739` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:108 | doc_type:owners_manual
 защиты
 к
 подушке
@@ -38270,7 +35988,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 прочно закрепить ребенка на сиденье.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_5578efb8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 4
 8
 7
@@ -38297,7 +36014,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 компанией-изготовителем.
 
 ### Установка вспомогательного кресла
-`livan_s6_pro_ru_f9576c97` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:109 | doc_type:owners_manual
 Посадите ребенка в устройство защиты.
 Как
 указано
@@ -38327,7 +36043,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 ребенка.
 
 ### Подробнее
-`livan_s6_pro_ru_035b1281` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:109 | doc_type:owners_manual
 см.
 параграф
 «Ремень
@@ -38380,7 +36095,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 на нижней части предплечья ребенка.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_b7094110` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 108
 Установка устройства детской
 защиты ISOFIX
@@ -38391,7 +36105,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 специальным соединением по стандарту
 
 ### ISO устанавливается на сиденье заднего
-`livan_s6_pro_ru_00a12ed0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:110 | doc_type:owners_manual
 ряда.
 Разъемы
 для
@@ -38411,7 +36124,6 @@ ISOFIX с крепежными лентами TOPTETHER; X = данное сид
 ряда.
 
 ### Детское
-`livan_s6_pro_ru_8926ed7f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 устройство
 защиты
 по
@@ -38425,7 +36137,6 @@ ISO
 соединения.
 
 ### В
-`livan_s6_pro_ru_e03d6efa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 таком
 случае не нужно
 использовать ремни
@@ -38433,7 +36144,6 @@ ISO
 защиты.
 
 ### При использовании и установке детской
-`livan_s6_pro_ru_aa2f17a9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 системы
 защиты
 ISOFIX
@@ -38450,7 +36160,6 @@ ISOFIX
 неэффективной.
 
 ### О
-`livan_s6_pro_ru_1bca650a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 возможности
 использования
 конкретного
@@ -38466,7 +36175,6 @@ ISOFIX
 компаниипроизводителя данного устройства.
 
 ### Установите
-`livan_s6_pro_ru_750a43c7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 детское
 автомобильное
 кресло
@@ -38481,7 +36189,6 @@ ISOFIX
 шагами:
 
 ### 1. Поднимите
-`livan_s6_pro_ru_fc754919` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 подголовник
 в
 соответствующее положение.
@@ -38491,7 +36198,6 @@ ISOFIX
 стержня.
 
 ### 3. Убедитесь
-`livan_s6_pro_ru_40519910` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 в
 том,
 что
@@ -38499,7 +36205,6 @@ ISOFIX
 ISOFIX находится рядом с разъемом.
 
 ### 4. Присоедините
-`livan_s6_pro_ru_9d60794e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 крепление
 детского
 автомобильного
@@ -38509,7 +36214,6 @@ ISOFIX
 разъему ISOFIX, закрепите его.
 
 ### 5. Проверьте,
-`livan_s6_pro_ru_39e05cf5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 правильно
 ли
 зафиксирована защелка.
@@ -38525,7 +36229,6 @@ ISOFIX
 109
 
 ### 6. Закрепите
-`livan_s6_pro_ru_717325a0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 фиксатор
 верхнего
 натяжного
@@ -38555,7 +36258,6 @@ ISOFIX
 инструкцией по монтажу.
 
 ### Детское
-`livan_s6_pro_ru_1d57814a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 устройство
 защиты
 не
@@ -38563,7 +36265,6 @@ ISOFIX
 соединения
 
 ### ISOFIX,
-`livan_s6_pro_ru_d57982ba` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 соответствующего
 для
 установки
@@ -38606,7 +36307,6 @@ ISOFIX
 автомобиле.
 
 ### Нельзя
-`livan_s6_pro_ru_85a28cdb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 устанавливать
 устройство
 детской
@@ -38620,7 +36320,6 @@ ISOFIX
 защиты
 
 ### ISOFIX
-`livan_s6_pro_ru_fcaf9ecc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 с
 соединением
 ISOFIX
@@ -38629,7 +36328,6 @@ ISOFIX
 характерный щелчок.
 
 ### Сиденья и устройства защиты
-`livan_s6_pro_ru_a876d9f6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 110
 5
 8
@@ -38663,7 +36361,6 @@ ISOFIX
 обслуживания
 
 ### LIVAN,
-`livan_s6_pro_ru_2b6acbe7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 утерянный
 ключ
 дистанционного
@@ -38683,7 +36380,6 @@ ISOFIX
 немедленно.
 
 ### Центру
-`livan_s6_pro_ru_f208ee2c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 технического
 обслуживания
 LIVAN
@@ -38694,7 +36390,6 @@ LIVAN
 вашим автомобилем.
 
 ### Настоящий
-`livan_s6_pro_ru_5c3efd1e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 автомобиль
 оснащен
 отдельным механическим ключом,
@@ -38704,7 +36399,6 @@ LIVAN
 смартключа.
 
 ### Храните
-`livan_s6_pro_ru_effabf8b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:113 | doc_type:owners_manual
 запасной
 смарт-ключ
 в
@@ -38726,7 +36420,6 @@ LIVAN
 может не завестись.
 
 ### Замена
-`livan_s6_pro_ru_d2b3ff88` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 элемента
 питания
 смарт-ключа
@@ -38744,7 +36437,6 @@ LIVAN
 смарт-ключе.
 
 ### 1. Вставьте отвертку с прямым шлицем
-`livan_s6_pro_ru_8c6380c2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 в прорезь посередине, одновременно
 переверните ключ задней стороной
 вверх,
@@ -38767,7 +36459,6 @@ LIVAN
 ключа.
 
 ### Будьте
-`livan_s6_pro_ru_65cfc006` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 осторожны,
 не
 наклоняйте
@@ -38782,7 +36473,6 @@ LIVAN
 декоративные детали.
 
 ### 2. После открытия корпуса смарт-ключа
-`livan_s6_pro_ru_8f116f6a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 необходимо
 вставить
 отвертку
@@ -38813,7 +36503,6 @@ LIVAN
 вниз.
 
 ### Модель
-`livan_s6_pro_ru_c9255951` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:114 | doc_type:owners_manual
 элемента питания смарт-ключа: 3В,
 CR2032.
 3. После установки крышки батарейного
@@ -38841,7 +36530,6 @@ CR2032.
 ниже
 
 ### -20° С
-`livan_s6_pro_ru_f404d462` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 в
 течение
 длительного
@@ -38857,7 +36545,6 @@ CR2032.
 смарт-ключа.
 
 ### Своевременно
-`livan_s6_pro_ru_d8480316` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 заменяйте элемент питания. Избегайте
 влияния на функционал дистанционного
 управления,
@@ -38876,7 +36563,6 @@ CR2032.
 использование.
 
 ### Противоугонная
-`livan_s6_pro_ru_d6a64f3d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 защита
 двигателя
 Противоугонную
@@ -38897,7 +36583,6 @@ CR2032.
 автоматически отключается.
 
 ### Если противоугонная защита двигателя
-`livan_s6_pro_ru_d061ab26` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 не снимается, а смарт-ключ не содержит
 признаков
 повреждения,
@@ -38910,7 +36595,6 @@ CR2032.
 •
 
 ### Используйте другие действительные
-`livan_s6_pro_ru_ad14601d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:114 | doc_type:owners_manual
 смарт-ключи,
 которыми
 оборудован
@@ -38935,14 +36619,12 @@ CR2032.
 ремонте.
 
 ### Свяжитесь
-`livan_s6_pro_ru_c72126ed` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 с
 центром
 технического
 обслуживания автомобилей LIVAN.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_80a3fd2f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 5
 8
 7
@@ -38958,7 +36640,6 @@ CR2032.
 отключающее противоугонную защиту.
 
 ### Открытие
-`livan_s6_pro_ru_4f8f23f8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 и
 закрытие
 автомобиля
@@ -38987,7 +36668,6 @@ CR2032.
 проверьте, успешно ли она выполнена.
 
 ### Автомобиль можно запереть с помощью
-`livan_s6_pro_ru_f173a245` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 смарт-ключа,
 только
 когда
@@ -38996,7 +36676,6 @@ CR2032.
 OFF и все двери закрыты.
 
 ### Если незапертый автомобиль стоит на
-`livan_s6_pro_ru_c81046ed` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:115 | doc_type:owners_manual
 стоянке в течение длительного времени,
 аккумулятор
 автомобиля
@@ -39021,7 +36700,6 @@ OFF и все двери закрыты.
 помощью механического ключа.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_1c4203ff` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 114
 Бесключевой вход в систему
 •
@@ -39147,7 +36825,6 @@ Bluetooth и т.д., функция бесключевого
 запирания.
 
 ### Когда все двери автомобиля закрыты и
-`livan_s6_pro_ru_dc9e363c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:116 | doc_type:owners_manual
 заблокированы, подойдите к автомобилю
 с действующим смарт-ключом, положите
 руку прямо на ручку двери со стороны
@@ -39160,7 +36837,6 @@ Bluetooth и т.д., функция бесключевого
 топливного бака будут разблокированы.
 
 ### Некоторые модели оснащены функцией
-`livan_s6_pro_ru_4b3fd3b0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:116 | doc_type:owners_manual
 разблокирования
 при
 приближении,
@@ -39168,7 +36844,6 @@ Bluetooth и т.д., функция бесключевого
 блокировки двери на экране дисплея.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_7f8715b2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 5
 8
 7
@@ -39210,7 +36885,6 @@ Bluetooth и т.д., функция бесключевого
 огни.
 
 ### В
-`livan_s6_pro_ru_d61072f6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 некоторых
 моделях
 после
@@ -39227,7 +36901,6 @@ Bluetooth и т.д., функция бесключевого
 комбинированные фары.
 
 ### Если автомобиль не используется в
-`livan_s6_pro_ru_cc622acd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 течение
 определенного
 периода
@@ -39266,7 +36939,6 @@ Bluetooth и т.д., функция бесключевого
 разблокировки автомобиля.
 
 ### Установите
-`livan_s6_pro_ru_8a104aaf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:117 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -39295,7 +36967,6 @@ OFF,
 заблокируются.
 
 ### Некоторые
-`livan_s6_pro_ru_1b3b2a4e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:117 | doc_type:owners_manual
 модели
 оснащены
 функцией
@@ -39335,7 +37006,6 @@ OFF,
 комбинированные фары.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_edcd19b5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 116
 Если автомобиль не используется в
 течение
@@ -39376,13 +37046,11 @@ OFF,
 блокировки автомобиля.
 
 ### Дистанционное
-`livan_s6_pro_ru_4b589e3a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 блокирование
 и разблокирование замков
 Разблокирование замков
 
 ### Кратковременно
-`livan_s6_pro_ru_c092ed28` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:118 | doc_type:owners_manual
 нажмите
 кнопку
 разблокировки на смарт-ключе
@@ -39409,7 +37077,6 @@ OFF,
 комбинированные фары.
 
 ### Кратковременно
-`livan_s6_pro_ru_c092ed28` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 нажмите
 кнопку
 запирания замков
@@ -39435,7 +37102,6 @@ OFF,
 огни и передние комбинированные фары.
 
 ### Нажмите
-`livan_s6_pro_ru_752b34df` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 и
 удерживайте
 кнопку
@@ -39446,7 +37112,6 @@ OFF,
 четырех дверей и люк в крыше.
 
 ### Если включена функция автоматического
-`livan_s6_pro_ru_2425b7a4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 закрытия
 окон
 при
@@ -39477,7 +37142,6 @@ OFF,
 сигнал-напоминание.
 
 ### Не позволяйте детям проникать в
-`livan_s6_pro_ru_53f2cfad` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:118 | doc_type:owners_manual
 багажное
 отделение.
 Если
@@ -39513,7 +37177,6 @@ OFF,
 травмам.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_6685e373` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 5
 8
 7
@@ -39529,7 +37192,6 @@ OFF,
 механическим ключом
 
 ### 2. Вставьте
-`livan_s6_pro_ru_3efcb186` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 механический
 ключ
 в
@@ -39542,7 +37204,6 @@ OFF,
 водителя и снимите ее.
 
 ### 3. Вставьте механический ключ в замок
-`livan_s6_pro_ru_b93cf56d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 двери
 со
 стороны
@@ -39552,7 +37213,6 @@ OFF,
 и крышку топливного бака.
 
 ### Блокирование
-`livan_s6_pro_ru_1ed7d998` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 и
 разблокирование
 замков
@@ -39561,7 +37221,6 @@ OFF,
 1. Кнопка разблокировки
 
 ### 2. Кнопка блокировки
-`livan_s6_pro_ru_a5678473` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 Если четыре двери закрыты, нажмите
 кнопку
 блокировки
@@ -39577,7 +37236,6 @@ OFF,
 разблокировать все двери.
 
 ### Разблокировка
-`livan_s6_pro_ru_13e6411d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 при
 помощи
 центральной кнопки управления в
@@ -39596,7 +37254,6 @@ OFF,
 невозможно.
 
 ### Автоматическое блокирование
-`livan_s6_pro_ru_dcef20ab` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:119 | doc_type:owners_manual
 и разблокирование
 Автоматическое
 повторное
@@ -39613,7 +37270,6 @@ OFF,
 зависимости от конфигурации модели).
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_a94a8f1b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 118
 Если
 четыре
@@ -39629,7 +37285,6 @@ OFF,
 заблокируется.
 
 ### Автоматическая
-`livan_s6_pro_ru_bc852ab0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 блокировка
 в
 движении
@@ -39647,7 +37302,6 @@ OFF,
 установленную скорость.
 
 ### Функция
-`livan_s6_pro_ru_0b826606` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:120 | doc_type:owners_manual
 автоматической
 блокировки
 в
@@ -39657,7 +37311,6 @@ OFF,
 дисплея.
 
 ### Автоматическая
-`livan_s6_pro_ru_bc852ab0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:120 | doc_type:owners_manual
 разблокировка
 после останова двигателя
 После
@@ -39684,7 +37337,6 @@ OFF,
 мультимедиа.
 
 ### Если автомобиль попадает в серьезное
-`livan_s6_pro_ru_dab035aa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 лобовое
 столкновение
 во
@@ -39699,7 +37351,6 @@ OFF,
 автомобиль.
 
 ### Функция поиска автомобиля
-`livan_s6_pro_ru_570794cd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 Если
 местоположение
 вашего
@@ -39720,7 +37371,6 @@ OFF,
 положении
 
 ### OFF,
-`livan_s6_pro_ru_8f5d7ce2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 закрытых
 и
 заблокированных
@@ -39729,7 +37379,6 @@ OFF,
 системой.
 
 ### Автомобиль
-`livan_s6_pro_ru_89acaee3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 3
 раза
 подаст
@@ -39749,7 +37398,6 @@ OFF,
 местоположении автомобиля.
 
 ### Открытие багажника в машине
-`livan_s6_pro_ru_1c1104d5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:120 | doc_type:owners_manual
 Чтобы открыть крышку багажника, когда
 автомобиль
 припаркован,
@@ -39768,7 +37416,6 @@ OFF,
 переключателей приборной панели.
 
 ### Открытие
-`livan_s6_pro_ru_d186106c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:120 | doc_type:owners_manual
 багажника
 снаружи
 машины
@@ -39797,7 +37444,6 @@ OFF,
 багажника.
 
 ### Бесключевое открытие багажника
-`livan_s6_pro_ru_a1bdc30e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:121 | doc_type:owners_manual
 Чтобы
 открыть
 багажник,
@@ -39823,7 +37469,6 @@ OFF,
 положение
 
 ### OFF,
-`livan_s6_pro_ru_d2b1082c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:121 | doc_type:owners_manual
 нажмите
 и
 удерживайте
@@ -39831,7 +37476,6 @@ OFF,
 открытия багажника на смарт-ключе.
 
 ### Автоматическое
-`livan_s6_pro_ru_cb71ef48` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:121 | doc_type:owners_manual
 индуктивное
 открытие багажника
 Некоторые модели оснащены функцией
@@ -39872,7 +37516,6 @@ OFF,
 открыт.
 
 ### Если водитель длительное время
-`livan_s6_pro_ru_6789c036` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:121 | doc_type:owners_manual
 стоит
 в
 зоне
@@ -39890,7 +37533,6 @@ OFF,
 может быть открыта по ошибке. В целях
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_92cf6284` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:121 | doc_type:owners_manual
 120
 обеспечения сохранности имущества ,
 обязательно
@@ -39920,7 +37562,6 @@ OFF,
 повреждению багажника.
 
 ### Будьте
-`livan_s6_pro_ru_e15ad9a0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 осторожны
 при
 открытии
@@ -39947,7 +37588,6 @@ OFF,
 времени.
 
 ### В
-`livan_s6_pro_ru_db224974` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 это
 время
 дверцу
@@ -39957,7 +37597,6 @@ OFF,
 подняв ее вручную.
 
 ### Аварийное
-`livan_s6_pro_ru_da9075fd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 открытие
 багажника
 Багажное отделение этого автомобиля
@@ -39976,7 +37615,6 @@ OFF,
 способами:
 
 ### 1. Нажмите
-`livan_s6_pro_ru_ccb34df4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 и
 удерживайте
 кнопку
@@ -39987,7 +37625,6 @@ OFF,
 переключателей приборной панели;
 
 ### 2. Нажмите
-`livan_s6_pro_ru_9afece4b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 и
 удерживайте
 кнопку
@@ -40006,7 +37643,6 @@ OFF,
 аварийного открытия багажника.
 
 ### Открытие
-`livan_s6_pro_ru_3bf58113` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 производится
 следующим
 образом:
@@ -40014,7 +37650,6 @@ OFF,
 сиденья.
 
 ### Подробнее
-`livan_s6_pro_ru_f50eccef` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 см.
 в
 главе
@@ -40025,7 +37660,6 @@ OFF,
 «Сиденья и устройства защитые.
 
 ### 3. Нажмите
-`livan_s6_pro_ru_b4200408` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 кнопку
 аварийного
 открывания багажника в направлении
@@ -40033,7 +37667,6 @@ OFF,
 чтобы открыть багажник.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_1a5c4cbb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 5
 8
 7
@@ -40061,7 +37694,6 @@ OFF,
 помощью двух рывков внутренней ручки.
 
 ### Первый
-`livan_s6_pro_ru_e16b4014` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 рывок
 предназначен
 для
@@ -40069,7 +37701,6 @@ OFF,
 открытия.
 
 ### Детский замок безопасности
-`livan_s6_pro_ru_c57447e5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 Левая
 и
 правая
@@ -40091,7 +37722,6 @@ OFF,
 безопасности.
 
 ### Детский замок безопасности расположен
-`livan_s6_pro_ru_5b29dfa8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:123 | doc_type:owners_manual
 на
 внешних
 краях
@@ -40127,7 +37757,6 @@ OFF,
 работает нормально.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_71faecd4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 122
 Запуск
 двигателя
@@ -40138,7 +37767,6 @@ OFF,
 (бесключевой запуск)
 
 ### Этот автомобиль оснащен электронным
-`livan_s6_pro_ru_3ea4f6be` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:124 | doc_type:owners_manual
 бесключевым
 запуском,
 который
@@ -40164,7 +37792,6 @@ OFF: в этом положении автомобиль
 переключатель находится в режиме
 
 ### OFF,
-`livan_s6_pro_ru_80843f82` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:124 | doc_type:owners_manual
 нажмите
 педаль
 тормоза.
@@ -40175,7 +37802,6 @@ OFF: в этом положении автомобиль
 цветом.
 
 ### Нажмите
-`livan_s6_pro_ru_3e187997` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 кнопку
 зажигания, чтобы завести автомобиль.
 •
@@ -40193,7 +37819,6 @@ ACC:
 незаведенном двигателе автомобиля.
 
 ### Когда автомобиль не заведен и педаль
-`livan_s6_pro_ru_0a4411bb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:124 | doc_type:owners_manual
 тормоза не нажата, нажатие на кнопку
 зажигания включает режим ACC. Если
 в положении ACC нажать на педаль
@@ -40213,7 +37838,6 @@ ACC:
 перевести его в состояние движения.
 
 ### Если пусковой переключатель все
-`livan_s6_pro_ru_43d272cb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:124 | doc_type:owners_manual
 еще
 находится
 в
@@ -40231,7 +37855,6 @@ ACC
 •
 
 ### ON:
-`livan_s6_pro_ru_3f14b08d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:124 | doc_type:owners_manual
 когда
 пусковой
 переключатель
@@ -40276,7 +37899,6 @@ START: этот режим используется для
 режиме
 
 ### START
-`livan_s6_pro_ru_25c7e9fb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:124 | doc_type:owners_manual
 двигатель
 продолжит
 работу
@@ -40284,7 +37906,6 @@ START: этот режим используется для
 приведения в действие.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_82ebbbc9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 5
 8
 7
@@ -40304,14 +37925,12 @@ START: этот режим используется для
 следующие условия:
 
 ### 3. Переведите
-`livan_s6_pro_ru_8dac80aa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 рычаг
 переключения
 передач в положение парковки (P)
 или нейтральное положение (N).
 
 ### 4. Нажмите на кнопку зажигания.
-`livan_s6_pro_ru_1f393743` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:125 | doc_type:owners_manual
 •
 Перед
 запуском
@@ -40335,7 +37954,6 @@ START: этот режим используется для
 •
 
 ### Приводите автомобиль в движение в
-`livan_s6_pro_ru_c8febc75` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:125 | doc_type:owners_manual
 соответствии с местными законами и
 нормативами.
 •
@@ -40348,7 +37966,6 @@ START: этот режим используется для
 •
 
 ### Если двигатель еще не достиг рабочей
-`livan_s6_pro_ru_3855098b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:125 | doc_type:owners_manual
 температуры,
 избегайте
 высокой
@@ -40361,7 +37978,6 @@ START: этот режим используется для
 •
 
 ### Во время движения автомобиля не
-`livan_s6_pro_ru_03c792b2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:125 | doc_type:owners_manual
 направляйте
 пульт
 дистанционного
@@ -40398,7 +38014,6 @@ START: этот режим используется для
 обеспечить лучшее смазывание.
 
 ### 1. Когда
-`livan_s6_pro_ru_bb8aa41a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:125 | doc_type:owners_manual
 водителю
 нужно
 запустить
@@ -40426,7 +38041,6 @@ START: этот режим используется для
 хорошую смазку.
 
 ### 2. Если
-`livan_s6_pro_ru_a6de294b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:125 | doc_type:owners_manual
 смарт-ключ
 не
 находится
@@ -40438,7 +38052,6 @@ START: этот режим используется для
 панели подскажет, что ключа нет в
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_32ff8451` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:125 | doc_type:owners_manual
 124
 автомобиле, в это время двигатель
 не
@@ -40460,7 +38073,6 @@ START: этот режим используется для
 компоненты.
 
 ### Если Вы нажмете кнопку зажигания и
-`livan_s6_pro_ru_91e9ed62` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:126 | doc_type:owners_manual
 отпустите ее, когда двигатель начнет
 запускаться,
 стартер
@@ -40492,7 +38104,6 @@ START: этот режим используется для
 чтобы начать следующий пуск.
 
 ### Если после неудачного пуска сразу
-`livan_s6_pro_ru_2855909b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:126 | doc_type:owners_manual
 же
 повторно
 нажать
@@ -40515,7 +38126,6 @@ START: этот режим используется для
 полного остывания стартера.
 
 ### Резервная процедура запуска
-`livan_s6_pro_ru_a1296081` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:126 | doc_type:owners_manual
 автомобиля
 Если
 автомобиль
@@ -40540,7 +38150,6 @@ START: этот режим используется для
 автомобиль с помощью запуска с кнопки.
 
 ### Запустите
-`livan_s6_pro_ru_e9380fa0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:126 | doc_type:owners_manual
 автомобиль
 следующим
 образом:
@@ -40551,12 +38160,10 @@ START: этот режим используется для
 или нейтральное положение (N).
 
 ### 2. Положите смарт-ключ в контейнер за
-`livan_s6_pro_ru_be532e09` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:126 | doc_type:owners_manual
 центральной консолью.
 3. Нажмите на педаль тормоза.
 
 ### 4. Нажмите на кнопку зажигания.
-`livan_s6_pro_ru_4d95f26d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:126 | doc_type:owners_manual
 Если
 автомобиль
 заглох
@@ -40575,7 +38182,6 @@ START: этот режим используется для
 тормоза.
 
 ### Переведите
-`livan_s6_pro_ru_521dc33f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:126 | doc_type:owners_manual
 рычаг
 переключения передач в положение N и
 источник
@@ -40584,7 +38190,6 @@ START: этот режим используется для
 на
 
 ### ON,
-`livan_s6_pro_ru_180d8d3c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:126 | doc_type:owners_manual
 далее нажмите кнопку зажигания.
 Когда
 автомобиль
@@ -40604,7 +38209,6 @@ START: этот режим используется для
 восстановится.
 
 ### Если процедура бесключевого запуска не
-`livan_s6_pro_ru_404b3eac` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:126 | doc_type:owners_manual
 может
 быть
 использована
@@ -40649,7 +38253,6 @@ Bluetooth,
 консолью.
 
 ### Дистанционный
-`livan_s6_pro_ru_7918c9ad` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:127 | doc_type:owners_manual
 запуск
 двигателя
 В пределах зоны действия смарт-ключа
@@ -40673,7 +38276,6 @@ Bluetooth,
 обеспечивает надежную защиту.
 
 ### По истечении некоторого времени
-`livan_s6_pro_ru_a409c47b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 после
 дистанционного
 запуска
@@ -40688,7 +38290,6 @@ Bluetooth,
 топливо.
 
 ### Перед проверкой двигатель необходимо
-`livan_s6_pro_ru_b38cf612` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:127 | doc_type:owners_manual
 запустить двигатель в соответствии с
 правильной процедурой и убедиться в
 наличии
@@ -40697,7 +38298,6 @@ Bluetooth,
 топлива.
 
 ### Данный
-`livan_s6_pro_ru_0848f648` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:127 | doc_type:owners_manual
 автомобиль
 оснащен
 электронной
@@ -40705,7 +38305,6 @@ Bluetooth,
 системой.
 
 ### Необходимо
-`livan_s6_pro_ru_a28b27a0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:127 | doc_type:owners_manual
 убедиться,
 можно
 ли
@@ -40721,7 +38320,6 @@ Bluetooth,
 ключ.
 
 ### Передайте
-`livan_s6_pro_ru_9d7a2de3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 смарт-ключ
 в
 центр
@@ -40748,7 +38346,6 @@ Bluetooth,
 обслуживания
 
 ### LIVAN
-`livan_s6_pro_ru_e3b4c87f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:127 | doc_type:owners_manual
 для
 проведения
 технического
@@ -40761,7 +38358,6 @@ Bluetooth,
 скорость слишком низкая:
 
 ### 1. Убедитесь, что клеммы аккумулятора
-`livan_s6_pro_ru_eae990ad` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:127 | doc_type:owners_manual
 затянуты и чистые;
 2. Если
 проблем
@@ -40788,7 +38384,6 @@ Bluetooth,
 его
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_ac5d5ecd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 126
 можно
 попытаться
@@ -40823,7 +38418,6 @@ Bluetooth,
 обслуживания
 
 ### LIVAN
-`livan_s6_pro_ru_d0913750` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:128 | doc_type:owners_manual
 для
 проведения
 технического
@@ -40861,7 +38455,6 @@ Bluetooth,
 проведения технического обслуживания.
 
 ### Технология
-`livan_s6_pro_ru_fe3369b3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 запуска/
 остановки двигателя
 Положение
@@ -40883,7 +38476,6 @@ Bluetooth,
 control]
 
 ### Переведите
-`livan_s6_pro_ru_913f7721` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 замок
 зажигания
 в
@@ -40908,7 +38500,6 @@ ON,
 км/ч.
 
 ### Световой
-`livan_s6_pro_ru_3198b1cc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:128 | doc_type:owners_manual
 индикатор
 состояния
 системы
@@ -40933,7 +38524,6 @@ ON,
 остановки).
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_6650c59a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 5
 8
 7
@@ -40948,7 +38538,6 @@ ON,
 автоматической остановки
 
 ### Допустимые
-`livan_s6_pro_ru_1a7ad57b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 критерии
 автоматической
 остановки
@@ -40965,7 +38554,6 @@ EMS
 автоматическую остановку):
 
 ### 1. Включить
-`livan_s6_pro_ru_3522241a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 переключатель
 запускаостановки;
 2. Нормальная
@@ -40973,7 +38561,6 @@ EMS
 охлаждающей жидкости двигателя;
 
 ### 3. Нет
-`livan_s6_pro_ru_925e633a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 неисправностей
 воздушной
 заслонки,
@@ -40982,14 +38569,12 @@ EMS
 расходомера воздуха;
 
 ### 4. Электронная
-`livan_s6_pro_ru_bedb704a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:129 | doc_type:owners_manual
 система
 контроля
 устойчивости ESC не активирована;
 5. Капот переднего отсека закрыт;
 
 ### 7. Ремень
-`livan_s6_pro_ru_ff14e4cd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:129 | doc_type:owners_manual
 безопасности
 со
 стороны
@@ -41000,13 +38585,11 @@ EMS
 тормозов;
 
 ### 9. Нет препятствий для торможения, нет
-`livan_s6_pro_ru_a40bbf4e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:129 | doc_type:owners_manual
 препятствий для скорости;
 10. Воздушная подушка безопасности не
 раскрыта;
 
 ### 11. Система
-`livan_s6_pro_ru_df55d104` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:129 | doc_type:owners_manual
 кондиционирования
 допускает запуск/парковку;
 12. Коробка
@@ -41015,7 +38598,6 @@ EMS
 остановку;
 
 ### 13. Высота над уровнем моря ниже 4000
-`livan_s6_pro_ru_b8c55b48` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 метров;
 14. Угол
 поворота
@@ -41024,7 +38606,6 @@ EMS
 установленного;
 
 ### 17. Рычаг
-`livan_s6_pro_ru_cb3f3b89` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:129 | doc_type:owners_manual
 переключения
 передач
 в
@@ -41034,13 +38615,11 @@ EMS
 аккумулятора 12V;
 
 ### 19. Скорость
-`livan_s6_pro_ru_b2174d73` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 больше
 определенного
 значения, допускающего остановку.
 
 ### Если все вышеуказанные критерии
-`livan_s6_pro_ru_101efa04` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:129 | doc_type:owners_manual
 соблюдены,
 световой
 индикатор
@@ -41049,7 +38628,6 @@ EMS
 зеленый.
 
 ### Условия
-`livan_s6_pro_ru_ce04f297` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 автоматического
 запуска-остановки
 Условия автоматического запуска EMS
@@ -41061,7 +38639,6 @@ EMS
 условий):
 
 ### 1. Выключите
-`livan_s6_pro_ru_ff5b76aa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 переключатель
 запускаостановки;
 2. Недостаточная
@@ -41069,7 +38646,6 @@ EMS
 охлаждающей жидкости;
 
 ### 5. Ремень
-`livan_s6_pro_ru_1a95bf21` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:129 | doc_type:owners_manual
 безопасности
 со
 стороны
@@ -41081,7 +38657,6 @@ EMS
 отвечает требованиям;
 
 ### 7. Система кондиционирования требует
-`livan_s6_pro_ru_57db7775` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 запуск;
 8. TCU требует запуск;
 9. Угол
@@ -41091,12 +38666,10 @@ EMS
 установленного;
 
 ### 11. При отпускании педали тормоза (или
-`livan_s6_pro_ru_5da8e2e7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:129 | doc_type:owners_manual
 недостаточном нажатии) в положении
 рычага D и отпускании кнопки AUTO
 
 ### 12. Нажатие
-`livan_s6_pro_ru_1510ae1e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:129 | doc_type:owners_manual
 на
 педаль
 тормоза,
@@ -41110,7 +38683,6 @@ EMS
 положения
 
 ### D
-`livan_s6_pro_ru_c54d5a77` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 в
 положение, отличное от P;
 13. Переведение
@@ -41120,7 +38692,6 @@ EMS
 другое положение;
 
 ### 14. Нажатие
-`livan_s6_pro_ru_7e60aec3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 на
 педаль
 газа
@@ -41128,7 +38699,6 @@ EMS
 активированной кнопке AUTO HOLD;
 
 ### 15. Относительно
-`livan_s6_pro_ru_580aafde` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:130 | doc_type:owners_manual
 низкое
 напряжение
 аккумулятора 12V;
@@ -41140,7 +38710,6 @@ EMS
 запускаостановки
 
 ### 1. Неисправность
-`livan_s6_pro_ru_f4a18889` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:130 | doc_type:owners_manual
 тормозного
 переключателя;
 2. Неисправность
@@ -41148,7 +38717,6 @@ EMS
 скорости;
 
 ### 3. Ошибка сигнала датчика тормозного
-`livan_s6_pro_ru_061b6652` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:130 | doc_type:owners_manual
 давления;
 4. Местоположение сигнала воздушной
 подушки безопасности.
@@ -41164,7 +38732,6 @@ EMS
 (положение наклона).
 
 ### 1. При превышении определенного угла
-`livan_s6_pro_ru_4fff5a85` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 наклона активация запуска-остановки
 невозможна;
 2. При остановке двигателя на дороге с
@@ -41178,7 +38745,6 @@ EMS
 функцию
 
 ### HOLD,
-`livan_s6_pro_ru_0aa64821` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 чтобы
 предотвратить
 откатывание
@@ -41202,7 +38768,6 @@ EMS
 •
 
 ### При движении по дорогам с плохим
-`livan_s6_pro_ru_f647dc68` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 дорожным покрытием.
 •
 При наезде на бордюр.
@@ -41212,7 +38777,6 @@ EMS
 автомобиль полностью загружен.
 
 ### В
-`livan_s6_pro_ru_449ac216` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 автомобиле,
 оснащенном
 двигателем с турбонаддувом строго
@@ -41225,7 +38789,6 @@ EMS
 передаче.
 
 ### В
-`livan_s6_pro_ru_449ac216` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:130 | doc_type:owners_manual
 случае
 внезапного выключения двигателя при
 полной
@@ -41249,7 +38812,6 @@ EMS
 повреждению.
 
 ### Обкатка новых автомобилей в основном
-`livan_s6_pro_ru_83fb0b96` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 предназначена для улучшения трения и
 качества
 поверхностей
@@ -41263,7 +38825,6 @@ EMS
 расхода топлива.
 
 ### В
-`livan_s6_pro_ru_449ac216` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 период
 обкатки
 нового
@@ -41277,7 +38838,6 @@ EMS
 •
 
 ### Старайтесь не нажимать педаль газа
-`livan_s6_pro_ru_5e9092de` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:130 | doc_type:owners_manual
 до упора при трогании с места и в
 движении.
 Запуск двигателя и вождение
@@ -41293,13 +38853,11 @@ EMS
 •
 
 ### Во время обкатки автомобиль должен
-`livan_s6_pro_ru_181dcefe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 двигаться по ровной дороге. Избегайте
 езды по грязи или песчаным дорогам.
 •
 
 ### Избегайте
-`livan_s6_pro_ru_4095b865` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 работы
 двигателя
 на
@@ -41309,7 +38867,6 @@ EMS
 •
 
 ### Избегайте экстренного торможения в
-`livan_s6_pro_ru_5cc3b4c0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 течение первых 300 километров.
 •
 Не
@@ -41326,7 +38883,6 @@ EMS
 времени.
 
 ### Использование автомобиля в
-`livan_s6_pro_ru_731809c7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:131 | doc_type:owners_manual
 холодном климате (ниже 0°С)
 90%
 износа
@@ -41345,12 +38901,10 @@ EMS
 соблюдать следующие требования:
 
 ### После запуска автомобиль работает в
-`livan_s6_pro_ru_fc7cdc33` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 течение 2-3 минут на холостом ходу,
 затем можно начинать движение.
 
 ### После запуска автомобиль следует вести
-`livan_s6_pro_ru_f13f2634` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 со скоростью ниже 40 км/ч, а после того,
 как индикатор температуры воды начнет
 меняться, можно двигаться в обычном
@@ -41370,7 +38924,6 @@ EMS
 положении
 
 ### P.
-`livan_s6_pro_ru_b200447b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 При
 сравнительно
 низких
@@ -41383,7 +38936,6 @@ EMS
 положения P.
 
 ### При долгом движении на короткие
-`livan_s6_pro_ru_53209e32` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:131 | doc_type:owners_manual
 дистанции при холодном климате
 средняя отметка температуры воды не
 достигается, что приводит к старению
@@ -41423,7 +38975,6 @@ EMS
 более 30 км.
 
 ### Парковка
-`livan_s6_pro_ru_673721ef` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 на
 горючих
 материалах
@@ -41449,7 +39000,6 @@ EMS
 легковоспламеняющихся материалах.
 
 ### В
-`livan_s6_pro_ru_d87c0023` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 разных
 режимах
 движения
@@ -41464,7 +39014,6 @@ EMS
 топлива и защиты окружающей среды.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_9468eb28` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 130
 Пожалуйста,
 соблюдайте
@@ -41482,7 +39031,6 @@ EMS
 общественного транспорта.
 
 ### 1. Плавный старт и ускорение
-`livan_s6_pro_ru_94050c78` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 При
 трогании
 с
@@ -41501,7 +39049,6 @@ EMS
 ускорения.
 
 ### Плавное
-`livan_s6_pro_ru_de853929` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 трогание
 и
 ускорение
@@ -41510,7 +39057,6 @@ EMS
 топлива.
 
 ### 2. Поддержание
-`livan_s6_pro_ru_891a2785` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 постоянной
 экономичной скорости
 Экономичной является скорость 4060
@@ -41527,7 +39073,6 @@ EMS
 автомагистралям.
 
 ### С
-`livan_s6_pro_ru_0400ef7c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 точки зрения безопасного вождения
 поддержание
 постоянной
@@ -41535,7 +39080,6 @@ EMS
 меньшему расходу топлива.
 
 ### 3. Избегайте
-`livan_s6_pro_ru_3934f106` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:132 | doc_type:owners_manual
 торможения
 без
 необходимости
@@ -41561,7 +39105,6 @@ EMS
 резкого торможения.
 
 ### 4. Выключайте
-`livan_s6_pro_ru_30e0f89f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:132 | doc_type:owners_manual
 двигатель
 при
 длительных
@@ -41574,7 +39117,6 @@ EMS
 ходу.
 
 ### На холостом ходу также потребляется
-`livan_s6_pro_ru_50fab73b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:132 | doc_type:owners_manual
 топливо. Заглушите двигатель, если
 время остановки превышает 1 минуту
 в случае пробок на дорогах, длинных
@@ -41593,7 +39135,6 @@ EMS
 запуска двигателя.
 
 ### 5. Поддержание низкого сопротивления
-`livan_s6_pro_ru_ab1904de` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:132 | doc_type:owners_manual
 воздуха
 Открытие окна на высокой скорости
 значительно
@@ -41612,7 +39153,6 @@ EMS
 закройте окна.
 
 ### 6. Поддержание правильного давления
-`livan_s6_pro_ru_e781402c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 в шинах
 Регулярно
 проверяйте
@@ -41626,7 +39166,6 @@ EMS
 ведет к увеличению расхода топлива.
 
 ### 7. Минимизация
-`livan_s6_pro_ru_ff6ac6cd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:132 | doc_type:owners_manual
 использования
 кондиционера
 Кондиционер
@@ -41657,7 +39196,6 @@ EMS
 использовании кондиционера.
 
 ### Каждый дополнительный килограмм
-`livan_s6_pro_ru_32e314e3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 веса
 может
 увеличить
@@ -41667,7 +39205,6 @@ EMS
 убирайте
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_4676f9cd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 5
 8
 7
@@ -41684,7 +39221,6 @@ EMS
 средства.
 
 ### 9. Своевременное
-`livan_s6_pro_ru_0c62acc3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 техническое
 обслуживание
 Чтобы поддерживать автомобиль в
@@ -41696,7 +39232,6 @@ EMS
 правилам.
 
 ### Хорошая
-`livan_s6_pro_ru_286efe95` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 работа
 двигателя
 способствует
@@ -41708,7 +39243,6 @@ EMS
 топлива.
 
 ### Оптимизируйте
-`livan_s6_pro_ru_caa3f406` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 маршрут
 и
 старайтесь избегать перегруженных
@@ -41718,7 +39252,6 @@ EMS
 топлива.
 
 ### 11. Не
-`livan_s6_pro_ru_ad7518f3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 стоит
 менять
 размер
@@ -41730,7 +39263,6 @@ EMS
 топлива.
 
 ### Осторожное вождение
-`livan_s6_pro_ru_f5d58c89` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:133 | doc_type:owners_manual
 Первое,
 что
 нужно
@@ -41740,7 +39272,6 @@ EMS
 ремень безопасности.
 
 ### Безопасное
-`livan_s6_pro_ru_05c6c747` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 вождение:
 во
 время
@@ -41763,7 +39294,6 @@ EMS
 меры для предотвращения аварии.
 
 ### Соблюдайте
-`livan_s6_pro_ru_5931a0db` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 дистанцию
 и
 сосредоточьтесь
@@ -41773,7 +39303,6 @@ EMS
 столкновению и травмированию людей.
 
 ### Соблюдайте
-`livan_s6_pro_ru_5931a0db` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 достаточную
 дистанцию между Вашим и впереди
 идущим автомобилем. Сосредоточьтесь
@@ -41781,7 +39310,6 @@ EMS
 вождении.
 
 ### Рассеянность
-`livan_s6_pro_ru_70f85b9b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 водителя
 может привести к столкновению, травмам
 и гибели людей. Эти простые техники
@@ -41789,7 +39317,6 @@ EMS
 жизнь.
 
 ### Вождение
-`livan_s6_pro_ru_23150fa5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 в
 состоянии
 алкогольного опьянения
@@ -41807,7 +39334,6 @@ EMS
 алкогольного опьянения запрещено.
 
 ### Ответственность
-`livan_s6_pro_ru_c8c6158a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 и
 последствия
 установлены
@@ -41815,7 +39341,6 @@ EMS
 законодательством РФ.
 
 ### Во избежание повреждения автомобиля
-`livan_s6_pro_ru_fb44eade` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 при движении по воде (например, при
 Запуск двигателя и вождение
 132
@@ -41823,14 +39348,12 @@ EMS
 на следующее:
 
 ### 1. Определите
-`livan_s6_pro_ru_569a79d9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 глубину
 перед
 движением по воде. Максимальный
 уровень воды - ребро краевой балки.
 
 ### 2. Двигайтесь на малой скорости, иначе
-`livan_s6_pro_ru_d2660863` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 перед
 автомобилем
 могут
@@ -41844,7 +39367,6 @@ EMS
 автомобиля.
 
 ### 3. Ни при каких обстоятельствах нельзя
-`livan_s6_pro_ru_c96f55c9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:134 | doc_type:owners_manual
 останавливаться, двигаться задним
 ходом,
 глушить
@@ -41918,7 +39440,6 @@ EMS
 •
 
 ### Не совершайте движение по соленой
-`livan_s6_pro_ru_4c876446` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 воде. Соль может вызвать коррозию
 автомобиля. Все части автомобиля,
 контактирующие
@@ -41948,7 +39469,6 @@ EMS
 безопасности вождения.
 
 ### При остановке на автомобиле с
-`livan_s6_pro_ru_7b0bef95` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 двигателем
 с
 турбонаддувом
@@ -41991,7 +39511,6 @@ EMS
 максимум 20 минут).
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_0db5cf05` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:134 | doc_type:owners_manual
 5
 8
 7
@@ -42027,7 +39546,6 @@ EMS
 тормоз.
 
 ### Переведите
-`livan_s6_pro_ru_576d6e14` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:135 | doc_type:owners_manual
 рычаг
 переключения
 передач в положение P.
@@ -42050,13 +39568,11 @@ EMS
 автомобиля, травмам или смерти.
 
 ### Трехкомпонентный
-`livan_s6_pro_ru_8ec02df7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 каталитический
 нейтрализатор
 отработавших газов ДВС
 
 ### Информация
-`livan_s6_pro_ru_f9d11a1f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 о
 трехкомпонентном
 каталитическом
@@ -42068,7 +39584,6 @@ EMS
 сгорания
 
 ### Трехкомпонентный
-`livan_s6_pro_ru_8ec02df7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 каталитический
 нейтрализатор
 отработавших
@@ -42087,7 +39602,6 @@ EMS
 окисления и восстановления.
 
 ### Неправильное
-`livan_s6_pro_ru_f1ce9c52` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 использование
 может
 привести
@@ -42105,7 +39619,6 @@ EMS
 ниже требования.
 
 ### Температура
-`livan_s6_pro_ru_b42b8476` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:135 | doc_type:owners_manual
 выхлопных
 газов
 высока. Не паркуйте автомобиль на
@@ -42125,7 +39638,6 @@ EMS
 привести к возгоранию.
 
 ### Пропуски
-`livan_s6_pro_ru_f2278f66` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 зажигания,
 догорание
 топлива и т. д. могут привести к
@@ -42133,7 +39645,6 @@ EMS
 повреждению
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_be55f205` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 134
 трехкомпонентного
 каталитического
@@ -42153,7 +39664,6 @@ EMS
 руководства.
 
 ### Требования к топливу
-`livan_s6_pro_ru_ddf356b7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 •
 Можно
 использовать
@@ -42177,7 +39687,6 @@ EMS
 повреждению топливного насоса.
 
 ### Требования к запуску
-`livan_s6_pro_ru_840cdb3e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 •
 Не
 продолжайте
@@ -42190,7 +39699,6 @@ EMS
 •
 
 ### Если двигатель
-`livan_s6_pro_ru_ad96e908` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 не запускается, не
 следует
 пытаться
@@ -42203,14 +39711,12 @@ EMS
 акселератора.
 
 ### Требования к движению
-`livan_s6_pro_ru_c60b9b94` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 •
 Не перегружайте и не превышайте
 обороты двигателя.
 •
 
 ### Не глушите автомобиль при движении
-`livan_s6_pro_ru_3905b77e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 на передаче.
 •
 Если мощность автомобиля снижается
@@ -42219,7 +39725,6 @@ EMS
 •
 
 ### Ни в коем случае не снимайте свечу
-`livan_s6_pro_ru_be310bd0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 зажигания или индукционную катушку
 при работающем двигателе.
 •
@@ -42227,7 +39732,6 @@ EMS
 удариться днищем автомобиля.
 
 ### Устройство
-`livan_s6_pro_ru_d97fb5ae` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 контроля
 выхлопных газов
 •
@@ -42237,7 +39741,6 @@ EMS
 масло, соответствующие регламенту.
 
 ### Свинец
-`livan_s6_pro_ru_63d0cc90` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 в
 бензине
 и
@@ -42263,7 +39766,6 @@ EMS
 нейтрализатора.
 
 ### Выхлопные газы
-`livan_s6_pro_ru_c6b3a1f5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:136 | doc_type:owners_manual
 •
 Если
 автомобиль
@@ -42293,7 +39795,6 @@ EMS
 •
 
 ### Неисправности
-`livan_s6_pro_ru_7bb0c044` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 в
 работе
 двигателя
@@ -42317,7 +39818,6 @@ EMS
 обслуживания LIVAN для проверки.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_67f09bec` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 5
 8
 7
@@ -42348,7 +39848,6 @@ EMS
 нахождение вблизи него.
 
 ### Избегайте
-`livan_s6_pro_ru_c43ea5b3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 вдыхания
 выхлопных
 газов. Выхлопные газы содержат
@@ -42372,7 +39871,6 @@ EMS
 ослаблены.
 
 ### Регулярно
-`livan_s6_pro_ru_6affddb7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 проверяйте
 выхлопную
 систему.
@@ -42392,7 +39890,6 @@ EMS
 обслуживания.
 
 ### Не запускайте двигатель в гараже или в
-`livan_s6_pro_ru_e956b779` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:137 | doc_type:owners_manual
 закрытом
 помещении,
 иначе
@@ -42455,7 +39952,6 @@ EMS
 других препятствий.
 
 ### Если вы чувствуете запах выхлопных
-`livan_s6_pro_ru_e4bcc8f6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 газов
 в
 машине,
@@ -42469,7 +39965,6 @@ EMS
 обслуживания
 
 ### LIVAN
-`livan_s6_pro_ru_0b78c67e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 для
 проведения
 технического обслуживания.
@@ -42477,7 +39972,6 @@ EMS
 136
 
 ### Требования к топливу
-`livan_s6_pro_ru_a08ee27a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 Пожалуйста,
 заправляйте
 топливный бак в соответствии с
@@ -42488,7 +39982,6 @@ EMS
 указанными на этикетке на крышке бака.
 
 ### Использование низкомарочного бензина
-`livan_s6_pro_ru_9e605ed0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 может привести к сильному повреждению
 трехкомпонентного
 каталитического
@@ -42498,7 +39991,6 @@ EMS
 двигателя внутреннего сгорания.
 
 ### Для поддержания двигателя в чистоте и
-`livan_s6_pro_ru_cb7d622a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 достижения
 наилучших
 характеристик
@@ -42532,7 +40024,6 @@ EMS
 уровня, двигатель нуждается в ремонте.
 
 ### Некоторые
-`livan_s6_pro_ru_2e84db54` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 виды
 топлива
 содержат
@@ -42544,7 +40035,6 @@ EMS
 марганца
 
 ### (ММТ).
-`livan_s6_pro_ru_de8f4bef` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 Мы
 не
 рекомендуем
@@ -42553,7 +40043,6 @@ EMS
 содержащее ММТ. Топливо, содержащее
 
 ### ММТ,
-`livan_s6_pro_ru_916c5505` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 сократит
 срок
 службы
@@ -42574,7 +40063,6 @@ EMS
 обслуживания
 
 ### LIVAN
-`livan_s6_pro_ru_4b4ca767` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 для
 проведения
 технического обслуживания.
@@ -42583,7 +40071,6 @@ EMS
 системы от нагара
 
 ### Очиститель топливной системы от нагара
-`livan_s6_pro_ru_a601e06e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 обладает
 способностью
 улучшения
@@ -42632,7 +40119,6 @@ EMS
 компанией
 
 ### LIVAN,
-`livan_s6_pro_ru_966a93a9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 не
 должны
 добавляться
@@ -42650,7 +40136,6 @@ EMS
 использованием топлива с метанолом.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_0cb87162` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:138 | doc_type:owners_manual
 5
 8
 7
@@ -42696,7 +40181,6 @@ EMS
 пистолета.
 
 ### Топливозаливная горловина
-`livan_s6_pro_ru_58775d20` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 и заправка
 Крышка топливного бака расположена на
 задней
@@ -42705,7 +40189,6 @@ EMS
 автомобиля.
 
 ### Крышка
-`livan_s6_pro_ru_99e62ec7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 топливного
 бака
 открывается
@@ -42715,7 +40198,6 @@ EMS
 автомобиле.
 
 ### Нажатие
-`livan_s6_pro_ru_d5e841af` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 на
 правую
 сторону
@@ -42723,7 +40205,6 @@ EMS
 топливного бака позволяет открыть ее.
 
 ### Привязанная
-`livan_s6_pro_ru_99f62502` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 крышка
 топливозаливной
 горловины
@@ -42760,7 +40241,6 @@ EMS
 ними.
 
 ### Заглушите
-`livan_s6_pro_ru_4c80cf93` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:139 | doc_type:owners_manual
 двигатель
 во
 время
@@ -42776,7 +40256,6 @@ EMS
 •
 
 ### Не оставляйте заправочный пистолет
-`livan_s6_pro_ru_6be70e3b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 без
 присмотра
 во
@@ -42804,7 +40283,6 @@ EMS
 ожогам.
 
 ### Переполнение
-`livan_s6_pro_ru_1a45f244` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 топливного
 бака
 может
@@ -42831,7 +40309,6 @@ EMS
 топливозаливной горловины.
 
 ### Будьте
-`livan_s6_pro_ru_a76ca141` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 осторожны,
 чтобы
 не
@@ -42848,7 +40325,6 @@ EMS
 После
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_1677c97a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 138
 выключения
 заправочного
@@ -42872,7 +40348,6 @@ EMS
 щелчка.
 
 ### Закройте
-`livan_s6_pro_ru_a65f1aa2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 крышку
 топливного
 бака
@@ -42888,7 +40363,6 @@ EMS
 атмосферу.
 
 ### Закройте
-`livan_s6_pro_ru_a65f1aa2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 крышку топливного бака.
 Если во время заправки возникло
 возгорание,
@@ -42898,7 +40372,6 @@ EMS
 пистолет.
 
 ### Необходимо
-`livan_s6_pro_ru_6caccdcc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 сообщить
 персоналу
 АЗС,
@@ -42908,7 +40381,6 @@ EMS
 покинуть площадку.
 
 ### Закрывайте
-`livan_s6_pro_ru_80b1d474` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 крышку
 топливного
 бака,
@@ -42923,7 +40395,6 @@ EMS
 повреждена.
 
 ### Если вам нужно заменить крышку
-`livan_s6_pro_ru_cc3acc32` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 топливозаливной
 горловины,
 обратитесь
@@ -42947,7 +40418,6 @@ EMS
 топлива.
 
 ### Детали
-`livan_s6_pro_ru_5048ab1e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:140 | doc_type:owners_manual
 и
 компоненты
 топливной
@@ -42977,7 +40447,6 @@ EMS
 обслуживаниюе.
 
 ### Удар отсечной системы
-`livan_s6_pro_ru_72400a9f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 Во
 время
 удара
@@ -42991,7 +40460,6 @@ EMS
 топлива.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_bcf03a98` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:140 | doc_type:owners_manual
 5
 8
 7
@@ -43007,7 +40475,6 @@ EMS
 передач (7DCT)
 
 ### Информация о передачах
-`livan_s6_pro_ru_52329099` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:141 | doc_type:owners_manual
 P (парковка)
 Когда
 рычаг
@@ -43042,7 +40509,6 @@ R (передача заднего хода)
 хода
 
 ### (R)
-`livan_s6_pro_ru_1d10da55` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:141 | doc_type:owners_manual
 на
 парковку
 (P),
@@ -43051,7 +40517,6 @@ R (передача заднего хода)
 Р, не нажимая педаль тормоза.
 
 ### Переключиться
-`livan_s6_pro_ru_98832a53` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:141 | doc_type:owners_manual
 на
 передачу
 заднего
@@ -43097,14 +40562,12 @@ N (нейтральная передача)
 положение
 
 ### ON,
-`livan_s6_pro_ru_5ea53ca9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 чтобы
 переключиться с нейтральной передачи
 (N) на парковку (P), достаточно нажать
 кнопку
 
 ### P;
-`livan_s6_pro_ru_6cdf85a2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:141 | doc_type:owners_manual
 чтобы
 переключиться
 с
@@ -43120,7 +40583,6 @@ N (нейтральная передача)
 переключиться с нейтральной передачи
 
 ### (N)
-`livan_s6_pro_ru_e4079214` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:141 | doc_type:owners_manual
 на
 передачу
 заднего
@@ -43133,7 +40595,6 @@ N (нейтральная передача)
 вперед.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_b59f6cc5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 140
 D
 (передача
@@ -43169,14 +40630,12 @@ ON, чтобы переключиться с передачи
 передачу
 
 ### (N),
-`livan_s6_pro_ru_25b74382` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 а
 затем
 переключить с нейтральной передачи (N)
 на передачу заднего хода (R).
 
 ### При рычаге переключения передач
-`livan_s6_pro_ru_366fce7b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:142 | doc_type:owners_manual
 в положении движения вперед (D)
 или движения назад (R), если водитель
 отпустит
@@ -43191,7 +40650,6 @@ ON, чтобы переключиться с передачи
 автоматически.
 
 ### Во время длительной стоянки или во
-`livan_s6_pro_ru_ed09a9e4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 время
 стоянки
 на
@@ -43206,7 +40664,6 @@ ON, чтобы переключиться с передачи
 переключатель
 
 ### EPB
-`livan_s6_pro_ru_2ef11874` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:142 | doc_type:owners_manual
 для
 установки
 стояночного тормоза,
@@ -43228,7 +40685,6 @@ ON, чтобы переключиться с передачи
 EPB для установки стояночного тормоза.
 
 ### При краткосрочных остановках не
-`livan_s6_pro_ru_7a3a9489` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 рекомендуется
 использовать
 положение
@@ -43236,7 +40692,6 @@ EPB для установки стояночного тормоза.
 вперед
 
 ### (D),
-`livan_s6_pro_ru_ecdac37e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:142 | doc_type:owners_manual
 движения
 назад
 (R)
@@ -43253,7 +40708,6 @@ M
 тормоза.
 
 ### Это может повлиять на срок службы
-`livan_s6_pro_ru_81a0b707` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 автоматической коробки передач. Ни при
 каких
 обстоятельствах
@@ -43272,7 +40726,6 @@ M
 управление.
 
 ### Запустите
-`livan_s6_pro_ru_8ee2e6f6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:142 | doc_type:owners_manual
 двигатель
 в
 положении
@@ -43319,7 +40772,6 @@ M
 передачи или до включения передачи.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_4e9895b1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:142 | doc_type:owners_manual
 5
 8
 7
@@ -43356,7 +40808,6 @@ M
 газа.
 
 ### Переключение
-`livan_s6_pro_ru_4ae69bd4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 способов
 управления автомобилем
 Вы
@@ -43386,7 +40837,6 @@ M
 Экономичный (ECO)
 
 ### В экономичном режиме все передачи
-`livan_s6_pro_ru_af28a8c5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 движения вперед будут автоматически
 переключаться на повышенную передачу
 заранее
@@ -43403,7 +40853,6 @@ M
 Спорт (SPORT)
 
 ### В
-`livan_s6_pro_ru_efd4d149` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 спортивном
 режиме
 все
@@ -43430,7 +40879,6 @@ M
 Интеллектуальный (ADAPTIVE)
 
 ### В
-`livan_s6_pro_ru_efd4d149` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 режиме
 Adaptive
 система
@@ -43440,7 +40888,6 @@ Adaptive
 способ управления.
 
 ### Запрещается
-`livan_s6_pro_ru_3d223214` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 переключение
 способа
 управления
@@ -43461,14 +40908,12 @@ Adaptive
 исходу.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_3c571367` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:143 | doc_type:owners_manual
 142
 Тормозные и электронные
 вспомогательные
 системы
 
 ### Торможение включает в себя время на
-`livan_s6_pro_ru_3bd0c7b7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 обнаружение
 и
 реакцию.
@@ -43513,7 +40958,6 @@ Adaptive
 депрессия также могут оказать влияние.
 
 ### Но даже если время реакции составляет
-`livan_s6_pro_ru_07abbd54` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 3/4 секунды, автомобиль, движущийся со
 скоростью 100 км/ч, проедет 20 метров. В
 экстренной ситуации это будет большое
@@ -43526,7 +40970,6 @@ Adaptive
 средств.
 
 ### Фактический
-`livan_s6_pro_ru_5dc61e7a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 тормозной путь сильно различается в
 зависимости
 от
@@ -43551,7 +40994,6 @@ Adaptive
 усилия.
 
 ### Следует
-`livan_s6_pro_ru_c5c1ab99` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 избегать
 экстренного
 торможения
@@ -43580,7 +41022,6 @@ Adaptive
 метод.
 
 ### Тормоза
-`livan_s6_pro_ru_069ad62e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 могут
 не
 успеть
@@ -43640,7 +41081,6 @@ Adaptive
 педаль тормоза.
 
 ### Если в автомобиле слышен резкий
-`livan_s6_pro_ru_0ff181b2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 звук трения металла при нажатии
 на
 педаль
@@ -43665,7 +41105,6 @@ Adaptive
 движения.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_15a1d79c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 5
 8
 7
@@ -43684,7 +41123,6 @@ Adaptive
 тормоза.
 
 ### В
-`livan_s6_pro_ru_005f4132` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 противном
 случае
 компоненты тормоза будут изнашиваться
@@ -43692,7 +41130,6 @@ Adaptive
 увеличиваться.
 
 ### При длительном спуске по склону
-`livan_s6_pro_ru_4addc541` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 используйте торможение двигателя.
 Продолжительное
 использование
@@ -43701,7 +41138,6 @@ Adaptive
 ручной режим на 3 или 2 передаче.
 
 ### Электрический
-`livan_s6_pro_ru_c5f91667` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 стояночный
 тормоз (EPB)
 Переключатель
@@ -43710,7 +41146,6 @@ Adaptive
 центральной консоли.
 
 ### Переведите
-`livan_s6_pro_ru_d56056d6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 замок
 зажигания
 в
@@ -43727,12 +41162,10 @@ ON,
 завершено.
 
 ### Автоматическое отключение EPB
-`livan_s6_pro_ru_c38773f0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:145 | doc_type:owners_manual
 Запустите двигатель, пристегните ремень
 безопасности,
 
 ### EPB
-`livan_s6_pro_ru_6b6c29a9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 включен,
 рычаг
 переключения
@@ -43744,13 +41177,11 @@ ON,
 газа,
 
 ### EPB
-`livan_s6_pro_ru_6b6c29a9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:145 | doc_type:owners_manual
 отключится
 автоматически, световой индикатор EPB
 погаснет.
 
 ### Ручная парковка EPB
-`livan_s6_pro_ru_2327df05` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 При
 стационарном
 положении
@@ -43759,7 +41190,6 @@ ON,
 переключатель
 
 ### EPB,
-`livan_s6_pro_ru_9f3cd11d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:145 | doc_type:owners_manual
 ручная
 парковка
 завершится,
@@ -43768,7 +41198,6 @@ ON,
 использовании
 
 ### EPB
-`livan_s6_pro_ru_6b6c29a9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 предупреждающий световой сигнал
 стояночного
 тормоза
@@ -43784,7 +41213,6 @@ ON,
 автомобилей
 
 ### LIVAN
-`livan_s6_pro_ru_f15d6c8c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 для
 проведения
 технического обслуживания.
@@ -43792,13 +41220,11 @@ ON,
 144
 
 ### Функция автоматического удержание
-`livan_s6_pro_ru_952e13a5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 автомобиля, оборудованного EPB
 Когда автомобиль находится в состоянии
 покоя, при замке зажигания в положении
 
 ### OFF
-`livan_s6_pro_ru_6a8162d5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 или
 при
 скорости
@@ -43806,7 +41232,6 @@ ON,
 двигателя меньше 180 оборотов в минуту
 
 ### EPB
-`livan_s6_pro_ru_57708e42` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 производит
 автоматическое
 удержание автомобиля.
@@ -43814,7 +41239,6 @@ ON,
 удержание
 
 ### HOLD
-`livan_s6_pro_ru_6790571d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:146 | doc_type:owners_manual
 может
 помочь
 водителю удобнее начать движение на
@@ -43835,7 +41259,6 @@ ON,
 предотвращая проскальзывание.
 
 ### Если промедлить с нажатием на
-`livan_s6_pro_ru_c58bf04b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:146 | doc_type:owners_manual
 педаль
 газа
 до
@@ -43850,7 +41273,6 @@ ON,
 двигаться.
 
 ### Переключатель AUTO HOLD находится в
-`livan_s6_pro_ru_39be3f33` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 звене
 переключателей
 центральной
@@ -43862,7 +41284,6 @@ ON,
 безопасности нажмите на переключатель
 
 ### HOLD,
-`livan_s6_pro_ru_cb21c551` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:146 | doc_type:owners_manual
 функция
 AUTO
 HOLD
@@ -43873,7 +41294,6 @@ HOLD
 панели загорится индикатор состояния
 
 ### Выключение
-`livan_s6_pro_ru_c9659c11` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:146 | doc_type:owners_manual
 функции
 автоматического удержания
 Нажмите на переключатель AUTO HOLD,
@@ -43888,7 +41308,6 @@ HOLD
 .
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_f003a388` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 5
 8
 7
@@ -43905,7 +41324,6 @@ HOLD
 автоматического удержания
 
 ### 1. Запустите
-`livan_s6_pro_ru_a96c36e8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:147 | doc_type:owners_manual
 двигатель,
 закройте
 переднюю левую дверь, пристегните
@@ -43913,14 +41331,12 @@ HOLD
 функции
 
 ### HOLD
-`livan_s6_pro_ru_a787f58d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 скорость
 движения равна нулю. Нажмите на
 педаль
 тормоза.
 
 ### AUTO
-`livan_s6_pro_ru_c3423092` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 HOLD активируется,
 на
 приборной
@@ -43931,7 +41347,6 @@ HOLD активируется,
 ;
 
 ### 2. Слегка нажмите на педаль газа или
-`livan_s6_pro_ru_dc6a690d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 переведите
 рычаг
 передач
@@ -43942,14 +41357,12 @@ HOLD активируется,
 функция
 
 ### HOLD
-`livan_s6_pro_ru_a787f58d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 отменится,
 предупреждающий световой сигнал
 стояночного тормоза
 погаснет.
 
 ### 3. Если
-`livan_s6_pro_ru_8ee34006` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 по
 истечении
 10
@@ -43966,7 +41379,6 @@ HOLD активируется,
 загорится.
 
 ### Функция автоматического удержания
-`livan_s6_pro_ru_6285e65c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:147 | doc_type:owners_manual
 отменится принудительно.
 1. Отстегните
 ремень
@@ -43977,7 +41389,6 @@ HOLD активируется,
 функция
 
 ### HOLD
-`livan_s6_pro_ru_a787f58d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:147 | doc_type:owners_manual
 отменится
 автоматически.
 2. Если функция AUTO HOLD активна,
@@ -43991,7 +41402,6 @@ HOLD активируется,
 тормоз
 
 ### EPB,
-`livan_s6_pro_ru_a42a0604` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 на
 приборной панели гаснет индикатор
 состояния
@@ -44003,7 +41413,6 @@ AVH
 .
 
 ### (ABS)
-`livan_s6_pro_ru_d851a539` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 Антиблокировочная система (ABS) может
 предотвратить
 блокировку
@@ -44034,7 +41443,6 @@ AVH
 явление.
 
 ### Слишком
-`livan_s6_pro_ru_54e76aa9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 высокое
 или
 слишком
@@ -44048,7 +41456,6 @@ AVH
 эффективности торможения.
 
 ### Применение
-`livan_s6_pro_ru_34cf8e3b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 функции
 антиблокировки
 Не нужно давить на педаль тормоза.
@@ -44064,7 +41471,6 @@ AVH
 нормальное явление.
 
 ### Торможение
-`livan_s6_pro_ru_f10194ff` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 в
 аварийной
 ситуации
@@ -44079,7 +41485,6 @@ AVH
 выполнение
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_936040b9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 146
 поворота
 более
@@ -44088,14 +41493,12 @@ AVH
 оптимальное торможение.
 
 ### Электронное
-`livan_s6_pro_ru_7783f846` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 распределение
 тормозного усилия (EBD)
 Антиблокировочная
 система
 
 ### (ABS)
-`livan_s6_pro_ru_e9f5c1a3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 оборудована
 функцией
 электронного
@@ -44111,7 +41514,6 @@ AVH
 характеристики.
 
 ### Система
-`livan_s6_pro_ru_763a1cb4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 электрического
 стояночного
 тормоза
@@ -44125,7 +41527,6 @@ AVH
 передними и задними колесами.
 
 ### Электронная
-`livan_s6_pro_ru_ca4a9679` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:148 | doc_type:owners_manual
 система
 контроля
 устойчивости
@@ -44136,7 +41537,6 @@ AVH
 устойчивости
 
 ### (ESC)
-`livan_s6_pro_ru_e0b7ccbd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 -
 это
 активная
@@ -44163,7 +41563,6 @@ AVH
 курс.
 
 ### Электронная
-`livan_s6_pro_ru_ca4a9679` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:148 | doc_type:owners_manual
 система
 контроля
 устойчивости (ESC) является лишь
@@ -44177,7 +41576,6 @@ AVH
 Пожалуйста, водите осторожно.
 
 ### Выключение ESC
-`livan_s6_pro_ru_6460a9c7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 Вы
 можете
 управлять
@@ -44192,7 +41590,6 @@ SPORT,
 control】
 
 ### В
-`livan_s6_pro_ru_f9338d39` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:148 | doc_type:owners_manual
 это
 время
 на
@@ -44205,14 +41602,12 @@ ESC можно отключить:
 •
 
 ### При движении по глубокому снегу или
-`livan_s6_pro_ru_1f739567` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 по рыхлым дорогам.
 •
 При преодолении ям.
 Включение ESC
 
 ### SPORT
-`livan_s6_pro_ru_81606721` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:148 | doc_type:owners_manual
 включается
 на
 интерфейсе
@@ -44223,7 +41618,6 @@ ESC можно отключить:
 гаснет.
 
 ### Усилитель
-`livan_s6_pro_ru_bbf2a4f5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 торможения
 (HBA)
 При
@@ -44243,7 +41637,6 @@ ESC можно отключить:
 на педаль тормоза с достаточной силой,
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_510722aa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 5
 8
 7
@@ -44309,7 +41702,6 @@ ESC можно отключить:
 вернется в нормальный режим работы.
 
 ### Вспомогательная
-`livan_s6_pro_ru_8110c289` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 гидравлическая
 тормозная
 система
@@ -44328,7 +41720,6 @@ ESC можно отключить:
 и водить осторожно.
 
 ### Функция
-`livan_s6_pro_ru_90f9c8af` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 помощи
 при
 подъеме в гору (ННС)
@@ -44351,7 +41742,6 @@ ESC можно отключить:
 функция HHC также будет доступна.
 
 ### Функцию помощи при подъеме по
-`livan_s6_pro_ru_84c93491` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 склону можно активировать только
 при
 включенной
@@ -44364,7 +41754,6 @@ ESC можно отключить:
 отпущенном стояночном тормозе.
 
 ### Функция помощи при подъеме по
-`livan_s6_pro_ru_41016a21` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 склону
 лишь
 временно
@@ -44386,7 +41775,6 @@ ESC можно отключить:
 осторожность!
 
 ### Антипробуксовочная
-`livan_s6_pro_ru_25519f5b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:149 | doc_type:owners_manual
 система (TCS)
 Антипробуксовочная
 система
@@ -44400,7 +41788,6 @@ ESC можно отключить:
 ускорения.
 
 ### Посредством
-`livan_s6_pro_ru_ca005f49` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:149 | doc_type:owners_manual
 управления
 выводом мощности или использования
 торможения
@@ -44414,7 +41801,6 @@ ESC можно отключить:
 автомобиля.
 
 ### Антипробуксовочная
-`livan_s6_pro_ru_25519f5b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:149 | doc_type:owners_manual
 система
 запускается автоматически. Функция ESC
 SPORT
@@ -44424,7 +41810,6 @@ SPORT
 функций управления на дисплее. При
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_94281a73` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:149 | doc_type:owners_manual
 148
 включении
 функции,
@@ -44488,7 +41873,6 @@ SPORT
 система
 
 ### (TCS)
-`livan_s6_pro_ru_918c98f5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 может
 сразу
 же
@@ -44498,7 +41882,6 @@ SPORT
 выключении
 
 ### SPORT
-`livan_s6_pro_ru_dc3f12ff` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:150 | doc_type:owners_manual
 и
 отключении
 функции
@@ -44508,7 +41891,6 @@ SPORT
 выключения системы ESC.
 
 ### При переводе замка зажигания в
-`livan_s6_pro_ru_478e3e8b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:150 | doc_type:owners_manual
 положение
 ON
 осуществляется
@@ -44525,7 +41907,6 @@ ON
 устойчивости
 
 ### ESC.
-`livan_s6_pro_ru_03676bad` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 Через несколько секунд, при отсутствии
 неисправностей,
 он
@@ -44533,7 +41914,6 @@ ON
 гореть.
 
 ### При неисправности антипробуксовочной
-`livan_s6_pro_ru_9bb0001d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 системы
 (TCS)
 на
@@ -44547,7 +41927,6 @@ ON
 системы
 
 ### ESC.
-`livan_s6_pro_ru_03676bad` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 Если
 неисправность не устранить, индикатор
 будет гореть все время. Если неполадку
@@ -44561,7 +41940,6 @@ ON
 проведения проверки.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_2fa57687` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:150 | doc_type:owners_manual
 5
 8
 7
@@ -44598,7 +41976,6 @@ ON
 1,5 метра позади автомобиля.
 
 ### Система парковочных радаров не
-`livan_s6_pro_ru_8dda1bb6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:151 | doc_type:owners_manual
 может
 заменить
 визуальное
@@ -44625,7 +42002,6 @@ ON
 •
 
 ### Система парковочных радаров может
-`livan_s6_pro_ru_6fd6450a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 не
 обнаружить
 детей,
@@ -44637,7 +42013,6 @@ ON
 •
 
 ### Система
-`livan_s6_pro_ru_edd58160` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 парковочных
 радаров
 не
@@ -44646,7 +42021,6 @@ ON
 •
 
 ### Если Вы не обращаете внимания на
-`livan_s6_pro_ru_3bbb7f7e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:151 | doc_type:owners_manual
 окружение
 автомобиля
 до
@@ -44674,7 +42048,6 @@ ON
 двигаться задним ходом.
 
 ### Включение
-`livan_s6_pro_ru_007f0715` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 и
 выключение
 системы
@@ -44684,12 +42057,10 @@ ON
 (R) система включается.
 
 ### Выключение
-`livan_s6_pro_ru_7d0dd99b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 При выключении задней передачи (R)
 система отключается.
 
 ### Как работает система
-`livan_s6_pro_ru_e80ecdd1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 При
 работе
 системы
@@ -44722,7 +42093,6 @@ ON
 отделения.
 
 ### Однако
-`livan_s6_pro_ru_a2dc28a8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:151 | doc_type:owners_manual
 предметы
 должны
 находиться в пределах 1,5 метров от
@@ -44746,7 +42116,6 @@ ON
 тревогу при следующих условиях:
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_ee007edc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:151 | doc_type:owners_manual
 150
 Неспособность
 обнаруживать
@@ -44766,7 +42135,6 @@ ON
 •
 
 ### Датчики
-`livan_s6_pro_ru_2d1a0563` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:152 | doc_type:owners_manual
 системы
 парковочных
 радаров
@@ -44778,7 +42146,6 @@ ON
 •
 
 ### Датчики
-`livan_s6_pro_ru_2d1a0563` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:152 | doc_type:owners_manual
 системы
 парковочных
 радаров
@@ -44793,7 +42160,6 @@ ON
 •
 
 ### Датчики
-`livan_s6_pro_ru_2d1a0563` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:152 | doc_type:owners_manual
 системы
 парковочных
 радаров
@@ -44812,7 +42178,6 @@ ON
 ультразвуковые волны.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_e8d6af8e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:152 | doc_type:owners_manual
 5
 8
 7
@@ -44835,7 +42200,6 @@ ON
 специфической формы.
 
 ### Возможна ложная тревога
-`livan_s6_pro_ru_3e68b1b6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:153 | doc_type:owners_manual
 •
 Когда поверхность датчиков системы
 парковочных
@@ -44849,7 +42213,6 @@ ON
 •
 
 ### Когда поверхность датчиков системы
-`livan_s6_pro_ru_0bd58ade` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:153 | doc_type:owners_manual
 парковочных
 радаров
 загрязнена,
@@ -44871,7 +42234,6 @@ ON
 сигнал тревоги.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_e98ca624` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:153 | doc_type:owners_manual
 152
 •
 Если на автомобиле или рядом с ним
@@ -44901,7 +42263,6 @@ ON
 •
 
 ### При движении автомобиля во время
-`livan_s6_pro_ru_6935f2e0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:154 | doc_type:owners_manual
 снега или дождя система парковочных
 радаров
 может
@@ -44952,7 +42313,6 @@ ON
 другие препятствия.
 
 ### Не распыляйте воду под высоким
-`livan_s6_pro_ru_7a75d8de` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:154 | doc_type:owners_manual
 давлением на датчик, например, из
 водяного пистолета, а также не сжимайте
 и
@@ -44965,7 +42325,6 @@ ON
 система может выйти из строя.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_c6d49afa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:154 | doc_type:owners_manual
 5
 8
 7
@@ -44981,7 +42340,6 @@ ON
 задним ходом
 
 ### Система наблюдения за задним ходом
-`livan_s6_pro_ru_96cf4f55` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:155 | doc_type:owners_manual
 помогает
 водителю
 четко
@@ -45017,7 +42375,6 @@ ON
 отображавшийся интерфейс.
 
 ### Система
-`livan_s6_pro_ru_54457788` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:155 | doc_type:owners_manual
 наблюдения
 за
 задним
@@ -45029,7 +42386,6 @@ ON
 •
 
 ### Камера
-`livan_s6_pro_ru_321dca42` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:155 | doc_type:owners_manual
 заднего
 вида
 не
@@ -45043,7 +42399,6 @@ ON
 •
 
 ### Камера
-`livan_s6_pro_ru_321dca42` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:155 | doc_type:owners_manual
 заднего
 вида
 может
@@ -45112,7 +42467,6 @@ ON
 прежде чем двигаться задним ходом.
 
 ### Камера заднего вида расположена над
-`livan_s6_pro_ru_51b6d9af` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:155 | doc_type:owners_manual
 задним
 номерным
 знаком.
@@ -45122,7 +42476,6 @@ ON
 объекты по углам или под бампером.
 
 ### Изображение
-`livan_s6_pro_ru_74e1c9ba` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:155 | doc_type:owners_manual
 на
 мультимедийном
 дисплее
@@ -45140,7 +42493,6 @@ ON
 отличается от фактического.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_ed5f55bf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:155 | doc_type:owners_manual
 154
 Вспомогательная
 линия
@@ -45162,7 +42514,6 @@ ON
 именно:
 
 ### 3. Зеленая 1.0 м.
-`livan_s6_pro_ru_7d469540` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 Ввиду
 разной
 нагрузки
@@ -45175,14 +42526,12 @@ ON
 •
 
 ### Вспомогательная
-`livan_s6_pro_ru_55d64ed7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 линия
 местоположения заднего вида
 Положение вспомогательных линий - 20
 ±10 см слева и справа от автомобиля.
 
 ### Динамическая
-`livan_s6_pro_ru_1559c18d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:156 | doc_type:owners_manual
 вспомогательная
 линия
 положения
@@ -45196,7 +42545,6 @@ ON
 поворота рулевого колеса.
 
 ### Прерывание связи камеры заднего
-`livan_s6_pro_ru_61c400da` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:156 | doc_type:owners_manual
 хода
 Когда камера заднего хода не работает
 или
@@ -45210,7 +42558,6 @@ ON
 что камера пользователя не работает.
 
 ### Если связь с камерой восстанавливается
-`livan_s6_pro_ru_45a185c4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 в течение 10 секунд, восстанавливается и
 изображение. Если связь с камерой не
 восстанавливается в течение 10 секунд,
@@ -45223,7 +42570,6 @@ ON
 ходом.
 
 ### Рекомендуем
-`livan_s6_pro_ru_89ce7011` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 Вам
 обратиться
 в
@@ -45254,7 +42600,6 @@ ON
 помощью видеоизображения.
 
 ### Система
-`livan_s6_pro_ru_d4dcdb9f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 камер
 общего
 вида
@@ -45273,7 +42618,6 @@ ON
 внимательно
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_645112af` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 5
 8
 7
@@ -45291,7 +42635,6 @@ ON
 автомобиля.
 
 ### Широкоугольные
-`livan_s6_pro_ru_f4bfd57b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 камеры
 подвержены
 влиянию
@@ -45336,7 +42679,6 @@ ON
 •
 
 ### Включите
-`livan_s6_pro_ru_c3aa7af8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:157 | doc_type:owners_manual
 совмещенную
 функцию
 поворота на
@@ -45354,7 +42696,6 @@ ON
 •
 
 ### Нажмите
-`livan_s6_pro_ru_8d2bef6b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 на
 общий
 вид
@@ -45365,14 +42706,12 @@ ON
 •
 
 ### Переведение
-`livan_s6_pro_ru_0ed606be` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 рычага
 переключения
 передач в положение R автоматически
 включает систему камер общего вида.
 
 ### Войти в интерфейс изображения
-`livan_s6_pro_ru_6426c4f4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 общего
 вида
 вышеуказанным
@@ -45380,7 +42719,6 @@ ON
 скоростью менее 30 км/ч.
 
 ### При переходе дисплея в интерфейс
-`livan_s6_pro_ru_3aff9935` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:157 | doc_type:owners_manual
 навигации
 совмещенная
 функция
@@ -45391,7 +42729,6 @@ ON
 изображения общего вида
 
 ### 1. Включив указатель поворота, войдите
-`livan_s6_pro_ru_cb77edcc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 в
 изображение
 общего
@@ -45415,7 +42752,6 @@ ON
 автоматически.
 
 ### 2. Нажмите
-`livan_s6_pro_ru_4d2361e7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 на
 кнопку
 «Назаде
@@ -45425,7 +42761,6 @@ ON
 вида на дисплее.
 
 ### 3. Включенная система камер общего
-`livan_s6_pro_ru_065f8bfa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 вида
 при
 положении
@@ -45433,7 +42768,6 @@ ON
 переключения передач в положении
 
 ### R выключается при переводе рычага
-`livan_s6_pro_ru_5b844870` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 в положение D, скорости автомобиля
 свыше 15 км/ч.
 4. После
@@ -45449,7 +42783,6 @@ ON
 система выключается автоматически.
 
 ### 5. При переключении на передачу P с
-`livan_s6_pro_ru_0181bd58` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 других
 положений
 изображение
@@ -45460,7 +42793,6 @@ ON
 бездействии в течение 5 секунд.
 
 ### Функционирование
-`livan_s6_pro_ru_5825b28b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 интерфейса
 изображения
 общего вида
@@ -45472,7 +42804,6 @@ ON
 его
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_f15127fc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:157 | doc_type:owners_manual
 156
 потребностями,
 нажимая
@@ -45480,7 +42811,6 @@ ON
 определенные части дисплея.
 
 ### Выход из интерфейса изображения
-`livan_s6_pro_ru_6365f3e1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 общего вида.
 2. Вспомогательные линии парковки
 Нажатие
@@ -45496,13 +42826,11 @@ ON
 парковки.
 
 ### При следующей активации системы
-`livan_s6_pro_ru_08b76228` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 она включится по умолчанию.
 3. Эффект вида 3D
 Переключает на эффект вида 3D.
 
 ### 4. Множественная
-`livan_s6_pro_ru_4b798c65` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 пространственная
 диаграмма
 Открыв меню выбора множественной
@@ -45513,7 +42841,6 @@ ON
 множественных проекций.
 
 ### 5. Настройки
-`livan_s6_pro_ru_86beb626` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 Можно включить/выключить эффект
 кругового
 3D,
@@ -45525,7 +42852,6 @@ ON
 поворота.
 
 ### За исключением кнопок вышеуказанных
-`livan_s6_pro_ru_dc816cf9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 функций также можно напрямую нажать
 на значок камеры возле изображения
 модели автомобиля общего вида, чтобы
@@ -45536,7 +42862,6 @@ ON
 ракурсы изображения.
 
 ### Данный
-`livan_s6_pro_ru_d284b452` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:158 | doc_type:owners_manual
 автомобиль
 оборудован
 широкоугольными
@@ -45602,7 +42927,6 @@ ON
 обстановку.
 
 ### Оценивайте
-`livan_s6_pro_ru_afc55ceb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 состояние
 окружающей
 дороги на основе реальной обстановки,
@@ -45622,12 +42946,10 @@ ON
 вида.
 
 ### Данная
-`livan_s6_pro_ru_938ed6cc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 система может использоваться только в
 качестве вспомогательного средства.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_fbc85e4c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 5
 8
 7
@@ -45642,7 +42964,6 @@ ON
 Система управления круизконтролем (СС)
 
 ### Благодаря
-`livan_s6_pro_ru_a7a09e34` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 системе
 управления
 круизконтролем
@@ -45682,14 +43003,12 @@ ON
 автомобиль может потерять управление.
 
 ### Кнопка
-`livan_s6_pro_ru_907412d9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:159 | doc_type:owners_manual
 управления
 круиз-контролем
 расположена на левой стороне рулевого
 колеса.
 
 ### 1. Кнопка круиз-контроля: нажмите эту
-`livan_s6_pro_ru_a8e44a80` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 кнопку,
 чтобы
 включить
@@ -45700,7 +43019,6 @@ ON
 круиз-контролем.
 
 ### Световой
-`livan_s6_pro_ru_12614b5a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:159 | doc_type:owners_manual
 индикатор круиз-контроля на дисплее
 приборной
 панели
@@ -45709,14 +43027,12 @@ ON
 потухнет.
 
 ### 2. Кнопки
-`livan_s6_pro_ru_e79420cb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 регулировки
 скорости
 и
 настройки скорости движения:
 
 ### Крейсерский режим используется для
-`livan_s6_pro_ru_7bfb45d1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 настройки
 крейсерской
 скорости
@@ -45729,7 +43045,6 @@ ON
 скорость.
 
 ### Переведение
-`livan_s6_pro_ru_a880d02a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 данной
 кнопки
 вниз
@@ -45760,7 +43075,6 @@ ON
 круиз-контролем, выключите ее.
 
 ### Настройка
-`livan_s6_pro_ru_19293f2d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 скорости
 автомобиля
 1. Нажмите
@@ -45769,7 +43083,6 @@ ON
 чтобы активировать круиз-контроль.
 
 ### 2. Для
-`livan_s6_pro_ru_d6e8a6a3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 установки
 текущей
 скорости
@@ -45785,7 +43098,6 @@ ON
 направлении вниз.
 
 ### 3. Нажимая
-`livan_s6_pro_ru_62a32427` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:159 | doc_type:owners_manual
 кнопку
 регулировки
 и
@@ -45803,7 +43115,6 @@ ON
 использовании круиз-контроля.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_d487518c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:159 | doc_type:owners_manual
 158
 Возобновление
 работы
@@ -45826,7 +43137,6 @@ ON
 отключится.
 
 ### В
-`livan_s6_pro_ru_62880750` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 это
 время
 текущая
@@ -45853,7 +43163,6 @@ ON
 настройки.
 
 ### Увеличение
-`livan_s6_pro_ru_aff3c21e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 скорости
 при
 использовании круиз-контроля
@@ -45861,7 +43170,6 @@ ON
 •
 
 ### Нажатие педали газа может увеличить
-`livan_s6_pro_ru_c19ea164` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 скорость. Если необходимо сохранить
 набранную
 скорость
@@ -45885,7 +43193,6 @@ ON
 удерживайте.
 
 ### Сначала
-`livan_s6_pro_ru_d179f8d1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 крейсерская
 скорость настроится на кратное 5-ти
 целое
@@ -45903,7 +43210,6 @@ ON
 автомобиля.
 
 ### Каждое
-`livan_s6_pro_ru_a68868f4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 переведение
 вверх
 увеличивает
@@ -45911,7 +43217,6 @@ ON
 скорость на 1 км/ч.
 
 ### Уменьшение
-`livan_s6_pro_ru_cc4bafe0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 скорости
 при
 использовании круиз-контроля
@@ -45930,7 +43235,6 @@ ON
 удерживайте.
 
 ### Сначала
-`livan_s6_pro_ru_d179f8d1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 крейсерская
 скорость
 настроится на
@@ -45955,7 +43259,6 @@ ON
 круиз-контроля
 
 ### Используйте
-`livan_s6_pro_ru_ad6f034d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 педаль
 газа,
 чтобы
@@ -45971,14 +43274,12 @@ ON
 на дороге с уклоном
 
 ### Работа
-`livan_s6_pro_ru_e9ffe5b8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 системы
 управления
 круизконтролем на дороге с уклоном зависит
 от скорости, нагрузки и уклона дороги.
 
 ### При подъеме по крутому склону Вам
-`livan_s6_pro_ru_b6b0d4d0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:160 | doc_type:owners_manual
 нужно удерживать нажатие на педаль
 газа, чтобы поддерживать скорость. При
 спуске возможно потребуется тормозить
@@ -45993,7 +43294,6 @@ ON
 круизконтроль отключается.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_10ab7818` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:160 | doc_type:owners_manual
 5
 8
 7
@@ -46021,7 +43321,6 @@ ON
 выключить систему управления круизконтролем.
 
 ### Очищение памяти скорости
-`livan_s6_pro_ru_a6cf465b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 Когда вы выключаете круиз-контроль или
 замок
 зажигания,
@@ -46033,7 +43332,6 @@ ON
 памяти.
 
 ### Система
-`livan_s6_pro_ru_8772a55f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 мониторинга
 слепых зон (BSD)
 Система контроля слепых зон помогает
@@ -46061,7 +43359,6 @@ ON
 отображаемому интерфейсу.
 
 ### Система контроля слепых зон не
-`livan_s6_pro_ru_f9a6db48` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:161 | doc_type:owners_manual
 может
 заменить
 весь
@@ -46095,7 +43392,6 @@ ON
 даже смерти.
 
 ### Камера контроля слепых зон
-`livan_s6_pro_ru_c829e451` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:161 | doc_type:owners_manual
 •
 Камера
 расположена
@@ -46107,7 +43403,6 @@ ON
 вида.
 
 ### Обязательно держите эту область в
-`livan_s6_pro_ru_86cbaf4d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:161 | doc_type:owners_manual
 чистоте. Если камера покрыта грязью
 или влагой, необходимо при помощи
 мягкой
@@ -46125,7 +43420,6 @@ ON
 наклейками.
 
 ### В некоторых ситуациях система контроля
-`livan_s6_pro_ru_fdc505cb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 слепых зон не может помочь водителю. К
 возможным ситуациям относятся:
 •
@@ -46133,7 +43427,6 @@ ON
 снег.
 
 ### Запуск двигателя и вождение
-`livan_s6_pro_ru_467db4d1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:161 | doc_type:owners_manual
 160
 •
 Световые помехи (в том числе свет
@@ -46151,7 +43444,6 @@ ON
 •
 
 ### Плохое
-`livan_s6_pro_ru_a6c82b6b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 состояние
 камеры
 и
@@ -46168,7 +43460,6 @@ ON
 161
 
 ### Устройства
-`livan_s6_pro_ru_f2ae118c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:163 | doc_type:owners_manual
 предупреждения
 об
 опасности
@@ -46205,7 +43496,6 @@ ON
 остальных участников движения.
 
 ### Знак аварийной остановки находится в
-`livan_s6_pro_ru_37c79f08` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 багажном отделении.
 На
 обычной
@@ -46226,7 +43516,6 @@ ON
 должна быть увеличена до 200 м.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_5828dd38` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:163 | doc_type:owners_manual
 162
 Светоотражающий жилет
 Светоотражающий
@@ -46237,7 +43526,6 @@ ON
 открытии.
 
 ### В экстренной
-`livan_s6_pro_ru_0ac832bf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:164 | doc_type:owners_manual
 ситуации водитель
 должен
 заранее
@@ -46255,7 +43543,6 @@ ON
 Аптечка первой помощи*
 
 ### Аптечка первой помощи размещается в
-`livan_s6_pro_ru_0b9ced4b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 багажном отделении.
 Неисправности во время вождения
 6
@@ -46269,7 +43556,6 @@ ON
 163
 
 ### Запуск
-`livan_s6_pro_ru_e029364c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:165 | doc_type:owners_manual
 от
 внешнего
 источника питания
@@ -46289,7 +43575,6 @@ ON
 инструкциям.
 
 ### Неправильное
-`livan_s6_pro_ru_13dbf7dc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:165 | doc_type:owners_manual
 использование
 аккумулятора
 может
@@ -46298,7 +43583,6 @@ ON
 травмам.
 
 ### Аккумулятор
-`livan_s6_pro_ru_ed7a395a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:165 | doc_type:owners_manual
 опасен,
 потому
 что:
@@ -46315,7 +43599,6 @@ ON
 •
 
 ### Электрический заряд может нанести
-`livan_s6_pro_ru_1ecdd7e7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 ожог.
 Если вы не будете строго следовать
 приведенным
@@ -46328,7 +43611,6 @@ ON
 травмы.
 
 ### Игнорирование этих шагов может
-`livan_s6_pro_ru_e18d6ede` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 привести
 к
 серьезному
@@ -46339,18 +43621,15 @@ ON
 гарантией.
 
 ### Автомобиль нельзя завести толканием и
-`livan_s6_pro_ru_da5d3215` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 буксировкой от другого автомобиля, от
 этого он может быть поврежден.
 
 ### 1. Выключите кнопку запуска, все фары
-`livan_s6_pro_ru_dfca8e66` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:165 | doc_type:owners_manual
 и электрооборудование автомобиля,
 кроме ламп аварийной сигнализации
 (при необходимости).
 
 ### Охлаждающие
-`livan_s6_pro_ru_ccb77f44` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 вентиляторы
 и
 другие
@@ -46369,7 +43648,6 @@ ON
 руками, одеждой и инструментами.
 
 ### Использование
-`livan_s6_pro_ru_09d94516` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:165 | doc_type:owners_manual
 открытого
 огня
 рядом
@@ -46381,13 +43659,11 @@ ON
 Аккумуляторная кислота может гореть.
 
 ### Не допускайте попадания кислоты на
-`livan_s6_pro_ru_c9e4f09d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 ваше тело. Если кислота попала в глаза
 или на кожу, немедленно промойте их
 водой и обратитесь к врачу.
 
 ### 2. Подсоедините один конец красного
-`livan_s6_pro_ru_ab86f891` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 положительного
 (+)
 кабеля
@@ -46397,14 +43673,12 @@ ON
 клемме
 
 ### (A)
-`livan_s6_pro_ru_2c0419b2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 автомобиля,
 который
 нужно
 запустить от внешнего источника.
 
 ### 3. Не допускайте контакта другого конца
-`livan_s6_pro_ru_210fe46d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 красного положительного (+) кабеля с
 металлом.
 Подсоедините
@@ -46415,13 +43689,11 @@ ON
 клемме
 
 ### (B)
-`livan_s6_pro_ru_dfdcae32` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:165 | doc_type:owners_manual
 работающего аккумулятора.
 Неисправности во время вождения
 164
 
 ### 4. Подсоедините
-`livan_s6_pro_ru_0986807b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 один
 конец
 черного
@@ -46434,7 +43706,6 @@ ON
 клемме
 
 ### (C)
-`livan_s6_pro_ru_83e9b67e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:166 | doc_type:owners_manual
 аккумулятора. Не позволяйте другому
 концу ни к чему прикасаться, прежде
 чем перейдете к следующему шагу.
@@ -46459,7 +43730,6 @@ ON
 разряженным аккумулятором.
 
 ### 5. Подсоедините другой конец черного
-`livan_s6_pro_ru_61e09fc1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:166 | doc_type:owners_manual
 отрицательного
 (-)
 кабеля
@@ -46472,7 +43742,6 @@ ON
 двигателя и аккумуляторной батареи.
 
 ### 6. Запустите двигатель
-`livan_s6_pro_ru_cc0bc062` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:166 | doc_type:owners_manual
 автомобиля
 с
 заряженным аккумулятором и дайте
@@ -46480,7 +43749,6 @@ ON
 менее четырех минут.
 
 ### 7. Попытайтесь завести автомобиль с
-`livan_s6_pro_ru_ee0ea212` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:166 | doc_type:owners_manual
 разряженным
 аккумулятором.
 Если
@@ -46502,7 +43770,6 @@ ON
 входят в сферу гарантийного ремонта.
 
 ### Поэтому необходимо подсоединять или
-`livan_s6_pro_ru_a66d11da` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 снимать кабели в правильном порядке и
 следить
 за
@@ -46524,7 +43791,6 @@ ON
 автомобилях:
 
 ### 1. Отсоедините черный отрицательный
-`livan_s6_pro_ru_e5c3c6e8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:166 | doc_type:owners_manual
 (-)
 кабель
 в
@@ -46533,7 +43799,6 @@ ON
 разряженным аккумулятором.
 
 ### 2. Отсоедините черный отрицательный
-`livan_s6_pro_ru_e72c5a2a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:166 | doc_type:owners_manual
 (-)
 провод
 в
@@ -46542,7 +43807,6 @@ ON
 работающим аккумулятором.
 
 ### 3. Отсоедините красный положительный
-`livan_s6_pro_ru_8d69919c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:166 | doc_type:owners_manual
 (+)
 кабель
 в
@@ -46551,7 +43815,6 @@ ON
 работающим аккумулятором.
 
 ### 4. Отсоедините красный положительный
-`livan_s6_pro_ru_c785f028` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:166 | doc_type:owners_manual
 (+)
 кабель
 в
@@ -46560,7 +43823,6 @@ ON
 разряженным аккумулятором.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_8ed64b40` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 6
 8
 7
@@ -46574,7 +43836,6 @@ ON
 Подсказки по буксировке
 
 ### Все средства для буксировки должны
-`livan_s6_pro_ru_344e967b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 использовать
 систему
 предохранительных
@@ -46590,7 +43851,6 @@ ON
 тележку.
 
 ### 1. При
-`livan_s6_pro_ru_aa967952` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 использовании
 гибкого
 соединительного тягового устройства
@@ -46609,7 +43869,6 @@ ON
 м.
 
 ### Буксируемое
-`livan_s6_pro_ru_cbd20992` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:167 | doc_type:owners_manual
 транспортное
 средство
 с
@@ -46627,7 +43886,6 @@ ON
 трубы).
 
 ### 2. И
-`livan_s6_pro_ru_31f6b649` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:167 | doc_type:owners_manual
 буксирующее,
 и
 буксируемое
@@ -46640,7 +43898,6 @@ ON
 сигнализацию.
 
 ### 3. Если
-`livan_s6_pro_ru_0ad455b1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 вы
 хотите
 буксировать
@@ -46654,7 +43911,6 @@ ON
 •
 
 ### Установите
-`livan_s6_pro_ru_19145498` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 рычаг
 переключения
 передач в нейтральное положение
@@ -46662,7 +43918,6 @@ ON
 •
 
 ### Не буксируйте на скорости более
-`livan_s6_pro_ru_3d3bc1c6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 50 км/ч.
 •
 Расстояние буксировки не должно
@@ -46670,7 +43925,6 @@ ON
 •
 
 ### При использовании специального
-`livan_s6_pro_ru_77ab4e72` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 тягача
 разрешается
 поднимать
@@ -46692,7 +43946,6 @@ ON
 передач.
 
 ### 4. Запрещается
-`livan_s6_pro_ru_964a875e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 буксировать
 данное
 транспортное
@@ -46719,7 +43972,6 @@ ON
 может превышать 50 километров.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_72852f03` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 166
 Буксировочное кольцо
 Данный
@@ -46747,7 +43999,6 @@ ON
 •
 
 ### Рекомендуется
-`livan_s6_pro_ru_b63cb1b9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 установить
 на
 буксировочном кольце и использовать
@@ -46757,7 +44008,6 @@ ON
 •
 
 ### Не используйте буксировочное кольцо
-`livan_s6_pro_ru_3d889df4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 для
 буксировки
 автомобиля
@@ -46767,7 +44017,6 @@ ON
 •
 
 ### Не используйте буксировочное кольцо
-`livan_s6_pro_ru_3d889df4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 для
 извлечения
 застрявшего
@@ -46791,7 +44040,6 @@ ON
 кольцом.
 
 ### Тяговая
-`livan_s6_pro_ru_03ff4b75` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 цепь/
 натяжной
 канат
@@ -46805,7 +44053,6 @@ ON
 •
 
 ### Несоблюдение данных инструкций по
-`livan_s6_pro_ru_bd09b316` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 использованию буксировочного кольца
 может
 привести
@@ -46815,7 +44062,6 @@ ON
 травмам или смерти.
 
 ### Буксировочное
-`livan_s6_pro_ru_286b6018` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 кольцо
 используется только для помощи на
 дороге и не должно использоваться для
@@ -46868,7 +44114,6 @@ ON
 линии.
 
 ### Несоблюдение
-`livan_s6_pro_ru_471dc19c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 вышеуказанных
 инструкций
 может
@@ -46877,7 +44122,6 @@ ON
 повреждению автомобиля.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_7cda9383` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 6
 8
 7
@@ -46892,7 +44136,6 @@ ON
 буксировочного кольца
 
 ### Положение
-`livan_s6_pro_ru_a490d287` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:169 | doc_type:owners_manual
 установки
 буксировочного
 кольца – с правой стороны переднего
@@ -46934,7 +44177,6 @@ ON
 автомобиля.
 
 ### Замена шин
-`livan_s6_pro_ru_834662ad` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 Шина
 Описание
 Если у вас возникнут какие-либо вопросы
@@ -46955,7 +44197,6 @@ ON
 информации.
 
 ### Другую информацию можно запросить у
-`livan_s6_pro_ru_6691c99f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 производителя шин.
 Использовать
 плохо
@@ -46965,7 +44206,6 @@ ON
 эксплуатируемые шины опасно.
 
 ### Перекачанные
-`livan_s6_pro_ru_f2395376` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 или
 недостаточно
 накачанные шины вызывают чрезмерный
@@ -46978,7 +44218,6 @@ ON
 получению серьезных травм или смерти.
 
 ### Все шины следует регулярно проверять и
-`livan_s6_pro_ru_db158a4d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 поддерживать рекомендуемое давление.
 Давление в шинах следует проверять в
 холодном состоянии. См. «Давление в
@@ -46989,7 +44228,6 @@ ON
 «Технических данныхе.
 
 ### Перекачанные
-`livan_s6_pro_ru_f2395376` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 шины
 с
 большей
@@ -47001,7 +44239,6 @@ ON
 рекомендуемое давление в шине.
 
 ### Изношенные шины могут стать причиной
-`livan_s6_pro_ru_af4a2902` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 аварии. Если протектор шины сильно
 изношен
 или
@@ -47011,7 +44248,6 @@ ON
 подлежит незамедлительной замене.
 
 ### В
-`livan_s6_pro_ru_0f3160ac` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 шине
 должно
 быть
@@ -47019,7 +44255,6 @@ ON
 давление для эффективной работы.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_8c9fcc6d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 168
 Недостаточное
 или
@@ -47041,7 +44276,6 @@ ON
 •
 
 ### Преждевременный
-`livan_s6_pro_ru_91734bfb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 или
 неравномерный износ;
 •
@@ -47050,7 +44284,6 @@ ON
 Повышение расхода топлива.
 
 ### При избыточном давлении в шине могут
-`livan_s6_pro_ru_6fafdda6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 возникнуть следующие ситуации:
 •
 Аномальный износ;
@@ -47073,7 +44306,6 @@ ON
 шинах.
 
 ### Табличка
-`livan_s6_pro_ru_7211847e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 находится
 на
 левой
@@ -47087,7 +44319,6 @@ ON
 запасном колесе.
 
 ### Система контроля давления в
-`livan_s6_pro_ru_e3f07b44` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:170 | doc_type:owners_manual
 шинах
 Система
 контроля
@@ -47110,7 +44341,6 @@ ON
 состояние шины должно быть холодное.
 
 ### Каждая шина должна быть накачана до
-`livan_s6_pro_ru_e4346a0a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 рекомендованного
 значения
 давления,
@@ -47118,7 +44348,6 @@ ON
 центральной стойке.
 
 ### Если горит сигнальная лампа TPMS о
-`livan_s6_pro_ru_3067678d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:170 | doc_type:owners_manual
 ненормальном давлении в шинах, значит,
 что
 в
@@ -47132,7 +44361,6 @@ ON
 норме.
 
 ### В
-`livan_s6_pro_ru_2df61b76` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 таком
 случае
 необходимо
@@ -47147,7 +44375,6 @@ ON
 давления.
 
 ### Давление в шинах в холодном состоянии
-`livan_s6_pro_ru_355a8681` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 указано на табличке давления в шинах,
 прикрепленной к автомобилю. Система
 контроля давления в шинах автомобиля
@@ -47161,7 +44388,6 @@ ON
 данного раздела.
 
 ### Запасное колесо не оборудовано
-`livan_s6_pro_ru_c2b31471` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:170 | doc_type:owners_manual
 датчиком контроля давления.
 При движении автомобиля зимой,
 если заменить все четыре шины на
@@ -47172,7 +44398,6 @@ ON
 на
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_150a38ca` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:170 | doc_type:owners_manual
 6
 8
 7
@@ -47187,7 +44412,6 @@ ON
 неисправности системы.
 
 ### Когда нужно проверять шины
-`livan_s6_pro_ru_dc7a0ad6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 Проверяйте шины, включая запасную, не
 реже одного раза в месяц. Давление в
 запасной шине см. в главе «Давление в
@@ -47198,7 +44422,6 @@ ON
 «Технических данныхе.
 
 ### Проверьте давление в шинах с помощью
-`livan_s6_pro_ru_3bda2bb9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 карманного
 шинного
 манометра
@@ -47227,7 +44450,6 @@ ON
 шины.
 
 ### Плотно
-`livan_s6_pro_ru_3a63d970` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 прижмите
 манометр
 к
@@ -47252,14 +44474,12 @@ ON
 манометра.
 
 ### Обязательно
-`livan_s6_pro_ru_d7b5b925` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 установите
 колпачок клапана обратно на ниппель.
 Колпачки клапана защищают от грязи и
 влаги.
 
 ### На необходимость замены шин влияют
-`livan_s6_pro_ru_7a245e3a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 различные
 факторы,
 такие
@@ -47267,7 +44487,6 @@ ON
 техническое обслуживание, температура,
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_c4e392ff` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 170
 скорость
 движения,
@@ -47291,7 +44510,6 @@ ON
 изношен до 1,6 мм или меньше.
 
 ### Новые шины требуются в следующих
-`livan_s6_pro_ru_526e4a2d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 ситуациях:
 •
 На шине есть как минимум 3 место с
@@ -47299,7 +44517,6 @@ ON
 •
 
 ### Сквозь резину шины можно увидеть
-`livan_s6_pro_ru_6d0e7f9b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 корд или протекторную ткань.
 •
 Протектор или боковая стенка имеют
@@ -47321,7 +44538,6 @@ ON
 ремонту.
 
 ### Качество резины в шинах со временем
-`livan_s6_pro_ru_964231eb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 ухудшается, даже если эти шины никогда
 не использовались. То же самое верно и
 для запасных шин. На скорость старения
@@ -47348,7 +44564,6 @@ ON
 производителю.
 
 ### Утилизируйте
-`livan_s6_pro_ru_daf98e0c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 использованные
 шины
 в
@@ -47361,7 +44576,6 @@ ON
 окружающей среды.
 
 ### Покупка новых шин
-`livan_s6_pro_ru_d1cd017c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 При покупке новых шин убедитесь, что
 они
 подходят
@@ -47377,7 +44591,6 @@ ON
 производителя.
 
 ### Рекомендуется
-`livan_s6_pro_ru_cea4d55c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 производить замену сразу четырех шин.
 См. главу «Проверка и замена шине в
 этом
@@ -47387,7 +44600,6 @@ ON
 соответствующей информации.
 
 ### Установка
-`livan_s6_pro_ru_9ba531bb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 шин
 из
 разных
@@ -47406,7 +44618,6 @@ ON
 управляемости.
 
 ### Использование
-`livan_s6_pro_ru_2bcf7be3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 шин
 разных размеров и типов также может
 привести к повреждению автомобиля. На
@@ -47414,7 +44625,6 @@ ON
 шины корректного размера и типа.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_9601026f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 6
 8
 7
@@ -47434,7 +44644,6 @@ ON
 пробега.
 
 ### Внезапная
-`livan_s6_pro_ru_b2dc575e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 потеря
 контроля
 над
@@ -47448,7 +44657,6 @@ ON
 использовать только радиальные шины.
 
 ### Использование колес или шин другого
-`livan_s6_pro_ru_a29b504d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:173 | doc_type:owners_manual
 размера,
 отличные
 от
@@ -47508,7 +44716,6 @@ ON
 травм.
 
 ### Если переднее колесо выходит из
-`livan_s6_pro_ru_b00b3378` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 строя и необходимо использовать
 запасное
 колесо,
@@ -47520,7 +44727,6 @@ ON
 колеса.
 
 ### В
-`livan_s6_pro_ru_a85a832f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 целях
 обеспечения
 безопасности
@@ -47568,7 +44774,6 @@ Livan
 обеспечения безопасности вождения.
 
 ### Перестановка шин
-`livan_s6_pro_ru_663f7647` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 Мы
 рекомендуем
 вам
@@ -47605,7 +44810,6 @@ Livan
 главе.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_2eea1831` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 172
 При
 перестановке
@@ -47630,7 +44834,6 @@ Livan
 в шинахе в данном разделе.
 
 ### Ржавчина или грязь на колесах или
-`livan_s6_pro_ru_2e2d78a1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 креплениях
 колес
 могут
@@ -47650,7 +44853,6 @@ Livan
 или проволочной щетки.
 
 ### Регулировка
-`livan_s6_pro_ru_b7a5d4a4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 и
 балансировка
 колес
@@ -47685,7 +44887,6 @@ Livan
 колес.
 
 ### Если автомобиль испытывает тряску при
-`livan_s6_pro_ru_aefdc57f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 движении по ровной поверхности, может
 потребоваться повторная балансировка
 шин и колес. Пожалуйста, немедленно
@@ -47696,7 +44897,6 @@ Livan
 обслуживания
 
 ### LIVAN
-`livan_s6_pro_ru_3886fec0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 для
 проведения
 диагностики.
@@ -47720,7 +44920,6 @@ Livan
 заменить.
 
 ### В
-`livan_s6_pro_ru_97ac0908` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 случае
 любой
 из
@@ -47757,7 +44956,6 @@ Livan
 датчики
 
 ### TPMS
-`livan_s6_pro_ru_87421905` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 подойдут
 вашему
 автомобилю.
@@ -47769,7 +44967,6 @@ Livan
 гаек
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_b80c6de3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 6
 8
 7
@@ -47795,7 +44992,6 @@ Livan
 автомобилем.
 
 ### Несчастные
-`livan_s6_pro_ru_9250625a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 случаи
 могут
 привести к
@@ -47808,7 +45004,6 @@ Livan
 колесную гайку.
 
 ### Использование некорректных типов
-`livan_s6_pro_ru_f0c9cd5f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:175 | doc_type:owners_manual
 колес
 также
 может
@@ -47836,7 +45031,6 @@ Livan
 противоскольжения и кузовом и шасси.
 
 ### Ставить старые колеса на автомобиль
-`livan_s6_pro_ru_553d94e7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 опасно.
 Потому
 что
@@ -47864,7 +45058,6 @@ Livan
 колеса от оригинального производителя.
 
 ### Зимние шины
-`livan_s6_pro_ru_8f6fdd05` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 Если
 планируется
 частая
@@ -47876,7 +45069,6 @@ Livan
 лучше всего оснастить зимними шинами.
 
 ### Всесезонные шины могут не обеспечить
-`livan_s6_pro_ru_a789201f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 желаемого
 сцепления
 или
@@ -47886,7 +45078,6 @@ Livan
 заснеженных дорогах.
 
 ### Зимние
-`livan_s6_pro_ru_5f5279ff` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 шины
 используются
 для
@@ -47912,7 +45103,6 @@ Livan
 и торможении.
 
 ### Для получения подробной информации о
-`livan_s6_pro_ru_117a3ab9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 наличии
 зимних
 шин
@@ -47924,7 +45114,6 @@ Livan
 •
 
 ### Используйте
-`livan_s6_pro_ru_862b25d3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 шины
 от
 одного
@@ -47933,7 +45122,6 @@ Livan
 •
 
 ### Используйте только радиальные шины
-`livan_s6_pro_ru_2e6dd7ed` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 того же размера, диапазона нагрузки и
 скорости, что и шины от оригинального
 производителя.
@@ -47949,7 +45137,6 @@ Livan
 скорость шины.
 
 ### Цепи противоскольжения не входят
-`livan_s6_pro_ru_6e2be83f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 в
 комплект
 оборудования
@@ -47960,7 +45147,6 @@ Livan
 предоставляется для справки.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_61d1009f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 174
 Пожалуйста, определите, нужно ли вам
 добавлять
@@ -47977,7 +45163,6 @@ Livan
 водите осторожно и на малых скоростях.
 
 ### В противном случае автомобиль может
-`livan_s6_pro_ru_0d148e9b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 быть
 поврежден
 или
@@ -47986,7 +45171,6 @@ Livan
 качества могут ухудшиться.
 
 ### При установке цепей противоскольжения
-`livan_s6_pro_ru_3a845ba6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 необходимо
 выбирать
 цепи,
@@ -48006,7 +45190,6 @@ Livan
 дорогах.
 
 ### Если шина лопнет во время движения
-`livan_s6_pro_ru_15fc871f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 автомобиля,
 произойдут
 следующие
@@ -48021,7 +45204,6 @@ Livan
 ситуаций):
 
 ### 1. Если лопнет передняя шина, тянущий
-`livan_s6_pro_ru_4d594f22` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 эффект спущенной шины приведет к
 тому,
 что
@@ -48031,7 +45213,6 @@ Livan
 шины.
 
 ### Отпустите
-`livan_s6_pro_ru_4fa14092` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:176 | doc_type:owners_manual
 педаль
 акселератора и крепко держите руль.
 Направьте
@@ -48046,7 +45227,6 @@ Livan
 безопасную сторону дороги.
 
 ### 2. Если заднее колесо лопнет, отпустите
-`livan_s6_pro_ru_bbb0f5c6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 педаль акселератора. Когда задняя
 шина
 лопается
@@ -48055,7 +45235,6 @@ Livan
 возникает эффект, как при заносе.
 
 ### Поэтому следует принимать те же
-`livan_s6_pro_ru_cfa5bd96` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:176 | doc_type:owners_manual
 меры, что и при заносе. Поверните
 рулевое
 колесо
@@ -48098,7 +45277,6 @@ Livan
 следующие действия:
 
 ### 1. Медленно выведите автомобиль на
-`livan_s6_pro_ru_57a0f480` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 безопасную
 ровную
 поверхность,
@@ -48108,7 +45286,6 @@ Livan
 повреждения шин и колес.
 
 ### 2. Включите
-`livan_s6_pro_ru_ea071c53` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 аварийные
 сигнальные
 лампы.
@@ -48116,7 +45293,6 @@ Livan
 Замена шин может быть опасной.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_b47f968c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 6
 8
 7
@@ -48139,7 +45315,6 @@ Livan
 •
 
 ### Поставьте автомобиль на стояночный
-`livan_s6_pro_ru_2f4055c1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:177 | doc_type:owners_manual
 тормоз.
 •
 Установите
@@ -48156,7 +45331,6 @@ Livan
 •
 
 ### Не позволяйте пассажирам оставаться
-`livan_s6_pro_ru_9075b11b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 в автомобиле.
 •
 Перед
@@ -48168,7 +45342,6 @@ Livan
 оставшихся колес.
 
 ### Припаркуйте автомобиль на ровной
-`livan_s6_pro_ru_c577817b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:177 | doc_type:owners_manual
 площадке,
 которая
 не
@@ -48206,7 +45379,6 @@ Livan
 устройства защитые.
 
 ### Этот автомобиль оснащен двумя типами
-`livan_s6_pro_ru_747f9e15` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 колес и шин. Доп. информацию см. часть
 «Колеса
 и
@@ -48217,7 +45389,6 @@ Livan
 «Технические данныее.
 
 ### Выньте
-`livan_s6_pro_ru_19876cfa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 запасное
 колесо
 и
@@ -48225,7 +45396,6 @@ Livan
 Домкрат и инструменты водителя
 
 ### Домкрат и автомобильные инструменты
-`livan_s6_pro_ru_d49ca140` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:177 | doc_type:owners_manual
 размещены в багажнике автомобиля.
 Пожалуйста,
 используйте
@@ -48236,7 +45406,6 @@ Livan
 автомобилем.
 
 ### Запрещается
-`livan_s6_pro_ru_128e953c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 использовать
 другие
 неподходящие домкраты, в противном
@@ -48246,7 +45415,6 @@ Livan
 автомобиля.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_3655d3d8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:177 | doc_type:owners_manual
 176
 Запасное колесо хранится в багажном
 отделении. Откройте обшивку багажника,
@@ -48258,7 +45426,6 @@ Livan
 колеса и извлеките запасное колесо.
 
 ### Запасное
-`livan_s6_pro_ru_ef41a350` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 колесо
 автомобиля
 представляет собой маленькое Тобразное колесо. При его использовании
@@ -48272,7 +45439,6 @@ Livan
 обслуживания LIVAN как можно скорее.
 
 ### Снимите спущенное колесо и
-`livan_s6_pro_ru_07e2b923` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 установите запасное
 Запасное
 колесо
@@ -48288,7 +45454,6 @@ Livan
 заменить как можно скорее.
 
 ### 1. Прежде
-`livan_s6_pro_ru_89e11ff4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 чем
 продолжить
 эксплуатацию,
@@ -48297,7 +45462,6 @@ Livan
 безопасности.
 
 ### 2. Выньте пластиковые плоскогубцы из
-`livan_s6_pro_ru_0475de4d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 ящика с инструментами, захватите
 колпачок
 колесной
@@ -48313,7 +45477,6 @@ Livan
 колпачок на себя.
 
 ### 3. Выньте баллонный ключ из ящика для
-`livan_s6_pro_ru_307a124d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 инструментов водителя, наденьте его
 на колесную гайку, затем поверните
 против часовой стрелки и ослабьте
@@ -48321,7 +45484,6 @@ Livan
 оборот, но не откручивайте их.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_79d83625` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 6
 8
 7
@@ -48339,13 +45501,11 @@ Livan
 сторонами автомобиля.
 
 ### 5. Установите домкрат и отрегулируйте
-`livan_s6_pro_ru_ce8ae2be` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 до подходящей высоты, прежде чем
 поместить его под точку подъема, как
 показано на рисунке.
 
 ### Неправильное
-`livan_s6_pro_ru_78624226` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 положение
 опоры
 домкрата при подъеме автомобиля
@@ -48384,14 +45544,12 @@ Livan
 погибнуть.
 
 ### Запрещается
-`livan_s6_pro_ru_1f8451c3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 находиться
 под
 автомобилем, поддерживаемым только
 домкратом.
 
 ### Опасно поднимать автомобиль и
-`livan_s6_pro_ru_e4de58d7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 садиться в него для технического
 обслуживания или ремонта, не обладая
 навыками и надлежащим оборудованием
@@ -48417,20 +45575,17 @@ Livan
 соскользнет с домкрата.
 
 ### 7. Поверните ручку домкрата по часовой
-`livan_s6_pro_ru_1d2e78a3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 стрелке, чтобы поднять автомобиль
 на достаточную высоту над землей,
 чтобы запасное колесо можно было
 установить под автомобилем.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_fd37dd16` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 178
 8. Снимите все колесные гайки.
 9. Снимите деформированную шину.
 
 ### 10. Удалите
-`livan_s6_pro_ru_ce4d0eeb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 ржавчину
 или
 грязь
@@ -48441,7 +45596,6 @@ Livan
 поверхностей и запасного колеса.
 
 ### 12. Замените
-`livan_s6_pro_ru_c9f3343e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 колесные
 гайки.
 С
@@ -48454,7 +45608,6 @@ Livan
 не окажется на ступице.
 
 ### 13. Поверните
-`livan_s6_pro_ru_dcec91e3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 ручку
 домкрата
 против
@@ -48465,7 +45618,6 @@ Livan
 автомобиль.
 
 ### Полностью
-`livan_s6_pro_ru_114e5ec2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 опустите
 домкрат.
 Не наносите масло или смазку на
@@ -48477,31 +45629,26 @@ Livan
 ослабнут.
 
 ### Колеса
-`livan_s6_pro_ru_99267d42` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 автомобиля
 могут
 оторваться, что приведет к аварии.
 
 ### 14. Затяните
-`livan_s6_pro_ru_413e47d6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 колесные
 гайки
 крестнакрест, как показано на рисунке.
 
 ### 15. Полностью
-`livan_s6_pro_ru_1cab8b99` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 опустите
 домкрат
 и
 уберите домкрат из-под автомобиля.
 
 ### 16. Затяните колесные гайки с помощью
-`livan_s6_pro_ru_b6008489` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 баллонного ключа для колес.
 17. Установите накладки на гайки.
 
 ### Уложите
-`livan_s6_pro_ru_a595bb52` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 запасное
 колесо
 и
@@ -48518,13 +45665,11 @@ Livan
 ключ по часовой стрелке до щелчка.
 
 ### Верните
-`livan_s6_pro_ru_7dbb1043` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 использованные
 инструменты
 на место и надежно закрепите их.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_5e2fb345` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 6
 8
 7
@@ -48541,7 +45686,6 @@ Livan
 предохранителя
 
 ### Плавкие
-`livan_s6_pro_ru_fff50ce0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:181 | doc_type:owners_manual
 предохранители
 защищают
 автомобильное
@@ -48549,7 +45693,6 @@ Livan
 предотвращая перегрузки в электроцепи.
 
 ### Перегоревший
-`livan_s6_pro_ru_8a4151c8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 предохранитель
 указывает на то, что цепь, которую он
 защищает, вышла из строя и перестала
@@ -48566,7 +45709,6 @@ Livan
 B - предохранитель перегорел
 
 ### Предохранитель
-`livan_s6_pro_ru_7c126cb3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:181 | doc_type:owners_manual
 находится
 в
 блоке
@@ -48583,7 +45725,6 @@ B - предохранитель перегорел
 панели.
 
 ### Предохранители
-`livan_s6_pro_ru_311d7f32` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:181 | doc_type:owners_manual
 бывают двух видов:
 1. Пластинчатый
 предохранитель
@@ -48597,7 +45738,6 @@ B - предохранитель перегорел
 составляет 5-25А.
 
 ### 2. Медленный
-`livan_s6_pro_ru_d0e29674` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:181 | doc_type:owners_manual
 плавкий
 предохранитель
 -
@@ -48606,7 +45746,6 @@ B - предохранитель перегорел
 ток электроцепи составляет 20-60 А.
 
 ### Цвет указывает на значение силы тока
-`livan_s6_pro_ru_9c02913b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 предохранителя, которая также отмечена
 на предохранителе.
 Не
@@ -48627,7 +45766,6 @@ B - предохранитель перегорел
 провода.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_84bd708d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:181 | doc_type:owners_manual
 180
 Блок
 предохранителей
@@ -48636,7 +45774,6 @@ B - предохранитель перегорел
 1. Откройте капот моторного отсека.
 
 ### 2. Чтобы
-`livan_s6_pro_ru_a4597ddb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 осмотреть
 предохранитель,
 ослабьте
@@ -48649,7 +45786,6 @@ B - предохранитель перегорел
 предохранителей.
 
 ### Попадание
-`livan_s6_pro_ru_be03056b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 жидкости
 может
 привести к
@@ -48657,7 +45793,6 @@ B - предохранитель перегорел
 электрического компонента автомобиля.
 
 ### Следите
-`livan_s6_pro_ru_8d978130` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:182 | doc_type:owners_manual
 за
 тем,
 чтобы
@@ -48666,7 +45801,6 @@ B - предохранитель перегорел
 электроприборов были на месте.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_91393b2e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 6
 8
 7
@@ -48682,7 +45816,6 @@ B - предохранитель перегорел
 Наименование
 
 ### Величи
-`livan_s6_pro_ru_bd17e5b4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 на в
 амперах
 При
@@ -48692,7 +45825,6 @@ EF01
 Предохранитель DTC 3
 
 ### 30A
-`livan_s6_pro_ru_b8049732` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 -
 EF02
 Предохранитель DTC 4
@@ -48702,7 +45834,6 @@ EF03
 Предохранитель системы управления двигателем
 
 ### 10A
-`livan_s6_pro_ru_9bcedae4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:183 | doc_type:owners_manual
 -
 EF05
 Предохранитель топливного насоса
@@ -48711,7 +45842,6 @@ EF06
 Предохранитель тормозного переключателя
 
 ### 5A
-`livan_s6_pro_ru_6ad3e62c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 -
 EF08
 Предохранитель клапана управления угольным
@@ -48719,7 +45849,6 @@ EF08
 газораспределения
 
 ### 20A
-`livan_s6_pro_ru_64fcf232` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 -
 EF11
 Предохранитель катушки зажигания
@@ -48732,7 +45861,6 @@ EF11
 ителя
 
 ### Величи
-`livan_s6_pro_ru_1190b25c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:sensors | p:184 | doc_type:owners_manual
 на в
 амперах
 При
@@ -48742,7 +45870,6 @@ EF12
 Предохранитель кислородного датчика
 
 ### 15A
-`livan_s6_pro_ru_4885088c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:184 | doc_type:owners_manual
 -
 EF16
 Реле низкооборотного вентилятора/реле
@@ -48752,7 +45879,6 @@ EF16
 сцепления
 
 ### 5A
-`livan_s6_pro_ru_42f66b36` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 -
 EF17
 Предохранитель сигнала обратной связи пуска
@@ -48760,7 +45886,6 @@ EF17
 -
 
 ### 15A
-`livan_s6_pro_ru_4885088c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:184 | doc_type:owners_manual
 -
 EF29
 Предохранитель переднего стеклоочистителя
@@ -48768,7 +45893,6 @@ EF29
 -
 
 ### EF30
-`livan_s6_pro_ru_5af237d6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 Предохранитель IBC B+ 1
 30A
 -
@@ -48776,7 +45900,6 @@ EF31
 Предохранитель IBC B+ 2
 
 ### 30A
-`livan_s6_pro_ru_a1066bf0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 -
 EF32
 Предохранитель IBS B +
@@ -48786,7 +45909,6 @@ EF34
 Предохранитель обогрева заднего стекла
 
 ### 40A
-`livan_s6_pro_ru_a53b0b3d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 -
 EF35
 Предохранитель DTC
@@ -48796,7 +45918,6 @@ EF36
 Предохранитель высокоскоростного вентилятора
 
 ### 60A
-`livan_s6_pro_ru_6262310a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:184 | doc_type:owners_manual
 -
 EF37
 Предохранитель левого стеклоподъемника
@@ -48804,7 +45925,6 @@ EF37
 -
 
 ### 40A
-`livan_s6_pro_ru_a53b0b3d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 -
 EF39
 Предохранитель приборов (IG2)
@@ -48814,7 +45934,6 @@ EF40
 Предохранитель DTC 2
 
 ### 30A
-`livan_s6_pro_ru_a1066bf0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 -
 EF42
 Предохранитель счетчика (B+)
@@ -48824,7 +45943,6 @@ EF43
 Предохранитель низкооборотного вентилятора
 
 ### 40A
-`livan_s6_pro_ru_a53b0b3d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 -
 EF44
 Предохранитель стартера
@@ -48834,7 +45952,6 @@ EF45
 Предохранитель ESC&EPB 2
 
 ### 40A
-`livan_s6_pro_ru_a53b0b3d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 -
 EF46
 Предохранитель ESC&EPB 1
@@ -48844,14 +45961,12 @@ EF47
 Предохранители (IG1 и ACC) приборов
 
 ### 60A
-`livan_s6_pro_ru_6262310a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:184 | doc_type:owners_manual
 -
 EF48
 Предохранитель электроусилителя рулевого
 управления
 
 ### 80A
-`livan_s6_pro_ru_e4ed2376` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 -
 EF49
 Предохранитель генератора
@@ -48872,7 +45987,6 @@ EF49
 ителя
 
 ### Величи
-`livan_s6_pro_ru_c753ee27` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 на в
 амперах
 При
@@ -48885,7 +45999,6 @@ ER01
 ER02
 
 ### Реле блокировки пуска
-`livan_s6_pro_ru_19c4a838` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 -
 -
 ER05
@@ -48899,7 +46012,6 @@ ER08
 ER10
 
 ### Реле вентилятора
-`livan_s6_pro_ru_0238ea3a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 -
 -
 ER12
@@ -48909,7 +46021,6 @@ ER12
 ER13
 
 ### Реле высокоскоростного вентилятора
-`livan_s6_pro_ru_472e835f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:185 | doc_type:owners_manual
 -
 -
 ER14
@@ -48918,7 +46029,6 @@ ER14
 -
 
 ### Реле низкоскоростного стеклоочистителя
-`livan_s6_pro_ru_60b6e22f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:185 | doc_type:owners_manual
 -
 -
 ER16
@@ -48931,7 +46041,6 @@ ER17
 -
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_3707d870` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 184
 Внутренний
 блок
@@ -48944,7 +46053,6 @@ ER17
 панели.
 
 ### Доступ
-`livan_s6_pro_ru_99589985` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 к
 предохранителям
 можно получить, сняв левый ящик для
@@ -48952,7 +46060,6 @@ ER17
 Модель 2
 
 ### Внутренний предохранитель расположен
-`livan_s6_pro_ru_fb09830e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 на
 левой
 стороне
@@ -48970,7 +46077,6 @@ ER17
 плоской отвертки.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_277f5e97` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 6
 8
 7
@@ -48986,7 +46092,6 @@ ER17
 Наименование
 
 ### Величина
-`livan_s6_pro_ru_fdefb343` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 в амперах
 Приме
 чания
@@ -48994,7 +46099,6 @@ CF01
 Предохранитель резервного питания
 
 ### 15A
-`livan_s6_pro_ru_dab11f72` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 -
 CF02
 -
@@ -49004,14 +46108,12 @@ CF03
 Предохранитель видеорегистратора
 
 ### 5A
-`livan_s6_pro_ru_7c308269` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 -
 CF04
 Предохранитель переключателя зеркал
 заднего вида
 
 ### 5A
-`livan_s6_pro_ru_7c308269` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 -
 CF05
 -
@@ -49021,7 +46123,6 @@ CF06
 Предохранитель USB-порта для зарядки
 
 ### 10A
-`livan_s6_pro_ru_0ad71af7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 -
 CF07
 -
@@ -49032,7 +46133,6 @@ CF08
 автономного вождения
 
 ### 5A
-`livan_s6_pro_ru_7c308269` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 -
 Неисправности во время вождения
 186
@@ -49041,7 +46141,6 @@ CF08
 еля
 
 ### Величина
-`livan_s6_pro_ru_f880a7c8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:188 | doc_type:owners_manual
 в амперах
 Приме
 чания
@@ -49052,7 +46151,6 @@ CF09
 управления коробкой передач
 
 ### 7,5A
-`livan_s6_pro_ru_d77f9d0d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:188 | doc_type:owners_manual
 -
 CF10
 -
@@ -49064,7 +46162,6 @@ CF11
 руля
 
 ### 7,5A
-`livan_s6_pro_ru_d77f9d0d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 -
 CF12
 Предохранитель блока управления
@@ -49072,14 +46169,12 @@ CF12
 передач
 
 ### 7,5A
-`livan_s6_pro_ru_d77f9d0d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 -
 CF13
 Предохранитель питания корректора
 правой фары
 
 ### 7,5A
-`livan_s6_pro_ru_d77f9d0d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 -
 CF14
 -
@@ -49096,7 +46191,6 @@ CF17
 CF18
 
 ### Предохранитель системы
-`livan_s6_pro_ru_fe7115bc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:188 | doc_type:owners_manual
 кондиционирования
 10A
 -
@@ -49105,7 +46199,6 @@ CF19
 заднего мотора омывателя
 
 ### 15A
-`livan_s6_pro_ru_6e8c6544` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 -
 CF20
 -
@@ -49118,7 +46211,6 @@ CF22
 CF24
 
 ### Предохранитель подогревателя зеркал
-`livan_s6_pro_ru_d1f36822` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 заднего вида
 10A
 -
@@ -49130,7 +46222,6 @@ CF25
 вызова
 
 ### 10A
-`livan_s6_pro_ru_1ed066fa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:188 | doc_type:owners_manual
 -
 CF26
 Предохранитель навигационной системы
@@ -49139,7 +46230,6 @@ CF26
 CF27
 
 ### 20A
-`livan_s6_pro_ru_9992ff3b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 -
 CF28
 Предохранитель диагностического порта
@@ -49160,7 +46250,6 @@ CF28
 еля
 
 ### Величина
-`livan_s6_pro_ru_58e66e15` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 в амперах
 Приме
 чания
@@ -49169,7 +46258,6 @@ CF29
 Предохранители радиочастотной антенны
 
 ### 10A
-`livan_s6_pro_ru_c8e709d5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 -
 CF30
 -
@@ -49183,14 +46271,12 @@ CF32
 Предохранитель указателей поворота
 
 ### 15A
-`livan_s6_pro_ru_88cf47df` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 -
 CF33
 Предохранитель питания выключателя
 замка двери
 
 ### 25A
-`livan_s6_pro_ru_0e3a2cf3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 -
 CF34
 Предохранитель питания IBC
@@ -49200,7 +46286,6 @@ CF35
 Предохранитель питания шлюза
 
 ### 5A
-`livan_s6_pro_ru_1b0c83f8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 -
 CF36
 -
@@ -49213,7 +46298,6 @@ CF37
 -
 
 ### CF39
-`livan_s6_pro_ru_b62a9617` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:189 | doc_type:owners_manual
 -
 -
 Резерв
@@ -49230,14 +46314,12 @@ CF42
 электроприводом
 
 ### 30A
-`livan_s6_pro_ru_da851198` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 -
 CF44
 Плавкие предохранители модуля защиты от
 защемления
 
 ### 25A
-`livan_s6_pro_ru_0e3a2cf3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 -
 Неисправности во время вождения
 188
@@ -49247,7 +46329,6 @@ CF44
 предохранителя
 
 ### 1. Выключите
-`livan_s6_pro_ru_299f7c18` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:190 | doc_type:owners_manual
 зажигание
 и
 все
@@ -49256,7 +46337,6 @@ CF44
 отрицательный кабель аккумулятора.
 
 ### 2. Удерживая
-`livan_s6_pro_ru_f2613f99` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 головку
 предохранителя
 одним концом щипцов, потяните и
@@ -49271,7 +46351,6 @@ CF44
 перегорел ли металлический провод.
 
 ### 3. Замените
-`livan_s6_pro_ru_08494653` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 перегоревший
 предохранитель новым с таким же
 значением
@@ -49295,7 +46374,6 @@ CF44
 обслуживания
 
 ### LIVAN
-`livan_s6_pro_ru_d6939d47` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 для проведения ремонта.
 Неисправности во время вождения
 6
@@ -49309,7 +46387,6 @@ CF44
 189
 
 ### Модели ламп
-`livan_s6_pro_ru_8cd1ae6e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:191 | doc_type:owners_manual
 Замена ламп обычно требует демонтажа некоторых компонентов автомобиля, поэтому
 для соответствующих операций требуются профессиональные навыки. Эксплуатация
 ламп, заменить которые возможно только из передней части моторного отсека,
@@ -49317,7 +46394,6 @@ CF44
 замены лампы рекомендуется обратиться в центр технического обслуживания LIVAN.
 
 ### Модель
-`livan_s6_pro_ru_fb83dfcb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 лампы
 Мощность
 Передняя
@@ -49325,7 +46401,6 @@ CF44
 фара в сборе
 
 ### LED
-`livan_s6_pro_ru_92def08a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 -
 Фара дальнего света
 LED
@@ -49335,7 +46410,6 @@ LED
 -
 
 ### PY21W
-`livan_s6_pro_ru_37a79f9f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 21Вт
 Дневные ходовые
 огни
@@ -49344,7 +46418,6 @@ LED
 -
 
 ### Задняя
-`livan_s6_pro_ru_fe0e7e25` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 комбинированная
 фара в сборе
 Фонари заднего хода
@@ -49353,7 +46426,6 @@ LED
 Стоп-сигнал
 
 ### LED
-`livan_s6_pro_ru_92def08a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 -
 Задний указатель поворота
 LED
@@ -49361,7 +46433,6 @@ LED
 Задние габаритные огни
 
 ### LED
-`livan_s6_pro_ru_92def08a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 -
 Задние противотуманные
 фары
@@ -49371,7 +46442,6 @@ LED
 Центральный стоп-сигнал
 
 ### LED
-`livan_s6_pro_ru_92def08a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 -
 Фонарь освещения
 номерного знака
@@ -49379,7 +46449,6 @@ LED
 номерного знака
 
 ### LED
-`livan_s6_pro_ru_92def08a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 -
 Передние лампы
 внутреннего
@@ -49387,7 +46456,6 @@ LED
 Лампа для чтения
 
 ### LED
-`livan_s6_pro_ru_92def08a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 -
 Задние лампы
 внутреннего
@@ -49395,7 +46463,6 @@ LED
 Левая лампа для чтения
 
 ### LED
-`livan_s6_pro_ru_92def08a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:191 | doc_type:owners_manual
 -
 Правая лампа для чтения
 LED
@@ -49404,7 +46471,6 @@ LED
 багажника
 
 ### Лампы освещения
-`livan_s6_pro_ru_a1a10219` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:191 | doc_type:owners_manual
 багажника
 LED
 -
@@ -49412,7 +46478,6 @@ LED
 190
 
 ### Действия
-`livan_s6_pro_ru_8ea11af5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:192 | doc_type:owners_manual
 в
 аварийной
 обстановке
@@ -49436,7 +46501,6 @@ LED
 необходимо выполнить следующее:
 
 ### 1. Съедьте с дороги в безопасное место,
-`livan_s6_pro_ru_80549a7a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:192 | doc_type:owners_manual
 затем
 остановитесь
 и
@@ -49444,7 +46508,6 @@ LED
 аварийную световую сигнализацию.
 
 ### Установите
-`livan_s6_pro_ru_322b861b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:192 | doc_type:owners_manual
 коробку
 передач
 в
@@ -49460,7 +46523,6 @@ LED
 следует выключить.
 
 ### 2. Остановите
-`livan_s6_pro_ru_60cbd090` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:192 | doc_type:owners_manual
 двигатель,
 если
 из
@@ -49489,7 +46551,6 @@ LED
 переключатель запуска.
 
 ### 3. Осмотрите
-`livan_s6_pro_ru_d9228939` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:192 | doc_type:owners_manual
 приводной
 ремень
 двигателя (ремень водяного насоса)
@@ -49504,7 +46565,6 @@ LED
 жидкости.
 
 ### Однако
-`livan_s6_pro_ru_4dfb6479` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 если
 из
 работающего
@@ -49512,7 +46572,6 @@ LED
 это нормально.
 
 ### 4. Если
-`livan_s6_pro_ru_1d6f4a19` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:192 | doc_type:owners_manual
 ремень
 привода
 водяного
@@ -49538,7 +46597,6 @@ LED
 ремонта.
 
 ### 5. Если
-`livan_s6_pro_ru_10af6cc6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:192 | doc_type:owners_manual
 нет
 проблем
 с
@@ -49562,7 +46620,6 @@ LED
 отметки
 
 ### MIN,
-`livan_s6_pro_ru_a770f957` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 долейте
 охлаждающую
 жидкость
@@ -49570,7 +46627,6 @@ LED
 расширительный бачок.
 
 ### 6. После
-`livan_s6_pro_ru_e50b0961` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 того,
 как
 температура
@@ -49594,7 +46650,6 @@ LED
 половину.
 
 ### Сильные
-`livan_s6_pro_ru_0148b7aa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 потери
 охлаждающей
 жидкости
@@ -49609,7 +46664,6 @@ LED
 проверки.
 
 ### 7. Летом
-`livan_s6_pro_ru_c659186f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 после
 стоянки
 вентилятор
@@ -49625,7 +46679,6 @@ LED
 автоматически выключится.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_c0ea43c9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:192 | doc_type:owners_manual
 6
 8
 7
@@ -49646,7 +46699,6 @@ LED
 жидкости говорит о высоком давлении.
 
 ### Держите руки и одежду подальше от
-`livan_s6_pro_ru_74a72b3a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:193 | doc_type:owners_manual
 крутящегося вентилятора и приводного
 ремня при работающем двигателе.
 Не
@@ -49661,7 +46713,6 @@ LED
 радиатора.
 
 ### Выбрасываемый
-`livan_s6_pro_ru_aa4b2dac` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 высокотемпературный
 пар
 и
@@ -49669,7 +46720,6 @@ LED
 могут привести к серьезным травмам.
 
 ### Система вызова экстренных
-`livan_s6_pro_ru_73a4547a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 оперативных
 служб
 (ЭРАГЛОНАСС)*
@@ -49684,7 +46734,6 @@ LED
 служб
 
 ### (ЭОС),
-`livan_s6_pro_ru_ebfb4c36` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 передачи
 минимального набора данных (МНД) с
 описанием автомобиля, координат его
@@ -49697,7 +46746,6 @@ LED
 государственной федеральной системы
 
 ### Динамик SOS расположен под группой
-`livan_s6_pro_ru_81083b2c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 переключателей
 приборной
 панели
@@ -49713,7 +46761,6 @@ LED
 эксплуатации
 
 ### УВЭОС
-`livan_s6_pro_ru_79c4a198` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:193 | doc_type:owners_manual
 представлен
 в
 электронном
@@ -49729,7 +46776,6 @@ QR
 документе "Паспорт УВЭОС".
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_e455341d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 192
 Остановка двигателя
 1. Плавно
@@ -49744,7 +46790,6 @@ QR
 обочине.
 
 ### 2. Включите
-`livan_s6_pro_ru_7e91d2e0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:194 | doc_type:owners_manual
 аварийные
 сигнальные
 лампы.
@@ -49772,7 +46817,6 @@ QR
 будет труднее, чем обычно.
 
 ### Если автомобиль застрял
-`livan_s6_pro_ru_06cfc244` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 Если автомобиль застрял в снегу, грязи,
 песке и т. д., необходимо попытаться
 переключиться между передней и задней
@@ -49818,7 +46862,6 @@ QR
 пробуксовки колес.
 
 ### Если автомобиль не освободился после
-`livan_s6_pro_ru_3a845d93` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 колебательных
 движений
 в
@@ -49833,7 +46876,6 @@ QR
 другие методы.
 
 ### Неисправности во время вождения
-`livan_s6_pro_ru_954e4b29` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 7
 8
 6
@@ -49848,7 +46890,6 @@ QR
 обслуживание
 
 ### Правильное техническое обслуживание
-`livan_s6_pro_ru_6bdb7ee8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 автомобиля
 не
 только
@@ -49868,7 +46909,6 @@ QR
 важны.
 
 ### Неправильное
-`livan_s6_pro_ru_b3d02750` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 техническое
 обслуживание
 автомобиля
@@ -49880,12 +46920,10 @@ QR
 воздуха.
 
 ### Неправильный уровень жидкостей или
-`livan_s6_pro_ru_28b9df18` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 неправильное давление в шинах может
 увеличить объем выбросов автомобиля.
 
 ### Чтобы защитить окружающую среду и
-`livan_s6_pro_ru_74131a55` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 поддерживать
 автомобиль
 в
@@ -49896,7 +46934,6 @@ QR
 обслуживать его.
 
 ### Если автомобиль эксплуатируется в
-`livan_s6_pro_ru_2357116c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 указанных ниже тяжелых условиях,
 рекомендуется
 проходить
@@ -49906,7 +46943,6 @@ QR
 •
 
 ### Автомобиль
-`livan_s6_pro_ru_8eb7c6a0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 эксплуатируется
 на
 короткие расстояния (менее 10 км) в
@@ -49915,7 +46951,6 @@ QR
 •
 
 ### Автомобиль
-`livan_s6_pro_ru_8eb7c6a0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 в
 течение
 длительного
@@ -49933,7 +46968,6 @@ QR
 •
 
 ### Чрезмерная работа на холостом ходу
-`livan_s6_pro_ru_e8be4b3c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 или
 длительная
 езда
@@ -49943,7 +46977,6 @@ QR
 •
 
 ### Частое
-`livan_s6_pro_ru_06a68a97` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 вождение
 с
 постоянными
@@ -49954,7 +46987,6 @@ QR
 •
 
 ### Частое вождение по песчаным или
-`livan_s6_pro_ru_9c05ce42` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 пыльным дорогам;
 •
 Частое
@@ -49965,7 +46997,6 @@ QR
 •
 
 ### Применение
-`livan_s6_pro_ru_1bb746b2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 топлива,
 не
 соответствующего
@@ -50003,7 +47034,6 @@ QR
 стоянки.
 
 ### Рекомендуется парковать автомобиль в
-`livan_s6_pro_ru_1779c656` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 теплом месте, защищенном от ветра,
 если
 он
@@ -50025,7 +47055,6 @@ QR
 -
 
 ### 35° С
-`livan_s6_pro_ru_9c177ef0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 -
 предел
 температуры
@@ -50042,7 +47071,6 @@ QR
 на
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_b6830536` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:195 | doc_type:owners_manual
 194
 равнине. Поскольку вязкость моторного
 масла
@@ -50059,7 +47087,6 @@ QR
 усилием.
 
 ### Запуск
-`livan_s6_pro_ru_28f5f710` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 при
 температуре ниже - 35° С не удастся. В
 очень холодных районах (- 30°С и ниже)
@@ -50068,7 +47095,6 @@ QR
 эксплуатацию.
 
 ### Программа
-`livan_s6_pro_ru_bb51407d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 обслуживания
 во
 время использования
@@ -50086,7 +47112,6 @@ QR
 различаются.
 
 ### Водителю
-`livan_s6_pro_ru_a33453c0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 может
 потребоваться
 увеличить частоту осмотров и замен.
@@ -50102,7 +47127,6 @@ QR
 обслуживания
 
 ### Данный
-`livan_s6_pro_ru_3a6389d5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 план
 технического
 обслуживания
@@ -50137,7 +47161,6 @@ QR
 «Запуск двигателя и вождениее.
 
 ### Операции
-`livan_s6_pro_ru_6c5a9c92` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 по
 техническому
 обслуживанию автомобиля сложны
@@ -50147,7 +47170,6 @@ QR
 опасны.
 
 ### Выполняя
-`livan_s6_pro_ru_f2728f84` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 некоторые
 работы
 по
@@ -50161,7 +47183,6 @@ QR
 травмы.
 
 ### Только имея достаточный технический
-`livan_s6_pro_ru_bd6e2bab` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 опыт
 обслуживания,
 а
@@ -50177,7 +47198,6 @@ QR
 самостоятельно.
 
 ### В
-`livan_s6_pro_ru_9fe2c4b6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 противном случае обратитесь в центр
 технического обслуживания LIVAN.
 При
@@ -50210,7 +47230,6 @@ QR
 требуется.
 
 ### Рекомендуется
-`livan_s6_pro_ru_b0c6e67a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 использовать
 оригинальные
 запчасти,
@@ -50218,7 +47237,6 @@ QR
 обслуживания LIVAN.
 
 ### Отметки
-`livan_s6_pro_ru_e9322be5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 о
 прохождении
 технического обслуживания
@@ -50242,7 +47260,6 @@ QR
 обслуживании.
 
 ### Этот автомобиль оснащен устройством
-`livan_s6_pro_ru_7e762e42` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 контроля
 выбросов
 и
@@ -50257,7 +47274,6 @@ QR
 отрицательно
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_19ae7205` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 7
 8
 6
@@ -50299,7 +47315,6 @@ QR
 показатели выбросов автомобиля.
 
 ### Техническое
-`livan_s6_pro_ru_f7f7481d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 обслуживание
 автовладельцем
 Если
@@ -50327,7 +47342,6 @@ QR
 обслуживания LIVAN.
 
 ### В
-`livan_s6_pro_ru_817ead8a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 дополнение
 к
 техническому
@@ -50346,7 +47360,6 @@ QR
 рекомендаций.
 
 ### Ежедневный осмотр
-`livan_s6_pro_ru_cc20f777` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 •
 Работоспособность
 фар,
@@ -50356,7 +47369,6 @@ QR
 •
 
 ### Работоспособность
-`livan_s6_pro_ru_be9652c1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:197 | doc_type:owners_manual
 ремня
 безопасности и тормоза.
 •
@@ -50367,7 +47379,6 @@ QR
 Проверьте внешний вид шин.
 
 ### Еженедельный осмотр
-`livan_s6_pro_ru_35dcf913` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:197 | doc_type:owners_manual
 •
 Уровень моторного масла.
 •
@@ -50377,7 +47388,6 @@ QR
 •
 
 ### Уровень
-`livan_s6_pro_ru_1366f7fe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 жидкости
 омывателя
 ветрового стекла.
@@ -50386,7 +47396,6 @@ QR
 •
 
 ### Работа системы кондиционирования
-`livan_s6_pro_ru_15612b46` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:197 | doc_type:owners_manual
 воздуха.
 Если автомобиль часто и в течение
 длительного
@@ -50400,20 +47409,17 @@ QR
 проверять моторное масло.
 
 ### Восемь
-`livan_s6_pro_ru_a957b577` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 правил
 предотвращения
 случайных
 возгораний в автомобиле
 
 ### 1. Запрещается
-`livan_s6_pro_ru_55feb948` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 хранить
 легковоспламеняющиеся вещества в
 автомобиле.
 
 ### Легковоспламеняющиеся
-`livan_s6_pro_ru_62aec767` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 и
 взрывоопасные
 материалы
@@ -50423,7 +47429,6 @@ QR
 пожар (зажигалки и т. д.).
 
 ### 2. Не
-`livan_s6_pro_ru_d0b91002` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 допускайте
 прямого
 контакта
@@ -50434,7 +47439,6 @@ QR
 или
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_a6f2d82e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 196
 ветвями во время
 парковки. Если
@@ -50442,7 +47446,6 @@ QR
 возникнет пожар.
 
 ### 3. Запрещается
-`livan_s6_pro_ru_41a822c3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:198 | doc_type:owners_manual
 установка
 других
 декоративных фонарей, отличных от
@@ -50462,7 +47465,6 @@ QR
 нагрузки, что приведет к пожару.
 
 ### 4. При
-`livan_s6_pro_ru_45229705` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 модификации
 автомобиля
 механической
@@ -50479,7 +47481,6 @@ CD
 возгоранию.
 
 ### 5. Запрещается
-`livan_s6_pro_ru_19a06caa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 использование
 ламп,
 отличающихся
@@ -50493,7 +47494,6 @@ CD
 и это может привести к возгоранию.
 
 ### 6. Запрещается нажимать педаль газа в
-`livan_s6_pro_ru_4212e9ab` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:198 | doc_type:owners_manual
 течение
 длительного
 времени
@@ -50509,7 +47509,6 @@ CD
 автомобиля.
 
 ### Вплоть
-`livan_s6_pro_ru_5ae5f2d2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:198 | doc_type:owners_manual
 до
 возгорания топливного бака.
 7. Моторный
@@ -50526,7 +47525,6 @@ CD
 моторном отсеке.
 
 ### 8. После курения убедитесь, что окурок
-`livan_s6_pro_ru_1b995f4d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 полностью погас. Если нет, может
 случиться пожар.
 Токсичные жидкости
@@ -50539,7 +47537,6 @@ CD
 раны.
 
 ### К
-`livan_s6_pro_ru_8bfbfd5f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:198 | doc_type:owners_manual
 токсичным
 жидкостям
 относятся:
@@ -50553,7 +47550,6 @@ CD
 жидкость и т. д.
 
 ### В
-`livan_s6_pro_ru_88b139b6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 целях
 безопасности
 водителя
@@ -50565,7 +47561,6 @@ CD
 и контейнерах.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_63feb879` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:198 | doc_type:owners_manual
 7
 8
 6
@@ -50590,7 +47585,6 @@ CD
 врачу.
 
 ### Отработанное
-`livan_s6_pro_ru_fa102236` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:199 | doc_type:owners_manual
 моторное
 масло
 нельзя
@@ -50602,7 +47596,6 @@ CD
 окружающую среду.
 
 ### Открытие
-`livan_s6_pro_ru_e11b687f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:199 | doc_type:owners_manual
 капота
 моторного
 отсека
@@ -50620,7 +47613,6 @@ CD
 следующие действия:
 
 ### 1. Потяните
-`livan_s6_pro_ru_96bc9c69` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:199 | doc_type:owners_manual
 ручку
 открывания
 капота
@@ -50633,7 +47625,6 @@ CD
 стороны водителя в автомобиле.
 
 ### 2. Нажмите на рукоятку предохранителя
-`livan_s6_pro_ru_97c4ae49` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:199 | doc_type:owners_manual
 замка
 капота,
 расположенную
@@ -50642,7 +47633,6 @@ CD
 освободить ее.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_d69dbd46` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:199 | doc_type:owners_manual
 198
 3. Поднимите
 капот,
@@ -50652,7 +47642,6 @@ CD
 подоприте капот.
 
 ### Закрытие
-`livan_s6_pro_ru_5743d470` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:200 | doc_type:owners_manual
 капота
 моторного
 отсека
@@ -50677,7 +47666,6 @@ CD
 закрыты.
 
 ### Вставьте
-`livan_s6_pro_ru_c8e24020` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:200 | doc_type:owners_manual
 опорный
 стержень
 капота
@@ -50701,7 +47689,6 @@ CD
 образом.
 
 ### Передний
-`livan_s6_pro_ru_be1e24cf` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:200 | doc_type:owners_manual
 капот
 может
 внезапно
@@ -50721,7 +47708,6 @@ CD
 имущества, травмам или даже смерти.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_2aa9b8f3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:200 | doc_type:owners_manual
 7
 8
 6
@@ -50739,7 +47725,6 @@ CD
 5.
 
 ### Блок предохранителей в моторном
-`livan_s6_pro_ru_760cc75a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 отсеке
 2.
 Крышка
@@ -50749,7 +47734,6 @@ CD
 6.
 
 ### Воздушный фильтр двигателя
-`livan_s6_pro_ru_9f1db708` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:201 | doc_type:owners_manual
 3.
 Бачок для тормозной жидкости
 7.
@@ -50758,7 +47742,6 @@ CD
 4.
 
 ### Аккумуляторная батарея
-`livan_s6_pro_ru_e0b56e5e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:201 | doc_type:owners_manual
 8.
 Бачок жидкости стеклоомывателя
 Для любого двигателя любой компонент моторного отсека имеет специфические
@@ -50772,12 +47755,10 @@ CD
 повреждения.
 
 ### Запрещается
-`livan_s6_pro_ru_07f7b4c4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 самостоятельно
 оборудовать и устанавливать нижнюю защитную панель двигателя.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_e6fc8919` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 200
 Моторное
 масло
@@ -50787,7 +47768,6 @@ CD
 масла
 
 ### Моторное
-`livan_s6_pro_ru_9d3b994a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:202 | doc_type:owners_manual
 масло
 и
 масляный
@@ -50840,7 +47820,6 @@ CD
 уровня масла.
 
 ### 1. Заглушите
-`livan_s6_pro_ru_63ab47ab` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:202 | doc_type:owners_manual
 двигатель
 и
 подождите
@@ -50866,7 +47845,6 @@ CD
 фактический уровень.
 
 ### 2. Вытащите масляный щуп, протрите
-`livan_s6_pro_ru_be395845` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 его
 бумажным
 полотенцем
@@ -50875,7 +47853,6 @@ CD
 упора.
 
 ### 3. Снова
-`livan_s6_pro_ru_fb2bb92c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 вытащите
 масляный
 щуп,
@@ -50887,7 +47864,6 @@ CD
 отметки MIN на щупе.
 
 ### 4. Если уровень моторного масла ниже
-`livan_s6_pro_ru_5bbffeec` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:202 | doc_type:owners_manual
 отметки
 MIN,
 отвинтите
@@ -50901,7 +47877,6 @@ MIN,
 и MIN на щупе для измерения уровня.
 
 ### 5. Подождите несколько минут и снова
-`livan_s6_pro_ru_36a2360c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:202 | doc_type:owners_manual
 проверьте
 уровень.
 При
@@ -50912,7 +47887,6 @@ MIN,
 моторного масла.
 
 ### 6. Наконец,
-`livan_s6_pro_ru_e43df8e0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:202 | doc_type:owners_manual
 убедитесь,
 что
 маслоизмерительный щуп правильно
@@ -50948,7 +47922,6 @@ MIN,
 масло, рекомендованное и одобренное
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_37b45b4d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 7
 8
 6
@@ -50968,7 +47941,6 @@ MIN,
 «Технические данныее.
 
 ### Утилизируйте
-`livan_s6_pro_ru_577739b6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:203 | doc_type:owners_manual
 отработанное
 моторное масло в соответствии с
 применимыми
@@ -50978,7 +47950,6 @@ MIN,
 окружающей среды.
 
 ### Воздушный
-`livan_s6_pro_ru_60976df2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:203 | doc_type:owners_manual
 фильтр/
 фильтрующий
 элемент
@@ -50993,7 +47964,6 @@ MIN,
 водителя.
 
 ### Когда следует проверять воздушный
-`livan_s6_pro_ru_99ed1af3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 фильтрующий элемент двигателя
 Периодичность
 проверки
@@ -51008,7 +47978,6 @@ MIN,
 книжке.
 
 ### Если вы хотите проверить воздушный
-`livan_s6_pro_ru_bdb0a57f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 фильтр/фильтрующий элемент, снимите
 его
 с
@@ -51018,7 +47987,6 @@ MIN,
 встряхните, чтобы удалить пыль и грязь.
 
 ### Если на фильтрующем элементе все еще
-`livan_s6_pro_ru_1ab4eb09` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 остается грязь, замените его на новый.
 Замена
 воздушного
@@ -51026,7 +47994,6 @@ MIN,
 элемента двигателя
 
 ### 1. Ослабьте
-`livan_s6_pro_ru_587f6639` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 5
 крепежных
 винтов
@@ -51036,7 +48003,6 @@ MIN,
 фильтра двигателя.
 
 ### 4. Проверьте или замените воздушный
-`livan_s6_pro_ru_06a840b2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 фильтр/фильтрующий
 элемент
 двигателя.
@@ -51047,7 +48013,6 @@ MIN,
 крышку корпуса элемента.
 
 ### 6. Затяните
-`livan_s6_pro_ru_3fdc4142` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:203 | doc_type:owners_manual
 5
 установочных
 винтов,
@@ -51057,7 +48022,6 @@ MIN,
 пыли в двигатель.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_64b7e2d4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 202
 Система охлаждения
 Информация
@@ -51066,7 +48030,6 @@ MIN,
 охлаждения
 
 ### Роль системы охлаждения заключается в
-`livan_s6_pro_ru_50607b9f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 обеспечении
 наиболее
 подходящей
@@ -51074,7 +48037,6 @@ MIN,
 двигателя.
 
 ### Интервал
-`livan_s6_pro_ru_9820b876` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 замены
 охлаждающей
 жидкости
@@ -51086,7 +48048,6 @@ MIN,
 книжке.
 
 ### Даже при незапущенном двигателе
-`livan_s6_pro_ru_f8957fa7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:204 | doc_type:owners_manual
 вентилятор
 в
 моторном
@@ -51111,7 +48072,6 @@ MIN,
 ожог.
 
 ### Запрещается
-`livan_s6_pro_ru_ff63319c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:204 | doc_type:owners_manual
 запускать
 двигатель
 при
@@ -51120,7 +48080,6 @@ MIN,
 жидкости.
 
 ### В
-`livan_s6_pro_ru_670f131c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:204 | doc_type:owners_manual
 противном
 случае
 двигатель
@@ -51129,7 +48088,6 @@ MIN,
 материальному ущербу.
 
 ### Утилизируйте
-`livan_s6_pro_ru_ef987b89` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 антифриз
 в
 соответствии
@@ -51138,7 +48096,6 @@ MIN,
 законами об охране окружающей среды.
 
 ### Проверка
-`livan_s6_pro_ru_046c5ad9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 охлаждающей
 жидкости
 При
@@ -51176,7 +48133,6 @@ MIN,
 отметки
 
 ### MIN,
-`livan_s6_pro_ru_f851f8b1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 заполните
 расширительный
 бачок
@@ -51188,7 +48144,6 @@ MIN,
 жидкости
 
 ### Запрещается
-`livan_s6_pro_ru_ff63319c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 открывать
 крышку
 расширительного
@@ -51205,7 +48160,6 @@ MIN,
 верхний шланг радиатора.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_3c545bb2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 7
 8
 6
@@ -51223,7 +48177,6 @@ MIN,
 внутри все еще есть давление.
 
 ### 2. Продолжайте поворачивать крышку,
-`livan_s6_pro_ru_88cf0c02` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 пока не снимите ее.
 Пар и кипящая жидкость из горячей
 системы охлаждения могут выйти
@@ -51246,7 +48199,6 @@ MIN,
 жидкость.
 
 ### Никогда
-`livan_s6_pro_ru_afad20df` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 не
 разбирайте
 систему
@@ -51267,7 +48219,6 @@ MIN,
 бака остынут.
 
 ### 3. Залейте
-`livan_s6_pro_ru_051f9fbd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 необходимое
 количество
 охлаждающей
@@ -51286,7 +48237,6 @@ MIN,
 детали.
 
 ### Охлаждающая
-`livan_s6_pro_ru_c7b82796` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:205 | doc_type:owners_manual
 жидкость
 содержит этиленгликоль, который может
 воспламениться, если компонент сильно
@@ -51302,7 +48252,6 @@ MIN,
 жидкости разных марок и типов.
 
 ### Различные
-`livan_s6_pro_ru_2abfe6f3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 химические
 компоненты,
 такие
@@ -51341,7 +48290,6 @@ LIVAN. Повреждения или неисправности,
 гарантией LIVAN.
 
 ### 4. При
-`livan_s6_pro_ru_a1c0fc77` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:205 | doc_type:owners_manual
 открытой
 верхней
 крышке
@@ -51357,7 +48305,6 @@ LIVAN. Повреждения или неисправности,
 нагреваться.
 
 ### Будьте
-`livan_s6_pro_ru_4a8a7e3f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 осторожны
 с
 вентилятором
@@ -51367,7 +48314,6 @@ LIVAN. Повреждения или неисправности,
 в
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_57fc6a61` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:205 | doc_type:owners_manual
 204
 расширительном баке может упасть.
 Если
@@ -51388,7 +48334,6 @@ LIVAN. Повреждения или неисправности,
 между отметками MAX и MIN.
 
 ### 5. Закрытие
-`livan_s6_pro_ru_34c05996` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:206 | doc_type:owners_manual
 крышки.
 Убедитесь,
 что
@@ -51429,7 +48374,6 @@ LIVAN. Повреждения или неисправности,
 обслуживания как можно скорее.
 
 ### Автомобиль
-`livan_s6_pro_ru_3377c72a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:206 | doc_type:owners_manual
 с
 хорошими
 тормозными
@@ -51463,7 +48407,6 @@ LIVAN. Повреждения или неисправности,
 безопасности движения.
 
 ### Изношенные тормозные колодки не могут
-`livan_s6_pro_ru_77f6b02d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:206 | doc_type:owners_manual
 эффективно затормаживать автомобиль.
 Степень износа тормозных
 колодок
@@ -51530,7 +48473,6 @@ LIVAN. Повреждения или неисправности,
 эффективность торможения.
 
 ### Экстренное торможение не должно
-`livan_s6_pro_ru_43c2299c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:206 | doc_type:owners_manual
 применяться
 при
 движении
@@ -51552,7 +48494,6 @@ LIVAN. Повреждения или неисправности,
 дорогам.
 
 ### Перед движением по затяжному спуску
-`livan_s6_pro_ru_aff2f7b0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 следует
 перевести
 автомобиль
@@ -51578,7 +48519,6 @@ LIVAN. Повреждения или неисправности,
 обеспечить восстановление тормоза.
 
 ### Обязательно
-`livan_s6_pro_ru_a65785f6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 посетите
 центр
 технического обслуживания LIVAN
@@ -51593,7 +48533,6 @@ LIVAN. Повреждения или неисправности,
 торможение.
 
 ### Новые тормозные колодки обладают не
-`livan_s6_pro_ru_ff8f2612` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 самыми
 лучшими
 фрикционными
@@ -51639,7 +48578,6 @@ LIVAN. Повреждения или неисправности,
 и несчастных случаев.
 
 ### Если педаль тормоза не может вернуться
-`livan_s6_pro_ru_e55cb030` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 на нормальную высоту или ход педали
 тормоза увеличивается слишком быстро,
 может потребоваться ремонт тормозной
@@ -51653,7 +48591,6 @@ LIVAN. Повреждения или неисправности,
 LIVAN как можно скорее.
 
 ### Звук тормозов
-`livan_s6_pro_ru_2432218b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 Нажмите на педаль тормоза, передние и
 задние
 тормоза
@@ -51689,7 +48626,6 @@ LIVAN как можно скорее.
 системы.
 
 ### Звук тормозов при трогании с
-`livan_s6_pro_ru_b0fd1b53` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 места
 Звук
 трения
@@ -51714,7 +48650,6 @@ D, двигатель вырабатывает движущую
 остается
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_c8c8170f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 206
 неподвижным,
 тормозной
@@ -51743,7 +48678,6 @@ D, двигатель вырабатывает движущую
 автомобиля.
 
 ### Звук руля при нажатии педали
-`livan_s6_pro_ru_2e456c7f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 тормоза на месте
 Когда автомобиль неподвижен, колеса
 прокручиваются при повороте рулевого
@@ -51751,7 +48685,6 @@ D, двигатель вырабатывает движущую
 тормоза, колеса прокручиваться не будут.
 
 ### При одновременном действии рулевого и
-`livan_s6_pro_ru_5b9ab800` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 тормозного
 усилия
 транспортное
@@ -51767,7 +48700,6 @@ D, двигатель вырабатывает движущую
 работу и эксплуатацию автомобиля.
 
 ### Повышенная
-`livan_s6_pro_ru_70e3e7be` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 температура
 тормозных
 дисков
@@ -51793,7 +48725,6 @@ D, двигатель вырабатывает движущую
 тепло.
 
 ### Нагрев
-`livan_s6_pro_ru_8069de02` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 тормозного
 диска
 после
@@ -51809,7 +48740,6 @@ D, двигатель вырабатывает движущую
 обжечься.
 
 ### Замена
-`livan_s6_pro_ru_518430ad` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 компонентов
 тормозной системы
 Тормозная система автомобилей очень
@@ -51854,7 +48784,6 @@ D, двигатель вырабатывает движущую
 Пункт
 
 ### Единица
-`livan_s6_pro_ru_420eff88` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 измерени
 я
 Величина
@@ -51868,7 +48797,6 @@ D, двигатель вырабатывает движущую
 10
 
 ### Минималь
-`livan_s6_pro_ru_d525797b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:208 | doc_type:owners_manual
 ная
 толщина
 передних
@@ -51889,7 +48817,6 @@ D, двигатель вырабатывает движущую
 Пункт
 
 ### Единица
-`livan_s6_pro_ru_ae50ded5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 измерени
 я
 Величина
@@ -51903,7 +48830,6 @@ D, двигатель вырабатывает движущую
 11
 
 ### Минималь
-`livan_s6_pro_ru_a164f6f8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 ная
 толщина
 задних
@@ -51914,7 +48840,6 @@ D, двигатель вырабатывает движущую
 Тормозная жидкость
 
 ### Заполните
-`livan_s6_pro_ru_aa35951a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 бачок
 тормозной
 жидкости
@@ -51926,7 +48851,6 @@ D, двигатель вырабатывает движущую
 падает по двум причинам:
 
 ### 1. Стандартный
-`livan_s6_pro_ru_6aeb201d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 износ
 тормозных
 колодок.
@@ -51940,12 +48864,10 @@ D, двигатель вырабатывает движущую
 норму.
 
 ### 2. Также причиной низкого уровня может
-`livan_s6_pro_ru_1e343ffe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 быть утечка тормозной жидкости из
 тормозной гидравлической системы.
 
 ### Следует отремонтировать тормозную
-`livan_s6_pro_ru_ab423856` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 гидравлическую систему, поскольку
 утечка
 приведет
@@ -51954,7 +48876,6 @@ D, двигатель вырабатывает движущую
 работе тормозов.
 
 ### Добавление тормозной жидкости не
-`livan_s6_pro_ru_82d2bd49` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 решит
 проблему
 утечки.
@@ -51988,7 +48909,6 @@ D, двигатель вырабатывает движущую
 системы.
 
 ### Если вы добавите слишком много
-`livan_s6_pro_ru_8d6ee562` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 тормозной
 жидкости,
 она
@@ -52003,7 +48923,6 @@ D, двигатель вырабатывает движущую
 автомобиля.
 
 ### Поэтому
-`livan_s6_pro_ru_12d355cd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 доливать
 тормозную
 жидкость
@@ -52022,7 +48941,6 @@ D, двигатель вырабатывает движущую
 окрашенные поверхности автомобиля.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_73033367` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:209 | doc_type:owners_manual
 208
 Уровень
 тормозной
@@ -52035,7 +48953,6 @@ D, двигатель вырабатывает движущую
 MAX и MIN.
 
 ### Использование
-`livan_s6_pro_ru_585dca5b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:210 | doc_type:owners_manual
 неподходящей
 жидкости
 серьезно
@@ -52044,7 +48961,6 @@ MAX и MIN.
 системы.
 
 ### Система
-`livan_s6_pro_ru_b916e3b3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:210 | doc_type:owners_manual
 рулевого
 управления
 Электроусилитель
@@ -52057,7 +48973,6 @@ MAX и MIN.
 из основных характеристик автомобиля.
 
 ### Она напрямую влияет на управляемость
-`livan_s6_pro_ru_075b3e8d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:steering | p:210 | doc_type:owners_manual
 автомобилем.
 Важную
 роль
@@ -52077,7 +48992,6 @@ MAX и MIN.
 диагностики.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_ffc01d8a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:210 | doc_type:owners_manual
 7
 8
 6
@@ -52094,7 +49008,6 @@ MAX и MIN.
 комбинированных фар
 
 ### Передние
-`livan_s6_pro_ru_4802dab6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:211 | doc_type:owners_manual
 комбинированные
 фары
 вентилируются, чтобы приспособиться к
@@ -52110,7 +49023,6 @@ MAX и MIN.
 конструкцией.
 
 ### Когда через вентиляционное отверстие
-`livan_s6_pro_ru_beb2e417` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:hvac | p:211 | doc_type:owners_manual
 водяной
 пар
 попадает
@@ -52145,7 +49057,6 @@ MAX и MIN.
 •
 
 ### Присутствует
-`livan_s6_pro_ru_00079ceb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 тонкий
 слой
 туманообразной влаги (без разводов,
@@ -52153,7 +49064,6 @@ MAX и MIN.
 •
 
 ### Площадь
-`livan_s6_pro_ru_1a02e6e0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 покрытия
 туманообразной
 влагой
@@ -52163,7 +49073,6 @@ MAX и MIN.
 комбинированной фары менее 50%.
 
 ### Следующие
-`livan_s6_pro_ru_3eec0283` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 ситуации
 недопустимы
 (обычно они вызваны протечкой воды из
@@ -52171,7 +49080,6 @@ MAX и MIN.
 •
 
 ### Внутри
-`livan_s6_pro_ru_e3b39984` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 передней
 комбинированный
 фары образовалась вода.
@@ -52197,7 +49105,6 @@ Livan
 вашего автомобиля.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_bea0720d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:211 | doc_type:owners_manual
 210
 АКБ
 Обслуживание АКБ
@@ -52208,7 +49115,6 @@ Livan
 аккумулятором.
 
 ### Расположение
-`livan_s6_pro_ru_e84226f6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:212 | doc_type:owners_manual
 аккумулятора см.
 главу
 «Моторный отсеке данного раздела.
@@ -52234,7 +49140,6 @@ Livan
 •
 
 ### Избегайте перезарядки аккумулятора
-`livan_s6_pro_ru_8b4a0008` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:lighting | p:212 | doc_type:owners_manual
 или длительный недозаряд.
 •
 Когда
@@ -52250,7 +49155,6 @@ Livan
 •
 
 ### Аккумуляторы следует хранить вдали
-`livan_s6_pro_ru_1a3a3b59` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 от источников тепла и открытого огня,
 а также обеспечивать вентиляцию во
 время зарядки и использования, чтобы
@@ -52282,13 +49186,11 @@ Livan
 •
 
 ### Аккумулятор должен быть неподвижно
-`livan_s6_pro_ru_a70fb262` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 закреплен на транспортном средстве
 во избежание вибрации.
 •
 
 ### Регулярно
-`livan_s6_pro_ru_68219b25` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:212 | doc_type:owners_manual
 проверяйте,
 надежно
 ли
@@ -52317,7 +49219,6 @@ Livan
 разрядки
 
 ### АКБ
-`livan_s6_pro_ru_07804f0d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:212 | doc_type:owners_manual
 во
 избежание замерзания электролита.
 Ремонт и обслуживание
@@ -52332,7 +49233,6 @@ Livan
 211
 
 ### АКБ
-`livan_s6_pro_ru_f7d763f9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:213 | doc_type:owners_manual
 и
 не
 нуждается
@@ -52345,7 +49245,6 @@ Livan
 обслуживания
 
 ### LIVAN
-`livan_s6_pro_ru_23b79b12` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:213 | doc_type:owners_manual
 для
 регулярной
 проверки
@@ -52353,7 +49252,6 @@ Livan
 Замена АКБ
 
 ### АКБ
-`livan_s6_pro_ru_f7d763f9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:213 | doc_type:owners_manual
 обязательно
 следует
 осуществлять на устройство аналогичной
@@ -52365,7 +49263,6 @@ Livan
 техобслуживание LIVAN.
 
 ### Аккумуляторная
-`livan_s6_pro_ru_a435ef17` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:213 | doc_type:owners_manual
 кислота
 может
 вызвать ожоги, а образующийся газ
@@ -52394,7 +49291,6 @@ Livan
 замены
 
 ### АКБ
-`livan_s6_pro_ru_f7d763f9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:213 | doc_type:owners_manual
 передайте
 старое
 устройство
@@ -52421,7 +49317,6 @@ Livan
 роняйте аккумулятор на землю.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_1431d44b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:213 | doc_type:owners_manual
 212
 Хранение автомобиля
 В состоянии покоя вследствие слабого
@@ -52439,7 +49334,6 @@ Livan
 отсоединять, чтобы АКБ не разряжалась.
 
 ### Автомобиль
-`livan_s6_pro_ru_004acf72` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:214 | doc_type:owners_manual
 должен
 храниться
 в
@@ -52460,7 +49354,6 @@ Livan
 старение деталей автомобиля ускорятся.
 
 ### Соблюдайте рекомендации и требования
-`livan_s6_pro_ru_7d75e68a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:214 | doc_type:owners_manual
 «Руководства
 по
 гарантии
@@ -52472,7 +49365,6 @@ Livan
 техническое обслуживание автомобиля.
 
 ### Жидкость
-`livan_s6_pro_ru_4579c002` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:214 | doc_type:owners_manual
 омывателя
 и
 щетки стеклоочистителя
@@ -52507,7 +49399,6 @@ Livan
 очистителя.
 
 ### Температура
-`livan_s6_pro_ru_ea12255c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:214 | doc_type:owners_manual
 точки
 замерзания
 очистителя должна быть на 10° C
@@ -52517,7 +49408,6 @@ Livan
 характерной для местности.
 
 ### Откройте крышку горловины с символом
-`livan_s6_pro_ru_e3b75208` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:214 | doc_type:owners_manual
 омывателя.
 Залейте
 очиститель,
@@ -52529,7 +49419,6 @@ Livan
 отсеке
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_0c946e9b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:214 | doc_type:owners_manual
 7
 8
 6
@@ -52560,7 +49449,6 @@ Livan
 водой.
 
 ### Добавление
-`livan_s6_pro_ru_406d9418` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:215 | doc_type:owners_manual
 воды
 может
 привезти
@@ -52575,7 +49463,6 @@ Livan
 стекла.
 
 ### В очень холодную погоду резервуар для
-`livan_s6_pro_ru_84414e56` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:215 | doc_type:owners_manual
 очистителя может быть заполнен только
 на три четверти. Таким образом можно
 оставить пространство при расширении
@@ -52589,7 +49476,6 @@ Livan
 полного заполнения.
 
 ### Не используйте охлаждающую жидкость
-`livan_s6_pro_ru_1e1b52db` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:215 | doc_type:owners_manual
 (антифриз)
 в
 омывателе
@@ -52600,7 +49486,6 @@ Livan
 автомобиля.
 
 ### Щетка стеклоочистителя
-`livan_s6_pro_ru_39d5f682` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 Жидкости,
 содержащие
 жиры,
@@ -52624,7 +49509,6 @@ Livan
 состояние.
 
 ### Часто промывайте
-`livan_s6_pro_ru_0be47edd` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 переднее
 ветровое
 стекло
@@ -52646,7 +49530,6 @@ Livan
 службы.
 
 ### Если обнаружено затвердевание резины
-`livan_s6_pro_ru_65a6df82` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 или
 трещины,
 или
@@ -52659,7 +49542,6 @@ Livan
 стеклоочистителя.
 
 ### Регулярно
-`livan_s6_pro_ru_9d1df313` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 очищайте
 ветровое
 стекло
@@ -52674,7 +49556,6 @@ Livan
 стекло тщательно очищено.
 
 ### Используйте
-`livan_s6_pro_ru_3ad75d01` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 только
 щетки
 стеклоочистителя, которые совпадают по
@@ -52714,7 +49595,6 @@ Livan
 поднят.
 
 ### Замена
-`livan_s6_pro_ru_1e4b2afa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 щетки
 стеклоочистителя
 переднего
@@ -52733,7 +49613,6 @@ Livan
 необходимо:
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_124171e4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:215 | doc_type:owners_manual
 214
 1. Войти в сервисный режим
 Переключить
@@ -52760,13 +49639,11 @@ Livan
 секунд.
 
 ### Стеклоочиститель
-`livan_s6_pro_ru_85cdab61` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 сдвинется и остановится на ветровом
 стекле. В этом положении его легко
 заменить.
 
 ### Оттяните щетку стеклоочистителя от
-`livan_s6_pro_ru_be481bd2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 ветрового
 стекла,
 нажмите
@@ -52785,13 +49662,11 @@ Livan
 щетку.
 
 ### 3. Установка
-`livan_s6_pro_ru_73993c52` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 щетки
 стеклоочистителя
 производится в обратном порядке.
 
 ### Поверните пусковой переключатель в
-`livan_s6_pro_ru_f08dabef` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 положение
 ON,
 переключите
@@ -52808,7 +49683,6 @@ ON,
 режима.
 
 ### Стеклоочиститель может повредить
-`livan_s6_pro_ru_e354e6b4` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 переднее ветровое стекло, если не
 установлена
 щетка.
@@ -52822,7 +49696,6 @@ ON,
 переднему ветровому стеклу.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_0aca5592` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:216 | doc_type:owners_manual
 7
 8
 6
@@ -52839,7 +49712,6 @@ ON,
 автомобиля
 
 ### Частая мойка автомобиля способствует
-`livan_s6_pro_ru_ca1e6c80` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 сохранению
 его
 внешнего
@@ -52852,7 +49724,6 @@ ON,
 выключатель.
 
 ### Процедура
-`livan_s6_pro_ru_73cac3dc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 необходимо
 выполнять в прохладном месте, не под
 прямыми
@@ -52916,7 +49787,6 @@ ON,
 удаления спирта.
 
 ### Чистка
-`livan_s6_pro_ru_9d4726c2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 кузова
 с
 помощью
@@ -52936,7 +49806,6 @@ ON,
 •
 
 ### Обязательно
-`livan_s6_pro_ru_2cd425d2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
 выполняйте
 очистку
 в
@@ -52964,7 +49833,6 @@ ON,
 поверхности.
 
 ### Сохраняйте
-`livan_s6_pro_ru_707429b6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
 сопло
 в
 движении,
@@ -52982,7 +49850,6 @@ ON,
 •
 
 ### Не используйте насадки с множеством
-`livan_s6_pro_ru_38cbfdac` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:217 | doc_type:owners_manual
 отверстий
 для
 очистки
@@ -53043,7 +49910,6 @@ ON,
 изоляционные материалы.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_475f2bd5` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:217 | doc_type:owners_manual
 216
 Автоматическая
 мойка
@@ -53069,7 +49935,6 @@ ON,
 •
 
 ### Лакокрасочная
-`livan_s6_pro_ru_65b1a430` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:218 | doc_type:owners_manual
 поверхность
 кузова
 достаточно прочная, чтобы выдержать
@@ -53082,7 +49947,6 @@ ON,
 краску.
 
 ### Степень
-`livan_s6_pro_ru_c797b270` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:body | p:218 | doc_type:owners_manual
 воздействия
 в
 основном
@@ -53128,7 +49992,6 @@ ON,
 кузова автомобиля.
 
 ### Регулярная уборка внутри автомобиля
-`livan_s6_pro_ru_18aaf78a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:218 | doc_type:owners_manual
 способствует улучшению обстановки в
 салоне. Пыль и грязь скапливаются на
 обивке,
@@ -53145,7 +50008,6 @@ ON,
 могут быстро затвердеть.
 
 ### Используйте небольшую щетку с мягкой
-`livan_s6_pro_ru_9175597a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:218 | doc_type:owners_manual
 щетиной,
 чтобы
 стряхнуть
@@ -53205,7 +50067,6 @@ ON,
 мягкой ткани и стеклоочиститель.
 
 ### Моющие
-`livan_s6_pro_ru_14e56278` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:218 | doc_type:owners_manual
 средства
 содержат
 растворители,
@@ -53224,7 +50085,6 @@ ON,
 технике безопасности.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_22adca1c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:218 | doc_type:owners_manual
 7
 8
 6
@@ -53243,7 +50103,6 @@ ON,
 достаточную вентиляцию.
 
 ### При чистке салона обратите внимание на
-`livan_s6_pro_ru_514cf4b1` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:219 | doc_type:owners_manual
 следующее:
 •
 Не используйте лезвия или другие
@@ -53260,7 +50119,6 @@ ON,
 •
 
 ### Не применяйте силу и не создавайте
-`livan_s6_pro_ru_1d3b2088` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 чрезмерное
 давление
 тряпкой.
@@ -53274,7 +50132,6 @@ ON,
 •
 
 ### Используйте
-`livan_s6_pro_ru_d485c345` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 только
 мягкое,
 нейтральное
@@ -53290,7 +50147,6 @@ ON,
 жир.
 
 ### При использовании слишком большого
-`livan_s6_pro_ru_6375f3bc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:219 | doc_type:owners_manual
 количества
 мыла
 могут
@@ -53316,7 +50172,6 @@ ON,
 Ткань/напольное покрытие
 
 ### Используйте пылесос с мягкой щеткой
-`livan_s6_pro_ru_a0e7bab3` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 для удаления пыли и налета. Для стойких
 пятен попробуйте сначала использовать
 воду или воду с содой. Перед чисткой
@@ -53339,7 +50194,6 @@ ON,
 Этапы очистки:
 
 ### 1. Смочите чистую безворсовую белую
-`livan_s6_pro_ru_970efe25` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 тряпку водой или раствором пищевой
 соды.
 2. Отожмите
@@ -53349,7 +50203,6 @@ ON,
 лишнюю воду.
 
 ### 3. При
-`livan_s6_pro_ru_4eaa4768` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 удалении
 пятен
 осторожно
@@ -53357,7 +50210,6 @@ ON,
 на тряпке не перестанет.
 
 ### 4. Если пятно не удается полностью
-`livan_s6_pro_ru_fbde5e23` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 стереть, повторите описанные выше
 действия
 с
@@ -53399,7 +50251,6 @@ ON,
 напольного покрытия.
 
 ### Для удаления пыли можно использовать
-`livan_s6_pro_ru_135d6cfc` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 кусок мягкой ткани, смоченный водой.
 Для
 более
@@ -53408,7 +50259,6 @@ ON,
 используйте мягкую ткань, смоченную в
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_5fe2eec7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 218
 слабом мыльном растворе. Дайте коже
 высохнуть
@@ -53419,7 +50269,6 @@ ON,
 для уборки кожаных поверхностей.
 
 ### Никогда
-`livan_s6_pro_ru_d0172973` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:220 | doc_type:owners_manual
 не
 используйте
 чистящие
@@ -53432,7 +50281,6 @@ ON,
 изменить внешний вид обивки салона.
 
 ### Также не используйте средства на основе
-`livan_s6_pro_ru_626908a0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:220 | doc_type:owners_manual
 силикона,
 воска
 или
@@ -53448,7 +50296,6 @@ ON,
 поверхностей.
 
 ### Приборная
-`livan_s6_pro_ru_0f34d30e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:interior | p:220 | doc_type:owners_manual
 панель
 и
 другие
@@ -53465,7 +50312,6 @@ ON,
 салона.
 
 ### Некоторые
-`livan_s6_pro_ru_2feb5bc8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 имеющиеся
 в
 продаже
@@ -53481,7 +50327,6 @@ ON,
 может серьезно ухудшить видимость.
 
 ### Ремонт и обслуживание
-`livan_s6_pro_ru_779b7167` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 8
 7
 6
@@ -53498,7 +50343,6 @@ ON,
 Пункт
 
 ### Единица
-`livan_s6_pro_ru_6f6f2238` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 измерения
 Автомобиль Livan
 Длина автомобиля
@@ -53506,7 +50350,6 @@ ON,
 4730
 
 ### Ширина автомобиля
-`livan_s6_pro_ru_755ecc3a` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 мм
 1818
 Высота автомобиля
@@ -53518,7 +50361,6 @@ ON,
 1562
 
 ### Ширина колеи задних колес
-`livan_s6_pro_ru_fc1ddc35` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 мм
 1569
 Межосевое расстояние
@@ -53534,7 +50376,6 @@ ON,
 знаки, резиновые стопоры, ручки и т. д.
 
 ### Технические данные
-`livan_s6_pro_ru_45c3a013` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 220
 Параметры
 качества
@@ -53544,7 +50385,6 @@ ON,
 измерения
 
 ### Количество пассажиров
-`livan_s6_pro_ru_2585987b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 чел.
 5
 Масса без нагрузки
@@ -53556,7 +50396,6 @@ ON,
 837
 
 ### Масса задней оси без нагрузки
-`livan_s6_pro_ru_f32e75c8` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 кг
 513
 Полная масса
@@ -53567,7 +50406,6 @@ ON,
 947
 
 ### Масса задней оси с нагрузкой
-`livan_s6_pro_ru_6a36d1c6` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:222 | doc_type:owners_manual
 кг
 798
 Свободный ход педали
@@ -53579,7 +50417,6 @@ ON,
 10-25 мм
 
 ### Технические данные
-`livan_s6_pro_ru_aafb53de` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 8
 7
 6
@@ -53595,7 +50432,6 @@ ON,
 Пункт
 
 ### Единица
-`livan_s6_pro_ru_7cdff67b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:223 | doc_type:owners_manual
 измерения
 BHE15–EFZ
 BHE15–AFZ
@@ -53604,7 +50440,6 @@ BHE15–AFZ
 4 цилиндра в ряд
 
 ### Диаметр цилиндра
-`livan_s6_pro_ru_117708eb` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:223 | doc_type:owners_manual
 х такт
 мм
 73,4×88,57
@@ -53616,7 +50451,6 @@ BHE15–AFZ
 11∶1
 
 ### Номинальная
-`livan_s6_pro_ru_a5d59546` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 скорость оборотов
 мощности
 об./мин.
@@ -53629,7 +50463,6 @@ BHE15–AFZ
 108
 
 ### Максимальный
-`livan_s6_pro_ru_c3c86ff9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 крутящий момент
 Нбм
 290
@@ -53642,7 +50475,6 @@ BHE15–AFZ
 2000-3500
 
 ### Скорость оборотов
-`livan_s6_pro_ru_86f81b35` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 при холостом ходе
 об./мин.
 710±50
@@ -53652,7 +50484,6 @@ BHE15–AFZ
 1–3–4–2
 
 ### Технические данные
-`livan_s6_pro_ru_965889fe` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 222
 Мощность автомобиля
 Пункт
@@ -53663,7 +50494,6 @@ BHE15–AFZ
 энергопотреблением
 
 ### Версия с
-`livan_s6_pro_ru_1cde2916` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 высокой
 мощностью
 Максималь
@@ -53674,7 +50504,6 @@ BHE15–AFZ
 195
 
 ### Максималь
-`livan_s6_pro_ru_70f94c1b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 ный
 преодолевае
 мый подъём
@@ -53685,7 +50514,6 @@ BHE15–AFZ
 Пункт
 
 ### Единица
-`livan_s6_pro_ru_87ec1772` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 измерения
 Версия с
 низким
@@ -53701,7 +50529,6 @@ BHE15–AFZ
 6,3
 
 ### Уровень выхлопных газов
-`livan_s6_pro_ru_7d75ed15` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 Пункт
 Версия с низким
 энергопотреблением
@@ -53709,7 +50536,6 @@ BHE15–AFZ
 мощностью
 
 ### Уровень
-`livan_s6_pro_ru_f5a4e7f0` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 выхлопных
 газов
 Евро-6
@@ -53726,14 +50552,12 @@ BHE15–AFZ
 223
 
 ### Модель шин
-`livan_s6_pro_ru_3f7bd727` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 Пункт
 Модель 1
 Спецификация колесных дисков
 17×6,5J
 
 ### Колесные диски
-`livan_s6_pro_ru_d160e9fa` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 Шина
 Величина динамического
 дисбаланса
@@ -53743,7 +50567,6 @@ BHE15–AFZ
 Давление в шине (холодное состояние)
 
 ### Передние колеса
-`livan_s6_pro_ru_833e8b28` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 кПа
 230
 Задние колеса
@@ -53754,7 +50577,6 @@ BHE15–AFZ
 420
 
 ### Технические данные
-`livan_s6_pro_ru_7da363f2` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 224
 Масло
 Рекомендуемое масло и объем
@@ -53763,7 +50585,6 @@ BHE15–AFZ
 Объем
 
 ### Бензин
-`livan_s6_pro_ru_f7b59017` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 Пожалуйста, заправляйте топливный бак
 в соответствии с требованиями к
 расходу топлива, указанными на
@@ -53771,14 +50592,12 @@ BHE15–AFZ
 55 л
 
 ### Моторное масло
-`livan_s6_pro_ru_97e02f08` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:engine | p:226 | doc_type:owners_manual
 Масло SP 0W-20
 4,3 л (сухой тип)
 4,0 л (смешанный
 тип)
 
 ### Жидкость для
-`livan_s6_pro_ru_456d040c` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 охлаждения
 двигателя
 Охлаждающая жидкость на основе
@@ -53787,7 +50606,6 @@ Livan
 6,2 л
 
 ### Высокоэффективное гибридное
-`livan_s6_pro_ru_6181cad7` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:ev | p:226 | doc_type:owners_manual
 трансмиссионное масло от Royal Shell
 Dutch
 3,3 л (сухой тип)
@@ -53795,7 +50613,6 @@ Dutch
 тип)
 
 ### Тормозная
-`livan_s6_pro_ru_443bbc4d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:brakes | p:226 | doc_type:owners_manual
 жидкость
 DOT4
 0.76 л
@@ -53805,34 +50622,23 @@ KVWP (-25 ℃)
 3.5±0.1 л
 
 ### Хладагент
-`livan_s6_pro_ru_ca10202d` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 кондиционера
 R134a
 500±20 г
 Технические данные
 Указатель
 
-### Внутренний блок
-`livan_s6_pro_ru_a20deb29` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
-
-### Выбор детского защитного
-`livan_s6_pro_ru_54c9285f` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 
 ### Информация о системе
-`livan_s6_pro_ru_82fb7f2e` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 Информация о
 трехкомпонентном
 каталитическом нейтрализаторе
 отработавших газов двигателя
 
-### Проверка охлаждающей
-`livan_s6_pro_ru_1d4e430b` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
 
 ### Сигнальные и индикаторные
-`livan_s6_pro_ru_88fcdb08` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
 Система вызова экстренных
 оперативных служб (ЭРА-
 
 ### Установка детских средств
-`livan_s6_pro_ru_4ae71ea9` | s6_pro | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
 Установка запасного колеса ........ 175

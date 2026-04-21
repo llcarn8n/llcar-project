@@ -1,8 +1,12 @@
-# Manual: lexus/es (382 chunks)
-<!-- doc_type:owners_manual tier:3 lang:en -->
+---
+brand: lexus
+model: es
+generation: xv60_2012
+source: kb
+---
+
 
 ### ES350_250_OM_OM06216U_(U)
-`lexus_es_en_25ef26a8` | es | owners_manual | tier:3 | lang:en | layer:body | p:1
 1
 2
 3
@@ -55,7 +59,6 @@ Search alphabetically
 2
 
 ### TABLE OF CONTENTS
-`lexus_es_en_6d434cb8` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:3
 1
 2
 3
@@ -107,7 +110,6 @@ Emission inspection and maintenance (I/M) programs............307
 4
 
 ### TABLE OF CONTENTS
-`lexus_es_en_9b3501bc` | es | owners_manual | tier:3 | lang:en | layer:general | p:5
 1
 2
 3
@@ -282,7 +284,6 @@ equipment, can read the information if
 they have access to the vehicle or the
 
 ### EDR.
-`lexus_es_en_11cc4130` | es | owners_manual | tier:3 | lang:en | layer:general | p:8
 Disclosure of the EDR data
 Lexus will not disclose the data recorded in
 an EDR to a third party except when:
@@ -364,7 +365,6 @@ cause death or serious
 injury to people.
 
 ### NOTICE:
-`lexus_es_en_fe566dd7` | es | owners_manual | tier:3 | lang:en | layer:steering | p:10
 Explains something that,
 if not obeyed, could
 cause damage to or a
@@ -399,7 +399,6 @@ happen.
 What to do if... (Troubleshooting):
 
 ### *2: Refer to “NAVIGATION AND MULTIMEDIA SYSTEM OWNER’S MANUAL”.
-`lexus_es_en_74259ddc` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:15
 E
 F
 G
@@ -423,7 +422,6 @@ Fuel filler door opener switch..................................................
 *1: If equipped
 
 ### *2: Refer to “NAVIGATION AND MULTIMEDIA SYSTEM OWNER’S MANUAL”.
-`lexus_es_en_10ca059c` | es | owners_manual | tier:3 | lang:en | layer:body | p:16
 A
 B
 C
@@ -461,7 +459,6 @@ Audio remote control switches*
 Talk switch*
 
 ### *: Refer to “NAVIGATION AND MULTIMEDIA SYSTEM OWNER’S MANUAL”.
-`lexus_es_en_114976d8` | es | owners_manual | tier:3 | lang:en | layer:interior | p:18
 Seat ventilator switches* .....................................................................................P.269
 Seat heater switches* ...........................................................................................P.269
 Heated steering wheel switch*..........................................................................P.269
@@ -605,7 +602,6 @@ with the center of the head restraint
 closest to the top of your ears.
 
 ### (P.25)
-`lexus_es_en_3f1e2cbe` | es | owners_manual | tier:3 | lang:en | layer:safety | p:23
 Make sure that all occupants are wearing their seat belts before driving the
 vehicle. (P.25)
 Use a child restraint system appropriate for the child until the child becomes
@@ -615,7 +611,6 @@ Make sure that you can see backward
 clearly by adjusting the inside and outside rear view mirrors properly.
 
 ### (P.119, 120)
-`lexus_es_en_741164dd` | es | owners_manual | tier:3 | lang:en | layer:general | p:23
 For safe driving
 For safe driving, adjust the seat and
 mirror to an appropriate position
@@ -703,7 +698,6 @@ belt in the proper way. (P.25)
 ■When children are in the vehicle
 
 ### P.43
-`lexus_es_en_68068bd0` | es | owners_manual | tier:3 | lang:en | layer:interior | p:24
 ■Seat belt damage and wear
 ●Do not damage the seat belts by allowing the belt, plate, or buckle to be
 jammed in the door.
@@ -809,7 +803,6 @@ safe on another vehicle, when used by
 another person, or at a different seating position other than the one originally intended.
 
 ### NOTICE
-`lexus_es_en_9d062a04` | es | owners_manual | tier:3 | lang:en | layer:interior | p:26
 ■When using a seat belt extender
 When releasing the seat belt, press on
 the buckle release button on the
@@ -956,14 +949,12 @@ itself may also be hot.
 ●All of the doors will be unlocked.
 
 ### (P.97)
-`lexus_es_en_0e4b5349` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:30
 ●The brakes and stop lights will be controlled automatically. (P.246)
 ●The interior lights will turn on automatically. (P.274)
 ●The emergency flashers will turn on automatically. (P.344)
 ●Fuel supply to the engine will be stopped.
 
 ### (P.350)
-`lexus_es_en_7ad96cec` | es | owners_manual | tier:3 | lang:en | layer:safety | p:30
 ●For Lexus Enform Safety Connect subscribers, if any of the following situations
 occur, the system is designed to send an
 emergency call to the response center,
@@ -975,7 +966,6 @@ the occupants are unable to communicate, the agent automatically treats the
 call as an emergency and helps to dispatch the necessary emergency services.
 
 ### (P.55)
-`lexus_es_en_4a3368ee` | es | owners_manual | tier:3 | lang:en | layer:interior | p:30
 • An SRS airbag is deployed.
 • A seat belt pretensioner is activated.
 • The vehicle is involved in a severe rearend collision.
@@ -1316,7 +1306,6 @@ BAG OFF” indicator light is not illuminated when using the seat belt
 extender for the front passenger seat.
 
 ### If the “PASSENGER AIR BAG ON”
-`lexus_es_en_f2a55b02` | es | owners_manual | tier:3 | lang:en | layer:interior | p:38
 indicator light is illuminated, disconnect the extender tongue from the
 seat belt buckle, and reconnect the
 seat belt. Reconnect the seat belt
@@ -1356,7 +1345,6 @@ seat, the “PASSENGER AIR BAG
 ON” indicator light is illuminated. If the
 
 ### “PASSENGER AIR BAG OFF” indi-
-`lexus_es_en_7babe4d7` | es | owners_manual | tier:3 | lang:en | layer:safety | p:38
 cator is illuminated, ask the passenger
 to sit up straight, well back in the seat,
 feet on the floor, and with the seat belt
@@ -1371,7 +1359,6 @@ the front passenger seat, install the
 child restraint system on the front passenger seat in the proper order.
 
 ### (P.45)
-`lexus_es_en_e615c599` | es | owners_manual | tier:3 | lang:en | layer:safety | p:38
 ●Do not modify or remove the front
 seats.
 ●Do not kick the front passenger seat or
@@ -1411,7 +1398,6 @@ Indicator/warning
 light
 
 ### “PASSENGER AIR
-`lexus_es_en_e988f82d` | es | owners_manual | tier:3 | lang:en | layer:interior | p:39
 BAG ON”
 SRS warning light
 Off
@@ -1426,7 +1412,6 @@ Indicator/warning
 light
 
 ### SENGER AIR BAG
-`lexus_es_en_91c4190b` | es | owners_manual | tier:3 | lang:en | layer:safety | p:39
 ON”*4
 SRS warning light
 Off
@@ -1452,7 +1437,6 @@ his/her physique and posture.
 light
 
 ### “PASSENGER AIR
-`lexus_es_en_4484de67` | es | owners_manual | tier:3 | lang:en | layer:interior | p:40
 BAG OFF”*6
 SRS warning light
 Off
@@ -1467,7 +1451,6 @@ Indicator/warning
 light
 
 ### “PASSENGER AIR
-`lexus_es_en_000c4179` | es | owners_manual | tier:3 | lang:en | layer:interior | p:40
 BAG OFF”
 SRS warning light
 Off
@@ -1481,7 +1464,6 @@ Indicator/warning
 light
 
 ### “PASSENGER AIR
-`lexus_es_en_22682627` | es | owners_manual | tier:3 | lang:en | layer:safety | p:40
 BAG OFF”
 SRS warning light
 On
@@ -1552,7 +1534,6 @@ Child restraint system: P.44
 When using a child restraint system:
 
 ### P.45
-`lexus_es_en_67b4622d` | es | owners_manual | tier:3 | lang:en | layer:safety | p:43
 Child restraint system installation
 method
 • Fixed with a seat belt: P.47
@@ -1581,7 +1562,6 @@ while driving or operating the
 power window accidentally.
 
 ### (P.99, 124)
-`lexus_es_en_11210ab4` | es | owners_manual | tier:3 | lang:en | layer:body | p:43
 Do not let small children operate
 equipment which may catch or
 pinch body parts, such as the
@@ -1704,7 +1684,6 @@ anchors attachment
 Anchor brackets (for top
 tether strap) attachment
 ### P.53
-`lexus_es_en_85dcbe82` | es | owners_manual | tier:3 | lang:en | layer:safety | p:45
 When using a child restraint system
 46
 1-2. Child safety
@@ -1819,7 +1798,6 @@ system, rock it back and forth to
 ensure that it is installed securely.
 
 ### (P.50)
-`lexus_es_en_1a5fd718` | es | owners_manual | tier:3 | lang:en | layer:safety | p:48
 ■Forward-facing  Convertible
 seat
 1
@@ -1862,7 +1840,6 @@ system, rock it back and forth to
 ensure that it is installed securely.
 
 ### (P.50)
-`lexus_es_en_e90a1f60` | es | owners_manual | tier:3 | lang:en | layer:safety | p:49
 ■Booster seat
 1
 If installing the child restraint system to the front passenger seat is
@@ -1884,7 +1861,6 @@ positioned over the child’s shoulder and
 that the lap belt is as low as possible.
 
 ### (P.24)
-`lexus_es_en_68a999f8` | es | owners_manual | tier:3 | lang:en | layer:safety | p:49
 50
 1-2. Child safety
 ■Removing a child restraint system
@@ -2002,7 +1978,6 @@ system, rock it back and forth to
 ensure that it is installed securely.
 
 ### (P.50)
-`lexus_es_en_0c92d193` | es | owners_manual | tier:3 | lang:en | layer:safety | p:52
 ■When installing in the rear center
 seat
 There are no LATCH anchors behind
@@ -2021,14 +1996,12 @@ anchors
 The LATCH system conforms to
 
 ### FMVSS225 or CMVSS210.2.
-`lexus_es_en_35675c6f` | es | owners_manual | tier:3 | lang:en | layer:general | p:52
 Child restraint systems conforming to
 FMVSS213 or CMVSS213 specifications
 can be used.
 This vehicle is designed to conform to SAE
 
 ### J1819.
-`lexus_es_en_cea300ea` | es | owners_manual | tier:3 | lang:en | layer:safety | p:52
 A
 A
 WARNING
@@ -2114,7 +2087,6 @@ anchors
 The LATCH system conforms to
 
 ### J1819.
-`lexus_es_en_832de93e` | es | owners_manual | tier:3 | lang:en | layer:safety | p:54
 WARNING
 ■When installing a child restraint system
 Observe the following precautions.
@@ -2135,7 +2107,6 @@ never adjust the seat.
 manufacturer.
 
 ### NOTICE
-`lexus_es_en_a639e255` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:54
 ■Anchor brackets (for top tether
 strap)
 When not in use, make certain to close
@@ -2157,13 +2128,11 @@ Helps drivers receive necessary response
 from emergency service providers.
 
 ### (P.57)
-`lexus_es_en_ae3eae06` | es | owners_manual | tier:3 | lang:en | layer:general | p:55
 *: U.S. Patent No. 7,508,298 B2
 Stolen Vehicle Location
 Helps drivers in the event of vehicle theft.
 
 ### (“SOS”)
-`lexus_es_en_78eead39` | es | owners_manual | tier:3 | lang:en | layer:general | p:55
 Connects drivers to response-center support. (P.57)
 Enhanced Roadside Assistance
 Provides drivers various on-road assistance. (P.57)
@@ -2177,7 +2146,6 @@ dealer, call the following or push the
 The United States
 
 ### 1-800-25-LEXUS (1-800-255-3987)
-`lexus_es_en_4982e6e0` | es | owners_manual | tier:3 | lang:en | layer:maintenance | p:55
 Lexus Enform Safety Connect*
 Safety Connect is a subscriptionbased telematics service that uses
 Global Positioning System (GPS)
@@ -2206,7 +2174,6 @@ C
 Canada
 
 ### 1-800-26-LEXUS (1-800-265-3987)
-`lexus_es_en_e4f936ea` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:56
 Puerto Rico
 1-877-539-8777
 ■Safety Connect Services Information
@@ -2288,7 +2255,6 @@ vehicle. After filing a police report, call
 the Safety Connect response center at
 
 ### 1-800-25-LEXUS (1-800-255-
-`lexus_es_en_44c412c6` | es | owners_manual | tier:3 | lang:en | layer:safety | p:57
 3987) in the United States, 1-877539-8777 in Puerto Rico or 1-800265-3987 in Canada, and follow the
 prompts for Safety Connect to initiate
 this service.
@@ -2299,7 +2265,6 @@ information is available at Lexus.com.
 ■Emergency Assistance Button
 
 ### (“SOS”)
-`lexus_es_en_2ee60cf8` | es | owners_manual | tier:3 | lang:en | layer:safety | p:57
 In the event of an emergency on the
 road, push the “SOS” button to reach
 the Safety Connect response center.
@@ -2361,7 +2326,6 @@ The indicator light stops flashing after
 the engine switch has been turned to
 
 ### ACCESSORY or IGNITION ON
-`lexus_es_en_a5d6bf9d` | es | owners_manual | tier:3 | lang:en | layer:engine | p:59
 mode to indicate that the system has
 been canceled.
 ■System maintenance
@@ -2386,7 +2350,6 @@ vehicle thefts.
 Operating the system
 
 ### NOTICE
-`lexus_es_en_cdea1454` | es | owners_manual | tier:3 | lang:en | layer:body | p:59
 ■To ensure the system operates correctly
 Do not modify or remove the system. If
 modified or removed, the proper operation of the system cannot be guaranteed.
@@ -2474,7 +2437,6 @@ remaining in the vehicle unlocks the door.
 ●When recharging or replacing the battery
 
 ### NOTICE
-`lexus_es_en_ade16314` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:61
 ■To ensure the system operates correctly
 Do not modify or remove the system. If
 modified or removed, the proper operation of the system cannot be guaranteed.
@@ -2520,7 +2482,6 @@ Brake system warning light*1
 (yellow)
 Brake system warning light*1
 ### (P.351)
-`lexus_es_en_58f42be3` | es | owners_manual | tier:3 | lang:en | layer:engine | p:65
 High coolant temperature
 warning light*2 (P.351)
 Charging system warning
@@ -2530,7 +2491,6 @@ Low engine oil pressure warning light*2 (P.352)
 (Canada)
 Malfunction indicator lamp*1
 ### (U.S.A.)
-`lexus_es_en_e98ea805` | es | owners_manual | tier:3 | lang:en | layer:steering | p:65
 ABS warning light*1 (P.353)
 (Canada)
 ABS warning light*1 (P.353)
@@ -2545,18 +2505,15 @@ warning light*1 (P.353)
 Low fuel level warning light
 
 ### (P.354)
-`lexus_es_en_eb41ac0b` | es | owners_manual | tier:3 | lang:en | layer:interior | p:65
 Driver’s and front passenger’s
 seat belt reminder light
 
 ### (P.354)
-`lexus_es_en_171af20b` | es | owners_manual | tier:3 | lang:en | layer:interior | p:65
 Rear passengers’ seat belt
 reminder lights*2 (P.354)
 Tire pressure warning light*1
 
 ### (P.355)
-`lexus_es_en_424813f6` | es | owners_manual | tier:3 | lang:en | layer:adas | p:65
 (orange)
 LTA indicator*2 (P.355)
 (flashes)
@@ -2565,7 +2522,6 @@ Intuitive parking assist OFF indicator*1 (if equipped) (P.355)
 RCTA OFF indicator*1
 
 ### (P.356)
-`lexus_es_en_d0ef021f` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:65
 (flashes)
 RCD OFF indicator (if
 equipped) (P.356)
@@ -2582,7 +2538,6 @@ Slip indicator*1 (P.357)
 (Canada)
 Parking brake indicator
 ### (P.357)
-`lexus_es_en_f857862a` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:65
 66
 2-1. Instrument cluster
 *1: These lights come on when the engine
@@ -2602,7 +2557,6 @@ Brake hold operated indicator*1 (P.358)
 Master warning light*1
 
 ### (P.358)
-`lexus_es_en_4b5c8464` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:66
 WARNING
 ■If a safety system warning light does
 not come on
@@ -2618,21 +2572,18 @@ Indicators
 Turn signal indicator (P.153)
 
 ### (U.S.A.)
-`lexus_es_en_eb306257` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:66
 Headlight indicator (P.158)
 (Canada)
 Tail light indicator (P.158)
 Headlight high beam indicator
 
 ### (P.161)
-`lexus_es_en_2de181fd` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:66
 PCS warning light*1, 2 (P.176)
 Cruise
 control
 indicator*3
 
 ### (P.198)
-`lexus_es_en_215e4dac` | es | owners_manual | tier:3 | lang:en | layer:adas | p:66
 Dynamic radar cruise control
 indicator*3 (P.198)
 Cruise control “SET” indicator*3 (P.198)
@@ -2652,7 +2603,6 @@ Intuitive parking assist OFF indicator*1,
 equipped)
 
 ### (P.224)
-`lexus_es_en_cff6ed82` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:66
 RCD
 OFF
 indicator*2
@@ -2668,7 +2618,6 @@ indicator*1,
 2
 
 ### (P.247)
-`lexus_es_en_60620169` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:66
 67
 2-1. Instrument cluster
 2
@@ -2709,23 +2658,19 @@ Parking
 brake
 indicator
 ### (P.156)
-`lexus_es_en_9e319e76` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:67
 Brake hold operated indicator*1 (P.156)
 Eco Driving Indicator Light*1, 5
 
 ### (P.79)
-`lexus_es_en_91666cf5` | es | owners_manual | tier:3 | lang:en | layer:hvac | p:67
 Low outside temperature indicator*3, 6 (P.68, 71)
 
 ### (P.213)
-`lexus_es_en_c2688049` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:67
 Sport mode indicator (P.213)
 Custom mode indicator (if
 equipped) (P.213)
 Eco drive mode indicator
 
 ### (P.213)
-`lexus_es_en_c1c4b330` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:67
 Sport mode indicator (if
 equipped) (P.213)
 Sport S mode indicator (if
@@ -2817,14 +2762,12 @@ to your Lexus dealer.
 ■Liquid crystal display
 
 ### P.77
-`lexus_es_en_04c353a5` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:69
 ■Customization
 The gauges and meters can be customized
 on
 of the multi-information display.
 
 ### (P.80)
-`lexus_es_en_a7b037ff` | es | owners_manual | tier:3 | lang:en | layer:engine | p:69
 H
 I
 WARNING
@@ -2841,7 +2784,6 @@ engine braking and possibly an accident
 resulting in death or injury.
 
 ### NOTICE
-`lexus_es_en_a8a0e097` | es | owners_manual | tier:3 | lang:en | layer:engine | p:69
 ■To prevent damage to the engine and
 its components
 ●Do not let the indicator needle of the
@@ -2889,7 +2831,6 @@ when the tail lights are on but the surrounding area is bright
 and the surrounding area is dark
 
 ### NOTICE
-`lexus_es_en_e1b5a81f` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:70
 ●The engine may be overheating if the
 engine coolant temperature gauge is
 in the red zone (H). In this case, immediately stop the vehicle in a safe place,
@@ -2997,7 +2938,6 @@ The engine speed at which the rev indicator will begin to be displayed can be se
 of the multi-information display.
 
 ### (P.80)
-`lexus_es_en_ad2741b4` | es | owners_manual | tier:3 | lang:en | layer:engine | p:73
 ■Rev peak
 When the engine speed reaches or
 exceeds 5000 rpm, an afterimage of
@@ -3055,7 +2995,6 @@ to your Lexus dealer.
 ■Liquid crystal display
 
 ### (P.80)
-`lexus_es_en_5f79193d` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:74
 ■Display items
 Odometer
 Displays the total distance the vehicle has
@@ -3075,7 +3014,6 @@ engine braking and possibly an accident
 resulting in death or injury.
 
 ### NOTICE
-`lexus_es_en_332dba59` | es | owners_manual | tier:3 | lang:en | layer:engine | p:74
 ■To prevent damage to the engine and
 its components
 ●Do not let the indicator needle of the
@@ -3163,7 +3101,6 @@ Display and menu icons
 Driving information display
 
 ### (P.77)
-`lexus_es_en_3198282f` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:76
 Navigation system-linked display (if equipped) (P.80)
 77
 2-1. Instrument cluster
@@ -3191,7 +3128,6 @@ sending or receiving call is displayed. For details regarding the
 hands-free system, refer to the
 
 ### MANUAL”.
-`lexus_es_en_0435f271` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:77
 *: F SPORT models
 ■Display items (except F SPORT
 models)
@@ -3216,12 +3152,10 @@ of the meter control
 Audio system-linked display
 
 ### (P.80)
-`lexus_es_en_7084e37f` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:77
 Driving support system information display (P.80)
 Warning message display
 
 ### (P.361)
-`lexus_es_en_374a0b7b` | es | owners_manual | tier:3 | lang:en | layer:safety | p:77
 Settings display (P.80)
 WARNING
 ■Caution for use while driving
@@ -3234,7 +3168,6 @@ on the road, etc. ahead of the vehicle.
 ■The information display at low temperatures
 
 ### P.69, 74
-`lexus_es_en_ac680b0e` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:77
 Changing the meter display
 Content of driving information
 A
@@ -3281,7 +3214,6 @@ Displayed items (listed below) can be
 changed on
 
 ### . (P.80)
-`lexus_es_en_78d3b207` | es | owners_manual | tier:3 | lang:en | layer:engine | p:78
 Current fuel consumption
 Bar type: Displays instantaneous current
 fuel consumption
@@ -3405,7 +3337,6 @@ of the following systems:
 LTA (Lane Tracing Assist)
 
 ### (P.186)
-`lexus_es_en_e17aeda3` | es | owners_manual | tier:3 | lang:en | layer:adas | p:80
 Dynamic radar cruise control with
 full-speed range (P.198)
 RSA (Road Sign Assist) (if
@@ -3457,7 +3388,6 @@ the default setting.
 can be changed
 
 ### P.408
-`lexus_es_en_db3cb7a2` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:81
 ■Suspension of the settings display
 ●Some settings cannot be changed while
 driving. When changing settings, park
@@ -3490,7 +3420,6 @@ and enter the vehicle. This may lead to
 death or a serious health hazard.
 
 ### NOTICE
-`lexus_es_en_597830ce` | es | owners_manual | tier:3 | lang:en | layer:engine | p:81
 ■During setting up the display
 To prevent battery discharge, ensure
 that the engine is running while setting up
@@ -3504,7 +3433,6 @@ switch is turned off, this suggestion message will not be displayed.
 Some functions can be customized.
 
 ### (P.408)
-`lexus_es_en_efe4baeb` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:82
 83
 2-1. Instrument cluster
 2
@@ -3557,7 +3485,6 @@ on
 of the multi-information display.
 
 ### (P.76)
-`lexus_es_en_3659e318` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:84
 Brightness and vertical position of
 the head-up display
 Select to adjust the brightness or vertical
@@ -3581,7 +3508,6 @@ to see pedestrians, objects on the
 road, etc. ahead of the vehicle.
 
 ### NOTICE
-`lexus_es_en_314b1b3c` | es | owners_manual | tier:3 | lang:en | layer:ev | p:84
 ■Head-up display projector
 ●Do not place any drinks near the headup display projector. If the projector
 gets wet, electrical malfunctions may
@@ -3624,7 +3550,6 @@ adjustment
 If the display position is recorded into memory, the head-up display will be automatically adjusted to the desired position.
 
 ### (P.113)
-`lexus_es_en_5632ad81` | es | owners_manual | tier:3 | lang:en | layer:adas | p:85
 ■When the battery is disconnected
 The customize settings of the head-up display will be reset.
 Displays the operational status of the
@@ -3632,7 +3557,6 @@ following systems:
 LTA (Lane Tracing Assist)
 
 ### (P.186)
-`lexus_es_en_1e38499f` | es | owners_manual | tier:3 | lang:en | layer:safety | p:85
 Dynamic radar cruise control with
 full-speed range (P.198)
 Details of content displayed on the headup display may differ from that displayed
@@ -3652,7 +3576,6 @@ gases including harmful carbon monoxide (CO) may collect and enter the vehicle. 
 health hazard.
 
 ### NOTICE
-`lexus_es_en_4f4c718b` | es | owners_manual | tier:3 | lang:en | layer:adas | p:85
 ■When changing the settings of the
 head-up display
 To prevent battery discharge, ensure
@@ -3668,12 +3591,10 @@ message or the operating state of a relevant system.
 
 Intuitive parking assist (if equipped)
 ### (P.216)
-`lexus_es_en_cd4ac831` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:86
 Parking Support Brake function
 (static objects) (if equipped)
 
 ### (P.239)
-`lexus_es_en_0c9ce059` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:86
 Brake Override System (P.134)
 Drive-Start Control (P.139)
 Details of content displayed on the headup display may differ from that displayed
@@ -3687,7 +3608,6 @@ These icons are linked to the multiinformation display
 Displayed when a warning message is displayed on the multi-information display.
 
 ### (P.361)
-`lexus_es_en_6098285f` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:86
 : Information icon
 Displayed when a suggestion pop-up display (P.81) or advice pop-up display is
 displayed on the multi-information display.
@@ -3717,7 +3637,6 @@ Displayed content is the same as that displayed on the multi-information display
 (Eco Driving Indicator). For details, refer to
 
 ### P.79.
-`lexus_es_en_dc36a183` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:86
 Tachometer/Eco Driving Indicator display area
 A
 B
@@ -3917,7 +3836,6 @@ power consumption of electronic keys
 that are not used for long periods of time.
 
 ### (P.109)
-`lexus_es_en_e0bceca3` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:93
 ●As the electronic key always receives
 radio waves, the battery will become
 depleted even if the electronic key is not
@@ -3948,7 +3866,6 @@ phones
 ■Replacing the battery
 
 ### P.333
-`lexus_es_en_92713f11` | es | owners_manual | tier:3 | lang:en | layer:body | p:93
 ■Confirmation of the registered key
 number
 The number of keys already registered to
@@ -3968,7 +3885,6 @@ electronic key (other than those in your
 possession) has been registered.
 
 ### NOTICE
-`lexus_es_en_3ab7e592` | es | owners_manual | tier:3 | lang:en | layer:body | p:93
 ■To prevent key damage
 ●Do not drop the keys, subject them to
 strong shocks or bend them.
@@ -4002,7 +3918,6 @@ other key-related problems
 
 ■When an electronic key is lost
 ### P.375
-`lexus_es_en_a7b5408d` | es | owners_manual | tier:3 | lang:en | layer:body | p:93
 94
 3-1. Key information
 The electronic keys are equipped with
@@ -4013,7 +3928,6 @@ Opens the windows and moon
 roof*1, 2 or panoramic moon roof*1,
 
 ### 2 (P.96)
-`lexus_es_en_a00fc466` | es | owners_manual | tier:3 | lang:en | layer:body | p:94
 Opens the trunk (P.103)
 Sounds the alarm (P.94)
 *1: If equipped
@@ -4031,7 +3945,6 @@ electronic key.
 To take out the mechanical key, push
 
 ### NOTICE
-`lexus_es_en_db9ffed6` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:94
 ■Handling the card key (if equipped)
 ●Do not apply excess force when
 inserting the mechanical key into the
@@ -4094,7 +4007,6 @@ entry function does not operate properly,
 you will need the mechanical key.
 
 ### (P.376)
-`lexus_es_en_13cecc6a` | es | owners_manual | tier:3 | lang:en | layer:body | p:95
 ■When required to leave the vehicle’s
 key with a parking attendant
 Turn the trunk opener main switch off
@@ -4105,7 +4017,6 @@ use and provide the attendant with the electronic key only.
 ■If you lose your mechanical keys
 
 ### P.375
-`lexus_es_en_5aa76922` | es | owners_manual | tier:3 | lang:en | layer:body | p:95
 96
 3-2. Opening, closing and locking the doors and trunk
 3-2.Opening, closing and locking the doors and trunk
@@ -4212,12 +4123,10 @@ the doors, and lock the vehicle once more.
 Locking the doors will set the alarm system.
 
 ### (P.60)
-`lexus_es_en_1ae73e40` | es | owners_manual | tier:3 | lang:en | layer:general | p:97
 ■Conditions affecting the operation of
 the smart access system with push-button start or wireless remote control
 
 ### P.109
-`lexus_es_en_d4e9c676` | es | owners_manual | tier:3 | lang:en | layer:body | p:97
 ■If the smart access system with pushbutton start or the wireless remote control does not operate properly
 Use the mechanical key to lock and unlock
 the doors. (P.376)
@@ -4353,7 +4262,6 @@ canceled:
 For instructions on customizing, refer to
 
 ### P.408.
-`lexus_es_en_201d6284` | es | owners_manual | tier:3 | lang:en | layer:body | p:99
 Rear door child-protector lock
 Automatic door locking and
 unlocking systems
@@ -4547,7 +4455,6 @@ object that is caught. Be careful not to
 catch fingers or anything else.
 
 ### NOTICE
-`lexus_es_en_3d6c3602` | es | owners_manual | tier:3 | lang:en | layer:body | p:102
 ■To prevent trunk easy closer malfunctions (vehicles with power trunk
 lid)
 Do not apply force to the trunk lid while
@@ -4712,7 +4619,6 @@ hand.
 Use the mechanical key to unlock the trunk.
 
 ### (P.376)
-`lexus_es_en_f050c1a0` | es | owners_manual | tier:3 | lang:en | layer:body | p:105
 Replace the key battery with a new one if it
 is depleted. (P.333)
 ■Hands Free Power Trunk Lid operating
@@ -4803,7 +4709,6 @@ operation setting off.
 ■Open door warning buzzer
 
 ### P.99
-`lexus_es_en_9c85bb81` | es | owners_manual | tier:3 | lang:en | layer:body | p:106
 ■Customization
 Some functions can be customized. (Customizable features: P.408)
 The trunk opener switch can be temporarily disabled to protect luggage
@@ -4827,7 +4732,6 @@ equipped).
 parking attendant
 
 ### P.95
-`lexus_es_en_a66a00fe` | es | owners_manual | tier:3 | lang:en | layer:body | p:107
 ■Antenna location
 Antennas outside the cabin
 Antennas inside the cabin
@@ -4846,7 +4750,6 @@ always carry the electronic key.
 Locks and unlocks the doors
 
 ### (P.96)
-`lexus_es_en_ea0e3ae6` | es | owners_manual | tier:3 | lang:en | layer:body | p:107
 Opens the trunk (P.103)
 Starts the engine (P.144)
 A
@@ -4916,7 +4819,6 @@ The engine switch
 was turned to
 
 ### ACCESSORY
-`lexus_es_en_971f0445` | es | owners_manual | tier:3 | lang:en | layer:engine | p:108
 mode while the
 driver’s door was
 open (or the driver’s
@@ -4925,7 +4827,6 @@ while the engine
 switch was in
 
 ### ACCESSORY
-`lexus_es_en_88494679` | es | owners_manual | tier:3 | lang:en | layer:body | p:108
 mode).
 Turn the engine
 switch off and close
@@ -5113,7 +5014,6 @@ of the vehicle.
 power consumption of electronic keys.
 
 ### (P.109)
-`lexus_es_en_5288a53a` | es | owners_manual | tier:3 | lang:en | layer:body | p:110
 111
 3-2. Opening, closing and locking the doors and trunk
 3
@@ -5155,7 +5055,6 @@ warning will sound. (P.60)
 ●If the engine cannot be started, refer to
 
 ### P.378
-`lexus_es_en_08c4961e` | es | owners_manual | tier:3 | lang:en | layer:body | p:111
 ■Customization
 Settings (e. g. smart access system with
 push-button start) can be changed.
@@ -5180,7 +5079,6 @@ away from the smart access system
 with push-button start antennas.
 
 ### (P.107)
-`lexus_es_en_1aeb2069` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:111
 The radio waves may affect the operation of such devices. If necessary, the
 entry function can be disabled. Ask
 your Lexus dealer for details, such as
@@ -5326,7 +5224,6 @@ will be overwritten.
 ■Seat positions that can be memorized
 
 ### (P.112)
-`lexus_es_en_eff6d142` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:114
 The positions adjusted by the following procedure can be recorded:
 ●Seat position adjustment
 ●Seatback angle adjustment
@@ -5535,7 +5432,6 @@ to memory and recalled automatically by
 the driving position memory system.
 
 ### (P.113)
-`lexus_es_en_975c78da` | es | owners_manual | tier:3 | lang:en | layer:interior | p:118
 ■Power easy access system (vehicles
 with power adjustment type steering
 wheel)
@@ -5547,7 +5443,6 @@ The steering wheel movement can be
 changed. (Customizable features:
 
 ### P.408)
-`lexus_es_en_8f2e53ad` | es | owners_manual | tier:3 | lang:en | layer:general | p:118
 Steering wheel
 Adjustment procedure
 WARNING
@@ -5651,7 +5546,6 @@ the rear window defogger to turn on the
 outside rear view mirror defoggers.
 
 ### (P.263)
-`lexus_es_en_118ef3ac` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:121
 ■Auto anti-glare function
 When the anti-glare inside rear view mirror
 is set to automatic mode, the driver’s side
@@ -5820,7 +5714,6 @@ inspected by your Lexus dealer.
 closed using the mechanical key.*
 
 ### (P.377)
-`lexus_es_en_5fa8095c` | es | owners_manual | tier:3 | lang:en | layer:body | p:124
 ●The power windows can be opened using
 the wireless remote control.* (P.96)
 ●The alarm may be triggered if the alarm is
@@ -5957,7 +5850,6 @@ opened.
 closed using the mechanical key.*
 
 ### (P.377)
-`lexus_es_en_fb88667a` | es | owners_manual | tier:3 | lang:en | layer:body | p:126
 ●The moon roof can be opened using the
 wireless remote control.* (P.96)
 ●The alarm may be triggered if the alarm is
@@ -6153,7 +6045,6 @@ set and the panoramic moon roof is
 closed using the door lock linked panoramic moon roof operation function.
 
 ### (P.60)
-`lexus_es_en_062dc252` | es | owners_manual | tier:3 | lang:en | layer:engine | p:129
 *: These settings must be customized at
 your Lexus dealer.
 ■When the panoramic moon roof or electronic roof sunshade does not close normally
@@ -6264,7 +6155,6 @@ direct sunlight for a long time, the underside of the panoramic moon roof could
 become very hot and could cause burns.
 
 ### NOTICE
-`lexus_es_en_0d6233c7` | es | owners_manual | tier:3 | lang:en | layer:general | p:131
 ■To prevent damage to the panoramic
 moon roof
 ●Before opening the panoramic moon
@@ -6321,7 +6211,6 @@ Driving assist systems.............. 246
 ■Starting the engine
 
 ### P.144
-`lexus_es_en_f83eae37` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:134
 ■Driving
 1
 With the brake pedal depressed,
@@ -6330,7 +6219,6 @@ shift the shift lever to D. (P.150)
 mode, release the parking brake.
 
 ### (P.154)
-`lexus_es_en_58e9d80b` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:134
 3 Gradually release the brake pedal
 and gently depress the accelerator
 pedal to accelerate the vehicle.
@@ -6350,7 +6238,6 @@ the brake pedal.
 and shift the shift lever to P
 
 ### (P.150).
-`lexus_es_en_3bc464d8` | es | owners_manual | tier:3 | lang:en | layer:body | p:134
 3 Press the engine switch to stop the
 engine.
 4 Lock the door, making sure that
@@ -6370,7 +6257,6 @@ depress the accelerator pedal.
 The hill-start assist control will activate.
 
 ### (P.246)
-`lexus_es_en_fbb692cb` | es | owners_manual | tier:3 | lang:en | layer:engine | p:134
 ■Driving in the rain
 ●Drive carefully when it is raining, because
 visibility will be reduced, the windows
@@ -6473,7 +6359,6 @@ However, in the event of an emergency, such as if it becomes impossible
 to stop the vehicle in the normal way:
 
 ### P.344
-`lexus_es_en_3a22b5ba` | es | owners_manual | tier:3 | lang:en | layer:body | p:135
 ●Use engine braking (downshift) to
 maintain a safe speed when driving
 down a steep hill.
@@ -6682,7 +6567,6 @@ propel the vehicle forward or backward,
 causing an accident.
 
 ### NOTICE
-`lexus_es_en_0aa2ab2e` | es | owners_manual | tier:3 | lang:en | layer:engine | p:138
 ■When driving the vehicle
 ●Do not depress the accelerator and
 brake pedals at the same time while
@@ -6739,7 +6623,6 @@ the vehicle may become able to escape
 from the mud or fresh snow.
 
 ### NOTICE
-`lexus_es_en_a4719160` | es | owners_manual | tier:3 | lang:en | layer:engine | p:139
 ■When encountering flooded roads
 Do not drive on a road that has flooded
 after heavy rain etc. Doing so may cause
@@ -6804,7 +6687,6 @@ this manual to determine how this
 reduces the available cargo and luggage load capacity of your vehicle.
 
 ### (P.142)
-`lexus_es_en_2b3c7a68` | es | owners_manual | tier:3 | lang:en | layer:general | p:140
 Lexus does not recommend towing a
 trailer with your vehicle. Your vehicle is not
 designed for trailer towing.
@@ -6936,7 +6818,6 @@ dinghy towed (with 4 wheels on the
 ground) behind a motor home.
 
 ### NOTICE
-`lexus_es_en_64ee2e84` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:143
 ■To avoid serious damage to your vehicle
 Do not tow your vehicle with the four
 wheels on the ground.
@@ -6961,7 +6842,6 @@ Press the parking brake switch to
 check that the parking brake is set.
 
 ### (P.154)
-`lexus_es_en_19aebfce` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:144
 Parking brake indicator will come on.
 2 Check that the shift lever is in P.
 3 Firmly depress the brake pedal.
@@ -7022,7 +6902,6 @@ Refer to P.379 to restart the engine.
 
 ■Conditions affecting operation
 ### P.109
-`lexus_es_en_b2c7afe4` | es | owners_manual | tier:3 | lang:en | layer:body | p:145
 ■Steering lock function
 ●After turning the engine switch off and
 opening and closing the doors, the steering wheel will be locked due to the steering lock function. Operating the engine
@@ -7050,7 +6929,6 @@ inspected by your Lexus dealer immediately.
 ■Electronic key battery
 
 ### P.333
-`lexus_es_en_988b647d` | es | owners_manual | tier:3 | lang:en | layer:engine | p:145
 ■Operation of the engine switch
 ●If the switch is not pressed shortly and
 firmly, the engine switch mode may not
@@ -7078,7 +6956,6 @@ until the vehicle reaches a safe and complete stop. Activation of the steering l
 in this circumstance may lead to an accident, resulting in death or serious injury.
 
 ### NOTICE
-`lexus_es_en_0f1ee1ca` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:145
 ■When starting the engine
 ●Do not race a cold engine.
 ●If the engine becomes difficult to start
@@ -7092,7 +6969,6 @@ Stop the vehicle completely.
 and shift the shift lever to P
 
 ### (P.150).
-`lexus_es_en_5ec395ed` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:146
 3 Press the engine switch.
 4 Release the brake pedal and check
 that “ACCESSORY” or “IGNITION ON” is not shown on the
@@ -7128,7 +7004,6 @@ Pull out the mechanical key and close
 the door.
 
 ### NOTICE
-`lexus_es_en_6f171ddf` | es | owners_manual | tier:3 | lang:en | layer:general | p:146
 ■Symptoms indicating a malfunction
 with the engine switch
 If the engine switch seems to be operating somewhat differently than usual, such
@@ -7145,7 +7020,6 @@ more than 2 seconds, or press it briefly
 3 times or more in succession.
 
 ### (P.344)
-`lexus_es_en_7c7fe9b1` | es | owners_manual | tier:3 | lang:en | layer:general | p:146
 However, do not touch the engine
 switch while driving except in an emergency. Turning the engine off while
 driving will not cause loss of steering
@@ -7231,7 +7105,6 @@ If the parking brake is in manual
 mode, set the parking brake.
 
 ### (P.154)
-`lexus_es_en_cd5fe4b8` | es | owners_manual | tier:3 | lang:en | layer:engine | p:148
 2 Shift the shift lever to P.
 3 Check that “Turn Power Off” is displayed on the multi-information display and then press the engine
 switch once.
@@ -7243,17 +7116,14 @@ the shift lever in a position other
 than P
 
 ### NOTICE
-`lexus_es_en_5f4a9902` | es | owners_manual | tier:3 | lang:en | layer:engine | p:148
 ■To prevent battery discharge
 ●Do not leave the engine switch in
 
 ### ACCESSORY or IGNITION ON
-`lexus_es_en_bf8fb54a` | es | owners_manual | tier:3 | lang:en | layer:engine | p:148
 mode for long periods of time without
 the engine running.
 
 ### ●If “ACCESSORY” or “IGNITION
-`lexus_es_en_8b519c0d` | es | owners_manual | tier:3 | lang:en | layer:general | p:148
 ON” is displayed on the meter, the
 engine switch is not off.
 Exit the vehicle after turning the
@@ -7291,14 +7161,12 @@ canceled.
 downshifting to S7, S6, S5 or S4.
 
 ### (P.198)
-`lexus_es_en_1d80c85a` | es | owners_manual | tier:3 | lang:en | layer:general | p:149
 ●When switching the driving mode to
 sport mode while driving in D position.
 
 ■Restraining sudden start (Drive-Start
 Control)
 ### P.139
-`lexus_es_en_37cbf782` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:149
 ■AI-SHIFT
 The AI-SHIFT automatically selects the suitable gear according to driver performance
 and driving conditions.
@@ -7389,7 +7257,6 @@ shift knob.
 The shift lever can be shifted while the button is pressed
 
 ### P.213
-`lexus_es_en_f27ec355` | es | owners_manual | tier:3 | lang:en | layer:engine | p:151
 To drive using temporary shift range
 selection, operate the “-” paddle shift
 switch. The shift range can then be
@@ -7471,7 +7338,6 @@ Meter display
 Function
 
 ### S2 - S8
-`lexus_es_en_411086d3` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:152
 A gear in the range
 between S1 and the
 selected gear is
@@ -7519,7 +7385,6 @@ The parking brake can be set and
 released manually.
 
 ### U.S.A.
-`lexus_es_en_6c1f101b` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:154
 Canada
 1
 Push the switch to set the parking
@@ -7623,7 +7488,6 @@ and releasing) will be turned on automatically.
 ■Parking the vehicle
 
 ### P.134
-`lexus_es_en_04a89fdc` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:155
 ■Parking brake engaged warning buzzer
 A buzzer will sound if the vehicle is driven
 with the parking brake engaged. “EPB
@@ -7633,7 +7497,6 @@ speed of 3 mph [5 km/h]).
 on
 
 ### P.251
-`lexus_es_en_b0e3f1ec` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:155
 156
 4-2. Driving procedures
 Turns the brake hold system on
@@ -7658,7 +7521,6 @@ The parking brake may be released unintentionally and there is the danger of the
 vehicle moving that may lead to an accident resulting in death or serious injury.
 
 ### NOTICE
-`lexus_es_en_58459a22` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:156
 ■When parking the vehicle
 Before you leave the vehicle, shift the
 shift lever to P, set the parking brake and
@@ -7746,7 +7608,6 @@ the instructions.
 flashes
 
 ### P.358
-`lexus_es_en_3faf012f` | es | owners_manual | tier:3 | lang:en | layer:safety | p:157
 WARNING
 ■When the vehicle is on a steep incline
 Take care when using the brake hold system on a steep incline, exercise caution.
@@ -7761,7 +7622,6 @@ exceeded. Do not use the system when
 stopped on a slippery road.
 
 ### NOTICE
-`lexus_es_en_f40138ad` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:157
 ■When parking the vehicle
 The brake hold system is not designed
 for use when parking the vehicle for a
@@ -7780,7 +7640,6 @@ switch turns on
 the lights as follows:
 
 ### U.S.A.
-`lexus_es_en_d575e787` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:158
 Canada
 1
 The side marker, parking
@@ -7912,7 +7771,6 @@ position.
 Your Dealer” is displayed
 
 ### P.363
-`lexus_es_en_9d0300e2` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:159
 ■Customization
 Settings (e.g. light sensor sensitivity) can be
 changed.
@@ -7950,7 +7808,6 @@ more.
 minutes, they automatically turn off.
 
 ### NOTICE
-`lexus_es_en_1346a3ce` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:160
 ■To prevent battery discharge
 Do not leave the lights on longer than
 necessary when the engine is not running.
@@ -8114,7 +7971,6 @@ turn on even the vehicle is stopped.
 Your Dealer” is displayed
 
 ### P.363
-`lexus_es_en_dfa799b9` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:162
 163
 4-3. Operating the lights and wipers
 4
@@ -8196,7 +8052,6 @@ manual operation, or can use the
 washer.
 
 ### NOTICE
-`lexus_es_en_3b7b10b0` | es | owners_manual | tier:3 | lang:en | layer:body | p:164
 ■When the windshield is dry
 Do not use the wipers, as they may damage the windshield.
 Operating the wiper lever
@@ -8229,7 +8084,6 @@ accordance with rain volume and vehicle speed.
 Off
 
 ### 2 AUTO
-`lexus_es_en_4380aabd` | es | owners_manual | tier:3 | lang:en | layer:body | p:165
 Rain-sensing operation
 3
 *1 or
@@ -8361,7 +8215,6 @@ an accident, resulting in death or serious
 injury.
 
 ### NOTICE
-`lexus_es_en_cee8f762` | es | owners_manual | tier:3 | lang:en | layer:body | p:167
 ■When there is no washer fluid spray
 from the nozzle
 Damage to the washer fluid pump may
@@ -8393,7 +8246,6 @@ wipers will stop at the retracted position.
 A
 
 ### NOTICE
-`lexus_es_en_2242013d` | es | owners_manual | tier:3 | lang:en | layer:body | p:168
 ■When lifting the windshield wipers
 ●Do not lift the windshield wipers when
 they are in the retracted position
@@ -8423,7 +8275,6 @@ and turn the engine switch off.
 ■Fuel types
 
 ### P.397
-`lexus_es_en_7eaa29a3` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:169
 ■Fuel tank opening for unleaded gasoline
 To help prevent incorrect fueling, your vehicle has a fuel tank opening that only accommodates the special nozzle on unleaded
 fuel pumps.
@@ -8477,7 +8328,6 @@ fuel filler neck.
 ●Do not top off the fuel tank.
 
 ### NOTICE
-`lexus_es_en_9dc3318d` | es | owners_manual | tier:3 | lang:en | layer:body | p:169
 ■Refueling
 Do not spill fuel during refueling.
 Doing so may damage the vehicle, such
@@ -8495,7 +8345,6 @@ of the fuel filler door.
 ■If the fuel filler door cannot be opened
 
 ### P.376
-`lexus_es_en_bcfe6965` | es | owners_manual | tier:3 | lang:en | layer:general | p:170
 After refueling, turn the fuel tank cap
 until you hear a click. Once the cap is
 released, it will turn slightly in the
@@ -8518,12 +8367,10 @@ Driving
 ■RSA (Road Sign Assist) (if
 equipped)
 ### P.195
-`lexus_es_en_dab728c7` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:171
 ■Dynamic radar cruise control with
 full-speed range
 
 ### P.198
-`lexus_es_en_17fb9b30` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:171
 Two types of sensors, located behind
 the front grille and windshield, detect
 information necessary to operate the
@@ -8694,7 +8541,6 @@ Using the wiper and A/C function, remove
 the dirt and other attached matter.
 
 ### (P.263)
-`lexus_es_en_c9ce3088` | es | owners_manual | tier:3 | lang:en | layer:hvac | p:174
 When the temperature around the front
 camera is outside of the operational range,
 such as when the vehicle is in the sun or in an
@@ -9657,7 +9503,6 @@ sharp curve.
 • No system malfunctions are detected.
 
 ### (P.194)
-`lexus_es_en_6052372b` | es | owners_manual | tier:3 | lang:en | layer:engine | p:192
 *1: The function operates even if the vehicle
 speed is less than approximately 32 mph
 (50 km/h) when the lane centering
@@ -9688,7 +9533,6 @@ This function operates when all of the following conditions are met.
 of the multiinformation display is set to “On”.
 
 ### (P.76)
-`lexus_es_en_1fdcc881` | es | owners_manual | tier:3 | lang:en | layer:adas | p:193
 • Vehicle speed is approximately 32 mph
 (50 km/h) or more.
 • Width of traffic lane is approximately 9.8
@@ -9696,7 +9540,6 @@ ft. (3 m) or more.
 • No system malfunctions are detected.
 
 ### (P.194)
-`lexus_es_en_434e3a7e` | es | owners_manual | tier:3 | lang:en | layer:adas | p:193
 ●Lane centering function
 This function operates when all of the following conditions are met.
 • LTA is turned on.
@@ -9705,7 +9548,6 @@ of the
 multi-information display is set to “On”.
 
 ### (P.76)
-`lexus_es_en_2f1fa136` | es | owners_manual | tier:3 | lang:en | layer:adas | p:193
 • This function recognizes white (yellow)
 lane lines or the position of a preceding
 vehicle (except when the preceding vehicle is small, such as a motorcycle).
@@ -9719,7 +9561,6 @@ sharp curve.
 • No system malfunctions are detected.
 
 ### (P.194)
-`lexus_es_en_bcb69c48` | es | owners_manual | tier:3 | lang:en | layer:adas | p:193
 • Vehicle does not accelerate or decelerate by a fixed amount or more.
 • Steering wheel is not operated with a
 steering force level suitable for changing
@@ -9739,7 +9580,6 @@ conditions are met again, operation of
 the function is automatically restored.
 
 ### (P.192)
-`lexus_es_en_c6aef265` | es | owners_manual | tier:3 | lang:en | layer:steering | p:193
 ●If the operation conditions (P.190) are
 no longer met while the lane centering
 function is operating, the steering wheel
@@ -9883,7 +9723,6 @@ information is selected, a maximum
 of 3 signs can be displayed.
 
 ### (P.76)
-`lexus_es_en_247085ab` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:196
 When a tab other than the driving
 support system information is
 selected, the following types of road
@@ -9938,7 +9777,6 @@ switches and select
 , then press
 
 ### “OK”
-`lexus_es_en_72eca224` | es | owners_manual | tier:3 | lang:en | layer:adas | p:197
 4
 Press
 or
@@ -9946,7 +9784,6 @@ of the meter control
 switches and select “RSA”, then press
 
 ### “OK”
-`lexus_es_en_1baad7b1` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:197
 ■Automatic turn-off of RSA sign display
 In the following situations, a displayed
 speed limit sign and/or do not enter sign
@@ -10038,7 +9875,6 @@ Use the dynamic radar cruise control with full-speed range on freeways and highw
 Constant speed control mode
 
 ### (P.205)
-`lexus_es_en_635a2109` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:198
 System Components
 A
 B
@@ -10422,7 +10258,6 @@ Selecting constant speed control mode
 4-5. Using the driving support systems
 
 ### P.204
-`lexus_es_en_8b2a77da` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:206
 ■Dynamic radar cruise control with fullspeed range can be set when
 ●The shift lever is in D.
 ●The desired set speed can be set when
@@ -10910,7 +10745,6 @@ perform the following operations:
 ●Turn off eco air conditioning mode
 
 ### (P.267)
-`lexus_es_en_368e43b8` | es | owners_manual | tier:3 | lang:en | layer:general | p:214
 ●Adjust the fan speed (P.263, 265)
 ●Turn off Eco drive mode (P.213)
 ■Automatic deactivation of sport mode
@@ -10951,7 +10785,6 @@ pedestrians in the detection area
 behind the vehicle when backing up.
 
 ### (P.229)
-`lexus_es_en_bfc985f3` | es | owners_manual | tier:3 | lang:en | layer:adas | p:215
 ■Adjusting the buzzer volume
 The buzzer volume can be adjusted on
 the multi-information display. The volume of buzzers for the intuitive parking
@@ -11432,7 +11265,6 @@ safely. (P.208)
 properly
 
 ### P.209
-`lexus_es_en_4bc08a5d` | es | owners_manual | tier:3 | lang:en | layer:adas | p:223
 System components
 A
 B
@@ -11444,7 +11276,6 @@ Use the meter control switches to
 enable/disable the RCTA function.
 
 ### (P.77)
-`lexus_es_en_2753663a` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:224
 Vehicles without the Intuitive parking assist
 1
 Press
@@ -11499,7 +11330,6 @@ cold environments.
 ■Rear side radar sensors
 
 ### P.209
-`lexus_es_en_d2688eef` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:224
 ■Operation of the RCTA function
 The RCTA function uses rear side radar sensors to detect vehicles approaching
 from the right or left at the rear of the vehicle and alerts the driver of the presence
@@ -11509,7 +11339,6 @@ Turning the RCTA function
 on/off
 
 ### NOTICE
-`lexus_es_en_01403a8c` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:224
 ■Before using the RCTA function
 Do not place obstacles near the sensors.
 RCTA function
@@ -11584,7 +11413,6 @@ level will change between 1, 2 and 3.
 Vehicles with the Intuitive parking assist
 
 ### P.215
-`lexus_es_en_cbe19a43` | es | owners_manual | tier:3 | lang:en | layer:engine | p:226
 ■Muting a buzzer temporarily
 Vehicles without the Intuitive parking
 assist
@@ -11600,7 +11428,6 @@ manually.
 Vehicles with the Intuitive parking assist
 
 ### P.215
-`lexus_es_en_4fa49bd9` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:226
 ■Conditions under which the system will
 not detect a vehicle
 The RCTA function is not designed to
@@ -11770,7 +11597,6 @@ B
 4-5. Using the driving support systems
 
 ### (P.77)
-`lexus_es_en_44c5a4ae` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:230
 1
 Press
 or
@@ -11981,7 +11807,6 @@ pedestrians in the detection area
 behind the vehicle when backing up.
 
 ### (P.244)
-`lexus_es_en_e742dd0c` | es | owners_manual | tier:3 | lang:en | layer:safety | p:233
 WARNING
 ■Cautions regarding the use of the
 system
@@ -12101,7 +11926,6 @@ The system has determined that strongerthan-normal brake operation is necessary.
 Center Display (Panoramic view monitor):
 
 ### “BRAKE!”
-`lexus_es_en_608fd691` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:234
 Multi-information display: “BRAKE!”
 PKSB OFF indicator: Not illuminated
 Buzzer: Short beep
@@ -12110,7 +11934,6 @@ The system determined that emergency
 braking is necessary.
 
 ### NOTICE
-`lexus_es_en_f64121a5` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:234
 ■If “Parking Support Brake Unavailable” is displayed on the multi-information display and the PKSB OFF
 indicator is flashing
 If this message is displayed immediately
@@ -12134,7 +11957,6 @@ Driving
 Center Display (Panoramic view monitor):
 
 ### “BRAKE!”
-`lexus_es_en_64c6c022` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:235
 Multi-information display: “BRAKE!”
 PKSB OFF indicator: Not illuminated
 Buzzer: Short beep
@@ -12174,7 +11996,6 @@ Engine output reduced
 Example: Multi-information display:
 
 ### “BRAKE!”
-`lexus_es_en_8a47c59e` | es | owners_manual | tier:3 | lang:en | layer:engine | p:236
 Figure 3 When brake control operates
 Engine output
 A
@@ -12297,7 +12118,6 @@ Examples of function operation
 position being selected
 
 ### P.216
-`lexus_es_en_276db830` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:240
 ■The Parking Support Brake function
 (static object) will operate when
 The function will operate when the PKSB
@@ -12308,13 +12128,11 @@ WARNING
 properly
 
 ### P.217
-`lexus_es_en_64519bb0` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:240
 ■If the Parking Support Brake function
 (static objects) operates unnecessarily, such as at a railroad crossing
 
 ■Notes when washing the vehicle
 ### P.218
-`lexus_es_en_f6ae42e1` | es | owners_manual | tier:3 | lang:en | layer:general | p:240
 241
 4-5. Using the driving support systems
 4
@@ -12373,13 +12191,11 @@ When the shift lever is in N.
 operate properly
 
 ### P.219
-`lexus_es_en_5f8f314e` | es | owners_manual | tier:3 | lang:en | layer:general | p:241
 ■Situations in which the system may
 operate even if there is no possibility of a
 collision
 
 ### P.219
-`lexus_es_en_d0c70f99` | es | owners_manual | tier:3 | lang:en | layer:general | p:241
 242
 4-5. Using the driving support systems
 *: If equipped
@@ -12389,7 +12205,6 @@ in the traveling direction of the vehicle.
 depressed, or is depressed late
 
 ### P.209
-`lexus_es_en_4450f6ce` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:242
 ■The Parking Support Brake function
 (rear-crossing vehicles) will operate
 when
@@ -12414,7 +12229,6 @@ WARNING
 properly
 
 ### P.209
-`lexus_es_en_866b8d43` | es | owners_manual | tier:3 | lang:en | layer:general | p:242
 243
 4-5. Using the driving support systems
 4
@@ -12461,7 +12275,6 @@ start operating.
 operate properly
 
 ### P.219
-`lexus_es_en_1d8de149` | es | owners_manual | tier:3 | lang:en | layer:general | p:243
 244
 4-5. Using the driving support systems
 *: If equipped
@@ -12530,7 +12343,6 @@ behind your vehicle.
 function (rear pedestrians)
 
 ### P.237
-`lexus_es_en_3127bb8d` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:245
 ■Detection area of the Parking Support
 Brake function (rear pedestrians)
 The detection area of the Parking Support
@@ -12542,12 +12354,10 @@ an alert, the Parking Support Brake function (rear pedestrians) may not start op
 operate properly
 
 ### P.231
-`lexus_es_en_d3749ad9` | es | owners_manual | tier:3 | lang:en | layer:general | p:245
 ■Situations in which the system may
 operate unexpectedly
 
 ### P.231
-`lexus_es_en_8c8ce729` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:245
 WARNING
 ■If the Parking Support Brake function
 (rear pedestrians) operates unnecessarily
@@ -12560,7 +12370,6 @@ the brake pedal.)
 Brake function (rear pedestrians)
 
 ### P.229
-`lexus_es_en_ffe41f6d` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:245
 246
 4-5. Using the driving support systems
 ■ABS (Anti-lock Brake System)
@@ -12580,7 +12389,6 @@ slippery road surfaces.
 Provides cooperative control of the
 
 ### ABS, TRAC, VSC and EPS.
-`lexus_es_en_43d99de5` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:246
 Helps to maintain directional stability
 when swerving on slippery road surfaces by controlling steering performance.
 ■Secondary Collision Brake
@@ -12676,7 +12484,6 @@ come on and a message will be displayed
 on the multi-information display.
 
 ### (P.186)
-`lexus_es_en_0d311b53` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:247
 ■When the message is displayed on the
 multi-information display showing that
 TRAC has been disabled even if the
@@ -12961,7 +12768,6 @@ is maintained.
 system.
 
 ### NOTICE
-`lexus_es_en_607541dd` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:251
 ■Repairing or replacing snow tires
 Request repairs or replacement of snow
 tires from Lexus dealers or legitimate tire
@@ -12992,7 +12798,6 @@ in the vehicle.
 ■To protect the windshield wipers
 
 ### P.167
-`lexus_es_en_61796e3f` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:252
 Accelerate the vehicle slowly, keep a
 safe distance between you and the
 vehicle ahead, and drive at a reduced
@@ -13081,7 +12886,6 @@ E
 F
 
 ### NOTICE
-`lexus_es_en_e31eaafd` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:253
 ■Fitting tire chains
 The tire pressure warning valves and
 transmitters may not function correctly
@@ -13157,7 +12961,6 @@ For details on the Remote touch,
 refer to the “NAVIGATION AND
 
 ### MULTIMEDIA SYSTEM
-`lexus_es_en_53694ab7` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:256
 OWNER’S MANUAL”.
 Remote Touch operation
 A
@@ -13183,7 +12986,6 @@ the touchpad. Change the scale of the
 map.
 
 ### NOTICE
-`lexus_es_en_67795224` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:257
 ■To prevent damage to the Remote
 Touch
 Observe the following precautions. Failure to do so may cause damage to the
@@ -13207,7 +13009,6 @@ the touch screen.
 For details, refer to the “NAVIGA-
 
 ### TION AND MULTIMEDIA SYSTEM
-`lexus_es_en_9d8c18b1` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:258
 OWNER’S MANUAL”.
 The displays shown in the illustrations
 are used for example only and may differ from the actual vehicle.
@@ -13217,7 +13018,6 @@ are used for example only and may differ from the actual vehicle.
 *2: Refer to the “NAVIGATION AND
 
 ### MULTIMEDIA SYSTEM OWNER’S
-`lexus_es_en_087b3761` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:258
 MANUAL”.
 *3: This function is not made available in
 some countries or areas.
@@ -13248,7 +13048,6 @@ Select to display the general settings screen.*2
 Select to display the air conditioning control screen.
 
 ### (P.265)
-`lexus_es_en_09b4938a` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:258
 Select to adjust the contrast and
 brightness of the screens, turn
 the screen off, etc.*1, 2
@@ -13265,7 +13064,6 @@ operation of the main display, refer to
 the respective section and “NAVIGA-
 
 ### TION AND MULTIMEDIA SYSTEM
-`lexus_es_en_07ef2e11` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:259
 OWNER’S MANUAL”.
 ■Side display (12.3-inch display
 model)
@@ -13282,7 +13080,6 @@ Show/hide the side display
 *: Refer to the “NAVIGATION AND
 
 ### MULTIMEDIA SYSTEM OWNER’S
-`lexus_es_en_132f4a10` | es | owners_manual | tier:3 | lang:en | layer:interior | p:259
 MANUAL”.
 ■Screen display during low temperatures
 When the ambient temperature is
@@ -13311,7 +13108,6 @@ screen. (P.265)
 ■Automatic air conditioning system
 
 ### (P.262)
-`lexus_es_en_6a2868b2` | es | owners_manual | tier:3 | lang:en | layer:hvac | p:260
 The temperature can be adjusted individually for the driver seat and passenger seat.
 ■Seat heaters and ventilators (if
 equipped) (P.269)
@@ -13511,7 +13307,6 @@ perform the following operations:
 ●Turn off eco air conditioning mode
 
 ### (P.266)
-`lexus_es_en_97be711e` | es | owners_manual | tier:3 | lang:en | layer:hvac | p:264
 ●Adjust the fan speed
 ●Turn off Eco drive mode (P.213)
 ■When the outside temperature falls to
@@ -13540,7 +13335,6 @@ using voice commands. For details, refer to
 SYSTEM OWNER’S MANUAL”.
 ■Air conditioning filter
 ### P.331
-`lexus_es_en_7b8486ea` | es | owners_manual | tier:3 | lang:en | layer:hvac | p:264
 ■Air conditioning system refrigerant
 ●A label regarding the refrigerant of the
 air conditioning system is attached to the
@@ -13590,7 +13384,6 @@ Do not touch the outside rear view mirror surfaces, as they can become very
 hot and burn you.
 
 ### NOTICE
-`lexus_es_en_aa900469` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:265
 ■To prevent battery discharge
 Do not leave the air conditioning system
 on longer than necessary when the
@@ -13624,7 +13417,6 @@ functions can be switched on and off.
 
 “AUTO”: Set automatic mode on/off
 ### (P.267)
-`lexus_es_en_673b4757` | es | owners_manual | tier:3 | lang:en | layer:hvac | p:266
 “Off”: Turn the fan off
 “A/C”: Set cooling and dehumidification
 function
@@ -13641,13 +13433,11 @@ When the function is on, the indicator illuminates on the screen.
 Set Lexus Climate Concierge
 
 ### (P.260)
-`lexus_es_en_318804ad` | es | owners_manual | tier:3 | lang:en | layer:interior | p:266
 Adjusting the temperature for
 driver and front passenger’s seats
 separately (“DUAL” mode)
 
 ### (P.268)
-`lexus_es_en_f6735294` | es | owners_manual | tier:3 | lang:en | layer:interior | p:266
 Set eco air conditioning mode
 Air conditioning and heater output is limited to prioritize fuel economy.
 Cooling and dehumidification function
@@ -13677,7 +13467,6 @@ wheel/seat heaters/seat ventilators
 control screen (if equipped)
 
 ### (P.272)
-`lexus_es_en_b62fcba1` | es | owners_manual | tier:3 | lang:en | layer:hvac | p:267
 Adjust the left-hand side temperature setting
 Adjust the fan speed setting
 Adjust the right-hand side temperature setting
@@ -13688,7 +13477,6 @@ driver and front passenger’s seats
 separately (“DUAL” mode)
 
 ### (P.268)
-`lexus_es_en_10b70af1` | es | owners_manual | tier:3 | lang:en | layer:body | p:267
 Select the air flow mode
 ■Windshield wiper de-icer (if equipped)
 This feature is used to prevent ice from
@@ -13866,7 +13654,6 @@ and/or level indicator
 illuminates during operation.
 
 ### NOTICE
-`lexus_es_en_2201fbbb` | es | owners_manual | tier:3 | lang:en | layer:interior | p:270
 ■To prevent damage to the seat heaters and seat ventilators
 Do not put heavy objects that have an
 uneven surface on the seat and do not
@@ -13979,7 +13766,6 @@ Steering wheel heating preference in automatic mode and the automatic mode setti
 be changed. (Customizable features:
 
 ### P.408)
-`lexus_es_en_017689e8` | es | owners_manual | tier:3 | lang:en | layer:body | p:272
 A
 B
 C
@@ -14066,7 +13852,6 @@ conditions of the collision.)
 Some functions can be customized. (Customizable features: P.408)
 
 ### NOTICE
-`lexus_es_en_e02aa894` | es | owners_manual | tier:3 | lang:en | layer:interior | p:275
 ■To prevent battery discharge
 Do not leave the lights on longer than
 necessary when the engine is not running.
@@ -14123,7 +13908,6 @@ lights are on.
 ■Trunk opener main switch
 
 ### P.106
-`lexus_es_en_ba351b6c` | es | owners_manual | tier:3 | lang:en | layer:interior | p:277
 Press a button to open the console
 box.
 The console box can be opened from
@@ -14145,7 +13929,6 @@ Keep the console box closed.
 Injuries may result in the event of an accident or sudden braking.
 
 ### NOTICE
-`lexus_es_en_7ba6c3b0` | es | owners_manual | tier:3 | lang:en | layer:interior | p:277
 ■To prevent damage to the console
 box
 When the console box is open, do not
@@ -14182,7 +13965,6 @@ holder in the event of an accident or sudden braking, causing injury. If possibl
 cover hot drinks to prevent burns.
 
 ### NOTICE
-`lexus_es_en_5251f8f2` | es | owners_manual | tier:3 | lang:en | layer:interior | p:278
 ■To prevent damage to the cup holder
 ●Depending on the size of the cup, beverage can or bottle, do not use the cup
 holder in the shallow condition.
@@ -14229,13 +14011,11 @@ adjusted by utilizing GPS time information.
 For details, refer to the “NAVIGATION
 
 ### AND MULTIMEDIA SYSTEM
-`lexus_es_en_a5b48b6e` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:280
 OWNER’S MANUAL”.
 Please use as a power supply for electronic goods that use less than 12
 VDC/10 A (power consumption of
 
 ### 120 W).
-`lexus_es_en_76099dd9` | es | owners_manual | tier:3 | lang:en | layer:body | p:280
 Front
 Open the lid.
 Rear
@@ -14245,7 +14025,6 @@ Sun visors
 Vanity mirrors
 
 ### NOTICE
-`lexus_es_en_d04d628e` | es | owners_manual | tier:3 | lang:en | layer:ev | p:280
 ■To prevent battery discharge
 Do not leave the lights on longer than
 necessary when the engine is off.
@@ -14286,7 +14065,6 @@ ports
 Open the lid.
 
 ### NOTICE
-`lexus_es_en_5d6d28a7` | es | owners_manual | tier:3 | lang:en | layer:ev | p:281
 ■When the power outlet is not in use
 To avoid damaging the power outlet,
 close the power outlet lid when the
@@ -14336,7 +14114,6 @@ The “Qi” logo is a trademark of the
 Wireless Power Consortium.
 
 ### NOTICE
-`lexus_es_en_dcbf4309` | es | owners_manual | tier:3 | lang:en | layer:ev | p:282
 ■To prevent damage to the USB TypeC charging ports
 ●Do not insert foreign objects into the
 ports.
@@ -14560,7 +14337,6 @@ than designated
 ●Do not hit or apply a strong force
 
 ### NOTICE
-`lexus_es_en_7ad3bfcb` | es | owners_manual | tier:3 | lang:en | layer:ev | p:285
 ■Conditions in which the function may
 not operate correctly
 In the following conditions, it may not
@@ -14603,7 +14379,6 @@ shown below.
 Press the switch. (Raise/lower)
 
 ### NOTICE
-`lexus_es_en_0d265671` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:286
 ●When other wireless keys (that emit
 radio waves) are being used nearby
 In addition, excluding the above-mentioned, when the charger does not perform normally or the operation indicator
@@ -14627,7 +14402,6 @@ the wireless charger for a long time.
 Armrest
 
 ### NOTICE
-`lexus_es_en_a6573f82` | es | owners_manual | tier:3 | lang:en | layer:interior | p:286
 ■To prevent damage to the armrest
 Do not apply too much load on the armrest.
 Assist grips
@@ -14638,7 +14412,6 @@ or out of the vehicle or rising from your
 seat.
 
 ### NOTICE
-`lexus_es_en_1e04ede0` | es | owners_manual | tier:3 | lang:en | layer:engine | p:286
 ■To prevent damage to the assist grip
 Do not hang any heavy object or put a
 heavy load on the assist grip.
@@ -14690,7 +14463,6 @@ opening. They may get caught, causing
 injury.
 
 ### NOTICE
-`lexus_es_en_b4f70d08` | es | owners_manual | tier:3 | lang:en | layer:body | p:287
 ■To prevent battery discharge
 Do not operate the rear sunshade when
 the engine is not running.
@@ -14716,7 +14488,6 @@ The coat hooks are provided with the
 rear assist grips.
 
 ### NOTICE
-`lexus_es_en_0479dd85` | es | owners_manual | tier:3 | lang:en | layer:body | p:288
 ●To ensure normal operation of the rear
 sunshade and rear door sunshades,
 observe the following precautions:
@@ -15052,14 +14823,12 @@ Direction
 North
 
 ### “NW”
-`lexus_es_en_a185ec2a` | es | owners_manual | tier:3 | lang:en | layer:general | p:294
 Northwest
 WARNING
 ■While driving the vehicle
 Do not adjust the display. Adjust the display only when the vehicle is stopped.
 
 ### NOTICE
-`lexus_es_en_506cd63d` | es | owners_manual | tier:3 | lang:en | layer:body | p:294
 ■To avoid the compass malfunctions
 Do not place magnets or any metal
 objects near the inside rear view mirror.
@@ -15268,7 +15037,6 @@ and cause damage to the wiper blades.
 Off
 
 ### AUTO
-`lexus_es_en_8b8c5661` | es | owners_manual | tier:3 | lang:en | layer:body | p:299
 ●When the upper part of the windshield
 where the raindrop sensor is located is
 touched by hand
@@ -15303,7 +15071,6 @@ or scratched, the system may malfunction. If this occurs, consult your Lexus
 dealer.
 
 ### NOTICE
-`lexus_es_en_3ce48d3a` | es | owners_manual | tier:3 | lang:en | layer:body | p:300
 ■To prevent paint deterioration and
 corrosion on the body and components (aluminum wheels etc.)
 ●Wash the vehicle immediately in the
@@ -15416,7 +15183,6 @@ Doing so may cause electrical components etc. to malfunction or catch fire.
 or wiring in the vehicle interior wet.
 
 ### (P.28)
-`lexus_es_en_d05da4fe` | es | owners_manual | tier:3 | lang:en | layer:body | p:301
 An electrical malfunction may cause
 the airbags to deploy or not function
 properly, resulting in death or serious
@@ -15430,7 +15196,6 @@ and leading to an accident, resulting in
 death or serious injury.
 
 ### NOTICE
-`lexus_es_en_7fab1be5` | es | owners_manual | tier:3 | lang:en | layer:body | p:301
 ■Cleaning detergents
 ●Do not use the following types of
 detergent, as they may discolor the
@@ -15488,7 +15253,6 @@ remaining traces of detergent and
 water.
 
 ### NOTICE
-`lexus_es_en_81f7c005` | es | owners_manual | tier:3 | lang:en | layer:general | p:302
 ●Do not expose the vehicle to direct
 sunlight for extended periods of time.
 Park the vehicle in the shade, especially during summer.
@@ -15507,7 +15271,6 @@ Do not allow glass cleaner to contact the
 lens. Also, do not touch the lens.
 
 ### (P.171)
-`lexus_es_en_e5616d95` | es | owners_manual | tier:3 | lang:en | layer:body | p:302
 ■Cleaning the inside of the rear window
 ●Do not use glass cleaner to clean the
 rear window, as this may cause damage to the rear window defogger
@@ -15635,19 +15398,16 @@ Is the brake fluid at the
 correct level?
 
 ### (P.317)
-`lexus_es_en_78bf7127` | es | owners_manual | tier:3 | lang:en | layer:engine | p:304
 Engine coolant
 Is the engine coolant at
 the correct level?
 
 ### (P.316)
-`lexus_es_en_59cf8800` | es | owners_manual | tier:3 | lang:en | layer:engine | p:304
 Engine oil
 Is the engine oil at the
 correct level?
 
 ### (P.313)
-`lexus_es_en_56c26d9b` | es | owners_manual | tier:3 | lang:en | layer:engine | p:304
 Exhaust system
 There should not be
 any fumes or strange
@@ -15664,7 +15424,6 @@ Washer fluid
 Is there sufficient
 washer fluid?
 ### (P.319)
-`lexus_es_en_af80e5b2` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:305
 Vehicle interior
 Items
 Check points
@@ -15857,7 +15616,6 @@ level
 or SAE J1703 brake
 fluid
 ### FMVSS No.116 DOT 4
-`lexus_es_en_569b0a48` | es | owners_manual | tier:3 | lang:en | layer:engine | p:308
 or SAE J1704 brake
 fluid
 • Rag or paper towel
@@ -15867,7 +15625,6 @@ Engine coolant
 level
 
 ### (P.316)
-`lexus_es_en_cf795e80` | es | owners_manual | tier:3 | lang:en | layer:engine | p:308
 • “Toyota Super Long
 Life Coolant” or a similar high quality ethylene glycol-based
 non-silicate, non-amine,
@@ -15887,7 +15644,6 @@ adding coolant)
 Engine oil level
 
 ### (P.313)
-`lexus_es_en_917c0dd4` | es | owners_manual | tier:3 | lang:en | layer:engine | p:308
 • “Toyota Genuine
 Motor Oil” or equivalent
 • Rag or paper towel
@@ -15896,13 +15652,11 @@ adding engine oil)
 Fuses
 
 ### (P.335)
-`lexus_es_en_6c9013b1` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:308
 • Fuse with same amperage rating as original
 Headlight aim • Phillips-head screwdriver
 Light bulbs
 
 ### (P.338)
-`lexus_es_en_543a7dfe` | es | owners_manual | tier:3 | lang:en | layer:engine | p:308
 • Bulb with same number
 and wattage rating as
 original
@@ -15911,7 +15665,6 @@ Radiator and
 condenser
 
 ### (P.316)
-`lexus_es_en_fa3d7c21` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:308
 
 Items
 Parts and tools
@@ -15923,13 +15676,11 @@ Tire inflation
 pressure
 
 ### (P.328)
-`lexus_es_en_8689e4be` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:309
 • Tire pressure gauge
 • Compressed air source
 Washer fluid
 
 ### (P.319)
-`lexus_es_en_7d1fc04b` | es | owners_manual | tier:3 | lang:en | layer:engine | p:309
 • Water or washer fluid
 containing antifreeze
 (for winter use)
@@ -15967,7 +15718,6 @@ Wear safety glasses to prevent flying or
 falling material, fluid spray, etc. from getting in your eyes.
 
 ### NOTICE
-`lexus_es_en_d0a0d193` | es | owners_manual | tier:3 | lang:en | layer:body | p:309
 ■If you remove the air cleaner filter
 Driving with the air cleaner filter
 removed may cause excessive engine
@@ -16091,7 +15841,6 @@ prepare the items needed before adding oil.
 Engine oil selection
 
 ### P.390
-`lexus_es_en_e6a8b593` | es | owners_manual | tier:3 | lang:en | layer:engine | p:314
 Oil quantity (Low  Full)
 2GR-FKS engine:
 1.9 qt. (1.8 L, 1.6 Imp.qt.)
@@ -16180,7 +15929,6 @@ concerning recycling or disposal.
 reach of children.
 
 ### NOTICE
-`lexus_es_en_5ac54449` | es | owners_manual | tier:3 | lang:en | layer:engine | p:315
 ■To prevent serious engine damage
 Check the oil level on a regular basis.
 ■When replacing the engine oil
@@ -16208,18 +15956,15 @@ and non-borate coolant with long-life
 hybrid organic acid technology.
 
 ### U.S.A.:
-`lexus_es_en_ec2f11c1` | es | owners_manual | tier:3 | lang:en | layer:engine | p:316
 “Toyota Super Long Life Coolant” is a mixture of 50% coolant and 50% deionized
 water. (Minimum temperature: -31°F [-
 
 ### 35°C])
-`lexus_es_en_d3e49e93` | es | owners_manual | tier:3 | lang:en | layer:engine | p:316
 Canada:
 “Toyota Super Long Life Coolant” is a mixture of 55% coolant and 45% deionized
 water. (Minimum temperature: -44°F [-
 
 ### 42°C])
-`lexus_es_en_a9578df8` | es | owners_manual | tier:3 | lang:en | layer:engine | p:316
 For more details about engine coolant, contact your Lexus dealer.
 ■If the coolant level drops within a short
 time of replenishing
@@ -16236,7 +15981,6 @@ dirty or you are not sure of their condition, have your vehicle inspected by
 your Lexus dealer.
 
 ### NOTICE
-`lexus_es_en_29b00fca` | es | owners_manual | tier:3 | lang:en | layer:engine | p:316
 ●Be sure the engine oil filler cap is properly tightened.
 Checking the engine coolant
 A
@@ -16250,7 +15994,6 @@ is removed, causing serious injuries, such
 as burns.
 
 ### NOTICE
-`lexus_es_en_5af47a50` | es | owners_manual | tier:3 | lang:en | layer:engine | p:316
 ■When adding coolant
 Coolant is neither plain water nor
 straight antifreeze. The correct mixture
@@ -16275,7 +16018,6 @@ prepare the necessary items.
 Fluid type
 
 ### FMVSS No.116 DOT 4 or SAE J1704
-`lexus_es_en_91b3d2cd` | es | owners_manual | tier:3 | lang:en | layer:engine | p:317
 brake fluid
 Item
 Clean funnel
@@ -16309,7 +16051,6 @@ If you still experience discomfort, see a
 doctor.
 
 ### NOTICE
-`lexus_es_en_01116c8f` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:317
 ■If the fluid level is low or high
 It is normal for the brake fluid level to go
 down slightly as the brake pads wear out
@@ -16420,7 +16161,6 @@ the battery. There is a possible danger
 that the battery may explode.
 
 ### NOTICE
-`lexus_es_en_61fd5eef` | es | owners_manual | tier:3 | lang:en | layer:ev | p:319
 ■When recharging the battery
 Never recharge the battery while the
 engine is running. Also, be sure all accessories are turned off.
@@ -16433,7 +16173,6 @@ alcohol and may catch fire if spilled on
 the engine etc.
 
 ### NOTICE
-`lexus_es_en_d757d52d` | es | owners_manual | tier:3 | lang:en | layer:body | p:319
 ■Do not use any fluid other than
 washer fluid
 Do not use soapy water or engine antifreeze instead of washer fluid.
@@ -16567,7 +16306,6 @@ Do not use tires if you do not know
 how they were used previously.
 
 ### NOTICE
-`lexus_es_en_f860aa5d` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:321
 ■Driving on rough roads
 Take particular care when driving on
 roads with loose surfaces or potholes.
@@ -16628,7 +16366,6 @@ the tire inflation pressure after inflation
 pressure has been adjusted.
 
 ### NOTICE
-`lexus_es_en_08b4761b` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:322
 ●Be sure to use proper tire inflation
 pressure. If tires are under-inflated,
 they may be damaged more severely.
@@ -16713,7 +16450,6 @@ Installing tire pressure warning
 valves and transmitters
 
 ### NOTICE
-`lexus_es_en_0ba17b5a` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:323
 ■Repairing or replacing tires, wheels,
 tire pressure warning valves, transmitters and tire valve caps
 ●When removing or fitting the wheels,
@@ -16736,7 +16472,6 @@ size. (When there are multiple specified pressures)
 After registering the ID codes.
 
 ### (P.326)
-`lexus_es_en_642a6337` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:324
 When the tire pressure warning system is initialized, the current tire inflation pressure is set as the benchmark
 pressure.
 ■How to initialize the tire pressure
@@ -16775,7 +16510,6 @@ A message is displayed on the multi-information display. Also, “--” is displ
 inflation pressure of each tire on the multiinformation display while the tire pressure
 
 ### NOTICE
-`lexus_es_en_f91098f4` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:324
 ●Make sure to install the tire valve caps.
 If the tire valve caps are not installed,
 water could enter the tire pressure
@@ -16795,7 +16529,6 @@ the tire pressure warning valve and
 transmitter when replacing the tire.
 
 ### (P.323)
-`lexus_es_en_ec40c0ad` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:324
 Initializing the tire pressure
 warning system
 325
@@ -17011,7 +16744,6 @@ pressure and tire size are displayed on
 the tire and loading information label.
 
 ### (P.395)
-`lexus_es_en_6aa30eb9` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:328
 Tire valve
 Tire pressure gauge
 1
@@ -17092,7 +16824,6 @@ expansion joints, sharp edges in the
 road, etc.)
 
 ### NOTICE
-`lexus_es_en_4a467806` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:329
 ■When inspecting and adjusting tire
 inflation pressure
 Be sure to put the tire valve caps back
@@ -17151,7 +16882,6 @@ Doing so could cause the tire to leak air
 during driving, possibly causing an accident.
 
 ### NOTICE
-`lexus_es_en_12fe4be4` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:330
 ■Replacing tire pressure warning
 valves and transmitters
 ●Because tire repair or replacement
@@ -17216,7 +16946,6 @@ continuously, replace the air conditioning
 filter.
 
 ### NOTICE
-`lexus_es_en_aeb4f950` | es | owners_manual | tier:3 | lang:en | layer:maintenance | p:332
 ■When using the air conditioning system
 ●Make sure that a filter is always
 installed.
@@ -17304,7 +17033,6 @@ extremely high temperatures.
 ●Do not burn, break or cut a battery.
 
 ### NOTICE
-`lexus_es_en_e3d814e8` | es | owners_manual | tier:3 | lang:en | layer:engine | p:334
 ■When replacing the battery
 Use a screwdriver of appropriate size.
 Applying excessive force may deform or
@@ -17398,7 +17126,6 @@ as a temporary fix.
 ●Do not modify the fuses or fuse boxes.
 
 ### NOTICE
-`lexus_es_en_0a9e6d98` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:336
 ■Before replacing fuses
 Have the cause of electrical overload
 determined and repaired by your Lexus
@@ -17813,7 +17540,6 @@ parts may be damaged, the vehicle may
 fly off the truck.
 
 ### NOTICE
-`lexus_es_en_cd3aec83` | es | owners_manual | tier:3 | lang:en | layer:engine | p:348
 ■To prevent damage to the vehicle
 when towing using a wheel-lift type
 truck
@@ -17831,7 +17557,6 @@ Do not tow with a sling-type truck to prevent body damage.
 Using a flatbed truck
 
 ### NOTICE
-`lexus_es_en_146fc650` | es | owners_manual | tier:3 | lang:en | layer:engine | p:348
 ■To prevent damage to the vehicle
 when towing with a sling-type truck
 Do not tow with a sling-type truck, either
@@ -17857,7 +17582,6 @@ the engine
 when braking
 
 ### NOTICE
-`lexus_es_en_5a4f39c1` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:349
 ■Recreational towing (behind motor
 home, etc.) (AWD models)
 Never dinghy tow your vehicle to prevent causing serious damage to the
@@ -17893,7 +17617,6 @@ supply of fuel to the engine.
 Restarting the engine
 
 ### NOTICE
-`lexus_es_en_c321bb3d` | es | owners_manual | tier:3 | lang:en | layer:engine | p:350
 ■Before starting the engine
 Inspect the ground under the vehicle.
 If you find that fuel has leaked onto the
@@ -17916,7 +17639,6 @@ Warning light
 Details/Actions
 
 ### (U.S.A.)
-`lexus_es_en_44486922` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:351
 or
 (red)
 (Canada)
@@ -17959,7 +17681,6 @@ Warning light
 Details/Actions
 
 ### (U.S.A.)
-`lexus_es_en_ad846860` | es | owners_manual | tier:3 | lang:en | layer:safety | p:352
 or
 (Canada)
 Indicates a malfunction in:
@@ -17986,7 +17707,6 @@ Warning light
 Details/Actions
 
 ### (U.S.A.)
-`lexus_es_en_6ea8a2ac` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:353
 or
 (Canada)
 Indicates a malfunction in:
@@ -18078,7 +17798,6 @@ Indicates a malfunction in the LTA (Lane Tracing Assist)
 Follow the instructions displayed on the multi-information display.
 
 ### (P.194)
-`lexus_es_en_f69c3d9b` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:355
 Warning light
 Details/Actions
 (flashes)
@@ -18092,7 +17811,6 @@ sensor being dirty or covered with ice, etc.
 Follow the instructions displayed on the multi-information display.
 
 ### (P.218)
-`lexus_es_en_a6d373e5` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:355
 356
 7-2. Steps to take in an emergency
 ■RCTA OFF indicator (warning buzzer)
@@ -18110,7 +17828,6 @@ dirt, etc. (P.209)
 Follow the instructions displayed on the multi-information display.
 
 ### (P.224)
-`lexus_es_en_a870f422` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:356
 Warning light
 Details/Actions
 (flashes)
@@ -18123,7 +17840,6 @@ Indicates that the function temporarily cannot be used due to the camera being d
 Follow the instructions displayed on the multi-information display.
 
 ### (P.230, 361)
-`lexus_es_en_794c6bd9` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:356
 Warning light
 Details/Actions
 (flashes)
@@ -18137,7 +17853,6 @@ sensor being dirty or covered with ice, etc.
 Follow the instructions displayed on the multi-information display.
 
 ### (P.237, 361)
-`lexus_es_en_1ff1343f` | es | owners_manual | tier:3 | lang:en | layer:adas | p:356
 357
 7-2. Steps to take in an emergency
 7
@@ -18157,12 +17872,10 @@ corrective action may be necessary.
 Follow the instructions displayed on the multi-information display.
 
 ### (P.174, 361)
-`lexus_es_en_74880e1a` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:357
 If the PCS (Pre-Collision System) or VSC (Vehicle Stability Control)
 system is disabled, the PCS warning light will illuminate.
 
 ### P.186
-`lexus_es_en_7be1e3c6` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:357
 Warning light
 Details/Actions
 Indicates a malfunction in:
@@ -18175,7 +17888,6 @@ Details/Actions
 (flashes)
 
 ### (U.S.A.)
-`lexus_es_en_588743a4` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:357
 or
 (flashes)
 (Canada)
@@ -18210,7 +17922,6 @@ switch, seat belt pretensioners, airbags,
 interconnecting wiring and power sources.
 
 ### (P.28)
-`lexus_es_en_ce7ebf20` | es | owners_manual | tier:3 | lang:en | layer:steering | p:358
 ■Electric power steering system warning
 light (warning buzzer)
 When the battery charge becomes insufficient or the voltage temporarily drops, the
@@ -18256,7 +17967,6 @@ A buzzer sounds and the warning light comes on and flashes to indicate
 that the master warning system has detected a malfunction.
 
 ### P.361
-`lexus_es_en_9d4f531e` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:358
 359
 7-2. Steps to take in an emergency
 7
@@ -18275,7 +17985,6 @@ few minutes.
 ■Conditions that the tire pressure warning system may not function properly
 
 ### P.323
-`lexus_es_en_613c74e9` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:359
 WARNING
 ■If both the ABS and the brake system
 warning lights remain on
@@ -18378,7 +18087,6 @@ to ensure that the replacement or alternate tires and wheels allow the TPMS
 (tire pressure warning system) to continue to function properly.
 
 ### NOTICE
-`lexus_es_en_a9293419` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:360
 ■To ensure the tire pressure warning
 system operates properly
 Do not install tires with different specifications or makers, as the tire pressure
@@ -18612,7 +18320,6 @@ hard, flat surface.
 Turn on the emergency flashers.
 
 ### (P.344)
-`lexus_es_en_e6e07acd` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:365
 NOTICE
 ■If “High Power Consumption Power
 to Climate Temporarily Limited” is
@@ -18743,7 +18450,6 @@ vocally before lowering.
 Wheel lock nut (if equipped)
 
 ### NOTICE
-`lexus_es_en_484b3bff` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:368
 Do not use an impact wrench. Using an
 impact wrench may cause permanent
 damage to wheel lock nut and wheel lock
@@ -18766,7 +18472,6 @@ Remove the auxiliary box.
 secures the spare tire.
 
 ### NOTICE
-`lexus_es_en_fc4e4d9b` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:369
 ■To prevent damage to luggage mat
 When closing the trunk lid, do not leave
 the luggage mat lever hooked on the
@@ -18892,7 +18597,6 @@ and only in an emergency.
 pressure of the compact spare tire.
 
 ### (P.395)
-`lexus_es_en_4ab9d206` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:372
 ■After completing the tire change
 The tire pressure warning system must be
 reset. (P.324)
@@ -18944,7 +18648,6 @@ not operate correctly:
 • ABS & Brake assist
 
 ### • VSC
-`lexus_es_en_4fd43050` | es | owners_manual | tier:3 | lang:en | layer:safety | p:372
 373
 7-2. Steps to take in an emergency
 7
@@ -18952,12 +18655,10 @@ When trouble arises
 WARNING
 
 ### • TRAC
-`lexus_es_en_281c47b3` | es | owners_manual | tier:3 | lang:en | layer:adas | p:373
 • Dynamic radar cruise control with fullspeed range
 • PCS (Pre-Collision System)
 
 ### • EPS
-`lexus_es_en_28dfd1d4` | es | owners_manual | tier:3 | lang:en | layer:adas | p:373
 • Adaptive Variable Suspension system
 (if equipped)
 • LTA (Lane Tracing Assist)
@@ -18988,7 +18689,6 @@ of personal injury during a collision or
 sudden braking.
 
 ### NOTICE
-`lexus_es_en_01047514` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:373
 ■Be careful when driving over bumps
 with the compact spare tire installed
 on the vehicle
@@ -19021,12 +18721,10 @@ Refuel the vehicle. (P.169)
 Try to restart the engine again following correct starting procedures.
 
 ### (P.144)
-`lexus_es_en_096e1eef` | es | owners_manual | tier:3 | lang:en | layer:engine | p:374
 There may be a malfunction in the
 engine immobilizer system.
 
 ### (P.59)
-`lexus_es_en_bade8133` | es | owners_manual | tier:3 | lang:en | layer:steering | p:374
 There may be a malfunction in the
 steering lock system.
 One of the following may be the cause
@@ -19034,7 +18732,6 @@ of the problem:
 The battery may be discharged.
 
 ### (P.379)
-`lexus_es_en_e36fae79` | es | owners_manual | tier:3 | lang:en | layer:ev | p:374
 The battery terminal connections
 may be loose or corroded.
 The engine starting system may be
@@ -19050,7 +18747,6 @@ may be disconnected.
 The battery may be discharged.
 
 ### (P.379)
-`lexus_es_en_5bfe6b5b` | es | owners_manual | tier:3 | lang:en | layer:steering | p:374
 There may be a malfunction in the
 steering lock system.
 Contact your Lexus dealer if the problem
@@ -19087,7 +18783,6 @@ Press the parking brake switch to
 check that the parking brake is set.
 
 ### (P.154)
-`lexus_es_en_1960b688` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:375
 Parking brake indicator will come on.
 2 Shift the shift lever to P.
 3 Turn the engine switch to ACCESSORY mode.
@@ -19108,7 +18803,6 @@ safe place such as your wallet, not in
 the vehicle.
 
 ### NOTICE
-`lexus_es_en_2454ce90` | es | owners_manual | tier:3 | lang:en | layer:body | p:375
 ■When an electronic key is lost
 If the electronic key remains lost, the risk
 of vehicle theft increases significantly.
@@ -19148,7 +18842,6 @@ doors and trunk can be opened and
 the engine can be started by following the procedure below.
 
 ### NOTICE
-`lexus_es_en_3fb69b51` | es | owners_manual | tier:3 | lang:en | layer:body | p:376
 ■In case of a smart access system with
 push-button start malfunction or
 other key-related problems
@@ -19231,7 +18924,6 @@ The engine does not start and modes will be
 changed each time the switch is pressed.
 
 ### (P.147)
-`lexus_es_en_587dc8d2` | es | owners_manual | tier:3 | lang:en | layer:body | p:378
 WARNING
 ■When using the mechanical key and
 operating the power windows or
@@ -19263,7 +18955,6 @@ cables, depending on the situation, the
 alarm may activate and doors locked.
 
 ### (P.61)
-`lexus_es_en_c1c897f8` | es | owners_manual | tier:3 | lang:en | layer:body | p:379
 2 Open the hood. (P.310)
 3 Connect a positive jumper cable clamp to
 on your vehicle and connect the
@@ -19340,7 +19031,6 @@ vehicle inspected at your Lexus dealer.
 ●Some systems may require initialization.
 
 ### (P.419)
-`lexus_es_en_9609bf9f` | es | owners_manual | tier:3 | lang:en | layer:ev | p:381
 ■When removing the battery terminals
 When the battery terminals are removed,
 the information stored in the ECU is
@@ -19450,7 +19140,6 @@ close to the hold down clamp, the battery
 fluid (sulfuric acid) may leak.
 
 ### NOTICE
-`lexus_es_en_e8164a6b` | es | owners_manual | tier:3 | lang:en | layer:engine | p:382
 ■When handling jumper cables
 When connecting the jumper cables,
 ensure that they do not become entangled in the cooling fan or engine drive
@@ -19547,7 +19236,6 @@ High temperature steam or coolant
 could spray out.
 
 ### NOTICE
-`lexus_es_en_74ceb7d1` | es | owners_manual | tier:3 | lang:en | layer:engine | p:384
 ■When adding engine coolant
 Add coolant slowly after the engine has
 cooled down sufficiently. Adding cool
@@ -19601,7 +19289,6 @@ accident resulting in death or serious
 injury.
 
 ### NOTICE
-`lexus_es_en_63200215` | es | owners_manual | tier:3 | lang:en | layer:general | p:385
 ■To avoid damaging the transmission
 and other components
 ●Avoid spinning the front wheels and
@@ -19721,7 +19408,6 @@ ILSAC GF-6A multigrade engine oil
 Recommended viscosity:
 
 ### SAE 0W-20
-`lexus_es_en_39011e3d` | es | owners_manual | tier:3 | lang:en | layer:maintenance | p:390
 SAE 0W-20 is the best choice for
 good fuel economy and good starting
 in cold weather.
@@ -19792,7 +19478,6 @@ ILSAC GF-6B multigrade engine oil
 Recommended viscosity:
 
 ### SAE 0W-16
-`lexus_es_en_b6693869` | es | owners_manual | tier:3 | lang:en | layer:engine | p:391
 SAE 0W-16 is the best choice for
 good fuel economy and good starting
 in cold weather.
@@ -19845,14 +19530,12 @@ A25A-FKS engine
 Make
 
 ### DENSO FK20HBR8
-`lexus_es_en_2018fa97` | es | owners_manual | tier:3 | lang:en | layer:general | p:392
 DENSO FC16HR-Q8
 Gap
 0.031 in. (0.8 mm)
 0.031 in. (0.8 mm)
 
 ### NOTICE
-`lexus_es_en_53ca211b` | es | owners_manual | tier:3 | lang:en | layer:general | p:392
 ■Iridium-tipped spark plugs
 Use only iridium-tipped spark plugs. Do not adjust the spark plug gap.
 393
@@ -19887,7 +19570,6 @@ Fluid type
 Toyota Genuine ATF WS
 
 ### NOTICE
-`lexus_es_en_8df69799` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:393
 ■Automatic transmission fluid type
 Using transmission fluid other than the above type may cause abnormal noise or vibration, or damage the transmission of your vehicle.
 Transfer (AWD models)
@@ -19929,7 +19611,6 @@ to 2 seconds: turns off
 Fluid type
 
 ### FMVSS No.116 DOT 3 or SAE J1703
-`lexus_es_en_e8dc2e01` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:394
 FMVSS No.116 DOT 4 or SAE J1704
 Steering
 Free play
@@ -19947,7 +19628,6 @@ Tires and wheels
 Tire size
 
 ### 215/55R17 94V, T155/70D17 110M
-`lexus_es_en_b8f75ce3` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:395
 (spare)
 Tire inflation pressure
 (Recommended cold tire inflation pressure)
@@ -19966,7 +19646,6 @@ Wheel nut torque
 Tire size
 
 ### 235/45R18 94V, T155/70D17 110M
-`lexus_es_en_2f9a57af` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:395
 (spare)
 Tire inflation pressure
 (Recommended cold tire inflation pressure)
@@ -19992,7 +19671,6 @@ Wheel nut torque
 Tire size
 
 ### 235/40R19 92V, T155/70D17 110M
-`lexus_es_en_b51f3306` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:396
 (spare)
 Tire inflation pressure
 (Recommended cold tire inflation pressure)
@@ -20016,7 +19694,6 @@ Type
 Front turn signal lights
 
 ### 7444NA
-`lexus_es_en_a87bc95c` | es | owners_manual | tier:3 | lang:en | layer:general | p:396
 28/8*
 Wedge base
 bulbs (amber)
@@ -20069,7 +19746,6 @@ that could contain more than 15% ethanol, including from any pump labeled
 E30 (30% ethanol [
 
 ### ]), E50 (50%
-`lexus_es_en_fd05010d` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:397
 ethanol [
 ]), E85 (85% ethanol [
 ])
@@ -20109,7 +19785,6 @@ C
 8-1. Specifications
 
 ### NOTICE
-`lexus_es_en_1bf05dd8` | es | owners_manual | tier:3 | lang:en | layer:engine | p:398
 ■Notice on fuel quality
 ●Do not use improper fuels. If improper
 fuels are used, the engine will be damaged.
@@ -20150,7 +19825,6 @@ Radial tires or bias-ply tires
 A radial tire has “RADIAL” on the sidewall. A tire not marked “RADIAL” is a bias-ply tire.
 
 ### TUBELESS or TUBE TYPE
-`lexus_es_en_d3fc61e0` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:399
 A tubeless tire does not have a tube and air is directly put into the tire. A tube type tire has a
 tube inside the tire and the tube maintains the air pressure.
 Load limit at maximum cold tire inflation pressure (P.403)
@@ -20185,7 +19859,6 @@ Radial tires or bias-ply tires
 A radial tire has “RADIAL” on the sidewall. A tire not marked “RADIAL” is a bias-ply tire.
 
 ### TUBELESS or TUBE TYPE
-`lexus_es_en_a41dadab` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:400
 A tubeless tire does not have a tube and air is directly put into the tire. A tube type tire has a
 tube inside the tire and the tube maintains the air pressure.
 Load limit at maximum cold tire inflation pressure (P.403)
@@ -20193,7 +19866,6 @@ Maximum cold tire inflation pressure (P.403)
 This means the pressure to which a tire may be inflated.
 
 ### “TEMPORARY USE ONLY”
-`lexus_es_en_fcd8e119` | es | owners_manual | tier:3 | lang:en | layer:general | p:400
 A compact spare tire is identified by the phrase “TEMPORARY USE ONLY” molded on
 its sidewall. This tire is designed for temporary emergency use only.
 A
@@ -20627,7 +20299,6 @@ For details on the Remote Touch, refer
 to the “NAVIGATION AND MULTI-
 
 ### MEDIA SYSTEM OWNER’S MAN-
-`lexus_es_en_895acd2c` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:408
 UAL”.
 ■During customization
 Stop the vehicle in a safe place, apply the
@@ -20657,7 +20328,6 @@ and enter the vehicle. This may lead to
 death or a serious health hazard.
 
 ### NOTICE
-`lexus_es_en_580c4098` | es | owners_manual | tier:3 | lang:en | layer:general | p:408
 ■During customization
 To prevent battery discharge, ensure
 that the engine is running while customizing features.
@@ -20702,7 +20372,6 @@ consumption
 Customizable items:
 
 ### P.77
-`lexus_es_en_111d06c5` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:409
 
 O
 
@@ -20858,7 +20527,6 @@ Vehicle specifications
 ■Smart access system with push-button start and wireless remote control
 
 ### (P.96, 107)
-`lexus_es_en_45d01624` | es | owners_manual | tier:3 | lang:en | layer:body | p:411
 ■Smart access system with push-button start (P.96, 107)
 Function
 Default setting Customized setting
@@ -21553,13 +21221,11 @@ After reconnecting or changing the
 battery
 
 ### P.218
-`lexus_es_en_8944b8b2` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:419
 PKSB (Parking Support Brake)*
 After reconnecting or changing the
 battery
 
 ### P.238
-`lexus_es_en_141f26cf` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:419
 Tire pressure warning system
 • When rotating the tires.
 • When the tire inflation pressure is
@@ -21573,7 +21239,6 @@ traveling speed.
 Power windows
 When functioning abnormally
 ### P.129
-`lexus_es_en_b104a124` | es | owners_manual | tier:3 | lang:en | layer:steering | p:419
 Lexus parking assist monitor*
 • Battery has been reinstalled.
 • The steering wheel has been
@@ -21583,7 +21248,6 @@ being reinstalled.
 Refer to “NAV-
 
 ### OWNER’S
-`lexus_es_en_8d4e3ba3` | es | owners_manual | tier:3 | lang:en | layer:steering | p:419
 MANUAL”.
 420
 8-3. Items to initialize
@@ -21597,19 +21261,16 @@ being reinstalled.
 Refer to the
 
 ### OWNER’S
-`lexus_es_en_6d3135bb` | es | owners_manual | tier:3 | lang:en | layer:maintenance | p:420
 MANUAL”.
 Message indicating maintenance is
 required
 After the maintenance is performed
 
 ### P.303
-`lexus_es_en_e19a2aba` | es | owners_manual | tier:3 | lang:en | layer:engine | p:420
 Oil maintenance
 After the maintenance is performed
 
 ### P.315
-`lexus_es_en_db7aa589` | es | owners_manual | tier:3 | lang:en | layer:interior | p:420
 Item
 When to initialize
 Reference
@@ -21693,7 +21354,6 @@ Utilisation adéquate des ceintures de sécurité
 Entretien et soin
 
 ### AVERTISSEMENT
-`lexus_es_en_4209aef4` | es | owners_manual | tier:3 | lang:en | layer:interior | p:423
 ■Dommages et usure de la ceinture de
 sécurité
 Vérifiez périodiquement le système de
@@ -21786,14 +21446,12 @@ Q
 R
 
 ### AVERTISSEMENT
-`lexus_es_en_dd3cdc3c` | es | owners_manual | tier:3 | lang:en | layer:safety | p:426
 ■Précautions relatives aux coussins
 gonflables SRS
 Observez les précautions suivantes en
 ce qui concerne les coussins gonflables
 
 ### SRS.
-`lexus_es_en_b7dad6cc` | es | owners_manual | tier:3 | lang:en | layer:interior | p:426
 Négliger de le faire pourrait occasionner
 des blessures graves, voire mortelles.
 ●Le conducteur et tous les passagers
@@ -21807,7 +21465,6 @@ dispositifs supplémentaires qui doivent
 For owners
 
 ### AVERTISSEMENT
-`lexus_es_en_5ba44844` | es | owners_manual | tier:3 | lang:en | layer:safety | p:427
 ●Le coussin gonflable SRS du conducteur se déploie avec une force considérable et peut occasionner des
 blessures graves, voire mortelles,
 notamment lorsque le conducteur se
@@ -21875,7 +21532,6 @@ avant soit assis bien droit.
 9-1. For owners
 
 ### AVERTISSEMENT
-`lexus_es_en_1a3a515f` | es | owners_manual | tier:3 | lang:en | layer:general | p:428
 ●Le déploiement d’un coussin gonflable
 risque d’infliger des blessures graves,
 voire mortelles, aux bébés et aux
@@ -21924,7 +21580,6 @@ l’extérieur du véhicule.
 For owners
 
 ### AVERTISSEMENT
-`lexus_es_en_fd74ded1` | es | owners_manual | tier:3 | lang:en | layer:interior | p:429
 ●Ne fixez et n’appuyez rien sur des
 zones telles que la planche de bord, le
 tampon de volant ou encore la partie
@@ -21993,7 +21648,6 @@ Boulon de réglage A (vertical)
 Boulon de réglage B (horizontal)
 
 ### AVERTISSEMENT
-`lexus_es_en_77e70e3b` | es | owners_manual | tier:3 | lang:en | layer:interior | p:430
 ■Modification et mise au rebut des
 composants du système de coussins
 gonflables SRS
@@ -22103,7 +21757,6 @@ new genuine mechanical keys can
 be made by your Lexus dealer.
 
 ### (P.375)
-`lexus_es_en_429807a7` | es | owners_manual | tier:3 | lang:en | layer:body | p:434
 If you lose your electronic keys, the
 risk of vehicle theft increases significantly. Contact your Lexus dealer
 immediately. (P.375)
@@ -22139,7 +21792,6 @@ detectable inside the vehicle?
 
 Is the steering wheel unlocked?
 ### (P.145)
-`lexus_es_en_c5a4253f` | es | owners_manual | tier:3 | lang:en | layer:body | p:434
 Is the electronic key battery weak or
 depleted?
 If you have a problem, check the
@@ -22162,7 +21814,6 @@ temporary way. (P.378)
 Is the battery discharged?
 
 ### (P.379)
-`lexus_es_en_fdafbe56` | es | owners_manual | tier:3 | lang:en | layer:body | p:435
 Is the engine switch in IGNITION
 ON mode?
 If you cannot release the shift lever
@@ -22179,7 +21830,6 @@ window lock switch is pressed. (P.124)
 operated if the vehicle is left in
 
 ### ACCESSORY or IGNITION ON
-`lexus_es_en_f96879ee` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:435
 mode (the engine is not running) for
 a period of time. (P.147)
 The seat belt reminder light is flashing
@@ -22195,7 +21845,6 @@ a door during setting the alarm?
 The sensor detects it and the alarm sounds.
 
 ### (P.60)
-`lexus_es_en_f6b7eba8` | es | owners_manual | tier:3 | lang:en | layer:engine | p:435
 To stop the alarm, turn the engine
 switch to IGNITION ON mode, or
 start the engine.
@@ -22241,7 +21890,6 @@ Alphabetical index
 A
 
 ### MANUAL”.
-`lexus_es_en_6c7bebe3` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:449
 б Audio/video system
 б Navigation system
 б Lexus parking assist monitor
@@ -22287,7 +21935,6 @@ Tire pressure warning system
 464
 
 ### GAS STATION INFORMATION
-`lexus_es_en_b3f2a51e` | es | owners_manual | tier:3 | lang:en | layer:body | p:464
 Auxiliary catch lever (P.310)
 Trunk opener (P.102)
 Fuel filler door opener (P.170)
@@ -22303,16 +21950,11 @@ Fuel type
 Unleaded gasoline only
 
 ### P.395
-`lexus_es_en_dd69367f` | es | owners_manual | tier:3 | lang:en | layer:engine | p:464
 Engine oil capacity (Drain and
 refill  reference)
 
 
-# Manual: lexus/es (382 chunks)
-<!-- doc_type:owners_manual tier:3 lang:en -->
-
 ### ES350_250_OM_OM06216U_(U)
-`lexus_es_en_25ef26a8` | es | owners_manual | tier:3 | lang:en | layer:body | p:1
 1
 2
 3
@@ -22365,7 +22007,6 @@ Search alphabetically
 2
 
 ### TABLE OF CONTENTS
-`lexus_es_en_6d434cb8` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:3
 1
 2
 3
@@ -22417,7 +22058,6 @@ Emission inspection and maintenance (I/M) programs............307
 4
 
 ### TABLE OF CONTENTS
-`lexus_es_en_9b3501bc` | es | owners_manual | tier:3 | lang:en | layer:general | p:5
 1
 2
 3
@@ -22592,7 +22232,6 @@ equipment, can read the information if
 they have access to the vehicle or the
 
 ### EDR.
-`lexus_es_en_11cc4130` | es | owners_manual | tier:3 | lang:en | layer:general | p:8
 Disclosure of the EDR data
 Lexus will not disclose the data recorded in
 an EDR to a third party except when:
@@ -22674,7 +22313,6 @@ cause death or serious
 injury to people.
 
 ### NOTICE:
-`lexus_es_en_fe566dd7` | es | owners_manual | tier:3 | lang:en | layer:steering | p:10
 Explains something that,
 if not obeyed, could
 cause damage to or a
@@ -22709,7 +22347,6 @@ happen.
 What to do if... (Troubleshooting):
 
 ### *2: Refer to “NAVIGATION AND MULTIMEDIA SYSTEM OWNER’S MANUAL”.
-`lexus_es_en_74259ddc` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:15
 E
 F
 G
@@ -22733,7 +22370,6 @@ Fuel filler door opener switch..................................................
 *1: If equipped
 
 ### *2: Refer to “NAVIGATION AND MULTIMEDIA SYSTEM OWNER’S MANUAL”.
-`lexus_es_en_10ca059c` | es | owners_manual | tier:3 | lang:en | layer:body | p:16
 A
 B
 C
@@ -22771,7 +22407,6 @@ Audio remote control switches*
 Talk switch*
 
 ### *: Refer to “NAVIGATION AND MULTIMEDIA SYSTEM OWNER’S MANUAL”.
-`lexus_es_en_114976d8` | es | owners_manual | tier:3 | lang:en | layer:interior | p:18
 Seat ventilator switches* .....................................................................................P.269
 Seat heater switches* ...........................................................................................P.269
 Heated steering wheel switch*..........................................................................P.269
@@ -22915,7 +22550,6 @@ with the center of the head restraint
 closest to the top of your ears.
 
 ### (P.25)
-`lexus_es_en_3f1e2cbe` | es | owners_manual | tier:3 | lang:en | layer:safety | p:23
 Make sure that all occupants are wearing their seat belts before driving the
 vehicle. (P.25)
 Use a child restraint system appropriate for the child until the child becomes
@@ -22925,7 +22559,6 @@ Make sure that you can see backward
 clearly by adjusting the inside and outside rear view mirrors properly.
 
 ### (P.119, 120)
-`lexus_es_en_741164dd` | es | owners_manual | tier:3 | lang:en | layer:general | p:23
 For safe driving
 For safe driving, adjust the seat and
 mirror to an appropriate position
@@ -23013,7 +22646,6 @@ belt in the proper way. (P.25)
 ■When children are in the vehicle
 
 ### P.43
-`lexus_es_en_68068bd0` | es | owners_manual | tier:3 | lang:en | layer:interior | p:24
 ■Seat belt damage and wear
 ●Do not damage the seat belts by allowing the belt, plate, or buckle to be
 jammed in the door.
@@ -23119,7 +22751,6 @@ safe on another vehicle, when used by
 another person, or at a different seating position other than the one originally intended.
 
 ### NOTICE
-`lexus_es_en_9d062a04` | es | owners_manual | tier:3 | lang:en | layer:interior | p:26
 ■When using a seat belt extender
 When releasing the seat belt, press on
 the buckle release button on the
@@ -23266,14 +22897,12 @@ itself may also be hot.
 ●All of the doors will be unlocked.
 
 ### (P.97)
-`lexus_es_en_0e4b5349` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:30
 ●The brakes and stop lights will be controlled automatically. (P.246)
 ●The interior lights will turn on automatically. (P.274)
 ●The emergency flashers will turn on automatically. (P.344)
 ●Fuel supply to the engine will be stopped.
 
 ### (P.350)
-`lexus_es_en_7ad96cec` | es | owners_manual | tier:3 | lang:en | layer:safety | p:30
 ●For Lexus Enform Safety Connect subscribers, if any of the following situations
 occur, the system is designed to send an
 emergency call to the response center,
@@ -23285,7 +22914,6 @@ the occupants are unable to communicate, the agent automatically treats the
 call as an emergency and helps to dispatch the necessary emergency services.
 
 ### (P.55)
-`lexus_es_en_4a3368ee` | es | owners_manual | tier:3 | lang:en | layer:interior | p:30
 • An SRS airbag is deployed.
 • A seat belt pretensioner is activated.
 • The vehicle is involved in a severe rearend collision.
@@ -23626,7 +23254,6 @@ BAG OFF” indicator light is not illuminated when using the seat belt
 extender for the front passenger seat.
 
 ### If the “PASSENGER AIR BAG ON”
-`lexus_es_en_f2a55b02` | es | owners_manual | tier:3 | lang:en | layer:interior | p:38
 indicator light is illuminated, disconnect the extender tongue from the
 seat belt buckle, and reconnect the
 seat belt. Reconnect the seat belt
@@ -23666,7 +23293,6 @@ seat, the “PASSENGER AIR BAG
 ON” indicator light is illuminated. If the
 
 ### “PASSENGER AIR BAG OFF” indi-
-`lexus_es_en_7babe4d7` | es | owners_manual | tier:3 | lang:en | layer:safety | p:38
 cator is illuminated, ask the passenger
 to sit up straight, well back in the seat,
 feet on the floor, and with the seat belt
@@ -23681,7 +23307,6 @@ the front passenger seat, install the
 child restraint system on the front passenger seat in the proper order.
 
 ### (P.45)
-`lexus_es_en_e615c599` | es | owners_manual | tier:3 | lang:en | layer:safety | p:38
 ●Do not modify or remove the front
 seats.
 ●Do not kick the front passenger seat or
@@ -23721,7 +23346,6 @@ Indicator/warning
 light
 
 ### “PASSENGER AIR
-`lexus_es_en_e988f82d` | es | owners_manual | tier:3 | lang:en | layer:interior | p:39
 BAG ON”
 SRS warning light
 Off
@@ -23736,7 +23360,6 @@ Indicator/warning
 light
 
 ### SENGER AIR BAG
-`lexus_es_en_91c4190b` | es | owners_manual | tier:3 | lang:en | layer:safety | p:39
 ON”*4
 SRS warning light
 Off
@@ -23762,7 +23385,6 @@ his/her physique and posture.
 light
 
 ### “PASSENGER AIR
-`lexus_es_en_4484de67` | es | owners_manual | tier:3 | lang:en | layer:interior | p:40
 BAG OFF”*6
 SRS warning light
 Off
@@ -23777,7 +23399,6 @@ Indicator/warning
 light
 
 ### “PASSENGER AIR
-`lexus_es_en_000c4179` | es | owners_manual | tier:3 | lang:en | layer:interior | p:40
 BAG OFF”
 SRS warning light
 Off
@@ -23791,7 +23412,6 @@ Indicator/warning
 light
 
 ### “PASSENGER AIR
-`lexus_es_en_22682627` | es | owners_manual | tier:3 | lang:en | layer:safety | p:40
 BAG OFF”
 SRS warning light
 On
@@ -23862,7 +23482,6 @@ Child restraint system: P.44
 When using a child restraint system:
 
 ### P.45
-`lexus_es_en_67b4622d` | es | owners_manual | tier:3 | lang:en | layer:safety | p:43
 Child restraint system installation
 method
 • Fixed with a seat belt: P.47
@@ -23891,7 +23510,6 @@ while driving or operating the
 power window accidentally.
 
 ### (P.99, 124)
-`lexus_es_en_11210ab4` | es | owners_manual | tier:3 | lang:en | layer:body | p:43
 Do not let small children operate
 equipment which may catch or
 pinch body parts, such as the
@@ -24014,7 +23632,6 @@ anchors attachment
 Anchor brackets (for top
 tether strap) attachment
 ### P.53
-`lexus_es_en_85dcbe82` | es | owners_manual | tier:3 | lang:en | layer:safety | p:45
 When using a child restraint system
 46
 1-2. Child safety
@@ -24129,7 +23746,6 @@ system, rock it back and forth to
 ensure that it is installed securely.
 
 ### (P.50)
-`lexus_es_en_1a5fd718` | es | owners_manual | tier:3 | lang:en | layer:safety | p:48
 ■Forward-facing  Convertible
 seat
 1
@@ -24172,7 +23788,6 @@ system, rock it back and forth to
 ensure that it is installed securely.
 
 ### (P.50)
-`lexus_es_en_e90a1f60` | es | owners_manual | tier:3 | lang:en | layer:safety | p:49
 ■Booster seat
 1
 If installing the child restraint system to the front passenger seat is
@@ -24194,7 +23809,6 @@ positioned over the child’s shoulder and
 that the lap belt is as low as possible.
 
 ### (P.24)
-`lexus_es_en_68a999f8` | es | owners_manual | tier:3 | lang:en | layer:safety | p:49
 50
 1-2. Child safety
 ■Removing a child restraint system
@@ -24312,7 +23926,6 @@ system, rock it back and forth to
 ensure that it is installed securely.
 
 ### (P.50)
-`lexus_es_en_0c92d193` | es | owners_manual | tier:3 | lang:en | layer:safety | p:52
 ■When installing in the rear center
 seat
 There are no LATCH anchors behind
@@ -24331,14 +23944,12 @@ anchors
 The LATCH system conforms to
 
 ### FMVSS225 or CMVSS210.2.
-`lexus_es_en_35675c6f` | es | owners_manual | tier:3 | lang:en | layer:general | p:52
 Child restraint systems conforming to
 FMVSS213 or CMVSS213 specifications
 can be used.
 This vehicle is designed to conform to SAE
 
 ### J1819.
-`lexus_es_en_cea300ea` | es | owners_manual | tier:3 | lang:en | layer:safety | p:52
 A
 A
 WARNING
@@ -24424,7 +24035,6 @@ anchors
 The LATCH system conforms to
 
 ### J1819.
-`lexus_es_en_832de93e` | es | owners_manual | tier:3 | lang:en | layer:safety | p:54
 WARNING
 ■When installing a child restraint system
 Observe the following precautions.
@@ -24445,7 +24055,6 @@ never adjust the seat.
 manufacturer.
 
 ### NOTICE
-`lexus_es_en_a639e255` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:54
 ■Anchor brackets (for top tether
 strap)
 When not in use, make certain to close
@@ -24467,13 +24076,11 @@ Helps drivers receive necessary response
 from emergency service providers.
 
 ### (P.57)
-`lexus_es_en_ae3eae06` | es | owners_manual | tier:3 | lang:en | layer:general | p:55
 *: U.S. Patent No. 7,508,298 B2
 Stolen Vehicle Location
 Helps drivers in the event of vehicle theft.
 
 ### (“SOS”)
-`lexus_es_en_78eead39` | es | owners_manual | tier:3 | lang:en | layer:general | p:55
 Connects drivers to response-center support. (P.57)
 Enhanced Roadside Assistance
 Provides drivers various on-road assistance. (P.57)
@@ -24487,7 +24094,6 @@ dealer, call the following or push the
 The United States
 
 ### 1-800-25-LEXUS (1-800-255-3987)
-`lexus_es_en_4982e6e0` | es | owners_manual | tier:3 | lang:en | layer:maintenance | p:55
 Lexus Enform Safety Connect*
 Safety Connect is a subscriptionbased telematics service that uses
 Global Positioning System (GPS)
@@ -24516,7 +24122,6 @@ C
 Canada
 
 ### 1-800-26-LEXUS (1-800-265-3987)
-`lexus_es_en_e4f936ea` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:56
 Puerto Rico
 1-877-539-8777
 ■Safety Connect Services Information
@@ -24598,7 +24203,6 @@ vehicle. After filing a police report, call
 the Safety Connect response center at
 
 ### 1-800-25-LEXUS (1-800-255-
-`lexus_es_en_44c412c6` | es | owners_manual | tier:3 | lang:en | layer:safety | p:57
 3987) in the United States, 1-877539-8777 in Puerto Rico or 1-800265-3987 in Canada, and follow the
 prompts for Safety Connect to initiate
 this service.
@@ -24609,7 +24213,6 @@ information is available at Lexus.com.
 ■Emergency Assistance Button
 
 ### (“SOS”)
-`lexus_es_en_2ee60cf8` | es | owners_manual | tier:3 | lang:en | layer:safety | p:57
 In the event of an emergency on the
 road, push the “SOS” button to reach
 the Safety Connect response center.
@@ -24671,7 +24274,6 @@ The indicator light stops flashing after
 the engine switch has been turned to
 
 ### ACCESSORY or IGNITION ON
-`lexus_es_en_a5d6bf9d` | es | owners_manual | tier:3 | lang:en | layer:engine | p:59
 mode to indicate that the system has
 been canceled.
 ■System maintenance
@@ -24696,7 +24298,6 @@ vehicle thefts.
 Operating the system
 
 ### NOTICE
-`lexus_es_en_cdea1454` | es | owners_manual | tier:3 | lang:en | layer:body | p:59
 ■To ensure the system operates correctly
 Do not modify or remove the system. If
 modified or removed, the proper operation of the system cannot be guaranteed.
@@ -24784,7 +24385,6 @@ remaining in the vehicle unlocks the door.
 ●When recharging or replacing the battery
 
 ### NOTICE
-`lexus_es_en_ade16314` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:61
 ■To ensure the system operates correctly
 Do not modify or remove the system. If
 modified or removed, the proper operation of the system cannot be guaranteed.
@@ -24830,7 +24430,6 @@ Brake system warning light*1
 (yellow)
 Brake system warning light*1
 ### (P.351)
-`lexus_es_en_58f42be3` | es | owners_manual | tier:3 | lang:en | layer:engine | p:65
 High coolant temperature
 warning light*2 (P.351)
 Charging system warning
@@ -24840,7 +24439,6 @@ Low engine oil pressure warning light*2 (P.352)
 (Canada)
 Malfunction indicator lamp*1
 ### (U.S.A.)
-`lexus_es_en_e98ea805` | es | owners_manual | tier:3 | lang:en | layer:steering | p:65
 ABS warning light*1 (P.353)
 (Canada)
 ABS warning light*1 (P.353)
@@ -24855,18 +24453,15 @@ warning light*1 (P.353)
 Low fuel level warning light
 
 ### (P.354)
-`lexus_es_en_eb41ac0b` | es | owners_manual | tier:3 | lang:en | layer:interior | p:65
 Driver’s and front passenger’s
 seat belt reminder light
 
 ### (P.354)
-`lexus_es_en_171af20b` | es | owners_manual | tier:3 | lang:en | layer:interior | p:65
 Rear passengers’ seat belt
 reminder lights*2 (P.354)
 Tire pressure warning light*1
 
 ### (P.355)
-`lexus_es_en_424813f6` | es | owners_manual | tier:3 | lang:en | layer:adas | p:65
 (orange)
 LTA indicator*2 (P.355)
 (flashes)
@@ -24875,7 +24470,6 @@ Intuitive parking assist OFF indicator*1 (if equipped) (P.355)
 RCTA OFF indicator*1
 
 ### (P.356)
-`lexus_es_en_d0ef021f` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:65
 (flashes)
 RCD OFF indicator (if
 equipped) (P.356)
@@ -24892,7 +24486,6 @@ Slip indicator*1 (P.357)
 (Canada)
 Parking brake indicator
 ### (P.357)
-`lexus_es_en_f857862a` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:65
 66
 2-1. Instrument cluster
 *1: These lights come on when the engine
@@ -24912,7 +24505,6 @@ Brake hold operated indicator*1 (P.358)
 Master warning light*1
 
 ### (P.358)
-`lexus_es_en_4b5c8464` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:66
 WARNING
 ■If a safety system warning light does
 not come on
@@ -24928,21 +24520,18 @@ Indicators
 Turn signal indicator (P.153)
 
 ### (U.S.A.)
-`lexus_es_en_eb306257` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:66
 Headlight indicator (P.158)
 (Canada)
 Tail light indicator (P.158)
 Headlight high beam indicator
 
 ### (P.161)
-`lexus_es_en_2de181fd` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:66
 PCS warning light*1, 2 (P.176)
 Cruise
 control
 indicator*3
 
 ### (P.198)
-`lexus_es_en_215e4dac` | es | owners_manual | tier:3 | lang:en | layer:adas | p:66
 Dynamic radar cruise control
 indicator*3 (P.198)
 Cruise control “SET” indicator*3 (P.198)
@@ -24962,7 +24551,6 @@ Intuitive parking assist OFF indicator*1,
 equipped)
 
 ### (P.224)
-`lexus_es_en_cff6ed82` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:66
 RCD
 OFF
 indicator*2
@@ -24978,7 +24566,6 @@ indicator*1,
 2
 
 ### (P.247)
-`lexus_es_en_60620169` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:66
 67
 2-1. Instrument cluster
 2
@@ -25019,23 +24606,19 @@ Parking
 brake
 indicator
 ### (P.156)
-`lexus_es_en_9e319e76` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:67
 Brake hold operated indicator*1 (P.156)
 Eco Driving Indicator Light*1, 5
 
 ### (P.79)
-`lexus_es_en_91666cf5` | es | owners_manual | tier:3 | lang:en | layer:hvac | p:67
 Low outside temperature indicator*3, 6 (P.68, 71)
 
 ### (P.213)
-`lexus_es_en_c2688049` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:67
 Sport mode indicator (P.213)
 Custom mode indicator (if
 equipped) (P.213)
 Eco drive mode indicator
 
 ### (P.213)
-`lexus_es_en_c1c4b330` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:67
 Sport mode indicator (if
 equipped) (P.213)
 Sport S mode indicator (if
@@ -25127,14 +24710,12 @@ to your Lexus dealer.
 ■Liquid crystal display
 
 ### P.77
-`lexus_es_en_04c353a5` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:69
 ■Customization
 The gauges and meters can be customized
 on
 of the multi-information display.
 
 ### (P.80)
-`lexus_es_en_a7b037ff` | es | owners_manual | tier:3 | lang:en | layer:engine | p:69
 H
 I
 WARNING
@@ -25151,7 +24732,6 @@ engine braking and possibly an accident
 resulting in death or injury.
 
 ### NOTICE
-`lexus_es_en_a8a0e097` | es | owners_manual | tier:3 | lang:en | layer:engine | p:69
 ■To prevent damage to the engine and
 its components
 ●Do not let the indicator needle of the
@@ -25199,7 +24779,6 @@ when the tail lights are on but the surrounding area is bright
 and the surrounding area is dark
 
 ### NOTICE
-`lexus_es_en_e1b5a81f` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:70
 ●The engine may be overheating if the
 engine coolant temperature gauge is
 in the red zone (H). In this case, immediately stop the vehicle in a safe place,
@@ -25307,7 +24886,6 @@ The engine speed at which the rev indicator will begin to be displayed can be se
 of the multi-information display.
 
 ### (P.80)
-`lexus_es_en_ad2741b4` | es | owners_manual | tier:3 | lang:en | layer:engine | p:73
 ■Rev peak
 When the engine speed reaches or
 exceeds 5000 rpm, an afterimage of
@@ -25365,7 +24943,6 @@ to your Lexus dealer.
 ■Liquid crystal display
 
 ### (P.80)
-`lexus_es_en_5f79193d` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:74
 ■Display items
 Odometer
 Displays the total distance the vehicle has
@@ -25385,7 +24962,6 @@ engine braking and possibly an accident
 resulting in death or injury.
 
 ### NOTICE
-`lexus_es_en_332dba59` | es | owners_manual | tier:3 | lang:en | layer:engine | p:74
 ■To prevent damage to the engine and
 its components
 ●Do not let the indicator needle of the
@@ -25473,7 +25049,6 @@ Display and menu icons
 Driving information display
 
 ### (P.77)
-`lexus_es_en_3198282f` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:76
 Navigation system-linked display (if equipped) (P.80)
 77
 2-1. Instrument cluster
@@ -25501,7 +25076,6 @@ sending or receiving call is displayed. For details regarding the
 hands-free system, refer to the
 
 ### MANUAL”.
-`lexus_es_en_0435f271` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:77
 *: F SPORT models
 ■Display items (except F SPORT
 models)
@@ -25526,12 +25100,10 @@ of the meter control
 Audio system-linked display
 
 ### (P.80)
-`lexus_es_en_7084e37f` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:77
 Driving support system information display (P.80)
 Warning message display
 
 ### (P.361)
-`lexus_es_en_374a0b7b` | es | owners_manual | tier:3 | lang:en | layer:safety | p:77
 Settings display (P.80)
 WARNING
 ■Caution for use while driving
@@ -25544,7 +25116,6 @@ on the road, etc. ahead of the vehicle.
 ■The information display at low temperatures
 
 ### P.69, 74
-`lexus_es_en_ac680b0e` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:77
 Changing the meter display
 Content of driving information
 A
@@ -25591,7 +25162,6 @@ Displayed items (listed below) can be
 changed on
 
 ### . (P.80)
-`lexus_es_en_78d3b207` | es | owners_manual | tier:3 | lang:en | layer:engine | p:78
 Current fuel consumption
 Bar type: Displays instantaneous current
 fuel consumption
@@ -25715,7 +25285,6 @@ of the following systems:
 LTA (Lane Tracing Assist)
 
 ### (P.186)
-`lexus_es_en_e17aeda3` | es | owners_manual | tier:3 | lang:en | layer:adas | p:80
 Dynamic radar cruise control with
 full-speed range (P.198)
 RSA (Road Sign Assist) (if
@@ -25767,7 +25336,6 @@ the default setting.
 can be changed
 
 ### P.408
-`lexus_es_en_db3cb7a2` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:81
 ■Suspension of the settings display
 ●Some settings cannot be changed while
 driving. When changing settings, park
@@ -25800,7 +25368,6 @@ and enter the vehicle. This may lead to
 death or a serious health hazard.
 
 ### NOTICE
-`lexus_es_en_597830ce` | es | owners_manual | tier:3 | lang:en | layer:engine | p:81
 ■During setting up the display
 To prevent battery discharge, ensure
 that the engine is running while setting up
@@ -25814,7 +25381,6 @@ switch is turned off, this suggestion message will not be displayed.
 Some functions can be customized.
 
 ### (P.408)
-`lexus_es_en_efe4baeb` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:82
 83
 2-1. Instrument cluster
 2
@@ -25867,7 +25433,6 @@ on
 of the multi-information display.
 
 ### (P.76)
-`lexus_es_en_3659e318` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:84
 Brightness and vertical position of
 the head-up display
 Select to adjust the brightness or vertical
@@ -25891,7 +25456,6 @@ to see pedestrians, objects on the
 road, etc. ahead of the vehicle.
 
 ### NOTICE
-`lexus_es_en_314b1b3c` | es | owners_manual | tier:3 | lang:en | layer:ev | p:84
 ■Head-up display projector
 ●Do not place any drinks near the headup display projector. If the projector
 gets wet, electrical malfunctions may
@@ -25934,7 +25498,6 @@ adjustment
 If the display position is recorded into memory, the head-up display will be automatically adjusted to the desired position.
 
 ### (P.113)
-`lexus_es_en_5632ad81` | es | owners_manual | tier:3 | lang:en | layer:adas | p:85
 ■When the battery is disconnected
 The customize settings of the head-up display will be reset.
 Displays the operational status of the
@@ -25942,7 +25505,6 @@ following systems:
 LTA (Lane Tracing Assist)
 
 ### (P.186)
-`lexus_es_en_1e38499f` | es | owners_manual | tier:3 | lang:en | layer:safety | p:85
 Dynamic radar cruise control with
 full-speed range (P.198)
 Details of content displayed on the headup display may differ from that displayed
@@ -25962,7 +25524,6 @@ gases including harmful carbon monoxide (CO) may collect and enter the vehicle. 
 health hazard.
 
 ### NOTICE
-`lexus_es_en_4f4c718b` | es | owners_manual | tier:3 | lang:en | layer:adas | p:85
 ■When changing the settings of the
 head-up display
 To prevent battery discharge, ensure
@@ -25978,12 +25539,10 @@ message or the operating state of a relevant system.
 
 Intuitive parking assist (if equipped)
 ### (P.216)
-`lexus_es_en_cd4ac831` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:86
 Parking Support Brake function
 (static objects) (if equipped)
 
 ### (P.239)
-`lexus_es_en_0c9ce059` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:86
 Brake Override System (P.134)
 Drive-Start Control (P.139)
 Details of content displayed on the headup display may differ from that displayed
@@ -25997,7 +25556,6 @@ These icons are linked to the multiinformation display
 Displayed when a warning message is displayed on the multi-information display.
 
 ### (P.361)
-`lexus_es_en_6098285f` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:86
 : Information icon
 Displayed when a suggestion pop-up display (P.81) or advice pop-up display is
 displayed on the multi-information display.
@@ -26027,7 +25585,6 @@ Displayed content is the same as that displayed on the multi-information display
 (Eco Driving Indicator). For details, refer to
 
 ### P.79.
-`lexus_es_en_dc36a183` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:86
 Tachometer/Eco Driving Indicator display area
 A
 B
@@ -26227,7 +25784,6 @@ power consumption of electronic keys
 that are not used for long periods of time.
 
 ### (P.109)
-`lexus_es_en_e0bceca3` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:93
 ●As the electronic key always receives
 radio waves, the battery will become
 depleted even if the electronic key is not
@@ -26258,7 +25814,6 @@ phones
 ■Replacing the battery
 
 ### P.333
-`lexus_es_en_92713f11` | es | owners_manual | tier:3 | lang:en | layer:body | p:93
 ■Confirmation of the registered key
 number
 The number of keys already registered to
@@ -26278,7 +25833,6 @@ electronic key (other than those in your
 possession) has been registered.
 
 ### NOTICE
-`lexus_es_en_3ab7e592` | es | owners_manual | tier:3 | lang:en | layer:body | p:93
 ■To prevent key damage
 ●Do not drop the keys, subject them to
 strong shocks or bend them.
@@ -26312,7 +25866,6 @@ other key-related problems
 
 ■When an electronic key is lost
 ### P.375
-`lexus_es_en_a7b5408d` | es | owners_manual | tier:3 | lang:en | layer:body | p:93
 94
 3-1. Key information
 The electronic keys are equipped with
@@ -26323,7 +25876,6 @@ Opens the windows and moon
 roof*1, 2 or panoramic moon roof*1,
 
 ### 2 (P.96)
-`lexus_es_en_a00fc466` | es | owners_manual | tier:3 | lang:en | layer:body | p:94
 Opens the trunk (P.103)
 Sounds the alarm (P.94)
 *1: If equipped
@@ -26341,7 +25893,6 @@ electronic key.
 To take out the mechanical key, push
 
 ### NOTICE
-`lexus_es_en_db9ffed6` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:94
 ■Handling the card key (if equipped)
 ●Do not apply excess force when
 inserting the mechanical key into the
@@ -26404,7 +25955,6 @@ entry function does not operate properly,
 you will need the mechanical key.
 
 ### (P.376)
-`lexus_es_en_13cecc6a` | es | owners_manual | tier:3 | lang:en | layer:body | p:95
 ■When required to leave the vehicle’s
 key with a parking attendant
 Turn the trunk opener main switch off
@@ -26415,7 +25965,6 @@ use and provide the attendant with the electronic key only.
 ■If you lose your mechanical keys
 
 ### P.375
-`lexus_es_en_5aa76922` | es | owners_manual | tier:3 | lang:en | layer:body | p:95
 96
 3-2. Opening, closing and locking the doors and trunk
 3-2.Opening, closing and locking the doors and trunk
@@ -26522,12 +26071,10 @@ the doors, and lock the vehicle once more.
 Locking the doors will set the alarm system.
 
 ### (P.60)
-`lexus_es_en_1ae73e40` | es | owners_manual | tier:3 | lang:en | layer:general | p:97
 ■Conditions affecting the operation of
 the smart access system with push-button start or wireless remote control
 
 ### P.109
-`lexus_es_en_d4e9c676` | es | owners_manual | tier:3 | lang:en | layer:body | p:97
 ■If the smart access system with pushbutton start or the wireless remote control does not operate properly
 Use the mechanical key to lock and unlock
 the doors. (P.376)
@@ -26663,7 +26210,6 @@ canceled:
 For instructions on customizing, refer to
 
 ### P.408.
-`lexus_es_en_201d6284` | es | owners_manual | tier:3 | lang:en | layer:body | p:99
 Rear door child-protector lock
 Automatic door locking and
 unlocking systems
@@ -26857,7 +26403,6 @@ object that is caught. Be careful not to
 catch fingers or anything else.
 
 ### NOTICE
-`lexus_es_en_3d6c3602` | es | owners_manual | tier:3 | lang:en | layer:body | p:102
 ■To prevent trunk easy closer malfunctions (vehicles with power trunk
 lid)
 Do not apply force to the trunk lid while
@@ -27022,7 +26567,6 @@ hand.
 Use the mechanical key to unlock the trunk.
 
 ### (P.376)
-`lexus_es_en_f050c1a0` | es | owners_manual | tier:3 | lang:en | layer:body | p:105
 Replace the key battery with a new one if it
 is depleted. (P.333)
 ■Hands Free Power Trunk Lid operating
@@ -27113,7 +26657,6 @@ operation setting off.
 ■Open door warning buzzer
 
 ### P.99
-`lexus_es_en_9c85bb81` | es | owners_manual | tier:3 | lang:en | layer:body | p:106
 ■Customization
 Some functions can be customized. (Customizable features: P.408)
 The trunk opener switch can be temporarily disabled to protect luggage
@@ -27137,7 +26680,6 @@ equipped).
 parking attendant
 
 ### P.95
-`lexus_es_en_a66a00fe` | es | owners_manual | tier:3 | lang:en | layer:body | p:107
 ■Antenna location
 Antennas outside the cabin
 Antennas inside the cabin
@@ -27156,7 +26698,6 @@ always carry the electronic key.
 Locks and unlocks the doors
 
 ### (P.96)
-`lexus_es_en_ea0e3ae6` | es | owners_manual | tier:3 | lang:en | layer:body | p:107
 Opens the trunk (P.103)
 Starts the engine (P.144)
 A
@@ -27226,7 +26767,6 @@ The engine switch
 was turned to
 
 ### ACCESSORY
-`lexus_es_en_971f0445` | es | owners_manual | tier:3 | lang:en | layer:engine | p:108
 mode while the
 driver’s door was
 open (or the driver’s
@@ -27235,7 +26775,6 @@ while the engine
 switch was in
 
 ### ACCESSORY
-`lexus_es_en_88494679` | es | owners_manual | tier:3 | lang:en | layer:body | p:108
 mode).
 Turn the engine
 switch off and close
@@ -27423,7 +26962,6 @@ of the vehicle.
 power consumption of electronic keys.
 
 ### (P.109)
-`lexus_es_en_5288a53a` | es | owners_manual | tier:3 | lang:en | layer:body | p:110
 111
 3-2. Opening, closing and locking the doors and trunk
 3
@@ -27465,7 +27003,6 @@ warning will sound. (P.60)
 ●If the engine cannot be started, refer to
 
 ### P.378
-`lexus_es_en_08c4961e` | es | owners_manual | tier:3 | lang:en | layer:body | p:111
 ■Customization
 Settings (e. g. smart access system with
 push-button start) can be changed.
@@ -27490,7 +27027,6 @@ away from the smart access system
 with push-button start antennas.
 
 ### (P.107)
-`lexus_es_en_1aeb2069` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:111
 The radio waves may affect the operation of such devices. If necessary, the
 entry function can be disabled. Ask
 your Lexus dealer for details, such as
@@ -27636,7 +27172,6 @@ will be overwritten.
 ■Seat positions that can be memorized
 
 ### (P.112)
-`lexus_es_en_eff6d142` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:114
 The positions adjusted by the following procedure can be recorded:
 ●Seat position adjustment
 ●Seatback angle adjustment
@@ -27845,7 +27380,6 @@ to memory and recalled automatically by
 the driving position memory system.
 
 ### (P.113)
-`lexus_es_en_975c78da` | es | owners_manual | tier:3 | lang:en | layer:interior | p:118
 ■Power easy access system (vehicles
 with power adjustment type steering
 wheel)
@@ -27857,7 +27391,6 @@ The steering wheel movement can be
 changed. (Customizable features:
 
 ### P.408)
-`lexus_es_en_8f2e53ad` | es | owners_manual | tier:3 | lang:en | layer:general | p:118
 Steering wheel
 Adjustment procedure
 WARNING
@@ -27961,7 +27494,6 @@ the rear window defogger to turn on the
 outside rear view mirror defoggers.
 
 ### (P.263)
-`lexus_es_en_118ef3ac` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:121
 ■Auto anti-glare function
 When the anti-glare inside rear view mirror
 is set to automatic mode, the driver’s side
@@ -28130,7 +27662,6 @@ inspected by your Lexus dealer.
 closed using the mechanical key.*
 
 ### (P.377)
-`lexus_es_en_5fa8095c` | es | owners_manual | tier:3 | lang:en | layer:body | p:124
 ●The power windows can be opened using
 the wireless remote control.* (P.96)
 ●The alarm may be triggered if the alarm is
@@ -28267,7 +27798,6 @@ opened.
 closed using the mechanical key.*
 
 ### (P.377)
-`lexus_es_en_fb88667a` | es | owners_manual | tier:3 | lang:en | layer:body | p:126
 ●The moon roof can be opened using the
 wireless remote control.* (P.96)
 ●The alarm may be triggered if the alarm is
@@ -28463,7 +27993,6 @@ set and the panoramic moon roof is
 closed using the door lock linked panoramic moon roof operation function.
 
 ### (P.60)
-`lexus_es_en_062dc252` | es | owners_manual | tier:3 | lang:en | layer:engine | p:129
 *: These settings must be customized at
 your Lexus dealer.
 ■When the panoramic moon roof or electronic roof sunshade does not close normally
@@ -28574,7 +28103,6 @@ direct sunlight for a long time, the underside of the panoramic moon roof could
 become very hot and could cause burns.
 
 ### NOTICE
-`lexus_es_en_0d6233c7` | es | owners_manual | tier:3 | lang:en | layer:general | p:131
 ■To prevent damage to the panoramic
 moon roof
 ●Before opening the panoramic moon
@@ -28631,7 +28159,6 @@ Driving assist systems.............. 246
 ■Starting the engine
 
 ### P.144
-`lexus_es_en_f83eae37` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:134
 ■Driving
 1
 With the brake pedal depressed,
@@ -28640,7 +28167,6 @@ shift the shift lever to D. (P.150)
 mode, release the parking brake.
 
 ### (P.154)
-`lexus_es_en_58e9d80b` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:134
 3 Gradually release the brake pedal
 and gently depress the accelerator
 pedal to accelerate the vehicle.
@@ -28660,7 +28186,6 @@ the brake pedal.
 and shift the shift lever to P
 
 ### (P.150).
-`lexus_es_en_3bc464d8` | es | owners_manual | tier:3 | lang:en | layer:body | p:134
 3 Press the engine switch to stop the
 engine.
 4 Lock the door, making sure that
@@ -28680,7 +28205,6 @@ depress the accelerator pedal.
 The hill-start assist control will activate.
 
 ### (P.246)
-`lexus_es_en_fbb692cb` | es | owners_manual | tier:3 | lang:en | layer:engine | p:134
 ■Driving in the rain
 ●Drive carefully when it is raining, because
 visibility will be reduced, the windows
@@ -28783,7 +28307,6 @@ However, in the event of an emergency, such as if it becomes impossible
 to stop the vehicle in the normal way:
 
 ### P.344
-`lexus_es_en_3a22b5ba` | es | owners_manual | tier:3 | lang:en | layer:body | p:135
 ●Use engine braking (downshift) to
 maintain a safe speed when driving
 down a steep hill.
@@ -28992,7 +28515,6 @@ propel the vehicle forward or backward,
 causing an accident.
 
 ### NOTICE
-`lexus_es_en_0aa2ab2e` | es | owners_manual | tier:3 | lang:en | layer:engine | p:138
 ■When driving the vehicle
 ●Do not depress the accelerator and
 brake pedals at the same time while
@@ -29049,7 +28571,6 @@ the vehicle may become able to escape
 from the mud or fresh snow.
 
 ### NOTICE
-`lexus_es_en_a4719160` | es | owners_manual | tier:3 | lang:en | layer:engine | p:139
 ■When encountering flooded roads
 Do not drive on a road that has flooded
 after heavy rain etc. Doing so may cause
@@ -29114,7 +28635,6 @@ this manual to determine how this
 reduces the available cargo and luggage load capacity of your vehicle.
 
 ### (P.142)
-`lexus_es_en_2b3c7a68` | es | owners_manual | tier:3 | lang:en | layer:general | p:140
 Lexus does not recommend towing a
 trailer with your vehicle. Your vehicle is not
 designed for trailer towing.
@@ -29246,7 +28766,6 @@ dinghy towed (with 4 wheels on the
 ground) behind a motor home.
 
 ### NOTICE
-`lexus_es_en_64ee2e84` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:143
 ■To avoid serious damage to your vehicle
 Do not tow your vehicle with the four
 wheels on the ground.
@@ -29271,7 +28790,6 @@ Press the parking brake switch to
 check that the parking brake is set.
 
 ### (P.154)
-`lexus_es_en_19aebfce` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:144
 Parking brake indicator will come on.
 2 Check that the shift lever is in P.
 3 Firmly depress the brake pedal.
@@ -29332,7 +28850,6 @@ Refer to P.379 to restart the engine.
 
 ■Conditions affecting operation
 ### P.109
-`lexus_es_en_b2c7afe4` | es | owners_manual | tier:3 | lang:en | layer:body | p:145
 ■Steering lock function
 ●After turning the engine switch off and
 opening and closing the doors, the steering wheel will be locked due to the steering lock function. Operating the engine
@@ -29360,7 +28877,6 @@ inspected by your Lexus dealer immediately.
 ■Electronic key battery
 
 ### P.333
-`lexus_es_en_988b647d` | es | owners_manual | tier:3 | lang:en | layer:engine | p:145
 ■Operation of the engine switch
 ●If the switch is not pressed shortly and
 firmly, the engine switch mode may not
@@ -29388,7 +28904,6 @@ until the vehicle reaches a safe and complete stop. Activation of the steering l
 in this circumstance may lead to an accident, resulting in death or serious injury.
 
 ### NOTICE
-`lexus_es_en_0f1ee1ca` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:145
 ■When starting the engine
 ●Do not race a cold engine.
 ●If the engine becomes difficult to start
@@ -29402,7 +28917,6 @@ Stop the vehicle completely.
 and shift the shift lever to P
 
 ### (P.150).
-`lexus_es_en_5ec395ed` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:146
 3 Press the engine switch.
 4 Release the brake pedal and check
 that “ACCESSORY” or “IGNITION ON” is not shown on the
@@ -29438,7 +28952,6 @@ Pull out the mechanical key and close
 the door.
 
 ### NOTICE
-`lexus_es_en_6f171ddf` | es | owners_manual | tier:3 | lang:en | layer:general | p:146
 ■Symptoms indicating a malfunction
 with the engine switch
 If the engine switch seems to be operating somewhat differently than usual, such
@@ -29455,7 +28968,6 @@ more than 2 seconds, or press it briefly
 3 times or more in succession.
 
 ### (P.344)
-`lexus_es_en_7c7fe9b1` | es | owners_manual | tier:3 | lang:en | layer:general | p:146
 However, do not touch the engine
 switch while driving except in an emergency. Turning the engine off while
 driving will not cause loss of steering
@@ -29541,7 +29053,6 @@ If the parking brake is in manual
 mode, set the parking brake.
 
 ### (P.154)
-`lexus_es_en_cd5fe4b8` | es | owners_manual | tier:3 | lang:en | layer:engine | p:148
 2 Shift the shift lever to P.
 3 Check that “Turn Power Off” is displayed on the multi-information display and then press the engine
 switch once.
@@ -29553,17 +29064,14 @@ the shift lever in a position other
 than P
 
 ### NOTICE
-`lexus_es_en_5f4a9902` | es | owners_manual | tier:3 | lang:en | layer:engine | p:148
 ■To prevent battery discharge
 ●Do not leave the engine switch in
 
 ### ACCESSORY or IGNITION ON
-`lexus_es_en_bf8fb54a` | es | owners_manual | tier:3 | lang:en | layer:engine | p:148
 mode for long periods of time without
 the engine running.
 
 ### ●If “ACCESSORY” or “IGNITION
-`lexus_es_en_8b519c0d` | es | owners_manual | tier:3 | lang:en | layer:general | p:148
 ON” is displayed on the meter, the
 engine switch is not off.
 Exit the vehicle after turning the
@@ -29601,14 +29109,12 @@ canceled.
 downshifting to S7, S6, S5 or S4.
 
 ### (P.198)
-`lexus_es_en_1d80c85a` | es | owners_manual | tier:3 | lang:en | layer:general | p:149
 ●When switching the driving mode to
 sport mode while driving in D position.
 
 ■Restraining sudden start (Drive-Start
 Control)
 ### P.139
-`lexus_es_en_37cbf782` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:149
 ■AI-SHIFT
 The AI-SHIFT automatically selects the suitable gear according to driver performance
 and driving conditions.
@@ -29699,7 +29205,6 @@ shift knob.
 The shift lever can be shifted while the button is pressed
 
 ### P.213
-`lexus_es_en_f27ec355` | es | owners_manual | tier:3 | lang:en | layer:engine | p:151
 To drive using temporary shift range
 selection, operate the “-” paddle shift
 switch. The shift range can then be
@@ -29781,7 +29286,6 @@ Meter display
 Function
 
 ### S2 - S8
-`lexus_es_en_411086d3` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:152
 A gear in the range
 between S1 and the
 selected gear is
@@ -29829,7 +29333,6 @@ The parking brake can be set and
 released manually.
 
 ### U.S.A.
-`lexus_es_en_6c1f101b` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:154
 Canada
 1
 Push the switch to set the parking
@@ -29933,7 +29436,6 @@ and releasing) will be turned on automatically.
 ■Parking the vehicle
 
 ### P.134
-`lexus_es_en_04a89fdc` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:155
 ■Parking brake engaged warning buzzer
 A buzzer will sound if the vehicle is driven
 with the parking brake engaged. “EPB
@@ -29943,7 +29445,6 @@ speed of 3 mph [5 km/h]).
 on
 
 ### P.251
-`lexus_es_en_b0e3f1ec` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:155
 156
 4-2. Driving procedures
 Turns the brake hold system on
@@ -29968,7 +29469,6 @@ The parking brake may be released unintentionally and there is the danger of the
 vehicle moving that may lead to an accident resulting in death or serious injury.
 
 ### NOTICE
-`lexus_es_en_58459a22` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:156
 ■When parking the vehicle
 Before you leave the vehicle, shift the
 shift lever to P, set the parking brake and
@@ -30056,7 +29556,6 @@ the instructions.
 flashes
 
 ### P.358
-`lexus_es_en_3faf012f` | es | owners_manual | tier:3 | lang:en | layer:safety | p:157
 WARNING
 ■When the vehicle is on a steep incline
 Take care when using the brake hold system on a steep incline, exercise caution.
@@ -30071,7 +29570,6 @@ exceeded. Do not use the system when
 stopped on a slippery road.
 
 ### NOTICE
-`lexus_es_en_f40138ad` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:157
 ■When parking the vehicle
 The brake hold system is not designed
 for use when parking the vehicle for a
@@ -30090,7 +29588,6 @@ switch turns on
 the lights as follows:
 
 ### U.S.A.
-`lexus_es_en_d575e787` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:158
 Canada
 1
 The side marker, parking
@@ -30222,7 +29719,6 @@ position.
 Your Dealer” is displayed
 
 ### P.363
-`lexus_es_en_9d0300e2` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:159
 ■Customization
 Settings (e.g. light sensor sensitivity) can be
 changed.
@@ -30260,7 +29756,6 @@ more.
 minutes, they automatically turn off.
 
 ### NOTICE
-`lexus_es_en_1346a3ce` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:160
 ■To prevent battery discharge
 Do not leave the lights on longer than
 necessary when the engine is not running.
@@ -30424,7 +29919,6 @@ turn on even the vehicle is stopped.
 Your Dealer” is displayed
 
 ### P.363
-`lexus_es_en_dfa799b9` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:162
 163
 4-3. Operating the lights and wipers
 4
@@ -30506,7 +30000,6 @@ manual operation, or can use the
 washer.
 
 ### NOTICE
-`lexus_es_en_3b7b10b0` | es | owners_manual | tier:3 | lang:en | layer:body | p:164
 ■When the windshield is dry
 Do not use the wipers, as they may damage the windshield.
 Operating the wiper lever
@@ -30539,7 +30032,6 @@ accordance with rain volume and vehicle speed.
 Off
 
 ### 2 AUTO
-`lexus_es_en_4380aabd` | es | owners_manual | tier:3 | lang:en | layer:body | p:165
 Rain-sensing operation
 3
 *1 or
@@ -30671,7 +30163,6 @@ an accident, resulting in death or serious
 injury.
 
 ### NOTICE
-`lexus_es_en_cee8f762` | es | owners_manual | tier:3 | lang:en | layer:body | p:167
 ■When there is no washer fluid spray
 from the nozzle
 Damage to the washer fluid pump may
@@ -30703,7 +30194,6 @@ wipers will stop at the retracted position.
 A
 
 ### NOTICE
-`lexus_es_en_2242013d` | es | owners_manual | tier:3 | lang:en | layer:body | p:168
 ■When lifting the windshield wipers
 ●Do not lift the windshield wipers when
 they are in the retracted position
@@ -30733,7 +30223,6 @@ and turn the engine switch off.
 ■Fuel types
 
 ### P.397
-`lexus_es_en_7eaa29a3` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:169
 ■Fuel tank opening for unleaded gasoline
 To help prevent incorrect fueling, your vehicle has a fuel tank opening that only accommodates the special nozzle on unleaded
 fuel pumps.
@@ -30787,7 +30276,6 @@ fuel filler neck.
 ●Do not top off the fuel tank.
 
 ### NOTICE
-`lexus_es_en_9dc3318d` | es | owners_manual | tier:3 | lang:en | layer:body | p:169
 ■Refueling
 Do not spill fuel during refueling.
 Doing so may damage the vehicle, such
@@ -30805,7 +30293,6 @@ of the fuel filler door.
 ■If the fuel filler door cannot be opened
 
 ### P.376
-`lexus_es_en_bcfe6965` | es | owners_manual | tier:3 | lang:en | layer:general | p:170
 After refueling, turn the fuel tank cap
 until you hear a click. Once the cap is
 released, it will turn slightly in the
@@ -30828,12 +30315,10 @@ Driving
 ■RSA (Road Sign Assist) (if
 equipped)
 ### P.195
-`lexus_es_en_dab728c7` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:171
 ■Dynamic radar cruise control with
 full-speed range
 
 ### P.198
-`lexus_es_en_17fb9b30` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:171
 Two types of sensors, located behind
 the front grille and windshield, detect
 information necessary to operate the
@@ -31004,7 +30489,6 @@ Using the wiper and A/C function, remove
 the dirt and other attached matter.
 
 ### (P.263)
-`lexus_es_en_c9ce3088` | es | owners_manual | tier:3 | lang:en | layer:hvac | p:174
 When the temperature around the front
 camera is outside of the operational range,
 such as when the vehicle is in the sun or in an
@@ -31967,7 +31451,6 @@ sharp curve.
 • No system malfunctions are detected.
 
 ### (P.194)
-`lexus_es_en_6052372b` | es | owners_manual | tier:3 | lang:en | layer:engine | p:192
 *1: The function operates even if the vehicle
 speed is less than approximately 32 mph
 (50 km/h) when the lane centering
@@ -31998,7 +31481,6 @@ This function operates when all of the following conditions are met.
 of the multiinformation display is set to “On”.
 
 ### (P.76)
-`lexus_es_en_1fdcc881` | es | owners_manual | tier:3 | lang:en | layer:adas | p:193
 • Vehicle speed is approximately 32 mph
 (50 km/h) or more.
 • Width of traffic lane is approximately 9.8
@@ -32006,7 +31488,6 @@ ft. (3 m) or more.
 • No system malfunctions are detected.
 
 ### (P.194)
-`lexus_es_en_434e3a7e` | es | owners_manual | tier:3 | lang:en | layer:adas | p:193
 ●Lane centering function
 This function operates when all of the following conditions are met.
 • LTA is turned on.
@@ -32015,7 +31496,6 @@ of the
 multi-information display is set to “On”.
 
 ### (P.76)
-`lexus_es_en_2f1fa136` | es | owners_manual | tier:3 | lang:en | layer:adas | p:193
 • This function recognizes white (yellow)
 lane lines or the position of a preceding
 vehicle (except when the preceding vehicle is small, such as a motorcycle).
@@ -32029,7 +31509,6 @@ sharp curve.
 • No system malfunctions are detected.
 
 ### (P.194)
-`lexus_es_en_bcb69c48` | es | owners_manual | tier:3 | lang:en | layer:adas | p:193
 • Vehicle does not accelerate or decelerate by a fixed amount or more.
 • Steering wheel is not operated with a
 steering force level suitable for changing
@@ -32049,7 +31528,6 @@ conditions are met again, operation of
 the function is automatically restored.
 
 ### (P.192)
-`lexus_es_en_c6aef265` | es | owners_manual | tier:3 | lang:en | layer:steering | p:193
 ●If the operation conditions (P.190) are
 no longer met while the lane centering
 function is operating, the steering wheel
@@ -32193,7 +31671,6 @@ information is selected, a maximum
 of 3 signs can be displayed.
 
 ### (P.76)
-`lexus_es_en_247085ab` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:196
 When a tab other than the driving
 support system information is
 selected, the following types of road
@@ -32248,7 +31725,6 @@ switches and select
 , then press
 
 ### “OK”
-`lexus_es_en_72eca224` | es | owners_manual | tier:3 | lang:en | layer:adas | p:197
 4
 Press
 or
@@ -32256,7 +31732,6 @@ of the meter control
 switches and select “RSA”, then press
 
 ### “OK”
-`lexus_es_en_1baad7b1` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:197
 ■Automatic turn-off of RSA sign display
 In the following situations, a displayed
 speed limit sign and/or do not enter sign
@@ -32348,7 +31823,6 @@ Use the dynamic radar cruise control with full-speed range on freeways and highw
 Constant speed control mode
 
 ### (P.205)
-`lexus_es_en_635a2109` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:198
 System Components
 A
 B
@@ -32732,7 +32206,6 @@ Selecting constant speed control mode
 4-5. Using the driving support systems
 
 ### P.204
-`lexus_es_en_8b2a77da` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:206
 ■Dynamic radar cruise control with fullspeed range can be set when
 ●The shift lever is in D.
 ●The desired set speed can be set when
@@ -33220,7 +32693,6 @@ perform the following operations:
 ●Turn off eco air conditioning mode
 
 ### (P.267)
-`lexus_es_en_368e43b8` | es | owners_manual | tier:3 | lang:en | layer:general | p:214
 ●Adjust the fan speed (P.263, 265)
 ●Turn off Eco drive mode (P.213)
 ■Automatic deactivation of sport mode
@@ -33261,7 +32733,6 @@ pedestrians in the detection area
 behind the vehicle when backing up.
 
 ### (P.229)
-`lexus_es_en_bfc985f3` | es | owners_manual | tier:3 | lang:en | layer:adas | p:215
 ■Adjusting the buzzer volume
 The buzzer volume can be adjusted on
 the multi-information display. The volume of buzzers for the intuitive parking
@@ -33742,7 +33213,6 @@ safely. (P.208)
 properly
 
 ### P.209
-`lexus_es_en_4bc08a5d` | es | owners_manual | tier:3 | lang:en | layer:adas | p:223
 System components
 A
 B
@@ -33754,7 +33224,6 @@ Use the meter control switches to
 enable/disable the RCTA function.
 
 ### (P.77)
-`lexus_es_en_2753663a` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:224
 Vehicles without the Intuitive parking assist
 1
 Press
@@ -33809,7 +33278,6 @@ cold environments.
 ■Rear side radar sensors
 
 ### P.209
-`lexus_es_en_d2688eef` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:224
 ■Operation of the RCTA function
 The RCTA function uses rear side radar sensors to detect vehicles approaching
 from the right or left at the rear of the vehicle and alerts the driver of the presence
@@ -33819,7 +33287,6 @@ Turning the RCTA function
 on/off
 
 ### NOTICE
-`lexus_es_en_01403a8c` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:224
 ■Before using the RCTA function
 Do not place obstacles near the sensors.
 RCTA function
@@ -33894,7 +33361,6 @@ level will change between 1, 2 and 3.
 Vehicles with the Intuitive parking assist
 
 ### P.215
-`lexus_es_en_cbe19a43` | es | owners_manual | tier:3 | lang:en | layer:engine | p:226
 ■Muting a buzzer temporarily
 Vehicles without the Intuitive parking
 assist
@@ -33910,7 +33376,6 @@ manually.
 Vehicles with the Intuitive parking assist
 
 ### P.215
-`lexus_es_en_4fa49bd9` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:226
 ■Conditions under which the system will
 not detect a vehicle
 The RCTA function is not designed to
@@ -34080,7 +33545,6 @@ B
 4-5. Using the driving support systems
 
 ### (P.77)
-`lexus_es_en_44c5a4ae` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:230
 1
 Press
 or
@@ -34291,7 +33755,6 @@ pedestrians in the detection area
 behind the vehicle when backing up.
 
 ### (P.244)
-`lexus_es_en_e742dd0c` | es | owners_manual | tier:3 | lang:en | layer:safety | p:233
 WARNING
 ■Cautions regarding the use of the
 system
@@ -34411,7 +33874,6 @@ The system has determined that strongerthan-normal brake operation is necessary.
 Center Display (Panoramic view monitor):
 
 ### “BRAKE!”
-`lexus_es_en_608fd691` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:234
 Multi-information display: “BRAKE!”
 PKSB OFF indicator: Not illuminated
 Buzzer: Short beep
@@ -34420,7 +33882,6 @@ The system determined that emergency
 braking is necessary.
 
 ### NOTICE
-`lexus_es_en_f64121a5` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:234
 ■If “Parking Support Brake Unavailable” is displayed on the multi-information display and the PKSB OFF
 indicator is flashing
 If this message is displayed immediately
@@ -34444,7 +33905,6 @@ Driving
 Center Display (Panoramic view monitor):
 
 ### “BRAKE!”
-`lexus_es_en_64c6c022` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:235
 Multi-information display: “BRAKE!”
 PKSB OFF indicator: Not illuminated
 Buzzer: Short beep
@@ -34484,7 +33944,6 @@ Engine output reduced
 Example: Multi-information display:
 
 ### “BRAKE!”
-`lexus_es_en_8a47c59e` | es | owners_manual | tier:3 | lang:en | layer:engine | p:236
 Figure 3 When brake control operates
 Engine output
 A
@@ -34607,7 +34066,6 @@ Examples of function operation
 position being selected
 
 ### P.216
-`lexus_es_en_276db830` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:240
 ■The Parking Support Brake function
 (static object) will operate when
 The function will operate when the PKSB
@@ -34618,13 +34076,11 @@ WARNING
 properly
 
 ### P.217
-`lexus_es_en_64519bb0` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:240
 ■If the Parking Support Brake function
 (static objects) operates unnecessarily, such as at a railroad crossing
 
 ■Notes when washing the vehicle
 ### P.218
-`lexus_es_en_f6ae42e1` | es | owners_manual | tier:3 | lang:en | layer:general | p:240
 241
 4-5. Using the driving support systems
 4
@@ -34683,13 +34139,11 @@ When the shift lever is in N.
 operate properly
 
 ### P.219
-`lexus_es_en_5f8f314e` | es | owners_manual | tier:3 | lang:en | layer:general | p:241
 ■Situations in which the system may
 operate even if there is no possibility of a
 collision
 
 ### P.219
-`lexus_es_en_d0c70f99` | es | owners_manual | tier:3 | lang:en | layer:general | p:241
 242
 4-5. Using the driving support systems
 *: If equipped
@@ -34699,7 +34153,6 @@ in the traveling direction of the vehicle.
 depressed, or is depressed late
 
 ### P.209
-`lexus_es_en_4450f6ce` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:242
 ■The Parking Support Brake function
 (rear-crossing vehicles) will operate
 when
@@ -34724,7 +34177,6 @@ WARNING
 properly
 
 ### P.209
-`lexus_es_en_866b8d43` | es | owners_manual | tier:3 | lang:en | layer:general | p:242
 243
 4-5. Using the driving support systems
 4
@@ -34771,7 +34223,6 @@ start operating.
 operate properly
 
 ### P.219
-`lexus_es_en_1d8de149` | es | owners_manual | tier:3 | lang:en | layer:general | p:243
 244
 4-5. Using the driving support systems
 *: If equipped
@@ -34840,7 +34291,6 @@ behind your vehicle.
 function (rear pedestrians)
 
 ### P.237
-`lexus_es_en_3127bb8d` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:245
 ■Detection area of the Parking Support
 Brake function (rear pedestrians)
 The detection area of the Parking Support
@@ -34852,12 +34302,10 @@ an alert, the Parking Support Brake function (rear pedestrians) may not start op
 operate properly
 
 ### P.231
-`lexus_es_en_d3749ad9` | es | owners_manual | tier:3 | lang:en | layer:general | p:245
 ■Situations in which the system may
 operate unexpectedly
 
 ### P.231
-`lexus_es_en_8c8ce729` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:245
 WARNING
 ■If the Parking Support Brake function
 (rear pedestrians) operates unnecessarily
@@ -34870,7 +34318,6 @@ the brake pedal.)
 Brake function (rear pedestrians)
 
 ### P.229
-`lexus_es_en_ffe41f6d` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:245
 246
 4-5. Using the driving support systems
 ■ABS (Anti-lock Brake System)
@@ -34890,7 +34337,6 @@ slippery road surfaces.
 Provides cooperative control of the
 
 ### ABS, TRAC, VSC and EPS.
-`lexus_es_en_43d99de5` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:246
 Helps to maintain directional stability
 when swerving on slippery road surfaces by controlling steering performance.
 ■Secondary Collision Brake
@@ -34986,7 +34432,6 @@ come on and a message will be displayed
 on the multi-information display.
 
 ### (P.186)
-`lexus_es_en_0d311b53` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:247
 ■When the message is displayed on the
 multi-information display showing that
 TRAC has been disabled even if the
@@ -35271,7 +34716,6 @@ is maintained.
 system.
 
 ### NOTICE
-`lexus_es_en_607541dd` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:251
 ■Repairing or replacing snow tires
 Request repairs or replacement of snow
 tires from Lexus dealers or legitimate tire
@@ -35302,7 +34746,6 @@ in the vehicle.
 ■To protect the windshield wipers
 
 ### P.167
-`lexus_es_en_61796e3f` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:252
 Accelerate the vehicle slowly, keep a
 safe distance between you and the
 vehicle ahead, and drive at a reduced
@@ -35391,7 +34834,6 @@ E
 F
 
 ### NOTICE
-`lexus_es_en_e31eaafd` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:253
 ■Fitting tire chains
 The tire pressure warning valves and
 transmitters may not function correctly
@@ -35467,7 +34909,6 @@ For details on the Remote touch,
 refer to the “NAVIGATION AND
 
 ### MULTIMEDIA SYSTEM
-`lexus_es_en_53694ab7` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:256
 OWNER’S MANUAL”.
 Remote Touch operation
 A
@@ -35493,7 +34934,6 @@ the touchpad. Change the scale of the
 map.
 
 ### NOTICE
-`lexus_es_en_67795224` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:257
 ■To prevent damage to the Remote
 Touch
 Observe the following precautions. Failure to do so may cause damage to the
@@ -35517,7 +34957,6 @@ the touch screen.
 For details, refer to the “NAVIGA-
 
 ### TION AND MULTIMEDIA SYSTEM
-`lexus_es_en_9d8c18b1` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:258
 OWNER’S MANUAL”.
 The displays shown in the illustrations
 are used for example only and may differ from the actual vehicle.
@@ -35527,7 +34966,6 @@ are used for example only and may differ from the actual vehicle.
 *2: Refer to the “NAVIGATION AND
 
 ### MULTIMEDIA SYSTEM OWNER’S
-`lexus_es_en_087b3761` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:258
 MANUAL”.
 *3: This function is not made available in
 some countries or areas.
@@ -35558,7 +34996,6 @@ Select to display the general settings screen.*2
 Select to display the air conditioning control screen.
 
 ### (P.265)
-`lexus_es_en_09b4938a` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:258
 Select to adjust the contrast and
 brightness of the screens, turn
 the screen off, etc.*1, 2
@@ -35575,7 +35012,6 @@ operation of the main display, refer to
 the respective section and “NAVIGA-
 
 ### TION AND MULTIMEDIA SYSTEM
-`lexus_es_en_07ef2e11` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:259
 OWNER’S MANUAL”.
 ■Side display (12.3-inch display
 model)
@@ -35592,7 +35028,6 @@ Show/hide the side display
 *: Refer to the “NAVIGATION AND
 
 ### MULTIMEDIA SYSTEM OWNER’S
-`lexus_es_en_132f4a10` | es | owners_manual | tier:3 | lang:en | layer:interior | p:259
 MANUAL”.
 ■Screen display during low temperatures
 When the ambient temperature is
@@ -35621,7 +35056,6 @@ screen. (P.265)
 ■Automatic air conditioning system
 
 ### (P.262)
-`lexus_es_en_6a2868b2` | es | owners_manual | tier:3 | lang:en | layer:hvac | p:260
 The temperature can be adjusted individually for the driver seat and passenger seat.
 ■Seat heaters and ventilators (if
 equipped) (P.269)
@@ -35821,7 +35255,6 @@ perform the following operations:
 ●Turn off eco air conditioning mode
 
 ### (P.266)
-`lexus_es_en_97be711e` | es | owners_manual | tier:3 | lang:en | layer:hvac | p:264
 ●Adjust the fan speed
 ●Turn off Eco drive mode (P.213)
 ■When the outside temperature falls to
@@ -35850,7 +35283,6 @@ using voice commands. For details, refer to
 SYSTEM OWNER’S MANUAL”.
 ■Air conditioning filter
 ### P.331
-`lexus_es_en_7b8486ea` | es | owners_manual | tier:3 | lang:en | layer:hvac | p:264
 ■Air conditioning system refrigerant
 ●A label regarding the refrigerant of the
 air conditioning system is attached to the
@@ -35900,7 +35332,6 @@ Do not touch the outside rear view mirror surfaces, as they can become very
 hot and burn you.
 
 ### NOTICE
-`lexus_es_en_aa900469` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:265
 ■To prevent battery discharge
 Do not leave the air conditioning system
 on longer than necessary when the
@@ -35934,7 +35365,6 @@ functions can be switched on and off.
 
 “AUTO”: Set automatic mode on/off
 ### (P.267)
-`lexus_es_en_673b4757` | es | owners_manual | tier:3 | lang:en | layer:hvac | p:266
 “Off”: Turn the fan off
 “A/C”: Set cooling and dehumidification
 function
@@ -35951,13 +35381,11 @@ When the function is on, the indicator illuminates on the screen.
 Set Lexus Climate Concierge
 
 ### (P.260)
-`lexus_es_en_318804ad` | es | owners_manual | tier:3 | lang:en | layer:interior | p:266
 Adjusting the temperature for
 driver and front passenger’s seats
 separately (“DUAL” mode)
 
 ### (P.268)
-`lexus_es_en_f6735294` | es | owners_manual | tier:3 | lang:en | layer:interior | p:266
 Set eco air conditioning mode
 Air conditioning and heater output is limited to prioritize fuel economy.
 Cooling and dehumidification function
@@ -35987,7 +35415,6 @@ wheel/seat heaters/seat ventilators
 control screen (if equipped)
 
 ### (P.272)
-`lexus_es_en_b62fcba1` | es | owners_manual | tier:3 | lang:en | layer:hvac | p:267
 Adjust the left-hand side temperature setting
 Adjust the fan speed setting
 Adjust the right-hand side temperature setting
@@ -35998,7 +35425,6 @@ driver and front passenger’s seats
 separately (“DUAL” mode)
 
 ### (P.268)
-`lexus_es_en_10b70af1` | es | owners_manual | tier:3 | lang:en | layer:body | p:267
 Select the air flow mode
 ■Windshield wiper de-icer (if equipped)
 This feature is used to prevent ice from
@@ -36176,7 +35602,6 @@ and/or level indicator
 illuminates during operation.
 
 ### NOTICE
-`lexus_es_en_2201fbbb` | es | owners_manual | tier:3 | lang:en | layer:interior | p:270
 ■To prevent damage to the seat heaters and seat ventilators
 Do not put heavy objects that have an
 uneven surface on the seat and do not
@@ -36289,7 +35714,6 @@ Steering wheel heating preference in automatic mode and the automatic mode setti
 be changed. (Customizable features:
 
 ### P.408)
-`lexus_es_en_017689e8` | es | owners_manual | tier:3 | lang:en | layer:body | p:272
 A
 B
 C
@@ -36376,7 +35800,6 @@ conditions of the collision.)
 Some functions can be customized. (Customizable features: P.408)
 
 ### NOTICE
-`lexus_es_en_e02aa894` | es | owners_manual | tier:3 | lang:en | layer:interior | p:275
 ■To prevent battery discharge
 Do not leave the lights on longer than
 necessary when the engine is not running.
@@ -36433,7 +35856,6 @@ lights are on.
 ■Trunk opener main switch
 
 ### P.106
-`lexus_es_en_ba351b6c` | es | owners_manual | tier:3 | lang:en | layer:interior | p:277
 Press a button to open the console
 box.
 The console box can be opened from
@@ -36455,7 +35877,6 @@ Keep the console box closed.
 Injuries may result in the event of an accident or sudden braking.
 
 ### NOTICE
-`lexus_es_en_7ba6c3b0` | es | owners_manual | tier:3 | lang:en | layer:interior | p:277
 ■To prevent damage to the console
 box
 When the console box is open, do not
@@ -36492,7 +35913,6 @@ holder in the event of an accident or sudden braking, causing injury. If possibl
 cover hot drinks to prevent burns.
 
 ### NOTICE
-`lexus_es_en_5251f8f2` | es | owners_manual | tier:3 | lang:en | layer:interior | p:278
 ■To prevent damage to the cup holder
 ●Depending on the size of the cup, beverage can or bottle, do not use the cup
 holder in the shallow condition.
@@ -36539,13 +35959,11 @@ adjusted by utilizing GPS time information.
 For details, refer to the “NAVIGATION
 
 ### AND MULTIMEDIA SYSTEM
-`lexus_es_en_a5b48b6e` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:280
 OWNER’S MANUAL”.
 Please use as a power supply for electronic goods that use less than 12
 VDC/10 A (power consumption of
 
 ### 120 W).
-`lexus_es_en_76099dd9` | es | owners_manual | tier:3 | lang:en | layer:body | p:280
 Front
 Open the lid.
 Rear
@@ -36555,7 +35973,6 @@ Sun visors
 Vanity mirrors
 
 ### NOTICE
-`lexus_es_en_d04d628e` | es | owners_manual | tier:3 | lang:en | layer:ev | p:280
 ■To prevent battery discharge
 Do not leave the lights on longer than
 necessary when the engine is off.
@@ -36596,7 +36013,6 @@ ports
 Open the lid.
 
 ### NOTICE
-`lexus_es_en_5d6d28a7` | es | owners_manual | tier:3 | lang:en | layer:ev | p:281
 ■When the power outlet is not in use
 To avoid damaging the power outlet,
 close the power outlet lid when the
@@ -36646,7 +36062,6 @@ The “Qi” logo is a trademark of the
 Wireless Power Consortium.
 
 ### NOTICE
-`lexus_es_en_dcbf4309` | es | owners_manual | tier:3 | lang:en | layer:ev | p:282
 ■To prevent damage to the USB TypeC charging ports
 ●Do not insert foreign objects into the
 ports.
@@ -36870,7 +36285,6 @@ than designated
 ●Do not hit or apply a strong force
 
 ### NOTICE
-`lexus_es_en_7ad3bfcb` | es | owners_manual | tier:3 | lang:en | layer:ev | p:285
 ■Conditions in which the function may
 not operate correctly
 In the following conditions, it may not
@@ -36913,7 +36327,6 @@ shown below.
 Press the switch. (Raise/lower)
 
 ### NOTICE
-`lexus_es_en_0d265671` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:286
 ●When other wireless keys (that emit
 radio waves) are being used nearby
 In addition, excluding the above-mentioned, when the charger does not perform normally or the operation indicator
@@ -36937,7 +36350,6 @@ the wireless charger for a long time.
 Armrest
 
 ### NOTICE
-`lexus_es_en_a6573f82` | es | owners_manual | tier:3 | lang:en | layer:interior | p:286
 ■To prevent damage to the armrest
 Do not apply too much load on the armrest.
 Assist grips
@@ -36948,7 +36360,6 @@ or out of the vehicle or rising from your
 seat.
 
 ### NOTICE
-`lexus_es_en_1e04ede0` | es | owners_manual | tier:3 | lang:en | layer:engine | p:286
 ■To prevent damage to the assist grip
 Do not hang any heavy object or put a
 heavy load on the assist grip.
@@ -37000,7 +36411,6 @@ opening. They may get caught, causing
 injury.
 
 ### NOTICE
-`lexus_es_en_b4f70d08` | es | owners_manual | tier:3 | lang:en | layer:body | p:287
 ■To prevent battery discharge
 Do not operate the rear sunshade when
 the engine is not running.
@@ -37026,7 +36436,6 @@ The coat hooks are provided with the
 rear assist grips.
 
 ### NOTICE
-`lexus_es_en_0479dd85` | es | owners_manual | tier:3 | lang:en | layer:body | p:288
 ●To ensure normal operation of the rear
 sunshade and rear door sunshades,
 observe the following precautions:
@@ -37362,14 +36771,12 @@ Direction
 North
 
 ### “NW”
-`lexus_es_en_a185ec2a` | es | owners_manual | tier:3 | lang:en | layer:general | p:294
 Northwest
 WARNING
 ■While driving the vehicle
 Do not adjust the display. Adjust the display only when the vehicle is stopped.
 
 ### NOTICE
-`lexus_es_en_506cd63d` | es | owners_manual | tier:3 | lang:en | layer:body | p:294
 ■To avoid the compass malfunctions
 Do not place magnets or any metal
 objects near the inside rear view mirror.
@@ -37578,7 +36985,6 @@ and cause damage to the wiper blades.
 Off
 
 ### AUTO
-`lexus_es_en_8b8c5661` | es | owners_manual | tier:3 | lang:en | layer:body | p:299
 ●When the upper part of the windshield
 where the raindrop sensor is located is
 touched by hand
@@ -37613,7 +37019,6 @@ or scratched, the system may malfunction. If this occurs, consult your Lexus
 dealer.
 
 ### NOTICE
-`lexus_es_en_3ce48d3a` | es | owners_manual | tier:3 | lang:en | layer:body | p:300
 ■To prevent paint deterioration and
 corrosion on the body and components (aluminum wheels etc.)
 ●Wash the vehicle immediately in the
@@ -37726,7 +37131,6 @@ Doing so may cause electrical components etc. to malfunction or catch fire.
 or wiring in the vehicle interior wet.
 
 ### (P.28)
-`lexus_es_en_d05da4fe` | es | owners_manual | tier:3 | lang:en | layer:body | p:301
 An electrical malfunction may cause
 the airbags to deploy or not function
 properly, resulting in death or serious
@@ -37740,7 +37144,6 @@ and leading to an accident, resulting in
 death or serious injury.
 
 ### NOTICE
-`lexus_es_en_7fab1be5` | es | owners_manual | tier:3 | lang:en | layer:body | p:301
 ■Cleaning detergents
 ●Do not use the following types of
 detergent, as they may discolor the
@@ -37798,7 +37201,6 @@ remaining traces of detergent and
 water.
 
 ### NOTICE
-`lexus_es_en_81f7c005` | es | owners_manual | tier:3 | lang:en | layer:general | p:302
 ●Do not expose the vehicle to direct
 sunlight for extended periods of time.
 Park the vehicle in the shade, especially during summer.
@@ -37817,7 +37219,6 @@ Do not allow glass cleaner to contact the
 lens. Also, do not touch the lens.
 
 ### (P.171)
-`lexus_es_en_e5616d95` | es | owners_manual | tier:3 | lang:en | layer:body | p:302
 ■Cleaning the inside of the rear window
 ●Do not use glass cleaner to clean the
 rear window, as this may cause damage to the rear window defogger
@@ -37945,19 +37346,16 @@ Is the brake fluid at the
 correct level?
 
 ### (P.317)
-`lexus_es_en_78bf7127` | es | owners_manual | tier:3 | lang:en | layer:engine | p:304
 Engine coolant
 Is the engine coolant at
 the correct level?
 
 ### (P.316)
-`lexus_es_en_59cf8800` | es | owners_manual | tier:3 | lang:en | layer:engine | p:304
 Engine oil
 Is the engine oil at the
 correct level?
 
 ### (P.313)
-`lexus_es_en_56c26d9b` | es | owners_manual | tier:3 | lang:en | layer:engine | p:304
 Exhaust system
 There should not be
 any fumes or strange
@@ -37974,7 +37372,6 @@ Washer fluid
 Is there sufficient
 washer fluid?
 ### (P.319)
-`lexus_es_en_af80e5b2` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:305
 Vehicle interior
 Items
 Check points
@@ -38167,7 +37564,6 @@ level
 or SAE J1703 brake
 fluid
 ### FMVSS No.116 DOT 4
-`lexus_es_en_569b0a48` | es | owners_manual | tier:3 | lang:en | layer:engine | p:308
 or SAE J1704 brake
 fluid
 • Rag or paper towel
@@ -38177,7 +37573,6 @@ Engine coolant
 level
 
 ### (P.316)
-`lexus_es_en_cf795e80` | es | owners_manual | tier:3 | lang:en | layer:engine | p:308
 • “Toyota Super Long
 Life Coolant” or a similar high quality ethylene glycol-based
 non-silicate, non-amine,
@@ -38197,7 +37592,6 @@ adding coolant)
 Engine oil level
 
 ### (P.313)
-`lexus_es_en_917c0dd4` | es | owners_manual | tier:3 | lang:en | layer:engine | p:308
 • “Toyota Genuine
 Motor Oil” or equivalent
 • Rag or paper towel
@@ -38206,13 +37600,11 @@ adding engine oil)
 Fuses
 
 ### (P.335)
-`lexus_es_en_6c9013b1` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:308
 • Fuse with same amperage rating as original
 Headlight aim • Phillips-head screwdriver
 Light bulbs
 
 ### (P.338)
-`lexus_es_en_543a7dfe` | es | owners_manual | tier:3 | lang:en | layer:engine | p:308
 • Bulb with same number
 and wattage rating as
 original
@@ -38221,7 +37613,6 @@ Radiator and
 condenser
 
 ### (P.316)
-`lexus_es_en_fa3d7c21` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:308
 
 Items
 Parts and tools
@@ -38233,13 +37624,11 @@ Tire inflation
 pressure
 
 ### (P.328)
-`lexus_es_en_8689e4be` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:309
 • Tire pressure gauge
 • Compressed air source
 Washer fluid
 
 ### (P.319)
-`lexus_es_en_7d1fc04b` | es | owners_manual | tier:3 | lang:en | layer:engine | p:309
 • Water or washer fluid
 containing antifreeze
 (for winter use)
@@ -38277,7 +37666,6 @@ Wear safety glasses to prevent flying or
 falling material, fluid spray, etc. from getting in your eyes.
 
 ### NOTICE
-`lexus_es_en_d0a0d193` | es | owners_manual | tier:3 | lang:en | layer:body | p:309
 ■If you remove the air cleaner filter
 Driving with the air cleaner filter
 removed may cause excessive engine
@@ -38401,7 +37789,6 @@ prepare the items needed before adding oil.
 Engine oil selection
 
 ### P.390
-`lexus_es_en_e6a8b593` | es | owners_manual | tier:3 | lang:en | layer:engine | p:314
 Oil quantity (Low  Full)
 2GR-FKS engine:
 1.9 qt. (1.8 L, 1.6 Imp.qt.)
@@ -38490,7 +37877,6 @@ concerning recycling or disposal.
 reach of children.
 
 ### NOTICE
-`lexus_es_en_5ac54449` | es | owners_manual | tier:3 | lang:en | layer:engine | p:315
 ■To prevent serious engine damage
 Check the oil level on a regular basis.
 ■When replacing the engine oil
@@ -38518,18 +37904,15 @@ and non-borate coolant with long-life
 hybrid organic acid technology.
 
 ### U.S.A.:
-`lexus_es_en_ec2f11c1` | es | owners_manual | tier:3 | lang:en | layer:engine | p:316
 “Toyota Super Long Life Coolant” is a mixture of 50% coolant and 50% deionized
 water. (Minimum temperature: -31°F [-
 
 ### 35°C])
-`lexus_es_en_d3e49e93` | es | owners_manual | tier:3 | lang:en | layer:engine | p:316
 Canada:
 “Toyota Super Long Life Coolant” is a mixture of 55% coolant and 45% deionized
 water. (Minimum temperature: -44°F [-
 
 ### 42°C])
-`lexus_es_en_a9578df8` | es | owners_manual | tier:3 | lang:en | layer:engine | p:316
 For more details about engine coolant, contact your Lexus dealer.
 ■If the coolant level drops within a short
 time of replenishing
@@ -38546,7 +37929,6 @@ dirty or you are not sure of their condition, have your vehicle inspected by
 your Lexus dealer.
 
 ### NOTICE
-`lexus_es_en_29b00fca` | es | owners_manual | tier:3 | lang:en | layer:engine | p:316
 ●Be sure the engine oil filler cap is properly tightened.
 Checking the engine coolant
 A
@@ -38560,7 +37942,6 @@ is removed, causing serious injuries, such
 as burns.
 
 ### NOTICE
-`lexus_es_en_5af47a50` | es | owners_manual | tier:3 | lang:en | layer:engine | p:316
 ■When adding coolant
 Coolant is neither plain water nor
 straight antifreeze. The correct mixture
@@ -38585,7 +37966,6 @@ prepare the necessary items.
 Fluid type
 
 ### FMVSS No.116 DOT 4 or SAE J1704
-`lexus_es_en_91b3d2cd` | es | owners_manual | tier:3 | lang:en | layer:engine | p:317
 brake fluid
 Item
 Clean funnel
@@ -38619,7 +37999,6 @@ If you still experience discomfort, see a
 doctor.
 
 ### NOTICE
-`lexus_es_en_01116c8f` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:317
 ■If the fluid level is low or high
 It is normal for the brake fluid level to go
 down slightly as the brake pads wear out
@@ -38730,7 +38109,6 @@ the battery. There is a possible danger
 that the battery may explode.
 
 ### NOTICE
-`lexus_es_en_61fd5eef` | es | owners_manual | tier:3 | lang:en | layer:ev | p:319
 ■When recharging the battery
 Never recharge the battery while the
 engine is running. Also, be sure all accessories are turned off.
@@ -38743,7 +38121,6 @@ alcohol and may catch fire if spilled on
 the engine etc.
 
 ### NOTICE
-`lexus_es_en_d757d52d` | es | owners_manual | tier:3 | lang:en | layer:body | p:319
 ■Do not use any fluid other than
 washer fluid
 Do not use soapy water or engine antifreeze instead of washer fluid.
@@ -38877,7 +38254,6 @@ Do not use tires if you do not know
 how they were used previously.
 
 ### NOTICE
-`lexus_es_en_f860aa5d` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:321
 ■Driving on rough roads
 Take particular care when driving on
 roads with loose surfaces or potholes.
@@ -38938,7 +38314,6 @@ the tire inflation pressure after inflation
 pressure has been adjusted.
 
 ### NOTICE
-`lexus_es_en_08b4761b` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:322
 ●Be sure to use proper tire inflation
 pressure. If tires are under-inflated,
 they may be damaged more severely.
@@ -39023,7 +38398,6 @@ Installing tire pressure warning
 valves and transmitters
 
 ### NOTICE
-`lexus_es_en_0ba17b5a` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:323
 ■Repairing or replacing tires, wheels,
 tire pressure warning valves, transmitters and tire valve caps
 ●When removing or fitting the wheels,
@@ -39046,7 +38420,6 @@ size. (When there are multiple specified pressures)
 After registering the ID codes.
 
 ### (P.326)
-`lexus_es_en_642a6337` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:324
 When the tire pressure warning system is initialized, the current tire inflation pressure is set as the benchmark
 pressure.
 ■How to initialize the tire pressure
@@ -39085,7 +38458,6 @@ A message is displayed on the multi-information display. Also, “--” is displ
 inflation pressure of each tire on the multiinformation display while the tire pressure
 
 ### NOTICE
-`lexus_es_en_f91098f4` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:324
 ●Make sure to install the tire valve caps.
 If the tire valve caps are not installed,
 water could enter the tire pressure
@@ -39105,7 +38477,6 @@ the tire pressure warning valve and
 transmitter when replacing the tire.
 
 ### (P.323)
-`lexus_es_en_ec40c0ad` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:324
 Initializing the tire pressure
 warning system
 325
@@ -39321,7 +38692,6 @@ pressure and tire size are displayed on
 the tire and loading information label.
 
 ### (P.395)
-`lexus_es_en_6aa30eb9` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:328
 Tire valve
 Tire pressure gauge
 1
@@ -39402,7 +38772,6 @@ expansion joints, sharp edges in the
 road, etc.)
 
 ### NOTICE
-`lexus_es_en_4a467806` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:329
 ■When inspecting and adjusting tire
 inflation pressure
 Be sure to put the tire valve caps back
@@ -39461,7 +38830,6 @@ Doing so could cause the tire to leak air
 during driving, possibly causing an accident.
 
 ### NOTICE
-`lexus_es_en_12fe4be4` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:330
 ■Replacing tire pressure warning
 valves and transmitters
 ●Because tire repair or replacement
@@ -39526,7 +38894,6 @@ continuously, replace the air conditioning
 filter.
 
 ### NOTICE
-`lexus_es_en_aeb4f950` | es | owners_manual | tier:3 | lang:en | layer:maintenance | p:332
 ■When using the air conditioning system
 ●Make sure that a filter is always
 installed.
@@ -39614,7 +38981,6 @@ extremely high temperatures.
 ●Do not burn, break or cut a battery.
 
 ### NOTICE
-`lexus_es_en_e3d814e8` | es | owners_manual | tier:3 | lang:en | layer:engine | p:334
 ■When replacing the battery
 Use a screwdriver of appropriate size.
 Applying excessive force may deform or
@@ -39708,7 +39074,6 @@ as a temporary fix.
 ●Do not modify the fuses or fuse boxes.
 
 ### NOTICE
-`lexus_es_en_0a9e6d98` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:336
 ■Before replacing fuses
 Have the cause of electrical overload
 determined and repaired by your Lexus
@@ -40123,7 +39488,6 @@ parts may be damaged, the vehicle may
 fly off the truck.
 
 ### NOTICE
-`lexus_es_en_cd3aec83` | es | owners_manual | tier:3 | lang:en | layer:engine | p:348
 ■To prevent damage to the vehicle
 when towing using a wheel-lift type
 truck
@@ -40141,7 +39505,6 @@ Do not tow with a sling-type truck to prevent body damage.
 Using a flatbed truck
 
 ### NOTICE
-`lexus_es_en_146fc650` | es | owners_manual | tier:3 | lang:en | layer:engine | p:348
 ■To prevent damage to the vehicle
 when towing with a sling-type truck
 Do not tow with a sling-type truck, either
@@ -40167,7 +39530,6 @@ the engine
 when braking
 
 ### NOTICE
-`lexus_es_en_5a4f39c1` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:349
 ■Recreational towing (behind motor
 home, etc.) (AWD models)
 Never dinghy tow your vehicle to prevent causing serious damage to the
@@ -40203,7 +39565,6 @@ supply of fuel to the engine.
 Restarting the engine
 
 ### NOTICE
-`lexus_es_en_c321bb3d` | es | owners_manual | tier:3 | lang:en | layer:engine | p:350
 ■Before starting the engine
 Inspect the ground under the vehicle.
 If you find that fuel has leaked onto the
@@ -40226,7 +39587,6 @@ Warning light
 Details/Actions
 
 ### (U.S.A.)
-`lexus_es_en_44486922` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:351
 or
 (red)
 (Canada)
@@ -40269,7 +39629,6 @@ Warning light
 Details/Actions
 
 ### (U.S.A.)
-`lexus_es_en_ad846860` | es | owners_manual | tier:3 | lang:en | layer:safety | p:352
 or
 (Canada)
 Indicates a malfunction in:
@@ -40296,7 +39655,6 @@ Warning light
 Details/Actions
 
 ### (U.S.A.)
-`lexus_es_en_6ea8a2ac` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:353
 or
 (Canada)
 Indicates a malfunction in:
@@ -40388,7 +39746,6 @@ Indicates a malfunction in the LTA (Lane Tracing Assist)
 Follow the instructions displayed on the multi-information display.
 
 ### (P.194)
-`lexus_es_en_f69c3d9b` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:355
 Warning light
 Details/Actions
 (flashes)
@@ -40402,7 +39759,6 @@ sensor being dirty or covered with ice, etc.
 Follow the instructions displayed on the multi-information display.
 
 ### (P.218)
-`lexus_es_en_a6d373e5` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:355
 356
 7-2. Steps to take in an emergency
 ■RCTA OFF indicator (warning buzzer)
@@ -40420,7 +39776,6 @@ dirt, etc. (P.209)
 Follow the instructions displayed on the multi-information display.
 
 ### (P.224)
-`lexus_es_en_a870f422` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:356
 Warning light
 Details/Actions
 (flashes)
@@ -40433,7 +39788,6 @@ Indicates that the function temporarily cannot be used due to the camera being d
 Follow the instructions displayed on the multi-information display.
 
 ### (P.230, 361)
-`lexus_es_en_794c6bd9` | es | owners_manual | tier:3 | lang:en | layer:sensors | p:356
 Warning light
 Details/Actions
 (flashes)
@@ -40447,7 +39801,6 @@ sensor being dirty or covered with ice, etc.
 Follow the instructions displayed on the multi-information display.
 
 ### (P.237, 361)
-`lexus_es_en_1ff1343f` | es | owners_manual | tier:3 | lang:en | layer:adas | p:356
 357
 7-2. Steps to take in an emergency
 7
@@ -40467,12 +39820,10 @@ corrective action may be necessary.
 Follow the instructions displayed on the multi-information display.
 
 ### (P.174, 361)
-`lexus_es_en_74880e1a` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:357
 If the PCS (Pre-Collision System) or VSC (Vehicle Stability Control)
 system is disabled, the PCS warning light will illuminate.
 
 ### P.186
-`lexus_es_en_7be1e3c6` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:357
 Warning light
 Details/Actions
 Indicates a malfunction in:
@@ -40485,7 +39836,6 @@ Details/Actions
 (flashes)
 
 ### (U.S.A.)
-`lexus_es_en_588743a4` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:357
 or
 (flashes)
 (Canada)
@@ -40520,7 +39870,6 @@ switch, seat belt pretensioners, airbags,
 interconnecting wiring and power sources.
 
 ### (P.28)
-`lexus_es_en_ce7ebf20` | es | owners_manual | tier:3 | lang:en | layer:steering | p:358
 ■Electric power steering system warning
 light (warning buzzer)
 When the battery charge becomes insufficient or the voltage temporarily drops, the
@@ -40566,7 +39915,6 @@ A buzzer sounds and the warning light comes on and flashes to indicate
 that the master warning system has detected a malfunction.
 
 ### P.361
-`lexus_es_en_9d4f531e` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:358
 359
 7-2. Steps to take in an emergency
 7
@@ -40585,7 +39933,6 @@ few minutes.
 ■Conditions that the tire pressure warning system may not function properly
 
 ### P.323
-`lexus_es_en_613c74e9` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:359
 WARNING
 ■If both the ABS and the brake system
 warning lights remain on
@@ -40688,7 +40035,6 @@ to ensure that the replacement or alternate tires and wheels allow the TPMS
 (tire pressure warning system) to continue to function properly.
 
 ### NOTICE
-`lexus_es_en_a9293419` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:360
 ■To ensure the tire pressure warning
 system operates properly
 Do not install tires with different specifications or makers, as the tire pressure
@@ -40922,7 +40268,6 @@ hard, flat surface.
 Turn on the emergency flashers.
 
 ### (P.344)
-`lexus_es_en_e6e07acd` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:365
 NOTICE
 ■If “High Power Consumption Power
 to Climate Temporarily Limited” is
@@ -41053,7 +40398,6 @@ vocally before lowering.
 Wheel lock nut (if equipped)
 
 ### NOTICE
-`lexus_es_en_484b3bff` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:368
 Do not use an impact wrench. Using an
 impact wrench may cause permanent
 damage to wheel lock nut and wheel lock
@@ -41076,7 +40420,6 @@ Remove the auxiliary box.
 secures the spare tire.
 
 ### NOTICE
-`lexus_es_en_fc4e4d9b` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:369
 ■To prevent damage to luggage mat
 When closing the trunk lid, do not leave
 the luggage mat lever hooked on the
@@ -41202,7 +40545,6 @@ and only in an emergency.
 pressure of the compact spare tire.
 
 ### (P.395)
-`lexus_es_en_4ab9d206` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:372
 ■After completing the tire change
 The tire pressure warning system must be
 reset. (P.324)
@@ -41254,7 +40596,6 @@ not operate correctly:
 • ABS & Brake assist
 
 ### • VSC
-`lexus_es_en_4fd43050` | es | owners_manual | tier:3 | lang:en | layer:safety | p:372
 373
 7-2. Steps to take in an emergency
 7
@@ -41262,12 +40603,10 @@ When trouble arises
 WARNING
 
 ### • TRAC
-`lexus_es_en_281c47b3` | es | owners_manual | tier:3 | lang:en | layer:adas | p:373
 • Dynamic radar cruise control with fullspeed range
 • PCS (Pre-Collision System)
 
 ### • EPS
-`lexus_es_en_28dfd1d4` | es | owners_manual | tier:3 | lang:en | layer:adas | p:373
 • Adaptive Variable Suspension system
 (if equipped)
 • LTA (Lane Tracing Assist)
@@ -41298,7 +40637,6 @@ of personal injury during a collision or
 sudden braking.
 
 ### NOTICE
-`lexus_es_en_01047514` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:373
 ■Be careful when driving over bumps
 with the compact spare tire installed
 on the vehicle
@@ -41331,12 +40669,10 @@ Refuel the vehicle. (P.169)
 Try to restart the engine again following correct starting procedures.
 
 ### (P.144)
-`lexus_es_en_096e1eef` | es | owners_manual | tier:3 | lang:en | layer:engine | p:374
 There may be a malfunction in the
 engine immobilizer system.
 
 ### (P.59)
-`lexus_es_en_bade8133` | es | owners_manual | tier:3 | lang:en | layer:steering | p:374
 There may be a malfunction in the
 steering lock system.
 One of the following may be the cause
@@ -41344,7 +40680,6 @@ of the problem:
 The battery may be discharged.
 
 ### (P.379)
-`lexus_es_en_e36fae79` | es | owners_manual | tier:3 | lang:en | layer:ev | p:374
 The battery terminal connections
 may be loose or corroded.
 The engine starting system may be
@@ -41360,7 +40695,6 @@ may be disconnected.
 The battery may be discharged.
 
 ### (P.379)
-`lexus_es_en_5bfe6b5b` | es | owners_manual | tier:3 | lang:en | layer:steering | p:374
 There may be a malfunction in the
 steering lock system.
 Contact your Lexus dealer if the problem
@@ -41397,7 +40731,6 @@ Press the parking brake switch to
 check that the parking brake is set.
 
 ### (P.154)
-`lexus_es_en_1960b688` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:375
 Parking brake indicator will come on.
 2 Shift the shift lever to P.
 3 Turn the engine switch to ACCESSORY mode.
@@ -41418,7 +40751,6 @@ safe place such as your wallet, not in
 the vehicle.
 
 ### NOTICE
-`lexus_es_en_2454ce90` | es | owners_manual | tier:3 | lang:en | layer:body | p:375
 ■When an electronic key is lost
 If the electronic key remains lost, the risk
 of vehicle theft increases significantly.
@@ -41458,7 +40790,6 @@ doors and trunk can be opened and
 the engine can be started by following the procedure below.
 
 ### NOTICE
-`lexus_es_en_3fb69b51` | es | owners_manual | tier:3 | lang:en | layer:body | p:376
 ■In case of a smart access system with
 push-button start malfunction or
 other key-related problems
@@ -41541,7 +40872,6 @@ The engine does not start and modes will be
 changed each time the switch is pressed.
 
 ### (P.147)
-`lexus_es_en_587dc8d2` | es | owners_manual | tier:3 | lang:en | layer:body | p:378
 WARNING
 ■When using the mechanical key and
 operating the power windows or
@@ -41573,7 +40903,6 @@ cables, depending on the situation, the
 alarm may activate and doors locked.
 
 ### (P.61)
-`lexus_es_en_c1c897f8` | es | owners_manual | tier:3 | lang:en | layer:body | p:379
 2 Open the hood. (P.310)
 3 Connect a positive jumper cable clamp to
 on your vehicle and connect the
@@ -41650,7 +40979,6 @@ vehicle inspected at your Lexus dealer.
 ●Some systems may require initialization.
 
 ### (P.419)
-`lexus_es_en_9609bf9f` | es | owners_manual | tier:3 | lang:en | layer:ev | p:381
 ■When removing the battery terminals
 When the battery terminals are removed,
 the information stored in the ECU is
@@ -41760,7 +41088,6 @@ close to the hold down clamp, the battery
 fluid (sulfuric acid) may leak.
 
 ### NOTICE
-`lexus_es_en_e8164a6b` | es | owners_manual | tier:3 | lang:en | layer:engine | p:382
 ■When handling jumper cables
 When connecting the jumper cables,
 ensure that they do not become entangled in the cooling fan or engine drive
@@ -41857,7 +41184,6 @@ High temperature steam or coolant
 could spray out.
 
 ### NOTICE
-`lexus_es_en_74ceb7d1` | es | owners_manual | tier:3 | lang:en | layer:engine | p:384
 ■When adding engine coolant
 Add coolant slowly after the engine has
 cooled down sufficiently. Adding cool
@@ -41911,7 +41237,6 @@ accident resulting in death or serious
 injury.
 
 ### NOTICE
-`lexus_es_en_63200215` | es | owners_manual | tier:3 | lang:en | layer:general | p:385
 ■To avoid damaging the transmission
 and other components
 ●Avoid spinning the front wheels and
@@ -42031,7 +41356,6 @@ ILSAC GF-6A multigrade engine oil
 Recommended viscosity:
 
 ### SAE 0W-20
-`lexus_es_en_39011e3d` | es | owners_manual | tier:3 | lang:en | layer:maintenance | p:390
 SAE 0W-20 is the best choice for
 good fuel economy and good starting
 in cold weather.
@@ -42102,7 +41426,6 @@ ILSAC GF-6B multigrade engine oil
 Recommended viscosity:
 
 ### SAE 0W-16
-`lexus_es_en_b6693869` | es | owners_manual | tier:3 | lang:en | layer:engine | p:391
 SAE 0W-16 is the best choice for
 good fuel economy and good starting
 in cold weather.
@@ -42155,14 +41478,12 @@ A25A-FKS engine
 Make
 
 ### DENSO FK20HBR8
-`lexus_es_en_2018fa97` | es | owners_manual | tier:3 | lang:en | layer:general | p:392
 DENSO FC16HR-Q8
 Gap
 0.031 in. (0.8 mm)
 0.031 in. (0.8 mm)
 
 ### NOTICE
-`lexus_es_en_53ca211b` | es | owners_manual | tier:3 | lang:en | layer:general | p:392
 ■Iridium-tipped spark plugs
 Use only iridium-tipped spark plugs. Do not adjust the spark plug gap.
 393
@@ -42197,7 +41518,6 @@ Fluid type
 Toyota Genuine ATF WS
 
 ### NOTICE
-`lexus_es_en_8df69799` | es | owners_manual | tier:3 | lang:en | layer:drivetrain | p:393
 ■Automatic transmission fluid type
 Using transmission fluid other than the above type may cause abnormal noise or vibration, or damage the transmission of your vehicle.
 Transfer (AWD models)
@@ -42239,7 +41559,6 @@ to 2 seconds: turns off
 Fluid type
 
 ### FMVSS No.116 DOT 3 or SAE J1703
-`lexus_es_en_e8dc2e01` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:394
 FMVSS No.116 DOT 4 or SAE J1704
 Steering
 Free play
@@ -42257,7 +41576,6 @@ Tires and wheels
 Tire size
 
 ### 215/55R17 94V, T155/70D17 110M
-`lexus_es_en_b8f75ce3` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:395
 (spare)
 Tire inflation pressure
 (Recommended cold tire inflation pressure)
@@ -42276,7 +41594,6 @@ Wheel nut torque
 Tire size
 
 ### 235/45R18 94V, T155/70D17 110M
-`lexus_es_en_2f9a57af` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:395
 (spare)
 Tire inflation pressure
 (Recommended cold tire inflation pressure)
@@ -42302,7 +41619,6 @@ Wheel nut torque
 Tire size
 
 ### 235/40R19 92V, T155/70D17 110M
-`lexus_es_en_b51f3306` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:396
 (spare)
 Tire inflation pressure
 (Recommended cold tire inflation pressure)
@@ -42326,7 +41642,6 @@ Type
 Front turn signal lights
 
 ### 7444NA
-`lexus_es_en_a87bc95c` | es | owners_manual | tier:3 | lang:en | layer:general | p:396
 28/8*
 Wedge base
 bulbs (amber)
@@ -42379,7 +41694,6 @@ that could contain more than 15% ethanol, including from any pump labeled
 E30 (30% ethanol [
 
 ### ]), E50 (50%
-`lexus_es_en_fd05010d` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:397
 ethanol [
 ]), E85 (85% ethanol [
 ])
@@ -42419,7 +41733,6 @@ C
 8-1. Specifications
 
 ### NOTICE
-`lexus_es_en_1bf05dd8` | es | owners_manual | tier:3 | lang:en | layer:engine | p:398
 ■Notice on fuel quality
 ●Do not use improper fuels. If improper
 fuels are used, the engine will be damaged.
@@ -42460,7 +41773,6 @@ Radial tires or bias-ply tires
 A radial tire has “RADIAL” on the sidewall. A tire not marked “RADIAL” is a bias-ply tire.
 
 ### TUBELESS or TUBE TYPE
-`lexus_es_en_d3fc61e0` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:399
 A tubeless tire does not have a tube and air is directly put into the tire. A tube type tire has a
 tube inside the tire and the tube maintains the air pressure.
 Load limit at maximum cold tire inflation pressure (P.403)
@@ -42495,7 +41807,6 @@ Radial tires or bias-ply tires
 A radial tire has “RADIAL” on the sidewall. A tire not marked “RADIAL” is a bias-ply tire.
 
 ### TUBELESS or TUBE TYPE
-`lexus_es_en_a41dadab` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:400
 A tubeless tire does not have a tube and air is directly put into the tire. A tube type tire has a
 tube inside the tire and the tube maintains the air pressure.
 Load limit at maximum cold tire inflation pressure (P.403)
@@ -42503,7 +41814,6 @@ Maximum cold tire inflation pressure (P.403)
 This means the pressure to which a tire may be inflated.
 
 ### “TEMPORARY USE ONLY”
-`lexus_es_en_fcd8e119` | es | owners_manual | tier:3 | lang:en | layer:general | p:400
 A compact spare tire is identified by the phrase “TEMPORARY USE ONLY” molded on
 its sidewall. This tire is designed for temporary emergency use only.
 A
@@ -42937,7 +42247,6 @@ For details on the Remote Touch, refer
 to the “NAVIGATION AND MULTI-
 
 ### MEDIA SYSTEM OWNER’S MAN-
-`lexus_es_en_895acd2c` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:408
 UAL”.
 ■During customization
 Stop the vehicle in a safe place, apply the
@@ -42967,7 +42276,6 @@ and enter the vehicle. This may lead to
 death or a serious health hazard.
 
 ### NOTICE
-`lexus_es_en_580c4098` | es | owners_manual | tier:3 | lang:en | layer:general | p:408
 ■During customization
 To prevent battery discharge, ensure
 that the engine is running while customizing features.
@@ -43012,7 +42320,6 @@ consumption
 Customizable items:
 
 ### P.77
-`lexus_es_en_111d06c5` | es | owners_manual | tier:3 | lang:en | layer:lighting | p:409
 
 O
 
@@ -43168,7 +42475,6 @@ Vehicle specifications
 ■Smart access system with push-button start and wireless remote control
 
 ### (P.96, 107)
-`lexus_es_en_45d01624` | es | owners_manual | tier:3 | lang:en | layer:body | p:411
 ■Smart access system with push-button start (P.96, 107)
 Function
 Default setting Customized setting
@@ -43863,13 +43169,11 @@ After reconnecting or changing the
 battery
 
 ### P.218
-`lexus_es_en_8944b8b2` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:419
 PKSB (Parking Support Brake)*
 After reconnecting or changing the
 battery
 
 ### P.238
-`lexus_es_en_141f26cf` | es | owners_manual | tier:3 | lang:en | layer:wheels | p:419
 Tire pressure warning system
 • When rotating the tires.
 • When the tire inflation pressure is
@@ -43883,7 +43187,6 @@ traveling speed.
 Power windows
 When functioning abnormally
 ### P.129
-`lexus_es_en_b104a124` | es | owners_manual | tier:3 | lang:en | layer:steering | p:419
 Lexus parking assist monitor*
 • Battery has been reinstalled.
 • The steering wheel has been
@@ -43893,7 +43196,6 @@ being reinstalled.
 Refer to “NAV-
 
 ### OWNER’S
-`lexus_es_en_8d4e3ba3` | es | owners_manual | tier:3 | lang:en | layer:steering | p:419
 MANUAL”.
 420
 8-3. Items to initialize
@@ -43907,19 +43209,16 @@ being reinstalled.
 Refer to the
 
 ### OWNER’S
-`lexus_es_en_6d3135bb` | es | owners_manual | tier:3 | lang:en | layer:maintenance | p:420
 MANUAL”.
 Message indicating maintenance is
 required
 After the maintenance is performed
 
 ### P.303
-`lexus_es_en_e19a2aba` | es | owners_manual | tier:3 | lang:en | layer:engine | p:420
 Oil maintenance
 After the maintenance is performed
 
 ### P.315
-`lexus_es_en_db7aa589` | es | owners_manual | tier:3 | lang:en | layer:interior | p:420
 Item
 When to initialize
 Reference
@@ -44003,7 +43302,6 @@ Utilisation adéquate des ceintures de sécurité
 Entretien et soin
 
 ### AVERTISSEMENT
-`lexus_es_en_4209aef4` | es | owners_manual | tier:3 | lang:en | layer:interior | p:423
 ■Dommages et usure de la ceinture de
 sécurité
 Vérifiez périodiquement le système de
@@ -44096,14 +43394,12 @@ Q
 R
 
 ### AVERTISSEMENT
-`lexus_es_en_dd3cdc3c` | es | owners_manual | tier:3 | lang:en | layer:safety | p:426
 ■Précautions relatives aux coussins
 gonflables SRS
 Observez les précautions suivantes en
 ce qui concerne les coussins gonflables
 
 ### SRS.
-`lexus_es_en_b7dad6cc` | es | owners_manual | tier:3 | lang:en | layer:interior | p:426
 Négliger de le faire pourrait occasionner
 des blessures graves, voire mortelles.
 ●Le conducteur et tous les passagers
@@ -44117,7 +43413,6 @@ dispositifs supplémentaires qui doivent
 For owners
 
 ### AVERTISSEMENT
-`lexus_es_en_5ba44844` | es | owners_manual | tier:3 | lang:en | layer:safety | p:427
 ●Le coussin gonflable SRS du conducteur se déploie avec une force considérable et peut occasionner des
 blessures graves, voire mortelles,
 notamment lorsque le conducteur se
@@ -44185,7 +43480,6 @@ avant soit assis bien droit.
 9-1. For owners
 
 ### AVERTISSEMENT
-`lexus_es_en_1a3a515f` | es | owners_manual | tier:3 | lang:en | layer:general | p:428
 ●Le déploiement d’un coussin gonflable
 risque d’infliger des blessures graves,
 voire mortelles, aux bébés et aux
@@ -44234,7 +43528,6 @@ l’extérieur du véhicule.
 For owners
 
 ### AVERTISSEMENT
-`lexus_es_en_fd74ded1` | es | owners_manual | tier:3 | lang:en | layer:interior | p:429
 ●Ne fixez et n’appuyez rien sur des
 zones telles que la planche de bord, le
 tampon de volant ou encore la partie
@@ -44303,7 +43596,6 @@ Boulon de réglage A (vertical)
 Boulon de réglage B (horizontal)
 
 ### AVERTISSEMENT
-`lexus_es_en_77e70e3b` | es | owners_manual | tier:3 | lang:en | layer:interior | p:430
 ■Modification et mise au rebut des
 composants du système de coussins
 gonflables SRS
@@ -44413,7 +43705,6 @@ new genuine mechanical keys can
 be made by your Lexus dealer.
 
 ### (P.375)
-`lexus_es_en_429807a7` | es | owners_manual | tier:3 | lang:en | layer:body | p:434
 If you lose your electronic keys, the
 risk of vehicle theft increases significantly. Contact your Lexus dealer
 immediately. (P.375)
@@ -44449,7 +43740,6 @@ detectable inside the vehicle?
 
 Is the steering wheel unlocked?
 ### (P.145)
-`lexus_es_en_c5a4253f` | es | owners_manual | tier:3 | lang:en | layer:body | p:434
 Is the electronic key battery weak or
 depleted?
 If you have a problem, check the
@@ -44472,7 +43762,6 @@ temporary way. (P.378)
 Is the battery discharged?
 
 ### (P.379)
-`lexus_es_en_fdafbe56` | es | owners_manual | tier:3 | lang:en | layer:body | p:435
 Is the engine switch in IGNITION
 ON mode?
 If you cannot release the shift lever
@@ -44489,7 +43778,6 @@ window lock switch is pressed. (P.124)
 operated if the vehicle is left in
 
 ### ACCESSORY or IGNITION ON
-`lexus_es_en_f96879ee` | es | owners_manual | tier:3 | lang:en | layer:brakes | p:435
 mode (the engine is not running) for
 a period of time. (P.147)
 The seat belt reminder light is flashing
@@ -44505,7 +43793,6 @@ a door during setting the alarm?
 The sensor detects it and the alarm sounds.
 
 ### (P.60)
-`lexus_es_en_f6b7eba8` | es | owners_manual | tier:3 | lang:en | layer:engine | p:435
 To stop the alarm, turn the engine
 switch to IGNITION ON mode, or
 start the engine.
@@ -44551,7 +43838,6 @@ Alphabetical index
 A
 
 ### MANUAL”.
-`lexus_es_en_6c7bebe3` | es | owners_manual | tier:3 | lang:en | layer:infotainment | p:449
 б Audio/video system
 б Navigation system
 б Lexus parking assist monitor
@@ -44597,7 +43883,6 @@ Tire pressure warning system
 464
 
 ### GAS STATION INFORMATION
-`lexus_es_en_b3f2a51e` | es | owners_manual | tier:3 | lang:en | layer:body | p:464
 Auxiliary catch lever (P.310)
 Trunk opener (P.102)
 Fuel filler door opener (P.170)
@@ -44613,6 +43898,5 @@ Fuel type
 Unleaded gasoline only
 
 ### P.395
-`lexus_es_en_dd69367f` | es | owners_manual | tier:3 | lang:en | layer:engine | p:464
 Engine oil capacity (Drain and
 refill  reference)

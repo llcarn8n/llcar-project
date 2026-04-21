@@ -1,3 +1,10 @@
+---
+brand: mini
+model: cooper
+generation: f56_2013
+source: kb
+---
+
 # Min Workshop Manual
 
 Scanned to PDF by:
@@ -25,10 +32,6 @@ Saloon, Countryman and Traveller Clubman, Estate and 1275 GT : Van, Pick-up and 
 Publication No. AKD 4935 (7th Edition)
 
 # British Leyland (Austin-Morris) Limited Service diviston, Cowley, Oxford, England
-
-# INTRODUCTION
-
-# DESCRIPTION
 
 This Manual is intended to asst the skilled mechanic in carrying out repairs and replacements in a minimum :ime.
 
@@ -63,8 +66,6 @@ All British Leyland parts and Unipart replacements have the full backing of the 
 
 All rightreeNoart oti publiai maye rruce steia eralsystmor tamiteany fomelt mchanicaoireman ihourie peisioriLendusin-oriieeie Division.
 
-# INTRODUCTION
-
 # SPECIFICATION
 
 Purchasers are advised that the specification details set out in this Manual apply to a range of vehicles and not to any particular vehicle. For the specification of any particular vehicle purchasers should consult their Distributor or Dealer.
@@ -94,8 +95,6 @@ PAGES Introduction 2 Data Contents . 6 General Data . General Data 1-33 ●Tunin
 Engine AA Ignition . . B,Ba Cooling System .. . . C Fuel System “ . D, Da, D . Clutch .. . .. . E Transmission . . . F,Fa Drive Shafts … . . . . G Rear Suspension .. .. . . H Steering . . … . J Front Suspension .. …… . K Hydraulic Dampers … . . . . L Braking System.. ... . . M,Mb Electrical .. . . .. N,Nb Body...  . .. . . R,Rb Service Tools ... . S
 
 # DATA CONTENTS
-
-# General Data
 
 Mini Mk. I and I (848 c.c.) and Mk. II (998 c.c.) General Data 1-9   
 Mini-Cooper (997 c.c. and 998 c.c.) General Data 10-13   
@@ -128,8 +127,6 @@ Mini Clubman — SWEDEN (998 c.c.) Tuning Data 12
 # GENERAL DATA
 
 MINI MK. I & II (848 c.c.) & MK. II (998 c.c.)
-
-# ENGINE
 
 # (848 c.c.)
 
@@ -191,8 +188,6 @@ m rт б0015 to б0035 in. (-038 to б089 mm.).
 MINI MK. I & II (848 c.c.) & MK. II (998 c.c.)-continued
 
 # (848 c.c.)
-
-# (998 c.c.)
 
 Oil control type .. Slotted scraper. Width .. . . б124 to б125 in. (3.15 to 3.175 mm.). Thickness ... 095 to б101 in. (2б41 to 2б56 mm.). Fitted gap .. 007 to -012 in. (б178 to 305 mm.). Clearance in groove •\* 0015 to -0035 in. (038 to -089 mm.).
 
@@ -279,8 +274,6 @@ MINI MK.I & II (848 c.c.) & MK. II (998 c.c.)-continued
 
 # (848 c.c.)
 
-# (998 c.c.)
-
 Delivery rate: PD type 45 pints/hr. (25-5 litres/hr.). SP and AUF 201 type 56 pints/hr. (32 litres/hr.).   
 Delivery pressure: PD type . . 2 to 3 1b./sq. in. (б14 to б21 kg./cm.2). SP and AUF 201 type .. . . 2 to 3 1b./sq. in. (б17 to -21 kg./cm.2).
 
@@ -290,8 +283,6 @@ BMC single dry plate Diameter 7 in. (180.9 mm.). Facing material Wound yarn. Pre
 Diaphragm-spring clutch Make .. . • Borg and Beck. Diameter 7 in. (180б9 mm.). Facing material . Wound yarn. Diaphragm-spring colour code Brown. Light green.
 
 # TRANSMISSION
-
-# Gearbox
 
 Number of forward speeds 4.   
 Synchromesh .. .. Second, third, and fourth gears.   
@@ -410,8 +401,6 @@ Fuel tank: Saloon . . .. 5 gallons (6б6 U.S. gallons, 25 litres). Van and Pick-
 
 # TORQUE WRENCH SETTINGS
 
-# Engine
-
 ib.ft. kg.m.   
 Connecting rod big-end bolts.. 35 4.8   
 Crankshaft pulley nut .. .. 70 9.6   
@@ -453,11 +442,7 @@ Driven gear to differential cage 60 Driving flange to differential nut 70 End co
 9б6 (and align to next split pin hole)   
 2.5
 
-# GENERAL DATA
-
 # MINI MK. I & II (848 c.c.) & MK. II (998 c.c.)—continued
-
-# TORQUE WRENCH SETTINGS
 
 Suspension and steering lb. ft. kg.m. Front hub nut (drive shaft) . . 60 8.3 Front suspension upper arm pivot pin nut .. . . 26 to 28 3.6 to 3.9 Rear suspension stub axle nut \* \* . . . . 60 8б3 (align to next slot) Road wheel nuts .. \* . 42 5.8 Steering-column/rack pinion clamp bolt .. . . 8 to 9 1 to 1б2 Steering lever to hub bolts . . \*\* .. 35 4.8 Steering lever ball joint nut . 20 to 24 2.8 to 3.3 Steering knuckle ball pin bottom nut 35 to 40 4.8 to 5.5 Steering knuckle ball pin top nut . . 35 to 40 4.8 to 5.5 Steering knuckle ball pin retainer 70 9.6 Steering-wheel nut 32 to 37 4б5 to 5.0
 
@@ -467,8 +452,6 @@ Alternator (11AC) Ib. in. kg.m. Brush box fixing screws 10 115 Diode heat sink f
 
 Distributor clamp bolt: Fixed nut type . . 50   
 Fixed bolt type 30
-
-# GENERAL DATA
 
 # MINI COOPER 997 c.c. & 998 c.c.
 
@@ -524,8 +507,6 @@ MINI-COOPER (997 c.c. & 998 c.c.)-continued
 
 # VALVES AND VALVE GEAR
 
-# Valves
-
 Throat diameter: Inlet б098 in. (23б06 mm.). Exhaust б312 in. (7.92 mm.).   
 Head diameter: Inlet .. •.. 1б156 in. (29б4 mm.). Exhaust 1б00 in. (25б40 mm.).   
 Valve lift . . .. .. . -312 in. (7б92 mm.).   
@@ -565,11 +546,7 @@ Fuel pump Make and type S.U. electric. Type SP. Delivery rate • 56 pts./hr. (6
 
 MINI. Issue 2. 80025
 
-# GENERAL DATA
-
 # MINI-COOPER (997 c.c. & 998 c.c.)-continued
-
-# AIR CLEANERS
 
 Фype . . Oil-wetted gauze.   
 Later models .. Paper elements.
@@ -602,11 +579,7 @@ Rear Drum size .. 7 in. (178 cm.) diameter. Lining dimensions 6б75×1б5 in. (1
 
 General Data 12
 
-# GENERAL DATA
-
 # MINI-COOPER (997 c.c. & 998 c.c.)—continued
-
-# GENERAL DIMENSIONS
 
 Kerbside weight: Rubber suspension models . . ... 1,400 1b. (635 kg.). Hydrolastic suspension models . . 1,433 1b. (650 kg.). Maximum permissible towing weight (suitable for 1 in 8 gradient in bottom gear): .. . \* 8 cwt. (4064 kg.).
 
@@ -662,8 +635,6 @@ GUDGEON PIN Type Pressed in connecting rod. x 2 Fit in piston Hand push-fit.
 Diameter (outer) .. б8123 to б8125 in. (20б63 to 20б64 mm.). Fit in connecting rod б0008 to б0015 in. (б020 to б038 mm.) interference.
 
 # VALVES AND VALVE GEAR
-
-# Valves
 
 Head diameter: Inlet .. 1б401 to 1б406 in. (35.58 to 35.71 mm.).   
 Valve lift Exhaust 1.214 to 1б219 in. (30.83 to 30.96 mm.). 318 in. (8б08 mm.), nominal.   
@@ -749,8 +720,6 @@ Alternative ratios . . . .. .. \* . 3б939 : 1, 4-267 : 1, and 4б35 : 1.
 
 General Data 16
 
-# GENERAL DATA
-
 # MINI AUTOMATIC (848 c.c. & 998 c.c.)
 
 The following information is applicable to the Mini Automatic and should be used in conjunction with the preceding specification for the Min k.  and  (848 c.c)and k.(998 c.c.).
@@ -790,11 +759,7 @@ Converter output gear ratio 1б15: 1. End-fioat .. .. .. -0035 to б0065 in. (б
 
 MINI. Issue 4. 80025
 
-# GENERAL DATA
-
 # MINIAUTOMATIC-continued
-
-# DRIVE SHAFTS
 
 Make and type of joint .. Hardy Spicer, flange joint.
 
@@ -835,8 +800,6 @@ Valve block bolts (securing three sections) 7 0.97
 in. UNF. bolts \* \* \* . 18 to 20 2.5 to 2.8   
 in. UNF. boits .. 30 4.1
 
-# GENERAL DATA
-
 # MINI 850/1000 SALOON, VAN, & PICK-UP
 
 The following information refers specifically to new or modified components fitted to the above Mini range coincident with the introduction of NEGATIVE earth electrical systems and must be used in cojunction with the preceding specifications for the Mini Mk. I (848-c.c. engine) and the Mini Mk. I (998-c.c. engine).
@@ -860,8 +823,6 @@ Pressure (min.) .. − 3 1b./sq. in. (21 kg./cm.).
 
 # TRANSMISSION (Fitted to 998 c.c.)\*
 
-# Gearbox
-
 Number of forward speeds \* . 4. Synchromesh . . . . . . . . . All forward gears. Ratios: Top . . .. . . 1б00 : 1. Third . . . . . , \* 1б43: 1. Second . . .. \*. .. . . \*. 2б21 :1. First . . . . .. .. 3.52 : 1. Reverse . . . . . 3-541. Overall ratios: Top . . . . . \* . \* \* 3-44 :1. Third . . . . . . . .. \* . 4.93 : 1. Second.. .. . . . . .. .. 7б63 : 1. First .. \* \* . . 12б13 : 1. Reverse .. .. 12б19 : 1. Road speed at 1,000 r.p.m. in top gear , . . \* . 16б2 m.p.h. (25-75 km.p.h.). Speedometer gear ratio \* . 4/14 Final drive Type . . Helical gears and differential. Ratio . 3б44 : 1 (18/62). \*Van and Pick-up as 848 c.c.
 
 # GENERAL DATA
@@ -869,8 +830,6 @@ Number of forward speeds \* . 4. Synchromesh . . . . . . . . . All forward gears
 MINI 850/1000 SALOON, VAN, & PICK-UP-continued
 
 # TRANSMISSION (Fited to 848 c.c.)
-
-# Gearbox
 
 Number of forward speeds . . 4. Synchromesh .. . . All forward gears. Ratios: Top .. .. .. 1б00 : 1. Third .. . . . . 1б43 : 1. Second . . . . .. 2б21 :1. First .. .. . . . . 3б52 : 1. Reverse . . .. 3-54 : 1. Overall ratios: Top . . 3б76 : 1. Third .. .. .. .. . . 5б40 : 1. Second.. .. . . 8б32: 1. First .. 13б25 : 1. Reverse . . 13б30: 1. Road speed at 1,000 r.p.m. in top gear 15-2 m.p.h. (243 km.p.h.). Speedometer gear ratio 4/16   
 Final drive   
@@ -919,8 +878,6 @@ Brakes (split brake system) b.ft. kg.m. Tandem master cylinder reservoir fange s
 
 # GENERAL DATA
 
-# MINICLUBMAN
-
 The follwing information is applicable to the Mini Clubman and should be used in conjunction with the preceding specification for the Mini Mk. I.
 
 # ENGINE
@@ -947,17 +904,11 @@ Fuel pump : Make/type S.U. mechanical; AUF 700 (AUF 705 model). Suction (min.) 6
 
 # TRANSMISSION
 
-# Gearbox
-
 Number of forward speeds . . 4. Synchromesh .. \*. All forward gears. Ratios: Top ..\* ..8 .. .. .. . . .. 1б00:1. Third .. . . . .. 1б43 : 1. Second . \* .. . . 2б21 :1. First .. . . . . .. . . , • 3б52:1. Reverse . .. .. .. . . . . 3-54 : 1. Overall ratios: Top . . . . . . , . .. 3.44 :1. Third .. . . . . . . .. . . 4.93 : 1. Second.. . 7б63 : 1. First .. . .. .. 12б13:1. Reverse .. .. . . . . . . 12б19:1. Road speed at 1,000 r.p.m. in top gear 16б2 m.p.h. (25-75 km.p.h.). Speedometer gear ratio вя • . \* 4/14 Final drive Type Helical gears and differential Ratio \* \* . \* ,. , 3-44 : 1 (18/62).
 
 General Data 24
 
-# GENERAL DATA
-
 # MINI CLUBMAN-continued
-
-# STEERING
 
 Tern-whe us ock  ck ... •. Rack and pinion.   
 Steering-wheel diameter .. \*• 15.0 in. (380 mm.).   
@@ -979,8 +930,6 @@ Type: Front and rear .. Tubular telescopic.
 System . . 12-volt, NEgative earth. Chareing  system. өжв Compensated voltage control. Lucas Pacemaker' type A7 A9 Capacity at 20 hr. rate 30 amps. 40 amps. Fast charge rate (maximum 1 hr.) 27 amps. 35 amps. Lucas type .. .. CL7 CLZ7 Capacity at 20 hr. rate 34 amps. 34 amps. Exide battery Capaciy at 0 hr te . . Ty e iy Tp  . . . Fast charge rate (maximum 1 hrs.) \* . 40 amps. Damum ouput : : : : : : . . . . 2cam pc. at  20 rp.m. Cut-in speed .. . . • . . . . . 1,450 r.p.m. at 13-5 volts. Control box . . ,. . . Lucas RB106/2.   
 Cut-out: Cut-in voltage .. 12.7 to 13-3. Drop-off voltage 8б5 to 11.0. Rlate . . . 5б0 amps. (max.). Open-circuit setting at 20° C. (68 F.) . . 16б0 to 16б6 volts. For ambient temperatures other than 20 . (68 F.) the following allowances should be made to the above setting: For every 10° C. (18° F.) above 20° C. (68° F.) subtract •1 volt. For every 10° C.(18° F.) below 20° C. (68° F.) add б1 volt.   
 WINI. Issue 2. 82445
-
-# GENERALDATA
 
 # MINICLUBMAN-continued
 
@@ -1013,10 +962,6 @@ Fuel tank: Saloon .. 5 gallons (6б6 U.S. gallons, 25 litres). Estate . . . . 6 
 Shaft nut . • \*• ..25 to 30 В.ЖФ.(3б5 to 42 kg. m.). Refer to pages General Data 8 and 9 for all other Torque figures.
 
 # GENERAL DATA
-
-# MINI 1275 GT
-
-# ENGINE
 
 Type .. 12H.   
 Number of cylinders 4.   
@@ -1066,11 +1011,7 @@ Clearance in cylinder: Top of skirt .. б0029 to б0037 in. (07 to б09 mm.). Bo
 Number of rings , . .. 4 (3 compression, 1 oil control).   
 Width of ring grooves: Top, second, third. б0484 to б0494 in. (1б23 to 1б25 mm.). Oil control .. б1578 to б1588 in. (4б01 to 4б03 mm.). Gudgeon pin base .. б8125 to б8129 in. (20б64 to 20б65 mm.).
 
-# GENERAL DATA
-
 # MINI 1275 GT-continued
-
-# Piston rings
 
 Compression: Type: Top Internally chamfered chrome. Second and third Tapered cast iron. Width Top • . .. 0615 to0625157t1.60m.). Second and Third .. ... •=• Fitted gap: Top 011 to б016 in. (б28 to •40 mm.). Second and third б008 to 013 in. (20 to б33 mm.). Ring to groove clearance: Top .: . . б0015 to -0035 in. (04 to -09 mm.). Second and third
 
@@ -1108,11 +1049,7 @@ Rocker arm: Bore .\* .. .. б686 to •687 in. (17б45 mm.). Bush inside diamete
 
 General Data 28
 
-# GENERALDATA
-
 # MINI 1275 GT-continued
-
-# Valves
 
 Seat angle: Inlet and exhaust 45°.   
 Head diameter: Inlet .. 1б307 to 1б312 in. (33-2 to 33-21 mm.). Exhaust 1б1515 to 1б1565 in. (29б24 to 29б37 mm.).   
@@ -1156,11 +1093,7 @@ Capacity ..1 pint (1б2 U.S. pints, 57 litre).
 
 System pressure Running.. 70 1b./sq.in.(4-92 kgcm.2) approx. Idling •\*• 15b./sq.in. (1б05 kg.cm.) approx. MINI. Issue 2. 82445
 
-# GENERAL DATA
-
 # MINI 1275 GT-continued
-
-# IGNITION SYSTEM
 
 Coil   
 Distributor Refer to 'TUNING DATA'. Sparking plugs
@@ -1185,8 +1118,6 @@ Clutch fuid Unipart 410 or 550 Brake Fluid.
 
 # TRANSMISSION
 
-# Gearbox
-
 Number of forward speeds 4.   
 Synchromesh .. All forward gears. From Engine No. 12H 389S, H6901 Early cars   
 Ratios: Top 1б00 : 1 1.00:1. Third 1б35 :1 1б35:1. Second 2б07 : 1 2б07 : 1. First .. 3-30 : 1 3б30 :1. Reverse 3б35 :1 3б35 :1.   
@@ -1196,11 +1127,7 @@ Speedometer gear ratio 4/14 4/16.
 
 General Data 30
 
-# GENERAL DATA
-
 # MINI 1275 GT-continued
-
-# Final drive
 
 Type Helical gears and differential. Ratio .. 3.б44 : 1 (18/62) 3.65:1(
 
@@ -1247,11 +1174,7 @@ Minimum pad thickness 16 in. (1б6 mm.).
 
 MINI. Issue 2. 82445
 
-# GENERALDATA
-
 # MINI I275 GT-continued
-
-# Rear
 
 Drum size 7 in. (17.8 cm.) diameter.   
 Lining dimensions 6б75×1б5 in. (17б4×3б18 cm.).   
@@ -1281,8 +1204,6 @@ Starter motor Lucas M35G or M35J. M35G Type Brush spring tension 15 to 25 oz. (4
 Alternator .. Lucas 16ACR. Nominal output 34 amps. at 6,000 r.p.m. (engine-2,800 r.p.m.). Nominal system voltage 14.2 volts at 20% nominal output. Maximum continuous speed 12,500 r.p.m. Resistance of rotor winding at 20° C. (68° F.) 4.33 ohms ±5% Brush spring tension .. \* . 7 to 10 oz. (198 to 283 gm.).
 
 General Data 32
-
-# GENERALDATA
 
 # MINI 1275 GT—continued
 
@@ -1345,8 +1266,6 @@ SPARKING PLUGS Make Champion. Type N or N9Y. Gap -025 in. (625 mm.).
 IGNITION COIL Make/type Lucas LA12. Primary resistance at 20° C. (68° F.) 3-2 to 3б4 ohms (cold). Consumption—ignition on 3.9 amps.   
 CARBURETTER Make/type S.U. Type HS2, Piston spring Red. Jet size -090 in. (2б29 mm.). Needle: Standard EB. Rich M. Weak GG.
 
-# ENGINE TUNING DATA
-
 # Model: l anant(99.c)
 
 Year: 1967-69 1969 on
@@ -1387,8 +1306,6 @@ Finishest \* \* к 14° at 11 in. (27-9 cm.) Hg. \* Vacuum pipe disconnected. Cr
 
 # SPARKING PLUGS
 
-# IGNITION COIL
-
 Make/type Lucas LA12.   
 Primary resistance at 20° C. (68° F.) .. 3-2 to 34 ohms (cold).   
 Consumption—ignition on \* \* 3-9 amps.
@@ -1402,8 +1319,6 @@ Make/type + .. S.U. Type HS2.
 Piston spring \* 6 Red,   
 Jet size \* \* \* \* \* \* \* \* \* \* -090 in. (2б29 mm.).   
 Needle: Standard . \* \* \* GX. Rich \* \* M. Weak \* \* GG.
-
-# ENGINE TUNING DATA
 
 # Model: MINI Mk. I and II AUTOMATIC (848 c.c.)
 
@@ -1492,8 +1407,6 @@ Decelerating check\*† .. 26° to 30° at 5,500 r.p.m. 24° to 28° at 4,800 r.
 No advance below 600 r.p.m.
 
 # Vacuum advance
-
-# SPARKING PLUGS
 
 ![](images/28c8cdbaefefabf28d085f1602ed5afab57dcc1554b7b3b82f9592c48bf0cc7c.webp)
 
@@ -1587,8 +1500,6 @@ CARBURETTERS Make/type Twin S.U. Type HS2. Piston spring Blue. Jet size б090 in
 
 Tuning Data 6
 
-# ENGINE TUNING DATA
-
 # Model: MINI-COOPER S (970 c.c. and 1071 c.c.)
 
 Year: 1963-65
@@ -1638,11 +1549,7 @@ Piston spring Red.
 Jet size , 6 б090 in. (2б29 mm.).   
 Needle: 970 c.c. AN (Standard). 1071c.c. .. H6 (Standard).
 
-# ENGINE TUNING DATA
-
 # Model: MINI-COOPER 'S (Mk. I, I & I)
-
-# ENGINE
 
 Type: Mk. I and II models 12FA. Mk. III models . 12H   
 Capacity.. 1275 c.c. (77.9 cu. in.).   
@@ -1691,8 +1598,6 @@ Jet size \* \* \* \* -090 in. (2б29 mm.).
 Needle: Standard \* \* M. Rich \* \* \* \* AH2 Weak . \* \* EB.
 
 Tuning Data 8
-
-# ENGINE TUNING DATA
 
 # Model: MINI CLUBMAN
 
@@ -1899,13 +1804,7 @@ Exhaust gas analyser reading at engine idle speed
 
 4.5% CO (maximum).
 
-# Tuning Data 11
-
-# ENGINE TUNING DATA
-
 # Model: MINI CLUBMAN (SWEDEN)
-
-# ENGINE
 
 ![](images/82b2bc8f9150b3d7a4182c338b2e247167ebeb63c44f070be938687fabb85f35.webp)
 
@@ -2066,10 +1965,6 @@ Exhaust gas analyser reading at engine idle speed 3.5 to 4.5% CO.
 
 # ENGINE TUNING DATA To European emission control requirements (ECE 15)
 
-# Model: MINI CLUBMAN (998 c.c.)
-
-# ENGINE
-
 ![](images/ded80cd909552e976f3754e96155834a532945626990b29c83ff3c20e25e7750.webp)
 
 \*Crankshaft degrees and r.p.m. Vacuum pipe disconnected.
@@ -2208,8 +2103,6 @@ Recommended oils and greases are given overleaf.
 
 # RECOMMENDED FLUIDS, ANTI-FREEZE, CAPACITIES
 
-# ANTI-FREEZE SOLUTIONS
-
 Unipart Frostbeat or Bluecol Anti-freze or an anti-freeze conforming to B.S. 3151 or B.S. 3152. The correct quantities of anti-freze for different degrees of frost protection are given below:
 
 ![](images/2f1a232dd211bdbdc77a6a2629c98307573bc320186c84824de456a4c0853c5b.webp)
@@ -2225,11 +2118,7 @@ J1703c with a minmum boilgpoint of 260 .(500 F. DO NOT use ny oher type of brake
 
 ![](images/25e162531c1cf295e519b63852de4c78bcc1661332d53b78c51775377bf8767d.webp)
 
-# ROUTINE MAINTENANCE— LUBRICATION мм
-
 # ENGINE AND TRANSMISSION (Synchromesh)
-
-# Checking oil level
 
 NOTE: Ensure that the vehicle is standing on a level surface.
 
@@ -2258,8 +2147,6 @@ NOTE: Ensure that the vehicle is standing on a level surface.
 ![](images/469111227480e6e045b20301302fdff093cd3ac12e1809ce6e85d2e6ad0b67e4.webp)
 
 # ENGINE AND TRANSMISSION (Automatic)
-
-# Checking oil level
 
 NOTE: Ensure that the vehicle is standing on a level surface.
 
@@ -2292,8 +2179,6 @@ NOTE: Ensure that the vehicle is standing on a level surface.
 (2) Check the oil level, and top up if necessary until the level is 2 in. (13 mm.) above the top of the hollow piston rod. NOTE: Under no circumstances should a heavybodied lubricant be used.   
 (3) Push the damper assembly back into position and screw the cap firmly by hand into the suction chamber.
 
-# FRONT SUSPENSION
-
 # Swivel hub ball joints
 
 (1) Use one of the recommended greases shown in the 'RECOMMENDED LUBRICANTS' chart and charge the two nipples on each swivel hub with grease. If the joints are already filled with grease, no further grease can usually be forced in.
@@ -2314,11 +2199,7 @@ NOTE: Ensure that the vehicle is standing on a level surface.
 (2) Lubricate the swivel sector pivots with oil.   
 (3) Smear grease around the operating lever clevis pin and the cable adjacent to the spring anchor brackets.
 
-# HAND BRAKE CABLE
-
 # ROUTINE MAINTENANCE— MECHANICAL
-
-# COOLING SYSTEM
 
 The cooling system is under pressure while the engine is hot. Allow the system to cool before removing the filler cap.
 
@@ -2338,8 +2219,6 @@ Slacken the adjusting link nut.
 (3) Move the dynamo or alternator to the required position; apply any leverage necessary to the drive-end bracket and not to any other part of the alternator. The lever used should preferably be of wood or soft metal. DO NOT OVERTENSION as this will impose an excess loading on the drive bearings and stretch the belt.   
 (4) Tighten the adjusting link bolt, the dynamo or alternator securing bolts and recheck the tension.
 
-# CLUTCH
-
 # Release lever clearance
 
 A clearance of 0б020 in. (0б5 mm.) must be maintained between the clutch release lever and its return stop. Use a feeler gauge to check the clearance.
@@ -2358,8 +2237,6 @@ MINI. Issue 1. 82445
 ![](images/d8a05acfc96e6ece708c066d0f68675e10a9d304bce34bfc2f131ef1cbcc322b.webp)
 
 # BRAKE AND CLUTCH RESERVOIRS
-
-# Fluid levels
 
 Brake. One of three types of master cylinder may be fitted, according to the regulations of the country for which the vehicle was produced.
 
@@ -2404,8 +2281,6 @@ Large plastic type. Align the 'arrow' marked on the cover with the locating lug 
 
 # VALVE ROCKER CLEARANCES
 
-# Checking
-
 () Disconnect the breather hose (when fitted.
 
 (2) Unscrew the rocker cover securing screws and lift off the cover.
@@ -2427,10 +2302,6 @@ MINI. Issue 1. 82445
 ![](images/873e657c9ef00b645038b2dcbe8b099da0ce0461136fce976bb5de66baa91da4.webp)
 
 ![](images/2c075b1e295aceac3d425b6d19b91b9758cd3282e8770c21b394ac0c3079242d.webp)
-
-# IGNITION
-
-# Distributor
 
 # Contact breaker—cleaning
 
@@ -2578,8 +2449,6 @@ MINI. Issue 1. 82445
 
 ![](images/29b8373a1bddd9bef4e61a8144501801bd1ea8293ede83b15a8f57f059ddb60d.webp)
 
-# BRAKES
-
 # Adjustment
 
 (1) Jack up the vehicle and place supports under the sub-frames. Deal with one adjuster at a time.
@@ -2604,8 +2473,6 @@ MINI. Issue 1. 82445
 
 # BRAKE LININGS
 
-# Checking
-
 (1 Jack up the vehicle and place supports under the sub-frames.   
 (2) Back off the brake adjusters and release the hand brake when dealing with the rear brakes.   
 (3) Remove the brake-drum securing screws and pull off the drums.   
@@ -2621,8 +2488,6 @@ Maintenance 18
 (6) Refit the brake-drums, adjust the shoes, and refit the road wheels.
 
 # DISC BRAKE PADS
-
-# Inspecting
 
 (1) Jack up the front of the car, place supports under the sub-frame and remove the road wheels. (2) Check the thickness of the pads, and renew them if the pad linings are approaching the minimum thickness of 16 in. (1б6 mm.). Always ensure that sufficient pad material remains for the car to be used until the next service interval.
 
@@ -2672,8 +2537,6 @@ Care must be taken always to observe the following points:
 
 # WHEELS AND TYRES
 
-# Checking
-
 (1) Check that the tyres on the same axle are of the same size and make and that cross-ply and radials have not been incorrectly mixed, see 'NOTES'.   
 (2) Examine all tyres for cuts in the fabric, exposure of ply or cord, structure, lumps or bulges.   
 () Check the depth of the tyre tread; those which are approaching the minimum tread depth of 1 mm. or will have worn to this limit before the next service interval should be replaced.   
@@ -2681,8 +2544,6 @@ Care must be taken always to observe the following points:
 (5) Check the wheel nuts for tightness—torque tightening figure is 42 1b. ft. (5б8 kg. m.).
 
 NOTES: Radial-ply tyres should only be fitted in sets of four, although in certain circumstances it is permissible to fit a pair on the rear wheels; tyres of different construction MUST NOT be used on the same axle. Radial-ply tyres must never be fitted to the front wheels with conventional cross-ply tyres at the rear.
-
-# STEERING
 
 # Wheel alignment
 
@@ -2696,8 +2557,6 @@ NOTES: Radial-ply tyres should only be fitted in sets of four, although in certa
 (5) Check tightness of the column to rack pinion clamp bolt; the torque tightness is 8 to 9 1b. ft. (1 to 1б2 kg. m.).
 
 # ROUTINE MAINTENANCE— ELECTRICAL
-
-# General checks
 
 (1 Check the functioning of allamps, horns, direction indicators and windscreen wipers.   
 (2) Examine the windscreen wiper blades, and replace if showing signs of deterioration.
@@ -2719,8 +2578,6 @@ Maintenance 20
 (5) Refit the headlamp rims or the grille extensions as applicable to the model.
 
 ![](images/513bb70c26b2c71475f05845ae58f1c77f724b5bfededdfb9813d9b4d27f55a4.webp)
-
-# Battery
 
 # General maintenance
 
@@ -2762,8 +2619,6 @@ For every 3 C. (5° F.) below 16° C. (60° F.) subtract 0б002 S.G. (0б2° B.)
 
 # BODY AND GENERAL INSPECTION
 
-# Lubrication
-
 (1) Inject a small quantity of engine oil through the key slots and around the push-buttons.   
 (2) Lubricate the door hinges with engine oil.   
 (3) Apply grease to the moving surfaces of the bonnet release mechanism and oil to the release lever and safety-catch pivot points.
@@ -2776,16 +2631,10 @@ For every 3 C. (5° F.) below 16° C. (60° F.) subtract 0б002 S.G. (0б2° B.)
 
 # GENERAL INSPECTION
 
-# Visual checks
-
 (1) Check the fuel and clutch pipes and unions for chafing, leaks and corrosion.   
 (2) Check the exhaust system for security, leakage, or severe corrosion likely to cause leakage before the next check is called for.
 
-# SECTION A
-
 # THE ENGINE
-
-# Section
 
 Air cleaner .. – .. A.1   
 +Camshaft .• .• •.• •• A.23   
@@ -2811,23 +2660,13 @@ tValve timing . : : : : : : : :
 
 # Section A.1
 
-# AIR CLEANER
-
-# Removing
-
 (1) Disconnect the breather hose from the rocker cover, unscrew the wing nut and lift of the cleaner.
-
-# COOPER
 
 # Removing
 
 (1) Disconnect the breather pipe from the rocker cover. (2) Remove the four securing screws to remove the gauze-type cleaner, unscrew the two wing nuts to remove the paper-element-type cleaner.
 
 # Section A.2
-
-# CARBURETTER
-
-# Removing
 
 () Remove the air cleaner.   
 (2) Disconnect the mixture and throttle cables.   
@@ -2836,8 +2675,6 @@ tValve timing . : : : : : : : :
 (5) Unscrew the two nuts and lift off the carburetter cable abutment plate and two gaskets.
 
 When refitting, make sure the gaskets are in good condition.
-
-# COOPER
 
 # Removing
 
@@ -2852,11 +2689,7 @@ When refitting, make sure the gaskets are in good condition.
 
 Reverse the removing instructions and adjust the linkage as in Section D.6 (35).
 
-# Section A.3
-
 # EXHAUST PIPE
-
-# Removing
 
 Slacken the exhaust pipe to manifold clamp and disconnect the fixing points on the gear change extension and the rear sub-frame.
 
@@ -2868,8 +2701,6 @@ Slacken the exhaust pipe to manifold clamp and disconnect the fixing points on t
 (4Reconnect the tie-rod.   
 (5) Insert slip packings, as required, between the transmission case and the pipe bracket, and then tighten the bolt, the sub-frame fixings, and the manifold clamp.   
 (6Remove the wooden block.
-
-# COOPER
 
 # Removing
 
@@ -2885,11 +2716,7 @@ Fig. A.1
 
 The front sub-frame and transmission casing viewed from beneath the car, showing ( the gear change lever retaining screws, (2) the exhaust system fixing point, () the front sub-frame rear mounting point (four set screws).
 
-# Section A.4
-
 # EXHAUST MANIFOLD
-
-# Removing
 
 (1) Carry out instructions in Sections A.1 and A.2. (2) Slacken the pipe clamp, unscrew the six nuts and withdraw the manifold.
 
@@ -2906,10 +2733,6 @@ The front sub-frame and transmission casing viewed from beneath the car, showing
 # Refitting
 
 Reverse the removing instructions.
-
-# Section A.5
-
-# ROCKER SHAFT
 
 # Removing and dismantling
 
@@ -2965,11 +2788,7 @@ Adjust No. 1 rocker with No. 8 valve fully open
 
 ![](images/270ccd72b57d629e63d4cf379d6011bc025443aaf2cfc686ae3406b6e59431aa.webp)
 
-# Section A.6
-
 # CYLINDER HEAD
-
-# Removing
 
 ( Remove the bonnet.   
 (2) Drain the cooling system (Section C.1).   
@@ -2994,8 +2813,6 @@ Adjust No. 1 rocker with No. 8 valve fully open
 
 (15) Adjust the valve rocker clearances as detailed in 'Adjustment' (Section A.5). Start the engine, and when at normal running temperature re-check the clearances.
 
-# Section A.7
-
 # DECARBONIZING
 
 (1 Remove the cylinder head and gasket (Section A.6) and the valves (Section A.8).   
@@ -3014,8 +2831,6 @@ MINI. Issue 3. 82224
 Fig. A.5 The component parts of the valve assembly
 
 # Section A.8
-
-# VALVES
 
 ![](images/b32c2da24f56bdb2c4afb037078c0389d6bb813b47f4ab7b6f27da732b1f0fff.webp)
 
@@ -3049,10 +2864,6 @@ Reverse instructions (1) to (5) above.
 
 # Section A.9
 
-# TAPPETS
-
-# Removing
-
 (1) Remove the air cleaner(s) and carburetter(s) (Sections A.1 and A.2).   
 (2) Remove the rocker cover and shaft assembly (Section A.5).   
 (3) Remove the manifold (Section A.4) and the pushrods.   
@@ -3063,11 +2874,7 @@ Reverse instructions (1) to (5) above.
 
 Reverse the dismantling operations, taking care to replace the tappets in their original positions.
 
-# Section A.10
-
 # DISTRIBUTOR SPINDLE
-
-# Removing
 
 () Remove the distributor (Section B.1).
 
@@ -3089,18 +2896,12 @@ Fig. A.8
 
 # The distributor drive with the slot in the correct position and the large offset uppermost
 
-# Refitting
-
 (3) Turn the crankshaft until No. 1 piston is at T.D.C. on the compression stroke (No. 4 cylinder exhaust and inlet valves rocking and the 1/4 mark on the flywheel against the pointer).   
 (4) Hold the spindle so that the drive slot is in the position shown (Fig. A.8) with the large offset uppermost, and enter the gear. As the gear engages the camshaft the spindle will turn anticlockwise.
 
 (5) Refit the distributor (Sections B.1 and B.2).
 
-# Section A.11
-
 # FLYWHEEL AND CLUTCH
-
-# Removing
 
 ( Disconnect the coil (or solenoid) leads and remove the coil (or solenoid).   
 (Remove the starter (Section N.3).   
@@ -3152,11 +2953,7 @@ If a new starter ring is needed, split the old one with a cold chisel. Clean the
 (23) Refit the clutch thrust plate.   
 (24) Lower the engine and carry out the removal operations 1 to 8 in reverse order.
 
-# Section A.12
-
 # ENGINE AND SUB-FRAME ASSEMBLY
-
-# Removing
 
 ( Remove the bonnet, drain the cooling system and remove the front grille.   
 (2) Disconnect the battery.   
@@ -3200,11 +2997,7 @@ Use the individual front lifting eye of the attachment to give an angled lift wh
 
 NOTE.—On vehicles NOT fitted with the remote control gear-change pull the gear lever up into the interior of the car before the body is lowered onto the frame. Bleed the brakes and clutch.
 
-# Section A.13
-
 # ENGINE AND TRANSMISSION
-
-# Removing
 
 (1) The engine and transmission assembly can be taken out through the bonnet aperture as follows:   
 (2) Refer to Section A.12 and carry out instruction Nos. (1) to (5), (8) and (12) to (16).   
@@ -3219,8 +3012,6 @@ NOTE.—On vehicles NOT fitted with the remote control gear-change pull the gear
 (8) Reverse the removal instructions.
 
 NOTES.—On vehicles NOT fitted with the remote control gear-change pull the gear lever up into the interior of the car before the engine is lowered into position. Keep the sliding joints pushed well onto the drive shaft splines while the fexible couplings are moved into position.
-
-# COOPER
 
 # Removing
 
@@ -3241,13 +3032,7 @@ MINI. Issue 2. 20189
 
 Reverse the removing instructions.
 
-# Section A.14
-
 # ENGINE MOUNTINGS
-
-# Removing
-
-# Left-hand
 
 ( Remove the radiator (Section C.3). т   
 (2) Support the engine with the attachment shown in Fig. A.11; use the central 'straight lift' position and take the weight off the mounting.   
@@ -3262,10 +3047,6 @@ Reverse the removing instructions.
 Reverse the removing instructions.
 
 # Section A.15
-
-# TIMING COVER
-
-# Removing
 
 If the fan cowling is not the later split-type the engine will have to be removed as in Section A.13; otherwise proceed as follows.
 
@@ -3289,11 +3070,7 @@ The securing points for the remote control gear-change extension
 (10) Insert the cover retaining screws and tighten them evenly.   
 (11) Refit and tighten the crankshaft pulley bolt to the torque figure given in 'GENERAL DATA' and tap over the locking washer.
 
-# Section A.16
-
 # TIMING GEARS AND CHAIN
-
-# Removing
 
 ( Remove the timing cover (Section A.15). ()Withdraw the oil thrower. (3) Unlock the camshaft chain wheel nut, unscrew and remove the nut and lock washer.
 
@@ -3310,10 +3087,6 @@ The timing gears assembled into the timing chain with the two marks on the gears
 
 # Section A.17
 
-# VALVE TIMING
-
-# Checking
-
 ( Adjust the rocker clearance of No. 1 inlet valve to б019 in. (б48 mm.), б021 in. (53 mm.) Cooper 'S, and turn the crankshaft until the valve is about to open.
 
 A.12
@@ -3321,11 +3094,7 @@ A.12
 (2) Take off the fywheel inspection hole cover. The pointer should now be opposite the 5° mark on the flywheel.   
 () After checking, reset the rocker clearance of No. 1 inlet valve to б011 in. (б28 mm.)—engine hot.
 
-# Section A.18
-
 # FLYWHEEL HOUSING AND PRIMARY GEAR
-
-# Removing
 
 ( Remove the engine (Section A.13).   
 (2) Remove the flywheel and clutch assembly (Section A.11).   
@@ -3394,11 +3163,7 @@ A section through the crankshaft primary gear. The bushes (A) must be line-reame
 
 (4) Reverse the removal instructions, driving the race into position with Service tool 18G 617 A.
 
-# Section A.19
-
 # TRANSMISSION HOUSING
-
-# Removing
 
 (1) Remove the engine from the car (Section A.13).   
 (2) Remove the flywheel and clutch (Section A.11), and the fywheel housing (Section A.18).   
@@ -3417,8 +3182,6 @@ NOTE.—It is important to insert the short transmission housing to crankcase sc
 
 # Section A.20
 
-# OIL PRESSURE
-
 The differential pressure switch fitted to the oil filter head on later models gives an indication when an oil change is required. If the warning light in the instrument A.14
 
 panel appears and continues to glow when the engine is running at or above idling speed, both the engine oil and the fiter element must be changed as soon as possible within a maximum of the next 300 miles (500 km.).
@@ -3431,8 +3194,6 @@ If the oil pressure falls appreciably, check:
 (4 The pick-up filter for sludge.   
 (5) The condition of the bearings.
 
-# Section A.21
-
 # OIL PRESSURE RELIEF VALVE
 
 To examine, unscrew the hexagonal domed nut and remove the folded copper washer, the valve and the spring. Check the length of the spring against the dimension given in 'GENERAL DATл'.
@@ -3440,10 +3201,6 @@ To examine, unscrew the hexagonal domed nut and remove the folded copper washer,
 If the valve cup is worn reseat it using metal polish with Service tool 18G 69.
 
 # Section A.22
-
-# OIL PUMP
-
-# Removing
 
 (1) Remove the engine as detailed in Section A.13.   
 (2) Remove the flywheel and clutch assembly and the flywheel housing as detailed in Sections A.11 and A.18.   
@@ -3476,10 +3233,6 @@ MINI. Issue 3. 26562
 
 # Section A.23
 
-# CAMSHAFT
-
-# Removing
-
 (Remove the engine (Section A.13), the rocker shaft assembly (Section A.5), the push-rods and tappets (Section A.9), and the distributor (Section A.10).   
 (2) Unscrew the camshaft locating plate and withdraw the camshaft.   
 (3) If the camshaft bearings are worn, remove the flywheel housing and transmission case (Sections A.18 and A.19).
@@ -3487,8 +3240,6 @@ MINI. Issue 3. 26562
 # Front liner
 
 Extract worn liners and fit new with Service tool 18G 124 A and adaptor 18G 124 K. Line ream the new liners with Service tools 18G 123 A, 18G 123 AH, 18G 123 AJ.
-
-# COOPER
 
 # Front and rear liners
 
@@ -3501,8 +3252,6 @@ Use Service tool 18G 124 A with adaptors 18G 124 K and 18G 124 B to extract the 
 # Reftting
 
 Reverse the dismantling and removing instructions.
-
-# Section A.24
 
 # PISTONS AND CONNECTING RODS
 
@@ -3562,11 +3311,7 @@ Illustration application
 
 ![](images/13079e6bbc91bd15669043fc301b3e3bf04b5321bcd091e197757d58e45ee27d.webp)
 
-# Section A.25
-
 # CRANKSHAFT AND MAIN BEARINGS
-
-# Removing
 
 ( Carry out the operations described in Section A.24, items (1) and (2), and remove the timing cover (Section A.16).   
 ( Check the crankshaft end-float.   
@@ -3589,17 +3334,11 @@ countersinks are machined to their original dimensions.
 
 Reverse the removal instructions.
 
-# Section A.26
-
 # CRANKSHAFT AND PRIMARY GEAR
 
 See Section A.18.
 
-# Section A.27
-
 # CRANKCASE CLOSED-CIRCUIT BREATHING
-
-# (When fitted)
 
 Fresh air enters the engine through two holes and a filter in the filler cap on the rocker cover. The air then passes to the crankcase down the push-rod drillings. The crankcase fumes leave the engine through a breather outlet pipe on the front engine side cover. Oil droplets and mist are trapped in an oil separator before the fumes pass through a breather control valve and to the intake manifold, thus providing closed-circuit crankcase breathing.
 
@@ -3625,11 +3364,7 @@ The crankcase breather unit should be serviced at the periods recommended in the
 
 the cruciform guides) is serviced as an assembly.
 
-# Section A.28
-
 # FLYWHEEL AND CLUTCH (Diaphragm Spring Clutch)
-
-# Removing
 
 (1) Remove the engine as in Section A.13.   
 ( Remove the clutch cover.   
@@ -3686,12 +3421,6 @@ A section through the flywheel and diaphragm clutch assembly
 
 # Section A.29
 
-# OIL COOLER
-
-# Removing
-
-# (Cooper 'S')
-
 (1) Remove the front grille, taking care not to lose the spacers used for each securing screw.   
 (2) Hold each union on the cooler from turning and disconnect both hoses from the cooler unit.   
 (3) Complete removal of both hoses is effected in this manner—holding each union in turn on the oil
@@ -3713,11 +3442,7 @@ filler head and the crankcase whilst releasing the hoses. (4Remove the cooler un
 (8) Top up the engine oil to the 'MAX' level on the dipstick.   
 ( Refit the front grille, see item (1).
 
-# Section A.30
-
 # PRIMARY GEAR OIL SEAL REPLACEMENT
-
-# Removing
 
 ( Remove the engine as in Section A.13.   
 (2) Remove the fywheel and clutch, Section A.11 (coil spring type) or Section A.28 (diaphragm spring type).   
@@ -3736,8 +3461,6 @@ of the tool into the groove on the gear and unscrew the winged nut anti-clockwis
 10Remove the Service tool and refit the fywheel and clutch.   
 11 Refit the engine as in Section A.13.
 
-# Section A.31
-
 # FLYWHEEL RETAINING SCREW THREAD
 
 The flywheel retaining screw thread in the end of the crankshaft is not Standard Whitworth but is Whitworth form:
@@ -3745,8 +3468,6 @@ The flywheel retaining screw thread in the end of the crankshaft is not Standard
 Diameter  in. 16 T.P.I. 1 in. full thread.
 
 If it is found necessary to clean up the thread, the operation must be confined to cleaning up. This thread is highly stressed and must always be up to fullsize.
-
-# Section A.32
 
 # GEAR CHANGE REMOTE CONTROL ASSEMBLY Removing
 
@@ -3809,8 +3530,6 @@ Gaiter—change speed lever.
 
 # SECTION Aa
 
-# THE ENGINE
-
 The information given in this Section refers specificall to engines fitted with automatic transmission and must be used in conjunction with Section A
 
 Section   
@@ -3832,10 +3551,6 @@ Transmission unit .. Aa.4
 Valve timing .. . Aa.7   
 . .
 
-# Section Aa.1
-
-# LUBRICATION
-
 # Engine/transmission oil level
 
 (1) Start the engine and run for 1-2 minutes. Switch off the ignition and wait for I minute.   
@@ -3849,13 +3564,7 @@ The oil should be drained at the periods recommended in the Driver's Handbook an
 (4 Refill the engine/transmission unit with the recommended oil to the 'MAX' mark on the dipstick.   
 (5) Carry out items (1) and (2).
 
-# Section Aa.2
-
-# OIL FILTER
-
 # Element replacement
-
-# Removing
 
 ( Remove the front grille.   
 (2) Place a suitable container beneath the oil filter.   
@@ -3889,8 +3598,6 @@ Centre bolt. 1 Oil pressure check plug.
 
 # Filter head and bowl assembly
 
-# Removing
-
 (11) Release the distributor cap.   
 (12) Unscrew the filter head retaining bolts and remove the assembly.
 
@@ -3912,11 +3619,7 @@ The main components to be disconnected or removed from below the car before remo
 (14) Carry out items (8) and (9).   
 MINI. Issue 2. 16208
 
-# Section Aa.3
-
 # ENGINE AND TRANSMISSION
-
-# Removing
 
 () Disconnect the battery earth cable and remove the bonnet.
 
@@ -3975,10 +3678,6 @@ Using Service tool 18G 1088 to hold the converter output gear when removing the 
 (20) Lower the engine/transmission unit to a position where the drive shafts can engage the driving flange studs and screw the securing nuts on approximately four threads. Lower the unit completely into the car.   
 (21) Adjust the gear selector rod and cable as in Section Fa 2.   
 (22) Top up the engine with oil as described in Section Aa.1.
-
-# Section Aa.4
-
-# Removing
 
 # TRANSMISSION UNIT
 
@@ -4152,11 +3851,7 @@ verter centre at one time.
 (46) Refit the converter cover, the starter motor, and the rear engine mounting.   
 (47) For refitting the engine and transmission to the car (see Section Aa.3)
 
-# Section Aa.5
-
 # EXHAUST SYSTEM
-
-# Removing
 
 (1 Slacken the exhaust pipe to manifold clamp.
 
@@ -4173,11 +3868,7 @@ The converter output (1), idler (2), and input gear (3) with their respective th
 (4) Align the pipe flange with the manifold, refit and tighten the manifold clamp.   
 ( Ensure correct alignment of the system and tighten the remaining fixing points.
 
-# Section Aa.6
-
 # DISTRIBUTOR DRIVING SPINDLE
-
-# Removing
 
 (1) Remove the distributor and driving spindle as detailed in Section A.10.
 
@@ -4189,16 +3880,10 @@ The converter output (1), idler (2), and input gear (3) with their respective th
 
 # Section Aa.7
 
-# VALVE TIMING
-
 (1) Follow the instructions given in Section A.17 with the following exceptions.   
 ( Rotate the crankshaft as described in Section Aa.6 until the 5° B.T.D.C. timing mark on the converter is opposite the pointer on the converter cover.
 
 # Section Aa.8
-
-# OIL PUMP
-
-# Removing
 
 () Remove the engine and transmission as detailed in Section Aa.3.   
 (2) Remove the converter and converter housing as detailed in Section Aa.4, items (3) to (12).   
@@ -4221,8 +3906,6 @@ The oil pump components. A indicates the lobe positions for checking clearances
 
 # Section Aa.9
 
-# CAMSHAFT
-
 NOTE.—Extreme care is necessary when removing the camshaft. The oil pump drive coupling may stick by oil adhesion to the camshaft and possibly fall into the transmission unit. Ensure therefore when refitting the camshaft that this drive coupling is fully located on the splined oil pump spindle.
 
 # Removing
@@ -4236,11 +3919,7 @@ NOTE.—Extreme care is necessary when removing the camshaft. The oil pump drive
 
 (5) Refitting is a reversal of the removal procedure given in Section A.23.
 
-# Section Aa.10
-
 # PISTONS AND CONNECTING RODS
-
-# Removing
 
 (1) Follow the instructions given in Section A.24 with the following exceptions.   
 (2) Remove the engine and transmission unit as detailed in Section Aa.3.
@@ -4253,11 +3932,7 @@ MINI. Issue 3. 20189
 
 (4) Refitting is a reversal of the removing procedure (see Sections A.24 and Aa.3-4).
 
-# Section Aa.11
-
 # CRANKSHAFT AND MAIN BEARINGS
-
-# Removing
 
 (1) Follow the instructions given in Section A.25 with the following exceptions.   
 (2) Remove the engine and transmission unit as detailed in Section Aa.3.   
@@ -4268,11 +3943,7 @@ MINI. Issue 3. 20189
 (4) Follow the refitting instructions for installation of the crankshaft and bearings given in Section A.25   
 ( Carry out the inspection and refitting of the transmission unit as detailed in Section Aa.4.
 
-# Section Aa.12
-
 # ENGINE MOUNTINGS
-
-# Removing
 
 Left-hand mounting
 
@@ -4291,11 +3962,7 @@ Left-hand mounting
 
 (8 Refitting is a reversal of the removal procedure. MINI. Issue 2. 16208
 
-# Section Aa.13
-
 # CONVERTER OUTPUT GEAR
-
-# Removing
 
 () Remove the engine and transmission as detailed in Section Aa.3. (2) Carry out the removing instructions as detailed in Section Aa.4, items (3) to (11) and (13).
 
@@ -4307,8 +3974,6 @@ Left-hand mounting
 
 (4 Refitting is a reversal of the removal procedure.
 
-# Section Aa.14
-
 # CYLINDER LINERS
 
 Follow the instructions in Section A.24 with the following exceptions.
@@ -4316,11 +3981,7 @@ Follow the instructions in Section A.24 with the following exceptions.
 ( Remove the engine and transmission from the car as detailed in Section Aa.3.   
 (2) Remove the transmission unit from the engine as detailed in Section Aa.4.
 
-# Section Aa.15
-
 # CONVERTER HOUSING OIL SEAL REPLACEMENT
-
-# Removing
 
 (1) Remove the engine from the car as detailed in Section Aa.3. () Remove the starter motor and converter cover.
 
@@ -4356,8 +4017,6 @@ NOTE,—The converter housing face is not machined, therefore, the initial measu
 
 # SECTION Aa
 
-# THE ENGINE
-
 The information given in this Section refers specifical to engines fitted with automatic transmission and must be used in conjunction with Section A
 
 Section   
@@ -4379,8 +4038,6 @@ fValve timing .. .. Aa.7
 
 # Section Aa.1
 
-# LUBRICATION
-
 Checking oil level
 
 NOTE: Ensure that the vehicle is standing on a level surface. ї
@@ -4398,13 +4055,7 @@ The oil should be renewed at the periods given in the 'MAINTENANCE SUMMARY'. Dra
 (4) Refill with a recommended oil, see 'RECOMMENDED LUBRICANTS', up to the 'MAX' mark on the dipstick.   
 (5) Repeat the procedures in (1) and (2).
 
-# Section Aa.2
-
-# OIL FILTER
-
 # Filter element renewal
-
-# Removing
 
 (1) All models except 'Clubman'. Remove the front grille (16 screws). On 'Clubman' models suffi cient clearance exists for filter bowl removal.   
 (2) Place a suitable container beneath the oil filter.   
@@ -4437,8 +4088,6 @@ Centre bolt. 1 Oil pressure check plug.
 
 # Filter head and bowl assembly
 
-# Removing
-
 (11) Release the distributor cap.
 
 ![](images/84247d5b47fe8fc9e1fdb21093e67350a3849a2fdd4acfb7990984f66f6ce65a.webp)  
@@ -4461,11 +4110,7 @@ The main components to be disconnected or removed from inside the engine compart
 Air cleaner. 3. Horn. 5 Heater water valve.   
 Carburetter. Engine tie-rod. Exhaust pipe clamp.
 
-# Section Aa.3
-
 # ENGINE AND TRANSMISSION
-
-# Removing
 
 (1) Disconnect the battery earth cable.   
 (2) Mark the fitted position of the bonnet to its hinges and remove the bonnet.   
@@ -4527,11 +4172,7 @@ Removing the converter centre bolt, using Service tool 18G 587. A suitable screw
 (24) Tighten all hose connections and refill the cooling system.   
 (25) Top up the engine with oil as described in Section Aa.1
 
-# Section Aa.4
-
 # TRANSMISSION UNIT
-
-# Removing
 
 (1) Remove the engine and transmission (see Section Aa.3).   
 (2) Remove the radiator mounting bracket from the transmission case.   
@@ -4720,11 +4361,7 @@ Fig. Aa.19
 
 The converter output (1), idler (2), and input gear (3) with their respective thrust washers and shims
 
-# Section Aa.5
-
 # EXHAUST SYSTEM
-
-# Removing
 
 (1) Slacken the exhaust pipe to manifold clamp. (2) Release the pipe from the bracket on the final drive casing (Fig. Aa.3) and from the two locations on the rear sub-frame.
 
@@ -4734,11 +4371,7 @@ The converter output (1), idler (2), and input gear (3) with their respective th
 (4) Align the pipe flange with the manifold, refit and tighten the manifold clamp.   
 (5) Ensure correct alignment of the system and tighten the remaining fi xing points.
 
-# Section Aa.6
-
 # DISTRIBUTOR DRIVING SPINDLE
-
-# Removing
 
 (1) Remove the distributor and driving spindle as detailed in Section A.10.
 
@@ -4751,16 +4384,10 @@ The converter output (1), idler (2), and input gear (3) with their respective th
 
 # Section Aa.7
 
-# VALVE TIMING
-
 (1) Follow the instructions given in Section A.17 with the following exceptions.   
 (2) Rotate the crankshaft as described in Section Aa.6 until the 5° B.T.D.C. timing mark on the converter is opposite the pointer on the converter cover.
 
 # Section Aa.8
-
-# OIL PUMP
-
-# Removing
 
 (1) Remove the engine and transmission as detailed in Section Aa.3.   
 (2) Remove the converter and converter housing as detailed in Section Aa.4, items (3) to (12).   
@@ -4781,8 +4408,6 @@ The oil pump components. 'A indicates the lobe positions for checking clearances
 
 # Section Aa.9
 
-# CAMSHAFT
-
 NOTE.—Extreme care is necessary when removing the camshaft. The oil pump drive coupling may stick by oil adhesion to the camshaft and possibly fall into the the transmission unit. Ensure therefore when refitting the camshaft that this drive coupling is fully located on the splined oil pump spindle.
 
 # Removing
@@ -4796,11 +4421,7 @@ NOTE.—Extreme care is necessary when removing the camshaft. The oil pump drive
 
 (5) Refitting is a reversal of the removal procedure given in Section A.23.
 
-# Section Aa.10
-
 # PISTONS AND CONNECTING RODS
-
-# Removing
 
 (1) Follow the instructions given in Section A.24 with the following exceptions.   
 (2) Remove the engine and transmission unit as detailed in Section Aa.3.   
@@ -4810,11 +4431,7 @@ NOTE.—Extreme care is necessary when removing the camshaft. The oil pump drive
 
 (4) Refitting is a reversal of the removing procedure (see Sections A.24 and Aa.3–4).
 
-# Section Aa.11
-
 # CRANKSHAFT AND MAIN BEARINGS
-
-# Removing
 
 (1) Follow the instructions given in Section A.25 with the following exceptions.   
 (2) Remove the engine and transmission unit as detailed in Section Aa.3.   
@@ -4825,11 +4442,7 @@ NOTE.—Extreme care is necessary when removing the camshaft. The oil pump drive
 (4) Follow the refitting instructions for installation of the crankshaft and bearings given in Section A.25.   
 () Carry out the inspection and refitting of the transmission unit as detailed in Section Aa.4.
 
-# Section Aa.12
-
 # ENGINE MOUNTINGS
-
-# Removing
 
 Left-hand mounting
 
@@ -4848,11 +4461,7 @@ Left-hand mounting
 
 (8) Refitting is a reversal of the removal procedure.
 
-# Section Aa.13
-
 # CONVERTER OUTPUT GEAR
-
-# Removing
 
 (1) Remove the engine and transmission as detailed in Section Aa.3.   
 (2) Carry out the removing instructions as detailed in Section Aa.4, items (3) to (11) and (13).
@@ -4865,8 +4474,6 @@ Left-hand mounting
 
 (4) Refitting is a reversal of the removal procedure. Aa.12
 
-# Section Aa.14
-
 # CYLINDER LINERS
 
 Follow the instructions in Section A.24 with the following exceptions.
@@ -4874,11 +4481,7 @@ Follow the instructions in Section A.24 with the following exceptions.
 (1) Remove the engine and transmission from the car as detailed in Section Aa.3.   
 (2) Remove the transmission unit from the engine as detailed in Section Aa.4.
 
-# Section Aa.15
-
 # CONVERTER HOUSING OIL SEAL REPLACEMENT
-
-# Removing
 
 (1) Remove the engine from the car as detailed in Section Aa.3.   
 (2) Remove the starter motor and converter cover.   
@@ -4919,11 +4522,7 @@ NOTE.—The converter housing face is not machined, therefore, the initial measu
 ![](images/fce5f8dbadbab04d1c92315313d01a71a1d4ba8180aec5c12272a734a0422a70.webp)  
 Fig. Aa.22 Fitting the converter output gear oil seal, using Service tool 18G 1068 B with adaptor 18G 1068 A
 
-# SECTION B
-
 # THE IGNITION SYSTEM
-
-# Section
 
 Capacitor B.4   
 †Distributor .. . B.1   
@@ -4933,10 +4532,6 @@ Timing .. B.2
 † These operations must be followed by an exhaust emission check
 
 # Section B.1
-
-# DISTRIBUTOR
-
-# Removing
 
 (1 Turn the crankshaft until Nos. 1 and 4 pistons are at T.D.C., rotor arm is pointing to No. 1 segment in the cap and the points are just breaking.   
 () Disconnect the low-tension lead from the terminal on the side of the distributor, and the suction advance pipe from the union.   
@@ -5008,8 +4603,6 @@ If the clamp bolt has been slackened for any reason, when refitting the distribu
 
 # Section B.2
 
-# TIMING
-
 If the distributor has been removed, refer to Section A.10.
 
 # Setting
@@ -5047,8 +4640,6 @@ If this method is used do not run the engine fast enough to operate the centrifu
 
 When the vacuum advance take-off is directly from the induction manifold disconnect it before checking.
 
-# Section B.3
-
 # SPARKING PLUGS
 
 Remove, clean, and adjust the sparking plugs at the recommended intervals and if they are suspected to be the cause of poor performance:
@@ -5060,18 +4651,12 @@ Remove, clean, and adjust the sparking plugs at the recommended intervals and if
 
 # Section B.4
 
-# CAPACITOR
-
 If the capacitor is suspected check by substitution of a new one and note the difference, if any, in the engine running.
 
 ![](images/10363e41b3b9db58fe0280a3fa6d73312f7abe039592cff798dc1dddfc2a7ec6.webp)  
 Fig. B.4
 
 Reset the gap, using a Champion special gap setting tool shown above
-
-# Ba
-
-# SECTION Ba
 
 # THE IGNITION SYSTEM
 
@@ -5085,8 +4670,6 @@ These operations must be followed by an exhaust emission check
 
 Ba.1
 
-# Section Ba.1
-
 # TIMING THE IGNITION
 
 (1) Follow the instructions given in Section B.2 with the following exceptions.   
@@ -5099,8 +4682,6 @@ Fig. Ba.1
 The timing marks on the converter, T.D.C. position is indicated by the 1/4 shown inset; 5° and 10° marks are also provided. The hole in the converter housing (shown inset) used for inserting a suitable tool to turn the converter
 
 C
-
-# SECTION C
 
 # THE COOLING SYSTEM
 
@@ -5119,8 +4700,6 @@ Fig. C.1
 The radiator drain plug or tap
 
 # Section C.1
-
-# RADIATOR
 
 The cooling system is under considerable pressure when hot.
 
@@ -5153,8 +4732,6 @@ Take off the cap slowly, turning it anti-clockwise until you feel the tongues en
 Take out the six screws securing the radiator to the cowling and remove the top half of the cowling.   
 Bend the lower hose to the outside of the cowling and lift out the radiator.
 
-# COOPER
-
 # Removing
 
 (11) Drain the system and remove the bonnet and grille.   
@@ -5170,10 +4747,6 @@ Bend the lower hose to the outside of the cowling and lift out the radiator.
 Reverse the removal instructions.
 
 # Section C.2
-
-# FAN BELT
-
-# Removing
 
 (Slacken the dynamo pivot and adjusting link bolts.   
 Lift the dynamo and run the belt ff the crankshaft pulley.   
@@ -5201,10 +4774,6 @@ Adjust the tension by moving the dynamo so that the belt can be moved 1 in. (25 
 
 # Section C.3
 
-# WATER PUMP
-
-# Removing
-
 (1) Drain the system and remove the radiator.   
 () Disconnect the hose from the water pump inlet connection and slacken the top clip of the by-pass hose.   
 ( Unscrew four set screws and lift off the pump.
@@ -5221,8 +4790,6 @@ Reverse the dismantling instructions.
 
 Reverse the removing instructions. MINI. Issue 1. 4908
 
-# Section C.4
-
 # FROST PRECAUTIONS
 
 Damage due to freezing can be prevenited by draining the system when the car is not in use, or by the addition of anti-freeze. When a heater is fitted anti-freeze must be used as there is no provision for satisfactorily draining the heater matrix.
@@ -5233,10 +4800,6 @@ Quantity of antifreeze required
 ![](images/7bbfacdef995901cad20ff9b92f23404df639654980d04eafa36bf8a8a44c3f7.webp)
 
 # Section C.5
-
-# THERMOSTAT
-
-# Removing
 
 ( Drain the cooling system (Section C.1.).   
 () Disconnect the top hose and remove the cowling upper support bracket.   
@@ -5263,10 +4826,6 @@ Fig. C.5
 
 A section through the water pump showing the location of the components. When assembled, the hole (A) in the bearing must coincide with the lubricating hole in the water pump and the face of the hub (B) must be flush with the end of the spindle. The clearance at (c) must be 020 to б030 in. (б508 to б762 mm.)
 
-# D
-
-# SECTION D
-
 # THE FUEL SYSTEM
 
 Section   
@@ -5283,10 +4842,6 @@ Twin fuel tanks (Cooper 'S) \* \* D.10
 Fig. D.1 The fuel tank located on the left-hand side of the luggage compartment
 
 # Section D.1
-
-# Removing
-
-# FUEL TANK
 
 (1 Unscrew the tank drain plug (when fitted) approximately three turns, otherwise, disconnect the flexible hose from the pump and drain the tank.   
 ( Take off the filler cap, disconnect the lead from the gauge unit and unscrew the bolt from the securing strap. Release the vent pipe clip and remove the tank from the luggage compartment, at the same time drawing the fuel and vent pipes through the fioor. Note the locating plate fitted below the tank.
@@ -5305,17 +4860,11 @@ Fig. D.1 The fuel tank located on the left-hand side of the luggage compartment
 
 # Refitting
 
-# SALOON
-
 (9) Reverse the removal instructions. Note that the vent pipe passes through the same hole as the wiring harness. The seal between the drain pipe housing and the body must be watertight. Refit the locating strip before the strap is tightened.
 
 VAN, PICK-UP, AND TRAVELLER Reverse the removal instructions.
 
-# Section D.2
-
 # TANK GAUGE UNIT
-
-# Removing
 
 ( Disconnect the battery earth cable and the electrical connection from the fuel gauge tank unit.   
 () Ensure that the fuel level in the tank is below that of the fuel gauge unit aperture.   
@@ -5329,8 +4878,6 @@ VAN, PICK-UP, AND TRAVELLER Reverse the removal instructions.
 Fig. D.2
 
 The tongue of the fuel tank locating plate must be secured in the slot in the luggage compartment floor
-
-# Section D.3
 
 # FUEL PUMP—TYPE PD
 
@@ -5352,8 +4899,6 @@ Apart from cleaning the filter and contact points, no servicing is possible; if 
 # Refitting
 
 ( Reverse the removing instructions.
-
-# Section D.4
 
 # FUEL PUMP—TYPE SP AND AUF 201
 
@@ -5496,8 +5041,6 @@ B. 070 ЙО.±б005 in. (1.78 mm.±12 mm.).
 
 rocker is released the spring blade should be deflected away from the ridge. If necessary, set the blade and/or rocker fingers to achieve this position.
 
-# Section D.5
-
 # FUEL PUMP TESTING
 
 ( Fit the SP adaptor set to a test rig, and a cut-away cap to the pump. Connect the pump to a 12-volt battery with a voltmeter and resistance in circuit.
@@ -5517,8 +5060,6 @@ rocker is released the spring blade should be deflected away from the ridge. If 
 # Reduced voltage
 
 (5 The pump should work satisfactorily at a minimum of 9.5 volts.
-
-# D
 
 # THE CARBURETTER COMPONENTS
 
@@ -5575,8 +5116,6 @@ No. Description
 47 Jet link securing screw.   
 4Spring for pick-up lever.
 
-# Section D.6
-
 # CARBURETTERS
 
 IMPORTANT.—The instructions given in this section for adjusting, dismantling and reassembling the carburetters applies only to cars not fitted with exhaust emission control equipment. Carburetters fitted to cars with exhaust emission control equipment must be tuned and serviced in accordance with the instructions given in Workshop Manual Supplement AKD 4957 A.
@@ -5621,8 +5160,6 @@ Fast-idle adjustment screw. 6. Jet link securing screw.
 (17) Lift the piston and note whether it falls freely; fully lower the adjusting nut and check again. If the second check produces a sharper click than the first, repeat the centring.   
 (1 Refit the parts that have been removed, pour thin oil into the hollow rod of the piston damper to within б5 in. (12-7 mm.) of the top of the rod.
 
-# Adjustments
-
 # Slow running
 
 (19) Turn the throttle adjusting screw as necessary.
@@ -5655,8 +5192,6 @@ This may be caused by an incorrect float level or by a faulty needle valve.
 
 (28) Remove, clean, and inspect the needle valve and seating; fit a new assembly if necessary. (29) Check the float level.
 
-# COOPER
-
 # Mixture
 
 (31) Carry out instructions (20) to (23) on each carburetter moving both nuts the same number of turns.   
@@ -5674,8 +5209,6 @@ This may be caused by an incorrect float level or by a faulty needle valve.
 
 # Section D.7
 
-# AIR CLEANER
-
 Renew the filter element at the recommended periods.
 
 # Removing
@@ -5690,8 +5223,6 @@ Renew the filter element at the recommended periods.
 Fig. D.8
 
 # The feeler between the throttle shaft stop and the choke interconnecting spindle
-
-# COOPER
 
 Gauze filters Removing
 
@@ -5718,8 +5249,6 @@ Dry element flter Renew the filter elements at the recommended periods.
 (7) Reverse the removal procedure, ensuring that the air manifold rubber seals are correctly positioned if the container has been removed.
 
 # Section D.8
-
-# FUEL PUMP
 
 (Moke)
 
@@ -5765,11 +5294,7 @@ The fuel tank is located in the left-hand side-member. Remove the tank for acces
 
 (7 Reverse the removal instructions.
 
-# Section D.10
-
 # TWIN FUEL TANKS (Cooper 'S')
-
-# Removing
 
 Both tanks
 
@@ -5803,8 +5328,6 @@ The fuel tank drain plug access
 
 (15) Reverse the removal instructions. (16 Ensure that the seal around the drain plug housing is watertight.
 
-# Da
-
 # SECTION Da
 
 THE FUEL SYSTEM
@@ -5816,8 +5339,6 @@ Section fAir cleaner .. Da.1 †Carburetter .. Da.2
 These operations must be followed by an exhaust emission check
 
 # Section Da.1
-
-# AIR CLEANER
 
 Cars equipped with automatic transmission are fitted with a larger paper-element-type air cleaner.
 
@@ -5838,12 +5359,6 @@ Cars equipped with automatic transmission are fitted with a larger paper-element
 NOTE.—The air cleaner intake should be positioned adjacent to the exhaust manifold during winter operating conditions in order that the possibility of carburetter icing is reduced to the minimum. It is advisable to move the intake away from the manifold in warmer weather.
 
 # Section Da.2
-
-# CARBURETTER
-
-# (Type HS4)
-
-# Description
 
 The HS4 carburetter is fitted to an engine equipped with automatic transmission.
 
@@ -5875,8 +5390,6 @@ The method of adjusting the jet and slow running is as described in Section D.6 
 (7) Select 'N' on the gear lever quadrant and apply the hand brake. (8) Run the engine until it attains its normal running temperature and adjust the jet as described in Section D.6. (9) With the carburetter correctly tuned, adjust the throttle adjusting screw (2) (Fig. Da.l) until a maximum idling speed of 650 r.p.m. is obtained.   
 (10) Pull out the choke control to the maximum fast idle position. Check, and adjust if necessary, the fast idle adjustment screw (3) (Fig. Da.1), to obtain a maximum fast idle speed of 1,050 r.p.m. Push in the choke control and re-check the idling speed.   
 (11) Adjust the governor control rod as detailed in Section Fa.2.
-
-# SECTION Db
 
 # THE FUEL SYSTEM
 
@@ -5981,8 +5494,6 @@ The fuel pump components. Mark the components (arrowed) for correct reassembly
 (18) Reverse the removing procedure, using new joints on the fuel pump insulating block.   
 (19) Switch on the ignition and use the starter continuously for 20 seconds to prime the pump.
 
-# Section Db.2
-
 # TESTING THE FUEL PUMP
 
 Dry test before dismantling a suspect pump and after reassembly (see Fig. Db.3).
@@ -6017,10 +5528,6 @@ Testing the pump for suction (above) and for pressure (below) using Service tool
 
 (3) Hold a finger over the outlet nozzle and depress the rocker arm fully. Pressure should hold for up to 15 seconds.
 
-# E
-
-# SECTION E
-
 # THE CLUTCH
 
 Section   
@@ -6052,11 +5559,7 @@ A section through the clutch assembly
 12. Lock washer. 24. Thrust washer.   
 13. Pressure spring housing. 25. Crankshaft.
 
-# Section E.1
-
 # OVERHAUL (Coil Pressure Spring Type)
-
-# Removing
 
 (1) See Section A.11.
 
@@ -6085,10 +5588,6 @@ NOTE.—When reassembling, fit the pressure plate to the clutch cover with the m
 
 (1) Reverse the removing instructions (Section A.11)
 
-# Section E.2
-
-# ADJUSTMENTS
-
 # Pedai movement
 
 (1) Pull the operating lever outwards until all free movement is taken up, then check the clearance between the lever and the stop.
@@ -6114,8 +5613,6 @@ The clutch pressure springs being compressed with the aid of Service tool 18G 30
 
 If necessary, adjust the stop to give a clearance of б060 in. (1.5 mm.). On later models with the throw-out stop, adjust to give a clearance of б020 in. (б50 mm.).
 
-# DRAG
-
 # Throw-out stop (later models)
 
 Adjustment is normally only necessary if the stop has been removed during overhaul.
@@ -6126,8 +5623,6 @@ Adjustment is normally only necessary if the stop has been removed during overha
 (6Re-check the pedal movement (items (1) and (2) ).
 
 # Clutch over-throw
-
-# To test
 
 (7) Run the engine at its normal temperature and at about 500 r.p.m.   
 (8) Depress and release the pedal three or four times; if the engine stalls or slows down appreciably, overthrow is occurring.
@@ -6141,11 +5636,7 @@ Adjustment is normally only necessary if the stop has been removed during overha
 
 MINI. Issue 1 4908
 
-# Section E.4
-
 # MASTER CYLINDER
-
-# Removing
 
 (1) Disconnect the pedal lever from the push-rod. Unscrew the pipe union from the cylinder. (3) Remove the two bolts securing the unit to the bulkhead.
 
@@ -6196,8 +5687,6 @@ Renew all rubber parts: examine the remainder and renew as required.
 
 # SLAVE CYLINDER
 
-# Removing
-
 ![](images/c9abe45d2c2263b2b847be6e6e39719deb20827bd4262ffb000c430a79e459d7.webp)  
 Fig. E.6
 
@@ -6221,8 +5710,6 @@ Carry out items () to (8in the reverse order.
 
 Reverse the removal procedure items (1) to (4) and bleed the system.
 
-# Section E.6
-
 # CLUTCH (Diaphragm Spring Type)
 
 A diaphragm spring replaces the six conventional coil pressure springs on this clutch assembly.
@@ -6234,11 +5721,7 @@ Fig. E.7
 
 (1) The clutch fully released, with (2) the throw-out stop screwed up to the cover boss.() The clutch fully engaged and the stop (4) screwed up a further б007 to б010 in. (б178 to б254 mm.) towards the cover boss
 
-# SECTION F
-
 # THE TRANSMISSION
-
-# Section
 
 Differential assembly F.4   
 Synchronizing cones F.5   
@@ -6251,11 +5734,7 @@ Transmission—dismantling and reassembling…. F.1
 
 The gear change remote control shaft lubrication nipple on the differential cover requires attention at major overhaul periods only, when grease should be used.
 
-# Section F.1
-
 # TRANSMISSION
-
-# Dismantling
 
 (1) Remove the transmission casing from the crankcase (Section A.19).   
 (2) Withdraw the idler gear with its thrust washers.   
@@ -6359,10 +5838,6 @@ MINI. Issue 2. 20189
 (3) Refit the flywheel housing with a new joint washer and tighten to the torque figure given in 'GENERAL DATA'. Check with feeler gauges that the idler gear has an end-float of between -003 and б008 in. (б08 and 2 mm.), see Fig. F.3. Thrust washers ranging in thickness from б132 to б139 in. (3-34 to 3.54 mm.) are available for adjustment.   
 (40) Remove the fywheel housing and gasket, and refit the transmission unit to the engine as detailed in Section A.19, using a new housing gasket to replace the one used for the idler gear end-float check.
 
-# Section F.2
-
-# THIRD MOTION SHAFT
-
 # Three-speed synchromesh transmission
 
 The baulk ring synchromesh is fitted to Mk. I cars from Engine No. 8AM/U/H412992 and to all Mk. II models. The dismantling and reassembling sequences for the early-type transmission are the same as detailed below except that the second and third/top gear synchronizers are not fitted with baulk rings.
@@ -6382,8 +5857,6 @@ Early type gears. Withdraw the third gear bush and interlocking ring, followed b
 Later type gears. Depress the spring loaded pegs, turn and remove the second speed gear locking collar and take out the two split washers. Pull the gear from the rear of the shaft, and remove the needle-roller bearings from their journal.
 
 If it is necessary to separate the second or third and fourth speed striking dog from its synchromesh hub and cone assembly, press the assembly into Service tool 18G 572, to retain the three balls and springs which are located in each hub.
-
-# Reassembling
 
 # Early type gears
 
@@ -6411,8 +5884,6 @@ Early and later type gears
 (11) Refit the speed gear, hub, and baulk ring, with the cone end of the hub towards the front of the shaft.
 
 Should the first and second speed gear assembly have been dismantled, the gear must be correctly repositioned on the hub, otherwise selection of second gear will be impossible. Ensure that the plunger in the hub aligns with the cut-away tooth in the gear assembly (see Fig. F.6), and that the cone end of the hub and the tapered side of the gear teeth are on opposite sides of the assembly.
-
-# Section F.3
 
 # THIRD MOTION SHAFT
 
@@ -6451,11 +5922,7 @@ Reverse mainshaft gear and 1st and 2nd speed synchronizer. Needle-roller bearing
 (10) When refitting the third and top speed synchronizer assembly, the long boss on the synchronizer sleeve must face the first motion shaft bearing. The first and second speed synchronizer assembly must be fitted with the long boss towards the first speed gear, or second speed synchromesh action will be lost.   
 (11) Use Service tool 18G 186 to drift the first speed gear needle-roller bearing journal onto the third motion shaft.
 
-# Section F.4
-
 # DIFFERENTIAL ASSEMBLY
-
-# Removing
 
 (1) Remove the engine and transmission as detailed in Section A.13.
 
@@ -6469,8 +5936,6 @@ MINI. Issue 2. 20189
 (7) Remove the differential housing stud nuts, withdraw the housing from the transmission case and
 
 remove the differential assembly.
-
-# F
 
 # THE DIFFERENTIAL COMPONENTS
 
@@ -6560,8 +6025,6 @@ N. Synchronizing cone to be heated in oil shrunk onto gear, and punched into hol
 (1 Refer to item (3). Position the remote control shaft lever on the ball end of the operating lever, insert the remote control shaft from underneath and engage it with the splined bore of the former. Insert the set screw after checking that the drilling in the boss and the recess in the shaft are in alignment.   
 (16) Reassemble the transmission, clutch assembly and housing to the engine (if removed, see item (2) ).
 
-# Section F.5
-
 # SYNCHRONIZING CONES (Non-baulk-ring Transmission)
 
 Cones may be shrunk onto the second, third and fourth gears by heating in oil to 121 C. (250 F.) and quenching in cold water when in position.
@@ -6569,8 +6032,6 @@ Cones may be shrunk onto the second, third and fourth gears by heating in oil to
 See Fig. F.9 for machining dimension.
 
 MINI. Issue 1. 20189
-
-# SECTION Fa
 
 # THE AUTOMATIC TRANSMISSION
 
@@ -6704,8 +6165,6 @@ stationary, its reaction being controlled by the one-way clutch. The input bevel
 
 # POWER FLOW DIAGRAMS (MECHANICAL)
 
-# SECOND SPEED
-
 As for all forward gears the forward clutch remains engaged, and in addition the second speed brake band applied. This controls the reaction which is imposed on the reverse drive bevel when in this ratio. With the planet cluster orbiting around the reverse drive bevel power is transmitted from the input bevel through the planets to the mainshaft
 
 ![](images/2896b57f4bce70313be5445bcbc411754cc3bcd64843c8d568f47e473ff0f7ed.webp)
@@ -6734,8 +6193,6 @@ Second gear band.
 For this ratio the third speed bevel wheel is held by its appropriate drum and brake band, and in this case the planet clusters orbit around this gear. Like second speed, power is transmitted from the input bevel through the planets to the mainshaft and in this case provides a ratio of 1б46 : 1.
 
 # POWER FLOW DIAGRAMS (MECHANICAL)
-
-# TOP SPEED
 
 In addition to the forward clutch, the top and reverse clutch is engaged. This in effect locks up
 
@@ -6939,10 +6396,6 @@ Auxiliary pump. Line pressure. Lubrication. Exhaust.
 
 Fa.13
 
-# Section Fa.1
-
-# FAULT DIAGNOSIS
-
 # Road test procedure
 
 It is important to carry out a road test in all cases of suspected faults in order to confirm which component(s) of the automatic transmission are faulty or require adjustment.
@@ -6986,11 +6439,7 @@ Fig. Fa.l
 
 The inhibitor switch on the gear-change lever housing. Inset, the 1 and 3, 2 and 4 connections marked on the switch. The locking nut is indicated by an arrow
 
-# Section Fa.2
-
 # Inhibitor switch
-
-# ADJUSTMENTS
 
 The switch is located on the rear of the gear selector housing (Fig. Fa.1).
 
@@ -7104,10 +6553,6 @@ Removing the valve block and servo bolts
 NOTE.—Should the approximate pressures given above not be obtainable, see Section Fa.1, 'FAULT DIAGNOSIS'.
 
 (29) Remove the pressure test equipment and refit the plug.
-
-# Section Fa.3
-
-# Dismantling
 
 # TRANSMISSION UNIT
 
@@ -7286,10 +6731,6 @@ Fig. Fa.23The servo unit band adjustment
 
 # Section Fa.4
 
-# VALVE BLOCK
-
-# Early models
-
 The valve block can be removed from the transmission unit with the power unit in situ by removing the unit as three individual sections.
 
 It is necessary to clean thoroughly the area around the transmission front cover before any dismantling is commenced. Absolute cleanliness is essential at all times and especially so whilst servicing this unit.
@@ -7331,8 +6772,6 @@ The valve chest with the locations of the valves and components
 Selector valve. Tow start valve.   
 Governor valve. Second and top gear valves.   
 Regulator valve. Third gear valve.
-
-# VALVE CHEST ONLY—'POWER UNIT IN SITU'
 
 # Removing (later 848-c.c. and 998-c.c. models)
 
@@ -7378,8 +6817,6 @@ Check for burrs on the valves and valve chest and for sticking valves. Place all
 
 # VALVE BLOCK ASSEMBLY REPLACEMENT 'POWER UNIT REMOVED'
 
-# Removing (later 848-c.c. and 998-c.c. models)
-
 (25) Remove the engine/transmission unit from the car (Section Aa.3).   
 (26) Remove the converter cover, converter and converter housing as detailed in Section Aa.4, items (3) to (11).   
 (27) Carry out items (10) and (11) and remove the front cover.   
@@ -7423,11 +6860,7 @@ Move the servo unit in the opposite direction until the three pipes are clear of
 (9) Carry out operations (36) to (38) in Section Fa.3.   
 (40) The remainder is a reversal of the removal procedure.
 
-# Section Fa.5
-
 # AUXILIARY PUMP ANDGOVERNOR
-
-# Removing
 
 (1) Remove the engine/transmission unit from the car as detailed in Section Aa.3.
 
@@ -7465,8 +6898,6 @@ Centralizing the pump and governor unit (1) with the end cover (2) using Service
 # Refitting
 
 (14) Carry out the instructions given in Section Fa.3, items (36) and (38). NOTE. — See 'GENERAL DATA' for all torque figures.
-
-# Section Fa.6
 
 # FORWARD CLUTCH
 
@@ -7530,8 +6961,6 @@ The fitted position of the toggles and springs of the 30-tooth clutch
 (15) Refit the governor linkage.
 
 # Section Fa.7
-
-# GEAR TRAIN
 
 The gear train is accurately assembled with special equipment to obtain the correct backlash on the various gears and it is not possible to assemble this unit to factory standard without this special equipment. In the event of failure of any part of this unit a new complete gear train assembly must be fitted. The only washer in the gear train which can be renewed is the forward output gear bi-metal washer (8) (see Fig. Fa.42); this is not a selective size washer.
 
@@ -7703,11 +7132,7 @@ Gap Washer required 000 to б0035 in. (-000 to 08 mm.) б1185 in. (3 mm.) б0035
 (37) Carry out the operations given in Section Fa.3, items (40) and (41). The remainder is a reversal of the removal procedure.   
 (38Refit the power unit to the car as detailed in Section Aa.3.
 
-# Section Fa.8
-
 # SERVO ASSEMBLY
-
-# Removing
 
 (1) Carry out the operations given in Section Fa.3 items (1) to (13).   
 (2) Remove the servo unit from the valve block assembly.
@@ -7758,11 +7183,7 @@ The brake band and struts correctly positioned
 
 (11) Carry out the operations detailed in Section Fa.3, items (30) to (44), (48), and (49).
 
-# Section Fa.9
-
 # DIFFERENTIAL ASSEMBLY
-
-# Removing
 
 (1) Remove the engine and transmission from the car (see Section Aa.3).   
 (2) Drain the engine/transmission unit.   
@@ -7821,11 +7242,7 @@ Example: If the feeler gauge measurement is б005 in. (127 mm.), add a shim of 0
 
 MINI. Issue 2. 16495
 
-# Section Fa.10
-
 # TOP AND REVERSE CLUTCH
-
-# Removing
 
 (1) Carry out the operations given in Section Fa.3, items (1), (2b), and (12).
 
@@ -7876,11 +7293,7 @@ NOTE.—Before refitting the clutch unit, ensure that the friction plates are fr
 (16) Carry out the operations given in Section Fa.7, items (31) and (32).   
 (17) The remainder is a reversal of the removal procedure.
 
-# Section Fa.11
-
 # FIRST GEAR FREE-WHEEL ASSEMBLY(ONE-WAY CLUTCH)
-
-# Removing
 
 (1) Carry out the operation given in Section Fa.3, items (1), (2b), and (12).   
 ( Remove the first gear free-wheel reaction member.   
@@ -7910,11 +7323,7 @@ Check all parts for wear and renew if necessary.
 
 (7 Refitting is a reversal of the removing procedure.
 
-# Section Fa.12
-
 # GEAR-CHANGE CABLE
-
-# Removing
 
 (1) Remove the weather protection cover (if fitted) from the converter housing. Pull back the rubber sleeve and disconnect the gear-change cable by removing the clevis pin. Slacken the yoke clamp nut and remove the yoke, nut, rubber ferrules, and sleeve (see Fig. Fa.60). Remove the adjusting nuts from the outer cable and pull the cable clear of the transmission.   
 ( Release the cable clip from the foor panel.   
@@ -7944,8 +7353,6 @@ Cable sleeve. 8. Quadrant. 12. Inhibitor switch.
 
 # Reassembling
 
-# Dismantling
-
 (6) Hold the assembly in a vice and remove the set screws securing the quadrant to the housing. Release the reverse return spring from the base of the housing and remove the quadrant and lever assembly.   
 (7) Unscrew the cable securing nuts from the front of the housing, pull the cable from the housing and release it from the gear change lever plunger.
 
@@ -7974,11 +7381,7 @@ Each of the two drive shafts employed has two principle members incorporating a 
 
 The joint is packed with special grease and the unit is enclosed in a sealed rubber boot. The inner end of the drive shaft is splined and has a pre-lubricated sliding joiñed sealed with a rubber boot.
 
-# Section G.1
-
 # DRIVE SHAFTS
-
-# Removing
 
 To remove the drive shaft assembly from the vehicle follow the remioving instrictions given for swivel hubs in Section K.2. ..
 
@@ -8001,10 +7404,6 @@ When servicing of the joint becomes necessary, the procedure given in Section G.
 Sliding joint fange
 
 On later models.the sliding joint is prepacked with oz. (21 gm.) of Duckham's M.B. grease (BMC pack AKF 1457) and sealed with a rubber housing seal, early models were fitted with lubricating nipple. When servicing. the sliding joint or fitting a new seal, refer to Section G.2. G.2 ,
-
-# Section G.2
-
-# DRIVE SHAFT OVERHAUL
 
 # Dismantling the shaft assembly
 
@@ -8114,11 +7513,7 @@ The lower arm pivot pin. The measurement at the position indicated must be -312 
 
 (29)When fitting a replacement drive shaft assembly (of the type fitted with a rubber boot on the sliding joint) to the left-hand side of an early model, it will also be necessary to fit a modified lower arm inner pivot pin to ensure sufficient clearance for the rubber boot. Reference should be made to Fig. G.7 for the dimension of the modified pivot pin.
 
-# Section G.3
-
 # DRIVE SHAFT COUPLING
-
-# Removing
 
 (1) Jack up the front of the vehicle, place supports under the sub-frame and remove the road wheel.   
 (2) Remove the upper and lower swivel hub ball pin retaining nuts and release the ball pins from the suspension arms using Service tool 18G 1063.   
@@ -8143,11 +7538,7 @@ Needle bearing race. 4. Journal spider.
 ( Tighten the swivel hub ball pin retaining nuts to the torque figure given in 'GENERAL DATA'.   
 (10) Refit the road wheel and lower the car.
 
-# Section G.4
-
 # UNIVERSAL JOINT OVERHAUL (Cooper 'S' and Automatic models)
-
-# Removing
 
 (1Remove the drive shaft and swivel hub assembly as detailed in Section K.2, operations (1) to (7). (2) Remove the clinching clip securing the yoke housing seal to the drive shaft and pull the yoke housing assembly off the drive shaft splines.
 
@@ -8193,8 +7584,6 @@ Rubber seal. Bearing race. Retaining circlip.
 (18) Fit a new rubber boot and refill it with the recommended grease as detailed in operation (27) of Section G.2.   
 (19) Refit the drive shaft to the swivel hub and reassemble the complete assembly to the vehicle as detailed in operations (19) to (24) of Section K.2.
 
-# SECTION H
-
 # THE REAR SUSPENSION
 
 Section   
@@ -8212,10 +7601,6 @@ Fig. H.1 The rear sub-frame assembly (rubber suspension)
 
 # Section H.1
 
-# SUB-FRAME
-
-# Removing
-
 ( Disconnect the battery.   
 ( Remove the exhaust pipe (Section A.3).   
 (3) Disconnect the hydraulic pipe from the pressure regulating valve.   
@@ -8230,10 +7615,6 @@ Fig. H.1 The rear sub-frame assembly (rubber suspension)
 Reverse the removing instructions.
 
 # Section H.2
-
-# RADIUS ARMS
-
-# Removing
 
 (1 Release the rear damper(s) as in Section L.1.   
 (2) Raise the car and support it under the sub-frame side-member.   
@@ -8262,10 +7643,6 @@ Fig. H.2
 
 Extract the strut from the spring unit and pull it rearwards to disengage the ball end from the radius arm
 
-# Section H.3
-
-# Removing
-
 # SPRING UNITS
 
 (1) Carry out instructions (1) to (3) and (5) in Section H.2.   
@@ -8277,11 +7654,7 @@ Extract the strut from the spring unit and pull it rearwards to disengage the ba
 (4)Reverse the removing instructions, but note:   
 (5) Make sure that the spring unit and spring strut are correctly located in their spigots while the radius arm is being raised to connect the upper end of the damper.
 
-# Section H.4
-
 # SUB-FRAME MOUNTINGS
-
-# Removing
 
 (1 Jack up the car at a point near the bumper and the rear body panel.
 
@@ -8303,10 +7676,6 @@ MINI. Issue 1. 4908
 (7) Reverse the removing instructions. Insert the mounting block to body screws before tightening the support pin nut.
 
 # Section H.5
-
-# HUB
-
-# Removing
 
 () Jack up the car and remove the road wheel and the brake-drum.   
 (Prise off the hub cap.   
@@ -8335,8 +7704,6 @@ Fig. H.4
 
 The rear radius arm, showing a section through the hub assembly
 
-# Section H.6
-
 # HYDROLASTIC SUSPENSION
 
 The system consists of two front and two rear displacer units intercoupled longitudinally. Each is made of sheet steel and rubber and consists of a piston, a diaphragm, a lower and upper chamber housing, and a conical spring of compressed rubber.
@@ -8350,8 +7717,6 @@ The fluid used in the system is a mixture of water and alcohol into which an ant
 The front suspension also comprises upper and lower arms of unequal length located in the side-members of the front sub-frame with their outer ends attached by ball joints to the swivel hubs.
 
 The rear suspension, in addition to the Hydrolastic units, consists of independent trailing arms with auxiliary coil springs.
-
-# Section H.7
 
 # DEPRESSURIZING, EVACUATING, AND PRESSURIZING THE HYDROLASTIC SYSTEM
 
@@ -8437,11 +7802,7 @@ Should the service equipment be used continuously, it may be necessary to carry 
 (25) Remove the front panel and fll the vacuum pump with recommended vacuum oil S.A.E. 10 through the filler hole in the top of the pump. Fill only when the level is at the end of its downward stroke.   
 (26) Lubricate the service unit mechanism periodically. IMPORTANT.—When the equipment is not in use both valves should be left open.
 
-# Section H.8
-
 # DISPLACER UNITS
-
-# Removal
 
 (1 Remove the road wheel and release the helper spring from the radius arm.   
 (2) Raise the car and support it beneath the sub-frame member.
@@ -8464,8 +7825,6 @@ Displacer unit. Locating plate. Locating lugs. Sub-frame. MINI. Issue 1. 4908
 (8) Rotate the displacer clockwise to lock it into the registers on the locating plate.   
 (9)1 Lubricate the strut ball and the nylon seat with Dextragrease G.P. and make sure the dust seal is fitted over the lip of the nylon cup.   
 (10) Evacuate and pressurize the system (Section H.7).
-
-# Section H.9
 
 # SUSPENSION PRESSURE AND WING HEIGHTS
 
@@ -8523,8 +7882,6 @@ Dismantling is described in Section H.2.
 (12) Bleed the hydraulic brake system.   
 (13)Pressurize the Hydrolastic system (see Section H.7).
 
-# Section H.11
-
 # SUB-FRAME (Hydrolastic Suspension)
 
 Remove and refit the sub-frame as in Section H.1, with the following additional operations:
@@ -8534,17 +7891,11 @@ Remove and refit the sub-frame as in Section H.1, with the following additional 
 (3) Disconnect the pressure valves from the sub-frame.   
 (4) Evacuate and re-pressurize the Hydrolastic system when reassembly is complete, following the instructions in Section H.7.
 
-# Section H.10
-
 # RADIUS ARMS(Hydrolastic Suspension)
-
-# Removing
 
 (1) Depressurize the Hydrolastic system (see Section H.7).
 
 H.8
-
-# Section H.12
 
 # SUB-FRAME(Moke)
 
@@ -8564,8 +7915,6 @@ Remove and refit as in Section H.2 with the following exceptions:
 
 Fuel tank and pump removal not necessary.
 
-# Section H.14
-
 # SCHRADER VALVE EXTENSION HOUSING (Hydrolastic Suspension)
 
 To rectify fuid leakage from the Schrader valve extension housing to the pipe elbow:
@@ -8576,10 +7925,6 @@ To rectify fuid leakage from the Schrader valve extension housing to the pipe el
 () The threads of the valve extension housing must be lightly coated with Loctite Grade A after the housing has been re-started on its threads in the elbow. Under no circumstances must Loctite be applied to the valve extension housing before inserting it in the elbow.   
 (4) Tighten the valve extension housing to a torque of 16 to 20 1b. ft. (2б2 to 2б8 kg. m.) and leave for 24 hours at room temperature before pressurizing the system.   
 (5) Evacuate and pressurize the system (see Section H.7).
-
-# J
-
-# SECTION J
 
 # THE STEERING
 
@@ -8593,11 +7938,7 @@ Steering rack assembly .. J.3
 Steering-rack lubrication .. J.5   
 Steering-wheel . . J.1
 
-# Section J.1
-
 # STEERING-WHEEL
-
-# Removal
 
 (1) Disconnect the battery.   
 (Early models. Withdraw the grub screw in the wheel hub and lift up the horn switch.   
@@ -8608,11 +7949,7 @@ Steering-wheel . . J.1
 
 Reverse the above removing instructions. Tighten the nut to the recommended torque (see 'GENERAL DATA').
 
-# Section J.2
-
 # STEERING-COLUMN
-
-# Removing
 
 (1) Disconnect the column switch wiring connectors located below the parcel shelf.   
 (2) Remove the bolt from the lower column clamp/ steering rack pinion shaft.   
@@ -8677,8 +8014,6 @@ Tighten the clamping bolt to the correct torque figure (see 'GENERAL DATA').
 (28) Tighten each of the rack 'U' bolts nuts as a pair, turning each nut alternately a half-turn at a time until secure.   
 (29) Mk. II models. Remove the locator pin and refit the plastic plug.   
 (30) The remainder is a reversal of the removing procedure.
-
-# Section J.3
 
 # STEERING RACK ASSEMBLY
 
@@ -8777,8 +8112,6 @@ at the pinion end, stand the assembly upright and pour in approximately ‡ pint
 (34) Check that the tie-rods have an equal number of threads visible behind each locknut, i.e. approximately eight threads on early racks and 11 threads on the Mk. II racks.   
 (35) Early models. Centralize the rack in the housing. The full travel of the rack in each direction is 1б75 in. (44.5 mm.).
 
-# Refitting
-
 # ALL MODELS
 
 Reverse the removal instructions, but note:
@@ -8788,11 +8121,7 @@ Reverse the removal instructions, but note:
 (38) Carry out the operations (20), and (22) to (30) in Section J.2.   
 (39) Check and reset the wheel alignment (see Section J.4).
 
-# Section J.4
-
 # FRONT WHEEL ALIGNMENT
-
-# Checking
 
 When checking or adjusting the front wheel alignment it is essential to use equipment designed to work at the specified height and diameter, and preferably a gauge which measures the angles involved rather than the difference in distance between the wheels in front of and behind the centres.
 
@@ -8841,8 +8170,6 @@ Correct adjustment on each tie-rod will be indicated by the clearance figures gi
 
 NOTE.—The hole in the rack from which the plastic plug was removed MUST NOT be utilized for the purpose of 'topping up' with lubricant.
 
-# Section J.5
-
 # STEERING RACK LUBRICATION
 
 Lubricating nipples are not provided and rack lubrication is only necessary if leakage is evident from the rack housing or the rubber gaiters.
@@ -8856,8 +8183,6 @@ The following procedure should be followed provided the leakage can be rectified
 
 WARNING.—If the vehicle is hoisted with its front wheels clear of the ground care should be taken to avoid forceful movement of the wheels from lock to lock, otherwise damage may occur within the steering mechanism.
 
-# Section J.6
-
 # NYLON TIE-ROD BALL ENDS
 
 Later ball joints have nylon seats sealed for life and protected by rubber boots; no lubrication is required.
@@ -8866,13 +8191,7 @@ The rubber boots must be maintained in good condition, and if it is found that a
 
 Before fitting a new boot smear the area adjacent to the joint with a little Dextragrease Super G.P. lubricant.
 
-# K
-
-# SECTION K
-
 # THE FRONT SUSPENSION
-
-# Section
 
 пуг рн Description H.6 Depressurizing, evacuating, pressurizing H.7 Displacer units . . K.7 Upper suspension arms K.8   
 Rubber suspension Lower arm K.5 Spring units \* \* K.1 Struts .. . K.6 \* . Upper arm . . K.4   
@@ -8885,13 +8204,7 @@ Fig. K.1
 
 Compressing the spring unit Service tool 18G 574 B
 
-# Section K.1
-
-# SPRING UNITS
-
 # (Rubber Suspension)
-
-# Compressing
 
 (1) Slacken one bolt (or nut) and remove the other securing the sub-frame towers to the engine bulkhead cross-member.   
 (2) Move the locking plate to one side to expose the access hole in the cross-member. Refit the bolt (or nut) and tighten both.   
@@ -8911,10 +8224,6 @@ Compressing the spring unit Service tool 18G 574 B
 (10) Reverse the removing instructions.
 
 # Section K.2
-
-# SWIVEL HUBS
-
-# Removing
 
 (1) Jack up the front of the vehicle, place supports under the sub-frame and remove the road wheel.   
 (2) Remove the steering lever ball joint retaining nut and release the ball joint using Service tool 18G 1063,   
@@ -8997,11 +8306,7 @@ Fig. K.5
 
 The fitted location of the water shield on the drive shaft before the hub is refitted
 
-# Section K.3
-
 # SWIVEL HUB BALL JOINTS
-
-# Removing
 
 (1) Compress the rubber spring unit as detailed in Section K.1 or depressurize the Hydrolastic system, see Section H.7.   
 (Carry out operations (1), (2) and (4) in Section K.2.   
@@ -9037,13 +8342,7 @@ Ball pin seat. Suspension lower arm.
 (21) Disc brake models. Refit the brake calliper.   
 (22) Refit the road wheel and lower the car.
 
-# Section K.4
-
-# UPPER ARM
-
 # (Rubber Suspension)
-
-# Removing
 
 (1) Compress the spring as in Section K.1.   
 (2) Jack up the vehicle and remove the road wheel and damper.   
@@ -9063,10 +8362,6 @@ Reverse the removing instructions, but note:
 
 # Section K.5
 
-# LOWER ARM
-
-# Removing
-
 () Jack up and remove the road wheel and damper.   
 (2) Support the suspension with a jack under the brake-drum.   
 (3) Disconnect the tie-rod from the lower arm.   
@@ -9077,19 +8372,11 @@ NOTE.—Later vehicles are fitted with modified lower arms and these are fitted 
 
 (6) Refitting is a reversal of the removing instructions but note the following: Tighten the shaft securing nut when the vehicle is resting on the road wheels—to prevent pre-loading of the rubber bushes.
 
-# Section K.6
-
-# SUSPENSION STRUTS
-
 # (Rubber Suspension)
 
 Some cars have been fitted with struts having a circular-section washer between the body of the suspension strut and the knuckle end. When fitting a new strut to these vehicles, make sure the washer is included.
 
-# Section K.7
-
 # DISPLACER UNITS (Hydrolastic Suspension)
-
-# Removing
 
 (1) Jack up the car and remove the road wheel.   
 (2) Depressurize and evacuate the Hydrolastic system (see Section H.7).   
@@ -9112,15 +8399,9 @@ The right-hand front displacer hose connector Displacer hose. Hose nut. 3 Connec
 (10 Lubricate the strut ball end and the nylon seat with Dextragrease Super G.P. and make sure the dust seal is fitted over the lip of the nylon cup.   
 (11) Evacuate and pressurize the system (see Section H.7).
 
-# Section K.8
-
 # UPPER SUSPENSION ARMS(Hydrolastic Suspension)
 
-# Removal
-
 Depressurize the Hydrolastic system as in Section H.7 and follow the instruction in K.4 for arm removal.
-
-# Section K.9
 
 # SWIVEL HUB OUTER OL SEAL
 
@@ -9146,10 +8427,6 @@ NOTE.—A bearing overhaul will still require swivel hub removal as in Section K
 (11 Refit the brake-drum.   
 (12)Refit the drive shaft washer, chamfered bore facing inward and refit the nut.   
 (13) Tighten the drive shaft nut to the torque figure given in 'GENERAL DATA' and secure with the split pin.
-
-# L
-
-# SECTION L
 
 # THE HYDRAULIC DAMPERS
 
@@ -9179,11 +8456,7 @@ To release the fuel tank
 (14) Pivot the tank around the tank front hose connection, taking care not to damage the hose, and lift the rear of the tank towards the centre-line of the car until access to the damper is obtained.   
 (15) Remove and refit a damper as operation sequence (7) to (12) for right-hand damper.
 
-# Section L.1
-
 # REMOVAL AND REFITTING
-
-# Front
 
 () Jack up and remove the road wheel.   
 (2) Support the suspension under the brake-drum.   
@@ -9198,8 +8471,6 @@ To release the fuel tank
 
 # Section L.2
 
-# PRIMING
-
 If air is suspected in a hydraulic damper, remove the damper from the vehicle and stand it in a vertical position for approximately five hours, then prime as follows.
 
 # Armstrong
@@ -9212,21 +8483,11 @@ Hold the damper, with the dust shield uppermost, at an angle of 15° to 20° to 
 
 New dampers need only be held in their vertical position for a few minutes before priming. After priming, always store dampers in a vertical position.
 
-# Section L.3
-
 # REAR DAMPERS
-
-# (Moke)
-
-# Removing
 
 ( Jack up and remove the road wheel.   
 (2) Remove the cover from the upper mounting point inside the vehicle.   
 (3) Remove the nuts from the upper and lower mounting points, collapse the damper, and pull it from its anchorage on the radius arm.
-
-# M
-
-# SECTION M
 
 # THE BRAKING SYSTEM
 
@@ -9239,15 +8500,11 @@ Fig. M.1
 
 The front brake-shoe adjuster. One square-headed adjuster is provided on each of the four brake backplates
 
-# Section M.1
-
 # MASTER CYLINDER
 
 See Section E.4, but note the non-return valve fitted in this cylinder.
 
 # Section M.2
-
-# ADJUSTMENT
 
 Early models have one square-headed adjuster screw projecting from each brake backplate. For adjustment on cars having two-leading-shoe brakes see Section M.10.
 
@@ -9271,10 +8528,6 @@ ALL MODELS
 Fig. M.2
 
 The right-hand front brake assembly, showing the fitted positions of the leading and trailing brake-shoes, with the pull-off springs anchored in the correct holes in the shoe web
-
-# Section M.3
-
-# SHOE ASSEMBLIES
 
 # Removing (front)
 
@@ -9317,8 +8570,6 @@ End plug.
 
 Reverse the removing instructions.
 
-# COOPER
-
 # Removing disc brake friction pads
 
 (1) Jack up, remove the wheel.   
@@ -9338,10 +8589,6 @@ On later cars the pads are retained in the callipers by means of split pins only
 MINI. Issue 1. 4908
 
 () Refit the spring, press it down and insert the split pins. (10) Press the pedal several times to adjust the brakes.
-
-# Section M.4
-
-# WHEEL CYLINDERS
 
 # Removing front and rear
 
@@ -9372,11 +8619,7 @@ The hydraulic pressure regulating valve components
 
 Reverse the removal instructions and bleed the system.
 
-# Section M.5
-
 # PRESSURE REGULATING VALVE
-
-# Removing
 
 (1) Disconnect the three pressure lines, unscrew the securing nut and withdraw the assembly from the rear sub-frame cross-member.
 
@@ -9389,8 +8632,6 @@ Reverse the removal instructions and bleed the system.
 (6) Clean all parts with brake fluid, reassemble and refit.
 
 # Section M.6
-
-# INTENSIFIER
 
 COOPER (Early models)
 
@@ -9420,12 +8661,6 @@ M.4
 
 Reverse the removing instructions.   
 Bleed the system.
-
-# Section M.7
-
-# DISC BRAKE CALLIPER
-
-# COOPER
 
 # Removing and dismantling
 
@@ -9480,18 +8715,12 @@ Pad-retaining split pins. Brake pads. Anti-squeak shims.
 
 # Section M.8
 
-# BLEEDING
-
 (1) Adjust the brakes.   
 (2) Slacken the bleeder screw on the intensifier (COOPER, when fitted) and pump the pedal until fuid comes out free from air.   
 (3) Tighten the bleeder screw and top up the master cylinder.   
 (4) Bleed the wheel cylinders. (Remove the front wheels—early COOPER).
 
-# Section M.9
-
 # VACUUM SERVO (Cooper 'S')
-
-# Removing
 
 () Disconnect the heater hose from the grille, release the clip retaining the hose to the slave cylinder and secure the hose out of the way.   
 (2) Disconnect the hydraulic pipes from the slave cylinder, and plug the open ends of the pipes.
@@ -9537,8 +8766,6 @@ MINI. IsSue 1. 4908
 (15) Take extreme care not to damage the surface finish of the push-rod when reassembling the diaphragm. Lock the securing nut by punching the threads in two opposed places.   
 (16) Do not tighten the end cover clamp bolt fully until the air valve cover has been fitted and the pipe in the end cover is lined up with the pipe and rubber elbow on the air valve cover,'   
 (17)Check that the diaphragm spring has its smaller end engaged under the locking plate tabs.
-
-# Section M.10
 
 # TWO-LEADING-SHOE FRQNT BRAKES
 
@@ -9599,8 +8826,6 @@ The adjusters for the two-leading-shoe front brakes M.8
 Fig. M.14
 
 The left-hand front brake assembly, showing the fitted position of the shoes and pull-off springs
-
-# Section M.11
 
 # PREVENTIVE MAINTENANCE
 
@@ -9663,8 +8888,6 @@ No. Description
 38 Spring.   
 Spring retainer.
 
-# SECTION Mb
-
 # THE BRAKING SYSTEM
 
 The information contained in this Section refers specificall to new or modified components fitted to the Mini range coincident with the introduction of NEGATIVE earth electrical systems and must be used in conjunction with Section M.
@@ -9681,11 +8904,7 @@ Fig. Mb.1
 
 A schematic diagram showing the principle of operation and the main components of the vacuum servo unit. The shaded area represents brake fluid
 
-# Section Mb.1
-
 # SERVO UNIT (Lockheed Type 6)
-
-# Operation
 
 Refer to Fig. Mb.1. The vacuum-operated servo unit consists of three main components, namely the vacuum cylinder (), the air valve assembly (2), and the slave cylinder (3) which is connected in the hydraulic circuit between the main master cylinder and the wheel cylinders. Under light braking, fluid is allowed to pass directly to the wheel cylinders via the hollow centre of the slave piston (4) and no braking assistance is obtained; fuid pressure acting on the air valve piston (5) closes the diaphragm (6), thus separating the chamber behind the main servo diaphragm (7) from the one in front. Under heavier braking, further movement of the air valve piston opens the air valve and allows air to enter the chamber behind the main diaphragm, destroying the vacuum. The central rod (9) is thus pushed to the left, sealing the hollow centre of the slave piston and pushing it down its bore, so increasing the fluid pressure at the wheel cylinders. When the brake pedal is released, the pressure beneath the air valve piston is destroyed, the diaphragm (6) re-opens and the air valve closes. Via the non-return valve (10), a suspended vacuum is recreated around the main diaphragm. Under the action of the spring (1 1), the diaphragm and push-rod, and thus the slave piston, are returned to their original positions, and the pressure in the wheel cylinders is lost.
 
@@ -9838,8 +9057,6 @@ the five securing screws firmly, progressively and diametrically; do not overtig
 
 Fluid drained from the system or that used for bleeding should be discarded.
 
-# Section Mb.2
-
 # INERTIA VALVE (Split braking system)
 
 An inertia valve is fitted in the fluid line to the rear brakes; it replaces the pressure regulating valve described in Section M.5 and is similarly located on the rear subframe cross-member.
@@ -9875,11 +9092,7 @@ Reverse the removing procedure noting the marking 'FRONT' on the inertia valve b
 (9) Refill' the master cylinder reservoir with the recommended brake fluid, see 'GENERAL DATA'.   
 (10 Bleed the braking system as in Section Mb.5. Then inspect the inertia valve for fluid leaks with the foot brake pedal fully depressed and also with the systern at rest. NOTE.—Brake fluid can have a detrimental effect on paintwork; ensure that fluid is not allowed to contact paint-finished surfaces.
 
-# Section Mb.3.
-
 # TANDEM MASTER CYLINDER (Split braking system)
-
-# Removing
 
 (1) Disconnect the hydraulic pipes from the master cylinder, and plug the pipe ends to prevent loss of fluid and the entry of dirt.   
 (2) Unscrew the two nuts securing the master cylinder to the bulkhead, and lift it off, leaving the push-rod attached to the brake pedal.
@@ -9925,8 +9138,6 @@ Refer to Fig. Mb.6.
 (26) Refill the cylinder reservoir with the recommended brake fuid, see 'GENERAL DATA'. (27) Bleed the braking system, see Section Mb.5.
 
 NOTE.-Brake fluid can have a detrimental effect on paintwork; ensure that fluid is not. allowed to contact paint-finished surfaces.
-
-# Section Mb.4.
 
 # PRESSURE FAILURE SWITCH ASSEMBLY (Split braking system)
 
@@ -9999,8 +9210,6 @@ End plug. Piston seals.
 
 (16) Reverse the removing procedure in (1) to (4). (17) Refill the cylinder reservoir with the recommended brake fluid, see 'GENERAL DATA'". (18 Bleed the braking system, see Section Mb. 5.
 
-# Section Mb.5.
-
 # BLEEDING THE SYSTEM (Split braking system)
 
 (1) Top up the hydraulic fuid reservoir to the correct level with the recommended brake fluid, see 'GENERAL DATA'. Do not allow the fiuid level to drop more than 2 in. (1б25 cm.) throughout the following operations.   
@@ -10014,11 +9223,7 @@ End plug. Piston seals.
 (9) Attach bleed tubes to the front and rear bleed screws on the opposite side of the car.   
 10) Carry out operations (3) to (8). NOTE. Fluid from the system must be discarded.
 
-# SECTION N
-
 # THE ELECTRICAL SYSTEM
-
-# Section
 
 Alternator (11AC)
 
@@ -10095,21 +9300,15 @@ America.
 
 # NOTE.—On Export models the pilot lamps are combined with the flasher lamps.
 
-# CABLE COLOUR CODE
-
 B. Biack. P. Purple. Y. Yellow. U. Blue. R.Red L. Light. N. Brown. s. Slate. M. Medium. G. Green. . White. D. Dark
 
 Vhen a cable has two colour code letters the first denotes the main colour and the second denotes the tracer colour.
-
-# WIRING DIAGRAM
 
 # Standard and De-luxe (up to 1964)
 
 ![](images/0bd8bb9cc3d3c7e6f18a736adc992e67b2521f261a75dd7ffa6889b4a98e9172.webp)
 
 # KEY TO WIRING DIAGRAM
-
-# No. Description
 
 L.H. fasher lamp. L.H. headlamp and pilot lamp. 3. R.H. headlamp and pilot lamp. 4. R.H. fasher lamp. 5. Distributor. 6. Ignition coil. 7. Horn. 8. Dynamo. 9. Voltage regulator and cut-out. 10. Oil pressure switch. 11. Main-beam warning light. 12. Panel illumination light. 13. Stop light switch. 14. Parcel shelf illumination lamp. 15. Oil pressure warning light. 16. Ignition warning light. 17. Flasher unit. 18. Panel illumination switch. 1 Fuel gauge. Parcel shelfilumination switch. 21. 35-amp. fuse.
 
@@ -10281,8 +9480,6 @@ When a cable has two colour code letters the first denotes the main colour and t
 
 # KEY TO WIRING DIAGRAM
 
-# No. Description
-
 1. Dynamo.   
 2. Control box.   
 3. 12-volt battery.   
@@ -10338,8 +9535,6 @@ U. Blue Purple. Y. Yellow.
 N. Brown. Red. L.G. Light Green.
 
 When a cable has two colour code letters the first denotes the main colour and the second denotes the tracer colour.
-
-# WIRING DIAGRAM
 
 # Super De-luxe, Countryman, Traveller, Cooper, and Cooper 'S' Mark II
 
@@ -10502,10 +9697,6 @@ When a cable has two colour code lettrs the first denotes the main colour and th
 
 # Section N.1
 
-# BATTERY
-
-# Maintenance
-
 (1) Keep the battery clean and the vent holes in the caps free.   
 (2) Clean corroded terminals with diluted ammonia and smear them with petroleum jelly.   
 () Maintain the level of the electrolyte just above the tops of the separators. NOTE.—Disconnect the battery earth cable before boost-charging the battery or using arc welding equipment on the body. Considerable damage to the electrical components will result if the ignition is switched on while the battery remains connected to the car electrical system.
@@ -10543,10 +9734,6 @@ During the charge the electrolyte must be kept level with the top edge of the se
 (12) Finally, allow the battery to cool, and siphon off any surplus electrolyte.
 
 # Section N.2
-
-# DYNAMO
-
-# Removing
 
 (1) Disconnect the leads, slacken the four mounting bolts, remove the fan belt from the pulley, take out the two upper and one lower mounting bolts and lift off the dynamo.
 
@@ -10649,10 +9836,6 @@ Fig. N.2
 
 # Section N.3
 
-# STARTER
-
-# Removing
-
 (1) Disconnect the cable, unscrew the three bolts and lift away.
 
 # Dismantling
@@ -10673,8 +9856,6 @@ Reassembling and refitting Reverse the removal and dismantling instructions.
 
 # Servicing
 
-# Brushes
-
 See Section N.2, items (7) to (9).
 
 # Drive
@@ -10690,13 +9871,7 @@ See Section N.2, items (7) to (9).
 
 N.20
 
-# Section N.4
-
-# VOLTAGE REGULATOR
-
 # Adjusting (cold unit)
-
-# Electrical
 
 (1) Disconnect the cables from the control box terminals 'A' and 'Al' and join them together.   
 (2) Connect the negative lead from a voltmeter (0–20 volts) to control box terminal 'D' and the positive lead to terminal 'E'.   
@@ -10731,12 +9906,6 @@ Armature securing screws. 7Core face andshim. б021 in. (б533 mm.).
 
 # Section N.5
 
-# CUT-OUT
-
-# Adjustment
-
-# Electrical
-
 (1) To check, connect the voltmeter between terminals 'D' and 'E'. Start the engine and slowly increase the speed until the contacts close; this should occur at 12б7 to 13б3 volts.   
 (2) To adjust, turn the adjusting screw clockwise to raise the voltage and anti-clockwise to reduce it. Turn only a fraction at a time. Make the adjustments as quickly as possible to avoid temperature effects.
 
@@ -10761,8 +9930,6 @@ Shunt coil.
 
 # Section N.6
 
-# LAMPS
-
 Full details of the lamps, bulbs, warning lights, etc., are given in the Driver's Handbook.
 
 ![](images/70a5c967cdb28cd498c86a37696c8c1e17b0ced9e66e7a374686033f57a2e738.webp)  
@@ -10775,11 +9942,7 @@ F1. Cut-out adjusting screw. 5. Armature tongue and mov
 4. Stop arm. 8. б030 in. (76 mm.).   
 010 to б020 in. (25 to 51 mm.).
 
-# Section N.7
-
 # BI-METAL RESISTANCE INSTRUMENTATION
-
-# General description
 
 The bi-metal resistance equipment for fuel and temperature gauges consists of an indicator head and transmitter unit connected to a common voltage stabilizer. In both applications the indicator head operates on a thermal principle, using a bi-metal strip surrounded by a heated winding, and the transmitter unit is of a resistance type. The system by which the equipment functions is voltage-sensitive and the voltage stabilizer, which serves one or more gauges, is necessary to ensure a constant supply of a pre-determined voltage to the equipment.
 
@@ -10819,8 +9982,6 @@ MINI. Issue 1. 14091
 Check for continuity between each unit. Check for leak to earth. Check for short circuits to earth on wiring to each transmitter. Check terminal wiring for security, earth connections, and wiring continuity. Check that the voltage stabilizer and relating transmitters are earthed.
 
 NOTE.—If the voltage stabilizer is removed it is essential to ensure that, when replacing, B and E are uppermost and not exceeding 20 degrees from the vertical.
-
-# Section N.8
 
 # WINDSCREEN WIPER MOTOR (Moke)
 
@@ -10878,11 +10039,7 @@ segments will cause excessive current consumption. The resistance between segmen
 
 (20) Reverse the removing procedure, but before switching on the motor remove the wiper arms from the spindles. Switch on the motor and stop it at the end of the stroke; refit the arms so that they are in the correct parking position.
 
-# Section N.9
-
 # WINDSCREEN WIPER WHEELBOXES
-
-# Removing
 
 (1) Withdraw the wiper arms from the wheelbox spindles, and remove the external securing nuts.   
 (2) All models except Moke. From under the bonnet, slacken the nut securing the rack to the motor. Swivel the wheelboxes through into the engine compartment sufficiently to enable the securing nuts to be removed and release the wheelbox from the rack and cable. Note the location of the flared ends of the Bundy tubing with each wheelbox.   
@@ -10892,8 +10049,6 @@ segments will cause excessive current consumption. The resistance between segmen
 
 (4) Reverse the removing procedure and fit new external sealing grommets if required. Tighten the rack securing nut on the motor.   
 (5) Switch on the motor and stop it at the end of the stroke. Ensure that the arms are correctly positioned to give maximum wipe area and park at the end of the stroke.
-
-# Section N.10
 
 # ALTERNATOR SERVICE PRECAUTIONS
 
@@ -10909,8 +10064,6 @@ The following precautions must be observed when dealing with vehicles fitted wit
 Do not make or break any connections in the alternator circuit while the engine is running.
 
 (7) Disconnect the alternator and regulator as a safety precaution when arc-welding on the vehicle.
-
-# Section N.11
 
 # TESTING THE ALTERNATOR CHARGING CIRCUIT IN POSITION
 
@@ -10951,11 +10104,7 @@ Stop the engine and check the wiring connections. Connect a voltmeter (low range
 
 If either reading exceeds б5 volt there is high resistance in the charging circuit which must be traced and remedied. Should the test show no undue resistance (although output is low) proceed to dismantle and inspect the alternator.
 
-# Section N.12
-
 # DISMANTLING AND OVERHAULING THE 11AC ALTERNATOR
-
-# Removing
 
 (1) Disconnect the battery and detach the electrical leads from the alternator.   
 (2) Slacken the alternator securing bolts, push the alternator towards the engine and detach the driving belt from the alternator pulley. Remove the securing bolts and detach the alternator from the engine.
@@ -10975,8 +10124,6 @@ The drive end bracket and rotor need not be separated unless the drive end beari
 (7 Close the retaining tongues on the brush terminal blades and withdraw the terminals from the brush box.
 
 # Inspection
-
-# Brush gear
 
 Brushes worn below  in. (8 mm.) should be replaced.   
 ( The new brush complete with spring and 'Lucar' terminal blade is pushed into the holder until the tongue registers. To retain the terminal, carefully lever up the retaining tongue with a thin blade.   
@@ -11115,11 +10262,7 @@ Lighting switch.
 85. Alternator field isolating relay.   
 07. Alternator charge indicator unit 3AW.
 
-# Section N.13
-
 # CONTROL UNIT (4TR)
-
-# Testing
 
 (1) Check the resistance of the wiring circuits of the alternator, control unit, and battery to control unit, including the relay unit. The resistance should not exceed б1 ohm.
 
@@ -11164,21 +10307,13 @@ Alternator 'AL'. 2.Positive '+'. . Warning light 'WL'.
 
 # Section N.14
 
-# Description
-
-# RELAY
-
 The relay de-energizes the alternator rotor field winding when the engine is stationary by disconnecting the supply from the rotor field immediately the ignition is switched 'off'. This allows contact 'Cl' and 'C2' to part and open-circuit the rotor feld winding. The alternator will not generate if the contacts fail to close when the ignition is switched 'on'.
-
-# Section N.15
 
 # WARNING LIGHT CONTROL
 
 The control is electrically connected to the centre point of one pair of diodes in the alternator and enables a warning light to be used to indicate that the alternator is charging when the engine is running at normal speed.
 
 If proved faulty, replace the unit.
-
-# SECTION Nb
 
 # THE ELECTRICAL SYSTEM
 
@@ -11197,11 +10332,7 @@ Panel securing screws.
 Speedometer cable release lever.   
 Multi-plug wiring connector.
 
-# Section Nb.1
-
 # INSTRUMENT PANEL (Clubman and 1275 GT)
-
-# Removing
 
 (1) Disconnect the battery earth cable (NEGATIVE).   
 (2) Remove the air ventilation louvre adjacent to the instrument panel (see Section Rb.4).   
@@ -11213,11 +10344,7 @@ Multi-plug wiring connector.
 
 (6) Reverse the removing instructions but note that the connector plug will fit one way only and make sure the speedometer cable is fully engaged in the instrument. Carefully refit the trim liners and use adhesive when refitting the door seal.
 
-# Section Nb.2
-
 # INSTRUMENTS (Clubman and 1275 GT)
-
-# Removing
 
 (1) Remove the instrument panel (see Section Nb.1). Nb.2
 
@@ -11269,11 +10396,7 @@ Fig. Nb.3
 4. Panel and warning lamp bulb holdersrs.   
 5. Voltage stabilizer.
 
-# Section Nb.3
-
 # INSTRUMENT PANEL PRINTED CIRCUIT (Clubman and 1275 GT)
-
-# Removing
 
 ( Remove the instrument panel (Section Nb.1).   
 (2) Withdraw all the panel and warning light bulb holders (4) and pull off the voltage stabilizer (5) (see Fig. Nb.3).   
@@ -11285,8 +10408,6 @@ Fig. Nb.3
 # Replacing
 
 (7) Fit the replacement circuit, bending the bulb contacts into each respective holder recess. The remainder is a reversal of the removing procedure.
-
-# Section Nb.4
 
 # VOLTAGE STABILIZER
 
@@ -11321,15 +10442,9 @@ Nb.4
 
 # Transmitter
 
-# Reftting
-
 (11) Refit the instrument panel as detailed in Section Nb.1.
 
-# Section Nb.5
-
 # SPEEDOMETER DRIVE CABLE
-
-# Removing
 
 (1 Remove the instrument panel (see Section Nb.1).   
 ( Press in the release lever (2) on the cable and pull the cable out of the instrument (see Fig. Nb.1). Withdraw the cable into the engine compartment.   
@@ -11343,11 +10458,7 @@ From beneath the car, disconnect the cable through the aperture above the left-h
 
 (5) Withdraw the inner cable and lightly grease it except for 8 in. (200 mm.) at the speedometer end, re-insert it in the outer casing and wipe away surplus grease. Check that there is approximately in.(10 mm.) projection of the inner cable beyond the outer casing at the speedometer end.
 
-# Section Nb.6
-
 # DIRECTION INDICATOR FLASHER UNIT
-
-# Removing
 
 (1) Access to the unit is through an aperture in the fascia parcel shelf. Pull the flasher unit from its spring clip holder and through the access hole; pull off the wiring connections.
 
@@ -11358,8 +10469,6 @@ From beneath the car, disconnect the cable through the aperture above the left-h
 
 # Inspecting and testing
 
-# Brush gear
-
 (9) Check the brush spring tension; fit a new brush into each holder in turn, and press on top of the brush with a push-type spring gauge until the brush protrudes approximately 18 in. (1.5 mm.) from the holder. At this point check the gauge, which should read approximately 28 oz. (794 gm.); renew the commutator-end bracket if the tension is incorrect.   
 (10) Check the brushes for wear, and renew any brush worn to or approaching the minimum length of in. (9.5 mm.).   
 (11) To renew the end-bracket brushes, cut the brush leads from the terminal post, slot the head of the post sufficiently deep to accommodate the new brush leads and solder the new leads to the post.   
@@ -11369,11 +10478,7 @@ To renew the feld winding brushes, cut the brush leads approximately ‡ in. (6�
 
 ( Connect the wiring to the new unit and refit it into the holder.
 
-# Section Nb.7
-
 # STARTER (Type M35J—Inertia Drive)
-
-# Removing
 
 ( Disconnect the battery earth cable.   
 ( Disconnect the cable at the starter motor, remove the two bolts securing the starter motor to the fywheel housing and manceuvre the starter away from the engine.
@@ -11508,11 +10613,7 @@ Lock torque and current
 (31) Operate the switch and note the ammeter and spring balance readings. Calculate the lock torque by multiplying the reading of the spring balance in pounds by the length of the arm in feet.   
 (32) Check the readings obtained in item (31) against the figures given for lock torque and current in GENERAL DATA'.
 
-# Section Nb.8
-
 # WINDSCREEN WIPER (Lucas Type 14W—Permanent Magnet)
-
-# Operation
 
 This windscreen wiper, which is produced in either single- or two-speed form, has two permanent field magnets incorporated in a cylindrical yoke. The twospeed type is fitted with a third brush, to which the positive feed is transferred when a faster wiper speed is required.
 
@@ -11644,10 +10745,6 @@ The armature end-float adjusting screw
 
 (26) Reverse the procedure (9) to (12), leaving the wheelbox covers slack until after the cable rack has been inserted and the motor secured. Do not re-fit the wiper blades until after the action of the wheelboxes has been checked.
 
-# Section Nb.9
-
-# ALTERNATOR
-
 # (Lucas type 16ACR)
 
 The model 16ACR alternator is similar in basic construction to that of the type 11AC as described in Section N.12, except that the slip-rings are mounted behind the rear rotor shaft bearing outside the slip-ring end bracket, and no separate control unit is fitted. Instead, a voltage regulator, of micro-circuit construction is incorporated on the slip-ring end bracket, inside the alternator cover.
@@ -11657,8 +10754,6 @@ The model 16ACR alternator is similar in basic construction to that of the type 
 The alternator service precautions given in Section N.10 must be observed. Note that the battery polarity is NEGATIVE EARTH, which must be maintained at all times. The field connector block, which has three blades and is marked 'B+' and 'IND', has an offset moulded stop and must be removed before the main output connector block, which has two blades and is marked '+' and '—'. Since the B+ connector blade, although shrouded, is always live, disconnect the battery earth before removing the field connector block.
 
 # Testing in position
-
-# Output test
 
 (1) Check that the fan belt is correctly tensioned and that all charging circuit electrical connections are secure.   
 (2) Run the engine at fast idle speed until its normal operating temperature is reached, and see that the battery is fully charged.   
@@ -11840,8 +10935,6 @@ Reverse the removal procedure in (17) to (21), and ensure that the drive belt is
 
 # THE ELECTRICAL SYSTEM
 
-# WIRING DIAGRAMS
-
 Page
 
 Master key to wiring diagrams .. Nb.π
@@ -11949,19 +11042,11 @@ When a cable has two colour code letters the first denotes the main colour and t
 
 ![](images/4771c5be19e9b0919edbcad8ee35046ce6ceb7e1171e5d021ed68e1790950ec8.webp)
 
-# R
-
 # SECTION R
-
-# THE BODY
 
 Section Alignment .. R.13-R.14 Door frame—rear (Countryman and Travelle) .. . . .\* R.8 Door locks .. .. R.7 Glasses Back-light \* . R.2 Door .. R.3 \*\* Quarter-light .. . \* R.4 . . Sliding (Countryman and Traveller) ,. R.9 Windscreen . . . . R.1 • • Heater assembly (recirculatory type) • . R.5 Heater assembly (fresh-air type) .. . • R.16 Instrument panel (Mk. I models) .. ... R.11 Instrument nacelle (Mk. II models) \*. R.18 Instruments (Mk. II models) . . R.17 \* \* Roof liner .. R.6 Speedometer (Super De-luxe and Cooper) .. .. R.12 Tilt frame and cover (Pick-up) . . R.10 \* . Windscreen (Moke) \*\* R.15
 
-# Section R.1
-
 # WINDSCREEN GLASS
-
-# Removing
 
 (1) Lift the wiper blades from the glass.   
 (2) Prise up the end of the locking filler and pull it from the rubber channel.   
@@ -11973,25 +11058,15 @@ Section Alignment .. R.13-R.14 Door frame—rear (Countryman and Travelle) .. . 
 (5) Fit the glass into the lower channel of the rubber and lift the lip of the surround with the short peg of Service tool 18G 468, starting at one corner and working round.   
 (6) Thread the locking filler through the handle and eye of the tool, insert the tool into the filler strip channel and draw the tool along the channel, feeding the filler through the tool. When cutting the filler, allow a small overlap and then force the ends into position.
 
-# Section R.2
-
 # BACK-LIGHT GLASS
 
 As items (2) to (6) in 'Windscreen Glass'.
-
-# Section R.3
-
-# DOOR GLASSES
 
 # Removing and refitting
 
 Take out the screws from the lower channel and remove the glass and channel. Reverse to refit.
 
-# Section R.4
-
 # QUARTER-LIGHT GLASSES
-
-# Removing (Fixed type)
 
 (1) Support the outside of the glass and hit it with the palm of the hand inside at the top, then remove the glass and rubber.
 
@@ -12017,11 +11092,7 @@ Use Service tool 18G 468 to ease the channel lip over the windscreen glass
 
 Reverse the removal instructions.
 
-# Section R.5
-
 # HEATER ASSEMBLY (Recirculatory Type)
-
-# Initial fitting
 
 Full instructions for fitting are contained in the heater kit.
 
@@ -12046,10 +11117,6 @@ MINI. Issue 2. 23136
 
 # Section R.6
 
-# ROOF LINER
-
-# Removal
-
 (1) Disconnect the battery and remove the roof light.   
 (2) Mark the position of the rear edge of the front liner on the cant rail.   
 () Grip the outer edges of the liner and pullit backwards and inwards.   
@@ -12072,10 +11139,6 @@ The use of the glazing tool and eye to thread the locking filler strip into the 
 
 # Section R.7
 
-# DOOR LOCKS
-
-# Removing
-
 ( Withdraw the screw securing the lock to the inner panel and the screw from the end of the locking handle spindle.   
 (Slacken the screw clamping the inner lever and remove the handle and escutcheon.
 
@@ -12083,11 +11146,7 @@ The use of the glazing tool and eye to thread the locking filler strip into the 
 
 Reverse the removal instructions. Ensure that the inner control cable lever is fitted upright.
 
-# Section R.8
-
 # DOOR FRAME—REAR (Countryman and Traveller)
-
-# Removing
 
 The wood frame is a complete assembly.
 
@@ -12095,11 +11154,7 @@ The wood frame is a complete assembly.
 
 MINI. Issue 1. 4908
 
-# Section R.9
-
 # SLIDING GLASSES (Countryman and Traveller)
-
-# Removing
 
 (1) Remove the trim panel from above the sliding windows. Remove the upper channels, support the inside and push the glass from the outside.
 
@@ -12107,11 +11162,7 @@ MINI. Issue 1. 4908
 
 (Reverse the removal instructions.
 
-# Section R.10
-
 # TILT FRAME AND COVER
-
-# (Pick-up)
 
 The tilt frame and cover are supplied as a separate kit; the centre and rear hoop sockets, and the front attachment bracket for the struts, are fitted to the vehicle as original equipment.
 
@@ -12177,11 +11228,7 @@ Repeat this operation on the remaining turnbutton positions, working from front 
 
 Reverse the removal instructions.
 
-# Section R.12
-
 # SPEEDOMETER (Super De-luxe and Cooper)
-
-# Removing
 
 ( Remove the panel.   
 (2) Unscrew two screws and remove the speedometer instrument panel brackets and distance pieces.   
@@ -12189,8 +11236,6 @@ Reverse the removal instructions.
 (4) Disconnect the fuel gauge cable.   
 (5) Pull out the bulb holders from the speedometer.   
 (6) Withdraw the speedometer into the engine compartment.
-
-# Section R.13
 
 # CHECKING BODY ALIGNMENT
 
@@ -12205,17 +11250,11 @@ Reverse the removal instructions.
 (7) Stretch a length of chalk-covered cord so that it passes through as many of the marked central points and intersections as possible.   
 (8) While the cord is held taut by two operators, a third should raise the cord and allow it to spring back and leave a white line on the floor. Any points through which the resulting white line does not pass will indicate the point where the underframe is out of alignment.
 
-# Section R.11
-
 # INSTRUMENT PANEL
 
 MINI. Issue 1. 4908
 
 # (Super De-luxe, Travelle, and Countryman)
-
-# COOPER
-
-# Removing
 
 (1) Remove four screws from the front face of the shroud.   
 (2 Withdraw the shroud and disconnect the panel light switch wires.
@@ -12224,8 +11263,6 @@ MINI. Issue 1. 4908
 Fig. R.4 The assembly of the jig components
 
 (9) Considerable deviations in the measurements given on pages R.11 and R.12 confirm body misalignment Allowance must be made for normal manufacturing tolerances and a reasonable departure from nominal dimensions can be permitted without detriment to performance.
-
-# Section R.14
 
 # CHECKING BODY ALIGNMENT (With Checking Jig)
 
@@ -12307,25 +11344,13 @@ A parallel clearance of  in. (3б18 mm.) must exist between the body and the che
 
 # Section R.15
 
-# WINDSCREEN
-
-# (Moke)
-
-# Removal
-
 (1) Remove the windscreen wiper arm and blade.   
 (2) Remove four nuts and screws.   
 (3) Slacken the bottom retaining screws.   
 (4) Lift the frame and glass from the vehicle.   
 (5) Remove two screws, detach the bottom channel, and remove the glass from the frame.
 
-# Section R.16
-
-# HEATER ASSEMBLY
-
 # (Fresh-air Type)
-
-# Removing
 
 (Disconnect the battery and drain the cooling system.   
 (2) Remove the front floor covering to avoid damage by coolant when removing the heater pipes.   
@@ -12359,13 +11384,9 @@ On early models the heater unit is secured by four nuts. Lift the parcel shelf t
 
 (16) Reverse the removal procedure and refill the radiator with coolant. Start and warm up the engine, check for leaks and correct operation of the heater assembly. Top up the coolant in the radiator to the correct level.
 
-# Section R.17
-
 # INSTRUMENTS (Mk. I Models)
 
 It is not necessary to withdraw the instrument nacelle to remove the instruments, access to these being from under the bonnet behind the carburetter.
-
-# Removing
 
 # Speedometer
 
@@ -12388,11 +11409,7 @@ Fig. R.7 The fresh-air heater assembly securing points (arrowed)
 
 (6) Refitting or replacing all units is a reversal of the removing procedure.
 
-# Section R.18
-
 # NSTRUMENT NACELLE (Mk. II Models)
-
-# Removing
 
 (1) Remove the fascia ashtray and bend up the retaining tab.   
 ( Release the portion of the door seal covering the fascia trim liner and carefully lift the liner which is fi xed by adhesive solution to the body. Ease the liner from the fascia sufficiently to gain access to the instrument nacelle securing screws.   
@@ -12450,8 +11467,6 @@ X 90064 Z
 
 # SECTION Rb
 
-# THE BODY
-
 The information contained in this Section refers specifically to new or modified components fitted to the Mini range coincident with the introduction of NEGATIVE earth electrical systems and must be used in conjunction with Section R.
 
 Section   
@@ -12473,10 +11488,6 @@ Rear (when fitted) Rb.15
 
 # Section Rb.1
 
-# BUMPERS
-
-# Removing
-
 #
 
 (1) From beneath the wings, remove the two bolts securing each end of the bumper.   
@@ -12492,10 +11503,6 @@ Front and rear (4 Reverse the removing instructions.
 
 # Section Rb.2
 
-# FRONT GRILLE
-
-# Removing
-
 (1) Remove the headlamp/grille extension panels (four screws securing each panel).   
 () Remove the grille panel securing screws and lift the panel out of the locating holes in the lower grille panel assembly.
 
@@ -12508,11 +11515,7 @@ Fig. Rb.1
 
 The heater unit securing points (arrowed)
 
-# Section Rb.3
-
 # HEATER ASSEMBLY
-
-# Removing
 
 (1 Drain the cooling system (Section C.1).   
 ( Remove the front floor covering to avoid damage by coolant when disconnecting the heater pipes.   
@@ -12575,13 +11578,7 @@ Fig. Rb.2
 
 Removing a fresh-air ventilating louvre Retaining ring. Moulding. . Louvre.
 
-# Section Rb.4
-
 # FRESH-AIR VENTILATION (Fascia Louvres)
-
-# Removing
-
-# Louvres
 
 (1) Unscrew the louvre moulding retaining ring and remove the moulding (Fig. Rb.2). Turn the ventilation louvre anti-clockwise and withdraw it.
 
@@ -12593,15 +11590,9 @@ Removing a fresh-air ventilating louvre Retaining ring. Moulding. . Louvre.
 
 ( Reverse the removing procedures.
 
-# Section Rb.5
-
-# DOOR LOCKS
-
 # (Operation, Adjustments, Lubrication)
 
 Before attempting to remove any part of the mechanism because of faulty operation first check that the condition is not caused by bad installtion.
-
-# Operation
 
 # Push-button plunger
 
@@ -12658,10 +11649,6 @@ The latching elements are enclosed and apart from initial lubrication during man
 
 # Section Rb.6
 
-# DOOR LOCKS
-
-# Removing
-
 (1) Remove the interior release handle, window regulator handle, and the door trim panel. Pull back the adhesive strip adjacent to the lock.   
 () Remove the screws securing the latch unit and the lock remote control (Fig. Rb.5).   
 (3) Remove the interior locking control securing screws (Fig. Rb.5).   
@@ -12692,10 +11679,6 @@ Remote control. Exterior handle lock link.
 
 # Section Rb.8
 
-# DOOR GLASS
-
-# Removing
-
 (1) Remove the interior release handle, the window regulator handle, and the door trim panel. Pull off the adhesive sealing strips where necessary.   
 (2) Remove the outer and inner waist rail finishers (Fig. Rb.8).   
 (Remove the regulator assembly securing screws and use the regulator handle to raise the door glass approximately one-half of its travel (Fig. Rb.8), and use a wooden wedge or block to maintain this position whilst removing the regulator.   
@@ -12710,12 +11693,6 @@ Remote control. Exterior handle lock link.
 (When refitting the inner waist rail finisher, butt the forward end against the glazing channel rubber seal before attempting to refit the remainder in position.
 
 # (10Refit or fit new adhesive sealing strips.
-
-# Section Rb.7
-
-# EXTERIOR DOOR HANDLES
-
-# Removing
 
 (1) Remove the interior handles, door trim, and latch assembly—Section Rb.6, operations (1) to (5).   
 (2) Wind up the window, remove the exterior handle securing screws (Fig. Rb.7), and withdraw the handle from the door.
@@ -12737,11 +11714,7 @@ emoving the door glass regulator, with insets showing the regulator arms and pos
 Wedge (to secure glass). 5Waist rail finisher (outer).   
 Waist rail finisher (inner). Securing clips for finishers.
 
-# Section Rb.9
-
 # DOOR GLASS REGULATOR
-
-# Removing
 
 (1) Remove the interior handles, door trim, and regulator assembly—see Section Rb.8, operations (1), (3), and (4).
 
@@ -12749,11 +11722,7 @@ Waist rail finisher (inner). Securing clips for finishers.
 
 (Apply sealer around the edge of the regulator plate. Ensure that the lip on the front edge of the regulator is engaged inside the door frame. The remainder is a reversal of the removing procedure.
 
-# Section Rb.10
-
 # DOOR GLASS CHANNEL
-
-# Removing
 
 (1) Follow the instructions given in Section Rb.8 for door glass removal.   
 (2) Remove the glazing channel rubber strip and pull the channel from the door frame.
@@ -12764,11 +11733,7 @@ Waist rail finisher (inner). Securing clips for finishers.
 
 MINI. Issue 3. 81171
 
-# Section Rb.11
-
 # ROOF LINING (Mini Saloon range)
-
-# Removing
 
 (1) Disconnect the battery earth cable.   
 (2) Disconnect and remove the roof lamp.   
@@ -12800,11 +11765,7 @@ On earlier cars the support rails are also colour coded and are fitted from fron
 ![](images/dd8baf094eba0e7fd3cb082f94ed9de9f60550d43fca6583ae70095bd9d43dea.webp)  
 Fig. Rb.10
 
-# Section Rb.12
-
 # ROOF LINERS (Mini Clubman Estate)
-
-# Removing
 
 () Disconnect the battery and remove the roof light. (2) Mark the position of the rear edge of the front liner on the roof cant-rail.
 
@@ -12820,13 +11781,7 @@ Rb.8
 
 (6Reverse the removing procedure items (1) to (5).
 
-# Section Rb.13
-
 # AUTOMATIC SEAT BELTS(Central Console Type)
-
-# Removing
-
-# Reel assembly—Britax belts
 
 (1 Before removing any belt fixings, attach a clip (1) to the belt just above the reel assembly to prevent the belt retracting during removal and storage. The clip (1) must not be removed until the belt assembly has been refitted, see Fig. Rb.11.
 
@@ -12888,11 +11843,7 @@ NOTE.—If the seat belts were being used whilst the car was involved in a sever
 
 (9With the belts being worn, drive the car at 5 m.p.h. (8 km.p.h.) and brake sharply; the automatic locking device should operate and lock the reel.
 
-# Section Rb.14
-
 # STATIC SEAT BELTS (Central Console Type)
-
-# Removing
 
 Belt fixing brackets
 
@@ -12989,11 +11940,7 @@ The centre console mounting straps
 
 1 Securing screw. Loc asherr. Mounting straps.
 
-# Section Rb.15
-
 # REAR SEAT BELTS (When fitted)
-
-# Removing
 
 (1) Remove the rear seat cushion and squab. () Remove the belt bracket retaining screws (1) with their spring washers (2), see Fig. Rb.16.
 
@@ -13235,10 +12182,6 @@ KH
 A1039
 
 # 18G 123 AP. Camshaft Liner Reamer Cutter—Rear
-
-# A4964
-
-# 18G 123 B. Camshaft Liner Reamer Cutter
 
 ![](images/cce97842acd81afa907579f610b76e95eb29216abed3c437758f0c2195e4cc2f.webp)
 
@@ -13636,7 +12579,6 @@ S.21
 
 ![](images/b002b580926603e7ce4e7208abf82d27544207dd0daefce90dd6bc52b71e2184.webp)
 ### Mini Owner:
-`mini_cooper_1976_en_e5d4d696` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1976 Mini MK3 (South African model)   
 1977 Mini GTS (South African Model)   
@@ -13652,13 +12594,11 @@ Saloon, Countryman and Traveller Clubman, Estate and 1275 GT : Van, Pick-up and 
 
 
 ### Workshop Manual
-`mini_cooper_1976_en_30a74987` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:2 | doc_type:owners_manual
 
 Publication No. AKD 4935 (7th Edition)
 
 
 ### DESCRIPTION
-`mini_cooper_1976_en_0bcaa464` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:3 | doc_type:owners_manual
 
 This Manual is intended to asst the skilled mechanic in carrying out repairs and replacements in a minimum :ime.
 
@@ -13666,7 +12606,6 @@ References to left- or right-hand side in this Manual are made when viewing the 
 
 
 ### MANUAL ARRANGEMENT
-`mini_cooper_1976_en_98697292` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:4 | doc_type:owners_manual
 
 The frst part of the Manual includes the General Data, Engine Tuning Data, and Maintenance which incorporates the Recommended Lubricants Chart.
 
@@ -13680,7 +12619,6 @@ Sections having the sufix ' contain supplementary information applicable to the 
 
 
 ### REPAIRS AND REPLACEMENTS
-`mini_cooper_1976_en_f4664302` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:5 | doc_type:owners_manual
 
 When replacement parts are required it is essential that only genuine British Leyland parts and Unipart replacenents are used.
 
@@ -13695,13 +12633,11 @@ All British Leyland parts and Unipart replacements have the full backing of the 
 
 
 ### British Leyland (Austin-Morri) Limited, 1972
-`mini_cooper_1976_en_52d2dd95` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:6 | doc_type:owners_manual
 
 All rightreeNoart oti publiai maye rruce steia eralsystmor tamiteany fomelt mchanicaoireman ihourie peisioriLendusin-oriieeie Division.
 
 
 ### SPECIFICATION
-`mini_cooper_1976_en_f544f28f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:7 | doc_type:owners_manual
 
 Purchasers are advised that the specification details set out in this Manual apply to a range of vehicles and not to any particular vehicle. For the specification of any particular vehicle purchasers should consult their Distributor or Dealer.
 
@@ -13711,7 +12647,6 @@ Whilst every effort is made to ensure the accuracy of the particulars contained 
 
 
 ### IMPORTANT
-`mini_cooper_1976_en_d354bfd2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:8 | doc_type:owners_manual
 
 On cars fitted with exhaust emission control equipment service operations and adjustments showing this symbol just be followed by an exhaust emission check.
 
@@ -13727,7 +12662,6 @@ IMPORTANT. Insert-type stiffuts must be used on the front suspension tie rods an
 
 
 ### General Data
-`mini_cooper_1976_en_ca2bc3ed` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:9 | doc_type:owners_manual
 
 Mini Mk. I and I (848 c.c.) and Mk. II (998 c.c.) General Data 1-9   
 Mini-Cooper (997 c.c. and 998 c.c.) General Data 10-13   
@@ -13740,7 +12674,6 @@ Mini 1275 GT General Data 27-33
 
 
 ### Tuning Data
-`mini_cooper_1976_en_a37c2133` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:10 | doc_type:owners_manual
 
 Mini Mk. I, II and 850 (848 c.c.) Tuning Data 1   
 Mini Mk. II and 1000 (998 c.c.) … . Tuning Data 2   
@@ -13761,13 +12694,11 @@ Mini Clubman — SWEDEN (998 c.c.) Tuning Data 12
 
 
 ### GENERAL DATA
-`mini_cooper_1976_en_1b132e7b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:11 | doc_type:owners_manual
 
 MINI MK. I & II (848 c.c.) & MK. II (998 c.c.)
 
 
 ### (848 c.c.)
-`mini_cooper_1976_en_fa0189c1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:12 | doc_type:owners_manual
 
 (998 c.c.)
 
@@ -13794,7 +12725,6 @@ Overhead by push-rod.
 
 
 ### CRANKSHAFT
-`mini_cooper_1976_en_ce0111ec` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:13 | doc_type:owners_manual
 
 Main journal diameter Minimum regrind diameter .. 1.7505 to 1б751 in. (44б46 to 44б47 mm.).   
 Crankpin journal diameter 1б7105 in. (43б45 mm.).   
@@ -13808,14 +12738,12 @@ Taken on centre main bearing.
 
 
 ### CONNECTING RODS
-`mini_cooper_1976_en_f82c9110` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:14 | doc_type:owners_manual
 
 Length between centres ..   
 Big-end bearings 5.75 in. (14б605 cm.). Bearing side-clearance . б008 to б012 in. (б203 to б305 mm.). Bearing diametrical clearance Bearing length .. б001 to б0025 in. (б025 to б063 mm.). \* \* 875 in. (22-22 mm.).
 
 
 ### PISTONS
-`mini_cooper_1976_en_ef6a6573` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:15 | doc_type:owners_manual
 
 Type .. Split skirt. Solid skirt.   
 Clearances: Bottom of skirt б0006 to б0012 in. (б015 to б030 mm.). 0005 to б0011 in. (013 to б028 mm.). Top of skirt   
@@ -13823,7 +12751,6 @@ Oversizes .. . . -б010 in. +б020 in., +б030 in., +б040 in. +-010 in., +б020
 
 
 ### PISTON RINGS
-`mini_cooper_1976_en_23825b3d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:16 | doc_type:owners_manual
 
 Compression Tapred Top ring. Top ring, chrome-faced.   
 Width Thickness . . . . Second and third rings. б069 to 070 in. (1б75 to 1б78 mm.). б095 to б101 in. (2б41 to 2б56 mm.). Second and third rings. б0620 to б0625 in. (1б574 to 1б588 mm.). 106 to -112 in. (2б692 to 2б835 mm.).   
@@ -13832,19 +12759,16 @@ m rт б0015 to б0035 in. (-038 to б089 mm.).
 
 
 ### GENERALDATA
-`mini_cooper_1976_en_9b497163` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:17 | doc_type:owners_manual
 
 MINI MK. I & II (848 c.c.) & MK. II (998 c.c.)-continued
 
 
 ### (998 c.c.)
-`mini_cooper_1976_en_0402b281` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:18 | doc_type:owners_manual
 
 Oil control type .. Slotted scraper. Width .. . . б124 to б125 in. (3.15 to 3.175 mm.). Thickness ... 095 to б101 in. (2б41 to 2б56 mm.). Fitted gap .. 007 to -012 in. (б178 to 305 mm.). Clearance in groove •\* 0015 to -0035 in. (038 to -089 mm.).
 
 
 ### GUDGEON PIN
-`mini_cooper_1976_en_46e3710e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:19 | doc_type:owners_manual
 
 Type . . •-• . . Clamped in little-end. Fully foating, with circlip location.   
 Fit in piston •=• • Hand push-fit. Hand push-fit.   
@@ -13852,7 +12776,6 @@ Diameter (outer .. ... ..\* .. .. . •624 in. (15.86 mm.).
 
 
 ### VALVES AND VALVE GEAR
-`mini_cooper_1976_en_70df5519` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:interior | p:20 | doc_type:owners_manual
 
 #
 
@@ -13870,14 +12793,12 @@ Valve rocker bush bore (reamed) .. .. ... -5630 to 5635 in. (14б30 to 14б312 m
 
 
 ### VALVE GUIDES
-`mini_cooper_1976_en_7c39ec2d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:21 | doc_type:owners_manual
 
 Length: Inlet and exhaust . 1б687 in. (42б86 mm.).   
 Diameter: Outside: Inlet and exhaust . . . . .. 469 in. (11б91 mm.). Inside: Inlet and exhaust .. б2813 to 2818 in. (7б145 to 7б257 mm.).
 
 
 ### VALVE SPRINGS
-`mini_cooper_1976_en_7adb56c5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:22 | doc_type:owners_manual
 
 Free length: Inlet and exhaust .. ... 1б625 in. (41б27 mm.).   
 Number of working coils . . .. .. 43.   
@@ -13885,7 +12806,6 @@ Pressure: Inlet and exhaust: Valve open •.. • 70 1b. (31б8 kg.). Valve clos
 
 
 ### TAPPETS
-`mini_cooper_1976_en_66b91e64` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:23 | doc_type:owners_manual
 
 Diameter.. .… б812 in. (20б64 mm.).   
 Length \*— 1б5 in. (38-10 mm.).
@@ -13894,7 +12814,6 @@ General Data 2
 
 
 ### GENERAL DATA
-`mini_cooper_1976_en_f4412275` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:24 | doc_type:owners_manual
 
 MINI MK. I & II (848 c.c.) & MK. II (998 c.c.)—continued
 
@@ -13904,7 +12823,6 @@ MINI MK. I & II (848 c.c.) & MK. II (998 c.c.)—continued
 
 
 ### CAMSHAFT
-`mini_cooper_1976_en_1ea6cf95` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:25 | doc_type:owners_manual
 
 Journal diameters: Front ... 1б6655 to 1б666 in. (42б304 to 42б316 mm.). Centre 1б62275 to 1б62325 in. (41-218 to 41б231 mm.). Rear 1б3725 to 1б3735 in. (34-862 to 34-887 mm.).   
 End-float . . . 003 to 007 in. (076 to 178 mm.).   
@@ -13920,7 +12838,6 @@ Oil pressure Normal running 60 1b./sq. in. (4б22 kg./cm.). Idling (minimum) •
 
 
 ### COOLING SYSTEM
-`mini_cooper_1976_en_ce49149b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:hvac | p:26 | doc_type:owners_manual
 
 Type Pressurized radiator, thermo-siphon, pump- and fanassisted.   
 Pressure cap . 13 b./sq. in. (91 kg./cm.).   
@@ -13929,7 +12846,6 @@ Hot climates г •.• ..• 74° C. (165 F.).
 
 
 ### FUEL SYSTEM
-`mini_cooper_1976_en_b2218e8b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:27 | doc_type:owners_manual
 
 Carburetter refer to TUNING DATA'. Fuel pump Make and type: Early saloons S.U. electric. PD. Later vehicles S.U. electric. SP.
 
@@ -13939,27 +12855,23 @@ MINI. Issue 2. 80025
 
 
 ### GENERAL DATA
-`mini_cooper_1976_en_982cef98` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:28 | doc_type:owners_manual
 
 MINI MK.I & II (848 c.c.) & MK. II (998 c.c.)-continued
 
 
 ### (998 c.c.)
-`mini_cooper_1976_en_38c1946c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:29 | doc_type:owners_manual
 
 Delivery rate: PD type 45 pints/hr. (25-5 litres/hr.). SP and AUF 201 type 56 pints/hr. (32 litres/hr.).   
 Delivery pressure: PD type . . 2 to 3 1b./sq. in. (б14 to б21 kg./cm.2). SP and AUF 201 type .. . . 2 to 3 1b./sq. in. (б17 to -21 kg./cm.2).
 
 
 ### CLUTCH
-`mini_cooper_1976_en_7bb32334` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:30 | doc_type:owners_manual
 
 BMC single dry plate Diameter 7 in. (180.9 mm.). Facing material Wound yarn. Pressure springs 6. Colour .. •.• . Red spot.   
 Diaphragm-spring clutch Make .. . • Borg and Beck. Diameter 7 in. (180б9 mm.). Facing material . Wound yarn. Diaphragm-spring colour code Brown. Light green.
 
 
 ### Gearbox
-`mini_cooper_1976_en_19c16330` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:31 | doc_type:owners_manual
 
 Number of forward speeds 4.   
 Synchromesh .. .. Second, third, and fourth gears.   
@@ -13970,14 +12882,12 @@ Gearbox (From Engine No. 8AM-WE-H101) (From Engine Nos. 99H-159-H101 and 99H-251
 
 
 ### DRIVE SHAFTS
-`mini_cooper_1976_en_9b18e740` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:33 | doc_type:owners_manual
 
 Type . . Solid shaft, reverse spline.   
 Make and type of joint .. Hardy Spicer, hemispherical joint.
 
 
 ### STEERING
-`mini_cooper_1976_en_18f33bf0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:34 | doc_type:owners_manual
 
 Type Rack and pinion.   
 Steering-wheel turns-lock to lock 2\$3.   
@@ -13988,7 +12898,6 @@ King pin (swivel hub) inclination 9°30' with vehicle in an Toe-out 16 in. (1б6
 
 
 ### FRONT SUSPENSION
-`mini_cooper_1976_en_37dc6567` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:35 | doc_type:owners_manual
 
 Early models, 1959–1964 Rubber cone spring.   
 Later models Hydrolastic displacers.   
@@ -13997,7 +12906,6 @@ Fluid pressure: Early models (unladen) 263 1b./sq. in. (18б49 kg./cm.2). Later 
 
 
 ### REAR SUSPENSION
-`mini_cooper_1976_en_107bf616` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:36 | doc_type:owners_manual
 
 Type Rubber cone spring.   
 Toe-inn in. (3б18 mm.).   
@@ -14006,13 +12914,11 @@ Radius arm bushes (reamed bore) . . б8125 to б8130 in. (20-63 to 20-65 mm.).
 
 
 ### HYDRAULIC DAMPERS (Rubber suspension only)
-`mini_cooper_1976_en_0f6bd08a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:37 | doc_type:owners_manual
 
 Type: Front and rear .. Tubular telescopic.
 
 
 ### BRAKES (Up to Chassis Nos. 296256 and 638878)
-`mini_cooper_1976_en_dd77b04c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:38 | doc_type:owners_manual
 
 Lockheed hydraulic Single-leading shoe. Drum size 7 in. (17б8 cm.) diameter. Lining dimensions: Front or rear 675 in.×125 ЙО.(17б14 cm.×3-17 cm.). Lining area: Front or rear \* \* 33-75 sq. in. (217-7 cm.2). Lining material . . .. Don 202. Master cylinder bore diameter in. (19б05 mm.).   
 Wheel cylinders Cylinder bore diameter: Front 1 in. (20б64 mm.). Rear ..  in. (15.87 mm.).
@@ -14021,27 +12927,23 @@ MINI. Issue 3. 80025
 
 
 ### BRAKES (From Chassis Nos. 296257 and 638879)
-`mini_cooper_1976_en_04989e18` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:40 | doc_type:owners_manual
 
 Lockheed hydraulic Two-leading-shoe. Lining dimensions 6.75×1б5 in. (174×3.18 cm.). Lining area per wheel: Front . 20-5 sq. in. (132б3 cm.2). Rear 17.1 sq. in. (110-3 cm.2). Swept aea pr hel ront. .. : : 27.5.1. 120.m.).   
 Mater ide d damter . . : : . . D in2 (17 m.). Cylinder bore diameter: Front •• 16 in. (23.81 mm.). Rear . . in. (19.05 mm.).
 
 
 ### WHEELS
-`mini_cooper_1976_en_b09dab0a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:41 | doc_type:owners_manual
 
 Type: ventilated disc .. 3б50B×10.
 
 
 ### TYRES
-`mini_cooper_1976_en_a15d5480` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:42 | doc_type:owners_manual
 
 Size: Standard 5б20—10 tubeless. Radial ply .. 145-10 tubeless.   
 Pressures: Standard-normal conditions Front 24 1b./sq. in. (1.7 kg./cm.2). Rear 22 b./sq. in. (155 kg./m2). fully loaded Front and rear 24 1b./sq. in. (1б7 kg./cm.). Radial ply, all conditions Front 28 1b./sq. in. (1б97 kg./cm.2). Rear 26 1b./sq.in.(183 kg./cm.).
 
 
 ### ELECTRICAL EQUIPMENT
-`mini_cooper_1976_en_5a091b11` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:43 | doc_type:owners_manual
 
 System 12-volt, positive earth.   
 Charging system .. Compensated voltage control.   
@@ -14056,7 +12958,6 @@ Alternator .. \* •-. .. Lucas 11AC (12 volts). Matinum oung Restance : : . 43 
 
 
 ### GENERALDATA
-`mini_cooper_1976_en_4e87ed14` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:44 | doc_type:owners_manual
 
 MINI MK. I & II (848 c.c.) & MK. II (998 c.c.)—continued
 
@@ -14064,7 +12965,6 @@ Minimum brush length in. (3.97 mm.). Brush spring pressure: .(19-84 mm.) compres
 
 
 ### GENERAL DIMENSIONS
-`mini_cooper_1976_en_fe309b40` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:45 | doc_type:owners_manual
 
 Wheli 7 ft.  n 2.1. Moke .. ... 6 ft. 8 in. (2036 m.).   
 Overall length: Saloon . •.• .. 10 ft.  in. (3-05 m.). Van, Traveller, and Countryman 10 ft. 9 in. (3-259 m.). Pick-up .. . . .. . • 10 ft. 103 in. (3б315Н.). Moke . . 10 ft. 0 in. (3-04 m.).   
@@ -14080,13 +12980,11 @@ Maximum permissible towing weight (suitable for 1 in 8 gradient in bottom gear):
 
 
 ### WEIGHT OF COMPONENTS
-`mini_cooper_1976_en_42058688` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:46 | doc_type:owners_manual
 
 Engine and transmission assembly 333 1b.(151 kg.). MINI. Issue 3. 80025
 
 
 ### CAPACITIES
-`mini_cooper_1976_en_85c138a8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:48 | doc_type:owners_manual
 
 Transmission casing (including filter) .. 8‡ pints (10-2 U.S. pints, 4-83 litres).   
 Cooling system 54 pints (6б3 U.S. pints, 3 litres). With heater 64 pints (7б5 U.S. pints, 3б55 litres).   
@@ -14094,7 +12992,6 @@ Fuel tank: Saloon . . .. 5 gallons (6б6 U.S. gallons, 25 litres). Van and Pick-
 
 
 ### Engine
-`mini_cooper_1976_en_1b77283c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:49 | doc_type:owners_manual
 
 ib.ft. kg.m.   
 Connecting rod big-end bolts.. 35 4.8   
@@ -14118,7 +13015,6 @@ Water outlet elbow .. 8 1.1
 
 
 ### Gearbox and transmission
-`mini_cooper_1976_en_23596622` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:50 | doc_type:owners_manual
 
 First motion shaft nut . \* . 150 20.7   
 Third motion shaft nut .. . 150 20.7   
@@ -14133,7 +13029,6 @@ tower).. .. \* \* . \* . . 6 .8
 
 
 ### Final drive
-`mini_cooper_1976_en_6c32c321` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:51 | doc_type:owners_manual
 
 Driven gear to differential cage 60 Driving flange to differential nut 70 End cover bolts (differential housing) 18 General Data 8
 
@@ -14143,7 +13038,6 @@ Driven gear to differential cage 60 Driving flange to differential nut 70 End co
 
 
 ### TORQUE WRENCH SETTINGS
-`mini_cooper_1976_en_055b3a2e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:52 | doc_type:owners_manual
 
 Suspension and steering lb. ft. kg.m. Front hub nut (drive shaft) . . 60 8.3 Front suspension upper arm pivot pin nut .. . . 26 to 28 3.6 to 3.9 Rear suspension stub axle nut \* \* . . . . 60 8б3 (align to next slot) Road wheel nuts .. \* . 42 5.8 Steering-column/rack pinion clamp bolt .. . . 8 to 9 1 to 1б2 Steering lever to hub bolts . . \*\* .. 35 4.8 Steering lever ball joint nut . 20 to 24 2.8 to 3.3 Steering knuckle ball pin bottom nut 35 to 40 4.8 to 5.5 Steering knuckle ball pin top nut . . 35 to 40 4.8 to 5.5 Steering knuckle ball pin retainer 70 9.6 Steering-wheel nut 32 to 37 4б5 to 5.0
 
@@ -14151,20 +13045,17 @@ Alternator (11AC) Ib. in. kg.m. Brush box fixing screws 10 115 Diode heat sink f
 
 
 ### Distributor
-`mini_cooper_1976_en_35dbd6de` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:53 | doc_type:owners_manual
 
 Distributor clamp bolt: Fixed nut type . . 50   
 Fixed bolt type 30
 
 
 ### MINI COOPER 997 c.c. & 998 c.c.
-`mini_cooper_1976_en_da4432a4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:54 | doc_type:owners_manual
 
 The following iformation is applicable to the Mini-Cooper and should be used in cojuction with the preceding specification for the Mini Mk. I and I (848 c.c.) and Mk. I (998 c.c.).
 
 
 ### ENGINE
-`mini_cooper_1976_en_3e26d2e2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:55 | doc_type:owners_manual
 
 Type ... ж• 9F.   
 Number of cylinders \*т. 4.   
@@ -14188,13 +13079,11 @@ Torque: High compression 54В..(7б46 kgm.) at 3,600 r.p.m. Low compression ."�
 
 
 ### CRANKSHAFT Main bearings
-`mini_cooper_1976_en_8bfc88d6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:56 | doc_type:owners_manual
 
 Material вмв Stee-backed copper-lead or aluminium-tin; thin wall. Running clearance ..• 001 to -0027 in. (б025 to б069 mm.). Length .. .. ... •\*• • •.0 1-0625 in. (26-99 mm.). CONNECTING RODS Big-end bearings Material •\*6 •\*• — Stee-backed copper-lead or aluminium-tin; thin wall. Bearing length .. .. ..• \*• •.• — 875 in. (22б22 mm.).
 
 
 ### PISTONS
-`mini_cooper_1976_en_0ea7a3ca` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:57 | doc_type:owners_manual
 
 Type •… ... Solid skirt. Solid skirt.   
 Clearance: Bottom of skirt (pressure face) 0016 to -0022 in. (041 to -056 mm.). 0005 to -0011 in. (013 to -028 mm.).   
@@ -14202,13 +13091,11 @@ Oversizes: 1st •±0 \*• •=• вхв •x• +010 in.(254 mm.). 2nd •- �
 
 
 ### PISTON RINGS
-`mini_cooper_1976_en_b98c2df0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:58 | doc_type:owners_manual
 
 Compression: Top в \*\*в Plain, chrome-faced. Wichnes  n n tid .. 010 102512.054.2.5..) в. GUDGEON PIN Type . . Fully foating, with circlip location. Fit in piston в= 0001 in.(0025 m.) tight tO 0005i (0089mm) slack. Fit in small end .. \*.. 0002 in. (005 mm.) slack, to size. Diameter .. т •. 6244 in. (15.86 mm.) to б6247 in. (15.867 mm.).
 
 
 ### GENERAL DATA
-`mini_cooper_1976_en_7aabe47b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:59 | doc_type:owners_manual
 
 MINI-COOPER (997 c.c. & 998 c.c.)-continued
 
@@ -14218,7 +13105,6 @@ MINI-COOPER (997 c.c. & 998 c.c.)-continued
 
 
 ### Valves
-`mini_cooper_1976_en_cc0ea761` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:60 | doc_type:owners_manual
 
 Throat diameter: Inlet б098 in. (23б06 mm.). Exhaust б312 in. (7.92 mm.).   
 Head diameter: Inlet .. •.. 1б156 in. (29б4 mm.). Exhaust 1б00 in. (25б40 mm.).   
@@ -14237,14 +13123,12 @@ With 019 i.(48 mm.) valve rocker clearance (for checking purposes only).
 
 
 ### VALVE SPRINGS
-`mini_cooper_1976_en_cc1c99d9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:61 | doc_type:owners_manual
 
 Free length: Inner •\*0 .n• ... .. .. 1б672 in. (42б47 mm.). Outer ... ... 1.75 in. (44•45 mm.). 1б75 in. (44б45 mm.).   
 Pressure: Inner: Valve closed •=• \* \* . . 18 1b. (8б17 kg.). Outer: Valve closed . Valve open ө\*• 55 1b. (24.9 kg.). в\*• .. 30 1b. (13б6 kg.). 553 1b. (25.13 kg.). Valve open .• 90 1b. (40б8 kg.). 88 1b. (39.9 kg.).
 
 
 ### CAMSHAFT
-`mini_cooper_1976_en_6bf84cde` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:62 | doc_type:owners_manual
 
 Journal diameters: Front •x• • \*• \* 1б6655 to 1б666 in. (42б304 to 42б316 mm.). Centre ... . в\* 1б62275 to 1б62325 in. (41б218 to 41б231 mm.). Rear :. в-• 1б3725 to 1б3735 in. (34-862 to 34б887 mm.).   
 End-float .. •-• ..• , 003 to -007 in. (076 to б178 mm.).   
@@ -14253,14 +13137,12 @@ Inside diameter (reamed in position): Front •= 1б667 to 1б6675 in. (42б342 
 
 
 ### ENGINE LUBRICATION SYSTEM
-`mini_cooper_1976_en_b1cb7c1d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:63 | doc_type:owners_manual
 
 Oil pump Type b Concentric or Hobourn-Eaton. Relief pressure valve operates 701b./sq. in. (4.92 kg/cm.). Relief valve spring: Free length 2 in. (66б28 mm.). Fitted length 25 in. (54.77 mm.).   
 Oil pressure Normal running •м• но 70 1b./sq. in. (4б92 kg./cm.2). Idling (minimum) ь 15 1b./sq. in. (1б05 kg./cm.2).
 
 
 ### FUEL SYSTEM
-`mini_cooper_1976_en_55716ed3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:64 | doc_type:owners_manual
 
 Carburetter refer to 'TUNING DATA'.   
 Fuel pump Make and type S.U. electric. Type SP. Delivery rate • 56 pts./hr. (67-2 U.S. pts./hr., 32 litres/hr.). Delivery pressure к 2 to 3 1b./sq. in. (б18 to 21 kg./cm.2).
@@ -14269,41 +13151,35 @@ MINI. Issue 2. 80025
 
 
 ### AIR CLEANERS
-`mini_cooper_1976_en_ebd58fa7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:65 | doc_type:owners_manual
 
 Фype . . Oil-wetted gauze.   
 Later models .. Paper elements.
 
 
 ### IGNITION SYSTEM
-`mini_cooper_1976_en_0777fd7b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:66 | doc_type:owners_manual
 
 Coil   
 Distributor Refer to 'TUNING DATA'. Sparking plugs
 
 
 ### CLUTCH
-`mini_cooper_1976_en_03e113fe` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:67 | doc_type:owners_manual
 
 Pressure springs—colour.. Black enamel with white spot.   
 Diaphragm spring colour code.. Light green.
 
 
 ### GEARBOX
-`mini_cooper_1976_en_3bbd7fdc` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:68 | doc_type:owners_manual
 
 Ratios: Top 10:1. Third .. 1б357 : 1. First Second . \* \* .. . . 1б916 :1. 3.2:1. Reverse .. . . 3б2:1. Standard Available alternative   
 Overall ratios: Top 3б765 : 1. 3.444 : 1. Third 5б11 :1. 4-674 : 1. Second 7б213 : 1. 6б598 : 1. First .. 12б05 : 1. 11б03 : 1. Reverse .. 12б05 : 1. 11б03:1.
 
 
 ### DIFFERENTIAL
-`mini_cooper_1976_en_ff465083` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:69 | doc_type:owners_manual
 
 Ratio .…. 3.765 : 1 standard. 3-444 : 1 Optional (aVailable as a Service item only).
 
 
 ### BRAKES
-`mini_cooper_1976_en_4188f281` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:70 | doc_type:owners_manual
 
 Brake fluid .. Lockheed (Series 329).   
 Front   
@@ -14314,19 +13190,16 @@ General Data 12
 
 
 ### GENERAL DIMENSIONS
-`mini_cooper_1976_en_e7b4b4ee` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:71 | doc_type:owners_manual
 
 Kerbside weight: Rubber suspension models . . ... 1,400 1b. (635 kg.). Hydrolastic suspension models . . 1,433 1b. (650 kg.). Maximum permissible towing weight (suitable for 1 in 8 gradient in bottom gear): .. . \* 8 cwt. (4064 kg.).
 
 
 ### TORQUE WRENCH SETTINGS
-`mini_cooper_1976_en_aad0e5ee` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:steering | p:72 | doc_type:owners_manual
 
 l. ft. kg.m. Calliper retaining bolts. 35 to 40 4.8 to 5.5 Steering lever ball joint .. 25 to 30 3.4 to 4.1
 
 
 ### GENERAL DATA
-`mini_cooper_1976_en_0f22eefd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:73 | doc_type:owners_manual
 
 IINI-C00PER S' MK.I (970 c.c., 1071 c.c. & 1275 c.c.) and CO0PER 'S MK. II & III (1275 c.c.)
 
@@ -14334,7 +13207,6 @@ The following information is applicable to the Mini-Cooper S' and should be used
 
 
 ### ENGINE
-`mini_cooper_1976_en_394d6f92` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:74 | doc_type:owners_manual
 
 Number of cylinders .. 4.   
 Bore (all models) .. 2.780 in. (70б6 mm.).   
@@ -14346,7 +13218,6 @@ Torquc. 51c. . . 11%.0 107 c... , .f. (. 4,00.
 
 
 ### CRANKSHAFT
-`mini_cooper_1976_en_3e1f1a2b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:75 | doc_type:owners_manual
 
 Main journal diameter .. 2б0005 to 2б0010 in. (50б81 to 50б82 mm.).   
 Minimum regrind diameter 1б9805 to 1.9810 in.(50-30 to 50-31 mm.).   
@@ -14359,14 +13230,12 @@ CONNECTING RODS Little-end bore diameter
 
 
 ### PISTONS
-`mini_cooper_1976_en_78800159` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:76 | doc_type:owners_manual
 
 Type ... Solid skirt. 3.   
 Clearance: Bottom of skirt (pressure face) . . \* б0019 to -0025 in. (048 to -063 mm.). Top of skirt .. . . \* . . . б0025 to б00283 in. (б063 to б072 mm.).
 
 
 ### PISTON RINGS
-`mini_cooper_1976_en_4ec156ec` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:77 | doc_type:owners_manual
 
 Compression: Plain 00 Top ring. Tapered . . Second and third ring.   
 Wicness. : : . .1512411m.. Fitting gap .. б008 to б013 in. (-20 to 33 mm.). Clearance in groove 0015 to 0035 in. (04 to -09 mm.).   
@@ -14376,7 +13245,6 @@ Fitted gap \*\* .. 008 to 013 in. (-20 to -33 mm.). Clearance in groove . 0015 t
 
 
 ### GENERALDATA
-`mini_cooper_1976_en_155fbbc7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:78 | doc_type:owners_manual
 
 MINI-CO0PER 'S' MK. I (970 c.c., 1071 c.c., & 1275 c.c.), & CO0PER 'S' MK I1 & 1lI (1275 c.c.)-continued
 
@@ -14385,7 +13253,6 @@ Diameter (outer) .. б8123 to б8125 in. (20б63 to 20б64 mm.). Fit in connecti
 
 
 ### Valves
-`mini_cooper_1976_en_a645346e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:79 | doc_type:owners_manual
 
 Head diameter: Inlet .. 1б401 to 1б406 in. (35.58 to 35.71 mm.).   
 Valve lift Exhaust 1.214 to 1б219 in. (30.83 to 30.96 mm.). 318 in. (8б08 mm.), nominal.   
@@ -14396,7 +13263,6 @@ Exhaust valve: Opens .. , . rocker clearance (for checking 51° B.B.D.C. Closes 
 
 
 ### VALVE SPRINGS
-`mini_cooper_1976_en_9fff704b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:80 | doc_type:owners_manual
 
 Free length: Inner 1.705 in. (43-31 mm.). Outer 1.740 in. (44.19 mm.).   
 Number of working coils: Inner .. 64. Outer .. 43.   
@@ -14404,7 +13270,6 @@ Pressure: Inner: Valve closed . . .. .. 26.6 1b. (12-065 kg.). Valve open 46 1b.
 
 
 ### CAMSHAFT
-`mini_cooper_1976_en_1d762e8b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:81 | doc_type:owners_manual
 
 Journal diameter: Rear .. 1б37275 to 1-3735 in. (34-87 to 34-88 mm.).   
 Inside diameter (reamed in position): Rear 1б3745 to 1б3750 in. (34б91 to 34б92 mm.).   
@@ -14413,19 +13278,16 @@ Bearing length: Rear 44±010 in. (19б45±б25 mm.).
 
 
 ### ENGINE LUBRICATION SYSTEM
-`mini_cooper_1976_en_4baac640` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:82 | doc_type:owners_manual
 
 Oil pressure (normal running) .. 60./sq. in. (4б22 kg/m.) at70° C.(158 F.)oil temperature.
 
 
 ### COOLING SYSTEM
-`mini_cooper_1976_en_6bad5e96` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:hvac | p:83 | doc_type:owners_manual
 
 Thermostat setting 82° C. (180° F.). Cold climates .. 88°C.(188° F.). Hot climates . . . . 74° C. (165° F.).
 
 
 ### FUEL SYSTEM
-`mini_cooper_1976_en_f2199220` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:84 | doc_type:owners_manual
 
 Carburetter refer to 'TUNING DATA.
 
@@ -14433,13 +13295,11 @@ MINI. Issue 2. 80025
 
 
 ### GENERALDATA
-`mini_cooper_1976_en_cde84d3e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:85 | doc_type:owners_manual
 
 MINI-CO0PER 'S' MK. I (970 c.c., 1071 c.c., & 1275 c.c.), & COOPER'S MK. II & III (1275 c.c.)-continued
 
 
 ### CLUTCH
-`mini_cooper_1976_en_17ed1b58` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:86 | doc_type:owners_manual
 
 Make and type: Early type BMC single dry plate. -оеея Later type Diaphragm spring. ...   
 Diameter .. . . .. . . 7б125 in. (180-9 mm.).   
@@ -14449,7 +13309,6 @@ Colour: Inner . . Green spot.' Outer ... . . .. White spot.
 
 
 ### GEARBOX (3-speed Synchromesh)
-`mini_cooper_1976_en_7fbf0c9c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:87 | doc_type:owners_manual
 
 Standard Optional (close ratio) Ratios: Top 1.0:1 1б0:1 Third 1б357 : 1 1б242 : 1 Second 1б916:1 1.78 : 1 First 3-200 : 1 2б57 : 1 Reverse :. 3-200 : 1 2б57 : 1
 
@@ -14465,7 +13324,6 @@ Final drive ratio reverse 2nd 3rd 4th
 
 
 ### Optional gearbox (close ratio)
-`mini_cooper_1976_en_d151fb3e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:88 | doc_type:owners_manual
 
 1st and Final drive ratio reverse 2nd 3rd 4th 3.444 (18/62) 8.84 : 1 6б13 : 1 ..4б28 : 1 3.444 : 1 3.647 (17/62) 9б37 : 1 6б49 : 1 4.53 :1 3.647 : 1 3.765 (17/64) 9.66 : 1 6б70 : 1 4.68 : 1 3б765 : 1 3.939 (16/63) 10.121 7б02 : 1 489 : 1 3.931 4б133 (15/62) 10б61 :1 7б35 : 1 5.13 : 1 4:133 : 1 .4-267 (15/64) 10.90 : 1 7-61 : 1 5б30 : 1 4.267 :1 4.35 (15/65) 11б18: 1 7.74 : 1 5.40 : 1 4.35
 
@@ -14484,7 +13342,6 @@ Katio
 
 
 ### DIFFERENTIAL
-`mini_cooper_1976_en_14f7588d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:89 | doc_type:owners_manual
 
 Ratio—standard : 970 c.c. .. 3б765 : 1. 1071 c.c. :. 3б765 : 1. 1275 c.c. (Mk. I and II) .. .. . . 3-444 : 1.   
 Alternative ratios . . . .. .. \* . 3б939 : 1, 4-267 : 1, and 4б35 : 1.
@@ -14493,7 +13350,6 @@ General Data 16
 
 
 ### MINI AUTOMATIC (848 c.c. & 998 c.c.)
-`mini_cooper_1976_en_b3960801` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:90 | doc_type:owners_manual
 
 The following information is applicable to the Mini Automatic and should be used in conjunction with the preceding specification for the Min k.  and  (848 c.c)and k.(998 c.c.).
 
@@ -14504,7 +13360,6 @@ Torque . .. 441b. t.(6.08 kgm.) at 2,500 Т.Р.Н.52ВЖФ.(7б19 kgm.) at 2,750
 
 
 ### LUBRICATION SYSTEM
-`mini_cooper_1976_en_d5b824b3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:91 | doc_type:owners_manual
 
 Oil pump Type _ Hobourn-Eaton.   
 Oil filter   
@@ -14518,7 +13373,6 @@ IGNITION SYSTEM Coil Distributor Refer to 'TUNING DATA'. Sparking plugs
 
 
 ### AUTOMATIC TRANSMISSION
-`mini_cooper_1976_en_26e5bdd9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:92 | doc_type:owners_manual
 
 Ratios: Top ,. 1б0:1. Third 1б46 :1. Second 1б845:1. First 2б69 : 1. Reverse ., 2б69 : 1.   
 Overall ratios: Top 3б76 : 1. Third .. 5б49 : 1. Second . . • 6б94 : 1. First .. 10б11:1. Reverse 10б11 :1.   
@@ -14526,7 +13380,6 @@ Speedometer 7/17.
 
 
 ### TORQUE CONVERTER
-`mini_cooper_1976_en_d42c6d3d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:93 | doc_type:owners_manual
 
 Type 3-element.   
 Ratio . . 2 : 1 maximum.   
@@ -14536,33 +13389,28 @@ MINI. Issue 4. 80025
 
 
 ### DRIVE SHAFTS
-`mini_cooper_1976_en_b0bcf12a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:94 | doc_type:owners_manual
 
 Make and type of joint .. Hardy Spicer, flange joint.
 
 
 ### CAPACITIES
-`mini_cooper_1976_en_3a85a2f7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:95 | doc_type:owners_manual
 
 Transmission casing (including filter) .. 13 pints (7.38 litres, 16 U.S. pints).   
 Refill capacity (approx.) .. 9 pints (5 litres, 11 U.S. pints).
 
 
 ### WEIGHT OF COMPONENTS
-`mini_cooper_1976_en_687c4034` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:96 | doc_type:owners_manual
 
 Engine and transmission assembly 357 1b. (162 kg.).   
 Automatic transmission .. . 112 1b. (50б8 kg.).
 
 
 ### GENERAL DIMENSIONS
-`mini_cooper_1976_en_f2dfefd1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:97 | doc_type:owners_manual
 
 Kerbside weight: Mini Mk. I Saloon .. 1,390 1b. (630б8 kg.). Mini M/ 1S o.. 1,442 1b. (654 kg). Mini Clubman Saloon . . 1,450 1b. (658 kg.).
 
 
 ### TORQUE WRENCH SETTINGS
-`mini_cooper_1976_en_1c83f9bf` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:98 | doc_type:owners_manual
 
 lb. ft. kg.m.   
 Converter centre bolt 110 to 115 15б2 to 15.9   
@@ -14587,7 +13435,6 @@ in. UNF. boits .. 30 4.1
 
 
 ### MINI 850/1000 SALOON, VAN, & PICK-UP
-`mini_cooper_1976_en_b24f4b73` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:99 | doc_type:owners_manual
 
 The following information refers specifically to new or modified components fitted to the above Mini range coincident with the introduction of NEGATIVE earth electrical systems and must be used in cojunction with the preceding specifications for the Mini Mk. I (848-c.c. engine) and the Mini Mk. I (998-c.c. engine).
 
@@ -14595,13 +13442,11 @@ ENGINE
 
 
 ### FUEL SYSTEM
-`mini_cooper_1976_en_17bdd5ea` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:101 | doc_type:owners_manual
 
 Carburetter refer to 'TUNING DATA'.
 
 
 ### Fuel pump
-`mini_cooper_1976_en_ff08e908` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:102 | doc_type:owners_manual
 
 Make/type . S.U. mechanical; AUF 700 (AUF 705 model).   
 Suction (min.) .. . 6 in. (152 mm.) Hg.   
@@ -14609,19 +13454,16 @@ Pressure (min.) .. − 3 1b./sq. in. (21 kg./cm.).
 
 
 ### Gearbox
-`mini_cooper_1976_en_4c82f308` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:103 | doc_type:owners_manual
 
 Number of forward speeds \* . 4. Synchromesh . . . . . . . . . All forward gears. Ratios: Top . . .. . . 1б00 : 1. Third . . . . . , \* 1б43: 1. Second . . .. \*. .. . . \*. 2б21 :1. First . . . . .. .. 3.52 : 1. Reverse . . . . . 3-541. Overall ratios: Top . . . . . \* . \* \* 3-44 :1. Third . . . . . . . .. \* . 4.93 : 1. Second.. .. . . . . .. .. 7б63 : 1. First .. \* \* . . 12б13 : 1. Reverse .. .. 12б19 : 1. Road speed at 1,000 r.p.m. in top gear , . . \* . 16б2 m.p.h. (25-75 km.p.h.). Speedometer gear ratio \* . 4/14 Final drive Type . . Helical gears and differential. Ratio . 3б44 : 1 (18/62). \*Van and Pick-up as 848 c.c.
 
 
 ### GENERAL DATA
-`mini_cooper_1976_en_17d85129` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:104 | doc_type:owners_manual
 
 MINI 850/1000 SALOON, VAN, & PICK-UP-continued
 
 
 ### Gearbox
-`mini_cooper_1976_en_c82c72b5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:105 | doc_type:owners_manual
 
 Number of forward speeds . . 4. Synchromesh .. . . All forward gears. Ratios: Top .. .. .. 1б00 : 1. Third .. . . . . 1б43 : 1. Second . . . . .. 2б21 :1. First .. .. . . . . 3б52 : 1. Reverse . . .. 3-54 : 1. Overall ratios: Top . . 3б76 : 1. Third .. .. .. .. . . 5б40 : 1. Second.. .. . . 8б32: 1. First .. 13б25 : 1. Reverse . . 13б30: 1. Road speed at 1,000 r.p.m. in top gear 15-2 m.p.h. (243 km.p.h.). Speedometer gear ratio 4/16   
 Final drive   
@@ -14629,13 +13471,11 @@ Type . . Helical gears and differentia Ratio . . .. 3б76 : 1 (17/64).
 
 
 ### SUSPENSION
-`mini_cooper_1976_en_5367fd6b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:106 | doc_type:owners_manual
 
 Type Rubber cone spring. (Hydrolastic special market fitment.) Hydraulic dampers Type: Front and rear .. Tubular telescopic.
 
 
 ### BRAKES
-`mini_cooper_1976_en_a15cf117` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:107 | doc_type:owners_manual
 
 Master cylinder Bore diameter .. .. 0б7 in. (17.78 mm.).   
 Wheel cylinders Bore diameter: Front .. . 16 in. (23б81 mm.). Rear .. .. in. (19.05 mm.).   
@@ -14644,7 +13484,6 @@ Brake fluid UNIPART 550 BRAKE FLUID, alternatively use a high-boiling-point brak
 
 
 ### ELECTRICAL EQUIPMENT
-`mini_cooper_1976_en_d772cedf` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:108 | doc_type:owners_manual
 
 System 12-volt, negative earth.   
 Charging system . Compensated voltage control.   
@@ -14652,7 +13491,6 @@ Battery: Lucas Pacemaker' type A7 A9 Capacity at 20 hr. rate , . 30 amps. 40 amp
 
 
 ### GENERAL DATA
-`mini_cooper_1976_en_595abcb3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:109 | doc_type:owners_manual
 
 MINI 85O/1OOO SALOON,VAN, &PICK-UP-contInued
 
@@ -14666,7 +13504,6 @@ Windscreen wiper . . Lucas 14W. Light running speeds (rack disconnected .. 46 to
 
 
 ### WEIGHTS
-`mini_cooper_1976_en_7d6b730c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:110 | doc_type:owners_manual
 
 Kerbside weight:
 
@@ -14676,19 +13513,16 @@ Pick-up .. Van .. . . .. 1,334(605 kg) approx. 1,328 .(603 kg) approx.
 
 
 ### TORQUE TIGHTENING FIGURES
-`mini_cooper_1976_en_9ac584a1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:111 | doc_type:owners_manual
 
 Brakes (split brake system) b.ft. kg.m. Tandem master cylinder reservoir fange screws 5 0.7 Cylinder body outlet plugs. .. . . 20 to 33 2.8 to 4.5 Pressure failure switch.. 12 to 15 1.6 to 2б1 Pressure failure switch body end plug Inertia valve plug .. 20 to 335 2. to 4.55 Alternator (type 16ACR) Shaft nut . . . . . . .. . . ..25 to 30 3б5 to 4б2 Refer to pages General Data 8 and 9 for all other Torque figures.
 
 
 ### MINICLUBMAN
-`mini_cooper_1976_en_9d2eeddb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:112 | doc_type:owners_manual
 
 The follwing information is applicable to the Mini Clubman and should be used in conjunction with the preceding specification for the Mini Mk. I.
 
 
 ### ENGINE
-`mini_cooper_1976_en_6e807a21` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:113 | doc_type:owners_manual
 
 Type 99H.   
 Number of cylinders . 4.   
@@ -14701,7 +13535,6 @@ Torque: High compression 52b.ft.(7-28 kgm. at 2,700 r.p.m. Low compression .
 
 
 ### FUEL SYSTEM
-`mini_cooper_1976_en_04fbf437` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:115 | doc_type:owners_manual
 
 Carburetter refer to 'TUNING DATA'.   
 Air cleaner Type Paper element with warm/cold air intake and silencer tube.   
@@ -14709,7 +13542,6 @@ Fuel pump : Make/type S.U. mechanical; AUF 700 (AUF 705 model). Suction (min.) 6
 
 
 ### Gearbox
-`mini_cooper_1976_en_8ce55056` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:116 | doc_type:owners_manual
 
 Number of forward speeds . . 4. Synchromesh .. \*. All forward gears. Ratios: Top ..\* ..8 .. .. .. . . .. 1б00:1. Third .. . . . .. 1б43 : 1. Second . \* .. . . 2б21 :1. First .. . . . . .. . . , • 3б52:1. Reverse . .. .. .. . . . . 3-54 : 1. Overall ratios: Top . . . . . . , . .. 3.44 :1. Third .. . . . . . . .. . . 4.93 : 1. Second.. . 7б63 : 1. First .. . .. .. 12б13:1. Reverse .. .. . . . . . . 12б19:1. Road speed at 1,000 r.p.m. in top gear 16б2 m.p.h. (25-75 km.p.h.). Speedometer gear ratio вя • . \* 4/14 Final drive Type Helical gears and differential Ratio \* \* . \* ,. , 3-44 : 1 (18/62).
 
@@ -14717,7 +13549,6 @@ General Data 24
 
 
 ### STEERING
-`mini_cooper_1976_en_f90f06cd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:steering | p:117 | doc_type:owners_manual
 
 Tern-whe us ock  ck ... •. Rack and pinion.   
 Steering-wheel diameter .. \*• 15.0 in. (380 mm.).   
@@ -14725,7 +13556,6 @@ Front wheel alignment—toe-out t in Ic amaole vehicle unladen.
 
 
 ### SUSPENSION
-`mini_cooper_1976_en_185364e9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:118 | doc_type:owners_manual
 
 Saloon—up to Commission Nos. S 20 S 48644A (Manual gearbox) S 20 S 48267A (Automatic transmission) Type Hydrolastic suspension. Fluid capacity .. \* 4 pints (5 U.S. pints, 2б27 litres), approx.   
 \*Fluid pressure (unladen) 292 1b./sq.in. (20б6 kg./cm.2), approx. Trim height: Front and rear .. 13Э±ЙО.(343±9б5 mm.). \*Adjust to trim height.   
@@ -14734,7 +13564,6 @@ Estate Type .Rubber cone spring.
 
 
 ### ELECTRICAL EQUIPMENT
-`mini_cooper_1976_en_ee8a9627` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:120 | doc_type:owners_manual
 
 System . . 12-volt, NEgative earth. Chareing  system. өжв Compensated voltage control. Lucas Pacemaker' type A7 A9 Capacity at 20 hr. rate 30 amps. 40 amps. Fast charge rate (maximum 1 hr.) 27 amps. 35 amps. Lucas type .. .. CL7 CLZ7 Capacity at 20 hr. rate 34 amps. 34 amps. Exide battery Capaciy at 0 hr te . . Ty e iy Tp  . . . Fast charge rate (maximum 1 hrs.) \* . 40 amps. Damum ouput : : : : : : . . . . 2cam pc. at  20 rp.m. Cut-in speed .. . . • . . . . . 1,450 r.p.m. at 13-5 volts. Control box . . ,. . . Lucas RB106/2.   
 Cut-out: Cut-in voltage .. 12.7 to 13-3. Drop-off voltage 8б5 to 11.0. Rlate . . . 5б0 amps. (max.). Open-circuit setting at 20° C. (68 F.) . . 16б0 to 16б6 volts. For ambient temperatures other than 20 . (68 F.) the following allowances should be made to the above setting: For every 10° C. (18° F.) above 20° C. (68° F.) subtract •1 volt. For every 10° C.(18° F.) below 20° C. (68° F.) add б1 volt.   
@@ -14742,7 +13571,6 @@ WINI. Issue 2. 82445
 
 
 ### MINICLUBMAN-continued
-`mini_cooper_1976_en_3d17cb73` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:121 | doc_type:owners_manual
 
 Starter motor ..Lucas M35G or M35J. M35G Type Brush spring tension ... 15 to 25 oz. (425 to 709 gm.). M35J Тype Brush spring tension .. 28 oz. (794 gm.). Light running current 65 amperes at 8,000–10,000 r.p.m. Lock torque .. 7 b. ft.(97 kg. m.) with 350-375 amps.   
 Alternator .. Lucas 16ACR. Nominal output . . 34 amps. at 6,000 r.p.m. Nominal system voltage 14б2 volts at 20% nominal output. Maximum continuous speed 12,500 r.p.m. Resistance of rotor winding at 20° C. (68° F.) 4б33 ohms±5% Brush spring tension .. 7 to 10 oz. (198 to 283 gm.).   
@@ -14750,7 +13578,6 @@ Windscreen wiper . Lucas 14W. Light running speeds (rack disconnected) 46 to 52 
 
 
 ### GENERAL DIMENSIONS
-`mini_cooper_1976_en_8fdc194d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:122 | doc_type:owners_manual
 
 Wheelbase: Saloon 6 ft. 8 in.(2-036m.). Estate 7 ft. 0 ЙО.(2б138Н.).   
 Overall Iength: Saloon , . . .. 10 ft. 4ЙО.(3б16Н.). Estate . . . . . . • • 11 ft. 2 in. (34 m.).   
@@ -14761,14 +13588,12 @@ Turning circle: Saloon 28 ft. 6 in. (8-55 m.). Estate . . 29 ft. (8.84 m.).
 
 
 ### WEIGHTS
-`mini_cooper_1976_en_961dad67` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:123 | doc_type:owners_manual
 
 Kerbside weight: Saloon.. 1406 1b. (638 kg.) approx. Estate .. . . 1514 1b. (686 kg.) approx.   
 Maximum towing weight: Saloon 8 cwt. (4064 kg.) ) (suitable for 1 in 8 gradient Estate .. 6 cwt. (304.7 kg.)J in bottom gear).
 
 
 ### CAPACITIES
-`mini_cooper_1976_en_7b9b5fdb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:124 | doc_type:owners_manual
 
 Transmission casing (including filter.. 8 pints (10б2 U.S. pints, 4б83 litres).   
 Cooling system 5 pints (6б3 U.S. pints, 3 litres). With heater .. 64 pints (7б5 U.S. pints, 3б55 litres).   
@@ -14776,13 +13601,11 @@ Fuel tank: Saloon .. 5 gallons (6б6 U.S. gallons, 25 litres). Estate . . . . 6 
 
 
 ### TORQUE TIGHTENING FIGURES Alternator (type 16ACR)
-`mini_cooper_1976_en_920e1b01` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:125 | doc_type:owners_manual
 
 Shaft nut . • \*• ..25 to 30 В.ЖФ.(3б5 to 42 kg. m.). Refer to pages General Data 8 and 9 for all other Torque figures.
 
 
 ### ENGINE
-`mini_cooper_1976_en_ea04b8eb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:126 | doc_type:owners_manual
 
 Type .. 12H.   
 Number of cylinders 4.   
@@ -14800,7 +13623,6 @@ Max. .. . б020 in. (51 mm.).
 
 
 ### Crankshaft
-`mini_cooper_1976_en_f8517899` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:127 | doc_type:owners_manual
 
 Main journal diameter 2б0005 to 2б0010 in. (50б81 to 50б82 mm.).   
 Crankpin journal diameter 1б7504 to 1б7509 in. (44б45 to 44б47 mm.).   
@@ -14809,7 +13631,6 @@ Crankshaft end-float .. .. -002 to 003 in.(05 to 07 mm.).
 
 
 ### Main bearings
-`mini_cooper_1976_en_a6ad9502` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:128 | doc_type:owners_manual
 
 Number and type Three thin-wall; split shells copper-lead-indium.   
 Material . . VP3, lead-indium at NFM/3B.   
@@ -14819,14 +13640,12 @@ Undersizes . в б020 in. (51 mm.) and б040 in. (1б02 mm.).
 
 
 ### Connecting rods
-`mini_cooper_1976_en_59eeab23` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:129 | doc_type:owners_manual
 
 Type... . . Horizontally split lug end, plain small end.   
 Length between centres 5.748 to 5б792 in. (21б36 to 21б59 mm.).
 
 
 ### Big-end bearings
-`mini_cooper_1976_en_bea491c8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:130 | doc_type:owners_manual
 
 Type and material Thin-wall; steel-backed, copper-lead-indium plated.   
 Length .. . \* . .840 to б850 in. (21б33 to 21-59 mm.).   
@@ -14835,7 +13654,6 @@ End-foat of crankpin .. 006 to б010 in.(15 to б25 mm.).
 
 
 ### Pistons
-`mini_cooper_1976_en_f85047de` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:131 | doc_type:owners_manual
 
 Type . Aluminium, solid skirt, dished crown.   
 Clearance in cylinder: Top of skirt .. б0029 to б0037 in. (07 to б09 mm.). Bottom of skirt б0015 to б0021 in. (б04 to б05 mm.).   
@@ -14844,7 +13662,6 @@ Width of ring grooves: Top, second, third. б0484 to б0494 in. (1б23 to 1б25 
 
 
 ### Piston rings
-`mini_cooper_1976_en_2a3c25dd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:132 | doc_type:owners_manual
 
 Compression: Type: Top Internally chamfered chrome. Second and third Tapered cast iron. Width Top • . .. 0615 to0625157t1.60m.). Second and Third .. ... •=• Fitted gap: Top 011 to б016 in. (б28 to •40 mm.). Second and third б008 to 013 in. (20 to б33 mm.). Ring to groove clearance: Top .: . . б0015 to -0035 in. (04 to -09 mm.). Second and third
 
@@ -14852,7 +13669,6 @@ Type.. Fitted gap: Rails \*т0 .• : 012 to 028 in. (30 to 70 mm). Duaflex 61. 
 
 
 ### Gudgeon pin
-`mini_cooper_1976_en_0cecc415` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:133 | doc_type:owners_manual
 
 Type Pressed in connecting rod.   
 Fit in piston \*• •\* Hand push fit.   
@@ -14861,7 +13677,6 @@ Fit to connecting rod .. .. б0008 to б0015 in. (-02 to 04 mm.) interference.
 
 
 ### Camshaft
-`mini_cooper_1976_en_29a18ed2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:134 | doc_type:owners_manual
 
 Journal diameters: Front 1б6655 to 1б6660 in. (42б304 to 42б316 mm.). Centre 1б62275 to 1б62325 in. (41-218 to 41-231 mm.). Rear \*\*. .. . . 1б37275 to 1б37350 in. (34.866 to 34.889 mm.).   
 Bearing liner inside diameter: Un-reamed after fitting: Front . . 1б652 in. (41б98 mm.). Centre . 161 in. (40-89 mm.). Rear .. .. 1б36 in. (34.52 mm.). Reamed after fitting: Front . . .. 1б6670 to 1б6675 in. (42б34 to 42б35 mm.). Centre . . 1б62425 to 1б62475 in. (41-25 to 41б37 mm.). Rear . . 1б3745 to 1б3750 in. (34.91 to 34-92 mm.).   
@@ -14875,7 +13690,6 @@ Timing chain \*• in. (9б52 mm.) pitch × 52 pitches.
 
 
 ### Tappets
-`mini_cooper_1976_en_9249fae3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:135 | doc_type:owners_manual
 
 Type •- . • .. Bucket.   
 Outside diameter .. 81125 to б81175 in. (20б60 to 20-62 mm.).   
@@ -14890,7 +13704,6 @@ General Data 28
 
 
 ### Valves
-`mini_cooper_1976_en_46a3444a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:interior | p:136 | doc_type:owners_manual
 
 Seat angle: Inlet and exhaust 45°.   
 Head diameter: Inlet .. 1б307 to 1б312 in. (33-2 to 33-21 mm.). Exhaust 1б1515 to 1б1565 in. (29б24 to 29б37 mm.).   
@@ -14900,7 +13713,6 @@ Valve lift: Inlet and exhaust .. б318 in. (8б07 mm.).
 
 
 ### Valve guides
-`mini_cooper_1976_en_6633fcae` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:interior | p:137 | doc_type:owners_manual
 
 Length: Inlet .. 1б6875 in. (42-87 mm.). Exhaust 1.8437 in. (46-83 mm.).   
 Fitted height above seat: Exhaust . \* б540 in. (13-72 mm). Inlet
@@ -14909,7 +13721,6 @@ Fitted height above seat: Exhaust . \* б540 in. (13-72 mm). Inlet
 
 
 ### Valve springs
-`mini_cooper_1976_en_428036e2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:138 | doc_type:owners_manual
 
 Free length 1б95 in. (49б13 mm.).   
 Fitted length 1б383 in. (34б715 mm.).   
@@ -14919,7 +13730,6 @@ No. of working coils 43.
 
 
 ### Valve timing
-`mini_cooper_1976_en_168ff2d1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:139 | doc_type:owners_manual
 
 Timing marks Dimples on timing gears.   
 Rocker clearance: Running .. -012 in. (305 mm.) cold. Timing \* \* . . : : .. 021.in.(.3 m.).   
@@ -14928,7 +13738,6 @@ Exhaust valve: Opens .. 51° B.B.D.C. Closes .. 21°A.T.D.C.
 
 
 ### ENGINE LUBRICATION SYSTEM
-`mini_cooper_1976_en_807a45bb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:140 | doc_type:owners_manual
 
 Oil pump
 
@@ -14944,13 +13753,11 @@ System pressure Running.. 70 1b./sq.in.(4-92 kgcm.2) approx. Idling •\*• 15b
 
 
 ### COOLING SYSTEM
-`mini_cooper_1976_en_517c88c4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:142 | doc_type:owners_manual
 
 Standard . 82°C.(180° F.). Hot countries .. 74° or 77° C. (165° or 170° F.). Cold countries .. 88° C. (190° F.). Pressure cap 13 1b./sq.in.(91 kg/cm.2).
 
 
 ### FUEL SYSTEM
-`mini_cooper_1976_en_0a47b64a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:143 | doc_type:owners_manual
 
 Carburetter refer to 'TUNING DATA'.
 
@@ -14959,7 +13766,6 @@ Fuel pump Make/type S.U. mechanical; AUF 700 (AUF 705 model). Suction (min.) 6 i
 
 
 ### CLUTCH
-`mini_cooper_1976_en_5d7d4418` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:144 | doc_type:owners_manual
 
 Make and type Borg & Beck diaphragm type.   
 Clutch plate diameter 7 in. (180б9 mm.). Facing material Wound yarn.   
@@ -14968,7 +13774,6 @@ Clutch fuid Unipart 410 or 550 Brake Fluid.
 
 
 ### Gearbox
-`mini_cooper_1976_en_f7c75995` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:145 | doc_type:owners_manual
 
 Number of forward speeds 4.   
 Synchromesh .. All forward gears. From Engine No. 12H 389S, H6901 Early cars   
@@ -14981,13 +13786,11 @@ General Data 30
 
 
 ### Final drive
-`mini_cooper_1976_en_2f3768e3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:146 | doc_type:owners_manual
 
 Type Helical gears and differential. Ratio .. 3.б44 : 1 (18/62) 3.65:1(
 
 
 ### DRIVE SHAFTS
-`mini_cooper_1976_en_0323b726` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:147 | doc_type:owners_manual
 
 Make .• Hardy Spicer.   
 Type of shaft Solid shaft, reverse spline.   
@@ -14996,7 +13799,6 @@ Coupling at inner end Rubber coupling.
 
 
 ### STEERING
-`mini_cooper_1976_en_68969870` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:steering | p:148 | doc_type:owners_manual
 
 Type Rack and pinion.   
 Steering-wheel turns—lock to lock 2.7.   
@@ -15005,7 +13807,6 @@ Front wheel alignment—toe-out e ar laden.
 
 
 ### SUSPENSION—up to Commission No. S 20 D 8155A
-`mini_cooper_1976_en_b875ca10` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:149 | doc_type:owners_manual
 
 Type Hydrolastic suspension.   
 Fluid capacity \* \* 4 pints (5 U.S. pints, 2б27 litres), approx.   
@@ -15018,13 +13819,11 @@ Later cars—from Commission No. S 20 D 8156A Type \*\* .Rubber cone springs.
 
 
 ### HYDRAULIC DAMPERS (Later cars only)
-`mini_cooper_1976_en_0b1beae7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:150 | doc_type:owners_manual
 
 Type: Front and rear . Tubular telescopic.
 
 
 ### BRAKES
-`mini_cooper_1976_en_0ac6d686` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:151 | doc_type:owners_manual
 
 Type Lockheed hydraulic with vacuum servo.   
 Servo unit .. Lockheed (Type 6).   
@@ -15040,7 +13839,6 @@ MINI. Issue 2. 82445
 
 
 ### Rear
-`mini_cooper_1976_en_f6c609ff` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:152 | doc_type:owners_manual
 
 Drum size 7 in. (17.8 cm.) diameter.   
 Lining dimensions 6б75×1б5 in. (17б4×3б18 cm.).   
@@ -15049,21 +13847,18 @@ Lining material . . Don 202.
 
 
 ### WHEELS
-`mini_cooper_1976_en_a0b37875` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:153 | doc_type:owners_manual
 
 Type Pressed steel disc.   
 Size 4б5J×10.
 
 
 ### TYRES
-`mini_cooper_1976_en_1beb404e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:154 | doc_type:owners_manual
 
 Size 145—10 Radial ply (tubed).   
 Pressures all conditions: Front .. 28 1b./sq. in. (1б97 kg./cm.). Rear .. 26 1b./sq. in. (1б83 kg./cm.2).
 
 
 ### ELECTRICAL EQUPMENT
-`mini_cooper_1976_en_2f003e47` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:155 | doc_type:owners_manual
 
 System . . 12-volt, negative earth.   
 Charging system .. . . Compensated voltage control..   
@@ -15079,13 +13874,11 @@ General Data 32
 
 
 ### MINI 1275 GT—continued
-`mini_cooper_1976_en_0eeb2c71` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:156 | doc_type:owners_manual
 
 Windscreen wiper .. Lucas 14W. Light running speeds (rack disconnected) 46 to 52 r.p.m. (normal speed), 60 to 70 r.p.m. (fast speed). Light running current . . 1-5 amps. (normal speed), 2 amps. (fast speed). Brush spring pressure.. 5 to 7 oz (140 to 200 gm.). Minimum brush length in. (4.8 mm.). Armature end-fioat -002 to 008 in.(05 to 2mm.). Maximum pull to move rack in tube 6 1b. (2б7 kg.), Windscreen wiper arm spring pressure 7 to 9 oz. (200 to 255 gm.).
 
 
 ### GENERAL DIMENSIONS
-`mini_cooper_1976_en_e697672d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:157 | doc_type:owners_manual
 
 Wheelbase 6ft. 8 in. (2-036 m.).   
 Oveal  ength 4 f. 4 1n n1 .(1..   
@@ -15095,19 +13888,16 @@ Trarin ioe 28 1. (.5 m.), Rear 47 in. (1-20 m.).
 
 
 ### WEIGHTS
-`mini_cooper_1976_en_9b7aec2e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:158 | doc_type:owners_manual
 
 Kerbside weight .. 1,555 1b. (707 kg.) approx. Maximum permissible towing weight (suitable for 1 in 8 gradient in bottom gear): . 8 cwt. (406б4 kg.).
 
 
 ### WEIGHT OF COMPONENTS
-`mini_cooper_1976_en_8edbdcc4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:159 | doc_type:owners_manual
 
 Engine and transmission assembly .339 1b.(154 kg.).
 
 
 ### CAPACITIES
-`mini_cooper_1976_en_8984fa19` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:160 | doc_type:owners_manual
 
 Transmission casing (including filter) 8 pints (10-2 U.S. pints, 4-83 litres).   
 Cooling system \* \* 5 pints (6-3 U.S. pints, 3 litres). With heater \* \* 64 pints (7-5 U.S. pints, 3-55 litres).   
@@ -15115,7 +13905,6 @@ Fuel tank .. \* 5 gallons (6б6 U.S. gallons, 25 litres).
 
 
 ### TORQUE TIGHTENING FIGURES
-`mini_cooper_1976_en_9e60f369` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:161 | doc_type:owners_manual
 
 Engine lb. ft. kg.m. Cylinder head nuts 50 7 Connecting rod bolt nuts (including multi-sided type nuts— oiled.. ..31 to 35 4.3 to 4.8   
 Alternator (type 16ACR)   
@@ -15130,13 +13919,11 @@ Refer to pages General Data 8 and 9 for all other Torque figures
 
 
 ### ENGINE TUNING DATA
-`mini_cooper_1976_en_53306e56` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:162 | doc_type:owners_manual
 
 Model: MINI Mk. I—Saloon and variants _—_ Year: 1959-67 MNMaan — (848 c.c.) 196769 9 MINI 850Saloon and variants 1969 on
 
 
 ### ENGINE
-`mini_cooper_1976_en_fbbc2815` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:163 | doc_type:owners_manual
 
 Type: Mk. I and II models 8AM. 850 models 85H.   
 Capacity 848 cc. (51б7 cu. in.).   
@@ -15156,7 +13943,6 @@ CARBURETTER Make/type S.U. Type HS2, Piston spring Red. Jet size -090 in. (2б29
 
 
 ### ENGINE
-`mini_cooper_1976_en_30d01fbb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:164 | doc_type:owners_manual
 
 Type 99H.   
 Capacity 998 c.c. (60-96 cu. in.).   
@@ -15174,7 +13960,6 @@ Valve rocker clearance (cold) -012 in. (305 mm.) (cold).
 
 
 ### DISTRIBUTOR
-`mini_cooper_1976_en_17d5a9bd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:165 | doc_type:owners_manual
 
 Make/type Lucas 25D4.   
 Rotation of rotor Anti-clockwise.   
@@ -15184,21 +13969,18 @@ Serial No. .. 40931,41030.
 
 
 ### Centrifugal advance
-`mini_cooper_1976_en_d57d8c57` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:166 | doc_type:owners_manual
 
 Decelerating check\*.. 22° to 26° at 5,000 r.p.m. 16° to 20° at 3,400 r.p.m. 9 to 13° at 1,600 r.p.m. 6° to 10° at 1,300 r.p.m. 0 to 4° at 900 r.p.m.   
 No advance below 600 r.p.m.
 
 
 ### Vacuum advance
-`mini_cooper_1976_en_f8f110e1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:167 | doc_type:owners_manual
 
 Starts 5 in. (12б7 cm.) Hg.   
 Finishest \* \* к 14° at 11 in. (27-9 cm.) Hg. \* Vacuum pipe disconnected. Crankshaft degrees and r.p.m.
 
 
 ### IGNITION COIL
-`mini_cooper_1976_en_e6fc4378` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:168 | doc_type:owners_manual
 
 Make/type Lucas LA12.   
 Primary resistance at 20° C. (68° F.) .. 3-2 to 34 ohms (cold).   
@@ -15206,7 +13988,6 @@ Consumption—ignition on \* \* 3-9 amps.
 
 
 ### CARBURETTER
-`mini_cooper_1976_en_3498106c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:169 | doc_type:owners_manual
 
 ![](images/ac0df496e1b4f5569edec696a7368f835d2d2cabae0a16be2d63dc5f2b408dcc.webp)
 Tuning Data 2
@@ -15218,7 +13999,6 @@ Needle: Standard . \* \* \* GX. Rich \* \* M. Weak \* \* GG.
 
 
 ### ENGINE
-`mini_cooper_1976_en_7dbbe418` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:170 | doc_type:owners_manual
 
 Type 8AH.   
 Capacity 848 c.c. (51-7 cu. in.).   
@@ -15236,26 +14016,22 @@ Valve rocker clearance (cold) \* \* -012 in. (305 mm.) (cold).
 
 
 ### DISTRIBUTOR
-`mini_cooper_1976_en_f9c2e087` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:171 | doc_type:owners_manual
 
 Make/type Lucas 25D4. Rotation of rotor Anti-clockwise, Dwell angle \* \* 60±3° Contact breaker gap -014 to -016 in.(35 to 40 mm.). Condenser capacity •18 to б24 mF. Serial No. .. \* 41134, 41242, 41251.
 
 
 ### Centrifugal advance
-`mini_cooper_1976_en_69e4aa15` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:172 | doc_type:owners_manual
 
 Decelerating check\*†.. 26° to 30° at 5,500 r.p.m. 24° to 28° at 4,800 r.p.m. 15 to 19° at 1,800 r.P.m. 12 to 16° at 1,600 r.p.m. 0° to 4° at 800 r.p.m. No advance below 600 r.p.m.
 
 
 ### Vacunm advance
-`mini_cooper_1976_en_719154aa` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:173 | doc_type:owners_manual
 
 Starts 3 in. (7б62 cm.) Hg.   
 Finishest \* , 18° at 15 ЙО.(38б1 cm.) Hg. \* Vacuum pipe disconnected. Crankshaft degrees and r.p.m.
 
 
 ### SPARKING PLUGS
-`mini_cooper_1976_en_c0abb496` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:174 | doc_type:owners_manual
 
 Make Champion.   
 Type N5.   
@@ -15263,7 +14039,6 @@ Gap -025 in. (625 mm.).
 
 
 ### IGNITION COIL
-`mini_cooper_1976_en_cc0b3b79` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:175 | doc_type:owners_manual
 
 Make/type Lucas LA12.   
 Primary resistance at 20 .(68° F. 3-2 to 3-4 ohms (cold).   
@@ -15271,7 +14046,6 @@ Consumption—ignition on \* \* 3.9 amps.
 
 
 ### CARBURETTER
-`mini_cooper_1976_en_94e19b55` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:176 | doc_type:owners_manual
 
 Make/type S.U. Type HS4.   
 Piston spring Red.   
@@ -15282,13 +14056,11 @@ MINI. Issue 2. 81014
 
 
 ### ENGINE TUNING DATA
-`mini_cooper_1976_en_d28e65cb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:177 | doc_type:owners_manual
 
 Model: MINI Mk. II AUTOMATIC (998 c.c.) Year: 1967-69 MINI 1000 and CLUBMAN AUTOMATIC 1969 on
 
 
 ### ENGINE
-`mini_cooper_1976_en_b721a025` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:178 | doc_type:owners_manual
 
 Type 9AG, 99H.   
 Capacity 998 c.c. (60-96 cu. in.).   
@@ -15305,7 +14077,6 @@ Valve rocker clearance (cold) б012 in. (б305 mm.) (cold).
 
 
 ### DISTRIBUTOR
-`mini_cooper_1976_en_c0c38732` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:179 | doc_type:owners_manual
 
 Make/type Lucas 25D4.   
 Rotation of rotor Anti-clockwise.   
@@ -15315,20 +14086,17 @@ Serial No. .. \* \* 41134,41242.
 
 
 ### Centrifugal advance
-`mini_cooper_1976_en_57215dc7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:180 | doc_type:owners_manual
 
 Decelerating check\*† .. 26° to 30° at 5,500 r.p.m. 24° to 28° at 4,800 r.p.m. 15° to 19° at 1,800 r.p.m. 12 to 16° at 1,600 r.p.m. 0 to 4° at 800 r.p.m.   
 No advance below 600 r.p.m.
 
 
 ### SPARKING PLUGS
-`mini_cooper_1976_en_d5794517` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:181 | doc_type:owners_manual
 
 ![](images/28c8cdbaefefabf28d085f1602ed5afab57dcc1554b7b3b82f9592c48bf0cc7c.webp)
 
 
 ### IGNITION COIL
-`mini_cooper_1976_en_be5b838c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:182 | doc_type:owners_manual
 
 Make/type Lucas LA12.   
 Primary resistance at 20° C.(68° F.) .. 3-2 to 3б4 ohms (cold).   
@@ -15336,7 +14104,6 @@ Consumption—ignition on \* \* 3-9 amps.
 
 
 ### CARBURETTER
-`mini_cooper_1976_en_c64aaf0c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:183 | doc_type:owners_manual
 
 Make/type \* -\* S.U. Type HS4.   
 Piston spring . Red.   
@@ -15347,7 +14114,6 @@ Tuning Data 4
 
 
 ### ENGINE
-`mini_cooper_1976_en_74e2394d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:184 | doc_type:owners_manual
 
 Type 9F.   
 Capacity 997 c.c. (60-87 cu. in.).   
@@ -15364,7 +14130,6 @@ Crankshaft degrees and r.p.m.
 
 
 ### DISTRIBUTOR
-`mini_cooper_1976_en_b537cb0d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:185 | doc_type:owners_manual
 
 Make/type Lucas 25D4.   
 Rotation of rotor Anti-clockwise.   
@@ -15376,20 +14141,17 @@ Centrifugal advance High compression Low compression Decelerating check\*. 16° 
 
 
 ### Vacuum advance
-`mini_cooper_1976_en_da6f075c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:186 | doc_type:owners_manual
 
 Starts 3 in.(7-62 cm.) Hg. 4 in. (10б1 cm.) Hg.   
 Finishes† \* \* \* \* \*\*4 \* \* 14° at 8in.(20-3 cm.) Hg.14°at7in.(17-7 cm.) Hg. Vacuum pipe disconnected. Crankshaft degrees and r.p.m.
 
 
 ### SPARKING PLUGS
-`mini_cooper_1976_en_3e043beb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:187 | doc_type:owners_manual
 
 Type Make 0m . 0.0 \*\* а е Champion, N5. Gap . . \* \* \* \* . 2 \*\* -025 in. (б625 mn
 
 
 ### IGNITION COIL
-`mini_cooper_1976_en_3bb4addb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:188 | doc_type:owners_manual
 
 Make/type Lucas HA12.   
 Primary resistance at 20° (68° F. 3.0 to 3б4 ohms. (cold).   
@@ -15397,13 +14159,11 @@ Consumption-ignition on \* \* 3-9 amps.
 
 
 ### CARBURETTERS
-`mini_cooper_1976_en_09d5a6ca` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:189 | doc_type:owners_manual
 
 Make/type Twin S.U. Type HS2. Piston spring \* Red, Jet size \* . б090 in. (2б29 mm.). Needle: Standard GZ. MINI. Issue 1. 80025
 
 
 ### ENGINE
-`mini_cooper_1976_en_f0577124` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:190 | doc_type:owners_manual
 
 Type 9FA.   
 Capacity 998 c.c. (60-96 cu. in.).   
@@ -15428,7 +14188,6 @@ Tuning Data 6
 
 
 ### INGINE
-`mini_cooper_1976_en_ca6ae763` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:191 | doc_type:owners_manual
 
 Type 9FC, 10F.   
 Capacity: 970 c.c. 59б1 cu. in. 1071 c.c. 63-35 cu. in.   
@@ -15444,7 +14203,6 @@ Valve rocker clearance: Standard б012 in. (30 mm.) cold. Competition б015 in. 
 
 
 ### DISTRIBUTOR
-`mini_cooper_1976_en_6caee474` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:192 | doc_type:owners_manual
 
 Make/type Lucas 23D4.   
 Rotation of rotor Anti-clockwise.   
@@ -15453,7 +14211,6 @@ Condenser capacity Serial No. .. \* \* \* 40819. 18 to 24 mF.
 
 
 ### Centrifugal advance
-`mini_cooper_1976_en_01e667d4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:193 | doc_type:owners_manual
 
 Decelerating check\*: .. 28° to 32° at 7,000 r.p.m. 22 to 26° at 5,200 r.p.m. 10 to 14° at 1,600 r.p.m. 6 to 12° at 1,000 r.p.m. 0 to 3 at 600 r.p.m.   
 No advance below 450 r.p.m.
@@ -15462,13 +14219,11 @@ No advance below 450 r.p.m.
 
 
 ### SPARKING PLUGS
-`mini_cooper_1976_en_533f3a6f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:194 | doc_type:owners_manual
 
 Make Champion, Type \* \* \* \* N9Y. Gap \* \* \* \* б025 in. (б625 mm.)
 
 
 ### IGNITION COIL
-`mini_cooper_1976_en_50b7d89f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:195 | doc_type:owners_manual
 
 Make/type Lucas HA12.   
 Primary resistance at 20°.(68 F. 3-0 to 3б4 ohms. (cold).   
@@ -15476,7 +14231,6 @@ Consumption—ignition on \* \* 3.9 amps.
 
 
 ### CARBURETTERS
-`mini_cooper_1976_en_f2185803` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:196 | doc_type:owners_manual
 
 Make/type Twin S.U. Type HS2.   
 Piston spring Red.   
@@ -15485,7 +14239,6 @@ Needle: 970 c.c. AN (Standard). 1071c.c. .. H6 (Standard).
 
 
 ### ENGINE
-`mini_cooper_1976_en_6d61ea99` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:197 | doc_type:owners_manual
 
 Type: Mk. I and II models 12FA. Mk. III models . 12H   
 Capacity.. 1275 c.c. (77.9 cu. in.).   
@@ -15502,7 +14255,6 @@ Valve rocker clearance: Standard б012 in. (б30 mm.) cold. Competition 015 in. 
 
 
 ### DISTRIBUTOR
-`mini_cooper_1976_en_8b3037f6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:198 | doc_type:owners_manual
 
 Make/type Lucas 23D4.   
 Rotation of rotor Anti-clockwise.   
@@ -15513,7 +14265,6 @@ Serial No. .. 40819, 41033.
 
 
 ### Centrifugal advance
-`mini_cooper_1976_en_ce6af648` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:199 | doc_type:owners_manual
 
 Decelerating check\* 28° to 32° at 7,000 r.p.m. 22° to 26° at 5,200 r.p.m. 10 to 14° at 1,600 r.p.m. 6° to 12° at 1,000 r.p.m. 0 to 3 at 600 r.p.m.   
 No advance below 450 r.p.m.
@@ -15522,13 +14273,11 @@ No advance below 450 r.p.m.
 
 
 ### SPARKING PLUGS
-`mini_cooper_1976_en_05b4e36c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:200 | doc_type:owners_manual
 
 Make Champion. Type N9Y Gap -025 in. (б625 mm.).
 
 
 ### IGNITION COIL
-`mini_cooper_1976_en_68d3db9c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:201 | doc_type:owners_manual
 
 Make/type Lucas HA12.   
 Primary resistance at 20 C.(68 F.. \* \* 3.0 to 34 ohms. (cold).   
@@ -15536,7 +14285,6 @@ Consumption—ignition on \* \* 3.9 amps.
 
 
 ### CARBURETTERS
-`mini_cooper_1976_en_e45fc256` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:202 | doc_type:owners_manual
 
 Make/type Twin S.U. Type HS2.   
 Piston spring . Red.   
@@ -15547,7 +14295,6 @@ Tuning Data 8
 
 
 ### ENGINE
-`mini_cooper_1976_en_cb235eef` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:203 | doc_type:owners_manual
 
 Type 99H.   
 Capacity 998 c.c. (60.96 cu. in.).   
@@ -15565,27 +14312,23 @@ Valve rocker clearance (cold) 012 in. (б305 mm.)
 
 
 ### DISTRIBUTOR
-`mini_cooper_1976_en_cbb2e32e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:204 | doc_type:owners_manual
 
 Make/type Lucas 25D4, Rotation of rotor Anti-clockwise. Dwell angle \* \* 60°±3 Contact breaker gap -014 to -016 in. (35 to 40 mm.). Condenser capacity 18 to б24 mF. Serial No. .. 41030.
 
 
 ### Centrifugal advance
-`mini_cooper_1976_en_2782b968` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:205 | doc_type:owners_manual
 
 Decelerating check\*† .. 22° to 26° at 5,000 r.p.m. 16° to 20° at 3,400 r.p.m. 9 to 13 at 1,600 r.p.m. 6° to 10° at 1,300 r.p.m. 0 to 4° at 900 r.p.m.   
 No advance below 600 r.p.m.
 
 
 ### Vacuum advance
-`mini_cooper_1976_en_e5cf087b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:206 | doc_type:owners_manual
 
 Starts 5 in. (12б7 cm.) Hg.   
 Finishes\* .\* 14 at 11in. (27-9 cm.) Hg. Vacuum pipe disconnected. Crankshaft degrees and r.p.m.
 
 
 ### SPARKING PLUGS
-`mini_cooper_1976_en_55d6a265` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:207 | doc_type:owners_manual
 
 Make , Champion.   
 Type N9Y or N5.   
@@ -15593,7 +14336,6 @@ Gap б025 in. (б625 mm.).
 
 
 ### IGNITION COIL
-`mini_cooper_1976_en_4541b7e5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:208 | doc_type:owners_manual
 
 Make/type Lucas LA12.   
 Primary resistance at 20° .(68° F.. 3-2 to 3б4 ohms (cold).   
@@ -15601,7 +14343,6 @@ Consumption—ignition on \* \* 3.9 amps.
 
 
 ### CARBURETTER
-`mini_cooper_1976_en_fa95dd60` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:209 | doc_type:owners_manual
 
 Make/type S.U. Type HS2.   
 Piston spring Red.   
@@ -15612,7 +14353,6 @@ MINI. Issue 2. 82445
 
 
 ### ENGINE TUNING DATA
-`mini_cooper_1976_en_9be60eb6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:210 | doc_type:owners_manual
 
 Model: MINI 1275 GT
 
@@ -15620,7 +14360,6 @@ Year: 1969 onwards
 
 
 ### ENGINE
-`mini_cooper_1976_en_30623bfc` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:211 | doc_type:owners_manual
 
 Type 12H.   
 Capacity \* \* 1274-86 c.c. (778 cu.in.).   
@@ -15639,7 +14378,6 @@ Valve rocker clearance (cold) б012 in. (305 mm.).
 
 
 ### DISTRIBUTOR
-`mini_cooper_1976_en_0dcbdeff` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:212 | doc_type:owners_manual
 
 Make/type Lucas 25D4.   
 Rotation of rotor Anti-clockwise.   
@@ -15649,7 +14387,6 @@ Serial No. .. \* \* 41257.
 
 
 ### Centrifugal advance
-`mini_cooper_1976_en_1cfa1c87` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:213 | doc_type:owners_manual
 
 Decelerating check\*† .. 18° to 22° at 4,000 r.p.m. 11 to 15 at 2,800 r.p.m. 6 to 10° at 2,000 r.p.m. 4° to 8° at 1,600 r.p.m. 0 to 3 at 800 r.p.m.   
 No advance below 300 r.p.m.
@@ -15661,19 +14398,16 @@ Finishes\* \* \* 18° to 22° at 10 in. (25б4 cm.) Hg. Vacuum pipe disconnected
 
 
 ### SPARKING PLUGS
-`mini_cooper_1976_en_79d3248d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:214 | doc_type:owners_manual
 
 ![](images/646735dc9ffc775c0cf2ff8b047de8b50b04194738a606a21f95808376eb82c6.webp)
 
 
 ### IGNITION COIL
-`mini_cooper_1976_en_2e5e61b4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:215 | doc_type:owners_manual
 
 Make/type Lucas LA12. Primary resistance at 20 .(68 F.. 3.2 to 3-4 ohms (cold) Consumption—ignition on \* \* 3.9 amps.
 
 
 ### CARBURETTER
-`mini_cooper_1976_en_82389707` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:216 | doc_type:owners_manual
 
 Make/type S.U. type HS4.   
 Piston spring Red.   
@@ -15684,7 +14418,6 @@ Tuning Data 10
 
 
 ### ENGINE TUNING DATA
-`mini_cooper_1976_en_7ce6961a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:217 | doc_type:owners_manual
 
 Model: Mini 1000 (CANADA)
 
@@ -15692,7 +14425,6 @@ Year: 1970 on
 
 
 ### ENGINE
-`mini_cooper_1976_en_d409fc32` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:218 | doc_type:owners_manual
 
 Type \* \* \* \*   
 Capacity \*\* . \*\* .   
@@ -15719,7 +14451,6 @@ Dimples on timing wheels, marks on flywheel
 
 
 ### DISTRIBUTOR
-`mini_cooper_1976_en_bdeca0e0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:219 | doc_type:owners_manual
 
 Make/type.. \*\* \*\* \*.   
 Rotation of rotor.. \* \* \* \*   
@@ -15729,7 +14460,6 @@ Contact breaker gap . \*\* Condenser capacity \* \*\* Serial No.. . l
 
 
 ### Vacuum advance
-`mini_cooper_1976_en_3dbc551e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:220 | doc_type:owners_manual
 
 Starts \* \* \* \* \*\* \* \* Finishes.. \*\* \* \* \*. Total crankshaft degrees .. \* \* \*\* \*\* \*\* \* \*
 
@@ -15747,7 +14477,6 @@ Vacuum pipe disconnected.
 
 
 ### SPARK PLUGS
-`mini_cooper_1976_en_699662c1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:221 | doc_type:owners_manual
 
 Make/type .. \*\* Gap. \*\* \*\*
 
@@ -15756,7 +14485,6 @@ Champion N 9Y.
 
 
 ### IGNITION COIL
-`mini_cooper_1976_en_49cf42d9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:222 | doc_type:owners_manual
 
 ket eance at 20°(68 : : :: .\* Consumption-ignition on \*\* \* \* 6. Ballast resistance.. \* \* \*\* \* \*\* \*\*
 
@@ -15764,7 +14492,6 @@ A.C. Delco or Lucas 1 1C 12. 1.43 to 1.58 ohms. 4.5 to 5 amps. 1.3 to 1.4 ohms. 
 
 
 ### CARBURETTER
-`mini_cooper_1976_en_113b3835` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:223 | doc_type:owners_manual
 
 Make/type \*\*   
 Type'specification \*\* s \*   
@@ -15780,7 +14507,6 @@ Red.
 
 
 ### EXHAUST EMISSION
-`mini_cooper_1976_en_1d79951a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:224 | doc_type:owners_manual
 
 Exhaust gas analyser reading at engine idle speed
 
@@ -15788,7 +14514,6 @@ Exhaust gas analyser reading at engine idle speed
 
 
 ### ENGINE
-`mini_cooper_1976_en_b5fd8c38` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:225 | doc_type:owners_manual
 
 ![](images/82b2bc8f9150b3d7a4182c338b2e247167ebeb63c44f070be938687fabb85f35.webp)
 
@@ -15810,7 +14535,6 @@ Vacuum pipe disconnected.
 
 
 ### DISTRIBUTOR
-`mini_cooper_1976_en_95344bd4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:226 | doc_type:owners_manual
 
 Make/type .. \* . \*.   
 Rotation of rotor..   
@@ -15820,7 +14544,6 @@ Contact breaker gap . \* \* Condenser capacity .. \*. \*\* Serial No.. \*\* .
 
 
 ### Centrifugal advance
-`mini_cooper_1976_en_eddc27bb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:227 | doc_type:owners_manual
 
 Decelerating check\*†
 
@@ -15841,7 +14564,6 @@ Anti-clockwise.
 
 
 ### Vacuum advance
-`mini_cooper_1976_en_c7ec2a98` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:228 | doc_type:owners_manual
 
 ![](images/06da034f52421d8741fdf8595c682ba40d7740fee1849146eaf05ea66be05a9f.webp)
 
@@ -15851,32 +14573,27 @@ Vacuum pipe disconnected.
 
 
 ### SPARK PLUGS
-`mini_cooper_1976_en_b21f75dc` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:229 | doc_type:owners_manual
 
 Make/type. Champion N9Y.   
 Gap , \* \*\* \*\* . \*\* .025 in. (.65 mm.).
 
 
 ### IGNITION COIL
-`mini_cooper_1976_en_d72af144` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:230 | doc_type:owners_manual
 
 ![](images/37191b4de504970eaef26bfdb39fd55682e9fe0f5522c260318cd8c29a945024.webp)
 
 
 ### CARBURETTER
-`mini_cooper_1976_en_119782d0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:231 | doc_type:owners_manual
 
 ![](images/f3f68c28df78f8f3e33dbfc96fbfaf37be09bd7bda57af33749079f59d2fcc4b.webp)
 
 
 ### EXHAUST EMISSION
-`mini_cooper_1976_en_99dd2948` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:232 | doc_type:owners_manual
 
 Exhaust gas analyser reading at engine idle speed \*\* \*\* 3.5 to 4.5% CO.
 
 
 ### ENGINE TUNING DATA
-`mini_cooper_1976_en_71e4a661` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:233 | doc_type:owners_manual
 
 To European emission control requirements (ECE 15)
 
@@ -15886,7 +14603,6 @@ Year: 1972 on
 
 
 ### ENGINE
-`mini_cooper_1976_en_67e13257` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:234 | doc_type:owners_manual
 
 Type ..   
 Capacity \* \*\* \*\*   
@@ -15916,7 +14632,6 @@ Vacuum pipe disconnected.
 
 
 ### DISTRIBUTOR
-`mini_cooper_1976_en_58545727` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:235 | doc_type:owners_manual
 
 маке/уре .. \*\* \*\*   
 Contact breaker gap \*\* \*\* \*\*   
@@ -15926,7 +14641,6 @@ Serial number \* \* \* \* \*\* \*\* \*.\*
 
 
 ### Centrifugal advance
-`mini_cooper_1976_en_1fb60cdc` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:236 | doc_type:owners_manual
 
 Decelerating check\*†
 
@@ -15947,7 +14661,6 @@ No advance below \*\*
 
 
 ### Vacuum advance
-`mini_cooper_1976_en_53f0ceb9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:237 | doc_type:owners_manual
 
 Siashees : \* \* \*\*
 
@@ -15955,13 +14668,11 @@ Vacuum pipe disconnected. \*Crankshaft degrees and r.p.m.
 
 
 ### SPARK PLUGS
-`mini_cooper_1976_en_4534c1e0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:238 | doc_type:owners_manual
 
 ![](images/60e0ce160f615190bd215cf49f0ba350083daaba4e9e071864b0d9261c791f87.webp)
 
 
 ### IGNITION COIL
-`mini_cooper_1976_en_095059b1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:239 | doc_type:owners_manual
 
 Make/type ..
 
@@ -15969,19 +14680,16 @@ Make/type ..
 
 
 ### CARBURETTER
-`mini_cooper_1976_en_527ea50c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:240 | doc_type:owners_manual
 
 ![](images/ca9c3cb233c9086c665361ad6f16404a83d4b44ddac189484f0a1d42f074a6ed.webp)
 
 
 ### EXHAUST EMISSION
-`mini_cooper_1976_en_98b892ee` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:241 | doc_type:owners_manual
 
 Exhaust gas analyser reading at engine idle speed 3.5 to 4.5% CO.
 
 
 ### ENGINE
-`mini_cooper_1976_en_f88e4069` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:242 | doc_type:owners_manual
 
 ![](images/ded80cd909552e976f3754e96155834a532945626990b29c83ff3c20e25e7750.webp)
 
@@ -15989,7 +14697,6 @@ Exhaust gas analyser reading at engine idle speed 3.5 to 4.5% CO.
 
 
 ### DISTRIBUTOR
-`mini_cooper_1976_en_a6d2c8ea` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:243 | doc_type:owners_manual
 
 Make/type .. \* \* \* \* \* \* \* \* \* \* Lucas 25D4.   
 Rortio o o .. \*\* . . \* \* \*\* \*\* \* \* . \* ckise. \* \* .014 to .016 in (.35 to .40 mm.).   
@@ -15997,7 +14704,6 @@ Cendenser capacty \* \* .. . . 4120.24 mF.
 
 
 ### Centrifugal advance
-`mini_cooper_1976_en_b27d6aa9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:244 | doc_type:owners_manual
 
 22 to 26° at 5,000 r.p.m.   
 16 to 20 at 3,400 r.p.m.   
@@ -16010,7 +14716,6 @@ No advance below
 
 
 ### Vacuum advance
-`mini_cooper_1976_en_d67beaf0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:245 | doc_type:owners_manual
 
 ![](images/1b9296f4cc6101e2ca48edfc55afab7411463017e23ec1cb8152b13f8fca933b.webp)
 
@@ -16018,25 +14723,21 @@ Vacuum pipe disconnected. \* Crankshaft degrees and r.p.m.
 
 
 ### SPARK PLUGS
-`mini_cooper_1976_en_46174936` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:246 | doc_type:owners_manual
 
 ![](images/3fd0077016853655c70aeb568f485477f1593c48bd4b3070b8a69b09a4e861db.webp)
 
 
 ### IGNITION COIL
-`mini_cooper_1976_en_bb2f036d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:247 | doc_type:owners_manual
 
 ![](images/57a93183467d031f7aed8e15c9423af8c900d025f6d6b14857e91e1637caefa9.webp)
 
 
 ### CARBURETTER
-`mini_cooper_1976_en_a8743610` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:248 | doc_type:owners_manual
 
 ![](images/fc6f4ec2859bb279c11421726fa0b56885d6c42a85f83221cf7008340b8cbca5.webp)
 
 
 ### ENGINE
-`mini_cooper_1976_en_5d3b4367` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:250 | doc_type:owners_manual
 
 ![](images/885db3518a563bd47aeeca4c8ef9ff80777850253d6e18b1190fff832f16d1b4.webp)
 
@@ -16056,7 +14757,6 @@ Dimples on timing wheels, marks on flywheel.
 
 
 ### DISTRIBUTOR
-`mini_cooper_1976_en_d8290919` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:251 | doc_type:owners_manual
 
 Make/type .. \* \* Lucas 25D4.   
 Rotation of rotor.. \* \*   
@@ -16070,31 +14770,26 @@ Vacuum pipe disconnected. \* Crankshaft degrees and r.p.m.
 
 
 ### SPARK PLUGS
-`mini_cooper_1976_en_571d34e0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:252 | doc_type:owners_manual
 
 ![](images/2fe8c2b59094e1f08bd9cde58dbbcacbd307a8025226bb72b50ffc799e3d86b8.webp)
 
 
 ### IGNITION COIL
-`mini_cooper_1976_en_5323e65a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:253 | doc_type:owners_manual
 
 ![](images/97c8f9c37990a51bd7afa5b9a61dc99ff40574020c7432c17f95207f3abaeb94.webp)
 
 
 ### CARBURETTER
-`mini_cooper_1976_en_042d1514` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:254 | doc_type:owners_manual
 
 ![](images/290643762a3a7179e0fbe4ef7fc4c95418b4928b554c6a78d3eba36583a1a0f3.webp)
 
 
 ### EXHAUST EMISSION
-`mini_cooper_1976_en_c19040e9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:255 | doc_type:owners_manual
 
 Exhaust gas analyser reading at engine idle speed \*\* \*\* 3 to 4.5% CO.
 
 
 ### MAINTENANCE
-`mini_cooper_1976_en_401813a3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:256 | doc_type:owners_manual
 
 Maintenance Summary   
 Lubrication Diagram   
@@ -16104,7 +14799,6 @@ Routine Maintenance Operations Lubrication Mechanical Electrical Body General In
 
 
 ### MAINTENANCE SUMMARY
-`mini_cooper_1976_en_2d27d40e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:257 | doc_type:owners_manual
 
 MAINTENANCE INTERVALS
 
@@ -16116,19 +14810,16 @@ Carry out the services indicated by X in column A at 6,000-mile (10000-km) or 6-
 
 
 ### LUBRICATION DIAGRAM
-`mini_cooper_1976_en_59a74d8d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:258 | doc_type:owners_manual
 
 ![](images/117d73c31a0cbdad7fa8bb5034bdca25f1fde4e5e5a1457ee3a5c944ea2d60f4.webp)
 
 
 ### KEY TO LUBRICATION DIAGRAM
-`mini_cooper_1976_en_ca6736d7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:259 | doc_type:owners_manual
 
 Optional Intermediate Service at 3,000 miles (500 km.) or 3 months ( ENGINE/TRANSMISSION. Inspect the oil level with the dipstick, and top-up if necessary.
 
 
 ### Every 6,000 miles (10000 km.) or 6 months
-`mini_cooper_1976_en_6781ec0b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:260 | doc_type:owners_manual
 
 (2) ENGINE/TRANSMISSION. Drain off the old oil and refll with new oil.   
 (3) OIL FILTER. Fit a new oil flter element.   
@@ -16147,7 +14838,6 @@ Recommended oils and greases are given overleaf.
 
 
 ### ANTI-FREEZE SOLUTIONS
-`mini_cooper_1976_en_c94f6dd0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:261 | doc_type:owners_manual
 
 Unipart Frostbeat or Bluecol Anti-freze or an anti-freeze conforming to B.S. 3151 or B.S. 3152. The correct quantities of anti-freze for different degrees of frost protection are given below:
 
@@ -16155,7 +14845,6 @@ Unipart Frostbeat or Bluecol Anti-freze or an anti-freeze conforming to B.S. 315
 
 
 ### BRAKE AND CLUTCH FLUID
-`mini_cooper_1976_en_01f1d51d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:262 | doc_type:owners_manual
 
 Vehicles with alldrum system: Use UNIPART 410 or 550 Brake Fluid; alternatively use a brake fuid conforming to specifi cation S.A.E. J1703c.
 
@@ -16164,13 +14853,11 @@ J1703c with a minmum boilgpoint of 260 .(500 F. DO NOT use ny oher type of brake
 
 
 ### CAPACITIES
-`mini_cooper_1976_en_235c22e1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:263 | doc_type:owners_manual
 
 ![](images/25e162531c1cf295e519b63852de4c78bcc1661332d53b78c51775377bf8767d.webp)
 
 
 ### Checking oil level
-`mini_cooper_1976_en_8ce4ef4e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:264 | doc_type:owners_manual
 
 NOTE: Ensure that the vehicle is standing on a level surface.
 
@@ -16178,14 +14865,12 @@ NOTE: Ensure that the vehicle is standing on a level surface.
 
 
 ### Draining and refilling
-`mini_cooper_1976_en_eb0287f4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:265 | doc_type:owners_manual
 
 (2) Drain the oil while the engine is warm; clean the magnetic drain plug, and fit a new sealing washer if necessary. Tighten the plug to the torquie figure given in 'GENERAL DATA'.   
 (3) Refill with a recommended oil, see 'RECOMMENDED LUBRICANTS', up to the 'MAX' mark on the dipstick. Run the engine for a short while, then allow it to stand for a few minutes before re-checking the level; top up if necessary.
 
 
 ### Filter element renewal
-`mini_cooper_1976_en_13048933` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:266 | doc_type:owners_manual
 
 (4) Unscrew the filter bowl securing bolt and remove the filter assembly.   
 (5) Discard the used element.   
@@ -16204,7 +14889,6 @@ NOTE: Ensure that the vehicle is standing on a level surface.
 
 
 ### Checking oil level
-`mini_cooper_1976_en_9000dbc3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:267 | doc_type:owners_manual
 
 NOTE: Ensure that the vehicle is standing on a level surface.
 
@@ -16212,7 +14896,6 @@ NOTE: Ensure that the vehicle is standing on a level surface.
 
 
 ### Draining and refilling
-`mini_cooper_1976_en_b8ea4017` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:268 | doc_type:owners_manual
 
 (2) Draining the oil is as detailed for the 'Synchromesh' transmission except that the full quantity will not rain out at each oil change.   
 (3) Refill the engine with the correct quantity of oil, see 'GENERAL DATA'. Use one of the oils listed in the 'RECOMMENDED LUBRICANTS' chart.   
@@ -16220,14 +14903,12 @@ NOTE: Ensure that the vehicle is standing on a level surface.
 
 
 ### Filter element renewal
-`mini_cooper_1976_en_799e24df` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:269 | doc_type:owners_manual
 
 (5) All models except 'Clubman'. Remove the front grille (16 screws) and place a container beneath the filter bowl. On 'Clubman' models sufficient clearance exists for filter bowl removal.   
 (6) Filter element renewal is as detailed for the 'Synchromesh' transmission except that the filter bowl is removed and refitted through the grille aperture (where applicable).
 
 
 ### DYNAMO
-`mini_cooper_1976_en_b34d3fa2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:270 | doc_type:owners_manual
 
 (1 Add a few drops of oil through the central hole in the rear bearing housing. Avoid over-lubricating.
 
@@ -16239,7 +14920,6 @@ NOTE: Ensure that the vehicle is standing on a level surface.
 
 
 ### CARBURETTER
-`mini_cooper_1976_en_9d3bb295` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:271 | doc_type:owners_manual
 
 (1Unscrew the damper cap and withdraw the damper.   
 (2) Check the oil level, and top up if necessary until the level is 2 in. (13 mm.) above the top of the hollow piston rod. NOTE: Under no circumstances should a heavybodied lubricant be used.   
@@ -16247,25 +14927,21 @@ NOTE: Ensure that the vehicle is standing on a level surface.
 
 
 ### Swivel hub ball joints
-`mini_cooper_1976_en_c491fb87` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:272 | doc_type:owners_manual
 
 (1) Use one of the recommended greases shown in the 'RECOMMENDED LUBRICANTS' chart and charge the two nipples on each swivel hub with grease. If the joints are already filled with grease, no further grease can usually be forced in.
 
 
 ### Upper support arm inner pivot
-`mini_cooper_1976_en_dd26ab96` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:273 | doc_type:owners_manual
 
 (2) Apply grease to the lubricating nipple on each unit on both sides of the vehicle.
 
 
 ### REAR SUSPENSION
-`mini_cooper_1976_en_79fa93ac` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:274 | doc_type:owners_manual
 
 (1) Using the same recommended grease as used for FRONT SUSPENSION' lubrication, charge the nipple on each unit with grease until excess grease appears from the inner bush on the opposite end of the radius arm.
 
 
 ### Radius arms
-`mini_cooper_1976_en_c5073edf` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:275 | doc_type:owners_manual
 
 ![](images/eacc9572e08c3a6969e83175c8ccf47ee516ff53bb2740c2b0ba7dcae8b53c19.webp)
 
@@ -16275,7 +14951,6 @@ NOTE: Ensure that the vehicle is standing on a level surface.
 
 
 ### COOLING SYSTEM
-`mini_cooper_1976_en_23834f26` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:276 | doc_type:owners_manual
 
 The cooling system is under pressure while the engine is hot. Allow the system to cool before removing the filler cap.
 
@@ -16286,13 +14961,11 @@ NOTE: If it is essential to remove the filler cap while the engine is HOT, take 
 
 
 ### FAN BELT ADJUSTMENT
-`mini_cooper_1976_en_f3274d2a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:277 | doc_type:owners_manual
 
 When correctly tensioned it should be possible, under moderate hand pressure, to deflect the longest run of the belt by  in. (13 mm.).
 
 
 ### Adjusting
-`mini_cooper_1976_en_39b1624e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:278 | doc_type:owners_manual
 
 (1 Slacken the dynamo or alternator securing bolts.   
 Slacken the adjusting link nut.   
@@ -16301,13 +14974,11 @@ Slacken the adjusting link nut.
 
 
 ### Release lever clearance
-`mini_cooper_1976_en_0b6e79bb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:279 | doc_type:owners_manual
 
 A clearance of 0б020 in. (0б5 mm.) must be maintained between the clutch release lever and its return stop. Use a feeler gauge to check the clearance.
 
 
 ### Checking
-`mini_cooper_1976_en_9ebeca4f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:280 | doc_type:owners_manual
 
 (1 Pull the release lever outwards until all movement is taken up and check the clearance 'A'.
 
@@ -16322,13 +14993,11 @@ MINI. Issue 1. 82445
 
 
 ### Fluid levels
-`mini_cooper_1976_en_eff196cb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:281 | doc_type:owners_manual
 
 Brake. One of three types of master cylinder may be fitted, according to the regulations of the country for which the vehicle was produced.
 
 
 ### Checking
-`mini_cooper_1976_en_953ef577` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:282 | doc_type:owners_manual
 
 (1) The fiuid level in the brake 'B' and clutch 'C' master cylinder reservoirs must be maintained at the bottom of the filler necks.   
 (2) Brake reservoir with translucent extension: The fluid must be maintained up to the 'FLUID LEVEL' mark on the translucent extension.   
@@ -16336,7 +15005,6 @@ Brake. One of three types of master cylinder may be fitted, according to the reg
 
 
 ### Topping up
-`mini_cooper_1976_en_bccdb10f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:283 | doc_type:owners_manual
 
 (4) Remove the plastic filler cap and top up with UNIPART 410 or 550\* BRAKE FLUID. Alternatively, use a high-boiling-point brake fluid conforming to specification S.A.E. J1703c with a minimum boiling point of 260° C. (500° F.). DO NOT use any other type of fuid.
 
@@ -16348,13 +15016,11 @@ NOTE: Brake fluid can have a detrimental effect on paintwork. Ensure that fluid 
 
 
 ### AIR CLEANER
-`mini_cooper_1976_en_8d0aeb12` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:284 | doc_type:owners_manual
 
 Renew the air cleaner element at the intervals given in the 'MAINTENANCE SUMMARY'. In dusty operating conditions the element may require renewal more frequently than recommended.
 
 
 ### Element replacement
-`mini_cooper_1976_en_cab2fb68` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:285 | doc_type:owners_manual
 
 (1) Unscrew the wing nut(s) and disconnect the breather hose (when fitted).   
 (2) Metal case type: Lift off the top cover. Plastic case type: Use a screwdriver in the slots (arrowed) to lever up the top cover, then release it from its locating lug (arrowed) adjacent the air intake pipe.   
@@ -16375,7 +15041,6 @@ Large plastic type. Align the 'arrow' marked on the cover with the locating lug 
 
 
 ### Checking
-`mini_cooper_1976_en_c6a82544` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:286 | doc_type:owners_manual
 
 () Disconnect the breather hose (when fitted.
 
@@ -16387,7 +15052,6 @@ Large plastic type. Align the 'arrow' marked on the cover with the locating lug 
 
 
 ### Adjusting
-`mini_cooper_1976_en_6e134548` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:287 | doc_type:owners_manual
 
 (5) Slacken the adjusting screw locknut and turn the screw, clockwise to reduce the clearance or anticlockwise to increase it. Retighten the locknut when the feeler gauge is a sliding fit, holding the adjusting screw against rotation with a screwdriver.
 
@@ -16403,7 +15067,6 @@ MINI. Issue 1. 82445
 
 
 ### Contact breaker—cleaning
-`mini_cooper_1976_en_8c76fa0b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:288 | doc_type:owners_manual
 
 (1) Remove the ignition shield (Clubman and 1275 GT).   
 (2) Remove the distributor cap and rotor arm.   
@@ -16413,13 +15076,11 @@ MINI. Issue 1. 82445
 
 
 ### Contact breaker—gap setting
-`mini_cooper_1976_en_37b36c91` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:289 | doc_type:owners_manual
 
 (6) With the contact points fully open, check the gap setting with a feeler gauge, it should be 0б014 to 0б016 in. (0б35 to 0б40 mm.).
 
 
 ### Contact breaker—adjusting
-`mini_cooper_1976_en_0251bdce` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:290 | doc_type:owners_manual
 
 (7) Slacken the contact plate securing screw.   
 (8) Insert a screwdriver into the notched hole of the plate and turn it clockwise to decrease and anticlockwise to increase the gap.   
@@ -16427,7 +15088,6 @@ MINI. Issue 1. 82445
 
 
 ### Contact breaker—lubrication
-`mini_cooper_1976_en_e1544807` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:291 | doc_type:owners_manual
 
 (10) Lightly smear the pivot post and spindle cam with grease.   
 (11) Lubricate the centrifugal weights with a few drops of oil through the hole in the base plate. :   
@@ -16439,7 +15099,6 @@ Maintenance 14
 
 
 ### Contact breaker—renewing
-`mini_cooper_1976_en_b5da09f9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:292 | doc_type:owners_manual
 
 (13) Remove the nut and lift off the top insulating bush and both electrical leads from the pivot stud.   
 (14) Remove the contact plate securing screw, spring and plain washer.   
@@ -16454,7 +15113,6 @@ NOTE: Whenever a new contact set has been fitted, re-check the gap after the fir
 
 
 ### Sparking plugs Servicing
-`mini_cooper_1976_en_da659468` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:293 | doc_type:owners_manual
 
 (1) Remove the sparking plugs and clean them, preferably with an air-blast service unit.   
 (2) Clean the exterior insulators.   
@@ -16463,7 +15121,6 @@ NOTE: Whenever a new contact set has been fitted, re-check the gap after the fir
 
 
 ### CARBURETTER TUNING (SINGLE)
-`mini_cooper_1976_en_e7a43944` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:294 | doc_type:owners_manual
 
 The efficient operation of the engine and any exhaust emission control equipment which may be fitted depends not only on correct carburetter adjustment but also on correct ignition timing, rocker clearance, distributor contact breaker and plug gaps. It is essential that these items are checked before adjusting the carburetter.
 
@@ -16498,7 +15155,6 @@ MINI. Issue 1. 82445
 
 
 ### CARBURETTER TUNING (TWIN)
-`mini_cooper_1976_en_ae0112f8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:295 | doc_type:owners_manual
 
 The efficient operation of the engine and any exhaust emission control equipment which may be fitted depends not only on correct carburetter settings but also on correct ignition timing, tappet clearance, distributor contact breaker and plug gaps. It is essential that these items are checked before adjusting the carburetters.
 
@@ -16520,7 +15176,6 @@ NOTE: Tuning can now be commenced. If delay prevents the adjustment being comple
 
 
 ### Slow running adjustment and synchronization
-`mini_cooper_1976_en_728e6f49` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:296 | doc_type:owners_manual
 
 (10) Check the idle speed with a tachometer, see 'TUNING DATA', and check the carburetters for balanced air intake using a balance meter.   
 (11) If the balance is not correct, adjust by turning the throttle adjusting screw on one of the carburetters. Then adjust the idle speed by turning the throttle adjusting screw on each carburetter by the same amount until the correct idle speed is obtained.   
@@ -16532,7 +15187,6 @@ NOTE: Tuning can now be commenced. If delay prevents the adjustment being comple
 
 
 ### Mixture setting
-`mini_cooper_1976_en_7a6dea4c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:297 | doc_type:owners_manual
 
 (13) Slacken the clamp bolt on one of the throttle spindle interconnections.   
 (14) Disconnect the clamp bolt on one of the jet control interconnections.   
@@ -16544,14 +15198,12 @@ NOTE: Operations (15) to (17) need not be carried out if it is known that the je
 
 
 ### Adjusting
-`mini_cooper_1976_en_a8718b3d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:298 | doc_type:owners_manual
 
 (19) Turn the jet adjusting nut (16) on both carburetters in the same direction, one flat at a time, up to weaken or down to enrich, until the fastest speed is recorded on the tachometer. Now turn the nuts up slowly until the speed just commences to fall; finally, turn each nut down equally very slowly by the minimum amount until maximum speed is regained.   
 (20) Re-check the idle speed and carburetter intake balance; adjust as necessary with the throttle adjusting screws (11). Emission controlled cars: Use the exhaust gas analyser and check that the percentage CO reading is within the prescribed limits. If the reading falls outside the limits, reset both jet adjusting nuts equally by the minimum amount necessary to bring the reading just within the limits.
 
 
 ### Throttle linkage adjustment
-`mini_cooper_1976_en_7ab60c5e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:299 | doc_type:owners_manual
 
 (21) Slacken the throttle shaft lever clamping screws.   
 (22) Place a 0б012 in. (0б31 mm.) feeler gauge between the tail of the throttle shaft operating lever and the choke control interconnecting rod.   
@@ -16559,7 +15211,6 @@ NOTE: Operations (15) to (17) need not be carried out if it is known that the je
 
 
 ### Fast idle adjustment
-`mini_cooper_1976_en_4b28e9b6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:300 | doc_type:owners_manual
 
 (24) Pull out the mixture control knob (choke) until the linkage is about to move the carburetter jets. Lock the knob in this position.   
 (25) Turn each fast idle screw (6) until it just contacts its cam.   
@@ -16575,13 +15226,11 @@ MINI. Issue 1. 82445
 
 
 ### Adjustment
-`mini_cooper_1976_en_7105d841` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:301 | doc_type:owners_manual
 
 (1) Jack up the vehicle and place supports under the sub-frames. Deal with one adjuster at a time.
 
 
 ### Front
-`mini_cooper_1976_en_7e1d15eb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:302 | doc_type:owners_manual
 
 (2) Turn the adjuster in the same direction as the forward rotation of the road wheel until the wheel is locked. Back off the adjuster the minimum amount necessary to allow the wheel to revolve freely.   
 (3) Spin the wheel, apply the foot brake hard to centralize the brake-shoes, and recheck the adjustment.   
@@ -16589,14 +15238,12 @@ MINI. Issue 1. 82445
 
 
 ### Rear
-`mini_cooper_1976_en_a2e24c85` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:303 | doc_type:owners_manual
 
 (5) Turn the single squared adjuster in a clockwise direction (when viewed from under the centre of the vehicle) until the wheel is locked. Back off the adjuster the minimum amount necessary to allow the wheel to revolve freely.   
 (6) Repeat the above operation on the other rear wheel.
 
 
 ### Hand brake
-`mini_cooper_1976_en_70f56739` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:304 | doc_type:owners_manual
 
 (Adjust the brake-shoes as detailed in () to (6).   
 (8) Apply the hand brake to the third notch on the ratchet.   
@@ -16605,7 +15252,6 @@ MINI. Issue 1. 82445
 
 
 ### Checking
-`mini_cooper_1976_en_deca1d48` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:305 | doc_type:owners_manual
 
 (1 Jack up the vehicle and place supports under the sub-frames.   
 (2) Back off the brake adjusters and release the hand brake when dealing with the rear brakes.   
@@ -16623,13 +15269,11 @@ Maintenance 18
 
 
 ### Inspecting
-`mini_cooper_1976_en_21197b7a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:306 | doc_type:owners_manual
 
 (1) Jack up the front of the car, place supports under the sub-frame and remove the road wheels. (2) Check the thickness of the pads, and renew them if the pad linings are approaching the minimum thickness of 16 in. (1б6 mm.). Always ensure that sufficient pad material remains for the car to be used until the next service interval.
 
 
 ### Replacing
-`mini_cooper_1976_en_c6d4713e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:307 | doc_type:owners_manual
 
 (3) Remove the pad-retaining split pins.   
 ( Withdraw the pads and anti-squeak shims.   
@@ -16640,26 +15284,22 @@ Maintenance 18
 
 
 ### BRAKE SERVO FILTER
-`mini_cooper_1976_en_afc414db` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:308 | doc_type:owners_manual
 
 The filter should be cleaned at the intervals recommended in the MAINTENANCE SUMMARY'.
 
 
 ### Removing
-`mini_cooper_1976_en_b012a8c1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:309 | doc_type:owners_manual
 
 ( Lever the dome off the valve cover with a screwdriver (arrowed). (2)1 Remove the filter and clean it with compressed air at low pressure. DO NOT use cleaning fuid or lubricant of any description on the fiter.
 
 
 ### Refitting
-`mini_cooper_1976_en_e1d8a35e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:310 | doc_type:owners_manual
 
 (3) Ensure that the air valve spring is securely located onto the valve.   
 (4) Refit the filter and snap-fit the dome onto the valve cover.
 
 
 ### BRAKES (PREVENTIVE MAINTENANCE)
-`mini_cooper_1976_en_9cba8e24` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:311 | doc_type:owners_manual
 
 In addition to the recommended periodical inspection of brake components it is advisable as the car ages and as a precaution against the effects of wear and deterioration to make a more searching inspection and renew parts as necessary.
 
@@ -16683,7 +15323,6 @@ Care must be taken always to observe the following points:
 
 
 ### Checking
-`mini_cooper_1976_en_d7ecb8db` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:312 | doc_type:owners_manual
 
 (1) Check that the tyres on the same axle are of the same size and make and that cross-ply and radials have not been incorrectly mixed, see 'NOTES'.   
 (2) Examine all tyres for cuts in the fabric, exposure of ply or cord, structure, lumps or bulges.   
@@ -16695,14 +15334,12 @@ NOTES: Radial-ply tyres should only be fitted in sets of four, although in certa
 
 
 ### Wheel alignment
-`mini_cooper_1976_en_4bf7c2ff` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:313 | doc_type:owners_manual
 
 (1) Check the front wheel alignment with the car unladen and with the tyres at their correct pressures, see 'GENERAL DATA'.   
 (2) Carry out the alignment check as detailed in Section J.4.
 
 
 ### Checking for wear
-`mini_cooper_1976_en_2db6b24f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:steering | p:314 | doc_type:owners_manual
 
 () Check all moving parts for wear and security.   
 (4) Examine the steering rack and drive shaft gaiters for condition and oil leakage.   
@@ -16710,14 +15347,12 @@ NOTES: Radial-ply tyres should only be fitted in sets of four, although in certa
 
 
 ### General checks
-`mini_cooper_1976_en_4c251456` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:315 | doc_type:owners_manual
 
 (1 Check the functioning of allamps, horns, direction indicators and windscreen wipers.   
 (2) Examine the windscreen wiper blades, and replace if showing signs of deterioration.
 
 
 ### Headlamp beam alignment
-`mini_cooper_1976_en_4c7cd744` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:316 | doc_type:owners_manual
 
 The headlamp beams should be set with the normal load on the car. They should be set parallel to each other in the straight-ahead position and 1°±4° below horizontal or in accordance with local regulations of the country for which the car was produced.
 
@@ -16727,7 +15362,6 @@ Maintenance 20
 
 
 ### Adjusting
-`mini_cooper_1976_en_d7ec234a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:317 | doc_type:owners_manual
 
 (1) Clubman and 1275 GT models: To obtain access to the beam adjusting screws, remove the front grille extensions (four screws each).   
 () All other models: Remove the rim retaining screw, pull the rim forwards and upwards to release it from the lamp retaining lugs.   
@@ -16739,7 +15373,6 @@ Maintenance 20
 
 
 ### General maintenance
-`mini_cooper_1976_en_c2f2da18` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:318 | doc_type:owners_manual
 
 (1) Wipe away all dirt and moisture from the top of the battery. Check that the terminals are secure, and smear with petroleum jelly.
 
@@ -16747,7 +15380,6 @@ NOTE: One of two types of battery may be fitted, therefore refer to the applicab
 
 
 ### Topping-up
-`mini_cooper_1976_en_0d3958ea` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:319 | doc_type:owners_manual
 
 (2) Lucas Pacemaker (Type A7, A9, A11/9). The electrolyte levels (1) are visible through the translucent battery case or may be checked by fully raising the vent cover (2) and tilting it to one side. The electrolyte level in each cell must be maintained so that the separator plates (3) are just covered. To avoid flooding, the battery must not be topped up within half an hour of it having been charged from any source other than the generating system fitted to the car.
 
@@ -16757,7 +15389,6 @@ IMPORTANT. The vent cover must be kept closed at all times, except when topping-
 
 
 ### Topping up
-`mini_cooper_1976_en_4e978460` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:320 | doc_type:owners_manual
 
 (3) Lucas (Type CL7, CL9). Remove the manifold (1) and check the electrolyte level () in each cell. Top up if necessary with distilled water until the separator guard is just covered; do not overfil.
 
@@ -16783,7 +15414,6 @@ For every 3 C. (5° F.) below 16° C. (60° F.) subtract 0б002 S.G. (0б2° B.)
 
 
 ### Lubrication
-`mini_cooper_1976_en_516ccf15` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:321 | doc_type:owners_manual
 
 (1) Inject a small quantity of engine oil through the key slots and around the push-buttons.   
 (2) Lubricate the door hinges with engine oil.   
@@ -16791,7 +15421,6 @@ For every 3 C. (5° F.) below 16° C. (60° F.) subtract 0б002 S.G. (0б2° B.)
 
 
 ### General checks
-`mini_cooper_1976_en_07914aed` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:322 | doc_type:owners_manual
 
 (4) Check the condition and security of seats and seat belts; report if attention is required.   
 (5) Check the rear view mirror for looseness, cracks or crazing.   
@@ -16799,14 +15428,12 @@ For every 3 C. (5° F.) below 16° C. (60° F.) subtract 0б002 S.G. (0б2° B.)
 
 
 ### Visual checks
-`mini_cooper_1976_en_e084ff18` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:323 | doc_type:owners_manual
 
 (1) Check the fuel and clutch pipes and unions for chafing, leaks and corrosion.   
 (2) Check the exhaust system for security, leakage, or severe corrosion likely to cause leakage before the next check is called for.
 
 
 ### Section
-`mini_cooper_1976_en_6c23e23d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:324 | doc_type:owners_manual
 
 Air cleaner .. – .. A.1   
 +Camshaft .• .• •.• •• A.23   
@@ -16832,19 +15459,16 @@ tValve timing . : : : : : : : :
 
 
 ### Removing
-`mini_cooper_1976_en_30ddd7be` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:325 | doc_type:owners_manual
 
 (1) Disconnect the breather hose from the rocker cover, unscrew the wing nut and lift of the cleaner.
 
 
 ### Removing
-`mini_cooper_1976_en_35dc710c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:326 | doc_type:owners_manual
 
 (1) Disconnect the breather pipe from the rocker cover. (2) Remove the four securing screws to remove the gauze-type cleaner, unscrew the two wing nuts to remove the paper-element-type cleaner.
 
 
 ### Removing
-`mini_cooper_1976_en_363d50c6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:327 | doc_type:owners_manual
 
 () Remove the air cleaner.   
 (2) Disconnect the mixture and throttle cables.   
@@ -16856,7 +15480,6 @@ When refitting, make sure the gaskets are in good condition.
 
 
 ### Removing
-`mini_cooper_1976_en_cee4b3b5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:328 | doc_type:owners_manual
 
 ( Remove the bonnet and disconnect the battery.   
 (2) Disconnect the choke and throttle cables and the main flexible feed pipe.   
@@ -16867,19 +15490,16 @@ When refitting, make sure the gaskets are in good condition.
 
 
 ### Refitting
-`mini_cooper_1976_en_50938e21` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:329 | doc_type:owners_manual
 
 Reverse the removing instructions and adjust the linkage as in Section D.6 (35).
 
 
 ### Removing
-`mini_cooper_1976_en_5c85d958` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:330 | doc_type:owners_manual
 
 Slacken the exhaust pipe to manifold clamp and disconnect the fixing points on the gear change extension and the rear sub-frame.
 
 
 ### Refitting
-`mini_cooper_1976_en_080c2307` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:331 | doc_type:owners_manual
 
 (1) Disconnect the engine tie-rod from the cylinder block.   
 (2) Assemble the exhaust pipe to the engine leaving the fixing bolts and the manifold clamp loose.   
@@ -16890,14 +15510,12 @@ Slacken the exhaust pipe to manifold clamp and disconnect the fixing points on t
 
 
 ### Removing
-`mini_cooper_1976_en_6e2a46be` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:332 | doc_type:owners_manual
 
 (1) Remove the screw securing the exhaust pipe to manifold clamp from the front end of the gear change extension.   
 (2) Unscrew the nuts and bolts at the intermediate and rear mountings and withdraw the pipe.
 
 
 ### Refitting
-`mini_cooper_1976_en_16b78193` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:333 | doc_type:owners_manual
 
 Reverse the removing instructions.
 
@@ -16908,13 +15526,11 @@ The front sub-frame and transmission casing viewed from beneath the car, showing
 
 
 ### Removing
-`mini_cooper_1976_en_62bd9d05` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:334 | doc_type:owners_manual
 
 (1) Carry out instructions in Sections A.1 and A.2. (2) Slacken the pipe clamp, unscrew the six nuts and withdraw the manifold.
 
 
 ### COOPER
-`mini_cooper_1976_en_6b5008e7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:335 | doc_type:owners_manual
 
 () Jack up the vehicle and remove the bonnet.   
 (4) Remove the exhaust pipe assembly, Section A.3, and carburetters, Section A.2.   
@@ -16926,13 +15542,11 @@ The front sub-frame and transmission casing viewed from beneath the car, showing
 
 
 ### Refitting
-`mini_cooper_1976_en_6275f117` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:336 | doc_type:owners_manual
 
 Reverse the removing instructions.
 
 
 ### Removing and dismantling
-`mini_cooper_1976_en_4236643d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:337 | doc_type:owners_manual
 
 ( Remove the air cleaners (Section A.1).   
 ( Drain the cooling system (Section C.1).   
@@ -16954,13 +15568,11 @@ Unscrew the plug from the front end of the shaft and clean out the oilways.
 
 
 ### Rockers and bushes
-`mini_cooper_1976_en_052eb1af` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:338 | doc_type:owners_manual
 
 Check the rockers for wear. Two types of rocker are in use—pressed steel or forged; if the forged type is fitted the rockers can be rebushed, but worn pressed-steel rockers must be renewed.
 
 
 ### To fit new bushes
-`mini_cooper_1976_en_c2da1f23` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:339 | doc_type:owners_manual
 
 (9) Remove the old and press in new bushes with Service tool 18G 226 and 18G 226 A.   
 (10) Locate the joint of the bush at the top as shown in Fig. A.3.   
@@ -16972,7 +15584,6 @@ Check the rockers for wear. Two types of rocker are in use—pressed steel or fo
 
 
 ### Reassembling
-`mini_cooper_1976_en_f2823e4b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:340 | doc_type:owners_manual
 
 (16) Reverse the dismantling procedure.   
 (17) Fit the plugged end of the shaft and the tapped bracket at the front of the engine.   
@@ -16980,7 +15591,6 @@ Check the rockers for wear. Two types of rocker are in use—pressed steel or fo
 
 
 ### Adjustment
-`mini_cooper_1976_en_d820a16c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:341 | doc_type:owners_manual
 
 (19) Remove the sparking plugs, engage top gear and push the car forward to rotate the crankshaft. This operation can be also effected by jacking up one side of the front suspension until the road wheel can be rotated, and thus turn the crankshaft to the required position.
 
@@ -16996,7 +15606,6 @@ Adjust No. 1 rocker with No. 8 valve fully open
 
 
 ### Removing
-`mini_cooper_1976_en_3772267c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:342 | doc_type:owners_manual
 
 ( Remove the bonnet.   
 (2) Drain the cooling system (Section C.1).   
@@ -17014,7 +15623,6 @@ Adjust No. 1 rocker with No. 8 valve fully open
 
 
 ### Refitting
-`mini_cooper_1976_en_bfba9e5d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:343 | doc_type:owners_manual
 
 (14) Reverse the removing procedure, noting the following points:
 
@@ -17025,7 +15633,6 @@ Adjust No. 1 rocker with No. 8 valve fully open
 
 
 ### DECARBONIZING
-`mini_cooper_1976_en_8606554b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:344 | doc_type:owners_manual
 
 (1 Remove the cylinder head and gasket (Section A.6) and the valves (Section A.8).   
 Scrape the carbon from the piston crowns, cylinder head, valves, and cylinder block, leaving a ring of carbon around the periphery of each piston and the top of each bore. Blow all deposits of carbon from the head and block.
@@ -17044,13 +15651,11 @@ Fig. A.5 The component parts of the valve assembly
 
 
 ### VALVES
-`mini_cooper_1976_en_442084af` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:345 | doc_type:owners_manual
 
 ![](images/b32c2da24f56bdb2c4afb037078c0389d6bb813b47f4ab7b6f27da732b1f0fff.webp)
 
 
 ### Removing
-`mini_cooper_1976_en_fb2888a6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:346 | doc_type:owners_manual
 
 Remove the cylinder head and gasket (Section A.6).   
 ()Withdraw the cotter clip (when fited).   
@@ -17062,7 +15667,6 @@ The Cooper 'S' has no cotter clips or shroud, and the rubber seal is fitted over
 
 
 ### Grinding
-`mini_cooper_1976_en_aefd1611` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:interior | p:347 | doc_type:owners_manual
 
 Clean the valves and seatings and examine them for pitting and unevenness. If the valves are in a very poor condition, fit new, otherwise reface them on a valve grinder.
 
@@ -17070,25 +15674,21 @@ Seats can be re-cut with special cutters available from BMC Service. Confine sea
 
 
 ### Valve seat inserts
-`mini_cooper_1976_en_eb151910` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:348 | doc_type:owners_manual
 
 When it becomes necessary to fit inserts, machine the cylinder head to the dimensions given in Fig. A.7. The inserts should have an interference fit of б0025 to б0045 in. (063 to б11 mm.) and must be pressed, not driven, into the cylinder head.
 
 
 ### Valve guides
-`mini_cooper_1976_en_77131d30` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:349 | doc_type:owners_manual
 
 Remove by driving downwards into the combustion chambers. Drive new guides into position until they protrude 18 in.(15-08 mm.) above the machined spring seats (Fig. A.6). Fit the inlet guides with the largest chamfer at the top, and the exhaust with the counterbore at the bottom.
 
 
 ### Refitting
-`mini_cooper_1976_en_b334189a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:350 | doc_type:owners_manual
 
 Reverse instructions (1) to (5) above.
 
 
 ### Removing
-`mini_cooper_1976_en_76a1d198` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:351 | doc_type:owners_manual
 
 (1) Remove the air cleaner(s) and carburetter(s) (Sections A.1 and A.2).   
 (2) Remove the rocker cover and shaft assembly (Section A.5).   
@@ -17098,13 +15698,11 @@ Reverse instructions (1) to (5) above.
 
 
 ### Refitting
-`mini_cooper_1976_en_f5f13f75` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:352 | doc_type:owners_manual
 
 Reverse the dismantling operations, taking care to replace the tappets in their original positions.
 
 
 ### Removing
-`mini_cooper_1976_en_24cd87b3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:353 | doc_type:owners_manual
 
 () Remove the distributor (Section B.1).
 
@@ -17126,7 +15724,6 @@ Fig. A.8
 
 
 ### Refitting
-`mini_cooper_1976_en_b31e3f4a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:354 | doc_type:owners_manual
 
 (3) Turn the crankshaft until No. 1 piston is at T.D.C. on the compression stroke (No. 4 cylinder exhaust and inlet valves rocking and the 1/4 mark on the flywheel against the pointer).   
 (4) Hold the spindle so that the drive slot is in the position shown (Fig. A.8) with the large offset uppermost, and enter the gear. As the gear engages the camshaft the spindle will turn anticlockwise.
@@ -17135,7 +15732,6 @@ Fig. A.8
 
 
 ### Removing
-`mini_cooper_1976_en_e0c81a77` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:355 | doc_type:owners_manual
 
 ( Disconnect the coil (or solenoid) leads and remove the coil (or solenoid).   
 (Remove the starter (Section N.3).   
@@ -17159,7 +15755,6 @@ phragm clutch is fitted, release the spring retainer to detach the thrust plate.
 
 
 ### NOTES:
-`mini_cooper_1976_en_40763e94` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:356 | doc_type:owners_manual
 
 (A) As the flywheel is pulled from the shaft, oil from the annulus behind the flywheel oil seal may spill down the face of the flywheel onto the clutch driven plate. Look out for this when dismantling to avoid assuming that the oil has passed the seal during normal running.   
 (B In early engines a rubber plug was fitted into the rear end of the crankshaft as an added precaution against oil leaking past the normal brass taper plug. An improved brass plug is now fitted and the rubber is discontinued.   
@@ -17175,13 +15770,11 @@ Fig. A.10 The engine and front suspension assembly
 
 
 ### Starter ring
-`mini_cooper_1976_en_93fa273a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:357 | doc_type:owners_manual
 
 If a new starter ring is needed, split the old one with a cold chisel. Clean the bore of the new ring and the mating surface of the fywheel, heat the ring to a temperature of 300 to 400° C. (575 to 752° F.), indicated by a light blue colour, and fit it to the flywheel with the lead of the teeth towards the flywheel register. Allow it to cool naturally.
 
 
 ### Refitting
-`mini_cooper_1976_en_bf2ec2d5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:358 | doc_type:owners_manual
 
 (16 Assemble the clutch.   
 (17) Lubricate the fywheel oil seal (if fitted).   
@@ -17195,7 +15788,6 @@ If a new starter ring is needed, split the old one with a cold chisel. Clean the
 
 
 ### Removing
-`mini_cooper_1976_en_a6ce0f66` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:359 | doc_type:owners_manual
 
 ( Remove the bonnet, drain the cooling system and remove the front grille.   
 (2) Disconnect the battery.   
@@ -17227,7 +15819,6 @@ Use the individual front lifting eye of the attachment to give an angled lift wh
 
 
 ### Removing engine from sub-frame
-`mini_cooper_1976_en_f3279591` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:360 | doc_type:owners_manual
 
 (21) Remove the rocker cover nuts and fit the engine lifting bracket (Fig. A.11).   
 (22) Drain the oil. Disconnect the drive shafts at the differential (Section G).   
@@ -17237,7 +15828,6 @@ Use the individual front lifting eye of the attachment to give an angled lift wh
 
 
 ### Refitting
-`mini_cooper_1976_en_2b8a2fbb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:361 | doc_type:owners_manual
 
 (25) Reverse the removal instructions.
 
@@ -17245,7 +15835,6 @@ NOTE.—On vehicles NOT fitted with the remote control gear-change pull the gear
 
 
 ### Removing
-`mini_cooper_1976_en_4f58f304` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:362 | doc_type:owners_manual
 
 (1) The engine and transmission assembly can be taken out through the bonnet aperture as follows:   
 (2) Refer to Section A.12 and carry out instruction Nos. (1) to (5), (8) and (12) to (16).   
@@ -17257,7 +15846,6 @@ NOTE.—On vehicles NOT fitted with the remote control gear-change pull the gear
 
 
 ### Refitting
-`mini_cooper_1976_en_8c5acd73` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:363 | doc_type:owners_manual
 
 (8) Reverse the removal instructions.
 
@@ -17265,7 +15853,6 @@ NOTES.—On vehicles NOT fitted with the remote control gear-change pull the gea
 
 
 ### Removing
-`mini_cooper_1976_en_ed93eaff` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:364 | doc_type:owners_manual
 
 (1) Carry out the instructions (1) to (9) and (16) in Section A.12.   
 (2) Remove the fresh-air motor (when fitted).   
@@ -17282,7 +15869,6 @@ MINI. Issue 2. 20189
 
 
 ### Left-hand
-`mini_cooper_1976_en_7bd57c15` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:366 | doc_type:owners_manual
 
 ( Remove the radiator (Section C.3). т   
 (2) Support the engine with the attachment shown in Fig. A.11; use the central 'straight lift' position and take the weight off the mounting.   
@@ -17290,13 +15876,11 @@ MINI. Issue 2. 20189
 
 
 ### Right-hand
-`mini_cooper_1976_en_5250d2f8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:367 | doc_type:owners_manual
 
 (4) Remove the clutch cover and engine mounting together as detailed in Section A.11.
 
 
 ### Removing
-`mini_cooper_1976_en_c64dfd78` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:369 | doc_type:owners_manual
 
 If the fan cowling is not the later split-type the engine will have to be removed as in Section A.13; otherwise proceed as follows.
 
@@ -17307,7 +15891,6 @@ If the fan cowling is not the later split-type the engine will have to be remove
 
 
 ### Refitting
-`mini_cooper_1976_en_b90a8939` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:370 | doc_type:owners_manual
 
 ![](images/cb0a9a09093f3115148b58c6058a8522da649e81892d1b6017d173b65048eef2.webp)  
 Fig. A.12
@@ -17324,7 +15907,6 @@ The securing points for the remote control gear-change extension
 
 
 ### Removing
-`mini_cooper_1976_en_f63e5462` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:371 | doc_type:owners_manual
 
 ( Remove the timing cover (Section A.15). ()Withdraw the oil thrower. (3) Unlock the camshaft chain wheel nut, unscrew and remove the nut and lock washer.
 
@@ -17335,7 +15917,6 @@ The timing gears assembled into the timing chain with the two marks on the gears
 
 
 ### Refitting
-`mini_cooper_1976_en_9da7e88c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:372 | doc_type:owners_manual
 
 () Place the crankshaft gear packing shims in position and turn the shaft to bring the key to the top. (7) Bring the camshaft keyway to the position shown in Fig. A.13 (approx. 1 o'clock). (8) Assemble the two wheels in the chain with the marks opposite each other as in Fig. A.13. Push the wheels onto the shafts, turning the camshaft slightly as required to line up the key. Push the wheels as far as they will go and secure the camshaft gear with the lock washer and nut. (9) Check the alignment of the wheels by placing a straight-edge across the teeth of the camshaft and crankshaft gears and measuring the gap between the straight-edge and the crankshaft gear. Adjust with shims behind the crankshaft gear as required.
 
@@ -17343,7 +15924,6 @@ The timing gears assembled into the timing chain with the two marks on the gears
 
 
 ### Checking
-`mini_cooper_1976_en_794ae94f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:373 | doc_type:owners_manual
 
 ( Adjust the rocker clearance of No. 1 inlet valve to б019 in. (б48 mm.), б021 in. (53 mm.) Cooper 'S, and turn the crankshaft until the valve is about to open.
 
@@ -17354,7 +15934,6 @@ A.12
 
 
 ### Removing
-`mini_cooper_1976_en_d233920e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:374 | doc_type:owners_manual
 
 ( Remove the engine (Section A.13).   
 (2) Remove the flywheel and clutch assembly (Section A.11).   
@@ -17376,7 +15955,6 @@ The Service tool 18G 1043 positioned over the clutch splines of the crankshaft p
 
 
 ### Reftting
-`mini_cooper_1976_en_90c0072f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:375 | doc_type:owners_manual
 
 ( Check the primary gear running clearance (Fig. A.16). Fit the inner thrust washer with its chamfered bore against the crankshaft flange.   
 (7) Renew the crankshaft primary gear oil seal if it shows signs of damage or oil leakage, using Service tool 18G 134 and adaptor 18G 134 BC. This seal can also be renewed without removing the housing or draining the engine/transmission unit (see Section A.30).   
@@ -17391,7 +15969,6 @@ Later engines were fitted with non-lubricated bushes in the primary gear. No oil
 
 
 ### Primary gear bushes
-`mini_cooper_1976_en_c5ea87c0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:376 | doc_type:owners_manual
 
 If new bushes are fitted, line-ream them to the dimensions given in Fig. A.18.
 
@@ -17425,13 +16002,11 @@ A section through the crankshaft primary gear. The bushes (A) must be line-reame
 
 
 ### Refitting
-`mini_cooper_1976_en_0ddd12e2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:377 | doc_type:owners_manual
 
 (4) Reverse the removal instructions, driving the race into position with Service tool 18G 617 A.
 
 
 ### Removing
-`mini_cooper_1976_en_612a1431` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:378 | doc_type:owners_manual
 
 (1) Remove the engine from the car (Section A.13).   
 (2) Remove the flywheel and clutch (Section A.11), and the fywheel housing (Section A.18).   
@@ -17440,7 +16015,6 @@ A section through the crankshaft primary gear. The bushes (A) must be line-reame
 
 
 ### Refitting
-`mini_cooper_1976_en_0395e981` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:379 | doc_type:owners_manual
 
 Reverse the removing instructions.
 
@@ -17448,7 +16022,6 @@ NOTE.—It is important to insert the short transmission housing to crankcase sc
 
 
 ### OIL PRESSURE
-`mini_cooper_1976_en_e2c879d2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:380 | doc_type:owners_manual
 
 The differential pressure switch fitted to the oil filter head on later models gives an indication when an oil change is required. If the warning light in the instrument A.14
 
@@ -17464,7 +16037,6 @@ If the oil pressure falls appreciably, check:
 
 
 ### OIL PRESSURE RELIEF VALVE
-`mini_cooper_1976_en_c1027bc9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:381 | doc_type:owners_manual
 
 To examine, unscrew the hexagonal domed nut and remove the folded copper washer, the valve and the spring. Check the length of the spring against the dimension given in 'GENERAL DATл'.
 
@@ -17472,7 +16044,6 @@ If the valve cup is worn reseat it using metal polish with Service tool 18G 69.
 
 
 ### Removing
-`mini_cooper_1976_en_aaa0c6ee` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:382 | doc_type:owners_manual
 
 (1) Remove the engine as detailed in Section A.13.   
 (2) Remove the flywheel and clutch assembly and the flywheel housing as detailed in Sections A.11 and A.18.   
@@ -17490,7 +16061,6 @@ Hobourn-Eaton Concentric Pumps Ltd. 1. Body. Pump (serviced as an assembly Shaft
 
 
 ### Dismantling and reassembling (Hobourn-Eaton)
-`mini_cooper_1976_en_b45a9004` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:383 | doc_type:owners_manual
 
 (4) The pump cover is located on the pump body by two dowels and a machine screw. When the screw is removed the pump can be separated for examination and replacement where necessary.   
 (5) Install the rotors in the pump body.   
@@ -17501,7 +16071,6 @@ Hobourn-Eaton Concentric Pumps Ltd. 1. Body. Pump (serviced as an assembly Shaft
 
 
 ### Refitting
-`mini_cooper_1976_en_62a059fe` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:384 | doc_type:owners_manual
 
 The refitting of the pump to the cylinder block is a reversal of the removal procedure; ensure that the intake and delivery ports are not obstructed when fitting a new paper joint washer.
 
@@ -17509,7 +16078,6 @@ MINI. Issue 3. 26562
 
 
 ### Removing
-`mini_cooper_1976_en_777cd987` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:385 | doc_type:owners_manual
 
 (Remove the engine (Section A.13), the rocker shaft assembly (Section A.5), the push-rods and tappets (Section A.9), and the distributor (Section A.10).   
 (2) Unscrew the camshaft locating plate and withdraw the camshaft.   
@@ -17517,31 +16085,26 @@ MINI. Issue 3. 26562
 
 
 ### Front liner
-`mini_cooper_1976_en_2835e622` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:386 | doc_type:owners_manual
 
 Extract worn liners and fit new with Service tool 18G 124 A and adaptor 18G 124 K. Line ream the new liners with Service tools 18G 123 A, 18G 123 AH, 18G 123 AJ.
 
 
 ### Front and rear liners
-`mini_cooper_1976_en_c0f18dc9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:387 | doc_type:owners_manual
 
 Extract worn liners and fit new using Service tools 18G 124 A with adaptor 18G 124 K for the front liner, and adaptor 18G 124 M for the rear liner. Line ream the new liners with Service tools 18G 123 A, 18G 123 BA, 18G 123 AP, 18G 123 AT, 18G 123 AN, and 18G 123 AQ.
 
 
 ### Centre liner
-`mini_cooper_1976_en_b9563493` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:388 | doc_type:owners_manual
 
 Use Service tool 18G 124 A with adaptors 18G 124 K and 18G 124 B to extract the worn liner and fit a new one. Line ream the new liner, using Service tools 18G 123 A, 18G 123 BB, 18G 123 B, and 18G 123 BC.
 
 
 ### Reftting
-`mini_cooper_1976_en_5fcc9102` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:389 | doc_type:owners_manual
 
 Reverse the dismantling and removing instructions.
 
 
 ### PISTONS AND CONNECTING RODS
-`mini_cooper_1976_en_fa0e19f1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:390 | doc_type:owners_manual
 
 Pistons and bores are stamped with a number in a diamond and the number on the piston must be the same as that on the bore to which it is fitted.
 
@@ -17549,21 +16112,18 @@ Oversize pistons are marked on the crown with the oversize; this is the boring d
 
 
 ### Removing
-`mini_cooper_1976_en_d422e7f0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:391 | doc_type:owners_manual
 
 (1) Remove the engine (Section A.13), the fywheel and clutch (Section A.11), the fywheel housing (Section A.18), the transmission (Section A.19), and the cylinder head (Section A.6).   
 (2) Unlock and unscrew the big-end bolts; remove the bearing caps and push the connecting rod assemblies upwards through the bores.
 
 
 ### Dismantling
-`mini_cooper_1976_en_753e997e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:392 | doc_type:owners_manual
 
 (3) Lift the rings out of their grooves and slide them off the piston. Always remove and refit rings over the top of the piston.   
 (4 Hold the gudgeon pin in a vice between two plugs and unscrew the clamp bolt. Push out the gudgeon pin.
 
 
 ### Reassembling
-`mini_cooper_1976_en_4e7e039a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:393 | doc_type:owners_manual
 
 (5) With the piston and gudgeon pin cold, the pin must be thumb push-fit for three-quarters of its travel and finally be tapped in with a hide mallet. Tighten the clamp bolt to the recommended torque (see 'GENERAL DATA').   
 (6) Use new locking plates and tighten the connecting rod bolts to the recommended torque (see 'GENERAL DATA). NOTE.—The second and third rings are tapered and the upper sides are marked 'T.
@@ -17573,7 +16133,6 @@ Fig. A.21 The piston markings
 
 
 ### COOPER
-`mini_cooper_1976_en_e3e5f11b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:394 | doc_type:owners_manual
 
 (998-c.c. engine)
 
@@ -17581,7 +16140,6 @@ The gudgeon pins are full floating with a bush in the small end of the connectin
 
 
 ### Cooper 'S
-`mini_cooper_1976_en_69c3f394` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:395 | doc_type:owners_manual
 
 The gudgeon pin is a press fit in the small end of the connecting rod, and the bearing surfaces for the pin are in the piston bosses. The interference fit of the pin in the small end is the only method used to retain the gudgeon pin in its correct relative position. It is essential that the specified interference fit is maintained (see 'GENERAL DATA').
 
@@ -17589,13 +16147,11 @@ Service tool 18G 1002 must be used to remove and replace the gudgeon pin and gre
 
 
 ### Refitting
-`mini_cooper_1976_en_256d0536` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:396 | doc_type:owners_manual
 
 Reverse the removal instructions, items (1) and (2).
 
 
 ### Cylinder liners
-`mini_cooper_1976_en_c0fabdfa` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:397 | doc_type:owners_manual
 
 Dry liners may be fitted and machining dimensions are given below.
 
@@ -17615,7 +16171,6 @@ Illustration application
 
 
 ### Removing
-`mini_cooper_1976_en_e49dfdcb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:398 | doc_type:owners_manual
 
 ( Carry out the operations described in Section A.24, items (1) and (2), and remove the timing cover (Section A.16).   
 ( Check the crankshaft end-float.   
@@ -17636,37 +16191,31 @@ countersinks are machined to their original dimensions.
 
 
 ### Refitting
-`mini_cooper_1976_en_0c9a2ebf` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:399 | doc_type:owners_manual
 
 Reverse the removal instructions.
 
 
 ### (When fitted)
-`mini_cooper_1976_en_5e0c64c2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:400 | doc_type:owners_manual
 
 Fresh air enters the engine through two holes and a filter in the filler cap on the rocker cover. The air then passes to the crankcase down the push-rod drillings. The crankcase fumes leave the engine through a breather outlet pipe on the front engine side cover. Oil droplets and mist are trapped in an oil separator before the fumes pass through a breather control valve and to the intake manifold, thus providing closed-circuit crankcase breathing.
 
 
 ### Testing
-`mini_cooper_1976_en_0869a84d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:401 | doc_type:owners_manual
 
 With the engine at normal running temperature, run it at idling speed. Remove the oil filler cap. If the valve is functioning correctly the engine speed will increase by approximately 200 r.p.m. as the cap is removed, the change in speed being audibly noticeable. If no change in speed occurs, service the valve as follows.
 
 
 ### Servicing
-`mini_cooper_1976_en_6859a85f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:402 | doc_type:owners_manual
 
 The crankcase breather unit should be serviced at the periods recommended in the Driver's Handbook or the Passport to Service.
 
 
 ### Oil filler cap
-`mini_cooper_1976_en_0af249fe` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:403 | doc_type:owners_manual
 
 (1) Remove the combined oil filler cap and breather filter and fit a replacement at the recommended servicing period.
 
 
 ### Breather control valve
-`mini_cooper_1976_en_f6bcd59d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:404 | doc_type:owners_manual
 
 (2) Remove the retaining clip (1) and dismantle the valve.   
 () Clean all metal parts with solvent (trichlorethylene, fuel, etc.). If deposits are difficult to remove, immerse in boiling water before applying the solvent. Do not use an abrasive.   
@@ -17678,7 +16227,6 @@ the cruciform guides) is serviced as an assembly.
 
 
 ### Removing
-`mini_cooper_1976_en_af6dd532` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:405 | doc_type:owners_manual
 
 (1) Remove the engine as in Section A.13.   
 ( Remove the clutch cover.   
@@ -17721,7 +16269,6 @@ A section through the flywheel and diaphragm clutch assembly
 
 
 ### Inspecting
-`mini_cooper_1976_en_0c346acc` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:406 | doc_type:owners_manual
 
 (12) Inspect the cover for elongation of the driving pin holes.   
 (13) Inspect the driving pins for ridging and wear; fit three new pins if any are worn.   
@@ -17729,7 +16276,6 @@ A section through the flywheel and diaphragm clutch assembly
 
 
 ### Refitting
-`mini_cooper_1976_en_a91ea70c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:407 | doc_type:owners_manual
 
 (15) If the driving straps have been removed from the fywheel ensure that the spacing washers are fitted between the straps and the flywheel face.   
 (16) Refer to instruction (6).   
@@ -17739,7 +16285,6 @@ A section through the flywheel and diaphragm clutch assembly
 
 
 ### (Cooper 'S')
-`mini_cooper_1976_en_47eb282b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:408 | doc_type:owners_manual
 
 (1) Remove the front grille, taking care not to lose the spacers used for each securing screw.   
 (2) Hold each union on the cooler from turning and disconnect both hoses from the cooler unit.   
@@ -17756,7 +16301,6 @@ filler head and the crankcase whilst releasing the hoses. (4Remove the cooler un
 
 
 ### Reftting
-`mini_cooper_1976_en_a7478366` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:409 | doc_type:owners_manual
 
 (Refit the cooler unit and tighten the securing screws.   
 (6)Connect each hose to its respective position on the oil cooler. If replacement hoses are fitted connect the hose with the angled connection to the oil cooler with its other end connected to the filter head. Ensure that the hoses are not under stress from twist—hold each union with a spanner whilst tightening the hose connections.   
@@ -17766,7 +16310,6 @@ filler head and the crankcase whilst releasing the hoses. (4Remove the cooler un
 
 
 ### Removing
-`mini_cooper_1976_en_e854a944` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:410 | doc_type:owners_manual
 
 ( Remove the engine as in Section A.13.   
 (2) Remove the fywheel and clutch, Section A.11 (coil spring type) or Section A.28 (diaphragm spring type).   
@@ -17778,7 +16321,6 @@ of the tool into the groove on the gear and unscrew the winged nut anti-clockwis
 
 
 ### Reftting
-`mini_cooper_1976_en_d5138c7a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:411 | doc_type:owners_manual
 
 (6) Liberally lubricate the new oil seal, and using protector sleeve Service tool 18G 1043 over the primary gear, it the oil seal onto the gear.   
 (7) Ensure that the primary gear thrust washer is correctly positioned on the crankshaft shoulder and fit the primary gear onto the crankshaft making sure that the gear teeth are starting to engage with the idler gear.   
@@ -17789,7 +16331,6 @@ of the tool into the groove on the gear and unscrew the winged nut anti-clockwis
 
 
 ### FLYWHEEL RETAINING SCREW THREAD
-`mini_cooper_1976_en_5a64585d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:412 | doc_type:owners_manual
 
 The flywheel retaining screw thread in the end of the crankshaft is not Standard Whitworth but is Whitworth form:
 
@@ -17799,7 +16340,6 @@ If it is found necessary to clean up the thread, the operation must be confined 
 
 
 ### GEAR CHANGE REMOTE CONTROL ASSEMBLY Removing
-`mini_cooper_1976_en_09319a94` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:413 | doc_type:owners_manual
 
 (1) Remove the front floor covering, the gear lever knob, and the rubber gaiter.   
 () From beneath the car, remove the securing screws and nuts from the extension rear support bracket (see Fig. A.12).   
@@ -17807,7 +16347,6 @@ If it is found necessary to clean up the thread, the operation must be confined 
 
 
 ### Dismantling
-`mini_cooper_1976_en_7280c397` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:414 | doc_type:owners_manual
 
 (4) Remove the rubber dust cover, and slacken the lever locating pin.   
 (5) Remove the screws securing the change speed lever retainer and withdraw the lever, retainer, and spring.   
@@ -17816,25 +16355,21 @@ If it is found necessary to clean up the thread, the operation must be confined 
 
 
 ### Inspection
-`mini_cooper_1976_en_a44a46a3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:415 | doc_type:owners_manual
 
 Clean and examine all components for wear, and fit new parts as required.
 
 
 ### Reassembling
-`mini_cooper_1976_en_e582bd56` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:416 | doc_type:owners_manual
 
 (8 Reassemble all components in the reverse order of dismantling. Lubricate the operating surfaces of all components with grease.
 
 
 ### Refitting
-`mini_cooper_1976_en_af83b356` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:417 | doc_type:owners_manual
 
 ( Reverse the removing procedure, ensuring that the rubber plug is correctly located between the extension and the transmission casing.
 
 
 ### GEAR CHANGE REMOTE CONTROL COMPONENTS
-`mini_cooper_1976_en_56ff3f54` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:418 | doc_type:owners_manual
 
 ![](images/74c3b9b4157813cf80431f9f95f1e55a51ce1baa5086d544bb6405f76df1e318.webp)
 
@@ -17844,7 +16379,6 @@ No.
 
 
 ### Description
-`mini_cooper_1976_en_7887e0f5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:419 | doc_type:owners_manual
 
 1г Housing.   
 Securing screw—short.   
@@ -17872,7 +16406,6 @@ Gaiter—change speed lever.
 
 
 ### THE ENGINE
-`mini_cooper_1976_en_af331622` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:420 | doc_type:owners_manual
 
 The information given in this Section refers specificall to engines fitted with automatic transmission and must be used in conjunction with Section A
 
@@ -17897,14 +16430,12 @@ Valve timing .. . Aa.7
 
 
 ### Engine/transmission oil level
-`mini_cooper_1976_en_7e727655` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:421 | doc_type:owners_manual
 
 (1) Start the engine and run for 1-2 minutes. Switch off the ignition and wait for I minute.   
 (2) Check the oil level with the dipstick and top up if necessary with the recommended oil to the 'MAX' mark on the dipstick.
 
 
 ### Changing the engine/transmission oil
-`mini_cooper_1976_en_d4f69b3a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:422 | doc_type:owners_manual
 
 The oil should be drained at the periods recommended in the Driver's Handbook and whilst it is warm and fuid.
 
@@ -17914,7 +16445,6 @@ The oil should be drained at the periods recommended in the Driver's Handbook an
 
 
 ### Removing
-`mini_cooper_1976_en_c29a7e54` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:423 | doc_type:owners_manual
 
 ( Remove the front grille.   
 (2) Place a suitable container beneath the oil filter.   
@@ -17922,14 +16452,12 @@ The oil should be drained at the periods recommended in the Driver's Handbook an
 
 
 ### Cleaning
-`mini_cooper_1976_en_4f7332e0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:424 | doc_type:owners_manual
 
 (4 Thoroughly clean the flter bowl with petrol (fuel) and dry off.   
 (5) Wipe the filter head clean and fit a new sealing ring in the filter head recess.
 
 
 ### Refitting
-`mini_cooper_1976_en_a9d9256c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:interior | p:425 | doc_type:owners_manual
 
 (6Reassemble the filter bowl with a new element and the internal components fitted in the order shown in Fig. Aa.1. Ensure that the internal seating washer is in good condition and a snug fit on the retaining bolt.   
 (7) Refit the filter bowl assembly and tighten the central retaining bolt to the torque figure given in GENERAL DATA'.   
@@ -17944,7 +16472,6 @@ Fig. Aa.1
 
 
 ### The enginelautomatic transmission oil filter. (Inset) the filter components
-`mini_cooper_1976_en_4f429610` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:426 | doc_type:owners_manual
 
 Filter element. 6.Spring.   
 2. Circlip. 7Sealing washer.   
@@ -17954,7 +16481,6 @@ Centre bolt. 1 Oil pressure check plug.
 
 
 ### Removing
-`mini_cooper_1976_en_64b6e576` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:427 | doc_type:owners_manual
 
 (11) Release the distributor cap.   
 (12) Unscrew the filter head retaining bolts and remove the assembly.
@@ -17973,7 +16499,6 @@ The main components to be disconnected or removed from below the car before remo
 
 
 ### Refitting
-`mini_cooper_1976_en_fb5f16d6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:428 | doc_type:owners_manual
 
 (13) Reverse the removal instructions, fitting a new joint washer and seals (if fitted). Tighten the securing bolts to the torque figure in 'GENERAL DATA.'   
 (14) Carry out items (8) and (9).   
@@ -17981,7 +16506,6 @@ MINI. Issue 2. 16208
 
 
 ### Removing
-`mini_cooper_1976_en_e3d3cb84` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:429 | doc_type:owners_manual
 
 () Disconnect the battery earth cable and remove the bonnet.
 
@@ -18036,7 +16560,6 @@ Using Service tool 18G 1088 to hold the converter output gear when removing the 
 
 
 ### Refitting
-`mini_cooper_1976_en_38889d99` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:430 | doc_type:owners_manual
 
 (19) Reverse the removal instructions with particular attention to the following points.   
 (20) Lower the engine/transmission unit to a position where the drive shafts can engage the driving flange studs and screw the securing nuts on approximately four threads. Lower the unit completely into the car.   
@@ -18045,7 +16568,6 @@ Using Service tool 18G 1088 to hold the converter output gear when removing the 
 
 
 ### TRANSMISSION UNIT
-`mini_cooper_1976_en_52a4156b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:431 | doc_type:owners_manual
 
 ( Remove the engine and transmission (see Section Aa.3).
 
@@ -18087,7 +16609,6 @@ Replacing the converter output gear oil seal. Pressing the seal in, using Servic
 
 
 ### Inspecting
-`mini_cooper_1976_en_d671afc8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:432 | doc_type:owners_manual
 
 Ensure that the oil rings fitted to the main oil pipe, oil filter, transmission to engine oil feed pipe, and the main oil strainer pipe are in perfect condition. All joint faces must be free from burrs and new joint washers should be used.
 
@@ -18097,7 +16618,6 @@ Check the main oil seals and renew if necessary. If it is necessary to renew the
 
 
 ### Reftting
-`mini_cooper_1976_en_56f06f6c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:433 | doc_type:owners_manual
 
 (16) Immerse the front main bearing cap moulded rubber oil seal in oil and fit with the lip facing the rear of the engine.   
 (17) Fit the rubber sealing ring on to the main oil strainer pipe and it new gaskets to the transmission case.   
@@ -18132,7 +16652,6 @@ NOTE.—Two types of input gears have been used, those fitted to earlier units h
 
 
 ### Idler and input gear adjustment (Early Models)
-`mini_cooper_1976_en_2690ec2d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:434 | doc_type:owners_manual
 
 (23) Assemble the idler gear to the transmission with a nominal washer (from the range fitted), on the
 
@@ -18152,7 +16671,6 @@ Using Service tools 18G 191 and 18G 191 A, with the dial test indicator set at z
 
 
 ### Input gear thrust washers
-`mini_cooper_1976_en_bb5b8cf8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:435 | doc_type:owners_manual
 
 tool 18G 1089 plus its dental wax washer. Add 001 to б003 in. (025 to б076 mm.) to this figure to give the total thickness of the thrust washers to be fitted to provide the required 'nip' on the input gear bearing.
 
@@ -18174,7 +16692,6 @@ Idler gear thrust washers б132 to б133 in. (3б35 to 3б37 mm.) б134 to б135
 
 
 ### Idler and input gear adjustment (Later Models)
-`mini_cooper_1976_en_7f1aa5a7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:436 | doc_type:owners_manual
 
 (30) Carry out item (23).
 
@@ -18207,7 +16724,6 @@ Input gear adjustment shims -003 in. (076 mm.). б012 in. (б305 mm.).
 
 
 ### Idler gear thrust washers
-`mini_cooper_1976_en_b91b1f1e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:437 | doc_type:owners_manual
 
 б132 to б133 ЙО.(3б35 to 3б37 mm.) б134 to б135 in. (3б40 to 3б42 mm.) б136 to б137 in. (3б45 to 3б47 mm.) •138 to б139 in. (3-50 to 3-53 mm.)
 
@@ -18215,7 +16731,6 @@ Input gear adjustment shims -003 in. (076 mm.). б012 in. (б305 mm.).
 
 
 ### Refitting
-`mini_cooper_1976_en_301914ad` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:438 | doc_type:owners_manual
 
 (39) Refit and align the converter outlet pipe.
 
@@ -18233,7 +16748,6 @@ verter centre at one time.
 
 
 ### Removing
-`mini_cooper_1976_en_932632bf` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:439 | doc_type:owners_manual
 
 (1 Slacken the exhaust pipe to manifold clamp.
 
@@ -18246,7 +16760,6 @@ The converter output (1), idler (2), and input gear (3) with their respective th
 
 
 ### Reftting
-`mini_cooper_1976_en_bb0215dd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:440 | doc_type:owners_manual
 
 (3) Refit the exhaust system to the car with the intermediate and rear support clips loose to allow articulation at the manifold spherical fange.   
 (4) Align the pipe flange with the manifold, refit and tighten the manifold clamp.   
@@ -18254,13 +16767,11 @@ The converter output (1), idler (2), and input gear (3) with their respective th
 
 
 ### Removing
-`mini_cooper_1976_en_0ac48ee8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:441 | doc_type:owners_manual
 
 (1) Remove the distributor and driving spindle as detailed in Section A.10.
 
 
 ### Refitting
-`mini_cooper_1976_en_16c6a6ec` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:442 | doc_type:owners_manual
 
 (2) Refitting is described in Section A.10 with the following exceptions.   
 (3) To rotate the crankshaft, insert a screwdriver through the aperture (adjacent the oil dipstick) on the converter housing, and turn the converter starter ring gear to the position described in Section A.10.   
@@ -18268,14 +16779,12 @@ The converter output (1), idler (2), and input gear (3) with their respective th
 
 
 ### VALVE TIMING
-`mini_cooper_1976_en_19fd8924` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:443 | doc_type:owners_manual
 
 (1) Follow the instructions given in Section A.17 with the following exceptions.   
 ( Rotate the crankshaft as described in Section Aa.6 until the 5° B.T.D.C. timing mark on the converter is opposite the pointer on the converter cover.
 
 
 ### Removing
-`mini_cooper_1976_en_be717cec` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:444 | doc_type:owners_manual
 
 () Remove the engine and transmission as detailed in Section Aa.3.   
 (2) Remove the converter and converter housing as detailed in Section Aa.4, items (3) to (12).   
@@ -18283,13 +16792,11 @@ The converter output (1), idler (2), and input gear (3) with their respective th
 
 
 ### Dismantling and reassembling
-`mini_cooper_1976_en_7d1322ee` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:445 | doc_type:owners_manual
 
 (4) Follow the instructions given in Section A.22 for the Hobourn-Eaton pump.
 
 
 ### Refitting
-`mini_cooper_1976_en_aed5df3b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:446 | doc_type:owners_manual
 
 (5) Reverse the removal instructions fitting new joint washers as required.
 
@@ -18302,13 +16809,11 @@ The oil pump components. A indicates the lobe positions for checking clearances
 
 
 ### CAMSHAFT
-`mini_cooper_1976_en_c5b0f494` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:447 | doc_type:owners_manual
 
 NOTE.—Extreme care is necessary when removing the camshaft. The oil pump drive coupling may stick by oil adhesion to the camshaft and possibly fall into the transmission unit. Ensure therefore when refitting the camshaft that this drive coupling is fully located on the splined oil pump spindle.
 
 
 ### Removing
-`mini_cooper_1976_en_5f55703b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:448 | doc_type:owners_manual
 
 (1) Follow the instructions given in Section A.23 with the following exceptions.   
 (2) Remove the engine and transmission as detailed in Section Aa.3.   
@@ -18317,13 +16822,11 @@ NOTE.—Extreme care is necessary when removing the camshaft. The oil pump drive
 
 
 ### Refitting
-`mini_cooper_1976_en_9fb352c0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:449 | doc_type:owners_manual
 
 (5) Refitting is a reversal of the removal procedure given in Section A.23.
 
 
 ### Removing
-`mini_cooper_1976_en_9b88458f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:450 | doc_type:owners_manual
 
 (1) Follow the instructions given in Section A.24 with the following exceptions.   
 (2) Remove the engine and transmission unit as detailed in Section Aa.3.
@@ -18334,13 +16837,11 @@ MINI. Issue 3. 20189
 
 
 ### Refitting
-`mini_cooper_1976_en_c5429713` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:451 | doc_type:owners_manual
 
 (4) Refitting is a reversal of the removing procedure (see Sections A.24 and Aa.3-4).
 
 
 ### Removing
-`mini_cooper_1976_en_994c9fc4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:452 | doc_type:owners_manual
 
 (1) Follow the instructions given in Section A.25 with the following exceptions.   
 (2) Remove the engine and transmission unit as detailed in Section Aa.3.   
@@ -18348,14 +16849,12 @@ MINI. Issue 3. 20189
 
 
 ### Refitting
-`mini_cooper_1976_en_c5f538ca` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:453 | doc_type:owners_manual
 
 (4) Follow the refitting instructions for installation of the crankshaft and bearings given in Section A.25   
 ( Carry out the inspection and refitting of the transmission unit as detailed in Section Aa.4.
 
 
 ### Removing
-`mini_cooper_1976_en_df95e8bc` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:454 | doc_type:owners_manual
 
 Left-hand mounting
 
@@ -18363,7 +16862,6 @@ Left-hand mounting
 
 
 ### Right-hand mounting
-`mini_cooper_1976_en_f8f6af8b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:455 | doc_type:owners_manual
 
 () Disconnect the battery earth cable.   
 (3) Disconnect the electrical connections from the starter solenoid and remove it from the wing valance.   
@@ -18374,13 +16872,11 @@ Left-hand mounting
 
 
 ### Refitting
-`mini_cooper_1976_en_9a147809` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:456 | doc_type:owners_manual
 
 (8 Refitting is a reversal of the removal procedure. MINI. Issue 2. 16208
 
 
 ### Removing
-`mini_cooper_1976_en_479916a5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:457 | doc_type:owners_manual
 
 () Remove the engine and transmission as detailed in Section Aa.3. (2) Carry out the removing instructions as detailed in Section Aa.4, items (3) to (11) and (13).
 
@@ -18390,13 +16886,11 @@ Left-hand mounting
 
 
 ### Refitting
-`mini_cooper_1976_en_d5a2207c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:458 | doc_type:owners_manual
 
 (4 Refitting is a reversal of the removal procedure.
 
 
 ### CYLINDER LINERS
-`mini_cooper_1976_en_4dec5af1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:459 | doc_type:owners_manual
 
 Follow the instructions in Section A.24 with the following exceptions.
 
@@ -18405,7 +16899,6 @@ Follow the instructions in Section A.24 with the following exceptions.
 
 
 ### Removing
-`mini_cooper_1976_en_68cca632` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:460 | doc_type:owners_manual
 
 (1) Remove the engine from the car as detailed in Section Aa.3. () Remove the starter motor and converter cover.
 
@@ -18424,7 +16917,6 @@ Fitting the converter output gear oil seal, using Service tool 18G 1068 with ada
 
 
 ### Refitting
-`mini_cooper_1976_en_debda6b5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:461 | doc_type:owners_manual
 
 The new seal must be fitted to the correct depth in order that the oil drain hole behind the seal remains open.
 
@@ -18443,7 +16935,6 @@ NOTE,—The converter housing face is not machined, therefore, the initial measu
 
 
 ### THE ENGINE
-`mini_cooper_1976_en_043e558f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:462 | doc_type:owners_manual
 
 The information given in this Section refers specifical to engines fitted with automatic transmission and must be used in conjunction with Section A
 
@@ -18466,7 +16957,6 @@ fValve timing .. .. Aa.7
 
 
 ### LUBRICATION
-`mini_cooper_1976_en_9f2e61ed` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:463 | doc_type:owners_manual
 
 Checking oil level
 
@@ -18477,7 +16967,6 @@ NOTE: Ensure that the vehicle is standing on a level surface. ї
 
 
 ### Draining and reflling
-`mini_cooper_1976_en_b2b5533e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:464 | doc_type:owners_manual
 
 The oil should be renewed at the periods given in the 'MAINTENANCE SUMMARY'. Drain the oil while the engine is warm, and clean the magnetic drain plug using lint-free cloth.
 
@@ -18489,7 +16978,6 @@ The oil should be renewed at the periods given in the 'MAINTENANCE SUMMARY'. Dra
 
 
 ### Removing
-`mini_cooper_1976_en_bcb19b1f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:465 | doc_type:owners_manual
 
 (1) All models except 'Clubman'. Remove the front grille (16 screws). On 'Clubman' models suffi cient clearance exists for filter bowl removal.   
 (2) Place a suitable container beneath the oil filter.   
@@ -18497,14 +16985,12 @@ The oil should be renewed at the periods given in the 'MAINTENANCE SUMMARY'. Dra
 
 
 ### Cleaning
-`mini_cooper_1976_en_9be3604a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:466 | doc_type:owners_manual
 
 (4) Thoroughly clean the fiter bowl with petrol (fuel) and dry off.   
 (Wipe the filter head clean and fit a new sealing ring in the filter head recess.
 
 
 ### Refitting
-`mini_cooper_1976_en_b87d11fb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:467 | doc_type:owners_manual
 
 (6Reassemble the filter bowl with a new element and the internal components fitted in the order shown in Fig. Aa.1. Ensure that the internal sealing washer is in good condition and a snug fit on the retaining bolt.
 
@@ -18526,7 +17012,6 @@ Centre bolt. 1 Oil pressure check plug.
 
 
 ### Removing
-`mini_cooper_1976_en_51433178` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:468 | doc_type:owners_manual
 
 (11) Release the distributor cap.
 
@@ -18539,7 +17024,6 @@ NOTE-—The oil filter head to front cover joint washer (with copper inserts) fi
 
 
 ### Refitting
-`mini_cooper_1976_en_11235668` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:469 | doc_type:owners_manual
 
 (13) Reverse the removal instructions, fitting a new joint washer and seals (if fitted). Tighten the securing bolts to the torque figure in 'GENERAL DATA.   
 (14) Carry out items (8) and (9).
@@ -18554,7 +17038,6 @@ Carburetter. Engine tie-rod. Exhaust pipe clamp.
 
 
 ### Removing
-`mini_cooper_1976_en_5cd48d3f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:470 | doc_type:owners_manual
 
 (1) Disconnect the battery earth cable.   
 (2) Mark the fitted position of the bonnet to its hinges and remove the bonnet.   
@@ -18610,7 +17093,6 @@ Removing the converter centre bolt, using Service tool 18G 587. A suitable screw
 
 
 ### Refitting
-`mini_cooper_1976_en_61483c93` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:471 | doc_type:owners_manual
 
 (21) Reverse the removal instructions with particular attention to the following points.   
 (22) Lower the engine/transmission unit to a position where the drive shafts can engage the driving flange studs and screw the securing nuts on approximately four threads. Lower the unit completely into the car.   
@@ -18620,7 +17102,6 @@ Removing the converter centre bolt, using Service tool 18G 587. A suitable screw
 
 
 ### Removing
-`mini_cooper_1976_en_a20ba27e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:472 | doc_type:owners_manual
 
 (1) Remove the engine and transmission (see Section Aa.3).   
 (2) Remove the radiator mounting bracket from the transmission case.   
@@ -18651,7 +17132,6 @@ Using Service tool 18G 1088 to hold the converter output gear when removing the 
 
 
 ### Inspecting
-`mini_cooper_1976_en_bc92b2e5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:473 | doc_type:owners_manual
 
 Ensure that the oil rings fitted to the main oil pipe, oil filter, transmission to engine oil feed pipe, and the main Aa.6
 
@@ -18667,7 +17147,6 @@ NOTE.—Before refitting the transmission unit, check the casing to determine wh
 
 
 ### Reftting
-`mini_cooper_1976_en_490af92b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:474 | doc_type:owners_manual
 
 (16) Immerse the front main bearing cap moulded rubber oil seal in oil and fit with the lip facing the rear of the engine.
 
@@ -18699,7 +17178,6 @@ The converter housing removed showing:
 
 
 ### Converter output gear thrust washers
-`mini_cooper_1976_en_a75ba069` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:475 | doc_type:owners_manual
 
 б112 to б114 in. (2б848 to 2б898 mm.) б114 to б116 in. (2б898 to 2б949 mm.) б116 to б118 in. (2.949 to 3.0 mm.) б118 to б120 in. (3б0 to 3б051 mm.)
 
@@ -18712,7 +17190,6 @@ NOTE.—Two types of input gears have been used, those fitted to earlier units h
 
 
 ### Idler and input gear adjustment (Early Models)
-`mini_cooper_1976_en_080742fb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:476 | doc_type:owners_manual
 
 (24) Assemble the idler gear to the transmission with a nominal washer (from the range fitted), on the transmission side of the idler gear. Assemble Service tool 18G 1089 with a dental wax washer interposed on to the converter housing side of the idler gear. To cut the holes in the wax strip, place the larger washers of 18G 1089 one on either side of the wax, opposite each other, and press together.
 
@@ -18738,7 +17215,6 @@ The idler and input gears fitted with the Service tool 18G 1089 (two sets of spe
 
 
 ### Idler gear thrust washers
-`mini_cooper_1976_en_ffec3aba` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:477 | doc_type:owners_manual
 
 б130 to б131 in. (3.30 to 3б32 mm.) б132 to 133 in. (3б35 to 3б37 mm.) б134 to б135 in. (3б40 to 3б42 mm.) б136 to б137 in. (3-45 to 3б47 mm.) б138 to 139 in. (3б50 to 3.53 mm.)
 
@@ -18760,7 +17236,6 @@ Fig. Aa.17
 
 
 ### Input gear thrust washers
-`mini_cooper_1976_en_45194538` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:478 | doc_type:owners_manual
 
 б128 to б130 in. (3б25 to 3б30 mm.) б132 to б134 in. (3б35 to 3б40 mm.) б140 to б142 in. (3б55 to 3.61 mm.) б148 to б150 in. (3б76 to 3-81 mm.) б152 to б154 in. (3б86 to 3.91 mm.)
 
@@ -18768,7 +17243,6 @@ Fig. Aa.17
 
 
 ### Idler and input gear adjustment (Later Models)
-`mini_cooper_1976_en_3628e23b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:479 | doc_type:owners_manual
 
 (31) Carry out item (24).   
 (32) Place the input gear on a surface plate or onto Service tool 18G 191 A and use a dial test indicator gauge, Service tool 18G 191, to take a mean reading. Set the dial gauge to zero as shown in Fig. Aa.16.   
@@ -18784,7 +17258,6 @@ MINI. Issue 4. 83494
 
 
 ### Input gear adjustment shims
-`mini_cooper_1976_en_d069c1a7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:480 | doc_type:owners_manual
 
 б003 in. (б076 mm.) б012 in. (б305 mm.)
 
@@ -18792,7 +17265,6 @@ MINI. Issue 4. 83494
 
 
 ### Idler gear thrust washers
-`mini_cooper_1976_en_050f1cab` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:481 | doc_type:owners_manual
 
 б132 to б133 in. (3б35 to 3б37 mm.) б134 to б135 in. (3б40 to 3.42 mm.) б136 to б137 in. (3б45 to 3б47 mm.) б138 to б139 in. (3б50 to 3-53 mm.)
 
@@ -18804,7 +17276,6 @@ MINI. Issue 4. 83494
 
 
 ### Refitting
-`mini_cooper_1976_en_a190fd17` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:482 | doc_type:owners_manual
 
 (40Refit and align the converter outlet pipe.
 
@@ -18831,13 +17302,11 @@ The converter output (1), idler (2), and input gear (3) with their respective th
 
 
 ### Removing
-`mini_cooper_1976_en_209239da` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:483 | doc_type:owners_manual
 
 (1) Slacken the exhaust pipe to manifold clamp. (2) Release the pipe from the bracket on the final drive casing (Fig. Aa.3) and from the two locations on the rear sub-frame.
 
 
 ### Refitting
-`mini_cooper_1976_en_9cee5a0d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:484 | doc_type:owners_manual
 
 (3) Refit the exhaust system to the car with the intermediate and rear support clips loose to allow articulation at the manifold spherical flange.   
 (4) Align the pipe flange with the manifold, refit and tighten the manifold clamp.   
@@ -18845,7 +17314,6 @@ The converter output (1), idler (2), and input gear (3) with their respective th
 
 
 ### Reftting
-`mini_cooper_1976_en_5e35ebd2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:486 | doc_type:owners_manual
 
 (2) Refitting is described in Section A.10 with the following exceptions.
 
@@ -18854,14 +17322,12 @@ The converter output (1), idler (2), and input gear (3) with their respective th
 
 
 ### VALVE TIMING
-`mini_cooper_1976_en_c3e01126` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:487 | doc_type:owners_manual
 
 (1) Follow the instructions given in Section A.17 with the following exceptions.   
 (2) Rotate the crankshaft as described in Section Aa.6 until the 5° B.T.D.C. timing mark on the converter is opposite the pointer on the converter cover.
 
 
 ### Removing
-`mini_cooper_1976_en_f23bc71f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:488 | doc_type:owners_manual
 
 (1) Remove the engine and transmission as detailed in Section Aa.3.   
 (2) Remove the converter and converter housing as detailed in Section Aa.4, items (3) to (12).   
@@ -18869,7 +17335,6 @@ The converter output (1), idler (2), and input gear (3) with their respective th
 
 
 ### Refitting
-`mini_cooper_1976_en_dc186a19` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:490 | doc_type:owners_manual
 
 (5) Reverse the removal instructions fitting new joint washers as required.
 
@@ -18880,13 +17345,11 @@ The oil pump components. 'A indicates the lobe positions for checking clearances
 
 
 ### CAMSHAFT
-`mini_cooper_1976_en_c6106e4c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:491 | doc_type:owners_manual
 
 NOTE.—Extreme care is necessary when removing the camshaft. The oil pump drive coupling may stick by oil adhesion to the camshaft and possibly fall into the the transmission unit. Ensure therefore when refitting the camshaft that this drive coupling is fully located on the splined oil pump spindle.
 
 
 ### Removing
-`mini_cooper_1976_en_41f1e2d0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:494 | doc_type:owners_manual
 
 (1) Follow the instructions given in Section A.24 with the following exceptions.   
 (2) Remove the engine and transmission unit as detailed in Section Aa.3.   
@@ -18894,13 +17357,11 @@ NOTE.—Extreme care is necessary when removing the camshaft. The oil pump drive
 
 
 ### Refitting
-`mini_cooper_1976_en_3868810a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:495 | doc_type:owners_manual
 
 (4) Refitting is a reversal of the removing procedure (see Sections A.24 and Aa.3–4).
 
 
 ### Removing
-`mini_cooper_1976_en_215b551d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:496 | doc_type:owners_manual
 
 (1) Follow the instructions given in Section A.25 with the following exceptions.   
 (2) Remove the engine and transmission unit as detailed in Section Aa.3.   
@@ -18908,14 +17369,12 @@ NOTE.—Extreme care is necessary when removing the camshaft. The oil pump drive
 
 
 ### Refitting
-`mini_cooper_1976_en_7351e2b1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:497 | doc_type:owners_manual
 
 (4) Follow the refitting instructions for installation of the crankshaft and bearings given in Section A.25.   
 () Carry out the inspection and refitting of the transmission unit as detailed in Section Aa.4.
 
 
 ### Right-hand mounting
-`mini_cooper_1976_en_c397c284` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:499 | doc_type:owners_manual
 
 (2) Disconnect the battery earth cable.   
 (3) Disconnect the electrical connections from the starter solenoid and remove it from the wing valance.   
@@ -18926,32 +17385,27 @@ NOTE.—Extreme care is necessary when removing the camshaft. The oil pump drive
 
 
 ### Refitting
-`mini_cooper_1976_en_96e20de3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:500 | doc_type:owners_manual
 
 (8) Refitting is a reversal of the removal procedure.
 
 
 ### Removing
-`mini_cooper_1976_en_4dff8c65` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:501 | doc_type:owners_manual
 
 (1) Remove the engine and transmission as detailed in Section Aa.3.   
 (2) Carry out the removing instructions as detailed in Section Aa.4, items (3) to (11) and (13).
 
 
 ### Adjusting
-`mini_cooper_1976_en_dc735a4f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:502 | doc_type:owners_manual
 
 (3) Carry out the instruction given in Section Aa.4, item (23).
 
 
 ### Refitting
-`mini_cooper_1976_en_0c9b6569` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:503 | doc_type:owners_manual
 
 (4) Refitting is a reversal of the removal procedure. Aa.12
 
 
 ### CYLINDER LINERS
-`mini_cooper_1976_en_1783cdbf` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:504 | doc_type:owners_manual
 
 Follow the instructions in Section A.24 with the following exceptions.
 
@@ -18960,7 +17414,6 @@ Follow the instructions in Section A.24 with the following exceptions.
 
 
 ### Removing
-`mini_cooper_1976_en_24e068be` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:505 | doc_type:owners_manual
 
 (1) Remove the engine from the car as detailed in Section Aa.3.   
 (2) Remove the starter motor and converter cover.   
@@ -18969,7 +17422,6 @@ Follow the instructions in Section A.24 with the following exceptions.
 
 
 ### Refitting
-`mini_cooper_1976_en_ef6a93ee` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:506 | doc_type:owners_manual
 
 The new seal must be fitted to the correct depth in order that the oil drain hole behind the seal remains open.
 
@@ -19005,7 +17457,6 @@ Fig. Aa.22 Fitting the converter output gear oil seal, using Service tool 18G 10
 
 
 ### Section
-`mini_cooper_1976_en_bdfc8755` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:507 | doc_type:owners_manual
 
 Capacitor B.4   
 †Distributor .. . B.1   
@@ -19016,7 +17467,6 @@ Timing .. B.2
 
 
 ### Removing
-`mini_cooper_1976_en_5ab47186` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:508 | doc_type:owners_manual
 
 (1 Turn the crankshaft until Nos. 1 and 4 pistons are at T.D.C., rotor arm is pointing to No. 1 segment in the cap and the points are just breaking.   
 () Disconnect the low-tension lead from the terminal on the side of the distributor, and the suction advance pipe from the union.   
@@ -19026,7 +17476,6 @@ Timing .. B.2
 
 
 ### Dismantling
-`mini_cooper_1976_en_05a4d602` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:509 | doc_type:owners_manual
 
 Contact breaker only
 
@@ -19037,7 +17486,6 @@ Contact breaker only
 
 
 ### Distributor amembly
-`mini_cooper_1976_en_467de5c6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:510 | doc_type:owners_manual
 
 ( Pull off the rotor arm. \*   
 ( Unscrew the nut and remove the nut and washer from the moving contact anchor pin.   
@@ -19072,7 +17520,6 @@ NOTE.—The Cooper 'S' distributor is not itted with a suction advance device; t
 
 
 ### Inspecting
-`mini_cooper_1976_en_d51a8109` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:511 | doc_type:owners_manual
 
 (17) Clean the cap and examine for cracks and signs of tracking; renew if necessary.   
 (18) Make sure that the carbon brush moves freely in the cap.   
@@ -19084,7 +17531,6 @@ NOTE.—Before fitting a new shaft bush immerse it in engine oil for 24 hours, o
 
 
 ### Reassembling
-`mini_cooper_1976_en_11ce15a9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:512 | doc_type:owners_manual
 
 (22)Reverse the dismantling procedure with the following additional work.   
 (23) Refers to items (13) and (14). Lubricate with thin engine oil.   
@@ -19096,13 +17542,11 @@ If the clamp bolt has been slackened for any reason, when refitting the distribu
 
 
 ### TIMING
-`mini_cooper_1976_en_08beaa3a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:513 | doc_type:owners_manual
 
 If the distributor has been removed, refer to Section A.10.
 
 
 ### Setting
-`mini_cooper_1976_en_5d099687` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:514 | doc_type:owners_manual
 
 (1) Remove the sparking plugs and the flywheel inspection cover. (2 Turn the manual adjuster to the central position.
 
@@ -19129,13 +17573,11 @@ The distributor clamp plate pinch-bolt and vernier scale. The lower arrow indica
 
 
 ### Checking points opening—electrical
-`mini_cooper_1976_en_ef6ce130` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:515 | doc_type:owners_manual
 
 Connect a 12-volt battery and bulb in parallel with the contact points: when the bulb lights the points have just opened.
 
 
 ### Stroboscopic check
-`mini_cooper_1976_en_3da70b01` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:516 | doc_type:owners_manual
 
 If this method is used do not run the engine fast enough to operate the centrifugal weights.
 
@@ -19143,7 +17585,6 @@ When the vacuum advance take-off is directly from the induction manifold disconn
 
 
 ### SPARKING PLUGS
-`mini_cooper_1976_en_2c54190d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:517 | doc_type:owners_manual
 
 Remove, clean, and adjust the sparking plugs at the recommended intervals and if they are suspected to be the cause of poor performance:
 
@@ -19154,7 +17595,6 @@ Remove, clean, and adjust the sparking plugs at the recommended intervals and if
 
 
 ### CAPACITOR
-`mini_cooper_1976_en_ea48e2fd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:518 | doc_type:owners_manual
 
 If the capacitor is suspected check by substitution of a new one and note the difference, if any, in the engine running.
 
@@ -19165,13 +17605,11 @@ Reset the gap, using a Champion special gap setting tool shown above
 
 
 ### THE IGNITION SYSTEM
-`mini_cooper_1976_en_2d2a8588` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:519 | doc_type:owners_manual
 
 The information in this Section refers specifically to engines fitted with automatic transmission and must be used in conjunction with Section B
 
 
 ### Section
-`mini_cooper_1976_en_bbf05f8f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:520 | doc_type:owners_manual
 
 †Timing the ignition ..
 
@@ -19181,7 +17619,6 @@ Ba.1
 
 
 ### TIMING THE IGNITION
-`mini_cooper_1976_en_44318d3b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:521 | doc_type:owners_manual
 
 (1) Follow the instructions given in Section B.2 with the following exceptions.   
 (2) To rotate the crankshaft, insert a screwdriver through the aperture (adjacent to the oil dipstick) on the converter housing, and turn the starter ring gear in the direction of engine rotation to the position described in Section B.2, item (5).   
@@ -19196,7 +17633,6 @@ C
 
 
 ### THE COOLING SYSTEM
-`mini_cooper_1976_en_3aeb1999` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:522 | doc_type:owners_manual
 
 #
 
@@ -19214,7 +17650,6 @@ The radiator drain plug or tap
 
 
 ### RADIATOR
-`mini_cooper_1976_en_2d362b50` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:523 | doc_type:owners_manual
 
 The cooling system is under considerable pressure when hot.
 
@@ -19222,38 +17657,32 @@ Take off the cap slowly, turning it anti-clockwise until you feel the tongues en
 
 
 ### Draining
-`mini_cooper_1976_en_5888950b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:524 | doc_type:owners_manual
 
 (1 Drain the system, using the taps (or plugs if fitted) at the base of the radiator and at the rear of the cylinder block.
 
 
 ### Flushing
-`mini_cooper_1976_en_27d68577` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:525 | doc_type:owners_manual
 
 () Flush the system periodically by running water through until it comes out clear. If the radiator is excessively furred up, remove it and fush through in the reverse direction (in through the bottom hose connection) using the reverse flush adaptor 18G 187 with a 1 in. (25 mm.) hose.
 
 
 ### Filling
-`mini_cooper_1976_en_cf5d7ec1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:526 | doc_type:owners_manual
 
 (3) Close the drain tap(s) or refit the drain plug(s). Fill to the level indicator in the radiator top tank. Use only the recommended anti-freeze when necessary.
 
 
 ### Removing
-`mini_cooper_1976_en_ebabb6de` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:527 | doc_type:owners_manual
 
 (4 Remove the bonnet and drain the system. (5) Remove the cowling upper support bracket and the two bolts securing the lower support bracket to the engine mounting.
 
 
 ### One-piece cowling
-`mini_cooper_1976_en_1567cbb8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:528 | doc_type:owners_manual
 
 (6) Disconnect the top hose and completely remove the lower.   
 (7) Take out the four screws securing the radiator to the cowling and lift of the radiator and cowling.
 
 
 ### Two-piece cowling
-`mini_cooper_1976_en_1cc8edf3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:529 | doc_type:owners_manual
 
 (8) Disconnect the top and bottom hoses.   
 Take out the six screws securing the radiator to the cowling and remove the top half of the cowling.   
@@ -19261,7 +17690,6 @@ Bend the lower hose to the outside of the cowling and lift out the radiator.
 
 
 ### Removing
-`mini_cooper_1976_en_cd730ffe` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:hvac | p:530 | doc_type:owners_manual
 
 (11) Drain the system and remove the bonnet and grille.   
 (12) Disconnect the top hose.   
@@ -19273,7 +17701,6 @@ Bend the lower hose to the outside of the cowling and lift out the radiator.
 
 
 ### Removing
-`mini_cooper_1976_en_4b94c224` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:532 | doc_type:owners_manual
 
 (Slacken the dynamo pivot and adjusting link bolts.   
 Lift the dynamo and run the belt ff the crankshaft pulley.   
@@ -19293,13 +17720,11 @@ The filler cap of the sealed cooling system removed, showing the water level ind
 
 
 ### Adjusting
-`mini_cooper_1976_en_86ee8d9c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:534 | doc_type:owners_manual
 
 Adjust the tension by moving the dynamo so that the belt can be moved 1 in. (25 mm.) at the centre of its longest run.
 
 
 ### Removing
-`mini_cooper_1976_en_8dbb2816` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:535 | doc_type:owners_manual
 
 (1) Drain the system and remove the radiator.   
 () Disconnect the hose from the water pump inlet connection and slacken the top clip of the by-pass hose.   
@@ -19307,25 +17732,21 @@ Adjust the tension by moving the dynamo so that the belt can be moved 1 in. (25 
 
 
 ### Dismantling
-`mini_cooper_1976_en_247f31da` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:536 | doc_type:owners_manual
 
 (4) Withdraw the bearing locating wire through the hole in the top of the pump body. (5) Tap the spindle backwards to extract the spindle and bearing assembly. ( Pull the vane from the spindle and remove the seal.
 
 
 ### Reassembling
-`mini_cooper_1976_en_e6bf03d3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:537 | doc_type:owners_manual
 
 Reverse the dismantling instructions.
 
 
 ### Refitting
-`mini_cooper_1976_en_7029afa5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:538 | doc_type:owners_manual
 
 Reverse the removing instructions. MINI. Issue 1. 4908
 
 
 ### FROST PRECAUTIONS
-`mini_cooper_1976_en_f9bfeb87` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:hvac | p:539 | doc_type:owners_manual
 
 Damage due to freezing can be prevenited by draining the system when the car is not in use, or by the addition of anti-freeze. When a heater is fitted anti-freeze must be used as there is no provision for satisfactorily draining the heater matrix.
 
@@ -19336,7 +17757,6 @@ Quantity of antifreeze required
 
 
 ### Removing
-`mini_cooper_1976_en_2cd660d0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:540 | doc_type:owners_manual
 
 ( Drain the cooling system (Section C.1.).   
 () Disconnect the top hose and remove the cowling upper support bracket.   
@@ -19350,13 +17770,11 @@ Turn the fan blades to the position indicated where the fan belt can be extracte
 
 
 ### Testing
-`mini_cooper_1976_en_fb2d6333` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:541 | doc_type:owners_manual
 
 (5) Test the thermostat opening temperature by immersing it in water and raising the temperature of the water to the thermostat opening temperature as given under 'GENERAL DATA'. If the thermostat valve fails to open or sticks in the fully open position, it a new one; do not attempt to repair it.
 
 
 ### Refitting
-`mini_cooper_1976_en_75437612` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:542 | doc_type:owners_manual
 
 (6) Installation of the thermostat assembly is the reverse of the removal procedure. Fit a new joint washer if the existing one is damaged.   
 (7) A wax-element-type thermostat together with a modifi ed thermostat water outlet cover is fitted to later vehicles.   
@@ -19369,7 +17787,6 @@ A section through the water pump showing the location of the components. When as
 
 
 ### THE FUEL SYSTEM
-`mini_cooper_1976_en_90d08d11` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:543 | doc_type:owners_manual
 
 Section   
 Air cleaner .. D.7   
@@ -19386,20 +17803,17 @@ Fig. D.1 The fuel tank located on the left-hand side of the luggage compartment
 
 
 ### FUEL TANK
-`mini_cooper_1976_en_29002bb7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:544 | doc_type:owners_manual
 
 (1 Unscrew the tank drain plug (when fitted) approximately three turns, otherwise, disconnect the flexible hose from the pump and drain the tank.   
 ( Take off the filler cap, disconnect the lead from the gauge unit and unscrew the bolt from the securing strap. Release the vent pipe clip and remove the tank from the luggage compartment, at the same time drawing the fuel and vent pipes through the fioor. Note the locating plate fitted below the tank.
 
 
 ### VAN, PICK-UP, AND LATER TRAVELLER
-`mini_cooper_1976_en_2dc74b61` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:545 | doc_type:owners_manual
 
 (3) Remove the six flange screws and spacers and lower the tank.
 
 
 ### TRAVELLER (EARLY MODELS)
-`mini_cooper_1976_en_44187eb3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:546 | doc_type:owners_manual
 
 (4) Remove the trim liner from the body above the tank, and the metal finishers from the rear seat squab support.   
 (5) Lift out the luggage platform, disconnect the battery and ease the trim panel away from the tank.   
@@ -19409,7 +17823,6 @@ Fig. D.1 The fuel tank located on the left-hand side of the luggage compartment
 
 
 ### SALOON
-`mini_cooper_1976_en_058f708c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:547 | doc_type:owners_manual
 
 (9) Reverse the removal instructions. Note that the vent pipe passes through the same hole as the wiring harness. The seal between the drain pipe housing and the body must be watertight. Refit the locating strip before the strap is tightened.
 
@@ -19417,7 +17830,6 @@ VAN, PICK-UP, AND TRAVELLER Reverse the removal instructions.
 
 
 ### Removing
-`mini_cooper_1976_en_b59d5fbe` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:548 | doc_type:owners_manual
 
 ( Disconnect the battery earth cable and the electrical connection from the fuel gauge tank unit.   
 () Ensure that the fuel level in the tank is below that of the fuel gauge unit aperture.   
@@ -19425,7 +17837,6 @@ VAN, PICK-UP, AND TRAVELLER Reverse the removal instructions.
 
 
 ### Refitting
-`mini_cooper_1976_en_acbbdaf0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:549 | doc_type:owners_manual
 
 (4) When reftting the gauge unit, use a new joint washer coated with a suitable sealing compound. (5) On later models fit a new rubber sealing ring and tighten the unit locking ring with the Service tool.
 
@@ -19436,57 +17847,48 @@ The tongue of the fuel tank locating plate must be secured in the slot in the lu
 
 
 ### FUEL PUMP—TYPE PD
-`mini_cooper_1976_en_12c6c81f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:550 | doc_type:owners_manual
 
 Apart from cleaning the filter and contact points, no servicing is possible; if the pump fails a new one must be fitted.
 
 
 ### Removing
-`mini_cooper_1976_en_3916bbdd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:551 | doc_type:owners_manual
 
 ( Disconnect the leads, slacken the clamp screws, and pull off the fuel pipes. Unscrew the bracket screws and remove the pump and bracket.
 
 
 ### Cleaning the filter
-`mini_cooper_1976_en_ec0a2315` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:552 | doc_type:owners_manual
 
 ( Remove the pump and take off the bottom cover plate. Extract the filter and clean it with a brush and petrol (fuel). Fit a new cover gasket.
 
 
 ### Points
-`mini_cooper_1976_en_9abfa81c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:553 | doc_type:owners_manual
 
 (3) Lift off the top cover and clean the points by drawing a piece of clean paper between them.   
 (4 Check that the points make good contact and that the gap between the end of the upper blade and its stop face is not less than 015 in. (б4 mm.).
 
 
 ### Refitting
-`mini_cooper_1976_en_207b6bfc` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:554 | doc_type:owners_manual
 
 ( Reverse the removing instructions.
 
 
 ### FUEL PUMP—TYPE SP AND AUF 201
-`mini_cooper_1976_en_cebb18fa` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:555 | doc_type:owners_manual
 
 The pump is mounted on the lower left-hand fange of the rear sub-frame.
 
 
 ### Removing
-`mini_cooper_1976_en_78d40d71` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:556 | doc_type:owners_manual
 
 (1) Disconnect the battery, the pump leads, and both hoses.   
 (2) Unscrew the nut securing the pump clamp to the bracket and lift off the pump and clamp.
 
 
 ### Reftting
-`mini_cooper_1976_en_a8f59df6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:557 | doc_type:owners_manual
 
 () Reverse the removing instructions.
 
 
 ### Dismantling
-`mini_cooper_1976_en_a3b3ae4f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:558 | doc_type:owners_manual
 
 (4) Screw the inlet nozzle from the pump body and withdraw the filter and fibre washer.   
 () Unscrew the six screws securing the coil housing to the body, separate the housing, diaphragm, and body.   
@@ -19501,7 +17903,6 @@ Fig. D.3
 
 
 ### The P D-type fuel pump
-`mini_cooper_1976_en_fba0f4c4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:559 | doc_type:owners_manual
 
 (9) Unscrew the spring blade securing screw and disconnect the coil lead. Remove the terminal screw retaining nut; cut the lead washer.   
 (10) Unscrew the two pedestal retaining screws and disconnect the braided copper earth lead.   
@@ -19510,7 +17911,6 @@ Fig. D.3
 
 
 ### Inspecting
-`mini_cooper_1976_en_2b891578` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:560 | doc_type:owners_manual
 
 (13) Clean and examine all parts.   
 (14) Check the feed spring; test figures are given in GENERAL DATA'.   
@@ -19519,7 +17919,6 @@ Fig. D.3
 
 
 ### Assembling
-`mini_cooper_1976_en_a6982a40` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:561 | doc_type:owners_manual
 
 (17) Refit the valves and retainer.   
 (18) Screw the nozzle, with a new washer, into the body.   
@@ -19531,7 +17930,6 @@ Fig. D.3
 
 
 ### THE AUF 201 and SP FUEL PUMP COMPONENTS
-`mini_cooper_1976_en_fc65782c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:562 | doc_type:owners_manual
 
 ![](images/174bb49e6914eb090ecd0a64d3b70be9a583dcbf60065e85a61226cf91b86db4.webp)
 
@@ -19596,7 +17994,6 @@ No. Description
 
 
 ### AUF 201 type pump
-`mini_cooper_1976_en_0ceb78a3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:563 | doc_type:owners_manual
 
 This type of pump is fitted to later vehicles. The instructions given for the SP pump apply, with the exception of items (4), ), and (8); for item (4) substitute instructions (30) and (31).
 
@@ -19604,7 +18001,6 @@ This type of pump is fitted to later vehicles. The instructions given for the SP
 
 
 ### Rocker finger settings (AUF 201)
-`mini_cooper_1976_en_21f2e330` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:564 | doc_type:owners_manual
 
 (31) After reassembly the spring blade of the contacts should rest against the ridge of the pedestal mounting when the outer rocker is pressed onto the coil housing and a gap of 030 in. (76 mm.) should exist between the points. When the outer
 
@@ -19628,13 +18024,11 @@ rocker is released the spring blade should be deflected away from the ridge. If 
 
 
 ### FUEL PUMP TESTING
-`mini_cooper_1976_en_31bb270f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:565 | doc_type:owners_manual
 
 ( Fit the SP adaptor set to a test rig, and a cut-away cap to the pump. Connect the pump to a 12-volt battery with a voltmeter and resistance in circuit.
 
 
 ### Priming
-`mini_cooper_1976_en_0741d509` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:566 | doc_type:owners_manual
 
 (2) The pump should prime from dry in 10 to 15 seconds and the parafin (kerosene) should rise in the glass container until it runs from the overflow drain pipe. If the level does not rise above the small hole in the drain pipe, the pump is faulty. Initial air bubbles should cease after a minute or two; if they do not, there is an air leak on the suction side.
 
@@ -19644,19 +18038,16 @@ rocker is released the spring blade should be deflected away from the ridge. If 
 
 
 ### Minimum delivery
-`mini_cooper_1976_en_a6566a76` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:567 | doc_type:owners_manual
 
 (4) Partly open the fuel tap and gradually depress the spring blade to reduce the stroke. The pump should continue working with increasing frequency until it stops owing to the lack of a gap between the points.
 
 
 ### Reduced voltage
-`mini_cooper_1976_en_8e6d0bd5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:568 | doc_type:owners_manual
 
 (5 The pump should work satisfactorily at a minimum of 9.5 volts.
 
 
 ### THE CARBURETTER COMPONENTS
-`mini_cooper_1976_en_8e4c93e9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:569 | doc_type:owners_manual
 
 ![](images/951e28570d24b00db5c9dae27ccc534ca4010ad8b63cb348af59061aa00db59a.webp)
 
@@ -19713,13 +18104,11 @@ No. Description
 
 
 ### CARBURETTERS
-`mini_cooper_1976_en_6b58e51b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:570 | doc_type:owners_manual
 
 IMPORTANT.—The instructions given in this section for adjusting, dismantling and reassembling the carburetters applies only to cars not fitted with exhaust emission control equipment. Carburetters fitted to cars with exhaust emission control equipment must be tuned and serviced in accordance with the instructions given in Workshop Manual Supplement AKD 4957 A.
 
 
 ### Dismanting
-`mini_cooper_1976_en_4f14bbd3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:571 | doc_type:owners_manual
 
 (Unscrew the plug and withdraw the piston damper   
 (2) Take out the two suction chamber securing screws, lift off the suction chamber and withdraw the piston and jet needle.   
@@ -19732,7 +18121,6 @@ IMPORTANT.—The instructions given in this section for adjusting, dismantling a
 
 
 ### Anspecting
-`mini_cooper_1976_en_94755bdb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:interior | p:572 | doc_type:owners_manual
 
 (9) Note the condition of the needle valve and seating; fit a new needle and seating if necessary.   
 (10) If the jet needle is bent or otherwise damaged, withdraw the locking screw in the piston and fit a new needle. Push the needle in until the shoulder is fush with the lower face of the piston.   
@@ -19740,13 +18128,11 @@ IMPORTANT.—The instructions given in this section for adjusting, dismantling a
 
 
 ### Reassembling
-`mini_cooper_1976_en_86c3cff3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:573 | doc_type:owners_manual
 
 Reverse the dismantling instructions and centre the jet.
 
 
 ### Jet centring
-`mini_cooper_1976_en_e4d4b336` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:574 | doc_type:owners_manual
 
 (12) Screw the jet adjusting nut up as far as possible, lift the piston with the lifting pin and allow it to drop; it should drop freely onto the bridge with a soft metallic click. Repeat with the adjusting nut screwed fully down. If the piston does not fall freely in either of the tests, proceed as follows.   
 {13) Carry out instructions (3) and (4) above.   
@@ -19767,13 +18153,11 @@ Fast-idle adjustment screw. 6. Jet link securing screw.
 
 
 ### Slow running
-`mini_cooper_1976_en_8b2f77bc` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:575 | doc_type:owners_manual
 
 (19) Turn the throttle adjusting screw as necessary.
 
 
 ### Mixture
-`mini_cooper_1976_en_5d4cdd0b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:576 | doc_type:owners_manual
 
 (20Run the engine until it is at its normal temperature.   
 (21) Disconnect the choke cable.   
@@ -19797,7 +18181,6 @@ Nylon fuel pipe.
 
 
 ### Flooding
-`mini_cooper_1976_en_6f79daaa` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:interior | p:577 | doc_type:owners_manual
 
 This may be caused by an incorrect float level or by a faulty needle valve.
 
@@ -19805,7 +18188,6 @@ This may be caused by an incorrect float level or by a faulty needle valve.
 
 
 ### Mixture
-`mini_cooper_1976_en_09d4fc62` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:578 | doc_type:owners_manual
 
 (31) Carry out instructions (20) to (23) on each carburetter moving both nuts the same number of turns.   
 (32) Raise the piston on the left-hand carburetter about in. (8 mm.). If the engine speed increases the mixture is too rich; if the engine speed immediately decreases the mixture is too weak; if the engine speed momentarily increases very slightly the mixture is correct.   
@@ -19814,31 +18196,26 @@ This may be caused by an incorrect float level or by a faulty needle valve.
 
 
 ### Linkage adjustment, Fig. D.8
-`mini_cooper_1976_en_f9ffe184` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:579 | doc_type:owners_manual
 
 (35) Disconnect the choke cable. With the throttle shaft levers free on the shaft, put a 012 in. (-30 mm.) feeler between the shaft stop and the choke interconnecting spindle. Move each throttle lever downwards until the pin rests lightly on the lower arm of the fork in the carburetter throttle lever. Tighten the clamp of the throttle shaft lever. When both carburetters are adjusted the pins on the throttle levers should then have the correct clearance in the forks. Re-connect the choke cable and ensure that the jet heads return against the jet adjusting nuts when the choke knob is pushed fully in. Adjust the fast idling screws.
 
 
 ### Slow-running
-`mini_cooper_1976_en_daf59211` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:580 | doc_type:owners_manual
 
 (30) As instruction (19) but turn both screws an equal amount. Listen to the hiss at the carburetter intake and adjust the screws until the intensity of the hiss at each is the same.
 
 
 ### AIR CLEANER
-`mini_cooper_1976_en_4beaaf11` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:581 | doc_type:owners_manual
 
 Renew the filter element at the recommended periods.
 
 
 ### Removing
-`mini_cooper_1976_en_b4e2e734` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:582 | doc_type:owners_manual
 
 (1) Unscrew the wing nut at the top of the cleaner, remove the cover and extract the element.
 
 
 ### Refitting
-`mini_cooper_1976_en_08bd3293` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:583 | doc_type:owners_manual
 
 ( Reverse the removal procedure.
 
@@ -19847,7 +18224,6 @@ Fig. D.8
 
 
 ### COOPER
-`mini_cooper_1976_en_ae20148b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:584 | doc_type:owners_manual
 
 Gauze filters Removing
 
@@ -19855,37 +18231,31 @@ Gauze filters Removing
 
 
 ### Cleaning
-`mini_cooper_1976_en_44143418` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:585 | doc_type:owners_manual
 
 (4 Wash the gauzes thoroughly in fuel, dry and re-oil with engine oil.
 
 
 ### Refitting
-`mini_cooper_1976_en_8f3348bb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:586 | doc_type:owners_manual
 
 (5) Reverse the removal procedure, fitting new joint washers if necessary.
 
 
 ### COOPER
-`mini_cooper_1976_en_251cf9fb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:587 | doc_type:owners_manual
 
 Dry element flter Renew the filter elements at the recommended periods.
 
 
 ### Removing
-`mini_cooper_1976_en_42d97be0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:588 | doc_type:owners_manual
 
 (6) Remove the two wing nuts and washers and remove the cover, lift out the paper elements and wipe the inside of the container to remove all dust deposit. The container may also be removed if required by careful manceuvring over the carburetters, after releasing the throttle lever return spring and the breather hose (if fitted).
 
 
 ### Refitting
-`mini_cooper_1976_en_60625b0f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:589 | doc_type:owners_manual
 
 (7) Reverse the removal procedure, ensuring that the air manifold rubber seals are correctly positioned if the container has been removed.
 
 
 ### FUEL PUMP
-`mini_cooper_1976_en_8600a108` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:590 | doc_type:owners_manual
 
 (Moke)
 
@@ -19893,7 +18263,6 @@ The fuel pump is located in the pannier of the left-hand side-member (Fig. D.9).
 
 
 ### Removing
-`mini_cooper_1976_en_7ea4f83b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:591 | doc_type:owners_manual
 
 ( Disconnect the battery.   
 (2) Remove the pannier side cover (two quick-release fasteners).   
@@ -19903,13 +18272,11 @@ Remove two nuts to release the mounting bracket.
 
 
 ### Dismantling and assembling
-`mini_cooper_1976_en_605b7a1f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:592 | doc_type:owners_manual
 
 (6) Follow the instructions in Section D.4.
 
 
 ### Refitting
-`mini_cooper_1976_en_d397380e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:593 | doc_type:owners_manual
 
 (Reverse the removing instructions, tighten all clips, and secure the earth iead with one of the mounting bracket nuts.
 
@@ -19920,7 +18287,6 @@ Fig. D.9 The fuel pump location in the left-hand side-member
 
 
 ### Section D.9
-`mini_cooper_1976_en_5909a3b7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:594 | doc_type:owners_manual
 
 FUEL TANK (Moke)
 
@@ -19928,7 +18294,6 @@ The fuel tank is located in the left-hand side-member. Remove the tank for acces
 
 
 ### Removing
-`mini_cooper_1976_en_56891da2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:595 | doc_type:owners_manual
 
 (1) Remove the forward pannier side cover and disconnect the lead from the fuel gauge unit terminal.   
 (2) Drain the fuel tank (see Fig. D.10).   
@@ -19939,13 +18304,11 @@ The fuel tank is located in the left-hand side-member. Remove the tank for acces
 
 
 ### Refitting
-`mini_cooper_1976_en_54fe96ca` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:596 | doc_type:owners_manual
 
 (7 Reverse the removal instructions.
 
 
 ### Removing
-`mini_cooper_1976_en_6ce32550` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:597 | doc_type:owners_manual
 
 Both tanks
 
@@ -19957,7 +18320,6 @@ emove thesare whee.
 
 
 ### Left-hand tank
-`mini_cooper_1976_en_9a4c5a34` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:598 | doc_type:owners_manual
 
 (6Disconnect the electrical connections from the tank gauge unit.   
 (Remove the tank strap securing bolt.   
@@ -19966,7 +18328,6 @@ Ease the tank to the centre of the luggage compartment and withdraw it.
 
 
 ### Right-hand tank
-`mini_cooper_1976_en_d7aa2430` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:599 | doc_type:owners_manual
 
 (10) Disconnect and remove the battery.   
 (11 Carry out instruction (7) and disconnect the flexible hose from the left-hand tank.   
@@ -19981,13 +18342,11 @@ The fuel tank drain plug access
 
 
 ### Refitting
-`mini_cooper_1976_en_d2376c17` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:600 | doc_type:owners_manual
 
 (15) Reverse the removal instructions. (16 Ensure that the seal around the drain plug housing is watertight.
 
 
 ### SECTION Da
-`mini_cooper_1976_en_f165e086` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:601 | doc_type:owners_manual
 
 THE FUEL SYSTEM
 
@@ -19999,13 +18358,11 @@ These operations must be followed by an exhaust emission check
 
 
 ### AIR CLEANER
-`mini_cooper_1976_en_142a823c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:602 | doc_type:owners_manual
 
 Cars equipped with automatic transmission are fitted with a larger paper-element-type air cleaner.
 
 
 ### Removing
-`mini_cooper_1976_en_16ac0c71` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:603 | doc_type:owners_manual
 
 ( Unscrew the wing nuts.   
 ( Disconnect the breather hose.   
@@ -20013,13 +18370,11 @@ Cars equipped with automatic transmission are fitted with a larger paper-element
 
 
 ### Element replacement
-`mini_cooper_1976_en_9ead3f98` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:604 | doc_type:owners_manual
 
 (4) Remove the cover from the container and lift out the paper element. (5) Wipe all dust deposit from inside the container. (6 Fit the new element and refit the cover.
 
 
 ### Refitting
-`mini_cooper_1976_en_feda80e8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:605 | doc_type:owners_manual
 
 (7 Reverse the removal procedure.
 
@@ -20027,7 +18382,6 @@ NOTE.—The air cleaner intake should be positioned adjacent to the exhaust mani
 
 
 ### Description
-`mini_cooper_1976_en_f89e0bcc` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:606 | doc_type:owners_manual
 
 The HS4 carburetter is fitted to an engine equipped with automatic transmission.
 
@@ -20037,7 +18391,6 @@ IMPORTANT.—The instructions given in this section for adjusting, dismantling a
 
 
 ### Removing
-`mini_cooper_1976_en_6aed465a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:607 | doc_type:owners_manual
 
 ( Remove the air cleaner as detailed in Section Da.1.   
 (Disconnect the mixture and throttle control cables, the suction advance pipe, and the fuel delivery hose from the carburetter.   
@@ -20051,13 +18404,11 @@ Fig. Da.1 The HS4 carburetter
 
 
 ### Refitting
-`mini_cooper_1976_en_9295c9e0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:608 | doc_type:owners_manual
 
 (5) Reverse the removal instructions, fitting new joint washers between the manifold face and the abutment plate and carburetter flange if any have been damaged during removal.
 
 
 ### Adjustments
-`mini_cooper_1976_en_7741098e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:609 | doc_type:owners_manual
 
 The method of adjusting the jet and slow running is as described in Section D.6 with the following exceptions.
 
@@ -20068,7 +18419,6 @@ The method of adjusting the jet and slow running is as described in Section D.6 
 
 
 ### THE FUEL SYSTEM
-`mini_cooper_1976_en_96685fa6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:610 | doc_type:owners_manual
 
 The information contained in this Section refers specificall to new or modified components fitted to the Mini range coincident with the introduction of NEGATIVE earth electrical systems and must be used in conjunction with Sections D and Da.
 
@@ -20076,13 +18426,11 @@ Section Fuel pump—mechanical (type AUF 705) ш •x• Db.1 Testing . .:. •.
 
 
 ### Section Db.1
-`mini_cooper_1976_en_8871f3d1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:611 | doc_type:owners_manual
 
 MECHANICAL FUEL PUMP (Type AUF 705)
 
 
 ### General description and operation
-`mini_cooper_1976_en_e572980b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:612 | doc_type:owners_manual
 
 The pump is mounted on the rear left-hand side of the crankcase and is driven from the camshaft. The cam lobe actuates the rocker lever which moves the diaphragm downwards. Fuel is drawn in through the filter, down past the inlet valve flap, and into the diaphragm chamber. When the cam lobe passes the rocker lever the diaphragm moves upwards under the influence of the spring and forces fuel through the outlet valve.
 
@@ -20090,7 +18438,6 @@ When the float needle valve closes, the diaphragm stays in the down position and
 
 
 ### Maintenance
-`mini_cooper_1976_en_13d398b0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:613 | doc_type:owners_manual
 
 Filter cleaning
 
@@ -20101,7 +18448,6 @@ Filter cleaning
 
 
 ### Fault diagnosis
-`mini_cooper_1976_en_cc61a7cb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:614 | doc_type:owners_manual
 
 ( To check the fuel flow, disconnect the fuel hose at the carburetter and put the end into a container. Disconnect the (-) connection from the ignition coil and turn the crankshaft by operating the starter.
 
@@ -20114,7 +18460,6 @@ DO NOT PASS COMPRESSED AIR THROUGH THE PUMP.
 
 
 ### Removing
-`mini_cooper_1976_en_86f51a5c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:615 | doc_type:owners_manual
 
 ( Disconnect the battery and remove the air cleaner for access.   
 (7) Disconnect and remove the fuel pump to carburetter feed pipe, Disconnect the fuel pump feed pipe.   
@@ -20125,14 +18470,12 @@ Fig. Db.1
 
 
 ### The fuel pump location
-`mini_cooper_1976_en_ad61bde4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:616 | doc_type:owners_manual
 
 A.1275 GT. B. 850/1000 and Clubman.   
 Inlet connection. Outlet connection.
 
 
 ### Dismantling
-`mini_cooper_1976_en_6dcc7b61` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:617 | doc_type:owners_manual
 
 Refer to Fig. Db.2
 
@@ -20147,13 +18490,11 @@ Refer to Fig. Db.2
 
 
 ### Inspection
-`mini_cooper_1976_en_b86f74fa` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:618 | doc_type:owners_manual
 
 Examine components for wear and damage, particularly the diaphragm, the fine edge of the inlet/outlet valve, and the insert in the outlet cover.
 
 
 ### Reassembling
-`mini_cooper_1976_en_9f8e3e23` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:619 | doc_type:owners_manual
 
 (17) Reverse the dismantling sequence, noting the following:
 
@@ -20186,14 +18527,12 @@ The fuel pump components. Mark the components (arrowed) for correct reassembly
 
 
 ### Reftting
-`mini_cooper_1976_en_5c31dc48` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:620 | doc_type:owners_manual
 
 (18) Reverse the removing procedure, using new joints on the fuel pump insulating block.   
 (19) Switch on the ignition and use the starter continuously for 20 seconds to prime the pump.
 
 
 ### TESTING THE FUEL PUMP
-`mini_cooper_1976_en_bbbf2b3e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:621 | doc_type:owners_manual
 
 Dry test before dismantling a suspect pump and after reassembly (see Fig. Db.3).
 
@@ -20201,7 +18540,6 @@ Testing using 18G 1116
 
 
 ### Suction
-`mini_cooper_1976_en_3c423af0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:622 | doc_type:owners_manual
 
 (1) Connect the gauge to the inlet nozzle.   
 Operate the rocker lever, using the extension lever, through three full strokes. Minimum vacuum reading 6 in. (150 mm.) Hg, must not drop more than 2 in. (50 mm.) in 15 seconds.   
@@ -20209,14 +18547,12 @@ Operate the rocker lever, using the extension lever, through three full strokes.
 
 
 ### Delivery
-`mini_cooper_1976_en_ba3a912e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:623 | doc_type:owners_manual
 
 (4) Connect the gauge to the outlet nozzle.   
 (Operate the rocker lever, using the extension lever, through two full strokes. Minimum pressure reading 3 b./sq. in. (2 kg/cm.2), must not drop more than } 1b./sq. in. (б04 kg./cm.2) in 15 seconds.
 
 
 ### Testing without gauge
-`mini_cooper_1976_en_5296ae7c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:624 | doc_type:owners_manual
 
 A reasonable indication of pump condition can be obtained using the following procedure:
 
@@ -20227,19 +18563,16 @@ Testing the pump for suction (above) and for pressure (below) using Service tool
 
 
 ### Suction
-`mini_cooper_1976_en_e761c13c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:625 | doc_type:owners_manual
 
 (1 Hold a finger over the inlet nozzle and operate rocker lever through three full strokes. Release finger; a noise caused by suction should be heard.
 
 
 ### Delivery
-`mini_cooper_1976_en_e20df0da` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:626 | doc_type:owners_manual
 
 (3) Hold a finger over the outlet nozzle and depress the rocker arm fully. Pressure should hold for up to 15 seconds.
 
 
 ### THE CLUTCH
-`mini_cooper_1976_en_8d11dbaa` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:627 | doc_type:owners_manual
 
 Section   
 Adjustments .. E.2 Overthrow Pedal movement Throw-out stop   
@@ -20272,7 +18605,6 @@ A section through the clutch assembly
 
 
 ### Dismantling
-`mini_cooper_1976_en_b7e34bdd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:628 | doc_type:owners_manual
 
 (2) Mark the driving pins, driving straps, and the housing so that these parts can be refitted in their original positions. Note the clutch balance mark (Fig. E.2).   
 (3) Insert the three screws (Service tool 18G 304 M) through the recessed holes in the pressure spring housing and screw them into the fywheel.   
@@ -20282,7 +18614,6 @@ A section through the clutch assembly
 
 
 ### Inspecting
-`mini_cooper_1976_en_3f9d521d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:629 | doc_type:owners_manual
 
 (7) Inspect the housing for elongation of the driving pin holes.   
 (8) Inspect the driving pins for ridging and wear; fit three new pins if any are worn.   
@@ -20290,7 +18621,6 @@ A section through the clutch assembly
 
 
 ### Reassembling
-`mini_cooper_1976_en_0fe111dc` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:630 | doc_type:owners_manual
 
 NOTE.—When reassembling, fit the pressure plate to the clutch cover with the marks 'A' adjacent to each other and fit the clutch unit to the flywheel as shown in Fig. E.2.   
 (10 Centralize the driven plate and the flywheel hub with Service tool 18G 571.   
@@ -20299,13 +18629,11 @@ NOTE.—When reassembling, fit the pressure plate to the clutch cover with the m
 
 
 ### Refitting
-`mini_cooper_1976_en_46ae13bb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:631 | doc_type:owners_manual
 
 (1) Reverse the removing instructions (Section A.11)
 
 
 ### Pedai movement
-`mini_cooper_1976_en_53f4d58c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:632 | doc_type:owners_manual
 
 (1) Pull the operating lever outwards until all free movement is taken up, then check the clearance between the lever and the stop.
 
@@ -20316,7 +18644,6 @@ The fitted position of the clutch cover, with the balance mark 'A' adjacent the 
 
 
 ### Section E.3
-`mini_cooper_1976_en_18c7f9ee` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:633 | doc_type:owners_manual
 
 ![](images/e469678f0da2246548c377d71057c7b2013714ed9c6d32db5378fe07995bc1fa.webp)  
 Fig. E.3
@@ -20334,7 +18661,6 @@ If necessary, adjust the stop to give a clearance of б060 in. (1.5 mm.). On lat
 
 
 ### Throw-out stop (later models)
-`mini_cooper_1976_en_96513fa9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:634 | doc_type:owners_manual
 
 Adjustment is normally only necessary if the stop has been removed during overhaul.
 
@@ -20345,14 +18671,12 @@ Adjustment is normally only necessary if the stop has been removed during overha
 
 
 ### To test
-`mini_cooper_1976_en_9b9f4fe2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:635 | doc_type:owners_manual
 
 (7) Run the engine at its normal temperature and at about 500 r.p.m.   
 (8) Depress and release the pedal three or four times; if the engine stalls or slows down appreciably, overthrow is occurring.
 
 
 ### To rectify
-`mini_cooper_1976_en_f431ada3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:636 | doc_type:owners_manual
 
 (9) Check the pedal movement and test for overthrow.   
 (10) Adjust the pedal movement to a maximum of б075 in. (2.0 mm.) and test for over-throw.   
@@ -20363,13 +18687,11 @@ MINI. Issue 1 4908
 
 
 ### Removing
-`mini_cooper_1976_en_2a97e275` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:637 | doc_type:owners_manual
 
 (1) Disconnect the pedal lever from the push-rod. Unscrew the pipe union from the cylinder. (3) Remove the two bolts securing the unit to the bulkhead.
 
 
 ### Dismantling .ь
-`mini_cooper_1976_en_e21addd1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:638 | doc_type:owners_manual
 
 ( Drain out the fuid.   
 (5) Pull back the rubber dust cover.   
@@ -20387,14 +18709,12 @@ Fig. E.5
 
 
 ### A section through the clutch master cylinder
-`mini_cooper_1976_en_ae71a24c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:639 | doc_type:owners_manual
 
 2. Pubero. 6. Wad . 123 Pionsher.   
 4. Suply ank. 10. Stcowasup. 1 rtin spaingr.
 
 
 ### Reassembling
-`mini_cooper_1976_en_1245e105` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:640 | doc_type:owners_manual
 
 (9) Clean all rubber parts with brake fluid and remove all traces of petrol (fuel), kerosene, and trichlorethylene from the metal parts.   
 (10 Fit new rubbers and assemble the internal components lubricated with brake fuid.   
@@ -20405,19 +18725,16 @@ Fig. E.5
 
 
 ### Refitting
-`mini_cooper_1976_en_5fdc66e6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:641 | doc_type:owners_manual
 
 (15) Reverse the removing instructions and fill up with Lockheed Super Heavy Duty Brake Fluid, or (COOPER), Lockheed Disc Brake Fluid. Bleed the system.
 
 
 ### Section E.5
-`mini_cooper_1976_en_1b1daaa5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:642 | doc_type:owners_manual
 
 () Disconnect the push-rod from the clutch lever. (4) Unscrew the two securing bolts and remove the cylinder from the housing.
 
 
 ### Dismantling
-`mini_cooper_1976_en_4fc5e36e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:643 | doc_type:owners_manual
 
 () Clean the exterior before stripping.   
 (6) Withdraw the rubber boot and push-rod.   
@@ -20426,7 +18743,6 @@ Renew all rubber parts: examine the remainder and renew as required.
 
 
 ### Removing
-`mini_cooper_1976_en_d726a850` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:644 | doc_type:owners_manual
 
 ![](images/c9abe45d2c2263b2b847be6e6e39719deb20827bd4262ffb000c430a79e459d7.webp)  
 Fig. E.6
@@ -20445,19 +18761,16 @@ Cup filler. 6. Circlip.
 
 
 ### Reassembling
-`mini_cooper_1976_en_87808529` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:645 | doc_type:owners_manual
 
 Carry out items () to (8in the reverse order.
 
 
 ### Refitting
-`mini_cooper_1976_en_528f5829` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:646 | doc_type:owners_manual
 
 Reverse the removal procedure items (1) to (4) and bleed the system.
 
 
 ### CLUTCH (Diaphragm Spring Type)
-`mini_cooper_1976_en_e0270c3f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:647 | doc_type:owners_manual
 
 A diaphragm spring replaces the six conventional coil pressure springs on this clutch assembly.
 
@@ -20470,7 +18783,6 @@ Fig. E.7
 
 
 ### Section
-`mini_cooper_1976_en_2689ca18` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:648 | doc_type:owners_manual
 
 Differential assembly F.4   
 Synchronizing cones F.5   
@@ -20480,14 +18792,11 @@ Four-speed synchromesh transmission . . F.3
 Transmission—dismantling and reassembling…. F.1
 
 
-### NOTE
-`mini_cooper_1976_en_6cef2e9c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:649 | doc_type:owners_manual
-
-The gear change remote control shaft lubrication nipple on the differential cover requires attention at major overhaul periods only, when grease should be used.
+> ℹ️ **Примечание:** 
+> The gear change remote control shaft lubrication nipple on the differential cover requires attention at major overhaul periods only, when grease should be used.
 
 
 ### Dismantling
-`mini_cooper_1976_en_4cab3433` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:650 | doc_type:owners_manual
 
 (1) Remove the transmission casing from the crankcase (Section A.19).   
 (2) Withdraw the idler gear with its thrust washers.   
@@ -20527,7 +18836,6 @@ MINI. Issue 2. 20189
 
 
 ### Reassembling
-`mini_cooper_1976_en_2aa5cca1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:651 | doc_type:owners_manual
 
 (23) If the gearbox has been completely stripped, first refit the reverse gear shifter lever and pivot pin. Push in the selector rods from the front of the casing, engage them with the selector forks, tighten the selector screws, and secure the lock nuts.   
 (24) Position the reverse gear and fork, and refit the reverse shaft, with the plain end foremost.   
@@ -20595,19 +18903,16 @@ MINI. Issue 2. 20189
 
 
 ### Three-speed synchromesh transmission
-`mini_cooper_1976_en_2d21b12c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:652 | doc_type:owners_manual
 
 The baulk ring synchromesh is fitted to Mk. I cars from Engine No. 8AM/U/H412992 and to all Mk. II models. The dismantling and reassembling sequences for the early-type transmission are the same as detailed below except that the second and third/top gear synchronizers are not fitted with baulk rings.
 
 
 ### Removing
-`mini_cooper_1976_en_2ae346ee` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:653 | doc_type:owners_manual
 
 (1) Remove the third motion shaft assembly from the transmission as detailed in Section F.1.
 
 
 ### Dismantling
-`mini_cooper_1976_en_19ab5623` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:654 | doc_type:owners_manual
 
 (2) Remove the first speed gear, hub and baulk ring from the rear of the shaft, and the top and third gear synchromesh hub and baulk rings from the front of the shaft.
 
@@ -20621,7 +18926,6 @@ If it is necessary to separate the second or third and fourth speed striking dog
 
 
 ### Early type gears
-`mini_cooper_1976_en_7d3987ca` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:655 | doc_type:owners_manual
 
 (4) Fit the rear thrust washer, then the plain half of the split bush with its fat end towards the thrust washer.
 
@@ -20631,7 +18935,6 @@ If it is necessary to separate the second or third and fourth speed striking dog
 
 
 ### Later type gears
-`mini_cooper_1976_en_23c82627` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:656 | doc_type:owners_manual
 
 (7 Slide the second speed gear on from the rear of the shaft, plain side first, after sticking the needleroller bearings to their journal with grease. Replace the two split washers, depress the two spring loaded locking pegs, and reft the locking collar, turning it until the pegs are heard to engage the splines.
 
@@ -20652,19 +18955,16 @@ Should the first and second speed gear assembly have been dismantled, the gear m
 
 
 ### THIRD MOTION SHAFT
-`mini_cooper_1976_en_b7adeda6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:657 | doc_type:owners_manual
 
 Four-speed synchromesh transmission
 
 
 ### Removing
-`mini_cooper_1976_en_d1f4857a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:658 | doc_type:owners_manual
 
 (1) Remove the shaft assembly from the transmission as detailed in Section F.1.
 
 
 ### Dismantling
-`mini_cooper_1976_en_894f6564` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:659 | doc_type:owners_manual
 
 (2) Withdraw the top and third gear synchromesh hub and baulk rings from the front end of the shaft.   
 (3) Press the front thrust washer plunger, and turn the washer until its splines register with those on the shaft, enabling it to be removed, complete with plunger and spring. Remove the third speed gear, with its caged needle-roller bearing.   
@@ -20678,7 +18978,6 @@ Fig. F.7
 
 
 ### The third motion shaft assembly (four-speed synchromesh transmission)
-`mini_cooper_1976_en_ad25364b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:660 | doc_type:owners_manual
 
 Third motion shaft   
 Baulk rings.   
@@ -20690,7 +18989,6 @@ Reverse mainshaft gear and 1st and 2nd speed synchronizer. Needle-roller bearing
 
 
 ### Reassembling
-`mini_cooper_1976_en_d5afebee` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:661 | doc_type:owners_manual
 
 () Carry out the dismantling instructions, but note items (9) to (11).   
 (9) Use Service tool 18G 572 to prevent the balls and springs from being lost, should it be necessary to separate the striking dogs from the synchromesh hub and cone assemblies. When reassembling the synchronizers, ensure that the long boss on both the sleeve and the hubs are on the same side.   
@@ -20699,7 +18997,6 @@ Reverse mainshaft gear and 1st and 2nd speed synchronizer. Needle-roller bearing
 
 
 ### Removing
-`mini_cooper_1976_en_36faa2c6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:662 | doc_type:owners_manual
 
 (1) Remove the engine and transmission as detailed in Section A.13.
 
@@ -20716,7 +19013,6 @@ remove the differential assembly.
 
 
 ### THE DIFFERENTIAL COMPONENTS
-`mini_cooper_1976_en_db5d9e54` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:663 | doc_type:owners_manual
 
 ![](images/83d70a5d43ee064d74c76ae4cd5011c7bfedd6a3df32f564fd48fdd4ee58ae44.webp)
 
@@ -20754,7 +19050,6 @@ Fig. F.8 With the left-hand drive cover fitted without its joint washer, measure
 
 
 ### Dismantling
-`mini_cooper_1976_en_bbfdfc68` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:664 | doc_type:owners_manual
 
 (Withdraw the two diferential bearings, using Service tool 18G 2. Knock back the locking plate tabs and remove the six set bolts securing the driving gear to the cage, which may now be separated after marking them to assist in refitting them in their original positions. Extract the differential gear and thrust washer from the bore of the driving gear.
 
@@ -20762,13 +19057,11 @@ Fig. F.8 With the left-hand drive cover fitted without its joint washer, measure
 
 
 ### Reassembling
-`mini_cooper_1976_en_c220d9fb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:665 | doc_type:owners_manual
 
 (10) Reverse the dismantling sequence, making sure that the gear thrust washers are refitted with their chamfered bores against the machined face of the differential gears, and that all parts are refitted in their original positions.
 
 
 ### Refitting
-`mini_cooper_1976_en_e45ab911` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:666 | doc_type:owners_manual
 
 (11) Place the differential assembly in the transmission casing with a slight bias towards the flywheel side. Refit the differential housing with its joint washers, and nip up the nuts suficiently to hold the bearings, yet still allowing the assembly to be moved sideways.
 
@@ -20791,7 +19084,6 @@ Fig. F.9 Top left: first motion shaft. Lower left: third speed mainshaft gear. T
 
 
 ### Dimensions
-`mini_cooper_1976_en_164f260d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:667 | doc_type:owners_manual
 
 Taper 2б150 in. (54б61 mm.) dia. at this line to gauge.   
 Taper 10 30, to be true and concentric with bore to 001 in. (025 mm.).   
@@ -20814,7 +19106,6 @@ N. Synchronizing cone to be heated in oil shrunk onto gear, and punched into hol
 
 
 ### SYNCHRONIZING CONES (Non-baulk-ring Transmission)
-`mini_cooper_1976_en_3fa6ae0e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:668 | doc_type:owners_manual
 
 Cones may be shrunk onto the second, third and fourth gears by heating in oil to 121 C. (250 F.) and quenching in cold water when in position.
 
@@ -20824,7 +19115,6 @@ MINI. Issue 1. 20189
 
 
 ### THE AUTOMATIC TRANSMISSION
-`mini_cooper_1976_en_fcc9b979` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:669 | doc_type:owners_manual
 
 #
 
@@ -20847,7 +19137,6 @@ Valve block .. . . . \*. Fa.4
 
 
 ### GENERAL DESCRIPTION
-`mini_cooper_1976_en_f74a4a53` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:670 | doc_type:owners_manual
 
 The automatic transmission incorporates a threeelement fuid torque converter witn a maximum torque conversion ratio of 2 : 1 coupled to a bevel gear train which provides four forward gears and reverse.
 
@@ -20863,7 +19152,6 @@ Complete manual control of all four forward gears by use of the selector lever p
 
 
 ### The hydraulic system
-`mini_cooper_1976_en_cd5bbe0a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:671 | doc_type:owners_manual
 
 Oil is drawn from the transmission casing through the main gauze strainer and pick-up pipe by the main oil pump which has a high potential output and serves both the engine lubrication and transmission systems with a common oil supply. The oil passes through drillings in the cylinder block and a pipe to the external full-fiow filter and thence to the valve block.
 
@@ -20877,7 +19165,6 @@ In the event of tow-starting the engine, an auxiliary oil pump of low capacity i
 
 
 ### The governor system
-`mini_cooper_1976_en_00509bd0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:672 | doc_type:owners_manual
 
 The governor is driven by the auxiliary pump gears and is of the spring-loaded mechanical type, with its bobweights mounted on short links. A rod linkage transfers the movement to the governor valve incorporated in the valve block chest.
 
@@ -20885,7 +19172,6 @@ A spring-loaded rod connected to the carburetter provides an over-ride device. T
 
 
 ### The torque converter
-`mini_cooper_1976_en_0ea0a620` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:673 | doc_type:owners_manual
 
 This is fitted onto a taper on the rear of the crankshaft. Basically it comprises three elements, i.e. an impeller, a turbine, and a stator, but it is only serviced as a unit.
 
@@ -20893,19 +19179,16 @@ There is a continuous supply of oil circulating through the unit; this assists i
 
 
 ### The brake bands and servos
-`mini_cooper_1976_en_21becb8e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:674 | doc_type:owners_manual
 
 Three brake bands are used. One is for reverse and the others provide second and third speed reactions. The clamping load is applied by three hydraulic servos in a common casing.
 
 
 ### The multi-disc clutches
-`mini_cooper_1976_en_7b2b312b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:675 | doc_type:owners_manual
 
 For forward motion a single-piston multi-disc clutch carries the drive and is engaged at all times during forward motion of the car. This forward clutch unit is fitted on one side of the final drive pinion and on the other side is a top and reverse clutch assembly which has a tandem piston arrangement. This feature is necessary because the clutch is also engaged for reverse and since a greater torque capacity is required in this case both pistons are pressurized.
 
 
 ### The valve block
-`mini_cooper_1976_en_9136ab4b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:676 | doc_type:owners_manual
 
 This assembly is constructed of three sections, i.e. the lid, valve chest, and pipe chest.
 
@@ -20923,13 +19206,11 @@ The tow-start valve short-circuits the auxiliary pump under all normal driving c
 
 
 ### The low-pressure valve
-`mini_cooper_1976_en_f5eea30e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:677 | doc_type:owners_manual
 
 This valve controls the pressure in the converter to 30 b./sq. in. (2б1 kg./cm.2). When the engine is stopped the valve is seated, preventing the converter draining. This avoids difficulties in checking the combined engine/ transmission oil level and prevents a noisy and inefficient converter when restarting the engine.
 
 
 ### The auxiliary pump
-`mini_cooper_1976_en_47ed606c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:678 | doc_type:owners_manual
 
 This unit is used for tow-starting. It is of limited capacity and is responsive to road speed only.
 
@@ -20945,7 +19226,6 @@ Engine oil feed. Top and reverse chutch. 1Auxiliary pump.
 
 
 ### POWER FLOW DIAGRAMS (MECHANICAL)
-`mini_cooper_1976_en_91f1e17d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:679 | doc_type:owners_manual
 
 The power fow diagrams indicate how the various ratios are obtained. Four speeds and reverse are provided and these are brought into
 
@@ -20953,13 +19233,11 @@ The power fow diagrams indicate how the various ratios are obtained. Four speeds
 
 
 ### NEUTRAL
-`mini_cooper_1976_en_6aa02c79` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:680 | doc_type:owners_manual
 
 disengaged, therefore there is no drive to the final drive pinion.
 
 
 ### KEY TO COMPONENTS
-`mini_cooper_1976_en_3e3d9a1c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:681 | doc_type:owners_manual
 
 н Crankshaft Conerter output gear.   
 Idler gear.   
@@ -20976,13 +19254,11 @@ FIRST
 
 
 ### FIRST SPEED
-`mini_cooper_1976_en_8db1003f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:682 | doc_type:owners_manual
 
 stationary, its reaction being controlled by the one-way clutch. The input bevel drives the planet wheels and the planet pinions drive the forward output pinion and shaft. Thus power is transferred through the planet assemblies to the mainshaft, forward clutch, and the output gear, providing a ratio of 2б69 : 1.
 
 
 ### SECOND SPEED
-`mini_cooper_1976_en_350d1d82` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:683 | doc_type:owners_manual
 
 As for all forward gears the forward clutch remains engaged, and in addition the second speed brake band applied. This controls the reaction which is imposed on the reverse drive bevel when in this ratio. With the planet cluster orbiting around the reverse drive bevel power is transmitted from the input bevel through the planets to the mainshaft
 
@@ -20990,7 +19266,6 @@ As for all forward gears the forward clutch remains engaged, and in addition the
 
 
 ### KEY TO COMPONENTS
-`mini_cooper_1976_en_aee9dbf1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:684 | doc_type:owners_manual
 
 н Crankshaft.   
 Converter output gear.   
@@ -21011,13 +19286,11 @@ Second gear band.
 
 
 ### THIRD SPEED
-`mini_cooper_1976_en_db37ddcb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:685 | doc_type:owners_manual
 
 For this ratio the third speed bevel wheel is held by its appropriate drum and brake band, and in this case the planet clusters orbit around this gear. Like second speed, power is transmitted from the input bevel through the planets to the mainshaft and in this case provides a ratio of 1б46 : 1.
 
 
 ### TOP SPEED
-`mini_cooper_1976_en_b821898c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:686 | doc_type:owners_manual
 
 In addition to the forward clutch, the top and reverse clutch is engaged. This in effect locks up
 
@@ -21025,13 +19298,11 @@ In addition to the forward clutch, the top and reverse clutch is engaged. This i
 
 
 ### KEY TO COMPONENTS
-`mini_cooper_1976_en_a21cae72` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:687 | doc_type:owners_manual
 
 ![](images/89f0dbe2c7b3e0c690c1bf8c80eb53e371cfa19fd72bfa7347cd13bb1d3e6fae.webp)
 
 
 ### REVERSE
-`mini_cooper_1976_en_6d2ec5b0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:688 | doc_type:owners_manual
 
 cause the reaction is in the opposite direction to first speed).
 
@@ -21043,13 +19314,11 @@ MINI. Issue 1. 4908
 
 
 ### LINE PRESSURE AND LUBRICATION DIAGRAMS
-`mini_cooper_1976_en_acf1852c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:689 | doc_type:owners_manual
 
 ![](images/116096c5084aa8966ca5f5d684b527647d72d7af885615c6086789dcc260ca9b.webp)
 
 
 ### KEY TO DIAGRAM
-`mini_cooper_1976_en_f673fe65` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:690 | doc_type:owners_manual
 
 Mane alye. Engine lubrication relief valve. Converter. Low pressure valve. Engine lubrication. Gea train ubrication. Engine lubrication. 0. Selector vale. 1. Selector valve detent.
 
@@ -21072,13 +19341,11 @@ Converter pressure.
 
 
 ### LINE PRESSURE AND LUBRICATION DIAGRAMS
-`mini_cooper_1976_en_6772458a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:691 | doc_type:owners_manual
 
 ![](images/a9347f868d916cd028411af5450065b24cfa9de4dc6a87dfec8efbdf375adf15.webp)
 
 
 ### KEY TO DIAGRAM
-`mini_cooper_1976_en_ba634360` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:692 | doc_type:owners_manual
 
 нт Main oil pump.   
 Oi ftr.   
@@ -21110,7 +19377,6 @@ FIRST GEAR MANUAL
 
 
 ### LINE PRESSURE AND LUBRICATION DIAGRAMS
-`mini_cooper_1976_en_84b27deb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:693 | doc_type:owners_manual
 
 ![](images/fb367045e290d6825fdde06c20e2567ec47ba988b8e6d88aeedc6f725865b6c8.webp)
 
@@ -21118,7 +19384,6 @@ FIRST GEAR MANUAL
 
 
 ### KEY TO DIAGRAM
-`mini_cooper_1976_en_028f32f7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:694 | doc_type:owners_manual
 
 ни Ma in eilpump.   
 Regulator valve.   
@@ -21147,13 +19412,11 @@ Converter pressure.
 
 
 ### LINE PRESSURE AND LUBRICATION DIAGRAMS
-`mini_cooper_1976_en_bc96c353` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:695 | doc_type:owners_manual
 
 ![](images/33b4c088ea56996c08f1c3324cf90eec587c3b995ea7697a9169f8445eddde08.webp)
 
 
 ### KEY TO DIAGRAM
-`mini_cooper_1976_en_dd1d2b30` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:696 | doc_type:owners_manual
 
 н Main oil pump.   
 Oil fiter.   
@@ -21180,13 +19443,11 @@ Line pressure. Lubrication. Exhaust. . Converter pressure. A6898
 
 
 ### LINE PRESSURE AND LUBRICATION DIAGRAMS
-`mini_cooper_1976_en_747a1fb3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:697 | doc_type:owners_manual
 
 ![](images/5e5ef3e7d4e45f6f82d758133df24b482eb904401ed0790a8fce90309ea71394.webp)
 
 
 ### KEY TO DIAGRAM
-`mini_cooper_1976_en_79a48a54` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:698 | doc_type:owners_manual
 
 Main oil pump.   
 i fter.   
@@ -21217,7 +19478,6 @@ TOP GEAR MANUAL
 
 
 ### LINE PRESSURE AND LUBRICATION DIAGRAMS
-`mini_cooper_1976_en_679195f4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:699 | doc_type:owners_manual
 
 ![](images/520051e79e5b79383c1466faa4a72086ca74bc9e8848178c44bfcd23e117e184.webp)
 
@@ -21225,7 +19485,6 @@ TOP GEAR MANUAL
 
 
 ### KEY TO DIAGRAM
-`mini_cooper_1976_en_f7c951ac` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:700 | doc_type:owners_manual
 
 1 Ma in eilpump.   
 Regulator valve.   
@@ -21251,7 +19510,6 @@ Fa.13
 
 
 ### Road test procedure
-`mini_cooper_1976_en_c3e86a17` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:701 | doc_type:owners_manual
 
 It is important to carry out a road test in all cases of suspected faults in order to confirm which component(s) of the automatic transmission are faulty or require adjustment.
 
@@ -21261,13 +19519,11 @@ Check the performance in all seven selector positions as given below:
 
 
 ### Neutral
-`mini_cooper_1976_en_7d830716` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:702 | doc_type:owners_manual
 
 Check that there is key start in this position only, and not in the drive positions.
 
 
 ### Manual 1
-`mini_cooper_1976_en_b07dc0d4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:703 | doc_type:owners_manual
 
 Confirm that there is drive with NO engine braking.
 
@@ -21279,7 +19535,6 @@ Check the speeds at which all up-and down-shifts are changing (these are detaile
 
 
 ### Reverse
-`mini_cooper_1976_en_8419179a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:704 | doc_type:owners_manual
 
 Confirm that there is drive WITH engine braking.
 
@@ -21293,7 +19548,6 @@ FAULT DIAGNOSIS
 
 
 ### DIAGNOSIS AND RECTIFICATION CHART
-`mini_cooper_1976_en_826bcbf5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:705 | doc_type:owners_manual
 
 ![](images/7c59d2206af94114e413d517476a6af14de8c2efddd8c165036b3820dde40bf9.webp)
 
@@ -21304,7 +19558,6 @@ The inhibitor switch on the gear-change lever housing. Inset, the 1 and 3, 2 and
 
 
 ### ADJUSTMENTS
-`mini_cooper_1976_en_75003851` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:706 | doc_type:owners_manual
 
 The switch is located on the rear of the gear selector housing (Fig. Fa.1).
 
@@ -21318,7 +19571,6 @@ Check the gear-change cable and selector rod adjustment before adjusting the inh
 
 
 ### Adjustment
-`mini_cooper_1976_en_7478eb6f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:707 | doc_type:owners_manual
 
 (1) Select 'N.   
 (2) Disconnect the electrical connections from the switch.   
@@ -21332,13 +19584,11 @@ NOTE.—If the switch cannot be adjusted to operate correctly it must be renewed
 
 
 ### Gear-change cable and selector rod
-`mini_cooper_1976_en_54c6fd87` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:708 | doc_type:owners_manual
 
 It is most important to carry out the adjustment procedure detailed below and refer to Fig. Fa.2.
 
 
 ### Adjustment
-`mini_cooper_1976_en_fb5c4267` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:709 | doc_type:owners_manual
 
 (7) Pull back the rubber boot (1) and remove clevis pin (2). Ensure that the selector rod (3) is screwed in tightly and push it ful into the transmission case. NOTE.—Never start the engine with the selector rod disconnected.   
 (8) Refit the clevis pin (2) into the selector rod yoke (4) and check the measurement given in Fig. Fa.2; adjust if necessary.
@@ -21368,7 +19618,6 @@ NOTE.—Ensure that the yoke ends on the selector cable and rod are square to th
 
 
 ### Testing adjustment
-`mini_cooper_1976_en_d6ba6ea4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:710 | doc_type:owners_manual
 
 (12) Apply the hand and foot brakes, and ensure that the starter operates only in the 'N' position; if this is not correct, adjust the inhibitor switch as detailed in items (1) to (6).
 
@@ -21389,7 +19638,6 @@ Fig. Fa.4 The oil level dipstick with the level markings shown inset
 
 
 ### Governor control rod adjustment
-`mini_cooper_1976_en_d39f1615` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:711 | doc_type:owners_manual
 
 (16) Run the engine to its normal working temperature.   
 (17) Disconnect the governor control rod at the carburetter.   
@@ -21400,7 +19648,6 @@ Fig. Fa.4 The oil level dipstick with the level markings shown inset
 
 
 ### Stall speed check
-`mini_cooper_1976_en_36928445` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:712 | doc_type:owners_manual
 
 (22) Start and run the engine until it reaches its normal working temperature and check the oil level.   
 (23) Connect a suitable tachometer or that of Service tool 18G 677 or 18G 677 Z (see Fig. Fa.5). Service tool electrical connections : 18G 677—Green to ignition coil CB. Red to battery positive. Black to battery negative. 18G 677 Z—Red to ignition coil CB. Black to earth connection.
@@ -21418,7 +19665,6 @@ Checking the pressures and the stall speed with Service tool 18G 677 and adaptor
 
 
 ### Pressure check
-`mini_cooper_1976_en_5240f4f3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:713 | doc_type:owners_manual
 
 (26) Check and top up the oil level (see Section Aa.1).   
 (27) Remove the pressure point plug on the engine oil filter, fit Service tool adaptor 18G 677 C, and connect Service tool 18G 677 Z (see Fig. Fa. 5) or use pressure gauge (Service tool 17G 502 A with pipe and adaptor 18G 502 K).   
@@ -21435,7 +19681,6 @@ NOTE.—Should the approximate pressures given above not be obtainable, see Sect
 
 
 ### TRANSMISSION UNIT
-`mini_cooper_1976_en_56905dc2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:714 | doc_type:owners_manual
 
 () Remove the engine and transmission from the car, see Section Aa.3.   
 (2a) Remove the transmission from the engine as detailed in Section Aa.4 only if fitting a replacement engine, transmission case, or if it is necessary to remove the main oil strainer pick-up pipe and seals.   
@@ -21508,7 +19753,6 @@ Using Service tool 18G 1095 to hold the top and reverse splines when removing th
 
 
 ### Reassembling the transmission unit
-`mini_cooper_1976_en_12cc2812` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:715 | doc_type:owners_manual
 
 Absolute cleanliness is essential, use fuel (petrol) or paraffin (kerosene) where necessary for cleaning. Dry the components with an air pressure line or use non-fluffy rag.
 
@@ -21614,7 +19858,6 @@ Fig. Fa.23The servo unit band adjustment
 
 
 ### Early models
-`mini_cooper_1976_en_626608f1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:716 | doc_type:owners_manual
 
 The valve block can be removed from the transmission unit with the power unit in situ by removing the unit as three individual sections.
 
@@ -21622,13 +19865,11 @@ It is necessary to clean thoroughly the area around the transmission front cover
 
 
 ### Later 848-c.c. and 998-c.c. models
-`mini_cooper_1976_en_43ff657a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:717 | doc_type:owners_manual
 
 The valve block assembly cannot be removed from the transmission unit with the power unit in situ but the lid and vaive chest can be removed for dismantling and cleaning. If it is necessary to examine and/or fit new seals to the valve block/servo unit interconnecting pipes or to remove the pipe chest, it is necessary to remove the power unit from the car and remove the converter and housing (see items (25) to (32) ).
 
 
 ### Removing (early models)
-`mini_cooper_1976_en_11ca9963` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:718 | doc_type:owners_manual
 
 ( Remove the front grille.   
 (2) Remove the filter assembly as detailed in Section Aa.2.   
@@ -21664,7 +19905,6 @@ Regulator valve. Third gear valve.
 
 
 ### Removing (later 848-c.c. and 998-c.c. models)
-`mini_cooper_1976_en_13ff3129` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:719 | doc_type:owners_manual
 
 (10) Carry out items (1), (2), and (4).   
 (11) Disconnect the engine oil feed pipe and remove the adaptor. Withdraw the valve block connecting pipe through the adaptor hole.   
@@ -21673,7 +19913,6 @@ Regulator valve. Third gear valve.
 
 
 ### Dismantling
-`mini_cooper_1976_en_fa2b3e43` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:720 | doc_type:owners_manual
 
 (14) Remove the lid and valve chest from the pipe chest (if removed as a unit), see Fig. Fa.25.   
 (15) Remove the selector and governor valves.   
@@ -21692,7 +19931,6 @@ The valve chest with the 'C' clips correctly positioned
 
 
 ### Inspecting
-`mini_cooper_1976_en_b499ccf6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:721 | doc_type:owners_manual
 
 Clean all parts thoroughly in clean fuel (petrol) or paraffin (kerosene) and dry off using an air pressure line.
 
@@ -21700,13 +19938,11 @@ Check for burrs on the valves and valve chest and for sticking valves. Place all
 
 
 ### Reassembling
-`mini_cooper_1976_en_d957ed19` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:722 | doc_type:owners_manual
 
 (20) Reassemble each valve assembly in the reverse order of dismantling (see Fig. Fa.26). Check that the 'C' clips and plugs are correctly located in the valve chest (see Fig. Fa.27).
 
 
 ### Refitting
-`mini_cooper_1976_en_0eb602ab` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:723 | doc_type:owners_manual
 
 (21) Refitting is a reversal of the removal procedure; take care to locate the selector valve with the linkage and the governor rod with the governor. The fat on the governor valve must face inwards. Tighten all securing bolts to the torque figures given in 'GENERAL DATA'.
 
@@ -21716,7 +19952,6 @@ Check for burrs on the valves and valve chest and for sticking valves. Place all
 
 
 ### Removing (later 848-c.c. and 998-c.c. models)
-`mini_cooper_1976_en_68eb501d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:724 | doc_type:owners_manual
 
 (25) Remove the engine/transmission unit from the car (Section Aa.3).   
 (26) Remove the converter cover, converter and converter housing as detailed in Section Aa.4, items (3) to (11).   
@@ -21753,7 +19988,6 @@ Move the servo unit in the opposite direction until the three pipes are clear of
 
 
 ### Fitting replacement unit
-`mini_cooper_1976_en_aeae9373` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:725 | doc_type:owners_manual
 
 (34) Remove the lid and valve chest from the pipe chest of the new unit. Refit these as individual components in the reverse order of the removing procedure, noting the following points:   
 (35) Fit the three bobbins into their locations in the transmission case.   
@@ -21765,7 +19999,6 @@ Move the servo unit in the opposite direction until the three pipes are clear of
 
 
 ### Removing
-`mini_cooper_1976_en_23b47ed7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:726 | doc_type:owners_manual
 
 (1) Remove the engine/transmission unit from the car as detailed in Section Aa.3.
 
@@ -21776,7 +20009,6 @@ MINI. Issue 2. 16495
 
 
 ### Dismantling
-`mini_cooper_1976_en_00919b2d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:727 | doc_type:owners_manual
 
 (4 Remove the speedometer drive assembly.   
 (5) Remove the set screws and bolt. Pull out the governor centre shaft, and lift away the governor assembly together with one of the auxiliary pump gears.   
@@ -21786,7 +20018,6 @@ MINI. Issue 2. 16495
 
 
 ### Reassembling
-`mini_cooper_1976_en_f1ea2ac3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:interior | p:728 | doc_type:owners_manual
 
 (9) Reassemble the auxiliary pump gear with its bimetal washer to the pump casing.   
 (10) Refit the governor auxiliary pump gear and circlip. Ensure that both gears are seating correctly and will rotate freely after assembly.   
@@ -21806,25 +20037,21 @@ Centralizing the pump and governor unit (1) with the end cover (2) using Service
 
 
 ### Refitting
-`mini_cooper_1976_en_664cc2db` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:729 | doc_type:owners_manual
 
 (14) Carry out the instructions given in Section Fa.3, items (36) and (38). NOTE. — See 'GENERAL DATA' for all torque figures.
 
 
 ### FORWARD CLUTCH
-`mini_cooper_1976_en_8bf0a09b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:730 | doc_type:owners_manual
 
 Two types of clutch assembly are in use; the earlier type having 47 teeth is shown in Fig. Fa.34. This unit is now replaced by the 30-tooth clutch as shown in Fig. Fa.35. The two clutch assemblies are not interchangeable; when a replacement unit is required only the identical unit to that removed must be fitted.
 
 
 ### Removing
-`mini_cooper_1976_en_ba28ff6f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:731 | doc_type:owners_manual
 
 (1) Carry out the operations given in Section Fa.3, items (), and (5) to (9).
 
 
 ### Dismantling
-`mini_cooper_1976_en_f6cafa45` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:732 | doc_type:owners_manual
 
 ( Remove the circlip. NOTE.—Mark the retainer plate and steel clutch plate to assist when reassembling.   
 (3) Remove the retainer plate and clutch plates (two paper, one steel).   
@@ -21842,13 +20069,11 @@ Forward clutch. Service tool 18G 1102. Forward clutch piston.
 
 
 ### Inspecting
-`mini_cooper_1976_en_14f5caf4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:733 | doc_type:owners_manual
 
 Check all parts for wear and renew if necessary. Check the reverse shut-off valve oil seals and renew if necessary.
 
 
 ### Reassembling
-`mini_cooper_1976_en_dc7bc1ef` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:734 | doc_type:owners_manual
 
 (Refit the reverse shut-off valve and fit a new circlip.
 
@@ -21878,26 +20103,22 @@ The fitted position of the toggles and springs of the 30-tooth clutch
 
 
 ### Refitting
-`mini_cooper_1976_en_18badaea` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:735 | doc_type:owners_manual
 
 (14) Carry out the operations given in Section Fa.3 items (28) and (34) to (38).   
 (15) Refit the governor linkage.
 
 
 ### GEAR TRAIN
-`mini_cooper_1976_en_b7e526c4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:736 | doc_type:owners_manual
 
 The gear train is accurately assembled with special equipment to obtain the correct backlash on the various gears and it is not possible to assemble this unit to factory standard without this special equipment. In the event of failure of any part of this unit a new complete gear train assembly must be fitted. The only washer in the gear train which can be renewed is the forward output gear bi-metal washer (8) (see Fig. Fa.42); this is not a selective size washer.
 
 
 ### Removing
-`mini_cooper_1976_en_96d1a783` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:737 | doc_type:owners_manual
 
 (1) Carry out the operations given in Section Fa.3, items (1) to (2b) and (12).
 
 
 ### Dismantling
-`mini_cooper_1976_en_b565c979` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:738 | doc_type:owners_manual
 
 () Remove the top and reverse clutch. NOTE.—For top and reverse clutch_dismantling and reassembling see Section Fa.10.   
 (3) Remove the thrust race and washers_(Fig. Fa.37).
@@ -21907,7 +20128,6 @@ Fig. Fa.37
 
 
 ### Removing the top and reverse clutch
-`mini_cooper_1976_en_23e65066` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:739 | doc_type:owners_manual
 
 ![](images/f10d9ce72d5ebc47fcd18006da5756f181e298e2c573d0242b3a2371d23e0f06.webp)  
 Fig. Fa.38
@@ -21933,7 +20153,6 @@ Removing the input gear (1), the first gear free-wheel reaction member (2), and 
 
 
 ### Dismantling gear train (later-type)
-`mini_cooper_1976_en_7e97898c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:740 | doc_type:owners_manual
 
 (9) Remove the spindle end cover circlips and covers; remove the small locking circlip and unscrew the spindle locking screws.   
 (10 Hold the unit on its side until the locking ball rolls out from the hole in the planetary gear spindle, Repeat this operation on the other side.   
@@ -21945,7 +20164,6 @@ Removing the input gear (1), the first gear free-wheel reaction member (2), and 
 
 
 ### Dismantling gear train (early-type)
-`mini_cooper_1976_en_701a46a1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:741 | doc_type:owners_manual
 
 (16) Check the markings on the carrier and the bearing caps, i.e. marked NIL or with the letter 'O. These are reference marks to fitting dimensions and the caps must be refitted in their original positions as indicated by the markings on reassembly of the unit.   
 (17) Knock back the locking tabs and remove the bearing cap boits and the strap securing bolts. Lift out the forward output gear, reverse output gear, and the pinions.   
@@ -21957,7 +20175,6 @@ Fig. Fa.40
 
 
 ### Removing the one-way clutch and the input gear with its Torrington needle thrust bearing and washer
-`mini_cooper_1976_en_cbc9590b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:742 | doc_type:owners_manual
 
 ![](images/3d90f9f2e2721c0737ef99c6bb07c69190ae0466ffc843bc74206b6fdbf5d327.webp)  
 Fig. Fa.41
@@ -21966,7 +20183,6 @@ Removing the forward and reverse output gears, and the planetary gears from the 
 
 
 ### Inspecting
-`mini_cooper_1976_en_dd316bbe` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:743 | doc_type:owners_manual
 
 Clean and examine all parts for wear. Fit a new bimetal washer to the forward output gear if required and renew if necessary the Torrington needle-thrust races.
 
@@ -21976,7 +20192,6 @@ NOTE.—Use petroleum jelly when reassembling to secure the various thrust washe
 
 
 ### Reassembling gear train (later-type)
-`mini_cooper_1976_en_854c1e77` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:744 | doc_type:owners_manual
 
 (20Assemble the forward output gear with its bi-metal washer and the -004 in. (б10 mm.) shim (if fitted) interposed between the bi-metal washer and the carrier (see Fig. Fa.44). Assemble the reverse output gear with its Torrington needle thrust bearing and steel washer.   
 (21) Insert Service tool 18G 1093 A through the forward output gear and the assembly to ensure correct alignment.   
@@ -22044,7 +20259,6 @@ Selective Washer Sizes Part Nos.
 
 
 ### Reassembling gear train (early-type)
-`mini_cooper_1976_en_fccca08c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:745 | doc_type:owners_manual
 
 (33) Carry out items (20) to (23) with the following exceptions: Refer to Fig. Fa.42, and use Service tool 18G 1093 when reassembling this early-type gear train.   
 (34) Refit the bearings caps to their respective positions (see markings) and using new locking plates, refit and tighten the bearing cap and carrier bolts to the torque figure given in 'GENERAL DATA'.
@@ -22059,7 +20273,6 @@ Fig. Fa.48
 
 
 ### Refitting the top and reverse clutch
-`mini_cooper_1976_en_8065ed91` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:746 | doc_type:owners_manual
 
 1. Torrington needle thrust 4. Thrust washer. bearining. 5. Torrington needle thrust 2. Thrust washers. bearing. 3. Top and reverse clutch. 6. Selective washer.
 
@@ -22074,21 +20287,18 @@ Gap Washer required 000 to б0035 in. (-000 to 08 mm.) б1185 in. (3 mm.) б0035
 
 
 ### Refitting
-`mini_cooper_1976_en_b18a9bda` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:747 | doc_type:owners_manual
 
 (37) Carry out the operations given in Section Fa.3, items (40) and (41). The remainder is a reversal of the removal procedure.   
 (38Refit the power unit to the car as detailed in Section Aa.3.
 
 
 ### Removing
-`mini_cooper_1976_en_68f92905` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:748 | doc_type:owners_manual
 
 (1) Carry out the operations given in Section Fa.3 items (1) to (13).   
 (2) Remove the servo unit from the valve block assembly.
 
 
 ### Dismantling
-`mini_cooper_1976_en_128f47f0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:749 | doc_type:owners_manual
 
 (3) Remove the centre shaft and lift out the servo levers, reaction levers, washers, and struts.
 
@@ -22103,7 +20313,6 @@ Checking that the end of the reverse output shaft (1) is level with the internal
 
 
 ### Inspecting
-`mini_cooper_1976_en_41ee2800` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:750 | doc_type:owners_manual
 
 Check all parts for wear and renew if necessary.
 
@@ -22117,7 +20326,6 @@ Fig. Fa.51The servo unit components
 
 
 ### Reassembling
-`mini_cooper_1976_en_5d58ce36` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:751 | doc_type:owners_manual
 
 ( Lubricate the seals and fit the pistons into the correct bores (lips of seals facing downwards).   
 ( Assemble the springs and cover.   
@@ -22136,13 +20344,11 @@ The brake band and struts correctly positioned
 
 
 ### Refitting
-`mini_cooper_1976_en_455d0001` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:752 | doc_type:owners_manual
 
 (11) Carry out the operations detailed in Section Fa.3, items (30) to (44), (48), and (49).
 
 
 ### Removing
-`mini_cooper_1976_en_733eeb18` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:753 | doc_type:owners_manual
 
 (1) Remove the engine and transmission from the car (see Section Aa.3).   
 (2) Drain the engine/transmission unit.   
@@ -22154,7 +20360,6 @@ The brake band and struts correctly positioned
 
 
 ### Dismantling
-`mini_cooper_1976_en_34ed93cf` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:754 | doc_type:owners_manual
 
 ( Remove the differential unit from its casing. ( Withdraw the oil seal housing, remove the bearings using Service tool 18G 2.
 
@@ -22169,7 +20374,6 @@ The differential components with the arrow indicating the alignment slot in the 
 
 
 ### Inspection
-`mini_cooper_1976_en_b8dfeb4e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:755 | doc_type:owners_manual
 
 Clean and examine the components for wear and fit new parts as necessary.
 
@@ -22181,13 +20385,11 @@ Absolute cleanliness is essential.
 
 
 ### Reassembling
-`mini_cooper_1976_en_deb19fb7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:756 | doc_type:owners_manual
 
 (13) Reassembly is a reversal of the dismantling procedure. Make sure that the differential gear thrust washers are refitted with their chamfered bores against the machined faces of the differential gears. Refit all components in their original positions.
 
 
 ### Refitting
-`mini_cooper_1976_en_51579ef3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:757 | doc_type:owners_manual
 
 (14) Refit the differential unit into the transmission case and push the assembly towards the converter, with the slot in the spacer in alignment with the dowel in the transmission case (Fig. Fa.54). Fit a new joint washer coated with Hylomar jointing compound. Ensure that the oil seal is pressed squarely against the face of the spacer and refit the differential housing, fit new locking plates, and lightly tighten the securing nuts.
 
@@ -22205,7 +20407,6 @@ Example: If the feeler gauge measurement is б005 in. (127 mm.), add a shim of 0
 
 
 ### Adjustment
-`mini_cooper_1976_en_41d1075e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:758 | doc_type:owners_manual
 
 (15 Refit the end cover without a joint washer but with the original adjustment shims, tighten the cover bolts evenly and sufficiently only for the cover register to nip the bearing outer race; overtightening will distort the flange.
 
@@ -22213,7 +20414,6 @@ MINI. Issue 2. 16495
 
 
 ### Removing
-`mini_cooper_1976_en_ceeb44f3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:759 | doc_type:owners_manual
 
 (1) Carry out the operations given in Section Fa.3, items (1), (2b), and (12).
 
@@ -22224,7 +20424,6 @@ Fig. Fa.55The top and reverse clutch components
 
 
 ### Dismantling
-`mini_cooper_1976_en_49a897b8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:760 | doc_type:owners_manual
 
 () Remove the double spring circlip.   
 (4 Remove the retainer plate.   
@@ -22236,7 +20435,6 @@ Fig. Fa.55The top and reverse clutch components
 
 
 ### Inspecting
-`mini_cooper_1976_en_bc319f90` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:761 | doc_type:owners_manual
 
 Check all parts for wear and renew if necessary. Renew the oil seals in the pistons. Check the piston ring gap which must be 016 to б020 in. (б4 mm. to б51 mm.), for both rings when fitted in their respective bores.
 
@@ -22249,7 +20447,6 @@ Fig. Fa.56
 
 
 ### Reassembling
-`mini_cooper_1976_en_6dcf30ba` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:762 | doc_type:owners_manual
 
 (10) Refit the reverse gear booster piston with the boss facing outwards, using Service too0l 18G 1103 (see Fig. Fa.56).
 
@@ -22267,14 +20464,12 @@ NOTE.—Before refitting the clutch unit, ensure that the friction plates are fr
 
 
 ### Refitting
-`mini_cooper_1976_en_a7a7dad7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:763 | doc_type:owners_manual
 
 (16) Carry out the operations given in Section Fa.7, items (31) and (32).   
 (17) The remainder is a reversal of the removal procedure.
 
 
 ### Removing
-`mini_cooper_1976_en_53f20dca` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:764 | doc_type:owners_manual
 
 (1) Carry out the operation given in Section Fa.3, items (1), (2b), and (12).   
 ( Remove the first gear free-wheel reaction member.   
@@ -22282,7 +20477,6 @@ NOTE.—Before refitting the clutch unit, ensure that the friction plates are fr
 
 
 ### Dismantling
-`mini_cooper_1976_en_4294729c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:765 | doc_type:owners_manual
 
 () Remove the circlip.   
 (5) Lift out the spring ring, first gear free-wheel, intermediate spring ring, and thrust bearing (see Fig. Fa.58).
@@ -22296,25 +20490,21 @@ MINI. Issue 2. 16495
 
 
 ### Inspecting
-`mini_cooper_1976_en_8e96651c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:766 | doc_type:owners_manual
 
 Check all parts for wear and renew if necessary.
 
 
 ### Reassembling
-`mini_cooper_1976_en_f5266d78` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:767 | doc_type:owners_manual
 
 (6 Reassemble the thrust bearing, intermediate spring ring, first gear free-wheel (lip facing outwards, see Fig. Fa.59), spring ring, and refit the circlip.
 
 
 ### Refitting
-`mini_cooper_1976_en_2bde31b2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:768 | doc_type:owners_manual
 
 (7 Refitting is a reversal of the removing procedure.
 
 
 ### Removing
-`mini_cooper_1976_en_a948669e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:769 | doc_type:owners_manual
 
 (1) Remove the weather protection cover (if fitted) from the converter housing. Pull back the rubber sleeve and disconnect the gear-change cable by removing the clevis pin. Slacken the yoke clamp nut and remove the yoke, nut, rubber ferrules, and sleeve (see Fig. Fa.60). Remove the adjusting nuts from the outer cable and pull the cable clear of the transmission.   
 ( Release the cable clip from the foor panel.   
@@ -22340,13 +20530,11 @@ Cable sleeve. 8. Quadrant. 12. Inhibitor switch.
 
 
 ### Inspecting
-`mini_cooper_1976_en_24e25a44` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:770 | doc_type:owners_manual
 
 ( Clean and inspect moving parts for wear.
 
 
 ### Dismantling
-`mini_cooper_1976_en_fdb9e3f5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:771 | doc_type:owners_manual
 
 (6) Hold the assembly in a vice and remove the set screws securing the quadrant to the housing. Release the reverse return spring from the base of the housing and remove the quadrant and lever assembly.   
 (7) Unscrew the cable securing nuts from the front of the housing, pull the cable from the housing and release it from the gear change lever plunger.
@@ -22355,13 +20543,11 @@ Cable sleeve. 8. Quadrant. 12. Inhibitor switch.
 
 
 ### Refitting
-`mini_cooper_1976_en_ad9b63a4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:772 | doc_type:owners_manual
 
 (11) Refitting is a reversal of the removing procedure. (12) Adjust the inhibitor switch and the gear change cable and selector rod as detailed in Section Fa.2.
 
 
 ### SECTION G THE DRIVE SHAFTS
-`mini_cooper_1976_en_9ebb0cbe` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:773 | doc_type:owners_manual
 
 General description
 
@@ -22376,7 +20562,6 @@ Universal joint overhaul . \* G.4
 
 
 ### GENERAL DESCRIPTION
-`mini_cooper_1976_en_d4c595aa` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:interior | p:774 | doc_type:owners_manual
 
 Each of the two drive shafts employed has two principle members incorporating a Hardy Spicer constantvelocity bell joint. The hemispherical interior of the bell joint and the exterior of the inner ball race have six grooves machined in line with the shaft axis, and a ball .cage carrying six steel balls is interposed betwen the two. The steel balls engage the grooves of both members to key them together and at the same time allow the members to hinge freely upon each other.
 
@@ -22384,7 +20569,6 @@ The joint is packed with special grease and the unit is enclosed in a sealed rub
 
 
 ### Removing
-`mini_cooper_1976_en_0779aa30` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:775 | doc_type:owners_manual
 
 To remove the drive shaft assembly from the vehicle follow the remioving instrictions given for swivel hubs in Section K.2. ..
 
@@ -22398,7 +20582,6 @@ To fit a new boot the drive shaft must be removed from the vehicle.
 
 
 ### Constant-velocity (bell) joint
-`mini_cooper_1976_en_b2893249` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:776 | doc_type:owners_manual
 
 The bell joint can be removed from the drive shaft for dismantling and inspection of the components.
 
@@ -22412,7 +20595,6 @@ On later models.the sliding joint is prepacked with oz. (21 gm.) of Duckham's M.
 
 
 ### Dismantling the shaft assembly
-`mini_cooper_1976_en_3da5888a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:777 | doc_type:owners_manual
 
 () Clean the shaft of road dirt and grease and mount the shaft centrally in a vice fitted with soft jaws.   
 (2) Prise off the boot and housing seal clips or cut the soft iron wire, turn back the housing seal and slide off the joint flange. Remove the housing seal and the rubber boot, if they are worn or damaged, replacements must be fitted on reassembly.   
@@ -22424,7 +20606,6 @@ Fig. G.1 Drive the bell joint from the shaft at the point indicated MINI. Issue 
 
 
 ### Dismantling the joint
-`mini_cooper_1976_en_7b87a967` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:778 | doc_type:owners_manual
 
 (5) The joint should be dismantled only if there is reason to believe that it is still serviceable.   
 (6) As the components are mated and have operated together, they must be kept in the same mating relationship. The relative positions of the inner and outer races and the cage should be marked with blue marker or a paint which will not wash off when the parts are cleaned.   
@@ -22439,7 +20620,6 @@ Removing the cage and inner race assembly, from the bell joint
 
 
 ### Inspecting
-`mini_cooper_1976_en_900e478d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:779 | doc_type:owners_manual
 
 (10) Clean all parts thoroughly in petrol (fuel), paraffin (kerosene), or white spirit and dry off. In normal service, wear should be distributed fairly evenly over all components and the joint will remain serviceable until the amount of end-float exceeds the acceptable wear maximum of -025 in. (б64 mm.).
 
@@ -22458,7 +20638,6 @@ MINI. Issue 1. 4908
 
 
 ### Replacing the ball cage
-`mini_cooper_1976_en_65c772e6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:780 | doc_type:owners_manual
 
 The majority of cages used in the original assembly are of a standard size, although on some shafts two other non-standard oversize cages have also been used, and all three may be encountered in Service.
 
@@ -22482,7 +20661,6 @@ If the inner race passes through the gauge, but the cage will not pass through, 
 
 
 ### Reassembling the joint
-`mini_cooper_1976_en_d05b8a93` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:781 | doc_type:owners_manual
 
 (16) This is an exact reversal of the dismantling procedure. All components should be lightly lubricated with Duckham's M-B grease (BMC pack AKF 1457. The components should go together easily and no force should be required.
 
@@ -22496,7 +20674,6 @@ If the inner race passes through the gauge, but the cage will not pass through, 
 
 
 ### Assembling the shaft to the joint
-`mini_cooper_1976_en_860c801d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:782 | doc_type:owners_manual
 
 (24) Replace the round-section spring ring with a new one (Fig. G.5). If replacing the shaft, fit a new circlip.
 
@@ -22526,7 +20703,6 @@ The lower arm pivot pin. The measurement at the position indicated must be -312 
 
 
 ### Refitting
-`mini_cooper_1976_en_32422bec` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:783 | doc_type:owners_manual
 
 (28) Refitting is a reversal of the removing procedure given in Section K.2.
 
@@ -22534,7 +20710,6 @@ The lower arm pivot pin. The measurement at the position indicated must be -312 
 
 
 ### Removing
-`mini_cooper_1976_en_935905a8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:784 | doc_type:owners_manual
 
 (1) Jack up the front of the vehicle, place supports under the sub-frame and remove the road wheel.   
 (2) Remove the upper and lower swivel hub ball pin retaining nuts and release the ball pins from the suspension arms using Service tool 18G 1063.   
@@ -22552,7 +20727,6 @@ Needle bearing race. 4. Journal spider.
 
 
 ### Refitting
-`mini_cooper_1976_en_ba188b70` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:785 | doc_type:owners_manual
 
 (5) Before refitting, check that the coupling 'U' bolts will easily engage the drive shaft yoke. If they have opened, squeeze both threaded ends together in a soft jawed vice until they are in alignment. NOTE.—When reassembling, fit new 'U' bolt nuts.   
 (6) Fit the new coupling to the final drive yoke.   
@@ -22563,13 +20737,11 @@ Needle bearing race. 4. Journal spider.
 
 
 ### Removing
-`mini_cooper_1976_en_6a2782cc` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:786 | doc_type:owners_manual
 
 (1Remove the drive shaft and swivel hub assembly as detailed in Section K.2, operations (1) to (7). (2) Remove the clinching clip securing the yoke housing seal to the drive shaft and pull the yoke housing assembly off the drive shaft splines.
 
 
 ### Dismantling
-`mini_cooper_1976_en_63442d1f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:787 | doc_type:owners_manual
 
 (3) Clean the universal joint assembly.   
 (4 Remove the bearing retaining clips with a pair of thin-nosed pliers and prise them out with a screwdriver. If a retaining clip cannot be removed easily, tap the end of the bearing race to relieve pressure on the clip.   
@@ -22581,7 +20753,6 @@ Needle bearing race. 4. Journal spider.
 
 
 ### Inspecting
-`mini_cooper_1976_en_d15d4e29` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:788 | doc_type:owners_manual
 
 10Wash all parts thoroughly in a cleaning fuid.
 
@@ -22589,7 +20760,6 @@ Needle bearing race. 4. Journal spider.
 
 
 ### Reassembling
-`mini_cooper_1976_en_adb8b00a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:789 | doc_type:owners_manual
 
 (12) Ensure that each bearing race has a complete set of needle rollers, smear the inside walls of the races and needle roller bearings with grease, with a  in. (3 mm.) depth of grease in the end of each race.
 
@@ -22612,14 +20782,12 @@ Rubber seal. Bearing race. Retaining circlip.
 
 
 ### Refitting
-`mini_cooper_1976_en_a08ba478` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:790 | doc_type:owners_manual
 
 (18) Fit a new rubber boot and refill it with the recommended grease as detailed in operation (27) of Section G.2.   
 (19) Refit the drive shaft to the swivel hub and reassemble the complete assembly to the vehicle as detailed in operations (19) to (24) of Section K.2.
 
 
 ### THE REAR SUSPENSION
-`mini_cooper_1976_en_0350103e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:791 | doc_type:owners_manual
 
 Section   
 Hubs .. H.5   
@@ -22636,7 +20804,6 @@ Fig. H.1 The rear sub-frame assembly (rubber suspension)
 
 
 ### Removing
-`mini_cooper_1976_en_ce2f4675` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:792 | doc_type:owners_manual
 
 ( Disconnect the battery.   
 ( Remove the exhaust pipe (Section A.3).   
@@ -22649,7 +20816,6 @@ Fig. H.1 The rear sub-frame assembly (rubber suspension)
 
 
 ### Removing
-`mini_cooper_1976_en_bd0721a3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:794 | doc_type:owners_manual
 
 (1 Release the rear damper(s) as in Section L.1.   
 (2) Raise the car and support it under the sub-frame side-member.   
@@ -22662,7 +20828,6 @@ Fig. H.1 The rear sub-frame assembly (rubber suspension)
 
 
 ### Dismantling and overhauling
-`mini_cooper_1976_en_96b13289` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:795 | doc_type:owners_manual
 
 (9) Slide the dust seal and washer from the ends of the pivot.   
 (10 If new bearings are necessary, withdraw the outer bronze bush with Service tool 18G 585 and fit the new bush with Service tool 18G 584.   
@@ -22672,7 +20837,6 @@ Fig. H.1 The rear sub-frame assembly (rubber suspension)
 
 
 ### Refitting
-`mini_cooper_1976_en_360e9e62` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:796 | doc_type:owners_manual
 
 (14) Reverse the removal instructions, but note:   
 (15) Refers to item (5). Repack the nylon cup and dust seal with Dextragrease Super G.P. Lip the dust seal over the edge of the cup.
@@ -22684,7 +20848,6 @@ Extract the strut from the spring unit and pull it rearwards to disengage the ba
 
 
 ### SPRING UNITS
-`mini_cooper_1976_en_4bcf5f26` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:797 | doc_type:owners_manual
 
 (1) Carry out instructions (1) to (3) and (5) in Section H.2.   
 ( Remove the spring unit.   
@@ -22692,20 +20855,17 @@ Extract the strut from the spring unit and pull it rearwards to disengage the ba
 
 
 ### Reftting
-`mini_cooper_1976_en_89af2dce` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:798 | doc_type:owners_manual
 
 (4)Reverse the removing instructions, but note:   
 (5) Make sure that the spring unit and spring strut are correctly located in their spigots while the radius arm is being raised to connect the upper end of the damper.
 
 
 ### Removing
-`mini_cooper_1976_en_84770c55` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:799 | doc_type:owners_manual
 
 (1 Jack up the car at a point near the bumper and the rear body panel.
 
 
 ### Front
-`mini_cooper_1976_en_8a9512b3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:800 | doc_type:owners_manual
 
 () Remove the radius arm (Section H.2).   
 ()Unscrew and remove the nut securing the mounting support pin to the sub-frame (Fig. H.3). Withdraw the mounting block to body screws. Prise the body and sub-frame apart sufficiently to allow the support pin, blocks, and rubbers to be extracted.
@@ -22714,7 +20874,6 @@ MINI. Issue 1. 4908
 
 
 ### Rear
-`mini_cooper_1976_en_90a3293d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:801 | doc_type:owners_manual
 
 (4) Jack up the car at a point between the bumper and the rear body panel.   
 ( Withdraw the mounting block to body screws and remove the nut from the end of the mounting support pin.   
@@ -22722,13 +20881,11 @@ MINI. Issue 1. 4908
 
 
 ### Refitting
-`mini_cooper_1976_en_1f437624` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:802 | doc_type:owners_manual
 
 (7) Reverse the removing instructions. Insert the mounting block to body screws before tightening the support pin nut.
 
 
 ### Removing
-`mini_cooper_1976_en_16140405` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:803 | doc_type:owners_manual
 
 () Jack up the car and remove the road wheel and the brake-drum.   
 (Prise off the hub cap.   
@@ -22742,19 +20899,16 @@ Removing the rear sub-frame front mounting support pin assembly
 
 
 ### Dismantling
-`mini_cooper_1976_en_b9ae2cc2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:804 | doc_type:owners_manual
 
 (Drift the inner races of both bearings from the hub. ( Remove the seal. (7) Extract the outer bearing races with Service tool 18G 260 and adaptor 18G 260 C.
 
 
 ### Reassembling
-`mini_cooper_1976_en_18cb8638` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:805 | doc_type:owners_manual
 
 (8) Reverse the dismantling instructions and pack the bearings only with grease.
 
 
 ### Refitting
-`mini_cooper_1976_en_99481358` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:806 | doc_type:owners_manual
 
 () Reverse the removing instructions, taking care to fit the chamfered bore of the thrust washer on the stub shaft towards the bearing.
 
@@ -22765,7 +20919,6 @@ The rear radius arm, showing a section through the hub assembly
 
 
 ### HYDROLASTIC SUSPENSION
-`mini_cooper_1976_en_6c5d7089` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:807 | doc_type:owners_manual
 
 The system consists of two front and two rear displacer units intercoupled longitudinally. Each is made of sheet steel and rubber and consists of a piston, a diaphragm, a lower and upper chamber housing, and a conical spring of compressed rubber.
 
@@ -22781,7 +20934,6 @@ The rear suspension, in addition to the Hydrolastic units, consists of independe
 
 
 ### DEPRESSURIZING, EVACUATING, AND PRESSURIZING THE HYDROLASTIC SYSTEM
-`mini_cooper_1976_en_0093eb66` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:808 | doc_type:owners_manual
 
 Before any major work can be carried out on the suspension and its components the Hydrolastic system must be depressurized and in some cases evacuated. For this operation Service equipment Part No. 18G 703 or 18G 682 must be connected to the pressure valves on the rear sub-frame.
 
@@ -22798,7 +20950,6 @@ The vacuum and pressure valves are identified by number or colour; vacuum (1) ye
 
 
 ### Depressurizing
-`mini_cooper_1976_en_bc489f25` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:809 | doc_type:owners_manual
 
 (1) Remove the pressure valve dust cap and connect the black connector to the valve with the knurled knob unscrewed.   
 (2) Open the black valve (valve 2) and screw in the knurled knob to release the fluid from the suspension system into the unit's pressure tank.   
@@ -22808,7 +20959,6 @@ The vacuum and pressure valves are identified by number or colour; vacuum (1) ye
 
 
 ### Evacuating
-`mini_cooper_1976_en_4afc2554` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:810 | doc_type:owners_manual
 
 After fitting new interconnecting pipes or displacer units it is essential that the air is evacuated from the system and a partial vacuum created. Service equipment 18G 703 or 18G 682 must be used for this purpose as follows:
 
@@ -22840,7 +20990,6 @@ The suspension service unit connectors
 
 
 ### Pressurizing
-`mini_cooper_1976_en_0e17b826` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:811 | doc_type:owners_manual
 
 Having carried out repairs and evacuated to ensure that all air is out of system, the pressurization should be carried out as follows with the car in the condition given in Section H.9 and resting on allfour wheels.
 
@@ -22857,13 +21006,11 @@ Having carried out repairs and evacuated to ensure that all air is out of system
 
 
 ### Servicing unit maintenance
-`mini_cooper_1976_en_4d547430` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:812 | doc_type:owners_manual
 
 Should the service equipment be used continuously, it may be necessary to carry out the following maintenance.
 
 
 ### Service tool 18G 682
-`mini_cooper_1976_en_078e31a9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:813 | doc_type:owners_manual
 
 (21) Remove the front panel.   
 (22) Remove the drain plug from the vacuum pump, drain the fluid.   
@@ -22872,14 +21019,12 @@ Should the service equipment be used continuously, it may be necessary to carry 
 
 
 ### Service tool 18G 703
-`mini_cooper_1976_en_001396db` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:814 | doc_type:owners_manual
 
 (25) Remove the front panel and fll the vacuum pump with recommended vacuum oil S.A.E. 10 through the filler hole in the top of the pump. Fill only when the level is at the end of its downward stroke.   
 (26) Lubricate the service unit mechanism periodically. IMPORTANT.—When the equipment is not in use both valves should be left open.
 
 
 ### Removal
-`mini_cooper_1976_en_4cbb9653` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:815 | doc_type:owners_manual
 
 (1 Remove the road wheel and release the helper spring from the radius arm.   
 (2) Raise the car and support it beneath the sub-frame member.
@@ -22898,7 +21043,6 @@ Displacer unit. Locating plate. Locating lugs. Sub-frame. MINI. Issue 1. 4908
 
 
 ### Refitting
-`mini_cooper_1976_en_e4fd69d0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:816 | doc_type:owners_manual
 
 ( Reverse the removal instructions.   
 (8) Rotate the displacer clockwise to lock it into the registers on the locating plate.   
@@ -22907,7 +21051,6 @@ Displacer unit. Locating plate. Locating lugs. Sub-frame. MINI. Issue 1. 4908
 
 
 ### SUSPENSION PRESSURE AND WING HEIGHTS
-`mini_cooper_1976_en_85b2bf1f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:817 | doc_type:owners_manual
 
 ![](images/e3dc20b6bd8b137a279915957fd3685f886201c3c833736369a4cde8790352f0.webp)  
 CONDITION OF CAR
@@ -22926,13 +21069,11 @@ MINI. Issue 1. 4908
 
 
 ### Commencing car numbers:
-`mini_cooper_1976_en_7bbd8928` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:818 | doc_type:owners_manual
 
 ![](images/f9be033c7d348e08386a1ce4ff45ff08342efcffc2483d323f1af9696c00da2f.webp)
 
 
 ### To check and adjust pressures
-`mini_cooper_1976_en_9130d4a5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:819 | doc_type:owners_manual
 
 (1 Ensure that the car is resting on all four wheels and that the load condition is as described above.
 
@@ -22944,7 +21085,6 @@ Fit the connector to the suspension unit interconnecting valve and operate the h
 
 
 ### Checking wing heights
-`mini_cooper_1976_en_cda6e199` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:820 | doc_type:owners_manual
 
 (4Ensure that the load condition is as described above.   
 (5) Measure the wing heights as illustrated.
@@ -22964,7 +21104,6 @@ Dismantling is described in Section H.2.
 
 
 ### Refitting
-`mini_cooper_1976_en_db34d4e9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:821 | doc_type:owners_manual
 
 (10) Reverse the removing instructions.   
 (11) Lubricate the strut ball end and the nylon seat with Dextragrease Super G.P. and make sure the dust seal is fitted over the lip of the nylon cup.   
@@ -22973,7 +21112,6 @@ Dismantling is described in Section H.2.
 
 
 ### SUB-FRAME (Hydrolastic Suspension)
-`mini_cooper_1976_en_2c6754f2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:822 | doc_type:owners_manual
 
 Remove and refit the sub-frame as in Section H.1, with the following additional operations:
 
@@ -22984,7 +21122,6 @@ Remove and refit the sub-frame as in Section H.1, with the following additional 
 
 
 ### Removing
-`mini_cooper_1976_en_474612c6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:823 | doc_type:owners_manual
 
 (1) Depressurize the Hydrolastic system (see Section H.7).
 
@@ -22992,7 +21129,6 @@ H.8
 
 
 ### SUB-FRAME(Moke)
-`mini_cooper_1976_en_6ba76090` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:824 | doc_type:owners_manual
 
 Remove and refit the sub-frame as in Section H.1 with the following exceptions:
 
@@ -23004,7 +21140,6 @@ MINI. Issue 1. 4908
 
 
 ### Section H.13
-`mini_cooper_1976_en_d5906dcf` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:825 | doc_type:owners_manual
 
 RADIUS ARMS(Moke)
 
@@ -23014,7 +21149,6 @@ Fuel tank and pump removal not necessary.
 
 
 ### SCHRADER VALVE EXTENSION HOUSING (Hydrolastic Suspension)
-`mini_cooper_1976_en_f861de85` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:826 | doc_type:owners_manual
 
 To rectify fuid leakage from the Schrader valve extension housing to the pipe elbow:
 
@@ -23027,7 +21161,6 @@ To rectify fuid leakage from the Schrader valve extension housing to the pipe el
 
 
 ### THE STEERING
-`mini_cooper_1976_en_cd2cbcc5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:steering | p:827 | doc_type:owners_manual
 
 #
 
@@ -23041,7 +21174,6 @@ Steering-wheel . . J.1
 
 
 ### Removal
-`mini_cooper_1976_en_0e1c3831` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:828 | doc_type:owners_manual
 
 (1) Disconnect the battery.   
 (Early models. Withdraw the grub screw in the wheel hub and lift up the horn switch.   
@@ -23050,13 +21182,11 @@ Steering-wheel . . J.1
 
 
 ### Refitting
-`mini_cooper_1976_en_781f0139` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:829 | doc_type:owners_manual
 
 Reverse the above removing instructions. Tighten the nut to the recommended torque (see 'GENERAL DATA').
 
 
 ### Removing
-`mini_cooper_1976_en_c06ececd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:steering | p:830 | doc_type:owners_manual
 
 (1) Disconnect the column switch wiring connectors located below the parcel shelf.   
 (2) Remove the bolt from the lower column clamp/ steering rack pinion shaft.   
@@ -23066,7 +21196,6 @@ Reverse the above removing instructions. Tighten the nut to the recommended torq
 
 
 ### Dismantling
-`mini_cooper_1976_en_78d21eae` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:steering | p:831 | doc_type:owners_manual
 
 (6) Remove the steering-wheel as described in Section J.1.   
 (7) Remove both halves of the column cowl.   
@@ -23088,14 +21217,12 @@ Right-hand-drive models. . Left-hand-drive models.
 
 
 ### Inspection
-`mini_cooper_1976_en_091d7294` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:832 | doc_type:owners_manual
 
 (12) Check the inner column alignment and rectify if required to ensure that when rotated the upper bearing face does not exceed  in. (3 mm.) run-out.   
 (13) Examine the upper and lower felt bushes and use replacements if necessary. Cylindrical polythene upper bushes are now fitted to all later models.
 
 
 ### Reassembling
-`mini_cooper_1976_en_f96705a1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:833 | doc_type:owners_manual
 
 (14)Soak the lower felt bush in oil.   
 (15) Lubricate the polythene bush with a graphite-based grease and insert it fully into the upper end of the outer column tube.   
@@ -23105,7 +21232,6 @@ Right-hand-drive models. . Left-hand-drive models.
 
 
 ### Refitting
-`mini_cooper_1976_en_9c285e23` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:834 | doc_type:owners_manual
 
 (19 Slacken the rack 'U' bolts to allow the rack pinion to align with the column.   
 (20) Slacken the column fascia bracket bolts to allow sideways movement.   
@@ -23132,13 +21258,11 @@ Tighten the clamping bolt to the correct torque figure (see 'GENERAL DATA').
 
 
 ### STEERING RACK ASSEMBLY
-`mini_cooper_1976_en_f5fa0fc4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:steering | p:835 | doc_type:owners_manual
 
 The rack fitted to the Mk. II models is not interchangeable as a unit or as individual components with those racks fitted to earlier vehicles. Together with the new rack, modified steering levers are fitted and combine to provide the vehicle with a smaller turning circle. Correct wheel alignment is vitally important (see Section J.4).
 
 
 ### Removing
-`mini_cooper_1976_en_9ee3f2b8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:836 | doc_type:owners_manual
 
 ( Remove the air cleaner(s).   
 Slacken the column camp bolt.   
@@ -23157,7 +21281,6 @@ Slacken the column camp bolt.
 
 
 ### COOPER
-`mini_cooper_1976_en_f842fb8f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:837 | doc_type:owners_manual
 
 Carry out the instructions detailed above and also:
 
@@ -23165,7 +21288,6 @@ Carry out the instructions detailed above and also:
 
 
 ### Dismantling
-`mini_cooper_1976_en_f3056f1c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:838 | doc_type:owners_manual
 
 (17) Disconnect the tie-rods from the steering-arms.   
 (18) Remove the rubber gaiters.   
@@ -23178,7 +21300,6 @@ Carry out the instructions detailed above and also:
 
 
 ### Inspecting
-`mini_cooper_1976_en_3c190450` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:steering | p:839 | doc_type:owners_manual
 
 (25) Clean all parts and examine for wear, particularly the rack and pinion teeth, and the rubber gaiters. Fit new parts where necessary.
 
@@ -23202,7 +21323,6 @@ c. Damper yoke.
 
 
 ### Reassembling
-`mini_cooper_1976_en_bd0d45af` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:840 | doc_type:owners_manual
 
 26Reverse the dismantling sequence but note: If fitting a new felt bush (early models), soak the bush in E.P. S.A.E. 140 oil.
 
@@ -23241,7 +21361,6 @@ at the pinion end, stand the assembly upright and pour in approximately ‡ pint
 
 
 ### ALL MODELS
-`mini_cooper_1976_en_ad146de3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:841 | doc_type:owners_manual
 
 Reverse the removal instructions, but note:
 
@@ -23252,7 +21371,6 @@ Reverse the removal instructions, but note:
 
 
 ### Checking
-`mini_cooper_1976_en_ed5b6e38` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:842 | doc_type:owners_manual
 
 When checking or adjusting the front wheel alignment it is essential to use equipment designed to work at the specified height and diameter, and preferably a gauge which measures the angles involved rather than the difference in distance between the wheels in front of and behind the centres.
 
@@ -23272,7 +21390,6 @@ With an optical gauge, take two readings with the car moved forward 180° and th
 
 
 ### Adjustment (Early models)
-`mini_cooper_1976_en_3ebce8b2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:843 | doc_type:owners_manual
 
 To adjust the track, slacken the tie-rod ball joint locknuts and the rubber gaiter clips, and turn each tie-rod the same number of turns until the adjustment is correct.
 
@@ -23280,13 +21397,11 @@ The tie-rods must be exactly the same length.
 
 
 ### MK. II MODELS
-`mini_cooper_1976_en_b01ac444` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:steering | p:844 | doc_type:owners_manual
 
 The later steering-rack provides a smaller turning circle and it is vitally important that the wheel alignment is checked, and adjusted if necessary, following the correct procedure. Incorrect adjustment could result in excess articulation of the drive shaft constant velocity joints, and subsequent fouling of the suspension tie-rods by the road wheels when on full lock. Checking and adjustment must only be carried out when the vehicle is at 'kerbside' trim, i.e. fully equipped but without occupants or excess luggage.
 
 
 ### Checking
-`mini_cooper_1976_en_de52316e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:845 | doc_type:owners_manual
 
 (1) With the vehicle resting on its wheels, turn the steering on each lock and check the clearance between the road wheel and the suspension tie-rod. The minimum clearance should not be less than 4 in. (19 mm.), or with the suspension at full rebound, not less than  in. (65 mm.).
 
@@ -23294,7 +21409,6 @@ Correct adjustment on each tie-rod will be indicated by the clearance figures gi
 
 
 ### Adjustment
-`mini_cooper_1976_en_b621977d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:steering | p:846 | doc_type:owners_manual
 
 (2) Slacken the rack tie-rod locknuts and the gaiter clips. Disconnect the ball joints from the steering levers, using Service tool 18G 1063.   
 (3) Lift the floor covering and remove the rubber grommet from the filoor panel (opposite side to the rack pinion).   
@@ -23311,7 +21425,6 @@ NOTE.—The hole in the rack from which the plastic plug was removed MUST NOT be
 
 
 ### STEERING RACK LUBRICATION
-`mini_cooper_1976_en_bf00c8a3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:steering | p:847 | doc_type:owners_manual
 
 Lubricating nipples are not provided and rack lubrication is only necessary if leakage is evident from the rack housing or the rubber gaiters.
 
@@ -23326,7 +21439,6 @@ WARNING.—If the vehicle is hoisted with its front wheels clear of the ground c
 
 
 ### NYLON TIE-ROD BALL ENDS
-`mini_cooper_1976_en_9d77354f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:interior | p:848 | doc_type:owners_manual
 
 Later ball joints have nylon seats sealed for life and protected by rubber boots; no lubrication is required.
 
@@ -23336,7 +21448,6 @@ Before fitting a new boot smear the area adjacent to the joint with a little Dex
 
 
 ### Section
-`mini_cooper_1976_en_824be271` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:849 | doc_type:owners_manual
 
 пуг рн Description H.6 Depressurizing, evacuating, pressurizing H.7 Displacer units . . K.7 Upper suspension arms K.8   
 Rubber suspension Lower arm K.5 Spring units \* \* K.1 Struts .. . K.6 \* . Upper arm . . K.4   
@@ -23351,7 +21462,6 @@ Compressing the spring unit Service tool 18G 574 B
 
 
 ### Compressing
-`mini_cooper_1976_en_8ad3b145` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:850 | doc_type:owners_manual
 
 (1) Slacken one bolt (or nut) and remove the other securing the sub-frame towers to the engine bulkhead cross-member.   
 (2) Move the locking plate to one side to expose the access hole in the cross-member. Refit the bolt (or nut) and tighten both.   
@@ -23359,7 +21469,6 @@ Compressing the spring unit Service tool 18G 574 B
 
 
 ### Removing
-`mini_cooper_1976_en_5a7521f6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:851 | doc_type:owners_manual
 
 (4) Jack up the car after compressing the spring, and remove the road wheel.   
 ( Remove the bump rubber from the tower.   
@@ -23370,13 +21479,11 @@ Compressing the spring unit Service tool 18G 574 B
 
 
 ### Reftting
-`mini_cooper_1976_en_8cdbeffc` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:852 | doc_type:owners_manual
 
 (10) Reverse the removing instructions.
 
 
 ### Removing
-`mini_cooper_1976_en_433cd4ca` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:853 | doc_type:owners_manual
 
 (1) Jack up the front of the vehicle, place supports under the sub-frame and remove the road wheel.   
 (2) Remove the steering lever ball joint retaining nut and release the ball joint using Service tool 18G 1063,   
@@ -23388,7 +21495,6 @@ Compressing the spring unit Service tool 18G 574 B
 
 
 ### Dismantling
-`mini_cooper_1976_en_54b43063` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:854 | doc_type:owners_manual
 
 (8Remove the brake-drum (except disc brake models).   
 (9) Extract the split pin and remove the nut, and distance washer (outer taper collar on Disc brake models).   
@@ -23438,7 +21544,6 @@ Removing the spring strut (1) with the spring unit compressed and the upper supp
 
 
 ### Reassembling
-`mini_cooper_1976_en_f8170c15` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:855 | doc_type:owners_manual
 
 (14) Reassembling is a reversal of the dismantling procedure but note the following points:
 
@@ -23450,7 +21555,6 @@ Removing the spring strut (1) with the spring unit compressed and the upper supp
 
 
 ### Refitting
-`mini_cooper_1976_en_a1f851bd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:856 | doc_type:owners_manual
 
 (15) Reverse the removing procedure noting the following points:
 
@@ -23467,7 +21571,6 @@ The fitted location of the water shield on the drive shaft before the hub is ref
 
 
 ### Removing
-`mini_cooper_1976_en_78773a57` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:857 | doc_type:owners_manual
 
 (1) Compress the rubber spring unit as detailed in Section K.1 or depressurize the Hydrolastic system, see Section H.7.   
 (Carry out operations (1), (2) and (4) in Section K.2.   
@@ -23475,7 +21578,6 @@ The fitted location of the water shield on the drive shaft before the hub is ref
 
 
 ### Dismantling
-`mini_cooper_1976_en_f899b91e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:858 | doc_type:owners_manual
 
 (4)Remove the Service tool and secure the swivel hub assembly firmly in a vice.   
 (5) Remove the ball housing dust seal and lubricator.   
@@ -23485,7 +21587,6 @@ The fitted location of the water shield on the drive shaft before the hub is ref
 
 
 ### Adjusting
-`mini_cooper_1976_en_23433a35` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:859 | doc_type:owners_manual
 
 ![](images/55222a875e49a021b5cc10d22ef281249fc3569d2f40a1f92b7cbfd911d20127.webp)  
 Fig. K.6
@@ -23500,7 +21601,6 @@ Ball pin seat. Suspension lower arm.
 
 
 ### Reftting
-`mini_cooper_1976_en_72e158fa` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:860 | doc_type:owners_manual
 
 (17) Refitting is a reversal of the removing procedure, tighten the upper and lower ball pin nuts to the torque figure given in 'GENERAL DATA'.   
 (18) Tighten the drive shaft nut to the correct torque figure, see 'GENERAL DATA' for the particular model application.   
@@ -23511,7 +21611,6 @@ Ball pin seat. Suspension lower arm.
 
 
 ### Removing
-`mini_cooper_1976_en_c463b70e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:861 | doc_type:owners_manual
 
 (1) Compress the spring as in Section K.1.   
 (2) Jack up the vehicle and remove the road wheel and damper.   
@@ -23523,7 +21622,6 @@ Ball pin seat. Suspension lower arm.
 
 
 ### Refitting
-`mini_cooper_1976_en_2f8fa3ac` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:862 | doc_type:owners_manual
 
 Reverse the removing instructions, but note:
 
@@ -23533,7 +21631,6 @@ Reverse the removing instructions, but note:
 
 
 ### Removing
-`mini_cooper_1976_en_48151a64` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:863 | doc_type:owners_manual
 
 () Jack up and remove the road wheel and damper.   
 (2) Support the suspension with a jack under the brake-drum.   
@@ -23547,13 +21644,11 @@ NOTE.—Later vehicles are fitted with modified lower arms and these are fitted 
 
 
 ### (Rubber Suspension)
-`mini_cooper_1976_en_acb1f844` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:864 | doc_type:owners_manual
 
 Some cars have been fitted with struts having a circular-section washer between the body of the suspension strut and the knuckle end. When fitting a new strut to these vehicles, make sure the washer is included.
 
 
 ### Removing
-`mini_cooper_1976_en_8cf7574b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:865 | doc_type:owners_manual
 
 (1) Jack up the car and remove the road wheel.   
 (2) Depressurize and evacuate the Hydrolastic system (see Section H.7).   
@@ -23571,7 +21666,6 @@ The right-hand front displacer hose connector Displacer hose. Hose nut. 3 Connec
 
 
 ### Refitting
-`mini_cooper_1976_en_907735b1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:866 | doc_type:owners_manual
 
 (8) Reverse the removing instructions.   
 ( Rotate the displacer clockwise to lock it into the registers on the locating plate.   
@@ -23580,13 +21674,11 @@ The right-hand front displacer hose connector Displacer hose. Hose nut. 3 Connec
 
 
 ### Removal
-`mini_cooper_1976_en_cc3174fa` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:867 | doc_type:owners_manual
 
 Depressurize the Hydrolastic system as in Section H.7 and follow the instruction in K.4 for arm removal.
 
 
 ### SWIVEL HUB OUTER OL SEAL
-`mini_cooper_1976_en_8456d8b2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:868 | doc_type:owners_manual
 
 The following instructions will permit a leaking outer seal to be replaced when the driving flange is removed.
 
@@ -23594,7 +21686,6 @@ NOTE.—A bearing overhaul will still require swivel hub removal as in Section K
 
 
 ### Removing
-`mini_cooper_1976_en_03fafc0e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:869 | doc_type:owners_manual
 
 ( Remove the hub cover, extract the split pin, and slacken the drive shaft nut.   
 (2) Slacken the wheel nuts and jack up the vehicle.   
@@ -23605,7 +21696,6 @@ NOTE.—A bearing overhaul will still require swivel hub removal as in Section K
 
 
 ### Refitting
-`mini_cooper_1976_en_081d1a48` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:870 | doc_type:owners_manual
 
 (Refit the inner bearing race if extracted).   
 (8) Fit the new seal and apply a suitable amount of lubricant to the lip to prevent burning.   
@@ -23617,7 +21707,6 @@ NOTE.—A bearing overhaul will still require swivel hub removal as in Section K
 
 
 ### THE HYDRAULIC DAMPERS
-`mini_cooper_1976_en_1919faf1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:871 | doc_type:owners_manual
 
 #
 
@@ -23628,7 +21717,6 @@ Fig. L.1 The hydraulic dampers
 
 
 ### Rear
-`mini_cooper_1976_en_dd373e6b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:872 | doc_type:owners_manual
 
 A.Extended length 15 in. (385.76 mm.). Van only 16 in.(409.6 mm.). B.Compressed length 9 in. (242б89 mm.). Van only 10 in. (254 mm). Front c.Compressed length 8 in. (215.90 mm.). D.Extended length 12 in. (323-85 mm.).
 
@@ -23639,7 +21727,6 @@ A.Extended length 15 in. (385.76 mm.). Van only 16 in.(409.6 mm.). B.Compressed 
 
 
 ### Left-hand damper (rear)
-`mini_cooper_1976_en_acd19fe6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:873 | doc_type:owners_manual
 
 Access to the damper upper fixing nuts can only be obtained after the fuel tank has either been completely removed, or (as on most cars) it is only necessary to release the tank from its mounting position. On cars produced having a fuel tank with a rigid tube the tank must be drained and removed (see Section D.1).
 
@@ -23651,7 +21738,6 @@ To release the fuel tank
 
 
 ### Front
-`mini_cooper_1976_en_e3431783` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:874 | doc_type:owners_manual
 
 () Jack up and remove the road wheel.   
 (2) Support the suspension under the brake-drum.   
@@ -23662,25 +21748,21 @@ To release the fuel tank
 
 
 ### Right-hand damper (rear)
-`mini_cooper_1976_en_7bb6bdd4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:875 | doc_type:owners_manual
 
 (7) Remove the upper damper mounting nuts from inside the luggage boot. (8) Jack up the vehicle and remove the road wheel. Take off the lower mounting nut and washer collapse the damper, and remove it from its anchorage point on the raduis arm.
 
 
 ### PRIMING
-`mini_cooper_1976_en_dd043ad5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:876 | doc_type:owners_manual
 
 If air is suspected in a hydraulic damper, remove the damper from the vehicle and stand it in a vertical position for approximately five hours, then prime as follows.
 
 
 ### Armstrong
-`mini_cooper_1976_en_4f95c202` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:877 | doc_type:owners_manual
 
 Hold the damper vertically, extend to its full travel and then compress slowly. Continue to extend and compress until there is no free travel when changing direction of stroke.
 
 
 ### Girling
-`mini_cooper_1976_en_7c2323f3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:878 | doc_type:owners_manual
 
 Hold the damper, with the dust shield uppermost, at an angle of 15° to 20° to the vertical. Extend the damper about 76 mm. very slowly and then compress fully. Rotate the dust shield at the same time. Repeat until allfree play has disappeared. Do not fully extend the damper during this process.
 
@@ -23688,7 +21770,6 @@ New dampers need only be held in their vertical position for a few minutes befor
 
 
 ### Removing
-`mini_cooper_1976_en_7047532d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:879 | doc_type:owners_manual
 
 ( Jack up and remove the road wheel.   
 (2) Remove the cover from the upper mounting point inside the vehicle.   
@@ -23696,7 +21777,6 @@ New dampers need only be held in their vertical position for a few minutes befor
 
 
 ### THE BRAKING SYSTEM
-`mini_cooper_1976_en_db608634` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:880 | doc_type:owners_manual
 
 Adjustment .. Sectiin Bleeding M.8 Disc brake calliper .. , \* M.7 Intensifier .. , \* M.6 Master cylinder .. M.1 .\*   
 Pressure regulating valve.. . \* M.5 Shoe assemblies (and disc friction pads) .. \* . M.3 Vacuum servo (Cooper 'S') .. M.9 Wheel cylinders . . M.4 Two-leading-shoe front brakes .. M.10 \* ,   
@@ -23709,13 +21789,11 @@ The front brake-shoe adjuster. One square-headed adjuster is provided on each of
 
 
 ### MASTER CYLINDER
-`mini_cooper_1976_en_5184cfd7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:881 | doc_type:owners_manual
 
 See Section E.4, but note the non-return valve fitted in this cylinder.
 
 
 ### ADJUSTMENT
-`mini_cooper_1976_en_c06754cf` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:882 | doc_type:owners_manual
 
 Early models have one square-headed adjuster screw projecting from each brake backplate. For adjustment on cars having two-leading-shoe brakes see Section M.10.
 
@@ -23723,14 +21801,12 @@ Jack up the car and turn the adjuster in a clockwise direction until the wheel i
 
 
 ### COOPER
-`mini_cooper_1976_en_b11d9257` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:883 | doc_type:owners_manual
 
 Front disc brakes are not adjustable.   
 The rear brakes are adjusted as above.
 
 
 ### Hand brake
-`mini_cooper_1976_en_8fc05ed1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:884 | doc_type:owners_manual
 
 ALL MODELS
 
@@ -23746,7 +21822,6 @@ The right-hand front brake assembly, showing the fitted positions of the leading
 
 
 ### Removing (front)
-`mini_cooper_1976_en_1ee3730e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:885 | doc_type:owners_manual
 
 (1) Jack up and remove the road wheel.   
 (2) Unscrew the two retaining screws and pull off the drum.   
@@ -23754,7 +21829,6 @@ The right-hand front brake assembly, showing the fitted positions of the leading
 
 
 ### Removing (rear)
-`mini_cooper_1976_en_1cfc25fa` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:886 | doc_type:owners_manual
 
 As for the front shoes.
 
@@ -23787,7 +21861,6 @@ End plug.
 
 
 ### Removing disc brake friction pads
-`mini_cooper_1976_en_216a7ca1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:888 | doc_type:owners_manual
 
 (1) Jack up, remove the wheel.   
 (Depress the pad retaining spring and withdraw the split pins (Fig. M.6).   
@@ -23798,7 +21871,6 @@ On later cars the pads are retained in the callipers by means of split pins only
 
 
 ### Refitting
-`mini_cooper_1976_en_88aae1ac` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:889 | doc_type:owners_manual
 
 (Press the pistons back into the calliper with Service tool 18G 672.   
 (6) Check that the cut-away edge of each piston is facing upwards and that anti-squeak shims are correctly placed.   
@@ -23811,7 +21883,6 @@ MINI. Issue 1. 4908
 
 
 ### Removing front and rear
-`mini_cooper_1976_en_99405c94` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:890 | doc_type:owners_manual
 
 (1) Carry out instructions (1), (2), and (3) in Section M.3.   
 () Thoroughly clean the backplate.   
@@ -23821,13 +21892,11 @@ MINI. Issue 1. 4908
 
 
 ### COOPER
-`mini_cooper_1976_en_da0110db` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:891 | doc_type:owners_manual
 
 Removing (rear only) As instructions () to (5) above.
 
 
 ### Dismantling
-`mini_cooper_1976_en_4108ca6b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:892 | doc_type:owners_manual
 
 (6Remove the dust seals from the ends of the cylinder and extract both pistons. ( Remove the piston seals with the fingers only. (8) Clean all parts with brake fluid.
 
@@ -23838,25 +21907,21 @@ The hydraulic pressure regulating valve components
 
 
 ### Reassembling
-`mini_cooper_1976_en_f19d944d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:893 | doc_type:owners_manual
 
 (9) Fit new parts as required and then reverse the dismantling procedure.
 
 
 ### Refitting
-`mini_cooper_1976_en_b58483ac` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:894 | doc_type:owners_manual
 
 Reverse the removal instructions and bleed the system.
 
 
 ### Removing
-`mini_cooper_1976_en_43f3bc38` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:895 | doc_type:owners_manual
 
 (1) Disconnect the three pressure lines, unscrew the securing nut and withdraw the assembly from the rear sub-frame cross-member.
 
 
 ### Overhauling
-`mini_cooper_1976_en_4bf10f33` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:896 | doc_type:owners_manual
 
 () Clean the exterior.   
 () Remove the end plug and sealing washer.   
@@ -23866,7 +21931,6 @@ Reverse the removal instructions and bleed the system.
 
 
 ### INTENSIFIER
-`mini_cooper_1976_en_9485536c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:897 | doc_type:owners_manual
 
 COOPER (Early models)
 
@@ -23874,7 +21938,6 @@ The brake intensifier is only fitted on early models. Later models have a pressu
 
 
 ### Removing
-`mini_cooper_1976_en_7e962941` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:898 | doc_type:owners_manual
 
 (1) Slacken the top pipe union, remove the nuts and washers and take out the mounting bolts.   
 (2) Completely unscrew the tip union and withdraw the pipe and union.
@@ -23886,7 +21949,6 @@ M.4
 
 
 ### Dismantling
-`mini_cooper_1976_en_db1e21c8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:899 | doc_type:owners_manual
 
 (5) Hold the intensifier in a vice and unscrew the large hexagon plug. NOTE.—The plug is under spring pressure.   
 (6) Extract the piston assembly and springs.   
@@ -23894,20 +21956,17 @@ M.4
 
 
 ### Reassembling
-`mini_cooper_1976_en_02fbdd2a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:900 | doc_type:owners_manual
 
 (8) Renew all worn or damaged parts. If the rubber seals have deteriorated, renew the piston assembly.
 
 
 ### Refitting
-`mini_cooper_1976_en_9def2ebd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:901 | doc_type:owners_manual
 
 Reverse the removing instructions.   
 Bleed the system.
 
 
 ### Removing and dismantling
-`mini_cooper_1976_en_497a6dd2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:steering | p:902 | doc_type:owners_manual
 
 Do not separate the two halves of the calliper; each piston assembly must be dealt with individually.
 
@@ -23928,7 +21987,6 @@ The hydraulic pressure regulating valve
 
 
 ### Reassembling
-`mini_cooper_1976_en_589ed70a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:903 | doc_type:owners_manual
 
 (9) Coat a new fluid seal with Lockheed Disc Brake Lubricant and then ease it into its groove.   
 (10) Slacken the bleeder screw one complete turn.   
@@ -23962,7 +22020,6 @@ Pad-retaining split pins. Brake pads. Anti-squeak shims.
 
 
 ### BLEEDING
-`mini_cooper_1976_en_ed16f615` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:904 | doc_type:owners_manual
 
 (1) Adjust the brakes.   
 (2) Slacken the bleeder screw on the intensifier (COOPER, when fitted) and pump the pedal until fuid comes out free from air.   
@@ -23971,7 +22028,6 @@ Pad-retaining split pins. Brake pads. Anti-squeak shims.
 
 
 ### Removing
-`mini_cooper_1976_en_d43e39ec` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:905 | doc_type:owners_manual
 
 () Disconnect the heater hose from the grille, release the clip retaining the hose to the slave cylinder and secure the hose out of the way.   
 (2) Disconnect the hydraulic pipes from the slave cylinder, and plug the open ends of the pipes.
@@ -23981,7 +22037,6 @@ Fig. M.9
 
 
 ### The brake cylinder intensifier
-`mini_cooper_1976_en_086d96a9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:906 | doc_type:owners_manual
 
 . Fluid inlet. Fluid outlet. Piston seal (small). 11. Piston.   
 2 Valve. ntensifer cylinder body. Valve return sprig. 1 Copper gasket.   
@@ -23993,7 +22048,6 @@ Bleed screw.
 
 
 ### Dismantling
-`mini_cooper_1976_en_bb548212` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:907 | doc_type:owners_manual
 
 (6) Remove the five screws and detach the air valve cover, disengaging the pipe from the rubber elbow. Pull the elbow of the pipe in the end cover, and lift out the control valve diaphragm.   
 (7) Remove the four screws and lift off the valve housing and gasket. Expel the valve piston by closing the end connection with the thumb and applying a low air pressure at the smaller connection on the side of the cylinder. Ease the rubber cup off the piston.   
@@ -24006,13 +22060,11 @@ the slave cylinder. Extract the guide piece, push-rod cup, cup spreader and spri
 
 
 ### Cleaning
-`mini_cooper_1976_en_3d4554a0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:908 | doc_type:owners_manual
 
 (11) Wash all parts in industrial methylated spirit (not the air valve cover). Blow compressed air at a low pressure past the air valve and into the filter chamber. Dry all components thoroughly.
 
 
 ### Reassembling
-`mini_cooper_1976_en_cd450b0f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:909 | doc_type:owners_manual
 
 Reassembly is a reversal of the dismantling procedure, noting the following points.
 
@@ -24028,13 +22080,11 @@ MINI. IsSue 1. 4908
 
 
 ### TWO-LEADING-SHOE FRQNT BRAKES
-`mini_cooper_1976_en_112eee83` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:910 | doc_type:owners_manual
 
 Each front brake has two squared adjusters projecting from the rear face of the backplate, one adjuster for each brake-shoe.
 
 
 ### Adjusting
-`mini_cooper_1976_en_7faeead9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:911 | doc_type:owners_manual
 
 (1) Jack up the car and deal with one adjuster at a time.   
 (2) Turn the adjuster in the same direction as the forward rotation of the front wheel until the drum is locked, then back off the adjuster the minimum amount necessary to allow the drum to rotate freely.   
@@ -24057,7 +22107,6 @@ The hand brake cable sector mounted on the rear radius arms. Only the corners in
 
 
 ### Dismantling
-`mini_cooper_1976_en_158ce584` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:912 | doc_type:owners_manual
 
 (6) Jack up the car and remove the front road wheel.   
 (Back off both adjusters completely, extract the two retaining screws, and remove the brake-drum.   
@@ -24071,7 +22120,6 @@ Fig. M.12 A rear wheel cylinder bleeder screw. One bleeder screw is provided on 
 
 
 ### Reassembly
-`mini_cooper_1976_en_1d90ae45` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:913 | doc_type:owners_manual
 
 (12 Reassembly is a reversal of the dismantling procedure.   
 (13 Ensure that the shoes are replaced the correct way round and the return springs are fitted in their correct positions.   
@@ -24079,7 +22127,6 @@ Fig. M.12 A rear wheel cylinder bleeder screw. One bleeder screw is provided on 
 
 
 ### Wheel cylinder removal
-`mini_cooper_1976_en_018df580` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:914 | doc_type:owners_manual
 
 (15) Remove the brake-shoes as described under 'Dismantling'.   
 (16) Disconnect the flexible brake hose from the front wheel cylinder. Unscrew the two union nuts and detach the pipe bridging the two wheel cylinders.   
@@ -24098,7 +22145,6 @@ The left-hand front brake assembly, showing the fitted position of the shoes and
 
 
 ### PREVENTIVE MAINTENANCE
-`mini_cooper_1976_en_f0a163a7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:915 | doc_type:owners_manual
 
 To safeguard against the possible effects of wear, or deterioration, it is recommended that:
 
@@ -24115,7 +22161,6 @@ Care must be taken always to observe the following points:
 
 
 ### THE VACUUM SERVO COMPONENTS
-`mini_cooper_1976_en_615af1ec` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:916 | doc_type:owners_manual
 
 ![](images/cd4bb0b6b1d6d00ec26413fb2534ed63732f9448f38aa13622704efc41136326.webp)
 
@@ -24163,7 +22208,6 @@ Spring retainer.
 
 
 ### THE BRAKING SYSTEM
-`mini_cooper_1976_en_36b972dd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:917 | doc_type:owners_manual
 
 The information contained in this Section refers specificall to new or modified components fitted to the Mini range coincident with the introduction of NEGATIVE earth electrical systems and must be used in conjunction with Section M.
 
@@ -24181,13 +22225,11 @@ A schematic diagram showing the principle of operation and the main components o
 
 
 ### Operation
-`mini_cooper_1976_en_25346fc8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:918 | doc_type:owners_manual
 
 Refer to Fig. Mb.1. The vacuum-operated servo unit consists of three main components, namely the vacuum cylinder (), the air valve assembly (2), and the slave cylinder (3) which is connected in the hydraulic circuit between the main master cylinder and the wheel cylinders. Under light braking, fluid is allowed to pass directly to the wheel cylinders via the hollow centre of the slave piston (4) and no braking assistance is obtained; fuid pressure acting on the air valve piston (5) closes the diaphragm (6), thus separating the chamber behind the main servo diaphragm (7) from the one in front. Under heavier braking, further movement of the air valve piston opens the air valve and allows air to enter the chamber behind the main diaphragm, destroying the vacuum. The central rod (9) is thus pushed to the left, sealing the hollow centre of the slave piston and pushing it down its bore, so increasing the fluid pressure at the wheel cylinders. When the brake pedal is released, the pressure beneath the air valve piston is destroyed, the diaphragm (6) re-opens and the air valve closes. Via the non-return valve (10), a suspended vacuum is recreated around the main diaphragm. Under the action of the spring (1 1), the diaphragm and push-rod, and thus the slave piston, are returned to their original positions, and the pressure in the wheel cylinders is lost.
 
 
 ### Removing
-`mini_cooper_1976_en_1561a0be` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:919 | doc_type:owners_manual
 
 (1) From beneath the right-hand front wing, pull the heater hose off the intake unit, and then withdraw the intake unit from inside the engine compartment.   
 (2) Disconnect the vacuum pipe from the servo unit.   
@@ -24196,7 +22238,6 @@ Refer to Fig. Mb.1. The vacuum-operated servo unit consists of three main compon
 
 
 ### Dismantling
-`mini_cooper_1976_en_201cda99` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:920 | doc_type:owners_manual
 
 Air valve assembly (Fig. Mb.2)
 
@@ -24219,7 +22260,6 @@ Diaphragm support. 12Slave cylinder.
 
 
 ### Servo cylinder assembly
-`mini_cooper_1976_en_1db883bb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:921 | doc_type:owners_manual
 
 () Use thumb pressure to prise the non-return valve from the servo shell and extract the rubber valve mounting.
 
@@ -24236,7 +22276,6 @@ Slave cylinder assembly
 
 
 ### Inspecting
-`mini_cooper_1976_en_699748bf` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:922 | doc_type:owners_manual
 
 Examine all parts for faults and wear and be prepared to fit new rubber parts throughout. If the air valve is faulty, a replacement kit must be fitted. Dust deposits
 
@@ -24245,7 +22284,6 @@ Fig. Mb.3
 
 
 ### Using Service tool C2030\* to remove and refit the end cover
-`mini_cooper_1976_en_35f0ff3f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:923 | doc_type:owners_manual
 
 \* Obtainable from: V. L. Churchill & Co. Ltd.
 
@@ -24263,13 +22301,11 @@ Wash all original components of the slave cylinder assembly and remove light dep
 
 
 ### Reassembling
-`mini_cooper_1976_en_70755d5d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:924 | doc_type:owners_manual
 
 Scrupulous cleanliness of all parts of the servo unit is essential. Lay out all parts to be assembled on a clean sheet of paper. Use clean brake fuid as a lubricant when reassembling the hydraulic components of the servo unit.
 
 
 ### Slave cylinder assembly
-`mini_cooper_1976_en_e79236f4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:925 | doc_type:owners_manual
 
 (15) If the piston and push-rod were separated in item (14), a new retaining clip and connecting pin will be required. Insert the chamfered end of the pushrod into the rear of the piston and depress the spring inside it to uncover the hole in the end of the rod. Fit the pin, followed by its retaining clip; see that this is a snug fit, and does not protrude beyond its groove, otherwise the bore will become scored.
 
@@ -24279,7 +22315,6 @@ Using only the fingers, bed the rubber seal evenly into the groove on the head o
 
 
 ### THE VACUUM SERVO COMPONENTS (Lockheed Type 6)
-`mini_cooper_1976_en_a307a3bb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:926 | doc_type:owners_manual
 
 ![](images/5eba53ce78d008aad3dc9913f7907c876b18ecf8dc34403aa9be0f129691cbf0.webp)
 
@@ -24318,7 +22353,6 @@ Air valve piston.
 
 
 ### Servo cylinder assembly
-`mini_cooper_1976_en_d6499ad8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:927 | doc_type:owners_manual
 
 (17) Grip the slave cylinder in a soft-jawed vice, position the mounting face joint washer and refit the servo shell. After correctly positioning the abutment plate and locking plate, which must be renewed if it has been used more than once previously, tighten the three bolts evenly to the torque figure given in 'GENERAL DATA' and tap up the locking plate tabs.
 
@@ -24346,7 +22380,6 @@ the five securing screws firmly, progressively and diametrically; do not overtig
 
 
 ### Refitting
-`mini_cooper_1976_en_b11af4c8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:928 | doc_type:owners_manual
 
 (27) Reverse the removing procedure, items (1) to (4).
 
@@ -24356,7 +22389,6 @@ Fluid drained from the system or that used for bleeding should be discarded.
 
 
 ### INERTIA VALVE (Split braking system)
-`mini_cooper_1976_en_097d4705` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:929 | doc_type:owners_manual
 
 An inertia valve is fitted in the fluid line to the rear brakes; it replaces the pressure regulating valve described in Section M.5 and is similarly located on the rear subframe cross-member.
 
@@ -24364,7 +22396,6 @@ The angle at which the assembly is mounted allows the steel ball inside the body
 
 
 ### Removing
-`mini_cooper_1976_en_46a88cc2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:930 | doc_type:owners_manual
 
 (1) Remove, and then plug the ends of, the hydraulic brake pipes.
 
@@ -24378,7 +22409,6 @@ Copper washer. Valve body.
 
 
 ### Dismantling and examining
-`mini_cooper_1976_en_6e024ef9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:931 | doc_type:owners_manual
 
 (3) Remove the end plug and washer from the inertia valve body, and extract the steel ball.   
 (4) Clean the body and steel bali with clean brake fluid or industrial methylated spirit and dry thoroughly.   
@@ -24386,14 +22416,12 @@ Copper washer. Valve body.
 
 
 ### Reassembling
-`mini_cooper_1976_en_580815cd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:932 | doc_type:owners_manual
 
 (6) Insert the steel ball into the body.   
 (7) Screw in a new valve and end-plug sub-assembly, fitting a new copper washer. See that the seating faces of both the body assembly and end plug are clean and undamaged, and tighten to the torque figure given in 'GENERAL DATA'.
 
 
 ### Reftting
-`mini_cooper_1976_en_f917f4b1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:933 | doc_type:owners_manual
 
 Reverse the removing procedure noting the marking 'FRONT' on the inertia valve body.   
 (9) Refill' the master cylinder reservoir with the recommended brake fluid, see 'GENERAL DATA'.   
@@ -24401,14 +22429,12 @@ Reverse the removing procedure noting the marking 'FRONT' on the inertia valve b
 
 
 ### Removing
-`mini_cooper_1976_en_dc6c0479` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:934 | doc_type:owners_manual
 
 (1) Disconnect the hydraulic pipes from the master cylinder, and plug the pipe ends to prevent loss of fluid and the entry of dirt.   
 (2) Unscrew the two nuts securing the master cylinder to the bulkhead, and lift it off, leaving the push-rod attached to the brake pedal.
 
 
 ### Dismantling
-`mini_cooper_1976_en_1e3e624d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:935 | doc_type:owners_manual
 
 (3) Drain the fuid from the reservoir and refit the cap. (4) Plug the pipe connections, thoroughly clean the exterior of the assembly and remove the rubber boot. (5) Grip the cylinder body in a soft-jawed vice with the mouth of the bore uppermost.
 
@@ -24429,14 +22455,12 @@ Refer to Fig. Mb.6.
 
 
 ### Inspecting
-`mini_cooper_1976_en_2bdd7952` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:936 | doc_type:owners_manual
 
 (18) Clean all parts thoroughly in brake fluid and dry them with lint-free cloth.   
 (19) Examine all metal components for wear and damage and renew all worn, damaged, or suspect parts.
 
 
 ### Reassembling
-`mini_cooper_1976_en_af3735b5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:937 | doc_type:owners_manual
 
 (20) Reverse the dismanitling procedure, with special attention to the following points.   
 (21) Use a complete set of new rubber seals when reassembling.   
@@ -24446,7 +22470,6 @@ Refer to Fig. Mb.6.
 
 
 ### Refitting
-`mini_cooper_1976_en_82d3ff84` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:938 | doc_type:owners_manual
 
 (25) Refit the unit, taking care to guide the push-rod into the opening in the rubber boot; re-connect and tighten pipe connections.
 
@@ -24458,7 +22481,6 @@ NOTE.-Brake fluid can have a detrimental effect on paintwork; ensure that fluid 
 
 
 ### PRESSURE FAILURE SWITCH ASSEMBLY (Split braking system)
-`mini_cooper_1976_en_b235bf90` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:939 | doc_type:owners_manual
 
 This switch replaces the three-way brake pipe connector located on the right-hand side of the engine bulkhead cross-member.
 
@@ -24491,7 +22513,6 @@ Rubber boot.
 
 
 ### Removing
-`mini_cooper_1976_en_97fe073b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:940 | doc_type:owners_manual
 
 (1) Pull the electrical connector off the nylon switch.   
 (2) Clean the switch assembly and its surroundings, particularly the pipe connections.   
@@ -24500,7 +22521,6 @@ Rubber boot.
 
 
 ### Dismantling
-`mini_cooper_1976_en_04fcf81b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:941 | doc_type:owners_manual
 
 ( Refer to Fig. Mb.7. Remove the end plug and discard the copper washer.   
 (6 Unscrew the nylon switch.   
@@ -24518,7 +22538,6 @@ End plug. Piston seals.
 
 
 ### Inspection
-`mini_cooper_1976_en_63da26df` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:942 | doc_type:owners_manual
 
 (9) Thoroughly clean all the components using methylated spirit (denatured alcohol) or the recommended brake fluid, and dry with a lint-free cloth.   
 (10) Inspect the bore of the casing for scoring and damage. The complete assembly must be renewed if the bore is not in perfect condition.   
@@ -24526,7 +22545,6 @@ End plug. Piston seals.
 
 
 ### Reassembling
-`mini_cooper_1976_en_ab165fc4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:943 | doc_type:owners_manual
 
 ( Refer to Fig. Mb.7. Fit two new seals to the piston.   
 (13) Lubricate the piston assembly with Lockheed Disc Brake Lubricant and fit the piston into the bore.   
@@ -24535,13 +22553,11 @@ End plug. Piston seals.
 
 
 ### Reftting
-`mini_cooper_1976_en_f99b9647` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:944 | doc_type:owners_manual
 
 (16) Reverse the removing procedure in (1) to (4). (17) Refill the cylinder reservoir with the recommended brake fluid, see 'GENERAL DATA'". (18 Bleed the braking system, see Section Mb. 5.
 
 
 ### BLEEDING THE SYSTEM (Split braking system)
-`mini_cooper_1976_en_0367027d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:945 | doc_type:owners_manual
 
 (1) Top up the hydraulic fuid reservoir to the correct level with the recommended brake fluid, see 'GENERAL DATA'. Do not allow the fiuid level to drop more than 2 in. (1б25 cm.) throughout the following operations.   
 (2) Attach bleed tubes to the front and rear bleed screws on the driver's side of the car.   
@@ -24556,7 +22572,6 @@ End plug. Piston seals.
 
 
 ### Section
-`mini_cooper_1976_en_11b80e49` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:946 | doc_type:owners_manual
 
 Alternator (11AC)
 
@@ -24580,13 +22595,11 @@ Wiring diagrams Beginning of Section
 
 
 ### WIRING DIAGRAM
-`mini_cooper_1976_en_003a605b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:947 | doc_type:owners_manual
 
 ![](images/2bf1e92b4066dad76f4c3f938f9057152ea9e8b0c1b4685100db36508276e7f4.webp)
 
 
 ### KEY TO WIRING DIAGRAM
-`mini_cooper_1976_en_0edab3ae` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:948 | doc_type:owners_manual
 
 NO. Description   
 L.H. flasher lamp.   
@@ -24637,7 +22650,6 @@ America.
 
 
 ### CABLE COLOUR CODE
-`mini_cooper_1976_en_1efec036` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:949 | doc_type:owners_manual
 
 B. Biack. P. Purple. Y. Yellow. U. Blue. R.Red L. Light. N. Brown. s. Slate. M. Medium. G. Green. . White. D. Dark
 
@@ -24645,13 +22657,11 @@ Vhen a cable has two colour code letters the first denotes the main colour and t
 
 
 ### Standard and De-luxe (up to 1964)
-`mini_cooper_1976_en_2f12a38f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:950 | doc_type:owners_manual
 
 ![](images/0bd8bb9cc3d3c7e6f18a736adc992e67b2521f261a75dd7ffa6889b4a98e9172.webp)
 
 
 ### No. Description
-`mini_cooper_1976_en_fbb978b3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:951 | doc_type:owners_manual
 
 L.H. fasher lamp. L.H. headlamp and pilot lamp. 3. R.H. headlamp and pilot lamp. 4. R.H. fasher lamp. 5. Distributor. 6. Ignition coil. 7. Horn. 8. Dynamo. 9. Voltage regulator and cut-out. 10. Oil pressure switch. 11. Main-beam warning light. 12. Panel illumination light. 13. Stop light switch. 14. Parcel shelf illumination lamp. 15. Oil pressure warning light. 16. Ignition warning light. 17. Flasher unit. 18. Panel illumination switch. 1 Fuel gauge. Parcel shelfilumination switch. 21. 35-amp. fuse.
 
@@ -24680,7 +22690,6 @@ lightht.
 
 
 ### CABLE COLOUR CODE
-`mini_cooper_1976_en_1cfaa0c0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:952 | doc_type:owners_manual
 
 B. Black. P. Purple. L. Light.   
 U. Blue. R.Red. D. Dark.   
@@ -24691,13 +22700,11 @@ When a cable has two colour code letters the first denotes the main colour and t
 
 
 ### WIRING DIAGRAM Saloon, Van, and Pick-up (1964 to 1967)
-`mini_cooper_1976_en_39d757cd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:953 | doc_type:owners_manual
 
 ![](images/777b9ce48e6af7d48dcd74bf41ed21086979fa19dc525077d9b3646869766eb5.webp)
 
 
 ### KEY TO WIRING DIAGRAM
-`mini_cooper_1976_en_f4eb740a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:954 | doc_type:owners_manual
 
 No. Description . Dynamo. Control box. 12-volt battery. Starter solenoid. Starter motor.   
 Lighting switch.   
@@ -24754,7 +22761,6 @@ CABLE COLOUR CODE B. Black. G.  Green. W. White. U. Blue. P. Purple. Y. Yellow. 
 
 
 ### WIRING DIAGRAM
-`mini_cooper_1976_en_9077fd75` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:955 | doc_type:owners_manual
 
 Cooper, Cooper 'S', Countryman, Traveller, and Super De-luxe (1964 to 1967)
 
@@ -24762,7 +22768,6 @@ Cooper, Cooper 'S', Countryman, Traveller, and Super De-luxe (1964 to 1967)
 
 
 ### KEY TO WIRING DIAGRAM
-`mini_cooper_1976_en_b1bf8ee6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:956 | doc_type:owners_manual
 
 No. Description 1. Dynamo.   
 Control box.   
@@ -24821,7 +22826,6 @@ L.H.front fasher lamp. No. Description
 
 
 ### CABLE COLOUR CODE
-`mini_cooper_1976_en_5851d05f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:957 | doc_type:owners_manual
 
 B. Black. G. Green. W. White.   
 U. Bue. P. Purple. Y. Yellow.   
@@ -24831,13 +22835,11 @@ When a cable has two colour code letters the first denotes the main colour and t
 
 
 ### WIRING DIAGRAM Mini-Moke (up to 1967)
-`mini_cooper_1976_en_712cbbee` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:958 | doc_type:owners_manual
 
 ![](images/683748a112e02f2380c5b6f5bdcfc1c27a1d1d1b574faa381a1c0ba60329fdb7.webp)
 
 
 ### No. Description
-`mini_cooper_1976_en_c1c0a2bd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:959 | doc_type:owners_manual
 
 1. Dynamo.   
 2. Control box.   
@@ -24889,7 +22891,6 @@ lizer.
 
 
 ### CABLE COLOUR[CODE
-`mini_cooper_1976_en_bab1ee6d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:960 | doc_type:owners_manual
 
 B. Black. G. Green, W. White.   
 U. Blue Purple. Y. Yellow.   
@@ -24899,13 +22900,11 @@ When a cable has two colour code letters the first denotes the main colour and t
 
 
 ### Super De-luxe, Countryman, Traveller, Cooper, and Cooper 'S' Mark II
-`mini_cooper_1976_en_78fe1232` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:961 | doc_type:owners_manual
 
 ![](images/1217cd87ebf73687051b86de55bcf36e17f7e672e78246561e2ed4f974b23ca8.webp)
 
 
 ### KEY TO WIRING DIAGRAM
-`mini_cooper_1976_en_0bd2c9ce` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:962 | doc_type:owners_manual
 
 No. Description 1. Dynamo.   
 Control box.   
@@ -24971,13 +22970,11 @@ CABLE COLOUR CODE B. Black. G. Green. w. White. U. Blue. P. Purple. Y. Yellow. N
 
 
 ### WIRING DIAGRAM
-`mini_cooper_1976_en_a8f1cfa6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:963 | doc_type:owners_manual
 
 ![](images/8b3a22ac08486be268788e6561cee0a9b2c88bfb88b7bd1e65e78332b1b54ed4.webp)
 
 
 ### KEY TO WIRING DIAGRAM
-`mini_cooper_1976_en_690f3d15` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:964 | doc_type:owners_manual
 
 No. Description 1. Dynamo. 2. Control box. . 12-volt battery. 4. Starter solenoid. 5. Starter motor. 6. Lighting switch. 7. Headlamp dip switch. 8. R.H. headlamp. 9. L.H. headlamp.   
 10. Main-beam warning lamp.   
@@ -25033,13 +23030,11 @@ CABLE COLOUR CODE B. Black. G. Green. W. White. U. Blue. P. Purple. Y. Yellow. N
 
 
 ### WIRING DIAGRAM
-`mini_cooper_1976_en_3bc0d9d8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:965 | doc_type:owners_manual
 
 ![](images/f8056027742ddac99ae1d384c52b84c717ff671c6106047be4c34fe4263ee9d4.webp)
 
 
 ### KEY TO WIRING DIAGRAM
-`mini_cooper_1976_en_fed949b0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:966 | doc_type:owners_manual
 
 No. Description No. Description . Dynamo. Direction indicator warning lamp.   
 Control box. 28. R.H. front flasher lamp.   
@@ -25070,7 +23065,6 @@ When a cable has two colour code lettrs the first denotes the main colour and th
 
 
 ### Maintenance
-`mini_cooper_1976_en_f0c2272b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:967 | doc_type:owners_manual
 
 (1) Keep the battery clean and the vent holes in the caps free.   
 (2) Clean corroded terminals with diluted ammonia and smear them with petroleum jelly.   
@@ -25078,7 +23072,6 @@ When a cable has two colour code lettrs the first denotes the main colour and th
 
 
 ### Checking
-`mini_cooper_1976_en_45146a2c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:968 | doc_type:owners_manual
 
 The state of charge of the battery is indicated by hydrometer reading as follows: For climates below 27° C. (80° F) Cell fully charged 1б270 to 1б290 Cell about half-charged 1б190 to 1б210 Cell completely discharged 1б110 to 1б130 For climates above 27° C. (80° F.) Cell fully charged 1б210 to 1б230 Cell about half-charged 1б130 to 1б150 Cell completely discharged 1б050 to 1-070
 
@@ -25086,13 +23079,11 @@ These figures are given assuming an electrolyte temperature of 16° . (60° F.).
 
 
 ### Charging (used battery)
-`mini_cooper_1976_en_68aaa3d8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:969 | doc_type:owners_manual
 
 ( Charge at 3.0 amps. until al cells are gassing freely and hydrometer readings of each cell have not risen in four hours. Do not allow the temperature of the electrolyte to exceed the following maximum : For climates below 27 C. (80° F.) 30° C. (100 F.). For climates above 27° C. (80° F.) 49° C. (120° F.).
 
 
 ### Dry-charged batteries
-`mini_cooper_1976_en_839b03b2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:970 | doc_type:owners_manual
 
 Dry-charged batteries are supplied without electrolyte but with the plates in a charged condition. No initial charging is required.
 
@@ -25108,7 +23099,6 @@ During the charge the electrolyte must be kept level with the top edge of the se
 
 
 ### New, unfilled, uncharged battery
-`mini_cooper_1976_en_2f41b24d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:971 | doc_type:owners_manual
 
 (7 Half fill each cell with electrolyte prepared as in item (6) above and allow it to stand for six hours, fill each cell to the correct level and allow a further standing period of two hours. (8) Charge at 2 amps. until five successive hourly hydrometer checks show no increase in the reading; this will take from 48 to 80 hours, depending on the length of time the battery has been stored before charging. This charge should not be broken by long rest periods. (9) If the temperature of any cell rises above the maximum given in (5), the charge must be interrupted until the temperature has fallen at least 5.5° C. (10° F.) below that figure.   
 (10) Maintain the level of the electrolyte during the charge.   
@@ -25118,7 +23108,6 @@ During the charge the electrolyte must be kept level with the top edge of the se
 
 
 ### Removing
-`mini_cooper_1976_en_414678d3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:972 | doc_type:owners_manual
 
 (1) Disconnect the leads, slacken the four mounting bolts, remove the fan belt from the pulley, take out the two upper and one lower mounting bolts and lift off the dynamo.
 
@@ -25146,7 +23135,6 @@ The C40/1 type dynamo
 
 
 ### Dismantling
-`mini_cooper_1976_en_9be9f5d5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:973 | doc_type:owners_manual
 
 ( Unscrew the nut and take off the pulley.   
 Extract the key from the shaft.   
@@ -25156,13 +23144,11 @@ Extract the key from the shaft.
 
 
 ### Servicing Brushes
-`mini_cooper_1976_en_5680169e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:974 | doc_type:owners_manual
 
 (Clean the brushes with petrol (fuel) and, if sticking, polish them lightly with a smooth file. (8) Test the spring tension ('GENERAL DATA'). () Fit new brushes if the existing ones are worn to a length of less than  in. (6.5 mm.).
 
 
 ### Commutator
-`mini_cooper_1976_en_1a84c0e4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:975 | doc_type:owners_manual
 
 (10) Clean with petrol (fuel) and cloth or polish with fine glass-paper. If it is in very poor condition it may be skimmed to a minimum diameter of 1б450 in. (37 mm.). The undercut must have the following dimensions: Width .. б040 in. (1б02 mm.) Depth .. б020 to -035 in. (б51 to б89 mm.). Clean the insulating material from the sides of the undercut to a minimum depth of б015 in. (б38 mm.).
 
@@ -25186,13 +23172,11 @@ MINI. Issue 1. 14091
 
 
 ### Armature
-`mini_cooper_1976_en_1a0b10d0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:976 | doc_type:owners_manual
 
 (14) If special equipment is not available, test the armature by substitution.
 
 
 ### Bearings
-`mini_cooper_1976_en_8b729990` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:977 | doc_type:owners_manual
 
 (15) Screw a  in. (15-8 mm.) tap into the bush at the commutator end, pull out the bush and fit a new one, using a shouldered mandrel. NOTE.—Soak the new bush in thin engine oil for 24 hours before fitting.   
 (16) Renew the bearing at the driving end as follows:   
@@ -25202,7 +23186,6 @@ Press the bearing out of the bracket and remove the corrugated and felt washers.
 
 
 ### Reassembling and refitting
-`mini_cooper_1976_en_9284e069` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:978 | doc_type:owners_manual
 
 (20) Reverse the removing and dismantling instructions.   
 (2 The two upper fixing bolts must be fitted with a flat washer under the head of each bolt to register against the dynamo attachment points.
@@ -25212,7 +23195,6 @@ Fig. N.2
 
 
 ### An exploded view of the starter motor and drive
-`mini_cooper_1976_en_a663a6d0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:979 | doc_type:owners_manual
 
 1. Terminal nuts and washers.   
 2. Brush spring.   
@@ -25235,13 +23217,11 @@ Fig. N.2
 
 
 ### Removing
-`mini_cooper_1976_en_8545a310` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:980 | doc_type:owners_manual
 
 (1) Disconnect the cable, unscrew the three bolts and lift away.
 
 
 ### Dismantling
-`mini_cooper_1976_en_4f8a59f4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:981 | doc_type:owners_manual
 
 (2) Remove the cover band, withdraw the brushes, unscrew the through-bolts and take out the armature complete with drive.
 
@@ -25249,7 +23229,6 @@ Field coils See Section N.2, items (11), (12), and (13).
 
 
 ### Armature
-`mini_cooper_1976_en_ae57bda7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:982 | doc_type:owners_manual
 
 See Section N.2, item (14).
 
@@ -25257,13 +23236,11 @@ Reassembling and refitting Reverse the removal and dismantling instructions.
 
 
 ### Brushes
-`mini_cooper_1976_en_e700282a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:983 | doc_type:owners_manual
 
 See Section N.2, items (7) to (9).
 
 
 ### Drive
-`mini_cooper_1976_en_937f431c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:984 | doc_type:owners_manual
 
 (3) If the pinion is tight on the sleeve, wash it in kerosene.   
 (4) To dismantle, remove the shaft nut and withdraw the main spring and collar. On later types, compress the spring and remove the circlip.   
@@ -25272,7 +23249,6 @@ See Section N.2, items (7) to (9).
 
 
 ### Commutator
-`mini_cooper_1976_en_174084fe` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:985 | doc_type:owners_manual
 
 (7 If cleaning is not effective, skim lightly removing the absolute minimum amount of metal. Do not undercut the mica.
 
@@ -25280,7 +23256,6 @@ N.20
 
 
 ### Electrical
-`mini_cooper_1976_en_d9c2df89` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:986 | doc_type:owners_manual
 
 (1) Disconnect the cables from the control box terminals 'A' and 'Al' and join them together.   
 (2) Connect the negative lead from a voltmeter (0–20 volts) to control box terminal 'D' and the positive lead to terminal 'E'.   
@@ -25291,7 +23266,6 @@ N.20
 
 
 ### Mechanical
-`mini_cooper_1976_en_f3ab003c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:987 | doc_type:owners_manual
 
 (6) Slacken the fixed contact and voltage adjusting screws until they are clear of the moving contact and the tension spring respectively. Slacken the two armature assembly securing screws.   
 (7) Insert a б021 in. (53 mm.) feeler gauge between the armature and the core shim. Press the armature squarely down against the gauge and tighten the armature assembly securing screws.   
@@ -25317,14 +23291,12 @@ Armature securing screws. 7Core face andshim. б021 in. (б533 mm.).
 
 
 ### Electrical
-`mini_cooper_1976_en_1cdbd8ae` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:988 | doc_type:owners_manual
 
 (1) To check, connect the voltmeter between terminals 'D' and 'E'. Start the engine and slowly increase the speed until the contacts close; this should occur at 12б7 to 13б3 volts.   
 (2) To adjust, turn the adjusting screw clockwise to raise the voltage and anti-clockwise to reduce it. Turn only a fraction at a time. Make the adjustments as quickly as possible to avoid temperature effects.
 
 
 ### Mechanical
-`mini_cooper_1976_en_0ad1ba3a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:989 | doc_type:owners_manual
 
 (3) Unscrew the cut-out adjusting screw until it is clear of the armature tension spring. Slacken the armature securing screws.   
 (4) Press the armature down against the coppersprayed core and tighten the securing screws.   
@@ -25345,7 +23317,6 @@ Shunt coil.
 
 
 ### LAMPS
-`mini_cooper_1976_en_bb23c321` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:990 | doc_type:owners_manual
 
 Full details of the lamps, bulbs, warning lights, etc., are given in the Driver's Handbook.
 
@@ -25361,7 +23332,6 @@ F1. Cut-out adjusting screw. 5. Armature tongue and mov
 
 
 ### General description
-`mini_cooper_1976_en_f6bf1c90` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:991 | doc_type:owners_manual
 
 The bi-metal resistance equipment for fuel and temperature gauges consists of an indicator head and transmitter unit connected to a common voltage stabilizer. In both applications the indicator head operates on a thermal principle, using a bi-metal strip surrounded by a heated winding, and the transmitter unit is of a resistance type. The system by which the equipment functions is voltage-sensitive and the voltage stabilizer, which serves one or more gauges, is necessary to ensure a constant supply of a pre-determined voltage to the equipment.
 
@@ -25376,7 +23346,6 @@ Battery. Fuel gauge transmitter.
 
 
 ### Fault analysis
-`mini_cooper_1976_en_941d6cf0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:992 | doc_type:owners_manual
 
 Voltage stabilizer
 
@@ -25386,7 +23355,6 @@ Substitute voltage stabilizer if faulty.
 
 
 ### Gauges
-`mini_cooper_1976_en_5f6bf3fb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:993 | doc_type:owners_manual
 
 Check for continuity between the terminals with the wiring disconnected. The gauges must not be checked by short circuiting to earth.
 
@@ -25394,7 +23362,6 @@ Substitute the gauge if faulty.
 
 
 ### Transmitter
-`mini_cooper_1976_en_12d679ef` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:994 | doc_type:owners_manual
 
 Check for continuity between terminal and case with lead disconnected.
 
@@ -25404,7 +23371,6 @@ MINI. Issue 1. 14091
 
 
 ### Wiring
-`mini_cooper_1976_en_abcddc92` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:995 | doc_type:owners_manual
 
 Check for continuity between each unit. Check for leak to earth. Check for short circuits to earth on wiring to each transmitter. Check terminal wiring for security, earth connections, and wiring continuity. Check that the voltage stabilizer and relating transmitters are earthed.
 
@@ -25412,7 +23378,6 @@ NOTE.—If the voltage stabilizer is removed it is essential to ensure that, whe
 
 
 ### WINDSCREEN WIPER MOTOR (Moke)
-`mini_cooper_1976_en_3d03f49e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:996 | doc_type:owners_manual
 
 The wiper motor fitted to early models of this vehicle operated a single wiping blade on the driver's side only.
 
@@ -25420,7 +23385,6 @@ Later vehicles are equipped with a motor which operates twin wiper blades, and t
 
 
 ### Removing (early type)
-`mini_cooper_1976_en_cfed339b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:997 | doc_type:owners_manual
 
 (1) Slacken the hexagon screw and pull the blade and arm from the drive spindle.   
 (2) Remove the nuts, locknuts, washers, and seals securing the motor to the scuttle.   
@@ -25428,13 +23392,11 @@ Later vehicles are equipped with a motor which operates twin wiper blades, and t
 
 
 ### Refitting
-`mini_cooper_1976_en_05ffb8a3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:998 | doc_type:owners_manual
 
 ( Reverse the removal sequence.
 
 
 ### Removing (later type)
-`mini_cooper_1976_en_86b0944f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:999 | doc_type:owners_manual
 
 (5) Remove the four nuts securing the rack to the wheelboxes.   
 (6) Disconnect the electrical connections from the motor.   
@@ -25443,7 +23405,6 @@ Later vehicles are equipped with a motor which operates twin wiper blades, and t
 
 
 ### Dismantling the motor (later type)
-`mini_cooper_1976_en_ce4b8933` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1000 | doc_type:owners_manual
 
 (9) Remove the through-bolts and the commutator housing.   
 (10) Lift the brush unit clear of the commutator and withdraw it. Note the position occupied by each brush so that it may be refitted in its original setting on the commutator.   
@@ -25455,7 +23416,6 @@ Fig. N.8
 
 
 ### The windscreen wiper (Moke)
-`mini_cooper_1976_en_b6894be8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:1001 | doc_type:owners_manual
 
 Arm-locating screw. Motor mountings.
 
@@ -25463,7 +23423,6 @@ segments will cause excessive current consumption. The resistance between segmen
 
 
 ### Dismantling the gearbox
-`mini_cooper_1976_en_b8d29e7d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:1002 | doc_type:owners_manual
 
 (13) Carry out instruction (8).   
 (14) Remove the circlip and washer from the final drive gear shaft located underneath the gearbox casing, and lift out the final drive gear.   
@@ -25472,7 +23431,6 @@ segments will cause excessive current consumption. The resistance between segmen
 
 
 ### Reassembling
-`mini_cooper_1976_en_f9c77b7e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:1003 | doc_type:owners_manual
 
 (17) Reverse the dismantling procedures, using the following lubricants: Use Ragosine Listate grease liberally on the crosshead, guide channel, connecting rod assembly, worm drive, and on the rack cable and wheelbox assemblies. Use S.A.E. 20 oil sparingly on the armature and final drive gear bearings.   
 (18) Ensure that the plain steel washer is placed beneath the connecting rod when assembling the final drive gear crankpin.   
@@ -25480,13 +23438,11 @@ segments will cause excessive current consumption. The resistance between segmen
 
 
 ### Reftting
-`mini_cooper_1976_en_2d461cdd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1004 | doc_type:owners_manual
 
 (20) Reverse the removing procedure, but before switching on the motor remove the wiper arms from the spindles. Switch on the motor and stop it at the end of the stroke; refit the arms so that they are in the correct parking position.
 
 
 ### Removing
-`mini_cooper_1976_en_f5385d41` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:1005 | doc_type:owners_manual
 
 (1) Withdraw the wiper arms from the wheelbox spindles, and remove the external securing nuts.   
 (2) All models except Moke. From under the bonnet, slacken the nut securing the rack to the motor. Swivel the wheelboxes through into the engine compartment sufficiently to enable the securing nuts to be removed and release the wheelbox from the rack and cable. Note the location of the flared ends of the Bundy tubing with each wheelbox.   
@@ -25494,14 +23450,12 @@ segments will cause excessive current consumption. The resistance between segmen
 
 
 ### Refitting
-`mini_cooper_1976_en_0d6cacc3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1006 | doc_type:owners_manual
 
 (4) Reverse the removing procedure and fit new external sealing grommets if required. Tighten the rack securing nut on the motor.   
 (5) Switch on the motor and stop it at the end of the stroke. Ensure that the arms are correctly positioned to give maximum wipe area and park at the end of the stroke.
 
 
 ### ALTERNATOR SERVICE PRECAUTIONS
-`mini_cooper_1976_en_6842995b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:1007 | doc_type:owners_manual
 
 The following precautions must be observed when dealing with vehicles fitted with an alternator.
 
@@ -25518,13 +23472,11 @@ Do not make or break any connections in the alternator circuit while the engine 
 
 
 ### TESTING THE ALTERNATOR CHARGING CIRCUIT IN POSITION
-`mini_cooper_1976_en_2cb39c4d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:1008 | doc_type:owners_manual
 
 Before commencing the charging circuit tests given below carry out the 'Maintenance' instructions.
 
 
 ### Maintenance
-`mini_cooper_1976_en_7d6b27fc` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:1009 | doc_type:owners_manual
 
 The driving belt must be tensioned so that a deflection of  in. (13 mm.) can be obtained under finger pressure at the mid-point of the longest run of the belt.
 
@@ -25534,7 +23486,6 @@ Keep the ventilating holes in the slip-ring end cover clean.
 
 
 ### Alternator charging circuit
-`mini_cooper_1976_en_06bb8745` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:1010 | doc_type:owners_manual
 
 The following procedure should be adopted to locate a fault in the charging circuit using the test equipment recommended below.
 
@@ -25546,7 +23497,6 @@ Test equipment required
 
 
 ### Testing
-`mini_cooper_1976_en_09ad59d2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:1011 | doc_type:owners_manual
 
 (1) Check the driving belt for wear and tension (see Maintenance').   
 (Check that the battery voltage is reaching the brush gear by disconnecting the two cables from the alternator field terminals, connect a voltmeter between the two cables and run the engine. The voltmeter should register battery voltage. If no reading is obtained, check the field circuit wiring.   
@@ -25565,14 +23515,12 @@ If either reading exceeds б5 volt there is high resistance in the charging circ
 
 
 ### Removing
-`mini_cooper_1976_en_cd94858e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:1012 | doc_type:owners_manual
 
 (1) Disconnect the battery and detach the electrical leads from the alternator.   
 (2) Slacken the alternator securing bolts, push the alternator towards the engine and detach the driving belt from the alternator pulley. Remove the securing bolts and detach the alternator from the engine.
 
 
 ### Dismantling
-`mini_cooper_1976_en_91d34f31` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1013 | doc_type:owners_manual
 
 (3) Remove the securing nut and detach the drive pulley, fan, and key from the armature shaft.   
 (4) Mark the relative positions of the drive end bracket, the stator lamination pack, and the slipring end bracket for correct reassembly.
@@ -25588,7 +23536,6 @@ The drive end bracket and rotor need not be separated unless the drive end beari
 
 
 ### Brush gear
-`mini_cooper_1976_en_e2905afe` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:1014 | doc_type:owners_manual
 
 Brushes worn below  in. (8 mm.) should be replaced.   
 ( The new brush complete with spring and 'Lucar' terminal blade is pushed into the holder until the tongue registers. To retain the terminal, carefully lever up the retaining tongue with a thin blade.   
@@ -25602,7 +23549,6 @@ NOTE.——Do not attempt to machine the slip-rings.
 
 
 ### Testing
-`mini_cooper_1976_en_741824e1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1015 | doc_type:owners_manual
 
 Test equipment required:
 
@@ -25621,7 +23567,6 @@ Fig. N.11
 
 
 ### Alternator components
-`mini_cooper_1976_en_14ffebfb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:1016 | doc_type:owners_manual
 
 Shaft nut.   
 Spring washer.   
@@ -25650,7 +23595,6 @@ Field terminal blade.
 
 
 ### Rotor
-`mini_cooper_1976_en_655f7f81` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:1017 | doc_type:owners_manual
 
 (a) Test the rotor windings by connecting an ohmmeter, or a 12-volt battery supply and ammeter in series, between the slip-rings (Fig. N.10). The resistance or current of the field coils should be as given in 'GENERAL DATA'.   
 (b) Defective insulation between the slip-rings and one of the rotor poles. Use a mains test lamp (110-volt A.C., 15-watt), connect it between one of the slip-rings and rotor poles; if the lamp lights, the coil is earthing. Replace the rotor assembly.
@@ -25665,13 +23609,11 @@ Carry out the following test before resoldering the stator cables.
 
 
 ### Stator
-`mini_cooper_1976_en_6368fbcd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1018 | doc_type:owners_manual
 
 (a) Check for continuity of the stator windings. Unsolder the three stator cables from the heat sink assembly (see 'Replacing diode heat sink'). Connect any two of the three stator cables in
 
 
 ### Diodes
-`mini_cooper_1976_en_c25a3a2c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1019 | doc_type:owners_manual
 
 Test each diode by connecting a 12-volt D.C. supply and a 1б5-ЧБФФ test lamp in series with each diode in turn as shown in Fig. N.12, and then reversing the connections. Current should fow in one direction only.
 
@@ -25687,7 +23629,6 @@ The above procedure is adequate for testing. If, however, a battery-ohmmeter is 
 
 
 ### Replacing diode heat sink
-`mini_cooper_1976_en_758dcf9b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1020 | doc_type:owners_manual
 
 The heat sink assembly comprises two mutually insulated portions, one of positive polarity carries cathode-based diodes (marked red), and the other, negative, carries anode-base diodes (marked black).
 
@@ -25697,13 +23638,11 @@ The heat sink assembly comprises two mutually insulated portions, one of positiv
 
 
 ### Bearings
-`mini_cooper_1976_en_a4ee4b30` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1021 | doc_type:owners_manual
 
 Renew bearings which allow excessive side play of the rotor shaft.
 
 
 ### Bearing—slip-ring end-cover
-`mini_cooper_1976_en_6328413c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1022 | doc_type:owners_manual
 
 The needle-roller bearing and slip-ring end cover should be renewed as an assembly; if however a new bearing is to be fitted, follow the procedure below.
 
@@ -25714,7 +23653,6 @@ MINI. Issue 1. 14091
 
 
 ### Bearing—drive-end bracket
-`mini_cooper_1976_en_4c8dac39` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1023 | doc_type:owners_manual
 
 (a) Withdraw the rotor shaft from the drive-end bracket.   
 (b The bearing retaining plate is secured by either screws, rivets or a circlip. File away the rivet heads and punch out the rivets; withdraw the screws or extract the circlip.   
@@ -25724,7 +23662,6 @@ MINI. Issue 1. 14091
 
 
 ### Re-assembling
-`mini_cooper_1976_en_abf01f07` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1024 | doc_type:owners_manual
 
 (8) Reverse the dismantling procedure, bending the retaining tongues of the field terminal blades out at an angle of 30 degrees before fitting.   
 (9) Align the marks on the drive-end bracket, stator lamination pack and the slip-ring end-bracket.   
@@ -25749,7 +23686,6 @@ Lighting switch.
 
 
 ### Testing
-`mini_cooper_1976_en_46d15516` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1025 | doc_type:owners_manual
 
 (1) Check the resistance of the wiring circuits of the alternator, control unit, and battery to control unit, including the relay unit. The resistance should not exceed б1 ohm.
 
@@ -25794,13 +23730,11 @@ Alternator 'AL'. 2.Positive '+'. . Warning light 'WL'.
 
 
 ### RELAY
-`mini_cooper_1976_en_25a9512e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:1026 | doc_type:owners_manual
 
 The relay de-energizes the alternator rotor field winding when the engine is stationary by disconnecting the supply from the rotor field immediately the ignition is switched 'off'. This allows contact 'Cl' and 'C2' to part and open-circuit the rotor feld winding. The alternator will not generate if the contacts fail to close when the ignition is switched 'on'.
 
 
 ### WARNING LIGHT CONTROL
-`mini_cooper_1976_en_aa9a77f7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:1027 | doc_type:owners_manual
 
 The control is electrically connected to the centre point of one pair of diodes in the alternator and enables a warning light to be used to indicate that the alternator is charging when the engine is running at normal speed.
 
@@ -25808,7 +23742,6 @@ If proved faulty, replace the unit.
 
 
 ### THE ELECTRICAL SYSTEM
-`mini_cooper_1976_en_2fcfb1b3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1028 | doc_type:owners_manual
 
 The information contained in this section refers specifically to new or modified components fitted to the Mini range coincident with the introduction of NEGATIVE earth electrical systems and must be used in conjunction with Section N.
 
@@ -25827,7 +23760,6 @@ Multi-plug wiring connector.
 
 
 ### Removing
-`mini_cooper_1976_en_80ba4f7d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1029 | doc_type:owners_manual
 
 (1) Disconnect the battery earth cable (NEGATIVE).   
 (2) Remove the air ventilation louvre adjacent to the instrument panel (see Section Rb.4).   
@@ -25837,13 +23769,11 @@ Multi-plug wiring connector.
 
 
 ### Refitting
-`mini_cooper_1976_en_74700ed7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1030 | doc_type:owners_manual
 
 (6) Reverse the removing instructions but note that the connector plug will fit one way only and make sure the speedometer cable is fully engaged in the instrument. Carefully refit the trim liners and use adhesive when refitting the door seal.
 
 
 ### Removing
-`mini_cooper_1976_en_80ea6e21` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1031 | doc_type:owners_manual
 
 (1) Remove the instrument panel (see Section Nb.1). Nb.2
 
@@ -25853,7 +23783,6 @@ Removal of the instruments for replacement is as follows:
 
 
 ### Speedometer (Clubman)
-`mini_cooper_1976_en_973d9260` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1032 | doc_type:owners_manual
 
 (2) Remove the screws securing the complete instrument unit to the panel, and lift off the unit.   
 () Remove the three clips (1) and withdraw the lens assembly (2) (see Fig. Nb.2).   
@@ -25861,20 +23790,17 @@ Removal of the instruments for replacement is as follows:
 
 
 ### Speedometer (1275 GT)
-`mini_cooper_1976_en_1baf17a1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1033 | doc_type:owners_manual
 
 (5) Before removing the complete instrument unit as detailed in item (2), disconnect the printed circuit earth connection (arrowed) and remove the illuminating light bulb holder (5) from the tachometer (see Fig. Nb.2).   
 (6) Carry out instructions (3) and (4).
 
 
 ### Fuel and temperature gauges
-`mini_cooper_1976_en_8900bec3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1034 | doc_type:owners_manual
 
 (7) Remove the clips (1), withdraw the lens assembly (6) from the instrument unit and lift out the instrument sub-dial (7). Unscrew the appropriate securing screws (8) and remove the instrument(s) (9), (10) for replacement (see Fig. Nb.2).
 
 
 ### Tachometer (1275 GT)
-`mini_cooper_1976_en_3e91f5b3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1035 | doc_type:owners_manual
 
 (8) Disconnect the printed circuit earth connection (arrowed) and withdraw the illuminating bulb holder (5). Remove the screws securing the tachometer unit to the panel and lift out the complete assembly.
 
@@ -25882,7 +23808,6 @@ The tachometer is replaceable as a complete unit (12) (see Fig. Nb.2). Do not re
 
 
 ### Reftting
-`mini_cooper_1976_en_f6c6412f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1036 | doc_type:owners_manual
 
 Instruments and gauges
 
@@ -25899,7 +23824,6 @@ Fig. Nb.3
 
 
 ### Removing the printed circuit
-`mini_cooper_1976_en_f1068f29` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1037 | doc_type:owners_manual
 
 1. Printed circuit.   
 2. Printed circuit securing stud.   
@@ -25909,7 +23833,6 @@ Fig. Nb.3
 
 
 ### Removing
-`mini_cooper_1976_en_f905b7ff` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1038 | doc_type:owners_manual
 
 ( Remove the instrument panel (Section Nb.1).   
 (2) Withdraw all the panel and warning light bulb holders (4) and pull off the voltage stabilizer (5) (see Fig. Nb.3).   
@@ -25920,19 +23843,16 @@ Fig. Nb.3
 
 
 ### Replacing
-`mini_cooper_1976_en_f29b570d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1039 | doc_type:owners_manual
 
 (7) Fit the replacement circuit, bending the bulb contacts into each respective holder recess. The remainder is a reversal of the removing procedure.
 
 
 ### VOLTAGE STABILIZER
-`mini_cooper_1976_en_6de506c7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1040 | doc_type:owners_manual
 
 The voltage stabilizer is a push-fit into the rear of the instrument panel. For testing or replacement of the unit the panel must be withdrawn.
 
 
 ### Testing
-`mini_cooper_1976_en_64bc4d80` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:1041 | doc_type:owners_manual
 
 To carry out a rapid diagnosis of the voltage stabilizer, fuel and temperature gauges and their electrical circuits use a Smiths Automotive Instrument Tester (which incorporates a thermal-sensitive voltmeter).
 
@@ -25942,40 +23862,34 @@ Nb.4
 
 
 ### Battery voltage
-`mini_cooper_1976_en_1878aadc` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:1042 | doc_type:owners_manual
 
 (1) Connect a voltmeter to the 2 terminal of the fuse block and earth. With the ignition switched off, check the voltage, it should be approximately 12 volts.   
 (2) Start the engine and run it at approximately 1,000 r.p.m., and ensure that the igition warning light is out. Check the voltage, which should be 12 to 13 volts.
 
 
 ### Wiring
-`mini_cooper_1976_en_d1b54410` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1043 | doc_type:owners_manual
 
 (3) Check for continuity between each unit and for short-circuits in the wiring to the temperature gauge transmitter.   
 (4) Ensure that the voltage stabilizer, gauges and transmitter are earthed.
 
 
 ### Voltage stabilizer
-`mini_cooper_1976_en_de7f7260` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1044 | doc_type:owners_manual
 
 (5) Switch the ignition on. After a pause of two minutes, check the main voltage between the output terminal '1' and earth; it should be 10 volts. (6Substitute the voltage stabilizer if faulty.
 
 
 ### Gauges
-`mini_cooper_1976_en_c50518e3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1045 | doc_type:owners_manual
 
 (7) Check for continuity between the terminals with the wiring disconnected. DO NOT short-circuit a gauge to earth.   
 ( Substitute a gauge if faulty.
 
 
 ### Reftting
-`mini_cooper_1976_en_4cbdb52d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1046 | doc_type:owners_manual
 
 (11) Refit the instrument panel as detailed in Section Nb.1.
 
 
 ### Removing
-`mini_cooper_1976_en_a74efbd6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:1047 | doc_type:owners_manual
 
 (1 Remove the instrument panel (see Section Nb.1).   
 ( Press in the release lever (2) on the cable and pull the cable out of the instrument (see Fig. Nb.1). Withdraw the cable into the engine compartment.   
@@ -25983,19 +23897,16 @@ From beneath the car, disconnect the cable through the aperture above the left-h
 
 
 ### Refitting
-`mini_cooper_1976_en_3e1b07ed` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1048 | doc_type:owners_manual
 
 (4) Reverse the removing procedure, fitting a new joint washer if the speedometer drive has been removed. Tighten the lower securing nut by hand.
 
 
 ### Lubrication
-`mini_cooper_1976_en_ccec5d1d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1049 | doc_type:owners_manual
 
 (5) Withdraw the inner cable and lightly grease it except for 8 in. (200 mm.) at the speedometer end, re-insert it in the outer casing and wipe away surplus grease. Check that there is approximately in.(10 mm.) projection of the inner cable beyond the outer casing at the speedometer end.
 
 
 ### Removing
-`mini_cooper_1976_en_489675b4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:1050 | doc_type:owners_manual
 
 (1) Access to the unit is through an aperture in the fascia parcel shelf. Pull the flasher unit from its spring clip holder and through the access hole; pull off the wiring connections.
 
@@ -26006,7 +23917,6 @@ From beneath the car, disconnect the cable through the aperture above the left-h
 
 
 ### Brush gear
-`mini_cooper_1976_en_ced66653` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:1051 | doc_type:owners_manual
 
 (9) Check the brush spring tension; fit a new brush into each holder in turn, and press on top of the brush with a push-type spring gauge until the brush protrudes approximately 18 in. (1.5 mm.) from the holder. At this point check the gauge, which should read approximately 28 oz. (794 gm.); renew the commutator-end bracket if the tension is incorrect.   
 (10) Check the brushes for wear, and renew any brush worn to or approaching the minimum length of in. (9.5 mm.).   
@@ -26015,20 +23925,17 @@ To renew the feld winding brushes, cut the brush leads approximately ‡ in. (6�
 
 
 ### Replacing
-`mini_cooper_1976_en_c9728334` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1052 | doc_type:owners_manual
 
 ( Connect the wiring to the new unit and refit it into the holder.
 
 
 ### Removing
-`mini_cooper_1976_en_b95f6ee9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:1053 | doc_type:owners_manual
 
 ( Disconnect the battery earth cable.   
 ( Disconnect the cable at the starter motor, remove the two bolts securing the starter motor to the fywheel housing and manceuvre the starter away from the engine.
 
 
 ### Dismantling
-`mini_cooper_1976_en_dd15ff4f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1054 | doc_type:owners_manual
 
 (3) Remove the screws securing the drive-end bracket. (4Withdraw the drive-end bracket complete with the armature and drive.
 
@@ -26048,7 +23955,6 @@ Fig. Nb.5
 
 
 ### The M35J-type starter motor components
-`mini_cooper_1976_en_c4eeb125` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:1055 | doc_type:owners_manual
 
 1. Commutator end bracket.   
 2. Bush housing.   
@@ -26071,7 +23977,6 @@ Fig. Nb.5
 
 
 ### Commutator
-`mini_cooper_1976_en_f9a9e848` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1056 | doc_type:owners_manual
 
 (13) Clean the commutator with a cloth moistened with fuel and examine it for burrs, pitting and excessive wear; provided that the amount of metal removed does not reduce the thickness of the commutator beyond the minimum thickness, the commutator may be reconditioned as follows:
 
@@ -26083,7 +23988,6 @@ IMPORTANT.—The commutator segment insulators must not be undercut.
 
 
 ### Armature
-`mini_cooper_1976_en_d6514ce5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1057 | doc_type:owners_manual
 
 (14) Test the insulation of the armature windings with a 110-volt A.C., 15-watt test lamp connected between the armature shaft and the commutator; if the lamp lights the armature must be renewed.   
 (15) Check the windings at their connections with the commutator for signs of melted solder or lifted conductors.   
@@ -26091,7 +23995,6 @@ IMPORTANT.—The commutator segment insulators must not be undercut.
 
 
 ### Field windings
-`mini_cooper_1976_en_4c394bd6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1058 | doc_type:owners_manual
 
 (17) Connect a 12-volt battery-operated test lamp between each of the field brushes and a clean part
 
@@ -26114,13 +24017,11 @@ of the yoke; the lamp will light if continuity is satisfactory between the brush
 
 
 ### Commutator end bracket
-`mini_cooper_1976_en_7c690fa7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:1059 | doc_type:owners_manual
 
 (20) Check the insulation of the springs and terminal post by connecting a 110-volt A.C., 15-watt test lamp between a clean part of the end bracket and, in turn, each spring and the terminal; the lamp will light if the insulation is unsatisfactory.
 
 
 ### Bearings
-`mini_cooper_1976_en_25ec5eca` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1060 | doc_type:owners_manual
 
 (21 If a bearing is worn suficiently to allow excessive side play of the armature shaft, the bearing bush must be renewed as follows:
 
@@ -26139,14 +24040,12 @@ Commutator- and drive-end brackets (d Using a polished, shouldered mandrel, the 
 
 
 ### Drive
-`mini_cooper_1976_en_a6e0de78` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1061 | doc_type:owners_manual
 
 (22) Wash the drive with paraffin (kerosene) and dry using an air blast.   
 (23) Check the components for damage and excessive wear; renew worn or damaged parts.
 
 
 ### Reassembling and refitting
-`mini_cooper_1976_en_5fa8ed17` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1062 | doc_type:owners_manual
 
 (24) Carry out items (3) to (8) in reverse order, and refit the starter by reversing the removal sequence items (1) and (2).
 
@@ -26160,7 +24059,6 @@ Field winding continuity test
 
 
 ### Bench testing
-`mini_cooper_1976_en_344a4723` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1063 | doc_type:owners_manual
 
 Light running current
 
@@ -26178,7 +24076,6 @@ Lock torque and current
 
 
 ### Operation
-`mini_cooper_1976_en_40b9fb56` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:1064 | doc_type:owners_manual
 
 This windscreen wiper, which is produced in either single- or two-speed form, has two permanent field magnets incorporated in a cylindrical yoke. The twospeed type is fitted with a third brush, to which the positive feed is transferred when a faster wiper speed is required.
 
@@ -26211,7 +24108,6 @@ A self-switching limit switch is incorporated in the terminal assembly. A cam on
 
 
 ### Testing
-`mini_cooper_1976_en_fec3481d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:1065 | doc_type:owners_manual
 
 If the wiper fails to operate, or the wiper speed is slow or irregular, first locate the fault. Start by checking that the battery is fully charged, and that the wiper blades are in good condition and are not sticking.
 
@@ -26221,7 +24117,6 @@ Nb.8
 
 
 ### Electrical
-`mini_cooper_1976_en_07d3edff` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1066 | doc_type:owners_manual
 
 (3) If the wiper takes no current and the fuse is intact, check the electrical circuit for continuity, including the fascia switch. If the fuse had blown (item (1)) check the wiring insulation, and if in order carry out the electrical test (5).   
 (4) If the wiper takes an abnormally low current, the motor must be dismantled and an examination made of the brush gear and commutator (see Inspecting).
@@ -26232,7 +24127,6 @@ NOTE.-If the motor is run other than from the vehicle's own connector, connect u
 
 
 ### Mechanical
-`mini_cooper_1976_en_87eb31de` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:1067 | doc_type:owners_manual
 
 (6) See that the wiper arm spindles rotate freely; replace seized or damaged wheelboxes.   
 (7 Use a spring balance to measure the force required to pull the cable rack out of the casing from the fully-in position. This force must not exceed 6 1b. (2:7 kg.). Reform any bends of less than 9 in. (230 mm.) radius and replace any kinked or damaged tubes. Inspect the drive cable rack for damage.   
@@ -26240,7 +24134,6 @@ NOTE.-If the motor is run other than from the vehicle's own connector, connect u
 
 
 ### Removing
-`mini_cooper_1976_en_6ec4cb4b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:1068 | doc_type:owners_manual
 
 Motor and gearbox assembly
 
@@ -26250,13 +24143,11 @@ Motor and gearbox assembly
 
 
 ### Wheelboxes
-`mini_cooper_1976_en_7b549e8f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:1069 | doc_type:owners_manual
 
 (12) Remove the wheelboxes, as described in Section N.9.
 
 
 ### Dismantling
-`mini_cooper_1976_en_5d98e08c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:1070 | doc_type:owners_manual
 
 Motor and gearbox assembly (when removed)
 
@@ -26272,7 +24163,6 @@ MINI. Issue 1. 26562
 
 
 ### Inspecting
-`mini_cooper_1976_en_240a11ec` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:1071 | doc_type:owners_manual
 
 Motor and gearbox assembly (20 Examine the brush gear assembly, which must be replaced before either of the main brushes is worn to the minimum length of  in.(5 mm.), or the narrow section of the third brush (two-speed models) is worn down to the full width of the brush (see Fig. Nb.9).
 
@@ -26284,7 +24174,6 @@ Motor and gearbox assembly (20 Examine the brush gear assembly, which must be re
 
 
 ### Reassembling
-`mini_cooper_1976_en_0a2e810b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:1072 | doc_type:owners_manual
 
 Motor and gearbox assembly (24) Reverse the dismantling procedure in (13) to (19), noting the following points.
 
@@ -26307,7 +24196,6 @@ RGRed with green. YG-Yellow with green. UG—Blue with green.
 
 
 ### Armature end-float adjusting
-`mini_cooper_1976_en_6672d243` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1073 | doc_type:owners_manual
 
 (25) Tighten the thrust screw until the end-fioat is just eliminated, and then turn back one-quarter turn to give an end-fioat within the limits of б002 to б008 in. (б05 to б2 mm.). Measure the gap under the head of the thrust screw with a feeler gauge, fit a suitable shim beneath it and fully tighten it.
 
@@ -26326,25 +24214,21 @@ The armature end-float adjusting screw
 
 
 ### Refitting
-`mini_cooper_1976_en_2e8d644e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:1074 | doc_type:owners_manual
 
 (26) Reverse the procedure (9) to (12), leaving the wheelbox covers slack until after the cable rack has been inserted and the motor secured. Do not re-fit the wiper blades until after the action of the wheelboxes has been checked.
 
 
 ### (Lucas type 16ACR)
-`mini_cooper_1976_en_9eb96151` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1075 | doc_type:owners_manual
 
 The model 16ACR alternator is similar in basic construction to that of the type 11AC as described in Section N.12, except that the slip-rings are mounted behind the rear rotor shaft bearing outside the slip-ring end bracket, and no separate control unit is fitted. Instead, a voltage regulator, of micro-circuit construction is incorporated on the slip-ring end bracket, inside the alternator cover.
 
 
 ### Precautions
-`mini_cooper_1976_en_d8fcdf00` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:1076 | doc_type:owners_manual
 
 The alternator service precautions given in Section N.10 must be observed. Note that the battery polarity is NEGATIVE EARTH, which must be maintained at all times. The field connector block, which has three blades and is marked 'B+' and 'IND', has an offset moulded stop and must be removed before the main output connector block, which has two blades and is marked '+' and '—'. Since the B+ connector blade, although shrouded, is always live, disconnect the battery earth before removing the field connector block.
 
 
 ### Output test
-`mini_cooper_1976_en_66535e02` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:1077 | doc_type:owners_manual
 
 (1) Check that the fan belt is correctly tensioned and that all charging circuit electrical connections are secure.   
 (2) Run the engine at fast idle speed until its normal operating temperature is reached, and see that the battery is fully charged.   
@@ -26373,7 +24257,6 @@ Positive (+). 5. Earth (-)—-11TR.
 
 
 ### Regulator test
-`mini_cooper_1976_en_b4ef2f39` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:1078 | doc_type:owners_manual
 
 (9) Disconnect the lead which was connected up in item (6) to bridge the regulator field connector to earth.
 
@@ -26404,7 +24287,6 @@ Fig. Nb.14
 
 
 ### The 16ACR alternator components
-`mini_cooper_1976_en_5a0db6c0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1079 | doc_type:owners_manual
 
 Regulator pack. 5. Fan. Rectifier pack.   
 Slip-ring end bracket. 6. Pulley. 10. Slip-rings.   
@@ -26413,7 +24295,6 @@ Slip-ring end bracket. 6. Pulley. 10. Slip-rings.
 
 
 ### Removing the regulator pack
-`mini_cooper_1976_en_48374ee8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1080 | doc_type:owners_manual
 
 (15) Remove the alternator as described in items (17) to (20).
 
@@ -26423,7 +24304,6 @@ Disconnect the coloured tag lead connectors from the brush box, and detach the b
 
 
 ### Removing the alternator
-`mini_cooper_1976_en_9440a6bb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1081 | doc_type:owners_manual
 
 (17) Withdraw the terminal block from the alternator.   
 (18)Remove the adjusting link bolt from the alternator.   
@@ -26432,7 +24312,6 @@ Disconnect the coloured tag lead connectors from the brush box, and detach the b
 
 
 ### Testing—alternator removed
-`mini_cooper_1976_en_222838aa` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1082 | doc_type:owners_manual
 
 (21) Unscrew the cover retaining screws and remove the cover if this has not already been done in item (16).   
 (22) Unsolder the three stator connections from the rectifier pack, noting the connection positions.
@@ -26460,7 +24339,6 @@ Brush and spring assembly.
 
 
 ### Brushes
-`mini_cooper_1976_en_afa535f6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1083 | doc_type:owners_manual
 
 (25) Check the brushes for wear by measuring the length of brush protruding beyond the brushbox moulding. If the length protruding is б2 in. (5 mm.) or less, the brush must be renewed.   
 (26)Check thas the brushes move freely in their holders. If a brush shows a tendency to stick, clean it with a petrol- (gasoline-)moistened cloth or, if necessary polish the sides of the brush with a fine file.   
@@ -26471,7 +24349,6 @@ Fig. Nb.17
 
 
 ### Slip-rings
-`mini_cooper_1976_en_4cb7689b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1084 | doc_type:owners_manual
 
 (28) Clean the surfaces of the slip-rings using a petrol(gasoline-)moistened cloth.
 
@@ -26479,7 +24356,6 @@ Fig. Nb.17
 
 
 ### Rotor
-`mini_cooper_1976_en_80f6b737` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1085 | doc_type:owners_manual
 
 (30) Connect an ohmmeter, or a 12-volt battery and an ammeter, to the slip-rings. An ohmmeter reading of 4.3 ohms or an ammeter reading of 3 amps. should be recorded.
 
@@ -26490,7 +24366,6 @@ Fig. Nb.18 Testing the diodes
 
 
 ### Stator
-`mini_cooper_1976_en_146fb721` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1086 | doc_type:owners_manual
 
 (32) Connect a 12-volt battery and a 36-watt test lamp to two of the stator connections. Repeat the test, replacing one of the two stator connections with the third. If the test lamp fails to light in either of the tests, the stator must be renewed (see Fig. Nb.17).
 
@@ -26498,7 +24373,6 @@ Fig. Nb.18 Testing the diodes
 
 
 ### Diodes
-`mini_cooper_1976_en_7bd2fc5d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1087 | doc_type:owners_manual
 
 (34) Connect a 12-volt battery and a 1б5-ЧБФФ test lamp in turn to each of the nine diode pins and its corresponding heatsink on the rectifier pack, then reverse the connections. The lamp should light with the current flowing in one direction only. If the lamp lights in both directions or fails to light in either, the rectifier pack must be renewed (see Fig. Nb.18).
 
@@ -26514,7 +24388,6 @@ B.15 in. (38 mm.). D.1б24 ЙО.(31б5 mm.).
 
 
 ### Dismantling
-`mini_cooper_1976_en_970df30c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1088 | doc_type:owners_manual
 
 (35) Carry out the operations detailed in (21) to (24).   
 (36) Remove the three through-bolts.   
@@ -26527,7 +24400,6 @@ B.15 in. (38 mm.). D.1б24 ЙО.(31б5 mm.).
 
 
 ### Reassembling
-`mini_cooper_1976_en_5dbb293b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1089 | doc_type:owners_manual
 
 (43) Reverse the dismantling procedure in (35) to (42) and (21) to (24), noting the following points.
 
@@ -26542,19 +24414,16 @@ B.15 in. (38 mm.). D.1б24 ЙО.(31б5 mm.).
 
 
 ### Refitting the alternator
-`mini_cooper_1976_en_f1ffe3a3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1090 | doc_type:owners_manual
 
 Reverse the removal procedure in (17) to (21), and ensure that the drive belt is correctly tensioned.
 
 
 ### FAULT DIAGNOSIS
-`mini_cooper_1976_en_81c2db67` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1091 | doc_type:owners_manual
 
 ![](images/489779d1e672708b9ccc3cc291ef39af45eb803f8e75f4f2213d66e0029207be.webp)
 
 
 ### WIRING DIAGRAMS
-`mini_cooper_1976_en_32796afd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1092 | doc_type:owners_manual
 
 Page
 
@@ -26566,7 +24435,6 @@ Mini 850 De-Luxe Saloon, Van and Pick-up .\* Nb.m Mini 1000 Special De-luxe Salo
 
 
 ### MASTER KEY TO WIRING DIAGRAMS
-`mini_cooper_1976_en_7158a5bc` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1093 | doc_type:owners_manual
 
 Some of the components listed in this key may not be fitted to individual models
 
@@ -26645,7 +24513,6 @@ Optional extra/standard some models.
 
 
 ### CABLE COLOUR CODE
-`mini_cooper_1976_en_40bbdc35` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1094 | doc_type:owners_manual
 
 N \$p\ Purple. W. W Gren. LG. it een.
 
@@ -26653,37 +24520,31 @@ When a cable has two colour code letters the first denotes the main colour and t
 
 
 ### Mini 850 De-Luxe Saloon, Van, and Pick-up
-`mini_cooper_1976_en_318902d3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1095 | doc_type:owners_manual
 
 ![](images/73d37a2663a3ca7cab75ae945138c6192611cf0f6873c4d9a7b0b504e478457b.webp)
 
 
 ### Mini 1000 Special De-luxe Saloon and Cooper 'S' Mk. III
-`mini_cooper_1976_en_c405e88e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1096 | doc_type:owners_manual
 
 ![](images/37a525790b0f3fb394c448f5e40930306ebb39d3f35287574aa29dd3c8336833.webp)
 
 
 ### Mini Clubman Saloon and Estate
-`mini_cooper_1976_en_964a1db7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1097 | doc_type:owners_manual
 
 ![](images/5a2914b7b9e4028ff0008050ab3c6e9ec5643a6a80220f81fd9c62a766977bd4.webp)
 
 
 ### Mini 1275 GT
-`mini_cooper_1976_en_09ff37a7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1098 | doc_type:owners_manual
 
 ![](images/4771c5be19e9b0919edbcad8ee35046ce6ceb7e1171e5d021ed68e1790950ec8.webp)
 
 
 ### THE BODY
-`mini_cooper_1976_en_590bfb34` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1099 | doc_type:owners_manual
 
 Section Alignment .. R.13-R.14 Door frame—rear (Countryman and Travelle) .. . . .\* R.8 Door locks .. .. R.7 Glasses Back-light \* . R.2 Door .. R.3 \*\* Quarter-light .. . \* R.4 . . Sliding (Countryman and Traveller) ,. R.9 Windscreen . . . . R.1 • • Heater assembly (recirculatory type) • . R.5 Heater assembly (fresh-air type) .. . • R.16 Instrument panel (Mk. I models) .. ... R.11 Instrument nacelle (Mk. II models) \*. R.18 Instruments (Mk. II models) . . R.17 \* \* Roof liner .. R.6 Speedometer (Super De-luxe and Cooper) .. .. R.12 Tilt frame and cover (Pick-up) . . R.10 \* . Windscreen (Moke) \*\* R.15
 
 
 ### Removing
-`mini_cooper_1976_en_7066a403` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1100 | doc_type:owners_manual
 
 (1) Lift the wiper blades from the glass.   
 (2) Prise up the end of the locking filler and pull it from the rubber channel.   
@@ -26691,7 +24552,6 @@ Section Alignment .. R.13-R.14 Door frame—rear (Countryman and Travelle) .. . 
 
 
 ### Refitting
-`mini_cooper_1976_en_f1a435ab` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1101 | doc_type:owners_manual
 
 (4) Fit the rubber surround to the body and lubricate with soap and water.   
 (5) Fit the glass into the lower channel of the rubber and lift the lip of the surround with the short peg of Service tool 18G 468, starting at one corner and working round.   
@@ -26699,25 +24559,21 @@ Section Alignment .. R.13-R.14 Door frame—rear (Countryman and Travelle) .. . 
 
 
 ### BACK-LIGHT GLASS
-`mini_cooper_1976_en_a755a004` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1102 | doc_type:owners_manual
 
 As items (2) to (6) in 'Windscreen Glass'.
 
 
 ### Removing and refitting
-`mini_cooper_1976_en_d7fd67c9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1103 | doc_type:owners_manual
 
 Take out the screws from the lower channel and remove the glass and channel. Reverse to refit.
 
 
 ### Removing (Fixed type)
-`mini_cooper_1976_en_f02ce445` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1104 | doc_type:owners_manual
 
 (1) Support the outside of the glass and hit it with the palm of the hand inside at the top, then remove the glass and rubber.
 
 
 ### Refitting
-`mini_cooper_1976_en_460caa5b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1105 | doc_type:owners_manual
 
 (2) Fit the surround rubber to the glass.   
 (3) Pass a length of thin cord round the outer channel of the surround, leaving the ends hanging down on the inside of the glass.
@@ -26731,7 +24587,6 @@ Use Service tool 18G 468 to ease the channel lip over the windscreen glass
 
 
 ### Removing (Hinged type)
-`mini_cooper_1976_en_5873d090` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1106 | doc_type:owners_manual
 
 (5) Remove the catch from the body.   
 (6 Open the quarter-light, ease up the seal on the body, unscrew the exposed screws securing the hinge and detach the window assembly.   
@@ -26739,13 +24594,11 @@ Use Service tool 18G 468 to ease the channel lip over the windscreen glass
 
 
 ### Initial fitting
-`mini_cooper_1976_en_2a3f4d63` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:hvac | p:1108 | doc_type:owners_manual
 
 Full instructions for fitting are contained in the heater kit.
 
 
 ### Removing
-`mini_cooper_1976_en_fa320a0d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:1109 | doc_type:owners_manual
 
 ( Disconnect the battery.   
 ( Drain the cooling system.   
@@ -26757,7 +24610,6 @@ MINI. Issue 2. 23136
 
 
 ### Refitting
-`mini_cooper_1976_en_33671a21` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:1110 | doc_type:owners_manual
 
 (6) Reverse the removal instructions.   
 (7 Open the heater tap on the rear of the engine and refill the cooling system.   
@@ -26768,7 +24620,6 @@ MINI. Issue 2. 23136
 
 
 ### Removal
-`mini_cooper_1976_en_ea4223bc` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1111 | doc_type:owners_manual
 
 (1) Disconnect the battery and remove the roof light.   
 (2) Mark the position of the rear edge of the front liner on the cant rail.   
@@ -26777,7 +24628,6 @@ MINI. Issue 2. 23136
 
 
 ### Refitting
-`mini_cooper_1976_en_bcb1a4d8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1112 | doc_type:owners_manual
 
 Reverse the removal instructions.
 
@@ -26790,26 +24640,22 @@ The use of the glazing tool and eye to thread the locking filler strip into the 
 
 
 ### Refitting
-`mini_cooper_1976_en_9e3f0906` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:1113 | doc_type:owners_manual
 
 (5) Clean off sealing compound and remake the joints. (Refit the frame; locate all the screws before tightening any.
 
 
 ### Removing
-`mini_cooper_1976_en_f40d49e2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1114 | doc_type:owners_manual
 
 ( Withdraw the screw securing the lock to the inner panel and the screw from the end of the locking handle spindle.   
 (Slacken the screw clamping the inner lever and remove the handle and escutcheon.
 
 
 ### Refitting
-`mini_cooper_1976_en_526e56fb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1115 | doc_type:owners_manual
 
 Reverse the removal instructions. Ensure that the inner control cable lever is fitted upright.
 
 
 ### Removing
-`mini_cooper_1976_en_3011344e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1116 | doc_type:owners_manual
 
 The wood frame is a complete assembly.
 
@@ -26819,19 +24665,16 @@ MINI. Issue 1. 4908
 
 
 ### Removing
-`mini_cooper_1976_en_2bba1e57` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1117 | doc_type:owners_manual
 
 (1) Remove the trim panel from above the sliding windows. Remove the upper channels, support the inside and push the glass from the outside.
 
 
 ### Refitting
-`mini_cooper_1976_en_7687111c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1118 | doc_type:owners_manual
 
 (Reverse the removal instructions.
 
 
 ### (Pick-up)
-`mini_cooper_1976_en_fb0b87a9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:1119 | doc_type:owners_manual
 
 The tilt frame and cover are supplied as a separate kit; the centre and rear hoop sockets, and the front attachment bracket for the struts, are fitted to the vehicle as original equipment.
 
@@ -26861,7 +24704,6 @@ The tilt frame and cover assembly
 
 
 ### Fitting
-`mini_cooper_1976_en_955e046a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:1120 | doc_type:owners_manual
 
 (1) Fit the rear hoop ends into the sockets at either side of the rear end of the body. Ensure that the three brackets attached to the top of the hoop face forwards.   
 (2) Fit the centre hoop ends into the sockets at the centre position.   
@@ -26897,7 +24739,6 @@ Repeat this operation on the remaining turnbutton positions, working from front 
 
 
 ### Removing
-`mini_cooper_1976_en_9f3ff91c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1122 | doc_type:owners_manual
 
 ( Remove the panel.   
 (2) Unscrew two screws and remove the speedometer instrument panel brackets and distance pieces.   
@@ -26908,7 +24749,6 @@ Repeat this operation on the remaining turnbutton positions, working from front 
 
 
 ### CHECKING BODY ALIGNMENT
-`mini_cooper_1976_en_80766ce1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1123 | doc_type:owners_manual
 
 (Without Checking Jig )
 
@@ -26923,7 +24763,6 @@ Repeat this operation on the remaining turnbutton positions, working from front 
 
 
 ### Removing
-`mini_cooper_1976_en_8d716227` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1124 | doc_type:owners_manual
 
 (1) Remove four screws from the front face of the shroud.   
 (2 Withdraw the shroud and disconnect the panel light switch wires.
@@ -26935,7 +24774,6 @@ Fig. R.4 The assembly of the jig components
 
 
 ### CHECKING BODY ALIGNMENT (With Checking Jig)
-`mini_cooper_1976_en_507f4754` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1125 | doc_type:owners_manual
 
 The equipment required for checking the body alignment consists of the basic body checking jig Service tool 18G 560, and adaptor set 18G 560 E used in conjunction with basic adaptor set 18G 560 A.
 
@@ -26943,7 +24781,6 @@ This equipment is intended to be used solely as a checking fixture, and under no
 
 
 ### Assembling the jig
-`mini_cooper_1976_en_202e8ee3` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1126 | doc_type:owners_manual
 
 Where item numbers are quoted in this sub-section refer to Fig. R.4.
 
@@ -26974,7 +24811,6 @@ If a fixed-position hoist is to be used to lift the body onto the jig, the jig m
 
 
 ### Checking alignment
-`mini_cooper_1976_en_cbc3e063` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1127 | doc_type:owners_manual
 
 All item numbers quoted in the following description refer to Fig. R.5.
 
@@ -27019,7 +24855,6 @@ A parallel clearance of  in. (3б18 mm.) must exist between the body and the che
 
 
 ### Removal
-`mini_cooper_1976_en_da5fce40` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1128 | doc_type:owners_manual
 
 (1) Remove the windscreen wiper arm and blade.   
 (2) Remove four nuts and screws.   
@@ -27029,7 +24864,6 @@ A parallel clearance of  in. (3б18 mm.) must exist between the body and the che
 
 
 ### Removing
-`mini_cooper_1976_en_23c86dec` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:1129 | doc_type:owners_manual
 
 (Disconnect the battery and drain the cooling system.   
 (2) Remove the front floor covering to avoid damage by coolant when removing the heater pipes.   
@@ -27042,7 +24876,6 @@ On early models the heater unit is secured by four nuts. Lift the parcel shelf t
 
 
 ### Heater matrix replacement
-`mini_cooper_1976_en_0c9f0444` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:hvac | p:1130 | doc_type:owners_manual
 
 (7) Slacken the screws securing the control panel, remove the end cover screws and lift off the cover complete with the blower motor.   
 (8) Lift out the heater matrix and fit the replacement unit.   
@@ -27050,7 +24883,6 @@ On early models the heater unit is secured by four nuts. Lift the parcel shelf t
 
 
 ### Heater motor replacement
-`mini_cooper_1976_en_7605660b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1131 | doc_type:owners_manual
 
 (10) Carry out operations (1) to (7).   
 (11) Drill out the three Pop rivets securing the motor unit to the end cover and remove the motor.   
@@ -27060,33 +24892,28 @@ On early models the heater unit is secured by four nuts. Lift the parcel shelf t
 
 
 ### Blower switch replacement
-`mini_cooper_1976_en_72b0ca08` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:hvac | p:1132 | doc_type:owners_manual
 
 (14) Remove the heater control panel and the switch securing nut. Pull the fiap valve outwards, withdraw the switch and pull off the wiring connections.   
 (1 Fitting a replacement switch is a reversal of item (14).
 
 
 ### Refitting
-`mini_cooper_1976_en_25489043` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:1133 | doc_type:owners_manual
 
 (16) Reverse the removal procedure and refill the radiator with coolant. Start and warm up the engine, check for leaks and correct operation of the heater assembly. Top up the coolant in the radiator to the correct level.
 
 
 ### INSTRUMENTS (Mk. I Models)
-`mini_cooper_1976_en_f5e0549a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1134 | doc_type:owners_manual
 
 It is not necessary to withdraw the instrument nacelle to remove the instruments, access to these being from under the bonnet behind the carburetter.
 
 
 ### Speedometer
-`mini_cooper_1976_en_a8ac8039` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:1135 | doc_type:owners_manual
 
 (1) Remove the carburetter air cleaner and pull back the sound blanket from the speedometer aperture.   
 (2) Disconnect the speedometer cable and pull off the electrical connections from the rear of the instrument. Remove the two securing screws and withdraw the instrument through the aperture into the engine compartment.
 
 
 ### Fuel gauge
-`mini_cooper_1976_en_abf6563d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1136 | doc_type:owners_manual
 
 () Carry out instructions (1) and (2); remove the two securing screws and lift out the fuel gauge.
 
@@ -27100,13 +24927,11 @@ Fig. R.7 The fresh-air heater assembly securing points (arrowed)
 
 
 ### Refitting
-`mini_cooper_1976_en_327ae241` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1137 | doc_type:owners_manual
 
 (6) Refitting or replacing all units is a reversal of the removing procedure.
 
 
 ### Removing
-`mini_cooper_1976_en_09ec770c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1138 | doc_type:owners_manual
 
 (1) Remove the fascia ashtray and bend up the retaining tab.   
 ( Release the portion of the door seal covering the fascia trim liner and carefully lift the liner which is fi xed by adhesive solution to the body. Ease the liner from the fascia sufficiently to gain access to the instrument nacelle securing screws.   
@@ -27114,13 +24939,11 @@ Fig. R.7 The fresh-air heater assembly securing points (arrowed)
 
 
 ### Refitting
-`mini_cooper_1976_en_7c58fe88` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1139 | doc_type:owners_manual
 
 ( Reverse the removing procedure.
 
 
 ### THE HEATER ASSEMBLY COMPONENTS (Fresh-air Heater)
-`mini_cooper_1976_en_24e96801` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:hvac | p:1140 | doc_type:owners_manual
 
 ![](images/a69e74ee7e528b1e4064413af69ba4fdb8085126e747ea7d90c628be6633aaec.webp)
 
@@ -27168,7 +24991,6 @@ X 90064 Z
 
 
 ### THE BODY
-`mini_cooper_1976_en_c4ab9edd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1141 | doc_type:owners_manual
 
 The information contained in this Section refers specifically to new or modified components fitted to the Mini range coincident with the introduction of NEGATIVE earth electrical systems and must be used in conjunction with Section R.
 
@@ -27191,7 +25013,6 @@ Rear (when fitted) Rb.15
 
 
 ### Removing
-`mini_cooper_1976_en_7acc681d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1142 | doc_type:owners_manual
 
 #
 
@@ -27200,26 +25021,22 @@ Rear (when fitted) Rb.15
 
 
 ### Rear
-`mini_cooper_1976_en_f278dc18` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1143 | doc_type:owners_manual
 
 () Remove the four securing screws from the under side of the bumper and remove it.
 
 
 ### Refitting
-`mini_cooper_1976_en_189f3b81` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1144 | doc_type:owners_manual
 
 Front and rear (4 Reverse the removing instructions.
 
 
 ### Removing
-`mini_cooper_1976_en_f8c5ffcd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1145 | doc_type:owners_manual
 
 (1) Remove the headlamp/grille extension panels (four screws securing each panel).   
 () Remove the grille panel securing screws and lift the panel out of the locating holes in the lower grille panel assembly.
 
 
 ### Reftting
-`mini_cooper_1976_en_6b644a16` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:hvac | p:1146 | doc_type:owners_manual
 
 (3) Engage the lower attachment strips on the panel into the locating holes in the lower grille panel; the remainder is a reversal of the removing procedure.
 
@@ -27230,7 +25047,6 @@ The heater unit securing points (arrowed)
 
 
 ### Removing
-`mini_cooper_1976_en_8b2baaa6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:hvac | p:1147 | doc_type:owners_manual
 
 (1 Drain the cooling system (Section C.1).   
 ( Remove the front floor covering to avoid damage by coolant when disconnecting the heater pipes.   
@@ -27241,7 +25057,6 @@ The heater unit securing points (arrowed)
 
 
 ### Dismantling
-`mini_cooper_1976_en_cd58754e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:hvac | p:1148 | doc_type:owners_manual
 
 Heater matrix replacement
 
@@ -27257,20 +25072,17 @@ Blower motor replacement
 
 
 ### Blower switch replacement
-`mini_cooper_1976_en_20a54820` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:ev | p:1149 | doc_type:owners_manual
 
 (12) The blower switch can be removed without removing the heater unit as follows: From behind the blower switch/air distribution panel, pull of the electrical connections, and using a pair of pliers, press in the retainers on each side of the switch and manceuvre the switch through the face of the panel.   
 (13) Press in the replacement switch and refit the electrical connections.
 
 
 ### Refitting the heater
-`mini_cooper_1976_en_84a6ffcc` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:1150 | doc_type:owners_manual
 
 (14) Reverse the removing procedure and refill the cooling system. Start and warm up the engine, check for leaks and correct operation of the heater. Top up the coolant in the radiator to the correct level.
 
 
 ### THE HEATER UNIT COMPONENTS
-`mini_cooper_1976_en_89ce58a7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:hvac | p:1151 | doc_type:owners_manual
 
 ![](images/2c3c26995a619f9bed3c4033efac644b6fb618b1a7c33b9e5f5c92385daaff73.webp)
 
@@ -27303,37 +25115,31 @@ Removing a fresh-air ventilating louvre Retaining ring. Moulding. . Louvre.
 
 
 ### Louvres
-`mini_cooper_1976_en_78d30def` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:hvac | p:1152 | doc_type:owners_manual
 
 (1) Unscrew the louvre moulding retaining ring and remove the moulding (Fig. Rb.2). Turn the ventilation louvre anti-clockwise and withdraw it.
 
 
 ### Intake hoses
-`mini_cooper_1976_en_6b92ecbe` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1153 | doc_type:owners_manual
 
 () From beneath the wing, pull off both ends of the hose(s) from their respective units and remove the hose(s).
 
 
 ### Refitting
-`mini_cooper_1976_en_c539e4dd` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1154 | doc_type:owners_manual
 
 ( Reverse the removing procedures.
 
 
 ### (Operation, Adjustments, Lubrication)
-`mini_cooper_1976_en_361759b8` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1155 | doc_type:owners_manual
 
 Before attempting to remove any part of the mechanism because of faulty operation first check that the condition is not caused by bad installtion.
 
 
 ### Push-button plunger
-`mini_cooper_1976_en_e58324d9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1156 | doc_type:owners_manual
 
 This is preset during manufacture to provide free button movement before the latch contactor (1) begins to operate and release from the striker before full depression (see Fig. Rb.3). However, if further adjustment of the plunger screw is required proceed as detailed below:
 
 
 ### Adjustments
-`mini_cooper_1976_en_3356e517` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1157 | doc_type:owners_manual
 
 NOTE.—The interior locking latch cannot be set in the locked position while the door is open.
 
@@ -27350,7 +25156,6 @@ IMPORTANT.—The plastic bush immediately under the head of the screw must not b
 
 
 ### Striker unit
-`mini_cooper_1976_en_f64af97e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1158 | doc_type:owners_manual
 
 Before attempting to close the door ensure that the latch disc is in the open position; if not, fire' the latch (using the push-button) and pull the latch disc back to the open position using a screwdriver. Do not slam the door while making adjustments as the mechanism may be strained. The striker screws (1) (see Fig. Rb.4) should be tightened sufficiently to allow the door to be closed to the fully latched position, but will allow the striker
 
@@ -27366,7 +25171,6 @@ Fig. Rb.4
 
 
 ### The door striker unit
-`mini_cooper_1976_en_b96f7686` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1159 | doc_type:owners_manual
 
 Securing screws. Over-travel stop Striker loop.
 
@@ -27381,7 +25185,6 @@ Positioning is carried out by a process of trial and error, until the door can b
 
 
 ### Lubrication
-`mini_cooper_1976_en_d17b1b10` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1160 | doc_type:owners_manual
 
 The latching elements are enclosed and apart from initial lubrication during manufacture will need no further attention.
 
@@ -27390,7 +25193,6 @@ The latching elements are enclosed and apart from initial lubrication during man
 
 
 ### Removing
-`mini_cooper_1976_en_8b402768` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1161 | doc_type:owners_manual
 
 (1) Remove the interior release handle, window regulator handle, and the door trim panel. Pull back the adhesive strip adjacent to the lock.   
 () Remove the screws securing the latch unit and the lock remote control (Fig. Rb.5).   
@@ -27414,7 +25216,6 @@ Remote control. Exterior handle lock link.
 
 
 ### Refitting
-`mini_cooper_1976_en_7f4ddda5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:interior | p:1162 | doc_type:owners_manual
 
 (6) Reverse the removing procedure, with particular attention to the following instructions.   
 (Refer to Fig. Rb.6. Ensure that the circlip securing the remote control lever (1) and the interior lock control lever (2) are correctly located, and that the latch locking rod (4) is engaged in the spring clip of the exterior handle lock link (3).   
@@ -27424,7 +25225,6 @@ Remote control. Exterior handle lock link.
 
 
 ### Removing
-`mini_cooper_1976_en_029b5ad2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1163 | doc_type:owners_manual
 
 (1) Remove the interior release handle, the window regulator handle, and the door trim panel. Pull off the adhesive sealing strips where necessary.   
 (2) Remove the outer and inner waist rail finishers (Fig. Rb.8).   
@@ -27434,7 +25234,6 @@ Remote control. Exterior handle lock link.
 
 
 ### Refitting
-`mini_cooper_1976_en_ce257613` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1164 | doc_type:owners_manual
 
 (6 Reverse the removing procedure, with particular attention to the following instructions.   
 (7) When refitting the door glass, ensure that it is located in the glazing channels and wedge it in the position shown in Fig. Rb.8 to facilitate engagement of the regulator arms. Apply sealer around the edge of the regulator plate.   
@@ -27443,14 +25242,12 @@ Remote control. Exterior handle lock link.
 
 
 ### Removing
-`mini_cooper_1976_en_2786acf2` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1165 | doc_type:owners_manual
 
 (1) Remove the interior handles, door trim, and latch assembly—Section Rb.6, operations (1) to (5).   
 (2) Wind up the window, remove the exterior handle securing screws (Fig. Rb.7), and withdraw the handle from the door.
 
 
 ### Refitting
-`mini_cooper_1976_en_093cf79f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1166 | doc_type:owners_manual
 
 (3) Reverse the removing procedure, with particular attention to instructions (7) and (8) as detailed in Section Rb.6.
 
@@ -27469,26 +25266,22 @@ Waist rail finisher (inner). Securing clips for finishers.
 
 
 ### Removing
-`mini_cooper_1976_en_f6de67e6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1167 | doc_type:owners_manual
 
 (1) Remove the interior handles, door trim, and regulator assembly—see Section Rb.8, operations (1), (3), and (4).
 
 
 ### Refitting
-`mini_cooper_1976_en_766ebae6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1168 | doc_type:owners_manual
 
 (Apply sealer around the edge of the regulator plate. Ensure that the lip on the front edge of the regulator is engaged inside the door frame. The remainder is a reversal of the removing procedure.
 
 
 ### Removing
-`mini_cooper_1976_en_b405e4c7` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1169 | doc_type:owners_manual
 
 (1) Follow the instructions given in Section Rb.8 for door glass removal.   
 (2) Remove the glazing channel rubber strip and pull the channel from the door frame.
 
 
 ### Refitting
-`mini_cooper_1976_en_9a6a999d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1170 | doc_type:owners_manual
 
 (3 Fit a new glazing channel into the door frame and refit the rubber securing strip. (4) The remainder is a reversal of the removal procedure as detailed in Section Rb.8, items (6) to (10).
 
@@ -27496,7 +25289,6 @@ MINI. Issue 3. 81171
 
 
 ### Removing
-`mini_cooper_1976_en_f778df03` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1171 | doc_type:owners_manual
 
 (1) Disconnect the battery earth cable.   
 (2) Disconnect and remove the roof lamp.   
@@ -27510,7 +25302,6 @@ MINI. Issue 3. 81171
 
 
 ### Refitting
-`mini_cooper_1976_en_f21b1d75` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1172 | doc_type:owners_manual
 
 (10) If itting a new roof liner, remove the support rails from the old liner and insert them into the new liner; the rails are colour coded and should be fitted in the following order commencing at the front: Nos. 1 (Red), 2, 3 (White), 4 (Black), 5 (Blue), and 6 (Yellow).
 
@@ -27532,7 +25323,6 @@ Fig. Rb.10
 
 
 ### Removing
-`mini_cooper_1976_en_b1c7dfb5` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1173 | doc_type:owners_manual
 
 () Disconnect the battery and remove the roof light. (2) Mark the position of the rear edge of the front liner on the roof cant-rail.
 
@@ -27540,7 +25330,6 @@ Rb.8
 
 
 ### Cutting and sticking the liner around the screen, door and quarter light exterior flanges
-`mini_cooper_1976_en_f1691d5b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1174 | doc_type:owners_manual
 
 () Grip the outer edges of the liner and pull it backwards and inwards to withdraw it.   
 (4) Remove the trim liner from over the rear doors.   
@@ -27548,13 +25337,11 @@ Rb.8
 
 
 ### Refitting
-`mini_cooper_1976_en_d4c8b14e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1175 | doc_type:owners_manual
 
 (6Reverse the removing procedure items (1) to (5).
 
 
 ### Reel assembly—Britax belts
-`mini_cooper_1976_en_3d9b00e6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1176 | doc_type:owners_manual
 
 (1 Before removing any belt fixings, attach a clip (1) to the belt just above the reel assembly to prevent the belt retracting during removal and storage. The clip (1) must not be removed until the belt assembly has been refitted, see Fig. Rb.11.
 
@@ -27583,14 +25370,12 @@ The Britax 'automatic type' seat belt
 
 
 ### Reel assembly—Kangol belts
-`mini_cooper_1976_en_3925a347` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1177 | doc_type:owners_manual
 
 Remove the reel retaining screw () with the plain washer (2) and detach the reel assembly, see Fig. Rb.12.   
 () Carry out operation (3).
 
 
 ### Central console
-`mini_cooper_1976_en_2084cc8d` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1178 | doc_type:owners_manual
 
 (6) Remove the nut and bolt retaining the central console to its mounting straps and detach the console unit.
 
@@ -27598,13 +25383,11 @@ Britax : Note that a fibre washer (17) is fitted on either side of the console a
 
 
 ### Mounting brackets—central console
-`mini_cooper_1976_en_bd888150` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:1179 | doc_type:owners_manual
 
 (7Remove the carpet to obtain access to the bracket securing screws. Unscrew and remove the two securing screws (1) (with their spring washers) and detach the mounting straps (), see Fig. Rb.15.
 
 
 ### Refitting
-`mini_cooper_1976_en_b924fea4` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1180 | doc_type:owners_manual
 
 (8) Reverse the order of the removing procedure, noting the following: ( On the Britax belt use the short retaining screw (11) with the shallow shouldered distance piece (13) when attaching the belt bracket to the sill mounting point.
 
@@ -27622,13 +25405,11 @@ NOTE.—If the seat belts were being used whilst the car was involved in a sever
 
 
 ### Testing
-`mini_cooper_1976_en_3362e2a1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1181 | doc_type:owners_manual
 
 (9With the belts being worn, drive the car at 5 m.p.h. (8 km.p.h.) and brake sharply; the automatic locking device should operate and lock the reel.
 
 
 ### Removing
-`mini_cooper_1976_en_a795531e` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1182 | doc_type:owners_manual
 
 Belt fixing brackets
 
@@ -27638,7 +25419,6 @@ Belt fixing brackets
 
 
 ### Central console
-`mini_cooper_1976_en_f5d7bb5f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1183 | doc_type:owners_manual
 
 (3) Remove the nut (10) and bolt (11) retaining the central console to its mounting straps (14) and detach the console unit.
 
@@ -27648,7 +25428,6 @@ Mounting straps—central console (4) Remove the carpet to obtain access to the 
 
 
 ### Refitting
-`mini_cooper_1976_en_70704792` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1184 | doc_type:owners_manual
 
 (5) Reverse the order of the removing procedure, noting the following:
 
@@ -27731,13 +25510,11 @@ The centre console mounting straps
 
 
 ### Removing
-`mini_cooper_1976_en_8ba4bdd6` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:1185 | doc_type:owners_manual
 
 (1) Remove the rear seat cushion and squab. () Remove the belt bracket retaining screws (1) with their spring washers (2), see Fig. Rb.16.
 
 
 ### Refitting
-`mini_cooper_1976_en_c87c2498` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:1186 | doc_type:owners_manual
 
 (3) Reverse the order of the removing procedure, noting that the longer section of the belt is fitted to the fixing point nearest to the centre line of the car, see Fig. Rb.16.   
 (4 Ensure that a spring washer is fitted under the head of each bracket retaining screw; align the brackets as shown in Fig. Rb.16 and tighten the retaining screws to a torque figure of 25 1b. ft. (3б5 kg. m.).
@@ -27752,13 +25529,11 @@ Spring washers. Short belt.
 
 
 ### SECTION S
-`mini_cooper_1976_en_b64414d0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1187 | doc_type:owners_manual
 
 All Service tools mentioned in this Manual are only obtainable from the tool manufacturer:
 
 
 ### SERVICE TOOLS
-`mini_cooper_1976_en_90d6f014` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1188 | doc_type:owners_manual
 
 Messrs. V. L. Churchill & Co. Ltd., P.O. Box No. 3,   
 London Road, Daventry,   
@@ -27831,7 +25606,6 @@ Valve seat cutting 18G 167 A S.9
 
 
 ### FUEL SYSTEM
-`mini_cooper_1976_en_51b69d61` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1189 | doc_type:owners_manual
 
 Fuel tank gauge unit removing and refitting 18G 1001 S.17   
 Mechanical fuel pump testing 18G 1116 S.20   
@@ -27839,7 +25613,6 @@ Mechanical fuel pump oil seal removing and replacing. . 18G 1119 S.21
 
 
 ### CLUTCH
-`mini_cooper_1976_en_6a7b3caa` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:1190 | doc_type:owners_manual
 
 Clutch dismantling and reassembling (coil spring clutch) 18G 304 M S.11   
 18G 571 S.12   
@@ -27910,7 +25683,6 @@ Sub-frame (Hydrolastic models) removing and reftting .. 18G 703 S.17
 
 
 ### STEERING GEAR
-`mini_cooper_1976_en_522a7e2c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:steering | p:1191 | doc_type:owners_manual
 
 Steering-column bush (upper) removing and replacing .. 18G 1191 S.21   
 .   
@@ -27948,7 +25720,6 @@ S.5
 
 
 ### 18G 27. Valve Seat Cutter Handle
-`mini_cooper_1976_en_5cd2b9ab` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:interior | p:1192 | doc_type:owners_manual
 
 ![](images/d5a3064dec8678acabef1d5680a448cc7bd91e3db7127d01f53919319dc1e943.webp)
 
@@ -27956,14 +25727,12 @@ S.5
 
 
 ### 18G 45. Valve Spring Compressor
-`mini_cooper_1976_en_0a192226` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:suspension | p:1193 | doc_type:owners_manual
 
 ![](images/baaf961d980e7bdaa024778596eb3390a40bba71754183bbab8a60804002b33a.webp)  
 18G 55 A. Piston Ring Compressor
 
 
 ### 18G 29. Valve Suction Grinder
-`mini_cooper_1976_en_58ab811a` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:1194 | doc_type:owners_manual
 
 ![](images/af048385492f16923ee0450265eac3b5f2e01bcbd1854e7b32ba69b493faff37.webp)  
 8680 18G 69. Oil Pump Release Valve Grinding-in Tool
@@ -27979,14 +25748,12 @@ A1039
 
 
 ### 18G 123 AN. Camshaft Liner Reamer Cutter—Front
-`mini_cooper_1976_en_da99cb52` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:1195 | doc_type:owners_manual
 
 ![](images/7641abd1f7381ddc1427640ba43048a73a1a0e10e64088c669520dcb4ca84700.webp)  
 A1039
 
 
 ### 18G 123 B. Camshaft Liner Reamer Cutter
-`mini_cooper_1976_en_fc3f9578` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:1196 | doc_type:owners_manual
 
 ![](images/cce97842acd81afa907579f610b76e95eb29216abed3c437758f0c2195e4cc2f.webp)
 
@@ -27994,7 +25761,6 @@ A4963
 
 
 ### 18G 123 BB. Camshaft Liner Reamer Pilot—Rear
-`mini_cooper_1976_en_be7e7ab0` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:1197 | doc_type:owners_manual
 
 ![](images/e2e1ae08ab1fefdb39d7851f07606f481d6fc08b8d02f093141cadca477693af.webp)
 
@@ -28005,7 +25771,6 @@ A4963
 
 
 ### 18G 123 AQ. Camshaft Liner Reamer Pilot—Front
-`mini_cooper_1976_en_ad116bad` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:1198 | doc_type:owners_manual
 
 18G 123 AT. Camshaft Liner Reamer Pilot—Centre
 
@@ -28018,14 +25783,12 @@ S.8
 
 
 ### 18G 124 B. Camshaft Liner Remover Adaptor
-`mini_cooper_1976_en_faa942f9` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:1199 | doc_type:owners_manual
 
 ![](images/0306a739c858b53878f9e7aa30d4cd188013567fefdfad4ac7e9e42e45c688a8.webp)  
 A4933
 
 
 ### 18G 124 K. Camshaft Liner Remover Adaptor
-`mini_cooper_1976_en_6492e06b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:engine | p:1200 | doc_type:owners_manual
 
 829XX
 
@@ -28034,7 +25797,6 @@ A4933
 
 
 ### 18G 134. Bearing and Oil Seal Replacer (basic tool)
-`mini_cooper_1976_en_82891229` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:1201 | doc_type:owners_manual
 
 18G 134 BC. Crankshaft Primary Gear Oil Seal Replacer Adaptor
 
@@ -28078,7 +25840,6 @@ I
 
 
 ### 18G 257. Circlip Pliers—Large
-`mini_cooper_1976_en_a775fe33` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:1202 | doc_type:owners_manual
 
 ![](images/15c4794146563cf9dd261939f2df79bd9895565148688c7366ea9d28b0c4787d.webp)  
 18G 260. Hub Bearing Outer Race Remover (basic tool)
@@ -28113,7 +25874,6 @@ MINI. Issue 2. 81601
 
 
 ### 18G 304. Front and Rear Hub Remover (basic tool)
-`mini_cooper_1976_en_00062d9f` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:chassis | p:1203 | doc_type:owners_manual
 
 ![](images/df8462f2be09eba0236988d1557f25579c550ad8196617f87b0e2377b6c956c0.webp)
 
@@ -28140,7 +25900,6 @@ S.11
 
 
 ### 18G 468. Rubber Moulding Glazing Tool
-`mini_cooper_1976_en_a47e1ba1` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1204 | doc_type:owners_manual
 
 The tool comprises:
 
@@ -28154,7 +25913,6 @@ Handle. 3. Post. 5. Hook.
 
 
 ### 18G 471. Dummy Layshaft
-`mini_cooper_1976_en_a5848b5b` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1205 | doc_type:owners_manual
 
 ![](images/5eafa02a02ab69f7d326442be15c64256b9bc651bb5a0f814d9047be38b8e926.webp)  
 18G 502 K. Pressure Hose (8 ft.) with Adaptor
@@ -28175,7 +25933,6 @@ Handle. 3. Post. 5. Hook.
 
 
 ### 18G 571. Clutch Centralizer
-`mini_cooper_1976_en_e3c4d66c` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:body | p:1206 | doc_type:owners_manual
 
 ![](images/1bbd51b6d25bc6e2d15065cd40d2763375418f141655cb4f53d3e59868dcce1e.webp)  
 18G 560 E. Body Checking Jig Adaptor Set
@@ -28188,7 +25945,6 @@ Handle. 3. Post. 5. Hook.
 
 
 ### 18G 575. Front Hub Drive Flange Remover
-`mini_cooper_1976_en_aab54edb` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:1207 | doc_type:owners_manual
 
 ![](images/f5b7c1ad69191ada0ab5a633a672edc2d88186b92a97470323e1276c1d75c4cd.webp)  
 18G 578. Differential Bearing Replacer
@@ -28370,7 +26126,6 @@ A6783.
 
 
 ### e epal Fuel Pamp  Seal Retaie
-`mini_cooper_1976_en_679c0338` | cooper_1976 | pdf_manual | tier:2 | lang:en | layer:general | p:1208 | doc_type:owners_manual
 
 ![](images/d425f9e693d2db09cf167e89ce23c6f5502f381d2adffafe1aa2e408954ccbfe.webp)
 

@@ -1,8 +1,12 @@
-# Manual: livan/9 (1641 chunks)
-<!-- doc_type:owners_manual tier:2 lang:ru -->
+---
+brand: livan
+model: 9
+generation: gen_2022
+source: kb
+---
+
 
 ### Предисловие
-`livan_9_ru_f3d0aa65` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 Уважаемый владелец автомобиля марки LIVAN,
 Спасибо Вам за доверие, оказанное компании LIVAN, и за выбор автомобиля
 марки LIVAN, который обеспечит вам отличные характеристики в области безопасности,
@@ -11,7 +15,6 @@
 владения новым автомобилем.
 
 ### Перед началом эксплуатации нового автомобиля внимательно изучите настоящее
-`livan_9_ru_79be21e2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 Руководство. Управление автомобилем осуществляйте в строгом соответствии с
 изложенными инструкциями. Это поможет Вам эффективно, правильно и безопасно
 эксплуатировать автомобиль, содержать его в технически исправном состоянии и
@@ -40,7 +43,6 @@
 Руководства.
 
 ### Руководство содержит
-`livan_9_ru_76aa2620` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:1 | doc_type:owners_manual
 информацию,
 актуальную на
 момент его
@@ -59,7 +61,6 @@
 данное
 
 ### Руководство
-`livan_9_ru_72773a47` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:1 | doc_type:owners_manual
 новому
 владельцу.
 Вся
@@ -98,7 +99,6 @@
 1
 
 ### Руководство по
-`livan_9_ru_69592d34` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:3 | doc_type:owners_manual
 эксплуатации
 автомобиля:
 идентификация
@@ -119,7 +119,6 @@
 12 Табличка изготовителя
 
 ### Система контроля и
-`livan_9_ru_36c66ecb` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:3 | doc_type:owners_manual
 управления
 13 Устройства системы контроля и
 управления
@@ -180,7 +179,6 @@
 63 Рейлинги на крыше
 
 ### Система
-`livan_9_ru_ed33f966` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:4 | doc_type:owners_manual
 кондиционирования
 воздуха
 65 Отопление, вентиляция и
@@ -198,7 +196,6 @@
 кондиционера
 
 ### Сиденья и устройства
-`livan_9_ru_7291e180` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:4 | doc_type:owners_manual
 защиты
 77 Сиденья
 77 Передние сидения
@@ -243,7 +240,6 @@
 детской защиты
 
 ### Запуск двигателя и
-`livan_9_ru_f85dc919` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:5 | doc_type:owners_manual
 вождение
 117 Ключи и противоугонная
 защита
@@ -303,7 +299,6 @@
 150 Антиблокировочная система
 
 ### (ABS)
-`livan_9_ru_b0e7e59b` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:5 | doc_type:owners_manual
 150 Электронное распределение
 тормозного усилия (EBD)
 4
@@ -312,14 +307,12 @@
 151 Контроль спуска со склона
 
 ### (HDC)
-`livan_9_ru_3d426f60` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:6 | doc_type:owners_manual
 152 Усилитель торможения (HBA)
 152 Функция помощи при
 подъеме в гору (ННС)
 153 Антипробуксовочная система
 
 ### (TCS)
-`livan_9_ru_11f124c2` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:6 | doc_type:owners_manual
 153 Электронная система
 предотвращения
 опрокидывания (RMI)
@@ -333,7 +326,6 @@
 160 Система управления круизконтролем (СС)
 
 ### Неисправности во время
-`livan_9_ru_ab13245a` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:6 | doc_type:owners_manual
 вождения
 163 Устройства предупреждения
 об опасности
@@ -372,7 +364,6 @@
 оперативных служб (ЭРА-
 
 ### ГЛОНАСС)*
-`livan_9_ru_cde338ed` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:6 | doc_type:owners_manual
 195 Внезапная остановка
 двигателя
 195 Если автомобиль застрял
@@ -387,7 +378,6 @@
 5
 
 ### Ремонт и обслуживание
-`livan_9_ru_a571f782` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:7 | doc_type:owners_manual
 197 Техническое обслуживание
 197 Регулярное техническое
 обслуживание
@@ -413,14 +403,12 @@
 214 Электроусилитель руля
 
 ### (EPS)
-`livan_9_ru_e1193395` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:7 | doc_type:owners_manual
 215 Передняя комбинированная
 фара
 215 Запотевание передних
 комбинированных фар
 
 ### 216 АКБ
-`livan_9_ru_f4cd616b` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:7 | doc_type:owners_manual
 216 Обслуживание АКБ
 217 Проверка АКБ
 217 Замена АКБ
@@ -435,7 +423,6 @@
 221 Очистка салона
 
 ### Технические данные
-`livan_9_ru_29c36b57` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:7 | doc_type:owners_manual
 225 Основные параметры
 автомобиля
 225 Основные размерные
@@ -463,7 +450,6 @@
 7
 
 ### Руководство
-`livan_9_ru_89172369` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:9 | doc_type:owners_manual
 по
 эксплуатации
 Предостережение
@@ -474,7 +460,6 @@
 антиблокировочной системой (ABS).
 
 ### В случае экстренного торможения с
-`livan_9_ru_22c88fa0` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:9 | doc_type:owners_manual
 усилием зажмите педаль тормоза до
 полной
 остановки
@@ -482,7 +467,6 @@
 порывистое нажатие не допускается.
 
 ### 2. В
-`livan_9_ru_1c31b779` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 соответствии
 с
 рекомендациями
@@ -492,7 +476,6 @@
 шин и давления в колесах.
 
 ### 3. Используйте
-`livan_9_ru_7bd85bdb` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 масла
 и
 жидкости,
@@ -510,7 +493,6 @@
 Руководством.
 
 ### 4. В целях безопасности вождения не
-`livan_9_ru_a0bd11f6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 снимайте
 детали
 и
@@ -531,7 +513,6 @@
 повторно.
 
 ### 5. Для
-`livan_9_ru_67719d30` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 обеспечения
 Вашей
 безопасности во время управления
@@ -543,7 +524,6 @@
 автомобиля.
 
 ### 6. Не
-`livan_9_ru_55545fcc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 находитесь
 долгое
 время
@@ -555,7 +535,6 @@
 заведенном двигателе.
 
 ### 7. Не
-`livan_9_ru_9c80c518` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 отдыхайте
 и
 не
@@ -567,7 +546,6 @@
 двигателе.
 
 ### Избегайте
-`livan_9_ru_ad568c8b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 продолжительной работы двигателя
 на
 холостом
@@ -590,7 +568,6 @@
 опасность Вашей жизни и имуществу.
 
 ### 8. Запрещено
-`livan_9_ru_edbeda02` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 переоборудование
 или
 установка
@@ -598,7 +575,6 @@
 оборудования.
 
 ### Переоборудование
-`livan_9_ru_71cd49d6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 или
 установка
 дополнительного
@@ -615,7 +591,6 @@
 нести ответственности.
 
 ### 9. Не
-`livan_9_ru_377a46d7` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:9 | doc_type:owners_manual
 следует
 устанавливать
 устройства, которые могут привести к
@@ -623,7 +598,6 @@
 другого электрооборудования.
 
 ### 10. При
-`livan_9_ru_026d09c7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 установлении
 дополнительных
 устройств нельзя создавать помех в
@@ -635,7 +609,6 @@
 меры по их устранению.
 
 ### 11. «Инструкция
-`livan_9_ru_cfaefb15` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:9 | doc_type:owners_manual
 по
 эксплуатации
 мультимедиае, предназначенная для
@@ -653,33 +626,28 @@
 Руководство по эксплуатации автомобиля: идентификация моделей
 8
 
-### Предупреждение
-`livan_9_ru_42bb95b1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
-Указывает на то, что игнорирование
-данного
-предупреждения
-может
-привести
-к
-серьезным
-травмам
-и
-летальному
-исходу. Необходимо четко
-следовать указанным шагам и тщательно
-ознакомиться
-с
-предложенной
-информацией.
+> ⚠️ **Внимание:** Указывает на то, что игнорирование
+> данного
+> предупреждения
+> может
+> привести
+> к
+> серьезным
+> травмам
+> и
+> летальному
+> исходу. Необходимо четко
+> следовать указанным шагам и тщательно
+> ознакомиться
+> с
+> предложенной
+> информацией.
 
-### Внимание
-`livan_9_ru_1f4ce17e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
-Указывает, что необходимо строго
-соблюдение шагов во избежание
-повреждения автомобиля.
+> ⚠️ **Внимание:** Указывает, что необходимо строго
+> соблюдение шагов во избежание
+> повреждения автомобиля.
 
 ### Указывает на данные для лучшего
-`livan_9_ru_8e4cc608` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 пользования автомобилем.
 Защита окружающей среды
 Указывает
@@ -692,7 +660,6 @@
 окружающей среды.
 
 ### Астериск
-`livan_9_ru_b0714e9b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 Типографский знак «*е указывает на то,
 что
 перечисленное
@@ -713,20 +680,17 @@
 обеспечен.
 
 ### Данные
-`livan_9_ru_73f58805` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 о
 графических
 изображениях
 Описание указанного объекта.
 
 ### Направление движения
-`livan_9_ru_5826a8fa` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 указанного объекта.
 Направление вращения
 указанного объекта.
 
 ### Указывает на запрещение такого
-`livan_9_ru_baa796da` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 действия или возникновения
 такой ситуации.
 Руководство по эксплуатации автомобиля: идентификация моделей
@@ -741,7 +705,6 @@
 9
 
 ### Идентификация
-`livan_9_ru_75047b7e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 моделей
 автомобиля
 Идентификатор автомобиля
@@ -761,7 +724,6 @@ VIN). Также при контакте с центром, если
 двигателя и номер коробки передач.
 
 ### 3. Идентификационный
-`livan_9_ru_9981dc8b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 номер
 транспортного средства (VIN)
 Расположение
@@ -769,7 +731,6 @@ VIN). Также при контакте с центром, если
 автомобиля
 
 ### Расположение
-`livan_9_ru_106c57d3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 номера
 двигателя
 Номер нанесен на блок двигателя, рядом
@@ -781,7 +742,6 @@ VIN). Также при контакте с центром, если
 спереди автомобиля).
 
 ### Расположение номера коробки
-`livan_9_ru_744116a0` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:11 | doc_type:owners_manual
 передач
 Код
 автоматической
@@ -802,7 +762,6 @@ VIN). Также при контакте с центром, если
 10
 
 ### Расположение
-`livan_9_ru_b125bb21` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:12 | doc_type:owners_manual
 идентификационного
 кода
 автомобиля (кода VIN)
@@ -816,7 +775,6 @@ VIN
 как показано на рисунке.
 
 ### Код VIN выгравирован на балке кузова
-`livan_9_ru_dbb34c99` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:12 | doc_type:owners_manual
 под передним пассажирским сиденьем.
 Чтобы увидеть код, отодвиньте сиденье
 переднего пассажира полностью назад и
@@ -835,7 +793,6 @@ VIN
 (код
 
 ### VIN).
-`livan_9_ru_47c0f86f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 Если
 нанесенный/выгравированный
 идентификационный код VIN на корпусе
@@ -849,7 +806,6 @@ VIN
 обслуживания LIVAN.
 
 ### Идентификационный код автомобиля на
-`livan_9_ru_738130d9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 табличке изготовителя:
 Идентификационный
 код
@@ -857,7 +813,6 @@ VIN
 (код
 
 ### VIN)
-`livan_9_ru_05fae941` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:12 | doc_type:owners_manual
 состоит
 из
 17
@@ -868,7 +823,6 @@ VIN
 и место сборки.
 
 ### Считывание
-`livan_9_ru_d66b3ca3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 идентификационного кода
 Код
 может
@@ -883,14 +837,12 @@ VIN
 Этапы проведения считывания:
 
 ### 1. Перевести зажигание
-`livan_9_ru_b1888562` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 в
 положение
 OFF;
 2. Подключить устройство диагностики
 
 ### LIVAN
-`livan_9_ru_90d34bbd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 к
 диагностическому
 интерфейсу OBD;
@@ -904,7 +856,6 @@ OFF;
 «разрешить подключениее
 
 ### 4. Автоматическое
-`livan_9_ru_cf2ca2d0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 считывание
 кода
 VIN.
@@ -920,7 +871,6 @@ VIN.
 11
 
 ### Считывание
-`livan_9_ru_c7ff8579` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 идентификационного
 кода автомобиля вышеуказанным
 методом
@@ -933,14 +883,12 @@ VIN.
 технического обслуживания автомобилей
 
 ### Микроволновое
-`livan_9_ru_33f8c70c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 окно
 автомобиля
 располагается в центре лобового стекла,
 перпендикулярно примыкая к нему.
 
 ### Электронное лого автомобиля должно
-`livan_9_ru_2284c37c` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:13 | doc_type:owners_manual
 располагаться справа от микроволнового
 окна.
 Оно
@@ -953,7 +901,6 @@ VIN.
 заднего вида, кронштейном датчика и пр.
 
 ### В
-`livan_9_ru_195af796` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 данном
 лого
 хранится
@@ -963,7 +910,6 @@ VIN.
 автомобиле.
 
 ### Сохраняйте лобовое стекло чистым
-`livan_9_ru_d45859c9` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:13 | doc_type:owners_manual
 и
 сухим.
 Не
@@ -992,7 +938,6 @@ VIN.
 Регистратор данных (EDR)
 
 ### LIVAN
-`livan_9_ru_25361120` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 оснащены
 соответствующим
 государственным
@@ -1001,7 +946,6 @@ VIN.
 данных.
 
 ### Данная
-`livan_9_ru_bfd41c7b` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:13 | doc_type:owners_manual
 система
 позволяет
 регистрировать
@@ -1026,7 +970,6 @@ VIN.
 средство во время инцидента).
 
 ### Сохраненные
-`livan_9_ru_bdcc9d99` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 данные
 могут
 помочь
@@ -1055,7 +998,6 @@ VIN.
 и их безопасности.
 
 ### В
-`livan_9_ru_195af796` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 соответствии
 с
 национальными
@@ -1066,7 +1008,6 @@ VIN.
 компания
 
 ### LIVAN
-`livan_9_ru_25361120` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 может
 быть
 обязана
@@ -1099,7 +1040,6 @@ VIN.
 стандартам.
 
 ### Только
-`livan_9_ru_272b88b3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 уполномоченный
 персонал
 или
@@ -1109,7 +1049,6 @@ VIN.
 считывать данные.
 
 ### Табличка изготовителя располагается с
-`livan_9_ru_917e9e37` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 правой стороны автомобиля в нижней
 части центральной стойки и включает
 следующие данные:
@@ -1123,7 +1062,6 @@ VIN.
 •
 
 ### Знак обращения на рынке
-`livan_9_ru_e115f80f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 •
 Идентификационный
 номер
@@ -1133,7 +1071,6 @@ VIN.
 •
 
 ### Максимальная допустимая масса на
-`livan_9_ru_ba9f7153` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 переднюю ось
 •
 Максимальная допустимая масса на
@@ -1141,7 +1078,6 @@ VIN.
 •
 
 ### Страна производитель
-`livan_9_ru_616f7842` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 Руководство по эксплуатации автомобиля: идентификация моделей
 2
 8
@@ -1154,13 +1090,11 @@ VIN.
 13
 
 ### Устройства
-`livan_9_ru_f0e57f2f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 системы
 контроля и управления
 Обзор со стороны водителя
 
 ### Система контроля и управления
-`livan_9_ru_5c08723e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 14
 1.
 Внутренняя дверная ручка
@@ -1169,7 +1103,6 @@ VIN.
 2.
 
 ### Переключатели приборной панели
-`livan_9_ru_68353919` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:16 | doc_type:owners_manual
 10.
 Педаль акселератора
 3.
@@ -1180,7 +1113,6 @@ VIN.
 11.
 
 ### Педаль тормоза
-`livan_9_ru_07bd320c` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:16 | doc_type:owners_manual
 4.
 Отверстие для обогрева стекла
 слева
@@ -1189,7 +1121,6 @@ VIN.
 5.
 
 ### Комбинированный
-`livan_9_ru_614500fc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:16 | doc_type:owners_manual
 выключатель
 управления освещением
 13.
@@ -1201,7 +1132,6 @@ VIN.
 14.
 
 ### Переключатель
-`livan_9_ru_361c38c8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:16 | doc_type:owners_manual
 центрального
 запирания замков
 7.
@@ -1209,7 +1139,6 @@ VIN.
 15.
 
 ### Переключатель
-`livan_9_ru_361c38c8` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:16 | doc_type:owners_manual
 управления
 стеклоподъемниками
 8.
@@ -1217,7 +1146,6 @@ VIN.
 стеклоочистителей
 
 ### Система контроля и управления
-`livan_9_ru_b31d63b5` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:16 | doc_type:owners_manual
 2
 8
 7
@@ -1233,14 +1161,12 @@ VIN.
 8.
 
 ### Переключатель
-`livan_9_ru_c210c1e5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 управления
 автомобильным окном со стороны
 пассажира спереди
 2.
 
 ### Переключатель знаков аварийной
-`livan_9_ru_5adaeb73` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:17 | doc_type:owners_manual
 сигнализации
 9.
 Перчаточный ящик
@@ -1250,7 +1176,6 @@ VIN.
 10.
 
 ### Кнопка
-`livan_9_ru_bc2cb597` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:17 | doc_type:owners_manual
 открытия
 перчаточного
 ящика
@@ -1261,7 +1186,6 @@ VIN.
 11.
 
 ### Панель управления кондиционера
-`livan_9_ru_fc4dd085` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:17 | doc_type:owners_manual
 5.
 Правый
 дефлектор
@@ -1270,7 +1194,6 @@ VIN.
 12.
 
 ### Рычаг переключения передач
-`livan_9_ru_a995d34e` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:17 | doc_type:owners_manual
 6.
 Отверстие для обогрева стекла
 справа
@@ -1281,7 +1204,6 @@ VIN.
 7.
 
 ### Система контроля и управления
-`livan_9_ru_9a4bb841` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 16
 Приборная панель
 Описание приборной панели
@@ -1290,7 +1212,6 @@ VIN.
 3.
 
 ### Указатель
-`livan_9_ru_1c003077` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:18 | doc_type:owners_manual
 температуры
 охлаждающей жидкости
 2.
@@ -1299,13 +1220,11 @@ VIN.
 Указатель уровня топлива
 
 ### Режим отображения приборной панели можно установить вручную на экране
-`livan_9_ru_11ed4fe4` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:18 | doc_type:owners_manual
 дисплея.
 Изображение приборной панели является схематическим и приведено только для
 ознакомления. Для реального примера ознакомьтесь с приборной панелью автомобиля.
 
 ### Система контроля и управления
-`livan_9_ru_827b5530` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:18 | doc_type:owners_manual
 2
 8
 7
@@ -1321,7 +1240,6 @@ VIN.
 охлаждающей жидкости
 
 ### ON
-`livan_9_ru_fc641a87` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 указатель
 температуры
 воды
@@ -1330,7 +1248,6 @@ VIN.
 двигателя.
 
 ### Температура
-`livan_9_ru_de1235e6` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:19 | doc_type:owners_manual
 жидкости
 для
 охлаждения
@@ -1343,7 +1260,6 @@ VIN.
 нагрузки на двигатель.
 
 ### Максимальный
-`livan_9_ru_02182818` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 предел
 температуры
 охлаждающей
@@ -1354,7 +1270,6 @@ H,
 -
 
 ### С.
-`livan_9_ru_16f10e35` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:19 | doc_type:owners_manual
 Если
 загорается
 индикатор
@@ -1372,7 +1287,6 @@ H,
 обслуживания
 
 ### LIVAN
-`livan_9_ru_1630f173` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:19 | doc_type:owners_manual
 для
 проведения
 проверки.
@@ -1399,7 +1313,6 @@ H,
 •
 
 ### Резкое
-`livan_9_ru_1d38fdee` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 снижение
 скорости
 или
@@ -1413,7 +1326,6 @@ H,
 работе двигателя в холостом режиме.
 
 ### Тахометр показывает число
-`livan_9_ru_31f4211c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 вращений
 двигателя в минуту. Единица измерения -
 1000 оборотов в минуту, максимальная
@@ -1428,7 +1340,6 @@ H,
 топлива.
 
 ### В
-`livan_9_ru_3fd262d3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 большинстве
 случаев
 при
@@ -1455,7 +1366,6 @@ H,
 серьезному повреждению двигателя.
 
 ### Спидометр отображает текущую скорость
-`livan_9_ru_a01f1fee` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 автомобиля
 в
 км/ч,
@@ -1463,7 +1373,6 @@ H,
 отображаемое значение 240 км/ч.
 
 ### Система контроля и управления
-`livan_9_ru_a90a7633` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 18
 При
 хорошем
@@ -1483,7 +1392,6 @@ H,
 превышать скорость 120 км/ч.
 
 ### Оповещение
-`livan_9_ru_9c45b042` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 о
 превышении
 скорости
@@ -1498,7 +1406,6 @@ H,
 водителя.
 
 ### Оповещение
-`livan_9_ru_9c45b042` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 напоминает водителю о необходимости
 снизить
 скорость
@@ -1508,7 +1415,6 @@ H,
 для сигнала о превышении скорости: 30240 км/ч.
 
 ### Указатель уровня топлива
-`livan_9_ru_407b9abb` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 Когда
 пусковой
 переключатель
@@ -1579,7 +1485,6 @@ H,
 обслуживания
 
 ### LIVAN
-`livan_9_ru_0adb0df0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 для
 проведения
 проверки.
@@ -1590,7 +1495,6 @@ H,
 проехать при текущем уровне топлива.
 
 ### Система
-`livan_9_ru_a6cb7068` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 рассчитывает
 дистанцию
 каждую секунду, интерфейс обновляется
@@ -1627,7 +1531,6 @@ H,
 сбрасываться.
 
 ### Продолжительное
-`livan_9_ru_8210aea9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 использование
 автомобиля
 на
@@ -1645,7 +1548,6 @@ H,
 катализатора при остановке двигателя.
 
 ### Система контроля и управления
-`livan_9_ru_af5fe98f` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:20 | doc_type:owners_manual
 2
 8
 7
@@ -1659,7 +1561,6 @@ H,
 Описание дисплея
 
 ### 1. Область отображения часов
-`livan_9_ru_a53e3233` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 •
 Часы:
 по
@@ -1680,7 +1581,6 @@ H,
 2.
 
 ### Область
-`livan_9_ru_cc1dde5f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 отображения
 температуры снаружи машины
 •
@@ -1689,7 +1589,6 @@ H,
 отображаемый диапазон -40°С~60°С.
 
 ### 3. Область отображения передачи
-`livan_9_ru_b068af3d` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:21 | doc_type:owners_manual
 •
 Текущее
 положение
@@ -1704,7 +1603,6 @@ H,
 передачи: P, R, N, D.
 
 ### 4. Область отображения меню
-`livan_9_ru_6a84a48e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 •
 Отображается
 мгновенный
@@ -1721,7 +1619,6 @@ Trip
 шинах,
 
 ### Settings
-`livan_9_ru_2779c2d2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 (настройки
 автомобиля)
 и
@@ -1731,7 +1628,6 @@ Trip
 5.
 
 ### Область
-`livan_9_ru_cc1dde5f` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:21 | doc_type:owners_manual
 отображения
 информации о текущих функциях
 •
@@ -1740,7 +1636,6 @@ Trip
 информации.
 
 ### Система контроля и управления
-`livan_9_ru_ddc63b0e` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:21 | doc_type:owners_manual
 20
 Настройка дисплея
 Не
@@ -1761,7 +1656,6 @@ Trip
 руле.
 
 ### 1. Кнопка
-`livan_9_ru_049508e6` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:22 | doc_type:owners_manual
 главной
 страницы:
 коротко
@@ -1775,7 +1669,6 @@ Trip
 .
 
 ### 2. Кнопка
-`livan_9_ru_791db417` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 выбора/подтверждения:
 кратковременно нажмите эту кнопку,
 чтобы
@@ -1815,7 +1708,6 @@ Trip
 времени.
 
 ### 3. Правая
-`livan_9_ru_9f066f89` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 кнопка
 выбора:
 коротко
@@ -1824,7 +1716,6 @@ Trip
 приборной панели.
 
 ### 4. Кнопка
-`livan_9_ru_ea8bb688` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:22 | doc_type:owners_manual
 переключения:
 коротко
 нажмите
@@ -1841,7 +1732,6 @@ Trip
 панелью и экраном.
 
 ### 5. Левая
-`livan_9_ru_10f798b7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 кнопка
 выбора:
 коротко
@@ -1850,7 +1740,6 @@ Trip
 приборной панели.
 
 ### Подсказки
-`livan_9_ru_2e5f94e9` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:22 | doc_type:owners_manual
 и
 оповещения
 на
@@ -1888,7 +1777,6 @@ Trip
 оповещений в меню приборной панели.
 
 ### Оповещение
-`livan_9_ru_86c5f854` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 исчезнет
 только
 после
@@ -1905,7 +1793,6 @@ Trip
 21
 
 ### Водитель
-`livan_9_ru_c2ae4ebd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 должен
 серьезно
 относиться ко всем оповещениям.
@@ -1925,7 +1812,6 @@ Trip
 повреждению автомобиля или травмам.
 
 ### Настройки
-`livan_9_ru_ff27e205` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 интерфейса
 бортового компьютера
 Когда пусковой переключатель находится
@@ -1936,7 +1822,6 @@ Trip
 данные.
 
 ### В
-`livan_9_ru_d287543a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 интерфейсе
 бортового
 компьютера
@@ -1954,7 +1839,6 @@ Trip
 бортового компьютера на интерфейсе.
 
 ### Компьютерная информация о
-`livan_9_ru_4a25db18` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 трафике
 Мгновенный расход топлива
 При эксплуатации автомобиля частота
@@ -1981,7 +1865,6 @@ Trip
 Short Trip (короткая поездка)
 
 ### Система контроля и управления
-`livan_9_ru_a9a0df8d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 22
 Если с момента последнего выключения
 двигателя
@@ -1999,7 +1882,6 @@ Short Trip (короткая поездка)
 Trip (короткая поездка), следующие:
 
 ### 1. Trip：Short Trip обновляется один раз
-`livan_9_ru_b18f896e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 за каждые 0,1 км. Отображаемый
 диапазон - от 0,0 до 999,9 км. При
 достижении
@@ -2018,7 +1900,6 @@ Trip (короткая поездка), следующие:
 настройках меню.
 
 ### 2. Расход времени
-`livan_9_ru_2871135a` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:24 | doc_type:owners_manual
 : после проверки
 на запуск двигателя начинается учет
 времени вождения в коротком цикле.
@@ -2043,7 +1924,6 @@ Trip (короткая поездка), следующие:
 времени.
 
 ### Максимальное отображаемое время
-`livan_9_ru_013b3ede` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 вождения составляет 999:59 часов.
 3. Avg: средний расход топлива в Short
 Trip (короткой поездке) по умолчанию
@@ -2084,7 +1964,6 @@ Trip (короткой поездке) по умолчанию
 расчета.
 
 ### Количество впрыскиваемого топлива
-`livan_9_ru_2ae999c0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 на холостом ходу накапливается до
 момента
 однократного
@@ -2092,7 +1971,6 @@ Trip (короткой поездке) по умолчанию
 топлива.
 
 ### Единицу
-`livan_9_ru_b9bd9544` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 расхода
 топлива
 можно
@@ -2101,7 +1979,6 @@ Trip (короткой поездке) по умолчанию
 галлон (Великобритания).
 
 ### 4. Средняя скорость
-`livan_9_ru_b57a4093` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 : рассчитывается
 средняя скорость короткой поездки
 после
@@ -2113,14 +1990,12 @@ Trip (короткой поездке) по умолчанию
 автомобиль стоит.
 
 ### Единицу
-`livan_9_ru_b9bd9544` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 измерения
 можно
 переключать между км/ч и милями в
 час через меню.
 
 ### Использование различных стилей
-`livan_9_ru_fd224349` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:24 | doc_type:owners_manual
 вождения
 приводит
 к
@@ -2143,7 +2018,6 @@ Trip (короткой поездке) по умолчанию
 «Запуск двигателя и вождениее.
 
 ### Система контроля и управления
-`livan_9_ru_f3fada7b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 2
 8
 7
@@ -2162,7 +2036,6 @@ Long Trip (долгая поездка) отображает
 Trip (долгая поездка), следующие:
 
 ### 1. Trip
-`livan_9_ru_712d36e7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 (поездка):
 этот
 интерфейс
@@ -2191,7 +2064,6 @@ Trip (долгая поездка), следующие:
 настройках меню.
 
 ### 2. Расход времени
-`livan_9_ru_2cc81b51` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:25 | doc_type:owners_manual
 : после проверки
 на запуск двигателя начинается учет
 времени вождения в Long Trip (долгая
@@ -2210,7 +2082,6 @@ Trip (долгая поездка), следующие:
 начала.
 
 ### Максимальное отображаемое время
-`livan_9_ru_3e431d48` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 вождения составляет 999:59 часов.
 3. Avg: средний расход топлива в Long
 Trip (долгая поездка) по умолчанию
@@ -2266,7 +2137,6 @@ Trip (долгая поездка) по умолчанию
 расход топлива.
 
 ### После каждого включения зажигания
-`livan_9_ru_8aa1805a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 для отображения среднего расхода
 топлива
 используются
@@ -2275,7 +2145,6 @@ Trip (долгая поездка) по умолчанию
 последней поездки.
 
 ### 4. Средняя скорость
-`livan_9_ru_89e61767` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 : после запуска
 двигателя
 рассчитывается
@@ -2283,7 +2152,6 @@ Trip (долгая поездка) по умолчанию
 скорость Long Trip (долгая поездка).
 
 ### Когда двигатель останавливается или
-`livan_9_ru_50d10f6f` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:25 | doc_type:owners_manual
 глохнет, расчет приостанавливается.
 Единицу
 измерения
@@ -2292,7 +2160,6 @@ Trip (долгая поездка) по умолчанию
 час через меню.
 
 ### Система контроля и управления
-`livan_9_ru_e7f38197` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:25 | doc_type:owners_manual
 24
 Использование различных стилей
 вождения
@@ -2317,7 +2184,6 @@ Trip (долгая поездка) по умолчанию
 «Запуск двигателя и вождениее.
 
 ### Состояние шин
-`livan_9_ru_4332a13b` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:26 | doc_type:owners_manual
 •
 Предупреждение
 о
@@ -2349,7 +2215,6 @@ Trip (долгая поездка) по умолчанию
 •
 
 ### Оповещение
-`livan_9_ru_1bb504b6` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:26 | doc_type:owners_manual
 о
 низком
 давлении
@@ -2377,7 +2242,6 @@ Trip (долгая поездка) по умолчанию
 звуковым.
 
 ### В
-`livan_9_ru_d7f0653b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 некоторых
 моделях
 автомобилей
@@ -2401,7 +2265,6 @@ Trip (долгая поездка) по умолчанию
 •
 
 ### Оповещение
-`livan_9_ru_1bb504b6` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:26 | doc_type:owners_manual
 о
 неисправности
 системы
@@ -2420,7 +2283,6 @@ Trip (долгая поездка) по умолчанию
 сигналом.
 
 ### В
-`livan_9_ru_d7f0653b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 интерфейсе
 некоторых
 моделей
@@ -2431,7 +2293,6 @@ Trip (долгая поездка) по умолчанию
 подсказки.
 
 ### Лампы не выключены
-`livan_9_ru_840612cd` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:26 | doc_type:owners_manual
 Когда
 пусковой
 переключатель
@@ -2449,7 +2310,6 @@ Trip (долгая поездка) по умолчанию
 вам, что свет не выключен. В то же время
 
 ### Система контроля и управления
-`livan_9_ru_f97f2b94` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:26 | doc_type:owners_manual
 2
 8
 7
@@ -2470,7 +2330,6 @@ Trip (долгая поездка) по умолчанию
 предотвратить разрядку аккумулятора.
 
 ### При выходе из машины выключайте
-`livan_9_ru_724d3587` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:27 | doc_type:owners_manual
 все
 фары,
 чтобы
@@ -2479,7 +2338,6 @@ Trip (долгая поездка) по умолчанию
 запуска двигателя.
 
 ### Уведомление
-`livan_9_ru_b1320076` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:27 | doc_type:owners_manual
 о
 не
 закрытой
@@ -2497,7 +2355,6 @@ Trip (долгая поездка) по умолчанию
 время движения автомобиля.
 
 ### Система контроля и управления
-`livan_9_ru_120e5098` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:27 | doc_type:owners_manual
 26
 Информация меню
 Меню первого
@@ -2506,7 +2363,6 @@ Trip (долгая поездка) по умолчанию
 уровня
 
 ### Меню третьего
-`livan_9_ru_83f57af2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 уровня
 Меню четвертого
 уровня
@@ -2524,7 +2380,6 @@ Binding (Привязка
 □Sport (Спорт)
 
 ### Overspeed
-`livan_9_ru_165a151b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 warning
 (Предупрежде
 ние о
@@ -2540,14 +2395,12 @@ warning
 □Off (Выключить)
 
 ### Громкость
-`livan_9_ru_ef5ac9f7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 оповещений
 □High (Высокая)
 □Middle (Средняя)
 □Low (Низкая)
 
 ### Service Info
-`livan_9_ru_ddfc7d18` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 (сервисная
 информация)
 10000 км или 360
@@ -2561,7 +2414,6 @@ warning
 Language (язык)
 
 ### English
-`livan_9_ru_f2318ab4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 (английский)
 Russian (русский)
 Spanish
@@ -2569,7 +2421,6 @@ Spanish
 Arabic (арабский)
 
 ### Система контроля и управления
-`livan_9_ru_9041148c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 2
 8
 7
@@ -2585,7 +2436,6 @@ Arabic (арабский)
 уровня
 
 ### Меню третьего
-`livan_9_ru_1e093101` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 уровня
 Меню четвертого
 уровня
@@ -2607,7 +2457,6 @@ Unit (Единицы)
 (Температура)
 
 ### □°F
-`livan_9_ru_5cdb1222` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 □Pressure
 (Давление)
 □фунт на квадратный
@@ -2626,13 +2475,11 @@ Unit (Единицы)
 □миль, миль на галлон
 
 ### (США)
-`livan_9_ru_7c5f0161` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 □миль, миль на галлон
 (Великобритания)
 Настройки меню
 
 ### Коротко нажмите кнопку меню на правой
-`livan_9_ru_d7c7a3a2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 стороне руля,
 а затем нажмите кнопку
 выбора/подтверждения,
@@ -2643,7 +2490,6 @@ Unit (Единицы)
 управлять приборной панелью.
 
 ### 1. Переключение меню
-`livan_9_ru_ffaba210` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 •
 После открытия меню приборной
 панели переключите отображение
@@ -2653,7 +2499,6 @@ Unit (Единицы)
 кнопке руля.
 
 ### 2. Выбор меню
-`livan_9_ru_2e93008b` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:29 | doc_type:owners_manual
 •
 После
 активации
@@ -2663,7 +2508,6 @@ Unit (Единицы)
 кнопку
 
 ### Система контроля и управления
-`livan_9_ru_baf97cc2` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:29 | doc_type:owners_manual
 28
 выбора/подтверждения на правой
 стороне руля вверх/вниз, чтобы
@@ -2677,7 +2521,6 @@ Unit (Единицы)
 установить функцию.
 
 ### 3. Состояние выбора
-`livan_9_ru_b3321d24` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 •
 Когда
 пункт
@@ -2688,7 +2531,6 @@ Unit (Единицы)
 •
 
 ### Нажмите
-`livan_9_ru_d17cbc6a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 кнопку
 выбора/
 подтверждения,
@@ -2719,7 +2561,6 @@ Unit (Единицы)
 автоматически закроется.
 
 ### Что необходимо знать о настройках
-`livan_9_ru_b425427d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 меню
 •
 После входа в интерфейс меню строка
@@ -2727,7 +2568,6 @@ Unit (Единицы)
 •
 
 ### Если пунктов меню слишком много и
-`livan_9_ru_dc1da917` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:30 | doc_type:owners_manual
 они
 не
 помещаются
@@ -2761,7 +2601,6 @@ Unit (Единицы)
 •
 
 ### Происходит переход от меню более
-`livan_9_ru_d4333fb2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 верхнего
 уровня
 к
@@ -2776,7 +2615,6 @@ Unit (Единицы)
 закроется.
 
 ### Система контроля и управления
-`livan_9_ru_53f3439e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 2
 8
 7
@@ -2795,7 +2633,6 @@ Unit (Единицы)
 индикаторных ламп
 
 ### Если автомобиль обнаружит необходимость включения одного или нескольких
-`livan_9_ru_e5bddfee` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:31 | doc_type:owners_manual
 предупреждающих
 индикаторов,
 система
@@ -2804,7 +2641,6 @@ Unit (Единицы)
 индикаторы на экране дисплея.
 
 ### Информация о сигнальных и
-`livan_9_ru_4fc88d55` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:31 | doc_type:owners_manual
 индикаторных лампах
 Изображен
 ие
@@ -2812,7 +2648,6 @@ Unit (Единицы)
 Инструкции
 
 ### Индикаторная лампа левого
-`livan_9_ru_9c6feda3` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:31 | doc_type:owners_manual
 поворотника
 Включение левого указателя
 поворота
@@ -2820,21 +2655,18 @@ Unit (Единицы)
 поворотника
 
 ### Включение правого указателя
-`livan_9_ru_b39d0865` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:31 | doc_type:owners_manual
 поворота
 Индикаторная лампа фар
 ближнего света
 Включение фар ближнего света
 
 ### Индикаторная лампа фар
-`livan_9_ru_764dab54` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:31 | doc_type:owners_manual
 дальнего света
 Включение фар дальнего света
 Система контроля и управления
 30
 
 ### Изображен
-`livan_9_ru_f48690ce` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:32 | doc_type:owners_manual
 ие
 Наименование
 Инструкции
@@ -2842,27 +2674,23 @@ Unit (Единицы)
 противотуманных фар
 
 ### Включение задних
-`livan_9_ru_343438dd` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:32 | doc_type:owners_manual
 противотуманных фар
 Индикаторная лампа габаритных
 огней
 
 ### Сигнальная лампа неисправности
-`livan_9_ru_4b7ba862` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:32 | doc_type:owners_manual
 антиблокировочной системы
 (ABS)
 Неисправность
 антиблокировочной системы
 
 ### Сигнальная лампа неисправности
-`livan_9_ru_4b7ba862` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:32 | doc_type:owners_manual
 системы распределения
 тормозных усилий (EBD)
 Неисправность системы
 распределения тормозных усилий
 
 ### Сигнальная лампа неисправности
-`livan_9_ru_4b7ba862` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:32 | doc_type:owners_manual
 тормозной системы
 Неисправность тормозной
 системы
@@ -2870,7 +2698,6 @@ Unit (Единицы)
 тормоза
 
 ### Включена функция электронного
-`livan_9_ru_e82e5a08` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:32 | doc_type:owners_manual
 стояночного тормоза
 Включена функция (AUTO HOLD)
 Сигнальная лампа неисправности
@@ -2878,25 +2705,21 @@ Unit (Единицы)
 тормоза (EPB)
 
 ### Неисправность электрического
-`livan_9_ru_5d6695f4` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:32 | doc_type:owners_manual
 стояночного тормоза (EPB)
 Индикаторная лампа состояния
 автоматического удержания (AVH)
 
 ### Включена функция
-`livan_9_ru_f0631298` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:32 | doc_type:owners_manual
 автоматического удержания (AVH)
 Неисправность автоматического
 удержания (AVH)
 
 ### Сигнальная лампа неисправности
-`livan_9_ru_4b7ba862` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:32 | doc_type:owners_manual
 подушки безопасности
 Неисправность системы подушки
 безопасности
 
 ### Сигнальная лампа
-`livan_9_ru_15e84ee1` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:32 | doc_type:owners_manual
 непристегнутого ремня
 безопасности водителя
 Ремень безопасности водителя не
@@ -2904,13 +2727,11 @@ Unit (Единицы)
 пристегните ремень безопасности
 
 ### Сигнальная лампа неисправности
-`livan_9_ru_4b7ba862` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:32 | doc_type:owners_manual
 двигателя связанная с экологией
 Неисправность выхлопной
 системы двигателя
 
 ### Система контроля и управления
-`livan_9_ru_a72b3de4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:32 | doc_type:owners_manual
 2
 8
 7
@@ -2926,7 +2747,6 @@ Unit (Единицы)
 Инструкции
 
 ### Сигнальная лампа неисправности
-`livan_9_ru_5b095264` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 системы двигателя
 Неисправность систем двигателя
 Сигнальная лампа неисправности
@@ -2934,7 +2754,6 @@ Unit (Единицы)
 устойчивости (ESC)
 
 ### Неисправность системы
-`livan_9_ru_8480163d` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 электронного контроля
 устойчивости (ESC)
 Сигнальная лампа высокой
@@ -2942,20 +2761,17 @@ Unit (Единицы)
 жидкости
 
 ### Сигнальная лампа низкого уровня
-`livan_9_ru_c5e37ad2` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 топлива
 Низкий уровень топлива
 Сигнальная лампа низкого
 давления масла
 
 ### Сигнальная лампа неисправности
-`livan_9_ru_5b095264` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 системы зарядки аккумулятора
 Система зарядки аккумулятора
 неисправна
 
 ### Сигнальная лампа неисправности
-`livan_9_ru_5b095264` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:33 | doc_type:owners_manual
 системы электроусиления
 рулевого управления (EPS)
 Потеря/временное ослабление
@@ -2963,38 +2779,32 @@ Unit (Единицы)
 рулевого управления
 
 ### Сигнальная лампа некорректного
-`livan_9_ru_1f478b08` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 давления в шинах TPMS
 Неисправность системы контроля
 давления в шинах (TPMS) или
 низкое давление в шинах
 
 ### Сигнальная лампа неисправности
-`livan_9_ru_5b095264` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 коробки передач
 Неисправность коробки передач
 Световой индикатор системы
 контроля спуска со склона (HDC)
 
 ### Запуск системы контроля спуска
-`livan_9_ru_e5570830` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 со склона (HDC)
 Индикаторная лампа круизконтроля
 Активация круиз-контроля
 
 ### Напоминание об усталости от
-`livan_9_ru_e0c9ac18` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 вождения, необходим отдых
 Сигнальная лампа неисправности
 
 ### Имеются неразрешенные
-`livan_9_ru_f5e2070f` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 текстовые сигналы тревоги,
 активируется сигнальная лампа
 неисправности.
 
 ### Система контроля и управления
-`livan_9_ru_3e4cca2c` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 32
 Изображен
 ие
@@ -3004,19 +2814,16 @@ Unit (Единицы)
 запуска и остановки двигателя
 
 ### Система запуска и остановки
-`livan_9_ru_52370d9a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:34 | doc_type:owners_manual
 двигателя работает
 Включена система старт-стоп
 двигателя
 
 ### Когда индикатор предупреждения продолжает гореть красным после запуска
-`livan_9_ru_ff007a7a` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 или когда сигнальная лампа горит красным во время движения, это указывает
 на серьезную неисправность автомобиля. Пожалуйста, немедленно обратитесь в
 центр технического обслуживания LIVAN для проведения диагностики.
 
 ### Черные изображения в таблице будут отображаться белого цвета на экране
-`livan_9_ru_db0e6942` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:34 | doc_type:owners_manual
 приборной панели.
 Система контроля и управления
 2
@@ -3030,7 +2837,6 @@ Unit (Единицы)
 33
 
 ### Комбинированный
-`livan_9_ru_0b33a2e6` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:35 | doc_type:owners_manual
 переключатель
 освещения
 и
@@ -3039,7 +2845,6 @@ Unit (Единицы)
 выключатель освещения
 
 ### 1. Переключатель
-`livan_9_ru_c83a7669` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 управления
 освещением
 2. Переключатель
@@ -3047,7 +2852,6 @@ Unit (Единицы)
 противотуманными фарами
 
 ### 3. Ручка
-`livan_9_ru_804d11ef` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 переключателя
 освещения
 (управление
@@ -3061,7 +2865,6 @@ Unit (Единицы)
 поворотниками)
 
 ### Управление комбинированным
-`livan_9_ru_b4d9ad3b` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 переключателем освещения
 Габаритные огни
 Когда пусковой переключатель находится
@@ -3091,13 +2894,11 @@ Unit (Единицы)
 направлении
 
 ### B,
-`livan_9_ru_4ca4e962` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 чтобы
 выключить габаритные огни и световые
 индикаторы приборной панели.
 
 ### Система контроля и управления
-`livan_9_ru_dd70a575` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 34
 Фары ближнего света
 Установите
@@ -3107,7 +2908,6 @@ Unit (Единицы)
 положение
 
 ### ON
-`livan_9_ru_39213696` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 и
 поверните
 переключатель управления освещением
@@ -3127,7 +2927,6 @@ Unit (Единицы)
 огни.
 
 ### Поворачивайте
-`livan_9_ru_8aa6daa2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 переключатель управления освещением
 в направлении B до тех пор, пока стрелка
 не
@@ -3136,13 +2935,11 @@ Unit (Единицы)
 отметку
 
 ### O,
-`livan_9_ru_ef28acca` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 фары
 ближнего света будут отключены.
 Автоматическое освещение
 
 ### Поворачивайте
-`livan_9_ru_8aa6daa2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 переключатель
 управления освещением в направлении
 A до тех пор, пока стрелка не укажет
@@ -3150,7 +2947,6 @@ A до тех пор, пока стрелка не укажет
 положение
 
 ### AUTO,
-`livan_9_ru_1acc6046` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 будет
 включена
 функция
@@ -3171,7 +2967,6 @@ A до тех пор, пока стрелка не укажет
 освещения.
 
 ### Система
-`livan_9_ru_70c1f3e7` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 автоматического
 освещения
 может
@@ -3196,7 +2991,6 @@ A до тех пор, пока стрелка не укажет
 габаритные огни и фары ближнего света.
 
 ### Система имеет функцию ручного
-`livan_9_ru_3f5fab0b` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 приоритета
 в
 автоматическом
@@ -3205,7 +2999,6 @@ A до тех пор, пока стрелка не укажет
 режима автоматического освещения.
 
 ### Переключение
-`livan_9_ru_965929ef` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 фар
 дальнего
 и
@@ -3217,7 +3010,6 @@ A до тех пор, пока стрелка не укажет
 положение
 
 ### ON
-`livan_9_ru_39213696` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 до
 включения
 фары
@@ -3245,14 +3037,12 @@ A до тех пор, пока стрелка не укажет
 направлении
 
 ### C,
-`livan_9_ru_b20248c0` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 чтобы
 выключить
 дальний свет.
 Мигание фар дальнего света
 
 ### Переместите
-`livan_9_ru_b2325d4a` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 ручку
 переключателя
 освещения в направлении F в крайнее
@@ -3267,7 +3057,6 @@ A до тех пор, пока стрелка не укажет
 выключится.
 
 ### Установите
-`livan_9_ru_a6ebd1ef` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -3281,7 +3070,6 @@ ON,
 направлении
 
 ### E,
-`livan_9_ru_8aaf80c8` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:36 | doc_type:owners_manual
 левый
 индикатор
 рулевого
@@ -3296,7 +3084,6 @@ ON,
 положение, сигнал поворота выключится.
 
 ### Установите
-`livan_9_ru_a6ebd1ef` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -3309,7 +3096,6 @@ ON,
 в
 
 ### Система контроля и управления
-`livan_9_ru_f93d71bc` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:36 | doc_type:owners_manual
 2
 8
 7
@@ -3329,7 +3115,6 @@ D,
 мигать.
 
 ### После завершения рулевого управления
-`livan_9_ru_f4e9d252` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:37 | doc_type:owners_manual
 ручка
 переключателя
 освещения
@@ -3337,7 +3122,6 @@ D,
 положение, сигнал поворота выключится.
 
 ### Когда пусковой переключатель находится
-`livan_9_ru_d295a35d` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 в положении ON и фары ближнего света
 включены,
 нажмите
@@ -3356,7 +3140,6 @@ D,
 передних фар
 
 ### Данная
-`livan_9_ru_6f0f421a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 ручка
 используется
 для
@@ -3364,7 +3147,6 @@ D,
 фар.
 
 ### Ручка регулировки высоты передних фар
-`livan_9_ru_820b7692` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:37 | doc_type:owners_manual
 имеет четыре положения: 0, 1, 2 и 3.
 Установите
 положение
@@ -3400,7 +3182,6 @@ D,
 движущихся с встречной стороны.
 
 ### Включение дневных ходовых огней
-`livan_9_ru_8c9df3a8` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 После
 запуска
 двигателя
@@ -3416,7 +3197,6 @@ D,
 ходовые огни.
 
 ### Дневные
-`livan_9_ru_029fb9b5` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 ходовые
 огни
 автоматически
@@ -3427,7 +3207,6 @@ D,
 Горит ближний или дальний свет.
 
 ### Проводи меня домой
-`livan_9_ru_83503133` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 Включение функции «Проводи меня
 домойе
 В течение
@@ -3438,7 +3217,6 @@ D,
 пускового переключателя в положение
 
 ### OFF быстро переведите переключатель
-`livan_9_ru_ac2d30dd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 освещения из положения O в положение,
 Система контроля и управления
 36
@@ -3448,20 +3226,17 @@ D,
 положение
 
 ### Включится
-`livan_9_ru_aab9b45e` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:38 | doc_type:owners_manual
 функция «Проводи меня домойе, а также
 ближний свет и габаритные огни.
 Отключение функции «Проводи меня
 домойе
 
 ### При выполнении любого из следующих
-`livan_9_ru_365762e0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 условий функция «Проводи меня домойе
 будет отключена:
 •
 
 ### Пусковой переключатель не находится
-`livan_9_ru_b727df0f` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:38 | doc_type:owners_manual
 в положении OFF;
 •
 Поверните
@@ -3469,7 +3244,6 @@ D,
 переключатель света в положение не
 
 ### О;
-`livan_9_ru_59d819d0` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:38 | doc_type:owners_manual
 •
 Истечение времени.
 Время действия функции «Проводи
@@ -3479,7 +3253,6 @@ D,
 мультимедиа.
 
 ### Комбинированный
-`livan_9_ru_f35d9fe2` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 переключатель
 стеклоочистителя
 1. Ручка
@@ -3487,7 +3260,6 @@ D,
 стеклоочистителями
 
 ### 2. Ручка
-`livan_9_ru_80c769df` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 регулировки
 частоты
 прерывистого
@@ -3495,7 +3267,6 @@ D,
 стеклоочистителя
 
 ### Если на ветровом стекле есть пыль
-`livan_9_ru_e896bb4f` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 или
 песок,
 пожалуйста,
@@ -3517,14 +3288,12 @@ D,
 стеклоочистителя.
 
 ### Управление
-`livan_9_ru_df360f61` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 передним
 комбинированным
 переключателем
 стеклоочистителей
 
 ### Кратковременное
-`livan_9_ru_c49b41d8` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 движение
 передних стеклоочистителей
 Переместите
@@ -3541,13 +3310,11 @@ D,
 стеклоочистителями.
 
 ### Рукоятка
-`livan_9_ru_da45d44e` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 управления
 стеклоочистителем
 автоматически возвратится в положение
 
 ### O,
-`livan_9_ru_d9e5069c` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 стеклоочистители
 начнут движение
 толчками.
@@ -3560,7 +3327,6 @@ D,
 в
 
 ### Система контроля и управления
-`livan_9_ru_2cd41a6e` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 2
 8
 7
@@ -3576,7 +3342,6 @@ O,
 выключатся.
 
 ### Прерывистое
-`livan_9_ru_7b1eec4e` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 движение
 стеклоочистителей
 Переместите
@@ -3587,7 +3352,6 @@ O,
 выполнять прерывистое движение.
 
 ### Скорость
-`livan_9_ru_d2bfd2b1` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 работы
 стеклоочистителей
 можно
@@ -3607,7 +3371,6 @@ O,
 изменилась с быстрой на медленную.
 
 ### Движение
-`livan_9_ru_3d8b2816` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 стеклоочистителей
 с
 низкой скоростью
@@ -3625,7 +3388,6 @@ O,
 низкой скорости.
 
 ### Движение
-`livan_9_ru_3d8b2816` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 стеклоочистителей
 с
 высокой скоростью
@@ -3649,7 +3411,6 @@ O,
 пускового переключателя из положения
 
 ### ON в положение OFF с помощью ручки
-`livan_9_ru_ff37f7f6` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 управления
 стеклоочистителями
 переместите его в направлении A на
@@ -3677,7 +3438,6 @@ O,
 переключатель находится в положении
 
 ### ON и происходит переключение передач
-`livan_9_ru_d6329b2b` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 стеклоочистителя,
 стеклоочиститель
 выходит
@@ -3688,7 +3448,6 @@ O,
 возвращается в исходное состояние.
 
 ### Переместите
-`livan_9_ru_cbfd6650` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 ручку
 управления
 стеклоочистителями в направлении D,
@@ -3706,7 +3465,6 @@ O,
 воду.
 
 ### После очистки стеклоочистители будут
-`livan_9_ru_b5b1307b` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 продолжать
 движение в течение трех
 циклов,
@@ -3721,7 +3479,6 @@ O,
 цикл работы.
 
 ### Замедление стеклоочистителей при
-`livan_9_ru_aa1144a6` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 парковке
 Когда автомобиль остановлен, скорость
 работы
@@ -3740,7 +3497,6 @@ O,
 мультимедиа.
 
 ### Система контроля и управления
-`livan_9_ru_9f68397a` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 38
 Работа
 заднего
@@ -3749,12 +3505,10 @@ O,
 стеклоочистителей
 
 ### Нажмите кнопку
-`livan_9_ru_e941a95c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:40 | doc_type:owners_manual
 заднего дворника, он
 совершит однократное движение.
 
 ### Прерывистое
-`livan_9_ru_7f028194` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:40 | doc_type:owners_manual
 движение
 стеклоочистителей
 Нажмите
@@ -3768,7 +3522,6 @@ O,
 прерывистое движение.
 
 ### Переместите
-`livan_9_ru_3438deb2` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:40 | doc_type:owners_manual
 ручку
 управления
 стеклоочистителями
@@ -3787,7 +3540,6 @@ O,
 воду.
 
 ### Перед использованием дворников
-`livan_9_ru_c0ba9533` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:40 | doc_type:owners_manual
 зимой
 или
 в
@@ -3800,7 +3552,6 @@ O,
 обогрева заднего стекла.
 
 ### Система контроля и управления
-`livan_9_ru_18f9b16c` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:40 | doc_type:owners_manual
 2
 8
 7
@@ -3824,7 +3575,6 @@ O,
 руле, сработает звуковой сигнал.
 
 ### Область изображения клаксона на
-`livan_9_ru_444cee70` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:41 | doc_type:owners_manual
 руле
 также
 является
@@ -3847,7 +3597,6 @@ O,
 несчастных случаев.
 
 ### Регулировка
-`livan_9_ru_d4e5548a` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:41 | doc_type:owners_manual
 рулевого
 колеса
 Не
@@ -3864,7 +3613,6 @@ O,
 автомобилем.
 
 ### После регулировки положения руля
-`livan_9_ru_f34964bd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 убедитесь, что руль заблокирован.
 Разблокировка руля может привести к
 тому,
@@ -3874,7 +3622,6 @@ O,
 управление и станет опасным.
 
 ### Установите
-`livan_9_ru_fe4f81c2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 руль
 в
 правильное
@@ -3884,7 +3631,6 @@ O,
 действия:
 
 ### 1. Выберите
-`livan_9_ru_ffca3245` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 подходящее
 место
 для
@@ -3896,13 +3642,11 @@ O,
 движения вперед прямо.
 
 ### 3. До конца отпустите рычаг блокировки
-`livan_9_ru_8054e75e` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:41 | doc_type:owners_manual
 рулевого колеса.
 4. Отрегулируйте руль вверх и вниз в
 нужное положение.
 
 ### 5. После перевода руля в подходящее
-`livan_9_ru_d43fb07f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 положение руля до конца потяните
 вверх
 рычаг
@@ -3916,7 +3660,6 @@ O,
 положении.
 
 ### Система контроля и управления
-`livan_9_ru_e3a55c35` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:41 | doc_type:owners_manual
 40
 Кнопки на рулевом колесе
 1. Кнопка
@@ -3936,7 +3679,6 @@ O,
 скорость.
 
 ### Переведение
-`livan_9_ru_adf7101f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 данной
 кнопки
 вниз
@@ -3949,19 +3691,16 @@ O,
 крейсерской.
 
 ### 2. Кнопка приема звонка: прием/ сброс
-`livan_9_ru_da011636` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:42 | doc_type:owners_manual
 звонка через Bluetooth.
 3. Кнопка голосового управления: запуск
 функции голосового управления.
 
 ### 4. Кнопка
-`livan_9_ru_dc56d4f0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 круиз-контроля:
 включает/
 выключает систему круиз-контроля.
 
 ### 1. Кнопка
-`livan_9_ru_b048a309` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 отключения
 звука:
 кратковременно нажмите эту кнопку,
@@ -3974,7 +3713,6 @@ O,
 режима отключения звука.
 
 ### 2. Правая кнопка выбора: когда меню
-`livan_9_ru_cb74b084` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 приборной
 панели
 открыто,
@@ -3990,14 +3728,12 @@ O,
 следующую песню или канал.
 
 ### 3. Кнопка
-`livan_9_ru_aac45d52` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 меню:
 кратковременно
 нажмите эту кнопку, а затем нажмите
 кнопку
 
 ### OK,
-`livan_9_ru_26c68207` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:42 | doc_type:owners_manual
 чтобы
 открыть
 меню
@@ -4019,7 +3755,6 @@ O,
 руле находится в мультимедиа.
 
 ### MODE:
-`livan_9_ru_9bc6ae49` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:42 | doc_type:owners_manual
 переключение
 источника
 звука
@@ -4029,7 +3764,6 @@ O,
 мультимедийный интерфейс.
 
 ### Система контроля и управления
-`livan_9_ru_738c55e9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 2
 8
 7
@@ -4075,7 +3809,6 @@ O,
 предыдущую песню или канал.
 
 ### 6. Кнопка главной страницы: когда в
-`livan_9_ru_974014ff` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:43 | doc_type:owners_manual
 меню
 настроек
 автомобиля
@@ -4100,7 +3833,6 @@ O,
 страницу.
 
 ### 7. Кнопка регулировки громкости, кнопка
-`livan_9_ru_14e18e0a` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:43 | doc_type:owners_manual
 выбора
 меню
 или
@@ -4118,7 +3850,6 @@ OK:
 чтобы перезапустить экран.
 
 ### Боковые
-`livan_9_ru_1203fee7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 зеркала
 заднего
 вида
@@ -4136,7 +3867,6 @@ OK:
 правильно отрегулированы.
 
 ### Переключатель
-`livan_9_ru_84aea9ff` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 регулировки
 боковых
 зеркал
@@ -4147,7 +3877,6 @@ OK:
 внутренней панели водительской двери.
 
 ### 1. Переключатель регулировки боковых
-`livan_9_ru_e71f34de` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 зеркал заднего вида
 Расстояние до объектов, видимых в
 боковых
@@ -4176,7 +3905,6 @@ OK:
 Пожалуйста,
 
 ### Система контроля и управления
-`livan_9_ru_2b185ef6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 42
 используйте
 функцию
@@ -4195,7 +3923,6 @@ OK:
 нему во время работы.
 
 ### Настройка
-`livan_9_ru_e54f9799` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 боковых
 зеркал
 заднего вида
@@ -4207,7 +3934,6 @@ OK:
 положении
 
 ### ON,
-`livan_9_ru_448e5244` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:44 | doc_type:owners_manual
 установите
 переключатель
 регулировки
@@ -4228,7 +3954,6 @@ OK:
 вида соответственно.
 
 ### 2. Перемещайте
-`livan_9_ru_e22883cf` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 переключатель
 регулировки
 бокового
@@ -4238,7 +3963,6 @@ OK:
 наклона.
 
 ### 3. После
-`livan_9_ru_f6887119` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 завершения
 настройки
 поверните
@@ -4251,7 +3975,6 @@ OK:
 (0).
 
 ### Складывание боковых зеркал
-`livan_9_ru_954116e5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 заднего вида
 Боковые зеркала заднего вида данного
 автомобиля
@@ -4268,7 +3991,6 @@ OK:
 дорогам и парковке автомобиля.
 
 ### Система контроля и управления
-`livan_9_ru_4daa8436` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 2
 8
 7
@@ -4282,13 +4004,11 @@ OK:
 заднего вида
 
 ### Нажмите на боковое зеркало заднего
-`livan_9_ru_fba13189` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 вида в направлении внутрь или наружу,
 чтобы вручную сложить или разложить
 его.
 
 ### Электронное складывание боковых
-`livan_9_ru_55cbeee3` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:45 | doc_type:owners_manual
 зеркал заднего вида*
 Боковые зеркала заднего вида имеют
 функцию складывания, которой удобно
@@ -4312,7 +4032,6 @@ OK:
 боковые зеркала заднего вида сложатся.
 
 ### Когда необходимо развернуть боковое
-`livan_9_ru_f34f298c` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 зеркало
 заднего
 вида,
@@ -4320,7 +4039,6 @@ OK:
 переключатель на другое положение.
 
 ### Функция
-`livan_9_ru_868c9dee` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:45 | doc_type:owners_manual
 автоматического
 складывания
 боковых
@@ -4366,7 +4084,6 @@ OK:
 автоматически раскроются.
 
 ### Система контроля и управления
-`livan_9_ru_11d37991` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:45 | doc_type:owners_manual
 44
 Функция
 обогрева
@@ -4396,7 +4113,6 @@ OK:
 выключится примерно через 12 минут.
 
 ### Подробнее
-`livan_9_ru_573a80ba` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:46 | doc_type:owners_manual
 см.
 в
 главе
@@ -4411,7 +4127,6 @@ OK:
 кондиционирования воздухае.
 
 ### Внутреннее зеркало заднего
-`livan_9_ru_8cb59804` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 вида
 Регулировка
 внутреннего
@@ -4433,7 +4148,6 @@ OK:
 желаемое положение.
 
 ### Внутреннее
-`livan_9_ru_7b41dc01` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 зеркало
 заднего
 вида
@@ -4458,7 +4172,6 @@ OK:
 реализовать
 
 ### Система контроля и управления
-`livan_9_ru_73ba10b9` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 2
 8
 7
@@ -4489,7 +4202,6 @@ OK:
 Окна
 
 ### Электрические
-`livan_9_ru_20ffc9fb` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 стеклоподъемники
 Никогда
 не
@@ -4507,7 +4219,6 @@ OK:
 окнами.
 
 ### Неспособность
-`livan_9_ru_7ef16c15` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 открытия этими лицами дверей и окон
 может повлечь за собой вред здоровью
 или смерть из-за воздействия слишком
@@ -4522,7 +4233,6 @@ OK:
 ли окна функцию защиты от защемления.
 
 ### Не пытайтесь использовать части своего
-`livan_9_ru_f331742a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 тела для проверки функции защиты от
 защемления, иначе это может привести к
 травмам или смерти.
@@ -4537,7 +4247,6 @@ OK:
 от защемления может не сработать.
 
 ### Электрические
-`livan_9_ru_20ffc9fb` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 стеклоподъемники
 Система контроля и управления
 46
@@ -4546,7 +4255,6 @@ OK:
 стеклоподъёмников
 
 ### 2. Переключатель
-`livan_9_ru_68237118` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 левого
 переднего
 стеклоподъёмника
@@ -4556,7 +4264,6 @@ OK:
 стеклоподъёмника
 
 ### 4. Переключатель
-`livan_9_ru_9a33645e` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 правого
 заднего
 стеклоподъёмника
@@ -4566,7 +4273,6 @@ OK:
 стеклоподъёмника
 
 ### Ручное управление
-`livan_9_ru_e71befd7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:48 | doc_type:owners_manual
 Открытие:
 нажмите
 и
@@ -4576,7 +4282,6 @@ OK:
 переключатель, чтобы закрыть окно.
 
 ### Автоматическое закрытие окон
-`livan_9_ru_f2e0facf` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 при блокировке автомобиля*
 Если
 в
@@ -4606,7 +4311,6 @@ OFF, дверь багажника и четыре двери
 Управление «одной кнопкойе*
 
 ### Нажмите переключатель до положения
-`livan_9_ru_ee7202be` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:48 | doc_type:owners_manual
 автоматического
 опускания
 и
@@ -4630,7 +4334,6 @@ OFF, дверь багажника и четыре двери
 перестанет опускаться.
 
 ### Переключатель
-`livan_9_ru_1fbfce3a` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 блокировки
 окон
 Переключатель
@@ -4639,7 +4342,6 @@ OFF, дверь багажника и четыре двери
 водителя рядом с переключателями окон.
 
 ### Нажмите
-`livan_9_ru_3e3c0fff` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:48 | doc_type:owners_manual
 на
 переключатель,
 чтобы
@@ -4669,7 +4371,6 @@ OFF, дверь багажника и четыре двери
 и функция блокировки будет отключена.
 
 ### Тепловая
-`livan_9_ru_609a9ff0` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 защита
 электрических
 стеклоподъемников
@@ -4692,13 +4393,11 @@ OFF, дверь багажника и четыре двери
 привода.
 
 ### Функционирование
-`livan_9_ru_bd7a98d9` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 электрических
 стеклоподъемников будет возобновлено
 через короткий промежуток времени.
 
 ### Функция
-`livan_9_ru_4ac51eac` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:48 | doc_type:owners_manual
 защиты
 от
 защемления
@@ -4711,7 +4410,6 @@ OFF, дверь багажника и четыре двери
 от
 
 ### Система контроля и управления
-`livan_9_ru_af7f58ee` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:48 | doc_type:owners_manual
 2
 8
 7
@@ -4733,7 +4431,6 @@ OFF, дверь багажника и четыре двери
 расстояние.
 
 ### Избегайте
-`livan_9_ru_33930ee4` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:49 | doc_type:owners_manual
 травм.
 Самообучение
 использования
@@ -4757,7 +4454,6 @@ OFF, дверь багажника и четыре двери
 от защемления.
 
 ### Перед проведением самообучения
-`livan_9_ru_5a79d222` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:49 | doc_type:owners_manual
 замените
 или
 подзарядите
@@ -4765,7 +4461,6 @@ OFF, дверь багажника и четыре двери
 Процесс самообучения:
 
 ### 1. Потяните за переключатель окна и
-`livan_9_ru_51cc115f` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:49 | doc_type:owners_manual
 удерживайте
 в
 направлении
@@ -4776,12 +4471,10 @@ OFF, дверь багажника и четыре двери
 поднимется.
 
 ### Снова потяните вверх переключатель
-`livan_9_ru_adbf4084` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:49 | doc_type:owners_manual
 окна и удерживайте более 2 секунд,
 после чего отпустите.
 
 ### 2. Нажмите на переключатель окна и
-`livan_9_ru_bacd6f4a` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:49 | doc_type:owners_manual
 удерживайте
 в
 направлении
@@ -4798,7 +4491,6 @@ OFF, дверь багажника и четыре двери
 после чего отпустите.
 
 ### 3. Повторите подъем и опускание других
-`livan_9_ru_adc3fcc3` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:49 | doc_type:owners_manual
 окон,
 самообучение
 будет
@@ -4821,7 +4513,6 @@ OFF, дверь багажника и четыре двери
 обслуживания
 
 ### LIVAN
-`livan_9_ru_2aa11eb9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:49 | doc_type:owners_manual
 для
 проведения
 технического
@@ -4837,7 +4528,6 @@ OFF, дверь багажника и четыре двери
 положение
 
 ### OFF,
-`livan_9_ru_3b938151` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:49 | doc_type:owners_manual
 при
 выполнении
 следующих
@@ -4851,13 +4541,11 @@ OFF, дверь багажника и четыре двери
 управлять с помощью переключателей.
 
 ### 1. Пусковой переключатель переведен в
-`livan_9_ru_50d1959f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:49 | doc_type:owners_manual
 положение OFF в течение 60 секунд;
 2. Левая и правая передние двери не
 открыты;
 
 ### 3. Пульт дистанционного управления /
-`livan_9_ru_cf90d431` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:49 | doc_type:owners_manual
 смарт-ключ
 не
 используется
@@ -4868,7 +4556,6 @@ OFF, дверь багажника и четыре двери
 автомобиля.
 
 ### Система контроля и управления
-`livan_9_ru_85b6c279` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:49 | doc_type:owners_manual
 48
 Люк
 Стандартный люк
@@ -4884,7 +4571,6 @@ OFF, дверь багажника и четыре двери
 освещения.
 
 ### Переключатель
-`livan_9_ru_1e322dd4` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:50 | doc_type:owners_manual
 люка
 не
 сработает
@@ -4913,7 +4599,6 @@ OFF, дверь багажника и четыре двери
 •
 
 ### Использование
-`livan_9_ru_b0e56ae3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 смарт-ключа,
 чтобы
 отпереть/ запереть автомобиль.
@@ -4928,7 +4613,6 @@ OFF, дверь багажника и четыре двери
 •
 
 ### Во время эксплуатации автомобиля
-`livan_9_ru_b46564f3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 головы, руки и другие части тела всех
 пассажиров не должны быть в проеме
 люка,
@@ -4943,7 +4627,6 @@ OFF, дверь багажника и четыре двери
 •
 
 ### Категорически
-`livan_9_ru_f8819ec9` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:50 | doc_type:owners_manual
 запрещается
 выставлять голову или другие части
 тела
@@ -4996,7 +4679,6 @@ OFF, дверь багажника и четыре двери
 Открытие/ закрытие люка
 
 ### Установите
-`livan_9_ru_0b88bb8c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -5013,7 +4695,6 @@ ON, затем кратковременно
 полностью автоматически.
 
 ### Установите
-`livan_9_ru_0b88bb8c` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:50 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -5037,7 +4718,6 @@ ON, затем кратковременно
 вперед, чтобы люк поднялся; когда люк
 
 ### Система контроля и управления
-`livan_9_ru_ec400475` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 2
 8
 7
@@ -5056,7 +4736,6 @@ ON, затем кратковременно
 Закрытие люка смарт-ключом
 
 ### Нажмите
-`livan_9_ru_9f71ea9f` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:51 | doc_type:owners_manual
 и
 удерживайте
 кнопку
@@ -5086,7 +4765,6 @@ ON, затем кратковременно
 люк полностью закрыт.
 
 ### Безопасность
-`livan_9_ru_25c957f3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 и
 защита
 от
@@ -5112,7 +4790,6 @@ ON, затем кратковременно
 срабатывания.
 
 ### Режим ручного закрытия люка не
-`livan_9_ru_c2a0d0ba` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 имеет
 функции
 защиты
@@ -5123,7 +4800,6 @@ ON, затем кратковременно
 от защемления
 
 ### В
-`livan_9_ru_65635a15` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 указанных
 ниже
 ситуациях
@@ -5140,14 +4816,12 @@ ON, затем кратковременно
 •
 
 ### Отсоединение кабеля аккумулятора в
-`livan_9_ru_a0c00226` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:51 | doc_type:owners_manual
 процессе движения люка;
 •
 Процесс самообучения прервался.
 Процесс самообучения:
 
 ### 1. Переместите
-`livan_9_ru_658f43ed` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 люк
 в
 поднятое
@@ -5181,7 +4855,6 @@ ON, затем кратковременно
 положение.
 
 ### 2. Отпустите
-`livan_9_ru_7b2c2610` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 переключатель
 люка,
 самообучение закончится.
@@ -5190,7 +4863,6 @@ ON, затем кратковременно
 козырек люка
 
 ### Солнцезащитную
-`livan_9_ru_f42aadb7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 шторку
 люка
 можно
@@ -5199,7 +4871,6 @@ ON, затем кратковременно
 50
 
 ### При движении на высокой скорости
-`livan_9_ru_a88805f0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 строго
 запрещается
 закрывать
@@ -5208,7 +4879,6 @@ ON, затем кратковременно
 Панорамный люк*
 
 ### Переключатель
-`livan_9_ru_28aca248` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 люка
 расположен
 на
@@ -5220,7 +4890,6 @@ ON, затем кратковременно
 освещения.
 
 ### Обязательно
-`livan_9_ru_f1227e5d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 соблюдайте
 следующие
 меры
@@ -5231,7 +4900,6 @@ ON, затем кратковременно
 •
 
 ### Категорически
-`livan_9_ru_4506a1fd` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:52 | doc_type:owners_manual
 запрещается
 выставлять голову или другие части
 тела
@@ -5262,7 +4930,6 @@ ON, затем кратковременно
 •
 
 ### Нельзя сидеть на крыше автомобиля
-`livan_9_ru_c20cdc64` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 около люка.
 Если
 произошел
@@ -5287,7 +4954,6 @@ ON, затем кратковременно
 Открытие/ закрытие люка
 
 ### Переместите переключатель люка назад
-`livan_9_ru_fef8660c` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:52 | doc_type:owners_manual
 и
 отпустите
 его,
@@ -5301,12 +4967,10 @@ ON, затем кратковременно
 положение.
 
 ### Переместите переключатель люка назад
-`livan_9_ru_fef8660c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 и удерживайте, чтобы открыть люк в
 любое положение.
 
 ### Переместите
-`livan_9_ru_4223ce72` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:52 | doc_type:owners_manual
 переключатель
 люка
 вперед и отпустите его, стекло люка
@@ -5318,7 +4982,6 @@ ON, затем кратковременно
 положение.
 
 ### Переместите
-`livan_9_ru_4223ce72` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 переключатель
 люка
 вперед и удерживайте, чтобы закрыть
@@ -5326,7 +4989,6 @@ ON, затем кратковременно
 Поднятие / опускание люка
 
 ### Нажмите
-`livan_9_ru_b4b81348` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:52 | doc_type:owners_manual
 переключатель
 люка,
 стекло
@@ -5341,7 +5003,6 @@ ON, затем кратковременно
 закрытом
 
 ### Система контроля и управления
-`livan_9_ru_22803b3c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 2
 8
 7
@@ -5356,7 +5017,6 @@ ON, затем кратковременно
 на определенное расстояние.
 
 ### Нажмите
-`livan_9_ru_3aba4492` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 переключатель
 люка,
 стекло
@@ -5372,7 +5032,6 @@ ON, затем кратковременно
 Закрытие люка смарт-ключом
 
 ### Нажмите
-`livan_9_ru_3aba4492` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:53 | doc_type:owners_manual
 и
 удерживайте
 кнопку
@@ -5399,7 +5058,6 @@ ON, затем кратковременно
 люк полностью закрыт.
 
 ### Безопасность
-`livan_9_ru_36667473` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:53 | doc_type:owners_manual
 и
 защита
 от
@@ -5434,13 +5092,11 @@ ON, затем кратковременно
 •
 
 ### Люк вернется в полностью открытое
-`livan_9_ru_0feea8be` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:53 | doc_type:owners_manual
 положение, если в зоне перемещения
 произойдет защемление.
 •
 
 ### Козырек
-`livan_9_ru_3c08c676` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:53 | doc_type:owners_manual
 люка
 имеет
 защиту
@@ -5450,17 +5106,14 @@ ON, затем кратковременно
 •
 
 ### Солнцезащитный козырек люка имеет
-`livan_9_ru_41bd77db` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:53 | doc_type:owners_manual
 защиту от защемления в задней части
 и убирается на 150±10 миллиметров.
 
 ### Ручной режим закрывания люка и
-`livan_9_ru_8e7927a3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:53 | doc_type:owners_manual
 козырька люка не имеет функции
 защиты от защемления.
 
 ### Самообучающийся
-`livan_9_ru_c77e1a36` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:53 | doc_type:owners_manual
 электрический люк с защитой
 от защемления
 Если
@@ -5485,7 +5138,6 @@ ON, затем кратковременно
 Процесс самообучения:
 
 ### 1. В закрытом положении стекла люка
-`livan_9_ru_3163ce9a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:53 | doc_type:owners_manual
 нажмите
 кнопку
 закрытия
@@ -5493,7 +5145,6 @@ ON, затем кратковременно
 удерживайте ее в течение 10 секунд.
 
 ### Стекло
-`livan_9_ru_8d4b99c4` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 люка
 перемещается
 до
@@ -5503,7 +5154,6 @@ ON, затем кратковременно
 до мягкого упора.
 
 ### 3. Снова нажмите кнопку закрытия люка
-`livan_9_ru_e8810ded` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 и удерживайте ее в течение 5 секунд.
 Через
 4
@@ -5514,7 +5164,6 @@ ON, затем кратковременно
 сдвинется.
 
 ### Остановите
-`livan_9_ru_a32ec7a6` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 стекло
 люка,
 когда
@@ -5534,7 +5183,6 @@ ON, затем кратковременно
 полностью закрытом положении.
 
 ### 4. Отпустите
-`livan_9_ru_36e3bce1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 переключатель.
 Инициализация
 и
@@ -5542,7 +5190,6 @@ ON, затем кратковременно
 движений стекла люка завершено.
 
 ### Процесс
-`livan_9_ru_f344c409` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 самообучения
 солнцезащитного
 козырька
@@ -5550,7 +5197,6 @@ ON, затем кратковременно
 такой же, как и у люка.
 
 ### Электрический
-`livan_9_ru_d8f69ed8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 солнцезащитный козырек люка
 1. Кнопка
 открытия
@@ -5558,7 +5204,6 @@ ON, затем кратковременно
 козырька люка
 
 ### 2. Кнопка
-`livan_9_ru_0b2a6034` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 закрытия
 солнцезащитного
 козырька люка
@@ -5566,7 +5211,6 @@ ON, затем кратковременно
 люка
 
 ### Нажмите и отпустите кнопку открытия
-`livan_9_ru_986b9b57` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 солнцезащитного
 козырька
 люка,
@@ -5577,7 +5221,6 @@ ON, затем кратковременно
 открытое положение.
 
 ### Нажмите и удерживайте кнопку открытия
-`livan_9_ru_31e91a51` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 солнцезащитного
 козырька
 люка,
@@ -5585,7 +5228,6 @@ ON, затем кратковременно
 может быть открыт в любом положении.
 
 ### Закрытие солнцезащитного козырька
-`livan_9_ru_1534d11f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 люка
 Нажмите
 и
@@ -5601,7 +5243,6 @@ ON, затем кратковременно
 положение.
 
 ### Нажмите и удерживайте кнопку закрытия
-`livan_9_ru_79fe68bf` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 солнцезащитного
 козырька
 люка,
@@ -5609,7 +5250,6 @@ ON, затем кратковременно
 может быть закрыт в любом положении.
 
 ### Солнцезащитный
-`livan_9_ru_d06db06d` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:54 | doc_type:owners_manual
 козырек
 люка,
 находящийся в любом положении, можно
@@ -5642,7 +5282,6 @@ ON, затем кратковременно
 солнцезащитного козырька.
 
 ### Не рекомендуется с силой нажимать на
-`livan_9_ru_b83f6e1e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 солнцезащитный козырек
 люка, чтобы
 предотвратить
@@ -5658,7 +5297,6 @@ ON, затем кратковременно
 •
 
 ### Полностью
-`livan_9_ru_3314ed2e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 открытый
 люк
 может
@@ -5673,7 +5311,6 @@ ON, затем кратковременно
 •
 
 ### При длительной парковке автомобиля
-`livan_9_ru_6e8fe56c` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:54 | doc_type:owners_manual
 рекомендуется
 переместить
 солнцезащитный
@@ -5694,7 +5331,6 @@ ON, затем кратковременно
 автомобиля и повреждения салона из-
 
 ### Система контроля и управления
-`livan_9_ru_89232caa` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 2
 8
 7
@@ -5710,7 +5346,6 @@ ON, затем кратковременно
 солнечных лучей.
 
 ### Внутреннее
-`livan_9_ru_323f714e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 освещение
 переднего ряда
 Версия панорамного люка
@@ -5720,7 +5355,6 @@ ON, затем кратковременно
 внутреннего освещения
 
 ### 2. Правый
-`livan_9_ru_853b5711` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 передний
 переключатель
 внутреннего освещения
@@ -5730,7 +5364,6 @@ ON, затем кратковременно
 при открытой двери
 
 ### 4. Переключатель
-`livan_9_ru_2c80bb6e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 внутреннего
 освещения
 Стандартная версия люка
@@ -5740,7 +5373,6 @@ ON, затем кратковременно
 внутреннего освещения
 
 ### Система контроля и управления
-`livan_9_ru_f6ae2bd9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 54
 2. Правый
 передний
@@ -5748,7 +5380,6 @@ ON, затем кратковременно
 внутреннего освещения
 
 ### 3. Включение
-`livan_9_ru_9b1b5c20` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 внутреннего
 освещения
 при открытой двери
@@ -5757,13 +5388,11 @@ ON, затем кратковременно
 освещением переднего ряда
 
 ### Нажатием левого и правого передних
-`livan_9_ru_6d87137a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 переключателей внутреннего освещения
 можно включать или выключать левое и
 правое переднее внутреннее освещение.
 
 ### Переключателем внутреннего освещения
-`livan_9_ru_ef39deb3` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:56 | doc_type:owners_manual
 можно
 включить
 функцию
@@ -5796,7 +5425,6 @@ ON, затем кратковременно
 происшествий.
 
 ### Внутреннее
-`livan_9_ru_997994e3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 освещение,
 которое
 включается с помощью левого и
@@ -5821,7 +5449,6 @@ ON, затем кратковременно
 помощью других выключателей.
 
 ### Если передний выключатель внутреннего
-`livan_9_ru_48df1ca0` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:56 | doc_type:owners_manual
 освещения
 находится
 во
@@ -5839,7 +5466,6 @@ ON, затем кратковременно
 разрядку аккумулятора.
 
 ### Режимы
-`livan_9_ru_2e86a41d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 управления
 внутренним
 освещением
@@ -5847,7 +5473,6 @@ ON, затем кратковременно
 дверей автомобиля
 
 ### Внутреннее
-`livan_9_ru_997994e3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 освещение
 и
 функция
@@ -5863,7 +5488,6 @@ ON, затем кратковременно
 умолчанию включены.
 
 ### Включение освещения
-`livan_9_ru_38a054c4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 •
 Внутреннее
 освещение
@@ -5879,7 +5503,6 @@ ON, затем кратковременно
 •
 
 ### Внутреннее
-`livan_9_ru_997994e3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 освещение
 плавно
 включится,
@@ -5897,13 +5520,11 @@ ON, затем кратковременно
 •
 
 ### Внутреннее
-`livan_9_ru_997994e3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 освещение
 плавно
 включится при открытии любой двери.
 
 ### Выключение освещения
-`livan_9_ru_4f42556d` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:56 | doc_type:owners_manual
 •
 Когда
 четыре
@@ -5926,7 +5547,6 @@ ON, затем кратковременно
 положении
 
 ### OFF,
-`livan_9_ru_f7225071` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 внутреннее
 освещение постепенно выключится;
 •
@@ -5943,7 +5563,6 @@ ON, затем кратковременно
 освещение постепенно погаснет.
 
 ### Система контроля и управления
-`livan_9_ru_af7f5567` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 2
 8
 7
@@ -5958,7 +5577,6 @@ ON, затем кратковременно
 заднего ряда сидений*
 
 ### Нажмите
-`livan_9_ru_72727e50` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:57 | doc_type:owners_manual
 левый
 или
 правый
@@ -5979,7 +5597,6 @@ ON, затем кратковременно
 переключателя внутреннего освещения.
 
 ### Если переключатель заднего освещения
-`livan_9_ru_817be013` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:57 | doc_type:owners_manual
 салона
 находится
 во
@@ -5993,7 +5610,6 @@ ON, затем кратковременно
 разрядки аккумулятора.
 
 ### Лампа подсветки багажника расположена
-`livan_9_ru_8f2f362e` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:57 | doc_type:owners_manual
 на
 левой
 боковой
@@ -6010,7 +5626,6 @@ ON, затем кратковременно
 двери.
 
 ### Система контроля и управления
-`livan_9_ru_b7e7ef9d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 56
 Внутренние устройства
 Перчаточный ящик
@@ -6027,7 +5642,6 @@ ON, затем кратковременно
 его.
 
 ### Толкните
-`livan_9_ru_7be475a9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 крышку
 перчаточного
 ящика
@@ -6041,7 +5655,6 @@ ON, затем кратковременно
 Модель 1
 
 ### Ящик для хранения в приборной панели
-`livan_9_ru_404a9645` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 расположен
 в
 нижней
@@ -6056,7 +5669,6 @@ ON, затем кратковременно
 Модель 2*
 
 ### В
-`livan_9_ru_c4538454` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 моделях
 автомобиля,
 оснащенных
@@ -6065,7 +5677,6 @@ ON, затем кратковременно
 динамик.
 
 ### Слот для карт на приборной
-`livan_9_ru_a4069fa0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 панели
 Слот для
 карт
@@ -6085,7 +5696,6 @@ ON, затем кратковременно
 карты.
 
 ### Система контроля и управления
-`livan_9_ru_72560c39` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 2
 8
 7
@@ -6106,7 +5716,6 @@ ON, затем кратковременно
 хранение мелких предметов.
 
 ### Передний отсек для хранения
-`livan_9_ru_1cde0172` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 на центральной консоли
 В передней части центральной консоли
 предусмотрен
@@ -6124,7 +5733,6 @@ ON, затем кратковременно
 мобильный телефон и смарт-ключ.
 
 ### Задний отсек для хранения на
-`livan_9_ru_de939ad6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 центральной консоли
 Задний
 отсек
@@ -6146,7 +5754,6 @@ ON, затем кратковременно
 разместить некоторые мелкие предметы.
 
 ### Ограждение
-`livan_9_ru_b8853ef4` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:59 | doc_type:owners_manual
 для
 хранения
 в
@@ -6160,7 +5767,6 @@ ON, затем кратковременно
 хранить мелкие предметы.
 
 ### Система контроля и управления
-`livan_9_ru_0ab0a42f` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:59 | doc_type:owners_manual
 58
 Противосолнечный козырек
 и аксессуарное зеркало
@@ -6176,7 +5782,6 @@ ON, затем кратковременно
 уменьшить блики.
 
 ### Козырек
-`livan_9_ru_af09753a` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:60 | doc_type:owners_manual
 оснащен
 зеркалом,
 которым
@@ -6184,7 +5789,6 @@ ON, затем кратковременно
 Зажим для документов*
 
 ### Солнцезащитная
-`livan_9_ru_eda6fd0f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 шторка
 со
 стороны
@@ -6201,7 +5805,6 @@ ON, затем кратковременно
 предметов (например, счетов).
 
 ### Футляр для очков
-`livan_9_ru_bcb8dcd8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 Модель 1
 Футляр для очков размещен вместе с
 передним
@@ -6215,7 +5818,6 @@ ON, затем кратковременно
 использовать очки во время вождения.
 
 ### Нажмите
-`livan_9_ru_8f9f1938` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 на
 футляр
 для
@@ -6229,7 +5831,6 @@ ON, затем кратковременно
 Модель 2*
 
 ### В
-`livan_9_ru_bac540ea` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 моделях
 автомобиля,
 оснащенных
@@ -6238,7 +5839,6 @@ ON, затем кратковременно
 кнопка SOS.
 
 ### Система контроля и управления
-`livan_9_ru_7d4dd80b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 2
 8
 7
@@ -6266,7 +5866,6 @@ ON, затем кратковременно
 передний центральный подлокотник.
 
 ### Открытый передний центральный
-`livan_9_ru_3bbcc3db` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 подлокотник
 может
 повлиять
@@ -6277,7 +5876,6 @@ ON, затем кратковременно
 подлокотник всегда должен быть закрыт.
 
 ### Задний
-`livan_9_ru_5b16f44d` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:61 | doc_type:owners_manual
 центральный
 подлокотник*
 Вы
@@ -6292,7 +5890,6 @@ ON, затем кратковременно
 чтобы было удобнее открывать.
 
 ### В
-`livan_9_ru_af602031` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 центре
 вспомогательной
 приборной
@@ -6303,7 +5900,6 @@ ON, затем кратковременно
 напитков.
 
 ### Система контроля и управления
-`livan_9_ru_e8ba08f1` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:61 | doc_type:owners_manual
 60
 Задний подстаканник*
 На центральном подлокотнике заднего
@@ -6316,7 +5912,6 @@ ON, затем кратковременно
 Розетка электропитания 12V
 
 ### Данный
-`livan_9_ru_f13027ca` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
 автомобиль
 оборудован
 резервным
@@ -6331,7 +5926,6 @@ ON, затем кратковременно
 отделения.
 
 ### Электрическую
-`livan_9_ru_57c87b2c` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:62 | doc_type:owners_manual
 розетку
 можно
 использовать
@@ -6343,7 +5937,6 @@ ON, затем кратковременно
 мощностью 120 Вт.
 
 ### Мультимедийный
-`livan_9_ru_8595cc30` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:62 | doc_type:owners_manual
 интерфейс
 Данный
 автомобиль
@@ -6360,7 +5953,6 @@ ON, затем кратковременно
 зарядки.
 
 ### Справа
-`livan_9_ru_aceb0f7b` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:62 | doc_type:owners_manual
 находится
 мультимедийный
 разъем
@@ -6372,7 +5964,6 @@ USB
 консоли.
 
 ### Система контроля и управления
-`livan_9_ru_1e0ea407` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
 2
 8
 7
@@ -6398,7 +5989,6 @@ USB
 положение при отпускании.
 
 ### Внутренние ручки со стороны переднего
-`livan_9_ru_4507e18e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 пассажирского сидения и с обеих сторон
 заднего
 ряда
@@ -6407,7 +5997,6 @@ USB
 крючками для одежды пассажиров.
 
 ### Крючки
-`livan_9_ru_a9626df7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 для
 одежды и
 головных
@@ -6421,13 +6010,11 @@ USB
 чтобы не повредить крючок для одежды.
 
 ### Не вешайте одежду с помощью вешалок
-`livan_9_ru_d04cc51a` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:63 | doc_type:owners_manual
 на крючок для одежды, так как это может
 повлиять на защитный эффект подушки
 безопасности.
 
 ### Карман
-`livan_9_ru_b20f916f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 для
 печатных
 изданий
@@ -6441,7 +6028,6 @@ USB
 карты.
 
 ### В кармане для печатных изданий
-`livan_9_ru_25b572ff` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 разрешается
 размещать
 только
@@ -6449,7 +6035,6 @@ USB
 карман тяжелые и острые предметы.
 
 ### Система контроля и управления
-`livan_9_ru_974c1144` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:63 | doc_type:owners_manual
 62
 Багажник
 Предназначен для погрузки больших или
@@ -6474,7 +6059,6 @@ USB
 багажника.
 
 ### Старайтесь
-`livan_9_ru_326a0e46` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 распределять
 вес
 равномерно.
@@ -6487,7 +6071,6 @@ USB
 •
 
 ### При погрузке тяжелых предметов в
-`livan_9_ru_862ba9e9` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:64 | doc_type:owners_manual
 автомобиль их необходимо закрепить.
 •
 Не складывайте спинку сиденья без
@@ -6499,7 +6082,6 @@ USB
 домашних животных.
 
 ### Если вес загруженных предметов
-`livan_9_ru_a32a3a6d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 превышает
 грузоподъемность
 автомобиля,
@@ -6529,14 +6111,12 @@ USB
 размещения.
 
 ### Предметы
-`livan_9_ru_a4f18f64` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 следует
 располагать как можно ниже и как можно
 дальше вперед, т. е. как можно ближе к
 спинке заднего сиденья.
 
 ### Погрузка высоких предметов
-`livan_9_ru_8518a522` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 При
 погрузке
 сравнительно
@@ -6555,7 +6135,6 @@ USB
 безопасности движения.
 
 ### Погрузка
-`livan_9_ru_802af3c2` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:64 | doc_type:owners_manual
 крупногабаритных
 предметов
 При
@@ -6573,7 +6152,6 @@ USB
 обеспечения безопасности движения.
 
 ### Система контроля и управления
-`livan_9_ru_495e04da` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:64 | doc_type:owners_manual
 2
 8
 7
@@ -6598,7 +6176,6 @@ USB
 багажнике.
 
 ### Выдвижная
-`livan_9_ru_09a0bdf2` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:65 | doc_type:owners_manual
 шторка
 багажника
 предназначена
@@ -6617,7 +6194,6 @@ USB
 предметы.
 
 ### Порядок
-`livan_9_ru_04fa29fe` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:65 | doc_type:owners_manual
 действия
 для
 использования
@@ -6630,14 +6206,12 @@ USB
 закрыть все пространство для багажа
 
 ### 2. Вставьте
-`livan_9_ru_9e593a6b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 держатели
 обоих
 концов
 шторки в пазы на отделке стойки.
 
 ### Рейлинги расположены с обеих сторон
-`livan_9_ru_b33c90a8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 крыши автомобиля.
 Рейлинги на крыше используются в
 качестве декоративного элемента
@@ -6645,7 +6219,6 @@ USB
 багаж или грузы.
 
 ### Система контроля и управления
-`livan_9_ru_d5f56c6d` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:66 | doc_type:owners_manual
 64
 3
 8
@@ -6660,7 +6233,6 @@ USB
 кондиционирование
 
 ### Система
-`livan_9_ru_e656794f` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:67 | doc_type:owners_manual
 управления
 кондиционером
 Панель
@@ -6671,14 +6243,12 @@ USB
 1.
 
 ### Кнопка настройки кондиционера
-`livan_9_ru_cfbc1ebd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 9.
 Кнопка обдува ветрового окна в
 режиме подачи воздуха
 2.
 
 ### Кнопка оттаивания и отпотевания
-`livan_9_ru_bcb89826` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 ветрового стекла
 10.
 Кнопка подогрева сиденья*
@@ -6689,7 +6259,6 @@ USB
 11.
 
 ### Кнопка OFF
-`livan_9_ru_fbb0a521` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 4.
 Кнопка ECO
 12.
@@ -6702,7 +6271,6 @@ USB
 6.
 
 ### Кнопка регулирования
-`livan_9_ru_3d9cda0d` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:67 | doc_type:owners_manual
 интенсивности вентиляции
 14.
 Клавиша A/C MAX
@@ -6711,7 +6279,6 @@ USB
 7.
 
 ### Кнопка обдува лица в режиме
-`livan_9_ru_cdcd4e4d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:68 | doc_type:owners_manual
 подачи воздуха
 15.
 Кнопка переключения между
@@ -6719,7 +6286,6 @@ USB
 8.
 
 ### Кнопка обдува ног в режиме
-`livan_9_ru_92ea083f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:68 | doc_type:owners_manual
 подачи воздуха
 Система кондиционирования воздуха
 3
@@ -6733,7 +6299,6 @@ USB
 67
 
 ### Описание кнопки управления
-`livan_9_ru_6f431212` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:69 | doc_type:owners_manual
 кондиционером
 1. Кнопка настройки кондиционера
 Нажмите эту кнопку, чтобы включить/
@@ -6752,7 +6317,6 @@ USB
 кондиционирования.
 
 ### 2. Кнопка
-`livan_9_ru_cd6d04ac` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 оттаивания
 и
 отпотевания
@@ -6786,7 +6350,6 @@ USB
 оттаиванием.
 
 ### 3. Боковые зеркала заднего вида/кнопка
-`livan_9_ru_ba50f1ea` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 оттаивания
 и
 отпотевания
@@ -6801,7 +6364,6 @@ USB
 заднего вида/заднего стекла.
 
 ### Не пытайтесь использовать скребок
-`livan_9_ru_0831d6e1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 или
 любой
 другой
@@ -6827,13 +6389,11 @@ USB
 безопасном расстоянии от окон.
 
 ### 4. Кнопка ECO
-`livan_9_ru_1a065cce` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 Нажмите эту кнопку, чтобы включить
 или выключить экономичный режим
 работы кондиционера.
 
 ### 5. Клавиша регулировки температуры
-`livan_9_ru_6b5ef423` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 Нажмите ∧или ∨над и под значением
 температуры, чтобы увеличить или
 уменьшить
@@ -6843,7 +6403,6 @@ USB
 градуса Цельсия.
 
 ### 6. Кнопка регулирования интенсивности
-`livan_9_ru_b7640424` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:69 | doc_type:owners_manual
 вентиляции
 Нажмите
 эту
@@ -6855,7 +6414,6 @@ USB
 положений.
 
 ### Уменьшите
-`livan_9_ru_e7acf287` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 объем
 воздуха
 слева
@@ -6870,14 +6428,12 @@ USB
 воздуха.
 
 ### 8. Кнопка обдува ног в режиме подачи
-`livan_9_ru_9f842662` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 воздуха
 Нажмите эту кнопку, чтобы выбрать
 режим обдува ног в качестве подачи
 воздуха.
 
 ### 9. Кнопка
-`livan_9_ru_3df8476f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 обдува
 ветрового
 окна
@@ -6892,7 +6448,6 @@ USB
 качестве подачи воздуха.
 
 ### Система кондиционирования воздуха
-`livan_9_ru_535ea081` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 68
 Нажмите эту кнопку, чтобы перейти к
 интерфейсу
@@ -6903,7 +6458,6 @@ USB
 переднего сиденья и передачей.
 
 ### 11. Кнопка OFF
-`livan_9_ru_a4fb706c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 Когда
 система
 кондиционирования
@@ -6913,13 +6467,11 @@ USB
 кнопки
 
 ### OFF остановит всю работу системы
-`livan_9_ru_d2125934` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 кондиционирования.
 12. Кнопка AUTO
 Нажмите эту кнопку, чтобы войти в
 
 ### AUTO
-`livan_9_ru_0bd572e2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 режим
 для
 кондиционера,
@@ -6936,7 +6488,6 @@ USB
 установленной пользователем.
 
 ### 13. Клавиша A/C
-`livan_9_ru_3e2b83ce` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 Нажмите эту кнопку, чтобы включить
 или
 выключить
@@ -6944,7 +6495,6 @@ USB
 кондиционера.
 
 ### 14. Клавиша A/C MAX
-`livan_9_ru_fbefdb41` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:70 | doc_type:owners_manual
 Когда
 данный
 световой
@@ -6956,7 +6506,6 @@ USB
 снижение температуры.
 
 ### 15. Кнопка
-`livan_9_ru_1928011d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 переключения
 внутренней/
 внешней циркуляции
@@ -7003,7 +6552,6 @@ USB
 автомобиля.
 
 ### Длительное использование режима
-`livan_9_ru_3552c8ac` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 внутренней
 циркуляции
 может
@@ -7020,7 +6568,6 @@ USB
 из соответствующего режима.
 
 ### Система кондиционирования воздуха
-`livan_9_ru_616ca029` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 3
 8
 7
@@ -7035,7 +6582,6 @@ USB
 работы кондиционера
 
 ### A/C
-`livan_9_ru_58f01efe` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 self-drying
 (самоочистка
 кондиционера)
@@ -7053,14 +6599,12 @@ self-drying
 и заплесневелостью в испарителе.
 
 ### Переключатель
-`livan_9_ru_e03bf226` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:71 | doc_type:owners_manual
 самоосушения
 кондиционера
 находится в настройках
 мультимедиа.
 
 ### Нажав на переключатель самоосушения
-`livan_9_ru_1fe4457f` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:71 | doc_type:owners_manual
 кондиционера,
 можно
 включить
@@ -7090,7 +6634,6 @@ Cabin air refresh mode (режим
 вентилятор.
 
 ### Система
-`livan_9_ru_47d01a97` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 кондиционирования
 воздуха
 удалит
@@ -7107,7 +6650,6 @@ Cabin air refresh mode (режим
 очистки.
 
 ### Переключатель
-`livan_9_ru_e03bf226` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:71 | doc_type:owners_manual
 очистки
 салона
 находится в настройках мультимедиа.
@@ -7116,7 +6658,6 @@ Cabin air refresh mode (режим
 очистки салона.
 
 ### A/C
-`livan_9_ru_58f01efe` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:71 | doc_type:owners_manual
 timing
 ventilation
 (вентиляция
@@ -7138,7 +6679,6 @@ ventilation
 вентиляцию.
 
 ### Система кондиционирования воздуха
-`livan_9_ru_8dea4783` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:71 | doc_type:owners_manual
 70
 Переключатель
 вентиляции
@@ -7151,7 +6691,6 @@ ventilation
 мультимедиа.
 
 ### Нажав на переключатель вентиляции во
-`livan_9_ru_a45f694b` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:72 | doc_type:owners_manual
 время
 парковки
 можно
@@ -7162,7 +6701,6 @@ A/C automation level (уровень
 автоматизации кондиционера)
 
 ### Нажатием на различные автоматические
-`livan_9_ru_3ffbc43d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 уровни
 кондиционирования
 воздуха,
@@ -7171,7 +6709,6 @@ A/C automation level (уровень
 уровень кондиционирования воздуха.
 
 ### Air conditioning interface hold
-`livan_9_ru_c1f81cf6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 time
 (время
 удержания
@@ -7187,7 +6724,6 @@ time
 интерфейса кондиционирования воздуха.
 
 ### Установите
-`livan_9_ru_c21ee77b` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:72 | doc_type:owners_manual
 время
 удержания
 кондиционирования
@@ -7198,7 +6734,6 @@ time
 кондиционирования воздуха на экране.
 
 ### Датчики
-`livan_9_ru_a9866bfd` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:72 | doc_type:owners_manual
 окружающего
 освещения
 и
@@ -7216,7 +6751,6 @@ time
 71
 
 ### Датчик
-`livan_9_ru_1a86a2d2` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:73 | doc_type:owners_manual
 внешней
 освещенности
 и
@@ -7230,7 +6764,6 @@ time
 стеклом.
 
 ### Датчик
-`livan_9_ru_1a86a2d2` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:73 | doc_type:owners_manual
 внешней
 освещенности
 и
@@ -7255,7 +6788,6 @@ time
 режиме подачи воздуха.
 
 ### Содержите датчик в чистоте и не
-`livan_9_ru_a4c2f0f9` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:73 | doc_type:owners_manual
 наклеивайте на него наклейки и
 другие предметы. В противном случае
 система
@@ -7265,7 +6797,6 @@ time
 должным образом.
 
 ### Система кондиционирования воздуха
-`livan_9_ru_04347833` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:73 | doc_type:owners_manual
 72
 Система кондиционирования воздуха и вентиляции
 Воздухозаборник отопителя
@@ -7273,7 +6804,6 @@ time
 препятствовать потоку воздуха, поступающему в автомобиль.
 
 ### Система кондиционирования воздуха
-`livan_9_ru_b2843ae1` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:74 | doc_type:owners_manual
 3
 8
 7
@@ -7293,7 +6823,6 @@ time
 4.
 
 ### Воздуховод для выпуска воздуха в
-`livan_9_ru_9a4811a8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:75 | doc_type:owners_manual
 области ног передних сидений
 2.
 Воздуховод
@@ -7303,7 +6832,6 @@ time
 5.
 
 ### Боковой
-`livan_9_ru_20376b03` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:75 | doc_type:owners_manual
 воздуховод
 для
 оттаивания
@@ -7313,7 +6841,6 @@ time
 6.
 
 ### Правый
-`livan_9_ru_5eac1ad2` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:75 | doc_type:owners_manual
 дефлектор
 системы
 вентиляции и отопления
@@ -7321,7 +6848,6 @@ time
 74
 
 ### Задний дефлектор
-`livan_9_ru_b5842eda` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:76 | doc_type:owners_manual
 1.
 Задний дефлектор
 2.
@@ -7338,14 +6864,12 @@ time
 75
 
 ### Регулировка дефлекторов и
-`livan_9_ru_df56895d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 техническое
 обслуживание
 кондиционера
 Регулировка дефлекторов
 
 ### Центральный
-`livan_9_ru_27af8821` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 дефлектор
 можно
 отрегулировать,
@@ -7359,7 +6883,6 @@ time
 направление воздуха.
 
 ### Направление
-`livan_9_ru_5cfd0aa3` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:77 | doc_type:owners_manual
 левого
 и
 правого
@@ -7369,7 +6892,6 @@ time
 чтобы настраивать направление воздуха.
 
 ### Фильтр
-`livan_9_ru_0d0f724f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 кондиционера
 расположен
 за
@@ -7403,7 +6925,6 @@ time
 технического обслуживания.
 
 ### Система
-`livan_9_ru_5db8721c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 кондиционирования
 воздуха
 содержит
@@ -7422,7 +6943,6 @@ time
 ремонта.
 
 ### Техническое
-`livan_9_ru_04912d0d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 обслуживание
 системы кондиционирования
 •
@@ -7440,7 +6960,6 @@ time
 очень
 
 ### Система кондиционирования воздуха
-`livan_9_ru_b169daef` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 76
 высокой.
 В
@@ -7473,7 +6992,6 @@ time
 кнопку
 
 ### AUTO
-`livan_9_ru_84f7fd7c` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:78 | doc_type:owners_manual
 (для
 некоторых моделей).
 •
@@ -7500,7 +7018,6 @@ time
 •
 
 ### Закройте
-`livan_9_ru_8a1a7aac` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 все
 окна,
 рекомендуется
@@ -7530,7 +7047,6 @@ time
 раздражителям.
 
 ### В
-`livan_9_ru_f92d946d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 этом
 случае
 следует настроить отвод испарений за
@@ -7552,14 +7068,12 @@ time
 •
 
 ### Держите пространство под передними
-`livan_9_ru_6233ba47` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 сидениями,
 свободной,
 чтобы
 облегчить циркуляцию воздуха.
 
 ### Если вы хотите оставить автомобиль на
-`livan_9_ru_b18d312b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 хранение
 или
 не
@@ -7593,7 +7107,6 @@ time
 при повторном запуске системы.
 
 ### Система кондиционирования воздуха
-`livan_9_ru_2036f63c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 4
 8
 7
@@ -7610,7 +7123,6 @@ time
 передних сидений
 
 ### Подголовники
-`livan_9_ru_f4a90903` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 передних
 сидений
 являются
@@ -7620,7 +7132,6 @@ time
 регулируются.
 
 ### Не следует регулировать сиденья
-`livan_9_ru_a3da310f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 во время движения. Перемещение
 сиденья
 во
@@ -7638,7 +7149,6 @@ time
 столкновения и серьезные травмы.
 
 ### Всегда
-`livan_9_ru_a476a204` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:79 | doc_type:owners_manual
 регулируйте
 сиденье,
 когда
@@ -7647,12 +7157,10 @@ time
 безопасности.
 
 ### Неверная
-`livan_9_ru_7c24881d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 регулировка ремня безопасности может
 привести к серьезным травмам.
 
 ### Не приводите сиденье в горизонтальное
-`livan_9_ru_4487cfd9` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:79 | doc_type:owners_manual
 положение
 во
 время
@@ -7676,7 +7184,6 @@ time
 серьезные травмы.
 
 ### Ручная
-`livan_9_ru_876a093a` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:79 | doc_type:owners_manual
 регулировка
 сиденья
 водителя
@@ -7699,7 +7206,6 @@ time
 слева и спереди.
 
 ### 1. Рычаг
-`livan_9_ru_f3b44e4f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 для
 регулировки
 сиденья
@@ -7707,7 +7213,6 @@ time
 2. Ручка регулировки сиденья по высоте
 
 ### 3. Ручка
-`livan_9_ru_c3330216` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 для
 регулирования
 наклона
@@ -7715,7 +7220,6 @@ time
 Регулировка сиденья вперед и назад
 
 ### Возьмитесь
-`livan_9_ru_faffbfb5` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:79 | doc_type:owners_manual
 за
 середину
 рычага
@@ -7744,13 +7248,11 @@ time
 зафиксировано на месте.
 
 ### Если ручку регулировки высоты сиденья
-`livan_9_ru_d3da6713` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:79 | doc_type:owners_manual
 несколько раз поднять или опустить вниз,
 высота сиденья будет увеличиваться или
 уменьшаться. Отрегулируйте сиденье на
 
 ### Сиденья и устройства защиты
-`livan_9_ru_c93f58f3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 78
 желаемую
 высоту
@@ -7765,7 +7267,6 @@ time
 сиденья
 
 ### Если необходимо
-`livan_9_ru_f71522b5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 отрегулировать
 угол
 наклона спинки в направлении назад,
@@ -7794,7 +7295,6 @@ time
 спинку;
 
 ### Если необходимо
-`livan_9_ru_f71522b5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 отрегулировать
 угол
 наклона спинки в направлении вперед,
@@ -7821,7 +7321,6 @@ time
 движения автомобиля.
 
 ### Ремень
-`livan_9_ru_c0942589` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:80 | doc_type:owners_manual
 безопасности
 способен
 максимально
@@ -7837,7 +7336,6 @@ time
 положении спинок сидений.
 
 ### При откинутом положении сиденья часть
-`livan_9_ru_cf5e03e0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 ремня
 на
 талии
@@ -7848,13 +7346,11 @@ time
 или съехать в район шеи.
 
 ### При лобовом столкновении чрезмерный
-`livan_9_ru_96c922f2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 угол наклона сиденья может увеличить
 риск получения травм или даже привести
 к летальному исходу.
 
 ### Сиденье
-`livan_9_ru_bd09c9c7` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:80 | doc_type:owners_manual
 водителя
 с
 электронной регулировкой*
@@ -7864,7 +7360,6 @@ time
 сиденья.
 
 ### Не кладите предметы под сиденье
-`livan_9_ru_28f51494` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:80 | doc_type:owners_manual
 с
 электроприводом
 и
@@ -7874,14 +7369,12 @@ time
 сиденья.
 
 ### 1. Переключатель
-`livan_9_ru_426fd51d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 для
 регулировки
 высоты сиденья/ движения сиденья
 вперед-назад
 
 ### 2. Переключатель для регулировки угла
-`livan_9_ru_73b2e6e6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 наклона спинки
 Сиденья и устройства защиты
 4
@@ -7895,7 +7388,6 @@ time
 79
 
 ### Переместите
-`livan_9_ru_a025860e` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:81 | doc_type:owners_manual
 переключатель
 в
 направлении
@@ -7904,7 +7396,6 @@ time
 регулировать сиденье вперед и назад.
 
 ### Переместите
-`livan_9_ru_a025860e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 переключатель
 в
 направлении
@@ -7914,7 +7405,6 @@ time
 уменьшится или увеличится.
 
 ### Регулировка
-`livan_9_ru_c47971ab` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 угла
 наклона
 спинки
@@ -7928,7 +7418,6 @@ time
 отрегулировать наклон спинки сиденья.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_69f1e38f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 80
 Ручное
 регулирование
@@ -7937,7 +7426,6 @@ time
 сиденья
 
 ### Сиденье
-`livan_9_ru_02adb709` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:82 | doc_type:owners_manual
 переднего
 пассажира
 можно
@@ -7952,7 +7440,6 @@ time
 сиденья по высоте.
 
 ### 1. Рычаг
-`livan_9_ru_05931569` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 для
 регулировки
 сиденья
@@ -7979,7 +7466,6 @@ time
 направлениях.
 
 ### Регулирование
-`livan_9_ru_a0802d45` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 подголовника
 задних сидений
 Чтобы поднять или опустить подголовник,
@@ -8001,30 +7487,27 @@ time
 отпустите
 кнопку.
 
-### Осторожно
-`livan_9_ru_d98d5587` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
-нажмите
-или
-поднимите
-подголовник еще раз, пока не услышите
-щелчок,
-чтобы
-убедиться,
-что
-подголовник
-зафиксирован
-на
-месте.
-Нажав и удерживая кнопку регулировки,
-можно
-также
-вдавить
-или
-выдвинуть
-подголовник.
+> ⚠️ **Внимание:** нажмите
+> или
+> поднимите
+> подголовник еще раз, пока не услышите
+> щелчок,
+> чтобы
+> убедиться,
+> что
+> подголовник
+> зафиксирован
+> на
+> месте.
+> Нажав и удерживая кнопку регулировки,
+> можно
+> также
+> вдавить
+> или
+> выдвинуть
+> подголовник.
 
 ### Некоторые
-`livan_9_ru_ca8e1454` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:82 | doc_type:owners_manual
 модели
 не
 оснащены
@@ -8032,7 +7515,6 @@ time
 Заднее сиденье складывается на 4/6.
 
 ### Сложив
-`livan_9_ru_3a6f7bc3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 спинку,
 можно
 увеличить
@@ -8046,7 +7528,6 @@ time
 предметов.
 
 ### Складывание
-`livan_9_ru_c3408561` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 спинки
 заднего
 сиденья
@@ -8057,7 +7538,6 @@ time
 кнопками складывания.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_14b046fc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 4
 8
 7
@@ -8082,7 +7562,6 @@ time
 спинки сидений.
 
 ### После того как спинки задних сидений
-`livan_9_ru_f503ff0c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 сложены,
 необходимо
 убедиться,
@@ -8095,7 +7574,6 @@ time
 места.
 
 ### При размещении детских кресел на
-`livan_9_ru_83d01b4e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 задних сиденьях необходимо снять
 их
 и
@@ -8114,7 +7592,6 @@ time
 сиденья.
 
 ### Раскладывание
-`livan_9_ru_ca4fda2f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 спинки
 заднего
 сиденья
@@ -8148,7 +7625,6 @@ time
 •
 
 ### Передвинуть
-`livan_9_ru_e3251e62` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 вперед
 или
 назад
@@ -8167,7 +7643,6 @@ time
 •
 
 ### Убедиться
-`livan_9_ru_e6bf0a7e` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:83 | doc_type:owners_manual
 в
 том,
 что
@@ -8187,7 +7662,6 @@ time
 Подогрев сидений*
 
 ### После запуска автомобиля в настройках
-`livan_9_ru_0fe49fcf` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:83 | doc_type:owners_manual
 мультимедиа
 можно
 включить
@@ -8196,7 +7670,6 @@ time
 сиденья по мере необходимости.
 
 ### Подогрев сиденья водителя и переднего
-`livan_9_ru_8b485873` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 пассажира
 можно
 регулировать
@@ -8209,7 +7682,6 @@ time
 это
 
 ### Сиденья и устройства защиты
-`livan_9_ru_c1a2ac0b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 82
 означает,
 что
@@ -8235,7 +7707,6 @@ time
 на высокой мощности; когда индикатор
 
 ### AUTO
-`livan_9_ru_7d589116` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 на
 переключателе
 обогрева
@@ -8246,7 +7717,6 @@ time
 режиме
 
 ### AUTO.
-`livan_9_ru_45e7580b` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:84 | doc_type:owners_manual
 Когда
 цифры
 1,
@@ -8298,7 +7768,6 @@ AUTO
 •
 
 ### Устройство обогрева сидений можно
-`livan_9_ru_1dd0c5ee` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:84 | doc_type:owners_manual
 включать
 только
 при
@@ -8321,7 +7790,6 @@ AUTO
 •
 
 ### Не кладите чехол спинки сиденья на
-`livan_9_ru_79b87793` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:84 | doc_type:owners_manual
 сиденье
 во
 время
@@ -8339,7 +7807,6 @@ AUTO
 83
 
 ### Параметры
-`livan_9_ru_98aabc6b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 регулирования
 сиденья
 В
@@ -8351,7 +7818,6 @@ AUTO
 Пункт
 
 ### Величина
-`livan_9_ru_4c3d0be5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 Си
 де
 нье
@@ -8385,7 +7851,6 @@ AUTO
 Пункт
 
 ### Величина
-`livan_9_ru_4c3d0be5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 Пе
 ред
 нее
@@ -8414,7 +7879,6 @@ AUTO
 54°)
 
 ### Сиденья и устройства защиты
-`livan_9_ru_4bd0eeb2` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:85 | doc_type:owners_manual
 84
 Ремень безопасности
 Общие
@@ -8424,7 +7888,6 @@ AUTO
 безопасности
 
 ### В
-`livan_9_ru_f7b4c7eb` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:86 | doc_type:owners_manual
 данном
 разделе
 объясняется,
@@ -8474,7 +7937,6 @@ AUTO
 столкновении.
 
 ### Поэтому
-`livan_9_ru_98d51fa2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 важно
 пристегивать
 ремни
@@ -8487,7 +7949,6 @@ AUTO
 пассажиры в автомобиле.
 
 ### Сидеть
-`livan_9_ru_7f05b40f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 в
 багажном
 отделении
@@ -8504,7 +7965,6 @@ AUTO
 погибнуть.
 
 ### Поэтому
-`livan_9_ru_98d51fa2` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:86 | doc_type:owners_manual
 запрещается
 сидеть
 в
@@ -8520,7 +7980,6 @@ AUTO
 пристегнуты.
 
 ### Данный
-`livan_9_ru_d01412b3` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:86 | doc_type:owners_manual
 автомобиль
 оборудован
 световым сигналом, предупреждающим о
@@ -8572,7 +8031,6 @@ AUTO
 тесно связаны!
 
 ### Сиденья и устройства защиты
-`livan_9_ru_faf0e399` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 4
 8
 7
@@ -8597,13 +8055,11 @@ AUTO
 скорость
 
 ### Вашего
-`livan_9_ru_ec2f18af` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:87 | doc_type:owners_manual
 движения
 соответствует скорости движения такого
 объекта.
 
 ### Рассмотрим
-`livan_9_ru_5b17d316` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:87 | doc_type:owners_manual
 на
 примере
 простейшего
@@ -8633,7 +8089,6 @@ AUTO
 путь.
 
 ### В
-`livan_9_ru_6dbe87e7` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:87 | doc_type:owners_manual
 реальном
 автомобиле
 таким
@@ -8660,14 +8115,12 @@ AUTO
 скелет.
 
 ### Именно
-`livan_9_ru_13896210` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:87 | doc_type:owners_manual
 поэтому
 важно
 использовать ремень безопасности.
 Правильная посадка
 
 ### Правильное сидячее положение крайне
-`livan_9_ru_62489ca7` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:87 | doc_type:owners_manual
 важно для лучшей защиты с помощью
 подушки и ремня безопасности. Сиденья
 водителя
@@ -8694,7 +8147,6 @@ AUTO
 безопасное управление автомобилем.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_45d57865` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:87 | doc_type:owners_manual
 86
 •
 эффективную
@@ -8711,12 +8163,10 @@ AUTO
 ремня безопасности.
 
 ### Не наклоняйте сиденье слишком
-`livan_9_ru_fcdb6ebc` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:88 | doc_type:owners_manual
 сильно назад во время движения,
 чтобы избежать серьезных травм.
 
 ### Во время движения не выставляйте
-`livan_9_ru_48e62814` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:88 | doc_type:owners_manual
 голову или руки из окна, так как это
 может привести к смертельной травме.
 Во
@@ -8736,7 +8186,6 @@ AUTO
 расстояние.
 
 ### Правильная посадка водителя является
-`livan_9_ru_a492900e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 крайне
 важным
 для
@@ -8751,7 +8200,6 @@ AUTO
 травм.
 
 ### Водителю
-`livan_9_ru_89a643bc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 рекомендуется осуществить следующие
 регулировки:
 •
@@ -8759,7 +8207,6 @@ AUTO
 груди не менее 25 сантиметров.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_15ceefec` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:88 | doc_type:owners_manual
 4
 8
 7
@@ -8778,14 +8225,12 @@ AUTO
 •
 
 ### Регулировка
-`livan_9_ru_e97d41f5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 подголовника:
 подголовник должен быть правильно
 отрегулирован по высоте.
 •
 
 ### Спинка сиденья должна находиться в
-`livan_9_ru_7cb1fd0e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 положении
 «сидяе,
 спина
@@ -8794,7 +8239,6 @@ AUTO
 •
 
 ### Ремень
-`livan_9_ru_ee4cbf1d` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:89 | doc_type:owners_manual
 безопасности
 должен
 быть
@@ -8805,7 +8249,6 @@ AUTO
 пассажира
 
 ### Для Вашей собственной безопасности и
-`livan_9_ru_db515461` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 во избежание риска получения травм
 пассажиру
 переднего
@@ -8814,7 +8257,6 @@ AUTO
 •
 
 ### Соблюдать
-`livan_9_ru_5524880f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 расстояние
 между
 пассажиром и приборной панелью не
@@ -8822,7 +8264,6 @@ AUTO
 •
 
 ### Регулировка
-`livan_9_ru_e97d41f5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 подголовника
 должна
 быть
@@ -8834,7 +8275,6 @@ AUTO
 •
 
 ### Ремень
-`livan_9_ru_ee4cbf1d` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:89 | doc_type:owners_manual
 безопасности
 должен
 быть
@@ -8845,14 +8285,12 @@ AUTO
 ремень безопасности
 
 ### Информация
-`livan_9_ru_2662ba34` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 в
 данном
 разделе
 относится только ко взрослым людям.
 
 ### В первую очередь перед использованием
-`livan_9_ru_df82ec75` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 ремней безопасности Вы или пассажиры
 автомобиля должны узнать некоторую
 важную
@@ -8879,7 +8317,6 @@ AUTO
 безопасности, это крайне важно.
 
 ### В
-`livan_9_ru_656024b1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 соответствии
 со
 статистическими
@@ -8896,7 +8333,6 @@ AUTO
 могут вылететь из автомобиля. Кроме
 
 ### Сиденья и устройства защиты
-`livan_9_ru_44a61641` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 88
 того,
 они
@@ -8907,7 +8343,6 @@ AUTO
 пристегнутыми пассажирами.
 
 ### В
-`livan_9_ru_08075b69` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 сидячем
 положении
 необходимо
@@ -8919,7 +8354,6 @@ AUTO
 собой.
 
 ### Нижняя
-`livan_9_ru_a9e5a9bc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 часть
 ремня
 в
@@ -8940,7 +8374,6 @@ AUTO
 ремня должна пересекать плечо и грудь.
 
 ### Именно
-`livan_9_ru_4106d0b0` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 эти
 части
 тела
@@ -8982,7 +8415,6 @@ AUTO
 ремнями безопасности.
 
 ### Беременные
-`livan_9_ru_2e6f8f0c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 женщины
 должны
 пользоваться ремнем безопасности весь
@@ -9000,7 +8432,6 @@ AUTO
 живота.
 
 ### Беременная
-`livan_9_ru_b25c7a23` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 женщина
 должна
 сидеть как можно прямее, в отдалении от
@@ -9012,7 +8443,6 @@ AUTO
 безопасности.
 
 ### Лучший
-`livan_9_ru_33fcf5fd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 способ
 защитить
 ребенка
@@ -9035,7 +8465,6 @@ AUTO
 использования ремня безопасности.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_67d2056c` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 4
 8
 7
@@ -9050,7 +8479,6 @@ AUTO
 безопасности
 
 ### Все сиденья автомобиля оборудованы
-`livan_9_ru_2c2fed54` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 трехточечными
 ремнями
 безопасности.
@@ -9064,7 +8492,6 @@ AUTO
 безопасности.
 
 ### 1. Возьмитесь за язычок крепления и
-`livan_9_ru_2a24307d` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 потяните ремень, пересекая тело. Не
 позволяйте ремню перекручиваться.
 Если
@@ -9084,7 +8511,6 @@ AUTO
 пересекая тело.
 
 ### 2. Вставьте
-`livan_9_ru_1ecbd897` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 язычок
 крепления
 в
@@ -9099,7 +8525,6 @@ AUTO
 фиксации.
 
 ### Удостоверьтесь в положении кнопки
-`livan_9_ru_d89c4fef` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 разблокировки
 на
 застежке,
@@ -9116,7 +8541,6 @@ AUTO
 подходящее
 
 ### Вашему
-`livan_9_ru_df330eec` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 росту
 положение. Ознакомьтесь с разделом
 «Регулятор высоты
@@ -9126,7 +8550,6 @@ AUTO
 важную информацию.
 
 ### 3. Потянув плечевую часть ремня вверх,
-`livan_9_ru_f2c13248` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 можно затянуть нижнюю часть.
 4. Для того чтобы отстегнуть ремень,
 нажмите
@@ -9137,7 +8560,6 @@ AUTO
 застежке.
 
 ### Позвольте
-`livan_9_ru_dcc23b53` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:91 | doc_type:owners_manual
 ремню
 вернуться
 в
@@ -9157,7 +8579,6 @@ AUTO
 ремень
 
 ### Сиденья и устройства защиты
-`livan_9_ru_86639edf` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 90
 безопасности
 и
@@ -9206,7 +8627,6 @@ AUTO
 и может привести к серьезным травмам.
 
 ### Чтобы избежать травмирования при
-`livan_9_ru_32e743e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 слишком быстрой перемотке ремня
 или заедания при слишком медленной
 перемотке,
@@ -9216,7 +8636,6 @@ AUTO
 верните ремень в исходное положение.
 
 ### Прежде
-`livan_9_ru_dc700714` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:92 | doc_type:owners_manual
 чем
 закрыть
 дверь,
@@ -9236,13 +8655,11 @@ AUTO
 повреждены.
 
 ### Ремень безопасности заднего
-`livan_9_ru_3c36369b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 ряда по центру
 1. Большая пряжка
 2. Маленькая пряжка
 
 ### Необходимо
-`livan_9_ru_f009cbd4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 правильно
 пользоваться
 трехточечными ремнями заднего ряда по
@@ -9250,13 +8667,11 @@ AUTO
 В соответствии со следующими шагами:
 
 ### 1. Взять ремень безопасности заднего
-`livan_9_ru_d282226d` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 ряда по центру и вытащить из навеса,
 пересекая им тело. Не позволяйте
 ремню перекручиваться.
 
 ### 2. У
-`livan_9_ru_8b5ed142` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 ремня
 есть
 два
@@ -9278,7 +8693,6 @@ AUTO
 от сиденья 1.
 
 ### 3. Вставьте
-`livan_9_ru_3045d66c` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 язычок
 замка
 до
@@ -9301,7 +8715,6 @@ AUTO
 ремень.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_88395e09` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 4
 8
 7
@@ -9335,7 +8748,6 @@ AUTO
 быть возвращен в исходное положение.
 
 ### Регулятор
-`livan_9_ru_225ef30e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 высоты
 плечевого
 ремня
@@ -9351,7 +8763,6 @@ AUTO
 высоты плеча.
 
 ### Отрегулируйте
-`livan_9_ru_e5697e5d` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:93 | doc_type:owners_manual
 высоту
 таким образом,
 чтобы
@@ -9380,7 +8791,6 @@ AUTO
 регулятор высоты в нужное положение.
 
 ### Регулятор
-`livan_9_ru_225ef30e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 можно
 переместить
 вверх,
@@ -9406,7 +8816,6 @@ AUTO
 месте.
 
 ### Сигнализатор непристегнутого
-`livan_9_ru_ae7e9734` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 ремня безопасности
 Передние
 и
@@ -9419,7 +8828,6 @@ AUTO
 безопасности.
 
 ### Сигнальная лампа непристегнутого
-`livan_9_ru_d218dd1f` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:93 | doc_type:owners_manual
 ремня безопасности
 Когда
 водитель
@@ -9437,7 +8845,6 @@ AUTO
 пристегнутых ремнями безопасности.
 
 ### Предупреждающий световой сигнал
-`livan_9_ru_3524a447` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:93 | doc_type:owners_manual
 и зуммер
 Если
 водитель
@@ -9456,7 +8863,6 @@ AUTO
 находится в положении заднего хода
 
 ### (R),
-`livan_9_ru_3aa2564f` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:93 | doc_type:owners_manual
 сигнальная
 лампа
 продолжает
@@ -9476,7 +8882,6 @@ AUTO
 остается включенной.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_970b5005` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:93 | doc_type:owners_manual
 92
 •
 Когда скорость автомобиля больше 10
@@ -9532,7 +8937,6 @@ AUTO
 безопасности.
 
 ### Правильное использование ремня
-`livan_9_ru_25701dca` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 безопасности может сократить риск
 получения
 травм
@@ -9542,7 +8946,6 @@ AUTO
 и
 
 ### Поэтому
-`livan_9_ru_b85153cc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 как
 водитель,
 так
@@ -9559,7 +8962,6 @@ AUTO
 безопасности во время движения.
 
 ### Обращайте
-`livan_9_ru_1924d07a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 внимание
 на
 горящие
@@ -9568,7 +8970,6 @@ AUTO
 и повреждению имущества.
 
 ### Обслуживание
-`livan_9_ru_e2a6afa8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 и
 замена
 ремня безопасности
@@ -9577,7 +8978,6 @@ AUTO
 безопасности
 
 ### Регулярно проводите проверку системы
-`livan_9_ru_5862811f` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 безопасности
 в
 соответствии
@@ -9615,7 +9015,6 @@ AUTO
 •
 
 ### Сохраняйте
-`livan_9_ru_1df164ec` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 ремень
 безопасности
 сухим и чистым.
@@ -9624,7 +9023,6 @@ AUTO
 безопасности
 
 ### Сохраняйте ремень безопасности сухим
-`livan_9_ru_adee0862` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 и чистым.
 Не
 отбеливайте
@@ -9640,7 +9038,6 @@ AUTO
 защиты в случае аварии.
 
 ### Чистить ремень можно только используя
-`livan_9_ru_e8b27938` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 нейтральное мыло и теплую воду.
 Не
 используйте
@@ -9649,7 +9046,6 @@ AUTO
 пока он не высохнет.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_ae6b7b6a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 4
 8
 7
@@ -9665,7 +9061,6 @@ AUTO
 обслуживания
 
 ### LIVAN
-`livan_9_ru_b7900dc8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 для
 проведения
 диагностики. Даже если система ремней
@@ -9683,7 +9078,6 @@ AUTO
 отремонтировать.
 
 ### Автомобильная
-`livan_9_ru_91348c03` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 авария
 может
 привести
@@ -9696,7 +9090,6 @@ AUTO
 безопасности.
 
 ### Поврежденная
-`livan_9_ru_d8564043` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 система
 ремней безопасности не может должным
 образом защитить пассажира, что может
@@ -9722,7 +9115,6 @@ AUTO
 необходимости заменить их.
 
 ### Общие сведения о подушке
-`livan_9_ru_fb88f52c` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 безопасности
 Подушка
 безопасности
@@ -9757,7 +9149,6 @@ AUTO
 травмам.
 
 ### Именно
-`livan_9_ru_8d4fbd8a` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 поэтому
 во
 время
@@ -9776,7 +9167,6 @@ AUTO
 раскрыться.
 
 ### Подушка
-`livan_9_ru_bf1c899e` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 безопасности
 раскрывается с большой силой. Если
 пассажир находится слишком близко к
@@ -9816,7 +9206,6 @@ AUTO
 безопасности.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_e041de4a` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 94
 На
 пути
@@ -9830,13 +9219,11 @@ AUTO
 помех.
 
 ### Нельзя
-`livan_9_ru_e9997fd2` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 помещать
 какие бы то ни было предметы между
 пассажиром и подушкой безопасности.
 
 ### При наличии помех между пассажиром и
-`livan_9_ru_ff555e5c` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 подушкой
 безопасности
 при
@@ -9865,7 +9252,6 @@ AUTO
 прикасаться, пока они не остынут.
 
 ### При срабатывании подушки безопасности
-`livan_9_ru_766da7f9` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 выделяется некоторое количество газа и
 пыли,
 которые
@@ -9895,7 +9281,6 @@ AUTO
 неисправности.
 
 ### Запрещается
-`livan_9_ru_1a12e5ac` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 дополнительно
 устанавливать
 или
@@ -9904,13 +9289,11 @@ AUTO
 безопасности.
 
 ### Категорически
-`livan_9_ru_7e8b257e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:96 | doc_type:owners_manual
 запрещается без разрешения изменять
 конструкцию автомобиля и жгут проводов
 системы подушек безопасности.
 
 ### Подушка
-`livan_9_ru_f31ef313` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 безопасности
 должна
 быть
@@ -9930,7 +9313,6 @@ AUTO
 произойти позже.
 
 ### Дети и подростки могут получить
-`livan_9_ru_277ff3d9` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 серьезные травмы или умереть при
 срабатывании
 подушки
@@ -9950,7 +9332,6 @@ AUTO
 кресло.
 
 ### LIVAN
-`livan_9_ru_e193401f` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 настоятельно
 рекомендует, чтобы как младенцы, так и
 дети сидели на заднем сиденье и для них
@@ -9961,7 +9342,6 @@ AUTO
 безопасным.
 
 ### Положение
-`livan_9_ru_143aed57` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 подушки
 безопасности
 Фронтальная
@@ -10001,7 +9381,6 @@ AUTO
 панелью.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_ca0f5e25` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 4
 8
 7
@@ -10029,7 +9408,6 @@ AUTO
 надписью «AIRBAGе.
 
 ### Фронтальная
-`livan_9_ru_0bb9250b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 подушка
 безопасности
 не
@@ -10041,7 +9419,6 @@ AUTO
 при аварийной остановке.
 
 ### Подушка безопасности срабатывает за
-`livan_9_ru_fbd48421` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 очень короткое время и не может оказать
 защитное
 действие
@@ -10092,7 +9469,6 @@ AUTO
 пассажира переднего ряда.
 
 ### Запрещается
-`livan_9_ru_ab58b448` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 модифицировать,
 разбирать, ударять или открывать какиелибо компоненты или проводку передней
 подушки безопасности, например крышку
@@ -10115,7 +9491,6 @@ AUTO
 безопасности.
 
 ### Любое из вышеперечисленных действий
-`livan_9_ru_7681da4e` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 может
 привести
 к
@@ -10128,7 +9503,6 @@ AUTO
 людей.
 
 ### При пользовании автомобилем не
-`livan_9_ru_0202d9c6` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 нужно
 садиться
 рядом
@@ -10157,7 +9531,6 @@ AUTO
 расстояние не менее 25 сантиметров.
 
 ### Пассажирам
-`livan_9_ru_4f0d85df` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:97 | doc_type:owners_manual
 переднего
 ряда
 запрещается сидеть вместе с детьми, так
@@ -10169,7 +9542,6 @@ AUTO
 приборной
 
 ### Сиденья и устройства защиты
-`livan_9_ru_3d4454f1` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 96
 панелью,
 что
@@ -10233,7 +9605,6 @@ AUTO
 передней подушки безопасности.
 
 ### Боковые
-`livan_9_ru_acef0b6b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 подушки
 безопасности*
 Боковые
@@ -10263,7 +9634,6 @@ AUTO
 переднего ряда.
 
 ### Боковые
-`livan_9_ru_acef0b6b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 подушки
 безопасности
 установлены в спинке сиденья водителя
@@ -10297,7 +9667,6 @@ AUTO
 серьезным травмам.
 
 ### Запрещается устанавливать чехлы
-`livan_9_ru_1bd4ec8f` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 на сиденья, оснащенные боковыми
 подушками
 безопасности,
@@ -10316,7 +9685,6 @@ AUTO
 •
 
 ### Боковая
-`livan_9_ru_5bd4a27f` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 подушка
 безопасности
 раскрылась.
@@ -10343,7 +9711,6 @@ LIVAN запрещается вносить какие-либо
 из следующих изменений, которые могут
 
 ### Сиденья и устройства защиты
-`livan_9_ru_dccf4835` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:98 | doc_type:owners_manual
 4
 8
 7
@@ -10358,7 +9725,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Устанавливать
-`livan_9_ru_c540643d` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:99 | doc_type:owners_manual
 электронное
 оборудование, такое как мобильные
 устройства двусторонней радиосвязи,
@@ -10369,7 +9735,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Изменять
-`livan_9_ru_e44a0a64` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 боковую
 конструкцию
 со
@@ -10379,7 +9744,6 @@ LIVAN запрещается вносить какие-либо
 безопасности*
 
 ### Боковые
-`livan_9_ru_eb4b9087` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 шторки
 безопасности
 обеспечивают
@@ -10417,7 +9781,6 @@ LIVAN запрещается вносить какие-либо
 заднего ряда.
 
 ### Боковые
-`livan_9_ru_eb4b9087` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 шторки
 безопасности
 устанавливаются над дверями с левой и
@@ -10489,7 +9852,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Боковая
-`livan_9_ru_76e54fdd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 шторка
 безопасности
 раскрылась.
@@ -10526,7 +9888,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Устанавливать
-`livan_9_ru_c540643d` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:99 | doc_type:owners_manual
 электронное
 оборудование, такое как мобильные
 Сиденья и устройства защиты
@@ -10541,7 +9902,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Выполнять ремонт на консоли или
-`livan_9_ru_627f9fbb` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:100 | doc_type:owners_manual
 рядом с ней.
 Срабатывание
 подушки
@@ -10551,7 +9911,6 @@ LIVAN запрещается вносить какие-либо
 подушки безопасности
 
 ### Фронтальная
-`livan_9_ru_a05178ed` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:100 | doc_type:owners_manual
 подушка
 безопасности
 срабатывает при движении автомобиля
@@ -10599,7 +9958,6 @@ LIVAN запрещается вносить какие-либо
 необходимо ли срабатывание подушки.
 
 ### Функционирование
-`livan_9_ru_ac60f8db` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:100 | doc_type:owners_manual
 подушки
 безопасности
 зависит
@@ -10623,7 +9981,6 @@ LIVAN запрещается вносить какие-либо
 ударе.
 
 ### Срабатывание
-`livan_9_ru_a28498a4` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:100 | doc_type:owners_manual
 подушки
 безопасности
 не
@@ -10635,7 +9992,6 @@ LIVAN запрещается вносить какие-либо
 автомобиля.
 
 ### При серьезном лобовом столкновении
-`livan_9_ru_ae0f1d7b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:100 | doc_type:owners_manual
 срабатывают две фронтальные подушки
 безопасности.
 Сиденья и устройства защиты
@@ -10650,7 +10006,6 @@ LIVAN запрещается вносить какие-либо
 99
 
 ### Срабатывание
-`livan_9_ru_5716379a` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:101 | doc_type:owners_manual
 боковых
 подушек
 и
@@ -10695,7 +10050,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### При столкновении во время движения
-`livan_9_ru_a5182204` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 со
 ступенями
 и
@@ -10707,7 +10061,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### При внезапном попадании в выбоину
-`livan_9_ru_bb596fb3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 или ров.
 •
 При наезде на (врезании в) заднюю
@@ -10720,7 +10073,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### При наличии неисправности системы
-`livan_9_ru_d49a9d48` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:102 | doc_type:owners_manual
 подушки безопасности.
 •
 При других непредвиденных условиях.
@@ -10730,7 +10082,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Лобовое
-`livan_9_ru_4c1c1515` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 или
 почти
 лобовое
@@ -10739,7 +10090,6 @@ LIVAN запрещается вносить какие-либо
 Столкновение сзади.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_1b50589b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:102 | doc_type:owners_manual
 4
 8
 7
@@ -10773,13 +10123,11 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### При наличии неисправности системы
-`livan_9_ru_b76bdb7b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 подушки безопасности.
 •
 При других непредвиденных условиях.
 
 ### Обслуживание
-`livan_9_ru_94654c7b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 и
 замена
 подушки безопасности
@@ -10805,7 +10153,6 @@ LIVAN запрещается вносить какие-либо
 неисправности.
 
 ### Для понимания расположения и смысла
-`livan_9_ru_38227421` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:103 | doc_type:owners_manual
 предупреждающих
 световых
 сигналов
@@ -10822,7 +10169,6 @@ LIVAN запрещается вносить какие-либо
 управленияе
 
 ### Автомобильная
-`livan_9_ru_4b173e44` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 авария
 может
 привести
@@ -10859,7 +10205,6 @@ LIVAN запрещается вносить какие-либо
 проверена и заменена как можно скорее.
 
 ### Если произошло срабатывание подушки
-`livan_9_ru_be87ed69` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 безопасности,
 необходима
 замена
@@ -10869,7 +10214,6 @@ LIVAN запрещается вносить какие-либо
 для проведения диагностики.
 
 ### Если при движении автомобиля светится
-`livan_9_ru_6dcf5866` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:103 | doc_type:owners_manual
 лампа
 сигнализации
 о
@@ -10894,7 +10238,6 @@ LIVAN запрещается вносить какие-либо
 для проведения диагностики.
 
 ### При продаже автомобиля позаботьтесь о
-`livan_9_ru_7b780148` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 том, чтобы новый владелец был в курсе
 даты замены подушки безопасности и ее
 системы.
@@ -10903,7 +10246,6 @@ LIVAN запрещается вносить какие-либо
 признан
 
 ### Сиденья и устройства защиты
-`livan_9_ru_3c4025e5` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 102
 непригодным
 для
@@ -10920,7 +10262,6 @@ LIVAN запрещается вносить какие-либо
 специалистом в специальных условиях.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_836e5815` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 4
 8
 7
@@ -10934,14 +10275,12 @@ LIVAN запрещается вносить какие-либо
 детского кресла
 
 ### Данные по совместимости всех сидений с детским креслом в условиях фиксации
-`livan_9_ru_e914f292` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 детского кресла ремнями безопасности:
 Груп
 па
 Вес ребенка
 
 ### Положение
-`livan_9_ru_6694eac5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 места
 пассажира
 переднего ряда
@@ -10952,7 +10291,6 @@ LIVAN запрещается вносить какие-либо
 сбоку
 
 ### Положение
-`livan_9_ru_6694eac5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 места
 пассажира
 заднего ряда
@@ -10963,7 +10301,6 @@ X
 U
 
 ### X
-`livan_9_ru_8f1f6c40` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 0+
 <13 КГ
 X
@@ -10983,7 +10320,6 @@ X
 22-36 кг
 
 ### X
-`livan_9_ru_8f1f6c40` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 Пояснение: смысл условных обозначений в таблице выше: U = универсальный тип
 детской удерживающей системы, утвержденный для использования для этой весовой
 группы; X = детская удерживающая система, неподходящая для этой весовой группы.
@@ -10991,7 +10327,6 @@ X
 в детском кресле детской системы защиты ISOFIX:
 
 ### Группа
-`livan_9_ru_cb17def8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 Вес
 ребенка
 Катего
@@ -11009,7 +10344,6 @@ X
 го ряда
 
 ### Положе
-`livan_9_ru_5b83b51a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 ние
 места
 пассажи
@@ -11033,7 +10367,6 @@ X
 -
 
 ### X
-`livan_9_ru_8f1f6c40` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 0
 <10 КГ
 E
@@ -11051,7 +10384,6 @@ X
 D
 
 ### Сиденья и устройства защиты
-`livan_9_ru_a2e20da5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 104
 Группа
 Вес
@@ -11064,7 +10396,6 @@ D
 и
 
 ### Положе
-`livan_9_ru_c2aab023` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:106 | doc_type:owners_manual
 ние
 места
 пассажи
@@ -11081,7 +10412,6 @@ D
 сбоку
 
 ### Положе
-`livan_9_ru_c2aab023` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:106 | doc_type:owners_manual
 ние
 места
 пассажи
@@ -11094,7 +10424,6 @@ C
 ISO/R3
 
 ### Ⅰ
-`livan_9_ru_31071623` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:106 | doc_type:owners_manual
 9-18 кг
 D
 ISO/R2
@@ -11112,7 +10441,6 @@ X
 IUF
 
 ### X
-`livan_9_ru_c7a53ac8` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:106 | doc_type:owners_manual
 Пояснение: смысл условных обозначений в таблице выше: IL = на данном сиденье
 используется детское кресло категории ISOFIX, указанное в перечне, сопровождающем
 автомобиль; используется вместе с сиденьем; IUF = на данном сиденье используется
@@ -11120,7 +10448,6 @@ IUF
 оборудовано крепежным кольцом для системы ISOFIX.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_228c81b0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:106 | doc_type:owners_manual
 4
 8
 7
@@ -11135,12 +10462,10 @@ IUF
 защитных устройств
 
 ### Новорожденные и малолетние
-`livan_9_ru_fa0bab8d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:107 | doc_type:owners_manual
 дети и дети старшего возраста
 Новорожденные и малолетние дети
 
 ### Все находящиеся в автомобиле люди
-`livan_9_ru_ffa72c23` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:107 | doc_type:owners_manual
 должны быть защищены! В том числе и
 новорожденные
 и
@@ -11148,7 +10473,6 @@ IUF
 дети.
 
 ### Протяженность
-`livan_9_ru_91dbc06b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:107 | doc_type:owners_manual
 маршрута,
 а
 также
@@ -11188,7 +10512,6 @@ IUF
 безопасности.
 
 ### Подушка безопасности и трехточечный
-`livan_9_ru_a9b99bbd` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:107 | doc_type:owners_manual
 ремень могут защитить детей старшего
 возраста,
 но
@@ -11201,7 +10524,6 @@ IUF
 детей.
 
 ### Система ремней безопасности и подушек
-`livan_9_ru_374390a3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:107 | doc_type:owners_manual
 безопасности
 в
 автомобиле
@@ -11234,7 +10556,6 @@ IUF
 безопасности таким образом.
 
 ### Не держите на руках младенцев или
-`livan_9_ru_bbeb7ae5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:107 | doc_type:owners_manual
 детей
 во
 время
@@ -11271,7 +10592,6 @@ IUF
 держащего.
 
 ### Младенцы
-`livan_9_ru_c7a96c9e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:107 | doc_type:owners_manual
 должны
 быть
 защищены
@@ -11279,7 +10599,6 @@ IUF
 защитными устройствами.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_0d3507ea` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:107 | doc_type:owners_manual
 106
 Не
 помещайте
@@ -11311,7 +10630,6 @@ IUF
 погибнуть.
 
 ### Запрещается
-`livan_9_ru_4e721037` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:108 | doc_type:owners_manual
 помещать
 на
 сиденье
@@ -11324,7 +10642,6 @@ IUF
 назад.
 
 ### Устройство
-`livan_9_ru_c5c31e9c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 детской
 защиты,
 направленное
@@ -11337,7 +10654,6 @@ IUF
 задних сиденьях.
 
 ### Для того чтобы уменьшить риск
-`livan_9_ru_61bba4ce` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 получения травм шеи и головы во
 время аварии, младенцам необходима
 поддержка всего тела. Это необходимо
@@ -11369,7 +10685,6 @@ IUF
 плечам.
 
 ### Младенец
-`livan_9_ru_d3413160` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 должен
 быть
 все
@@ -11378,7 +10693,6 @@ IUF
 направленном назад.
 
 ### Тазовая
-`livan_9_ru_8d2bd46b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:108 | doc_type:owners_manual
 кость
 ребенка
 относительно
@@ -11390,7 +10704,6 @@ IUF
 кости.
 
 ### Поэтому
-`livan_9_ru_bbe4392f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 он
 перемещается
 на
@@ -11405,7 +10718,6 @@ IUF
 какой-либо защиты структурой скелета.
 
 ### Это само по себе может привести к
-`livan_9_ru_5aa3d0d5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 серьезным травмам или смерти. Для того
 чтобы
 сократить
@@ -11416,7 +10728,6 @@ IUF
 устройстве защиты все время.
 
 ### Дети старшего возраста
-`livan_9_ru_1284c960` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 Дети старшего возраста, которые уже не
 могут сидеть в детском автомобильном
 кресле,
@@ -11426,7 +10737,6 @@ IUF
 безопасности.
 
 ### В
-`livan_9_ru_be432fcc` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:108 | doc_type:owners_manual
 руководстве
 по
 эксплуатации
@@ -11447,7 +10757,6 @@ IUF
 креслом:
 
 ### Сиденья и устройства защиты
-`livan_9_ru_5578efb8` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:108 | doc_type:owners_manual
 4
 8
 7
@@ -11464,7 +10773,6 @@ IUF
 нему.
 
 ### Находятся
-`livan_9_ru_87ef1681` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 ли
 колени
 ребенка
@@ -11477,7 +10785,6 @@ IUF
 •
 
 ### Застегните
-`livan_9_ru_243ad0ed` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:109 | doc_type:owners_manual
 трехточечный
 ремень
 безопасности.
@@ -11534,7 +10841,6 @@ IUF
 ограничения.
 
 ### Плечевая
-`livan_9_ru_aa4cd6b5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 часть
 ремня
 не
@@ -11592,7 +10898,6 @@ IUF
 безопасности.
 
 ### Никогда
-`livan_9_ru_87b7720b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:109 | doc_type:owners_manual
 не
 пристегивайте
 двух
@@ -11619,7 +10924,6 @@ IUF
 человеком.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_b7094110` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:109 | doc_type:owners_manual
 108
 Когда ребенок пристегнут ремнями
 безопасности, плечевой ремень не
@@ -11630,7 +10934,6 @@ IUF
 спину.
 
 ### Неправильное
-`livan_9_ru_5a570963` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 использование
 трехточечного ремня безопасности может
 привести к серьезному травмированию
@@ -11666,7 +10969,6 @@ IUF
 пересекать плечо и грудь.
 
 ### Инструкция
-`livan_9_ru_da1a08ce` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 для
 детских
 средств защиты
@@ -11682,7 +10984,6 @@ IUF
 ребенка к поверхности сиденья.
 
 ### Система
-`livan_9_ru_bcfb6a31` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 ремней
 позволяет
 крепко
@@ -11691,7 +10992,6 @@ IUF
 ребенка в устройстве защиты.
 
 ### Детские
-`livan_9_ru_4a547144` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 сиденья,
 направленные
 вперед
@@ -11703,7 +11003,6 @@ IUF
 пристегивания его тела ремнями.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_cf221766` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 4
 8
 7
@@ -11723,7 +11022,6 @@ IUF
 автомобильного ремня безопасности.
 
 ### Установка
-`livan_9_ru_913dd6da` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 устройства
 детской защиты
 По
@@ -11743,7 +11041,6 @@ IUF
 автомобиля.
 
 ### Поэтому
-`livan_9_ru_ef0067cb` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:111 | doc_type:owners_manual
 мы
 рекомендуем
 закреплять
@@ -11759,7 +11056,6 @@ IUF
 сиденье.
 
 ### В
-`livan_9_ru_44388381` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 том
 числе:
 младенцы или дети, сидящие в детских
@@ -11784,7 +11080,6 @@ IUF
 пользоваться ремнями безопасности.
 
 ### В случае
-`livan_9_ru_aa8acd99` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:111 | doc_type:owners_manual
 срабатывания
 подушки
 безопасности переднего пассажира
@@ -11819,7 +11114,6 @@ IUF
 автомобиле.
 
 ### Независимо
-`livan_9_ru_70fac8c4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 от
 того,
 где
@@ -11831,7 +11125,6 @@ IUF
 крепление.
 
 ### При ударе или экстренном торможении
-`livan_9_ru_0df4f8f7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 незакрепленное
 устройство
 детской
@@ -11868,7 +11161,6 @@ IUF
 обратите внимание на это.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_3880cb65` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:111 | doc_type:owners_manual
 110
 Установка при использовании
 ремня безопасности бедренноплечевого
@@ -11877,7 +11169,6 @@ IUF
 безопасности ALR/ELR)
 
 ### Установка
-`livan_9_ru_2694a4d3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 детского
 кресла,
 направленного назад
@@ -11903,7 +11194,6 @@ IUF
 сиденьях.
 
 ### В
-`livan_9_ru_73f2f99c` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:112 | doc_type:owners_manual
 противном
 случае
 при
@@ -11941,7 +11231,6 @@ IUF
 сиденьем справа.
 
 ### В
-`livan_9_ru_71be1a74` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:113 | doc_type:owners_manual
 соответствии
 с
 инструкциями,
@@ -11991,7 +11280,6 @@ LIVAN для проведения диагностики. Не
 пассажира или маленького ребенка.
 
 ### Передвиньте детское кресло в разных
-`livan_9_ru_880db090` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 направлениях, толкайте и тяните, чтобы
 убедиться
 в
@@ -12002,13 +11290,11 @@ LIVAN для проведения диагностики. Не
 закреплено.
 
 ### Для того чтобы снять детское средство
-`livan_9_ru_90c5bfff` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 защиты, нажмите на кнопку замка.
 Сиденья и устройства защиты
 112
 
 ### Установка
-`livan_9_ru_4938a1d7` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:114 | doc_type:owners_manual
 детского
 сиденья,
 направленного вперед
@@ -12036,7 +11322,6 @@ LIVAN для проведения диагностики. Не
 защиты.
 
 ### Плотно
-`livan_9_ru_2129fc87` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:114 | doc_type:owners_manual
 прижмите
 устройство
 детской
@@ -12051,7 +11336,6 @@ LIVAN для проведения диагностики. Не
 зафиксировать детское сиденье.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_95f09c93` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 4
 8
 7
@@ -12077,7 +11361,6 @@ LIVAN для проведения диагностики. Не
 компаниейизготовителем.
 
 ### Усадите
-`livan_9_ru_fa1ec48a` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:115 | doc_type:owners_manual
 ребенка
 на
 устройство
@@ -12105,7 +11388,6 @@ LIVAN для проведения диагностики. Не
 ребенка.
 
 ### Подробнее
-`livan_9_ru_a083a917` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:115 | doc_type:owners_manual
 см.
 параграф
 «Ремень безопасностие
@@ -12119,7 +11401,6 @@ LIVAN для проведения диагностики. Не
 назад.
 
 ### Необходимо
-`livan_9_ru_50d70f14` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:115 | doc_type:owners_manual
 убедиться,
 что
 плечевой
@@ -12132,7 +11413,6 @@ LIVAN для проведения диагностики. Не
 ребенка.
 
 ### Ремень
-`livan_9_ru_ba7c4439` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:115 | doc_type:owners_manual
 безопасности
 необходимо
 держать подальше от шеи ребенка, но он
@@ -12150,7 +11430,6 @@ LIVAN для проведения диагностики. Не
 серьезным травмам.
 
 ### Расположенная высоко бедренная часть
-`livan_9_ru_04af76fc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 ремня и ослабленное состояние ремня
 безопасности
 при
@@ -12183,7 +11462,6 @@ LIVAN для проведения диагностики. Не
 безопасности под его руками.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_d425eda2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 114
 Установка устройства детской
 защиты ISOFIX
@@ -12194,7 +11472,6 @@ LIVAN для проведения диагностики. Не
 специальным соединением по стандарту
 
 ### ISO устанавливается на сиденье заднего
-`livan_9_ru_9ed82542` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:116 | doc_type:owners_manual
 ряда.
 Разъемы
 для
@@ -12214,7 +11491,6 @@ LIVAN для проведения диагностики. Не
 ряда.
 
 ### Детское
-`livan_9_ru_564030f8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 устройство
 защиты
 по
@@ -12228,7 +11504,6 @@ ISO
 соединения.
 
 ### В
-`livan_9_ru_c1f10a56` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 таком
 случае не нужно
 использовать ремни
@@ -12236,7 +11511,6 @@ ISO
 защиты.
 
 ### При использовании и установке детской
-`livan_9_ru_b7629e49` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 системы
 защиты
 ISOFIX
@@ -12253,7 +11527,6 @@ ISOFIX
 неэффективной.
 
 ### О
-`livan_9_ru_83340e98` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 возможности
 использования
 конкретного
@@ -12269,7 +11542,6 @@ ISOFIX
 компаниипроизводителя данного устройства.
 
 ### Установите
-`livan_9_ru_7e540548` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 детское
 автомобильное
 кресло
@@ -12284,7 +11556,6 @@ ISOFIX
 шагами:
 
 ### 1. Поднимите
-`livan_9_ru_5fd2a9f6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 подголовник
 в
 соответствующее положение.
@@ -12294,7 +11565,6 @@ ISOFIX
 стержня.
 
 ### 3. Убедитесь
-`livan_9_ru_aebdd58d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 в
 том,
 что
@@ -12302,7 +11572,6 @@ ISOFIX
 ISOFIX находится рядом с разъемом.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_ffe2934e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 4
 8
 7
@@ -12319,7 +11588,6 @@ ISOFIX находится рядом с разъемом.
 кресла
 
 ### ISOFIX
-`livan_9_ru_2dd47ecd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 к
 разъему ISOFIX, закрепите его.
 5. Проверьте,
@@ -12328,7 +11596,6 @@ ISOFIX находится рядом с разъемом.
 зафиксирована защелка.
 
 ### 6. Закрепите
-`livan_9_ru_e349999a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 фиксатор
 верхнего
 натяжного
@@ -12358,7 +11625,6 @@ ISOFIX находится рядом с разъемом.
 инструкцией по монтажу.
 
 ### Детское
-`livan_9_ru_d2a62cd4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 устройство
 защиты
 не
@@ -12366,7 +11632,6 @@ ISOFIX находится рядом с разъемом.
 соединения
 
 ### ISOFIX,
-`livan_9_ru_550d0835` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 соответствующего
 для
 установки
@@ -12409,7 +11674,6 @@ ISOFIX находится рядом с разъемом.
 автомобиле.
 
 ### Нельзя
-`livan_9_ru_9d34d939` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 устанавливать
 устройство
 детской
@@ -12423,7 +11687,6 @@ ISOFIX находится рядом с разъемом.
 защиты
 
 ### ISOFIX
-`livan_9_ru_2dd47ecd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 с
 соединением
 ISOFIX
@@ -12432,7 +11695,6 @@ ISOFIX
 характерный щелчок.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_007c7a6f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 116
 5
 8
@@ -12464,7 +11726,6 @@ ISOFIX
 технического обслуживания
 
 ### LIVAN.
-`livan_9_ru_8f986bbf` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 Если
 ваш
 смарт-ключ
@@ -12486,7 +11747,6 @@ ISOFIX
 обслуживания
 
 ### LIVAN
-`livan_9_ru_986fa546` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 может
 повторно
 активировать смарт-ключ в случае его
@@ -12495,7 +11755,6 @@ ISOFIX
 время.
 
 ### Центру
-`livan_9_ru_4bc54d55` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 технического
 обслуживания
 LIVAN
@@ -12507,7 +11766,6 @@ LIVAN
 к
 
 ### Вашему
-`livan_9_ru_c126ac56` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:119 | doc_type:owners_manual
 автомобилю.
 1. Кнопка блокировки
 2. Кнопка
@@ -12516,7 +11774,6 @@ LIVAN
 багажника
 
 ### Настоящий
-`livan_9_ru_11d58bab` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 автомобиль
 оснащен
 отдельным механическим ключом,
@@ -12526,7 +11783,6 @@ LIVAN
 смартключа.
 
 ### Храните
-`livan_9_ru_38cb78e7` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:119 | doc_type:owners_manual
 запасной
 смарт-ключ
 в
@@ -12548,7 +11804,6 @@ LIVAN
 может не завестись.
 
 ### Замена
-`livan_9_ru_d4075b81` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 элемента
 питания
 смарт-ключа
@@ -12563,14 +11818,12 @@ LIVAN
 автомобиль не распознает смарт-ключ
 
 ### Запуск двигателя и вождение
-`livan_9_ru_a94a8f1b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 118
 из-за низкого заряда элемента питания,
 необходимо заменить элемент питания в
 смарт-ключе.
 
 ### 1. Вставьте отвертку с прямым шлицем
-`livan_9_ru_3ad5fb60` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 в прорезь посередине, одновременно
 переверните ключ задней стороной
 вверх,
@@ -12593,7 +11846,6 @@ LIVAN
 ключа.
 
 ### Будьте
-`livan_9_ru_ccd8ac09` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 осторожны,
 не
 наклоняйте
@@ -12608,7 +11860,6 @@ LIVAN
 декоративные детали.
 
 ### 2. После открытия корпуса смарт-ключа
-`livan_9_ru_a1ed2540` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 необходимо
 вставить
 отвертку
@@ -12637,7 +11888,6 @@ LIVAN
 вниз.
 
 ### Модель
-`livan_9_ru_8262d36a` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:120 | doc_type:owners_manual
 элемента питания смарт-ключа: 3В,
 CR2032.
 3. После установки крышки батарейного
@@ -12665,7 +11915,6 @@ CR2032.
 ниже
 
 ### -20° С
-`livan_9_ru_32ae51a5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 в
 течение
 длительного
@@ -12681,7 +11930,6 @@ CR2032.
 смарт-ключа.
 
 ### Своевременно
-`livan_9_ru_e8bfa52b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 заменяйте элемент питания. Избегайте
 влияния на функционал дистанционного
 управления,
@@ -12700,7 +11948,6 @@ CR2032.
 использование.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_df45ea9d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 5
 8
 7
@@ -12716,7 +11963,6 @@ CR2032.
 двигателя
 
 ### Противоугонную
-`livan_9_ru_07bead7b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 защиту
 двигателя
 не
@@ -12734,7 +11980,6 @@ CR2032.
 автоматически отключается.
 
 ### Если противоугонная защита двигателя
-`livan_9_ru_59b868f4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 не снимается, а смарт-ключ не содержит
 признаков
 повреждения,
@@ -12746,12 +11991,10 @@ CR2032.
 запуска двигателя:
 
 ### 1. Используйте другие действительные
-`livan_9_ru_b07137d3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 смарт-ключи, которыми оборудован
 данный автомобиль;
 
 ### 2. Поместите смарт-ключ в контейнер
-`livan_9_ru_83cfe600` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:121 | doc_type:owners_manual
 для
 хранения
 в
@@ -12782,7 +12025,6 @@ CR2032.
 противоугонную защиту.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_92cf6284` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 120
 Блокировка
 и
@@ -12793,7 +12035,6 @@ CR2032.
 разблокировка замков
 
 ### Блокировка и разблокировка с
-`livan_9_ru_c4d5d5e2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 помощью смарт-ключа
 Смарт-ключ
 работает
@@ -12803,7 +12044,6 @@ CR2032.
 диапазоне.
 
 ### Обратите
-`livan_9_ru_0b8cce46` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 внимание, что на диапазон его работы
 иногда
 влияют
@@ -12813,7 +12053,6 @@ CR2032.
 факторы.
 
 ### В
-`livan_9_ru_db224974` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 целях
 безопасности
 после
@@ -12828,7 +12067,6 @@ CR2032.
 стартере и всех закрытых дверях.
 
 ### После успешного запирания автомобиля
-`livan_9_ru_cab43207` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 мигнут
 сигналы
 поворота;
@@ -12844,7 +12082,6 @@ CR2032.
 2 раза будет подан звуковой сигнал.
 
 ### Зона бесключевого открытия замка
-`livan_9_ru_fa65c55c` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:122 | doc_type:owners_manual
 Имея
 при
 себе
@@ -12871,7 +12108,6 @@ CR2032.
 поворота.
 
 ### Установите
-`livan_9_ru_cb3771a4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -12885,7 +12121,6 @@ CR2032.
 четыре
 
 ### Запуск двигателя и вождение
-`livan_9_ru_1a5c4cbb` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 5
 8
 7
@@ -12910,7 +12145,6 @@ CR2032.
 •
 
 ### Пусковой
-`livan_9_ru_5f08896d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 переключатель
 не
 установлен в положение «OFFе;
@@ -12918,7 +12152,6 @@ CR2032.
 Смарт-ключ остался в машине.
 
 ### При касании области датчика блокировки
-`livan_9_ru_68a8b680` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:123 | doc_type:owners_manual
 на ручке двери со стороны водителя
 блокировка автомобиля не сработает, 3
 раза мигнут сигналы поворота, дважды
@@ -12972,7 +12205,6 @@ CR2032.
 •
 
 ### В
-`livan_9_ru_12cf270f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 обнаружении
 смарт-ключа
 есть
@@ -12980,13 +12212,11 @@ CR2032.
 удаленное место, например на полку.
 
 ### Дистанционное
-`livan_9_ru_6493f2d4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 блокирование
 и разблокирование замков
 Разблокирование замков
 
 ### Кратковременно
-`livan_9_ru_7a713b77` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:123 | doc_type:owners_manual
 нажмите
 на
 кнопку
@@ -13030,7 +12260,6 @@ CR2032.
 багажника.
 
 ### После кратковременного нажатия кнопки
-`livan_9_ru_ddd5a716` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:123 | doc_type:owners_manual
 блокировки
 на
 смарт-ключе
@@ -13059,7 +12288,6 @@ CR2032.
 звуковой сигнал.
 
 ### Не позволяйте детям проникать в
-`livan_9_ru_392946d4` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:123 | doc_type:owners_manual
 багажное
 отделение.
 Как
@@ -13076,7 +12304,6 @@ CR2032.
 багажника закрыта.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_71faecd4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 122
 Блокирование
 и
@@ -13084,7 +12311,6 @@ CR2032.
 механическим ключом
 
 ### 2. Вставьте
-`livan_9_ru_dddc6a8d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 механический
 ключ
 в
@@ -13100,7 +12326,6 @@ CR2032.
 крышку вверх.
 
 ### 3. Вставьте механический ключ в замок
-`livan_9_ru_277a81f1` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:124 | doc_type:owners_manual
 двери
 со
 стороны
@@ -13117,7 +12342,6 @@ CR2032.
 дверь.
 
 ### Блокирование
-`livan_9_ru_97f625c0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 и
 разблокирование
 замков
@@ -13126,7 +12350,6 @@ CR2032.
 1. Кнопка разблокировки
 
 ### 2. Кнопка блокировки
-`livan_9_ru_43d3f91f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 Чтобы
 закрыть
 все
@@ -13135,7 +12358,6 @@ CR2032.
 кнопку блокировки.
 
 ### Блокирование
-`livan_9_ru_97f625c0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 изнутри
 может
 быть
@@ -13160,7 +12382,6 @@ CR2032.
 км/ч).
 
 ### Разблокировка
-`livan_9_ru_49f3362c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 при
 помощи
 кнопки
@@ -13180,7 +12401,6 @@ CR2032.
 невозможно.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_82ebbbc9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 5
 8
 7
@@ -13194,7 +12414,6 @@ CR2032.
 и разблокирование
 
 ### Автоматическое
-`livan_9_ru_ef51cdd3` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:125 | doc_type:owners_manual
 повторное
 блокирование
 Если
@@ -13216,7 +12435,6 @@ CR2032.
 перейдет в режим охраны.
 
 ### Автоматическая
-`livan_9_ru_144c38c4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 блокировка
 в
 движении
@@ -13235,7 +12453,6 @@ CR2032.
 автоматически заблокируются.
 
 ### Напоминание о разблокировке при
-`livan_9_ru_36e5c893` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 забытом в автомобиле ключе
 Если
 попытаться
@@ -13257,7 +12474,6 @@ CR2032.
 положении
 
 ### «OFFе
-`livan_9_ru_988893c3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 поступит
 напоминание
 о
@@ -13271,7 +12487,6 @@ CR2032.
 загорится внутреннее освещение.
 
 ### Если во время движения автомобиля
-`livan_9_ru_a3308790` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:125 | doc_type:owners_manual
 произойдет
 серьезное
 лобовое
@@ -13316,13 +12531,11 @@ CR2032.
 запирания дверей:
 
 ### 1. Мигание левого и правого указателей
-`livan_9_ru_e8cd2cca` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 поворота, аварийной сигнализации:
 нажмите один раз на выключатель
 аварийной сигнализации;
 
 ### 2. Блокировка
-`livan_9_ru_51c17741` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 функции
 запирания
 дверей: при пусковом переключателе
@@ -13330,7 +12543,6 @@ CR2032.
 из четырех дверей автомобиля.
 
 ### Автоматическая
-`livan_9_ru_144c38c4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 разблокировка
 после остановки двигателя
 После
@@ -13346,7 +12558,6 @@ CR2032.
 двери автоматически разблокируются.
 
 ### Функция поиска автомобиля
-`livan_9_ru_bf5fa1e7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 Вы
 можете
 использовать
@@ -13383,7 +12594,6 @@ CR2032.
 прозвучит звуковой сигнал.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_32ff8451` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:125 | doc_type:owners_manual
 124
 Открытие двери багажника
 Открытие двери багажника снаружи
@@ -13411,7 +12621,6 @@ CR2032.
 положении
 
 ### «OFFе
-`livan_9_ru_bc2a4d93` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:126 | doc_type:owners_manual
 нажмите
 и
 удерживайте
@@ -13434,7 +12643,6 @@ CR2032.
 некоторое время.
 
 ### В нормальных условиях для открытия
-`livan_9_ru_beab410e` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:126 | doc_type:owners_manual
 двери
 багажника
 необходимо
@@ -13465,7 +12673,6 @@ CR2032.
 аварийного открывания двери багажника.
 
 ### Открытие
-`livan_9_ru_c9aa74e2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:126 | doc_type:owners_manual
 производится
 следующим
 образом:
@@ -13473,7 +12680,6 @@ CR2032.
 сиденья.
 
 ### Подробнее
-`livan_9_ru_d13bb83a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:126 | doc_type:owners_manual
 см.
 «Регулировка
 передних
@@ -13487,7 +12693,6 @@ CR2032.
 устройства защитые.
 
 ### 2. В
-`livan_9_ru_012a5c0f` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:126 | doc_type:owners_manual
 багажнике
 вы
 можете
@@ -13502,7 +12707,6 @@ CR2032.
 показано на рисунке.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_7a31c45a` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:126 | doc_type:owners_manual
 5
 8
 7
@@ -13516,19 +12720,16 @@ CR2032.
 открывания двери багажника.
 
 ### 4. Поверните
-`livan_9_ru_6202084d` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:127 | doc_type:owners_manual
 ручку
 аварийного
 открывания двери багажника.
 5. Аккуратно толкните дверь багажника.
 
 ### Дверные ручки
-`livan_9_ru_e87bf66f` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:127 | doc_type:owners_manual
 Если дверь не заперта, ее можно открыть
 с помощью внутренней и внешней ручек.
 
 ### Левая и правая задние двери автомобиля
-`livan_9_ru_31ec72af` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 оборудованы
 детскими
 замками
@@ -13541,7 +12742,6 @@ CR2032.
 используйте детские замки безопасности.
 
 ### Детские
-`livan_9_ru_1467a0a2` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:127 | doc_type:owners_manual
 замки
 безопасности
 расположены на внешних кромках задних
@@ -13557,7 +12757,6 @@ CR2032.
 активации замка открыть дверь изнутри
 
 ### Запуск двигателя и вождение
-`livan_9_ru_ac5d5ecd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 126
 автомобиля будет невозможно, только
 снаружи.
@@ -13580,7 +12779,6 @@ CR2032.
 работает должным образом.
 
 ### Запуск
-`livan_9_ru_b788a549` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 двигателя
 и
 вождение
@@ -13590,7 +12788,6 @@ CR2032.
 (бесключевой запуск)
 
 ### Ваш автомобиль оснащен электронным
-`livan_9_ru_3c8138a9` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:128 | doc_type:owners_manual
 бесключевым
 запуском,
 который
@@ -13604,14 +12801,12 @@ CR2032.
 обнаружения.
 
 ### Режимы
-`livan_9_ru_4ad9193c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 работы
 пускового
 переключателя включают:
 OFF: пусковой переключатель выключен.
 
 ### «OFFе
-`livan_9_ru_b66d7659` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:128 | doc_type:owners_manual
 нажмите
 на
 педаль
@@ -13624,7 +12819,6 @@ OFF: пусковой переключатель выключен.
 чтобы запустить двигатель.
 
 ### ACC:
-`livan_9_ru_d11c4ef9` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:128 | doc_type:owners_manual
 позволяет
 использовать
 электрические
@@ -13646,7 +12840,6 @@ OFF: пусковой переключатель выключен.
 переключателе в режиме «ACCе нажмите
 
 ### Запуск двигателя и вождение
-`livan_9_ru_6650c59a` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:128 | doc_type:owners_manual
 5
 8
 7
@@ -13666,7 +12859,6 @@ OFF: пусковой переключатель выключен.
 двигатель.
 
 ### ON:
-`livan_9_ru_831cab32` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:129 | doc_type:owners_manual
 При
 пусковом
 переключателе
@@ -13683,7 +12875,6 @@ OFF: пусковой переключатель выключен.
 режиме
 
 ### «ACCе
-`livan_9_ru_ac4dc8b4` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:129 | doc_type:owners_manual
 или
 «ONе
 после
@@ -13695,13 +12886,11 @@ OFF: пусковой переключатель выключен.
 расходоваться.
 
 ### Длительный
-`livan_9_ru_aec3cd10` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:129 | doc_type:owners_manual
 расход
 заряда аккумулятора может привести к
 невозможности запуска двигателя.
 
 ### START:
-`livan_9_ru_ca40c6c1` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:129 | doc_type:owners_manual
 используется
 для
 запуска
@@ -13718,7 +12907,6 @@ OFF: пусковой переключатель выключен.
 режим «ONе.
 
 ### Описание световой индикации пускового
-`livan_9_ru_8dce1aa5` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:129 | doc_type:owners_manual
 переключателя:
 •
 В
@@ -13739,7 +12927,6 @@ OFF: пусковой переключатель выключен.
 переключателя
 
 ### «ACCе
-`livan_9_ru_ac4dc8b4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 или
 «ONе,
 индикатор
@@ -13761,7 +12948,6 @@ OFF: пусковой переключатель выключен.
 пускового переключателя не горит.
 
 ### Запуск
-`livan_9_ru_89175971` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 двигателя
 (бесключевой запуск)
 Для
@@ -13771,7 +12957,6 @@ OFF: пусковой переключатель выключен.
 следующие условия:
 
 ### 1. При вас должен быть действующий
-`livan_9_ru_c2da9484` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 смарт-ключ;
 2. Нажмите
 кнопку
@@ -13784,7 +12969,6 @@ P
 передач в положение N;
 
 ### 4. Нажмите
-`livan_9_ru_06937edd` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:129 | doc_type:owners_manual
 кнопку
 пуска,
 заведите
@@ -13812,7 +12996,6 @@ P
 •
 
 ### Приводите автомобиль в движение в
-`livan_9_ru_9ebd3ab2` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:129 | doc_type:owners_manual
 соответствии с местными законами и
 нормативами.
 •
@@ -13825,7 +13008,6 @@ P
 •
 
 ### Если двигатель еще не достиг рабочей
-`livan_9_ru_95c84a37` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:129 | doc_type:owners_manual
 температуры,
 избегайте
 высокой
@@ -13837,7 +13019,6 @@ P
 может повредить двигатель.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_9acc9208` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:129 | doc_type:owners_manual
 128
 •
 Во время движения автомобиля не
@@ -13877,7 +13058,6 @@ P
 обеспечить лучшее смазывание.
 
 ### 1. Когда
-`livan_9_ru_e41b4cf2` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:130 | doc_type:owners_manual
 водителю
 нужно
 запустить
@@ -13905,7 +13085,6 @@ P
 хорошую смазку.
 
 ### 2. Если
-`livan_9_ru_56bd67b5` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:130 | doc_type:owners_manual
 смарт-ключ
 не
 находится
@@ -13935,7 +13114,6 @@ P
 компоненты.
 
 ### Если Вы нажмете кнопку зажигания и
-`livan_9_ru_11441fcc` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:130 | doc_type:owners_manual
 отпустите ее, когда двигатель начнет
 запускаться,
 стартер
@@ -13967,7 +13145,6 @@ P
 чтобы начать следующий пуск.
 
 ### Если после неудачного пуска сразу
-`livan_9_ru_782b1151` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:130 | doc_type:owners_manual
 же
 повторно
 нажать
@@ -13990,7 +13167,6 @@ P
 полного остывания стартера.
 
 ### Резервная процедура запуска
-`livan_9_ru_e44aa8b4` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:130 | doc_type:owners_manual
 автомобиля
 Если аккумулятор смарт-ключа почти или
 полностью разряжен, поместите смартключ
@@ -14012,7 +13188,6 @@ P
 замены аккумулятора смарт-ключа.
 
 ### Перед проверкой необходимо запустить
-`livan_9_ru_8a14c0d1` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:130 | doc_type:owners_manual
 двигатель в соответствии с правильной
 процедурой
 согласно
@@ -14020,7 +13195,6 @@ P
 «Запуск
 
 ### Запуск двигателя и вождение
-`livan_9_ru_9154e2af` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:130 | doc_type:owners_manual
 5
 8
 7
@@ -14073,7 +13247,6 @@ P
 обслуживания
 
 ### LIVAN
-`livan_9_ru_7ff785af` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:131 | doc_type:owners_manual
 для
 проведения
 технического обслуживания.
@@ -14085,7 +13258,6 @@ P
 скорость слишком низкая:
 
 ### 1. Убедитесь, что клеммы аккумулятора
-`livan_9_ru_1b4cf12e` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:131 | doc_type:owners_manual
 затянуты и чистые.
 2. Если
 проблем
@@ -14126,7 +13298,6 @@ P
 технического обслуживания автомобилей
 
 ### LIVAN
-`livan_9_ru_7ff785af` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 для
 проведения
 технического
@@ -14160,7 +13331,6 @@ P
 пожара.
 
 ### Если стартер вращается с нормальной
-`livan_9_ru_3bd9a542` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:131 | doc_type:owners_manual
 скоростью,
 но
 двигатель
@@ -14177,13 +13347,11 @@ P
 двигателе.
 
 ### Попробуйте
-`livan_9_ru_385d9109` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 нажать
 педаль газа до упора перед запуском
 двигателя.
 
 ### 2. Если
-`livan_9_ru_ae19bdcb` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:131 | doc_type:owners_manual
 двигатель
 по-прежнему
 не
@@ -14198,7 +13366,6 @@ P
 автомобилей
 
 ### LIVAN
-`livan_9_ru_7ff785af` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 для
 проведения
 технического
@@ -14207,7 +13374,6 @@ P
 130
 
 ### Технология
-`livan_9_ru_fb7b88b3` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:132 | doc_type:owners_manual
 запуска/
 остановки двигателя
 Положение запуска стопорного
@@ -14231,7 +13397,6 @@ Settings] →[Vehicle control] Управление
 км/ч.
 
 ### Световой
-`livan_9_ru_756d45da` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:132 | doc_type:owners_manual
 индикатор
 состояния
 системы
@@ -14256,7 +13421,6 @@ Settings] →[Vehicle control] Управление
 остановки).
 
 ### Допустимые
-`livan_9_ru_6973d4bb` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 критерии
 автоматической остановки
 Допустимые
@@ -14265,7 +13429,6 @@ Settings] →[Vehicle control] Управление
 остановки
 
 ### EMS
-`livan_9_ru_f06e8c0e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 (если
 какой-либо
 из
@@ -14278,7 +13441,6 @@ Settings] →[Vehicle control] Управление
 автоматическую остановку):
 
 ### 1. Включить
-`livan_9_ru_8c90e346` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 переключатель
 запускаостановки;
 2. Нормальная
@@ -14286,7 +13448,6 @@ Settings] →[Vehicle control] Управление
 охлаждающей жидкости двигателя;
 
 ### 3. Нет
-`livan_9_ru_3129b54f` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:132 | doc_type:owners_manual
 неисправностей
 воздушной
 заслонки,
@@ -14296,14 +13457,12 @@ Settings] →[Vehicle control] Управление
 входе;
 
 ### 4. Электронная
-`livan_9_ru_5ba6670b` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:132 | doc_type:owners_manual
 система
 контроля
 устойчивости ESC не активирована;
 5. Капот переднего отсека закрыт;
 
 ### 7. Ремень
-`livan_9_ru_cc14026e` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:132 | doc_type:owners_manual
 безопасности
 со
 стороны
@@ -14314,13 +13473,11 @@ Settings] →[Vehicle control] Управление
 тормозов;
 
 ### 9. Нет препятствий для торможения, нет
-`livan_9_ru_6a9fe2bf` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:132 | doc_type:owners_manual
 препятствий для скорости;
 10. Воздушная подушка безопасности не
 раскрыта;
 
 ### 11. Система
-`livan_9_ru_a1a35791` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:132 | doc_type:owners_manual
 кондиционирования
 допускает запуск/парковку;
 12. Коробка
@@ -14329,7 +13486,6 @@ Settings] →[Vehicle control] Управление
 остановку;
 
 ### 13. Высота над уровнем моря ниже 4000
-`livan_9_ru_fd07edbc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 метров;
 14. Угол
 поворота
@@ -14338,7 +13494,6 @@ Settings] →[Vehicle control] Управление
 установленного;
 
 ### Запуск двигателя и вождение
-`livan_9_ru_4676f9cd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 5
 8
 7
@@ -14355,7 +13510,6 @@ Settings] →[Vehicle control] Управление
 положении D;
 
 ### 18. Нормальное
-`livan_9_ru_d27b8f0a` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:133 | doc_type:owners_manual
 напряжение
 аккумулятора 12V;
 19. Скорость
@@ -14364,7 +13518,6 @@ Settings] →[Vehicle control] Управление
 значения, допускающего остановку.
 
 ### Если все вышеуказанные критерии
-`livan_9_ru_df2ab276` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:133 | doc_type:owners_manual
 соблюдены,
 световой
 индикатор
@@ -14373,7 +13526,6 @@ Settings] →[Vehicle control] Управление
 зеленый.
 
 ### Условия
-`livan_9_ru_2505519a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 автоматического
 запуска-остановки
 Условия автоматического запуска EMS
@@ -14385,7 +13537,6 @@ Settings] →[Vehicle control] Управление
 условий):
 
 ### 1. Выключите
-`livan_9_ru_91d68c8f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 переключатель
 запускаостановки;
 2. Недостаточная
@@ -14393,7 +13544,6 @@ Settings] →[Vehicle control] Управление
 охлаждающей жидкости;
 
 ### 5. Ремень
-`livan_9_ru_f640a626` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:133 | doc_type:owners_manual
 безопасности
 со
 стороны
@@ -14405,7 +13555,6 @@ Settings] →[Vehicle control] Управление
 отвечает требованиям;
 
 ### 7. Система кондиционирования требует
-`livan_9_ru_033bd165` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 запуск;
 8. TCU требует запуск;
 9. Угол
@@ -14415,12 +13564,10 @@ Settings] →[Vehicle control] Управление
 установленного;
 
 ### 11. При отпускании педали тормоза (или
-`livan_9_ru_bc63e2ad` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:133 | doc_type:owners_manual
 недостаточном нажатии) в положении
 рычага D и отпускании кнопки AUTO
 
 ### 12. Нажатие
-`livan_9_ru_2fd523d2` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:133 | doc_type:owners_manual
 на
 педаль
 тормоза,
@@ -14432,7 +13579,6 @@ Settings] →[Vehicle control] Управление
 положения
 
 ### D
-`livan_9_ru_07d1bbf9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 в
 положение, отличное от P;
 13. Переведение
@@ -14442,7 +13588,6 @@ Settings] →[Vehicle control] Управление
 другое положение;
 
 ### 14. Нажатие
-`livan_9_ru_88f41bde` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 на
 педаль
 газа
@@ -14450,7 +13595,6 @@ Settings] →[Vehicle control] Управление
 активированной кнопке AUTO HOLD;
 
 ### 15. Относительно
-`livan_9_ru_a03c3575` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:133 | doc_type:owners_manual
 низкое
 напряжение
 аккумулятора 12V;
@@ -14462,7 +13606,6 @@ Settings] →[Vehicle control] Управление
 запускаостановки
 
 ### 1. Неисправность
-`livan_9_ru_8452d2e7` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:133 | doc_type:owners_manual
 тормозного
 переключателя;
 2. Неисправность
@@ -14470,7 +13613,6 @@ Settings] →[Vehicle control] Управление
 скорости;
 
 ### 3. Ошибка сигнала датчика тормозного
-`livan_9_ru_4b0082bc` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:133 | doc_type:owners_manual
 давления;
 4. Местоположение сигнала воздушной
 подушки безопасности.
@@ -14486,7 +13628,6 @@ Settings] →[Vehicle control] Управление
 (положение наклона).
 
 ### 1. При превышении определенного угла
-`livan_9_ru_c95bb3a1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 наклона активация запуска-остановки
 невозможна;
 2. При остановке двигателя на дороге с
@@ -14500,7 +13641,6 @@ Settings] →[Vehicle control] Управление
 функцию
 
 ### Запуск двигателя и вождение
-`livan_9_ru_7173aca4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 132
 чтобы
 предотвратить
@@ -14508,7 +13648,6 @@ Settings] →[Vehicle control] Управление
 автомобиля назад.
 
 ### Вождение
-`livan_9_ru_f61d042e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 При
 следующих
 условиях
@@ -14527,7 +13666,6 @@ Settings] →[Vehicle control] Управление
 •
 
 ### При движении по дорогам с плохими
-`livan_9_ru_ad395e32` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 дорожными условиями.
 •
 При наезде на бордюр.
@@ -14538,7 +13676,6 @@ Settings] →[Vehicle control] Управление
 автомобиль полностью загружен.
 
 ### В
-`livan_9_ru_f2eedb8c` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:134 | doc_type:owners_manual
 автомобиле,
 оснащенном
 двигателем с турбонаддувом строго
@@ -14573,7 +13710,6 @@ Settings] →[Vehicle control] Управление
 повреждению.
 
 ### Период
-`livan_9_ru_4bcf3a7d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 обкатки
 нового
 автомобиля
@@ -14618,7 +13754,6 @@ Settings] →[Vehicle control] Управление
 •
 
 ### Старайтесь не нажимать педаль газа
-`livan_9_ru_992f21b7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 до упора при трогании с места и в
 движении.
 •
@@ -14637,7 +13772,6 @@ Settings] →[Vehicle control] Управление
 •
 
 ### Избегайте
-`livan_9_ru_1a9d7828` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 работы
 двигателя
 на
@@ -14647,7 +13781,6 @@ Settings] →[Vehicle control] Управление
 •
 
 ### Избегайте экстренного торможения в
-`livan_9_ru_0c9a0efb` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 течение первых 300 километров.
 •
 Не
@@ -14664,7 +13797,6 @@ Settings] →[Vehicle control] Управление
 она или низкая.
 
 ### Использование автомобиля в
-`livan_9_ru_38f5873e` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:134 | doc_type:owners_manual
 холодном климате (ниже 0°С)
 90%
 износа
@@ -14691,7 +13823,6 @@ Settings] →[Vehicle control] Управление
 •
 
 ### После запуска автомобиля двигайтесь
-`livan_9_ru_92d65ac8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 на низкой скорости 40 км/ч или менее,
 пока
 показания
@@ -14699,7 +13830,6 @@ Settings] →[Vehicle control] Управление
 двигателя не начнут меняться (50-60
 
 ### Запуск двигателя и вождение
-`livan_9_ru_0db5cf05` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 5
 8
 7
@@ -14717,7 +13847,6 @@ Settings] →[Vehicle control] Управление
 режиме.
 
 ### Наилучшее
-`livan_9_ru_a4ce75f9` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:135 | doc_type:owners_manual
 рабочее
 состояние
 достигается,
@@ -14769,7 +13898,6 @@ Settings] →[Vehicle control] Управление
 из выхлопной трубы.
 
 ### Парковка
-`livan_9_ru_a4033742` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 на
 горючих
 материалах
@@ -14795,7 +13923,6 @@ Settings] →[Vehicle control] Управление
 легковоспламеняющихся материалах.
 
 ### В
-`livan_9_ru_aa9b8423` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 разных
 режимах
 движения
@@ -14824,7 +13951,6 @@ Settings] →[Vehicle control] Управление
 общественного транспорта.
 
 ### При ускоренном трогании с места и
-`livan_9_ru_3ecb905f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 разгоне расход топлива высокий. Во
 время
 вождения
@@ -14839,12 +13965,10 @@ Settings] →[Vehicle control] Управление
 ускорения.
 
 ### Плавное
-`livan_9_ru_d57bdf08` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 трогание и ускорение способствуют
 экономии топлива.
 
 ### 2. Поддержание
-`livan_9_ru_620c7bcb` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 постоянной
 экономичной скорости
 Скорости
@@ -14858,7 +13982,6 @@ Settings] →[Vehicle control] Управление
 экономичными.
 
 ### Исходя
-`livan_9_ru_68a4c24a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 из
 соображений
 безопасности,
@@ -14872,7 +13995,6 @@ Settings] →[Vehicle control] Управление
 топлива.
 
 ### 3. Избегание ненужного торможения
-`livan_9_ru_2d5772bc` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:135 | doc_type:owners_manual
 Соблюдайте дистанцию, старайтесь
 избегать
 частых
@@ -14889,7 +14011,6 @@ Settings] →[Vehicle control] Управление
 избегайте экстренного торможения.
 
 ### 4. Выключение
-`livan_9_ru_c3fac460` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:135 | doc_type:owners_manual
 двигателя
 при
 длительной парковке
@@ -14898,7 +14019,6 @@ Settings] →[Vehicle control] Управление
 время парковки превышает 1 минуту
 
 ### Запуск двигателя и вождение
-`livan_9_ru_be55f205` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:135 | doc_type:owners_manual
 134
 в случае пробок на дорогах, длинных
 красных сигналов светофора и т. д.
@@ -14916,7 +14036,6 @@ Settings] →[Vehicle control] Управление
 повторного запуска двигателя.
 
 ### 5. Поддержание низкого сопротивления
-`livan_9_ru_e2a93e58` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:136 | doc_type:owners_manual
 воздуха
 Открытие окна на высокой скорости
 значительно
@@ -14932,7 +14051,6 @@ Settings] →[Vehicle control] Управление
 топлива.
 
 ### Закрывайте
-`livan_9_ru_ba3166b7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 окна
 автомобиля
 при
@@ -14941,7 +14059,6 @@ Settings] →[Vehicle control] Управление
 в шинах
 
 ### Регулярно
-`livan_9_ru_211eeea0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 проверяйте
 давление
 в
@@ -14953,7 +14070,6 @@ Settings] →[Vehicle control] Управление
 ведет к увеличению расхода топлива.
 
 ### 7. Минимизация
-`livan_9_ru_863d9be6` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 использования
 кондиционера
 Кондиционер
@@ -14984,7 +14100,6 @@ Settings] →[Vehicle control] Управление
 использовании кондиционера.
 
 ### Каждый дополнительный килограмм
-`livan_9_ru_36037cf7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 веса
 может
 увеличить
@@ -14999,7 +14114,6 @@ Settings] →[Vehicle control] Управление
 средства.
 
 ### 9. Своевременное
-`livan_9_ru_b26257a1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 техническое
 обслуживание
 Чтобы поддерживать автомобиль в
@@ -15011,7 +14125,6 @@ Settings] →[Vehicle control] Управление
 правилам.
 
 ### Хорошая
-`livan_9_ru_8e900466` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 работа
 двигателя
 способствует
@@ -15023,20 +14136,17 @@ Settings] →[Vehicle control] Управление
 топлива.
 
 ### Оптимизируйте
-`livan_9_ru_a016f045` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 маршрут
 и
 старайтесь избегать перегруженных
 участков.
 
 ### Это не только
-`livan_9_ru_c82f023d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 экономит
 время, но и помогает снизить расход
 топлива.
 
 ### 11. Не
-`livan_9_ru_6fa2a373` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 стоит
 менять
 размер
@@ -15048,7 +14158,6 @@ Settings] →[Vehicle control] Управление
 топлива.
 
 ### Осторожное
-`livan_9_ru_3914e6a5` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:136 | doc_type:owners_manual
 вождение
 предполагает
 «постоянную готовность к неожиданным
@@ -15060,7 +14169,6 @@ Settings] →[Vehicle control] Управление
 пристегнуть ремень безопасности.
 
 ### Предполагая
-`livan_9_ru_7a1509a3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 неосторожность
 и
 совершение
@@ -15076,7 +14184,6 @@ Settings] →[Vehicle control] Управление
 будьте готовы.
 
 ### Соблюдайте
-`livan_9_ru_1dbc2e42` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 дистанцию
 и
 сосредоточьтесь
@@ -15086,7 +14193,6 @@ Settings] →[Vehicle control] Управление
 столкновению и травмированию людей.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_67f09bec` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 5
 8
 7
@@ -15102,7 +14208,6 @@ Settings] →[Vehicle control] Управление
 алкогольного опьянения
 
 ### Вождение
-`livan_9_ru_62fa7d76` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 в
 состоянии
 алкогольного
@@ -15121,7 +14226,6 @@ Settings] →[Vehicle control] Управление
 запрещено.
 
 ### Ответственность
-`livan_9_ru_e62ad359` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 и
 последствия
 установлены
@@ -15129,14 +14233,12 @@ Settings] →[Vehicle control] Управление
 законодательством РФ.
 
 ### Во избежание повреждения автомобиля
-`livan_9_ru_c53afaa2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 при движении по воде (например, при
 затоплении дороги) обратите внимание
 на следующее:
 •
 
 ### Определите глубину перед движением
-`livan_9_ru_12636668` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 по воде. Самый высокий уровень воды
 может достигать только 1/4 высоты
 колеса.
@@ -15187,7 +14289,6 @@ Settings] →[Vehicle control] Управление
 •
 
 ### После заезда в воду избегайте резкого
-`livan_9_ru_448d25f0` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:137 | doc_type:owners_manual
 ускорения и экстренного торможения.
 •
 После
@@ -15244,7 +14345,6 @@ Settings] →[Vehicle control] Управление
 вброд.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_abf9fd74` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 136
 •
 Не совершайте движение по соленой
@@ -15262,7 +14362,6 @@ Settings] →[Vehicle control] Управление
 немедленно промыть пресной водой.
 
 ### После проезда по воде рекомендуем Вам
-`livan_9_ru_2982923c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 отправиться
 в
 центр
@@ -15271,7 +14370,6 @@ Settings] →[Vehicle control] Управление
 автомобиль.
 
 ### Управление
-`livan_9_ru_d7fa2bf8` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:138 | doc_type:owners_manual
 транспортным
 средством
 Следующие три системы могут помочь
@@ -15295,13 +14393,11 @@ Settings] →[Vehicle control] Управление
 характеристики автомобиля.
 
 ### Трехкомпонентный
-`livan_9_ru_5f369787` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 каталитический
 нейтрализатор
 отработавших газов ДВС
 
 ### Информация
-`livan_9_ru_03610d6d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 о
 трехкомпонентном
 каталитическом
@@ -15313,7 +14409,6 @@ Settings] →[Vehicle control] Управление
 сгорания
 
 ### Выхлопная
-`livan_9_ru_5075820e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 система
 автомобиля
 оснащена
@@ -15334,7 +14429,6 @@ HC и NOx, в безвредный углекислый газ,
 восстановления.
 
 ### Неправильное
-`livan_9_ru_8bef1e02` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 использование
 может
 привести
@@ -15352,7 +14446,6 @@ HC и NOx, в безвредный углекислый газ,
 ниже требования.
 
 ### Температура
-`livan_9_ru_a8d1e642` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:138 | doc_type:owners_manual
 выхлопных
 газов
 высока. Не паркуйте автомобиль на
@@ -15382,7 +14475,6 @@ HC и NOx, в безвредный углекислый газ,
 двигателя,
 
 ### Запуск двигателя и вождение
-`livan_9_ru_0cb87162` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 5
 8
 7
@@ -15401,7 +14493,6 @@ HC и NOx, в безвредный углекислый газ,
 каталитического нейтрализатора.
 
 ### Согласно регламенту обратитесь в
-`livan_9_ru_f928b383` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 центр технического обслуживания
 LIVAN
 для
@@ -15410,7 +14501,6 @@ LIVAN
 обслуживания.
 
 ### Требования к топливу
-`livan_9_ru_fbc0088e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 •
 Можно
 использовать
@@ -15439,7 +14529,6 @@ LIVAN
 двигателя внутреннего сгорания.
 
 ### Требования к запуску
-`livan_9_ru_73bef56e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 •
 Не
 продолжайте
@@ -15452,7 +14541,6 @@ LIVAN
 •
 
 ### Если двигатель
-`livan_9_ru_dacda5a6` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:139 | doc_type:owners_manual
 не запускается, не
 следует
 пытаться
@@ -15466,7 +14554,6 @@ LIVAN
 •
 
 ### Не пытайтесь завести автомобиль с
-`livan_9_ru_0dd4f02e` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:139 | doc_type:owners_manual
 толкача или при помощи буксировки.
 Требования к движению
 •
@@ -15482,7 +14569,6 @@ LIVAN
 •
 
 ### Не глушите автомобиль при движении
-`livan_9_ru_1c84f426` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:139 | doc_type:owners_manual
 на передаче.
 •
 Если мощность автомобиля снижается
@@ -15501,7 +14587,6 @@ LIVAN
 удариться днищем автомобиля.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_1677c97a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 138
 Выброс выхлопных газов
 Устройство
@@ -15509,7 +14594,6 @@ LIVAN
 выхлопных газов
 
 ### Необходимо
-`livan_9_ru_6caccdcc` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:140 | doc_type:owners_manual
 использовать
 неэтилированный
 бензин
@@ -15520,7 +14604,6 @@ LIVAN
 регламенту.
 
 ### Свинец в бензине и примеси в моторном
-`livan_9_ru_ace5566c` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:140 | doc_type:owners_manual
 масле
 могут
 повредить
@@ -15529,7 +14612,6 @@ LIVAN
 нейтрализатор.
 
 ### Выхлопные газы
-`livan_9_ru_71e1ffa3` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:140 | doc_type:owners_manual
 •
 Если
 автомобиль
@@ -15559,7 +14641,6 @@ LIVAN
 •
 
 ### Неисправности
-`livan_9_ru_b956f10a` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:140 | doc_type:owners_manual
 в
 работе
 двигателя
@@ -15602,7 +14683,6 @@ LIVAN
 нахождение вблизи него.
 
 ### Избегайте
-`livan_9_ru_d32c3b9a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 вдыхания
 выхлопных
 газов. Выхлопные газы содержат
@@ -15627,7 +14707,6 @@ LIVAN
 ослаблены.
 
 ### Регулярно
-`livan_9_ru_fd77a2a1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 проверяйте
 выхлопную
 систему.
@@ -15644,7 +14723,6 @@ LIVAN
 проверку.
 
 ### Не запускайте двигатель в гараже или в
-`livan_9_ru_2a8f77d2` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:140 | doc_type:owners_manual
 закрытом помещении, за исключением
 случаев, когда автомобиль въезжает в
 гараж
@@ -15654,7 +14732,6 @@ LIVAN
 него.
 
 ### Невозможность выхода выхлопных газов
-`livan_9_ru_60f03617` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 представляет серьезную опасность.
 Не
 останавливайтесь
@@ -15666,7 +14743,6 @@ LIVAN
 двигателе.
 
 ### В
-`livan_9_ru_a2618460` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:140 | doc_type:owners_manual
 случае
 необходимости
 следует
@@ -15712,7 +14788,6 @@ LIVAN
 других препятствий.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_bcf03a98` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 5
 8
 7
@@ -15728,7 +14803,6 @@ LIVAN
 технического обслуживания автомобилей
 
 ### LIVAN
-`livan_9_ru_07e23283` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 для
 проведения
 технического
@@ -15736,7 +14810,6 @@ LIVAN
 Топливная система
 
 ### Заправляйтесь
-`livan_9_ru_2baac3bb` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 в
 соответствии
 с
@@ -15751,7 +14824,6 @@ LIVAN
 бака.
 
 ### Использование
-`livan_9_ru_03e8e150` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 низкосортного
 бензина
 наносит
@@ -15761,7 +14833,6 @@ LIVAN
 каталитическому нейтрализатору.
 
 ### Для поддержания двигателя в чистоте и
-`livan_9_ru_f2aeb414` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 достижения
 наилучших
 характеристик
@@ -15795,7 +14866,6 @@ LIVAN
 уровня, двигатель нуждается в ремонте.
 
 ### Некоторые
-`livan_9_ru_6c3a1f2f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 виды
 топлива
 содержат
@@ -15807,7 +14877,6 @@ LIVAN
 марганца
 
 ### (ММТ).
-`livan_9_ru_3a5fae4b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 Мы
 не
 рекомендуем
@@ -15816,7 +14885,6 @@ LIVAN
 содержащее ММТ. Топливо, содержащее
 
 ### ММТ,
-`livan_9_ru_804bf247` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 сократит
 срок
 службы
@@ -15837,7 +14905,6 @@ LIVAN
 обслуживания
 
 ### LIVAN
-`livan_9_ru_07e23283` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 для
 проведения
 технического обслуживания.
@@ -15845,7 +14912,6 @@ LIVAN
 140
 
 ### Очиститель
-`livan_9_ru_8037763c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 топливной
 системы от нагара
 Очиститель топливной системы от нагара
@@ -15886,7 +14952,6 @@ LIVAN
 компанией
 
 ### LIVAN,
-`livan_9_ru_bae1a006` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 не
 должны
 добавляться
@@ -15905,7 +14970,6 @@ LIVAN
 метанол.
 
 ### Метанол вызывает
-`livan_9_ru_44644dc1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 коррозию
 металлических
 деталей
@@ -15920,7 +14984,6 @@ LIVAN
 детали.
 
 ### Гарантия
-`livan_9_ru_9bb99e66` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 не
 распространяется
 на
@@ -15929,7 +14992,6 @@ LIVAN
 использованием топлива с метанолом.
 
 ### Безопасность на АЗС
-`livan_9_ru_b409301c` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:142 | doc_type:owners_manual
 Топливо - легковоспламеняющееся
 и
 летучее
@@ -15965,7 +15027,6 @@ LIVAN
 пистолета.
 
 ### Топливозаливная горловина
-`livan_9_ru_a0f1f4e9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 и заправка
 Крышка топливного бака расположена на
 задней
@@ -15974,13 +15035,11 @@ LIVAN
 автомобиля.
 
 ### Заправка топливом включает следующие
-`livan_9_ru_fbe13a78` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:142 | doc_type:owners_manual
 операции:
 1. Остановите автомобиль и заглушите
 двигатель.
 
 ### 2. Откройте
-`livan_9_ru_4a948629` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 лючок
 топливного
 бака,
@@ -15995,7 +15054,6 @@ LIVAN
 водителя.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_4e9895b1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 5
 8
 7
@@ -16015,7 +15073,6 @@ LIVAN
 стрелки, чтобы снять ее.
 
 ### 4. Во время заправки можно поместить
-`livan_9_ru_201fb46a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 пробку на специальную подставку.
 5. При
 заправке
@@ -16030,7 +15087,6 @@ LIVAN
 предотвратить утечку топлива.
 
 ### 6. После заправки установите пробку
-`livan_9_ru_8fed35f4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 топливного
 бака
 на
@@ -16047,7 +15103,6 @@ LIVAN
 ввинчена.
 
 ### 7. Когда
-`livan_9_ru_d8c47d5d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 пробка
 топливного
 бака
@@ -16064,7 +15119,6 @@ LIVAN
 бака.
 
 ### Обязательно
-`livan_9_ru_8d52ea04` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:143 | doc_type:owners_manual
 нажмите на лючок топливного бака до
 щелчка и убедитесь, что он закрыт
 нормально.
@@ -16103,7 +15157,6 @@ LIVAN
 им осуществлять заправку.
 
 ### Если вы слишком быстро отвинтите
-`livan_9_ru_9c98b43a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 пробку топливного бака, топливо
 может выплеснуться на вас. Если пары
 топлива
@@ -16133,7 +15186,6 @@ LIVAN
 бака.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_3c571367` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 142
 Будьте
 осторожны,
@@ -16198,7 +15250,6 @@ LIVAN
 топлива.
 
 ### Немедленно
-`livan_9_ru_e64ea441` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 покиньте
 место
 происшествия.
@@ -16217,7 +15268,6 @@ LIVAN
 повреждена.
 
 ### При замене пробки топливного бака
-`livan_9_ru_73a466ef` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 на новую необходимо использовать
 модель, указанную компанией LIVAN, ее
 можно
@@ -16234,7 +15284,6 @@ LIVAN. Если модель пробки топливного
 образом.
 
 ### Резиновые
-`livan_9_ru_fe905d59` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:144 | doc_type:owners_manual
 трубки
 топливной
 системы, такие как адсорбирующие
@@ -16263,7 +15312,6 @@ LIVAN. Если модель пробки топливного
 обслуживанию.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_15a1d79c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 5
 8
 7
@@ -16277,14 +15325,12 @@ LIVAN. Если модель пробки топливного
 переключение передач
 
 ### Автоматическая
-`livan_9_ru_35aa9d3f` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:145 | doc_type:owners_manual
 коробка
 передач 7DCT
 1. Передача движения (D)
 2. Задняя передача (R)
 
 ### Информация о передачах
-`livan_9_ru_09c9f2ea` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 P (парковка)
 Когда
 рычаг
@@ -16304,7 +15350,6 @@ P (парковка)
 парковки
 
 ### (P)
-`livan_9_ru_ce146dc6` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 на
 движение вперед (D) или задний ход (R)
 должна быть нажата педаль тормоза.
@@ -16314,7 +15359,6 @@ P (парковка)
 повреждена коробка передач.
 
 ### Двигатель можно запустить только
-`livan_9_ru_ae098a65` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:145 | doc_type:owners_manual
 при включенной передаче парковки
 (P) или нейтральной передаче (N).
 D (передача для движения вперед)
@@ -16327,7 +15371,6 @@ ON, если вы хотите переключиться с
 парковки
 
 ### (P),
-`livan_9_ru_fae5a26e` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 нажмите
 на
 педаль тормоза и на кнопку передачи P.
@@ -16351,7 +15394,6 @@ ON, если вы хотите переключиться с
 положении
 
 ### ON,
-`livan_9_ru_b1c53592` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 в
 противном
 случае будет невозможно осуществить
@@ -16368,7 +15410,6 @@ ON, если вы хотите переключиться с
 вперед
 
 ### (D)
-`livan_9_ru_f7fdbfdb` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 или
 заднего хода (R), если водитель отпустит
 педаль
@@ -16396,7 +15437,6 @@ R (передача заднего хода)
 нажать на педаль тормоза и на кнопку
 
 ### Запуск двигателя и вождение
-`livan_9_ru_4937809d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 144
 передачи
 P.
@@ -16408,7 +15448,6 @@ P.
 хода
 
 ### (R)
-`livan_9_ru_4a185ead` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:146 | doc_type:owners_manual
 на
 нейтральную передачу (N) или передачу
 движения вперед (D) необходимо нажать
@@ -16421,7 +15460,6 @@ P.
 переключения передач.
 
 ### Включать передачу заднего хода
-`livan_9_ru_776b1799` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:146 | doc_type:owners_manual
 (R) можно, только когда автомобиль
 неподвижен
 и
@@ -16468,7 +15506,6 @@ N (нейтральная передача)
 положении
 
 ### ON,
-`livan_9_ru_846f9ae5` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:146 | doc_type:owners_manual
 если
 вы
 хотите
@@ -16485,13 +15522,11 @@ N (нейтральная передача)
 переключения передач.
 
 ### Остановка автомобиля
-`livan_9_ru_3871ddb8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 При длительной парковке, после полной
 остановки автомобиля, потяните вверх
 переключатель
 
 ### EPB
-`livan_9_ru_57708e42` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:146 | doc_type:owners_manual
 и
 нажмите
 на
@@ -16508,7 +15543,6 @@ N (нейтральная передача)
 переведен на нейтральную передачу (N).
 
 ### Даже при кратковременной остановке не
-`livan_9_ru_abd3f6c1` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:146 | doc_type:owners_manual
 рекомендуется продолжать нажимать на
 педаль тормоза на передачах D, R и M,
 это
@@ -16520,7 +15554,6 @@ N (нейтральная передача)
 автоматической коробки передач.
 
 ### Во время движения автомобиля ни
-`livan_9_ru_6b3806b5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 при
 каких
 обстоятельствах
@@ -16541,7 +15574,6 @@ N (нейтральная передача)
 управления над автомобилем.
 
 ### Запустите
-`livan_9_ru_0c635ddf` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:146 | doc_type:owners_manual
 двигатель
 на
 передаче
@@ -16560,7 +15592,6 @@ N (нейтральная передача)
 что
 
 ### EPB
-`livan_9_ru_57708e42` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 выключен,
 переведите рычаг переключения передач
 в
@@ -16569,7 +15600,6 @@ N (нейтральная передача)
 вперед
 
 ### (D),
-`livan_9_ru_8fdbbb03` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:146 | doc_type:owners_manual
 отпустите
 педаль
 тормоза
@@ -16581,7 +15611,6 @@ N (нейтральная передача)
 акселератора.
 
 ### Система
-`livan_9_ru_b530b8f3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 автоматической
 коробки
 передач
@@ -16608,7 +15637,6 @@ N (нейтральная передача)
 акселератора. Запрещено нажимать на
 
 ### Запуск двигателя и вождение
-`livan_9_ru_f003a388` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 5
 8
 7
@@ -16626,7 +15654,6 @@ N (нейтральная передача)
 передачи.
 
 ### Задний ход
-`livan_9_ru_0df8c2d3` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:147 | doc_type:owners_manual
 Когда
 двигатель
 работает
@@ -16648,7 +15675,6 @@ N (нейтральная передача)
 хода
 
 ### (R),
-`livan_9_ru_8bc1b99f` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 отпустите
 педаль
 тормоза и слегка нажмите на педаль
@@ -16672,7 +15698,6 @@ N (нейтральная передача)
 скоростью.
 
 ### Постарайтесь
-`livan_9_ru_9162f110` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 реже
 использовать
 педаль тормоза
@@ -16700,7 +15725,6 @@ N (нейтральная передача)
 на пониженную передачу.
 
 ### В
-`livan_9_ru_ab6cbe95` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 спортивном
 режиме
 все
@@ -16726,7 +15750,6 @@ N (нейтральная передача)
 повысить тягу при движении.
 
 ### Выберите
-`livan_9_ru_d8a6fe31` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:147 | doc_type:owners_manual
 в
 настройках
 мультимедиа
@@ -16738,7 +15761,6 @@ N (нейтральная передача)
 режим.
 
 ### Выберите другой режим в настройках
-`livan_9_ru_32b663ec` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:147 | doc_type:owners_manual
 мультимедиа,
 чтобы
 выйти
@@ -16747,7 +15769,6 @@ N (нейтральная передача)
 Экономичный режим
 
 ### В экономичном режиме все передачи
-`livan_9_ru_549297c4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 движения вперед будут автоматически
 переключаться на повышенную передачу
 заранее
@@ -16763,7 +15784,6 @@ N (нейтральная передача)
 добиться большей экономии топлива.
 
 ### Выберите
-`livan_9_ru_d8a6fe31` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:147 | doc_type:owners_manual
 в
 настройках
 мультимедиа
@@ -16780,7 +15800,6 @@ ECO,
 режим.
 
 ### Выберите другой режим в настройках
-`livan_9_ru_32b663ec` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:147 | doc_type:owners_manual
 мультимедиа,
 чтобы
 выйти
@@ -16808,7 +15827,6 @@ ECO,
 передач,
 
 ### Запуск двигателя и вождение
-`livan_9_ru_936040b9` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:147 | doc_type:owners_manual
 146
 сработает ЭБУ автоматической коробки
 передач, автомобиль будет переведен в
@@ -16824,7 +15842,6 @@ ECO,
 переходит в аварийный режим.
 
 ### Аварийный
-`livan_9_ru_231e84e4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 режим
 позволяет
 максимально
@@ -16867,7 +15884,6 @@ ECO,
 технического обслуживания автомобилей
 
 ### LIVAN
-`livan_9_ru_a94748d0` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 для
 проведения
 технического
@@ -16880,7 +15896,6 @@ ECO,
 системы
 
 ### Торможение включает в себя время на
-`livan_9_ru_4ecacf8d` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 обнаружение
 и
 реакцию.
@@ -16900,7 +15915,6 @@ ECO,
 тормоза.
 
 ### Среднее
-`livan_9_ru_028d43d1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 время
 реакции составляет около 0,75 секунды.
 Но это всего лишь средний показатель.
@@ -16932,7 +15946,6 @@ ECO,
 депрессия также могут оказать влияние.
 
 ### Но даже если время реакции составляет
-`livan_9_ru_502d3c11` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 0,75 секунды, автомобиль, движущийся
 со
 скоростью
@@ -16951,7 +15964,6 @@ ECO,
 средств.
 
 ### Фактический
-`livan_9_ru_9392baef` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 тормозной
 путь
 сильно
@@ -16971,7 +15983,6 @@ ECO,
 тормозного
 
 ### Запуск двигателя и вождение
-`livan_9_ru_510722aa` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 5
 8
 7
@@ -16990,7 +16001,6 @@ ECO,
 необходимости.
 
 ### Некоторые
-`livan_9_ru_1fe6e3ea` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 люди
 ездят
 короткими
@@ -17013,7 +16023,6 @@ ECO,
 метод.
 
 ### Тормоза
-`livan_9_ru_c6b5ab80` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 могут
 не
 успеть
@@ -17047,7 +16056,6 @@ ECO,
 срок службы тормозов.
 
 ### Если в автомобиле слышен резкий
-`livan_9_ru_7db2c4ed` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 звук трения металла при нажатии
 на
 педаль
@@ -17072,7 +16080,6 @@ ECO,
 движения.
 
 ### Во время движения автомобиля не
-`livan_9_ru_67efda93` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 нужно
 класть
 ногу
@@ -17087,7 +16094,6 @@ ECO,
 увеличиваться.
 
 ### При длительном спуске по склону
-`livan_9_ru_9fcdbf65` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 используйте торможение двигателя.
 Продолжительное использование педали
 тормоза не рекомендуется. Для контроля
@@ -17095,7 +16101,6 @@ ECO,
 ручной режим на 3 или 2 передаче.
 
 ### Лед и снег зимой легко примерзает
-`livan_9_ru_19b6bd70` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 к тормозным суппортам, вызывая
 заклинивание,
 своевременно
@@ -17103,7 +16108,6 @@ ECO,
 их.
 
 ### Электрический
-`livan_9_ru_77bba090` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 стояночный
 тормоз (EPB)
 Переключатель
@@ -17113,7 +16117,6 @@ EPB
 центральной консоли.
 
 ### Переведите пусковой переключатель в
-`livan_9_ru_6d39e61f` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 положение
 ON,
 нажмите
@@ -17127,7 +16130,6 @@ ON,
 индикатор EPB погаснет.
 
 ### Автоматическое
-`livan_9_ru_e3249712` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:149 | doc_type:owners_manual
 отключение
 EPB
 Запустите двигатель, пристегните ремень
@@ -17142,7 +16144,6 @@ EPB
 нажмите на педаль акселератора, EPB
 
 ### Запуск двигателя и вождение
-`livan_9_ru_94281a73` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:149 | doc_type:owners_manual
 148
 автоматически
 отключится,
@@ -17150,7 +16151,6 @@ EPB
 EPB погаснет.
 
 ### Во время стоянки автомобиля включите
-`livan_9_ru_450d8b24` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:150 | doc_type:owners_manual
 переключатель
 EPB,
 функция
@@ -17163,7 +16163,6 @@ EPB,
 использовании
 
 ### EPB
-`livan_9_ru_304eebaf` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 на
 приборной
 панели
@@ -17187,14 +16186,12 @@ EPB,
 проведения технического обслуживания.
 
 ### Функция
-`livan_9_ru_f6be38fc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 автоматического
 удержание
 автомобиля,
 оборудованного EPB
 
 ### Если пусковой переключатель находится
-`livan_9_ru_70b78f2b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 в
 положении
 OFF,
@@ -17203,14 +16200,12 @@ EPB
 автоматическое удержание автомобиля.
 
 ### Запрет на использование функции
-`livan_9_ru_42353cce` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 автоматического
 удержания
 автомобиля,
 оборудованного
 
 ### EPB
-`livan_9_ru_304eebaf` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 (режим мойки автомобиля)
 В некоторых особых случаях (например,
 при автоматической мойке автомобиля),
@@ -17223,7 +16218,6 @@ EPB
 отключить
 
 ### EPB
-`livan_9_ru_304eebaf` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 до
 выключения пускового переключателя, а
 затем
@@ -17251,14 +16245,12 @@ EPB
 автомобиля.
 
 ### Неправильное
-`livan_9_ru_38143d10` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 использование
 электронного стояночного тормоза
 может привести к несчастному случаю и
 травмам.
 
 ### Не используйте электронный стояночный
-`livan_9_ru_e0018993` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 тормоз
 для
 обычного
@@ -17278,7 +16270,6 @@ EPB
 тормоза.
 
 ### Никогда
-`livan_9_ru_5621e803` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 не
 нажимайте
 на
@@ -17295,7 +16286,6 @@ EPB
 тормозом.
 
 ### Автоматическое
-`livan_9_ru_a2c2ff6f` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 удержание
 автомобиля (AUTO HOLD)
 Функция
@@ -17317,7 +16307,6 @@ HOLD
 проскальзывание.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_2fa57687` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 5
 8
 7
@@ -17338,7 +16327,6 @@ HOLD
 автоматического удержания.
 
 ### Переключатель AUTO HOLD находится в
-`livan_9_ru_5cda5404` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:151 | doc_type:owners_manual
 центральной консоли.
 Включение
 функции
@@ -17371,7 +16359,6 @@ HOLD
 автомобиля (AVH).
 
 ### Выключение
-`livan_9_ru_7d0dd99b` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:151 | doc_type:owners_manual
 функции
 автоматического удержания
 Нажмите на переключатель AUTO HOLD,
@@ -17389,7 +16376,6 @@ HOLD
 автомобиля (AVH).
 
 ### Активация и отмена функции
-`livan_9_ru_e16deb5a` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:151 | doc_type:owners_manual
 автоматического удержания
 1. Запустите двигатель, закройте дверь
 со
@@ -17413,7 +16399,6 @@ HOLD
 автомобиля активируется;
 
 ### 2. Слегка
-`livan_9_ru_71b428fd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 нажмите
 на
 педаль
@@ -17425,7 +16410,6 @@ HOLD
 автомобиля отключится;
 
 ### 3. Если
-`livan_9_ru_d34c026a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 по
 истечении
 10
@@ -17441,21 +16425,18 @@ HOLD
 режим
 
 ### EPB,
-`livan_9_ru_15bcac43` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:151 | doc_type:owners_manual
 загорится
 предупреждающий световой сигнал
 стояночного тормоза
 .
 
 ### Функция
-`livan_9_ru_fa51503e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 автоматического
 удержания
 отключится
 автоматически.
 
 ### 1. Отстегните
-`livan_9_ru_3636562f` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:151 | doc_type:owners_manual
 ремень
 безопасности,
 откройте дверь со стороны водителя
@@ -17467,7 +16448,6 @@ HOLD
 отключится.
 
 ### 2. Если
-`livan_9_ru_af9f6ffc` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:151 | doc_type:owners_manual
 функция
 автоматического
 удержания
@@ -17489,7 +16469,6 @@ HOLD
 электронная парковка EPB.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_ee007edc` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:151 | doc_type:owners_manual
 150
 3. Если
 функция
@@ -17522,7 +16501,6 @@ HOLD
 автомобиля (AVH) погаснут.
 
 ### (ABS)
-`livan_9_ru_625354d2` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:152 | doc_type:owners_manual
 Антиблокировочная система (ABS) может
 предотвратить
 блокировку
@@ -17553,7 +16531,6 @@ HOLD
 явление.
 
 ### Слишком
-`livan_9_ru_0b2f4284` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:152 | doc_type:owners_manual
 высокое
 или
 слишком
@@ -17571,13 +16548,11 @@ HOLD
 эффективности торможения.
 
 ### Применение
-`livan_9_ru_0473bf30` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:152 | doc_type:owners_manual
 функции
 антиблокировки
 Не нужно давить на педаль тормоза.
 
 ### Просто с усилием нажмите на педаль
-`livan_9_ru_1ad3d65c` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:152 | doc_type:owners_manual
 тормоза
 до
 срабатывания
@@ -17597,7 +16572,6 @@ HOLD
 нормальное явление.
 
 ### Торможение
-`livan_9_ru_34c8119d` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:152 | doc_type:owners_manual
 в
 аварийной
 ситуации
@@ -17615,14 +16589,12 @@ HOLD
 торможение.
 
 ### Электронное распределение
-`livan_9_ru_54e3b694` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:152 | doc_type:owners_manual
 тормозного усилия (EBD)
 Система ABS также оснащена функцией
 электронного распределения тормозного
 усилия
 
 ### EBD
-`livan_9_ru_32c7f367` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:152 | doc_type:owners_manual
 автоматически распределяет тормозное
 усилие
 между
@@ -17639,7 +16611,6 @@ HOLD
 различных условиях нагрузки.
 
 ### Электронная
-`livan_9_ru_5c37e74d` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:152 | doc_type:owners_manual
 система
 контроля
 устойчивости
@@ -17650,7 +16621,6 @@ HOLD
 устойчивости
 
 ### (ESC)
-`livan_9_ru_29bb56f7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:152 | doc_type:owners_manual
 -
 это
 ведущая
@@ -17669,7 +16639,6 @@ HOLD
 аварий.
 
 ### ESC
-`livan_9_ru_e250734d` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:152 | doc_type:owners_manual
 использует
 передовые
 сенсорные
@@ -17690,7 +16659,6 @@ HOLD
 дороги, система применяет тормозное
 
 ### Запуск двигателя и вождение
-`livan_9_ru_e8d6af8e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:152 | doc_type:owners_manual
 5
 8
 7
@@ -17708,7 +16676,6 @@ HOLD
 автомобиль на правильный маршрут.
 
 ### Электронная
-`livan_9_ru_56f030ab` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:153 | doc_type:owners_manual
 система
 контроля
 устойчивости
@@ -17719,7 +16686,6 @@ HOLD
 физические законы. Даже при наличии
 
 ### ESC
-`livan_9_ru_9f746836` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:153 | doc_type:owners_manual
 и
 других
 систем
@@ -17729,7 +16695,6 @@ HOLD
 серьезной опасностью.
 
 ### Включение
-`livan_9_ru_cd7eadc8` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:153 | doc_type:owners_manual
 и
 отключение
 системы
@@ -17770,7 +16735,6 @@ ESC можно отключить.
 автомобиля вперед/назад.
 
 ### Ваш автомобиль оборудован функцией
-`livan_9_ru_38f78ef5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:153 | doc_type:owners_manual
 контроля спуска со склона, при помощи
 которой во время движения автомобиля
 под
@@ -17782,7 +16746,6 @@ ESC можно отключить.
 водителя.
 
 ### HDC
-`livan_9_ru_165273dc` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:153 | doc_type:owners_manual
 находится
 в
 мультимедиа.
@@ -17808,7 +16771,6 @@ ESC можно отключить.
 осуществлять спуск.
 
 ### Функция контроля спуска со склона
-`livan_9_ru_5218a9fd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:153 | doc_type:owners_manual
 будет
 работать,
 только
@@ -17821,7 +16783,6 @@ ESC можно отключить.
 спуска со склона нажатие переключателя
 
 ### HDC
-`livan_9_ru_165273dc` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 или
 увеличение
 скорости
@@ -17845,7 +16806,6 @@ ESC можно отключить.
 •
 
 ### Функция контроля спуска со склона
-`livan_9_ru_5218a9fd` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:153 | doc_type:owners_manual
 включается,
 световой
 индикатор
@@ -17854,7 +16814,6 @@ ESC можно отключить.
 •
 
 ### Функция контроля спуска со склона не
-`livan_9_ru_c0eed84a` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:153 | doc_type:owners_manual
 включается, при нажатии на кнопку
 переключателя
 HDC
@@ -17868,7 +16827,6 @@ HDC
 может быть включена.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_e98ca624` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 152
 Усилитель
 торможения
@@ -17944,7 +16902,6 @@ HDC
 вернется в нормальный режим работы.
 
 ### Вспомогательная
-`livan_9_ru_b410932e` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:154 | doc_type:owners_manual
 гидравлическая
 тормозная
 система
@@ -17963,7 +16920,6 @@ HDC
 и водить осторожно.
 
 ### Функция
-`livan_9_ru_a2ebe213` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:154 | doc_type:owners_manual
 помощи
 при
 подъеме в гору (ННС)
@@ -17977,7 +16933,6 @@ HDC
 давление автоматически сбрасывается.
 
 ### Запрещено
-`livan_9_ru_375e0653` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:154 | doc_type:owners_manual
 при
 предотвращении
 скольжения автомобиля под уклон
@@ -17995,7 +16950,6 @@ HDC
 скольжения под уклон.
 
 ### Включение
-`livan_9_ru_8f19b624` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:154 | doc_type:owners_manual
 функции
 помощи
 при подъеме в гору
@@ -18007,7 +16961,6 @@ HDC
 автоматически:
 
 ### 1. При движении вверх по склону на
-`livan_9_ru_05f7dab0` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:154 | doc_type:owners_manual
 передачах для движения вперед или
 назад.
 2. При
@@ -18023,7 +16976,6 @@ HDC
 дороге.
 
 ### Выключение функции помощи
-`livan_9_ru_dd5b487f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:154 | doc_type:owners_manual
 при подъеме в гору
 При
 следующих
@@ -18033,7 +16985,6 @@ HDC
 автоматически:
 
 ### Запуск двигателя и вождение
-`livan_9_ru_c6d49afa` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:154 | doc_type:owners_manual
 5
 8
 7
@@ -18058,7 +17009,6 @@ HDC
 положение
 
 ### (N)
-`livan_9_ru_ab005bc8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:155 | doc_type:owners_manual
 или
 положение парковки (P).
 2. При
@@ -18068,7 +17018,6 @@ HDC
 горизонтальной поверхности.
 
 ### 3. На
-`livan_9_ru_6f72b40f` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:155 | doc_type:owners_manual
 приборной
 панели
 загорается
@@ -18076,7 +17025,6 @@ HDC
 системы ESC.
 
 ### Антипробуксовочная
-`livan_9_ru_52ac9556` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:155 | doc_type:owners_manual
 система (TCS)
 Антипробуксовочная
 система
@@ -18095,7 +17043,6 @@ HDC
 движения.
 
 ### Электронная
-`livan_9_ru_53308584` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:155 | doc_type:owners_manual
 система
 предотвращения
 опрокидывания (RMI)
@@ -18143,7 +17090,6 @@ HDC
 автомобиле.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_ed5f55bf` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:155 | doc_type:owners_manual
 154
 Система
 помощи
@@ -18154,7 +17100,6 @@ HDC
 радаров
 
 ### Система
-`livan_9_ru_d4dcdb9f` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:156 | doc_type:owners_manual
 «парктронике
 функционирует
 при
@@ -18171,7 +17116,6 @@ HDC
 назад
 
 ### (R),
-`livan_9_ru_180b892f` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:156 | doc_type:owners_manual
 чтобы
 избежать
 наезда на какие-либо объекты.
@@ -18198,7 +17142,6 @@ HDC
 •
 
 ### Система
-`livan_9_ru_d4dcdb9f` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:156 | doc_type:owners_manual
 «Парктронике
 не
 может
@@ -18216,7 +17159,6 @@ HDC
 •
 
 ### Система
-`livan_9_ru_d4dcdb9f` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:156 | doc_type:owners_manual
 «Парктронике
 может
 не
@@ -18228,7 +17170,6 @@ HDC
 •
 
 ### Система
-`livan_9_ru_d4dcdb9f` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:156 | doc_type:owners_manual
 «Парктронике
 может
 не
@@ -18239,7 +17180,6 @@ HDC
 •
 
 ### Отсутствие
-`livan_9_ru_979991cf` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:156 | doc_type:owners_manual
 контроля
 за
 ситуацией
@@ -18277,7 +17217,6 @@ HDC
 автомобилем в зеркала заднего вида.
 
 ### Функционирование системы
-`livan_9_ru_12fd1944` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:156 | doc_type:owners_manual
 Система «парктронике может работать
 только при скорости меньше 15 км/ч. Во
 время работы системы «парктронике при
@@ -18295,7 +17234,6 @@ HDC
 предупреждением.
 
 ### Звуковой
-`livan_9_ru_5c271329` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 сигнал
 указывает
 на
@@ -18332,7 +17270,6 @@ HDC
 отделения.
 
 ### Однако
-`livan_9_ru_39f2e72c` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:156 | doc_type:owners_manual
 предметы
 должны
 находиться в пределах 1,5 метров от
@@ -18343,7 +17280,6 @@ HDC
 предметов может быть меньше.
 
 ### Включение и отключение системы
-`livan_9_ru_97da6e0f` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:156 | doc_type:owners_manual
 Включение:
 система
 «парктроникевключается при положении
@@ -18351,7 +17287,6 @@ HDC
 зажигания
 
 ### ON
-`livan_9_ru_6f0200ca` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:156 | doc_type:owners_manual
 и
 при
 рычаге
@@ -18363,7 +17298,6 @@ HDC
 рычаг
 
 ### Запуск двигателя и вождение
-`livan_9_ru_645112af` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:156 | doc_type:owners_manual
 5
 8
 7
@@ -18386,7 +17320,6 @@ HDC
 условиях:
 
 ### Неспособность
-`livan_9_ru_825fd9f9` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:157 | doc_type:owners_manual
 обнаруживать
 препятствия
 •
@@ -18402,7 +17335,6 @@ HDC
 •
 
 ### Датчики
-`livan_9_ru_65ececb6` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:157 | doc_type:owners_manual
 системы
 «парктронике
 не
@@ -18411,7 +17343,6 @@ HDC
 •
 
 ### Датчики
-`livan_9_ru_65ececb6` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:157 | doc_type:owners_manual
 системы
 «парктронике
 не
@@ -18423,7 +17354,6 @@ HDC
 •
 
 ### Датчики
-`livan_9_ru_65ececb6` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:157 | doc_type:owners_manual
 системы
 «парктронике
 не
@@ -18436,7 +17366,6 @@ HDC
 поглощающие ультразвуковые волны.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_f15127fc` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:157 | doc_type:owners_manual
 156
 •
 Датчики системы «парктронике могут
@@ -18446,7 +17375,6 @@ HDC
 препятствия специфической формы.
 
 ### Возможна ложная тревога
-`livan_9_ru_50893886` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:158 | doc_type:owners_manual
 •
 Когда поверхность датчиков системы
 «парктронике
@@ -18460,7 +17388,6 @@ HDC
 •
 
 ### Когда поверхность датчиков системы
-`livan_9_ru_fefe9066` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:158 | doc_type:owners_manual
 «парктроникезагрязнена,
 система
 может
@@ -18480,7 +17407,6 @@ HDC
 сигнал тревоги.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_fbc85e4c` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:158 | doc_type:owners_manual
 5
 8
 7
@@ -18512,7 +17438,6 @@ HDC
 •
 
 ### При движении автомобиля во время
-`livan_9_ru_9670863d` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:159 | doc_type:owners_manual
 снега
 или
 дождя
@@ -18555,7 +17480,6 @@ HDC
 технического обслуживания.
 
 ### Если позади автомобиля в одном
-`livan_9_ru_b6792e80` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:159 | doc_type:owners_manual
 направлении
 есть
 несколько
@@ -18593,7 +17517,6 @@ HDC
 будут
 
 ### Запуск двигателя и вождение
-`livan_9_ru_d487518c` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:159 | doc_type:owners_manual
 158
 отправляться,
 основываясь
@@ -18619,7 +17542,6 @@ HDC
 к неисправностям.
 
 ### Система
-`livan_9_ru_1400174b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 наблюдения
 за
 задним ходом
@@ -18642,7 +17564,6 @@ HDC
 передаче
 
 ### (R),
-`livan_9_ru_ec631800` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:160 | doc_type:owners_manual
 изображение
 автоматически
 отображается
@@ -18666,7 +17587,6 @@ HDC
 отображавшийся интерфейс.
 
 ### Система
-`livan_9_ru_1400174b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 наблюдения
 за
 задним
@@ -18678,7 +17598,6 @@ HDC
 •
 
 ### Камера
-`livan_9_ru_6a6e47d6` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:160 | doc_type:owners_manual
 заднего
 вида
 не
@@ -18692,7 +17611,6 @@ HDC
 •
 
 ### Камера
-`livan_9_ru_6a6e47d6` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:160 | doc_type:owners_manual
 заднего
 вида
 может
@@ -18762,7 +17680,6 @@ HDC
 автомобиля.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_10ab7818` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:160 | doc_type:owners_manual
 5
 8
 7
@@ -18783,7 +17700,6 @@ HDC
 знака.
 
 ### Область
-`livan_9_ru_d2ec82d0` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:161 | doc_type:owners_manual
 съемки
 камеры
 заднего
@@ -18793,7 +17709,6 @@ HDC
 предметы в углах или под бампером.
 
 ### Изображение
-`livan_9_ru_d7059176` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 на
 дисплее
 может
@@ -18808,7 +17723,6 @@ HDC
 отличается от фактического.
 
 ### Вспомогательная
-`livan_9_ru_b6e8244e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 линия
 заднего хода
 Две
@@ -18826,7 +17740,6 @@ HDC
 автомобиля до предмета.
 
 ### Отображение расстояния от объекта до
-`livan_9_ru_d62897dc` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:161 | doc_type:owners_manual
 нижней
 части
 бампера
@@ -18835,14 +17748,12 @@ HDC
 1. Красный цвет 0.5 м;
 
 ### Запуск двигателя и вождение
-`livan_9_ru_467db4d1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 160
 Интеллектуальная
 система вождения
 Система управления круизконтролем (СС)
 
 ### Благодаря
-`livan_9_ru_93b73d81` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 системе
 управления
 круизконтролем
@@ -18857,7 +17768,6 @@ HDC
 непосредственно время на педаль газа.
 
 ### В
-`livan_9_ru_9fc8ee2c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 ситуациях,
 когда
 невозможно
@@ -18892,20 +17802,17 @@ HDC
 Настройка круиз-контроля
 
 ### Кнопка
-`livan_9_ru_def08f07` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:162 | doc_type:owners_manual
 управления
 круиз-контролем
 расположена на левой стороне рулевого
 колеса.
 
 ### Короткое нажатие кнопки позволяет
-`livan_9_ru_fe60f3c3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 включить/выключить/выйти
 из
 системы круиз-контроля.
 
 ### Длинное нажатие кнопку позволяет
-`livan_9_ru_fcbb86e5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 выйти из системы круиз-контроля.
 2. Кнопки
 регулировки
@@ -18915,7 +17822,6 @@ HDC
 •
 
 ### RES/+
-`livan_9_ru_50ce23ba` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 (возобновление
 /
 увеличение скорости)
@@ -18929,7 +17835,6 @@ HDC
 направлении
 
 ### RES/+,
-`livan_9_ru_16f65c48` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 чтобы
 возобновить
 работу
@@ -18941,7 +17846,6 @@ HDC
 •
 
 ### SET/-
-`livan_9_ru_dad1e658` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 (настройка
 /
 снижение
@@ -18956,7 +17860,6 @@ HDC
 направлении
 
 ### SET/-,
-`livan_9_ru_26ce71d6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 чтобы
 установить
 текущую
@@ -18986,7 +17889,6 @@ HDC
 круизконтроля.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_2506db33` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 5
 8
 7
@@ -19007,7 +17909,6 @@ HDC
 индикатор состояния круиз-контроля.
 
 ### 2. Для
-`livan_9_ru_240fdb1f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 установки
 текущей
 скорости
@@ -19023,7 +17924,6 @@ HDC
 направлении вниз.
 
 ### 3. Нажимая
-`livan_9_ru_f1236d25` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 кнопку
 регулировки
 и
@@ -19041,7 +17941,6 @@ HDC
 использовании круиз-контроля.
 
 ### Возобновление
-`livan_9_ru_79407778` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:163 | doc_type:owners_manual
 работы
 на
 установленной скорости
@@ -19063,7 +17962,6 @@ HDC
 направлении
 
 ### RES/+.
-`livan_9_ru_de627855` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 Так
 автомобиль
 разгонится
@@ -19071,7 +17969,6 @@ HDC
 предварительно заданной скорости.
 
 ### Увеличение
-`livan_9_ru_80297398` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 скорости
 при
 использовании круиз-контроля
@@ -19107,7 +18004,6 @@ HDC
 направлении
 
 ### Сначала
-`livan_9_ru_917cb634` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 скорость
 круиз-контроля
 настроится на кратность 5, а затем
@@ -19131,7 +18027,6 @@ RES/+, и при каждом нажатии скорость
 на 1 км/ч.
 
 ### Уменьшение
-`livan_9_ru_a75df5c8` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:163 | doc_type:owners_manual
 скорости
 при
 использовании круиз-контроля
@@ -19147,7 +18042,6 @@ RES/+, и при каждом нажатии скорость
 круиз-контроля.
 
 ### Когда скорость автомобиля снизится
-`livan_9_ru_85cee7ae` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 до
 желаемой,
 нажмите
@@ -19171,7 +18065,6 @@ RES/+, и при каждом нажатии скорость
 направлении
 
 ### Сначала
-`livan_9_ru_917cb634` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 скорость
 круиз-контроля
 настроится на кратность 5, а затем
@@ -19182,7 +18075,6 @@ RES/+, и при каждом нажатии скорость
 направлении
 
 ### SET/-,
-`livan_9_ru_07bf042b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 и
 при
 каждом
@@ -19196,7 +18088,6 @@ RES/+, и при каждом нажатии скорость
 увеличивается или уменьшается с
 
 ### Запуск двигателя и вождение
-`livan_9_ru_9645bd49` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:163 | doc_type:owners_manual
 162
 помощью
 кнопок
@@ -19230,7 +18121,6 @@ RES/+, и при каждом нажатии скорость
 круиз-контроля
 
 ### Используйте
-`livan_9_ru_97e7f2aa` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 педаль
 газа,
 чтобы
@@ -19249,7 +18139,6 @@ RES/+, и при каждом нажатии скорость
 на дороге с уклоном
 
 ### Работа
-`livan_9_ru_df0a1c6a` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:164 | doc_type:owners_manual
 системы
 круиз-контроля
 на
@@ -19286,7 +18175,6 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### Установите
-`livan_9_ru_6ecd9996` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 рычаг
 переключения
 передач в положение (N).
@@ -19304,20 +18192,17 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### Длинное
-`livan_9_ru_79fac71d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 нажатие
 на
 кнопку
 круизконтроля выключает систему круизконтроля.
 
 ### Очищение памяти скорости
-`livan_9_ru_c3cabcd4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 При выключении системы круиз-контроля
 либо при переводе замка зажигания в
 положение
 
 ### OFF
-`livan_9_ru_6af9763a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 из
 памяти
 удаляется
@@ -19334,7 +18219,6 @@ RES/+, и при каждом нажатии скорость
 163
 
 ### Устройства
-`livan_9_ru_11effeaa` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:165 | doc_type:owners_manual
 предупреждения
 об
 опасности
@@ -19382,7 +18266,6 @@ RES/+, и при каждом нажатии скорость
 световой сигнал выключится.
 
 ### Знак аварийной остановки находится в
-`livan_9_ru_ee7bd27a` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:165 | doc_type:owners_manual
 ящике для инструментов под обшивкой
 багажника.
 На
@@ -19407,7 +18290,6 @@ RES/+, и при каждом нажатии скорость
 должна быть увеличена до 200 м.
 
 ### Неисправности во время вождения
-`livan_9_ru_b2101839` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:165 | doc_type:owners_manual
 164
 Светоотражающий жилет
 Светоотражающий
@@ -19418,7 +18300,6 @@ RES/+, и при каждом нажатии скорость
 открытии.
 
 ### В экстренной
-`livan_9_ru_7ecf34f0` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:166 | doc_type:owners_manual
 ситуации водитель
 должен
 заранее
@@ -19436,7 +18317,6 @@ RES/+, и при каждом нажатии скорость
 Аптечка первой помощи*
 
 ### Аптечка первой помощи размещается в
-`livan_9_ru_e5a85d89` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 багажном отделении.
 Неисправности во время вождения
 6
@@ -19450,7 +18330,6 @@ RES/+, и при каждом нажатии скорость
 165
 
 ### Запуск
-`livan_9_ru_663b8a1c` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:167 | doc_type:owners_manual
 от
 внешнего
 источника питания
@@ -19491,7 +18370,6 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### Содержащаяся
-`livan_9_ru_650ebfc6` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:167 | doc_type:owners_manual
 в
 аккумуляторе
 кислота может обжечь вас.
@@ -19501,19 +18379,16 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### В
-`livan_9_ru_3b341811` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:167 | doc_type:owners_manual
 аккумуляторе
 содержится
 достаточный заряд, чтобы причинить
 вам обжечь.
 
 ### Если не следовать приведенным ниже
-`livan_9_ru_a87246ae` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 инструкциям, вы можно получить травмы,
 описанные выше.
 
 ### Игнорирование этих шагов может
-`livan_9_ru_20870228` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 привести
 к
 серьезному
@@ -19531,7 +18406,6 @@ RES/+, и при каждом нажатии скорость
 повреждению автомобиля.
 
 ### Даже при неработающем двигателе
-`livan_9_ru_a9f3444e` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:167 | doc_type:owners_manual
 вентилятор охлаждения в передней
 части
 отсека
@@ -19547,7 +18421,6 @@ RES/+, и при каждом нажатии скорость
 вентилятора под капотом.
 
 ### Использование
-`livan_9_ru_649e3dd4` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:167 | doc_type:owners_manual
 открытого
 огня
 рядом
@@ -19581,7 +18454,6 @@ RES/+, и при каждом нажатии скорость
 обратитесь к врачу.
 
 ### Охлаждающий вентилятор и другие
-`livan_9_ru_a9a03421` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 движущиеся части двигателя могут
 стать причиной серьезной травмы. При
 работающем
@@ -19591,7 +18463,6 @@ RES/+, и при каждом нажатии скорость
 подальше от движущихся частей.
 
 ### 1. Выключите зажигание и выключите
-`livan_9_ru_ac2da3ab` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:167 | doc_type:owners_manual
 все
 осветительные
 приборы
@@ -19605,7 +18476,6 @@ RES/+, и при каждом нажатии скорость
 сигнализации (при необходимости).
 
 ### Неисправности во время вождения
-`livan_9_ru_72852f03` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 166
 2. Подсоедините один конец красного
 положительного
@@ -19617,14 +18487,12 @@ RES/+, и при каждом нажатии скорость
 клемме
 
 ### (A)
-`livan_9_ru_70c8c39d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 автомобиля,
 который
 нужно
 запустить от внешнего источника.
 
 ### 3. Не допускайте контакта другого конца
-`livan_9_ru_e82da400` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 красного положительного (+) кабеля с
 металлом.
 Подсоедините
@@ -19635,7 +18503,6 @@ RES/+, и при каждом нажатии скорость
 клемме
 
 ### (B)
-`livan_9_ru_922888f9` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:168 | doc_type:owners_manual
 работающего аккумулятора.
 4. Подсоедините
 один
@@ -19650,7 +18517,6 @@ RES/+, и при каждом нажатии скорость
 клемме
 
 ### (C)
-`livan_9_ru_a909eee9` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:168 | doc_type:owners_manual
 работающего
 аккумулятора.
 Не
@@ -19660,7 +18526,6 @@ RES/+, и при каждом нажатии скорость
 шагу.
 
 ### Подключайте
-`livan_9_ru_1db44155` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:168 | doc_type:owners_manual
 другой
 конец
 отрицательного
@@ -19677,7 +18542,6 @@ RES/+, и при каждом нажатии скорость
 разряженным аккумулятором.
 
 ### 5. Подсоедините другой конец черного
-`livan_9_ru_4b400f44` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 отрицательного
 (-)
 кабеля
@@ -19685,7 +18549,6 @@ RES/+, и при каждом нажатии скорость
 неокрашенной металлической части
 
 ### (D)
-`livan_9_ru_03c17981` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:168 | doc_type:owners_manual
 автомобиля
 с
 разряженным
@@ -19697,7 +18560,6 @@ RES/+, и при каждом нажатии скорость
 аккумулятором.
 
 ### 6. Запустите двигатель
-`livan_9_ru_17777047` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:168 | doc_type:owners_manual
 автомобиля
 с
 заряженным аккумулятором и дайте
@@ -19705,7 +18567,6 @@ RES/+, и при каждом нажатии скорость
 менее четырех минут.
 
 ### 7. Попытайтесь завести автомобиль с
-`livan_9_ru_cd418df8` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:168 | doc_type:owners_manual
 разряженным
 аккумулятором.
 Если
@@ -19727,7 +18588,6 @@ RES/+, и при каждом нажатии скорость
 входят в сферу гарантийного ремонта.
 
 ### Поэтому необходимо подсоединять или
-`livan_9_ru_6c73115c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 снимать кабели в правильном порядке и
 следить
 за
@@ -19743,7 +18603,6 @@ RES/+, и при каждом нажатии скорость
 металлических элементов.
 
 ### Последовательность операций
-`livan_9_ru_5a6adaf0` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:168 | doc_type:owners_manual
 по отсоединению кабелей двух
 автомобилей
 1. Отсоедините черный отрицательный
@@ -19755,7 +18614,6 @@ RES/+, и при каждом нажатии скорость
 разряженным аккумулятором.
 
 ### 2. Отсоедините черный отрицательный
-`livan_9_ru_b5d317ef` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:168 | doc_type:owners_manual
 (-)
 провод
 в
@@ -19764,7 +18622,6 @@ RES/+, и при каждом нажатии скорость
 работающим аккумулятором.
 
 ### 3. Отсоедините красный положительный
-`livan_9_ru_fc8ca116` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:168 | doc_type:owners_manual
 (+)
 кабель
 в
@@ -19773,7 +18630,6 @@ RES/+, и при каждом нажатии скорость
 работающим аккумулятором.
 
 ### 4. Отсоедините красный положительный
-`livan_9_ru_e6e9d811` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:168 | doc_type:owners_manual
 (+)
 кабель
 в
@@ -19782,7 +18638,6 @@ RES/+, и при каждом нажатии скорость
 разряженным аккумулятором.
 
 ### Неисправности во время вождения
-`livan_9_ru_7cda9383` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 6
 8
 7
@@ -19796,7 +18651,6 @@ RES/+, и при каждом нажатии скорость
 Подсказки по буксировке
 
 ### Все средства для буксировки должны
-`livan_9_ru_c70f064b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 использовать
 систему
 предохранительных
@@ -19809,7 +18663,6 @@ RES/+, и при каждом нажатии скорость
 региона.
 
 ### Колеса
-`livan_9_ru_e6724bab` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 и
 оси,
 соприкасающиеся
@@ -19821,7 +18674,6 @@ RES/+, и при каждом нажатии скорость
 тележку.
 
 ### 1. При
-`livan_9_ru_d64de08b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 использовании
 гибкого
 соединительного тягового устройства
@@ -19840,7 +18692,6 @@ RES/+, и при каждом нажатии скорость
 м.
 
 ### Буксируемое
-`livan_9_ru_e67204e2` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:169 | doc_type:owners_manual
 транспортное
 средство
 с
@@ -19858,7 +18709,6 @@ RES/+, и при каждом нажатии скорость
 трубы).
 
 ### 2. И
-`livan_9_ru_79e9d08d` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:169 | doc_type:owners_manual
 буксирующее,
 и
 буксируемое
@@ -19871,7 +18721,6 @@ RES/+, и при каждом нажатии скорость
 сигнализацию.
 
 ### 3. Если
-`livan_9_ru_b2daebad` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 вы
 хотите
 буксировать
@@ -19885,7 +18734,6 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### Установите
-`livan_9_ru_a0eecf62` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 рычаг
 переключения
 передач в нейтральное положение
@@ -19893,7 +18741,6 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### Не буксируйте на скорости более
-`livan_9_ru_159d6941` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 50 км/ч.
 •
 Расстояние буксировки не должно
@@ -19901,7 +18748,6 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### При использовании специального
-`livan_9_ru_3dc27433` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 тягача
 разрешается
 поднимать
@@ -19914,7 +18760,6 @@ RES/+, и при каждом нажатии скорость
 буксировки.
 
 ### Никогда не буксируйте автомобиль
-`livan_9_ru_37c29c3d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 с
 автоматической
 коробкой
@@ -19923,7 +18768,6 @@ RES/+, и при каждом нажатии скорость
 повреждению коробки передач.
 
 ### Запрещается
-`livan_9_ru_0db588d7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 буксировать
 данное
 транспортное средство при следующих
@@ -19954,21 +18798,18 @@ RES/+, и при каждом нажатии скорость
 более 50 км.
 
 ### Автомобиль
-`livan_9_ru_60e492cd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 оборудован
 съемной
 буксировочной проушиной в ящике для
 инструментов в багажном отделении.
 
 ### Неисправности во время вождения
-`livan_9_ru_8c9fcc6d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 168
 Установка
 переднего/заднего
 буксировочного кольца
 
 ### Положение
-`livan_9_ru_3d7ea394` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:170 | doc_type:owners_manual
 установки
 буксировочного
 кольца - с правой стороны переднего/
@@ -20006,7 +18847,6 @@ RES/+, и при каждом нажатии скорость
 автомобиля.
 
 ### Однако
-`livan_9_ru_d5e4fe22` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 его
 нельзя
 использовать
@@ -20018,7 +18858,6 @@ RES/+, и при каждом нажатии скорость
 автомобиль.
 
 ### Неисправности во время вождения
-`livan_9_ru_150a38ca` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 6
 8
 7
@@ -20053,7 +18892,6 @@ RES/+, и при каждом нажатии скорость
 информации.
 
 ### Другую информацию можно запросить у
-`livan_9_ru_ae70616e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 производителя шин.
 Использовать
 плохо
@@ -20063,7 +18901,6 @@ RES/+, и при каждом нажатии скорость
 эксплуатируемые шины опасно.
 
 ### Перекачанные
-`livan_9_ru_06fcd872` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 или
 недостаточно
 накачанные шины вызывают чрезмерный
@@ -20076,7 +18913,6 @@ RES/+, и при каждом нажатии скорость
 получению серьезных травм или смерти.
 
 ### Все шины следует регулярно проверять и
-`livan_9_ru_d081c7ce` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 поддерживать рекомендуемое давление.
 Давление в шинах следует проверять в
 холодном
@@ -20091,7 +18927,6 @@ RES/+, и при каждом нажатии скорость
 данныее.
 
 ### Перекачанные
-`livan_9_ru_06fcd872` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 шины
 с
 большей
@@ -20108,7 +18943,6 @@ RES/+, и при каждом нажатии скорость
 рекомендуемое давление в шине.
 
 ### Изношенные шины могут стать причиной
-`livan_9_ru_706e9659` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 аварии. Если протектор шины сильно
 изношен
 или
@@ -20118,7 +18952,6 @@ RES/+, и при каждом нажатии скорость
 подлежит незамедлительной замене.
 
 ### В
-`livan_9_ru_257640ac` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 шине
 должно
 быть
@@ -20126,7 +18959,6 @@ RES/+, и при каждом нажатии скорость
 давление для эффективной работы.
 
 ### Недостаточное
-`livan_9_ru_0e178b6e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 или
 чрезмерное
 давление в шинах может сказаться
@@ -20140,7 +18972,6 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### Чрезмерная деформация
-`livan_9_ru_959bdef8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 •
 Перегрев
 •
@@ -20152,7 +18983,6 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### Плохая управляемость
-`livan_9_ru_ad16c86e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 •
 Повышение расхода топлива
 При избыточном давлении в шине могут
@@ -20160,7 +18990,6 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### Аномальный износ
-`livan_9_ru_64317634` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 •
 Плохая управляемость
 •
@@ -20180,7 +19009,6 @@ RES/+, и при каждом нажатии скорость
 шинах.
 
 ### Табличка
-`livan_9_ru_dce6ac80` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 находится
 на
 левой
@@ -20191,13 +19019,11 @@ RES/+, и при каждом нажатии скорость
 ней
 
 ### Неисправности во время вождения
-`livan_9_ru_c4e392ff` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 170
 указано давление в передних и задних
 шинах автомобиля.
 
 ### Система контроля давления в
-`livan_9_ru_66938b6a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 шинах
 Каждая шина должна быть накачана до
 значения
@@ -20211,7 +19037,6 @@ RES/+, и при каждом нажатии скорость
 давления на левой центральной стойке.
 
 ### Давление в шине должно проверяться
-`livan_9_ru_d2270ff1` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:172 | doc_type:owners_manual
 ежемесячно. Система контроля давления
 в
 шинах
@@ -20230,7 +19055,6 @@ RES/+, и при каждом нажатии скорость
 лампа
 
 ### TPMS,
-`livan_9_ru_5525233e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 сигнализирующая
 об
 аномальном
@@ -20240,7 +19064,6 @@ RES/+, и при каждом нажатии скорость
 аномально.
 
 ### Следует
-`livan_9_ru_39bef322` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 немедленно
 остановиться
 и
@@ -20250,7 +19073,6 @@ RES/+, и при каждом нажатии скорость
 давление в ней.
 
 ### Система
-`livan_9_ru_9b9ff2e6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 контроля
 давления
 в
@@ -20276,7 +19098,6 @@ RES/+, и при каждом нажатии скорость
 и
 
 ### ДТП,
-`livan_9_ru_29598c80` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 а
 также
 обеспечить
@@ -20287,7 +19108,6 @@ RES/+, и при каждом нажатии скорость
 система контроля давления в шинах.
 
 ### Когда давление в одной или нескольких
-`livan_9_ru_7d3f4b0c` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:172 | doc_type:owners_manual
 шинах автомобиля слишком низкое или
 система
 контроля
@@ -20299,7 +19119,6 @@ RES/+, и при каждом нажатии скорость
 лампа
 
 ### TPMS,
-`livan_9_ru_5525233e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 сигнализирующая
 об
 аномальном
@@ -20307,7 +19126,6 @@ RES/+, и при каждом нажатии скорость
 текстовые оповещения.
 
 ### Неполадки
-`livan_9_ru_856664b9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 системы
 контроля
 давления в шинах
@@ -20323,7 +19141,6 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### Езда по неровной дороге в течение
-`livan_9_ru_88cd5fe8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 длительного
 времени
 или
@@ -20340,7 +19157,6 @@ RES/+, и при каждом нажатии скорость
 длительные непрерывные повороты).
 
 ### Когда система контроля давления в
-`livan_9_ru_66e93daa` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 шинах сообщает в виде текстового
 оповещения
 «Система
@@ -20362,7 +19178,6 @@ RES/+, и при каждом нажатии скорость
 дороге.
 
 ### Калибровка
-`livan_9_ru_85e18fa4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 системы
 контроля
 давления в шинах
@@ -20387,7 +19202,6 @@ RES/+, и при каждом нажатии скорость
 давления в шинах.
 
 ### Неисправности во время вождения
-`livan_9_ru_9601026f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 6
 8
 7
@@ -20403,7 +19217,6 @@ RES/+, и при каждом нажатии скорость
 проходит следующим образом:
 
 ### 1. Отрегулируйте давление в шинах до
-`livan_9_ru_412d5566` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 рекомендуемых параметров из части
 «Давление
 в
@@ -20416,7 +19229,6 @@ RES/+, и при каждом нажатии скорость
 «Технические данныее.
 
 ### 2. Переведите
-`livan_9_ru_1df1dc3e` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:173 | doc_type:owners_manual
 кнопку
 включения
 в
@@ -20427,7 +19239,6 @@ ON
 двигатель.
 
 ### 3. В
-`livan_9_ru_50fcfd08` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:173 | doc_type:owners_manual
 интерфейсе
 настройки
 мультимедиа
@@ -20445,12 +19256,10 @@ ON
 состоянии покоя.
 
 ### 4. Подождите несколько секунд до того,
-`livan_9_ru_49ad62ce` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 как появится системное сообщение о
 том, что калибровка началась.
 
 ### 5. Автомобиль
-`livan_9_ru_000b0388` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 должен
 непрерывно
 двигаться по ровной дороге общего
@@ -20458,7 +19267,6 @@ ON
 км/ч до завершения калибровки.
 
 ### 6. После
-`livan_9_ru_fb4e259f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 того,
 как
 будет
@@ -20475,7 +19283,6 @@ ON
 завершения калибровки.
 
 ### Если транспортное средство будет
-`livan_9_ru_76ffe162` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 заглушено и снова запущено до
 завершения
 калибровки,
@@ -20496,7 +19303,6 @@ ON
 правильно.
 
 ### Калибровка
-`livan_9_ru_59252110` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 системы
 контроля давления в шинах может занять
 больше
@@ -20508,14 +19314,12 @@ ON
 запуститься.
 
 ### Система
-`livan_9_ru_72e1f907` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 больше
 не
 предоставляет никаких дополнительных
 подтверждений завершения калибровки.
 
 ### 7. Если
-`livan_9_ru_fc25e37a` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:173 | doc_type:owners_manual
 калибровка
 не
 запускается,
@@ -20530,7 +19334,6 @@ TPMS
 калибровки.
 
 ### Если корректное базовое значение
-`livan_9_ru_ea7e0aea` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 не
 установлено,
 система
@@ -20539,7 +19342,6 @@ TPMS
 низком давлении в шинах.
 
 ### Система
-`livan_9_ru_72e1f907` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 будет
 продолжать
 сообщать
@@ -20572,13 +19374,11 @@ TPMS
 давлении в шинах.
 
 ### Когда нужно проверять шины
-`livan_9_ru_ecfc3e2b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 Проверяйте шины, включая запасную, не
 реже одного раза в месяц. Давление в
 запасной шине см. в главе «Давление в
 
 ### Неисправности во время вождения
-`livan_9_ru_2eea1831` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 172
 шинах
 (холодное
@@ -20587,7 +19387,6 @@ TPMS
 «Технических данныхе.
 
 ### Проверьте давление в шинах с помощью
-`livan_9_ru_d43ac655` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 карманного
 шинного
 манометра
@@ -20610,7 +19409,6 @@ TPMS
 состоянии.
 
 ### Холодные
-`livan_9_ru_d23dde7e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 шины
 —
 ваш
@@ -20628,7 +19426,6 @@ TPMS
 шины.
 
 ### Плотно
-`livan_9_ru_c3406cbd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 прижмите
 манометр
 к
@@ -20653,14 +19450,12 @@ TPMS
 манометра.
 
 ### Обязательно
-`livan_9_ru_272fda8f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 установите
 колпачок клапана обратно на ниппель.
 Колпачки клапана защищают от грязи и
 влаги.
 
 ### На необходимость замены шин влияют
-`livan_9_ru_1a87de4a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 различные
 факторы,
 такие
@@ -20688,7 +19483,6 @@ TPMS
 изношен до 1,6 мм или меньше.
 
 ### Новые шины требуются в следующих
-`livan_9_ru_5b2ff105` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 ситуациях:
 •
 На шине есть как минимум 3 место с
@@ -20696,7 +19490,6 @@ TPMS
 •
 
 ### Сквозь резину шины можно увидеть
-`livan_9_ru_ec004d4a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 корд или протекторную ткань.
 •
 Протектор или боковая стенка имеют
@@ -20718,7 +19511,6 @@ TPMS
 ремонту.
 
 ### Качество резины в шинах со временем
-`livan_9_ru_85660696` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 ухудшается, даже если эти шины никогда
 не использовались. На скорость старения
 могут влиять разные факторы, включая
@@ -20737,7 +19529,6 @@ TPMS
 шины обычно изнашиваются раньше, чем
 
 ### Неисправности во время вождения
-`livan_9_ru_b80c6de3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 6
 8
 7
@@ -20756,7 +19547,6 @@ TPMS
 производителю.
 
 ### Утилизируйте
-`livan_9_ru_64998345` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 использованные
 шины
 в
@@ -20769,7 +19559,6 @@ TPMS
 окружающей среды.
 
 ### Покупка новых шин
-`livan_9_ru_396ef88d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 При покупке новых шин убедитесь, что
 они
 подходят
@@ -20786,7 +19575,6 @@ TPMS
 производителя.
 
 ### Рекомендуется
-`livan_9_ru_2d76ad7c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 производить замену сразу четырех шин.
 См. главу «Проверка и замена шине в
 этом
@@ -20796,7 +19584,6 @@ TPMS
 соответствующей информации.
 
 ### Установка
-`livan_9_ru_7b249b19` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 шин
 из
 разных
@@ -20815,7 +19602,6 @@ TPMS
 управляемости.
 
 ### Использование
-`livan_9_ru_b3fa0806` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 шин
 разных размеров и типов также может
 привести к повреждению автомобиля. На
@@ -20831,7 +19617,6 @@ TPMS
 пробега.
 
 ### Внезапная
-`livan_9_ru_8705f31d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 потеря
 контроля
 над
@@ -20845,7 +19630,6 @@ TPMS
 использовать только радиальные шины.
 
 ### Использование колес или шин другого
-`livan_9_ru_52d84b5e` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:175 | doc_type:owners_manual
 размера,
 отличные
 от
@@ -20905,7 +19689,6 @@ TPMS
 травм.
 
 ### Если переднее колесо выходит из
-`livan_9_ru_6c4f34b8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 строя и необходимо использовать
 запасное
 колесо,
@@ -20917,7 +19700,6 @@ TPMS
 колеса.
 
 ### В
-`livan_9_ru_2ded26f5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 целях
 обеспечения
 безопасности
@@ -20930,7 +19712,6 @@ TPMS
 затем установите запасное колесо на
 
 ### Неисправности во время вождения
-`livan_9_ru_61d1009f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 174
 место заднего. После подгонки обычных
 задних колес автомобиля к передним
@@ -20969,7 +19750,6 @@ Livan
 обеспечения безопасности вождения.
 
 ### Перестановка шин
-`livan_9_ru_977b98f7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 Мы
 рекомендуем
 вам
@@ -20982,7 +19762,6 @@ Livan
 повреждений.
 
 ### Подробнее
-`livan_9_ru_d99d22d0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 см.
 в части
 «Когда
@@ -21039,7 +19818,6 @@ Livan
 в шинахе в данном разделе.
 
 ### Ржавчина или грязь на колесах или
-`livan_9_ru_fa6bb94b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 креплениях
 колес
 могут
@@ -21051,7 +19829,6 @@ Livan
 месте соединения колеса с автомобилем.
 
 ### В
-`livan_9_ru_850f6e83` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 экстренных
 случаях
 можно
@@ -21061,7 +19838,6 @@ Livan
 скребка или проволочной щетки.
 
 ### Регулировка
-`livan_9_ru_5a2ed2b6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 и
 балансировка
 колес
@@ -21079,7 +19855,6 @@ Livan
 шин не требуют регулярного выполнения.
 
 ### Неисправности во время вождения
-`livan_9_ru_b47f968c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 6
 8
 7
@@ -21108,7 +19883,6 @@ Livan
 колес.
 
 ### Если автомобиль испытывает тряску при
-`livan_9_ru_b287e3b6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 движении по ровной поверхности, может
 потребоваться повторная балансировка
 шин и колес. Пожалуйста, немедленно
@@ -21119,7 +19893,6 @@ Livan
 обслуживания
 
 ### LIVAN
-`livan_9_ru_04c7b9d6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 для
 проведения
 диагностики.
@@ -21143,7 +19916,6 @@ Livan
 заменить.
 
 ### В
-`livan_9_ru_618258d3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 случае
 любой
 из
@@ -21180,7 +19952,6 @@ Livan
 датчики
 
 ### TPMS
-`livan_9_ru_e65ba195` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 подойдут
 вашему
 автомобилю.
@@ -21206,7 +19977,6 @@ Livan
 автомобилем.
 
 ### Несчастные
-`livan_9_ru_e44df49f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 случаи
 могут
 привести к
@@ -21219,7 +19989,6 @@ Livan
 колесную гайку.
 
 ### Использование некорректных типов
-`livan_9_ru_db7bf5ab` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:177 | doc_type:owners_manual
 колес
 также
 может
@@ -21247,7 +20016,6 @@ Livan
 противоскольжения и кузовом и шасси.
 
 ### Ставить старые колеса на автомобиль
-`livan_9_ru_5b878e69` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 опасно.
 Потому
 что
@@ -21275,7 +20043,6 @@ Livan
 колеса от оригинального производителя.
 
 ### Зимние шины
-`livan_9_ru_418008a5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 Если
 планируется
 частая
@@ -21287,7 +20054,6 @@ Livan
 лучше всего оснастить зимними шинами.
 
 ### Всесезонные шины могут не обеспечить
-`livan_9_ru_4aaa005f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 желаемого
 сцепления
 или
@@ -21297,7 +20063,6 @@ Livan
 заснеженных дорогах.
 
 ### Зимние
-`livan_9_ru_bac8eec8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 шины
 используются
 для
@@ -21306,7 +20071,6 @@ Livan
 использования зимних
 
 ### Неисправности во время вождения
-`livan_9_ru_3655d3d8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 176
 шин
 вы
@@ -21327,7 +20091,6 @@ Livan
 и торможении.
 
 ### Для получения подробной информации о
-`livan_9_ru_9eb130e2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 наличии
 зимних
 шин
@@ -21339,7 +20102,6 @@ Livan
 •
 
 ### Используйте
-`livan_9_ru_ca562dc1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 шины
 от
 одного
@@ -21348,7 +20110,6 @@ Livan
 •
 
 ### Используйте только радиальные шины
-`livan_9_ru_6741124c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 того же размера, диапазона нагрузки и
 скорости, что и шины от оригинального
 производителя.
@@ -21364,7 +20125,6 @@ Livan
 скорость шины.
 
 ### Цепь противоскольжения
-`livan_9_ru_7bd52483` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 Цепи
 противоскольжения
 не
@@ -21384,7 +20144,6 @@ Livan
 водите осторожно и на малых скоростях.
 
 ### В противном случае автомобиль может
-`livan_9_ru_103f2f51` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 быть
 поврежден
 или
@@ -21393,7 +20152,6 @@ Livan
 качества могут ухудшиться.
 
 ### При установке цепей противоскольжения
-`livan_9_ru_298f558c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 необходимо
 выбирать
 цепи,
@@ -21413,7 +20171,6 @@ Livan
 дороге.
 
 ### Если шина лопнет во время движения
-`livan_9_ru_e0d521cd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 автомобиля,
 произойдут
 следующие
@@ -21428,7 +20185,6 @@ Livan
 ситуаций):
 
 ### Неисправности во время вождения
-`livan_9_ru_79d83625` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 6
 8
 7
@@ -21456,7 +20212,6 @@ Livan
 руль.
 
 ### Направьте
-`livan_9_ru_ec626b6f` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:179 | doc_type:owners_manual
 автомобиль,
 чтобы
 остаться
@@ -21478,7 +20233,6 @@ Livan
 заносе.
 
 ### Поэтому
-`livan_9_ru_f0d594e5` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:179 | doc_type:owners_manual
 следует принимать те же меры, что и
 при заносе. Поверните рулевое колесо
 в
@@ -21516,7 +20270,6 @@ Livan
 следующие действия:
 
 ### 1. Медленно выведите автомобиль на
-`livan_9_ru_3e63cbce` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 безопасную
 ровную
 поверхность,
@@ -21526,7 +20279,6 @@ Livan
 повреждения шин и колес.
 
 ### 2. Включите
-`livan_9_ru_d1b3e012` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 аварийные
 сигнальные
 лампы.
@@ -21534,7 +20286,6 @@ Livan
 Замена шин может быть опасной.
 
 ### Автомобиль может соскользнуть с
-`livan_9_ru_138c8318` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 домкрата и опрокинуться на человека,
 что приведет к телесным повреждениям
 или смерти. Замените шины на ровной
@@ -21548,7 +20299,6 @@ Livan
 •
 
 ### Поставьте автомобиль на стояночный
-`livan_9_ru_6c8f1a53` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:179 | doc_type:owners_manual
 тормоз.
 •
 Переведите селектор коробки передач
@@ -21568,7 +20318,6 @@ Livan
 •
 
 ### Не позволяйте пассажирам оставаться
-`livan_9_ru_3a1e1465` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 в автомобиле.
 •
 Перед
@@ -21580,7 +20329,6 @@ Livan
 оставшихся колес.
 
 ### Выньте
-`livan_9_ru_90317133` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 запасное
 колесо
 и
@@ -21588,7 +20336,6 @@ Livan
 Домкрат и инструменты водителя
 
 ### Домкрат
-`livan_9_ru_6e8d325f` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:179 | doc_type:owners_manual
 и
 необходимые
 инструменты
@@ -21596,7 +20343,6 @@ Livan
 обшивкой багажника.
 
 ### Неисправности во время вождения
-`livan_9_ru_fd37dd16` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 178
 Пожалуйста,
 используйте
@@ -21607,7 +20353,6 @@ Livan
 автомобилем.
 
 ### Запрещается
-`livan_9_ru_d48592d1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 использовать
 другие
 неподходящие домкраты, в противном
@@ -21617,7 +20362,6 @@ Livan
 автомобиля.
 
 ### Запасное колесо хранится в багажнике
-`livan_9_ru_32f7c941` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:180 | doc_type:owners_manual
 под ящиком для инструментов. Откройте
 обшивку
 багажника, выньте ящик для
@@ -21628,7 +20372,6 @@ Livan
 запасное колесо.
 
 ### Запасное
-`livan_9_ru_7a3205dd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 колесо
 автомобиля
 представляет собой маленькое Тобразное колесо. При его использовании
@@ -21646,14 +20389,12 @@ Livan
 обслуживания
 
 ### LIVAN
-`livan_9_ru_a0d9babf` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 как
 можно скорее.
 Снимите спущенное колесо и
 установите запасное
 
 ### 1. Перед
-`livan_9_ru_254f087c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 эксплуатацией
 проведите
 проверку безопасности.
@@ -21676,7 +20417,6 @@ Livan
 колпачок на себя.
 
 ### 3. Наденьте
-`livan_9_ru_4d8995ac` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 балонный
 ключ
 на
@@ -21686,7 +20426,6 @@ Livan
 оборот, но не откручивайте гайки.
 
 ### Неисправности во время вождения
-`livan_9_ru_5e2fb345` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 6
 8
 7
@@ -21707,7 +20446,6 @@ Livan
 под точку подъема.
 
 ### Неправильное
-`livan_9_ru_1c9b5e7a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 положение
 опоры
 домкрата при подъеме автомобиля
@@ -21746,14 +20484,12 @@ Livan
 погибнуть.
 
 ### Запрещается
-`livan_9_ru_96c94f81` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 находиться
 под
 автомобилем, поддерживаемым только
 домкратом.
 
 ### Опасно поднимать автомобиль и
-`livan_9_ru_4201e94b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 садиться в него для технического
 обслуживания или ремонта, не обладая
 навыками и надлежащим оборудованием
@@ -21779,7 +20515,6 @@ Livan
 соскользнет с домкрата.
 
 ### 6. Поверните ручку домкрата по часовой
-`livan_9_ru_f22a0dbb` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 стрелке, как показано, чтобы поднять
 автомобиль достаточно высоко над
 землей,
@@ -21789,14 +20524,12 @@ Livan
 установить запасное колесо.
 
 ### 8. Снимите
-`livan_9_ru_a6aff70c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 деформированную
 шину.
 Если обод сделан из железа, нужно
 снять и декоративную накладку.
 
 ### 9. Удалите
-`livan_9_ru_e73d2f9a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 ржавчину
 или
 грязь
@@ -21807,7 +20540,6 @@ Livan
 поверхностей и запасного колеса.
 
 ### Неисправности во время вождения
-`livan_9_ru_84bd708d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 180
 В
 экстренных
@@ -21819,7 +20551,6 @@ Livan
 скребка или проволочной щетки.
 
 ### 11. Замените
-`livan_9_ru_3739cad1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 колесные
 гайки.
 С
@@ -21832,7 +20563,6 @@ Livan
 не окажется на ступице.
 
 ### 12. Поверните
-`livan_9_ru_f165f69d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 ручку
 домкрата
 против
@@ -21843,7 +20573,6 @@ Livan
 автомобиль.
 
 ### Полностью
-`livan_9_ru_91d2c8bc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 опустите
 домкрат.
 Не наносите масло или смазку на
@@ -21856,7 +20585,6 @@ Livan
 соскочить, что приведет к аварии.
 
 ### 13. Предварительно затяните колесные
-`livan_9_ru_ae8b701f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 гайки
 в
 перекрестной
@@ -21868,12 +20596,10 @@ Livan
 уберите домкрат из-под автомобиля.
 
 ### 15. Затяните колесные гайки с помощью
-`livan_9_ru_8077695f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 баллонного ключа для колес.
 16. Установите колпачок колесной гайки.
 
 ### Если переднее колесо вышло из
-`livan_9_ru_da2e7adc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 строя,
 необходимо
 использовать
@@ -21907,7 +20633,6 @@ Livan,
 более запасных шин одновременно.
 
 ### Хранение
-`livan_9_ru_f8d3ccfa` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 спущенной
 или
 запасной
@@ -21921,7 +20646,6 @@ Livan,
 убрать в багажное отделение.
 
 ### Поместите запасное колесо в отсек в
-`livan_9_ru_390e6b16` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 багажном
 отделении
 внутренней
@@ -21930,13 +20654,11 @@ Livan,
 ключ по часовой стрелке до щелчка.
 
 ### Верните
-`livan_9_ru_ef71fbc0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 использованные
 инструменты
 на место и надежно закрепите их.
 
 ### Неисправности во время вождения
-`livan_9_ru_91393b2e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 6
 8
 7
@@ -21953,7 +20675,6 @@ Livan,
 предохранителя
 
 ### Плавкие
-`livan_9_ru_14ee5c0d` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:183 | doc_type:owners_manual
 предохранители
 защищают
 автомобильное
@@ -21961,7 +20682,6 @@ Livan,
 предотвращая перегрузки в электроцепи.
 
 ### Перегоревший
-`livan_9_ru_3606aadc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 предохранитель
 указывает на то, что цепь, которую он
 защищает, вышла из строя и перестала
@@ -21978,7 +20698,6 @@ Livan,
 B - предохранитель перегорел
 
 ### Предохранитель
-`livan_9_ru_b9cbbc45` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:183 | doc_type:owners_manual
 находится
 в
 блоке
@@ -21995,7 +20714,6 @@ B - предохранитель перегорел
 панели.
 
 ### Предохранители
-`livan_9_ru_823768b1` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:183 | doc_type:owners_manual
 бывают двух видов:
 1. Пластинчатый
 предохранитель
@@ -22009,7 +20727,6 @@ B - предохранитель перегорел
 составляет 5-30А.
 
 ### 2. Медленный
-`livan_9_ru_fda80122` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:183 | doc_type:owners_manual
 плавкий
 предохранитель
 -
@@ -22018,7 +20735,6 @@ B - предохранитель перегорел
 ток электроцепи составляет 20-60 А.
 
 ### Цвет указывает на значение силы тока
-`livan_9_ru_5d38fc5e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 предохранителя, которая также отмечена
 на предохранителе.
 Не
@@ -22041,7 +20757,6 @@ B - предохранитель перегорел
 провода.
 
 ### Неисправности во время вождения
-`livan_9_ru_03b0291b` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:183 | doc_type:owners_manual
 182
 Блок
 предохранителей
@@ -22050,7 +20765,6 @@ B - предохранитель перегорел
 1. Откройте капот моторного отсека.
 
 ### 2. Чтобы
-`livan_9_ru_01f71507` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 осмотреть
 предохранитель,
 ослабьте
@@ -22063,7 +20777,6 @@ B - предохранитель перегорел
 предохранителей.
 
 ### Попадание
-`livan_9_ru_778c6135` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 жидкости
 может
 привести к
@@ -22071,7 +20784,6 @@ B - предохранитель перегорел
 электрического компонента автомобиля.
 
 ### Следите
-`livan_9_ru_94357c7a` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:184 | doc_type:owners_manual
 за
 тем,
 чтобы
@@ -22080,7 +20792,6 @@ B - предохранитель перегорел
 электроприборов были на месте.
 
 ### Неисправности во время вождения
-`livan_9_ru_7524c552` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 6
 8
 7
@@ -22096,7 +20807,6 @@ B - предохранитель перегорел
 Наименование
 
 ### Величина в
-`livan_9_ru_2229630c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 амперах
 Примечания
 F01
@@ -22104,7 +20814,6 @@ F01
 сигнала
 
 ### 15A
-`livan_9_ru_dcae3016` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 -
 F02
 Предохранитель топливного
@@ -22116,7 +20825,6 @@ F03
 питание ECU
 
 ### 10A
-`livan_9_ru_6ad3b085` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:185 | doc_type:owners_manual
 -
 F04
 Предохранитель концевика
@@ -22125,7 +20833,6 @@ F04
 -
 
 ### F05
-`livan_9_ru_dd71e2c2` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:185 | doc_type:owners_manual
 Предохранитель 7DCT/TCU*
 30A
 -
@@ -22134,7 +20841,6 @@ F06
 дальнего света
 
 ### 5A
-`livan_9_ru_40bba4e9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 -
 F07
 Предохранитель EMS-1/ECU/
@@ -22147,7 +20853,6 @@ F07
 еля
 
 ### Величина в
-`livan_9_ru_f64d40cb` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:186 | doc_type:owners_manual
 амперах
 Примечания
 форсунки
@@ -22156,7 +20861,6 @@ F08
 кислорода
 
 ### 15A
-`livan_9_ru_26198dd9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 F09
 Предохранитель EMS_3/катушка
@@ -22166,7 +20870,6 @@ F09
 F10
 
 ### 10A
-`livan_9_ru_9b3cbd5d` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:186 | doc_type:owners_manual
 -
 F11
 Предохранитель правой фары
@@ -22175,7 +20878,6 @@ F11
 -
 
 ### Предохранитель левой фары
-`livan_9_ru_035ab8b9` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:186 | doc_type:owners_manual
 ближний свет
 10A
 -
@@ -22184,7 +20886,6 @@ F13
 дальний свет
 
 ### 10A
-`livan_9_ru_9b3cbd5d` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:186 | doc_type:owners_manual
 -
 F14
 Предохранитель правой фары
@@ -22193,7 +20894,6 @@ F14
 -
 
 ### 10A
-`livan_9_ru_9b3cbd5d` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:186 | doc_type:owners_manual
 -
 F16
 Предохранитель IBS*/датчик
@@ -22202,7 +20902,6 @@ F16
 -
 
 ### F17
-`livan_9_ru_d4cfeb42` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:186 | doc_type:owners_manual
 Предохранитель high beam*
 20A
 -
@@ -22210,7 +20909,6 @@ F18
 Предохранитель EHA/HCАэлектрогидравлический привод
 
 ### 30A
-`livan_9_ru_53928236` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:186 | doc_type:owners_manual
 -
 F19
 Предохранитель переднего
@@ -22219,7 +20917,6 @@ F19
 -
 
 ### F21
-`livan_9_ru_713251ff` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 Предохранитель ESC IG+
 5A
 -
@@ -22227,7 +20924,6 @@ F22
 Предохранитель TCU IG+ *
 
 ### 5A
-`livan_9_ru_55fa7b99` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 F23
 Предохранитель EMS IG+
@@ -22237,7 +20933,6 @@ F24
 Предохранитель BOX IG1+
 
 ### 15A
-`livan_9_ru_26198dd9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 F27
 Предохранитель ST F/D start-up
@@ -22248,7 +20943,6 @@ SB01
 Предохранитель ESC_1
 
 ### 40A
-`livan_9_ru_95924da2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 SB02
 Предохранитель B+_1
@@ -22269,7 +20963,6 @@ SB02
 еля
 
 ### Величина в
-`livan_9_ru_faca8e58` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 амперах
 Примечания
 SB03
@@ -22279,7 +20972,6 @@ SB03
 SB04
 
 ### Предохранитель обогрева
-`livan_9_ru_b8725b38` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:187 | doc_type:owners_manual
 сидений и электропривода
 30A
 -
@@ -22287,7 +20979,6 @@ SB05
 Предохранитель ACC
 
 ### 25A
-`livan_9_ru_38ec121c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 -
 SB06
 Предохранитель LO FAN
@@ -22297,7 +20988,6 @@ SB07
 Предохранитель вентилятора
 
 ### 40A
-`livan_9_ru_b2ef7e62` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 -
 SB08
 Предохранитель IG2 RLY PWR*
@@ -22307,7 +20997,6 @@ SB09
 Предохранитель HI FAN
 
 ### 60A
-`livan_9_ru_fa007c44` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:187 | doc_type:owners_manual
 -
 SB10
 Предохранитель стартера
@@ -22318,7 +21007,6 @@ SB11
 стеклоподъёмника
 
 ### 30A
-`livan_9_ru_d515f3ac` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 -
 SB12
 Предохранитель IG1
@@ -22328,7 +21016,6 @@ SB12
 186
 
 ### Внутренний
-`livan_9_ru_3cdc7b0b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 блок
 предохранителей
 Модель 1
@@ -22345,21 +21032,18 @@ SB12
 Модель 2
 
 ### Внутренний
-`livan_9_ru_3cdc7b0b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 блок
 предохранителей
 расположен с левой стороны приборной
 панели.
 
 ### Доступ
-`livan_9_ru_afda7b59` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 к
 предохранителям
 можно получить, сняв левый ящик для
 хранения.
 
 ### Неисправности во время вождения
-`livan_9_ru_27188df8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 6
 8
 7
@@ -22375,7 +21059,6 @@ SB12
 Наименование
 
 ### Величина в
-`livan_9_ru_cb46af91` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 амперах
 Примечания
 F01
@@ -22383,7 +21066,6 @@ F01
 контроллера A/C
 
 ### 10A
-`livan_9_ru_c8e709d5` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:189 | doc_type:owners_manual
 -
 F02
 Предохранитель мультимедиа/
@@ -22395,7 +21077,6 @@ F03
 вида*
 
 ### 10A
-`livan_9_ru_c8e709d5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 -
 F04
 РЕЗЕРВ
@@ -22406,7 +21087,6 @@ F05
 -
 
 ### 20A
-`livan_9_ru_a65b0109` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:189 | doc_type:owners_manual
 -
 F08
 Предохранитель подсветки
@@ -22416,7 +21096,6 @@ F08
 F13
 
 ### 5A
-`livan_9_ru_1b0c83f8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 -
 Неисправности во время вождения
 188
@@ -22425,7 +21104,6 @@ F13
 теля
 
 ### Величина в
-`livan_9_ru_00de7b9c` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:190 | doc_type:owners_manual
 амперах
 Примечания
 переключения передач *
@@ -22434,7 +21112,6 @@ F14
 безопасности
 
 ### 10A
-`livan_9_ru_607f5bc0` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:190 | doc_type:owners_manual
 -
 F15
 Предохранитель EPS_IG+
@@ -22445,7 +21122,6 @@ F16
 наклона/переключателя EPB
 
 ### 5A
-`livan_9_ru_783137f1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 -
 F18
 Приборный предохранитель
@@ -22456,7 +21132,6 @@ F19
 переключения передач *
 
 ### 5A
-`livan_9_ru_783137f1` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:190 | doc_type:owners_manual
 -
 F20
 РЕЗЕРВ
@@ -22466,7 +21141,6 @@ F23
 -
 
 ### Предохранитель заднего
-`livan_9_ru_2ef8089d` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:190 | doc_type:owners_manual
 стеклоочистителя*
 15A
 -
@@ -22474,7 +21148,6 @@ F25
 Предохранитель кондиционера
 
 ### 10A
-`livan_9_ru_607f5bc0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 -
 F26
 Предохранитель BCM_IG+
@@ -22484,7 +21157,6 @@ F27
 Предохранитель люка
 
 ### 5A
-`livan_9_ru_783137f1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 -
 F28
 Предохранитель BCM_ACC+
@@ -22495,7 +21167,6 @@ F29
 регулировка зеркала
 
 ### 10A
-`livan_9_ru_607f5bc0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 -
 F30
 Предохранитель USB
@@ -22505,7 +21176,6 @@ F31
 Предохранитель резервного питания*
 
 ### 15A
-`livan_9_ru_df303884` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 -
 F32
 Предохранитель обогрева зеркал
@@ -22515,7 +21185,6 @@ F34
 Предохранитель люка
 
 ### 5A
-`livan_9_ru_783137f1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 -
 F35
 Предохранитель BCM1_B+
@@ -22525,7 +21194,6 @@ F36
 Предохранитель BCM2_B+
 
 ### 30A
-`livan_9_ru_e722c89d` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:190 | doc_type:owners_manual
 -
 F37
 Приборный предохранитель
@@ -22536,7 +21204,6 @@ F38
 системы
 
 ### 20A
-`livan_9_ru_4330a48b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 -
 Неисправности во время вождения
 6
@@ -22553,14 +21220,12 @@ F38
 теля
 
 ### Величина в
-`livan_9_ru_9cc878db` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 амперах
 Примечания
 F39
 Диагностический предохранитель
 
 ### 10A
-`livan_9_ru_2af8402a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 -
 SB1
 Предохранитель обогрева заднего
@@ -22571,7 +21236,6 @@ SB4
 Предохранитель люка*
 
 ### 25A
-`livan_9_ru_3f85f072` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:191 | doc_type:owners_manual
 -
 SB5
 Предохранитель левого
@@ -22582,7 +21246,6 @@ SB5
 190
 
 ### Осмотр
-`livan_9_ru_09d30d4b` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:192 | doc_type:owners_manual
 и
 замена
 предохранителя
@@ -22594,7 +21257,6 @@ SB5
 аккумулятора.
 
 ### 2. Зажмите
-`livan_9_ru_6f4c0e05` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 головку
 предохранителя
 одним концом щипцов и потяните,
@@ -22610,7 +21272,6 @@ SB5
 перегорел ли металлический провод.
 
 ### 3. Замените
-`livan_9_ru_b425af6d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 перегоревший
 предохранитель на новый с таким же
 значением
@@ -22634,7 +21295,6 @@ SB5
 обслуживания
 
 ### LIVAN
-`livan_9_ru_8d6563ee` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 для проведения ремонта.
 Неисправности во время вождения
 6
@@ -22648,7 +21308,6 @@ SB5
 191
 
 ### Модели ламп
-`livan_9_ru_e27e7280` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:193 | doc_type:owners_manual
 Замена ламп обычно требует демонтажа некоторых компонентов автомобиля, поэтому
 для соответствующих операций требуются профессиональные навыки. Эксплуатация
 ламп, доступ к которым возможен только из передней части моторного отсека,
@@ -22657,7 +21316,6 @@ SB5
 и замены ламп.
 
 ### Название
-`livan_9_ru_c24ee977` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:193 | doc_type:owners_manual
 детали
 Название лампы
 Модель лампы
@@ -22667,7 +21325,6 @@ SB5
 фара
 
 ### LED
-`livan_9_ru_475537e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:193 | doc_type:owners_manual
 -
 Фары ближнего света
 LED
@@ -22677,7 +21334,6 @@ LED
 -
 
 ### LED
-`livan_9_ru_475537e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:193 | doc_type:owners_manual
 -
 Дневные ходовые
 огни*
@@ -22689,7 +21345,6 @@ LED
 фонарь 1
 
 ### Задние габаритные
-`livan_9_ru_075e99cf` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:193 | doc_type:owners_manual
 огни
 LED
 -
@@ -22700,7 +21355,6 @@ LED
 Стоп-сигнал
 
 ### LED
-`livan_9_ru_475537e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:193 | doc_type:owners_manual
 -
 Задний
 комбиниро
@@ -22709,7 +21363,6 @@ LED
 Фонари заднего хода
 
 ### LED
-`livan_9_ru_475537e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:193 | doc_type:owners_manual
 -
 Задние габаритные
 огни
@@ -22720,7 +21373,6 @@ LED
 Центральный стопсигнал
 
 ### LED
-`livan_9_ru_475537e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:193 | doc_type:owners_manual
 -
 Задние
 противот
@@ -22731,7 +21383,6 @@ LED
 фары
 
 ### LED
-`livan_9_ru_475537e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:193 | doc_type:owners_manual
 -
 Фонарь
 освещения
@@ -22741,7 +21392,6 @@ LED
 номерного знака
 
 ### W5W
-`livan_9_ru_b5494af1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 5Вт
 Неисправности во время вождения
 192
@@ -22749,7 +21399,6 @@ LED
 детали
 
 ### Лампа для
-`livan_9_ru_3ff60a09` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:194 | doc_type:owners_manual
 чтения
 Передняя лампа для
 чтения
@@ -22759,7 +21408,6 @@ LED
 чтения*
 
 ### LED
-`livan_9_ru_11b4e2e9` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:194 | doc_type:owners_manual
 -
 Лампа
 подсветки
@@ -22768,7 +21416,6 @@ LED
 багажника*
 
 ### W5W
-`livan_9_ru_9f984a07` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 5Вт
 Неисправности во время вождения
 6
@@ -22782,7 +21429,6 @@ LED
 193
 
 ### Действия
-`livan_9_ru_ff6d2ef9` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:195 | doc_type:owners_manual
 в
 аварийной
 обстановке
@@ -22809,7 +21455,6 @@ LED
 следующими процедурами:
 
 ### 1. Съедьте с дороги в безопасное место,
-`livan_9_ru_2246f126` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:195 | doc_type:owners_manual
 затем
 остановитесь
 и
@@ -22817,7 +21462,6 @@ LED
 аварийную световую сигнализацию.
 
 ### Установите
-`livan_9_ru_db4161f6` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:195 | doc_type:owners_manual
 коробку
 передач
 в
@@ -22833,7 +21477,6 @@ LED
 следует выключить.
 
 ### 2. Остановите
-`livan_9_ru_56a3be88` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:195 | doc_type:owners_manual
 двигатель,
 если
 из
@@ -22862,7 +21505,6 @@ LED
 переключатель запуска.
 
 ### 3. Осмотрите
-`livan_9_ru_14b49676` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:195 | doc_type:owners_manual
 приводной
 ремень
 двигателя (ремень водяного насоса)
@@ -22877,7 +21519,6 @@ LED
 жидкости.
 
 ### Однако
-`livan_9_ru_1ad667e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 если
 из
 работающего
@@ -22885,7 +21526,6 @@ LED
 это нормально.
 
 ### 4. Если
-`livan_9_ru_9acef4be` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:195 | doc_type:owners_manual
 ремень
 привода
 водяного
@@ -22911,7 +21551,6 @@ LED
 проведения ремонта.
 
 ### 5. Если
-`livan_9_ru_a4e4cffe` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:195 | doc_type:owners_manual
 нет
 проблем
 с
@@ -22945,7 +21584,6 @@ LED
 остынет, проверьте уровень.
 
 ### 6. После
-`livan_9_ru_52d7fcf8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 того,
 как
 температура
@@ -22967,7 +21605,6 @@ LED
 метки
 
 ### Сильные
-`livan_9_ru_2a25ac77` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 потери
 охлаждающей
 жидкости
@@ -22982,7 +21619,6 @@ LED
 обслуживания
 
 ### LIVAN
-`livan_9_ru_7409e5c8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 для проведения диагностики.
 7. Летом
 после
@@ -22994,7 +21630,6 @@ LED
 автоматически, даже на долгое время
 
 ### Неисправности во время вождения
-`livan_9_ru_be49b1fd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 194
 - это нормально. После того, как
 температура двигателя снизится до
@@ -23004,7 +21639,6 @@ LED
 автоматически выключится.
 
 ### Во избежание травм держите капот
-`livan_9_ru_0cd772aa` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:196 | doc_type:owners_manual
 двигателя закрытым до тех пор,
 пока
 не
@@ -23043,7 +21677,6 @@ LED
 радиатора.
 
 ### Выбрасываемый
-`livan_9_ru_c6cf933e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 высокотемпературный
 пар
 и
@@ -23054,7 +21687,6 @@ LED
 серьезным травмам.
 
 ### Система вызова экстренных
-`livan_9_ru_41097e43` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 оперативных
 служб
 (ЭРАГЛОНАСС)*
@@ -23069,7 +21701,6 @@ LED
 служб
 
 ### (ЭОС),
-`livan_9_ru_a18ee31e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 передачи
 минимального набора данных (МНД) с
 описанием автомобиля, координат его
@@ -23082,7 +21713,6 @@ LED
 государственной федеральной системы
 
 ### Динамик SOS расположен под группой
-`livan_9_ru_a3e956f9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 переключателей
 приборной
 панели
@@ -23098,7 +21728,6 @@ LED
 эксплуатации
 
 ### УВЭОС
-`livan_9_ru_50764db1` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:196 | doc_type:owners_manual
 представлен
 в
 электронном
@@ -23114,7 +21743,6 @@ QR
 документе "Паспорт УВЭОС".
 
 ### Неисправности во время вождения
-`livan_9_ru_469a8999` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 6
 8
 7
@@ -23139,7 +21767,6 @@ QR
 обочине.
 
 ### 2. Включите
-`livan_9_ru_b1e4b1f8` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:197 | doc_type:owners_manual
 аварийные
 сигнальные
 лампы.
@@ -23167,7 +21794,6 @@ QR
 будет труднее, чем обычно.
 
 ### Если автомобиль застрял
-`livan_9_ru_71a0877e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 Если автомобиль застрял в снегу, грязи,
 песке и т. д., необходимо попытаться
 переключиться между передней и задней
@@ -23213,7 +21839,6 @@ QR
 пробуксовки колес.
 
 ### Если автомобиль не освободился после
-`livan_9_ru_1f11c251` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 колебательных
 движений
 в
@@ -23228,7 +21853,6 @@ QR
 другие методы.
 
 ### Неисправности во время вождения
-`livan_9_ru_97f4131b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 196
 7
 8
@@ -23246,7 +21870,6 @@ QR
 обслуживание
 
 ### Регулярное
-`livan_9_ru_80720e42` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 техническое
 обслуживание
 необходимо
@@ -23259,7 +21882,6 @@ QR
 технического обслуживания.
 
 ### Правильное техническое обслуживание
-`livan_9_ru_a52adccb` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 автомобиля
 не
 только
@@ -23286,7 +21908,6 @@ QR
 дышим.
 
 ### Неправильный
-`livan_9_ru_180d1fa7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 уровень
 жидкостей или неправильное давление в
 шинах может увеличить объем выбросов
@@ -23304,7 +21925,6 @@ QR
 необходимо правильно обслуживать его.
 
 ### Если автомобиль эксплуатируется в
-`livan_9_ru_a52b03a0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 указанных ниже тяжелых условиях,
 рекомендуется
 проходить
@@ -23314,7 +21934,6 @@ QR
 •
 
 ### Автомобиль
-`livan_9_ru_ab0f40e4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 эксплуатируется
 на
 короткие расстояния (менее 10 км) в
@@ -23323,7 +21942,6 @@ QR
 •
 
 ### Автомобиль
-`livan_9_ru_ab0f40e4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 в
 течение
 длительного
@@ -23341,7 +21959,6 @@ QR
 •
 
 ### Чрезмерная работа на холостом ходу
-`livan_9_ru_be245ae7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 или
 длительная
 езда
@@ -23351,7 +21968,6 @@ QR
 •
 
 ### Частое
-`livan_9_ru_220b3d17` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 вождение
 с
 постоянными
@@ -23362,7 +21978,6 @@ QR
 •
 
 ### Частое вождение по песчаным или
-`livan_9_ru_b901e090` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 пыльным дорогам;
 •
 Частое
@@ -23373,7 +21988,6 @@ QR
 •
 
 ### Применение
-`livan_9_ru_1472b05d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 топлива,
 не
 соответствующего
@@ -23395,7 +22009,6 @@ QR
 двигателе.
 
 ### 1. Городские условия: средняя скорость
-`livan_9_ru_32cfda49` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:199 | doc_type:owners_manual
 30-40 км/ч. Время в пути более 50
 минут;
 2. Режим
@@ -23418,7 +22031,6 @@ QR
 стоянки.
 
 ### Ремонт и обслуживание
-`livan_9_ru_d69dbd46` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 198
 Рекомендуется парковать автомобиль в
 теплом месте, защищенном от ветра,
@@ -23442,7 +22054,6 @@ QR
 -
 
 ### 35° С
-`livan_9_ru_485d8480` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:200 | doc_type:owners_manual
 -
 предел
 температуры
@@ -23463,7 +22074,6 @@ QR
 масло
 
 ### 0W),
-`livan_9_ru_71735397` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:200 | doc_type:owners_manual
 двигатель
 столкнется
 с
@@ -23475,7 +22085,6 @@ QR
 эксплуатацию.
 
 ### Программа
-`livan_9_ru_5ed96a14` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:200 | doc_type:owners_manual
 обслуживания
 во
 время использования
@@ -23507,7 +22116,6 @@ QR
 обслуживания
 
 ### Данный
-`livan_9_ru_6b0198fc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:200 | doc_type:owners_manual
 план
 технического
 обслуживания
@@ -23543,7 +22151,6 @@ QR
 «Запуск двигателя и вождениее.
 
 ### Обслуживание автомобиля может
-`livan_9_ru_3123bdf7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:200 | doc_type:owners_manual
 быть
 опасными.
 Выполняя
@@ -23573,7 +22180,6 @@ QR
 проведения технического обслуживания.
 
 ### Некоторые
-`livan_9_ru_8aff225a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:200 | doc_type:owners_manual
 элементы
 обслуживания
 являются сложным процессом. Поэтому,
@@ -23583,7 +22189,6 @@ QR
 обслуживания
 
 ### LIVAN
-`livan_9_ru_9d1a13de` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:200 | doc_type:owners_manual
 для
 проведения
 технического
@@ -23606,7 +22211,6 @@ QR
 данныее.
 
 ### Перед началом движения вы или другой
-`livan_9_ru_5c5b6a33` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:200 | doc_type:owners_manual
 водитель
 должен
 проверить
@@ -23615,7 +22219,6 @@ QR
 все детали, которым
 
 ### Ремонт и обслуживание
-`livan_9_ru_2aa9b8f3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:200 | doc_type:owners_manual
 7
 8
 6
@@ -23636,7 +22239,6 @@ QR
 обслуживания LIVAN.
 
 ### Отметки
-`livan_9_ru_51744676` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 о
 прохождении
 технического обслуживания
@@ -23661,7 +22263,6 @@ QR
 обслуживании.
 
 ### Ваш автомобиль оснащен устройством
-`livan_9_ru_ea228128` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 контроля
 выбросов
 и
@@ -23689,7 +22290,6 @@ QR
 нейтрализатора и двигателя.
 
 ### Несанкционированные
-`livan_9_ru_6b663549` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 изменения,
 модификации
 и
@@ -23712,7 +22312,6 @@ QR
 показатели выбросов автомобиля.
 
 ### Техническое
-`livan_9_ru_f452ba83` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 обслуживание
 автовладельцем
 При значительном или внезапном
@@ -23734,7 +22333,6 @@ QR
 обслуживания LIVAN.
 
 ### В
-`livan_9_ru_0818d195` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 дополнение
 к
 техническому
@@ -23750,7 +22348,6 @@ QR
 рекомендаций для вас:
 
 ### Ежедневный осмотр
-`livan_9_ru_277e8d20` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 •
 Работоспособность
 фар,
@@ -23760,7 +22357,6 @@ QR
 •
 
 ### Работоспособность
-`livan_9_ru_a1df2591` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:201 | doc_type:owners_manual
 ремня
 безопасности и тормоза.
 •
@@ -23771,7 +22367,6 @@ QR
 Проверьте внешний вид шин.
 
 ### Еженедельный осмотр
-`livan_9_ru_00fcd313` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 •
 Уровень моторного масла.
 •
@@ -23781,7 +22376,6 @@ QR
 •
 
 ### Уровень
-`livan_9_ru_894393e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 жидкости
 омывателя
 ветрового стекла.
@@ -23790,7 +22384,6 @@ QR
 •
 
 ### Работа системы кондиционирования
-`livan_9_ru_da09e3dc` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 воздуха.
 Если автомобиль часто и в течение
 длительного
@@ -23804,7 +22397,6 @@ QR
 проверять моторное масло.
 
 ### Ремонт и обслуживание
-`livan_9_ru_e6fc8919` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 200
 Восемь
 правил
@@ -23813,13 +22405,11 @@ QR
 возгораний в автомобиле
 
 ### 1. Запрещается
-`livan_9_ru_ecc8a302` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 хранить
 легковоспламеняющиеся вещества в
 автомобиле.
 
 ### Легковоспламеняющиеся
-`livan_9_ru_39778837` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 и
 взрывоопасные
 материалы
@@ -23829,7 +22419,6 @@ QR
 пожар (зажигалки и т. д.).
 
 ### 2. Не
-`livan_9_ru_38692053` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 допускайте
 прямого
 контакта
@@ -23844,7 +22433,6 @@ QR
 возникнет пожар.
 
 ### 3. Запрещается
-`livan_9_ru_23585282` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:202 | doc_type:owners_manual
 установка
 других
 декоративных фонарей, отличных от
@@ -23864,7 +22452,6 @@ QR
 нагрузки, что приведет к пожару.
 
 ### 4. При
-`livan_9_ru_5c43672d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 модификации
 автомобиля
 механической
@@ -23881,7 +22468,6 @@ CD
 возгоранию.
 
 ### 5. Запрещается
-`livan_9_ru_8f9d26d8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 использование
 ламп,
 отличающихся
@@ -23895,7 +22481,6 @@ CD
 и это может привести к возгоранию.
 
 ### 6. Запрещается нажимать педаль газа в
-`livan_9_ru_bed633ca` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:202 | doc_type:owners_manual
 течение
 длительного
 времени
@@ -23911,7 +22496,6 @@ CD
 автомобиля.
 
 ### Вплоть
-`livan_9_ru_8cf4d016` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:202 | doc_type:owners_manual
 до
 возгорания топливного бака..
 7. Моторный
@@ -23928,7 +22512,6 @@ CD
 моторном отсеке.
 
 ### Ремонт и обслуживание
-`livan_9_ru_37b45b4d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 7
 8
 6
@@ -23943,7 +22526,6 @@ CD
 случиться пожар.
 
 ### Токсичные жидкости
-`livan_9_ru_6b48c784` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 Жидкости, используемые в автомобиле,
 токсичны, их нельзя проглатывать или
 допускать
@@ -23953,7 +22535,6 @@ CD
 раны.
 
 ### К
-`livan_9_ru_b27210d2` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:203 | doc_type:owners_manual
 токсичным
 жидкостям
 относятся:
@@ -23973,7 +22554,6 @@ CD
 на этикетке и емкости.
 
 ### Использованное
-`livan_9_ru_2b4f66db` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:203 | doc_type:owners_manual
 моторное
 масло
 Длительный контакт с моторным маслом
@@ -23988,7 +22568,6 @@ CD
 не загрязнять окружающую среду.
 
 ### Ремонт и обслуживание
-`livan_9_ru_64b7e2d4` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:203 | doc_type:owners_manual
 202
 Моторный отсек
 Капот моторного отсека
@@ -24003,7 +22582,6 @@ CD
 следующие действия:
 
 ### 1. Потяните ручку открывания капота,
-`livan_9_ru_9dfd40af` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:204 | doc_type:owners_manual
 расположенную в левом нижнем углу
 приборной
 панели
@@ -24012,7 +22590,6 @@ CD
 водителя внутри автомобиля.
 
 ### 2. Слегка
-`livan_9_ru_c2d4c048` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:204 | doc_type:owners_manual
 приподнимите
 капот,
 поверните
@@ -24026,7 +22603,6 @@ CD
 и поднимите капот вверх.
 
 ### 3. Используйте
-`livan_9_ru_28744b24` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:204 | doc_type:owners_manual
 опорный
 стержень,
 чтобы установить на него капот.
@@ -24036,7 +22612,6 @@ CD
 отсека
 
 ### Прежде
-`livan_9_ru_946c9c02` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:204 | doc_type:owners_manual
 чем
 закрыть
 капот,
@@ -24057,7 +22632,6 @@ CD
 закрыты.
 
 ### Вставьте
-`livan_9_ru_e4f1231f` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:204 | doc_type:owners_manual
 опорную
 планку
 капота
@@ -24093,7 +22667,6 @@ CD
 открыться и закрыть обзор водителю, что
 
 ### Ремонт и обслуживание
-`livan_9_ru_3c545bb2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 7
 8
 6
@@ -24114,7 +22687,6 @@ CD
 травмам или даже смерти.
 
 ### Ремонт и обслуживание
-`livan_9_ru_57fc6a61` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:205 | doc_type:owners_manual
 204
 Моторный отсек
 Ремонт и обслуживание
@@ -24130,7 +22702,6 @@ CD
 1.
 
 ### Расширительный
-`livan_9_ru_b84e49d4` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:207 | doc_type:owners_manual
 бак
 охлаждающей жидкости
 6.
@@ -24139,7 +22710,6 @@ CD
 2.
 
 ### Крышка
-`livan_9_ru_702c5aac` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:207 | doc_type:owners_manual
 заливной
 горловины
 моторного масла
@@ -24148,7 +22718,6 @@ CD
 3.
 
 ### Декоративная крышка двигателя
-`livan_9_ru_f0ca4a27` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:207 | doc_type:owners_manual
 8.
 Щуп для проверки уровня масла в
 двигателе
@@ -24157,7 +22726,6 @@ CD
 9.
 
 ### Бачок жидкости стеклоомывателя
-`livan_9_ru_3e40413d` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:207 | doc_type:owners_manual
 5.
 Бачок для тормозной жидкости
 Некоторые модели не оснащены декоративной крышкой двигателя.
@@ -24182,7 +22750,6 @@ CD
 материалов, в результате чего могут возникнуть термические повреждения.
 
 ### Ремонт и обслуживание
-`livan_9_ru_c8c8170f` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:207 | doc_type:owners_manual
 206
 Моторное
 масло
@@ -24223,7 +22790,6 @@ CD
 измерения уровня масла.
 
 ### 1. Заглушите двигатель и подождите 10
-`livan_9_ru_6778d318` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:208 | doc_type:owners_manual
 минут,
 пока
 моторное
@@ -24235,7 +22801,6 @@ CD
 не показывать фактический уровень.
 
 ### 2. Вытащите масляный щуп, протрите
-`livan_9_ru_1cd0646e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:208 | doc_type:owners_manual
 его
 бумажным
 полотенцем
@@ -24244,7 +22809,6 @@ CD
 дно.
 
 ### 3. Снова
-`livan_9_ru_95f789fd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:208 | doc_type:owners_manual
 вытащите
 масляный
 щуп,
@@ -24257,7 +22821,6 @@ CD
 на щупе.
 
 ### 4. Если уровень моторного масла ниже
-`livan_9_ru_9b8d21bd` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:208 | doc_type:owners_manual
 отметки
 MIN,
 отвинтите
@@ -24274,7 +22837,6 @@ MIN,
 отметками MAX и MIN.
 
 ### 5. Повторно
-`livan_9_ru_46140c71` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:208 | doc_type:owners_manual
 запустите
 двигатель
 и
@@ -24294,7 +22856,6 @@ MIN,
 количество моторного масла.
 
 ### 6. Наконец,
-`livan_9_ru_061e783e` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:208 | doc_type:owners_manual
 убедитесь,
 что
 маслоизмерительный щуп правильно
@@ -24343,7 +22904,6 @@ MIN,
 разделе 8 «Технические данныее.
 
 ### Утилизируйте
-`livan_9_ru_b54910a6` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:208 | doc_type:owners_manual
 отработанное
 моторное масло в соответствии с
 применимыми
@@ -24353,7 +22913,6 @@ MIN,
 окружающей среды.
 
 ### Ремонт и обслуживание
-`livan_9_ru_9e801eb5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:208 | doc_type:owners_manual
 7
 8
 6
@@ -24370,7 +22929,6 @@ MIN,
 двигателя
 
 ### Воздушный
-`livan_9_ru_b9f0a866` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:209 | doc_type:owners_manual
 фильтр
 двигателя
 расположен
@@ -24381,7 +22939,6 @@ MIN,
 части.
 
 ### Когда следует проверять воздушный
-`livan_9_ru_0113022c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 фильтр/фильтрующий
 элемент
 двигателя
@@ -24398,7 +22955,6 @@ MIN,
 книжке.
 
 ### Если вы хотите проверить воздушный
-`livan_9_ru_11154e94` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 фильтр/фильтрующий элемент, снимите
 его
 с
@@ -24408,7 +22964,6 @@ MIN,
 встряхните, чтобы удалить пыль и грязь.
 
 ### Если на фильтрующем элементе все еще
-`livan_9_ru_a7d9c3f3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 остается грязь, замените его на новый.
 Регулярно
 очищайте
@@ -24417,18 +22972,15 @@ MIN,
 правилами технического обслуживания.
 
 ### Герметичность системы впуска воздуха и
-`livan_9_ru_459827ab` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 выхлопной системы следует регулярно
 проверять во время эксплуатации.
 
 ### Замена
-`livan_9_ru_5b572606` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 воздушного
 фильтра/
 фильтрующего элемента двигателя
 
 ### 2. Ослабьте
-`livan_9_ru_9d1c47b6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 кольцевую
 втулку
 выпускной
@@ -24437,7 +22989,6 @@ MIN,
 фильтра и отсоедините трубу.
 
 ### 3. Ослабьте винты вокруг верхней части
-`livan_9_ru_52bcf3e2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 корпуса
 воздушного
 фильтрующего
@@ -24453,7 +23004,6 @@ MIN,
 фильтрующий элемент.
 
 ### 5. Визуально проверьте, не слишком ли
-`livan_9_ru_f88b6752` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 загрязнен
 воздухозаборник
 воздушного фильтрующего элемента,
@@ -24463,7 +23013,6 @@ MIN,
 воздуха или замените его.
 
 ### 6. Вставьте
-`livan_9_ru_478236e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 воздушный
 фильтрующий
 элемент и верните его обратно в
@@ -24474,7 +23023,6 @@ MIN,
 отрегулируйте положение.
 
 ### 7. Затяните
-`livan_9_ru_3e93c9d5` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:209 | doc_type:owners_manual
 винты,
 чтобы
 крышка
@@ -24484,7 +23032,6 @@ MIN,
 пыли в двигатель.
 
 ### Ремонт и обслуживание
-`livan_9_ru_73033367` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 208
 Система охлаждения
 Информация
@@ -24493,7 +23040,6 @@ MIN,
 охлаждения
 
 ### Роль системы охлаждения заключается в
-`livan_9_ru_47939fcc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:210 | doc_type:owners_manual
 обеспечении
 наиболее
 подходящей
@@ -24501,7 +23047,6 @@ MIN,
 двигателя.
 
 ### Интервал
-`livan_9_ru_8ec3b65f` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:210 | doc_type:owners_manual
 замены
 охлаждающей жидкости см. в графике
 технического обслуживания, указанный в
@@ -24535,7 +23080,6 @@ MIN,
 ожог.
 
 ### Запрещается
-`livan_9_ru_14b18a90` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:210 | doc_type:owners_manual
 запускать
 двигатель
 при
@@ -24557,7 +23101,6 @@ MIN,
 начала движения.
 
 ### Утилизируйте
-`livan_9_ru_190928ff` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:210 | doc_type:owners_manual
 охлаждающую
 жидкость
 в
@@ -24570,7 +23113,6 @@ MIN,
 окружающей среды.
 
 ### Проверка
-`livan_9_ru_aa52eaa1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:210 | doc_type:owners_manual
 охлаждающей
 жидкости
 При
@@ -24607,7 +23149,6 @@ MIN,
 отметки
 
 ### L,
-`livan_9_ru_9e943de6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:210 | doc_type:owners_manual
 заполните
 расширительный
 бачок
@@ -24616,7 +23157,6 @@ MIN,
 регламентированным порядком.
 
 ### Ремонт и обслуживание
-`livan_9_ru_ffc01d8a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:210 | doc_type:owners_manual
 7
 8
 6
@@ -24636,7 +23176,6 @@ MIN,
 только после полного остывания.
 
 ### 1. Медленно
-`livan_9_ru_9e784400` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 поверните
 крышку
 расширительного
@@ -24650,13 +23189,11 @@ MIN,
 внутри все еще есть давление.
 
 ### 2. Продолжайте
-`livan_9_ru_b3265880` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 поворачивать
 крышку
 расширительного бака и снимите ее.
 
 ### Пар и кипящая жидкость из горячей
-`livan_9_ru_54dc5a5d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 системы охлаждения могут выйти
 наружу
 и
@@ -24670,7 +23207,6 @@ MIN,
 наружу.
 
 ### Никогда
-`livan_9_ru_9bb7310b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 не
 снимайте
 крышку
@@ -24687,7 +23223,6 @@ MIN,
 горячая.
 
 ### Если требуется открыть расширительный
-`livan_9_ru_9bb0075a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 бачок,
 перед
 открытием
@@ -24696,7 +23231,6 @@ MIN,
 охлаждающей жидкостью.
 
 ### 3. Добавьте
-`livan_9_ru_0b5e007f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 необходимое
 количество
 охлаждающей
@@ -24720,7 +23254,6 @@ MIN,
 жидкости разных марок и типов.
 
 ### Различные
-`livan_9_ru_6284e2ef` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 химические
 компоненты,
 такие
@@ -24759,7 +23292,6 @@ LIVAN. Повреждения или неисправности,
 гарантией LIVAN.
 
 ### 4. При
-`livan_9_ru_3fe4b869` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:211 | doc_type:owners_manual
 открытой
 верхней
 крышке
@@ -24775,14 +23307,12 @@ LIVAN. Повреждения или неисправности,
 нагреваться.
 
 ### Следите
-`livan_9_ru_3c5aeab8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 за
 вентилятором охлаждения двигателя.
 Ремонт и обслуживание
 210
 
 ### В это время уровень охлаждающей
-`livan_9_ru_e406d905` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
 жидкости
 в
 расширительном
@@ -24803,7 +23333,6 @@ L, добавьте необходимое количество
 положения между отметками F и L.
 
 ### 5. Закрытие
-`livan_9_ru_14a94397` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
 крышки.
 Убедитесь,
 что
@@ -24847,7 +23376,6 @@ L, добавьте необходимое количество
 как можно скорее.
 
 ### Автомобиль
-`livan_9_ru_6f7622f2` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:212 | doc_type:owners_manual
 с
 хорошими
 тормозными
@@ -24881,7 +23409,6 @@ L, добавьте необходимое количество
 безопасности движения.
 
 ### Изношенные тормозные колодки не могут
-`livan_9_ru_6f232df3` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:212 | doc_type:owners_manual
 эффективно
 тормозить
 автомобиль.
@@ -24915,7 +23442,6 @@ L, добавьте необходимое количество
 сервисной книжке.
 
 ### Периодичность
-`livan_9_ru_74fdfe2d` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:212 | doc_type:owners_manual
 технического
 обслуживания см. график технического
 обслуживания, указанный в сервисной
@@ -24940,7 +23466,6 @@ L, добавьте необходимое количество
 торможения.
 
 ### Экстренное торможение не должно
-`livan_9_ru_4e33f1bf` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
 применяться
 при
 движении
@@ -24950,7 +23475,6 @@ L, добавьте необходимое количество
 дождливым,
 
 ### Ремонт и обслуживание
-`livan_9_ru_b0806180` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
 7
 8
 6
@@ -24964,7 +23488,6 @@ L, добавьте необходимое количество
 дорогам.
 
 ### Перед движением по затяжному спуску
-`livan_9_ru_5d27c7eb` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:213 | doc_type:owners_manual
 следует
 перевести
 автомобиль
@@ -24990,7 +23513,6 @@ L, добавьте необходимое количество
 и обеспечить восстановление тормоза.
 
 ### Обязательно
-`livan_9_ru_4570d45f` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:213 | doc_type:owners_manual
 посетите
 станцию
 технического
@@ -25007,7 +23529,6 @@ Livan
 торможение.
 
 ### Новые тормозные колодки обладают не
-`livan_9_ru_d618bf73` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:213 | doc_type:owners_manual
 самыми
 лучшими
 фрикционными
@@ -25053,7 +23574,6 @@ Livan
 и несчастных случаев.
 
 ### Если педаль тормоза не возвращается к
-`livan_9_ru_2d567502` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:213 | doc_type:owners_manual
 нормальной
 высоте
 или
@@ -25063,7 +23583,6 @@ Livan
 центр технического обслуживания LIVAN.
 
 ### Это может
-`livan_9_ru_b1a06556` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:213 | doc_type:owners_manual
 быть
 признаком
 того,
@@ -25075,7 +23594,6 @@ Livan
 обслуживании.
 
 ### Звук тормозов
-`livan_9_ru_3ac5e5a7` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:213 | doc_type:owners_manual
 Нажмите на педаль тормоза, передние и
 задние
 тормоза
@@ -25117,7 +23635,6 @@ Livan
 тормозной системы.
 
 ### Звук тормозов при трогании с
-`livan_9_ru_28be7766` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:213 | doc_type:owners_manual
 места
 Звук
 трения
@@ -25143,7 +23660,6 @@ Livan
 передаче
 
 ### D,
-`livan_9_ru_7258584b` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:213 | doc_type:owners_manual
 двигатель
 вырабатывает
 движущую
@@ -25153,7 +23669,6 @@ Livan
 нажатии педали тормоза он все еще
 
 ### Ремонт и обслуживание
-`livan_9_ru_1431d44b` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:213 | doc_type:owners_manual
 212
 остается
 неподвижным,
@@ -25178,7 +23693,6 @@ Livan
 автомобиля.
 
 ### Звук руля при нажатии педали
-`livan_9_ru_f8f42672` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:214 | doc_type:owners_manual
 тормоза на месте
 Когда автомобиль неподвижен, колеса
 прокручиваются при повороте рулевого
@@ -25186,7 +23700,6 @@ Livan
 тормоза, колеса прокручиваться не будут.
 
 ### При одновременном действии рулевого и
-`livan_9_ru_0c17b2a9` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:214 | doc_type:owners_manual
 тормозного
 усилия
 транспортное
@@ -25202,7 +23715,6 @@ Livan
 работу и эксплуатацию автомобиля.
 
 ### Повышенная
-`livan_9_ru_bd3fe0a0` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:214 | doc_type:owners_manual
 температура
 тормозных
 дисков
@@ -25239,7 +23751,6 @@ Livan
 обжечься.
 
 ### Замена
-`livan_9_ru_d3e171d7` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:214 | doc_type:owners_manual
 компонентов
 тормозной системы
 Тормозная система автомобилей очень
@@ -25269,7 +23780,6 @@ Livan
 чина
 
 ### Стандартная толщина
-`livan_9_ru_a33cb964` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:214 | doc_type:owners_manual
 передних тормозных
 колодок
 мм
@@ -25281,7 +23791,6 @@ Livan
 3
 
 ### Стандартная толщина
-`livan_9_ru_a33cb964` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:214 | doc_type:owners_manual
 задних тормозных
 колодок
 мм
@@ -25293,7 +23802,6 @@ Livan
 3
 
 ### Заполните
-`livan_9_ru_fe9a4f6d` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:214 | doc_type:owners_manual
 бачок
 тормозной
 жидкости
@@ -25310,7 +23818,6 @@ Livan
 213
 
 ### Уровень тормозной
-`livan_9_ru_5167b968` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:215 | doc_type:owners_manual
 жидкости
 в
 бачке
@@ -25328,12 +23835,10 @@ Livan
 норму.
 
 ### 2. Также причиной низкого уровня может
-`livan_9_ru_cfb6a423` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:215 | doc_type:owners_manual
 быть утечка тормозной жидкости из
 тормозной гидравлической системы.
 
 ### Следует отремонтировать тормозную
-`livan_9_ru_bf6f5477` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:215 | doc_type:owners_manual
 гидравлическую
 систему,
 утечка
@@ -25344,7 +23849,6 @@ Livan
 тормозов.
 
 ### Если вы добавите слишком много
-`livan_9_ru_1b1a86f7` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:215 | doc_type:owners_manual
 тормозной
 жидкости,
 она
@@ -25362,7 +23866,6 @@ Livan
 автомобиля.
 
 ### Поэтому доливать тормозную жидкость
-`livan_9_ru_9e425dde` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:215 | doc_type:owners_manual
 до
 отметки
 MAX
@@ -25374,7 +23877,6 @@ MAX
 гидравлической системы.
 
 ### Когда уровень тормозной жидкости
-`livan_9_ru_c5e30e71` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:215 | doc_type:owners_manual
 падает
 до
 нижнего
@@ -25385,7 +23887,6 @@ MAX
 неисправности тормозной системы.
 
 ### Добавление тормозной жидкости не
-`livan_9_ru_1032e1b9` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:215 | doc_type:owners_manual
 решит
 проблему
 утечки.
@@ -25412,7 +23913,6 @@ MAX
 необходимости.
 
 ### Попадание тормозной жидкости на
-`livan_9_ru_6db48658` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:215 | doc_type:owners_manual
 окрашенную
 поверхность
 автомобиля
@@ -25426,7 +23926,6 @@ MAX
 ее.
 
 ### Уровень
-`livan_9_ru_409df428` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:215 | doc_type:owners_manual
 тормозной
 жидкости
 всегда
@@ -25437,7 +23936,6 @@ MAX
 MAX и MIN.
 
 ### Использование
-`livan_9_ru_6a6eee4d` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:215 | doc_type:owners_manual
 неподходящей
 жидкости
 серьезно
@@ -25445,7 +23943,6 @@ MAX и MIN.
 компоненты тормозной гидравлической
 
 ### Ремонт и обслуживание
-`livan_9_ru_124171e4` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:215 | doc_type:owners_manual
 214
 системы. Например, добавление всего
 нескольких капель минерального масла
@@ -25468,13 +23965,11 @@ MAX и MIN.
 заменить.
 
 ### Поэтому
-`livan_9_ru_6fa1f399` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:216 | doc_type:owners_manual
 недопустимо
 использовать
 некорректный тип жидкости.
 
 ### Электроусилитель
-`livan_9_ru_ad48e888` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:216 | doc_type:owners_manual
 руля
 (EPS)
 Функциональность
@@ -25484,7 +23979,6 @@ MAX и MIN.
 из основных характеристик автомобиля.
 
 ### Она напрямую влияет на управляемость
-`livan_9_ru_e4c38e2d` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:216 | doc_type:owners_manual
 автомобилем.
 Важную
 роль
@@ -25520,7 +24014,6 @@ MAX и MIN.
 вождение.
 
 ### Некоторые
-`livan_9_ru_36e38226` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:216 | doc_type:owners_manual
 модели
 EPS
 обеспечивают три выбираемых режима
@@ -25551,14 +24044,12 @@ EPS
 лампа
 
 ### EPS,
-`livan_9_ru_04a6139a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:216 | doc_type:owners_manual
 обратитесь
 в
 центр технического обслуживания LIVAN
 для проверки.
 
 ### Ремонт и обслуживание
-`livan_9_ru_0aca5592` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:216 | doc_type:owners_manual
 7
 8
 6
@@ -25575,7 +24066,6 @@ EPS
 комбинированных фар
 
 ### Передние
-`livan_9_ru_bee36c16` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:217 | doc_type:owners_manual
 комбинированные
 фары
 вентилируются, чтобы приспособиться к
@@ -25591,7 +24081,6 @@ EPS
 конструкцией.
 
 ### Когда через вентиляционное отверстие
-`livan_9_ru_3a20db7d` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:217 | doc_type:owners_manual
 водяной
 пар
 попадает
@@ -25626,7 +24115,6 @@ EPS
 •
 
 ### Присутствует
-`livan_9_ru_f390d994` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
 тонкий
 слой
 туманообразной влаги (без разводов,
@@ -25634,7 +24122,6 @@ EPS
 •
 
 ### Площадь
-`livan_9_ru_4b8b97fd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
 покрытия
 туманообразной
 влагой
@@ -25644,7 +24131,6 @@ EPS
 комбинированной фары менее 50%.
 
 ### Следующие
-`livan_9_ru_e7b55964` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
 ситуации
 недопустимы
 (обычно они вызваны протечкой воды из
@@ -25652,7 +24138,6 @@ EPS
 •
 
 ### Внутри
-`livan_9_ru_a063fea7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
 передней
 комбинированный
 фары образовалась вода.
@@ -25676,7 +24161,6 @@ EPS
 обслуживания
 
 ### LIVAN
-`livan_9_ru_0028a391` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
 для
 ремонта
 автомобиля.
@@ -25685,7 +24169,6 @@ EPS
 АКБ
 
 ### Обслуживание АКБ
-`livan_9_ru_4aeca3fb` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:218 | doc_type:owners_manual
 Этот
 автомобиль
 оснащен
@@ -25716,7 +24199,6 @@ EPS
 •
 
 ### Избегайте перезарядки аккумулятора
-`livan_9_ru_ccdaf427` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:218 | doc_type:owners_manual
 или длительный недозаряд.
 •
 Когда
@@ -25732,7 +24214,6 @@ EPS
 •
 
 ### Аккумуляторы следует хранить вдали
-`livan_9_ru_cbd808a9` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:218 | doc_type:owners_manual
 от источников тепла и открытого огня,
 а также обеспечивать вентиляцию во
 время зарядки и использования, чтобы
@@ -25764,13 +24245,11 @@ EPS
 •
 
 ### Аккумулятор должен быть неподвижно
-`livan_9_ru_de57e6ee` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:218 | doc_type:owners_manual
 закреплен на транспортном средстве
 во избежание вибрации.
 •
 
 ### Регулярно
-`livan_9_ru_4de2b851` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:218 | doc_type:owners_manual
 проверяйте,
 надежно
 ли
@@ -25795,7 +24274,6 @@ EPS
 разрядки
 
 ### АКБ
-`livan_9_ru_cf5f99da` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:218 | doc_type:owners_manual
 во
 избежание
 замерзания электролита.
@@ -25811,7 +24289,6 @@ EPS
 217
 
 ### Автомобиль оснащен необслуживаемым
-`livan_9_ru_b9d0db51` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:219 | doc_type:owners_manual
 аккумулятором
 и
 не
@@ -25822,7 +24299,6 @@ EPS
 раствора.
 
 ### Обращайтесь
-`livan_9_ru_c7047317` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:219 | doc_type:owners_manual
 в
 центр
 технического
@@ -25833,7 +24309,6 @@ LIVAN
 проверки состояния аккумулятора.
 
 ### АКБ
-`livan_9_ru_05c38149` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:219 | doc_type:owners_manual
 обязательно
 следует
 осуществлять на устройство аналогичной
@@ -25847,7 +24322,6 @@ LIVAN
 замены
 
 ### АКБ
-`livan_9_ru_05c38149` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:219 | doc_type:owners_manual
 передайте
 старое
 устройство
@@ -25874,7 +24348,6 @@ LIVAN
 роняйте аккумулятор на землю.
 
 ### Аккумуляторная
-`livan_9_ru_3de0f903` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:219 | doc_type:owners_manual
 кислота
 может
 вызвать ожоги, а образующийся газ
@@ -25901,7 +24374,6 @@ LIVAN
 безопасно работать с аккумулятором.
 
 ### В состоянии покоя вследствие слабого
-`livan_9_ru_f78e1880` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:219 | doc_type:owners_manual
 потребления тока системой электроцепи
 автомобиля
 аккумулятор
@@ -25916,7 +24388,6 @@ LIVAN
 отсоединять, чтобы АКБ не разряжалась.
 
 ### Автомобиль
-`livan_9_ru_ea64ba23` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 должен
 храниться
 в
@@ -25937,7 +24408,6 @@ LIVAN
 старение деталей автомобиля ускорятся.
 
 ### Соблюдайте рекомендации и требования
-`livan_9_ru_f7c7f925` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 «Руководства
 по
 гарантии
@@ -25949,7 +24419,6 @@ LIVAN
 техническое обслуживание автомобиля.
 
 ### Ремонт и обслуживание
-`livan_9_ru_5fe2eec7` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:219 | doc_type:owners_manual
 218
 Жидкость
 омывателя
@@ -25962,7 +24431,6 @@ LIVAN
 используется
 
 ### Когда требуется промыть очистителем
-`livan_9_ru_eb5d0458` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:220 | doc_type:owners_manual
 лобовое
 стекло,
 перед
@@ -25983,7 +24451,6 @@ LIVAN
 очистителя.
 
 ### Температура
-`livan_9_ru_5b7b5240` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 точки
 замерзания
 очистителя должна быть на 10° C
@@ -25993,7 +24460,6 @@ LIVAN
 характерной для местности.
 
 ### Откройте крышку горловины с символом
-`livan_9_ru_b4725ebf` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 омывателя.
 Добавьте
 очиститель
@@ -26002,7 +24468,6 @@ LIVAN
 уровня.
 
 ### Внимательно
-`livan_9_ru_67b6248b` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:220 | doc_type:owners_manual
 прочитайте
 главу
 «Моторный
@@ -26028,7 +24493,6 @@ LIVAN
 водой.
 
 ### Добавление
-`livan_9_ru_b2548130` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 воды
 может
 привезти
@@ -26043,7 +24507,6 @@ LIVAN
 стекла.
 
 ### В очень холодную погоду бак очистителя
-`livan_9_ru_792468e2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 можно заполнять только на три четверти.
 Таким
 образом
@@ -26062,7 +24525,6 @@ LIVAN
 полного заполнения.
 
 ### В систему омывания лобового стекла не
-`livan_9_ru_4d2c1bd7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 допускается
 добавлять
 жидкость
@@ -26071,7 +24533,6 @@ LIVAN
 двигателя.
 
 ### Невыполнение
-`livan_9_ru_02ac868b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 этого
 требования
 может
@@ -26087,7 +24548,6 @@ LIVAN
 покрытия автомобиля.
 
 ### Щетка стеклоочистителя
-`livan_9_ru_613596fc` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:220 | doc_type:owners_manual
 Жидкости,
 содержащие
 жиры,
@@ -26111,7 +24571,6 @@ LIVAN
 состояние.
 
 ### Часто промывайте ветровое стекло и
-`livan_9_ru_d432c167` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:220 | doc_type:owners_manual
 старайтесь
 не
 использовать
@@ -26121,7 +24580,6 @@ LIVAN
 сократит срок ее службы.
 
 ### Ремонт и обслуживание
-`livan_9_ru_779b7167` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:220 | doc_type:owners_manual
 7
 8
 6
@@ -26148,7 +24606,6 @@ LIVAN
 стеклоочистителя.
 
 ### Регулярно промывайте ветровое стекло
-`livan_9_ru_c90c4bb8` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 сертифицированной
 жидкостью.
 Перед
@@ -26158,7 +24615,6 @@ LIVAN
 убедитесь, что лобовое стекло очищено.
 
 ### Используйте
-`livan_9_ru_a757e869` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 только
 щетки
 стеклоочистителей тех же спецификаций,
@@ -26207,7 +24663,6 @@ LIVAN
 стеклоочистителя поднят.
 
 ### Замена
-`livan_9_ru_440a56bd` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 щетки
 стеклоочистителя
 переднего
@@ -26226,7 +24681,6 @@ LIVAN
 действия:
 
 ### 1. В
-`livan_9_ru_576cdd74` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 течение
 10
 секунд
@@ -26236,7 +24690,6 @@ LIVAN
 переключателя с положения ON на
 
 ### OFF
-`livan_9_ru_fe011715` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 переведите
 комбинированный
 переключатель
@@ -26252,7 +24705,6 @@ LIVAN
 стеклоочистителей).
 
 ### 2. Снимите щетку стеклоочистителя с
-`livan_9_ru_96eb12da` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 ветрового стекла.
 3. Нажмите
 на
@@ -26262,7 +24714,6 @@ LIVAN
 как показано на рисунке.
 
 ### 4. Потяните
-`livan_9_ru_4f78403c` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 щетку
 по
 направлении
@@ -26274,14 +24725,12 @@ LIVAN
 рычага стеклоочистителя.
 
 ### 5. Отсоедините
-`livan_9_ru_7d292135` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 щетку
 стеклоочистителя.
 6. Установите щетки стеклоочистителя в
 порядке, обратном шагам 2–5.
 
 ### Стеклоочиститель может повредить
-`livan_9_ru_bf288ede` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 ветровое
 стекло,
 если
@@ -26296,7 +24745,6 @@ LIVAN
 покрываются гарантией автомобиля.
 
 ### Ремонт и обслуживание
-`livan_9_ru_6d82834e` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 220
 Замена
 щеток
@@ -26316,7 +24764,6 @@ LIVAN
 необходимо:
 
 ### 1. Отведите
-`livan_9_ru_b5472d32` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:222 | doc_type:owners_manual
 щетку
 стеклоочистителя
 заднего
@@ -26326,7 +24773,6 @@ LIVAN
 поверхности стекла.
 
 ### 2. Вращайте
-`livan_9_ru_b8c44d86` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:222 | doc_type:owners_manual
 щетку
 стеклоочистителя
 заднего
@@ -26337,7 +24783,6 @@ LIVAN
 щетку.
 
 ### 3. Повторите
-`livan_9_ru_af1b983f` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:222 | doc_type:owners_manual
 шаги
 с
 1
@@ -26348,7 +24793,6 @@ LIVAN
 заднего ветрового стекла.
 
 ### Очистка и обслуживание
-`livan_9_ru_67a02e76` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:222 | doc_type:owners_manual
 автомобиля
 Мойка кузова
 Частая мойка автомобиля способствует
@@ -26364,7 +24808,6 @@ LIVAN
 выключатель.
 
 ### Процедура
-`livan_9_ru_f6ba5ce6` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:222 | doc_type:owners_manual
 необходимо
 выполнять в прохладном месте, не под
 прямыми
@@ -26439,14 +24882,12 @@ LIVAN
 •
 
 ### Обязательно
-`livan_9_ru_0d447d38` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 выполняйте
 мойку
 в
 строгом соответствии с инструкцией
 
 ### Ремонт и обслуживание
-`livan_9_ru_a76613b7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 7
 8
 6
@@ -26471,7 +24912,6 @@ LIVAN
 см от обрабатываемой поверхности.
 
 ### Сохраняйте
-`livan_9_ru_2b75160c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 сопло
 в
 движении,
@@ -26488,7 +24928,6 @@ LIVAN
 •
 
 ### Не используйте насадки с множеством
-`livan_9_ru_5c00d138` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:223 | doc_type:owners_manual
 отверстий
 для
 очистки
@@ -26549,7 +24988,6 @@ LIVAN
 изоляционные материалы.
 
 ### Автоматическая
-`livan_9_ru_c1bb8c63` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:223 | doc_type:owners_manual
 мойка
 для
 очистки кузова
@@ -26573,7 +25011,6 @@ LIVAN
 •
 
 ### Лакокрасочная
-`livan_9_ru_f47b6902` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:223 | doc_type:owners_manual
 поверхность
 кузова
 достаточно прочная, чтобы выдержать
@@ -26586,7 +25023,6 @@ LIVAN
 краску.
 
 ### Степень
-`livan_9_ru_db2c97a4` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:223 | doc_type:owners_manual
 воздействия
 в
 основном
@@ -26632,7 +25068,6 @@ LIVAN
 кузова автомобиля.
 
 ### Регулярная уборка внутри автомобиля
-`livan_9_ru_d36122e4` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:223 | doc_type:owners_manual
 способствует улучшению обстановки в
 салоне. Пыль и грязь скапливаются на
 обивке,
@@ -26649,7 +25084,6 @@ LIVAN
 могут быстро затвердеть.
 
 ### Используйте небольшую щетку с мягкой
-`livan_9_ru_79bb73f6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 щетиной,
 чтобы
 стряхнуть
@@ -26658,7 +25092,6 @@ LIVAN
 маленьких кнопок и регуляторов.
 
 ### Ремонт и обслуживание
-`livan_9_ru_9769ffc6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 222
 Для
 очистки
@@ -26713,7 +25146,6 @@ LIVAN
 мягкой ткани и стеклоочиститель.
 
 ### Моющие
-`livan_9_ru_56ae11e0` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:224 | doc_type:owners_manual
 средства
 содержат
 растворители,
@@ -26732,7 +25164,6 @@ LIVAN
 технике безопасности.
 
 ### При чистке салона автомобиля откройте
-`livan_9_ru_bbc6ee57` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:224 | doc_type:owners_manual
 двери
 и
 окна,
@@ -26741,7 +25172,6 @@ LIVAN
 достаточную вентиляцию.
 
 ### При чистке салона обратите внимание на
-`livan_9_ru_e2960102` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:224 | doc_type:owners_manual
 следующее:
 •
 Не используйте лезвия или другие
@@ -26758,7 +25188,6 @@ LIVAN
 •
 
 ### Не применяйте силу и не создавайте
-`livan_9_ru_52058f03` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 чрезмерное
 давление
 тряпкой.
@@ -26772,7 +25201,6 @@ LIVAN
 •
 
 ### Используйте
-`livan_9_ru_63b347da` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 только
 мягкое,
 нейтральное
@@ -26788,7 +25216,6 @@ LIVAN
 жир.
 
 ### При использовании слишком большого
-`livan_9_ru_101446bd` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:224 | doc_type:owners_manual
 количества
 мыла
 могут
@@ -26811,7 +25238,6 @@ LIVAN
 Ткань/напольное покрытие
 
 ### Используйте пылесос с мягкой щеткой
-`livan_9_ru_874c05d4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 для удаления пыли и налета. Для стойких
 пятен попробуйте сначала использовать
 воду или воду с содой. Перед чисткой
@@ -26829,7 +25255,6 @@ LIVAN
 размягчиться и впитаться.
 
 ### Ремонт и обслуживание
-`livan_9_ru_41c84ee5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 7
 8
 6
@@ -26846,7 +25271,6 @@ LIVAN
 Этапы очистки:
 
 ### 1. Смочите чистую безворсовую белую
-`livan_9_ru_422c198e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 тряпку водой или раствором пищевой
 соды.
 2. Отожмите
@@ -26856,7 +25280,6 @@ LIVAN
 лишнюю воду.
 
 ### 3. При
-`livan_9_ru_31727047` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 удалении
 пятен
 осторожно
@@ -26864,7 +25287,6 @@ LIVAN
 на тряпке не перестанет.
 
 ### 4. Если пятно не удается полностью
-`livan_9_ru_0a8f1782` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 стереть, повторите описанные выше
 действия
 с
@@ -26906,7 +25328,6 @@ LIVAN
 напольного покрытия.
 
 ### Для удаления пыли можно использовать
-`livan_9_ru_fa114f0c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 кусок мягкой ткани, смоченный водой.
 Для
 более
@@ -26922,7 +25343,6 @@ LIVAN
 для уборки кожаных поверхностей.
 
 ### Никогда
-`livan_9_ru_07aac4a6` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:225 | doc_type:owners_manual
 не
 используйте
 чистящие
@@ -26935,7 +25355,6 @@ LIVAN
 изменить внешний вид обивки салона.
 
 ### Также не используйте средства на основе
-`livan_9_ru_e3db8f8c` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:225 | doc_type:owners_manual
 силикона,
 воска
 или
@@ -26951,7 +25370,6 @@ LIVAN
 поверхностей.
 
 ### Приборная
-`livan_9_ru_57ce0159` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:225 | doc_type:owners_manual
 панель
 и
 другие
@@ -26968,7 +25386,6 @@ LIVAN
 салона.
 
 ### Некоторые
-`livan_9_ru_cf74ac17` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 имеющиеся
 в
 продаже
@@ -26984,7 +25401,6 @@ LIVAN
 серьезно ухудшить видимость.
 
 ### Ремонт и обслуживание
-`livan_9_ru_b86afd16` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 224
 8
 7
@@ -27000,7 +25416,6 @@ LIVAN
 автомобиля
 
 ### Основные размерные параметры автомобиля
-`livan_9_ru_24ae5c02` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 Пункт
 Единица
 измерения
@@ -27010,7 +25425,6 @@ LIVAN
 4535
 
 ### Ширина автомобиля
-`livan_9_ru_23cfc1b5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 мм
 1845
 Высота автомобиля
@@ -27022,7 +25436,6 @@ LIVAN
 1559
 
 ### Ширина колеи задних
-`livan_9_ru_c4835c97` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 колес
 мм
 1545
@@ -27036,7 +25449,6 @@ LIVAN
 ручки, выхлопные трубы и т. д.
 
 ### Технические данные
-`livan_9_ru_d6f2660e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 226
 Параметры
 качества
@@ -27046,7 +25458,6 @@ LIVAN
 измерения
 
 ### Тип привода
-`livan_9_ru_bc550139` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:228 | doc_type:owners_manual
 -
 Передний привод
 Количество пассажиров
@@ -27057,7 +25468,6 @@ LIVAN
 1499
 
 ### Масса передней оси без нагрузки
-`livan_9_ru_8628684d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
 кг
 863
 Масса задней оси без нагрузки
@@ -27068,7 +25478,6 @@ LIVAN
 1895
 
 ### Общая масса
-`livan_9_ru_f7a7027b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
 кг
 970
 Полная нагрузка на заднюю ось
@@ -27077,7 +25486,6 @@ LIVAN
 925
 
 ### Свободный ход
-`livan_9_ru_0aff534c` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:228 | doc_type:owners_manual
 мм
 0-4
 Педаль тормоза
@@ -27096,7 +25504,6 @@ LIVAN
 227
 
 ### Основные
-`livan_9_ru_9515dff8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 параметры
 двигателя
 Пункт
@@ -27105,7 +25512,6 @@ LIVAN
 BHE15-AFZ
 
 ### BHE15-EFZ
-`livan_9_ru_9b3d257e` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:229 | doc_type:owners_manual
 Тип
 двигателя
 -
@@ -27117,7 +25523,6 @@ BHE15-AFZ
 73,4×88,57
 
 ### Рабочий
-`livan_9_ru_1a65710a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 объем
 Л
 1,499
@@ -27133,7 +25538,6 @@ BHE15-AFZ
 128
 
 ### Номиналь
-`livan_9_ru_4cb29bfb` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 ная скорость
 оборотов
 мощности
@@ -27149,7 +25553,6 @@ BHE15-AFZ
 290
 
 ### Максималь
-`livan_9_ru_0090acb4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 ная скорость
 оборотов
 крутящего
@@ -27158,7 +25561,6 @@ BHE15-AFZ
 2000-3500
 
 ### Скорость
-`livan_9_ru_f7cd7b34` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 оборотов при
 холостом
 ходе
@@ -27170,7 +25572,6 @@ BHE15-AFZ
 1-3-4-2
 
 ### Технические данные
-`livan_9_ru_8ca266c9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 228
 Мощность автомобиля
 Пункт
@@ -27180,7 +25581,6 @@ BHE15-AFZ
 энергопотреблением
 
 ### Версия с высокой
-`livan_9_ru_80ccba65` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:230 | doc_type:owners_manual
 мощностью
 Максимальная
 скорость
@@ -27190,7 +25590,6 @@ BHE15-AFZ
 190
 
 ### Максимальный
-`livan_9_ru_dd0abf30` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:230 | doc_type:owners_manual
 преодолевае
 мый подъём
 %
@@ -27200,7 +25599,6 @@ BHE15-AFZ
 Пункт
 
 ### Единица
-`livan_9_ru_34f91ef8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:230 | doc_type:owners_manual
 измерения
 Версия с низким
 энергопотреблением
@@ -27208,7 +25606,6 @@ BHE15-AFZ
 мощностью
 
 ### Общий расход
-`livan_9_ru_2026494e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:230 | doc_type:owners_manual
 топлива
 л/100 км
 6,5
@@ -27217,7 +25614,6 @@ BHE15-AFZ
 Пункт
 
 ### Уровень выхлопных газов
-`livan_9_ru_5d500b83` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:230 | doc_type:owners_manual
 Евро-6
 Технические данные
 8
@@ -27232,14 +25628,12 @@ BHE15-AFZ
 Колеса и шины
 
 ### Модель шин
-`livan_9_ru_282d0ae6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:231 | doc_type:owners_manual
 Пункт
 Параметры
 Спецификация колесных дисков
 18×6,5T
 
 ### Колесные диски
-`livan_9_ru_48975c9c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:231 | doc_type:owners_manual
 Шина
 Величина
 динамического
@@ -27250,7 +25644,6 @@ BHE15-AFZ
 Давление в шине (холодное состояние)
 
 ### Автомобильное колесо
-`livan_9_ru_ecd54c83` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:231 | doc_type:owners_manual
 Ед. изм.
 Параметр
 Передние колеса
@@ -27261,7 +25654,6 @@ BHE15-AFZ
 230
 
 ### Запасное колесо
-`livan_9_ru_c1df5d3f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:231 | doc_type:owners_manual
 кПа
 420
 Масло
@@ -27271,20 +25663,17 @@ BHE15-AFZ
 Объем
 
 ### Заправляйтесь в соответствии с
-`livan_9_ru_d0a3a11b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:231 | doc_type:owners_manual
 требованиями к топливу, указанными
 на этикетке крышки топливного бака.
 55 л
 
 ### Моторное масло
-`livan_9_ru_372b86f1` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:231 | doc_type:owners_manual
 Масло SP 0W-20
 4,3 л (сухой тип)
 4,0 л (смешанный
 тип)
 
 ### Трансмиссионное масло от Royal Shell
-`livan_9_ru_2a741f27` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:231 | doc_type:owners_manual
 Dutch
 3,3 л (сухой тип)
 2,7 л (смешанный
@@ -27294,7 +25683,6 @@ Dutch
 Пункт
 
 ### Спецификация
-`livan_9_ru_fcd4360b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:232 | doc_type:owners_manual
 Объем
 Жидкость для
 охлаждения
@@ -27305,7 +25693,6 @@ Livan
 6,8 л
 
 ### DOT4
-`livan_9_ru_964d55ca` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:232 | doc_type:owners_manual
 0.78 л
 Жидкость
 стеклоочистителя
@@ -27314,7 +25701,6 @@ Livan
 3.5±0.1 л
 
 ### Хладагент
-`livan_9_ru_09e6f2c2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:232 | doc_type:owners_manual
 кондиционера
 R134a
 525 г
@@ -27322,48 +25708,33 @@ R134a
 Указатель
 
 ### Автоматическое удержание
-`livan_9_ru_515f9a26` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:233 | doc_type:owners_manual
 автомобиля (AUTO HOLD)........... 148
 Автомобиль не запускается ......... 128
 
-### Внутренний блок
-`livan_9_ru_a395ad5b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:233 | doc_type:owners_manual
-
-### Выбор детского защитного
-`livan_9_ru_76d7fe86` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:233 | doc_type:owners_manual
 
 ### Информация о системе
-`livan_9_ru_491cf4ff` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:233 | doc_type:owners_manual
 Информация о
 трехкомпонентном
 каталитическом нейтрализаторе
 отработавших газов двигателя
 
 ### Осмотр и замена
-`livan_9_ru_c2ea5143` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:234 | doc_type:owners_manual
 Основные параметры двигателя .. 227
 
 ### Сигнальные и индикаторные
-`livan_9_ru_3ef9e87a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:234 | doc_type:owners_manual
 Система вызова экстренных
 оперативных служб (ЭРА-
 
 ### Электронная система контроля
-`livan_9_ru_a7db1ef3` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:235 | doc_type:owners_manual
 Электронная система
 предотвращения
 
 ### Электронное распределение
-`livan_9_ru_76d826a1` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:235 | doc_type:owners_manual
 тормозного усилия (EBD) ............ 150
 Электроусилитель руля (EPS)...... 214
 
 
-# Manual: livan/9 (1641 chunks)
-<!-- doc_type:owners_manual tier:2 lang:ru -->
-
 ### Предисловие
-`livan_9_ru_f3d0aa65` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 Уважаемый владелец автомобиля марки LIVAN,
 Спасибо Вам за доверие, оказанное компании LIVAN, и за выбор автомобиля
 марки LIVAN, который обеспечит вам отличные характеристики в области безопасности,
@@ -27372,7 +25743,6 @@ R134a
 владения новым автомобилем.
 
 ### Перед началом эксплуатации нового автомобиля внимательно изучите настоящее
-`livan_9_ru_79be21e2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 Руководство. Управление автомобилем осуществляйте в строгом соответствии с
 изложенными инструкциями. Это поможет Вам эффективно, правильно и безопасно
 эксплуатировать автомобиль, содержать его в технически исправном состоянии и
@@ -27401,7 +25771,6 @@ R134a
 Руководства.
 
 ### Руководство содержит
-`livan_9_ru_76aa2620` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:1 | doc_type:owners_manual
 информацию,
 актуальную на
 момент его
@@ -27420,7 +25789,6 @@ R134a
 данное
 
 ### Руководство
-`livan_9_ru_72773a47` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:1 | doc_type:owners_manual
 новому
 владельцу.
 Вся
@@ -27459,7 +25827,6 @@ R134a
 1
 
 ### Руководство по
-`livan_9_ru_69592d34` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:3 | doc_type:owners_manual
 эксплуатации
 автомобиля:
 идентификация
@@ -27480,7 +25847,6 @@ R134a
 12 Табличка изготовителя
 
 ### Система контроля и
-`livan_9_ru_36c66ecb` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:3 | doc_type:owners_manual
 управления
 13 Устройства системы контроля и
 управления
@@ -27541,7 +25907,6 @@ R134a
 63 Рейлинги на крыше
 
 ### Система
-`livan_9_ru_ed33f966` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:4 | doc_type:owners_manual
 кондиционирования
 воздуха
 65 Отопление, вентиляция и
@@ -27559,7 +25924,6 @@ R134a
 кондиционера
 
 ### Сиденья и устройства
-`livan_9_ru_7291e180` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:4 | doc_type:owners_manual
 защиты
 77 Сиденья
 77 Передние сидения
@@ -27604,7 +25968,6 @@ R134a
 детской защиты
 
 ### Запуск двигателя и
-`livan_9_ru_f85dc919` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:5 | doc_type:owners_manual
 вождение
 117 Ключи и противоугонная
 защита
@@ -27664,7 +26027,6 @@ R134a
 150 Антиблокировочная система
 
 ### (ABS)
-`livan_9_ru_b0e7e59b` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:5 | doc_type:owners_manual
 150 Электронное распределение
 тормозного усилия (EBD)
 4
@@ -27673,14 +26035,12 @@ R134a
 151 Контроль спуска со склона
 
 ### (HDC)
-`livan_9_ru_3d426f60` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:6 | doc_type:owners_manual
 152 Усилитель торможения (HBA)
 152 Функция помощи при
 подъеме в гору (ННС)
 153 Антипробуксовочная система
 
 ### (TCS)
-`livan_9_ru_11f124c2` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:6 | doc_type:owners_manual
 153 Электронная система
 предотвращения
 опрокидывания (RMI)
@@ -27694,7 +26054,6 @@ R134a
 160 Система управления круизконтролем (СС)
 
 ### Неисправности во время
-`livan_9_ru_ab13245a` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:6 | doc_type:owners_manual
 вождения
 163 Устройства предупреждения
 об опасности
@@ -27733,7 +26092,6 @@ R134a
 оперативных служб (ЭРА-
 
 ### ГЛОНАСС)*
-`livan_9_ru_cde338ed` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:6 | doc_type:owners_manual
 195 Внезапная остановка
 двигателя
 195 Если автомобиль застрял
@@ -27748,7 +26106,6 @@ R134a
 5
 
 ### Ремонт и обслуживание
-`livan_9_ru_a571f782` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:7 | doc_type:owners_manual
 197 Техническое обслуживание
 197 Регулярное техническое
 обслуживание
@@ -27774,14 +26131,12 @@ R134a
 214 Электроусилитель руля
 
 ### (EPS)
-`livan_9_ru_e1193395` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:7 | doc_type:owners_manual
 215 Передняя комбинированная
 фара
 215 Запотевание передних
 комбинированных фар
 
 ### 216 АКБ
-`livan_9_ru_f4cd616b` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:7 | doc_type:owners_manual
 216 Обслуживание АКБ
 217 Проверка АКБ
 217 Замена АКБ
@@ -27796,7 +26151,6 @@ R134a
 221 Очистка салона
 
 ### Технические данные
-`livan_9_ru_29c36b57` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:7 | doc_type:owners_manual
 225 Основные параметры
 автомобиля
 225 Основные размерные
@@ -27824,7 +26178,6 @@ R134a
 7
 
 ### Руководство
-`livan_9_ru_89172369` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:9 | doc_type:owners_manual
 по
 эксплуатации
 Предостережение
@@ -27835,7 +26188,6 @@ R134a
 антиблокировочной системой (ABS).
 
 ### В случае экстренного торможения с
-`livan_9_ru_22c88fa0` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:9 | doc_type:owners_manual
 усилием зажмите педаль тормоза до
 полной
 остановки
@@ -27843,7 +26195,6 @@ R134a
 порывистое нажатие не допускается.
 
 ### 2. В
-`livan_9_ru_1c31b779` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 соответствии
 с
 рекомендациями
@@ -27853,7 +26204,6 @@ R134a
 шин и давления в колесах.
 
 ### 3. Используйте
-`livan_9_ru_7bd85bdb` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 масла
 и
 жидкости,
@@ -27871,7 +26221,6 @@ R134a
 Руководством.
 
 ### 4. В целях безопасности вождения не
-`livan_9_ru_a0bd11f6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 снимайте
 детали
 и
@@ -27892,7 +26241,6 @@ R134a
 повторно.
 
 ### 5. Для
-`livan_9_ru_67719d30` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 обеспечения
 Вашей
 безопасности во время управления
@@ -27904,7 +26252,6 @@ R134a
 автомобиля.
 
 ### 6. Не
-`livan_9_ru_55545fcc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 находитесь
 долгое
 время
@@ -27916,7 +26263,6 @@ R134a
 заведенном двигателе.
 
 ### 7. Не
-`livan_9_ru_9c80c518` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 отдыхайте
 и
 не
@@ -27928,7 +26274,6 @@ R134a
 двигателе.
 
 ### Избегайте
-`livan_9_ru_ad568c8b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 продолжительной работы двигателя
 на
 холостом
@@ -27951,7 +26296,6 @@ R134a
 опасность Вашей жизни и имуществу.
 
 ### 8. Запрещено
-`livan_9_ru_edbeda02` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 переоборудование
 или
 установка
@@ -27959,7 +26303,6 @@ R134a
 оборудования.
 
 ### Переоборудование
-`livan_9_ru_71cd49d6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 или
 установка
 дополнительного
@@ -27976,7 +26319,6 @@ R134a
 нести ответственности.
 
 ### 9. Не
-`livan_9_ru_377a46d7` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:9 | doc_type:owners_manual
 следует
 устанавливать
 устройства, которые могут привести к
@@ -27984,7 +26326,6 @@ R134a
 другого электрооборудования.
 
 ### 10. При
-`livan_9_ru_026d09c7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 установлении
 дополнительных
 устройств нельзя создавать помех в
@@ -27996,7 +26337,6 @@ R134a
 меры по их устранению.
 
 ### 11. «Инструкция
-`livan_9_ru_cfaefb15` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:9 | doc_type:owners_manual
 по
 эксплуатации
 мультимедиае, предназначенная для
@@ -28014,33 +26354,28 @@ R134a
 Руководство по эксплуатации автомобиля: идентификация моделей
 8
 
-### Предупреждение
-`livan_9_ru_42bb95b1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
-Указывает на то, что игнорирование
-данного
-предупреждения
-может
-привести
-к
-серьезным
-травмам
-и
-летальному
-исходу. Необходимо четко
-следовать указанным шагам и тщательно
-ознакомиться
-с
-предложенной
-информацией.
+> ⚠️ **Внимание:** Указывает на то, что игнорирование
+> данного
+> предупреждения
+> может
+> привести
+> к
+> серьезным
+> травмам
+> и
+> летальному
+> исходу. Необходимо четко
+> следовать указанным шагам и тщательно
+> ознакомиться
+> с
+> предложенной
+> информацией.
 
-### Внимание
-`livan_9_ru_1f4ce17e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
-Указывает, что необходимо строго
-соблюдение шагов во избежание
-повреждения автомобиля.
+> ⚠️ **Внимание:** Указывает, что необходимо строго
+> соблюдение шагов во избежание
+> повреждения автомобиля.
 
 ### Указывает на данные для лучшего
-`livan_9_ru_8e4cc608` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 пользования автомобилем.
 Защита окружающей среды
 Указывает
@@ -28053,7 +26388,6 @@ R134a
 окружающей среды.
 
 ### Астериск
-`livan_9_ru_b0714e9b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 Типографский знак «*е указывает на то,
 что
 перечисленное
@@ -28074,20 +26408,17 @@ R134a
 обеспечен.
 
 ### Данные
-`livan_9_ru_73f58805` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 о
 графических
 изображениях
 Описание указанного объекта.
 
 ### Направление движения
-`livan_9_ru_5826a8fa` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 указанного объекта.
 Направление вращения
 указанного объекта.
 
 ### Указывает на запрещение такого
-`livan_9_ru_baa796da` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 действия или возникновения
 такой ситуации.
 Руководство по эксплуатации автомобиля: идентификация моделей
@@ -28102,7 +26433,6 @@ R134a
 9
 
 ### Идентификация
-`livan_9_ru_75047b7e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 моделей
 автомобиля
 Идентификатор автомобиля
@@ -28122,7 +26452,6 @@ VIN). Также при контакте с центром, если
 двигателя и номер коробки передач.
 
 ### 3. Идентификационный
-`livan_9_ru_9981dc8b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 номер
 транспортного средства (VIN)
 Расположение
@@ -28130,7 +26459,6 @@ VIN). Также при контакте с центром, если
 автомобиля
 
 ### Расположение
-`livan_9_ru_106c57d3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 номера
 двигателя
 Номер нанесен на блок двигателя, рядом
@@ -28142,7 +26470,6 @@ VIN). Также при контакте с центром, если
 спереди автомобиля).
 
 ### Расположение номера коробки
-`livan_9_ru_744116a0` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:11 | doc_type:owners_manual
 передач
 Код
 автоматической
@@ -28163,7 +26490,6 @@ VIN). Также при контакте с центром, если
 10
 
 ### Расположение
-`livan_9_ru_b125bb21` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:12 | doc_type:owners_manual
 идентификационного
 кода
 автомобиля (кода VIN)
@@ -28177,7 +26503,6 @@ VIN
 как показано на рисунке.
 
 ### Код VIN выгравирован на балке кузова
-`livan_9_ru_dbb34c99` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:12 | doc_type:owners_manual
 под передним пассажирским сиденьем.
 Чтобы увидеть код, отодвиньте сиденье
 переднего пассажира полностью назад и
@@ -28196,7 +26521,6 @@ VIN
 (код
 
 ### VIN).
-`livan_9_ru_47c0f86f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 Если
 нанесенный/выгравированный
 идентификационный код VIN на корпусе
@@ -28210,7 +26534,6 @@ VIN
 обслуживания LIVAN.
 
 ### Идентификационный код автомобиля на
-`livan_9_ru_738130d9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 табличке изготовителя:
 Идентификационный
 код
@@ -28218,7 +26541,6 @@ VIN
 (код
 
 ### VIN)
-`livan_9_ru_05fae941` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:12 | doc_type:owners_manual
 состоит
 из
 17
@@ -28229,7 +26551,6 @@ VIN
 и место сборки.
 
 ### Считывание
-`livan_9_ru_d66b3ca3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 идентификационного кода
 Код
 может
@@ -28244,14 +26565,12 @@ VIN
 Этапы проведения считывания:
 
 ### 1. Перевести зажигание
-`livan_9_ru_b1888562` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 в
 положение
 OFF;
 2. Подключить устройство диагностики
 
 ### LIVAN
-`livan_9_ru_90d34bbd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 к
 диагностическому
 интерфейсу OBD;
@@ -28265,7 +26584,6 @@ OFF;
 «разрешить подключениее
 
 ### 4. Автоматическое
-`livan_9_ru_cf2ca2d0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 считывание
 кода
 VIN.
@@ -28281,7 +26599,6 @@ VIN.
 11
 
 ### Считывание
-`livan_9_ru_c7ff8579` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 идентификационного
 кода автомобиля вышеуказанным
 методом
@@ -28294,14 +26611,12 @@ VIN.
 технического обслуживания автомобилей
 
 ### Микроволновое
-`livan_9_ru_33f8c70c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 окно
 автомобиля
 располагается в центре лобового стекла,
 перпендикулярно примыкая к нему.
 
 ### Электронное лого автомобиля должно
-`livan_9_ru_2284c37c` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:13 | doc_type:owners_manual
 располагаться справа от микроволнового
 окна.
 Оно
@@ -28314,7 +26629,6 @@ VIN.
 заднего вида, кронштейном датчика и пр.
 
 ### В
-`livan_9_ru_195af796` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 данном
 лого
 хранится
@@ -28324,7 +26638,6 @@ VIN.
 автомобиле.
 
 ### Сохраняйте лобовое стекло чистым
-`livan_9_ru_d45859c9` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:13 | doc_type:owners_manual
 и
 сухим.
 Не
@@ -28353,7 +26666,6 @@ VIN.
 Регистратор данных (EDR)
 
 ### LIVAN
-`livan_9_ru_25361120` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 оснащены
 соответствующим
 государственным
@@ -28362,7 +26674,6 @@ VIN.
 данных.
 
 ### Данная
-`livan_9_ru_bfd41c7b` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:13 | doc_type:owners_manual
 система
 позволяет
 регистрировать
@@ -28387,7 +26698,6 @@ VIN.
 средство во время инцидента).
 
 ### Сохраненные
-`livan_9_ru_bdcc9d99` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 данные
 могут
 помочь
@@ -28416,7 +26726,6 @@ VIN.
 и их безопасности.
 
 ### В
-`livan_9_ru_195af796` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 соответствии
 с
 национальными
@@ -28427,7 +26736,6 @@ VIN.
 компания
 
 ### LIVAN
-`livan_9_ru_25361120` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 может
 быть
 обязана
@@ -28460,7 +26768,6 @@ VIN.
 стандартам.
 
 ### Только
-`livan_9_ru_272b88b3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 уполномоченный
 персонал
 или
@@ -28470,7 +26777,6 @@ VIN.
 считывать данные.
 
 ### Табличка изготовителя располагается с
-`livan_9_ru_917e9e37` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 правой стороны автомобиля в нижней
 части центральной стойки и включает
 следующие данные:
@@ -28484,7 +26790,6 @@ VIN.
 •
 
 ### Знак обращения на рынке
-`livan_9_ru_e115f80f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 •
 Идентификационный
 номер
@@ -28494,7 +26799,6 @@ VIN.
 •
 
 ### Максимальная допустимая масса на
-`livan_9_ru_ba9f7153` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 переднюю ось
 •
 Максимальная допустимая масса на
@@ -28502,7 +26806,6 @@ VIN.
 •
 
 ### Страна производитель
-`livan_9_ru_616f7842` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 Руководство по эксплуатации автомобиля: идентификация моделей
 2
 8
@@ -28515,13 +26818,11 @@ VIN.
 13
 
 ### Устройства
-`livan_9_ru_f0e57f2f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 системы
 контроля и управления
 Обзор со стороны водителя
 
 ### Система контроля и управления
-`livan_9_ru_5c08723e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 14
 1.
 Внутренняя дверная ручка
@@ -28530,7 +26831,6 @@ VIN.
 2.
 
 ### Переключатели приборной панели
-`livan_9_ru_68353919` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:16 | doc_type:owners_manual
 10.
 Педаль акселератора
 3.
@@ -28541,7 +26841,6 @@ VIN.
 11.
 
 ### Педаль тормоза
-`livan_9_ru_07bd320c` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:16 | doc_type:owners_manual
 4.
 Отверстие для обогрева стекла
 слева
@@ -28550,7 +26849,6 @@ VIN.
 5.
 
 ### Комбинированный
-`livan_9_ru_614500fc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:16 | doc_type:owners_manual
 выключатель
 управления освещением
 13.
@@ -28562,7 +26860,6 @@ VIN.
 14.
 
 ### Переключатель
-`livan_9_ru_361c38c8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:16 | doc_type:owners_manual
 центрального
 запирания замков
 7.
@@ -28570,7 +26867,6 @@ VIN.
 15.
 
 ### Переключатель
-`livan_9_ru_361c38c8` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:16 | doc_type:owners_manual
 управления
 стеклоподъемниками
 8.
@@ -28578,7 +26874,6 @@ VIN.
 стеклоочистителей
 
 ### Система контроля и управления
-`livan_9_ru_b31d63b5` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:16 | doc_type:owners_manual
 2
 8
 7
@@ -28594,14 +26889,12 @@ VIN.
 8.
 
 ### Переключатель
-`livan_9_ru_c210c1e5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 управления
 автомобильным окном со стороны
 пассажира спереди
 2.
 
 ### Переключатель знаков аварийной
-`livan_9_ru_5adaeb73` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:17 | doc_type:owners_manual
 сигнализации
 9.
 Перчаточный ящик
@@ -28611,7 +26904,6 @@ VIN.
 10.
 
 ### Кнопка
-`livan_9_ru_bc2cb597` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:17 | doc_type:owners_manual
 открытия
 перчаточного
 ящика
@@ -28622,7 +26914,6 @@ VIN.
 11.
 
 ### Панель управления кондиционера
-`livan_9_ru_fc4dd085` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:17 | doc_type:owners_manual
 5.
 Правый
 дефлектор
@@ -28631,7 +26922,6 @@ VIN.
 12.
 
 ### Рычаг переключения передач
-`livan_9_ru_a995d34e` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:17 | doc_type:owners_manual
 6.
 Отверстие для обогрева стекла
 справа
@@ -28642,7 +26932,6 @@ VIN.
 7.
 
 ### Система контроля и управления
-`livan_9_ru_9a4bb841` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 16
 Приборная панель
 Описание приборной панели
@@ -28651,7 +26940,6 @@ VIN.
 3.
 
 ### Указатель
-`livan_9_ru_1c003077` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:18 | doc_type:owners_manual
 температуры
 охлаждающей жидкости
 2.
@@ -28660,13 +26948,11 @@ VIN.
 Указатель уровня топлива
 
 ### Режим отображения приборной панели можно установить вручную на экране
-`livan_9_ru_11ed4fe4` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:18 | doc_type:owners_manual
 дисплея.
 Изображение приборной панели является схематическим и приведено только для
 ознакомления. Для реального примера ознакомьтесь с приборной панелью автомобиля.
 
 ### Система контроля и управления
-`livan_9_ru_827b5530` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:18 | doc_type:owners_manual
 2
 8
 7
@@ -28682,7 +26968,6 @@ VIN.
 охлаждающей жидкости
 
 ### ON
-`livan_9_ru_fc641a87` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 указатель
 температуры
 воды
@@ -28691,7 +26976,6 @@ VIN.
 двигателя.
 
 ### Температура
-`livan_9_ru_de1235e6` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:19 | doc_type:owners_manual
 жидкости
 для
 охлаждения
@@ -28704,7 +26988,6 @@ VIN.
 нагрузки на двигатель.
 
 ### Максимальный
-`livan_9_ru_02182818` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 предел
 температуры
 охлаждающей
@@ -28715,7 +26998,6 @@ H,
 -
 
 ### С.
-`livan_9_ru_16f10e35` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:19 | doc_type:owners_manual
 Если
 загорается
 индикатор
@@ -28733,7 +27015,6 @@ H,
 обслуживания
 
 ### LIVAN
-`livan_9_ru_1630f173` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:19 | doc_type:owners_manual
 для
 проведения
 проверки.
@@ -28760,7 +27041,6 @@ H,
 •
 
 ### Резкое
-`livan_9_ru_1d38fdee` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 снижение
 скорости
 или
@@ -28774,7 +27054,6 @@ H,
 работе двигателя в холостом режиме.
 
 ### Тахометр показывает число
-`livan_9_ru_31f4211c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 вращений
 двигателя в минуту. Единица измерения -
 1000 оборотов в минуту, максимальная
@@ -28789,7 +27068,6 @@ H,
 топлива.
 
 ### В
-`livan_9_ru_3fd262d3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 большинстве
 случаев
 при
@@ -28816,7 +27094,6 @@ H,
 серьезному повреждению двигателя.
 
 ### Спидометр отображает текущую скорость
-`livan_9_ru_a01f1fee` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 автомобиля
 в
 км/ч,
@@ -28824,7 +27101,6 @@ H,
 отображаемое значение 240 км/ч.
 
 ### Система контроля и управления
-`livan_9_ru_a90a7633` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 18
 При
 хорошем
@@ -28844,7 +27120,6 @@ H,
 превышать скорость 120 км/ч.
 
 ### Оповещение
-`livan_9_ru_9c45b042` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 о
 превышении
 скорости
@@ -28859,7 +27134,6 @@ H,
 водителя.
 
 ### Оповещение
-`livan_9_ru_9c45b042` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 напоминает водителю о необходимости
 снизить
 скорость
@@ -28869,7 +27143,6 @@ H,
 для сигнала о превышении скорости: 30240 км/ч.
 
 ### Указатель уровня топлива
-`livan_9_ru_407b9abb` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 Когда
 пусковой
 переключатель
@@ -28940,7 +27213,6 @@ H,
 обслуживания
 
 ### LIVAN
-`livan_9_ru_0adb0df0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 для
 проведения
 проверки.
@@ -28951,7 +27223,6 @@ H,
 проехать при текущем уровне топлива.
 
 ### Система
-`livan_9_ru_a6cb7068` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 рассчитывает
 дистанцию
 каждую секунду, интерфейс обновляется
@@ -28988,7 +27259,6 @@ H,
 сбрасываться.
 
 ### Продолжительное
-`livan_9_ru_8210aea9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 использование
 автомобиля
 на
@@ -29006,7 +27276,6 @@ H,
 катализатора при остановке двигателя.
 
 ### Система контроля и управления
-`livan_9_ru_af5fe98f` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:20 | doc_type:owners_manual
 2
 8
 7
@@ -29020,7 +27289,6 @@ H,
 Описание дисплея
 
 ### 1. Область отображения часов
-`livan_9_ru_a53e3233` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 •
 Часы:
 по
@@ -29041,7 +27309,6 @@ H,
 2.
 
 ### Область
-`livan_9_ru_cc1dde5f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 отображения
 температуры снаружи машины
 •
@@ -29050,7 +27317,6 @@ H,
 отображаемый диапазон -40°С~60°С.
 
 ### 3. Область отображения передачи
-`livan_9_ru_b068af3d` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:21 | doc_type:owners_manual
 •
 Текущее
 положение
@@ -29065,7 +27331,6 @@ H,
 передачи: P, R, N, D.
 
 ### 4. Область отображения меню
-`livan_9_ru_6a84a48e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 •
 Отображается
 мгновенный
@@ -29082,7 +27347,6 @@ Trip
 шинах,
 
 ### Settings
-`livan_9_ru_2779c2d2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 (настройки
 автомобиля)
 и
@@ -29092,7 +27356,6 @@ Trip
 5.
 
 ### Область
-`livan_9_ru_cc1dde5f` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:21 | doc_type:owners_manual
 отображения
 информации о текущих функциях
 •
@@ -29101,7 +27364,6 @@ Trip
 информации.
 
 ### Система контроля и управления
-`livan_9_ru_ddc63b0e` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:21 | doc_type:owners_manual
 20
 Настройка дисплея
 Не
@@ -29122,7 +27384,6 @@ Trip
 руле.
 
 ### 1. Кнопка
-`livan_9_ru_049508e6` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:22 | doc_type:owners_manual
 главной
 страницы:
 коротко
@@ -29136,7 +27397,6 @@ Trip
 .
 
 ### 2. Кнопка
-`livan_9_ru_791db417` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 выбора/подтверждения:
 кратковременно нажмите эту кнопку,
 чтобы
@@ -29176,7 +27436,6 @@ Trip
 времени.
 
 ### 3. Правая
-`livan_9_ru_9f066f89` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 кнопка
 выбора:
 коротко
@@ -29185,7 +27444,6 @@ Trip
 приборной панели.
 
 ### 4. Кнопка
-`livan_9_ru_ea8bb688` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:22 | doc_type:owners_manual
 переключения:
 коротко
 нажмите
@@ -29202,7 +27460,6 @@ Trip
 панелью и экраном.
 
 ### 5. Левая
-`livan_9_ru_10f798b7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 кнопка
 выбора:
 коротко
@@ -29211,7 +27468,6 @@ Trip
 приборной панели.
 
 ### Подсказки
-`livan_9_ru_2e5f94e9` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:22 | doc_type:owners_manual
 и
 оповещения
 на
@@ -29249,7 +27505,6 @@ Trip
 оповещений в меню приборной панели.
 
 ### Оповещение
-`livan_9_ru_86c5f854` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 исчезнет
 только
 после
@@ -29266,7 +27521,6 @@ Trip
 21
 
 ### Водитель
-`livan_9_ru_c2ae4ebd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 должен
 серьезно
 относиться ко всем оповещениям.
@@ -29286,7 +27540,6 @@ Trip
 повреждению автомобиля или травмам.
 
 ### Настройки
-`livan_9_ru_ff27e205` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 интерфейса
 бортового компьютера
 Когда пусковой переключатель находится
@@ -29297,7 +27550,6 @@ Trip
 данные.
 
 ### В
-`livan_9_ru_d287543a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 интерфейсе
 бортового
 компьютера
@@ -29315,7 +27567,6 @@ Trip
 бортового компьютера на интерфейсе.
 
 ### Компьютерная информация о
-`livan_9_ru_4a25db18` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 трафике
 Мгновенный расход топлива
 При эксплуатации автомобиля частота
@@ -29342,7 +27593,6 @@ Trip
 Short Trip (короткая поездка)
 
 ### Система контроля и управления
-`livan_9_ru_a9a0df8d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 22
 Если с момента последнего выключения
 двигателя
@@ -29360,7 +27610,6 @@ Short Trip (короткая поездка)
 Trip (короткая поездка), следующие:
 
 ### 1. Trip：Short Trip обновляется один раз
-`livan_9_ru_b18f896e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 за каждые 0,1 км. Отображаемый
 диапазон - от 0,0 до 999,9 км. При
 достижении
@@ -29379,7 +27628,6 @@ Trip (короткая поездка), следующие:
 настройках меню.
 
 ### 2. Расход времени
-`livan_9_ru_2871135a` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:24 | doc_type:owners_manual
 : после проверки
 на запуск двигателя начинается учет
 времени вождения в коротком цикле.
@@ -29404,7 +27652,6 @@ Trip (короткая поездка), следующие:
 времени.
 
 ### Максимальное отображаемое время
-`livan_9_ru_013b3ede` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 вождения составляет 999:59 часов.
 3. Avg: средний расход топлива в Short
 Trip (короткой поездке) по умолчанию
@@ -29445,7 +27692,6 @@ Trip (короткой поездке) по умолчанию
 расчета.
 
 ### Количество впрыскиваемого топлива
-`livan_9_ru_2ae999c0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 на холостом ходу накапливается до
 момента
 однократного
@@ -29453,7 +27699,6 @@ Trip (короткой поездке) по умолчанию
 топлива.
 
 ### Единицу
-`livan_9_ru_b9bd9544` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 расхода
 топлива
 можно
@@ -29462,7 +27707,6 @@ Trip (короткой поездке) по умолчанию
 галлон (Великобритания).
 
 ### 4. Средняя скорость
-`livan_9_ru_b57a4093` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 : рассчитывается
 средняя скорость короткой поездки
 после
@@ -29474,14 +27718,12 @@ Trip (короткой поездке) по умолчанию
 автомобиль стоит.
 
 ### Единицу
-`livan_9_ru_b9bd9544` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 измерения
 можно
 переключать между км/ч и милями в
 час через меню.
 
 ### Использование различных стилей
-`livan_9_ru_fd224349` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:24 | doc_type:owners_manual
 вождения
 приводит
 к
@@ -29504,7 +27746,6 @@ Trip (короткой поездке) по умолчанию
 «Запуск двигателя и вождениее.
 
 ### Система контроля и управления
-`livan_9_ru_f3fada7b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 2
 8
 7
@@ -29523,7 +27764,6 @@ Long Trip (долгая поездка) отображает
 Trip (долгая поездка), следующие:
 
 ### 1. Trip
-`livan_9_ru_712d36e7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 (поездка):
 этот
 интерфейс
@@ -29552,7 +27792,6 @@ Trip (долгая поездка), следующие:
 настройках меню.
 
 ### 2. Расход времени
-`livan_9_ru_2cc81b51` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:25 | doc_type:owners_manual
 : после проверки
 на запуск двигателя начинается учет
 времени вождения в Long Trip (долгая
@@ -29571,7 +27810,6 @@ Trip (долгая поездка), следующие:
 начала.
 
 ### Максимальное отображаемое время
-`livan_9_ru_3e431d48` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 вождения составляет 999:59 часов.
 3. Avg: средний расход топлива в Long
 Trip (долгая поездка) по умолчанию
@@ -29627,7 +27865,6 @@ Trip (долгая поездка) по умолчанию
 расход топлива.
 
 ### После каждого включения зажигания
-`livan_9_ru_8aa1805a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 для отображения среднего расхода
 топлива
 используются
@@ -29636,7 +27873,6 @@ Trip (долгая поездка) по умолчанию
 последней поездки.
 
 ### 4. Средняя скорость
-`livan_9_ru_89e61767` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 : после запуска
 двигателя
 рассчитывается
@@ -29644,7 +27880,6 @@ Trip (долгая поездка) по умолчанию
 скорость Long Trip (долгая поездка).
 
 ### Когда двигатель останавливается или
-`livan_9_ru_50d10f6f` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:25 | doc_type:owners_manual
 глохнет, расчет приостанавливается.
 Единицу
 измерения
@@ -29653,7 +27888,6 @@ Trip (долгая поездка) по умолчанию
 час через меню.
 
 ### Система контроля и управления
-`livan_9_ru_e7f38197` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:25 | doc_type:owners_manual
 24
 Использование различных стилей
 вождения
@@ -29678,7 +27912,6 @@ Trip (долгая поездка) по умолчанию
 «Запуск двигателя и вождениее.
 
 ### Состояние шин
-`livan_9_ru_4332a13b` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:26 | doc_type:owners_manual
 •
 Предупреждение
 о
@@ -29710,7 +27943,6 @@ Trip (долгая поездка) по умолчанию
 •
 
 ### Оповещение
-`livan_9_ru_1bb504b6` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:26 | doc_type:owners_manual
 о
 низком
 давлении
@@ -29738,7 +27970,6 @@ Trip (долгая поездка) по умолчанию
 звуковым.
 
 ### В
-`livan_9_ru_d7f0653b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 некоторых
 моделях
 автомобилей
@@ -29762,7 +27993,6 @@ Trip (долгая поездка) по умолчанию
 •
 
 ### Оповещение
-`livan_9_ru_1bb504b6` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:26 | doc_type:owners_manual
 о
 неисправности
 системы
@@ -29781,7 +28011,6 @@ Trip (долгая поездка) по умолчанию
 сигналом.
 
 ### В
-`livan_9_ru_d7f0653b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 интерфейсе
 некоторых
 моделей
@@ -29792,7 +28021,6 @@ Trip (долгая поездка) по умолчанию
 подсказки.
 
 ### Лампы не выключены
-`livan_9_ru_840612cd` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:26 | doc_type:owners_manual
 Когда
 пусковой
 переключатель
@@ -29810,7 +28038,6 @@ Trip (долгая поездка) по умолчанию
 вам, что свет не выключен. В то же время
 
 ### Система контроля и управления
-`livan_9_ru_f97f2b94` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:26 | doc_type:owners_manual
 2
 8
 7
@@ -29831,7 +28058,6 @@ Trip (долгая поездка) по умолчанию
 предотвратить разрядку аккумулятора.
 
 ### При выходе из машины выключайте
-`livan_9_ru_724d3587` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:27 | doc_type:owners_manual
 все
 фары,
 чтобы
@@ -29840,7 +28066,6 @@ Trip (долгая поездка) по умолчанию
 запуска двигателя.
 
 ### Уведомление
-`livan_9_ru_b1320076` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:27 | doc_type:owners_manual
 о
 не
 закрытой
@@ -29858,7 +28083,6 @@ Trip (долгая поездка) по умолчанию
 время движения автомобиля.
 
 ### Система контроля и управления
-`livan_9_ru_120e5098` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:27 | doc_type:owners_manual
 26
 Информация меню
 Меню первого
@@ -29867,7 +28091,6 @@ Trip (долгая поездка) по умолчанию
 уровня
 
 ### Меню третьего
-`livan_9_ru_83f57af2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 уровня
 Меню четвертого
 уровня
@@ -29885,7 +28108,6 @@ Binding (Привязка
 □Sport (Спорт)
 
 ### Overspeed
-`livan_9_ru_165a151b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 warning
 (Предупрежде
 ние о
@@ -29901,14 +28123,12 @@ warning
 □Off (Выключить)
 
 ### Громкость
-`livan_9_ru_ef5ac9f7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 оповещений
 □High (Высокая)
 □Middle (Средняя)
 □Low (Низкая)
 
 ### Service Info
-`livan_9_ru_ddfc7d18` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 (сервисная
 информация)
 10000 км или 360
@@ -29922,7 +28142,6 @@ warning
 Language (язык)
 
 ### English
-`livan_9_ru_f2318ab4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 (английский)
 Russian (русский)
 Spanish
@@ -29930,7 +28149,6 @@ Spanish
 Arabic (арабский)
 
 ### Система контроля и управления
-`livan_9_ru_9041148c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 2
 8
 7
@@ -29946,7 +28164,6 @@ Arabic (арабский)
 уровня
 
 ### Меню третьего
-`livan_9_ru_1e093101` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 уровня
 Меню четвертого
 уровня
@@ -29968,7 +28185,6 @@ Unit (Единицы)
 (Температура)
 
 ### □°F
-`livan_9_ru_5cdb1222` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 □Pressure
 (Давление)
 □фунт на квадратный
@@ -29987,13 +28203,11 @@ Unit (Единицы)
 □миль, миль на галлон
 
 ### (США)
-`livan_9_ru_7c5f0161` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 □миль, миль на галлон
 (Великобритания)
 Настройки меню
 
 ### Коротко нажмите кнопку меню на правой
-`livan_9_ru_d7c7a3a2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 стороне руля,
 а затем нажмите кнопку
 выбора/подтверждения,
@@ -30004,7 +28218,6 @@ Unit (Единицы)
 управлять приборной панелью.
 
 ### 1. Переключение меню
-`livan_9_ru_ffaba210` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 •
 После открытия меню приборной
 панели переключите отображение
@@ -30014,7 +28227,6 @@ Unit (Единицы)
 кнопке руля.
 
 ### 2. Выбор меню
-`livan_9_ru_2e93008b` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:29 | doc_type:owners_manual
 •
 После
 активации
@@ -30024,7 +28236,6 @@ Unit (Единицы)
 кнопку
 
 ### Система контроля и управления
-`livan_9_ru_baf97cc2` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:29 | doc_type:owners_manual
 28
 выбора/подтверждения на правой
 стороне руля вверх/вниз, чтобы
@@ -30038,7 +28249,6 @@ Unit (Единицы)
 установить функцию.
 
 ### 3. Состояние выбора
-`livan_9_ru_b3321d24` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 •
 Когда
 пункт
@@ -30049,7 +28259,6 @@ Unit (Единицы)
 •
 
 ### Нажмите
-`livan_9_ru_d17cbc6a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 кнопку
 выбора/
 подтверждения,
@@ -30080,7 +28289,6 @@ Unit (Единицы)
 автоматически закроется.
 
 ### Что необходимо знать о настройках
-`livan_9_ru_b425427d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 меню
 •
 После входа в интерфейс меню строка
@@ -30088,7 +28296,6 @@ Unit (Единицы)
 •
 
 ### Если пунктов меню слишком много и
-`livan_9_ru_dc1da917` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:30 | doc_type:owners_manual
 они
 не
 помещаются
@@ -30122,7 +28329,6 @@ Unit (Единицы)
 •
 
 ### Происходит переход от меню более
-`livan_9_ru_d4333fb2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 верхнего
 уровня
 к
@@ -30137,7 +28343,6 @@ Unit (Единицы)
 закроется.
 
 ### Система контроля и управления
-`livan_9_ru_53f3439e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:30 | doc_type:owners_manual
 2
 8
 7
@@ -30156,7 +28361,6 @@ Unit (Единицы)
 индикаторных ламп
 
 ### Если автомобиль обнаружит необходимость включения одного или нескольких
-`livan_9_ru_e5bddfee` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:31 | doc_type:owners_manual
 предупреждающих
 индикаторов,
 система
@@ -30165,7 +28369,6 @@ Unit (Единицы)
 индикаторы на экране дисплея.
 
 ### Информация о сигнальных и
-`livan_9_ru_4fc88d55` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:31 | doc_type:owners_manual
 индикаторных лампах
 Изображен
 ие
@@ -30173,7 +28376,6 @@ Unit (Единицы)
 Инструкции
 
 ### Индикаторная лампа левого
-`livan_9_ru_9c6feda3` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:31 | doc_type:owners_manual
 поворотника
 Включение левого указателя
 поворота
@@ -30181,21 +28383,18 @@ Unit (Единицы)
 поворотника
 
 ### Включение правого указателя
-`livan_9_ru_b39d0865` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:31 | doc_type:owners_manual
 поворота
 Индикаторная лампа фар
 ближнего света
 Включение фар ближнего света
 
 ### Индикаторная лампа фар
-`livan_9_ru_764dab54` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:31 | doc_type:owners_manual
 дальнего света
 Включение фар дальнего света
 Система контроля и управления
 30
 
 ### Изображен
-`livan_9_ru_f48690ce` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:32 | doc_type:owners_manual
 ие
 Наименование
 Инструкции
@@ -30203,27 +28402,23 @@ Unit (Единицы)
 противотуманных фар
 
 ### Включение задних
-`livan_9_ru_343438dd` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:32 | doc_type:owners_manual
 противотуманных фар
 Индикаторная лампа габаритных
 огней
 
 ### Сигнальная лампа неисправности
-`livan_9_ru_4b7ba862` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:32 | doc_type:owners_manual
 антиблокировочной системы
 (ABS)
 Неисправность
 антиблокировочной системы
 
 ### Сигнальная лампа неисправности
-`livan_9_ru_4b7ba862` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:32 | doc_type:owners_manual
 системы распределения
 тормозных усилий (EBD)
 Неисправность системы
 распределения тормозных усилий
 
 ### Сигнальная лампа неисправности
-`livan_9_ru_4b7ba862` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:32 | doc_type:owners_manual
 тормозной системы
 Неисправность тормозной
 системы
@@ -30231,7 +28426,6 @@ Unit (Единицы)
 тормоза
 
 ### Включена функция электронного
-`livan_9_ru_e82e5a08` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:32 | doc_type:owners_manual
 стояночного тормоза
 Включена функция (AUTO HOLD)
 Сигнальная лампа неисправности
@@ -30239,25 +28433,21 @@ Unit (Единицы)
 тормоза (EPB)
 
 ### Неисправность электрического
-`livan_9_ru_5d6695f4` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:32 | doc_type:owners_manual
 стояночного тормоза (EPB)
 Индикаторная лампа состояния
 автоматического удержания (AVH)
 
 ### Включена функция
-`livan_9_ru_f0631298` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:32 | doc_type:owners_manual
 автоматического удержания (AVH)
 Неисправность автоматического
 удержания (AVH)
 
 ### Сигнальная лампа неисправности
-`livan_9_ru_4b7ba862` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:32 | doc_type:owners_manual
 подушки безопасности
 Неисправность системы подушки
 безопасности
 
 ### Сигнальная лампа
-`livan_9_ru_15e84ee1` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:32 | doc_type:owners_manual
 непристегнутого ремня
 безопасности водителя
 Ремень безопасности водителя не
@@ -30265,13 +28455,11 @@ Unit (Единицы)
 пристегните ремень безопасности
 
 ### Сигнальная лампа неисправности
-`livan_9_ru_4b7ba862` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:32 | doc_type:owners_manual
 двигателя связанная с экологией
 Неисправность выхлопной
 системы двигателя
 
 ### Система контроля и управления
-`livan_9_ru_a72b3de4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:32 | doc_type:owners_manual
 2
 8
 7
@@ -30287,7 +28475,6 @@ Unit (Единицы)
 Инструкции
 
 ### Сигнальная лампа неисправности
-`livan_9_ru_5b095264` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 системы двигателя
 Неисправность систем двигателя
 Сигнальная лампа неисправности
@@ -30295,7 +28482,6 @@ Unit (Единицы)
 устойчивости (ESC)
 
 ### Неисправность системы
-`livan_9_ru_8480163d` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 электронного контроля
 устойчивости (ESC)
 Сигнальная лампа высокой
@@ -30303,20 +28489,17 @@ Unit (Единицы)
 жидкости
 
 ### Сигнальная лампа низкого уровня
-`livan_9_ru_c5e37ad2` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 топлива
 Низкий уровень топлива
 Сигнальная лампа низкого
 давления масла
 
 ### Сигнальная лампа неисправности
-`livan_9_ru_5b095264` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 системы зарядки аккумулятора
 Система зарядки аккумулятора
 неисправна
 
 ### Сигнальная лампа неисправности
-`livan_9_ru_5b095264` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:33 | doc_type:owners_manual
 системы электроусиления
 рулевого управления (EPS)
 Потеря/временное ослабление
@@ -30324,38 +28507,32 @@ Unit (Единицы)
 рулевого управления
 
 ### Сигнальная лампа некорректного
-`livan_9_ru_1f478b08` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 давления в шинах TPMS
 Неисправность системы контроля
 давления в шинах (TPMS) или
 низкое давление в шинах
 
 ### Сигнальная лампа неисправности
-`livan_9_ru_5b095264` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 коробки передач
 Неисправность коробки передач
 Световой индикатор системы
 контроля спуска со склона (HDC)
 
 ### Запуск системы контроля спуска
-`livan_9_ru_e5570830` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 со склона (HDC)
 Индикаторная лампа круизконтроля
 Активация круиз-контроля
 
 ### Напоминание об усталости от
-`livan_9_ru_e0c9ac18` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 вождения, необходим отдых
 Сигнальная лампа неисправности
 
 ### Имеются неразрешенные
-`livan_9_ru_f5e2070f` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 текстовые сигналы тревоги,
 активируется сигнальная лампа
 неисправности.
 
 ### Система контроля и управления
-`livan_9_ru_3e4cca2c` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:33 | doc_type:owners_manual
 32
 Изображен
 ие
@@ -30365,19 +28542,16 @@ Unit (Единицы)
 запуска и остановки двигателя
 
 ### Система запуска и остановки
-`livan_9_ru_52370d9a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:34 | doc_type:owners_manual
 двигателя работает
 Включена система старт-стоп
 двигателя
 
 ### Когда индикатор предупреждения продолжает гореть красным после запуска
-`livan_9_ru_ff007a7a` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 или когда сигнальная лампа горит красным во время движения, это указывает
 на серьезную неисправность автомобиля. Пожалуйста, немедленно обратитесь в
 центр технического обслуживания LIVAN для проведения диагностики.
 
 ### Черные изображения в таблице будут отображаться белого цвета на экране
-`livan_9_ru_db0e6942` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:34 | doc_type:owners_manual
 приборной панели.
 Система контроля и управления
 2
@@ -30391,7 +28565,6 @@ Unit (Единицы)
 33
 
 ### Комбинированный
-`livan_9_ru_0b33a2e6` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:35 | doc_type:owners_manual
 переключатель
 освещения
 и
@@ -30400,7 +28573,6 @@ Unit (Единицы)
 выключатель освещения
 
 ### 1. Переключатель
-`livan_9_ru_c83a7669` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 управления
 освещением
 2. Переключатель
@@ -30408,7 +28580,6 @@ Unit (Единицы)
 противотуманными фарами
 
 ### 3. Ручка
-`livan_9_ru_804d11ef` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 переключателя
 освещения
 (управление
@@ -30422,7 +28593,6 @@ Unit (Единицы)
 поворотниками)
 
 ### Управление комбинированным
-`livan_9_ru_b4d9ad3b` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 переключателем освещения
 Габаритные огни
 Когда пусковой переключатель находится
@@ -30452,13 +28622,11 @@ Unit (Единицы)
 направлении
 
 ### B,
-`livan_9_ru_4ca4e962` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 чтобы
 выключить габаритные огни и световые
 индикаторы приборной панели.
 
 ### Система контроля и управления
-`livan_9_ru_dd70a575` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:35 | doc_type:owners_manual
 34
 Фары ближнего света
 Установите
@@ -30468,7 +28636,6 @@ Unit (Единицы)
 положение
 
 ### ON
-`livan_9_ru_39213696` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 и
 поверните
 переключатель управления освещением
@@ -30488,7 +28655,6 @@ Unit (Единицы)
 огни.
 
 ### Поворачивайте
-`livan_9_ru_8aa6daa2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 переключатель управления освещением
 в направлении B до тех пор, пока стрелка
 не
@@ -30497,13 +28663,11 @@ Unit (Единицы)
 отметку
 
 ### O,
-`livan_9_ru_ef28acca` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 фары
 ближнего света будут отключены.
 Автоматическое освещение
 
 ### Поворачивайте
-`livan_9_ru_8aa6daa2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 переключатель
 управления освещением в направлении
 A до тех пор, пока стрелка не укажет
@@ -30511,7 +28675,6 @@ A до тех пор, пока стрелка не укажет
 положение
 
 ### AUTO,
-`livan_9_ru_1acc6046` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 будет
 включена
 функция
@@ -30532,7 +28695,6 @@ A до тех пор, пока стрелка не укажет
 освещения.
 
 ### Система
-`livan_9_ru_70c1f3e7` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 автоматического
 освещения
 может
@@ -30557,7 +28719,6 @@ A до тех пор, пока стрелка не укажет
 габаритные огни и фары ближнего света.
 
 ### Система имеет функцию ручного
-`livan_9_ru_3f5fab0b` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 приоритета
 в
 автоматическом
@@ -30566,7 +28727,6 @@ A до тех пор, пока стрелка не укажет
 режима автоматического освещения.
 
 ### Переключение
-`livan_9_ru_965929ef` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 фар
 дальнего
 и
@@ -30578,7 +28738,6 @@ A до тех пор, пока стрелка не укажет
 положение
 
 ### ON
-`livan_9_ru_39213696` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 до
 включения
 фары
@@ -30606,14 +28765,12 @@ A до тех пор, пока стрелка не укажет
 направлении
 
 ### C,
-`livan_9_ru_b20248c0` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 чтобы
 выключить
 дальний свет.
 Мигание фар дальнего света
 
 ### Переместите
-`livan_9_ru_b2325d4a` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:36 | doc_type:owners_manual
 ручку
 переключателя
 освещения в направлении F в крайнее
@@ -30628,7 +28785,6 @@ A до тех пор, пока стрелка не укажет
 выключится.
 
 ### Установите
-`livan_9_ru_a6ebd1ef` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -30642,7 +28798,6 @@ ON,
 направлении
 
 ### E,
-`livan_9_ru_8aaf80c8` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:36 | doc_type:owners_manual
 левый
 индикатор
 рулевого
@@ -30657,7 +28812,6 @@ ON,
 положение, сигнал поворота выключится.
 
 ### Установите
-`livan_9_ru_a6ebd1ef` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -30670,7 +28824,6 @@ ON,
 в
 
 ### Система контроля и управления
-`livan_9_ru_f93d71bc` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:36 | doc_type:owners_manual
 2
 8
 7
@@ -30690,7 +28843,6 @@ D,
 мигать.
 
 ### После завершения рулевого управления
-`livan_9_ru_f4e9d252` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:37 | doc_type:owners_manual
 ручка
 переключателя
 освещения
@@ -30698,7 +28850,6 @@ D,
 положение, сигнал поворота выключится.
 
 ### Когда пусковой переключатель находится
-`livan_9_ru_d295a35d` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 в положении ON и фары ближнего света
 включены,
 нажмите
@@ -30717,7 +28868,6 @@ D,
 передних фар
 
 ### Данная
-`livan_9_ru_6f0f421a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 ручка
 используется
 для
@@ -30725,7 +28875,6 @@ D,
 фар.
 
 ### Ручка регулировки высоты передних фар
-`livan_9_ru_820b7692` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:37 | doc_type:owners_manual
 имеет четыре положения: 0, 1, 2 и 3.
 Установите
 положение
@@ -30761,7 +28910,6 @@ D,
 движущихся с встречной стороны.
 
 ### Включение дневных ходовых огней
-`livan_9_ru_8c9df3a8` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 После
 запуска
 двигателя
@@ -30777,7 +28925,6 @@ D,
 ходовые огни.
 
 ### Дневные
-`livan_9_ru_029fb9b5` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:37 | doc_type:owners_manual
 ходовые
 огни
 автоматически
@@ -30788,7 +28935,6 @@ D,
 Горит ближний или дальний свет.
 
 ### Проводи меня домой
-`livan_9_ru_83503133` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 Включение функции «Проводи меня
 домойе
 В течение
@@ -30799,7 +28945,6 @@ D,
 пускового переключателя в положение
 
 ### OFF быстро переведите переключатель
-`livan_9_ru_ac2d30dd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 освещения из положения O в положение,
 Система контроля и управления
 36
@@ -30809,20 +28954,17 @@ D,
 положение
 
 ### Включится
-`livan_9_ru_aab9b45e` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:38 | doc_type:owners_manual
 функция «Проводи меня домойе, а также
 ближний свет и габаритные огни.
 Отключение функции «Проводи меня
 домойе
 
 ### При выполнении любого из следующих
-`livan_9_ru_365762e0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 условий функция «Проводи меня домойе
 будет отключена:
 •
 
 ### Пусковой переключатель не находится
-`livan_9_ru_b727df0f` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:38 | doc_type:owners_manual
 в положении OFF;
 •
 Поверните
@@ -30830,7 +28972,6 @@ D,
 переключатель света в положение не
 
 ### О;
-`livan_9_ru_59d819d0` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:38 | doc_type:owners_manual
 •
 Истечение времени.
 Время действия функции «Проводи
@@ -30840,7 +28981,6 @@ D,
 мультимедиа.
 
 ### Комбинированный
-`livan_9_ru_f35d9fe2` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 переключатель
 стеклоочистителя
 1. Ручка
@@ -30848,7 +28988,6 @@ D,
 стеклоочистителями
 
 ### 2. Ручка
-`livan_9_ru_80c769df` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 регулировки
 частоты
 прерывистого
@@ -30856,7 +28995,6 @@ D,
 стеклоочистителя
 
 ### Если на ветровом стекле есть пыль
-`livan_9_ru_e896bb4f` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 или
 песок,
 пожалуйста,
@@ -30878,14 +29016,12 @@ D,
 стеклоочистителя.
 
 ### Управление
-`livan_9_ru_df360f61` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 передним
 комбинированным
 переключателем
 стеклоочистителей
 
 ### Кратковременное
-`livan_9_ru_c49b41d8` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 движение
 передних стеклоочистителей
 Переместите
@@ -30902,13 +29038,11 @@ D,
 стеклоочистителями.
 
 ### Рукоятка
-`livan_9_ru_da45d44e` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 управления
 стеклоочистителем
 автоматически возвратится в положение
 
 ### O,
-`livan_9_ru_d9e5069c` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 стеклоочистители
 начнут движение
 толчками.
@@ -30921,7 +29055,6 @@ D,
 в
 
 ### Система контроля и управления
-`livan_9_ru_2cd41a6e` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:38 | doc_type:owners_manual
 2
 8
 7
@@ -30937,7 +29070,6 @@ O,
 выключатся.
 
 ### Прерывистое
-`livan_9_ru_7b1eec4e` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 движение
 стеклоочистителей
 Переместите
@@ -30948,7 +29080,6 @@ O,
 выполнять прерывистое движение.
 
 ### Скорость
-`livan_9_ru_d2bfd2b1` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 работы
 стеклоочистителей
 можно
@@ -30968,7 +29099,6 @@ O,
 изменилась с быстрой на медленную.
 
 ### Движение
-`livan_9_ru_3d8b2816` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 стеклоочистителей
 с
 низкой скоростью
@@ -30986,7 +29116,6 @@ O,
 низкой скорости.
 
 ### Движение
-`livan_9_ru_3d8b2816` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 стеклоочистителей
 с
 высокой скоростью
@@ -31010,7 +29139,6 @@ O,
 пускового переключателя из положения
 
 ### ON в положение OFF с помощью ручки
-`livan_9_ru_ff37f7f6` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 управления
 стеклоочистителями
 переместите его в направлении A на
@@ -31038,7 +29166,6 @@ O,
 переключатель находится в положении
 
 ### ON и происходит переключение передач
-`livan_9_ru_d6329b2b` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 стеклоочистителя,
 стеклоочиститель
 выходит
@@ -31049,7 +29176,6 @@ O,
 возвращается в исходное состояние.
 
 ### Переместите
-`livan_9_ru_cbfd6650` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 ручку
 управления
 стеклоочистителями в направлении D,
@@ -31067,7 +29193,6 @@ O,
 воду.
 
 ### После очистки стеклоочистители будут
-`livan_9_ru_b5b1307b` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 продолжать
 движение в течение трех
 циклов,
@@ -31082,7 +29207,6 @@ O,
 цикл работы.
 
 ### Замедление стеклоочистителей при
-`livan_9_ru_aa1144a6` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 парковке
 Когда автомобиль остановлен, скорость
 работы
@@ -31101,7 +29225,6 @@ O,
 мультимедиа.
 
 ### Система контроля и управления
-`livan_9_ru_9f68397a` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:39 | doc_type:owners_manual
 38
 Работа
 заднего
@@ -31110,12 +29233,10 @@ O,
 стеклоочистителей
 
 ### Нажмите кнопку
-`livan_9_ru_e941a95c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:40 | doc_type:owners_manual
 заднего дворника, он
 совершит однократное движение.
 
 ### Прерывистое
-`livan_9_ru_7f028194` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:40 | doc_type:owners_manual
 движение
 стеклоочистителей
 Нажмите
@@ -31129,7 +29250,6 @@ O,
 прерывистое движение.
 
 ### Переместите
-`livan_9_ru_3438deb2` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:40 | doc_type:owners_manual
 ручку
 управления
 стеклоочистителями
@@ -31148,7 +29268,6 @@ O,
 воду.
 
 ### Перед использованием дворников
-`livan_9_ru_c0ba9533` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:40 | doc_type:owners_manual
 зимой
 или
 в
@@ -31161,7 +29280,6 @@ O,
 обогрева заднего стекла.
 
 ### Система контроля и управления
-`livan_9_ru_18f9b16c` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:40 | doc_type:owners_manual
 2
 8
 7
@@ -31185,7 +29303,6 @@ O,
 руле, сработает звуковой сигнал.
 
 ### Область изображения клаксона на
-`livan_9_ru_444cee70` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:41 | doc_type:owners_manual
 руле
 также
 является
@@ -31208,7 +29325,6 @@ O,
 несчастных случаев.
 
 ### Регулировка
-`livan_9_ru_d4e5548a` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:41 | doc_type:owners_manual
 рулевого
 колеса
 Не
@@ -31225,7 +29341,6 @@ O,
 автомобилем.
 
 ### После регулировки положения руля
-`livan_9_ru_f34964bd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 убедитесь, что руль заблокирован.
 Разблокировка руля может привести к
 тому,
@@ -31235,7 +29350,6 @@ O,
 управление и станет опасным.
 
 ### Установите
-`livan_9_ru_fe4f81c2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 руль
 в
 правильное
@@ -31245,7 +29359,6 @@ O,
 действия:
 
 ### 1. Выберите
-`livan_9_ru_ffca3245` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 подходящее
 место
 для
@@ -31257,13 +29370,11 @@ O,
 движения вперед прямо.
 
 ### 3. До конца отпустите рычаг блокировки
-`livan_9_ru_8054e75e` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:41 | doc_type:owners_manual
 рулевого колеса.
 4. Отрегулируйте руль вверх и вниз в
 нужное положение.
 
 ### 5. После перевода руля в подходящее
-`livan_9_ru_d43fb07f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 положение руля до конца потяните
 вверх
 рычаг
@@ -31277,7 +29388,6 @@ O,
 положении.
 
 ### Система контроля и управления
-`livan_9_ru_e3a55c35` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:41 | doc_type:owners_manual
 40
 Кнопки на рулевом колесе
 1. Кнопка
@@ -31297,7 +29407,6 @@ O,
 скорость.
 
 ### Переведение
-`livan_9_ru_adf7101f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 данной
 кнопки
 вниз
@@ -31310,19 +29419,16 @@ O,
 крейсерской.
 
 ### 2. Кнопка приема звонка: прием/ сброс
-`livan_9_ru_da011636` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:42 | doc_type:owners_manual
 звонка через Bluetooth.
 3. Кнопка голосового управления: запуск
 функции голосового управления.
 
 ### 4. Кнопка
-`livan_9_ru_dc56d4f0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 круиз-контроля:
 включает/
 выключает систему круиз-контроля.
 
 ### 1. Кнопка
-`livan_9_ru_b048a309` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 отключения
 звука:
 кратковременно нажмите эту кнопку,
@@ -31335,7 +29441,6 @@ O,
 режима отключения звука.
 
 ### 2. Правая кнопка выбора: когда меню
-`livan_9_ru_cb74b084` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 приборной
 панели
 открыто,
@@ -31351,14 +29456,12 @@ O,
 следующую песню или канал.
 
 ### 3. Кнопка
-`livan_9_ru_aac45d52` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 меню:
 кратковременно
 нажмите эту кнопку, а затем нажмите
 кнопку
 
 ### OK,
-`livan_9_ru_26c68207` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:42 | doc_type:owners_manual
 чтобы
 открыть
 меню
@@ -31380,7 +29483,6 @@ O,
 руле находится в мультимедиа.
 
 ### MODE:
-`livan_9_ru_9bc6ae49` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:42 | doc_type:owners_manual
 переключение
 источника
 звука
@@ -31390,7 +29492,6 @@ O,
 мультимедийный интерфейс.
 
 ### Система контроля и управления
-`livan_9_ru_738c55e9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 2
 8
 7
@@ -31436,7 +29537,6 @@ O,
 предыдущую песню или канал.
 
 ### 6. Кнопка главной страницы: когда в
-`livan_9_ru_974014ff` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:43 | doc_type:owners_manual
 меню
 настроек
 автомобиля
@@ -31461,7 +29561,6 @@ O,
 страницу.
 
 ### 7. Кнопка регулировки громкости, кнопка
-`livan_9_ru_14e18e0a` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:43 | doc_type:owners_manual
 выбора
 меню
 или
@@ -31479,7 +29578,6 @@ OK:
 чтобы перезапустить экран.
 
 ### Боковые
-`livan_9_ru_1203fee7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 зеркала
 заднего
 вида
@@ -31497,7 +29595,6 @@ OK:
 правильно отрегулированы.
 
 ### Переключатель
-`livan_9_ru_84aea9ff` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 регулировки
 боковых
 зеркал
@@ -31508,7 +29605,6 @@ OK:
 внутренней панели водительской двери.
 
 ### 1. Переключатель регулировки боковых
-`livan_9_ru_e71f34de` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 зеркал заднего вида
 Расстояние до объектов, видимых в
 боковых
@@ -31537,7 +29633,6 @@ OK:
 Пожалуйста,
 
 ### Система контроля и управления
-`livan_9_ru_2b185ef6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 42
 используйте
 функцию
@@ -31556,7 +29651,6 @@ OK:
 нему во время работы.
 
 ### Настройка
-`livan_9_ru_e54f9799` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 боковых
 зеркал
 заднего вида
@@ -31568,7 +29662,6 @@ OK:
 положении
 
 ### ON,
-`livan_9_ru_448e5244` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:44 | doc_type:owners_manual
 установите
 переключатель
 регулировки
@@ -31589,7 +29682,6 @@ OK:
 вида соответственно.
 
 ### 2. Перемещайте
-`livan_9_ru_e22883cf` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 переключатель
 регулировки
 бокового
@@ -31599,7 +29691,6 @@ OK:
 наклона.
 
 ### 3. После
-`livan_9_ru_f6887119` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 завершения
 настройки
 поверните
@@ -31612,7 +29703,6 @@ OK:
 (0).
 
 ### Складывание боковых зеркал
-`livan_9_ru_954116e5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 заднего вида
 Боковые зеркала заднего вида данного
 автомобиля
@@ -31629,7 +29719,6 @@ OK:
 дорогам и парковке автомобиля.
 
 ### Система контроля и управления
-`livan_9_ru_4daa8436` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 2
 8
 7
@@ -31643,13 +29732,11 @@ OK:
 заднего вида
 
 ### Нажмите на боковое зеркало заднего
-`livan_9_ru_fba13189` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 вида в направлении внутрь или наружу,
 чтобы вручную сложить или разложить
 его.
 
 ### Электронное складывание боковых
-`livan_9_ru_55cbeee3` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:45 | doc_type:owners_manual
 зеркал заднего вида*
 Боковые зеркала заднего вида имеют
 функцию складывания, которой удобно
@@ -31673,7 +29760,6 @@ OK:
 боковые зеркала заднего вида сложатся.
 
 ### Когда необходимо развернуть боковое
-`livan_9_ru_f34f298c` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 зеркало
 заднего
 вида,
@@ -31681,7 +29767,6 @@ OK:
 переключатель на другое положение.
 
 ### Функция
-`livan_9_ru_868c9dee` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:45 | doc_type:owners_manual
 автоматического
 складывания
 боковых
@@ -31727,7 +29812,6 @@ OK:
 автоматически раскроются.
 
 ### Система контроля и управления
-`livan_9_ru_11d37991` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:45 | doc_type:owners_manual
 44
 Функция
 обогрева
@@ -31757,7 +29841,6 @@ OK:
 выключится примерно через 12 минут.
 
 ### Подробнее
-`livan_9_ru_573a80ba` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:46 | doc_type:owners_manual
 см.
 в
 главе
@@ -31772,7 +29855,6 @@ OK:
 кондиционирования воздухае.
 
 ### Внутреннее зеркало заднего
-`livan_9_ru_8cb59804` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 вида
 Регулировка
 внутреннего
@@ -31794,7 +29876,6 @@ OK:
 желаемое положение.
 
 ### Внутреннее
-`livan_9_ru_7b41dc01` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 зеркало
 заднего
 вида
@@ -31819,7 +29900,6 @@ OK:
 реализовать
 
 ### Система контроля и управления
-`livan_9_ru_73ba10b9` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 2
 8
 7
@@ -31850,7 +29930,6 @@ OK:
 Окна
 
 ### Электрические
-`livan_9_ru_20ffc9fb` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 стеклоподъемники
 Никогда
 не
@@ -31868,7 +29947,6 @@ OK:
 окнами.
 
 ### Неспособность
-`livan_9_ru_7ef16c15` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 открытия этими лицами дверей и окон
 может повлечь за собой вред здоровью
 или смерть из-за воздействия слишком
@@ -31883,7 +29961,6 @@ OK:
 ли окна функцию защиты от защемления.
 
 ### Не пытайтесь использовать части своего
-`livan_9_ru_f331742a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 тела для проверки функции защиты от
 защемления, иначе это может привести к
 травмам или смерти.
@@ -31898,7 +29975,6 @@ OK:
 от защемления может не сработать.
 
 ### Электрические
-`livan_9_ru_20ffc9fb` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 стеклоподъемники
 Система контроля и управления
 46
@@ -31907,7 +29983,6 @@ OK:
 стеклоподъёмников
 
 ### 2. Переключатель
-`livan_9_ru_68237118` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 левого
 переднего
 стеклоподъёмника
@@ -31917,7 +29992,6 @@ OK:
 стеклоподъёмника
 
 ### 4. Переключатель
-`livan_9_ru_9a33645e` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 правого
 заднего
 стеклоподъёмника
@@ -31927,7 +30001,6 @@ OK:
 стеклоподъёмника
 
 ### Ручное управление
-`livan_9_ru_e71befd7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:48 | doc_type:owners_manual
 Открытие:
 нажмите
 и
@@ -31937,7 +30010,6 @@ OK:
 переключатель, чтобы закрыть окно.
 
 ### Автоматическое закрытие окон
-`livan_9_ru_f2e0facf` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 при блокировке автомобиля*
 Если
 в
@@ -31967,7 +30039,6 @@ OFF, дверь багажника и четыре двери
 Управление «одной кнопкойе*
 
 ### Нажмите переключатель до положения
-`livan_9_ru_ee7202be` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:48 | doc_type:owners_manual
 автоматического
 опускания
 и
@@ -31991,7 +30062,6 @@ OFF, дверь багажника и четыре двери
 перестанет опускаться.
 
 ### Переключатель
-`livan_9_ru_1fbfce3a` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 блокировки
 окон
 Переключатель
@@ -32000,7 +30070,6 @@ OFF, дверь багажника и четыре двери
 водителя рядом с переключателями окон.
 
 ### Нажмите
-`livan_9_ru_3e3c0fff` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:48 | doc_type:owners_manual
 на
 переключатель,
 чтобы
@@ -32030,7 +30099,6 @@ OFF, дверь багажника и четыре двери
 и функция блокировки будет отключена.
 
 ### Тепловая
-`livan_9_ru_609a9ff0` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 защита
 электрических
 стеклоподъемников
@@ -32053,13 +30121,11 @@ OFF, дверь багажника и четыре двери
 привода.
 
 ### Функционирование
-`livan_9_ru_bd7a98d9` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 электрических
 стеклоподъемников будет возобновлено
 через короткий промежуток времени.
 
 ### Функция
-`livan_9_ru_4ac51eac` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:48 | doc_type:owners_manual
 защиты
 от
 защемления
@@ -32072,7 +30138,6 @@ OFF, дверь багажника и четыре двери
 от
 
 ### Система контроля и управления
-`livan_9_ru_af7f58ee` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:48 | doc_type:owners_manual
 2
 8
 7
@@ -32094,7 +30159,6 @@ OFF, дверь багажника и четыре двери
 расстояние.
 
 ### Избегайте
-`livan_9_ru_33930ee4` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:49 | doc_type:owners_manual
 травм.
 Самообучение
 использования
@@ -32118,7 +30182,6 @@ OFF, дверь багажника и четыре двери
 от защемления.
 
 ### Перед проведением самообучения
-`livan_9_ru_5a79d222` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:49 | doc_type:owners_manual
 замените
 или
 подзарядите
@@ -32126,7 +30189,6 @@ OFF, дверь багажника и четыре двери
 Процесс самообучения:
 
 ### 1. Потяните за переключатель окна и
-`livan_9_ru_51cc115f` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:49 | doc_type:owners_manual
 удерживайте
 в
 направлении
@@ -32137,12 +30199,10 @@ OFF, дверь багажника и четыре двери
 поднимется.
 
 ### Снова потяните вверх переключатель
-`livan_9_ru_adbf4084` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:49 | doc_type:owners_manual
 окна и удерживайте более 2 секунд,
 после чего отпустите.
 
 ### 2. Нажмите на переключатель окна и
-`livan_9_ru_bacd6f4a` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:49 | doc_type:owners_manual
 удерживайте
 в
 направлении
@@ -32159,7 +30219,6 @@ OFF, дверь багажника и четыре двери
 после чего отпустите.
 
 ### 3. Повторите подъем и опускание других
-`livan_9_ru_adc3fcc3` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:49 | doc_type:owners_manual
 окон,
 самообучение
 будет
@@ -32182,7 +30241,6 @@ OFF, дверь багажника и четыре двери
 обслуживания
 
 ### LIVAN
-`livan_9_ru_2aa11eb9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:49 | doc_type:owners_manual
 для
 проведения
 технического
@@ -32198,7 +30256,6 @@ OFF, дверь багажника и четыре двери
 положение
 
 ### OFF,
-`livan_9_ru_3b938151` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:49 | doc_type:owners_manual
 при
 выполнении
 следующих
@@ -32212,13 +30269,11 @@ OFF, дверь багажника и четыре двери
 управлять с помощью переключателей.
 
 ### 1. Пусковой переключатель переведен в
-`livan_9_ru_50d1959f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:49 | doc_type:owners_manual
 положение OFF в течение 60 секунд;
 2. Левая и правая передние двери не
 открыты;
 
 ### 3. Пульт дистанционного управления /
-`livan_9_ru_cf90d431` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:49 | doc_type:owners_manual
 смарт-ключ
 не
 используется
@@ -32229,7 +30284,6 @@ OFF, дверь багажника и четыре двери
 автомобиля.
 
 ### Система контроля и управления
-`livan_9_ru_85b6c279` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:49 | doc_type:owners_manual
 48
 Люк
 Стандартный люк
@@ -32245,7 +30299,6 @@ OFF, дверь багажника и четыре двери
 освещения.
 
 ### Переключатель
-`livan_9_ru_1e322dd4` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:50 | doc_type:owners_manual
 люка
 не
 сработает
@@ -32274,7 +30327,6 @@ OFF, дверь багажника и четыре двери
 •
 
 ### Использование
-`livan_9_ru_b0e56ae3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 смарт-ключа,
 чтобы
 отпереть/ запереть автомобиль.
@@ -32289,7 +30341,6 @@ OFF, дверь багажника и четыре двери
 •
 
 ### Во время эксплуатации автомобиля
-`livan_9_ru_b46564f3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 головы, руки и другие части тела всех
 пассажиров не должны быть в проеме
 люка,
@@ -32304,7 +30355,6 @@ OFF, дверь багажника и четыре двери
 •
 
 ### Категорически
-`livan_9_ru_f8819ec9` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:50 | doc_type:owners_manual
 запрещается
 выставлять голову или другие части
 тела
@@ -32357,7 +30407,6 @@ OFF, дверь багажника и четыре двери
 Открытие/ закрытие люка
 
 ### Установите
-`livan_9_ru_0b88bb8c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -32374,7 +30423,6 @@ ON, затем кратковременно
 полностью автоматически.
 
 ### Установите
-`livan_9_ru_0b88bb8c` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:50 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -32398,7 +30446,6 @@ ON, затем кратковременно
 вперед, чтобы люк поднялся; когда люк
 
 ### Система контроля и управления
-`livan_9_ru_ec400475` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 2
 8
 7
@@ -32417,7 +30464,6 @@ ON, затем кратковременно
 Закрытие люка смарт-ключом
 
 ### Нажмите
-`livan_9_ru_9f71ea9f` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:51 | doc_type:owners_manual
 и
 удерживайте
 кнопку
@@ -32447,7 +30493,6 @@ ON, затем кратковременно
 люк полностью закрыт.
 
 ### Безопасность
-`livan_9_ru_25c957f3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 и
 защита
 от
@@ -32473,7 +30518,6 @@ ON, затем кратковременно
 срабатывания.
 
 ### Режим ручного закрытия люка не
-`livan_9_ru_c2a0d0ba` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 имеет
 функции
 защиты
@@ -32484,7 +30528,6 @@ ON, затем кратковременно
 от защемления
 
 ### В
-`livan_9_ru_65635a15` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 указанных
 ниже
 ситуациях
@@ -32501,14 +30544,12 @@ ON, затем кратковременно
 •
 
 ### Отсоединение кабеля аккумулятора в
-`livan_9_ru_a0c00226` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:51 | doc_type:owners_manual
 процессе движения люка;
 •
 Процесс самообучения прервался.
 Процесс самообучения:
 
 ### 1. Переместите
-`livan_9_ru_658f43ed` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 люк
 в
 поднятое
@@ -32542,7 +30583,6 @@ ON, затем кратковременно
 положение.
 
 ### 2. Отпустите
-`livan_9_ru_7b2c2610` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 переключатель
 люка,
 самообучение закончится.
@@ -32551,7 +30591,6 @@ ON, затем кратковременно
 козырек люка
 
 ### Солнцезащитную
-`livan_9_ru_f42aadb7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 шторку
 люка
 можно
@@ -32560,7 +30599,6 @@ ON, затем кратковременно
 50
 
 ### При движении на высокой скорости
-`livan_9_ru_a88805f0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 строго
 запрещается
 закрывать
@@ -32569,7 +30607,6 @@ ON, затем кратковременно
 Панорамный люк*
 
 ### Переключатель
-`livan_9_ru_28aca248` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 люка
 расположен
 на
@@ -32581,7 +30618,6 @@ ON, затем кратковременно
 освещения.
 
 ### Обязательно
-`livan_9_ru_f1227e5d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 соблюдайте
 следующие
 меры
@@ -32592,7 +30628,6 @@ ON, затем кратковременно
 •
 
 ### Категорически
-`livan_9_ru_4506a1fd` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:52 | doc_type:owners_manual
 запрещается
 выставлять голову или другие части
 тела
@@ -32623,7 +30658,6 @@ ON, затем кратковременно
 •
 
 ### Нельзя сидеть на крыше автомобиля
-`livan_9_ru_c20cdc64` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 около люка.
 Если
 произошел
@@ -32648,7 +30682,6 @@ ON, затем кратковременно
 Открытие/ закрытие люка
 
 ### Переместите переключатель люка назад
-`livan_9_ru_fef8660c` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:52 | doc_type:owners_manual
 и
 отпустите
 его,
@@ -32662,12 +30695,10 @@ ON, затем кратковременно
 положение.
 
 ### Переместите переключатель люка назад
-`livan_9_ru_fef8660c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 и удерживайте, чтобы открыть люк в
 любое положение.
 
 ### Переместите
-`livan_9_ru_4223ce72` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:52 | doc_type:owners_manual
 переключатель
 люка
 вперед и отпустите его, стекло люка
@@ -32679,7 +30710,6 @@ ON, затем кратковременно
 положение.
 
 ### Переместите
-`livan_9_ru_4223ce72` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 переключатель
 люка
 вперед и удерживайте, чтобы закрыть
@@ -32687,7 +30717,6 @@ ON, затем кратковременно
 Поднятие / опускание люка
 
 ### Нажмите
-`livan_9_ru_b4b81348` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:52 | doc_type:owners_manual
 переключатель
 люка,
 стекло
@@ -32702,7 +30731,6 @@ ON, затем кратковременно
 закрытом
 
 ### Система контроля и управления
-`livan_9_ru_22803b3c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 2
 8
 7
@@ -32717,7 +30745,6 @@ ON, затем кратковременно
 на определенное расстояние.
 
 ### Нажмите
-`livan_9_ru_3aba4492` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 переключатель
 люка,
 стекло
@@ -32733,7 +30760,6 @@ ON, затем кратковременно
 Закрытие люка смарт-ключом
 
 ### Нажмите
-`livan_9_ru_3aba4492` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:53 | doc_type:owners_manual
 и
 удерживайте
 кнопку
@@ -32760,7 +30786,6 @@ ON, затем кратковременно
 люк полностью закрыт.
 
 ### Безопасность
-`livan_9_ru_36667473` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:53 | doc_type:owners_manual
 и
 защита
 от
@@ -32795,13 +30820,11 @@ ON, затем кратковременно
 •
 
 ### Люк вернется в полностью открытое
-`livan_9_ru_0feea8be` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:53 | doc_type:owners_manual
 положение, если в зоне перемещения
 произойдет защемление.
 •
 
 ### Козырек
-`livan_9_ru_3c08c676` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:53 | doc_type:owners_manual
 люка
 имеет
 защиту
@@ -32811,17 +30834,14 @@ ON, затем кратковременно
 •
 
 ### Солнцезащитный козырек люка имеет
-`livan_9_ru_41bd77db` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:53 | doc_type:owners_manual
 защиту от защемления в задней части
 и убирается на 150±10 миллиметров.
 
 ### Ручной режим закрывания люка и
-`livan_9_ru_8e7927a3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:53 | doc_type:owners_manual
 козырька люка не имеет функции
 защиты от защемления.
 
 ### Самообучающийся
-`livan_9_ru_c77e1a36` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:53 | doc_type:owners_manual
 электрический люк с защитой
 от защемления
 Если
@@ -32846,7 +30866,6 @@ ON, затем кратковременно
 Процесс самообучения:
 
 ### 1. В закрытом положении стекла люка
-`livan_9_ru_3163ce9a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:53 | doc_type:owners_manual
 нажмите
 кнопку
 закрытия
@@ -32854,7 +30873,6 @@ ON, затем кратковременно
 удерживайте ее в течение 10 секунд.
 
 ### Стекло
-`livan_9_ru_8d4b99c4` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 люка
 перемещается
 до
@@ -32864,7 +30882,6 @@ ON, затем кратковременно
 до мягкого упора.
 
 ### 3. Снова нажмите кнопку закрытия люка
-`livan_9_ru_e8810ded` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 и удерживайте ее в течение 5 секунд.
 Через
 4
@@ -32875,7 +30892,6 @@ ON, затем кратковременно
 сдвинется.
 
 ### Остановите
-`livan_9_ru_a32ec7a6` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 стекло
 люка,
 когда
@@ -32895,7 +30911,6 @@ ON, затем кратковременно
 полностью закрытом положении.
 
 ### 4. Отпустите
-`livan_9_ru_36e3bce1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 переключатель.
 Инициализация
 и
@@ -32903,7 +30918,6 @@ ON, затем кратковременно
 движений стекла люка завершено.
 
 ### Процесс
-`livan_9_ru_f344c409` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 самообучения
 солнцезащитного
 козырька
@@ -32911,7 +30925,6 @@ ON, затем кратковременно
 такой же, как и у люка.
 
 ### Электрический
-`livan_9_ru_d8f69ed8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 солнцезащитный козырек люка
 1. Кнопка
 открытия
@@ -32919,7 +30932,6 @@ ON, затем кратковременно
 козырька люка
 
 ### 2. Кнопка
-`livan_9_ru_0b2a6034` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 закрытия
 солнцезащитного
 козырька люка
@@ -32927,7 +30939,6 @@ ON, затем кратковременно
 люка
 
 ### Нажмите и отпустите кнопку открытия
-`livan_9_ru_986b9b57` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 солнцезащитного
 козырька
 люка,
@@ -32938,7 +30949,6 @@ ON, затем кратковременно
 открытое положение.
 
 ### Нажмите и удерживайте кнопку открытия
-`livan_9_ru_31e91a51` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 солнцезащитного
 козырька
 люка,
@@ -32946,7 +30956,6 @@ ON, затем кратковременно
 может быть открыт в любом положении.
 
 ### Закрытие солнцезащитного козырька
-`livan_9_ru_1534d11f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 люка
 Нажмите
 и
@@ -32962,7 +30971,6 @@ ON, затем кратковременно
 положение.
 
 ### Нажмите и удерживайте кнопку закрытия
-`livan_9_ru_79fe68bf` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 солнцезащитного
 козырька
 люка,
@@ -32970,7 +30978,6 @@ ON, затем кратковременно
 может быть закрыт в любом положении.
 
 ### Солнцезащитный
-`livan_9_ru_d06db06d` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:54 | doc_type:owners_manual
 козырек
 люка,
 находящийся в любом положении, можно
@@ -33003,7 +31010,6 @@ ON, затем кратковременно
 солнцезащитного козырька.
 
 ### Не рекомендуется с силой нажимать на
-`livan_9_ru_b83f6e1e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 солнцезащитный козырек
 люка, чтобы
 предотвратить
@@ -33019,7 +31025,6 @@ ON, затем кратковременно
 •
 
 ### Полностью
-`livan_9_ru_3314ed2e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 открытый
 люк
 может
@@ -33034,7 +31039,6 @@ ON, затем кратковременно
 •
 
 ### При длительной парковке автомобиля
-`livan_9_ru_6e8fe56c` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:54 | doc_type:owners_manual
 рекомендуется
 переместить
 солнцезащитный
@@ -33055,7 +31059,6 @@ ON, затем кратковременно
 автомобиля и повреждения салона из-
 
 ### Система контроля и управления
-`livan_9_ru_89232caa` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 2
 8
 7
@@ -33071,7 +31074,6 @@ ON, затем кратковременно
 солнечных лучей.
 
 ### Внутреннее
-`livan_9_ru_323f714e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 освещение
 переднего ряда
 Версия панорамного люка
@@ -33081,7 +31083,6 @@ ON, затем кратковременно
 внутреннего освещения
 
 ### 2. Правый
-`livan_9_ru_853b5711` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 передний
 переключатель
 внутреннего освещения
@@ -33091,7 +31092,6 @@ ON, затем кратковременно
 при открытой двери
 
 ### 4. Переключатель
-`livan_9_ru_2c80bb6e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 внутреннего
 освещения
 Стандартная версия люка
@@ -33101,7 +31101,6 @@ ON, затем кратковременно
 внутреннего освещения
 
 ### Система контроля и управления
-`livan_9_ru_f6ae2bd9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 54
 2. Правый
 передний
@@ -33109,7 +31108,6 @@ ON, затем кратковременно
 внутреннего освещения
 
 ### 3. Включение
-`livan_9_ru_9b1b5c20` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 внутреннего
 освещения
 при открытой двери
@@ -33118,13 +31116,11 @@ ON, затем кратковременно
 освещением переднего ряда
 
 ### Нажатием левого и правого передних
-`livan_9_ru_6d87137a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 переключателей внутреннего освещения
 можно включать или выключать левое и
 правое переднее внутреннее освещение.
 
 ### Переключателем внутреннего освещения
-`livan_9_ru_ef39deb3` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:56 | doc_type:owners_manual
 можно
 включить
 функцию
@@ -33157,7 +31153,6 @@ ON, затем кратковременно
 происшествий.
 
 ### Внутреннее
-`livan_9_ru_997994e3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 освещение,
 которое
 включается с помощью левого и
@@ -33182,7 +31177,6 @@ ON, затем кратковременно
 помощью других выключателей.
 
 ### Если передний выключатель внутреннего
-`livan_9_ru_48df1ca0` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:56 | doc_type:owners_manual
 освещения
 находится
 во
@@ -33200,7 +31194,6 @@ ON, затем кратковременно
 разрядку аккумулятора.
 
 ### Режимы
-`livan_9_ru_2e86a41d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 управления
 внутренним
 освещением
@@ -33208,7 +31201,6 @@ ON, затем кратковременно
 дверей автомобиля
 
 ### Внутреннее
-`livan_9_ru_997994e3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 освещение
 и
 функция
@@ -33224,7 +31216,6 @@ ON, затем кратковременно
 умолчанию включены.
 
 ### Включение освещения
-`livan_9_ru_38a054c4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 •
 Внутреннее
 освещение
@@ -33240,7 +31231,6 @@ ON, затем кратковременно
 •
 
 ### Внутреннее
-`livan_9_ru_997994e3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 освещение
 плавно
 включится,
@@ -33258,13 +31248,11 @@ ON, затем кратковременно
 •
 
 ### Внутреннее
-`livan_9_ru_997994e3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 освещение
 плавно
 включится при открытии любой двери.
 
 ### Выключение освещения
-`livan_9_ru_4f42556d` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:56 | doc_type:owners_manual
 •
 Когда
 четыре
@@ -33287,7 +31275,6 @@ ON, затем кратковременно
 положении
 
 ### OFF,
-`livan_9_ru_f7225071` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 внутреннее
 освещение постепенно выключится;
 •
@@ -33304,7 +31291,6 @@ ON, затем кратковременно
 освещение постепенно погаснет.
 
 ### Система контроля и управления
-`livan_9_ru_af7f5567` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 2
 8
 7
@@ -33319,7 +31305,6 @@ ON, затем кратковременно
 заднего ряда сидений*
 
 ### Нажмите
-`livan_9_ru_72727e50` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:57 | doc_type:owners_manual
 левый
 или
 правый
@@ -33340,7 +31325,6 @@ ON, затем кратковременно
 переключателя внутреннего освещения.
 
 ### Если переключатель заднего освещения
-`livan_9_ru_817be013` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:57 | doc_type:owners_manual
 салона
 находится
 во
@@ -33354,7 +31338,6 @@ ON, затем кратковременно
 разрядки аккумулятора.
 
 ### Лампа подсветки багажника расположена
-`livan_9_ru_8f2f362e` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:57 | doc_type:owners_manual
 на
 левой
 боковой
@@ -33371,7 +31354,6 @@ ON, затем кратковременно
 двери.
 
 ### Система контроля и управления
-`livan_9_ru_b7e7ef9d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 56
 Внутренние устройства
 Перчаточный ящик
@@ -33388,7 +31370,6 @@ ON, затем кратковременно
 его.
 
 ### Толкните
-`livan_9_ru_7be475a9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 крышку
 перчаточного
 ящика
@@ -33402,7 +31383,6 @@ ON, затем кратковременно
 Модель 1
 
 ### Ящик для хранения в приборной панели
-`livan_9_ru_404a9645` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 расположен
 в
 нижней
@@ -33417,7 +31397,6 @@ ON, затем кратковременно
 Модель 2*
 
 ### В
-`livan_9_ru_c4538454` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 моделях
 автомобиля,
 оснащенных
@@ -33426,7 +31405,6 @@ ON, затем кратковременно
 динамик.
 
 ### Слот для карт на приборной
-`livan_9_ru_a4069fa0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 панели
 Слот для
 карт
@@ -33446,7 +31424,6 @@ ON, затем кратковременно
 карты.
 
 ### Система контроля и управления
-`livan_9_ru_72560c39` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 2
 8
 7
@@ -33467,7 +31444,6 @@ ON, затем кратковременно
 хранение мелких предметов.
 
 ### Передний отсек для хранения
-`livan_9_ru_1cde0172` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 на центральной консоли
 В передней части центральной консоли
 предусмотрен
@@ -33485,7 +31461,6 @@ ON, затем кратковременно
 мобильный телефон и смарт-ключ.
 
 ### Задний отсек для хранения на
-`livan_9_ru_de939ad6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 центральной консоли
 Задний
 отсек
@@ -33507,7 +31482,6 @@ ON, затем кратковременно
 разместить некоторые мелкие предметы.
 
 ### Ограждение
-`livan_9_ru_b8853ef4` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:59 | doc_type:owners_manual
 для
 хранения
 в
@@ -33521,7 +31495,6 @@ ON, затем кратковременно
 хранить мелкие предметы.
 
 ### Система контроля и управления
-`livan_9_ru_0ab0a42f` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:59 | doc_type:owners_manual
 58
 Противосолнечный козырек
 и аксессуарное зеркало
@@ -33537,7 +31510,6 @@ ON, затем кратковременно
 уменьшить блики.
 
 ### Козырек
-`livan_9_ru_af09753a` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:60 | doc_type:owners_manual
 оснащен
 зеркалом,
 которым
@@ -33545,7 +31517,6 @@ ON, затем кратковременно
 Зажим для документов*
 
 ### Солнцезащитная
-`livan_9_ru_eda6fd0f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 шторка
 со
 стороны
@@ -33562,7 +31533,6 @@ ON, затем кратковременно
 предметов (например, счетов).
 
 ### Футляр для очков
-`livan_9_ru_bcb8dcd8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 Модель 1
 Футляр для очков размещен вместе с
 передним
@@ -33576,7 +31546,6 @@ ON, затем кратковременно
 использовать очки во время вождения.
 
 ### Нажмите
-`livan_9_ru_8f9f1938` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 на
 футляр
 для
@@ -33590,7 +31559,6 @@ ON, затем кратковременно
 Модель 2*
 
 ### В
-`livan_9_ru_bac540ea` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 моделях
 автомобиля,
 оснащенных
@@ -33599,7 +31567,6 @@ ON, затем кратковременно
 кнопка SOS.
 
 ### Система контроля и управления
-`livan_9_ru_7d4dd80b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 2
 8
 7
@@ -33627,7 +31594,6 @@ ON, затем кратковременно
 передний центральный подлокотник.
 
 ### Открытый передний центральный
-`livan_9_ru_3bbcc3db` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 подлокотник
 может
 повлиять
@@ -33638,7 +31604,6 @@ ON, затем кратковременно
 подлокотник всегда должен быть закрыт.
 
 ### Задний
-`livan_9_ru_5b16f44d` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:61 | doc_type:owners_manual
 центральный
 подлокотник*
 Вы
@@ -33653,7 +31618,6 @@ ON, затем кратковременно
 чтобы было удобнее открывать.
 
 ### В
-`livan_9_ru_af602031` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 центре
 вспомогательной
 приборной
@@ -33664,7 +31628,6 @@ ON, затем кратковременно
 напитков.
 
 ### Система контроля и управления
-`livan_9_ru_e8ba08f1` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:61 | doc_type:owners_manual
 60
 Задний подстаканник*
 На центральном подлокотнике заднего
@@ -33677,7 +31640,6 @@ ON, затем кратковременно
 Розетка электропитания 12V
 
 ### Данный
-`livan_9_ru_f13027ca` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
 автомобиль
 оборудован
 резервным
@@ -33692,7 +31654,6 @@ ON, затем кратковременно
 отделения.
 
 ### Электрическую
-`livan_9_ru_57c87b2c` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:62 | doc_type:owners_manual
 розетку
 можно
 использовать
@@ -33704,7 +31665,6 @@ ON, затем кратковременно
 мощностью 120 Вт.
 
 ### Мультимедийный
-`livan_9_ru_8595cc30` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:62 | doc_type:owners_manual
 интерфейс
 Данный
 автомобиль
@@ -33721,7 +31681,6 @@ ON, затем кратковременно
 зарядки.
 
 ### Справа
-`livan_9_ru_aceb0f7b` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:62 | doc_type:owners_manual
 находится
 мультимедийный
 разъем
@@ -33733,7 +31692,6 @@ USB
 консоли.
 
 ### Система контроля и управления
-`livan_9_ru_1e0ea407` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
 2
 8
 7
@@ -33759,7 +31717,6 @@ USB
 положение при отпускании.
 
 ### Внутренние ручки со стороны переднего
-`livan_9_ru_4507e18e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 пассажирского сидения и с обеих сторон
 заднего
 ряда
@@ -33768,7 +31725,6 @@ USB
 крючками для одежды пассажиров.
 
 ### Крючки
-`livan_9_ru_a9626df7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 для
 одежды и
 головных
@@ -33782,13 +31738,11 @@ USB
 чтобы не повредить крючок для одежды.
 
 ### Не вешайте одежду с помощью вешалок
-`livan_9_ru_d04cc51a` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:63 | doc_type:owners_manual
 на крючок для одежды, так как это может
 повлиять на защитный эффект подушки
 безопасности.
 
 ### Карман
-`livan_9_ru_b20f916f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 для
 печатных
 изданий
@@ -33802,7 +31756,6 @@ USB
 карты.
 
 ### В кармане для печатных изданий
-`livan_9_ru_25b572ff` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 разрешается
 размещать
 только
@@ -33810,7 +31763,6 @@ USB
 карман тяжелые и острые предметы.
 
 ### Система контроля и управления
-`livan_9_ru_974c1144` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:63 | doc_type:owners_manual
 62
 Багажник
 Предназначен для погрузки больших или
@@ -33835,7 +31787,6 @@ USB
 багажника.
 
 ### Старайтесь
-`livan_9_ru_326a0e46` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 распределять
 вес
 равномерно.
@@ -33848,7 +31799,6 @@ USB
 •
 
 ### При погрузке тяжелых предметов в
-`livan_9_ru_862ba9e9` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:64 | doc_type:owners_manual
 автомобиль их необходимо закрепить.
 •
 Не складывайте спинку сиденья без
@@ -33860,7 +31810,6 @@ USB
 домашних животных.
 
 ### Если вес загруженных предметов
-`livan_9_ru_a32a3a6d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 превышает
 грузоподъемность
 автомобиля,
@@ -33890,14 +31839,12 @@ USB
 размещения.
 
 ### Предметы
-`livan_9_ru_a4f18f64` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 следует
 располагать как можно ниже и как можно
 дальше вперед, т. е. как можно ближе к
 спинке заднего сиденья.
 
 ### Погрузка высоких предметов
-`livan_9_ru_8518a522` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
 При
 погрузке
 сравнительно
@@ -33916,7 +31863,6 @@ USB
 безопасности движения.
 
 ### Погрузка
-`livan_9_ru_802af3c2` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:64 | doc_type:owners_manual
 крупногабаритных
 предметов
 При
@@ -33934,7 +31880,6 @@ USB
 обеспечения безопасности движения.
 
 ### Система контроля и управления
-`livan_9_ru_495e04da` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:64 | doc_type:owners_manual
 2
 8
 7
@@ -33959,7 +31904,6 @@ USB
 багажнике.
 
 ### Выдвижная
-`livan_9_ru_09a0bdf2` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:65 | doc_type:owners_manual
 шторка
 багажника
 предназначена
@@ -33978,7 +31922,6 @@ USB
 предметы.
 
 ### Порядок
-`livan_9_ru_04fa29fe` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:65 | doc_type:owners_manual
 действия
 для
 использования
@@ -33991,14 +31934,12 @@ USB
 закрыть все пространство для багажа
 
 ### 2. Вставьте
-`livan_9_ru_9e593a6b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 держатели
 обоих
 концов
 шторки в пазы на отделке стойки.
 
 ### Рейлинги расположены с обеих сторон
-`livan_9_ru_b33c90a8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 крыши автомобиля.
 Рейлинги на крыше используются в
 качестве декоративного элемента
@@ -34006,7 +31947,6 @@ USB
 багаж или грузы.
 
 ### Система контроля и управления
-`livan_9_ru_d5f56c6d` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:66 | doc_type:owners_manual
 64
 3
 8
@@ -34021,7 +31961,6 @@ USB
 кондиционирование
 
 ### Система
-`livan_9_ru_e656794f` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:67 | doc_type:owners_manual
 управления
 кондиционером
 Панель
@@ -34032,14 +31971,12 @@ USB
 1.
 
 ### Кнопка настройки кондиционера
-`livan_9_ru_cfbc1ebd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 9.
 Кнопка обдува ветрового окна в
 режиме подачи воздуха
 2.
 
 ### Кнопка оттаивания и отпотевания
-`livan_9_ru_bcb89826` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 ветрового стекла
 10.
 Кнопка подогрева сиденья*
@@ -34050,7 +31987,6 @@ USB
 11.
 
 ### Кнопка OFF
-`livan_9_ru_fbb0a521` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 4.
 Кнопка ECO
 12.
@@ -34063,7 +31999,6 @@ USB
 6.
 
 ### Кнопка регулирования
-`livan_9_ru_3d9cda0d` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:67 | doc_type:owners_manual
 интенсивности вентиляции
 14.
 Клавиша A/C MAX
@@ -34072,7 +32007,6 @@ USB
 7.
 
 ### Кнопка обдува лица в режиме
-`livan_9_ru_cdcd4e4d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:68 | doc_type:owners_manual
 подачи воздуха
 15.
 Кнопка переключения между
@@ -34080,7 +32014,6 @@ USB
 8.
 
 ### Кнопка обдува ног в режиме
-`livan_9_ru_92ea083f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:68 | doc_type:owners_manual
 подачи воздуха
 Система кондиционирования воздуха
 3
@@ -34094,7 +32027,6 @@ USB
 67
 
 ### Описание кнопки управления
-`livan_9_ru_6f431212` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:69 | doc_type:owners_manual
 кондиционером
 1. Кнопка настройки кондиционера
 Нажмите эту кнопку, чтобы включить/
@@ -34113,7 +32045,6 @@ USB
 кондиционирования.
 
 ### 2. Кнопка
-`livan_9_ru_cd6d04ac` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 оттаивания
 и
 отпотевания
@@ -34147,7 +32078,6 @@ USB
 оттаиванием.
 
 ### 3. Боковые зеркала заднего вида/кнопка
-`livan_9_ru_ba50f1ea` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 оттаивания
 и
 отпотевания
@@ -34162,7 +32092,6 @@ USB
 заднего вида/заднего стекла.
 
 ### Не пытайтесь использовать скребок
-`livan_9_ru_0831d6e1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 или
 любой
 другой
@@ -34188,13 +32117,11 @@ USB
 безопасном расстоянии от окон.
 
 ### 4. Кнопка ECO
-`livan_9_ru_1a065cce` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 Нажмите эту кнопку, чтобы включить
 или выключить экономичный режим
 работы кондиционера.
 
 ### 5. Клавиша регулировки температуры
-`livan_9_ru_6b5ef423` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 Нажмите ∧или ∨над и под значением
 температуры, чтобы увеличить или
 уменьшить
@@ -34204,7 +32131,6 @@ USB
 градуса Цельсия.
 
 ### 6. Кнопка регулирования интенсивности
-`livan_9_ru_b7640424` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:69 | doc_type:owners_manual
 вентиляции
 Нажмите
 эту
@@ -34216,7 +32142,6 @@ USB
 положений.
 
 ### Уменьшите
-`livan_9_ru_e7acf287` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 объем
 воздуха
 слева
@@ -34231,14 +32156,12 @@ USB
 воздуха.
 
 ### 8. Кнопка обдува ног в режиме подачи
-`livan_9_ru_9f842662` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 воздуха
 Нажмите эту кнопку, чтобы выбрать
 режим обдува ног в качестве подачи
 воздуха.
 
 ### 9. Кнопка
-`livan_9_ru_3df8476f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 обдува
 ветрового
 окна
@@ -34253,7 +32176,6 @@ USB
 качестве подачи воздуха.
 
 ### Система кондиционирования воздуха
-`livan_9_ru_535ea081` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 68
 Нажмите эту кнопку, чтобы перейти к
 интерфейсу
@@ -34264,7 +32186,6 @@ USB
 переднего сиденья и передачей.
 
 ### 11. Кнопка OFF
-`livan_9_ru_a4fb706c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 Когда
 система
 кондиционирования
@@ -34274,13 +32195,11 @@ USB
 кнопки
 
 ### OFF остановит всю работу системы
-`livan_9_ru_d2125934` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 кондиционирования.
 12. Кнопка AUTO
 Нажмите эту кнопку, чтобы войти в
 
 ### AUTO
-`livan_9_ru_0bd572e2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 режим
 для
 кондиционера,
@@ -34297,7 +32216,6 @@ USB
 установленной пользователем.
 
 ### 13. Клавиша A/C
-`livan_9_ru_3e2b83ce` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 Нажмите эту кнопку, чтобы включить
 или
 выключить
@@ -34305,7 +32223,6 @@ USB
 кондиционера.
 
 ### 14. Клавиша A/C MAX
-`livan_9_ru_fbefdb41` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:70 | doc_type:owners_manual
 Когда
 данный
 световой
@@ -34317,7 +32234,6 @@ USB
 снижение температуры.
 
 ### 15. Кнопка
-`livan_9_ru_1928011d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 переключения
 внутренней/
 внешней циркуляции
@@ -34364,7 +32280,6 @@ USB
 автомобиля.
 
 ### Длительное использование режима
-`livan_9_ru_3552c8ac` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 внутренней
 циркуляции
 может
@@ -34381,7 +32296,6 @@ USB
 из соответствующего режима.
 
 ### Система кондиционирования воздуха
-`livan_9_ru_616ca029` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 3
 8
 7
@@ -34396,7 +32310,6 @@ USB
 работы кондиционера
 
 ### A/C
-`livan_9_ru_58f01efe` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 self-drying
 (самоочистка
 кондиционера)
@@ -34414,14 +32327,12 @@ self-drying
 и заплесневелостью в испарителе.
 
 ### Переключатель
-`livan_9_ru_e03bf226` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:71 | doc_type:owners_manual
 самоосушения
 кондиционера
 находится в настройках
 мультимедиа.
 
 ### Нажав на переключатель самоосушения
-`livan_9_ru_1fe4457f` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:71 | doc_type:owners_manual
 кондиционера,
 можно
 включить
@@ -34451,7 +32362,6 @@ Cabin air refresh mode (режим
 вентилятор.
 
 ### Система
-`livan_9_ru_47d01a97` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 кондиционирования
 воздуха
 удалит
@@ -34468,7 +32378,6 @@ Cabin air refresh mode (режим
 очистки.
 
 ### Переключатель
-`livan_9_ru_e03bf226` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:71 | doc_type:owners_manual
 очистки
 салона
 находится в настройках мультимедиа.
@@ -34477,7 +32386,6 @@ Cabin air refresh mode (режим
 очистки салона.
 
 ### A/C
-`livan_9_ru_58f01efe` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:71 | doc_type:owners_manual
 timing
 ventilation
 (вентиляция
@@ -34499,7 +32407,6 @@ ventilation
 вентиляцию.
 
 ### Система кондиционирования воздуха
-`livan_9_ru_8dea4783` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:71 | doc_type:owners_manual
 70
 Переключатель
 вентиляции
@@ -34512,7 +32419,6 @@ ventilation
 мультимедиа.
 
 ### Нажав на переключатель вентиляции во
-`livan_9_ru_a45f694b` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:72 | doc_type:owners_manual
 время
 парковки
 можно
@@ -34523,7 +32429,6 @@ A/C automation level (уровень
 автоматизации кондиционера)
 
 ### Нажатием на различные автоматические
-`livan_9_ru_3ffbc43d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 уровни
 кондиционирования
 воздуха,
@@ -34532,7 +32437,6 @@ A/C automation level (уровень
 уровень кондиционирования воздуха.
 
 ### Air conditioning interface hold
-`livan_9_ru_c1f81cf6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 time
 (время
 удержания
@@ -34548,7 +32452,6 @@ time
 интерфейса кондиционирования воздуха.
 
 ### Установите
-`livan_9_ru_c21ee77b` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:72 | doc_type:owners_manual
 время
 удержания
 кондиционирования
@@ -34559,7 +32462,6 @@ time
 кондиционирования воздуха на экране.
 
 ### Датчики
-`livan_9_ru_a9866bfd` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:72 | doc_type:owners_manual
 окружающего
 освещения
 и
@@ -34577,7 +32479,6 @@ time
 71
 
 ### Датчик
-`livan_9_ru_1a86a2d2` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:73 | doc_type:owners_manual
 внешней
 освещенности
 и
@@ -34591,7 +32492,6 @@ time
 стеклом.
 
 ### Датчик
-`livan_9_ru_1a86a2d2` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:73 | doc_type:owners_manual
 внешней
 освещенности
 и
@@ -34616,7 +32516,6 @@ time
 режиме подачи воздуха.
 
 ### Содержите датчик в чистоте и не
-`livan_9_ru_a4c2f0f9` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:73 | doc_type:owners_manual
 наклеивайте на него наклейки и
 другие предметы. В противном случае
 система
@@ -34626,7 +32525,6 @@ time
 должным образом.
 
 ### Система кондиционирования воздуха
-`livan_9_ru_04347833` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:73 | doc_type:owners_manual
 72
 Система кондиционирования воздуха и вентиляции
 Воздухозаборник отопителя
@@ -34634,7 +32532,6 @@ time
 препятствовать потоку воздуха, поступающему в автомобиль.
 
 ### Система кондиционирования воздуха
-`livan_9_ru_b2843ae1` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:74 | doc_type:owners_manual
 3
 8
 7
@@ -34654,7 +32551,6 @@ time
 4.
 
 ### Воздуховод для выпуска воздуха в
-`livan_9_ru_9a4811a8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:75 | doc_type:owners_manual
 области ног передних сидений
 2.
 Воздуховод
@@ -34664,7 +32560,6 @@ time
 5.
 
 ### Боковой
-`livan_9_ru_20376b03` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:75 | doc_type:owners_manual
 воздуховод
 для
 оттаивания
@@ -34674,7 +32569,6 @@ time
 6.
 
 ### Правый
-`livan_9_ru_5eac1ad2` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:75 | doc_type:owners_manual
 дефлектор
 системы
 вентиляции и отопления
@@ -34682,7 +32576,6 @@ time
 74
 
 ### Задний дефлектор
-`livan_9_ru_b5842eda` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:76 | doc_type:owners_manual
 1.
 Задний дефлектор
 2.
@@ -34699,14 +32592,12 @@ time
 75
 
 ### Регулировка дефлекторов и
-`livan_9_ru_df56895d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 техническое
 обслуживание
 кондиционера
 Регулировка дефлекторов
 
 ### Центральный
-`livan_9_ru_27af8821` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 дефлектор
 можно
 отрегулировать,
@@ -34720,7 +32611,6 @@ time
 направление воздуха.
 
 ### Направление
-`livan_9_ru_5cfd0aa3` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:77 | doc_type:owners_manual
 левого
 и
 правого
@@ -34730,7 +32620,6 @@ time
 чтобы настраивать направление воздуха.
 
 ### Фильтр
-`livan_9_ru_0d0f724f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 кондиционера
 расположен
 за
@@ -34764,7 +32653,6 @@ time
 технического обслуживания.
 
 ### Система
-`livan_9_ru_5db8721c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 кондиционирования
 воздуха
 содержит
@@ -34783,7 +32671,6 @@ time
 ремонта.
 
 ### Техническое
-`livan_9_ru_04912d0d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 обслуживание
 системы кондиционирования
 •
@@ -34801,7 +32688,6 @@ time
 очень
 
 ### Система кондиционирования воздуха
-`livan_9_ru_b169daef` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 76
 высокой.
 В
@@ -34834,7 +32720,6 @@ time
 кнопку
 
 ### AUTO
-`livan_9_ru_84f7fd7c` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:78 | doc_type:owners_manual
 (для
 некоторых моделей).
 •
@@ -34861,7 +32746,6 @@ time
 •
 
 ### Закройте
-`livan_9_ru_8a1a7aac` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 все
 окна,
 рекомендуется
@@ -34891,7 +32775,6 @@ time
 раздражителям.
 
 ### В
-`livan_9_ru_f92d946d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 этом
 случае
 следует настроить отвод испарений за
@@ -34913,14 +32796,12 @@ time
 •
 
 ### Держите пространство под передними
-`livan_9_ru_6233ba47` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 сидениями,
 свободной,
 чтобы
 облегчить циркуляцию воздуха.
 
 ### Если вы хотите оставить автомобиль на
-`livan_9_ru_b18d312b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 хранение
 или
 не
@@ -34954,7 +32835,6 @@ time
 при повторном запуске системы.
 
 ### Система кондиционирования воздуха
-`livan_9_ru_2036f63c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 4
 8
 7
@@ -34971,7 +32851,6 @@ time
 передних сидений
 
 ### Подголовники
-`livan_9_ru_f4a90903` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 передних
 сидений
 являются
@@ -34981,7 +32860,6 @@ time
 регулируются.
 
 ### Не следует регулировать сиденья
-`livan_9_ru_a3da310f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 во время движения. Перемещение
 сиденья
 во
@@ -34999,7 +32877,6 @@ time
 столкновения и серьезные травмы.
 
 ### Всегда
-`livan_9_ru_a476a204` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:79 | doc_type:owners_manual
 регулируйте
 сиденье,
 когда
@@ -35008,12 +32885,10 @@ time
 безопасности.
 
 ### Неверная
-`livan_9_ru_7c24881d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 регулировка ремня безопасности может
 привести к серьезным травмам.
 
 ### Не приводите сиденье в горизонтальное
-`livan_9_ru_4487cfd9` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:79 | doc_type:owners_manual
 положение
 во
 время
@@ -35037,7 +32912,6 @@ time
 серьезные травмы.
 
 ### Ручная
-`livan_9_ru_876a093a` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:79 | doc_type:owners_manual
 регулировка
 сиденья
 водителя
@@ -35060,7 +32934,6 @@ time
 слева и спереди.
 
 ### 1. Рычаг
-`livan_9_ru_f3b44e4f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 для
 регулировки
 сиденья
@@ -35068,7 +32941,6 @@ time
 2. Ручка регулировки сиденья по высоте
 
 ### 3. Ручка
-`livan_9_ru_c3330216` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 для
 регулирования
 наклона
@@ -35076,7 +32948,6 @@ time
 Регулировка сиденья вперед и назад
 
 ### Возьмитесь
-`livan_9_ru_faffbfb5` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:79 | doc_type:owners_manual
 за
 середину
 рычага
@@ -35105,13 +32976,11 @@ time
 зафиксировано на месте.
 
 ### Если ручку регулировки высоты сиденья
-`livan_9_ru_d3da6713` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:79 | doc_type:owners_manual
 несколько раз поднять или опустить вниз,
 высота сиденья будет увеличиваться или
 уменьшаться. Отрегулируйте сиденье на
 
 ### Сиденья и устройства защиты
-`livan_9_ru_c93f58f3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 78
 желаемую
 высоту
@@ -35126,7 +32995,6 @@ time
 сиденья
 
 ### Если необходимо
-`livan_9_ru_f71522b5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 отрегулировать
 угол
 наклона спинки в направлении назад,
@@ -35155,7 +33023,6 @@ time
 спинку;
 
 ### Если необходимо
-`livan_9_ru_f71522b5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 отрегулировать
 угол
 наклона спинки в направлении вперед,
@@ -35182,7 +33049,6 @@ time
 движения автомобиля.
 
 ### Ремень
-`livan_9_ru_c0942589` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:80 | doc_type:owners_manual
 безопасности
 способен
 максимально
@@ -35198,7 +33064,6 @@ time
 положении спинок сидений.
 
 ### При откинутом положении сиденья часть
-`livan_9_ru_cf5e03e0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 ремня
 на
 талии
@@ -35209,13 +33074,11 @@ time
 или съехать в район шеи.
 
 ### При лобовом столкновении чрезмерный
-`livan_9_ru_96c922f2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 угол наклона сиденья может увеличить
 риск получения травм или даже привести
 к летальному исходу.
 
 ### Сиденье
-`livan_9_ru_bd09c9c7` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:80 | doc_type:owners_manual
 водителя
 с
 электронной регулировкой*
@@ -35225,7 +33088,6 @@ time
 сиденья.
 
 ### Не кладите предметы под сиденье
-`livan_9_ru_28f51494` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:80 | doc_type:owners_manual
 с
 электроприводом
 и
@@ -35235,14 +33097,12 @@ time
 сиденья.
 
 ### 1. Переключатель
-`livan_9_ru_426fd51d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 для
 регулировки
 высоты сиденья/ движения сиденья
 вперед-назад
 
 ### 2. Переключатель для регулировки угла
-`livan_9_ru_73b2e6e6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 наклона спинки
 Сиденья и устройства защиты
 4
@@ -35256,7 +33116,6 @@ time
 79
 
 ### Переместите
-`livan_9_ru_a025860e` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:81 | doc_type:owners_manual
 переключатель
 в
 направлении
@@ -35265,7 +33124,6 @@ time
 регулировать сиденье вперед и назад.
 
 ### Переместите
-`livan_9_ru_a025860e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 переключатель
 в
 направлении
@@ -35275,7 +33133,6 @@ time
 уменьшится или увеличится.
 
 ### Регулировка
-`livan_9_ru_c47971ab` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 угла
 наклона
 спинки
@@ -35289,7 +33146,6 @@ time
 отрегулировать наклон спинки сиденья.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_69f1e38f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 80
 Ручное
 регулирование
@@ -35298,7 +33154,6 @@ time
 сиденья
 
 ### Сиденье
-`livan_9_ru_02adb709` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:82 | doc_type:owners_manual
 переднего
 пассажира
 можно
@@ -35313,7 +33168,6 @@ time
 сиденья по высоте.
 
 ### 1. Рычаг
-`livan_9_ru_05931569` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 для
 регулировки
 сиденья
@@ -35340,7 +33194,6 @@ time
 направлениях.
 
 ### Регулирование
-`livan_9_ru_a0802d45` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 подголовника
 задних сидений
 Чтобы поднять или опустить подголовник,
@@ -35362,30 +33215,27 @@ time
 отпустите
 кнопку.
 
-### Осторожно
-`livan_9_ru_d98d5587` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
-нажмите
-или
-поднимите
-подголовник еще раз, пока не услышите
-щелчок,
-чтобы
-убедиться,
-что
-подголовник
-зафиксирован
-на
-месте.
-Нажав и удерживая кнопку регулировки,
-можно
-также
-вдавить
-или
-выдвинуть
-подголовник.
+> ⚠️ **Внимание:** нажмите
+> или
+> поднимите
+> подголовник еще раз, пока не услышите
+> щелчок,
+> чтобы
+> убедиться,
+> что
+> подголовник
+> зафиксирован
+> на
+> месте.
+> Нажав и удерживая кнопку регулировки,
+> можно
+> также
+> вдавить
+> или
+> выдвинуть
+> подголовник.
 
 ### Некоторые
-`livan_9_ru_ca8e1454` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:82 | doc_type:owners_manual
 модели
 не
 оснащены
@@ -35393,7 +33243,6 @@ time
 Заднее сиденье складывается на 4/6.
 
 ### Сложив
-`livan_9_ru_3a6f7bc3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 спинку,
 можно
 увеличить
@@ -35407,7 +33256,6 @@ time
 предметов.
 
 ### Складывание
-`livan_9_ru_c3408561` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 спинки
 заднего
 сиденья
@@ -35418,7 +33266,6 @@ time
 кнопками складывания.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_14b046fc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 4
 8
 7
@@ -35443,7 +33290,6 @@ time
 спинки сидений.
 
 ### После того как спинки задних сидений
-`livan_9_ru_f503ff0c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 сложены,
 необходимо
 убедиться,
@@ -35456,7 +33302,6 @@ time
 места.
 
 ### При размещении детских кресел на
-`livan_9_ru_83d01b4e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 задних сиденьях необходимо снять
 их
 и
@@ -35475,7 +33320,6 @@ time
 сиденья.
 
 ### Раскладывание
-`livan_9_ru_ca4fda2f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 спинки
 заднего
 сиденья
@@ -35509,7 +33353,6 @@ time
 •
 
 ### Передвинуть
-`livan_9_ru_e3251e62` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 вперед
 или
 назад
@@ -35528,7 +33371,6 @@ time
 •
 
 ### Убедиться
-`livan_9_ru_e6bf0a7e` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:83 | doc_type:owners_manual
 в
 том,
 что
@@ -35548,7 +33390,6 @@ time
 Подогрев сидений*
 
 ### После запуска автомобиля в настройках
-`livan_9_ru_0fe49fcf` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:83 | doc_type:owners_manual
 мультимедиа
 можно
 включить
@@ -35557,7 +33398,6 @@ time
 сиденья по мере необходимости.
 
 ### Подогрев сиденья водителя и переднего
-`livan_9_ru_8b485873` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 пассажира
 можно
 регулировать
@@ -35570,7 +33410,6 @@ time
 это
 
 ### Сиденья и устройства защиты
-`livan_9_ru_c1a2ac0b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 82
 означает,
 что
@@ -35596,7 +33435,6 @@ time
 на высокой мощности; когда индикатор
 
 ### AUTO
-`livan_9_ru_7d589116` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 на
 переключателе
 обогрева
@@ -35607,7 +33445,6 @@ time
 режиме
 
 ### AUTO.
-`livan_9_ru_45e7580b` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:84 | doc_type:owners_manual
 Когда
 цифры
 1,
@@ -35659,7 +33496,6 @@ AUTO
 •
 
 ### Устройство обогрева сидений можно
-`livan_9_ru_1dd0c5ee` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:84 | doc_type:owners_manual
 включать
 только
 при
@@ -35682,7 +33518,6 @@ AUTO
 •
 
 ### Не кладите чехол спинки сиденья на
-`livan_9_ru_79b87793` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:84 | doc_type:owners_manual
 сиденье
 во
 время
@@ -35700,7 +33535,6 @@ AUTO
 83
 
 ### Параметры
-`livan_9_ru_98aabc6b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 регулирования
 сиденья
 В
@@ -35712,7 +33546,6 @@ AUTO
 Пункт
 
 ### Величина
-`livan_9_ru_4c3d0be5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 Си
 де
 нье
@@ -35746,7 +33579,6 @@ AUTO
 Пункт
 
 ### Величина
-`livan_9_ru_4c3d0be5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 Пе
 ред
 нее
@@ -35775,7 +33607,6 @@ AUTO
 54°)
 
 ### Сиденья и устройства защиты
-`livan_9_ru_4bd0eeb2` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:85 | doc_type:owners_manual
 84
 Ремень безопасности
 Общие
@@ -35785,7 +33616,6 @@ AUTO
 безопасности
 
 ### В
-`livan_9_ru_f7b4c7eb` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:86 | doc_type:owners_manual
 данном
 разделе
 объясняется,
@@ -35835,7 +33665,6 @@ AUTO
 столкновении.
 
 ### Поэтому
-`livan_9_ru_98d51fa2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 важно
 пристегивать
 ремни
@@ -35848,7 +33677,6 @@ AUTO
 пассажиры в автомобиле.
 
 ### Сидеть
-`livan_9_ru_7f05b40f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 в
 багажном
 отделении
@@ -35865,7 +33693,6 @@ AUTO
 погибнуть.
 
 ### Поэтому
-`livan_9_ru_98d51fa2` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:86 | doc_type:owners_manual
 запрещается
 сидеть
 в
@@ -35881,7 +33708,6 @@ AUTO
 пристегнуты.
 
 ### Данный
-`livan_9_ru_d01412b3` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:86 | doc_type:owners_manual
 автомобиль
 оборудован
 световым сигналом, предупреждающим о
@@ -35933,7 +33759,6 @@ AUTO
 тесно связаны!
 
 ### Сиденья и устройства защиты
-`livan_9_ru_faf0e399` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 4
 8
 7
@@ -35958,13 +33783,11 @@ AUTO
 скорость
 
 ### Вашего
-`livan_9_ru_ec2f18af` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:87 | doc_type:owners_manual
 движения
 соответствует скорости движения такого
 объекта.
 
 ### Рассмотрим
-`livan_9_ru_5b17d316` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:87 | doc_type:owners_manual
 на
 примере
 простейшего
@@ -35994,7 +33817,6 @@ AUTO
 путь.
 
 ### В
-`livan_9_ru_6dbe87e7` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:87 | doc_type:owners_manual
 реальном
 автомобиле
 таким
@@ -36021,14 +33843,12 @@ AUTO
 скелет.
 
 ### Именно
-`livan_9_ru_13896210` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:87 | doc_type:owners_manual
 поэтому
 важно
 использовать ремень безопасности.
 Правильная посадка
 
 ### Правильное сидячее положение крайне
-`livan_9_ru_62489ca7` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:87 | doc_type:owners_manual
 важно для лучшей защиты с помощью
 подушки и ремня безопасности. Сиденья
 водителя
@@ -36055,7 +33875,6 @@ AUTO
 безопасное управление автомобилем.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_45d57865` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:87 | doc_type:owners_manual
 86
 •
 эффективную
@@ -36072,12 +33891,10 @@ AUTO
 ремня безопасности.
 
 ### Не наклоняйте сиденье слишком
-`livan_9_ru_fcdb6ebc` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:88 | doc_type:owners_manual
 сильно назад во время движения,
 чтобы избежать серьезных травм.
 
 ### Во время движения не выставляйте
-`livan_9_ru_48e62814` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:88 | doc_type:owners_manual
 голову или руки из окна, так как это
 может привести к смертельной травме.
 Во
@@ -36097,7 +33914,6 @@ AUTO
 расстояние.
 
 ### Правильная посадка водителя является
-`livan_9_ru_a492900e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 крайне
 важным
 для
@@ -36112,7 +33928,6 @@ AUTO
 травм.
 
 ### Водителю
-`livan_9_ru_89a643bc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 рекомендуется осуществить следующие
 регулировки:
 •
@@ -36120,7 +33935,6 @@ AUTO
 груди не менее 25 сантиметров.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_15ceefec` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:88 | doc_type:owners_manual
 4
 8
 7
@@ -36139,14 +33953,12 @@ AUTO
 •
 
 ### Регулировка
-`livan_9_ru_e97d41f5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 подголовника:
 подголовник должен быть правильно
 отрегулирован по высоте.
 •
 
 ### Спинка сиденья должна находиться в
-`livan_9_ru_7cb1fd0e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 положении
 «сидяе,
 спина
@@ -36155,7 +33967,6 @@ AUTO
 •
 
 ### Ремень
-`livan_9_ru_ee4cbf1d` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:89 | doc_type:owners_manual
 безопасности
 должен
 быть
@@ -36166,7 +33977,6 @@ AUTO
 пассажира
 
 ### Для Вашей собственной безопасности и
-`livan_9_ru_db515461` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 во избежание риска получения травм
 пассажиру
 переднего
@@ -36175,7 +33985,6 @@ AUTO
 •
 
 ### Соблюдать
-`livan_9_ru_5524880f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 расстояние
 между
 пассажиром и приборной панелью не
@@ -36183,7 +33992,6 @@ AUTO
 •
 
 ### Регулировка
-`livan_9_ru_e97d41f5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 подголовника
 должна
 быть
@@ -36195,7 +34003,6 @@ AUTO
 •
 
 ### Ремень
-`livan_9_ru_ee4cbf1d` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:89 | doc_type:owners_manual
 безопасности
 должен
 быть
@@ -36206,14 +34013,12 @@ AUTO
 ремень безопасности
 
 ### Информация
-`livan_9_ru_2662ba34` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 в
 данном
 разделе
 относится только ко взрослым людям.
 
 ### В первую очередь перед использованием
-`livan_9_ru_df82ec75` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 ремней безопасности Вы или пассажиры
 автомобиля должны узнать некоторую
 важную
@@ -36240,7 +34045,6 @@ AUTO
 безопасности, это крайне важно.
 
 ### В
-`livan_9_ru_656024b1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 соответствии
 со
 статистическими
@@ -36257,7 +34061,6 @@ AUTO
 могут вылететь из автомобиля. Кроме
 
 ### Сиденья и устройства защиты
-`livan_9_ru_44a61641` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 88
 того,
 они
@@ -36268,7 +34071,6 @@ AUTO
 пристегнутыми пассажирами.
 
 ### В
-`livan_9_ru_08075b69` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 сидячем
 положении
 необходимо
@@ -36280,7 +34082,6 @@ AUTO
 собой.
 
 ### Нижняя
-`livan_9_ru_a9e5a9bc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 часть
 ремня
 в
@@ -36301,7 +34102,6 @@ AUTO
 ремня должна пересекать плечо и грудь.
 
 ### Именно
-`livan_9_ru_4106d0b0` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 эти
 части
 тела
@@ -36343,7 +34143,6 @@ AUTO
 ремнями безопасности.
 
 ### Беременные
-`livan_9_ru_2e6f8f0c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 женщины
 должны
 пользоваться ремнем безопасности весь
@@ -36361,7 +34160,6 @@ AUTO
 живота.
 
 ### Беременная
-`livan_9_ru_b25c7a23` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 женщина
 должна
 сидеть как можно прямее, в отдалении от
@@ -36373,7 +34171,6 @@ AUTO
 безопасности.
 
 ### Лучший
-`livan_9_ru_33fcf5fd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 способ
 защитить
 ребенка
@@ -36396,7 +34193,6 @@ AUTO
 использования ремня безопасности.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_67d2056c` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:90 | doc_type:owners_manual
 4
 8
 7
@@ -36411,7 +34207,6 @@ AUTO
 безопасности
 
 ### Все сиденья автомобиля оборудованы
-`livan_9_ru_2c2fed54` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 трехточечными
 ремнями
 безопасности.
@@ -36425,7 +34220,6 @@ AUTO
 безопасности.
 
 ### 1. Возьмитесь за язычок крепления и
-`livan_9_ru_2a24307d` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 потяните ремень, пересекая тело. Не
 позволяйте ремню перекручиваться.
 Если
@@ -36445,7 +34239,6 @@ AUTO
 пересекая тело.
 
 ### 2. Вставьте
-`livan_9_ru_1ecbd897` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 язычок
 крепления
 в
@@ -36460,7 +34253,6 @@ AUTO
 фиксации.
 
 ### Удостоверьтесь в положении кнопки
-`livan_9_ru_d89c4fef` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 разблокировки
 на
 застежке,
@@ -36477,7 +34269,6 @@ AUTO
 подходящее
 
 ### Вашему
-`livan_9_ru_df330eec` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 росту
 положение. Ознакомьтесь с разделом
 «Регулятор высоты
@@ -36487,7 +34278,6 @@ AUTO
 важную информацию.
 
 ### 3. Потянув плечевую часть ремня вверх,
-`livan_9_ru_f2c13248` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:91 | doc_type:owners_manual
 можно затянуть нижнюю часть.
 4. Для того чтобы отстегнуть ремень,
 нажмите
@@ -36498,7 +34288,6 @@ AUTO
 застежке.
 
 ### Позвольте
-`livan_9_ru_dcc23b53` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:91 | doc_type:owners_manual
 ремню
 вернуться
 в
@@ -36518,7 +34307,6 @@ AUTO
 ремень
 
 ### Сиденья и устройства защиты
-`livan_9_ru_86639edf` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 90
 безопасности
 и
@@ -36567,7 +34355,6 @@ AUTO
 и может привести к серьезным травмам.
 
 ### Чтобы избежать травмирования при
-`livan_9_ru_32e743e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 слишком быстрой перемотке ремня
 или заедания при слишком медленной
 перемотке,
@@ -36577,7 +34364,6 @@ AUTO
 верните ремень в исходное положение.
 
 ### Прежде
-`livan_9_ru_dc700714` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:92 | doc_type:owners_manual
 чем
 закрыть
 дверь,
@@ -36597,13 +34383,11 @@ AUTO
 повреждены.
 
 ### Ремень безопасности заднего
-`livan_9_ru_3c36369b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 ряда по центру
 1. Большая пряжка
 2. Маленькая пряжка
 
 ### Необходимо
-`livan_9_ru_f009cbd4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 правильно
 пользоваться
 трехточечными ремнями заднего ряда по
@@ -36611,13 +34395,11 @@ AUTO
 В соответствии со следующими шагами:
 
 ### 1. Взять ремень безопасности заднего
-`livan_9_ru_d282226d` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 ряда по центру и вытащить из навеса,
 пересекая им тело. Не позволяйте
 ремню перекручиваться.
 
 ### 2. У
-`livan_9_ru_8b5ed142` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 ремня
 есть
 два
@@ -36639,7 +34421,6 @@ AUTO
 от сиденья 1.
 
 ### 3. Вставьте
-`livan_9_ru_3045d66c` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 язычок
 замка
 до
@@ -36662,7 +34443,6 @@ AUTO
 ремень.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_88395e09` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:92 | doc_type:owners_manual
 4
 8
 7
@@ -36696,7 +34476,6 @@ AUTO
 быть возвращен в исходное положение.
 
 ### Регулятор
-`livan_9_ru_225ef30e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 высоты
 плечевого
 ремня
@@ -36712,7 +34491,6 @@ AUTO
 высоты плеча.
 
 ### Отрегулируйте
-`livan_9_ru_e5697e5d` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:93 | doc_type:owners_manual
 высоту
 таким образом,
 чтобы
@@ -36741,7 +34519,6 @@ AUTO
 регулятор высоты в нужное положение.
 
 ### Регулятор
-`livan_9_ru_225ef30e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 можно
 переместить
 вверх,
@@ -36767,7 +34544,6 @@ AUTO
 месте.
 
 ### Сигнализатор непристегнутого
-`livan_9_ru_ae7e9734` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 ремня безопасности
 Передние
 и
@@ -36780,7 +34556,6 @@ AUTO
 безопасности.
 
 ### Сигнальная лампа непристегнутого
-`livan_9_ru_d218dd1f` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:93 | doc_type:owners_manual
 ремня безопасности
 Когда
 водитель
@@ -36798,7 +34573,6 @@ AUTO
 пристегнутых ремнями безопасности.
 
 ### Предупреждающий световой сигнал
-`livan_9_ru_3524a447` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:93 | doc_type:owners_manual
 и зуммер
 Если
 водитель
@@ -36817,7 +34591,6 @@ AUTO
 находится в положении заднего хода
 
 ### (R),
-`livan_9_ru_3aa2564f` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:93 | doc_type:owners_manual
 сигнальная
 лампа
 продолжает
@@ -36837,7 +34610,6 @@ AUTO
 остается включенной.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_970b5005` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:93 | doc_type:owners_manual
 92
 •
 Когда скорость автомобиля больше 10
@@ -36893,7 +34665,6 @@ AUTO
 безопасности.
 
 ### Правильное использование ремня
-`livan_9_ru_25701dca` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 безопасности может сократить риск
 получения
 травм
@@ -36903,7 +34674,6 @@ AUTO
 и
 
 ### Поэтому
-`livan_9_ru_b85153cc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 как
 водитель,
 так
@@ -36920,7 +34690,6 @@ AUTO
 безопасности во время движения.
 
 ### Обращайте
-`livan_9_ru_1924d07a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 внимание
 на
 горящие
@@ -36929,7 +34698,6 @@ AUTO
 и повреждению имущества.
 
 ### Обслуживание
-`livan_9_ru_e2a6afa8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 и
 замена
 ремня безопасности
@@ -36938,7 +34706,6 @@ AUTO
 безопасности
 
 ### Регулярно проводите проверку системы
-`livan_9_ru_5862811f` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 безопасности
 в
 соответствии
@@ -36976,7 +34743,6 @@ AUTO
 •
 
 ### Сохраняйте
-`livan_9_ru_1df164ec` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 ремень
 безопасности
 сухим и чистым.
@@ -36985,7 +34751,6 @@ AUTO
 безопасности
 
 ### Сохраняйте ремень безопасности сухим
-`livan_9_ru_adee0862` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 и чистым.
 Не
 отбеливайте
@@ -37001,7 +34766,6 @@ AUTO
 защиты в случае аварии.
 
 ### Чистить ремень можно только используя
-`livan_9_ru_e8b27938` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:94 | doc_type:owners_manual
 нейтральное мыло и теплую воду.
 Не
 используйте
@@ -37010,7 +34774,6 @@ AUTO
 пока он не высохнет.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_ae6b7b6a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 4
 8
 7
@@ -37026,7 +34789,6 @@ AUTO
 обслуживания
 
 ### LIVAN
-`livan_9_ru_b7900dc8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 для
 проведения
 диагностики. Даже если система ремней
@@ -37044,7 +34806,6 @@ AUTO
 отремонтировать.
 
 ### Автомобильная
-`livan_9_ru_91348c03` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 авария
 может
 привести
@@ -37057,7 +34818,6 @@ AUTO
 безопасности.
 
 ### Поврежденная
-`livan_9_ru_d8564043` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 система
 ремней безопасности не может должным
 образом защитить пассажира, что может
@@ -37083,7 +34843,6 @@ AUTO
 необходимости заменить их.
 
 ### Общие сведения о подушке
-`livan_9_ru_fb88f52c` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 безопасности
 Подушка
 безопасности
@@ -37118,7 +34877,6 @@ AUTO
 травмам.
 
 ### Именно
-`livan_9_ru_8d4fbd8a` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 поэтому
 во
 время
@@ -37137,7 +34895,6 @@ AUTO
 раскрыться.
 
 ### Подушка
-`livan_9_ru_bf1c899e` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 безопасности
 раскрывается с большой силой. Если
 пассажир находится слишком близко к
@@ -37177,7 +34934,6 @@ AUTO
 безопасности.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_e041de4a` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:95 | doc_type:owners_manual
 94
 На
 пути
@@ -37191,13 +34947,11 @@ AUTO
 помех.
 
 ### Нельзя
-`livan_9_ru_e9997fd2` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 помещать
 какие бы то ни было предметы между
 пассажиром и подушкой безопасности.
 
 ### При наличии помех между пассажиром и
-`livan_9_ru_ff555e5c` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 подушкой
 безопасности
 при
@@ -37226,7 +34980,6 @@ AUTO
 прикасаться, пока они не остынут.
 
 ### При срабатывании подушки безопасности
-`livan_9_ru_766da7f9` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 выделяется некоторое количество газа и
 пыли,
 которые
@@ -37256,7 +35009,6 @@ AUTO
 неисправности.
 
 ### Запрещается
-`livan_9_ru_1a12e5ac` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 дополнительно
 устанавливать
 или
@@ -37265,13 +35017,11 @@ AUTO
 безопасности.
 
 ### Категорически
-`livan_9_ru_7e8b257e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:96 | doc_type:owners_manual
 запрещается без разрешения изменять
 конструкцию автомобиля и жгут проводов
 системы подушек безопасности.
 
 ### Подушка
-`livan_9_ru_f31ef313` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 безопасности
 должна
 быть
@@ -37291,7 +35041,6 @@ AUTO
 произойти позже.
 
 ### Дети и подростки могут получить
-`livan_9_ru_277ff3d9` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 серьезные травмы или умереть при
 срабатывании
 подушки
@@ -37311,7 +35060,6 @@ AUTO
 кресло.
 
 ### LIVAN
-`livan_9_ru_e193401f` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 настоятельно
 рекомендует, чтобы как младенцы, так и
 дети сидели на заднем сиденье и для них
@@ -37322,7 +35070,6 @@ AUTO
 безопасным.
 
 ### Положение
-`livan_9_ru_143aed57` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 подушки
 безопасности
 Фронтальная
@@ -37362,7 +35109,6 @@ AUTO
 панелью.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_ca0f5e25` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:96 | doc_type:owners_manual
 4
 8
 7
@@ -37390,7 +35136,6 @@ AUTO
 надписью «AIRBAGе.
 
 ### Фронтальная
-`livan_9_ru_0bb9250b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 подушка
 безопасности
 не
@@ -37402,7 +35147,6 @@ AUTO
 при аварийной остановке.
 
 ### Подушка безопасности срабатывает за
-`livan_9_ru_fbd48421` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 очень короткое время и не может оказать
 защитное
 действие
@@ -37453,7 +35197,6 @@ AUTO
 пассажира переднего ряда.
 
 ### Запрещается
-`livan_9_ru_ab58b448` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 модифицировать,
 разбирать, ударять или открывать какиелибо компоненты или проводку передней
 подушки безопасности, например крышку
@@ -37476,7 +35219,6 @@ AUTO
 безопасности.
 
 ### Любое из вышеперечисленных действий
-`livan_9_ru_7681da4e` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 может
 привести
 к
@@ -37489,7 +35231,6 @@ AUTO
 людей.
 
 ### При пользовании автомобилем не
-`livan_9_ru_0202d9c6` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 нужно
 садиться
 рядом
@@ -37518,7 +35259,6 @@ AUTO
 расстояние не менее 25 сантиметров.
 
 ### Пассажирам
-`livan_9_ru_4f0d85df` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:97 | doc_type:owners_manual
 переднего
 ряда
 запрещается сидеть вместе с детьми, так
@@ -37530,7 +35270,6 @@ AUTO
 приборной
 
 ### Сиденья и устройства защиты
-`livan_9_ru_3d4454f1` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:97 | doc_type:owners_manual
 96
 панелью,
 что
@@ -37594,7 +35333,6 @@ AUTO
 передней подушки безопасности.
 
 ### Боковые
-`livan_9_ru_acef0b6b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 подушки
 безопасности*
 Боковые
@@ -37624,7 +35362,6 @@ AUTO
 переднего ряда.
 
 ### Боковые
-`livan_9_ru_acef0b6b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 подушки
 безопасности
 установлены в спинке сиденья водителя
@@ -37658,7 +35395,6 @@ AUTO
 серьезным травмам.
 
 ### Запрещается устанавливать чехлы
-`livan_9_ru_1bd4ec8f` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 на сиденья, оснащенные боковыми
 подушками
 безопасности,
@@ -37677,7 +35413,6 @@ AUTO
 •
 
 ### Боковая
-`livan_9_ru_5bd4a27f` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 подушка
 безопасности
 раскрылась.
@@ -37704,7 +35439,6 @@ LIVAN запрещается вносить какие-либо
 из следующих изменений, которые могут
 
 ### Сиденья и устройства защиты
-`livan_9_ru_dccf4835` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:98 | doc_type:owners_manual
 4
 8
 7
@@ -37719,7 +35453,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Устанавливать
-`livan_9_ru_c540643d` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:99 | doc_type:owners_manual
 электронное
 оборудование, такое как мобильные
 устройства двусторонней радиосвязи,
@@ -37730,7 +35463,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Изменять
-`livan_9_ru_e44a0a64` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 боковую
 конструкцию
 со
@@ -37740,7 +35472,6 @@ LIVAN запрещается вносить какие-либо
 безопасности*
 
 ### Боковые
-`livan_9_ru_eb4b9087` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 шторки
 безопасности
 обеспечивают
@@ -37778,7 +35509,6 @@ LIVAN запрещается вносить какие-либо
 заднего ряда.
 
 ### Боковые
-`livan_9_ru_eb4b9087` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 шторки
 безопасности
 устанавливаются над дверями с левой и
@@ -37850,7 +35580,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Боковая
-`livan_9_ru_76e54fdd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 шторка
 безопасности
 раскрылась.
@@ -37887,7 +35616,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Устанавливать
-`livan_9_ru_c540643d` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:99 | doc_type:owners_manual
 электронное
 оборудование, такое как мобильные
 Сиденья и устройства защиты
@@ -37902,7 +35630,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Выполнять ремонт на консоли или
-`livan_9_ru_627f9fbb` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:100 | doc_type:owners_manual
 рядом с ней.
 Срабатывание
 подушки
@@ -37912,7 +35639,6 @@ LIVAN запрещается вносить какие-либо
 подушки безопасности
 
 ### Фронтальная
-`livan_9_ru_a05178ed` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:100 | doc_type:owners_manual
 подушка
 безопасности
 срабатывает при движении автомобиля
@@ -37960,7 +35686,6 @@ LIVAN запрещается вносить какие-либо
 необходимо ли срабатывание подушки.
 
 ### Функционирование
-`livan_9_ru_ac60f8db` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:100 | doc_type:owners_manual
 подушки
 безопасности
 зависит
@@ -37984,7 +35709,6 @@ LIVAN запрещается вносить какие-либо
 ударе.
 
 ### Срабатывание
-`livan_9_ru_a28498a4` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:100 | doc_type:owners_manual
 подушки
 безопасности
 не
@@ -37996,7 +35720,6 @@ LIVAN запрещается вносить какие-либо
 автомобиля.
 
 ### При серьезном лобовом столкновении
-`livan_9_ru_ae0f1d7b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:100 | doc_type:owners_manual
 срабатывают две фронтальные подушки
 безопасности.
 Сиденья и устройства защиты
@@ -38011,7 +35734,6 @@ LIVAN запрещается вносить какие-либо
 99
 
 ### Срабатывание
-`livan_9_ru_5716379a` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:101 | doc_type:owners_manual
 боковых
 подушек
 и
@@ -38056,7 +35778,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### При столкновении во время движения
-`livan_9_ru_a5182204` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 со
 ступенями
 и
@@ -38068,7 +35789,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### При внезапном попадании в выбоину
-`livan_9_ru_bb596fb3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 или ров.
 •
 При наезде на (врезании в) заднюю
@@ -38081,7 +35801,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### При наличии неисправности системы
-`livan_9_ru_d49a9d48` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:102 | doc_type:owners_manual
 подушки безопасности.
 •
 При других непредвиденных условиях.
@@ -38091,7 +35810,6 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### Лобовое
-`livan_9_ru_4c1c1515` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:102 | doc_type:owners_manual
 или
 почти
 лобовое
@@ -38100,7 +35818,6 @@ LIVAN запрещается вносить какие-либо
 Столкновение сзади.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_1b50589b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:102 | doc_type:owners_manual
 4
 8
 7
@@ -38134,13 +35851,11 @@ LIVAN запрещается вносить какие-либо
 •
 
 ### При наличии неисправности системы
-`livan_9_ru_b76bdb7b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 подушки безопасности.
 •
 При других непредвиденных условиях.
 
 ### Обслуживание
-`livan_9_ru_94654c7b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 и
 замена
 подушки безопасности
@@ -38166,7 +35881,6 @@ LIVAN запрещается вносить какие-либо
 неисправности.
 
 ### Для понимания расположения и смысла
-`livan_9_ru_38227421` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:103 | doc_type:owners_manual
 предупреждающих
 световых
 сигналов
@@ -38183,7 +35897,6 @@ LIVAN запрещается вносить какие-либо
 управленияе
 
 ### Автомобильная
-`livan_9_ru_4b173e44` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 авария
 может
 привести
@@ -38220,7 +35933,6 @@ LIVAN запрещается вносить какие-либо
 проверена и заменена как можно скорее.
 
 ### Если произошло срабатывание подушки
-`livan_9_ru_be87ed69` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 безопасности,
 необходима
 замена
@@ -38230,7 +35942,6 @@ LIVAN запрещается вносить какие-либо
 для проведения диагностики.
 
 ### Если при движении автомобиля светится
-`livan_9_ru_6dcf5866` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:103 | doc_type:owners_manual
 лампа
 сигнализации
 о
@@ -38255,7 +35966,6 @@ LIVAN запрещается вносить какие-либо
 для проведения диагностики.
 
 ### При продаже автомобиля позаботьтесь о
-`livan_9_ru_7b780148` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 том, чтобы новый владелец был в курсе
 даты замены подушки безопасности и ее
 системы.
@@ -38264,7 +35974,6 @@ LIVAN запрещается вносить какие-либо
 признан
 
 ### Сиденья и устройства защиты
-`livan_9_ru_3c4025e5` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:103 | doc_type:owners_manual
 102
 непригодным
 для
@@ -38281,7 +35990,6 @@ LIVAN запрещается вносить какие-либо
 специалистом в специальных условиях.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_836e5815` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 4
 8
 7
@@ -38295,14 +36003,12 @@ LIVAN запрещается вносить какие-либо
 детского кресла
 
 ### Данные по совместимости всех сидений с детским креслом в условиях фиксации
-`livan_9_ru_e914f292` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 детского кресла ремнями безопасности:
 Груп
 па
 Вес ребенка
 
 ### Положение
-`livan_9_ru_6694eac5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 места
 пассажира
 переднего ряда
@@ -38313,7 +36019,6 @@ LIVAN запрещается вносить какие-либо
 сбоку
 
 ### Положение
-`livan_9_ru_6694eac5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 места
 пассажира
 заднего ряда
@@ -38324,7 +36029,6 @@ X
 U
 
 ### X
-`livan_9_ru_8f1f6c40` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 0+
 <13 КГ
 X
@@ -38344,7 +36048,6 @@ X
 22-36 кг
 
 ### X
-`livan_9_ru_8f1f6c40` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 Пояснение: смысл условных обозначений в таблице выше: U = универсальный тип
 детской удерживающей системы, утвержденный для использования для этой весовой
 группы; X = детская удерживающая система, неподходящая для этой весовой группы.
@@ -38352,7 +36055,6 @@ X
 в детском кресле детской системы защиты ISOFIX:
 
 ### Группа
-`livan_9_ru_cb17def8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 Вес
 ребенка
 Катего
@@ -38370,7 +36072,6 @@ X
 го ряда
 
 ### Положе
-`livan_9_ru_5b83b51a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 ние
 места
 пассажи
@@ -38394,7 +36095,6 @@ X
 -
 
 ### X
-`livan_9_ru_8f1f6c40` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 0
 <10 КГ
 E
@@ -38412,7 +36112,6 @@ X
 D
 
 ### Сиденья и устройства защиты
-`livan_9_ru_a2e20da5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 104
 Группа
 Вес
@@ -38425,7 +36124,6 @@ D
 и
 
 ### Положе
-`livan_9_ru_c2aab023` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:106 | doc_type:owners_manual
 ние
 места
 пассажи
@@ -38442,7 +36140,6 @@ D
 сбоку
 
 ### Положе
-`livan_9_ru_c2aab023` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:106 | doc_type:owners_manual
 ние
 места
 пассажи
@@ -38455,7 +36152,6 @@ C
 ISO/R3
 
 ### Ⅰ
-`livan_9_ru_31071623` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:106 | doc_type:owners_manual
 9-18 кг
 D
 ISO/R2
@@ -38473,7 +36169,6 @@ X
 IUF
 
 ### X
-`livan_9_ru_c7a53ac8` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:106 | doc_type:owners_manual
 Пояснение: смысл условных обозначений в таблице выше: IL = на данном сиденье
 используется детское кресло категории ISOFIX, указанное в перечне, сопровождающем
 автомобиль; используется вместе с сиденьем; IUF = на данном сиденье используется
@@ -38481,7 +36176,6 @@ IUF
 оборудовано крепежным кольцом для системы ISOFIX.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_228c81b0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:106 | doc_type:owners_manual
 4
 8
 7
@@ -38496,12 +36190,10 @@ IUF
 защитных устройств
 
 ### Новорожденные и малолетние
-`livan_9_ru_fa0bab8d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:107 | doc_type:owners_manual
 дети и дети старшего возраста
 Новорожденные и малолетние дети
 
 ### Все находящиеся в автомобиле люди
-`livan_9_ru_ffa72c23` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:107 | doc_type:owners_manual
 должны быть защищены! В том числе и
 новорожденные
 и
@@ -38509,7 +36201,6 @@ IUF
 дети.
 
 ### Протяженность
-`livan_9_ru_91dbc06b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:107 | doc_type:owners_manual
 маршрута,
 а
 также
@@ -38549,7 +36240,6 @@ IUF
 безопасности.
 
 ### Подушка безопасности и трехточечный
-`livan_9_ru_a9b99bbd` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:107 | doc_type:owners_manual
 ремень могут защитить детей старшего
 возраста,
 но
@@ -38562,7 +36252,6 @@ IUF
 детей.
 
 ### Система ремней безопасности и подушек
-`livan_9_ru_374390a3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:107 | doc_type:owners_manual
 безопасности
 в
 автомобиле
@@ -38595,7 +36284,6 @@ IUF
 безопасности таким образом.
 
 ### Не держите на руках младенцев или
-`livan_9_ru_bbeb7ae5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:107 | doc_type:owners_manual
 детей
 во
 время
@@ -38632,7 +36320,6 @@ IUF
 держащего.
 
 ### Младенцы
-`livan_9_ru_c7a96c9e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:107 | doc_type:owners_manual
 должны
 быть
 защищены
@@ -38640,7 +36327,6 @@ IUF
 защитными устройствами.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_0d3507ea` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:107 | doc_type:owners_manual
 106
 Не
 помещайте
@@ -38672,7 +36358,6 @@ IUF
 погибнуть.
 
 ### Запрещается
-`livan_9_ru_4e721037` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:108 | doc_type:owners_manual
 помещать
 на
 сиденье
@@ -38685,7 +36370,6 @@ IUF
 назад.
 
 ### Устройство
-`livan_9_ru_c5c31e9c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 детской
 защиты,
 направленное
@@ -38698,7 +36382,6 @@ IUF
 задних сиденьях.
 
 ### Для того чтобы уменьшить риск
-`livan_9_ru_61bba4ce` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 получения травм шеи и головы во
 время аварии, младенцам необходима
 поддержка всего тела. Это необходимо
@@ -38730,7 +36413,6 @@ IUF
 плечам.
 
 ### Младенец
-`livan_9_ru_d3413160` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 должен
 быть
 все
@@ -38739,7 +36421,6 @@ IUF
 направленном назад.
 
 ### Тазовая
-`livan_9_ru_8d2bd46b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:108 | doc_type:owners_manual
 кость
 ребенка
 относительно
@@ -38751,7 +36432,6 @@ IUF
 кости.
 
 ### Поэтому
-`livan_9_ru_bbe4392f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 он
 перемещается
 на
@@ -38766,7 +36446,6 @@ IUF
 какой-либо защиты структурой скелета.
 
 ### Это само по себе может привести к
-`livan_9_ru_5aa3d0d5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 серьезным травмам или смерти. Для того
 чтобы
 сократить
@@ -38777,7 +36456,6 @@ IUF
 устройстве защиты все время.
 
 ### Дети старшего возраста
-`livan_9_ru_1284c960` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 Дети старшего возраста, которые уже не
 могут сидеть в детском автомобильном
 кресле,
@@ -38787,7 +36465,6 @@ IUF
 безопасности.
 
 ### В
-`livan_9_ru_be432fcc` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:108 | doc_type:owners_manual
 руководстве
 по
 эксплуатации
@@ -38808,7 +36485,6 @@ IUF
 креслом:
 
 ### Сиденья и устройства защиты
-`livan_9_ru_5578efb8` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:108 | doc_type:owners_manual
 4
 8
 7
@@ -38825,7 +36501,6 @@ IUF
 нему.
 
 ### Находятся
-`livan_9_ru_87ef1681` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 ли
 колени
 ребенка
@@ -38838,7 +36513,6 @@ IUF
 •
 
 ### Застегните
-`livan_9_ru_243ad0ed` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:109 | doc_type:owners_manual
 трехточечный
 ремень
 безопасности.
@@ -38895,7 +36569,6 @@ IUF
 ограничения.
 
 ### Плечевая
-`livan_9_ru_aa4cd6b5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 часть
 ремня
 не
@@ -38953,7 +36626,6 @@ IUF
 безопасности.
 
 ### Никогда
-`livan_9_ru_87b7720b` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:109 | doc_type:owners_manual
 не
 пристегивайте
 двух
@@ -38980,7 +36652,6 @@ IUF
 человеком.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_b7094110` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:109 | doc_type:owners_manual
 108
 Когда ребенок пристегнут ремнями
 безопасности, плечевой ремень не
@@ -38991,7 +36662,6 @@ IUF
 спину.
 
 ### Неправильное
-`livan_9_ru_5a570963` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 использование
 трехточечного ремня безопасности может
 привести к серьезному травмированию
@@ -39027,7 +36697,6 @@ IUF
 пересекать плечо и грудь.
 
 ### Инструкция
-`livan_9_ru_da1a08ce` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 для
 детских
 средств защиты
@@ -39043,7 +36712,6 @@ IUF
 ребенка к поверхности сиденья.
 
 ### Система
-`livan_9_ru_bcfb6a31` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 ремней
 позволяет
 крепко
@@ -39052,7 +36720,6 @@ IUF
 ребенка в устройстве защиты.
 
 ### Детские
-`livan_9_ru_4a547144` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 сиденья,
 направленные
 вперед
@@ -39064,7 +36731,6 @@ IUF
 пристегивания его тела ремнями.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_cf221766` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 4
 8
 7
@@ -39084,7 +36750,6 @@ IUF
 автомобильного ремня безопасности.
 
 ### Установка
-`livan_9_ru_913dd6da` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 устройства
 детской защиты
 По
@@ -39104,7 +36769,6 @@ IUF
 автомобиля.
 
 ### Поэтому
-`livan_9_ru_ef0067cb` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:111 | doc_type:owners_manual
 мы
 рекомендуем
 закреплять
@@ -39120,7 +36784,6 @@ IUF
 сиденье.
 
 ### В
-`livan_9_ru_44388381` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 том
 числе:
 младенцы или дети, сидящие в детских
@@ -39145,7 +36808,6 @@ IUF
 пользоваться ремнями безопасности.
 
 ### В случае
-`livan_9_ru_aa8acd99` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:111 | doc_type:owners_manual
 срабатывания
 подушки
 безопасности переднего пассажира
@@ -39180,7 +36842,6 @@ IUF
 автомобиле.
 
 ### Независимо
-`livan_9_ru_70fac8c4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 от
 того,
 где
@@ -39192,7 +36853,6 @@ IUF
 крепление.
 
 ### При ударе или экстренном торможении
-`livan_9_ru_0df4f8f7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:111 | doc_type:owners_manual
 незакрепленное
 устройство
 детской
@@ -39229,7 +36889,6 @@ IUF
 обратите внимание на это.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_3880cb65` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:111 | doc_type:owners_manual
 110
 Установка при использовании
 ремня безопасности бедренноплечевого
@@ -39238,7 +36897,6 @@ IUF
 безопасности ALR/ELR)
 
 ### Установка
-`livan_9_ru_2694a4d3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 детского
 кресла,
 направленного назад
@@ -39264,7 +36922,6 @@ IUF
 сиденьях.
 
 ### В
-`livan_9_ru_73f2f99c` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:112 | doc_type:owners_manual
 противном
 случае
 при
@@ -39302,7 +36959,6 @@ IUF
 сиденьем справа.
 
 ### В
-`livan_9_ru_71be1a74` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:113 | doc_type:owners_manual
 соответствии
 с
 инструкциями,
@@ -39352,7 +37008,6 @@ LIVAN для проведения диагностики. Не
 пассажира или маленького ребенка.
 
 ### Передвиньте детское кресло в разных
-`livan_9_ru_880db090` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 направлениях, толкайте и тяните, чтобы
 убедиться
 в
@@ -39363,13 +37018,11 @@ LIVAN для проведения диагностики. Не
 закреплено.
 
 ### Для того чтобы снять детское средство
-`livan_9_ru_90c5bfff` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 защиты, нажмите на кнопку замка.
 Сиденья и устройства защиты
 112
 
 ### Установка
-`livan_9_ru_4938a1d7` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:114 | doc_type:owners_manual
 детского
 сиденья,
 направленного вперед
@@ -39397,7 +37050,6 @@ LIVAN для проведения диагностики. Не
 защиты.
 
 ### Плотно
-`livan_9_ru_2129fc87` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:114 | doc_type:owners_manual
 прижмите
 устройство
 детской
@@ -39412,7 +37064,6 @@ LIVAN для проведения диагностики. Не
 зафиксировать детское сиденье.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_95f09c93` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 4
 8
 7
@@ -39438,7 +37089,6 @@ LIVAN для проведения диагностики. Не
 компаниейизготовителем.
 
 ### Усадите
-`livan_9_ru_fa1ec48a` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:115 | doc_type:owners_manual
 ребенка
 на
 устройство
@@ -39466,7 +37116,6 @@ LIVAN для проведения диагностики. Не
 ребенка.
 
 ### Подробнее
-`livan_9_ru_a083a917` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:115 | doc_type:owners_manual
 см.
 параграф
 «Ремень безопасностие
@@ -39480,7 +37129,6 @@ LIVAN для проведения диагностики. Не
 назад.
 
 ### Необходимо
-`livan_9_ru_50d70f14` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:115 | doc_type:owners_manual
 убедиться,
 что
 плечевой
@@ -39493,7 +37141,6 @@ LIVAN для проведения диагностики. Не
 ребенка.
 
 ### Ремень
-`livan_9_ru_ba7c4439` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:115 | doc_type:owners_manual
 безопасности
 необходимо
 держать подальше от шеи ребенка, но он
@@ -39511,7 +37158,6 @@ LIVAN для проведения диагностики. Не
 серьезным травмам.
 
 ### Расположенная высоко бедренная часть
-`livan_9_ru_04af76fc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 ремня и ослабленное состояние ремня
 безопасности
 при
@@ -39544,7 +37190,6 @@ LIVAN для проведения диагностики. Не
 безопасности под его руками.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_d425eda2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 114
 Установка устройства детской
 защиты ISOFIX
@@ -39555,7 +37200,6 @@ LIVAN для проведения диагностики. Не
 специальным соединением по стандарту
 
 ### ISO устанавливается на сиденье заднего
-`livan_9_ru_9ed82542` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:116 | doc_type:owners_manual
 ряда.
 Разъемы
 для
@@ -39575,7 +37219,6 @@ LIVAN для проведения диагностики. Не
 ряда.
 
 ### Детское
-`livan_9_ru_564030f8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 устройство
 защиты
 по
@@ -39589,7 +37232,6 @@ ISO
 соединения.
 
 ### В
-`livan_9_ru_c1f10a56` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 таком
 случае не нужно
 использовать ремни
@@ -39597,7 +37239,6 @@ ISO
 защиты.
 
 ### При использовании и установке детской
-`livan_9_ru_b7629e49` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 системы
 защиты
 ISOFIX
@@ -39614,7 +37255,6 @@ ISOFIX
 неэффективной.
 
 ### О
-`livan_9_ru_83340e98` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 возможности
 использования
 конкретного
@@ -39630,7 +37270,6 @@ ISOFIX
 компаниипроизводителя данного устройства.
 
 ### Установите
-`livan_9_ru_7e540548` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 детское
 автомобильное
 кресло
@@ -39645,7 +37284,6 @@ ISOFIX
 шагами:
 
 ### 1. Поднимите
-`livan_9_ru_5fd2a9f6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 подголовник
 в
 соответствующее положение.
@@ -39655,7 +37293,6 @@ ISOFIX
 стержня.
 
 ### 3. Убедитесь
-`livan_9_ru_aebdd58d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 в
 том,
 что
@@ -39663,7 +37300,6 @@ ISOFIX
 ISOFIX находится рядом с разъемом.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_ffe2934e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 4
 8
 7
@@ -39680,7 +37316,6 @@ ISOFIX находится рядом с разъемом.
 кресла
 
 ### ISOFIX
-`livan_9_ru_2dd47ecd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 к
 разъему ISOFIX, закрепите его.
 5. Проверьте,
@@ -39689,7 +37324,6 @@ ISOFIX находится рядом с разъемом.
 зафиксирована защелка.
 
 ### 6. Закрепите
-`livan_9_ru_e349999a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 фиксатор
 верхнего
 натяжного
@@ -39719,7 +37353,6 @@ ISOFIX находится рядом с разъемом.
 инструкцией по монтажу.
 
 ### Детское
-`livan_9_ru_d2a62cd4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 устройство
 защиты
 не
@@ -39727,7 +37360,6 @@ ISOFIX находится рядом с разъемом.
 соединения
 
 ### ISOFIX,
-`livan_9_ru_550d0835` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 соответствующего
 для
 установки
@@ -39770,7 +37402,6 @@ ISOFIX находится рядом с разъемом.
 автомобиле.
 
 ### Нельзя
-`livan_9_ru_9d34d939` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 устанавливать
 устройство
 детской
@@ -39784,7 +37415,6 @@ ISOFIX находится рядом с разъемом.
 защиты
 
 ### ISOFIX
-`livan_9_ru_2dd47ecd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 с
 соединением
 ISOFIX
@@ -39793,7 +37423,6 @@ ISOFIX
 характерный щелчок.
 
 ### Сиденья и устройства защиты
-`livan_9_ru_007c7a6f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 116
 5
 8
@@ -39825,7 +37454,6 @@ ISOFIX
 технического обслуживания
 
 ### LIVAN.
-`livan_9_ru_8f986bbf` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 Если
 ваш
 смарт-ключ
@@ -39847,7 +37475,6 @@ ISOFIX
 обслуживания
 
 ### LIVAN
-`livan_9_ru_986fa546` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 может
 повторно
 активировать смарт-ключ в случае его
@@ -39856,7 +37483,6 @@ ISOFIX
 время.
 
 ### Центру
-`livan_9_ru_4bc54d55` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 технического
 обслуживания
 LIVAN
@@ -39868,7 +37494,6 @@ LIVAN
 к
 
 ### Вашему
-`livan_9_ru_c126ac56` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:119 | doc_type:owners_manual
 автомобилю.
 1. Кнопка блокировки
 2. Кнопка
@@ -39877,7 +37502,6 @@ LIVAN
 багажника
 
 ### Настоящий
-`livan_9_ru_11d58bab` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 автомобиль
 оснащен
 отдельным механическим ключом,
@@ -39887,7 +37511,6 @@ LIVAN
 смартключа.
 
 ### Храните
-`livan_9_ru_38cb78e7` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:119 | doc_type:owners_manual
 запасной
 смарт-ключ
 в
@@ -39909,7 +37532,6 @@ LIVAN
 может не завестись.
 
 ### Замена
-`livan_9_ru_d4075b81` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 элемента
 питания
 смарт-ключа
@@ -39924,14 +37546,12 @@ LIVAN
 автомобиль не распознает смарт-ключ
 
 ### Запуск двигателя и вождение
-`livan_9_ru_a94a8f1b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 118
 из-за низкого заряда элемента питания,
 необходимо заменить элемент питания в
 смарт-ключе.
 
 ### 1. Вставьте отвертку с прямым шлицем
-`livan_9_ru_3ad5fb60` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 в прорезь посередине, одновременно
 переверните ключ задней стороной
 вверх,
@@ -39954,7 +37574,6 @@ LIVAN
 ключа.
 
 ### Будьте
-`livan_9_ru_ccd8ac09` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 осторожны,
 не
 наклоняйте
@@ -39969,7 +37588,6 @@ LIVAN
 декоративные детали.
 
 ### 2. После открытия корпуса смарт-ключа
-`livan_9_ru_a1ed2540` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 необходимо
 вставить
 отвертку
@@ -39998,7 +37616,6 @@ LIVAN
 вниз.
 
 ### Модель
-`livan_9_ru_8262d36a` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:120 | doc_type:owners_manual
 элемента питания смарт-ключа: 3В,
 CR2032.
 3. После установки крышки батарейного
@@ -40026,7 +37643,6 @@ CR2032.
 ниже
 
 ### -20° С
-`livan_9_ru_32ae51a5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 в
 течение
 длительного
@@ -40042,7 +37658,6 @@ CR2032.
 смарт-ключа.
 
 ### Своевременно
-`livan_9_ru_e8bfa52b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 заменяйте элемент питания. Избегайте
 влияния на функционал дистанционного
 управления,
@@ -40061,7 +37676,6 @@ CR2032.
 использование.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_df45ea9d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 5
 8
 7
@@ -40077,7 +37691,6 @@ CR2032.
 двигателя
 
 ### Противоугонную
-`livan_9_ru_07bead7b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 защиту
 двигателя
 не
@@ -40095,7 +37708,6 @@ CR2032.
 автоматически отключается.
 
 ### Если противоугонная защита двигателя
-`livan_9_ru_59b868f4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 не снимается, а смарт-ключ не содержит
 признаков
 повреждения,
@@ -40107,12 +37719,10 @@ CR2032.
 запуска двигателя:
 
 ### 1. Используйте другие действительные
-`livan_9_ru_b07137d3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 смарт-ключи, которыми оборудован
 данный автомобиль;
 
 ### 2. Поместите смарт-ключ в контейнер
-`livan_9_ru_83cfe600` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:121 | doc_type:owners_manual
 для
 хранения
 в
@@ -40143,7 +37753,6 @@ CR2032.
 противоугонную защиту.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_92cf6284` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 120
 Блокировка
 и
@@ -40154,7 +37763,6 @@ CR2032.
 разблокировка замков
 
 ### Блокировка и разблокировка с
-`livan_9_ru_c4d5d5e2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 помощью смарт-ключа
 Смарт-ключ
 работает
@@ -40164,7 +37772,6 @@ CR2032.
 диапазоне.
 
 ### Обратите
-`livan_9_ru_0b8cce46` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 внимание, что на диапазон его работы
 иногда
 влияют
@@ -40174,7 +37781,6 @@ CR2032.
 факторы.
 
 ### В
-`livan_9_ru_db224974` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 целях
 безопасности
 после
@@ -40189,7 +37795,6 @@ CR2032.
 стартере и всех закрытых дверях.
 
 ### После успешного запирания автомобиля
-`livan_9_ru_cab43207` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 мигнут
 сигналы
 поворота;
@@ -40205,7 +37810,6 @@ CR2032.
 2 раза будет подан звуковой сигнал.
 
 ### Зона бесключевого открытия замка
-`livan_9_ru_fa65c55c` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:122 | doc_type:owners_manual
 Имея
 при
 себе
@@ -40232,7 +37836,6 @@ CR2032.
 поворота.
 
 ### Установите
-`livan_9_ru_cb3771a4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 пусковой
 переключатель
 в
@@ -40246,7 +37849,6 @@ CR2032.
 четыре
 
 ### Запуск двигателя и вождение
-`livan_9_ru_1a5c4cbb` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:122 | doc_type:owners_manual
 5
 8
 7
@@ -40271,7 +37873,6 @@ CR2032.
 •
 
 ### Пусковой
-`livan_9_ru_5f08896d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 переключатель
 не
 установлен в положение «OFFе;
@@ -40279,7 +37880,6 @@ CR2032.
 Смарт-ключ остался в машине.
 
 ### При касании области датчика блокировки
-`livan_9_ru_68a8b680` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:123 | doc_type:owners_manual
 на ручке двери со стороны водителя
 блокировка автомобиля не сработает, 3
 раза мигнут сигналы поворота, дважды
@@ -40333,7 +37933,6 @@ CR2032.
 •
 
 ### В
-`livan_9_ru_12cf270f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 обнаружении
 смарт-ключа
 есть
@@ -40341,13 +37940,11 @@ CR2032.
 удаленное место, например на полку.
 
 ### Дистанционное
-`livan_9_ru_6493f2d4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 блокирование
 и разблокирование замков
 Разблокирование замков
 
 ### Кратковременно
-`livan_9_ru_7a713b77` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:123 | doc_type:owners_manual
 нажмите
 на
 кнопку
@@ -40391,7 +37988,6 @@ CR2032.
 багажника.
 
 ### После кратковременного нажатия кнопки
-`livan_9_ru_ddd5a716` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:123 | doc_type:owners_manual
 блокировки
 на
 смарт-ключе
@@ -40420,7 +38016,6 @@ CR2032.
 звуковой сигнал.
 
 ### Не позволяйте детям проникать в
-`livan_9_ru_392946d4` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:123 | doc_type:owners_manual
 багажное
 отделение.
 Как
@@ -40437,7 +38032,6 @@ CR2032.
 багажника закрыта.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_71faecd4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 122
 Блокирование
 и
@@ -40445,7 +38039,6 @@ CR2032.
 механическим ключом
 
 ### 2. Вставьте
-`livan_9_ru_dddc6a8d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 механический
 ключ
 в
@@ -40461,7 +38054,6 @@ CR2032.
 крышку вверх.
 
 ### 3. Вставьте механический ключ в замок
-`livan_9_ru_277a81f1` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:124 | doc_type:owners_manual
 двери
 со
 стороны
@@ -40478,7 +38070,6 @@ CR2032.
 дверь.
 
 ### Блокирование
-`livan_9_ru_97f625c0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 и
 разблокирование
 замков
@@ -40487,7 +38078,6 @@ CR2032.
 1. Кнопка разблокировки
 
 ### 2. Кнопка блокировки
-`livan_9_ru_43d3f91f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 Чтобы
 закрыть
 все
@@ -40496,7 +38086,6 @@ CR2032.
 кнопку блокировки.
 
 ### Блокирование
-`livan_9_ru_97f625c0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 изнутри
 может
 быть
@@ -40521,7 +38110,6 @@ CR2032.
 км/ч).
 
 ### Разблокировка
-`livan_9_ru_49f3362c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 при
 помощи
 кнопки
@@ -40541,7 +38129,6 @@ CR2032.
 невозможно.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_82ebbbc9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 5
 8
 7
@@ -40555,7 +38142,6 @@ CR2032.
 и разблокирование
 
 ### Автоматическое
-`livan_9_ru_ef51cdd3` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:125 | doc_type:owners_manual
 повторное
 блокирование
 Если
@@ -40577,7 +38163,6 @@ CR2032.
 перейдет в режим охраны.
 
 ### Автоматическая
-`livan_9_ru_144c38c4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 блокировка
 в
 движении
@@ -40596,7 +38181,6 @@ CR2032.
 автоматически заблокируются.
 
 ### Напоминание о разблокировке при
-`livan_9_ru_36e5c893` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 забытом в автомобиле ключе
 Если
 попытаться
@@ -40618,7 +38202,6 @@ CR2032.
 положении
 
 ### «OFFе
-`livan_9_ru_988893c3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 поступит
 напоминание
 о
@@ -40632,7 +38215,6 @@ CR2032.
 загорится внутреннее освещение.
 
 ### Если во время движения автомобиля
-`livan_9_ru_a3308790` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:125 | doc_type:owners_manual
 произойдет
 серьезное
 лобовое
@@ -40677,13 +38259,11 @@ CR2032.
 запирания дверей:
 
 ### 1. Мигание левого и правого указателей
-`livan_9_ru_e8cd2cca` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 поворота, аварийной сигнализации:
 нажмите один раз на выключатель
 аварийной сигнализации;
 
 ### 2. Блокировка
-`livan_9_ru_51c17741` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 функции
 запирания
 дверей: при пусковом переключателе
@@ -40691,7 +38271,6 @@ CR2032.
 из четырех дверей автомобиля.
 
 ### Автоматическая
-`livan_9_ru_144c38c4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 разблокировка
 после остановки двигателя
 После
@@ -40707,7 +38286,6 @@ CR2032.
 двери автоматически разблокируются.
 
 ### Функция поиска автомобиля
-`livan_9_ru_bf5fa1e7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 Вы
 можете
 использовать
@@ -40744,7 +38322,6 @@ CR2032.
 прозвучит звуковой сигнал.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_32ff8451` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:125 | doc_type:owners_manual
 124
 Открытие двери багажника
 Открытие двери багажника снаружи
@@ -40772,7 +38349,6 @@ CR2032.
 положении
 
 ### «OFFе
-`livan_9_ru_bc2a4d93` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:126 | doc_type:owners_manual
 нажмите
 и
 удерживайте
@@ -40795,7 +38371,6 @@ CR2032.
 некоторое время.
 
 ### В нормальных условиях для открытия
-`livan_9_ru_beab410e` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:126 | doc_type:owners_manual
 двери
 багажника
 необходимо
@@ -40826,7 +38401,6 @@ CR2032.
 аварийного открывания двери багажника.
 
 ### Открытие
-`livan_9_ru_c9aa74e2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:126 | doc_type:owners_manual
 производится
 следующим
 образом:
@@ -40834,7 +38408,6 @@ CR2032.
 сиденья.
 
 ### Подробнее
-`livan_9_ru_d13bb83a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:126 | doc_type:owners_manual
 см.
 «Регулировка
 передних
@@ -40848,7 +38421,6 @@ CR2032.
 устройства защитые.
 
 ### 2. В
-`livan_9_ru_012a5c0f` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:126 | doc_type:owners_manual
 багажнике
 вы
 можете
@@ -40863,7 +38435,6 @@ CR2032.
 показано на рисунке.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_7a31c45a` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:126 | doc_type:owners_manual
 5
 8
 7
@@ -40877,19 +38448,16 @@ CR2032.
 открывания двери багажника.
 
 ### 4. Поверните
-`livan_9_ru_6202084d` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:127 | doc_type:owners_manual
 ручку
 аварийного
 открывания двери багажника.
 5. Аккуратно толкните дверь багажника.
 
 ### Дверные ручки
-`livan_9_ru_e87bf66f` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:127 | doc_type:owners_manual
 Если дверь не заперта, ее можно открыть
 с помощью внутренней и внешней ручек.
 
 ### Левая и правая задние двери автомобиля
-`livan_9_ru_31ec72af` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 оборудованы
 детскими
 замками
@@ -40902,7 +38470,6 @@ CR2032.
 используйте детские замки безопасности.
 
 ### Детские
-`livan_9_ru_1467a0a2` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:127 | doc_type:owners_manual
 замки
 безопасности
 расположены на внешних кромках задних
@@ -40918,7 +38485,6 @@ CR2032.
 активации замка открыть дверь изнутри
 
 ### Запуск двигателя и вождение
-`livan_9_ru_ac5d5ecd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:127 | doc_type:owners_manual
 126
 автомобиля будет невозможно, только
 снаружи.
@@ -40941,7 +38507,6 @@ CR2032.
 работает должным образом.
 
 ### Запуск
-`livan_9_ru_b788a549` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 двигателя
 и
 вождение
@@ -40951,7 +38516,6 @@ CR2032.
 (бесключевой запуск)
 
 ### Ваш автомобиль оснащен электронным
-`livan_9_ru_3c8138a9` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:128 | doc_type:owners_manual
 бесключевым
 запуском,
 который
@@ -40965,14 +38529,12 @@ CR2032.
 обнаружения.
 
 ### Режимы
-`livan_9_ru_4ad9193c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:128 | doc_type:owners_manual
 работы
 пускового
 переключателя включают:
 OFF: пусковой переключатель выключен.
 
 ### «OFFе
-`livan_9_ru_b66d7659` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:128 | doc_type:owners_manual
 нажмите
 на
 педаль
@@ -40985,7 +38547,6 @@ OFF: пусковой переключатель выключен.
 чтобы запустить двигатель.
 
 ### ACC:
-`livan_9_ru_d11c4ef9` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:128 | doc_type:owners_manual
 позволяет
 использовать
 электрические
@@ -41007,7 +38568,6 @@ OFF: пусковой переключатель выключен.
 переключателе в режиме «ACCе нажмите
 
 ### Запуск двигателя и вождение
-`livan_9_ru_6650c59a` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:128 | doc_type:owners_manual
 5
 8
 7
@@ -41027,7 +38587,6 @@ OFF: пусковой переключатель выключен.
 двигатель.
 
 ### ON:
-`livan_9_ru_831cab32` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:129 | doc_type:owners_manual
 При
 пусковом
 переключателе
@@ -41044,7 +38603,6 @@ OFF: пусковой переключатель выключен.
 режиме
 
 ### «ACCе
-`livan_9_ru_ac4dc8b4` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:129 | doc_type:owners_manual
 или
 «ONе
 после
@@ -41056,13 +38614,11 @@ OFF: пусковой переключатель выключен.
 расходоваться.
 
 ### Длительный
-`livan_9_ru_aec3cd10` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:129 | doc_type:owners_manual
 расход
 заряда аккумулятора может привести к
 невозможности запуска двигателя.
 
 ### START:
-`livan_9_ru_ca40c6c1` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:129 | doc_type:owners_manual
 используется
 для
 запуска
@@ -41079,7 +38635,6 @@ OFF: пусковой переключатель выключен.
 режим «ONе.
 
 ### Описание световой индикации пускового
-`livan_9_ru_8dce1aa5` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:129 | doc_type:owners_manual
 переключателя:
 •
 В
@@ -41100,7 +38655,6 @@ OFF: пусковой переключатель выключен.
 переключателя
 
 ### «ACCе
-`livan_9_ru_ac4dc8b4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 или
 «ONе,
 индикатор
@@ -41122,7 +38676,6 @@ OFF: пусковой переключатель выключен.
 пускового переключателя не горит.
 
 ### Запуск
-`livan_9_ru_89175971` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 двигателя
 (бесключевой запуск)
 Для
@@ -41132,7 +38685,6 @@ OFF: пусковой переключатель выключен.
 следующие условия:
 
 ### 1. При вас должен быть действующий
-`livan_9_ru_c2da9484` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:129 | doc_type:owners_manual
 смарт-ключ;
 2. Нажмите
 кнопку
@@ -41145,7 +38697,6 @@ P
 передач в положение N;
 
 ### 4. Нажмите
-`livan_9_ru_06937edd` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:129 | doc_type:owners_manual
 кнопку
 пуска,
 заведите
@@ -41173,7 +38724,6 @@ P
 •
 
 ### Приводите автомобиль в движение в
-`livan_9_ru_9ebd3ab2` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:129 | doc_type:owners_manual
 соответствии с местными законами и
 нормативами.
 •
@@ -41186,7 +38736,6 @@ P
 •
 
 ### Если двигатель еще не достиг рабочей
-`livan_9_ru_95c84a37` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:129 | doc_type:owners_manual
 температуры,
 избегайте
 высокой
@@ -41198,7 +38747,6 @@ P
 может повредить двигатель.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_9acc9208` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:129 | doc_type:owners_manual
 128
 •
 Во время движения автомобиля не
@@ -41238,7 +38786,6 @@ P
 обеспечить лучшее смазывание.
 
 ### 1. Когда
-`livan_9_ru_e41b4cf2` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:130 | doc_type:owners_manual
 водителю
 нужно
 запустить
@@ -41266,7 +38813,6 @@ P
 хорошую смазку.
 
 ### 2. Если
-`livan_9_ru_56bd67b5` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:130 | doc_type:owners_manual
 смарт-ключ
 не
 находится
@@ -41296,7 +38842,6 @@ P
 компоненты.
 
 ### Если Вы нажмете кнопку зажигания и
-`livan_9_ru_11441fcc` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:130 | doc_type:owners_manual
 отпустите ее, когда двигатель начнет
 запускаться,
 стартер
@@ -41328,7 +38873,6 @@ P
 чтобы начать следующий пуск.
 
 ### Если после неудачного пуска сразу
-`livan_9_ru_782b1151` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:130 | doc_type:owners_manual
 же
 повторно
 нажать
@@ -41351,7 +38895,6 @@ P
 полного остывания стартера.
 
 ### Резервная процедура запуска
-`livan_9_ru_e44aa8b4` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:130 | doc_type:owners_manual
 автомобиля
 Если аккумулятор смарт-ключа почти или
 полностью разряжен, поместите смартключ
@@ -41373,7 +38916,6 @@ P
 замены аккумулятора смарт-ключа.
 
 ### Перед проверкой необходимо запустить
-`livan_9_ru_8a14c0d1` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:130 | doc_type:owners_manual
 двигатель в соответствии с правильной
 процедурой
 согласно
@@ -41381,7 +38923,6 @@ P
 «Запуск
 
 ### Запуск двигателя и вождение
-`livan_9_ru_9154e2af` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:130 | doc_type:owners_manual
 5
 8
 7
@@ -41434,7 +38975,6 @@ P
 обслуживания
 
 ### LIVAN
-`livan_9_ru_7ff785af` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:131 | doc_type:owners_manual
 для
 проведения
 технического обслуживания.
@@ -41446,7 +38986,6 @@ P
 скорость слишком низкая:
 
 ### 1. Убедитесь, что клеммы аккумулятора
-`livan_9_ru_1b4cf12e` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:131 | doc_type:owners_manual
 затянуты и чистые.
 2. Если
 проблем
@@ -41487,7 +39026,6 @@ P
 технического обслуживания автомобилей
 
 ### LIVAN
-`livan_9_ru_7ff785af` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 для
 проведения
 технического
@@ -41521,7 +39059,6 @@ P
 пожара.
 
 ### Если стартер вращается с нормальной
-`livan_9_ru_3bd9a542` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:131 | doc_type:owners_manual
 скоростью,
 но
 двигатель
@@ -41538,13 +39075,11 @@ P
 двигателе.
 
 ### Попробуйте
-`livan_9_ru_385d9109` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 нажать
 педаль газа до упора перед запуском
 двигателя.
 
 ### 2. Если
-`livan_9_ru_ae19bdcb` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:131 | doc_type:owners_manual
 двигатель
 по-прежнему
 не
@@ -41559,7 +39094,6 @@ P
 автомобилей
 
 ### LIVAN
-`livan_9_ru_7ff785af` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 для
 проведения
 технического
@@ -41568,7 +39102,6 @@ P
 130
 
 ### Технология
-`livan_9_ru_fb7b88b3` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:132 | doc_type:owners_manual
 запуска/
 остановки двигателя
 Положение запуска стопорного
@@ -41592,7 +39125,6 @@ Settings] →[Vehicle control] Управление
 км/ч.
 
 ### Световой
-`livan_9_ru_756d45da` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:132 | doc_type:owners_manual
 индикатор
 состояния
 системы
@@ -41617,7 +39149,6 @@ Settings] →[Vehicle control] Управление
 остановки).
 
 ### Допустимые
-`livan_9_ru_6973d4bb` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 критерии
 автоматической остановки
 Допустимые
@@ -41626,7 +39157,6 @@ Settings] →[Vehicle control] Управление
 остановки
 
 ### EMS
-`livan_9_ru_f06e8c0e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 (если
 какой-либо
 из
@@ -41639,7 +39169,6 @@ Settings] →[Vehicle control] Управление
 автоматическую остановку):
 
 ### 1. Включить
-`livan_9_ru_8c90e346` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 переключатель
 запускаостановки;
 2. Нормальная
@@ -41647,7 +39176,6 @@ Settings] →[Vehicle control] Управление
 охлаждающей жидкости двигателя;
 
 ### 3. Нет
-`livan_9_ru_3129b54f` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:132 | doc_type:owners_manual
 неисправностей
 воздушной
 заслонки,
@@ -41657,14 +39185,12 @@ Settings] →[Vehicle control] Управление
 входе;
 
 ### 4. Электронная
-`livan_9_ru_5ba6670b` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:132 | doc_type:owners_manual
 система
 контроля
 устойчивости ESC не активирована;
 5. Капот переднего отсека закрыт;
 
 ### 7. Ремень
-`livan_9_ru_cc14026e` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:132 | doc_type:owners_manual
 безопасности
 со
 стороны
@@ -41675,13 +39201,11 @@ Settings] →[Vehicle control] Управление
 тормозов;
 
 ### 9. Нет препятствий для торможения, нет
-`livan_9_ru_6a9fe2bf` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:132 | doc_type:owners_manual
 препятствий для скорости;
 10. Воздушная подушка безопасности не
 раскрыта;
 
 ### 11. Система
-`livan_9_ru_a1a35791` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:132 | doc_type:owners_manual
 кондиционирования
 допускает запуск/парковку;
 12. Коробка
@@ -41690,7 +39214,6 @@ Settings] →[Vehicle control] Управление
 остановку;
 
 ### 13. Высота над уровнем моря ниже 4000
-`livan_9_ru_fd07edbc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 метров;
 14. Угол
 поворота
@@ -41699,7 +39222,6 @@ Settings] →[Vehicle control] Управление
 установленного;
 
 ### Запуск двигателя и вождение
-`livan_9_ru_4676f9cd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 5
 8
 7
@@ -41716,7 +39238,6 @@ Settings] →[Vehicle control] Управление
 положении D;
 
 ### 18. Нормальное
-`livan_9_ru_d27b8f0a` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:133 | doc_type:owners_manual
 напряжение
 аккумулятора 12V;
 19. Скорость
@@ -41725,7 +39246,6 @@ Settings] →[Vehicle control] Управление
 значения, допускающего остановку.
 
 ### Если все вышеуказанные критерии
-`livan_9_ru_df2ab276` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:133 | doc_type:owners_manual
 соблюдены,
 световой
 индикатор
@@ -41734,7 +39254,6 @@ Settings] →[Vehicle control] Управление
 зеленый.
 
 ### Условия
-`livan_9_ru_2505519a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 автоматического
 запуска-остановки
 Условия автоматического запуска EMS
@@ -41746,7 +39265,6 @@ Settings] →[Vehicle control] Управление
 условий):
 
 ### 1. Выключите
-`livan_9_ru_91d68c8f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 переключатель
 запускаостановки;
 2. Недостаточная
@@ -41754,7 +39272,6 @@ Settings] →[Vehicle control] Управление
 охлаждающей жидкости;
 
 ### 5. Ремень
-`livan_9_ru_f640a626` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:133 | doc_type:owners_manual
 безопасности
 со
 стороны
@@ -41766,7 +39283,6 @@ Settings] →[Vehicle control] Управление
 отвечает требованиям;
 
 ### 7. Система кондиционирования требует
-`livan_9_ru_033bd165` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 запуск;
 8. TCU требует запуск;
 9. Угол
@@ -41776,12 +39292,10 @@ Settings] →[Vehicle control] Управление
 установленного;
 
 ### 11. При отпускании педали тормоза (или
-`livan_9_ru_bc63e2ad` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:133 | doc_type:owners_manual
 недостаточном нажатии) в положении
 рычага D и отпускании кнопки AUTO
 
 ### 12. Нажатие
-`livan_9_ru_2fd523d2` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:133 | doc_type:owners_manual
 на
 педаль
 тормоза,
@@ -41793,7 +39307,6 @@ Settings] →[Vehicle control] Управление
 положения
 
 ### D
-`livan_9_ru_07d1bbf9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 в
 положение, отличное от P;
 13. Переведение
@@ -41803,7 +39316,6 @@ Settings] →[Vehicle control] Управление
 другое положение;
 
 ### 14. Нажатие
-`livan_9_ru_88f41bde` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 на
 педаль
 газа
@@ -41811,7 +39323,6 @@ Settings] →[Vehicle control] Управление
 активированной кнопке AUTO HOLD;
 
 ### 15. Относительно
-`livan_9_ru_a03c3575` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:133 | doc_type:owners_manual
 низкое
 напряжение
 аккумулятора 12V;
@@ -41823,7 +39334,6 @@ Settings] →[Vehicle control] Управление
 запускаостановки
 
 ### 1. Неисправность
-`livan_9_ru_8452d2e7` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:133 | doc_type:owners_manual
 тормозного
 переключателя;
 2. Неисправность
@@ -41831,7 +39341,6 @@ Settings] →[Vehicle control] Управление
 скорости;
 
 ### 3. Ошибка сигнала датчика тормозного
-`livan_9_ru_4b0082bc` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:133 | doc_type:owners_manual
 давления;
 4. Местоположение сигнала воздушной
 подушки безопасности.
@@ -41847,7 +39356,6 @@ Settings] →[Vehicle control] Управление
 (положение наклона).
 
 ### 1. При превышении определенного угла
-`livan_9_ru_c95bb3a1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 наклона активация запуска-остановки
 невозможна;
 2. При остановке двигателя на дороге с
@@ -41861,7 +39369,6 @@ Settings] →[Vehicle control] Управление
 функцию
 
 ### Запуск двигателя и вождение
-`livan_9_ru_7173aca4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 132
 чтобы
 предотвратить
@@ -41869,7 +39376,6 @@ Settings] →[Vehicle control] Управление
 автомобиля назад.
 
 ### Вождение
-`livan_9_ru_f61d042e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 При
 следующих
 условиях
@@ -41888,7 +39394,6 @@ Settings] →[Vehicle control] Управление
 •
 
 ### При движении по дорогам с плохими
-`livan_9_ru_ad395e32` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 дорожными условиями.
 •
 При наезде на бордюр.
@@ -41899,7 +39404,6 @@ Settings] →[Vehicle control] Управление
 автомобиль полностью загружен.
 
 ### В
-`livan_9_ru_f2eedb8c` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:134 | doc_type:owners_manual
 автомобиле,
 оснащенном
 двигателем с турбонаддувом строго
@@ -41934,7 +39438,6 @@ Settings] →[Vehicle control] Управление
 повреждению.
 
 ### Период
-`livan_9_ru_4bcf3a7d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 обкатки
 нового
 автомобиля
@@ -41979,7 +39482,6 @@ Settings] →[Vehicle control] Управление
 •
 
 ### Старайтесь не нажимать педаль газа
-`livan_9_ru_992f21b7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 до упора при трогании с места и в
 движении.
 •
@@ -41998,7 +39500,6 @@ Settings] →[Vehicle control] Управление
 •
 
 ### Избегайте
-`livan_9_ru_1a9d7828` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 работы
 двигателя
 на
@@ -42008,7 +39509,6 @@ Settings] →[Vehicle control] Управление
 •
 
 ### Избегайте экстренного торможения в
-`livan_9_ru_0c9a0efb` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 течение первых 300 километров.
 •
 Не
@@ -42025,7 +39525,6 @@ Settings] →[Vehicle control] Управление
 она или низкая.
 
 ### Использование автомобиля в
-`livan_9_ru_38f5873e` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:134 | doc_type:owners_manual
 холодном климате (ниже 0°С)
 90%
 износа
@@ -42052,7 +39551,6 @@ Settings] →[Vehicle control] Управление
 •
 
 ### После запуска автомобиля двигайтесь
-`livan_9_ru_92d65ac8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 на низкой скорости 40 км/ч или менее,
 пока
 показания
@@ -42060,7 +39558,6 @@ Settings] →[Vehicle control] Управление
 двигателя не начнут меняться (50-60
 
 ### Запуск двигателя и вождение
-`livan_9_ru_0db5cf05` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 5
 8
 7
@@ -42078,7 +39575,6 @@ Settings] →[Vehicle control] Управление
 режиме.
 
 ### Наилучшее
-`livan_9_ru_a4ce75f9` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:135 | doc_type:owners_manual
 рабочее
 состояние
 достигается,
@@ -42130,7 +39626,6 @@ Settings] →[Vehicle control] Управление
 из выхлопной трубы.
 
 ### Парковка
-`livan_9_ru_a4033742` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 на
 горючих
 материалах
@@ -42156,7 +39651,6 @@ Settings] →[Vehicle control] Управление
 легковоспламеняющихся материалах.
 
 ### В
-`livan_9_ru_aa9b8423` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 разных
 режимах
 движения
@@ -42185,7 +39679,6 @@ Settings] →[Vehicle control] Управление
 общественного транспорта.
 
 ### При ускоренном трогании с места и
-`livan_9_ru_3ecb905f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 разгоне расход топлива высокий. Во
 время
 вождения
@@ -42200,12 +39693,10 @@ Settings] →[Vehicle control] Управление
 ускорения.
 
 ### Плавное
-`livan_9_ru_d57bdf08` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 трогание и ускорение способствуют
 экономии топлива.
 
 ### 2. Поддержание
-`livan_9_ru_620c7bcb` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 постоянной
 экономичной скорости
 Скорости
@@ -42219,7 +39710,6 @@ Settings] →[Vehicle control] Управление
 экономичными.
 
 ### Исходя
-`livan_9_ru_68a4c24a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 из
 соображений
 безопасности,
@@ -42233,7 +39723,6 @@ Settings] →[Vehicle control] Управление
 топлива.
 
 ### 3. Избегание ненужного торможения
-`livan_9_ru_2d5772bc` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:135 | doc_type:owners_manual
 Соблюдайте дистанцию, старайтесь
 избегать
 частых
@@ -42250,7 +39739,6 @@ Settings] →[Vehicle control] Управление
 избегайте экстренного торможения.
 
 ### 4. Выключение
-`livan_9_ru_c3fac460` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:135 | doc_type:owners_manual
 двигателя
 при
 длительной парковке
@@ -42259,7 +39747,6 @@ Settings] →[Vehicle control] Управление
 время парковки превышает 1 минуту
 
 ### Запуск двигателя и вождение
-`livan_9_ru_be55f205` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:135 | doc_type:owners_manual
 134
 в случае пробок на дорогах, длинных
 красных сигналов светофора и т. д.
@@ -42277,7 +39764,6 @@ Settings] →[Vehicle control] Управление
 повторного запуска двигателя.
 
 ### 5. Поддержание низкого сопротивления
-`livan_9_ru_e2a93e58` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:136 | doc_type:owners_manual
 воздуха
 Открытие окна на высокой скорости
 значительно
@@ -42293,7 +39779,6 @@ Settings] →[Vehicle control] Управление
 топлива.
 
 ### Закрывайте
-`livan_9_ru_ba3166b7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 окна
 автомобиля
 при
@@ -42302,7 +39787,6 @@ Settings] →[Vehicle control] Управление
 в шинах
 
 ### Регулярно
-`livan_9_ru_211eeea0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 проверяйте
 давление
 в
@@ -42314,7 +39798,6 @@ Settings] →[Vehicle control] Управление
 ведет к увеличению расхода топлива.
 
 ### 7. Минимизация
-`livan_9_ru_863d9be6` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 использования
 кондиционера
 Кондиционер
@@ -42345,7 +39828,6 @@ Settings] →[Vehicle control] Управление
 использовании кондиционера.
 
 ### Каждый дополнительный килограмм
-`livan_9_ru_36037cf7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 веса
 может
 увеличить
@@ -42360,7 +39842,6 @@ Settings] →[Vehicle control] Управление
 средства.
 
 ### 9. Своевременное
-`livan_9_ru_b26257a1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 техническое
 обслуживание
 Чтобы поддерживать автомобиль в
@@ -42372,7 +39853,6 @@ Settings] →[Vehicle control] Управление
 правилам.
 
 ### Хорошая
-`livan_9_ru_8e900466` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 работа
 двигателя
 способствует
@@ -42384,20 +39864,17 @@ Settings] →[Vehicle control] Управление
 топлива.
 
 ### Оптимизируйте
-`livan_9_ru_a016f045` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 маршрут
 и
 старайтесь избегать перегруженных
 участков.
 
 ### Это не только
-`livan_9_ru_c82f023d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 экономит
 время, но и помогает снизить расход
 топлива.
 
 ### 11. Не
-`livan_9_ru_6fa2a373` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 стоит
 менять
 размер
@@ -42409,7 +39886,6 @@ Settings] →[Vehicle control] Управление
 топлива.
 
 ### Осторожное
-`livan_9_ru_3914e6a5` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:136 | doc_type:owners_manual
 вождение
 предполагает
 «постоянную готовность к неожиданным
@@ -42421,7 +39897,6 @@ Settings] →[Vehicle control] Управление
 пристегнуть ремень безопасности.
 
 ### Предполагая
-`livan_9_ru_7a1509a3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 неосторожность
 и
 совершение
@@ -42437,7 +39912,6 @@ Settings] →[Vehicle control] Управление
 будьте готовы.
 
 ### Соблюдайте
-`livan_9_ru_1dbc2e42` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 дистанцию
 и
 сосредоточьтесь
@@ -42447,7 +39921,6 @@ Settings] →[Vehicle control] Управление
 столкновению и травмированию людей.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_67f09bec` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 5
 8
 7
@@ -42463,7 +39936,6 @@ Settings] →[Vehicle control] Управление
 алкогольного опьянения
 
 ### Вождение
-`livan_9_ru_62fa7d76` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 в
 состоянии
 алкогольного
@@ -42482,7 +39954,6 @@ Settings] →[Vehicle control] Управление
 запрещено.
 
 ### Ответственность
-`livan_9_ru_e62ad359` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 и
 последствия
 установлены
@@ -42490,14 +39961,12 @@ Settings] →[Vehicle control] Управление
 законодательством РФ.
 
 ### Во избежание повреждения автомобиля
-`livan_9_ru_c53afaa2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 при движении по воде (например, при
 затоплении дороги) обратите внимание
 на следующее:
 •
 
 ### Определите глубину перед движением
-`livan_9_ru_12636668` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 по воде. Самый высокий уровень воды
 может достигать только 1/4 высоты
 колеса.
@@ -42548,7 +40017,6 @@ Settings] →[Vehicle control] Управление
 •
 
 ### После заезда в воду избегайте резкого
-`livan_9_ru_448d25f0` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:137 | doc_type:owners_manual
 ускорения и экстренного торможения.
 •
 После
@@ -42605,7 +40073,6 @@ Settings] →[Vehicle control] Управление
 вброд.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_abf9fd74` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 136
 •
 Не совершайте движение по соленой
@@ -42623,7 +40090,6 @@ Settings] →[Vehicle control] Управление
 немедленно промыть пресной водой.
 
 ### После проезда по воде рекомендуем Вам
-`livan_9_ru_2982923c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 отправиться
 в
 центр
@@ -42632,7 +40098,6 @@ Settings] →[Vehicle control] Управление
 автомобиль.
 
 ### Управление
-`livan_9_ru_d7fa2bf8` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:138 | doc_type:owners_manual
 транспортным
 средством
 Следующие три системы могут помочь
@@ -42656,13 +40121,11 @@ Settings] →[Vehicle control] Управление
 характеристики автомобиля.
 
 ### Трехкомпонентный
-`livan_9_ru_5f369787` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 каталитический
 нейтрализатор
 отработавших газов ДВС
 
 ### Информация
-`livan_9_ru_03610d6d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 о
 трехкомпонентном
 каталитическом
@@ -42674,7 +40137,6 @@ Settings] →[Vehicle control] Управление
 сгорания
 
 ### Выхлопная
-`livan_9_ru_5075820e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 система
 автомобиля
 оснащена
@@ -42695,7 +40157,6 @@ HC и NOx, в безвредный углекислый газ,
 восстановления.
 
 ### Неправильное
-`livan_9_ru_8bef1e02` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 использование
 может
 привести
@@ -42713,7 +40174,6 @@ HC и NOx, в безвредный углекислый газ,
 ниже требования.
 
 ### Температура
-`livan_9_ru_a8d1e642` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:138 | doc_type:owners_manual
 выхлопных
 газов
 высока. Не паркуйте автомобиль на
@@ -42743,7 +40203,6 @@ HC и NOx, в безвредный углекислый газ,
 двигателя,
 
 ### Запуск двигателя и вождение
-`livan_9_ru_0cb87162` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 5
 8
 7
@@ -42762,7 +40221,6 @@ HC и NOx, в безвредный углекислый газ,
 каталитического нейтрализатора.
 
 ### Согласно регламенту обратитесь в
-`livan_9_ru_f928b383` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 центр технического обслуживания
 LIVAN
 для
@@ -42771,7 +40229,6 @@ LIVAN
 обслуживания.
 
 ### Требования к топливу
-`livan_9_ru_fbc0088e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 •
 Можно
 использовать
@@ -42800,7 +40257,6 @@ LIVAN
 двигателя внутреннего сгорания.
 
 ### Требования к запуску
-`livan_9_ru_73bef56e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 •
 Не
 продолжайте
@@ -42813,7 +40269,6 @@ LIVAN
 •
 
 ### Если двигатель
-`livan_9_ru_dacda5a6` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:139 | doc_type:owners_manual
 не запускается, не
 следует
 пытаться
@@ -42827,7 +40282,6 @@ LIVAN
 •
 
 ### Не пытайтесь завести автомобиль с
-`livan_9_ru_0dd4f02e` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:139 | doc_type:owners_manual
 толкача или при помощи буксировки.
 Требования к движению
 •
@@ -42843,7 +40297,6 @@ LIVAN
 •
 
 ### Не глушите автомобиль при движении
-`livan_9_ru_1c84f426` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:139 | doc_type:owners_manual
 на передаче.
 •
 Если мощность автомобиля снижается
@@ -42862,7 +40315,6 @@ LIVAN
 удариться днищем автомобиля.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_1677c97a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:139 | doc_type:owners_manual
 138
 Выброс выхлопных газов
 Устройство
@@ -42870,7 +40322,6 @@ LIVAN
 выхлопных газов
 
 ### Необходимо
-`livan_9_ru_6caccdcc` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:140 | doc_type:owners_manual
 использовать
 неэтилированный
 бензин
@@ -42881,7 +40332,6 @@ LIVAN
 регламенту.
 
 ### Свинец в бензине и примеси в моторном
-`livan_9_ru_ace5566c` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:140 | doc_type:owners_manual
 масле
 могут
 повредить
@@ -42890,7 +40340,6 @@ LIVAN
 нейтрализатор.
 
 ### Выхлопные газы
-`livan_9_ru_71e1ffa3` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:140 | doc_type:owners_manual
 •
 Если
 автомобиль
@@ -42920,7 +40369,6 @@ LIVAN
 •
 
 ### Неисправности
-`livan_9_ru_b956f10a` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:140 | doc_type:owners_manual
 в
 работе
 двигателя
@@ -42963,7 +40411,6 @@ LIVAN
 нахождение вблизи него.
 
 ### Избегайте
-`livan_9_ru_d32c3b9a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 вдыхания
 выхлопных
 газов. Выхлопные газы содержат
@@ -42988,7 +40435,6 @@ LIVAN
 ослаблены.
 
 ### Регулярно
-`livan_9_ru_fd77a2a1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 проверяйте
 выхлопную
 систему.
@@ -43005,7 +40451,6 @@ LIVAN
 проверку.
 
 ### Не запускайте двигатель в гараже или в
-`livan_9_ru_2a8f77d2` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:140 | doc_type:owners_manual
 закрытом помещении, за исключением
 случаев, когда автомобиль въезжает в
 гараж
@@ -43015,7 +40460,6 @@ LIVAN
 него.
 
 ### Невозможность выхода выхлопных газов
-`livan_9_ru_60f03617` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 представляет серьезную опасность.
 Не
 останавливайтесь
@@ -43027,7 +40471,6 @@ LIVAN
 двигателе.
 
 ### В
-`livan_9_ru_a2618460` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:140 | doc_type:owners_manual
 случае
 необходимости
 следует
@@ -43073,7 +40516,6 @@ LIVAN
 других препятствий.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_bcf03a98` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 5
 8
 7
@@ -43089,7 +40531,6 @@ LIVAN
 технического обслуживания автомобилей
 
 ### LIVAN
-`livan_9_ru_07e23283` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 для
 проведения
 технического
@@ -43097,7 +40538,6 @@ LIVAN
 Топливная система
 
 ### Заправляйтесь
-`livan_9_ru_2baac3bb` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 в
 соответствии
 с
@@ -43112,7 +40552,6 @@ LIVAN
 бака.
 
 ### Использование
-`livan_9_ru_03e8e150` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 низкосортного
 бензина
 наносит
@@ -43122,7 +40561,6 @@ LIVAN
 каталитическому нейтрализатору.
 
 ### Для поддержания двигателя в чистоте и
-`livan_9_ru_f2aeb414` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 достижения
 наилучших
 характеристик
@@ -43156,7 +40594,6 @@ LIVAN
 уровня, двигатель нуждается в ремонте.
 
 ### Некоторые
-`livan_9_ru_6c3a1f2f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 виды
 топлива
 содержат
@@ -43168,7 +40605,6 @@ LIVAN
 марганца
 
 ### (ММТ).
-`livan_9_ru_3a5fae4b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 Мы
 не
 рекомендуем
@@ -43177,7 +40613,6 @@ LIVAN
 содержащее ММТ. Топливо, содержащее
 
 ### ММТ,
-`livan_9_ru_804bf247` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 сократит
 срок
 службы
@@ -43198,7 +40633,6 @@ LIVAN
 обслуживания
 
 ### LIVAN
-`livan_9_ru_07e23283` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
 для
 проведения
 технического обслуживания.
@@ -43206,7 +40640,6 @@ LIVAN
 140
 
 ### Очиститель
-`livan_9_ru_8037763c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 топливной
 системы от нагара
 Очиститель топливной системы от нагара
@@ -43247,7 +40680,6 @@ LIVAN
 компанией
 
 ### LIVAN,
-`livan_9_ru_bae1a006` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 не
 должны
 добавляться
@@ -43266,7 +40698,6 @@ LIVAN
 метанол.
 
 ### Метанол вызывает
-`livan_9_ru_44644dc1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 коррозию
 металлических
 деталей
@@ -43281,7 +40712,6 @@ LIVAN
 детали.
 
 ### Гарантия
-`livan_9_ru_9bb99e66` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 не
 распространяется
 на
@@ -43290,7 +40720,6 @@ LIVAN
 использованием топлива с метанолом.
 
 ### Безопасность на АЗС
-`livan_9_ru_b409301c` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:142 | doc_type:owners_manual
 Топливо - легковоспламеняющееся
 и
 летучее
@@ -43326,7 +40755,6 @@ LIVAN
 пистолета.
 
 ### Топливозаливная горловина
-`livan_9_ru_a0f1f4e9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 и заправка
 Крышка топливного бака расположена на
 задней
@@ -43335,13 +40763,11 @@ LIVAN
 автомобиля.
 
 ### Заправка топливом включает следующие
-`livan_9_ru_fbe13a78` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:142 | doc_type:owners_manual
 операции:
 1. Остановите автомобиль и заглушите
 двигатель.
 
 ### 2. Откройте
-`livan_9_ru_4a948629` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 лючок
 топливного
 бака,
@@ -43356,7 +40782,6 @@ LIVAN
 водителя.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_4e9895b1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 5
 8
 7
@@ -43376,7 +40801,6 @@ LIVAN
 стрелки, чтобы снять ее.
 
 ### 4. Во время заправки можно поместить
-`livan_9_ru_201fb46a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 пробку на специальную подставку.
 5. При
 заправке
@@ -43391,7 +40815,6 @@ LIVAN
 предотвратить утечку топлива.
 
 ### 6. После заправки установите пробку
-`livan_9_ru_8fed35f4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 топливного
 бака
 на
@@ -43408,7 +40831,6 @@ LIVAN
 ввинчена.
 
 ### 7. Когда
-`livan_9_ru_d8c47d5d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 пробка
 топливного
 бака
@@ -43425,7 +40847,6 @@ LIVAN
 бака.
 
 ### Обязательно
-`livan_9_ru_8d52ea04` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:143 | doc_type:owners_manual
 нажмите на лючок топливного бака до
 щелчка и убедитесь, что он закрыт
 нормально.
@@ -43464,7 +40885,6 @@ LIVAN
 им осуществлять заправку.
 
 ### Если вы слишком быстро отвинтите
-`livan_9_ru_9c98b43a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 пробку топливного бака, топливо
 может выплеснуться на вас. Если пары
 топлива
@@ -43494,7 +40914,6 @@ LIVAN
 бака.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_3c571367` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 142
 Будьте
 осторожны,
@@ -43559,7 +40978,6 @@ LIVAN
 топлива.
 
 ### Немедленно
-`livan_9_ru_e64ea441` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 покиньте
 место
 происшествия.
@@ -43578,7 +40996,6 @@ LIVAN
 повреждена.
 
 ### При замене пробки топливного бака
-`livan_9_ru_73a466ef` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 на новую необходимо использовать
 модель, указанную компанией LIVAN, ее
 можно
@@ -43595,7 +41012,6 @@ LIVAN. Если модель пробки топливного
 образом.
 
 ### Резиновые
-`livan_9_ru_fe905d59` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:144 | doc_type:owners_manual
 трубки
 топливной
 системы, такие как адсорбирующие
@@ -43624,7 +41040,6 @@ LIVAN. Если модель пробки топливного
 обслуживанию.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_15a1d79c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 5
 8
 7
@@ -43638,14 +41053,12 @@ LIVAN. Если модель пробки топливного
 переключение передач
 
 ### Автоматическая
-`livan_9_ru_35aa9d3f` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:145 | doc_type:owners_manual
 коробка
 передач 7DCT
 1. Передача движения (D)
 2. Задняя передача (R)
 
 ### Информация о передачах
-`livan_9_ru_09c9f2ea` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 P (парковка)
 Когда
 рычаг
@@ -43665,7 +41078,6 @@ P (парковка)
 парковки
 
 ### (P)
-`livan_9_ru_ce146dc6` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 на
 движение вперед (D) или задний ход (R)
 должна быть нажата педаль тормоза.
@@ -43675,7 +41087,6 @@ P (парковка)
 повреждена коробка передач.
 
 ### Двигатель можно запустить только
-`livan_9_ru_ae098a65` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:145 | doc_type:owners_manual
 при включенной передаче парковки
 (P) или нейтральной передаче (N).
 D (передача для движения вперед)
@@ -43688,7 +41099,6 @@ ON, если вы хотите переключиться с
 парковки
 
 ### (P),
-`livan_9_ru_fae5a26e` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 нажмите
 на
 педаль тормоза и на кнопку передачи P.
@@ -43712,7 +41122,6 @@ ON, если вы хотите переключиться с
 положении
 
 ### ON,
-`livan_9_ru_b1c53592` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 в
 противном
 случае будет невозможно осуществить
@@ -43729,7 +41138,6 @@ ON, если вы хотите переключиться с
 вперед
 
 ### (D)
-`livan_9_ru_f7fdbfdb` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:145 | doc_type:owners_manual
 или
 заднего хода (R), если водитель отпустит
 педаль
@@ -43757,7 +41165,6 @@ R (передача заднего хода)
 нажать на педаль тормоза и на кнопку
 
 ### Запуск двигателя и вождение
-`livan_9_ru_4937809d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 144
 передачи
 P.
@@ -43769,7 +41176,6 @@ P.
 хода
 
 ### (R)
-`livan_9_ru_4a185ead` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:146 | doc_type:owners_manual
 на
 нейтральную передачу (N) или передачу
 движения вперед (D) необходимо нажать
@@ -43782,7 +41188,6 @@ P.
 переключения передач.
 
 ### Включать передачу заднего хода
-`livan_9_ru_776b1799` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:146 | doc_type:owners_manual
 (R) можно, только когда автомобиль
 неподвижен
 и
@@ -43829,7 +41234,6 @@ N (нейтральная передача)
 положении
 
 ### ON,
-`livan_9_ru_846f9ae5` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:146 | doc_type:owners_manual
 если
 вы
 хотите
@@ -43846,13 +41250,11 @@ N (нейтральная передача)
 переключения передач.
 
 ### Остановка автомобиля
-`livan_9_ru_3871ddb8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 При длительной парковке, после полной
 остановки автомобиля, потяните вверх
 переключатель
 
 ### EPB
-`livan_9_ru_57708e42` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:146 | doc_type:owners_manual
 и
 нажмите
 на
@@ -43869,7 +41271,6 @@ N (нейтральная передача)
 переведен на нейтральную передачу (N).
 
 ### Даже при кратковременной остановке не
-`livan_9_ru_abd3f6c1` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:146 | doc_type:owners_manual
 рекомендуется продолжать нажимать на
 педаль тормоза на передачах D, R и M,
 это
@@ -43881,7 +41282,6 @@ N (нейтральная передача)
 автоматической коробки передач.
 
 ### Во время движения автомобиля ни
-`livan_9_ru_6b3806b5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 при
 каких
 обстоятельствах
@@ -43902,7 +41302,6 @@ N (нейтральная передача)
 управления над автомобилем.
 
 ### Запустите
-`livan_9_ru_0c635ddf` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:146 | doc_type:owners_manual
 двигатель
 на
 передаче
@@ -43921,7 +41320,6 @@ N (нейтральная передача)
 что
 
 ### EPB
-`livan_9_ru_57708e42` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 выключен,
 переведите рычаг переключения передач
 в
@@ -43930,7 +41328,6 @@ N (нейтральная передача)
 вперед
 
 ### (D),
-`livan_9_ru_8fdbbb03` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:146 | doc_type:owners_manual
 отпустите
 педаль
 тормоза
@@ -43942,7 +41339,6 @@ N (нейтральная передача)
 акселератора.
 
 ### Система
-`livan_9_ru_b530b8f3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 автоматической
 коробки
 передач
@@ -43969,7 +41365,6 @@ N (нейтральная передача)
 акселератора. Запрещено нажимать на
 
 ### Запуск двигателя и вождение
-`livan_9_ru_f003a388` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 5
 8
 7
@@ -43987,7 +41382,6 @@ N (нейтральная передача)
 передачи.
 
 ### Задний ход
-`livan_9_ru_0df8c2d3` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:147 | doc_type:owners_manual
 Когда
 двигатель
 работает
@@ -44009,7 +41403,6 @@ N (нейтральная передача)
 хода
 
 ### (R),
-`livan_9_ru_8bc1b99f` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 отпустите
 педаль
 тормоза и слегка нажмите на педаль
@@ -44033,7 +41426,6 @@ N (нейтральная передача)
 скоростью.
 
 ### Постарайтесь
-`livan_9_ru_9162f110` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:147 | doc_type:owners_manual
 реже
 использовать
 педаль тормоза
@@ -44061,7 +41453,6 @@ N (нейтральная передача)
 на пониженную передачу.
 
 ### В
-`livan_9_ru_ab6cbe95` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 спортивном
 режиме
 все
@@ -44087,7 +41478,6 @@ N (нейтральная передача)
 повысить тягу при движении.
 
 ### Выберите
-`livan_9_ru_d8a6fe31` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:147 | doc_type:owners_manual
 в
 настройках
 мультимедиа
@@ -44099,7 +41489,6 @@ N (нейтральная передача)
 режим.
 
 ### Выберите другой режим в настройках
-`livan_9_ru_32b663ec` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:147 | doc_type:owners_manual
 мультимедиа,
 чтобы
 выйти
@@ -44108,7 +41497,6 @@ N (нейтральная передача)
 Экономичный режим
 
 ### В экономичном режиме все передачи
-`livan_9_ru_549297c4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 движения вперед будут автоматически
 переключаться на повышенную передачу
 заранее
@@ -44124,7 +41512,6 @@ N (нейтральная передача)
 добиться большей экономии топлива.
 
 ### Выберите
-`livan_9_ru_d8a6fe31` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:147 | doc_type:owners_manual
 в
 настройках
 мультимедиа
@@ -44141,7 +41528,6 @@ ECO,
 режим.
 
 ### Выберите другой режим в настройках
-`livan_9_ru_32b663ec` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:147 | doc_type:owners_manual
 мультимедиа,
 чтобы
 выйти
@@ -44169,7 +41555,6 @@ ECO,
 передач,
 
 ### Запуск двигателя и вождение
-`livan_9_ru_936040b9` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:147 | doc_type:owners_manual
 146
 сработает ЭБУ автоматической коробки
 передач, автомобиль будет переведен в
@@ -44185,7 +41570,6 @@ ECO,
 переходит в аварийный режим.
 
 ### Аварийный
-`livan_9_ru_231e84e4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 режим
 позволяет
 максимально
@@ -44228,7 +41612,6 @@ ECO,
 технического обслуживания автомобилей
 
 ### LIVAN
-`livan_9_ru_a94748d0` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 для
 проведения
 технического
@@ -44241,7 +41624,6 @@ ECO,
 системы
 
 ### Торможение включает в себя время на
-`livan_9_ru_4ecacf8d` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 обнаружение
 и
 реакцию.
@@ -44261,7 +41643,6 @@ ECO,
 тормоза.
 
 ### Среднее
-`livan_9_ru_028d43d1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 время
 реакции составляет около 0,75 секунды.
 Но это всего лишь средний показатель.
@@ -44293,7 +41674,6 @@ ECO,
 депрессия также могут оказать влияние.
 
 ### Но даже если время реакции составляет
-`livan_9_ru_502d3c11` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 0,75 секунды, автомобиль, движущийся
 со
 скоростью
@@ -44312,7 +41692,6 @@ ECO,
 средств.
 
 ### Фактический
-`livan_9_ru_9392baef` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:148 | doc_type:owners_manual
 тормозной
 путь
 сильно
@@ -44332,7 +41711,6 @@ ECO,
 тормозного
 
 ### Запуск двигателя и вождение
-`livan_9_ru_510722aa` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 5
 8
 7
@@ -44351,7 +41729,6 @@ ECO,
 необходимости.
 
 ### Некоторые
-`livan_9_ru_1fe6e3ea` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 люди
 ездят
 короткими
@@ -44374,7 +41751,6 @@ ECO,
 метод.
 
 ### Тормоза
-`livan_9_ru_c6b5ab80` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 могут
 не
 успеть
@@ -44408,7 +41784,6 @@ ECO,
 срок службы тормозов.
 
 ### Если в автомобиле слышен резкий
-`livan_9_ru_7db2c4ed` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 звук трения металла при нажатии
 на
 педаль
@@ -44433,7 +41808,6 @@ ECO,
 движения.
 
 ### Во время движения автомобиля не
-`livan_9_ru_67efda93` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 нужно
 класть
 ногу
@@ -44448,7 +41822,6 @@ ECO,
 увеличиваться.
 
 ### При длительном спуске по склону
-`livan_9_ru_9fcdbf65` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 используйте торможение двигателя.
 Продолжительное использование педали
 тормоза не рекомендуется. Для контроля
@@ -44456,7 +41829,6 @@ ECO,
 ручной режим на 3 или 2 передаче.
 
 ### Лед и снег зимой легко примерзает
-`livan_9_ru_19b6bd70` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 к тормозным суппортам, вызывая
 заклинивание,
 своевременно
@@ -44464,7 +41836,6 @@ ECO,
 их.
 
 ### Электрический
-`livan_9_ru_77bba090` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 стояночный
 тормоз (EPB)
 Переключатель
@@ -44474,7 +41845,6 @@ EPB
 центральной консоли.
 
 ### Переведите пусковой переключатель в
-`livan_9_ru_6d39e61f` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:149 | doc_type:owners_manual
 положение
 ON,
 нажмите
@@ -44488,7 +41858,6 @@ ON,
 индикатор EPB погаснет.
 
 ### Автоматическое
-`livan_9_ru_e3249712` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:149 | doc_type:owners_manual
 отключение
 EPB
 Запустите двигатель, пристегните ремень
@@ -44503,7 +41872,6 @@ EPB
 нажмите на педаль акселератора, EPB
 
 ### Запуск двигателя и вождение
-`livan_9_ru_94281a73` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:149 | doc_type:owners_manual
 148
 автоматически
 отключится,
@@ -44511,7 +41879,6 @@ EPB
 EPB погаснет.
 
 ### Во время стоянки автомобиля включите
-`livan_9_ru_450d8b24` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:150 | doc_type:owners_manual
 переключатель
 EPB,
 функция
@@ -44524,7 +41891,6 @@ EPB,
 использовании
 
 ### EPB
-`livan_9_ru_304eebaf` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 на
 приборной
 панели
@@ -44548,14 +41914,12 @@ EPB,
 проведения технического обслуживания.
 
 ### Функция
-`livan_9_ru_f6be38fc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 автоматического
 удержание
 автомобиля,
 оборудованного EPB
 
 ### Если пусковой переключатель находится
-`livan_9_ru_70b78f2b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 в
 положении
 OFF,
@@ -44564,14 +41928,12 @@ EPB
 автоматическое удержание автомобиля.
 
 ### Запрет на использование функции
-`livan_9_ru_42353cce` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 автоматического
 удержания
 автомобиля,
 оборудованного
 
 ### EPB
-`livan_9_ru_304eebaf` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 (режим мойки автомобиля)
 В некоторых особых случаях (например,
 при автоматической мойке автомобиля),
@@ -44584,7 +41946,6 @@ EPB
 отключить
 
 ### EPB
-`livan_9_ru_304eebaf` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 до
 выключения пускового переключателя, а
 затем
@@ -44612,14 +41973,12 @@ EPB
 автомобиля.
 
 ### Неправильное
-`livan_9_ru_38143d10` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 использование
 электронного стояночного тормоза
 может привести к несчастному случаю и
 травмам.
 
 ### Не используйте электронный стояночный
-`livan_9_ru_e0018993` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 тормоз
 для
 обычного
@@ -44639,7 +41998,6 @@ EPB
 тормоза.
 
 ### Никогда
-`livan_9_ru_5621e803` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 не
 нажимайте
 на
@@ -44656,7 +42014,6 @@ EPB
 тормозом.
 
 ### Автоматическое
-`livan_9_ru_a2c2ff6f` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:150 | doc_type:owners_manual
 удержание
 автомобиля (AUTO HOLD)
 Функция
@@ -44678,7 +42035,6 @@ HOLD
 проскальзывание.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_2fa57687` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 5
 8
 7
@@ -44699,7 +42055,6 @@ HOLD
 автоматического удержания.
 
 ### Переключатель AUTO HOLD находится в
-`livan_9_ru_5cda5404` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:151 | doc_type:owners_manual
 центральной консоли.
 Включение
 функции
@@ -44732,7 +42087,6 @@ HOLD
 автомобиля (AVH).
 
 ### Выключение
-`livan_9_ru_7d0dd99b` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:151 | doc_type:owners_manual
 функции
 автоматического удержания
 Нажмите на переключатель AUTO HOLD,
@@ -44750,7 +42104,6 @@ HOLD
 автомобиля (AVH).
 
 ### Активация и отмена функции
-`livan_9_ru_e16deb5a` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:151 | doc_type:owners_manual
 автоматического удержания
 1. Запустите двигатель, закройте дверь
 со
@@ -44774,7 +42127,6 @@ HOLD
 автомобиля активируется;
 
 ### 2. Слегка
-`livan_9_ru_71b428fd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 нажмите
 на
 педаль
@@ -44786,7 +42138,6 @@ HOLD
 автомобиля отключится;
 
 ### 3. Если
-`livan_9_ru_d34c026a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 по
 истечении
 10
@@ -44802,21 +42153,18 @@ HOLD
 режим
 
 ### EPB,
-`livan_9_ru_15bcac43` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:151 | doc_type:owners_manual
 загорится
 предупреждающий световой сигнал
 стояночного тормоза
 .
 
 ### Функция
-`livan_9_ru_fa51503e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 автоматического
 удержания
 отключится
 автоматически.
 
 ### 1. Отстегните
-`livan_9_ru_3636562f` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:151 | doc_type:owners_manual
 ремень
 безопасности,
 откройте дверь со стороны водителя
@@ -44828,7 +42176,6 @@ HOLD
 отключится.
 
 ### 2. Если
-`livan_9_ru_af9f6ffc` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:151 | doc_type:owners_manual
 функция
 автоматического
 удержания
@@ -44850,7 +42197,6 @@ HOLD
 электронная парковка EPB.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_ee007edc` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:151 | doc_type:owners_manual
 150
 3. Если
 функция
@@ -44883,7 +42229,6 @@ HOLD
 автомобиля (AVH) погаснут.
 
 ### (ABS)
-`livan_9_ru_625354d2` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:152 | doc_type:owners_manual
 Антиблокировочная система (ABS) может
 предотвратить
 блокировку
@@ -44914,7 +42259,6 @@ HOLD
 явление.
 
 ### Слишком
-`livan_9_ru_0b2f4284` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:152 | doc_type:owners_manual
 высокое
 или
 слишком
@@ -44932,13 +42276,11 @@ HOLD
 эффективности торможения.
 
 ### Применение
-`livan_9_ru_0473bf30` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:152 | doc_type:owners_manual
 функции
 антиблокировки
 Не нужно давить на педаль тормоза.
 
 ### Просто с усилием нажмите на педаль
-`livan_9_ru_1ad3d65c` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:152 | doc_type:owners_manual
 тормоза
 до
 срабатывания
@@ -44958,7 +42300,6 @@ HOLD
 нормальное явление.
 
 ### Торможение
-`livan_9_ru_34c8119d` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:152 | doc_type:owners_manual
 в
 аварийной
 ситуации
@@ -44976,14 +42317,12 @@ HOLD
 торможение.
 
 ### Электронное распределение
-`livan_9_ru_54e3b694` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:152 | doc_type:owners_manual
 тормозного усилия (EBD)
 Система ABS также оснащена функцией
 электронного распределения тормозного
 усилия
 
 ### EBD
-`livan_9_ru_32c7f367` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:152 | doc_type:owners_manual
 автоматически распределяет тормозное
 усилие
 между
@@ -45000,7 +42339,6 @@ HOLD
 различных условиях нагрузки.
 
 ### Электронная
-`livan_9_ru_5c37e74d` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:152 | doc_type:owners_manual
 система
 контроля
 устойчивости
@@ -45011,7 +42349,6 @@ HOLD
 устойчивости
 
 ### (ESC)
-`livan_9_ru_29bb56f7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:152 | doc_type:owners_manual
 -
 это
 ведущая
@@ -45030,7 +42367,6 @@ HOLD
 аварий.
 
 ### ESC
-`livan_9_ru_e250734d` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:152 | doc_type:owners_manual
 использует
 передовые
 сенсорные
@@ -45051,7 +42387,6 @@ HOLD
 дороги, система применяет тормозное
 
 ### Запуск двигателя и вождение
-`livan_9_ru_e8d6af8e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:152 | doc_type:owners_manual
 5
 8
 7
@@ -45069,7 +42404,6 @@ HOLD
 автомобиль на правильный маршрут.
 
 ### Электронная
-`livan_9_ru_56f030ab` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:153 | doc_type:owners_manual
 система
 контроля
 устойчивости
@@ -45080,7 +42414,6 @@ HOLD
 физические законы. Даже при наличии
 
 ### ESC
-`livan_9_ru_9f746836` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:153 | doc_type:owners_manual
 и
 других
 систем
@@ -45090,7 +42423,6 @@ HOLD
 серьезной опасностью.
 
 ### Включение
-`livan_9_ru_cd7eadc8` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:153 | doc_type:owners_manual
 и
 отключение
 системы
@@ -45131,7 +42463,6 @@ ESC можно отключить.
 автомобиля вперед/назад.
 
 ### Ваш автомобиль оборудован функцией
-`livan_9_ru_38f78ef5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:153 | doc_type:owners_manual
 контроля спуска со склона, при помощи
 которой во время движения автомобиля
 под
@@ -45143,7 +42474,6 @@ ESC можно отключить.
 водителя.
 
 ### HDC
-`livan_9_ru_165273dc` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:153 | doc_type:owners_manual
 находится
 в
 мультимедиа.
@@ -45169,7 +42499,6 @@ ESC можно отключить.
 осуществлять спуск.
 
 ### Функция контроля спуска со склона
-`livan_9_ru_5218a9fd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:153 | doc_type:owners_manual
 будет
 работать,
 только
@@ -45182,7 +42511,6 @@ ESC можно отключить.
 спуска со склона нажатие переключателя
 
 ### HDC
-`livan_9_ru_165273dc` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 или
 увеличение
 скорости
@@ -45206,7 +42534,6 @@ ESC можно отключить.
 •
 
 ### Функция контроля спуска со склона
-`livan_9_ru_5218a9fd` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:153 | doc_type:owners_manual
 включается,
 световой
 индикатор
@@ -45215,7 +42542,6 @@ ESC можно отключить.
 •
 
 ### Функция контроля спуска со склона не
-`livan_9_ru_c0eed84a` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:153 | doc_type:owners_manual
 включается, при нажатии на кнопку
 переключателя
 HDC
@@ -45229,7 +42555,6 @@ HDC
 может быть включена.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_e98ca624` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 152
 Усилитель
 торможения
@@ -45305,7 +42630,6 @@ HDC
 вернется в нормальный режим работы.
 
 ### Вспомогательная
-`livan_9_ru_b410932e` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:154 | doc_type:owners_manual
 гидравлическая
 тормозная
 система
@@ -45324,7 +42648,6 @@ HDC
 и водить осторожно.
 
 ### Функция
-`livan_9_ru_a2ebe213` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:154 | doc_type:owners_manual
 помощи
 при
 подъеме в гору (ННС)
@@ -45338,7 +42661,6 @@ HDC
 давление автоматически сбрасывается.
 
 ### Запрещено
-`livan_9_ru_375e0653` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:154 | doc_type:owners_manual
 при
 предотвращении
 скольжения автомобиля под уклон
@@ -45356,7 +42678,6 @@ HDC
 скольжения под уклон.
 
 ### Включение
-`livan_9_ru_8f19b624` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:154 | doc_type:owners_manual
 функции
 помощи
 при подъеме в гору
@@ -45368,7 +42689,6 @@ HDC
 автоматически:
 
 ### 1. При движении вверх по склону на
-`livan_9_ru_05f7dab0` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:154 | doc_type:owners_manual
 передачах для движения вперед или
 назад.
 2. При
@@ -45384,7 +42704,6 @@ HDC
 дороге.
 
 ### Выключение функции помощи
-`livan_9_ru_dd5b487f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:154 | doc_type:owners_manual
 при подъеме в гору
 При
 следующих
@@ -45394,7 +42713,6 @@ HDC
 автоматически:
 
 ### Запуск двигателя и вождение
-`livan_9_ru_c6d49afa` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:154 | doc_type:owners_manual
 5
 8
 7
@@ -45419,7 +42737,6 @@ HDC
 положение
 
 ### (N)
-`livan_9_ru_ab005bc8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:155 | doc_type:owners_manual
 или
 положение парковки (P).
 2. При
@@ -45429,7 +42746,6 @@ HDC
 горизонтальной поверхности.
 
 ### 3. На
-`livan_9_ru_6f72b40f` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:155 | doc_type:owners_manual
 приборной
 панели
 загорается
@@ -45437,7 +42753,6 @@ HDC
 системы ESC.
 
 ### Антипробуксовочная
-`livan_9_ru_52ac9556` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:155 | doc_type:owners_manual
 система (TCS)
 Антипробуксовочная
 система
@@ -45456,7 +42771,6 @@ HDC
 движения.
 
 ### Электронная
-`livan_9_ru_53308584` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:155 | doc_type:owners_manual
 система
 предотвращения
 опрокидывания (RMI)
@@ -45504,7 +42818,6 @@ HDC
 автомобиле.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_ed5f55bf` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:155 | doc_type:owners_manual
 154
 Система
 помощи
@@ -45515,7 +42828,6 @@ HDC
 радаров
 
 ### Система
-`livan_9_ru_d4dcdb9f` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:156 | doc_type:owners_manual
 «парктронике
 функционирует
 при
@@ -45532,7 +42844,6 @@ HDC
 назад
 
 ### (R),
-`livan_9_ru_180b892f` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:156 | doc_type:owners_manual
 чтобы
 избежать
 наезда на какие-либо объекты.
@@ -45559,7 +42870,6 @@ HDC
 •
 
 ### Система
-`livan_9_ru_d4dcdb9f` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:156 | doc_type:owners_manual
 «Парктронике
 не
 может
@@ -45577,7 +42887,6 @@ HDC
 •
 
 ### Система
-`livan_9_ru_d4dcdb9f` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:156 | doc_type:owners_manual
 «Парктронике
 может
 не
@@ -45589,7 +42898,6 @@ HDC
 •
 
 ### Система
-`livan_9_ru_d4dcdb9f` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:156 | doc_type:owners_manual
 «Парктронике
 может
 не
@@ -45600,7 +42908,6 @@ HDC
 •
 
 ### Отсутствие
-`livan_9_ru_979991cf` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:156 | doc_type:owners_manual
 контроля
 за
 ситуацией
@@ -45638,7 +42945,6 @@ HDC
 автомобилем в зеркала заднего вида.
 
 ### Функционирование системы
-`livan_9_ru_12fd1944` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:156 | doc_type:owners_manual
 Система «парктронике может работать
 только при скорости меньше 15 км/ч. Во
 время работы системы «парктронике при
@@ -45656,7 +42962,6 @@ HDC
 предупреждением.
 
 ### Звуковой
-`livan_9_ru_5c271329` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 сигнал
 указывает
 на
@@ -45693,7 +42998,6 @@ HDC
 отделения.
 
 ### Однако
-`livan_9_ru_39f2e72c` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:156 | doc_type:owners_manual
 предметы
 должны
 находиться в пределах 1,5 метров от
@@ -45704,7 +43008,6 @@ HDC
 предметов может быть меньше.
 
 ### Включение и отключение системы
-`livan_9_ru_97da6e0f` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:156 | doc_type:owners_manual
 Включение:
 система
 «парктроникевключается при положении
@@ -45712,7 +43015,6 @@ HDC
 зажигания
 
 ### ON
-`livan_9_ru_6f0200ca` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:156 | doc_type:owners_manual
 и
 при
 рычаге
@@ -45724,7 +43026,6 @@ HDC
 рычаг
 
 ### Запуск двигателя и вождение
-`livan_9_ru_645112af` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:156 | doc_type:owners_manual
 5
 8
 7
@@ -45747,7 +43048,6 @@ HDC
 условиях:
 
 ### Неспособность
-`livan_9_ru_825fd9f9` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:157 | doc_type:owners_manual
 обнаруживать
 препятствия
 •
@@ -45763,7 +43063,6 @@ HDC
 •
 
 ### Датчики
-`livan_9_ru_65ececb6` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:157 | doc_type:owners_manual
 системы
 «парктронике
 не
@@ -45772,7 +43071,6 @@ HDC
 •
 
 ### Датчики
-`livan_9_ru_65ececb6` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:157 | doc_type:owners_manual
 системы
 «парктронике
 не
@@ -45784,7 +43082,6 @@ HDC
 •
 
 ### Датчики
-`livan_9_ru_65ececb6` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:157 | doc_type:owners_manual
 системы
 «парктронике
 не
@@ -45797,7 +43094,6 @@ HDC
 поглощающие ультразвуковые волны.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_f15127fc` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:157 | doc_type:owners_manual
 156
 •
 Датчики системы «парктронике могут
@@ -45807,7 +43103,6 @@ HDC
 препятствия специфической формы.
 
 ### Возможна ложная тревога
-`livan_9_ru_50893886` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:158 | doc_type:owners_manual
 •
 Когда поверхность датчиков системы
 «парктронике
@@ -45821,7 +43116,6 @@ HDC
 •
 
 ### Когда поверхность датчиков системы
-`livan_9_ru_fefe9066` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:158 | doc_type:owners_manual
 «парктроникезагрязнена,
 система
 может
@@ -45841,7 +43135,6 @@ HDC
 сигнал тревоги.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_fbc85e4c` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:158 | doc_type:owners_manual
 5
 8
 7
@@ -45873,7 +43166,6 @@ HDC
 •
 
 ### При движении автомобиля во время
-`livan_9_ru_9670863d` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:159 | doc_type:owners_manual
 снега
 или
 дождя
@@ -45916,7 +43208,6 @@ HDC
 технического обслуживания.
 
 ### Если позади автомобиля в одном
-`livan_9_ru_b6792e80` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:159 | doc_type:owners_manual
 направлении
 есть
 несколько
@@ -45954,7 +43245,6 @@ HDC
 будут
 
 ### Запуск двигателя и вождение
-`livan_9_ru_d487518c` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:159 | doc_type:owners_manual
 158
 отправляться,
 основываясь
@@ -45980,7 +43270,6 @@ HDC
 к неисправностям.
 
 ### Система
-`livan_9_ru_1400174b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 наблюдения
 за
 задним ходом
@@ -46003,7 +43292,6 @@ HDC
 передаче
 
 ### (R),
-`livan_9_ru_ec631800` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:160 | doc_type:owners_manual
 изображение
 автоматически
 отображается
@@ -46027,7 +43315,6 @@ HDC
 отображавшийся интерфейс.
 
 ### Система
-`livan_9_ru_1400174b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 наблюдения
 за
 задним
@@ -46039,7 +43326,6 @@ HDC
 •
 
 ### Камера
-`livan_9_ru_6a6e47d6` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:160 | doc_type:owners_manual
 заднего
 вида
 не
@@ -46053,7 +43339,6 @@ HDC
 •
 
 ### Камера
-`livan_9_ru_6a6e47d6` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:160 | doc_type:owners_manual
 заднего
 вида
 может
@@ -46123,7 +43408,6 @@ HDC
 автомобиля.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_10ab7818` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:160 | doc_type:owners_manual
 5
 8
 7
@@ -46144,7 +43428,6 @@ HDC
 знака.
 
 ### Область
-`livan_9_ru_d2ec82d0` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:161 | doc_type:owners_manual
 съемки
 камеры
 заднего
@@ -46154,7 +43437,6 @@ HDC
 предметы в углах или под бампером.
 
 ### Изображение
-`livan_9_ru_d7059176` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 на
 дисплее
 может
@@ -46169,7 +43451,6 @@ HDC
 отличается от фактического.
 
 ### Вспомогательная
-`livan_9_ru_b6e8244e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 линия
 заднего хода
 Две
@@ -46187,7 +43468,6 @@ HDC
 автомобиля до предмета.
 
 ### Отображение расстояния от объекта до
-`livan_9_ru_d62897dc` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:161 | doc_type:owners_manual
 нижней
 части
 бампера
@@ -46196,14 +43476,12 @@ HDC
 1. Красный цвет 0.5 м;
 
 ### Запуск двигателя и вождение
-`livan_9_ru_467db4d1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 160
 Интеллектуальная
 система вождения
 Система управления круизконтролем (СС)
 
 ### Благодаря
-`livan_9_ru_93b73d81` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 системе
 управления
 круизконтролем
@@ -46218,7 +43496,6 @@ HDC
 непосредственно время на педаль газа.
 
 ### В
-`livan_9_ru_9fc8ee2c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 ситуациях,
 когда
 невозможно
@@ -46253,20 +43530,17 @@ HDC
 Настройка круиз-контроля
 
 ### Кнопка
-`livan_9_ru_def08f07` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:162 | doc_type:owners_manual
 управления
 круиз-контролем
 расположена на левой стороне рулевого
 колеса.
 
 ### Короткое нажатие кнопки позволяет
-`livan_9_ru_fe60f3c3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 включить/выключить/выйти
 из
 системы круиз-контроля.
 
 ### Длинное нажатие кнопку позволяет
-`livan_9_ru_fcbb86e5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 выйти из системы круиз-контроля.
 2. Кнопки
 регулировки
@@ -46276,7 +43550,6 @@ HDC
 •
 
 ### RES/+
-`livan_9_ru_50ce23ba` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 (возобновление
 /
 увеличение скорости)
@@ -46290,7 +43563,6 @@ HDC
 направлении
 
 ### RES/+,
-`livan_9_ru_16f65c48` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 чтобы
 возобновить
 работу
@@ -46302,7 +43574,6 @@ HDC
 •
 
 ### SET/-
-`livan_9_ru_dad1e658` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 (настройка
 /
 снижение
@@ -46317,7 +43588,6 @@ HDC
 направлении
 
 ### SET/-,
-`livan_9_ru_26ce71d6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 чтобы
 установить
 текущую
@@ -46347,7 +43617,6 @@ HDC
 круизконтроля.
 
 ### Запуск двигателя и вождение
-`livan_9_ru_2506db33` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:162 | doc_type:owners_manual
 5
 8
 7
@@ -46368,7 +43637,6 @@ HDC
 индикатор состояния круиз-контроля.
 
 ### 2. Для
-`livan_9_ru_240fdb1f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 установки
 текущей
 скорости
@@ -46384,7 +43652,6 @@ HDC
 направлении вниз.
 
 ### 3. Нажимая
-`livan_9_ru_f1236d25` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 кнопку
 регулировки
 и
@@ -46402,7 +43669,6 @@ HDC
 использовании круиз-контроля.
 
 ### Возобновление
-`livan_9_ru_79407778` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:163 | doc_type:owners_manual
 работы
 на
 установленной скорости
@@ -46424,7 +43690,6 @@ HDC
 направлении
 
 ### RES/+.
-`livan_9_ru_de627855` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 Так
 автомобиль
 разгонится
@@ -46432,7 +43697,6 @@ HDC
 предварительно заданной скорости.
 
 ### Увеличение
-`livan_9_ru_80297398` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 скорости
 при
 использовании круиз-контроля
@@ -46468,7 +43732,6 @@ HDC
 направлении
 
 ### Сначала
-`livan_9_ru_917cb634` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 скорость
 круиз-контроля
 настроится на кратность 5, а затем
@@ -46492,7 +43755,6 @@ RES/+, и при каждом нажатии скорость
 на 1 км/ч.
 
 ### Уменьшение
-`livan_9_ru_a75df5c8` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:163 | doc_type:owners_manual
 скорости
 при
 использовании круиз-контроля
@@ -46508,7 +43770,6 @@ RES/+, и при каждом нажатии скорость
 круиз-контроля.
 
 ### Когда скорость автомобиля снизится
-`livan_9_ru_85cee7ae` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 до
 желаемой,
 нажмите
@@ -46532,7 +43793,6 @@ RES/+, и при каждом нажатии скорость
 направлении
 
 ### Сначала
-`livan_9_ru_917cb634` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 скорость
 круиз-контроля
 настроится на кратность 5, а затем
@@ -46543,7 +43803,6 @@ RES/+, и при каждом нажатии скорость
 направлении
 
 ### SET/-,
-`livan_9_ru_07bf042b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 и
 при
 каждом
@@ -46557,7 +43816,6 @@ RES/+, и при каждом нажатии скорость
 увеличивается или уменьшается с
 
 ### Запуск двигателя и вождение
-`livan_9_ru_9645bd49` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:163 | doc_type:owners_manual
 162
 помощью
 кнопок
@@ -46591,7 +43849,6 @@ RES/+, и при каждом нажатии скорость
 круиз-контроля
 
 ### Используйте
-`livan_9_ru_97e7f2aa` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 педаль
 газа,
 чтобы
@@ -46610,7 +43867,6 @@ RES/+, и при каждом нажатии скорость
 на дороге с уклоном
 
 ### Работа
-`livan_9_ru_df0a1c6a` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:164 | doc_type:owners_manual
 системы
 круиз-контроля
 на
@@ -46647,7 +43903,6 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### Установите
-`livan_9_ru_6ecd9996` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 рычаг
 переключения
 передач в положение (N).
@@ -46665,20 +43920,17 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### Длинное
-`livan_9_ru_79fac71d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 нажатие
 на
 кнопку
 круизконтроля выключает систему круизконтроля.
 
 ### Очищение памяти скорости
-`livan_9_ru_c3cabcd4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 При выключении системы круиз-контроля
 либо при переводе замка зажигания в
 положение
 
 ### OFF
-`livan_9_ru_6af9763a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
 из
 памяти
 удаляется
@@ -46695,7 +43947,6 @@ RES/+, и при каждом нажатии скорость
 163
 
 ### Устройства
-`livan_9_ru_11effeaa` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:165 | doc_type:owners_manual
 предупреждения
 об
 опасности
@@ -46743,7 +43994,6 @@ RES/+, и при каждом нажатии скорость
 световой сигнал выключится.
 
 ### Знак аварийной остановки находится в
-`livan_9_ru_ee7bd27a` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:165 | doc_type:owners_manual
 ящике для инструментов под обшивкой
 багажника.
 На
@@ -46768,7 +44018,6 @@ RES/+, и при каждом нажатии скорость
 должна быть увеличена до 200 м.
 
 ### Неисправности во время вождения
-`livan_9_ru_b2101839` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:165 | doc_type:owners_manual
 164
 Светоотражающий жилет
 Светоотражающий
@@ -46779,7 +44028,6 @@ RES/+, и при каждом нажатии скорость
 открытии.
 
 ### В экстренной
-`livan_9_ru_7ecf34f0` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:166 | doc_type:owners_manual
 ситуации водитель
 должен
 заранее
@@ -46797,7 +44045,6 @@ RES/+, и при каждом нажатии скорость
 Аптечка первой помощи*
 
 ### Аптечка первой помощи размещается в
-`livan_9_ru_e5a85d89` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 багажном отделении.
 Неисправности во время вождения
 6
@@ -46811,7 +44058,6 @@ RES/+, и при каждом нажатии скорость
 165
 
 ### Запуск
-`livan_9_ru_663b8a1c` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:167 | doc_type:owners_manual
 от
 внешнего
 источника питания
@@ -46852,7 +44098,6 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### Содержащаяся
-`livan_9_ru_650ebfc6` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:167 | doc_type:owners_manual
 в
 аккумуляторе
 кислота может обжечь вас.
@@ -46862,19 +44107,16 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### В
-`livan_9_ru_3b341811` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:167 | doc_type:owners_manual
 аккумуляторе
 содержится
 достаточный заряд, чтобы причинить
 вам обжечь.
 
 ### Если не следовать приведенным ниже
-`livan_9_ru_a87246ae` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 инструкциям, вы можно получить травмы,
 описанные выше.
 
 ### Игнорирование этих шагов может
-`livan_9_ru_20870228` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 привести
 к
 серьезному
@@ -46892,7 +44134,6 @@ RES/+, и при каждом нажатии скорость
 повреждению автомобиля.
 
 ### Даже при неработающем двигателе
-`livan_9_ru_a9f3444e` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:167 | doc_type:owners_manual
 вентилятор охлаждения в передней
 части
 отсека
@@ -46908,7 +44149,6 @@ RES/+, и при каждом нажатии скорость
 вентилятора под капотом.
 
 ### Использование
-`livan_9_ru_649e3dd4` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:167 | doc_type:owners_manual
 открытого
 огня
 рядом
@@ -46942,7 +44182,6 @@ RES/+, и при каждом нажатии скорость
 обратитесь к врачу.
 
 ### Охлаждающий вентилятор и другие
-`livan_9_ru_a9a03421` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 движущиеся части двигателя могут
 стать причиной серьезной травмы. При
 работающем
@@ -46952,7 +44191,6 @@ RES/+, и при каждом нажатии скорость
 подальше от движущихся частей.
 
 ### 1. Выключите зажигание и выключите
-`livan_9_ru_ac2da3ab` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:167 | doc_type:owners_manual
 все
 осветительные
 приборы
@@ -46966,7 +44204,6 @@ RES/+, и при каждом нажатии скорость
 сигнализации (при необходимости).
 
 ### Неисправности во время вождения
-`livan_9_ru_72852f03` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 166
 2. Подсоедините один конец красного
 положительного
@@ -46978,14 +44215,12 @@ RES/+, и при каждом нажатии скорость
 клемме
 
 ### (A)
-`livan_9_ru_70c8c39d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 автомобиля,
 который
 нужно
 запустить от внешнего источника.
 
 ### 3. Не допускайте контакта другого конца
-`livan_9_ru_e82da400` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 красного положительного (+) кабеля с
 металлом.
 Подсоедините
@@ -46996,7 +44231,6 @@ RES/+, и при каждом нажатии скорость
 клемме
 
 ### (B)
-`livan_9_ru_922888f9` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:168 | doc_type:owners_manual
 работающего аккумулятора.
 4. Подсоедините
 один
@@ -47011,7 +44245,6 @@ RES/+, и при каждом нажатии скорость
 клемме
 
 ### (C)
-`livan_9_ru_a909eee9` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:168 | doc_type:owners_manual
 работающего
 аккумулятора.
 Не
@@ -47021,7 +44254,6 @@ RES/+, и при каждом нажатии скорость
 шагу.
 
 ### Подключайте
-`livan_9_ru_1db44155` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:168 | doc_type:owners_manual
 другой
 конец
 отрицательного
@@ -47038,7 +44270,6 @@ RES/+, и при каждом нажатии скорость
 разряженным аккумулятором.
 
 ### 5. Подсоедините другой конец черного
-`livan_9_ru_4b400f44` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 отрицательного
 (-)
 кабеля
@@ -47046,7 +44277,6 @@ RES/+, и при каждом нажатии скорость
 неокрашенной металлической части
 
 ### (D)
-`livan_9_ru_03c17981` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:168 | doc_type:owners_manual
 автомобиля
 с
 разряженным
@@ -47058,7 +44288,6 @@ RES/+, и при каждом нажатии скорость
 аккумулятором.
 
 ### 6. Запустите двигатель
-`livan_9_ru_17777047` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:168 | doc_type:owners_manual
 автомобиля
 с
 заряженным аккумулятором и дайте
@@ -47066,7 +44295,6 @@ RES/+, и при каждом нажатии скорость
 менее четырех минут.
 
 ### 7. Попытайтесь завести автомобиль с
-`livan_9_ru_cd418df8` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:168 | doc_type:owners_manual
 разряженным
 аккумулятором.
 Если
@@ -47088,7 +44316,6 @@ RES/+, и при каждом нажатии скорость
 входят в сферу гарантийного ремонта.
 
 ### Поэтому необходимо подсоединять или
-`livan_9_ru_6c73115c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 снимать кабели в правильном порядке и
 следить
 за
@@ -47104,7 +44331,6 @@ RES/+, и при каждом нажатии скорость
 металлических элементов.
 
 ### Последовательность операций
-`livan_9_ru_5a6adaf0` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:168 | doc_type:owners_manual
 по отсоединению кабелей двух
 автомобилей
 1. Отсоедините черный отрицательный
@@ -47116,7 +44342,6 @@ RES/+, и при каждом нажатии скорость
 разряженным аккумулятором.
 
 ### 2. Отсоедините черный отрицательный
-`livan_9_ru_b5d317ef` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:168 | doc_type:owners_manual
 (-)
 провод
 в
@@ -47125,7 +44350,6 @@ RES/+, и при каждом нажатии скорость
 работающим аккумулятором.
 
 ### 3. Отсоедините красный положительный
-`livan_9_ru_fc8ca116` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:168 | doc_type:owners_manual
 (+)
 кабель
 в
@@ -47134,7 +44358,6 @@ RES/+, и при каждом нажатии скорость
 работающим аккумулятором.
 
 ### 4. Отсоедините красный положительный
-`livan_9_ru_e6e9d811` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:168 | doc_type:owners_manual
 (+)
 кабель
 в
@@ -47143,7 +44366,6 @@ RES/+, и при каждом нажатии скорость
 разряженным аккумулятором.
 
 ### Неисправности во время вождения
-`livan_9_ru_7cda9383` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 6
 8
 7
@@ -47157,7 +44379,6 @@ RES/+, и при каждом нажатии скорость
 Подсказки по буксировке
 
 ### Все средства для буксировки должны
-`livan_9_ru_c70f064b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 использовать
 систему
 предохранительных
@@ -47170,7 +44391,6 @@ RES/+, и при каждом нажатии скорость
 региона.
 
 ### Колеса
-`livan_9_ru_e6724bab` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 и
 оси,
 соприкасающиеся
@@ -47182,7 +44402,6 @@ RES/+, и при каждом нажатии скорость
 тележку.
 
 ### 1. При
-`livan_9_ru_d64de08b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 использовании
 гибкого
 соединительного тягового устройства
@@ -47201,7 +44420,6 @@ RES/+, и при каждом нажатии скорость
 м.
 
 ### Буксируемое
-`livan_9_ru_e67204e2` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:169 | doc_type:owners_manual
 транспортное
 средство
 с
@@ -47219,7 +44437,6 @@ RES/+, и при каждом нажатии скорость
 трубы).
 
 ### 2. И
-`livan_9_ru_79e9d08d` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:169 | doc_type:owners_manual
 буксирующее,
 и
 буксируемое
@@ -47232,7 +44449,6 @@ RES/+, и при каждом нажатии скорость
 сигнализацию.
 
 ### 3. Если
-`livan_9_ru_b2daebad` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 вы
 хотите
 буксировать
@@ -47246,7 +44462,6 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### Установите
-`livan_9_ru_a0eecf62` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 рычаг
 переключения
 передач в нейтральное положение
@@ -47254,7 +44469,6 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### Не буксируйте на скорости более
-`livan_9_ru_159d6941` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 50 км/ч.
 •
 Расстояние буксировки не должно
@@ -47262,7 +44476,6 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### При использовании специального
-`livan_9_ru_3dc27433` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 тягача
 разрешается
 поднимать
@@ -47275,7 +44488,6 @@ RES/+, и при каждом нажатии скорость
 буксировки.
 
 ### Никогда не буксируйте автомобиль
-`livan_9_ru_37c29c3d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 с
 автоматической
 коробкой
@@ -47284,7 +44496,6 @@ RES/+, и при каждом нажатии скорость
 повреждению коробки передач.
 
 ### Запрещается
-`livan_9_ru_0db588d7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 буксировать
 данное
 транспортное средство при следующих
@@ -47315,21 +44526,18 @@ RES/+, и при каждом нажатии скорость
 более 50 км.
 
 ### Автомобиль
-`livan_9_ru_60e492cd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 оборудован
 съемной
 буксировочной проушиной в ящике для
 инструментов в багажном отделении.
 
 ### Неисправности во время вождения
-`livan_9_ru_8c9fcc6d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 168
 Установка
 переднего/заднего
 буксировочного кольца
 
 ### Положение
-`livan_9_ru_3d7ea394` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:170 | doc_type:owners_manual
 установки
 буксировочного
 кольца - с правой стороны переднего/
@@ -47367,7 +44575,6 @@ RES/+, и при каждом нажатии скорость
 автомобиля.
 
 ### Однако
-`livan_9_ru_d5e4fe22` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 его
 нельзя
 использовать
@@ -47379,7 +44586,6 @@ RES/+, и при каждом нажатии скорость
 автомобиль.
 
 ### Неисправности во время вождения
-`livan_9_ru_150a38ca` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 6
 8
 7
@@ -47414,7 +44620,6 @@ RES/+, и при каждом нажатии скорость
 информации.
 
 ### Другую информацию можно запросить у
-`livan_9_ru_ae70616e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 производителя шин.
 Использовать
 плохо
@@ -47424,7 +44629,6 @@ RES/+, и при каждом нажатии скорость
 эксплуатируемые шины опасно.
 
 ### Перекачанные
-`livan_9_ru_06fcd872` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 или
 недостаточно
 накачанные шины вызывают чрезмерный
@@ -47437,7 +44641,6 @@ RES/+, и при каждом нажатии скорость
 получению серьезных травм или смерти.
 
 ### Все шины следует регулярно проверять и
-`livan_9_ru_d081c7ce` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 поддерживать рекомендуемое давление.
 Давление в шинах следует проверять в
 холодном
@@ -47452,7 +44655,6 @@ RES/+, и при каждом нажатии скорость
 данныее.
 
 ### Перекачанные
-`livan_9_ru_06fcd872` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 шины
 с
 большей
@@ -47469,7 +44671,6 @@ RES/+, и при каждом нажатии скорость
 рекомендуемое давление в шине.
 
 ### Изношенные шины могут стать причиной
-`livan_9_ru_706e9659` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 аварии. Если протектор шины сильно
 изношен
 или
@@ -47479,7 +44680,6 @@ RES/+, и при каждом нажатии скорость
 подлежит незамедлительной замене.
 
 ### В
-`livan_9_ru_257640ac` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 шине
 должно
 быть
@@ -47487,7 +44687,6 @@ RES/+, и при каждом нажатии скорость
 давление для эффективной работы.
 
 ### Недостаточное
-`livan_9_ru_0e178b6e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 или
 чрезмерное
 давление в шинах может сказаться
@@ -47501,7 +44700,6 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### Чрезмерная деформация
-`livan_9_ru_959bdef8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 •
 Перегрев
 •
@@ -47513,7 +44711,6 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### Плохая управляемость
-`livan_9_ru_ad16c86e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 •
 Повышение расхода топлива
 При избыточном давлении в шине могут
@@ -47521,7 +44718,6 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### Аномальный износ
-`livan_9_ru_64317634` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 •
 Плохая управляемость
 •
@@ -47541,7 +44737,6 @@ RES/+, и при каждом нажатии скорость
 шинах.
 
 ### Табличка
-`livan_9_ru_dce6ac80` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 находится
 на
 левой
@@ -47552,13 +44747,11 @@ RES/+, и при каждом нажатии скорость
 ней
 
 ### Неисправности во время вождения
-`livan_9_ru_c4e392ff` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 170
 указано давление в передних и задних
 шинах автомобиля.
 
 ### Система контроля давления в
-`livan_9_ru_66938b6a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 шинах
 Каждая шина должна быть накачана до
 значения
@@ -47572,7 +44765,6 @@ RES/+, и при каждом нажатии скорость
 давления на левой центральной стойке.
 
 ### Давление в шине должно проверяться
-`livan_9_ru_d2270ff1` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:172 | doc_type:owners_manual
 ежемесячно. Система контроля давления
 в
 шинах
@@ -47591,7 +44783,6 @@ RES/+, и при каждом нажатии скорость
 лампа
 
 ### TPMS,
-`livan_9_ru_5525233e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 сигнализирующая
 об
 аномальном
@@ -47601,7 +44792,6 @@ RES/+, и при каждом нажатии скорость
 аномально.
 
 ### Следует
-`livan_9_ru_39bef322` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 немедленно
 остановиться
 и
@@ -47611,7 +44801,6 @@ RES/+, и при каждом нажатии скорость
 давление в ней.
 
 ### Система
-`livan_9_ru_9b9ff2e6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 контроля
 давления
 в
@@ -47637,7 +44826,6 @@ RES/+, и при каждом нажатии скорость
 и
 
 ### ДТП,
-`livan_9_ru_29598c80` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 а
 также
 обеспечить
@@ -47648,7 +44836,6 @@ RES/+, и при каждом нажатии скорость
 система контроля давления в шинах.
 
 ### Когда давление в одной или нескольких
-`livan_9_ru_7d3f4b0c` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:172 | doc_type:owners_manual
 шинах автомобиля слишком низкое или
 система
 контроля
@@ -47660,7 +44847,6 @@ RES/+, и при каждом нажатии скорость
 лампа
 
 ### TPMS,
-`livan_9_ru_5525233e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 сигнализирующая
 об
 аномальном
@@ -47668,7 +44854,6 @@ RES/+, и при каждом нажатии скорость
 текстовые оповещения.
 
 ### Неполадки
-`livan_9_ru_856664b9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 системы
 контроля
 давления в шинах
@@ -47684,7 +44869,6 @@ RES/+, и при каждом нажатии скорость
 •
 
 ### Езда по неровной дороге в течение
-`livan_9_ru_88cd5fe8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 длительного
 времени
 или
@@ -47701,7 +44885,6 @@ RES/+, и при каждом нажатии скорость
 длительные непрерывные повороты).
 
 ### Когда система контроля давления в
-`livan_9_ru_66e93daa` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 шинах сообщает в виде текстового
 оповещения
 «Система
@@ -47723,7 +44906,6 @@ RES/+, и при каждом нажатии скорость
 дороге.
 
 ### Калибровка
-`livan_9_ru_85e18fa4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 системы
 контроля
 давления в шинах
@@ -47748,7 +44930,6 @@ RES/+, и при каждом нажатии скорость
 давления в шинах.
 
 ### Неисправности во время вождения
-`livan_9_ru_9601026f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:172 | doc_type:owners_manual
 6
 8
 7
@@ -47764,7 +44945,6 @@ RES/+, и при каждом нажатии скорость
 проходит следующим образом:
 
 ### 1. Отрегулируйте давление в шинах до
-`livan_9_ru_412d5566` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 рекомендуемых параметров из части
 «Давление
 в
@@ -47777,7 +44957,6 @@ RES/+, и при каждом нажатии скорость
 «Технические данныее.
 
 ### 2. Переведите
-`livan_9_ru_1df1dc3e` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:173 | doc_type:owners_manual
 кнопку
 включения
 в
@@ -47788,7 +44967,6 @@ ON
 двигатель.
 
 ### 3. В
-`livan_9_ru_50fcfd08` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:173 | doc_type:owners_manual
 интерфейсе
 настройки
 мультимедиа
@@ -47806,12 +44984,10 @@ ON
 состоянии покоя.
 
 ### 4. Подождите несколько секунд до того,
-`livan_9_ru_49ad62ce` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 как появится системное сообщение о
 том, что калибровка началась.
 
 ### 5. Автомобиль
-`livan_9_ru_000b0388` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 должен
 непрерывно
 двигаться по ровной дороге общего
@@ -47819,7 +44995,6 @@ ON
 км/ч до завершения калибровки.
 
 ### 6. После
-`livan_9_ru_fb4e259f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 того,
 как
 будет
@@ -47836,7 +45011,6 @@ ON
 завершения калибровки.
 
 ### Если транспортное средство будет
-`livan_9_ru_76ffe162` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 заглушено и снова запущено до
 завершения
 калибровки,
@@ -47857,7 +45031,6 @@ ON
 правильно.
 
 ### Калибровка
-`livan_9_ru_59252110` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 системы
 контроля давления в шинах может занять
 больше
@@ -47869,14 +45042,12 @@ ON
 запуститься.
 
 ### Система
-`livan_9_ru_72e1f907` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 больше
 не
 предоставляет никаких дополнительных
 подтверждений завершения калибровки.
 
 ### 7. Если
-`livan_9_ru_fc25e37a` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:173 | doc_type:owners_manual
 калибровка
 не
 запускается,
@@ -47891,7 +45062,6 @@ TPMS
 калибровки.
 
 ### Если корректное базовое значение
-`livan_9_ru_ea7e0aea` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 не
 установлено,
 система
@@ -47900,7 +45070,6 @@ TPMS
 низком давлении в шинах.
 
 ### Система
-`livan_9_ru_72e1f907` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 будет
 продолжать
 сообщать
@@ -47933,13 +45102,11 @@ TPMS
 давлении в шинах.
 
 ### Когда нужно проверять шины
-`livan_9_ru_ecfc3e2b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 Проверяйте шины, включая запасную, не
 реже одного раза в месяц. Давление в
 запасной шине см. в главе «Давление в
 
 ### Неисправности во время вождения
-`livan_9_ru_2eea1831` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:173 | doc_type:owners_manual
 172
 шинах
 (холодное
@@ -47948,7 +45115,6 @@ TPMS
 «Технических данныхе.
 
 ### Проверьте давление в шинах с помощью
-`livan_9_ru_d43ac655` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 карманного
 шинного
 манометра
@@ -47971,7 +45137,6 @@ TPMS
 состоянии.
 
 ### Холодные
-`livan_9_ru_d23dde7e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 шины
 —
 ваш
@@ -47989,7 +45154,6 @@ TPMS
 шины.
 
 ### Плотно
-`livan_9_ru_c3406cbd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 прижмите
 манометр
 к
@@ -48014,14 +45178,12 @@ TPMS
 манометра.
 
 ### Обязательно
-`livan_9_ru_272fda8f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 установите
 колпачок клапана обратно на ниппель.
 Колпачки клапана защищают от грязи и
 влаги.
 
 ### На необходимость замены шин влияют
-`livan_9_ru_1a87de4a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 различные
 факторы,
 такие
@@ -48049,7 +45211,6 @@ TPMS
 изношен до 1,6 мм или меньше.
 
 ### Новые шины требуются в следующих
-`livan_9_ru_5b2ff105` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 ситуациях:
 •
 На шине есть как минимум 3 место с
@@ -48057,7 +45218,6 @@ TPMS
 •
 
 ### Сквозь резину шины можно увидеть
-`livan_9_ru_ec004d4a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 корд или протекторную ткань.
 •
 Протектор или боковая стенка имеют
@@ -48079,7 +45239,6 @@ TPMS
 ремонту.
 
 ### Качество резины в шинах со временем
-`livan_9_ru_85660696` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 ухудшается, даже если эти шины никогда
 не использовались. На скорость старения
 могут влиять разные факторы, включая
@@ -48098,7 +45257,6 @@ TPMS
 шины обычно изнашиваются раньше, чем
 
 ### Неисправности во время вождения
-`livan_9_ru_b80c6de3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 6
 8
 7
@@ -48117,7 +45275,6 @@ TPMS
 производителю.
 
 ### Утилизируйте
-`livan_9_ru_64998345` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 использованные
 шины
 в
@@ -48130,7 +45287,6 @@ TPMS
 окружающей среды.
 
 ### Покупка новых шин
-`livan_9_ru_396ef88d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 При покупке новых шин убедитесь, что
 они
 подходят
@@ -48147,7 +45303,6 @@ TPMS
 производителя.
 
 ### Рекомендуется
-`livan_9_ru_2d76ad7c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 производить замену сразу четырех шин.
 См. главу «Проверка и замена шине в
 этом
@@ -48157,7 +45312,6 @@ TPMS
 соответствующей информации.
 
 ### Установка
-`livan_9_ru_7b249b19` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 шин
 из
 разных
@@ -48176,7 +45330,6 @@ TPMS
 управляемости.
 
 ### Использование
-`livan_9_ru_b3fa0806` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 шин
 разных размеров и типов также может
 привести к повреждению автомобиля. На
@@ -48192,7 +45345,6 @@ TPMS
 пробега.
 
 ### Внезапная
-`livan_9_ru_8705f31d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 потеря
 контроля
 над
@@ -48206,7 +45358,6 @@ TPMS
 использовать только радиальные шины.
 
 ### Использование колес или шин другого
-`livan_9_ru_52d84b5e` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:175 | doc_type:owners_manual
 размера,
 отличные
 от
@@ -48266,7 +45417,6 @@ TPMS
 травм.
 
 ### Если переднее колесо выходит из
-`livan_9_ru_6c4f34b8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 строя и необходимо использовать
 запасное
 колесо,
@@ -48278,7 +45428,6 @@ TPMS
 колеса.
 
 ### В
-`livan_9_ru_2ded26f5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 целях
 обеспечения
 безопасности
@@ -48291,7 +45440,6 @@ TPMS
 затем установите запасное колесо на
 
 ### Неисправности во время вождения
-`livan_9_ru_61d1009f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 174
 место заднего. После подгонки обычных
 задних колес автомобиля к передним
@@ -48330,7 +45478,6 @@ Livan
 обеспечения безопасности вождения.
 
 ### Перестановка шин
-`livan_9_ru_977b98f7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 Мы
 рекомендуем
 вам
@@ -48343,7 +45490,6 @@ Livan
 повреждений.
 
 ### Подробнее
-`livan_9_ru_d99d22d0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 см.
 в части
 «Когда
@@ -48400,7 +45546,6 @@ Livan
 в шинахе в данном разделе.
 
 ### Ржавчина или грязь на колесах или
-`livan_9_ru_fa6bb94b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 креплениях
 колес
 могут
@@ -48412,7 +45557,6 @@ Livan
 месте соединения колеса с автомобилем.
 
 ### В
-`livan_9_ru_850f6e83` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 экстренных
 случаях
 можно
@@ -48422,7 +45566,6 @@ Livan
 скребка или проволочной щетки.
 
 ### Регулировка
-`livan_9_ru_5a2ed2b6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 и
 балансировка
 колес
@@ -48440,7 +45583,6 @@ Livan
 шин не требуют регулярного выполнения.
 
 ### Неисправности во время вождения
-`livan_9_ru_b47f968c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 6
 8
 7
@@ -48469,7 +45611,6 @@ Livan
 колес.
 
 ### Если автомобиль испытывает тряску при
-`livan_9_ru_b287e3b6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 движении по ровной поверхности, может
 потребоваться повторная балансировка
 шин и колес. Пожалуйста, немедленно
@@ -48480,7 +45621,6 @@ Livan
 обслуживания
 
 ### LIVAN
-`livan_9_ru_04c7b9d6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 для
 проведения
 диагностики.
@@ -48504,7 +45644,6 @@ Livan
 заменить.
 
 ### В
-`livan_9_ru_618258d3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 случае
 любой
 из
@@ -48541,7 +45680,6 @@ Livan
 датчики
 
 ### TPMS
-`livan_9_ru_e65ba195` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 подойдут
 вашему
 автомобилю.
@@ -48567,7 +45705,6 @@ Livan
 автомобилем.
 
 ### Несчастные
-`livan_9_ru_e44df49f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 случаи
 могут
 привести к
@@ -48580,7 +45717,6 @@ Livan
 колесную гайку.
 
 ### Использование некорректных типов
-`livan_9_ru_db7bf5ab` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:177 | doc_type:owners_manual
 колес
 также
 может
@@ -48608,7 +45744,6 @@ Livan
 противоскольжения и кузовом и шасси.
 
 ### Ставить старые колеса на автомобиль
-`livan_9_ru_5b878e69` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 опасно.
 Потому
 что
@@ -48636,7 +45771,6 @@ Livan
 колеса от оригинального производителя.
 
 ### Зимние шины
-`livan_9_ru_418008a5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 Если
 планируется
 частая
@@ -48648,7 +45782,6 @@ Livan
 лучше всего оснастить зимними шинами.
 
 ### Всесезонные шины могут не обеспечить
-`livan_9_ru_4aaa005f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 желаемого
 сцепления
 или
@@ -48658,7 +45791,6 @@ Livan
 заснеженных дорогах.
 
 ### Зимние
-`livan_9_ru_bac8eec8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 шины
 используются
 для
@@ -48667,7 +45799,6 @@ Livan
 использования зимних
 
 ### Неисправности во время вождения
-`livan_9_ru_3655d3d8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 176
 шин
 вы
@@ -48688,7 +45819,6 @@ Livan
 и торможении.
 
 ### Для получения подробной информации о
-`livan_9_ru_9eb130e2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 наличии
 зимних
 шин
@@ -48700,7 +45830,6 @@ Livan
 •
 
 ### Используйте
-`livan_9_ru_ca562dc1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 шины
 от
 одного
@@ -48709,7 +45838,6 @@ Livan
 •
 
 ### Используйте только радиальные шины
-`livan_9_ru_6741124c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 того же размера, диапазона нагрузки и
 скорости, что и шины от оригинального
 производителя.
@@ -48725,7 +45853,6 @@ Livan
 скорость шины.
 
 ### Цепь противоскольжения
-`livan_9_ru_7bd52483` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 Цепи
 противоскольжения
 не
@@ -48745,7 +45872,6 @@ Livan
 водите осторожно и на малых скоростях.
 
 ### В противном случае автомобиль может
-`livan_9_ru_103f2f51` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 быть
 поврежден
 или
@@ -48754,7 +45880,6 @@ Livan
 качества могут ухудшиться.
 
 ### При установке цепей противоскольжения
-`livan_9_ru_298f558c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 необходимо
 выбирать
 цепи,
@@ -48774,7 +45899,6 @@ Livan
 дороге.
 
 ### Если шина лопнет во время движения
-`livan_9_ru_e0d521cd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 автомобиля,
 произойдут
 следующие
@@ -48789,7 +45913,6 @@ Livan
 ситуаций):
 
 ### Неисправности во время вождения
-`livan_9_ru_79d83625` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 6
 8
 7
@@ -48817,7 +45940,6 @@ Livan
 руль.
 
 ### Направьте
-`livan_9_ru_ec626b6f` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:179 | doc_type:owners_manual
 автомобиль,
 чтобы
 остаться
@@ -48839,7 +45961,6 @@ Livan
 заносе.
 
 ### Поэтому
-`livan_9_ru_f0d594e5` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:179 | doc_type:owners_manual
 следует принимать те же меры, что и
 при заносе. Поверните рулевое колесо
 в
@@ -48877,7 +45998,6 @@ Livan
 следующие действия:
 
 ### 1. Медленно выведите автомобиль на
-`livan_9_ru_3e63cbce` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 безопасную
 ровную
 поверхность,
@@ -48887,7 +46007,6 @@ Livan
 повреждения шин и колес.
 
 ### 2. Включите
-`livan_9_ru_d1b3e012` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 аварийные
 сигнальные
 лампы.
@@ -48895,7 +46014,6 @@ Livan
 Замена шин может быть опасной.
 
 ### Автомобиль может соскользнуть с
-`livan_9_ru_138c8318` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 домкрата и опрокинуться на человека,
 что приведет к телесным повреждениям
 или смерти. Замените шины на ровной
@@ -48909,7 +46027,6 @@ Livan
 •
 
 ### Поставьте автомобиль на стояночный
-`livan_9_ru_6c8f1a53` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:179 | doc_type:owners_manual
 тормоз.
 •
 Переведите селектор коробки передач
@@ -48929,7 +46046,6 @@ Livan
 •
 
 ### Не позволяйте пассажирам оставаться
-`livan_9_ru_3a1e1465` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 в автомобиле.
 •
 Перед
@@ -48941,7 +46057,6 @@ Livan
 оставшихся колес.
 
 ### Выньте
-`livan_9_ru_90317133` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 запасное
 колесо
 и
@@ -48949,7 +46064,6 @@ Livan
 Домкрат и инструменты водителя
 
 ### Домкрат
-`livan_9_ru_6e8d325f` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:179 | doc_type:owners_manual
 и
 необходимые
 инструменты
@@ -48957,7 +46071,6 @@ Livan
 обшивкой багажника.
 
 ### Неисправности во время вождения
-`livan_9_ru_fd37dd16` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 178
 Пожалуйста,
 используйте
@@ -48968,7 +46081,6 @@ Livan
 автомобилем.
 
 ### Запрещается
-`livan_9_ru_d48592d1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 использовать
 другие
 неподходящие домкраты, в противном
@@ -48978,7 +46090,6 @@ Livan
 автомобиля.
 
 ### Запасное колесо хранится в багажнике
-`livan_9_ru_32f7c941` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:180 | doc_type:owners_manual
 под ящиком для инструментов. Откройте
 обшивку
 багажника, выньте ящик для
@@ -48989,7 +46100,6 @@ Livan
 запасное колесо.
 
 ### Запасное
-`livan_9_ru_7a3205dd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 колесо
 автомобиля
 представляет собой маленькое Тобразное колесо. При его использовании
@@ -49007,14 +46117,12 @@ Livan
 обслуживания
 
 ### LIVAN
-`livan_9_ru_a0d9babf` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 как
 можно скорее.
 Снимите спущенное колесо и
 установите запасное
 
 ### 1. Перед
-`livan_9_ru_254f087c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 эксплуатацией
 проведите
 проверку безопасности.
@@ -49037,7 +46145,6 @@ Livan
 колпачок на себя.
 
 ### 3. Наденьте
-`livan_9_ru_4d8995ac` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 балонный
 ключ
 на
@@ -49047,7 +46154,6 @@ Livan
 оборот, но не откручивайте гайки.
 
 ### Неисправности во время вождения
-`livan_9_ru_5e2fb345` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 6
 8
 7
@@ -49068,7 +46174,6 @@ Livan
 под точку подъема.
 
 ### Неправильное
-`livan_9_ru_1c9b5e7a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 положение
 опоры
 домкрата при подъеме автомобиля
@@ -49107,14 +46212,12 @@ Livan
 погибнуть.
 
 ### Запрещается
-`livan_9_ru_96c94f81` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 находиться
 под
 автомобилем, поддерживаемым только
 домкратом.
 
 ### Опасно поднимать автомобиль и
-`livan_9_ru_4201e94b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 садиться в него для технического
 обслуживания или ремонта, не обладая
 навыками и надлежащим оборудованием
@@ -49140,7 +46243,6 @@ Livan
 соскользнет с домкрата.
 
 ### 6. Поверните ручку домкрата по часовой
-`livan_9_ru_f22a0dbb` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 стрелке, как показано, чтобы поднять
 автомобиль достаточно высоко над
 землей,
@@ -49150,14 +46252,12 @@ Livan
 установить запасное колесо.
 
 ### 8. Снимите
-`livan_9_ru_a6aff70c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 деформированную
 шину.
 Если обод сделан из железа, нужно
 снять и декоративную накладку.
 
 ### 9. Удалите
-`livan_9_ru_e73d2f9a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 ржавчину
 или
 грязь
@@ -49168,7 +46268,6 @@ Livan
 поверхностей и запасного колеса.
 
 ### Неисправности во время вождения
-`livan_9_ru_84bd708d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 180
 В
 экстренных
@@ -49180,7 +46279,6 @@ Livan
 скребка или проволочной щетки.
 
 ### 11. Замените
-`livan_9_ru_3739cad1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 колесные
 гайки.
 С
@@ -49193,7 +46291,6 @@ Livan
 не окажется на ступице.
 
 ### 12. Поверните
-`livan_9_ru_f165f69d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 ручку
 домкрата
 против
@@ -49204,7 +46301,6 @@ Livan
 автомобиль.
 
 ### Полностью
-`livan_9_ru_91d2c8bc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 опустите
 домкрат.
 Не наносите масло или смазку на
@@ -49217,7 +46313,6 @@ Livan
 соскочить, что приведет к аварии.
 
 ### 13. Предварительно затяните колесные
-`livan_9_ru_ae8b701f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 гайки
 в
 перекрестной
@@ -49229,12 +46324,10 @@ Livan
 уберите домкрат из-под автомобиля.
 
 ### 15. Затяните колесные гайки с помощью
-`livan_9_ru_8077695f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 баллонного ключа для колес.
 16. Установите колпачок колесной гайки.
 
 ### Если переднее колесо вышло из
-`livan_9_ru_da2e7adc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 строя,
 необходимо
 использовать
@@ -49268,7 +46361,6 @@ Livan,
 более запасных шин одновременно.
 
 ### Хранение
-`livan_9_ru_f8d3ccfa` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 спущенной
 или
 запасной
@@ -49282,7 +46374,6 @@ Livan,
 убрать в багажное отделение.
 
 ### Поместите запасное колесо в отсек в
-`livan_9_ru_390e6b16` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 багажном
 отделении
 внутренней
@@ -49291,13 +46382,11 @@ Livan,
 ключ по часовой стрелке до щелчка.
 
 ### Верните
-`livan_9_ru_ef71fbc0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 использованные
 инструменты
 на место и надежно закрепите их.
 
 ### Неисправности во время вождения
-`livan_9_ru_91393b2e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 6
 8
 7
@@ -49314,7 +46403,6 @@ Livan,
 предохранителя
 
 ### Плавкие
-`livan_9_ru_14ee5c0d` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:183 | doc_type:owners_manual
 предохранители
 защищают
 автомобильное
@@ -49322,7 +46410,6 @@ Livan,
 предотвращая перегрузки в электроцепи.
 
 ### Перегоревший
-`livan_9_ru_3606aadc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 предохранитель
 указывает на то, что цепь, которую он
 защищает, вышла из строя и перестала
@@ -49339,7 +46426,6 @@ Livan,
 B - предохранитель перегорел
 
 ### Предохранитель
-`livan_9_ru_b9cbbc45` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:183 | doc_type:owners_manual
 находится
 в
 блоке
@@ -49356,7 +46442,6 @@ B - предохранитель перегорел
 панели.
 
 ### Предохранители
-`livan_9_ru_823768b1` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:183 | doc_type:owners_manual
 бывают двух видов:
 1. Пластинчатый
 предохранитель
@@ -49370,7 +46455,6 @@ B - предохранитель перегорел
 составляет 5-30А.
 
 ### 2. Медленный
-`livan_9_ru_fda80122` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:183 | doc_type:owners_manual
 плавкий
 предохранитель
 -
@@ -49379,7 +46463,6 @@ B - предохранитель перегорел
 ток электроцепи составляет 20-60 А.
 
 ### Цвет указывает на значение силы тока
-`livan_9_ru_5d38fc5e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 предохранителя, которая также отмечена
 на предохранителе.
 Не
@@ -49402,7 +46485,6 @@ B - предохранитель перегорел
 провода.
 
 ### Неисправности во время вождения
-`livan_9_ru_03b0291b` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:183 | doc_type:owners_manual
 182
 Блок
 предохранителей
@@ -49411,7 +46493,6 @@ B - предохранитель перегорел
 1. Откройте капот моторного отсека.
 
 ### 2. Чтобы
-`livan_9_ru_01f71507` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 осмотреть
 предохранитель,
 ослабьте
@@ -49424,7 +46505,6 @@ B - предохранитель перегорел
 предохранителей.
 
 ### Попадание
-`livan_9_ru_778c6135` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 жидкости
 может
 привести к
@@ -49432,7 +46512,6 @@ B - предохранитель перегорел
 электрического компонента автомобиля.
 
 ### Следите
-`livan_9_ru_94357c7a` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:184 | doc_type:owners_manual
 за
 тем,
 чтобы
@@ -49441,7 +46520,6 @@ B - предохранитель перегорел
 электроприборов были на месте.
 
 ### Неисправности во время вождения
-`livan_9_ru_7524c552` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 6
 8
 7
@@ -49457,7 +46535,6 @@ B - предохранитель перегорел
 Наименование
 
 ### Величина в
-`livan_9_ru_2229630c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 амперах
 Примечания
 F01
@@ -49465,7 +46542,6 @@ F01
 сигнала
 
 ### 15A
-`livan_9_ru_dcae3016` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 -
 F02
 Предохранитель топливного
@@ -49477,7 +46553,6 @@ F03
 питание ECU
 
 ### 10A
-`livan_9_ru_6ad3b085` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:185 | doc_type:owners_manual
 -
 F04
 Предохранитель концевика
@@ -49486,7 +46561,6 @@ F04
 -
 
 ### F05
-`livan_9_ru_dd71e2c2` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:185 | doc_type:owners_manual
 Предохранитель 7DCT/TCU*
 30A
 -
@@ -49495,7 +46569,6 @@ F06
 дальнего света
 
 ### 5A
-`livan_9_ru_40bba4e9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 -
 F07
 Предохранитель EMS-1/ECU/
@@ -49508,7 +46581,6 @@ F07
 еля
 
 ### Величина в
-`livan_9_ru_f64d40cb` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:186 | doc_type:owners_manual
 амперах
 Примечания
 форсунки
@@ -49517,7 +46589,6 @@ F08
 кислорода
 
 ### 15A
-`livan_9_ru_26198dd9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 F09
 Предохранитель EMS_3/катушка
@@ -49527,7 +46598,6 @@ F09
 F10
 
 ### 10A
-`livan_9_ru_9b3cbd5d` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:186 | doc_type:owners_manual
 -
 F11
 Предохранитель правой фары
@@ -49536,7 +46606,6 @@ F11
 -
 
 ### Предохранитель левой фары
-`livan_9_ru_035ab8b9` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:186 | doc_type:owners_manual
 ближний свет
 10A
 -
@@ -49545,7 +46614,6 @@ F13
 дальний свет
 
 ### 10A
-`livan_9_ru_9b3cbd5d` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:186 | doc_type:owners_manual
 -
 F14
 Предохранитель правой фары
@@ -49554,7 +46622,6 @@ F14
 -
 
 ### 10A
-`livan_9_ru_9b3cbd5d` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:186 | doc_type:owners_manual
 -
 F16
 Предохранитель IBS*/датчик
@@ -49563,7 +46630,6 @@ F16
 -
 
 ### F17
-`livan_9_ru_d4cfeb42` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:186 | doc_type:owners_manual
 Предохранитель high beam*
 20A
 -
@@ -49571,7 +46637,6 @@ F18
 Предохранитель EHA/HCАэлектрогидравлический привод
 
 ### 30A
-`livan_9_ru_53928236` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:186 | doc_type:owners_manual
 -
 F19
 Предохранитель переднего
@@ -49580,7 +46645,6 @@ F19
 -
 
 ### F21
-`livan_9_ru_713251ff` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 Предохранитель ESC IG+
 5A
 -
@@ -49588,7 +46652,6 @@ F22
 Предохранитель TCU IG+ *
 
 ### 5A
-`livan_9_ru_55fa7b99` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 F23
 Предохранитель EMS IG+
@@ -49598,7 +46661,6 @@ F24
 Предохранитель BOX IG1+
 
 ### 15A
-`livan_9_ru_26198dd9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 F27
 Предохранитель ST F/D start-up
@@ -49609,7 +46671,6 @@ SB01
 Предохранитель ESC_1
 
 ### 40A
-`livan_9_ru_95924da2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 -
 SB02
 Предохранитель B+_1
@@ -49630,7 +46691,6 @@ SB02
 еля
 
 ### Величина в
-`livan_9_ru_faca8e58` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 амперах
 Примечания
 SB03
@@ -49640,7 +46700,6 @@ SB03
 SB04
 
 ### Предохранитель обогрева
-`livan_9_ru_b8725b38` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:187 | doc_type:owners_manual
 сидений и электропривода
 30A
 -
@@ -49648,7 +46707,6 @@ SB05
 Предохранитель ACC
 
 ### 25A
-`livan_9_ru_38ec121c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 -
 SB06
 Предохранитель LO FAN
@@ -49658,7 +46716,6 @@ SB07
 Предохранитель вентилятора
 
 ### 40A
-`livan_9_ru_b2ef7e62` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 -
 SB08
 Предохранитель IG2 RLY PWR*
@@ -49668,7 +46725,6 @@ SB09
 Предохранитель HI FAN
 
 ### 60A
-`livan_9_ru_fa007c44` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:187 | doc_type:owners_manual
 -
 SB10
 Предохранитель стартера
@@ -49679,7 +46735,6 @@ SB11
 стеклоподъёмника
 
 ### 30A
-`livan_9_ru_d515f3ac` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 -
 SB12
 Предохранитель IG1
@@ -49689,7 +46744,6 @@ SB12
 186
 
 ### Внутренний
-`livan_9_ru_3cdc7b0b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 блок
 предохранителей
 Модель 1
@@ -49706,21 +46760,18 @@ SB12
 Модель 2
 
 ### Внутренний
-`livan_9_ru_3cdc7b0b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 блок
 предохранителей
 расположен с левой стороны приборной
 панели.
 
 ### Доступ
-`livan_9_ru_afda7b59` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 к
 предохранителям
 можно получить, сняв левый ящик для
 хранения.
 
 ### Неисправности во время вождения
-`livan_9_ru_27188df8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 6
 8
 7
@@ -49736,7 +46787,6 @@ SB12
 Наименование
 
 ### Величина в
-`livan_9_ru_cb46af91` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 амперах
 Примечания
 F01
@@ -49744,7 +46794,6 @@ F01
 контроллера A/C
 
 ### 10A
-`livan_9_ru_c8e709d5` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:189 | doc_type:owners_manual
 -
 F02
 Предохранитель мультимедиа/
@@ -49756,7 +46805,6 @@ F03
 вида*
 
 ### 10A
-`livan_9_ru_c8e709d5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 -
 F04
 РЕЗЕРВ
@@ -49767,7 +46815,6 @@ F05
 -
 
 ### 20A
-`livan_9_ru_a65b0109` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:189 | doc_type:owners_manual
 -
 F08
 Предохранитель подсветки
@@ -49777,7 +46824,6 @@ F08
 F13
 
 ### 5A
-`livan_9_ru_1b0c83f8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:189 | doc_type:owners_manual
 -
 Неисправности во время вождения
 188
@@ -49786,7 +46832,6 @@ F13
 теля
 
 ### Величина в
-`livan_9_ru_00de7b9c` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:190 | doc_type:owners_manual
 амперах
 Примечания
 переключения передач *
@@ -49795,7 +46840,6 @@ F14
 безопасности
 
 ### 10A
-`livan_9_ru_607f5bc0` | 9 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:190 | doc_type:owners_manual
 -
 F15
 Предохранитель EPS_IG+
@@ -49806,7 +46850,6 @@ F16
 наклона/переключателя EPB
 
 ### 5A
-`livan_9_ru_783137f1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 -
 F18
 Приборный предохранитель
@@ -49817,7 +46860,6 @@ F19
 переключения передач *
 
 ### 5A
-`livan_9_ru_783137f1` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:190 | doc_type:owners_manual
 -
 F20
 РЕЗЕРВ
@@ -49827,7 +46869,6 @@ F23
 -
 
 ### Предохранитель заднего
-`livan_9_ru_2ef8089d` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:190 | doc_type:owners_manual
 стеклоочистителя*
 15A
 -
@@ -49835,7 +46876,6 @@ F25
 Предохранитель кондиционера
 
 ### 10A
-`livan_9_ru_607f5bc0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 -
 F26
 Предохранитель BCM_IG+
@@ -49845,7 +46885,6 @@ F27
 Предохранитель люка
 
 ### 5A
-`livan_9_ru_783137f1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 -
 F28
 Предохранитель BCM_ACC+
@@ -49856,7 +46895,6 @@ F29
 регулировка зеркала
 
 ### 10A
-`livan_9_ru_607f5bc0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 -
 F30
 Предохранитель USB
@@ -49866,7 +46904,6 @@ F31
 Предохранитель резервного питания*
 
 ### 15A
-`livan_9_ru_df303884` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 -
 F32
 Предохранитель обогрева зеркал
@@ -49876,7 +46913,6 @@ F34
 Предохранитель люка
 
 ### 5A
-`livan_9_ru_783137f1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 -
 F35
 Предохранитель BCM1_B+
@@ -49886,7 +46922,6 @@ F36
 Предохранитель BCM2_B+
 
 ### 30A
-`livan_9_ru_e722c89d` | 9 | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:190 | doc_type:owners_manual
 -
 F37
 Приборный предохранитель
@@ -49897,7 +46932,6 @@ F38
 системы
 
 ### 20A
-`livan_9_ru_4330a48b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 -
 Неисправности во время вождения
 6
@@ -49914,14 +46948,12 @@ F38
 теля
 
 ### Величина в
-`livan_9_ru_9cc878db` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 амперах
 Примечания
 F39
 Диагностический предохранитель
 
 ### 10A
-`livan_9_ru_2af8402a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 -
 SB1
 Предохранитель обогрева заднего
@@ -49932,7 +46964,6 @@ SB4
 Предохранитель люка*
 
 ### 25A
-`livan_9_ru_3f85f072` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:191 | doc_type:owners_manual
 -
 SB5
 Предохранитель левого
@@ -49943,7 +46974,6 @@ SB5
 190
 
 ### Осмотр
-`livan_9_ru_09d30d4b` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:192 | doc_type:owners_manual
 и
 замена
 предохранителя
@@ -49955,7 +46985,6 @@ SB5
 аккумулятора.
 
 ### 2. Зажмите
-`livan_9_ru_6f4c0e05` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 головку
 предохранителя
 одним концом щипцов и потяните,
@@ -49971,7 +47000,6 @@ SB5
 перегорел ли металлический провод.
 
 ### 3. Замените
-`livan_9_ru_b425af6d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 перегоревший
 предохранитель на новый с таким же
 значением
@@ -49995,7 +47023,6 @@ SB5
 обслуживания
 
 ### LIVAN
-`livan_9_ru_8d6563ee` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 для проведения ремонта.
 Неисправности во время вождения
 6
@@ -50009,7 +47036,6 @@ SB5
 191
 
 ### Модели ламп
-`livan_9_ru_e27e7280` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:193 | doc_type:owners_manual
 Замена ламп обычно требует демонтажа некоторых компонентов автомобиля, поэтому
 для соответствующих операций требуются профессиональные навыки. Эксплуатация
 ламп, доступ к которым возможен только из передней части моторного отсека,
@@ -50018,7 +47044,6 @@ SB5
 и замены ламп.
 
 ### Название
-`livan_9_ru_c24ee977` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:193 | doc_type:owners_manual
 детали
 Название лампы
 Модель лампы
@@ -50028,7 +47053,6 @@ SB5
 фара
 
 ### LED
-`livan_9_ru_475537e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:193 | doc_type:owners_manual
 -
 Фары ближнего света
 LED
@@ -50038,7 +47062,6 @@ LED
 -
 
 ### LED
-`livan_9_ru_475537e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:193 | doc_type:owners_manual
 -
 Дневные ходовые
 огни*
@@ -50050,7 +47073,6 @@ LED
 фонарь 1
 
 ### Задние габаритные
-`livan_9_ru_075e99cf` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:193 | doc_type:owners_manual
 огни
 LED
 -
@@ -50061,7 +47083,6 @@ LED
 Стоп-сигнал
 
 ### LED
-`livan_9_ru_475537e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:193 | doc_type:owners_manual
 -
 Задний
 комбиниро
@@ -50070,7 +47091,6 @@ LED
 Фонари заднего хода
 
 ### LED
-`livan_9_ru_475537e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:193 | doc_type:owners_manual
 -
 Задние габаритные
 огни
@@ -50081,7 +47101,6 @@ LED
 Центральный стопсигнал
 
 ### LED
-`livan_9_ru_475537e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:193 | doc_type:owners_manual
 -
 Задние
 противот
@@ -50092,7 +47111,6 @@ LED
 фары
 
 ### LED
-`livan_9_ru_475537e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:193 | doc_type:owners_manual
 -
 Фонарь
 освещения
@@ -50102,7 +47120,6 @@ LED
 номерного знака
 
 ### W5W
-`livan_9_ru_b5494af1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 5Вт
 Неисправности во время вождения
 192
@@ -50110,7 +47127,6 @@ LED
 детали
 
 ### Лампа для
-`livan_9_ru_3ff60a09` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:194 | doc_type:owners_manual
 чтения
 Передняя лампа для
 чтения
@@ -50120,7 +47136,6 @@ LED
 чтения*
 
 ### LED
-`livan_9_ru_11b4e2e9` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:194 | doc_type:owners_manual
 -
 Лампа
 подсветки
@@ -50129,7 +47144,6 @@ LED
 багажника*
 
 ### W5W
-`livan_9_ru_9f984a07` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 5Вт
 Неисправности во время вождения
 6
@@ -50143,7 +47157,6 @@ LED
 193
 
 ### Действия
-`livan_9_ru_ff6d2ef9` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:195 | doc_type:owners_manual
 в
 аварийной
 обстановке
@@ -50170,7 +47183,6 @@ LED
 следующими процедурами:
 
 ### 1. Съедьте с дороги в безопасное место,
-`livan_9_ru_2246f126` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:195 | doc_type:owners_manual
 затем
 остановитесь
 и
@@ -50178,7 +47190,6 @@ LED
 аварийную световую сигнализацию.
 
 ### Установите
-`livan_9_ru_db4161f6` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:195 | doc_type:owners_manual
 коробку
 передач
 в
@@ -50194,7 +47205,6 @@ LED
 следует выключить.
 
 ### 2. Остановите
-`livan_9_ru_56a3be88` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:195 | doc_type:owners_manual
 двигатель,
 если
 из
@@ -50223,7 +47233,6 @@ LED
 переключатель запуска.
 
 ### 3. Осмотрите
-`livan_9_ru_14b49676` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:195 | doc_type:owners_manual
 приводной
 ремень
 двигателя (ремень водяного насоса)
@@ -50238,7 +47247,6 @@ LED
 жидкости.
 
 ### Однако
-`livan_9_ru_1ad667e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 если
 из
 работающего
@@ -50246,7 +47254,6 @@ LED
 это нормально.
 
 ### 4. Если
-`livan_9_ru_9acef4be` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:195 | doc_type:owners_manual
 ремень
 привода
 водяного
@@ -50272,7 +47279,6 @@ LED
 проведения ремонта.
 
 ### 5. Если
-`livan_9_ru_a4e4cffe` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:195 | doc_type:owners_manual
 нет
 проблем
 с
@@ -50306,7 +47312,6 @@ LED
 остынет, проверьте уровень.
 
 ### 6. После
-`livan_9_ru_52d7fcf8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 того,
 как
 температура
@@ -50328,7 +47333,6 @@ LED
 метки
 
 ### Сильные
-`livan_9_ru_2a25ac77` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 потери
 охлаждающей
 жидкости
@@ -50343,7 +47347,6 @@ LED
 обслуживания
 
 ### LIVAN
-`livan_9_ru_7409e5c8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 для проведения диагностики.
 7. Летом
 после
@@ -50355,7 +47358,6 @@ LED
 автоматически, даже на долгое время
 
 ### Неисправности во время вождения
-`livan_9_ru_be49b1fd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 194
 - это нормально. После того, как
 температура двигателя снизится до
@@ -50365,7 +47367,6 @@ LED
 автоматически выключится.
 
 ### Во избежание травм держите капот
-`livan_9_ru_0cd772aa` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:196 | doc_type:owners_manual
 двигателя закрытым до тех пор,
 пока
 не
@@ -50404,7 +47405,6 @@ LED
 радиатора.
 
 ### Выбрасываемый
-`livan_9_ru_c6cf933e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 высокотемпературный
 пар
 и
@@ -50415,7 +47415,6 @@ LED
 серьезным травмам.
 
 ### Система вызова экстренных
-`livan_9_ru_41097e43` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 оперативных
 служб
 (ЭРАГЛОНАСС)*
@@ -50430,7 +47429,6 @@ LED
 служб
 
 ### (ЭОС),
-`livan_9_ru_a18ee31e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 передачи
 минимального набора данных (МНД) с
 описанием автомобиля, координат его
@@ -50443,7 +47441,6 @@ LED
 государственной федеральной системы
 
 ### Динамик SOS расположен под группой
-`livan_9_ru_a3e956f9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 переключателей
 приборной
 панели
@@ -50459,7 +47456,6 @@ LED
 эксплуатации
 
 ### УВЭОС
-`livan_9_ru_50764db1` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:196 | doc_type:owners_manual
 представлен
 в
 электронном
@@ -50475,7 +47471,6 @@ QR
 документе "Паспорт УВЭОС".
 
 ### Неисправности во время вождения
-`livan_9_ru_469a8999` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 6
 8
 7
@@ -50500,7 +47495,6 @@ QR
 обочине.
 
 ### 2. Включите
-`livan_9_ru_b1e4b1f8` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:197 | doc_type:owners_manual
 аварийные
 сигнальные
 лампы.
@@ -50528,7 +47522,6 @@ QR
 будет труднее, чем обычно.
 
 ### Если автомобиль застрял
-`livan_9_ru_71a0877e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 Если автомобиль застрял в снегу, грязи,
 песке и т. д., необходимо попытаться
 переключиться между передней и задней
@@ -50574,7 +47567,6 @@ QR
 пробуксовки колес.
 
 ### Если автомобиль не освободился после
-`livan_9_ru_1f11c251` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 колебательных
 движений
 в
@@ -50589,7 +47581,6 @@ QR
 другие методы.
 
 ### Неисправности во время вождения
-`livan_9_ru_97f4131b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 196
 7
 8
@@ -50607,7 +47598,6 @@ QR
 обслуживание
 
 ### Регулярное
-`livan_9_ru_80720e42` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 техническое
 обслуживание
 необходимо
@@ -50620,7 +47610,6 @@ QR
 технического обслуживания.
 
 ### Правильное техническое обслуживание
-`livan_9_ru_a52adccb` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 автомобиля
 не
 только
@@ -50647,7 +47636,6 @@ QR
 дышим.
 
 ### Неправильный
-`livan_9_ru_180d1fa7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 уровень
 жидкостей или неправильное давление в
 шинах может увеличить объем выбросов
@@ -50665,7 +47653,6 @@ QR
 необходимо правильно обслуживать его.
 
 ### Если автомобиль эксплуатируется в
-`livan_9_ru_a52b03a0` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 указанных ниже тяжелых условиях,
 рекомендуется
 проходить
@@ -50675,7 +47662,6 @@ QR
 •
 
 ### Автомобиль
-`livan_9_ru_ab0f40e4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 эксплуатируется
 на
 короткие расстояния (менее 10 км) в
@@ -50684,7 +47670,6 @@ QR
 •
 
 ### Автомобиль
-`livan_9_ru_ab0f40e4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 в
 течение
 длительного
@@ -50702,7 +47687,6 @@ QR
 •
 
 ### Чрезмерная работа на холостом ходу
-`livan_9_ru_be245ae7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 или
 длительная
 езда
@@ -50712,7 +47696,6 @@ QR
 •
 
 ### Частое
-`livan_9_ru_220b3d17` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 вождение
 с
 постоянными
@@ -50723,7 +47706,6 @@ QR
 •
 
 ### Частое вождение по песчаным или
-`livan_9_ru_b901e090` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 пыльным дорогам;
 •
 Частое
@@ -50734,7 +47716,6 @@ QR
 •
 
 ### Применение
-`livan_9_ru_1472b05d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 топлива,
 не
 соответствующего
@@ -50756,7 +47737,6 @@ QR
 двигателе.
 
 ### 1. Городские условия: средняя скорость
-`livan_9_ru_32cfda49` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:199 | doc_type:owners_manual
 30-40 км/ч. Время в пути более 50
 минут;
 2. Режим
@@ -50779,7 +47759,6 @@ QR
 стоянки.
 
 ### Ремонт и обслуживание
-`livan_9_ru_d69dbd46` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
 198
 Рекомендуется парковать автомобиль в
 теплом месте, защищенном от ветра,
@@ -50803,7 +47782,6 @@ QR
 -
 
 ### 35° С
-`livan_9_ru_485d8480` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:200 | doc_type:owners_manual
 -
 предел
 температуры
@@ -50824,7 +47802,6 @@ QR
 масло
 
 ### 0W),
-`livan_9_ru_71735397` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:200 | doc_type:owners_manual
 двигатель
 столкнется
 с
@@ -50836,7 +47813,6 @@ QR
 эксплуатацию.
 
 ### Программа
-`livan_9_ru_5ed96a14` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:200 | doc_type:owners_manual
 обслуживания
 во
 время использования
@@ -50868,7 +47844,6 @@ QR
 обслуживания
 
 ### Данный
-`livan_9_ru_6b0198fc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:200 | doc_type:owners_manual
 план
 технического
 обслуживания
@@ -50904,7 +47879,6 @@ QR
 «Запуск двигателя и вождениее.
 
 ### Обслуживание автомобиля может
-`livan_9_ru_3123bdf7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:200 | doc_type:owners_manual
 быть
 опасными.
 Выполняя
@@ -50934,7 +47908,6 @@ QR
 проведения технического обслуживания.
 
 ### Некоторые
-`livan_9_ru_8aff225a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:200 | doc_type:owners_manual
 элементы
 обслуживания
 являются сложным процессом. Поэтому,
@@ -50944,7 +47917,6 @@ QR
 обслуживания
 
 ### LIVAN
-`livan_9_ru_9d1a13de` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:200 | doc_type:owners_manual
 для
 проведения
 технического
@@ -50967,7 +47939,6 @@ QR
 данныее.
 
 ### Перед началом движения вы или другой
-`livan_9_ru_5c5b6a33` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:200 | doc_type:owners_manual
 водитель
 должен
 проверить
@@ -50976,7 +47947,6 @@ QR
 все детали, которым
 
 ### Ремонт и обслуживание
-`livan_9_ru_2aa9b8f3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:200 | doc_type:owners_manual
 7
 8
 6
@@ -50997,7 +47967,6 @@ QR
 обслуживания LIVAN.
 
 ### Отметки
-`livan_9_ru_51744676` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 о
 прохождении
 технического обслуживания
@@ -51022,7 +47991,6 @@ QR
 обслуживании.
 
 ### Ваш автомобиль оснащен устройством
-`livan_9_ru_ea228128` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 контроля
 выбросов
 и
@@ -51050,7 +48018,6 @@ QR
 нейтрализатора и двигателя.
 
 ### Несанкционированные
-`livan_9_ru_6b663549` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 изменения,
 модификации
 и
@@ -51073,7 +48040,6 @@ QR
 показатели выбросов автомобиля.
 
 ### Техническое
-`livan_9_ru_f452ba83` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 обслуживание
 автовладельцем
 При значительном или внезапном
@@ -51095,7 +48061,6 @@ QR
 обслуживания LIVAN.
 
 ### В
-`livan_9_ru_0818d195` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 дополнение
 к
 техническому
@@ -51111,7 +48076,6 @@ QR
 рекомендаций для вас:
 
 ### Ежедневный осмотр
-`livan_9_ru_277e8d20` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 •
 Работоспособность
 фар,
@@ -51121,7 +48085,6 @@ QR
 •
 
 ### Работоспособность
-`livan_9_ru_a1df2591` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:201 | doc_type:owners_manual
 ремня
 безопасности и тормоза.
 •
@@ -51132,7 +48095,6 @@ QR
 Проверьте внешний вид шин.
 
 ### Еженедельный осмотр
-`livan_9_ru_00fcd313` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 •
 Уровень моторного масла.
 •
@@ -51142,7 +48104,6 @@ QR
 •
 
 ### Уровень
-`livan_9_ru_894393e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 жидкости
 омывателя
 ветрового стекла.
@@ -51151,7 +48112,6 @@ QR
 •
 
 ### Работа системы кондиционирования
-`livan_9_ru_da09e3dc` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:201 | doc_type:owners_manual
 воздуха.
 Если автомобиль часто и в течение
 длительного
@@ -51165,7 +48125,6 @@ QR
 проверять моторное масло.
 
 ### Ремонт и обслуживание
-`livan_9_ru_e6fc8919` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 200
 Восемь
 правил
@@ -51174,13 +48133,11 @@ QR
 возгораний в автомобиле
 
 ### 1. Запрещается
-`livan_9_ru_ecc8a302` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 хранить
 легковоспламеняющиеся вещества в
 автомобиле.
 
 ### Легковоспламеняющиеся
-`livan_9_ru_39778837` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 и
 взрывоопасные
 материалы
@@ -51190,7 +48147,6 @@ QR
 пожар (зажигалки и т. д.).
 
 ### 2. Не
-`livan_9_ru_38692053` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 допускайте
 прямого
 контакта
@@ -51205,7 +48161,6 @@ QR
 возникнет пожар.
 
 ### 3. Запрещается
-`livan_9_ru_23585282` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:202 | doc_type:owners_manual
 установка
 других
 декоративных фонарей, отличных от
@@ -51225,7 +48180,6 @@ QR
 нагрузки, что приведет к пожару.
 
 ### 4. При
-`livan_9_ru_5c43672d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 модификации
 автомобиля
 механической
@@ -51242,7 +48196,6 @@ CD
 возгоранию.
 
 ### 5. Запрещается
-`livan_9_ru_8f9d26d8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 использование
 ламп,
 отличающихся
@@ -51256,7 +48209,6 @@ CD
 и это может привести к возгоранию.
 
 ### 6. Запрещается нажимать педаль газа в
-`livan_9_ru_bed633ca` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:202 | doc_type:owners_manual
 течение
 длительного
 времени
@@ -51272,7 +48224,6 @@ CD
 автомобиля.
 
 ### Вплоть
-`livan_9_ru_8cf4d016` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:202 | doc_type:owners_manual
 до
 возгорания топливного бака..
 7. Моторный
@@ -51289,7 +48240,6 @@ CD
 моторном отсеке.
 
 ### Ремонт и обслуживание
-`livan_9_ru_37b45b4d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 7
 8
 6
@@ -51304,7 +48254,6 @@ CD
 случиться пожар.
 
 ### Токсичные жидкости
-`livan_9_ru_6b48c784` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 Жидкости, используемые в автомобиле,
 токсичны, их нельзя проглатывать или
 допускать
@@ -51314,7 +48263,6 @@ CD
 раны.
 
 ### К
-`livan_9_ru_b27210d2` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:203 | doc_type:owners_manual
 токсичным
 жидкостям
 относятся:
@@ -51334,7 +48282,6 @@ CD
 на этикетке и емкости.
 
 ### Использованное
-`livan_9_ru_2b4f66db` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:203 | doc_type:owners_manual
 моторное
 масло
 Длительный контакт с моторным маслом
@@ -51349,7 +48296,6 @@ CD
 не загрязнять окружающую среду.
 
 ### Ремонт и обслуживание
-`livan_9_ru_64b7e2d4` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:203 | doc_type:owners_manual
 202
 Моторный отсек
 Капот моторного отсека
@@ -51364,7 +48310,6 @@ CD
 следующие действия:
 
 ### 1. Потяните ручку открывания капота,
-`livan_9_ru_9dfd40af` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:204 | doc_type:owners_manual
 расположенную в левом нижнем углу
 приборной
 панели
@@ -51373,7 +48318,6 @@ CD
 водителя внутри автомобиля.
 
 ### 2. Слегка
-`livan_9_ru_c2d4c048` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:204 | doc_type:owners_manual
 приподнимите
 капот,
 поверните
@@ -51387,7 +48331,6 @@ CD
 и поднимите капот вверх.
 
 ### 3. Используйте
-`livan_9_ru_28744b24` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:204 | doc_type:owners_manual
 опорный
 стержень,
 чтобы установить на него капот.
@@ -51397,7 +48340,6 @@ CD
 отсека
 
 ### Прежде
-`livan_9_ru_946c9c02` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:204 | doc_type:owners_manual
 чем
 закрыть
 капот,
@@ -51418,7 +48360,6 @@ CD
 закрыты.
 
 ### Вставьте
-`livan_9_ru_e4f1231f` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:204 | doc_type:owners_manual
 опорную
 планку
 капота
@@ -51454,7 +48395,6 @@ CD
 открыться и закрыть обзор водителю, что
 
 ### Ремонт и обслуживание
-`livan_9_ru_3c545bb2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 7
 8
 6
@@ -51475,7 +48415,6 @@ CD
 травмам или даже смерти.
 
 ### Ремонт и обслуживание
-`livan_9_ru_57fc6a61` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:205 | doc_type:owners_manual
 204
 Моторный отсек
 Ремонт и обслуживание
@@ -51491,7 +48430,6 @@ CD
 1.
 
 ### Расширительный
-`livan_9_ru_b84e49d4` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:207 | doc_type:owners_manual
 бак
 охлаждающей жидкости
 6.
@@ -51500,7 +48438,6 @@ CD
 2.
 
 ### Крышка
-`livan_9_ru_702c5aac` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:207 | doc_type:owners_manual
 заливной
 горловины
 моторного масла
@@ -51509,7 +48446,6 @@ CD
 3.
 
 ### Декоративная крышка двигателя
-`livan_9_ru_f0ca4a27` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:207 | doc_type:owners_manual
 8.
 Щуп для проверки уровня масла в
 двигателе
@@ -51518,7 +48454,6 @@ CD
 9.
 
 ### Бачок жидкости стеклоомывателя
-`livan_9_ru_3e40413d` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:207 | doc_type:owners_manual
 5.
 Бачок для тормозной жидкости
 Некоторые модели не оснащены декоративной крышкой двигателя.
@@ -51543,7 +48478,6 @@ CD
 материалов, в результате чего могут возникнуть термические повреждения.
 
 ### Ремонт и обслуживание
-`livan_9_ru_c8c8170f` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:207 | doc_type:owners_manual
 206
 Моторное
 масло
@@ -51584,7 +48518,6 @@ CD
 измерения уровня масла.
 
 ### 1. Заглушите двигатель и подождите 10
-`livan_9_ru_6778d318` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:208 | doc_type:owners_manual
 минут,
 пока
 моторное
@@ -51596,7 +48529,6 @@ CD
 не показывать фактический уровень.
 
 ### 2. Вытащите масляный щуп, протрите
-`livan_9_ru_1cd0646e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:208 | doc_type:owners_manual
 его
 бумажным
 полотенцем
@@ -51605,7 +48537,6 @@ CD
 дно.
 
 ### 3. Снова
-`livan_9_ru_95f789fd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:208 | doc_type:owners_manual
 вытащите
 масляный
 щуп,
@@ -51618,7 +48549,6 @@ CD
 на щупе.
 
 ### 4. Если уровень моторного масла ниже
-`livan_9_ru_9b8d21bd` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:208 | doc_type:owners_manual
 отметки
 MIN,
 отвинтите
@@ -51635,7 +48565,6 @@ MIN,
 отметками MAX и MIN.
 
 ### 5. Повторно
-`livan_9_ru_46140c71` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:208 | doc_type:owners_manual
 запустите
 двигатель
 и
@@ -51655,7 +48584,6 @@ MIN,
 количество моторного масла.
 
 ### 6. Наконец,
-`livan_9_ru_061e783e` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:208 | doc_type:owners_manual
 убедитесь,
 что
 маслоизмерительный щуп правильно
@@ -51704,7 +48632,6 @@ MIN,
 разделе 8 «Технические данныее.
 
 ### Утилизируйте
-`livan_9_ru_b54910a6` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:208 | doc_type:owners_manual
 отработанное
 моторное масло в соответствии с
 применимыми
@@ -51714,7 +48641,6 @@ MIN,
 окружающей среды.
 
 ### Ремонт и обслуживание
-`livan_9_ru_9e801eb5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:208 | doc_type:owners_manual
 7
 8
 6
@@ -51731,7 +48657,6 @@ MIN,
 двигателя
 
 ### Воздушный
-`livan_9_ru_b9f0a866` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:209 | doc_type:owners_manual
 фильтр
 двигателя
 расположен
@@ -51742,7 +48667,6 @@ MIN,
 части.
 
 ### Когда следует проверять воздушный
-`livan_9_ru_0113022c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 фильтр/фильтрующий
 элемент
 двигателя
@@ -51759,7 +48683,6 @@ MIN,
 книжке.
 
 ### Если вы хотите проверить воздушный
-`livan_9_ru_11154e94` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 фильтр/фильтрующий элемент, снимите
 его
 с
@@ -51769,7 +48692,6 @@ MIN,
 встряхните, чтобы удалить пыль и грязь.
 
 ### Если на фильтрующем элементе все еще
-`livan_9_ru_a7d9c3f3` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 остается грязь, замените его на новый.
 Регулярно
 очищайте
@@ -51778,18 +48700,15 @@ MIN,
 правилами технического обслуживания.
 
 ### Герметичность системы впуска воздуха и
-`livan_9_ru_459827ab` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 выхлопной системы следует регулярно
 проверять во время эксплуатации.
 
 ### Замена
-`livan_9_ru_5b572606` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 воздушного
 фильтра/
 фильтрующего элемента двигателя
 
 ### 2. Ослабьте
-`livan_9_ru_9d1c47b6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 кольцевую
 втулку
 выпускной
@@ -51798,7 +48717,6 @@ MIN,
 фильтра и отсоедините трубу.
 
 ### 3. Ослабьте винты вокруг верхней части
-`livan_9_ru_52bcf3e2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 корпуса
 воздушного
 фильтрующего
@@ -51814,7 +48732,6 @@ MIN,
 фильтрующий элемент.
 
 ### 5. Визуально проверьте, не слишком ли
-`livan_9_ru_f88b6752` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 загрязнен
 воздухозаборник
 воздушного фильтрующего элемента,
@@ -51824,7 +48741,6 @@ MIN,
 воздуха или замените его.
 
 ### 6. Вставьте
-`livan_9_ru_478236e8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 воздушный
 фильтрующий
 элемент и верните его обратно в
@@ -51835,7 +48751,6 @@ MIN,
 отрегулируйте положение.
 
 ### 7. Затяните
-`livan_9_ru_3e93c9d5` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:209 | doc_type:owners_manual
 винты,
 чтобы
 крышка
@@ -51845,7 +48760,6 @@ MIN,
 пыли в двигатель.
 
 ### Ремонт и обслуживание
-`livan_9_ru_73033367` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 208
 Система охлаждения
 Информация
@@ -51854,7 +48768,6 @@ MIN,
 охлаждения
 
 ### Роль системы охлаждения заключается в
-`livan_9_ru_47939fcc` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:210 | doc_type:owners_manual
 обеспечении
 наиболее
 подходящей
@@ -51862,7 +48775,6 @@ MIN,
 двигателя.
 
 ### Интервал
-`livan_9_ru_8ec3b65f` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:210 | doc_type:owners_manual
 замены
 охлаждающей жидкости см. в графике
 технического обслуживания, указанный в
@@ -51896,7 +48808,6 @@ MIN,
 ожог.
 
 ### Запрещается
-`livan_9_ru_14b18a90` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:210 | doc_type:owners_manual
 запускать
 двигатель
 при
@@ -51918,7 +48829,6 @@ MIN,
 начала движения.
 
 ### Утилизируйте
-`livan_9_ru_190928ff` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:210 | doc_type:owners_manual
 охлаждающую
 жидкость
 в
@@ -51931,7 +48841,6 @@ MIN,
 окружающей среды.
 
 ### Проверка
-`livan_9_ru_aa52eaa1` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:210 | doc_type:owners_manual
 охлаждающей
 жидкости
 При
@@ -51968,7 +48877,6 @@ MIN,
 отметки
 
 ### L,
-`livan_9_ru_9e943de6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:210 | doc_type:owners_manual
 заполните
 расширительный
 бачок
@@ -51977,7 +48885,6 @@ MIN,
 регламентированным порядком.
 
 ### Ремонт и обслуживание
-`livan_9_ru_ffc01d8a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:210 | doc_type:owners_manual
 7
 8
 6
@@ -51997,7 +48904,6 @@ MIN,
 только после полного остывания.
 
 ### 1. Медленно
-`livan_9_ru_9e784400` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 поверните
 крышку
 расширительного
@@ -52011,13 +48917,11 @@ MIN,
 внутри все еще есть давление.
 
 ### 2. Продолжайте
-`livan_9_ru_b3265880` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 поворачивать
 крышку
 расширительного бака и снимите ее.
 
 ### Пар и кипящая жидкость из горячей
-`livan_9_ru_54dc5a5d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 системы охлаждения могут выйти
 наружу
 и
@@ -52031,7 +48935,6 @@ MIN,
 наружу.
 
 ### Никогда
-`livan_9_ru_9bb7310b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 не
 снимайте
 крышку
@@ -52048,7 +48951,6 @@ MIN,
 горячая.
 
 ### Если требуется открыть расширительный
-`livan_9_ru_9bb0075a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 бачок,
 перед
 открытием
@@ -52057,7 +48959,6 @@ MIN,
 охлаждающей жидкостью.
 
 ### 3. Добавьте
-`livan_9_ru_0b5e007f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 необходимое
 количество
 охлаждающей
@@ -52081,7 +48982,6 @@ MIN,
 жидкости разных марок и типов.
 
 ### Различные
-`livan_9_ru_6284e2ef` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 химические
 компоненты,
 такие
@@ -52120,7 +49020,6 @@ LIVAN. Повреждения или неисправности,
 гарантией LIVAN.
 
 ### 4. При
-`livan_9_ru_3fe4b869` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:211 | doc_type:owners_manual
 открытой
 верхней
 крышке
@@ -52136,14 +49035,12 @@ LIVAN. Повреждения или неисправности,
 нагреваться.
 
 ### Следите
-`livan_9_ru_3c5aeab8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 за
 вентилятором охлаждения двигателя.
 Ремонт и обслуживание
 210
 
 ### В это время уровень охлаждающей
-`livan_9_ru_e406d905` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
 жидкости
 в
 расширительном
@@ -52164,7 +49061,6 @@ L, добавьте необходимое количество
 положения между отметками F и L.
 
 ### 5. Закрытие
-`livan_9_ru_14a94397` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
 крышки.
 Убедитесь,
 что
@@ -52208,7 +49104,6 @@ L, добавьте необходимое количество
 как можно скорее.
 
 ### Автомобиль
-`livan_9_ru_6f7622f2` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:212 | doc_type:owners_manual
 с
 хорошими
 тормозными
@@ -52242,7 +49137,6 @@ L, добавьте необходимое количество
 безопасности движения.
 
 ### Изношенные тормозные колодки не могут
-`livan_9_ru_6f232df3` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:212 | doc_type:owners_manual
 эффективно
 тормозить
 автомобиль.
@@ -52276,7 +49170,6 @@ L, добавьте необходимое количество
 сервисной книжке.
 
 ### Периодичность
-`livan_9_ru_74fdfe2d` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:212 | doc_type:owners_manual
 технического
 обслуживания см. график технического
 обслуживания, указанный в сервисной
@@ -52301,7 +49194,6 @@ L, добавьте необходимое количество
 торможения.
 
 ### Экстренное торможение не должно
-`livan_9_ru_4e33f1bf` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
 применяться
 при
 движении
@@ -52311,7 +49203,6 @@ L, добавьте необходимое количество
 дождливым,
 
 ### Ремонт и обслуживание
-`livan_9_ru_b0806180` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
 7
 8
 6
@@ -52325,7 +49216,6 @@ L, добавьте необходимое количество
 дорогам.
 
 ### Перед движением по затяжному спуску
-`livan_9_ru_5d27c7eb` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:213 | doc_type:owners_manual
 следует
 перевести
 автомобиль
@@ -52351,7 +49241,6 @@ L, добавьте необходимое количество
 и обеспечить восстановление тормоза.
 
 ### Обязательно
-`livan_9_ru_4570d45f` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:213 | doc_type:owners_manual
 посетите
 станцию
 технического
@@ -52368,7 +49257,6 @@ Livan
 торможение.
 
 ### Новые тормозные колодки обладают не
-`livan_9_ru_d618bf73` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:213 | doc_type:owners_manual
 самыми
 лучшими
 фрикционными
@@ -52414,7 +49302,6 @@ Livan
 и несчастных случаев.
 
 ### Если педаль тормоза не возвращается к
-`livan_9_ru_2d567502` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:213 | doc_type:owners_manual
 нормальной
 высоте
 или
@@ -52424,7 +49311,6 @@ Livan
 центр технического обслуживания LIVAN.
 
 ### Это может
-`livan_9_ru_b1a06556` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:213 | doc_type:owners_manual
 быть
 признаком
 того,
@@ -52436,7 +49322,6 @@ Livan
 обслуживании.
 
 ### Звук тормозов
-`livan_9_ru_3ac5e5a7` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:213 | doc_type:owners_manual
 Нажмите на педаль тормоза, передние и
 задние
 тормоза
@@ -52478,7 +49363,6 @@ Livan
 тормозной системы.
 
 ### Звук тормозов при трогании с
-`livan_9_ru_28be7766` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:213 | doc_type:owners_manual
 места
 Звук
 трения
@@ -52504,7 +49388,6 @@ Livan
 передаче
 
 ### D,
-`livan_9_ru_7258584b` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:213 | doc_type:owners_manual
 двигатель
 вырабатывает
 движущую
@@ -52514,7 +49397,6 @@ Livan
 нажатии педали тормоза он все еще
 
 ### Ремонт и обслуживание
-`livan_9_ru_1431d44b` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:213 | doc_type:owners_manual
 212
 остается
 неподвижным,
@@ -52539,7 +49421,6 @@ Livan
 автомобиля.
 
 ### Звук руля при нажатии педали
-`livan_9_ru_f8f42672` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:214 | doc_type:owners_manual
 тормоза на месте
 Когда автомобиль неподвижен, колеса
 прокручиваются при повороте рулевого
@@ -52547,7 +49428,6 @@ Livan
 тормоза, колеса прокручиваться не будут.
 
 ### При одновременном действии рулевого и
-`livan_9_ru_0c17b2a9` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:214 | doc_type:owners_manual
 тормозного
 усилия
 транспортное
@@ -52563,7 +49443,6 @@ Livan
 работу и эксплуатацию автомобиля.
 
 ### Повышенная
-`livan_9_ru_bd3fe0a0` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:214 | doc_type:owners_manual
 температура
 тормозных
 дисков
@@ -52600,7 +49479,6 @@ Livan
 обжечься.
 
 ### Замена
-`livan_9_ru_d3e171d7` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:214 | doc_type:owners_manual
 компонентов
 тормозной системы
 Тормозная система автомобилей очень
@@ -52630,7 +49508,6 @@ Livan
 чина
 
 ### Стандартная толщина
-`livan_9_ru_a33cb964` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:214 | doc_type:owners_manual
 передних тормозных
 колодок
 мм
@@ -52642,7 +49519,6 @@ Livan
 3
 
 ### Стандартная толщина
-`livan_9_ru_a33cb964` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:214 | doc_type:owners_manual
 задних тормозных
 колодок
 мм
@@ -52654,7 +49530,6 @@ Livan
 3
 
 ### Заполните
-`livan_9_ru_fe9a4f6d` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:214 | doc_type:owners_manual
 бачок
 тормозной
 жидкости
@@ -52671,7 +49546,6 @@ Livan
 213
 
 ### Уровень тормозной
-`livan_9_ru_5167b968` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:215 | doc_type:owners_manual
 жидкости
 в
 бачке
@@ -52689,12 +49563,10 @@ Livan
 норму.
 
 ### 2. Также причиной низкого уровня может
-`livan_9_ru_cfb6a423` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:215 | doc_type:owners_manual
 быть утечка тормозной жидкости из
 тормозной гидравлической системы.
 
 ### Следует отремонтировать тормозную
-`livan_9_ru_bf6f5477` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:215 | doc_type:owners_manual
 гидравлическую
 систему,
 утечка
@@ -52705,7 +49577,6 @@ Livan
 тормозов.
 
 ### Если вы добавите слишком много
-`livan_9_ru_1b1a86f7` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:215 | doc_type:owners_manual
 тормозной
 жидкости,
 она
@@ -52723,7 +49594,6 @@ Livan
 автомобиля.
 
 ### Поэтому доливать тормозную жидкость
-`livan_9_ru_9e425dde` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:215 | doc_type:owners_manual
 до
 отметки
 MAX
@@ -52735,7 +49605,6 @@ MAX
 гидравлической системы.
 
 ### Когда уровень тормозной жидкости
-`livan_9_ru_c5e30e71` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:215 | doc_type:owners_manual
 падает
 до
 нижнего
@@ -52746,7 +49615,6 @@ MAX
 неисправности тормозной системы.
 
 ### Добавление тормозной жидкости не
-`livan_9_ru_1032e1b9` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:215 | doc_type:owners_manual
 решит
 проблему
 утечки.
@@ -52773,7 +49641,6 @@ MAX
 необходимости.
 
 ### Попадание тормозной жидкости на
-`livan_9_ru_6db48658` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:215 | doc_type:owners_manual
 окрашенную
 поверхность
 автомобиля
@@ -52787,7 +49654,6 @@ MAX
 ее.
 
 ### Уровень
-`livan_9_ru_409df428` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:215 | doc_type:owners_manual
 тормозной
 жидкости
 всегда
@@ -52798,7 +49664,6 @@ MAX
 MAX и MIN.
 
 ### Использование
-`livan_9_ru_6a6eee4d` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:215 | doc_type:owners_manual
 неподходящей
 жидкости
 серьезно
@@ -52806,7 +49671,6 @@ MAX и MIN.
 компоненты тормозной гидравлической
 
 ### Ремонт и обслуживание
-`livan_9_ru_124171e4` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:215 | doc_type:owners_manual
 214
 системы. Например, добавление всего
 нескольких капель минерального масла
@@ -52829,13 +49693,11 @@ MAX и MIN.
 заменить.
 
 ### Поэтому
-`livan_9_ru_6fa1f399` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:216 | doc_type:owners_manual
 недопустимо
 использовать
 некорректный тип жидкости.
 
 ### Электроусилитель
-`livan_9_ru_ad48e888` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:216 | doc_type:owners_manual
 руля
 (EPS)
 Функциональность
@@ -52845,7 +49707,6 @@ MAX и MIN.
 из основных характеристик автомобиля.
 
 ### Она напрямую влияет на управляемость
-`livan_9_ru_e4c38e2d` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:216 | doc_type:owners_manual
 автомобилем.
 Важную
 роль
@@ -52881,7 +49742,6 @@ MAX и MIN.
 вождение.
 
 ### Некоторые
-`livan_9_ru_36e38226` | 9 | pdf_manual | tier:2 | lang:ru | layer:steering | p:216 | doc_type:owners_manual
 модели
 EPS
 обеспечивают три выбираемых режима
@@ -52912,14 +49772,12 @@ EPS
 лампа
 
 ### EPS,
-`livan_9_ru_04a6139a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:216 | doc_type:owners_manual
 обратитесь
 в
 центр технического обслуживания LIVAN
 для проверки.
 
 ### Ремонт и обслуживание
-`livan_9_ru_0aca5592` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:216 | doc_type:owners_manual
 7
 8
 6
@@ -52936,7 +49794,6 @@ EPS
 комбинированных фар
 
 ### Передние
-`livan_9_ru_bee36c16` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:217 | doc_type:owners_manual
 комбинированные
 фары
 вентилируются, чтобы приспособиться к
@@ -52952,7 +49809,6 @@ EPS
 конструкцией.
 
 ### Когда через вентиляционное отверстие
-`livan_9_ru_3a20db7d` | 9 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:217 | doc_type:owners_manual
 водяной
 пар
 попадает
@@ -52987,7 +49843,6 @@ EPS
 •
 
 ### Присутствует
-`livan_9_ru_f390d994` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
 тонкий
 слой
 туманообразной влаги (без разводов,
@@ -52995,7 +49850,6 @@ EPS
 •
 
 ### Площадь
-`livan_9_ru_4b8b97fd` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
 покрытия
 туманообразной
 влагой
@@ -53005,7 +49859,6 @@ EPS
 комбинированной фары менее 50%.
 
 ### Следующие
-`livan_9_ru_e7b55964` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
 ситуации
 недопустимы
 (обычно они вызваны протечкой воды из
@@ -53013,7 +49866,6 @@ EPS
 •
 
 ### Внутри
-`livan_9_ru_a063fea7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
 передней
 комбинированный
 фары образовалась вода.
@@ -53037,7 +49889,6 @@ EPS
 обслуживания
 
 ### LIVAN
-`livan_9_ru_0028a391` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
 для
 ремонта
 автомобиля.
@@ -53046,7 +49897,6 @@ EPS
 АКБ
 
 ### Обслуживание АКБ
-`livan_9_ru_4aeca3fb` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:218 | doc_type:owners_manual
 Этот
 автомобиль
 оснащен
@@ -53077,7 +49927,6 @@ EPS
 •
 
 ### Избегайте перезарядки аккумулятора
-`livan_9_ru_ccdaf427` | 9 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:218 | doc_type:owners_manual
 или длительный недозаряд.
 •
 Когда
@@ -53093,7 +49942,6 @@ EPS
 •
 
 ### Аккумуляторы следует хранить вдали
-`livan_9_ru_cbd808a9` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:218 | doc_type:owners_manual
 от источников тепла и открытого огня,
 а также обеспечивать вентиляцию во
 время зарядки и использования, чтобы
@@ -53125,13 +49973,11 @@ EPS
 •
 
 ### Аккумулятор должен быть неподвижно
-`livan_9_ru_de57e6ee` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:218 | doc_type:owners_manual
 закреплен на транспортном средстве
 во избежание вибрации.
 •
 
 ### Регулярно
-`livan_9_ru_4de2b851` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:218 | doc_type:owners_manual
 проверяйте,
 надежно
 ли
@@ -53156,7 +50002,6 @@ EPS
 разрядки
 
 ### АКБ
-`livan_9_ru_cf5f99da` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:218 | doc_type:owners_manual
 во
 избежание
 замерзания электролита.
@@ -53172,7 +50017,6 @@ EPS
 217
 
 ### Автомобиль оснащен необслуживаемым
-`livan_9_ru_b9d0db51` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:219 | doc_type:owners_manual
 аккумулятором
 и
 не
@@ -53183,7 +50027,6 @@ EPS
 раствора.
 
 ### Обращайтесь
-`livan_9_ru_c7047317` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:219 | doc_type:owners_manual
 в
 центр
 технического
@@ -53194,7 +50037,6 @@ LIVAN
 проверки состояния аккумулятора.
 
 ### АКБ
-`livan_9_ru_05c38149` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:219 | doc_type:owners_manual
 обязательно
 следует
 осуществлять на устройство аналогичной
@@ -53208,7 +50050,6 @@ LIVAN
 замены
 
 ### АКБ
-`livan_9_ru_05c38149` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:219 | doc_type:owners_manual
 передайте
 старое
 устройство
@@ -53235,7 +50076,6 @@ LIVAN
 роняйте аккумулятор на землю.
 
 ### Аккумуляторная
-`livan_9_ru_3de0f903` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:219 | doc_type:owners_manual
 кислота
 может
 вызвать ожоги, а образующийся газ
@@ -53262,7 +50102,6 @@ LIVAN
 безопасно работать с аккумулятором.
 
 ### В состоянии покоя вследствие слабого
-`livan_9_ru_f78e1880` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:219 | doc_type:owners_manual
 потребления тока системой электроцепи
 автомобиля
 аккумулятор
@@ -53277,7 +50116,6 @@ LIVAN
 отсоединять, чтобы АКБ не разряжалась.
 
 ### Автомобиль
-`livan_9_ru_ea64ba23` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 должен
 храниться
 в
@@ -53298,7 +50136,6 @@ LIVAN
 старение деталей автомобиля ускорятся.
 
 ### Соблюдайте рекомендации и требования
-`livan_9_ru_f7c7f925` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 «Руководства
 по
 гарантии
@@ -53310,7 +50147,6 @@ LIVAN
 техническое обслуживание автомобиля.
 
 ### Ремонт и обслуживание
-`livan_9_ru_5fe2eec7` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:219 | doc_type:owners_manual
 218
 Жидкость
 омывателя
@@ -53323,7 +50159,6 @@ LIVAN
 используется
 
 ### Когда требуется промыть очистителем
-`livan_9_ru_eb5d0458` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:220 | doc_type:owners_manual
 лобовое
 стекло,
 перед
@@ -53344,7 +50179,6 @@ LIVAN
 очистителя.
 
 ### Температура
-`livan_9_ru_5b7b5240` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 точки
 замерзания
 очистителя должна быть на 10° C
@@ -53354,7 +50188,6 @@ LIVAN
 характерной для местности.
 
 ### Откройте крышку горловины с символом
-`livan_9_ru_b4725ebf` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 омывателя.
 Добавьте
 очиститель
@@ -53363,7 +50196,6 @@ LIVAN
 уровня.
 
 ### Внимательно
-`livan_9_ru_67b6248b` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:220 | doc_type:owners_manual
 прочитайте
 главу
 «Моторный
@@ -53389,7 +50221,6 @@ LIVAN
 водой.
 
 ### Добавление
-`livan_9_ru_b2548130` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 воды
 может
 привезти
@@ -53404,7 +50235,6 @@ LIVAN
 стекла.
 
 ### В очень холодную погоду бак очистителя
-`livan_9_ru_792468e2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 можно заполнять только на три четверти.
 Таким
 образом
@@ -53423,7 +50253,6 @@ LIVAN
 полного заполнения.
 
 ### В систему омывания лобового стекла не
-`livan_9_ru_4d2c1bd7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 допускается
 добавлять
 жидкость
@@ -53432,7 +50261,6 @@ LIVAN
 двигателя.
 
 ### Невыполнение
-`livan_9_ru_02ac868b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 этого
 требования
 может
@@ -53448,7 +50276,6 @@ LIVAN
 покрытия автомобиля.
 
 ### Щетка стеклоочистителя
-`livan_9_ru_613596fc` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:220 | doc_type:owners_manual
 Жидкости,
 содержащие
 жиры,
@@ -53472,7 +50299,6 @@ LIVAN
 состояние.
 
 ### Часто промывайте ветровое стекло и
-`livan_9_ru_d432c167` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:220 | doc_type:owners_manual
 старайтесь
 не
 использовать
@@ -53482,7 +50308,6 @@ LIVAN
 сократит срок ее службы.
 
 ### Ремонт и обслуживание
-`livan_9_ru_779b7167` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:220 | doc_type:owners_manual
 7
 8
 6
@@ -53509,7 +50334,6 @@ LIVAN
 стеклоочистителя.
 
 ### Регулярно промывайте ветровое стекло
-`livan_9_ru_c90c4bb8` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 сертифицированной
 жидкостью.
 Перед
@@ -53519,7 +50343,6 @@ LIVAN
 убедитесь, что лобовое стекло очищено.
 
 ### Используйте
-`livan_9_ru_a757e869` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 только
 щетки
 стеклоочистителей тех же спецификаций,
@@ -53568,7 +50391,6 @@ LIVAN
 стеклоочистителя поднят.
 
 ### Замена
-`livan_9_ru_440a56bd` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 щетки
 стеклоочистителя
 переднего
@@ -53587,7 +50409,6 @@ LIVAN
 действия:
 
 ### 1. В
-`livan_9_ru_576cdd74` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 течение
 10
 секунд
@@ -53597,7 +50418,6 @@ LIVAN
 переключателя с положения ON на
 
 ### OFF
-`livan_9_ru_fe011715` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 переведите
 комбинированный
 переключатель
@@ -53613,7 +50433,6 @@ LIVAN
 стеклоочистителей).
 
 ### 2. Снимите щетку стеклоочистителя с
-`livan_9_ru_96eb12da` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 ветрового стекла.
 3. Нажмите
 на
@@ -53623,7 +50442,6 @@ LIVAN
 как показано на рисунке.
 
 ### 4. Потяните
-`livan_9_ru_4f78403c` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 щетку
 по
 направлении
@@ -53635,14 +50453,12 @@ LIVAN
 рычага стеклоочистителя.
 
 ### 5. Отсоедините
-`livan_9_ru_7d292135` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 щетку
 стеклоочистителя.
 6. Установите щетки стеклоочистителя в
 порядке, обратном шагам 2–5.
 
 ### Стеклоочиститель может повредить
-`livan_9_ru_bf288ede` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 ветровое
 стекло,
 если
@@ -53657,7 +50473,6 @@ LIVAN
 покрываются гарантией автомобиля.
 
 ### Ремонт и обслуживание
-`livan_9_ru_6d82834e` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 220
 Замена
 щеток
@@ -53677,7 +50492,6 @@ LIVAN
 необходимо:
 
 ### 1. Отведите
-`livan_9_ru_b5472d32` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:222 | doc_type:owners_manual
 щетку
 стеклоочистителя
 заднего
@@ -53687,7 +50501,6 @@ LIVAN
 поверхности стекла.
 
 ### 2. Вращайте
-`livan_9_ru_b8c44d86` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:222 | doc_type:owners_manual
 щетку
 стеклоочистителя
 заднего
@@ -53698,7 +50511,6 @@ LIVAN
 щетку.
 
 ### 3. Повторите
-`livan_9_ru_af1b983f` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:222 | doc_type:owners_manual
 шаги
 с
 1
@@ -53709,7 +50521,6 @@ LIVAN
 заднего ветрового стекла.
 
 ### Очистка и обслуживание
-`livan_9_ru_67a02e76` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:222 | doc_type:owners_manual
 автомобиля
 Мойка кузова
 Частая мойка автомобиля способствует
@@ -53725,7 +50536,6 @@ LIVAN
 выключатель.
 
 ### Процедура
-`livan_9_ru_f6ba5ce6` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:222 | doc_type:owners_manual
 необходимо
 выполнять в прохладном месте, не под
 прямыми
@@ -53800,14 +50610,12 @@ LIVAN
 •
 
 ### Обязательно
-`livan_9_ru_0d447d38` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 выполняйте
 мойку
 в
 строгом соответствии с инструкцией
 
 ### Ремонт и обслуживание
-`livan_9_ru_a76613b7` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 7
 8
 6
@@ -53832,7 +50640,6 @@ LIVAN
 см от обрабатываемой поверхности.
 
 ### Сохраняйте
-`livan_9_ru_2b75160c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 сопло
 в
 движении,
@@ -53849,7 +50656,6 @@ LIVAN
 •
 
 ### Не используйте насадки с множеством
-`livan_9_ru_5c00d138` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:223 | doc_type:owners_manual
 отверстий
 для
 очистки
@@ -53910,7 +50716,6 @@ LIVAN
 изоляционные материалы.
 
 ### Автоматическая
-`livan_9_ru_c1bb8c63` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:223 | doc_type:owners_manual
 мойка
 для
 очистки кузова
@@ -53934,7 +50739,6 @@ LIVAN
 •
 
 ### Лакокрасочная
-`livan_9_ru_f47b6902` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:223 | doc_type:owners_manual
 поверхность
 кузова
 достаточно прочная, чтобы выдержать
@@ -53947,7 +50751,6 @@ LIVAN
 краску.
 
 ### Степень
-`livan_9_ru_db2c97a4` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:223 | doc_type:owners_manual
 воздействия
 в
 основном
@@ -53993,7 +50796,6 @@ LIVAN
 кузова автомобиля.
 
 ### Регулярная уборка внутри автомобиля
-`livan_9_ru_d36122e4` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:223 | doc_type:owners_manual
 способствует улучшению обстановки в
 салоне. Пыль и грязь скапливаются на
 обивке,
@@ -54010,7 +50812,6 @@ LIVAN
 могут быстро затвердеть.
 
 ### Используйте небольшую щетку с мягкой
-`livan_9_ru_79bb73f6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 щетиной,
 чтобы
 стряхнуть
@@ -54019,7 +50820,6 @@ LIVAN
 маленьких кнопок и регуляторов.
 
 ### Ремонт и обслуживание
-`livan_9_ru_9769ffc6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 222
 Для
 очистки
@@ -54074,7 +50874,6 @@ LIVAN
 мягкой ткани и стеклоочиститель.
 
 ### Моющие
-`livan_9_ru_56ae11e0` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:224 | doc_type:owners_manual
 средства
 содержат
 растворители,
@@ -54093,7 +50892,6 @@ LIVAN
 технике безопасности.
 
 ### При чистке салона автомобиля откройте
-`livan_9_ru_bbc6ee57` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:224 | doc_type:owners_manual
 двери
 и
 окна,
@@ -54102,7 +50900,6 @@ LIVAN
 достаточную вентиляцию.
 
 ### При чистке салона обратите внимание на
-`livan_9_ru_e2960102` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:224 | doc_type:owners_manual
 следующее:
 •
 Не используйте лезвия или другие
@@ -54119,7 +50916,6 @@ LIVAN
 •
 
 ### Не применяйте силу и не создавайте
-`livan_9_ru_52058f03` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 чрезмерное
 давление
 тряпкой.
@@ -54133,7 +50929,6 @@ LIVAN
 •
 
 ### Используйте
-`livan_9_ru_63b347da` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 только
 мягкое,
 нейтральное
@@ -54149,7 +50944,6 @@ LIVAN
 жир.
 
 ### При использовании слишком большого
-`livan_9_ru_101446bd` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:224 | doc_type:owners_manual
 количества
 мыла
 могут
@@ -54172,7 +50966,6 @@ LIVAN
 Ткань/напольное покрытие
 
 ### Используйте пылесос с мягкой щеткой
-`livan_9_ru_874c05d4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 для удаления пыли и налета. Для стойких
 пятен попробуйте сначала использовать
 воду или воду с содой. Перед чисткой
@@ -54190,7 +50983,6 @@ LIVAN
 размягчиться и впитаться.
 
 ### Ремонт и обслуживание
-`livan_9_ru_41c84ee5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
 7
 8
 6
@@ -54207,7 +50999,6 @@ LIVAN
 Этапы очистки:
 
 ### 1. Смочите чистую безворсовую белую
-`livan_9_ru_422c198e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 тряпку водой или раствором пищевой
 соды.
 2. Отожмите
@@ -54217,7 +51008,6 @@ LIVAN
 лишнюю воду.
 
 ### 3. При
-`livan_9_ru_31727047` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 удалении
 пятен
 осторожно
@@ -54225,7 +51015,6 @@ LIVAN
 на тряпке не перестанет.
 
 ### 4. Если пятно не удается полностью
-`livan_9_ru_0a8f1782` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 стереть, повторите описанные выше
 действия
 с
@@ -54267,7 +51056,6 @@ LIVAN
 напольного покрытия.
 
 ### Для удаления пыли можно использовать
-`livan_9_ru_fa114f0c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 кусок мягкой ткани, смоченный водой.
 Для
 более
@@ -54283,7 +51071,6 @@ LIVAN
 для уборки кожаных поверхностей.
 
 ### Никогда
-`livan_9_ru_07aac4a6` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:225 | doc_type:owners_manual
 не
 используйте
 чистящие
@@ -54296,7 +51083,6 @@ LIVAN
 изменить внешний вид обивки салона.
 
 ### Также не используйте средства на основе
-`livan_9_ru_e3db8f8c` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:225 | doc_type:owners_manual
 силикона,
 воска
 или
@@ -54312,7 +51098,6 @@ LIVAN
 поверхностей.
 
 ### Приборная
-`livan_9_ru_57ce0159` | 9 | pdf_manual | tier:2 | lang:ru | layer:interior | p:225 | doc_type:owners_manual
 панель
 и
 другие
@@ -54329,7 +51114,6 @@ LIVAN
 салона.
 
 ### Некоторые
-`livan_9_ru_cf74ac17` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 имеющиеся
 в
 продаже
@@ -54345,7 +51129,6 @@ LIVAN
 серьезно ухудшить видимость.
 
 ### Ремонт и обслуживание
-`livan_9_ru_b86afd16` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 224
 8
 7
@@ -54361,7 +51144,6 @@ LIVAN
 автомобиля
 
 ### Основные размерные параметры автомобиля
-`livan_9_ru_24ae5c02` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 Пункт
 Единица
 измерения
@@ -54371,7 +51153,6 @@ LIVAN
 4535
 
 ### Ширина автомобиля
-`livan_9_ru_23cfc1b5` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 мм
 1845
 Высота автомобиля
@@ -54383,7 +51164,6 @@ LIVAN
 1559
 
 ### Ширина колеи задних
-`livan_9_ru_c4835c97` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 колес
 мм
 1545
@@ -54397,7 +51177,6 @@ LIVAN
 ручки, выхлопные трубы и т. д.
 
 ### Технические данные
-`livan_9_ru_d6f2660e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 226
 Параметры
 качества
@@ -54407,7 +51186,6 @@ LIVAN
 измерения
 
 ### Тип привода
-`livan_9_ru_bc550139` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:228 | doc_type:owners_manual
 -
 Передний привод
 Количество пассажиров
@@ -54418,7 +51196,6 @@ LIVAN
 1499
 
 ### Масса передней оси без нагрузки
-`livan_9_ru_8628684d` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
 кг
 863
 Масса задней оси без нагрузки
@@ -54429,7 +51206,6 @@ LIVAN
 1895
 
 ### Общая масса
-`livan_9_ru_f7a7027b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
 кг
 970
 Полная нагрузка на заднюю ось
@@ -54438,7 +51214,6 @@ LIVAN
 925
 
 ### Свободный ход
-`livan_9_ru_0aff534c` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:228 | doc_type:owners_manual
 мм
 0-4
 Педаль тормоза
@@ -54457,7 +51232,6 @@ LIVAN
 227
 
 ### Основные
-`livan_9_ru_9515dff8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 параметры
 двигателя
 Пункт
@@ -54466,7 +51240,6 @@ LIVAN
 BHE15-AFZ
 
 ### BHE15-EFZ
-`livan_9_ru_9b3d257e` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:229 | doc_type:owners_manual
 Тип
 двигателя
 -
@@ -54478,7 +51251,6 @@ BHE15-AFZ
 73,4×88,57
 
 ### Рабочий
-`livan_9_ru_1a65710a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 объем
 Л
 1,499
@@ -54494,7 +51266,6 @@ BHE15-AFZ
 128
 
 ### Номиналь
-`livan_9_ru_4cb29bfb` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 ная скорость
 оборотов
 мощности
@@ -54510,7 +51281,6 @@ BHE15-AFZ
 290
 
 ### Максималь
-`livan_9_ru_0090acb4` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 ная скорость
 оборотов
 крутящего
@@ -54519,7 +51289,6 @@ BHE15-AFZ
 2000-3500
 
 ### Скорость
-`livan_9_ru_f7cd7b34` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 оборотов при
 холостом
 ходе
@@ -54531,7 +51300,6 @@ BHE15-AFZ
 1-3-4-2
 
 ### Технические данные
-`livan_9_ru_8ca266c9` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 228
 Мощность автомобиля
 Пункт
@@ -54541,7 +51309,6 @@ BHE15-AFZ
 энергопотреблением
 
 ### Версия с высокой
-`livan_9_ru_80ccba65` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:230 | doc_type:owners_manual
 мощностью
 Максимальная
 скорость
@@ -54551,7 +51318,6 @@ BHE15-AFZ
 190
 
 ### Максимальный
-`livan_9_ru_dd0abf30` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:230 | doc_type:owners_manual
 преодолевае
 мый подъём
 %
@@ -54561,7 +51327,6 @@ BHE15-AFZ
 Пункт
 
 ### Единица
-`livan_9_ru_34f91ef8` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:230 | doc_type:owners_manual
 измерения
 Версия с низким
 энергопотреблением
@@ -54569,7 +51334,6 @@ BHE15-AFZ
 мощностью
 
 ### Общий расход
-`livan_9_ru_2026494e` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:230 | doc_type:owners_manual
 топлива
 л/100 км
 6,5
@@ -54578,7 +51342,6 @@ BHE15-AFZ
 Пункт
 
 ### Уровень выхлопных газов
-`livan_9_ru_5d500b83` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:230 | doc_type:owners_manual
 Евро-6
 Технические данные
 8
@@ -54593,14 +51356,12 @@ BHE15-AFZ
 Колеса и шины
 
 ### Модель шин
-`livan_9_ru_282d0ae6` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:231 | doc_type:owners_manual
 Пункт
 Параметры
 Спецификация колесных дисков
 18×6,5T
 
 ### Колесные диски
-`livan_9_ru_48975c9c` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:231 | doc_type:owners_manual
 Шина
 Величина
 динамического
@@ -54611,7 +51372,6 @@ BHE15-AFZ
 Давление в шине (холодное состояние)
 
 ### Автомобильное колесо
-`livan_9_ru_ecd54c83` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:231 | doc_type:owners_manual
 Ед. изм.
 Параметр
 Передние колеса
@@ -54622,7 +51382,6 @@ BHE15-AFZ
 230
 
 ### Запасное колесо
-`livan_9_ru_c1df5d3f` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:231 | doc_type:owners_manual
 кПа
 420
 Масло
@@ -54632,20 +51391,17 @@ BHE15-AFZ
 Объем
 
 ### Заправляйтесь в соответствии с
-`livan_9_ru_d0a3a11b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:231 | doc_type:owners_manual
 требованиями к топливу, указанными
 на этикетке крышки топливного бака.
 55 л
 
 ### Моторное масло
-`livan_9_ru_372b86f1` | 9 | pdf_manual | tier:2 | lang:ru | layer:engine | p:231 | doc_type:owners_manual
 Масло SP 0W-20
 4,3 л (сухой тип)
 4,0 л (смешанный
 тип)
 
 ### Трансмиссионное масло от Royal Shell
-`livan_9_ru_2a741f27` | 9 | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:231 | doc_type:owners_manual
 Dutch
 3,3 л (сухой тип)
 2,7 л (смешанный
@@ -54655,7 +51411,6 @@ Dutch
 Пункт
 
 ### Спецификация
-`livan_9_ru_fcd4360b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:232 | doc_type:owners_manual
 Объем
 Жидкость для
 охлаждения
@@ -54666,7 +51421,6 @@ Livan
 6,8 л
 
 ### DOT4
-`livan_9_ru_964d55ca` | 9 | pdf_manual | tier:2 | lang:ru | layer:body | p:232 | doc_type:owners_manual
 0.78 л
 Жидкость
 стеклоочистителя
@@ -54675,7 +51429,6 @@ Livan
 3.5±0.1 л
 
 ### Хладагент
-`livan_9_ru_09e6f2c2` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:232 | doc_type:owners_manual
 кондиционера
 R134a
 525 г
@@ -54683,38 +51436,27 @@ R134a
 Указатель
 
 ### Автоматическое удержание
-`livan_9_ru_515f9a26` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:233 | doc_type:owners_manual
 автомобиля (AUTO HOLD)........... 148
 Автомобиль не запускается ......... 128
 
-### Внутренний блок
-`livan_9_ru_a395ad5b` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:233 | doc_type:owners_manual
-
-### Выбор детского защитного
-`livan_9_ru_76d7fe86` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:233 | doc_type:owners_manual
 
 ### Информация о системе
-`livan_9_ru_491cf4ff` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:233 | doc_type:owners_manual
 Информация о
 трехкомпонентном
 каталитическом нейтрализаторе
 отработавших газов двигателя
 
 ### Осмотр и замена
-`livan_9_ru_c2ea5143` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:234 | doc_type:owners_manual
 Основные параметры двигателя .. 227
 
 ### Сигнальные и индикаторные
-`livan_9_ru_3ef9e87a` | 9 | pdf_manual | tier:2 | lang:ru | layer:general | p:234 | doc_type:owners_manual
 Система вызова экстренных
 оперативных служб (ЭРА-
 
 ### Электронная система контроля
-`livan_9_ru_a7db1ef3` | 9 | pdf_manual | tier:2 | lang:ru | layer:ev | p:235 | doc_type:owners_manual
 Электронная система
 предотвращения
 
 ### Электронное распределение
-`livan_9_ru_76d826a1` | 9 | pdf_manual | tier:2 | lang:ru | layer:brakes | p:235 | doc_type:owners_manual
 тормозного усилия (EBD) ............ 150
 Электроусилитель руля (EPS)...... 214

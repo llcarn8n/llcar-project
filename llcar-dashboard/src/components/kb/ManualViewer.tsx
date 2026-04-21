@@ -423,8 +423,12 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
         return r.text()
       })
       .then(text => {
-        setMdRaw(text)
-        setMdSections(parseMarkdownSections(text))
+        // Strip YAML frontmatter (--- ... ---) added by S27 normalizer
+        const body = text.startsWith('---\n')
+          ? text.replace(/^---\n[\s\S]*?\n---\n+/, '')
+          : text
+        setMdRaw(body)
+        setMdSections(parseMarkdownSections(body))
         setMdLoading(false)
       })
       .catch(() => {

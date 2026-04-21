@@ -1,5 +1,11 @@
+---
+brand: kia
+model: stinger
+generation: ck_2017
+source: kb
+---
+
 ### Kia, THE COMPANY
-`kia_stinger_en_6482e0c6` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:2
 
 Thank you for becoming the owner of a new Kia vehicle.
 As a global car manufacturer focused on building high-quality vehicles with exceptional value, Kia Motors is dedicated to providing you
@@ -81,7 +87,6 @@ Introduction
 
 
 ### HOW TO USE THIS MANUAL
-`kia_stinger_en_ad48f84b` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:6
 
 We want to help you get the greatest
 possible driving pleasure from your
@@ -110,7 +115,6 @@ You will find various WARNINGs,
 
 
 ### CAUTIONs, and NOTICEs in this
-`kia_stinger_en_eeb1cba3` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:6
 
 manual. These WARNINGs were prepared to enhance your personal safety.You should carefully read and follow
 ALL procedures and recommendations provided in these WARNINGs,
@@ -128,7 +132,6 @@ obtain maximum performance with
 
 
 ### UNLEADED FUEL, as well as mini-
-`kia_stinger_en_8b8be9bc` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:6
 
 mize exhaust emissions and spark
 plug fouling.
@@ -152,7 +155,6 @@ ignored.
 
 
 ### FUEL REQUIREMENTS
-`kia_stinger_en_741677af` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:6
 
 1 3
 Introduction
@@ -205,7 +207,6 @@ may inhibit proper drivability.
 
 
 ### WARNING - Refueling
-`kia_stinger_en_feaadebc` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:7
 
 • Do not "top off" after the nozzle automatically shuts off.
 Attempts to force more fuel
@@ -319,7 +320,6 @@ extremely hot.
 
 
 ### VEHICLE BREAK-IN
-`kia_stinger_en_ef3df124` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:9
 
 PROCESS
 RISK OF BURNS WHEN
@@ -382,7 +382,6 @@ the vehicle or the EDR.
 
 
 ### VEHICLE DATA COLLECTION AND EVENT DATA RECORDERS
-`kia_stinger_en_4d8b2fb9` | stinger | pdf_manual | tier:2 | lang:en | layer:interior | p:10
 
 Your vehicle at a glance
 Exterior overview . . . . . . . . . . . . . . . . . . . . . . . . . . . 2-2
@@ -396,7 +395,6 @@ Your vehicle at a glance
 
 
 ### OCK017004N
-`kia_stinger_en_7634b1ec` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:15
 
 ❈The actual shape may differ from the illustration.
 Your vehicle at a glance
@@ -505,7 +503,6 @@ vehicle is parked or safely stopped.
 
 
 ### IMPORTANT SAFETY PRECAUTIONS
-`kia_stinger_en_a841fd29` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:18
 
 3 3
 Safety features of your vehicle
@@ -576,7 +573,6 @@ pedals.
 
 
 ### WARNING - Driver respon-
-`kia_stinger_en_adb95bfa` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:21
 
 sibility for passengers
 The driver must advise the passengers to keep the seatback in
@@ -588,7 +584,6 @@ restrain will be greatly reduced.
 
 
 ### 1KMN3662
-`kia_stinger_en_c9e8eb85` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:21
 
 WARNING - Seat cushion
 Occupants should never sit on
@@ -608,7 +603,6 @@ injuring vehicle occupants.
 
 
 ### WARNING - Luggage and
-`kia_stinger_en_eeb22667` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:22
 
 Cargo
 Do not stack pile or stack luggage or cargo higher than the
@@ -627,7 +621,6 @@ solely for the purpose of transporting luggage or cargo.
 
 
 ### WARNING - Driver’s seat
-`kia_stinger_en_d36c4a12` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:22
 
 • Never attempt to adjust the
 seat while the vehicle is moving. This could result in loss
@@ -670,22 +663,19 @@ Wrinkles or abrasions which appear
 naturally from usage are not covered by warranty.
 
 
-### CAUTION
-`kia_stinger_en_03d24b7a` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:23
-
-• Belts with metallic accessories, zippers or keys inside
-your back pants pocket may
-damage the seat fabric.
-• Make sure not to wet the seat.
-It may change the nature of
-natural leather.
-• Jeans or clothes which contain bleach may contaminate
-the surface of the seat covering fabric and cause damage
-or discoloration.
+> ⚠️ **Внимание:** 
+> • Belts with metallic accessories, zippers or keys inside
+> your back pants pocket may
+> damage the seat fabric.
+> • Make sure not to wet the seat.
+> It may change the nature of
+> natural leather.
+> • Jeans or clothes which contain bleach may contaminate
+> the surface of the seat covering fabric and cause damage
+> or discoloration.
 
 
 ### WARNING - Seat
-`kia_stinger_en_68b6dbbf` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:23
 
 adjustment
 • Do not adjust the seat while
@@ -700,7 +690,6 @@ seat mechanism.
 
 
 ### WARNING - Small
-`kia_stinger_en_ff433767` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:23
 
 Objects
 Use extreme caution when picking up small objects trapped
@@ -751,7 +740,6 @@ electrical components.
 
 
 ### WARNING - Unattended
-`kia_stinger_en_d0ddb863` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:24
 
 children
 Do not leave children unattended in the vehicle. Children might
@@ -784,7 +772,6 @@ desired position.
 
 
 ### OCK037005
-`kia_stinger_en_758d12b6` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:25
 
 OCK037006
 Safety features of your vehicle
@@ -813,7 +800,6 @@ switch to move the support position up, or press the lower portion
 
 
 ### OCK037009
-`kia_stinger_en_bf89a90c` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:26
 
 OCK037007
 3 11
@@ -847,7 +833,6 @@ Head up Display (HUD): height, rotation and brightness.
 
 
 ### OCK037008
-`kia_stinger_en_30ed5a48` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:27
 
 OCK037021
 Safety features of your vehicle
@@ -890,7 +875,6 @@ switch is moved.
 
 
 ### WARNING - Driver
-`kia_stinger_en_d000c63f` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:28
 
 Position Memory System
 Never attempt to operate the
@@ -981,7 +965,6 @@ neck in the event of a rear collision.
 
 
 ### OMG038400
-`kia_stinger_en_e5febaab` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:30
 
 CAUTION
 • If alarm sound and driver seat
@@ -1019,7 +1002,6 @@ position (3).
 
 
 ### WARNING - Headrest
-`kia_stinger_en_420d77cb` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:31
 
 removal/adjustment
 • Do not operate the vehicle
@@ -1032,51 +1014,48 @@ height while the vehicle is in
 motion. Driver may lose control of the vehicle.
 
 
-### CAUTION
-`kia_stinger_en_fc5d2c50` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:31
-
-Excessive pulling or pushing
-may damage the headrest.
-OCK037011
-Safety features of your vehicle
-16
-3
-Forward and backward adjustment
-The headrest may be adjusted forward to 4 different positions by
-pulling the headrest forward to the
-desired detent.
-To adjust the headrest to it’s furthest
-backwards position,
-Pull the headrest fully forward to the
-farthest position and release it.
-Adjust the headrest so that it properly
-supports the head  and neck.
-✽ NOTICE
-If you recline the seatback towards
-the front with the headrest and seat
-cushion raised, the headrest may
-come in contact with the sunvisor or
-other parts of the vehicle.
-Removal and reinstallation
-To remove the headrest:
-1. Recline the seatback (2) with the
-recline switch (1).
-2. Raise headrest as far as it can go.
-3. Press the headrest release button
-(3) while pulling the headrest up (4).
-
-OCK037012
-WARNING - Headrest
-Removal
-NEVER allow anyone to ride in a
-seat with the headrest removed.
-Headrests can provide critical
-neck and head support in a
-crash.
+> ⚠️ **Внимание:** 
+> Excessive pulling or pushing
+> may damage the headrest.
+> OCK037011
+> Safety features of your vehicle
+> 16
+> 3
+> Forward and backward adjustment
+> The headrest may be adjusted forward to 4 different positions by
+> pulling the headrest forward to the
+> desired detent.
+> To adjust the headrest to it’s furthest
+> backwards position,
+> Pull the headrest fully forward to the
+> farthest position and release it.
+> Adjust the headrest so that it properly
+> supports the head  and neck.
+> ✽ NOTICE
+> If you recline the seatback towards
+> the front with the headrest and seat
+> cushion raised, the headrest may
+> come in contact with the sunvisor or
+> other parts of the vehicle.
+> Removal and reinstallation
+> To remove the headrest:
+> 1. Recline the seatback (2) with the
+> recline switch (1).
+> 2. Raise headrest as far as it can go.
+> 3. Press the headrest release button
+> (3) while pulling the headrest up (4).
+>
+> OCK037012
+> WARNING - Headrest
+> Removal
+> NEVER allow anyone to ride in a
+> seat with the headrest removed.
+> Headrests can provide critical
+> neck and head support in a
+> crash.
 
 
 ### OYFH034205
-`kia_stinger_en_315c4747` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:32
 
 OCK037010
 3 17
@@ -1111,7 +1090,6 @@ injure vehicle occupants.
 
 
 ### OCK037073N
-`kia_stinger_en_136b7729` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:33
 
 OCK037014
 WARNING - Headrest
@@ -1159,7 +1137,6 @@ position.
 
 
 ### OCK037018
-`kia_stinger_en_de446fd4` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:34
 
 OCK037017N
 3 19
@@ -1186,7 +1163,6 @@ the front of the vehicle.
 
 
 ### OCK037019N
-`kia_stinger_en_059d279e` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:35
 
 OCK037067
 WARNING
@@ -1219,20 +1195,17 @@ locked in place.
 proper position.
 
 
-### WARNING
-`kia_stinger_en_baa382ac` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:36
-
-After folding the rear seat,
-unless the driver’s position is
-properly set according to the
-driver’s physical figure, do not
-fold the rear seat.
-It may
-increase body injuries in a sudden stop or collision.
+> ⚠️ **Внимание:** 
+> After folding the rear seat,
+> unless the driver’s position is
+> properly set according to the
+> driver’s physical figure, do not
+> fold the rear seat.
+> It may
+> increase body injuries in a sudden stop or collision.
 
 
 ### WARNING - Uprighting
-`kia_stinger_en_290261af` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:36
 
 seat
 When you return the seatback
@@ -1247,33 +1220,30 @@ resulting in injury caused by
 being struck by the seatback.
 
 
-### WARNING
-`kia_stinger_en_baa382ac` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:36
-
-When you return the rear seatback to its upright position after
-being folded down:
-Be careful not to damage the
-seat belt webbing or buckle. Do
-not allow the seat belt webbing
-or buckle to get caught or
-pinched in the rear seat. Ensure
-that the seatback is completely
-locked into its upright position
-by pushing on the top of the
-seatback. Otherwise, in an accident or sudden stop, the seat
-could fold down and allow
-cargo enter the passenger compartment, which could result in
-serious injury or death.
-
-CAUTION
-Be careful when loading cargo
-through the rear passenger
-seats to prevent damage to the
-vehicle interior.
+> ⚠️ **Внимание:** 
+> When you return the rear seatback to its upright position after
+> being folded down:
+> Be careful not to damage the
+> seat belt webbing or buckle. Do
+> not allow the seat belt webbing
+> or buckle to get caught or
+> pinched in the rear seat. Ensure
+> that the seatback is completely
+> locked into its upright position
+> by pushing on the top of the
+> seatback. Otherwise, in an accident or sudden stop, the seat
+> could fold down and allow
+> cargo enter the passenger compartment, which could result in
+> serious injury or death.
+>
+> CAUTION
+> Be careful when loading cargo
+> through the rear passenger
+> seats to prevent damage to the
+> vehicle interior.
 
 
 ### OCK037068
-`kia_stinger_en_f58fa05f` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:36
 
 3 21
 Safety features of your vehicle
@@ -1287,7 +1257,6 @@ or damage during sudden stops.
 
 
 ### WARNING - Cargo loading
-`kia_stinger_en_770e3f64` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:37
 
 Make sure the engine is off, the
 transaxle is in P (Park) and the
@@ -1300,7 +1269,6 @@ moved to another position.
 
 
 ### WARNING - Cargo
-`kia_stinger_en_a9d0c36b` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:37
 
 Cargo
 should
@@ -1324,7 +1292,6 @@ position.
 
 
 ### CAUTION - Damaging
-`kia_stinger_en_e1889a04` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:37
 
 rear seat belt buckles
 When you fold the rear seatback, insert the buckle between
@@ -1338,7 +1305,6 @@ Safety features of your vehicle
 
 
 ### SEAT BELTS
-`kia_stinger_en_b95402e4` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:38
 
 Seat belt restraint system
 • For maximum restraint system protection, the seat belts must always
@@ -1395,7 +1361,6 @@ could even cut into your body.
 
 
 ### WARNING - Shoulder Belt
-`kia_stinger_en_79bf8739` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:38
 
 • Never wear the shoulder belt
 under your arm or behind
@@ -1460,7 +1425,6 @@ from fastening securely.
 
 
 ### 1GQA2083
-`kia_stinger_en_97467453` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:39
 
 Safety features of your vehicle
 24
@@ -1503,7 +1467,6 @@ your neck.
 
 
 ### OYG036028
-`kia_stinger_en_057c92d5` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:40
 
 OCK037022
 3 25
@@ -1538,7 +1501,6 @@ if you try to lean forward too quickly.
 
 
 ### B180A01NF-1
-`kia_stinger_en_e69b5d41` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:41
 
 WARNING
 - Shoulder belt positioning
@@ -1570,7 +1532,6 @@ must be used.
 
 
 ### B200A01NF
-`kia_stinger_en_e5ca6da1` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:42
 
 WARNING
 You should place the lap belt
@@ -1588,7 +1549,6 @@ the arm near the door.
 
 
 ### OCK037024
-`kia_stinger_en_c210bd29` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:42
 
 OCK037025
 3 27
@@ -1618,46 +1578,43 @@ buckle
 ➂: Rear left seat belt fastening buckle
 
 
-### WARNING
-`kia_stinger_en_142d36f2` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:43
-
-Always have the metal tab(A)
-inserted into the buckle (A’).
-OUM036100L
-OCK037064
-Safety features of your vehicle
-28
-3
-When using the rear center seat belt,
-the buckle with the “CENTER” mark
-must be used.
-Pre-tensioner seat belt
-Your vehicle is equipped with driver's
-and front passenger's pre-tensioner
-seat belts (retractor pretensioner and
-EFD (Emergency Fastening Device)).
-The pre-tensioner seat belts may be
-activated, when a frontal collision is
-severe enough, together with the air
-bags.
-When the vehicle stops suddenly, or if
-the occupant tries to lean forward too
-quickly, the seat belt retractor may
-lock into position. In certain frontal collisions, the pre-tensioner will activate
-and pull the seat belt into tighter contact against the occupant's body.
-(1) Retractor Pretensioner
-The purpose of the retractor pretensioner is to make sure that the
-shoulder belts fit in tightly against
-the occupant's upper body in certain frontal collisions.
-(2) EFD (Emergency Fastening Device)
-The purpose of the EFD is to
-make sure that the pelvis belts fit
-in tightly against the occupant's
-lower body in certain frontal collisions.
+> ⚠️ **Внимание:** 
+> Always have the metal tab(A)
+> inserted into the buckle (A’).
+> OUM036100L
+> OCK037064
+> Safety features of your vehicle
+> 28
+> 3
+> When using the rear center seat belt,
+> the buckle with the “CENTER” mark
+> must be used.
+> Pre-tensioner seat belt
+> Your vehicle is equipped with driver's
+> and front passenger's pre-tensioner
+> seat belts (retractor pretensioner and
+> EFD (Emergency Fastening Device)).
+> The pre-tensioner seat belts may be
+> activated, when a frontal collision is
+> severe enough, together with the air
+> bags.
+> When the vehicle stops suddenly, or if
+> the occupant tries to lean forward too
+> quickly, the seat belt retractor may
+> lock into position. In certain frontal collisions, the pre-tensioner will activate
+> and pull the seat belt into tighter contact against the occupant's body.
+> (1) Retractor Pretensioner
+> The purpose of the retractor pretensioner is to make sure that the
+> shoulder belts fit in tightly against
+> the occupant's upper body in certain frontal collisions.
+> (2) EFD (Emergency Fastening Device)
+> The purpose of the EFD is to
+> make sure that the pelvis belts fit
+> in tightly against the occupant's
+> lower body in certain frontal collisions.
 
 
 ### OCK037065
-`kia_stinger_en_25e42a7b` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:44
 
 OXMA033101
 WARNING
@@ -1695,7 +1652,6 @@ assembly
 
 
 ### OJF045207L
-`kia_stinger_en_15d1ec32` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:45
 
 WARNING - Skin Irritation
 Wash all exposed skin areas
@@ -1751,7 +1707,6 @@ Kia dealer.
 
 
 ### WARNING - Hot preten-
-`kia_stinger_en_2b56e82f` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:46
 
 sioner
 Do not touch the pre-tensioner
@@ -1818,7 +1773,6 @@ be returned to a child restraint system.
 
 
 ### WARNING - Small children
-`kia_stinger_en_dc33a3ea` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:47
 
 Do not allow small children to
 ride in the vehicle without an
@@ -1881,7 +1835,6 @@ collision will crush the fetus.
 
 
 ### WARNING - Pinched seat
-`kia_stinger_en_f253085d` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:48
 
 belt
 Make sure that the webbing
@@ -1921,7 +1874,6 @@ Safety features of your vehicle
 
 
 ### CHILD RESTRAINT SYSTEM (CRS)
-`kia_stinger_en_1ede02ff` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:50
 
 Children Always in the Rear
 Children under age 13 must always
@@ -1972,7 +1924,6 @@ and seriously injured.
 
 
 ### WARNING - Hot Child
-`kia_stinger_en_d62d5547` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:50
 
 Restraint
 A child restraint system can
@@ -2001,7 +1952,6 @@ Selecting a Child Restraint
 
 
 ### System (CRS)
-`kia_stinger_en_802978e4` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:51
 
 When selecting a CRS for your child,
 always:
@@ -2021,49 +1971,46 @@ and use provided with the child
 restraint system.
 
 
-### WARNING
-`kia_stinger_en_865d299f` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:51
-
-- Child Restraint Installation
-An improperly secured child
-restraint can increase the risk
-of serious injury or death in an
-accident. Always take the following precautions when using
-a child restraint system:
-• Always
-follow
-the
-child
-restraint system manufacturer’s instructions for installation and use.
-(Continued)
-(Continued)
-• Always properly restrain your
-child in the child restraint.
-• If the vehicle head restraint
-prevents proper installation of
-a child seat (as described in
-the child restraint system
-manual), the head restraint of
-the respective seating position shall be readjusted or
-entirely removed.
-• Do not use an infant carrier or
-a child safety seat that
-"hooks" over a seatback, it
-may not provide adequate
-protection in an accident.
-Safety features of your vehicle
-36
-3
-Child restraint system types
-There are three main types of child
-restraint systems: rear-facing seats,
-forward-facing seats, and booster
-seats. They are classified according
-to the child’s age, height and weight.
+> ⚠️ **Внимание:** 
+> - Child Restraint Installation
+> An improperly secured child
+> restraint can increase the risk
+> of serious injury or death in an
+> accident. Always take the following precautions when using
+> a child restraint system:
+> • Always
+> follow
+> the
+> child
+> restraint system manufacturer’s instructions for installation and use.
+> (Continued)
+> (Continued)
+> • Always properly restrain your
+> child in the child restraint.
+> • If the vehicle head restraint
+> prevents proper installation of
+> a child seat (as described in
+> the child restraint system
+> manual), the head restraint of
+> the respective seating position shall be readjusted or
+> entirely removed.
+> • Do not use an infant carrier or
+> a child safety seat that
+> "hooks" over a seatback, it
+> may not provide adequate
+> protection in an accident.
+> Safety features of your vehicle
+> 36
+> 3
+> Child restraint system types
+> There are three main types of child
+> restraint systems: rear-facing seats,
+> forward-facing seats, and booster
+> seats. They are classified according
+> to the child’s age, height and weight.
 
 
 ### WARNING - Holding
-`kia_stinger_en_93a8bc6a` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:52
 
 Children
 Never hold a child in your arms
@@ -2084,7 +2031,6 @@ to the child in the vehicle.
 
 
 ### WARNING - Seat Belt Use
-`kia_stinger_en_015980be` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:52
 
 Do not use one seat belt for two
 occupants at the same time.
@@ -2129,7 +2075,6 @@ is ready for a booster seat.
 
 
 ### CRS09
-`kia_stinger_en_efea83e3` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:53
 
 OCK037026N
 Safety features of your vehicle
@@ -2158,7 +2103,6 @@ Installing a Child Restraint
 
 
 ### System (CRS)
-`kia_stinger_en_01ce38ec` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:54
 
 After selecting a proper child seat for
 your child, check to make sure it fits
@@ -2194,7 +2138,6 @@ Lower Anchors and Tether for
 
 
 ### Children (LATCH) System
-`kia_stinger_en_f3f04d26` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:55
 
 The LATCH system holds a child
 restraint during driving and in an
@@ -2226,7 +2169,6 @@ center rear seating position.
 
 
 ### B230D01NF
-`kia_stinger_en_b130f26a` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:55
 
 WARNING - LATCH Lower
 Anchors
@@ -2278,7 +2220,6 @@ anchors.
 
 
 ### OCK037029N
-`kia_stinger_en_19e076a2` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:56
 
 WARNING
 Take the following precautions
@@ -2334,7 +2275,6 @@ located on the back of the rear seatbacks.
 
 
 ### OCK037027N
-`kia_stinger_en_9072de9e` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:57
 
 WARNING
 Take the following precautions
@@ -2401,7 +2341,6 @@ the following procedure.
 
 
 ### OCK037028N
-`kia_stinger_en_ddd51990` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:58
 
 OLMB033044
 3 43
@@ -2431,7 +2370,6 @@ Locking” (child restraint) mode.
 
 
 ### OEN036101
-`kia_stinger_en_039d7ef0` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:59
 
 OEN036102
 Safety features of your vehicle
@@ -2482,7 +2420,6 @@ to retract fully.
 
 
 ### OEN036103
-`kia_stinger_en_30d7290e` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:60
 
 WARNING - Auto lock
 mode
@@ -2508,7 +2445,6 @@ or rollover.
 
 
 ### AIR BAG - ADVANCED SUPPLEMENTAL RESTRAINT SYSTEM
-`kia_stinger_en_f60803e6` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:61
 
 The actual air bags in the vehicle may differ from the illustration.
 OCK037030N
@@ -2607,7 +2543,6 @@ doctor if the symptom persists.
 
 
 ### WARNING - Hot compo-
-`kia_stinger_en_c24fb3d9` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:63
 
 nents
 Do not touch the air bag storage
@@ -2623,7 +2558,6 @@ result in burn injuries.
 
 
 ### WARNING - Airbag infla-
-`kia_stinger_en_09cdda6f` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:63
 
 tion
 Sit as far back as possible from
@@ -2635,41 +2569,38 @@ result in airbag inflation injuries
 to the driver.
 
 
-### WARNING
-`kia_stinger_en_cf3ac779` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:63
-
-Do not install or place any
-accessories
-near
-air
-bag
-deployment areas, such as the
-instrument panel, windows, pillars, and roof rails.
-Safety features of your vehicle
-48
-3
-Do not install a child restraint on
-the front passenger’s seat.
-Never place a rear-facing child
-restraint in the front passenger’s
-seat. If the air bag deploys, it would
-impact the rear-facing child restraint,
-causing serious or fatal injury.
-In addition, do not place front-facing
-child restraints in the front passenger’s seat. If the front passenger air
-bag inflates, it could cause serious or
-fatal injuries to the child.
-Air bag warning light
-The purpose of air bag warning light
-in your instrument panel is to alert
-you of a potential problem with your
-air bag system, which could include
-your side and/or curtain air bags
-used for rollover protection.
+> ⚠️ **Внимание:** 
+> Do not install or place any
+> accessories
+> near
+> air
+> bag
+> deployment areas, such as the
+> instrument panel, windows, pillars, and roof rails.
+> Safety features of your vehicle
+> 48
+> 3
+> Do not install a child restraint on
+> the front passenger’s seat.
+> Never place a rear-facing child
+> restraint in the front passenger’s
+> seat. If the air bag deploys, it would
+> impact the rear-facing child restraint,
+> causing serious or fatal injury.
+> In addition, do not place front-facing
+> child restraints in the front passenger’s seat. If the front passenger air
+> bag inflates, it could cause serious or
+> fatal injuries to the child.
+> Air bag warning light
+> The purpose of air bag warning light
+> in your instrument panel is to alert
+> you of a potential problem with your
+> air bag system, which could include
+> your side and/or curtain air bags
+> used for rollover protection.
 
 
 ### 1JBH3051
-`kia_stinger_en_74011b13` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:64
 
 W7-147
 WARNING - Air bag
@@ -2705,7 +2636,6 @@ Rollover sensor
 
 
 ### 10. PASSENGER AIR BAG “OFF”
-`kia_stinger_en_7bbbce8f` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:65
 
 indicator (Front passenger’s seat
 only)
@@ -2724,7 +2654,6 @@ W7-147
 
 
 ### OCK047061N
-`kia_stinger_en_e7f90aef` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:65
 
 Safety features of your vehicle
 50
@@ -2756,7 +2685,6 @@ inflation of the air bags.
 
 
 ### B240B01L
-`kia_stinger_en_0b9c7dd8` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:66
 
 Driver’s front air bag (1)
 B240B02L
@@ -2785,7 +2713,6 @@ deployed.
 
 
 ### B240B03L
-`kia_stinger_en_4c99d8a4` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:67
 
 Driver’s front air bag (3)
 B240B05L
@@ -2802,7 +2729,6 @@ bag deploys.
 
 
 ### WARNING - Flying objects
-`kia_stinger_en_079edb41` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:67
 
 Do not place any objects (an
 umbrella, bag, etc.) between the
@@ -2866,7 +2792,6 @@ occupant detection system.
 
 
 ### OCK037035
-`kia_stinger_en_b97c24fd` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:68
 
 3 53
 Safety features of your vehicle
@@ -2885,7 +2810,6 @@ frontal crashes.
 
 
 ### You will find the PASSENGER AIR
-`kia_stinger_en_003c0512` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:69
 
 BAG “OFF” indicator on the center
 facia panel. This system detects the
@@ -2938,7 +2862,6 @@ Devices
 
 
 ### AIR BAG OFF"
-`kia_stinger_en_88425572` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:70
 
 indicator light
 SRS warning
@@ -2965,44 +2888,41 @@ On
 Activated
 
 
-### CAUTION
-`kia_stinger_en_0b7c5f4d` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:70
-
-• Do not install a child restraint
-seat in the passenger seat
-when the seat is heavily
-soaked with any type of liquid.
-• Do not alter or remodel the
-ODS
-(Occupant
-Detection
-System).This may damage the
-system and prevent its proper
-function in a collision.
-3 55
-Safety features of your vehicle
-✽NOTICE
-• Do not use car seat cushions that
-cover up the surface of the seat
-and aftermarket manufactured
-passenger seat heaters.
-• After conducting car interior cleaning using steam or detergent, the
-seat should be dried properly.
-Afterward, check for normal operation of the “PASS AIR BAG
-“OFF” and air bag warning lights.
-• Any service related to the passenger seat and the ODS must be
-done at Kia service center.
-• After the passenger seat has been
-removed or installed for repair
-purposes, check for normal operation of the “PASS AIR BAG
-“OFF” and air bag warning lights
-with a person seated or not seated
-in the passenger seat.
-✽NOTICE
+> ⚠️ **Внимание:** 
+> • Do not install a child restraint
+> seat in the passenger seat
+> when the seat is heavily
+> soaked with any type of liquid.
+> • Do not alter or remodel the
+> ODS
+> (Occupant
+> Detection
+> System).This may damage the
+> system and prevent its proper
+> function in a collision.
+> 3 55
+> Safety features of your vehicle
+> ✽NOTICE
+> • Do not use car seat cushions that
+> cover up the surface of the seat
+> and aftermarket manufactured
+> passenger seat heaters.
+> • After conducting car interior cleaning using steam or detergent, the
+> seat should be dried properly.
+> Afterward, check for normal operation of the “PASS AIR BAG
+> “OFF” and air bag warning lights.
+> • Any service related to the passenger seat and the ODS must be
+> done at Kia service center.
+> • After the passenger seat has been
+> removed or installed for repair
+> purposes, check for normal operation of the “PASS AIR BAG
+> “OFF” and air bag warning lights
+> with a person seated or not seated
+> in the passenger seat.
+> ✽NOTICE
 
 
 ### When the “PASS AIR BAG “OFF”
-`kia_stinger_en_d6648fec` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:71
 
 symbol is illuminated, the passenger
 air bag system will not operate. The
@@ -3018,7 +2938,6 @@ occupant detection system.
 
 
 ### WARNING - ODS System
-`kia_stinger_en_3ec4dc74` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:71
 
 Riding in an improper position
 adversely affects the Occupant
@@ -3043,7 +2962,6 @@ pocket or on the front passenger seat.
 
 
 ### OJFA035105
-`kia_stinger_en_ff333f75` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:72
 
 - Do not place feet on the front
 passenger seatback.
@@ -3069,7 +2987,6 @@ Safety features of your vehicle
 
 
 ### OJFA035109
-`kia_stinger_en_50f5e481` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:73
 
 - Never lean on the door or center console.
 - Never sit on one side of the
@@ -3082,7 +2999,6 @@ the car seat surface.
 
 
 ### OJFA035102
-`kia_stinger_en_2e688949` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:73
 
 - Do
 not
@@ -3122,7 +3038,6 @@ to ride in the front seat when the
 
 
 ### PASSENGER AIR BAG “OFF”
-`kia_stinger_en_1099df59` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:74
 
 indicator
 is
@@ -3144,22 +3059,19 @@ the passenger's front air bag
 will not deploy.
 
 
-### WARNING
-`kia_stinger_en_d6a59bdd` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:74
-
-- Wet Passenger Seat
-Do not spill liquid in the passenger seat. Spilled liquid on
-the passenger seat may cause
-the air bag warning light to illuminate or malfunction. If any liquid is spilled, make sure the
-seat has been completely dried
-before driving the vehicle.
-3 59
-Safety features of your vehicle
-✽NOTICE
+> ⚠️ **Внимание:** 
+> - Wet Passenger Seat
+> Do not spill liquid in the passenger seat. Spilled liquid on
+> the passenger seat may cause
+> the air bag warning light to illuminate or malfunction. If any liquid is spilled, make sure the
+> seat has been completely dried
+> before driving the vehicle.
+> 3 59
+> Safety features of your vehicle
+> ✽NOTICE
 
 
 ### The PASSENGER AIR BAG “OFF”
-`kia_stinger_en_60211685` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:75
 
 indicator illuminates for about 4 seconds after the Engine Start/Stop
 button is turned to the ON position
@@ -3205,7 +3117,6 @@ occupant detection system, the PAS-
 
 
 ### SENGER AIR BAG “OFF” indicator
-`kia_stinger_en_8fb80e46` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:75
 
 will not illuminate and the passenger's front air bag will inflate in frontal
 impact crashes even if there is no
@@ -3264,7 +3175,6 @@ hands should be placed on their laps.
 
 
 ### OCK037032N
-`kia_stinger_en_37e487f5` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:76
 
 ■Driver’s front air bag
 ■Driver’s knee air bag
@@ -3314,7 +3224,6 @@ below the deployment threshold.
 
 
 ### WARNING - Replacement/
-`kia_stinger_en_3eaf1519` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:77
 
 modifications
 The front passenger seat, dashboard or door should not be
@@ -3327,7 +3236,6 @@ bags.
 
 
 ### WARNING - SRS Wiring
-`kia_stinger_en_98ac2056` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:77
 
 Do not tamper with or disconnect SRS wiring or other components of the SRS system.
 Doing so could result in injury,
@@ -3362,7 +3270,6 @@ rollover situations.
 
 
 ### OJF035041
-`kia_stinger_en_868d5303` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:78
 
 OCK037036
 WARNING - No attaching
@@ -3437,7 +3344,6 @@ the side  air bag.
 
 
 ### WARNING - No attaching
-`kia_stinger_en_5fa8783b` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:79
 
 objects
 • Do not place any objects over
@@ -3507,7 +3413,6 @@ done by an authorized Kia dealer.
 
 
 ### OCK037038
-`kia_stinger_en_26a7b778` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:80
 
 OJF035043
 WARNING - No attaching
@@ -3541,7 +3446,6 @@ Rollover sensor
 
 
 ### OCK037039L/OCK037040N/OCK037041L/OCK037042/OCK037043/OCK037044
-`kia_stinger_en_4f776ac5` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:81
 
 Safety features of your vehicle
 66
@@ -3567,7 +3471,6 @@ impact of the front collision.
 
 
 ### OCK037045
-`kia_stinger_en_46fd5abe` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:82
 
 WARNING - Air bag sensors
 • Do not hit or allow any objects
@@ -3635,7 +3538,6 @@ deployment.
 
 
 ### OCK037046L
-`kia_stinger_en_77096ac1` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:83
 
 OJF035052
 Safety features of your vehicle
@@ -3661,7 +3563,6 @@ would not provide additional occupant protection.
 
 
 ### OCK037047
-`kia_stinger_en_e485cb17` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:84
 
 OCK037049
 OCK037048
@@ -3693,7 +3594,6 @@ additional occupant protection.
 
 
 ### OYG036079
-`kia_stinger_en_3206f7e1` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:85
 
 OCK037050
 OYG036080
@@ -3707,7 +3607,6 @@ delivered to the sensors.
 
 
 ### SRS Care
-`kia_stinger_en_2a579390` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:86
 
 The SRS is virtually maintenancefree and so there are no parts you can
 safely service by yourself. If the SRS
@@ -3738,7 +3637,6 @@ necessary information. Failure to follow these precautions and procedures could 
 
 
 ### OCK037051L
-`kia_stinger_en_8179e14d` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:86
 
 3 71
 Safety features of your vehicle
@@ -3764,7 +3662,6 @@ inoperative.
 
 
 ### WARNING - Towing Vehicle
-`kia_stinger_en_a2452b81` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:87
 
 Always
 have
@@ -3780,7 +3677,6 @@ in the vehicle.
 
 
 ### OCK037072N
-`kia_stinger_en_3698e90e` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:87
 
 Features of your vehicle
 Smart key . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4-5
@@ -3958,7 +3854,6 @@ details.
 
 
 ### SMART KEY
-`kia_stinger_en_afc3c905` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:92
 
 WARNING - Smart key
 Never leave the keys in your
@@ -3973,7 +3868,6 @@ serious bodily injury or death.
 
 
 ### OCK047005N
-`kia_stinger_en_a6a967fb` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:92
 
 Features of your vehicle
 6
@@ -4014,7 +3908,6 @@ the smart key is within 28~40 in.
 
 
 ### OCK047010
-`kia_stinger_en_ea56cef0` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:93
 
 4 7
 Features of your vehicle
@@ -4127,7 +4020,6 @@ hazard warning lights will blink once.
 
 
 ### OCK047005N
-`kia_stinger_en_80481643` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:95
 
 CAUTION - Transmitter
 Keep the smart key away from
@@ -4237,7 +4129,6 @@ warranty.
 
 
 ### CAUTION - Transmitter
-`kia_stinger_en_a8a08658` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:97
 
 damage
 Do not drop, wet or expose the
@@ -4269,7 +4160,6 @@ discharged.
 
 
 ### OCK047004N
-`kia_stinger_en_49e7d0d1` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:98
 
 OCK047003N
 Features of your vehicle
@@ -4290,7 +4180,6 @@ vehicle use.
 
 
 ### Whenever the ENGINE START/STOP
-`kia_stinger_en_fcb35ece` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:99
 
 button is changed to the ON position,
 the immobilizer system checks and
@@ -4314,7 +4203,6 @@ system
 
 
 ### Change the ENGINE START/STOP
-`kia_stinger_en_99376ff8` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:99
 
 button to the ON position.
 To activate the immobilizer system
@@ -4366,7 +4254,6 @@ may damage your immobilizer.
 
 
 ### CAUTION - Immobilizer
-`kia_stinger_en_e9fca588` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:100
 
 alterations
 Do not change, alter or adjust
@@ -4427,7 +4314,6 @@ unnecessary alarm.
 
 
 ### THEFT-ALARM SYSTEM
-`kia_stinger_en_a8b14f19` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:101
 
 Armed
 stage
@@ -4493,7 +4379,6 @@ Features of your vehicle
 
 
 ### DOOR LOCKS
-`kia_stinger_en_ff3da72b` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:103
 
 Operating door locks from
 outside the vehicle
@@ -4529,7 +4414,6 @@ damage to system components.
 
 
 ### OCK047011
-`kia_stinger_en_53a0d50e` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:103
 
 ■Type A
 ■Type B
@@ -4582,7 +4466,6 @@ open.
 
 
 ### OCK047013L
-`kia_stinger_en_cad38aea` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:104
 
 OCK047012N
 Features of your vehicle
@@ -4625,7 +4508,6 @@ central door lock switch is pressed.
 
 
 ### OCK047014
-`kia_stinger_en_549da675` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:105
 
 OCK047064N
 ■Driver side
@@ -4666,7 +4548,6 @@ accidental opening of the door.
 
 
 ### WARNING - Unattended
-`kia_stinger_en_9f3a5f3b` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:106
 
 children/animals
 Never leave children or animals
@@ -4679,7 +4560,6 @@ escape the vehicle.
 
 
 ### OCK047015
-`kia_stinger_en_2117ba18` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:106
 
 Features of your vehicle
 20
@@ -4694,7 +4574,6 @@ unlocked.
 
 
 ### WARNING - Rear door
-`kia_stinger_en_02369563` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:107
 
 locks
 Use the rear door safety locks
@@ -4725,7 +4604,6 @@ conditions.
 
 
 ### LIFTGATE
-`kia_stinger_en_c7afec2c` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:108
 
 WARNING - Exhaust
 fumes
@@ -4764,7 +4642,6 @@ closing the liftgate. It may damage the liftgate's latch.
 
 
 ### WARNING - Exhaust
-`kia_stinger_en_ae988ce2` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:109
 
 fumes
 If you drive with the liftgate
@@ -4779,7 +4656,6 @@ vehicle.
 
 
 ### OCK047053
-`kia_stinger_en_7bba276d` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:109
 
 CAUTION
 Make certain that you close the
@@ -4790,7 +4666,6 @@ is not closed prior to driving.
 
 
 ### WARNING - Riding in
-`kia_stinger_en_b6abf374` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:109
 
 cargo area
 Occupants should never ride in
@@ -4814,7 +4689,6 @@ others, or damage the vehicle.
 
 
 ### OCK047017L
-`kia_stinger_en_c1decb5e` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:110
 
 OCK047016L
 OCK047018L
@@ -4836,7 +4710,6 @@ one second.
 
 
 ### OCK047057N
-`kia_stinger_en_08d61b3a` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:111
 
 WARNING
 Make sure that there are no people or objects in the path of the
@@ -4848,7 +4721,6 @@ contact with the power liftgate
 
 
 ### OCK047056N
-`kia_stinger_en_4f4b828e` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:111
 
 CAUTION
 Do not close or open the power
@@ -4876,7 +4748,6 @@ liftgate open/close button shortly.
 
 
 ### OCK047062L
-`kia_stinger_en_03fe909a` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:112
 
 OCK047016
 OCK047062L
@@ -4923,7 +4794,6 @@ it again.
 
 
 ### OCK047018
-`kia_stinger_en_26dd72d2` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:113
 
 4 27
 Features of your vehicle
@@ -4963,7 +4833,6 @@ authorized Kia dealer.
 
 
 ### OCK047019L
-`kia_stinger_en_d7103f22` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:114
 
 WARNING
 To prevent serious injury and
@@ -4995,7 +4864,6 @@ doing as follows:
 
 
 ### OCK047020
-`kia_stinger_en_b0be398a` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:115
 
 WARNING
 • For emergencies,
@@ -5019,83 +4887,78 @@ extreme caution, especially
 while the vehicle is in motion.
 
 
-### WARNING
-`kia_stinger_en_bcd7a895` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:115
-
-NEVER allow anyone to occupy
-the liftgate of the vehicle at any
-time. If the liftgate is partially or
-totally latched and the person is
-unable to get out, serious injury
-or death could occur due to lack
-of ventilation, exhaust fumes
-and rapid heat build-up, or
-because of exposure to cold
-weather conditions. The liftgate
-is also a highly dangerous location in the event of a crash
-because it is not a protected
-occupant space but is a part of
-the vehicle’s crush zone.
-4 29
-Features of your vehicle
-• You and your passengers must be
-aware of the location of the
-Emergency
-Liftgate
-Safety
-Release lever in this vehicle and
-how to open the liftgate in case you
-are accidentally locked in the liftgate.
-• Your vehicle should be kept locked
-and the Smart Key should be kept
-out of the reach of children.
-Parents should teach their children
-about the dangers of playing in liftgate.
-• Use the release lever for emergencies only.
+> ⚠️ **Внимание:** 
+> NEVER allow anyone to occupy
+> the liftgate of the vehicle at any
+> time. If the liftgate is partially or
+> totally latched and the person is
+> unable to get out, serious injury
+> or death could occur due to lack
+> of ventilation, exhaust fumes
+> and rapid heat build-up, or
+> because of exposure to cold
+> weather conditions. The liftgate
+> is also a highly dangerous location in the event of a crash
+> because it is not a protected
+> occupant space but is a part of
+> the vehicle’s crush zone.
+> 4 29
+> Features of your vehicle
+> • You and your passengers must be
+> aware of the location of the
+> Emergency
+> Liftgate
+> Safety
+> Release lever in this vehicle and
+> how to open the liftgate in case you
+> are accidentally locked in the liftgate.
+> • Your vehicle should be kept locked
+> and the Smart Key should be kept
+> out of the reach of children.
+> Parents should teach their children
+> about the dangers of playing in liftgate.
+> • Use the release lever for emergencies only.
 
 
-### WARNING
-`kia_stinger_en_f94777f4` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:116
-
-Do not grasp the part supporting the liftgate (gas lifter), as
-this may cause serious injury.
-OCK047054
-Features of your vehicle
-30
-4
-On a vehicle equipped with a smart
-key, the liftgate can be opened with
-no-touch activation using the Smart
-Liftgate system.
-How to use the Smart Liftgate
-The liftgate can be opened with notouch activation satisfying all the
-conditions below.
-• After 15 seconds when all doors
-are closed and locked
-• Positioned in the detecting area for
-more than 3 seconds.
-✽NOTICE
-• The Smart Liftgate does not operate when:
-- The smart key is detected within
-15 seconds after the doors are
-closed and locked, and is continuously detected.
-- The smart key is detected within
-15 seconds after the doors are
-closed and locked, and 60 inches
-(1.5 m) from the front door handles. (for vehicles equipped with
-Welcome Light)
-- A door is not locked or closed.
-- The smart key is in the vehicle.
-1. Setting
-To activate the Smart Liftgate, go to
-User Settings Mode and select
-Smart Liftgate on the LCD display.
-❈ For more details, refer to “LCD
-Display” in this chapter.
+> ⚠️ **Внимание:** 
+> Do not grasp the part supporting the liftgate (gas lifter), as
+> this may cause serious injury.
+> OCK047054
+> Features of your vehicle
+> 30
+> 4
+> On a vehicle equipped with a smart
+> key, the liftgate can be opened with
+> no-touch activation using the Smart
+> Liftgate system.
+> How to use the Smart Liftgate
+> The liftgate can be opened with notouch activation satisfying all the
+> conditions below.
+> • After 15 seconds when all doors
+> are closed and locked
+> • Positioned in the detecting area for
+> more than 3 seconds.
+> ✽NOTICE
+> • The Smart Liftgate does not operate when:
+> - The smart key is detected within
+> 15 seconds after the doors are
+> closed and locked, and is continuously detected.
+> - The smart key is detected within
+> 15 seconds after the doors are
+> closed and locked, and 60 inches
+> (1.5 m) from the front door handles. (for vehicles equipped with
+> Welcome Light)
+> - A door is not locked or closed.
+> - The smart key is in the vehicle.
+> 1. Setting
+> To activate the Smart Liftgate, go to
+> User Settings Mode and select
+> Smart Liftgate on the LCD display.
+> ❈ For more details, refer to “LCD
+> Display” in this chapter.
 
 
 ### SMART LIFTGATE (IF EQUIPPED)
-`kia_stinger_en_8938cacb` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:117
 
 OCK047021
 4 31
@@ -5134,7 +4997,6 @@ inadvertently.
 
 
 ### OCK047022N
-`kia_stinger_en_981e7b49` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:118
 
 OCK047023
 Features of your vehicle
@@ -5185,7 +5047,6 @@ injury.
 
 
 ### OCK047005N
-`kia_stinger_en_9cf94af3` | stinger | pdf_manual | tier:2 | lang:en | layer:infotainment | p:119
 
 4 33
 Features of your vehicle
@@ -5221,7 +5082,6 @@ on a slope or unpaved road, etc.
 
 
 ### OCK047024N
-`kia_stinger_en_c863cccd` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:120
 
 Features of your vehicle
 34
@@ -5244,7 +5104,6 @@ freezing conditions.
 
 
 ### WINDOWS
-`kia_stinger_en_7045175c` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:121
 
 OCK047025N
 ■Front
@@ -5297,7 +5156,6 @@ detent position (5).
 
 
 ### OCK047027
-`kia_stinger_en_c6e658b9` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:122
 
 CAUTION
 Do not install any accessories
@@ -5309,7 +5167,6 @@ described in this chapter.
 
 
 ### WARNING - Power
-`kia_stinger_en_0e99d48a` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:122
 
 Windows
 Do not extend your face or arms
@@ -5356,7 +5213,6 @@ approximately 1 in. (2.5 cm).
 
 
 ### OUN026013
-`kia_stinger_en_5eca11f1` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:123
 
 OCK047026
 4 37
@@ -5386,7 +5242,6 @@ power window.
 
 
 ### OCK047028
-`kia_stinger_en_019c01a0` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:124
 
 WARNING
 Always check for obstructions
@@ -5400,46 +5255,41 @@ not detect the resistance and
 will not stop and reverse direction.
 
 
-### WARNING
-`kia_stinger_en_553bd22d` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:124
-
-The automatic reverse feature
-doesn’t activate while resetting
-power window system. Make
-sure body parts or other objects
-are safely out of the way before
-closing the windows to avoid
-injuries or vehicle damage.
+> ⚠️ **Внимание:** 
+> The automatic reverse feature
+> doesn’t activate while resetting
+> power window system. Make
+> sure body parts or other objects
+> are safely out of the way before
+> closing the windows to avoid
+> injuries or vehicle damage.
 
 
-### WARNING
-`kia_stinger_en_553bd22d` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:124
-
-Automatic reverse feature could
-fail if accessorise like antenna,
-etc are attached on windows
-when opening or closing windows.
-Features of your vehicle
-38
-4
-- The rear passenger's control cannot operate the rear passenger's
-power window.
-Always double check to make sure
-all arms, hands, head and other
-obstructions are safely out of the way
-before closing a window.
-
-CAUTION - Opening /closing Window
-To prevent possible damage to
-the power window system, do
-not open or close two windows
-or more at the same time. This
-will also ensure the longevity of
-the fuse.
+> ⚠️ **Внимание:** 
+> Automatic reverse feature could
+> fail if accessorise like antenna,
+> etc are attached on windows
+> when opening or closing windows.
+> Features of your vehicle
+> 38
+> 4
+> - The rear passenger's control cannot operate the rear passenger's
+> power window.
+> Always double check to make sure
+> all arms, hands, head and other
+> obstructions are safely out of the way
+> before closing a window.
+>
+> CAUTION - Opening /closing Window
+> To prevent possible damage to
+> the power window system, do
+> not open or close two windows
+> or more at the same time. This
+> will also ensure the longevity of
+> the fuse.
 
 
 ### WARNING - Power win-
-`kia_stinger_en_909af1d6` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:125
 
 dows
 Do not allow children to play
@@ -5473,7 +5323,6 @@ open.
 
 
 ### HOOD
-`kia_stinger_en_5a388f4d` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:126
 
 OCK047029
 OCK047030
@@ -5508,7 +5357,6 @@ may cause a heat-induced fire.
 
 
 ### WARNING - Unsecured
-`kia_stinger_en_455f818d` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:127
 
 engine hood
 Always double check to be sure
@@ -5520,7 +5368,6 @@ accident.
 
 
 ### CAUTION - Hood obstruc-
-`kia_stinger_en_2f8a53b1` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:127
 
 tion
 Before closing the hood, ensure
@@ -5573,7 +5420,6 @@ gauge will move to the full position.
 
 
 ### FUEL FILLER LID
-`kia_stinger_en_d2b2a878` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:128
 
 OCK047031L
 OCK047032
@@ -5604,7 +5450,6 @@ due to fire or explosion.
 
 
 ### WARNING - Refueling
-`kia_stinger_en_4c498eb6` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:129
 
 Always remove the fuel cap
 carefully and slowly. If the cap
@@ -5623,7 +5468,6 @@ be damaged.
 
 
 ### OCK047033
-`kia_stinger_en_a98f1d97` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:129
 
 4 43
 Features of your vehicle
@@ -5655,7 +5499,6 @@ gasoline source.
 
 
 ### WARNING - Portable fuel
-`kia_stinger_en_0d2d852f` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:130
 
 container
 When
@@ -5696,7 +5539,6 @@ a fire.
 
 
 ### WARNING - Smoking
-`kia_stinger_en_028c1a14` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:131
 
 DO NOT use matches or a lighter
 and DO NOT SMOKE or leave a lit
@@ -5708,7 +5550,6 @@ ignited, result in fire.
 
 
 ### WARNING - Refueling &
-`kia_stinger_en_a8fd868f` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:131
 
 Vehicle fires
 When refueling, always shut the
@@ -5723,7 +5564,6 @@ before starting the engine.
 
 
 ### CAUTION - Exterior paint
-`kia_stinger_en_e3e9226e` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:131
 
 Do not spill fuel on the exterior
 surfaces of the vehicle. Any
@@ -5773,7 +5613,6 @@ distract the driver.
 
 
 ### OCK047034
-`kia_stinger_en_f9dcf01a` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:132
 
 Features of your vehicle
 46
@@ -5787,70 +5626,63 @@ Close the sunroof securely when
 leaving your vehicle.
 
 
-### WARNING
-`kia_stinger_en_8d13f180` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:133
-
-Do not allow children to operate
-the sunroof. This may result in
-injury to the child.
-WARNING
-Never adjust the sunroof or
-sunshade while driving. This
-could result in loss of control
-and an accident that may cause
-death, serious injury, or property damage.
+> ⚠️ **Внимание:** 
+> Do not allow children to operate
+> the sunroof. This may result in
+> injury to the child.
+> WARNING
+> Never adjust the sunroof or
+> sunshade while driving. This
+> could result in loss of control
+> and an accident that may cause
+> death, serious injury, or property damage.
 
 
-### CAUTION
-`kia_stinger_en_5bde5dfd` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:133
-
-Do not extend any luggage outside the sunroof while driving.
-OCK047124L
-CAUTION
-Make sure the sunroof is fully
-closed when leaving your vehicle. If the sunroof is opened, rain
-or snow may leak through the
-sunroof and wet the interior as
-well as cause theft.
-
-WARNING
-In order to prevent accidental
-operation of the sunroof, especially by a child, do not let a
-child operate the sunroof.
+> ⚠️ **Внимание:** 
+> Do not extend any luggage outside the sunroof while driving.
+> OCK047124L
+> CAUTION
+> Make sure the sunroof is fully
+> closed when leaving your vehicle. If the sunroof is opened, rain
+> or snow may leak through the
+> sunroof and wet the interior as
+> well as cause theft.
+>
+> WARNING
+> In order to prevent accidental
+> operation of the sunroof, especially by a child, do not let a
+> child operate the sunroof.
 
 
-### WARNING
-`kia_stinger_en_8d13f180` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:133
-
-Do not sit on the top of the vehicle. It may cause vehicle damage.
-4 47
-Features of your vehicle
-Sunshade
-To open the sunshade
-Push the sunroof control lever backward to the 1st detent position.
-To close the sunshade when the
-sunroof glass is closed
-Push the sunroof control lever forward to the 1st detent position.
-To stop the sliding at any point, press
-the sunshade control switch momentarily.
-✽NOTICE
-Wrinkles formed on the sunshade as
-material characteristic are normal.
-✽NOTICE
-Only the second glass of the sunroof
-opens and closes.
-Sliding the sunroof
-When the sunshade is closed
-Pull the sunroof control lever backward to the 2nd detent position, both
-the sunshade and sunroof glass will
-slide all the way open. To stop the
-sunroof movement at any point, push
-the sunroof control glass lever
-momentarily.
+> ⚠️ **Внимание:** 
+> Do not sit on the top of the vehicle. It may cause vehicle damage.
+> 4 47
+> Features of your vehicle
+> Sunshade
+> To open the sunshade
+> Push the sunroof control lever backward to the 1st detent position.
+> To close the sunshade when the
+> sunroof glass is closed
+> Push the sunroof control lever forward to the 1st detent position.
+> To stop the sliding at any point, press
+> the sunshade control switch momentarily.
+> ✽NOTICE
+> Wrinkles formed on the sunshade as
+> material characteristic are normal.
+> ✽NOTICE
+> Only the second glass of the sunroof
+> opens and closes.
+> Sliding the sunroof
+> When the sunshade is closed
+> Pull the sunroof control lever backward to the 2nd detent position, both
+> the sunshade and sunroof glass will
+> slide all the way open. To stop the
+> sunroof movement at any point, push
+> the sunroof control glass lever
+> momentarily.
 
 
 ### CAUTION - Automatic
-`kia_stinger_en_e7d63e19` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:134
 
 sunroof shade
 • Do not pull or push the sunshade by hand as such action
@@ -5862,7 +5694,6 @@ of the vehicle system.
 
 
 ### OCK047058L
-`kia_stinger_en_75a11293` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:134
 
 OCK047035
 Features of your vehicle
@@ -5897,7 +5728,6 @@ become trapped or crushed.
 
 
 ### WARNING - Sunroof
-`kia_stinger_en_6843c494` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:135
 
 • Be careful that no head, hands
 and body parts are obstructed
@@ -5952,7 +5782,6 @@ damaged.
 
 
 ### OCK047036
-`kia_stinger_en_bed0b92c` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:136
 
 Features of your vehicle
 50
@@ -6061,7 +5890,6 @@ vehicle checked as soon as possible.
 
 
 ### STEERING WHEEL
-`kia_stinger_en_3f2d28a2` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:138
 
 Features of your vehicle
 52
@@ -6109,7 +5937,6 @@ steering control.
 
 
 ### OCK047037N
-`kia_stinger_en_59b61948` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:139
 
 4 53
 Features of your vehicle
@@ -6141,7 +5968,6 @@ indicator on the button will turn off.
 
 
 ### OCK047038N
-`kia_stinger_en_898a2df9` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:140
 
 OCK047039N
 Features of your vehicle
@@ -6164,35 +5990,32 @@ your steering wheel (see illustration). The horn will operate only
 when this area is pressed.
 
 
-### CAUTION
-`kia_stinger_en_cf083d56` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:141
-
-• Do not install any type of grip
-cover for the steering wheel, it
-may impair the function of the
-heated steering wheel system.
-• When cleaning the heated
-steering wheel, do not use an
-organic solvent such as paint
-thinner, benzene, alcohol and
-gasoline. Doing so may damage the surface of the steering
-wheel.
-• If the surface of steering
-wheel is damaged by sharp
-object, damage to the heated
-steering wheel components
-could occur.
-
-WARNING
-If the steering wheel becomes
-too warm, turn the system off.
-The heated steering wheel may
-cause burns even at low temperatures, especially if used for
-long periods of time.
+> ⚠️ **Внимание:** 
+> • Do not install any type of grip
+> cover for the steering wheel, it
+> may impair the function of the
+> heated steering wheel system.
+> • When cleaning the heated
+> steering wheel, do not use an
+> organic solvent such as paint
+> thinner, benzene, alcohol and
+> gasoline. Doing so may damage the surface of the steering
+> wheel.
+> • If the surface of steering
+> wheel is damaged by sharp
+> object, damage to the heated
+> steering wheel components
+> could occur.
+>
+> WARNING
+> If the steering wheel becomes
+> too warm, turn the system off.
+> The heated steering wheel may
+> cause burns even at low temperatures, especially if used for
+> long periods of time.
 
 
 ### OCK047052L
-`kia_stinger_en_ed6367aa` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:141
 
 4 55
 Features of your vehicle
@@ -6244,20 +6067,17 @@ accident or deployment of the
 air bag.
 
 
-### CAUTION
-`kia_stinger_en_e7aaaedc` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:142
-
-When cleaning the mirror, use a
-paper towel or similar material
-dampened with glass cleaner.
-Do not spray glass cleaner
-directly on the mirror. It may
-cause the liquid cleaner to enter
-the mirror housing.
+> ⚠️ **Внимание:** 
+> When cleaning the mirror, use a
+> paper towel or similar material
+> dampened with glass cleaner.
+> Do not spray glass cleaner
+> directly on the mirror. It may
+> cause the liquid cleaner to enter
+> the mirror housing.
 
 
 ### OCK047059L
-`kia_stinger_en_924abb40` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:142
 
 Features of your vehicle
 56
@@ -6304,7 +6124,6 @@ trademark of Gentex Corporation.
 
 
 ### OJFA045335
-`kia_stinger_en_91e318c7` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:143
 
 CAUTION
 The NVS® Mirror automatically
@@ -6388,7 +6207,6 @@ will set the new Zone.
 
 
 ### B520C05NF
-`kia_stinger_en_aa629f28` | stinger | pdf_manual | tier:2 | lang:en | layer:infotainment | p:145
 
 4 59
 Features of your vehicle
@@ -6643,7 +6461,6 @@ Programming sections above.
 
 
 ### FCC ID: NZLZTVHL3
-`kia_stinger_en_6ead6922` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:150
 
 IC: 4112A-ZTVHL3
 Pursuant to Code of Federal
@@ -6719,7 +6536,6 @@ in loss of control.
 
 
 ### CAUTION - Rearview
-`kia_stinger_en_6cb3cbc7` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:151
 
 mirror
 Do not scrape ice off the mirror
@@ -6731,7 +6547,6 @@ cloth with very warm water.
 
 
 ### OCK047043
-`kia_stinger_en_57a5e1c6` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:151
 
 4 65
 Features of your vehicle
@@ -6763,7 +6578,6 @@ mirror switch is placed in the middle.
 
 
 ### CAUTION - Outside mirror
-`kia_stinger_en_f47f8f5e` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:152
 
 • The mirrors stop moving when
 they reach the maximum
@@ -6781,7 +6595,6 @@ the parts.
 
 
 ### OCK047045N
-`kia_stinger_en_f81e9a7c` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:152
 
 Features of your vehicle
 66
@@ -6808,7 +6621,6 @@ key in possession.
 
 
 ### OCK047044L
-`kia_stinger_en_c1d95fa4` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:153
 
 CAUTION - Electric type
 outside rearview mirror
@@ -6835,7 +6647,6 @@ INSTRUMENT CLUSTER
 
 
 ### OCK047100N/OCK047101N
-`kia_stinger_en_3bf9f1ee` | stinger | pdf_manual | tier:2 | lang:en | layer:interior | p:154
 
 ■Type A
 ❈The actual cluster in the vehicle may differ
@@ -6868,7 +6679,6 @@ on the steering wheel.
 
 
 ### OCK047047L
-`kia_stinger_en_c246eeb9` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:155
 
 OCK047138L
 OCK047048L
@@ -6912,7 +6722,6 @@ damage.
 
 
 ### OCK047102N
-`kia_stinger_en_e97374ff` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:156
 
 OCK047469N
 ■ Type B
@@ -6948,7 +6757,6 @@ movement of fuel in the tank.
 
 
 ### OCK047105
-`kia_stinger_en_e81b7f80` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:157
 
 WARNING - Hot radiator
 Never remove the radiator cap
@@ -6960,7 +6768,6 @@ the reservoir.
 
 
 ### OCK047106
-`kia_stinger_en_8f532dff` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:157
 
 4 71
 Features of your vehicle
@@ -6994,7 +6801,6 @@ converter.
 
 
 ### OCK047118N
-`kia_stinger_en_df385582` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:158
 
 OCK047119N
 ■ Type B
@@ -7030,7 +6836,6 @@ This indicator displays which automatic transaxle shift lever is selected.
 
 
 ### OCK047128
-`kia_stinger_en_d9fcb778` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:159
 
 OYG046121
 ■ Type B
@@ -7053,7 +6858,6 @@ battery is disconnected.
 
 
 ### LCD WINDOWS (IF EQUIPPED)
-`kia_stinger_en_d8d1c40a` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:160
 
 OCK067036N
 OCK067037N
@@ -7093,7 +6897,6 @@ Drive Info
 
 
 ### TRIP
-`kia_stinger_en_6fcf0159` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:161
 
 Drive Mode
 4 75
@@ -7130,7 +6933,6 @@ more than 4.9 mph (8 km/h).
 
 
 ### CAUTION - Low Fuel
-`kia_stinger_en_b0413225` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:162
 
 Level
 Level warning light on or with
@@ -7185,7 +6987,6 @@ selected drive mode.
 
 
 ### LCD Modes
-`kia_stinger_en_543e596b` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:164
 
 (1) SPORT mode (if equipped)
 This mode displays Gauge, Lap
@@ -7198,7 +6999,6 @@ Computer” in this chapter.
 
 
 ### OYG048156N
-`kia_stinger_en_ec722580` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:164
 
 OCK047145L
 OCK047466N
@@ -7230,7 +7030,6 @@ Timer, G-Force.
 
 
 ### OCK047129N
-`kia_stinger_en_e4640cac` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:165
 
 OCK047130L
 OCK047131L
@@ -7254,7 +7053,6 @@ and Lane Keeping Assist (LKA).
 
 
 ### OCK047465N
-`kia_stinger_en_a83fdc72` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:166
 
 OCK047115N
 OCK047146L
@@ -7301,7 +7099,6 @@ Service Required Setting values.
 
 
 ### OCK047117N
-`kia_stinger_en_c9796b35` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:167
 
 4 81
 Features of your vehicle
@@ -7344,7 +7141,6 @@ driven with the remaining fuel.
 
 
 ### OCK047143N
-`kia_stinger_en_a0205d16` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:168
 
 OCK047156N
 ■ Type B
@@ -7392,7 +7188,6 @@ severe personal injury or accidents.
 
 
 ### OCK047142L
-`kia_stinger_en_aa0476a5` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:169
 
 4 83
 Features of your vehicle
@@ -7707,7 +7502,6 @@ Button while the warning message
 
 
 ### Check BRAKE SWITCH fuse
-`kia_stinger_en_18a71995` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:175
 
 • This warning message illuminates
 if the brake switch fuse is disconnected.
@@ -7762,7 +7556,6 @@ once for each ignition cycle.
 
 
 ### OCK047124L
-`kia_stinger_en_3f173840` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:176
 
 OCK047123L
 OCK047152N
@@ -7796,7 +7589,6 @@ washer fluid.
 
 
 ### Turn on FUSE SWITCH
-`kia_stinger_en_6cad198f` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:177
 
 • This warning message illuminates
 if the fuse switch under the steering wheel is OFF.
@@ -7867,7 +7659,6 @@ Belts” in chapter 3.
 
 
 ### WARNING AND INDICATOR LIGHTS
-`kia_stinger_en_84d4133f` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:179
 
 4 93
 Features of your vehicle
@@ -7948,7 +7739,6 @@ dealer.
 
 
 ### WARNING - Electronic
-`kia_stinger_en_b4ff3d7a` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:181
 
 Brake force Distribution
 (EBD) System Warning Light
@@ -7994,7 +7784,6 @@ Malfunction Indicator
 
 
 ### Lamp (MIL)
-`kia_stinger_en_16418b8e` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:182
 
 This warning light illuminates:
 • Once you set the Engine Start/Stop
@@ -8042,20 +7831,17 @@ started.
 low.
 
 
-### CAUTION
-`kia_stinger_en_6ae642ef` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:183
-
-If the Malfunction Indicator
-Lamp (MIL) illuminates, potential catalytic converter damage
-is possible which could result in
-loss of engine power.
-In this case, have the vehicle
-inspected by an authorized Kia
-dealer.
+> ⚠️ **Внимание:** 
+> If the Malfunction Indicator
+> Lamp (MIL) illuminates, potential catalytic converter damage
+> is possible which could result in
+> loss of engine power.
+> In this case, have the vehicle
+> inspected by an authorized Kia
+> dealer.
 
 
 ### CAUTION - Malfunction
-`kia_stinger_en_e26d0b89` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:183
 
 Indicator Lamp (MIL)
 Driving with the Malfunction
@@ -8086,7 +7872,6 @@ Add fuel as soon as possible.
 
 
 ### CAUTION - Engine
-`kia_stinger_en_42a72872` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:184
 
 Overheating
 Do not continue driving with the
@@ -8103,7 +7888,6 @@ engine damage may result.
 
 
 ### CAUTION - Low Fuel
-`kia_stinger_en_03dd85b3` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:184
 
 Level
 Driving with the Low Fuel Level
@@ -8171,7 +7955,6 @@ blinking can reduce LED headlamp
 
 
 ### WARNING - Low tire
-`kia_stinger_en_59a806c9` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:185
 
 pressure
 • Significantly low tire pressure
@@ -8273,7 +8056,6 @@ Electronic Stability
 
 
 ### Control (ESC) OFF
-`kia_stinger_en_90dc3b21` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:188
 
 Indicator Light
 (if equipped)
@@ -8391,7 +8173,6 @@ beam assist” in chapter 4.
 
 
 ### AUTO HOLD Indicator
-`kia_stinger_en_a7bd82a9` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:190
 
 Light (if equipped)
 This indicator light illuminates:
@@ -8410,7 +8191,6 @@ Hold” in chapter 5.
 
 
 ### AUTO
-`kia_stinger_en_9c0e40ad` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:190
 
 HOLD
 Features of your vehicle
@@ -8472,7 +8252,6 @@ be displayed on the windshield glass.
 
 
 ### HEAD UP DISPLAY (HUD) (IF EQUIPPED)
-`kia_stinger_en_f3d09aab` | stinger | pdf_manual | tier:2 | lang:en | layer:infotainment | p:192
 
 OCK047467N
 WARNING - Head up
@@ -8487,7 +8266,6 @@ Features of your vehicle
 
 
 ### Head Up Display ON/OFF
-`kia_stinger_en_6264b946` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:193
 
 The HUD display will be activated or
 deactivated in user setting mode
@@ -8518,7 +8296,6 @@ window” in this chapter.
 
 
 ### OCK047151L
-`kia_stinger_en_8375a7a3` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:193
 
 OYG046158N
 4 107
@@ -8552,7 +8329,6 @@ above 12.4 mph (20 km/h).
 
 
 ### PARKING ASSIST SYSTEM (IF EQUIPPED)
-`kia_stinger_en_db070c13` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:194
 
 WARNING
 The parking assist system is a
@@ -8568,7 +8344,6 @@ parking.
 
 
 ### OCK047400L
-`kia_stinger_en_b07390f0` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:194
 
 OCK047401L
 ■Rear
@@ -8801,7 +8576,6 @@ operate normally.
 
 
 ### REARVIEW CAMERA
-`kia_stinger_en_f207598d` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:199
 
 OCK047403L
 OCK047406L
@@ -8853,7 +8627,6 @@ checked by an authorized Kia dealer.
 
 
 ### SURROUND VIEW MONITORING SYSTEM (SVM) (IF EQUIPPED)
-`kia_stinger_en_baaa373b` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:200
 
 OCK047405
 OCK047406
@@ -8909,7 +8682,6 @@ the following positions:
 
 
 ### LIGHTING
-`kia_stinger_en_bad64938` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:201
 
 OCK047409N
 4 115
@@ -8936,7 +8708,6 @@ ON.
 
 
 ### OCK047411N
-`kia_stinger_en_be3e4c96` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:202
 
 OCK047412N
 OCK047410N
@@ -8962,7 +8733,6 @@ other driver’s vision.
 
 
 ### OCK047414N
-`kia_stinger_en_f68cb390` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:203
 
 CAUTION
 • Never place anything over the
@@ -9019,7 +8789,6 @@ beam will be on continuously.
 
 
 ### OCK047413N
-`kia_stinger_en_9ed2e4a8` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:204
 
 OCK047416N
 Features of your vehicle
@@ -9128,7 +8897,6 @@ out or have a poor electrical connection in the circuit.
 
 
 ### OCK047415N
-`kia_stinger_en_70a032dc` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:206
 
 Features of your vehicle
 120
@@ -9183,7 +8951,6 @@ the wiring yourself.
 
 
 ### OJFA055274
-`kia_stinger_en_c043163a` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:207
 
 4 121
 Features of your vehicle
@@ -9210,7 +8977,6 @@ possible.
 
 
 ### OCK047412N
-`kia_stinger_en_a693b1d7` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:208
 
 Features of your vehicle
 122
@@ -9251,7 +9017,6 @@ wipers to ensure proper operation.
 
 
 ### WIPERS AND WASHERS
-`kia_stinger_en_548e2c52` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:209
 
 Windshield wiper/washer
 OCK047417L
@@ -9275,7 +9040,6 @@ the wiper is not in use.
 
 
 ### OCK047458N
-`kia_stinger_en_1ec6f4d2` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:210
 
 CAUTION
 When the ignition switch is ON
@@ -9293,74 +9057,71 @@ damp or wet cloth.
 windshield glass.
 
 
-### CAUTION
-`kia_stinger_en_ff097814` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:210
-
-• When washing the vehicle, set
-the wiper switch in the OFF
-(O) position to stop the auto
-wiper operation.
-The wiper may operate and be
-damaged if the switch is set in
-the AUTO mode while washing
-the vehicle.
-• Do not remove the sensor
-cover located on the upper
-end of the passenger side
-windshield glass. Damage to
-system parts could occur and
-may not be covered by your
-vehicle warranty.
-• When starting the vehicle in
-winter, set the wiper switch in
-the
-OFF
-(O)
-position.
-Otherwise, wipers may operate and ice may damage the
-windshield
-wiper
-blades.
-Always remove all snow and
-ice and defrost the windshield
-properly prior to operating the
-windshield wipers.
-(Continued)
-Features of your vehicle
-124
-4
-Front windshield washers
-In the OFF position, pull the lever
-gently toward you to spray washer
-fluid on the windshield and to run the
-wipers 1-3 cycles.
-Use this function when the windshield is dirty.
-The spray and wiper operation will
-continue until you release the lever.
-If the washer does not work, check
-the washer fluid level. If the fluid level
-is not sufficient, you will need to add
-appropriate non-abrasive windshield
-washer fluid to the washer reservoir.
-The reservoir filler neck is located in
-the front of the engine compartment
-on the passenger side.
-(Continued)
-• When tinting the windshield,
-be careful of any fluid getting
-into the sensor located in the
-top center of the front windshield. It may damage the
-related parts.
-
-OCK047419
-CAUTION - Washer pump
-To prevent possible damage to
-the washer pump, do not operate the washer when the fluid
-reservoir is empty.
+> ⚠️ **Внимание:** 
+> • When washing the vehicle, set
+> the wiper switch in the OFF
+> (O) position to stop the auto
+> wiper operation.
+> The wiper may operate and be
+> damaged if the switch is set in
+> the AUTO mode while washing
+> the vehicle.
+> • Do not remove the sensor
+> cover located on the upper
+> end of the passenger side
+> windshield glass. Damage to
+> system parts could occur and
+> may not be covered by your
+> vehicle warranty.
+> • When starting the vehicle in
+> winter, set the wiper switch in
+> the
+> OFF
+> (O)
+> position.
+> Otherwise, wipers may operate and ice may damage the
+> windshield
+> wiper
+> blades.
+> Always remove all snow and
+> ice and defrost the windshield
+> properly prior to operating the
+> windshield wipers.
+> (Continued)
+> Features of your vehicle
+> 124
+> 4
+> Front windshield washers
+> In the OFF position, pull the lever
+> gently toward you to spray washer
+> fluid on the windshield and to run the
+> wipers 1-3 cycles.
+> Use this function when the windshield is dirty.
+> The spray and wiper operation will
+> continue until you release the lever.
+> If the washer does not work, check
+> the washer fluid level. If the fluid level
+> is not sufficient, you will need to add
+> appropriate non-abrasive windshield
+> washer fluid to the washer reservoir.
+> The reservoir filler neck is located in
+> the front of the engine compartment
+> on the passenger side.
+> (Continued)
+> • When tinting the windshield,
+> be careful of any fluid getting
+> into the sensor located in the
+> top center of the front windshield. It may damage the
+> related parts.
+>
+> OCK047419
+> CAUTION - Washer pump
+> To prevent possible damage to
+> the washer pump, do not operate the washer when the fluid
+> reservoir is empty.
 
 
 ### WARNING - Obscured
-`kia_stinger_en_d72a76b4` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:211
 
 visibility
 Do not use the washer in freezing temperatures without first
@@ -9371,7 +9132,6 @@ Features of your vehicle
 
 
 ### CAUTION - Wipers &
-`kia_stinger_en_1df09d0f` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:212
 
 windshields
 • To prevent possible damage
@@ -9422,7 +9182,6 @@ obscured by interior lights.
 
 
 ### OCK047421
-`kia_stinger_en_3fa0f0fd` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:213
 
 4 127
 Features of your vehicle
@@ -9458,7 +9217,6 @@ the DOOR button (2) once again
 
 
 ### The DOOR mode and ROOM mode
-`kia_stinger_en_8cc78036` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:214
 
 can not be selected at the same time.
 Front Room Lamp:
@@ -9476,7 +9234,6 @@ off.
 
 
 ### OCK047420
-`kia_stinger_en_c3ca8fad` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:214
 
 OCK047055
 ■ Type B
@@ -9513,7 +9270,6 @@ or damage the sunvisor.
 
 
 ### OCK047422
-`kia_stinger_en_0f0b54b8` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:215
 
 OCK047425
 OCK047424
@@ -9527,7 +9283,6 @@ serves as a warning to passing vehicles that the vehicle door is open.
 
 
 ### OCK047423
-`kia_stinger_en_6ec4490a` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:216
 
 Features of your vehicle
 130
@@ -9610,7 +9365,6 @@ abrasives to clean the window.
 
 
 ### OCK047306
-`kia_stinger_en_1fd96bf0` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:218
 
 Features of your vehicle
 132
@@ -9634,45 +9388,42 @@ OCK047300/OCK047322
 ■Front seat
 
 
-### CAUTION
-`kia_stinger_en_fdb1554a` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:219
-
-Operating the blower when the
-ignition switch is in the ON position could cause the battery to
-discharge. Operate the blower
-when the engine is running.
-4 133
-Features of your vehicle
-Automatic heating and air conditioning
-1. Press the AUTO button. The
-modes, fan speeds, air intake and
-air-conditioning will be controlled
-automatically by setting the temperature.
-2. Turn the temperature control knob
-to the desired temperature.
-✽NOTICE
-• To turn the automatic operation
-off, select any button or switch of
-the following:
-- Mode selection button
-- Air conditioning button
-- Front windshield defroster button
-(Press the button one more time
-to deselect the front windshield
-defroster function. The ‘AUTO’
-sign will illuminate on the information display once again.)
-- Air intake control button
-- Fan speed control switch
-The selected function will be controlled manually while other functions operate automatically.
-• For your convenience and to
-improve the effectiveness of the
-climate control, use the AUTO
-button and set the temperature to
-73°F (23°C).
+> ⚠️ **Внимание:** 
+> Operating the blower when the
+> ignition switch is in the ON position could cause the battery to
+> discharge. Operate the blower
+> when the engine is running.
+> 4 133
+> Features of your vehicle
+> Automatic heating and air conditioning
+> 1. Press the AUTO button. The
+> modes, fan speeds, air intake and
+> air-conditioning will be controlled
+> automatically by setting the temperature.
+> 2. Turn the temperature control knob
+> to the desired temperature.
+> ✽NOTICE
+> • To turn the automatic operation
+> off, select any button or switch of
+> the following:
+> - Mode selection button
+> - Air conditioning button
+> - Front windshield defroster button
+> (Press the button one more time
+> to deselect the front windshield
+> defroster function. The ‘AUTO’
+> sign will illuminate on the information display once again.)
+> - Air intake control button
+> - Fan speed control switch
+> The selected function will be controlled manually while other functions operate automatically.
+> • For your convenience and to
+> improve the effectiveness of the
+> climate control, use the AUTO
+> button and set the temperature to
+> 73°F (23°C).
 
 
 ### OCK047307
-`kia_stinger_en_540d8912` | stinger | pdf_manual | tier:2 | lang:en | layer:interior | p:220
 
 ■Driver’s side
 ■Passenger’s side
@@ -9688,7 +9439,6 @@ and cooling system.
 
 
 ### OCK047427L
-`kia_stinger_en_4ec18b9e` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:221
 
 4 135
 Features of your vehicle
@@ -9721,7 +9471,6 @@ Mode selection
 
 
 ### OCK047309N
-`kia_stinger_en_45010246` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:222
 
 Features of your vehicle
 136
@@ -9753,7 +9502,6 @@ defrosters.
 
 
 ### OCK047308
-`kia_stinger_en_3febd6e1` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:223
 
 4 137
 Features of your vehicle
@@ -9775,7 +9523,6 @@ the extreme right.
 
 
 ### OCK047310
-`kia_stinger_en_d0f8c2df` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:224
 
 OCK047321
 OCK047311
@@ -9831,7 +9578,6 @@ display will reset to Fahrenheit.
 
 
 ### OCK047312
-`kia_stinger_en_0b2bee6a` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:225
 
 4 139
 Features of your vehicle
@@ -9869,7 +9615,6 @@ position selected will result in excessively dry air in the passenger compartmen
 
 
 ### OCK047313
-`kia_stinger_en_fe9ff734` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:226
 
 Features of your vehicle
 140
@@ -9905,7 +9650,6 @@ conditioning system off.
 
 
 ### OCK047315
-`kia_stinger_en_54b85608` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:227
 
 WARNING - Reduced
 Visibility
@@ -9917,7 +9661,6 @@ and obscure visibility.
 
 
 ### OCK047314
-`kia_stinger_en_b530d385` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:227
 
 4 141
 Features of your vehicle
@@ -9935,7 +9678,6 @@ information on the screen.
 
 
 ### OCK047317
-`kia_stinger_en_69dcfcf9` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:228
 
 WARNING - Recirculated
 Air
@@ -9958,7 +9700,6 @@ temperature.
 
 
 ### OCK047316
-`kia_stinger_en_e878b0b7` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:228
 
 Features of your vehicle
 142
@@ -10069,7 +9810,6 @@ system operation characteristic.
 
 
 ### CAUTION - Excessive A/C
-`kia_stinger_en_0b4499ea` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:230
 
 Use
 When using the air conditioning
@@ -10121,7 +9861,6 @@ an authorized Kia dealer.
 
 
 ### 1LDA5047
-`kia_stinger_en_8125f780` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:231
 
 Outside air
 Recirculated
@@ -10149,30 +9888,25 @@ on the location of air conditioning
 refrigerant label.
 
 
-### WARNING
-`kia_stinger_en_ba96dff7` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:232
-
-The oil and refrigerant in your
-vehicle's air conditioning system is under very high pressure. If proper service procedures are not followed an explosion may result. To reduce the
-risk of serious injury or death,
-the air conditioning system in
-your vehicle should only be
-serviced by trained and certified technicians.
+> ⚠️ **Внимание:** 
+> The oil and refrigerant in your
+> vehicle's air conditioning system is under very high pressure. If proper service procedures are not followed an explosion may result. To reduce the
+> risk of serious injury or death,
+> the air conditioning system in
+> your vehicle should only be
+> serviced by trained and certified technicians.
 
 
-### CAUTION
-`kia_stinger_en_deb9ff0d` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:232
-
-It is important that the correct
-type and amount of oil and refrigerant is used, otherwise damage
-to the vehicle may occur. To prevent damage, the air conditioning
-system in your vehicle should
-only be serviced by trained and
-certified technicians.
+> ⚠️ **Внимание:** 
+> It is important that the correct
+> type and amount of oil and refrigerant is used, otherwise damage
+> to the vehicle may occur. To prevent damage, the air conditioning
+> system in your vehicle should
+> only be serviced by trained and
+> certified technicians.
 
 
 ### OUM066035L
-`kia_stinger_en_01fd4945` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:232
 
 ■Example
 Features of your vehicle
@@ -10208,7 +9942,6 @@ temperature.
 
 
 ### WINDSHIELD DEFROSTING AND DEFOGGING
-`kia_stinger_en_4c117e9b` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:233
 
 WARNING - Windshield
 heating
@@ -10227,7 +9960,6 @@ lower speed.
 
 
 ### OCK047318
-`kia_stinger_en_ffc4b6ad` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:233
 
 4 147
 Features of your vehicle
@@ -10259,7 +9991,6 @@ defogging logic, do the following.
 
 
 ### OCK047319
-`kia_stinger_en_26293231` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:234
 
 Features of your vehicle
 148
@@ -10313,7 +10044,6 @@ the windshield
 
 
 ### OCK047320
-`kia_stinger_en_ac1e29da` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:235
 
 OCK047428L
 4 149
@@ -10380,7 +10110,6 @@ starts to operate, the message,
 
 
 ### VENTILATION
-`kia_stinger_en_2c7e4588` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:236
 
 ON”
 appears for 5 seconds.
@@ -10401,7 +10130,6 @@ Features of your vehicle
 
 
 ### STORAGE COMPARTMENTS
-`kia_stinger_en_1bf33488` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:237
 
 These compartments can be used to
 store small items required by the
@@ -10427,7 +10155,6 @@ use.
 
 
 ### WARNING - Flammable
-`kia_stinger_en_55d34943` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:237
 
 materials
 Do not store, propane cylinders
@@ -10444,7 +10171,6 @@ extended periods.
 
 
 ### OCK047430
-`kia_stinger_en_36b31e44` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:237
 
 OCK047429
 4 151
@@ -10468,7 +10194,6 @@ while driving.
 
 
 ### WARNING - Sunglass
-`kia_stinger_en_e54336a7` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:238
 
 holder
 Do not keep objects except sunglasses inside the sunglass
@@ -10488,7 +10213,6 @@ placed in the cup holders.
 
 
 ### INTERIOR FEATURES
-`kia_stinger_en_25e642cd` | stinger | pdf_manual | tier:2 | lang:en | layer:interior | p:239
 
 WARNING - Hot liquids
 Do not place uncovered cups
@@ -10501,7 +10225,6 @@ control of the vehicle.
 
 
 ### OCK047432N
-`kia_stinger_en_346c7f14` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:239
 
 ■Front seat
 ■Rear seat
@@ -10513,30 +10236,27 @@ drink. If liquid spills, it may get
 into the vehicle's electrical/electronic system and damage electrical/electronic parts.
 
 
-### CAUTION
-`kia_stinger_en_7e59426b` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:239
-
-When cleaning spilled liquids,
-do not use heat to dry the cup
-holders. This may damage the
-cup holder.
-4 153
-Features of your vehicle
-Seat warmer (if equipped)
-Temperature control (Manual)
-• Each time you push up or press
-the switch, the temperature setting
-of the seat will change as follows :
-■ Front seat
-■ Rear seat
-• The seat warmer defaults to the
-OFF position whenever the ignition
-switch is turned on.
-▼
+> ⚠️ **Внимание:** 
+> When cleaning spilled liquids,
+> do not use heat to dry the cup
+> holders. This may damage the
+> cup holder.
+> 4 153
+> Features of your vehicle
+> Seat warmer (if equipped)
+> Temperature control (Manual)
+> • Each time you push up or press
+> the switch, the temperature setting
+> of the seat will change as follows :
+> ■ Front seat
+> ■ Rear seat
+> • The seat warmer defaults to the
+> OFF position whenever the ignition
+> switch is turned on.
+> ▼
 
 
 ### OFF→HIGH(
-`kia_stinger_en_6b441b47` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:240
 
 )→MIDDLE(
 )→LOW(
@@ -10597,7 +10317,6 @@ cushion, push down the switch
 
 
 ### WARNING - Seat warmer
-`kia_stinger_en_53ea5e64` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:241
 
 burns
 The seat warmer may cause
@@ -10621,7 +10340,6 @@ cold tablets, etc.)
 
 
 ### OFF→HIGH(
-`kia_stinger_en_6a9c03b4` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:241
 
 )→MIDDLE(
 )→LOW(
@@ -10666,7 +10384,6 @@ possible sunvisor damage.
 
 
 ### CAUTION - Seat damage
-`kia_stinger_en_5a732957` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:242
 
 • When cleaning the seats, do
 not use an organic solvent
@@ -10686,7 +10403,6 @@ seat, dry the seat completely.
 
 
 ### OCK047434
-`kia_stinger_en_2d8c222e` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:242
 
 Features of your vehicle
 156
@@ -10733,7 +10449,6 @@ electric shock.
 
 
 ### OCK047435N
-`kia_stinger_en_13eaa62f` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:243
 
 OCK047436
 ■Type A
@@ -10775,7 +10490,6 @@ upper portion of hanger.
 
 
 ### OCK047441
-`kia_stinger_en_6273b57b` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:244
 
 ■Type A
 ■Type B
@@ -10792,25 +10506,22 @@ the floor mat anchor(s) in your vehicle. This keeps the floor mat from
 sliding forward.
 
 
-### WARNING
-`kia_stinger_en_d939ad0d` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:245
-
-Do not hang other objects such
-as hangers or hard objects
-except clothes. Also, do not put
-heavy,
-sharp
-or
-breakable
-objects in the clothe pockets. In
-an accident or when the curtain
-air bag is inflated, it may cause
-vehicle damage or personal
-injury.
+> ⚠️ **Внимание:** 
+> Do not hang other objects such
+> as hangers or hard objects
+> except clothes. Also, do not put
+> heavy,
+> sharp
+> or
+> breakable
+> objects in the clothe pockets. In
+> an accident or when the curtain
+> air bag is inflated, it may cause
+> vehicle damage or personal
+> injury.
 
 
 ### OPS046500
-`kia_stinger_en_1d3f003a` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:245
 
 CAUTION - Hanging
 clothing
@@ -10846,18 +10557,15 @@ located in the cargo area to attach
 the luggage net.
 
 
-### WARNING
-`kia_stinger_en_7b34f543` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:246
-
-To avoid eye injury, DO NOT
-overstretch the luggage net.
-ALWAYS keep your face and
-body out of the luggage net’s
-recoil path. DO NOT use the luggage net when the strap has visible signs of wear or damage.
+> ⚠️ **Внимание:** 
+> To avoid eye injury, DO NOT
+> overstretch the luggage net.
+> ALWAYS keep your face and
+> body out of the luggage net’s
+> recoil path. DO NOT use the luggage net when the strap has visible signs of wear or damage.
 
 
 ### OCK047443
-`kia_stinger_en_b4338a16` | stinger | pdf_manual | tier:2 | lang:en | layer:infotainment | p:246
 
 CAUTION
 To prevent damage to the goods
@@ -10885,7 +10593,6 @@ transmit data.
 
 
 ### AUDIO SYSTEM
-`kia_stinger_en_5f80ebbd` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:247
 
 OCK047444
 CAUTION
@@ -10921,7 +10628,6 @@ Features of your vehicle
 
 
 ### AUX, USB port
-`kia_stinger_en_a9727481` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:248
 
 You can use an AUX port to connect
 audio devices and an USB port to
@@ -10936,7 +10642,6 @@ portable audio device.
 
 
 ### WARNING - Distracted
-`kia_stinger_en_2e8d5fe2` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:248
 
 driving
 Driving while distracted can
@@ -10954,7 +10659,6 @@ of the vehicle.
 
 
 ### OCK047446N
-`kia_stinger_en_fb0d2529` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:248
 
 Features of your vehicle
 162
@@ -11108,7 +10812,6 @@ possible by an authorized Kia dealer.
 
 
 ### WARNING - Engine
-`kia_stinger_en_25f7040f` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:254
 
 exhaust
 Do not inhale exhaust fumes or
@@ -11122,7 +10825,6 @@ asphyxiation.
 
 
 ### WARNING - Open liftgate
-`kia_stinger_en_5df35e0e` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:254
 
 Do not drive with the liftgate
 open. Poisonous exhaust gases
@@ -11137,7 +10839,6 @@ fan at the highest speed.
 
 
 ### CALIFORNIA PROPO-
-`kia_stinger_en_e94913ac` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:254
 
 SITION 65 WARNING
 Engine exhaust and a wide variety of automobile components
@@ -11186,7 +10887,6 @@ equipment.
 
 
 ### BEFORE DRIVING
-`kia_stinger_en_7ca45976` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:255
 
 WARNING - Distracted
 driving
@@ -11220,7 +10920,6 @@ and cause fire.
 
 
 ### WARNING - Loose
-`kia_stinger_en_475f8ba6` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:256
 
 objects
 Securely store items in your
@@ -11232,7 +10931,6 @@ causing an accident.
 
 
 ### WARNING - Driving while
-`kia_stinger_en_839f7e0d` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:256
 
 intoxicated
 Do not drive while intoxicated.
@@ -11283,7 +10981,6 @@ of the cluster.
 
 
 ### ENGINE START/STOP BUTTON
-`kia_stinger_en_9bb40656` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:257
 
 OCK057001
 OCK057163
@@ -11303,7 +11000,6 @@ engine is not running.
 
 
 ### START/RUN
-`kia_stinger_en_39f120cd` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:258
 
 To start the engine, depress the
 brake pedal and press the ENGINE
@@ -11326,7 +11022,6 @@ will discharge.
 
 
 ### WARNING - Starting
-`kia_stinger_en_3b754fde` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:258
 
 vehicle
 Never
@@ -11377,7 +11072,6 @@ the smart key with you.
 
 
 ### WARNING - Unintended
-`kia_stinger_en_75d77db9` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:259
 
 vehicle movement
 Never leave the smart key in the
@@ -11419,7 +11113,6 @@ pedal before starting the engine.
 
 
 ### Do not press the ENGINE START/
-`kia_stinger_en_9525f68e` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:260
 
 STOP button for more than 10 seconds except when the stop lamp fuse
 is blown.
@@ -11447,7 +11140,6 @@ a forward or reverse gear.
 
 
 ### AUTOMATIC TRANSMISSION
-`kia_stinger_en_9e3e58e2` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:261
 
 OCK057164
 + (UP)
@@ -11486,7 +11178,6 @@ are applied.
 
 
 ### WARNING - Leaving
-`kia_stinger_en_4e956623` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:262
 
 Vehicle
 Before leaving the driver’s seat,
@@ -11504,7 +11195,6 @@ not followed.
 
 
 ### CAUTION - Transmission
-`kia_stinger_en_fb1c559d` | stinger | pdf_manual | tier:2 | lang:en | layer:transmission | p:262
 
 To avoid damage to your transmission, do not accelerate the
 engine in R (Reverse) or any forward gear position with the
@@ -11515,7 +11205,6 @@ in motion.
 
 
 ### CAUTION - Shifting
-`kia_stinger_en_66d882b8` | stinger | pdf_manual | tier:2 | lang:en | layer:transmission | p:262
 
 Always come to a complete stop
 before shifting into or out of R
@@ -11548,7 +11237,6 @@ the parking brake.
 
 
 ### If [AUTO
-`kia_stinger_en_b9bf88ad` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:263
 
 HOLD] function is used while
 driving (If [AUTO HOLD] indicator
@@ -11568,7 +11256,6 @@ screw-driver) into the [SHIFT
 
 
 ### LOCK RELEASE] access hole at
-`kia_stinger_en_f53dc8fb` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:263
 
 the same time. Then, the vehicle
 will move when external force is
@@ -11587,7 +11274,6 @@ will be engaged automatically.
 
 
 ### Therefore, [AUTO HOLD] func-
-`kia_stinger_en_a8abd6ce` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:263
 
 tion should be turned off before
 the ignition button is turned off.
@@ -11653,7 +11339,6 @@ position as required.
 
 
 ### OCK057166N
-`kia_stinger_en_4afcdc8d` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:264
 
 5 15
 Driving your vehicle
@@ -11707,7 +11392,6 @@ shift the gear.
 
 
 ### OCK057007L
-`kia_stinger_en_65e8af46` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:265
 
 Driving your vehicle
 16
@@ -11742,7 +11426,6 @@ press down on the tool.
 
 
 ### WARNING - Shifting from
-`kia_stinger_en_99c48c8b` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:266
 
 park
 Always fully depress the brake
@@ -11754,7 +11437,6 @@ or around the vehicle.
 
 
 ### OCK057180N
-`kia_stinger_en_f4bcf4e0` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:266
 
 5 17
 Driving your vehicle
@@ -11852,7 +11534,6 @@ on both brake and accelerate pedals, Launch Control will automatically deactivat
 
 
 ### OCK047156L
-`kia_stinger_en_aa805156` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:268
 
 OCK047157L
 5 19
@@ -11879,20 +11560,17 @@ depending on fuel, environment,
 tire, and loading conditions.
 
 
-### CAUTION
-`kia_stinger_en_36a8ec17` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:269
-
-Constant use of Launch Control
-can put enormous stress on
-transmission, engine, and drive
-shafts and can result in vehicle
-damage. It is highly recommended that Launch Control is
-used after completion of the
-vehicle brake-in process.
+> ⚠️ **Внимание:** 
+> Constant use of Launch Control
+> can put enormous stress on
+> transmission, engine, and drive
+> shafts and can result in vehicle
+> damage. It is highly recommended that Launch Control is
+> used after completion of the
+> vehicle brake-in process.
 
 
 ### OCK047158L
-`kia_stinger_en_e4e126f7` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:269
 
 WARNING
 It is the responsibility of the
@@ -11915,7 +11593,6 @@ automatically in the D (Drive) position.
 
 
 ### AUTOMATIC TRANSMISSION (SHIFT-BY-WIRE) (IF EQUIPPED)
-`kia_stinger_en_02db5376` | stinger | pdf_manual | tier:2 | lang:en | layer:transmission | p:270
 
 OCK057008L
 When you move the shift lever (1), depress the brake pedal while pressing the UNLOCK
@@ -11946,33 +11623,30 @@ pedal and then apply the parking
 brake.
 
 
-### WARNING
-`kia_stinger_en_dca6741c` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:271
-
-To reduce the risk of serious
-injury or death:
-• ALWAYS check the surrounding areas near your vehicle for
-people, especially children,
-before shifting a vehicle into D
-(Drive) or R (Reverse).
-• Before leaving the driver’s
-seat, always make sure the
-shift lever is in the P (Park)
-position, then set the parking
-brake, and place the engine
-start/stop button in the OFF
-position. Unexpected and sudden vehicle movement can
-occur if these precautions are
-not followed.
-• Do not use engine braking
-(shifting from a high gear to
-lower gear) rapidly on slippery
-roads. The vehicle may slip
-causing an accident.
+> ⚠️ **Внимание:** 
+> To reduce the risk of serious
+> injury or death:
+> • ALWAYS check the surrounding areas near your vehicle for
+> people, especially children,
+> before shifting a vehicle into D
+> (Drive) or R (Reverse).
+> • Before leaving the driver’s
+> seat, always make sure the
+> shift lever is in the P (Park)
+> position, then set the parking
+> brake, and place the engine
+> start/stop button in the OFF
+> position. Unexpected and sudden vehicle movement can
+> occur if these precautions are
+> not followed.
+> • Do not use engine braking
+> (shifting from a high gear to
+> lower gear) rapidly on slippery
+> roads. The vehicle may slip
+> causing an accident.
 
 
 ### OCK057009N
-`kia_stinger_en_0f71febd` | stinger | pdf_manual | tier:2 | lang:en | layer:transmission | p:271
 
 CAUTION - Transmission
 To avoid damage to your transmission, do not accelerate the
@@ -12015,7 +11689,6 @@ brake.
 
 
 ### OCK057010N
-`kia_stinger_en_2a9e2276` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:272
 
 OCK057011N
 ■D (Drive) →R (Reverse)
@@ -12046,33 +11719,30 @@ through a 8-gear sequence, providing
 the best fuel economy and power.
 
 
-### WARNING
-`kia_stinger_en_8708fb37` | stinger | pdf_manual | tier:2 | lang:en | layer:transmission | p:273
-
-• To avoid inadvertent vehicle
-movement, do not shift into
-gear unless your foot is firmly
-on the brake pedal.
-• D not permit your vehicle to
-idle in the N (Neutral) position
-for  an extended period of
-time as this will preclude the
-wheels and the transmission
-from engaging. While parking
-the vehicle with the engine
-running, depress the brake
-pedal, shift the vehicle to the
-P (Park) position and apply
-the parking brake.
-• Do not drive with the shift
-lever in N (Neutral).
-The
-engine brake will not work
-and may lead to an accident.
+> ⚠️ **Внимание:** 
+> • To avoid inadvertent vehicle
+> movement, do not shift into
+> gear unless your foot is firmly
+> on the brake pedal.
+> • D not permit your vehicle to
+> idle in the N (Neutral) position
+> for  an extended period of
+> time as this will preclude the
+> wheels and the transmission
+> from engaging. While parking
+> the vehicle with the engine
+> running, depress the brake
+> pedal, shift the vehicle to the
+> P (Park) position and apply
+> the parking brake.
+> • Do not drive with the shift
+> lever in N (Neutral).
+> The
+> engine brake will not work
+> and may lead to an accident.
 
 
 ### OCK057013N
-`kia_stinger_en_0e402685` | stinger | pdf_manual | tier:2 | lang:en | layer:transmission | p:273
 
 OCK057014N
 ■ R (Reverse) →D (Drive)
@@ -12139,20 +11809,17 @@ normal
 mechanical sound would occur.
 
 
-### CAUTION
-`kia_stinger_en_c5d43b66` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:274
-
-• For EPB (Electronic Parking
-Brake) equipped vehicles with
-[AUTO HOLD] function used
-while driving, if the ignition button has been turned [OFF], the
-electronic parking brake will be
-engaged
-automatically.
+> ⚠️ **Внимание:** 
+> • For EPB (Electronic Parking
+> Brake) equipped vehicles with
+> [AUTO HOLD] function used
+> while driving, if the ignition button has been turned [OFF], the
+> electronic parking brake will be
+> engaged
+> automatically.
 
 
 ### Therefore, [AUTO HOLD] func-
-`kia_stinger_en_4d984af2` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:274
 
 tion should be turned off before
 the ignition button is turned off.
@@ -12186,7 +11853,6 @@ may not occur.
 
 
 ### OCK057007L
-`kia_stinger_en_e4bf8924` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:275
 
 WARNING
 • With the exception of parking
@@ -12248,7 +11914,6 @@ turning OFF the engine.
 
 
 ### OCK057169N
-`kia_stinger_en_6329dd1e` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:276
 
 5 27
 Driving your vehicle
@@ -12282,26 +11947,23 @@ vehicle
 inspected by an authorized Kia dealer.
 
 
-### WARNING
-`kia_stinger_en_bcf81cca` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:277
-
-• Do not depress the accelerator pedal While sitting in the
-vehicle with the engine running. Depressing the accelerator pedal for a long period of
-time may cause the engine or
-exhaust system to overheat
-and start a fire.
-• The exhaust gas and the
-exhaust system are very hot .
-Keep away from the exhaust
-system components. Do not
-stop or park over flammable
-materials, such as dry grass,
-paper or leaves. They may
-ignite and cause a fire.
+> ⚠️ **Внимание:** 
+> • Do not depress the accelerator pedal While sitting in the
+> vehicle with the engine running. Depressing the accelerator pedal for a long period of
+> time may cause the engine or
+> exhaust system to overheat
+> and start a fire.
+> • The exhaust gas and the
+> exhaust system are very hot .
+> Keep away from the exhaust
+> system components. Do not
+> stop or park over flammable
+> materials, such as dry grass,
+> paper or leaves. They may
+> ignite and cause a fire.
 
 
 ### OCK057143L
-`kia_stinger_en_bb08d29d` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:277
 
 Driving your vehicle
 28
@@ -12329,7 +11991,6 @@ brake pedal and then shift the gear.
 
 
 ### OCK057070L
-`kia_stinger_en_2d6b2372` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:278
 
 OCK057071L
 OCK057072L
@@ -12366,7 +12027,6 @@ Driving your vehicle
 
 
 ### NEUTRAL engaged
-`kia_stinger_en_fb683e78` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:280
 
 The message appears on the LCD
 display, when the N (Neutral) position is engaged.
@@ -12427,77 +12087,74 @@ accelerator.
 Kia recommends you follow all posted speed limits.
 
 
-### WARNING
-`kia_stinger_en_73d4666d` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:281
-
-To reduce the risk of SERIOUS
-INJURY or DEATH:
-• ALWAYS wear your seatbelt.
-In a collision, an unbelted
-occupant is significantly more
-likely to be seriously injured
-or killed than a properly belted occupant.
-• Avoid high speeds when cornering or turning.
-• Do not make quick steering
-wheel movements, such as
-sharp lane changes or fast,
-sharp turns.
-• The risk of rollover is greatly
-increased if you lose control
-of your vehicle at highway
-speeds.
-(Continued)
-(Continued)
-• Loss of control often occurs if
-two or more wheels drop off
-the roadway and the driver
-over steers to reenter the
-roadway.
-• In the event your vehicle
-leaves the roadway, do not
-steer sharply. Instead, slow
-down before pulling back into
-the travel lanes.
-• Do not attempt sudden or
-abrupt driving maneuvers on
-slippery surfaces. Attempting
-such maneuvers can result in
-loss of vehicle control and
-accidents.
-Driving your vehicle
-32
-5
-✽NOTICE
-- Kickdown Mechanism
-Use the kickdown mechanism for
-maximum acceleration. Depress the
-accelerator pedal beyond the pressure point. The automatic transmission will shift to a lower gear
-depending on the engine speed.
-Launch Control
-Launch Control Operation
-• When using Launch Control with
-an engine that is not warmed up
-enough, a driver should always
-make sure that the engine’s cooling water is warmed up and reaches a recommended temperature.
-• To operate ESC Off state 2, Press
-and hold ESC button for more than
-3 seconds in Sports mode. (Status
-Display on Cluster Screen)
-• For launching, stop the vehicle and
-keep a steering wheel straight.
-• Footbrakes, EPB and Auto Hold
-must be released for smooth
-launching.
-• Press the brake firmly with your left
-foot in transmission D mode, while
-pressing the accelerator pedal
-down fully with your right foot.
-Then, the Launch Control Ready
-(1) will be in place.
+> ⚠️ **Внимание:** 
+> To reduce the risk of SERIOUS
+> INJURY or DEATH:
+> • ALWAYS wear your seatbelt.
+> In a collision, an unbelted
+> occupant is significantly more
+> likely to be seriously injured
+> or killed than a properly belted occupant.
+> • Avoid high speeds when cornering or turning.
+> • Do not make quick steering
+> wheel movements, such as
+> sharp lane changes or fast,
+> sharp turns.
+> • The risk of rollover is greatly
+> increased if you lose control
+> of your vehicle at highway
+> speeds.
+> (Continued)
+> (Continued)
+> • Loss of control often occurs if
+> two or more wheels drop off
+> the roadway and the driver
+> over steers to reenter the
+> roadway.
+> • In the event your vehicle
+> leaves the roadway, do not
+> steer sharply. Instead, slow
+> down before pulling back into
+> the travel lanes.
+> • Do not attempt sudden or
+> abrupt driving maneuvers on
+> slippery surfaces. Attempting
+> such maneuvers can result in
+> loss of vehicle control and
+> accidents.
+> Driving your vehicle
+> 32
+> 5
+> ✽NOTICE
+> - Kickdown Mechanism
+> Use the kickdown mechanism for
+> maximum acceleration. Depress the
+> accelerator pedal beyond the pressure point. The automatic transmission will shift to a lower gear
+> depending on the engine speed.
+> Launch Control
+> Launch Control Operation
+> • When using Launch Control with
+> an engine that is not warmed up
+> enough, a driver should always
+> make sure that the engine’s cooling water is warmed up and reaches a recommended temperature.
+> • To operate ESC Off state 2, Press
+> and hold ESC button for more than
+> 3 seconds in Sports mode. (Status
+> Display on Cluster Screen)
+> • For launching, stop the vehicle and
+> keep a steering wheel straight.
+> • Footbrakes, EPB and Auto Hold
+> must be released for smooth
+> launching.
+> • Press the brake firmly with your left
+> foot in transmission D mode, while
+> pressing the accelerator pedal
+> down fully with your right foot.
+> Then, the Launch Control Ready
+> (1) will be in place.
 
 
 ### OCK047156L
-`kia_stinger_en_3460df33` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:282
 
 5 33
 Driving your vehicle
@@ -12548,34 +12205,31 @@ depending on fuel, environment,
 tire, and loading conditions.
 
 
-### WARNING
-`kia_stinger_en_4cf03739` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:284
-
-It is the responsibility of the
-driver to make sure it is safe
-before using Launch Control.
-Do not use Launch Control on
-public roads or when pedestrian
-congestion is present. Doing so
-could result in an accident that
-causes serious injuries.
-5 35
-Driving your vehicle
-Using All Wheel Drive (AWD)
-The All Wheel Drive (AWD) System
-delivers engine power to front and
-rear wheels for maximum traction.
-AWD is useful when extra traction is
-required, such as when driving slippery, muddy, wet, or snow-covered
-roads.
-If the system determines there is a
-need for four wheel drive, the
-engine's driving power is distributed
-to all four wheels automatically.
+> ⚠️ **Внимание:** 
+> It is the responsibility of the
+> driver to make sure it is safe
+> before using Launch Control.
+> Do not use Launch Control on
+> public roads or when pedestrian
+> congestion is present. Doing so
+> could result in an accident that
+> causes serious injuries.
+> 5 35
+> Driving your vehicle
+> Using All Wheel Drive (AWD)
+> The All Wheel Drive (AWD) System
+> delivers engine power to front and
+> rear wheels for maximum traction.
+> AWD is useful when extra traction is
+> required, such as when driving slippery, muddy, wet, or snow-covered
+> roads.
+> If the system determines there is a
+> need for four wheel drive, the
+> engine's driving power is distributed
+> to all four wheels automatically.
 
 
 ### ALL WHEEL DRIVE (AWD) (IF EQUIPPED)
-`kia_stinger_en_2992803b` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:285
 
 WARNING
 If the AWD warning light (
@@ -12589,176 +12243,169 @@ checked by an authorized Kia
 dealer as soon as possible.
 
 
-### WARNING
-`kia_stinger_en_2ebc78b7` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:285
-
-To reduce the risk of SERIOUS
-INJURY or DEATH:
-• Do not drive in conditions that
-exceed the vehicles intended
-design such as challenging
-off-road conditions.
-(Continued)
-(Continued)
-• Avoid high speeds when cornering or turning.
-• Do not make quick steering
-wheel movements, such as
-sharp lane changes or fast,
-sharp turns.
-• The risk of a rollover is greatly increased if you lose control of your vehicle at highway
-speeds.
-• Loss of control often occurs if
-two or more wheels drop off
-the roadway and the driver
-over steers to reenter the
-roadway.
-• In the event your vehicle
-leaves the roadway, do not
-steer sharply. Instead, slow
-down before pulling back into
-the travel lanes.
-Driving your vehicle
-36
-5
-✽NOTICE
-• Do not drive in water if the level is
-higher than the bottom of the vehicle.
-• Check your brake condition once
-you are out of mud or water.
-Depress the brake pedal several
-times as you move slowly until you
-feel normal braking return.
-• Shorten your scheduled maintenance interval if you drive in offroad conditions such as sand, mud
-or water (see "Maintenance Under
-Severe Usage Conditions" in chapter 7).
-• Make sure that AWD vehicle is
-towed by a flatbed tow truck.
-For safe AWD operation
-Before driving
-• Make sure all passengers are
-wearing seat belts.
-• Sit upright and closer to the steering wheel than usual. Adjust the
-steering wheel to a position comfortable for you to drive.
-Driving on snow-covered or icy roads
-• Start off slowly by applying the
-accelerator pedal gently.
-• Use snow tires or tire chains.
-• Keep sufficient distance between
-your vehicle and the vehicle in front
-of you.
-• Use engine braking during deceleration.
-• Avoid speeding, rapid acceleration,
-sudden brake applications, and
-sharp turns to prevent skids.
-Driving in sand or mud
-• Maintain slow and constant speed.
-• Use tire chains driving in mud if
-necessary.
-• Keep sufficient distance between
-your vehicle and the vehicle in front
-of you.
-• Reduce vehicle speed and always
-check the road condition.
-• Avoid speeding, rapid acceleration,
-sudden brake applications, and
-sharp turns to prevent getting
-stuck.
-✽NOTICE
-When the vehicle is stuck in snow,
-sand or mud, place a non-slip material under the drive wheels to provide traction OR slowly spin the
-wheels in forward and reverse directions which causes a rocking motion
-that may free the vehicle. However,
-avoid running the engine continuously at high rpm, doing so may
-damage the AWD system.
-5 37
-Driving your vehicle
-✽NOTICE
-• When using Snow Tires, mount
-them on all four wheels.
-• When using Tire Chains, install
-them on all four tires. However, if
-you are in a situation to use only
-two tire chains, install them on the
-rear tires. In this case, drive a
-short distance to prevent damage
-to the AWD system.
-• If tire chains must be used, use
-AutoSock (fabric snow chain) and
-install the tire chain after reviewing the instructions provided with
-the tire chains.
-For more information on Snow Tires
-and Tire Chains, refer to "Winter
-Driving" in this chapter.
-Driving up or down hills
-• Driving uphill
-- Before starting off, check if it is
-possible to drive uphill.
-- Drive as straight as possible.
-• Driving downhill
-- Do not change gear while driving
-downhill. Select gear before driving downhill.
-- Drive as slowly using engine
-braking while driving downhill.
-- Drive straight as possible.
-Emergency precautions
-Tires
-When replacing the tires, be sure to
-equip all four tires with the tire and
-wheel of the same size, type, tread,
-brand and load-carrying capacity.
-In case of emergency such as tire
-puncture, repair it using TMK (Tire
-Mobility Kit) for temporary use.
-Afterwards, have the tire be inspected by an authorized Kia dealer/service partner.
+> ⚠️ **Внимание:** 
+> To reduce the risk of SERIOUS
+> INJURY or DEATH:
+> • Do not drive in conditions that
+> exceed the vehicles intended
+> design such as challenging
+> off-road conditions.
+> (Continued)
+> (Continued)
+> • Avoid high speeds when cornering or turning.
+> • Do not make quick steering
+> wheel movements, such as
+> sharp lane changes or fast,
+> sharp turns.
+> • The risk of a rollover is greatly increased if you lose control of your vehicle at highway
+> speeds.
+> • Loss of control often occurs if
+> two or more wheels drop off
+> the roadway and the driver
+> over steers to reenter the
+> roadway.
+> • In the event your vehicle
+> leaves the roadway, do not
+> steer sharply. Instead, slow
+> down before pulling back into
+> the travel lanes.
+> Driving your vehicle
+> 36
+> 5
+> ✽NOTICE
+> • Do not drive in water if the level is
+> higher than the bottom of the vehicle.
+> • Check your brake condition once
+> you are out of mud or water.
+> Depress the brake pedal several
+> times as you move slowly until you
+> feel normal braking return.
+> • Shorten your scheduled maintenance interval if you drive in offroad conditions such as sand, mud
+> or water (see "Maintenance Under
+> Severe Usage Conditions" in chapter 7).
+> • Make sure that AWD vehicle is
+> towed by a flatbed tow truck.
+> For safe AWD operation
+> Before driving
+> • Make sure all passengers are
+> wearing seat belts.
+> • Sit upright and closer to the steering wheel than usual. Adjust the
+> steering wheel to a position comfortable for you to drive.
+> Driving on snow-covered or icy roads
+> • Start off slowly by applying the
+> accelerator pedal gently.
+> • Use snow tires or tire chains.
+> • Keep sufficient distance between
+> your vehicle and the vehicle in front
+> of you.
+> • Use engine braking during deceleration.
+> • Avoid speeding, rapid acceleration,
+> sudden brake applications, and
+> sharp turns to prevent skids.
+> Driving in sand or mud
+> • Maintain slow and constant speed.
+> • Use tire chains driving in mud if
+> necessary.
+> • Keep sufficient distance between
+> your vehicle and the vehicle in front
+> of you.
+> • Reduce vehicle speed and always
+> check the road condition.
+> • Avoid speeding, rapid acceleration,
+> sudden brake applications, and
+> sharp turns to prevent getting
+> stuck.
+> ✽NOTICE
+> When the vehicle is stuck in snow,
+> sand or mud, place a non-slip material under the drive wheels to provide traction OR slowly spin the
+> wheels in forward and reverse directions which causes a rocking motion
+> that may free the vehicle. However,
+> avoid running the engine continuously at high rpm, doing so may
+> damage the AWD system.
+> 5 37
+> Driving your vehicle
+> ✽NOTICE
+> • When using Snow Tires, mount
+> them on all four wheels.
+> • When using Tire Chains, install
+> them on all four tires. However, if
+> you are in a situation to use only
+> two tire chains, install them on the
+> rear tires. In this case, drive a
+> short distance to prevent damage
+> to the AWD system.
+> • If tire chains must be used, use
+> AutoSock (fabric snow chain) and
+> install the tire chain after reviewing the instructions provided with
+> the tire chains.
+> For more information on Snow Tires
+> and Tire Chains, refer to "Winter
+> Driving" in this chapter.
+> Driving up or down hills
+> • Driving uphill
+> - Before starting off, check if it is
+> possible to drive uphill.
+> - Drive as straight as possible.
+> • Driving downhill
+> - Do not change gear while driving
+> downhill. Select gear before driving downhill.
+> - Drive as slowly using engine
+> braking while driving downhill.
+> - Drive straight as possible.
+> Emergency precautions
+> Tires
+> When replacing the tires, be sure to
+> equip all four tires with the tire and
+> wheel of the same size, type, tread,
+> brand and load-carrying capacity.
+> In case of emergency such as tire
+> puncture, repair it using TMK (Tire
+> Mobility Kit) for temporary use.
+> Afterwards, have the tire be inspected by an authorized Kia dealer/service partner.
 
 
-### WARNING
-`kia_stinger_en_39b33e06` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:287
-
-Exercise extreme caution driving up or down steep hills. The
-vehicle may flip depending on
-the grade, terrain and water/
-mud conditions.
+> ⚠️ **Внимание:** 
+> Exercise extreme caution driving up or down steep hills. The
+> vehicle may flip depending on
+> the grade, terrain and water/
+> mud conditions.
 
 
-### WARNING
-`kia_stinger_en_39b33e06` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:287
-
-Do not use tire and wheel with
-different size and type from the
-one originally installed on your
-vehicle. It can affect the safety
-and performance of your vehicle, which could lead to steering
-failure or rollover causing serious injury.
-Driving your vehicle
-38
-5
-Towing
-AWD vehicles must be towed with a
-wheel lift and dollies or flatbed equipment with all the wheels off the
-ground. For more information, refer
-to "Towing" in chapter 6.
-Vehicle inspection
-• When the vehicle is on a car lift, do
-not operate the front and rear
-wheels separately. All four wheels
-should be operated.
-• Never engage the parking brake
-while running the engine on a car
-lift. This may damage the AWD
-system.
-
-WARNING
-Never start or run the engine
-while an AWD vehicle is raised
-on a jack.The vehicle can slip or
-roll off of a jack causing serious
-injury or death to you or those
-nearby.
+> ⚠️ **Внимание:** 
+> Do not use tire and wheel with
+> different size and type from the
+> one originally installed on your
+> vehicle. It can affect the safety
+> and performance of your vehicle, which could lead to steering
+> failure or rollover causing serious injury.
+> Driving your vehicle
+> 38
+> 5
+> Towing
+> AWD vehicles must be towed with a
+> wheel lift and dollies or flatbed equipment with all the wheels off the
+> ground. For more information, refer
+> to "Towing" in chapter 6.
+> Vehicle inspection
+> • When the vehicle is on a car lift, do
+> not operate the front and rear
+> wheels separately. All four wheels
+> should be operated.
+> • Never engage the parking brake
+> while running the engine on a car
+> lift. This may damage the AWD
+> system.
+>
+> WARNING
+> Never start or run the engine
+> while an AWD vehicle is raised
+> on a jack.The vehicle can slip or
+> roll off of a jack causing serious
+> injury or death to you or those
+> nearby.
 
 
 ### OCK057159L
-`kia_stinger_en_d50d8bac` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:288
 
 5 39
 Driving your vehicle
@@ -12805,7 +12452,6 @@ cause serious injury or death.
 
 
 ### OCK057161
-`kia_stinger_en_91bf37fc` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:289
 
 Driving your vehicle
 40
@@ -12843,7 +12489,6 @@ returns to normal.
 
 
 ### BRAKE SYSTEM
-`kia_stinger_en_fa176a36` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:290
 
 WARNING - Steep hill
 braking
@@ -12857,7 +12502,6 @@ temporary loss of braking performance.
 
 
 ### CAUTION - Brake Pedal
-`kia_stinger_en_61196f39` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:290
 
 Do not drive with your foot resting on the brake pedal. This will
 create abnormally high brake
@@ -12890,7 +12534,6 @@ brake pads as pairs.
 
 
 ### WARNING - Parking
-`kia_stinger_en_fb9e60a0` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:291
 
 brake
 Avoid applying the parking
@@ -12913,7 +12556,6 @@ serious accident.
 
 
 ### CAUTION - Replace brake
-`kia_stinger_en_9cece717` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:291
 
 pads
 Do not continue to drive with
@@ -12965,7 +12607,6 @@ down as far as possible.
 
 
 ### OYP054009K
-`kia_stinger_en_e3644055` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:292
 
 5 43
 Driving your vehicle
@@ -12984,7 +12625,6 @@ rotor wear.
 
 
 ### WARNING - Parking brake
-`kia_stinger_en_dc5628d3` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:293
 
 use
 • Never allow a passenger to
@@ -13001,7 +12641,6 @@ occupants or pedestrians.
 
 
 ### OYP054010K
-`kia_stinger_en_5dd7227f` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:293
 
 Driving your vehicle
 44
@@ -13072,7 +12711,6 @@ goes off.
 
 
 ### OCK057018
-`kia_stinger_en_eb5d199b` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:295
 
 Driving your vehicle
 46
@@ -13129,55 +12767,52 @@ applied. (Vehicles equipped with
 Auto Hold)
 
 
-### CAUTION
-`kia_stinger_en_4e4fcebd` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:296
-
-Do not drive your vehicle with
-the EPB applied. It may cause
-excessive brake pad and brake
-rotor wear.
-5 47
-Driving your vehicle
-System warning
-• If you try to drive off depressing the
-accelerator pedal with the EPB
-applied, but the EPB doesn't
-release automatically, a warning
-will sound and a message will
-appear.
-• If the driver's seat belt is not fastened and the engine hood, driver's
-door or liftgate is opened, a warning will sound and a message will
-appear.
-• If there is a problem with the vehicle, a warning may sound and a
-message may appear.
-If the above situation occurs, depress
-the brake pedal and release EPB by
-pressing the EPB switch.
-• A click or electric brake motor
-whine sound may be heard while
-operating or releasing the EPB, but
-these conditions are normal and
-indicate that the EPB is functioning
-properly.
-• When leaving your keys with a
-parking lot attendant or valet, make
-sure to inform him/her how to operate the EPB.
-• The EPB may malfunction if you
-drive with the EPB applied.
-• When you automatically release
-EPB by depressing the accelerator
-pedal, depress it slowly.
-
-WARNING - Parking
-Brake Use
-All vehicles should always have
-the parking brake fully engaged
-when parked to avoid inadvertent movement of the car which
-can injure occupants or pedestrians.
+> ⚠️ **Внимание:** 
+> Do not drive your vehicle with
+> the EPB applied. It may cause
+> excessive brake pad and brake
+> rotor wear.
+> 5 47
+> Driving your vehicle
+> System warning
+> • If you try to drive off depressing the
+> accelerator pedal with the EPB
+> applied, but the EPB doesn't
+> release automatically, a warning
+> will sound and a message will
+> appear.
+> • If the driver's seat belt is not fastened and the engine hood, driver's
+> door or liftgate is opened, a warning will sound and a message will
+> appear.
+> • If there is a problem with the vehicle, a warning may sound and a
+> message may appear.
+> If the above situation occurs, depress
+> the brake pedal and release EPB by
+> pressing the EPB switch.
+> • A click or electric brake motor
+> whine sound may be heard while
+> operating or releasing the EPB, but
+> these conditions are normal and
+> indicate that the EPB is functioning
+> properly.
+> • When leaving your keys with a
+> parking lot attendant or valet, make
+> sure to inform him/her how to operate the EPB.
+> • The EPB may malfunction if you
+> drive with the EPB applied.
+> • When you automatically release
+> EPB by depressing the accelerator
+> pedal, depress it slowly.
+>
+> WARNING - Parking
+> Brake Use
+> All vehicles should always have
+> the parking brake fully engaged
+> when parked to avoid inadvertent movement of the car which
+> can injure occupants or pedestrians.
 
 
 ### OCK057182L
-`kia_stinger_en_f901cd98` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:297
 
 Driving your vehicle
 48
@@ -13216,7 +12851,6 @@ malfunctioned.
 
 
 ### OCK057081L
-`kia_stinger_en_5182aff1` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:298
 
 OCK057079L
 OCK057157
@@ -13258,40 +12892,37 @@ possible only while you are holding
 the EPB switch.
 
 
-### WARNING
-`kia_stinger_en_02f8215a` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:299
-
-Do not operate the electronic
-parking brake while the vehicle
-is moving except in an emergency situation. Applying the
-electronic parking brake while
-the vehicle is moving at normal
-speeds can cause a sudden
-loss of control of the vehicle. If
-you must use the electronic
-parking brake to stop the vehicle, use great caution in applying the brake.
-Driving your vehicle
-50
-5
-✽NOTICE
-During emergency braking by the
-EPB, the parking brake warning
-light will illuminate to indicate that
-the system is operating.
-If you notice a continuous noise or
-burning smell when the EPB is used
-for emergency braking, have your
-vehicle checked by an authorized Kia
-dealer.
-When the EPB (electronic parking
-brake) is not released
-If the EPB does not release normally, take your vehicle to an authorized
-Kia dealer by loading the vehicle on
-a flatbed tow truck and have the system checked.
+> ⚠️ **Внимание:** 
+> Do not operate the electronic
+> parking brake while the vehicle
+> is moving except in an emergency situation. Applying the
+> electronic parking brake while
+> the vehicle is moving at normal
+> speeds can cause a sudden
+> loss of control of the vehicle. If
+> you must use the electronic
+> parking brake to stop the vehicle, use great caution in applying the brake.
+> Driving your vehicle
+> 50
+> 5
+> ✽NOTICE
+> During emergency braking by the
+> EPB, the parking brake warning
+> light will illuminate to indicate that
+> the system is operating.
+> If you notice a continuous noise or
+> burning smell when the EPB is used
+> for emergency braking, have your
+> vehicle checked by an authorized Kia
+> dealer.
+> When the EPB (electronic parking
+> brake) is not released
+> If the EPB does not release normally, take your vehicle to an authorized
+> Kia dealer by loading the vehicle on
+> a flatbed tow truck and have the system checked.
 
 
 ### AUTO HOLD (if equipped)
-`kia_stinger_en_c799738b` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:300
 
 The Auto Hold maintains the vehicle
 in a standstill even though the brake
@@ -13308,7 +12939,6 @@ must be fastened.
 
 
 ### OCK057019N
-`kia_stinger_en_57d46fb5` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:300
 
 5 51
 Driving your vehicle
@@ -13344,7 +12974,6 @@ depressing the brake pedal.
 
 
 ### OCK057020N
-`kia_stinger_en_db01edac` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:301
 
 OCK057021N
 Driving your vehicle
@@ -13402,35 +13031,32 @@ indicate that the EPB is functioning
 properly.
 
 
-### WARNING
-`kia_stinger_en_197e8702` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:302
-
-To reduce the risk of an accident, do not activate Auto Hold
-while driving downhill, backing
-up or parking your vehicle.
-5 53
-Driving your vehicle
-Warning messages
-When the EPB is applied from Auto
-Hold, a warning will sound and a
-message will appear.
-When the conversion from Auto Hold
-to EPB is not working properly a
-warning will sound and a message
-will appear.
-✽NOTICE
-When this message is displayed, the
-Auto Hold and EPB may not operate. For your safety, depress the
-brake pedal.
-If you do not apply the brake pedal
-when you release the Auto Hold by
-pressing the [AUTO HOLD] switch, a
-warning will sound and a message
-will appear.
+> ⚠️ **Внимание:** 
+> To reduce the risk of an accident, do not activate Auto Hold
+> while driving downhill, backing
+> up or parking your vehicle.
+> 5 53
+> Driving your vehicle
+> Warning messages
+> When the EPB is applied from Auto
+> Hold, a warning will sound and a
+> message will appear.
+> When the conversion from Auto Hold
+> to EPB is not working properly a
+> warning will sound and a message
+> will appear.
+> ✽NOTICE
+> When this message is displayed, the
+> Auto Hold and EPB may not operate. For your safety, depress the
+> brake pedal.
+> If you do not apply the brake pedal
+> when you release the Auto Hold by
+> pressing the [AUTO HOLD] switch, a
+> warning will sound and a message
+> will appear.
 
 
 ### OCK057081L
-`kia_stinger_en_0b29caeb` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:303
 
 OCK057079L
 OCK057083L
@@ -13493,7 +13119,6 @@ system is functioning properly.
 
 
 ### OCK057084L
-`kia_stinger_en_99787394` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:304
 
 5 55
 Driving your vehicle
@@ -13597,7 +13222,6 @@ Stability Control System is functioning properly.
 
 
 ### OCK057151N
-`kia_stinger_en_12722623` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:306
 
 5 57
 Driving your vehicle
@@ -13615,7 +13239,6 @@ ESC on, press the ESC
 
 
 ### OFF button (ESC OFF
-`kia_stinger_en_dc098042` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:307
 
 indicator light will go off).
 • When starting the engine,
@@ -13642,7 +13265,6 @@ ESC operation off
 
 
 ### ESC OFF state
-`kia_stinger_en_feaf0f4a` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:307
 
 This car has 2 kinds of ESC
 off states.
@@ -13660,7 +13282,6 @@ To cancel ESC operation, press the
 
 
 ### ESC OFF button (ESC OFF
-`kia_stinger_en_a63023bb` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:308
 
 ) shortly (ESC OFF indicator light (ESC OFF
 ) illuminates). At this state, the
@@ -13671,7 +13292,6 @@ To cancel ESC operation, press the
 
 
 ### ESC OFF button (ESC OFF
-`kia_stinger_en_a63023bb` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:308
 
 ) for
 more than 3 seconds. ESC OFF indicator light (ESC OFF
@@ -13694,7 +13314,6 @@ the button.
 
 
 ### OCK057085L
-`kia_stinger_en_8b1be57f` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:308
 
 OCK057086L
 5 59
@@ -13725,7 +13344,6 @@ maintaining control under certain circumstances.
 
 
 ### WARNING - Operating
-`kia_stinger_en_34766203` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:309
 
 ESC
 Never press the ESC OFF button while ESC is operating (ESC
@@ -13778,7 +13396,6 @@ goes out.
 
 
 ### WARNING - Tire/
-`kia_stinger_en_f419d53d` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:310
 
 Wheel size
 When replacing tires and wheels,
@@ -13888,7 +13505,6 @@ the vehicle is stopped.
 
 
 ### WARNING - Maintaining
-`kia_stinger_en_a16b73b3` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:312
 
 Brake Pressure on Incline
 HAC does not replace the need
@@ -13936,7 +13552,6 @@ Driving your vehicle
 
 
 ### FORWARD COLLISION-AVOIDANCE ASSIST (FCA) (IF EQUIPPED)
-`kia_stinger_en_c9e34991` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:314
 
 The FCA system is designed to
 detect and monitor the vehicle ahead
@@ -13975,7 +13590,6 @@ cancels the system setting.
 
 
 ### WARNING - Forward
-`kia_stinger_en_b1293bd3` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:314
 
 Collision-Avoidance assist
 (FCA) Limitations
@@ -14080,39 +13694,36 @@ stopping the vehicle in the safe
 place for your safety.
 
 
-### WARNING
-`kia_stinger_en_8f68d1db` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:316
-
-To avoid driver distractions, do
-not attempt to set or cancel the
-FCA while operating the vehicle.
-5 67
-Driving your vehicle
-FCA warning message and
-system control
-The FCA produces warning messages and warning alarms in accordance with the collision risk levels of
-followings like vehicle’s sudden braking in front or lack of vehicle to vehicle
-distance or collision to pedestrians.
-Also, it controls the brakes in accordance with the collision risk levels.
-Collision Warning (1st warning)
-• The warning message appears on
-the LCD display with the warning
-alarms.
-• The FCA controls the brakes within
-certain limit to release shock from
-the collision.
-Emergency braking (2nd warning)
-• The warning message appears on
-the LCD display with the warning
-alarms.
-• The FCA controls the brakes within certain limit to release shock
-from the collision.
-The FCA controls the maximum
-brakes just before the collision.
+> ⚠️ **Внимание:** 
+> To avoid driver distractions, do
+> not attempt to set or cancel the
+> FCA while operating the vehicle.
+> 5 67
+> Driving your vehicle
+> FCA warning message and
+> system control
+> The FCA produces warning messages and warning alarms in accordance with the collision risk levels of
+> followings like vehicle’s sudden braking in front or lack of vehicle to vehicle
+> distance or collision to pedestrians.
+> Also, it controls the brakes in accordance with the collision risk levels.
+> Collision Warning (1st warning)
+> • The warning message appears on
+> the LCD display with the warning
+> alarms.
+> • The FCA controls the brakes within
+> certain limit to release shock from
+> the collision.
+> Emergency braking (2nd warning)
+> • The warning message appears on
+> the LCD display with the warning
+> alarms.
+> • The FCA controls the brakes within certain limit to release shock
+> from the collision.
+> The FCA controls the maximum
+> brakes just before the collision.
 
 
 ### OCK057091L
-`kia_stinger_en_a279e235` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:317
 
 OCK057152L
 Driving your vehicle
@@ -14156,7 +13767,6 @@ under all conditions.
 
 
 ### OCK057023L
-`kia_stinger_en_c185b861` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:318
 
 OCK057037L
 5 69
@@ -14218,7 +13828,6 @@ remove the foreign substances.
 
 
 ### OCK057093L
-`kia_stinger_en_16de5945` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:319
 
 Driving your vehicle
 70
@@ -14245,7 +13854,6 @@ of the ESC warning light.
 
 
 ### OCK057094L
-`kia_stinger_en_839a7c45` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:320
 
 WARNING
 The FCA is only a supplemental
@@ -14403,7 +14011,6 @@ the brake pedal.
 
 
 ### OYG056042
-`kia_stinger_en_c37429fe` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:323
 
 Driving your vehicle
 74
@@ -14438,7 +14045,6 @@ sharp deceleration.
 
 
 ### OYG056043
-`kia_stinger_en_8f4f9676` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:324
 
 OCK057024
 5 75
@@ -14467,7 +14073,6 @@ maintain a safe distance.
 
 
 ### OJF055028
-`kia_stinger_en_1a628492` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:325
 
 OJF055029
 Driving your vehicle
@@ -14523,7 +14128,6 @@ film, water repellent coating, damage on glass, foreign matter (sticker, insect,
 
 
 ### OCK057025
-`kia_stinger_en_57fa0b41` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:326
 
 5 77
 Driving your vehicle
@@ -14591,7 +14195,6 @@ death.
 
 
 ### WARNING - FCA and
-`kia_stinger_en_bb79cee8` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:327
 
 Towing
 Cancel the FCA in the User
@@ -14652,7 +14255,6 @@ speed and with sufficient distance to the vehicle in front.
 
 
 ### OCK057027L
-`kia_stinger_en_6cec532b` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:328
 
 5 79
 Driving your vehicle
@@ -14688,7 +14290,6 @@ km/h ) each time the lever is operated in this manner.
 
 
 ### OCK057033L
-`kia_stinger_en_670eb845` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:329
 
 OCK057028L
 OCK057034L
@@ -14731,7 +14332,6 @@ km/h).
 
 
 ### OCK057033L
-`kia_stinger_en_29cfe6ca` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:330
 
 OCK057031L
 5 81
@@ -14752,7 +14352,6 @@ If any method other than the
 
 
 ### CRUISE ON-OFF switch was used
-`kia_stinger_en_14459546` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:331
 
 to cancel cruising speed and the system is still activated, the most recent
 set speed will automatically resume
@@ -14773,7 +14372,6 @@ set cruise control speed” on the previous page.
 
 
 ### OCK057034L
-`kia_stinger_en_7963058d` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:331
 
 OCK057028L
 Driving your vehicle
@@ -14790,49 +14388,44 @@ without depressing the accelerator or
 brake pedal.
 
 
-### WARNING
-`kia_stinger_en_d441cd0a` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:332
-
-- Smart cruise control system Inadvertent Activation
-If the smart cruise control systemis left on (CRUISE indicator
-in the instrument cluster illuminated), it can be activated inadvertently. Keep the smart cruise
-control
-systemsystem
-off
-(CRUISE indicator turn off)
-when the smart cruise control
-systemis not in use to avoid
-setting a speed which the driver
-is not aware of.
+> ⚠️ **Внимание:** 
+> - Smart cruise control system Inadvertent Activation
+> If the smart cruise control systemis left on (CRUISE indicator
+> in the instrument cluster illuminated), it can be activated inadvertently. Keep the smart cruise
+> control
+> systemsystem
+> off
+> (CRUISE indicator turn off)
+> when the smart cruise control
+> systemis not in use to avoid
+> setting a speed which the driver
+> is not aware of.
 
 
-### WARNING
-`kia_stinger_en_d441cd0a` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:332
-
-- Smart cruise control system Limitations
-• The smart cruise control systemis a supplemental system
-and is not a substitute for safe
-driving practices. It is the
-responsibility of the driver to
-always check the speed and
-distance to the vehicle ahead.
-• Use the smart cruise control
-system only when traveling
-on open highways in good
-weather.
-• Do not use the smart cruise
-control when it may not be
-safe to keep the car at a constant speed. For instance.
-- Highway interchange and
-tollgate
-- Road surrounded by abnormally multiple steel constructions
-(subway
-construction, steel tunnel, etc)
-(Continued)
+> ⚠️ **Внимание:** 
+> - Smart cruise control system Limitations
+> • The smart cruise control systemis a supplemental system
+> and is not a substitute for safe
+> driving practices. It is the
+> responsibility of the driver to
+> always check the speed and
+> distance to the vehicle ahead.
+> • Use the smart cruise control
+> system only when traveling
+> on open highways in good
+> weather.
+> • Do not use the smart cruise
+> control when it may not be
+> safe to keep the car at a constant speed. For instance.
+> - Highway interchange and
+> tollgate
+> - Road surrounded by abnormally multiple steel constructions
+> (subway
+> construction, steel tunnel, etc)
+> (Continued)
 
 
 ### OCK057097N
-`kia_stinger_en_5fec536b` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:332
 
 5 83
 Driving your vehicle
@@ -14942,7 +14535,6 @@ going uphill or downhill.
 
 
 ### OCK057033L
-`kia_stinger_en_93494030` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:334
 
 OCK057028L
 5 85
@@ -14988,7 +14580,6 @@ above 20 mph (30 km/h).
 
 
 ### OCK057034L
-`kia_stinger_en_d21e02dc` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:335
 
 OCK057033L
 Driving your vehicle
@@ -15050,7 +14641,6 @@ range.
 
 
 ### OCK057035N
-`kia_stinger_en_56f98728` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:336
 
 5 87
 Driving your vehicle
@@ -15062,7 +14652,6 @@ has malfunctioned.
 
 
 ### Assist(FCA)
-`kia_stinger_en_9b75dc4a` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:337
 
 • The vehicle is stopped for more
 than 5 minutes.
@@ -15096,7 +14685,6 @@ chime.
 
 
 ### OCK057098L
-`kia_stinger_en_680e3563` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:337
 
 Driving your vehicle
 88
@@ -15126,7 +14714,6 @@ system.
 
 
 ### WARNING - Following
-`kia_stinger_en_7a6533fe` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:338
 
 Distance
 • To avoid collisions, always be
@@ -15139,7 +14726,6 @@ the brakes if necessary.
 
 
 ### OCK057028L
-`kia_stinger_en_2cd9e399` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:338
 
 OCK057034L
 5 89
@@ -15191,7 +14777,6 @@ When there is a vehicle ahead of you in your lane :
 
 
 ### OCK057102N
-`kia_stinger_en_da2b18b9` | stinger | pdf_manual | tier:2 | lang:en | layer:infotainment | p:340
 
 OCK057103N
 OCK057105N
@@ -15252,7 +14837,6 @@ to start driving.
 
 
 ### OCK057107L
-`kia_stinger_en_3ab12709` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:341
 
 OCK057108L
 Driving your vehicle
@@ -15293,7 +14877,6 @@ detected after turning ON the engine
 
 
 ### OCK057023L
-`kia_stinger_en_27618029` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:342
 
 OCK057109L
 5 93
@@ -15330,7 +14913,6 @@ System may not operate properly.
 
 
 ### CAUTION - Sensor
-`kia_stinger_en_269d38d5` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:343
 
 Damage
 To prevent sensor cover damage from occurring, wash the
@@ -15387,7 +14969,6 @@ mode will turn on.
 
 
 ### OCK057101L
-`kia_stinger_en_0e1dbcf9` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:344
 
 OCK057100L
 5 95
@@ -15426,7 +15007,6 @@ cruise control system.
 
 
 ### OYG056043
-`kia_stinger_en_07eba4e8` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:345
 
 OYG056042
 Driving your vehicle
@@ -15463,7 +15043,6 @@ selected speed.
 
 
 ### OYG056045
-`kia_stinger_en_63e70e6e` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:346
 
 OCK057024
 5 97
@@ -15497,7 +15076,6 @@ driving condition.
 
 
 ### OYG056046
-`kia_stinger_en_5b1c3b92` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:347
 
 OYG056047
 Driving your vehicle
@@ -15522,7 +15100,6 @@ vehicle.
 
 
 ### OJF055050
-`kia_stinger_en_f6767404` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:348
 
 OCK057025
 OYG056048
@@ -15553,7 +15130,6 @@ too close during a high-speed driving, a serious collision may result.
 
 
 ### WARNING - Inclines &
-`kia_stinger_en_4c92ceba` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:349
 
 Towing
 Do not use smart cruise control
@@ -15563,101 +15139,98 @@ trailer since such extreme loading can interfere with your vehicle's ability to 
 selected speed.
 
 
-### WARNING
-`kia_stinger_en_0b0eada0` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:349
-
-- Safe Use of smart cruise
-control system
-The smart cruise control system
-can provide you with an additional level of safety and fatigue
-reduction. However you must
-maintain careful observation of
-the roadway in front and around
-you and maintain control of your
-vehicle and spacing around
-other vehicles as you normally
-would. For example, this will
-require you to apply the brakes
-as needed when coming upon a
-slower moving vehicle, or when a
-vehicle from another lane drives
-quickly in front of you.
-Driving your vehicle
-100
-5
-- The smart cruise control system
-cannot recognize a stopped vehicle, pedestrians or an oncoming
-vehicle. Always look ahead cautiously to prevent unexpected and
-suddensituations from occurring.
-- When other vehicles are changing
-lanes in front of you frequently, the
-smart cruise control system may
-not operate appropriately. Always
-look ahead cautiously to prevent
-unexpected and sudden situations
-from occurring.
-- The smart cruise control system is
-not a substitute for safedriving
-practices but a convenience function only. It is the responsibility of
-the driver to always check the
-speed and the distance to the vehicle ahead.
-- Always be aware of the selected
-speed and vehicle to vehicle distance.
-- Always maintain sufficient braking
-distance and decelerate your vehicle by applying the brakes if necessary.
-This device complies with Part 15
-of the FCC rules.
-Operation is subject to the following
-three conditions:
-1. This device may not cause harmful interference, and
-2. This device must accept any interference received, including interference that may cause undesired
-operation.
-3. Changes or modifications not
-expressly approved by the party
-responsible for compliance could
-void the user’s authority to operate
-the device.
-Radio frequency radiation exposure information:
-This equipment complies with FCC
-radiation exposure limits set forth for
-an uncontrolled environment.
-This equipment should be installed
-and operated with minimum distance
-of 20 cm between the radiator
-(antenna) and your body.
-This transmitter must not be co-located or operating in conjunction with
-any other antenna or transmitter.
-5 101
-Driving your vehicle
-Your vehicle may be equipped with
-the ISG system, which reduces fuel
-consumption by automatically shutting down the engine, when the vehicle is at a standstill. (For example :
-red light, stop sign and traffic jam)
-The engine starts automatically as
-soon as the starting conditions are
-met.
-The ISG system is ON whenever the
-engine is running.
-✽NOTICE
-When the engine automatically
-starts by the ISG system, some
-warning lights (ABS, ESC, ESC
-OFF, EPS or Parking brake warning light) may turn on for a few seconds.
-This happens because of low battery
-voltage. It does not mean the system
-has malfunctioned.
-Auto stop
-To stop the engine in idle stop
-mode
-Stop the vehicle completely by
-pressing the brake pedal and the
-shift lever is in the D(Drive) or
-N(Neutral) position
-The engine will stop and the green
+> ⚠️ **Внимание:** 
+> - Safe Use of smart cruise
+> control system
+> The smart cruise control system
+> can provide you with an additional level of safety and fatigue
+> reduction. However you must
+> maintain careful observation of
+> the roadway in front and around
+> you and maintain control of your
+> vehicle and spacing around
+> other vehicles as you normally
+> would. For example, this will
+> require you to apply the brakes
+> as needed when coming upon a
+> slower moving vehicle, or when a
+> vehicle from another lane drives
+> quickly in front of you.
+> Driving your vehicle
+> 100
+> 5
+> - The smart cruise control system
+> cannot recognize a stopped vehicle, pedestrians or an oncoming
+> vehicle. Always look ahead cautiously to prevent unexpected and
+> suddensituations from occurring.
+> - When other vehicles are changing
+> lanes in front of you frequently, the
+> smart cruise control system may
+> not operate appropriately. Always
+> look ahead cautiously to prevent
+> unexpected and sudden situations
+> from occurring.
+> - The smart cruise control system is
+> not a substitute for safedriving
+> practices but a convenience function only. It is the responsibility of
+> the driver to always check the
+> speed and the distance to the vehicle ahead.
+> - Always be aware of the selected
+> speed and vehicle to vehicle distance.
+> - Always maintain sufficient braking
+> distance and decelerate your vehicle by applying the brakes if necessary.
+> This device complies with Part 15
+> of the FCC rules.
+> Operation is subject to the following
+> three conditions:
+> 1. This device may not cause harmful interference, and
+> 2. This device must accept any interference received, including interference that may cause undesired
+> operation.
+> 3. Changes or modifications not
+> expressly approved by the party
+> responsible for compliance could
+> void the user’s authority to operate
+> the device.
+> Radio frequency radiation exposure information:
+> This equipment complies with FCC
+> radiation exposure limits set forth for
+> an uncontrolled environment.
+> This equipment should be installed
+> and operated with minimum distance
+> of 20 cm between the radiator
+> (antenna) and your body.
+> This transmitter must not be co-located or operating in conjunction with
+> any other antenna or transmitter.
+> 5 101
+> Driving your vehicle
+> Your vehicle may be equipped with
+> the ISG system, which reduces fuel
+> consumption by automatically shutting down the engine, when the vehicle is at a standstill. (For example :
+> red light, stop sign and traffic jam)
+> The engine starts automatically as
+> soon as the starting conditions are
+> met.
+> The ISG system is ON whenever the
+> engine is running.
+> ✽NOTICE
+> When the engine automatically
+> starts by the ISG system, some
+> warning lights (ABS, ESC, ESC
+> OFF, EPS or Parking brake warning light) may turn on for a few seconds.
+> This happens because of low battery
+> voltage. It does not mean the system
+> has malfunctioned.
+> Auto stop
+> To stop the engine in idle stop
+> mode
+> Stop the vehicle completely by
+> pressing the brake pedal and the
+> shift lever is in the D(Drive) or
+> N(Neutral) position
+> The engine will stop and the green
 
 
 ### AUTO STOP(
-`kia_stinger_en_6f63fe05` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:351
 
 ) indicator on the
 instrument cluster will illuminate.
@@ -15673,7 +15246,6 @@ display.
 
 
 ### ISG (IDLE STOP AND GO) SYSTEM
-`kia_stinger_en_221a6110` | stinger | pdf_manual | tier:2 | lang:en | layer:transmission | p:351
 
 OCK057144
 OCK057095L
@@ -15701,7 +15273,6 @@ The engine will start and the green
 
 
 ### AUTO STOP indicator (
-`kia_stinger_en_c1914532` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:352
 
 ) on the
 instrument cluster will go out.
@@ -15730,7 +15301,6 @@ the brake pedal.
 
 
 ### OCK057096L
-`kia_stinger_en_20b4ef5c` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:352
 
 OCK057145
 5 103
@@ -15765,7 +15335,6 @@ and the light on the ISG OFF button will turn off.
 
 
 ### OCK057026N
-`kia_stinger_en_f04366be` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:353
 
 Driving your vehicle
 104
@@ -15820,7 +15389,6 @@ the engine on and off 2 or 3 times.
 
 
 ### OCK057144
-`kia_stinger_en_49c4786d` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:354
 
 5 105
 Driving your vehicle
@@ -15851,7 +15419,6 @@ DRIVE MODE INTEGRATED CONTROL SYSTEM
 
 
 ### OCK057044N
-`kia_stinger_en_9eb88e98` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:355
 
 OCK057046L
 OCK057045L
@@ -15910,7 +15477,6 @@ adversely affect fuel economy.
 
 
 ### SMART
-`kia_stinger_en_9107dcd6` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:356
 
 5 107
 Driving your vehicle
@@ -15987,7 +15553,6 @@ Driving your vehicle
 
 
 ### SPORT/CUSTOM mode
-`kia_stinger_en_00303bd9` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:358
 
 SPORT/CUSTOM mode
 manages the driving
@@ -16010,7 +15575,6 @@ the Drive Mode will revert back to
 
 
 ### COMFORT mode. If SPORT/CUS-
-`kia_stinger_en_af0b682c` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:358
 
 TOM mode is desired, re-select
 SPORT/CUSTOM mode from the
@@ -16027,7 +15591,6 @@ indicator lights up (ESC off state 1)
 
 
 ### In SPORT/CUSTOM mode, the fuel
-`kia_stinger_en_5b0d61bf` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:358
 
 efficiency may decrease.
 ECO mode
@@ -16049,7 +15612,6 @@ ECO
 
 
 ### SPORT
-`kia_stinger_en_b81ee3b4` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:358
 
 CUSTOM
 5 109
@@ -16121,7 +15683,6 @@ vehicle.
 
 
 ### OCK057037L
-`kia_stinger_en_6e4ad54a` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:360
 
 OCK057170L
 5 111
@@ -16157,7 +15718,6 @@ sunlight is reflected.
 
 
 ### LKA SYSTEM because of the
-`kia_stinger_en_178ae777` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:361
 
 excessive audio sound.
 • If you continue to drive with your
@@ -16184,7 +15744,6 @@ Driving your vehicle
 
 
 ### LKA SYSTEM operation
-`kia_stinger_en_8aa2e5d9` | stinger | pdf_manual | tier:2 | lang:en | layer:interior | p:362
 
 To activate/deactivate the LKA SYSTEM:
 With the ignition switch in the ON
@@ -16213,7 +15772,6 @@ to control the steering.
 
 
 ### LKA SYSTEM activation
-`kia_stinger_en_b3696b3d` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:362
 
 • To see the LKA SYSTEM screen
 on the LCD display in the cluster,
@@ -16230,7 +15788,6 @@ the steering wheel will be controlled.
 
 
 ### OCK057038N
-`kia_stinger_en_914a8c54` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:362
 
 WARNING
 The
@@ -16251,7 +15808,6 @@ When the conditions below are met,
 
 
 ### LKA SYSTEM will be enable to
-`kia_stinger_en_29b0991a` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:363
 
 assist steering.
 • Vehicle speed is above 40 mph (64
@@ -16270,7 +15826,6 @@ the LCD display.
 
 
 ### OCK057116L
-`kia_stinger_en_368f143e` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:363
 
 OCK057117L
 OCK057118L
@@ -16310,7 +15865,6 @@ wheel.
 
 
 ### OCK057122L
-`kia_stinger_en_927cf0a8` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:364
 
 OCK057124L
 5 115
@@ -16344,47 +15898,44 @@ mph (64 km/h) and over 110 mph
 (180 km/h).
 
 
-### WARNING
-`kia_stinger_en_02e83f96` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:365
-
-• The driver is responsible for
-accurate steering.
-• Even though the steering is
-assisted by the system, the
-driver may control the steering wheel.
-• Turn off the system and drive
-the vehicle in below situations.
-- In bad weather
-- In bad road condition
-- When the steering wheel
-needs to be controlled by the
-driver frequently.
-• The steering wheel may feel
-heavier when the steering
-wheel is assisted by the system than when it is not.
-Driving your vehicle
-116
-5
-• The steering will not be assisted
-when you change lanes fast.
-• The steering will not be assisted
-when you brake suddenly.
-• The steering will not be assisted
-when the lane is very wide or narrow.
-• The steering will not be assisted
-when only one side lane marker is
-detected.
-• There are more than two lane
-markers such as a construction
-area.
-• Radius of a curve is too small.
-• When you turn steering wheel suddenly, the LKA SYSTEM will be
-disabled temporarily.
-• Driving on a steep slope or hill.
+> ⚠️ **Внимание:** 
+> • The driver is responsible for
+> accurate steering.
+> • Even though the steering is
+> assisted by the system, the
+> driver may control the steering wheel.
+> • Turn off the system and drive
+> the vehicle in below situations.
+> - In bad weather
+> - In bad road condition
+> - When the steering wheel
+> needs to be controlled by the
+> driver frequently.
+> • The steering wheel may feel
+> heavier when the steering
+> wheel is assisted by the system than when it is not.
+> Driving your vehicle
+> 116
+> 5
+> • The steering will not be assisted
+> when you change lanes fast.
+> • The steering will not be assisted
+> when you brake suddenly.
+> • The steering will not be assisted
+> when the lane is very wide or narrow.
+> • The steering will not be assisted
+> when only one side lane marker is
+> detected.
+> • There are more than two lane
+> markers such as a construction
+> area.
+> • Radius of a curve is too small.
+> • When you turn steering wheel suddenly, the LKA SYSTEM will be
+> disabled temporarily.
+> • Driving on a steep slope or hill.
 
 
 ### DRIVER’S ATTENTION
-`kia_stinger_en_41b8bb5f` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:366
 
 The driver must be cautious in the
 below situations may not work
@@ -16468,22 +16019,19 @@ problem continues the LKA system
 fail indicator will illuminate.
 
 
-### WARNING
-`kia_stinger_en_1c88913d` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:367
-
-The
-Lane
-Keeping
-Assist
-System is a system to help prevent the driver from leaving the
-lane. However, the driver should
-not solely rely on the system
-but always take the necessary
-actions for safe driving practices.
+> ⚠️ **Внимание:** 
+> The
+> Lane
+> Keeping
+> Assist
+> System is a system to help prevent the driver from leaving the
+> lane. However, the driver should
+> not solely rely on the system
+> but always take the necessary
+> actions for safe driving practices.
 
 
 ### OCK057126L
-`kia_stinger_en_f7c4482a` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:367
 
 Driving your vehicle
 118
@@ -16510,7 +16058,6 @@ Kia dealer.
 
 
 ### LKA SYSTEM Function
-`kia_stinger_en_eafbf805` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:368
 
 Change
 The driver can change LKA to Lane
@@ -16536,7 +16083,6 @@ issues the lane departure warning.
 
 
 ### Standard LKA
-`kia_stinger_en_0f1be9a8` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:369
 
 The Standard LKA mode guides the
 driver to keep the vehicle within the
@@ -16549,7 +16095,6 @@ lanes.
 
 
 ### Active LKA
-`kia_stinger_en_9d825514` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:369
 
 The active LKA mode provides more
 frequent steering wheel control in
@@ -16603,7 +16148,6 @@ according to the relative speed.
 
 
 ### BLIND-SPOT COLLISION WARNING (BCW) (IF EQUIPPED)
-`kia_stinger_en_e353572f` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:370
 
 OYG056141L
 5 121
@@ -16630,7 +16174,6 @@ warning light will illuminate for 3 seconds on the outside rearview mirror.
 
 
 ### OCK057049N
-`kia_stinger_en_055f3775` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:371
 
 WARNING
 - BCW Limitations
@@ -16682,7 +16225,6 @@ stage alert will be deactivated.
 
 
 ### OUM054029
-`kia_stinger_en_739a7226` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:372
 
 2nd stage
 OUM054028
@@ -16733,7 +16275,6 @@ information to the driver.
 
 
 ### OCK057051L
-`kia_stinger_en_f24374a3` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:373
 
 OYG056140
 Driving your vehicle
@@ -16788,7 +16329,6 @@ your surroundings.
 
 
 ### OCK057048
-`kia_stinger_en_da18287c` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:374
 
 OYG056144L
 OCK057050
@@ -16810,85 +16350,82 @@ may not detect other vehicles.
 strong electromagnetic interference.
 
 
-### WARNING
-`kia_stinger_en_18051d8a` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:375
-
-• The
-Blind-Spot
-Collision
-Warning System and Rear
-Cross-Traffic
-Collision
-Warning is not a substitute for
-proper and safe lane changing procedures. Always drive
-safely and use caution when
-changing lanes. The BlindSpot
-Collision
-Warning
-System may not detect every
-object alongside the vehicle.
-(Continued)
-(Continued)
-• When the BCW system is
-being activated, The warning
-light on the outside rearview
-mirror will illuminate whenever a vehicle is detected at the
-rear side by the system. To
-avoid accidents, do not focus
-only on the warning light and
-neglect to see the surrounding of the vehicle.
-• Drive safely even though the
-vehicle is equipped with a BCW
-(Blind-Spot Collision Warning)
-system. Do not solely rely on
-the system but check for yourself before changing lanes.
-The system may not alert the
-driver in some conditions so
-always check the surroundings while driving.
-Driving your vehicle
-126
-5
-Warning message
-The message will appear to notify
-the driver if there are foreign substances on the surface or inside the
-rear bumper or it is hot near the rear
-bumper. The light on the switch and
-the system will be turned off automatically.
-Remove the foreign substance on
-the rear bumper.
-After the foreign substance is
-removed, if you drive for approximately 10 minutes, the system will
-work normally.
-If the system does not work normally
-even though the foreign substance,
-trailer or carrier, or other equipment
-is removed, take your vehicle to a
-professional workshop and have the
-system checked. Kia recommends to
-visit an authorized Kia dealer/service
-partner.
-It is possible to get the message with
-no foreign substance on the rear
-bumper, for example, when driving in
-sparse rural or open area, such as
-desert, where there is insufficient
-data for operation.
-This message may also activate during heavy rain or due to road spray.
-In this case, the vehicle does not
-need service.
-When the cargo area or other equipment is being used, turn all functions
-of the system [OFF].
-If the system does not work properly,
-a warning message will appear and
-the light on the switch will turn off.The
-system will turn off automatically.
-In this case, have the system
-checked by a professional workshop.
-Kia recommends to visit an authorized Kia dealer/ service partner.
+> ⚠️ **Внимание:** 
+> • The
+> Blind-Spot
+> Collision
+> Warning System and Rear
+> Cross-Traffic
+> Collision
+> Warning is not a substitute for
+> proper and safe lane changing procedures. Always drive
+> safely and use caution when
+> changing lanes. The BlindSpot
+> Collision
+> Warning
+> System may not detect every
+> object alongside the vehicle.
+> (Continued)
+> (Continued)
+> • When the BCW system is
+> being activated, The warning
+> light on the outside rearview
+> mirror will illuminate whenever a vehicle is detected at the
+> rear side by the system. To
+> avoid accidents, do not focus
+> only on the warning light and
+> neglect to see the surrounding of the vehicle.
+> • Drive safely even though the
+> vehicle is equipped with a BCW
+> (Blind-Spot Collision Warning)
+> system. Do not solely rely on
+> the system but check for yourself before changing lanes.
+> The system may not alert the
+> driver in some conditions so
+> always check the surroundings while driving.
+> Driving your vehicle
+> 126
+> 5
+> Warning message
+> The message will appear to notify
+> the driver if there are foreign substances on the surface or inside the
+> rear bumper or it is hot near the rear
+> bumper. The light on the switch and
+> the system will be turned off automatically.
+> Remove the foreign substance on
+> the rear bumper.
+> After the foreign substance is
+> removed, if you drive for approximately 10 minutes, the system will
+> work normally.
+> If the system does not work normally
+> even though the foreign substance,
+> trailer or carrier, or other equipment
+> is removed, take your vehicle to a
+> professional workshop and have the
+> system checked. Kia recommends to
+> visit an authorized Kia dealer/service
+> partner.
+> It is possible to get the message with
+> no foreign substance on the rear
+> bumper, for example, when driving in
+> sparse rural or open area, such as
+> desert, where there is insufficient
+> data for operation.
+> This message may also activate during heavy rain or due to road spray.
+> In this case, the vehicle does not
+> need service.
+> When the cargo area or other equipment is being used, turn all functions
+> of the system [OFF].
+> If the system does not work properly,
+> a warning message will appear and
+> the light on the switch will turn off.The
+> system will turn off automatically.
+> In this case, have the system
+> checked by a professional workshop.
+> Kia recommends to visit an authorized Kia dealer/ service partner.
 
 
 ### OCK057055L
-`kia_stinger_en_823d8188` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:376
 
 OCK057053L
 5 127
@@ -17027,7 +16564,6 @@ engine is re-started.
 
 
 ### DRIVER ATTENTION WARNING (DAW, IF EQUIPPED)
-`kia_stinger_en_91647409` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:379
 
 Driving your vehicle
 130
@@ -17061,7 +16597,6 @@ time is shorter than 10 minutes.
 
 
 ### OCK057137L
-`kia_stinger_en_1a624c50` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:380
 
 OCK057138L
 OCK057139L
@@ -17092,7 +16627,6 @@ detect the lanes.
 
 
 ### OCK057140L
-`kia_stinger_en_640fc718` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:381
 
 Driving your vehicle
 132
@@ -17134,7 +16668,6 @@ warning sounds
 
 
 ### OCK057141L
-`kia_stinger_en_2038bd48` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:382
 
 WARNING
 • The Driver Attention Warning
@@ -17266,7 +16799,6 @@ you're ready to go.
 
 
 ### ECONOMICAL OPERATION
-`kia_stinger_en_e663ed1b` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:384
 
 5 135
 Driving your vehicle
@@ -17366,7 +16898,6 @@ and result in an accident.
 
 
 ### WARNING - Sudden
-`kia_stinger_en_215f30d1` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:386
 
 Vehicle Movement
 Do not attempt to rock the vehicle if people or objects are nearby. The vehicle may suddenly
@@ -17395,7 +16926,6 @@ lights.
 
 
 ### CAUTION - Vehicle rocking
-`kia_stinger_en_a7c2eb6f` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:387
 
 Prolonged rocking may cause
 engine overheating, transmission damage or failure, and tire
@@ -17411,7 +16941,6 @@ may injure bystanders.
 
 
 ### OYG056065
-`kia_stinger_en_75d85a67` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:387
 
 Driving your vehicle
 138
@@ -17495,7 +17024,6 @@ result in overheating of the engine.
 
 
 ### WARNING - Under/over
-`kia_stinger_en_d1f6f1ec` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:389
 
 inflated tires
 Always check the tires for proper
@@ -17510,7 +17038,6 @@ For proper tire pressures, refer to
 
 
 ### WARNING - Tire tread
-`kia_stinger_en_ed448774` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:389
 
 Always check the tire tread
 before driving your vehicle.
@@ -17588,54 +17115,51 @@ standard tires. Otherwise, the
 safety and handling of your vehicle may be adversely affected.
 
 
-### WARNING
-`kia_stinger_en_12a77432` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:390
-
-Using summer tires at very cold
-temperatures
-could
-cause
-cracks on them to be formed
-and damage them permanently.
-5 141
-Driving your vehicle
-Tire chains
-Since the sidewalls on some radial
-tires are thinner than other types of
-tires, they may be damaged by
-mounting certain types of tire chains
-on them. Therefore, the use of snow
-tires is recommended instead of tire
-chains. Do not mount tire chains on
-vehicles equipped with aluminum
-wheels; if unavoidable, use AutoSock
-(fabric snow chain). Install the tire
-chain after reviewing the instructions
-provided with the tire chains.
-Damage to your vehicle caused by
-improper tire chain use is not covered by your vehicle manufacturer’s
-warranty.
-✽NOTICE
-• Install AutoSock (fabric snow
-chain) on the rear tires for 2WD
-vehicles or for AWD vehicles. It
-should be noted that installing
-AutoSock (fabric snow chain) on
-the tires will provide a greater
-driving force, but will not prevent
-side skids.
-• Do not install studded tires without first checking local and municipal regulations for
-possible
-restrictions against their use.
-✽NOTICE
-If you hear noise caused by chains
-contacting the body, retighten the
-chain to prevent contact with the
-vehicle body.
+> ⚠️ **Внимание:** 
+> Using summer tires at very cold
+> temperatures
+> could
+> cause
+> cracks on them to be formed
+> and damage them permanently.
+> 5 141
+> Driving your vehicle
+> Tire chains
+> Since the sidewalls on some radial
+> tires are thinner than other types of
+> tires, they may be damaged by
+> mounting certain types of tire chains
+> on them. Therefore, the use of snow
+> tires is recommended instead of tire
+> chains. Do not mount tire chains on
+> vehicles equipped with aluminum
+> wheels; if unavoidable, use AutoSock
+> (fabric snow chain). Install the tire
+> chain after reviewing the instructions
+> provided with the tire chains.
+> Damage to your vehicle caused by
+> improper tire chain use is not covered by your vehicle manufacturer’s
+> warranty.
+> ✽NOTICE
+> • Install AutoSock (fabric snow
+> chain) on the rear tires for 2WD
+> vehicles or for AWD vehicles. It
+> should be noted that installing
+> AutoSock (fabric snow chain) on
+> the tires will provide a greater
+> driving force, but will not prevent
+> side skids.
+> • Do not install studded tires without first checking local and municipal regulations for
+> possible
+> restrictions against their use.
+> ✽NOTICE
+> If you hear noise caused by chains
+> contacting the body, retighten the
+> chain to prevent contact with the
+> vehicle body.
 
 
 ### OCK057168
-`kia_stinger_en_87bef413` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:391
 
 CAUTION
 When using AutoSock (fabric
@@ -17651,7 +17175,6 @@ Driving your vehicle
 
 
 ### CAUTION - Snow chains
-`kia_stinger_en_229a8242` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:392
 
 • Chains that are the wrong size
 or improperly installed can
@@ -17795,7 +17318,6 @@ vehicle for trailer towing.
 
 
 ### TRAILER TOWING
-`kia_stinger_en_8c83612a` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:394
 
 5 145
 Driving your vehicle
@@ -17831,7 +17353,6 @@ the vehicle can carry.
 
 
 ### VEHICLE LOAD LIMIT
-`kia_stinger_en_88c24171` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:395
 
 OCK067038N
 OCK067039N
@@ -17881,7 +17402,6 @@ vehicle.
 
 
 ### WARNING - Loose cargo
-`kia_stinger_en_1fba60ba` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:396
 
 Do not travel with unsecured
 blunt objects in the passenger
@@ -17942,7 +17462,6 @@ Example 2
 
 
 ### C190F01JM
-`kia_stinger_en_6cac72e5` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:397
 
 Item
 Description
@@ -18002,7 +17521,6 @@ damage. Repairs would not be covered by your warranty. Do not overload your vehi
 
 
 ### OJFA055280
-`kia_stinger_en_18c735f8` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:398
 
 WARNING - Over loading
 Never exceed the GVWR for
@@ -18017,7 +17535,6 @@ and braking ability.
 
 
 ### WARNING - Over loading
-`kia_stinger_en_2b6524a2` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:398
 
 Do not overload your vehicle.
 Overloading your vehicle can
@@ -18071,7 +17588,6 @@ located on the driver’s door sill.
 
 
 ### VEHICLE WEIGHT
-`kia_stinger_en_2c856294` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:399
 
 What to do in an emergency
 Road warning . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6-2
@@ -18107,7 +17623,6 @@ What to do in an emergency
 
 
 ### ROAD WARNING
-`kia_stinger_en_2f1241d5` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:401
 
 Hazard warning flasher
 The hazard warning flasher serves
@@ -18134,7 +17649,6 @@ the vehicle is being towed.
 
 
 ### OCK067021
-`kia_stinger_en_d13f7c58` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:401
 
 6 3
 What to do in an emergency
@@ -18186,7 +17700,6 @@ at low power (limp home) condition.
 
 
 ### IN CASE OF AN EMERGENCY WHILE DRIVING
-`kia_stinger_en_767e3982` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:402
 
 What to do in an emergency
 4
@@ -18230,7 +17743,6 @@ What to do in an emergency
 
 
 ### EMERGENCY STARTING
-`kia_stinger_en_7adee61c` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:404
 
 Connect cables in numerical order
 and disconnect in reverse order.
@@ -18245,7 +17757,6 @@ competent technician or towing service jump start your vehicle.
 
 
 ### CAUTION - Push/pull start
-`kia_stinger_en_885994f2` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:404
 
 to 12 Volt Battery
 Use only a 12-volt jumper system. You can damage a 12-volt
@@ -18287,7 +17798,6 @@ or sparks.
 
 
 ### OCK067003
-`kia_stinger_en_e2056ea8` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:404
 
 What to do in an emergency
 6
@@ -18339,7 +17849,6 @@ vehicle can suddenly surge forward and could cause a collision with the tow vehi
 
 
 ### WARNING - Battery
-`kia_stinger_en_f83e24d3` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:405
 
 cables
 Do not connect the jumper cable
@@ -18357,7 +17866,6 @@ What to do in an emergency
 
 
 ### IF THE ENGINE OVERHEATS
-`kia_stinger_en_3b575483` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:406
 
 If your temperature gauge indicates
 overheating, you experience a loss
@@ -18427,7 +17935,6 @@ What to do in an emergency
 
 
 ### TIRE PRESSURE MONITORING SYSTEM (TPMS)
-`kia_stinger_en_68077dbf` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:407
 
 (1) Low tire pressure telltale/
 TPMS malfunction indicator
@@ -18464,7 +17971,6 @@ pressure gauge.
 
 
 ### OCK067005N
-`kia_stinger_en_2c227636` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:407
 
 OCK067025L
 6 9
@@ -18563,7 +18069,6 @@ your
 
 
 ### TPMS
-`kia_stinger_en_7883df6a` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:409
 
 is
 malfunctioning
@@ -18573,7 +18078,6 @@ tire pressure.
 
 
 ### WBH-11
-`kia_stinger_en_5c3ddc93` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:409
 
 OCK067025L
 ■Low tire pressure position information
@@ -18592,7 +18096,6 @@ the tire pressure is above the recommended tire inflation pressure.
 
 
 ### TPMS (Tire Pressure
-`kia_stinger_en_12885461` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:410
 
 Monitoring System)
 malfunction indicator
@@ -18638,7 +18141,6 @@ System
 
 
 ### WARNING - Low pressure
-`kia_stinger_en_a3481177` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:410
 
 damage
 Do not drive on low pressure
@@ -18710,7 +18212,6 @@ less than 1 mile (1.6 km) during that
 
 
 ### CAUTION - Repair Agents
-`kia_stinger_en_f20cb991` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:411
 
 Never use a puncture-repairing
 agent not approved by Kia to
@@ -18765,7 +18266,6 @@ What to do in an emergency
 
 
 ### IF YOU HAVE A FLAT TIRE
-`kia_stinger_en_e07afa08` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:413
 
 Jack and tools
 The jack and wheel lug nut wrench
@@ -18802,7 +18302,6 @@ raised with the jack.
 
 
 ### WARNING - Changing
-`kia_stinger_en_8c1e80a0` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:413
 
 tires
 Never attempt vehicle repairs in
@@ -18822,7 +18321,6 @@ stands.
 
 
 ### WARNING - Running vehi-
-`kia_stinger_en_65a35698` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:413
 
 cle on jack
 Do not start or run the engine of
@@ -18852,7 +18350,6 @@ jack handle.
 
 
 ### OCK067033N
-`kia_stinger_en_019744c0` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:414
 
 OCK067034N
 WARNING - Touching luggage room floor surface
@@ -18868,7 +18365,6 @@ from the luggage room.
 
 
 ### OCK077103N
-`kia_stinger_en_6c1ed277` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:414
 
 What to do in an emergency
 16
@@ -18887,7 +18383,6 @@ from the jack position.
 
 
 ### 1JBA6504
-`kia_stinger_en_3fe0ebbd` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:415
 
 OED066033
 WARNING - Jack location
@@ -18900,7 +18395,6 @@ for jack support.
 
 
 ### WARNING - Changing a
-`kia_stinger_en_0b6aa87a` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:415
 
 tire
 • To prevent vehicle movement
@@ -18940,7 +18434,6 @@ movement or slippage.
 
 
 ### OCK067029L
-`kia_stinger_en_ac0683ae` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:416
 
 OCK067026L
 OCK067027L
@@ -18981,7 +18474,6 @@ wrench counterclockwise.
 
 
 ### WARNING - Installing a
-`kia_stinger_en_bea11f5a` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:417
 
 wheel
 Make sure the wheel makes
@@ -19037,7 +18529,6 @@ authorized Kia dealer.
 
 
 ### CAUTION - Reusing lug
-`kia_stinger_en_3d6882b0` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:418
 
 nuts
 Make certain during wheel
@@ -19056,7 +18547,6 @@ stud so that it must be replaced.
 
 
 ### OCK067030L
-`kia_stinger_en_3ba565c2` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:418
 
 What to do in an emergency
 20
@@ -19093,7 +18583,6 @@ the specified pressure, as necessary.
 
 
 ### WARNING - Spare tire
-`kia_stinger_en_5995574b` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:419
 
 The compact spare tire is for
 emergency use only. Do not
@@ -19107,7 +18596,6 @@ death.
 
 
 ### WARNING - Wheel studs
-`kia_stinger_en_16d5ac53` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:419
 
 If the studs are damaged, they
 may lose their ability to retain
@@ -19195,7 +18683,6 @@ address
 
 
 ### OHYK064001
-`kia_stinger_en_c8a43a01` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:421
 
 OHYK064005
 OHYK064002
@@ -19210,7 +18697,6 @@ What to do in an emergency
 
 
 ### TOWING
-`kia_stinger_en_16c314b5` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:422
 
 Towing service
 If emergency towing is necessary,
@@ -19236,7 +18722,6 @@ the system checked.
 
 
 ### OCK067013L
-`kia_stinger_en_496efd9f` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:422
 
 CAUTION
 The AWD vehicle should never
@@ -19256,7 +18741,6 @@ panels or through the wheels.
 
 
 ### WARNING - Side and
-`kia_stinger_en_100fade4` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:423
 
 curtain Air bag
 If your vehicle is equipped with
@@ -19279,7 +18763,6 @@ OCK067014
 
 
 ### OCK067015
-`kia_stinger_en_05c7861d` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:423
 
 CAUTION - Towing
 • Do not tow the vehicle backwards with the front wheels on
@@ -19322,7 +18805,6 @@ transaxle.
 
 
 ### OCK067017
-`kia_stinger_en_b9b7b45d` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:424
 
 OCK067019
 OCK067020
@@ -19369,42 +18851,39 @@ pull from the side or at a vertical
 angle. Always pull straight ahead.
 
 
-### CAUTION
-`kia_stinger_en_c21db654` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:425
-
-Using a portion of the vehicle
-other than the tow hooks for
-towing may damage the body of
-your vehicle.
-6 27
-What to do in an emergency
-• Use a towing strap less than 16
-feet (5 m) long. Attach a white or
-red cloth (about 12 inches (30 cm)
-wide) in the middle of the strap for
-easy visibility.
-• Drive carefully so that the towing
-strap is not loosened during towing.
-Emergency towing precautions
-• Turn the Engine Start/Stop button
-to ACC position so the steering
-wheel isn’t locked.
-• Place the transaxle shift lever in N
-(Neutral).
-• Release the parking bake.
-• Press the brake pedal with more
-force than normal since you will
-have reduced brake performance.
-• More steering effort will be
-required because the power steering system will be disabled.
-• If you are driving down a long hill,
-the brakes may overheat and brake
-performance will be reduced. Stop
-often and let the brakes cool off.
+> ⚠️ **Внимание:** 
+> Using a portion of the vehicle
+> other than the tow hooks for
+> towing may damage the body of
+> your vehicle.
+> 6 27
+> What to do in an emergency
+> • Use a towing strap less than 16
+> feet (5 m) long. Attach a white or
+> red cloth (about 12 inches (30 cm)
+> wide) in the middle of the strap for
+> easy visibility.
+> • Drive carefully so that the towing
+> strap is not loosened during towing.
+> Emergency towing precautions
+> • Turn the Engine Start/Stop button
+> to ACC position so the steering
+> wheel isn’t locked.
+> • Place the transaxle shift lever in N
+> (Neutral).
+> • Release the parking bake.
+> • Press the brake pedal with more
+> force than normal since you will
+> have reduced brake performance.
+> • More steering effort will be
+> required because the power steering system will be disabled.
+> • If you are driving down a long hill,
+> the brakes may overheat and brake
+> performance will be reduced. Stop
+> often and let the brakes cool off.
 
 
 ### WARNING - Emergency
-`kia_stinger_en_2a4aefff` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:426
 
 Towing Precautions
 Use extreme caution when towing the vehicle.
@@ -19433,7 +18912,6 @@ during towing.
 
 
 ### OYG066034
-`kia_stinger_en_26b7ff3c` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:426
 
 What to do in an emergency
 28
@@ -19449,7 +18927,6 @@ the steering and brakes.
 
 
 ### CAUTION - Automatic
-`kia_stinger_en_1b55d847` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:427
 
 transaxle
 • To avoid serious damage to
@@ -19561,7 +19038,6 @@ Maintenance
 
 
 ### ENGINE COMPARTMENT
-`kia_stinger_en_994d7327` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:430
 
 OCK077001/OCK077002
 ■THETA II 2.0L T-GDI Engine (Gasoline)
@@ -19582,7 +19058,6 @@ Maintenance
 
 
 ### MAINTENANCE SERVICES
-`kia_stinger_en_2cd98792` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:431
 
 You should exercise the utmost care
 to prevent damage to your vehicle
@@ -19672,7 +19147,6 @@ Kia dealer.
 
 
 ### WARNING - Maintenance
-`kia_stinger_en_5e4b8cae` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:432
 
 work
 Do not wear jewelry or loose
@@ -19697,7 +19171,6 @@ Maintenance
 
 
 ### WARNING - Touching
-`kia_stinger_en_a70d2972` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:433
 
 metal parts
 Do not touch metal parts
@@ -19712,7 +19185,6 @@ Maintenance
 
 
 ### OWNER MAINTENANCE
-`kia_stinger_en_7ce9a96f` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:434
 
 The following lists are vehicle checks
 and inspections that should be performed by the owner or an authorized Kia dealer at the frequencies
@@ -19758,7 +19230,6 @@ use is normal).
 
 
 ### WARNING - Hot coolant
-`kia_stinger_en_cd89cec4` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:434
 
 Be careful when checking your
 engine coolant level when the
@@ -19810,7 +19281,6 @@ Maintenance
 
 
 ### SCHEDULED MAINTENANCE SERVICE
-`kia_stinger_en_b124f0d4` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:436
 
 Follow the Normal Maintenance
 Schedule if the vehicle is usually
@@ -19908,7 +19378,6 @@ filter
 
 
 ### Theta II 2.0L T-GDI
-`kia_stinger_en_a0171500` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:437
 
 R
 Lambda II 3.3L T-GDI
@@ -19946,7 +19415,6 @@ Inspect every 60,000 miles (100,000 km) or 72 months
 
 
 ### MAINTENANCE
-`kia_stinger_en_3476f59f` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:437
 
 INTERVALS
 MAINTENANCE
@@ -20042,7 +19510,6 @@ I
 
 
 ### MAINTENANCE
-`kia_stinger_en_41592c32` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:438
 
 INTERVALS
 MAINTENANCE
@@ -20097,7 +19564,6 @@ air intake hose
 
 
 ### Theta II 2.0L T-GDI
-`kia_stinger_en_b924fe79` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:439
 
 I
 Lambda II 3.3L T-GDI
@@ -20127,7 +19593,6 @@ I
 
 
 ### With LSD
-`kia_stinger_en_7b285ae0` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:439
 
 -
 R
@@ -20149,7 +19614,6 @@ I
 
 
 ### MAINTENANCE
-`kia_stinger_en_4d77c3fb` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:439
 
 INTERVALS
 MAINTENANCE
@@ -20210,7 +19674,6 @@ I
 
 
 ### MAINTENANCE
-`kia_stinger_en_c971a9ed` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:440
 
 INTERVALS
 MAINTENANCE
@@ -20283,7 +19746,6 @@ More frequently
 
 
 ### C, D, E, F, G
-`kia_stinger_en_ac2ce5fa` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:441
 
 7 15
 Maintenance
@@ -20335,7 +19797,6 @@ More frequently
 
 
 ### C, E, G
-`kia_stinger_en_86f5971d` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:442
 
 Propeller shaft
 I
@@ -20441,109 +19902,106 @@ chafing, cracks, deterioration and
 any leakage. Replace any deteriorated or damaged parts immediately.
 
 
-### CAUTION
-`kia_stinger_en_6b4f57dd` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:444
-
-Use only specified automatic
-transaxle fluid.The use of a nonspecified fluid could result in a
-transaxle malfunction and failure. (Refer to "Recommended
-lubricants and capacities" in
-chapter 8.)
-Maintenance
-18
-7
-✽NOTICE - NHTSA Safety
-Corrosion Alert
-NHTSA has warned all vehicle owners of all brands that they must maintain their vehicles in a manner which
-will prevent brake hose and brake line
-failures due to corrosion when such
-vehicles are exposed to winter road
-salt and related chemicals. While serious corrosion conditions typically only
-manifest themselves as safety issues
-after 7 years of vehicle use, the corrosion process starts immediately and
-thus underbody cleaning maintenance
-must commence from your vehicle's
-first exposure to road salts and chemicals. NHTSA urges vehicle owners to
-take the following steps to prevent
-corrosion:
-(Continued)
-(Continued)
-1. Wash the undercarriage of your
-vehicle regularly throughout the
-winter and do a thorough washing
-in the spring to remove road salt
-and other de-icing chemicals.
-2. Monitor the brake system for
-signs of corrosion by having regular professional inspections and
-watching for signs of problems,
-including loss of brake fluid,
-unusual leaks and soft or spongy
-feel in the brake pedal.
-3. Replace the entire brake pipe
-assembly if you find severe corrosion that causes scaling or flaking
-of brake components.
-Brake fluid
-Check the brake fluid level in the
-brake fluid reservoir.The level should
-be between “MIN” and “MAX” marks
-on the side of the reservoir. Use only
-hydraulic brake fluid conforming to
-DOT 3 or DOT 4 specification.
-Parking brake
-Inspect the parking brake system
-including the parking brake pedal
-and cables.
-7 19
-Maintenance
-Brake discs, pads, calipers
-and rotors
-Check the pads for excessive wear,
-discs for run out and wear, and
-calipers for fluid leakage.
-Exhaust pipe and muffler
-Visually inspect the exhaust pipes,
-muffler and hangers for cracks, deterioration, or damage.
-Start the
-engine and listen carefully for any
-exhaust gas leakage. Tighten connections or replace parts as necessary.
-Suspension mounting bolts
-Check the suspension connections
-for looseness or damage. Retighten
-to the specified torque.
-Steering gear box, linkage &
-boots/lower arm ball joint
-With the vehicle stopped and engine
-off, check for excessive free-play in
-the steering wheel.
-Check the linkage for bends or damage. Check the dust boots and ball
-joints for deterioration, cracks, or
-damage. Replace any damaged
-parts.
-Drive shafts and boots
-Check the drive shafts, boots and
-clamps for cracks, deterioration, or
-damage. Replace any damaged
-parts and, if necessary, repack the
-grease.
-Air conditioning refrigerant
-Check the air conditioning lines and
-connections for leakage and damage.
-When checking engine oil, engine
-coolant, brake fluid, and washer fluid,
-always be sure to clean the area
-around any filler plug, drain plug, or
-dipstick before checking or draining
-any lubricant or fluid. This is especially important in dusty or sandy
-areas and when the vehicle is used
-on unpaved roads. Cleaning the plug
-and dipstick areas will prevent dirt
-and grit from entering the engine and
-other mechanisms that could be
-damaged.
+> ⚠️ **Внимание:** 
+> Use only specified automatic
+> transaxle fluid.The use of a nonspecified fluid could result in a
+> transaxle malfunction and failure. (Refer to "Recommended
+> lubricants and capacities" in
+> chapter 8.)
+> Maintenance
+> 18
+> 7
+> ✽NOTICE - NHTSA Safety
+> Corrosion Alert
+> NHTSA has warned all vehicle owners of all brands that they must maintain their vehicles in a manner which
+> will prevent brake hose and brake line
+> failures due to corrosion when such
+> vehicles are exposed to winter road
+> salt and related chemicals. While serious corrosion conditions typically only
+> manifest themselves as safety issues
+> after 7 years of vehicle use, the corrosion process starts immediately and
+> thus underbody cleaning maintenance
+> must commence from your vehicle's
+> first exposure to road salts and chemicals. NHTSA urges vehicle owners to
+> take the following steps to prevent
+> corrosion:
+> (Continued)
+> (Continued)
+> 1. Wash the undercarriage of your
+> vehicle regularly throughout the
+> winter and do a thorough washing
+> in the spring to remove road salt
+> and other de-icing chemicals.
+> 2. Monitor the brake system for
+> signs of corrosion by having regular professional inspections and
+> watching for signs of problems,
+> including loss of brake fluid,
+> unusual leaks and soft or spongy
+> feel in the brake pedal.
+> 3. Replace the entire brake pipe
+> assembly if you find severe corrosion that causes scaling or flaking
+> of brake components.
+> Brake fluid
+> Check the brake fluid level in the
+> brake fluid reservoir.The level should
+> be between “MIN” and “MAX” marks
+> on the side of the reservoir. Use only
+> hydraulic brake fluid conforming to
+> DOT 3 or DOT 4 specification.
+> Parking brake
+> Inspect the parking brake system
+> including the parking brake pedal
+> and cables.
+> 7 19
+> Maintenance
+> Brake discs, pads, calipers
+> and rotors
+> Check the pads for excessive wear,
+> discs for run out and wear, and
+> calipers for fluid leakage.
+> Exhaust pipe and muffler
+> Visually inspect the exhaust pipes,
+> muffler and hangers for cracks, deterioration, or damage.
+> Start the
+> engine and listen carefully for any
+> exhaust gas leakage. Tighten connections or replace parts as necessary.
+> Suspension mounting bolts
+> Check the suspension connections
+> for looseness or damage. Retighten
+> to the specified torque.
+> Steering gear box, linkage &
+> boots/lower arm ball joint
+> With the vehicle stopped and engine
+> off, check for excessive free-play in
+> the steering wheel.
+> Check the linkage for bends or damage. Check the dust boots and ball
+> joints for deterioration, cracks, or
+> damage. Replace any damaged
+> parts.
+> Drive shafts and boots
+> Check the drive shafts, boots and
+> clamps for cracks, deterioration, or
+> damage. Replace any damaged
+> parts and, if necessary, repack the
+> grease.
+> Air conditioning refrigerant
+> Check the air conditioning lines and
+> connections for leakage and damage.
+> When checking engine oil, engine
+> coolant, brake fluid, and washer fluid,
+> always be sure to clean the area
+> around any filler plug, drain plug, or
+> dipstick before checking or draining
+> any lubricant or fluid. This is especially important in dusty or sandy
+> areas and when the vehicle is used
+> on unpaved roads. Cleaning the plug
+> and dipstick areas will prevent dirt
+> and grit from entering the engine and
+> other mechanisms that could be
+> damaged.
 
 
 ### CHECKING FLUID LEVELS
-`kia_stinger_en_c22ca658` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:446
 
 Maintenance
 20
@@ -20565,7 +20023,6 @@ be between F and L.
 
 
 ### CAUTION - Replacing
-`kia_stinger_en_39977224` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:447
 
 engine oil
 Do not overfill the engine oil. It
@@ -20585,7 +20042,6 @@ Maintenance
 
 
 ### CALIFORNIA PROPO-
-`kia_stinger_en_30570cba` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:448
 
 SITION 65 WARNING
 Engine oil contains chemicals
@@ -20623,7 +20079,6 @@ Maintenance
 
 
 ### ENGINE COOLANT
-`kia_stinger_en_7561d053` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:449
 
 The high-pressure cooling system
 has a reservoir filled with year round
@@ -20654,24 +20109,21 @@ steam may still blow out under
 pressure, causing serious injury.
 
 
-### WARNING
-`kia_stinger_en_62ea7232` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:449
-
-Removing radiator
-cap
-Never attempt to remove the
-radiator cap while the engine is
-operating or hot.
-Doing so
-might lead to cooling system
-and engine damage and could
-result in serious personal injury
-from escaping hot coolant or
-steam.
+> ⚠️ **Внимание:** 
+> Removing radiator
+> cap
+> Never attempt to remove the
+> radiator cap while the engine is
+> operating or hot.
+> Doing so
+> might lead to cooling system
+> and engine damage and could
+> result in serious personal injury
+> from escaping hot coolant or
+> steam.
 
 
 ### CAUTION - Radiator cap
-`kia_stinger_en_127d7326` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:449
 
 Never attempt to remove the
 radiator cap while the engine is
@@ -20702,7 +20154,6 @@ straight In front.
 
 
 ### WARNING - Cooling fan
-`kia_stinger_en_0d92dbe5` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:450
 
 Use caution when
 working
@@ -20720,7 +20171,6 @@ the engine is not running.
 
 
 ### OCK077016
-`kia_stinger_en_23b477d1` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:450
 
 OQL075072
 ■Engine room front view
@@ -20752,7 +20202,6 @@ following table.
 
 
 ### OCK077018
-`kia_stinger_en_f3fa79c4` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:451
 
 ■Engine room rear view
 Ambient
@@ -20799,7 +20248,6 @@ as the generator.
 
 
 ### OCK077017
-`kia_stinger_en_ec19d6a8` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:452
 
 Maintenance
 26
@@ -20845,7 +20293,6 @@ disposed of properly.
 
 
 ### CAUTION - Brake fluid
-`kia_stinger_en_8b2ecacb` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:453
 
 Do not allow brake fluid to contact the vehicle's body paint, as
 paint damage will result.
@@ -20861,7 +20308,6 @@ brake system.
 
 
 ### OCK077019
-`kia_stinger_en_ee25074c` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:453
 
 7 27
 Maintenance
@@ -20907,7 +20353,6 @@ cause loss of vehicle control.
 
 
 ### OCK077020
-`kia_stinger_en_41c1ad6e` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:454
 
 Maintenance
 28
@@ -20926,7 +20371,6 @@ Stroke : 3 notch
 
 
 ### PARKING BRAKE
-`kia_stinger_en_68e7513e` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:455
 
 OYG056016
 7 29
@@ -20953,7 +20397,6 @@ OCK077023
 
 
 ### OCK077024
-`kia_stinger_en_226b227a` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:456
 
 ■Lambda II 3.3L T-GDI Engine (Gasoline)
 (Driver side)
@@ -20974,7 +20417,6 @@ Maintenance
 
 
 ### CLIMATE CONTROL AIR FILTER
-`kia_stinger_en_a8814d33` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:457
 
 Filter inspection
 The climate control air filter should
@@ -20994,7 +20436,6 @@ support strap (1).
 
 
 ### OCK077026
-`kia_stinger_en_e6204972` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:457
 
 OCK077027
 7 31
@@ -21012,7 +20453,6 @@ reduced.
 
 
 ### OCK077028
-`kia_stinger_en_eda596f0` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:458
 
 OCK077029
 Maintenance
@@ -21042,7 +20482,6 @@ blade could result in wiper malfunction and failure.
 
 
 ### 1JBA5122
-`kia_stinger_en_f8a2f6aa` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:459
 
 CAUTION - Wiper blades
 To prevent damage to the wiper
@@ -21086,7 +20525,6 @@ Maintenance
 
 
 ### BATTERY
-`kia_stinger_en_ad25b512` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:462
 
 Battery replacement
 The battery is in the luggage room.
@@ -21107,7 +20545,6 @@ used for an extended time, disconnect the battery cables.
 
 
 ### OCK077031
-`kia_stinger_en_b82be6b9` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:462
 
 WARNING
 - Touching luggage room
@@ -21158,7 +20595,6 @@ shock you.
 
 
 ### WARNING - Recharging
-`kia_stinger_en_56e9cb19` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:463
 
 Battery
 Never attempt to recharge the
@@ -21191,7 +20627,6 @@ corrosive
 
 
 ### SULFURIC
-`kia_stinger_en_6f965262` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:463
 
 ACID
 and
@@ -21254,7 +20689,6 @@ the positive battery terminal.
 
 
 ### CALIFORNIA PROPO-
-`kia_stinger_en_a78ce320` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:464
 
 SITION 65 WARNING
 Battery posts, terminals, and
@@ -21291,7 +20725,6 @@ Maintenance
 
 
 ### TIRES AND WHEELS
-`kia_stinger_en_9f572376` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:466
 
 Tire care
 For proper maintenance, safety, and
@@ -21317,30 +20750,27 @@ attached to the driver’s side center
 pillar.
 
 
-### WARNING
-`kia_stinger_en_dc28b0be` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:466
-
-- Checking the tire inflation
-pressure
-Inflate your tires consistent with
-the instructions provided in this
-manual.
-Regularly check the tire inflation pressure, and correct it as
-needed: at least twice a month
-and before a long trip.
-If you fail to observe this precaution, you may be driving on
-tires with incorrect tire pressures, a condition that may not
-only compromise your vehicle's
-driving stability, but also lead to
-tire damage and the risk of an
-accident.
-This risk is much higher on hot
-days and when driving for long
-periods at high speeds.
+> ⚠️ **Внимание:** 
+> - Checking the tire inflation
+> pressure
+> Inflate your tires consistent with
+> the instructions provided in this
+> manual.
+> Regularly check the tire inflation pressure, and correct it as
+> needed: at least twice a month
+> and before a long trip.
+> If you fail to observe this precaution, you may be driving on
+> tires with incorrect tire pressures, a condition that may not
+> only compromise your vehicle's
+> driving stability, but also lead to
+> tire damage and the risk of an
+> accident.
+> This risk is much higher on hot
+> days and when driving for long
+> periods at high speeds.
 
 
 ### OYG086001
-`kia_stinger_en_4faa6cf8` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:466
 
 Maintenance
 40
@@ -21402,7 +20832,6 @@ more than 1 mile (1.6 km).
 
 
 ### WARNING - Tire Inflation
-`kia_stinger_en_e75447da` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:467
 
 Overinflation or underinflation
 can reduce tire life, adversely
@@ -21495,7 +20924,6 @@ unusual handling characteristics.
 
 
 ### CAUTION - Wheel weight
-`kia_stinger_en_9e62ccb9` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:469
 
 Improper wheel weights can
 damage your vehicle's aluminum
@@ -21507,7 +20935,6 @@ OBH078040
 
 
 ### OBK079038
-`kia_stinger_en_e27d8272` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:469
 
 ■18inch tire
 ■19inch tire
@@ -21555,7 +20982,6 @@ tire wheel is not designed for mounting a regular size tire.
 
 
 ### OUM076204L
-`kia_stinger_en_36e569e4` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:470
 
 Maintenance
 44
@@ -21617,7 +21043,6 @@ poor vehicle control.
 
 
 ### OJF085008L
-`kia_stinger_en_12bcf69b` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:471
 
 7 45
 Maintenance
@@ -21707,7 +21132,6 @@ For example:
 
 
 ### DOT XXXX XXXX 1617 represents
-`kia_stinger_en_2cdfe3d2` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:473
 
 that the tire was produced in the 16th
 week of 2017.
@@ -21741,7 +21165,6 @@ For example:
 
 
 ### TREADWEAR 440
-`kia_stinger_en_53f8f17f` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:473
 
 TRACTION A
 TEMPERATURE A
@@ -21863,7 +21286,6 @@ GVWR: Gross Vehicle Weight Rating
 
 
 ### GAWR FRT: Gross Axle Weight
-`kia_stinger_en_47f3443b` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:476
 
 Rating for the Front Axle.
 GAWR RR:
@@ -21963,7 +21385,6 @@ remains.
 
 
 ### UTQGS:
-`kia_stinger_en_b1db4d7e` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:477
 
 Uniform
 Tire
@@ -22096,36 +21517,33 @@ be covered by the warranty.
 on the tire sidewall.
 
 
-### CAUTION
-`kia_stinger_en_04340ad4` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:480
-
-Because the sidewall of the low
-aspect ratio tire is shorter than
-the normal, the wheel and tire of
-the low aspect ratio tire is easier to be damaged. So, follow the
-instructions below.
-• When driving on a rough road
-or off road, drive cautiously
-because tires and wheels may
-be damaged. And after driving, inspect tires and wheels.
-• When passing over a pothole,
-speed bump, manhole, or curb
-stone, drive slowly so that the
-tires and wheels are not damaged.
-• If the tire is impacted, we recommend that you inspect the
-tire condition or contact an
-authorized Kia dealer.
-• To prevent damage to the tire,
-inspect the tire condition and
-pressure every 1,900 miles
-(3,000 km).
-Maintenance
-54
-7
+> ⚠️ **Внимание:** 
+> Because the sidewall of the low
+> aspect ratio tire is shorter than
+> the normal, the wheel and tire of
+> the low aspect ratio tire is easier to be damaged. So, follow the
+> instructions below.
+> • When driving on a rough road
+> or off road, drive cautiously
+> because tires and wheels may
+> be damaged. And after driving, inspect tires and wheels.
+> • When passing over a pothole,
+> speed bump, manhole, or curb
+> stone, drive slowly so that the
+> tires and wheels are not damaged.
+> • If the tire is impacted, we recommend that you inspect the
+> tire condition or contact an
+> authorized Kia dealer.
+> • To prevent damage to the tire,
+> inspect the tire condition and
+> pressure every 1,900 miles
+> (3,000 km).
+> Maintenance
+> 54
+> 7
 
 
 ### FUSES
-`kia_stinger_en_0d73acaa` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:481
 
 ❈Left side : Normal , Right side : Blown
 A vehicle’s electrical system is protected from electrical overload damage by fuses.
@@ -22153,7 +21571,6 @@ electric wiring to the vehicle.
 
 
 ### WARNING - Fuse replace-
-`kia_stinger_en_9883fc10` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:481
 
 ment
 • Never replace a fuse with anything but another fuse of the
@@ -22175,7 +21592,6 @@ system.
 
 
 ### OCK077071
-`kia_stinger_en_5e4a4a76` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:481
 
 ■Blade type
 ■Cartridge type
@@ -22199,93 +21615,86 @@ to do so can result in a vehicle
 fire.
 
 
-### CAUTION
-`kia_stinger_en_c1811b4a` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:482
-
-• When replacing a blown fuse
-or relay, make sure the new
-fuse or relay fits tightly into
-the clips. Failure to tightly
-install the fuse or relay may
-cause damage to the wiring
-and electric systems.
-• Do not remove fuses, relays
-and terminals fastened with
-bolts or nuts.The fuses, relays
-and terminals may not be fastened correctly which may
-cause vehicle damage.
+> ⚠️ **Внимание:** 
+> • When replacing a blown fuse
+> or relay, make sure the new
+> fuse or relay fits tightly into
+> the clips. Failure to tightly
+> install the fuse or relay may
+> cause damage to the wiring
+> and electric systems.
+> • Do not remove fuses, relays
+> and terminals fastened with
+> bolts or nuts.The fuses, relays
+> and terminals may not be fastened correctly which may
+> cause vehicle damage.
 
 
-### CAUTION
-`kia_stinger_en_c1811b4a` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:482
-
-• Do not input any other objects
-except fuses or relays into
-fuse/relay terminals such as a
-driver or wiring. It may cause
-contact failure and system
-malfunction.
-• Do not plug in screwdrivers or
-aftermarket wiring into the terminal originally designed for
-fuse and relays only. The electrical system and wiring of the
-vehicle interior may be damaged or burned due to contact
-failure.
-• If you directly connect the
-wire on the taillight or replace
-the bulb which is over the regulated capacity to install trailers etc., the inner junction
-block can get burned.
-Maintenance
-56
-7
-✽NOTICE - Remodeling
-Prohibited
-Do not rewire your vehicle in any
-way as doing so may affect the performance of several safety features
-in your vehicle.  Rewiring your vehicle may also void your warranty and
-cause you to be responsible for any
-subsequent vehicle damage which
-may result.
-✽NOTICE - Window tinting
-precaution
-Window tint(especially metallic
-film) might cause communication
-disorder or poor radio reception,
-and malfunction of the automatic
-lighting system due to excessive
-change of illumination inside the
-vehicle. The solution used might also
-flow into electric, electronic devices
-causing disorder and failure.
-Inner panel fuse replacement
-1. Turn the ignition switch and all
-other switches off.
-2. Open the fuse panel cover.
-If the switch is located in the “OFF”
-position, a caution indicator will be
-displayed in the cluster.
-
-CAUTION
-Visually inspect the battery cap
-to ensure it is securely closed.
-If the battery cap is not securely
-closed, moisture may enter the
-system and damage the electrical components.
+> ⚠️ **Внимание:** 
+> • Do not input any other objects
+> except fuses or relays into
+> fuse/relay terminals such as a
+> driver or wiring. It may cause
+> contact failure and system
+> malfunction.
+> • Do not plug in screwdrivers or
+> aftermarket wiring into the terminal originally designed for
+> fuse and relays only. The electrical system and wiring of the
+> vehicle interior may be damaged or burned due to contact
+> failure.
+> • If you directly connect the
+> wire on the taillight or replace
+> the bulb which is over the regulated capacity to install trailers etc., the inner junction
+> block can get burned.
+> Maintenance
+> 56
+> 7
+> ✽NOTICE - Remodeling
+> Prohibited
+> Do not rewire your vehicle in any
+> way as doing so may affect the performance of several safety features
+> in your vehicle.  Rewiring your vehicle may also void your warranty and
+> cause you to be responsible for any
+> subsequent vehicle damage which
+> may result.
+> ✽NOTICE - Window tinting
+> precaution
+> Window tint(especially metallic
+> film) might cause communication
+> disorder or poor radio reception,
+> and malfunction of the automatic
+> lighting system due to excessive
+> change of illumination inside the
+> vehicle. The solution used might also
+> flow into electric, electronic devices
+> causing disorder and failure.
+> Inner panel fuse replacement
+> 1. Turn the ignition switch and all
+> other switches off.
+> 2. Open the fuse panel cover.
+> If the switch is located in the “OFF”
+> position, a caution indicator will be
+> displayed in the cluster.
+>
+> CAUTION
+> Visually inspect the battery cap
+> to ensure it is securely closed.
+> If the battery cap is not securely
+> closed, moisture may enter the
+> system and damage the electrical components.
 
 
-### WARNING
-`kia_stinger_en_bd8e8928` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:483
-
-- Electrical wiring repairs
-All electrical repairs should be
-performed by authorized Kia
-dealerships using approved Kia
-parts. Using other wiring components, especially when retrofitting AVN or theft alarm system, remote engine control, car
-phone or radio may cause vehicle damage and increase the
-risk of a vehicle fire.
+> ⚠️ **Внимание:** 
+> - Electrical wiring repairs
+> All electrical repairs should be
+> performed by authorized Kia
+> dealerships using approved Kia
+> parts. Using other wiring components, especially when retrofitting AVN or theft alarm system, remote engine control, car
+> phone or radio may cause vehicle damage and increase the
+> risk of a vehicle fire.
 
 
 ### OCK077032
-`kia_stinger_en_4ecc1278` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:483
 
 7 57
 Maintenance
@@ -22335,7 +21744,6 @@ displayed in the cluster.
 
 
 ### OCK077033
-`kia_stinger_en_aa7c4b79` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:484
 
 OCK077034
 Maintenance
@@ -22370,32 +21778,29 @@ in the clips. If it fits loosely, consult
 an authorized Kia dealer.
 
 
-### CAUTION
-`kia_stinger_en_ebb42f3c` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:485
-
-Always securely install the fuse
-panel cover in the engine compartment to protect against
-electrical failure which may
-occur
-from
-water
-contact.
-Listen for the audible clicking
-sound to ensure fuse panel
-cover is securely fastened.
-
-CAUTION - Fuse Panel
-Covers
-The contact points of the
-switches may wear out with
-excessive use. Please refrain
-from excessive use of the
-switches (except for long-term
-parking for over 1 month).
+> ⚠️ **Внимание:** 
+> Always securely install the fuse
+> panel cover in the engine compartment to protect against
+> electrical failure which may
+> occur
+> from
+> water
+> contact.
+> Listen for the audible clicking
+> sound to ensure fuse panel
+> cover is securely fastened.
+>
+> CAUTION - Fuse Panel
+> Covers
+> The contact points of the
+> switches may wear out with
+> excessive use. Please refrain
+> from excessive use of the
+> switches (except for long-term
+> parking for over 1 month).
 
 
 ### OCK077035
-`kia_stinger_en_0369caf8` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:485
 
 7 59
 Maintenance
@@ -22431,7 +21836,6 @@ the main fuse.
 
 
 ### OCK077037
-`kia_stinger_en_c2e4566c` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:486
 
 OCK077036
 Maintenance
@@ -22453,7 +21857,6 @@ Fuse/relay panel description
 
 
 ### OCK077040
-`kia_stinger_en_35188b9a` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:487
 
 ■Battery box fuse panel
 ■Rear fuse box panel
@@ -22488,7 +21891,6 @@ Low DC-DC Converter (Audio)
 
 
 ### AIR BAG
-`kia_stinger_en_98d2e1c9` | stinger | pdf_manual | tier:2 | lang:en | layer:interior | p:490
 
 15A
 SRS (Supplemental Restraint System) Control Module
@@ -22526,7 +21928,6 @@ IBU 3
 
 
 ### IBU (B+)
-`kia_stinger_en_0366529e` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:490
 
 Instrument panel (Driver’s side fuse panel)
 Maintenance
@@ -22586,7 +21987,6 @@ Front/Rear Seat Warmer Control Module
 
 
 ### MODULE 7
-`kia_stinger_en_01aec51b` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:492
 
 10A
 IBU, ECS Unit, AWD (All Wheel Drive) ECM (Electronic Control Module), Smart Cruise Control Module,
@@ -22605,7 +22005,6 @@ Data Link Connector, Console Switch (Upper), Mood Lamp Control Unit
 
 
 ### MODULE 5
-`kia_stinger_en_4bdb27b3` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:492
 
 10A
 Air Conditioner Control Module, Air Conditioner Switch, Audio, Head Lamp Left Handle side/Right
@@ -22678,7 +22077,6 @@ Alternator, Multi Fuse
 
 
 ### COOLING FAN 2
-`kia_stinger_en_baf4c1bf` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:495
 
 125A
 [BLDC (Brushless Direct Current) Motor] Cooling Fan Controller
@@ -22806,7 +22204,6 @@ IBU (Integrated Body Control Unit), ECM (Electronic Control Module)
 
 
 ### SENSOR 1
-`kia_stinger_en_c2ab0b91` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:497
 
 15A
 Rear Sub Junction Block (Fuel Pump Relay)
@@ -22833,7 +22230,6 @@ SENSOR 3
 
 
 ### SENSOR 2
-`kia_stinger_en_6b0027a1` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:498
 
 10A
 [THETA II 2.0L T-GDI Engine] Electronic Thermostat, Oil Control Valve, Purge Control Solenoid Valve,
@@ -22947,7 +22343,6 @@ Maintenance
 
 
 ### LIGHT BULBS
-`kia_stinger_en_3f51ce96` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:504
 
 Bulb replacement precaution
 Please keep extra bulbs on hand
@@ -22985,7 +22380,6 @@ dealer immediately.
 
 
 ### WARNING - Working on
-`kia_stinger_en_94bbdb37` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:504
 
 the lights
 Prior to working on the light,
@@ -23004,7 +22398,6 @@ or electric wiring system.
 
 
 ### CAUTION - Headlamp
-`kia_stinger_en_b38b7db6` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:504
 
 Lens
 To prevent damage, do not
@@ -23052,7 +22445,6 @@ lamp (LED type)
 
 
 ### OCK077096L
-`kia_stinger_en_bbaa1365` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:505
 
 OCK077097L
 ■Head lamp - Type B
@@ -23082,7 +22474,6 @@ OCK077051L
 
 
 ### OCK077098L
-`kia_stinger_en_8891a704` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:506
 
 ■Rear combination lamp - Type B
 OCK077099L
@@ -23125,7 +22516,6 @@ parts of the vehicle.
 
 
 ### OCK077100L
-`kia_stinger_en_758f727a` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:507
 
 ■Head lamp - Type B
 OCK077101L
@@ -23165,7 +22555,6 @@ authorized Kia dealer.
 
 
 ### OCK077074
-`kia_stinger_en_f586d39f` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:508
 
 ■Head lamp - Type A
 OCK077075
@@ -23192,7 +22581,6 @@ cleaner assembly.
 
 
 ### OQL075058
-`kia_stinger_en_1ea58a8f` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:509
 
 WARNING - Halogen
 bulbs
@@ -23204,7 +22592,6 @@ contact with liquids.
 
 
 ### OCK077077
-`kia_stinger_en_03bbb90e` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:509
 
 OCK077078
 7 83
@@ -23247,7 +22634,6 @@ the vehicle.
 
 
 ### OCK077053
-`kia_stinger_en_5b9a56d8` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:510
 
 OCK077079
 Maintenance
@@ -23284,7 +22670,6 @@ type) bulb replacement
 
 
 ### OCK077102L
-`kia_stinger_en_27303818` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:511
 
 OCK077087L
 OCK077080
@@ -23313,7 +22698,6 @@ it locks into place.
 
 
 ### OCK077056
-`kia_stinger_en_ae81c787` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:512
 
 OCK077081
 OCK077082
@@ -23342,7 +22726,6 @@ rear combination lamp of both side
 
 
 ### OCK077057
-`kia_stinger_en_ae50247e` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:513
 
 OCK077058
 OCK077059
@@ -23374,7 +22757,6 @@ assembly to the body of the vehicle.
 
 
 ### OCK077060
-`kia_stinger_en_a7526452` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:514
 
 Maintenance
 88
@@ -23418,7 +22800,6 @@ the vehicle.
 
 
 ### OCK077061
-`kia_stinger_en_fb521fbc` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:515
 
 OCK077062
 OCK077052
@@ -23462,7 +22843,6 @@ vehicle.
 
 
 ### OCK077065
-`kia_stinger_en_ba7c696e` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:516
 
 OCK077063
 OCK077064
@@ -23496,7 +22876,6 @@ the vehicle.
 
 
 ### OCK077066
-`kia_stinger_en_87c1a954` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:517
 
 OCK077067
 7 91
@@ -23578,7 +22957,6 @@ unit.
 
 
 ### CAUTION - Wet engine
-`kia_stinger_en_20078b17` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:519
 
 • Water washing in the engine
 compartment including high
@@ -23592,7 +22970,6 @@ this may damage them.
 
 
 ### OCK077070
-`kia_stinger_en_e4c6108c` | stinger | pdf_manual | tier:2 | lang:en | layer:chassis | p:519
 
 7 93
 Maintenance
@@ -23636,7 +23013,6 @@ chemicals.
 
 
 ### CAUTION - Drying vehicle
-`kia_stinger_en_024ed7b9` | stinger | pdf_manual | tier:2 | lang:en | layer:chassis | p:520
 
 • Wiping dust or dirt off the
 body with a dry cloth will
@@ -23856,7 +23232,6 @@ remove gradually.
 
 
 ### CAUTION - Electrical
-`kia_stinger_en_81eddb1a` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:524
 
 components
 Never allow water or other liquids to come in contact with
@@ -23866,7 +23241,6 @@ may damage them.
 
 
 ### CAUTION - Leather
-`kia_stinger_en_ba8f6630` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:524
 
 When cleaning leather products
 (steering wheel, seats etc.), use
@@ -23934,7 +23308,6 @@ Maintenance
 
 
 ### EMISSION CONTROL SYSTEM
-`kia_stinger_en_d594bf48` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:526
 
 The emission control system of your
 vehicle is covered by a written limited
@@ -24051,7 +23424,6 @@ immediately.
 
 
 ### WARNING - Exhaust
-`kia_stinger_en_ad81b863` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:527
 
 Engine exhaust gases contain
 carbon monoxide (CO). Though
@@ -24093,7 +23465,6 @@ are very hot and may burn you.
 
 
 ### WARNING - Fire
-`kia_stinger_en_f17f8aa2` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:528
 
 • Do not park, idle or drive the
 vehicle over or near flammable objects, such as grass,
@@ -24151,7 +23522,6 @@ of Regulations Chapter 67384.10
 
 
 ### CALIFORNIA
-`kia_stinger_en_3794b76e` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:529
 
 PERCHLORATE NOTICE
 Specifications, Consumer information and Reporting safety defects
@@ -24188,7 +23558,6 @@ Specifications, Consumer information, Reporting safety defects
 
 
 ### DIMENSIONS
-`kia_stinger_en_d72f3637` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:531
 
 ENGINE
 Item
@@ -24217,7 +23586,6 @@ Gasoline Engine
 
 
 ### Lambda 3.3 T-GDI
-`kia_stinger_en_b646e55e` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:531
 
 Theta II 2.0 T-GDI
 Displacement
@@ -24322,30 +23690,27 @@ TIRES AND WHEELS
 *4: It is applied to Lambda 3.3 T-GDI AWD vehicle.
 
 
-### CAUTION
-`kia_stinger_en_57a5e52f` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:533
-
-When replacing tires, use the same size originally supplied with the vehicle.
-Using tires of a different size can damage the related parts or make them work irregularly.
-Item
-Tire size
-Wheel size
-Load
-Capacity
-Speed
-capacity
-Inflation pressure [bar (psi, kPa)]
-Wheel lug
-nut torque
-ЛЗЖбН
-(МВЖбЖФ, NбН)
-Normal load *3
-Maximum load or Over
-100 MPH (160 km/h)
+> ⚠️ **Внимание:** 
+> When replacing tires, use the same size originally supplied with the vehicle.
+> Using tires of a different size can damage the related parts or make them work irregularly.
+> Item
+> Tire size
+> Wheel size
+> Load
+> Capacity
+> Speed
+> capacity
+> Inflation pressure [bar (psi, kPa)]
+> Wheel lug
+> nut torque
+> ЛЗЖбН
+> (МВЖбЖФ, NбН)
+> Normal load *3
+> Maximum load or Over
+> 100 MPH (160 km/h)
 
 
 ### LI *1
-`kia_stinger_en_71a58397` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:533
 
 Kg
 SS *2
@@ -24474,7 +23839,6 @@ oz. (g)
 
 
 ### FD46XG (IDEMITSU)
-`kia_stinger_en_c02b7721` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:535
 
 8 7
 Specifications, Consumer information, Reporting safety defects
@@ -24504,7 +23868,6 @@ Engine
 
 
 ### 2.0 T-GDI
-`kia_stinger_en_02a94912` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:536
 
 9.71 US qt. (9.2 l)
 GS ATF SP-IV-RR
@@ -24522,7 +23885,6 @@ for aluminum radiator)
 
 
 ### 3.3 T-GDI
-`kia_stinger_en_ac7fc7e0` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:536
 
 12.25 US qt. (11.6 l)
 Brake fluid
@@ -24558,7 +23920,6 @@ Front differential oil *3
 
 
 ### HYPOID GEAR OIL API GL-5 SAE 75W/85
-`kia_stinger_en_ebea2960` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:537
 
 (SK HK SYN GEAR OIL 75W85)
 Transfer oil
@@ -24617,7 +23978,6 @@ Engine Oil
 
 
 ### Lambda II
-`kia_stinger_en_0ff879db` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:538
 
 3.3 T-GDI *1
 Theta II 2.0
@@ -24638,7 +23998,6 @@ Specifications, Consumer information, Reporting safety defects
 
 
 ### VEHICLE IDENTIFICATION NUMBER (VIN)
-`kia_stinger_en_ace5f0f3` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:539
 
 The vehicle identification number
 (VIN) is the number used in registering your vehicle and in all legal matters pertaining to its ownership, etc.
@@ -24661,7 +24020,6 @@ number (VIN).
 
 
 ### VEHICLE CERTIFICATION
-`kia_stinger_en_93bd5f9f` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:539
 
 LABEL
 OCK087001
@@ -24692,7 +24050,6 @@ OCK087003
 
 
 ### REFRIGERANT LABEL
-`kia_stinger_en_90bc8e69` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:540
 
 OCK087007L
 Specifications, Consumer information, Reporting safety defects
@@ -24737,7 +24094,6 @@ authorized Kia alternative service location.
 
 
 ### CONSUMER ASSISTANCE (U.S. ONLY)
-`kia_stinger_en_8d629fba` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:541
 
 8 13
 Specifications, Consumer information, Reporting safety defects
@@ -24835,7 +24191,6 @@ Irvine, CA 92619-2410
 
 
 ### ELECTRICAL EQUIPMENT (U.S. ONLY)
-`kia_stinger_en_5806dcc0` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:544
 
 If you believe that your vehicle has a defect which could
 cause a crash or could cause injury or death, you should
@@ -24872,7 +24227,6 @@ procedures for the vehicle.
 
 
 ### REPORTING SAFETY DEFECTS
-`kia_stinger_en_5328442f` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:545
 
 (U.S. ONLY)
 ONLINE FACTORY AUTHORIZED MANUALS
@@ -25582,7 +24936,6 @@ V
 
 
 ### Kia, THE COMPANY
-`kia_stinger_en_6482e0c6` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:2
 
 Thank you for becoming the owner of a new Kia vehicle.
 As a global car manufacturer focused on building high-quality vehicles with exceptional value, Kia Motors is dedicated to providing you
@@ -25664,7 +25017,6 @@ Introduction
 
 
 ### HOW TO USE THIS MANUAL
-`kia_stinger_en_ad48f84b` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:6
 
 We want to help you get the greatest
 possible driving pleasure from your
@@ -25693,7 +25045,6 @@ You will find various WARNINGs,
 
 
 ### CAUTIONs, and NOTICEs in this
-`kia_stinger_en_eeb1cba3` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:6
 
 manual. These WARNINGs were prepared to enhance your personal safety.You should carefully read and follow
 ALL procedures and recommendations provided in these WARNINGs,
@@ -25711,7 +25062,6 @@ obtain maximum performance with
 
 
 ### UNLEADED FUEL, as well as mini-
-`kia_stinger_en_8b8be9bc` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:6
 
 mize exhaust emissions and spark
 plug fouling.
@@ -25735,7 +25085,6 @@ ignored.
 
 
 ### FUEL REQUIREMENTS
-`kia_stinger_en_741677af` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:6
 
 1 3
 Introduction
@@ -25788,7 +25137,6 @@ may inhibit proper drivability.
 
 
 ### WARNING - Refueling
-`kia_stinger_en_feaadebc` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:7
 
 • Do not "top off" after the nozzle automatically shuts off.
 Attempts to force more fuel
@@ -25902,7 +25250,6 @@ extremely hot.
 
 
 ### VEHICLE BREAK-IN
-`kia_stinger_en_ef3df124` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:9
 
 PROCESS
 RISK OF BURNS WHEN
@@ -25965,7 +25312,6 @@ the vehicle or the EDR.
 
 
 ### VEHICLE DATA COLLECTION AND EVENT DATA RECORDERS
-`kia_stinger_en_4d8b2fb9` | stinger | pdf_manual | tier:2 | lang:en | layer:interior | p:10
 
 Your vehicle at a glance
 Exterior overview . . . . . . . . . . . . . . . . . . . . . . . . . . . 2-2
@@ -25979,7 +25325,6 @@ Your vehicle at a glance
 
 
 ### OCK017004N
-`kia_stinger_en_7634b1ec` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:15
 
 ❈The actual shape may differ from the illustration.
 Your vehicle at a glance
@@ -26088,7 +25433,6 @@ vehicle is parked or safely stopped.
 
 
 ### IMPORTANT SAFETY PRECAUTIONS
-`kia_stinger_en_a841fd29` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:18
 
 3 3
 Safety features of your vehicle
@@ -26159,7 +25503,6 @@ pedals.
 
 
 ### WARNING - Driver respon-
-`kia_stinger_en_adb95bfa` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:21
 
 sibility for passengers
 The driver must advise the passengers to keep the seatback in
@@ -26171,7 +25514,6 @@ restrain will be greatly reduced.
 
 
 ### 1KMN3662
-`kia_stinger_en_c9e8eb85` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:21
 
 WARNING - Seat cushion
 Occupants should never sit on
@@ -26191,7 +25533,6 @@ injuring vehicle occupants.
 
 
 ### WARNING - Luggage and
-`kia_stinger_en_eeb22667` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:22
 
 Cargo
 Do not stack pile or stack luggage or cargo higher than the
@@ -26210,7 +25551,6 @@ solely for the purpose of transporting luggage or cargo.
 
 
 ### WARNING - Driver’s seat
-`kia_stinger_en_d36c4a12` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:22
 
 • Never attempt to adjust the
 seat while the vehicle is moving. This could result in loss
@@ -26253,22 +25593,19 @@ Wrinkles or abrasions which appear
 naturally from usage are not covered by warranty.
 
 
-### CAUTION
-`kia_stinger_en_03d24b7a` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:23
-
-• Belts with metallic accessories, zippers or keys inside
-your back pants pocket may
-damage the seat fabric.
-• Make sure not to wet the seat.
-It may change the nature of
-natural leather.
-• Jeans or clothes which contain bleach may contaminate
-the surface of the seat covering fabric and cause damage
-or discoloration.
+> ⚠️ **Внимание:** 
+> • Belts with metallic accessories, zippers or keys inside
+> your back pants pocket may
+> damage the seat fabric.
+> • Make sure not to wet the seat.
+> It may change the nature of
+> natural leather.
+> • Jeans or clothes which contain bleach may contaminate
+> the surface of the seat covering fabric and cause damage
+> or discoloration.
 
 
 ### WARNING - Seat
-`kia_stinger_en_68b6dbbf` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:23
 
 adjustment
 • Do not adjust the seat while
@@ -26283,7 +25620,6 @@ seat mechanism.
 
 
 ### WARNING - Small
-`kia_stinger_en_ff433767` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:23
 
 Objects
 Use extreme caution when picking up small objects trapped
@@ -26334,7 +25670,6 @@ electrical components.
 
 
 ### WARNING - Unattended
-`kia_stinger_en_d0ddb863` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:24
 
 children
 Do not leave children unattended in the vehicle. Children might
@@ -26367,7 +25702,6 @@ desired position.
 
 
 ### OCK037005
-`kia_stinger_en_758d12b6` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:25
 
 OCK037006
 Safety features of your vehicle
@@ -26396,7 +25730,6 @@ switch to move the support position up, or press the lower portion
 
 
 ### OCK037009
-`kia_stinger_en_bf89a90c` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:26
 
 OCK037007
 3 11
@@ -26430,7 +25763,6 @@ Head up Display (HUD): height, rotation and brightness.
 
 
 ### OCK037008
-`kia_stinger_en_30ed5a48` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:27
 
 OCK037021
 Safety features of your vehicle
@@ -26473,7 +25805,6 @@ switch is moved.
 
 
 ### WARNING - Driver
-`kia_stinger_en_d000c63f` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:28
 
 Position Memory System
 Never attempt to operate the
@@ -26564,7 +25895,6 @@ neck in the event of a rear collision.
 
 
 ### OMG038400
-`kia_stinger_en_e5febaab` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:30
 
 CAUTION
 • If alarm sound and driver seat
@@ -26602,7 +25932,6 @@ position (3).
 
 
 ### WARNING - Headrest
-`kia_stinger_en_420d77cb` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:31
 
 removal/adjustment
 • Do not operate the vehicle
@@ -26615,51 +25944,48 @@ height while the vehicle is in
 motion. Driver may lose control of the vehicle.
 
 
-### CAUTION
-`kia_stinger_en_fc5d2c50` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:31
-
-Excessive pulling or pushing
-may damage the headrest.
-OCK037011
-Safety features of your vehicle
-16
-3
-Forward and backward adjustment
-The headrest may be adjusted forward to 4 different positions by
-pulling the headrest forward to the
-desired detent.
-To adjust the headrest to it’s furthest
-backwards position,
-Pull the headrest fully forward to the
-farthest position and release it.
-Adjust the headrest so that it properly
-supports the head  and neck.
-✽ NOTICE
-If you recline the seatback towards
-the front with the headrest and seat
-cushion raised, the headrest may
-come in contact with the sunvisor or
-other parts of the vehicle.
-Removal and reinstallation
-To remove the headrest:
-1. Recline the seatback (2) with the
-recline switch (1).
-2. Raise headrest as far as it can go.
-3. Press the headrest release button
-(3) while pulling the headrest up (4).
-
-OCK037012
-WARNING - Headrest
-Removal
-NEVER allow anyone to ride in a
-seat with the headrest removed.
-Headrests can provide critical
-neck and head support in a
-crash.
+> ⚠️ **Внимание:** 
+> Excessive pulling or pushing
+> may damage the headrest.
+> OCK037011
+> Safety features of your vehicle
+> 16
+> 3
+> Forward and backward adjustment
+> The headrest may be adjusted forward to 4 different positions by
+> pulling the headrest forward to the
+> desired detent.
+> To adjust the headrest to it’s furthest
+> backwards position,
+> Pull the headrest fully forward to the
+> farthest position and release it.
+> Adjust the headrest so that it properly
+> supports the head  and neck.
+> ✽ NOTICE
+> If you recline the seatback towards
+> the front with the headrest and seat
+> cushion raised, the headrest may
+> come in contact with the sunvisor or
+> other parts of the vehicle.
+> Removal and reinstallation
+> To remove the headrest:
+> 1. Recline the seatback (2) with the
+> recline switch (1).
+> 2. Raise headrest as far as it can go.
+> 3. Press the headrest release button
+> (3) while pulling the headrest up (4).
+>
+> OCK037012
+> WARNING - Headrest
+> Removal
+> NEVER allow anyone to ride in a
+> seat with the headrest removed.
+> Headrests can provide critical
+> neck and head support in a
+> crash.
 
 
 ### OYFH034205
-`kia_stinger_en_315c4747` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:32
 
 OCK037010
 3 17
@@ -26694,7 +26020,6 @@ injure vehicle occupants.
 
 
 ### OCK037073N
-`kia_stinger_en_136b7729` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:33
 
 OCK037014
 WARNING - Headrest
@@ -26742,7 +26067,6 @@ position.
 
 
 ### OCK037018
-`kia_stinger_en_de446fd4` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:34
 
 OCK037017N
 3 19
@@ -26769,7 +26093,6 @@ the front of the vehicle.
 
 
 ### OCK037019N
-`kia_stinger_en_059d279e` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:35
 
 OCK037067
 WARNING
@@ -26802,20 +26125,17 @@ locked in place.
 proper position.
 
 
-### WARNING
-`kia_stinger_en_baa382ac` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:36
-
-After folding the rear seat,
-unless the driver’s position is
-properly set according to the
-driver’s physical figure, do not
-fold the rear seat.
-It may
-increase body injuries in a sudden stop or collision.
+> ⚠️ **Внимание:** 
+> After folding the rear seat,
+> unless the driver’s position is
+> properly set according to the
+> driver’s physical figure, do not
+> fold the rear seat.
+> It may
+> increase body injuries in a sudden stop or collision.
 
 
 ### WARNING - Uprighting
-`kia_stinger_en_290261af` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:36
 
 seat
 When you return the seatback
@@ -26830,33 +26150,30 @@ resulting in injury caused by
 being struck by the seatback.
 
 
-### WARNING
-`kia_stinger_en_baa382ac` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:36
-
-When you return the rear seatback to its upright position after
-being folded down:
-Be careful not to damage the
-seat belt webbing or buckle. Do
-not allow the seat belt webbing
-or buckle to get caught or
-pinched in the rear seat. Ensure
-that the seatback is completely
-locked into its upright position
-by pushing on the top of the
-seatback. Otherwise, in an accident or sudden stop, the seat
-could fold down and allow
-cargo enter the passenger compartment, which could result in
-serious injury or death.
-
-CAUTION
-Be careful when loading cargo
-through the rear passenger
-seats to prevent damage to the
-vehicle interior.
+> ⚠️ **Внимание:** 
+> When you return the rear seatback to its upright position after
+> being folded down:
+> Be careful not to damage the
+> seat belt webbing or buckle. Do
+> not allow the seat belt webbing
+> or buckle to get caught or
+> pinched in the rear seat. Ensure
+> that the seatback is completely
+> locked into its upright position
+> by pushing on the top of the
+> seatback. Otherwise, in an accident or sudden stop, the seat
+> could fold down and allow
+> cargo enter the passenger compartment, which could result in
+> serious injury or death.
+>
+> CAUTION
+> Be careful when loading cargo
+> through the rear passenger
+> seats to prevent damage to the
+> vehicle interior.
 
 
 ### OCK037068
-`kia_stinger_en_f58fa05f` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:36
 
 3 21
 Safety features of your vehicle
@@ -26870,7 +26187,6 @@ or damage during sudden stops.
 
 
 ### WARNING - Cargo loading
-`kia_stinger_en_770e3f64` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:37
 
 Make sure the engine is off, the
 transaxle is in P (Park) and the
@@ -26883,7 +26199,6 @@ moved to another position.
 
 
 ### WARNING - Cargo
-`kia_stinger_en_a9d0c36b` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:37
 
 Cargo
 should
@@ -26907,7 +26222,6 @@ position.
 
 
 ### CAUTION - Damaging
-`kia_stinger_en_e1889a04` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:37
 
 rear seat belt buckles
 When you fold the rear seatback, insert the buckle between
@@ -26921,7 +26235,6 @@ Safety features of your vehicle
 
 
 ### SEAT BELTS
-`kia_stinger_en_b95402e4` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:38
 
 Seat belt restraint system
 • For maximum restraint system protection, the seat belts must always
@@ -26978,7 +26291,6 @@ could even cut into your body.
 
 
 ### WARNING - Shoulder Belt
-`kia_stinger_en_79bf8739` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:38
 
 • Never wear the shoulder belt
 under your arm or behind
@@ -27043,7 +26355,6 @@ from fastening securely.
 
 
 ### 1GQA2083
-`kia_stinger_en_97467453` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:39
 
 Safety features of your vehicle
 24
@@ -27086,7 +26397,6 @@ your neck.
 
 
 ### OYG036028
-`kia_stinger_en_057c92d5` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:40
 
 OCK037022
 3 25
@@ -27121,7 +26431,6 @@ if you try to lean forward too quickly.
 
 
 ### B180A01NF-1
-`kia_stinger_en_e69b5d41` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:41
 
 WARNING
 - Shoulder belt positioning
@@ -27153,7 +26462,6 @@ must be used.
 
 
 ### B200A01NF
-`kia_stinger_en_e5ca6da1` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:42
 
 WARNING
 You should place the lap belt
@@ -27171,7 +26479,6 @@ the arm near the door.
 
 
 ### OCK037024
-`kia_stinger_en_c210bd29` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:42
 
 OCK037025
 3 27
@@ -27201,46 +26508,43 @@ buckle
 ➂: Rear left seat belt fastening buckle
 
 
-### WARNING
-`kia_stinger_en_142d36f2` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:43
-
-Always have the metal tab(A)
-inserted into the buckle (A’).
-OUM036100L
-OCK037064
-Safety features of your vehicle
-28
-3
-When using the rear center seat belt,
-the buckle with the “CENTER” mark
-must be used.
-Pre-tensioner seat belt
-Your vehicle is equipped with driver's
-and front passenger's pre-tensioner
-seat belts (retractor pretensioner and
-EFD (Emergency Fastening Device)).
-The pre-tensioner seat belts may be
-activated, when a frontal collision is
-severe enough, together with the air
-bags.
-When the vehicle stops suddenly, or if
-the occupant tries to lean forward too
-quickly, the seat belt retractor may
-lock into position. In certain frontal collisions, the pre-tensioner will activate
-and pull the seat belt into tighter contact against the occupant's body.
-(1) Retractor Pretensioner
-The purpose of the retractor pretensioner is to make sure that the
-shoulder belts fit in tightly against
-the occupant's upper body in certain frontal collisions.
-(2) EFD (Emergency Fastening Device)
-The purpose of the EFD is to
-make sure that the pelvis belts fit
-in tightly against the occupant's
-lower body in certain frontal collisions.
+> ⚠️ **Внимание:** 
+> Always have the metal tab(A)
+> inserted into the buckle (A’).
+> OUM036100L
+> OCK037064
+> Safety features of your vehicle
+> 28
+> 3
+> When using the rear center seat belt,
+> the buckle with the “CENTER” mark
+> must be used.
+> Pre-tensioner seat belt
+> Your vehicle is equipped with driver's
+> and front passenger's pre-tensioner
+> seat belts (retractor pretensioner and
+> EFD (Emergency Fastening Device)).
+> The pre-tensioner seat belts may be
+> activated, when a frontal collision is
+> severe enough, together with the air
+> bags.
+> When the vehicle stops suddenly, or if
+> the occupant tries to lean forward too
+> quickly, the seat belt retractor may
+> lock into position. In certain frontal collisions, the pre-tensioner will activate
+> and pull the seat belt into tighter contact against the occupant's body.
+> (1) Retractor Pretensioner
+> The purpose of the retractor pretensioner is to make sure that the
+> shoulder belts fit in tightly against
+> the occupant's upper body in certain frontal collisions.
+> (2) EFD (Emergency Fastening Device)
+> The purpose of the EFD is to
+> make sure that the pelvis belts fit
+> in tightly against the occupant's
+> lower body in certain frontal collisions.
 
 
 ### OCK037065
-`kia_stinger_en_25e42a7b` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:44
 
 OXMA033101
 WARNING
@@ -27278,7 +26582,6 @@ assembly
 
 
 ### OJF045207L
-`kia_stinger_en_15d1ec32` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:45
 
 WARNING - Skin Irritation
 Wash all exposed skin areas
@@ -27334,7 +26637,6 @@ Kia dealer.
 
 
 ### WARNING - Hot preten-
-`kia_stinger_en_2b56e82f` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:46
 
 sioner
 Do not touch the pre-tensioner
@@ -27401,7 +26703,6 @@ be returned to a child restraint system.
 
 
 ### WARNING - Small children
-`kia_stinger_en_dc33a3ea` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:47
 
 Do not allow small children to
 ride in the vehicle without an
@@ -27464,7 +26765,6 @@ collision will crush the fetus.
 
 
 ### WARNING - Pinched seat
-`kia_stinger_en_f253085d` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:48
 
 belt
 Make sure that the webbing
@@ -27504,7 +26804,6 @@ Safety features of your vehicle
 
 
 ### CHILD RESTRAINT SYSTEM (CRS)
-`kia_stinger_en_1ede02ff` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:50
 
 Children Always in the Rear
 Children under age 13 must always
@@ -27555,7 +26854,6 @@ and seriously injured.
 
 
 ### WARNING - Hot Child
-`kia_stinger_en_d62d5547` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:50
 
 Restraint
 A child restraint system can
@@ -27584,7 +26882,6 @@ Selecting a Child Restraint
 
 
 ### System (CRS)
-`kia_stinger_en_802978e4` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:51
 
 When selecting a CRS for your child,
 always:
@@ -27604,49 +26901,46 @@ and use provided with the child
 restraint system.
 
 
-### WARNING
-`kia_stinger_en_865d299f` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:51
-
-- Child Restraint Installation
-An improperly secured child
-restraint can increase the risk
-of serious injury or death in an
-accident. Always take the following precautions when using
-a child restraint system:
-• Always
-follow
-the
-child
-restraint system manufacturer’s instructions for installation and use.
-(Continued)
-(Continued)
-• Always properly restrain your
-child in the child restraint.
-• If the vehicle head restraint
-prevents proper installation of
-a child seat (as described in
-the child restraint system
-manual), the head restraint of
-the respective seating position shall be readjusted or
-entirely removed.
-• Do not use an infant carrier or
-a child safety seat that
-"hooks" over a seatback, it
-may not provide adequate
-protection in an accident.
-Safety features of your vehicle
-36
-3
-Child restraint system types
-There are three main types of child
-restraint systems: rear-facing seats,
-forward-facing seats, and booster
-seats. They are classified according
-to the child’s age, height and weight.
+> ⚠️ **Внимание:** 
+> - Child Restraint Installation
+> An improperly secured child
+> restraint can increase the risk
+> of serious injury or death in an
+> accident. Always take the following precautions when using
+> a child restraint system:
+> • Always
+> follow
+> the
+> child
+> restraint system manufacturer’s instructions for installation and use.
+> (Continued)
+> (Continued)
+> • Always properly restrain your
+> child in the child restraint.
+> • If the vehicle head restraint
+> prevents proper installation of
+> a child seat (as described in
+> the child restraint system
+> manual), the head restraint of
+> the respective seating position shall be readjusted or
+> entirely removed.
+> • Do not use an infant carrier or
+> a child safety seat that
+> "hooks" over a seatback, it
+> may not provide adequate
+> protection in an accident.
+> Safety features of your vehicle
+> 36
+> 3
+> Child restraint system types
+> There are three main types of child
+> restraint systems: rear-facing seats,
+> forward-facing seats, and booster
+> seats. They are classified according
+> to the child’s age, height and weight.
 
 
 ### WARNING - Holding
-`kia_stinger_en_93a8bc6a` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:52
 
 Children
 Never hold a child in your arms
@@ -27667,7 +26961,6 @@ to the child in the vehicle.
 
 
 ### WARNING - Seat Belt Use
-`kia_stinger_en_015980be` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:52
 
 Do not use one seat belt for two
 occupants at the same time.
@@ -27712,7 +27005,6 @@ is ready for a booster seat.
 
 
 ### CRS09
-`kia_stinger_en_efea83e3` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:53
 
 OCK037026N
 Safety features of your vehicle
@@ -27741,7 +27033,6 @@ Installing a Child Restraint
 
 
 ### System (CRS)
-`kia_stinger_en_01ce38ec` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:54
 
 After selecting a proper child seat for
 your child, check to make sure it fits
@@ -27777,7 +27068,6 @@ Lower Anchors and Tether for
 
 
 ### Children (LATCH) System
-`kia_stinger_en_f3f04d26` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:55
 
 The LATCH system holds a child
 restraint during driving and in an
@@ -27809,7 +27099,6 @@ center rear seating position.
 
 
 ### B230D01NF
-`kia_stinger_en_b130f26a` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:55
 
 WARNING - LATCH Lower
 Anchors
@@ -27861,7 +27150,6 @@ anchors.
 
 
 ### OCK037029N
-`kia_stinger_en_19e076a2` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:56
 
 WARNING
 Take the following precautions
@@ -27917,7 +27205,6 @@ located on the back of the rear seatbacks.
 
 
 ### OCK037027N
-`kia_stinger_en_9072de9e` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:57
 
 WARNING
 Take the following precautions
@@ -27984,7 +27271,6 @@ the following procedure.
 
 
 ### OCK037028N
-`kia_stinger_en_ddd51990` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:58
 
 OLMB033044
 3 43
@@ -28014,7 +27300,6 @@ Locking” (child restraint) mode.
 
 
 ### OEN036101
-`kia_stinger_en_039d7ef0` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:59
 
 OEN036102
 Safety features of your vehicle
@@ -28065,7 +27350,6 @@ to retract fully.
 
 
 ### OEN036103
-`kia_stinger_en_30d7290e` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:60
 
 WARNING - Auto lock
 mode
@@ -28091,7 +27375,6 @@ or rollover.
 
 
 ### AIR BAG - ADVANCED SUPPLEMENTAL RESTRAINT SYSTEM
-`kia_stinger_en_f60803e6` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:61
 
 The actual air bags in the vehicle may differ from the illustration.
 OCK037030N
@@ -28190,7 +27473,6 @@ doctor if the symptom persists.
 
 
 ### WARNING - Hot compo-
-`kia_stinger_en_c24fb3d9` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:63
 
 nents
 Do not touch the air bag storage
@@ -28206,7 +27488,6 @@ result in burn injuries.
 
 
 ### WARNING - Airbag infla-
-`kia_stinger_en_09cdda6f` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:63
 
 tion
 Sit as far back as possible from
@@ -28218,41 +27499,38 @@ result in airbag inflation injuries
 to the driver.
 
 
-### WARNING
-`kia_stinger_en_cf3ac779` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:63
-
-Do not install or place any
-accessories
-near
-air
-bag
-deployment areas, such as the
-instrument panel, windows, pillars, and roof rails.
-Safety features of your vehicle
-48
-3
-Do not install a child restraint on
-the front passenger’s seat.
-Never place a rear-facing child
-restraint in the front passenger’s
-seat. If the air bag deploys, it would
-impact the rear-facing child restraint,
-causing serious or fatal injury.
-In addition, do not place front-facing
-child restraints in the front passenger’s seat. If the front passenger air
-bag inflates, it could cause serious or
-fatal injuries to the child.
-Air bag warning light
-The purpose of air bag warning light
-in your instrument panel is to alert
-you of a potential problem with your
-air bag system, which could include
-your side and/or curtain air bags
-used for rollover protection.
+> ⚠️ **Внимание:** 
+> Do not install or place any
+> accessories
+> near
+> air
+> bag
+> deployment areas, such as the
+> instrument panel, windows, pillars, and roof rails.
+> Safety features of your vehicle
+> 48
+> 3
+> Do not install a child restraint on
+> the front passenger’s seat.
+> Never place a rear-facing child
+> restraint in the front passenger’s
+> seat. If the air bag deploys, it would
+> impact the rear-facing child restraint,
+> causing serious or fatal injury.
+> In addition, do not place front-facing
+> child restraints in the front passenger’s seat. If the front passenger air
+> bag inflates, it could cause serious or
+> fatal injuries to the child.
+> Air bag warning light
+> The purpose of air bag warning light
+> in your instrument panel is to alert
+> you of a potential problem with your
+> air bag system, which could include
+> your side and/or curtain air bags
+> used for rollover protection.
 
 
 ### 1JBH3051
-`kia_stinger_en_74011b13` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:64
 
 W7-147
 WARNING - Air bag
@@ -28288,7 +27566,6 @@ Rollover sensor
 
 
 ### 10. PASSENGER AIR BAG “OFF”
-`kia_stinger_en_7bbbce8f` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:65
 
 indicator (Front passenger’s seat
 only)
@@ -28307,7 +27584,6 @@ W7-147
 
 
 ### OCK047061N
-`kia_stinger_en_e7f90aef` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:65
 
 Safety features of your vehicle
 50
@@ -28339,7 +27615,6 @@ inflation of the air bags.
 
 
 ### B240B01L
-`kia_stinger_en_0b9c7dd8` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:66
 
 Driver’s front air bag (1)
 B240B02L
@@ -28368,7 +27643,6 @@ deployed.
 
 
 ### B240B03L
-`kia_stinger_en_4c99d8a4` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:67
 
 Driver’s front air bag (3)
 B240B05L
@@ -28385,7 +27659,6 @@ bag deploys.
 
 
 ### WARNING - Flying objects
-`kia_stinger_en_079edb41` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:67
 
 Do not place any objects (an
 umbrella, bag, etc.) between the
@@ -28449,7 +27722,6 @@ occupant detection system.
 
 
 ### OCK037035
-`kia_stinger_en_b97c24fd` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:68
 
 3 53
 Safety features of your vehicle
@@ -28468,7 +27740,6 @@ frontal crashes.
 
 
 ### You will find the PASSENGER AIR
-`kia_stinger_en_003c0512` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:69
 
 BAG “OFF” indicator on the center
 facia panel. This system detects the
@@ -28521,7 +27792,6 @@ Devices
 
 
 ### AIR BAG OFF"
-`kia_stinger_en_88425572` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:70
 
 indicator light
 SRS warning
@@ -28548,44 +27818,41 @@ On
 Activated
 
 
-### CAUTION
-`kia_stinger_en_0b7c5f4d` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:70
-
-• Do not install a child restraint
-seat in the passenger seat
-when the seat is heavily
-soaked with any type of liquid.
-• Do not alter or remodel the
-ODS
-(Occupant
-Detection
-System).This may damage the
-system and prevent its proper
-function in a collision.
-3 55
-Safety features of your vehicle
-✽NOTICE
-• Do not use car seat cushions that
-cover up the surface of the seat
-and aftermarket manufactured
-passenger seat heaters.
-• After conducting car interior cleaning using steam or detergent, the
-seat should be dried properly.
-Afterward, check for normal operation of the “PASS AIR BAG
-“OFF” and air bag warning lights.
-• Any service related to the passenger seat and the ODS must be
-done at Kia service center.
-• After the passenger seat has been
-removed or installed for repair
-purposes, check for normal operation of the “PASS AIR BAG
-“OFF” and air bag warning lights
-with a person seated or not seated
-in the passenger seat.
-✽NOTICE
+> ⚠️ **Внимание:** 
+> • Do not install a child restraint
+> seat in the passenger seat
+> when the seat is heavily
+> soaked with any type of liquid.
+> • Do not alter or remodel the
+> ODS
+> (Occupant
+> Detection
+> System).This may damage the
+> system and prevent its proper
+> function in a collision.
+> 3 55
+> Safety features of your vehicle
+> ✽NOTICE
+> • Do not use car seat cushions that
+> cover up the surface of the seat
+> and aftermarket manufactured
+> passenger seat heaters.
+> • After conducting car interior cleaning using steam or detergent, the
+> seat should be dried properly.
+> Afterward, check for normal operation of the “PASS AIR BAG
+> “OFF” and air bag warning lights.
+> • Any service related to the passenger seat and the ODS must be
+> done at Kia service center.
+> • After the passenger seat has been
+> removed or installed for repair
+> purposes, check for normal operation of the “PASS AIR BAG
+> “OFF” and air bag warning lights
+> with a person seated or not seated
+> in the passenger seat.
+> ✽NOTICE
 
 
 ### When the “PASS AIR BAG “OFF”
-`kia_stinger_en_d6648fec` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:71
 
 symbol is illuminated, the passenger
 air bag system will not operate. The
@@ -28601,7 +27868,6 @@ occupant detection system.
 
 
 ### WARNING - ODS System
-`kia_stinger_en_3ec4dc74` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:71
 
 Riding in an improper position
 adversely affects the Occupant
@@ -28626,7 +27892,6 @@ pocket or on the front passenger seat.
 
 
 ### OJFA035105
-`kia_stinger_en_ff333f75` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:72
 
 - Do not place feet on the front
 passenger seatback.
@@ -28652,7 +27917,6 @@ Safety features of your vehicle
 
 
 ### OJFA035109
-`kia_stinger_en_50f5e481` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:73
 
 - Never lean on the door or center console.
 - Never sit on one side of the
@@ -28665,7 +27929,6 @@ the car seat surface.
 
 
 ### OJFA035102
-`kia_stinger_en_2e688949` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:73
 
 - Do
 not
@@ -28705,7 +27968,6 @@ to ride in the front seat when the
 
 
 ### PASSENGER AIR BAG “OFF”
-`kia_stinger_en_1099df59` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:74
 
 indicator
 is
@@ -28727,22 +27989,19 @@ the passenger's front air bag
 will not deploy.
 
 
-### WARNING
-`kia_stinger_en_d6a59bdd` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:74
-
-- Wet Passenger Seat
-Do not spill liquid in the passenger seat. Spilled liquid on
-the passenger seat may cause
-the air bag warning light to illuminate or malfunction. If any liquid is spilled, make sure the
-seat has been completely dried
-before driving the vehicle.
-3 59
-Safety features of your vehicle
-✽NOTICE
+> ⚠️ **Внимание:** 
+> - Wet Passenger Seat
+> Do not spill liquid in the passenger seat. Spilled liquid on
+> the passenger seat may cause
+> the air bag warning light to illuminate or malfunction. If any liquid is spilled, make sure the
+> seat has been completely dried
+> before driving the vehicle.
+> 3 59
+> Safety features of your vehicle
+> ✽NOTICE
 
 
 ### The PASSENGER AIR BAG “OFF”
-`kia_stinger_en_60211685` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:75
 
 indicator illuminates for about 4 seconds after the Engine Start/Stop
 button is turned to the ON position
@@ -28788,7 +28047,6 @@ occupant detection system, the PAS-
 
 
 ### SENGER AIR BAG “OFF” indicator
-`kia_stinger_en_8fb80e46` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:75
 
 will not illuminate and the passenger's front air bag will inflate in frontal
 impact crashes even if there is no
@@ -28847,7 +28105,6 @@ hands should be placed on their laps.
 
 
 ### OCK037032N
-`kia_stinger_en_37e487f5` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:76
 
 ■Driver’s front air bag
 ■Driver’s knee air bag
@@ -28897,7 +28154,6 @@ below the deployment threshold.
 
 
 ### WARNING - Replacement/
-`kia_stinger_en_3eaf1519` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:77
 
 modifications
 The front passenger seat, dashboard or door should not be
@@ -28910,7 +28166,6 @@ bags.
 
 
 ### WARNING - SRS Wiring
-`kia_stinger_en_98ac2056` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:77
 
 Do not tamper with or disconnect SRS wiring or other components of the SRS system.
 Doing so could result in injury,
@@ -28945,7 +28200,6 @@ rollover situations.
 
 
 ### OJF035041
-`kia_stinger_en_868d5303` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:78
 
 OCK037036
 WARNING - No attaching
@@ -29020,7 +28274,6 @@ the side  air bag.
 
 
 ### WARNING - No attaching
-`kia_stinger_en_5fa8783b` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:79
 
 objects
 • Do not place any objects over
@@ -29090,7 +28343,6 @@ done by an authorized Kia dealer.
 
 
 ### OCK037038
-`kia_stinger_en_26a7b778` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:80
 
 OJF035043
 WARNING - No attaching
@@ -29124,7 +28376,6 @@ Rollover sensor
 
 
 ### OCK037039L/OCK037040N/OCK037041L/OCK037042/OCK037043/OCK037044
-`kia_stinger_en_4f776ac5` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:81
 
 Safety features of your vehicle
 66
@@ -29150,7 +28401,6 @@ impact of the front collision.
 
 
 ### OCK037045
-`kia_stinger_en_46fd5abe` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:82
 
 WARNING - Air bag sensors
 • Do not hit or allow any objects
@@ -29218,7 +28468,6 @@ deployment.
 
 
 ### OCK037046L
-`kia_stinger_en_77096ac1` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:83
 
 OJF035052
 Safety features of your vehicle
@@ -29244,7 +28493,6 @@ would not provide additional occupant protection.
 
 
 ### OCK037047
-`kia_stinger_en_e485cb17` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:84
 
 OCK037049
 OCK037048
@@ -29276,7 +28524,6 @@ additional occupant protection.
 
 
 ### OYG036079
-`kia_stinger_en_3206f7e1` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:85
 
 OCK037050
 OYG036080
@@ -29290,7 +28537,6 @@ delivered to the sensors.
 
 
 ### SRS Care
-`kia_stinger_en_2a579390` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:86
 
 The SRS is virtually maintenancefree and so there are no parts you can
 safely service by yourself. If the SRS
@@ -29321,7 +28567,6 @@ necessary information. Failure to follow these precautions and procedures could 
 
 
 ### OCK037051L
-`kia_stinger_en_8179e14d` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:86
 
 3 71
 Safety features of your vehicle
@@ -29347,7 +28592,6 @@ inoperative.
 
 
 ### WARNING - Towing Vehicle
-`kia_stinger_en_a2452b81` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:87
 
 Always
 have
@@ -29363,7 +28607,6 @@ in the vehicle.
 
 
 ### OCK037072N
-`kia_stinger_en_3698e90e` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:87
 
 Features of your vehicle
 Smart key . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4-5
@@ -29541,7 +28784,6 @@ details.
 
 
 ### SMART KEY
-`kia_stinger_en_afc3c905` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:92
 
 WARNING - Smart key
 Never leave the keys in your
@@ -29556,7 +28798,6 @@ serious bodily injury or death.
 
 
 ### OCK047005N
-`kia_stinger_en_a6a967fb` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:92
 
 Features of your vehicle
 6
@@ -29597,7 +28838,6 @@ the smart key is within 28~40 in.
 
 
 ### OCK047010
-`kia_stinger_en_ea56cef0` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:93
 
 4 7
 Features of your vehicle
@@ -29710,7 +28950,6 @@ hazard warning lights will blink once.
 
 
 ### OCK047005N
-`kia_stinger_en_80481643` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:95
 
 CAUTION - Transmitter
 Keep the smart key away from
@@ -29820,7 +29059,6 @@ warranty.
 
 
 ### CAUTION - Transmitter
-`kia_stinger_en_a8a08658` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:97
 
 damage
 Do not drop, wet or expose the
@@ -29852,7 +29090,6 @@ discharged.
 
 
 ### OCK047004N
-`kia_stinger_en_49e7d0d1` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:98
 
 OCK047003N
 Features of your vehicle
@@ -29873,7 +29110,6 @@ vehicle use.
 
 
 ### Whenever the ENGINE START/STOP
-`kia_stinger_en_fcb35ece` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:99
 
 button is changed to the ON position,
 the immobilizer system checks and
@@ -29897,7 +29133,6 @@ system
 
 
 ### Change the ENGINE START/STOP
-`kia_stinger_en_99376ff8` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:99
 
 button to the ON position.
 To activate the immobilizer system
@@ -29949,7 +29184,6 @@ may damage your immobilizer.
 
 
 ### CAUTION - Immobilizer
-`kia_stinger_en_e9fca588` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:100
 
 alterations
 Do not change, alter or adjust
@@ -30010,7 +29244,6 @@ unnecessary alarm.
 
 
 ### THEFT-ALARM SYSTEM
-`kia_stinger_en_a8b14f19` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:101
 
 Armed
 stage
@@ -30076,7 +29309,6 @@ Features of your vehicle
 
 
 ### DOOR LOCKS
-`kia_stinger_en_ff3da72b` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:103
 
 Operating door locks from
 outside the vehicle
@@ -30112,7 +29344,6 @@ damage to system components.
 
 
 ### OCK047011
-`kia_stinger_en_53a0d50e` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:103
 
 ■Type A
 ■Type B
@@ -30165,7 +29396,6 @@ open.
 
 
 ### OCK047013L
-`kia_stinger_en_cad38aea` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:104
 
 OCK047012N
 Features of your vehicle
@@ -30208,7 +29438,6 @@ central door lock switch is pressed.
 
 
 ### OCK047014
-`kia_stinger_en_549da675` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:105
 
 OCK047064N
 ■Driver side
@@ -30249,7 +29478,6 @@ accidental opening of the door.
 
 
 ### WARNING - Unattended
-`kia_stinger_en_9f3a5f3b` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:106
 
 children/animals
 Never leave children or animals
@@ -30262,7 +29490,6 @@ escape the vehicle.
 
 
 ### OCK047015
-`kia_stinger_en_2117ba18` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:106
 
 Features of your vehicle
 20
@@ -30277,7 +29504,6 @@ unlocked.
 
 
 ### WARNING - Rear door
-`kia_stinger_en_02369563` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:107
 
 locks
 Use the rear door safety locks
@@ -30308,7 +29534,6 @@ conditions.
 
 
 ### LIFTGATE
-`kia_stinger_en_c7afec2c` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:108
 
 WARNING - Exhaust
 fumes
@@ -30347,7 +29572,6 @@ closing the liftgate. It may damage the liftgate's latch.
 
 
 ### WARNING - Exhaust
-`kia_stinger_en_ae988ce2` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:109
 
 fumes
 If you drive with the liftgate
@@ -30362,7 +29586,6 @@ vehicle.
 
 
 ### OCK047053
-`kia_stinger_en_7bba276d` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:109
 
 CAUTION
 Make certain that you close the
@@ -30373,7 +29596,6 @@ is not closed prior to driving.
 
 
 ### WARNING - Riding in
-`kia_stinger_en_b6abf374` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:109
 
 cargo area
 Occupants should never ride in
@@ -30397,7 +29619,6 @@ others, or damage the vehicle.
 
 
 ### OCK047017L
-`kia_stinger_en_c1decb5e` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:110
 
 OCK047016L
 OCK047018L
@@ -30419,7 +29640,6 @@ one second.
 
 
 ### OCK047057N
-`kia_stinger_en_08d61b3a` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:111
 
 WARNING
 Make sure that there are no people or objects in the path of the
@@ -30431,7 +29651,6 @@ contact with the power liftgate
 
 
 ### OCK047056N
-`kia_stinger_en_4f4b828e` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:111
 
 CAUTION
 Do not close or open the power
@@ -30459,7 +29678,6 @@ liftgate open/close button shortly.
 
 
 ### OCK047062L
-`kia_stinger_en_03fe909a` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:112
 
 OCK047016
 OCK047062L
@@ -30506,7 +29724,6 @@ it again.
 
 
 ### OCK047018
-`kia_stinger_en_26dd72d2` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:113
 
 4 27
 Features of your vehicle
@@ -30546,7 +29763,6 @@ authorized Kia dealer.
 
 
 ### OCK047019L
-`kia_stinger_en_d7103f22` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:114
 
 WARNING
 To prevent serious injury and
@@ -30578,7 +29794,6 @@ doing as follows:
 
 
 ### OCK047020
-`kia_stinger_en_b0be398a` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:115
 
 WARNING
 • For emergencies,
@@ -30602,83 +29817,78 @@ extreme caution, especially
 while the vehicle is in motion.
 
 
-### WARNING
-`kia_stinger_en_bcd7a895` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:115
-
-NEVER allow anyone to occupy
-the liftgate of the vehicle at any
-time. If the liftgate is partially or
-totally latched and the person is
-unable to get out, serious injury
-or death could occur due to lack
-of ventilation, exhaust fumes
-and rapid heat build-up, or
-because of exposure to cold
-weather conditions. The liftgate
-is also a highly dangerous location in the event of a crash
-because it is not a protected
-occupant space but is a part of
-the vehicle’s crush zone.
-4 29
-Features of your vehicle
-• You and your passengers must be
-aware of the location of the
-Emergency
-Liftgate
-Safety
-Release lever in this vehicle and
-how to open the liftgate in case you
-are accidentally locked in the liftgate.
-• Your vehicle should be kept locked
-and the Smart Key should be kept
-out of the reach of children.
-Parents should teach their children
-about the dangers of playing in liftgate.
-• Use the release lever for emergencies only.
+> ⚠️ **Внимание:** 
+> NEVER allow anyone to occupy
+> the liftgate of the vehicle at any
+> time. If the liftgate is partially or
+> totally latched and the person is
+> unable to get out, serious injury
+> or death could occur due to lack
+> of ventilation, exhaust fumes
+> and rapid heat build-up, or
+> because of exposure to cold
+> weather conditions. The liftgate
+> is also a highly dangerous location in the event of a crash
+> because it is not a protected
+> occupant space but is a part of
+> the vehicle’s crush zone.
+> 4 29
+> Features of your vehicle
+> • You and your passengers must be
+> aware of the location of the
+> Emergency
+> Liftgate
+> Safety
+> Release lever in this vehicle and
+> how to open the liftgate in case you
+> are accidentally locked in the liftgate.
+> • Your vehicle should be kept locked
+> and the Smart Key should be kept
+> out of the reach of children.
+> Parents should teach their children
+> about the dangers of playing in liftgate.
+> • Use the release lever for emergencies only.
 
 
-### WARNING
-`kia_stinger_en_f94777f4` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:116
-
-Do not grasp the part supporting the liftgate (gas lifter), as
-this may cause serious injury.
-OCK047054
-Features of your vehicle
-30
-4
-On a vehicle equipped with a smart
-key, the liftgate can be opened with
-no-touch activation using the Smart
-Liftgate system.
-How to use the Smart Liftgate
-The liftgate can be opened with notouch activation satisfying all the
-conditions below.
-• After 15 seconds when all doors
-are closed and locked
-• Positioned in the detecting area for
-more than 3 seconds.
-✽NOTICE
-• The Smart Liftgate does not operate when:
-- The smart key is detected within
-15 seconds after the doors are
-closed and locked, and is continuously detected.
-- The smart key is detected within
-15 seconds after the doors are
-closed and locked, and 60 inches
-(1.5 m) from the front door handles. (for vehicles equipped with
-Welcome Light)
-- A door is not locked or closed.
-- The smart key is in the vehicle.
-1. Setting
-To activate the Smart Liftgate, go to
-User Settings Mode and select
-Smart Liftgate on the LCD display.
-❈ For more details, refer to “LCD
-Display” in this chapter.
+> ⚠️ **Внимание:** 
+> Do not grasp the part supporting the liftgate (gas lifter), as
+> this may cause serious injury.
+> OCK047054
+> Features of your vehicle
+> 30
+> 4
+> On a vehicle equipped with a smart
+> key, the liftgate can be opened with
+> no-touch activation using the Smart
+> Liftgate system.
+> How to use the Smart Liftgate
+> The liftgate can be opened with notouch activation satisfying all the
+> conditions below.
+> • After 15 seconds when all doors
+> are closed and locked
+> • Positioned in the detecting area for
+> more than 3 seconds.
+> ✽NOTICE
+> • The Smart Liftgate does not operate when:
+> - The smart key is detected within
+> 15 seconds after the doors are
+> closed and locked, and is continuously detected.
+> - The smart key is detected within
+> 15 seconds after the doors are
+> closed and locked, and 60 inches
+> (1.5 m) from the front door handles. (for vehicles equipped with
+> Welcome Light)
+> - A door is not locked or closed.
+> - The smart key is in the vehicle.
+> 1. Setting
+> To activate the Smart Liftgate, go to
+> User Settings Mode and select
+> Smart Liftgate on the LCD display.
+> ❈ For more details, refer to “LCD
+> Display” in this chapter.
 
 
 ### SMART LIFTGATE (IF EQUIPPED)
-`kia_stinger_en_8938cacb` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:117
 
 OCK047021
 4 31
@@ -30717,7 +29927,6 @@ inadvertently.
 
 
 ### OCK047022N
-`kia_stinger_en_981e7b49` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:118
 
 OCK047023
 Features of your vehicle
@@ -30768,7 +29977,6 @@ injury.
 
 
 ### OCK047005N
-`kia_stinger_en_9cf94af3` | stinger | pdf_manual | tier:2 | lang:en | layer:infotainment | p:119
 
 4 33
 Features of your vehicle
@@ -30804,7 +30012,6 @@ on a slope or unpaved road, etc.
 
 
 ### OCK047024N
-`kia_stinger_en_c863cccd` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:120
 
 Features of your vehicle
 34
@@ -30827,7 +30034,6 @@ freezing conditions.
 
 
 ### WINDOWS
-`kia_stinger_en_7045175c` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:121
 
 OCK047025N
 ■Front
@@ -30880,7 +30086,6 @@ detent position (5).
 
 
 ### OCK047027
-`kia_stinger_en_c6e658b9` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:122
 
 CAUTION
 Do not install any accessories
@@ -30892,7 +30097,6 @@ described in this chapter.
 
 
 ### WARNING - Power
-`kia_stinger_en_0e99d48a` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:122
 
 Windows
 Do not extend your face or arms
@@ -30939,7 +30143,6 @@ approximately 1 in. (2.5 cm).
 
 
 ### OUN026013
-`kia_stinger_en_5eca11f1` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:123
 
 OCK047026
 4 37
@@ -30969,7 +30172,6 @@ power window.
 
 
 ### OCK047028
-`kia_stinger_en_019c01a0` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:124
 
 WARNING
 Always check for obstructions
@@ -30983,46 +30185,41 @@ not detect the resistance and
 will not stop and reverse direction.
 
 
-### WARNING
-`kia_stinger_en_553bd22d` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:124
-
-The automatic reverse feature
-doesn’t activate while resetting
-power window system. Make
-sure body parts or other objects
-are safely out of the way before
-closing the windows to avoid
-injuries or vehicle damage.
+> ⚠️ **Внимание:** 
+> The automatic reverse feature
+> doesn’t activate while resetting
+> power window system. Make
+> sure body parts or other objects
+> are safely out of the way before
+> closing the windows to avoid
+> injuries or vehicle damage.
 
 
-### WARNING
-`kia_stinger_en_553bd22d` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:124
-
-Automatic reverse feature could
-fail if accessorise like antenna,
-etc are attached on windows
-when opening or closing windows.
-Features of your vehicle
-38
-4
-- The rear passenger's control cannot operate the rear passenger's
-power window.
-Always double check to make sure
-all arms, hands, head and other
-obstructions are safely out of the way
-before closing a window.
-
-CAUTION - Opening /closing Window
-To prevent possible damage to
-the power window system, do
-not open or close two windows
-or more at the same time. This
-will also ensure the longevity of
-the fuse.
+> ⚠️ **Внимание:** 
+> Automatic reverse feature could
+> fail if accessorise like antenna,
+> etc are attached on windows
+> when opening or closing windows.
+> Features of your vehicle
+> 38
+> 4
+> - The rear passenger's control cannot operate the rear passenger's
+> power window.
+> Always double check to make sure
+> all arms, hands, head and other
+> obstructions are safely out of the way
+> before closing a window.
+>
+> CAUTION - Opening /closing Window
+> To prevent possible damage to
+> the power window system, do
+> not open or close two windows
+> or more at the same time. This
+> will also ensure the longevity of
+> the fuse.
 
 
 ### WARNING - Power win-
-`kia_stinger_en_909af1d6` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:125
 
 dows
 Do not allow children to play
@@ -31056,7 +30253,6 @@ open.
 
 
 ### HOOD
-`kia_stinger_en_5a388f4d` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:126
 
 OCK047029
 OCK047030
@@ -31091,7 +30287,6 @@ may cause a heat-induced fire.
 
 
 ### WARNING - Unsecured
-`kia_stinger_en_455f818d` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:127
 
 engine hood
 Always double check to be sure
@@ -31103,7 +30298,6 @@ accident.
 
 
 ### CAUTION - Hood obstruc-
-`kia_stinger_en_2f8a53b1` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:127
 
 tion
 Before closing the hood, ensure
@@ -31156,7 +30350,6 @@ gauge will move to the full position.
 
 
 ### FUEL FILLER LID
-`kia_stinger_en_d2b2a878` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:128
 
 OCK047031L
 OCK047032
@@ -31187,7 +30380,6 @@ due to fire or explosion.
 
 
 ### WARNING - Refueling
-`kia_stinger_en_4c498eb6` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:129
 
 Always remove the fuel cap
 carefully and slowly. If the cap
@@ -31206,7 +30398,6 @@ be damaged.
 
 
 ### OCK047033
-`kia_stinger_en_a98f1d97` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:129
 
 4 43
 Features of your vehicle
@@ -31238,7 +30429,6 @@ gasoline source.
 
 
 ### WARNING - Portable fuel
-`kia_stinger_en_0d2d852f` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:130
 
 container
 When
@@ -31279,7 +30469,6 @@ a fire.
 
 
 ### WARNING - Smoking
-`kia_stinger_en_028c1a14` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:131
 
 DO NOT use matches or a lighter
 and DO NOT SMOKE or leave a lit
@@ -31291,7 +30480,6 @@ ignited, result in fire.
 
 
 ### WARNING - Refueling &
-`kia_stinger_en_a8fd868f` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:131
 
 Vehicle fires
 When refueling, always shut the
@@ -31306,7 +30494,6 @@ before starting the engine.
 
 
 ### CAUTION - Exterior paint
-`kia_stinger_en_e3e9226e` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:131
 
 Do not spill fuel on the exterior
 surfaces of the vehicle. Any
@@ -31356,7 +30543,6 @@ distract the driver.
 
 
 ### OCK047034
-`kia_stinger_en_f9dcf01a` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:132
 
 Features of your vehicle
 46
@@ -31370,70 +30556,63 @@ Close the sunroof securely when
 leaving your vehicle.
 
 
-### WARNING
-`kia_stinger_en_8d13f180` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:133
-
-Do not allow children to operate
-the sunroof. This may result in
-injury to the child.
-WARNING
-Never adjust the sunroof or
-sunshade while driving. This
-could result in loss of control
-and an accident that may cause
-death, serious injury, or property damage.
+> ⚠️ **Внимание:** 
+> Do not allow children to operate
+> the sunroof. This may result in
+> injury to the child.
+> WARNING
+> Never adjust the sunroof or
+> sunshade while driving. This
+> could result in loss of control
+> and an accident that may cause
+> death, serious injury, or property damage.
 
 
-### CAUTION
-`kia_stinger_en_5bde5dfd` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:133
-
-Do not extend any luggage outside the sunroof while driving.
-OCK047124L
-CAUTION
-Make sure the sunroof is fully
-closed when leaving your vehicle. If the sunroof is opened, rain
-or snow may leak through the
-sunroof and wet the interior as
-well as cause theft.
-
-WARNING
-In order to prevent accidental
-operation of the sunroof, especially by a child, do not let a
-child operate the sunroof.
+> ⚠️ **Внимание:** 
+> Do not extend any luggage outside the sunroof while driving.
+> OCK047124L
+> CAUTION
+> Make sure the sunroof is fully
+> closed when leaving your vehicle. If the sunroof is opened, rain
+> or snow may leak through the
+> sunroof and wet the interior as
+> well as cause theft.
+>
+> WARNING
+> In order to prevent accidental
+> operation of the sunroof, especially by a child, do not let a
+> child operate the sunroof.
 
 
-### WARNING
-`kia_stinger_en_8d13f180` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:133
-
-Do not sit on the top of the vehicle. It may cause vehicle damage.
-4 47
-Features of your vehicle
-Sunshade
-To open the sunshade
-Push the sunroof control lever backward to the 1st detent position.
-To close the sunshade when the
-sunroof glass is closed
-Push the sunroof control lever forward to the 1st detent position.
-To stop the sliding at any point, press
-the sunshade control switch momentarily.
-✽NOTICE
-Wrinkles formed on the sunshade as
-material characteristic are normal.
-✽NOTICE
-Only the second glass of the sunroof
-opens and closes.
-Sliding the sunroof
-When the sunshade is closed
-Pull the sunroof control lever backward to the 2nd detent position, both
-the sunshade and sunroof glass will
-slide all the way open. To stop the
-sunroof movement at any point, push
-the sunroof control glass lever
-momentarily.
+> ⚠️ **Внимание:** 
+> Do not sit on the top of the vehicle. It may cause vehicle damage.
+> 4 47
+> Features of your vehicle
+> Sunshade
+> To open the sunshade
+> Push the sunroof control lever backward to the 1st detent position.
+> To close the sunshade when the
+> sunroof glass is closed
+> Push the sunroof control lever forward to the 1st detent position.
+> To stop the sliding at any point, press
+> the sunshade control switch momentarily.
+> ✽NOTICE
+> Wrinkles formed on the sunshade as
+> material characteristic are normal.
+> ✽NOTICE
+> Only the second glass of the sunroof
+> opens and closes.
+> Sliding the sunroof
+> When the sunshade is closed
+> Pull the sunroof control lever backward to the 2nd detent position, both
+> the sunshade and sunroof glass will
+> slide all the way open. To stop the
+> sunroof movement at any point, push
+> the sunroof control glass lever
+> momentarily.
 
 
 ### CAUTION - Automatic
-`kia_stinger_en_e7d63e19` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:134
 
 sunroof shade
 • Do not pull or push the sunshade by hand as such action
@@ -31445,7 +30624,6 @@ of the vehicle system.
 
 
 ### OCK047058L
-`kia_stinger_en_75a11293` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:134
 
 OCK047035
 Features of your vehicle
@@ -31480,7 +30658,6 @@ become trapped or crushed.
 
 
 ### WARNING - Sunroof
-`kia_stinger_en_6843c494` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:135
 
 • Be careful that no head, hands
 and body parts are obstructed
@@ -31535,7 +30712,6 @@ damaged.
 
 
 ### OCK047036
-`kia_stinger_en_bed0b92c` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:136
 
 Features of your vehicle
 50
@@ -31644,7 +30820,6 @@ vehicle checked as soon as possible.
 
 
 ### STEERING WHEEL
-`kia_stinger_en_3f2d28a2` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:138
 
 Features of your vehicle
 52
@@ -31692,7 +30867,6 @@ steering control.
 
 
 ### OCK047037N
-`kia_stinger_en_59b61948` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:139
 
 4 53
 Features of your vehicle
@@ -31724,7 +30898,6 @@ indicator on the button will turn off.
 
 
 ### OCK047038N
-`kia_stinger_en_898a2df9` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:140
 
 OCK047039N
 Features of your vehicle
@@ -31747,35 +30920,32 @@ your steering wheel (see illustration). The horn will operate only
 when this area is pressed.
 
 
-### CAUTION
-`kia_stinger_en_cf083d56` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:141
-
-• Do not install any type of grip
-cover for the steering wheel, it
-may impair the function of the
-heated steering wheel system.
-• When cleaning the heated
-steering wheel, do not use an
-organic solvent such as paint
-thinner, benzene, alcohol and
-gasoline. Doing so may damage the surface of the steering
-wheel.
-• If the surface of steering
-wheel is damaged by sharp
-object, damage to the heated
-steering wheel components
-could occur.
-
-WARNING
-If the steering wheel becomes
-too warm, turn the system off.
-The heated steering wheel may
-cause burns even at low temperatures, especially if used for
-long periods of time.
+> ⚠️ **Внимание:** 
+> • Do not install any type of grip
+> cover for the steering wheel, it
+> may impair the function of the
+> heated steering wheel system.
+> • When cleaning the heated
+> steering wheel, do not use an
+> organic solvent such as paint
+> thinner, benzene, alcohol and
+> gasoline. Doing so may damage the surface of the steering
+> wheel.
+> • If the surface of steering
+> wheel is damaged by sharp
+> object, damage to the heated
+> steering wheel components
+> could occur.
+>
+> WARNING
+> If the steering wheel becomes
+> too warm, turn the system off.
+> The heated steering wheel may
+> cause burns even at low temperatures, especially if used for
+> long periods of time.
 
 
 ### OCK047052L
-`kia_stinger_en_ed6367aa` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:141
 
 4 55
 Features of your vehicle
@@ -31827,20 +30997,17 @@ accident or deployment of the
 air bag.
 
 
-### CAUTION
-`kia_stinger_en_e7aaaedc` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:142
-
-When cleaning the mirror, use a
-paper towel or similar material
-dampened with glass cleaner.
-Do not spray glass cleaner
-directly on the mirror. It may
-cause the liquid cleaner to enter
-the mirror housing.
+> ⚠️ **Внимание:** 
+> When cleaning the mirror, use a
+> paper towel or similar material
+> dampened with glass cleaner.
+> Do not spray glass cleaner
+> directly on the mirror. It may
+> cause the liquid cleaner to enter
+> the mirror housing.
 
 
 ### OCK047059L
-`kia_stinger_en_924abb40` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:142
 
 Features of your vehicle
 56
@@ -31887,7 +31054,6 @@ trademark of Gentex Corporation.
 
 
 ### OJFA045335
-`kia_stinger_en_91e318c7` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:143
 
 CAUTION
 The NVS® Mirror automatically
@@ -31971,7 +31137,6 @@ will set the new Zone.
 
 
 ### B520C05NF
-`kia_stinger_en_aa629f28` | stinger | pdf_manual | tier:2 | lang:en | layer:infotainment | p:145
 
 4 59
 Features of your vehicle
@@ -32226,7 +31391,6 @@ Programming sections above.
 
 
 ### FCC ID: NZLZTVHL3
-`kia_stinger_en_6ead6922` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:150
 
 IC: 4112A-ZTVHL3
 Pursuant to Code of Federal
@@ -32302,7 +31466,6 @@ in loss of control.
 
 
 ### CAUTION - Rearview
-`kia_stinger_en_6cb3cbc7` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:151
 
 mirror
 Do not scrape ice off the mirror
@@ -32314,7 +31477,6 @@ cloth with very warm water.
 
 
 ### OCK047043
-`kia_stinger_en_57a5e1c6` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:151
 
 4 65
 Features of your vehicle
@@ -32346,7 +31508,6 @@ mirror switch is placed in the middle.
 
 
 ### CAUTION - Outside mirror
-`kia_stinger_en_f47f8f5e` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:152
 
 • The mirrors stop moving when
 they reach the maximum
@@ -32364,7 +31525,6 @@ the parts.
 
 
 ### OCK047045N
-`kia_stinger_en_f81e9a7c` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:152
 
 Features of your vehicle
 66
@@ -32391,7 +31551,6 @@ key in possession.
 
 
 ### OCK047044L
-`kia_stinger_en_c1d95fa4` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:153
 
 CAUTION - Electric type
 outside rearview mirror
@@ -32418,7 +31577,6 @@ INSTRUMENT CLUSTER
 
 
 ### OCK047100N/OCK047101N
-`kia_stinger_en_3bf9f1ee` | stinger | pdf_manual | tier:2 | lang:en | layer:interior | p:154
 
 ■Type A
 ❈The actual cluster in the vehicle may differ
@@ -32451,7 +31609,6 @@ on the steering wheel.
 
 
 ### OCK047047L
-`kia_stinger_en_c246eeb9` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:155
 
 OCK047138L
 OCK047048L
@@ -32495,7 +31652,6 @@ damage.
 
 
 ### OCK047102N
-`kia_stinger_en_e97374ff` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:156
 
 OCK047469N
 ■ Type B
@@ -32531,7 +31687,6 @@ movement of fuel in the tank.
 
 
 ### OCK047105
-`kia_stinger_en_e81b7f80` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:157
 
 WARNING - Hot radiator
 Never remove the radiator cap
@@ -32543,7 +31698,6 @@ the reservoir.
 
 
 ### OCK047106
-`kia_stinger_en_8f532dff` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:157
 
 4 71
 Features of your vehicle
@@ -32577,7 +31731,6 @@ converter.
 
 
 ### OCK047118N
-`kia_stinger_en_df385582` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:158
 
 OCK047119N
 ■ Type B
@@ -32613,7 +31766,6 @@ This indicator displays which automatic transaxle shift lever is selected.
 
 
 ### OCK047128
-`kia_stinger_en_d9fcb778` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:159
 
 OYG046121
 ■ Type B
@@ -32636,7 +31788,6 @@ battery is disconnected.
 
 
 ### LCD WINDOWS (IF EQUIPPED)
-`kia_stinger_en_d8d1c40a` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:160
 
 OCK067036N
 OCK067037N
@@ -32676,7 +31827,6 @@ Drive Info
 
 
 ### TRIP
-`kia_stinger_en_6fcf0159` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:161
 
 Drive Mode
 4 75
@@ -32713,7 +31863,6 @@ more than 4.9 mph (8 km/h).
 
 
 ### CAUTION - Low Fuel
-`kia_stinger_en_b0413225` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:162
 
 Level
 Level warning light on or with
@@ -32768,7 +31917,6 @@ selected drive mode.
 
 
 ### LCD Modes
-`kia_stinger_en_543e596b` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:164
 
 (1) SPORT mode (if equipped)
 This mode displays Gauge, Lap
@@ -32781,7 +31929,6 @@ Computer” in this chapter.
 
 
 ### OYG048156N
-`kia_stinger_en_ec722580` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:164
 
 OCK047145L
 OCK047466N
@@ -32813,7 +31960,6 @@ Timer, G-Force.
 
 
 ### OCK047129N
-`kia_stinger_en_e4640cac` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:165
 
 OCK047130L
 OCK047131L
@@ -32837,7 +31983,6 @@ and Lane Keeping Assist (LKA).
 
 
 ### OCK047465N
-`kia_stinger_en_a83fdc72` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:166
 
 OCK047115N
 OCK047146L
@@ -32884,7 +32029,6 @@ Service Required Setting values.
 
 
 ### OCK047117N
-`kia_stinger_en_c9796b35` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:167
 
 4 81
 Features of your vehicle
@@ -32927,7 +32071,6 @@ driven with the remaining fuel.
 
 
 ### OCK047143N
-`kia_stinger_en_a0205d16` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:168
 
 OCK047156N
 ■ Type B
@@ -32975,7 +32118,6 @@ severe personal injury or accidents.
 
 
 ### OCK047142L
-`kia_stinger_en_aa0476a5` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:169
 
 4 83
 Features of your vehicle
@@ -33290,7 +32432,6 @@ Button while the warning message
 
 
 ### Check BRAKE SWITCH fuse
-`kia_stinger_en_18a71995` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:175
 
 • This warning message illuminates
 if the brake switch fuse is disconnected.
@@ -33345,7 +32486,6 @@ once for each ignition cycle.
 
 
 ### OCK047124L
-`kia_stinger_en_3f173840` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:176
 
 OCK047123L
 OCK047152N
@@ -33379,7 +32519,6 @@ washer fluid.
 
 
 ### Turn on FUSE SWITCH
-`kia_stinger_en_6cad198f` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:177
 
 • This warning message illuminates
 if the fuse switch under the steering wheel is OFF.
@@ -33450,7 +32589,6 @@ Belts” in chapter 3.
 
 
 ### WARNING AND INDICATOR LIGHTS
-`kia_stinger_en_84d4133f` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:179
 
 4 93
 Features of your vehicle
@@ -33531,7 +32669,6 @@ dealer.
 
 
 ### WARNING - Electronic
-`kia_stinger_en_b4ff3d7a` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:181
 
 Brake force Distribution
 (EBD) System Warning Light
@@ -33577,7 +32714,6 @@ Malfunction Indicator
 
 
 ### Lamp (MIL)
-`kia_stinger_en_16418b8e` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:182
 
 This warning light illuminates:
 • Once you set the Engine Start/Stop
@@ -33625,20 +32761,17 @@ started.
 low.
 
 
-### CAUTION
-`kia_stinger_en_6ae642ef` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:183
-
-If the Malfunction Indicator
-Lamp (MIL) illuminates, potential catalytic converter damage
-is possible which could result in
-loss of engine power.
-In this case, have the vehicle
-inspected by an authorized Kia
-dealer.
+> ⚠️ **Внимание:** 
+> If the Malfunction Indicator
+> Lamp (MIL) illuminates, potential catalytic converter damage
+> is possible which could result in
+> loss of engine power.
+> In this case, have the vehicle
+> inspected by an authorized Kia
+> dealer.
 
 
 ### CAUTION - Malfunction
-`kia_stinger_en_e26d0b89` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:183
 
 Indicator Lamp (MIL)
 Driving with the Malfunction
@@ -33669,7 +32802,6 @@ Add fuel as soon as possible.
 
 
 ### CAUTION - Engine
-`kia_stinger_en_42a72872` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:184
 
 Overheating
 Do not continue driving with the
@@ -33686,7 +32818,6 @@ engine damage may result.
 
 
 ### CAUTION - Low Fuel
-`kia_stinger_en_03dd85b3` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:184
 
 Level
 Driving with the Low Fuel Level
@@ -33754,7 +32885,6 @@ blinking can reduce LED headlamp
 
 
 ### WARNING - Low tire
-`kia_stinger_en_59a806c9` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:185
 
 pressure
 • Significantly low tire pressure
@@ -33856,7 +32986,6 @@ Electronic Stability
 
 
 ### Control (ESC) OFF
-`kia_stinger_en_90dc3b21` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:188
 
 Indicator Light
 (if equipped)
@@ -33974,7 +33103,6 @@ beam assist” in chapter 4.
 
 
 ### AUTO HOLD Indicator
-`kia_stinger_en_a7bd82a9` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:190
 
 Light (if equipped)
 This indicator light illuminates:
@@ -33993,7 +33121,6 @@ Hold” in chapter 5.
 
 
 ### AUTO
-`kia_stinger_en_9c0e40ad` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:190
 
 HOLD
 Features of your vehicle
@@ -34055,7 +33182,6 @@ be displayed on the windshield glass.
 
 
 ### HEAD UP DISPLAY (HUD) (IF EQUIPPED)
-`kia_stinger_en_f3d09aab` | stinger | pdf_manual | tier:2 | lang:en | layer:infotainment | p:192
 
 OCK047467N
 WARNING - Head up
@@ -34070,7 +33196,6 @@ Features of your vehicle
 
 
 ### Head Up Display ON/OFF
-`kia_stinger_en_6264b946` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:193
 
 The HUD display will be activated or
 deactivated in user setting mode
@@ -34101,7 +33226,6 @@ window” in this chapter.
 
 
 ### OCK047151L
-`kia_stinger_en_8375a7a3` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:193
 
 OYG046158N
 4 107
@@ -34135,7 +33259,6 @@ above 12.4 mph (20 km/h).
 
 
 ### PARKING ASSIST SYSTEM (IF EQUIPPED)
-`kia_stinger_en_db070c13` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:194
 
 WARNING
 The parking assist system is a
@@ -34151,7 +33274,6 @@ parking.
 
 
 ### OCK047400L
-`kia_stinger_en_b07390f0` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:194
 
 OCK047401L
 ■Rear
@@ -34384,7 +33506,6 @@ operate normally.
 
 
 ### REARVIEW CAMERA
-`kia_stinger_en_f207598d` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:199
 
 OCK047403L
 OCK047406L
@@ -34436,7 +33557,6 @@ checked by an authorized Kia dealer.
 
 
 ### SURROUND VIEW MONITORING SYSTEM (SVM) (IF EQUIPPED)
-`kia_stinger_en_baaa373b` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:200
 
 OCK047405
 OCK047406
@@ -34492,7 +33612,6 @@ the following positions:
 
 
 ### LIGHTING
-`kia_stinger_en_bad64938` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:201
 
 OCK047409N
 4 115
@@ -34519,7 +33638,6 @@ ON.
 
 
 ### OCK047411N
-`kia_stinger_en_be3e4c96` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:202
 
 OCK047412N
 OCK047410N
@@ -34545,7 +33663,6 @@ other driver’s vision.
 
 
 ### OCK047414N
-`kia_stinger_en_f68cb390` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:203
 
 CAUTION
 • Never place anything over the
@@ -34602,7 +33719,6 @@ beam will be on continuously.
 
 
 ### OCK047413N
-`kia_stinger_en_9ed2e4a8` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:204
 
 OCK047416N
 Features of your vehicle
@@ -34711,7 +33827,6 @@ out or have a poor electrical connection in the circuit.
 
 
 ### OCK047415N
-`kia_stinger_en_70a032dc` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:206
 
 Features of your vehicle
 120
@@ -34766,7 +33881,6 @@ the wiring yourself.
 
 
 ### OJFA055274
-`kia_stinger_en_c043163a` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:207
 
 4 121
 Features of your vehicle
@@ -34793,7 +33907,6 @@ possible.
 
 
 ### OCK047412N
-`kia_stinger_en_a693b1d7` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:208
 
 Features of your vehicle
 122
@@ -34834,7 +33947,6 @@ wipers to ensure proper operation.
 
 
 ### WIPERS AND WASHERS
-`kia_stinger_en_548e2c52` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:209
 
 Windshield wiper/washer
 OCK047417L
@@ -34858,7 +33970,6 @@ the wiper is not in use.
 
 
 ### OCK047458N
-`kia_stinger_en_1ec6f4d2` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:210
 
 CAUTION
 When the ignition switch is ON
@@ -34876,74 +33987,71 @@ damp or wet cloth.
 windshield glass.
 
 
-### CAUTION
-`kia_stinger_en_ff097814` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:210
-
-• When washing the vehicle, set
-the wiper switch in the OFF
-(O) position to stop the auto
-wiper operation.
-The wiper may operate and be
-damaged if the switch is set in
-the AUTO mode while washing
-the vehicle.
-• Do not remove the sensor
-cover located on the upper
-end of the passenger side
-windshield glass. Damage to
-system parts could occur and
-may not be covered by your
-vehicle warranty.
-• When starting the vehicle in
-winter, set the wiper switch in
-the
-OFF
-(O)
-position.
-Otherwise, wipers may operate and ice may damage the
-windshield
-wiper
-blades.
-Always remove all snow and
-ice and defrost the windshield
-properly prior to operating the
-windshield wipers.
-(Continued)
-Features of your vehicle
-124
-4
-Front windshield washers
-In the OFF position, pull the lever
-gently toward you to spray washer
-fluid on the windshield and to run the
-wipers 1-3 cycles.
-Use this function when the windshield is dirty.
-The spray and wiper operation will
-continue until you release the lever.
-If the washer does not work, check
-the washer fluid level. If the fluid level
-is not sufficient, you will need to add
-appropriate non-abrasive windshield
-washer fluid to the washer reservoir.
-The reservoir filler neck is located in
-the front of the engine compartment
-on the passenger side.
-(Continued)
-• When tinting the windshield,
-be careful of any fluid getting
-into the sensor located in the
-top center of the front windshield. It may damage the
-related parts.
-
-OCK047419
-CAUTION - Washer pump
-To prevent possible damage to
-the washer pump, do not operate the washer when the fluid
-reservoir is empty.
+> ⚠️ **Внимание:** 
+> • When washing the vehicle, set
+> the wiper switch in the OFF
+> (O) position to stop the auto
+> wiper operation.
+> The wiper may operate and be
+> damaged if the switch is set in
+> the AUTO mode while washing
+> the vehicle.
+> • Do not remove the sensor
+> cover located on the upper
+> end of the passenger side
+> windshield glass. Damage to
+> system parts could occur and
+> may not be covered by your
+> vehicle warranty.
+> • When starting the vehicle in
+> winter, set the wiper switch in
+> the
+> OFF
+> (O)
+> position.
+> Otherwise, wipers may operate and ice may damage the
+> windshield
+> wiper
+> blades.
+> Always remove all snow and
+> ice and defrost the windshield
+> properly prior to operating the
+> windshield wipers.
+> (Continued)
+> Features of your vehicle
+> 124
+> 4
+> Front windshield washers
+> In the OFF position, pull the lever
+> gently toward you to spray washer
+> fluid on the windshield and to run the
+> wipers 1-3 cycles.
+> Use this function when the windshield is dirty.
+> The spray and wiper operation will
+> continue until you release the lever.
+> If the washer does not work, check
+> the washer fluid level. If the fluid level
+> is not sufficient, you will need to add
+> appropriate non-abrasive windshield
+> washer fluid to the washer reservoir.
+> The reservoir filler neck is located in
+> the front of the engine compartment
+> on the passenger side.
+> (Continued)
+> • When tinting the windshield,
+> be careful of any fluid getting
+> into the sensor located in the
+> top center of the front windshield. It may damage the
+> related parts.
+>
+> OCK047419
+> CAUTION - Washer pump
+> To prevent possible damage to
+> the washer pump, do not operate the washer when the fluid
+> reservoir is empty.
 
 
 ### WARNING - Obscured
-`kia_stinger_en_d72a76b4` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:211
 
 visibility
 Do not use the washer in freezing temperatures without first
@@ -34954,7 +34062,6 @@ Features of your vehicle
 
 
 ### CAUTION - Wipers &
-`kia_stinger_en_1df09d0f` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:212
 
 windshields
 • To prevent possible damage
@@ -35005,7 +34112,6 @@ obscured by interior lights.
 
 
 ### OCK047421
-`kia_stinger_en_3fa0f0fd` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:213
 
 4 127
 Features of your vehicle
@@ -35041,7 +34147,6 @@ the DOOR button (2) once again
 
 
 ### The DOOR mode and ROOM mode
-`kia_stinger_en_8cc78036` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:214
 
 can not be selected at the same time.
 Front Room Lamp:
@@ -35059,7 +34164,6 @@ off.
 
 
 ### OCK047420
-`kia_stinger_en_c3ca8fad` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:214
 
 OCK047055
 ■ Type B
@@ -35096,7 +34200,6 @@ or damage the sunvisor.
 
 
 ### OCK047422
-`kia_stinger_en_0f0b54b8` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:215
 
 OCK047425
 OCK047424
@@ -35110,7 +34213,6 @@ serves as a warning to passing vehicles that the vehicle door is open.
 
 
 ### OCK047423
-`kia_stinger_en_6ec4490a` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:216
 
 Features of your vehicle
 130
@@ -35193,7 +34295,6 @@ abrasives to clean the window.
 
 
 ### OCK047306
-`kia_stinger_en_1fd96bf0` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:218
 
 Features of your vehicle
 132
@@ -35217,45 +34318,42 @@ OCK047300/OCK047322
 ■Front seat
 
 
-### CAUTION
-`kia_stinger_en_fdb1554a` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:219
-
-Operating the blower when the
-ignition switch is in the ON position could cause the battery to
-discharge. Operate the blower
-when the engine is running.
-4 133
-Features of your vehicle
-Automatic heating and air conditioning
-1. Press the AUTO button. The
-modes, fan speeds, air intake and
-air-conditioning will be controlled
-automatically by setting the temperature.
-2. Turn the temperature control knob
-to the desired temperature.
-✽NOTICE
-• To turn the automatic operation
-off, select any button or switch of
-the following:
-- Mode selection button
-- Air conditioning button
-- Front windshield defroster button
-(Press the button one more time
-to deselect the front windshield
-defroster function. The ‘AUTO’
-sign will illuminate on the information display once again.)
-- Air intake control button
-- Fan speed control switch
-The selected function will be controlled manually while other functions operate automatically.
-• For your convenience and to
-improve the effectiveness of the
-climate control, use the AUTO
-button and set the temperature to
-73°F (23°C).
+> ⚠️ **Внимание:** 
+> Operating the blower when the
+> ignition switch is in the ON position could cause the battery to
+> discharge. Operate the blower
+> when the engine is running.
+> 4 133
+> Features of your vehicle
+> Automatic heating and air conditioning
+> 1. Press the AUTO button. The
+> modes, fan speeds, air intake and
+> air-conditioning will be controlled
+> automatically by setting the temperature.
+> 2. Turn the temperature control knob
+> to the desired temperature.
+> ✽NOTICE
+> • To turn the automatic operation
+> off, select any button or switch of
+> the following:
+> - Mode selection button
+> - Air conditioning button
+> - Front windshield defroster button
+> (Press the button one more time
+> to deselect the front windshield
+> defroster function. The ‘AUTO’
+> sign will illuminate on the information display once again.)
+> - Air intake control button
+> - Fan speed control switch
+> The selected function will be controlled manually while other functions operate automatically.
+> • For your convenience and to
+> improve the effectiveness of the
+> climate control, use the AUTO
+> button and set the temperature to
+> 73°F (23°C).
 
 
 ### OCK047307
-`kia_stinger_en_540d8912` | stinger | pdf_manual | tier:2 | lang:en | layer:interior | p:220
 
 ■Driver’s side
 ■Passenger’s side
@@ -35271,7 +34369,6 @@ and cooling system.
 
 
 ### OCK047427L
-`kia_stinger_en_4ec18b9e` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:221
 
 4 135
 Features of your vehicle
@@ -35304,7 +34401,6 @@ Mode selection
 
 
 ### OCK047309N
-`kia_stinger_en_45010246` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:222
 
 Features of your vehicle
 136
@@ -35336,7 +34432,6 @@ defrosters.
 
 
 ### OCK047308
-`kia_stinger_en_3febd6e1` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:223
 
 4 137
 Features of your vehicle
@@ -35358,7 +34453,6 @@ the extreme right.
 
 
 ### OCK047310
-`kia_stinger_en_d0f8c2df` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:224
 
 OCK047321
 OCK047311
@@ -35414,7 +34508,6 @@ display will reset to Fahrenheit.
 
 
 ### OCK047312
-`kia_stinger_en_0b2bee6a` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:225
 
 4 139
 Features of your vehicle
@@ -35452,7 +34545,6 @@ position selected will result in excessively dry air in the passenger compartmen
 
 
 ### OCK047313
-`kia_stinger_en_fe9ff734` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:226
 
 Features of your vehicle
 140
@@ -35488,7 +34580,6 @@ conditioning system off.
 
 
 ### OCK047315
-`kia_stinger_en_54b85608` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:227
 
 WARNING - Reduced
 Visibility
@@ -35500,7 +34591,6 @@ and obscure visibility.
 
 
 ### OCK047314
-`kia_stinger_en_b530d385` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:227
 
 4 141
 Features of your vehicle
@@ -35518,7 +34608,6 @@ information on the screen.
 
 
 ### OCK047317
-`kia_stinger_en_69dcfcf9` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:228
 
 WARNING - Recirculated
 Air
@@ -35541,7 +34630,6 @@ temperature.
 
 
 ### OCK047316
-`kia_stinger_en_e878b0b7` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:228
 
 Features of your vehicle
 142
@@ -35652,7 +34740,6 @@ system operation characteristic.
 
 
 ### CAUTION - Excessive A/C
-`kia_stinger_en_0b4499ea` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:230
 
 Use
 When using the air conditioning
@@ -35704,7 +34791,6 @@ an authorized Kia dealer.
 
 
 ### 1LDA5047
-`kia_stinger_en_8125f780` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:231
 
 Outside air
 Recirculated
@@ -35732,30 +34818,25 @@ on the location of air conditioning
 refrigerant label.
 
 
-### WARNING
-`kia_stinger_en_ba96dff7` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:232
-
-The oil and refrigerant in your
-vehicle's air conditioning system is under very high pressure. If proper service procedures are not followed an explosion may result. To reduce the
-risk of serious injury or death,
-the air conditioning system in
-your vehicle should only be
-serviced by trained and certified technicians.
+> ⚠️ **Внимание:** 
+> The oil and refrigerant in your
+> vehicle's air conditioning system is under very high pressure. If proper service procedures are not followed an explosion may result. To reduce the
+> risk of serious injury or death,
+> the air conditioning system in
+> your vehicle should only be
+> serviced by trained and certified technicians.
 
 
-### CAUTION
-`kia_stinger_en_deb9ff0d` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:232
-
-It is important that the correct
-type and amount of oil and refrigerant is used, otherwise damage
-to the vehicle may occur. To prevent damage, the air conditioning
-system in your vehicle should
-only be serviced by trained and
-certified technicians.
+> ⚠️ **Внимание:** 
+> It is important that the correct
+> type and amount of oil and refrigerant is used, otherwise damage
+> to the vehicle may occur. To prevent damage, the air conditioning
+> system in your vehicle should
+> only be serviced by trained and
+> certified technicians.
 
 
 ### OUM066035L
-`kia_stinger_en_01fd4945` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:232
 
 ■Example
 Features of your vehicle
@@ -35791,7 +34872,6 @@ temperature.
 
 
 ### WINDSHIELD DEFROSTING AND DEFOGGING
-`kia_stinger_en_4c117e9b` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:233
 
 WARNING - Windshield
 heating
@@ -35810,7 +34890,6 @@ lower speed.
 
 
 ### OCK047318
-`kia_stinger_en_ffc4b6ad` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:233
 
 4 147
 Features of your vehicle
@@ -35842,7 +34921,6 @@ defogging logic, do the following.
 
 
 ### OCK047319
-`kia_stinger_en_26293231` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:234
 
 Features of your vehicle
 148
@@ -35896,7 +34974,6 @@ the windshield
 
 
 ### OCK047320
-`kia_stinger_en_ac1e29da` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:235
 
 OCK047428L
 4 149
@@ -35963,7 +35040,6 @@ starts to operate, the message,
 
 
 ### VENTILATION
-`kia_stinger_en_2c7e4588` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:236
 
 ON”
 appears for 5 seconds.
@@ -35984,7 +35060,6 @@ Features of your vehicle
 
 
 ### STORAGE COMPARTMENTS
-`kia_stinger_en_1bf33488` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:237
 
 These compartments can be used to
 store small items required by the
@@ -36010,7 +35085,6 @@ use.
 
 
 ### WARNING - Flammable
-`kia_stinger_en_55d34943` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:237
 
 materials
 Do not store, propane cylinders
@@ -36027,7 +35101,6 @@ extended periods.
 
 
 ### OCK047430
-`kia_stinger_en_36b31e44` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:237
 
 OCK047429
 4 151
@@ -36051,7 +35124,6 @@ while driving.
 
 
 ### WARNING - Sunglass
-`kia_stinger_en_e54336a7` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:238
 
 holder
 Do not keep objects except sunglasses inside the sunglass
@@ -36071,7 +35143,6 @@ placed in the cup holders.
 
 
 ### INTERIOR FEATURES
-`kia_stinger_en_25e642cd` | stinger | pdf_manual | tier:2 | lang:en | layer:interior | p:239
 
 WARNING - Hot liquids
 Do not place uncovered cups
@@ -36084,7 +35155,6 @@ control of the vehicle.
 
 
 ### OCK047432N
-`kia_stinger_en_346c7f14` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:239
 
 ■Front seat
 ■Rear seat
@@ -36096,30 +35166,27 @@ drink. If liquid spills, it may get
 into the vehicle's electrical/electronic system and damage electrical/electronic parts.
 
 
-### CAUTION
-`kia_stinger_en_7e59426b` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:239
-
-When cleaning spilled liquids,
-do not use heat to dry the cup
-holders. This may damage the
-cup holder.
-4 153
-Features of your vehicle
-Seat warmer (if equipped)
-Temperature control (Manual)
-• Each time you push up or press
-the switch, the temperature setting
-of the seat will change as follows :
-■ Front seat
-■ Rear seat
-• The seat warmer defaults to the
-OFF position whenever the ignition
-switch is turned on.
-▼
+> ⚠️ **Внимание:** 
+> When cleaning spilled liquids,
+> do not use heat to dry the cup
+> holders. This may damage the
+> cup holder.
+> 4 153
+> Features of your vehicle
+> Seat warmer (if equipped)
+> Temperature control (Manual)
+> • Each time you push up or press
+> the switch, the temperature setting
+> of the seat will change as follows :
+> ■ Front seat
+> ■ Rear seat
+> • The seat warmer defaults to the
+> OFF position whenever the ignition
+> switch is turned on.
+> ▼
 
 
 ### OFF→HIGH(
-`kia_stinger_en_6b441b47` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:240
 
 )→MIDDLE(
 )→LOW(
@@ -36180,7 +35247,6 @@ cushion, push down the switch
 
 
 ### WARNING - Seat warmer
-`kia_stinger_en_53ea5e64` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:241
 
 burns
 The seat warmer may cause
@@ -36204,7 +35270,6 @@ cold tablets, etc.)
 
 
 ### OFF→HIGH(
-`kia_stinger_en_6a9c03b4` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:241
 
 )→MIDDLE(
 )→LOW(
@@ -36249,7 +35314,6 @@ possible sunvisor damage.
 
 
 ### CAUTION - Seat damage
-`kia_stinger_en_5a732957` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:242
 
 • When cleaning the seats, do
 not use an organic solvent
@@ -36269,7 +35333,6 @@ seat, dry the seat completely.
 
 
 ### OCK047434
-`kia_stinger_en_2d8c222e` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:242
 
 Features of your vehicle
 156
@@ -36316,7 +35379,6 @@ electric shock.
 
 
 ### OCK047435N
-`kia_stinger_en_13eaa62f` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:243
 
 OCK047436
 ■Type A
@@ -36358,7 +35420,6 @@ upper portion of hanger.
 
 
 ### OCK047441
-`kia_stinger_en_6273b57b` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:244
 
 ■Type A
 ■Type B
@@ -36375,25 +35436,22 @@ the floor mat anchor(s) in your vehicle. This keeps the floor mat from
 sliding forward.
 
 
-### WARNING
-`kia_stinger_en_d939ad0d` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:245
-
-Do not hang other objects such
-as hangers or hard objects
-except clothes. Also, do not put
-heavy,
-sharp
-or
-breakable
-objects in the clothe pockets. In
-an accident or when the curtain
-air bag is inflated, it may cause
-vehicle damage or personal
-injury.
+> ⚠️ **Внимание:** 
+> Do not hang other objects such
+> as hangers or hard objects
+> except clothes. Also, do not put
+> heavy,
+> sharp
+> or
+> breakable
+> objects in the clothe pockets. In
+> an accident or when the curtain
+> air bag is inflated, it may cause
+> vehicle damage or personal
+> injury.
 
 
 ### OPS046500
-`kia_stinger_en_1d3f003a` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:245
 
 CAUTION - Hanging
 clothing
@@ -36429,18 +35487,15 @@ located in the cargo area to attach
 the luggage net.
 
 
-### WARNING
-`kia_stinger_en_7b34f543` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:246
-
-To avoid eye injury, DO NOT
-overstretch the luggage net.
-ALWAYS keep your face and
-body out of the luggage net’s
-recoil path. DO NOT use the luggage net when the strap has visible signs of wear or damage.
+> ⚠️ **Внимание:** 
+> To avoid eye injury, DO NOT
+> overstretch the luggage net.
+> ALWAYS keep your face and
+> body out of the luggage net’s
+> recoil path. DO NOT use the luggage net when the strap has visible signs of wear or damage.
 
 
 ### OCK047443
-`kia_stinger_en_b4338a16` | stinger | pdf_manual | tier:2 | lang:en | layer:infotainment | p:246
 
 CAUTION
 To prevent damage to the goods
@@ -36468,7 +35523,6 @@ transmit data.
 
 
 ### AUDIO SYSTEM
-`kia_stinger_en_5f80ebbd` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:247
 
 OCK047444
 CAUTION
@@ -36504,7 +35558,6 @@ Features of your vehicle
 
 
 ### AUX, USB port
-`kia_stinger_en_a9727481` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:248
 
 You can use an AUX port to connect
 audio devices and an USB port to
@@ -36519,7 +35572,6 @@ portable audio device.
 
 
 ### WARNING - Distracted
-`kia_stinger_en_2e8d5fe2` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:248
 
 driving
 Driving while distracted can
@@ -36537,7 +35589,6 @@ of the vehicle.
 
 
 ### OCK047446N
-`kia_stinger_en_fb0d2529` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:248
 
 Features of your vehicle
 162
@@ -36691,7 +35742,6 @@ possible by an authorized Kia dealer.
 
 
 ### WARNING - Engine
-`kia_stinger_en_25f7040f` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:254
 
 exhaust
 Do not inhale exhaust fumes or
@@ -36705,7 +35755,6 @@ asphyxiation.
 
 
 ### WARNING - Open liftgate
-`kia_stinger_en_5df35e0e` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:254
 
 Do not drive with the liftgate
 open. Poisonous exhaust gases
@@ -36720,7 +35769,6 @@ fan at the highest speed.
 
 
 ### CALIFORNIA PROPO-
-`kia_stinger_en_e94913ac` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:254
 
 SITION 65 WARNING
 Engine exhaust and a wide variety of automobile components
@@ -36769,7 +35817,6 @@ equipment.
 
 
 ### BEFORE DRIVING
-`kia_stinger_en_7ca45976` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:255
 
 WARNING - Distracted
 driving
@@ -36803,7 +35850,6 @@ and cause fire.
 
 
 ### WARNING - Loose
-`kia_stinger_en_475f8ba6` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:256
 
 objects
 Securely store items in your
@@ -36815,7 +35861,6 @@ causing an accident.
 
 
 ### WARNING - Driving while
-`kia_stinger_en_839f7e0d` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:256
 
 intoxicated
 Do not drive while intoxicated.
@@ -36866,7 +35911,6 @@ of the cluster.
 
 
 ### ENGINE START/STOP BUTTON
-`kia_stinger_en_9bb40656` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:257
 
 OCK057001
 OCK057163
@@ -36886,7 +35930,6 @@ engine is not running.
 
 
 ### START/RUN
-`kia_stinger_en_39f120cd` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:258
 
 To start the engine, depress the
 brake pedal and press the ENGINE
@@ -36909,7 +35952,6 @@ will discharge.
 
 
 ### WARNING - Starting
-`kia_stinger_en_3b754fde` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:258
 
 vehicle
 Never
@@ -36960,7 +36002,6 @@ the smart key with you.
 
 
 ### WARNING - Unintended
-`kia_stinger_en_75d77db9` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:259
 
 vehicle movement
 Never leave the smart key in the
@@ -37002,7 +36043,6 @@ pedal before starting the engine.
 
 
 ### Do not press the ENGINE START/
-`kia_stinger_en_9525f68e` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:260
 
 STOP button for more than 10 seconds except when the stop lamp fuse
 is blown.
@@ -37030,7 +36070,6 @@ a forward or reverse gear.
 
 
 ### AUTOMATIC TRANSMISSION
-`kia_stinger_en_9e3e58e2` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:261
 
 OCK057164
 + (UP)
@@ -37069,7 +36108,6 @@ are applied.
 
 
 ### WARNING - Leaving
-`kia_stinger_en_4e956623` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:262
 
 Vehicle
 Before leaving the driver’s seat,
@@ -37087,7 +36125,6 @@ not followed.
 
 
 ### CAUTION - Transmission
-`kia_stinger_en_fb1c559d` | stinger | pdf_manual | tier:2 | lang:en | layer:transmission | p:262
 
 To avoid damage to your transmission, do not accelerate the
 engine in R (Reverse) or any forward gear position with the
@@ -37098,7 +36135,6 @@ in motion.
 
 
 ### CAUTION - Shifting
-`kia_stinger_en_66d882b8` | stinger | pdf_manual | tier:2 | lang:en | layer:transmission | p:262
 
 Always come to a complete stop
 before shifting into or out of R
@@ -37131,7 +36167,6 @@ the parking brake.
 
 
 ### If [AUTO
-`kia_stinger_en_b9bf88ad` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:263
 
 HOLD] function is used while
 driving (If [AUTO HOLD] indicator
@@ -37151,7 +36186,6 @@ screw-driver) into the [SHIFT
 
 
 ### LOCK RELEASE] access hole at
-`kia_stinger_en_f53dc8fb` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:263
 
 the same time. Then, the vehicle
 will move when external force is
@@ -37170,7 +36204,6 @@ will be engaged automatically.
 
 
 ### Therefore, [AUTO HOLD] func-
-`kia_stinger_en_a8abd6ce` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:263
 
 tion should be turned off before
 the ignition button is turned off.
@@ -37236,7 +36269,6 @@ position as required.
 
 
 ### OCK057166N
-`kia_stinger_en_4afcdc8d` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:264
 
 5 15
 Driving your vehicle
@@ -37290,7 +36322,6 @@ shift the gear.
 
 
 ### OCK057007L
-`kia_stinger_en_65e8af46` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:265
 
 Driving your vehicle
 16
@@ -37325,7 +36356,6 @@ press down on the tool.
 
 
 ### WARNING - Shifting from
-`kia_stinger_en_99c48c8b` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:266
 
 park
 Always fully depress the brake
@@ -37337,7 +36367,6 @@ or around the vehicle.
 
 
 ### OCK057180N
-`kia_stinger_en_f4bcf4e0` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:266
 
 5 17
 Driving your vehicle
@@ -37435,7 +36464,6 @@ on both brake and accelerate pedals, Launch Control will automatically deactivat
 
 
 ### OCK047156L
-`kia_stinger_en_aa805156` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:268
 
 OCK047157L
 5 19
@@ -37462,20 +36490,17 @@ depending on fuel, environment,
 tire, and loading conditions.
 
 
-### CAUTION
-`kia_stinger_en_36a8ec17` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:269
-
-Constant use of Launch Control
-can put enormous stress on
-transmission, engine, and drive
-shafts and can result in vehicle
-damage. It is highly recommended that Launch Control is
-used after completion of the
-vehicle brake-in process.
+> ⚠️ **Внимание:** 
+> Constant use of Launch Control
+> can put enormous stress on
+> transmission, engine, and drive
+> shafts and can result in vehicle
+> damage. It is highly recommended that Launch Control is
+> used after completion of the
+> vehicle brake-in process.
 
 
 ### OCK047158L
-`kia_stinger_en_e4e126f7` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:269
 
 WARNING
 It is the responsibility of the
@@ -37498,7 +36523,6 @@ automatically in the D (Drive) position.
 
 
 ### AUTOMATIC TRANSMISSION (SHIFT-BY-WIRE) (IF EQUIPPED)
-`kia_stinger_en_02db5376` | stinger | pdf_manual | tier:2 | lang:en | layer:transmission | p:270
 
 OCK057008L
 When you move the shift lever (1), depress the brake pedal while pressing the UNLOCK
@@ -37529,33 +36553,30 @@ pedal and then apply the parking
 brake.
 
 
-### WARNING
-`kia_stinger_en_dca6741c` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:271
-
-To reduce the risk of serious
-injury or death:
-• ALWAYS check the surrounding areas near your vehicle for
-people, especially children,
-before shifting a vehicle into D
-(Drive) or R (Reverse).
-• Before leaving the driver’s
-seat, always make sure the
-shift lever is in the P (Park)
-position, then set the parking
-brake, and place the engine
-start/stop button in the OFF
-position. Unexpected and sudden vehicle movement can
-occur if these precautions are
-not followed.
-• Do not use engine braking
-(shifting from a high gear to
-lower gear) rapidly on slippery
-roads. The vehicle may slip
-causing an accident.
+> ⚠️ **Внимание:** 
+> To reduce the risk of serious
+> injury or death:
+> • ALWAYS check the surrounding areas near your vehicle for
+> people, especially children,
+> before shifting a vehicle into D
+> (Drive) or R (Reverse).
+> • Before leaving the driver’s
+> seat, always make sure the
+> shift lever is in the P (Park)
+> position, then set the parking
+> brake, and place the engine
+> start/stop button in the OFF
+> position. Unexpected and sudden vehicle movement can
+> occur if these precautions are
+> not followed.
+> • Do not use engine braking
+> (shifting from a high gear to
+> lower gear) rapidly on slippery
+> roads. The vehicle may slip
+> causing an accident.
 
 
 ### OCK057009N
-`kia_stinger_en_0f71febd` | stinger | pdf_manual | tier:2 | lang:en | layer:transmission | p:271
 
 CAUTION - Transmission
 To avoid damage to your transmission, do not accelerate the
@@ -37598,7 +36619,6 @@ brake.
 
 
 ### OCK057010N
-`kia_stinger_en_2a9e2276` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:272
 
 OCK057011N
 ■D (Drive) →R (Reverse)
@@ -37629,33 +36649,30 @@ through a 8-gear sequence, providing
 the best fuel economy and power.
 
 
-### WARNING
-`kia_stinger_en_8708fb37` | stinger | pdf_manual | tier:2 | lang:en | layer:transmission | p:273
-
-• To avoid inadvertent vehicle
-movement, do not shift into
-gear unless your foot is firmly
-on the brake pedal.
-• D not permit your vehicle to
-idle in the N (Neutral) position
-for  an extended period of
-time as this will preclude the
-wheels and the transmission
-from engaging. While parking
-the vehicle with the engine
-running, depress the brake
-pedal, shift the vehicle to the
-P (Park) position and apply
-the parking brake.
-• Do not drive with the shift
-lever in N (Neutral).
-The
-engine brake will not work
-and may lead to an accident.
+> ⚠️ **Внимание:** 
+> • To avoid inadvertent vehicle
+> movement, do not shift into
+> gear unless your foot is firmly
+> on the brake pedal.
+> • D not permit your vehicle to
+> idle in the N (Neutral) position
+> for  an extended period of
+> time as this will preclude the
+> wheels and the transmission
+> from engaging. While parking
+> the vehicle with the engine
+> running, depress the brake
+> pedal, shift the vehicle to the
+> P (Park) position and apply
+> the parking brake.
+> • Do not drive with the shift
+> lever in N (Neutral).
+> The
+> engine brake will not work
+> and may lead to an accident.
 
 
 ### OCK057013N
-`kia_stinger_en_0e402685` | stinger | pdf_manual | tier:2 | lang:en | layer:transmission | p:273
 
 OCK057014N
 ■ R (Reverse) →D (Drive)
@@ -37722,20 +36739,17 @@ normal
 mechanical sound would occur.
 
 
-### CAUTION
-`kia_stinger_en_c5d43b66` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:274
-
-• For EPB (Electronic Parking
-Brake) equipped vehicles with
-[AUTO HOLD] function used
-while driving, if the ignition button has been turned [OFF], the
-electronic parking brake will be
-engaged
-automatically.
+> ⚠️ **Внимание:** 
+> • For EPB (Electronic Parking
+> Brake) equipped vehicles with
+> [AUTO HOLD] function used
+> while driving, if the ignition button has been turned [OFF], the
+> electronic parking brake will be
+> engaged
+> automatically.
 
 
 ### Therefore, [AUTO HOLD] func-
-`kia_stinger_en_4d984af2` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:274
 
 tion should be turned off before
 the ignition button is turned off.
@@ -37769,7 +36783,6 @@ may not occur.
 
 
 ### OCK057007L
-`kia_stinger_en_e4bf8924` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:275
 
 WARNING
 • With the exception of parking
@@ -37831,7 +36844,6 @@ turning OFF the engine.
 
 
 ### OCK057169N
-`kia_stinger_en_6329dd1e` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:276
 
 5 27
 Driving your vehicle
@@ -37865,26 +36877,23 @@ vehicle
 inspected by an authorized Kia dealer.
 
 
-### WARNING
-`kia_stinger_en_bcf81cca` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:277
-
-• Do not depress the accelerator pedal While sitting in the
-vehicle with the engine running. Depressing the accelerator pedal for a long period of
-time may cause the engine or
-exhaust system to overheat
-and start a fire.
-• The exhaust gas and the
-exhaust system are very hot .
-Keep away from the exhaust
-system components. Do not
-stop or park over flammable
-materials, such as dry grass,
-paper or leaves. They may
-ignite and cause a fire.
+> ⚠️ **Внимание:** 
+> • Do not depress the accelerator pedal While sitting in the
+> vehicle with the engine running. Depressing the accelerator pedal for a long period of
+> time may cause the engine or
+> exhaust system to overheat
+> and start a fire.
+> • The exhaust gas and the
+> exhaust system are very hot .
+> Keep away from the exhaust
+> system components. Do not
+> stop or park over flammable
+> materials, such as dry grass,
+> paper or leaves. They may
+> ignite and cause a fire.
 
 
 ### OCK057143L
-`kia_stinger_en_bb08d29d` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:277
 
 Driving your vehicle
 28
@@ -37912,7 +36921,6 @@ brake pedal and then shift the gear.
 
 
 ### OCK057070L
-`kia_stinger_en_2d6b2372` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:278
 
 OCK057071L
 OCK057072L
@@ -37949,7 +36957,6 @@ Driving your vehicle
 
 
 ### NEUTRAL engaged
-`kia_stinger_en_fb683e78` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:280
 
 The message appears on the LCD
 display, when the N (Neutral) position is engaged.
@@ -38010,77 +37017,74 @@ accelerator.
 Kia recommends you follow all posted speed limits.
 
 
-### WARNING
-`kia_stinger_en_73d4666d` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:281
-
-To reduce the risk of SERIOUS
-INJURY or DEATH:
-• ALWAYS wear your seatbelt.
-In a collision, an unbelted
-occupant is significantly more
-likely to be seriously injured
-or killed than a properly belted occupant.
-• Avoid high speeds when cornering or turning.
-• Do not make quick steering
-wheel movements, such as
-sharp lane changes or fast,
-sharp turns.
-• The risk of rollover is greatly
-increased if you lose control
-of your vehicle at highway
-speeds.
-(Continued)
-(Continued)
-• Loss of control often occurs if
-two or more wheels drop off
-the roadway and the driver
-over steers to reenter the
-roadway.
-• In the event your vehicle
-leaves the roadway, do not
-steer sharply. Instead, slow
-down before pulling back into
-the travel lanes.
-• Do not attempt sudden or
-abrupt driving maneuvers on
-slippery surfaces. Attempting
-such maneuvers can result in
-loss of vehicle control and
-accidents.
-Driving your vehicle
-32
-5
-✽NOTICE
-- Kickdown Mechanism
-Use the kickdown mechanism for
-maximum acceleration. Depress the
-accelerator pedal beyond the pressure point. The automatic transmission will shift to a lower gear
-depending on the engine speed.
-Launch Control
-Launch Control Operation
-• When using Launch Control with
-an engine that is not warmed up
-enough, a driver should always
-make sure that the engine’s cooling water is warmed up and reaches a recommended temperature.
-• To operate ESC Off state 2, Press
-and hold ESC button for more than
-3 seconds in Sports mode. (Status
-Display on Cluster Screen)
-• For launching, stop the vehicle and
-keep a steering wheel straight.
-• Footbrakes, EPB and Auto Hold
-must be released for smooth
-launching.
-• Press the brake firmly with your left
-foot in transmission D mode, while
-pressing the accelerator pedal
-down fully with your right foot.
-Then, the Launch Control Ready
-(1) will be in place.
+> ⚠️ **Внимание:** 
+> To reduce the risk of SERIOUS
+> INJURY or DEATH:
+> • ALWAYS wear your seatbelt.
+> In a collision, an unbelted
+> occupant is significantly more
+> likely to be seriously injured
+> or killed than a properly belted occupant.
+> • Avoid high speeds when cornering or turning.
+> • Do not make quick steering
+> wheel movements, such as
+> sharp lane changes or fast,
+> sharp turns.
+> • The risk of rollover is greatly
+> increased if you lose control
+> of your vehicle at highway
+> speeds.
+> (Continued)
+> (Continued)
+> • Loss of control often occurs if
+> two or more wheels drop off
+> the roadway and the driver
+> over steers to reenter the
+> roadway.
+> • In the event your vehicle
+> leaves the roadway, do not
+> steer sharply. Instead, slow
+> down before pulling back into
+> the travel lanes.
+> • Do not attempt sudden or
+> abrupt driving maneuvers on
+> slippery surfaces. Attempting
+> such maneuvers can result in
+> loss of vehicle control and
+> accidents.
+> Driving your vehicle
+> 32
+> 5
+> ✽NOTICE
+> - Kickdown Mechanism
+> Use the kickdown mechanism for
+> maximum acceleration. Depress the
+> accelerator pedal beyond the pressure point. The automatic transmission will shift to a lower gear
+> depending on the engine speed.
+> Launch Control
+> Launch Control Operation
+> • When using Launch Control with
+> an engine that is not warmed up
+> enough, a driver should always
+> make sure that the engine’s cooling water is warmed up and reaches a recommended temperature.
+> • To operate ESC Off state 2, Press
+> and hold ESC button for more than
+> 3 seconds in Sports mode. (Status
+> Display on Cluster Screen)
+> • For launching, stop the vehicle and
+> keep a steering wheel straight.
+> • Footbrakes, EPB and Auto Hold
+> must be released for smooth
+> launching.
+> • Press the brake firmly with your left
+> foot in transmission D mode, while
+> pressing the accelerator pedal
+> down fully with your right foot.
+> Then, the Launch Control Ready
+> (1) will be in place.
 
 
 ### OCK047156L
-`kia_stinger_en_3460df33` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:282
 
 5 33
 Driving your vehicle
@@ -38131,34 +37135,31 @@ depending on fuel, environment,
 tire, and loading conditions.
 
 
-### WARNING
-`kia_stinger_en_4cf03739` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:284
-
-It is the responsibility of the
-driver to make sure it is safe
-before using Launch Control.
-Do not use Launch Control on
-public roads or when pedestrian
-congestion is present. Doing so
-could result in an accident that
-causes serious injuries.
-5 35
-Driving your vehicle
-Using All Wheel Drive (AWD)
-The All Wheel Drive (AWD) System
-delivers engine power to front and
-rear wheels for maximum traction.
-AWD is useful when extra traction is
-required, such as when driving slippery, muddy, wet, or snow-covered
-roads.
-If the system determines there is a
-need for four wheel drive, the
-engine's driving power is distributed
-to all four wheels automatically.
+> ⚠️ **Внимание:** 
+> It is the responsibility of the
+> driver to make sure it is safe
+> before using Launch Control.
+> Do not use Launch Control on
+> public roads or when pedestrian
+> congestion is present. Doing so
+> could result in an accident that
+> causes serious injuries.
+> 5 35
+> Driving your vehicle
+> Using All Wheel Drive (AWD)
+> The All Wheel Drive (AWD) System
+> delivers engine power to front and
+> rear wheels for maximum traction.
+> AWD is useful when extra traction is
+> required, such as when driving slippery, muddy, wet, or snow-covered
+> roads.
+> If the system determines there is a
+> need for four wheel drive, the
+> engine's driving power is distributed
+> to all four wheels automatically.
 
 
 ### ALL WHEEL DRIVE (AWD) (IF EQUIPPED)
-`kia_stinger_en_2992803b` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:285
 
 WARNING
 If the AWD warning light (
@@ -38172,176 +37173,169 @@ checked by an authorized Kia
 dealer as soon as possible.
 
 
-### WARNING
-`kia_stinger_en_2ebc78b7` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:285
-
-To reduce the risk of SERIOUS
-INJURY or DEATH:
-• Do not drive in conditions that
-exceed the vehicles intended
-design such as challenging
-off-road conditions.
-(Continued)
-(Continued)
-• Avoid high speeds when cornering or turning.
-• Do not make quick steering
-wheel movements, such as
-sharp lane changes or fast,
-sharp turns.
-• The risk of a rollover is greatly increased if you lose control of your vehicle at highway
-speeds.
-• Loss of control often occurs if
-two or more wheels drop off
-the roadway and the driver
-over steers to reenter the
-roadway.
-• In the event your vehicle
-leaves the roadway, do not
-steer sharply. Instead, slow
-down before pulling back into
-the travel lanes.
-Driving your vehicle
-36
-5
-✽NOTICE
-• Do not drive in water if the level is
-higher than the bottom of the vehicle.
-• Check your brake condition once
-you are out of mud or water.
-Depress the brake pedal several
-times as you move slowly until you
-feel normal braking return.
-• Shorten your scheduled maintenance interval if you drive in offroad conditions such as sand, mud
-or water (see "Maintenance Under
-Severe Usage Conditions" in chapter 7).
-• Make sure that AWD vehicle is
-towed by a flatbed tow truck.
-For safe AWD operation
-Before driving
-• Make sure all passengers are
-wearing seat belts.
-• Sit upright and closer to the steering wheel than usual. Adjust the
-steering wheel to a position comfortable for you to drive.
-Driving on snow-covered or icy roads
-• Start off slowly by applying the
-accelerator pedal gently.
-• Use snow tires or tire chains.
-• Keep sufficient distance between
-your vehicle and the vehicle in front
-of you.
-• Use engine braking during deceleration.
-• Avoid speeding, rapid acceleration,
-sudden brake applications, and
-sharp turns to prevent skids.
-Driving in sand or mud
-• Maintain slow and constant speed.
-• Use tire chains driving in mud if
-necessary.
-• Keep sufficient distance between
-your vehicle and the vehicle in front
-of you.
-• Reduce vehicle speed and always
-check the road condition.
-• Avoid speeding, rapid acceleration,
-sudden brake applications, and
-sharp turns to prevent getting
-stuck.
-✽NOTICE
-When the vehicle is stuck in snow,
-sand or mud, place a non-slip material under the drive wheels to provide traction OR slowly spin the
-wheels in forward and reverse directions which causes a rocking motion
-that may free the vehicle. However,
-avoid running the engine continuously at high rpm, doing so may
-damage the AWD system.
-5 37
-Driving your vehicle
-✽NOTICE
-• When using Snow Tires, mount
-them on all four wheels.
-• When using Tire Chains, install
-them on all four tires. However, if
-you are in a situation to use only
-two tire chains, install them on the
-rear tires. In this case, drive a
-short distance to prevent damage
-to the AWD system.
-• If tire chains must be used, use
-AutoSock (fabric snow chain) and
-install the tire chain after reviewing the instructions provided with
-the tire chains.
-For more information on Snow Tires
-and Tire Chains, refer to "Winter
-Driving" in this chapter.
-Driving up or down hills
-• Driving uphill
-- Before starting off, check if it is
-possible to drive uphill.
-- Drive as straight as possible.
-• Driving downhill
-- Do not change gear while driving
-downhill. Select gear before driving downhill.
-- Drive as slowly using engine
-braking while driving downhill.
-- Drive straight as possible.
-Emergency precautions
-Tires
-When replacing the tires, be sure to
-equip all four tires with the tire and
-wheel of the same size, type, tread,
-brand and load-carrying capacity.
-In case of emergency such as tire
-puncture, repair it using TMK (Tire
-Mobility Kit) for temporary use.
-Afterwards, have the tire be inspected by an authorized Kia dealer/service partner.
+> ⚠️ **Внимание:** 
+> To reduce the risk of SERIOUS
+> INJURY or DEATH:
+> • Do not drive in conditions that
+> exceed the vehicles intended
+> design such as challenging
+> off-road conditions.
+> (Continued)
+> (Continued)
+> • Avoid high speeds when cornering or turning.
+> • Do not make quick steering
+> wheel movements, such as
+> sharp lane changes or fast,
+> sharp turns.
+> • The risk of a rollover is greatly increased if you lose control of your vehicle at highway
+> speeds.
+> • Loss of control often occurs if
+> two or more wheels drop off
+> the roadway and the driver
+> over steers to reenter the
+> roadway.
+> • In the event your vehicle
+> leaves the roadway, do not
+> steer sharply. Instead, slow
+> down before pulling back into
+> the travel lanes.
+> Driving your vehicle
+> 36
+> 5
+> ✽NOTICE
+> • Do not drive in water if the level is
+> higher than the bottom of the vehicle.
+> • Check your brake condition once
+> you are out of mud or water.
+> Depress the brake pedal several
+> times as you move slowly until you
+> feel normal braking return.
+> • Shorten your scheduled maintenance interval if you drive in offroad conditions such as sand, mud
+> or water (see "Maintenance Under
+> Severe Usage Conditions" in chapter 7).
+> • Make sure that AWD vehicle is
+> towed by a flatbed tow truck.
+> For safe AWD operation
+> Before driving
+> • Make sure all passengers are
+> wearing seat belts.
+> • Sit upright and closer to the steering wheel than usual. Adjust the
+> steering wheel to a position comfortable for you to drive.
+> Driving on snow-covered or icy roads
+> • Start off slowly by applying the
+> accelerator pedal gently.
+> • Use snow tires or tire chains.
+> • Keep sufficient distance between
+> your vehicle and the vehicle in front
+> of you.
+> • Use engine braking during deceleration.
+> • Avoid speeding, rapid acceleration,
+> sudden brake applications, and
+> sharp turns to prevent skids.
+> Driving in sand or mud
+> • Maintain slow and constant speed.
+> • Use tire chains driving in mud if
+> necessary.
+> • Keep sufficient distance between
+> your vehicle and the vehicle in front
+> of you.
+> • Reduce vehicle speed and always
+> check the road condition.
+> • Avoid speeding, rapid acceleration,
+> sudden brake applications, and
+> sharp turns to prevent getting
+> stuck.
+> ✽NOTICE
+> When the vehicle is stuck in snow,
+> sand or mud, place a non-slip material under the drive wheels to provide traction OR slowly spin the
+> wheels in forward and reverse directions which causes a rocking motion
+> that may free the vehicle. However,
+> avoid running the engine continuously at high rpm, doing so may
+> damage the AWD system.
+> 5 37
+> Driving your vehicle
+> ✽NOTICE
+> • When using Snow Tires, mount
+> them on all four wheels.
+> • When using Tire Chains, install
+> them on all four tires. However, if
+> you are in a situation to use only
+> two tire chains, install them on the
+> rear tires. In this case, drive a
+> short distance to prevent damage
+> to the AWD system.
+> • If tire chains must be used, use
+> AutoSock (fabric snow chain) and
+> install the tire chain after reviewing the instructions provided with
+> the tire chains.
+> For more information on Snow Tires
+> and Tire Chains, refer to "Winter
+> Driving" in this chapter.
+> Driving up or down hills
+> • Driving uphill
+> - Before starting off, check if it is
+> possible to drive uphill.
+> - Drive as straight as possible.
+> • Driving downhill
+> - Do not change gear while driving
+> downhill. Select gear before driving downhill.
+> - Drive as slowly using engine
+> braking while driving downhill.
+> - Drive straight as possible.
+> Emergency precautions
+> Tires
+> When replacing the tires, be sure to
+> equip all four tires with the tire and
+> wheel of the same size, type, tread,
+> brand and load-carrying capacity.
+> In case of emergency such as tire
+> puncture, repair it using TMK (Tire
+> Mobility Kit) for temporary use.
+> Afterwards, have the tire be inspected by an authorized Kia dealer/service partner.
 
 
-### WARNING
-`kia_stinger_en_39b33e06` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:287
-
-Exercise extreme caution driving up or down steep hills. The
-vehicle may flip depending on
-the grade, terrain and water/
-mud conditions.
+> ⚠️ **Внимание:** 
+> Exercise extreme caution driving up or down steep hills. The
+> vehicle may flip depending on
+> the grade, terrain and water/
+> mud conditions.
 
 
-### WARNING
-`kia_stinger_en_39b33e06` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:287
-
-Do not use tire and wheel with
-different size and type from the
-one originally installed on your
-vehicle. It can affect the safety
-and performance of your vehicle, which could lead to steering
-failure or rollover causing serious injury.
-Driving your vehicle
-38
-5
-Towing
-AWD vehicles must be towed with a
-wheel lift and dollies or flatbed equipment with all the wheels off the
-ground. For more information, refer
-to "Towing" in chapter 6.
-Vehicle inspection
-• When the vehicle is on a car lift, do
-not operate the front and rear
-wheels separately. All four wheels
-should be operated.
-• Never engage the parking brake
-while running the engine on a car
-lift. This may damage the AWD
-system.
-
-WARNING
-Never start or run the engine
-while an AWD vehicle is raised
-on a jack.The vehicle can slip or
-roll off of a jack causing serious
-injury or death to you or those
-nearby.
+> ⚠️ **Внимание:** 
+> Do not use tire and wheel with
+> different size and type from the
+> one originally installed on your
+> vehicle. It can affect the safety
+> and performance of your vehicle, which could lead to steering
+> failure or rollover causing serious injury.
+> Driving your vehicle
+> 38
+> 5
+> Towing
+> AWD vehicles must be towed with a
+> wheel lift and dollies or flatbed equipment with all the wheels off the
+> ground. For more information, refer
+> to "Towing" in chapter 6.
+> Vehicle inspection
+> • When the vehicle is on a car lift, do
+> not operate the front and rear
+> wheels separately. All four wheels
+> should be operated.
+> • Never engage the parking brake
+> while running the engine on a car
+> lift. This may damage the AWD
+> system.
+>
+> WARNING
+> Never start or run the engine
+> while an AWD vehicle is raised
+> on a jack.The vehicle can slip or
+> roll off of a jack causing serious
+> injury or death to you or those
+> nearby.
 
 
 ### OCK057159L
-`kia_stinger_en_d50d8bac` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:288
 
 5 39
 Driving your vehicle
@@ -38388,7 +37382,6 @@ cause serious injury or death.
 
 
 ### OCK057161
-`kia_stinger_en_91bf37fc` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:289
 
 Driving your vehicle
 40
@@ -38426,7 +37419,6 @@ returns to normal.
 
 
 ### BRAKE SYSTEM
-`kia_stinger_en_fa176a36` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:290
 
 WARNING - Steep hill
 braking
@@ -38440,7 +37432,6 @@ temporary loss of braking performance.
 
 
 ### CAUTION - Brake Pedal
-`kia_stinger_en_61196f39` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:290
 
 Do not drive with your foot resting on the brake pedal. This will
 create abnormally high brake
@@ -38473,7 +37464,6 @@ brake pads as pairs.
 
 
 ### WARNING - Parking
-`kia_stinger_en_fb9e60a0` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:291
 
 brake
 Avoid applying the parking
@@ -38496,7 +37486,6 @@ serious accident.
 
 
 ### CAUTION - Replace brake
-`kia_stinger_en_9cece717` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:291
 
 pads
 Do not continue to drive with
@@ -38548,7 +37537,6 @@ down as far as possible.
 
 
 ### OYP054009K
-`kia_stinger_en_e3644055` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:292
 
 5 43
 Driving your vehicle
@@ -38567,7 +37555,6 @@ rotor wear.
 
 
 ### WARNING - Parking brake
-`kia_stinger_en_dc5628d3` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:293
 
 use
 • Never allow a passenger to
@@ -38584,7 +37571,6 @@ occupants or pedestrians.
 
 
 ### OYP054010K
-`kia_stinger_en_5dd7227f` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:293
 
 Driving your vehicle
 44
@@ -38655,7 +37641,6 @@ goes off.
 
 
 ### OCK057018
-`kia_stinger_en_eb5d199b` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:295
 
 Driving your vehicle
 46
@@ -38712,55 +37697,52 @@ applied. (Vehicles equipped with
 Auto Hold)
 
 
-### CAUTION
-`kia_stinger_en_4e4fcebd` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:296
-
-Do not drive your vehicle with
-the EPB applied. It may cause
-excessive brake pad and brake
-rotor wear.
-5 47
-Driving your vehicle
-System warning
-• If you try to drive off depressing the
-accelerator pedal with the EPB
-applied, but the EPB doesn't
-release automatically, a warning
-will sound and a message will
-appear.
-• If the driver's seat belt is not fastened and the engine hood, driver's
-door or liftgate is opened, a warning will sound and a message will
-appear.
-• If there is a problem with the vehicle, a warning may sound and a
-message may appear.
-If the above situation occurs, depress
-the brake pedal and release EPB by
-pressing the EPB switch.
-• A click or electric brake motor
-whine sound may be heard while
-operating or releasing the EPB, but
-these conditions are normal and
-indicate that the EPB is functioning
-properly.
-• When leaving your keys with a
-parking lot attendant or valet, make
-sure to inform him/her how to operate the EPB.
-• The EPB may malfunction if you
-drive with the EPB applied.
-• When you automatically release
-EPB by depressing the accelerator
-pedal, depress it slowly.
-
-WARNING - Parking
-Brake Use
-All vehicles should always have
-the parking brake fully engaged
-when parked to avoid inadvertent movement of the car which
-can injure occupants or pedestrians.
+> ⚠️ **Внимание:** 
+> Do not drive your vehicle with
+> the EPB applied. It may cause
+> excessive brake pad and brake
+> rotor wear.
+> 5 47
+> Driving your vehicle
+> System warning
+> • If you try to drive off depressing the
+> accelerator pedal with the EPB
+> applied, but the EPB doesn't
+> release automatically, a warning
+> will sound and a message will
+> appear.
+> • If the driver's seat belt is not fastened and the engine hood, driver's
+> door or liftgate is opened, a warning will sound and a message will
+> appear.
+> • If there is a problem with the vehicle, a warning may sound and a
+> message may appear.
+> If the above situation occurs, depress
+> the brake pedal and release EPB by
+> pressing the EPB switch.
+> • A click or electric brake motor
+> whine sound may be heard while
+> operating or releasing the EPB, but
+> these conditions are normal and
+> indicate that the EPB is functioning
+> properly.
+> • When leaving your keys with a
+> parking lot attendant or valet, make
+> sure to inform him/her how to operate the EPB.
+> • The EPB may malfunction if you
+> drive with the EPB applied.
+> • When you automatically release
+> EPB by depressing the accelerator
+> pedal, depress it slowly.
+>
+> WARNING - Parking
+> Brake Use
+> All vehicles should always have
+> the parking brake fully engaged
+> when parked to avoid inadvertent movement of the car which
+> can injure occupants or pedestrians.
 
 
 ### OCK057182L
-`kia_stinger_en_f901cd98` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:297
 
 Driving your vehicle
 48
@@ -38799,7 +37781,6 @@ malfunctioned.
 
 
 ### OCK057081L
-`kia_stinger_en_5182aff1` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:298
 
 OCK057079L
 OCK057157
@@ -38841,40 +37822,37 @@ possible only while you are holding
 the EPB switch.
 
 
-### WARNING
-`kia_stinger_en_02f8215a` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:299
-
-Do not operate the electronic
-parking brake while the vehicle
-is moving except in an emergency situation. Applying the
-electronic parking brake while
-the vehicle is moving at normal
-speeds can cause a sudden
-loss of control of the vehicle. If
-you must use the electronic
-parking brake to stop the vehicle, use great caution in applying the brake.
-Driving your vehicle
-50
-5
-✽NOTICE
-During emergency braking by the
-EPB, the parking brake warning
-light will illuminate to indicate that
-the system is operating.
-If you notice a continuous noise or
-burning smell when the EPB is used
-for emergency braking, have your
-vehicle checked by an authorized Kia
-dealer.
-When the EPB (electronic parking
-brake) is not released
-If the EPB does not release normally, take your vehicle to an authorized
-Kia dealer by loading the vehicle on
-a flatbed tow truck and have the system checked.
+> ⚠️ **Внимание:** 
+> Do not operate the electronic
+> parking brake while the vehicle
+> is moving except in an emergency situation. Applying the
+> electronic parking brake while
+> the vehicle is moving at normal
+> speeds can cause a sudden
+> loss of control of the vehicle. If
+> you must use the electronic
+> parking brake to stop the vehicle, use great caution in applying the brake.
+> Driving your vehicle
+> 50
+> 5
+> ✽NOTICE
+> During emergency braking by the
+> EPB, the parking brake warning
+> light will illuminate to indicate that
+> the system is operating.
+> If you notice a continuous noise or
+> burning smell when the EPB is used
+> for emergency braking, have your
+> vehicle checked by an authorized Kia
+> dealer.
+> When the EPB (electronic parking
+> brake) is not released
+> If the EPB does not release normally, take your vehicle to an authorized
+> Kia dealer by loading the vehicle on
+> a flatbed tow truck and have the system checked.
 
 
 ### AUTO HOLD (if equipped)
-`kia_stinger_en_c799738b` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:300
 
 The Auto Hold maintains the vehicle
 in a standstill even though the brake
@@ -38891,7 +37869,6 @@ must be fastened.
 
 
 ### OCK057019N
-`kia_stinger_en_57d46fb5` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:300
 
 5 51
 Driving your vehicle
@@ -38927,7 +37904,6 @@ depressing the brake pedal.
 
 
 ### OCK057020N
-`kia_stinger_en_db01edac` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:301
 
 OCK057021N
 Driving your vehicle
@@ -38985,35 +37961,32 @@ indicate that the EPB is functioning
 properly.
 
 
-### WARNING
-`kia_stinger_en_197e8702` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:302
-
-To reduce the risk of an accident, do not activate Auto Hold
-while driving downhill, backing
-up or parking your vehicle.
-5 53
-Driving your vehicle
-Warning messages
-When the EPB is applied from Auto
-Hold, a warning will sound and a
-message will appear.
-When the conversion from Auto Hold
-to EPB is not working properly a
-warning will sound and a message
-will appear.
-✽NOTICE
-When this message is displayed, the
-Auto Hold and EPB may not operate. For your safety, depress the
-brake pedal.
-If you do not apply the brake pedal
-when you release the Auto Hold by
-pressing the [AUTO HOLD] switch, a
-warning will sound and a message
-will appear.
+> ⚠️ **Внимание:** 
+> To reduce the risk of an accident, do not activate Auto Hold
+> while driving downhill, backing
+> up or parking your vehicle.
+> 5 53
+> Driving your vehicle
+> Warning messages
+> When the EPB is applied from Auto
+> Hold, a warning will sound and a
+> message will appear.
+> When the conversion from Auto Hold
+> to EPB is not working properly a
+> warning will sound and a message
+> will appear.
+> ✽NOTICE
+> When this message is displayed, the
+> Auto Hold and EPB may not operate. For your safety, depress the
+> brake pedal.
+> If you do not apply the brake pedal
+> when you release the Auto Hold by
+> pressing the [AUTO HOLD] switch, a
+> warning will sound and a message
+> will appear.
 
 
 ### OCK057081L
-`kia_stinger_en_0b29caeb` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:303
 
 OCK057079L
 OCK057083L
@@ -39076,7 +38049,6 @@ system is functioning properly.
 
 
 ### OCK057084L
-`kia_stinger_en_99787394` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:304
 
 5 55
 Driving your vehicle
@@ -39180,7 +38152,6 @@ Stability Control System is functioning properly.
 
 
 ### OCK057151N
-`kia_stinger_en_12722623` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:306
 
 5 57
 Driving your vehicle
@@ -39198,7 +38169,6 @@ ESC on, press the ESC
 
 
 ### OFF button (ESC OFF
-`kia_stinger_en_dc098042` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:307
 
 indicator light will go off).
 • When starting the engine,
@@ -39225,7 +38195,6 @@ ESC operation off
 
 
 ### ESC OFF state
-`kia_stinger_en_feaf0f4a` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:307
 
 This car has 2 kinds of ESC
 off states.
@@ -39243,7 +38212,6 @@ To cancel ESC operation, press the
 
 
 ### ESC OFF button (ESC OFF
-`kia_stinger_en_a63023bb` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:308
 
 ) shortly (ESC OFF indicator light (ESC OFF
 ) illuminates). At this state, the
@@ -39254,7 +38222,6 @@ To cancel ESC operation, press the
 
 
 ### ESC OFF button (ESC OFF
-`kia_stinger_en_a63023bb` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:308
 
 ) for
 more than 3 seconds. ESC OFF indicator light (ESC OFF
@@ -39277,7 +38244,6 @@ the button.
 
 
 ### OCK057085L
-`kia_stinger_en_8b1be57f` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:308
 
 OCK057086L
 5 59
@@ -39308,7 +38274,6 @@ maintaining control under certain circumstances.
 
 
 ### WARNING - Operating
-`kia_stinger_en_34766203` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:309
 
 ESC
 Never press the ESC OFF button while ESC is operating (ESC
@@ -39361,7 +38326,6 @@ goes out.
 
 
 ### WARNING - Tire/
-`kia_stinger_en_f419d53d` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:310
 
 Wheel size
 When replacing tires and wheels,
@@ -39471,7 +38435,6 @@ the vehicle is stopped.
 
 
 ### WARNING - Maintaining
-`kia_stinger_en_a16b73b3` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:312
 
 Brake Pressure on Incline
 HAC does not replace the need
@@ -39519,7 +38482,6 @@ Driving your vehicle
 
 
 ### FORWARD COLLISION-AVOIDANCE ASSIST (FCA) (IF EQUIPPED)
-`kia_stinger_en_c9e34991` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:314
 
 The FCA system is designed to
 detect and monitor the vehicle ahead
@@ -39558,7 +38520,6 @@ cancels the system setting.
 
 
 ### WARNING - Forward
-`kia_stinger_en_b1293bd3` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:314
 
 Collision-Avoidance assist
 (FCA) Limitations
@@ -39663,39 +38624,36 @@ stopping the vehicle in the safe
 place for your safety.
 
 
-### WARNING
-`kia_stinger_en_8f68d1db` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:316
-
-To avoid driver distractions, do
-not attempt to set or cancel the
-FCA while operating the vehicle.
-5 67
-Driving your vehicle
-FCA warning message and
-system control
-The FCA produces warning messages and warning alarms in accordance with the collision risk levels of
-followings like vehicle’s sudden braking in front or lack of vehicle to vehicle
-distance or collision to pedestrians.
-Also, it controls the brakes in accordance with the collision risk levels.
-Collision Warning (1st warning)
-• The warning message appears on
-the LCD display with the warning
-alarms.
-• The FCA controls the brakes within
-certain limit to release shock from
-the collision.
-Emergency braking (2nd warning)
-• The warning message appears on
-the LCD display with the warning
-alarms.
-• The FCA controls the brakes within certain limit to release shock
-from the collision.
-The FCA controls the maximum
-brakes just before the collision.
+> ⚠️ **Внимание:** 
+> To avoid driver distractions, do
+> not attempt to set or cancel the
+> FCA while operating the vehicle.
+> 5 67
+> Driving your vehicle
+> FCA warning message and
+> system control
+> The FCA produces warning messages and warning alarms in accordance with the collision risk levels of
+> followings like vehicle’s sudden braking in front or lack of vehicle to vehicle
+> distance or collision to pedestrians.
+> Also, it controls the brakes in accordance with the collision risk levels.
+> Collision Warning (1st warning)
+> • The warning message appears on
+> the LCD display with the warning
+> alarms.
+> • The FCA controls the brakes within
+> certain limit to release shock from
+> the collision.
+> Emergency braking (2nd warning)
+> • The warning message appears on
+> the LCD display with the warning
+> alarms.
+> • The FCA controls the brakes within certain limit to release shock
+> from the collision.
+> The FCA controls the maximum
+> brakes just before the collision.
 
 
 ### OCK057091L
-`kia_stinger_en_a279e235` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:317
 
 OCK057152L
 Driving your vehicle
@@ -39739,7 +38697,6 @@ under all conditions.
 
 
 ### OCK057023L
-`kia_stinger_en_c185b861` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:318
 
 OCK057037L
 5 69
@@ -39801,7 +38758,6 @@ remove the foreign substances.
 
 
 ### OCK057093L
-`kia_stinger_en_16de5945` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:319
 
 Driving your vehicle
 70
@@ -39828,7 +38784,6 @@ of the ESC warning light.
 
 
 ### OCK057094L
-`kia_stinger_en_839a7c45` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:320
 
 WARNING
 The FCA is only a supplemental
@@ -39986,7 +38941,6 @@ the brake pedal.
 
 
 ### OYG056042
-`kia_stinger_en_c37429fe` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:323
 
 Driving your vehicle
 74
@@ -40021,7 +38975,6 @@ sharp deceleration.
 
 
 ### OYG056043
-`kia_stinger_en_8f4f9676` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:324
 
 OCK057024
 5 75
@@ -40050,7 +39003,6 @@ maintain a safe distance.
 
 
 ### OJF055028
-`kia_stinger_en_1a628492` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:325
 
 OJF055029
 Driving your vehicle
@@ -40106,7 +39058,6 @@ film, water repellent coating, damage on glass, foreign matter (sticker, insect,
 
 
 ### OCK057025
-`kia_stinger_en_57fa0b41` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:326
 
 5 77
 Driving your vehicle
@@ -40174,7 +39125,6 @@ death.
 
 
 ### WARNING - FCA and
-`kia_stinger_en_bb79cee8` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:327
 
 Towing
 Cancel the FCA in the User
@@ -40235,7 +39185,6 @@ speed and with sufficient distance to the vehicle in front.
 
 
 ### OCK057027L
-`kia_stinger_en_6cec532b` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:328
 
 5 79
 Driving your vehicle
@@ -40271,7 +39220,6 @@ km/h ) each time the lever is operated in this manner.
 
 
 ### OCK057033L
-`kia_stinger_en_670eb845` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:329
 
 OCK057028L
 OCK057034L
@@ -40314,7 +39262,6 @@ km/h).
 
 
 ### OCK057033L
-`kia_stinger_en_29cfe6ca` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:330
 
 OCK057031L
 5 81
@@ -40335,7 +39282,6 @@ If any method other than the
 
 
 ### CRUISE ON-OFF switch was used
-`kia_stinger_en_14459546` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:331
 
 to cancel cruising speed and the system is still activated, the most recent
 set speed will automatically resume
@@ -40356,7 +39302,6 @@ set cruise control speed” on the previous page.
 
 
 ### OCK057034L
-`kia_stinger_en_7963058d` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:331
 
 OCK057028L
 Driving your vehicle
@@ -40373,49 +39318,44 @@ without depressing the accelerator or
 brake pedal.
 
 
-### WARNING
-`kia_stinger_en_d441cd0a` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:332
-
-- Smart cruise control system Inadvertent Activation
-If the smart cruise control systemis left on (CRUISE indicator
-in the instrument cluster illuminated), it can be activated inadvertently. Keep the smart cruise
-control
-systemsystem
-off
-(CRUISE indicator turn off)
-when the smart cruise control
-systemis not in use to avoid
-setting a speed which the driver
-is not aware of.
+> ⚠️ **Внимание:** 
+> - Smart cruise control system Inadvertent Activation
+> If the smart cruise control systemis left on (CRUISE indicator
+> in the instrument cluster illuminated), it can be activated inadvertently. Keep the smart cruise
+> control
+> systemsystem
+> off
+> (CRUISE indicator turn off)
+> when the smart cruise control
+> systemis not in use to avoid
+> setting a speed which the driver
+> is not aware of.
 
 
-### WARNING
-`kia_stinger_en_d441cd0a` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:332
-
-- Smart cruise control system Limitations
-• The smart cruise control systemis a supplemental system
-and is not a substitute for safe
-driving practices. It is the
-responsibility of the driver to
-always check the speed and
-distance to the vehicle ahead.
-• Use the smart cruise control
-system only when traveling
-on open highways in good
-weather.
-• Do not use the smart cruise
-control when it may not be
-safe to keep the car at a constant speed. For instance.
-- Highway interchange and
-tollgate
-- Road surrounded by abnormally multiple steel constructions
-(subway
-construction, steel tunnel, etc)
-(Continued)
+> ⚠️ **Внимание:** 
+> - Smart cruise control system Limitations
+> • The smart cruise control systemis a supplemental system
+> and is not a substitute for safe
+> driving practices. It is the
+> responsibility of the driver to
+> always check the speed and
+> distance to the vehicle ahead.
+> • Use the smart cruise control
+> system only when traveling
+> on open highways in good
+> weather.
+> • Do not use the smart cruise
+> control when it may not be
+> safe to keep the car at a constant speed. For instance.
+> - Highway interchange and
+> tollgate
+> - Road surrounded by abnormally multiple steel constructions
+> (subway
+> construction, steel tunnel, etc)
+> (Continued)
 
 
 ### OCK057097N
-`kia_stinger_en_5fec536b` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:332
 
 5 83
 Driving your vehicle
@@ -40525,7 +39465,6 @@ going uphill or downhill.
 
 
 ### OCK057033L
-`kia_stinger_en_93494030` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:334
 
 OCK057028L
 5 85
@@ -40571,7 +39510,6 @@ above 20 mph (30 km/h).
 
 
 ### OCK057034L
-`kia_stinger_en_d21e02dc` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:335
 
 OCK057033L
 Driving your vehicle
@@ -40633,7 +39571,6 @@ range.
 
 
 ### OCK057035N
-`kia_stinger_en_56f98728` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:336
 
 5 87
 Driving your vehicle
@@ -40645,7 +39582,6 @@ has malfunctioned.
 
 
 ### Assist(FCA)
-`kia_stinger_en_9b75dc4a` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:337
 
 • The vehicle is stopped for more
 than 5 minutes.
@@ -40679,7 +39615,6 @@ chime.
 
 
 ### OCK057098L
-`kia_stinger_en_680e3563` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:337
 
 Driving your vehicle
 88
@@ -40709,7 +39644,6 @@ system.
 
 
 ### WARNING - Following
-`kia_stinger_en_7a6533fe` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:338
 
 Distance
 • To avoid collisions, always be
@@ -40722,7 +39656,6 @@ the brakes if necessary.
 
 
 ### OCK057028L
-`kia_stinger_en_2cd9e399` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:338
 
 OCK057034L
 5 89
@@ -40774,7 +39707,6 @@ When there is a vehicle ahead of you in your lane :
 
 
 ### OCK057102N
-`kia_stinger_en_da2b18b9` | stinger | pdf_manual | tier:2 | lang:en | layer:infotainment | p:340
 
 OCK057103N
 OCK057105N
@@ -40835,7 +39767,6 @@ to start driving.
 
 
 ### OCK057107L
-`kia_stinger_en_3ab12709` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:341
 
 OCK057108L
 Driving your vehicle
@@ -40876,7 +39807,6 @@ detected after turning ON the engine
 
 
 ### OCK057023L
-`kia_stinger_en_27618029` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:342
 
 OCK057109L
 5 93
@@ -40913,7 +39843,6 @@ System may not operate properly.
 
 
 ### CAUTION - Sensor
-`kia_stinger_en_269d38d5` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:343
 
 Damage
 To prevent sensor cover damage from occurring, wash the
@@ -40970,7 +39899,6 @@ mode will turn on.
 
 
 ### OCK057101L
-`kia_stinger_en_0e1dbcf9` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:344
 
 OCK057100L
 5 95
@@ -41009,7 +39937,6 @@ cruise control system.
 
 
 ### OYG056043
-`kia_stinger_en_07eba4e8` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:345
 
 OYG056042
 Driving your vehicle
@@ -41046,7 +39973,6 @@ selected speed.
 
 
 ### OYG056045
-`kia_stinger_en_63e70e6e` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:346
 
 OCK057024
 5 97
@@ -41080,7 +40006,6 @@ driving condition.
 
 
 ### OYG056046
-`kia_stinger_en_5b1c3b92` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:347
 
 OYG056047
 Driving your vehicle
@@ -41105,7 +40030,6 @@ vehicle.
 
 
 ### OJF055050
-`kia_stinger_en_f6767404` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:348
 
 OCK057025
 OYG056048
@@ -41136,7 +40060,6 @@ too close during a high-speed driving, a serious collision may result.
 
 
 ### WARNING - Inclines &
-`kia_stinger_en_4c92ceba` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:349
 
 Towing
 Do not use smart cruise control
@@ -41146,101 +40069,98 @@ trailer since such extreme loading can interfere with your vehicle's ability to 
 selected speed.
 
 
-### WARNING
-`kia_stinger_en_0b0eada0` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:349
-
-- Safe Use of smart cruise
-control system
-The smart cruise control system
-can provide you with an additional level of safety and fatigue
-reduction. However you must
-maintain careful observation of
-the roadway in front and around
-you and maintain control of your
-vehicle and spacing around
-other vehicles as you normally
-would. For example, this will
-require you to apply the brakes
-as needed when coming upon a
-slower moving vehicle, or when a
-vehicle from another lane drives
-quickly in front of you.
-Driving your vehicle
-100
-5
-- The smart cruise control system
-cannot recognize a stopped vehicle, pedestrians or an oncoming
-vehicle. Always look ahead cautiously to prevent unexpected and
-suddensituations from occurring.
-- When other vehicles are changing
-lanes in front of you frequently, the
-smart cruise control system may
-not operate appropriately. Always
-look ahead cautiously to prevent
-unexpected and sudden situations
-from occurring.
-- The smart cruise control system is
-not a substitute for safedriving
-practices but a convenience function only. It is the responsibility of
-the driver to always check the
-speed and the distance to the vehicle ahead.
-- Always be aware of the selected
-speed and vehicle to vehicle distance.
-- Always maintain sufficient braking
-distance and decelerate your vehicle by applying the brakes if necessary.
-This device complies with Part 15
-of the FCC rules.
-Operation is subject to the following
-three conditions:
-1. This device may not cause harmful interference, and
-2. This device must accept any interference received, including interference that may cause undesired
-operation.
-3. Changes or modifications not
-expressly approved by the party
-responsible for compliance could
-void the user’s authority to operate
-the device.
-Radio frequency radiation exposure information:
-This equipment complies with FCC
-radiation exposure limits set forth for
-an uncontrolled environment.
-This equipment should be installed
-and operated with minimum distance
-of 20 cm between the radiator
-(antenna) and your body.
-This transmitter must not be co-located or operating in conjunction with
-any other antenna or transmitter.
-5 101
-Driving your vehicle
-Your vehicle may be equipped with
-the ISG system, which reduces fuel
-consumption by automatically shutting down the engine, when the vehicle is at a standstill. (For example :
-red light, stop sign and traffic jam)
-The engine starts automatically as
-soon as the starting conditions are
-met.
-The ISG system is ON whenever the
-engine is running.
-✽NOTICE
-When the engine automatically
-starts by the ISG system, some
-warning lights (ABS, ESC, ESC
-OFF, EPS or Parking brake warning light) may turn on for a few seconds.
-This happens because of low battery
-voltage. It does not mean the system
-has malfunctioned.
-Auto stop
-To stop the engine in idle stop
-mode
-Stop the vehicle completely by
-pressing the brake pedal and the
-shift lever is in the D(Drive) or
-N(Neutral) position
-The engine will stop and the green
+> ⚠️ **Внимание:** 
+> - Safe Use of smart cruise
+> control system
+> The smart cruise control system
+> can provide you with an additional level of safety and fatigue
+> reduction. However you must
+> maintain careful observation of
+> the roadway in front and around
+> you and maintain control of your
+> vehicle and spacing around
+> other vehicles as you normally
+> would. For example, this will
+> require you to apply the brakes
+> as needed when coming upon a
+> slower moving vehicle, or when a
+> vehicle from another lane drives
+> quickly in front of you.
+> Driving your vehicle
+> 100
+> 5
+> - The smart cruise control system
+> cannot recognize a stopped vehicle, pedestrians or an oncoming
+> vehicle. Always look ahead cautiously to prevent unexpected and
+> suddensituations from occurring.
+> - When other vehicles are changing
+> lanes in front of you frequently, the
+> smart cruise control system may
+> not operate appropriately. Always
+> look ahead cautiously to prevent
+> unexpected and sudden situations
+> from occurring.
+> - The smart cruise control system is
+> not a substitute for safedriving
+> practices but a convenience function only. It is the responsibility of
+> the driver to always check the
+> speed and the distance to the vehicle ahead.
+> - Always be aware of the selected
+> speed and vehicle to vehicle distance.
+> - Always maintain sufficient braking
+> distance and decelerate your vehicle by applying the brakes if necessary.
+> This device complies with Part 15
+> of the FCC rules.
+> Operation is subject to the following
+> three conditions:
+> 1. This device may not cause harmful interference, and
+> 2. This device must accept any interference received, including interference that may cause undesired
+> operation.
+> 3. Changes or modifications not
+> expressly approved by the party
+> responsible for compliance could
+> void the user’s authority to operate
+> the device.
+> Radio frequency radiation exposure information:
+> This equipment complies with FCC
+> radiation exposure limits set forth for
+> an uncontrolled environment.
+> This equipment should be installed
+> and operated with minimum distance
+> of 20 cm between the radiator
+> (antenna) and your body.
+> This transmitter must not be co-located or operating in conjunction with
+> any other antenna or transmitter.
+> 5 101
+> Driving your vehicle
+> Your vehicle may be equipped with
+> the ISG system, which reduces fuel
+> consumption by automatically shutting down the engine, when the vehicle is at a standstill. (For example :
+> red light, stop sign and traffic jam)
+> The engine starts automatically as
+> soon as the starting conditions are
+> met.
+> The ISG system is ON whenever the
+> engine is running.
+> ✽NOTICE
+> When the engine automatically
+> starts by the ISG system, some
+> warning lights (ABS, ESC, ESC
+> OFF, EPS or Parking brake warning light) may turn on for a few seconds.
+> This happens because of low battery
+> voltage. It does not mean the system
+> has malfunctioned.
+> Auto stop
+> To stop the engine in idle stop
+> mode
+> Stop the vehicle completely by
+> pressing the brake pedal and the
+> shift lever is in the D(Drive) or
+> N(Neutral) position
+> The engine will stop and the green
 
 
 ### AUTO STOP(
-`kia_stinger_en_6f63fe05` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:351
 
 ) indicator on the
 instrument cluster will illuminate.
@@ -41256,7 +40176,6 @@ display.
 
 
 ### ISG (IDLE STOP AND GO) SYSTEM
-`kia_stinger_en_221a6110` | stinger | pdf_manual | tier:2 | lang:en | layer:transmission | p:351
 
 OCK057144
 OCK057095L
@@ -41284,7 +40203,6 @@ The engine will start and the green
 
 
 ### AUTO STOP indicator (
-`kia_stinger_en_c1914532` | stinger | pdf_manual | tier:2 | lang:en | layer:hvac | p:352
 
 ) on the
 instrument cluster will go out.
@@ -41313,7 +40231,6 @@ the brake pedal.
 
 
 ### OCK057096L
-`kia_stinger_en_20b4ef5c` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:352
 
 OCK057145
 5 103
@@ -41348,7 +40265,6 @@ and the light on the ISG OFF button will turn off.
 
 
 ### OCK057026N
-`kia_stinger_en_f04366be` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:353
 
 Driving your vehicle
 104
@@ -41403,7 +40319,6 @@ the engine on and off 2 or 3 times.
 
 
 ### OCK057144
-`kia_stinger_en_49c4786d` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:354
 
 5 105
 Driving your vehicle
@@ -41434,7 +40349,6 @@ DRIVE MODE INTEGRATED CONTROL SYSTEM
 
 
 ### OCK057044N
-`kia_stinger_en_9eb88e98` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:355
 
 OCK057046L
 OCK057045L
@@ -41493,7 +40407,6 @@ adversely affect fuel economy.
 
 
 ### SMART
-`kia_stinger_en_9107dcd6` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:356
 
 5 107
 Driving your vehicle
@@ -41570,7 +40483,6 @@ Driving your vehicle
 
 
 ### SPORT/CUSTOM mode
-`kia_stinger_en_00303bd9` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:358
 
 SPORT/CUSTOM mode
 manages the driving
@@ -41593,7 +40505,6 @@ the Drive Mode will revert back to
 
 
 ### COMFORT mode. If SPORT/CUS-
-`kia_stinger_en_af0b682c` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:358
 
 TOM mode is desired, re-select
 SPORT/CUSTOM mode from the
@@ -41610,7 +40521,6 @@ indicator lights up (ESC off state 1)
 
 
 ### In SPORT/CUSTOM mode, the fuel
-`kia_stinger_en_5b0d61bf` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:358
 
 efficiency may decrease.
 ECO mode
@@ -41632,7 +40542,6 @@ ECO
 
 
 ### SPORT
-`kia_stinger_en_b81ee3b4` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:358
 
 CUSTOM
 5 109
@@ -41704,7 +40613,6 @@ vehicle.
 
 
 ### OCK057037L
-`kia_stinger_en_6e4ad54a` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:360
 
 OCK057170L
 5 111
@@ -41740,7 +40648,6 @@ sunlight is reflected.
 
 
 ### LKA SYSTEM because of the
-`kia_stinger_en_178ae777` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:361
 
 excessive audio sound.
 • If you continue to drive with your
@@ -41767,7 +40674,6 @@ Driving your vehicle
 
 
 ### LKA SYSTEM operation
-`kia_stinger_en_8aa2e5d9` | stinger | pdf_manual | tier:2 | lang:en | layer:interior | p:362
 
 To activate/deactivate the LKA SYSTEM:
 With the ignition switch in the ON
@@ -41796,7 +40702,6 @@ to control the steering.
 
 
 ### LKA SYSTEM activation
-`kia_stinger_en_b3696b3d` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:362
 
 • To see the LKA SYSTEM screen
 on the LCD display in the cluster,
@@ -41813,7 +40718,6 @@ the steering wheel will be controlled.
 
 
 ### OCK057038N
-`kia_stinger_en_914a8c54` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:362
 
 WARNING
 The
@@ -41834,7 +40738,6 @@ When the conditions below are met,
 
 
 ### LKA SYSTEM will be enable to
-`kia_stinger_en_29b0991a` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:363
 
 assist steering.
 • Vehicle speed is above 40 mph (64
@@ -41853,7 +40756,6 @@ the LCD display.
 
 
 ### OCK057116L
-`kia_stinger_en_368f143e` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:363
 
 OCK057117L
 OCK057118L
@@ -41893,7 +40795,6 @@ wheel.
 
 
 ### OCK057122L
-`kia_stinger_en_927cf0a8` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:364
 
 OCK057124L
 5 115
@@ -41927,47 +40828,44 @@ mph (64 km/h) and over 110 mph
 (180 km/h).
 
 
-### WARNING
-`kia_stinger_en_02e83f96` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:365
-
-• The driver is responsible for
-accurate steering.
-• Even though the steering is
-assisted by the system, the
-driver may control the steering wheel.
-• Turn off the system and drive
-the vehicle in below situations.
-- In bad weather
-- In bad road condition
-- When the steering wheel
-needs to be controlled by the
-driver frequently.
-• The steering wheel may feel
-heavier when the steering
-wheel is assisted by the system than when it is not.
-Driving your vehicle
-116
-5
-• The steering will not be assisted
-when you change lanes fast.
-• The steering will not be assisted
-when you brake suddenly.
-• The steering will not be assisted
-when the lane is very wide or narrow.
-• The steering will not be assisted
-when only one side lane marker is
-detected.
-• There are more than two lane
-markers such as a construction
-area.
-• Radius of a curve is too small.
-• When you turn steering wheel suddenly, the LKA SYSTEM will be
-disabled temporarily.
-• Driving on a steep slope or hill.
+> ⚠️ **Внимание:** 
+> • The driver is responsible for
+> accurate steering.
+> • Even though the steering is
+> assisted by the system, the
+> driver may control the steering wheel.
+> • Turn off the system and drive
+> the vehicle in below situations.
+> - In bad weather
+> - In bad road condition
+> - When the steering wheel
+> needs to be controlled by the
+> driver frequently.
+> • The steering wheel may feel
+> heavier when the steering
+> wheel is assisted by the system than when it is not.
+> Driving your vehicle
+> 116
+> 5
+> • The steering will not be assisted
+> when you change lanes fast.
+> • The steering will not be assisted
+> when you brake suddenly.
+> • The steering will not be assisted
+> when the lane is very wide or narrow.
+> • The steering will not be assisted
+> when only one side lane marker is
+> detected.
+> • There are more than two lane
+> markers such as a construction
+> area.
+> • Radius of a curve is too small.
+> • When you turn steering wheel suddenly, the LKA SYSTEM will be
+> disabled temporarily.
+> • Driving on a steep slope or hill.
 
 
 ### DRIVER’S ATTENTION
-`kia_stinger_en_41b8bb5f` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:366
 
 The driver must be cautious in the
 below situations may not work
@@ -42051,22 +40949,19 @@ problem continues the LKA system
 fail indicator will illuminate.
 
 
-### WARNING
-`kia_stinger_en_1c88913d` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:367
-
-The
-Lane
-Keeping
-Assist
-System is a system to help prevent the driver from leaving the
-lane. However, the driver should
-not solely rely on the system
-but always take the necessary
-actions for safe driving practices.
+> ⚠️ **Внимание:** 
+> The
+> Lane
+> Keeping
+> Assist
+> System is a system to help prevent the driver from leaving the
+> lane. However, the driver should
+> not solely rely on the system
+> but always take the necessary
+> actions for safe driving practices.
 
 
 ### OCK057126L
-`kia_stinger_en_f7c4482a` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:367
 
 Driving your vehicle
 118
@@ -42093,7 +40988,6 @@ Kia dealer.
 
 
 ### LKA SYSTEM Function
-`kia_stinger_en_eafbf805` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:368
 
 Change
 The driver can change LKA to Lane
@@ -42119,7 +41013,6 @@ issues the lane departure warning.
 
 
 ### Standard LKA
-`kia_stinger_en_0f1be9a8` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:369
 
 The Standard LKA mode guides the
 driver to keep the vehicle within the
@@ -42132,7 +41025,6 @@ lanes.
 
 
 ### Active LKA
-`kia_stinger_en_9d825514` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:369
 
 The active LKA mode provides more
 frequent steering wheel control in
@@ -42186,7 +41078,6 @@ according to the relative speed.
 
 
 ### BLIND-SPOT COLLISION WARNING (BCW) (IF EQUIPPED)
-`kia_stinger_en_e353572f` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:370
 
 OYG056141L
 5 121
@@ -42213,7 +41104,6 @@ warning light will illuminate for 3 seconds on the outside rearview mirror.
 
 
 ### OCK057049N
-`kia_stinger_en_055f3775` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:371
 
 WARNING
 - BCW Limitations
@@ -42265,7 +41155,6 @@ stage alert will be deactivated.
 
 
 ### OUM054029
-`kia_stinger_en_739a7226` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:372
 
 2nd stage
 OUM054028
@@ -42316,7 +41205,6 @@ information to the driver.
 
 
 ### OCK057051L
-`kia_stinger_en_f24374a3` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:373
 
 OYG056140
 Driving your vehicle
@@ -42371,7 +41259,6 @@ your surroundings.
 
 
 ### OCK057048
-`kia_stinger_en_da18287c` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:374
 
 OYG056144L
 OCK057050
@@ -42393,85 +41280,82 @@ may not detect other vehicles.
 strong electromagnetic interference.
 
 
-### WARNING
-`kia_stinger_en_18051d8a` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:375
-
-• The
-Blind-Spot
-Collision
-Warning System and Rear
-Cross-Traffic
-Collision
-Warning is not a substitute for
-proper and safe lane changing procedures. Always drive
-safely and use caution when
-changing lanes. The BlindSpot
-Collision
-Warning
-System may not detect every
-object alongside the vehicle.
-(Continued)
-(Continued)
-• When the BCW system is
-being activated, The warning
-light on the outside rearview
-mirror will illuminate whenever a vehicle is detected at the
-rear side by the system. To
-avoid accidents, do not focus
-only on the warning light and
-neglect to see the surrounding of the vehicle.
-• Drive safely even though the
-vehicle is equipped with a BCW
-(Blind-Spot Collision Warning)
-system. Do not solely rely on
-the system but check for yourself before changing lanes.
-The system may not alert the
-driver in some conditions so
-always check the surroundings while driving.
-Driving your vehicle
-126
-5
-Warning message
-The message will appear to notify
-the driver if there are foreign substances on the surface or inside the
-rear bumper or it is hot near the rear
-bumper. The light on the switch and
-the system will be turned off automatically.
-Remove the foreign substance on
-the rear bumper.
-After the foreign substance is
-removed, if you drive for approximately 10 minutes, the system will
-work normally.
-If the system does not work normally
-even though the foreign substance,
-trailer or carrier, or other equipment
-is removed, take your vehicle to a
-professional workshop and have the
-system checked. Kia recommends to
-visit an authorized Kia dealer/service
-partner.
-It is possible to get the message with
-no foreign substance on the rear
-bumper, for example, when driving in
-sparse rural or open area, such as
-desert, where there is insufficient
-data for operation.
-This message may also activate during heavy rain or due to road spray.
-In this case, the vehicle does not
-need service.
-When the cargo area or other equipment is being used, turn all functions
-of the system [OFF].
-If the system does not work properly,
-a warning message will appear and
-the light on the switch will turn off.The
-system will turn off automatically.
-In this case, have the system
-checked by a professional workshop.
-Kia recommends to visit an authorized Kia dealer/ service partner.
+> ⚠️ **Внимание:** 
+> • The
+> Blind-Spot
+> Collision
+> Warning System and Rear
+> Cross-Traffic
+> Collision
+> Warning is not a substitute for
+> proper and safe lane changing procedures. Always drive
+> safely and use caution when
+> changing lanes. The BlindSpot
+> Collision
+> Warning
+> System may not detect every
+> object alongside the vehicle.
+> (Continued)
+> (Continued)
+> • When the BCW system is
+> being activated, The warning
+> light on the outside rearview
+> mirror will illuminate whenever a vehicle is detected at the
+> rear side by the system. To
+> avoid accidents, do not focus
+> only on the warning light and
+> neglect to see the surrounding of the vehicle.
+> • Drive safely even though the
+> vehicle is equipped with a BCW
+> (Blind-Spot Collision Warning)
+> system. Do not solely rely on
+> the system but check for yourself before changing lanes.
+> The system may not alert the
+> driver in some conditions so
+> always check the surroundings while driving.
+> Driving your vehicle
+> 126
+> 5
+> Warning message
+> The message will appear to notify
+> the driver if there are foreign substances on the surface or inside the
+> rear bumper or it is hot near the rear
+> bumper. The light on the switch and
+> the system will be turned off automatically.
+> Remove the foreign substance on
+> the rear bumper.
+> After the foreign substance is
+> removed, if you drive for approximately 10 minutes, the system will
+> work normally.
+> If the system does not work normally
+> even though the foreign substance,
+> trailer or carrier, or other equipment
+> is removed, take your vehicle to a
+> professional workshop and have the
+> system checked. Kia recommends to
+> visit an authorized Kia dealer/service
+> partner.
+> It is possible to get the message with
+> no foreign substance on the rear
+> bumper, for example, when driving in
+> sparse rural or open area, such as
+> desert, where there is insufficient
+> data for operation.
+> This message may also activate during heavy rain or due to road spray.
+> In this case, the vehicle does not
+> need service.
+> When the cargo area or other equipment is being used, turn all functions
+> of the system [OFF].
+> If the system does not work properly,
+> a warning message will appear and
+> the light on the switch will turn off.The
+> system will turn off automatically.
+> In this case, have the system
+> checked by a professional workshop.
+> Kia recommends to visit an authorized Kia dealer/ service partner.
 
 
 ### OCK057055L
-`kia_stinger_en_823d8188` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:376
 
 OCK057053L
 5 127
@@ -42610,7 +41494,6 @@ engine is re-started.
 
 
 ### DRIVER ATTENTION WARNING (DAW, IF EQUIPPED)
-`kia_stinger_en_91647409` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:379
 
 Driving your vehicle
 130
@@ -42644,7 +41527,6 @@ time is shorter than 10 minutes.
 
 
 ### OCK057137L
-`kia_stinger_en_1a624c50` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:380
 
 OCK057138L
 OCK057139L
@@ -42675,7 +41557,6 @@ detect the lanes.
 
 
 ### OCK057140L
-`kia_stinger_en_640fc718` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:381
 
 Driving your vehicle
 132
@@ -42717,7 +41598,6 @@ warning sounds
 
 
 ### OCK057141L
-`kia_stinger_en_2038bd48` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:382
 
 WARNING
 • The Driver Attention Warning
@@ -42849,7 +41729,6 @@ you're ready to go.
 
 
 ### ECONOMICAL OPERATION
-`kia_stinger_en_e663ed1b` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:384
 
 5 135
 Driving your vehicle
@@ -42949,7 +41828,6 @@ and result in an accident.
 
 
 ### WARNING - Sudden
-`kia_stinger_en_215f30d1` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:386
 
 Vehicle Movement
 Do not attempt to rock the vehicle if people or objects are nearby. The vehicle may suddenly
@@ -42978,7 +41856,6 @@ lights.
 
 
 ### CAUTION - Vehicle rocking
-`kia_stinger_en_a7c2eb6f` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:387
 
 Prolonged rocking may cause
 engine overheating, transmission damage or failure, and tire
@@ -42994,7 +41871,6 @@ may injure bystanders.
 
 
 ### OYG056065
-`kia_stinger_en_75d85a67` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:387
 
 Driving your vehicle
 138
@@ -43078,7 +41954,6 @@ result in overheating of the engine.
 
 
 ### WARNING - Under/over
-`kia_stinger_en_d1f6f1ec` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:389
 
 inflated tires
 Always check the tires for proper
@@ -43093,7 +41968,6 @@ For proper tire pressures, refer to
 
 
 ### WARNING - Tire tread
-`kia_stinger_en_ed448774` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:389
 
 Always check the tire tread
 before driving your vehicle.
@@ -43171,54 +42045,51 @@ standard tires. Otherwise, the
 safety and handling of your vehicle may be adversely affected.
 
 
-### WARNING
-`kia_stinger_en_12a77432` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:390
-
-Using summer tires at very cold
-temperatures
-could
-cause
-cracks on them to be formed
-and damage them permanently.
-5 141
-Driving your vehicle
-Tire chains
-Since the sidewalls on some radial
-tires are thinner than other types of
-tires, they may be damaged by
-mounting certain types of tire chains
-on them. Therefore, the use of snow
-tires is recommended instead of tire
-chains. Do not mount tire chains on
-vehicles equipped with aluminum
-wheels; if unavoidable, use AutoSock
-(fabric snow chain). Install the tire
-chain after reviewing the instructions
-provided with the tire chains.
-Damage to your vehicle caused by
-improper tire chain use is not covered by your vehicle manufacturer’s
-warranty.
-✽NOTICE
-• Install AutoSock (fabric snow
-chain) on the rear tires for 2WD
-vehicles or for AWD vehicles. It
-should be noted that installing
-AutoSock (fabric snow chain) on
-the tires will provide a greater
-driving force, but will not prevent
-side skids.
-• Do not install studded tires without first checking local and municipal regulations for
-possible
-restrictions against their use.
-✽NOTICE
-If you hear noise caused by chains
-contacting the body, retighten the
-chain to prevent contact with the
-vehicle body.
+> ⚠️ **Внимание:** 
+> Using summer tires at very cold
+> temperatures
+> could
+> cause
+> cracks on them to be formed
+> and damage them permanently.
+> 5 141
+> Driving your vehicle
+> Tire chains
+> Since the sidewalls on some radial
+> tires are thinner than other types of
+> tires, they may be damaged by
+> mounting certain types of tire chains
+> on them. Therefore, the use of snow
+> tires is recommended instead of tire
+> chains. Do not mount tire chains on
+> vehicles equipped with aluminum
+> wheels; if unavoidable, use AutoSock
+> (fabric snow chain). Install the tire
+> chain after reviewing the instructions
+> provided with the tire chains.
+> Damage to your vehicle caused by
+> improper tire chain use is not covered by your vehicle manufacturer’s
+> warranty.
+> ✽NOTICE
+> • Install AutoSock (fabric snow
+> chain) on the rear tires for 2WD
+> vehicles or for AWD vehicles. It
+> should be noted that installing
+> AutoSock (fabric snow chain) on
+> the tires will provide a greater
+> driving force, but will not prevent
+> side skids.
+> • Do not install studded tires without first checking local and municipal regulations for
+> possible
+> restrictions against their use.
+> ✽NOTICE
+> If you hear noise caused by chains
+> contacting the body, retighten the
+> chain to prevent contact with the
+> vehicle body.
 
 
 ### OCK057168
-`kia_stinger_en_87bef413` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:391
 
 CAUTION
 When using AutoSock (fabric
@@ -43234,7 +42105,6 @@ Driving your vehicle
 
 
 ### CAUTION - Snow chains
-`kia_stinger_en_229a8242` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:392
 
 • Chains that are the wrong size
 or improperly installed can
@@ -43378,7 +42248,6 @@ vehicle for trailer towing.
 
 
 ### TRAILER TOWING
-`kia_stinger_en_8c83612a` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:394
 
 5 145
 Driving your vehicle
@@ -43414,7 +42283,6 @@ the vehicle can carry.
 
 
 ### VEHICLE LOAD LIMIT
-`kia_stinger_en_88c24171` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:395
 
 OCK067038N
 OCK067039N
@@ -43464,7 +42332,6 @@ vehicle.
 
 
 ### WARNING - Loose cargo
-`kia_stinger_en_1fba60ba` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:396
 
 Do not travel with unsecured
 blunt objects in the passenger
@@ -43525,7 +42392,6 @@ Example 2
 
 
 ### C190F01JM
-`kia_stinger_en_6cac72e5` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:397
 
 Item
 Description
@@ -43585,7 +42451,6 @@ damage. Repairs would not be covered by your warranty. Do not overload your vehi
 
 
 ### OJFA055280
-`kia_stinger_en_18c735f8` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:398
 
 WARNING - Over loading
 Never exceed the GVWR for
@@ -43600,7 +42465,6 @@ and braking ability.
 
 
 ### WARNING - Over loading
-`kia_stinger_en_2b6524a2` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:398
 
 Do not overload your vehicle.
 Overloading your vehicle can
@@ -43654,7 +42518,6 @@ located on the driver’s door sill.
 
 
 ### VEHICLE WEIGHT
-`kia_stinger_en_2c856294` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:399
 
 What to do in an emergency
 Road warning . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6-2
@@ -43690,7 +42553,6 @@ What to do in an emergency
 
 
 ### ROAD WARNING
-`kia_stinger_en_2f1241d5` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:401
 
 Hazard warning flasher
 The hazard warning flasher serves
@@ -43717,7 +42579,6 @@ the vehicle is being towed.
 
 
 ### OCK067021
-`kia_stinger_en_d13f7c58` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:401
 
 6 3
 What to do in an emergency
@@ -43769,7 +42630,6 @@ at low power (limp home) condition.
 
 
 ### IN CASE OF AN EMERGENCY WHILE DRIVING
-`kia_stinger_en_767e3982` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:402
 
 What to do in an emergency
 4
@@ -43813,7 +42673,6 @@ What to do in an emergency
 
 
 ### EMERGENCY STARTING
-`kia_stinger_en_7adee61c` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:404
 
 Connect cables in numerical order
 and disconnect in reverse order.
@@ -43828,7 +42687,6 @@ competent technician or towing service jump start your vehicle.
 
 
 ### CAUTION - Push/pull start
-`kia_stinger_en_885994f2` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:404
 
 to 12 Volt Battery
 Use only a 12-volt jumper system. You can damage a 12-volt
@@ -43870,7 +42728,6 @@ or sparks.
 
 
 ### OCK067003
-`kia_stinger_en_e2056ea8` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:404
 
 What to do in an emergency
 6
@@ -43922,7 +42779,6 @@ vehicle can suddenly surge forward and could cause a collision with the tow vehi
 
 
 ### WARNING - Battery
-`kia_stinger_en_f83e24d3` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:405
 
 cables
 Do not connect the jumper cable
@@ -43940,7 +42796,6 @@ What to do in an emergency
 
 
 ### IF THE ENGINE OVERHEATS
-`kia_stinger_en_3b575483` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:406
 
 If your temperature gauge indicates
 overheating, you experience a loss
@@ -44010,7 +42865,6 @@ What to do in an emergency
 
 
 ### TIRE PRESSURE MONITORING SYSTEM (TPMS)
-`kia_stinger_en_68077dbf` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:407
 
 (1) Low tire pressure telltale/
 TPMS malfunction indicator
@@ -44047,7 +42901,6 @@ pressure gauge.
 
 
 ### OCK067005N
-`kia_stinger_en_2c227636` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:407
 
 OCK067025L
 6 9
@@ -44146,7 +42999,6 @@ your
 
 
 ### TPMS
-`kia_stinger_en_7883df6a` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:409
 
 is
 malfunctioning
@@ -44156,7 +43008,6 @@ tire pressure.
 
 
 ### WBH-11
-`kia_stinger_en_5c3ddc93` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:409
 
 OCK067025L
 ■Low tire pressure position information
@@ -44175,7 +43026,6 @@ the tire pressure is above the recommended tire inflation pressure.
 
 
 ### TPMS (Tire Pressure
-`kia_stinger_en_12885461` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:410
 
 Monitoring System)
 malfunction indicator
@@ -44221,7 +43071,6 @@ System
 
 
 ### WARNING - Low pressure
-`kia_stinger_en_a3481177` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:410
 
 damage
 Do not drive on low pressure
@@ -44293,7 +43142,6 @@ less than 1 mile (1.6 km) during that
 
 
 ### CAUTION - Repair Agents
-`kia_stinger_en_f20cb991` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:411
 
 Never use a puncture-repairing
 agent not approved by Kia to
@@ -44348,7 +43196,6 @@ What to do in an emergency
 
 
 ### IF YOU HAVE A FLAT TIRE
-`kia_stinger_en_e07afa08` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:413
 
 Jack and tools
 The jack and wheel lug nut wrench
@@ -44385,7 +43232,6 @@ raised with the jack.
 
 
 ### WARNING - Changing
-`kia_stinger_en_8c1e80a0` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:413
 
 tires
 Never attempt vehicle repairs in
@@ -44405,7 +43251,6 @@ stands.
 
 
 ### WARNING - Running vehi-
-`kia_stinger_en_65a35698` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:413
 
 cle on jack
 Do not start or run the engine of
@@ -44435,7 +43280,6 @@ jack handle.
 
 
 ### OCK067033N
-`kia_stinger_en_019744c0` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:414
 
 OCK067034N
 WARNING - Touching luggage room floor surface
@@ -44451,7 +43295,6 @@ from the luggage room.
 
 
 ### OCK077103N
-`kia_stinger_en_6c1ed277` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:414
 
 What to do in an emergency
 16
@@ -44470,7 +43313,6 @@ from the jack position.
 
 
 ### 1JBA6504
-`kia_stinger_en_3fe0ebbd` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:415
 
 OED066033
 WARNING - Jack location
@@ -44483,7 +43325,6 @@ for jack support.
 
 
 ### WARNING - Changing a
-`kia_stinger_en_0b6aa87a` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:415
 
 tire
 • To prevent vehicle movement
@@ -44523,7 +43364,6 @@ movement or slippage.
 
 
 ### OCK067029L
-`kia_stinger_en_ac0683ae` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:416
 
 OCK067026L
 OCK067027L
@@ -44564,7 +43404,6 @@ wrench counterclockwise.
 
 
 ### WARNING - Installing a
-`kia_stinger_en_bea11f5a` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:417
 
 wheel
 Make sure the wheel makes
@@ -44620,7 +43459,6 @@ authorized Kia dealer.
 
 
 ### CAUTION - Reusing lug
-`kia_stinger_en_3d6882b0` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:418
 
 nuts
 Make certain during wheel
@@ -44639,7 +43477,6 @@ stud so that it must be replaced.
 
 
 ### OCK067030L
-`kia_stinger_en_3ba565c2` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:418
 
 What to do in an emergency
 20
@@ -44676,7 +43513,6 @@ the specified pressure, as necessary.
 
 
 ### WARNING - Spare tire
-`kia_stinger_en_5995574b` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:419
 
 The compact spare tire is for
 emergency use only. Do not
@@ -44690,7 +43526,6 @@ death.
 
 
 ### WARNING - Wheel studs
-`kia_stinger_en_16d5ac53` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:419
 
 If the studs are damaged, they
 may lose their ability to retain
@@ -44778,7 +43613,6 @@ address
 
 
 ### OHYK064001
-`kia_stinger_en_c8a43a01` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:421
 
 OHYK064005
 OHYK064002
@@ -44793,7 +43627,6 @@ What to do in an emergency
 
 
 ### TOWING
-`kia_stinger_en_16c314b5` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:422
 
 Towing service
 If emergency towing is necessary,
@@ -44819,7 +43652,6 @@ the system checked.
 
 
 ### OCK067013L
-`kia_stinger_en_496efd9f` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:422
 
 CAUTION
 The AWD vehicle should never
@@ -44839,7 +43671,6 @@ panels or through the wheels.
 
 
 ### WARNING - Side and
-`kia_stinger_en_100fade4` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:423
 
 curtain Air bag
 If your vehicle is equipped with
@@ -44862,7 +43693,6 @@ OCK067014
 
 
 ### OCK067015
-`kia_stinger_en_05c7861d` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:423
 
 CAUTION - Towing
 • Do not tow the vehicle backwards with the front wheels on
@@ -44905,7 +43735,6 @@ transaxle.
 
 
 ### OCK067017
-`kia_stinger_en_b9b7b45d` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:424
 
 OCK067019
 OCK067020
@@ -44952,42 +43781,39 @@ pull from the side or at a vertical
 angle. Always pull straight ahead.
 
 
-### CAUTION
-`kia_stinger_en_c21db654` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:425
-
-Using a portion of the vehicle
-other than the tow hooks for
-towing may damage the body of
-your vehicle.
-6 27
-What to do in an emergency
-• Use a towing strap less than 16
-feet (5 m) long. Attach a white or
-red cloth (about 12 inches (30 cm)
-wide) in the middle of the strap for
-easy visibility.
-• Drive carefully so that the towing
-strap is not loosened during towing.
-Emergency towing precautions
-• Turn the Engine Start/Stop button
-to ACC position so the steering
-wheel isn’t locked.
-• Place the transaxle shift lever in N
-(Neutral).
-• Release the parking bake.
-• Press the brake pedal with more
-force than normal since you will
-have reduced brake performance.
-• More steering effort will be
-required because the power steering system will be disabled.
-• If you are driving down a long hill,
-the brakes may overheat and brake
-performance will be reduced. Stop
-often and let the brakes cool off.
+> ⚠️ **Внимание:** 
+> Using a portion of the vehicle
+> other than the tow hooks for
+> towing may damage the body of
+> your vehicle.
+> 6 27
+> What to do in an emergency
+> • Use a towing strap less than 16
+> feet (5 m) long. Attach a white or
+> red cloth (about 12 inches (30 cm)
+> wide) in the middle of the strap for
+> easy visibility.
+> • Drive carefully so that the towing
+> strap is not loosened during towing.
+> Emergency towing precautions
+> • Turn the Engine Start/Stop button
+> to ACC position so the steering
+> wheel isn’t locked.
+> • Place the transaxle shift lever in N
+> (Neutral).
+> • Release the parking bake.
+> • Press the brake pedal with more
+> force than normal since you will
+> have reduced brake performance.
+> • More steering effort will be
+> required because the power steering system will be disabled.
+> • If you are driving down a long hill,
+> the brakes may overheat and brake
+> performance will be reduced. Stop
+> often and let the brakes cool off.
 
 
 ### WARNING - Emergency
-`kia_stinger_en_2a4aefff` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:426
 
 Towing Precautions
 Use extreme caution when towing the vehicle.
@@ -45016,7 +43842,6 @@ during towing.
 
 
 ### OYG066034
-`kia_stinger_en_26b7ff3c` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:426
 
 What to do in an emergency
 28
@@ -45032,7 +43857,6 @@ the steering and brakes.
 
 
 ### CAUTION - Automatic
-`kia_stinger_en_1b55d847` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:427
 
 transaxle
 • To avoid serious damage to
@@ -45144,7 +43968,6 @@ Maintenance
 
 
 ### ENGINE COMPARTMENT
-`kia_stinger_en_994d7327` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:430
 
 OCK077001/OCK077002
 ■THETA II 2.0L T-GDI Engine (Gasoline)
@@ -45165,7 +43988,6 @@ Maintenance
 
 
 ### MAINTENANCE SERVICES
-`kia_stinger_en_2cd98792` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:431
 
 You should exercise the utmost care
 to prevent damage to your vehicle
@@ -45255,7 +44077,6 @@ Kia dealer.
 
 
 ### WARNING - Maintenance
-`kia_stinger_en_5e4b8cae` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:432
 
 work
 Do not wear jewelry or loose
@@ -45280,7 +44101,6 @@ Maintenance
 
 
 ### WARNING - Touching
-`kia_stinger_en_a70d2972` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:433
 
 metal parts
 Do not touch metal parts
@@ -45295,7 +44115,6 @@ Maintenance
 
 
 ### OWNER MAINTENANCE
-`kia_stinger_en_7ce9a96f` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:434
 
 The following lists are vehicle checks
 and inspections that should be performed by the owner or an authorized Kia dealer at the frequencies
@@ -45341,7 +44160,6 @@ use is normal).
 
 
 ### WARNING - Hot coolant
-`kia_stinger_en_cd89cec4` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:434
 
 Be careful when checking your
 engine coolant level when the
@@ -45393,7 +44211,6 @@ Maintenance
 
 
 ### SCHEDULED MAINTENANCE SERVICE
-`kia_stinger_en_b124f0d4` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:436
 
 Follow the Normal Maintenance
 Schedule if the vehicle is usually
@@ -45491,7 +44308,6 @@ filter
 
 
 ### Theta II 2.0L T-GDI
-`kia_stinger_en_a0171500` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:437
 
 R
 Lambda II 3.3L T-GDI
@@ -45529,7 +44345,6 @@ Inspect every 60,000 miles (100,000 km) or 72 months
 
 
 ### MAINTENANCE
-`kia_stinger_en_3476f59f` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:437
 
 INTERVALS
 MAINTENANCE
@@ -45625,7 +44440,6 @@ I
 
 
 ### MAINTENANCE
-`kia_stinger_en_41592c32` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:438
 
 INTERVALS
 MAINTENANCE
@@ -45680,7 +44494,6 @@ air intake hose
 
 
 ### Theta II 2.0L T-GDI
-`kia_stinger_en_b924fe79` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:439
 
 I
 Lambda II 3.3L T-GDI
@@ -45710,7 +44523,6 @@ I
 
 
 ### With LSD
-`kia_stinger_en_7b285ae0` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:439
 
 -
 R
@@ -45732,7 +44544,6 @@ I
 
 
 ### MAINTENANCE
-`kia_stinger_en_4d77c3fb` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:439
 
 INTERVALS
 MAINTENANCE
@@ -45793,7 +44604,6 @@ I
 
 
 ### MAINTENANCE
-`kia_stinger_en_c971a9ed` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:440
 
 INTERVALS
 MAINTENANCE
@@ -45866,7 +44676,6 @@ More frequently
 
 
 ### C, D, E, F, G
-`kia_stinger_en_ac2ce5fa` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:441
 
 7 15
 Maintenance
@@ -45918,7 +44727,6 @@ More frequently
 
 
 ### C, E, G
-`kia_stinger_en_86f5971d` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:442
 
 Propeller shaft
 I
@@ -46024,109 +44832,106 @@ chafing, cracks, deterioration and
 any leakage. Replace any deteriorated or damaged parts immediately.
 
 
-### CAUTION
-`kia_stinger_en_6b4f57dd` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:444
-
-Use only specified automatic
-transaxle fluid.The use of a nonspecified fluid could result in a
-transaxle malfunction and failure. (Refer to "Recommended
-lubricants and capacities" in
-chapter 8.)
-Maintenance
-18
-7
-✽NOTICE - NHTSA Safety
-Corrosion Alert
-NHTSA has warned all vehicle owners of all brands that they must maintain their vehicles in a manner which
-will prevent brake hose and brake line
-failures due to corrosion when such
-vehicles are exposed to winter road
-salt and related chemicals. While serious corrosion conditions typically only
-manifest themselves as safety issues
-after 7 years of vehicle use, the corrosion process starts immediately and
-thus underbody cleaning maintenance
-must commence from your vehicle's
-first exposure to road salts and chemicals. NHTSA urges vehicle owners to
-take the following steps to prevent
-corrosion:
-(Continued)
-(Continued)
-1. Wash the undercarriage of your
-vehicle regularly throughout the
-winter and do a thorough washing
-in the spring to remove road salt
-and other de-icing chemicals.
-2. Monitor the brake system for
-signs of corrosion by having regular professional inspections and
-watching for signs of problems,
-including loss of brake fluid,
-unusual leaks and soft or spongy
-feel in the brake pedal.
-3. Replace the entire brake pipe
-assembly if you find severe corrosion that causes scaling or flaking
-of brake components.
-Brake fluid
-Check the brake fluid level in the
-brake fluid reservoir.The level should
-be between “MIN” and “MAX” marks
-on the side of the reservoir. Use only
-hydraulic brake fluid conforming to
-DOT 3 or DOT 4 specification.
-Parking brake
-Inspect the parking brake system
-including the parking brake pedal
-and cables.
-7 19
-Maintenance
-Brake discs, pads, calipers
-and rotors
-Check the pads for excessive wear,
-discs for run out and wear, and
-calipers for fluid leakage.
-Exhaust pipe and muffler
-Visually inspect the exhaust pipes,
-muffler and hangers for cracks, deterioration, or damage.
-Start the
-engine and listen carefully for any
-exhaust gas leakage. Tighten connections or replace parts as necessary.
-Suspension mounting bolts
-Check the suspension connections
-for looseness or damage. Retighten
-to the specified torque.
-Steering gear box, linkage &
-boots/lower arm ball joint
-With the vehicle stopped and engine
-off, check for excessive free-play in
-the steering wheel.
-Check the linkage for bends or damage. Check the dust boots and ball
-joints for deterioration, cracks, or
-damage. Replace any damaged
-parts.
-Drive shafts and boots
-Check the drive shafts, boots and
-clamps for cracks, deterioration, or
-damage. Replace any damaged
-parts and, if necessary, repack the
-grease.
-Air conditioning refrigerant
-Check the air conditioning lines and
-connections for leakage and damage.
-When checking engine oil, engine
-coolant, brake fluid, and washer fluid,
-always be sure to clean the area
-around any filler plug, drain plug, or
-dipstick before checking or draining
-any lubricant or fluid. This is especially important in dusty or sandy
-areas and when the vehicle is used
-on unpaved roads. Cleaning the plug
-and dipstick areas will prevent dirt
-and grit from entering the engine and
-other mechanisms that could be
-damaged.
+> ⚠️ **Внимание:** 
+> Use only specified automatic
+> transaxle fluid.The use of a nonspecified fluid could result in a
+> transaxle malfunction and failure. (Refer to "Recommended
+> lubricants and capacities" in
+> chapter 8.)
+> Maintenance
+> 18
+> 7
+> ✽NOTICE - NHTSA Safety
+> Corrosion Alert
+> NHTSA has warned all vehicle owners of all brands that they must maintain their vehicles in a manner which
+> will prevent brake hose and brake line
+> failures due to corrosion when such
+> vehicles are exposed to winter road
+> salt and related chemicals. While serious corrosion conditions typically only
+> manifest themselves as safety issues
+> after 7 years of vehicle use, the corrosion process starts immediately and
+> thus underbody cleaning maintenance
+> must commence from your vehicle's
+> first exposure to road salts and chemicals. NHTSA urges vehicle owners to
+> take the following steps to prevent
+> corrosion:
+> (Continued)
+> (Continued)
+> 1. Wash the undercarriage of your
+> vehicle regularly throughout the
+> winter and do a thorough washing
+> in the spring to remove road salt
+> and other de-icing chemicals.
+> 2. Monitor the brake system for
+> signs of corrosion by having regular professional inspections and
+> watching for signs of problems,
+> including loss of brake fluid,
+> unusual leaks and soft or spongy
+> feel in the brake pedal.
+> 3. Replace the entire brake pipe
+> assembly if you find severe corrosion that causes scaling or flaking
+> of brake components.
+> Brake fluid
+> Check the brake fluid level in the
+> brake fluid reservoir.The level should
+> be between “MIN” and “MAX” marks
+> on the side of the reservoir. Use only
+> hydraulic brake fluid conforming to
+> DOT 3 or DOT 4 specification.
+> Parking brake
+> Inspect the parking brake system
+> including the parking brake pedal
+> and cables.
+> 7 19
+> Maintenance
+> Brake discs, pads, calipers
+> and rotors
+> Check the pads for excessive wear,
+> discs for run out and wear, and
+> calipers for fluid leakage.
+> Exhaust pipe and muffler
+> Visually inspect the exhaust pipes,
+> muffler and hangers for cracks, deterioration, or damage.
+> Start the
+> engine and listen carefully for any
+> exhaust gas leakage. Tighten connections or replace parts as necessary.
+> Suspension mounting bolts
+> Check the suspension connections
+> for looseness or damage. Retighten
+> to the specified torque.
+> Steering gear box, linkage &
+> boots/lower arm ball joint
+> With the vehicle stopped and engine
+> off, check for excessive free-play in
+> the steering wheel.
+> Check the linkage for bends or damage. Check the dust boots and ball
+> joints for deterioration, cracks, or
+> damage. Replace any damaged
+> parts.
+> Drive shafts and boots
+> Check the drive shafts, boots and
+> clamps for cracks, deterioration, or
+> damage. Replace any damaged
+> parts and, if necessary, repack the
+> grease.
+> Air conditioning refrigerant
+> Check the air conditioning lines and
+> connections for leakage and damage.
+> When checking engine oil, engine
+> coolant, brake fluid, and washer fluid,
+> always be sure to clean the area
+> around any filler plug, drain plug, or
+> dipstick before checking or draining
+> any lubricant or fluid. This is especially important in dusty or sandy
+> areas and when the vehicle is used
+> on unpaved roads. Cleaning the plug
+> and dipstick areas will prevent dirt
+> and grit from entering the engine and
+> other mechanisms that could be
+> damaged.
 
 
 ### CHECKING FLUID LEVELS
-`kia_stinger_en_c22ca658` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:446
 
 Maintenance
 20
@@ -46148,7 +44953,6 @@ be between F and L.
 
 
 ### CAUTION - Replacing
-`kia_stinger_en_39977224` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:447
 
 engine oil
 Do not overfill the engine oil. It
@@ -46168,7 +44972,6 @@ Maintenance
 
 
 ### CALIFORNIA PROPO-
-`kia_stinger_en_30570cba` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:448
 
 SITION 65 WARNING
 Engine oil contains chemicals
@@ -46206,7 +45009,6 @@ Maintenance
 
 
 ### ENGINE COOLANT
-`kia_stinger_en_7561d053` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:449
 
 The high-pressure cooling system
 has a reservoir filled with year round
@@ -46237,24 +45039,21 @@ steam may still blow out under
 pressure, causing serious injury.
 
 
-### WARNING
-`kia_stinger_en_62ea7232` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:449
-
-Removing radiator
-cap
-Never attempt to remove the
-radiator cap while the engine is
-operating or hot.
-Doing so
-might lead to cooling system
-and engine damage and could
-result in serious personal injury
-from escaping hot coolant or
-steam.
+> ⚠️ **Внимание:** 
+> Removing radiator
+> cap
+> Never attempt to remove the
+> radiator cap while the engine is
+> operating or hot.
+> Doing so
+> might lead to cooling system
+> and engine damage and could
+> result in serious personal injury
+> from escaping hot coolant or
+> steam.
 
 
 ### CAUTION - Radiator cap
-`kia_stinger_en_127d7326` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:449
 
 Never attempt to remove the
 radiator cap while the engine is
@@ -46285,7 +45084,6 @@ straight In front.
 
 
 ### WARNING - Cooling fan
-`kia_stinger_en_0d92dbe5` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:450
 
 Use caution when
 working
@@ -46303,7 +45101,6 @@ the engine is not running.
 
 
 ### OCK077016
-`kia_stinger_en_23b477d1` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:450
 
 OQL075072
 ■Engine room front view
@@ -46335,7 +45132,6 @@ following table.
 
 
 ### OCK077018
-`kia_stinger_en_f3fa79c4` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:451
 
 ■Engine room rear view
 Ambient
@@ -46382,7 +45178,6 @@ as the generator.
 
 
 ### OCK077017
-`kia_stinger_en_ec19d6a8` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:452
 
 Maintenance
 26
@@ -46428,7 +45223,6 @@ disposed of properly.
 
 
 ### CAUTION - Brake fluid
-`kia_stinger_en_8b2ecacb` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:453
 
 Do not allow brake fluid to contact the vehicle's body paint, as
 paint damage will result.
@@ -46444,7 +45238,6 @@ brake system.
 
 
 ### OCK077019
-`kia_stinger_en_ee25074c` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:453
 
 7 27
 Maintenance
@@ -46490,7 +45283,6 @@ cause loss of vehicle control.
 
 
 ### OCK077020
-`kia_stinger_en_41c1ad6e` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:454
 
 Maintenance
 28
@@ -46509,7 +45301,6 @@ Stroke : 3 notch
 
 
 ### PARKING BRAKE
-`kia_stinger_en_68e7513e` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:455
 
 OYG056016
 7 29
@@ -46536,7 +45327,6 @@ OCK077023
 
 
 ### OCK077024
-`kia_stinger_en_226b227a` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:456
 
 ■Lambda II 3.3L T-GDI Engine (Gasoline)
 (Driver side)
@@ -46557,7 +45347,6 @@ Maintenance
 
 
 ### CLIMATE CONTROL AIR FILTER
-`kia_stinger_en_a8814d33` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:457
 
 Filter inspection
 The climate control air filter should
@@ -46577,7 +45366,6 @@ support strap (1).
 
 
 ### OCK077026
-`kia_stinger_en_e6204972` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:457
 
 OCK077027
 7 31
@@ -46595,7 +45383,6 @@ reduced.
 
 
 ### OCK077028
-`kia_stinger_en_eda596f0` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:458
 
 OCK077029
 Maintenance
@@ -46625,7 +45412,6 @@ blade could result in wiper malfunction and failure.
 
 
 ### 1JBA5122
-`kia_stinger_en_f8a2f6aa` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:459
 
 CAUTION - Wiper blades
 To prevent damage to the wiper
@@ -46669,7 +45455,6 @@ Maintenance
 
 
 ### BATTERY
-`kia_stinger_en_ad25b512` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:462
 
 Battery replacement
 The battery is in the luggage room.
@@ -46690,7 +45475,6 @@ used for an extended time, disconnect the battery cables.
 
 
 ### OCK077031
-`kia_stinger_en_b82be6b9` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:462
 
 WARNING
 - Touching luggage room
@@ -46741,7 +45525,6 @@ shock you.
 
 
 ### WARNING - Recharging
-`kia_stinger_en_56e9cb19` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:463
 
 Battery
 Never attempt to recharge the
@@ -46774,7 +45557,6 @@ corrosive
 
 
 ### SULFURIC
-`kia_stinger_en_6f965262` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:463
 
 ACID
 and
@@ -46837,7 +45619,6 @@ the positive battery terminal.
 
 
 ### CALIFORNIA PROPO-
-`kia_stinger_en_a78ce320` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:464
 
 SITION 65 WARNING
 Battery posts, terminals, and
@@ -46874,7 +45655,6 @@ Maintenance
 
 
 ### TIRES AND WHEELS
-`kia_stinger_en_9f572376` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:466
 
 Tire care
 For proper maintenance, safety, and
@@ -46900,30 +45680,27 @@ attached to the driver’s side center
 pillar.
 
 
-### WARNING
-`kia_stinger_en_dc28b0be` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:466
-
-- Checking the tire inflation
-pressure
-Inflate your tires consistent with
-the instructions provided in this
-manual.
-Regularly check the tire inflation pressure, and correct it as
-needed: at least twice a month
-and before a long trip.
-If you fail to observe this precaution, you may be driving on
-tires with incorrect tire pressures, a condition that may not
-only compromise your vehicle's
-driving stability, but also lead to
-tire damage and the risk of an
-accident.
-This risk is much higher on hot
-days and when driving for long
-periods at high speeds.
+> ⚠️ **Внимание:** 
+> - Checking the tire inflation
+> pressure
+> Inflate your tires consistent with
+> the instructions provided in this
+> manual.
+> Regularly check the tire inflation pressure, and correct it as
+> needed: at least twice a month
+> and before a long trip.
+> If you fail to observe this precaution, you may be driving on
+> tires with incorrect tire pressures, a condition that may not
+> only compromise your vehicle's
+> driving stability, but also lead to
+> tire damage and the risk of an
+> accident.
+> This risk is much higher on hot
+> days and when driving for long
+> periods at high speeds.
 
 
 ### OYG086001
-`kia_stinger_en_4faa6cf8` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:466
 
 Maintenance
 40
@@ -46985,7 +45762,6 @@ more than 1 mile (1.6 km).
 
 
 ### WARNING - Tire Inflation
-`kia_stinger_en_e75447da` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:467
 
 Overinflation or underinflation
 can reduce tire life, adversely
@@ -47078,7 +45854,6 @@ unusual handling characteristics.
 
 
 ### CAUTION - Wheel weight
-`kia_stinger_en_9e62ccb9` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:469
 
 Improper wheel weights can
 damage your vehicle's aluminum
@@ -47090,7 +45865,6 @@ OBH078040
 
 
 ### OBK079038
-`kia_stinger_en_e27d8272` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:469
 
 ■18inch tire
 ■19inch tire
@@ -47138,7 +45912,6 @@ tire wheel is not designed for mounting a regular size tire.
 
 
 ### OUM076204L
-`kia_stinger_en_36e569e4` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:470
 
 Maintenance
 44
@@ -47200,7 +45973,6 @@ poor vehicle control.
 
 
 ### OJF085008L
-`kia_stinger_en_12bcf69b` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:471
 
 7 45
 Maintenance
@@ -47290,7 +46062,6 @@ For example:
 
 
 ### DOT XXXX XXXX 1617 represents
-`kia_stinger_en_2cdfe3d2` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:473
 
 that the tire was produced in the 16th
 week of 2017.
@@ -47324,7 +46095,6 @@ For example:
 
 
 ### TREADWEAR 440
-`kia_stinger_en_53f8f17f` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:473
 
 TRACTION A
 TEMPERATURE A
@@ -47446,7 +46216,6 @@ GVWR: Gross Vehicle Weight Rating
 
 
 ### GAWR FRT: Gross Axle Weight
-`kia_stinger_en_47f3443b` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:476
 
 Rating for the Front Axle.
 GAWR RR:
@@ -47546,7 +46315,6 @@ remains.
 
 
 ### UTQGS:
-`kia_stinger_en_b1db4d7e` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:477
 
 Uniform
 Tire
@@ -47679,36 +46447,33 @@ be covered by the warranty.
 on the tire sidewall.
 
 
-### CAUTION
-`kia_stinger_en_04340ad4` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:480
-
-Because the sidewall of the low
-aspect ratio tire is shorter than
-the normal, the wheel and tire of
-the low aspect ratio tire is easier to be damaged. So, follow the
-instructions below.
-• When driving on a rough road
-or off road, drive cautiously
-because tires and wheels may
-be damaged. And after driving, inspect tires and wheels.
-• When passing over a pothole,
-speed bump, manhole, or curb
-stone, drive slowly so that the
-tires and wheels are not damaged.
-• If the tire is impacted, we recommend that you inspect the
-tire condition or contact an
-authorized Kia dealer.
-• To prevent damage to the tire,
-inspect the tire condition and
-pressure every 1,900 miles
-(3,000 km).
-Maintenance
-54
-7
+> ⚠️ **Внимание:** 
+> Because the sidewall of the low
+> aspect ratio tire is shorter than
+> the normal, the wheel and tire of
+> the low aspect ratio tire is easier to be damaged. So, follow the
+> instructions below.
+> • When driving on a rough road
+> or off road, drive cautiously
+> because tires and wheels may
+> be damaged. And after driving, inspect tires and wheels.
+> • When passing over a pothole,
+> speed bump, manhole, or curb
+> stone, drive slowly so that the
+> tires and wheels are not damaged.
+> • If the tire is impacted, we recommend that you inspect the
+> tire condition or contact an
+> authorized Kia dealer.
+> • To prevent damage to the tire,
+> inspect the tire condition and
+> pressure every 1,900 miles
+> (3,000 km).
+> Maintenance
+> 54
+> 7
 
 
 ### FUSES
-`kia_stinger_en_0d73acaa` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:481
 
 ❈Left side : Normal , Right side : Blown
 A vehicle’s electrical system is protected from electrical overload damage by fuses.
@@ -47736,7 +46501,6 @@ electric wiring to the vehicle.
 
 
 ### WARNING - Fuse replace-
-`kia_stinger_en_9883fc10` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:481
 
 ment
 • Never replace a fuse with anything but another fuse of the
@@ -47758,7 +46522,6 @@ system.
 
 
 ### OCK077071
-`kia_stinger_en_5e4a4a76` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:481
 
 ■Blade type
 ■Cartridge type
@@ -47782,93 +46545,86 @@ to do so can result in a vehicle
 fire.
 
 
-### CAUTION
-`kia_stinger_en_c1811b4a` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:482
-
-• When replacing a blown fuse
-or relay, make sure the new
-fuse or relay fits tightly into
-the clips. Failure to tightly
-install the fuse or relay may
-cause damage to the wiring
-and electric systems.
-• Do not remove fuses, relays
-and terminals fastened with
-bolts or nuts.The fuses, relays
-and terminals may not be fastened correctly which may
-cause vehicle damage.
+> ⚠️ **Внимание:** 
+> • When replacing a blown fuse
+> or relay, make sure the new
+> fuse or relay fits tightly into
+> the clips. Failure to tightly
+> install the fuse or relay may
+> cause damage to the wiring
+> and electric systems.
+> • Do not remove fuses, relays
+> and terminals fastened with
+> bolts or nuts.The fuses, relays
+> and terminals may not be fastened correctly which may
+> cause vehicle damage.
 
 
-### CAUTION
-`kia_stinger_en_c1811b4a` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:482
-
-• Do not input any other objects
-except fuses or relays into
-fuse/relay terminals such as a
-driver or wiring. It may cause
-contact failure and system
-malfunction.
-• Do not plug in screwdrivers or
-aftermarket wiring into the terminal originally designed for
-fuse and relays only. The electrical system and wiring of the
-vehicle interior may be damaged or burned due to contact
-failure.
-• If you directly connect the
-wire on the taillight or replace
-the bulb which is over the regulated capacity to install trailers etc., the inner junction
-block can get burned.
-Maintenance
-56
-7
-✽NOTICE - Remodeling
-Prohibited
-Do not rewire your vehicle in any
-way as doing so may affect the performance of several safety features
-in your vehicle.  Rewiring your vehicle may also void your warranty and
-cause you to be responsible for any
-subsequent vehicle damage which
-may result.
-✽NOTICE - Window tinting
-precaution
-Window tint(especially metallic
-film) might cause communication
-disorder or poor radio reception,
-and malfunction of the automatic
-lighting system due to excessive
-change of illumination inside the
-vehicle. The solution used might also
-flow into electric, electronic devices
-causing disorder and failure.
-Inner panel fuse replacement
-1. Turn the ignition switch and all
-other switches off.
-2. Open the fuse panel cover.
-If the switch is located in the “OFF”
-position, a caution indicator will be
-displayed in the cluster.
-
-CAUTION
-Visually inspect the battery cap
-to ensure it is securely closed.
-If the battery cap is not securely
-closed, moisture may enter the
-system and damage the electrical components.
+> ⚠️ **Внимание:** 
+> • Do not input any other objects
+> except fuses or relays into
+> fuse/relay terminals such as a
+> driver or wiring. It may cause
+> contact failure and system
+> malfunction.
+> • Do not plug in screwdrivers or
+> aftermarket wiring into the terminal originally designed for
+> fuse and relays only. The electrical system and wiring of the
+> vehicle interior may be damaged or burned due to contact
+> failure.
+> • If you directly connect the
+> wire on the taillight or replace
+> the bulb which is over the regulated capacity to install trailers etc., the inner junction
+> block can get burned.
+> Maintenance
+> 56
+> 7
+> ✽NOTICE - Remodeling
+> Prohibited
+> Do not rewire your vehicle in any
+> way as doing so may affect the performance of several safety features
+> in your vehicle.  Rewiring your vehicle may also void your warranty and
+> cause you to be responsible for any
+> subsequent vehicle damage which
+> may result.
+> ✽NOTICE - Window tinting
+> precaution
+> Window tint(especially metallic
+> film) might cause communication
+> disorder or poor radio reception,
+> and malfunction of the automatic
+> lighting system due to excessive
+> change of illumination inside the
+> vehicle. The solution used might also
+> flow into electric, electronic devices
+> causing disorder and failure.
+> Inner panel fuse replacement
+> 1. Turn the ignition switch and all
+> other switches off.
+> 2. Open the fuse panel cover.
+> If the switch is located in the “OFF”
+> position, a caution indicator will be
+> displayed in the cluster.
+>
+> CAUTION
+> Visually inspect the battery cap
+> to ensure it is securely closed.
+> If the battery cap is not securely
+> closed, moisture may enter the
+> system and damage the electrical components.
 
 
-### WARNING
-`kia_stinger_en_bd8e8928` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:483
-
-- Electrical wiring repairs
-All electrical repairs should be
-performed by authorized Kia
-dealerships using approved Kia
-parts. Using other wiring components, especially when retrofitting AVN or theft alarm system, remote engine control, car
-phone or radio may cause vehicle damage and increase the
-risk of a vehicle fire.
+> ⚠️ **Внимание:** 
+> - Electrical wiring repairs
+> All electrical repairs should be
+> performed by authorized Kia
+> dealerships using approved Kia
+> parts. Using other wiring components, especially when retrofitting AVN or theft alarm system, remote engine control, car
+> phone or radio may cause vehicle damage and increase the
+> risk of a vehicle fire.
 
 
 ### OCK077032
-`kia_stinger_en_4ecc1278` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:483
 
 7 57
 Maintenance
@@ -47918,7 +46674,6 @@ displayed in the cluster.
 
 
 ### OCK077033
-`kia_stinger_en_aa7c4b79` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:484
 
 OCK077034
 Maintenance
@@ -47953,32 +46708,29 @@ in the clips. If it fits loosely, consult
 an authorized Kia dealer.
 
 
-### CAUTION
-`kia_stinger_en_ebb42f3c` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:485
-
-Always securely install the fuse
-panel cover in the engine compartment to protect against
-electrical failure which may
-occur
-from
-water
-contact.
-Listen for the audible clicking
-sound to ensure fuse panel
-cover is securely fastened.
-
-CAUTION - Fuse Panel
-Covers
-The contact points of the
-switches may wear out with
-excessive use. Please refrain
-from excessive use of the
-switches (except for long-term
-parking for over 1 month).
+> ⚠️ **Внимание:** 
+> Always securely install the fuse
+> panel cover in the engine compartment to protect against
+> electrical failure which may
+> occur
+> from
+> water
+> contact.
+> Listen for the audible clicking
+> sound to ensure fuse panel
+> cover is securely fastened.
+>
+> CAUTION - Fuse Panel
+> Covers
+> The contact points of the
+> switches may wear out with
+> excessive use. Please refrain
+> from excessive use of the
+> switches (except for long-term
+> parking for over 1 month).
 
 
 ### OCK077035
-`kia_stinger_en_0369caf8` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:485
 
 7 59
 Maintenance
@@ -48014,7 +46766,6 @@ the main fuse.
 
 
 ### OCK077037
-`kia_stinger_en_c2e4566c` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:486
 
 OCK077036
 Maintenance
@@ -48036,7 +46787,6 @@ Fuse/relay panel description
 
 
 ### OCK077040
-`kia_stinger_en_35188b9a` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:487
 
 ■Battery box fuse panel
 ■Rear fuse box panel
@@ -48071,7 +46821,6 @@ Low DC-DC Converter (Audio)
 
 
 ### AIR BAG
-`kia_stinger_en_98d2e1c9` | stinger | pdf_manual | tier:2 | lang:en | layer:interior | p:490
 
 15A
 SRS (Supplemental Restraint System) Control Module
@@ -48109,7 +46858,6 @@ IBU 3
 
 
 ### IBU (B+)
-`kia_stinger_en_0366529e` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:490
 
 Instrument panel (Driver’s side fuse panel)
 Maintenance
@@ -48169,7 +46917,6 @@ Front/Rear Seat Warmer Control Module
 
 
 ### MODULE 7
-`kia_stinger_en_01aec51b` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:492
 
 10A
 IBU, ECS Unit, AWD (All Wheel Drive) ECM (Electronic Control Module), Smart Cruise Control Module,
@@ -48188,7 +46935,6 @@ Data Link Connector, Console Switch (Upper), Mood Lamp Control Unit
 
 
 ### MODULE 5
-`kia_stinger_en_4bdb27b3` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:492
 
 10A
 Air Conditioner Control Module, Air Conditioner Switch, Audio, Head Lamp Left Handle side/Right
@@ -48261,7 +47007,6 @@ Alternator, Multi Fuse
 
 
 ### COOLING FAN 2
-`kia_stinger_en_baf4c1bf` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:495
 
 125A
 [BLDC (Brushless Direct Current) Motor] Cooling Fan Controller
@@ -48389,7 +47134,6 @@ IBU (Integrated Body Control Unit), ECM (Electronic Control Module)
 
 
 ### SENSOR 1
-`kia_stinger_en_c2ab0b91` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:497
 
 15A
 Rear Sub Junction Block (Fuel Pump Relay)
@@ -48416,7 +47160,6 @@ SENSOR 3
 
 
 ### SENSOR 2
-`kia_stinger_en_6b0027a1` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:498
 
 10A
 [THETA II 2.0L T-GDI Engine] Electronic Thermostat, Oil Control Valve, Purge Control Solenoid Valve,
@@ -48530,7 +47273,6 @@ Maintenance
 
 
 ### LIGHT BULBS
-`kia_stinger_en_3f51ce96` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:504
 
 Bulb replacement precaution
 Please keep extra bulbs on hand
@@ -48568,7 +47310,6 @@ dealer immediately.
 
 
 ### WARNING - Working on
-`kia_stinger_en_94bbdb37` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:504
 
 the lights
 Prior to working on the light,
@@ -48587,7 +47328,6 @@ or electric wiring system.
 
 
 ### CAUTION - Headlamp
-`kia_stinger_en_b38b7db6` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:504
 
 Lens
 To prevent damage, do not
@@ -48635,7 +47375,6 @@ lamp (LED type)
 
 
 ### OCK077096L
-`kia_stinger_en_bbaa1365` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:505
 
 OCK077097L
 ■Head lamp - Type B
@@ -48665,7 +47404,6 @@ OCK077051L
 
 
 ### OCK077098L
-`kia_stinger_en_8891a704` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:506
 
 ■Rear combination lamp - Type B
 OCK077099L
@@ -48708,7 +47446,6 @@ parts of the vehicle.
 
 
 ### OCK077100L
-`kia_stinger_en_758f727a` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:507
 
 ■Head lamp - Type B
 OCK077101L
@@ -48748,7 +47485,6 @@ authorized Kia dealer.
 
 
 ### OCK077074
-`kia_stinger_en_f586d39f` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:508
 
 ■Head lamp - Type A
 OCK077075
@@ -48775,7 +47511,6 @@ cleaner assembly.
 
 
 ### OQL075058
-`kia_stinger_en_1ea58a8f` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:509
 
 WARNING - Halogen
 bulbs
@@ -48787,7 +47522,6 @@ contact with liquids.
 
 
 ### OCK077077
-`kia_stinger_en_03bbb90e` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:509
 
 OCK077078
 7 83
@@ -48830,7 +47564,6 @@ the vehicle.
 
 
 ### OCK077053
-`kia_stinger_en_5b9a56d8` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:510
 
 OCK077079
 Maintenance
@@ -48867,7 +47600,6 @@ type) bulb replacement
 
 
 ### OCK077102L
-`kia_stinger_en_27303818` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:511
 
 OCK077087L
 OCK077080
@@ -48896,7 +47628,6 @@ it locks into place.
 
 
 ### OCK077056
-`kia_stinger_en_ae81c787` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:512
 
 OCK077081
 OCK077082
@@ -48925,7 +47656,6 @@ rear combination lamp of both side
 
 
 ### OCK077057
-`kia_stinger_en_ae50247e` | stinger | pdf_manual | tier:2 | lang:en | layer:brakes | p:513
 
 OCK077058
 OCK077059
@@ -48957,7 +47687,6 @@ assembly to the body of the vehicle.
 
 
 ### OCK077060
-`kia_stinger_en_a7526452` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:514
 
 Maintenance
 88
@@ -49001,7 +47730,6 @@ the vehicle.
 
 
 ### OCK077061
-`kia_stinger_en_fb521fbc` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:515
 
 OCK077062
 OCK077052
@@ -49045,7 +47773,6 @@ vehicle.
 
 
 ### OCK077065
-`kia_stinger_en_ba7c696e` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:516
 
 OCK077063
 OCK077064
@@ -49079,7 +47806,6 @@ the vehicle.
 
 
 ### OCK077066
-`kia_stinger_en_87c1a954` | stinger | pdf_manual | tier:2 | lang:en | layer:general | p:517
 
 OCK077067
 7 91
@@ -49161,7 +47887,6 @@ unit.
 
 
 ### CAUTION - Wet engine
-`kia_stinger_en_20078b17` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:519
 
 • Water washing in the engine
 compartment including high
@@ -49175,7 +47900,6 @@ this may damage them.
 
 
 ### OCK077070
-`kia_stinger_en_e4c6108c` | stinger | pdf_manual | tier:2 | lang:en | layer:chassis | p:519
 
 7 93
 Maintenance
@@ -49219,7 +47943,6 @@ chemicals.
 
 
 ### CAUTION - Drying vehicle
-`kia_stinger_en_024ed7b9` | stinger | pdf_manual | tier:2 | lang:en | layer:chassis | p:520
 
 • Wiping dust or dirt off the
 body with a dry cloth will
@@ -49439,7 +48162,6 @@ remove gradually.
 
 
 ### CAUTION - Electrical
-`kia_stinger_en_81eddb1a` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:524
 
 components
 Never allow water or other liquids to come in contact with
@@ -49449,7 +48171,6 @@ may damage them.
 
 
 ### CAUTION - Leather
-`kia_stinger_en_ba8f6630` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:524
 
 When cleaning leather products
 (steering wheel, seats etc.), use
@@ -49517,7 +48238,6 @@ Maintenance
 
 
 ### EMISSION CONTROL SYSTEM
-`kia_stinger_en_d594bf48` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:526
 
 The emission control system of your
 vehicle is covered by a written limited
@@ -49634,7 +48354,6 @@ immediately.
 
 
 ### WARNING - Exhaust
-`kia_stinger_en_ad81b863` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:527
 
 Engine exhaust gases contain
 carbon monoxide (CO). Though
@@ -49676,7 +48395,6 @@ are very hot and may burn you.
 
 
 ### WARNING - Fire
-`kia_stinger_en_f17f8aa2` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:528
 
 • Do not park, idle or drive the
 vehicle over or near flammable objects, such as grass,
@@ -49734,7 +48452,6 @@ of Regulations Chapter 67384.10
 
 
 ### CALIFORNIA
-`kia_stinger_en_3794b76e` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:529
 
 PERCHLORATE NOTICE
 Specifications, Consumer information and Reporting safety defects
@@ -49771,7 +48488,6 @@ Specifications, Consumer information, Reporting safety defects
 
 
 ### DIMENSIONS
-`kia_stinger_en_d72f3637` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:531
 
 ENGINE
 Item
@@ -49800,7 +48516,6 @@ Gasoline Engine
 
 
 ### Lambda 3.3 T-GDI
-`kia_stinger_en_b646e55e` | stinger | pdf_manual | tier:2 | lang:en | layer:lighting | p:531
 
 Theta II 2.0 T-GDI
 Displacement
@@ -49905,30 +48620,27 @@ TIRES AND WHEELS
 *4: It is applied to Lambda 3.3 T-GDI AWD vehicle.
 
 
-### CAUTION
-`kia_stinger_en_57a5e52f` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:533
-
-When replacing tires, use the same size originally supplied with the vehicle.
-Using tires of a different size can damage the related parts or make them work irregularly.
-Item
-Tire size
-Wheel size
-Load
-Capacity
-Speed
-capacity
-Inflation pressure [bar (psi, kPa)]
-Wheel lug
-nut torque
-ЛЗЖбН
-(МВЖбЖФ, NбН)
-Normal load *3
-Maximum load or Over
-100 MPH (160 km/h)
+> ⚠️ **Внимание:** 
+> When replacing tires, use the same size originally supplied with the vehicle.
+> Using tires of a different size can damage the related parts or make them work irregularly.
+> Item
+> Tire size
+> Wheel size
+> Load
+> Capacity
+> Speed
+> capacity
+> Inflation pressure [bar (psi, kPa)]
+> Wheel lug
+> nut torque
+> ЛЗЖбН
+> (МВЖбЖФ, NбН)
+> Normal load *3
+> Maximum load or Over
+> 100 MPH (160 km/h)
 
 
 ### LI *1
-`kia_stinger_en_71a58397` | stinger | pdf_manual | tier:2 | lang:en | layer:suspension | p:533
 
 Kg
 SS *2
@@ -50057,7 +48769,6 @@ oz. (g)
 
 
 ### FD46XG (IDEMITSU)
-`kia_stinger_en_c02b7721` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:535
 
 8 7
 Specifications, Consumer information, Reporting safety defects
@@ -50087,7 +48798,6 @@ Engine
 
 
 ### 2.0 T-GDI
-`kia_stinger_en_02a94912` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:536
 
 9.71 US qt. (9.2 l)
 GS ATF SP-IV-RR
@@ -50105,7 +48815,6 @@ for aluminum radiator)
 
 
 ### 3.3 T-GDI
-`kia_stinger_en_ac7fc7e0` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:536
 
 12.25 US qt. (11.6 l)
 Brake fluid
@@ -50141,7 +48850,6 @@ Front differential oil *3
 
 
 ### HYPOID GEAR OIL API GL-5 SAE 75W/85
-`kia_stinger_en_ebea2960` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:537
 
 (SK HK SYN GEAR OIL 75W85)
 Transfer oil
@@ -50200,7 +48908,6 @@ Engine Oil
 
 
 ### Lambda II
-`kia_stinger_en_0ff879db` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:538
 
 3.3 T-GDI *1
 Theta II 2.0
@@ -50221,7 +48928,6 @@ Specifications, Consumer information, Reporting safety defects
 
 
 ### VEHICLE IDENTIFICATION NUMBER (VIN)
-`kia_stinger_en_ace5f0f3` | stinger | pdf_manual | tier:2 | lang:en | layer:body | p:539
 
 The vehicle identification number
 (VIN) is the number used in registering your vehicle and in all legal matters pertaining to its ownership, etc.
@@ -50244,7 +48950,6 @@ number (VIN).
 
 
 ### VEHICLE CERTIFICATION
-`kia_stinger_en_93bd5f9f` | stinger | pdf_manual | tier:2 | lang:en | layer:engine | p:539
 
 LABEL
 OCK087001
@@ -50275,7 +48980,6 @@ OCK087003
 
 
 ### REFRIGERANT LABEL
-`kia_stinger_en_90bc8e69` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:540
 
 OCK087007L
 Specifications, Consumer information, Reporting safety defects
@@ -50320,7 +49024,6 @@ authorized Kia alternative service location.
 
 
 ### CONSUMER ASSISTANCE (U.S. ONLY)
-`kia_stinger_en_8d629fba` | stinger | pdf_manual | tier:2 | lang:en | layer:adas | p:541
 
 8 13
 Specifications, Consumer information, Reporting safety defects
@@ -50418,7 +49121,6 @@ Irvine, CA 92619-2410
 
 
 ### ELECTRICAL EQUIPMENT (U.S. ONLY)
-`kia_stinger_en_5806dcc0` | stinger | pdf_manual | tier:2 | lang:en | layer:ev_battery | p:544
 
 If you believe that your vehicle has a defect which could
 cause a crash or could cause injury or death, you should
@@ -50455,7 +49157,6 @@ procedures for the vehicle.
 
 
 ### REPORTING SAFETY DEFECTS
-`kia_stinger_en_5328442f` | stinger | pdf_manual | tier:2 | lang:en | layer:safety | p:545
 
 (U.S. ONLY)
 ONLINE FACTORY AUTHORIZED MANUALS
@@ -51162,4 +49863,3 @@ Windshield washers . . . . . . . . . . . . . . . . . . . . . . . . 4-124
 Windshield wipers . . . . . . . . . . . . . . . . . . . . . . . . . 4-122
 W
 V
-

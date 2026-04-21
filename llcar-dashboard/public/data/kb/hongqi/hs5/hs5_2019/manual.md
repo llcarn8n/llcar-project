@@ -1,8 +1,12 @@
-# Manual: hongqi/hs5 (965 chunks)
-<!-- doc_type:owners_manual tier:2 lang:en -->
+---
+brand: hongqi
+model: hs5
+generation: hs5_2019
+source: kb
+---
+
 
 ### Foreword
-`hongqi_hs5_en_1dbb863f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 Thank you for choosing Hongqi HS5!
 All FAW vehicle models have passed China Compulsion Certification (CCC Certification) and
 Gulf Cooperation Council Certification (GCC Certification).
@@ -22,26 +26,22 @@ First Automobile Works (FAW)
 1
 
 ### Search by illustration
-`hongqi_hs5_en_f9272adf` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:3 | doc_type:owners_manual
 1
 Safety Instructions
 One must read through the safety instructions.
 2
 
 ### Instrument Cluster
-`hongqi_hs5_en_908f9fcc` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:3 | doc_type:owners_manual
 How to read instruments, various alarm lights and
 indicators, etc.
 3
 
 ### Operating the Components
-`hongqi_hs5_en_2dbcc509` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:3 | doc_type:owners_manual
 The opening/closing of windows and doors, adjustments
 before driving, etc.
 4
 
 ### Required operations and advice while driving
-`hongqi_hs5_en_f9c15d04` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:3 | doc_type:owners_manual
 5
 Audio System
 Audio system operation
@@ -51,7 +51,6 @@ Usage of interior equipment, etc.
 7
 
 ### Steps of vehicle maintenance
-`hongqi_hs5_en_1437a0a8` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:3 | doc_type:owners_manual
 8
 When Failure Arises
 Measures for failures or emergencies
@@ -59,13 +58,11 @@ Measures for failures or emergencies
 Vehicle specification:
 
 ### List the abbreviations contained in this manual
-`hongqi_hs5_en_0301031e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:3 | doc_type:owners_manual
 10  Additional information
 Additional information on sales to other countries and regions
 except for the mainland of China
 
 ### Driving
-`hongqi_hs5_en_864b3f56` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:4 | doc_type:owners_manual
 4-1. Before Driving
 4-2. Driving regulations
 3
@@ -80,7 +77,6 @@ except for the mainland of China
 9
 
 ### Contents
-`hongqi_hs5_en_620fb815` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:6 | doc_type:owners_manual
 Index
 4
 5-6. Bluetooth Music
@@ -93,21 +89,14 @@ Index
 5-13. Hongqi Smart Connect
 6
 
-### 9. Specifications
-`hongqi_hs5_en_8ae76389` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:7 | doc_type:owners_manual
-
-### Other information
-`hongqi_hs5_en_324b96d4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:7 | doc_type:owners_manual
 
 ### Additional information
-`hongqi_hs5_en_89def173` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:7 | doc_type:owners_manual
 10
 Additional information on sales to other
 countries and regions except for the mainland
 6
 
 ### Engine compartment
-`hongqi_hs5_en_5828d709` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:8 | doc_type:owners_manual
 cover
 Front windshield wipers
 Sunroof
@@ -115,7 +104,6 @@ Exterior rear
 mirror
 
 ### Side turn
-`hongqi_hs5_en_7a443ebc` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:8 | doc_type:owners_manual
 signal lamp
 Front Turn
 signal
@@ -124,7 +112,6 @@ Front Fog
 Lamp
 
 ### Day and night
-`hongqi_hs5_en_578c408f` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:8 | doc_type:owners_manual
 driving lights
 Front position
 lamp
@@ -132,14 +119,12 @@ Towing eye cover
 7
 
 ### Rear position lamp
-`hongqi_hs5_en_bbacf247` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:9 | doc_type:owners_manual
 High-level brake lamp
 Rear windshield
 Wipers
 Trunk lid
 
 ### License plate l
-`hongqi_hs5_en_490f8099` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:9 | doc_type:owners_manual
 amp
 Rear fog lamp
 Filler cap
@@ -150,7 +135,6 @@ Transpos
 ition
 
 ### Turn back
-`hongqi_hs5_en_bcdb9140` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:9 | doc_type:owners_manual
 signal
 Trunk lid, electric
 Close button
@@ -158,7 +142,6 @@ Close button
 Pictorial Index
 
 ### Front head
-`hongqi_hs5_en_45e20020` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:10 | doc_type:owners_manual
 restraint
 Front seat
 Front cup holder
@@ -166,7 +149,6 @@ Glove box
 Front passenger airbag
 
 ### Front seat center storage
-`hongqi_hs5_en_0d7ac1ca` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:10 | doc_type:owners_manual
 compartment
 9
 Central door lock
@@ -175,7 +157,6 @@ Exterior rearview mirror
 adjusting button
 
 ### Bottleholder and side pocket
-`hongqi_hs5_en_be446932` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:11 | doc_type:owners_manual
 10
 Pictorial Index
 Interior
@@ -185,7 +166,6 @@ Front map
 lamp
 
 ### Front map lamp
-`hongqi_hs5_en_b2b373ad` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:12 | doc_type:owners_manual
 switch
 Electric sunshade
 curtain switch
@@ -193,7 +173,6 @@ Roof grab
 handle
 
 ### Vanity
-`hongqi_hs5_en_86eefa8d` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:12 | doc_type:owners_manual
 mirror lamp
 Sun visor
 SOS switch
@@ -205,7 +184,6 @@ view mirrors
 11
 
 ### Combination instrument
-`hongqi_hs5_en_68540a9b` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:13 | doc_type:owners_manual
 display
 Headlamp
 Turn lamp
@@ -213,7 +191,6 @@ Fog lamp
 Wiper control lever
 
 ### Hazard warning lamp
-`hongqi_hs5_en_981275ef` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:13 | doc_type:owners_manual
 switch
 Steering wheel
 adjustment
@@ -223,7 +200,6 @@ electric adjustment
 button
 
 ### Constant speed
-`hongqi_hs5_en_661bb862` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:13 | doc_type:owners_manual
 cruise
 Adaptive cruise
 control
@@ -232,7 +208,6 @@ Lamp control lever
 12
 
 ### Forced defrosting of
-`hongqi_hs5_en_6d357eab` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:14 | doc_type:owners_manual
 windshield
 /Defrost (defrost)
 button
@@ -241,27 +216,23 @@ Driver side
 temperature display
 
 ### Driver side
-`hongqi_hs5_en_f3c1c353` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:14 | doc_type:owners_manual
 temperature setting
 button
 OFF button
 Idling Start-Stop Off button
 
 ### Blind spot detection close button
-`hongqi_hs5_en_82328687` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:14 | doc_type:owners_manual
 Radar/image switch button
 LDW/LKA switch button
 Air volume decrease
 button
 
 ### Front passenger side
-`hongqi_hs5_en_099ae8ca` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:14 | doc_type:owners_manual
 temperature setting key
 Front passenger side
 temperature display
 
 ### Air volume increase
-`hongqi_hs5_en_6b6380bb` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:14 | doc_type:owners_manual
 button
 Windshield heating button
 Internal / external circulation
@@ -269,7 +240,6 @@ button
 13
 
 ### Automatic
-`hongqi_hs5_en_55b1ea91` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:15 | doc_type:owners_manual
 parking
 button
 Electronic parking brake
@@ -282,34 +252,29 @@ Driver's seat
 ventilation key
 
 ### Front passenger side
-`hongqi_hs5_en_c668e301` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:15 | doc_type:owners_manual
 seat ventilating button
 14
 Pictorial Index
 Instrument Panel
 
 ### Call answer key
-`hongqi_hs5_en_4956e4cb` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:16 | doc_type:owners_manual
 Volume adjustment/mute
 button
 Voice recognition
 button
 
 ### Combination instrument
-`hongqi_hs5_en_625ec6f3` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:16 | doc_type:owners_manual
 display operation button
 15
 Heads up display setting button
 
 ### Left lower panel glove box
-`hongqi_hs5_en_c5b0e44e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:17 | doc_type:owners_manual
 16
 Pictorial Index
 Rear of the Vehicle
 Rear central armrest
 
 ### Rear power window switch
-`hongqi_hs5_en_8dcd051e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:18 | doc_type:owners_manual
 17
 For Your Information
 Instructions for the User’s Manual
@@ -336,14 +301,12 @@ vehicle's maneuverability, safety and durability, and may even violate local gov
 any problems caused by the modification are not covered under warranty.
 
 ### Read the vehicle identification number
-`hongqi_hs5_en_ddcc2671` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:19 | doc_type:owners_manual
 Use the diagnostic instrument to connect to the vehicle OBD port. When the ECU information is being read,
 you can read the vehicle VIN code. Reading tools are available on the market and must conform to IS014229,
 IS015765, ISO15031 and IS011898 standards.
 18
 
 ### Install the RF Transmitter System
-`hongqi_hs5_en_cd8c1878` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:20 | doc_type:owners_manual
 Installing a radio frequency transmitter system on the vehicle may affect electronic systems, such as:
 ● Anti-lock braking system
 ●Cruise control system
@@ -358,7 +321,6 @@ Excessive noise may occur when receiving radio frequency from other radio freque
 (RF transmitters).
 
 ### Vehicle Scrapping
-`hongqi_hs5_en_b1f8ce64` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:20 | doc_type:owners_manual
 Be sure to have the systems of the SRS airbag and seat belt pretensioner removed and disposed of by FAW
 authorized Hongqi dealers before you scrap the vehicle. The SRS airbag and seat belt pretensioner devices in
 the vehicle contain explosive chemicals. If the vehicle is scrapped with the airbags and seat belt pretensioners
@@ -366,13 +328,11 @@ intact, it may cause injury or fire, etc.
 19
 
 ### Vehicle Model Code
-`hongqi_hs5_en_f0ba6305` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:21 | doc_type:owners_manual
 This manual introduces the vehicle models CA6471  , CA6472HA6   , CA6471T  , CA6472HA6T.
 *1: Two-wheel drive vehicle.
 *2: Four-wheel drive vehicle.
 
 ### CAUTIONS
-`hongqi_hs5_en_d593e000` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:21 | doc_type:owners_manual
  Driving precautions
 The driver always drive soberly and defensively with full attention.
 ●Sober driving: do not drive the vehicle after drinking or taking drugs. Alcohol or some drugs will delay the
@@ -397,21 +357,17 @@ children.
 20
 
 ### CAUTIONS
-`hongqi_hs5_en_b5b34a5e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:22 | doc_type:owners_manual
 Introduce warning. Failure to follow instructions may result in serious personal injury or even death.
 
-### Caution
-`hongqi_hs5_en_f8487d4f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:22 | doc_type:owners_manual
-Explain precautions which, if not observed, may cause damages or failures in the vehicle or devices.
-Step 1 Indicates that operations or steps are performed in numerical order.
-Indicates actions (push, turn, press, etc.) for operating
-switches and other devices.
-Indicates results of operation (e.g., the lid is open).
-It means “Do not do this” or “Do not let this happen”.
-21
+> ⚠️ **Внимание:** Explain precautions which, if not observed, may cause damages or failures in the vehicle or devices.
+> Step 1 Indicates that operations or steps are performed in numerical order.
+> Indicates actions (push, turn, press, etc.) for operating
+> switches and other devices.
+> Indicates results of operation (e.g., the lid is open).
+> It means “Do not do this” or “Do not let this happen”.
+> 21
 
 ### Safe driving
-`hongqi_hs5_en_a8cae569` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:26 | doc_type:owners_manual
 24
 Adjust the seats, steering wheel and rear-view mirrors to the appropriate position before driving to
 ensure safety.
@@ -419,13 +375,11 @@ ensure safety.
 Sit back straight and lean against the seat back.
 
 ### Adjust the position of the seat backward to ensure that
-`hongqi_hs5_en_6a40783a` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:26 | doc_type:owners_manual
 the pedals can be easily depressed.
 Adjust the backrest of the seat so that you can easily
 operate all the control switches.
 
 ### Adjust the tilt of the steering wheel so that the airbag is
-`hongqi_hs5_en_46e00b52` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:26 | doc_type:owners_manual
 facing your chest.
 Adjust and lock the head restraint in place with the
 center of the head restraint flush with the top edge of the
@@ -439,7 +393,6 @@ vehicle.
 By properly adjusting the interior and exterior mirrors to ensure a good view of the rear situation.
 
 ### CAUTIONS
-`hongqi_hs5_en_cd5d7857` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:26 | doc_type:owners_manual
  Precautions when driving
 ● Do not adjust the driver's seat position during driving, otherwise the vehicle may be out of control.
 ● Do not place a back cushion between the body and the seat back, otherwise it is not conducive to
@@ -458,14 +411,12 @@ fingers may be pinched by the seat adjusting device.
 1-1. Safety Instructions
 
 ### Seat belt
-`hongqi_hs5_en_60506652` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:27 | doc_type:owners_manual
 25
 1
 Safety Instructions
 Before driving the vehicle, ensure that all occupants in the vehicle have fastened their seat belts.
 
 ### Correct use of the seat belts
-`hongqi_hs5_en_fbbe0a82` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:27 | doc_type:owners_manual
  Stretch the shoulder belt so that it crosses the shoulder,
 but should not touch the neck or slip off the shoulder.
  Cross the waist belt across the hip as low as possible.
@@ -474,19 +425,16 @@ the seat back.
  Do not twist the seat belt.
 
 ### Fasten the seatbelt
-`hongqi_hs5_en_0bb0ed84` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:27 | doc_type:owners_manual
 Insert the locking bolt into the buckle until a "click"
 sound is heard.
 
 ### Loosen the seatbelt
-`hongqi_hs5_en_3f25b52c` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:27 | doc_type:owners_manual
 Press the release button.
 Caution
 If the driver or passenger does not wear the seat belt, the instrument cluster will give an alarm when the
 vehicle reaches a certain speed.
 
 ### Release button
-`hongqi_hs5_en_0bc9aabf` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:27 | doc_type:owners_manual
 1-1. Safety Instructions
 26
 Adjust the seat belt height (front seats)
@@ -494,12 +442,10 @@ Up
 Down
 
 ### Press and hold the adjusting button and move the
-`hongqi_hs5_en_0c82a8af` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:28 | doc_type:owners_manual
 height adjuster up and down as needed until you hear a
 "click".
 
 ### Loosen the seatbelt
-`hongqi_hs5_en_6b80a936` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:28 | doc_type:owners_manual
 Press the release button.
 Seat belt pretensioners (only for front seats)
 If the vehicle suffers from some serious frontal impact,
@@ -510,7 +456,6 @@ However, the pretensioner will not be activated during
 minor frontal, side or rear-end collision.
 
 ### Press the button for
-`hongqi_hs5_en_49503d97` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:28 | doc_type:owners_manual
 adjustment
 Release
 button
@@ -519,7 +464,6 @@ button
 1
 
 ### Safety Instructions
-`hongqi_hs5_en_03af3ea6` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:29 | doc_type:owners_manual
  Emergency lockup retractor (ELR)
 In case of emergency braking or collision, the retractor will lock the seatbelt. if you lean forward too fast, it
 will also lock the seatbelt. Moving slowly and smoothly will extend the seatbelt and allow you to move
@@ -542,7 +486,6 @@ Qi dealer of China FAW for replacement or installation of seat belts.
 28
 
 ### CAUTIONS
-`hongqi_hs5_en_3efd3be1` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:30 | doc_type:owners_manual
 To reduce the risk of personal injury during emergency braking, emergency steering or accidents, please
 observe the following precautions, otherwise serious personal injury or even death may result.
  Fasten the seat belts
@@ -558,7 +501,6 @@ the occupant is seated upright against the seatback.
 the hips as low as possible, just like other occupants.
 
 ### The shoulder belt should be stretched diagonally across
-`hongqi_hs5_en_138e3cf9` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:30 | doc_type:owners_manual
 the shoulder and across the chest. Avoid wearing a seat
 belt on the raised abdomen.
 ● If the seat belt is not properly fastened, pregnant
@@ -575,7 +517,6 @@ If this happens and the buckle cannot be released, cut the seatbelt with scissor
 1
 
 ### CAUTIONS
-`hongqi_hs5_en_cabd8a89` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:31 | doc_type:owners_manual
 To reduce the possibility of personal injury during emergency braking or accident and avoid causing serious
 personal injury or even death, please observe the following precautions.
  Correctly wear the seat belt
@@ -614,7 +555,6 @@ injury to the passenger will increase when a collision occurs again.
 30
 
 ### CAUTIONS
-`hongqi_hs5_en_5e648185` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:32 | doc_type:owners_manual
  Damage and wear of seat belts
 ● Do not allow the door to grip the seat belt, locking tab or buckle, as this may damage the seat belt.
 ● The seat belt device must be inspected regularly. Inspect the seat belt components for cuts, wear and
@@ -629,13 +569,10 @@ no visible damage.
 an authorized Hong Qi dealer of China FAW for necessary repairs. Improper handling of the pretensioner
 may prevent it from operating properly, resulting in serious personal injury or even death.
 
-### Caution
-`hongqi_hs5_en_affc4c60` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
- Keep seat belts clean.
-If the seat belt is dirty, the seat belt may be difficult to retract, so please keep the seat belt clean. (See
+> ⚠️ **Внимание:**  Keep seat belts clean.
+> If the seat belt is dirty, the seat belt may be difficult to retract, so please keep the seat belt clean. (See
 
 ### P.306)
-`hongqi_hs5_en_03b91b1e` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
 1-1. Safety Instructions
 Airbag
 31
@@ -652,19 +589,16 @@ Driver seat airbag/Front passenger seat airbag
 Help protect the torso of the front seat passengers.
 
 ### Curtain airbag
-`hongqi_hs5_en_01b5d207` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:33 | doc_type:owners_manual
 Help protect the heads of the driver, front passenger and passengers in the side rear seats.
 1-1. Safety Instructions
 32
 
 ### Driver seat airbag
-`hongqi_hs5_en_fee61805` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:34 | doc_type:owners_manual
 Driver's airbag
 Airbag failure alarm light
 Airbag control unit
 
 ### Front passenger seat airbag
-`hongqi_hs5_en_8a86c528` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:34 | doc_type:owners_manual
 The main airbag system components are shown above.
 The airbag system triggers the airbag gas generator in the event of some severe frontal or side impact. The
 chemical reaction in the gas generator quickly makes the airbag filled up with non-toxic gas, so as to avoid
@@ -674,7 +608,6 @@ injury caused by secondary collision between the driver and car.
 1
 
 ### CAUTIONS
-`hongqi_hs5_en_c38e3f17` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:35 | doc_type:owners_manual
  Precautions for Airbags
 Observe the following precautions regarding the airbags.
 Otherwise, it may result in serious injury or even death.
@@ -708,7 +641,6 @@ Therefore, you must always fasten your seat belt.
 34
 
 ### CAUTIONS
-`hongqi_hs5_en_1eb53b30` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:36 | doc_type:owners_manual
  Precautions for Airbags
 ● The impact force of the driver's airbag deployment is quite large. If the driver is too close to the airbag, it
 may cause serious personal injury or even death. The front passenger seat should be as far away from the
@@ -736,7 +668,6 @@ B-pillar or C-pillar.
 1
 
 ### CAUTIONS
-`hongqi_hs5_en_b50d8ea5` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:37 | doc_type:owners_manual
 ■ Precautions for Airbags
 ● Do not kneel on the passenger seat facing the door or
 extend your head or hands out of the car.
@@ -754,7 +685,6 @@ ejected and cause serious injury or death.
 36
 
 ### CAUTIONS
-`hongqi_hs5_en_89ddc766` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:38 | doc_type:owners_manual
  Precautions for Airbags
 ●Do not use seat accessories that may cover the deployment area of the seat airbag. They may hinder the
 deployment of the airbag.
@@ -786,7 +716,6 @@ trim, A-pillar, B-pillar, C-pillar or roof cant rail.
 1
 
 ### Safety Instructions
-`hongqi_hs5_en_5de06a3c` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:39 | doc_type:owners_manual
  If the airbag deploys (inflated)
 ● The impact force of the airbag deployment is quite
 large, and the occupants are too close to the airbag, it
@@ -845,7 +774,6 @@ your vehicle.
 1
 
 ### Safety Instructions
-`hongqi_hs5_en_49eba8b2` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:41 | doc_type:owners_manual
 ● Rear-end collision
 ● side collision
 ● rolling over
@@ -880,7 +808,6 @@ front passenger's airbag.
 1
 
 ### Safety Instructions
-`hongqi_hs5_en_5b2e883f` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:43 | doc_type:owners_manual
 ● There are scratches, cracks or other damages on the
 seat surface equipped with seat airbag.
 ● There are scratches, cracks or other damages on the
@@ -889,7 +816,6 @@ B-pillar and C-pillar guard.
 1-1. Safety Instructions
 
 ### Child safety information
-`hongqi_hs5_en_d8453f68` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:44 | doc_type:owners_manual
 42
 Please observe the following precautions when there are children in the car.
 Children should use appropriate child protection devices until they have grown up to use seatbelts on
@@ -902,7 +828,6 @@ or accidentally operating the power window during driving.
 lid, seats, etc.
 
 ### CAUTIONS
-`hongqi_hs5_en_a54fcfed` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:44 | doc_type:owners_manual
  Do not allow the child to carry the vehicle key or leave the child along to play in the vehicle
 ● It is very dangerous for the child to play on the folded rear seats. Once the seat back is restored to its
 original position, children will be trapped in the enclosed trunk and not be able to leave. To avoid such
@@ -920,14 +845,12 @@ backs are locked.
 1-1. Safety Instructions
 
 ### Children restraint device
-`hongqi_hs5_en_e47aceee` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:45 | doc_type:owners_manual
 43
 1
 Safety Instructions
 FAW strongly recommends the use of child restraint device.
 
 ### Points to be remembered
-`hongqi_hs5_en_69f55044` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:45 | doc_type:owners_manual
 Studies have shown that installing a child restraint device on a rear seat is much safer than installing one to the
 front passenger seat.
  Please select the appropriate child protection device according to the child's weight and size.
@@ -936,7 +859,6 @@ General installation instructions are provided in this manual.
  China FAW recommends that you use child protection devices that comply with GB27887-2011.
 
 ### Types of children restraint devices
-`hongqi_hs5_en_a3a05fec` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:45 | doc_type:owners_manual
 According to GB27887-2011, child protection devices can be divided into the following 5 groups: group 0: <
 10 kg
 Group 0+: < 13 kg
@@ -946,12 +868,10 @@ Group III: 22 kg - 36 kg
 Information on the adaptability of different sitting positions to child restraint systems
 
 ### Mass group
-`hongqi_hs5_en_b55b8762` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:45 | doc_type:owners_manual
 Seating position (or other position)
 Assistant Driver seat
 
 ### Rear center seat
-`hongqi_hs5_en_2943b49a` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:45 | doc_type:owners_manual
 Group 0 : < 10 kg
 X
 Group 0+: < 13 kg
@@ -959,13 +879,11 @@ X
 Group I: 9 kg - 18 kg
 
 ### X
-`hongqi_hs5_en_256aa515` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:45 | doc_type:owners_manual
 Group II: 15 kg - 25 kg
 X
 Group III: 22 kg - 36 kg
 
 ### X
-`hongqi_hs5_en_256aa515` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:45 | doc_type:owners_manual
 The meaning of the letter in the above table:
 X: This seat position is not applicable to the restraint system for children in this mass group.
 1-1. Safety Instructions
@@ -975,7 +893,6 @@ The information in the table below shows the suitability of the child restraint 
 positions.
 
 ### X
-`hongqi_hs5_en_cac8e190` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:46 | doc_type:owners_manual
 Group 0 : < 10 kg
 E
 ISO/R1
@@ -984,7 +901,6 @@ IUF
 Group 0+: < 13 kg
 
 ### IUF
-`hongqi_hs5_en_27bcfc11` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:46 | doc_type:owners_manual
 Group I: 9 kg - 18 kg
 D
 ISO/R2
@@ -995,7 +911,6 @@ ISO/R3
 IUF
 
 ### IUF
-`hongqi_hs5_en_27bcfc11` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:46 | doc_type:owners_manual
 The meaning of the letter in the above table:
 IUF: Suitable for forward-facing child restraint systems of universal category approved for this mass group.
 IL: Applicable to ISOFIX child restraint systems of special category on the list. These restraint systems may
@@ -1007,7 +922,6 @@ size class.
 1
 
 ### Safety Instructions
-`hongqi_hs5_en_1afa710f` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:47 | doc_type:owners_manual
  When installing the child restraint device in the front passenger seat
 It is not recommended to install the child restraint device in the front passenger seat. When it is not avoidable,
 the following adjustments are necessary:
@@ -1022,7 +936,6 @@ seatbelt.
 46
 
 ### CAUTIONS
-`hongqi_hs5_en_ebfa836f` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:48 | doc_type:owners_manual
  Use the child restraint system
 ● If a child restraint system that is not suitable for this vehicle is used, it may not be possible to properly
 protect infants or children. This may lead to serious casualties (in case of emergency braking or accidents).
@@ -1064,7 +977,6 @@ driving. This can prevent the injury of passengers in case of emergency braking 
 1-1. Safety Instructions
 
 ### Install the child restraint device
-`hongqi_hs5_en_91fa0755` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:49 | doc_type:owners_manual
 47
 1
 Safety Instructions
@@ -1072,29 +984,24 @@ Follow the instruction manual provided by the manufacturer. Use ISOFIX rigid anc
 child restraint device to the seat. Attach the top tether strap when installing the child restraint device.
 
 ### Slightly increase the gap between seat
-`hongqi_hs5_en_a178b089` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:49 | doc_type:owners_manual
 cushion and seat back -
 Insert the buckle into the special fixing rod.
 
 ### If the head restraint hampers the correct installation of
-`hongqi_hs5_en_7e5330f2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:49 | doc_type:owners_manual
 the child restraint device, remove it before installing
 the child restraint device. (See P.94)
 
 ### If the child protection device is equipped with a top
-`hongqi_hs5_en_36dd01ee` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:49 | doc_type:owners_manual
 strap, the top strap should be fixed to the anchor
 support.
 
 ### Fix the child protection device with ISOFIX rigid
-`hongqi_hs5_en_b41ae3e2` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:49 | doc_type:owners_manual
 anchor.
 If the child protection device is interfered by the
 headrest and cannot be installed correctly, remove the
 headrest and install the child protection device. (see
 
 ### P.94)
-`hongqi_hs5_en_46505970` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:49 | doc_type:owners_manual
 Step
 1-1. Safety Instructions
 48
@@ -1103,7 +1010,6 @@ and tighten the top strap.
 Make sure the top tether strap is securely latched.
 
 ### CAUTIONS
-`hongqi_hs5_en_a3255718` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:50 | doc_type:owners_manual
  When installing a child protection device
 Observe the following precautions. Otherwise, it may result in serious hurt or even death.
 ● Tie the top strap firmly and make sure the seat belt is not twisted.
@@ -1124,7 +1030,6 @@ Step
 1
 
 ### CAUTIONS
-`hongqi_hs5_en_cf4a9336` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:51 | doc_type:owners_manual
  When installing a child protection devices
 Please follow the instructions provided with the child protection device. Fix the child protection device
 firmly in place. If the child protection device is not properly fixed in place, it may cause serious injury or
@@ -1146,12 +1051,10 @@ could occur.
 1-1. Safety Instructions
 
 ### Cautions on exhaust gas
-`hongqi_hs5_en_3e60b4cc` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:52 | doc_type:owners_manual
 50
 Exhaust gas contains substances harmful to the human body.
 
 ### CAUTIONS
-`hongqi_hs5_en_375a9c6b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:52 | doc_type:owners_manual
 The waste gas contains colorless and odorless harmful gas carbon monoxide (CO). Please observe the
 following precautions.
 Otherwise, the exhaust gas may enter the vehicle, causing dizziness and accidents, or may seriously endanger
@@ -1178,7 +1081,6 @@ Engine anti-theft system
 1
 
 ### Safety Instructions
-`hongqi_hs5_en_a70af1dc` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:53 | doc_type:owners_manual
 To prevent the vehicle from being stolen, the smart key and the card key have a built-in password chip.
 If the key is not registered in the computer in advance, the key cannot start the engine. Different
 vehicles have different information registered in the key.
@@ -1196,15 +1098,12 @@ vehicle
  If the engine cannot be started by using the correct method, the engine anti-theft system may fail.
 Please contact an authorized Hong Qi dealer of China FAW to check the vehicle for you.
 
-### Caution
-`hongqi_hs5_en_1935e1e0` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:53 | doc_type:owners_manual
- Ensure normal operation of the system
-Do not modify or disassemble the system. If it is modified or disassembled, there is no guarantee that the
-system will operate properly.
-1-2.Anti-Theft System
+> ⚠️ **Внимание:**  Ensure normal operation of the system
+> Do not modify or disassemble the system. If it is modified or disassembled, there is no guarantee that the
+> system will operate properly.
+> 1-2.Anti-Theft System
 
 ### Vehicle body immobilizer system
-`hongqi_hs5_en_bf836533` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:54 | doc_type:owners_manual
 52
 The body anti-theft system mainly monitors the status of four doors, hood and trunk lid. When the
 system detects that someone is forcing their way into the vehicle, it will give an alarm and flash the turn
@@ -1215,7 +1114,6 @@ close the doors, the trunk lid and the hood and lock all
 doors.
 
 ### Deactivating or stopping the alarm
-`hongqi_hs5_en_cad8b93c` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:54 | doc_type:owners_manual
 Implementany of the following operations:
 ● Use smart entry or wireless remote control to unlock doors or trunk lid.
 ● Start the engine (the alarm will be released or stopped after a few seconds).
@@ -1227,26 +1125,21 @@ and the sunroof are closed.
 Be sure to cancel the alarm system.
 The alarm may be triggered if the battery is recharged or replaced when the vehicle is locked.
 
-### Caution
-`hongqi_hs5_en_d0fac4ad` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:54 | doc_type:owners_manual
- Ensure normal operation of the system
-Do not modify or disassemble the system. If it is modified or disassembled, there is no guarantee that the
-system will operate properly.
-53
+> ⚠️ **Внимание:**  Ensure normal operation of the system
+> Do not modify or disassemble the system. If it is modified or disassembled, there is no guarantee that the
+> system will operate properly.
+> 53
 
 ### Combination instrument
-`hongqi_hs5_en_79590de5` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:56 | doc_type:owners_manual
 54
 Due to the different vehicle configurations, the contents displayed also vary.
 
 ### Engine tachometer
-`hongqi_hs5_en_7685be62` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:56 | doc_type:owners_manual
 Displays the revolutions per minute of the engine.
 Tip/alarm icons display area
 Shows the vehicle warning lamp and indicator lamp, etc.
 
 ### Speedometer
-`hongqi_hs5_en_a8949d72` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:56 | doc_type:owners_manual
 Displays the vehicle speed.
 Fuel gauge display area
 Displays the remaining fuel level.
@@ -1255,14 +1148,12 @@ Display gear, fuel consumption, vehicle speed, driving range, tire pressure info
 and prompt information, etc., while supporting the audio system for quick operation.
 
 ### Engine coolant temperature display area
-`hongqi_hs5_en_c3a3c9de` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:56 | doc_type:owners_manual
 Displays temperature of the engine coolant.
 Instantaneous vehicle speed
 Short-term average fuel
 consumption
 
 ### 2. Instrument Cluster
-`hongqi_hs5_en_e33eb28a` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:57 | doc_type:owners_manual
 55
 2
 Instrument Cluster
@@ -1272,7 +1163,6 @@ The interior backlight brightness can be adjusted in the vehicle settings of the
 The engine switch is placed in "IG-ON" mode.
 
 ### CAUTIONS
-`hongqi_hs5_en_675b3dce` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:57 | doc_type:owners_manual
  Prevent damage to the engine and its components
 ●The tachometer pointer in the red area indicates that the engine is approaching the maximum speed. Please
 control the speed.
@@ -1283,19 +1173,16 @@ For safety, please adjust the backlight brightness in the parking state. Do not 
 attention and hinder safe driving. Ignoring the road and traffic conditions will lead to accidents.
 
 ### Warning lamp
-`hongqi_hs5_en_7853a363` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:58 | doc_type:owners_manual
 56
 The warning light indicates the current status of the vehicle system or the possible faults of the
 corresponding system of the vehicle. (See P.348)
 
 ### Failure indicator for engine control
-`hongqi_hs5_en_1bd409cd` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:58 | doc_type:owners_manual
 system
 Engine exhaust gas monitoring system
 fault warning lamp
 
 ### Abnormal engine oil pressure warning
-`hongqi_hs5_en_bdac6a53` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:58 | doc_type:owners_manual
 lamp
 Airbag system fault warning lamp
 Seat belt reminder lamp
@@ -1303,7 +1190,6 @@ Transmission system/electronic shifting
 system fault warning lamp
 
 ### Engine
-`hongqi_hs5_en_c85e95d1` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:58 | doc_type:owners_manual
 immobilizer
 system
 fault
@@ -1311,20 +1197,17 @@ warning lamp
 Ignition switch fault warning lamp
 
 ### Electronic wiper system fault warning
-`hongqi_hs5_en_4cd8cf93` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:58 | doc_type:owners_manual
 lamp
 Bulb fault warning lamp
 Low level of cleaning fluid warning
 lamp
 
 ### Brake friction plate wear excessive
-`hongqi_hs5_en_64735987` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:58 | doc_type:owners_manual
 warning lamp
 EPS system fault warning lamp
 EPS system serious fault warning lamp
 
 ### AUTO HOLD system fault warning
-`hongqi_hs5_en_012832c1` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:58 | doc_type:owners_manual
 lamp
 Shock absorber system fault warning
 lamp
@@ -1332,7 +1215,6 @@ Constant speed cruise system fault
 warning lamp
 
 ### Electronic steering column system fault
-`hongqi_hs5_en_21a5b58a` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:58 | doc_type:owners_manual
 warning lamp
 2. Instrument Cluster
 57
@@ -1340,54 +1222,45 @@ warning lamp
 Instrument Cluster
 
 ### EPB system fault warning lamp
-`hongqi_hs5_en_d45b2cd2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:59 | doc_type:owners_manual
 Abnormal tire pressure/system fault
 warning lamp
 FCW system fault warning lamp
 
 ### AEB system fault warning lamp
-`hongqi_hs5_en_79c063a7` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:59 | doc_type:owners_manual
 LDW/LKA system fault warning lamp
 BSD system fault warning lamp
 
 ### Passive start system fault warning
-`hongqi_hs5_en_aab99c43` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:59 | doc_type:owners_manual
 lamp
 IFC advanced driver assistance system
 camera fault warning lamp
 
 ### TSR system fault warning lamp
-`hongqi_hs5_en_564c978f` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:59 | doc_type:owners_manual
 Automatic driving light / automatic
 wiper function fault warning lamp
 
 ### Seat memory function fault warning
-`hongqi_hs5_en_86a8dcde` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:59 | doc_type:owners_manual
 lamp
 Four-wheel system fault warning lamp
 Idle start-stop system fault warning
 lamp
 
 ### Headlight height automatic adjustment
-`hongqi_hs5_en_1eed8e18` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:59 | doc_type:owners_manual
 system fault warning indicator
 Driving mode selection system fault
 warning lamp
 
 ### SACC system steering assist failure
-`hongqi_hs5_en_6ff9662b` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:59 | doc_type:owners_manual
 indicator
 Note:
 If any of the lights does not turn on or off, the corresponding system may be faulty. Contact FAW
 authorized Hongqi dealer for vehicle check.
 
 ### Indicator lamp
-`hongqi_hs5_en_c088513c` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:60 | doc_type:owners_manual
 58
 The indicator light indicates the current operating status of each system of the vehicle.
 
 ### ESC system OFF indicator lamp
-`hongqi_hs5_en_fe55f255` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:60 | doc_type:owners_manual
 Idle
 start-stop
 system
@@ -1402,12 +1275,10 @@ Idle start-stop system OFF indicator
 lamp
 
 ### Sport mode indicator lamp
-`hongqi_hs5_en_9ce48010` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:60 | doc_type:owners_manual
 Off-road mode indicator lamp
 Snowfield mode indicator lamp
 
 ### Constant speed cruise ON indicator
-`hongqi_hs5_en_9f0f986b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:60 | doc_type:owners_manual
 lamp
 Constant
 speed
@@ -1417,7 +1288,6 @@ indicator lamp
 IHC system working indicator lamp
 
 ### Comfort
-`hongqi_hs5_en_6c567011` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:60 | doc_type:owners_manual
 Off-road
 Economy
 Sport
@@ -1427,7 +1297,6 @@ Snowfield
 2
 
 ### DSM system warning indicator lamp
-`hongqi_hs5_en_879c9b35` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 (minor abnormality)
 DSM system warning indicator lamp
 (serious abnormality)
@@ -1436,14 +1305,12 @@ LDW/LKA system working indicator
 lamp
 
 ### TSR
-`hongqi_hs5_en_0d970fc7` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:61 | doc_type:owners_manual
 system
 intelligent
 speed
 limit-Traffic identification light
 
 ### Active
-`hongqi_hs5_en_cf63ab73` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 speed
 limiting
 warning
@@ -1451,27 +1318,23 @@ indicator lamp
 HDC system ON indicator lamp
 
 ### HDC system working indicator lamp
-`hongqi_hs5_en_1e3bd6bf` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 In-car air quality (excellent) indicator
 In-car air quality (good) indicator
 In-car air quality (poor) indicator
 
 ### Outside ambient temperature display
-`hongqi_hs5_en_780c597b` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:61 | doc_type:owners_manual
 indicator
 ACC system ON indicator lamp
 SACC system steering assistance ON
 indicator lamp
 
 ### SACC system steering assist work
-`hongqi_hs5_en_731c4484` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:61 | doc_type:owners_manual
 indicator
 Unknown key indicator lamp
 Mobile phone left reminding indicator
 lamp
 
 ### Driving pattern unable to switch
-`hongqi_hs5_en_2621f15c` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:61 | doc_type:owners_manual
 indicator lamp
 2. Instrument Cluster
 Combination instrument multifunction display
@@ -1480,16 +1343,13 @@ The combination instrument multifunction display presents the driver with a vari
 audio navigation information.
 
 ### Multifunction display area
-`hongqi_hs5_en_ac6aa737` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:62 | doc_type:owners_manual
 Operate / view vehicle information, radio, music, phone, navigation assistance information, Himalayan online application, QQ
 music online application and other modules.
 
 ### Trip mileage display field
-`hongqi_hs5_en_15158052` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:62 | doc_type:owners_manual
 Display the trip mileage information, falling into A and B. Trip A and B can be switched by the mileage setting key. (see P.61)
 
 ### Driving mode display area
-`hongqi_hs5_en_66312002` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:62 | doc_type:owners_manual
 Display the current selected driving mode.
 Gear display area
 Displays the vehicle current gear position.
@@ -1497,12 +1357,10 @@ Idling on-off display field
 Display the idling on-off status indicator lamp.
 
 ### Total mileage display area
-`hongqi_hs5_en_d6dae0b7` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:62 | doc_type:owners_manual
 Displays the total mileage information.
 Instantaneous vehicle speed
 
 ### Instantaneous fuel
-`hongqi_hs5_en_cad12fd4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 consumption
 Comfort
 2. Instrument Cluster
@@ -1511,31 +1369,26 @@ Comfort
 Instrument Cluster
 
 ### Roller
-`hongqi_hs5_en_82c96731` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:63 | doc_type:owners_manual
 Rolling: rolling up and down will switch the selection
 item. Short pressing: confirm the selection.
 
 ### Return
-`hongqi_hs5_en_89fb2f05` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:63 | doc_type:owners_manual
 Short press to return to the previous interface.
 Menu button
 In the music and phone interfaces, short press to return
 to the menu interface.
 
 ### CAUTIONS
-`hongqi_hs5_en_fe1910f8` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:63 | doc_type:owners_manual
  During driving
 Take extra care when operating the instrument operating keys on the steering wheel to prevent accidents.
 Sub-mileage setting
 
 ### Short press the mileage setting button to switch the
-`hongqi_hs5_en_a01c23a2` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:63 | doc_type:owners_manual
 display of minute mileage A and minute mileage B on
 the meter, and long press to clear the currently displayed
 minute mileage.
 
 ### 2. Instrument Cluster
-`hongqi_hs5_en_e2529394` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:64 | doc_type:owners_manual
 62
 Multifunction display area
 By using the left and right buttons on the steering wheel, you can switch between the driving
@@ -1543,13 +1396,11 @@ information, radio, music, phone, navigation, warning information, driver assist
 Himalaya online, and QQ music.
 
 ### Multifunction display information area
-`hongqi_hs5_en_0f6e9322` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:64 | doc_type:owners_manual
 Note: if there is no warning message, driving auxiliary function is not active, Himalaya has no tone source
 output, QQ music has no tone source output, the corresponding module will be hidden in the navigation
 column.
 
 ### Displays the driving information
-`hongqi_hs5_en_e8d0b5d9` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:64 | doc_type:owners_manual
 Specific operation. (See P.63)
 Radio
 Displays the radio information
@@ -1557,14 +1408,12 @@ Specific operation. (See P.66)
 Music
 
 ### Displays the music information
-`hongqi_hs5_en_7891a0f8` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:64 | doc_type:owners_manual
 Specific operation. (See P.66)
 Phone
 Displays the phone information
 Specific operation. (See P.67)
 
 ### Instantaneous
-`hongqi_hs5_en_440f2dfa` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:64 | doc_type:owners_manual
 fuel
 i
 2. Instrument Cluster
@@ -1573,14 +1422,12 @@ i
 Instrument Cluster
 
 ### Displays the navigation information
-`hongqi_hs5_en_97cb02de` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:65 | doc_type:owners_manual
 Specific operation. (See P.68)
 Warning information
 Displays the warning information
 Specific operation. (See P.68)
 
 ### Displays the driver assistance information
-`hongqi_hs5_en_05eb1c71` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:65 | doc_type:owners_manual
 Specific operation. (See P.69)
 Himalaya online
 Displays the Himalaya online
@@ -1595,12 +1442,10 @@ consumption/driving range, tire pressure information,
  Short-term average fuel consumption/vehicle speed
 
 ### Long pressing the steering wheel roller or disconnecting
-`hongqi_hs5_en_abe7cd4b` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:65 | doc_type:owners_manual
 the battery can reset the instant average fuel
 consumption/vehicle speed information,
 
 ### Instantaneous fuel
-`hongqi_hs5_en_aa456caa` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:65 | doc_type:owners_manual
 consumption
 2. Instrument Cluster
 64
@@ -1610,14 +1455,12 @@ will be accumulated).
  Long-term average fuel consumption/vehicle speed
 
 ### Long pressing the steering wheel roller can reset the
-`hongqi_hs5_en_56c8a728` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:66 | doc_type:owners_manual
 average fuel consumption/vehicle speed information,
 Note: the average fuel consumption/vehicle speed means the average fuel consumption/vehicle speed after the
 last resetting.
  Instantaneous fuel consumption/driving range
 
 ### Display the instant fuel consumption and driving range
-`hongqi_hs5_en_569524d4` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:66 | doc_type:owners_manual
 of the vehicle under the current working conditions.
  Tire pressure information
 • When the tire pressure of one or more tires is
@@ -1636,7 +1479,6 @@ Long-term average fuel
 consumption
 
 ### Instantaneous fuel
-`hongqi_hs5_en_ce21bdbe` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:66 | doc_type:owners_manual
 consumption
 Driving range
 2. Instrument Cluster
@@ -1644,7 +1486,6 @@ Driving range
 2
 
 ### Instrument Cluster
-`hongqi_hs5_en_16641e9a` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:67 | doc_type:owners_manual
  Date
 Display the current date.
  4WD status information *
@@ -1652,7 +1493,6 @@ Display the current AWD status.
  Average fuel consumption charge/long - term average fuel consumption charge
 
 ### Display
-`hongqi_hs5_en_914a4a5d` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:67 | doc_type:owners_manual
 the
 average
 fuel
@@ -1664,13 +1504,11 @@ in the vehicle setting of audio system. (See P.227)
 Date
 
 ### Long term average fuel
-`hongqi_hs5_en_ee6038f2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:67 | doc_type:owners_manual
 consumption billing
 Average fuel consumption
 billing
 
 ### 2. Instrument Cluster
-`hongqi_hs5_en_7bc6d6b1` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:68 | doc_type:owners_manual
 66
  Acceleration timer
 Display and record the acceleration timer information.
@@ -1683,7 +1521,6 @@ If the radio is playing, the current play information will
 be displayed when the radio interface is accessed.
 
 ### Operate the steering wheel roller to search the active
-`hongqi_hs5_en_99a0a0b3` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:68 | doc_type:owners_manual
 stations up/down; operate the home key or menu key to
 return the radio operation
  Music
@@ -1692,7 +1529,6 @@ the list of favorite, local, USB1, USB2 and Bluetooth to
 play.
 
 ### Ode to the Hong Qi
-`hongqi_hs5_en_ee904efe` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:68 | doc_type:owners_manual
 Local
 click
 save
@@ -1705,7 +1541,6 @@ If the music is playing, the current play information will
 be displayed when the music interface is accessed.
 
 ### Operate the steering wheel roller to switch the tracks
-`hongqi_hs5_en_7448b40f` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:69 | doc_type:owners_manual
 up/down; operate the home key or menu key to return
 the music operation interface.
  Phone
@@ -1721,7 +1556,6 @@ mute the call.
 Track
 
 ### Call log
-`hongqi_hs5_en_df0b4199` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:69 | doc_type:owners_manual
 Li Bo
 Call from the
 home of Zhang
@@ -1745,13 +1579,11 @@ When the vehicle has alarm information, the alarm information will appear in the
 You can also view all the alarm information of the current vehicle through the alarm information interface.
 
 ### The steering wheel can be used to switch the current
-`hongqi_hs5_en_8b33bc02` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:70 | doc_type:owners_manual
 alarm information up and down.
 Call
 Engine control system failures!
 
 ### 2. Instrument Cluster
-`hongqi_hs5_en_197dee5c` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:71 | doc_type:owners_manual
 69
 2
 Instrument Cluster
@@ -1771,7 +1603,6 @@ multifunctional display area displays the QQ music
 online application interface.
 
 ### Social
-`hongqi_hs5_en_06bec2c9` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:71 | doc_type:owners_manual
 Security:
 Cancel
 social
@@ -1784,25 +1615,20 @@ The head-up display is linked with the instrument and the system to provide driv
 information on the windshield where the driver is facing.
 
 ### Navigation system display area
-`hongqi_hs5_en_925ad5d2` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:72 | doc_type:owners_manual
 Display the next intersection information under the current navigation traffic conditions.
 
 ### Entertainment system display area
-`hongqi_hs5_en_6325f24a` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:72 | doc_type:owners_manual
 Displays the currently playing radio, music, and phone information.
 
 ### Driver assistance system display area
-`hongqi_hs5_en_b3689300` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:72 | doc_type:owners_manual
 Displays cruise, front collision warning and lane keep assist information.
 
 ### Vehicle speed display area
-`hongqi_hs5_en_ae46727e` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:72 | doc_type:owners_manual
 Displays the current vehicle speed.
 Display area of speed limit alarm system
 Displays the current road speed limit information.
 
 ### 2. Instrument Cluster
-`hongqi_hs5_en_82e77044` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:73 | doc_type:owners_manual
 71
 2
 Instrument Cluster
@@ -1812,7 +1638,6 @@ Press the key to enable the head-up display: press it
 again to disable the head-up display.
 
 ### Adjust up
-`hongqi_hs5_en_c83afe6f` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:73 | doc_type:owners_manual
 Raise the heightof the head-up display image.
 Adjust down
 Turn down the height of the head-up display image.
@@ -1821,7 +1646,6 @@ You can set the brightness of the virtual image displayed by the head-up display
 the vehicle settings of the audio system. (See P.226)
 
 ### CAUTIONS
-`hongqi_hs5_en_14c062c6` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:73 | doc_type:owners_manual
  Before using the head-up display
 ● Check that the position and brightness of the head-up display image does not interfere with safe driving.
 Incorrect adjustment of the image’s position or brightness may obstruct the driver’s view and lead to an
@@ -1830,17 +1654,14 @@ accident, resulting in death or serious injury.
 ● Do not continuously look at the head-up display while driving as you may fail to see pedestrians, objects
 on the road, etc. ahead of the vehicle.
 
-### Caution
-`hongqi_hs5_en_fbf72a9f` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:73 | doc_type:owners_manual
- Prevent damage to components
-● Do not place any liquid near the head-up display. If the display gets wet, it may cause electrical problems.
-● Do not place anything on or stickers onto the head-up display. Otherwise, the indication of the head-up
-display may be interrupted.
-● Do not touch HUD projector inside or throw sharp edge object or similar object inside. Doing so could
-cause mechanical malfunctions.
+> ⚠️ **Внимание:**  Prevent damage to components
+> ● Do not place any liquid near the head-up display. If the display gets wet, it may cause electrical problems.
+> ● Do not place anything on or stickers onto the head-up display. Otherwise, the indication of the head-up
+> display may be interrupted.
+> ● Do not touch HUD projector inside or throw sharp edge object or similar object inside. Doing so could
+> cause mechanical malfunctions.
 
 ### 2. Instrument Cluster
-`hongqi_hs5_en_8868c747` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:74 | doc_type:owners_manual
 72
 73
 3.1. Key information
@@ -1863,7 +1684,6 @@ Clip
 (See P.83)
 
 ### Mechanical key
-`hongqi_hs5_en_b5a5be71` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:76 | doc_type:owners_manual
 Key number plate'
 Wireless remote control
 Unlock the doors by pressing the button, while open all
@@ -1874,7 +1694,6 @@ the windows and sunroof by pressing and holding the
 button*1
 
 ### Press and hold the button to unlock and open the trunk
-`hongqi_hs5_en_65748cd4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:76 | doc_type:owners_manual
 lid
 Short press to activate the vehicle seek function
 In the locked state of the vehicle, pressing the car
@@ -1887,14 +1706,12 @@ press the button again, the window or sunroof will stop moving.
 3
 
 ### Operating the Components
-`hongqi_hs5_en_06aad23f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:77 | doc_type:owners_manual
 Use the mechanical key.
 Take out the mechanical key as shown in the figure. Put
 the mechanical key in the card key after using it. Carry
 the mechanical key together with the card key.
 
 ### If the battery of smart key or card key is fully
-`hongqi_hs5_en_53728aa9` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:77 | doc_type:owners_manual
 discharged and cannot work normally, the mechanical
 key is required. (See P.364)
  When needing parking service
@@ -1926,33 +1743,30 @@ electrical equipment that generates the magnetic field as shown below.
 3.1. Information on the Key
 76
 
-### Caution
-`hongqi_hs5_en_befe8515` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:78 | doc_type:owners_manual
- Prevent key damage
-●Do not subject the key to violent collision or expose it to high temperature (e.g. direct sunlight) and humid
-environment.
-Do not wet the key or clean it in equipment such as ultrasonic cleaner.
-● Do not attach metal or magnetic substances to the key or place the key close to such substances
-● Do not disassemble the smart key or the card key.
-● Do not stick labels or other items on the surface of the key.
-● Do not place the key near objects that can generate magnetic fields, such as electronic medical equipment
-(e.g. low-frequency medical equipment) such as electricity display, sound system, induction cooker, etc.
- Carry the smart key or the card key with you
-● When carrying the key, it should be 10 cm or more away from the electrical equipment turned on. Radio
-waves emitted by electrical equipment within 10 cm from smart key may interfere with the key, resulting in
-the key not working properly.
- When the smart entry or the starting system fails or other key-related failure exists
-Please send the vehicle to an authorized Hong Qi dealer of FAW China and bring all the keys with you.
- When the key is lost
-If the key is lost, the risk of theft of the vehicle will obviously increase. Take all the other keys equipped with
-the vehicle to an authorized Hong Qi dealer of FAW China immediately.
-3.2. Opening, Closing and Locking the Doors and Trunk Lid
-Doors
-77
-3
+> ⚠️ **Внимание:**  Prevent key damage
+> ●Do not subject the key to violent collision or expose it to high temperature (e.g. direct sunlight) and humid
+> environment.
+> Do not wet the key or clean it in equipment such as ultrasonic cleaner.
+> ● Do not attach metal or magnetic substances to the key or place the key close to such substances
+> ● Do not disassemble the smart key or the card key.
+> ● Do not stick labels or other items on the surface of the key.
+> ● Do not place the key near objects that can generate magnetic fields, such as electronic medical equipment
+> (e.g. low-frequency medical equipment) such as electricity display, sound system, induction cooker, etc.
+>  Carry the smart key or the card key with you
+> ● When carrying the key, it should be 10 cm or more away from the electrical equipment turned on. Radio
+> waves emitted by electrical equipment within 10 cm from smart key may interfere with the key, resulting in
+> the key not working properly.
+>  When the smart entry or the starting system fails or other key-related failure exists
+> Please send the vehicle to an authorized Hong Qi dealer of FAW China and bring all the keys with you.
+>  When the key is lost
+> If the key is lost, the risk of theft of the vehicle will obviously increase. Take all the other keys equipped with
+> the vehicle to an authorized Hong Qi dealer of FAW China immediately.
+> 3.2. Opening, Closing and Locking the Doors and Trunk Lid
+> Doors
+> 77
+> 3
 
 ### Unlock and lock the door from the outside of the vehicle
-`hongqi_hs5_en_c7d4017b` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:79 | doc_type:owners_manual
  Smart entry
 As long as you carry a smart key or a card key, you can unlock and lock the doors through the smart access
 function.
@@ -1965,14 +1779,12 @@ Hold the driver ’s or front passenger ’s door handle to
 unlock the door,
 
 ### When the door is locked by touching the door handle
-`hongqi_hs5_en_2e18304d` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:79 | doc_type:owners_manual
 lock sensing area, the door cannot be passively
 unlocked within 4s, but the remote unlocking function is
 not affected.
  Wireless remote control
 
 ### Lock all doors
-`hongqi_hs5_en_e1cd28ce` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:79 | doc_type:owners_manual
 Unlock the driver door/all the doors
 For the unlock method setting, see P.224.
 3.2. Opening, Closing and Locking the Doors and Trunk Lid
@@ -1982,7 +1794,6 @@ Open the door keyhole cover using the mechanical key.
 Lock and unlock the vehicle using the mechanical key.
 
 ### Unlocking door
-`hongqi_hs5_en_80ecbe8a` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:80 | doc_type:owners_manual
  Operation signal
 All turn signals flash to indicate that the door has been locked/unlocked. (Locked: Once; Unlocked: Twice)
  Exhausted key
@@ -1992,12 +1803,10 @@ If the key battery runs out, replace it with a new one. (See P.334)
 3
 
 ### Unlock and lock the door from interior
-`hongqi_hs5_en_37d5c76e` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:81 | doc_type:owners_manual
 • The door can be unlocked and locked by the central door lock switch on the driver's door.
  Central control lock switch
 
 ### Unlock all doors
-`hongqi_hs5_en_32268617` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:81 | doc_type:owners_manual
 Note: When a door is not closed, the central control door lock switch can only be used to unlock but not to
 lock.
  Interior door handle
@@ -2006,13 +1815,11 @@ After locking the door, pull the inner handle once to
 unlock the door. Pull again to open the door.
 
 ### Child safety lock on the rear door
-`hongqi_hs5_en_7e80e404` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:81 | doc_type:owners_manual
 After setting the safety lock, the door cannot be opened
 from inside the car.
 Lock
 
 ### Setting a safety lock prevents children from opening
-`hongqi_hs5_en_279423a4` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:81 | doc_type:owners_manual
 the rear door in the car.
 3.2. Opening, Closing and Locking the Doors and Trunk Lid
 80
@@ -2023,7 +1830,6 @@ doors when the vehicle speed exceeds about 20 km/h.
 (See P.87)
 
 ### CAUTIONS
-`hongqi_hs5_en_c4abcaf6` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:82 | doc_type:owners_manual
  Prevent accidents
 The following precautions should be observed when driving the vehicle.
 Otherwise, the passenger in the vehicle can be thrown out of the vehicle due to the unintentionally opened
@@ -2053,7 +1859,6 @@ door, the door may open accidentally, thus causing an accident.
 3.2. Opening, Closing and Locking the Doors and Trunk Lid
 
 ### Trunk lid
-`hongqi_hs5_en_e5830c8d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
 81
 3
 Operating the Components
@@ -2061,14 +1866,12 @@ The trunk lid can be opened by using the trunk lid button, smart entry function 
 control function.
 
 ### Opening the trunk lid
-`hongqi_hs5_en_cccb2f7a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
  Open the trunk lid from the inside of the car
 When the vehicle is stationary, press the button on the
 trunk lid to unlock and open the trunk lid.
  Opening the trunk lid from the outside of vehicle
 
 ### When the vehicle is locked and the engine switch is
-`hongqi_hs5_en_fcd99c42` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:83 | doc_type:owners_manual
 placed in the "G-OFF" mode, take the smart key or card
 key with you, and press the open button on the trunk lid
 to unlock and open the trunk lid. When the vehicle is
@@ -2081,7 +1884,6 @@ open the trunk lid.
 82
 
 ### Closing the trunk lid
-`hongqi_hs5_en_b1ed2b2b` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:84 | doc_type:owners_manual
  Trunk lid OFF button *
 Press the trunk lid close button and the trunk lid is
 closed automatically.
@@ -2103,7 +1905,6 @@ of key left in the trunk will be triggered (the trunk will be opened automatical
 3
 
 ### CAUTIONS
-`hongqi_hs5_en_c6315d22` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:85 | doc_type:owners_manual
  When opening and closing the trunk lid, be careful to avoid being pinched by the trunk lid.
  Before driving
 ● Make sure the trunk lid is completely closed. If the trunk lid is not completely closed, it may accidentally
@@ -2130,7 +1931,6 @@ body.
 84
 
 ### CAUTIONS
-`hongqi_hs5_en_1de85bdf` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:86 | doc_type:owners_manual
  Use the trunk
 Observe the following precautions:
 Otherwise, it may pinch some part of the body and cause serious injury.
@@ -2145,7 +1945,6 @@ suddenly in strong winds.
 trunk to open and close suddenly.
 
 ### Opening or closing the trunk lid on a ramp is much
-`hongqi_hs5_en_57c2cd71` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:86 | doc_type:owners_manual
 more difficult than on a horizontal road surface, so be
 careful that the trunk lid may be accidentally closed
 during opening or accidentally opened during closing.
@@ -2159,7 +1958,6 @@ Passive entry & start system
 3
 
 ### Operating the Components
-`hongqi_hs5_en_9cb15ccc` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:87 | doc_type:owners_manual
 As long as you carry a smart key or card key with you, for example, in your pocket, you can perform the following
 operations. (The driver must always carry the key with him)
 Note: This picture only takes the smart key as an example.
@@ -2174,23 +1972,19 @@ A hemispherical area with a radius of about 1.2m (m)
 around the induction antenna.
 
 ### The smart key can lock or unlock the door when it is in
-`hongqi_hs5_en_684b6a89` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:88 | doc_type:owners_manual
 the range of the sensing area outside the vehicle.
 When starting the engine or changing the engine switch
 modes
 
 ### If the smart key is within the range of the sensing area
-`hongqi_hs5_en_009874db` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:88 | doc_type:owners_manual
 inside the vehicle, the engine can be started or the
 switch mode of the engine can be switched.
 
 ### If the smart key is within the sensing area outside the
-`hongqi_hs5_en_aed04798` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:88 | doc_type:owners_manual
 trunk, the trunk can be unlocked if the conditions are
 met.
 
 ### If the trunk is closing when the smart key is within the
-`hongqi_hs5_en_c1ca962d` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:88 | doc_type:owners_manual
 range of the sensing area in the trunk, the reminder for
 key left in the trunk will be activated. (See P.83)
 ■ Warning and prompting function
@@ -2203,7 +1997,6 @@ Adopt corresponding measures according to the warning information displayed on t
 of the combination instrument.
 
 ### Sensing area inside
-`hongqi_hs5_en_f78c5e7f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:88 | doc_type:owners_manual
 the vehicle
 Sensing area inside
 the trunk
@@ -2214,14 +2007,12 @@ the
 trunk
 
 ### Sensing area outside
-`hongqi_hs5_en_967527b5` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:88 | doc_type:owners_manual
 the vehicle
 3.2. Opening, Closing and Locking the Doors and Trunk Lid
 87
 3
 
 ### Operating the Components
-`hongqi_hs5_en_04525061` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:89 | doc_type:owners_manual
 ■ Conditions impairing operation
 The passive entry & start system uses weak radio waves. In the following situations, the communication
 between the key and the vehicle may be affected, preventing the passive entry & start system and wireless
@@ -2284,7 +2075,6 @@ entry may fail.
 3
 
 ### CAUTIONS
-`hongqi_hs5_en_dc8a3bdc` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:91 | doc_type:owners_manual
  Notes regarding the electronic devices interference
 People who use implantable pacemakers, cardiac resynchronization therapy pacemakers or implantable
 cardioverter defibrillators should keep a proper distance from the antenna of smart access and activation
@@ -2300,33 +2090,28 @@ equipment manufacturer about the impact of radio waves on the equipment's operat
 3.3. Adjusting the seat
 
 ### Front seat
-`hongqi_hs5_en_66090ee6` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:92 | doc_type:owners_manual
 90
 Adjustment steps
  Driver side seat
 Waist support bulge
 
 ### Waist support pit
-`hongqi_hs5_en_a77e4790` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:92 | doc_type:owners_manual
 Lumbar support moving upward*
 Lumbar support moving downward
 
 ### Seat backrest tilting back
-`hongqi_hs5_en_cf7ca99d` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:92 | doc_type:owners_manual
  Front passenger seat
 Waist support bulge
 Waist support pit
 Lumbar support moving upward*
 
 ### Seat backrest tilting back
-`hongqi_hs5_en_cf7ca99d` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:92 | doc_type:owners_manual
 3.3. Adjusting the seat
 91
 3
 Operating the Components
 
 ### CAUTIONS
-`hongqi_hs5_en_34246a51` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:93 | doc_type:owners_manual
  Seat adjustment
  Do not tilt the seat too much while the vehicle is running to prevent the body from sliding out of the waist
 belt. If the seat is tilted too much, the waist belt may slip over the hip and directly cross over the abdomen or
@@ -2354,27 +2139,23 @@ and airbag.
 3.3. Adjusting the seat
 
 ### Rear seats
-`hongqi_hs5_en_e36d345c` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:94 | doc_type:owners_manual
 92
 Adjust and fold the rear backrest
 Pull the left and right seat release handles on the rear
 seats to adjust and fold the rear backrest.
 
 ### When returning the folded seat back to the upright
-`hongqi_hs5_en_79e48ac9` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:94 | doc_type:owners_manual
 position, you must hear a "click" sound and gently
 shake the seat back slightly back and forth to ensure a
 firm lock.
 
 ### Check and confirm that all seat belts are properly
-`hongqi_hs5_en_e2d31c0a` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:94 | doc_type:owners_manual
 handled for the passengers.
 3.3. Adjusting the seat
 93
 3
 
 ### CAUTIONS
-`hongqi_hs5_en_0cf07996` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:95 | doc_type:owners_manual
  Folding the rear seat back
 Please observe the following precautions, otherwise serious personal injury or even death may result.
  Do not fold the seat back while driving.
@@ -2398,19 +2179,16 @@ Please observe the following precautions, otherwise serious personal injury or e
 3.3. Adjusting the seat
 
 ### Head restraints
-`hongqi_hs5_en_6c52852b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:96 | doc_type:owners_manual
 94
 Upward
 Press and hold the left lock release button while pulling
 the head restraint upwards.
 
 ### Press and hold the left lock release button while
-`hongqi_hs5_en_c986234e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:96 | doc_type:owners_manual
 pushing the head restraint downwards.
  Remove the headrest
 
 ### Press and hold the left lock release button while pulling
-`hongqi_hs5_en_28c9492a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:96 | doc_type:owners_manual
 the head restraint upwards.
 If the head restraint removal is hampered by the roof,
 you can incline the backrest to conduct the removal.
@@ -2419,14 +2197,12 @@ When adjusting the head restraint, make sure its centre
 flushes with ear top.
 
 ### Lock release button
-`hongqi_hs5_en_9ebd51b1` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:96 | doc_type:owners_manual
 3.3. Adjusting the seat
 95
 3
 Operating the Components
 
 ### Fold the wings of the headrest inward to a comfortable
-`hongqi_hs5_en_3d6a0151` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:97 | doc_type:owners_manual
 position.
 CAUTIONS
  Precautions for Headrest
@@ -2446,7 +2222,6 @@ Seat memory*
 It can store the information of seats, steering wheel (for partial models), exterior mirrors and the key.
 
 ### Seat memory setting
-`hongqi_hs5_en_99efe2b2` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:98 | doc_type:owners_manual
 Memory setting: after adjusting the position of the seat,
 the steering wheel and the exterior rearview mirror,
 press any memory key (for more than 3s (seconds)) for a
@@ -2463,7 +2238,6 @@ Put the engine switch in "IG-ON" mode, and press keys 1 and 3 at the same time f
 After the alarm speaker sounds once, the initialization is successful.
 
 ### Seat greeting function
-`hongqi_hs5_en_b3d1525c` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:98 | doc_type:owners_manual
 The greeting function consists of automatic back-off and return.
 Automatic return: Turn off the engine switch and open the left front door. The seat and the steering wheel will
 move backward automatically to the furthest position for the convenience of the driver.
@@ -2474,7 +2248,6 @@ position before the automatic back-off.
 3
 
 ### Operating the Components
-`hongqi_hs5_en_93def1fa` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:99 | doc_type:owners_manual
 ■ Welcome function switch
 It can be set to turn on and off the greeting function in the vehicle setting of the audio system. (See P.224)
 ■ When automatically backing off:
@@ -2488,7 +2261,6 @@ return will be proceeded.
 3.4. Adjusting steering wheel and rearview mirror
 
 ### Steering wheel
-`hongqi_hs5_en_bd855fad` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:100 | doc_type:owners_manual
 98
 Adjusting the steering wheel
 The steering wheel can be adjusted to a comfortable position.
@@ -2497,12 +2269,10 @@ Up
 Down
 
 ### Backwards
-`hongqi_hs5_en_8ec3c627` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:100 | doc_type:owners_manual
 ■ Mechanical adjustment
 Release the steering wheel adjustment lever
 
 ### Lock the steering wheel adjustment lever
-`hongqi_hs5_en_eda50e18` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:100 | doc_type:owners_manual
 Steering wheel heating *
 Touch the steering wheel heating key, the indicator light
 turns on and the steering wheel heating function turns
@@ -2513,13 +2283,11 @@ function.
 3
 
 ### Operating the Components
-`hongqi_hs5_en_fb17a5aa` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:101 | doc_type:owners_manual
 Horn
 The horn can be sounded by pressing the horn logo or
 the surrounding area.
 
 ### CAUTIONS
-`hongqi_hs5_en_8e087e91` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:101 | doc_type:owners_manual
  Precautions during driving
  Do not adjust the steering wheel during driving, otherwise accidents may occur due to driver’s
 misoperation, resulting in serious personal injury or death.
@@ -2541,7 +2309,6 @@ According to the driving posture, the rearview mirror
 can be adjusted up and down/left and right.
 
 ### The driver must adjust the interior rearview mirror to a
-`hongqi_hs5_en_8d2b9f66` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:102 | doc_type:owners_manual
 suitable position so as to see the condition behind the
 car through the rear windshield.
 Glare-proof function
@@ -2554,14 +2321,12 @@ rear vehicle is too bright at night.
 Streaming media interior rearview mirror *
 
 ### The streaming media interior rearview mirror can
-`hongqi_hs5_en_1b808dd3` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:102 | doc_type:owners_manual
 display the images collected by the rear view camera
 through the interior rearview mirror, so that the line of
 sight is not affected by factors such as the rear
 windshield and the rear passengers.
 
 ### Streaming media switch
-`hongqi_hs5_en_337175b6` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:102 | doc_type:owners_manual
 Toggle the switch forward to turn on the streaming media interior rearview mirror, and toggle the switch
 backward to turn off the streaming media interior rearview mirror. Both modes are provided with automatic
 anti-glare function.
@@ -2570,21 +2335,18 @@ anti-glare function.
 3
 
 ### Press the button
-`hongqi_hs5_en_18edc5ed` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:103 | doc_type:owners_manual
 once to enter the brightness adjustment mode. You can adjust the image brightness by
 pressing the / button
 /
 :
 
 ### Press the button
-`hongqi_hs5_en_18edc5ed` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:103 | doc_type:owners_manual
 twice to enter the height adjustment mode, and the image height can be adjusted
 through the / button
 /
 .
 
 ### CAUTIONS
-`hongqi_hs5_en_4bd4da11` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:103 | doc_type:owners_manual
  Precautions during driving
  Do not adjust the rearview mirror during driving, otherwise it may cause accidents due to mishandling,
 leading to serious personal injury or even death.
@@ -2596,11 +2358,9 @@ Body — Exterior mirror
 102
 
 ### Adjust exterior rearview mirror
-`hongqi_hs5_en_2292636c` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:104 | doc_type:owners_manual
 When the engine switch is placed in "IG-ON" mode, the angle of the exterior rearview mirror can be adjusted.
 
 ### Turn the adjusting knob to select the rearview mirror to
-`hongqi_hs5_en_7bc09e49` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:104 | doc_type:owners_manual
 be adjusted.
 LEFT
 RIGHT
@@ -2608,7 +2368,6 @@ Adjusting the interior rear-view mirror
 Up
 
 ### Shift right
-`hongqi_hs5_en_e9db482d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:104 | doc_type:owners_manual
 Down
 Shift left
 Folding exterior rearview mirror
@@ -2618,7 +2377,6 @@ knob to other positions to return the mirror to the
 original position.
 
 ### The exterior mirrors will be automatically folded as the
-`hongqi_hs5_en_722685f0` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:104 | doc_type:owners_manual
 vehicle locked and be unfolded as the vehicle unlocked.
 The exterior rearview mirror auto folding on/off can be
 set in the vehicle setting of audio system. (See P.224)
@@ -2629,7 +2387,6 @@ Step
 3
 
 ### Adjust exterior rearview mirror
-`hongqi_hs5_en_bcb59b4d` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:105 | doc_type:owners_manual
 When the mirror fogs up, rotate the adjustment knob to
 the position with a heating label to heat the mirror.
 If it is not manually turned off, the heater will turn off
@@ -2654,7 +2411,6 @@ moved from R, the mirror returns to the previous position.
 104
 
 ### CAUTIONS
-`hongqi_hs5_en_fa9acf45` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:106 | doc_type:owners_manual
 ■ When driving
 Observe the following precautions while driving. Otherwise, it may cause the driver to lose control of the
 vehicle and accidents to occur, resulting in serious injuries or even death.
@@ -2676,7 +2432,6 @@ Observe the following precautions while driving.
 3.5. Opening and Closing Windows
 
 ### Power windows
-`hongqi_hs5_en_a7a0215e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:107 | doc_type:owners_manual
 105
 3
 Operating the Components
@@ -2684,14 +2439,12 @@ Opening and closing the power window
  Power window switch on the driver side
 
 ### The power window switch on the driver side regulates other windows
-`hongqi_hs5_en_8287ac7f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:107 | doc_type:owners_manual
 Manual UP/DOWN
 Pull/press the level 1 on the corresponding window
 switch (keep pulling/pressing), the window will be
 regulated up/down manually.
 
 ### AUTO UP/DOWN
-`hongqi_hs5_en_e57b1fb2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:107 | doc_type:owners_manual
 The window glass automatically rises/falls when the
 corresponding window lift switch is pushed up/down to
 the 2nd position (released after being pushed up/down).
@@ -2702,7 +2455,6 @@ switch (keep pulling/pressing), the window will be
 regulated up/down manually.
 
 ### AUTO UP/DOWN
-`hongqi_hs5_en_e57b1fb2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:107 | doc_type:owners_manual
 The window glass automatically rises/falls when the
 corresponding window lift switch is pushed up/down to
 the 2nd position (released after being pushed up/down).
@@ -2714,7 +2466,6 @@ switch (keep pulling/pressing), the window will be
 regulated up/down manually.
 
 ### AUTO UP/DOWN
-`hongqi_hs5_en_e57b1fb2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:107 | doc_type:owners_manual
 The window glass automatically rises/falls when the
 corresponding window lift switch is pushed up/down to
 the 2nd position (released after being pushed up/down).
@@ -2722,7 +2473,6 @@ the 2nd position (released after being pushed up/down).
 106
 
 ### Press this switch to disable the power window switches
-`hongqi_hs5_en_e6e19fbb` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:108 | doc_type:owners_manual
 for rear passengers.
 The power window switches on driver and front
 passenger sides are not regulated by the lock switch.
@@ -2758,7 +2508,6 @@ windows can be closed by locking the doors with a mechanical key.
 3
 
 ### CAUTIONS
-`hongqi_hs5_en_0dcf4e1a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:109 | doc_type:owners_manual
  Observe the following precautions when closing windows to avoid serious injury or even death:
 ● Check and make sure that all passengers would not have any part of their bodies pinched when a window is
 being operated.
@@ -2774,7 +2523,6 @@ Panorama sunroof*
 The sunroof switch can be used to open and close the sunroof.
 
 ### Opening
-`hongqi_hs5_en_adafb896` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:110 | doc_type:owners_manual
 Press the switch when the sunroof is closed, the rear part
 of the sunroof is tilted up and the sunshade curtain
 opens partially. Press the switch when the sunroof is at a
@@ -2782,7 +2530,6 @@ tilt-up position, the sunroof opens synchronously with
 the sunshade curtain.
 
 ### Closing
-`hongqi_hs5_en_7aa5a34b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:110 | doc_type:owners_manual
 Press the switch when the sunroof is open, the sunroof
 closes.
 Note: When the sunroof is opened or closed automatically, press the sunroof switch to stop the sunroof.
@@ -2790,7 +2537,6 @@ Press and hold the sunroof switch for a long time, the sunroof can be opened and
 when you release the switch.
 
 ### Press the sunshade curtain opening button to fully open
-`hongqi_hs5_en_94269da0` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:110 | doc_type:owners_manual
 the sunshade curtain.
 Closing
 Press the sunshade curtain closing button to fully close
@@ -2804,7 +2550,6 @@ with the switch released.
 3
 
 ### Operating the Components
-`hongqi_hs5_en_b48ffce9` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:111 | doc_type:owners_manual
  Operating condition for sunroof
 The engine switch is in IG-ON mode.
  Initialization
@@ -2842,7 +2587,6 @@ sunroof can be closed by locking the doors with a mechanical key.
 110
 
 ### CAUTIONS
-`hongqi_hs5_en_7f90cbfc` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:112 | doc_type:owners_manual
  Precautions when opening the sunroof
 Observe the following precautions when opening the sunroof to avoid serious injury:
 ● Do not allow any passengers to put their hands or heads outside the vehicle while it is moving.
@@ -2866,7 +2610,6 @@ initialisation operation is needed.
 Electronic parking brake (EPB) system .......... 132
 
 ### Driving a vehicle
-`hongqi_hs5_en_77357434` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:114 | doc_type:owners_manual
 112
 The following procedures should be observed to ensure safe driving.
 ■ Starting the engine (See P.121)
@@ -2891,7 +2634,6 @@ Step
 4
 
 ### Moving off on a steep uphill
-`hongqi_hs5_en_31e7ff55` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:115 | doc_type:owners_manual
 When the gradient is too large and it is not suitable to use EPB hill start assist function, please operate the
 vehicle as follows:
 Depress the brake pedal firmly and change the shift lever to D.
@@ -2902,7 +2644,6 @@ Release the brake pedal and lightly depress the accelerator pedal.
 The hill-start assist control (HHC) will be activated automatically to prevent the vehicle from slipping. (See
 
 ### P.206)
-`hongqi_hs5_en_3f2116b9` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:115 | doc_type:owners_manual
  ESS emergency brake reminder function
 When the speed reaches the designed speed, if emergency braking is applied, the brake lamp flashes quickly
 to remind the rear vehicle until the brake pedal is released.
@@ -2926,7 +2667,6 @@ Step
 114
 
 ### CAUTIONS
-`hongqi_hs5_en_1f42a239` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:116 | doc_type:owners_manual
  When starting the vehicle
 Always keep your foot on the brake pedal while the vehicle stops with the engine operating. This prevents
 the vehicle from creeping.
@@ -2972,7 +2712,6 @@ this may result in serious injury or death.
 4
 
 ### CAUTIONS
-`hongqi_hs5_en_4de97cb8` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:117 | doc_type:owners_manual
  When driving on slippery road surfaces
 ● Sudden braking, acceleration and steering may cause tire spinning and reduce your ability to control the
 vehicle, resulting in an accident.
@@ -3015,7 +2754,6 @@ system, thus leading to a fire if there are inflammable material near the vehicl
 116
 
 ### CAUTIONS
-`hongqi_hs5_en_f4b8a39d` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:118 | doc_type:owners_manual
  Exhaust gas
 ● Exhaust gas contains colorless, odorless, hazardous carbon monoxide (CO). Inhaling exhaust gases may
 lead to a serious health hazard or even death.
@@ -3043,43 +2781,40 @@ of the pressure used for brake boost is consumed.
 117
 4
 
-### Caution
-`hongqi_hs5_en_8284b318` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:119 | doc_type:owners_manual
- Precautions during driving
-● Do not depress the accelerator pedal and the brake pedal at the same time, otherwise the engine output
-power may be limited.
-● Do not use the accelerator pedal or depress both the accelerator pedal and the brake pedal to stop on a
-slope.
- When Parking
-When parking for a long time, be sure to apply the electronic parking brake and set the gear lever to the P
-position. Failure to do so may cause the vehicle to creep or the vehicle may accelerate suddenly if the
-accelerator pedal is accidentally depressed.
- Avoid damage to parts and components of the vehicle
-● Do not turn the steering wheel fully in either direction and keep it in the utmost positions for a long time,
-otherwise the power steering system will be damaged.
-● When driving on a bumpy road, try to drive at a low speed to avoid damage to the wheels, the bottom of
-the vehicle, etc.
- If a tire leaks while driving
-A flat or damaged tire may cause the following situations. Please hold on to the steering wheel and slowly
-depress the brake pedal to reduce the speed of the vehicle.
-● It may be difficult to control the vehicle.
-●The vehicle will make an abnormal sound.
-● The vehicle is running abnormally.
-Replace the flat tire with a new one. (See P.354)
- In case of accumulated water on the road surface
-Please do not drive on roads with deep water, otherwise the vehicle may suffer the following serious
-damages.
-● Engine shuts down
-● Short circuit of electrical components.
-● Engine damage due to flooding.
-In case water comes into the car, do contact with China FAW authorized Hongqi distributor to examine:
-● Whether the braking function is normal.
-● Engine oil and transmission oil.
-Whether the wheel bearing, the transmission shaft, the drive shaft and the suspension are normal.
-4.1. Before Driving
+> ⚠️ **Внимание:**  Precautions during driving
+> ● Do not depress the accelerator pedal and the brake pedal at the same time, otherwise the engine output
+> power may be limited.
+> ● Do not use the accelerator pedal or depress both the accelerator pedal and the brake pedal to stop on a
+> slope.
+>  When Parking
+> When parking for a long time, be sure to apply the electronic parking brake and set the gear lever to the P
+> position. Failure to do so may cause the vehicle to creep or the vehicle may accelerate suddenly if the
+> accelerator pedal is accidentally depressed.
+>  Avoid damage to parts and components of the vehicle
+> ● Do not turn the steering wheel fully in either direction and keep it in the utmost positions for a long time,
+> otherwise the power steering system will be damaged.
+> ● When driving on a bumpy road, try to drive at a low speed to avoid damage to the wheels, the bottom of
+> the vehicle, etc.
+>  If a tire leaks while driving
+> A flat or damaged tire may cause the following situations. Please hold on to the steering wheel and slowly
+> depress the brake pedal to reduce the speed of the vehicle.
+> ● It may be difficult to control the vehicle.
+> ●The vehicle will make an abnormal sound.
+> ● The vehicle is running abnormally.
+> Replace the flat tire with a new one. (See P.354)
+>  In case of accumulated water on the road surface
+> Please do not drive on roads with deep water, otherwise the vehicle may suffer the following serious
+> damages.
+> ● Engine shuts down
+> ● Short circuit of electrical components.
+> ● Engine damage due to flooding.
+> In case water comes into the car, do contact with China FAW authorized Hongqi distributor to examine:
+> ● Whether the braking function is normal.
+> ● Engine oil and transmission oil.
+> Whether the wheel bearing, the transmission shaft, the drive shaft and the suspension are normal.
+> 4.1. Before Driving
 
 ### Goods and luggage
-`hongqi_hs5_en_a924ad40` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:120 | doc_type:owners_manual
 118
 Take notice of the following information about storage precautions for goods and luggage.
 ● Try your best to store the goods and luggage in the trunk.
@@ -3089,7 +2824,6 @@ balance.
 ● For better driving mileage, do not carry unnecessary weight.
 
 ### CAUTIONS
-`hongqi_hs5_en_dc01eec3` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:120 | doc_type:owners_manual
  Items that must not be carried in the trunk
 The following items may cause a fire if loaded in the trunk:
 ● A container containing petrol.
@@ -3113,7 +2847,6 @@ injury or even death.
 4-1. Before Driving
 
 ### Trailer towing
-`hongqi_hs5_en_53aef83e` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:121 | doc_type:owners_manual
 119
 4
 Driving
@@ -3132,7 +2865,6 @@ Light horn, position lights and hazard warning lights can
 be used.
 
 ### IGNITION ON Mode
-`hongqi_hs5_en_8020b8d3` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:122 | doc_type:owners_manual
 All electronic components can be used.
 The engine (start) switch indicator lamp turns yellow.
 *1: Before shutting down the engine, shift the gear lever
@@ -3142,7 +2874,6 @@ to the P position.
 4
 
 ### Driving
-`hongqi_hs5_en_336cc438` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:123 | doc_type:owners_manual
 `
  Start the engine
 Check that the gear lever is in the P or N position and the electronic parking brake has been
@@ -3152,7 +2883,6 @@ switch is green).
 Press the engine (start) switch to start the engine.
 
 ### The engine can be started in any mode of the engine
-`hongqi_hs5_en_18d9ee9a` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:123 | doc_type:owners_manual
 (start) switch.
  Stop the engine
 Completely stop the vehicle.
@@ -3175,7 +2905,6 @@ vehicle.
 (See P.87)
 
 ### CAUTIONS
-`hongqi_hs5_en_a0dc5957` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:124 | doc_type:owners_manual
  When starting the engine
 Always start the engine while sitting in the driver's seat. Do not depress the accelerator pedal when starting
 the engine under any circumstances.
@@ -3187,21 +2916,18 @@ engine switch for more than 3 s (seconds), or press the switch for 3 consecutive
 Do not touch the engine switch during driving unless in an emergency. If the engine is turned off while
 driving the vehicle, it may cause an accident.
 
-### Caution
-`hongqi_hs5_en_8a8394b1` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:124 | doc_type:owners_manual
- Preventing low battery power
-● Do not place the engine switch in “IG-ON” mode for a long time without the engine running.
-● When the driver leaves the vehicle, the vehicle should be locked and the key should be carried. Do not
-leave the smart key or the card key in the car to prevent the smart entry and start-up system from continuing
-to work, resulting in insufficient battery power.
- When starting the engine
-● Do not allow the engine to run at high speed in cold state.
-● If the engine is difficult to start or flames out frequently, please contact the FAW authorized Hongqi Dealer
-to check the vehicle immediately.
-4.2. Driving Specifications
+> ⚠️ **Внимание:**  Preventing low battery power
+> ● Do not place the engine switch in “IG-ON” mode for a long time without the engine running.
+> ● When the driver leaves the vehicle, the vehicle should be locked and the key should be carried. Do not
+> leave the smart key or the card key in the car to prevent the smart entry and start-up system from continuing
+> to work, resulting in insufficient battery power.
+>  When starting the engine
+> ● Do not allow the engine to run at high speed in cold state.
+> ● If the engine is difficult to start or flames out frequently, please contact the FAW authorized Hongqi Dealer
+> to check the vehicle immediately.
+> 4.2. Driving Specifications
 
 ### Transmissions
-`hongqi_hs5_en_2e5ab6ad` | hs5 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:125 | doc_type:owners_manual
 123
 4
 Driving
@@ -3215,12 +2941,10 @@ The left track is in manual mode, with a stroke in each
 of the forward and backward directions.
 
 ### Move the shift lever left and right to switch between
-`hongqi_hs5_en_3ef14c98` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:125 | doc_type:owners_manual
 these two modes. Switch to manual mode only when
 the gear is in D position.
 
 ### P gear button
-`hongqi_hs5_en_aacbef57` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:125 | doc_type:owners_manual
 4.2. Driving Specifications
 124
  Gear switch
@@ -3251,7 +2975,6 @@ When selecting a gear, ensure the gear displayed on the instrument cluster is th
 4
 
 ### Driving
-`hongqi_hs5_en_076c3ab3` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:127 | doc_type:owners_manual
  Gear switch
 Gear stage
 Function
@@ -3261,7 +2984,6 @@ R
 Reversing
 
 ### M+
-`hongqi_hs5_en_d9505706` | hs5 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:127 | doc_type:owners_manual
 Manually up-shifting
 MManually down-shifting
 Shift descriptions
@@ -3269,7 +2991,6 @@ Shift descriptions
 The P locks the transmission and prevents the wheels from turning.
 
 ### CAUTIONS
-`hongqi_hs5_en_bf6d1c04` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:127 | doc_type:owners_manual
  When operating the shift lever for the first time
 The car adopts an electronic gear shifting mechanism and needs to be operated according to the gear
 indication information on the instrument cluster and the information display screen and the above gear
@@ -3293,7 +3014,6 @@ D gear position, move the gear lever to the left to enter the M gear range. Upsh
 between M1-M6 can be done by moving the shift lever or operating the shift paddle.
 
 ### P gear button
-`hongqi_hs5_en_7bcc876a` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:128 | doc_type:owners_manual
  When switched to P gear
 Shift the gear position to P gear by using the P gear
 button.
@@ -3309,7 +3029,6 @@ lever is operated without the brake pedal pressed down, the shift operation will
 desired gears.
 
 ### Change the shift range in manual mode
-`hongqi_hs5_en_0f142699` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:128 | doc_type:owners_manual
 ► Upshift and downshift via the shift paddle on the steering wheel*
 Up-shifting
 Down-shifting
@@ -3320,7 +3039,6 @@ display of the instrument cluster.
 4
 
 ### Driving
-`hongqi_hs5_en_3779b70d` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:129 | doc_type:owners_manual
 ►Upshift and downshift via the gear lever
 Up-shifting
 Down-shifting
@@ -3346,20 +3064,17 @@ downshifted without manual shift operation.
 ●In M gear, the vehicle can start in M1 or M2 gear.
 
 ### CAUTIONS
-`hongqi_hs5_en_c25f37ab` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:129 | doc_type:owners_manual
  When driving on smooth roads
 Be careful when suddenly accelerating and decelerating, otherwise the vehicle may slip or the wheels may
 spin.
 4.2. Driving Specifications
 
 ### Driving mode
-`hongqi_hs5_en_dc88e1e2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:130 | doc_type:owners_manual
 128
 This vehicle is equipped with a driving mode switching system. It can provide different vehicle modes,
 and the vehicle has unique driving performance in different modes to meet the driver's needs.
 
 ### Rotate the driving mode switch knob to switch the
-`hongqi_hs5_en_8c3b0ebb` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:130 | doc_type:owners_manual
 driving mode cyclically. The vehicle is provided with
 five driving modes of economy, comfort, sports,
 off-road and snow.
@@ -3385,7 +3100,6 @@ Driving characteristics in comfort mode:
 4
 
 ### Driving
-`hongqi_hs5_en_350c8b08` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:131 | doc_type:owners_manual
 ● Both acceleration and fuel consumption are normal.
 ● The transmission gear shift is in default status.
 ● For AWD model, the driving mode is AWD.
@@ -3424,21 +3138,18 @@ relatively balanced.
 ● The engine switch is placed in "IG-ON" mode.* The relevant system has no fault.
 ● The driving mode switch controller has no fault.
 
-### Caution
-`hongqi_hs5_en_37061257` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:132 | doc_type:owners_manual
- Precautions when switching the driving modes
-● The driving mode switching system has a self-protection function to prevent the driving mode from being
-activated under working conditions that do not meet the corresponding driving mode, thus damaging the
-vehicle and affecting the driving safety. Therefore, when the driver is switching the driving mode, the target
-mode cannot be activated. This situation may be caused by the system's self-protection function. It is normal.
-● With the driving mode operating conditions met, if the driving mode system does not work, please
-immediately contact the authorized FAW HONGQI dealer to check.
-● The driving mode is only a driving assist system and can't replace the driver's judgment on the driving
-environment. The driver must always maintain the car control and bear full responsibility for car.
-4.2. Driving Specifications
+> ⚠️ **Внимание:**  Precautions when switching the driving modes
+> ● The driving mode switching system has a self-protection function to prevent the driving mode from being
+> activated under working conditions that do not meet the corresponding driving mode, thus damaging the
+> vehicle and affecting the driving safety. Therefore, when the driver is switching the driving mode, the target
+> mode cannot be activated. This situation may be caused by the system's self-protection function. It is normal.
+> ● With the driving mode operating conditions met, if the driving mode system does not work, please
+> immediately contact the authorized FAW HONGQI dealer to check.
+> ● The driving mode is only a driving assist system and can't replace the driver's judgment on the driving
+> environment. The driver must always maintain the car control and bear full responsibility for car.
+> 4.2. Driving Specifications
 
 ### Turn signal lamp control handle
-`hongqi_hs5_en_650d5d1c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:133 | doc_type:owners_manual
 131
 4
 Driving
@@ -3446,7 +3157,6 @@ Right turn signal lamp
 Left turn signal lamp
 
 ### Comfort flicker
-`hongqi_hs5_en_6d577e15` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:133 | doc_type:owners_manual
 When
 the
 control
@@ -3499,20 +3209,17 @@ accelerator pedal, and EPB will be automatically released.
 133
 4
 
-### Caution
-`hongqi_hs5_en_28ae8262` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:135 | doc_type:owners_manual
- Precautions before driving
-● Release the electronic parking brake completely. In the event of a failure (e.g. an electrical failure), the rear
-brake disc locked by the EPB can only be unlocked mechanically. It is recommended that you contact the
-FAW authorized Hongqi Dealer for the operation.
-● When the EPB is not released, the red indicator lights up. Driving the vehicle now will cause the brake
-components to overheat, which will affect the brake performance and aggravate the brake wear.
-● If the road condition is not suitable for parking, the multi-functional display of the instrument cluster will
-prompt "too steep for parking".
-4.2. Driving Specifications
+> ⚠️ **Внимание:**  Precautions before driving
+> ● Release the electronic parking brake completely. In the event of a failure (e.g. an electrical failure), the rear
+> brake disc locked by the EPB can only be unlocked mechanically. It is recommended that you contact the
+> FAW authorized Hongqi Dealer for the operation.
+> ● When the EPB is not released, the red indicator lights up. Driving the vehicle now will cause the brake
+> components to overheat, which will affect the brake performance and aggravate the brake wear.
+> ● If the road condition is not suitable for parking, the multi-functional display of the instrument cluster will
+> prompt "too steep for parking".
+> 4.2. Driving Specifications
 
 ### AUTO HOLD
-`hongqi_hs5_en_251a8ea8` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:136 | doc_type:owners_manual
 134
 When the AUTOHOLD function is standby, the vehicle’s auto hold will be activated when the brake
 pedal is depressed with the gear position in D or N to stop the vehicle. At this time, if the brake pedal is
@@ -3520,19 +3227,16 @@ released. the vehicle will keep braking. When the accelerator pedal is depressed
 in D, and the system will release the auto hold to realize a smooth start.
 
 ### Auto Hold ready state
-`hongqi_hs5_en_44bbcbef` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:136 | doc_type:owners_manual
 Press the Auto Hold button, and the Auto Hold function
 will be ready and the button indicator will light up.
 
 ### After depressing the brake pedal to stop the vehicle and
-`hongqi_hs5_en_b5041631` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:136 | doc_type:owners_manual
 then releasing the brake pedal, the vehicle’s auto hold
 function will be activated. At this time, the auto hold
 indicator on the multi-functional display of the
 instrument cluster turns on.
 
 ### ■ AUTO HOLD
-`hongqi_hs5_en_6ff74285` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:136 | doc_type:owners_manual
 ● Depress the brake pedal and press the auto park button again to turn off the AUTOHOLD function.
 ● The automatic vehicle hold function may not stop the vehicle when on a steep slope. In that case it is
 necessary to apply manual braking.
@@ -3549,26 +3253,21 @@ Conditions for activating the Auto Hold:
 4
 
 ### Driving
-`hongqi_hs5_en_1f4f3642` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:137 | doc_type:owners_manual
 ● Driver depresses the brake pedal until the vehicle is stopped, and then releases the brake pedal.
 
 ### CAUTIONS
-`hongqi_hs5_en_8e43b37b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:137 | doc_type:owners_manual
  When parking on slippery road surfaces
 If the tire's grip is exceeded, the AUTO HOLD automatic parking function cannot stop the vehicle. Do not
 use this system on slippery roads.
 
-### Caution
-`hongqi_hs5_en_9704227b` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:137 | doc_type:owners_manual
- When Parking
-● AUTO HOLD function cannot be used for long-term parking. For long periods of parking, apply the EPB
-electronic parking brake. Switching the engine switch to the "IG-OFF" mode when auto hold is activated
-may release the brake and cause the vehicle to move. When turning off the engine switch, depress the brake
-pedal, apply the electronic parking brake and shift the gear lever to the P position.
-4.3. Operating lights and wipers
+> ⚠️ **Внимание:**  When Parking
+> ● AUTO HOLD function cannot be used for long-term parking. For long periods of parking, apply the EPB
+> electronic parking brake. Switching the engine switch to the "IG-OFF" mode when auto hold is activated
+> may release the brake and cause the vehicle to move. When turning off the engine switch, depress the brake
+> pedal, apply the electronic parking brake and shift the gear lever to the P position.
+> 4.3. Operating lights and wipers
 
 ### Headlamp switch
-`hongqi_hs5_en_6241bf36` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:138 | doc_type:owners_manual
 136
 Front position lamp, rear position lamp, license
 plate lamp and instrument panel backlights
@@ -3582,14 +3281,12 @@ Note: When the switch is in the AUTO position, if the headlamps, position lights
 off, the daytime running lights will be on.
 
 ### Turning on the high beam
-`hongqi_hs5_en_7151a747` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:138 | doc_type:owners_manual
 When the headlamp (dipped beam) is turned on, push
 the lamp control handle forward to turn on the high
 beam; Pull the handle back to its original position to
 turn off the high beam.
 
 ### Pull backward the lamp control handle to turn on the
-`hongqi_hs5_en_753974b3` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:138 | doc_type:owners_manual
 high beam; releasing the lamp control handle to turn off
 the high beam.
 ■ Daytime running lamp system
@@ -3603,14 +3300,12 @@ It can be set to turn on and off the daytime running lamp in the vehicle setting
 4
 
 ### Driving
-`hongqi_hs5_en_044d1ec3` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:139 | doc_type:owners_manual
 ■ Rain & lamp sensor
 The sensor may not function properly if an object blocks
 the sensor, or anything affixed to the windshield blocks
 the sensor.
 
 ### Doing so interferes with the sensor detecting the
-`hongqi_hs5_en_1105249a` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:139 | doc_type:owners_manual
 ambient lamp intensity and may cause the automatic
 headlamp system and automatic wiper malfunctions.
  Automatic headlamp beam height adjusting system
@@ -3624,7 +3319,6 @@ When the door is unlocked again, the above lamps will be on for a while and then
 The on/off of lighting upon boarding and lighting time can be set in the vehicle setting of audio system. (See
 
 ### P.223)
-`hongqi_hs5_en_fa749752` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:139 | doc_type:owners_manual
 Boarding lighting system *
 When the engine switch is in the "IG-ON" mode and the light switch is in the auto position, if the low beam,
 position lights and license plate lights are on, then switch the engine switch to the "IG-OFF" mode and lock
@@ -3642,18 +3336,15 @@ high-beam control stands by and the intelligent high-beam indicator
 goes out.
 
 ### IHC On and Off
-`hongqi_hs5_en_d2210109` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:140 | doc_type:owners_manual
 It can be set to turn on and off the intelligent high beam system in the vehicle setting of the audio system
 (See P.223)
 
 ### Operating conditions of IHC
-`hongqi_hs5_en_c61e815f` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:140 | doc_type:owners_manual
 Start the engine, place the headlamp switch in the AUTO position, the high beam switch handle in the "high
 beam off" position, and when the automatic light control is in the low beam on state, the intelligent high beam
 control system is on.
 
 ### Conditions under which the high beam is automatically turned on or off
-`hongqi_hs5_en_5d35dc92` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:140 | doc_type:owners_manual
 ● When all of the following conditions are met, the high beam will automatically turn on:
 • The vehicle speed is higher than 50 km/h.
 • The area in front of the vehicle is dark.
@@ -3669,7 +3360,6 @@ control system is on.
 4
 
 ### Driving
-`hongqi_hs5_en_68a46d0f` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:141 | doc_type:owners_manual
  Under the following circumstances, the system may not be able to accurately detect the ambient brightness
 level, which may cause the intelligent high-beam control system not to work properly. In this case, please
 switch between high beam and dipped beam manually.
@@ -3696,20 +3386,17 @@ roads, gravel roads, etc.).
 ● When there is lamp reflection on the road such as wet, snow and ice roads.
 
 ### CAUTIONS
-`hongqi_hs5_en_1ed627a2` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:141 | doc_type:owners_manual
  Limitations of automatic high beam
 Don't rely on automatic high beam. Be sure to drive safely and observe the surrounding environment. If
 necessary, turn the high beam on or off manually.
 4.3. Operating lights and wipers
 
 ### Fog lamp switch
-`hongqi_hs5_en_23666d26` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:142 | doc_type:owners_manual
 140
 Fog lamps improve visibility under unfavorable driving conditions, such as rainy days or foggy days.
 The front fog lights are on.
 
 ### Turn on both front and rear fog lamps
-`hongqi_hs5_en_ce597180` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:142 | doc_type:owners_manual
  Operating conditions of fog lamps
 The engine switch is placed in the IG-ON mode, and the headlamps are turned on.
  Corner lamp
@@ -3720,7 +3407,6 @@ lighting around the vehicle
 4-3. Operating lights and wipers
 
 ### Front windshield wipers and cleaners
-`hongqi_hs5_en_d5f6e5ec` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:143 | doc_type:owners_manual
 141
 4
 Driving
@@ -3744,7 +3430,6 @@ shorter)
 Cleaning / wiping operation
 
 ### Pull back the wiper control lever for cleaning the front
-`hongqi_hs5_en_847f74f2` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:144 | doc_type:owners_manual
 windshield.
  Operating conditions of front windshield wiper and washer
 The engine switch is in “IG-ON” mode and the engine compartment cover is closed.
@@ -3764,7 +3449,6 @@ close the wiper service position in the audio system settings, the wiper will ex
 4
 
 ### CAUTIONS
-`hongqi_hs5_en_e198e85e` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:145 | doc_type:owners_manual
  Warning for using windshield wipers in AUTO mode
 In AUTO mode, if the sensor is touched, the rearview mirror is strongly shaken or the windshield glass is
 strongly vibrated (e.g. knocking hard on the windshield), the windshield wiper may accidentally operate. Be
@@ -3784,19 +3468,16 @@ Using the worn or dirty wiper blade will reduce the legibility of front visual f
 safety. Therefore, ensure to replace the damaged or worn wiper blade or that cannot clean the windshield in
 time.
 
-### Caution
-`hongqi_hs5_en_90126f17` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:145 | doc_type:owners_manual
- When the front windshield is dry
-Do not use the wipers, as the wiper blades may be damaged.
- When the nozzle cannot spray cleaning liquid
-If the wiper control handle is pulled backward and held up for a long time, it may cause damage to the
-cleaning fluid pump.
- When a nozzle blocked
-Do not try to clear it with a pin or other object. The nozzle will be damaged.
-4.3. Operating lights and wipers
+> ⚠️ **Внимание:**  When the front windshield is dry
+> Do not use the wipers, as the wiper blades may be damaged.
+>  When the nozzle cannot spray cleaning liquid
+> If the wiper control handle is pulled backward and held up for a long time, it may cause damage to the
+> cleaning fluid pump.
+>  When a nozzle blocked
+> Do not try to clear it with a pin or other object. The nozzle will be damaged.
+> 4.3. Operating lights and wipers
 
 ### Rear windshield wiper and washer
-`hongqi_hs5_en_e1c023d5` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:146 | doc_type:owners_manual
 144
 When the rear windshield wiper control handle is rotated to different positions, the wiper and washer
 can be operated:
@@ -3818,24 +3499,20 @@ Check if there is wash fluid in the windshield washer fluid tank. Check and conf
 blocked.
 
 ### CAUTIONS
-`hongqi_hs5_en_a551d323` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:146 | doc_type:owners_manual
  Windscreen cleaning solution with ethanol content over 10% is prohibited
 In high temperature environment, windshield cleaning liquid with ethanol content over 10% will corrode the
 rear decorative lamp, resulting in cracking of the rear decorative lamp.
 
-### Caution
-`hongqi_hs5_en_cd1c189d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:146 | doc_type:owners_manual
- When the rear windshield is dry
-Do not use the wipers, as the wiper blades may be damaged.
- When the nozzle cannot spray cleaning liquid
-It may cause damage to the washer fluid pump if the lever is rotated to the cleaning position and held toward
-you.
- When a nozzle blocked
-Do not try to clear it with a pin or other object. The nozzle will be damaged.
-4-4. Filling the Fuel
+> ⚠️ **Внимание:**  When the rear windshield is dry
+> Do not use the wipers, as the wiper blades may be damaged.
+>  When the nozzle cannot spray cleaning liquid
+> It may cause damage to the washer fluid pump if the lever is rotated to the cleaning position and held toward
+> you.
+>  When a nozzle blocked
+> Do not try to clear it with a pin or other object. The nozzle will be damaged.
+> 4-4. Filling the Fuel
 
 ### Opening the fuel tank lid
-`hongqi_hs5_en_20aed94e` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:147 | doc_type:owners_manual
 145
 4
 Driving
@@ -3847,7 +3524,6 @@ and ensure that all doors and windows are closed.
 Press the filler cap and open it.
 
 ### The filler cap can only be opened when the entire
-`hongqi_hs5_en_ebf20229` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:147 | doc_type:owners_manual
 vehicle lock is unlocked.
 Turn counterclockwise to open the fuel tank lid.
 Hang the fuel tank lid on the back of the filler cap.
@@ -3856,7 +3532,6 @@ Step
 146
 
 ### Closing the fuel tank lid
-`hongqi_hs5_en_dcf7a1d6` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:148 | doc_type:owners_manual
 When reinstalling the fuel tank lid, it should be screwed
 until your hear a “click” sound.
  Fuel type
@@ -3871,7 +3546,6 @@ authorized Hongqi Dealer.
 4
 
 ### CAUTIONS
-`hongqi_hs5_en_09a03cf5` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:149 | doc_type:owners_manual
  Filling fuel
 Observe the following precautions while refuelling the vehicle:
 ●Static electricity that may be carried on the body needs to be removed before opening the filler cap and the
@@ -3893,19 +3567,16 @@ accumulate and ignite the fuel.
 Do not use products other than the original fuel tank lid provided by FAW, otherwise it may lead to poor
 sealing and further resulting in accidents.
 
-### Caution
-`hongqi_hs5_en_dfe97fad` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:149 | doc_type:owners_manual
- Refuel.
-When filling, do not spill the fuel, otherwise it may damage the vehicle, for example, causing the exhaust
-system failure or damaging the fuel system components or body paint.
-4-5. Use other driving system
-Constant speed cruise control*
-148
-By cruise control, the vehicle can be maintained at the set speed without using the accelerator pedal,
-and the set speed is recommended not to exceed 130km/h.
+> ⚠️ **Внимание:**  Refuel.
+> When filling, do not spill the fuel, otherwise it may damage the vehicle, for example, causing the exhaust
+> system failure or damaging the fuel system components or body paint.
+> 4-5. Use other driving system
+> Constant speed cruise control*
+> 148
+> By cruise control, the vehicle can be maintained at the set speed without using the accelerator pedal,
+> and the set speed is recommended not to exceed 130km/h.
 
 ### Pull the cruise control handle backward to the
-`hongqi_hs5_en_3c18125a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:150 | doc_type:owners_manual
 "ON/OFF" position and then release the handle to
 activate the cruise control.
 Accelerate or decelerate to the required speed, toggle
@@ -3919,7 +3590,6 @@ Step
 4
 
 ### Driving
-`hongqi_hs5_en_f4ef02a9` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:151 | doc_type:owners_manual
  Adjusting the vehicle speed
 Increasing the speed
 Short pushing: Pushing the lever once increases the
@@ -3929,7 +3599,6 @@ the lever is released, the speed shown on the multifunction display screen of th
 the target speed.
 
 ### Reduce the speed
-`hongqi_hs5_en_5139f4be` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:151 | doc_type:owners_manual
 Toggle and release: toggle once to reduce the vehicle
 speed by 5km/h;
 Toggle and hold: reduce the vehicle speed quickly. when
@@ -3942,14 +3611,12 @@ will automatically become a multiple of 5 first when
 adjusting.
 
 ### Push the cruise control handle forward to the
-`hongqi_hs5_en_46387745` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:151 | doc_type:owners_manual
 "CANCEL" position.
 The cruise control could also be canceled when
 • The brake pedal is depressed.
 • When the gear level is shift to the N position.
 
 ### Restore
-`hongqi_hs5_en_014d2f57` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:151 | doc_type:owners_manual
 To resume the cruise control and return to the set speed,
 push the cruise control handle up to the “RES+”
 position and release.
@@ -3967,7 +3634,6 @@ be set or if the cruise control cancels immediately after being activated, there
 cruise control system. please contact with China FAW authorized Hongqi distributor for check.
 
 ### CAUTIONS
-`hongqi_hs5_en_415e87b4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:152 | doc_type:owners_manual
  To ensure driving safety when setting the cruise speed, it is recommended not to exceed 130km/h. It
 is very dangerous to use the cruise function when driving at high speed, and the driver is
 recommended to drive actively.
@@ -3995,7 +3661,6 @@ ACC adaptive cruise control function*
 4
 
 ### Driving
-`hongqi_hs5_en_fcb32be6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:153 | doc_type:owners_manual
 ACC adaptive cruise function can comprehensively control the speed and the distance from the target
 vehicle within the speed range of 0~130km/h, thus reducing the burden on the driver and increasing the
 driving comfort. In addition, depending on whether there is a vehicle running ahead, the system can
@@ -4008,7 +3673,6 @@ set value, the vehicle automatically decelerates; when the vehicles ahead accele
 accelerates to the set cruise speed.
 
 ### Enable the adaptive cruise control in the vehicle settings
-`hongqi_hs5_en_a3d6427e` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:153 | doc_type:owners_manual
 of the audio system.
 The system can set the cruise mode only when the
 vehicle speed is 0km/h and the gear level is in the P
@@ -4019,13 +3683,11 @@ cruise control lever to SET position or pull back the
 cruise control lever to ON and then release the lever.
 
 ### The ACC green indicating lamp is on and the current
-`hongqi_hs5_en_9d6a50d3` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:153 | doc_type:owners_manual
 vehicle speed can be set to the cruise speed.
 Lighting
 setting
 
 ### Comfort
-`hongqi_hs5_en_222a526e` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:153 | doc_type:owners_manual
 setting
 Driver
 assistance
@@ -4036,13 +3698,11 @@ e, etc.
 Calling....
 
 ### Adaptive cruise
-`hongqi_hs5_en_07b120ce` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:153 | doc_type:owners_manual
 control
 Advanced cruise
 Lane keeping assistance system
 
 ### Prompt mode
-`hongqi_hs5_en_2ff68237` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:153 | doc_type:owners_manual
 Step
 Step
 4-5. Use other driving system
@@ -4050,7 +3710,6 @@ Step
  Adjusting the vehicle speed
 
 ### Increasing the speed
-`hongqi_hs5_en_1db045b7` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:154 | doc_type:owners_manual
 Short pushing: Pushing the lever once increases the
 speed by 5 km/h;
 Long pushing: After the system confirms the long
@@ -4058,7 +3717,6 @@ pushing is valid, the speed continues to increase by 1
 km/h.
 
 ### Reduce the speed
-`hongqi_hs5_en_ed77cf3b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:154 | doc_type:owners_manual
 Toggle and release: toggle once to reduce the vehicle
 speed by 5km/h;
 Toggle and hold: after the system confirms that this
@@ -4071,18 +3729,15 @@ adjusting.
  Setting the headway
 
 ### Decreasing the headway
-`hongqi_hs5_en_3a64ec59` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:154 | doc_type:owners_manual
 The system offers 4 distance modes. The mode changes
 each time the lever is pulled.
 
 ### ACC indicator lamp
-`hongqi_hs5_en_e8ebc8ab` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:154 | doc_type:owners_manual
 White: The system is on and the set conditions are met,
 and cruise settings can be made.
 Green: system working, in cruise state.
 
 ### Set following distance
-`hongqi_hs5_en_fcf18b62` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:154 | doc_type:owners_manual
 The default follow-up distance is "Spacing 4".
 Distance 1
 Distance 2
@@ -4093,12 +3748,10 @@ Distance 4
 4
 
 ### Depress the brake pedal or push the cruise control
-`hongqi_hs5_en_e659a7b2` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:155 | doc_type:owners_manual
 handle forward to the "CANCEL" position and then
 release to cancel the cruise control.
 
 ### Restore
-`hongqi_hs5_en_f37ff979` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:155 | doc_type:owners_manual
 To resume the cruise control and return to the set speed,
 push the cruise control handle up to the “RES+”
 position and release.
@@ -4139,7 +3792,6 @@ Adjust or calibrate the ACC in the following situations. Otherwise ACC may not f
 Please contact with China FAW authorized Hongqi distributors.
 
 ### CAUTIONS
-`hongqi_hs5_en_dd1be850` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:156 | doc_type:owners_manual
 To ensure driving safety when setting the cruise speed, it is recommended not to exceed 130km/h. It
 is very dangerous to use the cruise function when driving at high speed, and the driver is
 recommended to drive actively.
@@ -4174,7 +3826,6 @@ actual vehicle speed may be lower than the set cruise speed.
 4
 
 ### CAUTIONS
-`hongqi_hs5_en_05c064be` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:157 | doc_type:owners_manual
  If during ACC cruise control, when the vehicle is too close to the vehicle ahead (for example, due to
 sudden emergency braking of the vehicle ahead), the system will send an audible and visual alarm to
 the driver through the instrument cluster. At this time, the driver should pay attention to the distance
@@ -4217,7 +3868,6 @@ automatically, thus causing a collision with the vehicle ahead, and the driver s
 156
 
 ### CAUTIONS
-`hongqi_hs5_en_f25eb373` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:158 | doc_type:owners_manual
  If a vehicle in the adjacent lanes enters the front of the direction in which your vehicle moving but it
 is not covered by the monitoring area, the system may not detect it, resulting in sluggish response of
 SACC. Pay close attention to the vehicle movement in the adjacent lanes. Control your vehicle actively
@@ -4229,43 +3879,40 @@ control your vehicle actively if necessary.
  If the target vehicle of SACC stops, it means the target vehicle may be screens or there is pedestrian
 passing. Exercise extreme caution and control your vehicle actively if necessary.
 
-### Caution
-`hongqi_hs5_en_a77b5b83` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:158 | doc_type:owners_manual
- ACC will keep the set distance with the vehicle ahead to follow the target. If the target vehicle slows
-down and stops, ACC will control the vehicle to stop automatically.
- The vehicle will automatically start under the control of ACC if the target vehicle restarts or leaves
-the lane within 3s after stopping.
- When the target vehicle stops for more than 3s (seconds) but less than 3min (minutes) and starts or
-leaves the lane again, the multi-function screen of the vehicle's instrument cluster will prompt the
-information of resuming the cruise control. The driver can resume the SACC function by depressing
-the accelerator pedal lightly or turning the cruise control handle to "RES+" to realize automatic
-starting. At that time, the driver should pay attention to whether it is safe to start the vehicle.
- ACC will be automatically released when the vehicle stops for more than 3 minutes.
- ACC cannot keep the vehicle in a braking state for a long time. Do not leave your vehicle while the
-ACC keeps the vehicle stopped. Be sure to shift the selector lever in the P position before leaving your
-vehicle.
- Observe the following precautions when cornering with the ACC activated:
-● In a sharp corner, the ACC may be canceled or limit the vehicle speed.
-●On curves, advanced cruise control may react to vehicles in another lane, or may not have time to react to
-vehicles in the same lane, may collide with the vehicle ahead, or lose control of the vehicle. Especially when
-driving in a ramp, the vehicle may be accelerated since the system loses its target due to an excessive curve.
-Pay special attention to the curve and be prepared to apply the brake if necessary. When driving on a curve,
-select the appropriate speed.
- When your vehicle follows the preceding vehicle to pass through the intersection with traffic lamps,
-observe the change of the traffic lamps and intervene actively if necessary to avoid violating the traffic
-rules.
- When the vehicle is in a heavy fog, rain, snow and other weather conditions, or frost and smudgy
-marks exist in the window area of the camera of the advanced driving assistance system, or when the
-vehicle is driving towards the direction of the sun (or strong light source), the camera can report
-through the instrument cluster that the camera of the advanced driving assistance system is blocked,
-please clean the windshield. ACC cannot work at this time.
-4-5. Use other driving system
-Super Adaptive Cruise Control (SACC) function*
-157
-4
+> ⚠️ **Внимание:**  ACC will keep the set distance with the vehicle ahead to follow the target. If the target vehicle slows
+> down and stops, ACC will control the vehicle to stop automatically.
+>  The vehicle will automatically start under the control of ACC if the target vehicle restarts or leaves
+> the lane within 3s after stopping.
+>  When the target vehicle stops for more than 3s (seconds) but less than 3min (minutes) and starts or
+> leaves the lane again, the multi-function screen of the vehicle's instrument cluster will prompt the
+> information of resuming the cruise control. The driver can resume the SACC function by depressing
+> the accelerator pedal lightly or turning the cruise control handle to "RES+" to realize automatic
+> starting. At that time, the driver should pay attention to whether it is safe to start the vehicle.
+>  ACC will be automatically released when the vehicle stops for more than 3 minutes.
+>  ACC cannot keep the vehicle in a braking state for a long time. Do not leave your vehicle while the
+> ACC keeps the vehicle stopped. Be sure to shift the selector lever in the P position before leaving your
+> vehicle.
+>  Observe the following precautions when cornering with the ACC activated:
+> ● In a sharp corner, the ACC may be canceled or limit the vehicle speed.
+> ●On curves, advanced cruise control may react to vehicles in another lane, or may not have time to react to
+> vehicles in the same lane, may collide with the vehicle ahead, or lose control of the vehicle. Especially when
+> driving in a ramp, the vehicle may be accelerated since the system loses its target due to an excessive curve.
+> Pay special attention to the curve and be prepared to apply the brake if necessary. When driving on a curve,
+> select the appropriate speed.
+>  When your vehicle follows the preceding vehicle to pass through the intersection with traffic lamps,
+> observe the change of the traffic lamps and intervene actively if necessary to avoid violating the traffic
+> rules.
+>  When the vehicle is in a heavy fog, rain, snow and other weather conditions, or frost and smudgy
+> marks exist in the window area of the camera of the advanced driving assistance system, or when the
+> vehicle is driving towards the direction of the sun (or strong light source), the camera can report
+> through the instrument cluster that the camera of the advanced driving assistance system is blocked,
+> please clean the windshield. ACC cannot work at this time.
+> 4-5. Use other driving system
+> Super Adaptive Cruise Control (SACC) function*
+> 157
+> 4
 
 ### Driving
-`hongqi_hs5_en_a560c6d9` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:159 | doc_type:owners_manual
 SACC advanced cruise control is based on ACC adaptive cruise function. It can not only provide cruise
 and follow-up functions, but also identify lane lines through cameras of the advanced driving assistance
 system. It can control vehicles to drive along the center line of the lane and improve driving comfort
@@ -4275,14 +3922,12 @@ than the set value, the vehicle automatically decelerates; when the vehicles ahe
 vehicle accelerates to the set cruise speed.
 
 ### Turn on advanced cruise control in the vehicle settings
-`hongqi_hs5_en_3d469a4e` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:159 | doc_type:owners_manual
 of the audio system.
 The system can set the cruise mode only when the
 vehicle speed is 0km/h and the gear level is in the P
 position.
 
 ### When the white indicator for advanced cruise control on
-`hongqi_hs5_en_67a28d5b` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:159 | doc_type:owners_manual
 the instrument cluster is ON, accelerate or decelerate to
 the required vehicle speed, pull the cruise control handle
 backward twice consecutively to set to "ON" position
@@ -4291,7 +3936,6 @@ indicator light turns on, and the current vehicle speed
 can be set as the cruise control speed.
 
 ### Lighting
-`hongqi_hs5_en_b0f58bf8` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:159 | doc_type:owners_manual
 setting
 Comfort
 setting
@@ -4304,7 +3948,6 @@ etc.
 Calling....
 
 ### Prompt mode
-`hongqi_hs5_en_047a156f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:159 | doc_type:owners_manual
 Step
 Step
 4-5. Use other driving system
@@ -4312,7 +3955,6 @@ Step
  Adjusting the vehicle speed
 
 ### SACC indicator lamp
-`hongqi_hs5_en_1dfa6b00` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:160 | doc_type:owners_manual
 (off)
 (off): system standby, setting conditions not
 met.
@@ -4327,7 +3969,6 @@ advanced cruise settings.
 (green): system working, in cruise state.
 
 ### Set following distance
-`hongqi_hs5_en_fd23cf17` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:160 | doc_type:owners_manual
 The default follow-up distance is "Spacing 4".
 Distance 1
 Distance 2
@@ -4338,7 +3979,6 @@ Distance 4
 4
 
 ### Depress the brake pedal or push the cruise control
-`hongqi_hs5_en_a1fcf862` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:161 | doc_type:owners_manual
 handle forward to the "CANCEL" position and then
 release to cancel the cruise control.
  SACC and ACC switch setting
@@ -4397,7 +4037,6 @@ Please contact with China FAW authorized Hongqi distributors.
 4
 
 ### CAUTIONS
-`hongqi_hs5_en_c02ede6e` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:163 | doc_type:owners_manual
  To avoid activating the SACC super adaptive cruise control by mistake
 If this function is deactivated, ACC is canceled.
  Situations unsuitable for SACC
@@ -4437,7 +4076,6 @@ distance and control your vehicle.
 162
 
 ### CAUTIONS
-`hongqi_hs5_en_47541fb4` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:164 | doc_type:owners_manual
  When the driver depresses the accelerator pedal to actively accelerate, the cruise speed icon
 displayed on the multi-function screen of the instrument cluster will flash. This is a normal
 phenomenon.
@@ -4477,7 +4115,6 @@ resulting in a collision with the preceding vehicle. In this case, exercise extr
 4
 
 ### CAUTIONS
-`hongqi_hs5_en_a1eeffec` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:165 | doc_type:owners_manual
  If a vehicle get in front from adjacent lanes but not in the sensor monitoring area, the system may
 not be able to detect the vehicle, resulting in lagging of SACC response. Pay close attention to the
 vehicle movement in the adjacent lanes. Control your vehicle actively if necessary.
@@ -4487,43 +4124,40 @@ controlling your vehicle. Exercise extreme caution and control your vehicle acti
  If the target vehicle of SACC stops, it means the target vehicle may be screens or there is pedestrian
 passing. Exercise extreme caution and control your vehicle actively if necessary.
 
-### Caution
-`hongqi_hs5_en_1be1246b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:165 | doc_type:owners_manual
- SACC will keep the set distance with the vehicle ahead to follow the target. If the target vehicle
-slows down and stops, SACC will control the vehicle to stop automatically.
- When the target vehicle stops for less than 3s (seconds) and restarts or leaves the lane, the vehicle
-will start automatically under the control of SACC.
- When the target vehicle stops for more than 3s (seconds) but less than 3min (minutes) and starts or
-leaves the lane again, the multi-function screen of the vehicle's instrument cluster will prompt the
-information of resuming the cruise control. The driver can resume the SACC function by depressing
-the accelerator pedal lightly or turning the cruise control handle to "RES+" to realize automatic
-starting. At that time, the driver should pay attention to whether it is safe to start the vehicle.
- SACC will automatically be canceled if the vehicle stops for over 3 min.
- SACC cannot keep the vehicle in a braking state for a long time. Do not leave your vehicle while the
-ACC keeps the vehicle stopped. Be sure to shift the selector lever in the P position before leaving your
-vehicle.
- The following items should be paid attention to when using SACC advanced cruise control for
-turning:
-● In a sharp corner, the SACC may be canceled or limit the vehicle speed.
-● On curves, advanced cruise control may react to vehicles in another lane, or may not have time to react to
-vehicles in the same lane, may collide with the vehicle ahead, or lose control of the vehicle. Especially when
-driving in a ramp, the vehicle may be accelerated since the system loses its target due to an excessive curve.
-Pay special attention to the curve and be prepared to apply the brake if necessary. When driving on a curve,
-select the appropriate speed.
-● In the curve course, too small road radius may impact the judgment of SACC over the lane. When driving
-on a curve, please drive carefully.
- Drivers should pay attention to traffic light change when the vehicle follows a vehicle ahead through
-the intersection with traffic lights, and should take the initiative to intervene when necessary to avoid
-violating traffic rules.
- When driving in heavy fog, rain, snow or other weather conditions, or there is frost and/or dirty
-trace in the camera window area of the advanced driver assistance system, or when your vehicle is
-moving in the direction toward the sun (or strong light source), the “the camera of the advanced driver
-assistance system has been blocked, please clean the windshield” prompt may appear on the
-combination instrument due to limited visual field of the camera. As a result, the SACC cannot work.
-4-5. Use other driving system
+> ⚠️ **Внимание:**  SACC will keep the set distance with the vehicle ahead to follow the target. If the target vehicle
+> slows down and stops, SACC will control the vehicle to stop automatically.
+>  When the target vehicle stops for less than 3s (seconds) and restarts or leaves the lane, the vehicle
+> will start automatically under the control of SACC.
+>  When the target vehicle stops for more than 3s (seconds) but less than 3min (minutes) and starts or
+> leaves the lane again, the multi-function screen of the vehicle's instrument cluster will prompt the
+> information of resuming the cruise control. The driver can resume the SACC function by depressing
+> the accelerator pedal lightly or turning the cruise control handle to "RES+" to realize automatic
+> starting. At that time, the driver should pay attention to whether it is safe to start the vehicle.
+>  SACC will automatically be canceled if the vehicle stops for over 3 min.
+>  SACC cannot keep the vehicle in a braking state for a long time. Do not leave your vehicle while the
+> ACC keeps the vehicle stopped. Be sure to shift the selector lever in the P position before leaving your
+> vehicle.
+>  The following items should be paid attention to when using SACC advanced cruise control for
+> turning:
+> ● In a sharp corner, the SACC may be canceled or limit the vehicle speed.
+> ● On curves, advanced cruise control may react to vehicles in another lane, or may not have time to react to
+> vehicles in the same lane, may collide with the vehicle ahead, or lose control of the vehicle. Especially when
+> driving in a ramp, the vehicle may be accelerated since the system loses its target due to an excessive curve.
+> Pay special attention to the curve and be prepared to apply the brake if necessary. When driving on a curve,
+> select the appropriate speed.
+> ● In the curve course, too small road radius may impact the judgment of SACC over the lane. When driving
+> on a curve, please drive carefully.
+>  Drivers should pay attention to traffic light change when the vehicle follows a vehicle ahead through
+> the intersection with traffic lights, and should take the initiative to intervene when necessary to avoid
+> violating traffic rules.
+>  When driving in heavy fog, rain, snow or other weather conditions, or there is frost and/or dirty
+> trace in the camera window area of the advanced driver assistance system, or when your vehicle is
+> moving in the direction toward the sun (or strong light source), the “the camera of the advanced driver
+> assistance system has been blocked, please clean the windshield” prompt may appear on the
+> combination instrument due to limited visual field of the camera. As a result, the SACC cannot work.
+> 4-5. Use other driving system
 
 ### Front and rear parking radar
-`hongqi_hs5_en_de457217` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:166 | doc_type:owners_manual
 164
 The front and rear parking radar system consists of a controller and an ultrasonic sensor. The
 ultrasonic sensor can measure the distance between the vehicle and the obstacle. According to the
@@ -4533,7 +4167,6 @@ Always check the surrounding area when using this system.
  Sensor type
 
 ### Rear middle radar sensor
-`hongqi_hs5_en_0f7df68a` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:166 | doc_type:owners_manual
  Enable/disable parking radar
 When the vehicle speed is lower than 10km/h, press the
 radar/image switch button, the indicator on the button
@@ -4552,7 +4185,6 @@ resume automatically.
 4
 
 ### Display
-`hongqi_hs5_en_945fcd93` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:167 | doc_type:owners_manual
  When obstacles are detected
 If the PDC sensor detects an obstacle, an image is
 displayed on the multimedia display screen according to
@@ -4561,7 +4193,6 @@ The slow-driving zone, warning zone and danger zone
 are displayed in green, yellow and red, respectively.
 
 ### Obstacle distance alarm
-`hongqi_hs5_en_c0a0165e` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:167 | doc_type:owners_manual
 If an obstacle is detected, the color bar corresponding to the sensor will continue to be lit.
  Information display on parking slow-driving zone for sensor
 Front
@@ -4592,7 +4223,6 @@ warning to the driver.
 4
 
 ### Longest distance detected by the sensor
-`hongqi_hs5_en_22bee477` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:169 | doc_type:owners_manual
 About 60cm
 About 150cm
 About 120cm
@@ -4601,7 +4231,6 @@ The diagram shows the detection range of the sensors.
 extremely close to the vehicle.)
 
 ### The range of the sensors may change depending on the
-`hongqi_hs5_en_140e827c` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:169 | doc_type:owners_manual
 shape of the obstacle.
  Sensor detection information
 ● Certain vehicle conditions and the surrounding environment may affect the ability of a sensor to correctly
@@ -4646,7 +4275,6 @@ the sound warning after 10s (seconds) and only the image warning remains. If the
 detected by the system changes again, the audible alarm will start again.
 
 ### CAUTIONS
-`hongqi_hs5_en_2572133b` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:170 | doc_type:owners_manual
  Warning of using front and rear parking radar
 Observe the following cautions to avoid accidents:
 ● Do not install anything within the working range of the sensor.
@@ -4654,18 +4282,15 @@ Observe the following cautions to avoid accidents:
 drive carefully. If necessary, intervene actively to avoid danger.
 ● When the vehicle speed is too high, the system will stop working. The driver should drive carefully.
 
-### Caution
-`hongqi_hs5_en_5692b144` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:170 | doc_type:owners_manual
- Please pay attention when washing the car.
-Do not apply intensive bursts of water or steam to the sensor area. Doing so may result in the sensor
-malfunctioning.
-4-5. Use other driving system
-Rear view camera system*
-169
-4
+> ⚠️ **Внимание:**  Please pay attention when washing the car.
+> Do not apply intensive bursts of water or steam to the sensor area. Doing so may result in the sensor
+> malfunctioning.
+> 4-5. Use other driving system
+> Rear view camera system*
+> 169
+> 4
 
 ### Driving
-`hongqi_hs5_en_ce8087d5` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:171 | doc_type:owners_manual
 When reversing (for example, parking), the rear view camera system assists you by displaying the
 vehicle rear view image on the audio multimedia display.
 Activating/deactivating the rear view camera system
@@ -4685,12 +4310,10 @@ withdrawn by pressing the radar/image button again.
 170
 
 ### Reversing information display
-`hongqi_hs5_en_6f92b44a` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:172 | doc_type:owners_manual
 Assist the driver to complete the parking with by screen display. Dynamically adjust the parking guide line
 according to various angles.
 
 ### Indicating the predicted vehicle track line with the
-`hongqi_hs5_en_643ad0fe` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:172 | doc_type:owners_manual
 steering wheel operating.
 Distance guide line (red)
 Indicating the distance line 50cm away from bumper
@@ -4707,7 +4330,6 @@ Please check the surroundings for safety!
 4
 
 ### The vehicle backup camera is located in the illustrated
-`hongqi_hs5_en_d7c72368` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:173 | doc_type:owners_manual
 position.
 The area that the camera can monitor is limited. Objects
 that are close to either corner (within 20 cm) of the
@@ -4723,7 +4345,6 @@ images, the light source appears to have a vertical stripe
 extending up and down.
 
 ### Mainly monitored area
-`hongqi_hs5_en_c88e5544` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:173 | doc_type:owners_manual
 About 20cm
 4-5. Use other driving system
 172
@@ -4761,7 +4382,6 @@ through objects or obstruction in the vicinity.
 4
 
 ### CAUTIONS
-`hongqi_hs5_en_95e2da62` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:175 | doc_type:owners_manual
  The reversing camera system is only a driving assistance system, please do not rely too much on its
 function.
 Be sure to drive carefully and visually confirm the conditions behind and around the vehicle. It is very
@@ -4817,26 +4437,21 @@ by pressing the radar/image button again or pressing the screen button
 4
 
 ### Panoramic image system screen mode
-`hongqi_hs5_en_18c2be2f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:177 | doc_type:owners_manual
 Panoramic image system has a variety of screen modes, the driver can choose the appropriate mode according
 to need.
 Large bird's-eye view
 ① Large bird's-eye view Switch the main and small bird's-eye views to large bird's-eye views.
 
 ### Front view
-`hongqi_hs5_en_9def2b58` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:177 | doc_type:owners_manual
 Display the front view and the small bird's-eye view.
 
 ### Rear view
-`hongqi_hs5_en_6d7d7364` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:177 | doc_type:owners_manual
 Display the rear view and the small bird's-eye view.
 
 ### Left view
-`hongqi_hs5_en_e1000fcb` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:177 | doc_type:owners_manual
 Display the left view and the small bird's-eye view.
 
 ### Right view
-`hongqi_hs5_en_642a3512` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:177 | doc_type:owners_manual
 Display the right view and the small bird's-eye view.
 3Dview
 The 360 degree stereo image around the vehicle can be displayed, and the dragging angle can be displayed.
@@ -4845,17 +4460,14 @@ It can be selected in front and rear view modes. Left view, right view and small
 after selection.
 
 ### Wide view
-`hongqi_hs5_en_ca716782` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:177 | doc_type:owners_manual
 It can be selected in front and rear view modes. After selection, switch the main view and small bird's eye
 view to wide-angle view, and you can see a picture of nearly 180 degrees.
 
 ### Main view
-`hongqi_hs5_en_337505f3` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:177 | doc_type:owners_manual
 Small bird's-eye view
 Please check the surroundings for safety!
 
 ### Front view
-`hongqi_hs5_en_9def2b58` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:177 | doc_type:owners_manual
 Rear
 view
 Right
@@ -4870,7 +4482,6 @@ view
 176
 
 ### Track line
-`hongqi_hs5_en_63313cb8` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:178 | doc_type:owners_manual
 ⑨Track line When selected, the parking aid line will be displayed.
 MOD (Moving Object Detection)
 It can be selected in front and rear view modes. After enabled, it can detect dynamic objects within the range
@@ -4881,19 +4492,16 @@ left/right view and small aerial view; when the turn lamp signal is disabled, th
 resume.
 
 ### Indicating the predicted vehicle track line with the
-`hongqi_hs5_en_b64989c0` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:178 | doc_type:owners_manual
 steering wheel operating.
 Distance guide line
 Indicating the distance line 50cm away from bumper
 back edge.
 
 ### Distance guide line
-`hongqi_hs5_en_e0eb8151` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:178 | doc_type:owners_manual
 Indicating the distance line 150cm away from bumper
 back edge.
 
 ### Distance guide line
-`hongqi_hs5_en_e0eb8151` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:178 | doc_type:owners_manual
 Indicating the distance line 300cm away from bumper
 back edge.
 Please check the surroundings for safety!
@@ -4902,7 +4510,6 @@ Please check the surroundings for safety!
 4
 
 ### Panoramic cameras are respectively installed at the front
-`hongqi_hs5_en_8f622735` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:179 | doc_type:owners_manual
 grille, trunk lid and left and right exterior rearview
 mirrors.
 If the above components are opened or folded, the
@@ -4916,7 +4523,6 @@ near the corner of the bumper or below the bumper are
 not displayed on the screen.
 
 ### The area displayed on the screen may vary according to
-`hongqi_hs5_en_e84f2045` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:179 | doc_type:owners_manual
 vehicle orientation or road conditions.
 If the camera receives strong light (e.g. sunlight
 reflected by the car body), it may produce smear effects
@@ -4928,7 +4534,6 @@ down.
 178
 
 ### CAUTIONS
-`hongqi_hs5_en_f72970b4` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:180 | doc_type:owners_manual
  Panoramic image system is only one of the driving assist systems. Do not depend on it more than
 necessary.
 Be sure to drive carefully and visually confirm the conditions around the vehicle. It is very dangerous to back
@@ -4969,13 +4574,11 @@ Tire pressure monitor system (TPMS)
 4
 
 ### Driving
-`hongqi_hs5_en_42cca53d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:181 | doc_type:owners_manual
 The tire pressure monitoring system can monitor and check the tire pressure and give an alarm
 automatically when the pressure is lower than the limit value.
 Abnormal tire pressure/system fault warning lamp
 
 ### When the tire pressure monitor system does not work
-`hongqi_hs5_en_4edfd941` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:181 | doc_type:owners_manual
 The system failure alarm lamp turns on, and a text message "tire
 pressure monitoring function is disabled" is displayed.
  Match the tire pressure sensor
@@ -4985,7 +4588,6 @@ contact an authorized Hong Qi dealer of China FAW.
 180
 
 ### CAUTIONS
-`hongqi_hs5_en_470116fc` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:182 | doc_type:owners_manual
  Precautions for tire pressure monitoring system <TPMS>
 ● The system cannot prevent tire leakage and puncture. Its main function is to give an alarm after monitoring
 the tire pressure value below a certain set value.
@@ -5009,7 +4611,6 @@ LDW/LKA Lane keeping assist system*
 4
 
 ### Driving
-`hongqi_hs5_en_c427bb9c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:183 | doc_type:owners_manual
 The lane keep assist system can detect the driver's status and the driving state of the vehicle when the
 vehicle speed is higher than 60km/h. When the system judges that the driver's non-subjective intention
 (chatting, distraction, operating the sound system, etc.) causes the vehicle to deviate from the lane, the
@@ -5017,14 +4618,12 @@ system will send out an alarm or an alarm plus a correction prompt to prevent da
  LDW (Lane departure warning)
 
 ### When the lane departure warning system detects that the
-`hongqi_hs5_en_a687acff` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:183 | doc_type:owners_manual
 vehicle is departing from the lane, the corresponding
 side line turns red and flashes and the speaker on the
 corresponding side sounds a warning.
  LKA (Lane keeping assistance)
 
 ### When the lane departure warning system detects that the
-`hongqi_hs5_en_a687acff` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:183 | doc_type:owners_manual
 vehicle is departing from the lane, the corresponding
 side line turns red and flashes and the speaker on the
 corresponding side sounds a warning.
@@ -5081,7 +4680,6 @@ contact with China FAW authorized Hongqi distributors.
 4
 
 ### CAUTIONS
-`hongqi_hs5_en_3f855813` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:185 | doc_type:owners_manual
  LDW/LKA is only a driving assistance system. Do not rely too much on it. Drivers must drive
 carefully.
  The system may malfunction due to road and environment factors. Stop using this system in that
@@ -5109,7 +4707,6 @@ cluster gauge multi-function display zone will show the
 early warning icon.
 
 ### If the system judges the current driving is severely
-`hongqi_hs5_en_34967c40` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:186 | doc_type:owners_manual
 abnormal, it will show the early warning icon and
 release the warning tone.
  The system shall be calibrated when changing the advanced driver assistance system camera unit,
@@ -5117,7 +4714,6 @@ front windshield or after four-wheel alignment. Otherwise, the system can not be
 contact with China FAW authorized Hongqi distributors.
 
 ### CAUTIONS
-`hongqi_hs5_en_82c7e8a6` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:186 | doc_type:owners_manual
  The driver status monitoring system is only a driving assistance system. It can only give an alarm
 for the abnormal driving status of the driver and cannot directly interfere with the vehicle. The driver
 must refer to the alarm, operate the steering wheel by himself to ensure the normal driving of the
@@ -5134,7 +4730,6 @@ Forward collision warning (FCW) system*
 4
 
 ### Driving
-`hongqi_hs5_en_6af8ee25` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:187 | doc_type:owners_manual
 The system automatically judges the collision risk level by the relative distance, relative speed and
 relative acceleration between the vehicle and the target vehicle. If the conditions are met, the system
 will give an alarm.
@@ -5155,7 +4750,6 @@ contact with China FAW authorized Hongqi distributors.
 186
 
 ### CAUTIONS
-`hongqi_hs5_en_95a4a1ae` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:188 | doc_type:owners_manual
  For the sake of safety, the passengers must wear seat belts properly.
  FCW is only a driving assistance system. Do not rely too much on FCW. Drivers must drive
 carefully.
@@ -5186,21 +4780,18 @@ and insufficient environmental lighting. Drivers should drive carefully.
 please pay attention to possible dangerous situations. FCW may not be able to identify targets such as
 cyclists.
 
-### Caution
-`hongqi_hs5_en_efda8ede` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:188 | doc_type:owners_manual
- To avoid interfering with the driver by false alarm, the system will not alarm when:
-● Front windscreen is damaged or replaced.
-● Vehicle speed is lower than 8km/h.
-● Within 20s after the last warning.
-● The steering wheel is turned fast or to an excessive angle.
-● The accelerator pedal is pressed suddenly, resulting in a large pedal displacement.
-4-5. Use other driving system
-Autonomous emergency brake (AEB) system*
-187
-4
+> ⚠️ **Внимание:**  To avoid interfering with the driver by false alarm, the system will not alarm when:
+> ● Front windscreen is damaged or replaced.
+> ● Vehicle speed is lower than 8km/h.
+> ● Within 20s after the last warning.
+> ● The steering wheel is turned fast or to an excessive angle.
+> ● The accelerator pedal is pressed suddenly, resulting in a large pedal displacement.
+> 4-5. Use other driving system
+> Autonomous emergency brake (AEB) system*
+> 187
+> 4
 
 ### Driving
-`hongqi_hs5_en_531b4ec5` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:189 | doc_type:owners_manual
 AEB active emergency braking system works in the range of 8km/h to 80 km/h. When the vehicle
 encounters an emergency and there is a possibility of collision with the vehicle ahead, if the driver fails
 to perform emergency braking or emergency steering to avoid danger in time, the system will assist the
@@ -5210,7 +4801,6 @@ on the combination instrument and a warning is sent by
 the speaker/instrument.
 
 ###  AEB ON/OFF
-`hongqi_hs5_en_48b92903` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:189 | doc_type:owners_manual
 It can be set to turn on and off the AEB system in the vehicle setting of the audio system. (See P.225)
 When the system is shut down, the indicator for active
 emergency braking system shutdown will be displayed
@@ -5223,7 +4813,6 @@ contact with China FAW authorized Hongqi distributors.
 188
 
 ### CAUTIONS
-`hongqi_hs5_en_85a2acaa` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:190 | doc_type:owners_manual
  For the sake of safety, the passengers must wear seat belts properly.
  AEB is only a driving assistance system. Do not rely too much on AEB. Drivers must drive carefully.
  AEB may not be able to identify the modified or decorated vehicles with special appearance.
@@ -5263,37 +4852,34 @@ braked to prevent the vehicle from starting again and slipping away.
 189
 4
 
-### Caution
-`hongqi_hs5_en_f29b9eb4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:191 | doc_type:owners_manual
- To prevent the system from disturbing the driver by false alarm, the following situations will not be
-alarmed:
-● Vehicle speed is lower than 8km/h.
-● Within 20s after the last warning.
- After the AEB system is triggered, if any of the following conditions are met, the AEB system will be
-interrupted and the braking behavior will be stopped immediately:
-● The steering wheel is turned fast or to an excessive angle.
-● The accelerator pedal is pressed suddenly, resulting in a large pedal displacement.
-● When the speed decreases to lower than the threshold 45km/h, AEB stops braking
- The AEB system will not be triggered when any of the following conditions are met, which is
-intended to allow the driver to control the vehicle without disturbing the driver.
-● ESC. TCS. ABS function enabled.
-● The shift lever is in D.
-● Any door is not closed.
-● Engine compartment cover is not closed.
-● The driver unfastens the seat belt.
-● The automatic parking function is turned on.
-● Within 20s after the last warning.
-● The vehicle speed is lower than 8km/h.
-● The steering wheel is turned fast or to an excessive angle.
-● The accelerator pedal is pressed suddenly, resulting in a large pedal displacement.
-4-5. Use other driving system
-Blind Spot Detection (BSD) *
-190
-The system contains a blind spot detection, side warning assist (SWA) and a cross traffic alert (CTA) to
-provide driving assistance.
+> ⚠️ **Внимание:**  To prevent the system from disturbing the driver by false alarm, the following situations will not be
+> alarmed:
+> ● Vehicle speed is lower than 8km/h.
+> ● Within 20s after the last warning.
+>  After the AEB system is triggered, if any of the following conditions are met, the AEB system will be
+> interrupted and the braking behavior will be stopped immediately:
+> ● The steering wheel is turned fast or to an excessive angle.
+> ● The accelerator pedal is pressed suddenly, resulting in a large pedal displacement.
+> ● When the speed decreases to lower than the threshold 45km/h, AEB stops braking
+>  The AEB system will not be triggered when any of the following conditions are met, which is
+> intended to allow the driver to control the vehicle without disturbing the driver.
+> ● ESC. TCS. ABS function enabled.
+> ● The shift lever is in D.
+> ● Any door is not closed.
+> ● Engine compartment cover is not closed.
+> ● The driver unfastens the seat belt.
+> ● The automatic parking function is turned on.
+> ● Within 20s after the last warning.
+> ● The vehicle speed is lower than 8km/h.
+> ● The steering wheel is turned fast or to an excessive angle.
+> ● The accelerator pedal is pressed suddenly, resulting in a large pedal displacement.
+> 4-5. Use other driving system
+> Blind Spot Detection (BSD) *
+> 190
+> The system contains a blind spot detection, side warning assist (SWA) and a cross traffic alert (CTA) to
+> provide driving assistance.
 
 ### When the gear lever is in D position and the vehicle
-`hongqi_hs5_en_677e5b1f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:192 | doc_type:owners_manual
 speed is greater than 30km/h, if the rear-side vehicle in
 the 7m (m) blind area or the 7 - 70m (m) interval behind
 the vehicle, the corresponding rear-view mirror warning
@@ -5305,7 +4891,6 @@ dangerous to change lanes at this time.
 Cross Traffic Alert (CTA)
 
 ### When the gear position is in R gear and the vehicle
-`hongqi_hs5_en_e404fcc6` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:192 | doc_type:owners_manual
 speed is 0~10km/h, if there is a crosswalk vehicle
 behind the vehicle, the indicator light in the
 corresponding side rearview mirror will be lit, the
@@ -5327,7 +4912,6 @@ switch.
 4
 
 ### Driving
-`hongqi_hs5_en_8c4c879d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:193 | doc_type:owners_manual
  Blind area detection and lane change assist functions may not be activated or may be delayed in the
 following situations:
 ● When the vehicle is driven on a steep slope.
@@ -5350,42 +4934,39 @@ the warning range:
 4-5. Use other driving system
 192
 
-### Caution
-`hongqi_hs5_en_35c1b08f` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:194 | doc_type:owners_manual
- Be sure to prevent the rear bumper from being clashed when parking. Otherwise, the sensor in the
-bumper may be displaced or damaged, and thus cause the SWA to be automatically shut down or the
-SWA function to be affected.
- To ensure the normal operation of the system, the sensors in the bumper must be kept clean, free of
-ice and snow, and must not be covered by other articles.
- The rear bumper is only allowed to be sprayed with the paint approved by our company. Failure to
-do so may result in limited functionality of the SWA or a trouble in the SWA.
- If blind area detection does not work normally, the system should be shut down immediately.
-Contact an authorized Hong Qi dealer of China FAW for maintenance.
- After the blind area detection system is repaired, calibration is required. For details, please contact
-an authorized Hong Qi dealer of China FAW.
- The blind are detection system will not give an alarm for pedestrians, animals, bicycles and other
-targets in the blind area.
- Blind area detection system only serves as an auxiliary reminder and cannot completely avoid
-collision of vehicles in blind areas. Before changing lanes, be sure to check the rearview mirror, sweep
-backward and use the turn signal.
- Under special working conditions, such as humid weather and excessively high vehicle speed, the
-blind area detection system may give false alarm or omission, which is a normal phenomenon.
- When the blind area detection radar behind the vehicle is blocked, the system will not work and the
-radar needs to be cleaned in time.
- Blind area detection system is limited by physical laws and system conditions, and may not be able
-to identify traffic conditions correctly under certain driving conditions. Such as the following
-conditions:
-● On a lane with sharp turn.
-● On carriageways of different width.
-● On a fluctuated road in mountainous area.
-● In bad weather.
-● At some special structures on the roadside, such as high or offset highway guardrails.
-4-5. Use other driving system
-193
-4
+> ⚠️ **Внимание:**  Be sure to prevent the rear bumper from being clashed when parking. Otherwise, the sensor in the
+> bumper may be displaced or damaged, and thus cause the SWA to be automatically shut down or the
+> SWA function to be affected.
+>  To ensure the normal operation of the system, the sensors in the bumper must be kept clean, free of
+> ice and snow, and must not be covered by other articles.
+>  The rear bumper is only allowed to be sprayed with the paint approved by our company. Failure to
+> do so may result in limited functionality of the SWA or a trouble in the SWA.
+>  If blind area detection does not work normally, the system should be shut down immediately.
+> Contact an authorized Hong Qi dealer of China FAW for maintenance.
+>  After the blind area detection system is repaired, calibration is required. For details, please contact
+> an authorized Hong Qi dealer of China FAW.
+>  The blind are detection system will not give an alarm for pedestrians, animals, bicycles and other
+> targets in the blind area.
+>  Blind area detection system only serves as an auxiliary reminder and cannot completely avoid
+> collision of vehicles in blind areas. Before changing lanes, be sure to check the rearview mirror, sweep
+> backward and use the turn signal.
+>  Under special working conditions, such as humid weather and excessively high vehicle speed, the
+> blind area detection system may give false alarm or omission, which is a normal phenomenon.
+>  When the blind area detection radar behind the vehicle is blocked, the system will not work and the
+> radar needs to be cleaned in time.
+>  Blind area detection system is limited by physical laws and system conditions, and may not be able
+> to identify traffic conditions correctly under certain driving conditions. Such as the following
+> conditions:
+> ● On a lane with sharp turn.
+> ● On carriageways of different width.
+> ● On a fluctuated road in mountainous area.
+> ● In bad weather.
+> ● At some special structures on the roadside, such as high or offset highway guardrails.
+> 4-5. Use other driving system
+> 193
+> 4
 
 ### CAUTIONS
-`hongqi_hs5_en_552fd9f3` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:195 | doc_type:owners_manual
 ■ Turn off the radar detection system when towing or accessories (such as bicycle bracket) are
 installed at the rear, otherwise, the radio waves emitted by the radar will be blocked, resulting in
 abnormal operation of the system.
@@ -5418,7 +4999,6 @@ indicator. Remind the driver of speeding by means of
 sound / icon / text message.
 
 ### When the system recognizes the speed limit cancellation
-`hongqi_hs5_en_002e8176` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:196 | doc_type:owners_manual
 sign, the indicator of the combination meter goes out,
 and the speed limit reminder is cancelled.
 Traffic Sign Recognition (TSR) ON/OFF
@@ -5440,7 +5020,6 @@ For calibration, contact the FAW authorized Hongqi dealer.
 4
 
 ### CAUTIONS
-`hongqi_hs5_en_9aab343f` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:197 | doc_type:owners_manual
 ■ TSR is only one of the driving assist systems. Do not depend on TSR more than necessary. Driver
 shall drive with caution.
 ■ The TSR may not work properly if there is heavy snow or rain.
@@ -5489,7 +5068,6 @@ display screen of the combination instrument is lit.
 4
 
 ### Driving
-`hongqi_hs5_en_05c083de` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:199 | doc_type:owners_manual
  Start the engine
 ● With your vehicle in D/N, the engine shut down and the brake pedal pressed, releasing the brake pedal starts
 the engine automatically.
@@ -5536,7 +5114,6 @@ The engine starts automatically if all the following conditions are met:
 • The brake vacuum is insufficient.
 
 ### CAUTIONS
-`hongqi_hs5_en_1a761219` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:200 | doc_type:owners_manual
 ■ When the idle start and stop system works
 ● Do not leave the vehicle when the ISSS stops the engine. Due to the automatic starting function of the
 engine, accidents may occur.
@@ -5567,39 +5144,36 @@ to ensure all-round escort.
 199
 4
 
-### Caution
-`hongqi_hs5_en_99f32f70` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:201 | doc_type:owners_manual
- After the engine stops automatically, press the engine switch, and the vehicle cannot start at this
-time.
- When the vehicle is in the idle-stop state, the start-stop function is terminated if one of the following
-conditions occurs. If you trigger the start-up operation, the instrument reminds you of starting the
-engine manually.
-● The engine compartment cover is opened or the transmission sends a signal to disable start-up.
-● The seat belt is unfastened and the door is opened.
-● The seat belt is unfastened or the door is opened. The door is still opened after a period of time.
- The idle start-stop system will be prohibited from being activated when the air conditioning system
-is in any of the following states:
-● The A/C system is in defrosting/defogging mode.
-● The temperature in the car does not reach the target comfortable temperature range.
-● Outdoor temperature is high or low.
- The idle start-stop system will be prohibited from being activated when the transmission issues the
-start-stop prohibition signal.
-● Prevent the risk of dragging caused by the engagement of drive chains when starting after shutdown.
- The driver is the main operator of the vehicle. The idle start-stop system is only a driving assistance
-system. The driver should control the vehicle according to the actual road conditions and drive
-carefully.
-4-5. Use other driving system
-Auto Parking Assist (APA) *
-200
-Automatic parking measures the length of parking spaces on both sides of the road through ultrasonic
-waves and cameras, selects suitable parking spaces, and then controls the vehicle to park automatically
-in the selected parking spaces. The automatic parking system includes automatic parking in and out.
-Selection via the multimedia display.
-Before using the automatic parking function, please check the automatic parking procedures,
-precautions and notices described in this section to prevent accidents.
+> ⚠️ **Внимание:**  After the engine stops automatically, press the engine switch, and the vehicle cannot start at this
+> time.
+>  When the vehicle is in the idle-stop state, the start-stop function is terminated if one of the following
+> conditions occurs. If you trigger the start-up operation, the instrument reminds you of starting the
+> engine manually.
+> ● The engine compartment cover is opened or the transmission sends a signal to disable start-up.
+> ● The seat belt is unfastened and the door is opened.
+> ● The seat belt is unfastened or the door is opened. The door is still opened after a period of time.
+>  The idle start-stop system will be prohibited from being activated when the air conditioning system
+> is in any of the following states:
+> ● The A/C system is in defrosting/defogging mode.
+> ● The temperature in the car does not reach the target comfortable temperature range.
+> ● Outdoor temperature is high or low.
+>  The idle start-stop system will be prohibited from being activated when the transmission issues the
+> start-stop prohibition signal.
+> ● Prevent the risk of dragging caused by the engagement of drive chains when starting after shutdown.
+>  The driver is the main operator of the vehicle. The idle start-stop system is only a driving assistance
+> system. The driver should control the vehicle according to the actual road conditions and drive
+> carefully.
+> 4-5. Use other driving system
+> Auto Parking Assist (APA) *
+> 200
+> Automatic parking measures the length of parking spaces on both sides of the road through ultrasonic
+> waves and cameras, selects suitable parking spaces, and then controls the vehicle to park automatically
+> in the selected parking spaces. The automatic parking system includes automatic parking in and out.
+> Selection via the multimedia display.
+> Before using the automatic parking function, please check the automatic parking procedures,
+> precautions and notices described in this section to prevent accidents.
 
 ### Access to auto parking system
-`hongqi_hs5_en_678643ae` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:202 | doc_type:owners_manual
 Method 1: Auto parking button
 Press the auto parking button once to enter the auto
 parking selection interface; Press the auto parking
@@ -5613,7 +5187,6 @@ selection interface and select the parking mode in the
 corresponding interface.
 
 ### Come back
-`hongqi_hs5_en_18900393` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:202 | doc_type:owners_manual
 home
 Auto out
 Auto in
@@ -5622,7 +5195,6 @@ Auto in
 4
 
 ### Auto in
-`hongqi_hs5_en_7191dee6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:203 | doc_type:owners_manual
  Select parking mode and space type
 There are two parking modes of automatic parking and
 manual parking. In each mode, there are three types of
@@ -5630,7 +5202,6 @@ parking spaces: vertical parking, inclined parking and
 horizontal parking.
 
 ### The system will default auto mode when the vehicle
-`hongqi_hs5_en_585e2bd0` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:203 | doc_type:owners_manual
 speed is not zero. The manual mode is available only
 when the vehicle speed is zero.
 ■ Select the parking space
@@ -5650,7 +5221,6 @@ After the manual mode and space type are selected, the
 screen will show the corresponding target space frame.
 
 ### The user can drag and rotate the target space frame
-`hongqi_hs5_en_e2d95f24` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:203 | doc_type:owners_manual
 (touching the zone in the target space frame with two
 fingers, one still and one rotating around the former
 finger). If the car in the space frame is in red, it means
@@ -5658,7 +5228,6 @@ the vehicle cannot park in this zone. Please adjust the
 position of target space frame on the screen.
 
 ### Manual
-`hongqi_hs5_en_19b161fb` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:203 | doc_type:owners_manual
 mode
 Auto mode
 Confirm parking
@@ -5668,13 +5237,11 @@ Parking in oblique
 position
 
 ### Parking in
-`hongqi_hs5_en_e4ab18ba` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:203 | doc_type:owners_manual
 horizontal
 Please approach the space
 and drive slowly
 
 ### The parking system will be
-`hongqi_hs5_en_1e038d33` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:203 | doc_type:owners_manual
 disabled after 10S.
 Back-in
 Parking
@@ -5682,7 +5249,6 @@ Back-in
 Parking
 
 ### Parking
-`hongqi_hs5_en_6cb80854` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:203 | doc_type:owners_manual
 in
 oblique position
 Parking in
@@ -5690,7 +5256,6 @@ Parking in
 horizontal
 
 ### Parking in
-`hongqi_hs5_en_e4ab18ba` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:203 | doc_type:owners_manual
 horizontal
 Manual
 mode
@@ -5700,13 +5265,11 @@ Auto mode
 Auto mode
 
 ### Confirm parking
-`hongqi_hs5_en_f42d2ef0` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:203 | doc_type:owners_manual
 Space found. Please park.
 The parking system will be
 disabled after 10S.
 
 ### Drag and rotate the white car to
-`hongqi_hs5_en_26815af0` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:203 | doc_type:owners_manual
 target space. The red means not
 available.
 The parking system will be disabled after 10S.
@@ -5725,7 +5288,6 @@ In the parking process, release the unlock key of the shift handle, the parking 
 the key again to continue parking.
 
 ### Auto out
-`hongqi_hs5_en_1a72558a` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:204 | doc_type:owners_manual
 ■ Select out type
 Through the audio system screen, the user can select
 vertical out, parallel out from right and parallel out from
@@ -5733,7 +5295,6 @@ left.
 Back-in
 
 ### Parallel out
-`hongqi_hs5_en_97dab3fe` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:204 | doc_type:owners_manual
 from right
 Parking in
 horizontal
@@ -5741,14 +5302,12 @@ Confirm parking
 Vertical out mode
 
 ### The parking system will be
-`hongqi_hs5_en_1b5f4117` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:204 | doc_type:owners_manual
 disabled after 10S.
 4-5. Use other driving system
 203
 4
 
 ### Driving
-`hongqi_hs5_en_6e7d876b` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:205 | doc_type:owners_manual
 ■ Exit control
 After selecting the type, depress the brake pedal and press the "Confirm Park" button to start the vehicle.
 During the exit process, must press and hold the unlock
@@ -5783,46 +5342,43 @@ EPB switch to control the vehicle parking.
 4-5. Use other driving system
 204
 
-### Caution
-`hongqi_hs5_en_df35a329` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:206 | doc_type:owners_manual
- The driver is the main operator of the vehicle. APA automatic parking system is only a driving
-assistance system. The driver should control the vehicle according to the actual road conditions and
-drive carefully.
- In order to ensure the success rate and safety of the parking system, the system needs to be used in
-the following environmental conditions:
-● The road surface is flat, the height of obstacles is less than 5cm, and the gradient is not more than 4
-degrees.
-● The parking space lines should be clear and the parking space should be large.
-● The weather is good. The driver can clearly and unobstructedly see the environment near the parking
-space.
-● The road surface is dry and difficult to slip.
- In the process of automatically searching for parking spaces, the following situations should be paied
-attention to:
-●The vehicle needs to drive close to the parking space. Too long a distance may cause the parking space
-failed to be identified.
-● The steering angle of the vehicle cannot be too large. Otherwise, parking space identification may fail.
-● The vehicle speed should not exceed 20km/h, which may lead to failure of parking space identification.
-● In case of rain, snow, fog or dim light, the parking space identification rate may be reduced.
-●When the parking space is too small, the parking space line is unclear or the parking space is irregular, it
-may lead to failure in parking space identification.
-● In the process of finding parking spaces, the image can only assist the driver, and the driver must pay
-attention to the surrounding environment in real time.
- In the process of automatic parking of vehicles, attention should be paid to the following situations:
-● There may be blind spots with respect to the distance prompt function. The driver needs to pay attention to
-the surrounding environment in real time.
-● Insufficient parking space may lead to parking failure.
-●When the road slope is too steep, parking may not be possible.
-● A wet and slippery road surface may cause the parking failure.
-● Uneven road surface may lead to parking failure.
-● During the parking process, the driver can operate accelerator pedal, the gears and the steering wheel.
- If the tire needs to be replaced, please ensure that the size and specification of the replaced tire are
-exactly the same as those of the original one, and verify the four-wheel alignment parameters.
-4-5. Use other driving system
-205
-4
+> ⚠️ **Внимание:**  The driver is the main operator of the vehicle. APA automatic parking system is only a driving
+> assistance system. The driver should control the vehicle according to the actual road conditions and
+> drive carefully.
+>  In order to ensure the success rate and safety of the parking system, the system needs to be used in
+> the following environmental conditions:
+> ● The road surface is flat, the height of obstacles is less than 5cm, and the gradient is not more than 4
+> degrees.
+> ● The parking space lines should be clear and the parking space should be large.
+> ● The weather is good. The driver can clearly and unobstructedly see the environment near the parking
+> space.
+> ● The road surface is dry and difficult to slip.
+>  In the process of automatically searching for parking spaces, the following situations should be paied
+> attention to:
+> ●The vehicle needs to drive close to the parking space. Too long a distance may cause the parking space
+> failed to be identified.
+> ● The steering angle of the vehicle cannot be too large. Otherwise, parking space identification may fail.
+> ● The vehicle speed should not exceed 20km/h, which may lead to failure of parking space identification.
+> ● In case of rain, snow, fog or dim light, the parking space identification rate may be reduced.
+> ●When the parking space is too small, the parking space line is unclear or the parking space is irregular, it
+> may lead to failure in parking space identification.
+> ● In the process of finding parking spaces, the image can only assist the driver, and the driver must pay
+> attention to the surrounding environment in real time.
+>  In the process of automatic parking of vehicles, attention should be paid to the following situations:
+> ● There may be blind spots with respect to the distance prompt function. The driver needs to pay attention to
+> the surrounding environment in real time.
+> ● Insufficient parking space may lead to parking failure.
+> ●When the road slope is too steep, parking may not be possible.
+> ● A wet and slippery road surface may cause the parking failure.
+> ● Uneven road surface may lead to parking failure.
+> ● During the parking process, the driver can operate accelerator pedal, the gears and the steering wheel.
+>  If the tire needs to be replaced, please ensure that the size and specification of the replaced tire are
+> exactly the same as those of the original one, and verify the four-wheel alignment parameters.
+> 4-5. Use other driving system
+> 205
+> 4
 
 ### CAUTIONS
-`hongqi_hs5_en_834c7231` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:207 | doc_type:owners_manual
 ■ Pay special attention to the people animals, and various obstacles around the vehicle. The sensors
 have undetectable blind spots.
 ■ When looking for a parking space or during parking, make sure that there are no obstacles in the
@@ -5869,7 +5425,6 @@ specific angle range.
 4-5. Use other driving system
 
 ### Driver assistance system
-`hongqi_hs5_en_7f4705d3` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:208 | doc_type:owners_manual
 206
 Functions integrated by ESC (Electronic Stability Program), which may be different according to
 different vehicle models.
@@ -5914,7 +5469,6 @@ turned off/on by the button.
 4
 
 ### Driving
-`hongqi_hs5_en_a4292242` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:209 | doc_type:owners_manual
  Active Pre-Braking (ABP)*
 When the brake pedal is pressed in an emergency, the response speed of the brake is improved.
  EPS electric power assisted steering
@@ -5924,7 +5478,6 @@ If the vehicle slips or the drive wheels are idling, the
 indicator flashes, indicating that TCS/ ESC is working.
 
 ### Disabling ESC
-`hongqi_hs5_en_e090cf14` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:209 | doc_type:owners_manual
 If the vehicle gets stuck in fresh snow or mud, the ESC may reduce the power from the engine to the wheels.
 Turn the system off to move the vehicle back and forth to free it.
 Press the "ESC OFF" key to turn off the ESC function.
@@ -5945,7 +5498,6 @@ conditions do not mean that a fault has occurred.
 • A motor sound may be heard after the vehicle comes to a stop.
 
 ### CAUTIONS
-`hongqi_hs5_en_0b543beb` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:210 | doc_type:owners_manual
 ■ Handling of wheels and suspension:
 Using tires with any kind of problem or modifying the suspension will affect the driving assist systems, and
 may cause a system malfunction.
@@ -5976,7 +5528,6 @@ wheels, please contact with China FAW authorized Hongqi distributor.
 4-6. Driving Information
 
 ### Key points for driving in winter
-`hongqi_hs5_en_ebd58927` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:211 | doc_type:owners_manual
 209
 4
 Driving
@@ -6002,12 +5553,10 @@ the brakes.
 Accelerate the vehicle slowly and drive at a reduced speed according to the road conditions.
 
 ### Tire Chain Selection
-`hongqi_hs5_en_8a0395ee` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:211 | doc_type:owners_manual
 Use the correct tire chain size when mounting the tire chains.
 The dimensions of tire chains should be adjusted based on the size of each tire.
 
 ### Regulations on the use of tire chains
-`hongqi_hs5_en_c1837861` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:211 | doc_type:owners_manual
 Regulations regarding the use of tire chains vary depending on locations and types of roads.
 Always check local regulations before installing chains.
 Install the chain on the driving tire.
@@ -6021,7 +5570,6 @@ Please take the following precautions when installing or removing tire chains:
 • Install tire chains following the instructions in the user manual of the tire chains.
 
 ### CAUTIONS
-`hongqi_hs5_en_04d95f3e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:212 | doc_type:owners_manual
 ■ Drive the car equipped with snow tires
 Observe the following precautions to reduce the risk of accidents. Failure to do so may result in a loss of
 vehicle control and cause serious injury or even death.
@@ -6055,13 +5603,11 @@ Audio system 5
 5.1. Basic Operation
 
 ### Multimedia display
-`hongqi_hs5_en_3c901130` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:214 | doc_type:owners_manual
 212
 The user can control the navigation, call, radio, music, vehicle setting and A/C through the main menu
 interface on the multi-media display.
 
 ### S/N
-`hongqi_hs5_en_cc9ab67a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:214 | doc_type:owners_manual
 Name
 Function
 1
@@ -6071,13 +5617,11 @@ By touching the application icon, you can quickly navigate to the company and ho
 2
 
 ### My car
-`hongqi_hs5_en_7e91b4b8` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:214 | doc_type:owners_manual
 Enter the vehicle setting (see P_222)
 Touching the application icon can quickly achieve the auto in and out.
 3
 
 ### Multimedia file
-`hongqi_hs5_en_4db43757` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:214 | doc_type:owners_manual
 Enter the multimedia application (see P.234, 237, 241) and switch the currently played tracks by
 touching the application icon.
 4
@@ -6087,7 +5631,6 @@ By touching the application icon, you can quickly access the contacts and call h
 5
 
 ### System settings
-`hongqi_hs5_en_fa32fbd9` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:214 | doc_type:owners_manual
 Enter system settings (see P.217)
 By touching the application icon, you can quickly access voice recognition and theme modes.
 You can quickly enter the system settings by touching or sliding down the status bar from the top
@@ -6095,18 +5638,15 @@ of the screen.
 6
 
 ### Connect
-`hongqi_hs5_en_59df5afc` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:214 | doc_type:owners_manual
 Enter Hong Qi smart link (see R261)
 Touching the application icon can quickly access the QQ music and Himalaya.
 7
 
 ### A/C
-`hongqi_hs5_en_e23c7a86` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:214 | doc_type:owners_manual
 Enter air conditioning application (see R270)
 Touching or pulling up the lower of screen status bar can access A/C system.
 
 ### Navigation
-`hongqi_hs5_en_fcd5b99e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:214 | doc_type:owners_manual
 Calling....
 Go to the
 company
@@ -6115,7 +5655,6 @@ home
 Auto out
 
 ### Previous
-`hongqi_hs5_en_ad834125` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:214 | doc_type:owners_manual
 Next
 5.1. Basic Operation
 213
@@ -6155,28 +5694,24 @@ electronic components will be damaged.
 ● When cleaning the multimedia display surface, please use soft cloth, and do not use any dilute or other
 chemical cleaner for wiping.
 
-### Caution
-`hongqi_hs5_en_5499b55a` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:216 | doc_type:owners_manual
- Due to the high sensitivity of this system, noise may be generated when approaching TV tower, radio
-station, power plant or other places emitting strong radio waves or electric noise interference.
- Preventing low battery power
- Do not use the audio system for a long time when the vehicle is not starting
- Prevent damage to sound system
-● Do not spill drinks or other liquids onto the audio system. If the fluid or other objects fall into this unit,
-immediately switch off the power and contact the authorized dealer of FAW HONGQI.
-● Do not repair, disassemble or modify the unit without authorization. In the case of malfunction,
-immediately shut down the audio system and contact the authorized dealer of FAW HONGQI.
-5.1. Basic Operation
+> ⚠️ **Внимание:**  Due to the high sensitivity of this system, noise may be generated when approaching TV tower, radio
+> station, power plant or other places emitting strong radio waves or electric noise interference.
+>  Preventing low battery power
+>  Do not use the audio system for a long time when the vehicle is not starting
+>  Prevent damage to sound system
+> ● Do not spill drinks or other liquids onto the audio system. If the fluid or other objects fall into this unit,
+> immediately switch off the power and contact the authorized dealer of FAW HONGQI.
+> ● Do not repair, disassemble or modify the unit without authorization. In the case of malfunction,
+> immediately shut down the audio system and contact the authorized dealer of FAW HONGQI.
+> 5.1. Basic Operation
 
 ### Multimedia switch on the steering wheel
-`hongqi_hs5_en_425ecafd` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:217 | doc_type:owners_manual
 215
 5
 Audio System
 Some multimedia features can be controlled using the multimedia switches on the steering wheel.
 
 ### Voice recognition button
-`hongqi_hs5_en_5166d594` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:217 | doc_type:owners_manual
 Volume adjustment/mute button
 S/N
 Features:
@@ -6192,13 +5727,11 @@ Short press: activate/exit voice recognition.
 Scroll up/down: the volume is increased/minimum, and if it is muted, it will be unmuted;Press: mute/cancel mute.
 
 ### CAUTIONS
-`hongqi_hs5_en_38b9b389` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:217 | doc_type:owners_manual
 ■During driving
 Take extra care when operating the multimedia switch on the steering wheel to prevent accidents.
 5.1. Basic Operation
 
 ### USB interface
-`hongqi_hs5_en_a2916adf` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:218 | doc_type:owners_manual
 216
 Connect a USB device to the USB port, go to the corresponding mode, then you can operate it via the
 audio system.
@@ -6207,30 +5740,25 @@ Open the front seat center storage box lid, and connect the
 external multimedia source.
 
 ### USB2
-`hongqi_hs5_en_145614d4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:218 | doc_type:owners_manual
 ■USB memory
 Connect the USB memory device.
 If the USB memory device is not started, turn it on.
 
 ### CAUTIONS
-`hongqi_hs5_en_e710c0e4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:218 | doc_type:owners_manual
 ■During driving
 Do not connect any device or operate its control buttons to prevent any accident.
 
-### Caution
-`hongqi_hs5_en_ccad12e6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:218 | doc_type:owners_manual
-USB port
-●Be sure to keep the port clean. If a foreign object or liquid enters the port, it may cause a malfunction of
-the sound system.
-●Do not insert any high-current USB device except a USB stick or a mobile telephone, including mobile
-hard disk drives and portable power sources.
-Mobile phone USB cable
-●It is recommended to connect with the USB cable provided with the mobile phone to ensure the stability of
-the connection.
-5.2. Settings
+> ⚠️ **Внимание:** USB port
+> ●Be sure to keep the port clean. If a foreign object or liquid enters the port, it may cause a malfunction of
+> the sound system.
+> ●Do not insert any high-current USB device except a USB stick or a mobile telephone, including mobile
+> hard disk drives and portable power sources.
+> Mobile phone USB cable
+> ●It is recommended to connect with the USB cable provided with the mobile phone to ensure the stability of
+> the connection.
+> 5.2. Settings
 
 ### System settings
-`hongqi_hs5_en_425e42aa` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:219 | doc_type:owners_manual
 217
 5
 Audio System
@@ -6241,7 +5769,6 @@ Enter the audio-visual setting interface (see R220)
 Go to the Document Management interface (see P.221)
 
 ### System
-`hongqi_hs5_en_c92f4ed9` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:219 | doc_type:owners_manual
 settings
 Audiovisual
 settings
@@ -6250,7 +5777,6 @@ management
 Mobile network
 
 ### Personal
-`hongqi_hs5_en_c0d4377d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:219 | doc_type:owners_manual
 hotspot
 Mobile phone
 interconnection
@@ -6258,18 +5784,15 @@ Closing
 Closing
 
 ### Baidu CarLife
-`hongqi_hs5_en_804ee551` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:219 | doc_type:owners_manual
 5.2. Settings
 218
 Main interface of system settings
 
 ### Mobile internet
-`hongqi_hs5_en_236358be` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:220 | doc_type:owners_manual
 ■Enable mobile network: access the network through the network environment created by built-in network
 card.
 
 ### WLAN setting up
-`hongqi_hs5_en_a2ba080c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:220 | doc_type:owners_manual
 ■Enable WLAN: press the key [ON] on WLAN setting interface.
 ■Search for WLAN: Set WLAN to On and click [Search] button on the screen to find the network.
 ■Connect the WLAN: select the network to access and enter the password to connect.
@@ -6277,7 +5800,6 @@ card.
 network connection.
 
 ### Bluetooth settings
-`hongqi_hs5_en_1e9c91fa` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:220 | doc_type:owners_manual
 ■Enable Bluetooth: press the key [ON] on Bluetooth setting interface.
 ■Search Bluetooth: set Bluetooth to ON and press [SEARCH] on the screen to search Bluetooth equipment.
 ■Connect the Bluetooth: select the Bluetooth equipment to be connected to match. After the connection
@@ -6289,13 +5811,11 @@ Bluetooth equipment.
 ■Setting: to set the Bluetooth visibility and equipment name etc.
 
 ### Personal hotspot
-`hongqi_hs5_en_c1bab7fa` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:220 | doc_type:owners_manual
 ■Enable personal hotspot: press the key [ON] on personal hotspot interface.
 ■Edit hotspot name: set personal hotspot to ON, enter the name in editing interface and confirm to complete
 the name editing.
 
 ### Baidu CarLife
-`hongqi_hs5_en_9f5563d3` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:220 | doc_type:owners_manual
 5.2. Settings
 219
 5
@@ -6304,11 +5824,9 @@ Audio System
 confirm to complete the password setting.
 
 ### Mobile phone interconnection
-`hongqi_hs5_en_62ff3921` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:221 | doc_type:owners_manual
 You can choose how to connect to the phone by default.
 
 ### Voice recognition
-`hongqi_hs5_en_19039b91` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:221 | doc_type:owners_manual
 ■Voice function: it can be set to ON or OFF.
 ■Part-time wake-up free: Set part-time wake-up free to ON and set part-time wake-up free time in the time
 setting interface.
@@ -6318,7 +5836,6 @@ editing interface, enter the modification contents and confirm.
 ■TTS pronounce can be set to: young woman, matured woman.
 
 ### System language
-`hongqi_hs5_en_edfd8851` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:221 | doc_type:owners_manual
 The system can be set to Chinese or English.
 Date and time
 ■24h system: Select [ON] for 24h system; select [OFF] for 12h system.
@@ -6328,50 +5845,41 @@ time modification.
 date modification.
 
 ### About this unit
-`hongqi_hs5_en_d3887606` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:221 | doc_type:owners_manual
 You can view system information.
 Restore factory settings
 The system can be reset-only system settings.
 The system can be reset to factory settings.
 
 ### Upgraded system
-`hongqi_hs5_en_76afcf61` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:221 | doc_type:owners_manual
 In the system upgrade, USB upgrade and automatic update can be carried out. For specific operation, please
 refer to the system guide or contact an authorized Hong Qi dealer of FAW China.
 5.2. Settings
 220
 
 ### Theme mode
-`hongqi_hs5_en_36292d23` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:222 | doc_type:owners_manual
 It can be set to classic, sport and concise.
 Display mode
 It can be set to automatic, day or night modes.
 
 ### Brightness
-`hongqi_hs5_en_300bd4b8` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:222 | doc_type:owners_manual
 To adjust the screen brightness, touch the key [+] or [-] or drag the brightness setting bar.
 
 ### Environment tone effect
-`hongqi_hs5_en_34aeb64f` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:222 | doc_type:owners_manual
 It can be set to 4 tone effect modes: CenterPoint, normal balanced, driver's seat preference and rear row seat
 preference.
 
 ### Volume control
-`hongqi_hs5_en_ad9cea32` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:222 | doc_type:owners_manual
 It can adjust the key tone, radar tone, E-CALL and phone volume.
 To adjust the volume, touch the key [+] or [-] or drag the volume setting bar.
 
 ### Timbre setting
-`hongqi_hs5_en_ee2d053a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:222 | doc_type:owners_manual
 It can adjust the value of treble, mediant and bass.
 To adjust the sound value, touch the key [+] or [-] or drag the timbre setting bar.
 
 ### Sound field setting
-`hongqi_hs5_en_db7184bd` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:222 | doc_type:owners_manual
 Select the best listening point by dragging the round cursor side to side.
 
 ### Environment tone effect
-`hongqi_hs5_en_34aeb64f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:222 | doc_type:owners_manual
 Music
 adjustment
 Music settings
@@ -6383,17 +5891,14 @@ Night
 5
 
 ### Document management
-`hongqi_hs5_en_9f91636a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:223 | doc_type:owners_manual
 Through the file management, the user can view, search, play and delete the files in the media source.
 
 ### Shortcut menu
-`hongqi_hs5_en_1ad7ba92` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:223 | doc_type:owners_manual
 In the open state of the audio system, above the screen status bar, slide down to pull out the shortcut menu,
 and check some functions quickly.
 In the shortcut menu interface, touch the right side system setting to quickly access the setting interface.
 
 ### System
-`hongqi_hs5_en_deffa794` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:223 | doc_type:owners_manual
 settings
 Audiovisual
 settings
@@ -6402,7 +5907,6 @@ management
 Local
 
 ### File holder
-`hongqi_hs5_en_9058628d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:223 | doc_type:owners_manual
 Video.mp4
 Song 2.mp3
 Song 1.mp3
@@ -6415,7 +5919,6 @@ l
 d d
 
 ### Personal
-`hongqi_hs5_en_91aefd13` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:223 | doc_type:owners_manual
 hotspot
 Bluetoot
 h
@@ -6425,14 +5928,12 @@ Muting
 Brightness
 
 ### Volume
-`hongqi_hs5_en_230c1d5d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:223 | doc_type:owners_manual
 5.2. Settings
 Vehicle setting
 222
 In the main menu interface, touch [my car] to access the vehicle setting main interface.
 
 ### Vehicle setting main interface
-`hongqi_hs5_en_4747e307` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:224 | doc_type:owners_manual
 Enter the lighting setting interface (see R223)
 Go to the Comfort Setting interface (see P.224)
 Go to the Driver Assistance interface (see P.225)
@@ -6441,7 +5942,6 @@ Go to the Maintenance, etc. interface (see P.227)
 Calling....
 
 ### Lighting
-`hongqi_hs5_en_2757ce92` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:224 | doc_type:owners_manual
 setting
 Comfort setting
 Driver
@@ -6454,13 +5954,11 @@ Maintenance, etc.
 5
 
 ### Daytime running lamp
-`hongqi_hs5_en_fbb7acc4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:225 | doc_type:owners_manual
 Set DRL on/off.
 High beam assist
 Set the IHC On and Off.
 
 ### Welcome lamp
-`hongqi_hs5_en_10d71780` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:225 | doc_type:owners_manual
 Set LED board on/off.
 Boarding lighting
 Set boarding lighting on/off.
@@ -6470,14 +5968,12 @@ Set leaving lighting on/off.
 It can be used for15s/30s/60s time settings.
 
 ### Backlight brightness
-`hongqi_hs5_en_85a40289` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:225 | doc_type:owners_manual
 It can achieve 5-level brightness adjustment.
 Ambience lamp
 Setting the ambience light on/off.
 7 levels of brightness adjustment and color adjustment are available.
 
 ### Lighting
-`hongqi_hs5_en_7e8b86e8` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:225 | doc_type:owners_manual
 i
 Comfort setting
 Driver
@@ -6488,7 +5984,6 @@ l
 Maintenance, etc.
 
 ### Boarding lighting
-`hongqi_hs5_en_645dce80` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:225 | doc_type:owners_manual
 Time (s)
 Air conditioner is
 ff
@@ -6497,20 +5992,17 @@ ff
 Comfort setting
 
 ### Safe unlocking
-`hongqi_hs5_en_a4bf6bc8` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:226 | doc_type:owners_manual
 Set safe unlocking on/off.
 On: press the unlocking key on the remote controller once and the driver's side door will be unlocked;
 Press the unlocking key twice continuously and all the doors will be unlocked.
 OFF: Press the remote control unlock button once to unlock all doors.
 
 ### Facilitate in and out
-`hongqi_hs5_en_af60c883` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:226 | doc_type:owners_manual
 Set LED board on/off.
 Exterior rearview mirror auto folding
 Set exterior rearview mirror auto folding or not upon vehicle locking.
 
 ### Rear seat belt unfastened indicator lamp
-`hongqi_hs5_en_e91fb949` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:226 | doc_type:owners_manual
 Set rear seat belt unfastened reminding on/off.
 Mobile phone left reminding
 Set the phone left reminding on/off.
@@ -6518,7 +6010,6 @@ With this function on, if the engine switch is shut down while the phone is in t
 connecting the on-board CarLife, the instrument cluster will remind.
 
 ### Auto parking upon power off
-`hongqi_hs5_en_f8ce5ba3` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:226 | doc_type:owners_manual
 Set auto parking or not upon power off.
 Active unlocking upon approaching
 Set active unlocking upon approaching on/off.
@@ -6526,7 +6017,6 @@ With the function on, when the driver is approaching the vehicle with smart key/
 will be automatically unlocked.
 
 ### Driver
-`hongqi_hs5_en_ae2ae05d` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:226 | doc_type:owners_manual
 assistance
 Head up
 display
@@ -6534,7 +6024,6 @@ Maintenance, etc.
 A/C off
 
 ### Automatic folding of rearview
-`hongqi_hs5_en_eed3c31c` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:226 | doc_type:owners_manual
 mirrors
 Rear seat belt unfastened
 indicator lamp
@@ -6544,35 +6033,28 @@ Mobile phone left reminding
 5
 
 ### Smart speed restriction
-`hongqi_hs5_en_3a101b96` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:227 | doc_type:owners_manual
 Set the road traffic mark identification system on/off. The default status is on.
 
 ### Speed restriction reminding
-`hongqi_hs5_en_5851e86a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:227 | doc_type:owners_manual
 Set the speed restriction reminding on/off. The default status is off.
 Vehicle speed restriction range:30-220km/h.
 
 ### Cruise mode
-`hongqi_hs5_en_9e28d8ec` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:227 | doc_type:owners_manual
 Set the cruise mode on/off. With the function on, the cruise mode can be set to ACC or SACC.
 
 ### Lane keeping assist system
-`hongqi_hs5_en_c09039d4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:227 | doc_type:owners_manual
 Set the LKA system reminding to warning or warning + correction; in addition, the lane deviation early
 warning sensitivity can be set.
 With SACC off, the lane deviation early warning sensitivity (the default is warning upon line contact) can be
 set.
 
 ### Front collision warning
-`hongqi_hs5_en_fca4592f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:227 | doc_type:owners_manual
 Set the early warning prior to collision on/off. The default status is on.
 
 ### Advanced emergency braking
-`hongqi_hs5_en_c39988f3` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:227 | doc_type:owners_manual
 Set the active emergency braking on/off. The default status is on.
 
 ### Lighting
-`hongqi_hs5_en_3eb84165` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:227 | doc_type:owners_manual
 i
 Comfort setting
 Driver
@@ -6584,7 +6066,6 @@ Maintenance, etc.
 A/C off
 
 ### Smart speed
-`hongqi_hs5_en_1fca016b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:227 | doc_type:owners_manual
 i i
 Speed limit reminder (km/h)
 Cruise mode
@@ -6593,19 +6074,15 @@ Adaptive cruise control
 226
 
 ### HUD brightness
-`hongqi_hs5_en_d9a122b2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:228 | doc_type:owners_manual
 HUD brightness setting range: -1 (MO, default value is 0.
 
 ### Cruise system
-`hongqi_hs5_en_e067873f` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:228 | doc_type:owners_manual
 Set the cruise system display on / off. The default is on.
 
 ### Smart speed restriction reminding
-`hongqi_hs5_en_1e2c5bc6` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:228 | doc_type:owners_manual
 Set the smart speed restriction reminding display on/off. The default status is on.
 
 ### Navigation
-`hongqi_hs5_en_8f674a19` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:228 | doc_type:owners_manual
 Set the navigation display on/off. The default status is on.
 Call
 Set the incoming call display on/off. The default status is on.
@@ -6613,15 +6090,12 @@ Audio
 Set the audio display on/off. The default status is on.
 
 ### Lane keeping assistance
-`hongqi_hs5_en_df9ff05b` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:228 | doc_type:owners_manual
 Set the LKA display on/off. The default status is on.
 
 ### Advanced emergency braking
-`hongqi_hs5_en_de3d2953` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:228 | doc_type:owners_manual
 Set the active emergency braking display on/off. The default status is on.
 
 ### Driver
-`hongqi_hs5_en_86e985c3` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:228 | doc_type:owners_manual
 assistance
 Head up
 display
@@ -6630,7 +6104,6 @@ HUD brightness
 Calling....
 
 ### Navigation
-`hongqi_hs5_en_8f674a19` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:228 | doc_type:owners_manual
 5.3. Navigation
 227
 5
@@ -6638,25 +6111,20 @@ Audio System
 Maintenance, etc.
 
 ### Wiper repair position
-`hongqi_hs5_en_bcb2bce5` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:229 | doc_type:owners_manual
 With the wiper maintenance position function enabled, set the wiper to maintenance position if possible.
 
 ### Maintenance notification
-`hongqi_hs5_en_48c1d358` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:229 | doc_type:owners_manual
 ■Mileage interval setting: in the setting interface, the maintenance interval mileage can be viewed and set.
 ■Time interval setting: in the setting interface, the maintenance time interval can be viewed and set.
 
 ### Average fuel consumption billing
-`hongqi_hs5_en_8a67e9e2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:229 | doc_type:owners_manual
 Set the average fuel consumption billing on/off. The default status is off.
 Touch the fuel unit price setting zone to set the unit price.
 
 ### Acceleration timer
-`hongqi_hs5_en_33b8bb50` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:229 | doc_type:owners_manual
 Set the acceleration timer on/off. The default status is off.
 
 ### Lighting
-`hongqi_hs5_en_347f695e` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:229 | doc_type:owners_manual
 setting
 Comfort setting
 Driver
@@ -6666,7 +6134,6 @@ display
 Maintenance, etc.
 
 ### Wiper repair position
-`hongqi_hs5_en_bcb2bce5` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:229 | doc_type:owners_manual
 A/C off
 Maintenance notification
 Average fuel consumption
@@ -6675,7 +6142,6 @@ Unit price of fuel (RMB
 Yuan/L)
 
 ### Mileage interval
-`hongqi_hs5_en_e4d426fb` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:229 | doc_type:owners_manual
 setting
 Time interval
 setting
@@ -6685,24 +6151,20 @@ Remaining time - day
 5.3. Navigation
 
 ### Fundamental function
-`hongqi_hs5_en_d1469642` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:230 | doc_type:owners_manual
 228
 Navigation map interface -
  Map mode interface
 
 ### Main menu
-`hongqi_hs5_en_6b50fec0` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:230 | doc_type:owners_manual
 Touch to access the main menu interface.
 Current position
 
 ### Status bar
-`hongqi_hs5_en_d42f48ff` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:230 | doc_type:owners_manual
 Touch to deploy the status bar information.
 Return
 Return audio system main interface.
 
 ### Road condition switch
-`hongqi_hs5_en_c62c7a54` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:230 | doc_type:owners_manual
 Touch to open the real time road condition.
 View mode
 Click it to switch to 2D north upward/2D head upward/3D head upward mode.
@@ -6710,7 +6172,6 @@ Scale
 It can magnify or reduce the map display scale.
 
 ### Destination
-`hongqi_hs5_en_afc0fb7e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:230 | doc_type:owners_manual
 Touch to search the destination and set navigation.
 A/C off
 *
@@ -6719,50 +6180,42 @@ A/C off
 5
 
 ### Audio System
-`hongqi_hs5_en_ceb8948b` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:231 | doc_type:owners_manual
 ■Navigation mode interface
 Distance to next intersection and road name
 Display the remaining distance to the next intersection and the road name at the next intersection.
 
 ### Lane information
-`hongqi_hs5_en_457af374` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:231 | doc_type:owners_manual
 Display the information of lane in which the vehicle is.
 
 ### Navigation status bar
-`hongqi_hs5_en_7ac1f127` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:231 | doc_type:owners_manual
 Touch to deploy the status bar information.
 Name of front road
 Display the name of road to access.
 
 ### Hawk view map road condition and progress
-`hongqi_hs5_en_1c7a02a8` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:231 | doc_type:owners_manual
 Display the road condition in the navigation route and the navigation progress.
 Hawk view map + full travel overview
 Display the entire navigation route map.
 
 ### Turn arrowhead
-`hongqi_hs5_en_31dfd7fb` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:231 | doc_type:owners_manual
 Display the advance direct of next intersection.
 A/C off
 *
 5.3. Navigation
 
 ### Using the navigation
-`hongqi_hs5_en_c58b3f90` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:232 | doc_type:owners_manual
 230
 Main Menu
 Touch the screen key
 on the navigation interface to access the main menu interface.
 
 ### Return
-`hongqi_hs5_en_76ecb059` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:232 | doc_type:owners_manual
 Click it to enter the map mode interface.
 Login
 In the case of on-board unit connecting network, the user can log in and synchronize the guidance information
 with the phone.
 
 ### Favorite
-`hongqi_hs5_en_f9ce3010` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:232 | doc_type:owners_manual
 Click it to enter the favorites interface for quickly navigation with the favorites.
 Off-line data
 Click it to enter the off line data interface to manage the offline data.
@@ -6770,15 +6223,12 @@ Set
 Touch to set the route planning, voice broadcast and map display in the Settings interface.
 
 ### My car
-`hongqi_hs5_en_41707fa9` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:232 | doc_type:owners_manual
 Click it to enter my vehicle interface to manage my vehicle.
 
 ### My message
-`hongqi_hs5_en_cc3a10a6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:232 | doc_type:owners_manual
 Touch to enter my message interface ■ to view and manage my messages.
 
 ### Synchronize search records with
-`hongqi_hs5_en_609733cc` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:232 | doc_type:owners_manual
 the phone and computer
 My messages
 No new message
@@ -6786,7 +6236,6 @@ Favorites
 Off-line data
 
 ### Enter the plate number and keep
-`hongqi_hs5_en_bf30d61f` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:232 | doc_type:owners_manual
 clear of limiting zone
 Set
 *
@@ -6806,7 +6255,6 @@ Bird's Nest
 Bird's Nest Cultural Center
 
 ### Search around
-`hongqi_hs5_en_fb42dea1` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:233 | doc_type:owners_manual
 Go
 Bird's Nest Parking Lot
 Ground parking lot. Beijing - Chaoyang District - Beichen East Road No.15
@@ -6826,13 +6274,11 @@ Step
 5.3. Navigation
 
 ### Using the navigation
-`hongqi_hs5_en_80414a0c` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:234 | doc_type:owners_manual
 232
 In the route planning interface, select the appropriate route and touch [start navigation].
 Note: the billing information can be displayed online.
 
 ### CAUTIONS
-`hongqi_hs5_en_4f3eeceb` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:234 | doc_type:owners_manual
 ■To reduce the risk of an accident
 ●While driving, avoid operating this system as far as possible.
 ■During driving
@@ -6861,7 +6307,6 @@ video and navigation screen within the driver's view field.
 A/C off
 
 ### Shortest distance
-`hongqi_hs5_en_1140696a` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:234 | doc_type:owners_manual
 32 minutes, 7.7km
 Start navigation.
 Shortest time
@@ -6869,7 +6314,6 @@ Shortest time
 10 traffic lights
 
 ### Highway first
-`hongqi_hs5_en_b4421359` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:234 | doc_type:owners_manual
 25 minutes, 10.0km
 Route preference
 Step
@@ -6879,7 +6323,6 @@ Step
 5
 
 ### CAUTIONS
-`hongqi_hs5_en_7a5bfb6b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:235 | doc_type:owners_manual
 ■During driving
 ●Do not disassemble this product or make modifications without permission, which may lead to accidents,
 fires, electric shocks, etc.
@@ -6894,25 +6337,22 @@ deteriorate the panel. Do not use them.
 adjusted
 The situation outside the car, which may cause accidents.
 
-### Caution
-`hongqi_hs5_en_5506af9c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:235 | doc_type:owners_manual
-At present, all vehicle navigation systems have certain limitations. Satellite conditions, road
-structure, vehicle conditions and others may affect the accuracy of vehicle positioning. This will affect
-the normal functioning of the system. If you have any questions, please contact an authorized Hong Qi
-dealer of China FAW.
-When Failure Arises
-Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
-Network connection quality
-The quality of network connection will vary due to the continuous change of antenna position, the difference
-of signal strength and the influence of nearby objects (such as trains and transmitting stations). It is difficult
-to maintain perfect reception quality.
-As navigation versions are constantly being updated, the actual operation interface may differ from
-the schematic. Please refer to the latest version.
-*
-5.4 Radio
+> ⚠️ **Внимание:** At present, all vehicle navigation systems have certain limitations. Satellite conditions, road
+> structure, vehicle conditions and others may affect the accuracy of vehicle positioning. This will affect
+> the normal functioning of the system. If you have any questions, please contact an authorized Hong Qi
+> dealer of China FAW.
+> When Failure Arises
+> Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
+> Network connection quality
+> The quality of network connection will vary due to the continuous change of antenna position, the difference
+> of signal strength and the influence of nearby objects (such as trains and transmitting stations). It is difficult
+> to maintain perfect reception quality.
+> As navigation versions are constantly being updated, the actual operation interface may differ from
+> the schematic. Please refer to the latest version.
+> *
+> 5.4 Radio
 
 ### Using the radio
-`hongqi_hs5_en_dd77ed19` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:236 | doc_type:owners_manual
 234
 Radio has two wave bands: FM and AM.
 How to enter the radio screen:
@@ -6922,7 +6362,6 @@ Calling....
 Radio
 
 ### Save favorite stations
-`hongqi_hs5_en_3c10d619` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:236 | doc_type:owners_manual
 AM/FM button
 Mute/play key
 Manually
@@ -6931,7 +6370,6 @@ Sound field
 settings
 
 ### Favorite
-`hongqi_hs5_en_b7a41700` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:236 | doc_type:owners_manual
 list/radio
 list button
 5.4. Radio
@@ -6940,13 +6378,11 @@ list button
 Audio System
 
 ### Searching for channels
-`hongqi_hs5_en_a04da270` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:237 | doc_type:owners_manual
  Manually modulating
 Touch/drag the frequency bar to carry out manual tuning.
  Manually searching
 
 ### Manually search for channels by tapping the screen buttons
-`hongqi_hs5_en_f81a0ff0` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:237 | doc_type:owners_manual
 and
 .
  Preview and select stations
@@ -6957,7 +6393,6 @@ preview.
  List update
 
 ### Touch the radio interface screen button
-`hongqi_hs5_en_ee9558dc` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:237 | doc_type:owners_manual
 to enter the radio station list interface. After selecting [AM radio
 station list] or [FM radio station list], touch the screen button
 . The system will automatically search for
@@ -6965,13 +6400,11 @@ valid radio stations in the current band and store them in the radio station lis
 to stop the search.
 
 ### Selecting channels
-`hongqi_hs5_en_d596bbcb` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:237 | doc_type:owners_manual
  List of channels
 Touch the radio interface screen key; Third, enter the station list interface and select the stations in the list to
 play.
 
 ### Collecting channels
-`hongqi_hs5_en_19872396` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:237 | doc_type:owners_manual
 The system supports to save channels in the following ways:
  Touch the button
 on the radio interface screen to store the currently playing station to the list of favorite
@@ -6983,7 +6416,6 @@ favorite station list.
 236
 
 ### Editing the list of channels
-`hongqi_hs5_en_b71782fc` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:238 | doc_type:owners_manual
  Favorite stations
 Delete radio station = in the list interface of favorite radio stations, press the screen button
 to enter the
@@ -6994,7 +6426,6 @@ to delete the selected radio station.
 The radio antenna is built into the shark fin antenna-
 
 ### CAUTIONS
-`hongqi_hs5_en_574200de` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:238 | doc_type:owners_manual
 ■ Reduce the possibility of traffic accidents
 ● While driving, avoid operating this system as far as possible.
 ● Take extra care when operating the multimedia switches on the steering wheel to prevent any accident.
@@ -7007,31 +6438,26 @@ traffic accidents.
 ● For safety, do not use this function to distract attention and hinder safe driving. Ignoring the road and
 traffic conditions will lead to accidents.
 
-### Caution
-`hongqi_hs5_en_ab87535c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:238 | doc_type:owners_manual
- Receiving sensitivity
-It is difficult to maintain perfect reception at all times due to the continually changing position of the
-antenna, differences in signal strength and surrounding objects, such as trains and transmitters.
- When Failure Arises
-Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
-5.5. Music
+> ⚠️ **Внимание:**  Receiving sensitivity
+> It is difficult to maintain perfect reception at all times due to the continually changing position of the
+> antenna, differences in signal strength and surrounding objects, such as trains and transmitters.
+>  When Failure Arises
+> Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
+> 5.5. Music
 
 ### My music play
-`hongqi_hs5_en_16848a5d` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:239 | doc_type:owners_manual
 237
 5
 Audio System
 The audio play main interface includes the artist name, track name and album cover.
 
 ### Methods for entering music interface
-`hongqi_hs5_en_539064cd` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:239 | doc_type:owners_manual
 Method 1: touch [multi-media] on the screen and select [radio] to access My music.
 Method 2: press [MOD] on the steering wheel and switch to radio interface.
 Calling....
 Radio
 
 ### Previous track button
-`hongqi_hs5_en_6c7aa159` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:239 | doc_type:owners_manual
 Pause/play button
 Next track button
 Play mode
@@ -7041,7 +6467,6 @@ Ode to the Hong Qi ... Shanghai Symphony Orchestra
 238
 
 ### Play control
-`hongqi_hs5_en_692a02fd` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:240 | doc_type:owners_manual
 ■ Pause/Play
 Tap the screen button
 /
@@ -7053,17 +6478,14 @@ Swipe left or right to switch the cover of the track to select the previous / ne
 ■ Track list
 
 ### Touch the music interface screen button
-`hongqi_hs5_en_4438830f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:240 | doc_type:owners_manual
 to enter the song list interface, select tracks in the corresponding
 media source for playing or touch the song list interface screen button
 to search tracks for playing.
 
 ### Play mode
-`hongqi_hs5_en_0dc2f3e0` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:240 | doc_type:owners_manual
 Touch the play mode button to select among single cycle, cycle play and random play modes.
 
 ### Favorite audio
-`hongqi_hs5_en_4a000816` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:240 | doc_type:owners_manual
 The system supports the following methods to save tracks:
 ■ Touch the music interface screen key
 and save the current play list to the favorite list.
@@ -7076,7 +6498,6 @@ If the favorite list is exceeded, the system will give the prompting message.
 5
 
 ### Edit favorite list
-`hongqi_hs5_en_6e7c0845` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:241 | doc_type:owners_manual
 ■ Favorite list
 Delete a music: In the favorite list interface, click the screen button
 to enter the edit mode, select the music
@@ -7085,7 +6506,6 @@ to delete the
 selected music.
 
 ### Media source
-`hongqi_hs5_en_65745356` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:241 | doc_type:owners_manual
 Touch the media source button to switch amont Favorites, Local, USB1 and USB2.
 ■ About the format
 ● The system supports audio files in the formats of WAV, MP3 and WMA.
@@ -7093,7 +6513,6 @@ Touch the media source button to switch amont Favorites, Local, USB1 and USB2.
 ●The system supports USB memory (U disk) in FAT16/FAT32/exFAT/NTFS format and does not support
 
 ### USBHUB0
-`hongqi_hs5_en_6f36130d` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:241 | doc_type:owners_manual
 ●The limit of the number of files in USB memory supports 2,500 audio and video files in formats, excluding
 formats not supported.
 ■ About Bluetooth music
@@ -7107,7 +6526,6 @@ Bluetooth mobile phone has turned on the Bluetooth music player and started play
 240
 
 ### CAUTIONS
-`hongqi_hs5_en_73937f89` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:242 | doc_type:owners_manual
 ■ Reduce the possibility of traffic accidents
 ● While driving, avoid operating this system as far as possible.
 ● Take extra care when operating the multimedia switch on the steering wheel to prevent accidents.
@@ -7120,24 +6538,21 @@ traffic accidents.
 ● For safety, do not use this function to distract attention and hinder safe driving. Ignoring the road and
 traffic conditions will lead to accidents.
 
-### Caution
-`hongqi_hs5_en_b8059aa7` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:242 | doc_type:owners_manual
- Prevent damage to USB devices and their terminals
-● Do not leave USB devices in the car. The temperature inside the car may rise and cause damage to USB
-devices.
-● When an USB device is connected, do not press or apply unnecessary pressure.
-● Do not insert foreign matter into the interface.
- Compatibility
-Some equipment may not work properly due to its own compatibility problems.
- Ensure normal system identification
-A poor quality USB device will cause the system to fail to recognize it. It is recommended to use a better
-quality USB device.
- When Failure Arises
-Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
-5.6. Bluetooth Music
+> ⚠️ **Внимание:**  Prevent damage to USB devices and their terminals
+> ● Do not leave USB devices in the car. The temperature inside the car may rise and cause damage to USB
+> devices.
+> ● When an USB device is connected, do not press or apply unnecessary pressure.
+> ● Do not insert foreign matter into the interface.
+>  Compatibility
+> Some equipment may not work properly due to its own compatibility problems.
+>  Ensure normal system identification
+> A poor quality USB device will cause the system to fail to recognize it. It is recommended to use a better
+> quality USB device.
+>  When Failure Arises
+> Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
+> 5.6. Bluetooth Music
 
 ### Bluetooth music play
-`hongqi_hs5_en_bc01f8b7` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:243 | doc_type:owners_manual
 241
 5
 Audio System
@@ -7152,13 +6567,11 @@ Calling....
 Radio
 
 ### Bluetooth music
-`hongqi_hs5_en_b393211c` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:243 | doc_type:owners_manual
 Ode to the Hong Qi ... Shanghai Symphony Orchestra
 Previous track button
 Pause/play button
 
 ### Sound field settings
-`hongqi_hs5_en_b9f09bf9` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:243 | doc_type:owners_manual
 5.6. Bluetooth Music
 242
 Play control
@@ -7169,7 +6582,6 @@ Tap the screen button
 Touch the on - screen button and both can select up/down tracks to play.
 
 ### CAUTIONS
-`hongqi_hs5_en_67b83d78` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:244 | doc_type:owners_manual
 ■ Reduce the possibility of traffic accidents
 ● While driving, avoid operating this system as far as possible.
 ● Take extra care when operating the multimedia switch on the steering wheel to prevent accidents.
@@ -7182,21 +6594,18 @@ traffic accidents.
 ● For safety, do not use this function to distract attention and hinder safe driving. Ignoring the road and
 traffic conditions will lead to accidents.
 
-### Caution
-`hongqi_hs5_en_57403a6b` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:244 | doc_type:owners_manual
- Prevent battery discharge
-Do not turn on the system for a long time when the vehicle is not started.
- Compatibility
-Some equipment may not work properly due to its own compatibility problems.
- When getting off
-Do not leave your mobile telephone or other belongings behind in the vehicle, which would be damaged
-because of temperature increase in the vehicle.
- When Failure Arises
-If the problem cannot be solved, please contact an authorized Hong Qi dealer of China FAW.
-5.7. Video
+> ⚠️ **Внимание:**  Prevent battery discharge
+> Do not turn on the system for a long time when the vehicle is not started.
+>  Compatibility
+> Some equipment may not work properly due to its own compatibility problems.
+>  When getting off
+> Do not leave your mobile telephone or other belongings behind in the vehicle, which would be damaged
+> because of temperature increase in the vehicle.
+>  When Failure Arises
+> If the problem cannot be solved, please contact an authorized Hong Qi dealer of China FAW.
+> 5.7. Video
 
 ### Video play
-`hongqi_hs5_en_76fde5e4` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:245 | doc_type:owners_manual
 243
 5
 Audio System
@@ -7206,7 +6615,6 @@ the video media source list interface and select the video to play to access the
 Pause/play button
 
 ### Return button
-`hongqi_hs5_en_7e1c62c8` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:245 | doc_type:owners_manual
 Hongqi HS5
 5.7. Video
 244
@@ -7214,7 +6622,6 @@ Play control
 ■ Pause/Play
 
 ### Tap the screen button
-`hongqi_hs5_en_aa0bf467` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:246 | doc_type:owners_manual
 /
 ■ Fast backward/fast forward
 By tapping/dragging the progress bar, you can control the play progress.
@@ -7229,7 +6636,6 @@ and
 select the up/down video file to play.
 
 ### Select the corresponding media source list and touch the screen button
-`hongqi_hs5_en_9d4f756b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:246 | doc_type:owners_manual
 to search and play.
 ■ Return
 Touch the screen button
@@ -7237,7 +6643,6 @@ in the video playing interface to return to the search or file list or file mana
 interface.
 
 ### History
-`hongqi_hs5_en_65c75382` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:246 | doc_type:owners_manual
 Delete history: in the history interface, press the screen button
 to enter editing mode, select the video to be
 deleted in the list or press the screen button [select all], press the screen button
@@ -7250,7 +6655,6 @@ The system supports MPG, MPEG, VOB, MP4, AVI, 3GP, MKV, MOV, WMV, FLV format vid
 5
 
 ### CAUTIONS
-`hongqi_hs5_en_9add365f` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:247 | doc_type:owners_manual
 ■Reduce the possibility of traffic accidents
 ● While driving, avoid operating this system as far as possible.
 ●Take extra care when operating the multimedia switch on the steering wheel to prevent accidents.
@@ -7263,24 +6667,21 @@ traffic accidents.
 ● For safety, do not use this function to distract attention and hinder safe driving. Ignoring the road and
 traffic conditions will lead to accidents.
 
-### Caution
-`hongqi_hs5_en_923e79c2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:247 | doc_type:owners_manual
- Prevent damage to USB devices and their terminals
-● Do not leave USB devices in the car. The temperature inside the car may rise and cause damage to USB
-devices.
-●When an USB device is connected, do not press or apply unnecessary pressure.
-● Do not insert foreign matter into the interface.
- Compatibility
-Some equipment may not work properly due to its own compatibility problems.
- Ensure normal system identification
-A poor quality USB device will cause the system to fail to recognize it. It is recommended to use a better
-quality USB device.
- When Failure Arises
-Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
-5.8. Images
+> ⚠️ **Внимание:**  Prevent damage to USB devices and their terminals
+> ● Do not leave USB devices in the car. The temperature inside the car may rise and cause damage to USB
+> devices.
+> ●When an USB device is connected, do not press or apply unnecessary pressure.
+> ● Do not insert foreign matter into the interface.
+>  Compatibility
+> Some equipment may not work properly due to its own compatibility problems.
+>  Ensure normal system identification
+> A poor quality USB device will cause the system to fail to recognize it. It is recommended to use a better
+> quality USB device.
+>  When Failure Arises
+> Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
+> 5.8. Images
 
 ### Image viewing
-`hongqi_hs5_en_6f792546` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:248 | doc_type:owners_manual
 246
 When a USB device with image files is connected, you can view images in the multimedia display.
 How to enter the picture viewing interface: press the screen button "Hong Qi Intelligence Link" and select
@@ -7288,7 +6689,6 @@ How to enter the picture viewing interface: press the screen button "Hong Qi Int
 browsing interface.
 
 ### Delete key
-`hongqi_hs5_en_5c1f848c` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:248 | doc_type:owners_manual
 5.8. Images
 247
 5
@@ -7302,7 +6702,6 @@ The image can be magnified and reduced by the double-finger scaling.
 ■ Rotating images
 
 ### By tapping the screen button
-`hongqi_hs5_en_fc8129e7` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:249 | doc_type:owners_manual
 or
 , you can adjust the image angle.
 The angle of swing is 90°.
@@ -7313,13 +6712,11 @@ When switching, the image is displayed in the default size.
 ■ Image list browse
 
 ### Touch the button
-`hongqi_hs5_en_148b3da1` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:249 | doc_type:owners_manual
 on the picture interface screen to enter the picture list interface and browse the pictures
 by sliding the picture list up or down.
 When an image is not viewable, the default picture or damaged ID will be displayed.
 
 ### Image editing
-`hongqi_hs5_en_3250c448` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:249 | doc_type:owners_manual
 ■ Delete image
 In the image interface, touch the screen key
 to delete the image being viewed.
@@ -7329,7 +6726,6 @@ The image cannot be deleted under USB mode.
 248
 
 ### CAUTIONS
-`hongqi_hs5_en_fda3f5d1` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:250 | doc_type:owners_manual
 ■ Reduce the possibility of traffic accidents
 ● While driving, avoid operating this system as far as possible.
 ● Take extra care when operating the multimedia switch on the steering wheel to prevent accidents.
@@ -7342,27 +6738,24 @@ traffic accidents.
 ●For safety, do not use this function to distract attention and hinder safe driving. Ignoring the road and traffic
 conditions will lead to accidents.
 
-### Caution
-`hongqi_hs5_en_32ecd1b6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:250 | doc_type:owners_manual
- Prevent damage to USB devices and their terminals
-● Do not leave USB devices in the car. The temperature inside the car may rise and cause damage to USB
-devices.
-● When the USB device is connected, do not press it or impose unnecessary pressure to it.
-● Do not insert foreign matter into the interface.
- Compatibility
-Some equipment may not work properly due to its own compatibility problems.
- Ensure normal system identification
-A poor quality USB device will cause the system to fail to recognize it. It is recommended to use a better
-quality USB device.
- When Failure Arises
-Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
-5.9. Hands-free System
-Using the hands-free system
-249
-5
+> ⚠️ **Внимание:**  Prevent damage to USB devices and their terminals
+> ● Do not leave USB devices in the car. The temperature inside the car may rise and cause damage to USB
+> devices.
+> ● When the USB device is connected, do not press it or impose unnecessary pressure to it.
+> ● Do not insert foreign matter into the interface.
+>  Compatibility
+> Some equipment may not work properly due to its own compatibility problems.
+>  Ensure normal system identification
+> A poor quality USB device will cause the system to fail to recognize it. It is recommended to use a better
+> quality USB device.
+>  When Failure Arises
+> Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
+> 5.9. Hands-free System
+> Using the hands-free system
+> 249
+> 5
 
 ### Audio System
-`hongqi_hs5_en_a3c461d7` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:251 | doc_type:owners_manual
 The hands-free system allows you to use the phone call function of a mobile telephone without touching
 it.
 The system supports Bluetooth® mobile phones. Bluetooth® is a wireless data system that enables a mobile
@@ -7370,12 +6763,10 @@ phone to wirelessly connect with a hands-free system to make/receive calls.
 ■ Phone switch
 
 ### Call hang up key
-`hongqi_hs5_en_98f6f23e` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:251 | doc_type:owners_manual
 See the following table for specific Bluetooth functions:
 Key
 
 ### Function
-`hongqi_hs5_en_7a4e4a72` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:251 | doc_type:owners_manual
 Press
 To answer the phone through Bluetooth, press the phone
 application; when there is call in, press it to answer.
@@ -7414,7 +6805,6 @@ This display may not correspond exactly with the mobile phone itself.
 5
 
 ### Audio System
-`hongqi_hs5_en_138ca528` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:253 | doc_type:owners_manual
 ■ About Bluetooth®
 Bluetooth® is the trademark for Bluetooth SIG, Inc.
 ■ Compatible type
@@ -7422,7 +6812,6 @@ The Bluetooth hands-free system is only compatible with Bluetooth mobile phones 
 passed the Bluetooth certification (SIG) and are sold through regular channels.
 
 ### CAUTIONS
-`hongqi_hs5_en_5e72d4e2` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:253 | doc_type:owners_manual
 ■ Reduce the possibility of traffic accidents
 ● While driving, avoid operating this system as far as possible.
 ● Take extra care when operating the multimedia switch on the steering wheel to prevent accidents.
@@ -7436,42 +6825,37 @@ traffic accidents.
 ● For the sake of safety, do not be distracted and thus obstruct safe driving due to this feature. Neglecting of
 roads and traffic might lead to accidents.
 
-### Caution
-`hongqi_hs5_en_37c6b94c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:253 | doc_type:owners_manual
- Compatibility
-Some equipment may not work properly due to its own compatibility problems.
- When getting off
-Do not leave your mobile telephone behind in the vehicle, which would be damaged because of temperature
-increase in the vehicle.
- When Failure Arises
-Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
-5.10. Bluetooth Telephone
-Using the Bluetooth® telephone
-252
-The system supports the functions of making and receiving calls, hanging up, checking the contacts,
-checking the call history, etc.
-There are two methods to enter into the Telephone interface:
-Method 1: Connect Bluetooth and press the button on the steering wheel to enter the phone interface.
-Method 2: connect the Bluetooth and touch the screen key [phone] to access the phone interface.
-Note: If Bluetooth is not connected, follow the guide on the screen to connect a Bluetooth phone and enter
-the Bluetooth phone interface when finished. (See P.218)
+> ⚠️ **Внимание:**  Compatibility
+> Some equipment may not work properly due to its own compatibility problems.
+>  When getting off
+> Do not leave your mobile telephone behind in the vehicle, which would be damaged because of temperature
+> increase in the vehicle.
+>  When Failure Arises
+> Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
+> 5.10. Bluetooth Telephone
+> Using the Bluetooth® telephone
+> 252
+> The system supports the functions of making and receiving calls, hanging up, checking the contacts,
+> checking the call history, etc.
+> There are two methods to enter into the Telephone interface:
+> Method 1: Connect Bluetooth and press the button on the steering wheel to enter the phone interface.
+> Method 2: connect the Bluetooth and touch the screen key [phone] to access the phone interface.
+> Note: If Bluetooth is not connected, follow the guide on the screen to connect a Bluetooth phone and enter
+> the Bluetooth phone interface when finished. (See P.218)
 
 ### Dial out button
-`hongqi_hs5_en_a6c0c7f7` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:254 | doc_type:owners_manual
 Dial
 Contacts
 Call history
 Teacher Zhang  1332332****
 
 ### Unknown
-`hongqi_hs5_en_0c32d226` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:254 | doc_type:owners_manual
 Hongqi service  1332333****
 5.10. Bluetooth Telephone
 253
 5
 
 ### Contacts
-`hongqi_hs5_en_126b36a8` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:255 | doc_type:owners_manual
 ■ Save contacts
 After the mobile telephone is bound to the Bluetooth system successfully, the system will automatically
 download the contact information from the bound telephone.
@@ -7481,7 +6865,6 @@ Press the key [contact] on the phone main interface to view the contact list of 
 ■ Introduce contacts
 
 ### The contacts can be introduced through the contact interface screen key
-`hongqi_hs5_en_c2f8dcd8` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:255 | doc_type:owners_manual
 ■ Search contacts
 The contacts can be searched through the contact interface screen key
 ■ Delete contacts
@@ -7489,12 +6872,9 @@ The system supports manually deleting a matching phone and synchronously deletin
 the system: when there are more than 4 matching phones, the previously stored contacts need to be manually
 deleted.
 
-### Caution
-`hongqi_hs5_en_1e4820b5` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:255 | doc_type:owners_manual
- Contacts will only appear on the screen if the phone supports the contacts download function.
+> ⚠️ **Внимание:**  Contacts will only appear on the screen if the phone supports the contacts download function.
 
 ### Call history
-`hongqi_hs5_en_c9d41a28` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:255 | doc_type:owners_manual
 ■ Call history downloading
 After the mobile phone is successfully bound to the bluetooth system, the system automatically downloads the
 call history information from the bound phone.
@@ -7502,15 +6882,12 @@ call history information from the bound phone.
 Through the phone main interface screen button [call history] can check the mobile phone has received.
 Missed or dialed calls.
 
-### Caution
-`hongqi_hs5_en_1e4820b5` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:255 | doc_type:owners_manual
- The call history will only be displayed on the screen if the phone supports the call history download
-function and the download is manually allowed.
-5.10. Bluetooth Telephone
-254
+> ⚠️ **Внимание:**  The call history will only be displayed on the screen if the phone supports the call history download
+> function and the download is manually allowed.
+> 5.10. Bluetooth Telephone
+> 254
 
 ### Making a call
-`hongqi_hs5_en_9ad478ac` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:256 | doc_type:owners_manual
 Methods to make a call:
 Method 1: Dial through contacts or call history.
 Method 2: Enter the number through the dialpad in the phone interface
@@ -7531,13 +6908,11 @@ Because some mobile phones do not support the private/hand-free shift, the Bluet
 during a private/hand-free shift.
 
 ### Microphone mute
-`hongqi_hs5_en_0917f18d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:256 | doc_type:owners_manual
 During the call, by tapping the screen button
 , you can shift between the microphone mute status and
 non-mute status. When the microphone is mute, the other party of the call will not listen any sound.
 
 ### Hongqi service
-`hongqi_hs5_en_520dcc63` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:256 | doc_type:owners_manual
 Incoming call....
 5.10. Bluetooth Telephone
 255
@@ -7552,7 +6927,6 @@ successfully connected. In the iunconnected state, the contact person and call h
 cannot be viewed.
 
 ### CAUTIONS
-`hongqi_hs5_en_96b2c56a` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:257 | doc_type:owners_manual
 ■Reduce the possibility of traffic accidents
 ●While driving, avoid operating this system as far as possible.
 ●Take extra care when operating the multimedia switch on the steering wheel to prevent accidents.
@@ -7566,25 +6940,21 @@ traffic accidents.
 ●For the sake of safety, do not be distracted and thus obstruct safe driving due to this feature. Neglecting of
 roads and traffic might lead to accidents.
 
-### Caution
-`hongqi_hs5_en_c6928888` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:257 | doc_type:owners_manual
-Compatibility
-Some equipment may not work properly due to its own compatibility problems.
-When getting off
-Do not leave your mobile telephone behind in the vehicle, which would be damaged because of temperature
-increase in the vehicle.
-When Failure Arises
-Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
-5.11. Voice Recognition
+> ⚠️ **Внимание:** Compatibility
+> Some equipment may not work properly due to its own compatibility problems.
+> When getting off
+> Do not leave your mobile telephone behind in the vehicle, which would be damaged because of temperature
+> increase in the vehicle.
+> When Failure Arises
+> Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
+> 5.11. Voice Recognition
 
 ### Using the voice recognition function
-`hongqi_hs5_en_f830f264` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:258 | doc_type:owners_manual
 256
 Users can achieve voice control to the system via the voice recognition function.
 Voice control functions include: radio, music, Bluetooth telephone, navigation and A/C control.
 
 ### Methods Press the steering wheel key
-`hongqi_hs5_en_6c26537f` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:258 | doc_type:owners_manual
 to trigger the speech recognition system.
 Method II: by speaking the wake-up instruction, trigger the voice recognition system.
 The voice recognition main waking words can be set in the system setting of audio system.
@@ -7593,7 +6963,6 @@ After activating the voice recognition, speak out the voice command to control t
 voice command information, refer to the help interface of voice recognition.
 
 ### Voice recognition help
-`hongqi_hs5_en_39c3b457` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:258 | doc_type:owners_manual
 Method 1: After waking up the intelligent voice system, if the user does not speak within 5s (seconds), it will
 jump directly to the voice help interface.
 Method 2: The user can say "voice help" directly to enter the voice help interface.
@@ -7604,7 +6973,6 @@ radio application to play FM88.0.
 Phone
 
 ### Navigation
-`hongqi_hs5_en_55e3fd4b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:258 | doc_type:owners_manual
 Music
 Radio
 Online radio
@@ -7614,7 +6982,6 @@ System
 settings
 
 ### Vehicle
-`hongqi_hs5_en_39c4b4e4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:258 | doc_type:owners_manual
 setting
 Scene mode
 Scene mode
@@ -7623,7 +6990,6 @@ Overall
 wake-up
 
 ### Electronic
-`hongqi_hs5_en_e2bd023b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:258 | doc_type:owners_manual
 manual
 The weather
 Train ticket
@@ -7633,7 +6999,6 @@ inquiry
 Stock
 
 ### Exit help
-`hongqi_hs5_en_de45af51` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:258 | doc_type:owners_manual
 *
 5.11. Voice Recognition
 257
@@ -7652,24 +7017,20 @@ Method 5: Touch "Flag Treasure" to slide to the left of the screen or click on t
 to exit speech recognition.
 Method 6: Say the exit command to exit the voice recognition.
 
-### Caution
-`hongqi_hs5_en_edc18cef` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:259 | doc_type:owners_manual
-The speech recognition results are for reference only.
-Please use standard and clear Mandarin, avoid use the system in a noisy environment to prevent
-incorrect recognition results.
-Try to avoid using voice recognition when driving. If using voice recognition, please try to avoid
-looking at the screen to avoid danger.
-*
-5.12. Mobile phone APP
+> ⚠️ **Внимание:** The speech recognition results are for reference only.
+> Please use standard and clear Mandarin, avoid use the system in a noisy environment to prevent
+> incorrect recognition results.
+> Try to avoid using voice recognition when driving. If using voice recognition, please try to avoid
+> looking at the screen to avoid danger.
+> *
+> 5.12. Mobile phone APP
 
 ### Using the mobile phone APP
-`hongqi_hs5_en_50f5c70f` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:260 | doc_type:owners_manual
 258
 The vehicle can be controlled and operated remotely with the mobile APP
 ■Open the logged - in mobile phone on - board Internet APP and enter the APP homepage.
 
 ### My vehicle
-`hongqi_hs5_en_5eab7f1c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:260 | doc_type:owners_manual
 Information viewing: You can view the driving behavior
 analysis, navigation, health manager and electronic
 fence, and can view the license plate number, remaining
@@ -7695,16 +7056,13 @@ Electronic fence: you can add and view electronic
 fences.
 
 ### Finding
-`hongqi_hs5_en_4b5abd9b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:260 | doc_type:owners_manual
 View and participate in interactions with recommendations, hotspots, circles, new and event information.
 
 ### Vehicle services
-`hongqi_hs5_en_11bbbd97` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:260 | doc_type:owners_manual
 It can be used to view and operate electronic manuals, electronic fences, call the road rescue, one-click call,
 violation of regulations, model showroom, test drive appointment and so on.
 
 ### Friends
-`hongqi_hs5_en_3a499832` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:260 | doc_type:owners_manual
 Chat with friends who focus on each other.
 My
 In my interface, you can operate and view check-ins, followers, fans, posts, messages, my vehicle, emergency
@@ -7716,7 +7074,6 @@ vehicle reminders, synchronous navigation, maintenance suggestions, system messa
 upgrades, my comments, marketing promotions, interactive messages, etc.
 
 ### Vehicle
-`hongqi_hs5_en_31cd9ebd` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:260 | doc_type:owners_manual
 finding
 A/C
 Window Sunroof Lamp
@@ -7732,7 +7089,6 @@ Hongqi HS5
 5
 
 ### Audio System
-`hongqi_hs5_en_0f4a7316` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:261 | doc_type:owners_manual
 Login
 By entering the mobile phone No. and your password,
 and tapping the phone screen button [Login], you can
@@ -7758,7 +7114,6 @@ the vehicle is locked.
 vehicle. After 5 minutes, the next remote starting can be carried out only when the vehicle is in the sleep state.
 
 ### Forget
-`hongqi_hs5_en_649194b6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:261 | doc_type:owners_manual
 password?
 User
 registration
@@ -7767,7 +7122,6 @@ agreement.
 Login
 
 ### Please enter your
-`hongqi_hs5_en_09137521` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:261 | doc_type:owners_manual
 password.
 Let the ideal flying
 *
@@ -7775,7 +7129,6 @@ Let the ideal flying
 260
 
 ### CAUTIONS
-`hongqi_hs5_en_844ae1b5` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:262 | doc_type:owners_manual
 ■When your mobile phone is missing
 If the mobile phone is lost, the risk of vehicle theft will obviously increase. Please keep it properly. If
 necessary, please contact an authorized Hong Qi dealer of FAW China.
@@ -7784,18 +7137,15 @@ The quality of network connection will vary due to the continuous change of ante
 of signal strength and the influence of nearby objects (such as trains and transmitting stations). It is difficult
 to maintain perfect reception quality.
 
-### Caution
-`hongqi_hs5_en_33e9f6b6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:262 | doc_type:owners_manual
-Limit length for use
-When using APPs, some functions need to be given corresponding limits, and ensure that third-party tools do
-not prohibit the network limits of APPs, otherwise the system may not work properly.
-When Failure Arises
-Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
-*
-5.13. Hongqi Smart Connect
+> ⚠️ **Внимание:** Limit length for use
+> When using APPs, some functions need to be given corresponding limits, and ensure that third-party tools do
+> not prohibit the network limits of APPs, otherwise the system may not work properly.
+> When Failure Arises
+> Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
+> *
+> 5.13. Hongqi Smart Connect
 
 ### Using the Hongqi Smart Connect
-`hongqi_hs5_en_92e21f0c` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:263 | doc_type:owners_manual
 261
 5
 Audio System
@@ -7805,7 +7155,6 @@ The method of entering the Hong Qi smart link interface is to press the screen b
 link".
 
 ### Baidu CarLife
-`hongqi_hs5_en_91428c48` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:263 | doc_type:owners_manual
 Baidu's CarLife function connects the mobile phone with the sound system, extending the functions inside the
 mobile phone to the use of the vehicle audio system, allowing users to enjoy convenient and efficient
 customized services inside the vehicle.
@@ -7814,7 +7163,6 @@ successfully, the display screen will display the interface of mobile phone in r
 dragging, etc. These operations are consistent with the operations on the mobile phone.
 
 ### QQ music
-`hongqi_hs5_en_11010e5d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:263 | doc_type:owners_manual
 Calling....
 Himalaya
 Video
@@ -7824,7 +7172,6 @@ Hong qi micro
 application
 
 ### Electronic
-`hongqi_hs5_en_e10f70ac` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:263 | doc_type:owners_manual
 manual
 Smart home
 Navigation
@@ -7833,7 +7180,6 @@ Calm down
 Finding
 
 ### Owner service
-`hongqi_hs5_en_0ad1a0de` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:263 | doc_type:owners_manual
 Exit
 Return to the
 car homepage
@@ -7842,20 +7188,17 @@ car homepage
 262
 
 ### Roadside Assistance
-`hongqi_hs5_en_eb5bb1d0` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:264 | doc_type:owners_manual
 When the vehicle is in trouble and needs emergency rescue, the user can contact the rescue service through
 road rescue (B-Call).
 When the background receives the user's rescue request, the rescue service will be properly arranged to solve
 the troubles for user.
 
 ### Information consulting
-`hongqi_hs5_en_9d6fd885` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:264 | doc_type:owners_manual
 When the vehicle is driven in a strange road, the navigation service can be accessed with I Call.
 When the background receives the user's navigation request, it will help the user to perform the destination
 query and navigation.
 
 ### Roadside Assistance
-`hongqi_hs5_en_eb5bb1d0` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:264 | doc_type:owners_manual
 Calling……
 Information consulting
 Calling……
@@ -7865,14 +7208,12 @@ Calling……
 5
 
 ### Hong qi micro application
-`hongqi_hs5_en_ec92eed2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:265 | doc_type:owners_manual
 Users can inquire about information, weather, violation, etc. through the Hong Qi applications, and can
 inquire about traffic and purchase.
 Select the content on the screen to enter the corresponding interface, operate and use as per the system
 prompts.
 
 ### Traffic query
-`hongqi_hs5_en_4de74276` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:265 | doc_type:owners_manual
 and purchase
 Traffic Violation
 Information
@@ -7892,7 +7233,6 @@ Recom
 mend
 
 ### Ranking list Type
-`hongqi_hs5_en_e9aea6c1` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:266 | doc_type:owners_manual
 Calling....
 Home
 Page
@@ -7907,19 +7247,16 @@ pla ing
 5
 
 ### Stop quick payment
-`hongqi_hs5_en_1e458656` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:267 | doc_type:owners_manual
 Users can pay for parking quickly by stopping the quick payment.
 Select the content on the screen to enter the corresponding interface, operate and use as per the system
 prompts.
 
 ### Smart home
-`hongqi_hs5_en_61a956c8` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:267 | doc_type:owners_manual
 Users can experience one - stop and convenient landing experience of smart home through smart home.
 Select the content on the screen to enter the corresponding interface, operate and use as per the system
 prompts.
 
 ### Nearest
-`hongqi_hs5_en_4c8136bd` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:267 | doc_type:owners_manual
 distance
 Scenes
 My car
@@ -7927,7 +7264,6 @@ Calling....
 Indoor temperature 26℃
 
 ### Main bedroom air
-`hongqi_hs5_en_51e6384c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:267 | doc_type:owners_manual
 conditioner
 Main bedroom air
 conditioner
@@ -7937,7 +7273,6 @@ Offline
 266
 
 ### Electronic manual
-`hongqi_hs5_en_992c1b92` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:268 | doc_type:owners_manual
 Select the content on the screen to enter the corresponding interface, operate and use as per the system
 prompts.
 ■CarLife phone requirements
@@ -7959,7 +7294,6 @@ The connection stability is related to the quality of mobile phone data cable. I
 please re-plug or replace it with a data cable with better quality.
 
 ### Please enter the keyword you want to
-`hongqi_hs5_en_a1b4849b` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:268 | doc_type:owners_manual
 search for.
 Calling....
 Quick start
@@ -7967,7 +7301,6 @@ Highlight
 Catalogue
 
 ### Emergency
-`hongqi_hs5_en_148ce3af` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:268 | doc_type:owners_manual
 Set
 Profile
 Titanium
@@ -7983,7 +7316,6 @@ black
 5
 
 ### CAUTIONS
-`hongqi_hs5_en_8308154f` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:269 | doc_type:owners_manual
 ■Reduce the possibility of traffic accidents
 ●While driving, avoid operating this system as far as possible.
 ●Take extra care when operating the multimedia switch on the steering wheel to prevent accidents.
@@ -8008,65 +7340,60 @@ to maintain perfect reception quality.
 5.13. Hongqi Smart Connect
 268
 
-### Caution
-`hongqi_hs5_en_575bd2c8` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:270 | doc_type:owners_manual
-The speech recognition results are for reference only.
-Please use standard and clear Putonghua and avoid using it in noisy environment to avoid incorrect
-results.
-Try to avoid using voice recognition when driving. If using voice recognition, please try to avoid
-looking at the screen to avoid danger.
-Prevent damage to USB devices and their terminals
-●Do not leave USB devices in the car. The temperature inside the car may rise and cause damage to USB
-devices.
-●When an USB device is connected, do not press or apply unnecessary pressure.
-●Do not insert any foreign matter to the port.
-Use limit
-When using CarLife, some functions need to be given corresponding limits, and ensure that third-party tools
-do not prohibit the network limits of CarLife, otherwise the system may not work properly.
-Compatibility
-Some mobile phones have their own compatibility problems and may not be able to use all the functions of
-CarLife normally.
-Ensure that the system can recognize the mobile phone normally
-It is recommended to use USB cable with good quality because poor-quality USB cable could not be
-identified by the system.
-When Failure Arises
-If the problem cannot be solved, please contact an authorized Hong Qi dealer of China FAW.
-*
-269
-6-1. Using the A/C System
-Fully automatic air conditioning system.......... 270
-• Adjust the air outlet direction and open and
-6-2. Using the Interior Lamps
-6-3. Using the Storage Units
-• Left lower guard plate sundries box .............. 286
-6-4. Other Interior Equipment
-Interior Equipment 6
-6.1 Using the A/C System
-Fully automatic A/C system
-270
-This vehicle is equipped with the dual-zone A/C system, which can set the interior temperature
-according to passengers in the vehicle by combining with the current interior temperature,
-environment temperature, sunlight intensity, vehicle speed, water temperature and other
-environmental parameters; it can provide a driving and riding environment for passengers by
-automatically regulating the air outlet temperature, A/C air volume, air outlet mode and air inlet
-mode.
-►Air conditioning operation interface of sound system
+> ⚠️ **Внимание:** The speech recognition results are for reference only.
+> Please use standard and clear Putonghua and avoid using it in noisy environment to avoid incorrect
+> results.
+> Try to avoid using voice recognition when driving. If using voice recognition, please try to avoid
+> looking at the screen to avoid danger.
+> Prevent damage to USB devices and their terminals
+> ●Do not leave USB devices in the car. The temperature inside the car may rise and cause damage to USB
+> devices.
+> ●When an USB device is connected, do not press or apply unnecessary pressure.
+> ●Do not insert any foreign matter to the port.
+> Use limit
+> When using CarLife, some functions need to be given corresponding limits, and ensure that third-party tools
+> do not prohibit the network limits of CarLife, otherwise the system may not work properly.
+> Compatibility
+> Some mobile phones have their own compatibility problems and may not be able to use all the functions of
+> CarLife normally.
+> Ensure that the system can recognize the mobile phone normally
+> It is recommended to use USB cable with good quality because poor-quality USB cable could not be
+> identified by the system.
+> When Failure Arises
+> If the problem cannot be solved, please contact an authorized Hong Qi dealer of China FAW.
+> *
+> 269
+> 6-1. Using the A/C System
+> Fully automatic air conditioning system.......... 270
+> • Adjust the air outlet direction and open and
+> 6-2. Using the Interior Lamps
+> 6-3. Using the Storage Units
+> • Left lower guard plate sundries box .............. 286
+> 6-4. Other Interior Equipment
+> Interior Equipment 6
+> 6.1 Using the A/C System
+> Fully automatic A/C system
+> 270
+> This vehicle is equipped with the dual-zone A/C system, which can set the interior temperature
+> according to passengers in the vehicle by combining with the current interior temperature,
+> environment temperature, sunlight intensity, vehicle speed, water temperature and other
+> environmental parameters; it can provide a driving and riding environment for passengers by
+> automatically regulating the air outlet temperature, A/C air volume, air outlet mode and air inlet
+> mode.
+> ►Air conditioning operation interface of sound system
 
 ### AUTO button
-`hongqi_hs5_en_d89f89f7` | hs5 | pdf_manual | tier:2 | lang:en | layer:hvac | p:272 | doc_type:owners_manual
 A/C button
 Air outlet mode button
 Natural ventilation button
 Front windshield defroster/defogger button
 
 ### Front passenger side temperature setting bar
-`hongqi_hs5_en_0586b062` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:272 | doc_type:owners_manual
 PM2.5 button
 Ion purification button
 Air volume setting button
 
 ### Synchronizing key
-`hongqi_hs5_en_15f44e39` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:272 | doc_type:owners_manual
 Internal/external circulation button
 Driver side temperature setting bar
 Touch A/C information bar at the bottom of multimedia display or swipe up to enter A/C interface. Swipe
@@ -8077,16 +7404,13 @@ reversing camera* work, you can’t enter A/C operating interface).
 6
 
 ### Interior Equipment
-`hongqi_hs5_en_8a6d09aa` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:273 | doc_type:owners_manual
 ►Air conditioning operation interface of central control panel
 
 ### AUTO button
-`hongqi_hs5_en_ce8ba33e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:273 | doc_type:owners_manual
 Front windshield defroster/defogger button
 Windshield heating button
 
 ### Air volume decrease button
-`hongqi_hs5_en_864daa9d` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:273 | doc_type:owners_manual
 Internal/external circulation button
 OFF button
 6.1 Using the A/C System
@@ -8114,7 +7438,6 @@ blowing will not be executed until warm or cool air is ready to flow.
 6
 
 ### Manual regulation
-`hongqi_hs5_en_acf793bb` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:275 | doc_type:owners_manual
 ■ Regulation of air volume
 Method 1-: After touching [AUTO] button on the
 multimedia display, its operating indicator lights up and
@@ -8160,7 +7483,6 @@ Air is blown to the feet.
 6
 
 ### Interior Equipment
-`hongqi_hs5_en_187d6811` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:277 | doc_type:owners_manual
 The airflow is blowing toward the face and feet.
 The airflow is blowing toward the feet and the
 windshield.
@@ -8179,7 +7501,6 @@ circulation mode.
 276
 
 ### CAUTIONS
-`hongqi_hs5_en_de119e37` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:278 | doc_type:owners_manual
 ■Do not use the internal circulation mode in cold or rainy weather
 Using the internal circulation mode in cold or rainy weather will lead to fogging of the car windows, thus
 blocking your sight and possibly causing serious accidents.
@@ -8187,7 +7508,6 @@ blocking your sight and possibly causing serious accidents.
 The windows might fog up more easily if internal circulation mode is used for an extended period.
 
 ### Other functions
-`hongqi_hs5_en_1d1cd4c6` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:278 | doc_type:owners_manual
 ■Front windshield defrosting/defogging
 After touching the button
 on the center control panel,
@@ -8195,7 +7515,6 @@ the operating indicator lights up, and the forced
 defrosting/defogging function of windshield is started.
 
 ### Touch the button
-`hongqi_hs5_en_5050ed39` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:278 | doc_type:owners_manual
 on the multimedia display to
 activate the forced defrosting/defogging function of
 windshield.
@@ -8206,7 +7525,6 @@ circulation mode to the external circulation mode
 automatically.
 
 ### Increase of air volume and rise of temperature can
-`hongqi_hs5_en_f8a1b7f9` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:278 | doc_type:owners_manual
 defrost/defog the front windshield as soon as possible.
 ■Window fogging up
 ●When the interior humidity raises, windows might fog up easily. Turning on the "A/C" switch will
@@ -8216,7 +7534,6 @@ dehumidify the air from the air outlet and effectively defog the windshield.
 ●The windows might fog up if internal circulation mode is used for an extended period.
 
 ### CAUTIONS
-`hongqi_hs5_en_de119e37` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:278 | doc_type:owners_manual
 ■Prevent the windshield from fogging
 ●Do not use the front windshield defroster/defogger mode during cool air operation in extremely humid
 weather. The temperature difference between the outside air and the windshield may cause fog on the outside
@@ -8228,7 +7545,6 @@ blocked, thus preventing defogging of the windshield.
 6
 
 ### Interior Equipment
-`hongqi_hs5_en_83bbb52a` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:279 | doc_type:owners_manual
 ADS anti-fog sensor
 At the running state of air conditioner, when the windshield has a fogging tendency, A/C system will enter the
 automatic anti-fogging mode, and the air volume will be appropriately increased and blow towards the
@@ -8242,12 +7558,10 @@ rain, rainstorm or other bad weather, in order to achieve rapid defogging effect
 forced defrosting/defogging function of windshield.
 
 ### Natural ventilation function
-`hongqi_hs5_en_f5e2ee03` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:279 | doc_type:owners_manual
 Touch the natural ventilation button on the multimedia display to enter the natural ventilation mode, and its
 intake mode is switched to external circulation. At this time, the compressor stops working to save the energy.
 
 ### Ion purification
-`hongqi_hs5_en_8a262739` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:279 | doc_type:owners_manual
 After touching the ion-purifying button on A/C
 operating interface of multimedia display, the button
 lights up, the ion purification function is turned on, the
@@ -8275,7 +7589,6 @@ conditioning system automatically switches to internal circulation, and prevents
 car to ensure the air quality inside the car.
 
 ### Adjusting the position of and opening and closing the air outlets
-`hongqi_hs5_en_a6b16805` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:280 | doc_type:owners_manual
 Front center outlet
 The air flow will be guided to the left side or right side,
 top or bottom.
@@ -8293,7 +7606,6 @@ Turn the knob to open or close the air vent.
 6
 
 ### Interior Equipment
-`hongqi_hs5_en_f6e4410b` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:281 | doc_type:owners_manual
 ■Remote operation of air conditioning system
 ●A/C system can be operated remotely via the mobile APP. (See P.258)
 ●When the vehicle is started remotely and the remote air conditioner is turned on at the same time, the air
@@ -8313,71 +7625,59 @@ the windshield as soon as possible to increase the air volume and temperature.
 ●During use, various odors inside and outside the vehicle may enter and accumulate in the air conditioning
 system. This may cause odor emission from the vent.
 
-### Caution
-`hongqi_hs5_en_2e743d62` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:281 | doc_type:owners_manual
-Preventing low battery power
-If the air conditioning system is not required when the vehicle is not started, please turn it off.
-6.1 Using the A/C System
+> ⚠️ **Внимание:** Preventing low battery power
+> If the air conditioning system is not required when the vehicle is not started, please turn it off.
+> 6.1 Using the A/C System
 
 ### Windshield heating
-`hongqi_hs5_en_f77b800a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:282 | doc_type:owners_manual
 280
 Touch the key. The indicator turns on to start heating the
 rear windshield and the front windshield.
 
 ### By tapping the button
-`hongqi_hs5_en_f021905a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:282 | doc_type:owners_manual
 again, the indicator goes out
 and the system stops to work.
 Tip:
 
 ### The system will automatically shut down after running
-`hongqi_hs5_en_2160a10a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:282 | doc_type:owners_manual
 for about 15min (minutes), and the system indicator
 turns off.
 ■ Front windshield heating
 The front windshield only heats the wiper stopping area.
 
 ### CAUTIONS
-`hongqi_hs5_en_a765837e` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:282 | doc_type:owners_manual
 ■ When the windshield is heated
 Do not touch the heated area. It may become very hot and cause burns.
 6.2. Using the Interior Lamps
 
 ### List of interior lamps
-`hongqi_hs5_en_7714f703` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:283 | doc_type:owners_manual
 281
 6
 Interior Equipment
 Front interior lights (see P.282)
 
 ### Welcome lamp
-`hongqi_hs5_en_6690e227` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:283 | doc_type:owners_manual
 Front reading lights (see P.282)
 Vanity mirror lamp (see P.283)
 Rear reading lights (see P.283)
 
 ### Trunk lamp
-`hongqi_hs5_en_9cb5e940` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:283 | doc_type:owners_manual
 Ambient lamp (see P.223)
 Sundries box lamp
 6.2. Using the Interior Lamps
 282
 
 ### By pressing the
-`hongqi_hs5_en_ce5c139f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:284 | doc_type:owners_manual
 button, turn on the front room
 lamp; by pressing it again, turn off the front room lamp.
 
 ### By pressing the
-`hongqi_hs5_en_ce5c139f` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:284 | doc_type:owners_manual
 button, the indicator is on, and the
 Door Linkage with the room lamp is turned on; by
 pressing it again, the Door Linkage with the room lamp
 is turned off.
 
 ### By pressing the
-`hongqi_hs5_en_ce5c139f` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:284 | doc_type:owners_manual
 button, turn on the rear map lamp;
 by pressing it again, turn off the rear map lamp.
 6.2. Using the Interior Lamps
@@ -8385,12 +7685,10 @@ by pressing it again, turn off the rear map lamp.
 6
 
 ### By pressing the
-`hongqi_hs5_en_d23ed584` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:285 | doc_type:owners_manual
 button, turn on the rear map lamp;
 by pressing it again, turn off the rear map lamp.
 
 ### By opening the sun visor and sliding open the vanity
-`hongqi_hs5_en_411d78c7` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:285 | doc_type:owners_manual
 mirror cover, the vanity mirror lamp is ON.
 By closing the vanity mirror cover, the vanity mirror
 lamp is OFF.
@@ -8399,16 +7697,13 @@ The front interior light switch is placed at the linkage position of the vehicle
 opened, the interior lighting lamp will turn on for a period of time and then turn off. Close the engine switch
 and each door, and the interior light and atmosphere light will go out for a long time.
 
-### Caution
-`hongqi_hs5_en_a188700f` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:285 | doc_type:owners_manual
- Prevent battery discharge
-Turn off the interior lights if they are not required.
-Do not leave the vanity mirror cover or doors open for a long time. Because when it is turned on, the
-corresponding interior lights will turn on, which may discharge the battery.
-6.3. Using the Storage Units
+> ⚠️ **Внимание:**  Prevent battery discharge
+> Turn off the interior lights if they are not required.
+> Do not leave the vanity mirror cover or doors open for a long time. Because when it is turned on, the
+> corresponding interior lights will turn on, which may discharge the battery.
+> 6.3. Using the Storage Units
 
 ### List of storage units
-`hongqi_hs5_en_5f706f60` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:286 | doc_type:owners_manual
 284
 Eyeglasses box (see P.289)
 Bottle rack and sundry bucket (see P.288)
@@ -8422,13 +7717,11 @@ File pocket (see P.288)
 6
 
 ### Glove box
-`hongqi_hs5_en_73629067` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:287 | doc_type:owners_manual
 By pulling the handle, open the glove box.
 When closing the glove box cover, it means securely
 locked when it “clicks”.
 
 ### CAUTIONS
-`hongqi_hs5_en_adf58099` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:287 | doc_type:owners_manual
 ■ Warning during driving
 Keep the glove box closed.
 Otherwise, personnel may be injured in case of accident or emergency braking.
@@ -8436,23 +7729,19 @@ Otherwise, personnel may be injured in case of accident or emergency braking.
 286
 
 ### Front central storage box
-`hongqi_hs5_en_cbe53d07` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:288 | doc_type:owners_manual
 Lift the storage box cover to open the storage box.
 
 ### CAUTIONS
-`hongqi_hs5_en_1f610d8c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:288 | doc_type:owners_manual
 ■ Warning during driving
 Keep the storage compartment closed.
 Otherwise, personnel may be injured in case of accident or emergency braking.
 
 ### Left lower panel glove box
-`hongqi_hs5_en_9139a80f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:288 | doc_type:owners_manual
 By pulling the handle, open the glove box.
 When you close the sundries box lid, a "click" sound
 indicates a secure lock.
 
 ### CAUTIONS
-`hongqi_hs5_en_1f610d8c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:288 | doc_type:owners_manual
 ■ Warning during driving
 Keep the storage compartment closed.
 Otherwise, personnel may be injured in case of accident or emergency braking.
@@ -8461,7 +7750,6 @@ Otherwise, personnel may be injured in case of accident or emergency braking.
 6
 
 ### Cup Holder
-`hongqi_hs5_en_b76ac2c2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:289 | doc_type:owners_manual
  Front
 Press the cup holder cover downward, and the cup
 holder cover will open automatically.
@@ -8475,7 +7763,6 @@ Put them back when not in use.
 ● Some cups might not be held there because of their size or shape.
 
 ### CAUTIONS
-`hongqi_hs5_en_388817bd` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:289 | doc_type:owners_manual
 ■ Items not suitable for placing in cup holder
 Do not place anything except cups or aluminum cans in the cup holder. Otherwise, in case of accident or
 emergency braking, such items may be thrown out of the cup holder, resulting in injury to personnel. Tighten
@@ -8489,13 +7776,11 @@ Keep the cup holder closed. Otherwise, personnel may be injured in case of accid
 288
 
 ### Bottleholder and side pocket
-`hongqi_hs5_en_b767e741` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:290 | doc_type:owners_manual
 Bottleholders and side pockets are located on doors, and
 used to place bottles, duster cloth or sundries.
 When placing bottles, tighten their lids.
 
 ### Some bottles might not be held there because of their
-`hongqi_hs5_en_18ad5456` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:290 | doc_type:owners_manual
 size or shape.
 File pocket
 File pockets are located at the lower end of the backs of
@@ -8506,12 +7791,10 @@ Used to store newspapers, magazines, etc.
 6
 
 ### Eyeglasses box
-`hongqi_hs5_en_0b597075` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:291 | doc_type:owners_manual
 Pull down the lower case lid edge, the eyeglasses box
 will open downward.
 
 ### It is used to temporarily store small items such as
-`hongqi_hs5_en_ab42b10f` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:291 | doc_type:owners_manual
 sunglasses.
 CAUTIONS
 ■ Items that should not be stored in the glasses box
@@ -8524,18 +7807,15 @@ cause injuries.
 6.3. Using the Storage Units
 
 ### Trunk appliance
-`hongqi_hs5_en_f899233b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:292 | doc_type:owners_manual
 290
 Trunk hook
 Lift the hook for immediate use.
 The cargo hook is used to secure loose items.
 
 ### CAUTIONS
-`hongqi_hs5_en_c627ffc3` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:292 | doc_type:owners_manual
 ■ Always return the goods to the stowed position when not in use.
 
 ### Luggage net pockets are located on both sides of the
-`hongqi_hs5_en_9c1df56a` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:292 | doc_type:owners_manual
 luggage compartment.
 6.4. Other interior equipment
 On-board wireless charging*
@@ -8543,16 +7823,13 @@ On-board wireless charging*
 6
 
 ### Interior Equipment
-`hongqi_hs5_en_343e701f` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:293 | doc_type:owners_manual
 The front of the central console box is equipped with a wireless charging system.
 
 ### Phones that support Qi standard wireless charging can
-`hongqi_hs5_en_0aa84480` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:293 | doc_type:owners_manual
 be placed directly in the wireless charging area for
 charging.
 
 ### Phones that do not support Qi standard wireless
-`hongqi_hs5_en_91d699eb` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:293 | doc_type:owners_manual
 charging need to be charged with a receiver.
 ■ Operating conditions for car wireless charging system
 The engine switch is in IG-ON mode.
@@ -8563,24 +7840,20 @@ off.
 ● If the charging system is faulty or its charging is abnormal, the wireless charging indicator (red) will flash.
 
 ### CAUTIONS
-`hongqi_hs5_en_0881c2fd` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:293 | doc_type:owners_manual
 ■ Before charging, remove all metal objects from the charging pad
 During wireless charging of the mobile phone, if metal objects (such as coins, keys, rings or paper clips) are
 found between the mobile phone and the charging board, please do not remove foreign matters with your
 hands immediately to avoid scalding your fingers. Please remove the mobile phone first and remove it from
 the charging board after the box is cooled.
 
-### Caution
-`hongqi_hs5_en_0b0f4946` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:293 | doc_type:owners_manual
- Charging
-● Remove all items on the wireless charging skid pad. If there are foreign matters, the system may not be
-able to charge normally.
-●The mobile phone should face up and be placed in the middle of the anti-skid mat.
- Do not place magnetic cards such as high-speed charging cards in the wireless charging area, which
-may cause demagnetization.
+> ⚠️ **Внимание:**  Charging
+> ● Remove all items on the wireless charging skid pad. If there are foreign matters, the system may not be
+> able to charge normally.
+> ●The mobile phone should face up and be placed in the middle of the anti-skid mat.
+>  Do not place magnetic cards such as high-speed charging cards in the wireless charging area, which
+> may cause demagnetization.
 
 ### Wireless charging indicator
-`hongqi_hs5_en_dd44232b` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:293 | doc_type:owners_manual
 6.4. Other Interior Equipment
 Sun visor
 292
@@ -8588,12 +7861,10 @@ Forward position
 Flip the sun visor down.
 
 ### Side position
-`hongqi_hs5_en_5af2c0ed` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:294 | doc_type:owners_manual
 Flip down the sun visor, unhook, and pull to the side.
 6.4. Other interior equipment
 
 ### File holder
-`hongqi_hs5_en_297dd0d9` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:295 | doc_type:owners_manual
 293
 6
 Interior Equipment
@@ -8601,27 +7872,21 @@ The file holder is located on the visor at the driver's
 side.
 It is used to store receipts, cards and other items.
 
-### Caution
-`hongqi_hs5_en_ea950334` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:295 | doc_type:owners_manual
- Prevent holder damage
-Do not put too many items on the file holder.
-6.4. Other Interior Equipment
+> ⚠️ **Внимание:**  Prevent holder damage
+> Do not put too many items on the file holder.
+> 6.4. Other Interior Equipment
 
 ### Vanity mirror lamp
-`hongqi_hs5_en_ab0e6506` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:296 | doc_type:owners_manual
 294
 Flip down, and slide the cover to open the vanity mirror.
 
-### Caution
-`hongqi_hs5_en_8b79cb04` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:296 | doc_type:owners_manual
- When not in use
-Keep the makeup mirror closed.
- Prevent low battery power
-When the vehicle is not started, do not turn on the makeup mirror lamp for a long time.
-6.4. Other interior equipment
+> ⚠️ **Внимание:**  When not in use
+> Keep the makeup mirror closed.
+>  Prevent low battery power
+> When the vehicle is not started, do not turn on the makeup mirror lamp for a long time.
+> 6.4. Other interior equipment
 
 ### Cigar lighter
-`hongqi_hs5_en_edcb0333` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:297 | doc_type:owners_manual
 295
 6
 Interior Equipment
@@ -8629,13 +7894,11 @@ Press down on the front cup holder cover and open it to
 connect the cigarette lighter.
 
 ### The cigarette lighter will pop up after it has been
-`hongqi_hs5_en_bbe27964` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:297 | doc_type:owners_manual
 properly preheated.
 ■ The cigarette lighter can be used when
 The engine switch is placed in "IG-ON" mode.
 
 ### CAUTIONS
-`hongqi_hs5_en_5f25434b` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:297 | doc_type:owners_manual
 ■ Avoid burns or fires
 ● Never touch the metal part of the cigarette lighter.
 ● Do not always connect the cigarette lighter, otherwise it may overheat and cause a fire.
@@ -8646,7 +7909,6 @@ Otherwise, injuries may occur in the event of an accident or sudden braking.
 6.4. Other Interior Equipment
 
 ### Power Socket
-`hongqi_hs5_en_d91f9004` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:298 | doc_type:owners_manual
 296
 ■ 12V power
 The power socket can be used for 12V accessories that run on less than 10A.
@@ -8660,27 +7922,23 @@ Located at the lower end of the rear central air vent.
 6
 
 ### Interior Equipment
-`hongqi_hs5_en_f31681fc` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:299 | doc_type:owners_manual
 ■ The power sockets can be used when
 The engine switch is placed in "IG-ON" mode -
 
-### Caution
-`hongqi_hs5_en_c3ca2adb` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:299 | doc_type:owners_manual
- Prevent the power socket from being damaged.
-Close the power socket lid when the power socket is not in use.
-Foreign objects or liquids that enter the power socket may cause a short circuit.
- Prevent fuse from blowing out
-Do not use accessories that exceed the rated voltage/current.
- Preventing low battery power
-When the vehicle is not started, please do not use the power socket for a long time if it is not necessary.
-6.4. Other Interior Equipment
-Seat temperature control*
-298
-The temperature of the seats can be adjusted separately.
-■ Front seat temperature adjusting
+> ⚠️ **Внимание:**  Prevent the power socket from being damaged.
+> Close the power socket lid when the power socket is not in use.
+> Foreign objects or liquids that enter the power socket may cause a short circuit.
+>  Prevent fuse from blowing out
+> Do not use accessories that exceed the rated voltage/current.
+>  Preventing low battery power
+> When the vehicle is not started, please do not use the power socket for a long time if it is not necessary.
+> 6.4. Other Interior Equipment
+> Seat temperature control*
+> 298
+> The temperature of the seats can be adjusted separately.
+> ■ Front seat temperature adjusting
 
 ### Press the seat heating and ventilation button to select the
-`hongqi_hs5_en_8d59f1fa` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:300 | doc_type:owners_manual
 appropriate gear.
 Level 1-3 adjustment can be realized.
 ■ Rear seat temperature adjusting
@@ -8694,7 +7952,6 @@ The engine switch is in IG-ON mode.
 6
 
 ### CAUTIONS
-`hongqi_hs5_en_4bc38012` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:301 | doc_type:owners_manual
 ■ When using the seat heater, be sure to observe the following.
 ● Special attention should be paid to the following persons sitting in a seat with the seat heater operating, to
 avoid burns:
@@ -8707,18 +7964,15 @@ Otherwise, the seat temperature will rise or fall, resulting in overheating or s
 ● If it is not necessary, please do not turn on the seat heating or ventilation function. Otherwise, passengers
 may feel too cold, overheated or cause local burns.
 
-### Caution
-`hongqi_hs5_en_3ac71f31` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:301 | doc_type:owners_manual
- Prevent damage to seat heating and ventilation system
-Do not put heavy objects that have an uneven surface on seats and do not stick sharp objects (needles, nails,
-etc.) into seats.
- When cleaning the seat
-When cleaning the seat, do not use benzene, gasoline and other organic substances. It is easy to damage the
-heater and seat covering.
-6.4. Other Interior Equipment
+> ⚠️ **Внимание:**  Prevent damage to seat heating and ventilation system
+> Do not put heavy objects that have an uneven surface on seats and do not stick sharp objects (needles, nails,
+> etc.) into seats.
+>  When cleaning the seat
+> When cleaning the seat, do not use benzene, gasoline and other organic substances. It is easy to damage the
+> heater and seat covering.
+> 6.4. Other Interior Equipment
 
 ### Rear central armrest
-`hongqi_hs5_en_e54e6b26` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:302 | doc_type:owners_manual
 300
 Pull down the armrest to use.
 Caution
@@ -8727,7 +7981,6 @@ Do not place too much strain on the armrest.
 6.4. Other interior equipment
 
 ### Roof grab handle
-`hongqi_hs5_en_9d0c099f` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:303 | doc_type:owners_manual
 301
 6
 Interior Equipment
@@ -8737,19 +7990,15 @@ When sitting on the seat, the body can be supported by
 the roof handles installed on the roof lining.
 
 ### CAUTIONS
-`hongqi_hs5_en_19989110` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:303 | doc_type:owners_manual
 ■ Roof handle
 When getting on/off the vehicle or getting out of seats, do not use roof grab handles.
 
-### Caution
-`hongqi_hs5_en_74d0f701` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:303 | doc_type:owners_manual
- Prevent damage to roof handle
-Do not hang any heavy objects or apply heavy loads on the roof handles to prevent damage to the roof
-handle.
-6.4. Other Interior Equipment
+> ⚠️ **Внимание:**  Prevent damage to roof handle
+> Do not hang any heavy objects or apply heavy loads on the roof handles to prevent damage to the roof
+> handle.
+> 6.4. Other Interior Equipment
 
 ### Coat Hook
-`hongqi_hs5_en_d6ae76a7` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:304 | doc_type:owners_manual
 302
 Hang clothes on coat hooks.
 CAUTIONS
@@ -8767,7 +8016,6 @@ Maintenance 7
 7-1. Service and maintenance
 
 ### Cleaning and protecting vehicle exterior trim
-`hongqi_hs5_en_5afcdc98` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:306 | doc_type:owners_manual
 304
 Observing the following operations helps to protect the vehicle exterior trim and keep it in the best
 condition:
@@ -8797,7 +8045,6 @@ hot weather).
 Do not use detergents containing abrasives.
 
 ### CAUTIONS
-`hongqi_hs5_en_af6d76f9` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:306 | doc_type:owners_manual
 ■ When washing the car
 Do not flush the engine compartment with water. Failure to do so may result in a short circuit of electrical
 components, which may lead to a fire.
@@ -8809,32 +8056,29 @@ get burned.
 305
 7
 
-### Caution
-`hongqi_hs5_en_486f6e7b` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:307 | doc_type:owners_manual
-■ Prevent aging of body, aging of paint and corrosion of body and components (aluminum wheels, etc.)
- The vehicle shall be cleaned immediately after the following situations occur:
-• After driving along the seaside.
-• After driving on the saline-alkali roads.
-• If the paint is attached with coal tar or resin
-• If there are dead insects, insect dung or bird dung on the paint surface.
-• After the vehicle is driven in an area polluted by soot, lampblack, mineral dust, iron powder or chemical
-substances.
-• When the vehicle is heavily dusty or muddy.
-• When liquids such as benzene and petrol splash onto the paint surface.
- If the paint is peeling or scratched, please repair it immediately.
- To prevent corrosion of the wheels, remove dirt and store in low humidity when storing the wheels.
-■ When cleaning flags
-Please wipe the flag on the cabin cover with clean water or neutral cleaning agent. It is forbidden to use
-alcohol or alcohol-containing liquid, benzene, anisole and other organic solvents for cleaning. Otherwise,
-cracks will easily occur.
-■ Cleaning of car lights
- Care should be taken when cleaning. Do not use organic detergents or hard brushes for cleaning, otherwise
-the surface of lamps may be damaged.
- Please do not wax the surface of the lights, which may damage the lampshade.
-7-1. Service and maintenance
+> ⚠️ **Внимание:** ■ Prevent aging of body, aging of paint and corrosion of body and components (aluminum wheels, etc.)
+>  The vehicle shall be cleaned immediately after the following situations occur:
+> • After driving along the seaside.
+> • After driving on the saline-alkali roads.
+> • If the paint is attached with coal tar or resin
+> • If there are dead insects, insect dung or bird dung on the paint surface.
+> • After the vehicle is driven in an area polluted by soot, lampblack, mineral dust, iron powder or chemical
+> substances.
+> • When the vehicle is heavily dusty or muddy.
+> • When liquids such as benzene and petrol splash onto the paint surface.
+>  If the paint is peeling or scratched, please repair it immediately.
+>  To prevent corrosion of the wheels, remove dirt and store in low humidity when storing the wheels.
+> ■ When cleaning flags
+> Please wipe the flag on the cabin cover with clean water or neutral cleaning agent. It is forbidden to use
+> alcohol or alcohol-containing liquid, benzene, anisole and other organic solvents for cleaning. Otherwise,
+> cracks will easily occur.
+> ■ Cleaning of car lights
+>  Care should be taken when cleaning. Do not use organic detergents or hard brushes for cleaning, otherwise
+> the surface of lamps may be damaged.
+>  Please do not wax the surface of the lights, which may damage the lampshade.
+> 7-1. Service and maintenance
 
 ### Cleaning and protecting vehicle interior trim
-`hongqi_hs5_en_331e436c` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:308 | doc_type:owners_manual
 306
 Observing the following operations helps to protect the vehicle interior trim and keep it in the best
 condition:
@@ -8873,7 +8117,6 @@ safety belts are excessively worn, worn or scratched.
 7
 
 ### CAUTIONS
-`hongqi_hs5_en_f32d75eb` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:309 | doc_type:owners_manual
 ■ Prevent water from entering the car
  Do not spill liquid into the car, otherwise it may lead to failure of electrical components or fire.
  Do not allow air bag components or wires inside the vehicle to get wet.
@@ -8883,36 +8126,33 @@ personal injury or even death.
 Do not use polishing wax or polishing detergent. The instrument panel may be reflected onto the windshield,
 obstructing the driver's vision and causing accidents, which result in serious injuries or even death.
 
-### Caution
-`hongqi_hs5_en_efcb9e6a` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:309 | doc_type:owners_manual
-■ Detergent
- Do not use the following types of cleaning agents, as this may cause the interior of the vehicle to fade or
-cause markings or damage to the paint surface:
-Organic solutions containing such as benzene or gasoline, alkaline or acidic solutions, coloring agents and
-bleaching agents.
- Do not use polishing wax or polishing detergent. Otherwise, the paint surface of the instrument panel or
-other parts in the vehicle may be damaged.
-■ Prevent the leather surface from damage
-To prevent leather surface damage and ageing, please observe the following precautions:
- Remove the dirt on the leather surface in time.
- Vehicles should not be directly exposed to the sun for a long time. Please park it in a shady and cool place,
-especially in summer.
- Do not place polyethylene, plastic products or wax items on leather trim parts, as these items may stick to
-the leather surface when the temperature inside the car increases greatly.
- If excessive moisture remains on the seat surface, the leather will harden and shrink.
-■ Floor water prevention
-Do not wash the vehicle floor with water.
-If the electrical components under the vehicle floor come into contact with water, the electrical system may be
-damaged and the vehicle body may rust.
-■ Cleaning of inner side of rear windshield
- Do not use glass cleaners to clean the rear windshield, otherwise the heating wires of the defroster of the
-rear windshield may be damaged. Wet the cloth with warm water and wipe gently in the direction parallel to
-the heating wire.
- Be careful not to scratch or damage the heating wire.
-7-2. Service
+> ⚠️ **Внимание:** ■ Detergent
+>  Do not use the following types of cleaning agents, as this may cause the interior of the vehicle to fade or
+> cause markings or damage to the paint surface:
+> Organic solutions containing such as benzene or gasoline, alkaline or acidic solutions, coloring agents and
+> bleaching agents.
+>  Do not use polishing wax or polishing detergent. Otherwise, the paint surface of the instrument panel or
+> other parts in the vehicle may be damaged.
+> ■ Prevent the leather surface from damage
+> To prevent leather surface damage and ageing, please observe the following precautions:
+>  Remove the dirt on the leather surface in time.
+>  Vehicles should not be directly exposed to the sun for a long time. Please park it in a shady and cool place,
+> especially in summer.
+>  Do not place polyethylene, plastic products or wax items on leather trim parts, as these items may stick to
+> the leather surface when the temperature inside the car increases greatly.
+>  If excessive moisture remains on the seat surface, the leather will harden and shrink.
+> ■ Floor water prevention
+> Do not wash the vehicle floor with water.
+> If the electrical components under the vehicle floor come into contact with water, the electrical system may be
+> damaged and the vehicle body may rust.
+> ■ Cleaning of inner side of rear windshield
+>  Do not use glass cleaners to clean the rear windshield, otherwise the heating wires of the defroster of the
+> rear windshield may be damaged. Wet the cloth with warm water and wipe gently in the direction parallel to
+> the heating wire.
+>  Be careful not to scratch or damage the heating wire.
+> 7-2. Service
 
 ### Maintenance instructions
-`hongqi_hs5_en_383a999c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:310 | doc_type:owners_manual
 308
 In order to ensure the safety and economy of driving, daily maintenance and periodic maintenance are
 very important. FAW recommends that you take the following maintenance measures:
@@ -8951,7 +8191,6 @@ record the maintenance information of your car and help you apply for warranty s
 7
 
 ### Maintenance
-`hongqi_hs5_en_57d6aede` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:311 | doc_type:owners_manual
 ■ Whether your car needs repair
 Watch out for changes in vehicle performance and sounds, as well as other visual warnings that indicate that
 the vehicle needs maintenance. Here are some important signs:
@@ -8972,7 +8211,6 @@ If you find any of the above signs, please contact an FAW authorized Hongqi Deal
 because your vehicle may need to be adjusted or repaired.
 
 ### CAUTIONS
-`hongqi_hs5_en_99e9f83e` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:311 | doc_type:owners_manual
 ■ If the vehicle is not properly maintained
 It may cause serious damage to the vehicle and serious injuries or even death.
 ■ Precautions for handling batteries
@@ -8990,7 +8228,6 @@ You can perform maintenance by yourself. Please be sure to follow the correct pr
 Item
 
 ### Components and tools
-`hongqi_hs5_en_fc2c027e` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:312 | doc_type:owners_manual
 Battery condition (see P.322)
 • Warm water
 • Baking soda
@@ -9020,7 +8257,6 @@ Washer fluid (see P.326)
 7
 
 ### CAUTIONS
-`hongqi_hs5_en_efc4c255` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:313 | doc_type:owners_manual
 There are a number of mechanical devices in the engine compartment that may suddenly turn, become hot, or
 start being energized. To avoid serious personal injury, please be aware of the following.
 ■ Operation on engine compartment parts
@@ -9048,32 +8284,27 @@ cooling fan may run automatically
 ■ Safety goggles
 Wear goggles to prevent objects or splashing liquid from flying in eyes.
 
-### Caution
-`hongqi_hs5_en_8bad9654` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:313 | doc_type:owners_manual
-■ If the air filter has been removed
-If the vehicle is driven after the air filter is removed, the dirt in the air may cause excessive abrasion to the
-engine. Meanwhile, back fire may also cause the engine compartment to catch fire.
-■ If the brake fluid level is too low or too high
-When the brake pads are worn or the fluid level in the brake fluid tank is high, the brake fluid level drops
-slightly. This is normal. If brake fluid needs to be frequently added to the brake fluid tank, it indicates that
-there may be a serious problem. Please contact your FAW authorized Hongqi Dealer to have your vehicle
-checked.
-7-3. Maintenance for user
+> ⚠️ **Внимание:** ■ If the air filter has been removed
+> If the vehicle is driven after the air filter is removed, the dirt in the air may cause excessive abrasion to the
+> engine. Meanwhile, back fire may also cause the engine compartment to catch fire.
+> ■ If the brake fluid level is too low or too high
+> When the brake pads are worn or the fluid level in the brake fluid tank is high, the brake fluid level drops
+> slightly. This is normal. If brake fluid needs to be frequently added to the brake fluid tank, it indicates that
+> there may be a serious problem. Please contact your FAW authorized Hongqi Dealer to have your vehicle
+> checked.
+> 7-3. Maintenance for user
 
 ### Engine compartment cover
-`hongqi_hs5_en_d62ed802` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:314 | doc_type:owners_manual
 312
 Unlock inside to open the engine compartment
 cover.
 
 ### Pull opening handle of the engine compartment
-`hongqi_hs5_en_a2a86ef4` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:314 | doc_type:owners_manual
 cover.
 The engine compartment cover will bounce slightly
 upwards.
 
 ### Dial up the opening handle of the safety hook of the
-`hongqi_hs5_en_95e4ff28` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:314 | doc_type:owners_manual
 hood and then lift up the hood.
 CAUTIONS
 ■ Check before driving
@@ -9081,18 +8312,15 @@ Check and confirm that the hood is completely closed and locked.
 If the hood is not locked properly, it may be accidentally opened while the vehicle is in motion to cause an
 accident, resulting in serious personal injury.
 
-### Caution
-`hongqi_hs5_en_44a4dbc9` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:314 | doc_type:owners_manual
-■ When closing the hood
- Do not apply excessive force. Otherwise the hood may be damaged.
- Make sure that there are no tools and objects, etc. were left in the engine compartment before closing the
-hood.
-Step
-Step
-7-3. Do-It-Yourself Maintenance
+> ⚠️ **Внимание:** ■ When closing the hood
+>  Do not apply excessive force. Otherwise the hood may be damaged.
+>  Make sure that there are no tools and objects, etc. were left in the engine compartment before closing the
+> hood.
+> Step
+> Step
+> 7-3. Do-It-Yourself Maintenance
 
 ### Engine compartment
-`hongqi_hs5_en_41278782` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:315 | doc_type:owners_manual
 313
 7
 Maintenance
@@ -9107,13 +8335,11 @@ Condenser (see P.319)
 Radiator (see P.319)
 
 ### Cooling fan
-`hongqi_hs5_en_de991eae` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:315 | doc_type:owners_manual
 Intercooler (see P.319)
 7-3. Maintenance for user
 314
 
 ### Engine compartment trim cover
-`hongqi_hs5_en_f63e89b8` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:316 | doc_type:owners_manual
 ■ Remove the engine compartment trim cover
 ■ Install the clips
 7-3. Do-It-Yourself Maintenance
@@ -9121,7 +8347,6 @@ Intercooler (see P.319)
 7
 
 ### Engine oil
-`hongqi_hs5_en_b888db82` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:317 | doc_type:owners_manual
 Check the oil level when the engine reaches operating temperature and the engine switch is turned off.
 ■ Check the oil
 Place the vehicle on the level ground. After shutting down the engine, wait 5 minutes or more for
@@ -9134,11 +8359,9 @@ Put a clean rag under the end of the dipstick, then pull out the dipstick and ch
 Low
 
 ### Full fuel level
-`hongqi_hs5_en_530814c7` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:317 | doc_type:owners_manual
 The oil level must be between the low and full marks.
 
 ### Actions must be taken timely to deal with the excessive
-`hongqi_hs5_en_4f327dde` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:317 | doc_type:owners_manual
 or insufficient oil.
 Wipe the dipstick with a cloth or paper towel, and then insert it all the way back in its tube.
 Step
@@ -9147,7 +8370,6 @@ Step
 ■ Fill the oil
 
 ### Add oil of the same rating as the existing oil in the engine if
-`hongqi_hs5_en_449c9247` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:318 | doc_type:owners_manual
 the level is at or below the lower mark.
 Be sure to determine the oil grade and prepare the required items before adding oil.
 Unscrew the oil filler cap counterclockwise and remove it.
@@ -9164,7 +8386,6 @@ Hong Qi dealers.
 Some oil containers are marked with one or two API references. For reference to select the correct oil.
 
 ### API service label
-`hongqi_hs5_en_eb79148b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:318 | doc_type:owners_manual
 Top: API (American Petroleum Institute) oil grade
 mark, such as SM
 Middle part: SAE viscosity, such as SAE 5W-30
@@ -9174,7 +8395,6 @@ ILSAC (International Lubricant Standardization and
 Approval Committee) certification mark
 
 ### Temperature range anticipated before the next oil change
-`hongqi_hs5_en_37b4a25c` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:318 | doc_type:owners_manual
 Turbocharged gasoline engine lubrication oil 5W-30
 Step
 Step
@@ -9183,7 +8403,6 @@ Step
 7
 
 ### Maintenance
-`hongqi_hs5_en_fb645945` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:319 | doc_type:owners_manual
 ■ Oil consumption
 A certain amount of engine oil is consumed during driving. Engine oil consumption may increase if one of the
 following conditions occurs. Engine oil may need to be added during oil service intervals.
@@ -9194,7 +8413,6 @@ decelerated
  When the engine is idling for a long time, or when it is frequently passing through a traffic jam
 
 ### CAUTIONS
-`hongqi_hs5_en_c3897ea4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:319 | doc_type:owners_manual
 ■ Notes on disposal of used oil
  The used oil contains potentially dangerous substances which may cause diseases (dermatitis or skin
 cancer), so avoid contacting the oil for a long time or frequently. If you get the oil on your skin, flush the skin
@@ -9204,25 +8422,21 @@ dispose of used motor oil and filters in domestic waste and the sewer or on the 
 oil recovery and disposal, please consult the China FAW authorized Hongqi distributor.
  Please do not place the used oil in places where children can reach.
 
-### Caution
-`hongqi_hs5_en_03ed02d8` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:319 | doc_type:owners_manual
-■ Prevention of serious engine damage
-Regularly check the oil level.
-■ Precautions for changing the motor oil
- Be careful not to let motor oil spilled on vehicle parts.
- Overfilling should be avoided as it will damage the engine.
- Check the oil level on the dipstick when adding the vehicle with motor oil every time
- Ensure that the filler cap is properly tightened.
-7-3. Maintenance for user
-318
+> ⚠️ **Внимание:** ■ Prevention of serious engine damage
+> Regularly check the oil level.
+> ■ Precautions for changing the motor oil
+>  Be careful not to let motor oil spilled on vehicle parts.
+>  Overfilling should be avoided as it will damage the engine.
+>  Check the oil level on the dipstick when adding the vehicle with motor oil every time
+>  Ensure that the filler cap is properly tightened.
+> 7-3. Maintenance for user
+> 318
 
 ### Engine coolant
-`hongqi_hs5_en_853bcd9e` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:320 | doc_type:owners_manual
 When the coolant level in the coolant reservoir is between the "F" (High) and L (Low) markings, the level is
 normal.
 
 ### Fluid reservoir cover
-`hongqi_hs5_en_bba5b4af` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:320 | doc_type:owners_manual
 “F” (Full)
 “L” (Low)
 If the level is below the "L" mark, add coolant to the
@@ -9234,14 +8448,12 @@ leaks.
 ■ Selection of coolant
 
 ### Use the Super Long Life Coolant for the whole year
-`hongqi_hs5_en_1211f9e1` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:320 | doc_type:owners_manual
 For more details about engine coolant, please contact FAW authorized Hongqi dealer.
 7-3. Do-It-Yourself Maintenance
 319
 7
 
 ### CAUTIONS
-`hongqi_hs5_en_4d37c41c` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:321 | doc_type:owners_manual
 ■When the engine is in hot condition
  When the engine is hot, do not add to it with coolant. The hot engine can be very dangerous. If the engine
 has ever run, the engine compartment can become extremely hot and seriously scald you.
@@ -9249,29 +8461,25 @@ has ever run, the engine compartment can become extremely hot and seriously scal
 There may be pressure inside the cooling system. Removing the radiator cap can cause the hot coolant to
 spray out, seriously scalding you or resulting in other injuries.
 
-### Caution
-`hongqi_hs5_en_0d589dea` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:321 | doc_type:owners_manual
-■ When adding coolant
-The coolant specified by China FAW must be added to ensure normal lubrication, corrosion protection and
-cooling performance.
-Please read the instructions on the coolant label.
-■ If the coolant splashes accidentally
-Be sure to flush the spilled coolant with clean water to prevent damage to the components or the vehicle
-paint.
-Radiator, condenser and intercooler
-Inspect radiators, condensers, and intercoolers, and any foreign objects should be removed.
-When the radiator, condenser or intercooler is very dirty or abnormal, please contact China FAW authorized
-Hong qi dealer to check the vehicle.
+> ⚠️ **Внимание:** ■ When adding coolant
+> The coolant specified by China FAW must be added to ensure normal lubrication, corrosion protection and
+> cooling performance.
+> Please read the instructions on the coolant label.
+> ■ If the coolant splashes accidentally
+> Be sure to flush the spilled coolant with clean water to prevent damage to the components or the vehicle
+> paint.
+> Radiator, condenser and intercooler
+> Inspect radiators, condensers, and intercoolers, and any foreign objects should be removed.
+> When the radiator, condenser or intercooler is very dirty or abnormal, please contact China FAW authorized
+> Hong qi dealer to check the vehicle.
 
 ### CAUTIONS
-`hongqi_hs5_en_4d37c41c` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:321 | doc_type:owners_manual
 ■ When the engine is in hot condition
 Do not touch the radiator, condenser or intercooler. Doing so may scald you.
 7-3. Maintenance for user
 320
 
 ### Turbocharged engine
-`hongqi_hs5_en_ebea82ec` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:322 | doc_type:owners_manual
  When the inspecting, removing, and replacing of the turbocharger is required, it must be performed after the
 engine is stopped and the turbocharger has cooled down.
  Do not drop any oil on the hot surface of the turbocharger, as this may cause a fire.
@@ -9281,7 +8489,6 @@ damage to the turbocharger.
 turbocharger is well lubricated.
 
 ### Brake fluid lid
-`hongqi_hs5_en_35a8cd24` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:322 | doc_type:owners_manual
 “MAX” (maximum)
 “MIN” (minimum)
 If the level is at or below the “MIN” mark, add the
@@ -9291,7 +8498,6 @@ brake fluid to bring it up to the “MAX” mark.
 7
 
 ### CAUTIONS
-`hongqi_hs5_en_c0064116` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:323 | doc_type:owners_manual
 ■ Recautions about brake fluid adding
  It is very dangerous when the brake fluid is spilled. If brake fluid gets into your eyes, rinse immediately
 with plenty of water and seek medical attention as soon as possible.
@@ -9303,18 +8509,15 @@ brake system. The brake may fail and cause serious accidents. If the level is to
  If the liquid level is too low, add brake fluid until the liquid level rises to the "MAX" position. Thoroughly
 clean the area around the reservoir cap before adding brake fluid.
 
-### Caution
-`hongqi_hs5_en_49056396` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:323 | doc_type:owners_manual
- Brake fluid can damage the paint surface If the paint is accidentally splashed on you, wipe it off
-immediately.
- If a non-designated brake fluid is used, it may damage the brake system. It can also cause the system
-damages to mix different brake fluids.
- For adding or replacing a new brake fluid, please contact China FAW authorized Redflag dealer.
-7-3. Maintenance for user
-322
+> ⚠️ **Внимание:**  Brake fluid can damage the paint surface If the paint is accidentally splashed on you, wipe it off
+> immediately.
+>  If a non-designated brake fluid is used, it may damage the brake system. It can also cause the system
+> damages to mix different brake fluids.
+>  For adding or replacing a new brake fluid, please contact China FAW authorized Redflag dealer.
+> 7-3. Maintenance for user
+> 322
 
 ### Battery
-`hongqi_hs5_en_f9248e76` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:324 | doc_type:owners_manual
 ■ Power Management System
 When the battery runs down, some comfort functions may be limited and disabled to ensure vehicle
 startability. When the battery power is restored to the safe range, the above comfort type functions will be
@@ -9324,7 +8527,6 @@ Ensure that the battery terminals are not corroded, the connections are not loos
 of cracks, and the fixing clips are not loosened.
 
 ### Fixing clamp
-`hongqi_hs5_en_bd74c4c1` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:324 | doc_type:owners_manual
 ■ During installation
  When wiring the battery, prevent the terminal cables from being connected reversely, otherwise the electric
 equipment in the car may be damaged.
@@ -9344,7 +8546,6 @@ danger.
 7
 
 ### Maintenance
-`hongqi_hs5_en_8295581e` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:325 | doc_type:owners_manual
 ■ Before charging
 Pay attention to the following matters before charging:
  If the in-vehicle battery is to be charged, be sure to turn off the engine switch and disconnect the grounding
@@ -9373,7 +8574,6 @@ ensure that the idle start/stop function is used normally.
 324
 
 ### CAUTIONS
-`hongqi_hs5_en_4e49d289` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:326 | doc_type:owners_manual
 ■ Chemicals in the battery
 The battery has toxic corrosive sulphuric acid and may lead to combustible and explosive hydrogen. To
 reduce the chance of serious personal injury, observe the following requirements when handling the battery
@@ -9400,13 +8600,10 @@ above measures if necessary.
 Drink large quantities of water or milk and then take magnesium oxide milk, chopped raw eggs or vegetable
 oil, and immediately call a physician.
 
-### Caution
-`hongqi_hs5_en_1da66fcd` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:326 | doc_type:owners_manual
-■ Precautions when charging the battery
-Do not charge the battery when the engine is running. Always switch off all accessories.
+> ⚠️ **Внимание:** ■ Precautions when charging the battery
+> Do not charge the battery when the engine is running. Always switch off all accessories.
 
 ### CAUTIONS
-`hongqi_hs5_en_4e49d289` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:326 | doc_type:owners_manual
 ■ Do not disconnect the negative (-) terminal on the body side
 The disconnected negative (-) terminal may contact the positive (+) terminal, causing a short circuit and
 causing serious injury or death.
@@ -9415,46 +8612,39 @@ causing serious injury or death.
 7
 
 ### If any cleaner does not work or a message appears on the
-`hongqi_hs5_en_a95cf051` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:327 | doc_type:owners_manual
 multi-function display of the instrument cluster, the
 cleaning fluid reservoir may be empty. Please add the
 cleaning solution in time.
 
 ### CAUTIONS
-`hongqi_hs5_en_cf77bd4e` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:327 | doc_type:owners_manual
 ■ When adding cleaning solution
 Do not add washer fluid when the engine is hot or running. Otherwise, if the washer fluid is splashed on the
 engine, a fire may be caused by the alcohol in the washer fluid.
 
-### Caution
-`hongqi_hs5_en_b7346837` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:327 | doc_type:owners_manual
-■ Do not use liquids other than cleaning solution
-Do not use soapy water or engine antifreeze instead of the washer fluid. Doing so may cause sagging of the
-painted surface on the vehicle.
-■ Diluted cleaning solution
-If necessary, dilute the washer fluid with water.
-Please refer to the freezing temperature on the label of the washer fluid bottle.
-7-3. Maintenance for user
-Tire
-326
-According to the wear condition of the tire tread change the tire or perform the tire changing position.
-■ Check the tires.
+> ⚠️ **Внимание:** ■ Do not use liquids other than cleaning solution
+> Do not use soapy water or engine antifreeze instead of the washer fluid. Doing so may cause sagging of the
+> painted surface on the vehicle.
+> ■ Diluted cleaning solution
+> If necessary, dilute the washer fluid with water.
+> Please refer to the freezing temperature on the label of the washer fluid bottle.
+> 7-3. Maintenance for user
+> Tire
+> 326
+> According to the wear condition of the tire tread change the tire or perform the tire changing position.
+> ■ Check the tires.
 
 ### The replacement is needed when the tire worn to the
-`hongqi_hs5_en_d8f6852b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:328 | doc_type:owners_manual
 Wear Mark (the picture is only a schematic).
 ■ Tire changing position
 Tires should be rotated in the order shown in the figure.
 
 ### In order to make the tire wear evenly and prolong its
-`hongqi_hs5_en_ef402e64` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:328 | doc_type:owners_manual
 service life, it is recommended that you change the tire
 position after every 8,000 ~ 10,000km.
 Tips:
 1. The spare tire is a non-full-sized spare tire, which cannot be used for tire rotation but temporary use.
 
 ### 2. No spare tires have tire pressure monitoring sensors.
-`hongqi_hs5_en_90e2dc14` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:328 | doc_type:owners_manual
 3. If tire rotation finishes, configure the tire pressure monitoring system. Contact your FAW authorized
 Hongqi Dealer if necessary.
 Front
@@ -9463,7 +8653,6 @@ Front
 7
 
 ### Maintenance
-`hongqi_hs5_en_0ce6510a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:329 | doc_type:owners_manual
 ■ Protective measures for wheel malfunction
  When encountering curbs or similar obstacles, the vehicle should drive as slowly as possible parallel to the
 obstacles.
@@ -9492,7 +8681,6 @@ reduced.
 328
 
 ### CAUTIONS
-`hongqi_hs5_en_f2048a85` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:330 | doc_type:owners_manual
 ■ Precautions for inspecting or replacing tires
 To avoid damage to the components of the drive train and affecting the handling performance of the vehicle,
 which may cause accidents and serious personal injuries, follow the following precautions:
@@ -9502,17 +8690,14 @@ which may cause accidents and serious personal injuries, follow the following pr
  Do not mix tires for summer, all seasons and winter.
  Do not use tires used in other vehicles.
 
-### Caution
-`hongqi_hs5_en_e6709973` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:330 | doc_type:owners_manual
-■ Driving on rugged roads
-Exercise extreme caution when you need to drive on soft or pitted roads.
-Such roads can cause the tires to bulge due to impact, eventually causing damage to the tires.
-■ If the tire pressure lowers during driving
-Do not continue driving any longer. Doing so may cause full damage to the tires and/or wheels.
-7-3. Do-It-Yourself Maintenance
+> ⚠️ **Внимание:** ■ Driving on rugged roads
+> Exercise extreme caution when you need to drive on soft or pitted roads.
+> Such roads can cause the tires to bulge due to impact, eventually causing damage to the tires.
+> ■ If the tire pressure lowers during driving
+> Do not continue driving any longer. Doing so may cause full damage to the tires and/or wheels.
+> 7-3. Do-It-Yourself Maintenance
 
 ### Tire pressure
-`hongqi_hs5_en_1d237c87` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:331 | doc_type:owners_manual
 329
 7
 Maintenance
@@ -9547,7 +8732,6 @@ The occupant and baggage weights should be evenly distributed to balance the veh
 330
 
 ### CAUTIONS
-`hongqi_hs5_en_fb5c1b5b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:332 | doc_type:owners_manual
 ■ Proper inflation is the key to protecting the tires
 Be sure to maintain proper tire pressure. Failure to do so may cause one of the following conditions:
  Excessive wear * Uneven wear * Poor handling
@@ -9560,17 +8744,14 @@ It is dangerous to drive the vehicle under incorrect tire pressure. Improper tir
 performance and cause accidents. Check the pressure in the normal tires, but also check the pressure in the
 spare tire.
 
-### Caution
-`hongqi_hs5_en_4a4d0ab3` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:332 | doc_type:owners_manual
-■ Precautions for checking and adjusting tire pressure
-Be sure to reinstall the tire valve cap back.
-If there is no valve cover, dirt or moisture may enter the valve and cause air leakage. This may cause an
-accident.
-If the valve cap is lost, install a new one as soon as possible.
-7-3. Do-It-Yourself Maintenance
+> ⚠️ **Внимание:** ■ Precautions for checking and adjusting tire pressure
+> Be sure to reinstall the tire valve cap back.
+> If there is no valve cover, dirt or moisture may enter the valve and cause air leakage. This may cause an
+> accident.
+> If the valve cap is lost, install a new one as soon as possible.
+> 7-3. Do-It-Yourself Maintenance
 
 ### Wheels
-`hongqi_hs5_en_5d209889` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:333 | doc_type:owners_manual
 331
 7
 Maintenance
@@ -9592,7 +8773,6 @@ replacing.
  When balancing wheels, use only weights specified by FAW or equivalent products.
 
 ### CAUTIONS
-`hongqi_hs5_en_0bd896c6` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:333 | doc_type:owners_manual
 ■ When changing wheels
 Make sure the wheels are the correct size for your vehicle. Failure to do so may result in loss of control of the
 vehicle.
@@ -9614,7 +8794,6 @@ Turn the IGNITION switch OFF.
 Open the glove box.
 
 ### Remove the plastic fixing bolts on the left and right sides of
-`hongqi_hs5_en_f8eaae64` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:334 | doc_type:owners_manual
 the sundries box, disengage the limiter and flip the sundries
 box downward to the location where filter can be taken out.
 Remove the A/C filter and replace it with a new one.
@@ -9626,7 +8805,6 @@ Step
 7
 
 ### Maintenance
-`hongqi_hs5_en_2b2c5710` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:335 | doc_type:owners_manual
 ■ Chang interval time of air conditioner filter
 If the vehicle is located or often driven in a dusty area or busy traffic area, the filter should be replaced more
 often.
@@ -9635,17 +8813,14 @@ The filter may be clogged. Check the filter, and replace it if necessary.
 ■ A/C filter
 If the filter needs to be cleaned or replaced, please contact FAW authorized Hongqi dealer.
 
-### Caution
-`hongqi_hs5_en_9dced15b` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:335 | doc_type:owners_manual
-■ When using the A/C system
-Make sure the filter is installed.
-Using an A/C system without filter may cause damage to the system.
-■ When removing the filter cover
-Do not replace the air filter while the blower is running. Doing so may cause personal injury.
-7-3. Maintenance for user
+> ⚠️ **Внимание:** ■ When using the A/C system
+> Make sure the filter is installed.
+> Using an A/C system without filter may cause damage to the system.
+> ■ When removing the filter cover
+> Do not replace the air filter while the blower is running. Doing so may cause personal injury.
+> 7-3. Maintenance for user
 
 ### Replace the key battery
-`hongqi_hs5_en_41a1d780` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:336 | doc_type:owners_manual
 334
 If the smart key or card key battery is low, replace it with a new battery.
 ■ The following items are required:
@@ -9662,12 +8837,10 @@ Step
 7
 
 ### Maintenance
-`hongqi_hs5_en_aa432a8c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:337 | doc_type:owners_manual
 Remove the used cell.
 Insert a new cell with its positive pole facing down.
 
 ### Replace the battery and battery compartment into the
-`hongqi_hs5_en_2396e484` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:337 | doc_type:owners_manual
 smart key.
 ■ If the key battery is low, the following conditions will occur
  Wireless remote control function failure.
@@ -9682,23 +8855,19 @@ Battery model for the card key: CR2016
  Old batteries must be disposed of according to local regulations.
 
 ### CAUTIONS
-`hongqi_hs5_en_0e57c789` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:337 | doc_type:owners_manual
 ■ Replaced batteries and other parts
 away from the children.
 These parts are small. However, if it is swallowed by a child inadvertently, it may cause suffocation.
 
-### Caution
-`hongqi_hs5_en_efa08057` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:337 | doc_type:owners_manual
-■ To ensure that the remote key works properly after replacing the battery
-To avoid accidents, the following precautions shall be observed.
- When operating, both hands shall be dry. Otherwise, the battery may be rust.
- Do not touch or move any other parts inside the remote control key.
- Do not bend the battery terminal.
-Step
-7-3. Maintenance for user
+> ⚠️ **Внимание:** ■ To ensure that the remote key works properly after replacing the battery
+> To avoid accidents, the following precautions shall be observed.
+>  When operating, both hands shall be dry. Otherwise, the battery may be rust.
+>  Do not touch or move any other parts inside the remote control key.
+>  Do not bend the battery terminal.
+> Step
+> 7-3. Maintenance for user
 
 ### Checking and replacing the fuse
-`hongqi_hs5_en_c0af96ab` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:338 | doc_type:owners_manual
 336
 If any electrical components are not working, a fuse may have blown. In this case, check it and replace
 the fuse if necessary.
@@ -9720,7 +8889,6 @@ Step
 7
 
 ### Maintenance
-`hongqi_hs5_en_ca6da50e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:339 | doc_type:owners_manual
 If there is a trouble in the system, contact FAW authorized Hongqi dealer for specific instructions
 on which fuses to check.
 Remove the fuse with the fuse puller.
@@ -9728,7 +8896,6 @@ Check whether the fuse is blown or not.
 ▶Type A
 
 ### Blown fuse
-`hongqi_hs5_en_3f4f26d0` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:339 | doc_type:owners_manual
 ▶Type B
 Normal Fuse
 Blown fuse
@@ -9747,7 +8914,6 @@ vehicle.
 The fuse will be blown, resulting in damage to the entire harness.
 
 ### CAUTIONS
-`hongqi_hs5_en_491d650b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:340 | doc_type:owners_manual
 ■ Prevent system failure and vehicle fire
 Failure to follow the precautions below may result in serious damage / fire to the vehicle or personal injury.
  Never use fuses higher or lower than the rated amperage.
@@ -9757,18 +8923,15 @@ Never replace the fuse with a wire, even temporary replacement is not allowed, o
 serious damage or even fire.
  Do not modify fuses or fuse boxes.
 
-### Caution
-`hongqi_hs5_en_a5b490c0` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:340 | doc_type:owners_manual
- Before fuse replacement
-Please contact with the China FAW authorized Hongqi distributor to identify the cause of excessive electric
-load and repair.
-339
-8-1. Important information
-8-2. Measures to Be Taken in Emergencies
-If any abnormality is found on the vehicle ...... 347
+> ⚠️ **Внимание:**  Before fuse replacement
+> Please contact with the China FAW authorized Hongqi distributor to identify the cause of excessive electric
+> load and repair.
+> 339
+> 8-1. Important information
+> 8-2. Measures to Be Taken in Emergencies
+> If any abnormality is found on the vehicle ...... 347
 
 ### Hazard warning flashers
-`hongqi_hs5_en_bffe5f91` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:342 | doc_type:owners_manual
 340
 When the vehicle fails, stop by the roadside while using the hazard warning lights; when the vehicle
 cannot move due to a fault, place a triangle warning sign at the rear of the vehicle while turning on the
@@ -9777,14 +8940,11 @@ By pressing the emergency flasher switch, all turn signal
 lamps will flash; by pressing it again, turn the emergency
 flashers off.
 
-### Caution
-`hongqi_hs5_en_41734df7` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:342 | doc_type:owners_manual
-■ Preventing low battery power
-When the engine is not running, turn off the hazard warning lights if they are not needed.
-8-1. Essential Information
+> ⚠️ **Внимание:** ■ Preventing low battery power
+> When the engine is not running, turn off the hazard warning lights if they are not needed.
+> 8-1. Essential Information
 
 ### SOS warning
-`hongqi_hs5_en_5afcae61` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:343 | doc_type:owners_manual
 341
 8
 When Failure Arises
@@ -9793,21 +8953,18 @@ rescue, SOS indicator will change from steady light to flashing, and the backgro
 arrange a proper rescue service after receiving your call for help.
 
 ### SOS alarm switch is located at the rear of the front indoor
-`hongqi_hs5_en_75b7a590` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:343 | doc_type:owners_manual
 light.
 Caution
 ■ Use the SOS alarm switch when needed.
 8-2. Measures to Be Taken in Emergencies
 
 ### If the vehicle needs to be towed
-`hongqi_hs5_en_f75c30af` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:344 | doc_type:owners_manual
 342
 If towing is necessary, FAW recommends having your vehicle towed using a flat bed truck by the FAW
 authorized Hongqi Dealer or a commercial towing service.
 All traction must use safety chain devices and comply with local laws and regulations
 
 ### Before towing
-`hongqi_hs5_en_84eb48b7` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:344 | doc_type:owners_manual
 The following may indicate a problem with your transmission. Contact the FAW Authorized Hongqi dealer
 before towing.
 ●The engine is operating but the vehicle will not move.
@@ -9823,14 +8980,12 @@ Place the towing vehicle under the rear wheels.
 8
 
 ### When Failure Arises
-`hongqi_hs5_en_a2ed0e2a` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:345 | doc_type:owners_manual
 ■ Two-wheel drive
 Deactivate the parking brake.
 Towing with a wheel-lifting truck from the front
 Place the towing table under the front wheel.
 
 ### Using a flat bed truck
-`hongqi_hs5_en_14a292f2` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:345 | doc_type:owners_manual
 Apply the electronic parking brake, and turn off the engine
 switch.
 Stop blocks should be used under each of the 4 wheels in
@@ -9841,7 +8996,6 @@ truck to secure the vehicle.
 344
 
 ### Emergency towing
-`hongqi_hs5_en_7ad63e24` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:346 | doc_type:owners_manual
 If a tow truck is not available in an emergency, your vehicle may be temporarily towed by fastening a cable or
 chain to the emergency towing eyelets and shifting the gearbox to N. This should only be attempted on hard
 surfaced roads for short distances at low speeds.
@@ -9849,13 +9003,11 @@ A driver must be in the vehicle to steer and operate the brakes. The vehicle’s
 brakes must be in good condition.
 
 ### Emergency towing procedures
-`hongqi_hs5_en_6e2704e7` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:346 | doc_type:owners_manual
 ■ Front section
 Press the left side of the hole cover of traction ring and
 release the hole cover of traction ring.
 
 ### Insert the towing eyelet into the hole and tighten partially
-`hongqi_hs5_en_21cc3a68` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:346 | doc_type:owners_manual
 by hand.
 Tighten down the towing eyelet securely using a tire
 wrench.
@@ -9866,7 +9018,6 @@ Step
 8
 
 ### When Failure Arises
-`hongqi_hs5_en_ea49b8df` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:347 | doc_type:owners_manual
 Firmly secure the towing cable or chain onto the towing eyelet.
 Don’t damage the body.
 Enter the towed vehicle and start the engine.
@@ -9877,7 +9028,6 @@ By pressing the lower end of the towing eyelet lid, release
 the towing eyelet lid.
 
 ### Insert the towing ring in the hole and tighten it slightly by
-`hongqi_hs5_en_790cd897` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:347 | doc_type:owners_manual
 hand.
 Tighten down the towing eyelet securely using a tire
 wrench.
@@ -9891,7 +9041,6 @@ which makes steering and braking even more difficult.
 Towing eyelets are stored in the vehicle tool box. (See P.358)
 
 ### CAUTIONS
-`hongqi_hs5_en_97a561f4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:348 | doc_type:owners_manual
 Please observe the following notes. Otherwise it will lead to serious personal injuries, even death.
 ■ While towing vehicles
 Make sure to transport vehicles when their front wheels or all the four wheels are off the ground.
@@ -9907,20 +9056,17 @@ for any operation.
 Make sure the towing eyelets securely installed.
 If not securely installed, towing eyelets may come loose during towing. It may cause an accident as a result.
 
-### Caution
-`hongqi_hs5_en_87fbfb69` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:348 | doc_type:owners_manual
-■ When towing with a wheel-lifting truck, prevent any damage to the vehicle
-When lifting the vehicle, make sure the landing end of the vehicle has enough ground clearance for towing.
-Otherwise, during towing, the vehicle might be damaged.
-■ When towing with a sling-type truck, prevent any damage to the vehicle
-Do not use any sling-type truck for towing no matter from the front or rear section of the vehicle.
-■ Prevent damage to the vehicle when using a platform truck trailer
-● Do not drive over the holding blocks, or it would damage the tires.
-● Do not tie the vehicle onto parts (e.g. the suspension) other than tires.
-8-2. Measures to Be Taken in Emergencies
+> ⚠️ **Внимание:** ■ When towing with a wheel-lifting truck, prevent any damage to the vehicle
+> When lifting the vehicle, make sure the landing end of the vehicle has enough ground clearance for towing.
+> Otherwise, during towing, the vehicle might be damaged.
+> ■ When towing with a sling-type truck, prevent any damage to the vehicle
+> Do not use any sling-type truck for towing no matter from the front or rear section of the vehicle.
+> ■ Prevent damage to the vehicle when using a platform truck trailer
+> ● Do not drive over the holding blocks, or it would damage the tires.
+> ● Do not tie the vehicle onto parts (e.g. the suspension) other than tires.
+> 8-2. Measures to Be Taken in Emergencies
 
 ### If any abnormality is found on the vehicle
-`hongqi_hs5_en_284d4065` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:349 | doc_type:owners_manual
 347
 8
 When Failure Arises
@@ -9946,47 +9092,40 @@ the exhaust pipe.)
 8-2. Measures to Be Taken in Emergencies
 
 ### If a warning lamp turns on or a warning buzzer sounds
-`hongqi_hs5_en_315c0e55` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:350 | doc_type:owners_manual
 348
 Calmly perform the following actions if any warning lamp lamps up or flashes. If the warning lamp
 lamps up or flashes and goes out subsequently, it does not necessarily mean a system fault. However, if
 this continues to occur, please contact China FAW authorized Hongqi dealer to inspect the vehicle.
 
 ### Warning lamp
-`hongqi_hs5_en_2dbf2e2d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:350 | doc_type:owners_manual
 Warning lamp/details/actions
 IHC system fault warning lamp
 ●Indicates a failure in IHC system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### Low fuel level warning lamp
-`hongqi_hs5_en_b5b2ae68` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:350 | doc_type:owners_manual
 ● Indicates that there is too little remaining fuel.
 → Refuel the vehicle.
 
 ### Engine control system fault warning lamp
-`hongqi_hs5_en_47ae7467` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:350 | doc_type:owners_manual
 ● If this warning light is still lighting after the engine started, it means that there is a
 fault in the engine control system.
 → Immediately stop the vehicle in a safe place and contact the FAW authorized
 Hongqi Dealer.
 
 ### Engine exhaust gas monitoring system fault warning lamp
-`hongqi_hs5_en_7f4f91c0` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:350 | doc_type:owners_manual
 ●If this warning light is still lighting after the engine started, it means that there is a fault
 in the exhaust gas monitoring system.
 → Immediately stop the vehicle in a safe place and contact the FAW authorized
 Hongqi Dealer.
 
 ### Battery charging fault warning lamp
-`hongqi_hs5_en_7042492c` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:350 | doc_type:owners_manual
 ●If this warning light is still lighting after the engine started, it means that there is a fault
 in the charging system.
 → Immediately stop the vehicle in a safe place and contact the FAW authorized
 Hongqi Dealer.
 
 ### Abnormal engine oil pressure warning lamp
-`hongqi_hs5_en_afe87289` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:350 | doc_type:owners_manual
 ●Indicates that the motor oil pressure is too low.
 → Immediately stop the vehicle in a safe place and contact the FAW authorized
 Hongqi Dealer.
@@ -9995,14 +9134,12 @@ Hongqi Dealer.
 8
 
 ### Warning lamp
-`hongqi_hs5_en_b0f93df8` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:351 | doc_type:owners_manual
 Warning lamp/details/actions
 Airbag system fault warning lamp
 ● Indicates a malfunction in the airbag system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### Seat belt reminder lamp
-`hongqi_hs5_en_10045a38` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:351 | doc_type:owners_manual
 ● The driver or passenger seat belt is not fastened.
 → Fasten the driver and passenger seat belts.
 Transmission system/electronic shifting system fault warning lamp
@@ -10011,41 +9148,34 @@ Transmission system/electronic shifting system fault warning lamp
 Hongqi Dealer.
 
 ### Engine immobilizer system fault warning lamp
-`hongqi_hs5_en_e2c05145` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:351 | doc_type:owners_manual
 ● Indicates that the engine anti-theft system is malfunctioning.
 → Immediately stop the vehicle in a safe place and contact the FAW authorized
 Hongqi Dealer.
 
 ### Ignition switch fault warning lamp
-`hongqi_hs5_en_157284b5` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:351 | doc_type:owners_manual
 ● engine (ignition) switch is malfunctioning
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### Key battery low warning lamp
-`hongqi_hs5_en_3dd46ed2` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:351 | doc_type:owners_manual
 ● Indicates that the key is low on power.
 → Replace the key battery.
 
 ### Electronic wiper system fault warning lamp
-`hongqi_hs5_en_df1c1154` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:351 | doc_type:owners_manual
 ● The electronic wiper system is defective.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### Bulb fault warning lamp
-`hongqi_hs5_en_f6811606` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:351 | doc_type:owners_manual
 ● Indicate that vehicle exterior lighting is failure.
 → Check the bulbs and wiring harness connectors of external lamps for faults, or
 contact China FAW authorized Hongqi dealer immediately.
 
 ### Cleaning fluid level low warning lamp
-`hongqi_hs5_en_002b1548` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:351 | doc_type:owners_manual
 ● Indicate that the cleaning fluid level is too low.
 → Add the washer fluid or contact the FAW authorized Hongqi Dealer immediately.
 8-2. Measures to Be Taken in Emergencies
 350
 
 ### Warning lamp
-`hongqi_hs5_en_eda94bee` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:352 | doc_type:owners_manual
 Warning lamp/details/actions
 Coolant high temperature warning lamp
 ● Too high temperature of coolant
@@ -10053,46 +9183,38 @@ Coolant high temperature warning lamp
 Hongqi Dealer.
 
 ### Brake system failure warning light
-`hongqi_hs5_en_80cbca4d` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:352 | doc_type:owners_manual
 ● Indicates that the brake system is faulty.
 → Immediately stop the vehicle in a safe place and contact the FAW authorized
 Hongqi Dealer. Continuing to drive the vehicle may be dangerous.
 
 ### Brake lining excessive wear warning lamp
-`hongqi_hs5_en_9f9fcd53` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:352 | doc_type:owners_manual
 ● Indicates that the brake pads are worn excessively.
 → Contact China FAW authorized Hongqi dealer immediately to check and replace
 the brake pads.
 
 ### EPS system fault warning lamp
-`hongqi_hs5_en_c93b1dfd` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:352 | doc_type:owners_manual
 ● EPS system fault warning lamp
 → Please drive the vehicle with caution and contact the FAW authorized Hongqi
 Dealer.
 
 ### EPS system serious fault warning lamp
-`hongqi_hs5_en_3ea44223` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:352 | doc_type:owners_manual
 ● EPS system fault warning lamp
 → Immediately stop the vehicle in a safe place and contact the FAW authorized
 Hongqi Dealer.
 
 ### ABS system fault warning lamp
-`hongqi_hs5_en_fdb8494b` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:352 | doc_type:owners_manual
 ● Indicates a failure in ABS system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### AUTO HOLD system fault warning lamp
-`hongqi_hs5_en_1000c51c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:352 | doc_type:owners_manual
 ● Indicates a failure in AUTO HOLD system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### Shock absorber system fault warning lamp
-`hongqi_hs5_en_0f3bef73` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:352 | doc_type:owners_manual
 ● Indicates a problem with the shock absorber system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### Constant speed cruise system fault warning lamp
-`hongqi_hs5_en_47264382` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:352 | doc_type:owners_manual
 ● Indicates that the cruise control system is faulty.
 → Immediately contact the FAW authorized Hongqi Dealer.
 8-2. Measures to Be Taken in Emergencies
@@ -10100,7 +9222,6 @@ Hongqi Dealer.
 8
 
 ### Warning lamp
-`hongqi_hs5_en_3d954497` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:353 | doc_type:owners_manual
 Warning lamp/details/actions
 HBB system fault warning lamp
 ● Indicates a failure in HBB system.
@@ -10108,12 +9229,10 @@ HBB system fault warning lamp
 Hongqi Dealer.
 
 ### Electronic steering column system fault warning lamp
-`hongqi_hs5_en_4c0a5dc5` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:353 | doc_type:owners_manual
 ● Indicates that the electronic steering column adjustment system is faulty.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### EPB system fault warning lamp
-`hongqi_hs5_en_ed154cf5` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:353 | doc_type:owners_manual
 ● Indicates a failure in EPB system.
 → Immediately stop the vehicle in a safe place and contact the FAW authorized
 Hongqi Dealer.
@@ -10123,12 +9242,10 @@ Abnormal tire pressure/system fault warning lamp
 Hongqi Dealer.
 
 ### FCW system fault warning lamp
-`hongqi_hs5_en_4eda2c73` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:353 | doc_type:owners_manual
 ● Indicates a failure in FCW system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### AEB system fault alarm light
-`hongqi_hs5_en_42f43a8b` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:353 | doc_type:owners_manual
 ● Indicates a failure in AEB system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 LDW/LKA system fault warning lamp
@@ -10136,31 +9253,26 @@ LDW/LKA system fault warning lamp
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### BSD system fault warning lamp
-`hongqi_hs5_en_c7a8c9cf` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:353 | doc_type:owners_manual
 ● Indicates a failure in BSD system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### HDC system fault warning lamp
-`hongqi_hs5_en_c665d0dd` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:353 | doc_type:owners_manual
 ● Indicates a failure in HDC system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 8-2. Measures to Be Taken in Emergencies
 352
 
 ### Warning lamp
-`hongqi_hs5_en_ef1b53e5` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:354 | doc_type:owners_manual
 Warning lamp/details/actions
 Passive start system fault warning lamp
 ●Indicates that there is a malfunction in the smart start system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### IFC system camera fault warning light
-`hongqi_hs5_en_44e3d1c9` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:354 | doc_type:owners_manual
 ● Indicates a failure in IHC system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### TSR system fault warning lamp
-`hongqi_hs5_en_5ce23a99` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:354 | doc_type:owners_manual
 ●Indicates that the TSR system is faulty.
 → Immediately contact the FAW authorized Hongqi Dealer.
 Automatic driving light / automatic wiper function fault warning lamp
@@ -10172,7 +9284,6 @@ Adaptive cruise control (ACC) fault warning light
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### Seat memory fault alarm light
-`hongqi_hs5_en_31df9425` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:354 | doc_type:owners_manual
 ●Indicates a malfunction in the seat memory function.
 → Immediately contact the FAW authorized Hongqi Dealer.
 Four-wheel system fault warning lamp
@@ -10184,12 +9295,10 @@ Idle start-stop system fault warning lamp
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### Driving mode selection system fault warning lamp
-`hongqi_hs5_en_0538e8eb` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:354 | doc_type:owners_manual
 Indicates a failure in the driving mode selection.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### SACC system steering assistance fault warning lamp
-`hongqi_hs5_en_bc91e926` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:354 | doc_type:owners_manual
 ● Indicates a failure in SACC system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 8-2. Measures to Be Taken in Emergencies
@@ -10197,7 +9306,6 @@ Indicates a failure in the driving mode selection.
 8
 
 ### Warning lamp
-`hongqi_hs5_en_12eabbf4` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:355 | doc_type:owners_manual
 Warning lamp/details/actions
 Headlight height automatic adjustment system fault warning indicator
 ● Indicates that the headlamp beam height automatic adjustment system is faulty.
@@ -10207,12 +9315,10 @@ buzzer rings.
 8-2. Measures to Be Taken in Emergencies
 
 ### In the case of a flat tire
-`hongqi_hs5_en_d68c941d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:356 | doc_type:owners_manual
 354
 Remove the flat tire and replace it with the spare.
 
 ### CAUTIONS
-`hongqi_hs5_en_0f4ebe32` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:356 | doc_type:owners_manual
 ■ Do not drive a vehicle with a flat tire
 ● Do not continue driving with a flat tire.
 ● Driving even a short distance with a flat tire can damage the tire and the wheel beyond repair, causing an
@@ -10228,7 +9334,6 @@ accident.
 8
 
 ### When Failure Arises
-`hongqi_hs5_en_1d2289a9` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:357 | doc_type:owners_manual
 Jack
 Warning triangle
 Tire wrench
@@ -10236,13 +9341,11 @@ Towing eyelet
 Vehicle tool box
 
 ### Reflective vest assembly
-`hongqi_hs5_en_20ad6e96` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:357 | doc_type:owners_manual
 Dismantling tool for wheel decoration cover*
 8-2. Measures to Be Taken in Emergencies
 356
 
 ### Take out the spare tire
-`hongqi_hs5_en_3a8baf5f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:358 | doc_type:owners_manual
 Take out the carpet floor.
 Take out the vehicle tool box.
 Disconnect the speaker connector.
@@ -10250,7 +9353,6 @@ Use a tire wrench to loosen and remove the fixture, and
 take out the speaker.
 
 ### Unscrew and remove the spare tire fasteners to take out the
-`hongqi_hs5_en_3cda873a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:358 | doc_type:owners_manual
 spare tire.
 Step
 8-2. Measures to Be Taken in Emergencies
@@ -10258,17 +9360,14 @@ Step
 8
 
 ### CAUTIONS
-`hongqi_hs5_en_3f85fbe6` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:359 | doc_type:owners_manual
 ■ When accessing the spare tire
 Be careful, and do not let your finger or other body part between the spare tire of the vehicle body.
 
 ### Flat tire replacement
-`hongqi_hs5_en_a9b58bef` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:359 | doc_type:owners_manual
 Use holding blocks to wedge the tire.
 Wheel with air leakage
 
 ### Tire Block Position
-`hongqi_hs5_en_9a5e5fde` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:359 | doc_type:owners_manual
 Front
 wheel
 Left
@@ -10309,7 +9408,6 @@ Step
 8
 
 ### CAUTIONS
-`hongqi_hs5_en_a0e1db06` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:361 | doc_type:owners_manual
 ■ Replace the flat tire
 ● Do not touch the area around the wheels or the brake immediately after driving.
 After driving, the area around the wheels or the brake will be very hot. When changing tires, touching these
@@ -10330,14 +9428,12 @@ It might make the vehicle out of control and lead to severe accidents.
 360
 
 ### Remove any dirt or foreign matter from the wheel
-`hongqi_hs5_en_97afc093` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:362 | doc_type:owners_manual
 contact surface.
 If foreign matter is on the wheel contact surface, the
 wheel nuts may loosen while the vehicle is in motion,
 causing the tire to come off.
 
 ### Install the wheel and tighten each wheel bolt by hand
-`hongqi_hs5_en_c2274c7e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:362 | doc_type:owners_manual
 with the same force.
 Lower the vehicle.
 Firmly tighten each wheel nut in the order shown in the
@@ -10350,7 +9446,6 @@ Step
 8
 
 ### CAUTIONS
-`hongqi_hs5_en_a377988b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:363 | doc_type:owners_manual
 ■ After tools and jacks is used
 Before driving, make sure that all tools and jacks are firmly secured in their storage locations to reduce the
 possibility of personal injury in the event of a collision or emergency braking.
@@ -10367,16 +9462,13 @@ dealer as soon as possible after changing wheels.
 ● Have FAW authorized Hongqi dealer inspect and replace the wheel if the wheel bolt hole is damaged or
 cracked.
 
-### Caution
-`hongqi_hs5_en_46319c28` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:363 | doc_type:owners_manual
-■ Do not drive a vehicle with a flat tire
-Do not continue driving with a flat tire.
-Driving even a short distance with a flat tire can damage the tire and the wheel beyond repair, causing an
-accident.
-8-2. Measures to Be Taken in Emergencies
+> ⚠️ **Внимание:** ■ Do not drive a vehicle with a flat tire
+> Do not continue driving with a flat tire.
+> Driving even a short distance with a flat tire can damage the tire and the wheel beyond repair, causing an
+> accident.
+> 8-2. Measures to Be Taken in Emergencies
 
 ### If the engine cannot be started
-`hongqi_hs5_en_0f3dc23a` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:364 | doc_type:owners_manual
 362
 If the engine does not start even after performing the correct starting procedure (see P.121), consider
 the following reasons.
@@ -10403,7 +9495,6 @@ If the fault cannot be rectified or repaired, please contact China FAW authorize
 8-2. Measures to Be Taken in Emergencies
 
 ### If the key is lost
-`hongqi_hs5_en_3a5c6af9` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:365 | doc_type:owners_manual
 363
 8
 When Failure Arises
@@ -10413,7 +9504,6 @@ unauthorized spare parts may cause system failure.
 8-2. Measures to Be Taken in Emergencies
 
 ### If the key does not work properly
-`hongqi_hs5_en_a3735824` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:366 | doc_type:owners_manual
 364
 If the communication between the smart key and the vehicle is interrupted (see P.85) or the smart key
 cannot be used due to insufficient battery power, the smart entry and wireless remote control functions
@@ -10424,14 +9514,12 @@ Open the door keyhole cover using the mechanical key.
 Lock and unlock the vehicle using the mechanical key.
 
 ### Unlocking door
-`hongqi_hs5_en_811b39af` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:366 | doc_type:owners_manual
 8-2. Measures to Be Taken in Emergencies
 365
 8
 When Failure Arises
 
 ### Backup starting mode
-`hongqi_hs5_en_1ab652d1` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:367 | doc_type:owners_manual
 When the key battery is low, a backup start mode is required.
 Shift the gear position to P gear, step the brake pedal down, and then press the engine switch.
 At this time, the multi-function display of combination meter prompts that the key can't be recognized.
@@ -10445,7 +9533,6 @@ Step
 8-2. Measures to Be Taken in Emergencies
 
 ### If the battery is low
-`hongqi_hs5_en_1370e0db` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:368 | doc_type:owners_manual
 366
 The following procedures may be used to start the engine if the vehicle's battery is discharged.
 Contact the FAW authorized Hongqi dealer or a qualified repair shop.
@@ -10454,7 +9541,6 @@ engine can be jump started with the following steps.
 Remove the battery trim cover and open the positive cap.
 
 ### Connect the jumper cables
-`hongqi_hs5_en_f23b75e2` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:368 | doc_type:owners_manual
 Connect to the positive (+) battery terminal on your vehicle.
 Connect to the positive (+) battery terminal on the second vehicle.
 Connect to the negative (-) battery terminal on the second vehicle.
@@ -10472,7 +9558,6 @@ Step
 8
 
 ### When Failure Arises
-`hongqi_hs5_en_9bea593a` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:369 | doc_type:owners_manual
 ■ To prevent battery depletion
 ● Turn off the headlamps and the audio system while the engine is off.
 ● Turn off all unnecessary electronics when the vehicle travels at low speeds for a prolonged period of time
@@ -10492,7 +9577,6 @@ larger capacity.
 the vehicle is idle for a short period of time.
 
 ### CAUTIONS
-`hongqi_hs5_en_a2065eef` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:369 | doc_type:owners_manual
 ■ When disassembling the battery terminals
 ● Be sure to remove the negative ㈠ terminal first. If any metal in the surrounding area is contacted when
 the positive (+) terminal is removed, a spark may be generated, a fire may be caused, and an electric shock
@@ -10513,7 +9597,6 @@ battery and cause personal injury.
 368
 
 ### CAUTIONS
-`hongqi_hs5_en_de7ebaf3` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:370 | doc_type:owners_manual
 ■ Battery precautions
 The battery contains poisonous and corrosive acidic electrolyte. Observe the following precautions when
 handling the battery:
@@ -10531,17 +9614,14 @@ the cable may get stuck and cause serious personal injury.
 If the battery gets aged, its continued use may cause the foul gas emission of battery, which may harm the
 occupants' health. Please contact the FAW authorized Hongqi dealer as soon as possible by then.
 
-### Caution
-`hongqi_hs5_en_795f7a1e` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:370 | doc_type:owners_manual
-■ When Jumper Cable is Operated
-●When connecting or disconnecting the jumper cable, be careful not to get the cable entangled with the
-cooling fan or engine belt.
-● Only one 12 V auxiliary battery can be used. Otherwise, it may damage 12 V starter, ignition system, and
-other electrical components.
-8-2. Measures to Be Taken in Emergencies
+> ⚠️ **Внимание:** ■ When Jumper Cable is Operated
+> ●When connecting or disconnecting the jumper cable, be careful not to get the cable entangled with the
+> cooling fan or engine belt.
+> ● Only one 12 V auxiliary battery can be used. Otherwise, it may damage 12 V starter, ignition system, and
+> other electrical components.
+> 8-2. Measures to Be Taken in Emergencies
 
 ### If the vehicle is overheating
-`hongqi_hs5_en_319f49fd` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:371 | doc_type:owners_manual
 369
 8
 When Failure Arises
@@ -10571,7 +9651,6 @@ Step
 370
 
 ### CAUTIONS
-`hongqi_hs5_en_5cc40fff` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:372 | doc_type:owners_manual
 ■ Precautions during inspection
 To prevent an accident or injury when inspecting under the engine compartment cover of your vehicle,
 observe the following precautions.
@@ -10581,19 +9660,16 @@ cover until the steam has subsided. The engine may be very hot, causing serious 
 ● Do not loosen the radiator cap while the engine and radiator are hot. Serious injuries, such as burns, may
 result from hot coolant and steam released under pressure.
 
-### Caution
-`hongqi_hs5_en_f281337f` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:372 | doc_type:owners_manual
-■ When adding engine coolant
-After the engine is fully cooled, slowly add the coolant to it. When the engine is very hot, fast filling coolant
-may damage the engine.
-■ To prevent damage to the cooling system
-Please observe the following precautions:
-● Avoid foreign objects (such as sand or dust) in the coolant.
-● Do not use any coolant additive.
-8-2. Measures to Be Taken in Emergencies
+> ⚠️ **Внимание:** ■ When adding engine coolant
+> After the engine is fully cooled, slowly add the coolant to it. When the engine is very hot, fast filling coolant
+> may damage the engine.
+> ■ To prevent damage to the cooling system
+> Please observe the following precautions:
+> ● Avoid foreign objects (such as sand or dust) in the coolant.
+> ● Do not use any coolant additive.
+> 8-2. Measures to Be Taken in Emergencies
 
 ### In case of the vehicle stuck
-`hongqi_hs5_en_19163c46` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:373 | doc_type:owners_manual
 371
 8
 When Failure Arises
@@ -10614,7 +9690,6 @@ towing" in this chapter. (See P.342)
 recommended.
 
 ### CAUTIONS
-`hongqi_hs5_en_817b3097` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:373 | doc_type:owners_manual
 ■ Try to get rid of trapping conditions
 If the forward and backward movement method is used to make the car get out of the trap, make sure that the
 surrounding area is open and smooth, so as to avoid colliding with other vehicles, objects or persons. The
@@ -10623,31 +9698,28 @@ vehicle may also lunge forward or backward suddenly as it becomes free; please p
 Do not depress the accelerating pedal by mistake during gear shifting. Otherwise, the vehicle may accelerate
 suddenly and cause serious accidents.
 
-### Caution
-`hongqi_hs5_en_0e5bf187` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:373 | doc_type:owners_manual
-■ Avoid damage to the transmission and other components
-● Do not operate the engine at high speed to prevent wheel spin.
-● If you are still unable to get rid of the trapped condition after trying these methods, you will need a trailer
-rescue.
-Step
-8-2. Measures to Be Taken in Emergencies
-If you drive on water-covered roads
-372
-The vehicle accidentally enters the water when driving on the stagnant road. Please contact China
-FAW authorized Hongqi dealer to check the following items:
-● Inspect the braking efficiency of the brake.
-● Check the oil quantity and oil quality of the engine and transmission (when the lubricating oil is cloudy, it
-means that water is mixed and should be replaced)..
-● Lubrication of transmission shaft, bearings, joints, etc.
-When driving on waterlogged roads, it is easy to cause
-the engine to stall due to water ingress and short circuit
-of electrical components. Do not try to start the engine
-after the engine has stalled; otherwise it may cause
-serious engine damage.
-8-2. Measures to Be Taken in Emergencies
+> ⚠️ **Внимание:** ■ Avoid damage to the transmission and other components
+> ● Do not operate the engine at high speed to prevent wheel spin.
+> ● If you are still unable to get rid of the trapped condition after trying these methods, you will need a trailer
+> rescue.
+> Step
+> 8-2. Measures to Be Taken in Emergencies
+> If you drive on water-covered roads
+> 372
+> The vehicle accidentally enters the water when driving on the stagnant road. Please contact China
+> FAW authorized Hongqi dealer to check the following items:
+> ● Inspect the braking efficiency of the brake.
+> ● Check the oil quantity and oil quality of the engine and transmission (when the lubricating oil is cloudy, it
+> means that water is mixed and should be replaced)..
+> ● Lubrication of transmission shaft, bearings, joints, etc.
+> When driving on waterlogged roads, it is easy to cause
+> the engine to stall due to water ingress and short circuit
+> of electrical components. Do not try to start the engine
+> after the engine has stalled; otherwise it may cause
+> serious engine damage.
+> 8-2. Measures to Be Taken in Emergencies
 
 ### In case of a punctured tire
-`hongqi_hs5_en_1ae422e6` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:375 | doc_type:owners_manual
 373
 8
 When Failure Arises
@@ -10668,19 +9740,16 @@ Bang
 8-2. Measures to Be Taken in Emergencies
 
 ### In case of an accident
-`hongqi_hs5_en_f8e59bef` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:376 | doc_type:owners_manual
 374
 Stay calm and follow the methods below:
 To prevent subsequent accidents.
 
 ### Move the vehicle to a safe area avoiding affecting the
-`hongqi_hs5_en_cf0c67b7` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:376 | doc_type:owners_manual
 traffic, and turn off the engine.
 Adopt emergency treatment measures if someone is
 injured.
 
 ### First aid should be administered before emergency
-`hongqi_hs5_en_b217ceab` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:376 | doc_type:owners_manual
 response arrives. For head injuries, do not move as
 much as possible; in consideration of prevention of
 subsequent accidents, it may be necessary to move the
@@ -10688,19 +9757,16 @@ wounded to a safe area before help arrives.
 Call the police.
 
 ### Communicate with the responsible party and request
-`hongqi_hs5_en_70ff0767` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:376 | doc_type:owners_manual
 his/her information (ID, insurance card, phone
 number).
 
 ### Contact the FAW authorized Hongqi dealer and your
-`hongqi_hs5_en_4ffc07b7` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:376 | doc_type:owners_manual
 insurance company.
 Accident site
 Accident
 condition
 
 ### Injured
-`hongqi_hs5_en_f08ecdec` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:376 | doc_type:owners_manual
 people
 8-2. Measures to Be Taken in Emergencies
 Emergency opening of trunk
@@ -10708,13 +9774,11 @@ Emergency opening of trunk
 8
 
 ### When Failure Arises
-`hongqi_hs5_en_8f35f4ed` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:377 | doc_type:owners_manual
 The following steps may be used as an emergency measure to ensure that the trunk lid can be opened:
 You can access the trunk through the folded rear right backrest.
 Open the emergency release cover on the trunk lid.
 
 ### Push the unlock pin of the trunk lid lock and open the
-`hongqi_hs5_en_e39bbea9` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:377 | doc_type:owners_manual
 trunk lid.
 CAUTIONS
 ■ Be careful when opening or closing the trunk lid by hand in case of injury!
@@ -10726,23 +9790,19 @@ is particularly severe.
 ● Use caution when opening or closing the trunk lid. Make sure no one is between the trunk lid and the door
 frame.
 
-### Caution
-`hongqi_hs5_en_ac7d9e9b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:377 | doc_type:owners_manual
-■ Prevent vehicle damage
-When opening or closing the trunk lid in emergency, carefully disassemble the parts to avoid damaging the
-vehicle.
-Step
-8-2. Measures to Be Taken in Emergencies
-376
-377
+> ⚠️ **Внимание:** ■ Prevent vehicle damage
+> When opening or closing the trunk lid in emergency, carefully disassemble the parts to avoid damaging the
+> vehicle.
+> Step
+> 8-2. Measures to Be Taken in Emergencies
+> 376
+> 377
 
 ### 9. Specifications
-`hongqi_hs5_en_f75475e6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:379 | doc_type:owners_manual
 Vehicle specification: 9
 9.Specifications
 
 ### Maintenance data
-`hongqi_hs5_en_9cdff4c1` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:380 | doc_type:owners_manual
 378
 Dimensions
 ■
@@ -10752,7 +9812,6 @@ Overall width
 1,907 mm
 
 ### Overall height
-`hongqi_hs5_en_dce78c10` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:380 | doc_type:owners_manual
 1,700 mm
 Front Overhang
 967 mm
@@ -10760,7 +9819,6 @@ Rear Overhang
 923 mm
 
 ### Wheel Base
-`hongqi_hs5_en_aa2d309c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:380 | doc_type:owners_manual
 2,870 mm
 Wheel
 Track
@@ -10776,7 +9834,6 @@ Departure angle (no load)
 。
 
 ### Seating capacity
-`hongqi_hs5_en_3027ac26` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:380 | doc_type:owners_manual
 5
 Drive mode
 ■Model No.: CA6471T, CA6472HA6T
@@ -10785,7 +9842,6 @@ Smart all-wheel drive
 ■
 
 ### Drive mode
-`hongqi_hs5_en_766b1caf` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:380 | doc_type:owners_manual
 Front-wheel drive
 Model No.: CA6471T, CA6471, CA6472HA6, CA6472HA6T
 Model No.: CA6471, CA6472HA6
@@ -10795,7 +9851,6 @@ Model No.: CA6471, CA6472HA6
 Vehicle specification:
 
 ### Curb weight
-`hongqi_hs5_en_38279b2d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:381 | doc_type:owners_manual
 ■
 Curb weight
 1,805kg
@@ -10810,7 +9865,6 @@ Rear
 ■
 
 ### Curb weight
-`hongqi_hs5_en_38279b2d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:381 | doc_type:owners_manual
 1,755kg
 Maximum permissible total mass
 2,205kg
@@ -10822,7 +9876,6 @@ Rear
 1,069kg
 
 ### Emission standards
-`hongqi_hs5_en_0b1c51d3` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:381 | doc_type:owners_manual
 ■
 Emission standards
 China VI
@@ -10830,14 +9883,12 @@ Total fuel consumption under specified test conditions
 ■
 
 ### CA4GC20TD-32
-`hongqi_hs5_en_38cc4f32` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:381 | doc_type:owners_manual
 Comprehensive fuel consumption (L / 100km)
 8.4
 ■
 ENGINE MODEL
 
 ### CA4GC20TD-32
-`hongqi_hs5_en_38cc4f32` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:381 | doc_type:owners_manual
 Comprehensive fuel consumption (L / 100km)
 7.9
 Model No.: CA6471T, CA6471, CA6472HA6, CA6472HA6T
@@ -10849,7 +9900,6 @@ Model No.: CA6471, CA6472HA6
 380
 
 ### Vehicle Performance
-`hongqi_hs5_en_accdccc2` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:382 | doc_type:owners_manual
 ■
 Maximum net power/speed
 160 kW ( kilowatt )/ (4500-5500) r/min
@@ -10859,7 +9909,6 @@ Maximum output torque/engine speed
 340 NбН / (1650-4500) r/min
 
 ### Maximum grade ability
-`hongqi_hs5_en_2e838dd9` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:382 | doc_type:owners_manual
 ≥40%
 Maxmimum speed
 204 km/h
@@ -10872,7 +9921,6 @@ Maximum output torque/engine speed
 340 NбН / (1650-4500) r/min
 
 ### Maximum grade ability
-`hongqi_hs5_en_2e838dd9` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:382 | doc_type:owners_manual
 ≥30%
 Maxmimum speed
 210km/h
@@ -10881,7 +9929,6 @@ Front-wheel camber angle
 -4'±30'
 
 ### Master pin caster angle
-`hongqi_hs5_en_fb84162a` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:382 | doc_type:owners_manual
 6°44'±30',
 Kingpin inclination angle
 13°59',±45'
@@ -10901,25 +9948,21 @@ Rear-wheel camber angle
 -49'±45'
 
 ### Rear wheel
-`hongqi_hs5_en_e02c8669` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:383 | doc_type:owners_manual
 ß =16':±5' 2ß=32':±10'
 Vehicle height (from the wheel center to the fender edge)
 468mm
 
 ### Suspension
-`hongqi_hs5_en_8e042f8c` | hs5 | pdf_manual | tier:2 | lang:en | layer:suspension | p:383 | doc_type:owners_manual
 ■
 Front suspension
 Type
 McPherson independent suspension
 
 ### Shock absorber type
-`hongqi_hs5_en_3c7ef693` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:383 | doc_type:owners_manual
 Double cylinder hydraulic inflatable damper / continuous
 damping damper
 
 ### Stabilizer bar
-`hongqi_hs5_en_68c4fe8c` | hs5 | pdf_manual | tier:2 | lang:en | layer:suspension | p:383 | doc_type:owners_manual
 Type
 Hollow stabilizer bar
 Diameter
@@ -10930,12 +9973,10 @@ Multi-link independent suspension with a transverse
 stabilizer bar
 
 ### Shock absorber type
-`hongqi_hs5_en_3c7ef693` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:383 | doc_type:owners_manual
 Double-cylinder hydraulic inflatable shock absorber /
 continuous damper.
 
 ### Stabilizer bar
-`hongqi_hs5_en_68c4fe8c` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:383 | doc_type:owners_manual
 Type
 Filled stabilizer bar
 Diameter
@@ -10946,14 +9987,12 @@ Model No.: CA6471T, CA6472HA6T
 ■
 
 ### Front suspension
-`hongqi_hs5_en_594c00ed` | hs5 | pdf_manual | tier:2 | lang:en | layer:suspension | p:384 | doc_type:owners_manual
 Type
 McPherson independent suspension
 Spring type
 Helical spring
 
 ### Stabilizer bar
-`hongqi_hs5_en_aea277d3` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:384 | doc_type:owners_manual
 Type
 Filled stabilizer bar
 Diameter
@@ -10964,7 +10003,6 @@ higher than 3/4 of the rated speeding. During 1000 ~ 1500km, the engine speed ca
 speed according to the road conditions.
 
 ### Vehicle Identification
-`hongqi_hs5_en_85bb605c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:384 | doc_type:owners_manual
 ■Manufacturer’s label
 As in the figure, the manufacturer’s label is located on the
 right B-pillar.
@@ -10985,7 +10023,6 @@ identification code of a vehicle, which is used for vehicle registration.
 ►Dashboard upper left
 
 ### The sticker is affixed under the front window glass on the
-`hongqi_hs5_en_a07bed44` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:385 | doc_type:owners_manual
 upper left of the dashboard.
 ▶The bottom of the front passenger seat
 Embossed under the front passenger seat.
@@ -11000,7 +10037,6 @@ As shown in the figure, the engine number is embossed on
 the engine cylinder block.
 
 ### Engine
-`hongqi_hs5_en_3d2b179e` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:386 | doc_type:owners_manual
 Model
 CA4GC20TD-32
 Type
@@ -11008,7 +10044,6 @@ Inline four-cylinder, four-stroke, water-cooled, double overhead camshaft, 16 va
 and exhaust WT, Gasoline Direct Injection, supercharged gasoline engine
 
 ### Bore and stroke
-`hongqi_hs5_en_f863e2dc` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:386 | doc_type:owners_manual
 82.5x93 mm
 Displacement
 1.989L
@@ -11017,24 +10052,20 @@ Fuel type
 Gasoline
 
 ### Octane value
-`hongqi_hs5_en_4184cdbf` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:386 | doc_type:owners_manual
 95# or above
 Fuel tank capacity (for reference) 64L
 
 ### Lubricating system
-`hongqi_hs5_en_eb3c8310` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:386 | doc_type:owners_manual
 ■CA4GC20TD-32 gasoline engine
 Oil capacity (drain and refill)
 
 ### Filling amount after changing oil
-`hongqi_hs5_en_62b5fff6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:386 | doc_type:owners_manual
 and oil filter
 5.3L
 Filling quantity after replacing
 the oil separately
 
 ### 5L
-`hongqi_hs5_en_5af680b2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:386 | doc_type:owners_manual
 9.Specifications
 385
 9
@@ -11042,7 +10073,6 @@ Vehicle specification:
 Oil quality grade
 
 ### Oil viscosity grade
-`hongqi_hs5_en_9dbe053e` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:387 | doc_type:owners_manual
 FAW turbocharged engine oil 5W-30
 Select
 the
@@ -11053,7 +10083,6 @@ according to the use environment
 humidity
 
 ### Cooling system
-`hongqi_hs5_en_9c565883` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:387 | doc_type:owners_manual
 ■
 Capacity
 7±0.1L
@@ -11061,20 +10090,17 @@ Coolant type
 Use long-lasting coolant (G30-91) throughout the year
 
 ### Ignition system
-`hongqi_hs5_en_33de4dc9` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:387 | doc_type:owners_manual
 ■CA4GC20TD-32 gasoline engine
 Sparking plug model
 3707010-27L
 
 ### Clearance
-`hongqi_hs5_en_1bd706f8` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:387 | doc_type:owners_manual
 O.6-0.7mm
 Electrical system
 Battery
 12V. 80Ah maintenance free battery
 
 ### Temperature range anticipated before the next
-`hongqi_hs5_en_bed88baf` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:387 | doc_type:owners_manual
 oil change
 Turbocharged gasoline engine lubrication oil 5W-30
 Model No.: CA6471T, CA6471, CA6472HA6, CA6472HA6T
@@ -11083,7 +10109,6 @@ Model No.: CA6471T, CA6471, CA6472HA6, CA6472HA6T
 Four-wheel drive power take-off
 
 ### Capacity
-`hongqi_hs5_en_de3fad92` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:388 | doc_type:owners_manual
 310±30mL
 Specification
 80W-90
@@ -11092,7 +10117,6 @@ Main retarder oil capacity
 480±30mL
 
 ### 80W-90
-`hongqi_hs5_en_93a19f54` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:388 | doc_type:owners_manual
 A/C refrigerant
 A/C refrigerant capacity
 550±25 9 g
@@ -11100,37 +10124,31 @@ A/C refrigerant specification
 R134a
 
 ### Transmissions
-`hongqi_hs5_en_0df6404f` | hs5 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:388 | doc_type:owners_manual
 ■Model No.: CA6471T, CA6471, CA6472HA6, CA6472HA6T
 Transmission fluid type
 6-Gear automated manual transmission
 
-### Caution
-`hongqi_hs5_en_a3bad494` | hs5 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:388 | doc_type:owners_manual
-■Automatic transmission fluid
-Use of automatic transmission oil other than the prescribed will worsen the shifting effect or burn the
-internal clutch plate of the transmission.
-Change the automatic transmission oil only when necessary.
-9.Specifications
-387
-9
-Vehicle specification:
+> ⚠️ **Внимание:** ■Automatic transmission fluid
+> Use of automatic transmission oil other than the prescribed will worsen the shifting effect or burn the
+> internal clutch plate of the transmission.
+> Change the automatic transmission oil only when necessary.
+> 9.Specifications
+> 387
+> 9
+> Vehicle specification:
 
 ### Free stroke of brake pedal
-`hongqi_hs5_en_7cceed28` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:389 | doc_type:owners_manual
 ≤8mm
 Travel of brake pedal
 120mm
 Brake fluid capacity
 
 ### 0.85±0.05L
-`hongqi_hs5_en_2e8510e0` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:389 | doc_type:owners_manual
 Brake fluid type (in accordance
 with GB12981-2012)
 DOT4
 
 ### Reasonable use range of the brake friction pair
-`hongqi_hs5_en_e470a142` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:389 | doc_type:owners_manual
 ►Front
 Pad thickness
 Standard thickness
@@ -11138,7 +10156,6 @@ Overall thickness
 18.8mm
 
 ### Thickness of friction material
-`hongqi_hs5_en_b671a61f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:389 | doc_type:owners_manual
 11.5mm
 Standard thickness
 Overall thickness
@@ -11147,7 +10164,6 @@ Thickness of friction material
 2mm
 
 ### Standard thickness
-`hongqi_hs5_en_8416dd4b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:389 | doc_type:owners_manual
 30mm
 Standard thickness
 28mm
@@ -11156,21 +10172,18 @@ Pad thickness
 Standard thickness
 
 ### Overall thickness
-`hongqi_hs5_en_b40bb93d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:389 | doc_type:owners_manual
 15.75mm
 Thickness of friction material
 10mm
 Standard thickness
 
 ### Overall thickness
-`hongqi_hs5_en_b40bb93d` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:389 | doc_type:owners_manual
 7.75mm
 Thickness of friction material
 2mm
 Brake disc thickness
 
 ### Standard thickness
-`hongqi_hs5_en_8416dd4b` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:389 | doc_type:owners_manual
 12mm
 Minimum Thickness 1Omm
 Caution
@@ -11180,7 +10193,6 @@ brake pad as soon as possible.
 388
 
 ### Suggested
-`hongqi_hs5_en_6e92b39d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:390 | doc_type:owners_manual
 position of
 microwave
 window (shown
@@ -11188,7 +10200,6 @@ in cab view)
 Tires and wheels
 
 ### 18*7 J
-`hongqi_hs5_en_317c3112` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:390 | doc_type:owners_manual
 Tire pressure kPa (bar)
 3 persons
 ECO
@@ -11203,38 +10214,32 @@ Rear
 260 (2.6)
 
 ### Wheel nut torque
-`hongqi_hs5_en_eed03df1` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:390 | doc_type:owners_manual
 108.7-147N.m
 Wheel dynamic balance requirements
 Remaining amount imbalance: ≤ 5g
 
 ### T145/ 80 R18
-`hongqi_hs5_en_0b9a7350` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:390 | doc_type:owners_manual
 Spare tire pressure kPa (bar)
 420 (4.2)
 Seat (with a deep cushion)
 
 ### Front seat
-`hongqi_hs5_en_efe7a9bc` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:390 | doc_type:owners_manual
 Position at front & rear (from the guide rail
 rear end position to the front)
 120mm
 
 ### Backrest angle
-`hongqi_hs5_en_1db39c7e` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:390 | doc_type:owners_manual
 25°
 Rear seats
 Position at front & rear
 Unadjustable
 
 ### Backrest angle
-`hongqi_hs5_en_1db39c7e` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:390 | doc_type:owners_manual
 25°
 The normal service condition of seat backrest: any position within the adjustable range designed for the
 backrest is the normal service condition.
 
 ### Vehicle equipped with multifunctional camera
-`hongqi_hs5_en_e379e70b` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:390 | doc_type:owners_manual
 9.Specifications
 389
 9
@@ -11243,7 +10248,6 @@ Bulb
 Bulb
 
 ### Exterior lamping
-`hongqi_hs5_en_f944759c` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:391 | doc_type:owners_manual
 and signal devices
 Front position lamp
 13.5
@@ -11251,7 +10255,6 @@ LED
 White
 
 ### Low beam
-`hongqi_hs5_en_3017452f` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:391 | doc_type:owners_manual
 18
 LED
 White
@@ -11263,7 +10266,6 @@ Front turn signal lamp
 7.5
 
 ### LED
-`hongqi_hs5_en_976a2531` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:391 | doc_type:owners_manual
 Amber
 Front fog lamp
 8
@@ -11273,7 +10275,6 @@ Side turn signal lamp
 2.4
 
 ### LED
-`hongqi_hs5_en_976a2531` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:391 | doc_type:owners_manual
 White
 Rear position lamp
 17
@@ -11285,7 +10286,6 @@ LED
 Red
 
 ### Rear fog lamp
-`hongqi_hs5_en_b758fda4` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:391 | doc_type:owners_manual
 2.5
 LED
 Red
@@ -11297,7 +10297,6 @@ Turn back signal
 16.5
 
 ### LED
-`hongqi_hs5_en_976a2531` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:391 | doc_type:owners_manual
 Amber
 High-level brake lamp
 4
@@ -11307,7 +10306,6 @@ Illuminating lamp
 1.5
 
 ### LED
-`hongqi_hs5_en_976a2531` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:391 | doc_type:owners_manual
 White
 Interior lamping
 system
@@ -11317,7 +10315,6 @@ LED
 White
 
 ### Room lamp
-`hongqi_hs5_en_89430a4e` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:391 | doc_type:owners_manual
 5
 LED
 White
@@ -11332,7 +10329,6 @@ ambient lamp
 0.3
 
 ### LED
-`hongqi_hs5_en_976a2531` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:391 | doc_type:owners_manual
 White/several colors
 Footwell lamp multicolor
 0.3
@@ -11340,7 +10336,6 @@ LED
 White/several colors
 
 ### Glove box lamp
-`hongqi_hs5_en_167905e5` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:391 | doc_type:owners_manual
 0.3
 LED
 White
@@ -11352,7 +10347,6 @@ Trunk lamp
 0.3
 
 ### LED
-`hongqi_hs5_en_976a2531` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:391 | doc_type:owners_manual
 White
 9.Specifications
 Fuel information
@@ -11369,23 +10363,19 @@ dedicated refueling of the vehicle gasoline refueling pump.
 Occasionally, a brief and slight knocking sound is heard during acceleration or climbing. This is normal and
 there is no need for concern.
 
-### Caution
-`hongqi_hs5_en_f085d577` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:392 | doc_type:owners_manual
-■Notice on fuel quality
-Do not use any unsuitable fuel. If you use unsuitable fuel, the engine may be damaged.
-Unsuitable fuel can cause engine or exhaust gas monitoring system failure.
-After adding fuel by mistake, please clean the fuel system thoroughly and check the hijacking machine.
-Please contact China FAW authorized Hongqi dealer.
-391
+> ⚠️ **Внимание:** ■Notice on fuel quality
+> Do not use any unsuitable fuel. If you use unsuitable fuel, the engine may be damaged.
+> Unsuitable fuel can cause engine or exhaust gas monitoring system failure.
+> After adding fuel by mistake, please clean the fuel system thoroughly and check the hijacking machine.
+> Please contact China FAW authorized Hongqi dealer.
+> 391
 
 ### Additional information on sales to other
-`hongqi_hs5_en_80ffaa65` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:393 | doc_type:owners_manual
 countries and regions except for the
 10
 392
 
 ### Additional information on sales to other countries and
-`hongqi_hs5_en_f75d6e13` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:394 | doc_type:owners_manual
 regions except for the mainland of China
 Navigation, voice recognition, and related functions that need to be connected to the Internet to
 use the mobile APP and the car APP are temporarily unavailable in other countries and regions
@@ -11401,7 +10391,6 @@ mainland of China
 393
 
 ### Thumbnail list
-`hongqi_hs5_en_f3cac147` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:396 | doc_type:owners_manual
 394
 Abbreviations
 Meaning
@@ -11409,19 +10398,16 @@ ABP
 Automatic Brake Prefill
 
 ### CDD-S
-`hongqi_hs5_en_a5f86bd3` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:396 | doc_type:owners_manual
 Controlled Deceleration for ACC-Stop & Go
 (autonomous cruise control deceleration control (ACC stop-and-go type))
 
 ### Controlled Deceleration for Parking Brake
-`hongqi_hs5_en_cb5d1e42` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:396 | doc_type:owners_manual
 (Parking brake deceleration)
 CO
 Carbon Monoxide
 DSM
 
 ### Thumbnail list
-`hongqi_hs5_en_0ba0dee6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:397 | doc_type:owners_manual
 395
 Abbreviations
 Meaning
@@ -11429,7 +10415,6 @@ ESS
 Emergency Stop Signal
 
 ### OBD
-`hongqi_hs5_en_b0a73c2f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:397 | doc_type:owners_manual
 On-Board Diagnostic
 POI
 Point of Interes
@@ -11437,7 +10422,6 @@ SACC
 Super Adaptive Cruise Control
 
 ### Thumbnail list
-`hongqi_hs5_en_9ad54830` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:398 | doc_type:owners_manual
 396
 Abbreviations
 Meaning
@@ -11445,20 +10429,17 @@ TSR
 Traffic Sign Recognition
 
 ### USB
-`hongqi_hs5_en_1aff1ed5` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:398 | doc_type:owners_manual
 Universal 8eMal Bus
 VIN
 Vehicle Identification Number
 
 ### Wireless Local Area Networks
-`hongqi_hs5_en_ca6e1a90` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:398 | doc_type:owners_manual
 395
 Opening button inside the
 trunk lid
 Release handle of the hood
 
 ### Tire pressure
-`hongqi_hs5_en_e724bdd1` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:399 | doc_type:owners_manual
 Fuel tank capacity (for
 reference)
 64L
@@ -11466,7 +10447,6 @@ Fuel type
 Unleaded gasoline (see P.384)
 
 ### Tire pressure
-`hongqi_hs5_en_e724bdd1` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:399 | doc_type:owners_manual
 See P.388
 Oil capacity
 See P.384
@@ -11476,7 +10456,6 @@ See P.385
 On-board tools list
 
 ### Illustration
-`hongqi_hs5_en_77b2037a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:400 | doc_type:owners_manual
 Name
 Qty.
 Warning triangle
@@ -11485,11 +10464,7 @@ Reflection vest assembly
 tire wrench;
 
 
-# Manual: hongqi/hs5 (965 chunks)
-<!-- doc_type:owners_manual tier:2 lang:en -->
-
 ### Foreword
-`hongqi_hs5_en_1dbb863f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 Thank you for choosing Hongqi HS5!
 All FAW vehicle models have passed China Compulsion Certification (CCC Certification) and
 Gulf Cooperation Council Certification (GCC Certification).
@@ -11509,26 +10484,22 @@ First Automobile Works (FAW)
 1
 
 ### Search by illustration
-`hongqi_hs5_en_f9272adf` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:3 | doc_type:owners_manual
 1
 Safety Instructions
 One must read through the safety instructions.
 2
 
 ### Instrument Cluster
-`hongqi_hs5_en_908f9fcc` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:3 | doc_type:owners_manual
 How to read instruments, various alarm lights and
 indicators, etc.
 3
 
 ### Operating the Components
-`hongqi_hs5_en_2dbcc509` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:3 | doc_type:owners_manual
 The opening/closing of windows and doors, adjustments
 before driving, etc.
 4
 
 ### Required operations and advice while driving
-`hongqi_hs5_en_f9c15d04` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:3 | doc_type:owners_manual
 5
 Audio System
 Audio system operation
@@ -11538,7 +10509,6 @@ Usage of interior equipment, etc.
 7
 
 ### Steps of vehicle maintenance
-`hongqi_hs5_en_1437a0a8` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:3 | doc_type:owners_manual
 8
 When Failure Arises
 Measures for failures or emergencies
@@ -11546,13 +10516,11 @@ Measures for failures or emergencies
 Vehicle specification:
 
 ### List the abbreviations contained in this manual
-`hongqi_hs5_en_0301031e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:3 | doc_type:owners_manual
 10  Additional information
 Additional information on sales to other countries and regions
 except for the mainland of China
 
 ### Driving
-`hongqi_hs5_en_864b3f56` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:4 | doc_type:owners_manual
 4-1. Before Driving
 4-2. Driving regulations
 3
@@ -11567,7 +10535,6 @@ except for the mainland of China
 9
 
 ### Contents
-`hongqi_hs5_en_620fb815` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:6 | doc_type:owners_manual
 Index
 4
 5-6. Bluetooth Music
@@ -11580,21 +10547,14 @@ Index
 5-13. Hongqi Smart Connect
 6
 
-### 9. Specifications
-`hongqi_hs5_en_8ae76389` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:7 | doc_type:owners_manual
-
-### Other information
-`hongqi_hs5_en_324b96d4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:7 | doc_type:owners_manual
 
 ### Additional information
-`hongqi_hs5_en_89def173` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:7 | doc_type:owners_manual
 10
 Additional information on sales to other
 countries and regions except for the mainland
 6
 
 ### Engine compartment
-`hongqi_hs5_en_5828d709` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:8 | doc_type:owners_manual
 cover
 Front windshield wipers
 Sunroof
@@ -11602,7 +10562,6 @@ Exterior rear
 mirror
 
 ### Side turn
-`hongqi_hs5_en_7a443ebc` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:8 | doc_type:owners_manual
 signal lamp
 Front Turn
 signal
@@ -11611,7 +10570,6 @@ Front Fog
 Lamp
 
 ### Day and night
-`hongqi_hs5_en_578c408f` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:8 | doc_type:owners_manual
 driving lights
 Front position
 lamp
@@ -11619,14 +10577,12 @@ Towing eye cover
 7
 
 ### Rear position lamp
-`hongqi_hs5_en_bbacf247` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:9 | doc_type:owners_manual
 High-level brake lamp
 Rear windshield
 Wipers
 Trunk lid
 
 ### License plate l
-`hongqi_hs5_en_490f8099` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:9 | doc_type:owners_manual
 amp
 Rear fog lamp
 Filler cap
@@ -11637,7 +10593,6 @@ Transpos
 ition
 
 ### Turn back
-`hongqi_hs5_en_bcdb9140` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:9 | doc_type:owners_manual
 signal
 Trunk lid, electric
 Close button
@@ -11645,7 +10600,6 @@ Close button
 Pictorial Index
 
 ### Front head
-`hongqi_hs5_en_45e20020` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:10 | doc_type:owners_manual
 restraint
 Front seat
 Front cup holder
@@ -11653,7 +10607,6 @@ Glove box
 Front passenger airbag
 
 ### Front seat center storage
-`hongqi_hs5_en_0d7ac1ca` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:10 | doc_type:owners_manual
 compartment
 9
 Central door lock
@@ -11662,7 +10615,6 @@ Exterior rearview mirror
 adjusting button
 
 ### Bottleholder and side pocket
-`hongqi_hs5_en_be446932` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:11 | doc_type:owners_manual
 10
 Pictorial Index
 Interior
@@ -11672,7 +10624,6 @@ Front map
 lamp
 
 ### Front map lamp
-`hongqi_hs5_en_b2b373ad` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:12 | doc_type:owners_manual
 switch
 Electric sunshade
 curtain switch
@@ -11680,7 +10631,6 @@ Roof grab
 handle
 
 ### Vanity
-`hongqi_hs5_en_86eefa8d` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:12 | doc_type:owners_manual
 mirror lamp
 Sun visor
 SOS switch
@@ -11692,7 +10642,6 @@ view mirrors
 11
 
 ### Combination instrument
-`hongqi_hs5_en_68540a9b` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:13 | doc_type:owners_manual
 display
 Headlamp
 Turn lamp
@@ -11700,7 +10649,6 @@ Fog lamp
 Wiper control lever
 
 ### Hazard warning lamp
-`hongqi_hs5_en_981275ef` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:13 | doc_type:owners_manual
 switch
 Steering wheel
 adjustment
@@ -11710,7 +10658,6 @@ electric adjustment
 button
 
 ### Constant speed
-`hongqi_hs5_en_661bb862` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:13 | doc_type:owners_manual
 cruise
 Adaptive cruise
 control
@@ -11719,7 +10666,6 @@ Lamp control lever
 12
 
 ### Forced defrosting of
-`hongqi_hs5_en_6d357eab` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:14 | doc_type:owners_manual
 windshield
 /Defrost (defrost)
 button
@@ -11728,27 +10674,23 @@ Driver side
 temperature display
 
 ### Driver side
-`hongqi_hs5_en_f3c1c353` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:14 | doc_type:owners_manual
 temperature setting
 button
 OFF button
 Idling Start-Stop Off button
 
 ### Blind spot detection close button
-`hongqi_hs5_en_82328687` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:14 | doc_type:owners_manual
 Radar/image switch button
 LDW/LKA switch button
 Air volume decrease
 button
 
 ### Front passenger side
-`hongqi_hs5_en_099ae8ca` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:14 | doc_type:owners_manual
 temperature setting key
 Front passenger side
 temperature display
 
 ### Air volume increase
-`hongqi_hs5_en_6b6380bb` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:14 | doc_type:owners_manual
 button
 Windshield heating button
 Internal / external circulation
@@ -11756,7 +10698,6 @@ button
 13
 
 ### Automatic
-`hongqi_hs5_en_55b1ea91` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:15 | doc_type:owners_manual
 parking
 button
 Electronic parking brake
@@ -11769,34 +10710,29 @@ Driver's seat
 ventilation key
 
 ### Front passenger side
-`hongqi_hs5_en_c668e301` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:15 | doc_type:owners_manual
 seat ventilating button
 14
 Pictorial Index
 Instrument Panel
 
 ### Call answer key
-`hongqi_hs5_en_4956e4cb` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:16 | doc_type:owners_manual
 Volume adjustment/mute
 button
 Voice recognition
 button
 
 ### Combination instrument
-`hongqi_hs5_en_625ec6f3` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:16 | doc_type:owners_manual
 display operation button
 15
 Heads up display setting button
 
 ### Left lower panel glove box
-`hongqi_hs5_en_c5b0e44e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:17 | doc_type:owners_manual
 16
 Pictorial Index
 Rear of the Vehicle
 Rear central armrest
 
 ### Rear power window switch
-`hongqi_hs5_en_8dcd051e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:18 | doc_type:owners_manual
 17
 For Your Information
 Instructions for the User’s Manual
@@ -11823,14 +10759,12 @@ vehicle's maneuverability, safety and durability, and may even violate local gov
 any problems caused by the modification are not covered under warranty.
 
 ### Read the vehicle identification number
-`hongqi_hs5_en_ddcc2671` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:19 | doc_type:owners_manual
 Use the diagnostic instrument to connect to the vehicle OBD port. When the ECU information is being read,
 you can read the vehicle VIN code. Reading tools are available on the market and must conform to IS014229,
 IS015765, ISO15031 and IS011898 standards.
 18
 
 ### Install the RF Transmitter System
-`hongqi_hs5_en_cd8c1878` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:20 | doc_type:owners_manual
 Installing a radio frequency transmitter system on the vehicle may affect electronic systems, such as:
 ● Anti-lock braking system
 ●Cruise control system
@@ -11845,7 +10779,6 @@ Excessive noise may occur when receiving radio frequency from other radio freque
 (RF transmitters).
 
 ### Vehicle Scrapping
-`hongqi_hs5_en_b1f8ce64` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:20 | doc_type:owners_manual
 Be sure to have the systems of the SRS airbag and seat belt pretensioner removed and disposed of by FAW
 authorized Hongqi dealers before you scrap the vehicle. The SRS airbag and seat belt pretensioner devices in
 the vehicle contain explosive chemicals. If the vehicle is scrapped with the airbags and seat belt pretensioners
@@ -11853,13 +10786,11 @@ intact, it may cause injury or fire, etc.
 19
 
 ### Vehicle Model Code
-`hongqi_hs5_en_f0ba6305` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:21 | doc_type:owners_manual
 This manual introduces the vehicle models CA6471  , CA6472HA6   , CA6471T  , CA6472HA6T.
 *1: Two-wheel drive vehicle.
 *2: Four-wheel drive vehicle.
 
 ### CAUTIONS
-`hongqi_hs5_en_d593e000` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:21 | doc_type:owners_manual
  Driving precautions
 The driver always drive soberly and defensively with full attention.
 ●Sober driving: do not drive the vehicle after drinking or taking drugs. Alcohol or some drugs will delay the
@@ -11884,21 +10815,17 @@ children.
 20
 
 ### CAUTIONS
-`hongqi_hs5_en_b5b34a5e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:22 | doc_type:owners_manual
 Introduce warning. Failure to follow instructions may result in serious personal injury or even death.
 
-### Caution
-`hongqi_hs5_en_f8487d4f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:22 | doc_type:owners_manual
-Explain precautions which, if not observed, may cause damages or failures in the vehicle or devices.
-Step 1 Indicates that operations or steps are performed in numerical order.
-Indicates actions (push, turn, press, etc.) for operating
-switches and other devices.
-Indicates results of operation (e.g., the lid is open).
-It means “Do not do this” or “Do not let this happen”.
-21
+> ⚠️ **Внимание:** Explain precautions which, if not observed, may cause damages or failures in the vehicle or devices.
+> Step 1 Indicates that operations or steps are performed in numerical order.
+> Indicates actions (push, turn, press, etc.) for operating
+> switches and other devices.
+> Indicates results of operation (e.g., the lid is open).
+> It means “Do not do this” or “Do not let this happen”.
+> 21
 
 ### Safe driving
-`hongqi_hs5_en_a8cae569` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:26 | doc_type:owners_manual
 24
 Adjust the seats, steering wheel and rear-view mirrors to the appropriate position before driving to
 ensure safety.
@@ -11906,13 +10833,11 @@ ensure safety.
 Sit back straight and lean against the seat back.
 
 ### Adjust the position of the seat backward to ensure that
-`hongqi_hs5_en_6a40783a` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:26 | doc_type:owners_manual
 the pedals can be easily depressed.
 Adjust the backrest of the seat so that you can easily
 operate all the control switches.
 
 ### Adjust the tilt of the steering wheel so that the airbag is
-`hongqi_hs5_en_46e00b52` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:26 | doc_type:owners_manual
 facing your chest.
 Adjust and lock the head restraint in place with the
 center of the head restraint flush with the top edge of the
@@ -11926,7 +10851,6 @@ vehicle.
 By properly adjusting the interior and exterior mirrors to ensure a good view of the rear situation.
 
 ### CAUTIONS
-`hongqi_hs5_en_cd5d7857` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:26 | doc_type:owners_manual
  Precautions when driving
 ● Do not adjust the driver's seat position during driving, otherwise the vehicle may be out of control.
 ● Do not place a back cushion between the body and the seat back, otherwise it is not conducive to
@@ -11945,14 +10869,12 @@ fingers may be pinched by the seat adjusting device.
 1-1. Safety Instructions
 
 ### Seat belt
-`hongqi_hs5_en_60506652` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:27 | doc_type:owners_manual
 25
 1
 Safety Instructions
 Before driving the vehicle, ensure that all occupants in the vehicle have fastened their seat belts.
 
 ### Correct use of the seat belts
-`hongqi_hs5_en_fbbe0a82` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:27 | doc_type:owners_manual
  Stretch the shoulder belt so that it crosses the shoulder,
 but should not touch the neck or slip off the shoulder.
  Cross the waist belt across the hip as low as possible.
@@ -11961,19 +10883,16 @@ the seat back.
  Do not twist the seat belt.
 
 ### Fasten the seatbelt
-`hongqi_hs5_en_0bb0ed84` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:27 | doc_type:owners_manual
 Insert the locking bolt into the buckle until a "click"
 sound is heard.
 
 ### Loosen the seatbelt
-`hongqi_hs5_en_3f25b52c` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:27 | doc_type:owners_manual
 Press the release button.
 Caution
 If the driver or passenger does not wear the seat belt, the instrument cluster will give an alarm when the
 vehicle reaches a certain speed.
 
 ### Release button
-`hongqi_hs5_en_0bc9aabf` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:27 | doc_type:owners_manual
 1-1. Safety Instructions
 26
 Adjust the seat belt height (front seats)
@@ -11981,12 +10900,10 @@ Up
 Down
 
 ### Press and hold the adjusting button and move the
-`hongqi_hs5_en_0c82a8af` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:28 | doc_type:owners_manual
 height adjuster up and down as needed until you hear a
 "click".
 
 ### Loosen the seatbelt
-`hongqi_hs5_en_6b80a936` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:28 | doc_type:owners_manual
 Press the release button.
 Seat belt pretensioners (only for front seats)
 If the vehicle suffers from some serious frontal impact,
@@ -11997,7 +10914,6 @@ However, the pretensioner will not be activated during
 minor frontal, side or rear-end collision.
 
 ### Press the button for
-`hongqi_hs5_en_49503d97` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:28 | doc_type:owners_manual
 adjustment
 Release
 button
@@ -12006,7 +10922,6 @@ button
 1
 
 ### Safety Instructions
-`hongqi_hs5_en_03af3ea6` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:29 | doc_type:owners_manual
  Emergency lockup retractor (ELR)
 In case of emergency braking or collision, the retractor will lock the seatbelt. if you lean forward too fast, it
 will also lock the seatbelt. Moving slowly and smoothly will extend the seatbelt and allow you to move
@@ -12029,7 +10944,6 @@ Qi dealer of China FAW for replacement or installation of seat belts.
 28
 
 ### CAUTIONS
-`hongqi_hs5_en_3efd3be1` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:30 | doc_type:owners_manual
 To reduce the risk of personal injury during emergency braking, emergency steering or accidents, please
 observe the following precautions, otherwise serious personal injury or even death may result.
  Fasten the seat belts
@@ -12045,7 +10959,6 @@ the occupant is seated upright against the seatback.
 the hips as low as possible, just like other occupants.
 
 ### The shoulder belt should be stretched diagonally across
-`hongqi_hs5_en_138e3cf9` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:30 | doc_type:owners_manual
 the shoulder and across the chest. Avoid wearing a seat
 belt on the raised abdomen.
 ● If the seat belt is not properly fastened, pregnant
@@ -12062,7 +10975,6 @@ If this happens and the buckle cannot be released, cut the seatbelt with scissor
 1
 
 ### CAUTIONS
-`hongqi_hs5_en_cabd8a89` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:31 | doc_type:owners_manual
 To reduce the possibility of personal injury during emergency braking or accident and avoid causing serious
 personal injury or even death, please observe the following precautions.
  Correctly wear the seat belt
@@ -12101,7 +11013,6 @@ injury to the passenger will increase when a collision occurs again.
 30
 
 ### CAUTIONS
-`hongqi_hs5_en_5e648185` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:32 | doc_type:owners_manual
  Damage and wear of seat belts
 ● Do not allow the door to grip the seat belt, locking tab or buckle, as this may damage the seat belt.
 ● The seat belt device must be inspected regularly. Inspect the seat belt components for cuts, wear and
@@ -12116,13 +11027,10 @@ no visible damage.
 an authorized Hong Qi dealer of China FAW for necessary repairs. Improper handling of the pretensioner
 may prevent it from operating properly, resulting in serious personal injury or even death.
 
-### Caution
-`hongqi_hs5_en_affc4c60` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
- Keep seat belts clean.
-If the seat belt is dirty, the seat belt may be difficult to retract, so please keep the seat belt clean. (See
+> ⚠️ **Внимание:**  Keep seat belts clean.
+> If the seat belt is dirty, the seat belt may be difficult to retract, so please keep the seat belt clean. (See
 
 ### P.306)
-`hongqi_hs5_en_03b91b1e` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
 1-1. Safety Instructions
 Airbag
 31
@@ -12139,19 +11047,16 @@ Driver seat airbag/Front passenger seat airbag
 Help protect the torso of the front seat passengers.
 
 ### Curtain airbag
-`hongqi_hs5_en_01b5d207` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:33 | doc_type:owners_manual
 Help protect the heads of the driver, front passenger and passengers in the side rear seats.
 1-1. Safety Instructions
 32
 
 ### Driver seat airbag
-`hongqi_hs5_en_fee61805` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:34 | doc_type:owners_manual
 Driver's airbag
 Airbag failure alarm light
 Airbag control unit
 
 ### Front passenger seat airbag
-`hongqi_hs5_en_8a86c528` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:34 | doc_type:owners_manual
 The main airbag system components are shown above.
 The airbag system triggers the airbag gas generator in the event of some severe frontal or side impact. The
 chemical reaction in the gas generator quickly makes the airbag filled up with non-toxic gas, so as to avoid
@@ -12161,7 +11066,6 @@ injury caused by secondary collision between the driver and car.
 1
 
 ### CAUTIONS
-`hongqi_hs5_en_c38e3f17` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:35 | doc_type:owners_manual
  Precautions for Airbags
 Observe the following precautions regarding the airbags.
 Otherwise, it may result in serious injury or even death.
@@ -12195,7 +11099,6 @@ Therefore, you must always fasten your seat belt.
 34
 
 ### CAUTIONS
-`hongqi_hs5_en_1eb53b30` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:36 | doc_type:owners_manual
  Precautions for Airbags
 ● The impact force of the driver's airbag deployment is quite large. If the driver is too close to the airbag, it
 may cause serious personal injury or even death. The front passenger seat should be as far away from the
@@ -12223,7 +11126,6 @@ B-pillar or C-pillar.
 1
 
 ### CAUTIONS
-`hongqi_hs5_en_b50d8ea5` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:37 | doc_type:owners_manual
 ■ Precautions for Airbags
 ● Do not kneel on the passenger seat facing the door or
 extend your head or hands out of the car.
@@ -12241,7 +11143,6 @@ ejected and cause serious injury or death.
 36
 
 ### CAUTIONS
-`hongqi_hs5_en_89ddc766` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:38 | doc_type:owners_manual
  Precautions for Airbags
 ●Do not use seat accessories that may cover the deployment area of the seat airbag. They may hinder the
 deployment of the airbag.
@@ -12273,7 +11174,6 @@ trim, A-pillar, B-pillar, C-pillar or roof cant rail.
 1
 
 ### Safety Instructions
-`hongqi_hs5_en_5de06a3c` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:39 | doc_type:owners_manual
  If the airbag deploys (inflated)
 ● The impact force of the airbag deployment is quite
 large, and the occupants are too close to the airbag, it
@@ -12332,7 +11232,6 @@ your vehicle.
 1
 
 ### Safety Instructions
-`hongqi_hs5_en_49eba8b2` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:41 | doc_type:owners_manual
 ● Rear-end collision
 ● side collision
 ● rolling over
@@ -12367,7 +11266,6 @@ front passenger's airbag.
 1
 
 ### Safety Instructions
-`hongqi_hs5_en_5b2e883f` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:43 | doc_type:owners_manual
 ● There are scratches, cracks or other damages on the
 seat surface equipped with seat airbag.
 ● There are scratches, cracks or other damages on the
@@ -12376,7 +11274,6 @@ B-pillar and C-pillar guard.
 1-1. Safety Instructions
 
 ### Child safety information
-`hongqi_hs5_en_d8453f68` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:44 | doc_type:owners_manual
 42
 Please observe the following precautions when there are children in the car.
 Children should use appropriate child protection devices until they have grown up to use seatbelts on
@@ -12389,7 +11286,6 @@ or accidentally operating the power window during driving.
 lid, seats, etc.
 
 ### CAUTIONS
-`hongqi_hs5_en_a54fcfed` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:44 | doc_type:owners_manual
  Do not allow the child to carry the vehicle key or leave the child along to play in the vehicle
 ● It is very dangerous for the child to play on the folded rear seats. Once the seat back is restored to its
 original position, children will be trapped in the enclosed trunk and not be able to leave. To avoid such
@@ -12407,14 +11303,12 @@ backs are locked.
 1-1. Safety Instructions
 
 ### Children restraint device
-`hongqi_hs5_en_e47aceee` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:45 | doc_type:owners_manual
 43
 1
 Safety Instructions
 FAW strongly recommends the use of child restraint device.
 
 ### Points to be remembered
-`hongqi_hs5_en_69f55044` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:45 | doc_type:owners_manual
 Studies have shown that installing a child restraint device on a rear seat is much safer than installing one to the
 front passenger seat.
  Please select the appropriate child protection device according to the child's weight and size.
@@ -12423,7 +11317,6 @@ General installation instructions are provided in this manual.
  China FAW recommends that you use child protection devices that comply with GB27887-2011.
 
 ### Types of children restraint devices
-`hongqi_hs5_en_a3a05fec` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:45 | doc_type:owners_manual
 According to GB27887-2011, child protection devices can be divided into the following 5 groups: group 0: <
 10 kg
 Group 0+: < 13 kg
@@ -12433,12 +11326,10 @@ Group III: 22 kg - 36 kg
 Information on the adaptability of different sitting positions to child restraint systems
 
 ### Mass group
-`hongqi_hs5_en_b55b8762` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:45 | doc_type:owners_manual
 Seating position (or other position)
 Assistant Driver seat
 
 ### Rear center seat
-`hongqi_hs5_en_2943b49a` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:45 | doc_type:owners_manual
 Group 0 : < 10 kg
 X
 Group 0+: < 13 kg
@@ -12446,13 +11337,11 @@ X
 Group I: 9 kg - 18 kg
 
 ### X
-`hongqi_hs5_en_256aa515` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:45 | doc_type:owners_manual
 Group II: 15 kg - 25 kg
 X
 Group III: 22 kg - 36 kg
 
 ### X
-`hongqi_hs5_en_256aa515` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:45 | doc_type:owners_manual
 The meaning of the letter in the above table:
 X: This seat position is not applicable to the restraint system for children in this mass group.
 1-1. Safety Instructions
@@ -12462,7 +11351,6 @@ The information in the table below shows the suitability of the child restraint 
 positions.
 
 ### X
-`hongqi_hs5_en_cac8e190` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:46 | doc_type:owners_manual
 Group 0 : < 10 kg
 E
 ISO/R1
@@ -12471,7 +11359,6 @@ IUF
 Group 0+: < 13 kg
 
 ### IUF
-`hongqi_hs5_en_27bcfc11` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:46 | doc_type:owners_manual
 Group I: 9 kg - 18 kg
 D
 ISO/R2
@@ -12482,7 +11369,6 @@ ISO/R3
 IUF
 
 ### IUF
-`hongqi_hs5_en_27bcfc11` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:46 | doc_type:owners_manual
 The meaning of the letter in the above table:
 IUF: Suitable for forward-facing child restraint systems of universal category approved for this mass group.
 IL: Applicable to ISOFIX child restraint systems of special category on the list. These restraint systems may
@@ -12494,7 +11380,6 @@ size class.
 1
 
 ### Safety Instructions
-`hongqi_hs5_en_1afa710f` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:47 | doc_type:owners_manual
  When installing the child restraint device in the front passenger seat
 It is not recommended to install the child restraint device in the front passenger seat. When it is not avoidable,
 the following adjustments are necessary:
@@ -12509,7 +11394,6 @@ seatbelt.
 46
 
 ### CAUTIONS
-`hongqi_hs5_en_ebfa836f` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:48 | doc_type:owners_manual
  Use the child restraint system
 ● If a child restraint system that is not suitable for this vehicle is used, it may not be possible to properly
 protect infants or children. This may lead to serious casualties (in case of emergency braking or accidents).
@@ -12551,7 +11435,6 @@ driving. This can prevent the injury of passengers in case of emergency braking 
 1-1. Safety Instructions
 
 ### Install the child restraint device
-`hongqi_hs5_en_91fa0755` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:49 | doc_type:owners_manual
 47
 1
 Safety Instructions
@@ -12559,29 +11442,24 @@ Follow the instruction manual provided by the manufacturer. Use ISOFIX rigid anc
 child restraint device to the seat. Attach the top tether strap when installing the child restraint device.
 
 ### Slightly increase the gap between seat
-`hongqi_hs5_en_a178b089` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:49 | doc_type:owners_manual
 cushion and seat back -
 Insert the buckle into the special fixing rod.
 
 ### If the head restraint hampers the correct installation of
-`hongqi_hs5_en_7e5330f2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:49 | doc_type:owners_manual
 the child restraint device, remove it before installing
 the child restraint device. (See P.94)
 
 ### If the child protection device is equipped with a top
-`hongqi_hs5_en_36dd01ee` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:49 | doc_type:owners_manual
 strap, the top strap should be fixed to the anchor
 support.
 
 ### Fix the child protection device with ISOFIX rigid
-`hongqi_hs5_en_b41ae3e2` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:49 | doc_type:owners_manual
 anchor.
 If the child protection device is interfered by the
 headrest and cannot be installed correctly, remove the
 headrest and install the child protection device. (see
 
 ### P.94)
-`hongqi_hs5_en_46505970` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:49 | doc_type:owners_manual
 Step
 1-1. Safety Instructions
 48
@@ -12590,7 +11468,6 @@ and tighten the top strap.
 Make sure the top tether strap is securely latched.
 
 ### CAUTIONS
-`hongqi_hs5_en_a3255718` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:50 | doc_type:owners_manual
  When installing a child protection device
 Observe the following precautions. Otherwise, it may result in serious hurt or even death.
 ● Tie the top strap firmly and make sure the seat belt is not twisted.
@@ -12611,7 +11488,6 @@ Step
 1
 
 ### CAUTIONS
-`hongqi_hs5_en_cf4a9336` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:51 | doc_type:owners_manual
  When installing a child protection devices
 Please follow the instructions provided with the child protection device. Fix the child protection device
 firmly in place. If the child protection device is not properly fixed in place, it may cause serious injury or
@@ -12633,12 +11509,10 @@ could occur.
 1-1. Safety Instructions
 
 ### Cautions on exhaust gas
-`hongqi_hs5_en_3e60b4cc` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:52 | doc_type:owners_manual
 50
 Exhaust gas contains substances harmful to the human body.
 
 ### CAUTIONS
-`hongqi_hs5_en_375a9c6b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:52 | doc_type:owners_manual
 The waste gas contains colorless and odorless harmful gas carbon monoxide (CO). Please observe the
 following precautions.
 Otherwise, the exhaust gas may enter the vehicle, causing dizziness and accidents, or may seriously endanger
@@ -12665,7 +11539,6 @@ Engine anti-theft system
 1
 
 ### Safety Instructions
-`hongqi_hs5_en_a70af1dc` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:53 | doc_type:owners_manual
 To prevent the vehicle from being stolen, the smart key and the card key have a built-in password chip.
 If the key is not registered in the computer in advance, the key cannot start the engine. Different
 vehicles have different information registered in the key.
@@ -12683,15 +11556,12 @@ vehicle
  If the engine cannot be started by using the correct method, the engine anti-theft system may fail.
 Please contact an authorized Hong Qi dealer of China FAW to check the vehicle for you.
 
-### Caution
-`hongqi_hs5_en_1935e1e0` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:53 | doc_type:owners_manual
- Ensure normal operation of the system
-Do not modify or disassemble the system. If it is modified or disassembled, there is no guarantee that the
-system will operate properly.
-1-2.Anti-Theft System
+> ⚠️ **Внимание:**  Ensure normal operation of the system
+> Do not modify or disassemble the system. If it is modified or disassembled, there is no guarantee that the
+> system will operate properly.
+> 1-2.Anti-Theft System
 
 ### Vehicle body immobilizer system
-`hongqi_hs5_en_bf836533` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:54 | doc_type:owners_manual
 52
 The body anti-theft system mainly monitors the status of four doors, hood and trunk lid. When the
 system detects that someone is forcing their way into the vehicle, it will give an alarm and flash the turn
@@ -12702,7 +11572,6 @@ close the doors, the trunk lid and the hood and lock all
 doors.
 
 ### Deactivating or stopping the alarm
-`hongqi_hs5_en_cad8b93c` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:54 | doc_type:owners_manual
 Implementany of the following operations:
 ● Use smart entry or wireless remote control to unlock doors or trunk lid.
 ● Start the engine (the alarm will be released or stopped after a few seconds).
@@ -12714,26 +11583,21 @@ and the sunroof are closed.
 Be sure to cancel the alarm system.
 The alarm may be triggered if the battery is recharged or replaced when the vehicle is locked.
 
-### Caution
-`hongqi_hs5_en_d0fac4ad` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:54 | doc_type:owners_manual
- Ensure normal operation of the system
-Do not modify or disassemble the system. If it is modified or disassembled, there is no guarantee that the
-system will operate properly.
-53
+> ⚠️ **Внимание:**  Ensure normal operation of the system
+> Do not modify or disassemble the system. If it is modified or disassembled, there is no guarantee that the
+> system will operate properly.
+> 53
 
 ### Combination instrument
-`hongqi_hs5_en_79590de5` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:56 | doc_type:owners_manual
 54
 Due to the different vehicle configurations, the contents displayed also vary.
 
 ### Engine tachometer
-`hongqi_hs5_en_7685be62` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:56 | doc_type:owners_manual
 Displays the revolutions per minute of the engine.
 Tip/alarm icons display area
 Shows the vehicle warning lamp and indicator lamp, etc.
 
 ### Speedometer
-`hongqi_hs5_en_a8949d72` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:56 | doc_type:owners_manual
 Displays the vehicle speed.
 Fuel gauge display area
 Displays the remaining fuel level.
@@ -12742,14 +11606,12 @@ Display gear, fuel consumption, vehicle speed, driving range, tire pressure info
 and prompt information, etc., while supporting the audio system for quick operation.
 
 ### Engine coolant temperature display area
-`hongqi_hs5_en_c3a3c9de` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:56 | doc_type:owners_manual
 Displays temperature of the engine coolant.
 Instantaneous vehicle speed
 Short-term average fuel
 consumption
 
 ### 2. Instrument Cluster
-`hongqi_hs5_en_e33eb28a` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:57 | doc_type:owners_manual
 55
 2
 Instrument Cluster
@@ -12759,7 +11621,6 @@ The interior backlight brightness can be adjusted in the vehicle settings of the
 The engine switch is placed in "IG-ON" mode.
 
 ### CAUTIONS
-`hongqi_hs5_en_675b3dce` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:57 | doc_type:owners_manual
  Prevent damage to the engine and its components
 ●The tachometer pointer in the red area indicates that the engine is approaching the maximum speed. Please
 control the speed.
@@ -12770,19 +11631,16 @@ For safety, please adjust the backlight brightness in the parking state. Do not 
 attention and hinder safe driving. Ignoring the road and traffic conditions will lead to accidents.
 
 ### Warning lamp
-`hongqi_hs5_en_7853a363` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:58 | doc_type:owners_manual
 56
 The warning light indicates the current status of the vehicle system or the possible faults of the
 corresponding system of the vehicle. (See P.348)
 
 ### Failure indicator for engine control
-`hongqi_hs5_en_1bd409cd` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:58 | doc_type:owners_manual
 system
 Engine exhaust gas monitoring system
 fault warning lamp
 
 ### Abnormal engine oil pressure warning
-`hongqi_hs5_en_bdac6a53` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:58 | doc_type:owners_manual
 lamp
 Airbag system fault warning lamp
 Seat belt reminder lamp
@@ -12790,7 +11648,6 @@ Transmission system/electronic shifting
 system fault warning lamp
 
 ### Engine
-`hongqi_hs5_en_c85e95d1` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:58 | doc_type:owners_manual
 immobilizer
 system
 fault
@@ -12798,20 +11655,17 @@ warning lamp
 Ignition switch fault warning lamp
 
 ### Electronic wiper system fault warning
-`hongqi_hs5_en_4cd8cf93` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:58 | doc_type:owners_manual
 lamp
 Bulb fault warning lamp
 Low level of cleaning fluid warning
 lamp
 
 ### Brake friction plate wear excessive
-`hongqi_hs5_en_64735987` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:58 | doc_type:owners_manual
 warning lamp
 EPS system fault warning lamp
 EPS system serious fault warning lamp
 
 ### AUTO HOLD system fault warning
-`hongqi_hs5_en_012832c1` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:58 | doc_type:owners_manual
 lamp
 Shock absorber system fault warning
 lamp
@@ -12819,7 +11673,6 @@ Constant speed cruise system fault
 warning lamp
 
 ### Electronic steering column system fault
-`hongqi_hs5_en_21a5b58a` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:58 | doc_type:owners_manual
 warning lamp
 2. Instrument Cluster
 57
@@ -12827,54 +11680,45 @@ warning lamp
 Instrument Cluster
 
 ### EPB system fault warning lamp
-`hongqi_hs5_en_d45b2cd2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:59 | doc_type:owners_manual
 Abnormal tire pressure/system fault
 warning lamp
 FCW system fault warning lamp
 
 ### AEB system fault warning lamp
-`hongqi_hs5_en_79c063a7` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:59 | doc_type:owners_manual
 LDW/LKA system fault warning lamp
 BSD system fault warning lamp
 
 ### Passive start system fault warning
-`hongqi_hs5_en_aab99c43` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:59 | doc_type:owners_manual
 lamp
 IFC advanced driver assistance system
 camera fault warning lamp
 
 ### TSR system fault warning lamp
-`hongqi_hs5_en_564c978f` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:59 | doc_type:owners_manual
 Automatic driving light / automatic
 wiper function fault warning lamp
 
 ### Seat memory function fault warning
-`hongqi_hs5_en_86a8dcde` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:59 | doc_type:owners_manual
 lamp
 Four-wheel system fault warning lamp
 Idle start-stop system fault warning
 lamp
 
 ### Headlight height automatic adjustment
-`hongqi_hs5_en_1eed8e18` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:59 | doc_type:owners_manual
 system fault warning indicator
 Driving mode selection system fault
 warning lamp
 
 ### SACC system steering assist failure
-`hongqi_hs5_en_6ff9662b` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:59 | doc_type:owners_manual
 indicator
 Note:
 If any of the lights does not turn on or off, the corresponding system may be faulty. Contact FAW
 authorized Hongqi dealer for vehicle check.
 
 ### Indicator lamp
-`hongqi_hs5_en_c088513c` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:60 | doc_type:owners_manual
 58
 The indicator light indicates the current operating status of each system of the vehicle.
 
 ### ESC system OFF indicator lamp
-`hongqi_hs5_en_fe55f255` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:60 | doc_type:owners_manual
 Idle
 start-stop
 system
@@ -12889,12 +11733,10 @@ Idle start-stop system OFF indicator
 lamp
 
 ### Sport mode indicator lamp
-`hongqi_hs5_en_9ce48010` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:60 | doc_type:owners_manual
 Off-road mode indicator lamp
 Snowfield mode indicator lamp
 
 ### Constant speed cruise ON indicator
-`hongqi_hs5_en_9f0f986b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:60 | doc_type:owners_manual
 lamp
 Constant
 speed
@@ -12904,7 +11746,6 @@ indicator lamp
 IHC system working indicator lamp
 
 ### Comfort
-`hongqi_hs5_en_6c567011` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:60 | doc_type:owners_manual
 Off-road
 Economy
 Sport
@@ -12914,7 +11755,6 @@ Snowfield
 2
 
 ### DSM system warning indicator lamp
-`hongqi_hs5_en_879c9b35` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 (minor abnormality)
 DSM system warning indicator lamp
 (serious abnormality)
@@ -12923,14 +11763,12 @@ LDW/LKA system working indicator
 lamp
 
 ### TSR
-`hongqi_hs5_en_0d970fc7` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:61 | doc_type:owners_manual
 system
 intelligent
 speed
 limit-Traffic identification light
 
 ### Active
-`hongqi_hs5_en_cf63ab73` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 speed
 limiting
 warning
@@ -12938,27 +11776,23 @@ indicator lamp
 HDC system ON indicator lamp
 
 ### HDC system working indicator lamp
-`hongqi_hs5_en_1e3bd6bf` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 In-car air quality (excellent) indicator
 In-car air quality (good) indicator
 In-car air quality (poor) indicator
 
 ### Outside ambient temperature display
-`hongqi_hs5_en_780c597b` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:61 | doc_type:owners_manual
 indicator
 ACC system ON indicator lamp
 SACC system steering assistance ON
 indicator lamp
 
 ### SACC system steering assist work
-`hongqi_hs5_en_731c4484` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:61 | doc_type:owners_manual
 indicator
 Unknown key indicator lamp
 Mobile phone left reminding indicator
 lamp
 
 ### Driving pattern unable to switch
-`hongqi_hs5_en_2621f15c` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:61 | doc_type:owners_manual
 indicator lamp
 2. Instrument Cluster
 Combination instrument multifunction display
@@ -12967,16 +11801,13 @@ The combination instrument multifunction display presents the driver with a vari
 audio navigation information.
 
 ### Multifunction display area
-`hongqi_hs5_en_ac6aa737` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:62 | doc_type:owners_manual
 Operate / view vehicle information, radio, music, phone, navigation assistance information, Himalayan online application, QQ
 music online application and other modules.
 
 ### Trip mileage display field
-`hongqi_hs5_en_15158052` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:62 | doc_type:owners_manual
 Display the trip mileage information, falling into A and B. Trip A and B can be switched by the mileage setting key. (see P.61)
 
 ### Driving mode display area
-`hongqi_hs5_en_66312002` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:62 | doc_type:owners_manual
 Display the current selected driving mode.
 Gear display area
 Displays the vehicle current gear position.
@@ -12984,12 +11815,10 @@ Idling on-off display field
 Display the idling on-off status indicator lamp.
 
 ### Total mileage display area
-`hongqi_hs5_en_d6dae0b7` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:62 | doc_type:owners_manual
 Displays the total mileage information.
 Instantaneous vehicle speed
 
 ### Instantaneous fuel
-`hongqi_hs5_en_cad12fd4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 consumption
 Comfort
 2. Instrument Cluster
@@ -12998,31 +11827,26 @@ Comfort
 Instrument Cluster
 
 ### Roller
-`hongqi_hs5_en_82c96731` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:63 | doc_type:owners_manual
 Rolling: rolling up and down will switch the selection
 item. Short pressing: confirm the selection.
 
 ### Return
-`hongqi_hs5_en_89fb2f05` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:63 | doc_type:owners_manual
 Short press to return to the previous interface.
 Menu button
 In the music and phone interfaces, short press to return
 to the menu interface.
 
 ### CAUTIONS
-`hongqi_hs5_en_fe1910f8` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:63 | doc_type:owners_manual
  During driving
 Take extra care when operating the instrument operating keys on the steering wheel to prevent accidents.
 Sub-mileage setting
 
 ### Short press the mileage setting button to switch the
-`hongqi_hs5_en_a01c23a2` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:63 | doc_type:owners_manual
 display of minute mileage A and minute mileage B on
 the meter, and long press to clear the currently displayed
 minute mileage.
 
 ### 2. Instrument Cluster
-`hongqi_hs5_en_e2529394` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:64 | doc_type:owners_manual
 62
 Multifunction display area
 By using the left and right buttons on the steering wheel, you can switch between the driving
@@ -13030,13 +11854,11 @@ information, radio, music, phone, navigation, warning information, driver assist
 Himalaya online, and QQ music.
 
 ### Multifunction display information area
-`hongqi_hs5_en_0f6e9322` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:64 | doc_type:owners_manual
 Note: if there is no warning message, driving auxiliary function is not active, Himalaya has no tone source
 output, QQ music has no tone source output, the corresponding module will be hidden in the navigation
 column.
 
 ### Displays the driving information
-`hongqi_hs5_en_e8d0b5d9` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:64 | doc_type:owners_manual
 Specific operation. (See P.63)
 Radio
 Displays the radio information
@@ -13044,14 +11866,12 @@ Specific operation. (See P.66)
 Music
 
 ### Displays the music information
-`hongqi_hs5_en_7891a0f8` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:64 | doc_type:owners_manual
 Specific operation. (See P.66)
 Phone
 Displays the phone information
 Specific operation. (See P.67)
 
 ### Instantaneous
-`hongqi_hs5_en_440f2dfa` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:64 | doc_type:owners_manual
 fuel
 i
 2. Instrument Cluster
@@ -13060,14 +11880,12 @@ i
 Instrument Cluster
 
 ### Displays the navigation information
-`hongqi_hs5_en_97cb02de` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:65 | doc_type:owners_manual
 Specific operation. (See P.68)
 Warning information
 Displays the warning information
 Specific operation. (See P.68)
 
 ### Displays the driver assistance information
-`hongqi_hs5_en_05eb1c71` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:65 | doc_type:owners_manual
 Specific operation. (See P.69)
 Himalaya online
 Displays the Himalaya online
@@ -13082,12 +11900,10 @@ consumption/driving range, tire pressure information,
  Short-term average fuel consumption/vehicle speed
 
 ### Long pressing the steering wheel roller or disconnecting
-`hongqi_hs5_en_abe7cd4b` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:65 | doc_type:owners_manual
 the battery can reset the instant average fuel
 consumption/vehicle speed information,
 
 ### Instantaneous fuel
-`hongqi_hs5_en_aa456caa` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:65 | doc_type:owners_manual
 consumption
 2. Instrument Cluster
 64
@@ -13097,14 +11913,12 @@ will be accumulated).
  Long-term average fuel consumption/vehicle speed
 
 ### Long pressing the steering wheel roller can reset the
-`hongqi_hs5_en_56c8a728` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:66 | doc_type:owners_manual
 average fuel consumption/vehicle speed information,
 Note: the average fuel consumption/vehicle speed means the average fuel consumption/vehicle speed after the
 last resetting.
  Instantaneous fuel consumption/driving range
 
 ### Display the instant fuel consumption and driving range
-`hongqi_hs5_en_569524d4` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:66 | doc_type:owners_manual
 of the vehicle under the current working conditions.
  Tire pressure information
 • When the tire pressure of one or more tires is
@@ -13123,7 +11937,6 @@ Long-term average fuel
 consumption
 
 ### Instantaneous fuel
-`hongqi_hs5_en_ce21bdbe` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:66 | doc_type:owners_manual
 consumption
 Driving range
 2. Instrument Cluster
@@ -13131,7 +11944,6 @@ Driving range
 2
 
 ### Instrument Cluster
-`hongqi_hs5_en_16641e9a` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:67 | doc_type:owners_manual
  Date
 Display the current date.
  4WD status information *
@@ -13139,7 +11951,6 @@ Display the current AWD status.
  Average fuel consumption charge/long - term average fuel consumption charge
 
 ### Display
-`hongqi_hs5_en_914a4a5d` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:67 | doc_type:owners_manual
 the
 average
 fuel
@@ -13151,13 +11962,11 @@ in the vehicle setting of audio system. (See P.227)
 Date
 
 ### Long term average fuel
-`hongqi_hs5_en_ee6038f2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:67 | doc_type:owners_manual
 consumption billing
 Average fuel consumption
 billing
 
 ### 2. Instrument Cluster
-`hongqi_hs5_en_7bc6d6b1` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:68 | doc_type:owners_manual
 66
  Acceleration timer
 Display and record the acceleration timer information.
@@ -13170,7 +11979,6 @@ If the radio is playing, the current play information will
 be displayed when the radio interface is accessed.
 
 ### Operate the steering wheel roller to search the active
-`hongqi_hs5_en_99a0a0b3` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:68 | doc_type:owners_manual
 stations up/down; operate the home key or menu key to
 return the radio operation
  Music
@@ -13179,7 +11987,6 @@ the list of favorite, local, USB1, USB2 and Bluetooth to
 play.
 
 ### Ode to the Hong Qi
-`hongqi_hs5_en_ee904efe` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:68 | doc_type:owners_manual
 Local
 click
 save
@@ -13192,7 +11999,6 @@ If the music is playing, the current play information will
 be displayed when the music interface is accessed.
 
 ### Operate the steering wheel roller to switch the tracks
-`hongqi_hs5_en_7448b40f` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:69 | doc_type:owners_manual
 up/down; operate the home key or menu key to return
 the music operation interface.
  Phone
@@ -13208,7 +12014,6 @@ mute the call.
 Track
 
 ### Call log
-`hongqi_hs5_en_df0b4199` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:69 | doc_type:owners_manual
 Li Bo
 Call from the
 home of Zhang
@@ -13232,13 +12037,11 @@ When the vehicle has alarm information, the alarm information will appear in the
 You can also view all the alarm information of the current vehicle through the alarm information interface.
 
 ### The steering wheel can be used to switch the current
-`hongqi_hs5_en_8b33bc02` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:70 | doc_type:owners_manual
 alarm information up and down.
 Call
 Engine control system failures!
 
 ### 2. Instrument Cluster
-`hongqi_hs5_en_197dee5c` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:71 | doc_type:owners_manual
 69
 2
 Instrument Cluster
@@ -13258,7 +12061,6 @@ multifunctional display area displays the QQ music
 online application interface.
 
 ### Social
-`hongqi_hs5_en_06bec2c9` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:71 | doc_type:owners_manual
 Security:
 Cancel
 social
@@ -13271,25 +12073,20 @@ The head-up display is linked with the instrument and the system to provide driv
 information on the windshield where the driver is facing.
 
 ### Navigation system display area
-`hongqi_hs5_en_925ad5d2` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:72 | doc_type:owners_manual
 Display the next intersection information under the current navigation traffic conditions.
 
 ### Entertainment system display area
-`hongqi_hs5_en_6325f24a` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:72 | doc_type:owners_manual
 Displays the currently playing radio, music, and phone information.
 
 ### Driver assistance system display area
-`hongqi_hs5_en_b3689300` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:72 | doc_type:owners_manual
 Displays cruise, front collision warning and lane keep assist information.
 
 ### Vehicle speed display area
-`hongqi_hs5_en_ae46727e` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:72 | doc_type:owners_manual
 Displays the current vehicle speed.
 Display area of speed limit alarm system
 Displays the current road speed limit information.
 
 ### 2. Instrument Cluster
-`hongqi_hs5_en_82e77044` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:73 | doc_type:owners_manual
 71
 2
 Instrument Cluster
@@ -13299,7 +12096,6 @@ Press the key to enable the head-up display: press it
 again to disable the head-up display.
 
 ### Adjust up
-`hongqi_hs5_en_c83afe6f` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:73 | doc_type:owners_manual
 Raise the heightof the head-up display image.
 Adjust down
 Turn down the height of the head-up display image.
@@ -13308,7 +12104,6 @@ You can set the brightness of the virtual image displayed by the head-up display
 the vehicle settings of the audio system. (See P.226)
 
 ### CAUTIONS
-`hongqi_hs5_en_14c062c6` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:73 | doc_type:owners_manual
  Before using the head-up display
 ● Check that the position and brightness of the head-up display image does not interfere with safe driving.
 Incorrect adjustment of the image’s position or brightness may obstruct the driver’s view and lead to an
@@ -13317,17 +12112,14 @@ accident, resulting in death or serious injury.
 ● Do not continuously look at the head-up display while driving as you may fail to see pedestrians, objects
 on the road, etc. ahead of the vehicle.
 
-### Caution
-`hongqi_hs5_en_fbf72a9f` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:73 | doc_type:owners_manual
- Prevent damage to components
-● Do not place any liquid near the head-up display. If the display gets wet, it may cause electrical problems.
-● Do not place anything on or stickers onto the head-up display. Otherwise, the indication of the head-up
-display may be interrupted.
-● Do not touch HUD projector inside or throw sharp edge object or similar object inside. Doing so could
-cause mechanical malfunctions.
+> ⚠️ **Внимание:**  Prevent damage to components
+> ● Do not place any liquid near the head-up display. If the display gets wet, it may cause electrical problems.
+> ● Do not place anything on or stickers onto the head-up display. Otherwise, the indication of the head-up
+> display may be interrupted.
+> ● Do not touch HUD projector inside or throw sharp edge object or similar object inside. Doing so could
+> cause mechanical malfunctions.
 
 ### 2. Instrument Cluster
-`hongqi_hs5_en_8868c747` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:74 | doc_type:owners_manual
 72
 73
 3.1. Key information
@@ -13350,7 +12142,6 @@ Clip
 (See P.83)
 
 ### Mechanical key
-`hongqi_hs5_en_b5a5be71` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:76 | doc_type:owners_manual
 Key number plate'
 Wireless remote control
 Unlock the doors by pressing the button, while open all
@@ -13361,7 +12152,6 @@ the windows and sunroof by pressing and holding the
 button*1
 
 ### Press and hold the button to unlock and open the trunk
-`hongqi_hs5_en_65748cd4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:76 | doc_type:owners_manual
 lid
 Short press to activate the vehicle seek function
 In the locked state of the vehicle, pressing the car
@@ -13374,14 +12164,12 @@ press the button again, the window or sunroof will stop moving.
 3
 
 ### Operating the Components
-`hongqi_hs5_en_06aad23f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:77 | doc_type:owners_manual
 Use the mechanical key.
 Take out the mechanical key as shown in the figure. Put
 the mechanical key in the card key after using it. Carry
 the mechanical key together with the card key.
 
 ### If the battery of smart key or card key is fully
-`hongqi_hs5_en_53728aa9` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:77 | doc_type:owners_manual
 discharged and cannot work normally, the mechanical
 key is required. (See P.364)
  When needing parking service
@@ -13413,33 +12201,30 @@ electrical equipment that generates the magnetic field as shown below.
 3.1. Information on the Key
 76
 
-### Caution
-`hongqi_hs5_en_befe8515` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:78 | doc_type:owners_manual
- Prevent key damage
-●Do not subject the key to violent collision or expose it to high temperature (e.g. direct sunlight) and humid
-environment.
-Do not wet the key or clean it in equipment such as ultrasonic cleaner.
-● Do not attach metal or magnetic substances to the key or place the key close to such substances
-● Do not disassemble the smart key or the card key.
-● Do not stick labels or other items on the surface of the key.
-● Do not place the key near objects that can generate magnetic fields, such as electronic medical equipment
-(e.g. low-frequency medical equipment) such as electricity display, sound system, induction cooker, etc.
- Carry the smart key or the card key with you
-● When carrying the key, it should be 10 cm or more away from the electrical equipment turned on. Radio
-waves emitted by electrical equipment within 10 cm from smart key may interfere with the key, resulting in
-the key not working properly.
- When the smart entry or the starting system fails or other key-related failure exists
-Please send the vehicle to an authorized Hong Qi dealer of FAW China and bring all the keys with you.
- When the key is lost
-If the key is lost, the risk of theft of the vehicle will obviously increase. Take all the other keys equipped with
-the vehicle to an authorized Hong Qi dealer of FAW China immediately.
-3.2. Opening, Closing and Locking the Doors and Trunk Lid
-Doors
-77
-3
+> ⚠️ **Внимание:**  Prevent key damage
+> ●Do not subject the key to violent collision or expose it to high temperature (e.g. direct sunlight) and humid
+> environment.
+> Do not wet the key or clean it in equipment such as ultrasonic cleaner.
+> ● Do not attach metal or magnetic substances to the key or place the key close to such substances
+> ● Do not disassemble the smart key or the card key.
+> ● Do not stick labels or other items on the surface of the key.
+> ● Do not place the key near objects that can generate magnetic fields, such as electronic medical equipment
+> (e.g. low-frequency medical equipment) such as electricity display, sound system, induction cooker, etc.
+>  Carry the smart key or the card key with you
+> ● When carrying the key, it should be 10 cm or more away from the electrical equipment turned on. Radio
+> waves emitted by electrical equipment within 10 cm from smart key may interfere with the key, resulting in
+> the key not working properly.
+>  When the smart entry or the starting system fails or other key-related failure exists
+> Please send the vehicle to an authorized Hong Qi dealer of FAW China and bring all the keys with you.
+>  When the key is lost
+> If the key is lost, the risk of theft of the vehicle will obviously increase. Take all the other keys equipped with
+> the vehicle to an authorized Hong Qi dealer of FAW China immediately.
+> 3.2. Opening, Closing and Locking the Doors and Trunk Lid
+> Doors
+> 77
+> 3
 
 ### Unlock and lock the door from the outside of the vehicle
-`hongqi_hs5_en_c7d4017b` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:79 | doc_type:owners_manual
  Smart entry
 As long as you carry a smart key or a card key, you can unlock and lock the doors through the smart access
 function.
@@ -13452,14 +12237,12 @@ Hold the driver ’s or front passenger ’s door handle to
 unlock the door,
 
 ### When the door is locked by touching the door handle
-`hongqi_hs5_en_2e18304d` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:79 | doc_type:owners_manual
 lock sensing area, the door cannot be passively
 unlocked within 4s, but the remote unlocking function is
 not affected.
  Wireless remote control
 
 ### Lock all doors
-`hongqi_hs5_en_e1cd28ce` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:79 | doc_type:owners_manual
 Unlock the driver door/all the doors
 For the unlock method setting, see P.224.
 3.2. Opening, Closing and Locking the Doors and Trunk Lid
@@ -13469,7 +12252,6 @@ Open the door keyhole cover using the mechanical key.
 Lock and unlock the vehicle using the mechanical key.
 
 ### Unlocking door
-`hongqi_hs5_en_80ecbe8a` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:80 | doc_type:owners_manual
  Operation signal
 All turn signals flash to indicate that the door has been locked/unlocked. (Locked: Once; Unlocked: Twice)
  Exhausted key
@@ -13479,12 +12261,10 @@ If the key battery runs out, replace it with a new one. (See P.334)
 3
 
 ### Unlock and lock the door from interior
-`hongqi_hs5_en_37d5c76e` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:81 | doc_type:owners_manual
 • The door can be unlocked and locked by the central door lock switch on the driver's door.
  Central control lock switch
 
 ### Unlock all doors
-`hongqi_hs5_en_32268617` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:81 | doc_type:owners_manual
 Note: When a door is not closed, the central control door lock switch can only be used to unlock but not to
 lock.
  Interior door handle
@@ -13493,13 +12273,11 @@ After locking the door, pull the inner handle once to
 unlock the door. Pull again to open the door.
 
 ### Child safety lock on the rear door
-`hongqi_hs5_en_7e80e404` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:81 | doc_type:owners_manual
 After setting the safety lock, the door cannot be opened
 from inside the car.
 Lock
 
 ### Setting a safety lock prevents children from opening
-`hongqi_hs5_en_279423a4` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:81 | doc_type:owners_manual
 the rear door in the car.
 3.2. Opening, Closing and Locking the Doors and Trunk Lid
 80
@@ -13510,7 +12288,6 @@ doors when the vehicle speed exceeds about 20 km/h.
 (See P.87)
 
 ### CAUTIONS
-`hongqi_hs5_en_c4abcaf6` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:82 | doc_type:owners_manual
  Prevent accidents
 The following precautions should be observed when driving the vehicle.
 Otherwise, the passenger in the vehicle can be thrown out of the vehicle due to the unintentionally opened
@@ -13540,7 +12317,6 @@ door, the door may open accidentally, thus causing an accident.
 3.2. Opening, Closing and Locking the Doors and Trunk Lid
 
 ### Trunk lid
-`hongqi_hs5_en_e5830c8d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
 81
 3
 Operating the Components
@@ -13548,14 +12324,12 @@ The trunk lid can be opened by using the trunk lid button, smart entry function 
 control function.
 
 ### Opening the trunk lid
-`hongqi_hs5_en_cccb2f7a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
  Open the trunk lid from the inside of the car
 When the vehicle is stationary, press the button on the
 trunk lid to unlock and open the trunk lid.
  Opening the trunk lid from the outside of vehicle
 
 ### When the vehicle is locked and the engine switch is
-`hongqi_hs5_en_fcd99c42` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:83 | doc_type:owners_manual
 placed in the "G-OFF" mode, take the smart key or card
 key with you, and press the open button on the trunk lid
 to unlock and open the trunk lid. When the vehicle is
@@ -13568,7 +12342,6 @@ open the trunk lid.
 82
 
 ### Closing the trunk lid
-`hongqi_hs5_en_b1ed2b2b` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:84 | doc_type:owners_manual
  Trunk lid OFF button *
 Press the trunk lid close button and the trunk lid is
 closed automatically.
@@ -13590,7 +12363,6 @@ of key left in the trunk will be triggered (the trunk will be opened automatical
 3
 
 ### CAUTIONS
-`hongqi_hs5_en_c6315d22` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:85 | doc_type:owners_manual
  When opening and closing the trunk lid, be careful to avoid being pinched by the trunk lid.
  Before driving
 ● Make sure the trunk lid is completely closed. If the trunk lid is not completely closed, it may accidentally
@@ -13617,7 +12389,6 @@ body.
 84
 
 ### CAUTIONS
-`hongqi_hs5_en_1de85bdf` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:86 | doc_type:owners_manual
  Use the trunk
 Observe the following precautions:
 Otherwise, it may pinch some part of the body and cause serious injury.
@@ -13632,7 +12403,6 @@ suddenly in strong winds.
 trunk to open and close suddenly.
 
 ### Opening or closing the trunk lid on a ramp is much
-`hongqi_hs5_en_57c2cd71` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:86 | doc_type:owners_manual
 more difficult than on a horizontal road surface, so be
 careful that the trunk lid may be accidentally closed
 during opening or accidentally opened during closing.
@@ -13646,7 +12416,6 @@ Passive entry & start system
 3
 
 ### Operating the Components
-`hongqi_hs5_en_9cb15ccc` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:87 | doc_type:owners_manual
 As long as you carry a smart key or card key with you, for example, in your pocket, you can perform the following
 operations. (The driver must always carry the key with him)
 Note: This picture only takes the smart key as an example.
@@ -13661,23 +12430,19 @@ A hemispherical area with a radius of about 1.2m (m)
 around the induction antenna.
 
 ### The smart key can lock or unlock the door when it is in
-`hongqi_hs5_en_684b6a89` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:88 | doc_type:owners_manual
 the range of the sensing area outside the vehicle.
 When starting the engine or changing the engine switch
 modes
 
 ### If the smart key is within the range of the sensing area
-`hongqi_hs5_en_009874db` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:88 | doc_type:owners_manual
 inside the vehicle, the engine can be started or the
 switch mode of the engine can be switched.
 
 ### If the smart key is within the sensing area outside the
-`hongqi_hs5_en_aed04798` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:88 | doc_type:owners_manual
 trunk, the trunk can be unlocked if the conditions are
 met.
 
 ### If the trunk is closing when the smart key is within the
-`hongqi_hs5_en_c1ca962d` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:88 | doc_type:owners_manual
 range of the sensing area in the trunk, the reminder for
 key left in the trunk will be activated. (See P.83)
 ■ Warning and prompting function
@@ -13690,7 +12455,6 @@ Adopt corresponding measures according to the warning information displayed on t
 of the combination instrument.
 
 ### Sensing area inside
-`hongqi_hs5_en_f78c5e7f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:88 | doc_type:owners_manual
 the vehicle
 Sensing area inside
 the trunk
@@ -13701,14 +12465,12 @@ the
 trunk
 
 ### Sensing area outside
-`hongqi_hs5_en_967527b5` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:88 | doc_type:owners_manual
 the vehicle
 3.2. Opening, Closing and Locking the Doors and Trunk Lid
 87
 3
 
 ### Operating the Components
-`hongqi_hs5_en_04525061` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:89 | doc_type:owners_manual
 ■ Conditions impairing operation
 The passive entry & start system uses weak radio waves. In the following situations, the communication
 between the key and the vehicle may be affected, preventing the passive entry & start system and wireless
@@ -13771,7 +12533,6 @@ entry may fail.
 3
 
 ### CAUTIONS
-`hongqi_hs5_en_dc8a3bdc` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:91 | doc_type:owners_manual
  Notes regarding the electronic devices interference
 People who use implantable pacemakers, cardiac resynchronization therapy pacemakers or implantable
 cardioverter defibrillators should keep a proper distance from the antenna of smart access and activation
@@ -13787,33 +12548,28 @@ equipment manufacturer about the impact of radio waves on the equipment's operat
 3.3. Adjusting the seat
 
 ### Front seat
-`hongqi_hs5_en_66090ee6` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:92 | doc_type:owners_manual
 90
 Adjustment steps
  Driver side seat
 Waist support bulge
 
 ### Waist support pit
-`hongqi_hs5_en_a77e4790` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:92 | doc_type:owners_manual
 Lumbar support moving upward*
 Lumbar support moving downward
 
 ### Seat backrest tilting back
-`hongqi_hs5_en_cf7ca99d` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:92 | doc_type:owners_manual
  Front passenger seat
 Waist support bulge
 Waist support pit
 Lumbar support moving upward*
 
 ### Seat backrest tilting back
-`hongqi_hs5_en_cf7ca99d` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:92 | doc_type:owners_manual
 3.3. Adjusting the seat
 91
 3
 Operating the Components
 
 ### CAUTIONS
-`hongqi_hs5_en_34246a51` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:93 | doc_type:owners_manual
  Seat adjustment
  Do not tilt the seat too much while the vehicle is running to prevent the body from sliding out of the waist
 belt. If the seat is tilted too much, the waist belt may slip over the hip and directly cross over the abdomen or
@@ -13841,27 +12597,23 @@ and airbag.
 3.3. Adjusting the seat
 
 ### Rear seats
-`hongqi_hs5_en_e36d345c` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:94 | doc_type:owners_manual
 92
 Adjust and fold the rear backrest
 Pull the left and right seat release handles on the rear
 seats to adjust and fold the rear backrest.
 
 ### When returning the folded seat back to the upright
-`hongqi_hs5_en_79e48ac9` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:94 | doc_type:owners_manual
 position, you must hear a "click" sound and gently
 shake the seat back slightly back and forth to ensure a
 firm lock.
 
 ### Check and confirm that all seat belts are properly
-`hongqi_hs5_en_e2d31c0a` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:94 | doc_type:owners_manual
 handled for the passengers.
 3.3. Adjusting the seat
 93
 3
 
 ### CAUTIONS
-`hongqi_hs5_en_0cf07996` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:95 | doc_type:owners_manual
  Folding the rear seat back
 Please observe the following precautions, otherwise serious personal injury or even death may result.
  Do not fold the seat back while driving.
@@ -13885,19 +12637,16 @@ Please observe the following precautions, otherwise serious personal injury or e
 3.3. Adjusting the seat
 
 ### Head restraints
-`hongqi_hs5_en_6c52852b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:96 | doc_type:owners_manual
 94
 Upward
 Press and hold the left lock release button while pulling
 the head restraint upwards.
 
 ### Press and hold the left lock release button while
-`hongqi_hs5_en_c986234e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:96 | doc_type:owners_manual
 pushing the head restraint downwards.
  Remove the headrest
 
 ### Press and hold the left lock release button while pulling
-`hongqi_hs5_en_28c9492a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:96 | doc_type:owners_manual
 the head restraint upwards.
 If the head restraint removal is hampered by the roof,
 you can incline the backrest to conduct the removal.
@@ -13906,14 +12655,12 @@ When adjusting the head restraint, make sure its centre
 flushes with ear top.
 
 ### Lock release button
-`hongqi_hs5_en_9ebd51b1` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:96 | doc_type:owners_manual
 3.3. Adjusting the seat
 95
 3
 Operating the Components
 
 ### Fold the wings of the headrest inward to a comfortable
-`hongqi_hs5_en_3d6a0151` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:97 | doc_type:owners_manual
 position.
 CAUTIONS
  Precautions for Headrest
@@ -13933,7 +12680,6 @@ Seat memory*
 It can store the information of seats, steering wheel (for partial models), exterior mirrors and the key.
 
 ### Seat memory setting
-`hongqi_hs5_en_99efe2b2` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:98 | doc_type:owners_manual
 Memory setting: after adjusting the position of the seat,
 the steering wheel and the exterior rearview mirror,
 press any memory key (for more than 3s (seconds)) for a
@@ -13950,7 +12696,6 @@ Put the engine switch in "IG-ON" mode, and press keys 1 and 3 at the same time f
 After the alarm speaker sounds once, the initialization is successful.
 
 ### Seat greeting function
-`hongqi_hs5_en_b3d1525c` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:98 | doc_type:owners_manual
 The greeting function consists of automatic back-off and return.
 Automatic return: Turn off the engine switch and open the left front door. The seat and the steering wheel will
 move backward automatically to the furthest position for the convenience of the driver.
@@ -13961,7 +12706,6 @@ position before the automatic back-off.
 3
 
 ### Operating the Components
-`hongqi_hs5_en_93def1fa` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:99 | doc_type:owners_manual
 ■ Welcome function switch
 It can be set to turn on and off the greeting function in the vehicle setting of the audio system. (See P.224)
 ■ When automatically backing off:
@@ -13975,7 +12719,6 @@ return will be proceeded.
 3.4. Adjusting steering wheel and rearview mirror
 
 ### Steering wheel
-`hongqi_hs5_en_bd855fad` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:100 | doc_type:owners_manual
 98
 Adjusting the steering wheel
 The steering wheel can be adjusted to a comfortable position.
@@ -13984,12 +12727,10 @@ Up
 Down
 
 ### Backwards
-`hongqi_hs5_en_8ec3c627` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:100 | doc_type:owners_manual
 ■ Mechanical adjustment
 Release the steering wheel adjustment lever
 
 ### Lock the steering wheel adjustment lever
-`hongqi_hs5_en_eda50e18` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:100 | doc_type:owners_manual
 Steering wheel heating *
 Touch the steering wheel heating key, the indicator light
 turns on and the steering wheel heating function turns
@@ -14000,13 +12741,11 @@ function.
 3
 
 ### Operating the Components
-`hongqi_hs5_en_fb17a5aa` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:101 | doc_type:owners_manual
 Horn
 The horn can be sounded by pressing the horn logo or
 the surrounding area.
 
 ### CAUTIONS
-`hongqi_hs5_en_8e087e91` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:101 | doc_type:owners_manual
  Precautions during driving
  Do not adjust the steering wheel during driving, otherwise accidents may occur due to driver’s
 misoperation, resulting in serious personal injury or death.
@@ -14028,7 +12767,6 @@ According to the driving posture, the rearview mirror
 can be adjusted up and down/left and right.
 
 ### The driver must adjust the interior rearview mirror to a
-`hongqi_hs5_en_8d2b9f66` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:102 | doc_type:owners_manual
 suitable position so as to see the condition behind the
 car through the rear windshield.
 Glare-proof function
@@ -14041,14 +12779,12 @@ rear vehicle is too bright at night.
 Streaming media interior rearview mirror *
 
 ### The streaming media interior rearview mirror can
-`hongqi_hs5_en_1b808dd3` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:102 | doc_type:owners_manual
 display the images collected by the rear view camera
 through the interior rearview mirror, so that the line of
 sight is not affected by factors such as the rear
 windshield and the rear passengers.
 
 ### Streaming media switch
-`hongqi_hs5_en_337175b6` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:102 | doc_type:owners_manual
 Toggle the switch forward to turn on the streaming media interior rearview mirror, and toggle the switch
 backward to turn off the streaming media interior rearview mirror. Both modes are provided with automatic
 anti-glare function.
@@ -14057,21 +12793,18 @@ anti-glare function.
 3
 
 ### Press the button
-`hongqi_hs5_en_18edc5ed` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:103 | doc_type:owners_manual
 once to enter the brightness adjustment mode. You can adjust the image brightness by
 pressing the / button
 /
 :
 
 ### Press the button
-`hongqi_hs5_en_18edc5ed` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:103 | doc_type:owners_manual
 twice to enter the height adjustment mode, and the image height can be adjusted
 through the / button
 /
 .
 
 ### CAUTIONS
-`hongqi_hs5_en_4bd4da11` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:103 | doc_type:owners_manual
  Precautions during driving
  Do not adjust the rearview mirror during driving, otherwise it may cause accidents due to mishandling,
 leading to serious personal injury or even death.
@@ -14083,11 +12816,9 @@ Body — Exterior mirror
 102
 
 ### Adjust exterior rearview mirror
-`hongqi_hs5_en_2292636c` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:104 | doc_type:owners_manual
 When the engine switch is placed in "IG-ON" mode, the angle of the exterior rearview mirror can be adjusted.
 
 ### Turn the adjusting knob to select the rearview mirror to
-`hongqi_hs5_en_7bc09e49` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:104 | doc_type:owners_manual
 be adjusted.
 LEFT
 RIGHT
@@ -14095,7 +12826,6 @@ Adjusting the interior rear-view mirror
 Up
 
 ### Shift right
-`hongqi_hs5_en_e9db482d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:104 | doc_type:owners_manual
 Down
 Shift left
 Folding exterior rearview mirror
@@ -14105,7 +12835,6 @@ knob to other positions to return the mirror to the
 original position.
 
 ### The exterior mirrors will be automatically folded as the
-`hongqi_hs5_en_722685f0` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:104 | doc_type:owners_manual
 vehicle locked and be unfolded as the vehicle unlocked.
 The exterior rearview mirror auto folding on/off can be
 set in the vehicle setting of audio system. (See P.224)
@@ -14116,7 +12845,6 @@ Step
 3
 
 ### Adjust exterior rearview mirror
-`hongqi_hs5_en_bcb59b4d` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:105 | doc_type:owners_manual
 When the mirror fogs up, rotate the adjustment knob to
 the position with a heating label to heat the mirror.
 If it is not manually turned off, the heater will turn off
@@ -14141,7 +12869,6 @@ moved from R, the mirror returns to the previous position.
 104
 
 ### CAUTIONS
-`hongqi_hs5_en_fa9acf45` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:106 | doc_type:owners_manual
 ■ When driving
 Observe the following precautions while driving. Otherwise, it may cause the driver to lose control of the
 vehicle and accidents to occur, resulting in serious injuries or even death.
@@ -14163,7 +12890,6 @@ Observe the following precautions while driving.
 3.5. Opening and Closing Windows
 
 ### Power windows
-`hongqi_hs5_en_a7a0215e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:107 | doc_type:owners_manual
 105
 3
 Operating the Components
@@ -14171,14 +12897,12 @@ Opening and closing the power window
  Power window switch on the driver side
 
 ### The power window switch on the driver side regulates other windows
-`hongqi_hs5_en_8287ac7f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:107 | doc_type:owners_manual
 Manual UP/DOWN
 Pull/press the level 1 on the corresponding window
 switch (keep pulling/pressing), the window will be
 regulated up/down manually.
 
 ### AUTO UP/DOWN
-`hongqi_hs5_en_e57b1fb2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:107 | doc_type:owners_manual
 The window glass automatically rises/falls when the
 corresponding window lift switch is pushed up/down to
 the 2nd position (released after being pushed up/down).
@@ -14189,7 +12913,6 @@ switch (keep pulling/pressing), the window will be
 regulated up/down manually.
 
 ### AUTO UP/DOWN
-`hongqi_hs5_en_e57b1fb2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:107 | doc_type:owners_manual
 The window glass automatically rises/falls when the
 corresponding window lift switch is pushed up/down to
 the 2nd position (released after being pushed up/down).
@@ -14201,7 +12924,6 @@ switch (keep pulling/pressing), the window will be
 regulated up/down manually.
 
 ### AUTO UP/DOWN
-`hongqi_hs5_en_e57b1fb2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:107 | doc_type:owners_manual
 The window glass automatically rises/falls when the
 corresponding window lift switch is pushed up/down to
 the 2nd position (released after being pushed up/down).
@@ -14209,7 +12931,6 @@ the 2nd position (released after being pushed up/down).
 106
 
 ### Press this switch to disable the power window switches
-`hongqi_hs5_en_e6e19fbb` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:108 | doc_type:owners_manual
 for rear passengers.
 The power window switches on driver and front
 passenger sides are not regulated by the lock switch.
@@ -14245,7 +12966,6 @@ windows can be closed by locking the doors with a mechanical key.
 3
 
 ### CAUTIONS
-`hongqi_hs5_en_0dcf4e1a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:109 | doc_type:owners_manual
  Observe the following precautions when closing windows to avoid serious injury or even death:
 ● Check and make sure that all passengers would not have any part of their bodies pinched when a window is
 being operated.
@@ -14261,7 +12981,6 @@ Panorama sunroof*
 The sunroof switch can be used to open and close the sunroof.
 
 ### Opening
-`hongqi_hs5_en_adafb896` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:110 | doc_type:owners_manual
 Press the switch when the sunroof is closed, the rear part
 of the sunroof is tilted up and the sunshade curtain
 opens partially. Press the switch when the sunroof is at a
@@ -14269,7 +12988,6 @@ tilt-up position, the sunroof opens synchronously with
 the sunshade curtain.
 
 ### Closing
-`hongqi_hs5_en_7aa5a34b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:110 | doc_type:owners_manual
 Press the switch when the sunroof is open, the sunroof
 closes.
 Note: When the sunroof is opened or closed automatically, press the sunroof switch to stop the sunroof.
@@ -14277,7 +12995,6 @@ Press and hold the sunroof switch for a long time, the sunroof can be opened and
 when you release the switch.
 
 ### Press the sunshade curtain opening button to fully open
-`hongqi_hs5_en_94269da0` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:110 | doc_type:owners_manual
 the sunshade curtain.
 Closing
 Press the sunshade curtain closing button to fully close
@@ -14291,7 +13008,6 @@ with the switch released.
 3
 
 ### Operating the Components
-`hongqi_hs5_en_b48ffce9` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:111 | doc_type:owners_manual
  Operating condition for sunroof
 The engine switch is in IG-ON mode.
  Initialization
@@ -14329,7 +13045,6 @@ sunroof can be closed by locking the doors with a mechanical key.
 110
 
 ### CAUTIONS
-`hongqi_hs5_en_7f90cbfc` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:112 | doc_type:owners_manual
  Precautions when opening the sunroof
 Observe the following precautions when opening the sunroof to avoid serious injury:
 ● Do not allow any passengers to put their hands or heads outside the vehicle while it is moving.
@@ -14353,7 +13068,6 @@ initialisation operation is needed.
 Electronic parking brake (EPB) system .......... 132
 
 ### Driving a vehicle
-`hongqi_hs5_en_77357434` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:114 | doc_type:owners_manual
 112
 The following procedures should be observed to ensure safe driving.
 ■ Starting the engine (See P.121)
@@ -14378,7 +13092,6 @@ Step
 4
 
 ### Moving off on a steep uphill
-`hongqi_hs5_en_31e7ff55` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:115 | doc_type:owners_manual
 When the gradient is too large and it is not suitable to use EPB hill start assist function, please operate the
 vehicle as follows:
 Depress the brake pedal firmly and change the shift lever to D.
@@ -14389,7 +13102,6 @@ Release the brake pedal and lightly depress the accelerator pedal.
 The hill-start assist control (HHC) will be activated automatically to prevent the vehicle from slipping. (See
 
 ### P.206)
-`hongqi_hs5_en_3f2116b9` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:115 | doc_type:owners_manual
  ESS emergency brake reminder function
 When the speed reaches the designed speed, if emergency braking is applied, the brake lamp flashes quickly
 to remind the rear vehicle until the brake pedal is released.
@@ -14413,7 +13125,6 @@ Step
 114
 
 ### CAUTIONS
-`hongqi_hs5_en_1f42a239` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:116 | doc_type:owners_manual
  When starting the vehicle
 Always keep your foot on the brake pedal while the vehicle stops with the engine operating. This prevents
 the vehicle from creeping.
@@ -14459,7 +13170,6 @@ this may result in serious injury or death.
 4
 
 ### CAUTIONS
-`hongqi_hs5_en_4de97cb8` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:117 | doc_type:owners_manual
  When driving on slippery road surfaces
 ● Sudden braking, acceleration and steering may cause tire spinning and reduce your ability to control the
 vehicle, resulting in an accident.
@@ -14502,7 +13212,6 @@ system, thus leading to a fire if there are inflammable material near the vehicl
 116
 
 ### CAUTIONS
-`hongqi_hs5_en_f4b8a39d` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:118 | doc_type:owners_manual
  Exhaust gas
 ● Exhaust gas contains colorless, odorless, hazardous carbon monoxide (CO). Inhaling exhaust gases may
 lead to a serious health hazard or even death.
@@ -14530,43 +13239,40 @@ of the pressure used for brake boost is consumed.
 117
 4
 
-### Caution
-`hongqi_hs5_en_8284b318` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:119 | doc_type:owners_manual
- Precautions during driving
-● Do not depress the accelerator pedal and the brake pedal at the same time, otherwise the engine output
-power may be limited.
-● Do not use the accelerator pedal or depress both the accelerator pedal and the brake pedal to stop on a
-slope.
- When Parking
-When parking for a long time, be sure to apply the electronic parking brake and set the gear lever to the P
-position. Failure to do so may cause the vehicle to creep or the vehicle may accelerate suddenly if the
-accelerator pedal is accidentally depressed.
- Avoid damage to parts and components of the vehicle
-● Do not turn the steering wheel fully in either direction and keep it in the utmost positions for a long time,
-otherwise the power steering system will be damaged.
-● When driving on a bumpy road, try to drive at a low speed to avoid damage to the wheels, the bottom of
-the vehicle, etc.
- If a tire leaks while driving
-A flat or damaged tire may cause the following situations. Please hold on to the steering wheel and slowly
-depress the brake pedal to reduce the speed of the vehicle.
-● It may be difficult to control the vehicle.
-●The vehicle will make an abnormal sound.
-● The vehicle is running abnormally.
-Replace the flat tire with a new one. (See P.354)
- In case of accumulated water on the road surface
-Please do not drive on roads with deep water, otherwise the vehicle may suffer the following serious
-damages.
-● Engine shuts down
-● Short circuit of electrical components.
-● Engine damage due to flooding.
-In case water comes into the car, do contact with China FAW authorized Hongqi distributor to examine:
-● Whether the braking function is normal.
-● Engine oil and transmission oil.
-Whether the wheel bearing, the transmission shaft, the drive shaft and the suspension are normal.
-4.1. Before Driving
+> ⚠️ **Внимание:**  Precautions during driving
+> ● Do not depress the accelerator pedal and the brake pedal at the same time, otherwise the engine output
+> power may be limited.
+> ● Do not use the accelerator pedal or depress both the accelerator pedal and the brake pedal to stop on a
+> slope.
+>  When Parking
+> When parking for a long time, be sure to apply the electronic parking brake and set the gear lever to the P
+> position. Failure to do so may cause the vehicle to creep or the vehicle may accelerate suddenly if the
+> accelerator pedal is accidentally depressed.
+>  Avoid damage to parts and components of the vehicle
+> ● Do not turn the steering wheel fully in either direction and keep it in the utmost positions for a long time,
+> otherwise the power steering system will be damaged.
+> ● When driving on a bumpy road, try to drive at a low speed to avoid damage to the wheels, the bottom of
+> the vehicle, etc.
+>  If a tire leaks while driving
+> A flat or damaged tire may cause the following situations. Please hold on to the steering wheel and slowly
+> depress the brake pedal to reduce the speed of the vehicle.
+> ● It may be difficult to control the vehicle.
+> ●The vehicle will make an abnormal sound.
+> ● The vehicle is running abnormally.
+> Replace the flat tire with a new one. (See P.354)
+>  In case of accumulated water on the road surface
+> Please do not drive on roads with deep water, otherwise the vehicle may suffer the following serious
+> damages.
+> ● Engine shuts down
+> ● Short circuit of electrical components.
+> ● Engine damage due to flooding.
+> In case water comes into the car, do contact with China FAW authorized Hongqi distributor to examine:
+> ● Whether the braking function is normal.
+> ● Engine oil and transmission oil.
+> Whether the wheel bearing, the transmission shaft, the drive shaft and the suspension are normal.
+> 4.1. Before Driving
 
 ### Goods and luggage
-`hongqi_hs5_en_a924ad40` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:120 | doc_type:owners_manual
 118
 Take notice of the following information about storage precautions for goods and luggage.
 ● Try your best to store the goods and luggage in the trunk.
@@ -14576,7 +13282,6 @@ balance.
 ● For better driving mileage, do not carry unnecessary weight.
 
 ### CAUTIONS
-`hongqi_hs5_en_dc01eec3` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:120 | doc_type:owners_manual
  Items that must not be carried in the trunk
 The following items may cause a fire if loaded in the trunk:
 ● A container containing petrol.
@@ -14600,7 +13305,6 @@ injury or even death.
 4-1. Before Driving
 
 ### Trailer towing
-`hongqi_hs5_en_53aef83e` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:121 | doc_type:owners_manual
 119
 4
 Driving
@@ -14619,7 +13323,6 @@ Light horn, position lights and hazard warning lights can
 be used.
 
 ### IGNITION ON Mode
-`hongqi_hs5_en_8020b8d3` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:122 | doc_type:owners_manual
 All electronic components can be used.
 The engine (start) switch indicator lamp turns yellow.
 *1: Before shutting down the engine, shift the gear lever
@@ -14629,7 +13332,6 @@ to the P position.
 4
 
 ### Driving
-`hongqi_hs5_en_336cc438` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:123 | doc_type:owners_manual
 `
  Start the engine
 Check that the gear lever is in the P or N position and the electronic parking brake has been
@@ -14639,7 +13341,6 @@ switch is green).
 Press the engine (start) switch to start the engine.
 
 ### The engine can be started in any mode of the engine
-`hongqi_hs5_en_18d9ee9a` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:123 | doc_type:owners_manual
 (start) switch.
  Stop the engine
 Completely stop the vehicle.
@@ -14662,7 +13363,6 @@ vehicle.
 (See P.87)
 
 ### CAUTIONS
-`hongqi_hs5_en_a0dc5957` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:124 | doc_type:owners_manual
  When starting the engine
 Always start the engine while sitting in the driver's seat. Do not depress the accelerator pedal when starting
 the engine under any circumstances.
@@ -14674,21 +13374,18 @@ engine switch for more than 3 s (seconds), or press the switch for 3 consecutive
 Do not touch the engine switch during driving unless in an emergency. If the engine is turned off while
 driving the vehicle, it may cause an accident.
 
-### Caution
-`hongqi_hs5_en_8a8394b1` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:124 | doc_type:owners_manual
- Preventing low battery power
-● Do not place the engine switch in “IG-ON” mode for a long time without the engine running.
-● When the driver leaves the vehicle, the vehicle should be locked and the key should be carried. Do not
-leave the smart key or the card key in the car to prevent the smart entry and start-up system from continuing
-to work, resulting in insufficient battery power.
- When starting the engine
-● Do not allow the engine to run at high speed in cold state.
-● If the engine is difficult to start or flames out frequently, please contact the FAW authorized Hongqi Dealer
-to check the vehicle immediately.
-4.2. Driving Specifications
+> ⚠️ **Внимание:**  Preventing low battery power
+> ● Do not place the engine switch in “IG-ON” mode for a long time without the engine running.
+> ● When the driver leaves the vehicle, the vehicle should be locked and the key should be carried. Do not
+> leave the smart key or the card key in the car to prevent the smart entry and start-up system from continuing
+> to work, resulting in insufficient battery power.
+>  When starting the engine
+> ● Do not allow the engine to run at high speed in cold state.
+> ● If the engine is difficult to start or flames out frequently, please contact the FAW authorized Hongqi Dealer
+> to check the vehicle immediately.
+> 4.2. Driving Specifications
 
 ### Transmissions
-`hongqi_hs5_en_2e5ab6ad` | hs5 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:125 | doc_type:owners_manual
 123
 4
 Driving
@@ -14702,12 +13399,10 @@ The left track is in manual mode, with a stroke in each
 of the forward and backward directions.
 
 ### Move the shift lever left and right to switch between
-`hongqi_hs5_en_3ef14c98` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:125 | doc_type:owners_manual
 these two modes. Switch to manual mode only when
 the gear is in D position.
 
 ### P gear button
-`hongqi_hs5_en_aacbef57` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:125 | doc_type:owners_manual
 4.2. Driving Specifications
 124
  Gear switch
@@ -14738,7 +13433,6 @@ When selecting a gear, ensure the gear displayed on the instrument cluster is th
 4
 
 ### Driving
-`hongqi_hs5_en_076c3ab3` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:127 | doc_type:owners_manual
  Gear switch
 Gear stage
 Function
@@ -14748,7 +13442,6 @@ R
 Reversing
 
 ### M+
-`hongqi_hs5_en_d9505706` | hs5 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:127 | doc_type:owners_manual
 Manually up-shifting
 MManually down-shifting
 Shift descriptions
@@ -14756,7 +13449,6 @@ Shift descriptions
 The P locks the transmission and prevents the wheels from turning.
 
 ### CAUTIONS
-`hongqi_hs5_en_bf6d1c04` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:127 | doc_type:owners_manual
  When operating the shift lever for the first time
 The car adopts an electronic gear shifting mechanism and needs to be operated according to the gear
 indication information on the instrument cluster and the information display screen and the above gear
@@ -14780,7 +13472,6 @@ D gear position, move the gear lever to the left to enter the M gear range. Upsh
 between M1-M6 can be done by moving the shift lever or operating the shift paddle.
 
 ### P gear button
-`hongqi_hs5_en_7bcc876a` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:128 | doc_type:owners_manual
  When switched to P gear
 Shift the gear position to P gear by using the P gear
 button.
@@ -14796,7 +13487,6 @@ lever is operated without the brake pedal pressed down, the shift operation will
 desired gears.
 
 ### Change the shift range in manual mode
-`hongqi_hs5_en_0f142699` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:128 | doc_type:owners_manual
 ► Upshift and downshift via the shift paddle on the steering wheel*
 Up-shifting
 Down-shifting
@@ -14807,7 +13497,6 @@ display of the instrument cluster.
 4
 
 ### Driving
-`hongqi_hs5_en_3779b70d` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:129 | doc_type:owners_manual
 ►Upshift and downshift via the gear lever
 Up-shifting
 Down-shifting
@@ -14833,20 +13522,17 @@ downshifted without manual shift operation.
 ●In M gear, the vehicle can start in M1 or M2 gear.
 
 ### CAUTIONS
-`hongqi_hs5_en_c25f37ab` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:129 | doc_type:owners_manual
  When driving on smooth roads
 Be careful when suddenly accelerating and decelerating, otherwise the vehicle may slip or the wheels may
 spin.
 4.2. Driving Specifications
 
 ### Driving mode
-`hongqi_hs5_en_dc88e1e2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:130 | doc_type:owners_manual
 128
 This vehicle is equipped with a driving mode switching system. It can provide different vehicle modes,
 and the vehicle has unique driving performance in different modes to meet the driver's needs.
 
 ### Rotate the driving mode switch knob to switch the
-`hongqi_hs5_en_8c3b0ebb` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:130 | doc_type:owners_manual
 driving mode cyclically. The vehicle is provided with
 five driving modes of economy, comfort, sports,
 off-road and snow.
@@ -14872,7 +13558,6 @@ Driving characteristics in comfort mode:
 4
 
 ### Driving
-`hongqi_hs5_en_350c8b08` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:131 | doc_type:owners_manual
 ● Both acceleration and fuel consumption are normal.
 ● The transmission gear shift is in default status.
 ● For AWD model, the driving mode is AWD.
@@ -14911,21 +13596,18 @@ relatively balanced.
 ● The engine switch is placed in "IG-ON" mode.* The relevant system has no fault.
 ● The driving mode switch controller has no fault.
 
-### Caution
-`hongqi_hs5_en_37061257` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:132 | doc_type:owners_manual
- Precautions when switching the driving modes
-● The driving mode switching system has a self-protection function to prevent the driving mode from being
-activated under working conditions that do not meet the corresponding driving mode, thus damaging the
-vehicle and affecting the driving safety. Therefore, when the driver is switching the driving mode, the target
-mode cannot be activated. This situation may be caused by the system's self-protection function. It is normal.
-● With the driving mode operating conditions met, if the driving mode system does not work, please
-immediately contact the authorized FAW HONGQI dealer to check.
-● The driving mode is only a driving assist system and can't replace the driver's judgment on the driving
-environment. The driver must always maintain the car control and bear full responsibility for car.
-4.2. Driving Specifications
+> ⚠️ **Внимание:**  Precautions when switching the driving modes
+> ● The driving mode switching system has a self-protection function to prevent the driving mode from being
+> activated under working conditions that do not meet the corresponding driving mode, thus damaging the
+> vehicle and affecting the driving safety. Therefore, when the driver is switching the driving mode, the target
+> mode cannot be activated. This situation may be caused by the system's self-protection function. It is normal.
+> ● With the driving mode operating conditions met, if the driving mode system does not work, please
+> immediately contact the authorized FAW HONGQI dealer to check.
+> ● The driving mode is only a driving assist system and can't replace the driver's judgment on the driving
+> environment. The driver must always maintain the car control and bear full responsibility for car.
+> 4.2. Driving Specifications
 
 ### Turn signal lamp control handle
-`hongqi_hs5_en_650d5d1c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:133 | doc_type:owners_manual
 131
 4
 Driving
@@ -14933,7 +13615,6 @@ Right turn signal lamp
 Left turn signal lamp
 
 ### Comfort flicker
-`hongqi_hs5_en_6d577e15` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:133 | doc_type:owners_manual
 When
 the
 control
@@ -14986,20 +13667,17 @@ accelerator pedal, and EPB will be automatically released.
 133
 4
 
-### Caution
-`hongqi_hs5_en_28ae8262` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:135 | doc_type:owners_manual
- Precautions before driving
-● Release the electronic parking brake completely. In the event of a failure (e.g. an electrical failure), the rear
-brake disc locked by the EPB can only be unlocked mechanically. It is recommended that you contact the
-FAW authorized Hongqi Dealer for the operation.
-● When the EPB is not released, the red indicator lights up. Driving the vehicle now will cause the brake
-components to overheat, which will affect the brake performance and aggravate the brake wear.
-● If the road condition is not suitable for parking, the multi-functional display of the instrument cluster will
-prompt "too steep for parking".
-4.2. Driving Specifications
+> ⚠️ **Внимание:**  Precautions before driving
+> ● Release the electronic parking brake completely. In the event of a failure (e.g. an electrical failure), the rear
+> brake disc locked by the EPB can only be unlocked mechanically. It is recommended that you contact the
+> FAW authorized Hongqi Dealer for the operation.
+> ● When the EPB is not released, the red indicator lights up. Driving the vehicle now will cause the brake
+> components to overheat, which will affect the brake performance and aggravate the brake wear.
+> ● If the road condition is not suitable for parking, the multi-functional display of the instrument cluster will
+> prompt "too steep for parking".
+> 4.2. Driving Specifications
 
 ### AUTO HOLD
-`hongqi_hs5_en_251a8ea8` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:136 | doc_type:owners_manual
 134
 When the AUTOHOLD function is standby, the vehicle’s auto hold will be activated when the brake
 pedal is depressed with the gear position in D or N to stop the vehicle. At this time, if the brake pedal is
@@ -15007,19 +13685,16 @@ released. the vehicle will keep braking. When the accelerator pedal is depressed
 in D, and the system will release the auto hold to realize a smooth start.
 
 ### Auto Hold ready state
-`hongqi_hs5_en_44bbcbef` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:136 | doc_type:owners_manual
 Press the Auto Hold button, and the Auto Hold function
 will be ready and the button indicator will light up.
 
 ### After depressing the brake pedal to stop the vehicle and
-`hongqi_hs5_en_b5041631` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:136 | doc_type:owners_manual
 then releasing the brake pedal, the vehicle’s auto hold
 function will be activated. At this time, the auto hold
 indicator on the multi-functional display of the
 instrument cluster turns on.
 
 ### ■ AUTO HOLD
-`hongqi_hs5_en_6ff74285` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:136 | doc_type:owners_manual
 ● Depress the brake pedal and press the auto park button again to turn off the AUTOHOLD function.
 ● The automatic vehicle hold function may not stop the vehicle when on a steep slope. In that case it is
 necessary to apply manual braking.
@@ -15036,26 +13711,21 @@ Conditions for activating the Auto Hold:
 4
 
 ### Driving
-`hongqi_hs5_en_1f4f3642` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:137 | doc_type:owners_manual
 ● Driver depresses the brake pedal until the vehicle is stopped, and then releases the brake pedal.
 
 ### CAUTIONS
-`hongqi_hs5_en_8e43b37b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:137 | doc_type:owners_manual
  When parking on slippery road surfaces
 If the tire's grip is exceeded, the AUTO HOLD automatic parking function cannot stop the vehicle. Do not
 use this system on slippery roads.
 
-### Caution
-`hongqi_hs5_en_9704227b` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:137 | doc_type:owners_manual
- When Parking
-● AUTO HOLD function cannot be used for long-term parking. For long periods of parking, apply the EPB
-electronic parking brake. Switching the engine switch to the "IG-OFF" mode when auto hold is activated
-may release the brake and cause the vehicle to move. When turning off the engine switch, depress the brake
-pedal, apply the electronic parking brake and shift the gear lever to the P position.
-4.3. Operating lights and wipers
+> ⚠️ **Внимание:**  When Parking
+> ● AUTO HOLD function cannot be used for long-term parking. For long periods of parking, apply the EPB
+> electronic parking brake. Switching the engine switch to the "IG-OFF" mode when auto hold is activated
+> may release the brake and cause the vehicle to move. When turning off the engine switch, depress the brake
+> pedal, apply the electronic parking brake and shift the gear lever to the P position.
+> 4.3. Operating lights and wipers
 
 ### Headlamp switch
-`hongqi_hs5_en_6241bf36` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:138 | doc_type:owners_manual
 136
 Front position lamp, rear position lamp, license
 plate lamp and instrument panel backlights
@@ -15069,14 +13739,12 @@ Note: When the switch is in the AUTO position, if the headlamps, position lights
 off, the daytime running lights will be on.
 
 ### Turning on the high beam
-`hongqi_hs5_en_7151a747` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:138 | doc_type:owners_manual
 When the headlamp (dipped beam) is turned on, push
 the lamp control handle forward to turn on the high
 beam; Pull the handle back to its original position to
 turn off the high beam.
 
 ### Pull backward the lamp control handle to turn on the
-`hongqi_hs5_en_753974b3` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:138 | doc_type:owners_manual
 high beam; releasing the lamp control handle to turn off
 the high beam.
 ■ Daytime running lamp system
@@ -15090,14 +13758,12 @@ It can be set to turn on and off the daytime running lamp in the vehicle setting
 4
 
 ### Driving
-`hongqi_hs5_en_044d1ec3` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:139 | doc_type:owners_manual
 ■ Rain & lamp sensor
 The sensor may not function properly if an object blocks
 the sensor, or anything affixed to the windshield blocks
 the sensor.
 
 ### Doing so interferes with the sensor detecting the
-`hongqi_hs5_en_1105249a` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:139 | doc_type:owners_manual
 ambient lamp intensity and may cause the automatic
 headlamp system and automatic wiper malfunctions.
  Automatic headlamp beam height adjusting system
@@ -15111,7 +13777,6 @@ When the door is unlocked again, the above lamps will be on for a while and then
 The on/off of lighting upon boarding and lighting time can be set in the vehicle setting of audio system. (See
 
 ### P.223)
-`hongqi_hs5_en_fa749752` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:139 | doc_type:owners_manual
 Boarding lighting system *
 When the engine switch is in the "IG-ON" mode and the light switch is in the auto position, if the low beam,
 position lights and license plate lights are on, then switch the engine switch to the "IG-OFF" mode and lock
@@ -15129,18 +13794,15 @@ high-beam control stands by and the intelligent high-beam indicator
 goes out.
 
 ### IHC On and Off
-`hongqi_hs5_en_d2210109` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:140 | doc_type:owners_manual
 It can be set to turn on and off the intelligent high beam system in the vehicle setting of the audio system
 (See P.223)
 
 ### Operating conditions of IHC
-`hongqi_hs5_en_c61e815f` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:140 | doc_type:owners_manual
 Start the engine, place the headlamp switch in the AUTO position, the high beam switch handle in the "high
 beam off" position, and when the automatic light control is in the low beam on state, the intelligent high beam
 control system is on.
 
 ### Conditions under which the high beam is automatically turned on or off
-`hongqi_hs5_en_5d35dc92` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:140 | doc_type:owners_manual
 ● When all of the following conditions are met, the high beam will automatically turn on:
 • The vehicle speed is higher than 50 km/h.
 • The area in front of the vehicle is dark.
@@ -15156,7 +13818,6 @@ control system is on.
 4
 
 ### Driving
-`hongqi_hs5_en_68a46d0f` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:141 | doc_type:owners_manual
  Under the following circumstances, the system may not be able to accurately detect the ambient brightness
 level, which may cause the intelligent high-beam control system not to work properly. In this case, please
 switch between high beam and dipped beam manually.
@@ -15183,20 +13844,17 @@ roads, gravel roads, etc.).
 ● When there is lamp reflection on the road such as wet, snow and ice roads.
 
 ### CAUTIONS
-`hongqi_hs5_en_1ed627a2` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:141 | doc_type:owners_manual
  Limitations of automatic high beam
 Don't rely on automatic high beam. Be sure to drive safely and observe the surrounding environment. If
 necessary, turn the high beam on or off manually.
 4.3. Operating lights and wipers
 
 ### Fog lamp switch
-`hongqi_hs5_en_23666d26` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:142 | doc_type:owners_manual
 140
 Fog lamps improve visibility under unfavorable driving conditions, such as rainy days or foggy days.
 The front fog lights are on.
 
 ### Turn on both front and rear fog lamps
-`hongqi_hs5_en_ce597180` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:142 | doc_type:owners_manual
  Operating conditions of fog lamps
 The engine switch is placed in the IG-ON mode, and the headlamps are turned on.
  Corner lamp
@@ -15207,7 +13865,6 @@ lighting around the vehicle
 4-3. Operating lights and wipers
 
 ### Front windshield wipers and cleaners
-`hongqi_hs5_en_d5f6e5ec` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:143 | doc_type:owners_manual
 141
 4
 Driving
@@ -15231,7 +13888,6 @@ shorter)
 Cleaning / wiping operation
 
 ### Pull back the wiper control lever for cleaning the front
-`hongqi_hs5_en_847f74f2` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:144 | doc_type:owners_manual
 windshield.
  Operating conditions of front windshield wiper and washer
 The engine switch is in “IG-ON” mode and the engine compartment cover is closed.
@@ -15251,7 +13907,6 @@ close the wiper service position in the audio system settings, the wiper will ex
 4
 
 ### CAUTIONS
-`hongqi_hs5_en_e198e85e` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:145 | doc_type:owners_manual
  Warning for using windshield wipers in AUTO mode
 In AUTO mode, if the sensor is touched, the rearview mirror is strongly shaken or the windshield glass is
 strongly vibrated (e.g. knocking hard on the windshield), the windshield wiper may accidentally operate. Be
@@ -15271,19 +13926,16 @@ Using the worn or dirty wiper blade will reduce the legibility of front visual f
 safety. Therefore, ensure to replace the damaged or worn wiper blade or that cannot clean the windshield in
 time.
 
-### Caution
-`hongqi_hs5_en_90126f17` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:145 | doc_type:owners_manual
- When the front windshield is dry
-Do not use the wipers, as the wiper blades may be damaged.
- When the nozzle cannot spray cleaning liquid
-If the wiper control handle is pulled backward and held up for a long time, it may cause damage to the
-cleaning fluid pump.
- When a nozzle blocked
-Do not try to clear it with a pin or other object. The nozzle will be damaged.
-4.3. Operating lights and wipers
+> ⚠️ **Внимание:**  When the front windshield is dry
+> Do not use the wipers, as the wiper blades may be damaged.
+>  When the nozzle cannot spray cleaning liquid
+> If the wiper control handle is pulled backward and held up for a long time, it may cause damage to the
+> cleaning fluid pump.
+>  When a nozzle blocked
+> Do not try to clear it with a pin or other object. The nozzle will be damaged.
+> 4.3. Operating lights and wipers
 
 ### Rear windshield wiper and washer
-`hongqi_hs5_en_e1c023d5` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:146 | doc_type:owners_manual
 144
 When the rear windshield wiper control handle is rotated to different positions, the wiper and washer
 can be operated:
@@ -15305,24 +13957,20 @@ Check if there is wash fluid in the windshield washer fluid tank. Check and conf
 blocked.
 
 ### CAUTIONS
-`hongqi_hs5_en_a551d323` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:146 | doc_type:owners_manual
  Windscreen cleaning solution with ethanol content over 10% is prohibited
 In high temperature environment, windshield cleaning liquid with ethanol content over 10% will corrode the
 rear decorative lamp, resulting in cracking of the rear decorative lamp.
 
-### Caution
-`hongqi_hs5_en_cd1c189d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:146 | doc_type:owners_manual
- When the rear windshield is dry
-Do not use the wipers, as the wiper blades may be damaged.
- When the nozzle cannot spray cleaning liquid
-It may cause damage to the washer fluid pump if the lever is rotated to the cleaning position and held toward
-you.
- When a nozzle blocked
-Do not try to clear it with a pin or other object. The nozzle will be damaged.
-4-4. Filling the Fuel
+> ⚠️ **Внимание:**  When the rear windshield is dry
+> Do not use the wipers, as the wiper blades may be damaged.
+>  When the nozzle cannot spray cleaning liquid
+> It may cause damage to the washer fluid pump if the lever is rotated to the cleaning position and held toward
+> you.
+>  When a nozzle blocked
+> Do not try to clear it with a pin or other object. The nozzle will be damaged.
+> 4-4. Filling the Fuel
 
 ### Opening the fuel tank lid
-`hongqi_hs5_en_20aed94e` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:147 | doc_type:owners_manual
 145
 4
 Driving
@@ -15334,7 +13982,6 @@ and ensure that all doors and windows are closed.
 Press the filler cap and open it.
 
 ### The filler cap can only be opened when the entire
-`hongqi_hs5_en_ebf20229` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:147 | doc_type:owners_manual
 vehicle lock is unlocked.
 Turn counterclockwise to open the fuel tank lid.
 Hang the fuel tank lid on the back of the filler cap.
@@ -15343,7 +13990,6 @@ Step
 146
 
 ### Closing the fuel tank lid
-`hongqi_hs5_en_dcf7a1d6` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:148 | doc_type:owners_manual
 When reinstalling the fuel tank lid, it should be screwed
 until your hear a “click” sound.
  Fuel type
@@ -15358,7 +14004,6 @@ authorized Hongqi Dealer.
 4
 
 ### CAUTIONS
-`hongqi_hs5_en_09a03cf5` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:149 | doc_type:owners_manual
  Filling fuel
 Observe the following precautions while refuelling the vehicle:
 ●Static electricity that may be carried on the body needs to be removed before opening the filler cap and the
@@ -15380,19 +14025,16 @@ accumulate and ignite the fuel.
 Do not use products other than the original fuel tank lid provided by FAW, otherwise it may lead to poor
 sealing and further resulting in accidents.
 
-### Caution
-`hongqi_hs5_en_dfe97fad` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:149 | doc_type:owners_manual
- Refuel.
-When filling, do not spill the fuel, otherwise it may damage the vehicle, for example, causing the exhaust
-system failure or damaging the fuel system components or body paint.
-4-5. Use other driving system
-Constant speed cruise control*
-148
-By cruise control, the vehicle can be maintained at the set speed without using the accelerator pedal,
-and the set speed is recommended not to exceed 130km/h.
+> ⚠️ **Внимание:**  Refuel.
+> When filling, do not spill the fuel, otherwise it may damage the vehicle, for example, causing the exhaust
+> system failure or damaging the fuel system components or body paint.
+> 4-5. Use other driving system
+> Constant speed cruise control*
+> 148
+> By cruise control, the vehicle can be maintained at the set speed without using the accelerator pedal,
+> and the set speed is recommended not to exceed 130km/h.
 
 ### Pull the cruise control handle backward to the
-`hongqi_hs5_en_3c18125a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:150 | doc_type:owners_manual
 "ON/OFF" position and then release the handle to
 activate the cruise control.
 Accelerate or decelerate to the required speed, toggle
@@ -15406,7 +14048,6 @@ Step
 4
 
 ### Driving
-`hongqi_hs5_en_f4ef02a9` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:151 | doc_type:owners_manual
  Adjusting the vehicle speed
 Increasing the speed
 Short pushing: Pushing the lever once increases the
@@ -15416,7 +14057,6 @@ the lever is released, the speed shown on the multifunction display screen of th
 the target speed.
 
 ### Reduce the speed
-`hongqi_hs5_en_5139f4be` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:151 | doc_type:owners_manual
 Toggle and release: toggle once to reduce the vehicle
 speed by 5km/h;
 Toggle and hold: reduce the vehicle speed quickly. when
@@ -15429,14 +14069,12 @@ will automatically become a multiple of 5 first when
 adjusting.
 
 ### Push the cruise control handle forward to the
-`hongqi_hs5_en_46387745` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:151 | doc_type:owners_manual
 "CANCEL" position.
 The cruise control could also be canceled when
 • The brake pedal is depressed.
 • When the gear level is shift to the N position.
 
 ### Restore
-`hongqi_hs5_en_014d2f57` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:151 | doc_type:owners_manual
 To resume the cruise control and return to the set speed,
 push the cruise control handle up to the “RES+”
 position and release.
@@ -15454,7 +14092,6 @@ be set or if the cruise control cancels immediately after being activated, there
 cruise control system. please contact with China FAW authorized Hongqi distributor for check.
 
 ### CAUTIONS
-`hongqi_hs5_en_415e87b4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:152 | doc_type:owners_manual
  To ensure driving safety when setting the cruise speed, it is recommended not to exceed 130km/h. It
 is very dangerous to use the cruise function when driving at high speed, and the driver is
 recommended to drive actively.
@@ -15482,7 +14119,6 @@ ACC adaptive cruise control function*
 4
 
 ### Driving
-`hongqi_hs5_en_fcb32be6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:153 | doc_type:owners_manual
 ACC adaptive cruise function can comprehensively control the speed and the distance from the target
 vehicle within the speed range of 0~130km/h, thus reducing the burden on the driver and increasing the
 driving comfort. In addition, depending on whether there is a vehicle running ahead, the system can
@@ -15495,7 +14131,6 @@ set value, the vehicle automatically decelerates; when the vehicles ahead accele
 accelerates to the set cruise speed.
 
 ### Enable the adaptive cruise control in the vehicle settings
-`hongqi_hs5_en_a3d6427e` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:153 | doc_type:owners_manual
 of the audio system.
 The system can set the cruise mode only when the
 vehicle speed is 0km/h and the gear level is in the P
@@ -15506,13 +14141,11 @@ cruise control lever to SET position or pull back the
 cruise control lever to ON and then release the lever.
 
 ### The ACC green indicating lamp is on and the current
-`hongqi_hs5_en_9d6a50d3` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:153 | doc_type:owners_manual
 vehicle speed can be set to the cruise speed.
 Lighting
 setting
 
 ### Comfort
-`hongqi_hs5_en_222a526e` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:153 | doc_type:owners_manual
 setting
 Driver
 assistance
@@ -15523,13 +14156,11 @@ e, etc.
 Calling....
 
 ### Adaptive cruise
-`hongqi_hs5_en_07b120ce` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:153 | doc_type:owners_manual
 control
 Advanced cruise
 Lane keeping assistance system
 
 ### Prompt mode
-`hongqi_hs5_en_2ff68237` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:153 | doc_type:owners_manual
 Step
 Step
 4-5. Use other driving system
@@ -15537,7 +14168,6 @@ Step
  Adjusting the vehicle speed
 
 ### Increasing the speed
-`hongqi_hs5_en_1db045b7` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:154 | doc_type:owners_manual
 Short pushing: Pushing the lever once increases the
 speed by 5 km/h;
 Long pushing: After the system confirms the long
@@ -15545,7 +14175,6 @@ pushing is valid, the speed continues to increase by 1
 km/h.
 
 ### Reduce the speed
-`hongqi_hs5_en_ed77cf3b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:154 | doc_type:owners_manual
 Toggle and release: toggle once to reduce the vehicle
 speed by 5km/h;
 Toggle and hold: after the system confirms that this
@@ -15558,18 +14187,15 @@ adjusting.
  Setting the headway
 
 ### Decreasing the headway
-`hongqi_hs5_en_3a64ec59` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:154 | doc_type:owners_manual
 The system offers 4 distance modes. The mode changes
 each time the lever is pulled.
 
 ### ACC indicator lamp
-`hongqi_hs5_en_e8ebc8ab` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:154 | doc_type:owners_manual
 White: The system is on and the set conditions are met,
 and cruise settings can be made.
 Green: system working, in cruise state.
 
 ### Set following distance
-`hongqi_hs5_en_fcf18b62` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:154 | doc_type:owners_manual
 The default follow-up distance is "Spacing 4".
 Distance 1
 Distance 2
@@ -15580,12 +14206,10 @@ Distance 4
 4
 
 ### Depress the brake pedal or push the cruise control
-`hongqi_hs5_en_e659a7b2` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:155 | doc_type:owners_manual
 handle forward to the "CANCEL" position and then
 release to cancel the cruise control.
 
 ### Restore
-`hongqi_hs5_en_f37ff979` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:155 | doc_type:owners_manual
 To resume the cruise control and return to the set speed,
 push the cruise control handle up to the “RES+”
 position and release.
@@ -15626,7 +14250,6 @@ Adjust or calibrate the ACC in the following situations. Otherwise ACC may not f
 Please contact with China FAW authorized Hongqi distributors.
 
 ### CAUTIONS
-`hongqi_hs5_en_dd1be850` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:156 | doc_type:owners_manual
 To ensure driving safety when setting the cruise speed, it is recommended not to exceed 130km/h. It
 is very dangerous to use the cruise function when driving at high speed, and the driver is
 recommended to drive actively.
@@ -15661,7 +14284,6 @@ actual vehicle speed may be lower than the set cruise speed.
 4
 
 ### CAUTIONS
-`hongqi_hs5_en_05c064be` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:157 | doc_type:owners_manual
  If during ACC cruise control, when the vehicle is too close to the vehicle ahead (for example, due to
 sudden emergency braking of the vehicle ahead), the system will send an audible and visual alarm to
 the driver through the instrument cluster. At this time, the driver should pay attention to the distance
@@ -15704,7 +14326,6 @@ automatically, thus causing a collision with the vehicle ahead, and the driver s
 156
 
 ### CAUTIONS
-`hongqi_hs5_en_f25eb373` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:158 | doc_type:owners_manual
  If a vehicle in the adjacent lanes enters the front of the direction in which your vehicle moving but it
 is not covered by the monitoring area, the system may not detect it, resulting in sluggish response of
 SACC. Pay close attention to the vehicle movement in the adjacent lanes. Control your vehicle actively
@@ -15716,43 +14337,40 @@ control your vehicle actively if necessary.
  If the target vehicle of SACC stops, it means the target vehicle may be screens or there is pedestrian
 passing. Exercise extreme caution and control your vehicle actively if necessary.
 
-### Caution
-`hongqi_hs5_en_a77b5b83` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:158 | doc_type:owners_manual
- ACC will keep the set distance with the vehicle ahead to follow the target. If the target vehicle slows
-down and stops, ACC will control the vehicle to stop automatically.
- The vehicle will automatically start under the control of ACC if the target vehicle restarts or leaves
-the lane within 3s after stopping.
- When the target vehicle stops for more than 3s (seconds) but less than 3min (minutes) and starts or
-leaves the lane again, the multi-function screen of the vehicle's instrument cluster will prompt the
-information of resuming the cruise control. The driver can resume the SACC function by depressing
-the accelerator pedal lightly or turning the cruise control handle to "RES+" to realize automatic
-starting. At that time, the driver should pay attention to whether it is safe to start the vehicle.
- ACC will be automatically released when the vehicle stops for more than 3 minutes.
- ACC cannot keep the vehicle in a braking state for a long time. Do not leave your vehicle while the
-ACC keeps the vehicle stopped. Be sure to shift the selector lever in the P position before leaving your
-vehicle.
- Observe the following precautions when cornering with the ACC activated:
-● In a sharp corner, the ACC may be canceled or limit the vehicle speed.
-●On curves, advanced cruise control may react to vehicles in another lane, or may not have time to react to
-vehicles in the same lane, may collide with the vehicle ahead, or lose control of the vehicle. Especially when
-driving in a ramp, the vehicle may be accelerated since the system loses its target due to an excessive curve.
-Pay special attention to the curve and be prepared to apply the brake if necessary. When driving on a curve,
-select the appropriate speed.
- When your vehicle follows the preceding vehicle to pass through the intersection with traffic lamps,
-observe the change of the traffic lamps and intervene actively if necessary to avoid violating the traffic
-rules.
- When the vehicle is in a heavy fog, rain, snow and other weather conditions, or frost and smudgy
-marks exist in the window area of the camera of the advanced driving assistance system, or when the
-vehicle is driving towards the direction of the sun (or strong light source), the camera can report
-through the instrument cluster that the camera of the advanced driving assistance system is blocked,
-please clean the windshield. ACC cannot work at this time.
-4-5. Use other driving system
-Super Adaptive Cruise Control (SACC) function*
-157
-4
+> ⚠️ **Внимание:**  ACC will keep the set distance with the vehicle ahead to follow the target. If the target vehicle slows
+> down and stops, ACC will control the vehicle to stop automatically.
+>  The vehicle will automatically start under the control of ACC if the target vehicle restarts or leaves
+> the lane within 3s after stopping.
+>  When the target vehicle stops for more than 3s (seconds) but less than 3min (minutes) and starts or
+> leaves the lane again, the multi-function screen of the vehicle's instrument cluster will prompt the
+> information of resuming the cruise control. The driver can resume the SACC function by depressing
+> the accelerator pedal lightly or turning the cruise control handle to "RES+" to realize automatic
+> starting. At that time, the driver should pay attention to whether it is safe to start the vehicle.
+>  ACC will be automatically released when the vehicle stops for more than 3 minutes.
+>  ACC cannot keep the vehicle in a braking state for a long time. Do not leave your vehicle while the
+> ACC keeps the vehicle stopped. Be sure to shift the selector lever in the P position before leaving your
+> vehicle.
+>  Observe the following precautions when cornering with the ACC activated:
+> ● In a sharp corner, the ACC may be canceled or limit the vehicle speed.
+> ●On curves, advanced cruise control may react to vehicles in another lane, or may not have time to react to
+> vehicles in the same lane, may collide with the vehicle ahead, or lose control of the vehicle. Especially when
+> driving in a ramp, the vehicle may be accelerated since the system loses its target due to an excessive curve.
+> Pay special attention to the curve and be prepared to apply the brake if necessary. When driving on a curve,
+> select the appropriate speed.
+>  When your vehicle follows the preceding vehicle to pass through the intersection with traffic lamps,
+> observe the change of the traffic lamps and intervene actively if necessary to avoid violating the traffic
+> rules.
+>  When the vehicle is in a heavy fog, rain, snow and other weather conditions, or frost and smudgy
+> marks exist in the window area of the camera of the advanced driving assistance system, or when the
+> vehicle is driving towards the direction of the sun (or strong light source), the camera can report
+> through the instrument cluster that the camera of the advanced driving assistance system is blocked,
+> please clean the windshield. ACC cannot work at this time.
+> 4-5. Use other driving system
+> Super Adaptive Cruise Control (SACC) function*
+> 157
+> 4
 
 ### Driving
-`hongqi_hs5_en_a560c6d9` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:159 | doc_type:owners_manual
 SACC advanced cruise control is based on ACC adaptive cruise function. It can not only provide cruise
 and follow-up functions, but also identify lane lines through cameras of the advanced driving assistance
 system. It can control vehicles to drive along the center line of the lane and improve driving comfort
@@ -15762,14 +14380,12 @@ than the set value, the vehicle automatically decelerates; when the vehicles ahe
 vehicle accelerates to the set cruise speed.
 
 ### Turn on advanced cruise control in the vehicle settings
-`hongqi_hs5_en_3d469a4e` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:159 | doc_type:owners_manual
 of the audio system.
 The system can set the cruise mode only when the
 vehicle speed is 0km/h and the gear level is in the P
 position.
 
 ### When the white indicator for advanced cruise control on
-`hongqi_hs5_en_67a28d5b` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:159 | doc_type:owners_manual
 the instrument cluster is ON, accelerate or decelerate to
 the required vehicle speed, pull the cruise control handle
 backward twice consecutively to set to "ON" position
@@ -15778,7 +14394,6 @@ indicator light turns on, and the current vehicle speed
 can be set as the cruise control speed.
 
 ### Lighting
-`hongqi_hs5_en_b0f58bf8` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:159 | doc_type:owners_manual
 setting
 Comfort
 setting
@@ -15791,7 +14406,6 @@ etc.
 Calling....
 
 ### Prompt mode
-`hongqi_hs5_en_047a156f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:159 | doc_type:owners_manual
 Step
 Step
 4-5. Use other driving system
@@ -15799,7 +14413,6 @@ Step
  Adjusting the vehicle speed
 
 ### SACC indicator lamp
-`hongqi_hs5_en_1dfa6b00` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:160 | doc_type:owners_manual
 (off)
 (off): system standby, setting conditions not
 met.
@@ -15814,7 +14427,6 @@ advanced cruise settings.
 (green): system working, in cruise state.
 
 ### Set following distance
-`hongqi_hs5_en_fd23cf17` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:160 | doc_type:owners_manual
 The default follow-up distance is "Spacing 4".
 Distance 1
 Distance 2
@@ -15825,7 +14437,6 @@ Distance 4
 4
 
 ### Depress the brake pedal or push the cruise control
-`hongqi_hs5_en_a1fcf862` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:161 | doc_type:owners_manual
 handle forward to the "CANCEL" position and then
 release to cancel the cruise control.
  SACC and ACC switch setting
@@ -15884,7 +14495,6 @@ Please contact with China FAW authorized Hongqi distributors.
 4
 
 ### CAUTIONS
-`hongqi_hs5_en_c02ede6e` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:163 | doc_type:owners_manual
  To avoid activating the SACC super adaptive cruise control by mistake
 If this function is deactivated, ACC is canceled.
  Situations unsuitable for SACC
@@ -15924,7 +14534,6 @@ distance and control your vehicle.
 162
 
 ### CAUTIONS
-`hongqi_hs5_en_47541fb4` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:164 | doc_type:owners_manual
  When the driver depresses the accelerator pedal to actively accelerate, the cruise speed icon
 displayed on the multi-function screen of the instrument cluster will flash. This is a normal
 phenomenon.
@@ -15964,7 +14573,6 @@ resulting in a collision with the preceding vehicle. In this case, exercise extr
 4
 
 ### CAUTIONS
-`hongqi_hs5_en_a1eeffec` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:165 | doc_type:owners_manual
  If a vehicle get in front from adjacent lanes but not in the sensor monitoring area, the system may
 not be able to detect the vehicle, resulting in lagging of SACC response. Pay close attention to the
 vehicle movement in the adjacent lanes. Control your vehicle actively if necessary.
@@ -15974,43 +14582,40 @@ controlling your vehicle. Exercise extreme caution and control your vehicle acti
  If the target vehicle of SACC stops, it means the target vehicle may be screens or there is pedestrian
 passing. Exercise extreme caution and control your vehicle actively if necessary.
 
-### Caution
-`hongqi_hs5_en_1be1246b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:165 | doc_type:owners_manual
- SACC will keep the set distance with the vehicle ahead to follow the target. If the target vehicle
-slows down and stops, SACC will control the vehicle to stop automatically.
- When the target vehicle stops for less than 3s (seconds) and restarts or leaves the lane, the vehicle
-will start automatically under the control of SACC.
- When the target vehicle stops for more than 3s (seconds) but less than 3min (minutes) and starts or
-leaves the lane again, the multi-function screen of the vehicle's instrument cluster will prompt the
-information of resuming the cruise control. The driver can resume the SACC function by depressing
-the accelerator pedal lightly or turning the cruise control handle to "RES+" to realize automatic
-starting. At that time, the driver should pay attention to whether it is safe to start the vehicle.
- SACC will automatically be canceled if the vehicle stops for over 3 min.
- SACC cannot keep the vehicle in a braking state for a long time. Do not leave your vehicle while the
-ACC keeps the vehicle stopped. Be sure to shift the selector lever in the P position before leaving your
-vehicle.
- The following items should be paid attention to when using SACC advanced cruise control for
-turning:
-● In a sharp corner, the SACC may be canceled or limit the vehicle speed.
-● On curves, advanced cruise control may react to vehicles in another lane, or may not have time to react to
-vehicles in the same lane, may collide with the vehicle ahead, or lose control of the vehicle. Especially when
-driving in a ramp, the vehicle may be accelerated since the system loses its target due to an excessive curve.
-Pay special attention to the curve and be prepared to apply the brake if necessary. When driving on a curve,
-select the appropriate speed.
-● In the curve course, too small road radius may impact the judgment of SACC over the lane. When driving
-on a curve, please drive carefully.
- Drivers should pay attention to traffic light change when the vehicle follows a vehicle ahead through
-the intersection with traffic lights, and should take the initiative to intervene when necessary to avoid
-violating traffic rules.
- When driving in heavy fog, rain, snow or other weather conditions, or there is frost and/or dirty
-trace in the camera window area of the advanced driver assistance system, or when your vehicle is
-moving in the direction toward the sun (or strong light source), the “the camera of the advanced driver
-assistance system has been blocked, please clean the windshield” prompt may appear on the
-combination instrument due to limited visual field of the camera. As a result, the SACC cannot work.
-4-5. Use other driving system
+> ⚠️ **Внимание:**  SACC will keep the set distance with the vehicle ahead to follow the target. If the target vehicle
+> slows down and stops, SACC will control the vehicle to stop automatically.
+>  When the target vehicle stops for less than 3s (seconds) and restarts or leaves the lane, the vehicle
+> will start automatically under the control of SACC.
+>  When the target vehicle stops for more than 3s (seconds) but less than 3min (minutes) and starts or
+> leaves the lane again, the multi-function screen of the vehicle's instrument cluster will prompt the
+> information of resuming the cruise control. The driver can resume the SACC function by depressing
+> the accelerator pedal lightly or turning the cruise control handle to "RES+" to realize automatic
+> starting. At that time, the driver should pay attention to whether it is safe to start the vehicle.
+>  SACC will automatically be canceled if the vehicle stops for over 3 min.
+>  SACC cannot keep the vehicle in a braking state for a long time. Do not leave your vehicle while the
+> ACC keeps the vehicle stopped. Be sure to shift the selector lever in the P position before leaving your
+> vehicle.
+>  The following items should be paid attention to when using SACC advanced cruise control for
+> turning:
+> ● In a sharp corner, the SACC may be canceled or limit the vehicle speed.
+> ● On curves, advanced cruise control may react to vehicles in another lane, or may not have time to react to
+> vehicles in the same lane, may collide with the vehicle ahead, or lose control of the vehicle. Especially when
+> driving in a ramp, the vehicle may be accelerated since the system loses its target due to an excessive curve.
+> Pay special attention to the curve and be prepared to apply the brake if necessary. When driving on a curve,
+> select the appropriate speed.
+> ● In the curve course, too small road radius may impact the judgment of SACC over the lane. When driving
+> on a curve, please drive carefully.
+>  Drivers should pay attention to traffic light change when the vehicle follows a vehicle ahead through
+> the intersection with traffic lights, and should take the initiative to intervene when necessary to avoid
+> violating traffic rules.
+>  When driving in heavy fog, rain, snow or other weather conditions, or there is frost and/or dirty
+> trace in the camera window area of the advanced driver assistance system, or when your vehicle is
+> moving in the direction toward the sun (or strong light source), the “the camera of the advanced driver
+> assistance system has been blocked, please clean the windshield” prompt may appear on the
+> combination instrument due to limited visual field of the camera. As a result, the SACC cannot work.
+> 4-5. Use other driving system
 
 ### Front and rear parking radar
-`hongqi_hs5_en_de457217` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:166 | doc_type:owners_manual
 164
 The front and rear parking radar system consists of a controller and an ultrasonic sensor. The
 ultrasonic sensor can measure the distance between the vehicle and the obstacle. According to the
@@ -16020,7 +14625,6 @@ Always check the surrounding area when using this system.
  Sensor type
 
 ### Rear middle radar sensor
-`hongqi_hs5_en_0f7df68a` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:166 | doc_type:owners_manual
  Enable/disable parking radar
 When the vehicle speed is lower than 10km/h, press the
 radar/image switch button, the indicator on the button
@@ -16039,7 +14643,6 @@ resume automatically.
 4
 
 ### Display
-`hongqi_hs5_en_945fcd93` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:167 | doc_type:owners_manual
  When obstacles are detected
 If the PDC sensor detects an obstacle, an image is
 displayed on the multimedia display screen according to
@@ -16048,7 +14651,6 @@ The slow-driving zone, warning zone and danger zone
 are displayed in green, yellow and red, respectively.
 
 ### Obstacle distance alarm
-`hongqi_hs5_en_c0a0165e` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:167 | doc_type:owners_manual
 If an obstacle is detected, the color bar corresponding to the sensor will continue to be lit.
  Information display on parking slow-driving zone for sensor
 Front
@@ -16079,7 +14681,6 @@ warning to the driver.
 4
 
 ### Longest distance detected by the sensor
-`hongqi_hs5_en_22bee477` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:169 | doc_type:owners_manual
 About 60cm
 About 150cm
 About 120cm
@@ -16088,7 +14689,6 @@ The diagram shows the detection range of the sensors.
 extremely close to the vehicle.)
 
 ### The range of the sensors may change depending on the
-`hongqi_hs5_en_140e827c` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:169 | doc_type:owners_manual
 shape of the obstacle.
  Sensor detection information
 ● Certain vehicle conditions and the surrounding environment may affect the ability of a sensor to correctly
@@ -16133,7 +14733,6 @@ the sound warning after 10s (seconds) and only the image warning remains. If the
 detected by the system changes again, the audible alarm will start again.
 
 ### CAUTIONS
-`hongqi_hs5_en_2572133b` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:170 | doc_type:owners_manual
  Warning of using front and rear parking radar
 Observe the following cautions to avoid accidents:
 ● Do not install anything within the working range of the sensor.
@@ -16141,18 +14740,15 @@ Observe the following cautions to avoid accidents:
 drive carefully. If necessary, intervene actively to avoid danger.
 ● When the vehicle speed is too high, the system will stop working. The driver should drive carefully.
 
-### Caution
-`hongqi_hs5_en_5692b144` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:170 | doc_type:owners_manual
- Please pay attention when washing the car.
-Do not apply intensive bursts of water or steam to the sensor area. Doing so may result in the sensor
-malfunctioning.
-4-5. Use other driving system
-Rear view camera system*
-169
-4
+> ⚠️ **Внимание:**  Please pay attention when washing the car.
+> Do not apply intensive bursts of water or steam to the sensor area. Doing so may result in the sensor
+> malfunctioning.
+> 4-5. Use other driving system
+> Rear view camera system*
+> 169
+> 4
 
 ### Driving
-`hongqi_hs5_en_ce8087d5` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:171 | doc_type:owners_manual
 When reversing (for example, parking), the rear view camera system assists you by displaying the
 vehicle rear view image on the audio multimedia display.
 Activating/deactivating the rear view camera system
@@ -16172,12 +14768,10 @@ withdrawn by pressing the radar/image button again.
 170
 
 ### Reversing information display
-`hongqi_hs5_en_6f92b44a` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:172 | doc_type:owners_manual
 Assist the driver to complete the parking with by screen display. Dynamically adjust the parking guide line
 according to various angles.
 
 ### Indicating the predicted vehicle track line with the
-`hongqi_hs5_en_643ad0fe` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:172 | doc_type:owners_manual
 steering wheel operating.
 Distance guide line (red)
 Indicating the distance line 50cm away from bumper
@@ -16194,7 +14788,6 @@ Please check the surroundings for safety!
 4
 
 ### The vehicle backup camera is located in the illustrated
-`hongqi_hs5_en_d7c72368` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:173 | doc_type:owners_manual
 position.
 The area that the camera can monitor is limited. Objects
 that are close to either corner (within 20 cm) of the
@@ -16210,7 +14803,6 @@ images, the light source appears to have a vertical stripe
 extending up and down.
 
 ### Mainly monitored area
-`hongqi_hs5_en_c88e5544` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:173 | doc_type:owners_manual
 About 20cm
 4-5. Use other driving system
 172
@@ -16248,7 +14840,6 @@ through objects or obstruction in the vicinity.
 4
 
 ### CAUTIONS
-`hongqi_hs5_en_95e2da62` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:175 | doc_type:owners_manual
  The reversing camera system is only a driving assistance system, please do not rely too much on its
 function.
 Be sure to drive carefully and visually confirm the conditions behind and around the vehicle. It is very
@@ -16304,26 +14895,21 @@ by pressing the radar/image button again or pressing the screen button
 4
 
 ### Panoramic image system screen mode
-`hongqi_hs5_en_18c2be2f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:177 | doc_type:owners_manual
 Panoramic image system has a variety of screen modes, the driver can choose the appropriate mode according
 to need.
 Large bird's-eye view
 ① Large bird's-eye view Switch the main and small bird's-eye views to large bird's-eye views.
 
 ### Front view
-`hongqi_hs5_en_9def2b58` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:177 | doc_type:owners_manual
 Display the front view and the small bird's-eye view.
 
 ### Rear view
-`hongqi_hs5_en_6d7d7364` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:177 | doc_type:owners_manual
 Display the rear view and the small bird's-eye view.
 
 ### Left view
-`hongqi_hs5_en_e1000fcb` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:177 | doc_type:owners_manual
 Display the left view and the small bird's-eye view.
 
 ### Right view
-`hongqi_hs5_en_642a3512` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:177 | doc_type:owners_manual
 Display the right view and the small bird's-eye view.
 3Dview
 The 360 degree stereo image around the vehicle can be displayed, and the dragging angle can be displayed.
@@ -16332,17 +14918,14 @@ It can be selected in front and rear view modes. Left view, right view and small
 after selection.
 
 ### Wide view
-`hongqi_hs5_en_ca716782` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:177 | doc_type:owners_manual
 It can be selected in front and rear view modes. After selection, switch the main view and small bird's eye
 view to wide-angle view, and you can see a picture of nearly 180 degrees.
 
 ### Main view
-`hongqi_hs5_en_337505f3` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:177 | doc_type:owners_manual
 Small bird's-eye view
 Please check the surroundings for safety!
 
 ### Front view
-`hongqi_hs5_en_9def2b58` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:177 | doc_type:owners_manual
 Rear
 view
 Right
@@ -16357,7 +14940,6 @@ view
 176
 
 ### Track line
-`hongqi_hs5_en_63313cb8` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:178 | doc_type:owners_manual
 ⑨Track line When selected, the parking aid line will be displayed.
 MOD (Moving Object Detection)
 It can be selected in front and rear view modes. After enabled, it can detect dynamic objects within the range
@@ -16368,19 +14950,16 @@ left/right view and small aerial view; when the turn lamp signal is disabled, th
 resume.
 
 ### Indicating the predicted vehicle track line with the
-`hongqi_hs5_en_b64989c0` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:178 | doc_type:owners_manual
 steering wheel operating.
 Distance guide line
 Indicating the distance line 50cm away from bumper
 back edge.
 
 ### Distance guide line
-`hongqi_hs5_en_e0eb8151` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:178 | doc_type:owners_manual
 Indicating the distance line 150cm away from bumper
 back edge.
 
 ### Distance guide line
-`hongqi_hs5_en_e0eb8151` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:178 | doc_type:owners_manual
 Indicating the distance line 300cm away from bumper
 back edge.
 Please check the surroundings for safety!
@@ -16389,7 +14968,6 @@ Please check the surroundings for safety!
 4
 
 ### Panoramic cameras are respectively installed at the front
-`hongqi_hs5_en_8f622735` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:179 | doc_type:owners_manual
 grille, trunk lid and left and right exterior rearview
 mirrors.
 If the above components are opened or folded, the
@@ -16403,7 +14981,6 @@ near the corner of the bumper or below the bumper are
 not displayed on the screen.
 
 ### The area displayed on the screen may vary according to
-`hongqi_hs5_en_e84f2045` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:179 | doc_type:owners_manual
 vehicle orientation or road conditions.
 If the camera receives strong light (e.g. sunlight
 reflected by the car body), it may produce smear effects
@@ -16415,7 +14992,6 @@ down.
 178
 
 ### CAUTIONS
-`hongqi_hs5_en_f72970b4` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:180 | doc_type:owners_manual
  Panoramic image system is only one of the driving assist systems. Do not depend on it more than
 necessary.
 Be sure to drive carefully and visually confirm the conditions around the vehicle. It is very dangerous to back
@@ -16456,13 +15032,11 @@ Tire pressure monitor system (TPMS)
 4
 
 ### Driving
-`hongqi_hs5_en_42cca53d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:181 | doc_type:owners_manual
 The tire pressure monitoring system can monitor and check the tire pressure and give an alarm
 automatically when the pressure is lower than the limit value.
 Abnormal tire pressure/system fault warning lamp
 
 ### When the tire pressure monitor system does not work
-`hongqi_hs5_en_4edfd941` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:181 | doc_type:owners_manual
 The system failure alarm lamp turns on, and a text message "tire
 pressure monitoring function is disabled" is displayed.
  Match the tire pressure sensor
@@ -16472,7 +15046,6 @@ contact an authorized Hong Qi dealer of China FAW.
 180
 
 ### CAUTIONS
-`hongqi_hs5_en_470116fc` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:182 | doc_type:owners_manual
  Precautions for tire pressure monitoring system <TPMS>
 ● The system cannot prevent tire leakage and puncture. Its main function is to give an alarm after monitoring
 the tire pressure value below a certain set value.
@@ -16496,7 +15069,6 @@ LDW/LKA Lane keeping assist system*
 4
 
 ### Driving
-`hongqi_hs5_en_c427bb9c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:183 | doc_type:owners_manual
 The lane keep assist system can detect the driver's status and the driving state of the vehicle when the
 vehicle speed is higher than 60km/h. When the system judges that the driver's non-subjective intention
 (chatting, distraction, operating the sound system, etc.) causes the vehicle to deviate from the lane, the
@@ -16504,14 +15076,12 @@ system will send out an alarm or an alarm plus a correction prompt to prevent da
  LDW (Lane departure warning)
 
 ### When the lane departure warning system detects that the
-`hongqi_hs5_en_a687acff` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:183 | doc_type:owners_manual
 vehicle is departing from the lane, the corresponding
 side line turns red and flashes and the speaker on the
 corresponding side sounds a warning.
  LKA (Lane keeping assistance)
 
 ### When the lane departure warning system detects that the
-`hongqi_hs5_en_a687acff` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:183 | doc_type:owners_manual
 vehicle is departing from the lane, the corresponding
 side line turns red and flashes and the speaker on the
 corresponding side sounds a warning.
@@ -16568,7 +15138,6 @@ contact with China FAW authorized Hongqi distributors.
 4
 
 ### CAUTIONS
-`hongqi_hs5_en_3f855813` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:185 | doc_type:owners_manual
  LDW/LKA is only a driving assistance system. Do not rely too much on it. Drivers must drive
 carefully.
  The system may malfunction due to road and environment factors. Stop using this system in that
@@ -16596,7 +15165,6 @@ cluster gauge multi-function display zone will show the
 early warning icon.
 
 ### If the system judges the current driving is severely
-`hongqi_hs5_en_34967c40` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:186 | doc_type:owners_manual
 abnormal, it will show the early warning icon and
 release the warning tone.
  The system shall be calibrated when changing the advanced driver assistance system camera unit,
@@ -16604,7 +15172,6 @@ front windshield or after four-wheel alignment. Otherwise, the system can not be
 contact with China FAW authorized Hongqi distributors.
 
 ### CAUTIONS
-`hongqi_hs5_en_82c7e8a6` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:186 | doc_type:owners_manual
  The driver status monitoring system is only a driving assistance system. It can only give an alarm
 for the abnormal driving status of the driver and cannot directly interfere with the vehicle. The driver
 must refer to the alarm, operate the steering wheel by himself to ensure the normal driving of the
@@ -16621,7 +15188,6 @@ Forward collision warning (FCW) system*
 4
 
 ### Driving
-`hongqi_hs5_en_6af8ee25` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:187 | doc_type:owners_manual
 The system automatically judges the collision risk level by the relative distance, relative speed and
 relative acceleration between the vehicle and the target vehicle. If the conditions are met, the system
 will give an alarm.
@@ -16642,7 +15208,6 @@ contact with China FAW authorized Hongqi distributors.
 186
 
 ### CAUTIONS
-`hongqi_hs5_en_95a4a1ae` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:188 | doc_type:owners_manual
  For the sake of safety, the passengers must wear seat belts properly.
  FCW is only a driving assistance system. Do not rely too much on FCW. Drivers must drive
 carefully.
@@ -16673,21 +15238,18 @@ and insufficient environmental lighting. Drivers should drive carefully.
 please pay attention to possible dangerous situations. FCW may not be able to identify targets such as
 cyclists.
 
-### Caution
-`hongqi_hs5_en_efda8ede` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:188 | doc_type:owners_manual
- To avoid interfering with the driver by false alarm, the system will not alarm when:
-● Front windscreen is damaged or replaced.
-● Vehicle speed is lower than 8km/h.
-● Within 20s after the last warning.
-● The steering wheel is turned fast or to an excessive angle.
-● The accelerator pedal is pressed suddenly, resulting in a large pedal displacement.
-4-5. Use other driving system
-Autonomous emergency brake (AEB) system*
-187
-4
+> ⚠️ **Внимание:**  To avoid interfering with the driver by false alarm, the system will not alarm when:
+> ● Front windscreen is damaged or replaced.
+> ● Vehicle speed is lower than 8km/h.
+> ● Within 20s after the last warning.
+> ● The steering wheel is turned fast or to an excessive angle.
+> ● The accelerator pedal is pressed suddenly, resulting in a large pedal displacement.
+> 4-5. Use other driving system
+> Autonomous emergency brake (AEB) system*
+> 187
+> 4
 
 ### Driving
-`hongqi_hs5_en_531b4ec5` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:189 | doc_type:owners_manual
 AEB active emergency braking system works in the range of 8km/h to 80 km/h. When the vehicle
 encounters an emergency and there is a possibility of collision with the vehicle ahead, if the driver fails
 to perform emergency braking or emergency steering to avoid danger in time, the system will assist the
@@ -16697,7 +15259,6 @@ on the combination instrument and a warning is sent by
 the speaker/instrument.
 
 ###  AEB ON/OFF
-`hongqi_hs5_en_48b92903` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:189 | doc_type:owners_manual
 It can be set to turn on and off the AEB system in the vehicle setting of the audio system. (See P.225)
 When the system is shut down, the indicator for active
 emergency braking system shutdown will be displayed
@@ -16710,7 +15271,6 @@ contact with China FAW authorized Hongqi distributors.
 188
 
 ### CAUTIONS
-`hongqi_hs5_en_85a2acaa` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:190 | doc_type:owners_manual
  For the sake of safety, the passengers must wear seat belts properly.
  AEB is only a driving assistance system. Do not rely too much on AEB. Drivers must drive carefully.
  AEB may not be able to identify the modified or decorated vehicles with special appearance.
@@ -16750,37 +15310,34 @@ braked to prevent the vehicle from starting again and slipping away.
 189
 4
 
-### Caution
-`hongqi_hs5_en_f29b9eb4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:191 | doc_type:owners_manual
- To prevent the system from disturbing the driver by false alarm, the following situations will not be
-alarmed:
-● Vehicle speed is lower than 8km/h.
-● Within 20s after the last warning.
- After the AEB system is triggered, if any of the following conditions are met, the AEB system will be
-interrupted and the braking behavior will be stopped immediately:
-● The steering wheel is turned fast or to an excessive angle.
-● The accelerator pedal is pressed suddenly, resulting in a large pedal displacement.
-● When the speed decreases to lower than the threshold 45km/h, AEB stops braking
- The AEB system will not be triggered when any of the following conditions are met, which is
-intended to allow the driver to control the vehicle without disturbing the driver.
-● ESC. TCS. ABS function enabled.
-● The shift lever is in D.
-● Any door is not closed.
-● Engine compartment cover is not closed.
-● The driver unfastens the seat belt.
-● The automatic parking function is turned on.
-● Within 20s after the last warning.
-● The vehicle speed is lower than 8km/h.
-● The steering wheel is turned fast or to an excessive angle.
-● The accelerator pedal is pressed suddenly, resulting in a large pedal displacement.
-4-5. Use other driving system
-Blind Spot Detection (BSD) *
-190
-The system contains a blind spot detection, side warning assist (SWA) and a cross traffic alert (CTA) to
-provide driving assistance.
+> ⚠️ **Внимание:**  To prevent the system from disturbing the driver by false alarm, the following situations will not be
+> alarmed:
+> ● Vehicle speed is lower than 8km/h.
+> ● Within 20s after the last warning.
+>  After the AEB system is triggered, if any of the following conditions are met, the AEB system will be
+> interrupted and the braking behavior will be stopped immediately:
+> ● The steering wheel is turned fast or to an excessive angle.
+> ● The accelerator pedal is pressed suddenly, resulting in a large pedal displacement.
+> ● When the speed decreases to lower than the threshold 45km/h, AEB stops braking
+>  The AEB system will not be triggered when any of the following conditions are met, which is
+> intended to allow the driver to control the vehicle without disturbing the driver.
+> ● ESC. TCS. ABS function enabled.
+> ● The shift lever is in D.
+> ● Any door is not closed.
+> ● Engine compartment cover is not closed.
+> ● The driver unfastens the seat belt.
+> ● The automatic parking function is turned on.
+> ● Within 20s after the last warning.
+> ● The vehicle speed is lower than 8km/h.
+> ● The steering wheel is turned fast or to an excessive angle.
+> ● The accelerator pedal is pressed suddenly, resulting in a large pedal displacement.
+> 4-5. Use other driving system
+> Blind Spot Detection (BSD) *
+> 190
+> The system contains a blind spot detection, side warning assist (SWA) and a cross traffic alert (CTA) to
+> provide driving assistance.
 
 ### When the gear lever is in D position and the vehicle
-`hongqi_hs5_en_677e5b1f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:192 | doc_type:owners_manual
 speed is greater than 30km/h, if the rear-side vehicle in
 the 7m (m) blind area or the 7 - 70m (m) interval behind
 the vehicle, the corresponding rear-view mirror warning
@@ -16792,7 +15349,6 @@ dangerous to change lanes at this time.
 Cross Traffic Alert (CTA)
 
 ### When the gear position is in R gear and the vehicle
-`hongqi_hs5_en_e404fcc6` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:192 | doc_type:owners_manual
 speed is 0~10km/h, if there is a crosswalk vehicle
 behind the vehicle, the indicator light in the
 corresponding side rearview mirror will be lit, the
@@ -16814,7 +15370,6 @@ switch.
 4
 
 ### Driving
-`hongqi_hs5_en_8c4c879d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:193 | doc_type:owners_manual
  Blind area detection and lane change assist functions may not be activated or may be delayed in the
 following situations:
 ● When the vehicle is driven on a steep slope.
@@ -16837,42 +15392,39 @@ the warning range:
 4-5. Use other driving system
 192
 
-### Caution
-`hongqi_hs5_en_35c1b08f` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:194 | doc_type:owners_manual
- Be sure to prevent the rear bumper from being clashed when parking. Otherwise, the sensor in the
-bumper may be displaced or damaged, and thus cause the SWA to be automatically shut down or the
-SWA function to be affected.
- To ensure the normal operation of the system, the sensors in the bumper must be kept clean, free of
-ice and snow, and must not be covered by other articles.
- The rear bumper is only allowed to be sprayed with the paint approved by our company. Failure to
-do so may result in limited functionality of the SWA or a trouble in the SWA.
- If blind area detection does not work normally, the system should be shut down immediately.
-Contact an authorized Hong Qi dealer of China FAW for maintenance.
- After the blind area detection system is repaired, calibration is required. For details, please contact
-an authorized Hong Qi dealer of China FAW.
- The blind are detection system will not give an alarm for pedestrians, animals, bicycles and other
-targets in the blind area.
- Blind area detection system only serves as an auxiliary reminder and cannot completely avoid
-collision of vehicles in blind areas. Before changing lanes, be sure to check the rearview mirror, sweep
-backward and use the turn signal.
- Under special working conditions, such as humid weather and excessively high vehicle speed, the
-blind area detection system may give false alarm or omission, which is a normal phenomenon.
- When the blind area detection radar behind the vehicle is blocked, the system will not work and the
-radar needs to be cleaned in time.
- Blind area detection system is limited by physical laws and system conditions, and may not be able
-to identify traffic conditions correctly under certain driving conditions. Such as the following
-conditions:
-● On a lane with sharp turn.
-● On carriageways of different width.
-● On a fluctuated road in mountainous area.
-● In bad weather.
-● At some special structures on the roadside, such as high or offset highway guardrails.
-4-5. Use other driving system
-193
-4
+> ⚠️ **Внимание:**  Be sure to prevent the rear bumper from being clashed when parking. Otherwise, the sensor in the
+> bumper may be displaced or damaged, and thus cause the SWA to be automatically shut down or the
+> SWA function to be affected.
+>  To ensure the normal operation of the system, the sensors in the bumper must be kept clean, free of
+> ice and snow, and must not be covered by other articles.
+>  The rear bumper is only allowed to be sprayed with the paint approved by our company. Failure to
+> do so may result in limited functionality of the SWA or a trouble in the SWA.
+>  If blind area detection does not work normally, the system should be shut down immediately.
+> Contact an authorized Hong Qi dealer of China FAW for maintenance.
+>  After the blind area detection system is repaired, calibration is required. For details, please contact
+> an authorized Hong Qi dealer of China FAW.
+>  The blind are detection system will not give an alarm for pedestrians, animals, bicycles and other
+> targets in the blind area.
+>  Blind area detection system only serves as an auxiliary reminder and cannot completely avoid
+> collision of vehicles in blind areas. Before changing lanes, be sure to check the rearview mirror, sweep
+> backward and use the turn signal.
+>  Under special working conditions, such as humid weather and excessively high vehicle speed, the
+> blind area detection system may give false alarm or omission, which is a normal phenomenon.
+>  When the blind area detection radar behind the vehicle is blocked, the system will not work and the
+> radar needs to be cleaned in time.
+>  Blind area detection system is limited by physical laws and system conditions, and may not be able
+> to identify traffic conditions correctly under certain driving conditions. Such as the following
+> conditions:
+> ● On a lane with sharp turn.
+> ● On carriageways of different width.
+> ● On a fluctuated road in mountainous area.
+> ● In bad weather.
+> ● At some special structures on the roadside, such as high or offset highway guardrails.
+> 4-5. Use other driving system
+> 193
+> 4
 
 ### CAUTIONS
-`hongqi_hs5_en_552fd9f3` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:195 | doc_type:owners_manual
 ■ Turn off the radar detection system when towing or accessories (such as bicycle bracket) are
 installed at the rear, otherwise, the radio waves emitted by the radar will be blocked, resulting in
 abnormal operation of the system.
@@ -16905,7 +15457,6 @@ indicator. Remind the driver of speeding by means of
 sound / icon / text message.
 
 ### When the system recognizes the speed limit cancellation
-`hongqi_hs5_en_002e8176` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:196 | doc_type:owners_manual
 sign, the indicator of the combination meter goes out,
 and the speed limit reminder is cancelled.
 Traffic Sign Recognition (TSR) ON/OFF
@@ -16927,7 +15478,6 @@ For calibration, contact the FAW authorized Hongqi dealer.
 4
 
 ### CAUTIONS
-`hongqi_hs5_en_9aab343f` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:197 | doc_type:owners_manual
 ■ TSR is only one of the driving assist systems. Do not depend on TSR more than necessary. Driver
 shall drive with caution.
 ■ The TSR may not work properly if there is heavy snow or rain.
@@ -16976,7 +15526,6 @@ display screen of the combination instrument is lit.
 4
 
 ### Driving
-`hongqi_hs5_en_05c083de` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:199 | doc_type:owners_manual
  Start the engine
 ● With your vehicle in D/N, the engine shut down and the brake pedal pressed, releasing the brake pedal starts
 the engine automatically.
@@ -17023,7 +15572,6 @@ The engine starts automatically if all the following conditions are met:
 • The brake vacuum is insufficient.
 
 ### CAUTIONS
-`hongqi_hs5_en_1a761219` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:200 | doc_type:owners_manual
 ■ When the idle start and stop system works
 ● Do not leave the vehicle when the ISSS stops the engine. Due to the automatic starting function of the
 engine, accidents may occur.
@@ -17054,39 +15602,36 @@ to ensure all-round escort.
 199
 4
 
-### Caution
-`hongqi_hs5_en_99f32f70` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:201 | doc_type:owners_manual
- After the engine stops automatically, press the engine switch, and the vehicle cannot start at this
-time.
- When the vehicle is in the idle-stop state, the start-stop function is terminated if one of the following
-conditions occurs. If you trigger the start-up operation, the instrument reminds you of starting the
-engine manually.
-● The engine compartment cover is opened or the transmission sends a signal to disable start-up.
-● The seat belt is unfastened and the door is opened.
-● The seat belt is unfastened or the door is opened. The door is still opened after a period of time.
- The idle start-stop system will be prohibited from being activated when the air conditioning system
-is in any of the following states:
-● The A/C system is in defrosting/defogging mode.
-● The temperature in the car does not reach the target comfortable temperature range.
-● Outdoor temperature is high or low.
- The idle start-stop system will be prohibited from being activated when the transmission issues the
-start-stop prohibition signal.
-● Prevent the risk of dragging caused by the engagement of drive chains when starting after shutdown.
- The driver is the main operator of the vehicle. The idle start-stop system is only a driving assistance
-system. The driver should control the vehicle according to the actual road conditions and drive
-carefully.
-4-5. Use other driving system
-Auto Parking Assist (APA) *
-200
-Automatic parking measures the length of parking spaces on both sides of the road through ultrasonic
-waves and cameras, selects suitable parking spaces, and then controls the vehicle to park automatically
-in the selected parking spaces. The automatic parking system includes automatic parking in and out.
-Selection via the multimedia display.
-Before using the automatic parking function, please check the automatic parking procedures,
-precautions and notices described in this section to prevent accidents.
+> ⚠️ **Внимание:**  After the engine stops automatically, press the engine switch, and the vehicle cannot start at this
+> time.
+>  When the vehicle is in the idle-stop state, the start-stop function is terminated if one of the following
+> conditions occurs. If you trigger the start-up operation, the instrument reminds you of starting the
+> engine manually.
+> ● The engine compartment cover is opened or the transmission sends a signal to disable start-up.
+> ● The seat belt is unfastened and the door is opened.
+> ● The seat belt is unfastened or the door is opened. The door is still opened after a period of time.
+>  The idle start-stop system will be prohibited from being activated when the air conditioning system
+> is in any of the following states:
+> ● The A/C system is in defrosting/defogging mode.
+> ● The temperature in the car does not reach the target comfortable temperature range.
+> ● Outdoor temperature is high or low.
+>  The idle start-stop system will be prohibited from being activated when the transmission issues the
+> start-stop prohibition signal.
+> ● Prevent the risk of dragging caused by the engagement of drive chains when starting after shutdown.
+>  The driver is the main operator of the vehicle. The idle start-stop system is only a driving assistance
+> system. The driver should control the vehicle according to the actual road conditions and drive
+> carefully.
+> 4-5. Use other driving system
+> Auto Parking Assist (APA) *
+> 200
+> Automatic parking measures the length of parking spaces on both sides of the road through ultrasonic
+> waves and cameras, selects suitable parking spaces, and then controls the vehicle to park automatically
+> in the selected parking spaces. The automatic parking system includes automatic parking in and out.
+> Selection via the multimedia display.
+> Before using the automatic parking function, please check the automatic parking procedures,
+> precautions and notices described in this section to prevent accidents.
 
 ### Access to auto parking system
-`hongqi_hs5_en_678643ae` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:202 | doc_type:owners_manual
 Method 1: Auto parking button
 Press the auto parking button once to enter the auto
 parking selection interface; Press the auto parking
@@ -17100,7 +15645,6 @@ selection interface and select the parking mode in the
 corresponding interface.
 
 ### Come back
-`hongqi_hs5_en_18900393` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:202 | doc_type:owners_manual
 home
 Auto out
 Auto in
@@ -17109,7 +15653,6 @@ Auto in
 4
 
 ### Auto in
-`hongqi_hs5_en_7191dee6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:203 | doc_type:owners_manual
  Select parking mode and space type
 There are two parking modes of automatic parking and
 manual parking. In each mode, there are three types of
@@ -17117,7 +15660,6 @@ parking spaces: vertical parking, inclined parking and
 horizontal parking.
 
 ### The system will default auto mode when the vehicle
-`hongqi_hs5_en_585e2bd0` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:203 | doc_type:owners_manual
 speed is not zero. The manual mode is available only
 when the vehicle speed is zero.
 ■ Select the parking space
@@ -17137,7 +15679,6 @@ After the manual mode and space type are selected, the
 screen will show the corresponding target space frame.
 
 ### The user can drag and rotate the target space frame
-`hongqi_hs5_en_e2d95f24` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:203 | doc_type:owners_manual
 (touching the zone in the target space frame with two
 fingers, one still and one rotating around the former
 finger). If the car in the space frame is in red, it means
@@ -17145,7 +15686,6 @@ the vehicle cannot park in this zone. Please adjust the
 position of target space frame on the screen.
 
 ### Manual
-`hongqi_hs5_en_19b161fb` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:203 | doc_type:owners_manual
 mode
 Auto mode
 Confirm parking
@@ -17155,13 +15695,11 @@ Parking in oblique
 position
 
 ### Parking in
-`hongqi_hs5_en_e4ab18ba` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:203 | doc_type:owners_manual
 horizontal
 Please approach the space
 and drive slowly
 
 ### The parking system will be
-`hongqi_hs5_en_1e038d33` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:203 | doc_type:owners_manual
 disabled after 10S.
 Back-in
 Parking
@@ -17169,7 +15707,6 @@ Back-in
 Parking
 
 ### Parking
-`hongqi_hs5_en_6cb80854` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:203 | doc_type:owners_manual
 in
 oblique position
 Parking in
@@ -17177,7 +15714,6 @@ Parking in
 horizontal
 
 ### Parking in
-`hongqi_hs5_en_e4ab18ba` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:203 | doc_type:owners_manual
 horizontal
 Manual
 mode
@@ -17187,13 +15723,11 @@ Auto mode
 Auto mode
 
 ### Confirm parking
-`hongqi_hs5_en_f42d2ef0` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:203 | doc_type:owners_manual
 Space found. Please park.
 The parking system will be
 disabled after 10S.
 
 ### Drag and rotate the white car to
-`hongqi_hs5_en_26815af0` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:203 | doc_type:owners_manual
 target space. The red means not
 available.
 The parking system will be disabled after 10S.
@@ -17212,7 +15746,6 @@ In the parking process, release the unlock key of the shift handle, the parking 
 the key again to continue parking.
 
 ### Auto out
-`hongqi_hs5_en_1a72558a` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:204 | doc_type:owners_manual
 ■ Select out type
 Through the audio system screen, the user can select
 vertical out, parallel out from right and parallel out from
@@ -17220,7 +15753,6 @@ left.
 Back-in
 
 ### Parallel out
-`hongqi_hs5_en_97dab3fe` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:204 | doc_type:owners_manual
 from right
 Parking in
 horizontal
@@ -17228,14 +15760,12 @@ Confirm parking
 Vertical out mode
 
 ### The parking system will be
-`hongqi_hs5_en_1b5f4117` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:204 | doc_type:owners_manual
 disabled after 10S.
 4-5. Use other driving system
 203
 4
 
 ### Driving
-`hongqi_hs5_en_6e7d876b` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:205 | doc_type:owners_manual
 ■ Exit control
 After selecting the type, depress the brake pedal and press the "Confirm Park" button to start the vehicle.
 During the exit process, must press and hold the unlock
@@ -17270,46 +15800,43 @@ EPB switch to control the vehicle parking.
 4-5. Use other driving system
 204
 
-### Caution
-`hongqi_hs5_en_df35a329` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:206 | doc_type:owners_manual
- The driver is the main operator of the vehicle. APA automatic parking system is only a driving
-assistance system. The driver should control the vehicle according to the actual road conditions and
-drive carefully.
- In order to ensure the success rate and safety of the parking system, the system needs to be used in
-the following environmental conditions:
-● The road surface is flat, the height of obstacles is less than 5cm, and the gradient is not more than 4
-degrees.
-● The parking space lines should be clear and the parking space should be large.
-● The weather is good. The driver can clearly and unobstructedly see the environment near the parking
-space.
-● The road surface is dry and difficult to slip.
- In the process of automatically searching for parking spaces, the following situations should be paied
-attention to:
-●The vehicle needs to drive close to the parking space. Too long a distance may cause the parking space
-failed to be identified.
-● The steering angle of the vehicle cannot be too large. Otherwise, parking space identification may fail.
-● The vehicle speed should not exceed 20km/h, which may lead to failure of parking space identification.
-● In case of rain, snow, fog or dim light, the parking space identification rate may be reduced.
-●When the parking space is too small, the parking space line is unclear or the parking space is irregular, it
-may lead to failure in parking space identification.
-● In the process of finding parking spaces, the image can only assist the driver, and the driver must pay
-attention to the surrounding environment in real time.
- In the process of automatic parking of vehicles, attention should be paid to the following situations:
-● There may be blind spots with respect to the distance prompt function. The driver needs to pay attention to
-the surrounding environment in real time.
-● Insufficient parking space may lead to parking failure.
-●When the road slope is too steep, parking may not be possible.
-● A wet and slippery road surface may cause the parking failure.
-● Uneven road surface may lead to parking failure.
-● During the parking process, the driver can operate accelerator pedal, the gears and the steering wheel.
- If the tire needs to be replaced, please ensure that the size and specification of the replaced tire are
-exactly the same as those of the original one, and verify the four-wheel alignment parameters.
-4-5. Use other driving system
-205
-4
+> ⚠️ **Внимание:**  The driver is the main operator of the vehicle. APA automatic parking system is only a driving
+> assistance system. The driver should control the vehicle according to the actual road conditions and
+> drive carefully.
+>  In order to ensure the success rate and safety of the parking system, the system needs to be used in
+> the following environmental conditions:
+> ● The road surface is flat, the height of obstacles is less than 5cm, and the gradient is not more than 4
+> degrees.
+> ● The parking space lines should be clear and the parking space should be large.
+> ● The weather is good. The driver can clearly and unobstructedly see the environment near the parking
+> space.
+> ● The road surface is dry and difficult to slip.
+>  In the process of automatically searching for parking spaces, the following situations should be paied
+> attention to:
+> ●The vehicle needs to drive close to the parking space. Too long a distance may cause the parking space
+> failed to be identified.
+> ● The steering angle of the vehicle cannot be too large. Otherwise, parking space identification may fail.
+> ● The vehicle speed should not exceed 20km/h, which may lead to failure of parking space identification.
+> ● In case of rain, snow, fog or dim light, the parking space identification rate may be reduced.
+> ●When the parking space is too small, the parking space line is unclear or the parking space is irregular, it
+> may lead to failure in parking space identification.
+> ● In the process of finding parking spaces, the image can only assist the driver, and the driver must pay
+> attention to the surrounding environment in real time.
+>  In the process of automatic parking of vehicles, attention should be paid to the following situations:
+> ● There may be blind spots with respect to the distance prompt function. The driver needs to pay attention to
+> the surrounding environment in real time.
+> ● Insufficient parking space may lead to parking failure.
+> ●When the road slope is too steep, parking may not be possible.
+> ● A wet and slippery road surface may cause the parking failure.
+> ● Uneven road surface may lead to parking failure.
+> ● During the parking process, the driver can operate accelerator pedal, the gears and the steering wheel.
+>  If the tire needs to be replaced, please ensure that the size and specification of the replaced tire are
+> exactly the same as those of the original one, and verify the four-wheel alignment parameters.
+> 4-5. Use other driving system
+> 205
+> 4
 
 ### CAUTIONS
-`hongqi_hs5_en_834c7231` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:207 | doc_type:owners_manual
 ■ Pay special attention to the people animals, and various obstacles around the vehicle. The sensors
 have undetectable blind spots.
 ■ When looking for a parking space or during parking, make sure that there are no obstacles in the
@@ -17356,7 +15883,6 @@ specific angle range.
 4-5. Use other driving system
 
 ### Driver assistance system
-`hongqi_hs5_en_7f4705d3` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:208 | doc_type:owners_manual
 206
 Functions integrated by ESC (Electronic Stability Program), which may be different according to
 different vehicle models.
@@ -17401,7 +15927,6 @@ turned off/on by the button.
 4
 
 ### Driving
-`hongqi_hs5_en_a4292242` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:209 | doc_type:owners_manual
  Active Pre-Braking (ABP)*
 When the brake pedal is pressed in an emergency, the response speed of the brake is improved.
  EPS electric power assisted steering
@@ -17411,7 +15936,6 @@ If the vehicle slips or the drive wheels are idling, the
 indicator flashes, indicating that TCS/ ESC is working.
 
 ### Disabling ESC
-`hongqi_hs5_en_e090cf14` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:209 | doc_type:owners_manual
 If the vehicle gets stuck in fresh snow or mud, the ESC may reduce the power from the engine to the wheels.
 Turn the system off to move the vehicle back and forth to free it.
 Press the "ESC OFF" key to turn off the ESC function.
@@ -17432,7 +15956,6 @@ conditions do not mean that a fault has occurred.
 • A motor sound may be heard after the vehicle comes to a stop.
 
 ### CAUTIONS
-`hongqi_hs5_en_0b543beb` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:210 | doc_type:owners_manual
 ■ Handling of wheels and suspension:
 Using tires with any kind of problem or modifying the suspension will affect the driving assist systems, and
 may cause a system malfunction.
@@ -17463,7 +15986,6 @@ wheels, please contact with China FAW authorized Hongqi distributor.
 4-6. Driving Information
 
 ### Key points for driving in winter
-`hongqi_hs5_en_ebd58927` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:211 | doc_type:owners_manual
 209
 4
 Driving
@@ -17489,12 +16011,10 @@ the brakes.
 Accelerate the vehicle slowly and drive at a reduced speed according to the road conditions.
 
 ### Tire Chain Selection
-`hongqi_hs5_en_8a0395ee` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:211 | doc_type:owners_manual
 Use the correct tire chain size when mounting the tire chains.
 The dimensions of tire chains should be adjusted based on the size of each tire.
 
 ### Regulations on the use of tire chains
-`hongqi_hs5_en_c1837861` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:211 | doc_type:owners_manual
 Regulations regarding the use of tire chains vary depending on locations and types of roads.
 Always check local regulations before installing chains.
 Install the chain on the driving tire.
@@ -17508,7 +16028,6 @@ Please take the following precautions when installing or removing tire chains:
 • Install tire chains following the instructions in the user manual of the tire chains.
 
 ### CAUTIONS
-`hongqi_hs5_en_04d95f3e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:212 | doc_type:owners_manual
 ■ Drive the car equipped with snow tires
 Observe the following precautions to reduce the risk of accidents. Failure to do so may result in a loss of
 vehicle control and cause serious injury or even death.
@@ -17542,13 +16061,11 @@ Audio system 5
 5.1. Basic Operation
 
 ### Multimedia display
-`hongqi_hs5_en_3c901130` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:214 | doc_type:owners_manual
 212
 The user can control the navigation, call, radio, music, vehicle setting and A/C through the main menu
 interface on the multi-media display.
 
 ### S/N
-`hongqi_hs5_en_cc9ab67a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:214 | doc_type:owners_manual
 Name
 Function
 1
@@ -17558,13 +16075,11 @@ By touching the application icon, you can quickly navigate to the company and ho
 2
 
 ### My car
-`hongqi_hs5_en_7e91b4b8` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:214 | doc_type:owners_manual
 Enter the vehicle setting (see P_222)
 Touching the application icon can quickly achieve the auto in and out.
 3
 
 ### Multimedia file
-`hongqi_hs5_en_4db43757` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:214 | doc_type:owners_manual
 Enter the multimedia application (see P.234, 237, 241) and switch the currently played tracks by
 touching the application icon.
 4
@@ -17574,7 +16089,6 @@ By touching the application icon, you can quickly access the contacts and call h
 5
 
 ### System settings
-`hongqi_hs5_en_fa32fbd9` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:214 | doc_type:owners_manual
 Enter system settings (see P.217)
 By touching the application icon, you can quickly access voice recognition and theme modes.
 You can quickly enter the system settings by touching or sliding down the status bar from the top
@@ -17582,18 +16096,15 @@ of the screen.
 6
 
 ### Connect
-`hongqi_hs5_en_59df5afc` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:214 | doc_type:owners_manual
 Enter Hong Qi smart link (see R261)
 Touching the application icon can quickly access the QQ music and Himalaya.
 7
 
 ### A/C
-`hongqi_hs5_en_e23c7a86` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:214 | doc_type:owners_manual
 Enter air conditioning application (see R270)
 Touching or pulling up the lower of screen status bar can access A/C system.
 
 ### Navigation
-`hongqi_hs5_en_fcd5b99e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:214 | doc_type:owners_manual
 Calling....
 Go to the
 company
@@ -17602,7 +16113,6 @@ home
 Auto out
 
 ### Previous
-`hongqi_hs5_en_ad834125` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:214 | doc_type:owners_manual
 Next
 5.1. Basic Operation
 213
@@ -17642,28 +16152,24 @@ electronic components will be damaged.
 ● When cleaning the multimedia display surface, please use soft cloth, and do not use any dilute or other
 chemical cleaner for wiping.
 
-### Caution
-`hongqi_hs5_en_5499b55a` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:216 | doc_type:owners_manual
- Due to the high sensitivity of this system, noise may be generated when approaching TV tower, radio
-station, power plant or other places emitting strong radio waves or electric noise interference.
- Preventing low battery power
- Do not use the audio system for a long time when the vehicle is not starting
- Prevent damage to sound system
-● Do not spill drinks or other liquids onto the audio system. If the fluid or other objects fall into this unit,
-immediately switch off the power and contact the authorized dealer of FAW HONGQI.
-● Do not repair, disassemble or modify the unit without authorization. In the case of malfunction,
-immediately shut down the audio system and contact the authorized dealer of FAW HONGQI.
-5.1. Basic Operation
+> ⚠️ **Внимание:**  Due to the high sensitivity of this system, noise may be generated when approaching TV tower, radio
+> station, power plant or other places emitting strong radio waves or electric noise interference.
+>  Preventing low battery power
+>  Do not use the audio system for a long time when the vehicle is not starting
+>  Prevent damage to sound system
+> ● Do not spill drinks or other liquids onto the audio system. If the fluid or other objects fall into this unit,
+> immediately switch off the power and contact the authorized dealer of FAW HONGQI.
+> ● Do not repair, disassemble or modify the unit without authorization. In the case of malfunction,
+> immediately shut down the audio system and contact the authorized dealer of FAW HONGQI.
+> 5.1. Basic Operation
 
 ### Multimedia switch on the steering wheel
-`hongqi_hs5_en_425ecafd` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:217 | doc_type:owners_manual
 215
 5
 Audio System
 Some multimedia features can be controlled using the multimedia switches on the steering wheel.
 
 ### Voice recognition button
-`hongqi_hs5_en_5166d594` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:217 | doc_type:owners_manual
 Volume adjustment/mute button
 S/N
 Features:
@@ -17679,13 +16185,11 @@ Short press: activate/exit voice recognition.
 Scroll up/down: the volume is increased/minimum, and if it is muted, it will be unmuted;Press: mute/cancel mute.
 
 ### CAUTIONS
-`hongqi_hs5_en_38b9b389` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:217 | doc_type:owners_manual
 ■During driving
 Take extra care when operating the multimedia switch on the steering wheel to prevent accidents.
 5.1. Basic Operation
 
 ### USB interface
-`hongqi_hs5_en_a2916adf` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:218 | doc_type:owners_manual
 216
 Connect a USB device to the USB port, go to the corresponding mode, then you can operate it via the
 audio system.
@@ -17694,30 +16198,25 @@ Open the front seat center storage box lid, and connect the
 external multimedia source.
 
 ### USB2
-`hongqi_hs5_en_145614d4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:218 | doc_type:owners_manual
 ■USB memory
 Connect the USB memory device.
 If the USB memory device is not started, turn it on.
 
 ### CAUTIONS
-`hongqi_hs5_en_e710c0e4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:218 | doc_type:owners_manual
 ■During driving
 Do not connect any device or operate its control buttons to prevent any accident.
 
-### Caution
-`hongqi_hs5_en_ccad12e6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:218 | doc_type:owners_manual
-USB port
-●Be sure to keep the port clean. If a foreign object or liquid enters the port, it may cause a malfunction of
-the sound system.
-●Do not insert any high-current USB device except a USB stick or a mobile telephone, including mobile
-hard disk drives and portable power sources.
-Mobile phone USB cable
-●It is recommended to connect with the USB cable provided with the mobile phone to ensure the stability of
-the connection.
-5.2. Settings
+> ⚠️ **Внимание:** USB port
+> ●Be sure to keep the port clean. If a foreign object or liquid enters the port, it may cause a malfunction of
+> the sound system.
+> ●Do not insert any high-current USB device except a USB stick or a mobile telephone, including mobile
+> hard disk drives and portable power sources.
+> Mobile phone USB cable
+> ●It is recommended to connect with the USB cable provided with the mobile phone to ensure the stability of
+> the connection.
+> 5.2. Settings
 
 ### System settings
-`hongqi_hs5_en_425e42aa` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:219 | doc_type:owners_manual
 217
 5
 Audio System
@@ -17728,7 +16227,6 @@ Enter the audio-visual setting interface (see R220)
 Go to the Document Management interface (see P.221)
 
 ### System
-`hongqi_hs5_en_c92f4ed9` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:219 | doc_type:owners_manual
 settings
 Audiovisual
 settings
@@ -17737,7 +16235,6 @@ management
 Mobile network
 
 ### Personal
-`hongqi_hs5_en_c0d4377d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:219 | doc_type:owners_manual
 hotspot
 Mobile phone
 interconnection
@@ -17745,18 +16242,15 @@ Closing
 Closing
 
 ### Baidu CarLife
-`hongqi_hs5_en_804ee551` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:219 | doc_type:owners_manual
 5.2. Settings
 218
 Main interface of system settings
 
 ### Mobile internet
-`hongqi_hs5_en_236358be` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:220 | doc_type:owners_manual
 ■Enable mobile network: access the network through the network environment created by built-in network
 card.
 
 ### WLAN setting up
-`hongqi_hs5_en_a2ba080c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:220 | doc_type:owners_manual
 ■Enable WLAN: press the key [ON] on WLAN setting interface.
 ■Search for WLAN: Set WLAN to On and click [Search] button on the screen to find the network.
 ■Connect the WLAN: select the network to access and enter the password to connect.
@@ -17764,7 +16258,6 @@ card.
 network connection.
 
 ### Bluetooth settings
-`hongqi_hs5_en_1e9c91fa` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:220 | doc_type:owners_manual
 ■Enable Bluetooth: press the key [ON] on Bluetooth setting interface.
 ■Search Bluetooth: set Bluetooth to ON and press [SEARCH] on the screen to search Bluetooth equipment.
 ■Connect the Bluetooth: select the Bluetooth equipment to be connected to match. After the connection
@@ -17776,13 +16269,11 @@ Bluetooth equipment.
 ■Setting: to set the Bluetooth visibility and equipment name etc.
 
 ### Personal hotspot
-`hongqi_hs5_en_c1bab7fa` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:220 | doc_type:owners_manual
 ■Enable personal hotspot: press the key [ON] on personal hotspot interface.
 ■Edit hotspot name: set personal hotspot to ON, enter the name in editing interface and confirm to complete
 the name editing.
 
 ### Baidu CarLife
-`hongqi_hs5_en_9f5563d3` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:220 | doc_type:owners_manual
 5.2. Settings
 219
 5
@@ -17791,11 +16282,9 @@ Audio System
 confirm to complete the password setting.
 
 ### Mobile phone interconnection
-`hongqi_hs5_en_62ff3921` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:221 | doc_type:owners_manual
 You can choose how to connect to the phone by default.
 
 ### Voice recognition
-`hongqi_hs5_en_19039b91` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:221 | doc_type:owners_manual
 ■Voice function: it can be set to ON or OFF.
 ■Part-time wake-up free: Set part-time wake-up free to ON and set part-time wake-up free time in the time
 setting interface.
@@ -17805,7 +16294,6 @@ editing interface, enter the modification contents and confirm.
 ■TTS pronounce can be set to: young woman, matured woman.
 
 ### System language
-`hongqi_hs5_en_edfd8851` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:221 | doc_type:owners_manual
 The system can be set to Chinese or English.
 Date and time
 ■24h system: Select [ON] for 24h system; select [OFF] for 12h system.
@@ -17815,50 +16303,41 @@ time modification.
 date modification.
 
 ### About this unit
-`hongqi_hs5_en_d3887606` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:221 | doc_type:owners_manual
 You can view system information.
 Restore factory settings
 The system can be reset-only system settings.
 The system can be reset to factory settings.
 
 ### Upgraded system
-`hongqi_hs5_en_76afcf61` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:221 | doc_type:owners_manual
 In the system upgrade, USB upgrade and automatic update can be carried out. For specific operation, please
 refer to the system guide or contact an authorized Hong Qi dealer of FAW China.
 5.2. Settings
 220
 
 ### Theme mode
-`hongqi_hs5_en_36292d23` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:222 | doc_type:owners_manual
 It can be set to classic, sport and concise.
 Display mode
 It can be set to automatic, day or night modes.
 
 ### Brightness
-`hongqi_hs5_en_300bd4b8` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:222 | doc_type:owners_manual
 To adjust the screen brightness, touch the key [+] or [-] or drag the brightness setting bar.
 
 ### Environment tone effect
-`hongqi_hs5_en_34aeb64f` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:222 | doc_type:owners_manual
 It can be set to 4 tone effect modes: CenterPoint, normal balanced, driver's seat preference and rear row seat
 preference.
 
 ### Volume control
-`hongqi_hs5_en_ad9cea32` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:222 | doc_type:owners_manual
 It can adjust the key tone, radar tone, E-CALL and phone volume.
 To adjust the volume, touch the key [+] or [-] or drag the volume setting bar.
 
 ### Timbre setting
-`hongqi_hs5_en_ee2d053a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:222 | doc_type:owners_manual
 It can adjust the value of treble, mediant and bass.
 To adjust the sound value, touch the key [+] or [-] or drag the timbre setting bar.
 
 ### Sound field setting
-`hongqi_hs5_en_db7184bd` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:222 | doc_type:owners_manual
 Select the best listening point by dragging the round cursor side to side.
 
 ### Environment tone effect
-`hongqi_hs5_en_34aeb64f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:222 | doc_type:owners_manual
 Music
 adjustment
 Music settings
@@ -17870,17 +16349,14 @@ Night
 5
 
 ### Document management
-`hongqi_hs5_en_9f91636a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:223 | doc_type:owners_manual
 Through the file management, the user can view, search, play and delete the files in the media source.
 
 ### Shortcut menu
-`hongqi_hs5_en_1ad7ba92` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:223 | doc_type:owners_manual
 In the open state of the audio system, above the screen status bar, slide down to pull out the shortcut menu,
 and check some functions quickly.
 In the shortcut menu interface, touch the right side system setting to quickly access the setting interface.
 
 ### System
-`hongqi_hs5_en_deffa794` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:223 | doc_type:owners_manual
 settings
 Audiovisual
 settings
@@ -17889,7 +16365,6 @@ management
 Local
 
 ### File holder
-`hongqi_hs5_en_9058628d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:223 | doc_type:owners_manual
 Video.mp4
 Song 2.mp3
 Song 1.mp3
@@ -17902,7 +16377,6 @@ l
 d d
 
 ### Personal
-`hongqi_hs5_en_91aefd13` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:223 | doc_type:owners_manual
 hotspot
 Bluetoot
 h
@@ -17912,14 +16386,12 @@ Muting
 Brightness
 
 ### Volume
-`hongqi_hs5_en_230c1d5d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:223 | doc_type:owners_manual
 5.2. Settings
 Vehicle setting
 222
 In the main menu interface, touch [my car] to access the vehicle setting main interface.
 
 ### Vehicle setting main interface
-`hongqi_hs5_en_4747e307` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:224 | doc_type:owners_manual
 Enter the lighting setting interface (see R223)
 Go to the Comfort Setting interface (see P.224)
 Go to the Driver Assistance interface (see P.225)
@@ -17928,7 +16400,6 @@ Go to the Maintenance, etc. interface (see P.227)
 Calling....
 
 ### Lighting
-`hongqi_hs5_en_2757ce92` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:224 | doc_type:owners_manual
 setting
 Comfort setting
 Driver
@@ -17941,13 +16412,11 @@ Maintenance, etc.
 5
 
 ### Daytime running lamp
-`hongqi_hs5_en_fbb7acc4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:225 | doc_type:owners_manual
 Set DRL on/off.
 High beam assist
 Set the IHC On and Off.
 
 ### Welcome lamp
-`hongqi_hs5_en_10d71780` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:225 | doc_type:owners_manual
 Set LED board on/off.
 Boarding lighting
 Set boarding lighting on/off.
@@ -17957,14 +16426,12 @@ Set leaving lighting on/off.
 It can be used for15s/30s/60s time settings.
 
 ### Backlight brightness
-`hongqi_hs5_en_85a40289` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:225 | doc_type:owners_manual
 It can achieve 5-level brightness adjustment.
 Ambience lamp
 Setting the ambience light on/off.
 7 levels of brightness adjustment and color adjustment are available.
 
 ### Lighting
-`hongqi_hs5_en_7e8b86e8` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:225 | doc_type:owners_manual
 i
 Comfort setting
 Driver
@@ -17975,7 +16442,6 @@ l
 Maintenance, etc.
 
 ### Boarding lighting
-`hongqi_hs5_en_645dce80` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:225 | doc_type:owners_manual
 Time (s)
 Air conditioner is
 ff
@@ -17984,20 +16450,17 @@ ff
 Comfort setting
 
 ### Safe unlocking
-`hongqi_hs5_en_a4bf6bc8` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:226 | doc_type:owners_manual
 Set safe unlocking on/off.
 On: press the unlocking key on the remote controller once and the driver's side door will be unlocked;
 Press the unlocking key twice continuously and all the doors will be unlocked.
 OFF: Press the remote control unlock button once to unlock all doors.
 
 ### Facilitate in and out
-`hongqi_hs5_en_af60c883` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:226 | doc_type:owners_manual
 Set LED board on/off.
 Exterior rearview mirror auto folding
 Set exterior rearview mirror auto folding or not upon vehicle locking.
 
 ### Rear seat belt unfastened indicator lamp
-`hongqi_hs5_en_e91fb949` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:226 | doc_type:owners_manual
 Set rear seat belt unfastened reminding on/off.
 Mobile phone left reminding
 Set the phone left reminding on/off.
@@ -18005,7 +16468,6 @@ With this function on, if the engine switch is shut down while the phone is in t
 connecting the on-board CarLife, the instrument cluster will remind.
 
 ### Auto parking upon power off
-`hongqi_hs5_en_f8ce5ba3` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:226 | doc_type:owners_manual
 Set auto parking or not upon power off.
 Active unlocking upon approaching
 Set active unlocking upon approaching on/off.
@@ -18013,7 +16475,6 @@ With the function on, when the driver is approaching the vehicle with smart key/
 will be automatically unlocked.
 
 ### Driver
-`hongqi_hs5_en_ae2ae05d` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:226 | doc_type:owners_manual
 assistance
 Head up
 display
@@ -18021,7 +16482,6 @@ Maintenance, etc.
 A/C off
 
 ### Automatic folding of rearview
-`hongqi_hs5_en_eed3c31c` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:226 | doc_type:owners_manual
 mirrors
 Rear seat belt unfastened
 indicator lamp
@@ -18031,35 +16491,28 @@ Mobile phone left reminding
 5
 
 ### Smart speed restriction
-`hongqi_hs5_en_3a101b96` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:227 | doc_type:owners_manual
 Set the road traffic mark identification system on/off. The default status is on.
 
 ### Speed restriction reminding
-`hongqi_hs5_en_5851e86a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:227 | doc_type:owners_manual
 Set the speed restriction reminding on/off. The default status is off.
 Vehicle speed restriction range:30-220km/h.
 
 ### Cruise mode
-`hongqi_hs5_en_9e28d8ec` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:227 | doc_type:owners_manual
 Set the cruise mode on/off. With the function on, the cruise mode can be set to ACC or SACC.
 
 ### Lane keeping assist system
-`hongqi_hs5_en_c09039d4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:227 | doc_type:owners_manual
 Set the LKA system reminding to warning or warning + correction; in addition, the lane deviation early
 warning sensitivity can be set.
 With SACC off, the lane deviation early warning sensitivity (the default is warning upon line contact) can be
 set.
 
 ### Front collision warning
-`hongqi_hs5_en_fca4592f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:227 | doc_type:owners_manual
 Set the early warning prior to collision on/off. The default status is on.
 
 ### Advanced emergency braking
-`hongqi_hs5_en_c39988f3` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:227 | doc_type:owners_manual
 Set the active emergency braking on/off. The default status is on.
 
 ### Lighting
-`hongqi_hs5_en_3eb84165` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:227 | doc_type:owners_manual
 i
 Comfort setting
 Driver
@@ -18071,7 +16524,6 @@ Maintenance, etc.
 A/C off
 
 ### Smart speed
-`hongqi_hs5_en_1fca016b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:227 | doc_type:owners_manual
 i i
 Speed limit reminder (km/h)
 Cruise mode
@@ -18080,19 +16532,15 @@ Adaptive cruise control
 226
 
 ### HUD brightness
-`hongqi_hs5_en_d9a122b2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:228 | doc_type:owners_manual
 HUD brightness setting range: -1 (MO, default value is 0.
 
 ### Cruise system
-`hongqi_hs5_en_e067873f` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:228 | doc_type:owners_manual
 Set the cruise system display on / off. The default is on.
 
 ### Smart speed restriction reminding
-`hongqi_hs5_en_1e2c5bc6` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:228 | doc_type:owners_manual
 Set the smart speed restriction reminding display on/off. The default status is on.
 
 ### Navigation
-`hongqi_hs5_en_8f674a19` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:228 | doc_type:owners_manual
 Set the navigation display on/off. The default status is on.
 Call
 Set the incoming call display on/off. The default status is on.
@@ -18100,15 +16548,12 @@ Audio
 Set the audio display on/off. The default status is on.
 
 ### Lane keeping assistance
-`hongqi_hs5_en_df9ff05b` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:228 | doc_type:owners_manual
 Set the LKA display on/off. The default status is on.
 
 ### Advanced emergency braking
-`hongqi_hs5_en_de3d2953` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:228 | doc_type:owners_manual
 Set the active emergency braking display on/off. The default status is on.
 
 ### Driver
-`hongqi_hs5_en_86e985c3` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:228 | doc_type:owners_manual
 assistance
 Head up
 display
@@ -18117,7 +16562,6 @@ HUD brightness
 Calling....
 
 ### Navigation
-`hongqi_hs5_en_8f674a19` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:228 | doc_type:owners_manual
 5.3. Navigation
 227
 5
@@ -18125,25 +16569,20 @@ Audio System
 Maintenance, etc.
 
 ### Wiper repair position
-`hongqi_hs5_en_bcb2bce5` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:229 | doc_type:owners_manual
 With the wiper maintenance position function enabled, set the wiper to maintenance position if possible.
 
 ### Maintenance notification
-`hongqi_hs5_en_48c1d358` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:229 | doc_type:owners_manual
 ■Mileage interval setting: in the setting interface, the maintenance interval mileage can be viewed and set.
 ■Time interval setting: in the setting interface, the maintenance time interval can be viewed and set.
 
 ### Average fuel consumption billing
-`hongqi_hs5_en_8a67e9e2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:229 | doc_type:owners_manual
 Set the average fuel consumption billing on/off. The default status is off.
 Touch the fuel unit price setting zone to set the unit price.
 
 ### Acceleration timer
-`hongqi_hs5_en_33b8bb50` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:229 | doc_type:owners_manual
 Set the acceleration timer on/off. The default status is off.
 
 ### Lighting
-`hongqi_hs5_en_347f695e` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:229 | doc_type:owners_manual
 setting
 Comfort setting
 Driver
@@ -18153,7 +16592,6 @@ display
 Maintenance, etc.
 
 ### Wiper repair position
-`hongqi_hs5_en_bcb2bce5` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:229 | doc_type:owners_manual
 A/C off
 Maintenance notification
 Average fuel consumption
@@ -18162,7 +16600,6 @@ Unit price of fuel (RMB
 Yuan/L)
 
 ### Mileage interval
-`hongqi_hs5_en_e4d426fb` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:229 | doc_type:owners_manual
 setting
 Time interval
 setting
@@ -18172,24 +16609,20 @@ Remaining time - day
 5.3. Navigation
 
 ### Fundamental function
-`hongqi_hs5_en_d1469642` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:230 | doc_type:owners_manual
 228
 Navigation map interface -
  Map mode interface
 
 ### Main menu
-`hongqi_hs5_en_6b50fec0` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:230 | doc_type:owners_manual
 Touch to access the main menu interface.
 Current position
 
 ### Status bar
-`hongqi_hs5_en_d42f48ff` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:230 | doc_type:owners_manual
 Touch to deploy the status bar information.
 Return
 Return audio system main interface.
 
 ### Road condition switch
-`hongqi_hs5_en_c62c7a54` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:230 | doc_type:owners_manual
 Touch to open the real time road condition.
 View mode
 Click it to switch to 2D north upward/2D head upward/3D head upward mode.
@@ -18197,7 +16630,6 @@ Scale
 It can magnify or reduce the map display scale.
 
 ### Destination
-`hongqi_hs5_en_afc0fb7e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:230 | doc_type:owners_manual
 Touch to search the destination and set navigation.
 A/C off
 *
@@ -18206,50 +16638,42 @@ A/C off
 5
 
 ### Audio System
-`hongqi_hs5_en_ceb8948b` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:231 | doc_type:owners_manual
 ■Navigation mode interface
 Distance to next intersection and road name
 Display the remaining distance to the next intersection and the road name at the next intersection.
 
 ### Lane information
-`hongqi_hs5_en_457af374` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:231 | doc_type:owners_manual
 Display the information of lane in which the vehicle is.
 
 ### Navigation status bar
-`hongqi_hs5_en_7ac1f127` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:231 | doc_type:owners_manual
 Touch to deploy the status bar information.
 Name of front road
 Display the name of road to access.
 
 ### Hawk view map road condition and progress
-`hongqi_hs5_en_1c7a02a8` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:231 | doc_type:owners_manual
 Display the road condition in the navigation route and the navigation progress.
 Hawk view map + full travel overview
 Display the entire navigation route map.
 
 ### Turn arrowhead
-`hongqi_hs5_en_31dfd7fb` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:231 | doc_type:owners_manual
 Display the advance direct of next intersection.
 A/C off
 *
 5.3. Navigation
 
 ### Using the navigation
-`hongqi_hs5_en_c58b3f90` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:232 | doc_type:owners_manual
 230
 Main Menu
 Touch the screen key
 on the navigation interface to access the main menu interface.
 
 ### Return
-`hongqi_hs5_en_76ecb059` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:232 | doc_type:owners_manual
 Click it to enter the map mode interface.
 Login
 In the case of on-board unit connecting network, the user can log in and synchronize the guidance information
 with the phone.
 
 ### Favorite
-`hongqi_hs5_en_f9ce3010` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:232 | doc_type:owners_manual
 Click it to enter the favorites interface for quickly navigation with the favorites.
 Off-line data
 Click it to enter the off line data interface to manage the offline data.
@@ -18257,15 +16681,12 @@ Set
 Touch to set the route planning, voice broadcast and map display in the Settings interface.
 
 ### My car
-`hongqi_hs5_en_41707fa9` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:232 | doc_type:owners_manual
 Click it to enter my vehicle interface to manage my vehicle.
 
 ### My message
-`hongqi_hs5_en_cc3a10a6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:232 | doc_type:owners_manual
 Touch to enter my message interface ■ to view and manage my messages.
 
 ### Synchronize search records with
-`hongqi_hs5_en_609733cc` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:232 | doc_type:owners_manual
 the phone and computer
 My messages
 No new message
@@ -18273,7 +16694,6 @@ Favorites
 Off-line data
 
 ### Enter the plate number and keep
-`hongqi_hs5_en_bf30d61f` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:232 | doc_type:owners_manual
 clear of limiting zone
 Set
 *
@@ -18293,7 +16713,6 @@ Bird's Nest
 Bird's Nest Cultural Center
 
 ### Search around
-`hongqi_hs5_en_fb42dea1` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:233 | doc_type:owners_manual
 Go
 Bird's Nest Parking Lot
 Ground parking lot. Beijing - Chaoyang District - Beichen East Road No.15
@@ -18313,13 +16732,11 @@ Step
 5.3. Navigation
 
 ### Using the navigation
-`hongqi_hs5_en_80414a0c` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:234 | doc_type:owners_manual
 232
 In the route planning interface, select the appropriate route and touch [start navigation].
 Note: the billing information can be displayed online.
 
 ### CAUTIONS
-`hongqi_hs5_en_4f3eeceb` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:234 | doc_type:owners_manual
 ■To reduce the risk of an accident
 ●While driving, avoid operating this system as far as possible.
 ■During driving
@@ -18348,7 +16765,6 @@ video and navigation screen within the driver's view field.
 A/C off
 
 ### Shortest distance
-`hongqi_hs5_en_1140696a` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:234 | doc_type:owners_manual
 32 minutes, 7.7km
 Start navigation.
 Shortest time
@@ -18356,7 +16772,6 @@ Shortest time
 10 traffic lights
 
 ### Highway first
-`hongqi_hs5_en_b4421359` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:234 | doc_type:owners_manual
 25 minutes, 10.0km
 Route preference
 Step
@@ -18366,7 +16781,6 @@ Step
 5
 
 ### CAUTIONS
-`hongqi_hs5_en_7a5bfb6b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:235 | doc_type:owners_manual
 ■During driving
 ●Do not disassemble this product or make modifications without permission, which may lead to accidents,
 fires, electric shocks, etc.
@@ -18381,25 +16795,22 @@ deteriorate the panel. Do not use them.
 adjusted
 The situation outside the car, which may cause accidents.
 
-### Caution
-`hongqi_hs5_en_5506af9c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:235 | doc_type:owners_manual
-At present, all vehicle navigation systems have certain limitations. Satellite conditions, road
-structure, vehicle conditions and others may affect the accuracy of vehicle positioning. This will affect
-the normal functioning of the system. If you have any questions, please contact an authorized Hong Qi
-dealer of China FAW.
-When Failure Arises
-Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
-Network connection quality
-The quality of network connection will vary due to the continuous change of antenna position, the difference
-of signal strength and the influence of nearby objects (such as trains and transmitting stations). It is difficult
-to maintain perfect reception quality.
-As navigation versions are constantly being updated, the actual operation interface may differ from
-the schematic. Please refer to the latest version.
-*
-5.4 Radio
+> ⚠️ **Внимание:** At present, all vehicle navigation systems have certain limitations. Satellite conditions, road
+> structure, vehicle conditions and others may affect the accuracy of vehicle positioning. This will affect
+> the normal functioning of the system. If you have any questions, please contact an authorized Hong Qi
+> dealer of China FAW.
+> When Failure Arises
+> Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
+> Network connection quality
+> The quality of network connection will vary due to the continuous change of antenna position, the difference
+> of signal strength and the influence of nearby objects (such as trains and transmitting stations). It is difficult
+> to maintain perfect reception quality.
+> As navigation versions are constantly being updated, the actual operation interface may differ from
+> the schematic. Please refer to the latest version.
+> *
+> 5.4 Radio
 
 ### Using the radio
-`hongqi_hs5_en_dd77ed19` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:236 | doc_type:owners_manual
 234
 Radio has two wave bands: FM and AM.
 How to enter the radio screen:
@@ -18409,7 +16820,6 @@ Calling....
 Radio
 
 ### Save favorite stations
-`hongqi_hs5_en_3c10d619` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:236 | doc_type:owners_manual
 AM/FM button
 Mute/play key
 Manually
@@ -18418,7 +16828,6 @@ Sound field
 settings
 
 ### Favorite
-`hongqi_hs5_en_b7a41700` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:236 | doc_type:owners_manual
 list/radio
 list button
 5.4. Radio
@@ -18427,13 +16836,11 @@ list button
 Audio System
 
 ### Searching for channels
-`hongqi_hs5_en_a04da270` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:237 | doc_type:owners_manual
  Manually modulating
 Touch/drag the frequency bar to carry out manual tuning.
  Manually searching
 
 ### Manually search for channels by tapping the screen buttons
-`hongqi_hs5_en_f81a0ff0` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:237 | doc_type:owners_manual
 and
 .
  Preview and select stations
@@ -18444,7 +16851,6 @@ preview.
  List update
 
 ### Touch the radio interface screen button
-`hongqi_hs5_en_ee9558dc` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:237 | doc_type:owners_manual
 to enter the radio station list interface. After selecting [AM radio
 station list] or [FM radio station list], touch the screen button
 . The system will automatically search for
@@ -18452,13 +16858,11 @@ valid radio stations in the current band and store them in the radio station lis
 to stop the search.
 
 ### Selecting channels
-`hongqi_hs5_en_d596bbcb` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:237 | doc_type:owners_manual
  List of channels
 Touch the radio interface screen key; Third, enter the station list interface and select the stations in the list to
 play.
 
 ### Collecting channels
-`hongqi_hs5_en_19872396` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:237 | doc_type:owners_manual
 The system supports to save channels in the following ways:
  Touch the button
 on the radio interface screen to store the currently playing station to the list of favorite
@@ -18470,7 +16874,6 @@ favorite station list.
 236
 
 ### Editing the list of channels
-`hongqi_hs5_en_b71782fc` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:238 | doc_type:owners_manual
  Favorite stations
 Delete radio station = in the list interface of favorite radio stations, press the screen button
 to enter the
@@ -18481,7 +16884,6 @@ to delete the selected radio station.
 The radio antenna is built into the shark fin antenna-
 
 ### CAUTIONS
-`hongqi_hs5_en_574200de` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:238 | doc_type:owners_manual
 ■ Reduce the possibility of traffic accidents
 ● While driving, avoid operating this system as far as possible.
 ● Take extra care when operating the multimedia switches on the steering wheel to prevent any accident.
@@ -18494,31 +16896,26 @@ traffic accidents.
 ● For safety, do not use this function to distract attention and hinder safe driving. Ignoring the road and
 traffic conditions will lead to accidents.
 
-### Caution
-`hongqi_hs5_en_ab87535c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:238 | doc_type:owners_manual
- Receiving sensitivity
-It is difficult to maintain perfect reception at all times due to the continually changing position of the
-antenna, differences in signal strength and surrounding objects, such as trains and transmitters.
- When Failure Arises
-Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
-5.5. Music
+> ⚠️ **Внимание:**  Receiving sensitivity
+> It is difficult to maintain perfect reception at all times due to the continually changing position of the
+> antenna, differences in signal strength and surrounding objects, such as trains and transmitters.
+>  When Failure Arises
+> Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
+> 5.5. Music
 
 ### My music play
-`hongqi_hs5_en_16848a5d` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:239 | doc_type:owners_manual
 237
 5
 Audio System
 The audio play main interface includes the artist name, track name and album cover.
 
 ### Methods for entering music interface
-`hongqi_hs5_en_539064cd` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:239 | doc_type:owners_manual
 Method 1: touch [multi-media] on the screen and select [radio] to access My music.
 Method 2: press [MOD] on the steering wheel and switch to radio interface.
 Calling....
 Radio
 
 ### Previous track button
-`hongqi_hs5_en_6c7aa159` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:239 | doc_type:owners_manual
 Pause/play button
 Next track button
 Play mode
@@ -18528,7 +16925,6 @@ Ode to the Hong Qi ... Shanghai Symphony Orchestra
 238
 
 ### Play control
-`hongqi_hs5_en_692a02fd` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:240 | doc_type:owners_manual
 ■ Pause/Play
 Tap the screen button
 /
@@ -18540,17 +16936,14 @@ Swipe left or right to switch the cover of the track to select the previous / ne
 ■ Track list
 
 ### Touch the music interface screen button
-`hongqi_hs5_en_4438830f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:240 | doc_type:owners_manual
 to enter the song list interface, select tracks in the corresponding
 media source for playing or touch the song list interface screen button
 to search tracks for playing.
 
 ### Play mode
-`hongqi_hs5_en_0dc2f3e0` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:240 | doc_type:owners_manual
 Touch the play mode button to select among single cycle, cycle play and random play modes.
 
 ### Favorite audio
-`hongqi_hs5_en_4a000816` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:240 | doc_type:owners_manual
 The system supports the following methods to save tracks:
 ■ Touch the music interface screen key
 and save the current play list to the favorite list.
@@ -18563,7 +16956,6 @@ If the favorite list is exceeded, the system will give the prompting message.
 5
 
 ### Edit favorite list
-`hongqi_hs5_en_6e7c0845` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:241 | doc_type:owners_manual
 ■ Favorite list
 Delete a music: In the favorite list interface, click the screen button
 to enter the edit mode, select the music
@@ -18572,7 +16964,6 @@ to delete the
 selected music.
 
 ### Media source
-`hongqi_hs5_en_65745356` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:241 | doc_type:owners_manual
 Touch the media source button to switch amont Favorites, Local, USB1 and USB2.
 ■ About the format
 ● The system supports audio files in the formats of WAV, MP3 and WMA.
@@ -18580,7 +16971,6 @@ Touch the media source button to switch amont Favorites, Local, USB1 and USB2.
 ●The system supports USB memory (U disk) in FAT16/FAT32/exFAT/NTFS format and does not support
 
 ### USBHUB0
-`hongqi_hs5_en_6f36130d` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:241 | doc_type:owners_manual
 ●The limit of the number of files in USB memory supports 2,500 audio and video files in formats, excluding
 formats not supported.
 ■ About Bluetooth music
@@ -18594,7 +16984,6 @@ Bluetooth mobile phone has turned on the Bluetooth music player and started play
 240
 
 ### CAUTIONS
-`hongqi_hs5_en_73937f89` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:242 | doc_type:owners_manual
 ■ Reduce the possibility of traffic accidents
 ● While driving, avoid operating this system as far as possible.
 ● Take extra care when operating the multimedia switch on the steering wheel to prevent accidents.
@@ -18607,24 +16996,21 @@ traffic accidents.
 ● For safety, do not use this function to distract attention and hinder safe driving. Ignoring the road and
 traffic conditions will lead to accidents.
 
-### Caution
-`hongqi_hs5_en_b8059aa7` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:242 | doc_type:owners_manual
- Prevent damage to USB devices and their terminals
-● Do not leave USB devices in the car. The temperature inside the car may rise and cause damage to USB
-devices.
-● When an USB device is connected, do not press or apply unnecessary pressure.
-● Do not insert foreign matter into the interface.
- Compatibility
-Some equipment may not work properly due to its own compatibility problems.
- Ensure normal system identification
-A poor quality USB device will cause the system to fail to recognize it. It is recommended to use a better
-quality USB device.
- When Failure Arises
-Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
-5.6. Bluetooth Music
+> ⚠️ **Внимание:**  Prevent damage to USB devices and their terminals
+> ● Do not leave USB devices in the car. The temperature inside the car may rise and cause damage to USB
+> devices.
+> ● When an USB device is connected, do not press or apply unnecessary pressure.
+> ● Do not insert foreign matter into the interface.
+>  Compatibility
+> Some equipment may not work properly due to its own compatibility problems.
+>  Ensure normal system identification
+> A poor quality USB device will cause the system to fail to recognize it. It is recommended to use a better
+> quality USB device.
+>  When Failure Arises
+> Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
+> 5.6. Bluetooth Music
 
 ### Bluetooth music play
-`hongqi_hs5_en_bc01f8b7` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:243 | doc_type:owners_manual
 241
 5
 Audio System
@@ -18639,13 +17025,11 @@ Calling....
 Radio
 
 ### Bluetooth music
-`hongqi_hs5_en_b393211c` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:243 | doc_type:owners_manual
 Ode to the Hong Qi ... Shanghai Symphony Orchestra
 Previous track button
 Pause/play button
 
 ### Sound field settings
-`hongqi_hs5_en_b9f09bf9` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:243 | doc_type:owners_manual
 5.6. Bluetooth Music
 242
 Play control
@@ -18656,7 +17040,6 @@ Tap the screen button
 Touch the on - screen button and both can select up/down tracks to play.
 
 ### CAUTIONS
-`hongqi_hs5_en_67b83d78` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:244 | doc_type:owners_manual
 ■ Reduce the possibility of traffic accidents
 ● While driving, avoid operating this system as far as possible.
 ● Take extra care when operating the multimedia switch on the steering wheel to prevent accidents.
@@ -18669,21 +17052,18 @@ traffic accidents.
 ● For safety, do not use this function to distract attention and hinder safe driving. Ignoring the road and
 traffic conditions will lead to accidents.
 
-### Caution
-`hongqi_hs5_en_57403a6b` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:244 | doc_type:owners_manual
- Prevent battery discharge
-Do not turn on the system for a long time when the vehicle is not started.
- Compatibility
-Some equipment may not work properly due to its own compatibility problems.
- When getting off
-Do not leave your mobile telephone or other belongings behind in the vehicle, which would be damaged
-because of temperature increase in the vehicle.
- When Failure Arises
-If the problem cannot be solved, please contact an authorized Hong Qi dealer of China FAW.
-5.7. Video
+> ⚠️ **Внимание:**  Prevent battery discharge
+> Do not turn on the system for a long time when the vehicle is not started.
+>  Compatibility
+> Some equipment may not work properly due to its own compatibility problems.
+>  When getting off
+> Do not leave your mobile telephone or other belongings behind in the vehicle, which would be damaged
+> because of temperature increase in the vehicle.
+>  When Failure Arises
+> If the problem cannot be solved, please contact an authorized Hong Qi dealer of China FAW.
+> 5.7. Video
 
 ### Video play
-`hongqi_hs5_en_76fde5e4` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:245 | doc_type:owners_manual
 243
 5
 Audio System
@@ -18693,7 +17073,6 @@ the video media source list interface and select the video to play to access the
 Pause/play button
 
 ### Return button
-`hongqi_hs5_en_7e1c62c8` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:245 | doc_type:owners_manual
 Hongqi HS5
 5.7. Video
 244
@@ -18701,7 +17080,6 @@ Play control
 ■ Pause/Play
 
 ### Tap the screen button
-`hongqi_hs5_en_aa0bf467` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:246 | doc_type:owners_manual
 /
 ■ Fast backward/fast forward
 By tapping/dragging the progress bar, you can control the play progress.
@@ -18716,7 +17094,6 @@ and
 select the up/down video file to play.
 
 ### Select the corresponding media source list and touch the screen button
-`hongqi_hs5_en_9d4f756b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:246 | doc_type:owners_manual
 to search and play.
 ■ Return
 Touch the screen button
@@ -18724,7 +17101,6 @@ in the video playing interface to return to the search or file list or file mana
 interface.
 
 ### History
-`hongqi_hs5_en_65c75382` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:246 | doc_type:owners_manual
 Delete history: in the history interface, press the screen button
 to enter editing mode, select the video to be
 deleted in the list or press the screen button [select all], press the screen button
@@ -18737,7 +17113,6 @@ The system supports MPG, MPEG, VOB, MP4, AVI, 3GP, MKV, MOV, WMV, FLV format vid
 5
 
 ### CAUTIONS
-`hongqi_hs5_en_9add365f` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:247 | doc_type:owners_manual
 ■Reduce the possibility of traffic accidents
 ● While driving, avoid operating this system as far as possible.
 ●Take extra care when operating the multimedia switch on the steering wheel to prevent accidents.
@@ -18750,24 +17125,21 @@ traffic accidents.
 ● For safety, do not use this function to distract attention and hinder safe driving. Ignoring the road and
 traffic conditions will lead to accidents.
 
-### Caution
-`hongqi_hs5_en_923e79c2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:247 | doc_type:owners_manual
- Prevent damage to USB devices and their terminals
-● Do not leave USB devices in the car. The temperature inside the car may rise and cause damage to USB
-devices.
-●When an USB device is connected, do not press or apply unnecessary pressure.
-● Do not insert foreign matter into the interface.
- Compatibility
-Some equipment may not work properly due to its own compatibility problems.
- Ensure normal system identification
-A poor quality USB device will cause the system to fail to recognize it. It is recommended to use a better
-quality USB device.
- When Failure Arises
-Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
-5.8. Images
+> ⚠️ **Внимание:**  Prevent damage to USB devices and their terminals
+> ● Do not leave USB devices in the car. The temperature inside the car may rise and cause damage to USB
+> devices.
+> ●When an USB device is connected, do not press or apply unnecessary pressure.
+> ● Do not insert foreign matter into the interface.
+>  Compatibility
+> Some equipment may not work properly due to its own compatibility problems.
+>  Ensure normal system identification
+> A poor quality USB device will cause the system to fail to recognize it. It is recommended to use a better
+> quality USB device.
+>  When Failure Arises
+> Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
+> 5.8. Images
 
 ### Image viewing
-`hongqi_hs5_en_6f792546` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:248 | doc_type:owners_manual
 246
 When a USB device with image files is connected, you can view images in the multimedia display.
 How to enter the picture viewing interface: press the screen button "Hong Qi Intelligence Link" and select
@@ -18775,7 +17147,6 @@ How to enter the picture viewing interface: press the screen button "Hong Qi Int
 browsing interface.
 
 ### Delete key
-`hongqi_hs5_en_5c1f848c` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:248 | doc_type:owners_manual
 5.8. Images
 247
 5
@@ -18789,7 +17160,6 @@ The image can be magnified and reduced by the double-finger scaling.
 ■ Rotating images
 
 ### By tapping the screen button
-`hongqi_hs5_en_fc8129e7` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:249 | doc_type:owners_manual
 or
 , you can adjust the image angle.
 The angle of swing is 90°.
@@ -18800,13 +17170,11 @@ When switching, the image is displayed in the default size.
 ■ Image list browse
 
 ### Touch the button
-`hongqi_hs5_en_148b3da1` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:249 | doc_type:owners_manual
 on the picture interface screen to enter the picture list interface and browse the pictures
 by sliding the picture list up or down.
 When an image is not viewable, the default picture or damaged ID will be displayed.
 
 ### Image editing
-`hongqi_hs5_en_3250c448` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:249 | doc_type:owners_manual
 ■ Delete image
 In the image interface, touch the screen key
 to delete the image being viewed.
@@ -18816,7 +17184,6 @@ The image cannot be deleted under USB mode.
 248
 
 ### CAUTIONS
-`hongqi_hs5_en_fda3f5d1` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:250 | doc_type:owners_manual
 ■ Reduce the possibility of traffic accidents
 ● While driving, avoid operating this system as far as possible.
 ● Take extra care when operating the multimedia switch on the steering wheel to prevent accidents.
@@ -18829,27 +17196,24 @@ traffic accidents.
 ●For safety, do not use this function to distract attention and hinder safe driving. Ignoring the road and traffic
 conditions will lead to accidents.
 
-### Caution
-`hongqi_hs5_en_32ecd1b6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:250 | doc_type:owners_manual
- Prevent damage to USB devices and their terminals
-● Do not leave USB devices in the car. The temperature inside the car may rise and cause damage to USB
-devices.
-● When the USB device is connected, do not press it or impose unnecessary pressure to it.
-● Do not insert foreign matter into the interface.
- Compatibility
-Some equipment may not work properly due to its own compatibility problems.
- Ensure normal system identification
-A poor quality USB device will cause the system to fail to recognize it. It is recommended to use a better
-quality USB device.
- When Failure Arises
-Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
-5.9. Hands-free System
-Using the hands-free system
-249
-5
+> ⚠️ **Внимание:**  Prevent damage to USB devices and their terminals
+> ● Do not leave USB devices in the car. The temperature inside the car may rise and cause damage to USB
+> devices.
+> ● When the USB device is connected, do not press it or impose unnecessary pressure to it.
+> ● Do not insert foreign matter into the interface.
+>  Compatibility
+> Some equipment may not work properly due to its own compatibility problems.
+>  Ensure normal system identification
+> A poor quality USB device will cause the system to fail to recognize it. It is recommended to use a better
+> quality USB device.
+>  When Failure Arises
+> Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
+> 5.9. Hands-free System
+> Using the hands-free system
+> 249
+> 5
 
 ### Audio System
-`hongqi_hs5_en_a3c461d7` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:251 | doc_type:owners_manual
 The hands-free system allows you to use the phone call function of a mobile telephone without touching
 it.
 The system supports Bluetooth® mobile phones. Bluetooth® is a wireless data system that enables a mobile
@@ -18857,12 +17221,10 @@ phone to wirelessly connect with a hands-free system to make/receive calls.
 ■ Phone switch
 
 ### Call hang up key
-`hongqi_hs5_en_98f6f23e` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:251 | doc_type:owners_manual
 See the following table for specific Bluetooth functions:
 Key
 
 ### Function
-`hongqi_hs5_en_7a4e4a72` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:251 | doc_type:owners_manual
 Press
 To answer the phone through Bluetooth, press the phone
 application; when there is call in, press it to answer.
@@ -18901,7 +17263,6 @@ This display may not correspond exactly with the mobile phone itself.
 5
 
 ### Audio System
-`hongqi_hs5_en_138ca528` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:253 | doc_type:owners_manual
 ■ About Bluetooth®
 Bluetooth® is the trademark for Bluetooth SIG, Inc.
 ■ Compatible type
@@ -18909,7 +17270,6 @@ The Bluetooth hands-free system is only compatible with Bluetooth mobile phones 
 passed the Bluetooth certification (SIG) and are sold through regular channels.
 
 ### CAUTIONS
-`hongqi_hs5_en_5e72d4e2` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:253 | doc_type:owners_manual
 ■ Reduce the possibility of traffic accidents
 ● While driving, avoid operating this system as far as possible.
 ● Take extra care when operating the multimedia switch on the steering wheel to prevent accidents.
@@ -18923,42 +17283,37 @@ traffic accidents.
 ● For the sake of safety, do not be distracted and thus obstruct safe driving due to this feature. Neglecting of
 roads and traffic might lead to accidents.
 
-### Caution
-`hongqi_hs5_en_37c6b94c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:253 | doc_type:owners_manual
- Compatibility
-Some equipment may not work properly due to its own compatibility problems.
- When getting off
-Do not leave your mobile telephone behind in the vehicle, which would be damaged because of temperature
-increase in the vehicle.
- When Failure Arises
-Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
-5.10. Bluetooth Telephone
-Using the Bluetooth® telephone
-252
-The system supports the functions of making and receiving calls, hanging up, checking the contacts,
-checking the call history, etc.
-There are two methods to enter into the Telephone interface:
-Method 1: Connect Bluetooth and press the button on the steering wheel to enter the phone interface.
-Method 2: connect the Bluetooth and touch the screen key [phone] to access the phone interface.
-Note: If Bluetooth is not connected, follow the guide on the screen to connect a Bluetooth phone and enter
-the Bluetooth phone interface when finished. (See P.218)
+> ⚠️ **Внимание:**  Compatibility
+> Some equipment may not work properly due to its own compatibility problems.
+>  When getting off
+> Do not leave your mobile telephone behind in the vehicle, which would be damaged because of temperature
+> increase in the vehicle.
+>  When Failure Arises
+> Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
+> 5.10. Bluetooth Telephone
+> Using the Bluetooth® telephone
+> 252
+> The system supports the functions of making and receiving calls, hanging up, checking the contacts,
+> checking the call history, etc.
+> There are two methods to enter into the Telephone interface:
+> Method 1: Connect Bluetooth and press the button on the steering wheel to enter the phone interface.
+> Method 2: connect the Bluetooth and touch the screen key [phone] to access the phone interface.
+> Note: If Bluetooth is not connected, follow the guide on the screen to connect a Bluetooth phone and enter
+> the Bluetooth phone interface when finished. (See P.218)
 
 ### Dial out button
-`hongqi_hs5_en_a6c0c7f7` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:254 | doc_type:owners_manual
 Dial
 Contacts
 Call history
 Teacher Zhang  1332332****
 
 ### Unknown
-`hongqi_hs5_en_0c32d226` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:254 | doc_type:owners_manual
 Hongqi service  1332333****
 5.10. Bluetooth Telephone
 253
 5
 
 ### Contacts
-`hongqi_hs5_en_126b36a8` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:255 | doc_type:owners_manual
 ■ Save contacts
 After the mobile telephone is bound to the Bluetooth system successfully, the system will automatically
 download the contact information from the bound telephone.
@@ -18968,7 +17323,6 @@ Press the key [contact] on the phone main interface to view the contact list of 
 ■ Introduce contacts
 
 ### The contacts can be introduced through the contact interface screen key
-`hongqi_hs5_en_c2f8dcd8` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:255 | doc_type:owners_manual
 ■ Search contacts
 The contacts can be searched through the contact interface screen key
 ■ Delete contacts
@@ -18976,12 +17330,9 @@ The system supports manually deleting a matching phone and synchronously deletin
 the system: when there are more than 4 matching phones, the previously stored contacts need to be manually
 deleted.
 
-### Caution
-`hongqi_hs5_en_1e4820b5` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:255 | doc_type:owners_manual
- Contacts will only appear on the screen if the phone supports the contacts download function.
+> ⚠️ **Внимание:**  Contacts will only appear on the screen if the phone supports the contacts download function.
 
 ### Call history
-`hongqi_hs5_en_c9d41a28` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:255 | doc_type:owners_manual
 ■ Call history downloading
 After the mobile phone is successfully bound to the bluetooth system, the system automatically downloads the
 call history information from the bound phone.
@@ -18989,15 +17340,12 @@ call history information from the bound phone.
 Through the phone main interface screen button [call history] can check the mobile phone has received.
 Missed or dialed calls.
 
-### Caution
-`hongqi_hs5_en_1e4820b5` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:255 | doc_type:owners_manual
- The call history will only be displayed on the screen if the phone supports the call history download
-function and the download is manually allowed.
-5.10. Bluetooth Telephone
-254
+> ⚠️ **Внимание:**  The call history will only be displayed on the screen if the phone supports the call history download
+> function and the download is manually allowed.
+> 5.10. Bluetooth Telephone
+> 254
 
 ### Making a call
-`hongqi_hs5_en_9ad478ac` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:256 | doc_type:owners_manual
 Methods to make a call:
 Method 1: Dial through contacts or call history.
 Method 2: Enter the number through the dialpad in the phone interface
@@ -19018,13 +17366,11 @@ Because some mobile phones do not support the private/hand-free shift, the Bluet
 during a private/hand-free shift.
 
 ### Microphone mute
-`hongqi_hs5_en_0917f18d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:256 | doc_type:owners_manual
 During the call, by tapping the screen button
 , you can shift between the microphone mute status and
 non-mute status. When the microphone is mute, the other party of the call will not listen any sound.
 
 ### Hongqi service
-`hongqi_hs5_en_520dcc63` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:256 | doc_type:owners_manual
 Incoming call....
 5.10. Bluetooth Telephone
 255
@@ -19039,7 +17385,6 @@ successfully connected. In the iunconnected state, the contact person and call h
 cannot be viewed.
 
 ### CAUTIONS
-`hongqi_hs5_en_96b2c56a` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:257 | doc_type:owners_manual
 ■Reduce the possibility of traffic accidents
 ●While driving, avoid operating this system as far as possible.
 ●Take extra care when operating the multimedia switch on the steering wheel to prevent accidents.
@@ -19053,25 +17398,21 @@ traffic accidents.
 ●For the sake of safety, do not be distracted and thus obstruct safe driving due to this feature. Neglecting of
 roads and traffic might lead to accidents.
 
-### Caution
-`hongqi_hs5_en_c6928888` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:257 | doc_type:owners_manual
-Compatibility
-Some equipment may not work properly due to its own compatibility problems.
-When getting off
-Do not leave your mobile telephone behind in the vehicle, which would be damaged because of temperature
-increase in the vehicle.
-When Failure Arises
-Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
-5.11. Voice Recognition
+> ⚠️ **Внимание:** Compatibility
+> Some equipment may not work properly due to its own compatibility problems.
+> When getting off
+> Do not leave your mobile telephone behind in the vehicle, which would be damaged because of temperature
+> increase in the vehicle.
+> When Failure Arises
+> Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
+> 5.11. Voice Recognition
 
 ### Using the voice recognition function
-`hongqi_hs5_en_f830f264` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:258 | doc_type:owners_manual
 256
 Users can achieve voice control to the system via the voice recognition function.
 Voice control functions include: radio, music, Bluetooth telephone, navigation and A/C control.
 
 ### Methods Press the steering wheel key
-`hongqi_hs5_en_6c26537f` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:258 | doc_type:owners_manual
 to trigger the speech recognition system.
 Method II: by speaking the wake-up instruction, trigger the voice recognition system.
 The voice recognition main waking words can be set in the system setting of audio system.
@@ -19080,7 +17421,6 @@ After activating the voice recognition, speak out the voice command to control t
 voice command information, refer to the help interface of voice recognition.
 
 ### Voice recognition help
-`hongqi_hs5_en_39c3b457` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:258 | doc_type:owners_manual
 Method 1: After waking up the intelligent voice system, if the user does not speak within 5s (seconds), it will
 jump directly to the voice help interface.
 Method 2: The user can say "voice help" directly to enter the voice help interface.
@@ -19091,7 +17431,6 @@ radio application to play FM88.0.
 Phone
 
 ### Navigation
-`hongqi_hs5_en_55e3fd4b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:258 | doc_type:owners_manual
 Music
 Radio
 Online radio
@@ -19101,7 +17440,6 @@ System
 settings
 
 ### Vehicle
-`hongqi_hs5_en_39c4b4e4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:258 | doc_type:owners_manual
 setting
 Scene mode
 Scene mode
@@ -19110,7 +17448,6 @@ Overall
 wake-up
 
 ### Electronic
-`hongqi_hs5_en_e2bd023b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:258 | doc_type:owners_manual
 manual
 The weather
 Train ticket
@@ -19120,7 +17457,6 @@ inquiry
 Stock
 
 ### Exit help
-`hongqi_hs5_en_de45af51` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:258 | doc_type:owners_manual
 *
 5.11. Voice Recognition
 257
@@ -19139,24 +17475,20 @@ Method 5: Touch "Flag Treasure" to slide to the left of the screen or click on t
 to exit speech recognition.
 Method 6: Say the exit command to exit the voice recognition.
 
-### Caution
-`hongqi_hs5_en_edc18cef` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:259 | doc_type:owners_manual
-The speech recognition results are for reference only.
-Please use standard and clear Mandarin, avoid use the system in a noisy environment to prevent
-incorrect recognition results.
-Try to avoid using voice recognition when driving. If using voice recognition, please try to avoid
-looking at the screen to avoid danger.
-*
-5.12. Mobile phone APP
+> ⚠️ **Внимание:** The speech recognition results are for reference only.
+> Please use standard and clear Mandarin, avoid use the system in a noisy environment to prevent
+> incorrect recognition results.
+> Try to avoid using voice recognition when driving. If using voice recognition, please try to avoid
+> looking at the screen to avoid danger.
+> *
+> 5.12. Mobile phone APP
 
 ### Using the mobile phone APP
-`hongqi_hs5_en_50f5c70f` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:260 | doc_type:owners_manual
 258
 The vehicle can be controlled and operated remotely with the mobile APP
 ■Open the logged - in mobile phone on - board Internet APP and enter the APP homepage.
 
 ### My vehicle
-`hongqi_hs5_en_5eab7f1c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:260 | doc_type:owners_manual
 Information viewing: You can view the driving behavior
 analysis, navigation, health manager and electronic
 fence, and can view the license plate number, remaining
@@ -19182,16 +17514,13 @@ Electronic fence: you can add and view electronic
 fences.
 
 ### Finding
-`hongqi_hs5_en_4b5abd9b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:260 | doc_type:owners_manual
 View and participate in interactions with recommendations, hotspots, circles, new and event information.
 
 ### Vehicle services
-`hongqi_hs5_en_11bbbd97` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:260 | doc_type:owners_manual
 It can be used to view and operate electronic manuals, electronic fences, call the road rescue, one-click call,
 violation of regulations, model showroom, test drive appointment and so on.
 
 ### Friends
-`hongqi_hs5_en_3a499832` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:260 | doc_type:owners_manual
 Chat with friends who focus on each other.
 My
 In my interface, you can operate and view check-ins, followers, fans, posts, messages, my vehicle, emergency
@@ -19203,7 +17532,6 @@ vehicle reminders, synchronous navigation, maintenance suggestions, system messa
 upgrades, my comments, marketing promotions, interactive messages, etc.
 
 ### Vehicle
-`hongqi_hs5_en_31cd9ebd` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:260 | doc_type:owners_manual
 finding
 A/C
 Window Sunroof Lamp
@@ -19219,7 +17547,6 @@ Hongqi HS5
 5
 
 ### Audio System
-`hongqi_hs5_en_0f4a7316` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:261 | doc_type:owners_manual
 Login
 By entering the mobile phone No. and your password,
 and tapping the phone screen button [Login], you can
@@ -19245,7 +17572,6 @@ the vehicle is locked.
 vehicle. After 5 minutes, the next remote starting can be carried out only when the vehicle is in the sleep state.
 
 ### Forget
-`hongqi_hs5_en_649194b6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:261 | doc_type:owners_manual
 password?
 User
 registration
@@ -19254,7 +17580,6 @@ agreement.
 Login
 
 ### Please enter your
-`hongqi_hs5_en_09137521` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:261 | doc_type:owners_manual
 password.
 Let the ideal flying
 *
@@ -19262,7 +17587,6 @@ Let the ideal flying
 260
 
 ### CAUTIONS
-`hongqi_hs5_en_844ae1b5` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:262 | doc_type:owners_manual
 ■When your mobile phone is missing
 If the mobile phone is lost, the risk of vehicle theft will obviously increase. Please keep it properly. If
 necessary, please contact an authorized Hong Qi dealer of FAW China.
@@ -19271,18 +17595,15 @@ The quality of network connection will vary due to the continuous change of ante
 of signal strength and the influence of nearby objects (such as trains and transmitting stations). It is difficult
 to maintain perfect reception quality.
 
-### Caution
-`hongqi_hs5_en_33e9f6b6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:262 | doc_type:owners_manual
-Limit length for use
-When using APPs, some functions need to be given corresponding limits, and ensure that third-party tools do
-not prohibit the network limits of APPs, otherwise the system may not work properly.
-When Failure Arises
-Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
-*
-5.13. Hongqi Smart Connect
+> ⚠️ **Внимание:** Limit length for use
+> When using APPs, some functions need to be given corresponding limits, and ensure that third-party tools do
+> not prohibit the network limits of APPs, otherwise the system may not work properly.
+> When Failure Arises
+> Contact the FAW authorized Hongqi Dealer if the fault still can not be eliminated.
+> *
+> 5.13. Hongqi Smart Connect
 
 ### Using the Hongqi Smart Connect
-`hongqi_hs5_en_92e21f0c` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:263 | doc_type:owners_manual
 261
 5
 Audio System
@@ -19292,7 +17613,6 @@ The method of entering the Hong Qi smart link interface is to press the screen b
 link".
 
 ### Baidu CarLife
-`hongqi_hs5_en_91428c48` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:263 | doc_type:owners_manual
 Baidu's CarLife function connects the mobile phone with the sound system, extending the functions inside the
 mobile phone to the use of the vehicle audio system, allowing users to enjoy convenient and efficient
 customized services inside the vehicle.
@@ -19301,7 +17621,6 @@ successfully, the display screen will display the interface of mobile phone in r
 dragging, etc. These operations are consistent with the operations on the mobile phone.
 
 ### QQ music
-`hongqi_hs5_en_11010e5d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:263 | doc_type:owners_manual
 Calling....
 Himalaya
 Video
@@ -19311,7 +17630,6 @@ Hong qi micro
 application
 
 ### Electronic
-`hongqi_hs5_en_e10f70ac` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:263 | doc_type:owners_manual
 manual
 Smart home
 Navigation
@@ -19320,7 +17638,6 @@ Calm down
 Finding
 
 ### Owner service
-`hongqi_hs5_en_0ad1a0de` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:263 | doc_type:owners_manual
 Exit
 Return to the
 car homepage
@@ -19329,20 +17646,17 @@ car homepage
 262
 
 ### Roadside Assistance
-`hongqi_hs5_en_eb5bb1d0` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:264 | doc_type:owners_manual
 When the vehicle is in trouble and needs emergency rescue, the user can contact the rescue service through
 road rescue (B-Call).
 When the background receives the user's rescue request, the rescue service will be properly arranged to solve
 the troubles for user.
 
 ### Information consulting
-`hongqi_hs5_en_9d6fd885` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:264 | doc_type:owners_manual
 When the vehicle is driven in a strange road, the navigation service can be accessed with I Call.
 When the background receives the user's navigation request, it will help the user to perform the destination
 query and navigation.
 
 ### Roadside Assistance
-`hongqi_hs5_en_eb5bb1d0` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:264 | doc_type:owners_manual
 Calling……
 Information consulting
 Calling……
@@ -19352,14 +17666,12 @@ Calling……
 5
 
 ### Hong qi micro application
-`hongqi_hs5_en_ec92eed2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:265 | doc_type:owners_manual
 Users can inquire about information, weather, violation, etc. through the Hong Qi applications, and can
 inquire about traffic and purchase.
 Select the content on the screen to enter the corresponding interface, operate and use as per the system
 prompts.
 
 ### Traffic query
-`hongqi_hs5_en_4de74276` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:265 | doc_type:owners_manual
 and purchase
 Traffic Violation
 Information
@@ -19379,7 +17691,6 @@ Recom
 mend
 
 ### Ranking list Type
-`hongqi_hs5_en_e9aea6c1` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:266 | doc_type:owners_manual
 Calling....
 Home
 Page
@@ -19394,19 +17705,16 @@ pla ing
 5
 
 ### Stop quick payment
-`hongqi_hs5_en_1e458656` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:267 | doc_type:owners_manual
 Users can pay for parking quickly by stopping the quick payment.
 Select the content on the screen to enter the corresponding interface, operate and use as per the system
 prompts.
 
 ### Smart home
-`hongqi_hs5_en_61a956c8` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:267 | doc_type:owners_manual
 Users can experience one - stop and convenient landing experience of smart home through smart home.
 Select the content on the screen to enter the corresponding interface, operate and use as per the system
 prompts.
 
 ### Nearest
-`hongqi_hs5_en_4c8136bd` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:267 | doc_type:owners_manual
 distance
 Scenes
 My car
@@ -19414,7 +17722,6 @@ Calling....
 Indoor temperature 26℃
 
 ### Main bedroom air
-`hongqi_hs5_en_51e6384c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:267 | doc_type:owners_manual
 conditioner
 Main bedroom air
 conditioner
@@ -19424,7 +17731,6 @@ Offline
 266
 
 ### Electronic manual
-`hongqi_hs5_en_992c1b92` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:268 | doc_type:owners_manual
 Select the content on the screen to enter the corresponding interface, operate and use as per the system
 prompts.
 ■CarLife phone requirements
@@ -19446,7 +17752,6 @@ The connection stability is related to the quality of mobile phone data cable. I
 please re-plug or replace it with a data cable with better quality.
 
 ### Please enter the keyword you want to
-`hongqi_hs5_en_a1b4849b` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:268 | doc_type:owners_manual
 search for.
 Calling....
 Quick start
@@ -19454,7 +17759,6 @@ Highlight
 Catalogue
 
 ### Emergency
-`hongqi_hs5_en_148ce3af` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:268 | doc_type:owners_manual
 Set
 Profile
 Titanium
@@ -19470,7 +17774,6 @@ black
 5
 
 ### CAUTIONS
-`hongqi_hs5_en_8308154f` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:269 | doc_type:owners_manual
 ■Reduce the possibility of traffic accidents
 ●While driving, avoid operating this system as far as possible.
 ●Take extra care when operating the multimedia switch on the steering wheel to prevent accidents.
@@ -19495,65 +17798,60 @@ to maintain perfect reception quality.
 5.13. Hongqi Smart Connect
 268
 
-### Caution
-`hongqi_hs5_en_575bd2c8` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:270 | doc_type:owners_manual
-The speech recognition results are for reference only.
-Please use standard and clear Putonghua and avoid using it in noisy environment to avoid incorrect
-results.
-Try to avoid using voice recognition when driving. If using voice recognition, please try to avoid
-looking at the screen to avoid danger.
-Prevent damage to USB devices and their terminals
-●Do not leave USB devices in the car. The temperature inside the car may rise and cause damage to USB
-devices.
-●When an USB device is connected, do not press or apply unnecessary pressure.
-●Do not insert any foreign matter to the port.
-Use limit
-When using CarLife, some functions need to be given corresponding limits, and ensure that third-party tools
-do not prohibit the network limits of CarLife, otherwise the system may not work properly.
-Compatibility
-Some mobile phones have their own compatibility problems and may not be able to use all the functions of
-CarLife normally.
-Ensure that the system can recognize the mobile phone normally
-It is recommended to use USB cable with good quality because poor-quality USB cable could not be
-identified by the system.
-When Failure Arises
-If the problem cannot be solved, please contact an authorized Hong Qi dealer of China FAW.
-*
-269
-6-1. Using the A/C System
-Fully automatic air conditioning system.......... 270
-• Adjust the air outlet direction and open and
-6-2. Using the Interior Lamps
-6-3. Using the Storage Units
-• Left lower guard plate sundries box .............. 286
-6-4. Other Interior Equipment
-Interior Equipment 6
-6.1 Using the A/C System
-Fully automatic A/C system
-270
-This vehicle is equipped with the dual-zone A/C system, which can set the interior temperature
-according to passengers in the vehicle by combining with the current interior temperature,
-environment temperature, sunlight intensity, vehicle speed, water temperature and other
-environmental parameters; it can provide a driving and riding environment for passengers by
-automatically regulating the air outlet temperature, A/C air volume, air outlet mode and air inlet
-mode.
-►Air conditioning operation interface of sound system
+> ⚠️ **Внимание:** The speech recognition results are for reference only.
+> Please use standard and clear Putonghua and avoid using it in noisy environment to avoid incorrect
+> results.
+> Try to avoid using voice recognition when driving. If using voice recognition, please try to avoid
+> looking at the screen to avoid danger.
+> Prevent damage to USB devices and their terminals
+> ●Do not leave USB devices in the car. The temperature inside the car may rise and cause damage to USB
+> devices.
+> ●When an USB device is connected, do not press or apply unnecessary pressure.
+> ●Do not insert any foreign matter to the port.
+> Use limit
+> When using CarLife, some functions need to be given corresponding limits, and ensure that third-party tools
+> do not prohibit the network limits of CarLife, otherwise the system may not work properly.
+> Compatibility
+> Some mobile phones have their own compatibility problems and may not be able to use all the functions of
+> CarLife normally.
+> Ensure that the system can recognize the mobile phone normally
+> It is recommended to use USB cable with good quality because poor-quality USB cable could not be
+> identified by the system.
+> When Failure Arises
+> If the problem cannot be solved, please contact an authorized Hong Qi dealer of China FAW.
+> *
+> 269
+> 6-1. Using the A/C System
+> Fully automatic air conditioning system.......... 270
+> • Adjust the air outlet direction and open and
+> 6-2. Using the Interior Lamps
+> 6-3. Using the Storage Units
+> • Left lower guard plate sundries box .............. 286
+> 6-4. Other Interior Equipment
+> Interior Equipment 6
+> 6.1 Using the A/C System
+> Fully automatic A/C system
+> 270
+> This vehicle is equipped with the dual-zone A/C system, which can set the interior temperature
+> according to passengers in the vehicle by combining with the current interior temperature,
+> environment temperature, sunlight intensity, vehicle speed, water temperature and other
+> environmental parameters; it can provide a driving and riding environment for passengers by
+> automatically regulating the air outlet temperature, A/C air volume, air outlet mode and air inlet
+> mode.
+> ►Air conditioning operation interface of sound system
 
 ### AUTO button
-`hongqi_hs5_en_d89f89f7` | hs5 | pdf_manual | tier:2 | lang:en | layer:hvac | p:272 | doc_type:owners_manual
 A/C button
 Air outlet mode button
 Natural ventilation button
 Front windshield defroster/defogger button
 
 ### Front passenger side temperature setting bar
-`hongqi_hs5_en_0586b062` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:272 | doc_type:owners_manual
 PM2.5 button
 Ion purification button
 Air volume setting button
 
 ### Synchronizing key
-`hongqi_hs5_en_15f44e39` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:272 | doc_type:owners_manual
 Internal/external circulation button
 Driver side temperature setting bar
 Touch A/C information bar at the bottom of multimedia display or swipe up to enter A/C interface. Swipe
@@ -19564,16 +17862,13 @@ reversing camera* work, you can’t enter A/C operating interface).
 6
 
 ### Interior Equipment
-`hongqi_hs5_en_8a6d09aa` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:273 | doc_type:owners_manual
 ►Air conditioning operation interface of central control panel
 
 ### AUTO button
-`hongqi_hs5_en_ce8ba33e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:273 | doc_type:owners_manual
 Front windshield defroster/defogger button
 Windshield heating button
 
 ### Air volume decrease button
-`hongqi_hs5_en_864daa9d` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:273 | doc_type:owners_manual
 Internal/external circulation button
 OFF button
 6.1 Using the A/C System
@@ -19601,7 +17896,6 @@ blowing will not be executed until warm or cool air is ready to flow.
 6
 
 ### Manual regulation
-`hongqi_hs5_en_acf793bb` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:275 | doc_type:owners_manual
 ■ Regulation of air volume
 Method 1-: After touching [AUTO] button on the
 multimedia display, its operating indicator lights up and
@@ -19647,7 +17941,6 @@ Air is blown to the feet.
 6
 
 ### Interior Equipment
-`hongqi_hs5_en_187d6811` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:277 | doc_type:owners_manual
 The airflow is blowing toward the face and feet.
 The airflow is blowing toward the feet and the
 windshield.
@@ -19666,7 +17959,6 @@ circulation mode.
 276
 
 ### CAUTIONS
-`hongqi_hs5_en_de119e37` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:278 | doc_type:owners_manual
 ■Do not use the internal circulation mode in cold or rainy weather
 Using the internal circulation mode in cold or rainy weather will lead to fogging of the car windows, thus
 blocking your sight and possibly causing serious accidents.
@@ -19674,7 +17966,6 @@ blocking your sight and possibly causing serious accidents.
 The windows might fog up more easily if internal circulation mode is used for an extended period.
 
 ### Other functions
-`hongqi_hs5_en_1d1cd4c6` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:278 | doc_type:owners_manual
 ■Front windshield defrosting/defogging
 After touching the button
 on the center control panel,
@@ -19682,7 +17973,6 @@ the operating indicator lights up, and the forced
 defrosting/defogging function of windshield is started.
 
 ### Touch the button
-`hongqi_hs5_en_5050ed39` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:278 | doc_type:owners_manual
 on the multimedia display to
 activate the forced defrosting/defogging function of
 windshield.
@@ -19693,7 +17983,6 @@ circulation mode to the external circulation mode
 automatically.
 
 ### Increase of air volume and rise of temperature can
-`hongqi_hs5_en_f8a1b7f9` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:278 | doc_type:owners_manual
 defrost/defog the front windshield as soon as possible.
 ■Window fogging up
 ●When the interior humidity raises, windows might fog up easily. Turning on the "A/C" switch will
@@ -19703,7 +17992,6 @@ dehumidify the air from the air outlet and effectively defog the windshield.
 ●The windows might fog up if internal circulation mode is used for an extended period.
 
 ### CAUTIONS
-`hongqi_hs5_en_de119e37` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:278 | doc_type:owners_manual
 ■Prevent the windshield from fogging
 ●Do not use the front windshield defroster/defogger mode during cool air operation in extremely humid
 weather. The temperature difference between the outside air and the windshield may cause fog on the outside
@@ -19715,7 +18003,6 @@ blocked, thus preventing defogging of the windshield.
 6
 
 ### Interior Equipment
-`hongqi_hs5_en_83bbb52a` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:279 | doc_type:owners_manual
 ADS anti-fog sensor
 At the running state of air conditioner, when the windshield has a fogging tendency, A/C system will enter the
 automatic anti-fogging mode, and the air volume will be appropriately increased and blow towards the
@@ -19729,12 +18016,10 @@ rain, rainstorm or other bad weather, in order to achieve rapid defogging effect
 forced defrosting/defogging function of windshield.
 
 ### Natural ventilation function
-`hongqi_hs5_en_f5e2ee03` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:279 | doc_type:owners_manual
 Touch the natural ventilation button on the multimedia display to enter the natural ventilation mode, and its
 intake mode is switched to external circulation. At this time, the compressor stops working to save the energy.
 
 ### Ion purification
-`hongqi_hs5_en_8a262739` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:279 | doc_type:owners_manual
 After touching the ion-purifying button on A/C
 operating interface of multimedia display, the button
 lights up, the ion purification function is turned on, the
@@ -19762,7 +18047,6 @@ conditioning system automatically switches to internal circulation, and prevents
 car to ensure the air quality inside the car.
 
 ### Adjusting the position of and opening and closing the air outlets
-`hongqi_hs5_en_a6b16805` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:280 | doc_type:owners_manual
 Front center outlet
 The air flow will be guided to the left side or right side,
 top or bottom.
@@ -19780,7 +18064,6 @@ Turn the knob to open or close the air vent.
 6
 
 ### Interior Equipment
-`hongqi_hs5_en_f6e4410b` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:281 | doc_type:owners_manual
 ■Remote operation of air conditioning system
 ●A/C system can be operated remotely via the mobile APP. (See P.258)
 ●When the vehicle is started remotely and the remote air conditioner is turned on at the same time, the air
@@ -19800,71 +18083,59 @@ the windshield as soon as possible to increase the air volume and temperature.
 ●During use, various odors inside and outside the vehicle may enter and accumulate in the air conditioning
 system. This may cause odor emission from the vent.
 
-### Caution
-`hongqi_hs5_en_2e743d62` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:281 | doc_type:owners_manual
-Preventing low battery power
-If the air conditioning system is not required when the vehicle is not started, please turn it off.
-6.1 Using the A/C System
+> ⚠️ **Внимание:** Preventing low battery power
+> If the air conditioning system is not required when the vehicle is not started, please turn it off.
+> 6.1 Using the A/C System
 
 ### Windshield heating
-`hongqi_hs5_en_f77b800a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:282 | doc_type:owners_manual
 280
 Touch the key. The indicator turns on to start heating the
 rear windshield and the front windshield.
 
 ### By tapping the button
-`hongqi_hs5_en_f021905a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:282 | doc_type:owners_manual
 again, the indicator goes out
 and the system stops to work.
 Tip:
 
 ### The system will automatically shut down after running
-`hongqi_hs5_en_2160a10a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:282 | doc_type:owners_manual
 for about 15min (minutes), and the system indicator
 turns off.
 ■ Front windshield heating
 The front windshield only heats the wiper stopping area.
 
 ### CAUTIONS
-`hongqi_hs5_en_a765837e` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:282 | doc_type:owners_manual
 ■ When the windshield is heated
 Do not touch the heated area. It may become very hot and cause burns.
 6.2. Using the Interior Lamps
 
 ### List of interior lamps
-`hongqi_hs5_en_7714f703` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:283 | doc_type:owners_manual
 281
 6
 Interior Equipment
 Front interior lights (see P.282)
 
 ### Welcome lamp
-`hongqi_hs5_en_6690e227` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:283 | doc_type:owners_manual
 Front reading lights (see P.282)
 Vanity mirror lamp (see P.283)
 Rear reading lights (see P.283)
 
 ### Trunk lamp
-`hongqi_hs5_en_9cb5e940` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:283 | doc_type:owners_manual
 Ambient lamp (see P.223)
 Sundries box lamp
 6.2. Using the Interior Lamps
 282
 
 ### By pressing the
-`hongqi_hs5_en_ce5c139f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:284 | doc_type:owners_manual
 button, turn on the front room
 lamp; by pressing it again, turn off the front room lamp.
 
 ### By pressing the
-`hongqi_hs5_en_ce5c139f` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:284 | doc_type:owners_manual
 button, the indicator is on, and the
 Door Linkage with the room lamp is turned on; by
 pressing it again, the Door Linkage with the room lamp
 is turned off.
 
 ### By pressing the
-`hongqi_hs5_en_ce5c139f` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:284 | doc_type:owners_manual
 button, turn on the rear map lamp;
 by pressing it again, turn off the rear map lamp.
 6.2. Using the Interior Lamps
@@ -19872,12 +18143,10 @@ by pressing it again, turn off the rear map lamp.
 6
 
 ### By pressing the
-`hongqi_hs5_en_d23ed584` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:285 | doc_type:owners_manual
 button, turn on the rear map lamp;
 by pressing it again, turn off the rear map lamp.
 
 ### By opening the sun visor and sliding open the vanity
-`hongqi_hs5_en_411d78c7` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:285 | doc_type:owners_manual
 mirror cover, the vanity mirror lamp is ON.
 By closing the vanity mirror cover, the vanity mirror
 lamp is OFF.
@@ -19886,16 +18155,13 @@ The front interior light switch is placed at the linkage position of the vehicle
 opened, the interior lighting lamp will turn on for a period of time and then turn off. Close the engine switch
 and each door, and the interior light and atmosphere light will go out for a long time.
 
-### Caution
-`hongqi_hs5_en_a188700f` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:285 | doc_type:owners_manual
- Prevent battery discharge
-Turn off the interior lights if they are not required.
-Do not leave the vanity mirror cover or doors open for a long time. Because when it is turned on, the
-corresponding interior lights will turn on, which may discharge the battery.
-6.3. Using the Storage Units
+> ⚠️ **Внимание:**  Prevent battery discharge
+> Turn off the interior lights if they are not required.
+> Do not leave the vanity mirror cover or doors open for a long time. Because when it is turned on, the
+> corresponding interior lights will turn on, which may discharge the battery.
+> 6.3. Using the Storage Units
 
 ### List of storage units
-`hongqi_hs5_en_5f706f60` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:286 | doc_type:owners_manual
 284
 Eyeglasses box (see P.289)
 Bottle rack and sundry bucket (see P.288)
@@ -19909,13 +18175,11 @@ File pocket (see P.288)
 6
 
 ### Glove box
-`hongqi_hs5_en_73629067` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:287 | doc_type:owners_manual
 By pulling the handle, open the glove box.
 When closing the glove box cover, it means securely
 locked when it “clicks”.
 
 ### CAUTIONS
-`hongqi_hs5_en_adf58099` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:287 | doc_type:owners_manual
 ■ Warning during driving
 Keep the glove box closed.
 Otherwise, personnel may be injured in case of accident or emergency braking.
@@ -19923,23 +18187,19 @@ Otherwise, personnel may be injured in case of accident or emergency braking.
 286
 
 ### Front central storage box
-`hongqi_hs5_en_cbe53d07` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:288 | doc_type:owners_manual
 Lift the storage box cover to open the storage box.
 
 ### CAUTIONS
-`hongqi_hs5_en_1f610d8c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:288 | doc_type:owners_manual
 ■ Warning during driving
 Keep the storage compartment closed.
 Otherwise, personnel may be injured in case of accident or emergency braking.
 
 ### Left lower panel glove box
-`hongqi_hs5_en_9139a80f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:288 | doc_type:owners_manual
 By pulling the handle, open the glove box.
 When you close the sundries box lid, a "click" sound
 indicates a secure lock.
 
 ### CAUTIONS
-`hongqi_hs5_en_1f610d8c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:288 | doc_type:owners_manual
 ■ Warning during driving
 Keep the storage compartment closed.
 Otherwise, personnel may be injured in case of accident or emergency braking.
@@ -19948,7 +18208,6 @@ Otherwise, personnel may be injured in case of accident or emergency braking.
 6
 
 ### Cup Holder
-`hongqi_hs5_en_b76ac2c2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:289 | doc_type:owners_manual
  Front
 Press the cup holder cover downward, and the cup
 holder cover will open automatically.
@@ -19962,7 +18221,6 @@ Put them back when not in use.
 ● Some cups might not be held there because of their size or shape.
 
 ### CAUTIONS
-`hongqi_hs5_en_388817bd` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:289 | doc_type:owners_manual
 ■ Items not suitable for placing in cup holder
 Do not place anything except cups or aluminum cans in the cup holder. Otherwise, in case of accident or
 emergency braking, such items may be thrown out of the cup holder, resulting in injury to personnel. Tighten
@@ -19976,13 +18234,11 @@ Keep the cup holder closed. Otherwise, personnel may be injured in case of accid
 288
 
 ### Bottleholder and side pocket
-`hongqi_hs5_en_b767e741` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:290 | doc_type:owners_manual
 Bottleholders and side pockets are located on doors, and
 used to place bottles, duster cloth or sundries.
 When placing bottles, tighten their lids.
 
 ### Some bottles might not be held there because of their
-`hongqi_hs5_en_18ad5456` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:290 | doc_type:owners_manual
 size or shape.
 File pocket
 File pockets are located at the lower end of the backs of
@@ -19993,12 +18249,10 @@ Used to store newspapers, magazines, etc.
 6
 
 ### Eyeglasses box
-`hongqi_hs5_en_0b597075` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:291 | doc_type:owners_manual
 Pull down the lower case lid edge, the eyeglasses box
 will open downward.
 
 ### It is used to temporarily store small items such as
-`hongqi_hs5_en_ab42b10f` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:291 | doc_type:owners_manual
 sunglasses.
 CAUTIONS
 ■ Items that should not be stored in the glasses box
@@ -20011,18 +18265,15 @@ cause injuries.
 6.3. Using the Storage Units
 
 ### Trunk appliance
-`hongqi_hs5_en_f899233b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:292 | doc_type:owners_manual
 290
 Trunk hook
 Lift the hook for immediate use.
 The cargo hook is used to secure loose items.
 
 ### CAUTIONS
-`hongqi_hs5_en_c627ffc3` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:292 | doc_type:owners_manual
 ■ Always return the goods to the stowed position when not in use.
 
 ### Luggage net pockets are located on both sides of the
-`hongqi_hs5_en_9c1df56a` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:292 | doc_type:owners_manual
 luggage compartment.
 6.4. Other interior equipment
 On-board wireless charging*
@@ -20030,16 +18281,13 @@ On-board wireless charging*
 6
 
 ### Interior Equipment
-`hongqi_hs5_en_343e701f` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:293 | doc_type:owners_manual
 The front of the central console box is equipped with a wireless charging system.
 
 ### Phones that support Qi standard wireless charging can
-`hongqi_hs5_en_0aa84480` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:293 | doc_type:owners_manual
 be placed directly in the wireless charging area for
 charging.
 
 ### Phones that do not support Qi standard wireless
-`hongqi_hs5_en_91d699eb` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:293 | doc_type:owners_manual
 charging need to be charged with a receiver.
 ■ Operating conditions for car wireless charging system
 The engine switch is in IG-ON mode.
@@ -20050,24 +18298,20 @@ off.
 ● If the charging system is faulty or its charging is abnormal, the wireless charging indicator (red) will flash.
 
 ### CAUTIONS
-`hongqi_hs5_en_0881c2fd` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:293 | doc_type:owners_manual
 ■ Before charging, remove all metal objects from the charging pad
 During wireless charging of the mobile phone, if metal objects (such as coins, keys, rings or paper clips) are
 found between the mobile phone and the charging board, please do not remove foreign matters with your
 hands immediately to avoid scalding your fingers. Please remove the mobile phone first and remove it from
 the charging board after the box is cooled.
 
-### Caution
-`hongqi_hs5_en_0b0f4946` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:293 | doc_type:owners_manual
- Charging
-● Remove all items on the wireless charging skid pad. If there are foreign matters, the system may not be
-able to charge normally.
-●The mobile phone should face up and be placed in the middle of the anti-skid mat.
- Do not place magnetic cards such as high-speed charging cards in the wireless charging area, which
-may cause demagnetization.
+> ⚠️ **Внимание:**  Charging
+> ● Remove all items on the wireless charging skid pad. If there are foreign matters, the system may not be
+> able to charge normally.
+> ●The mobile phone should face up and be placed in the middle of the anti-skid mat.
+>  Do not place magnetic cards such as high-speed charging cards in the wireless charging area, which
+> may cause demagnetization.
 
 ### Wireless charging indicator
-`hongqi_hs5_en_dd44232b` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:293 | doc_type:owners_manual
 6.4. Other Interior Equipment
 Sun visor
 292
@@ -20075,12 +18319,10 @@ Forward position
 Flip the sun visor down.
 
 ### Side position
-`hongqi_hs5_en_5af2c0ed` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:294 | doc_type:owners_manual
 Flip down the sun visor, unhook, and pull to the side.
 6.4. Other interior equipment
 
 ### File holder
-`hongqi_hs5_en_297dd0d9` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:295 | doc_type:owners_manual
 293
 6
 Interior Equipment
@@ -20088,27 +18330,21 @@ The file holder is located on the visor at the driver's
 side.
 It is used to store receipts, cards and other items.
 
-### Caution
-`hongqi_hs5_en_ea950334` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:295 | doc_type:owners_manual
- Prevent holder damage
-Do not put too many items on the file holder.
-6.4. Other Interior Equipment
+> ⚠️ **Внимание:**  Prevent holder damage
+> Do not put too many items on the file holder.
+> 6.4. Other Interior Equipment
 
 ### Vanity mirror lamp
-`hongqi_hs5_en_ab0e6506` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:296 | doc_type:owners_manual
 294
 Flip down, and slide the cover to open the vanity mirror.
 
-### Caution
-`hongqi_hs5_en_8b79cb04` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:296 | doc_type:owners_manual
- When not in use
-Keep the makeup mirror closed.
- Prevent low battery power
-When the vehicle is not started, do not turn on the makeup mirror lamp for a long time.
-6.4. Other interior equipment
+> ⚠️ **Внимание:**  When not in use
+> Keep the makeup mirror closed.
+>  Prevent low battery power
+> When the vehicle is not started, do not turn on the makeup mirror lamp for a long time.
+> 6.4. Other interior equipment
 
 ### Cigar lighter
-`hongqi_hs5_en_edcb0333` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:297 | doc_type:owners_manual
 295
 6
 Interior Equipment
@@ -20116,13 +18352,11 @@ Press down on the front cup holder cover and open it to
 connect the cigarette lighter.
 
 ### The cigarette lighter will pop up after it has been
-`hongqi_hs5_en_bbe27964` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:297 | doc_type:owners_manual
 properly preheated.
 ■ The cigarette lighter can be used when
 The engine switch is placed in "IG-ON" mode.
 
 ### CAUTIONS
-`hongqi_hs5_en_5f25434b` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:297 | doc_type:owners_manual
 ■ Avoid burns or fires
 ● Never touch the metal part of the cigarette lighter.
 ● Do not always connect the cigarette lighter, otherwise it may overheat and cause a fire.
@@ -20133,7 +18367,6 @@ Otherwise, injuries may occur in the event of an accident or sudden braking.
 6.4. Other Interior Equipment
 
 ### Power Socket
-`hongqi_hs5_en_d91f9004` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:298 | doc_type:owners_manual
 296
 ■ 12V power
 The power socket can be used for 12V accessories that run on less than 10A.
@@ -20147,27 +18380,23 @@ Located at the lower end of the rear central air vent.
 6
 
 ### Interior Equipment
-`hongqi_hs5_en_f31681fc` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:299 | doc_type:owners_manual
 ■ The power sockets can be used when
 The engine switch is placed in "IG-ON" mode -
 
-### Caution
-`hongqi_hs5_en_c3ca2adb` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:299 | doc_type:owners_manual
- Prevent the power socket from being damaged.
-Close the power socket lid when the power socket is not in use.
-Foreign objects or liquids that enter the power socket may cause a short circuit.
- Prevent fuse from blowing out
-Do not use accessories that exceed the rated voltage/current.
- Preventing low battery power
-When the vehicle is not started, please do not use the power socket for a long time if it is not necessary.
-6.4. Other Interior Equipment
-Seat temperature control*
-298
-The temperature of the seats can be adjusted separately.
-■ Front seat temperature adjusting
+> ⚠️ **Внимание:**  Prevent the power socket from being damaged.
+> Close the power socket lid when the power socket is not in use.
+> Foreign objects or liquids that enter the power socket may cause a short circuit.
+>  Prevent fuse from blowing out
+> Do not use accessories that exceed the rated voltage/current.
+>  Preventing low battery power
+> When the vehicle is not started, please do not use the power socket for a long time if it is not necessary.
+> 6.4. Other Interior Equipment
+> Seat temperature control*
+> 298
+> The temperature of the seats can be adjusted separately.
+> ■ Front seat temperature adjusting
 
 ### Press the seat heating and ventilation button to select the
-`hongqi_hs5_en_8d59f1fa` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:300 | doc_type:owners_manual
 appropriate gear.
 Level 1-3 adjustment can be realized.
 ■ Rear seat temperature adjusting
@@ -20181,7 +18410,6 @@ The engine switch is in IG-ON mode.
 6
 
 ### CAUTIONS
-`hongqi_hs5_en_4bc38012` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:301 | doc_type:owners_manual
 ■ When using the seat heater, be sure to observe the following.
 ● Special attention should be paid to the following persons sitting in a seat with the seat heater operating, to
 avoid burns:
@@ -20194,18 +18422,15 @@ Otherwise, the seat temperature will rise or fall, resulting in overheating or s
 ● If it is not necessary, please do not turn on the seat heating or ventilation function. Otherwise, passengers
 may feel too cold, overheated or cause local burns.
 
-### Caution
-`hongqi_hs5_en_3ac71f31` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:301 | doc_type:owners_manual
- Prevent damage to seat heating and ventilation system
-Do not put heavy objects that have an uneven surface on seats and do not stick sharp objects (needles, nails,
-etc.) into seats.
- When cleaning the seat
-When cleaning the seat, do not use benzene, gasoline and other organic substances. It is easy to damage the
-heater and seat covering.
-6.4. Other Interior Equipment
+> ⚠️ **Внимание:**  Prevent damage to seat heating and ventilation system
+> Do not put heavy objects that have an uneven surface on seats and do not stick sharp objects (needles, nails,
+> etc.) into seats.
+>  When cleaning the seat
+> When cleaning the seat, do not use benzene, gasoline and other organic substances. It is easy to damage the
+> heater and seat covering.
+> 6.4. Other Interior Equipment
 
 ### Rear central armrest
-`hongqi_hs5_en_e54e6b26` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:302 | doc_type:owners_manual
 300
 Pull down the armrest to use.
 Caution
@@ -20214,7 +18439,6 @@ Do not place too much strain on the armrest.
 6.4. Other interior equipment
 
 ### Roof grab handle
-`hongqi_hs5_en_9d0c099f` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:303 | doc_type:owners_manual
 301
 6
 Interior Equipment
@@ -20224,19 +18448,15 @@ When sitting on the seat, the body can be supported by
 the roof handles installed on the roof lining.
 
 ### CAUTIONS
-`hongqi_hs5_en_19989110` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:303 | doc_type:owners_manual
 ■ Roof handle
 When getting on/off the vehicle or getting out of seats, do not use roof grab handles.
 
-### Caution
-`hongqi_hs5_en_74d0f701` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:303 | doc_type:owners_manual
- Prevent damage to roof handle
-Do not hang any heavy objects or apply heavy loads on the roof handles to prevent damage to the roof
-handle.
-6.4. Other Interior Equipment
+> ⚠️ **Внимание:**  Prevent damage to roof handle
+> Do not hang any heavy objects or apply heavy loads on the roof handles to prevent damage to the roof
+> handle.
+> 6.4. Other Interior Equipment
 
 ### Coat Hook
-`hongqi_hs5_en_d6ae76a7` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:304 | doc_type:owners_manual
 302
 Hang clothes on coat hooks.
 CAUTIONS
@@ -20254,7 +18474,6 @@ Maintenance 7
 7-1. Service and maintenance
 
 ### Cleaning and protecting vehicle exterior trim
-`hongqi_hs5_en_5afcdc98` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:306 | doc_type:owners_manual
 304
 Observing the following operations helps to protect the vehicle exterior trim and keep it in the best
 condition:
@@ -20284,7 +18503,6 @@ hot weather).
 Do not use detergents containing abrasives.
 
 ### CAUTIONS
-`hongqi_hs5_en_af6d76f9` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:306 | doc_type:owners_manual
 ■ When washing the car
 Do not flush the engine compartment with water. Failure to do so may result in a short circuit of electrical
 components, which may lead to a fire.
@@ -20296,32 +18514,29 @@ get burned.
 305
 7
 
-### Caution
-`hongqi_hs5_en_486f6e7b` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:307 | doc_type:owners_manual
-■ Prevent aging of body, aging of paint and corrosion of body and components (aluminum wheels, etc.)
- The vehicle shall be cleaned immediately after the following situations occur:
-• After driving along the seaside.
-• After driving on the saline-alkali roads.
-• If the paint is attached with coal tar or resin
-• If there are dead insects, insect dung or bird dung on the paint surface.
-• After the vehicle is driven in an area polluted by soot, lampblack, mineral dust, iron powder or chemical
-substances.
-• When the vehicle is heavily dusty or muddy.
-• When liquids such as benzene and petrol splash onto the paint surface.
- If the paint is peeling or scratched, please repair it immediately.
- To prevent corrosion of the wheels, remove dirt and store in low humidity when storing the wheels.
-■ When cleaning flags
-Please wipe the flag on the cabin cover with clean water or neutral cleaning agent. It is forbidden to use
-alcohol or alcohol-containing liquid, benzene, anisole and other organic solvents for cleaning. Otherwise,
-cracks will easily occur.
-■ Cleaning of car lights
- Care should be taken when cleaning. Do not use organic detergents or hard brushes for cleaning, otherwise
-the surface of lamps may be damaged.
- Please do not wax the surface of the lights, which may damage the lampshade.
-7-1. Service and maintenance
+> ⚠️ **Внимание:** ■ Prevent aging of body, aging of paint and corrosion of body and components (aluminum wheels, etc.)
+>  The vehicle shall be cleaned immediately after the following situations occur:
+> • After driving along the seaside.
+> • After driving on the saline-alkali roads.
+> • If the paint is attached with coal tar or resin
+> • If there are dead insects, insect dung or bird dung on the paint surface.
+> • After the vehicle is driven in an area polluted by soot, lampblack, mineral dust, iron powder or chemical
+> substances.
+> • When the vehicle is heavily dusty or muddy.
+> • When liquids such as benzene and petrol splash onto the paint surface.
+>  If the paint is peeling or scratched, please repair it immediately.
+>  To prevent corrosion of the wheels, remove dirt and store in low humidity when storing the wheels.
+> ■ When cleaning flags
+> Please wipe the flag on the cabin cover with clean water or neutral cleaning agent. It is forbidden to use
+> alcohol or alcohol-containing liquid, benzene, anisole and other organic solvents for cleaning. Otherwise,
+> cracks will easily occur.
+> ■ Cleaning of car lights
+>  Care should be taken when cleaning. Do not use organic detergents or hard brushes for cleaning, otherwise
+> the surface of lamps may be damaged.
+>  Please do not wax the surface of the lights, which may damage the lampshade.
+> 7-1. Service and maintenance
 
 ### Cleaning and protecting vehicle interior trim
-`hongqi_hs5_en_331e436c` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:308 | doc_type:owners_manual
 306
 Observing the following operations helps to protect the vehicle interior trim and keep it in the best
 condition:
@@ -20360,7 +18575,6 @@ safety belts are excessively worn, worn or scratched.
 7
 
 ### CAUTIONS
-`hongqi_hs5_en_f32d75eb` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:309 | doc_type:owners_manual
 ■ Prevent water from entering the car
  Do not spill liquid into the car, otherwise it may lead to failure of electrical components or fire.
  Do not allow air bag components or wires inside the vehicle to get wet.
@@ -20370,36 +18584,33 @@ personal injury or even death.
 Do not use polishing wax or polishing detergent. The instrument panel may be reflected onto the windshield,
 obstructing the driver's vision and causing accidents, which result in serious injuries or even death.
 
-### Caution
-`hongqi_hs5_en_efcb9e6a` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:309 | doc_type:owners_manual
-■ Detergent
- Do not use the following types of cleaning agents, as this may cause the interior of the vehicle to fade or
-cause markings or damage to the paint surface:
-Organic solutions containing such as benzene or gasoline, alkaline or acidic solutions, coloring agents and
-bleaching agents.
- Do not use polishing wax or polishing detergent. Otherwise, the paint surface of the instrument panel or
-other parts in the vehicle may be damaged.
-■ Prevent the leather surface from damage
-To prevent leather surface damage and ageing, please observe the following precautions:
- Remove the dirt on the leather surface in time.
- Vehicles should not be directly exposed to the sun for a long time. Please park it in a shady and cool place,
-especially in summer.
- Do not place polyethylene, plastic products or wax items on leather trim parts, as these items may stick to
-the leather surface when the temperature inside the car increases greatly.
- If excessive moisture remains on the seat surface, the leather will harden and shrink.
-■ Floor water prevention
-Do not wash the vehicle floor with water.
-If the electrical components under the vehicle floor come into contact with water, the electrical system may be
-damaged and the vehicle body may rust.
-■ Cleaning of inner side of rear windshield
- Do not use glass cleaners to clean the rear windshield, otherwise the heating wires of the defroster of the
-rear windshield may be damaged. Wet the cloth with warm water and wipe gently in the direction parallel to
-the heating wire.
- Be careful not to scratch or damage the heating wire.
-7-2. Service
+> ⚠️ **Внимание:** ■ Detergent
+>  Do not use the following types of cleaning agents, as this may cause the interior of the vehicle to fade or
+> cause markings or damage to the paint surface:
+> Organic solutions containing such as benzene or gasoline, alkaline or acidic solutions, coloring agents and
+> bleaching agents.
+>  Do not use polishing wax or polishing detergent. Otherwise, the paint surface of the instrument panel or
+> other parts in the vehicle may be damaged.
+> ■ Prevent the leather surface from damage
+> To prevent leather surface damage and ageing, please observe the following precautions:
+>  Remove the dirt on the leather surface in time.
+>  Vehicles should not be directly exposed to the sun for a long time. Please park it in a shady and cool place,
+> especially in summer.
+>  Do not place polyethylene, plastic products or wax items on leather trim parts, as these items may stick to
+> the leather surface when the temperature inside the car increases greatly.
+>  If excessive moisture remains on the seat surface, the leather will harden and shrink.
+> ■ Floor water prevention
+> Do not wash the vehicle floor with water.
+> If the electrical components under the vehicle floor come into contact with water, the electrical system may be
+> damaged and the vehicle body may rust.
+> ■ Cleaning of inner side of rear windshield
+>  Do not use glass cleaners to clean the rear windshield, otherwise the heating wires of the defroster of the
+> rear windshield may be damaged. Wet the cloth with warm water and wipe gently in the direction parallel to
+> the heating wire.
+>  Be careful not to scratch or damage the heating wire.
+> 7-2. Service
 
 ### Maintenance instructions
-`hongqi_hs5_en_383a999c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:310 | doc_type:owners_manual
 308
 In order to ensure the safety and economy of driving, daily maintenance and periodic maintenance are
 very important. FAW recommends that you take the following maintenance measures:
@@ -20438,7 +18649,6 @@ record the maintenance information of your car and help you apply for warranty s
 7
 
 ### Maintenance
-`hongqi_hs5_en_57d6aede` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:311 | doc_type:owners_manual
 ■ Whether your car needs repair
 Watch out for changes in vehicle performance and sounds, as well as other visual warnings that indicate that
 the vehicle needs maintenance. Here are some important signs:
@@ -20459,7 +18669,6 @@ If you find any of the above signs, please contact an FAW authorized Hongqi Deal
 because your vehicle may need to be adjusted or repaired.
 
 ### CAUTIONS
-`hongqi_hs5_en_99e9f83e` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:311 | doc_type:owners_manual
 ■ If the vehicle is not properly maintained
 It may cause serious damage to the vehicle and serious injuries or even death.
 ■ Precautions for handling batteries
@@ -20477,7 +18686,6 @@ You can perform maintenance by yourself. Please be sure to follow the correct pr
 Item
 
 ### Components and tools
-`hongqi_hs5_en_fc2c027e` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:312 | doc_type:owners_manual
 Battery condition (see P.322)
 • Warm water
 • Baking soda
@@ -20507,7 +18715,6 @@ Washer fluid (see P.326)
 7
 
 ### CAUTIONS
-`hongqi_hs5_en_efc4c255` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:313 | doc_type:owners_manual
 There are a number of mechanical devices in the engine compartment that may suddenly turn, become hot, or
 start being energized. To avoid serious personal injury, please be aware of the following.
 ■ Operation on engine compartment parts
@@ -20535,32 +18742,27 @@ cooling fan may run automatically
 ■ Safety goggles
 Wear goggles to prevent objects or splashing liquid from flying in eyes.
 
-### Caution
-`hongqi_hs5_en_8bad9654` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:313 | doc_type:owners_manual
-■ If the air filter has been removed
-If the vehicle is driven after the air filter is removed, the dirt in the air may cause excessive abrasion to the
-engine. Meanwhile, back fire may also cause the engine compartment to catch fire.
-■ If the brake fluid level is too low or too high
-When the brake pads are worn or the fluid level in the brake fluid tank is high, the brake fluid level drops
-slightly. This is normal. If brake fluid needs to be frequently added to the brake fluid tank, it indicates that
-there may be a serious problem. Please contact your FAW authorized Hongqi Dealer to have your vehicle
-checked.
-7-3. Maintenance for user
+> ⚠️ **Внимание:** ■ If the air filter has been removed
+> If the vehicle is driven after the air filter is removed, the dirt in the air may cause excessive abrasion to the
+> engine. Meanwhile, back fire may also cause the engine compartment to catch fire.
+> ■ If the brake fluid level is too low or too high
+> When the brake pads are worn or the fluid level in the brake fluid tank is high, the brake fluid level drops
+> slightly. This is normal. If brake fluid needs to be frequently added to the brake fluid tank, it indicates that
+> there may be a serious problem. Please contact your FAW authorized Hongqi Dealer to have your vehicle
+> checked.
+> 7-3. Maintenance for user
 
 ### Engine compartment cover
-`hongqi_hs5_en_d62ed802` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:314 | doc_type:owners_manual
 312
 Unlock inside to open the engine compartment
 cover.
 
 ### Pull opening handle of the engine compartment
-`hongqi_hs5_en_a2a86ef4` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:314 | doc_type:owners_manual
 cover.
 The engine compartment cover will bounce slightly
 upwards.
 
 ### Dial up the opening handle of the safety hook of the
-`hongqi_hs5_en_95e4ff28` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:314 | doc_type:owners_manual
 hood and then lift up the hood.
 CAUTIONS
 ■ Check before driving
@@ -20568,18 +18770,15 @@ Check and confirm that the hood is completely closed and locked.
 If the hood is not locked properly, it may be accidentally opened while the vehicle is in motion to cause an
 accident, resulting in serious personal injury.
 
-### Caution
-`hongqi_hs5_en_44a4dbc9` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:314 | doc_type:owners_manual
-■ When closing the hood
- Do not apply excessive force. Otherwise the hood may be damaged.
- Make sure that there are no tools and objects, etc. were left in the engine compartment before closing the
-hood.
-Step
-Step
-7-3. Do-It-Yourself Maintenance
+> ⚠️ **Внимание:** ■ When closing the hood
+>  Do not apply excessive force. Otherwise the hood may be damaged.
+>  Make sure that there are no tools and objects, etc. were left in the engine compartment before closing the
+> hood.
+> Step
+> Step
+> 7-3. Do-It-Yourself Maintenance
 
 ### Engine compartment
-`hongqi_hs5_en_41278782` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:315 | doc_type:owners_manual
 313
 7
 Maintenance
@@ -20594,13 +18793,11 @@ Condenser (see P.319)
 Radiator (see P.319)
 
 ### Cooling fan
-`hongqi_hs5_en_de991eae` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:315 | doc_type:owners_manual
 Intercooler (see P.319)
 7-3. Maintenance for user
 314
 
 ### Engine compartment trim cover
-`hongqi_hs5_en_f63e89b8` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:316 | doc_type:owners_manual
 ■ Remove the engine compartment trim cover
 ■ Install the clips
 7-3. Do-It-Yourself Maintenance
@@ -20608,7 +18805,6 @@ Intercooler (see P.319)
 7
 
 ### Engine oil
-`hongqi_hs5_en_b888db82` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:317 | doc_type:owners_manual
 Check the oil level when the engine reaches operating temperature and the engine switch is turned off.
 ■ Check the oil
 Place the vehicle on the level ground. After shutting down the engine, wait 5 minutes or more for
@@ -20621,11 +18817,9 @@ Put a clean rag under the end of the dipstick, then pull out the dipstick and ch
 Low
 
 ### Full fuel level
-`hongqi_hs5_en_530814c7` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:317 | doc_type:owners_manual
 The oil level must be between the low and full marks.
 
 ### Actions must be taken timely to deal with the excessive
-`hongqi_hs5_en_4f327dde` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:317 | doc_type:owners_manual
 or insufficient oil.
 Wipe the dipstick with a cloth or paper towel, and then insert it all the way back in its tube.
 Step
@@ -20634,7 +18828,6 @@ Step
 ■ Fill the oil
 
 ### Add oil of the same rating as the existing oil in the engine if
-`hongqi_hs5_en_449c9247` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:318 | doc_type:owners_manual
 the level is at or below the lower mark.
 Be sure to determine the oil grade and prepare the required items before adding oil.
 Unscrew the oil filler cap counterclockwise and remove it.
@@ -20651,7 +18844,6 @@ Hong Qi dealers.
 Some oil containers are marked with one or two API references. For reference to select the correct oil.
 
 ### API service label
-`hongqi_hs5_en_eb79148b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:318 | doc_type:owners_manual
 Top: API (American Petroleum Institute) oil grade
 mark, such as SM
 Middle part: SAE viscosity, such as SAE 5W-30
@@ -20661,7 +18853,6 @@ ILSAC (International Lubricant Standardization and
 Approval Committee) certification mark
 
 ### Temperature range anticipated before the next oil change
-`hongqi_hs5_en_37b4a25c` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:318 | doc_type:owners_manual
 Turbocharged gasoline engine lubrication oil 5W-30
 Step
 Step
@@ -20670,7 +18861,6 @@ Step
 7
 
 ### Maintenance
-`hongqi_hs5_en_fb645945` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:319 | doc_type:owners_manual
 ■ Oil consumption
 A certain amount of engine oil is consumed during driving. Engine oil consumption may increase if one of the
 following conditions occurs. Engine oil may need to be added during oil service intervals.
@@ -20681,7 +18871,6 @@ decelerated
  When the engine is idling for a long time, or when it is frequently passing through a traffic jam
 
 ### CAUTIONS
-`hongqi_hs5_en_c3897ea4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:319 | doc_type:owners_manual
 ■ Notes on disposal of used oil
  The used oil contains potentially dangerous substances which may cause diseases (dermatitis or skin
 cancer), so avoid contacting the oil for a long time or frequently. If you get the oil on your skin, flush the skin
@@ -20691,25 +18880,21 @@ dispose of used motor oil and filters in domestic waste and the sewer or on the 
 oil recovery and disposal, please consult the China FAW authorized Hongqi distributor.
  Please do not place the used oil in places where children can reach.
 
-### Caution
-`hongqi_hs5_en_03ed02d8` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:319 | doc_type:owners_manual
-■ Prevention of serious engine damage
-Regularly check the oil level.
-■ Precautions for changing the motor oil
- Be careful not to let motor oil spilled on vehicle parts.
- Overfilling should be avoided as it will damage the engine.
- Check the oil level on the dipstick when adding the vehicle with motor oil every time
- Ensure that the filler cap is properly tightened.
-7-3. Maintenance for user
-318
+> ⚠️ **Внимание:** ■ Prevention of serious engine damage
+> Regularly check the oil level.
+> ■ Precautions for changing the motor oil
+>  Be careful not to let motor oil spilled on vehicle parts.
+>  Overfilling should be avoided as it will damage the engine.
+>  Check the oil level on the dipstick when adding the vehicle with motor oil every time
+>  Ensure that the filler cap is properly tightened.
+> 7-3. Maintenance for user
+> 318
 
 ### Engine coolant
-`hongqi_hs5_en_853bcd9e` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:320 | doc_type:owners_manual
 When the coolant level in the coolant reservoir is between the "F" (High) and L (Low) markings, the level is
 normal.
 
 ### Fluid reservoir cover
-`hongqi_hs5_en_bba5b4af` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:320 | doc_type:owners_manual
 “F” (Full)
 “L” (Low)
 If the level is below the "L" mark, add coolant to the
@@ -20721,14 +18906,12 @@ leaks.
 ■ Selection of coolant
 
 ### Use the Super Long Life Coolant for the whole year
-`hongqi_hs5_en_1211f9e1` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:320 | doc_type:owners_manual
 For more details about engine coolant, please contact FAW authorized Hongqi dealer.
 7-3. Do-It-Yourself Maintenance
 319
 7
 
 ### CAUTIONS
-`hongqi_hs5_en_4d37c41c` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:321 | doc_type:owners_manual
 ■When the engine is in hot condition
  When the engine is hot, do not add to it with coolant. The hot engine can be very dangerous. If the engine
 has ever run, the engine compartment can become extremely hot and seriously scald you.
@@ -20736,29 +18919,25 @@ has ever run, the engine compartment can become extremely hot and seriously scal
 There may be pressure inside the cooling system. Removing the radiator cap can cause the hot coolant to
 spray out, seriously scalding you or resulting in other injuries.
 
-### Caution
-`hongqi_hs5_en_0d589dea` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:321 | doc_type:owners_manual
-■ When adding coolant
-The coolant specified by China FAW must be added to ensure normal lubrication, corrosion protection and
-cooling performance.
-Please read the instructions on the coolant label.
-■ If the coolant splashes accidentally
-Be sure to flush the spilled coolant with clean water to prevent damage to the components or the vehicle
-paint.
-Radiator, condenser and intercooler
-Inspect radiators, condensers, and intercoolers, and any foreign objects should be removed.
-When the radiator, condenser or intercooler is very dirty or abnormal, please contact China FAW authorized
-Hong qi dealer to check the vehicle.
+> ⚠️ **Внимание:** ■ When adding coolant
+> The coolant specified by China FAW must be added to ensure normal lubrication, corrosion protection and
+> cooling performance.
+> Please read the instructions on the coolant label.
+> ■ If the coolant splashes accidentally
+> Be sure to flush the spilled coolant with clean water to prevent damage to the components or the vehicle
+> paint.
+> Radiator, condenser and intercooler
+> Inspect radiators, condensers, and intercoolers, and any foreign objects should be removed.
+> When the radiator, condenser or intercooler is very dirty or abnormal, please contact China FAW authorized
+> Hong qi dealer to check the vehicle.
 
 ### CAUTIONS
-`hongqi_hs5_en_4d37c41c` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:321 | doc_type:owners_manual
 ■ When the engine is in hot condition
 Do not touch the radiator, condenser or intercooler. Doing so may scald you.
 7-3. Maintenance for user
 320
 
 ### Turbocharged engine
-`hongqi_hs5_en_ebea82ec` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:322 | doc_type:owners_manual
  When the inspecting, removing, and replacing of the turbocharger is required, it must be performed after the
 engine is stopped and the turbocharger has cooled down.
  Do not drop any oil on the hot surface of the turbocharger, as this may cause a fire.
@@ -20768,7 +18947,6 @@ damage to the turbocharger.
 turbocharger is well lubricated.
 
 ### Brake fluid lid
-`hongqi_hs5_en_35a8cd24` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:322 | doc_type:owners_manual
 “MAX” (maximum)
 “MIN” (minimum)
 If the level is at or below the “MIN” mark, add the
@@ -20778,7 +18956,6 @@ brake fluid to bring it up to the “MAX” mark.
 7
 
 ### CAUTIONS
-`hongqi_hs5_en_c0064116` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:323 | doc_type:owners_manual
 ■ Recautions about brake fluid adding
  It is very dangerous when the brake fluid is spilled. If brake fluid gets into your eyes, rinse immediately
 with plenty of water and seek medical attention as soon as possible.
@@ -20790,18 +18967,15 @@ brake system. The brake may fail and cause serious accidents. If the level is to
  If the liquid level is too low, add brake fluid until the liquid level rises to the "MAX" position. Thoroughly
 clean the area around the reservoir cap before adding brake fluid.
 
-### Caution
-`hongqi_hs5_en_49056396` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:323 | doc_type:owners_manual
- Brake fluid can damage the paint surface If the paint is accidentally splashed on you, wipe it off
-immediately.
- If a non-designated brake fluid is used, it may damage the brake system. It can also cause the system
-damages to mix different brake fluids.
- For adding or replacing a new brake fluid, please contact China FAW authorized Redflag dealer.
-7-3. Maintenance for user
-322
+> ⚠️ **Внимание:**  Brake fluid can damage the paint surface If the paint is accidentally splashed on you, wipe it off
+> immediately.
+>  If a non-designated brake fluid is used, it may damage the brake system. It can also cause the system
+> damages to mix different brake fluids.
+>  For adding or replacing a new brake fluid, please contact China FAW authorized Redflag dealer.
+> 7-3. Maintenance for user
+> 322
 
 ### Battery
-`hongqi_hs5_en_f9248e76` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:324 | doc_type:owners_manual
 ■ Power Management System
 When the battery runs down, some comfort functions may be limited and disabled to ensure vehicle
 startability. When the battery power is restored to the safe range, the above comfort type functions will be
@@ -20811,7 +18985,6 @@ Ensure that the battery terminals are not corroded, the connections are not loos
 of cracks, and the fixing clips are not loosened.
 
 ### Fixing clamp
-`hongqi_hs5_en_bd74c4c1` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:324 | doc_type:owners_manual
 ■ During installation
  When wiring the battery, prevent the terminal cables from being connected reversely, otherwise the electric
 equipment in the car may be damaged.
@@ -20831,7 +19004,6 @@ danger.
 7
 
 ### Maintenance
-`hongqi_hs5_en_8295581e` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:325 | doc_type:owners_manual
 ■ Before charging
 Pay attention to the following matters before charging:
  If the in-vehicle battery is to be charged, be sure to turn off the engine switch and disconnect the grounding
@@ -20860,7 +19032,6 @@ ensure that the idle start/stop function is used normally.
 324
 
 ### CAUTIONS
-`hongqi_hs5_en_4e49d289` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:326 | doc_type:owners_manual
 ■ Chemicals in the battery
 The battery has toxic corrosive sulphuric acid and may lead to combustible and explosive hydrogen. To
 reduce the chance of serious personal injury, observe the following requirements when handling the battery
@@ -20887,13 +19058,10 @@ above measures if necessary.
 Drink large quantities of water or milk and then take magnesium oxide milk, chopped raw eggs or vegetable
 oil, and immediately call a physician.
 
-### Caution
-`hongqi_hs5_en_1da66fcd` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:326 | doc_type:owners_manual
-■ Precautions when charging the battery
-Do not charge the battery when the engine is running. Always switch off all accessories.
+> ⚠️ **Внимание:** ■ Precautions when charging the battery
+> Do not charge the battery when the engine is running. Always switch off all accessories.
 
 ### CAUTIONS
-`hongqi_hs5_en_4e49d289` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:326 | doc_type:owners_manual
 ■ Do not disconnect the negative (-) terminal on the body side
 The disconnected negative (-) terminal may contact the positive (+) terminal, causing a short circuit and
 causing serious injury or death.
@@ -20902,46 +19070,39 @@ causing serious injury or death.
 7
 
 ### If any cleaner does not work or a message appears on the
-`hongqi_hs5_en_a95cf051` | hs5 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:327 | doc_type:owners_manual
 multi-function display of the instrument cluster, the
 cleaning fluid reservoir may be empty. Please add the
 cleaning solution in time.
 
 ### CAUTIONS
-`hongqi_hs5_en_cf77bd4e` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:327 | doc_type:owners_manual
 ■ When adding cleaning solution
 Do not add washer fluid when the engine is hot or running. Otherwise, if the washer fluid is splashed on the
 engine, a fire may be caused by the alcohol in the washer fluid.
 
-### Caution
-`hongqi_hs5_en_b7346837` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:327 | doc_type:owners_manual
-■ Do not use liquids other than cleaning solution
-Do not use soapy water or engine antifreeze instead of the washer fluid. Doing so may cause sagging of the
-painted surface on the vehicle.
-■ Diluted cleaning solution
-If necessary, dilute the washer fluid with water.
-Please refer to the freezing temperature on the label of the washer fluid bottle.
-7-3. Maintenance for user
-Tire
-326
-According to the wear condition of the tire tread change the tire or perform the tire changing position.
-■ Check the tires.
+> ⚠️ **Внимание:** ■ Do not use liquids other than cleaning solution
+> Do not use soapy water or engine antifreeze instead of the washer fluid. Doing so may cause sagging of the
+> painted surface on the vehicle.
+> ■ Diluted cleaning solution
+> If necessary, dilute the washer fluid with water.
+> Please refer to the freezing temperature on the label of the washer fluid bottle.
+> 7-3. Maintenance for user
+> Tire
+> 326
+> According to the wear condition of the tire tread change the tire or perform the tire changing position.
+> ■ Check the tires.
 
 ### The replacement is needed when the tire worn to the
-`hongqi_hs5_en_d8f6852b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:328 | doc_type:owners_manual
 Wear Mark (the picture is only a schematic).
 ■ Tire changing position
 Tires should be rotated in the order shown in the figure.
 
 ### In order to make the tire wear evenly and prolong its
-`hongqi_hs5_en_ef402e64` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:328 | doc_type:owners_manual
 service life, it is recommended that you change the tire
 position after every 8,000 ~ 10,000km.
 Tips:
 1. The spare tire is a non-full-sized spare tire, which cannot be used for tire rotation but temporary use.
 
 ### 2. No spare tires have tire pressure monitoring sensors.
-`hongqi_hs5_en_90e2dc14` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:328 | doc_type:owners_manual
 3. If tire rotation finishes, configure the tire pressure monitoring system. Contact your FAW authorized
 Hongqi Dealer if necessary.
 Front
@@ -20950,7 +19111,6 @@ Front
 7
 
 ### Maintenance
-`hongqi_hs5_en_0ce6510a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:329 | doc_type:owners_manual
 ■ Protective measures for wheel malfunction
  When encountering curbs or similar obstacles, the vehicle should drive as slowly as possible parallel to the
 obstacles.
@@ -20979,7 +19139,6 @@ reduced.
 328
 
 ### CAUTIONS
-`hongqi_hs5_en_f2048a85` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:330 | doc_type:owners_manual
 ■ Precautions for inspecting or replacing tires
 To avoid damage to the components of the drive train and affecting the handling performance of the vehicle,
 which may cause accidents and serious personal injuries, follow the following precautions:
@@ -20989,17 +19148,14 @@ which may cause accidents and serious personal injuries, follow the following pr
  Do not mix tires for summer, all seasons and winter.
  Do not use tires used in other vehicles.
 
-### Caution
-`hongqi_hs5_en_e6709973` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:330 | doc_type:owners_manual
-■ Driving on rugged roads
-Exercise extreme caution when you need to drive on soft or pitted roads.
-Such roads can cause the tires to bulge due to impact, eventually causing damage to the tires.
-■ If the tire pressure lowers during driving
-Do not continue driving any longer. Doing so may cause full damage to the tires and/or wheels.
-7-3. Do-It-Yourself Maintenance
+> ⚠️ **Внимание:** ■ Driving on rugged roads
+> Exercise extreme caution when you need to drive on soft or pitted roads.
+> Such roads can cause the tires to bulge due to impact, eventually causing damage to the tires.
+> ■ If the tire pressure lowers during driving
+> Do not continue driving any longer. Doing so may cause full damage to the tires and/or wheels.
+> 7-3. Do-It-Yourself Maintenance
 
 ### Tire pressure
-`hongqi_hs5_en_1d237c87` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:331 | doc_type:owners_manual
 329
 7
 Maintenance
@@ -21034,7 +19190,6 @@ The occupant and baggage weights should be evenly distributed to balance the veh
 330
 
 ### CAUTIONS
-`hongqi_hs5_en_fb5c1b5b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:332 | doc_type:owners_manual
 ■ Proper inflation is the key to protecting the tires
 Be sure to maintain proper tire pressure. Failure to do so may cause one of the following conditions:
  Excessive wear * Uneven wear * Poor handling
@@ -21047,17 +19202,14 @@ It is dangerous to drive the vehicle under incorrect tire pressure. Improper tir
 performance and cause accidents. Check the pressure in the normal tires, but also check the pressure in the
 spare tire.
 
-### Caution
-`hongqi_hs5_en_4a4d0ab3` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:332 | doc_type:owners_manual
-■ Precautions for checking and adjusting tire pressure
-Be sure to reinstall the tire valve cap back.
-If there is no valve cover, dirt or moisture may enter the valve and cause air leakage. This may cause an
-accident.
-If the valve cap is lost, install a new one as soon as possible.
-7-3. Do-It-Yourself Maintenance
+> ⚠️ **Внимание:** ■ Precautions for checking and adjusting tire pressure
+> Be sure to reinstall the tire valve cap back.
+> If there is no valve cover, dirt or moisture may enter the valve and cause air leakage. This may cause an
+> accident.
+> If the valve cap is lost, install a new one as soon as possible.
+> 7-3. Do-It-Yourself Maintenance
 
 ### Wheels
-`hongqi_hs5_en_5d209889` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:333 | doc_type:owners_manual
 331
 7
 Maintenance
@@ -21079,7 +19231,6 @@ replacing.
  When balancing wheels, use only weights specified by FAW or equivalent products.
 
 ### CAUTIONS
-`hongqi_hs5_en_0bd896c6` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:333 | doc_type:owners_manual
 ■ When changing wheels
 Make sure the wheels are the correct size for your vehicle. Failure to do so may result in loss of control of the
 vehicle.
@@ -21101,7 +19252,6 @@ Turn the IGNITION switch OFF.
 Open the glove box.
 
 ### Remove the plastic fixing bolts on the left and right sides of
-`hongqi_hs5_en_f8eaae64` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:334 | doc_type:owners_manual
 the sundries box, disengage the limiter and flip the sundries
 box downward to the location where filter can be taken out.
 Remove the A/C filter and replace it with a new one.
@@ -21113,7 +19263,6 @@ Step
 7
 
 ### Maintenance
-`hongqi_hs5_en_2b2c5710` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:335 | doc_type:owners_manual
 ■ Chang interval time of air conditioner filter
 If the vehicle is located or often driven in a dusty area or busy traffic area, the filter should be replaced more
 often.
@@ -21122,17 +19271,14 @@ The filter may be clogged. Check the filter, and replace it if necessary.
 ■ A/C filter
 If the filter needs to be cleaned or replaced, please contact FAW authorized Hongqi dealer.
 
-### Caution
-`hongqi_hs5_en_9dced15b` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:335 | doc_type:owners_manual
-■ When using the A/C system
-Make sure the filter is installed.
-Using an A/C system without filter may cause damage to the system.
-■ When removing the filter cover
-Do not replace the air filter while the blower is running. Doing so may cause personal injury.
-7-3. Maintenance for user
+> ⚠️ **Внимание:** ■ When using the A/C system
+> Make sure the filter is installed.
+> Using an A/C system without filter may cause damage to the system.
+> ■ When removing the filter cover
+> Do not replace the air filter while the blower is running. Doing so may cause personal injury.
+> 7-3. Maintenance for user
 
 ### Replace the key battery
-`hongqi_hs5_en_41a1d780` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:336 | doc_type:owners_manual
 334
 If the smart key or card key battery is low, replace it with a new battery.
 ■ The following items are required:
@@ -21149,12 +19295,10 @@ Step
 7
 
 ### Maintenance
-`hongqi_hs5_en_aa432a8c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:337 | doc_type:owners_manual
 Remove the used cell.
 Insert a new cell with its positive pole facing down.
 
 ### Replace the battery and battery compartment into the
-`hongqi_hs5_en_2396e484` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:337 | doc_type:owners_manual
 smart key.
 ■ If the key battery is low, the following conditions will occur
  Wireless remote control function failure.
@@ -21169,23 +19313,19 @@ Battery model for the card key: CR2016
  Old batteries must be disposed of according to local regulations.
 
 ### CAUTIONS
-`hongqi_hs5_en_0e57c789` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:337 | doc_type:owners_manual
 ■ Replaced batteries and other parts
 away from the children.
 These parts are small. However, if it is swallowed by a child inadvertently, it may cause suffocation.
 
-### Caution
-`hongqi_hs5_en_efa08057` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:337 | doc_type:owners_manual
-■ To ensure that the remote key works properly after replacing the battery
-To avoid accidents, the following precautions shall be observed.
- When operating, both hands shall be dry. Otherwise, the battery may be rust.
- Do not touch or move any other parts inside the remote control key.
- Do not bend the battery terminal.
-Step
-7-3. Maintenance for user
+> ⚠️ **Внимание:** ■ To ensure that the remote key works properly after replacing the battery
+> To avoid accidents, the following precautions shall be observed.
+>  When operating, both hands shall be dry. Otherwise, the battery may be rust.
+>  Do not touch or move any other parts inside the remote control key.
+>  Do not bend the battery terminal.
+> Step
+> 7-3. Maintenance for user
 
 ### Checking and replacing the fuse
-`hongqi_hs5_en_c0af96ab` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:338 | doc_type:owners_manual
 336
 If any electrical components are not working, a fuse may have blown. In this case, check it and replace
 the fuse if necessary.
@@ -21207,7 +19347,6 @@ Step
 7
 
 ### Maintenance
-`hongqi_hs5_en_ca6da50e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:339 | doc_type:owners_manual
 If there is a trouble in the system, contact FAW authorized Hongqi dealer for specific instructions
 on which fuses to check.
 Remove the fuse with the fuse puller.
@@ -21215,7 +19354,6 @@ Check whether the fuse is blown or not.
 ▶Type A
 
 ### Blown fuse
-`hongqi_hs5_en_3f4f26d0` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:339 | doc_type:owners_manual
 ▶Type B
 Normal Fuse
 Blown fuse
@@ -21234,7 +19372,6 @@ vehicle.
 The fuse will be blown, resulting in damage to the entire harness.
 
 ### CAUTIONS
-`hongqi_hs5_en_491d650b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:340 | doc_type:owners_manual
 ■ Prevent system failure and vehicle fire
 Failure to follow the precautions below may result in serious damage / fire to the vehicle or personal injury.
  Never use fuses higher or lower than the rated amperage.
@@ -21244,18 +19381,15 @@ Never replace the fuse with a wire, even temporary replacement is not allowed, o
 serious damage or even fire.
  Do not modify fuses or fuse boxes.
 
-### Caution
-`hongqi_hs5_en_a5b490c0` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:340 | doc_type:owners_manual
- Before fuse replacement
-Please contact with the China FAW authorized Hongqi distributor to identify the cause of excessive electric
-load and repair.
-339
-8-1. Important information
-8-2. Measures to Be Taken in Emergencies
-If any abnormality is found on the vehicle ...... 347
+> ⚠️ **Внимание:**  Before fuse replacement
+> Please contact with the China FAW authorized Hongqi distributor to identify the cause of excessive electric
+> load and repair.
+> 339
+> 8-1. Important information
+> 8-2. Measures to Be Taken in Emergencies
+> If any abnormality is found on the vehicle ...... 347
 
 ### Hazard warning flashers
-`hongqi_hs5_en_bffe5f91` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:342 | doc_type:owners_manual
 340
 When the vehicle fails, stop by the roadside while using the hazard warning lights; when the vehicle
 cannot move due to a fault, place a triangle warning sign at the rear of the vehicle while turning on the
@@ -21264,14 +19398,11 @@ By pressing the emergency flasher switch, all turn signal
 lamps will flash; by pressing it again, turn the emergency
 flashers off.
 
-### Caution
-`hongqi_hs5_en_41734df7` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:342 | doc_type:owners_manual
-■ Preventing low battery power
-When the engine is not running, turn off the hazard warning lights if they are not needed.
-8-1. Essential Information
+> ⚠️ **Внимание:** ■ Preventing low battery power
+> When the engine is not running, turn off the hazard warning lights if they are not needed.
+> 8-1. Essential Information
 
 ### SOS warning
-`hongqi_hs5_en_5afcae61` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:343 | doc_type:owners_manual
 341
 8
 When Failure Arises
@@ -21280,21 +19411,18 @@ rescue, SOS indicator will change from steady light to flashing, and the backgro
 arrange a proper rescue service after receiving your call for help.
 
 ### SOS alarm switch is located at the rear of the front indoor
-`hongqi_hs5_en_75b7a590` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:343 | doc_type:owners_manual
 light.
 Caution
 ■ Use the SOS alarm switch when needed.
 8-2. Measures to Be Taken in Emergencies
 
 ### If the vehicle needs to be towed
-`hongqi_hs5_en_f75c30af` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:344 | doc_type:owners_manual
 342
 If towing is necessary, FAW recommends having your vehicle towed using a flat bed truck by the FAW
 authorized Hongqi Dealer or a commercial towing service.
 All traction must use safety chain devices and comply with local laws and regulations
 
 ### Before towing
-`hongqi_hs5_en_84eb48b7` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:344 | doc_type:owners_manual
 The following may indicate a problem with your transmission. Contact the FAW Authorized Hongqi dealer
 before towing.
 ●The engine is operating but the vehicle will not move.
@@ -21310,14 +19438,12 @@ Place the towing vehicle under the rear wheels.
 8
 
 ### When Failure Arises
-`hongqi_hs5_en_a2ed0e2a` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:345 | doc_type:owners_manual
 ■ Two-wheel drive
 Deactivate the parking brake.
 Towing with a wheel-lifting truck from the front
 Place the towing table under the front wheel.
 
 ### Using a flat bed truck
-`hongqi_hs5_en_14a292f2` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:345 | doc_type:owners_manual
 Apply the electronic parking brake, and turn off the engine
 switch.
 Stop blocks should be used under each of the 4 wheels in
@@ -21328,7 +19454,6 @@ truck to secure the vehicle.
 344
 
 ### Emergency towing
-`hongqi_hs5_en_7ad63e24` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:346 | doc_type:owners_manual
 If a tow truck is not available in an emergency, your vehicle may be temporarily towed by fastening a cable or
 chain to the emergency towing eyelets and shifting the gearbox to N. This should only be attempted on hard
 surfaced roads for short distances at low speeds.
@@ -21336,13 +19461,11 @@ A driver must be in the vehicle to steer and operate the brakes. The vehicle’s
 brakes must be in good condition.
 
 ### Emergency towing procedures
-`hongqi_hs5_en_6e2704e7` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:346 | doc_type:owners_manual
 ■ Front section
 Press the left side of the hole cover of traction ring and
 release the hole cover of traction ring.
 
 ### Insert the towing eyelet into the hole and tighten partially
-`hongqi_hs5_en_21cc3a68` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:346 | doc_type:owners_manual
 by hand.
 Tighten down the towing eyelet securely using a tire
 wrench.
@@ -21353,7 +19476,6 @@ Step
 8
 
 ### When Failure Arises
-`hongqi_hs5_en_ea49b8df` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:347 | doc_type:owners_manual
 Firmly secure the towing cable or chain onto the towing eyelet.
 Don’t damage the body.
 Enter the towed vehicle and start the engine.
@@ -21364,7 +19486,6 @@ By pressing the lower end of the towing eyelet lid, release
 the towing eyelet lid.
 
 ### Insert the towing ring in the hole and tighten it slightly by
-`hongqi_hs5_en_790cd897` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:347 | doc_type:owners_manual
 hand.
 Tighten down the towing eyelet securely using a tire
 wrench.
@@ -21378,7 +19499,6 @@ which makes steering and braking even more difficult.
 Towing eyelets are stored in the vehicle tool box. (See P.358)
 
 ### CAUTIONS
-`hongqi_hs5_en_97a561f4` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:348 | doc_type:owners_manual
 Please observe the following notes. Otherwise it will lead to serious personal injuries, even death.
 ■ While towing vehicles
 Make sure to transport vehicles when their front wheels or all the four wheels are off the ground.
@@ -21394,20 +19514,17 @@ for any operation.
 Make sure the towing eyelets securely installed.
 If not securely installed, towing eyelets may come loose during towing. It may cause an accident as a result.
 
-### Caution
-`hongqi_hs5_en_87fbfb69` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:348 | doc_type:owners_manual
-■ When towing with a wheel-lifting truck, prevent any damage to the vehicle
-When lifting the vehicle, make sure the landing end of the vehicle has enough ground clearance for towing.
-Otherwise, during towing, the vehicle might be damaged.
-■ When towing with a sling-type truck, prevent any damage to the vehicle
-Do not use any sling-type truck for towing no matter from the front or rear section of the vehicle.
-■ Prevent damage to the vehicle when using a platform truck trailer
-● Do not drive over the holding blocks, or it would damage the tires.
-● Do not tie the vehicle onto parts (e.g. the suspension) other than tires.
-8-2. Measures to Be Taken in Emergencies
+> ⚠️ **Внимание:** ■ When towing with a wheel-lifting truck, prevent any damage to the vehicle
+> When lifting the vehicle, make sure the landing end of the vehicle has enough ground clearance for towing.
+> Otherwise, during towing, the vehicle might be damaged.
+> ■ When towing with a sling-type truck, prevent any damage to the vehicle
+> Do not use any sling-type truck for towing no matter from the front or rear section of the vehicle.
+> ■ Prevent damage to the vehicle when using a platform truck trailer
+> ● Do not drive over the holding blocks, or it would damage the tires.
+> ● Do not tie the vehicle onto parts (e.g. the suspension) other than tires.
+> 8-2. Measures to Be Taken in Emergencies
 
 ### If any abnormality is found on the vehicle
-`hongqi_hs5_en_284d4065` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:349 | doc_type:owners_manual
 347
 8
 When Failure Arises
@@ -21433,47 +19550,40 @@ the exhaust pipe.)
 8-2. Measures to Be Taken in Emergencies
 
 ### If a warning lamp turns on or a warning buzzer sounds
-`hongqi_hs5_en_315c0e55` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:350 | doc_type:owners_manual
 348
 Calmly perform the following actions if any warning lamp lamps up or flashes. If the warning lamp
 lamps up or flashes and goes out subsequently, it does not necessarily mean a system fault. However, if
 this continues to occur, please contact China FAW authorized Hongqi dealer to inspect the vehicle.
 
 ### Warning lamp
-`hongqi_hs5_en_2dbf2e2d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:350 | doc_type:owners_manual
 Warning lamp/details/actions
 IHC system fault warning lamp
 ●Indicates a failure in IHC system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### Low fuel level warning lamp
-`hongqi_hs5_en_b5b2ae68` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:350 | doc_type:owners_manual
 ● Indicates that there is too little remaining fuel.
 → Refuel the vehicle.
 
 ### Engine control system fault warning lamp
-`hongqi_hs5_en_47ae7467` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:350 | doc_type:owners_manual
 ● If this warning light is still lighting after the engine started, it means that there is a
 fault in the engine control system.
 → Immediately stop the vehicle in a safe place and contact the FAW authorized
 Hongqi Dealer.
 
 ### Engine exhaust gas monitoring system fault warning lamp
-`hongqi_hs5_en_7f4f91c0` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:350 | doc_type:owners_manual
 ●If this warning light is still lighting after the engine started, it means that there is a fault
 in the exhaust gas monitoring system.
 → Immediately stop the vehicle in a safe place and contact the FAW authorized
 Hongqi Dealer.
 
 ### Battery charging fault warning lamp
-`hongqi_hs5_en_7042492c` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:350 | doc_type:owners_manual
 ●If this warning light is still lighting after the engine started, it means that there is a fault
 in the charging system.
 → Immediately stop the vehicle in a safe place and contact the FAW authorized
 Hongqi Dealer.
 
 ### Abnormal engine oil pressure warning lamp
-`hongqi_hs5_en_afe87289` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:350 | doc_type:owners_manual
 ●Indicates that the motor oil pressure is too low.
 → Immediately stop the vehicle in a safe place and contact the FAW authorized
 Hongqi Dealer.
@@ -21482,14 +19592,12 @@ Hongqi Dealer.
 8
 
 ### Warning lamp
-`hongqi_hs5_en_b0f93df8` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:351 | doc_type:owners_manual
 Warning lamp/details/actions
 Airbag system fault warning lamp
 ● Indicates a malfunction in the airbag system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### Seat belt reminder lamp
-`hongqi_hs5_en_10045a38` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:351 | doc_type:owners_manual
 ● The driver or passenger seat belt is not fastened.
 → Fasten the driver and passenger seat belts.
 Transmission system/electronic shifting system fault warning lamp
@@ -21498,41 +19606,34 @@ Transmission system/electronic shifting system fault warning lamp
 Hongqi Dealer.
 
 ### Engine immobilizer system fault warning lamp
-`hongqi_hs5_en_e2c05145` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:351 | doc_type:owners_manual
 ● Indicates that the engine anti-theft system is malfunctioning.
 → Immediately stop the vehicle in a safe place and contact the FAW authorized
 Hongqi Dealer.
 
 ### Ignition switch fault warning lamp
-`hongqi_hs5_en_157284b5` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:351 | doc_type:owners_manual
 ● engine (ignition) switch is malfunctioning
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### Key battery low warning lamp
-`hongqi_hs5_en_3dd46ed2` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:351 | doc_type:owners_manual
 ● Indicates that the key is low on power.
 → Replace the key battery.
 
 ### Electronic wiper system fault warning lamp
-`hongqi_hs5_en_df1c1154` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:351 | doc_type:owners_manual
 ● The electronic wiper system is defective.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### Bulb fault warning lamp
-`hongqi_hs5_en_f6811606` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:351 | doc_type:owners_manual
 ● Indicate that vehicle exterior lighting is failure.
 → Check the bulbs and wiring harness connectors of external lamps for faults, or
 contact China FAW authorized Hongqi dealer immediately.
 
 ### Cleaning fluid level low warning lamp
-`hongqi_hs5_en_002b1548` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:351 | doc_type:owners_manual
 ● Indicate that the cleaning fluid level is too low.
 → Add the washer fluid or contact the FAW authorized Hongqi Dealer immediately.
 8-2. Measures to Be Taken in Emergencies
 350
 
 ### Warning lamp
-`hongqi_hs5_en_eda94bee` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:352 | doc_type:owners_manual
 Warning lamp/details/actions
 Coolant high temperature warning lamp
 ● Too high temperature of coolant
@@ -21540,46 +19641,38 @@ Coolant high temperature warning lamp
 Hongqi Dealer.
 
 ### Brake system failure warning light
-`hongqi_hs5_en_80cbca4d` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:352 | doc_type:owners_manual
 ● Indicates that the brake system is faulty.
 → Immediately stop the vehicle in a safe place and contact the FAW authorized
 Hongqi Dealer. Continuing to drive the vehicle may be dangerous.
 
 ### Brake lining excessive wear warning lamp
-`hongqi_hs5_en_9f9fcd53` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:352 | doc_type:owners_manual
 ● Indicates that the brake pads are worn excessively.
 → Contact China FAW authorized Hongqi dealer immediately to check and replace
 the brake pads.
 
 ### EPS system fault warning lamp
-`hongqi_hs5_en_c93b1dfd` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:352 | doc_type:owners_manual
 ● EPS system fault warning lamp
 → Please drive the vehicle with caution and contact the FAW authorized Hongqi
 Dealer.
 
 ### EPS system serious fault warning lamp
-`hongqi_hs5_en_3ea44223` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:352 | doc_type:owners_manual
 ● EPS system fault warning lamp
 → Immediately stop the vehicle in a safe place and contact the FAW authorized
 Hongqi Dealer.
 
 ### ABS system fault warning lamp
-`hongqi_hs5_en_fdb8494b` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:352 | doc_type:owners_manual
 ● Indicates a failure in ABS system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### AUTO HOLD system fault warning lamp
-`hongqi_hs5_en_1000c51c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:352 | doc_type:owners_manual
 ● Indicates a failure in AUTO HOLD system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### Shock absorber system fault warning lamp
-`hongqi_hs5_en_0f3bef73` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:352 | doc_type:owners_manual
 ● Indicates a problem with the shock absorber system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### Constant speed cruise system fault warning lamp
-`hongqi_hs5_en_47264382` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:352 | doc_type:owners_manual
 ● Indicates that the cruise control system is faulty.
 → Immediately contact the FAW authorized Hongqi Dealer.
 8-2. Measures to Be Taken in Emergencies
@@ -21587,7 +19680,6 @@ Hongqi Dealer.
 8
 
 ### Warning lamp
-`hongqi_hs5_en_3d954497` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:353 | doc_type:owners_manual
 Warning lamp/details/actions
 HBB system fault warning lamp
 ● Indicates a failure in HBB system.
@@ -21595,12 +19687,10 @@ HBB system fault warning lamp
 Hongqi Dealer.
 
 ### Electronic steering column system fault warning lamp
-`hongqi_hs5_en_4c0a5dc5` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:353 | doc_type:owners_manual
 ● Indicates that the electronic steering column adjustment system is faulty.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### EPB system fault warning lamp
-`hongqi_hs5_en_ed154cf5` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:353 | doc_type:owners_manual
 ● Indicates a failure in EPB system.
 → Immediately stop the vehicle in a safe place and contact the FAW authorized
 Hongqi Dealer.
@@ -21610,12 +19700,10 @@ Abnormal tire pressure/system fault warning lamp
 Hongqi Dealer.
 
 ### FCW system fault warning lamp
-`hongqi_hs5_en_4eda2c73` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:353 | doc_type:owners_manual
 ● Indicates a failure in FCW system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### AEB system fault alarm light
-`hongqi_hs5_en_42f43a8b` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:353 | doc_type:owners_manual
 ● Indicates a failure in AEB system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 LDW/LKA system fault warning lamp
@@ -21623,31 +19711,26 @@ LDW/LKA system fault warning lamp
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### BSD system fault warning lamp
-`hongqi_hs5_en_c7a8c9cf` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:353 | doc_type:owners_manual
 ● Indicates a failure in BSD system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### HDC system fault warning lamp
-`hongqi_hs5_en_c665d0dd` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:353 | doc_type:owners_manual
 ● Indicates a failure in HDC system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 8-2. Measures to Be Taken in Emergencies
 352
 
 ### Warning lamp
-`hongqi_hs5_en_ef1b53e5` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:354 | doc_type:owners_manual
 Warning lamp/details/actions
 Passive start system fault warning lamp
 ●Indicates that there is a malfunction in the smart start system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### IFC system camera fault warning light
-`hongqi_hs5_en_44e3d1c9` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:354 | doc_type:owners_manual
 ● Indicates a failure in IHC system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### TSR system fault warning lamp
-`hongqi_hs5_en_5ce23a99` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:354 | doc_type:owners_manual
 ●Indicates that the TSR system is faulty.
 → Immediately contact the FAW authorized Hongqi Dealer.
 Automatic driving light / automatic wiper function fault warning lamp
@@ -21659,7 +19742,6 @@ Adaptive cruise control (ACC) fault warning light
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### Seat memory fault alarm light
-`hongqi_hs5_en_31df9425` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:354 | doc_type:owners_manual
 ●Indicates a malfunction in the seat memory function.
 → Immediately contact the FAW authorized Hongqi Dealer.
 Four-wheel system fault warning lamp
@@ -21671,12 +19753,10 @@ Idle start-stop system fault warning lamp
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### Driving mode selection system fault warning lamp
-`hongqi_hs5_en_0538e8eb` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:354 | doc_type:owners_manual
 Indicates a failure in the driving mode selection.
 → Immediately contact the FAW authorized Hongqi Dealer.
 
 ### SACC system steering assistance fault warning lamp
-`hongqi_hs5_en_bc91e926` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:354 | doc_type:owners_manual
 ● Indicates a failure in SACC system.
 → Immediately contact the FAW authorized Hongqi Dealer.
 8-2. Measures to Be Taken in Emergencies
@@ -21684,7 +19764,6 @@ Indicates a failure in the driving mode selection.
 8
 
 ### Warning lamp
-`hongqi_hs5_en_12eabbf4` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:355 | doc_type:owners_manual
 Warning lamp/details/actions
 Headlight height automatic adjustment system fault warning indicator
 ● Indicates that the headlamp beam height automatic adjustment system is faulty.
@@ -21694,12 +19773,10 @@ buzzer rings.
 8-2. Measures to Be Taken in Emergencies
 
 ### In the case of a flat tire
-`hongqi_hs5_en_d68c941d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:356 | doc_type:owners_manual
 354
 Remove the flat tire and replace it with the spare.
 
 ### CAUTIONS
-`hongqi_hs5_en_0f4ebe32` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:356 | doc_type:owners_manual
 ■ Do not drive a vehicle with a flat tire
 ● Do not continue driving with a flat tire.
 ● Driving even a short distance with a flat tire can damage the tire and the wheel beyond repair, causing an
@@ -21715,7 +19792,6 @@ accident.
 8
 
 ### When Failure Arises
-`hongqi_hs5_en_1d2289a9` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:357 | doc_type:owners_manual
 Jack
 Warning triangle
 Tire wrench
@@ -21723,13 +19799,11 @@ Towing eyelet
 Vehicle tool box
 
 ### Reflective vest assembly
-`hongqi_hs5_en_20ad6e96` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:357 | doc_type:owners_manual
 Dismantling tool for wheel decoration cover*
 8-2. Measures to Be Taken in Emergencies
 356
 
 ### Take out the spare tire
-`hongqi_hs5_en_3a8baf5f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:358 | doc_type:owners_manual
 Take out the carpet floor.
 Take out the vehicle tool box.
 Disconnect the speaker connector.
@@ -21737,7 +19811,6 @@ Use a tire wrench to loosen and remove the fixture, and
 take out the speaker.
 
 ### Unscrew and remove the spare tire fasteners to take out the
-`hongqi_hs5_en_3cda873a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:358 | doc_type:owners_manual
 spare tire.
 Step
 8-2. Measures to Be Taken in Emergencies
@@ -21745,17 +19818,14 @@ Step
 8
 
 ### CAUTIONS
-`hongqi_hs5_en_3f85fbe6` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:359 | doc_type:owners_manual
 ■ When accessing the spare tire
 Be careful, and do not let your finger or other body part between the spare tire of the vehicle body.
 
 ### Flat tire replacement
-`hongqi_hs5_en_a9b58bef` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:359 | doc_type:owners_manual
 Use holding blocks to wedge the tire.
 Wheel with air leakage
 
 ### Tire Block Position
-`hongqi_hs5_en_9a5e5fde` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:359 | doc_type:owners_manual
 Front
 wheel
 Left
@@ -21796,7 +19866,6 @@ Step
 8
 
 ### CAUTIONS
-`hongqi_hs5_en_a0e1db06` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:361 | doc_type:owners_manual
 ■ Replace the flat tire
 ● Do not touch the area around the wheels or the brake immediately after driving.
 After driving, the area around the wheels or the brake will be very hot. When changing tires, touching these
@@ -21817,14 +19886,12 @@ It might make the vehicle out of control and lead to severe accidents.
 360
 
 ### Remove any dirt or foreign matter from the wheel
-`hongqi_hs5_en_97afc093` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:362 | doc_type:owners_manual
 contact surface.
 If foreign matter is on the wheel contact surface, the
 wheel nuts may loosen while the vehicle is in motion,
 causing the tire to come off.
 
 ### Install the wheel and tighten each wheel bolt by hand
-`hongqi_hs5_en_c2274c7e` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:362 | doc_type:owners_manual
 with the same force.
 Lower the vehicle.
 Firmly tighten each wheel nut in the order shown in the
@@ -21837,7 +19904,6 @@ Step
 8
 
 ### CAUTIONS
-`hongqi_hs5_en_a377988b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:363 | doc_type:owners_manual
 ■ After tools and jacks is used
 Before driving, make sure that all tools and jacks are firmly secured in their storage locations to reduce the
 possibility of personal injury in the event of a collision or emergency braking.
@@ -21854,16 +19920,13 @@ dealer as soon as possible after changing wheels.
 ● Have FAW authorized Hongqi dealer inspect and replace the wheel if the wheel bolt hole is damaged or
 cracked.
 
-### Caution
-`hongqi_hs5_en_46319c28` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:363 | doc_type:owners_manual
-■ Do not drive a vehicle with a flat tire
-Do not continue driving with a flat tire.
-Driving even a short distance with a flat tire can damage the tire and the wheel beyond repair, causing an
-accident.
-8-2. Measures to Be Taken in Emergencies
+> ⚠️ **Внимание:** ■ Do not drive a vehicle with a flat tire
+> Do not continue driving with a flat tire.
+> Driving even a short distance with a flat tire can damage the tire and the wheel beyond repair, causing an
+> accident.
+> 8-2. Measures to Be Taken in Emergencies
 
 ### If the engine cannot be started
-`hongqi_hs5_en_0f3dc23a` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:364 | doc_type:owners_manual
 362
 If the engine does not start even after performing the correct starting procedure (see P.121), consider
 the following reasons.
@@ -21890,7 +19953,6 @@ If the fault cannot be rectified or repaired, please contact China FAW authorize
 8-2. Measures to Be Taken in Emergencies
 
 ### If the key is lost
-`hongqi_hs5_en_3a5c6af9` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:365 | doc_type:owners_manual
 363
 8
 When Failure Arises
@@ -21900,7 +19962,6 @@ unauthorized spare parts may cause system failure.
 8-2. Measures to Be Taken in Emergencies
 
 ### If the key does not work properly
-`hongqi_hs5_en_a3735824` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:366 | doc_type:owners_manual
 364
 If the communication between the smart key and the vehicle is interrupted (see P.85) or the smart key
 cannot be used due to insufficient battery power, the smart entry and wireless remote control functions
@@ -21911,14 +19972,12 @@ Open the door keyhole cover using the mechanical key.
 Lock and unlock the vehicle using the mechanical key.
 
 ### Unlocking door
-`hongqi_hs5_en_811b39af` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:366 | doc_type:owners_manual
 8-2. Measures to Be Taken in Emergencies
 365
 8
 When Failure Arises
 
 ### Backup starting mode
-`hongqi_hs5_en_1ab652d1` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:367 | doc_type:owners_manual
 When the key battery is low, a backup start mode is required.
 Shift the gear position to P gear, step the brake pedal down, and then press the engine switch.
 At this time, the multi-function display of combination meter prompts that the key can't be recognized.
@@ -21932,7 +19991,6 @@ Step
 8-2. Measures to Be Taken in Emergencies
 
 ### If the battery is low
-`hongqi_hs5_en_1370e0db` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:368 | doc_type:owners_manual
 366
 The following procedures may be used to start the engine if the vehicle's battery is discharged.
 Contact the FAW authorized Hongqi dealer or a qualified repair shop.
@@ -21941,7 +19999,6 @@ engine can be jump started with the following steps.
 Remove the battery trim cover and open the positive cap.
 
 ### Connect the jumper cables
-`hongqi_hs5_en_f23b75e2` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:368 | doc_type:owners_manual
 Connect to the positive (+) battery terminal on your vehicle.
 Connect to the positive (+) battery terminal on the second vehicle.
 Connect to the negative (-) battery terminal on the second vehicle.
@@ -21959,7 +20016,6 @@ Step
 8
 
 ### When Failure Arises
-`hongqi_hs5_en_9bea593a` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:369 | doc_type:owners_manual
 ■ To prevent battery depletion
 ● Turn off the headlamps and the audio system while the engine is off.
 ● Turn off all unnecessary electronics when the vehicle travels at low speeds for a prolonged period of time
@@ -21979,7 +20035,6 @@ larger capacity.
 the vehicle is idle for a short period of time.
 
 ### CAUTIONS
-`hongqi_hs5_en_a2065eef` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:369 | doc_type:owners_manual
 ■ When disassembling the battery terminals
 ● Be sure to remove the negative ㈠ terminal first. If any metal in the surrounding area is contacted when
 the positive (+) terminal is removed, a spark may be generated, a fire may be caused, and an electric shock
@@ -22000,7 +20055,6 @@ battery and cause personal injury.
 368
 
 ### CAUTIONS
-`hongqi_hs5_en_de7ebaf3` | hs5 | pdf_manual | tier:2 | lang:en | layer:body | p:370 | doc_type:owners_manual
 ■ Battery precautions
 The battery contains poisonous and corrosive acidic electrolyte. Observe the following precautions when
 handling the battery:
@@ -22018,17 +20072,14 @@ the cable may get stuck and cause serious personal injury.
 If the battery gets aged, its continued use may cause the foul gas emission of battery, which may harm the
 occupants' health. Please contact the FAW authorized Hongqi dealer as soon as possible by then.
 
-### Caution
-`hongqi_hs5_en_795f7a1e` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:370 | doc_type:owners_manual
-■ When Jumper Cable is Operated
-●When connecting or disconnecting the jumper cable, be careful not to get the cable entangled with the
-cooling fan or engine belt.
-● Only one 12 V auxiliary battery can be used. Otherwise, it may damage 12 V starter, ignition system, and
-other electrical components.
-8-2. Measures to Be Taken in Emergencies
+> ⚠️ **Внимание:** ■ When Jumper Cable is Operated
+> ●When connecting or disconnecting the jumper cable, be careful not to get the cable entangled with the
+> cooling fan or engine belt.
+> ● Only one 12 V auxiliary battery can be used. Otherwise, it may damage 12 V starter, ignition system, and
+> other electrical components.
+> 8-2. Measures to Be Taken in Emergencies
 
 ### If the vehicle is overheating
-`hongqi_hs5_en_319f49fd` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:371 | doc_type:owners_manual
 369
 8
 When Failure Arises
@@ -22058,7 +20109,6 @@ Step
 370
 
 ### CAUTIONS
-`hongqi_hs5_en_5cc40fff` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:372 | doc_type:owners_manual
 ■ Precautions during inspection
 To prevent an accident or injury when inspecting under the engine compartment cover of your vehicle,
 observe the following precautions.
@@ -22068,19 +20118,16 @@ cover until the steam has subsided. The engine may be very hot, causing serious 
 ● Do not loosen the radiator cap while the engine and radiator are hot. Serious injuries, such as burns, may
 result from hot coolant and steam released under pressure.
 
-### Caution
-`hongqi_hs5_en_f281337f` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:372 | doc_type:owners_manual
-■ When adding engine coolant
-After the engine is fully cooled, slowly add the coolant to it. When the engine is very hot, fast filling coolant
-may damage the engine.
-■ To prevent damage to the cooling system
-Please observe the following precautions:
-● Avoid foreign objects (such as sand or dust) in the coolant.
-● Do not use any coolant additive.
-8-2. Measures to Be Taken in Emergencies
+> ⚠️ **Внимание:** ■ When adding engine coolant
+> After the engine is fully cooled, slowly add the coolant to it. When the engine is very hot, fast filling coolant
+> may damage the engine.
+> ■ To prevent damage to the cooling system
+> Please observe the following precautions:
+> ● Avoid foreign objects (such as sand or dust) in the coolant.
+> ● Do not use any coolant additive.
+> 8-2. Measures to Be Taken in Emergencies
 
 ### In case of the vehicle stuck
-`hongqi_hs5_en_19163c46` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:373 | doc_type:owners_manual
 371
 8
 When Failure Arises
@@ -22101,7 +20148,6 @@ towing" in this chapter. (See P.342)
 recommended.
 
 ### CAUTIONS
-`hongqi_hs5_en_817b3097` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:373 | doc_type:owners_manual
 ■ Try to get rid of trapping conditions
 If the forward and backward movement method is used to make the car get out of the trap, make sure that the
 surrounding area is open and smooth, so as to avoid colliding with other vehicles, objects or persons. The
@@ -22110,31 +20156,28 @@ vehicle may also lunge forward or backward suddenly as it becomes free; please p
 Do not depress the accelerating pedal by mistake during gear shifting. Otherwise, the vehicle may accelerate
 suddenly and cause serious accidents.
 
-### Caution
-`hongqi_hs5_en_0e5bf187` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:373 | doc_type:owners_manual
-■ Avoid damage to the transmission and other components
-● Do not operate the engine at high speed to prevent wheel spin.
-● If you are still unable to get rid of the trapped condition after trying these methods, you will need a trailer
-rescue.
-Step
-8-2. Measures to Be Taken in Emergencies
-If you drive on water-covered roads
-372
-The vehicle accidentally enters the water when driving on the stagnant road. Please contact China
-FAW authorized Hongqi dealer to check the following items:
-● Inspect the braking efficiency of the brake.
-● Check the oil quantity and oil quality of the engine and transmission (when the lubricating oil is cloudy, it
-means that water is mixed and should be replaced)..
-● Lubrication of transmission shaft, bearings, joints, etc.
-When driving on waterlogged roads, it is easy to cause
-the engine to stall due to water ingress and short circuit
-of electrical components. Do not try to start the engine
-after the engine has stalled; otherwise it may cause
-serious engine damage.
-8-2. Measures to Be Taken in Emergencies
+> ⚠️ **Внимание:** ■ Avoid damage to the transmission and other components
+> ● Do not operate the engine at high speed to prevent wheel spin.
+> ● If you are still unable to get rid of the trapped condition after trying these methods, you will need a trailer
+> rescue.
+> Step
+> 8-2. Measures to Be Taken in Emergencies
+> If you drive on water-covered roads
+> 372
+> The vehicle accidentally enters the water when driving on the stagnant road. Please contact China
+> FAW authorized Hongqi dealer to check the following items:
+> ● Inspect the braking efficiency of the brake.
+> ● Check the oil quantity and oil quality of the engine and transmission (when the lubricating oil is cloudy, it
+> means that water is mixed and should be replaced)..
+> ● Lubrication of transmission shaft, bearings, joints, etc.
+> When driving on waterlogged roads, it is easy to cause
+> the engine to stall due to water ingress and short circuit
+> of electrical components. Do not try to start the engine
+> after the engine has stalled; otherwise it may cause
+> serious engine damage.
+> 8-2. Measures to Be Taken in Emergencies
 
 ### In case of a punctured tire
-`hongqi_hs5_en_1ae422e6` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:375 | doc_type:owners_manual
 373
 8
 When Failure Arises
@@ -22155,19 +20198,16 @@ Bang
 8-2. Measures to Be Taken in Emergencies
 
 ### In case of an accident
-`hongqi_hs5_en_f8e59bef` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:376 | doc_type:owners_manual
 374
 Stay calm and follow the methods below:
 To prevent subsequent accidents.
 
 ### Move the vehicle to a safe area avoiding affecting the
-`hongqi_hs5_en_cf0c67b7` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:376 | doc_type:owners_manual
 traffic, and turn off the engine.
 Adopt emergency treatment measures if someone is
 injured.
 
 ### First aid should be administered before emergency
-`hongqi_hs5_en_b217ceab` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:376 | doc_type:owners_manual
 response arrives. For head injuries, do not move as
 much as possible; in consideration of prevention of
 subsequent accidents, it may be necessary to move the
@@ -22175,19 +20215,16 @@ wounded to a safe area before help arrives.
 Call the police.
 
 ### Communicate with the responsible party and request
-`hongqi_hs5_en_70ff0767` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:376 | doc_type:owners_manual
 his/her information (ID, insurance card, phone
 number).
 
 ### Contact the FAW authorized Hongqi dealer and your
-`hongqi_hs5_en_4ffc07b7` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:376 | doc_type:owners_manual
 insurance company.
 Accident site
 Accident
 condition
 
 ### Injured
-`hongqi_hs5_en_f08ecdec` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:376 | doc_type:owners_manual
 people
 8-2. Measures to Be Taken in Emergencies
 Emergency opening of trunk
@@ -22195,13 +20232,11 @@ Emergency opening of trunk
 8
 
 ### When Failure Arises
-`hongqi_hs5_en_8f35f4ed` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:377 | doc_type:owners_manual
 The following steps may be used as an emergency measure to ensure that the trunk lid can be opened:
 You can access the trunk through the folded rear right backrest.
 Open the emergency release cover on the trunk lid.
 
 ### Push the unlock pin of the trunk lid lock and open the
-`hongqi_hs5_en_e39bbea9` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:377 | doc_type:owners_manual
 trunk lid.
 CAUTIONS
 ■ Be careful when opening or closing the trunk lid by hand in case of injury!
@@ -22213,23 +20248,19 @@ is particularly severe.
 ● Use caution when opening or closing the trunk lid. Make sure no one is between the trunk lid and the door
 frame.
 
-### Caution
-`hongqi_hs5_en_ac7d9e9b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:377 | doc_type:owners_manual
-■ Prevent vehicle damage
-When opening or closing the trunk lid in emergency, carefully disassemble the parts to avoid damaging the
-vehicle.
-Step
-8-2. Measures to Be Taken in Emergencies
-376
-377
+> ⚠️ **Внимание:** ■ Prevent vehicle damage
+> When opening or closing the trunk lid in emergency, carefully disassemble the parts to avoid damaging the
+> vehicle.
+> Step
+> 8-2. Measures to Be Taken in Emergencies
+> 376
+> 377
 
 ### 9. Specifications
-`hongqi_hs5_en_f75475e6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:379 | doc_type:owners_manual
 Vehicle specification: 9
 9.Specifications
 
 ### Maintenance data
-`hongqi_hs5_en_9cdff4c1` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:380 | doc_type:owners_manual
 378
 Dimensions
 ■
@@ -22239,7 +20270,6 @@ Overall width
 1,907 mm
 
 ### Overall height
-`hongqi_hs5_en_dce78c10` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:380 | doc_type:owners_manual
 1,700 mm
 Front Overhang
 967 mm
@@ -22247,7 +20277,6 @@ Rear Overhang
 923 mm
 
 ### Wheel Base
-`hongqi_hs5_en_aa2d309c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:380 | doc_type:owners_manual
 2,870 mm
 Wheel
 Track
@@ -22263,7 +20292,6 @@ Departure angle (no load)
 。
 
 ### Seating capacity
-`hongqi_hs5_en_3027ac26` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:380 | doc_type:owners_manual
 5
 Drive mode
 ■Model No.: CA6471T, CA6472HA6T
@@ -22272,7 +20300,6 @@ Smart all-wheel drive
 ■
 
 ### Drive mode
-`hongqi_hs5_en_766b1caf` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:380 | doc_type:owners_manual
 Front-wheel drive
 Model No.: CA6471T, CA6471, CA6472HA6, CA6472HA6T
 Model No.: CA6471, CA6472HA6
@@ -22282,7 +20309,6 @@ Model No.: CA6471, CA6472HA6
 Vehicle specification:
 
 ### Curb weight
-`hongqi_hs5_en_38279b2d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:381 | doc_type:owners_manual
 ■
 Curb weight
 1,805kg
@@ -22297,7 +20323,6 @@ Rear
 ■
 
 ### Curb weight
-`hongqi_hs5_en_38279b2d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:381 | doc_type:owners_manual
 1,755kg
 Maximum permissible total mass
 2,205kg
@@ -22309,7 +20334,6 @@ Rear
 1,069kg
 
 ### Emission standards
-`hongqi_hs5_en_0b1c51d3` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:381 | doc_type:owners_manual
 ■
 Emission standards
 China VI
@@ -22317,14 +20341,12 @@ Total fuel consumption under specified test conditions
 ■
 
 ### CA4GC20TD-32
-`hongqi_hs5_en_38cc4f32` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:381 | doc_type:owners_manual
 Comprehensive fuel consumption (L / 100km)
 8.4
 ■
 ENGINE MODEL
 
 ### CA4GC20TD-32
-`hongqi_hs5_en_38cc4f32` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:381 | doc_type:owners_manual
 Comprehensive fuel consumption (L / 100km)
 7.9
 Model No.: CA6471T, CA6471, CA6472HA6, CA6472HA6T
@@ -22336,7 +20358,6 @@ Model No.: CA6471, CA6472HA6
 380
 
 ### Vehicle Performance
-`hongqi_hs5_en_accdccc2` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:382 | doc_type:owners_manual
 ■
 Maximum net power/speed
 160 kW ( kilowatt )/ (4500-5500) r/min
@@ -22346,7 +20367,6 @@ Maximum output torque/engine speed
 340 NбН / (1650-4500) r/min
 
 ### Maximum grade ability
-`hongqi_hs5_en_2e838dd9` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:382 | doc_type:owners_manual
 ≥40%
 Maxmimum speed
 204 km/h
@@ -22359,7 +20379,6 @@ Maximum output torque/engine speed
 340 NбН / (1650-4500) r/min
 
 ### Maximum grade ability
-`hongqi_hs5_en_2e838dd9` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:382 | doc_type:owners_manual
 ≥30%
 Maxmimum speed
 210km/h
@@ -22368,7 +20387,6 @@ Front-wheel camber angle
 -4'±30'
 
 ### Master pin caster angle
-`hongqi_hs5_en_fb84162a` | hs5 | pdf_manual | tier:2 | lang:en | layer:steering | p:382 | doc_type:owners_manual
 6°44'±30',
 Kingpin inclination angle
 13°59',±45'
@@ -22388,25 +20406,21 @@ Rear-wheel camber angle
 -49'±45'
 
 ### Rear wheel
-`hongqi_hs5_en_e02c8669` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:383 | doc_type:owners_manual
 ß =16':±5' 2ß=32':±10'
 Vehicle height (from the wheel center to the fender edge)
 468mm
 
 ### Suspension
-`hongqi_hs5_en_8e042f8c` | hs5 | pdf_manual | tier:2 | lang:en | layer:suspension | p:383 | doc_type:owners_manual
 ■
 Front suspension
 Type
 McPherson independent suspension
 
 ### Shock absorber type
-`hongqi_hs5_en_3c7ef693` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:383 | doc_type:owners_manual
 Double cylinder hydraulic inflatable damper / continuous
 damping damper
 
 ### Stabilizer bar
-`hongqi_hs5_en_68c4fe8c` | hs5 | pdf_manual | tier:2 | lang:en | layer:suspension | p:383 | doc_type:owners_manual
 Type
 Hollow stabilizer bar
 Diameter
@@ -22417,12 +20431,10 @@ Multi-link independent suspension with a transverse
 stabilizer bar
 
 ### Shock absorber type
-`hongqi_hs5_en_3c7ef693` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:383 | doc_type:owners_manual
 Double-cylinder hydraulic inflatable shock absorber /
 continuous damper.
 
 ### Stabilizer bar
-`hongqi_hs5_en_68c4fe8c` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:383 | doc_type:owners_manual
 Type
 Filled stabilizer bar
 Diameter
@@ -22433,14 +20445,12 @@ Model No.: CA6471T, CA6472HA6T
 ■
 
 ### Front suspension
-`hongqi_hs5_en_594c00ed` | hs5 | pdf_manual | tier:2 | lang:en | layer:suspension | p:384 | doc_type:owners_manual
 Type
 McPherson independent suspension
 Spring type
 Helical spring
 
 ### Stabilizer bar
-`hongqi_hs5_en_aea277d3` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:384 | doc_type:owners_manual
 Type
 Filled stabilizer bar
 Diameter
@@ -22451,7 +20461,6 @@ higher than 3/4 of the rated speeding. During 1000 ~ 1500km, the engine speed ca
 speed according to the road conditions.
 
 ### Vehicle Identification
-`hongqi_hs5_en_85bb605c` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:384 | doc_type:owners_manual
 ■Manufacturer’s label
 As in the figure, the manufacturer’s label is located on the
 right B-pillar.
@@ -22472,7 +20481,6 @@ identification code of a vehicle, which is used for vehicle registration.
 ►Dashboard upper left
 
 ### The sticker is affixed under the front window glass on the
-`hongqi_hs5_en_a07bed44` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:385 | doc_type:owners_manual
 upper left of the dashboard.
 ▶The bottom of the front passenger seat
 Embossed under the front passenger seat.
@@ -22487,7 +20495,6 @@ As shown in the figure, the engine number is embossed on
 the engine cylinder block.
 
 ### Engine
-`hongqi_hs5_en_3d2b179e` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:386 | doc_type:owners_manual
 Model
 CA4GC20TD-32
 Type
@@ -22495,7 +20502,6 @@ Inline four-cylinder, four-stroke, water-cooled, double overhead camshaft, 16 va
 and exhaust WT, Gasoline Direct Injection, supercharged gasoline engine
 
 ### Bore and stroke
-`hongqi_hs5_en_f863e2dc` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:386 | doc_type:owners_manual
 82.5x93 mm
 Displacement
 1.989L
@@ -22504,24 +20510,20 @@ Fuel type
 Gasoline
 
 ### Octane value
-`hongqi_hs5_en_4184cdbf` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:386 | doc_type:owners_manual
 95# or above
 Fuel tank capacity (for reference) 64L
 
 ### Lubricating system
-`hongqi_hs5_en_eb3c8310` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:386 | doc_type:owners_manual
 ■CA4GC20TD-32 gasoline engine
 Oil capacity (drain and refill)
 
 ### Filling amount after changing oil
-`hongqi_hs5_en_62b5fff6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:386 | doc_type:owners_manual
 and oil filter
 5.3L
 Filling quantity after replacing
 the oil separately
 
 ### 5L
-`hongqi_hs5_en_5af680b2` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:386 | doc_type:owners_manual
 9.Specifications
 385
 9
@@ -22529,7 +20531,6 @@ Vehicle specification:
 Oil quality grade
 
 ### Oil viscosity grade
-`hongqi_hs5_en_9dbe053e` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:387 | doc_type:owners_manual
 FAW turbocharged engine oil 5W-30
 Select
 the
@@ -22540,7 +20541,6 @@ according to the use environment
 humidity
 
 ### Cooling system
-`hongqi_hs5_en_9c565883` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:387 | doc_type:owners_manual
 ■
 Capacity
 7±0.1L
@@ -22548,20 +20548,17 @@ Coolant type
 Use long-lasting coolant (G30-91) throughout the year
 
 ### Ignition system
-`hongqi_hs5_en_33de4dc9` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:387 | doc_type:owners_manual
 ■CA4GC20TD-32 gasoline engine
 Sparking plug model
 3707010-27L
 
 ### Clearance
-`hongqi_hs5_en_1bd706f8` | hs5 | pdf_manual | tier:2 | lang:en | layer:ev | p:387 | doc_type:owners_manual
 O.6-0.7mm
 Electrical system
 Battery
 12V. 80Ah maintenance free battery
 
 ### Temperature range anticipated before the next
-`hongqi_hs5_en_bed88baf` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:387 | doc_type:owners_manual
 oil change
 Turbocharged gasoline engine lubrication oil 5W-30
 Model No.: CA6471T, CA6471, CA6472HA6, CA6472HA6T
@@ -22570,7 +20567,6 @@ Model No.: CA6471T, CA6471, CA6472HA6, CA6472HA6T
 Four-wheel drive power take-off
 
 ### Capacity
-`hongqi_hs5_en_de3fad92` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:388 | doc_type:owners_manual
 310±30mL
 Specification
 80W-90
@@ -22579,7 +20575,6 @@ Main retarder oil capacity
 480±30mL
 
 ### 80W-90
-`hongqi_hs5_en_93a19f54` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:388 | doc_type:owners_manual
 A/C refrigerant
 A/C refrigerant capacity
 550±25 9 g
@@ -22587,37 +20582,31 @@ A/C refrigerant specification
 R134a
 
 ### Transmissions
-`hongqi_hs5_en_0df6404f` | hs5 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:388 | doc_type:owners_manual
 ■Model No.: CA6471T, CA6471, CA6472HA6, CA6472HA6T
 Transmission fluid type
 6-Gear automated manual transmission
 
-### Caution
-`hongqi_hs5_en_a3bad494` | hs5 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:388 | doc_type:owners_manual
-■Automatic transmission fluid
-Use of automatic transmission oil other than the prescribed will worsen the shifting effect or burn the
-internal clutch plate of the transmission.
-Change the automatic transmission oil only when necessary.
-9.Specifications
-387
-9
-Vehicle specification:
+> ⚠️ **Внимание:** ■Automatic transmission fluid
+> Use of automatic transmission oil other than the prescribed will worsen the shifting effect or burn the
+> internal clutch plate of the transmission.
+> Change the automatic transmission oil only when necessary.
+> 9.Specifications
+> 387
+> 9
+> Vehicle specification:
 
 ### Free stroke of brake pedal
-`hongqi_hs5_en_7cceed28` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:389 | doc_type:owners_manual
 ≤8mm
 Travel of brake pedal
 120mm
 Brake fluid capacity
 
 ### 0.85±0.05L
-`hongqi_hs5_en_2e8510e0` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:389 | doc_type:owners_manual
 Brake fluid type (in accordance
 with GB12981-2012)
 DOT4
 
 ### Reasonable use range of the brake friction pair
-`hongqi_hs5_en_e470a142` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:389 | doc_type:owners_manual
 ►Front
 Pad thickness
 Standard thickness
@@ -22625,7 +20614,6 @@ Overall thickness
 18.8mm
 
 ### Thickness of friction material
-`hongqi_hs5_en_b671a61f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:389 | doc_type:owners_manual
 11.5mm
 Standard thickness
 Overall thickness
@@ -22634,7 +20622,6 @@ Thickness of friction material
 2mm
 
 ### Standard thickness
-`hongqi_hs5_en_8416dd4b` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:389 | doc_type:owners_manual
 30mm
 Standard thickness
 28mm
@@ -22643,21 +20630,18 @@ Pad thickness
 Standard thickness
 
 ### Overall thickness
-`hongqi_hs5_en_b40bb93d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:389 | doc_type:owners_manual
 15.75mm
 Thickness of friction material
 10mm
 Standard thickness
 
 ### Overall thickness
-`hongqi_hs5_en_b40bb93d` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:389 | doc_type:owners_manual
 7.75mm
 Thickness of friction material
 2mm
 Brake disc thickness
 
 ### Standard thickness
-`hongqi_hs5_en_8416dd4b` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:389 | doc_type:owners_manual
 12mm
 Minimum Thickness 1Omm
 Caution
@@ -22667,7 +20651,6 @@ brake pad as soon as possible.
 388
 
 ### Suggested
-`hongqi_hs5_en_6e92b39d` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:390 | doc_type:owners_manual
 position of
 microwave
 window (shown
@@ -22675,7 +20658,6 @@ in cab view)
 Tires and wheels
 
 ### 18*7 J
-`hongqi_hs5_en_317c3112` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:390 | doc_type:owners_manual
 Tire pressure kPa (bar)
 3 persons
 ECO
@@ -22690,38 +20672,32 @@ Rear
 260 (2.6)
 
 ### Wheel nut torque
-`hongqi_hs5_en_eed03df1` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:390 | doc_type:owners_manual
 108.7-147N.m
 Wheel dynamic balance requirements
 Remaining amount imbalance: ≤ 5g
 
 ### T145/ 80 R18
-`hongqi_hs5_en_0b9a7350` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:390 | doc_type:owners_manual
 Spare tire pressure kPa (bar)
 420 (4.2)
 Seat (with a deep cushion)
 
 ### Front seat
-`hongqi_hs5_en_efe7a9bc` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:390 | doc_type:owners_manual
 Position at front & rear (from the guide rail
 rear end position to the front)
 120mm
 
 ### Backrest angle
-`hongqi_hs5_en_1db39c7e` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:390 | doc_type:owners_manual
 25°
 Rear seats
 Position at front & rear
 Unadjustable
 
 ### Backrest angle
-`hongqi_hs5_en_1db39c7e` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:390 | doc_type:owners_manual
 25°
 The normal service condition of seat backrest: any position within the adjustable range designed for the
 backrest is the normal service condition.
 
 ### Vehicle equipped with multifunctional camera
-`hongqi_hs5_en_e379e70b` | hs5 | pdf_manual | tier:2 | lang:en | layer:sensors | p:390 | doc_type:owners_manual
 9.Specifications
 389
 9
@@ -22730,7 +20706,6 @@ Bulb
 Bulb
 
 ### Exterior lamping
-`hongqi_hs5_en_f944759c` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:391 | doc_type:owners_manual
 and signal devices
 Front position lamp
 13.5
@@ -22738,7 +20713,6 @@ LED
 White
 
 ### Low beam
-`hongqi_hs5_en_3017452f` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:391 | doc_type:owners_manual
 18
 LED
 White
@@ -22750,7 +20724,6 @@ Front turn signal lamp
 7.5
 
 ### LED
-`hongqi_hs5_en_976a2531` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:391 | doc_type:owners_manual
 Amber
 Front fog lamp
 8
@@ -22760,7 +20733,6 @@ Side turn signal lamp
 2.4
 
 ### LED
-`hongqi_hs5_en_976a2531` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:391 | doc_type:owners_manual
 White
 Rear position lamp
 17
@@ -22772,7 +20744,6 @@ LED
 Red
 
 ### Rear fog lamp
-`hongqi_hs5_en_b758fda4` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:391 | doc_type:owners_manual
 2.5
 LED
 Red
@@ -22784,7 +20755,6 @@ Turn back signal
 16.5
 
 ### LED
-`hongqi_hs5_en_976a2531` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:391 | doc_type:owners_manual
 Amber
 High-level brake lamp
 4
@@ -22794,7 +20764,6 @@ Illuminating lamp
 1.5
 
 ### LED
-`hongqi_hs5_en_976a2531` | hs5 | pdf_manual | tier:2 | lang:en | layer:interior | p:391 | doc_type:owners_manual
 White
 Interior lamping
 system
@@ -22804,7 +20773,6 @@ LED
 White
 
 ### Room lamp
-`hongqi_hs5_en_89430a4e` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:391 | doc_type:owners_manual
 5
 LED
 White
@@ -22819,7 +20787,6 @@ ambient lamp
 0.3
 
 ### LED
-`hongqi_hs5_en_976a2531` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:391 | doc_type:owners_manual
 White/several colors
 Footwell lamp multicolor
 0.3
@@ -22827,7 +20794,6 @@ LED
 White/several colors
 
 ### Glove box lamp
-`hongqi_hs5_en_167905e5` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:391 | doc_type:owners_manual
 0.3
 LED
 White
@@ -22839,7 +20805,6 @@ Trunk lamp
 0.3
 
 ### LED
-`hongqi_hs5_en_976a2531` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:391 | doc_type:owners_manual
 White
 9.Specifications
 Fuel information
@@ -22856,23 +20821,19 @@ dedicated refueling of the vehicle gasoline refueling pump.
 Occasionally, a brief and slight knocking sound is heard during acceleration or climbing. This is normal and
 there is no need for concern.
 
-### Caution
-`hongqi_hs5_en_f085d577` | hs5 | pdf_manual | tier:2 | lang:en | layer:engine | p:392 | doc_type:owners_manual
-■Notice on fuel quality
-Do not use any unsuitable fuel. If you use unsuitable fuel, the engine may be damaged.
-Unsuitable fuel can cause engine or exhaust gas monitoring system failure.
-After adding fuel by mistake, please clean the fuel system thoroughly and check the hijacking machine.
-Please contact China FAW authorized Hongqi dealer.
-391
+> ⚠️ **Внимание:** ■Notice on fuel quality
+> Do not use any unsuitable fuel. If you use unsuitable fuel, the engine may be damaged.
+> Unsuitable fuel can cause engine or exhaust gas monitoring system failure.
+> After adding fuel by mistake, please clean the fuel system thoroughly and check the hijacking machine.
+> Please contact China FAW authorized Hongqi dealer.
+> 391
 
 ### Additional information on sales to other
-`hongqi_hs5_en_80ffaa65` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:393 | doc_type:owners_manual
 countries and regions except for the
 10
 392
 
 ### Additional information on sales to other countries and
-`hongqi_hs5_en_f75d6e13` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:394 | doc_type:owners_manual
 regions except for the mainland of China
 Navigation, voice recognition, and related functions that need to be connected to the Internet to
 use the mobile APP and the car APP are temporarily unavailable in other countries and regions
@@ -22888,7 +20849,6 @@ mainland of China
 393
 
 ### Thumbnail list
-`hongqi_hs5_en_f3cac147` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:396 | doc_type:owners_manual
 394
 Abbreviations
 Meaning
@@ -22896,19 +20856,16 @@ ABP
 Automatic Brake Prefill
 
 ### CDD-S
-`hongqi_hs5_en_a5f86bd3` | hs5 | pdf_manual | tier:2 | lang:en | layer:lighting | p:396 | doc_type:owners_manual
 Controlled Deceleration for ACC-Stop & Go
 (autonomous cruise control deceleration control (ACC stop-and-go type))
 
 ### Controlled Deceleration for Parking Brake
-`hongqi_hs5_en_cb5d1e42` | hs5 | pdf_manual | tier:2 | lang:en | layer:brakes | p:396 | doc_type:owners_manual
 (Parking brake deceleration)
 CO
 Carbon Monoxide
 DSM
 
 ### Thumbnail list
-`hongqi_hs5_en_0ba0dee6` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:397 | doc_type:owners_manual
 395
 Abbreviations
 Meaning
@@ -22916,7 +20873,6 @@ ESS
 Emergency Stop Signal
 
 ### OBD
-`hongqi_hs5_en_b0a73c2f` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:397 | doc_type:owners_manual
 On-Board Diagnostic
 POI
 Point of Interes
@@ -22924,7 +20880,6 @@ SACC
 Super Adaptive Cruise Control
 
 ### Thumbnail list
-`hongqi_hs5_en_9ad54830` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:398 | doc_type:owners_manual
 396
 Abbreviations
 Meaning
@@ -22932,20 +20887,17 @@ TSR
 Traffic Sign Recognition
 
 ### USB
-`hongqi_hs5_en_1aff1ed5` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:398 | doc_type:owners_manual
 Universal 8eMal Bus
 VIN
 Vehicle Identification Number
 
 ### Wireless Local Area Networks
-`hongqi_hs5_en_ca6e1a90` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:398 | doc_type:owners_manual
 395
 Opening button inside the
 trunk lid
 Release handle of the hood
 
 ### Tire pressure
-`hongqi_hs5_en_e724bdd1` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:399 | doc_type:owners_manual
 Fuel tank capacity (for
 reference)
 64L
@@ -22953,7 +20905,6 @@ Fuel type
 Unleaded gasoline (see P.384)
 
 ### Tire pressure
-`hongqi_hs5_en_e724bdd1` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:399 | doc_type:owners_manual
 See P.388
 Oil capacity
 See P.384
@@ -22963,7 +20914,6 @@ See P.385
 On-board tools list
 
 ### Illustration
-`hongqi_hs5_en_77b2037a` | hs5 | pdf_manual | tier:2 | lang:en | layer:general | p:400 | doc_type:owners_manual
 Name
 Qty.
 Warning triangle

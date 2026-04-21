@@ -1,3 +1,10 @@
+---
+brand: renault
+model: duster
+generation: duster_2010
+source: kb
+---
+
 <!DOCTYPE HTML>
 <html lang="en">
     <head>

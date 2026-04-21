@@ -1,3 +1,10 @@
+---
+brand: bmw
+model: 8_series
+generation: g14_2018
+source: kb
+---
+
 ![](images/ba730f3fd693ee8715ce2b0998d7aa6f16463d6c17c3505ae81dff37ee43455d.webp)
 
 # Main contents
@@ -88,8 +95,6 @@ The Service Informationbulletinsprovideregular informationonimprovementsandmodif
 
 # BAYERISCHE MOTOREN WERKE AG CENTRAL SERVICE DEPARTMENT
 
-# 0-3
-
 Page Cross Reference: Those pages In the page cross reference planwhichare underlined (e.g.11)are new orrevised.
 
 # GENERAL INFORMATION
@@ -130,8 +135,6 @@ lf a component of the Interlock system was removed and installed or the Installe
 56 Swltch ignltlon on. Press button on selector lever. If the selector lever cannot be moved out of"P",the Interiock cable must bt adjusted reler to Group 25.
 
 # INSTRUCTIONS FOR REMOVING AND INSTALLING ELECTRONIC CONTROL UNITS
-
-# Important!
 
 Disconnecting the car's battery wlll cancel fault memorles of control units, so that it ls absolutely essentlal to Interrogate fault memoriesprior to disconneclion of the car's battery and to have the faults printed wlth the BMW Service Tester'sprinter. Stored faults must then be Investigated.
 
@@ -471,8 +474,6 @@ Pull off plugson temperature sensors onrear end of engine.
 
 ![](images/1a3a5b35d15c13848b466e914faa19eb5c531fe53741021d9ed1d2f7e01a5b6e.webp)
 
-# 11-0/6
-
 # Arrangement:
 
 123 Temperature sensor DME Temperature sensor 1 EML Temperature sensor □ temp.gage
@@ -558,10 +559,6 @@ On version with automatic transmission: Before installing the engine,install oil
 
 # 1112002 Removingand installing sealing left or right cylinder head cover
 
-# 11 12 105 Removingand installing left cylinder head
-
-# Remove the following components:
-
 Air intake manifold   
 {1161056 without"both gasket faces")   
 Protective cover for distributor cap and   
@@ -572,11 +569,7 @@ Cylinder head cover with gasket
 
 Engine （1100050) Supportarm for leftengine mount Supportfor leftand right assembly frame Engine in assembly frame Rear left heat shield on A manifold partially installed Flexible hoses on left of manifold Injection pipe with Evalves on left and right lgnition line pipe on left and right manifold Left and right distributor caps Manifold with noise insulation strip on left andright Valve cover with gasket on leftand right sides Distributor finger housing and adapter housing with gasket on left and right Drive belt tensioner for alternator Timing case cover with gasket ii ona Sprocket wheel on left and right camshaft Engine in TDC position, discorinect, check timing Sliding rail forleft.timing chain Upper timing case with gasket Coolant connecting duct with gasket and rear O-ring Cylinder head screws on left, torque and torsion angle 120° Cylinder head with gasket on left Measure amount by which piston protrudes Clean crankcase Clean cylinder head Clean base of piston
 
-# 11-13/1
-
 # 11 13010 REMOVING AND INSTALLING OR REPLACING UPPER OIL PAN SECTION
-
-# Remove following parts:
 
 Transmisslon (23 00 025,24 00 024)   
 Clutch pressure plate on drive plate   
@@ -599,8 +592,6 @@ Power pump holder onoil pump
 
 # 11 14 102 REMOVING AND INSTALLING, SEALING OR REPLACING UPPER TIMING CASE
 
-# Remove followlng parts:
-
 Both cyllnder head covers   
 O catch tray on tIming case cover   
 Fan   
@@ -621,8 +612,6 @@ Lelt gulde rall
 Upper timing case and gasket
 
 # 1114110 REMOVING AND INSTALLING,SEALING ORREPLACING LOWER TIMING CASE COVER
-
-# Remove following parts:
 
 Upper tmlng case (1114102)   
 Lower ol pan sectlon   
@@ -689,8 +678,6 @@ Caution! Note direction of installation of drive plate.
 
 # 1123 031 REPLACING HUB FOR VIBRATION DAMPER
 
-# Remove lollowing parts:
-
 Fan   
 Splash guard   
 Water pump pulley   
@@ -707,15 +694,11 @@ ST= Speclal Tool
 
 # 1128 010 REPLACING ALTERNATOR DRIVE BELT
 
-# Remove following parts:
-
 O catch tray on timing case   
 Fan   
 Drive belt
 
 # 1131 002 Replacing left or right camshaft
-
-# Remove the following components:
 
 Upper timing case cover Finger Oil line for camshaft Bearing cover for camshaft
 
@@ -739,8 +722,6 @@ ST= Speclal Tool
 
 # 11 51 000 REMOVING AND INSTALLING OR REPLACING WATER PUMP
 
-# Remove following parts:
-
 Splash guard   
 Fan   
 Alternator drive-belt tensloner   
@@ -755,16 +736,12 @@ Water pump with O-rings
 
 # 11 53 000 REMOVING AND INSTALLING OR REPLACING COOLANT THERMOSTAT
 
-# Remove following parts:
-
 Splash guard   
 Coolant drain and fill   
 Fan   
 Cover for thermostat housing
 
 # 11 61 056 REPLACING SEALINGFLANGE FOR LEFT ORRIGHT INTAKEAIRMANIFOLD
-
-# Remove followlng parts:
 
 Alr box complete on firewall   
 Cover lor fuel Injectors   
@@ -787,8 +764,6 @@ Intake alrmanifold
 Bolh sealing langes
 
 # 11 62 145 REMOVING AND INSTALLING OR REPLACING ALL EXHAUST MANIFOLDS
-
-# Remove following parts:
 
 Upperalrcleaner secllon withalr   
 mass sensor left   
@@ -1151,8 +1126,6 @@ This operation is described in the section on removing and installing sealing bo
 
 # 11 12 105 Removing and installingleft cylinder head
 
-# 11 12106 Removingand installing rightcylinder head
-
 M60
 
 M60
@@ -1497,8 +1470,6 @@ M60
 
 Reler 1o Repair Instructions for 5 Series E34.
 
-# 1123 010 Removing and installing or replacing vibrationdamper
-
 # 1123031 Removingand installing or replacing hub forvibration damper
 
 M60
@@ -1637,8 +1608,6 @@ Installation: Fit new seals.
 ![](images/b542f28b988543b874ae4d446c8ec528ca9b0eec00d2dfa86042350341db8725.webp)
 
 # 1151 000 Removing and installing or replacing water pump
-
-# 11 51011 Replacing pulley wheel on water pump
 
 M60
 
@@ -2403,8 +2372,6 @@ Battery as well as wlres on alternator and startermay not be dlsconnected onarun
 
 # INSTRUCTIONS FOR REMOVING AND INSTALLING ELECTRONIC CONTROL UNITS
 
-# Caufion!
-
 Disconnecting thecar's battery will cancel the lault memories o control unlts.
 
 Consequently prlorto disconnection of the car's battery faultmemorles should be Interrogated and faults printed by the printer of a BMW Service Tester. Investigate stored fautts.
@@ -2462,8 +2429,6 @@ Have engine run at Idllng speed In transmission range Por Nat least 5 minutes.
 
 These procedures serve Immedlate and preclse synchronization ofboth banks of cylinders in all operating conditions.
 
-# 12-11/1
-
 # 1211 094 REPLACING BOTH DISTRIBUTOR CAPS
 
 Remove upper air cleaner sectlon complete with airmass sensor.
@@ -2505,8 +2470,6 @@ Refer to Repair Instructions for 7 Series E38.
 # 1211 098Replacing rightdistributor cap (M73)
 
 Refer to Repalr Instructions for7 Series E38.
-
-# 12-11/3
 
 # 1211 114Replacing both distributor rotors
 
@@ -2588,8 +2551,6 @@ Installation:
 Tighten down spark plug with special tool 121-171 and special tool127132（extension） and special tool121200(torquelimiter).If not using speclal tool121200,note tightening torque.
 
 Tightening torque, referto Technical Data 12 12 1AZ
-
-# 12-12/3
 
 # 1212 036 Replacing allignition leads onleft side(M73)
 
@@ -3006,8 +2967,6 @@ Note: Neighboring ignition leads can give rise tointerference in.the oscilloscop
 
 # 1213011 Replacing ignitioncoil (M70, S 70)
 
-# Caution!
-
 Only work on the ignitionsystem with the igni tion switched off high voltage danger of death.
 
 Noteinstructionsfor working on ignitionsystem-see Page12-0.
@@ -3030,8 +2989,6 @@ Unfasten screws of ignition coils.
 # Installation:
 
 On the ignition coils for cylinders 2 and 6,the ground tapes (1)from the cylinder head cover must be securedtotheignitioncollscrew connections.
-
-# 12-13/13
 
 # 12 13511 Replacing ignition coil (M73)
 
@@ -3319,8 +3276,6 @@ Foradditional instructions on troubleshooting, refer to Electrical Troubleshooti
 ![](images/d9b2c571e47b879f4884fe563f62e2fe1f14c04427f52da1f520023f331844f8.webp)
 
 # 1231 009 Checking 3-phase alternator and voltageregulator
-
-# Prerequlsite lor this inspection:
 
 Correct connections on the charged   
 battery   
@@ -3619,8 +3574,6 @@ Pull complete alternator downwards to remove.
 # 12-31/12
 
 ![](images/858cfdcf838f93bb4e664f0691bf871cf9db7b37810cf1e45f55016e76cbc4f8.webp)
-
-# 1231.. Tension vee-belt for auxiliary alternator
 
 # 12 31230 Removingand installing replacing bearing block on alternator (M73)
 
@@ -4355,8 +4308,6 @@ designated by direction of flow （arrow) orletters"OUT":always take account of 
 
 ![](images/7a746bc5f896dfd36c32cd2047773ba17f742f0c18c5b7fbcd7cdd6075468595.webp)
 
-# 13-51/1
-
 # 1351 199 Checking fuel pressure regulator
 
 Install BMW Service Tester or pressure gage 133060 with connecting hose and T-piece 133064 in the fuelfeed line in front of the fuel pressure regulator.
@@ -4481,8 +4432,6 @@ Unscrewsensor.
 Installation: Tlghtening torque\*.
 
 # 13 62 560 REMOVING AND INSTALLINGOR REPLACING LEFT ORRIGHT AIR MASS SENSOR
-
-# Check function 一 see 1300 002.
 
 ![](images/541c539442597a63a0edca1b972ba740ec4ed460d6efa6b6d1dd6aa76867ceb6.webp)
 
@@ -4644,8 +4593,6 @@ Fuel in line is under pressure [approx. 3bar). Catchescoping fuel in suitable re
 Fuel hoses and hose clips must be replaced!
 
 ![](images/81554642b0fffb16970f108804b224cc50670dfab9d043cf66e2028fb43be8bc.webp)
-
-# 13-72/1
 
 # 1372 002 REPLACING AIRFILTERCARTRIDGES (BOTH)
 
@@ -4886,8 +4833,6 @@ Remove coverfrom E box.
 
 lf the injection pressure nowremains constant,the pressureregulator is faulty. If the injection pressure drops thereis 4 leak before the pressure regulator(injection tube, hose connections, injection valves etc.).
 
-# 13-51/32
-
 # 1351 630 Replacing fuel pressure regulator
 
 Press off sealing caps (1) and unfasten nuts (2).   
@@ -4940,8 +4885,6 @@ Remove accelerator cables [3).Remove hose （4） from throttle body,
 
 ![](images/d7865488e22674b4f2c3b6ec018e901b289f11c67f56396f0ee2240a7234d4cd.webp)
 
-# 13-61/31
-
 # 1361000 Removingand installing or replacingcontrol unit (forDME)
 
 Uniasten cover screws from E box.   
@@ -4966,8 +4909,6 @@ Relays in control unit for Ebox: 1 Fuel pump relay (orange) 23 DMEmain relay (wh
 ![](images/6b1e76b5283ed1fe99128f644126deae801d2be9dc3e726daad6b8583f1eba29.webp)
 
 # 1362511 Replacing intakeair temperature sensor
-
-# 1362 531 Replacing coolant temperaturesensor
 
 (After function check of Digital Motor Electronics (DME) 13 00 002).
 
@@ -5123,8 +5064,6 @@ Connector allocation and hose connections 16-12/7
 Summary of tank venting \*\*\*\*\*\*\*\*\* 16-13/1   
 1613 ， Floatgravityvalve-removeandinstall/replace ..................... ... 16-13/2   
 1614010 Fuelpump(s)-removeand installor replace EREE 16-14/1
-
-# Fuel tank survey
 
 # (Cut away and shown in opposite direction to direction of travel)
 
@@ -5357,8 +5296,6 @@ Check fuel hoses,replacing llnecessary. Replace hose clamps.
 Center and stylus (for baslc setting)
 
 ![](images/4907d1799e1392588870a87af45603cedd3a053c5088f62cff0f9e352661d44b.webp)
-
-# 16-12/5
 
 # 1612001 Removingand installing or replacing fuel indicator sender (left)
 
@@ -5766,8 +5703,6 @@ Lift expanslon tank up to remove.
 Installation: Expansion tank lugsmust locate on radiator.
 
 Top up with specified coolant, bleed cooling system and check for leakage 1700039.
-
-# 17-11/4
 
 # 1711509 Flushing radiator
 
@@ -6656,8 +6591,6 @@ Driveinnew tab washer (1) with special tool 232470.
 
 # 24 Automatic transmission
 
-# 4HP-24/EH
-
 2400008 Shift lever-adjust ............... .....·.............. 24-00/1   
 014 Hydraulicpressurevalues- check \*\*\*+\*+\*+\*+\*\*.... 24-00/2   
 024 Transmission -remove and install 18 \* 1.885 24-00/3   
@@ -6796,8 +6729,6 @@ Remove oll filler plpe (1).
 Unscrewoll cooler pipes (2 and 3) on transmission.   
 Tightening torque'.
 
-# 24-00/4
-
 # 24 00024 REMOVING AND INSTALLING TRANSMISSION
 
 Dlsconnect ground lead.
@@ -6921,8 +6852,6 @@ Tightening torque".
 
 Relerto Speclllcations Source ol Supply: BMW Parts
 
-# 24-00/7
-
 # 0011 239 REPLACING AUTOMATIC TRANSMISSION FLUID
 
 ATF should only be replaced atoperating temperature.   
@@ -6946,11 +6875,7 @@ Valves rattling, foaming, engine sllps when drivingIn curves, general operatIng 
 
 ![](images/60fdcd885f5d4ed83d5466ffe0f9079440a06fbf60870329e1e7f02090f7ad9c.webp)
 
-# 24-11/1
-
 # 2411 004 REMOVING AND INSTALLING OILSUMP
-
-# Pour In oll.
 
 ![](images/6f6b5e8c0234bc7ffe350f394b243e38a2784b524d7b9e531fae93591c1d0782.webp)
 
@@ -7087,8 +7012,6 @@ Lift out radial seal (1).
 
 Lubricate sealing lip with ATF. Driveradial seal into place with special tool 240110inconjunctionwithauxiliary ring 240111until itseats securely. Press-in depth approx. 1 mm.
 
-# 24-30/1
-
 # 24 30 004 REMOVING AND INSTALLING VALVE BODY
 
 Remove oll sump 1 see 24 11 004.   
@@ -7116,8 +7039,6 @@ Have tabs of holder (5) engage In the grooves on the plug.
 ![](images/e7be26e13e2d11bb007625b5cb43fa8f22dbd3e25576a383a8f91501c859e7c8.webp)
 
 ![](images/23d29f4e77ad1c9cf7d7af75ca11d10936189d7f505f59753394df53996001ef.webp)
-
-# 24-31/1
 
 # 2431 154 REMOVING AND INSTALLING OR REPLACING TRANSMISSION OIL FILTER SCREEN
 
@@ -7555,8 +7476,6 @@ Replace damaged dowel sleeves.
 
 Installation: One of the four bores（1） in the drive plate must be accessible from aperture in oil pan.
 
-# 2400046 Installing replacement transmission
-
 # 24 12506 Replacingradlal seal for torque converter
 
 Refer to Repair Instructions 1or 5 Series E34
@@ -7569,8 +7488,6 @@ Refer to Repair Instructions for 5 Series E34
 
 24 13156 Replacing output flange Refer to Repair Instructions for5Series E34
 
-# 2412016Replacing radial seal foroutput flange
-
 # 24 13706 Replacingmount for transmission extension
 
 Referto Repair Instructions for5 Series E34
@@ -7578,8 +7495,6 @@ Referto Repair Instructions for5 Series E34
 Refer to Repair Instructions lor5 Serles E34
 
 # 2412 106Replacing radial seal for hand selector valve shaft
-
-# 2430 006 Removing and installing replacing shift unit
 
 Refer to Repair Instructions for 5 Series E34
 
@@ -7632,8 +7547,6 @@ Remove connector from control unit.
 Remove clips.
 
 # 25 Gear shift mechanism
-
-# Manual transmission
 
 25 11000 Shift lever-remove and install 25- 11/1   
 001 Shift lever,complete 一 replace 25- 11/2   
@@ -7984,8 +7897,6 @@ Coat center with Molykote Longterm 2 prior to Installation.
 
 # 2611 030 BALANCING PROPELLER SHAFT (CENTERING AND ADJUSTING DEFLECTION ANGLES)
 
-# Vibrallon orNolse:
-
 Requlrements:   
 Propeller shaft in perfect optical conditon.   
 Balance the propeller shaft if balance plates are missing or there is susplclon of propeller shaft imbalance (refer to operating Instructions supplied with Ihe balancing machine).
@@ -8110,8 +8021,6 @@ Lubrlcale center with Molykote Longterm 2" and drlve 1 In using Spoclal Tool
 The sealling lip laces out.
 
 Prolruslon A= 4.2mm.
-
-# 26-11/7
 
 # 2611160 REPLACING CONSTANT VELOCITYJOINTFOR PROPELLER SHAFT
 
@@ -8249,8 +8158,6 @@ Shockabsorber -troubleshoot EEEE1: 31-90/3
 12 Thrust strut Tle rod arm 34 Control arm Support 5 Connecting pipe
 
 ![](images/f8553aadf848566761aad6a5620f139eb166118c1636009961f2c1d0115bcbf5.webp)
-
-# 31-0/3
 
 # LAYOUT DRAWING OF STRUTS AND ARMS (Verslon wlth Relnlorcement Cross)
 
@@ -8484,8 +8391,6 @@ Screw on Speclal Tool 31 2110whole length ol threads.
 
 Sllde and pull on new bearing unit using Speclal Tool31 2110.
 
-# 31-31/1
-
 # SPRING STRUT ASSEMBLY DRAWING
 
 1 Cap   
@@ -8584,8 +8489,6 @@ The standard wheel bearing can be identified by the bore (1) in the center for s
 Fit protective plate and new bearing (wheel hub) to front wheel31 21 180.
 
 Afterassembly, align front axle if necessary.
-
-# 31 33 001 Replacing left orright front spring strut shock absorber thrust bearing
 
 # 31 33 100 Removing and installing or replacing coll spring forleft orright front spring strut shock absorber
 
@@ -8700,8 +8603,6 @@ Layout of power steeringunit parts and lines +\*444\* 32 41/12
 Layoutof oil container ...... ........······· .\*\*.... 32- 41/13   
 Layoutof oil containerwithASC+T 32- 41/14
 
-# 32-0/1
-
 # GENERAL INFORMATION
 
 Steering Gear:
@@ -8783,8 +8684,6 @@ is the bisecting line of anangle from the total rear wheel toe. Front wheel meas
 
 is a center line running through the front and rear axles.
 
-# 32-0/4
-
 # 3200150 CHECKING WHEEL ALIGNMENT WITH ELECTRONIC TESTER(wIth KDS)
 
 Requlrements to be fulflled prlorto checking wheel alignment:
@@ -8858,8 +8757,6 @@ TROUBLESHOOTING FRONT WHEEL ALIGNMENT
 
 TROUBLESHOOTING REAR WHEEL ALIGNMENT   
 ![](images/03fefdead9ce5a4ecf61d49902627962c38ae84b6f78d00ac8775ecbeffe5183.webp)
-
-# 32-13/1
 
 # 3213006 FILLING AND BLEEDING POWER STEERING
 
@@ -8976,15 +8873,11 @@ Oll flows from the Impeller pump Into the worm head, through feed grooves （9 a
 17 = Pressure rellef valve   
 18= Control valve
 
-# 32-13/6
-
 # Steering Wheel Turned Clockwlse:
 
 Valvepiston（4）lsdisplaced to therlght and feed groove (9） opened Valve piston (5) Isdlsplaced to the left and feed groove (10) closed. Thls letsthe oll flow lnto the rlght cyllnder chamber.OllIn the left cyllnder chamber is forced out and flows back Into the oll tank.
 
 ![](images/4991247e38628c61a8b9fd7efc90226d4aa5ecc940c524e46c78351009fc4a89.webp)
-
-# 32-13/7
 
 # Steering Wheel Turned Counterclockwlse:
 
@@ -9500,15 +9393,11 @@ Tightening torque 8 Nm.
 
 Remove lower section of steering column trim Unfasten interlock cable on sleering lock and remove,inserting now interlock cable at the same time.
 
-# 32-33/1
-
 # 3233 000 REMOVING AND INSTALLING STEERING WHEEL
 
 Without Alrbag (SRS): Liftout BMW emblem.
 
 # With Alrbag (SRS):
-
-# Caution!
 
 Conform with safely precautionsl Incorrect handling could cause activatlonof the alrbag and lead to Injurles. Disconnect battery and cover ground pole or terminal.
 
@@ -9603,11 +9492,7 @@ with Airbag 1
 
 Refer toRepair Instructions for3 Serles E36.
 
-# 32-34/1
-
 # AIRBAG SYSTEM (SRS)
-
-# Components:
 
 1 Steering wheel wllth airbag unlt (alrbag, gas generator Ignition pll and contact ring)   
 2 Dlagnosls unlt   
@@ -9617,13 +9502,7 @@ Refer toRepair Instructions for3 Serles E36.
 
 ![](images/1d9263b8da544d47a482ca8a0c56337a1b23d343d2ac7bbd82ab95dd188f61aa.webp)
 
-# 32-34/2
-
-# Airbag =
-
 # Basic central airbag unit
-
-# Components:
 
 ![](images/4b8b690669e1b34f97cad5e7896a565b60cc86a45b54ae890e6ef809ee3cc065.webp)
 
@@ -9642,8 +9521,6 @@ Airbag indicator lamp in the instrument cluster)
 Passenger airbag unit (airbag, gas generator, ignition squib )
 
 Knee guard (US model)
-
-# 32-34/3
 
 # Function
 
@@ -9738,8 +9615,6 @@ Press together both ends and remove antitwist retainer (1).
 ![](images/e978ef6c0caec8ac5578c31e19ea59b6fdda983032d813083c1124e1892bdd38.webp)
 
 # 6577010 REMOVING AND INSTALLING OR REPLACING AIRBAG DIAGNOSIS UNIT
-
-# Caution!
 
 Conform wlth safety precautlons! Improper handling could cause aclivatlon of the alrbag and leadto Injurles. Dlsconnect battery and cover negative pole or terminal.
 
@@ -9974,8 +9849,6 @@ Untasten retainer on oil pan and remove pump.
 Installation:   
 Tightening torque,refer to Technical Data 32 412AZ.
 
-# 32-41/6
-
 # POWER STEERING IMPELLER PUMP
 
 12 Holdyer   
@@ -10035,8 +9908,6 @@ Replace O-ring (10).
 Mount body (checking that boresare aligned) and bolt down with the holder. Tightening torque 1 16 ... 19 Nm(12 .. 14ft. Ibs.),
 
 Check functlon after Installatlon of the power steering impeller pump
-
-# 32-41/9
 
 # TANDEM PUMP
 
@@ -10174,8 +10045,6 @@ Rear axle-troubleshoot \*\*\*\*\*..........\* 33- 90/1
 ![](images/6854748133f4bdb35eed8ba342a63b01347d55f379cc632fffa992eab90d3bf0.webp)
 
 ![](images/97f358bbd4c4c190aa131bfd05e82bc538e6501136e0103cb2e96447222b3944.webp)
-
-# 33-10/1
 
 # BREAKING-IN PROCEDURES AFTER REPLACING/REPAIRING FINAL DRIVE
 
@@ -10599,8 +10468,6 @@ Remove qulde arm -see 3332091. Press out rubbermount wlth Speclal Tools 333 202 
 
 Press in new rubber mount（1）wlth Special Tools 33 3 202, 203 and 201.
 
-# 33-32/6
-
 # 3332111 REMOVING AND INSTALLING OR REPLACING SUPPORT ARM
 
 ![](images/ed454ec385cc1ab4485528c112e1e72c9740b74256455cd4e20782cea45c7116.webp)
@@ -10711,8 +10578,6 @@ Coat new rubber mount (1)with Circolight and pull in using special too1 33 3 222
 
 ![](images/517d64a873359edeffa4ef24699cbb9a297790d0ae69288334763118815cee50.webp)
 
-# 33-34/1
-
 # ACTIVE REAR AXLEKINEMATIC (AHK)
 
 In comparison with conventional rear axles, active rear axle kinematic makes 1 possible to actively control the'bulld-up of lateral force on the rear axleby way of selective sleering..Thls conslderablyreduces thehazard of swerving.
@@ -10768,8 +10633,6 @@ LAYOUT DRAWING OF AHK(Actlve Rear Axle KInematlc)
 
 1 Drive unit 23 Ctamp Dust cover
 
-# 33-34/4
-
 # LAYOUT DRAWING OF HYDRAULIC PIPES
 
 ![](images/f500a55b2006cd8281b9a47333c541a7b0c10ec85dc6f71743ddd7cd388ceb22.webp)
@@ -10777,8 +10640,6 @@ LAYOUT DRAWING OF AHK(Actlve Rear Axle KInematlc)
 1 Triple CircultPump
 
 # I Reservolr Charging Unit
-
-# 川 Drlve Unlt
 
 IV Hydraulic Fiuid Tank
 
@@ -11182,8 +11043,6 @@ Brake linig dust is a health hazard!
 If brake fluid enters theeyes,flush immediately with large quantities offresh water lf eyes are irritated,seek appropriate medical attention without delay.   
 To avoid damage to theskin,keep contact timeof brakefluid on the skinas short as possible. Use soap and water to clean skin coated with brake fluid.
 
-# 34-0/2
-
 # General information onABS
 
 Basically,ABS does not require servicing but there must be conformance with the following points when working on cars equipped with ABS:
@@ -11197,8 +11056,6 @@ The brake lines on the hydraulic unit must not be confused: to avoid this,mark t
 to disassembly.   
 Entire ABS system must be checked in accordance with the“Electrical Troubleshooting   
 Manual"if oneof the following ABS components was removed or replaced: Hydraulic unit ABS contiol unit Wheel speed sensor ABS wiring harness Valve control relay Electric motor relay
-
-# 34-0/3
 
 # 34 00 015 CHECKING BRAKE BOOSTING SYSTEM
 
@@ -11304,8 +11161,6 @@ Close bleeder valve.
 Release brake pedal.   
 Follow same procedure on rear left, front righi and front left wheel brakes.
 
-# 34-0/6
-
 # AUTOMATIC STABILITY CONTROL AND TRACTION {ASC +T
 
 Purpose of ASC +T:
@@ -11388,8 +11243,6 @@ Forother operations on the brake system (e.g. exchange of brake calipers), the s
 
 # 2. Bleed brake system
 
-# Cautlon!
-
 Before bleeding the system, ensure that the mineral oil side of theASC+T plungerhydraulic unit was bled. This opplies especially after exchange or repair work on mineral oll assemblies and lines from the expansion tank and up to and including the plunger hydraulic unit.
 
 If necessary,bleed the ASC+Tmineral oll circuit before bleeding the brake system,see 3400040.
@@ -11437,8 +11290,6 @@ Move shift lever into neutral or selector lever into setting"P”or"N”.
 Switch off engine.
 
 ![](images/1200035854b8ab0d5391070ea65d6546ddd173b447b9a6af842339fa5c8e374c.webp)
-
-# 34-0/10
 
 # 2.2 Bleed front axle brake circuit:
 
@@ -11518,8 +11369,6 @@ Close expansion tank (note rubber seal (1)in cover).
 Remove BMW Service TestMoDlC and replace cover on diagnosis connector.
 
 # 3410014 ADJUSTING PARKING BRAKE
-
-# Test Specificatlons
 
 There should not be braking eflect when parking brake lever ls pulled up one tooth. The wheel perlpheral force may devlate Irom the larger value bymax. 30 % In comparison with the opposite wheel (measured on dynamometer). Adjustment Is necessary incaseof greater brake force dlference. It should be posslble to hold the car with the parking brake. The parking brake must be adjusted If the parking brake lever travel Is greater:than ten teeth.
 
@@ -11855,8 +11704,6 @@ Operation is identical to 34 11 599.
 
 Operation is idontical to 3411667.
 
-# 34-31/1
-
 # DESCRIPTION OF BRAKE MASTERCYLINDER OPERATION
 
 The operating forceapplied on push rod piston （8） produces hydraullic braking pressure in the first pressure chamberof the tandem master cylinderand the connected brake circult 1. Thlspressure also acls on the second, Intermedlate plston and moves it in the tandem master cylinder. In this manner(almost)equal hydraulic braking pressure ls also produced in the second pressure chamber and connected brake clrcultll.
@@ -11906,8 +11753,6 @@ Tightening torque 34 32 1AZ\*
 
 After completion of the work, bleed braking system,refer to 34 00 046/047.
 
-# 34- 32/2
-
 # 3432941 Replaceall front brake hoses
 
 ![](images/e9aff760f70b00b73efbe1dd1af1d712be2abb4e7c2dba4ce240bd36447986e2.webp)
@@ -11920,8 +11765,6 @@ Screw brake hose onto brake line,taking care not to twist brake hose.
 Tightening torque 34 32 1AZ\*
 
 Bleeding brake system,refer o 3400047 for ABS and 3400048for ABS/ASC+T respectively.
-
-# 34- 32/3
 
 # 3432983 Replacing both rear brake hoses
 
@@ -12112,8 +11955,6 @@ Pull lower brake shoes apart and remove from wheel hub.
 
 # 1. ANTIBLOCK SYSTEM (ABS) ■ DESCRIPTION AND DESIGN
 
-# DESCRIPTION
-
 The basis of a braking action is the friction between the tires and road surlace. To brake a vehicle the tires have to transmlt a frlctlonal forceto theroad surface. In So dolng there wll be slip between the tiresandroad surface, l.e.the tire peripheral velocitywll be slower than the road speed of the vehicle.
 
 Figure73034112 shows therelation between the frictional force and slip for a typlcal case on a dry road surdace. The transmited braking force reaches lts maximum value In shaded area A Thls ls also the control rangeof ABS. When a wheel ls locked,l.e. when there Is 100 % slip, the frictional forcewill normally belower than when a wheel Is rolling.
@@ -12171,8 +12012,6 @@ The pump Isdesigned asa two-plston pump so that the circults of a dual brake clr
 
 The control unit is connected with the speed sensors and electric part of the hydraulic unlt vlaa speclal wire harness forthesake of signalinput and orderoutput. These wires as well as electric power supply are integrated in the main wire harness.
 
-# 34- 50/3
-
 # 2. Function and Checking ofABS Control'Lamp
 
 The ABS control lamp lights up after switching the ignition on.   
@@ -12184,8 +12023,6 @@ The causes for faully display 一 control lamp does not llght up. does not go ou
 
 The control unlt automatically swltches lo "conventlonal brakes" In case olan electrlc or electronic fault In ABS.   
 Thls means that the car can still be braked, but without regulation (the wheels could lock!).
-
-# 34 1 50/4
 
 # AUTOMATIC STABILITY CONTROL (ASC)
 
@@ -12218,8 +12055,6 @@ Current regulation is indicated to the driver bya fiashing ASC lamp in the instr
 Ifthe ASC lamp lights up continuously, the system has been switched off on its own due lo an occured fault or ithad been swltched oft by hand.
 
 Troubleshooting: See Car Electric/Electronic Test Plan.
-
-# 34 中 50/5
 
 # AUTOMATIC STABILITY CONTROL PLUS TRACTION (ASC +T
 
@@ -12277,8 +12112,6 @@ Leftrear wheel is tangibly braked.
 Test sequence: Repeat test on rear right wheel.
 
 # 3451 520 Removing and installing or replacing complete hydraulic unit(for ABS)
-
-# Caution!
 
 Do not confuse brake lines and, if necessary.   
 mark before removal.
@@ -12664,8 +12497,6 @@ Installation: Do not jam noise insulation on end wall!
 
 ![](images/e6eefb9b838b3fa731dacd725def5d34192ec6621e56e5369cf53625e53a7529.webp)
 
-# 35-11/2
-
 # 35 11 001 REPLACING CONSOLE FOR PEDALS
 
 Automatlc:   
@@ -12821,8 +12652,6 @@ Checking switch,refer to BMW Diagnosis Program.
 36 12001 Tireforfront, rear orsparewheel-replace .. ..··EE+·+ 36-12/1   
 3613 Wheel bolt lock - service install \*\*\*\* 36-13/1
 
-# 36-10/1
-
 # 36 10 008 BALANCING LEFT OR RIGHT FRONT WHEEL ELECTRONICALLY (Finish Balancer)
 
 Prior to electronic balancing, always first balance the wheels stationary see36 10508.
@@ -12903,8 +12732,6 @@ Check radlal runout\* of rim with Speclal Tool 36 1 000.
 ![](images/c42b2067c9df291965fbeb1d18e88be2b558bf503e18433e4931cada48ad0228.webp)
 
 # 3610300 Removing and installing front wheel orrear wheel
-
-# Caution!
 
 Wheel is electronically balanced. To avoid clamping errors and imbalance,follow the procedure described below:
 
@@ -13213,8 +13040,6 @@ Other steps H referto Group 33.
 
 # Remove cover reler to Group 51.
 
-# Open prqtectlon box.
-
 1= ABS plug (white)   
 2= Not used   
 3= Not used   
@@ -13332,8 +13157,6 @@ replacement removed) 41- 21/1
 101 Front door, leftorright 1 replace et..++.t ..... 41- 51/1   
 4161014 Hood lid 1 adjust 41- 61/1
 
-# 41-0/1
-
 # General information about body repairs
 
 Body repair instructions are meant for skilled workers who are highly qualified, work conscientiously and accept full responsibility for their work.
@@ -13378,8 +13201,6 @@ there is good electrical contact between welding and ground connections {no rubb
 
 otherwise attontion mustbe patd to the heat doveloped, espocially in the case of autogen welding(decision must be made from case tocase).
 
-# 41-0/2
-
 # REMOVING PVC MATERIAL IN REPAIR ZONE
 
 Body protoction after repalring beglns already wlth the prolesslonal removal olPVC undercoating. antl-drumming compound and seam sealing compound In the repalr zone.
@@ -13420,8 +13241,6 @@ Avold direct contact ol cement with eyes and skin.
 Do not eat,drink or smoke whlle carrylng out cementing work.   
 Clean and rub In hands with skln prolectlon creme after finishing work.
 
-# 41-0/3
-
 # Flrst Ald:
 
 In case ol contact of cement with eyes, rinse out eyes immediately wlth running water for about 10to 15minutes. lf necessary. gotoa physlclan.
@@ -13443,11 +13262,7 @@ Small amounts of mixed and hardened resin residue may be disposed as household r
 Important!   
 These precautions are applicable for regulallons valid In Germany. Always apply possIbly devlating regulations valid In other countrles.
 
-# 41-0/4
-
 # Recommended working methods and tools
-
-# 1. Cutting Out Damaged Parts:
 
 Determine the location of jointsinaccordance with the replacement part before starting the operation.   
 Cut out the damaged part roughly within these joints.
@@ -16275,8 +16090,6 @@ Pull cover strip carefully from Iront to rear off of the sheet metal lold.
 
 # 51 16000 REMOVING AND INSTALLINGMIRROR ONLEFT OR RIGHTFRONT DOOR
 
-# 51 16026 REPLACING GLASS FOR MIRROR
-
 Remove front door trlm panel = see 5141 000.   
 Disconnect plug.
 
@@ -16497,8 +16310,6 @@ Installation: Install outslde handle with stud (1) in spline (2).
 Remove plugs.
 
 ![](images/5db7ca1e561f1aa38f4db9bdf9a365b4c388213d3a497965d7aebbc8c9bae482.webp)
-
-# 51-31/1
 
 # 51-31 Instructions on cementing windows
 
@@ -16838,8 +16649,6 @@ Install rear window carefully using Speclal Tool51 3010and press on. Push rear w
 ![](images/c359be9ecdfdfd7a912d7860f0347d5f7d1f888c77f2361c32983acd05eed4d3.webp)
 
 Length: 300mm Widih: 50mm
-
-# 51-31/12
 
 # 1131 # REPAIRING LAMINATED SAFETY GLASS WINDSHIELDS (CLEAR OR TINT_ ED GLASS) DAMAGED BY FLYING STONES
 
@@ -17526,8 +17335,6 @@ Unscrew plastlc nuts securing carpets and wire straps on the cardan tunnel.
 InstaNation:   
 The old or new carpet must then be cut out in the tunnel zone.
 
-# 52-0/1
-
 # 520 DIAGNOSING DAMAGE OFBELT SYSTEM INTEGRATED IN FAONT SEAT AFTER ACCIDENT
 
 In the Interest of occupants' salety no other repairs are permitted than those described below!Damaged components must bereplaced!
@@ -17617,8 +17424,6 @@ Deflating (10）. Note:
 The positlon olthe lumbar support cannot be stored In the memory.
 
 ![](images/da663c17bf8c5a8d69602a138a315094b448ee9d7297949ce93fe9f74e1cd6bc.webp)
-
-# 52-0/5
 
 # 520 CHECKING FUNCTION OF MEMORY
 
@@ -18602,8 +18407,6 @@ Pull floating roof liner forward as far as posslble and engage.
 
 ![](images/c14229c95518aa0bd0ce981fd06361ec861ca54edfcff3a14435b671467e9051.webp)
 
-# 5412135 REMOVING AND INSTALLING WATER DRAIN
-
 # 54 12210 REMOVING AND INSTALLING SUN ROOF ASSEMBLY
 
 ![](images/dcfbf3c88006421149b779ec8a85555cef10854609a8c81787e152a32db737d3.webp)
@@ -18665,8 +18468,6 @@ Correct the position 1 necessary.
 
 ![](images/a973df1c66d20177ea1e12ee2a0341bab56624f05127171c73943fcb9d1f816e.webp)
 
-# 54-13/1
-
 # 5413010 REMOVING AND INSTALLING OR REPLACING MOTOR AND GEARBOX UNIT FOR SUN ROOF
 
 ![](images/4f312f683cca468a6aef4518febed636965b53dc08947c7282aafa31989d6ce9.webp)
@@ -18693,8 +18494,6 @@ Screw 1= long Screw 2= short
 Installation: Turn the motor shaft using a hexagon socket wrench untll the gearbox gear engages In the drlve cables.
 
 Refer to Speclficatlons
-
-# 54-13/2
 
 # 5413015 REMOVING AND INSTALLING ORREPLACING MODULE FOR SUN ROOF
 
@@ -18835,8 +18634,6 @@ Consequently prlor to disconnection of the car's battery fault memorles should b
 Ignltlon must always be swltched ol before disconnecting or connecting control unit plugs.
 
 Removal and installation of components,relays,fuses,etc.could cause the storage of faultsin fault memorles of control units capable of self-diagnosis.Consequently fault memorlesmust alwaysbeInterrogatedafter workingonthe electrical system. Stored faultsmust be Investigated and erased.
-
-# 61-0/2
 
 # BATTERY CARE AND MAINTENANCE
 
@@ -19175,8 +18972,6 @@ Pull relevant fuse out of fuse plate (1). (mark positions when removing all fuse
 Push back steel spring locks (3) of relevant pin using special tool no. 611 136 and pull out wire.
 
 ![](images/0d2b8c7813ff492d33c092fb6cbb110662252033ba5b62a3a7f75ef62c78126d.webp)
-
-# 61-13/8
 
 # Display lamp
 
@@ -19590,8 +19385,6 @@ See Replacing Light Switch" In 6131 028.
 
 ![](images/4145bbadc28723dd995f14ba908de5774c523211c0df0241ba629afb695bd667.webp)
 
-# 61-31/4
-
 # 6131 072 REPLACING VERTICALHEADLIGHT AIM CONTROLSWITCH
 
 See"Replacing Light Switch" in 6131 028.
@@ -19726,15 +19519,11 @@ Important! l ls essentlal to check the safety path In casr with EML (electronlc 
 
 ![](images/12f914bb8050f95d869aec450a987348ae9759621a66276eaace2552611e1ecc.webp)
 
-# 61-31/12
-
 # 6131 300 Replacing brake light test switch
 
 ![](images/e4574428baee8908b43c045eac89199db90c2881d1c97574afb89ec2189116c4.webp)
 
 Brake light test switch is installed in same housingas the brake light switch. Refer to "Removing brakelight switch"for removal and adjustment. Can be recognized on the 4-pin plug.
-
-# 61-31/13
 
 # 6131 310 Replacing brake lightswitch
 
@@ -19893,8 +19682,6 @@ Check system for leaks.
 ![](images/969cb9f9fe0b6149d2e2d367a7b48da60a7928aa81d214157ff1a445fc1e783c.webp)
 
 # 3 Relay for Lambda oxygen sensor heating
-
-# Caution!
 
 Depending on condition of vehicle,the location of the relays can differ. Iin doubt,pull the desired relay to test whether the correct function is interrupted.
 
@@ -20350,8 +20137,6 @@ Check whether axles are lined up.
 
 Install drive rod.
 
-# 61-61/9
-
 # 6161271 REMOVING AND INSTALLING COMPLETE WIPER CONSOLE
 
 Remove prop.
@@ -20480,8 +20265,6 @@ Installation: Tlghtenlng torque\*.
 Unscrew stop.   
 Adjust helght of stop to distance A= 1.5 to 2.0 mm.
 
-# 61-67/1
-
 # 6167010 REPLACING WASHING FLUID PUMP FOR HEADLIGHT CLEANERS
 
 ![](images/7ee659aeee442a304c4fe468155d8f7fe3fe74fcc9c62c963133985b602c5e2e.webp)
@@ -20577,8 +20360,6 @@ Layout of instrument cluster 62-11/1
 Instrument carrier-dismantle .................................. 62-21/2   
 6299 Lightsin instrument cluster -replace E 62-99/1
 
-# 62-11/1
-
 # INSTRUMENT CLUSTER SURVEY
 
 ![](images/87e71127037b81c30757ee3ef9cac2d472acbfd725cf50c070e7f573518af467.webp)
@@ -20624,8 +20405,6 @@ Pull out sender.
 ![](images/1ac435a6794a4e37b59fecc7dc962ae91a8c30fe322b6c92d35fe3cd9fd5d579.webp)
 
 Pull otf plug on temperature gage and unscrew sender.
-
-# 62-21/1
 
 # 6221 000 REMOVING AND INSTALLING INSTRUMENT CARRIER
 
@@ -20753,8 +20532,6 @@ S= Base position of vehicle and adjusting unit Adjustment procedure:
 When adjusting the height setting, the   
 lightdark limlt of the low beam headlightmust match the horizontal marking line (M) on the unit. Forlateral adjustment,thelight/dark limit on the bend line must start on the horizontal marking line.
 
-# 63-10/2
-
 # 6310508 Adjusting basic position of headlightinserts(pop-up headlights) on left and right sides
 
 ![](images/7e4075d7d15ce12ff2b1c10654d175eb69971544e7d05a08f301a0ba492a61b6.webp)
@@ -20806,8 +20583,6 @@ Installation: Ensure lens is correctly Installed. ll necessary,fit new gasket!
 # 63-11/1
 
 ![](images/73bc8912a63d653fa395bc671a5f8960248b8c84096e142f954dfea116c987d0.webp)
-
-# 63-12/1
 
 # 6312033 Removingand installing or replacing leftor right lens (forpop-up headlights)
 
@@ -20990,8 +20765,6 @@ Caution!
 Do not reach into rellector.   
 Adjust basicsetting of headllght inserts see 6310508.
 
-# 63-12/8
-
 # 6312610 Removingand installingor replacing leftorrightlow beam headlightinsert (pop-up headlights)
 
 Removing headlight insert-see 6312400 Caution!   
@@ -21024,8 +20797,6 @@ Caution! Donot damage carrler frame and reflector when heating the retaining cli
 Installation:   
 Replaco retalning clips!   
 Adjust basic position of headlight inserts 8006310508.
-
-# 63-12/10
 
 # 6312747 Installing both pop-up head lights and adjusting the headlights
 
@@ -21447,8 +21218,6 @@ Liftrubber seal sllghtly 时 slde and lt cover out upwards.
 
 Spread clps apart on leftand right sldes. Titmlcrofilter forward and pull lt out upwards.
 
-# 64-50/1
-
 # DESCRIPTION OF REFRIGERANT CIRCUIT FUNCTION
 
 Afterswitching on the alr conditioner the retrlgerant clrcult Is aclivated In Ihat the solenold clutch recelves current.This produces poslive connectlon between the pulley and armature clutch plate and the compressor isdriven.
@@ -21505,8 +21274,6 @@ Low pressure valve
 21 Controllamp green   
 22 Power supply cord   
 23 Charging cylinder push button swltch
-
-# 64-50/3
 
 # 6450009 DISCHARGING AND CHARGING AIR CONDITIONER
 
@@ -21628,8 +21395,6 @@ Open valves（1and 2）slowly. Then discharge the entire systom brlelly
 Close valve (9) and swlich vacuum pump off.   
 Unscrew hlgh pressure hose trom pressure gage nssembly and connect lo the supplled suctlon plpe.
 
-# 64-50/6
-
 # CHARGING SYSTEM:
 
 Requlrements for correcl charging are a sutficlent amount of relrigerant and pressure Inthe charging cyilnderof at least 9to 11 bar.lf there s not enough refrlgerant In the charglng cyllnder,thls must be compensated by sucking refrigerant out of the pressure cyllnder.lnsuliclent pressure can be Increased by switching on the charging cylinder heater or cleaning the refrigerant.
@@ -21701,8 +21466,6 @@ Reler to Speclllcatlons
 
 ![](images/b25082465b13a490d29dd2da09a2248ce2283e263eec4391d6b2027469197643.webp)
 
-# 64-50/9
-
 # AIA CONDITIONING EFFICIENCY TEST
 
 Soveral conditlons must be fulfllled for thls test.
@@ -21722,8 +21485,6 @@ Sel the heator to maxlmum heating. Switch the alr condllloner on and set lto rec
 Afterwards hoat up the passengor compartment loabout 50'C.The compressor must no longerswltch otf. Evaporator and passenger compariment temperature wll now be measured and subtracted from oach other. There should bo a diflerence ol approxlmalely 40'C.
 
 I thls dlfforence In temporatute 1s not reached, the Service Statlon musl be connecled and tho Intakopressuremeasured. I the Intake pressure 15 loss than 1.5 bar,proceed as describod formeasuring pressure with excesslvely low Intake pressure.
-
-# 64-50/10
 
 # DESCAIPTION OF REFRIGERANT CIRCUIT FUNCTION
 
@@ -21900,8 +21661,6 @@ After dlscharging, close valve (8)and
 swltch off vacuum pump.   
 There lsno longermolsture In the system If the needle of vacdummeter(12） remalns at oover a period of at least 3to 5mlnutes. However,I the needle rises In small jumps thls Is Indlcatlon of water drops which are evaporating and causing the pressure to rlse.In sucha case discharging must be continued.
 
-# 64-50/15
-
 # CHARGING SYSTEM:
 
 Requirements for correct charging are a sufficlent amount of refrigorant and prossure In tho charging cylinder of at least9to 11bar.lltherelsnol enough relrlgerant in the charglng cylinder,thls must be compensated by sucking refrigerant out of the pressure cyllnder. Insuficlent pressure can be Increased by swltching on thecharglng cyllnder heateror cleaning the refrlgerant.
@@ -21958,8 +21717,6 @@ If the compressor ls swltched of during the cleaning process,the reasons for thl
 1. Insufficlent/excessive pressure In Intake of the compressor.This Is appllcable; the charglng cyllnder valve Isopened too lttle or toomuch.   
 2. Excessive pressure（>17 bar) In charging cylnder.Thls means non-condensable gas In the clrcult. In thls case close valve(15) and dlscharge the non-condensable gas vla the Schrader valve on the charging cylinder or walt untilretrigerant In the charglng cyllnder has roached amblent temperature.Afterwards switch on suctlon untll thore ls no longer refrigerant In the service station and the compressor ls swltched off automatically.
 
-# 64-50/18
-
 # TROUBLESHOOTING BY MEASURING PRESSURE:
 
 Low Inlet pressure and high outlet-pressure Indicate a restricted hlgh pressure slde.
@@ -21994,8 +21751,6 @@ Low iniet pressure and normal outlet pressure Indlcate an Insufflclent chargedvo
 Reforto Specificatlons
 
 ![](images/017787252eff8bb805eb302dc1446ff647e3ae17c6d208ea9a974e2045aafd36.webp)
-
-# 64-50/19
 
 # AIR CONDITIONING EFFICIENCY TEST
 
@@ -22127,8 +21882,6 @@ Grip drive plate with special tool 64 5 090, unfasten screw (1)and removo drive 
 
 Prise open retaining ring and remove. Unfasten screw（1),disconnec!plug connectlon (2)and remove magnetic coll.
 
-# 64-53/1
-
 # 6453510.Removingand installing replacing drier flask forair.conditloner
 
 Note:
@@ -22172,8 +21925,6 @@ Replace O-rings.
 Unfasten screws left and right on condenser and pull out upwards condenser.
 
 ![](images/e0eeadebf30353a31438698e5e3a64a28c14c09d3389d7dd6ec19eeb4711a114.webp)
-
-# 64-90/1
 
 # OPERATION OFLOCK SENSOR
 
@@ -22463,8 +22214,6 @@ Automaticreel seat beltchecklist 72-90/1
 
 # 7211030 REMOVING AND INSTALLING ORREPLACING FRONT SEAT BELT
 
-# Remove seat - refer to Group 52.
-
 Important!   
 Check functlon ol seat bolt belore relnstalling seat. Operate backrest to both final poslons,whlch puts the locking system In neutral.   
 2. Operate seat to "top"posltlon and backrest to"front"posltlon.   
@@ -22581,8 +22330,6 @@ Unscrew bolt (5) and nuts [4}.
 
 Installation: Tightening torque\*.
 
-# 72-11/7
-
 # 7211... INSPECTING AUTOMATIC REEL SEAT BELTS
 
 The automatlc reel has two Independent activating syslems ior the locklng of seat belts.
@@ -22619,8 +22366,6 @@ tracesot abraslon Inplastic cover onbelt opening for tongue or damaged soams 中
 
 Also rofor to Check Listlor Automallc ReelSeat Belis.
 
-# 72-90/1
-
 # CHECK LISTFOR AUTOMATIC REEL SEAT BELTS
 
 ![](images/146504af1d8ba215219547e483081f6849806d40a8c9b20dc95d1a89cdec21c3.webp)
@@ -22628,13 +22373,11 @@ Also rofor to Check Listlor Automallc ReelSeat Belis.
 ![](images/d99225fa9048582bfce667f4a8227b420a956d07b8009f7612a15c8df405ddb5.webp)  
 CHECKLIST FOR AUTOMATIC REEL SEAT BELTS
 ### 00 Maintenance and general data
-`bmw_e31_am_en_f0c38ded` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Introduction \*\*\*.·.\*\*\*·.\*\*··...··\*·\*\*\*··\*\*\*··\*\*\*·· ...\*.·.··\*··.·.·...\*··.. 0- 1234 Main groups \*\*....\*... ....\*\*. 0- Pagecrossreference .....·.······..··· \*\*\*\*\*..\*\*\* .... 0- General information ...........................·.· ...............·.....................···. 0- Possiblehealth hazards when handling parts containing asbestos ....................·......·.. 0- 455 Important whendisconnecting battery 0- Importantwithbatteryconnected ... .\*\*4+\* 44 \*\*.\*..\*\*\*\*\*\*\*.\*\*\*\*\*\*\*\*\*.\*\*\*\*\*\*\*\*\*\*\*.\* 0- Windshieldwiper(wiper Vehiclewith interlocksystem motor) .......··.· ...\*\*..\*\*\*...\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\* ........\*... \*\*\*\*.\*\*\*\*\*\*\*\*\* .....\*\*·\* ..........·..\*..·..\*.\*...·.\*....\*·\*.. ................. 0- 0- 55 5 General instructionsforremovalandinstallation ofelectroniccontrol units ..\*···. ........... 0- General instructionsforignitionsystem DME (Digital MotorElectronics) andengine electrics .....·.·······.·..··..·····.··.·······..·.··.·····.····.· .·......·.....·........··...·.···.............·.....··· 0- 56 Lifting vehicle with agarage jack 4 44 \*\*\*. \*\*\*.·\*\*\*\*.\*\*\*\*\*\* 0- Lifting vehiclewith a workshop carhoist ....- 67 Towing ........···..· .........\*.\*.. 0-
 
 
 ### BMW Maintenance System
-`bmw_e31_am_en_2c7f00b7` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:2 | doc_type:owners_manual
 
 Themaintenance operationsarevalid uptomodel year93. Frommodelyear94, see InspectionSheet.   
 0000009 Pre-delivery inspection ............................... 00- 156 210 BMWpre-deliveryinspection （at2000km） .......... ................\*.. 00- 220 BMWinspection ...·.·........········· \*\*.\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*..\*\*\*+ 00- 230 BMWinspection II = inspection + additional work .\*\*.\*.\*\*\*.\*\*\*\*\*..\*.\* ....\*\*\*··. 00- 10 BMWannual inspection,serviceinterval reset ...............·.·..·· \*.++++\* 44+\* 00- 12 249 BMWengine oil service ................ 00- 13 259 BMWsafetytest \*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 00- 14   
@@ -22642,7 +22385,6 @@ Themaintenance operationsarevalid uptomodel year93. Frommodelyear94, see Inspect
 
 
 ### BMW Maintenance System 一 USA
-`bmw_e31_am_en_35ca034f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:3 | doc_type:owners_manual
 
 Maintenance operationsarevaliduntilmodelyear93.   
 From modelyear94,see Inspection Sheet.   
@@ -22657,7 +22399,6 @@ BMWairbagsystem (SRS) .h...-. 34
 
 
 ### INTRODUCTION
-`bmw_e31_am_en_ee71ef16` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:4 | doc_type:owners_manual
 
 TheseRepair Instructionsaretoassist you inperforming thenecessarymaintenanceandrepairwork expertlyandcorrectly Thiscomplements thepracticaland theoretical training given inour service training schools.
 
@@ -22686,25 +22427,21 @@ The Service Informationbulletinsprovideregular informationonimprovementsandmodif
 
 
 ### 0-3
-`bmw_e31_am_en_657aa9b3` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:5 | doc_type:owners_manual
 
 Page Cross Reference: Those pages In the page cross reference planwhichare underlined (e.g.11)are new orrevised.
 
 
 ### Important With Connected Battery!
-`bmw_e31_am_en_1098f382` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:6 | doc_type:owners_manual
 
 Worklng on components,wire connectlons and so on could cause faults In fault memorles of the concerned control units. Ifdisconnection of the battery is specifled In the Repalr Manual for the carrying out of repalrs, there must always be conformance with this in the Interest of safetv.
 
 
 ### Windshleld Wipers (Wiper Operating Motor)
-`bmw_e31_am_en_33593563` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:7 | doc_type:owners_manual
 
 Intermittent wlping and wiper speed 1 are swltched off by a protector in case of failure. The protector remains active even after ellminating the fault. 1 can be cancelled by turning the Ignition off(terminals15and R) for3 minutes.
 
 
 ### Carwlth Interiock System
-`bmw_e31_am_en_53e59841` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:8 | doc_type:owners_manual
 
 lf a component of the Interlock system was removed and installed or the Installed positlon of the Interlock cable changed,the following functlon check must be carrled out.
 
@@ -22713,7 +22450,6 @@ lf a component of the Interlock system was removed and installed or the Installe
 
 
 ### Important!
-`bmw_e31_am_en_a8d164b9` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:9 | doc_type:owners_manual
 
 Disconnecting the car's battery wlll cancel fault memorles of control units, so that it ls absolutely essentlal to Interrogate fault memoriesprior to disconneclion of the car's battery and to have the faults printed wlth the BMW Service Tester'sprinter. Stored faults must then be Investigated.
 
@@ -22733,13 +22469,11 @@ Always switch offthe lgnltion belore connecting and disconnecting the Service te
 
 
 ### LIFTING CAR WITH A CAR HOIST
-`bmw_e31_am_en_023cfaed` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:10 | doc_type:owners_manual
 
 Belore drlving a car on the platlorm, make sure that there 1s sutficlent space (clearance)between the holst and car (spollers, splash guards,etc.).
 
 
 ### LIFTING CAR WITH A GARAGE JACK
-`bmw_e31_am_en_ecad75df` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:11 | doc_type:owners_manual
 
 A garage jack may also only be applled for lfting the car on the same take-up polnts described for the car hoist.   
 A sultable lner(rubber, wood or plastlc) must be used between the jack and car to avold damage to the undercoating, Irame members or floorplate. Car holstsmust conlorm with local and national legislative measuresconcerning accldent prevention and malntenance. Arms o1 acar holst must always be applled only on the relnforced points of the framemembers.   
@@ -22762,7 +22496,6 @@ Conform with safety precautions and to speed speclficatlons when a car is "drive
 
 
 ### Towing
-`bmw_e31_am_en_118efe76` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:12 | doc_type:owners_manual
 
 ![](images/eb3563273484540964bdf61eb1337933b01a43e7e96abbd7634295335fd170dc.webp)
 
@@ -22811,7 +22544,6 @@ Screw in rear towing eye.
 
 
 ### 00-20
-`bmw_e31_am_en_445da179` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:13 | doc_type:owners_manual
 
 ![](images/cd4f6fb4baae068def4ab0779659a3716ff094f1432698ee2007195d08f3ddf0.webp)
 
@@ -22819,7 +22551,6 @@ Screw in rear towing eye.
 
 
 ### 00-22
-`bmw_e31_am_en_3c684b03` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:14 | doc_type:owners_manual
 
 ![](images/511d7e06afa00d62d09d1c358d64bfa9892aef868425164ca9f8c2df1449b2c9.webp)
 
@@ -22829,13 +22560,11 @@ Screw in rear towing eye.
 
 
 ### 00-25
-`bmw_e31_am_en_0c8dfb02` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:15 | doc_type:owners_manual
 
 ![](images/fd9f258277640c87a5ccf475cade5c2e5af6c6dd64ba8715684a289a4d7c5a38.webp)
 
 
 ### 00-26
-`bmw_e31_am_en_2810888e` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:16 | doc_type:owners_manual
 
 ![](images/f9173cfe42ac4b1feb688bd4e5b0fe0aa8fcb6ddd49f1d2c2859f0813c38d1bf.webp)
 
@@ -22845,7 +22574,6 @@ Screw in rear towing eye.
 
 
 ### 00-29
-`bmw_e31_am_en_096a32fa` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:17 | doc_type:owners_manual
 
 ![](images/1325d41b5060ac7cbb2f08075eaa26e459d919b846fdac24c5e07c996fa108d6.webp)
 
@@ -22855,31 +22583,26 @@ Screw in rear towing eye.
 
 
 ### 00-32
-`bmw_e31_am_en_aaaddb1e` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:18 | doc_type:owners_manual
 
 ![](images/addaf686c588e2a3eb4941f78281e695e30a2d044d36d8bd6b334b3aebef1b09.webp)
 
 
 ### 00-33
-`bmw_e31_am_en_6485effb` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:19 | doc_type:owners_manual
 
 ![](images/db2b59247b228896eb634dfc8f7a7bf06902522ffb36b8223a881e56f1f695bd.webp)
 
 
 ### 00-34
-`bmw_e31_am_en_fc8b9e9d` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:20 | doc_type:owners_manual
 
 ![](images/1ad261dac88281e1f32b66290fee1ccb71be2652fc07951284e37044d1c2aea4.webp)
 
 
 ### 00-35
-`bmw_e31_am_en_49110e10` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:21 | doc_type:owners_manual
 
 ![](images/e5549de9b50526887689eb99b556aeb979907cf01d9b3a83533cbc5a05ef37e5.webp)
 
 
 ### 11 Engine
-`bmw_e31_am_en_fa3a2ebb` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:22 | doc_type:owners_manual
 
 Engine M70   
 Engine M60   
@@ -22887,7 +22610,6 @@ Engine M73
 
 
 ### 11 Engine M70
-`bmw_e31_am_en_dc164017` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:23 | doc_type:owners_manual
 
 General information ... 11- 0/1   
 1100039 Cylinder compression 一 check 11- 0/1   
@@ -22912,13 +22634,11 @@ General information ... 11- 0/1
 
 
 ### General instructionsfor work involving the gaskets:
-`bmw_e31_am_en_3033cd57` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:24 | doc_type:owners_manual
 
 Apply a bead ol cement to all contact points and a thin,even coat of Hylomar SQ 32M\*\* to determine lhe location of the gaskets.
 
 
 ### 11 00039 Checking compression of all cylinders (M70)
-`bmw_e31_am_en_dd86289b` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:25 | doc_type:owners_manual
 
 Caution!   
 High voltage 中 danger of death!   
@@ -22939,16 +22659,13 @@ Depress accelerator and actuate starter until compression stopsrising.
 Compression pressure
 
 
-### Note:
-`bmw_e31_am_en_fbd0ed27` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:26 | doc_type:owners_manual
-
-special tool110162 166 167 can still be reused.
-
-![](images/11905e52e2b43ed8e160596ddca71af265f9c4424f2bf4949c4c2c06bfc1df9a.webp)
+> ℹ️ **Примечание:** 
+> special tool110162 166 167 can still be reused.
+>
+> ![](images/11905e52e2b43ed8e160596ddca71af265f9c4424f2bf4949c4c2c06bfc1df9a.webp)
 
 
 ### 0000249 BMW engine oil service M70
-`bmw_e31_am_en_7c8a58d2` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:27 | doc_type:owners_manual
 
 (change engine oil and oil filter)
 
@@ -22980,7 +22697,6 @@ Installation: Replace O-ring in oil filter cover. Tightening torque 11 42 2AZ\*
 
 
 ### 11 00 050 Removing and installing engine
-`bmw_e31_am_en_65bd48aa` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:28 | doc_type:owners_manual
 
 M70
 
@@ -22991,31 +22707,28 @@ Remove windshield wash container and place to one side.
 Remove transmission, refer to23 00 025,24 00026.
 
 
-### Caution!
-`bmw_e31_am_en_c646304e` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:29 | doc_type:owners_manual
-
-To prevent damage to the heating connections,special tool000 200 or special tool110010 used for removal of transmission must remain in place until engine is attached to special tool 110100.
-
-Drain oil from oil filter into the oil pan by opening the oil filter cover.
-
-installation: Fit new gasket.
-
-Lift engine hood into assembly position. Disconnect damper strut on engine hood, completely open engine hood and secure with one screw on each side (left and right).
-
-Disconnect oil lines from oil lilter.   
-Remove connector.
-
-Remove complete mass air flow sensor with suction gaiter and upper section of filter from left and right sides.
-
-Installation: Fit new seals.
-
-![](images/f7b4dbc2febcb1fd67e9819d7bdb38cb46438e2c65e2f2d025309eb5a3a7089a.webp)
-
-![](images/aa858ee17885409f0f8be264e0eb225a824c7921a7719873b766e8a0243242f1.webp)
+> ⚠️ **Внимание:** 
+> To prevent damage to the heating connections,special tool000 200 or special tool110010 used for removal of transmission must remain in place until engine is attached to special tool 110100.
+>
+> Drain oil from oil filter into the oil pan by opening the oil filter cover.
+>
+> installation: Fit new gasket.
+>
+> Lift engine hood into assembly position. Disconnect damper strut on engine hood, completely open engine hood and secure with one screw on each side (left and right).
+>
+> Disconnect oil lines from oil lilter.   
+> Remove connector.
+>
+> Remove complete mass air flow sensor with suction gaiter and upper section of filter from left and right sides.
+>
+> Installation: Fit new seals.
+>
+> ![](images/f7b4dbc2febcb1fd67e9819d7bdb38cb46438e2c65e2f2d025309eb5a3a7089a.webp)
+>
+> ![](images/aa858ee17885409f0f8be264e0eb225a824c7921a7719873b766e8a0243242f1.webp)
 
 
 ### 11-0/4
-`bmw_e31_am_en_59d481d5` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:30 | doc_type:owners_manual
 
 ![](images/e943f03240040a1181890e01efbf81ed22b5434fda910163386647f73efd08d3.webp)
 
@@ -23070,7 +22783,6 @@ Pull off plugson temperature sensors onrear end of engine.
 
 
 ### Arrangement:
-`bmw_e31_am_en_78c1db50` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:31 | doc_type:owners_manual
 
 123 Temperature sensor DME Temperature sensor 1 EML Temperature sensor □ temp.gage
 
@@ -23138,7 +22850,6 @@ Fit healing hoses frdn coolanit manilold and coolanl pipe between heating firewa
 
 
 ### 11-0/9
-`bmw_e31_am_en_97acb4e8` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:32 | doc_type:owners_manual
 
 ![](images/83c99b564371ec32f038ad221bdda842097e3beaf3522bdf8c14fbf58868ba18.webp)
 
@@ -23157,7 +22868,6 @@ On version with automatic transmission: Before installing the engine,install oil
 
 
 ### Remove the following components:
-`bmw_e31_am_en_45f54b2c` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:33 | doc_type:owners_manual
 
 Air intake manifold   
 {1161056 without"both gasket faces")   
@@ -23167,13 +22877,11 @@ Cylinder head cover with gasket
 
 
 ### Remove the following components:
-`bmw_e31_am_en_cbb26202` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:34 | doc_type:owners_manual
 
 Engine （1100050) Supportarm for leftengine mount Supportfor leftand right assembly frame Engine in assembly frame Rear left heat shield on A manifold partially installed Flexible hoses on left of manifold Injection pipe with Evalves on left and right lgnition line pipe on left and right manifold Left and right distributor caps Manifold with noise insulation strip on left andright Valve cover with gasket on leftand right sides Distributor finger housing and adapter housing with gasket on left and right Drive belt tensioner for alternator Timing case cover with gasket ii ona Sprocket wheel on left and right camshaft Engine in TDC position, discorinect, check timing Sliding rail forleft.timing chain Upper timing case with gasket Coolant connecting duct with gasket and rear O-ring Cylinder head screws on left, torque and torsion angle 120° Cylinder head with gasket on left Measure amount by which piston protrudes Clean crankcase Clean cylinder head Clean base of piston
 
 
 ### Remove following parts:
-`bmw_e31_am_en_f51f6162` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:35 | doc_type:owners_manual
 
 Transmisslon (23 00 025,24 00 024)   
 Clutch pressure plate on drive plate   
@@ -23196,7 +22904,6 @@ Power pump holder onoil pump
 
 
 ### Remove followlng parts:
-`bmw_e31_am_en_ce3b0683` | e31_am | pdf_manual | tier:2 | lang:en | layer:electrical | p:36 | doc_type:owners_manual
 
 Both cyllnder head covers   
 O catch tray on tIming case cover   
@@ -23219,7 +22926,6 @@ Upper timing case and gasket
 
 
 ### Remove following parts:
-`bmw_e31_am_en_0a41284d` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:37 | doc_type:owners_manual
 
 Upper tmlng case (1114102)   
 Lower ol pan sectlon   
@@ -23244,7 +22950,6 @@ ST= Speclal Tool
 
 
 ### 1114115 REMOVING AND INSTALLING, SEALING OR REPLACING LOWER TIMING CASE
-`bmw_e31_am_en_d86528d1` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:38 | doc_type:owners_manual
 
 Remove following parts:
 
@@ -23260,7 +22965,6 @@ ST= Speclal Tool
 
 
 ### 1122000 Replacing flywheel M70
-`bmw_e31_am_en_120c475f` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:39 | doc_type:owners_manual
 
 installation: Center drive plate with special tool21 2 120
 
@@ -23290,7 +22994,6 @@ Caution! Note direction of installation of drive plate.
 
 
 ### Remove lollowing parts:
-`bmw_e31_am_en_f85a648b` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:40 | doc_type:owners_manual
 
 Fan   
 Splash guard   
@@ -23308,7 +23011,6 @@ ST= Speclal Tool
 
 
 ### Remove following parts:
-`bmw_e31_am_en_e18ff043` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:41 | doc_type:owners_manual
 
 O catch tray on timing case   
 Fan   
@@ -23316,13 +23018,11 @@ Drive belt
 
 
 ### Remove the following components:
-`bmw_e31_am_en_96b1c384` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:42 | doc_type:owners_manual
 
 Upper timing case cover Finger Oil line for camshaft Bearing cover for camshaft
 
 
 ### 1131 051 Replace timing chain
-`bmw_e31_am_en_9cc64496` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:43 | doc_type:owners_manual
 
 Remove the following components:
 
@@ -23330,7 +23030,6 @@ Lower timing case cover (11 14 110) Engine into TDC position Tensioning rail and
 
 
 ### 1133062 REPLACING ALL HYDRAULIC VALVE CLEARANCE COMPENSATING ELEMENTS
-`bmw_e31_am_en_d794501f` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:44 | doc_type:owners_manual
 
 Remove following parts:
 
@@ -23344,7 +23043,6 @@ ST= Speclal Tool
 
 
 ### Remove following parts:
-`bmw_e31_am_en_1fb36df1` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:45 | doc_type:owners_manual
 
 Splash guard   
 Fan   
@@ -23360,7 +23058,6 @@ Water pump with O-rings
 
 
 ### Remove following parts:
-`bmw_e31_am_en_32f277b8` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:46 | doc_type:owners_manual
 
 Splash guard   
 Coolant drain and fill   
@@ -23369,7 +23066,6 @@ Cover for thermostat housing
 
 
 ### Remove followlng parts:
-`bmw_e31_am_en_22f8b98e` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:47 | doc_type:owners_manual
 
 Alr box complete on firewall   
 Cover lor fuel Injectors   
@@ -23393,7 +23089,6 @@ Bolh sealing langes
 
 
 ### Remove following parts:
-`bmw_e31_am_en_342775c7` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:48 | doc_type:owners_manual
 
 Upperalrcleaner secllon withalr   
 mass sensor left   
@@ -23417,7 +23112,6 @@ Staybolts for right manifolds in head
 
 
 ### 11 Engine M60
-`bmw_e31_am_en_7c8a8d9d` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:49 | doc_type:owners_manual
 
 General information .......··.· 11- 0/10   
 1100039 Compression check-all cylinders 11- 0/10   
@@ -23457,7 +23151,6 @@ General information .......··.· 11- 0/10
 
 
 ### General instructions for work involving the gaskets:
-`bmw_e31_am_en_771e0e4a` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:50 | doc_type:owners_manual
 
 Apply D bead of cement toall contact points andathin, even coatof Hylomar SQ 32M.\* to determine the location of the gaskets.
 
@@ -23465,7 +23158,6 @@ Apply D bead of cement toall contact points andathin, even coatof Hylomar SQ 32M
 
 
 ### 11 00039 Checking compression of all cylinders
-`bmw_e31_am_en_37b3b4c9` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:51 | doc_type:owners_manual
 
 Caution!   
 High voltage- danger of death!   
@@ -23481,7 +23173,6 @@ Repair Instructions Series 7 E38
 
 
 ### 0000249 BMW engine oil service M60
-`bmw_e31_am_en_1fd65ef5` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:52 | doc_type:owners_manual
 
 Change engine oil and oil filter
 
@@ -23519,7 +23210,6 @@ Installation: Fit new seal.
 
 
 ### 1100 050 Removing and installing engine(M60)
-`bmw_e31_am_en_09ed2610` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:53 | doc_type:owners_manual
 
 Interrogate the fault memory in allthe control units.   
 Follow instructions on disconnecting and connecting battery,refer to General Data HG12 Disconnect battery ground lead.   
@@ -23573,7 +23263,6 @@ Disconnect cable from positive terminal.
 
 
 ### 11-0/14
-`bmw_e31_am_en_0ab69f5e` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:54 | doc_type:owners_manual
 
 ![](images/f3747bdf43cee0e0a3edcc8e9d0c11c52842e1a981786440f05eee3ddf1db87a.webp)
 
@@ -23608,7 +23297,6 @@ If necessary, remove hydraulic line for ASC+T filterand remove from lower sectio
 
 
 ### 11-0/15
-`bmw_e31_am_en_f678cc5a` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:55 | doc_type:owners_manual
 
 ![](images/0cf4330f7b2f4fd864cca20d71c288befe6b4efd98a87ee5554e37610376abae.webp)
 
@@ -23630,18 +23318,15 @@ Unfasten air conditioning compressor from support block, see 6452020.
 Note: Lines remain connected.
 
 
-### Caution!
-`bmw_e31_am_en_f87dadfd` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:56 | doc_type:owners_manual
-
-Only lift engine using the mounting lugs provided for this purpose.
-
-![](images/3f6ff0e0aed0604c015fcd326005162e1b4f7674f5aa57750d96ee3945fb47d4.webp)
-
-Arrangement of front engine mounting.
+> ⚠️ **Внимание:** 
+> Only lift engine using the mounting lugs provided for this purpose.
+>
+> ![](images/3f6ff0e0aed0604c015fcd326005162e1b4f7674f5aa57750d96ee3945fb47d4.webp)
+>
+> Arrangement of front engine mounting.
 
 
 ### 11 12004 Removingand installing sealing both cylinder head covers
-`bmw_e31_am_en_0979638c` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:57 | doc_type:owners_manual
 
 M60
 
@@ -23679,7 +23364,6 @@ Remove cable gulde to bll level switch.
 
 
 ### 11-12/11
-`bmw_e31_am_en_82cc135e` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:58 | doc_type:owners_manual
 
 ![](images/0b0e90d5a1adb13ba23db323e6399b4c004620aca1cf8f2a78b9f230076f2028.webp)
 
@@ -23689,45 +23373,41 @@ duct:
 （3） TDC sensor
 
 
-### Caution!
-`bmw_e31_am_en_6535a96a` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:59 | doc_type:owners_manual
-
-Incorrect installation of plug connections (1) and (2) causes engine damage.   
-Note instructions,   
-see 12 14610/611.
-
-![](images/a4454cf4be8965a2ef65e5d3237a73b5b74ecec1b035f8850335650023b33021.webp)
-
-Remove ignition coils from both cylinder banks,see 1213 011.
-
-Disconnect plug connections: (1) temperature sensor for intake alr (2) throttle valve potentiometer (3) idle speed actuator
-
-Unfasten left and right retainers.
-
-Disconnect engine connector Irom left and right cable ducts.
-
-Installation:   
-Layout of retaining elements:   
-(1)nut   
-(2) washer   
-(3) rubber seal
-
-Remove left and right cable ducts from bracket and fold to one side.
-
-Instaflation: Check gasket and replace if necessary.
-
-Coat the entire circumference of the outer and inner groove and the sealing face of the cylinder head cover with rubber anti-friction compound, e.g.glycerine\*\*.   
-Press the inner gasket into the cover groove with no torsional stress,starting at the four corner radil.
+> ⚠️ **Внимание:** 
+> Incorrect installation of plug connections (1) and (2) causes engine damage.   
+> Note instructions,   
+> see 12 14610/611.
+>
+> ![](images/a4454cf4be8965a2ef65e5d3237a73b5b74ecec1b035f8850335650023b33021.webp)
+>
+> Remove ignition coils from both cylinder banks,see 1213 011.
+>
+> Disconnect plug connections: (1) temperature sensor for intake alr (2) throttle valve potentiometer (3) idle speed actuator
+>
+> Unfasten left and right retainers.
+>
+> Disconnect engine connector Irom left and right cable ducts.
+>
+> Installation:   
+> Layout of retaining elements:   
+> (1)nut   
+> (2) washer   
+> (3) rubber seal
+>
+> Remove left and right cable ducts from bracket and fold to one side.
+>
+> Instaflation: Check gasket and replace if necessary.
+>
+> Coat the entire circumference of the outer and inner groove and the sealing face of the cylinder head cover with rubber anti-friction compound, e.g.glycerine\*\*.   
+> Press the inner gasket into the cover groove with no torsional stress,starting at the four corner radil.
 
 
 ### 11-12/12
-`bmw_e31_am_en_1eb75927` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:60 | doc_type:owners_manual
 
 ![](images/04b6915f3644383f6136be8cadbae2bf90e821302674ec188c545b0d5389289e.webp)
 
 
 ### Installation:
-`bmw_e31_am_en_506d4463` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 
 Align outer gasket loosely over the cover groove. Secure gasket in the cover groove, starting at the four reverse corners (1）and press into groove with no torsional stress.
 
@@ -23738,13 +23418,11 @@ Check for correct seating of gasket on back ol cylinder head when installing the
 
 
 ### Installation:
-`bmw_e31_am_en_ff07dc68` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 Attach two retainers to the locating points, without preload at this stage, and align the cover. Installallthe other retaining elements and tightencrosswise,radiating outfromthe center.
 
 
 ### 11 12005 Removingand installing sealing left cylinder head cover
-`bmw_e31_am_en_cb986fd7` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:63 | doc_type:owners_manual
 
 M60
 
@@ -23753,7 +23431,6 @@ This operation is described in the section on removing and installing sealing bo
 
 
 ### 11 12006 Removingand installing 1 sealing right cylinder head cover.
-`bmw_e31_am_en_0da38a84` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:64 | doc_type:owners_manual
 
 M 60
 
@@ -23762,7 +23439,6 @@ This operation is described in the section on removing and installing sealing bo
 
 
 ### 11 12106 Removingand installing rightcylinder head
-`bmw_e31_am_en_fd2967a3` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:65 | doc_type:owners_manual
 
 M60
 
@@ -23813,7 +23489,6 @@ Subseouqot.orpcedure refer to 11 12 106 Repair Instructions 1or7 Serles E38
 
 
 ### 1112107 Removingand installing bothcylinder heads
-`bmw_e31_am_en_5053afa5` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:66 | doc_type:owners_manual
 
 This operation is described in seclion on re  
 moving and installing right left cylinder   
@@ -23822,7 +23497,6 @@ referto1112105 106
 
 
 ### 11 12110 Replacing left cylinder head gasket
-`bmw_e31_am_en_6468a86e` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:67 | doc_type:owners_manual
 
 M60
 
@@ -23835,7 +23509,6 @@ referto 11 12 105
 
 
 ### 1112111 Replacingright cylinder head gasket
-`bmw_e31_am_en_9981f461` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:68 | doc_type:owners_manual
 
 M60
 
@@ -23846,7 +23519,6 @@ refer_to 11 12 106
 
 
 ### 11 12112 Replacing both cylinder head gaskets
-`bmw_e31_am_en_312d30b8` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:69 | doc_type:owners_manual
 
 M60
 
@@ -23854,7 +23526,6 @@ This operation is described in section onremoving and installing both cylinder h
 
 
 ### 1113010 Removingand installing or replacing uppersection of oil pan
-`bmw_e31_am_en_326c27b9` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 M 60
 
@@ -23887,7 +23558,6 @@ Remove left and right rear heat baffle plates.
 
 
 ### 11-13/11
-`bmw_e31_am_en_229b408f` | e31_am | pdf_manual | tier:2 | lang:en | layer:hvac | p:71 | doc_type:owners_manual
 
 ![](images/0de5b42a9f9230a7382e990ba5df562307ddffdcacc289355c075637ae5aed92.webp)
 
@@ -23924,7 +23594,6 @@ Unfasten mounting bracket for air conditioning compressor.
 
 
 ### 11-13/12
-`bmw_e31_am_en_665610ef` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:72 | doc_type:owners_manual
 
 Unfasten dip stick guide Irom oil pan.
 
@@ -23956,7 +23625,6 @@ Remove oil pump, see1141000.
 
 
 ### 11-13/13
-`bmw_e31_am_en_48b5817a` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:73 | doc_type:owners_manual
 
 ![](images/216fccd6fe6e9747ba12204adebd204deef3241d71db104cd76a7f0143037e2f.webp)
 
@@ -23965,7 +23633,6 @@ Remove upper section of oil pan by pulling forwards.
 
 
 ### 11 13020 Removingand installingor replacing lowersectionof oil pan
-`bmw_e31_am_en_c5b36804` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:74 | doc_type:owners_manual
 
 M 60
 
@@ -23987,7 +23654,6 @@ Disconnect plug connection on oil level switch.
 
 
 ### 11-13/14
-`bmw_e31_am_en_251a10bb` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:75 | doc_type:owners_manual
 
 ![](images/dcfaf1f2de2e7fdef10f0dcb75e4669f5555453051cb0eede2ad0a3f2f1b67c8.webp)
 
@@ -24001,7 +23667,6 @@ Installation: Clean sealing laces and lit new gasket.
 
 
 ### 1114080 Removingand installing, sealing or replacing topleft timingcase cover
-`bmw_e31_am_en_62fd1f49` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:76 | doc_type:owners_manual
 
 ![](images/2c835b00dff1d7acf29c7ee4d796d843c16f6859119b730924038475ee096a80.webp)
 
@@ -24041,7 +23706,6 @@ Then tighten the screw connection to the cylinder head in two stages.
 
 
 ### 1114 085 Removing and installing, sealing or replacing top right timing case cover
-`bmw_e31_am_en_c4ab1053` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:77 | doc_type:owners_manual
 
 Installation: To facilitate assembly operation, drain oil chamber between sleeve and hydraulic piston.
 
@@ -24089,34 +23753,30 @@ Caution! Remove protective film.
 
 
 ### Instalation:
-`bmw_e31_am_en_8a06c538` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:78 | doc_type:owners_manual
 
 Tighten-screws on timing case cover（2）.in two stages.
 
 Then tighten the remaining screws 1in two stages.
 
 
-### Caution!
-`bmw_e31_am_en_cde5b3b7` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:79 | doc_type:owners_manual
-
-Replace sealing ring in cylinder head for oil supply ol chain tensioner.
-
-installation:   
-Ensure that hollowdowelsare'correctly located (1).   
-Coat the edges of the joint between cylinder head and cylinder head gasket with liquid sealing compound Hylomar SO32_M"\*.
-
-Instaltation:
-
-Ensure that gaskets are correctly seated.   
-- Pdnmng nfosntuy. Fit timing case cover. Install al screws.
-
-Fit screw connection flush to cylinder head (1).
-
-![](images/b39ba8da075785facd1b0562cd3534b481c1d48f8a3cf9a30bea8bb06f80ba01.webp)
+> ⚠️ **Внимание:** 
+> Replace sealing ring in cylinder head for oil supply ol chain tensioner.
+>
+> installation:   
+> Ensure that hollowdowelsare'correctly located (1).   
+> Coat the edges of the joint between cylinder head and cylinder head gasket with liquid sealing compound Hylomar SO32_M"\*.
+>
+> Instaltation:
+>
+> Ensure that gaskets are correctly seated.   
+> - Pdnmng nfosntuy. Fit timing case cover. Install al screws.
+>
+> Fit screw connection flush to cylinder head (1).
+>
+> ![](images/b39ba8da075785facd1b0562cd3534b481c1d48f8a3cf9a30bea8bb06f80ba01.webp)
 
 
 ### 11.14 141 Replacingradial seal in lower timing case cover
-`bmw_e31_am_en_80c1d4a8` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:80 | doc_type:owners_manual
 
 M60
 
@@ -24124,7 +23784,6 @@ Reler to Repair Instuctions for the 5Series E34.
 
 
 ### 11 14151 Replacing radial crankshaft seal
-`bmw_e31_am_en_9f119235` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:81 | doc_type:owners_manual
 
 Transmission side
 
@@ -24136,7 +23795,6 @@ Refer lo Repair Instructions for lhe 5 Series E34.
 
 
 ### 1122 000 Removing and installing or replacing the flywheel
-`bmw_e31_am_en_00097be0` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:82 | doc_type:owners_manual
 
 M60
 
@@ -24144,7 +23802,6 @@ Reler 1o Repair Instructions for 5 Series E34.
 
 
 ### 1123031 Removingand installing or replacing hub forvibration damper
-`bmw_e31_am_en_5d31c8f7` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:83 | doc_type:owners_manual
 
 M60
 
@@ -24164,7 +23821,6 @@ lf necessary, shorten end of speclal tool 112450to the specified dlmension.
 
 
 ### 11-23/11
-`bmw_e31_am_en_ef17955e` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:84 | doc_type:owners_manual
 
 ![](images/6254526abba0f604faf4a35d97d699445303f1c052d1d204e1133b088231aa1e.webp)
 
@@ -24185,7 +23841,6 @@ Tighten central screw with torsion angle. Tightening torque 11 23 2AZ\*
 
 
 ### 11 28010 Repiacing drive belt for alternator
-`bmw_e31_am_en_7e0b04a1` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:85 | doc_type:owners_manual
 
 Unfasten nuts (1) and (2) and relieve tension on belt drive.   
 Remove Vee belt. Installation:   
@@ -24203,7 +23858,6 @@ Installation: Tightening torque 11 52 1AZ\*
 
 
 ### Installation:
-`bmw_e31_am_en_044db5b2` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:86 | doc_type:owners_manual
 
 Fit Vee belt and check that pulley wheels are correctly located.   
 Preload adjustingplate on hex head（1）untilit contacts the end of the long bore （2）and   
@@ -24241,13 +23895,11 @@ Remove complete upper section of air intake filter together with mass air flowse
 
 
 ### 1131 011 Replacing left camshaft
-`bmw_e31_am_en_5b33d2d8` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:87 | doc_type:owners_manual
 
 {inlet or exhaust side. as applicable) Cylinder bank 5-8
 
 
 ### 11 31015 Replacing right camshaft
-`bmw_e31_am_en_f20f8592` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:88 | doc_type:owners_manual
 
 M60
 
@@ -24267,13 +23919,11 @@ Subsequent procedure, referto1131015 Repair Instructions 1or7 Series E38
 
 
 ### 1141 000 Removingand installing or replacing oil pump
-`bmw_e31_am_en_b4d9286d` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:89 | doc_type:owners_manual
 
 see Repair Instructions 1or5 Series E34.
 
 
 ### 1142020 Removing and installing, sealing or replacingcomplete full-flowoil filter
-`bmw_e31_am_en_3c1a00f7` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:90 | doc_type:owners_manual
 
 ![](images/01eee93fbab4bcc88e0468508d39eea09666fb4277f9af183641d41040b30999.webp)
 
@@ -24297,7 +23947,6 @@ Installation: Fit new seals.
 
 
 ### 11 51011 Replacing pulley wheel on water pump
-`bmw_e31_am_en_6f7942d9` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:91 | doc_type:owners_manual
 
 M60
 
@@ -24328,7 +23977,6 @@ Remove left and right heat baffle plates from front axle carrier.
 
 
 ### 11-53/11
-`bmw_e31_am_en_c2adf500` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:92 | doc_type:owners_manual
 
 ![](images/e44893e09f727e14dd03bfa6e7008586f6942c9f7fd0c671d410e25987451201.webp)
 
@@ -24366,7 +24014,6 @@ Bleed cooling system and check for leaks.
 
 
 ### 1161 050 Removing and installing air Intakemanifold
-`bmw_e31_am_en_26555e75` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:93 | doc_type:owners_manual
 
 ![](images/0040aaea498d87670c3ae2b59adf1896dd73db0861365e5b017992cd5f7df2a2.webp)
 
@@ -24403,7 +24050,6 @@ Loosen nuts. Remove decoupling units,then remove intake alr manifold by lifting 
 
 
 ### 11-61/11
-`bmw_e31_am_en_57d7a4f3` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:94 | doc_type:owners_manual
 
 Note:   
 The intake air manifold is separated from the cylinder head by decoupling units and gaskets (vibration damping).   
@@ -24421,7 +24067,6 @@ Installation: Check gaskets and replace if necessary. Ensure that the gaskets ar
 
 
 ### 1162 142 Removing and installing or replacing both leftexhaust manifolds
-`bmw_e31_am_en_04ba40f6` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:95 | doc_type:owners_manual
 
 M60
 
@@ -24454,7 +24099,6 @@ Remove hose to idle speed actuator and remove gaiter between throttle body and m
 
 
 ### 11-62/11
-`bmw_e31_am_en_15d30ca3` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:96 | doc_type:owners_manual
 
 ![](images/022f423b789308181b052f6bba01c43a1667ceb676a2dd032442e041b9af2b06.webp)
 
@@ -24496,7 +24140,6 @@ Sealing bead faces the exhaust manifold.
 
 
 ### 11 62 143 Removing,installing orreplacing both exhaust manifolds
-`bmw_e31_am_en_67fe9b91` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:97 | doc_type:owners_manual
 
 M60
 
@@ -24527,7 +24170,6 @@ Remove both heat baffle plates from engine support.
 
 
 ### 11 Engine M73
-`bmw_e31_am_en_672d204a` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:98 | doc_type:owners_manual
 
 0000249 BMWengine oil service .. 11- 0/20   
 1100039 Compressioncheck-all cylinders \*..........\*......\* 11- 0/20   
@@ -24552,7 +24194,6 @@ Repair Instructionslor 7Series E38
 
 
 ### 11 00039 Checking compression of all cylinders
-`bmw_e31_am_en_b2dc29bd` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:99 | doc_type:owners_manual
 
 ![](images/78f71a4e6c77caa12e1eb6ddf715a890d42e7f2db155bf841758c987379671e1.webp)
 
@@ -24566,7 +24207,6 @@ Repair Instructions for7Series E38
 
 
 ### 11 00 050 Removing and installing engine
-`bmw_e31_am_en_9533b3ff` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:100 | doc_type:owners_manual
 
 M73
 
@@ -24597,7 +24237,6 @@ Unfasten hose clip from pressure pipe on air pump. Remove hose.
 
 
 ### 11-0/22
-`bmw_e31_am_en_a2eec14b` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:101 | doc_type:owners_manual
 
 Remove complete full flow oil filter. referto 1142020 Repair Instructions for 7 Series E38
 
@@ -24684,7 +24323,6 @@ Raise engine slightly and remove right engine support arm.
 
 
 ### 11 12 004 Removingand installing/ sealing both cylinder head covers
-`bmw_e31_am_en_d9b9aa46` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:102 | doc_type:owners_manual
 
 M73
 
@@ -24693,7 +24331,6 @@ Repair Instructionsfor7 Series E38
 
 
 ### 11 12 105 Removingand installing left cylinder head
-`bmw_e31_am_en_5b900e47` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:103 | doc_type:owners_manual
 
 M73
 
@@ -24703,7 +24340,6 @@ Subsequent procedure. refer to 11 12105 Repair Instructions for7Series E38
 
 
 ### 11 12 005 Removingand installing/ sealingleft cylinder head cover
-`bmw_e31_am_en_b26ec439` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:104 | doc_type:owners_manual
 
 M73
 
@@ -24715,7 +24351,6 @@ Repair Instructionsfor7 Series E38
 
 
 ### 11 12 006 Removingand installing/ sealing right cylinder head cover
-`bmw_e31_am_en_30c25cd6` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:105 | doc_type:owners_manual
 
 M73
 
@@ -24727,7 +24362,6 @@ Repair Instructions for 7 Series E38
 
 
 ### 1112106Removingand installing right cylinder head
-`bmw_e31_am_en_abae718f` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:106 | doc_type:owners_manual
 
 M73
 
@@ -24737,7 +24371,6 @@ Subsequent procedure, refer to1112106 Repair Instructions for 7Series E38
 
 
 ### 11 13010 Removingand installing /replacingupper section of oil pan
-`bmw_e31_am_en_69b07888` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:107 | doc_type:owners_manual
 
 Remove fan coupling wlth fanwheel, referto 11 52 020 Repair Instructions for7Series E38
 
@@ -24767,7 +24400,6 @@ Remove coolant guide on alternator.
 
 
 ### 11-13/21
-`bmw_e31_am_en_89c356a9` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:108 | doc_type:owners_manual
 
 ![](images/04ba628a809633906d8958920d02d95e102cb1072cfc031ef86bff8208bb7455.webp)
 
@@ -24841,7 +24473,6 @@ Uniasten screws on end cover.
 
 
 ### 11-13/23
-`bmw_e31_am_en_906361b0` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:109 | doc_type:owners_manual
 
 ![](images/dc3d8299eecc857b3f7e11121f9685e032c38bc7f0941fac8bfe81e354a9b1a0.webp)
 
@@ -24885,7 +24516,6 @@ Replace O-ring (2).
 
 
 ### 1162 142 Removingand installing replacing both left exhaust manifolds
-`bmw_e31_am_en_b447b386` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:110 | doc_type:owners_manual
 
 M73
 
@@ -24923,7 +24553,6 @@ Unfasten bracket for cooling water hose
 
 
 ### 11-62/21
-`bmw_e31_am_en_6d3dba54` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:111 | doc_type:owners_manual
 
 ![](images/503193c6951ffee2355f51d5397639a167a0c89c5e9df1c750ee98b7a24a9b3e.webp)
 
@@ -24937,7 +24566,6 @@ Subsequont procedure, reler to 11 62142 Repair Instructions lor7Serles E38
 
 
 ### 1 62 143 Removing and installing replacing both right exhaust manifolds
-`bmw_e31_am_en_913acf08` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:112 | doc_type:owners_manual
 
 M73
 
@@ -24970,7 +24598,6 @@ Remove hoses.
 
 
 ### 12 Engine electrical system
-`bmw_e31_am_en_ee75c592` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:113 | doc_type:owners_manual
 
 viy vnuvnv   
 eeeinitionisibutio .......... .12 002   
@@ -25051,7 +24678,6 @@ Table:DME 1.7errorcodes 12 73/2
 
 
 ### 3334545 Replacing filterin spring accumulator unit
-`bmw_e31_am_en_d7e72f76` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:114 | doc_type:owners_manual
 
 Switch off ignition.   
 Remove sparewheel.   
@@ -25059,7 +24685,6 @@ Remove cover of spring accumulator unit.
 
 
 ### 33 34547 Replacing filter in actuator unit
-`bmw_e31_am_en_a5664948` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:115 | doc_type:owners_manual
 
 Switch off ignition.   
 Remove spare wheel.   
@@ -25090,7 +24715,6 @@ Installation: Tightening torque 33 34 7AZ\*
 
 
 ### INSTRUCTIONS FOR WORKING ON IGNITION SYSTEM, DME (DIGITAL MOTOA ELECTRONICS) AND ENGINE ELECTAICAL EQUIPMENT
-`bmw_e31_am_en_0cc01f4e` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:116 | doc_type:owners_manual
 
 Caution!   
 Always switch off Ignltlon before working on Ignitlon syslem ■ dangerous   
@@ -25112,7 +24736,6 @@ Battery as well as wlres on alternator and startermay not be dlsconnected onarun
 
 
 ### Caufion!
-`bmw_e31_am_en_19ed1725` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:117 | doc_type:owners_manual
 
 Disconnecting thecar's battery will cancel the lault memories o control unlts.
 
@@ -25135,7 +24758,6 @@ Install control unit and drive car.
 
 
 ### CHECKING COMPONENTS
-`bmw_e31_am_en_99e472aa` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:118 | doc_type:owners_manual
 
 Note:   
 Relerto Construction Group Repalr Manual.   
@@ -25151,7 +24773,6 @@ Test values for checking components are contained In the Car Electrlc Electronic
 
 
 ### OUTSIDE STARTING AIR AND CAR TELEPHONE
-`bmw_e31_am_en_1bf4a19d` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:119 | doc_type:owners_manual
 
 Slemens C 2:   
 When starting the engine with help of the battery Ina dlfferent vehlcle ensure that the SlemensC2 telephone ls not damaged through overvoltage. Dlsconnect the sender and recelver from the electrical system priorto starting the engine with outslde help. Slemens C 3 and Molorola C 451:   
@@ -25177,7 +24798,6 @@ These procedures serve Immedlate and preclse synchronization ofboth banks of cyl
 
 
 ### 1211 094 REPLACING BOTH DISTRIBUTOR CAPS
-`bmw_e31_am_en_66ba397b` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:120 | doc_type:owners_manual
 
 Remove upper air cleaner sectlon complete with airmass sensor.
 
@@ -25213,19 +24833,16 @@ Installation: Check seal, replacing Ifnecessary.
 
 
 ### 1211 096 Replacing left distributor cap (M73)
-`bmw_e31_am_en_ac692dc5` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:121 | doc_type:owners_manual
 
 Refer to Repair Instructions for 7 Series E38.
 
 
 ### 1211 098Replacing rightdistributor cap (M73)
-`bmw_e31_am_en_cac4f6a7` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:122 | doc_type:owners_manual
 
 Refer to Repalr Instructions for7 Series E38.
 
 
 ### 1211 114Replacing both distributor rotors
-`bmw_e31_am_en_c1532c87` | e31_am | pdf_manual | tier:2 | lang:en | layer:infotainment | p:123 | doc_type:owners_manual
 
 Remove distributor cap = reler to 12 11096 or 1211098, Repair Instructions for 7 SeriesE38.
 
@@ -25238,24 +24855,20 @@ Tightening torque,
 reler to Technical Data 12112AZ.
 
 
-### Note:
-`bmw_e31_am_en_4a690210` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:125 | doc_type:owners_manual
-
-Measure resistance' and check surface and casting compound for halrline cracks and burn marks.
-
-unit is alfected by these faults, always search for the cause of the fault and replace the relevant component.
-
-Referto Repair Instructions lor 7 Series E38.
+> ℹ️ **Примечание:** 
+> Measure resistance' and check surface and casting compound for halrline cracks and burn marks.
+>
+> unit is alfected by these faults, always search for the cause of the fault and replace the relevant component.
+>
+> Referto Repair Instructions lor 7 Series E38.
 
 
 ### 12 11208 Checking distributor cap, ignition leads andignition line connector onright side
-`bmw_e31_am_en_b9494cac` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:126 | doc_type:owners_manual
 
 ![](images/4a580940536f37fcfe3dd270ef4475e1e4f835f00182474f6672aa0aab704b5c.webp)
 
 
 ### 1212011 Replacing spark plugs(M70,S 70）
-`bmw_e31_am_en_985ee09f` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:127 | doc_type:owners_manual
 
 M70   
 Remove windshield wash container.   
@@ -25266,7 +24879,6 @@ Unscrew and remove spark plug with special tool121170
 
 
 ### 12 12011 Replacing spark plugs (M 60)
-`bmw_e31_am_en_da94a389` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:128 | doc_type:owners_manual
 
 Unclip coverover screws.   
 Unfasten screws.   
@@ -25289,7 +24901,6 @@ Without tool121200,note tighteningtorque. Tightening torque 12 12 1AZ'
 
 
 ### 1212011 Replacing all spark plugs (M73)
-`bmw_e31_am_en_f1b871b2` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:129 | doc_type:owners_manual
 
 Switch off ignition.   
 Disconnect spark plug connector.
@@ -25314,7 +24925,6 @@ Tightening torque, referto Technical Data 12 12 1AZ
 
 
 ### 1212 036 Replacing allignition leads onleft side(M73)
-`bmw_e31_am_en_bfc9ad80` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:130 | doc_type:owners_manual
 
 Switch off ignition.
 
@@ -25334,7 +24944,6 @@ Firing order, refor to Technical Data
 
 
 ### 1212 038Replacingall ignition leads on rightside(M73)
-`bmw_e31_am_en_a3a283a0` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:131 | doc_type:owners_manual
 
 This operation is described in section 1212 036.
 
@@ -25342,7 +24951,6 @@ This operation is described in section 1212 036.
 
 
 ### 12 12072 Replacing onespark plug connector
-`bmw_e31_am_en_fa36568e` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:132 | doc_type:owners_manual
 
 Switch off ignltion.   
 Disconnect Ignition lead directly bohind the conneclor. Tighten pliers by presslng handles together.   
@@ -25368,13 +24976,11 @@ Slide special tool121087 onto spark plug connector.Spray ignition lead with spec
 
 
 ### 12-13/1
-`bmw_e31_am_en_4bbeb179` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:133 | doc_type:owners_manual
 
 ![](images/5b22287e0eb991af6b99e782d48c494c0d804221b6f4c4afb75fdda117803c1d.webp)
 
 
 ### 1213 009 Checking ignitioncoll (M70, S 70)
-`bmw_e31_am_en_ac2b849f` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:134 | doc_type:owners_manual
 
 Multimeter check {M06]: Measure resistance ofprimary coil Term.1/15=0.5ks 10 % and secondary coll Term. 15/4=6k 10%
 
@@ -25403,20 +25009,17 @@ ground
 ![](images/88103fc7ce71c642150adb02e1c6be54609f23da05715292e1fb0d1c5db5d674.webp)
 
 
-### Note:
-`bmw_e31_am_en_a00e14cb` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:135 | doc_type:owners_manual
-
-Very high ignition voltage dovlations, indicated in Test Step 09,may becaused by incorrectconnection of the Tester (connection to thewrong cylinder bank),
-
-Perform measurement of lelt cylinder bank 7...12withadaptercable612010and universal diagnosis cable. Disconnect diagnosis cable from diagnosis connector lo prevent oscilloscopefromreceivingatrigger signal from the wrong cylinder bank,
-
-Note:   
-Cylinder recognition sensor on left side, onignltlon line for cylinder 12.   
-Right side on ignition line tocylinder-6.
+> ℹ️ **Примечание:** 
+> Very high ignition voltage dovlations, indicated in Test Step 09,may becaused by incorrectconnection of the Tester (connection to thewrong cylinder bank),
+>
+> Perform measurement of lelt cylinder bank 7...12withadaptercable612010and universal diagnosis cable. Disconnect diagnosis cable from diagnosis connector lo prevent oscilloscopefromreceivingatrigger signal from the wrong cylinder bank,
+>
+> Note:   
+> Cylinder recognition sensor on left side, onignltlon line for cylinder 12.   
+> Right side on ignition line tocylinder-6.
 
 
 ### 12 13 009 Checking ignition coil (M73)
-`bmw_e31_am_en_0f326445` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:136 | doc_type:owners_manual
 
 Refer to Repair Instructions lor Series E38.
 
@@ -25424,7 +25027,6 @@ Refer to Repair Instructions lor Series E38.
 
 
 ### 12 13009 Checking ignition coil (M 60)
-`bmw_e31_am_en_6e848f97` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:137 | doc_type:owners_manual
 
 Circuit diagram for ignition coil in breakerless ignition distribution.
 
@@ -25447,13 +25049,11 @@ Visual inspection of the ignition coil: Check cast compound of primary coil carr
 
 
 ### 12-13/3
-`bmw_e31_am_en_6bf96559` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:138 | doc_type:owners_manual
 
 ![](images/9e4309678c274a426edf0ac8962f4165452479c6db28838319dea3a45e9c68ff.webp)
 
 
 ### 1213 Check secondary voltage with the help of test adapter kit12 7 040
-`bmw_e31_am_en_62a4590d` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:139 | doc_type:owners_manual
 
 Use the adapter kit to perform the following   
 checks:   
@@ -25512,7 +25112,6 @@ Apply handbrake and move shift lever into nautral setting.Withautomatic transmis
 
 
 ### Connect BMW Service Tester:
-`bmw_e31_am_en_191d8eb7` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:140 | doc_type:owners_manual
 
 Unscrew high voltage pliers fromconnecting cable of BMW Service Tester. Attach connectingcable 127042 tothe high voltage adapter line of the BMW Service Tester.
 
@@ -25522,7 +25121,6 @@ Select displaymodes for secondary voltage patterns on the oscilloscope by pressi
 
 
 ### 12-13/5
-`bmw_e31_am_en_b8b80353` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:141 | doc_type:owners_manual
 
 ![](images/e5f2043e0c5adc6d972c1977cf275ca69182640766840eab0c7b644245e8a13c.webp)
 
@@ -25532,7 +25130,6 @@ Select displaymodes for secondary voltage patterns on the oscilloscope by pressi
 
 
 ### Normal oscillogram
-`bmw_e31_am_en_e73d36e9` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:142 | doc_type:owners_manual
 
 Consecutive displays Idle speed
 
@@ -25549,7 +25146,6 @@ Display at increased speed of approx. 2000min 1 Evaluation of ignition voltage s
 
 
 ### Oscillogram readings of igni tion coils from different manufacturers
-`bmw_e31_am_en_7d77af39` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:143 | doc_type:owners_manual
 
 Evaluation of ignition voltage spikes and the attenuation process at idle speed
 
@@ -25572,7 +25168,6 @@ Manufacturer: Beru 3 Normal ignition voltage spike 4 High start of attenuation p
 
 
 ### Manufacturer: May& Christe
-`bmw_e31_am_en_c89934dc` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:144 | doc_type:owners_manual
 
 5 Normal ignition voltage spike 中 Low start of attenuation processes
 
@@ -25580,14 +25175,12 @@ Manufacturer: Beru 3 Normal ignition voltage spike 4 High start of attenuation p
 
 
 ### Manufacturer: Beru
-`bmw_e31_am_en_c79c01e1` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:145 | doc_type:owners_manual
 
 1 Normal response of combustion voltage curve   
 23 Normal combustion period At least 3 attenuations
 
 
 ### Manufacturer: Bosch
-`bmw_e31_am_en_51565b58` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:146 | doc_type:owners_manual
 
 7 Low ignition voltage spike   
 8 Normal start of attenuation processes Note: At high engine speeds. the ignition voltage spike becomes shorter significantly shorter than units from other ignition coil manufacturers.
@@ -25598,13 +25191,11 @@ Manufacturer: Beru 3 Normal ignition voltage spike 4 High start of attenuation p
 
 
 ### Manufacturer: May & Christe
-`bmw_e31_am_en_6ec44f6e` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:147 | doc_type:owners_manual
 
 No response from the combustion voltage curve 23 Normal combustion period At least5attenuations
 
 
 ### Manufacturer: Bosch
-`bmw_e31_am_en_8a117a71` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:148 | doc_type:owners_manual
 
 1 Normal response forcombustion voltage curve   
 2 Long combustion period   
@@ -25639,7 +25230,6 @@ Evaluation of combustion voltage curve at raised engine speed of approx.1500 min
 
 
 ### Spark plug defects
-`bmw_e31_am_en_eac5b547` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:149 | doc_type:owners_manual
 
 Normal ignition voltage spike: spark plug OK   
 2 Low ignition voltage spike Small electrode gap   
@@ -25663,7 +25253,6 @@ Short combustion period Large electrode gap
 
 
 ### Additional fault patternswith evaluatlon
-`bmw_e31_am_en_3cf8ae35` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:150 | doc_type:owners_manual
 
 Evaluation ol combustion period of ignition voltage spikes at idle speed
 
@@ -25673,7 +25262,6 @@ Evaluation ol combustion period of ignition voltage spikes at idle speed
 
 
 ### Excessive ignition voltage:
-`bmw_e31_am_en_c867dbf0` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:151 | doc_type:owners_manual
 
 large   
 high   
@@ -25706,13 +25294,11 @@ The combustion voltage curvemay be entirely absent and the ignition voltage splk
 
 
 ### 12-13/10
-`bmw_e31_am_en_ff41f13f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:152 | doc_type:owners_manual
 
 ![](images/4e46585a2f714fd8e5fdb0ed2ecea81f1eab308e9b05772e8678c84c4b985daa.webp)
 
 
 ### Faultin the injection system
-`bmw_e31_am_en_b7d59466` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:153 | doc_type:owners_manual
 
 Evaluation of ignition voltage spike whenaccelerator applied suddenly
 
@@ -25729,7 +25315,6 @@ Lean fuel mixture Defective injection valve Lowcompression
 
 
 ### Additional fault instructions on troubleshooting
-`bmw_e31_am_en_14126507` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:154 | doc_type:owners_manual
 
 For troubleshooting on the primary side ofa single ignition coil,use adapter forprimary voltagemeasurement and speclal tool 127020.
 
@@ -25752,7 +25337,6 @@ The combustion voltage curve on the oscilloscope ls veryunsteady because, ona 4-
 
 
 ### Checking secondary signal for breakerless ignition distribution (special tool 127 030)
-`bmw_e31_am_en_ff8b64fe` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:155 | doc_type:owners_manual
 
 Engine teststep 10
 
@@ -25771,21 +25355,17 @@ Note: Neighboring ignition leads can give rise tointerference in.the oscilloscop
 
 
 ### 12-13/12
-`bmw_e31_am_en_2cc475a6` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:156 | doc_type:owners_manual
 
 ![](images/21700902a16ed2258fec7955465f2ac4e8da4284c356087815a5ac1b86727d02.webp)
 
 
-### Caution!
-`bmw_e31_am_en_8fbe9860` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:157 | doc_type:owners_manual
-
-Only work on the ignitionsystem with the igni tion switched off high voltage danger of death.
-
-Noteinstructionsfor working on ignitionsystem-see Page12-0.
+> ⚠️ **Внимание:** 
+> Only work on the ignitionsystem with the igni tion switched off high voltage danger of death.
+>
+> Noteinstructionsfor working on ignitionsystem-see Page12-0.
 
 
 ### 12 13011 Replacing ignitioncoils (M 60)
-`bmw_e31_am_en_93792ca1` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:158 | doc_type:owners_manual
 
 Unclip cover over screws In cylinder head cover.   
 Unfasten screws.   
@@ -25802,13 +25382,11 @@ Unfasten screws of ignition coils.
 
 
 ### Installation:
-`bmw_e31_am_en_0b82ff31` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:159 | doc_type:owners_manual
 
 On the ignition coils for cylinders 2 and 6,the ground tapes (1)from the cylinder head cover must be securedtotheignitioncollscrew connections.
 
 
 ### 12 13511 Replacing ignition coil (M73)
-`bmw_e31_am_en_9988370c` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:160 | doc_type:owners_manual
 
 Switch oll ignition.
 
@@ -25828,7 +25406,6 @@ Interrogate fault memory of control unit for Digital MotorElectronics(DME),check
 
 
 ### 1214 1 Checking sender for cylinder identification (M70,S 70)
-`bmw_e31_am_en_83b175ae` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:161 | doc_type:owners_manual
 
 ![](images/095c36e3334b570a0358119fb83e43680d86a2d793e1f25a63830fcf4e56a7ff.webp)
 
@@ -25838,7 +25415,6 @@ Insulation resistance between pin 2 and pin 3. Nominal value: 10M
 
 
 ### 1214150 Replacing sender for cylinder identification (M70,S70)
-`bmw_e31_am_en_69744d3c` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:162 | doc_type:owners_manual
 
 M70: Remove complete upper section of suction filter housing with mass air flow sensor.
 
@@ -25872,7 +25448,6 @@ Cylinder bank 1...6: (right cylinder bank) Disconnect plug connection ■ remove
 
 
 ### 1214 150 Replacing sender forcylinderrecognition (camshalt sender)(M60)
-`bmw_e31_am_en_5671e6b8` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:163 | doc_type:owners_manual
 
 Interrogate fault memory Switch off ignition.   
 Remove coverfrom scrows on valve cover.   
@@ -25891,13 +25466,11 @@ Unlasten screw.
 
 
 ### 12-14/4
-`bmw_e31_am_en_732a09c4` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:164 | doc_type:owners_manual
 
 ![](images/77cbce36bddd10ec97b3811cb80d6f2f39646dd193ede4e2e18c97556448dac9.webp)
 
 
 ### 1214... Checking impulse sensor
-`bmw_e31_am_en_c9fa64e8` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:165 | doc_type:owners_manual
 
 M70:   
 At top of timing case cover. Check that impulse sensor (1)forDME1issecurelyseated and free of damage.   
@@ -25906,7 +25479,6 @@ Check impulse sensor(2)for DME2 is securelyseated and free o1 damage.
 
 
 ### 1214 152 Replacing impulse sensor in left cylinder bank (M 70,S 70)
-`bmw_e31_am_en_93007a5d` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:166 | doc_type:owners_manual
 
 Remove fan.
 
@@ -25937,7 +25509,6 @@ Unfastenretainingstrapfromtopof timing case cover.
 
 
 ### 12-14/5
-`bmw_e31_am_en_a9588839` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:167 | doc_type:owners_manual
 
 ![](images/d87266476a8c5b3309520ef476b471c94ebf86e8c83c0b95c1c796b1b0bd898c.webp)
 
@@ -25963,13 +25534,11 @@ Checking Increment Wheel: TDCmark must beat middle ofa tooth. Beginning at the T
 
 
 ### 12-14/6
-`bmw_e31_am_en_cf83f4f8` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:168 | doc_type:owners_manual
 
 ![](images/d45cc983e56f1bf5c4fe320d203a57f52694a755f26059bb7f9d2069e404cc23.webp)
 
 
 ### 12 14 153 Replacing impulse sensor on right cylinder bank (M70, S 70)
-`bmw_e31_am_en_5237e803` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:169 | doc_type:owners_manual
 
 Remove lan.   
 Remove complete clamping fixture for toothed Vee belt.
@@ -25986,13 +25555,11 @@ Unlasten line bracket from top of timing case cover.
 
 
 ### 12-14/7
-`bmw_e31_am_en_7c51d77f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:170 | doc_type:owners_manual
 
 ![](images/5a17b891a8acb2d432f534cad726adcfe9aa01db2350d2833681f9c9ca2b7af8.webp)
 
 
 ### 1214155 Replacing impulse sensor (M60)
-`bmw_e31_am_en_eef3cc38` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:171 | doc_type:owners_manual
 
 Interrogate fault memory.   
 Switch off ignition.   
@@ -26014,7 +25581,6 @@ Unfasten screw (1).
 
 
 ### 12 14 500 Removing and installing re placing both control units Digital Motor Electronics) (M73)
-`bmw_e31_am_en_19929310` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:172 | doc_type:owners_manual
 
 Caution!   
 Note nstructions forremoval and installation of electronic control unit!   
@@ -26027,7 +25593,6 @@ Remove cover from control unit box.
 
 
 ### 1214518 Replacing impulse sensor (cylinder bank 7-12) (M73)
-`bmw_e31_am_en_72b68439` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:173 | doc_type:owners_manual
 
 Referto Repair Instructions for 7 Series E38.
 
@@ -26042,49 +25607,41 @@ power control)
 
 
 ### 1214519 Replacing impulse sensor (cylinder bank 1-6) (M73)
-`bmw_e31_am_en_6d2c50d9` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:174 | doc_type:owners_manual
 
 Refer to Repair Instructions lor 7 Series E38.
 
 
 ### 1214525 Replacing sensor forcylinder recognition (camshaft sensor) (M73)
-`bmw_e31_am_en_e912cda3` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:175 | doc_type:owners_manual
 
 Refer to Repair Instructions for T Series E38.
 
 
 ### 1214 610 Replacing right knock sensof (cylinderbank 1-4) (M60)
-`bmw_e31_am_en_c20575be` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:176 | doc_type:owners_manual
 
 Referto Repair Instructions for 5Series E34.
 
 
 ### 12 14611 Replacing left knock sensor (cylinder bank5-8) (M60)
-`bmw_e31_am_en_e5a54b6d` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:177 | doc_type:owners_manual
 
 Refer to Repair Instructions lor 5 Serles E34.
 
 
 ### 1214 610 Replacing right knock sensor (cylinder bank 1-6) (M73)
-`bmw_e31_am_en_8f35788a` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:178 | doc_type:owners_manual
 
 Refer to Repair Instructions for T Sorles E38.
 
 
 ### 1214611 Replacing left knock sensor {cylinder bank 7-12) (M73)
-`bmw_e31_am_en_3b012c43` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:179 | doc_type:owners_manual
 
 Referto Repair Instructions for7 Serles E38.
 
 
 ### 12-14/11
-`bmw_e31_am_en_a1d1e744` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:180 | doc_type:owners_manual
 
 ![](images/0e2a0d99b1ba04f6558a95b00ba184f5b75d3d4784229fbf72b4a06430ad3863.webp)
 
 
 ### Relay control units = allocation of engine wiring harness
-`bmw_e31_am_en_96371265` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:181 | doc_type:owners_manual
 
 Unfasten screws.   
 Remove cover.
@@ -26103,7 +25660,6 @@ M 70, S 70:
 
 
 ### M73:
-`bmw_e31_am_en_b82bd25d` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:182 | doc_type:owners_manual
 
 1 Control unitfor DME1 (cylinder bank 1-6)   
 2 Control unitfor DME2 (cyllnder bank 7-12)   
@@ -26117,7 +25673,6 @@ M 60:
 
 
 ### M73:
-`bmw_e31_am_en_df93de7d` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:183 | doc_type:owners_manual
 
 1 Relay forelectric fuelpump   
 2 Mainrelayfor DME1   
@@ -26131,7 +25686,6 @@ M 70, S 70:
 
 
 ### Cautlon!
-`bmw_e31_am_en_a909f336` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:184 | doc_type:owners_manual
 
 Depending on the construction status of the vehicle, the installation iocation of relays and control unitsmay vary.In the event of any doubts,test by pulling the relevant relay whether the corresponding function is Interrupted.
 
@@ -26139,13 +25693,11 @@ Foradditional instructions on troubleshooting, refer to Electrical Troubleshooti
 
 
 ### 12-31/1
-`bmw_e31_am_en_136b451d` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:185 | doc_type:owners_manual
 
 ![](images/d9b2c571e47b879f4884fe563f62e2fe1f14c04427f52da1f520023f331844f8.webp)
 
 
 ### Prerequlsite lor this inspection:
-`bmw_e31_am_en_091640b5` | e31_am | pdf_manual | tier:2 | lang:en | layer:electrical | p:186 | doc_type:owners_manual
 
 Correct connections on the charged   
 battery   
@@ -26168,7 +25720,6 @@ Check slio,inag for.sians.of.wear.tine arjnd it necessary and polish. Connect up
 
 
 ### Cautlon!
-`bmw_e31_am_en_0bef2511` | e31_am | pdf_manual | tier:2 | lang:en | layer:electrical | p:187 | doc_type:owners_manual
 
 Thore are alternators with normal rogulators and alternators with constant voltage regulators. These regulators are encoded mechanically and must not be confused with one another!
 
@@ -26189,7 +25740,6 @@ Group 12.
 
 
 ### 1231 020 Removingand installing or replacing3-phase alternator (M70,S 70
-`bmw_e31_am_en_1d2f8891` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:188 | doc_type:owners_manual
 
 Disconnect ground leads from the batteries.
 
@@ -26214,7 +25764,6 @@ Remove toothed Vee belt.
 
 
 ### 12-31/3
-`bmw_e31_am_en_a41796a4` | e31_am | pdf_manual | tier:2 | lang:en | layer:electrical | p:189 | doc_type:owners_manual
 
 ![](images/75110536b17827f6579c35bfaf98a8d9e239ca5729ffc9537bd0632f9cf74f32.webp)
 
@@ -26247,7 +25796,6 @@ Unscrew plpes of alternator.
 
 
 ### 12-31/4
-`bmw_e31_am_en_469b29d6` | e31_am | pdf_manual | tier:2 | lang:en | layer:electrical | p:190 | doc_type:owners_manual
 
 Remove cover of dlstributor and loosen the wire strap.
 
@@ -26270,7 +25818,6 @@ Check engine oll level and add engine oll necessary.
 
 
 ### 1231 020 Removingand installing or replacing3-phasealternator (M 60)
-`bmw_e31_am_en_28ca32dd` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:191 | doc_type:owners_manual
 
 Interrogate fault memories o1 control units since the fault memories of certaincontrol units are cancelled when the battery is disconnected. Note General Instructions on Page 12-0！ Disconnect ground lead from battery.
 
@@ -26298,7 +25845,6 @@ Remove alternator ventilation hose from alternator.
 
 
 ### 12-31/6
-`bmw_e31_am_en_e5b22492` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:192 | doc_type:owners_manual
 
 Unfasten retaining screw in alternatory hydraulic line.
 
@@ -26329,7 +25875,6 @@ Expansion tank must engage in radiator shroud.
 
 
 ### 12-31/7
-`bmw_e31_am_en_9f74288f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:193 | doc_type:owners_manual
 
 ![](images/3d5c07498f028c97e54d826f1f8218f4f034382ff622a7e49992510251585284.webp)
 
@@ -26355,7 +25900,6 @@ valve for ASC+T!
 
 
 ### 1231 020 Removingand installing or replacingalternator (M73)
-`bmw_e31_am_en_459cb306` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:194 | doc_type:owners_manual
 
 Observe notes on disconnecting and connecting battery,refer to General Data MG 12.
 
@@ -26389,7 +25933,6 @@ Unfasten screws (1 to 3). Remove tensioning roller forribbed yee belt
 
 
 ### 12-31/9
-`bmw_e31_am_en_0bd4525a` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:195 | doc_type:owners_manual
 
 ![](images/abab9dc03d6447330d184f9357bd914983b6a51edad4d889108ed82ada0f9b69.webp)
 
@@ -26424,13 +25967,11 @@ refer to Technical Data 12 31 3AZ.
 
 
 ### 12-31/10
-`bmw_e31_am_en_95726149` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:196 | doc_type:owners_manual
 
 ![](images/90fbeb3b421b3c3d19d01cbb8911d48180a8512f3996a01338d810af497930e3.webp)
 
 
 ### 1231... Tension vee-belt
-`bmw_e31_am_en_c9638c63` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:197 | doc_type:owners_manual
 
 Tension clamping fixture using open-end wrench until screw in long slot is firmly   
 abutted.   
@@ -26438,14 +25979,11 @@ Tighten screw.
 At thls point, hydraulic belt lensioner is O.K.
 
 
-### Note:
-`bmw_e31_am_en_c76663e1` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:198 | doc_type:owners_manual
-
-The hydraulic belt tensioner is filled with oil: always store removed elements horizontally. Incorrectly mounted elements can usually be bled by compressing several times in succession.
+> ℹ️ **Примечание:** 
+> The hydraulic belt tensioner is filled with oil: always store removed elements horizontally. Incorrectly mounted elements can usually be bled by compressing several times in succession.
 
 
 ### 1231 030 Removing and-installing or replacingauxiliaryalternator
-`bmw_e31_am_en_eafafdd0` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:199 | doc_type:owners_manual
 
 Note General Data Gr.61 00.   
 Unlasten battery ground wire.   
@@ -26469,13 +26007,11 @@ Pull complete alternator downwards to remove.
 
 
 ### 12-31/12
-`bmw_e31_am_en_47098e58` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:200 | doc_type:owners_manual
 
 ![](images/858cfdcf838f93bb4e664f0691bf871cf9db7b37810cf1e45f55016e76cbc4f8.webp)
 
 
 ### 12 31230 Removingand installing replacing bearing block on alternator (M73)
-`bmw_e31_am_en_556c190a` | e31_am | pdf_manual | tier:2 | lang:en | layer:electrical | p:201 | doc_type:owners_manual
 
 Refer to, Repair Instructions 1or 7 Series E38.
 
@@ -26487,13 +26023,11 @@ screws (1） and (2）. Vee belt is then at correct tension (preload).
 
 
 ### 1231 400 Replacing cooling airguide on alternator（M73)
-`bmw_e31_am_en_3f10a743` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:202 | doc_type:owners_manual
 
 Unfasten hose clip (1) and remove cooling air guide from alternatpr. Unclip cooling air guide from brake alr duct and remove.
 
 
 ### 1232 000 Removingand installing or replacingregulator switch
-`bmw_e31_am_en_f6eb84e8` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:203 | doc_type:owners_manual
 
 Disconnect ground wiresfrom battery.
 
@@ -26509,7 +26043,6 @@ Installation: Clean contact faces and check preload on contact springs,bending a
 
 
 ### 1232501 Replacing regulator switch foralternator(M73)
-`bmw_e31_am_en_f91949fb` | e31_am | pdf_manual | tier:2 | lang:en | layer:electrical | p:204 | doc_type:owners_manual
 
 Refer to Repair Instructions for7Series E38.
 
@@ -26517,7 +26050,6 @@ Refer to Repair Instructions for7Series E38.
 
 
 ### 1241 020 Removing and installing orreplacingstartermotor(M70,S70）
-`bmw_e31_am_en_f2c4b951` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:205 | doc_type:owners_manual
 
 Interrogate faultmemory.   
 Remove battery ground leads   
@@ -26555,17 +26087,14 @@ Unfasten upper starter screw. Remove screws from above (direction of mani{old).
 Check pinion of starter motor and starter gear ring on flywheel forsigns of damage.
 
 
-### Note:
-`bmw_e31_am_en_a1ca5340` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:206 | doc_type:owners_manual
-
-For additional troubleshooting notes and instructions on dismantling the startermotor, see Construction Group Repair.Instructions for Group 12.
-
-Manual transmission:   
-Unfasten upper starter screwfrom underside of vehicle.
+> ℹ️ **Примечание:** 
+> For additional troubleshooting notes and instructions on dismantling the startermotor, see Construction Group Repair.Instructions for Group 12.
+>
+> Manual transmission:   
+> Unfasten upper starter screwfrom underside of vehicle.
 
 
 ### Installation:
-`bmw_e31_am_en_c1d92c91` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:207 | doc_type:owners_manual
 
 Note correct position when installing the starter lead, otherwise it is not possible toinstall the heat shield.
 
@@ -26577,7 +26106,6 @@ Unfasten bracketfrom engine mount. Unfasten screw from underside o1 starter moto
 
 
 ### 1241 020 Removing and installing or replacing starter motor M 60)
-`bmw_e31_am_en_e0b32c7d` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:208 | doc_type:owners_manual
 
 Note General InformationforGroup12-0.   
 Disconnect battery ground lead.
@@ -26600,7 +26128,6 @@ Remove heat shield from below between front axle carrierand reinforcement cross.
 
 
 ### 12-41/4
-`bmw_e31_am_en_11700ca9` | e31_am | pdf_manual | tier:2 | lang:en | layer:electrical | p:209 | doc_type:owners_manual
 
 ![](images/52420154e85e9b91cd5f3b85296683f76eeb1d1d25e490bc17ab856834c597d4.webp)
 
@@ -26621,7 +26148,6 @@ For additional troubleshooting notes and instructions on dismantling the starter
 
 
 ### 12 41 020 Removing and installing or replacingstarter motor (M73)
-`bmw_e31_am_en_e0ba6b91` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:210 | doc_type:owners_manual
 
 Followinstructions on disconnecting and connecting battery,refer to General Data MG 12.
 
@@ -26659,7 +26185,6 @@ Note: A troubleshooting operation starter motor and its peripherals is described
 
 
 ### 1241 041 Replacing engagement magnet switch
-`bmw_e31_am_en_673c3b5d` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:211 | doc_type:owners_manual
 
 Relerto Repair Instructions for3 Series E36.
 
@@ -26667,31 +26192,25 @@ Relerto Repair Instructions for3 Series E36.
 
 
 ### 1241 103 Dismantling and assembling starter motor
-`bmw_e31_am_en_b6e70a32` | e31_am | pdf_manual | tier:2 | lang:en | layer:electrical | p:212 | doc_type:owners_manual
 
 Referto Repair Instructionsfor 3Series E36.
 
 
 ### 1241 551 Replacing carbon brushes on starter motor
-`bmw_e31_am_en_f910c67f` | e31_am | pdf_manual | tier:2 | lang:en | layer:electrical | p:213 | doc_type:owners_manual
 
 Refer to Repair Instructions lor 3 Series E36.
 
 
 ### 1270000 Function check of Electronic Engine Power Control (EML) (M73)
-`bmw_e31_am_en_a08f2a97` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:214 | doc_type:owners_manual
 
 Connect up DlS and interrogate fault memory.
 
 
-### Note:
-`bmw_e31_am_en_ebd95270` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:215 | doc_type:owners_manual
-
-Aftereach time the accelerator sensor is disconnected,perform a basic adaptation check ol accelerator sensor Procedure in accordance with DIS instruction.
+> ℹ️ **Примечание:** 
+> Aftereach time the accelerator sensor is disconnected,perform a basic adaptation check ol accelerator sensor Procedure in accordance with DIS instruction.
 
 
 ### 1270 500 Checking safetypath ofElectronic Engine Power Control (EML) (M70)
-`bmw_e31_am_en_a271bdd5` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:216 | doc_type:owners_manual
 
 Note:   
 Bofore fitting test adapter to EML -interrogate fault memory.
@@ -26724,13 +26243,11 @@ Check faults in memory and rectify them. Cancel fault memory.
 
 
 ### 1271 530 Replacing control unit for Electronic EnginePower Control (EML)(M70)
-`bmw_e31_am_en_a1eaf63b` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:217 | doc_type:owners_manual
 
 Note instructions on removal and installation of electronic control units,refer to General Data MG 12.
 
 
 ### 1271 530 Replacing control unit for Electronic Engine Power Control (M73)
-`bmw_e31_am_en_e45fc085` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:218 | doc_type:owners_manual
 
 Note instructions on removal and installation of electronic control units,refer to General Data MG 12.
 
@@ -26757,7 +26274,6 @@ Connect up DIS and follow procedure forreplacing control unit.
 
 
 ### 1272520 Removing and installing or replacingaccelerator sensor (M70,S70)
-`bmw_e31_am_en_90c16e70` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:219 | doc_type:owners_manual
 
 Switch off ignition.   
 Remove trim from bottom left side of instrument panel.
@@ -26821,7 +26337,6 @@ Checksafety path = see 1270500.
 
 
 ### 1272520 Removing and installing or replacing accelerator sensor (M73)
-`bmw_e31_am_en_56c2369c` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:220 | doc_type:owners_manual
 
 Switch off ignition.
 
@@ -26832,28 +26347,25 @@ Removing and adjusting push rod,
 refer to 3521000.
 
 
-### Note:
-`bmw_e31_am_en_eb0b21fa` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:221 | doc_type:owners_manual
-
-Whenever the accelerator sensor (PWG) is disconnected, basic adaptation of the accelerator sensor is required.
-
-Procedure: Connecl up DIS and select diagnosis oplion on EML IS control unit then proceed in accordance with DlS instructions.
-
-Unfasten retainer (1) from accelerator pedal linkage.
-
-Installation: Theaccelerator sensoris mounted on the pedal block below the steering column.
-
-Disconnect linkage.
-
-Unfasten cable tie （1） and remove brake light switch (2),refer to6131310.
-
-Unfasten screws n accelerator sensor with spocial tool114190.
-
-![](images/551b81964d3b6bf1017d73b146631113ba079b3b1ad61a52998c424b90e4f32e.webp)
+> ℹ️ **Примечание:** 
+> Whenever the accelerator sensor (PWG) is disconnected, basic adaptation of the accelerator sensor is required.
+>
+> Procedure: Connecl up DIS and select diagnosis oplion on EML IS control unit then proceed in accordance with DlS instructions.
+>
+> Unfasten retainer (1) from accelerator pedal linkage.
+>
+> Installation: Theaccelerator sensoris mounted on the pedal block below the steering column.
+>
+> Disconnect linkage.
+>
+> Unfasten cable tie （1） and remove brake light switch (2),refer to6131310.
+>
+> Unfasten screws n accelerator sensor with spocial tool114190.
+>
+> ![](images/551b81964d3b6bf1017d73b146631113ba079b3b1ad61a52998c424b90e4f32e.webp)
 
 
 ### 12-72/4
-`bmw_e31_am_en_1b0c2a35` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:222 | doc_type:owners_manual
 
 ![](images/a6727b615417331b624e748f133f0647237301bdc214233cf12577c1a3611885.webp)
 
@@ -26867,7 +26379,6 @@ Disconnect plug connection (1).
 
 
 ### Remove accelerator sensor (1).
-`bmw_e31_am_en_d9a49ac3` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:223 | doc_type:owners_manual
 
 Caution!   
 Lever on accelerator sensor is preset by the lactory and must not be unfastened!   
@@ -26877,7 +26388,6 @@ Unscrew plug connection to remove from bracket in pedal block.
 
 
 ### Installation:
-`bmw_e31_am_en_02aacd6b` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:224 | doc_type:owners_manual
 
 First insert wiring harness (3) and ensure, when assembling the accelerator sensor （1）, that the wiring harness is in the upper section of the aperture.   
 Insert accelerator sensor (1) between steering column and bracket for brake light switch, pressing pedal block approx.5mm backwards when doing so.
@@ -26896,7 +26406,6 @@ Procedure:Connect up DIS and select diagnosis mode for EML-lliS control'unit the
 
 
 ### 12.72 550 Checking and adjusting acceleratorsensor kinematics (M70)
-`bmw_e31_am_en_25e1ee13` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:225 | doc_type:owners_manual
 
 1.ldle speed setting   
 Loosen hex nut (1） on accelerator sensor. Provide a gap ofA=3mm between accelerator pedal and idle delent (2)   
@@ -26905,7 +26414,6 @@ Tighten hex nut (1) on accelerator sensor (tightening torque ).Support accelerat
 
 
 ### 2.Full throttle setting
-`bmw_e31_am_en_92555461` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:226 | doc_type:owners_manual
 
 a) Manual transmission: move accelerator pedal to kick-down pressure polnt in accelerator sensor. in this setting, move knurled screw (3) lirmly up against accelerator pedal and secure with lock nut.
 
@@ -26914,23 +26422,20 @@ b) Automatic transmission: Actuate accelerator pedal to kickdown pressure pointi
 ![](images/df765cb26e28bcd23f2c7f6aa2f302832915d6714b4bdbaabf940b473860f3f2.webp)
 
 
-### Caution!
-`bmw_e31_am_en_1e2c14c8` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:227 | doc_type:owners_manual
-
-After adjustment, check accelerator sensor with diagnosis tester.Connect up tester, switch on ignition and move accelerator pedal to fullthrottlesetting.Compareactualvoltage value displayed by tester with nominal value and,if necessary,correct the setuing.
-
-Nominal value: aj manual transmission: 3.15...3.3V b)automatic transmission: 3.7...3.8V
-
-Nominal value: Idle speed = min 353mV Idle speed =max451mV
-
-Check safety path,refer to Gr.12   
-Pos.1270 500   
-Note:   
-Before fitting test adapter -interrogate EML fault memory.
+> ⚠️ **Внимание:** 
+> After adjustment, check accelerator sensor with diagnosis tester.Connect up tester, switch on ignition and move accelerator pedal to fullthrottlesetting.Compareactualvoltage value displayed by tester with nominal value and,if necessary,correct the setuing.
+>
+> Nominal value: aj manual transmission: 3.15...3.3V b)automatic transmission: 3.7...3.8V
+>
+> Nominal value: Idle speed = min 353mV Idle speed =max451mV
+>
+> Check safety path,refer to Gr.12   
+> Pos.1270 500   
+> Note:   
+> Before fitting test adapter -interrogate EML fault memory.
 
 
 ### On-board Dlagnosls
-`bmw_e31_am_en_858fcd4a` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:228 | doc_type:owners_manual
 
 TheDME control unit recognizes exhaust relevant faults and displays them by lighting up the "Check Englne" control lamp continuously. Check Engine control lamp = see Group 62. The fault lamp comes onafter turning on the lgnltion and goes outwhen the engine runs. lts on contnuouslywhlle the engine is running, 1 there is a fault.
 
@@ -26981,7 +26486,6 @@ Flash 1 = 8 times Note number
 
 
 ### TABLE OF FAULT CODES FOR DME 1.7
-`bmw_e31_am_en_5dcfb544` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:229 | doc_type:owners_manual
 
 Table 1:CARB Flashing Code Scope   
 ![](images/b3b48915e083c4a2d008a92158dedbe3704a00db5b010b88dda113f64e7642a6.webp)
@@ -27002,7 +26506,6 @@ Fault memory cancellation: verslons.
 
 
 ### 13 Fuel system
-`bmw_e31_am_en_9ef2ef70` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:230 | doc_type:owners_manual
 
 1300002 FunctioncheckofDigitalMotorElectronics(DME) 13- 0/1   
 Component test 1 1 13- 0/1   
@@ -27039,7 +26542,6 @@ Tank vent valve T check ....\*.\*\*. ........... 13-90/2
 
 
 ### 1300 002 Function check of the Digital Motor Electronics(DME)
-`bmw_e31_am_en_9d936859` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:231 | doc_type:owners_manual
 
 Connect up BMW Service Tester.   
 Carry out briel test.   
@@ -27051,13 +26553,11 @@ Electrical Troubleshooting Manual file Schematics folder
 
 
 ### Checking intakeair temperature sensor:
-`bmw_e31_am_en_1446a974` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:232 | doc_type:owners_manual
 
 Check resistance value\* on temperature sensor. Check leads from control unit connector to temporature sensor connector forinterrupts orshort circuits...
 
 
 ### Checking tank vent valve
-`bmw_e31_am_en_ea90687d` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:233 | doc_type:owners_manual
 
 Attach vacuum hose（1）from BMW Service Tester to the8mm dia.neck. Provide tank vent valve with12Vvoltage (2) (special tool 61 1 440).
 
@@ -27068,7 +26568,6 @@ Attach vacuum hose（1）from BMW Service Tester to the8mm dia.neck. Provide tan
 
 
 ### 1300 Checking components
-`bmw_e31_am_en_e019aadd` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:234 | doc_type:owners_manual
 
 Checking coolant temperature sensor:
 
@@ -27086,7 +26585,6 @@ During the measuring period of approx. 20 seconds,pressure must not drop by more
 
 
 ### 13-0/2
-`bmw_e31_am_en_2f11b344` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:235 | doc_type:owners_manual
 
 ![](images/b5981cb9841b3220a44a9a388261aba0b462df0cceb433a00d8b6142b827bb4c.webp)
 
@@ -27101,7 +26599,6 @@ Routine checking Isnot necessary.
 
 
 ### 2) CO Level Test
-`bmw_e31_am_en_92578f84` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:236 | doc_type:owners_manual
 
 Connect Co probe on exhaust tallpipe. Switch off exhaust extractlon systems for the timeof testing.   
 Check Idle speed CO level see operatIng Instructions of BMW SERVICE   
@@ -27166,13 +26663,11 @@ Check EML safety path -see Group 12.
 
 
 ### 13-31/1
-`bmw_e31_am_en_a8886cba` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:237 | doc_type:owners_manual
 
 ![](images/240cb2c7650ac0165effd836e82e25160131db25100baa0486afef727b410761.webp)
 
 
 ### 1331 029 Checking supply pressure of fuel pump
-`bmw_e31_am_en_2f9ed25d` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:238 | doc_type:owners_manual
 
 Remove cover Irom fresh air housing.
 
@@ -27192,7 +26687,6 @@ Read off system prossure\*]and check layout (relay/cylinder bank).
 
 
 ### 1331 029 Checkingdelivery deliverypressure of fuel pump (M73)
-`bmw_e31_am_en_510d66d9` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:239 | doc_type:owners_manual
 
 Switch off ignition.
 
@@ -27229,7 +26723,6 @@ refer to Technical Data1353
 
 
 ### 13-31/3
-`bmw_e31_am_en_eb122e9c` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:240 | doc_type:owners_manual
 
 1 delivery pressure is not reached, fuel return linemust be sealed usingspecial tool 133010.
 
@@ -27253,7 +26746,6 @@ If the hose routing and fuel filter are O.K., check plug connection on the fuel 
 
 
 ### 1332051 REPLACING FUEL FILTER
-`bmw_e31_am_en_0119b539` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:241 | doc_type:owners_manual
 
 Clamp all hoses wlth Speclal Tool 13 3010.   
 Unscrew bolt(1).   
@@ -27269,7 +26761,6 @@ Check direction of flow（arrow） or outlet (OUT).
 
 
 ### 13 32051 Replacing fuel filter(M73)
-`bmw_e31_am_en_841e9472` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:242 | doc_type:owners_manual
 
 Switch olf ignition.
 
@@ -27288,13 +26779,11 @@ designated by direction of flow （arrow) orletters"OUT":always take account of 
 
 
 ### 1351 199 Checking fuel pressure regulator
-`bmw_e31_am_en_d6354eb2` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:243 | doc_type:owners_manual
 
 Install BMW Service Tester or pressure gage 133060 with connecting hose and T-piece 133064 in the fuelfeed line in front of the fuel pressure regulator.
 
 
 ### 1351 630 Replacing fuel pressure regulator
-`bmw_e31_am_en_a788155d` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:244 | doc_type:owners_manual
 
 Remove cover.
 
@@ -27318,7 +26807,6 @@ Replace seals (1} and (2). Check code (3).
 
 
 ### 1351 630 Replacing fuel pressure regulator(M73)
-`bmw_e31_am_en_ae0ceb39` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:245 | doc_type:owners_manual
 
 Switch off ignition.
 
@@ -27341,13 +26829,11 @@ Allow lug of retainingring to locate in recosses in injectorpipe.
 
 
 ### 13-54/1
-`bmw_e31_am_en_1d5d844b` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:246 | doc_type:owners_manual
 
 ![](images/ba20e08810373540a5ac3ae2e4b8303f12cbaf78e5074da6c4eeef59fae4761f.webp)
 
 
 ### 1354535 Replacing throttle body
-`bmw_e31_am_en_84ed9058` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:247 | doc_type:owners_manual
 
 Caution: Do notreach into throttie body unit while ignition is switched on (risk of injury).
 
@@ -27362,13 +26848,11 @@ Donot dismantle EML throttle body. Fault memory can be interrogated using EML on
 
 
 ### 13-61/1
-`bmw_e31_am_en_8a113245` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:248 | doc_type:owners_manual
 
 ![](images/d3d8378eb27387c10367506cffe575c89b1b21852ea5a9787164d69d803ececc.webp)
 
 
 ### 1361 000 REMOVING AND INSTALLING OR REPLACING CONTROL UNIT FOR DME
-`bmw_e31_am_en_35e7d7e7` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:249 | doc_type:owners_manual
 
 Unscrew electronlc box cover screws.   
 Take off cover.
@@ -27395,14 +26879,12 @@ Relays In Electronlc Box:
 
 
 ### 1362511 REPLACING INATKE AIRTEMPERATURE SENSOR
-`bmw_e31_am_en_a1550b06` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:250 | doc_type:owners_manual
 
 Check functlon ■ see 1300002.   
 Unscrew cover for fresh alr housing.
 
 
 ### 1362 531 REPLACING COOLANTTEMPERATURE SENSOR
-`bmw_e31_am_en_1e9848fc` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:251 | doc_type:owners_manual
 
 Check functlon 1 see 1300002.   
 Unscrew cover forfreshair housing.
@@ -27429,7 +26911,6 @@ Installation: Tlghtening torque\*.
 
 
 ### Check function 一 see 1300 002.
-`bmw_e31_am_en_10ee08af` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:252 | doc_type:owners_manual
 
 ![](images/541c539442597a63a0edca1b972ba740ec4ed460d6efa6b6d1dd6aa76867ceb6.webp)
 
@@ -27459,7 +26940,6 @@ Check code number and manufacturIng date.
 
 
 ### 13 62 511 Replacing temperature sensor for Intake alr (M73)
-`bmw_e31_am_en_599f9be9` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:253 | doc_type:owners_manual
 
 Switch off ignition.
 
@@ -27469,7 +26949,6 @@ Press down retaining spring (2). Remove connector(1). Unclip temperature sensor
 
 
 ### 13 62 531 Replacingtemperature sensor for coolant (M73)
-`bmw_e31_am_en_da9dc8e6` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:254 | doc_type:owners_manual
 
 Referto, Repair Instructions for 7Series E38.
 
@@ -27488,7 +26967,6 @@ Interrogate fault memory of Digital Motor Electronics (DME). check faults in mem
 
 
 ### 1364541 Replacing all injection valves
-`bmw_e31_am_en_26a592b8` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:255 | doc_type:owners_manual
 
 Remove protective cover.
 
@@ -27528,13 +27006,11 @@ Only lubricate O-rings wlth vasellne for Installatlon.
 
 
 ### 13-64/3
-`bmw_e31_am_en_6718e3b8` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:256 | doc_type:owners_manual
 
 ![](images/5f328148effe580cccd0664165a9fe0823de76afc95ab89844c8cc81d3e6dae3.webp)
 
 
 ### 1364582 CHECK ALL FUEL INJECTORS FOR LEAKS AND CLEANING
-`bmw_e31_am_en_c7374e22` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:257 | doc_type:owners_manual
 
 Checking Fuel Injeclors for Leaks: ClIp tuel Injectors In Speclal Tool136205 {Injectlon plpe). Keep to sequenco ol cylinders.
 
@@ -27560,13 +27036,11 @@ Take fuel injectors out ofthe water. Remove alrpressure connectlons. Dry plug co
 
 
 ### Repeat leak test.
-`bmw_e31_am_en_62e7937a` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:258 | doc_type:owners_manual
 
 Important! Don't carry out leak test in cleanlng fluld, but Instead only In awater bath.
 
 
 ### 1364541 Replacingall injector valves (M73)
-`bmw_e31_am_en_82e34a82` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:259 | doc_type:owners_manual
 
 Swltch off ignition.
 
@@ -27587,26 +27061,21 @@ Check injector valves lor leaks and elean, refer 1o 13 63 582.
 Unfasten hose clips. Remove fuol delivery hose [1}.
 
 
-### Caution!
-`bmw_e31_am_en_b8d7953d` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:260 | doc_type:owners_manual
-
-The fuelin the line is under pressure (approx. 3 bar). Catch escaping fuel with suitable receptacle and dispose of it correctly.
-
-Instaflation:   
-The fuel hosos and hose clips must be re  
-placed!
-
-Unfasten hose clips. Romove fuel return hose (1.
+> ⚠️ **Внимание:** 
+> The fuelin the line is under pressure (approx. 3 bar). Catch escaping fuel with suitable receptacle and dispose of it correctly.
+>
+> Instaflation:   
+> The fuel hosos and hose clips must be re  
+> placed!
+>
+> Unfasten hose clips. Romove fuel return hose (1.
 
 
-### Caution!
-`bmw_e31_am_en_cab42451` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:261 | doc_type:owners_manual
-
-Fuel in line is under pressure [approx. 3bar). Catchescoping fuel in suitable receptacle and dispose of it correctly.
+> ⚠️ **Внимание:** 
+> Fuel in line is under pressure [approx. 3bar). Catchescoping fuel in suitable receptacle and dispose of it correctly.
 
 
 ### Installation:
-`bmw_e31_am_en_9d503ab9` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:262 | doc_type:owners_manual
 
 Fuel hoses and hose clips must be replaced!
 
@@ -27614,7 +27083,6 @@ Fuel hoses and hose clips must be replaced!
 
 
 ### 1372 002 REPLACING AIRFILTERCARTRIDGES (BOTH)
-`bmw_e31_am_en_33f54a5f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:263 | doc_type:owners_manual
 
 Open clips (1...5).
 
@@ -27637,13 +27105,11 @@ Wipe out lower manifold housing with a clolh whlch does not lose lint.
 
 
 ### 13-90/1
-`bmw_e31_am_en_ac6b9b20` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:264 | doc_type:owners_manual
 
 ![](images/ffe6d21bc9eca96ad0a42757fe517085b6b452fe6bf79392660ef820a0ea3c74.webp)
 
 
 ### 1390500 REPLACING TANK VAPOR VENTING VALVE
-`bmw_e31_am_en_ed01d3d2` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:265 | doc_type:owners_manual
 
 Check function reler to 1300002. Remove lelt alrvolume meler together with Intake bellows and upper fllter section.
 
@@ -27654,7 +27120,6 @@ Don't mlx up plugs 一 mark ihem I necessary.
 
 
 ### ARRANGEMENT OFTANK VAPOR VENTING VALVES (Vlew Opposlte Forward Direction)
-`bmw_e31_am_en_40636f4a` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:266 | doc_type:owners_manual
 
 Dlsconnect luel hoses, catching any escapIngfuel.
 
@@ -27664,7 +27129,6 @@ Dlsconnect luel hoses, catching any escapIngfuel.
 
 
 ### 1390 Checking tank venting valve
-`bmw_e31_am_en_7c1ab2aa` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:267 | doc_type:owners_manual
 
 Attach vacuum hose （1） of BMW ServiceTester lo the 8 mm dia. neck.Provide the tank venting valve with 12Vpower supply （2) {special 1001611 440).
 
@@ -27674,7 +27138,6 @@ During the measuring period of approx. 20 seconds, pressure must not drop by mor
 
 
 ### 13 90 500Replacing tank vent valve (M73)
-`bmw_e31_am_en_cb8452af` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:268 | doc_type:owners_manual
 
 Switch off ignition.
 
@@ -27693,7 +27156,6 @@ Interrogato fault memory of control unit on DigitalMotor Electronics,rectify fau
 
 
 ### 13 Fuel System M60
-`bmw_e31_am_en_8ed19ba5` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:269 | doc_type:owners_manual
 
 1300002 Functioncheck of Digital Motor Electronics(DME) i 13- 0/31   
 Checking components ...\*\*\*.. 13- 0/31   
@@ -27718,13 +27180,11 @@ Summary of fuelfilterand lines 13- 32/31
 
 
 ### 13-0/31
-`bmw_e31_am_en_53f9a4d9` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:270 | doc_type:owners_manual
 
 ![](images/c81390c9d0c9a4c3fc1f1e776821894a07e7009d8f657552b6bf372f913ca402.webp)
 
 
 ### 1300 002 Checking function of digital motor electronics (DME)
-`bmw_e31_am_en_7ce59349` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:271 | doc_type:owners_manual
 
 Connect BMW Service Tester   
 Carry oul briel test   
@@ -27738,7 +27198,6 @@ Electrical Troubleshooting Manual for the 8 SeriesE31.
 
 
 ### 1300 .. Checking components
-`bmw_e31_am_en_f6d6752f` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:272 | doc_type:owners_manual
 
 Checking idle speed control valve
 
@@ -27748,7 +27207,6 @@ Measure resistance between terminal (1） and (3).nominal value olapprox. 23 Mea
 
 
 ### Dynamic_check
-`bmw_e31_am_en_955751cd` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:273 | doc_type:owners_manual
 
 Remove idle speed control valve (connector remainsattached).   
 Completely open or close rotary piston (1). Switch on ignition.   
@@ -27756,13 +27214,11 @@ Rotary piston must adopt and maintain aposilonof approx.50%cross sectlon apertur
 
 
 ### Checking temperaturesensor for intakeair
-`bmw_e31_am_en_210e9ab9` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:274 | doc_type:owners_manual
 
 Check resistance value\* on temperature sensor. Check leads fromcontrol unit connector to temperature sensor connector for interrupts and short-circuits".
 
 
 ### Checking coolant temperature sensor
-`bmw_e31_am_en_d88e5e27` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:275 | doc_type:owners_manual
 
 Attach Jetronic test cable 611 440. Use ohmmeter to check nominal value") and, to check the entire temperaturerange, remove the sensor,immerse up to hex head in water bathand check with an ohmmeter').
 
@@ -27770,7 +27226,6 @@ Attach Jetronic test cable 611 440. Use ohmmeter to check nominal value") and, t
 
 
 ### Checking tank vent valve
-`bmw_e31_am_en_c58840af` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:276 | doc_type:owners_manual
 
 Connect vacuum hose （1）ofBMW SERVICE TESTER tothe 8mmdia.neck. Provide tank vent valve with 12 W voltage (2) (special tool 61 440).
 
@@ -27788,13 +27243,11 @@ During the measuring period of approx. 20 seconds, the pressure drop must not ex
 
 
 ### 13-31/31
-`bmw_e31_am_en_75f48cc1` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:277 | doc_type:owners_manual
 
 ![](images/5be8531e19843cc2fa91fa7e32e671c9a60374b013cfb2b5c8199d75f1bd2ca6.webp)
 
 
 ### 1331 029 Checking fuel pump delivery pressure
-`bmw_e31_am_en_2ae0f6e0` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:278 | doc_type:owners_manual
 
 Press off sealing caps (1) and unfasten nuts (2].   
 Remove cover formanifold. Install connectors and cables to one side.   
@@ -27815,7 +27268,6 @@ Remove cover for Ebox.
 
 
 ### 1332 051 Replacing fuelfilter
-`bmw_e31_am_en_ff35ec19` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:279 | doc_type:owners_manual
 
 Disconnect retaining clips from lines on the body asmuch as necessary.   
 Seal fuel hoses with special tool 13 3 010. Remove lower hoses.   
@@ -27835,13 +27287,11 @@ Installation: Note direction of flow (arrow）, or (OUT） outlet.
 
 
 ### 13-41/31
-`bmw_e31_am_en_6a840e26` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:280 | doc_type:owners_manual
 
 ![](images/cbda42d82d0221b7a46b59f3ec05fcbf43176cdf7c5efe591d3f983b2f20afd7.webp)
 
 
 ### 1341 500 Replacing idling control valve
-`bmw_e31_am_en_5d3ad7cb` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:281 | doc_type:owners_manual
 
 Press off sealing caps (1) and unscrew nut (2).   
 Remove manifold cover. Compress retainerand disconnect.   
@@ -27866,13 +27316,11 @@ Component inspection, see 1300 …
 
 
 ### 13-51/31
-`bmw_e31_am_en_d800393e` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:282 | doc_type:owners_manual
 
 ![](images/ae2abfbcbdc1b2e4dbf809a10e967d70d821bb4034b698e8dac7a81e95cd54f3.webp)
 
 
 ### 1351 199 Checking fuel pressureregulator
-`bmw_e31_am_en_50002293` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:283 | doc_type:owners_manual
 
 Compress sealing caps (1） and unfasten nuts （2).   
 Remove manifold cover. Place connector and cable lo one side.   
@@ -27895,7 +27343,6 @@ lf the injection pressure nowremains constant,the pressureregulator is faulty. I
 
 
 ### 1351 630 Replacing fuel pressure regulator
-`bmw_e31_am_en_5f8f0e70` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:284 | doc_type:owners_manual
 
 Press off sealing caps (1) and unfasten nuts (2).   
 Remove manifold cover.
@@ -27920,13 +27367,11 @@ Allow lugs on retaining ring to locate in therecesses.
 
 
 ### 13-54/31
-`bmw_e31_am_en_cb7cae47` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:285 | doc_type:owners_manual
 
 ![](images/01cef14716a3b44a9bfd76d9138b086e63b20a93224a00dffc4f3d900bd38159.webp)
 
 
 ### 1354 030 Removingand installing sealing throttle body
-`bmw_e31_am_en_a9ba4cbe` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:286 | doc_type:owners_manual
 
 ![](images/4384e1ff7c1b034dcb9a115435c2bcbecb30370e28f3944d89089e3be3979e81.webp)
 
@@ -27953,7 +27398,6 @@ Remove accelerator cables [3).Remove hose （4） from throttle body,
 
 
 ### 1361000 Removingand installing or replacingcontrol unit (forDME)
-`bmw_e31_am_en_e3089fda` | e31_am | pdf_manual | tier:2 | lang:en | layer:electrical | p:287 | doc_type:owners_manual
 
 Uniasten cover screws from E box.   
 Remove cover.
@@ -27974,13 +27418,11 @@ Relays in control unit for Ebox: 1 Fuel pump relay (orange) 23 DMEmain relay (wh
 
 
 ### 13-62/31
-`bmw_e31_am_en_94474995` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:288 | doc_type:owners_manual
 
 ![](images/6b1e76b5283ed1fe99128f644126deae801d2be9dc3e726daad6b8583f1eba29.webp)
 
 
 ### 1362 531 Replacing coolant temperaturesensor
-`bmw_e31_am_en_f69d3f0a` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:289 | doc_type:owners_manual
 
 (After function check of Digital Motor Electronics (DME) 13 00 002).
 
@@ -28007,7 +27449,6 @@ Installation: Note tightening torque").
 
 
 ### Layout:
-`bmw_e31_am_en_fa49f189` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:290 | doc_type:owners_manual
 
 ![](images/82e2fbdc37912bb851958d465a876ef405d6d2916fbc17731b57d6685abe48c4.webp)
 
@@ -28017,13 +27458,11 @@ Component check: see 1300
 
 
 ### 13-62/32
-`bmw_e31_am_en_2f2b1d01` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:291 | doc_type:owners_manual
 
 ![](images/af7fbff69f01ca8ba50ff19afc678bc5a80eb9cb3e6ecec96b7c1d7e57e9c6d7.webp)
 
 
 ### 1362 560 Removingand installing or replacing mass air flowsensor
-`bmw_e31_am_en_7b127f59` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:292 | doc_type:owners_manual
 
 (After function check ol Digital Motor Electronics (DME) 1300002)
 
@@ -28041,13 +27480,11 @@ installation: Fit new seal. Coat sealing lip of housing with thin layer of acid-
 
 
 ### 13-64/31
-`bmw_e31_am_en_238bdae8` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:293 | doc_type:owners_manual
 
 ![](images/e2426b339c8ef7144c264b9f8fb7b7b514e0f547736f635fd5ac81078513cfd6.webp)
 
 
 ### 1364 541 Removingand installing or replacing allfuel injection valves
-`bmw_e31_am_en_9e2dc7e4` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:294 | doc_type:owners_manual
 
 Press of sealing caps (1) and unscrew nuts (2).   
 Remove manifold cover.
@@ -28072,7 +27509,6 @@ Plugfuel return line with special tool133010 and remove.
 
 
 ### 13-64/32
-`bmw_e31_am_en_14328a4d` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:295 | doc_type:owners_manual
 
 Remove vacuum hose from pressure regulator.
 
@@ -28090,13 +27526,11 @@ Whenreplacing the valves,check code no.\* colorol connector housing" and product
 
 
 ### 13-71/31
-`bmw_e31_am_en_ca6dd39c` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:296 | doc_type:owners_manual
 
 ![](images/c04a52689dcaa77f9c62b9665a4fc5f2c159f06ffdb3a7dec690154d82e81c5a.webp)
 
 
 ### 1371 000 Removing and installing suction filter housing
-`bmw_e31_am_en_de11aebe` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:297 | doc_type:owners_manual
 
 Twist and remove plug connection formass air flow sensor.
 
@@ -28114,7 +27548,6 @@ Instalation: Insert suction neck in the recess. Fit the housing to the rubber mo
 
 
 ### 13-72/31
-`bmw_e31_am_en_23d808e1` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:298 | doc_type:owners_manual
 
 ![](images/3f0f84a89f1598a66c150fc1f4726f5b87654375f3287347000df7a6de98bb2f.webp)
 
@@ -28124,13 +27557,11 @@ Lift upper section of air filter housing and remove air filter insert.
 
 
 ### 13-90/31
-`bmw_e31_am_en_759fa25a` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:299 | doc_type:owners_manual
 
 ![](images/10c1173f0633af60f256dd2d655edfd84b0b60d9afa9fc5002caee3932b3c6e2.webp)
 
 
 ### 1390500 Replacing tank venting valve
-`bmw_e31_am_en_fd4604ff` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:300 | doc_type:owners_manual
 
 (After function check of the DigitalMotor Electronics (DME)13 00002).
 
@@ -28145,7 +27576,6 @@ Components check,see 1300...
 
 
 ### 16 Fuel supply system
-`bmw_e31_am_en_6a9bab3e` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:301 | doc_type:owners_manual
 
 Summaryof fueltank ....··.·.··.. ......\*.... 16- 0/1   
 1600005 Fuel in fuel tank 一 draw out and top up 1 16- 0/2   
@@ -28163,7 +27593,6 @@ Summary of tank venting \*\*\*\*\*\*\*\*\* 16-13/1
 
 
 ### (Cut away and shown in opposite direction to direction of travel)
-`bmw_e31_am_en_55efdc7d` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:302 | doc_type:owners_manual
 
 ![](images/d306c407c8e073af8275ae95bc0c816a09d8600542ce7d673b08841d8d308fb6.webp)
 
@@ -28175,13 +27604,11 @@ Summary of tank venting \*\*\*\*\*\*\*\*\* 16-13/1
 
 
 ### 16-0/2
-`bmw_e31_am_en_8d79bc2c` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:303 | doc_type:owners_manual
 
 ![](images/a07356ca2a79a072856aa91f00497063de0ce842ffb4df2667f51c222d2bf85a.webp)
 
 
 ### 16 00 005 Draining and filling fuel tank
-`bmw_e31_am_en_30b0c928` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:304 | doc_type:owners_manual
 
 Remove ground lead from support point in trunk.
 
@@ -28209,29 +27636,23 @@ The tank can only be drained completely after removal of the sensor units （see
 Draw oul as much fuel as possible with a scavenging pump"\*.
 
 
-### Caution!
-`bmw_e31_am_en_c668dfc6` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:305 | doc_type:owners_manual
-
-Conform with safety regulations as well as local and national regulatioris. Use suitable suction hose" and twist slightly when installing and when pulling back out
-
-Installation:   
-Top up fuel with suction unit\*\* through filler neck.
+> ⚠️ **Внимание:** 
+> Conform with safety regulations as well as local and national regulatioris. Use suitable suction hose" and twist slightly when installing and when pulling back out
+>
+> Installation:   
+> Top up fuel with suction unit\*\* through filler neck.
 
 
-### Caution!
-`bmw_e31_am_en_8fa5a562` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:306 | doc_type:owners_manual
-
-Only slide hose approx. 40 cm into tank: on no account slide in as faras baffle plate.
+> ⚠️ **Внимание:** 
+> Only slide hose approx. 40 cm into tank: on no account slide in as faras baffle plate.
 
 
 ### 16-11/1
-`bmw_e31_am_en_9356e6ba` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:307 | doc_type:owners_manual
 
 ![](images/ddbdfde6012c8580c8a335e194c9c048e9140b96f3f699410c10ea777badb4de.webp)
 
 
 ### 1611 030 Removingand installing fuel tank
-`bmw_e31_am_en_787d80da` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:308 | doc_type:owners_manual
 
 Remove ground lead from connection in trunk.
 
@@ -28275,7 +27696,6 @@ Pin allocation of fuel pump:
 
 
 ### 16-11/2
-`bmw_e31_am_en_c4ddcb24` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:309 | doc_type:owners_manual
 
 ![](images/a583c05e78f395d6f129379b11d8b7aeb38040fae797a9b9fed8c30e049d4224.webp)
 
@@ -28305,13 +27725,11 @@ Note tightening torque.
 
 
 ### 16-11/3
-`bmw_e31_am_en_247f3a89` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:310 | doc_type:owners_manual
 
 ![](images/d83e3e10ca4bfbde9e4c0bf77c435739149ed43d8f44dce797f0402cde8a4ef3.webp)
 
 
 ### Installing fuel tank
-`bmw_e31_am_en_aefe1c5c` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:311 | doc_type:owners_manual
 
 When replacing the tightening straps orreplacing the fuel tank,it may be necessary to install rubber mounts (1)on the leftand right tightening straps or washers(2）in the center ofthe tightening strap.
 
@@ -28342,13 +27760,11 @@ Pressure dampers and non-return valves are installed in thepumps.
 
 
 ### 16-12/2
-`bmw_e31_am_en_a85469e9` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:312 | doc_type:owners_manual
 
 ![](images/dcf33cdafb5fbedc459dbb99139cd16176a0fd06322b8ef66156cb2e75e5e303.webp)
 
 
 ### 16 12000 Removingand installing or replacing fuel level sender (right)
-`bmw_e31_am_en_f78b03c7` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:313 | doc_type:owners_manual
 
 Draw fuel out of tank with scavenger pump\*\* as far as possible at the filler neck.   
 Cavtion!   
@@ -28384,7 +27800,6 @@ Refer to Workshop Equipment Service Information Refer to BMW Parts Service
 
 
 ### 16-12/3
-`bmw_e31_am_en_cc09408e` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:314 | doc_type:owners_manual
 
 ![](images/e4209e65a858c3060408820ca02e5bc15c884e322b7a50982701e1edcc8ffea2.webp)
 
@@ -28397,7 +27812,6 @@ The correct Installedposition19 shown 中 page 16-12/5.
 
 
 ### InstaNation:
-`bmw_e31_am_en_a24eaad8` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:315 | doc_type:owners_manual
 
 Prlor to pressing In to final posltion, slightly lft the unlt watch out tor sealj and move back and forth sllghtly to guarantee that the altitude stylus Is positloned vertlcally In the correct areaand the float can be moved easlly.
 
@@ -28423,7 +27837,6 @@ Center and stylus (for baslc setting)
 
 
 ### 1612001 Removingand installing or replacing fuel indicator sender (left)
-`bmw_e31_am_en_de042a85` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:316 | doc_type:owners_manual
 
 Remove ground leads from mountin trunk.
 
@@ -28437,40 +27850,35 @@ Draw off fuel vapors in car
 Draw off fuel with scavenge pump' as far as possible at filler neck.
 
 
-### Caution!
-`bmw_e31_am_en_d8865788` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:317 | doc_type:owners_manual
-
-Conlorm lo safety regulations aswel as national legislation. Use suitable suction hose' and twist slightly when inserting and when withdrawing.
-
-Remove cap nut from swing-arm fuel level sender unit with special tool 16 020.
-
-![](images/61e1482170c3eae361f49760d5698cbbafdb2a2ba233d5cc2f3322b02fad4147.webp)
-
-Disconnect return hosowith special tool 13 3 010 and remove return lino (6). Connecl up luel scavenging unit\* open clamp and drain left halt of tank.
-
-Caution!   
-Conlorm to safety regulations as well as national legistation.   
-Use suitable scavenging hose'.
-
-Caretully remove unit, pressing level sensor slightly towards housing while doing so.
-
-Installation:   
-Always use new hose clips.   
-Check fuel hoses for condition and leakage and replaco if necessary.
+> ⚠️ **Внимание:** 
+> Conlorm lo safety regulations aswel as national legislation. Use suitable suction hose' and twist slightly when inserting and when withdrawing.
+>
+> Remove cap nut from swing-arm fuel level sender unit with special tool 16 020.
+>
+> ![](images/61e1482170c3eae361f49760d5698cbbafdb2a2ba233d5cc2f3322b02fad4147.webp)
+>
+> Disconnect return hosowith special tool 13 3 010 and remove return lino (6). Connecl up luel scavenging unit\* open clamp and drain left halt of tank.
+>
+> Caution!   
+> Conlorm to safety regulations as well as national legistation.   
+> Use suitable scavenging hose'.
+>
+> Caretully remove unit, pressing level sensor slightly towards housing while doing so.
+>
+> Installation:   
+> Always use new hose clips.   
+> Check fuel hoses for condition and leakage and replaco if necessary.
 
 
-### Caution!
-`bmw_e31_am_en_375dc336` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:318 | doc_type:owners_manual
-
-Refer lo Workshop Equipment Service Information #+ Reler to BMW Parts Servico
-
-Always use new sdal and new cap nut.
-
-![](images/29b3a3208b4ccbf562edaa703991c997806c2864798ae388feaa4846fd360f1c.webp)
+> ⚠️ **Внимание:** 
+> Refer lo Workshop Equipment Service Information #+ Reler to BMW Parts Servico
+>
+> Always use new sdal and new cap nut.
+>
+> ![](images/29b3a3208b4ccbf562edaa703991c997806c2864798ae388feaa4846fd360f1c.webp)
 
 
 ### 16-12/6
-`bmw_e31_am_en_d9b323d8` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:319 | doc_type:owners_manual
 
 Installation:
 
@@ -28482,7 +27890,6 @@ Installation position · see page 16-127.
 
 
 ### Cautlon!
-`bmw_e31_am_en_de01b188` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:320 | doc_type:owners_manual
 
 The return and sucking jet pump line is prossed onto the base of the tank with slight proload.
 
@@ -28496,7 +27903,6 @@ The swing-arm fuel lovel sonder unit and Iloat must be able to move freely.
 
 
 ### Installatlon:
-`bmw_e31_am_en_483a3346` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:321 | doc_type:owners_manual
 
 Before tightening the cap nut,ensure that tho rib on the flange points towards the cast lug on the tank (protruding).approx. 30° to direction of travel.
 
@@ -28506,13 +27912,11 @@ The sonder for left fuel level indicator_lorms one unit with the sucking jet pum
 
 
 ### 16-12/7
-`bmw_e31_am_en_1599f50e` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:322 | doc_type:owners_manual
 
 ![](images/a02b4d3a6125adb5da75e3abaf5c087e6ab237273b4fec4a46713bafd15394e7.webp)
 
 
 ### Plug and Hose Connectlons:
-`bmw_e31_am_en_80f4e5f8` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:323 | doc_type:owners_manual
 
 Fuel Pump Connectlon (Right Slde ol Tank)
 
@@ -28540,7 +27944,6 @@ Installed posltion ■ opprox. 30to forward dlrectlon. Cast tabs on the tank can
 
 
 ### Fuel Feod
-`bmw_e31_am_en_c2176564` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:324 | doc_type:owners_manual
 
 1=Fuel pump (cyl.1...6）   
 2 =Fuol pump 2 (cyl. 7...12)
@@ -28569,13 +27972,11 @@ Electrlc Wire Connectlons on Inslde of Tank Flange:
 
 
 ### 16-12/8
-`bmw_e31_am_en_40b996dd` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:325 | doc_type:owners_manual
 
 ![](images/7e588cefc8fb7341a923dcf7d693c68688cb082b3ce47c33cfdb14aa2257d782.webp)
 
 
 ### 1612010 Removingand installing or replacing active carbon filter
-`bmw_e31_am_en_8765deb2` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:326 | doc_type:owners_manual
 
 Remove connectors {1）and (2）.Unfasten screw [3).remove tank and place to one side.
 
@@ -28606,7 +28007,6 @@ Tank venting line
 
 
 ### 1613 REMOVING AND INSTALLING OR REPLACING FLOAT GRAVITYVALVE
-`bmw_e31_am_en_62aed4a2` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:327 | doc_type:owners_manual
 
 Checking: Tho foat gravity vaive is faulty in case ol excesslvely hlgh pressure In the fuel system or leakage,fuel llows from tho float gravity valve to the carbon canister(carbon canlster Is fllled with tuel).
 
@@ -28626,7 +28026,6 @@ Removing and Installlng: Unscrew nuts (1...6） and remove trim panel from the r
 
 
 ### 1614010 Removing and installing or replacing fuel pump(s)
-`bmw_e31_am_en_c8952a38` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:328 | doc_type:owners_manual
 
 Draw fuel out of tank withscavengepump\* as far as possible at filler neck.   
 Caution!   
@@ -28666,7 +28065,6 @@ Fit fuel strainer and allow toengage correctly.
 
 
 ### 16-14/2
-`bmw_e31_am_en_31aa52b0` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:329 | doc_type:owners_manual
 
 ![](images/e9c86bb044a3b87615fe5d9ed2c887fd8cf0b17a5faf768862a54e73d85a7d9f.webp)
 
@@ -28676,13 +28074,11 @@ Installation position, refer to page 16-127.
 
 
 ### Installation:
-`bmw_e31_am_en_a629421b` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:330 | doc_type:owners_manual
 
 Before pressing finally home,raise unlt slightly (taking care o1 seal) and move gently to and fro to ensure that the level sensor is upright in the correct area and that the float is able to move freely.
 
 
 ### Instaliation:
-`bmw_e31_am_en_26d64fcb` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:331 | doc_type:owners_manual
 
 Bofore tightening the cap nut, ensure that the rib on the flange and the cast lug (protruding) on the tank point in the same direction. Note tightening torque' of cap nuts.
 
@@ -28695,7 +28091,6 @@ Check fuel hoses and replace i necessary. Fit new hose clamps.
 
 
 ### 17 Radiator
-`bmw_e31_am_en_cbd8cd99` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:332 | doc_type:owners_manual
 
 Coolant circuit, 12-cylinderM70 .E\*+\*44 17- 0/1   
 1700009 Coolingsystem -checkforwaterleaks ..-+·. 17- 0/2   
@@ -28716,13 +28111,11 @@ Coolant circuit, 12-cylinderM70 .E\*+\*44 17- 0/1
 
 
 ### 17-0/2
-`bmw_e31_am_en_646e5523` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:333 | doc_type:owners_manual
 
 ![](images/b51612e8920dc766313bf69c13bdd7f0cc9ea012f8d43d0c26e3f4ce5d4acd7f.webp)
 
 
 ### 17-00 009 Checking cooling system.for leaks
-`bmw_e31_am_en_5c93aa24` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:334 | doc_type:owners_manual
 
 Caution:only unscrew expansion tank when ongine is cold,
 
@@ -28745,7 +28138,6 @@ Screw connection （1）to tester 170 006and build up air pressure slowly. Press
 
 
 ### 17:00 039 Bleeding cooling system and checking for leaks
-`bmw_e31_am_en_04b7343e` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:335 | doc_type:owners_manual
 
 When completely retilling (engine cold): set heating valve to "WARM" open venting screw 2-3 turns and completely lillexpansion tank (approx.11...121). Only use approved grade of coolant..
 
@@ -28763,7 +28155,6 @@ Check cooling system for leaks 1700009.
 
 
 ### Correct coolant level:
-`bmw_e31_am_en_275ac3d6` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:336 | doc_type:owners_manual
 
 Set heating valve to "WAAM"   
 Caution!   
@@ -28778,14 +28169,11 @@ chock the coolant levol.
 The coolant level mark on the expansion tank indicates the coolant level at approx. 20 C Only use approved grade ol coolant"
 
 
-### Caution!
-`bmw_e31_am_en_226882fc` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:337 | doc_type:owners_manual
-
-Never top up cooling system while engine is hot.
+> ⚠️ **Внимание:** 
+> Never top up cooling system while engine is hot.
 
 
 ### 1711 000 REMOVING AND INSTALLING RADIATOR
-`bmw_e31_am_en_83b9ccda` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:338 | doc_type:owners_manual
 
 Caution!   
 Unscrew expanslon tank cap only after englne has cooled ofl.   
@@ -28811,7 +28199,6 @@ Disconnect bleeding hose.
 
 
 ### 17-11/2
-`bmw_e31_am_en_8ed6a645` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:339 | doc_type:owners_manual
 
 ![](images/32c7a5a450446b405cca525cf92c9a640ccc1a29f8ebba3fef2181fc99880284.webp)
 
@@ -28834,30 +28221,26 @@ Lift radiator and press backwards.
 Unfasten screws at top and bottom.
 
 
-### Note:
-`bmw_e31_am_en_f4691546` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:340 | doc_type:owners_manual
-
-Transmission oil cooler remains in vehicle.
-
-Version with integrated transmission oil cooler:
-
-Remove transmission oil cooler lines. Catch escaping transmission fluid and dispose of 1 correctly.
-
-Lift out radiator.
-
-Installatiori:   
-Ensure that mounting blocks are correctly located.   
-Placeradiator on supports.
+> ℹ️ **Примечание:** 
+> Transmission oil cooler remains in vehicle.
+>
+> Version with integrated transmission oil cooler:
+>
+> Remove transmission oil cooler lines. Catch escaping transmission fluid and dispose of 1 correctly.
+>
+> Lift out radiator.
+>
+> Installatiori:   
+> Ensure that mounting blocks are correctly located.   
+> Placeradiator on supports.
 
 
 ### 17-11/3
-`bmw_e31_am_en_5d45e315` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:341 | doc_type:owners_manual
 
 ![](images/6de896c789e1a66177d06bd5e018aa3710164a558f6e74482f8154c2c842ba9d.webp)
 
 
 ### 1711100 Removing and installing coolant expansion tank
-`bmw_e31_am_en_43997518` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:342 | doc_type:owners_manual
 
 ![](images/fe63b462449a577366d30eafb7276522daf6c1ee3c138c4e853d10263d5bcde9.webp)
 
@@ -28884,7 +28267,6 @@ Top up with specified coolant, bleed cooling system and check for leakage 170003
 
 
 ### 1711509 Flushing radiator
-`bmw_e31_am_en_9b594c85` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:343 | doc_type:owners_manual
 
 If oil has entered the coolant circuit,theradiator and expansion tank must be flushed and cleaned with Solvethane\*\*cleaning agent.
 
@@ -28899,7 +28281,6 @@ Follow the procedure described below:
 
 
 ### Comment:
-`bmw_e31_am_en_3d461dfe` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:344 | doc_type:owners_manual
 
 Solvethane attacks rubber seale, hoses etc. and must therefore not be allowed to enter the cooling circuit, orto remain there.For thls reason, always follow the safety regulations governing the use of Solvethane (printed on the containers).
 
@@ -28907,7 +28288,6 @@ Solvethane attacks rubber seale, hoses etc. and must therefore not be allowed to
 
 
 ### 1740000 Removing and installing or replacingcomplete additional fan
-`bmw_e31_am_en_03485b7b` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:345 | doc_type:owners_manual
 
 Unfasten upper section of air guide duct and unclip radiator with screwdriver
 
@@ -28919,7 +28299,6 @@ Pull fan console with fan out of retainers and lift out.
 
 
 ### 18 Exhaust system
-`bmw_e31_am_en_981da4dc` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:346 | doc_type:owners_manual
 
 1800020 Exhaust system,complete -removeand install(M70) . .......... 18- 0/1   
 020 Exhaust system, complete-removeand install(M60) =\*.. 18- 0/3   
@@ -28935,96 +28314,90 @@ For additional work, referto "Repair Instructions for7 Series E38"
 
 
 ### 18 00 020 Removing and installing exhaust assembly (M70).
-`bmw_e31_am_en_1328ac04` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:347 | doc_type:owners_manual
 
 Installation:
 
 Flanges must be aligned parallel to one another. Springs （2) must not be preloaded in block Tightening torque specitication 1800 1AZ"
 
 
-### Note:
-`bmw_e31_am_en_80d9e594` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:348 | doc_type:owners_manual
-
-l work is carried out on the exhaust assembly orvehicle whichaffect the locationof theexhaust pipes on the exhaust manifolds, theconnection must be loosened and,alter the work iscomplete,tightened back to specified torque.
-
-Tightening torque 18 00 1AZ\*
-
-Disconnect plug for Lambda oxygen sensors
-
-Caution! ldentify (mark) Lambda oxygen sensors before removal: do not conluse them.
-
-Aligning exhaust pipes on engine.
-
-Remove underbody protection for engine. Partially dismantle windshield wash container Remove heat baftle plate from exhaustmanifold.
-
-Caution!   
-Donot distort the heat baffle plates. Tightening torques..
-
-Unscrew bracket (1) from transmission. Only loosen and displace gripper clamps(2)
-
-Unfasten connection of exhaust pipes on manifold.
-
-Caution!   
-Do not tighten down exhaust pipes onmanifold until complete exhaust assembly has been installed.
-
-Unfaston flange connection between exhaust plpos and exhaust assembly.
-
-Installation: Chock gaskets,replacing 1 necessary. Replace self-locking nuts.
-
-![](images/3b4c0bc6da1500210b78f0db0ba4b2f230a65d30b63002096bda86eb64fd7e92.webp)
-
-![](images/13550ccf6d8dc25b8c5ae278a139916fc919784f70896dcd4299d4b713205892.webp)
-
-Support exhaust assembly on a lifting fixture. (weight approx.55Kg.)   
-Unscrew transmission suspension from catalytic converter. Unscrow all rear suspension points.   
-Remove exhaust assembly downwards. Installation:   
-Adjust the nuts（1) to secure the exhaust assembly without stresses.
-
-Installation: Arrangament of clamping brackets
-
-Unscrew rear suspension point for catalytic converter.
-
-Installation:   
-Preload rubber mount in direction ol travel A=15mm. Installation:   
-Preload rubber mount in direclion of travel A=10mm. Installation:   
-Check location of tailpipes to body openings. lf necessary,loosen fiange connections and align exhaust assombly. Installation:   
-Check gaskets and replace 1 necessary Fit new self-locking nuts   
-Coat threads with copper paste.
-
-![](images/8e9744d1e0a195fd66e6bbf89c1192fc54d5b1bdb2c1e84b8b952434914df52d.webp)
-
-![](images/ea461123e5006cb0dbee8f3d76ddc668109f126f0a6d3291a567901e5a3b6aa3.webp)
-
-Disconnect plug for Lambda oxygen sensors.
+> ℹ️ **Примечание:** 
+> l work is carried out on the exhaust assembly orvehicle whichaffect the locationof theexhaust pipes on the exhaust manifolds, theconnection must be loosened and,alter the work iscomplete,tightened back to specified torque.
+>
+> Tightening torque 18 00 1AZ\*
+>
+> Disconnect plug for Lambda oxygen sensors
+>
+> Caution! ldentify (mark) Lambda oxygen sensors before removal: do not conluse them.
+>
+> Aligning exhaust pipes on engine.
+>
+> Remove underbody protection for engine. Partially dismantle windshield wash container Remove heat baftle plate from exhaustmanifold.
+>
+> Caution!   
+> Donot distort the heat baffle plates. Tightening torques..
+>
+> Unscrew bracket (1) from transmission. Only loosen and displace gripper clamps(2)
+>
+> Unfasten connection of exhaust pipes on manifold.
+>
+> Caution!   
+> Do not tighten down exhaust pipes onmanifold until complete exhaust assembly has been installed.
+>
+> Unfaston flange connection between exhaust plpos and exhaust assembly.
+>
+> Installation: Chock gaskets,replacing 1 necessary. Replace self-locking nuts.
+>
+> ![](images/3b4c0bc6da1500210b78f0db0ba4b2f230a65d30b63002096bda86eb64fd7e92.webp)
+>
+> ![](images/13550ccf6d8dc25b8c5ae278a139916fc919784f70896dcd4299d4b713205892.webp)
+>
+> Support exhaust assembly on a lifting fixture. (weight approx.55Kg.)   
+> Unscrew transmission suspension from catalytic converter. Unscrow all rear suspension points.   
+> Remove exhaust assembly downwards. Installation:   
+> Adjust the nuts（1) to secure the exhaust assembly without stresses.
+>
+> Installation: Arrangament of clamping brackets
+>
+> Unscrew rear suspension point for catalytic converter.
+>
+> Installation:   
+> Preload rubber mount in direction ol travel A=15mm. Installation:   
+> Preload rubber mount in direclion of travel A=10mm. Installation:   
+> Check location of tailpipes to body openings. lf necessary,loosen fiange connections and align exhaust assombly. Installation:   
+> Check gaskets and replace 1 necessary Fit new self-locking nuts   
+> Coat threads with copper paste.
+>
+> ![](images/8e9744d1e0a195fd66e6bbf89c1192fc54d5b1bdb2c1e84b8b952434914df52d.webp)
+>
+> ![](images/ea461123e5006cb0dbee8f3d76ddc668109f126f0a6d3291a567901e5a3b6aa3.webp)
+>
+> Disconnect plug for Lambda oxygen sensors.
 
 
-### Caution!
-`bmw_e31_am_en_a4128a58` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:349 | doc_type:owners_manual
-
-Identify (mark) Lambda oxygen sensors before removal: do not confuse them.
-
-Note tightening sequence:
-
-1. Outer exhaust manilolds on right and left (1), flange with ball   
-2. Inner exhaust manifolds on right and left (2). flange with gasket.
-
-Unfasten clamps on both transmission brackets.
-
-Unscrow suspension on the rear catalytic converters.   
-Subsequent procedure,   
-refer o1800 020 (M70).
-
-![](images/083e4ea278754adf27fc87acb83144ea5b82d0ec85643026bf2edcb11cb5e406.webp)
-
-![](images/05acbec48c3c4455b5274ea89353c5bea2d685fb3989394c35c002a2141cb7f4.webp)
-
-Support exhaust assembly with a lifting fixture. (Weight approx. 55Kg.)
-
-Unscrew flange connections between catalytic converter and left and right exhaust manifolds
+> ⚠️ **Внимание:** 
+> Identify (mark) Lambda oxygen sensors before removal: do not confuse them.
+>
+> Note tightening sequence:
+>
+> 1. Outer exhaust manilolds on right and left (1), flange with ball   
+> 2. Inner exhaust manifolds on right and left (2). flange with gasket.
+>
+> Unfasten clamps on both transmission brackets.
+>
+> Unscrow suspension on the rear catalytic converters.   
+> Subsequent procedure,   
+> refer o1800 020 (M70).
+>
+> ![](images/083e4ea278754adf27fc87acb83144ea5b82d0ec85643026bf2edcb11cb5e406.webp)
+>
+> ![](images/05acbec48c3c4455b5274ea89353c5bea2d685fb3989394c35c002a2141cb7f4.webp)
+>
+> Support exhaust assembly with a lifting fixture. (Weight approx. 55Kg.)
+>
+> Unscrew flange connections between catalytic converter and left and right exhaust manifolds
 
 
 ### 1800 020 Removing and installing.com-plete exhaust system (M73）
-`bmw_e31_am_en_6edff455` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:350 | doc_type:owners_manual
 
 ![](images/55446af95354fdd0884368ae91f63c2b1369ea99bb4ffa554b6484166bf9944a.webp)
 
@@ -29055,7 +28428,6 @@ Preload rubber mount in direction oluravel A=15mm.
 
 
 ### 18-0/5
-`bmw_e31_am_en_a21e5960` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:351 | doc_type:owners_manual
 
 Installation:   
 Note position of tailpipesin the body apertures.
@@ -29064,7 +28436,6 @@ Note position of tailpipesin the body apertures.
 
 
 ### 1810031 Replacing rear muffler (connection with clamping sleeves
-`bmw_e31_am_en_431714ea` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:352 | doc_type:owners_manual
 
 ![](images/3b0a17081e915b3c226b331ddd1209f584fb1bbdbc88732d5c1ce4f9b3c7ad51.webp)
 
@@ -29076,7 +28447,6 @@ Measure length（A）of pipe section on new rearmuffler.
 
 
 ### Gaution!
-`bmw_e31_am_en_678f28f8` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:353 | doc_type:owners_manual
 
 Apertures on new rear muffler are sealed with adhesive fim.
 
@@ -29097,7 +28467,6 @@ Preload both rubbermounts n rear mutfler in direction of travel A = 15 mm.
 
 
 ### 1812.. Dismantling exhaust assembly (M70).
-`bmw_e31_am_en_05604839` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:354 | doc_type:owners_manual
 
 ![](images/29fa77111237c90f70f7f66e844ca6f5d2eaa863ed4709e1d783e78e35530963.webp)
 
@@ -29150,16 +28519,13 @@ Unscrew connection.
 Instalation: There must be a gap ofat least A=6mm between the two catalytic converters.
 
 
-### Note:
-`bmw_e31_am_en_3b88e90b` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:355 | doc_type:owners_manual
-
-Do not clean Lambda oxygen sensors and do not bring into contact with lubricant. Protect Lambda oxygen sensors when applying underbody protection.
-
-![](images/3a759caa0e3d331b3910363ad64c5388b88a5a8d78af3ed74c8acddb32497413.webp)
+> ℹ️ **Примечание:** 
+> Do not clean Lambda oxygen sensors and do not bring into contact with lubricant. Protect Lambda oxygen sensors when applying underbody protection.
+>
+> ![](images/3a759caa0e3d331b3910363ad64c5388b88a5a8d78af3ed74c8acddb32497413.webp)
 
 
 ### 18 12027 Replacing rear rightmuffler (connection with welding sleeve)
-`bmw_e31_am_en_e1999e5d` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:356 | doc_type:owners_manual
 
 This operation is identical to operation 1810031
 
@@ -29181,7 +28547,6 @@ Install complete exhaust system.
 
 
 ### 1812061 Replacing intemediate muf-fler (M73）
-`bmw_e31_am_en_f810dd85` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:357 | doc_type:owners_manual
 
 ![](images/231bbbb860758822502ce201582ffba72cde61e30f998b65f9d8ef5b1048b37d.webp)
 
@@ -29194,28 +28559,25 @@ Dlsconnect exhaust pipes with special lool 002210and deburr.
 Note: When defining the interfaces,take account of dimension（B on new intermediate muffler.
 
 
-### Caution!
-`bmw_e31_am_en_305a3d79` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:358 | doc_type:owners_manual
-
-Apertures on new intermedlate mutfler are sealod with adhesive liIm. Remove complete adhesive film, including gn contact facesof clamping sleeves.
-
-Measureoff length(C） of pipe section onnew intermediate mutfler.
-
-Secure new intermediate muffler with clamp-.   
-ing sleeves on catalytic converter.   
-Nuts point downwards.
-
-Ensure that the separating point is located in the centre of the clamping sleeve. Ensure sufficient distance to adjacent comp-Gnents.
-
-![](images/c7d50469f4b62d45ee8715790feff68b157fd82f440bd37e068be91a2255c2c3.webp)
-
-![](images/b654cc35bf70978e1c9fb150fd79281a2c78e52e2f4ff9a19fed8e4c61289a4e.webp)
-
-Allgn exhaust system and tighten down al clamping sleeves.
+> ⚠️ **Внимание:** 
+> Apertures on new intermedlate mutfler are sealod with adhesive liIm. Remove complete adhesive film, including gn contact facesof clamping sleeves.
+>
+> Measureoff length(C） of pipe section onnew intermediate mutfler.
+>
+> Secure new intermediate muffler with clamp-.   
+> ing sleeves on catalytic converter.   
+> Nuts point downwards.
+>
+> Ensure that the separating point is located in the centre of the clamping sleeve. Ensure sufficient distance to adjacent comp-Gnents.
+>
+> ![](images/c7d50469f4b62d45ee8715790feff68b157fd82f440bd37e068be91a2255c2c3.webp)
+>
+> ![](images/b654cc35bf70978e1c9fb150fd79281a2c78e52e2f4ff9a19fed8e4c61289a4e.webp)
+>
+> Allgn exhaust system and tighten down al clamping sleeves.
 
 
 ### 18 21 511 Replacing all exhaust mounts
-`bmw_e31_am_en_b2428ccc` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:359 | doc_type:owners_manual
 
 ![](images/7b4d1401941210b872f0d9a956af07e0d2464de5e191b744a9f9b6e77458c379.webp)
 
@@ -29229,7 +28591,6 @@ Longer screws may touch the underside of the battery.
 
 
 ### Replace central exhaust mount
-`bmw_e31_am_en_6b5f8f21` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:360 | doc_type:owners_manual
 
 Unfasten bracket Unscrew rubber mount.
 
@@ -29252,7 +28613,6 @@ Installation: Preload rubbor mount towards front A=15mm when fiting the exhaust 
 
 
 ### 1832010 Removing and installing orreplacing left orright cata-lyticconverter M73）
-`bmw_e31_am_en_79adf042` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:361 | doc_type:owners_manual
 
 Remove Lambda oxygen sensors. referto1178510/ 1178610 Repair Instructions for Series E38
 
@@ -29283,37 +28643,32 @@ Remove catalytic converter
 
 
 ### 18-32/2
-`bmw_e31_am_en_c3cf138f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:362 | doc_type:owners_manual
 
 ![](images/658ba5eee85c58214efdd4bce22a2e691605d1dd13730e79b2930a86d81bc276.webp)
 
 
-### Caution!
-`bmw_e31_am_en_5a8dde8b` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:363 | doc_type:owners_manual
-
-Apertures on new catalytic converterare sealed with adhesive film. Remove complete adhesive film,includingon contact faces of clamping sleeves.
-
-Secure new catalytic converter with clamping sleeve to intermediate muffler. Nuts point downwards.
-
-Ensure that separating point is in cenlre of clamping sleeve.   
-Ensure there is sufficient distance from adjacent components.
-
-Screw on new catalytic converter with exhaust manifold.
-
-Screw down mount on catalytic converter
-
-Installation:   
-Preload rubber mount in direction of travel A=10mm.
+> ⚠️ **Внимание:** 
+> Apertures on new catalytic converterare sealed with adhesive film. Remove complete adhesive film,includingon contact faces of clamping sleeves.
+>
+> Secure new catalytic converter with clamping sleeve to intermediate muffler. Nuts point downwards.
+>
+> Ensure that separating point is in cenlre of clamping sleeve.   
+> Ensure there is sufficient distance from adjacent components.
+>
+> Screw on new catalytic converter with exhaust manifold.
+>
+> Screw down mount on catalytic converter
+>
+> Installation:   
+> Preload rubber mount in direction of travel A=10mm.
 
 
 ### 21 Clutch
-`bmw_e31_am_en_b0a77a1f` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:364 | doc_type:owners_manual
 
 Scope of repairwork,refer to "Repair Instructions for7 Series E38"
 
 
 ### 23 Manual transmission
-`bmw_e31_am_en_9412a731` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:365 | doc_type:owners_manual
 
 0011229 Oil change inmanualtransmission . .. ......23- 0/1   
 2300025 Transmission 一 removeand install (engineM70/transmission S6S560 G) .........23- 0/2   
@@ -29329,7 +28684,6 @@ Additional operations 1 referto Construction Group Repair Instructions.
 
 
 ### 0011.229 REPLACING OIL IN MANUAL TRANSMISSION
-`bmw_e31_am_en_2c96fbe0` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:366 | doc_type:owners_manual
 
 The oll shouid only be replaced al operaling temperature.   
 Remove draln plug (1）and ler plug（2） Drain oil, Note   
@@ -29347,13 +28701,11 @@ Tightening torque
 
 
 ### 23-0/2
-`bmw_e31_am_en_a6cb8410` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:367 | doc_type:owners_manual
 
 ![](images/7703904acd182321dd6c472b1c57ec26049ae54c0b859677d340a5233a85eb24.webp)
 
 
 ### 2300025 Removingand installing transmission (engine M70 transmission S6S560G)
-`bmw_e31_am_en_a6df772f` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:368 | doc_type:owners_manual
 
 Disconnect ground lead from terminal.
 
@@ -29378,18 +28730,15 @@ Instaltation: Install rubber mount with lug (2)facing recess.
 Lift off trim [4)and microfilter (5).
 
 
-### Caution!
-`bmw_e31_am_en_a590bbd4` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:369 | doc_type:owners_manual
-
-To prevent damage (risk of leaks) to the heating pipe connections on the engine firewall, theengine must be supported on special tool 000 200 before the transmission is lowered. Fit special tool 00o 2oo together with extension 00 0 203 and connect to rear lugPre-tension chaln. Remove complete exhaust system 18 00 020.
-
-Unfasten bracket (3) for Lambda oxygen sensor plug.
-
-Remove line for Lambda oxygen sensors Irom brackets.
+> ⚠️ **Внимание:** 
+> To prevent damage (risk of leaks) to the heating pipe connections on the engine firewall, theengine must be supported on special tool 000 200 before the transmission is lowered. Fit special tool 00o 2oo together with extension 00 0 203 and connect to rear lugPre-tension chaln. Remove complete exhaust system 18 00 020.
+>
+> Unfasten bracket (3) for Lambda oxygen sensor plug.
+>
+> Remove line for Lambda oxygen sensors Irom brackets.
 
 
 ### 23-0/3
-`bmw_e31_am_en_1e67c7e3` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:370 | doc_type:owners_manual
 
 ![](images/32670314daf78161d2776a05bb187a3b8d6d4d9491b8efd761756e250c933e6e.webp)
 
@@ -29429,7 +28778,6 @@ Refer to Technical Data
 
 
 ### 23-0/4
-`bmw_e31_am_en_def48eaf` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:371 | doc_type:owners_manual
 
 ![](images/8a8e44513a436f579f4756b1dba860892726c380e356e85d503df51d2f7b039e.webp)
 
@@ -29454,24 +28802,19 @@ Fit tool 23 0 040 and jack to transmission.
 Remove transmission from engine.
 
 
-### Caution!
-`bmw_e31_am_en_3d3fad2a` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:372 | doc_type:owners_manual
-
-The lifting fixture may only be moved when fully lowered while transmission is attached.
-
-Disconnect transmission from engine llange.
+> ⚠️ **Внимание:** 
+> The lifting fixture may only be moved when fully lowered while transmission is attached.
+>
+> Disconnect transmission from engine llange.
 
 
-### Caution!
-`bmw_e31_am_en_0c9cf5d9` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:373 | doc_type:owners_manual
-
-Before fiting the transmission, check that guide sleeves (1 and 2) are fitted. 1 necessary, convert or replace guide sleeves on transmission.
-
-After installation, check oil level and top up if necessary.
+> ⚠️ **Внимание:** 
+> Before fiting the transmission, check that guide sleeves (1 and 2) are fitted. 1 necessary, convert or replace guide sleeves on transmission.
+>
+> After installation, check oil level and top up if necessary.
 
 
 ### 2300025 Removing and installing transmission (engine M 60 transmission S 6 D 420 G)
-`bmw_e31_am_en_4b1f4a9e` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:374 | doc_type:owners_manual
 
 Disconnect ground leadfrom battery.   
 Caution!   
@@ -29532,7 +28875,6 @@ Lift spring offlug of housing with screwdriver and tilt upwards.
 
 
 ### 23-0/7
-`bmw_e31_am_en_b4903a35` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:375 | doc_type:owners_manual
 
 ![](images/e2f63ed4b9e3ed45e0f03f7beee59fe1a16361b66c0f21356920514f29115518.webp)
 
@@ -29561,15 +28903,12 @@ Note that washers are fitted to the Torx screws. Tightening torque 23 00 1AZ\*
 ![](images/4e656983b1a38ad8b60365c0990998bf9b919d30669b40a9013f90a81da0db9e.webp)
 
 
-### Caution!
-`bmw_e31_am_en_5156fa4f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:376 | doc_type:owners_manual
-
-From3. 92, release bearings will be fitted with plastic guides.   
-No grease should be applied to sliding tace of guide sleeve on bearings with plastic guides. lf thisadvice isignored,the bearing can stick to the guide sleeve.
+> ⚠️ **Внимание:** 
+> From3. 92, release bearings will be fitted with plastic guides.   
+> No grease should be applied to sliding tace of guide sleeve on bearings with plastic guides. lf thisadvice isignored,the bearing can stick to the guide sleeve.
 
 
 ### 2300 035 Installing replacement transmission
-`bmw_e31_am_en_8e015a91` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:377 | doc_type:owners_manual
 
 Remove transmission 2300025. Transmission designation: BMW Code' on front section ol housing.
 
@@ -29589,34 +28928,30 @@ Caution! The transmission is supplied with an oil fill. After installation of th
 
 
 ### Installation:
-`bmw_e31_am_en_561986ac` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:378 | doc_type:owners_manual
 
 Fill lube groove （N）with Molykote Longterm 2. Apply light coat of Molykote Longterm 2 # grease to guides (F) and bearings (L). 1 this advice is ignored, the bearing can seize on the guide sleeve.
 
 
-### Caution!
-`bmw_e31_am_en_1b02ea9a` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:379 | doc_type:owners_manual
-
-From 3.92,release bearings are being fitted with plastic guides.   
-No grease should be applied to sliding face of guide sleeve on bearings with plastic guides. lf thisadvice is ignored,the bearing can seize on the guide sleeve.
-
-Refer to Parts Catalogue 1 Source of Supply: BMW Parts Service
-
-![](images/3343be0919a7614aef799301949a33348587f2c27165e6acf362083cdabfa7ee.webp)
-
-2311 612 Replacing guide tube for clutch release mechanism transmission removed
-
-Remove and install clutch release unit lever. This work is described in section on removing, installing or replacing the clutch release unit lever.   
-Referto21 51000. Unfasten screws.   
-Lift up guide tube (1).
-
-![](images/89d7d21a20f87ff19383896eef1abcade558e67ae9972ee0ec01663828186fae.webp)
-
-instalfation: Tightening torque 10Nm
+> ⚠️ **Внимание:** 
+> From 3.92,release bearings are being fitted with plastic guides.   
+> No grease should be applied to sliding face of guide sleeve on bearings with plastic guides. lf thisadvice is ignored,the bearing can seize on the guide sleeve.
+>
+> Refer to Parts Catalogue 1 Source of Supply: BMW Parts Service
+>
+> ![](images/3343be0919a7614aef799301949a33348587f2c27165e6acf362083cdabfa7ee.webp)
+>
+> 2311 612 Replacing guide tube for clutch release mechanism transmission removed
+>
+> Remove and install clutch release unit lever. This work is described in section on removing, installing or replacing the clutch release unit lever.   
+> Referto21 51000. Unfasten screws.   
+> Lift up guide tube (1).
+>
+> ![](images/89d7d21a20f87ff19383896eef1abcade558e67ae9972ee0ec01663828186fae.webp)
+>
+> instalfation: Tightening torque 10Nm
 
 
 ### 23 12 056 Replacing radial seal for output flange
-`bmw_e31_am_en_4a78d7bd` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:380 | doc_type:owners_manual
 
 Remove front propeller shattand center   
 mount.   
@@ -29674,7 +29009,6 @@ also coat locating face (2) with Loctite518for sealing purposes.
 
 
 ### 2312087 Replacing gaiteron selector shaft (transmission S6s 560 G)
-`bmw_e31_am_en_ae980f08` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:381 | doc_type:owners_manual
 
 Remove front propeller shaft and center bearing  
 Tie propeller shaftto one side.   
@@ -29719,7 +29053,6 @@ Install. retaining ring (1).
 
 
 ### 2312506 Replacing radial seal on input shaft transmission removed
-`bmw_e31_am_en_3f767a9e` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:382 | doc_type:owners_manual
 
 Clutch release mechanism remove and install lever.   
 Thisworkis described in the section on removing.installing or replacing the clutch release mechanism lever.   
@@ -29750,24 +29083,21 @@ Insert suitable size of self-tapping screwin the holes.
 Remove radialsealbypulling self-tapping screws (pliers).
 
 
-### Caution!
-`bmw_e31_am_en_36289c85` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:383 | doc_type:owners_manual
-
-Do not damage the surface of the shaft
-
-Drive radial seal firmly home with special tool 232491.
-
-Remove special tool 23 2 492 (sleeve) from input shaft.
-
-Caution! Use plastic hammerto drive seal home.
-
-Note:
-
-After installation of the transmission it may be necessary to check the oil level.
+> ⚠️ **Внимание:** 
+> Do not damage the surface of the shaft
+>
+> Drive radial seal firmly home with special tool 232491.
+>
+> Remove special tool 23 2 492 (sleeve) from input shaft.
+>
+> Caution! Use plastic hammerto drive seal home.
+>
+> Note:
+>
+> After installation of the transmission it may be necessary to check the oil level.
 
 
 ### 23 21 007 Replacing output flange on transmission
-`bmw_e31_am_en_66bfcb73` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:384 | doc_type:owners_manual
 
 Bemove front propeller shaft and center bearing,see 2300022.
 
@@ -29782,7 +29112,6 @@ Remove spacers（2 off）.
 
 
 ### 23-21/2
-`bmw_e31_am_en_78315b7f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:385 | doc_type:owners_manual
 
 ![](images/988c77c52f4e9e16d3e4a17a0ed4f6c7e401b19cc90b8e39f71fe88114473a0b.webp)
 
@@ -29828,13 +29157,11 @@ Minus clearance 0.05... 0.22 mm
 
 
 ### 23-21/3
-`bmw_e31_am_en_3c7e0ddd` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:386 | doc_type:owners_manual
 
 ![](images/8a69220d9d19fbf551d5797bed8d4254e1dc45e502076307f0f40639e8d41ba8.webp)
 
 
 ### Example:
-`bmw_e31_am_en_579d5fe9` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:387 | doc_type:owners_manual
 
 Transmission S6s 560 G: Required thickness of shim =2.4 mm Thickness of shim 1.1and 1.3mm
 
@@ -29859,7 +29186,6 @@ Driveinnew tab washer (1) with special tool 232470.
 
 
 ### 4HP-24/EH
-`bmw_e31_am_en_f5aadbc4` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:388 | doc_type:owners_manual
 
 2400008 Shift lever-adjust ............... .....·.............. 24-00/1   
 014 Hydraulicpressurevalues- check \*\*\*+\*+\*+\*+\*\*.... 24-00/2   
@@ -29886,7 +29212,6 @@ Additionaloperations -see Construction Group Repair Instruction. Microfilm HG24.
 
 
 ### 5HP-30
-`bmw_e31_am_en_d56bb774` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:389 | doc_type:owners_manual
 
 0011239 Oilchange in automatictransmission ..·.........·....· .··...........·...··..· 24/0-51   
 2400007 Shiftlever -adjust transmission A5S560 Z .\* \*......... ....... 24/0-52   
@@ -29922,13 +29247,11 @@ Pushlever(3）forward （park position）.Press cablerod（4）opposite lorward 
 
 
 ### 24-00/2
-`bmw_e31_am_en_8a0810d3` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:390 | doc_type:owners_manual
 
 ![](images/bea69cfaaea0b39b72b609a9f6e6b7b092258d1f4e7e6ba5284d6df55a342c5a.webp)
 
 
 ### 24 00014 CHECKING HYDRAULIC PRESSURE VALUES
-`bmw_e31_am_en_3e5733be` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:391 | doc_type:owners_manual
 
 Connect hose 24 0 021 with pressure tester 13 3061.
 
@@ -29961,13 +29284,11 @@ Only pour in ATFwith Speclal Tool 240 080 (funnel).
 
 
 ### 24-00/3
-`bmw_e31_am_en_13196572` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:392 | doc_type:owners_manual
 
 ![](images/c89c7445b5fe949528ed8a311a81b6328494bb3e015340e49e2fc0bc89533831.webp)
 
 
 ### 24 00 024 REMOVING AND INSTALLING TRANSMISSION
-`bmw_e31_am_en_25e24a4c` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:393 | doc_type:owners_manual
 
 Disconnect ground lead.
 
@@ -30011,7 +29332,6 @@ Tightening torque'.
 
 
 ### 24 00024 REMOVING AND INSTALLING TRANSMISSION
-`bmw_e31_am_en_9034f072` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:394 | doc_type:owners_manual
 
 Dlsconnect ground lead.
 
@@ -30033,7 +29353,6 @@ Lift out panel (4)and microfilter (5).
 
 
 ### Draln ATF.
-`bmw_e31_am_en_27193329` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:395 | doc_type:owners_manual
 
 important! Never reuse dralned ATF.
 
@@ -30098,7 +29417,6 @@ Reler to Specificatlons
 
 
 ### 24-00/6
-`bmw_e31_am_en_42c938ae` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:396 | doc_type:owners_manual
 
 Take electrlc leads foroxygen sensors out ol holders on transmlsslon.
 
@@ -30140,7 +29458,6 @@ Relerto Speclllcations Source ol Supply: BMW Parts
 
 
 ### 0011 239 REPLACING AUTOMATIC TRANSMISSION FLUID
-`bmw_e31_am_en_158bf833` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:397 | doc_type:owners_manual
 
 ATF should only be replaced atoperating temperature.   
 Pull out oll dipstick. Important!   
@@ -30165,7 +29482,6 @@ Valves rattling, foaming, engine sllps when drivingIn curves, general operatIng 
 
 
 ### Pour In oll.
-`bmw_e31_am_en_39b0a4a0` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:398 | doc_type:owners_manual
 
 ![](images/6f6b5e8c0234bc7ffe350f394b243e38a2784b524d7b9e531fae93591c1d0782.webp)
 
@@ -30193,7 +29509,6 @@ Neverwipe off the oil dipstick with a cloth losing lint.
 
 
 ### Clean oll sump.
-`bmw_e31_am_en_80752c45` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:399 | doc_type:owners_manual
 
 Important!   
 Place magnets(1 and 2) in all sump. Install gasket (3). Ol Level Too High:   
@@ -30209,13 +29524,11 @@ The oil dipstick can be pulled out only atter tllting the grip.
 
 
 ### 24-11/2
-`bmw_e31_am_en_c8446e7a` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:400 | doc_type:owners_manual
 
 ![](images/2dc258a05cb89310e1f6dab5a170b5bd590b8afd896ab33c8f928a8ea0170a9c.webp)
 
 
 ### 2411 054 REMOVING AND INSTALLINGOR SEALING TRANSMIS-SION EXTENSION
-`bmw_e31_am_en_22b59898` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:401 | doc_type:owners_manual
 
 Unscrew propeller shaft = see2400 024.  
 Lift out lockplale (1).
@@ -30238,13 +29551,11 @@ InstaNation: Replace gasket （1）. Tightening torque".
 
 
 ### 24-12/1
-`bmw_e31_am_en_6c4c9f9a` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:402 | doc_type:owners_manual
 
 ![](images/0507e3dd0c425829516eca5d7f485f7b23685d4e0370869eb76ef5464fea4094.webp)
 
 
 ### 24 12014 REPLACING RADIAL OIL SEAL FOR OUTPUT FLANGE
-`bmw_e31_am_en_f92c946f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:403 | doc_type:owners_manual
 
 Unscrew propeller shalt 1 see24 00024.  
 Lift out lockplate(1).
@@ -30266,13 +29577,11 @@ Pull out radlal oll seal with Speclal Tool 00 5010.
 
 
 ### 24-12/2
-`bmw_e31_am_en_ce4be767` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:404 | doc_type:owners_manual
 
 ![](images/84fe73d8ef68281df2440abd9709323bcb4b1c60f25f9ec6448890cc86c43248.webp)
 
 
 ### 24-12/3
-`bmw_e31_am_en_e6350161` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:405 | doc_type:owners_manual
 
 ![](images/879fe62ad3eb363d8c339ce1c8243de0b2c85778a7ddfc354d6c7b077021b2ef.webp)
 
@@ -30285,7 +29594,6 @@ Lubricate sealing lip with ATF. Driveradial seal into place with special tool 24
 
 
 ### 24 30 004 REMOVING AND INSTALLING VALVE BODY
-`bmw_e31_am_en_efb8e7b0` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:406 | doc_type:owners_manual
 
 Remove oll sump 1 see 24 11 004.   
 Unscrew oll filter screen. installation:   
@@ -30315,7 +29623,6 @@ Have tabs of holder (5) engage In the grooves on the plug.
 
 
 ### 2431 154 REMOVING AND INSTALLING OR REPLACING TRANSMISSION OIL FILTER SCREEN
-`bmw_e31_am_en_b2669216` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:407 | doc_type:owners_manual
 
 Remove oll sump = see 2411 004.   
 Unscrew oll fllter screen. Instaliation:   
@@ -30333,13 +29640,11 @@ Tightening torque\*
 
 
 ### 24-34/1
-`bmw_e31_am_en_8e1c5815` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:408 | doc_type:owners_manual
 
 ![](images/d8662a4a5c1c8e6e4d9ad6b44f50137507cef48ba961d328883f16533cda9a13.webp)
 
 
 ### 24 34 004 REMOVING AND INSTALLING OR REPLACING PARKING LOCK (PAWL SPRING)
-`bmw_e31_am_en_8b51ca47` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:409 | doc_type:owners_manual
 
 Unscrew transmlsslon extenslon ■ see 2411 054.   
 Loosen bolt (1).   
@@ -30354,7 +29659,6 @@ Check Installed posltion of spring (4). Endof spring(4) must be attached on bore
 
 
 ### 24-34/2
-`bmw_e31_am_en_eeabd911` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:410 | doc_type:owners_manual
 
 2434 851 REPLACING ALL SOLENOID VALVES → Valve Body Removed □
 
@@ -30396,7 +29700,6 @@ Tlghtening torque\*.
 
 
 ### 24-34/3
-`bmw_e31_am_en_be786f22` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:411 | doc_type:owners_manual
 
 ![](images/d5b88df18de254119dd580602743442ab162ca76fd7a21fd9fe6e0118d770b21.webp)
 
@@ -30423,13 +29726,11 @@ installation: Tightening torque\*.
 
 
 ### 24-35/1
-`bmw_e31_am_en_b2aa5e50` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:412 | doc_type:owners_manual
 
 ![](images/d41473c8d30ea50271dd4f08a33d8594a839f0921f1a9ee129f23b0c5a2dfec5.webp)
 
 
 ### 2435 500 REPLACING WIRE HARNESS IN AUTOMATIC TRANSMISSION
-`bmw_e31_am_en_e51a75f1` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:413 | doc_type:owners_manual
 
 Remove valve body -see 2430002. Pull of wire harness plugs on solenolds （1 .. 4).pressure regulator (5） and pulse sender (6). Lift wlre harness out of holders.
 
@@ -30450,7 +29751,6 @@ Route wlre harness and clamp In holders (11 14).
 
 
 ### 24 40 004 REMOVING AND INSTALLING TORQUE CONVERTER
-`bmw_e31_am_en_69769537` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:414 | doc_type:owners_manual
 
 Remove transmlsslon see 2400024. Pull torque converter out of primary pump carefullywlth Speclal Tool 24 4000.
 
@@ -30497,13 +29797,11 @@ See Specifications
 
 
 ### 24-61/1
-`bmw_e31_am_en_2180cd41` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:415 | doc_type:owners_manual
 
 ![](images/b9516ce346e308e0ce96866d7e843b1a856728c7b581f9dadb42fd159d287a3b.webp)
 
 
 ### 2461 500 REMOVING AND INSTALLINGORREPLACING CONTROLUNIT(EH)
-`bmw_e31_am_en_fbbef412` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:416 | doc_type:owners_manual
 
 Control unlt Is located In trunk at rear right.   
 Lift out cover. Swing down spring-loaded reatiner (1).   
@@ -30540,7 +29838,6 @@ See Repair Instructions for5Series E34
 
 
 ### 24-0/52
-`bmw_e31_am_en_7468b8a6` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:417 | doc_type:owners_manual
 
 2400007 Adjusting the shift lever -transmission A5S560Z
 
@@ -30548,7 +29845,6 @@ Referto Repalr Instructions for5 Series E34
 
 
 ### 2400 026 Removing and installing automatic transmission (A5S560Z/ M60 Engine)
-`bmw_e31_am_en_63d7f5d1` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:418 | doc_type:owners_manual
 
 Disconnect ground leadfrom battery. Caution! When ground leadis disconnected, the fault memories in the control units are cancelled. For this reason, lirst read fauit memories with tester and print out any faults in the system.
 
@@ -30601,7 +29897,6 @@ Top up coolant, see 17 00005
 
 
 ### Unscrew crossmember.
-`bmw_e31_am_en_25380067` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:419 | doc_type:owners_manual
 
 Instalfation: Balance the transmission,see Gr.26. Tightening torque 24 71 1AZ
 
@@ -30651,16 +29946,13 @@ Referto Technical Data
 ![](images/028a7f4cf4b1e1e3afb0ba2c6e488ebf46aa4d88ed9295a730abd1e94a85b773.webp)
 
 
-### Caution!
-`bmw_e31_am_en_61ae1dc6` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:420 | doc_type:owners_manual
-
-When putting down transmission without mount, do not place ontooil cooler.
-
-![](images/962a5f29e7241eb7ce5b116ec8a97bfc4858934eb4a48bbcdc4a8e2be038e78e.webp)
+> ⚠️ **Внимание:** 
+> When putting down transmission without mount, do not place ontooil cooler.
+>
+> ![](images/962a5f29e7241eb7ce5b116ec8a97bfc4858934eb4a48bbcdc4a8e2be038e78e.webp)
 
 
 ### Installation:
-`bmw_e31_am_en_8e596e76` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:421 | doc_type:owners_manual
 
 Lift automatic transmission until bore (3)in drive plate Isreached.   
 Guide transmission in carefully with special tool242300in bore (3) on the drive plate.   
@@ -30687,7 +29979,6 @@ installation: Bore (3) on drive plate must point perpendicularly to center of op
 
 
 ### 2400026 Removing and installing automatic transmission (A5S560Z M73 Engine)
-`bmw_e31_am_en_faaa29cb` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:422 | doc_type:owners_manual
 
 Fit special tool 24 5 240 to the shift lever.
 
@@ -30723,7 +30014,6 @@ Installation: Replace O-rings.
 
 
 ### 24-0/58
-`bmw_e31_am_en_11c0ceea` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:423 | doc_type:owners_manual
 
 ![](images/da09e4110d1717a433d583361d9e1089d1c551eefb47a2894af43b9619c2cb3c.webp)
 
@@ -30758,7 +30048,6 @@ Caution! Do not lower workshop hoist any further or theengine oil pan may be dam
 
 
 ### 24-0/59
-`bmw_e31_am_en_72d79689` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:424 | doc_type:owners_manual
 
 Unfasten screws.
 
@@ -30787,7 +30076,6 @@ Installation: One of the four bores（1） in the drive plate must be accessible
 
 
 ### 24 12506 Replacingradlal seal for torque converter
-`bmw_e31_am_en_5fae9190` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:425 | doc_type:owners_manual
 
 Refer to Repair Instructions 1or 5 Series E34
 
@@ -30795,7 +30083,6 @@ Refer to Repair Instructions for5 Series E34
 
 
 ### 2411 008 Removing sealing transmission oil pan
-`bmw_e31_am_en_480fa3d7` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:426 | doc_type:owners_manual
 
 Refer to Repair Instructions for 5 Series E34
 
@@ -30803,7 +30090,6 @@ Refer to Repair Instructions for 5 Series E34
 
 
 ### 24 13706 Replacingmount for transmission extension
-`bmw_e31_am_en_4a2b7575` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:427 | doc_type:owners_manual
 
 Referto Repair Instructions for5 Series E34
 
@@ -30811,7 +30097,6 @@ Refer to Repair Instructions lor5 Serles E34
 
 
 ### 2430 006 Removing and installing replacing shift unit
-`bmw_e31_am_en_fb00341c` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:428 | doc_type:owners_manual
 
 Refer to Repair Instructions for 5 Series E34
 
@@ -30835,7 +30120,6 @@ Refer to Repair Instructions for5Series E34
 
 
 ### 24 61 501 Removing and installing or replacingcontrol unit (EGS)
-`bmw_e31_am_en_5ace46fc` | e31_am | pdf_manual | tier:2 | lang:en | layer:electrical | p:429 | doc_type:owners_manual
 
 Unscrew cover from Ebox (right side,viewed in diroction of travel).
 
@@ -30855,7 +30139,6 @@ Additional Instructions: see Electrical Troubleshooting Manual
 
 
 ### Configuration of control units:
-`bmw_e31_am_en_612921c9` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:430 | doc_type:owners_manual
 
 123 Control unit for ABS Control.unit for DME Control unit for automatic transmission (EGS)
 
@@ -30869,7 +30152,6 @@ Remove clips.
 
 
 ### Manual transmission
-`bmw_e31_am_en_51188d98` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:431 | doc_type:owners_manual
 
 25 11000 Shift lever-remove and install 25- 11/1   
 001 Shift lever,complete 一 replace 25- 11/2   
@@ -30880,7 +30162,6 @@ Remove clips.
 
 
 ### Automatic transmission
-`bmw_e31_am_en_00670429` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:432 | doc_type:owners_manual
 
 25 16050 Shift lever with mount- remove and install ..-=. 25- 16/1   
 051 Shift tower removeandinstall/replace (stepshift) .\*\*\*\*\*\*\* 25- 16/3   
@@ -30893,13 +30174,11 @@ Remove clips.
 
 
 ### 25-11/1
-`bmw_e31_am_en_c8fed814` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:433 | doc_type:owners_manual
 
 ![](images/6e18b478f41e8e33f68190e0ab3610c32be5fe93735aaa04ab2f851c868717a0.webp)
 
 
 ### 25 11 000 Removing and installing shift lever
-`bmw_e31_am_en_1a2d6f23` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:434 | doc_type:owners_manual
 
 Litt cover off retaining tabs.   
 Pull otf shitt lever knob by hand with a sudden jerk.   
@@ -30935,7 +30214,6 @@ Source of Supply: BMW Parts Service.
 
 
 ### 25-11/2
-`bmw_e31_am_en_ac71b8fb` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:435 | doc_type:owners_manual
 
 Installation: Button in inner dust cover over the shift arm and outer dust cover in the body opening.
 
@@ -30945,13 +30223,11 @@ Installation: Button in inner dust cover over the shift arm and outer dust cover
 
 
 ### 25-11/3
-`bmw_e31_am_en_5bb4b9c7` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:436 | doc_type:owners_manual
 
 ![](images/70487dd8e4505f37b28445f326c7f443ea167d66e203fd89923a0585ff6fa5fc.webp)
 
 
 ### 25 11 005 Adjusting shift lever
-`bmw_e31_am_en_7e9a548f` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:437 | doc_type:owners_manual
 
 Note: The shift rod is fitted with a clamping fixtureto compensate for unfavourable tolerances.
 
@@ -30959,25 +30235,22 @@ Note: The shift rod is fitted with a clamping fixtureto compensate for unfavoura
 Tighten clamping screw.
 
 
-### Note:
-`bmw_e31_am_en_d8b7ac08` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:438 | doc_type:owners_manual
-
-On vehicles with an M6o engine and an S6S 420D transmission,the shift rod is mounted from left to right.
-
-Move manual transmission inlo"Reverse" position.
-
-Loosen clamping screw on the shift rod.
-
-Unclip shift levor dust cover from console and push upwards,to remove.
-
-Insert template in the console aperture and press shift lever into "Reverse" setting.
-
-Note:   
-Refer to BMW Service Information for sample template.
+> ℹ️ **Примечание:** 
+> On vehicles with an M6o engine and an S6S 420D transmission,the shift rod is mounted from left to right.
+>
+> Move manual transmission inlo"Reverse" position.
+>
+> Loosen clamping screw on the shift rod.
+>
+> Unclip shift levor dust cover from console and push upwards,to remove.
+>
+> Insert template in the console aperture and press shift lever into "Reverse" setting.
+>
+> Note:   
+> Refer to BMW Service Information for sample template.
 
 
 ### 2511111 Replacing shift rod joint
-`bmw_e31_am_en_5d63842e` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:439 | doc_type:owners_manual
 
 Remove propeller shaft from transmission and center bearing (see 26 11000).
 
@@ -31007,7 +30280,6 @@ Source of Supply: BMW Parts Service
 
 
 ### 25-16/1
-`bmw_e31_am_en_dcbffe33` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:440 | doc_type:owners_manual
 
 ![](images/72eb8fe99ca06cf304a3ffc0f9037dd2bd9e7c8ff4dad7bbd19cf19f12b25b84.webp)
 
@@ -31015,7 +30287,6 @@ Source of Supply: BMW Parts Service
 
 
 ### 25-16/2
-`bmw_e31_am_en_81b6531c` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:441 | doc_type:owners_manual
 
 ![](images/25c1245af46afeec23a3b53ee64bf52a3e2ed3a860b2d4a8bc4492d2c6c10ad6.webp)
 
@@ -31035,7 +30306,6 @@ Check that gasket {13) can be reused and replace if necessary.
 
 
 ### 25 16051 Removingand installing replacing shift tower (step gearselection)
-`bmw_e31_am_en_849ab51a` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:442 | doc_type:owners_manual
 
 ![](images/027ab2f4926e66ad56c01ade7d8611761434a1fa8b18813b2f6e818bb32de9f3.webp)
 
@@ -31067,7 +30337,6 @@ If necessary,unfasten cable and cable connectorfrom reinforcement plate.
 
 
 ### 25-16/4
-`bmw_e31_am_en_6295d0f8` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:443 | doc_type:owners_manual
 
 Ifnecessary,fit position switch (1)to the new shift tower.
 
@@ -31078,7 +30347,6 @@ The pin on the switch must be in the recess on theshiftlever.
 
 
 ### 2516056 Removingand installing replacing shift tower (ShiftLock/nterlock)
-`bmw_e31_am_en_619ec299` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:444 | doc_type:owners_manual
 
 Unfasten cable connectors (1） and (2)-
 
@@ -31112,7 +30380,6 @@ Unfasten screws.
 
 
 ### 25-16/6
-`bmw_e31_am_en_02bf47e7` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:445 | doc_type:owners_manual
 
 ![](images/7dabb188deff3566b5877f9cfb631ca2b580b0a7267fe592186b7ce32b652b0d.webp)
 
@@ -31130,13 +30397,11 @@ Remove selector lever handle by tugging firmly.
 
 
 ### 25-16/8
-`bmw_e31_am_en_318cfa43` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:446 | doc_type:owners_manual
 
 ![](images/590be77cb4d39012d3c713a9b8cf9131276d778bd646083118133b9d48d229eb.webp)
 
 
 ### 2516 080 Removingand installing re placing shift lever
-`bmw_e31_am_en_d5678adb` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:447 | doc_type:owners_manual
 
 Remove shift tower25 16050.   
 Pry out retainer(1).
@@ -31149,7 +30414,6 @@ GLY801
 
 
 ### 2616130 Removing and installing/re placingshift lock solenoid
-`bmw_e31_am_en_a95ca105` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:448 | doc_type:owners_manual
 
 Remove finisher from centre console, refer to 51 16200.
 
@@ -31166,13 +30430,11 @@ Disconnect cable connector (A).
 
 
 ### 25-16/10
-`bmw_e31_am_en_5e728a66` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:449 | doc_type:owners_manual
 
 ![](images/941cdbe4f835301d55cfa388f3996ac880701e4cddfda0b8ea78e41dbde4f0c8.webp)
 
 
 ### 2516 202 Replacing cable for gearselector lever
-`bmw_e31_am_en_bac96ff4` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:450 | doc_type:owners_manual
 
 Unfasten nut (4) (brace).   
 Remove cable from support bearing. Pull out cable.   
@@ -31191,13 +30453,11 @@ Instaflation: Ensure that rubber seal is perfectly located.
 
 
 ### 25 16202 Replacing cable forgear selector lever (step shift mechanism)
-`bmw_e31_am_en_18b8081d` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:451 | doc_type:owners_manual
 
 Operation is identical to "Removingand Installing Shift Tower", refer to 25 16051 25 16056.
 
 
 ### 26 Propeller shaft
-`bmw_e31_am_en_24027134` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:452 | doc_type:owners_manual
 
 2611000 Propellershaft 1 removeand install .. .. . \*\* ....... 26-11/1   
 030 Propellershaft - balance (centerand adjust deflection angle) 26-11/3   
@@ -31212,13 +30472,11 @@ Propellershaft-troubleshoot 26-90/1
 
 
 ### 26-11/1
-`bmw_e31_am_en_c372eb78` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:453 | doc_type:owners_manual
 
 ![](images/d66445bd0b90bc2e666d811a23d4d672c73f2abd2e179d3b3852276b067771f9.webp)
 
 
 ### 2611000 REMOVING AND INSTALLINGPROPELLER SHAFT
-`bmw_e31_am_en_ecfe24a1` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:454 | doc_type:owners_manual
 
 ![](images/1da8d20f6e00f8f94722e3c2415856fa3c5be48c64c3226c324f466f12a98c1d.webp)
 
@@ -31251,7 +30509,6 @@ Never let the propeller shaft fall Into Ihe jolnts. This could lead todamaging t
 
 
 ### 26-11/2
-`bmw_e31_am_en_ca6b78fb` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:455 | doc_type:owners_manual
 
 ![](images/704c9cb77d4d00c1ea944a6888b6f02800894f03df20db1e026e641d9e272417.webp)
 
@@ -31268,7 +30525,6 @@ Coat center with Molykote Longterm 2 prior to Installation.
 
 
 ### Vibrallon orNolse:
-`bmw_e31_am_en_e9887453` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:456 | doc_type:owners_manual
 
 Requlrements:   
 Propeller shaft in perfect optical conditon.   
@@ -31276,7 +30532,6 @@ Balance the propeller shaft if balance plates are missing or there is susplclon 
 
 
 ### Important!
-`bmw_e31_am_en_2a121c30` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:457 | doc_type:owners_manual
 
 Test run 8 jacked-up car only with supported wheel suspension on the driven wheels (deflection angle of output shaft).
 
@@ -31286,7 +30541,6 @@ Move transmission sideways untll speclal tool gage shows same dlstance on the le
 
 
 ### Checking Deflection Angle of Propeller Shaft:
-`bmw_e31_am_en_eabf2e96` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:458 | doc_type:owners_manual
 
 Unscrew splash guard.   
 Clamp helping rall (steel ruler) on pulley in vertical position with a clamping pllers.   
@@ -31296,7 +30550,6 @@ Apply Speclal Tool 261 030 on the helpingrall.
 
 
 ### Centering Propeller Shaft:
-`bmw_e31_am_en_2b882764` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:459 | doc_type:owners_manual
 
 Loosen exhaust assembly,engine rubber mounts and transmisslon cross member.
 
@@ -31321,7 +30574,6 @@ Punch mark measuring points.
 
 
 ### 26-11/4
-`bmw_e31_am_en_243bf7bd` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:460 | doc_type:owners_manual
 
 ![](images/a3ce26c2fe6aaf34d5fbb2b31fb1e579e1777fd60f401a26b2287ab351f55214.webp)
 
@@ -31335,27 +30587,24 @@ Jolnt coupling defi.angle
 2 16'-206'+010
 
 
-### Note:
-`bmw_e31_am_en_73fc32a0` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:461 | doc_type:owners_manual
-
-When correcting deflection angles by installlng shims,remember that thls wll change the deflection angle of nelghboring loints. In general a small as possible deflection angle on joints would be Ideal.
-
-![](images/d70d3c2dd596d3bbde453858397436df26c4d4f19b7378ea6b2621f321b0bf2c.webp)
-
-Unscrew two nuts on conslant velocity jolnt.   
-Mount Speclal Tool 261 100on constant veloclty Jolnt.   
-Place Speclal Tool261 030 on Speclal Tool261 100.   
-Measure the deflection angle.
-
-Installation: Replace stop nuts. Tightening torque\*.
-
-Place speclal tool onrear propeller shaft sectlon and measure the angle. Determine dellection angle' ofcenter mount and,lf necessary,correct byinstallingmax. 3 mm-(0.118") thick shims on the transmission suspenslon or center mount.
-
-![](images/901fb742d6189d0da366240f9964a8ab2ad7a64dec621c48dc74b5a7f337d133.webp)
+> ℹ️ **Примечание:** 
+> When correcting deflection angles by installlng shims,remember that thls wll change the deflection angle of nelghboring loints. In general a small as possible deflection angle on joints would be Ideal.
+>
+> ![](images/d70d3c2dd596d3bbde453858397436df26c4d4f19b7378ea6b2621f321b0bf2c.webp)
+>
+> Unscrew two nuts on conslant velocity jolnt.   
+> Mount Speclal Tool 261 100on constant veloclty Jolnt.   
+> Place Speclal Tool261 030 on Speclal Tool261 100.   
+> Measure the deflection angle.
+>
+> Installation: Replace stop nuts. Tightening torque\*.
+>
+> Place speclal tool onrear propeller shaft sectlon and measure the angle. Determine dellection angle' ofcenter mount and,lf necessary,correct byinstallingmax. 3 mm-(0.118") thick shims on the transmission suspenslon or center mount.
+>
+> ![](images/901fb742d6189d0da366240f9964a8ab2ad7a64dec621c48dc74b5a7f337d133.webp)
 
 
 ### 2611051 REPLACING JOINT DISC FOR FRONT END OF PROPELLER SHAFT
-`bmw_e31_am_en_60d54d0e` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:462 | doc_type:owners_manual
 
 Remove exhaust assembly - see 1800 020. Remove heat shleld (1).
 
@@ -31387,7 +30636,6 @@ Coat the center with Molykote Longlerm 2 prlor 10 Installatlon.
 
 
 ### 26-11/6
-`bmw_e31_am_en_e5995b00` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:463 | doc_type:owners_manual
 
 ![](images/6a6a7a9768c0b4d742bfdc890d7431c8f0cfff45bd3741020fcbc04625d6fa11.webp)
 
@@ -31401,7 +30649,6 @@ Tlghtening torque\*.
 
 
 ### 26 11 090 AEMOVING AND INSTALLING OR REPLACING CENTER FOR PROPELLER SHAFT
-`bmw_e31_am_en_e2e5d4d6` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:464 | doc_type:owners_manual
 
 Unscrew propeller shall at transmisslon and center mount 11 reler lo 2611.000. Afterunscrewing,suspend front end of propoller shatt from car on a plece olwlre and bolt propeller shalt to center mount. Flll conterwith viscous grease and drive out using Special Tool26 F 080. Pressure on the grease fllllng wlll force oul center bearing (1).
 
@@ -31413,7 +30660,6 @@ Prolruslon A= 4.2mm.
 
 
 ### 2611160 REPLACING CONSTANT VELOCITYJOINTFOR PROPELLER SHAFT
-`bmw_e31_am_en_413357c6` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:465 | doc_type:owners_manual
 
 ![](images/d0359fd7925964dc8f6382727bf4ec7bd5bd9f76a68bc86061d324e1608baf29.webp)
 
@@ -31443,7 +30689,6 @@ Knock constant veloclty jolnt on to the propeller shatt using Speclal Tool 23 1 
 
 
 ### 26-11/8
-`bmw_e31_am_en_6b38e726` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:466 | doc_type:owners_manual
 
 ![](images/1b9b1db1bed51cab9cbb221b42eceae91107d30035afd814d42e19d2ddb031b1.webp)
 
@@ -31468,7 +30713,6 @@ T Propeller shaft
 
 
 ### 26-11/9
-`bmw_e31_am_en_c4d662ed` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:467 | doc_type:owners_manual
 
 ![](images/d78462db956a6ef8bf892e768b6fe781ccfed6afeb951017b709ccaa063abc55.webp)
 
@@ -31489,7 +30733,6 @@ Pull dust cover onto propeller shaft. Install and tighten hose clamp on dust cov
 
 
 ### 26 12001 REPLACING PROPELLER SHAFT CENTER MOUNT ASSEMBLY
-`bmw_e31_am_en_bdb5798f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:468 | doc_type:owners_manual
 
 ![](images/c811c6ddf4be547d2404ada72fd47b9d0a72df9bf0625918344f27c1d051932a.webp)
 
@@ -31512,7 +30755,6 @@ Pulloft center mount complete with the grooved ball bearing, using a standard pu
 
 
 ### 26 12011 REPLACING GROOVED BALL BEARING INPROPELLER SHAFT CENTER MOUNT
-`bmw_e31_am_en_9f3e6f0c` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:469 | doc_type:owners_manual
 
 Contained In "Replacing Propeller Shaft Center Mount Assembly" = see 2612 001.
 
@@ -31521,7 +30763,6 @@ Check Installed direction of dust cover (2).
 
 
 ### 26 12 500 CHECKING PRELOAD OF PROPELLER SHAFT CENTERMOUNT
-`bmw_e31_am_en_4a415271` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:470 | doc_type:owners_manual
 
 Contalned in"Removing and Installing Propeller Shaft"" 一 see 26 11 000.
 
@@ -31532,7 +30773,6 @@ TROUBLESHOOTING PROPELLER SHAFT
 
 
 ### 31 Front axle
-`bmw_e31_am_en_17819b0b` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:471 | doc_type:owners_manual
 
 Front axle suspension layout 31- 0/1   
 Layout of struts and control arms ..···.. 31- 0/2   
@@ -31558,7 +30798,6 @@ Shockabsorber -troubleshoot EEEE1: 31-90/3
 
 
 ### LAYOUT DRAWING OF STRUTS AND ARMS
-`bmw_e31_am_en_2619675f` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:472 | doc_type:owners_manual
 
 12 Thrust strut Tle rod arm 34 Control arm Support 5 Connecting pipe
 
@@ -31566,7 +30805,6 @@ Shockabsorber -troubleshoot EEEE1: 31-90/3
 
 
 ### LAYOUT DRAWING OF STRUTS AND ARMS (Verslon wlth Relnlorcement Cross)
-`bmw_e31_am_en_e27a6505` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:473 | doc_type:owners_manual
 
 1234 Relnforcement cross Thrust strut Tle rod arm Control arm
 
@@ -31574,7 +30812,6 @@ Shockabsorber -troubleshoot EEEE1: 31-90/3
 
 
 ### 31 10000 REMOVING AND INSTALLING FRONT AXLE ASSEMBLY
-`bmw_e31_am_en_1a7c65be` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:474 | doc_type:owners_manual
 
 Unscrew brake calipers (plpes remaln connected) refer to Group34. Unscrew ABS pulso senders reler to Group 34. Disconnect EDCwire referto Group 37.
 
@@ -31638,7 +30875,6 @@ See Specifications
 
 
 ### 3111001 REPLACING FRONT AXLE CARRIER
-`bmw_e31_am_en_176eb1b3` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:475 | doc_type:owners_manual
 
 Note:   
 The steering drop arm must be adjusted (relerto Group 32) after Installation ola new front axle carrler.   
@@ -31691,7 +30927,6 @@ instalation: Tlghtening torque\*.
 
 
 ### 31 12001 REPLACING LEFT OR RIGHTCONTROL ARM
-`bmw_e31_am_en_6b485e0d` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:476 | doc_type:owners_manual
 
 Remove front wheel refer to Group 36.
 
@@ -31710,13 +30945,11 @@ Tlghtening torque\*.
 
 
 ### Unscrew bolt.
-`bmw_e31_am_en_a667e974` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:477 | doc_type:owners_manual
 
 Installation: Use washers on bolh sldes. Replace self-locking nut. Tightening torque'.
 
 
 ### Unscrew bolts.
-`bmw_e31_am_en_94fdaba7` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:478 | doc_type:owners_manual
 
 Installation:   
 Clean threads of bores and bolts. Install bolts wlth bolt cement". Tightening torque\*.
@@ -31727,7 +30960,6 @@ Check for correct Installed posltion.
 
 
 ### 31 12090 REMOVING AND INSTALLINGOR REPLACING LEFTORRIGHT THRUST STRUT
-`bmw_e31_am_en_d4fc984f` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:479 | doc_type:owners_manual
 
 Remove front wheel 1 see Group 36.
 
@@ -31750,7 +30982,6 @@ Both mounts must be replaced is fluld Is running out of ahydraulic mount.
 
 
 ### 3112147 REPLACING THRUST STRUT RUBBER MOUNTS
-`bmw_e31_am_en_fd819194` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:480 | doc_type:owners_manual
 
 Always replace both mounts! Remove thrust strut = see 31 12090.
 
@@ -31767,7 +30998,6 @@ InstaNation: Protruslon (A) equal onboth sides.
 
 
 ### 3121 180 REPLACING BEARINGS (WHEEL HUB) FOR FRONT WHEEL
-`bmw_e31_am_en_8047d200` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:481 | doc_type:owners_manual
 
 importan! Never reuse bearing unit after removal.
 
@@ -31781,7 +31011,6 @@ Pry off grease cap with □ screwdriver. Neverreuse cap!
 
 
 ### Wheel Bearings:
-`bmw_e31_am_en_3541abc9` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:482 | doc_type:owners_manual
 
 123 Grease cap Collar nut Bearingunlt 45 Pulse gear Dust cover 6 Stub axle
 
@@ -31818,7 +31047,6 @@ Sllde and pull on new bearing unit using Speclal Tool31 2110.
 
 
 ### SPRING STRUT ASSEMBLY DRAWING
-`bmw_e31_am_en_dc93c65c` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:483 | doc_type:owners_manual
 
 1 Cap   
 2 Stop washer   
@@ -31839,7 +31067,6 @@ Support
 
 
 ### 3131 000 Removing and installing complete front leftor right spring strut shock absorber
-`bmw_e31_am_en_3611aa00` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:484 | doc_type:owners_manual
 
 Remove brake caliper line remains connected). referto Gr.34. Remove ABS impulse sensor,refer to Gr.34. EDC- disconnect line,refer to Gr.37.
 
@@ -31860,7 +31087,6 @@ Tightening torque\*.
 
 
 ### Unfasten screws.
-`bmw_e31_am_en_596020a8` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:485 | doc_type:owners_manual
 
 Installation:   
 Clean thread in bore and on screws. Secure screws with screw cement\*\*. Tightening torque\*.
@@ -31871,7 +31097,6 @@ Ensure unit is correctly installed.
 
 
 ### 3131 031 Replacingleft orright front spring strut shock absorber
-`bmw_e31_am_en_7162a1ac` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:486 | doc_type:owners_manual
 
 Note: The shock absorber and spring strut form one unit and cannot be replaced separately.
 
@@ -31884,28 +31109,25 @@ Onlyremove bearing (wheel hub)from front wheel 31 21 180 If dust shleld is to be
 Coll spring with speclal tool31 3121/123 124.
 
 
-### Caution!
-`bmw_e31_am_en_46043722` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:487 | doc_type:owners_manual
-
-Lowest coil of spring must be securely mounted in tool and thrust bearing should be flush.
-
-![](images/751382955a2eebea36a6a0059f9a5714035d523935b008d3e0b875bd07226d49.webp)
-
-![](images/1b51d665906795586d06027e92cb6865d70d1c0c61109e2c01b745be45922ff6.webp)
-
-When replacing a spring strut, always fit a new spring strut with the same designation (K) (color spot).
-
-Unscrewand remove self-locking nut with special tool31 3 170/210 and brace piston rod.
-
-InstaNation: Replace self-locking nut. Tightening torque'.
-
-Removing and instaling □ spring strut   
-3131000.   
-Grip spring strut shock absorber in vise with special tool313000.
+> ⚠️ **Внимание:** 
+> Lowest coil of spring must be securely mounted in tool and thrust bearing should be flush.
+>
+> ![](images/751382955a2eebea36a6a0059f9a5714035d523935b008d3e0b875bd07226d49.webp)
+>
+> ![](images/1b51d665906795586d06027e92cb6865d70d1c0c61109e2c01b745be45922ff6.webp)
+>
+> When replacing a spring strut, always fit a new spring strut with the same designation (K) (color spot).
+>
+> Unscrewand remove self-locking nut with special tool31 3 170/210 and brace piston rod.
+>
+> InstaNation: Replace self-locking nut. Tightening torque'.
+>
+> Removing and instaling □ spring strut   
+> 3131000.   
+> Grip spring strut shock absorber in vise with special tool313000.
 
 
 ### 31-31/4
-`bmw_e31_am_en_c6b37283` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:488 | doc_type:owners_manual
 
 ![](images/40d0884f82b0a1e0c899e32c3764731e98d102c32dfdf95d86fcc7ce73562813.webp)
 
@@ -31918,20 +31140,17 @@ The end of the coil spring must contact the stop in the lower plate spring.
 ![](images/20583571cd04cc5e05f662ac285cb80e9016a87439baab2e89faf2709f65b999.webp)
 
 
-### Caution!
-`bmw_e31_am_en_3fbb45c5` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:489 | doc_type:owners_manual
-
-On vehicles constructed before introduction of the standard wheel bearing, not only the spring strut shock absorber has to be replaced: also replace parts indicated in Parts Microfilm.
-
-The standard wheel bearing can be identified by the bore (1) in the center for securing the brake disks.
-
-Fit protective plate and new bearing (wheel hub) to front wheel31 21 180.
-
-Afterassembly, align front axle if necessary.
+> ⚠️ **Внимание:** 
+> On vehicles constructed before introduction of the standard wheel bearing, not only the spring strut shock absorber has to be replaced: also replace parts indicated in Parts Microfilm.
+>
+> The standard wheel bearing can be identified by the bore (1) in the center for securing the brake disks.
+>
+> Fit protective plate and new bearing (wheel hub) to front wheel31 21 180.
+>
+> Afterassembly, align front axle if necessary.
 
 
 ### 31 33 100 Removing and installing or replacing coll spring forleft orright front spring strut shock absorber
-`bmw_e31_am_en_942dbd81` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:490 | doc_type:owners_manual
 
 Operation identical to replacing spring strut shock absorber: 3131031.
 
@@ -31943,7 +31162,6 @@ Allocation of springs by vehicle model and,if applicable,special equipment, e.g.
 
 
 ### 31-33/2
-`bmw_e31_am_en_3a273708` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:491 | doc_type:owners_manual
 
 ![](images/b3ff020fe6956dc54052ca3e45c6116e04957ae686918d0e694493a621e4106a.webp)
 
@@ -31956,29 +31174,24 @@ Determine correction springfromtable.Figures indicate thedifference in ride leve
 
 
 ### Example:
-`bmw_e31_am_en_37a854a9` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:492 | doc_type:owners_manual
 
 The vehicle is equipped with coil spring BMw No.1137 954 and is6mm too low-possibly because ofa high proportionof custom items.By instaling spring with BMWNo.1 137955, the nominal ride level setting is achieved.
 
 
-### Note:
-`bmw_e31_am_en_584767db` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:493 | doc_type:owners_manual
-
-Itisnolonger possible to performanadditional correction of ride level by inserting springs of different thicknesses.
-
-Tablefor Serie 840i, 850i, and EDC Ill ab 4/92:
-
-AB Equipment after correction Equipment when delivered 5□ Riseddsuseesisnn
+> ℹ️ **Примечание:** 
+> Itisnolonger possible to performanadditional correction of ride level by inserting springs of different thicknesses.
+>
+> Tablefor Serie 840i, 850i, and EDC Ill ab 4/92:
+>
+> AB Equipment after correction Equipment when delivered 5□ Riseddsuseesisnn
 
 
 ### 31-35/1
-`bmw_e31_am_en_1daf2a43` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:494 | doc_type:owners_manual
 
 ![](images/f732b9df843171d137d4648d88fd93a34d6992997ad0d5e309d10e34a7d50f30.webp)
 
 
 ### 31 35 000 REMOVING AND INSTALLING FRONT STABILIZER
-`bmw_e31_am_en_33116b41` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:495 | doc_type:owners_manual
 
 Unscrew leftand right thrust struts.
 
@@ -31997,7 +31210,6 @@ he condition o1 shock absorbers can only be checked with a shock absorber tester
 
 
 ### 32 Steering and wheel alignment
-`bmw_e31_am_en_d85eb5d2` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:496 | doc_type:owners_manual
 
 Notes . 32 0/1   
 General instructions and terms 32 0/2   
@@ -32058,13 +31270,11 @@ Layoutof oil containerwithASC+T 32- 41/14
 
 
 ### 32-0/2
-`bmw_e31_am_en_3eade62c` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:497 | doc_type:owners_manual
 
 ![](images/443cc02ded21b822aecf720ee8259d30e7ec5b27ef184c81b9d6f9c1bfbfdc5e.webp)
 
 
 ### Camber
-`bmw_e31_am_en_ca2c3913` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:498 | doc_type:owners_manual
 
 ls the Inclination ofa wheel from aperpendicular lne.
 
@@ -32072,13 +31282,11 @@ ls the Inclination ofa wheel from aperpendicular lne.
 
 
 ### Toe Dlfference Angle
-`bmw_e31_am_en_2da32a22` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:499 | doc_type:owners_manual
 
 Is the angle, by which the king pin\*is Inclined Inward froma perpendicular lIne to the lateral axls of the car. The klngpin Inclination produces returning forces, whlch retum theroad wheels and steering wheel to straight aheadafter driving through a curve or around a corner.
 
 
 ### King Pin Inclination
-`bmw_e31_am_en_1aa6fddc` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:500 | doc_type:owners_manual
 
 is the angular position of the wheel on the Inside ofacurve to thewheel on the outslde ofa curve when driving in acurve. The steering is designed that the angular position o the wheels changes as steering lock progresses. The toe difference angle provides Informatlon on thepertinent operation of thesteering trapezoid for leftorright steering lock from the center position. A correctly adjusted toe difference angle-produces equal values for left and rlght lock Indue conslderatlon for factory manufacturing tolerances.
 
@@ -32092,13 +31300,11 @@ The "king pin"is equal to a line through the center polnt of the spring strut mo
 
 
 ### 32-0/3
-`bmw_e31_am_en_583bb4d6` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:501 | doc_type:owners_manual
 
 ![](images/7d063e73d91f5cf252d8ca94d026d4a787fe5d66dad0d2e3855b23d691d7edec.webp)
 
 
 ### Caster
-`bmw_e31_am_en_2277610a` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:502 | doc_type:owners_manual
 
 Isthe inclinatlon of the king pin\* In forward direction asseen from the side.
 
@@ -32110,7 +31316,6 @@ The"king pin"Is equal to aline through the center point of the spring strut moun
 
 
 ### Wheel Offset
-`bmw_e31_am_en_d831f459` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:503 | doc_type:owners_manual
 
 is the angle, by whlch onefront wheel isdisplaced more toward front or rear than the other front wheel.
 
@@ -32118,19 +31323,16 @@ is the angle, by whlch onefront wheel isdisplaced more toward front or rear than
 
 
 ### Geometrical Axis1
-`bmw_e31_am_en_6804bf6c` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:504 | doc_type:owners_manual
 
 is the bisecting line of anangle from the total rear wheel toe. Front wheel measurements are taken In reference to this axis.
 
 
 ### Symmetrlcal Axls2
-`bmw_e31_am_en_15c8ab19` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:505 | doc_type:owners_manual
 
 is a center line running through the front and rear axles.
 
 
 ### 3200150 CHECKING WHEEL ALIGNMENT WITH ELECTRONIC TESTER(wIth KDS)
-`bmw_e31_am_en_d9305d96` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:506 | doc_type:owners_manual
 
 Requlrements to be fulflled prlorto checking wheel alignment:
 
@@ -32155,7 +31357,6 @@ Always check wheel allgnment only with a recommended electronlc tester (see Work
 
 
 ### 32 00 610 Adjusting front axle （with KDS)
-`bmw_e31_am_en_e6f1b006` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:507 | doc_type:owners_manual
 
 Caution!   
 On vehicle with   
@@ -32174,7 +31375,6 @@ Ensure that ball joints are not twisted. Tightening torque\*.
 
 
 ### 3200 620 Adjusting rear axle (with KDS)
-`bmw_e31_am_en_859b097c` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:508 | doc_type:owners_manual
 
 Caution!   
 On vehicles with Active Rear Axle Kinematics (AHK), an actuator member check must beperformed wiht the BMW Service Tester before each wheel alignment check. Adjusting toe-in.   
@@ -32210,7 +31410,6 @@ TROUBLESHOOTING REAR WHEEL ALIGNMENT
 
 
 ### 3213006 FILLING AND BLEEDING POWER STEERING
-`bmw_e31_am_en_a6578df3` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:509 | doc_type:owners_manual
 
 ![](images/9061a3395260a69be852f6d4599dd7dc497602aae778dcb9faf49abe6bd0e9f0.webp)
 
@@ -32241,7 +31440,6 @@ Cars wlth ASC+T refer to 34 00 040.
 
 
 ### 3213 ADJUSTING PRESSURE POINT
-`bmw_e31_am_en_029f9dad` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:510 | doc_type:owners_manual
 
 Important!
 
@@ -32251,7 +31449,6 @@ The pressure point of steering gears wlth automatlc pressure point adjustment �
 
 
 ### 3213060 Removing and installing power steering gear
-`bmw_e31_am_en_be332c9a` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:511 | doc_type:owners_manual
 
 Airbag vehicle = remove steering wheel 3233000.
 
@@ -32282,7 +31479,6 @@ Installation: Flt new sealing rings (D). Tightening torque.
 
 
 ### Installation:
-`bmw_e31_am_en_9d0095ef` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:512 | doc_type:owners_manual
 
 Ensure that steering wheel and steering gear are in stralght-ahead position. Turn steering gear to leltor right lock, then turn back approx. 1.7 turns until marks are allgned.
 
@@ -32294,7 +31490,6 @@ Refer to Technical Data
 
 
 ### 32-13/4
-`bmw_e31_am_en_2e8bbe96` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:513 | doc_type:owners_manual
 
 ![](images/5f72ad7ca2934e3bbfa7c54bbb30dd33c6e2a2a0e4de9219d400b71f56602dbb.webp)
 
@@ -32318,7 +31513,6 @@ Install nut (6) uslng a llexible magnetlc llfter.
 
 
 ### 32-13/5
-`bmw_e31_am_en_754b09d4` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:514 | doc_type:owners_manual
 
 ![](images/c557fb619728d98850c07d192fa9275a6d1e785898178a6e2aefeffe61208db5.webp)
 
@@ -32328,7 +31522,6 @@ In neutral posltlon of valves （4 and 5) the ollflow delivered by the pump pass
 
 
 ### Steering Wheel In Neutral Posltlon:
-`bmw_e31_am_en_ac5e3eac` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:515 | doc_type:owners_manual
 
 Oll flows from the Impeller pump Into the worm head, through feed grooves （9 and 10） to radlal grooves （11and 12).From here vla connecting bores to the right and left cyllnder chambers and viaopened return tlow grooves(13and 14)back to the oll tank. The valve Is also llustrated in cross soctlon.
 
@@ -32339,7 +31532,6 @@ Oll flows from the Impeller pump Into the worm head, through feed grooves （9 a
 
 
 ### Steering Wheel Turned Clockwlse:
-`bmw_e31_am_en_49ac1bd3` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:516 | doc_type:owners_manual
 
 Valvepiston（4）lsdisplaced to therlght and feed groove (9） opened Valve piston (5) Isdlsplaced to the left and feed groove (10) closed. Thls letsthe oll flow lnto the rlght cyllnder chamber.OllIn the left cyllnder chamber is forced out and flows back Into the oll tank.
 
@@ -32347,7 +31539,6 @@ Valvepiston（4）lsdisplaced to therlght and feed groove (9） opened Valve pis
 
 
 ### Steering Wheel Turned Counterclockwlse:
-`bmw_e31_am_en_f672e30d` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:517 | doc_type:owners_manual
 
 Valve plston（5)is displaced to the right and feed groove（10） opened.Valve plston (4) Is displaced to the lett and leed groove（9） closed. Thls lets the oll flow Into the left cyllnder chamber. Oll In theright eylinder chamber is forcedout and llows back Into the oll tank.
 
@@ -32355,7 +31546,6 @@ Valve plston（5)is displaced to the right and feed groove（10） opened.Valve 
 
 
 ### 3213631 REPLACING RADIAL OIL SEAL FOR SECTOR SHAFT AND STEERING WORM AND SEALING INTERMEDIATE COVER-Power Steering Gear Removed →
-`bmw_e31_am_en_e8f23389` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:518 | doc_type:owners_manual
 
 Nofe: Cleanllness is very Important when working on steerlng gears.
 
@@ -32387,7 +31577,6 @@ Insert support ring (3). Drive Inradlal oll seal (2） that sealing llpfaces Ins
 
 
 ### Unscrew worm clockwlse.
-`bmw_e31_am_en_23451b67` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:519 | doc_type:owners_manual
 
 Important! 23 loose balls.
 
@@ -32411,7 +31600,6 @@ Install O-rings(1 and 2) wlth grease.
 
 
 ### 32-13/10
-`bmw_e31_am_en_ff577e35` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:520 | doc_type:owners_manual
 
 ![](images/3040e8638d29b373c05f24f31fd8c3cf6dabbeb9dbd4e9fabd99db658072b6b5.webp)
 
@@ -32438,7 +31626,6 @@ See Operating Flulds
 
 
 ### 32-13/11
-`bmw_e31_am_en_606a4225` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:521 | doc_type:owners_manual
 
 ![](images/536f57722727a98e83697038e5347b3b653a9f590e95071242d5fb3fdf5308b4.webp)
 
@@ -32464,7 +31651,6 @@ Press grease-filled cap (1) on spindle. Marks on spindle,cap and case must beali
 
 
 ### 32-13/12
-`bmw_e31_am_en_ca8c1e8d` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:522 | doc_type:owners_manual
 
 ![](images/5003aa1058bad149685a07b46429728f262638b64ff5a2a8e61efa5034ac22ca.webp)
 
@@ -32482,19 +31668,16 @@ Install steerlng drop arm. Check functlon after installation of the steering gea
 
 
 ### TROUBLESHOOTING POWER STEERING
-`bmw_e31_am_en_ef19d04b` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:523 | doc_type:owners_manual
 
 ![](images/cbdf5a43478bda7bce9f65eb26fb917f94ebeedc9cc8b3062ef4a3d607a11d7b.webp)
 
 
 ### 32-21/1
-`bmw_e31_am_en_1faaf574` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:524 | doc_type:owners_manual
 
 ![](images/34963d24ef2086540b9f77ffeb00ae36f9f37b16510102a27e7bf18301c65885.webp)
 
 
 ### 3221 080 Removing and installing idler arm
-`bmw_e31_am_en_cfa2de66` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:525 | doc_type:owners_manual
 
 Remove heat shield.
 
@@ -32511,19 +31694,16 @@ Caution! If the idler arm is replaced, check/adjust alignment of the pitman arm 
 
 
 ### 32-21/2
-`bmw_e31_am_en_22af98e8` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:526 | doc_type:owners_manual
 
 ![](images/d80e47c9d76593e34e7b2ace122753393cff67b4f1db05765c8150d6907781e5.webp)
 
 
 ### 32-21/3
-`bmw_e31_am_en_740a9254` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:527 | doc_type:owners_manual
 
 ![](images/35745261f50f8e37888bb978e44aed68b1561c342e26f7bcc00f99a85c24550c.webp)
 
 
 ### 3221 101 Replacing left or right tie rod lever
-`bmw_e31_am_en_6ace434a` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:528 | doc_type:owners_manual
 
 Remove front wheel, see Gr.36.   
 Unfasten nut.   
@@ -32535,7 +31715,6 @@ Perform front wheelalignment check 3200
 
 
 ### Unfasten screws.
-`bmw_e31_am_en_bfba2f9e` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:529 | doc_type:owners_manual
 
 installation: Clean thread of bores and screws. Secure screws with screw cement\*\* Tightening torque 32 21 9AZ\*.
 
@@ -32549,13 +31728,11 @@ Refer to Technical Data 1 Source of Supply: BMW Parts Service
 
 
 ### 32-21/4
-`bmw_e31_am_en_000dcdf2` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:530 | doc_type:owners_manual
 
 ![](images/b9222e3ef6a35569112892207c6c019533fddd712163e636618ebb05eb529ea4.webp)
 
 
 ### 32-21/5
-`bmw_e31_am_en_52381121` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:531 | doc_type:owners_manual
 
 ![](images/4a8ea23b9df9dfc66c9f4ed7148c1965e18187caa711430f7986cecf3274bb52.webp)
 
@@ -32579,7 +31756,6 @@ Press off lateral track rods using special tool 322050.
 
 
 ### 3221 500 REMOVING AND INSTALLING STEERING DROP ARM Steering Gear Removed
-`bmw_e31_am_en_10439713` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:532 | doc_type:owners_manual
 
 Mark posltion ol sliding steering drop arm on the sector shaft prior toun  
 screwing bolt (1).   
@@ -32592,7 +31768,6 @@ Tightening torque".
 
 
 ### 32 21510 ADJUSTING STEERING DROP ARM
-`bmw_e31_am_en_cdb93a57` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:533 | doc_type:owners_manual
 
 Adjusting the steering droparm moves the lett and right tle rods to correct helght. This guarantees the same amount of toe on lett and rlght wheels when the car's suspenslon ls bottomed.   
 H also optimlzes dlrectional stablllty on rough road suraces.
@@ -32627,7 +31802,6 @@ Mount Speclal Tool 322 120 on the slde ol the steering gulde arm on the control 
 
 
 ### 3231 082 Removingand Installing or replacing steering angle sensor
-`bmw_e31_am_en_85e71d03` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:534 | doc_type:owners_manual
 
 Disconnect battery,refer to Gr. 61 Remove lower trim from instrument panel, referto Gr.51 Remove airbagsteering wheel 3233000.
 
@@ -32650,7 +31824,6 @@ Installation: The pin on the steering angle sensor (1) must locate in the rotary
 
 
 ### 3231 090 Removingand installing complete steering column
-`bmw_e31_am_en_bfff9d83` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:535 | doc_type:owners_manual
 
 Disconnect ground lead from battery. Remove steering wheel 3233000. Removelower trim from instrument panel, refer to Gr.51.
 
@@ -32709,13 +31882,11 @@ Pull ott plugs on potentiometers. Discoonect all wires leading to the steering c
 
 
 ### 32-31/3
-`bmw_e31_am_en_7ce6c4c4` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:536 | doc_type:owners_manual
 
 ![](images/d3f59c57c9a566108fb13f70c72b0b8d4da8e1c2711627d544e8bb492748cfa8.webp)
 
 
 ### 3231 595 Dismantling and assembling complete steering column
-`bmw_e31_am_en_2977d3bd` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:537 | doc_type:owners_manual
 
 Remove steering column 32 31090.   
 Unlasten screw.
@@ -32781,7 +31952,6 @@ Take off gearbox motor.
 
 
 ### 32-31/5
-`bmw_e31_am_en_8233c5fe` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:538 | doc_type:owners_manual
 
 ![](images/61165cb8816d5a42bbbcc7da31ccf0d9175830cc30539e62e66699f6614d9af7.webp)
 
@@ -32799,7 +31969,6 @@ Pull off shaft.
 
 
 ### Assemblling Procedures(Note Order):
-`bmw_e31_am_en_8263b4e8` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:539 | doc_type:owners_manual
 
 1. Screw In leftM8x 32 bolt (1） together wlth lockplate {5）- tghtening torque 1 15Nm. Dlstance A between lever and clamp 国 6±1 mm.   
 2. Scrow In M8x40 bolt (2） together wlth lockplate （5）and nut (4)− tlghtenIng lorque =7 Nm.   
@@ -32810,7 +31979,6 @@ Unscrew screws,press hooks towards outsldo and take off potentlometer.
 
 
 ### 3231800 REPLACING CONTROL UNIT FOR ELECTRIC STEERING COLUMN CONTROL
-`bmw_e31_am_en_ee161c1f` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:540 | doc_type:owners_manual
 
 Remove multl-information display-see Group 65.
 
@@ -32828,7 +31996,6 @@ Important! Press down on retainerand lever.
 
 
 ### 32 32 001 REPLACING COMPLETE STEERING LOCK
-`bmw_e31_am_en_c78f7355` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:541 | doc_type:owners_manual
 
 Set steering column 1o "lowered" and "run out"posltlon.   
 Dlsconnect battery ground lead.   
@@ -32840,7 +32007,6 @@ Unscrew screw.
 
 
 ### Take off collar (1).
-`bmw_e31_am_en_df9405eb` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:542 | doc_type:owners_manual
 
 Installation:   
 Recess In collar (1） must be above circlip (2).
@@ -32865,7 +32031,6 @@ LIf out and removo clrcllp(1）wlth sleeve (2).
 
 
 ### 32-32/2
-`bmw_e31_am_en_3aaefce3` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:543 | doc_type:owners_manual
 
 ![](images/f87f9dc69393f3de7f80f349d0716c78aefc42ee369af3cf16fc61e8eae29d1f.webp)
 
@@ -32892,19 +32057,16 @@ Installation: Reamed bolt must locate in bore.
 
 
 ### 32-32/3
-`bmw_e31_am_en_545ef43a` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:544 | doc_type:owners_manual
 
 ![](images/a64f27850d59f0a90f181744b1328300a502313c707c28c865d78a3d0ea6ceea.webp)
 
 
 ### 3232 050 Removing and installing or replacing steering lock cylinder
-`bmw_e31_am_en_9e900de8` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:545 | doc_type:owners_manual
 
 Using ignition key,move lock cylinder intoposition "R" =60.
 
 
 ### 3232170 Removing and installing or replacing interlock cabfe
-`bmw_e31_am_en_c6e606ad` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:546 | doc_type:owners_manual
 
 Cautlon! Aftor fitting interlock,check function, refer to 25 16...Repair Instructions for3 Series E36.
 
@@ -32921,43 +32083,39 @@ Remove lower section of steering column trim Unfasten interlock cable on sleerin
 
 
 ### 3233 000 REMOVING AND INSTALLING STEERING WHEEL
-`bmw_e31_am_en_35b96927` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:547 | doc_type:owners_manual
 
 Without Alrbag (SRS): Liftout BMW emblem.
 
 
-### Caution!
-`bmw_e31_am_en_9fd3757b` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:548 | doc_type:owners_manual
-
-Conform with safely precautionsl Incorrect handling could cause activatlonof the alrbag and lead to Injurles. Disconnect battery and cover ground pole or terminal.
-
-Unscrew screw.   
-Mark posltlon ofsteering wheel 10 steering spindle.   
-Pull off steering wheel.
-
-Installation: Tightening torque'.
-
-Importan!!   
-Don't damage the turn slgnal self-cancelling cams m set turn slgnals to center posltlon.
-
-installation: Coat slip ring with grease"\`
-
-![](images/09538b18ad6f27936c18cde729b261cb2c8a0976bc4ba231c0e0c15120832912.webp)
-
-Unscrew screw. Pull lower steerlng column casing secllonoffof lhe upper secllon.
-
-![](images/eba0b99cf1fda32c2a94148e1e757ed338aced34e876b016cc70816e4a58ac6e.webp)
-
-lnstallation.   
-Check lor correct seating of the lock.
-
-![](images/0b7139fd9589143ce1ea619d0def87e1d4661239ff3d5d667aeb03532278cbed.webp)
-
-Turn plug (orange) oul of the holder and dlsconnect.
+> ⚠️ **Внимание:** 
+> Conform with safely precautionsl Incorrect handling could cause activatlonof the alrbag and lead to Injurles. Disconnect battery and cover ground pole or terminal.
+>
+> Unscrew screw.   
+> Mark posltlon ofsteering wheel 10 steering spindle.   
+> Pull off steering wheel.
+>
+> Installation: Tightening torque'.
+>
+> Importan!!   
+> Don't damage the turn slgnal self-cancelling cams m set turn slgnals to center posltlon.
+>
+> installation: Coat slip ring with grease"\`
+>
+> ![](images/09538b18ad6f27936c18cde729b261cb2c8a0976bc4ba231c0e0c15120832912.webp)
+>
+> Unscrew screw. Pull lower steerlng column casing secllonoffof lhe upper secllon.
+>
+> ![](images/eba0b99cf1fda32c2a94148e1e757ed338aced34e876b016cc70816e4a58ac6e.webp)
+>
+> lnstallation.   
+> Check lor correct seating of the lock.
+>
+> ![](images/0b7139fd9589143ce1ea619d0def87e1d4661239ff3d5d667aeb03532278cbed.webp)
+>
+> Turn plug (orange) oul of the holder and dlsconnect.
 
 
 ### 32-33/2
-`bmw_e31_am_en_a90a4b67` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:549 | doc_type:owners_manual
 
 ![](images/38cc86fc761f3b3d1411941dbcec147829f79d3df1553fe4cd127601b83ca779.webp)
 
@@ -32989,48 +32147,44 @@ Installation: Coat slip ring with grease\*\*.
 
 
 ### 32-33/3
-`bmw_e31_am_en_ca6a06a6` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:550 | doc_type:owners_manual
 
 ![](images/d73125d6224df326e9b4a3a4071f22c5a16344f1c4685315fe97fa5bdee376de.webp)
 
 From mod.95 Unfasten both screws (internal TorxT 27). Remove connector fromsquib,pull off horn contact and remove airbag unil
 
 
-### Caution!
-`bmw_e31_am_en_934cfa2d` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:551 | doc_type:owners_manual
-
-Airbag unit must be stored with pad facing upwards (trunk).
-
-Installation: Do not jam cable. Tightening torque, refer to Technical Data 32 34 1AZ.
-
-![](images/9cf618575621f583522c5f90bafbef7f8083e13f3f5ac50dceb9ce2915065b3e.webp)
-
-Installaton: Detent pin (1)must engage in recess (2).
-
-Installation:   
-fnecessary,adjust contactring:   
-Press down on spring (F).   
-Determine centre position of contact ring by halving total number of turns.Ensure all marks (1) are accurately aligned.   
-Release spring (F).
-
-![](images/a322932eead5ba4cf4f6f2be02d6acedccebff4f51fc4922a2754168e4fab6e9.webp)
-
-Move steering wheel into straight-ahead position (marks on steering gearand steering spindle must be aligned).
-
-Unfasten screw,mark position of steering wheel relative to steering spindle and remove.
-
-Note:   
-When screw is unfastened, torsion spring (F) becomes active,securing the contact ring in centre position. Installation:   
-Tightening torque,   
-refer to Technical Data 32 33 1AZ.
-
-with Airbag 1
-
-Refer toRepair Instructions for3 Serles E36.
+> ⚠️ **Внимание:** 
+> Airbag unit must be stored with pad facing upwards (trunk).
+>
+> Installation: Do not jam cable. Tightening torque, refer to Technical Data 32 34 1AZ.
+>
+> ![](images/9cf618575621f583522c5f90bafbef7f8083e13f3f5ac50dceb9ce2915065b3e.webp)
+>
+> Installaton: Detent pin (1)must engage in recess (2).
+>
+> Installation:   
+> fnecessary,adjust contactring:   
+> Press down on spring (F).   
+> Determine centre position of contact ring by halving total number of turns.Ensure all marks (1) are accurately aligned.   
+> Release spring (F).
+>
+> ![](images/a322932eead5ba4cf4f6f2be02d6acedccebff4f51fc4922a2754168e4fab6e9.webp)
+>
+> Move steering wheel into straight-ahead position (marks on steering gearand steering spindle must be aligned).
+>
+> Unfasten screw,mark position of steering wheel relative to steering spindle and remove.
+>
+> Note:   
+> When screw is unfastened, torsion spring (F) becomes active,securing the contact ring in centre position. Installation:   
+> Tightening torque,   
+> refer to Technical Data 32 33 1AZ.
+>
+> with Airbag 1
+>
+> Refer toRepair Instructions for3 Serles E36.
 
 
 ### Components:
-`bmw_e31_am_en_a7090a51` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:552 | doc_type:owners_manual
 
 1 Steering wheel wllth airbag unlt (alrbag, gas generator Ignition pll and contact ring)   
 2 Dlagnosls unlt   
@@ -33042,7 +32196,6 @@ Refer toRepair Instructions for3 Serles E36.
 
 
 ### Components:
-`bmw_e31_am_en_5bad9bd8` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:553 | doc_type:owners_manual
 
 ![](images/4b8b690669e1b34f97cad5e7896a565b60cc86a45b54ae890e6ef809ee3cc065.webp)
 
@@ -33052,7 +32205,6 @@ Refer toRepair Instructions for3 Serles E36.
 
 
 ### Components:
-`bmw_e31_am_en_1e5f4ea9` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:554 | doc_type:owners_manual
 
 Basic airbag unit, EEC Central airbag unit US (under the oddments tray beside the handbrake lever)
 
@@ -33066,7 +32218,6 @@ Knee guard (US model)
 
 
 ### Function
-`bmw_e31_am_en_20190e5c` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:555 | doc_type:owners_manual
 
 The system is triggered by sensors when vehicle retardation is equivalent to a direct head-on collision at no less than 18km/h with a solid obstacle (i.e.one which does not yield).
 
@@ -33082,13 +32233,11 @@ Airbaglltroubleshootingrefer toRepair Instructions for 3 Series E36.
 
 
 ### Safety rules for handling airbag gas generators
-`bmw_e31_am_en_52bc70cb` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:556 | doc_type:owners_manual
 
 Refer to Repair Instructions for 3 Series E36.
 
 
 ### 3234 020 Removingand installing or replacing airbag
-`bmw_e31_am_en_5e96a763` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:557 | doc_type:owners_manual
 
 Caution!   
 Note safety regulations!   
@@ -33100,25 +32249,22 @@ Disconnect battery and cover ground terminal
 Unlasten connector and remove airbag unit.
 
 
-### Caution!
-`bmw_e31_am_en_d7a51de1` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:558 | doc_type:owners_manual
-
-Airbag must always be laid aside (in trunk) with impact pad facing up
-
-Unfasten screw.   
-Remove lower section of steering column trim fromupper section.
-
-Installation: Check that locking fixture is correctly seated.
-
-Airbag I:
-
-Refer to Repair Instructions for 3 Series E36.
-
-Twist plug connection (orange) out of bracket and disconnect.
+> ⚠️ **Внимание:** 
+> Airbag must always be laid aside (in trunk) with impact pad facing up
+>
+> Unfasten screw.   
+> Remove lower section of steering column trim fromupper section.
+>
+> Installation: Check that locking fixture is correctly seated.
+>
+> Airbag I:
+>
+> Refer to Repair Instructions for 3 Series E36.
+>
+> Twist plug connection (orange) out of bracket and disconnect.
 
 
 ### 3234 504 Additional work with passengerairbag = Steering wheel removed =
-`bmw_e31_am_en_a1705e5a` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:559 | doc_type:owners_manual
 
 Caution!   
 Note safety regulations!   
@@ -33126,22 +32272,19 @@ Incorrect handling can trigger the airbag.and may cause injury. Lift cover off a
 Unfasten screws, lift off passenger airbag and remove connector.
 
 
-### Caution!
-`bmw_e31_am_en_63a81b7e` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:560 | doc_type:owners_manual
-
-Loose screws (Innentorx T 30,from mod. 95 T 27).
-
-Installation:   
-First tighten right screw in direction of travel. Do notjam cable.   
-Tightening torque\*.
-
-Only place passengerairbag to one side (in trunk) with impact pad facing up.
-
-![](images/07dfb1e1013979d0cecef0c7a3e339ab6073a5a3269d770c3a5d893ca589a134.webp)
+> ⚠️ **Внимание:** 
+> Loose screws (Innentorx T 30,from mod. 95 T 27).
+>
+> Installation:   
+> First tighten right screw in direction of travel. Do notjam cable.   
+> Tightening torque\*.
+>
+> Only place passengerairbag to one side (in trunk) with impact pad facing up.
+>
+> ![](images/07dfb1e1013979d0cecef0c7a3e339ab6073a5a3269d770c3a5d893ca589a134.webp)
 
 
 ### 3234510 Replacing contact ring (Airbag)
-`bmw_e31_am_en_b94941e5` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:561 | doc_type:owners_manual
 
 Caution!   
 Notesafety regulations!   
@@ -33157,50 +32300,45 @@ Unfasten nuts (1) and remove contact ring. Installation:
 Insert horn cable through rectangular aperture. Secure nuts with paint.
 
 
-### Caution!
-`bmw_e31_am_en_8a6ff83e` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:562 | doc_type:owners_manual
-
-A newcontact ring is securedin centre position with a screw.This screen must be removed once the contact ring has been screwed to the steering wheel.
-
-![](images/955c52ff96efb3fc30fda3da8710c83d3c451bafcf9f9b2722682f9407fa31f0.webp)
-
-frommod.95   
-Unfasten screws and removo contactring. Cautlon!   
-Do not remove anti-twist retainer (1）until contact ring is screwed to steering wheel.
-
-Press together both ends and remove antitwist retainer (1).
-
-![](images/e978ef6c0caec8ac5578c31e19ea59b6fdda983032d813083c1124e1892bdd38.webp)
+> ⚠️ **Внимание:** 
+> A newcontact ring is securedin centre position with a screw.This screen must be removed once the contact ring has been screwed to the steering wheel.
+>
+> ![](images/955c52ff96efb3fc30fda3da8710c83d3c451bafcf9f9b2722682f9407fa31f0.webp)
+>
+> frommod.95   
+> Unfasten screws and removo contactring. Cautlon!   
+> Do not remove anti-twist retainer (1）until contact ring is screwed to steering wheel.
+>
+> Press together both ends and remove antitwist retainer (1).
+>
+> ![](images/e978ef6c0caec8ac5578c31e19ea59b6fdda983032d813083c1124e1892bdd38.webp)
 
 
-### Caution!
-`bmw_e31_am_en_5dda809e` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:563 | doc_type:owners_manual
-
-Conform wlth safety precautlons! Improper handling could cause aclivatlon of the alrbag and leadto Injurles. Dlsconnect battery and cover negative pole or terminal.
-
-Unscrew screw. Pull lowersteering column casing sectlon off of the upper sectlon.
-
-![](images/7ec7c86a591a32fa1ec29ca7c45124c83e79e3ea85abbb394579dcd09979d44f.webp)
-
-instaltation: Check for correct seating ofthe lock.
-
-![](images/d62ccc4aeddfe4c327ed4f60074f9f209fb62ab0149a58dad5a82b015abe11f7.webp)
-
-Twist plug (orange) out ofthe holder and disconnect.
-
-![](images/f58589f866a4318e33e338258f7c2cdeb2180bfdec4d61016ae6fa6180b42cb3.webp)
-
-Remove trlm panel for dashboard at bottom rlght.
-
-Dlsconnect (orange) plugs (1).   
-Unscrew screws.   
-Remove diagnosls unlt (2).
-
-installation: Arrow onunlt faces forward.
+> ⚠️ **Внимание:** 
+> Conform wlth safety precautlons! Improper handling could cause aclivatlon of the alrbag and leadto Injurles. Dlsconnect battery and cover negative pole or terminal.
+>
+> Unscrew screw. Pull lowersteering column casing sectlon off of the upper sectlon.
+>
+> ![](images/7ec7c86a591a32fa1ec29ca7c45124c83e79e3ea85abbb394579dcd09979d44f.webp)
+>
+> instaltation: Check for correct seating ofthe lock.
+>
+> ![](images/d62ccc4aeddfe4c327ed4f60074f9f209fb62ab0149a58dad5a82b015abe11f7.webp)
+>
+> Twist plug (orange) out ofthe holder and disconnect.
+>
+> ![](images/f58589f866a4318e33e338258f7c2cdeb2180bfdec4d61016ae6fa6180b42cb3.webp)
+>
+> Remove trlm panel for dashboard at bottom rlght.
+>
+> Dlsconnect (orange) plugs (1).   
+> Unscrew screws.   
+> Remove diagnosls unlt (2).
+>
+> installation: Arrow onunlt faces forward.
 
 
 ### 6577012 Removing and installing or replacing control unit for airbag 二
-`bmw_e31_am_en_48b28ceb` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:564 | doc_type:owners_manual
 
 see Repair Instructions for3Series E36.
 
@@ -33208,7 +32346,6 @@ see Repair Instructions for3Series E36.
 
 
 ### 6577016 Removingand installing basic central airbag
-`bmw_e31_am_en_45172af9` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:565 | doc_type:owners_manual
 
 Cautlon!   
 Observe safety regulations!   
@@ -33221,7 +32358,6 @@ Installation: Arrowon unit points in direction of travel.
 
 
 ### 6577018 Replacing basic central airbagunit
-`bmw_e31_am_en_473c6c49` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:566 | doc_type:owners_manual
 
 Remove and install basic central airbag unit, see 6577 016.
 
@@ -33229,7 +32365,6 @@ Code new unit wity MoDiC.
 
 
 ### 6577015 REPLACING CAPACITOR OF AIRBAG DIAGNOSIS UNIT
-`bmw_e31_am_en_8797a45c` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:567 | doc_type:owners_manual
 
 Remove dlagnosls unlt = see 65 77010.
 
@@ -33245,7 +32380,6 @@ Installation: Clean contact surfaces (K).
 
 
 ### 6577 020 Removing and installing or replacing one front airbag sensor
-`bmw_e31_am_en_1dab1d74` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:568 | doc_type:owners_manual
 
 Caution!   
 Observe safety instructions!   
@@ -33270,7 +32404,6 @@ Twist connection (orange) out of bracket and unfasten.
 
 
 ### 3241 005 CHECKING OPERATION OF POWER STEERING (H-31 System)
-`bmw_e31_am_en_a810c1a4` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:569 | doc_type:owners_manual
 
 = Englne at Operating Temperature = Check hydraullc lluld level In tank. Check all hose connectlons and equlpment (pump,brake booster, power flow regulator and steering gear) for leaks before checking operation.
 
@@ -33309,13 +32442,11 @@ when pressure ls less than 15 bar(213 psl). Max.permlsslble flowpressure of 8 ba
 
 
 ### 3241 505 CHECKING POWER FLOW REGULATOR AND STEERING GEAR
-`bmw_e31_am_en_d9ed0d06` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:570 | doc_type:owners_manual
 
 Dlscharge pressure. Install pressure tester between power flowregulator and steering gear. Bleed system. Carry out test as descrlbed above. With pressure less than 8 bar （114 psl）,replace power flow regulator-see 3433.100. With pressure more than 8 bar (114 psl),replace steering gear- s00 32 13 060. Recheck flow pressure between pump and power flowregulator.
 
 
 ### 32-41/2
-`bmw_e31_am_en_58e57ef7` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:571 | doc_type:owners_manual
 
 ![](images/6612223f31822774984d726d7eecce980b19143ed30c5affc44545dcbd70e756.webp)
 
@@ -33374,7 +32505,6 @@ Vent hydraulic system and,if necessary, top up hydraulic fluid.
 
 
 ### 32 41 060 Removingand installing vane pump (tandempump) forpower steering unit
-`bmw_e31_am_en_c688065e` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:572 | doc_type:owners_manual
 
 Drain pressure accumulator S Depress brake pedal approx. 20 times.   
 Draw hydraulic fluid out of container -and do notreuse.   
@@ -33392,7 +32522,6 @@ Tandem pump: Unfasten screws.
 
 
 ### Remove lines.
-`bmw_e31_am_en_3d05aaaa` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:573 | doc_type:owners_manual
 
 Vane pump: Unfasten screws.
 
@@ -33414,7 +32543,6 @@ Remove vane pump or tandem pump.
 
 
 ### 32-41/5
-`bmw_e31_am_en_c643e7b2` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:574 | doc_type:owners_manual
 
 ![](images/55f9f4a1c0aff0089a7efb4a3edcc97e209fa71a64ef5281b38338676759d2fd.webp)
 
@@ -33433,7 +32561,6 @@ Tightening torque,refer to Technical Data 32 412AZ.
 
 
 ### POWER STEERING IMPELLER PUMP
-`bmw_e31_am_en_c07098b3` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:575 | doc_type:owners_manual
 
 12 Holdyer   
 34 Faceplate Rotor   
@@ -33447,7 +32574,6 @@ T Radlal oll seal
 
 
 ### 32 41 553 DISASSEMBLING AND ASSEMBLING POWER STEERING IMPELLERPUMP -Pump Removed 1
-`bmw_e31_am_en_7833260e` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:576 | doc_type:owners_manual
 
 Absolute cleanllness ls essentlal when working on pumps.
 
@@ -33486,7 +32612,6 @@ Install seal （8）with wlde end facing down and gulde (9) In face plate (3）.
 
 
 ### 32-41/8
-`bmw_e31_am_en_97be6941` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:577 | doc_type:owners_manual
 
 ![](images/e41f6ad644da2a184e7ef80a2fba23fc0914aa2a41a18b53c74aa53540d10ce4.webp)
 
@@ -33499,7 +32624,6 @@ Check functlon after Installatlon of the power steering impeller pump
 
 
 ### TANDEM PUMP
-`bmw_e31_am_en_b3b5ac30` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:578 | doc_type:owners_manual
 
 1234 Flange Body Face plate Rotor 567 Shaft Axlal washer Radlal oll seal 8 Seal 9 Gulde 10 O-ring 11 Sleeve 12 Sllde 13 Plston 14 Spring 15 Shaft 16 O-ring 17 Plug
 
@@ -33507,7 +32631,6 @@ Check functlon after Installatlon of the power steering impeller pump
 
 
 ### 3241 555 DISASSEMBLING AND ASSEMBLING TANDEMPUMP = Pump Removed =
-`bmw_e31_am_en_66582a31` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:579 | doc_type:owners_manual
 
 Absolute cleanliness Isrequlred when assembling the pump. Lubricate all partswith hydraulic fluld.
 
@@ -33534,7 +32657,6 @@ Replace radial oll seal (7)- seallng lip facing Inand filled with grease.
 
 
 ### 32-41/11
-`bmw_e31_am_en_496733d6` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:580 | doc_type:owners_manual
 
 ![](images/16a3d6d8ce5eab2b58d6e5f30d502304afd54324daf6b906fab62fba543ed3a0.webp)
 
@@ -33557,7 +32679,6 @@ Tighten plugs （17）wlth atorque of 50 Nm (36 ft.Ibs.).
 
 
 ### 32-41/12
-`bmw_e31_am_en_d5aa8fa7` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:581 | doc_type:owners_manual
 
 ![](images/97078ec288c64269b93893eadb8a7102e8eab2a2d4d1460fe9baded8b38ec57f.webp)
 
@@ -33590,7 +32711,6 @@ ABC To pump From steering gear From charging valve (power flowregulator) DEF Fro
 
 
 ### 33 Rear axle
-`bmw_e31_am_en_f5544283` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:582 | doc_type:owners_manual
 
 Rearaxle layout ....\*..... .\*\*\*\*\*\*\*\*\*\*.\*·.\*\*\*. 33- 0/1   
 Layout rear axle components 1\*+++\* 33- 0/2   
@@ -33646,7 +32766,6 @@ Rear axle-troubleshoot \*\*\*\*\*..........\* 33- 90/1
 
 
 ### BREAKING-IN PROCEDURES AFTER REPLACING/REPAIRING FINAL DRIVE
-`bmw_e31_am_en_1d88273c` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:583 | doc_type:owners_manual
 
 Sirict conformance wlth these breaking-in procedures Is requlred for preloading the tapered roller bearing.
 
@@ -33658,7 +32777,6 @@ Install a label or tag to remind thedriver of the breaking-in speclflcallons and
 
 
 ### 3310010 Removingand installing or replacing finaldrive
-`bmw_e31_am_en_0a302901` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:584 | doc_type:owners_manual
 
 Note:   
 When replacing unit,carefully note ratio embossed on typeplate. When work ls complete:   
@@ -33700,7 +32818,6 @@ Refer to Technical Data Refer to BMW Parts Service
 
 
 ### 33-10/3
-`bmw_e31_am_en_0b614332` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:585 | doc_type:owners_manual
 
 Unfasten screw connection on rear axle carrier and remove screws a5 far as possible. Lower final drive until propeller shaft can be removed fromthe outputflange.   
 Remove cable connector from speedo impulse sensor.   
@@ -33712,7 +32829,6 @@ Installation: Tightening torque 3317 1AZ\*
 
 
 ### 3311151 Replacing shaft seal for drive flange
-`bmw_e31_am_en_04bbf7d1` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:586 | doc_type:owners_manual
 
 Remove rear section ol exhaust unit, see 1800020.
 
@@ -33720,7 +32836,6 @@ Remove rear section ol exhaust unit, see 1800020.
 
 
 ### Installation:
-`bmw_e31_am_en_358b3bd6` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:587 | doc_type:owners_manual
 
 Place round wire snap ring (1) in groove of final drive case prior to installation and in such a manner that both ends of ring are recessed in groove.   
 This prevents lateral bending of the ring. Turn in drive flange by hand with light pressure until the round wire snap ring is heard to engage.
@@ -33743,7 +32858,6 @@ Press off drive flange using pry bar.
 
 
 ### Installation:
-`bmw_e31_am_en_919b05e7` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:588 | doc_type:owners_manual
 
 Coat plate housing flange and sealing lips of shaft seal with final drive oll.   
 Drive shaft seal firmly home with special tool 005500/   
@@ -33755,7 +32869,6 @@ Replace drive flange if the bearing surface is seriously scored.
 
 
 ### 3315005 Removing and installing or replacing.cooling circuit for cooling oil in final drive
-`bmw_e31_am_en_df3781c0` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:589 | doc_type:owners_manual
 
 Note:   
 When work is complete. test drive the vehicle, then check final drive oil level and top up if necessary.
@@ -33771,7 +32884,6 @@ Fill cooling circuit with final drive oilprior to installation.
 
 
 ### 3317 006 Replacingallrubber mounts forfinal drive suspension (front and rear)
-`bmw_e31_am_en_b4d5a95b` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:590 | doc_type:owners_manual
 
 (rubber mount in rear axle carrier)
 
@@ -33800,13 +32912,11 @@ Coat new rubber mount (1)with Circolight.\* and pull in flush with special tool 
 
 
 ### 33-17/3
-`bmw_e31_am_en_255a7cec` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:591 | doc_type:owners_manual
 
 ![](images/25d0fe8a8110e9a7f862024e21159ba2757387adb7bcfe9d28ce443acf48b813.webp)
 
 
 ### 3317010 Replacing final drive bracket
-`bmw_e31_am_en_ceea1518` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:592 | doc_type:owners_manual
 
 Brace final drive with hydraulic lifter 002030 and special tool 334 390.
 
@@ -33824,13 +32934,11 @@ Press in new rubber mount (1) with special tool333181/ 182/183 from the tapered 
 
 
 ### 33-21/1
-`bmw_e31_am_en_3863a3c6` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:593 | doc_type:owners_manual
 
 ![](images/462f3d7f8cded788bafb401097cc0dda31519f32a612cf84dd72e9cdd74f8f32.webp)
 
 
 ### 3321 000 Removing and installing or replacing output shaft
-`bmw_e31_am_en_830e14a3` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:594 | doc_type:owners_manual
 
 ![](images/dd3041f3e060fefed267e75358ebdcfff00b3a369468181e8649a0d70b49fce4.webp)
 
@@ -33863,7 +32971,6 @@ Installation: Tightening torque\* Replace self-locking nut.
 
 
 ### 3321031 REPLACING DUST COVER
-`bmw_e31_am_en_bc3f564c` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:595 | doc_type:owners_manual
 
 Remove output shalt refer to 33 21 000.   
 Clean output shaft.   
@@ -33907,7 +33014,6 @@ Coat sealing surface of cap (3) wlth sealantand press It onto the constant veloc
 
 
 ### 33-21/3
-`bmw_e31_am_en_263ec958` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:596 | doc_type:owners_manual
 
 ![](images/bd1754cdae9ae6f440ad8342051b02e4d338268c294ba5e066eb67004a511180.webp)
 
@@ -33926,7 +33032,6 @@ Coat sealing surfaces of sealing cover(1) with sealant"\* and press on cover usi
 
 
 ### 3331 000 Removingand installing complete rearaxle carrier (with final driveand trailing arms) (without chassis alignment check)
-`bmw_e31_am_en_1259df29` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:597 | doc_type:owners_manual
 
 Note: When operation is complete, perform a chassis alignment check,see 32 00 150.
 
@@ -33963,7 +33068,6 @@ Unfasten heat shield and pull handbrake Bowden cables out of guide tubes.
 
 
 ### 33-31/2
-`bmw_e31_am_en_a20925f0` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:598 | doc_type:owners_manual
 
 ![](images/438d69c794013f80cc329c8d0181682eb60cfd7f8b80131261580ee7d75bc457.webp)
 
@@ -34003,7 +33107,6 @@ When installing the springs, ensure that the springs are mounted flush on the sp
 
 
 ### 3332 021 REPLACING TRAILING ARM
-`bmw_e31_am_en_302d5197` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:599 | doc_type:owners_manual
 
 Remove rear wheel 一 see Group 36.
 
@@ -34011,7 +33114,6 @@ Remove rear wheel 一 see Group 36.
 
 
 ### Unscrew rear nuts.
-`bmw_e31_am_en_75067ed2` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:600 | doc_type:owners_manual
 
 instalation: Tightening torque' wlth car loaded down to normal positlon'.
 
@@ -34033,7 +33135,6 @@ Installation: Tlghtenlng torque'.
 
 
 ### 33-32/2
-`bmw_e31_am_en_85a12365` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:601 | doc_type:owners_manual
 
 3332551 Replacingrubber mount for semi-trailingarm Semi-tralingamremoved   
 Press out rear rubber mount with special tool   
@@ -34060,7 +33161,6 @@ Alignmarker dash （2）on rubber mount, desingated with "L"for leftsemi-trailin
 
 
 ### 33 32 051 REMOVING AND INSTALLINGORREPLACING INTEGRALARM THRUST STRUT
-`bmw_e31_am_en_6182d8a1` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:602 | doc_type:owners_manual
 
 Remove tralllingarm - see 3332021. Procedures are Identical wlth those for "Replacing Tralllng Arm"In3332021.
 
@@ -34068,7 +33168,6 @@ Remove tralllingarm - see 3332021. Procedures are Identical wlth those for "Repl
 
 
 ### 3332651 REPLACING RUBBER MOUNT ININTEGRAL ARM THRUST STRUT 一 Tralling Arm Removed
-`bmw_e31_am_en_aae5c5de` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:603 | doc_type:owners_manual
 
 Remove tralling arm -see 3332021. Press out rubber mount with Speclal Tools333 152and 151.
 
@@ -34076,7 +33175,6 @@ Press In new rubber mount with Speclal Tools 33 3 153,152and 151.
 
 
 ### 3332 071 Replacing one upper control arm (without chassis alignment check)
-`bmw_e31_am_en_b8ac305a` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:604 | doc_type:owners_manual
 
 Note: When operation complete,perform chassis alignment check,see 32 00 150.
 
@@ -34093,13 +33191,11 @@ Installation Tightening torque 33 328AZ/ 10AZ/14AZ\*
 
 
 ### 33-32/5
-`bmw_e31_am_en_4c13aada` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:605 | doc_type:owners_manual
 
 ![](images/533250efc846391a3478531ca3bfe876830fd758d4e585bd488444afa55933ab.webp)
 
 
 ### 3332091 REMOVING AND INSTALLING OR REPLACING GUIDE ARM
-`bmw_e31_am_en_e91dcf42` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:606 | doc_type:owners_manual
 
 Unscrew bolts.   
 Remove gulde arm. Installation:   
@@ -34116,7 +33212,6 @@ Press in new rubber mount（1）wlth Special Tools 33 3 202, 203 and 201.
 
 
 ### 3332111 REMOVING AND INSTALLING OR REPLACING SUPPORT ARM
-`bmw_e31_am_en_d2e29db6` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:607 | doc_type:owners_manual
 
 ![](images/ed454ec385cc1ab4485528c112e1e72c9740b74256455cd4e20782cea45c7116.webp)
 
@@ -34143,7 +33238,6 @@ Check wheel alignment after Installatlon- see Group 32.
 
 
 ### 3332 131 REMOVING AND INSTALLING OR REPLACING WHEEL CARRIER
-`bmw_e31_am_en_214d9439` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:608 | doc_type:owners_manual
 
 Important!   
 Check wheel allgnment after Installaton- see Group 32. Remove rear wheel = see Group 36.   
@@ -34165,7 +33259,6 @@ Remove wheel carrler = see 33 32131. Press out lower ball jolnt wlth Special Too
 
 
 ### Unscrew stabllizer.
-`bmw_e31_am_en_f447f5ee` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:609 | doc_type:owners_manual
 
 Installation: Tlghtening torque' with car loaded down to normal position".
 
@@ -34181,7 +33274,6 @@ Instalation: Tightening torque\* with car loaded down to normal positlon'.
 
 
 ### 33-32/8
-`bmw_e31_am_en_3dde76c2` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:610 | doc_type:owners_manual
 
 ![](images/ccaa55613df88045177caab078b5cfe6f410e7af01d374d4b249f46e2dd2feb3.webp)
 
@@ -34193,7 +33285,6 @@ Press new ball Joint bearing （1） Intowheel carrler with Special Tools333151,
 
 
 ### 3333 101 Replacingtwo rubber mounts for rearaxle carrier
-`bmw_e31_am_en_89c9ff05` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:611 | doc_type:owners_manual
 
 Remove both rear mufflers,   
 see 18 00020.   
@@ -34232,26 +33323,22 @@ Coat new rubber mount (1)with Circolight and pull in using special too1 33 3 222
 
 
 ### 33-33/2
-`bmw_e31_am_en_34a9aed6` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:612 | doc_type:owners_manual
 
 ![](images/517d64a873359edeffa4ef24699cbb9a297790d0ae69288334763118815cee50.webp)
 
 
 ### ACTIVE REAR AXLEKINEMATIC (AHK)
-`bmw_e31_am_en_51e13b4f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:613 | doc_type:owners_manual
 
 In comparison with conventional rear axles, active rear axle kinematic makes 1 possible to actively control the'bulld-up of lateral force on the rear axleby way of selective sleering..Thls conslderablyreduces thehazard of swerving.
 
 
 ### Example:
-`bmw_e31_am_en_1eb0475f` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:614 | doc_type:owners_manual
 
 In case of a sudden obstacle avoldance maneuver (panic steering) normally steered vehicleswillreact wlth swervingmotion under certain conditions, which can even be ampllfled by"correcting onthe steoring wheel"   
 The occurring tendency toswerving lsreduced conslderably under certaln conditlons In vehlcles with AHK.
 
 
 ### Deslgn:
-`bmw_e31_am_en_6f224db7` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:615 | doc_type:owners_manual
 
 Input varlables of the system are steering wheel angle and road speed. They are measured twlce(redundanl) in the Interest of driving safety.An electronic control unlt also fitted with redundant mlcroprocessors calculates an oplimal steering angle for the rearwheels depending on the pertinent driving condltlon.   
 Correcllons arecarled out byanelectric/hydraulicdrive unit.Thedrive unlt isImme dlately arrested by hydraulic/mechanical clamps In case ol serlous systemdisturbance. Rearwheelsare brought to and arrested In stralght ahead position In case ol less serlous dlsturbance.   
@@ -34260,7 +33347,6 @@ The dlsturbance ls always reported to the drlver by a warninglamp in the Instrum
 
 
 ### Self-test:
-`bmw_e31_am_en_5bd31643` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:616 | doc_type:owners_manual
 
 The AHK system actlvates a sellf-test alter each engine start to check the operalion o1 electric,hydraulic and mechanlcal components.   
 The mechanical clamp of the setting cyllnder,among others,Is brlellyactivated on ihe drlve unlt.   
@@ -34269,7 +33355,6 @@ Atter concluslon ol the sell-test the AHK system ls actlve;but the AHK system re
 
 
 ### 33-34/2
-`bmw_e31_am_en_7a5d2a86` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:617 | doc_type:owners_manual
 
 LAYOUT DRAWING OF AHK(Actlve Rear Axle KInematlc)
 
@@ -34282,7 +33367,6 @@ LAYOUT DRAWING OF AHK(Actlve Rear Axle KInematlc)
 
 
 ### 33-34/3
-`bmw_e31_am_en_95ef8d97` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:618 | doc_type:owners_manual
 
 ![](images/3410c0c225b29bc63f7fea01bf30db7e1eeb767500b8659a6af403f500cc615a.webp)
 
@@ -34290,7 +33374,6 @@ LAYOUT DRAWING OF AHK(Actlve Rear Axle KInematlc)
 
 
 ### LAYOUT DRAWING OF HYDRAULIC PIPES
-`bmw_e31_am_en_b294ae3e` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:619 | doc_type:owners_manual
 
 ![](images/f500a55b2006cd8281b9a47333c541a7b0c10ec85dc6f71743ddd7cd388ceb22.webp)
 
@@ -34298,7 +33381,6 @@ LAYOUT DRAWING OF AHK(Actlve Rear Axle KInematlc)
 
 
 ### 川 Drlve Unlt
-`bmw_e31_am_en_c04299bd` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:620 | doc_type:owners_manual
 
 IV Hydraulic Fiuid Tank
 
@@ -34312,7 +33394,6 @@ IV Hydraulic Fiuid Tank
 
 
 ### 3334000 CHECK FUNCTION OFAHK HYDRAULIC SYSTEM (wlth BMW Service Tester)
-`bmw_e31_am_en_9aab4343` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:621 | doc_type:owners_manual
 
 Note:   
 Thls Jobls requlrod to troubleshoot the AHK hydraullc system 一 referto BMW Dlagnosing System.
@@ -34333,7 +33414,6 @@ Caution! Discharge pressure from the reservolr before unscrewing the special too
 
 
 ### 3334 005 Bleeding AHKhydraulic system
-`bmw_e31_am_en_a5b31fd6` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:622 | doc_type:owners_manual
 
 Perform hydraulic load test,refer to BMw dlagnosis system,menu item"Special Functions".
 
@@ -34411,7 +33491,6 @@ Swivel lower support arm to one side and remove intermediate lever.
 
 
 ### 3334 520 Removingand installing or replacing spring accumulatorunit
-`bmw_e31_am_en_3a041f54` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:623 | doc_type:owners_manual
 
 When operation is complete: bleed hydraulic system,see 33 34 005. Perform leaktest, see BMW diagnosis system menu item "Special Functions"
 
@@ -34445,7 +33524,6 @@ Unfasten screws and slide spring accumulator unit out to the right.
 
 
 ### 3334 530 Removing and installing or replacingactuator unit without chassis alignment check)
-`bmw_e31_am_en_78e24533` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:624 | doc_type:owners_manual
 
 When operation is,complete:   
 perform chassis alignment check,   
@@ -34485,7 +33563,6 @@ Instalfation: Tightening torque 33 34 6AZ· ■ Refer t- Technical Data
 
 
 ### 3334540 Removingand installing or replacing pressure sensor
-`bmw_e31_am_en_a1fee2dc` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:625 | doc_type:owners_manual
 
 Switch off ignition.   
 Remove spare wheel.   
@@ -34505,7 +33582,6 @@ Instaliation: Tightening torque\*
 
 
 ### 3334550 REMOVING AND INSTALLING OR-REPLACING AHK CONTAOL UNIT
-`bmw_e31_am_en_6cced7c9` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:626 | doc_type:owners_manual
 
 Remove rlght trim panel In trunk referto Group51.
 
@@ -34524,55 +33600,50 @@ Unscrew bolts and remove control unlt.
 
 
 ### 3341 151 Replacing wheel bearing on fett or rightrear axle shaft
-`bmw_e31_am_en_867351b0` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:627 | doc_type:owners_manual
 
 Remove output shaft, see 33 21 000.   
 Remove brake disc,see 34 21320.   
 Remove ABS sensor,see 6112522.
 
 
-### Note:
-`bmw_e31_am_en_6da3ec4a` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:628 | doc_type:owners_manual
-
-lf necessary,when operation is complete, adjust the bandbrake, see 34 10014.
-
-![](images/b44a7af7247706c7fb9a708529dbfc70a4fb9e37e662028bc22fed50e8c2302e.webp)
-
-Lift out retaining ring (1).
-
-Unfasten stabilizer arm on stabilizer of wheel carrier.
-
-Installation: Tightening torque 3355 1AZ\*
-
-![](images/83bdc8ae0542d6be6c70c61b352f6387bb21f223ee78b1e5b69b9353eac331e7.webp)
-
-Remove taper ballbearing with special tool 333261 262 263.
-
-Cautlon! Do not reuse taper ballbearing.
-
-![](images/6bb6dd6cbc69bff9af8b85635d9e43a891bbcebf32eba944f2aa8915eecef26a.webp)
-
-Secure special tool 33 2 116 with wheel studs to drive flange.   
-Drive outhub ofdriverflangewithspecial tool 334201/202/203. New pull in taper ball bearing (1) with special tool333261 264/265.   
-Fit retaining ring.
-
-![](images/d8cc2e67772ac2c4626e07a95f880ebd512839a4cd718bc939f3957c0a200027.webp)
-
-Remove inner bearing race from the drive flange hubwithspecial tool 333240.
-
-![](images/002f0987b3a42a839c674061fb0a4e388734820784e77769abd35e655e8ab9a8.webp)
-
-Pull in drive flange hub with special tool 333261262/263 264.
+> ℹ️ **Примечание:** 
+> lf necessary,when operation is complete, adjust the bandbrake, see 34 10014.
+>
+> ![](images/b44a7af7247706c7fb9a708529dbfc70a4fb9e37e662028bc22fed50e8c2302e.webp)
+>
+> Lift out retaining ring (1).
+>
+> Unfasten stabilizer arm on stabilizer of wheel carrier.
+>
+> Installation: Tightening torque 3355 1AZ\*
+>
+> ![](images/83bdc8ae0542d6be6c70c61b352f6387bb21f223ee78b1e5b69b9353eac331e7.webp)
+>
+> Remove taper ballbearing with special tool 333261 262 263.
+>
+> Cautlon! Do not reuse taper ballbearing.
+>
+> ![](images/6bb6dd6cbc69bff9af8b85635d9e43a891bbcebf32eba944f2aa8915eecef26a.webp)
+>
+> Secure special tool 33 2 116 with wheel studs to drive flange.   
+> Drive outhub ofdriverflangewithspecial tool 334201/202/203. New pull in taper ball bearing (1) with special tool333261 264/265.   
+> Fit retaining ring.
+>
+> ![](images/d8cc2e67772ac2c4626e07a95f880ebd512839a4cd718bc939f3957c0a200027.webp)
+>
+> Remove inner bearing race from the drive flange hubwithspecial tool 333240.
+>
+> ![](images/002f0987b3a42a839c674061fb0a4e388734820784e77769abd35e655e8ab9a8.webp)
+>
+> Pull in drive flange hub with special tool 333261262/263 264.
 
 
 ### 33-52/1
-`bmw_e31_am_en_fb3684a0` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:629 | doc_type:owners_manual
 
 ![](images/a3da23015a2486d993680763700fe8b4d89dc6df0b9005a111d811602a98afc3.webp)
 
 
 ### 3352 000 REMOVING AND INSTALLING OR REPLACING REAR SHOCK ABSORBERS
-`bmw_e31_am_en_760ec633` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:630 | doc_type:owners_manual
 
 Wheel suspenslon must be unloaded forremoval and Installatlon.
 
@@ -34598,13 +33669,11 @@ See Speclfications
 
 
 ### 33-53/1
-`bmw_e31_am_en_72280b26` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:631 | doc_type:owners_manual
 
 ![](images/d63220027c6c0154ed8f98a4d80e1c25045c5c7a1b07fbd53fd1ffbc68baef19.webp)
 
 
 ### 33 53 000 REMOVING AND INSTALLINGLEFTOR RIGHT COILSPRING
-`bmw_e31_am_en_648000c3` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:632 | doc_type:owners_manual
 
 Compress rear spring wlth Speclal Tool 332300.
 
@@ -34618,22 +33687,19 @@ mlddle o the coll spring.
 Turn up upper spring tensloning plate completely; turn down lowerspring tensloning plate completely.
 
 
-### Note:
-`bmw_e31_am_en_17ddd1fe` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:633 | doc_type:owners_manual
-
-Always store shock absorbers standIng uprlght.If shock absorbers have been stored laylng down and with the plston rod run In, thls could lead to a knocking nolse when used In car again.
-
-Sllde In and turn the tensloning shaft untl crosshead (1)is Insertedperfectly In the openings of the upper spring retalner.   
-Compress spring.
-
-Support trallingarm with Special Tool 00 2020, lIfting sllightly I1 the col spring ls turned whlle compressing.
-
-Installation:   
-Check tor correct posltion of the rubber lners.
+> ℹ️ **Примечание:** 
+> Always store shock absorbers standIng uprlght.If shock absorbers have been stored laylng down and with the plston rod run In, thls could lead to a knocking nolse when used In car again.
+>
+> Sllde In and turn the tensloning shaft untl crosshead (1)is Insertedperfectly In the openings of the upper spring retalner.   
+> Compress spring.
+>
+> Support trallingarm with Special Tool 00 2020, lIfting sllightly I1 the col spring ls turned whlle compressing.
+>
+> Installation:   
+> Check tor correct posltion of the rubber lners.
 
 
 ### TROUBLESHOOTING REAR AXLE
-`bmw_e31_am_en_7c800814` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:634 | doc_type:owners_manual
 
 ![](images/226b81361dafeba1b959e33304f9044ae16e60b5140203a082759a81baa381be.webp)
 
@@ -34643,7 +33709,6 @@ I aults are reported In the Instrument cluster, the tault memory must always ber
 
 
 ### 34 Brakes
-`bmw_e31_am_en_0df5fdd5` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:635 | doc_type:owners_manual
 
 General information \*\*\* ...·\*.........··....\*.....·\*... .34- 0/1   
 General information ABS .34- 0/2   
@@ -34734,7 +33799,6 @@ To avoid damage to theskin,keep contact timeof brakefluid on the skinas short as
 
 
 ### 34 00 015 CHECKING BRAKE BOOSTING SYSTEM
-`bmw_e31_am_en_4064adaf` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:636 | doc_type:owners_manual
 
 Discharge the hydraulic reservolr by operating the brake pedal about 20 times wlth ihe engine stopped and a force equal 10 tull stop braking.   
 Pull off wires and unscrew hydraullc pressure swltch.   
@@ -34772,7 +33836,6 @@ Reler to Speclficatlons
 
 
 ### 34-0/4
-`bmw_e31_am_en_af172589` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:637 | doc_type:owners_manual
 
 ![](images/2b1da3328a1d5b6b7b19ea1b820e4276a2f22bc441c69d4da845c1a5226052db.webp)
 
@@ -34786,7 +33849,6 @@ Remove pressure lester and check oll level In supply tank.
 
 
 ### 3400019 CHECKING SERVICE BRAKE (HIGH AND LOW PRESSURE TESTS)
-`bmw_e31_am_en_9bcbaa3c` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:638 | doc_type:owners_manual
 
 High Pressure Leak Test: Dlscharge the hydraullcreservolr by operating the brake pedal 20 times wlth the engine stopped and a force equal to full stop braking. Test both brake clrcults. 1st circult = front right and rearleft 2nd clrcuit= front left and rearright Unscrew bleeder screw of the 2nd brake circult. Connect and bleeda pressure tester.
 
@@ -34812,7 +33874,6 @@ See Speclficatlons
 
 
 ### Low Pressure Test:
-`bmw_e31_am_en_a0c9bccb` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:639 | doc_type:owners_manual
 
 Test both brake clrcults.Take back the pedal prop untl testing pressure In the brake system ls 2 to 5 bar(28to 71 psl). Carand tester must remaln stlll, since any motlon would produce wrong readings.Pressure must remaln constant during the5minute test. Check rubber parts,lf the pressure drop ls considerable. Bleed calipers after finIshing the test.
 
@@ -34820,7 +33881,6 @@ See Speclflcatlons
 
 
 ### 3400047 Bleeding ABS brake system
-`bmw_e31_am_en_441ad555` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:640 | doc_type:owners_manual
 
 Note: Only use approved brake fluid\*. Observe correct brake fluid change intervals
 
@@ -34848,7 +33908,6 @@ Follow same procedure on rear left, front righi and front left wheel brakes.
 
 
 ### AUTOMATIC STABILITY CONTROL AND TRACTION {ASC +T
-`bmw_e31_am_en_49190751` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:641 | doc_type:owners_manual
 
 Purpose of ASC +T:
 
@@ -34879,28 +33938,25 @@ Pull off the ASC + Tcontrol unlt plug before starting the engine for theflrst ti
 Swltch ot ASC+T when testing ona brake roller test stand pr dynamometer test stand!
 
 
-### Caution!
-`bmw_e31_am_en_1488efb0` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:642 | doc_type:owners_manual
-
-Before the mineral oil circuit 1s fllled with hydraulic oil\*,ensure that the brake system 1s filled with brake fluid.   
-Filling brake system,refer to 3400048,section 1. Disconnecting control unit ABS/ASC+T.   
-refer to 3452 510.
-
-Topping up with hydraulic fluid", reler to32 13006.
-
-![](images/04d85d2207482b5fe68112d21b813094608157b44cadbe0d2168a6b6e35cc065.webp)
-
-Fit special tool 34 3 110to the bleeder screw on the hydraulic plunger unit and insert end ol hose in hydraulic oil tank.   
-Open bleeder screw and flush plunger hydraulie unit until hydraulic oil emerges without bubbles (at least 15 seconds).   
-Close bleeder screw.
-
-Note: Tightening torque 34 32 1AZ\*
-
-Check hydraulic fluid level andtop up if necessary,refer to 32 13006.
+> ⚠️ **Внимание:** 
+> Before the mineral oil circuit 1s fllled with hydraulic oil\*,ensure that the brake system 1s filled with brake fluid.   
+> Filling brake system,refer to 3400048,section 1. Disconnecting control unit ABS/ASC+T.   
+> refer to 3452 510.
+>
+> Topping up with hydraulic fluid", reler to32 13006.
+>
+> ![](images/04d85d2207482b5fe68112d21b813094608157b44cadbe0d2168a6b6e35cc065.webp)
+>
+> Fit special tool 34 3 110to the bleeder screw on the hydraulic plunger unit and insert end ol hose in hydraulic oil tank.   
+> Open bleeder screw and flush plunger hydraulie unit until hydraulic oil emerges without bubbles (at least 15 seconds).   
+> Close bleeder screw.
+>
+> Note: Tightening torque 34 32 1AZ\*
+>
+> Check hydraulic fluid level andtop up if necessary,refer to 32 13006.
 
 
 ### Bleed 2nd mineral oil circuit
-`bmw_e31_am_en_678b655a` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:643 | doc_type:owners_manual
 
 Swltch off ignition. Attach con trol unit connector to(1) ABS/ASC+T control unit.
 
@@ -34910,13 +33966,11 @@ Switch on engine and run at idle speed for at least 60 seconds (automatic chargi
 
 
 ### 34-0/8
-`bmw_e31_am_en_b0ddee7a` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:644 | doc_type:owners_manual
 
 ![](images/de3b030a692b22e09dce470c5904fdfe5c76b60ebd6740f0a5a45cca45bdaf74.webp)
 
 
 ### 34 00 048 Bleeding brake system with ABS/ASC+T
-`bmw_e31_am_en_5dd6fa76` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:645 | doc_type:owners_manual
 
 ABS/ASC+T with plunger hydraulic unit
 
@@ -34924,21 +33978,17 @@ ABS/ASC+T with plunger hydraulic unit
 
 
 ### 1.Fill brake system with brake fluld \*
-`bmw_e31_am_en_2920f3f1` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:646 | doc_type:owners_manual
 
 Connect bleeder hose and receptacle to rear right brake caliper. Open bleeder valve and fiush until brake fluid emerges without bubbles,for at least 4minutes, then close the vont screw. Follow same procedure on rear left, front right and front left whoel brakes (minimum flush time per front wheel brake: minute)
 
 
-### Note:
-`bmw_e31_am_en_a96e4ccc` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:647 | doc_type:owners_manual
-
-Apply the relevant filling and bleeding specification when exchanging or repairing parts in the tandem master brake cylinder and ASC.T plunger hydraulic unit (both included in each case).
-
-Forother operations on the brake system (e.g. exchange of brake calipers), the specification used until now I “BleedingABS brake system" (see 34 00 O47) should also be applled to ASC+T vehicles.
+> ℹ️ **Примечание:** 
+> Apply the relevant filling and bleeding specification when exchanging or repairing parts in the tandem master brake cylinder and ASC.T plunger hydraulic unit (both included in each case).
+>
+> Forother operations on the brake system (e.g. exchange of brake calipers), the specification used until now I “BleedingABS brake system" (see 34 00 O47) should also be applled to ASC+T vehicles.
 
 
 ### Cautlon!
-`bmw_e31_am_en_3e26d9a1` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:648 | doc_type:owners_manual
 
 Before bleeding the system, ensure that the mineral oil side of theASC+T plungerhydraulic unit was bled. This opplies especially after exchange or repair work on mineral oll assemblies and lines from the expansion tank and up to and including the plunger hydraulic unit.
 
@@ -34956,7 +34006,6 @@ Set charge pressure.to 2.5 - 3 bar.
 
 
 ### 2.1 Bleed rear axle brake circuit:
-`bmw_e31_am_en_f8321ed6` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:649 | doc_type:owners_manual
 
 Disconnect ABS/ASC+T control unit, see 3452510.
 
@@ -34992,7 +34041,6 @@ Switch off engine.
 
 
 ### 2.2 Bleed front axle brake circuit:
-`bmw_e31_am_en_4b2f777c` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:650 | doc_type:owners_manual
 
 ![](images/f48dad72f584ae8aee0bbdd28103eefb04e9123181904c179c39108dde4dd9e8.webp)
 
@@ -35013,13 +34061,11 @@ adapter and attach to ABS/ASC+T control unit, see 34 52 5100.
 
 
 ### 34-0/11
-`bmw_e31_am_en_7546617d` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:651 | doc_type:owners_manual
 
 ![](images/d9d5c62661fb546d447c625099d68d8c4a17fa6bdbae2577ec5ea1e95a9a605b.webp)
 
 
 ### 34 00 048 Bleeding brake systemwith ABS/ASC+T
-`bmw_e31_am_en_25cf0661` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:652 | doc_type:owners_manual
 
 ABS/ASC+T frommodel year'94
 
@@ -35032,24 +34078,21 @@ Follow relevant manutacturer's operating instructions.
 The charge pressure must not exceed 2 bar.
 
 
-### Note:
-`bmw_e31_am_en_9feeb2f9` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:653 | doc_type:owners_manual
-
-Follow the filling and bleeding specification   
-when exchanging or repairing: tandem master brake cylinder ABS/ASC+T hydraulic unit and components installed between these assemblies.
-
-For other operations on brake system [e.g.exchange of brake calipers),follow specification Bleeding ABS brake system" see 3400047.
-
-Caution! Follow general instructions.
-
-Connect bleeder hose and receptacle to   
-bleeder valve on the rear right brake caliper. Open bleeder valve and flush until clear brake fluid emerges without any air bubbles.   
-Close bleeder valve.   
-Repeat same procedure on rear left, front right and front left wheel brakes.
+> ℹ️ **Примечание:** 
+> Follow the filling and bleeding specification   
+> when exchanging or repairing: tandem master brake cylinder ABS/ASC+T hydraulic unit and components installed between these assemblies.
+>
+> For other operations on brake system [e.g.exchange of brake calipers),follow specification Bleeding ABS brake system" see 3400047.
+>
+> Caution! Follow general instructions.
+>
+> Connect bleeder hose and receptacle to   
+> bleeder valve on the rear right brake caliper. Open bleeder valve and flush until clear brake fluid emerges without any air bubbles.   
+> Close bleeder valve.   
+> Repeat same procedure on rear left, front right and front left wheel brakes.
 
 
 ### Bleed rear axle brake circuit:
-`bmw_e31_am_en_14ab90da` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:654 | doc_type:owners_manual
 
 Attach bleeder hose and receptacle tothe bleedervalve on the rear right brake caliper. Open bleeder valve.   
 Perform bleeding routine on BMW diagnosis system.   
@@ -35060,13 +34103,11 @@ Attach BMW Service Test/MoDlC to diagnosis connector. Call up diagnosis program 
 
 
 ### 34-0/12
-`bmw_e31_am_en_9e56faad` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:655 | doc_type:owners_manual
 
 ![](images/5a46fc38d4a4e0d3240a7d0758c5d7c882ab8e462ab1151dde0cf778b5d1e2a3.webp)
 
 
 ### Bleed front axle brake cireuit:
-`bmw_e31_am_en_1e38b139` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:656 | doc_type:owners_manual
 
 Attach bleeder hose and receptacle to the bleeder valve on the front right brake caliper. Open bleeder valve.   
 Fully depress brake pedal at least 12 times. Brake fluid must emerge clear and without air bubbles.   
@@ -35083,7 +34124,6 @@ Remove BMW Service TestMoDlC and replace cover on diagnosis connector.
 
 
 ### Test Specificatlons
-`bmw_e31_am_en_5f21c8cc` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:657 | doc_type:owners_manual
 
 There should not be braking eflect when parking brake lever ls pulled up one tooth. The wheel perlpheral force may devlate Irom the larger value bymax. 30 % In comparison with the opposite wheel (measured on dynamometer). Adjustment Is necessary incaseof greater brake force dlference. It should be posslble to hold the car with the parking brake. The parking brake must be adjusted If the parking brake lever travel Is greater:than ten teeth.
 
@@ -35112,7 +34152,6 @@ Unscrew the adjusting nuts and loosen the cable completely.
 
 
 ### 34-10/2
-`bmw_e31_am_en_adf71cab` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:658 | doc_type:owners_manual
 
 2. Adjusting Cables
 
@@ -35129,7 +34168,6 @@ Swltch lgnllon on:the control lamp must not be on with a released parking brake 
 
 
 ### 2.2 On Dynamometer
-`bmw_e31_am_en_908f07ba` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:659 | doc_type:owners_manual
 
 (parking brake lever released) wheel peripheral force at idling speed In cars   
 a wlthout lmlted sllp dlfferentlal<150 N   
@@ -35145,7 +34183,6 @@ The lett/right brake torce display must be 600+50 N.
 
 
 ### 3. Breaking In Speclfcationsfor Duo-Servo Parking Brako
-`bmw_e31_am_en_5d5dc8f8` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:660 | doc_type:owners_manual
 
 The following breaklng In procedures are appllcable In case of Insutficlent braking effect or atter replaclng brake dlscs and/or brake shoos.
 
@@ -35160,7 +34197,6 @@ Qulte often dirt and corroslon wlll cause the braking effect ol the parking brak
 
 
 ### 3411 000 Removing and installing or replacing brake blocks on both front disc brakes
-`bmw_e31_am_en_f6e4e704` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:661 | doc_type:owners_manual
 
 Note:   
 When operation is complete,actuate brake pedal several times until brake linings locate against brake disc.
@@ -35173,66 +34209,59 @@ Lelt:
 remove connector for wear indicator display.
 
 
-### Caution!
-`bmw_e31_am_en_f4c1c70d` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:662 | doc_type:owners_manual
-
-Only install new brake linings if brake disc thickness is greater than or equal to minimum thickness (MINTH)\*.
-
-Applylight coat of Plastilube to brake piston contact points on baseplate of brake lining.
-
-Unfasten guide bolts (2].
-
-Installation:   
-Only clean guide bolts, do not grease.   
-Check thread.   
-Replace guide bolts that are not in perdect condition.   
-Tightening torque34113AZ\* Installation:   
-Press in piston firmly withtool 341050.   
-Clean brake lining guides on brake caliper and brakecarrier with a brush".   
-Check dust cover for signs of damage.   
-Applylight coat of Plastilube to guides. Lift out retaining spring.   
-Pull out brake caliper forwards.
-
-![](images/403f9ca3cd3a520a1d2ed95261e04dfe381db956d573901d6fbb9f21f006e32a.webp)
-
-![](images/07e5658298c5bc35c3666f18b91ea917d417ebde195518c0214ecbf19b3a3485.webp)
+> ⚠️ **Внимание:** 
+> Only install new brake linings if brake disc thickness is greater than or equal to minimum thickness (MINTH)\*.
+>
+> Applylight coat of Plastilube to brake piston contact points on baseplate of brake lining.
+>
+> Unfasten guide bolts (2].
+>
+> Installation:   
+> Only clean guide bolts, do not grease.   
+> Check thread.   
+> Replace guide bolts that are not in perdect condition.   
+> Tightening torque34113AZ\* Installation:   
+> Press in piston firmly withtool 341050.   
+> Clean brake lining guides on brake caliper and brakecarrier with a brush".   
+> Check dust cover for signs of damage.   
+> Applylight coat of Plastilube to guides. Lift out retaining spring.   
+> Pull out brake caliper forwards.
+>
+> ![](images/403f9ca3cd3a520a1d2ed95261e04dfe381db956d573901d6fbb9f21f006e32a.webp)
+>
+> ![](images/07e5658298c5bc35c3666f18b91ea917d417ebde195518c0214ecbf19b3a3485.webp)
 
 
-### Caution!
-`bmw_e31_am_en_b6846985` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:663 | doc_type:owners_manual
-
-I brake disc thickness MIN TH lalls below minimum, the old brake lining kit can still be used up.
-
-New brake linings\* must only be installed if the brake disc thickness is greater than or equal to the minimum thickness (MIN TH).. Always replace both brake discs on an axle at the same time.
-
-![](images/7770773bccca78e952b8c2acbf910c9facd2dbe82adf4e05bc556f10be97af18.webp)
-
-Unfasten screw and remove brake disc.
+> ⚠️ **Внимание:** 
+> I brake disc thickness MIN TH lalls below minimum, the old brake lining kit can still be used up.
+>
+> New brake linings\* must only be installed if the brake disc thickness is greater than or equal to the minimum thickness (MIN TH).. Always replace both brake discs on an axle at the same time.
+>
+> ![](images/7770773bccca78e952b8c2acbf910c9facd2dbe82adf4e05bc556f10be97af18.webp)
+>
+> Unfasten screw and remove brake disc.
 
 
-### Note:
-`bmw_e31_am_en_907d0c00` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:664 | doc_type:owners_manual
-
-The brake discs on the 85o CSi are directional. If the last digit in the parts number is an odd number,this denotes the left brake disc:an even number denotes the right brake disc.
-
-Installation: Tightening torque 34111AZ\*.
-
-![](images/ef07ee665aeaf6f30fc1d56df3811298932b42fb991b3b17af9b94647e9ec673.webp)
-
-Unfasten screws(1),remove brake caliper and tie up with wire.
-
-Note: Brake line remains connected.
-
-Installation: Tightening torque3411 2AZ.
-
-![](images/44ccde8eee70a7522a141e1eb0e4f3257f351047042401e4e25d81b637bb06a0.webp)
-
-Caution!   
-Internally-vented brake discs are balanced. Under no circumstances remove or relocate the balancing clips.
+> ℹ️ **Примечание:** 
+> The brake discs on the 85o CSi are directional. If the last digit in the parts number is an odd number,this denotes the left brake disc:an even number denotes the right brake disc.
+>
+> Installation: Tightening torque 34111AZ\*.
+>
+> ![](images/ef07ee665aeaf6f30fc1d56df3811298932b42fb991b3b17af9b94647e9ec673.webp)
+>
+> Unfasten screws(1),remove brake caliper and tie up with wire.
+>
+> Note: Brake line remains connected.
+>
+> Installation: Tightening torque3411 2AZ.
+>
+> ![](images/44ccde8eee70a7522a141e1eb0e4f3257f351047042401e4e25d81b637bb06a0.webp)
+>
+> Caution!   
+> Internally-vented brake discs are balanced. Under no circumstances remove or relocate the balancing clips.
 
 
 ### 3411519 Removing and installing or replacing front leftorright brakecaliper (without bleeding brakes)
-`bmw_e31_am_en_34e6f261` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:665 | doc_type:owners_manual
 
 When operation is complete,bleed the brake system, see 3400047 1or ABS, or3400048 lor ABS/ASC+T.
 
@@ -35257,7 +34286,6 @@ Installation: Tightening torque 3411 2AZ\*
 
 
 ### 3411 552 Overhauling frontleftorright brake caliper (brake caliper removed)
-`bmw_e31_am_en_b281d3bf` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:666 | doc_type:owners_manual
 
 Use repair kit
 
@@ -35280,7 +34308,6 @@ Before installing retaining springs (4）.completely press out brake linings.
 
 
 ### nstallation:
-`bmw_e31_am_en_e76fce6f` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:667 | doc_type:owners_manual
 
 Installation:
 
@@ -35290,26 +34317,23 @@ To protect the piston,install a protective plate (hardwood, hard felt or similar
 Press piston out through connecting bore using compressed air.
 
 
-### Caution!
-`bmw_e31_am_en_7dc1f8a8` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:668 | doc_type:owners_manual
-
-Compressed air at 10 bar (atmospheres) produces a force of approx. 1250 N.
-
-Reler to Technical Data
-
-![](images/519f0d0580eb57b569b5544de3111b1cdff9bedd2fa2dcc27294f13b5386a154.webp)
-
-First fit piotective rubber cap to the piston. Insert sealing bulge of protective cap in the groove of the cylinder bore and press in piston with a hardwood plate.
-
-Caution! Do not tilt piston.
-
-Assemble brake caliper.
-
-![](images/4289f773b5b11ff2b3b443d5a8fd925e4d81b5a9dc12bd8e26263de3be19e10c.webp)
+> ⚠️ **Внимание:** 
+> Compressed air at 10 bar (atmospheres) produces a force of approx. 1250 N.
+>
+> Reler to Technical Data
+>
+> ![](images/519f0d0580eb57b569b5544de3111b1cdff9bedd2fa2dcc27294f13b5386a154.webp)
+>
+> First fit piotective rubber cap to the piston. Insert sealing bulge of protective cap in the groove of the cylinder bore and press in piston with a hardwood plate.
+>
+> Caution! Do not tilt piston.
+>
+> Assemble brake caliper.
+>
+> ![](images/4289f773b5b11ff2b3b443d5a8fd925e4d81b5a9dc12bd8e26263de3be19e10c.webp)
 
 
 ### 3411 599 Checking both front brake discs forrunoutand thickness deviation (front wheels removed)
-`bmw_e31_am_en_d5550527` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:669 | doc_type:owners_manual
 
 Wheel bearing clearance must conform to specification".
 
@@ -35321,30 +34345,26 @@ Rotate brake disc slowly and read off end float'.
 
 
 ### 3411667 Fine grinding both sides of both front brake discs (brake discs removed)
-`bmw_e31_am_en_732a0765` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:670 | doc_type:owners_manual
 
 Caution!   
 Note MAX. machining size\* per friction ring side and minimum thickness of brake discs (MINTH)\*.   
 Always fine-grind both sides of both brake discs on one axle.
 
 
-### Note:
-`bmw_e31_am_en_e9f8f3d0` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:671 | doc_type:owners_manual
-
-Onlyfit one more set of brake linings to brake discs which have been machined to minimum thickness (MIN TH)\*.
-
-![](images/0789b313f643c2c885213d5a29a64fedb138e8ecabfc97d1857bbd101fd02e7d.webp)
-
-Read off thickness deviation 1 on braking surlace at approx. B points using the micrometer.
-
-![](images/72d369cc49a8773be9659f3a78f9c58038d67760288ac2a2c495de97399f1ed2.webp)
-
-Machining equipment\*\*   
-Follow instructions in equipment manutacturer's operating manual..
+> ℹ️ **Примечание:** 
+> Onlyfit one more set of brake linings to brake discs which have been machined to minimum thickness (MIN TH)\*.
+>
+> ![](images/0789b313f643c2c885213d5a29a64fedb138e8ecabfc97d1857bbd101fd02e7d.webp)
+>
+> Read off thickness deviation 1 on braking surlace at approx. B points using the micrometer.
+>
+> ![](images/72d369cc49a8773be9659f3a78f9c58038d67760288ac2a2c495de97399f1ed2.webp)
+>
+> Machining equipment\*\*   
+> Follow instructions in equipment manutacturer's operating manual..
 
 
 ### 3421 200 Removing and installing or replacing brake pads on both rear disc brakes
-`bmw_e31_am_en_385bd3a1` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:672 | doc_type:owners_manual
 
 Note: When operation is complete, actuato brake pedal soveral times to enable the brake linings to bed down on the brake disc.
 
@@ -35359,65 +34379,60 @@ Remove outer brake lining. The inner brake lining locates against the spring in 
 Press off plastic caps (1). Right: Remove connector for wear indicato
 
 
-### Caution!
-`bmw_e31_am_en_2179fd9f` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:673 | doc_type:owners_manual
-
-New brake linings' can only be installed if the brake disc thickness is greater than or equal to the minimum thickness (MIN TH)\*.
-
-Apply light coat of Plastilube\* to brake piston contact points on brake lining baseplate.
-
-Unfasten guide screws (2).
-
-![](images/1143ac7b15c3f7407fa24698e822e0fec68d889a23315c4c0bf6e9faa546596f.webp)
-
-Instaliation:   
-Only clean guide screws, do not coat with grease.   
-Check thread.   
-Replace guide screws which are not in perfect condition.   
-Tightening torque 34 21 5AZ' Lift out retaining spring (3).   
-Pull brake caliper out forwards. Installation:   
-Press piston fully back using special tool   
-34 050.   
-Clean brake lining guides on brake caliper and brake carrier with a brush.   
-Check dust cover for siynsof damage.   
-Applylight coat of Plastilube\* to guldes.
-
-![](images/da478d4b63bdba76c91b0a3de3cf833cd1377d18df1126a4baa10682e518f14a.webp)
+> ⚠️ **Внимание:** 
+> New brake linings' can only be installed if the brake disc thickness is greater than or equal to the minimum thickness (MIN TH)\*.
+>
+> Apply light coat of Plastilube\* to brake piston contact points on brake lining baseplate.
+>
+> Unfasten guide screws (2).
+>
+> ![](images/1143ac7b15c3f7407fa24698e822e0fec68d889a23315c4c0bf6e9faa546596f.webp)
+>
+> Instaliation:   
+> Only clean guide screws, do not coat with grease.   
+> Check thread.   
+> Replace guide screws which are not in perfect condition.   
+> Tightening torque 34 21 5AZ' Lift out retaining spring (3).   
+> Pull brake caliper out forwards. Installation:   
+> Press piston fully back using special tool   
+> 34 050.   
+> Clean brake lining guides on brake caliper and brake carrier with a brush.   
+> Check dust cover for siynsof damage.   
+> Applylight coat of Plastilube\* to guldes.
+>
+> ![](images/da478d4b63bdba76c91b0a3de3cf833cd1377d18df1126a4baa10682e518f14a.webp)
 
 
-### Caution!
-`bmw_e31_am_en_d701d3ff` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:674 | doc_type:owners_manual
-
-I the brake disc thickness falls below the minimum level (MIN TH). tho old brake liningkit can be used up.
-
-New brake linings may only be installed if the brake disc thickness is greater than or equal to the minimum thickness (MIN TH)\*. When replacing,always replace both brake discs on one axle.
-
-After completion of operation, adjust handbrake, see 34 10014.
-
-Unfasten screws {1), remove brake caliper and tie up with wire.
-
-Note: Brake line remains connected.
-
-Installation: Tightening torque 34 21 4AZ'
-
-![](images/1915ac3309117287242d94c7784948a2e222cb50203d2403d05ac07956776070.webp)
-
-Unfasten scrow and remove brake disc.
-
-Note:   
-H necessary,release handbrake cables, see 3441 100.
-
-Installation: Tightening torque 34 21 1AZ'
-
-Refer to Technical Data
-
-![](images/bce92b23967e754008d6bb36e840a68d6f2afcec42b2994f3f44e7890de07236.webp)
-
-![](images/803bbfefbd14c09bb024121d9285d3ec58829465a2ac9714b8a36fe8b7b70997.webp)
+> ⚠️ **Внимание:** 
+> I the brake disc thickness falls below the minimum level (MIN TH). tho old brake liningkit can be used up.
+>
+> New brake linings may only be installed if the brake disc thickness is greater than or equal to the minimum thickness (MIN TH)\*. When replacing,always replace both brake discs on one axle.
+>
+> After completion of operation, adjust handbrake, see 34 10014.
+>
+> Unfasten screws {1), remove brake caliper and tie up with wire.
+>
+> Note: Brake line remains connected.
+>
+> Installation: Tightening torque 34 21 4AZ'
+>
+> ![](images/1915ac3309117287242d94c7784948a2e222cb50203d2403d05ac07956776070.webp)
+>
+> Unfasten scrow and remove brake disc.
+>
+> Note:   
+> H necessary,release handbrake cables, see 3441 100.
+>
+> Installation: Tightening torque 34 21 1AZ'
+>
+> Refer to Technical Data
+>
+> ![](images/bce92b23967e754008d6bb36e840a68d6f2afcec42b2994f3f44e7890de07236.webp)
+>
+> ![](images/803bbfefbd14c09bb024121d9285d3ec58829465a2ac9714b8a36fe8b7b70997.webp)
 
 
 ### 3421745 Removingand installing or replacing left orright brake caliper (without bleeding the brakes)
-`bmw_e31_am_en_6e016359` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:675 | doc_type:owners_manual
 
 When operation is completed, bleed the brake system, se 3400047forABSor3400048for ABS/ASC+T.
 
@@ -35429,7 +34444,6 @@ Disconnect brake line at its connection with the brake hose.
 
 
 ### Installation:
-`bmw_e31_am_en_28e83548` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:676 | doc_type:owners_manual
 
 Tighten brake hose to the brake caliper. Screw brake hose to lhe brakeline,taking care to avoid twisting the brake hose. Tightening torque 34 32 1AZ\*
 
@@ -35447,13 +34461,11 @@ Operation is identical to 34 11 599.
 
 
 ### 3421 947 Fine grinding both sides of both rear brake discs (brake discs removed)
-`bmw_e31_am_en_227508ad` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:677 | doc_type:owners_manual
 
 Operation is idontical to 3411667.
 
 
 ### DESCRIPTION OF BRAKE MASTERCYLINDER OPERATION
-`bmw_e31_am_en_c1f52a8a` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:678 | doc_type:owners_manual
 
 The operating forceapplied on push rod piston （8） produces hydraullic braking pressure in the first pressure chamberof the tandem master cylinderand the connected brake circult 1. Thlspressure also acls on the second, Intermedlate plston and moves it in the tandem master cylinder. In this manner(almost)equal hydraulic braking pressure ls also produced in the second pressure chamber and connected brake clrcultll.
 
@@ -35465,13 +34477,11 @@ A tandem master cylinder can be operated direct vla the brake pedal or via a bra
 
 
 ### 34-31/2
-`bmw_e31_am_en_4cbedc1b` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:679 | doc_type:owners_manual
 
 ![](images/cfa571164bd31d017060f64f6b1fd121313612e9d7046d83f0119732e9e05438.webp)
 
 
 ### 3431 000 REMOVING AND INSTALLING BRAKE MASTER CYLINDER
-`bmw_e31_am_en_3dddf07a` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:680 | doc_type:owners_manual
 
 Draw brake fluld take out of tank wlth a standard syringe. Pulloff brake fluld tank.
 
@@ -35491,7 +34501,6 @@ Installation: Tightening torque'.
 
 
 ### 3432.. Replacing all brake lines
-`bmw_e31_am_en_148d3e85` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:681 | doc_type:owners_manual
 
 Thebrake linesare now only supplied as straight units, cut to the correct length and fitted with a connection nipple.
 
@@ -35500,19 +34509,16 @@ The new brake lines are bent to the correct angle using special tool345100. The 
 ![](images/6292a273f6e10030017b56d34988bdfbedbc901a0f437435bf63c2381aeecdbb.webp)
 
 
-### Caution!
-`bmw_e31_am_en_bbe5b559` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:682 | doc_type:owners_manual
-
-Avoid damaging the protective layer on the brake line when bending  
-Do not bend brake linessharply orfold backwards.   
-Only tighten down screw connections on brake lines using torque wrench.   
-Tightening torque 34 32 1AZ\*
-
-After completion of the work, bleed braking system,refer to 34 00 046/047.
+> ⚠️ **Внимание:** 
+> Avoid damaging the protective layer on the brake line when bending  
+> Do not bend brake linessharply orfold backwards.   
+> Only tighten down screw connections on brake lines using torque wrench.   
+> Tightening torque 34 32 1AZ\*
+>
+> After completion of the work, bleed braking system,refer to 34 00 046/047.
 
 
 ### 3432941 Replaceall front brake hoses
-`bmw_e31_am_en_159b65bf` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:683 | doc_type:owners_manual
 
 ![](images/e9aff760f70b00b73efbe1dd1af1d712be2abb4e7c2dba4ce240bd36447986e2.webp)
 
@@ -35527,7 +34533,6 @@ Bleeding brake system,refer o 3400047 for ABS and 3400048for ABS/ASC+T respectiv
 
 
 ### 3432983 Replacing both rear brake hoses
-`bmw_e31_am_en_0b05aba5` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:684 | doc_type:owners_manual
 
 ![](images/9331d4ca4c254387076d8033383ccbcddbae9172c9b67988bdfb77b89d87d84c.webp)
 
@@ -35554,13 +34559,11 @@ After consumption of thlsreservepressure, the brakes can still beapplled, but wi
 
 
 ### FUNCTION TEST
-`bmw_e31_am_en_de3a425b` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:685 | doc_type:owners_manual
 
 Operate brake pedal 20 times with the engine stopped. Hold brakepedal down and start engine. System Isokay, 1 brake pedal glves. If brakepedal does not glve, there could bea fault In the power steering pump,power flowregulator, hydraulic reservoir or hydraulic brake booster.
 
 
 ### 3433505 REMOVING AND INSTALLING BRAKE BOOSTER WITH BRAKE MASTER CYLINDER
-`bmw_e31_am_en_a8c68168` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:686 | doc_type:owners_manual
 
 ![](images/3e7bd65f33c38abdbfdae0e8f1cfad9562f08d667dcf6aff2807a66e3fcc82da.webp)
 
@@ -35602,7 +34605,6 @@ Baslc setting distance A=143±1mm (5.630±0.o39")measured from firewall to cente
 
 
 ### Installation:
-`bmw_e31_am_en_139020c3` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:687 | doc_type:owners_manual
 
 Unscrew swivel on brake booster. Install swlvel on new brake booster and adjust to same distance B. Ifnecessary,check control distance A on brake pedal In Installed state = see 3521 000.
 
@@ -35618,7 +34620,6 @@ Bleed power steering = see 3213006.
 
 
 ### 34 33100 REMOVING AND INSTALLING POWER FLOW REGULATOR
-`bmw_e31_am_en_1ba57519` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:688 | doc_type:owners_manual
 
 Discharge the hydraulle reservoir by operating the brake pedal about 20 times wlth the force required for full stop braking and wlth the engine   
 stopped.   
@@ -35628,7 +34629,6 @@ Puli offwires on circulating pressure warning swltch (5）and hydraulic pressure
 
 
 ### Unscrew
-`bmw_e31_am_en_499ff76f` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:689 | doc_type:owners_manual
 
 pipe（1) from power flow regulator to tank,   
 plpe（2）from power flow regulator to power steering gear,   
@@ -35637,7 +34637,6 @@ plpe（4) from power flowregulator to brake booster.
 
 
 ### 3433 110 REMOVING AND INSTALLING HYDRAULIC RESERVOIR
-`bmw_e31_am_en_ce12c3cf` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:690 | doc_type:owners_manual
 
 Discharge pressure -see 34 33 100.   
 Remove left front wheel house trim panel -see Group 51.   
@@ -35652,7 +34651,6 @@ Unscrew power flow regulator mounting bolts.
 
 
 ### 3441 000 Removing and installing handbrake lever
-`bmw_e31_am_en_7fc0e1eb` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:691 | doc_type:owners_manual
 
 Lift out dust cover.   
 Remove oddments tray,see51 16200.
@@ -35668,19 +34666,16 @@ Unfasten screws (1).
 ![](images/5fb073739f0a957d24fe17d60ef893d8a5140987af277c001e1d39c4b5116fc1.webp)
 
 
-### Caution!
-`bmw_e31_am_en_ff41bb5d` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:692 | doc_type:owners_manual
-
-Do not damage switch for handbrake indicator light when removing and installing the handbrake lever.
-
-Remove the handbrake lever.
-
-Installation:   
-Adjust switch for handbrake indicator light, see 6131320.
+> ⚠️ **Внимание:** 
+> Do not damage switch for handbrake indicator light when removing and installing the handbrake lever.
+>
+> Remove the handbrake lever.
+>
+> Installation:   
+> Adjust switch for handbrake indicator light, see 6131320.
 
 
 ### 34-41/2
-`bmw_e31_am_en_ecf87317` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:693 | doc_type:owners_manual
 
 ![](images/10377a81e7339dea287c3919fcf8c9edb9719133af09dd7c8024febee06b612e.webp)
 
@@ -35714,7 +34709,6 @@ Press handbrake Bowden cable out of tank mount and pull out of guide tube.
 
 
 ### 3441 220 Removingand installing or replacing all handbrake shoes
-`bmw_e31_am_en_9ba36235` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:694 | doc_type:owners_manual
 
 Remove rear brake discs, see 34 21320.
 
@@ -35726,7 +34720,6 @@ Pull lower brake shoes apart and remove from wheel hub.
 
 
 ### TROUBLESHOOTING BRAKES
-`bmw_e31_am_en_2f97954a` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:695 | doc_type:owners_manual
 
 ![](images/a1b643019cd2dfd03659bf352b3636866d78f8e4a70b203ab440c1e5603233b1.webp)
 
@@ -35738,7 +34731,6 @@ Pull lower brake shoes apart and remove from wheel hub.
 
 
 ### DESCRIPTION
-`bmw_e31_am_en_35b619e0` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:696 | doc_type:owners_manual
 
 The basis of a braking action is the friction between the tires and road surlace. To brake a vehicle the tires have to transmlt a frlctlonal forceto theroad surface. In So dolng there wll be slip between the tiresandroad surface, l.e.the tire peripheral velocitywll be slower than the road speed of the vehicle.
 
@@ -35764,20 +34756,17 @@ G Locked wheel
 
 
 ### DESIGN
-`bmw_e31_am_en_f8065533` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:697 | doc_type:owners_manual
 
 ABS conslsts ofa control unit, hydraullc unit,speed sensors and a wire harness.Components are described separately below.
 
 
 ### Speed Sensors:
-`bmw_e31_am_en_9d15d9d9` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:698 | doc_type:owners_manual
 
 Each speed sensyr has agear wheel,which runspast the permanently magnetized edge of the speed sensor and isinstalled in the wheel hub.   
 The rotary motlon of the wheels is recorded by Inductive sensors and an electric slgnal Is sent to the electronlc control unit.
 
 
 ### Electronic Control Unit:
-`bmw_e31_am_en_7dbbab2c` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:699 | doc_type:owners_manual
 
 The electronlc control unit is located In the car's slde member, see layout drawing on page 52/6.In a small muitl-channel computer acceleratlon, deceleration and slipfactors arederived from theelectricsignalsof the speed sensors,whlch are proportional to wheel velocity. By loglcal connection of these factors there are control commands for the electromagneticallyoperated valves inthe hydraulic unit.
 
@@ -35787,7 +34776,6 @@ The control unlt,contains electronlc monitoring circults, whlch control the func
 
 
 ### Hydraullc Unit:
-`bmw_e31_am_en_c32e63b5` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:700 | doc_type:owners_manual
 
 The hydraulic unlt is located in theengine compartment and integrated in the conventional brake system.
 
@@ -35803,13 +34791,11 @@ The pump Isdesigned asa two-plston pump so that the circults of a dual brake clr
 
 
 ### Wlre Harness:
-`bmw_e31_am_en_0505f53e` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:701 | doc_type:owners_manual
 
 The control unit is connected with the speed sensors and electric part of the hydraulic unlt vlaa speclal wire harness forthesake of signalinput and orderoutput. These wires as well as electric power supply are integrated in the main wire harness.
 
 
 ### 2. Function and Checking ofABS Control'Lamp
-`bmw_e31_am_en_25a5b45c` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:702 | doc_type:owners_manual
 
 The ABS control lamp lights up after switching the ignition on.   
 The control lamp must go out ater starting the engine 1 ABS 1s okay.
@@ -35823,7 +34809,6 @@ Thls means that the car can still be braked, but without regulation (the wheels 
 
 
 ### AUTOMATIC STABILITY CONTROL (ASC)
-`bmw_e31_am_en_dbfa1c28` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:703 | doc_type:owners_manual
 
 Description
 
@@ -35847,7 +34832,6 @@ Agaln with the help of wheel sensors ASC recognizes the difference in speed betw
 
 
 ### Displaying and Swltching Logic
-`bmw_e31_am_en_8147402a` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:704 | doc_type:owners_manual
 
 The system Is swltched on after starting the engine and can be switched off as desired wlth a passive swltch button. ASC lamp is off with thesystem switched on.
 
@@ -35859,7 +34843,6 @@ Troubleshooting: See Car Electric/Electronic Test Plan.
 
 
 ### AUTOMATIC STABILITY CONTROL PLUS TRACTION (ASC +T
-`bmw_e31_am_en_df0754fc` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:705 | doc_type:owners_manual
 
 General
 
@@ -35869,7 +34852,6 @@ During regulation the engine torque is reduced with help of DME (lgnition timing
 
 
 ### Dlsplaying and Swltching Logic
-`bmw_e31_am_en_100a9163` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:706 | doc_type:owners_manual
 
 The system Isswitched on after starting the engine and can be swltched off as desired with 8 passive swltch button. ASC lamp ls off with the system switched on.
 
@@ -35879,7 +34861,6 @@ If the ASClamp lightsup continuously,the system has been switched off on its own
 
 
 ### Ignition Timing Control by DME
-`bmw_e31_am_en_66fb240e` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:707 | doc_type:owners_manual
 
 Retarding the lgnition timing isanother measure forreduction of the engine iorque. In ASC mode (regulation) Digital Motor Electronics (DME) receives a dlgltal signal from ASC and retards the Ignitlon timing afterwards.
 
@@ -35887,7 +34868,6 @@ Troubleshooting: See Car Electric/Electronic Test Plan.
 
 
 ### 34 50511 Checking ASC+T brakingaction (without test equipment)
-`bmw_e31_am_en_64c45ce9` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:708 | doc_type:owners_manual
 
 Vehicle on a lifting platform (wheels free).
 
@@ -35904,56 +34884,52 @@ prevent it fromturning).
 
 
 ### Reaction:
-`bmw_e31_am_en_f1126664` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:709 | doc_type:owners_manual
 
 Leftrear wheel is tangibly braked.
 
 Test sequence: Repeat test on rear right wheel.
 
 
-### Caution!
-`bmw_e31_am_en_d9da025a` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:710 | doc_type:owners_manual
-
-Do not confuse brake lines and, if necessary.   
-mark before removal.
-
-When operation is complete:
-
-![](images/f9b7b9cd91d8a5bbbfecddac580acd28621d56c691ec8fd6e24e4642d184a7a8.webp)
-
-Venting brake system, refer to 34 00047 for ABS or3400048for ASC+T. Perform final ABS inspection, reler to BMW Diagnosis System.
-
-Remove brake lines FL,FR,RL,RR. Seal brake lines and ABS hydraulic unit with suitable plugs.
-
-installation: FL to front left brake caliper FR to front right brake caliper RL to rear left brake caliper RR torear right brakecaliper Tightening torque 34 32 1AZ\*
-
-Disconnect battery ground lead. Observe General Information, Gr.61！
-
-Removing front left headlight, refer to 63 12460.   
-Removing air filter housing,refer to Gr.13.   
-Remove cover from front left wheel arch.   
-Remove air intake (for cooling brakes).
-
-Draw brake lluid out of the expansion tank. Use a suction lifter to do this: i must only make contact with brake fluid.
-
-![](images/aa192f59ad3f0d17c99470cb1f53e852a7ee264568086d094dc6b3713df87b30.webp)
-
-Unfasten nuts (3...5）.   
-Remove ground cable(1).   
-Unfasten screw (2) and remove cover.   
-Remove multi-pin plug.   
-Remove hydraulic unit.
-
-Remove brake lines (1 and 2).
-
-Caution!   
-Catch brake fluid and do not allow to contact clothing or paintwork.
-
-Installaton: Line to 【1 rear master brake cylinder. Line to (2) front master brake cylinder. Tightening torque 34 32 1AZ
+> ⚠️ **Внимание:** 
+> Do not confuse brake lines and, if necessary.   
+> mark before removal.
+>
+> When operation is complete:
+>
+> ![](images/f9b7b9cd91d8a5bbbfecddac580acd28621d56c691ec8fd6e24e4642d184a7a8.webp)
+>
+> Venting brake system, refer to 34 00047 for ABS or3400048for ASC+T. Perform final ABS inspection, reler to BMW Diagnosis System.
+>
+> Remove brake lines FL,FR,RL,RR. Seal brake lines and ABS hydraulic unit with suitable plugs.
+>
+> installation: FL to front left brake caliper FR to front right brake caliper RL to rear left brake caliper RR torear right brakecaliper Tightening torque 34 32 1AZ\*
+>
+> Disconnect battery ground lead. Observe General Information, Gr.61！
+>
+> Removing front left headlight, refer to 63 12460.   
+> Removing air filter housing,refer to Gr.13.   
+> Remove cover from front left wheel arch.   
+> Remove air intake (for cooling brakes).
+>
+> Draw brake lluid out of the expansion tank. Use a suction lifter to do this: i must only make contact with brake fluid.
+>
+> ![](images/aa192f59ad3f0d17c99470cb1f53e852a7ee264568086d094dc6b3713df87b30.webp)
+>
+> Unfasten nuts (3...5）.   
+> Remove ground cable(1).   
+> Unfasten screw (2) and remove cover.   
+> Remove multi-pin plug.   
+> Remove hydraulic unit.
+>
+> Remove brake lines (1 and 2).
+>
+> Caution!   
+> Catch brake fluid and do not allow to contact clothing or paintwork.
+>
+> Installaton: Line to 【1 rear master brake cylinder. Line to (2) front master brake cylinder. Tightening torque 34 32 1AZ
 
 
 ### Refer to Technical Data
-`bmw_e31_am_en_6a454073` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:711 | doc_type:owners_manual
 
 ![](images/f2d586c6cc0638a1c359a9a6f9968d1037d56f428b1fc89e809b08ef9eeb1ddb.webp)
 
@@ -35998,7 +34974,6 @@ Remove connector (1) for solenoid valves and connector {2)for pressure sensor.
 
 
 ### 34-51/4
-`bmw_e31_am_en_9c829113` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:712 | doc_type:owners_manual
 
 Unfasten retaining screws on hydraulic plunger unit and remove hydraulicplunger unit.
 
@@ -36015,16 +34990,13 @@ Draw brake fluid out of the expansion tank. Use a suction lifier to do this: itm
 ![](images/eb23c0eda11ad1584bb86dd7c4f6086ee217af4a303e99afa71058ca2d2d4252.webp)
 
 
-### Caution!
-`bmw_e31_am_en_17a01499` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:713 | doc_type:owners_manual
-
-Donot confuse brake lines:if necessary,mark them before disconnecting them.
-
-Unfasten brake lines 1.. 6. Seal brake lines and hydraulic unit with suitable plugs.
+> ⚠️ **Внимание:** 
+> Donot confuse brake lines:if necessary,mark them before disconnecting them.
+>
+> Unfasten brake lines 1.. 6. Seal brake lines and hydraulic unit with suitable plugs.
 
 
 ### Brake line:
-`bmw_e31_am_en_7a2b37c9` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:714 | doc_type:owners_manual
 
 ![](images/bce52324f2ce0048cc28c5789673139339bae2e6621e1df108bb9922f1324818.webp)
 
@@ -36061,101 +35033,88 @@ Refer to Technical Data
 
 
 ### 34-51/6
-`bmw_e31_am_en_50c124f1` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:715 | doc_type:owners_manual
 
 ![](images/cee747b837fd0f62b5e82ba1e624811e4135c5da03df79dc6c52d523197847c3.webp)
 
 
 ### 3451 540 Removing and installing or replacingASC +T filter
-`bmw_e31_am_en_26ae8e01` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:716 | doc_type:owners_manual
 
 Unfasten filter bell,replace filter element and O-ring.
 
 
-### Note:
-`bmw_e31_am_en_091085b8` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:717 | doc_type:owners_manual
-
-Filter change intervals: see Gr.00.
-
-Installation: Tightening torque 34 50 1AZ\* 2 Tightening torque 3450 2AZ\*
-
-![](images/8efda7adec111e5e947711c060aa4c1c23be6b22e8cfdcf8296ac8662a1ee950.webp)
-
-1 Tank   
-2 Dual pump   
-3 Charging valve   
-1 Power steering   
-5 Brake booster   
-6 ASC plunger   
-7 ASC charglng valve   
-8 Rlde level helght control
+> ℹ️ **Примечание:** 
+> Filter change intervals: see Gr.00.
+>
+> Installation: Tightening torque 34 50 1AZ\* 2 Tightening torque 3450 2AZ\*
+>
+> ![](images/8efda7adec111e5e947711c060aa4c1c23be6b22e8cfdcf8296ac8662a1ee950.webp)
+>
+> 1 Tank   
+> 2 Dual pump   
+> 3 Charging valve   
+> 1 Power steering   
+> 5 Brake booster   
+> 6 ASC plunger   
+> 7 ASC charglng valve   
+> 8 Rlde level helght control
 
 
 ### 3452510 Removing and installing replacing control unit (forABS)
-`bmw_e31_am_en_7b3e62d0` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:718 | doc_type:owners_manual
 
 Remove cover strip from left door spoiler. Remove loudspeaker coverfrom front left footwell. Fold away carpet from door spoiler.
 
 
-### Caution!
-`bmw_e31_am_en_63a85875` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:719 | doc_type:owners_manual
-
-Onlyremove and install control unit when ignition is switched oft.
-
-![](images/900d74c075a78d5e46492519bb9cd092f51cc7d150d4f82fca931fd3c609eafe.webp)
-
-Unlock cable connector and remove from control unit (1).
-
-Unfasten retaining screws from control unit and liftout control unit.
-
-InstaNation: Encode new control unit, refer to BMW Diagnosis System.
+> ⚠️ **Внимание:** 
+> Onlyremove and install control unit when ignition is switched oft.
+>
+> ![](images/900d74c075a78d5e46492519bb9cd092f51cc7d150d4f82fca931fd3c609eafe.webp)
+>
+> Unlock cable connector and remove from control unit (1).
+>
+> Unfasten retaining screws from control unit and liftout control unit.
+>
+> InstaNation: Encode new control unit, refer to BMW Diagnosis System.
 
 
 ### 34 52 515 Removing and installing replacing control unit (ASC+T)
-`bmw_e31_am_en_c4091261` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:720 | doc_type:owners_manual
 
 Remove cover strip from left door spoller. Remove loudspeaker cover from Iront left footwell. Fold away carpet from door spoller.
 
 
-### Caution!
-`bmw_e31_am_en_00c08a10` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:721 | doc_type:owners_manual
-
-Only remove and install control unit when ignition is switched off.
-
-![](images/ab24404e6e70ac67945c9aec229c23b2f508f7ec171b6d6bf374564ae57b9cbc.webp)
-
-Unlock cable connector and remove from control unit (1).
-
-Unfasten retaining screws from control unit and remove control unit.
-
-Installation: Now control unit:
-
-Encoding control unit,   
-referto BMW Diagnosis System.   
-On vehicleswith Dynamic Stability Control (DSC), a steering angle adjustment   
-must also be made,   
-refer to BMW Diagnosis System.
-
-Vehicles with ABS/ASC+T Irom 12/94:
-
-If the ABS/ASC+T control unit is replaced, the ABS engine relay (2)must also bereplaced.
-
-![](images/522aab9490f3ef2aa5726d3ae19f6eeb1d023c1c2d8164f6c9b5db014ca6ad13.webp)
+> ⚠️ **Внимание:** 
+> Only remove and install control unit when ignition is switched off.
+>
+> ![](images/ab24404e6e70ac67945c9aec229c23b2f508f7ec171b6d6bf374564ae57b9cbc.webp)
+>
+> Unlock cable connector and remove from control unit (1).
+>
+> Unfasten retaining screws from control unit and remove control unit.
+>
+> Installation: Now control unit:
+>
+> Encoding control unit,   
+> referto BMW Diagnosis System.   
+> On vehicleswith Dynamic Stability Control (DSC), a steering angle adjustment   
+> must also be made,   
+> refer to BMW Diagnosis System.
+>
+> Vehicles with ABS/ASC+T Irom 12/94:
+>
+> If the ABS/ASC+T control unit is replaced, the ABS engine relay (2)must also bereplaced.
+>
+> ![](images/522aab9490f3ef2aa5726d3ae19f6eeb1d023c1c2d8164f6c9b5db014ca6ad13.webp)
 
 
-### Note:
-`bmw_e31_am_en_e7a7f947` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:722 | doc_type:owners_manual
-
-Valve relay (1) clicks when ignition is   
-switched on and off.   
-Enginerelay (2)does not demonstrate any reaction when switching the ignition   
-on and otf.
-
-34 52/3.1
+> ℹ️ **Примечание:** 
+> Valve relay (1) clicks when ignition is   
+> switched on and off.   
+> Enginerelay (2)does not demonstrate any reaction when switching the ignition   
+> on and otf.
+>
+> 34 52/3.1
 
 
 ### 61 12 535 Replace one back impulse sensor
-`bmw_e31_am_en_4d4e008b` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:723 | doc_type:owners_manual
 
 Switch off ignition.
 
@@ -36192,7 +35151,6 @@ hydraullc control unitcontrol unltbracket
 
 
 ### 6131 570 REPLACING RELAYS ONHYDRAULIC CONTAOL UNIT (FOR ABS)
-`bmw_e31_am_en_d54154ad` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:724 | doc_type:owners_manual
 
 Unscrew screw.   
 Pull off cover.
@@ -36265,7 +35223,6 @@ passive display
 
 
 ### 35 Pedals
-`bmw_e31_am_en_642a43b9` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:725 | doc_type:owners_manual
 
 Layout of pedals ...3-.00/1   
 Controldimensionsforspacingbetweenpedals . ++...=-= EE 35-00/2   
@@ -36283,7 +35240,6 @@ Controldimensionsforspacingbetweenpedals . ++...=-= EE 35-00/2
 
 
 ### 3511 000 Removingand installing completemounting bracketfor pedals
-`bmw_e31_am_en_374dd12e` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:726 | doc_type:owners_manual
 
 Removing accelerator pedal shaft, refer to 3541010.   
 Removing complete steering column,   
@@ -36300,7 +35256,6 @@ Installation: Tightening torque
 
 
 ### Unscrew bracket.
-`bmw_e31_am_en_1af8b0f3` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:727 | doc_type:owners_manual
 
 Cut away antidrumming lining.
 
@@ -36308,7 +35263,6 @@ Remove clip (1) and pull out pin (2).
 
 
 ### Installation:
-`bmw_e31_am_en_91b3588e` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:728 | doc_type:owners_manual
 
 Applylight coating of grease\*\*to sliding face of pinand contact face of brake light switch.
 
@@ -36332,7 +35286,6 @@ Installation: Do not jam noise insulation on end wall!
 
 
 ### 35 11 001 REPLACING CONSOLE FOR PEDALS
-`bmw_e31_am_en_bf3cf034` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:729 | doc_type:owners_manual
 
 Automatlc:   
 Remove pedal console = see 35 11 000. Remove pedal value sender = see   
@@ -36372,7 +35325,6 @@ See Speclficatlons See Operating Flulds
 
 
 ### 3521 000 Removing and installing or replacing brake pedal
-`bmw_e31_am_en_81be85ff` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:730 | doc_type:owners_manual
 
 Remove lower left section of trim from instrument panel, see Group51.   
 Remove brake light switch,   
@@ -36403,14 +35355,11 @@ Installation: Apply light coat of grease to the hex screw (1) and the spacer sle
 Installation: Adjust brake pedal on push rod (1） of master brake cylinder to dimension (A)\*.
 
 
-### Caution!
-`bmw_e31_am_en_9fdc0d76` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:731 | doc_type:owners_manual
-
-Stroke restriction must take place in the masterbrake cylinder and not, lor instance by the brake light switch.
+> ⚠️ **Внимание:** 
+> Stroke restriction must take place in the masterbrake cylinder and not, lor instance by the brake light switch.
 
 
 ### 3541 000 REMOVING AND INSTALLING OR REPLACING ACCELERATORPEDAL
-`bmw_e31_am_en_46989201` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:732 | doc_type:owners_manual
 
 Installation:   
 Always replace a removed accelerator pedal.   
@@ -36431,13 +35380,11 @@ See Operating Flulds
 
 
 ### 35-41/2
-`bmw_e31_am_en_fe58a263` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:733 | doc_type:owners_manual
 
 ![](images/0d61445d546214152ffa0dca5d07f94b0463f49447ec03b66b60cacfdda61e08.webp)
 
 
 ### 3541 010 Removing and installing or replacingaccelerator pedal (gas pedal)
-`bmw_e31_am_en_fa3f2d39` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:734 | doc_type:owners_manual
 
 Remove lower left section ol trim from instrument panel, see Group51. Disconnect clip,remove plunger rod. Removing accelerator sensor,refer to Gr.12.
 
@@ -36463,7 +35410,6 @@ Rotate accelerator shaft and insert lug (2) through recess (3) in accelerator pe
 
 
 ### 3541 480 Replacing kick-down switch
-`bmw_e31_am_en_5b74a734` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:735 | doc_type:owners_manual
 
 Check switch, refer to BMW Diagnosis Program.
 
@@ -36472,7 +35418,6 @@ Unfasten nut (2) and twist switch to remove.
 
 
 ### Installation:
-`bmw_e31_am_en_4c354ba6` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:736 | doc_type:owners_manual
 
 Adjust Bowden cable for throttle valve actuation,refer toRepair Instructions Series 7 E38.
 
@@ -36491,7 +35436,6 @@ Checking switch,refer to BMW Diagnosis Program.
 
 
 ### 36 Wheels and tires
-`bmw_e31_am_en_e55f7f55` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:737 | doc_type:owners_manual
 
 3610008 Front wheel, left orright 1 balance electronically 36-10/1   
 058 Rearwheel, leftorright-balanceelectronically .=.....==....□.=... t 36-10/2   
@@ -36505,7 +35449,6 @@ Checking switch,refer to BMW Diagnosis Program.
 
 
 ### 36 10 008 BALANCING LEFT OR RIGHT FRONT WHEEL ELECTRONICALLY (Finish Balancer)
-`bmw_e31_am_en_f726b8f6` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:738 | doc_type:owners_manual
 
 Prior to electronic balancing, always first balance the wheels stationary see36 10508.
 
@@ -36533,7 +35476,6 @@ I1 more than15 gramsof imbalance are displayed for one wheel during finish balan
 
 
 ### 3610058 BALANCING LEFT OR RIGHT REAR WHEEL ELECTRONICALLY (Finish Balancer)
-`bmw_e31_am_en_8377ed13` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:739 | doc_type:owners_manual
 
 Prior to electronic balancing, always first balance the wheels stationary see36 10 508.
 
@@ -36566,13 +35508,11 @@ Check whether the rear wheels can be turned easlly.
 
 
 ### 36-10/3
-`bmw_e31_am_en_074eab11` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:740 | doc_type:owners_manual
 
 ![](images/8baa0940f8090e6e2dd7eef4897ac0bad13060249244c82eae20fdf510d1c54f.webp)
 
 
 ### 3610209 CHECKING WHEEL FOR LATERAL AND RADIAL RUNOUT
-`bmw_e31_am_en_11d1e610` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:741 | doc_type:owners_manual
 
 Wheel bearings musl be in perfect conditlon.   
 Liftcar.   
@@ -36588,34 +35528,30 @@ Check radlal runout\* of rim with Speclal Tool 36 1 000.
 
 
 ### 36-10/4
-`bmw_e31_am_en_22b23e74` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:742 | doc_type:owners_manual
 
 ![](images/c42b2067c9df291965fbeb1d18e88be2b558bf503e18433e4931cada48ad0228.webp)
 
 
-### Caution!
-`bmw_e31_am_en_7cd8b1c7` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:743 | doc_type:owners_manual
-
-Wheel is electronically balanced. To avoid clamping errors and imbalance,follow the procedure described below:
-
-Unfasten wheel studs.   
-Wheel setting with valve pointing downwards, fittedin same position.   
-ll several wheels are removed at once, mark the location of wheels on the tires (e.g.with chalk).   
-Mark position ol wheel relative to wheel hub (to avoid clamping errors).   
-Mark position ofwheel lock relative to wheel (to avoid balancing problems). Unfasten wheel studs. On directional wheels, note the location of the designation.   
-The arrow on the wheel indicates the direction of rotation.   
-Ill no designation can be found, check the   
-parts number of the wheel in the Parts Catalogue and determine the correct location. Tighten disc wheels crosswise.   
-Tightening torque\*.   
-W newdisc wheelsare being fitted for the first time,recheck the tightening torque after   
-1000km.   
-Anappropriate note should be attached within the driver's field of view.
-
-![](images/11cad69a050e9f739ff6378e2d796eadd980b493dd0bd544c3018e88fcfd6b3b.webp)
+> ⚠️ **Внимание:** 
+> Wheel is electronically balanced. To avoid clamping errors and imbalance,follow the procedure described below:
+>
+> Unfasten wheel studs.   
+> Wheel setting with valve pointing downwards, fittedin same position.   
+> ll several wheels are removed at once, mark the location of wheels on the tires (e.g.with chalk).   
+> Mark position ol wheel relative to wheel hub (to avoid clamping errors).   
+> Mark position ofwheel lock relative to wheel (to avoid balancing problems). Unfasten wheel studs. On directional wheels, note the location of the designation.   
+> The arrow on the wheel indicates the direction of rotation.   
+> Ill no designation can be found, check the   
+> parts number of the wheel in the Parts Catalogue and determine the correct location. Tighten disc wheels crosswise.   
+> Tightening torque\*.   
+> W newdisc wheelsare being fitted for the first time,recheck the tightening torque after   
+> 1000km.   
+> Anappropriate note should be attached within the driver's field of view.
+>
+> ![](images/11cad69a050e9f739ff6378e2d796eadd980b493dd0bd544c3018e88fcfd6b3b.webp)
 
 
 ### Installation:
-`bmw_e31_am_en_1d6c65bb` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:744 | doc_type:owners_manual
 
 Before fitting each wheel, clean all dirt or old grease residue off the wheel centering bead and contact faces of disc wheels and coat centering point with Plastilube. Check wheel stud thread and taper for wear and replace wheel studs if necessary.   
 Apply light coat of grease to wheel stud thread but the taper must remain free of grease during assembly. Wheel stud galvanized   
@@ -36629,13 +35565,11 @@ to unfasten the anti-theft wheel studs.
 
 
 ### 36-10/5
-`bmw_e31_am_en_c4e27192` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:745 | doc_type:owners_manual
 
 ![](images/df6927b725d5a70e50b6998956a3dc7501c9cc15420d1ae828012458e74ba60e.webp)
 
 
 ### 36 10 508 BALANCING WHEEL DYNAMICALLY (Wheel Removed)
-`bmw_e31_am_en_cbc03651` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:746 | doc_type:owners_manual
 
 Remove old balancing weights, stones In treads and large plecesof dlrt. Check tire pressure, conditlon of tires, tlres for damage orflat spots (caused by long parking of car wlth hot tires). Ifnecessary, check wheel forradlal and lateral runout = see 36 10 209.
 
@@ -36669,13 +35603,11 @@ Max. Imbalance per wheel and slde'.
 
 
 ### 36-10/6
-`bmw_e31_am_en_4297a0ef` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:747 | doc_type:owners_manual
 
 ![](images/b7e0e7ac936d0eb874da6f740850dab0e32332633cde4ea0e9067953b46add05.webp)
 
 
 ### 3610713 CHECKING ONE ROAD WHEEL FOR RADIAL AND LATERAL RUNOUT ON BALANCING MACHINE (Wheel Removed)
-`bmw_e31_am_en_80748e6a` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:748 | doc_type:owners_manual
 
 Remove wheel- see3610300. Mount wheel on balancing machine. Wheel must bemounted on the balancing machine as it ls mounted on the car (valve facing down) loavold clampIng-overerrors.
 
@@ -36696,14 +35628,11 @@ Special tool must be perpendicular to the tire tread surface. Set up Speclal Too
 Turn wheel by hand and read maximum tre lateral runout\*.
 
 
-### Note:
-`bmw_e31_am_en_abd33389` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:749 | doc_type:owners_manual
-
-Speclal toolmust be perpendlcular to side surface of tire. Never measure on tire data surface! Ilfnecessary,checkradialand lateral runout of wheel rim 一 see3610715.
+> ℹ️ **Примечание:** 
+> Speclal toolmust be perpendlcular to side surface of tire. Never measure on tire data surface! Ilfnecessary,checkradialand lateral runout of wheel rim 一 see3610715.
 
 
 ### 36 10715 CHECKING WHEEL RIMFOR RADIAL AND LATERAL RUNOUT
-`bmw_e31_am_en_2297775c` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:750 | doc_type:owners_manual
 
 Remove wheel -see 36 10300.   
 Check front or rear wheel for radlal and lateral runout- see 36 10209.   
@@ -36739,13 +35668,11 @@ Dial gage must be perpendlcular to the rimwell.
 
 
 ### 36-12/1
-`bmw_e31_am_en_c9799753` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:751 | doc_type:owners_manual
 
 ![](images/8742f26faf91453b77bde4c881ef07db82ff8851ec5d42f1d23981f32da80a8d.webp)
 
 
 ### 3612001 Replacing tireon front, back or spare wheel
-`bmw_e31_am_en_439f016f` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:752 | doc_type:owners_manual
 
 Refer to operating instructions supplied with pertinent tiremountingmachine for correct mounting of tires. However,also make sure that the equipment isin perfect condition and that the wheel rim and tire are not damaged.
 
@@ -36760,17 +35687,14 @@ Clean disc wheel thoroughly and inspect for damage before fitting the tire.
 The valve and valve insert must be replaced each time a tubeless tire is removed and installed.
 
 
-### Caution!
-`bmw_e31_am_en_1f70e4ff` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:753 | doc_type:owners_manual
-
-It will be necessary to loosen the bead at several points on the bead periphery from the inside and outside with the pressing-off horn before pressing off the tire.   
-lfit isvery difficult to press offthe tire,loosen tirefrom rim flange as wellas possible with the pressing-off horn and then apply a coatof tiremounting paste between the tire and rim flange.   
-Repeat this step around the entire tire periphery.   
-Then press of tire completely.
+> ⚠️ **Внимание:** 
+> It will be necessary to loosen the bead at several points on the bead periphery from the inside and outside with the pressing-off horn before pressing off the tire.   
+> lfit isvery difficult to press offthe tire,loosen tirefrom rim flange as wellas possible with the pressing-off horn and then apply a coatof tiremounting paste between the tire and rim flange.   
+> Repeat this step around the entire tire periphery.   
+> Then press of tire completely.
 
 
 ### Mounting:
-`bmw_e31_am_en_7bf38252` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:754 | doc_type:owners_manual
 
 Coat tire bead with tire mounting paste \*.   
 Make sure tire is mounted on correct side, especially in case of asymmetric tires.   
@@ -36787,7 +35711,6 @@ Refer to Service Information of Group 36 for approved tires and tire sizes as we
 
 
 ### 36-12/2
-`bmw_e31_am_en_f542c643` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:755 | doc_type:owners_manual
 
 ![](images/376bd4ea6546cbb153b19a6ad77c0aac0ae46ab39af51b8324509cfe1f8036de.webp)
 
@@ -36819,7 +35742,6 @@ If the upper bead is pulled offthe rim,now also lift the bottom bead over themou
 
 
 ### 36-12/3
-`bmw_e31_am_en_85e2fbd1` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:756 | doc_type:owners_manual
 
 ![](images/1d190f375d4176a54e04ab9a3b04e910ee97814c8cc3ffdfaad346cfab59f4ba.webp)
 
@@ -36857,13 +35779,11 @@ Screw in the valveand correctthetirepressure.
 
 
 ### 36-13/1
-`bmw_e31_am_en_45d4d01c` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:757 | doc_type:owners_manual
 
 ![](images/4a76608f78711b1ca323a3850aa330e78b173c474f1224cf8d9c9d49590f4c31.webp)
 
 
 ### 3613 # SERVICE INSTALLING ONE WHEEL BOLT LOCK
-`bmw_e31_am_en_db1db3f8` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:758 | doc_type:owners_manual
 
 Loosen wheel bolts.   
 Liftcar SO that wheel can be turned easlly.   
@@ -36879,7 +35799,6 @@ la customer complalns about wheel Imbalance after Installatlon of the wheel bolt
 
 
 ### 37 Integrated suspension system
-`bmw_e31_am_en_a75b926d` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:759 | doc_type:owners_manual
 
 Electronic Damper Control EDC III ........37- 0/1   
 General information on EDC .............................. .:....\*.=.=.......\*=\*==..=\*.. 37- 0/1   
@@ -36911,19 +35830,16 @@ Troubleshooting ■ see Car Electric/Electronlc Test Plan ofGr. 37.
 
 
 ### 37-14/1
-`bmw_e31_am_en_1d25457a` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:760 | doc_type:owners_manual
 
 ![](images/46853c40bca9a6ffda48ce938d5137201d69e35e5a2f58225959e4beb779c952.webp)
 
 
 ### 3131 000 REMOVING AND INSTALLING OR REPLACING FRONT SPRING STRUT SHOCK ABSORBER (EDC)
-`bmw_e31_am_en_8028e4ec` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:761 | doc_type:owners_manual
 
 ![](images/15c4bd2b8cbd671904b1fef12c897bb70114909b6e8206a131159c6e17d70182.webp)
 
 
 ### 3352000 REMOVING AND INSTALLING OR REPLACING REAR SPRING STRUT SHOCK ABSORBER (EDC)
-`bmw_e31_am_en_17b17a35` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:762 | doc_type:owners_manual
 
 Refer to page 37-00/1 for general Informallon about EDC.   
 1=Solenoid valves   
@@ -36941,7 +35857,6 @@ Other steps H referto Group 33.
 
 
 ### Open prqtectlon box.
-`bmw_e31_am_en_c416f720` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:763 | doc_type:owners_manual
 
 1= ABS plug (white)   
 2= Not used   
@@ -36953,7 +35868,6 @@ Other steps H referto Group 33.
 
 
 ### 3714007 REMOVING AND INSTALLING OR REPLACING AXIAL ACCELERATION SENSOA
-`bmw_e31_am_en_b7595fca` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:764 | doc_type:owners_manual
 
 Reler to page 37-00/1 for general informatlon about EDC.
 
@@ -36973,13 +35887,11 @@ Remove road speed sensor referto Group 62.
 
 
 ### 37-14/3
-`bmw_e31_am_en_d5198ca3` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:765 | doc_type:owners_manual
 
 ![](images/ca6730dc19a175f83b16e300f216a8e0b7c42779c98eaae4f7fdb82b98774429.webp)
 
 
 ### 3714017 REMOVING AND INSTALLING OA REPLACING FRONT BODY ACCELERATION SENSOR
-`bmw_e31_am_en_a98a2adc` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:766 | doc_type:owners_manual
 
 Reter to page 37-00/1 for general Information about EDC.
 
@@ -36997,7 +35909,6 @@ Pin Connections: 31 = Ground 15 = >11.8V A □ Slgnal
 
 
 ### 3714 027 Removingand installingor replacing rear body accelerationsensor
-`bmw_e31_am_en_50ce4acf` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:767 | doc_type:owners_manual
 
 Observe general instructions on EDC.
 
@@ -37015,7 +35926,6 @@ Pin allocation: 31= ground 15=>11.8V A=signal
 
 
 ### 3714050 REMOVING AND INSTALLING OA REPLACING CONTROL UNIT
-`bmw_e31_am_en_7eadae03` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:768 | doc_type:owners_manual
 
 Reler to page 37-00/1 for general Inlormatlon about EDC.
 
@@ -37036,7 +35946,6 @@ Remove power saving relay.
 
 
 ### 41 Body
-`bmw_e31_am_en_0184fa97` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:769 | doc_type:owners_manual
 
 Notes onbody repairs 41- 0/1   
 Removal ofPVCmaterial inrepairarea +... 41- 0/2   
@@ -37073,27 +35982,24 @@ replacement removed) 41- 21/1
 4161014 Hood lid 1 adjust 41- 61/1
 
 
-### Caution!
-`bmw_e31_am_en_33ad70f4` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:770 | doc_type:owners_manual
-
-Disconnecting the vehicle battery cancels the fault memory of the control units. For this reason, before disconnecting the vehicle battery, interrogate the fault memory and print out the results on theBMWSERVICETESTER.Investigatefaultmessagesinmemory. Onlyever connect and disconnect the control unit connector when the ignition is switched oft.
-
-The removal and installation of components, relays, fuses etc. can cause faults to be stored in the fault memories of equipment with adiagnosiscapability.After working on theeleictrical system,itisalwaysnecessaryto interrogate thefaultmemory.   
-Investigate any fault messages and cancel once rectified.
-
-On vehicles with an airbag system, note rele vant instructions in Gr. 321
-
-Observe the fire and accident prevention regulations!
-
-Welding can be carried out with installed control units it there is a maximum distance of abour 1meter between the welding and ground connections and
-
-there is good electrical contact between welding and ground connections {no rubber,mounts or similar),
-
-otherwise attontion mustbe patd to the heat doveloped, espocially in the case of autogen welding(decision must be made from case tocase).
+> ⚠️ **Внимание:** 
+> Disconnecting the vehicle battery cancels the fault memory of the control units. For this reason, before disconnecting the vehicle battery, interrogate the fault memory and print out the results on theBMWSERVICETESTER.Investigatefaultmessagesinmemory. Onlyever connect and disconnect the control unit connector when the ignition is switched oft.
+>
+> The removal and installation of components, relays, fuses etc. can cause faults to be stored in the fault memories of equipment with adiagnosiscapability.After working on theeleictrical system,itisalwaysnecessaryto interrogate thefaultmemory.   
+> Investigate any fault messages and cancel once rectified.
+>
+> On vehicles with an airbag system, note rele vant instructions in Gr. 321
+>
+> Observe the fire and accident prevention regulations!
+>
+> Welding can be carried out with installed control units it there is a maximum distance of abour 1meter between the welding and ground connections and
+>
+> there is good electrical contact between welding and ground connections {no rubber,mounts or similar),
+>
+> otherwise attontion mustbe patd to the heat doveloped, espocially in the case of autogen welding(decision must be made from case tocase).
 
 
 ### REMOVING PVC MATERIAL IN REPAIR ZONE
-`bmw_e31_am_en_821761e2` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:771 | doc_type:owners_manual
 
 Body protoction after repalring beglns already wlth the prolesslonal removal olPVC undercoating. antl-drumming compound and seam sealing compound In the repalr zone.
 
@@ -37101,7 +36007,6 @@ Remove PVC materlal wlth a rotating steel brush, or heal PVC to maximum 180C wlt
 
 
 ### WELDING GALVANIZED SHEET METAL
-`bmw_e31_am_en_434f53bd` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:772 | doc_type:owners_manual
 
 Hot galvanized and galvanized sheet meial us used toa greater extent lor components of tho body. whlch areespeclally subject to corroslon.
 
@@ -37119,7 +36024,6 @@ Coat ground-through zinc layer with zinc dust paint.
 
 
 ### CEMENTING BODY PARTS
-`bmw_e31_am_en_44e9079c` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:773 | doc_type:owners_manual
 
 Proceod 9 described below whon using coment, BMW 510032:
 
@@ -37133,7 +36037,6 @@ Proceod 9 described below whon using coment, BMW 510032:
 
 
 ### Protectlve Measures:
-`bmw_e31_am_en_d07f409f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:774 | doc_type:owners_manual
 
 Avold direct contact ol cement with eyes and skin.   
 Do not eat,drink or smoke whlle carrylng out cementing work.   
@@ -37141,7 +36044,6 @@ Clean and rub In hands with skln prolectlon creme after finishing work.
 
 
 ### Flrst Ald:
-`bmw_e31_am_en_442256b3` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:775 | doc_type:owners_manual
 
 In case ol contact of cement with eyes, rinse out eyes immediately wlth running water for about 10to 15minutes. lf necessary. gotoa physlclan.
 
@@ -37164,7 +36066,6 @@ These precautions are applicable for regulallons valid In Germany. Always apply 
 
 
 ### 1. Cutting Out Damaged Parts:
-`bmw_e31_am_en_e77e7cab` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:776 | doc_type:owners_manual
 
 Determine the location of jointsinaccordance with the replacement part before starting the operation.   
 Cut out the damaged part roughly within these joints.
@@ -37192,20 +36093,17 @@ Produce inert gas welded seams according to the cut-out part
 Produce brazed joints with heat dispersion limited to a minimum and without overheating. Joining methods which deviate from standard production will be described in therepair instructions. Grind down welded seams on visible outside surfaces.
 
 
-### Caution!
-`bmw_e31_am_en_9da8d25f` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:777 | doc_type:owners_manual
-
-Do not grind down thickness ol sheet metal.
-
-Grind down and fill in irregularities with tin. After tinning, the surface should be prepared to suchan extent that only a coat ol fine filler has to be applied in the workshop.
-
-All welded seams sealed offwith body sealing compound in original state must be sealed off again thoroughly immediately afterrepairing. Replacedamagedanti-drumming compound. New sheet metal parts or cavities,seams, creases and folds formed by the new sheet metal parts must be sealed with a body sealing compound immediately.
-
-![](images/86d7e7823dd19a6ea8df250d612105813a3c12fc9d1e5e310c8a6c9a13b4c0b1.webp)
+> ⚠️ **Внимание:** 
+> Do not grind down thickness ol sheet metal.
+>
+> Grind down and fill in irregularities with tin. After tinning, the surface should be prepared to suchan extent that only a coat ol fine filler has to be applied in the workshop.
+>
+> All welded seams sealed offwith body sealing compound in original state must be sealed off again thoroughly immediately afterrepairing. Replacedamagedanti-drumming compound. New sheet metal parts or cavities,seams, creases and folds formed by the new sheet metal parts must be sealed with a body sealing compound immediately.
+>
+> ![](images/86d7e7823dd19a6ea8df250d612105813a3c12fc9d1e5e310c8a6c9a13b4c0b1.webp)
 
 
 ### 41-0/5
-`bmw_e31_am_en_3622cdf1` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:778 | doc_type:owners_manual
 
 GAPS OF DOORS ENGINE HOOD AND TRUNK
 
@@ -37219,29 +36117,25 @@ Max. permissible parallel deviation:1.0 mm. Plane dlsplacement A for adjacent bo
 
 
 ### Frame alignment control dimensions for BMW 8 series E31
-`bmw_e31_am_en_43b78610` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:779 | doc_type:owners_manual
 
 Dimensions in mm,tolerance 2.0mm.
 
 
-### Note:
-`bmw_e31_am_en_b5772a2d` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:780 | doc_type:owners_manual
-
-Only use the following values fora rough inspection.   
-Repalrs can only be carried out correctly with the approved set of attachments and a straightening bench. A= bore of front crossmember, 16mm dia. B= Front spring mount   
-C= Front carjack take-up   
-D = Rear car jack take-up   
-E= Rear axle take-up. side, semi-traling arm F Rear axle take-up, side, front   
-G= Shock absorbermount   
-H= Rear axle mount, side,rear   
-1= Bore of rear crossmember,12mm dia. N= Hinge axis, upper   
-0= Hinge axis, lower
-
-![](images/aee139eb6c998c13c489a39045e5d89f5dcb9b535d70e43cc34a0eb84a2918b3.webp)
+> ℹ️ **Примечание:** 
+> Only use the following values fora rough inspection.   
+> Repalrs can only be carried out correctly with the approved set of attachments and a straightening bench. A= bore of front crossmember, 16mm dia. B= Front spring mount   
+> C= Front carjack take-up   
+> D = Rear car jack take-up   
+> E= Rear axle take-up. side, semi-traling arm F Rear axle take-up, side, front   
+> G= Shock absorbermount   
+> H= Rear axle mount, side,rear   
+> 1= Bore of rear crossmember,12mm dia. N= Hinge axis, upper   
+> 0= Hinge axis, lower
+>
+> ![](images/aee139eb6c998c13c489a39045e5d89f5dcb9b535d70e43cc34a0eb84a2918b3.webp)
 
 
 ### 41-0/8
-`bmw_e31_am_en_67158905` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:781 | doc_type:owners_manual
 
 FRAME ALIGNMENT CONTROL DIMENSIONS FOR BMW8 SERIES/E31
 
@@ -37256,7 +36150,6 @@ C Front car jack take-up
 
 
 ### 41-0/9
-`bmw_e31_am_en_e2327ddb` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:782 | doc_type:owners_manual
 
 FRAME ALIGNMENT CONTROL DIMENSIONS FOR BMW B SERIES E31
 
@@ -37270,7 +36163,6 @@ Repairs can only be carried out correctly with the approved set ol attachmenis a
 
 
 ### 41-0/10
-`bmw_e31_am_en_5d59c6eb` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:783 | doc_type:owners_manual
 
 FRAME ALIGNMENT CONTROL DIMENSIONS FOR BMW 8 SERIES E31
 
@@ -37288,7 +36180,6 @@ L Slde rear axle take-up,rear
 
 
 ### 41-0/11
-`bmw_e31_am_en_e271546d` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:784 | doc_type:owners_manual
 
 FRAME ALIGNMENT CONTROL DIMENSIONS FOA BMW8 SERIES/E31
 
@@ -37304,7 +36195,6 @@ AB Front cross member bore,16mm dla. Front axle take-up,front 0 Front axle take-
 
 
 ### 41-0/12
-`bmw_e31_am_en_5a9fd95c` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:785 | doc_type:owners_manual
 
 FRAME ALIGNMENT CONTROL DIMENSIONS FOR BMW 8 SERIES/E31
 
@@ -37324,7 +36214,6 @@ M Rear cross member bore, 12 mm dla.
 
 
 ### DIE-STAMPING CHASSIS NUMBEA
-`bmw_e31_am_en_3f29060e` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:786 | doc_type:owners_manual
 
 If the dle-stamped chassis number is removed during repalrs,It must be dlestamped again.
 
@@ -37348,7 +36237,6 @@ Apply Speclal Tool41 1 001and have Speclal Tool 41 1 004 bear on the surlace for
 
 
 ### 41-11/1
-`bmw_e31_am_en_99d51a11` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:787 | doc_type:owners_manual
 
 ![](images/19472f4621eb93183b6737444f7029ec56b69724bfbcb34e9629c0982396a774.webp)  
 4111 028re
@@ -37369,7 +36257,6 @@ radiator
 
 
 ### volume air flow sensor withair filter
-`bmw_e31_am_en_1d420bba` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:788 | doc_type:owners_manual
 
 internal cover of wheel arch
 
@@ -37381,7 +36268,6 @@ DrilI out points between left and right front crossmembers.
 
 
 ### 41-11/2
-`bmw_e31_am_en_2c82e536` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:789 | doc_type:owners_manual
 
 ![](images/d2b51eb6a286096f71b492264b307db93c850aa22d4b0d5c90eaa271f32d3a8b.webp)
 
@@ -37428,7 +36314,6 @@ Adjust crossmember and weld into place. Dimension (E) =54 mm
 
 
 ### 41-11/4
-`bmw_e31_am_en_bb15134c` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:790 | doc_type:owners_manual
 
 ![](images/17664f9d40955be63485bd43d47b8c907efc36e1586bf12424c120632ff4387b.webp)
 
@@ -37447,7 +36332,6 @@ Unscrew mount forfront bumper bracket
 
 
 ### 41-11/5
-`bmw_e31_am_en_ee338381` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:791 | doc_type:owners_manual
 
 ![](images/ce91c00698e75e09c351ff8f7fd9d51f36b82e218eb1d10d6d086b8000394864.webp)
 
@@ -37472,7 +36356,6 @@ Uncoverreinforcement connections between A-plllarand engine carrier Inthe wheel 
 
 
 ### 41-11/6
-`bmw_e31_am_en_5cc49621` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:792 | doc_type:owners_manual
 
 ![](images/f4f72f6737d3c86f01849783821553cf22e92d84b247cee4dbcd2176cf5ea0b9.webp)
 
@@ -37497,7 +36380,6 @@ Remove nolse Insulatlon sheet on inslde of car.
 
 
 ### 41-11/7
-`bmw_e31_am_en_2c9c748e` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:793 | doc_type:owners_manual
 
 ![](images/80b2784664d726797998be6a0023c01d84377c25676c9483b266243322c46ff5.webp)
 
@@ -37521,7 +36403,6 @@ Weld front engine carrler sectlon on firewall and rear engine carrler section.
 
 
 ### 41-11/8
-`bmw_e31_am_en_35a29830` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:794 | doc_type:owners_manual
 
 Weld front engine carrler sectlon on rear engine carrler sectlon In the wheel house.
 
@@ -37547,7 +36428,6 @@ Grind welded surfaces smooth.
 
 
 ### 41-11/9
-`bmw_e31_am_en_5f5aa78e` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:795 | doc_type:owners_manual
 
 ![](images/b05a58ce2210686c05007ad6ce9b79ab6049c7291157bfcbd5a93365eaf89104.webp)
 
@@ -37560,7 +36440,6 @@ Weld front cross member between left and right engine carriers.
 
 
 ### 41-11/10
-`bmw_e31_am_en_daede5a6` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:796 | doc_type:owners_manual
 
 ![](images/f9f5526672151f3a1c97a186e1672837cf781e5f0539c99740ea07e1e1392fb6.webp)
 
@@ -37583,7 +36462,6 @@ Remove mount for front bumper bracket.
 
 
 ### 41-11/11
-`bmw_e31_am_en_3728517c` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:797 | doc_type:owners_manual
 
 ![](images/d008e236832fe4ecc54775e049d9b30134ea83d502e827eab0382ecb52a5c655.webp)
 
@@ -37627,7 +36505,6 @@ Clean welded faces of new part Coat welding laces with zinc dust paint.
 
 
 ### 41-11/13
-`bmw_e31_am_en_8e99dec9` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:798 | doc_type:owners_manual
 
 ![](images/15948203a1bd0832673f2f2da6aa3a1dd0018a0f6843ea4d421c739a531b3bc9.webp)
 
@@ -37635,7 +36512,6 @@ Clean welded faces of new part Coat welding laces with zinc dust paint.
 
 
 ### 41-11/14
-`bmw_e31_am_en_3a0bd4aa` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:799 | doc_type:owners_manual
 
 ![](images/6e8bdd110ea7b44771014af34d44249737ca06509a087a4538828dd4a7501376.webp)
 
@@ -37648,7 +36524,6 @@ Weld front cross member between left and right engine carriers.
 
 
 ### 41-11/15
-`bmw_e31_am_en_a2621b30` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:800 | doc_type:owners_manual
 
 ![](images/0bad650a6235c6299741a2fdd9afc129a78196e1e7fccb0c6718ea225772a786.webp)
 
@@ -37682,7 +36557,6 @@ Drilll off spot welding.
 
 
 ### 41-11/16
-`bmw_e31_am_en_b56a22be` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:801 | doc_type:owners_manual
 
 Drill offspot welding for relnforcement plates in the slde mamber 1rom the Inslde.
 
@@ -37737,7 +36611,6 @@ Coat side member surace with BodyPlast.
 
 
 ### 41-12/1
-`bmw_e31_am_en_8baaab53` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:802 | doc_type:owners_manual
 
 ![](images/df4e175f8cd448207a47e4d5fcab6617003f5e2f00be123854b33fa2463c7b10.webp)  
 4112535 Replacing complete rear trunk floor (rearapron removed)
@@ -37789,7 +36662,6 @@ Align connecting faces.
 
 
 ### 41-12/3
-`bmw_e31_am_en_a0d0e113` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:803 | doc_type:owners_manual
 
 Installation:
 
@@ -37893,7 +36765,6 @@ Drill out holes for plug weldingrear muffler bracket.
 
 
 ### 41-14/1
-`bmw_e31_am_en_1eee1f53` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:804 | doc_type:owners_manual
 
 4114021 Replacing front left wheel arch partial replacement
 
@@ -37927,7 +36798,6 @@ Drill out welding spots.
 
 
 ### 41-14/2
-`bmw_e31_am_en_ed206374` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:805 | doc_type:owners_manual
 
 ![](images/7f988e6228e6d33a5546ad164e40210974f9605bc0cc221ac98dc20b5a0e15f4.webp)
 
@@ -37955,7 +36825,6 @@ Determine locating point and mark out.
 
 
 ### 41-14/3
-`bmw_e31_am_en_7031350b` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:806 | doc_type:owners_manual
 
 Manufacturereinforcement plates (depending on line of cut).   
 Ensure adequate level of overlap (min. 30 mm at all points!
@@ -38065,18 +36934,15 @@ Expose joint in side panel of wheel housing and separate roughly.
 Remove side panel.
 
 
-### Caution!
-`bmw_e31_am_en_ce324bf4` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:807 | doc_type:owners_manual
-
-Roughly separate wheel arch extension.
-
-Roughly separate side carrier on rear window frame and roughly separate joint in center pillar.
-
-Roughly separate side carrier on rear window frame.
+> ⚠️ **Внимание:** 
+> Roughly separate wheel arch extension.
+>
+> Roughly separate side carrier on rear window frame and roughly separate joint in center pillar.
+>
+> Roughly separate side carrier on rear window frame.
 
 
 ### 41-14/8
-`bmw_e31_am_en_48f50dc1` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:808 | doc_type:owners_manual
 
 Cut out inside of side section.
 
@@ -38175,55 +37041,52 @@ Clean welding surfaces.
 Weld connection for C pillar. Arrange individual spots so close to one another that a continuous welded seam is created.
 
 
-### Caution!
-`bmw_e31_am_en_8bd90c2b` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:809 | doc_type:owners_manual
-
-Fit sealing material 1 to recess for tank filler neck.
-
-Always allow each spot to cool down slightly belore starting on next spot.   
-Risk of distortion! Install welding points in lamp support.   
-Braze water gutter and link to lamp support.
-
-Adjust side panel to fit Ensure that joint is of uniform wldth!
-
-Braze joint between tail panel and rear side panel.
-
-1= Joint in tail panel (brazed point)   
-2= Bead in side panel at rear
-
-Weld up side panel.
-
-Weld up link between lower rearwindow frame and side panel.
-
-![](images/f99e83de9910c594fc3ea16bf35d0aff8de112ec68ac6bfbf5ff576a71852ee2.webp)
-
-Refer to BMW Parts Service
-
-Braze link between lowerrearwindow frame and side panel.
-
-Tin out joint on C pillar and grind down.
-
-Braze cover for side member in door opening.
-
-Grind down welding and brazing points.
-
-Tin out joint in water gutter and grind down.
-
-Tin out joint on side panel and grind down.
-
-1= Connecting point for tallapron (brazing point) 2= Bead in side panel at rear
-
-![](images/b1373017d652fad653efe3c6cbc0e05a90846b14f8d28b7a35ac2f465c0aa30e.webp)
-
-Tin out cover for side member in door opening and grind down.
-
-Tin out link between lower section of rear window frame and side panel and grind down.
-
-![](images/8010ef70b154f05435cca18f02f2452deb0943a4afe0ab6255837e85134a92d5.webp)
+> ⚠️ **Внимание:** 
+> Fit sealing material 1 to recess for tank filler neck.
+>
+> Always allow each spot to cool down slightly belore starting on next spot.   
+> Risk of distortion! Install welding points in lamp support.   
+> Braze water gutter and link to lamp support.
+>
+> Adjust side panel to fit Ensure that joint is of uniform wldth!
+>
+> Braze joint between tail panel and rear side panel.
+>
+> 1= Joint in tail panel (brazed point)   
+> 2= Bead in side panel at rear
+>
+> Weld up side panel.
+>
+> Weld up link between lower rearwindow frame and side panel.
+>
+> ![](images/f99e83de9910c594fc3ea16bf35d0aff8de112ec68ac6bfbf5ff576a71852ee2.webp)
+>
+> Refer to BMW Parts Service
+>
+> Braze link between lowerrearwindow frame and side panel.
+>
+> Tin out joint on C pillar and grind down.
+>
+> Braze cover for side member in door opening.
+>
+> Grind down welding and brazing points.
+>
+> Tin out joint in water gutter and grind down.
+>
+> Tin out joint on side panel and grind down.
+>
+> 1= Connecting point for tallapron (brazing point) 2= Bead in side panel at rear
+>
+> ![](images/b1373017d652fad653efe3c6cbc0e05a90846b14f8d28b7a35ac2f465c0aa30e.webp)
+>
+> Tin out cover for side member in door opening and grind down.
+>
+> Tin out link between lower section of rear window frame and side panel and grind down.
+>
+> ![](images/8010ef70b154f05435cca18f02f2452deb0943a4afe0ab6255837e85134a92d5.webp)
 
 
 ### 4114180 REPLACING RIGHT REARWHEEL HOUSE COMPLETEAND SIDEPANEL
-`bmw_e31_am_en_b9f79d86` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:810 | doc_type:owners_manual
 
 ![](images/126b5eabf5ba272ffab3ae3753148919ee960e88d332352157b12615b040dd59.webp)
 
@@ -38249,7 +37112,6 @@ Dril off welding spots at side window and roof frame.
 
 
 ### 41-14/14
-`bmw_e31_am_en_6d34833e` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:811 | doc_type:owners_manual
 
 ![](images/96fa8ebb6314bf061c4439099044232fea0d1e7b07fd698c53f200a7424e0dad.webp)
 
@@ -38264,7 +37126,6 @@ Distance A = 170mm
 
 
 ### Cut off cowl panel connectlon.
-`bmw_e31_am_en_80609e04` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:812 | doc_type:owners_manual
 
 Important! Cut oft In front of the welding seam al edge as otherwise part would be too short.
 
@@ -38290,7 +37151,6 @@ Cut off wheel house extension roughly.
 
 
 ### 41-14/15
-`bmw_e31_am_en_58aba4c3` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:813 | doc_type:owners_manual
 
 Cut out rear side sectlon.
 
@@ -38325,7 +37185,6 @@ Clean mating surfaces Inslde of wheel house and drill off welding spots.
 
 
 ### 41-14/16
-`bmw_e31_am_en_a53328c0` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:814 | doc_type:owners_manual
 
 ![](images/4de4cc0180799605a2ea0a6797322d6148fa21070816a80fa54126aa5a407ca6.webp)
 
@@ -38335,7 +37194,6 @@ Remove Inner wheel house sectlon.
 
 
 ### Remove Inner wheel house section.
-`bmw_e31_am_en_7d8b1499` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:815 | doc_type:owners_manual
 
 Drlll holes forplug welding.
 
@@ -38366,7 +37224,6 @@ Weld Inner wheel house sectlon from Inslde of car. Grind welding seams smooth.
 
 
 ### 41-14/17
-`bmw_e31_am_en_6ad3a627` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:816 | doc_type:owners_manual
 
 ![](images/4d69101cda1af5279e4ca2171ec402f9d85e4cb7b91ed331e43c70fc7fb4d9ac.webp)
 
@@ -38446,7 +37303,6 @@ Danger of distortion!
 
 
 ### 41-14/20
-`bmw_e31_am_en_99760847` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:817 | doc_type:owners_manual
 
 ![](images/4f47b3b32885103a10878bba05f991073c396a6bbb019f4836c9e2d9872520fb.webp)
 
@@ -38456,7 +37312,6 @@ Danger of distortion!
 
 
 ### 41-21/1
-`bmw_e31_am_en_72c0e66a` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:818 | doc_type:owners_manual
 
 4121 510 REPLACING LEFT FRONT DOORPILLAR (Outer Roof Frame Sectlon o Rool Frame Partial Replacement Sectlon Removed)
 
@@ -38550,7 +37405,6 @@ Coat mating surfaces wlth zinc dust palnt.
 
 
 ### 41-21/4
-`bmw_e31_am_en_dcdbe154` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:819 | doc_type:owners_manual
 
 ![](images/a651de73e97826a596889b2537b2144422eefd55e85e3667c73877ab086b51ab.webp)
 
@@ -38585,7 +37439,6 @@ Shoulder cowl panel partlal replacement sectlon surface on car.
 
 
 ### 41-21/5
-`bmw_e31_am_en_3e31fd69` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:820 | doc_type:owners_manual
 
 ![](images/237ebcb7fed10e421d31ce95c0ec8fb5cf0036fdbfe85754c7a7339e013f39a1.webp)
 
@@ -38609,7 +37462,6 @@ Weld cowl panel partlal replacement sectlon.
 
 
 ### 41-22/1
-`bmw_e31_am_en_0dc08148` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:821 | doc_type:owners_manual
 
 ![](images/45eaa81db7234056604ae3df22449344a165f2944cf30d9533049866bb9eebc2.webp)  
 Refer 41-0/1 for information on body repalrs.
@@ -38651,7 +37503,6 @@ Tin cowl panel mating surlace and grind smooth.
 
 
 ### 41-22/4
-`bmw_e31_am_en_d0bacf25` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:822 | doc_type:owners_manual
 
 4122 050 Replacing left or right outer roof frame (roof outer skin panel removed)
 
@@ -38678,7 +37529,6 @@ Drill out spots in roof frame side frame.
 
 
 ### 41-22/5
-`bmw_e31_am_en_89ec7cae` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:823 | doc_type:owners_manual
 
 ![](images/12b1b65fb5c3c8b4f8d7441742e0cd6f6e0b7ddd3cd3a5395ddd421d3a6173ef.webp)
 
@@ -38706,7 +37556,6 @@ Apply spot welds to rear window frame and roof frame.
 
 
 ### 41-22/6
-`bmw_e31_am_en_e546438c` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:824 | doc_type:owners_manual
 
 Apply brazed seam to joint between roof frame/ side panel.   
 Tinout joint and grind down.
@@ -38719,7 +37568,6 @@ Grind down welding and brazing points.
 
 
 ### 41 22 571 Replacing rearroof frame (roof outer skin panel removed)
-`bmw_e31_am_en_5467b524` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:825 | doc_type:owners_manual
 
 Bodyrepair instructions: see 41-01.
 
@@ -38751,7 +37599,6 @@ Remove or cover parts of car which are located In ihe repalr zone and could be s
 
 
 ### Remove rool panel.
-`bmw_e31_am_en_bd4de175` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:826 | doc_type:owners_manual
 
 Important! The roof panel will be easier to remove by heating iat the surfaces coated with sealIng compound and cement. Extract the produced vapors!
 
@@ -38791,7 +37638,6 @@ Refer to BMW Parts service.
 
 
 ### 41-31/3
-`bmw_e31_am_en_a0885364` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:827 | doc_type:owners_manual
 
 ![](images/0d23769d9b4a9035c58c9f2a6d58c4872032cadecd10ab9b4ca26b143b5d36e4.webp)
 
@@ -38803,7 +37649,6 @@ Remove excessive cement.
 
 
 ### 41-34/1
-`bmw_e31_am_en_5e9880c0` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:828 | doc_type:owners_manual
 
 ![](images/984e0d4b6da0cf59730457f73e909a1f6b9dbb366b784a92b944d776aa80f3c4.webp)
 
@@ -38829,7 +37674,6 @@ lock in tail panel
 
 
 ### 41-34/2
-`bmw_e31_am_en_b3281c40` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:829 | doc_type:owners_manual
 
 ![](images/1ae27ce5ca49942835196882980b48e0e34d043de5bd765b4325b19700ecbe6b.webp)
 
@@ -38846,50 +37690,47 @@ Note:
 To make the illustration clearer,shown with tail panel removed: viewed from luggage compartment.
 
 
-### Caution!
-`bmw_e31_am_en_b48f7c02` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:830 | doc_type:owners_manual
-
-1= connection point for tail panel (brazed section) 2= Bead in side panel at rear
-
-Dimension （A)= approx. 20 mm
-
-![](images/d3af001b706d1e72d480d84d98fa5a4940204c1da93f3e766c7813f47c383a05.webp)
-
-Remove tail panel.
-
-Roughly cut out reversing light section of tail panel withair cutter.
-
-Caution! Disconnect tail panel (1)infront ofjoint.
-
-1= Joint (brazing point)   
-2= Bead in side panel at rear
-
-Dimension （A)=approx. 20 mm
-
-![](images/ffc46bc345cc3367e3db3ef6378aae751c5044f6f2d545201ef731a2dd18d313.webp)
-
-Remove scrap metal.
-
-Note:   
-To make the illustration clearer, shown with   
-tail panel removed:
-
-clean welding surfaces and align.
-
-Roughly chisel off tail panel at outside joint with trunk floor.
-
-![](images/4c3c6d0bc4bce1ea97745ce02ec6cf70e702d6acda7bdee80a29a2c0283e2d9b.webp)
-
-Clean welding surfaces (new part) and coat with zino dust paint:
-
--joint in trunk floor   
-wheel arch extension   
-lighting cluster   
-internal reinforcements on trunk floor
+> ⚠️ **Внимание:** 
+> 1= connection point for tail panel (brazed section) 2= Bead in side panel at rear
+>
+> Dimension （A)= approx. 20 mm
+>
+> ![](images/d3af001b706d1e72d480d84d98fa5a4940204c1da93f3e766c7813f47c383a05.webp)
+>
+> Remove tail panel.
+>
+> Roughly cut out reversing light section of tail panel withair cutter.
+>
+> Caution! Disconnect tail panel (1)infront ofjoint.
+>
+> 1= Joint (brazing point)   
+> 2= Bead in side panel at rear
+>
+> Dimension （A)=approx. 20 mm
+>
+> ![](images/ffc46bc345cc3367e3db3ef6378aae751c5044f6f2d545201ef731a2dd18d313.webp)
+>
+> Remove scrap metal.
+>
+> Note:   
+> To make the illustration clearer, shown with   
+> tail panel removed:
+>
+> clean welding surfaces and align.
+>
+> Roughly chisel off tail panel at outside joint with trunk floor.
+>
+> ![](images/4c3c6d0bc4bce1ea97745ce02ec6cf70e702d6acda7bdee80a29a2c0283e2d9b.webp)
+>
+> Clean welding surfaces (new part) and coat with zino dust paint:
+>
+> -joint in trunk floor   
+> wheel arch extension   
+> lighting cluster   
+> internal reinforcements on trunk floor
 
 
 ### 41-34/3
-`bmw_e31_am_en_e85e42bc` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:831 | doc_type:owners_manual
 
 Adjust tail panel to fit
 
@@ -38903,7 +37744,6 @@ Ensuro that tail panel is correctly seated on light cluster!
 
 
 ### 41-34/4
-`bmw_e31_am_en_4b2cbe86` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:832 | doc_type:owners_manual
 
 ![](images/06330f719216689a3a719edc7f94138c1ae55f8f0d3d83fe59fc924971060652.webp)  
 Grind welded and brazed surlaces smooth.
@@ -38923,7 +37763,6 @@ Note: Tall panel was removed in picture for better llustratlon; vlew from trunk.
 
 
 ### 41-35/1
-`bmw_e31_am_en_173c522b` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:833 | doc_type:owners_manual
 
 ![](images/e5332fd88d4fd2ab27f0bc091acc821b7d06bf122b8749289f0787dc849d349d.webp)
 
@@ -38965,7 +37804,6 @@ Drill out welding points on side window and roof frame.
 
 
 ### 41-35/2
-`bmw_e31_am_en_3015e8e4` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:834 | doc_type:owners_manual
 
 ![](images/deca6b7cf5eef349b949c8709798cbe31213b8e805037c1f58a9ba272f0594cd.webp)
 
@@ -39024,7 +37862,6 @@ Risk of distortion!
 
 
 ### Refer to BMW Parts Service
-`bmw_e31_am_en_efe77c29` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:835 | doc_type:owners_manual
 
 Braze link between lower section of rear window frame and side panel.
 
@@ -39050,7 +37887,6 @@ Tinout connection on C pillar and grind down.
 
 
 ### 41-35/5
-`bmw_e31_am_en_317abf5a` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:836 | doc_type:owners_manual
 
 ![](images/428e25effa6a31f633e04d03a64ea77cd0743c51f89acac50574afd1a4f5db5e.webp)
 
@@ -39080,7 +37916,6 @@ Trunk ld
 
 
 ### 41-35/6
-`bmw_e31_am_en_a4110769` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:837 | doc_type:owners_manual
 
 Clean mating surdaces.
 
@@ -39113,7 +37948,6 @@ Remove undercoating on edge of wheel house.
 
 
 ### 41-35/7
-`bmw_e31_am_en_d8f53f4b` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:838 | doc_type:owners_manual
 
 Clean shouldered surfaces for partial replacement (slde panel).
 
@@ -39155,7 +37989,6 @@ Plug weld reinforcement on partial replacement section at the side panel mating 
 
 
 ### 41-35/8
-`bmw_e31_am_en_725cef3a` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:839 | doc_type:owners_manual
 
 ![](images/369ed4f99bff5e64dbd662bbc2762e9f1540d55d2c24cd1d10be6aab4502f5e4.webp)
 
@@ -39190,7 +38023,6 @@ Smooth down tinned areas.
 
 
 ### 41-35/9
-`bmw_e31_am_en_14dbf11f` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:840 | doc_type:owners_manual
 
 4135337 Replacing rear left side panel (partial replacement to wheelarch)
 
@@ -39202,19 +38034,16 @@ Bodyrepair instructions see 41-0/1.
 
 
 ### Removeor detach the following parts:
-`bmw_e31_am_en_ced63a78` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:841 | doc_type:owners_manual
 
 Trunk lid Bumper Cover for trunk floor Battery Tail light,left Gasket for luggage compartment Section of wiring harness -Lower hinge Back wheel
 
 
 ### 41-35/10
-`bmw_e31_am_en_4c2acd98` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:842 | doc_type:owners_manual
 
 ![](images/c930776159184c4206d815ab1cdb1aad3498832a225f3fe98743e1e6e79b3321.webp)
 
 
 ### Clean mating surfaces.
-`bmw_e31_am_en_ef4da840` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:843 | doc_type:owners_manual
 
 Important! 1=Tall panel mating surface (brazed) 2= Bead In rear slde panel
 
@@ -39249,7 +38078,6 @@ Important! Don't cut through reinforcements.
 
 
 ### 41-35/11
-`bmw_e31_am_en_5b5f3df5` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:844 | doc_type:owners_manual
 
 ![](images/838ae4df58bc0c8e8cebc7dbf8207459665a26d16c1d24a8e82e55c6eb8b0ca8.webp)
 
@@ -39286,7 +38114,6 @@ Produce reinforcement plate for lower joint on water gutter and weld into place.
 
 
 ### 41-35/12
-`bmw_e31_am_en_167a9c89` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:845 | doc_type:owners_manual
 
 ![](images/4e96a1589b0db1f81c6d921b66d405ad99e737856c08a8d376840a3bd7f58ba9.webp)
 
@@ -39306,7 +38133,6 @@ Spot weld side and bottom of water draln connectlon. Place welding spots s0 clos
 
 
 ### Important!
-`bmw_e31_am_en_17bf543f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:846 | doc_type:owners_manual
 
 Protect rearwindow zone agalnst excessive heat, as rearwindow could then leak.
 
@@ -39318,7 +38144,6 @@ FitIn new part, checking for unlform joint width.
 
 
 ### 41-35/13
-`bmw_e31_am_en_2c8ddeb4` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:847 | doc_type:owners_manual
 
 ![](images/8648bfb0787f274dfb6e23523c6ffab5d4e2aaed19c70a022f320c86e1e64b19.webp)
 
@@ -39375,7 +38200,6 @@ Trunklld
 
 
 ### 41-35/15
-`bmw_e31_am_en_f402cd36` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:848 | doc_type:owners_manual
 
 ![](images/2ea4421e3901870f8ce97d3a069f812cf3978ac522ac99dced605a5b3ba42554.webp)
 
@@ -39422,7 +38246,6 @@ Dlstance A= approx.30 mm (1.181") Dlstance B= approx. 85 mm (3.346")
 
 
 ### 41-35/16
-`bmw_e31_am_en_32f0a791` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:849 | doc_type:owners_manual
 
 ![](images/8e9ef33aea67e6c1af22a27db6027f8d7b1bc1184b777a472e4e57d89895bae1.webp)
 
@@ -39439,34 +38262,29 @@ Offset remaining side panel from point 1 10 point 2 and disconnect at edges.
 Cut through side panel at marked location in water gutter.
 
 
-### Caution!
-`bmw_e31_am_en_be84330a` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:850 | doc_type:owners_manual
-
-Do not cut through sheet metal reinlorcements.
-
-Mark out joint on new part for partial replacement of side panel and cut to shape roughly.
-
-Caution!   
-Note offset dimension on remainingside   
-panel!
-
-Location o reinforcement plates in water gutter.
+> ⚠️ **Внимание:** 
+> Do not cut through sheet metal reinlorcements.
+>
+> Mark out joint on new part for partial replacement of side panel and cut to shape roughly.
+>
+> Caution!   
+> Note offset dimension on remainingside   
+> panel!
+>
+> Location o reinforcement plates in water gutter.
 
 
-### Caution!
-`bmw_e31_am_en_82b07f42` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:851 | doc_type:owners_manual
-
-Do not cut through sheet metal reinforcements.
-
-![](images/93c11acc4b12dbccee3d6685e1f5c190c3072cbf895a71b2cb5cbba5b7312b55.webp)
-
-Produce a side reinforcement plate for connection to water gutter and drill out holes for plug welding.
-
-Dimension (A)= approx. 30mm Dimension (B)= approx.50mm
+> ⚠️ **Внимание:** 
+> Do not cut through sheet metal reinforcements.
+>
+> ![](images/93c11acc4b12dbccee3d6685e1f5c190c3072cbf895a71b2cb5cbba5b7312b55.webp)
+>
+> Produce a side reinforcement plate for connection to water gutter and drill out holes for plug welding.
+>
+> Dimension (A)= approx. 30mm Dimension (B)= approx.50mm
 
 
 ### 41-35/17
-`bmw_e31_am_en_f6c665a1` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:852 | doc_type:owners_manual
 
 Fit in and plug weld relnforcement. Make sure of sufficlent overlapping 1 at least 15mm (0.591")each.
 
@@ -39507,7 +38325,6 @@ Spot weld side and bottom of water draln connection,placing spots So close toget
 
 
 ### Importan!!
-`bmw_e31_am_en_ae2b258f` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:853 | doc_type:owners_manual
 
 Protect rear window zone against excessive heat, as otherwise the rear window could leak.
 
@@ -39525,7 +38342,6 @@ Butt weld along edge of wheel house.
 
 
 ### 41-35/19
-`bmw_e31_am_en_39263670` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:854 | doc_type:owners_manual
 
 ![](images/428bf91f4bf80524aa7e0418ffa8e29cffdde04c6196993935f1fc8e97345b85.webp)
 
@@ -39555,13 +38371,11 @@ Braze water draln and lamp holder transitlon.
 
 
 ### 4151 004 Adjusting leftor rightfront door
-`bmw_e31_am_en_ab931c96` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:855 | doc_type:owners_manual
 
 Vehicle must be standing on level ground.
 
 
 ### 4151 101 Replacing left orright front door
-`bmw_e31_am_en_b6a315c3` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:856 | doc_type:owners_manual
 
 Remove pin for arrester hook   
 Remove and disconnect cable connector   
@@ -39583,24 +38397,21 @@ Doorstop
 Rubber seals
 
 
-### Note:
-`bmw_e31_am_en_cf8fd921` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:857 | doc_type:owners_manual
-
-Only perform adjustment operation onone completely mounted door.   
-The weight o1 the equipment means that it has a different mounting location than i would without equipment.   
-Once the door has been adjusted, check the adjustment of the side windows.
-
-After conversion,fit door and align carefully, see 4151 004.
-
-Door joints5.5mm.5mm
-
-Permitted parallelity deviation 1 mm. Level offset of relevant body section, closing torear is max P mm towards inside.
-
-![](images/468978da30abcc6e1a8ecd1a6993b40010f502374bbf6f65dd099d288d9a5831.webp)
+> ℹ️ **Примечание:** 
+> Only perform adjustment operation onone completely mounted door.   
+> The weight o1 the equipment means that it has a different mounting location than i would without equipment.   
+> Once the door has been adjusted, check the adjustment of the side windows.
+>
+> After conversion,fit door and align carefully, see 4151 004.
+>
+> Door joints5.5mm.5mm
+>
+> Permitted parallelity deviation 1 mm. Level offset of relevant body section, closing torear is max P mm towards inside.
+>
+> ![](images/468978da30abcc6e1a8ecd1a6993b40010f502374bbf6f65dd099d288d9a5831.webp)
 
 
 ### 4161 014 Adjusting hoodlid
-`bmw_e31_am_en_33f10e55` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:858 | doc_type:owners_manual
 
 Note:   
 The lids and doors are aligned in the body shell and bolted into place.   
@@ -39609,7 +38420,6 @@ These must be touched up in the appropriate color of paint.
 
 
 ### Open hood lid.
-`bmw_e31_am_en_cf0b5a0a` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:859 | doc_type:owners_manual
 
 Unfasten left and right screws (1)in such a way that the hood lid can bemoved.
 
@@ -39670,7 +38480,6 @@ Remove alr guide forradiator and unclip Bowden cable for right hood lid lock.
 
 
 ### 41-61/3
-`bmw_e31_am_en_b4369f16` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:860 | doc_type:owners_manual
 
 ![](images/5a98ba510c697b2d1e540fa6d424600f73fea5af520b798857f5fbc310125658.webp)
 
@@ -39702,26 +38511,23 @@ The hood lid must not make contact with the side panels and the headlight pod co
 13. Slowly close hood lid. Check setting of hood lid and repeat procedure i necessary.
 
 
-### Caution!
-`bmw_e31_am_en_fe763f4e` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:861 | doc_type:owners_manual
-
-Check that hood lid locks have engaged correctly on arrester hook and readjust if necessary.
-
-14. Clip right Bowden cable lor hood lid lock into place. Install air guide for radiator.
-
-Check that air guide is correctly seated in groove (1）.
-
-16. Close hood lid. Check that hood lid is in correct position and is secured correctly.
-
-17. Check position of headlight pod covers relative to hood lid and adjust if necessary, see 63 12 450.
-
-15. Install clips and twist to close.
-
-![](images/9b561a2cc6ba9f8390db14b78af6231e67a98b92055dfc51ee2bc9eea4fa34df.webp)
+> ⚠️ **Внимание:** 
+> Check that hood lid locks have engaged correctly on arrester hook and readjust if necessary.
+>
+> 14. Clip right Bowden cable lor hood lid lock into place. Install air guide for radiator.
+>
+> Check that air guide is correctly seated in groove (1）.
+>
+> 16. Close hood lid. Check that hood lid is in correct position and is secured correctly.
+>
+> 17. Check position of headlight pod covers relative to hood lid and adjust if necessary, see 63 12 450.
+>
+> 15. Install clips and twist to close.
+>
+> ![](images/9b561a2cc6ba9f8390db14b78af6231e67a98b92055dfc51ee2bc9eea4fa34df.webp)
 
 
 ### 51 Body equipment
-`bmw_e31_am_en_f54eba16` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:862 | doc_type:owners_manual
 
 510. ... Instructions on the repairof plasticcomponents 51- 0/1   
 5111000 Bumper,complete frontsection remove and install …..…· ....51- 11/1   
@@ -39773,7 +38579,6 @@ Vibrationdamper(impact absorber)for bumper-check \* ...\*\* . ....51- 12/3
 
 
 ### 51-0/1
-`bmw_e31_am_en_feaee48d` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:863 | doc_type:owners_manual
 
 The conditions mentloned belowlor plastic part repalrs conform with leglslation In Germany. Always conform wlth pertinent legislation in other countrles.
 
@@ -39818,7 +38623,6 @@ Source of Supply: BMW Parts
 
 
 ### Safety Precautions:
-`bmw_e31_am_en_9bb0bd08` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:864 | doc_type:owners_manual
 
 Extract sanding abraslon.   
 Wearmask and gloves while grinding.   
@@ -39830,7 +38634,6 @@ Don't Inhale vapors.
 
 
 ### Flrst Ald:
-`bmw_e31_am_en_2cc826d9` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:865 | doc_type:owners_manual
 
 Take off dirty clothes Immedlately. I dust has gotten in eyes, rinse out with waler thoroughly and go to a physlclan.   
 If a large amount ol vapors IsInhaled, go outdoors Into the fresh alr and,If necessary. vislt aphysiclan.
@@ -39850,7 +38653,6 @@ Single components of the repalr material must be dlsposed as speclal reluse. Aft
 
 
 ### PAOCEDURES:
-`bmw_e31_am_en_6fad1d5f` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:866 | doc_type:owners_manual
 
 Deep damage ■ points ...11.
 
@@ -39891,7 +38693,6 @@ Paste aluminum adheslve tape over the damaged surtace onthe front. 1= Damaged pl
 
 
 ### 51-0/3
-`bmw_e31_am_en_cc2fc67f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:867 | doc_type:owners_manual
 
 ![](images/faf9e14b0a6d05cb50e97cd3afbf469924f5158c4e865db175478b550b51fa01.webp)
 
@@ -39934,13 +38735,11 @@ Important! Itisabsolutely necessary to use the specified graln slze sanding mate
 
 
 ### 51-11/1
-`bmw_e31_am_en_9062859b` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:868 | doc_type:owners_manual
 
 ![](images/dd3673f6397ac51abf619c5f9dbf03eb74fad2449cf09062b8216dd757a6ab1f.webp)
 
 
 ### 5111 000 Removing and installing complete front bumper
-`bmw_e31_am_en_80e7efc0` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:869 | doc_type:owners_manual
 
 ![](images/f338035e2877bfe197c3c04df16cb4afcfa2100f7248f71e5a35a59c69debfb7.webp)
 
@@ -39963,7 +38762,6 @@ Pulleft and right radiatog grill panels forwards to unclip.
 
 
 ### 51-11/2
-`bmw_e31_am_en_f6da3eb4` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:870 | doc_type:owners_manual
 
 ![](images/7172264330e72d41470c631647e9cbf272e110330590270a02ce6ac939807d77.webp)
 
@@ -39984,7 +38782,6 @@ Headlight was removed for thls picture.
 
 
 ### Unscrew screws.
-`bmw_e31_am_en_ad469f43` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:871 | doc_type:owners_manual
 
 Installation:   
 Lock screws with Loctite No.270\*\*. Tightening torque\*.
@@ -40001,13 +38798,11 @@ Refer to Speclficatlons Source o1 Supply: BMW Parts
 
 
 ### 51-11/3
-`bmw_e31_am_en_ab33638f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:872 | doc_type:owners_manual
 
 ![](images/c8b607232062e47a96dff14d84431047a4d90b2495e39eb0e8e034d27061885c.webp)
 
 
 ### 5111005 DISASSEMBLING AND ASSEMBLING FRONT BUMPER
-`bmw_e31_am_en_6f536704` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:873 | doc_type:owners_manual
 
 Important! There wll be residual water In the headllght cleaners whlch ls ejected.
 
@@ -40027,7 +38822,6 @@ Loosen hose retainers and remove headlight cleaner nozzies together with hoses.
 
 
 ### Unscrew cover carrler.
-`bmw_e31_am_en_4dc46de7` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:874 | doc_type:owners_manual
 
 Installation:   
 Adjust cover height.   
@@ -40041,7 +38835,6 @@ Remove license plale holder.
 
 
 ### 51-11/4
-`bmw_e31_am_en_ef33406c` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:875 | doc_type:owners_manual
 
 ![](images/27584fab16b490a2e232aceb59ba15fa1f058c7e7065481a569abf50977a8347.webp)
 
@@ -40086,7 +38879,6 @@ Lower Bumper Section: Loosen left and right cllps(1). Press down on leftand righ
 
 
 ### 51-11/6
-`bmw_e31_am_en_c76fbd20` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:876 | doc_type:owners_manual
 
 5111794 REPLACING ONE IMPACTABSORBER FOR FRONTBUMPER1 Bumper Removed 二
 
@@ -40100,7 +38892,6 @@ Installation: Tightening torque\*.
 
 
 ### 5111 CHECKING IMPACT ABSOABERS FOA BUMPER
-`bmw_e31_am_en_9903ec76` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:877 | doc_type:owners_manual
 
 Remove impact absorbers for bumper refer to'51 11 794.
 
@@ -40110,13 +38901,11 @@ The Impact absorber must be replaced 1 distance (A) Is less than the speclfled v
 
 
 ### 51-12/1
-`bmw_e31_am_en_9d3ff7c7` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:878 | doc_type:owners_manual
 
 ![](images/6d2de46cad73564d146016879318b6b644fc7ee2d97e90ecaa980a4cba66bb87.webp)
 
 
 ### 51 12000 REMOVING AND INSTALLING REAR BUMPER ASSEMBLY
-`bmw_e31_am_en_ca185c16` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:879 | doc_type:owners_manual
 
 Unscrew screws In left and rlght wheel houses and take otff panels.
 
@@ -40136,13 +38925,11 @@ Installation: Tightening torque'.
 
 
 ### 51-12/2
-`bmw_e31_am_en_df6dc407` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:880 | doc_type:owners_manual
 
 ![](images/3d8be56ec6658a1f0dc16bb11995e3d88e14712f817f5704d8cd44879f565152.webp)
 
 
 ### 51 12005 DISASSEMBLING AND AS-SEMBLING REAR BUMPER
-`bmw_e31_am_en_5a832ce4` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:881 | doc_type:owners_manual
 
 Remove rear bumper ■ see 51 12000.   
 Pull ott rubberguard.
@@ -40163,7 +38950,6 @@ necessary = see51 12
 
 
 ### 51-12/3
-`bmw_e31_am_en_5bfc36e3` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:882 | doc_type:owners_manual
 
 51 12 742 REPLACING ONEIMPACT ABSORBER FOR REAR BUMPER Bumper Removed 1
 
@@ -40190,7 +38976,6 @@ Impact absorber must be replaced, 1 dlstance (A)Is less than that specifled
 
 
 ### 51 13301 REMOVING AND INSTALLINGLEFTOR RIGHT ROOFSTRIP
-`bmw_e31_am_en_617946f4` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:883 | doc_type:owners_manual
 
 Uncliproof strip from above.
 
@@ -40198,19 +38983,16 @@ Uncliproof strip from above.
 
 
 ### 5113303 REMOVING AND INSTALLINGCOVER STRIP INLEFT OARIGHT SIDE WINDOWOPENING
-`bmw_e31_am_en_1b5c130d` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:884 | doc_type:owners_manual
 
 Pull cover strip carefully from Iront to rear off of the sheet metal lold.
 
 
 ### 51-16/1
-`bmw_e31_am_en_dec6cce7` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:885 | doc_type:owners_manual
 
 ![](images/ed8d65f4fba006909d3c8d5e6f393d5e716a60b8812f83812d9a904e011035f9.webp)
 
 
 ### 51 16026 REPLACING GLASS FOR MIRROR
-`bmw_e31_am_en_32ba178e` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:886 | doc_type:owners_manual
 
 Remove front door trlm panel = see 5141 000.   
 Disconnect plug.
@@ -40223,7 +39005,6 @@ Unclip mlrror glass wltha wood wedge. Disconnect plug and take off mirror glass.
 
 
 ### Unscrew screws.
-`bmw_e31_am_en_bcd02c1d` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:887 | doc_type:owners_manual
 
 Installation: Tightening torque'.
 
@@ -40233,19 +39014,16 @@ Installation: Insert mlrror glass wlth retalning clips on the tabs and clip in g
 
 
 ### 51-16/2
-`bmw_e31_am_en_dc9073a1` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:888 | doc_type:owners_manual
 
 ![](images/49cd5c6437efeb60778527b1313b3af042879055b829223c20ee23b474703a92.webp)
 
 
 ### 51 16060 Removingand installing or replacing insiderear-view mirror
-`bmw_e31_am_en_60635aff` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:889 | doc_type:owners_manual
 
 Pull mirror backwards off mirror mount.
 
 
 ### 51 16200 Removing and installing oddments tray
-`bmw_e31_am_en_bcc0cda1` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:890 | doc_type:owners_manual
 
 0 Remove finisher from centre console: Remove radio, refer to 65 11 030.
 
@@ -40261,7 +39039,6 @@ Unclip cover and pull upwards.
 
 
 ### Installation:
-`bmw_e31_am_en_be2bb344` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:891 | doc_type:owners_manual
 
 1 Fit mirror base to mirror mount, first turning through approx.45°.   
 2. Rotate mirror base until it locates on the mirror mount.
@@ -40275,7 +39052,6 @@ Unfasten connector.
 
 
 ### 51-16/3
-`bmw_e31_am_en_31932222` | e31_am | pdf_manual | tier:2 | lang:en | layer:infotainment | p:892 | doc_type:owners_manual
 
 ![](images/c21476ad11d3a405c68b5656833b3625dd60640fcbec8842fb5af58c47901633.webp)
 
@@ -40310,7 +39086,6 @@ Unfasten screws.
 
 
 ### 51-16/4
-`bmw_e31_am_en_d403b591` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:893 | doc_type:owners_manual
 
 ![](images/2d540806fad1e31c052984acfb33e1ae56464b1b729ef7d9b6b74c4d8b4838a1.webp)
 
@@ -40320,7 +39095,6 @@ Twist clips,unfasten lower instrument panel trim and remove.
 
 
 ### 51 16203 Removingand installing rear oddmentstray
-`bmw_e31_am_en_2704f432` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:894 | doc_type:owners_manual
 
 Remove first-aid kit. Unfasten screws and carefully remove tray
 
@@ -40330,7 +39104,6 @@ Unfasten screws on left and right sides and remove oddments tray (centre console
 
 
 ### 51-16/5
-`bmw_e31_am_en_d28e32c4` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:895 | doc_type:owners_manual
 
 ![](images/96d775773b498ddde46f8146fef030780e12a868811e8b0ab4a17584c8f7dce8.webp)
 
@@ -40359,7 +39132,6 @@ Lock glovebox with main key; lid must be locked. Unlock glovebox; lid must be un
 
 
 ### 51 16362 Removing anid installing or replacing upper right glovebox
-`bmw_e31_am_en_7038060f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:896 | doc_type:owners_manual
 
 Open cover for upper and lower glovebox.   
 Unlasten screw and remove linishor.
@@ -40376,7 +39148,6 @@ Unfasten screws and nuts. Lift out glovebox and unfasten connectar
 
 
 ### 51 21 090 REMOVING AND INSTALLINGLOCK OFLEFT OR RIGHTFRONT DOOR
-`bmw_e31_am_en_0f5f57af` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:897 | doc_type:owners_manual
 
 Ralse slde window. Remove door trim panel = see 5141 000.
 
@@ -40397,14 +39168,12 @@ InstaNation: Tlghtening torque\*.
 
 
 ### Dlsconnect plug.
-`bmw_e31_am_en_b32db9f0` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:898 | doc_type:owners_manual
 
 Installation:   
 Check for correct seating of plug −a loud "cllck" must be heard for engagment.
 
 
 ### 5121140 REPLACING COMPLETE LOCKCYLINDER OFLEFTOR RIGHTFRONT DOOA
-`bmw_e31_am_en_446b262c` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:899 | doc_type:owners_manual
 
 Note:
 
@@ -40436,7 +39205,6 @@ Press key lock (12) in using a polnted Item, press lock cylinderfirmly into door
 
 
 ### 5121 170 Removing and installingoutside handle on left or right frontdoor
-`bmw_e31_am_en_dd2e3ee7` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:900 | doc_type:owners_manual
 
 Close side window. Remove door trim, refer to5141000
 
@@ -40463,7 +39231,6 @@ Remove plugs.
 
 
 ### 51-31 Instructions on cementing windows
-`bmw_e31_am_en_22f78e8a` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:901 | doc_type:owners_manual
 
 Front and rear windows are cemented to body (positive connection). This improves the torsional strength of the vehicle. Conformance with the following procedures is necessary to ensure windows are correctly cemented
 
@@ -40475,7 +39242,6 @@ When using Sika Tack 1 Ultrafast (hot treatment). the cement must be heated in t
 
 
 ### Removal:
-`bmw_e31_am_en_70befc19` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:902 | doc_type:owners_manual
 
 Cement bead is cut through using an electric cutter\* with oscillating blade\*. as far as possible without damaging paint on the body aperture. When cutting out the window, wear protective goggles and gloves. Damaged paint finish in body openings must be touched up with BMWEP prime filler\*. Large areas of damage must be ground down to base metal and coated with BMW EP prime filler (2K) (layer thickness 30 1r1 40 μm).If a complete buildup of paint is required in the visible area, masking must be stripped off the primed cement flange before application of top coat.
 
@@ -40531,14 +39297,12 @@ All occupants must ride with seatbelts fastened for a specified time after the w
 
 
 ### 5131 CEMENTED WINDSHIELD SURVEY
-`bmw_e31_am_en_3a6e72fa` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:903 | doc_type:owners_manual
 
 = Windshleld   
 23456 Seal Body flange Cement bead Root liner A-pillar trim panel
 
 
 ### 5131 000 REMOVING AND INSTALLING WINDSHIELD
-`bmw_e31_am_en_17e77adc` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:904 | doc_type:owners_manual
 
 Cover bumper (lop)and headlight lids with covers or slde panel/lender guards to prevent damageto the palnt finish.
 
@@ -40557,7 +39321,6 @@ installation: Tlghtening torque\*.
 
 
 ### Installation:
-`bmw_e31_am_en_5cb87061` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:905 | doc_type:owners_manual
 
 1 Mount mirror foot turned about45' on the mirror base.   
 2. Turnmirror foot until it engages on the mirror base.
@@ -40652,7 +39415,6 @@ Source of Supply: BMW Parts
 
 
 ### Shape of Cement Bead:
-`bmw_e31_am_en_59d2483b` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:906 | doc_type:owners_manual
 
 Dlstance A 7±1mm Dlstance B 1mm Distance C 12±2mm
 
@@ -40691,7 +39453,6 @@ Assemble car.
 
 
 ### 5131 REAR WINDOW CEMENTING SURVEY
-`bmw_e31_am_en_60859443` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:907 | doc_type:owners_manual
 
 1= Rubber frame seal   
 2= Rear window   
@@ -40702,7 +39463,6 @@ Assemble car.
 
 
 ### 5131200 REMOVING AND INSTALLING REAR WINDOW
-`bmw_e31_am_en_5d8cce86` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:908 | doc_type:owners_manual
 
 Unclip plate for C-pillar.   
 Disconnect plugs on rear window defogger and window antenna.
@@ -40730,7 +39490,6 @@ Ifnecessary, resharpen knife with the machine running.
 
 
 ### 51-31/9
-`bmw_e31_am_en_7dc9e2d5` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:909 | doc_type:owners_manual
 
 ![](images/54079f88d9b6b7972aba480b0087dd92071ad5f2c372597ac23231911976ec68.webp)
 
@@ -40769,7 +39528,6 @@ H complete paint bulld-up is necessary in a visible zone,cement must beremoved f
 
 
 ### 51-31/10
-`bmw_e31_am_en_1eff031c` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:910 | doc_type:owners_manual
 
 ![](images/b2b55e86d6d4baf13aacbeef3fa9e617aad5b967b21926127c6980ebb34832de.webp)
 
@@ -40799,7 +39557,6 @@ Ifappllcable, produce a trlal bead first. Cartridge must be held perpendlcular t
 
 
 ### 51-31/11
-`bmw_e31_am_en_0d197369` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:911 | doc_type:owners_manual
 
 ![](images/e49691f30644b9a7bddc6505bf27ac4360b8bf71b5b643701902e8095052134d.webp)
 
@@ -40824,7 +39581,6 @@ Length: 300mm Widih: 50mm
 
 
 ### 1131 # REPAIRING LAMINATED SAFETY GLASS WINDSHIELDS (CLEAR OR TINT_ ED GLASS) DAMAGED BY FLYING STONES
-`bmw_e31_am_en_edc76287` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:912 | doc_type:owners_manual
 
 These Instructions aremeant for specialists and assume thelrsklll. consclentiousness ndense ofresponsiblityTheinstructions arealso limited to factory approved repalringmaterials repalring methods and tips lomake thework easler. Only general procedres re desribed In ihe Instructlons. Scope ol workmust be adapted to the actual demage suatlon. Repalringprocedures are an economlcal solutlon,sothatoptical deficencles cannot beexcluded. Consequently therepalr should only be carrled out when explicitly ordered by the customer.
 
@@ -40832,7 +39588,6 @@ The condhlons Hsied below for repalring laminated safety glass windshields confo
 
 
 ### Importanl
-`bmw_e31_am_en_60d4321a` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:913 | doc_type:owners_manual
 
 1 Only damage on the outslde surface ol the wlndshleld may be repalred. Inslde window window surface and the plastic sheet between Inslde and outslde glass panes musl not b damaged at all.   
 2. Repairing should take place as soon as posslble alter the window had been damaged. Molsture and/or dirt must not have been allowed to penetrate Into the damaged spot.   
@@ -40859,7 +39614,6 @@ Position tool holder （4） on outslde of the wlndow Insuch 8 manner that openi
 
 
 ### 51-31/14
-`bmw_e31_am_en_68ab5f70` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:914 | doc_type:owners_manual
 
 Open bottle of resin and pour about 1/3rd ol lts contents Into the cylinder.
 
@@ -40893,7 +39647,6 @@ If this has not yet removed all of thealr, heat the inside of the window with a 
 
 
 ### 51-31/15
-`bmw_e31_am_en_47604fdb` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:915 | doc_type:owners_manual
 
 Loosen knuried hoad screw(7）,swing   
 head (6) aslde and observe the repaired spot from above and In the concave mirror from various angles.   
@@ -40922,7 +39675,6 @@ Move the razor blade over the clear plastic sheet carefully to have excessive re
 
 
 ### 51-31/16
-`bmw_e31_am_en_459106de` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:916 | doc_type:owners_manual
 
 ![](images/3805788590fc0def9ac7f246e1b3f081dabb443345b2e90c5b87a0763678b723.webp)
 
@@ -40936,7 +39688,6 @@ Pollsh the repalred spot with a cloth not losing lInt and apolish until the surf
 
 
 ### 5132120 REMOVING AND INSTALLINGFRONT OR REAR WINDOWGUIDE RAILS IN LEFT ORRIGHT FRONT DOOR
-`bmw_e31_am_en_984138ff` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:917 | doc_type:owners_manual
 
 Remove door wlndow = see 51 32170. Remove power window regulator = see 5133 000.
 
@@ -40946,7 +39697,6 @@ Adjust door window 一 see 51 32154.
 
 
 ### 5132 154 ADJUSTING FRONT DOOR WINDOW
-`bmw_e31_am_en_467fd094` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:918 | doc_type:owners_manual
 
 Requirements:   
 Dooraligned correctly 一 see Group 41. Seals In good conditlon and mounted correctly.
@@ -40971,7 +39721,6 @@ Dlsconnect ratchet strap and plug.
 
 
 ### 51-32/2
-`bmw_e31_am_en_f9de6536` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:919 | doc_type:owners_manual
 
 ![](images/ea57f7e16d5cadc6028aaff7a202d2be46a91eec5de621f678b25ab5d2779fc4.webp)
 
@@ -40999,7 +39748,6 @@ Screw helght slops （4） In up to heightof the edge.
 
 
 ### 51-32/3
-`bmw_e31_am_en_ccb81f74` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:920 | doc_type:owners_manual
 
 ![](images/5d878036ceadc49e16f5abd2a6c2c4c2783277e3e5668aa5ed84e4c41a3810f9.webp)
 
@@ -41031,7 +39779,6 @@ Reler io Speclflcatlons
 
 
 ### 51-32/4
-`bmw_e31_am_en_2e2059b6` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:921 | doc_type:owners_manual
 
 Shut the door.   
 Lower the door window about 25 mm and apply Special Tool 51 3 080 onlhe window (submerslon depth). Correcting Submerged Depth (F):   
@@ -41063,7 +39810,6 @@ Operate door opener (striker opens).
 
 
 ### 51-32/5
-`bmw_e31_am_en_db8af919` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:922 | doc_type:owners_manual
 
 Shut the door and ralse the door window. Loosen screw and press maln stop up to the stopping posltion.   
 Tlghten screw.
@@ -41098,13 +39844,11 @@ Reassemble door.
 
 
 ### 51-32/6
-`bmw_e31_am_en_46844bb7` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:923 | doc_type:owners_manual
 
 ![](images/53e1e237a7be9383610835bbb2e1b373eddc836418a8897e3d113ddb97c602a5.webp)
 
 
 ### 5132 170 REMOVING AND INSTALLINGLEFTOR RIGHT FRONT DOORWINDOW
-`bmw_e31_am_en_93c32b2b` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:924 | doc_type:owners_manual
 
 Remove door trim panel # refer to 5141 000.   
 Unscrew scrows.   
@@ -41132,7 +39876,6 @@ LIft window recess of Irom above using Speclal Tool 51 3070.
 
 
 ### Lower the door window.
-`bmw_e31_am_en_59f515d2` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:925 | doc_type:owners_manual
 
 Caution!   
 Disconnect the plug on the power wlndow motor In the Interest of safety danger of Injury).
@@ -41141,7 +39884,6 @@ Disconnect the plug on the power wlndow motor In the Interest of safety danger o
 
 
 ### 51-32/7
-`bmw_e31_am_en_18b3cbc8` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:926 | doc_type:owners_manual
 
 Hold tight on door window glass and unscrew screws. Liftdoor window out from above.
 
@@ -41152,13 +39894,11 @@ Insert door window and Install screws. Press roller guldes up Into the gulde tal
 
 
 ### 51-33/1
-`bmw_e31_am_en_2aec7c86` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:927 | doc_type:owners_manual
 
 ![](images/aa1f287c87dab7cc3f6eb8e3d726ad813be3f30e5c4af22189a9d9f2e29c6297.webp)
 
 
 ### 5133000 REMOVING AND INSTALLING POWER WINDOW REGULATOR INFRONT DOOR
-`bmw_e31_am_en_6a85e68e` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:928 | doc_type:owners_manual
 
 Remove door trim panel -reler 1o 51 41 000.   
 Unscrew screws.   
@@ -41169,7 +39909,6 @@ Remove loudspeaker.
 
 
 ### Pull coveroff.
-`bmw_e31_am_en_d89c5f31` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:929 | doc_type:owners_manual
 
 Caution! Disconnect the plug on the power window motor In the Interest of safety.
 
@@ -41203,7 +39942,6 @@ In case of a window regulator rlveted to the door panel, rivets must be ground o
 
 
 ### 5133020 REMOVING AND INSTALLING MOTOR FOR POWER WINDOW REGULATOR IN FRONT DOOR
-`bmw_e31_am_en_1b3b38f3` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:930 | doc_type:owners_manual
 
 Remove power window regulator = see 51 33 000.
 
@@ -41217,7 +39955,6 @@ Installation: Check Installed direction of spacers.
 
 
 ### 5137000 REMOVING AND INSTALLINGLEFTOR RIGHT REAR POWERWINDOW REGULATOR
-`bmw_e31_am_en_d2bd75a7` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:931 | doc_type:owners_manual
 
 Installation: Adjust side window relerto 5137154.
 
@@ -41225,7 +39962,6 @@ Remove rear slde window refer to 51 37171. Run window regulator up completely.
 
 
 ### 5137 020 REMOVING AND INSTALLING MOTOR FOR LEFT OR AIGHT REAR POWER WINDOW REGULATOR
-`bmw_e31_am_en_911649eb` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:932 | doc_type:owners_manual
 
 Remove rearpower window regulator reler to 5137000.
 
@@ -41253,13 +39989,11 @@ Lift window regulator out Irom above.
 
 
 ### 51-37/2
-`bmw_e31_am_en_4ee3239d` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:933 | doc_type:owners_manual
 
 ![](images/a4fe5d6a59e584764dbbfbead4e7611cfb0f30aade0470c362eb36aad7a89757.webp)
 
 
 ### 5137 154 ADJUSTING LEFT OR RIGHTREAR SIDE WINDOW (WITHWINDOW REGULATOR)
-`bmw_e31_am_en_1e5acff4` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:934 | doc_type:owners_manual
 
 Loosen screw and push up hook completely.
 
@@ -41288,7 +40022,6 @@ Mount outslde recess seal and connecting bracket. Adjust front stopto maximum tr
 
 
 ### 51-37/3
-`bmw_e31_am_en_7a830d79` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:935 | doc_type:owners_manual
 
 ![](images/ad7231102a6b0d187516f4b08149bb4f3d263bed382a3eed2091a6ee0c7d6f9f.webp)
 
@@ -41301,7 +40034,6 @@ Installation: Tlghtening torque".
 
 
 ### Correcting:
-`bmw_e31_am_en_1ce430af` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:936 | doc_type:owners_manual
 
 Caution!   
 Dlsconnect the power windowmotorplug In the Interest of safety. Correcting Dlstance (G):   
@@ -41336,7 +40068,6 @@ Referto Specifications
 
 
 ### 51-37/4
-`bmw_e31_am_en_4266a102` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:937 | doc_type:owners_manual
 
 Loosen screw(9).   
 Press hook down onto the stop and tIghten adjusting screw (9).
@@ -41347,7 +40078,6 @@ Press hook down onto the stop and tIghten adjusting screw (9).
 
 
 ### 5137171 REPLACING LEFTOR RIGHTREAR SIDE WINDOW
-`bmw_e31_am_en_9360e2f2` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:938 | doc_type:owners_manual
 
 Remove rear seat · relerto 52.20 100. Remove rear slde trim panel -referto 51 43 000. Lift window recess strip off from above using Speclal Tool 51 3070.
 
@@ -41381,7 +40111,6 @@ Pull covers oft.
 
 
 ### 51-37/5
-`bmw_e31_am_en_6933f47e` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:939 | doc_type:owners_manual
 
 Note:   
 I the window cannot be operated electrlcally, unscrew screw(1） and disengage loothed element upwards off of the power wlndow motor.   
@@ -41405,13 +40134,11 @@ Installation: Tightening torque'.
 
 
 ### 51-41/1
-`bmw_e31_am_en_cd8f7f4a` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:940 | doc_type:owners_manual
 
 ![](images/81df7046ae14f08d5fd5d4363aaa565a7403b69430ea15ff3cbd33ee5254dd2f.webp)
 
 
 ### 5141 000 REMOVING AND INSTALLINGLEFTOR RIGHT FRONTDOOR TRIMPANEL
-`bmw_e31_am_en_c780c2ed` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:941 | doc_type:owners_manual
 
 Lift out control and disconnect plug.
 
@@ -41432,7 +40159,6 @@ Installation: Check forcorrect seating of cable!
 
 
 ### 5143000 Removing and installing or replacing leftor right side trim panel
-`bmw_e31_am_en_fab3ecff` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:942 | doc_type:owners_manual
 
 Open door window and side window.   
 Sllde front seat forwards.
@@ -41443,7 +40169,6 @@ One-piece back seat: Unclip trim sections and lift out upwards.
 
 
 ### 5143251 Replacingrear leftor right roof pillar trim
-`bmw_e31_am_en_8c41fcc3` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:943 | doc_type:owners_manual
 
 Unclip finisher on C-pillar.   
 Unfasten connector from rear window heating and rear window antenna.
@@ -41464,7 +40189,6 @@ Lower frontend of roof llner, push backand dlsconnect on metai fold. LIftout roo
 
 
 ### 51 45030 Removingand installing trim from instrument panel
-`bmw_e31_am_en_796c620f` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:944 | doc_type:owners_manual
 
 Remove steering wheel, see 32 33000. Remove switch forsteering column adjustment and allow to hang down,see 6131 035. Remove instrument carrier. see6221 000. Remove glovebox,see 51 16 200. If necessary,remove passenger airbag, see 32 34 504.
 
@@ -41494,7 +40218,6 @@ Loosen screws on left and right sides {footwell).
 
 
 ### 51-45/2
-`bmw_e31_am_en_f4ccf98c` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:945 | doc_type:owners_manual
 
 ![](images/fb4cc97a6af2c0ddfdd5aec443cb9595a343b73b122af08c9073de613533297d.webp)
 
@@ -41506,7 +40229,6 @@ Allgn dashboard and door trim panels with the doors shut.
 
 
 ### 5146000 Removingand installing or replacingtrim forrear window shelf 5146002 Replace trim for rearwindow shelf (with rear sun roller blind)
-`bmw_e31_am_en_312d09c3` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:946 | doc_type:owners_manual
 
 Remove both back seats,see 5220 100. Remove rear sections of side trim, see 51 43000.
 
@@ -41518,7 +40240,6 @@ Remove trim sections on both C-pillars, see51 43251.
 
 
 ### installation:
-`bmw_e31_am_en_7b65529e` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:947 | doc_type:owners_manual
 
 Carefully guide sun roller blind through the rearwindow shelf(first the right corner,then theleft),then slide the rear window shelf backwards,guiding the retainlngclips over the recesses where they should engage. Press on burr fasteners.
 
@@ -41543,7 +40264,6 @@ Remove loudspeaker finishers.
 
 
 ### 51 46013 Removing and installing or replacing sun roller blind
-`bmw_e31_am_en_cbdeaeff` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:948 | doc_type:owners_manual
 
 Remove rear seat shelf,see 51 46 002.
 
@@ -41557,7 +40277,6 @@ Remove control unit forsun roller blind on rear window.
 
 
 ### 5147315 REMOVING AND INSTALLING FRONT AND REAR CARPETS FOR PASSENGER COMPARTMENT
-`bmw_e31_am_en_faa0b7ec` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:949 | doc_type:owners_manual
 
 Disconnect battery relerto Gr.61.   
 Remove seals reler to Gr.52.   
@@ -41575,7 +40294,6 @@ The old or new carpet must then be cut out in the tunnel zone.
 
 
 ### 520 DIAGNOSING DAMAGE OFBELT SYSTEM INTEGRATED IN FAONT SEAT AFTER ACCIDENT
-`bmw_e31_am_en_d140c9c8` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:950 | doc_type:owners_manual
 
 In the Interest of occupants' salety no other repairs are permitted than those described below!Damaged components must bereplaced!
 
@@ -41614,7 +40332,6 @@ Notes:
 
 
 ### Electrically Operated Seats:
-`bmw_e31_am_en_c8ae3042` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:951 | doc_type:owners_manual
 
 Troubleshooting electronics: relerto Car Electric/Electronic Test Plan.
 
@@ -41624,14 +40341,12 @@ Troubleshooting electronics: relerto Car Electric/Electronic Test Plan.
 
 
 ### 520 CHECKING FUNCTION OF ELECTRIC FRONT SEAT ADJUSTMENT
-`bmw_e31_am_en_94cc8523` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:952 | doc_type:owners_manual
 
 ll appllcable on removed seat, connect Speclal Tool 61 2 070 (adapter lead) to whlte plug (outer) and 12 V power supply source.   
 Carry out test.
 
 
 ### Incllnation Adjustment:
-`bmw_e31_am_en_51f34f2a` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:953 | doc_type:owners_manual
 
 Front end of seat Inclined upward s （1）.Front end of seat Incllned downwards (2)
 
@@ -41641,7 +40356,6 @@ Maximum adjustment distance between (1) and (2), measured at front edge of seat=
 
 
 ### Backrest Incllnation Adjustment:
-`bmw_e31_am_en_815ecafc` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:954 | doc_type:owners_manual
 
 Backrest moved forward （7）, headrest down. Backrest moved back (8), headrest up.
 
@@ -41649,7 +40363,6 @@ Maximum adjustment distance between (7) and (8) as measured at upper edgeof back
 
 
 ### Axlal Adjustment:
-`bmw_e31_am_en_b574d16d` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:955 | doc_type:owners_manual
 
 Seat moved forward (3).   
 Seat moved back (4).
@@ -41667,7 +40380,6 @@ Maximum adjustment distance of seat between (5) and (6) 二 approx. 40mm and of 
 
 
 ### Lumbar Support:
-`bmw_e31_am_en_5ef30978` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:956 | doc_type:owners_manual
 
 Press switch downwards (A).   
 The lumbar support can only be operated in this posltion.   
@@ -41679,7 +40391,6 @@ The positlon olthe lumbar support cannot be stored In the memory.
 
 
 ### 520 CHECKING FUNCTION OF MEMORY
-`bmw_e31_am_en_978091e9` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:957 | doc_type:owners_manual
 
 ![](images/3291825f5e8c1d2fe4f84dc139f51b80469b42b0a50b5f133f084093ff7a456d.webp)
 
@@ -41692,7 +40403,6 @@ LIght in key (m) goes out and storing has been completed.
 
 
 ### Calling Positions Stored In Memory:
-`bmw_e31_am_en_ab2f18f3` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:958 | doc_type:owners_manual
 
 Press program key （1.2 or 3] 50 long untll al motors have been switched off.
 
@@ -41702,14 +40412,12 @@ Note: Amaximum of two motors on the seat wlll be operated slmultaneously.
 
 
 ### Sequence:
-`bmw_e31_am_en_47a2db8d` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:959 | doc_type:owners_manual
 
 1 Axlal adjustment, backrest inclinatlon and steering wheel adjustment   
 234 Axlal adjustment and helght adjustment Seat Inclination adjustment Both outslde mirrors
 
 
 ### 5210 000 REMOVING AND INSTALLINGLEFT OR RIGHT FAONT SEAT
-`bmw_e31_am_en_4caabf16` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:960 | doc_type:owners_manual
 
 Note: A second person Is requlred to lft the front seat out of the car.
 
@@ -41745,7 +40453,6 @@ Remove cover.
 
 
 ### 52-10/2
-`bmw_e31_am_en_ab58c2eb` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:961 | doc_type:owners_manual
 
 Note: Cover side member panel to avold damagInglt whlle lifting out the seat.
 
@@ -41806,7 +40513,6 @@ Bolt
 
 
 ### Note: Refer to Group 72 for all seat belt components.
-`bmw_e31_am_en_6947c199` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:962 | doc_type:owners_manual
 
 ![](images/c66abedc97ec54c17ca90b4e4e8858681d96eadef580f321489010ce5e1e83ca.webp)
 
@@ -41856,7 +40562,6 @@ Assemble new seat cushlon/backrest frames in reverse sequence.
 
 
 ### 5210080 REMOVING AND INSTALLINGORREPLACING CUSHIONSHELL ONLEFT OR RIGHTFRONT SEAT
-`bmw_e31_am_en_991b2ca6` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:963 | doc_type:owners_manual
 
 Remove front seat -refer to 5210000. Remove rear panel for front seat backrest ■ refer to 52 10 450. Remove backrest shell = reler to 52 10082.
 
@@ -41888,7 +40593,6 @@ Remove shaft (1).
 
 
 ### 52-10/7
-`bmw_e31_am_en_5ca26c30` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:964 | doc_type:owners_manual
 
 Dlsconnect two backrest heating wires using Speclal Tool 61 1 132.
 
@@ -41900,7 +40604,6 @@ Check seat heating system lor breaks wlth an ohmmeter.
 
 
 ### 52 10 082 REMOVING AND INSTALLINGOR REPLACING BACKRESTSHELL ON LEFT ORRIGHTFRONT SEAT
-`bmw_e31_am_en_5cd00e79` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:965 | doc_type:owners_manual
 
 Remove front seat - refer to 5210000. Remove rear panel for front seat backrest I refer to 52 10 450.
 
@@ -41925,7 +40628,6 @@ Tightening torque\*.
 
 
 ### 52-10/8
-`bmw_e31_am_en_ffd69592` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:966 | doc_type:owners_manual
 
 Installation:   
 Turn shaft for-transmission counter-clockwise to its stop position.
@@ -41965,13 +40667,11 @@ Installation:
 
 
 ### 5210100 Removing and installing or replacing seatrail on left or right front seat
-`bmw_e31_am_en_215ec521` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:967 | doc_type:owners_manual
 
 Remove front seat, see 52 10000.
 
 
 ### 52 10 105 Replacing rail (connecting rod)
-`bmw_e31_am_en_c7af6e4d` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:968 | doc_type:owners_manual
 
 Remove front seat,see 5210000.   
 Remove rearwall,see 52 10 450.   
@@ -42003,7 +40703,6 @@ Refer to Technical Data Source of supply: BMW Parts Service
 
 
 ### 52-10/11
-`bmw_e31_am_en_1c55b857` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:969 | doc_type:owners_manual
 
 ![](images/4c181008b230d40e4a7d8011bf19a7324e766cce3314f54236865a5c270bd7d4.webp)
 
@@ -42029,7 +40728,6 @@ Slide coupling bar over the triargular plate, install pin with pliers and press 
 
 
 ### 52-10/12
-`bmw_e31_am_en_217e5d38` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:970 | doc_type:owners_manual
 
 ![](images/ac6ad110f2e51d958b50b8fa84be8f5c99cb1ccb1357618b94883cb80d963e22.webp)
 
@@ -42058,7 +40756,6 @@ dimension (B)=16 mm
 
 
 ### 52-10/13
-`bmw_e31_am_en_87a72737` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:971 | doc_type:owners_manual
 
 ![](images/5189c904444285666e3fbf5ee720ec0a525ad04fed04cd19b1a4029ca19d8bc2.webp)
 
@@ -42072,7 +40769,6 @@ In S0 dolng gulde （1）must berun out and In freeof nolse or hesitation.
 
 
 ### 52 10 400 REMOVING AND INSTALLING ORREPLACING LUMBAR SUPPORT ON LEFTOR RIGHT FRONT SEAT
-`bmw_e31_am_en_c5df6334` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:972 | doc_type:owners_manual
 
 Remove front seat-refer to 5210000.   
 Remove rear panel tor Iront seat backrest refer to 52 10450.   
@@ -42101,7 +40797,6 @@ Check function of lumbar support.
 
 
 ### 52 10 450 REMOVING AND INSTALLINGOA REPLACING REARPANELFORLEFT OA RIGHT FAONTSEAT BACKREST
-`bmw_e31_am_en_5c4e4333` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:973 | doc_type:owners_manual
 
 Remove front seat-refer to 52 10 000.
 
@@ -42130,7 +40825,6 @@ Use, for example, washers (4） at screwed points (2 and 3).
 
 
 ### 52 Seats
-`bmw_e31_am_en_ac313025` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:974 | doc_type:owners_manual
 
 520 Damage assessment offront seat belt system integrated in seat after anaccident . 52- 0/1   
 520 Function check of power adjustment of front seat 52- 0/4   
@@ -42166,7 +40860,6 @@ Rear seatbackrest folding 52- 20/2
 
 
 ### 52-10/15
-`bmw_e31_am_en_778a72cb` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:975 | doc_type:owners_manual
 
 ![](images/9f68f5a97e2df64c79d592c29b768d9ff2597d46e50fc05cd582cb651f64d6a6.webp)
 
@@ -42202,7 +40895,6 @@ Relerto Speclllcatlons Source ol Supply: BMW Parts
 
 
 ### 52-10/16
-`bmw_e31_am_en_054b919c` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:976 | doc_type:owners_manual
 
 ![](images/71fd4576704ed947b706d0f72d9e9e956bfae7a13be148c968da1a6a2f1ccf59.webp)
 
@@ -42235,13 +40927,11 @@ The tip of wire strap(1）must point to the slde to avold damaglng the rear wall
 
 
 ### 52-10/17
-`bmw_e31_am_en_55906247` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:977 | doc_type:owners_manual
 
 ![](images/8ab8f2f60347bb8c560f9e60f6349039d68f20667de53ee216777fb6bcdab95b.webp)
 
 
 ### 52 10 575 ADJUSTING ONE CABLE ONLEFT OARIGHT FRONT SEAT
-`bmw_e31_am_en_22478f32` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:978 | doc_type:owners_manual
 
 Remove front seat - relerto5210000. Removerear panel for front seat backrest #i reler to52 10450.
 
@@ -42297,7 +40987,6 @@ Unscrew screws and remove trim panel.
 
 
 ### 52-10/19
-`bmw_e31_am_en_70fae735` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:979 | doc_type:owners_manual
 
 ![](images/472c2b7bd3d68a17a441bc992ad47251c32d9eec1f7a7b442c0c7ce9997dc518.webp)
 
@@ -42307,7 +40996,6 @@ Press front end o cushlon shell up sllghtly ■ reler to 52 10080.
 
 
 ### 5210920 REMOVING AND INSTALLING OA REPLACING BACKREST DRIVE ON FRONT SEAT
-`bmw_e31_am_en_0df28ac3` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:980 | doc_type:owners_manual
 
 Remove front seat -refer 1o 5210000. Remove rear panel lor front seat backresl reler lo52 10450.
 
@@ -42329,14 +41017,12 @@ Remove front seat -reler to5210000. Remove rear panel lor front seat backrest = 
 
 
 ### Unbend clamps.
-`bmw_e31_am_en_b36ac6b2` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:981 | doc_type:owners_manual
 
 installation:   
 Lock new clamps\* by bending with Special Tool520050.
 
 
 ### 5211031 REPLACING BACKREST COVERFORLEFTOR RIGHT FRONTSEAT
-`bmw_e31_am_en_5bb9b447` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:982 | doc_type:owners_manual
 
 Remove front soal = refer to 52 10000. Remove rear panel for front seat backrest T refer to52 10 450. Remove backrest shell I refer to52 10082.
 
@@ -42344,7 +41030,6 @@ Pull off clamping bars at top and bottom of cover.
 
 
 ### Unbend all clamps.
-`bmw_e31_am_en_d6eb3e40` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:983 | doc_type:owners_manual
 
 ![](images/78e08041fbd115623c7db54dc7f2214f244117df9566e6e8de80f777f5495779.webp)
 
@@ -42360,7 +41045,6 @@ Pull old securingrods Into new cover; cutting the new coveraccordingly for thls 
 
 
 ### Unbend clamps.
-`bmw_e31_am_en_196f2392` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:984 | doc_type:owners_manual
 
 Installation:   
 Lock new clamps\* by bending wlth Speclal Tool 52 0050.
@@ -42369,7 +41053,6 @@ Lock new clamps\* by bending wlth Speclal Tool 52 0050.
 
 
 ### 5211 101 REPLACING CUSHION PADD-ING (FOAM RUBBER) FORLEFT ORRIGHT FRONT SEAT
-`bmw_e31_am_en_95598dcc` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:985 | doc_type:owners_manual
 
 Remove front seat -refer to 52 10000.   
 Remove rear panel lor front seat backrest 中 retor 1o 52 10450.   
@@ -42392,7 +41075,6 @@ Source of Supply: BMW Parts
 
 
 ### 52 11141 REPLACING BACKREST PADD-ING (FOAM RUBBER) FORLEFT OR RIGHT FRONT SEAT
-`bmw_e31_am_en_96e86948` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:986 | doc_type:owners_manual
 
 Remove Iront seat = reler to 5210000.   
 Remove rear panel for front seat backrest = reler to 52 10450.   
@@ -42403,7 +41085,6 @@ Remove backrest covor referto52 11 031.
 
 
 ### Remove padding.
-`bmw_e31_am_en_40a9e194` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:987 | doc_type:owners_manual
 
 Installation:   
 Apply 3 M Cement Spray\* on left and rlght cementing surfaces. Installation:   
@@ -42413,7 +41094,6 @@ Source of Supply: BMW Parts
 
 
 ### 5211 592 REPLACING CUSHION HEAT-ING ELEMENT FOR LEFT ORRIGHT FRONT SEAT
-`bmw_e31_am_en_b8db7bff` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:988 | doc_type:owners_manual
 
 Remove front seat = refer to 52 10000.   
 Remove rear panel for front seat backrest = reler 1o 52 10450.   
@@ -42442,7 +41122,6 @@ Don't damage the heating conductor of the heating element.
 
 
 ### 5211593 REPLACING BACKREST HEATING ELEMENT FOR LEFT OR RIGHT FRONT SEAT
-`bmw_e31_am_en_685edcc1` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:989 | doc_type:owners_manual
 
 Remove front seat- reler to 52 10 000.   
 Remove rear panel for front seat backrest I reler to52 10450.   
@@ -42459,7 +41138,6 @@ Locknew clamps by bending with Speclal Tool520050.
 
 
 ### Remove heating element.
-`bmw_e31_am_en_e9e5756d` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:990 | doc_type:owners_manual
 
 Installation:   
 The heating element must be secured together with the cover to the padding at the shown positions. Caution!   
@@ -42471,7 +41149,6 @@ InstaNation: Check routing of wires (2).
 
 
 ### 5220 070 Removing and installingor replacing backrest on leftor right back seat
-`bmw_e31_am_en_ef35d1fa` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:991 | doc_type:owners_manual
 
 Remove back seat, see 52 20 100.
 
@@ -42479,7 +41156,6 @@ Unlock backrest with the loop and foldforwards.
 
 
 ### 52 20 100 Removingand installing or replacing leftor right back seat
-`bmw_e31_am_en_157611a8` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:992 | doc_type:owners_manual
 
 Open door window and side window.
 
@@ -42508,7 +41184,6 @@ Tightening torque,refer to Technical Data 52 24 1AZ
 
 
 ### 52-20/2
-`bmw_e31_am_en_cff3d96d` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:993 | doc_type:owners_manual
 
 ![](images/d151aa161b3a945d27a0f626cda21af98ec504bf5800d8ba17be604426ee41b1.webp)
 
@@ -42516,7 +41191,6 @@ Lift front of seat and lift upwards to disengage.
 
 
 ### 52 20 245 Replacing lockon back seat backrest on left or right
-`bmw_e31_am_en_fdc91403` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:994 | doc_type:owners_manual
 
 Unscrew back section of rear seat, refer to 52 20 400.
 
@@ -42547,7 +41221,6 @@ Installation: Rivet diameter 4 mm.
 
 
 ### 52-20/3
-`bmw_e31_am_en_de8a0492` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:995 | doc_type:owners_manual
 
 Unfasten screws and remove lock.
 
@@ -42557,7 +41230,6 @@ Unfasten screws and remove lock.
 
 
 ### 51 20 400 Removingand installing or completely replacing back wall from back seat backrest
-`bmw_e31_am_en_a978c25c` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:996 | doc_type:owners_manual
 
 Remove backrest, see 52 20 070.
 
@@ -42566,7 +41238,6 @@ Lift up lower cover and remove.
 
 
 ### 5221 055 Removing and installing or replacing cover for back seat backrest on left orright
-`bmw_e31_am_en_96322b37` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:997 | doc_type:owners_manual
 
 Remove back wall from back seat backrest, see 5220 400.
 
@@ -42577,32 +41248,28 @@ Lift up strip to remove. Disconnect backrest cover from clamping strip tips and 
 Fold backrest cover (1) to one side.Unfasten clips (2) in the cushion (foam padding) from the cover rods (3). Remove cover rods (3) by pulling upwards. Unfasten remaining clips(2) from cover rods （4）and remove backrest cover (1).
 
 
-### Note:
-`bmw_e31_am_en_524c92db` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:998 | doc_type:owners_manual
-
-Remove clips completely.
-
-![](images/8dffb74836e5a44ff425ed46e41cbf1f0c03d41b92f98a53b1488edd81b2c047.webp)
-
-Installation: Bend new clips with special tool 52 0 050.
-
-1 Support   
-2 Clip   
-3 Reiaining rodin the support   
-4 Retainingrod in the cover   
-5 Cover
-
-![](images/9a05073255af0b41f49473c68c457fad9dde42042bf2001647011e9fd8ab6ced.webp)
+> ℹ️ **Примечание:** 
+> Remove clips completely.
+>
+> ![](images/8dffb74836e5a44ff425ed46e41cbf1f0c03d41b92f98a53b1488edd81b2c047.webp)
+>
+> Installation: Bend new clips with special tool 52 0 050.
+>
+> 1 Support   
+> 2 Clip   
+> 3 Reiaining rodin the support   
+> 4 Retainingrod in the cover   
+> 5 Cover
+>
+> ![](images/9a05073255af0b41f49473c68c457fad9dde42042bf2001647011e9fd8ab6ced.webp)
 
 
 ### Only replacement:
-`bmw_e31_am_en_e276824e` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:999 | doc_type:owners_manual
 
 Instalation: Remove retaining rods from cover. Cut new cover and slide in retaining rods.
 
 
 ### 54 Hood, sunroof
-`bmw_e31_am_en_e459465c` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1000 | doc_type:owners_manual
 
 5412 ： Layout of slide/tilt sunroof 54-12/1   
 004 Slide/tiltsunroof- adjust \*.+\*...\*===.+±.\*.\*.===.==..\*±\*\* 54-12/2   
@@ -42631,7 +41298,6 @@ Instalation: Remove retaining rods from cover. Cut new cover and slide in retain
 
 
 ### 5412 004 ADJUSTING SUN ROOF
-`bmw_e31_am_en_016e785a` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1001 | doc_type:owners_manual
 
 Open the sun roof to lfted position. Press Iocking lever(1) out and push the floating root liner back.
 
@@ -42674,13 +41340,11 @@ installation: Replace screws. Tightening torque\*.
 
 
 ### 54-12/3
-`bmw_e31_am_en_b13c6f76` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1002 | doc_type:owners_manual
 
 ![](images/dcf2dfeb57e6ff111d1dbdb97cc3dccdc853cf9d17274d3b533a46c636618a17.webp)
 
 
 ### 5412100 REMOVING AND INSTALLING SUN ROOF LID
-`bmw_e31_am_en_4175c417` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1003 | doc_type:owners_manual
 
 Removing:   
 Opn the sun roof to lifted position. Press locking lever out and push the floating rool llner back.
@@ -42720,7 +41384,6 @@ Reler to Specifications
 
 
 ### 54-12/4
-`bmw_e31_am_en_aaefb67a` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1004 | doc_type:owners_manual
 
 ![](images/387a3396fd1a174a48108cbb06f2f07173c0ae56e4f015fad7f522a2183551a9.webp)
 
@@ -42735,7 +41398,6 @@ Installation: Replace scrows.
 
 
 ### 5412130 REMOVING AND INSTALLING ROOF LINERFRAME FOR SUN ROOFLID
-`bmw_e31_am_en_fba6d1d8` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1005 | doc_type:owners_manual
 
 Remove both drive cablesfor sun rool relerto 5412 241.
 
@@ -42751,13 +41413,11 @@ Pull floating roof liner forward as far as posslble and engage.
 
 
 ### 54-12/5
-`bmw_e31_am_en_7d834381` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1006 | doc_type:owners_manual
 
 ![](images/c14229c95518aa0bd0ce981fd06361ec861ca54edfcff3a14435b671467e9051.webp)
 
 
 ### 54 12210 REMOVING AND INSTALLING SUN ROOF ASSEMBLY
-`bmw_e31_am_en_a1b7d44c` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1007 | doc_type:owners_manual
 
 ![](images/dcfbf3c88006421149b779ec8a85555cef10854609a8c81787e152a32db737d3.webp)
 
@@ -42782,7 +41442,6 @@ Installation: Hook In sun roof cassette.
 
 
 ### 54 12 241 REMOVING AND INSTALLING BOTH DRIVE CABLES FOR SUN ROOF
-`bmw_e31_am_en_8fd2daa2` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1008 | doc_type:owners_manual
 
 Remove sun roof ld- see 54 12100. Remove motor/gearbox unlt ■ see 54 13010.
 
@@ -42822,13 +41481,11 @@ Correct the position 1 necessary.
 
 
 ### 5413010 REMOVING AND INSTALLING OR REPLACING MOTOR AND GEARBOX UNIT FOR SUN ROOF
-`bmw_e31_am_en_a3175d79` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1009 | doc_type:owners_manual
 
 ![](images/4f312f683cca468a6aef4518febed636965b53dc08947c7282aafa31989d6ce9.webp)
 
 
 ### LI cover out.
-`bmw_e31_am_en_eb12b6ea` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1010 | doc_type:owners_manual
 
 Lift the sun roof module off of the motor/ gearbox unlt.
 
@@ -42853,7 +41510,6 @@ Refer to Speclficatlons
 
 
 ### 5413015 REMOVING AND INSTALLING ORREPLACING MODULE FOR SUN ROOF
-`bmw_e31_am_en_ec767602` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1011 | doc_type:owners_manual
 
 Procedures are Identical with those for "Removing and Installling Motor and Gearbox Unlt for Sun Roor".
 
@@ -42861,7 +41517,6 @@ Procedures are Identical with those for "Removing and Installling Motor and Gear
 
 
 ### 61 Electrical system
-`bmw_e31_am_en_62f7b999` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1012 | doc_type:owners_manual
 
 Externalstartaidandcartelephone! 6   
 Windshieldwiper(wipermotor）   
@@ -42946,7 +41601,6 @@ Supplycontainerinthesparewheelrecess-replace
 
 
 ### 61-0/1
-`bmw_e31_am_en_fe4b0071` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1013 | doc_type:owners_manual
 
 GENERAL INFORMATION
 
@@ -42966,13 +41620,11 @@ Checking Inilaliration:The automatic tip operation must functlon in the closing 
 
 
 ### Important With Connected Battery!
-`bmw_e31_am_en_1fc6f191` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1014 | doc_type:owners_manual
 
 Working on components,wire conneclions and so on could cause faults in fault memorles o the concerned control units. If-disconnection of the battery Isspecifled in the RepalrManual for the carrying out of repalrs,theremust alwaysbe conformance wlth this In the Interesl ofsafety.
 
 
 ### Outslde Starting Ald and Car Telephone!
-`bmw_e31_am_en_baf715e4` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:1015 | doc_type:owners_manual
 
 Slemens C2:
 
@@ -43003,7 +41655,6 @@ Removal and installation of components,relays,fuses,etc.could cause the storage 
 
 
 ### BATTERY CARE AND MAINTENANCE
-`bmw_e31_am_en_e95f61dc` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1016 | doc_type:owners_manual
 
 The electrolyte level of present low-malntenance batteries should be checked at least annually and corrected to themax. mark speclfied by the battery suppller with distilled water when necessary.
 
@@ -43011,7 +41662,6 @@ Dlscharging by the power consumption of control units even in standby mode Is ad
 
 
 ### Charging Battery:
-`bmw_e31_am_en_d9a16615` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1017 | doc_type:owners_manual
 
 If a standard or fast charger (e.g. Bosch SL 24 90\*) Is used to charge a battery, the battery must be dlsconnected from the car's electrical system and removed in order to avold damage to palnt finlshes and uphoistery by the escaping gas.   
 Excesslvely discharged batterles could be damaged or destroyed by the very hlgh Inltlal current (hlgh temperature).   
@@ -43022,7 +41672,6 @@ Refer to Service Infomation 61 08881 there Is doubt as to whether or not the bat
 
 
 ### Important!
-`bmw_e31_am_en_64fa362d` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1018 | doc_type:owners_manual
 
 Always first measure the open clrcult voltage before charging a battery Installed In the car. Iths voltagels10V or less,t cannot be excluded that oneor more cells are faulty or that the battery asa whole Is already pre-damaged.   
 In thls case IlIsalways necessary to remove the battery as escaping gas whlle chargIng could damage Interior equipment.   
@@ -43033,7 +41682,6 @@ Also reler to page 61-21/1.
 
 
 ### Testing Battery:
-`bmw_e31_am_en_f65f7d05` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1019 | doc_type:owners_manual
 
 An objectlve statement on the charged conditlon of a battery is only possible by way of aload test wlth cold testing current. Thls test can be carrled out wlth a battery tester, fer example
 
@@ -43049,7 +41697,6 @@ Disconnect plug connection (2).
 
 
 ### 6111051 Replacing section ofengine wiring harness(M73)
-`bmw_e31_am_en_b39db5de` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:1020 | doc_type:owners_manual
 
 Observe instructions on disconnecting/connecting battery,refer to General Data MG 12.
 
@@ -43080,7 +41727,6 @@ Remove connections (1),lift off cover (2) and disconnect plug connection (3).
 
 
 ### 61-11/2
-`bmw_e31_am_en_8e4a347b` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1021 | doc_type:owners_manual
 
 ![](images/82f15b3b87c31a63a62a08e5514852e40aba92d6bf8827a481da401545e914c1.webp)
 
@@ -43109,7 +41755,6 @@ refer to Technical Data 12311AZ.
 
 
 ### 61-11/3
-`bmw_e31_am_en_71dd76ea` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1022 | doc_type:owners_manual
 
 ![](images/b4a2725baff7f5b815d530e50614cb904296e03a75de878dc1493756005a5f0e.webp)
 
@@ -43156,7 +41801,6 @@ Note wiring harness retainers (1 and 2) on coverof distributor cap and on body b
 
 
 ### 61-11/5
-`bmw_e31_am_en_2dfc96dc` | e31_am | pdf_manual | tier:2 | lang:en | layer:electrical | p:1023 | doc_type:owners_manual
 
 ![](images/358a11481e588124388ea3220d1b458a774a3d623cddfceed6d371422095cff9.webp)
 
@@ -43207,7 +41851,6 @@ Disconnect plug connections (1 to 4) Remove complete wiring harness.
 
 
 ### 61-13/1
-`bmw_e31_am_en_3567e538` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:1024 | doc_type:owners_manual
 
 ![](images/6e67631db4f392e05c4fe62ef31f57d811e31a257d236fff54f836663672756d.webp)
 
@@ -43223,7 +41866,6 @@ Pull rubber grommet （1）off carefully. Push back retainers (2) of interior pl
 
 
 ### Ultrasonic bonded plugs
-`bmw_e31_am_en_a1eabda1` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:1025 | doc_type:owners_manual
 
 Pins of plugs (1) are bonded ultrasonically and cannot be replaced.   
 They can be recognized by the bonds (2) on the long side of the plug.
@@ -43235,7 +41877,6 @@ They can be recognized by the bonds {2) on the long side of the plug.
 
 
 ### 61-13/2
-`bmw_e31_am_en_6ae76724` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1026 | doc_type:owners_manual
 
 ![](images/8e27f6122d7436d509b5d45c9fdd6e872e9b988d0348f2030d35003f1fc77874.webp)
 
@@ -43283,7 +41924,6 @@ Push back steel spring locks (4) of relevant pin using special tool 61 1 132 and
 
 
 ### 61-13/4
-`bmw_e31_am_en_5e673873` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1027 | doc_type:owners_manual
 
 ![](images/d39f7394914437dbfd4c8b6c5ec5a30239e0e75262f182e9aa2c25b903f20aaa.webp)
 
@@ -43305,7 +41945,6 @@ Use pressing-out tool no.61 1 132 to push back steel spring locks (4) on relevan
 
 
 ### 61-13/5
-`bmw_e31_am_en_3c638738` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:1028 | doc_type:owners_manual
 
 ![](images/fe0120962549bf8bbefb5c824e35595155cd57c8f5159e604400e0da34cb9808.webp)
 
@@ -43321,7 +41960,6 @@ Push back steel locks (4) of relevant pin using special tool no.61 1 132 and pul
 
 
 ### 61-13/6
-`bmw_e31_am_en_045303d9` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1029 | doc_type:owners_manual
 
 25-, 35- and 55-pin control unit plugs
 
@@ -43349,7 +41987,6 @@ Press out size 2.8 double flat spring pins with special tool no. 61 1 137.
 
 
 ### 61-13/7
-`bmw_e31_am_en_e7572ae6` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:1030 | doc_type:owners_manual
 
 ![](images/603b1ac74907423565c643facdee6ad93ac656f8629bc0c4ac13d5d5befbe0e5.webp)
 
@@ -43363,7 +42000,6 @@ Push back steel spring locks (3) of relevant pin using special tool no. 611 136 
 
 
 ### Display lamp
-`bmw_e31_am_en_b7797605` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1031 | doc_type:owners_manual
 
 ![](images/83c4a932671750731bb58c992cc00eb76719d233aa43dd07fed6b092c72b9699.webp)
 
@@ -43377,13 +42013,11 @@ Apply socket wrench 611 138 to the appropriate display lamp, turn counterclockwi
 
 
 ### 61-13/10
-`bmw_e31_am_en_c6cbd272` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1032 | doc_type:owners_manual
 
 ![](images/52d8b83dff833bb87f3539e020ac32013c9d026098b39f3e76b6479b70e7d141.webp)
 
 
 ### 6113... Wiring harness repairwith thehelpof repairkitiV for vehicle electrics 61 9 020
-`bmw_e31_am_en_8a2d40de` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1033 | doc_type:owners_manual
 
 Safety instructions:
 
@@ -43398,37 +42032,33 @@ Disconnect battery ground.
 
 
 ### Special tools for wiring harness repairs
-`bmw_e31_am_en_8eb3f46f` | e31_am | pdf_manual | tier:2 | lang:en | layer:electrical | p:1034 | doc_type:owners_manual
 
 Mole grips without adjustable jaw 619 041. (contained in repalr kit 61 9 020)
 
 
-### Caution!
-`bmw_e31_am_en_ec7b3632` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:1035 | doc_type:owners_manual
-
-Only perform repairs to wiring harness if no safety-related systems on the clrcuit diagram (e.g.antilock braking system, active rearaxle kinematics, airbag etc.) are affected. Ilfthisis not the case,replace defective wiring harness or use repair cable (e.g. Service Information for Construction Group 34 and Parts Service)
-
-![](images/5b31bb52f24633d9037b45adedf2406fd24d00b881e2923a44dd4bda16889c58.webp)
-
-Adjustablejaw619042 formole grips 619041. (contained in repair kit 61 9 020) Application:
-
-Crimping contacts to wire cross sections of between 0.5and 2.5mm2 2 Slide contact sleeves onto comb connector
-
-Atter a wiring harness repair operation, performa function check and interrogate the fault memory once again. If necessary,remedy any other faults then cancel the fault memory.
-
-Insulation stripping pllers with wire cutter 61 9 043 (contained in repair kit 619020).
-
-Strip PvC insulation off wires with cross sections of between 0.5 and 4.0 mm² 5 Cutting copper and aluminum conductors up to 2mm2 cross section.
-
-Operating instructions are enclosed with the repair kit619020. They contain the order details and sections of the parts list.
-
-Special tool kit 61 150. Unlocking tool for connector system 2.5 mm, pressing-out tool for contacts.
-
-![](images/40633a89716af8f4e29f001159317d0407cefff50c23b2d8548de34dbc2a0b88.webp)
+> ⚠️ **Внимание:** 
+> Only perform repairs to wiring harness if no safety-related systems on the clrcuit diagram (e.g.antilock braking system, active rearaxle kinematics, airbag etc.) are affected. Ilfthisis not the case,replace defective wiring harness or use repair cable (e.g. Service Information for Construction Group 34 and Parts Service)
+>
+> ![](images/5b31bb52f24633d9037b45adedf2406fd24d00b881e2923a44dd4bda16889c58.webp)
+>
+> Adjustablejaw619042 formole grips 619041. (contained in repair kit 61 9 020) Application:
+>
+> Crimping contacts to wire cross sections of between 0.5and 2.5mm2 2 Slide contact sleeves onto comb connector
+>
+> Atter a wiring harness repair operation, performa function check and interrogate the fault memory once again. If necessary,remedy any other faults then cancel the fault memory.
+>
+> Insulation stripping pllers with wire cutter 61 9 043 (contained in repair kit 619020).
+>
+> Strip PvC insulation off wires with cross sections of between 0.5 and 4.0 mm² 5 Cutting copper and aluminum conductors up to 2mm2 cross section.
+>
+> Operating instructions are enclosed with the repair kit619020. They contain the order details and sections of the parts list.
+>
+> Special tool kit 61 150. Unlocking tool for connector system 2.5 mm, pressing-out tool for contacts.
+>
+> ![](images/40633a89716af8f4e29f001159317d0407cefff50c23b2d8548de34dbc2a0b88.webp)
 
 
 ### Strip insulation off cable.
-`bmw_e31_am_en_50d8f64b` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1036 | doc_type:owners_manual
 
 Use special tool 61 9 043.
 
@@ -43438,7 +42068,6 @@ Guide wire (1) up to back of blade. Length of wire be bind blade is stripped of 
 
 
 ### Cutoff cable
-`bmw_e31_am_en_fe4a5c33` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1037 | doc_type:owners_manual
 
 Use special tao1619043.
 
@@ -43465,13 +42094,11 @@ For additional operating manuals, reler to operating instructions: Repalr kit fo
 
 
 ### 61-13/12
-`bmw_e31_am_en_52ef0ea1` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1038 | doc_type:owners_manual
 
 ![](images/00d498f21f6dfd9fc5221685fcd13a090c3c4d03749c730b21b8e153f0a4e580.webp)
 
 
 ### Crimping terminals
-`bmw_e31_am_en_d76135db` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1039 | doc_type:owners_manual
 
 Use speclal tool 61 9 041 with adjustable jaws 619042.
 
@@ -43508,7 +42135,6 @@ Check that insulation crimp (8)and wire crimp (9)arein accordance with following
 
 
 ### 61-13/13
-`bmw_e31_am_en_405c045c` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1040 | doc_type:owners_manual
 
 ![](images/376c328e66e3992b4bd90d0ca714b19e6b777951423334d8627418d954e37feb.webp)
 
@@ -43520,7 +42146,6 @@ Correct crimping: End of lead(10) visible. End of insulation (11) visible.
 
 
 ### Repairingaplug connection on the wiring harness
-`bmw_e31_am_en_e4388794` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1041 | doc_type:owners_manual
 
 Repairkit 61 9 020 contains ten different kits for wiring harness repairs.
 
@@ -43553,13 +42178,11 @@ number of housingand press out of housing using appropriate special tool from sp
 
 
 ### 61-13/15
-`bmw_e31_am_en_d163c5ae` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1042 | doc_type:owners_manual
 
 ![](images/8275eec58657c3d627212543a48a9d078e7ac1d44def21b251e8a49dc118eef0.webp)
 
 
 ### Install comb connector for retrofits
-`bmw_e31_am_en_deed7efa` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1043 | doc_type:owners_manual
 
 ![](images/ee52c8eab01d571d0a7631109ca26ec3467334b6a81564d663b8bff507c15190.webp)
 
@@ -43599,13 +42222,11 @@ Slide assembled comb connector into insulation housing and lock In position. Sec
 
 
 ### 61-13/17
-`bmw_e31_am_en_591db9ca` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1044 | doc_type:owners_manual
 
 ![](images/4c169ae2c896306f3be3210f93fd397f95086ed0d9bec86f940d85eac22ac01f.webp)
 
 
 ### 61-13/18
-`bmw_e31_am_en_0065d421` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1045 | doc_type:owners_manual
 
 For additlonal processing and operating instructions, refer to:   
 Operating instructions:Order no.:618 084 Tool for cable repair from vehicle electrics repalr kits I,I,I.
@@ -43623,7 +42244,6 @@ Alfred Brehm Str.5
 
 
 ### 61 20001 HIGH CURRENT TEST FORCAR BATTERIES
-`bmw_e31_am_en_96acc48e` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1046 | doc_type:owners_manual
 
 Test with Bosch Tester 12 200E..
 
@@ -43654,13 +42274,11 @@ Ithe battry was checked from thepositive connection pointinthe engine compartmen
 
 
 ### 6120 CHECKING BATTERY IN OPEN CIACUIT CURAENT TEST
-`bmw_e31_am_en_e81b606a` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1047 | doc_type:owners_manual
 
 If the battery Is okay after the high current test, battery discharging could be caused by excessive open circult current consumptlon.
 
 
 ### Before Open Circult Current Test:
-`bmw_e31_am_en_8873d4b4` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1048 | doc_type:owners_manual
 
 Swltch al consumers off whlch can be swltched off(lgnltlon,Inslde lights,reading lamps,seat heating,addltional heater,   
 additlonal ventilator,telephone,etc.).   
@@ -43671,7 +42289,6 @@ Keep to the following procedures so that posslbly selzing relays do not fall.
 
 
 ### Connecting Ammeter:
-`bmw_e31_am_en_d626fc65` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1049 | doc_type:owners_manual
 
 Connect the posltive lead of the ammeter to the disconnected ground connection. Connect the ground lead of the ammeter to body ground.
 
@@ -43702,7 +42319,6 @@ The ground lead must always be reconnected in reverse order of disconnection, In
 
 
 ### 6121011 REPLACING BATTEAY
-`bmw_e31_am_en_da81844a` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1050 | doc_type:owners_manual
 
 Always conform with the following points when car Is fitted with two batteries.   
 Check the conditlon of both batterles In a hlgh current test.   
@@ -43717,7 +42333,6 @@ If both batterlesare not replaced at the same time,theolder battery could damage
 
 
 ### 6121030 CHARGING BATTERY(BATTERIES)
-`bmw_e31_am_en_92371cc9` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1051 | doc_type:owners_manual
 
 Dlsconnect batterles In car and charge separately.   
 Mutual charging must be avolded as batteries reach their gassing voltage a different tmes.
@@ -43745,7 +42360,6 @@ Aefer to Service Information 61 0080 (900) for adaonal Informatfon.
 
 
 ### 6131 016 REPLACING TURN SIGNAL HEADLIGHT DIMMER SWITCH
-`bmw_e31_am_en_6c703914` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1052 | doc_type:owners_manual
 
 Tum steering wheel to stralght ahead. Remove dashboard trim panel at bottom left- see5145180. Unscrew screw and take off lower section of the steering column casing.
 
@@ -43755,7 +42369,6 @@ Unscrew screw and take off upper sectlonof the steering column casing.
 
 
 ### 6131 018 REPLACING SELECTOR SWITCH FOR CRUISE CONTAOL
-`bmw_e31_am_en_2a623a41` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:1053 | doc_type:owners_manual
 
 Remove dashboard trim panel atbottom left- see 51 45180. Unscrew screw and takeoft lower sectlon of thesteering column casing.
 
@@ -43771,7 +42384,6 @@ Dlsconnect plugs.
 
 
 ### 61 31 020 REPLACING IGNITION SWITCH
-`bmw_e31_am_en_f5bdcaf8` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:1054 | doc_type:owners_manual
 
 Remove dashboard trim panel al boltom left- see 51 45 180. Unscrew screw and take off lowersection of the steering column caslng.
 
@@ -43783,7 +42395,6 @@ Dlsconnect plug.
 
 
 ### 6131 035 REPLACING STEERING COLUMN CONTROL SWITCH
-`bmw_e31_am_en_e8fc7243` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:1055 | doc_type:owners_manual
 
 Remove dashboard trim panel at bottom left- see51 45180. Unscrew screw and take off lower secton of the steering column casing.
 
@@ -43799,13 +42410,11 @@ Remove ornamental frame.
 
 
 ### 61 31 040 REPLACING WINDSHIELD WIPER SWITCH
-`bmw_e31_am_en_39018368` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:1056 | doc_type:owners_manual
 
 Remove dashboard trim panel at bottom left- see 51 45180. Unscrew screw and take off lower scctlonof the steering column casing.
 
 
 ### 6131 045 REPLACING INSTAUMENT LIGHT DIMMER SWITCH
-`bmw_e31_am_en_9e59a9b8` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1057 | doc_type:owners_manual
 
 See"Replacing Light Swltch" In 6131028.
 
@@ -43813,7 +42422,6 @@ Unscrew screw and take of upper sectlon of the stecring column casing.
 
 
 ### 6131 060 REPLACING REAR WINDOW DEFOGGER SWITCH
-`bmw_e31_am_en_a21e0585` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1058 | doc_type:owners_manual
 
 ![](images/e5a472fba4bfa7c4618336c545660f48c53e4dc6d5a13a12c47a789b696adf87.webp)
 
@@ -43825,7 +42433,6 @@ Disconnect plug.
 
 
 ### 61 31 070 REPLACING FRONT FOG LAMP SWITCH
-`bmw_e31_am_en_5453897f` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1059 | doc_type:owners_manual
 
 See Replacing Light Switch" In 6131 028.
 
@@ -43833,7 +42440,6 @@ See Replacing Light Switch" In 6131 028.
 
 
 ### 6131 072 REPLACING VERTICALHEADLIGHT AIM CONTROLSWITCH
-`bmw_e31_am_en_58067799` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1060 | doc_type:owners_manual
 
 See"Replacing Light Switch" in 6131 028.
 
@@ -43841,13 +42447,11 @@ See"Replacing Light Switch" in 6131 028.
 
 
 ### 6131 080 REPLACING HAZARD WARNING LIGHT SWITCH
-`bmw_e31_am_en_82b3c581` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:1061 | doc_type:owners_manual
 
 Press out switch frame In center console carefully from underneath wlth 8 screwdriver.
 
 
 ### 6131 1 REPLACING SWITCH IN CENTER CONSOLE
-`bmw_e31_am_en_e6c96af2` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:1062 | doc_type:owners_manual
 
 Press out switch frame In center console carefully from underneath with 8 screwdriver.
 
@@ -43884,7 +42488,6 @@ Remove trim.
 
 
 ### 6131115 REPLACING SIDE WINDOW CONTROL SWITCH
-`bmw_e31_am_en_b5bdf229` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:1063 | doc_type:owners_manual
 
 Drlver's Slde: Wrap adheslve tape around pllers. Apply pllers on center web at left and right sldes and pull swltch out by pullng up on left and rlght sldes separately.
 
@@ -43936,7 +42539,6 @@ Install the range Indicator's drive pln wlth the selector lever in"P", before in
 
 
 ### 6131 280 REPLACING OIL PAESSURE SWITCH
-`bmw_e31_am_en_7d542604` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1064 | doc_type:owners_manual
 
 0 pressure swltch 1s located on the base of the oll fllter.   
 Unscrew ollfllter cover to have ol In the oll tlter run back into the oll pan.   
@@ -43944,7 +42546,6 @@ Disconnect plug.
 
 
 ### 6131295 REPLACING CLUTCH SWITCHFOR CRUISE CONTROL
-`bmw_e31_am_en_5115eafb` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:1065 | doc_type:owners_manual
 
 Remove plateat bottom of A-plllar.   
 Remove engine hood release lever.   
@@ -43953,7 +42554,6 @@ Remove trim panel for pedal assembly.
 
 
 ### Unscrew swltch.
-`bmw_e31_am_en_21372a98` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:1066 | doc_type:owners_manual
 
 Installation:   
 TIghten ollIlter cover. Installswltch.   
@@ -43981,7 +42581,6 @@ Important! l ls essentlal to check the safety path In casr with EML (electronlc 
 
 
 ### 6131 300 Replacing brake light test switch
-`bmw_e31_am_en_99b9bfc0` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:1067 | doc_type:owners_manual
 
 ![](images/e4574428baee8908b43c045eac89199db90c2881d1c97574afb89ec2189116c4.webp)
 
@@ -43989,7 +42588,6 @@ Brake light test switch is installed in same housingas the brake light switch. R
 
 
 ### 6131 310 Replacing brake lightswitch
-`bmw_e31_am_en_320a7caa` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:1068 | doc_type:owners_manual
 
 Remove lower A-pillar trim panel.   
 Remove uniocking lever for front panel.   
@@ -44002,52 +42600,47 @@ Disconnect plug connection.
 ![](images/42d8c82a93462029964f5bc089ae1b41b9d8375f7a3e1233f53c67ad2b276904.webp)
 
 
-### Caution!
-`bmw_e31_am_en_0e4425d8` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:1069 | doc_type:owners_manual
-
-On vehicles with an electronic brake light switch (identifiable by cooling ribs),the lines must be secured with a cable connector(1）.as shown in thefigure.
-
-Depress brake pedal.
-
-1: Pull plunger and sleeve forward completely.   
-2: Compress retainers and pull switch toward rear.
-
-Plug connections for brake light switch and brake light test switch.
-
-1 and 2 brake light switch   
-3and 4 brake light test switch
-
-![](images/ea7b5453ee202ca5a7a49de791db89c92bf52a11f66830e569ca2abf77e828a7.webp)
-
-Installation:   
-Depress brake pedal   
-Pull plunger and sleeve completely forward, as described in1.   
-Insert switch as shown in2 and slowly release pedal to neutral position.   
-Adjustment is automatic.
+> ⚠️ **Внимание:** 
+> On vehicles with an electronic brake light switch (identifiable by cooling ribs),the lines must be secured with a cable connector(1）.as shown in thefigure.
+>
+> Depress brake pedal.
+>
+> 1: Pull plunger and sleeve forward completely.   
+> 2: Compress retainers and pull switch toward rear.
+>
+> Plug connections for brake light switch and brake light test switch.
+>
+> 1 and 2 brake light switch   
+> 3and 4 brake light test switch
+>
+> ![](images/ea7b5453ee202ca5a7a49de791db89c92bf52a11f66830e569ca2abf77e828a7.webp)
+>
+> Installation:   
+> Depress brake pedal   
+> Pull plunger and sleeve completely forward, as described in1.   
+> Insert switch as shown in2 and slowly release pedal to neutral position.   
+> Adjustment is automatic.
 
 
-### Caution!
-`bmw_e31_am_en_a2aeb98d` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:1070 | doc_type:owners_manual
-
-On vehicles with EML (Electronic Power Control) always check the safety path! Referto 1270500.
-
-Circuit diagram for brake light test switch and brake light switch
-
-![](images/7a03af958638fdfdcc8511b42ed6ed498df421997eba7511460bb880318baa8e.webp)
-
-Caution!   
-The switch setting could be affected if the brake pedal is released suddenly.   
-Perform function check.
-
-Caution!
-
-After replacing the brake light test switch or brake light switch, always perform thefollowing test:
-
-Check safety path of the Electronic Power Control. Procedure described in Repair Instructions 12 70500.
+> ⚠️ **Внимание:** 
+> On vehicles with EML (Electronic Power Control) always check the safety path! Referto 1270500.
+>
+> Circuit diagram for brake light test switch and brake light switch
+>
+> ![](images/7a03af958638fdfdcc8511b42ed6ed498df421997eba7511460bb880318baa8e.webp)
+>
+> Caution!   
+> The switch setting could be affected if the brake pedal is released suddenly.   
+> Perform function check.
+>
+> Caution!
+>
+> After replacing the brake light test switch or brake light switch, always perform thefollowing test:
+>
+> Check safety path of the Electronic Power Control. Procedure described in Repair Instructions 12 70500.
 
 
 ### 6131320 Replacing switch for handbrake warning light
-`bmw_e31_am_en_53b8cea2` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:1071 | doc_type:owners_manual
 
 Unclip trim panel.
 
@@ -44059,13 +42652,11 @@ Switch must engage between first and second detent stages.
 
 
 ### 61-31/15
-`bmw_e31_am_en_f23788d2` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1072 | doc_type:owners_manual
 
 ![](images/7db6349d55b0745fa4768eda31e739969921f92c2ff436ad02de78b5e323c971.webp)
 
 
 ### 6131331 Replacing switch for glove box lighting at top
-`bmw_e31_am_en_04abc8ab` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1073 | doc_type:owners_manual
 
 Unfasten screws.   
 Remove trim panel. Unlasten screws.   
@@ -44073,13 +42664,11 @@ Remove hinge by lifting out past alr ducl at an angle.
 
 
 ### Instalfation:
-`bmw_e31_am_en_e3a4f632` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1074 | doc_type:owners_manual
 
 During installation, ensure that the switch does not slide oul o the bracket. Slowly close flapand check through crack whether light goes out.
 
 
 ### 6131 332 Replacing lowerglove box light switch
-`bmw_e31_am_en_29a4040a` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:1075 | doc_type:owners_manual
 
 Remove lower right glove box, refer to 5116363   
 Remove trim panel. Remove switch (3).   
@@ -44097,7 +42686,6 @@ Plug connection for microswitch on lock cylinder of glove box.
 
 
 ### 6131 440 Removing and installing or replacing thermoswitch for heated windshield washer jets
-`bmw_e31_am_en_5fb2bf41` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1076 | doc_type:owners_manual
 
 Function description: The thermoswitch is switched sequentially with the heated washer spray jets. Cut-in temperature: 2-10°C Cut-out temperature: 8 16°C
 
@@ -44120,7 +42708,6 @@ Installation location: ln front brake air duct. Disconnect plug cannection. Uncl
 
 
 ### 6131 470 REMOVING AND INSTALLING ORREPLACING RELAY/ MODULE(IN TAUNK)
-`bmw_e31_am_en_5c1b5a1e` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:1077 | doc_type:owners_manual
 
 Refer to general Informatlon In 6100！
 
@@ -44146,14 +42733,12 @@ Control unit forelectronic transmisslon control (automatic transmission)
 
 
 ### 6131 487 Replacingmain relay (for lambda control)
-`bmw_e31_am_en_8df15165` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1078 | doc_type:owners_manual
 
 Unfasten screws in cover.   
 Remove cover.
 
 
 ### 6131492 Replacing level switch
-`bmw_e31_am_en_ac220052` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1079 | doc_type:owners_manual
 
 Emptycontainer. Remove cable from level switch. Lift out switch.
 
@@ -44168,22 +42753,18 @@ Check system for leaks.
 ![](images/969cb9f9fe0b6149d2e2d367a7b48da60a7928aa81d214157ff1a445fc1e783c.webp)
 
 
-### Caution!
-`bmw_e31_am_en_b11a332c` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1080 | doc_type:owners_manual
-
-Depending on condition of vehicle,the location of the relays can differ. Iin doubt,pull the desired relay to test whether the correct function is interrupted.
-
-For additional information on troubleshooting. referto schematics in Electrical TroubleshootingManual 8 Series.
+> ⚠️ **Внимание:** 
+> Depending on condition of vehicle,the location of the relays can differ. Iin doubt,pull the desired relay to test whether the correct function is interrupted.
+>
+> For additional information on troubleshooting. referto schematics in Electrical TroubleshootingManual 8 Series.
 
 
 ### 61-31/20
-`bmw_e31_am_en_bbdcd238` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1081 | doc_type:owners_manual
 
 ![](images/16c1d983d9293561b7a4c7d6372e1cab16ca5297bbc5025c9852bb4bb060f6a2.webp)
 
 
 ### 6131521 Replacingmain relay (for digital motorelectronics)
-`bmw_e31_am_en_cb1961f3` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:1082 | doc_type:owners_manual
 
 Unfasten screws in cover.   
 Remove cover.
@@ -44198,20 +42779,17 @@ M60:
 Main relay for Digital Motor Electronics
 
 
-### Caution!
-`bmw_e31_am_en_0fd57864` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1083 | doc_type:owners_manual
-
-Depending on construction status of vehicle, location of relays can differ. If in doubt, pull the desired relay to check that the relevant function is interrupted.
-
-Additional instructions on troubleshooting see schematics In Electrical Troubleshooting Manual 8 Series.
-
-![](images/d42561c719e7d469a22ca97a3bad31ce1c960111af993d528ba7f197c0e30f8a.webp)
-
-spring and remove reclining
+> ⚠️ **Внимание:** 
+> Depending on construction status of vehicle, location of relays can differ. If in doubt, pull the desired relay to check that the relevant function is interrupted.
+>
+> Additional instructions on troubleshooting see schematics In Electrical Troubleshooting Manual 8 Series.
+>
+> ![](images/d42561c719e7d469a22ca97a3bad31ce1c960111af993d528ba7f197c0e30f8a.webp)
+>
+> spring and remove reclining
 
 
 ### REPLACING BOTH MICRO-SWITCHES FOR BACKRESTON LEFTOR RIGHTSEAT
-`bmw_e31_am_en_f4a5a58e` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:1084 | doc_type:owners_manual
 
 ■ refer 1o Group 52. of Iront seat backGroup52.
 
@@ -44230,7 +42808,6 @@ Rlght Slde Mlcroswitch: Detach return spring (1）and re retalner (2).
 
 
 ### Remove microswitch.
-`bmw_e31_am_en_2affb960` | e31_am | pdf_manual | tier:2 | lang:en | layer:suspension | p:1085 | doc_type:owners_manual
 
 Installation:   
 Check the Installed posltion of the microswltch operating lug. Left Side Microswitch:   
@@ -44239,13 +42816,11 @@ Check the installed positlon of the mlcroswltch operating lug.
 
 
 ### 61-31/22
-`bmw_e31_am_en_6c5b68d6` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1086 | doc_type:owners_manual
 
 ![](images/3525b6d50b611ed4bf0c737260d04bad3348fa5643f547872808a5bac5a13b4e.webp)
 
 
 ### 6131 CHECKING FUNCTION OF MICROSWITCHES
-`bmw_e31_am_en_d468b1a4` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:1087 | doc_type:owners_manual
 
 Remove front seat refer to Group 52. Remove backrest shell panel reler to Group 52.
 
@@ -44277,7 +42852,6 @@ Investigate any stored laults.
 
 
 ### 6131643 REMOVING AND INSTALLING OR REPLACING REGULATOR FOR POWER SEAT DRIVE (AXIAL ADJUSTMENT)
-`bmw_e31_am_en_1bcce2b9` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:1088 | doc_type:owners_manual
 
 Remove front seat- refer to Group 52.
 
@@ -44300,7 +42874,6 @@ installation: Check functlon.
 
 
 ### 6131644 REMOVING AND INSTALLING ORREPLACING REGULATOR FOR POWER SEAT DRIVE (INCLINATIONADJUSTMENT)
-`bmw_e31_am_en_fc28be97` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:1089 | doc_type:owners_manual
 
 Remove front seat referto Group 52.
 
@@ -44327,7 +42900,6 @@ Unscrew screws and remove panel.
 
 
 ### 61-31/26
-`bmw_e31_am_en_05697898` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1090 | doc_type:owners_manual
 
 ![](images/63b03877a1b133eec20c8195bac2ee54bd67f99eab0f66b8ab1aceab2980f2e5.webp)
 
@@ -44337,7 +42909,6 @@ Remove regulator (1).
 
 
 ### 6131 ROUTING OF WIRES ON FRONT SEAT
-`bmw_e31_am_en_6c3e405c` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:1091 | doc_type:owners_manual
 
 White marks on the wire harness show the polnts, at whlch the wire harness must be secured to the seat with wire straps. If these marksare neglected whlle Installing the wire harness,the distance of seat adjustment could be too small or the wire harness might be damaged.
 
@@ -44372,7 +42943,6 @@ Front vlew. Control unlt installed. Left-hand side.
 
 
 ### 6135 EXCHANGING AND CODING CONTROL UNITS
-`bmw_e31_am_en_7e70a249` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1092 | doc_type:owners_manual
 
 Reler to general Information on 61-0.   
 Disconnect battery ground leads belore exchanging control units.   
@@ -44390,7 +42960,6 @@ CodingIs carrled out In Dingolfing fora speciflc model according to Information 
 
 
 ### Sample Central Label:
-`bmw_e31_am_en_532d15f3` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:1093 | doc_type:owners_manual
 
 Chassis number GM = Basic code (9 dlglts) SA = Speclal equipment (17 diglts) VN 0 Version (11 dlglts) AM = Drivemanagement (11dlgits)
 
@@ -44399,13 +42968,11 @@ Check whether the chassls number ls correct.
 
 
 ### 61-35/2
-`bmw_e31_am_en_ee98c00d` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1094 | doc_type:owners_manual
 
 ![](images/ce55b466513029ce25ae66a963d6bb58c9b2a70d471174e698d32b653f6eabed.webp)
 
 
 ### 6135 REMOVING AND INSTALLING CONTROL UNITS IN A-PILLAR
-`bmw_e31_am_en_4ee3c0fb` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1095 | doc_type:owners_manual
 
 Turn screws 90" and remove trim panel.
 
@@ -44428,7 +42995,6 @@ Control Units on Passenger's Side: Unscrew screws.
 
 
 ### 61-35/3
-`bmw_e31_am_en_7194799f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1096 | doc_type:owners_manual
 
 1=Control unltfor Infrared remote control   
 2=Control unit for automatic recirculating alr control (AUC)
@@ -44437,7 +43003,6 @@ Control Units on Passenger's Side: Unscrew screws.
 
 
 ### 6135 REPLACING LEFT OR RIGHTDOOR MODULE
-`bmw_e31_am_en_5ff15325` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1097 | doc_type:owners_manual
 
 ![](images/9a1b986b1ad3eea380127ed4237d5527a0219ae28709ba4d84f745fc7827a7a4.webp)
 
@@ -44448,14 +43013,12 @@ Unscrew screws.
 
 
 ### 6135 REPLACING CONTROL UNITS BELOW DASHBOARD TO THE LEFT
-`bmw_e31_am_en_ff2b1247` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:1098 | doc_type:owners_manual
 
 Remove dashboard trim panel at bottom left.   
 Turn screws 90'.
 
 
 ### 6135 REPLACING CONTROL UNITS BELOW DASHBOARD TO THE RIGHT
-`bmw_e31_am_en_3a5fe3b2` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1099 | doc_type:owners_manual
 
 ![](images/5b0044d2188be2252bd2fec179db3f4f7635460b98a698c957ec1e7583f5f95f.webp)
 
@@ -44513,7 +43076,6 @@ EDC ■ electronlc absorber control
 
 
 ### 6135... REPLACING CONTROL UNIT FOR POWER SUN ROOF
-`bmw_e31_am_en_3e48fa9a` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1100 | doc_type:owners_manual
 
 Uncllp trim panel.   
 Remove sun roof molor ■ sce Gr.54.
@@ -44526,7 +43088,6 @@ Control unit forelectronic transmisslon control
 
 
 ### 61-35/7
-`bmw_e31_am_en_185205d3` | e31_am | pdf_manual | tier:2 | lang:en | layer:electrical | p:1101 | doc_type:owners_manual
 
 Traller module
 
@@ -44535,7 +43096,6 @@ Safety fuse 80 A
 
 
 ### CONTROL UNIT LOCATION SURVEY
-`bmw_e31_am_en_684c1a62` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1102 | doc_type:owners_manual
 
 ![](images/9645e9dd7fed6153c695ae04bea55ca232777009768edc18df7d8fef6d1e3144.webp)
 
@@ -44563,14 +43123,11 @@ Longer stop for parked position
 8 Inlet on cast console for parked position stop
 
 
-### Note:
-`bmw_e31_am_en_b5fa3cc3` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1103 | doc_type:owners_manual
-
-Inlet (8) on the cast console guldes the longer stop(6) of the motor crank for the parked posltion.
+> ℹ️ **Примечание:** 
+> Inlet (8) on the cast console guldes the longer stop(6) of the motor crank for the parked posltion.
 
 
 ### 6161.. Adjust or inspect windshield wiperarm approach angle on windshield
-`bmw_e31_am_en_03a63b40` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1104 | doc_type:owners_manual
 
 The approach angle of the wiper arm on the windshield determines toalarge extent the wipe quality during intermittent operation and the wipe quality at low roadspeeds.
 
@@ -44588,7 +43145,6 @@ fold-away position
 
 
 ### Procedure:
-`bmw_e31_am_en_f660bed8` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1105 | doc_type:owners_manual
 
 Select largest possible gap"A" between special tool 1andspeclal tool2.   
 Grip special tool 1to avoid stress being applied to joint 3 when bending.   
@@ -44600,13 +43156,11 @@ Perform function check.
 
 
 ### 61-61/4
-`bmw_e31_am_en_889d451a` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1106 | doc_type:owners_manual
 
 ![](images/21f84538e1d34762d7d6c795329e966fa930acd461b54e84921804365a7f1d5b.webp)
 
 
 ### 6161041 REPLACING BOTH WINDSHIELD WIPER BLADES
-`bmw_e31_am_en_a33fb3fc` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1107 | doc_type:owners_manual
 
 Move windshleld wipers ta foldlng positlon by switching the Ignltlon on, operating the wiper swltch In Intermttent mode and swltching the Ignltion off when wipers are In bottom reversing posltlon. Wiperruns to folding position at A-plllar and remains there.
 
@@ -44628,7 +43182,6 @@ Passenger's Side: Remove cover. Unscrew nut. Tightening torque\*.
 
 
 ### 6161250 REPLACING WINDSHIELD WIPERMOTOR
-`bmw_e31_am_en_0a6bd730` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1108 | doc_type:owners_manual
 
 Remove complete wlper console-- reler to 61 61271.   
 Run the wiper motor to parked posltlon ( posslble) prior to removal.
@@ -44639,7 +43192,6 @@ Important! Reler to Intormatlon on 61-61/1.
 
 
 ### Vlewof Wlper Motor Output Shaft
-`bmw_e31_am_en_26619621` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1109 | doc_type:owners_manual
 
 1 Circlip   
 2 Corrugated washer
@@ -44679,7 +43231,6 @@ Install drive rod.
 
 
 ### 6161271 REMOVING AND INSTALLING COMPLETE WIPER CONSOLE
-`bmw_e31_am_en_6b9c6362` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1110 | doc_type:owners_manual
 
 Remove prop.
 
@@ -44691,7 +43242,6 @@ Important! Refer to Inlormatlon on 61-61/1.
 
 
 ### Important!
-`bmw_e31_am_en_876e1e7a` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1111 | doc_type:owners_manual
 
 Sei ihe air volume control wheel to zero and swltch the Ignltlon on before dlsconnecting the cable,so that the drive motor closes the air flaps. Dlsconnect battery ground leads. Refer to information on page 61-00.
 
@@ -44761,7 +43311,6 @@ Loosen wire strap.
 
 
 ### 6161 285 REPLACING WIPER CONTACT FORCE CONTROL MOTOR
-`bmw_e31_am_en_3623414b` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1112 | doc_type:owners_manual
 
 Installation: Mount stop for the wiper linkage.
 
@@ -44784,7 +43333,6 @@ Lubricate sleeve and plunger wlth grease prior to Installation.
 
 
 ### 61 61 REPLACING STOP FOA PARKED POSITION
-`bmw_e31_am_en_0ce69563` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1113 | doc_type:owners_manual
 
 Afaulty stop wll be notlced when wipers do not return to parked posltlon Irom neutral positlon after wiping. Wipermotor tuns Inversed so that wlpers can get to parked posltlon from the neutral positlon.
 
@@ -44804,7 +43352,6 @@ Remove complete wipre console refer to 6161 271.
 
 
 ### 61-61/15
-`bmw_e31_am_en_27055bde` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1114 | doc_type:owners_manual
 
 ![](images/63f9cec07262083a7184e62159ecceecfd7a48dd02ce600394ae9538548fe0f7.webp)
 
@@ -44817,7 +43364,6 @@ Adjust helght of stop to distance A= 1.5 to 2.0 mm.
 
 
 ### 6167010 REPLACING WASHING FLUID PUMP FOR HEADLIGHT CLEANERS
-`bmw_e31_am_en_ace97220` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1115 | doc_type:owners_manual
 
 ![](images/7ee659aeee442a304c4fe468155d8f7fe3fe74fcc9c62c963133985b602c5e2e.webp)
 
@@ -44828,7 +43374,6 @@ Looson hose clamp and dlsconnect hose.
 
 
 ### 6167 060 REPLACING SPRAY NOZZLES FOR HEADLIGHT CLEANERS
-`bmw_e31_am_en_cc4b8cde` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1116 | doc_type:owners_manual
 
 Important! Hoses must notbe klnked alter Installation.
 
@@ -44845,7 +43390,6 @@ Spray nozzles are set and do not have to be adjusted.
 
 
 ### 6167 065 AEPLACING WASHING FLUID AND INTENSIVE CLEANING FLUID TANKS
-`bmw_e31_am_en_3292661b` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1117 | doc_type:owners_manual
 
 ![](images/be9c51811cd883a918fc49c97a1d075961b39851ea9674e5a613a6d29b4bf933.webp)
 
@@ -44859,7 +43403,6 @@ Pullwlres offo1 levol swlich and lft tanksout.
 
 
 ### 6167 REPLACING SUPPLY TANK IN SPARE WHEEL WELL
-`bmw_e31_am_en_da93a494` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:1118 | doc_type:owners_manual
 
 Installation:   
 FII tanks with washing fluld and Intenslve cleaning fluld.   
@@ -44872,7 +43415,6 @@ Empty the tank.
 
 
 ### 6171004 AIMING SPRAY NOZZLES FOR WINDSHIELD WASHER
-`bmw_e31_am_en_14a16a81` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1119 | doc_type:owners_manual
 
 The ejected water should hlt the glass In themlddle ol azone. Dlmenslons are applicable tor LHD models, but are Inversed for RHDmodels.
 
@@ -44893,19 +43435,16 @@ Mark polnts of contact wlth pleces ol tape. Adjust the spray nozzles using Specl
 
 
 ### 61-71/2
-`bmw_e31_am_en_34343f43` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1120 | doc_type:owners_manual
 
 ![](images/0b41b0b024a5f0789ffae36d32e80cff89d64828fe7883dcea28ab6c4d7cdd70.webp)
 
 
 ### 6171010 REMOVING AND INSTALLINGOR REPLACING LEFTORRIGHT WINDSHIELD SPRAYNOZZLE
-`bmw_e31_am_en_725a5aca` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1121 | doc_type:owners_manual
 
 ![](images/9e3c1f997861c4c24f7be06140cffc1f3aa149f19a8b999f0741ecee5d9a85fa.webp)
 
 
 ### 6171 061 REPLACING WINDSHIELD WASHING FLUID TANK (REFILLING TANK IN TRUNK)
-`bmw_e31_am_en_0ac76e1a` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1122 | doc_type:owners_manual
 
 1 Delivery pump for lilllng front tank; swltched on and off by level switch In front tank   
 23 Level switch Water feed from tall panel Pull lockpin out of clip.   
@@ -44918,7 +43457,6 @@ Installation: FII tank with washing fluld. Check system for leaks.
 
 
 ### 62 Instruments
-`bmw_e31_am_en_ad9441a5` | e31_am | pdf_manual | tier:2 | lang:en | layer:infotainment | p:1123 | doc_type:owners_manual
 
 Layout of instrument cluster 62-11/1   
 6211 080 LCD module 一 removeand installor replace ...... == 62-11/2   
@@ -44930,7 +43468,6 @@ Instrument carrier-dismantle .................................. 62-21/2
 
 
 ### INSTRUMENT CLUSTER SURVEY
-`bmw_e31_am_en_39b51193` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1124 | doc_type:owners_manual
 
 ![](images/87e71127037b81c30757ee3ef9cac2d472acbfd725cf50c070e7f573518af467.webp)
 
@@ -44946,13 +43483,11 @@ Instrument carrier-dismantle .................................. 62-21/2
 
 
 ### 62-11/2
-`bmw_e31_am_en_6267291a` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1125 | doc_type:owners_manual
 
 ![](images/4873226dca1ae08c5ce4b40bfb0e6eee86b5419814cd63f3294e29a781662e8e.webp)
 
 
 ### 6211 080 REMOVING AND INSTALLING OR REPLACING LCD MODULE
-`bmw_e31_am_en_f8a5dacc` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1126 | doc_type:owners_manual
 
 Push back retalner and pull out LCD module.
 
@@ -44960,7 +43495,6 @@ Push back retalner and pull out LCD module.
 
 
 ### 6216050 REMOVING AND INSTALLING OR REPLACING SENDER FOR TEMPERATURE GAGE
-`bmw_e31_am_en_c207e1fe` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:1127 | doc_type:owners_manual
 
 The temperature gage senderls located wlth two other temperature sensors behind the englne between the flrewall and englne in awater plpe.
 
@@ -44984,7 +43518,6 @@ Pull otf plug on temperature gage and unscrew sender.
 
 
 ### 6221 000 REMOVING AND INSTALLING INSTRUMENT CARRIER
-`bmw_e31_am_en_29a2324e` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:1128 | doc_type:owners_manual
 
 ![](images/ecd4aaa523bb5941f988027a0490204b4cf66eb48bd08dcfe0643cafafe16f61.webp)
 
@@ -44993,19 +43526,16 @@ Remove steering wheel -see 3233000. Unscrew screwsand remove switch frame -sce G
 Unscrew screws. Pry out Instrument clusterupward slightly and pull forward up to the steering column,then tilt forward completely and remove.
 
 
-### Note:
-`bmw_e31_am_en_1f7151a8` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:1129 | doc_type:owners_manual
-
-Cover steering column wlth felt sheet or foam rubberto avoid scratching the glass of the Instrument cluster.
-
-Push lever onplug forward and then pull off plug.
-
-Instalation:   
-Lever must be posltloned forward when Inserting the plug.
+> ℹ️ **Примечание:** 
+> Cover steering column wlth felt sheet or foam rubberto avoid scratching the glass of the Instrument cluster.
+>
+> Push lever onplug forward and then pull off plug.
+>
+> Instalation:   
+> Lever must be posltloned forward when Inserting the plug.
 
 
 ### 6221 DISASSEMBLING INSTAUMENT CARRIER
-`bmw_e31_am_en_8bb47cc6` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1130 | doc_type:owners_manual
 
 Remove Instrument carrler- see 6221 000. Tllt up lock the fulldlstance and pull backrear housing sectlon.
 
@@ -45027,7 +43557,6 @@ Press in locks on left and right sldes toreplace an Instrument and pull out thec
 
 
 ### 63 Lights
-`bmw_e31_am_en_a9668567` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1131 | doc_type:owners_manual
 
 63 10004 Headlights (pop-up headlights) I adjust 6 10/1   
 508 Basic position ofheadlightinserts(pop-upheadlights), left or right 1 adjust 63- 10/2   
@@ -45086,7 +43615,6 @@ Rear fog lights
 
 
 ### 6310004 Adjusting headlights (pop-up headlights)
-`bmw_e31_am_en_4b820d0b` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1132 | doc_type:owners_manual
 
 Note:   
 This adjustment dimension(e)is valid in the FRG (Germany).   
@@ -45094,7 +43622,6 @@ Note relevant national sp-ocifications!
 
 
 ### Test requirements:
-`bmw_e31_am_en_10aa0731` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1133 | doc_type:owners_manual
 
 ■ Check tire pressure and correctif necessary Apply load equlvalent t one person to drivers seat （approx.75kg） Vehicle fuel tank full or equivalent extra weight in trunk Vertical aim control insetting 0 Vehicle on level ground Correct adjustment of headlights relative to hood lid Align adjusting unit down longitudinaLaxis of vehicle and parallel to base position thenadjust marking line (M) on adjustment unit to dlmension (e) Dimenslon （e） for low beamand full beam = 12 cm 10m Dimension （e)for foglights= 20 cm/ 10m
 
@@ -45106,25 +43633,22 @@ lt is not possible to achieve clear allocatlon of adjusting serews.
 2. Adjusting screw used primarlly for height setting
 
 
-### Note:
-`bmw_e31_am_en_5f6c3ade` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1134 | doc_type:owners_manual
-
-Always perform adjustment using either of adjusting screws (optional). Only the low beam headlight is adjusted in this way. Check adjustment for high beam and foglights,resetting basic position if necessary 8006310.508.
-
-![](images/821f66993df722ba5504b3c745555d92f1c65f611f834db6b48c13d30f20d778.webp)
-
-= H-h=12 cm   
-H= Height of headlight center over the base position   
-h= Height ofmarking lne over the base posl tlon   
-+= Central mark=center point of headlights   
-M= Marking line for the adjusting unit   
-S= Base position of vehicle and adjusting unit Adjustment procedure:   
-When adjusting the height setting, the   
-lightdark limlt of the low beam headlightmust match the horizontal marking line (M) on the unit. Forlateral adjustment,thelight/dark limit on the bend line must start on the horizontal marking line.
+> ℹ️ **Примечание:** 
+> Always perform adjustment using either of adjusting screws (optional). Only the low beam headlight is adjusted in this way. Check adjustment for high beam and foglights,resetting basic position if necessary 8006310.508.
+>
+> ![](images/821f66993df722ba5504b3c745555d92f1c65f611f834db6b48c13d30f20d778.webp)
+>
+> = H-h=12 cm   
+> H= Height of headlight center over the base position   
+> h= Height ofmarking lne over the base posl tlon   
+> += Central mark=center point of headlights   
+> M= Marking line for the adjusting unit   
+> S= Base position of vehicle and adjusting unit Adjustment procedure:   
+> When adjusting the height setting, the   
+> lightdark limlt of the low beam headlightmust match the horizontal marking line (M) on the unit. Forlateral adjustment,thelight/dark limit on the bend line must start on the horizontal marking line.
 
 
 ### 6310508 Adjusting basic position of headlightinserts(pop-up headlights) on left and right sides
-`bmw_e31_am_en_0dd573d4` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1135 | doc_type:owners_manual
 
 ![](images/7e4075d7d15ce12ff2b1c10654d175eb69971544e7d05a08f301a0ba492a61b6.webp)
 
@@ -45174,13 +43698,11 @@ Installation: Ensure lens is correctly Installed. ll necessary,fit new gasket!
 
 
 ### 63-11/1
-`bmw_e31_am_en_e2cc1b87` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1136 | doc_type:owners_manual
 
 ![](images/73bc8912a63d653fa395bc671a5f8960248b8c84096e142f954dfea116c987d0.webp)
 
 
 ### 6312033 Removingand installing or replacing leftor right lens (forpop-up headlights)
-`bmw_e31_am_en_9c19deb7` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1137 | doc_type:owners_manual
 
 ![](images/6a87d3ac3eca92d81a1e85a19a2f46f29e4c1b08511e59c2b7000ad81f50cb9f.webp)
 
@@ -45222,7 +43744,6 @@ Instaliation: Ensure that lens is correctly seated. lfnecessary,remove gasket
 
 
 ### Installing or replacing complete leftand right pop-up headlights
-`bmw_e31_am_en_6b3e3d42` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1138 | doc_type:owners_manual
 
 Interrogate fault memory,remedy any faults
 
@@ -45256,7 +43777,6 @@ lfnecessary,slide back rubbergrommets and onsure that they arecorectly seated af
 
 
 ### 63 12200 Replacing actuator drivefor left orright pop-up headlights
-`bmw_e31_am_en_508affab` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1139 | doc_type:owners_manual
 
 ![](images/0abdff415bfad5de9fab8e99ed4d456c09088dd8d8a4d52bc9d1dead42503534.webp)
 
@@ -45277,7 +43797,6 @@ see 6312747
 
 
 ### 63 12400 Removing and installing or replacing insert for leftor right headlight
-`bmw_e31_am_en_6a5205b5` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1140 | doc_type:owners_manual
 
 Removing and installing complete left orright pop-up headlight see6312090.
 
@@ -45349,13 +43868,11 @@ Caution! Ensure that installation position Is correct!
 
 
 ### 63-12/7
-`bmw_e31_am_en_7f0ee18b` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1141 | doc_type:owners_manual
 
 ![](images/5a7ce5c181a027f2803947e7f4130547ad557f77d857b1ee68b779a18d5f9f31.webp)
 
 
 ### 6312600 Removing and installingor replacing leftor righthfgh beam headlight insert
-`bmw_e31_am_en_fe31ce7a` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1142 | doc_type:owners_manual
 
 Remove headllght insert see 63.12.400 Cautlon! Do not turn adjusting screwa (1 and 2).
 
@@ -45373,7 +43890,6 @@ Adjust basicsetting of headllght inserts see 6310508.
 
 
 ### 6312610 Removingand installingor replacing leftorrightlow beam headlightinsert (pop-up headlights)
-`bmw_e31_am_en_4b2e2262` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1143 | doc_type:owners_manual
 
 Removing headlight insert-see 6312400 Caution!   
 Do not twist adjusting screws in the retaining clips.
@@ -45390,13 +43906,11 @@ Adjust basic setting of headlight inserts see6310508.
 
 
 ### 63-12/9
-`bmw_e31_am_en_c2cea2e5` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1144 | doc_type:owners_manual
 
 ![](images/8b8e5bbf73d0b4dbbeedc746d746d2d5af1e286879dfe9656fc6328769815cfc.webp)
 
 
 ### 6312620 Removingand installingor replacing left orright foglight insert (pop-up headlights)
-`bmw_e31_am_en_aee8df18` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1145 | doc_type:owners_manual
 
 Remove headlight insert soo 6312400   
 Caution!   
@@ -45412,27 +43926,23 @@ Adjust basic position of headlight inserts 8006310508.
 
 
 ### 6312747 Installing both pop-up head lights and adjusting the headlights
-`bmw_e31_am_en_2bf683f3` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1146 | doc_type:owners_manual
 
 Setrear adjusting screws(1 and 2) with speclal too1630110or 630113to preassembly dimension A=9.5mm.
 
 Perform function check on the pop-up headlights
 
 
-### Caution!
-`bmw_e31_am_en_f43b7531` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1147 | doc_type:owners_manual
-
-Only perform check if both headlights are connected,otherwisea fault will be recorded in the fault memory.
-
-Set adjusting screw to preassembly dimensionA=5.0mm with speclal tool 63 0 110 or 630113.
-
-![](images/a3602a2573c826504b88904ea54a2f0dae3b59857c1792b55eb9bc97217750e6.webp)
-
-Flt shaped lid (special tool) 630000. Carefully close hood lid to avold damage to paint on hoodlid being caused by the spacer blocks
+> ⚠️ **Внимание:** 
+> Only perform check if both headlights are connected,otherwisea fault will be recorded in the fault memory.
+>
+> Set adjusting screw to preassembly dimensionA=5.0mm with speclal tool 63 0 110 or 630113.
+>
+> ![](images/a3602a2573c826504b88904ea54a2f0dae3b59857c1792b55eb9bc97217750e6.webp)
+>
+> Flt shaped lid (special tool) 630000. Carefully close hood lid to avold damage to paint on hoodlid being caused by the spacer blocks
 
 
 ### Cautlon!
-`bmw_e31_am_en_9d5ad0fb` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1148 | doc_type:owners_manual
 
 Shaped lids for left and right sldes are different.
 
@@ -45461,27 +43971,24 @@ I must be possible to slide headllghts sideways.
 From 5/91 the height adjustment of the inner scrow can beperformed from the top.The front light cluster-ls not removed any more. Set adjusting screw to preassembly dimenslon A=5.0mm usingspecialtool630110or 630113.
 
 
-### Note:
-`bmw_e31_am_en_ecf20345` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1149 | doc_type:owners_manual
-
-To make illustration clearer,shown with popup headlights removed.
-
-Until5/91,height of retainngbracketis adjusted from thefront.To do thls,firstremove tho front light cluster,see 63.11.100.
-
-Close the hood lid. Check that gap between hood lid and headlight cover ls the same all round.Gheck helght adjustment once agaln and,if necessary,repeat the height adjustment process. Adjust headlights see 63 10004.
-
-![](images/26e07a8c9782d5756e67df5cfa44a6f5043bee4c087f66887a17cd7dbd116877.webp)
-
-up to 5/91   
-Installatlon:   
-1 helght cannot be adjusted sufficiently, ensure that the adjusting screw is correctly installed. Tighten retaining nuts.   
-Remove shaped cover and fit sealing cover.
-
-Instaflation: Ensure that the lld fs_correctly seated.
+> ℹ️ **Примечание:** 
+> To make illustration clearer,shown with popup headlights removed.
+>
+> Until5/91,height of retainngbracketis adjusted from thefront.To do thls,firstremove tho front light cluster,see 63.11.100.
+>
+> Close the hood lid. Check that gap between hood lid and headlight cover ls the same all round.Gheck helght adjustment once agaln and,if necessary,repeat the height adjustment process. Adjust headlights see 63 10004.
+>
+> ![](images/26e07a8c9782d5756e67df5cfa44a6f5043bee4c087f66887a17cd7dbd116877.webp)
+>
+> up to 5/91   
+> Installatlon:   
+> 1 helght cannot be adjusted sufficiently, ensure that the adjusting screw is correctly installed. Tighten retaining nuts.   
+> Remove shaped cover and fit sealing cover.
+>
+> Instaflation: Ensure that the lld fs_correctly seated.
 
 
 ### 63-21/1
-`bmw_e31_am_en_e556e74f` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1150 | doc_type:owners_manual
 
 ![](images/971e7d66b548060dc18ec5bfa7b4662a3934960d484b156d2eb3bb64ad892931.webp)
 
@@ -45497,7 +44004,6 @@ Remove conneclor, unfasten nuts and lift out tall light
 
 
 ### 63-25/1
-`bmw_e31_am_en_f04a7ddc` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:1151 | doc_type:owners_manual
 
 ![](images/7a34654d7413ed5bd5868813c75c77e659c8f295c0278359ce3e038ef93234b8.webp)
 
@@ -45511,7 +44017,6 @@ Remove rear shelf,see 5146000 Unfasten screw connoction. Unfasten screws and rem
 
 
 ### 6326 000 REMOVING AND INSTALLINGOR REPLACING LEFT ORRIGHT LICENSE PLATELIGHT
-`bmw_e31_am_en_2e84a852` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1152 | doc_type:owners_manual
 
 Unscrew screws and take out llght.
 
@@ -45521,7 +44026,6 @@ Light bulbtype'.
 
 
 ### 63-99/1
-`bmw_e31_am_en_2690c7f2` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1153 | doc_type:owners_manual
 
 ![](images/8c611c45394b0cdc72f834d297fbee1ef9114bcdc30d828906755ffaf71f96d6.webp)
 
@@ -45535,13 +44039,11 @@ Twist and lift out bulb
 
 
 ### 63-99/2
-`bmw_e31_am_en_263de0ac` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1154 | doc_type:owners_manual
 
 ![](images/e9cffd2a46e11b30558962b24a5de64b6c51b82c8277d549e8ce341403fe966d.webp)
 
 
 ### 6399315Replacing bulb forleft or righttail ght (on side panel ortrunk lid
-`bmw_e31_am_en_09c8b7f2` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1155 | doc_type:owners_manual
 
 (lor bulbs in side panel) Unclip side trim panel
 
@@ -45549,7 +44051,6 @@ Twist and lift out bulb
 
 
 ### 6399 375 Replacing bulb for additional brake light
-`bmw_e31_am_en_5db9c714` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:1156 | doc_type:owners_manual
 
 Open trunk lid.   
 Twist lamp bracket and remove.   
@@ -45563,7 +44064,6 @@ Arrangement: 1 Brake light 2 Display light for direction of travel
 
 
 ### 63 99 401 Replacing bulb for left or rightlicense plate light
-`bmw_e31_am_en_882ee146` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1157 | doc_type:owners_manual
 
 Unfasten screws and removelamp.   
 Remove bulb from contacls. (forbulbs in trunk lid)   
@@ -45577,7 +44077,6 @@ Arrangement 4 Tall light 5 Rearfoglight 6 Reversing light
 
 
 ### 64 Heating and air conditioning
-`bmw_e31_am_en_a4c324c4` | e31_am | pdf_manual | tier:2 | lang:en | layer:hvac | p:1158 | doc_type:owners_manual
 
 6411205 Heater (IHKA) = removeandinstall 64- 11/1   
 207 Heatercore 一 replace ..\*.\*\*\*\*\*\*\* 64- 11/3   
@@ -45621,7 +44120,6 @@ Function of leakage sensor \*\*\*\*\*.\*.\*\*\*\*\*\*\*\*\*.\*\*.\*\*\*\*\*\*\*.
 
 
 ### 6411205 REMOVING AND INSTALLING HEATER (IHKA)
-`bmw_e31_am_en_90a04282` | e31_am | pdf_manual | tier:2 | lang:en | layer:steering | p:1159 | doc_type:owners_manual
 
 Draw refrigerant out of alr conditloner (see operating Instructions of pertinent equipment).   
 Remove complete dashboard ■ see Group51.   
@@ -45664,7 +44162,6 @@ Brush out pipe opening with tiremountIngpaste.
 
 
 ### 6411 207 REPLACING HEATER CORE
-`bmw_e31_am_en_87c79844` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:1160 | doc_type:owners_manual
 
 Remove complete dashboard = see Group 51.
 
@@ -45694,7 +44191,6 @@ Lift out heater core from the right side.
 
 
 ### 6411210 REMOVING AND INSTALLING MOTOR FOR HEATER (BLOWER)
-`bmw_e31_am_en_ff8702ed` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1161 | doc_type:owners_manual
 
 Run wlpers to parked posltion. Swltch off from wlper speed 1. Remove wlndshleld wiper arms = see 61 61 100.
 
@@ -45741,7 +44237,6 @@ Cllpsare located underneath electric lead duct of electronic box for fuel inject
 
 
 ### 64-11/6
-`bmw_e31_am_en_d44fcd68` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:1162 | doc_type:owners_manual
 
 ![](images/8cc4d2ee547733f7aee9789414428813863e51ada10ef3d6869db68bf9fed4f0.webp)
 
@@ -45753,19 +44248,16 @@ blower motor and pry out retalning strap.
 
 
 ### 64-11/7
-`bmw_e31_am_en_60adc4b0` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1163 | doc_type:owners_manual
 
 ![](images/aada22300d9b40b22ab52a7123cb3bbb7a5ec5f972085c0e7416515744977dc9.webp)
 
 
 ### 6411260 REPLACING ADDITIONAL WATER PUMP
-`bmw_e31_am_en_cb8de5e4` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1164 | doc_type:owners_manual
 
 Remove alr box-see 6411210. Loosen hose clamps on heater hoses (1...3) and pull off hoses.
 
 
 ### 64 11271 REMOVING AND INSTALLING WATERVALVE
-`bmw_e31_am_en_0da3b28a` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1165 | doc_type:owners_manual
 
 See 64 11 260.
 
@@ -45781,7 +44273,6 @@ Remove pump.
 
 
 ### 6411355 REMOVING AND INSTALLING INSIDE SENSOR BLOWER
-`bmw_e31_am_en_1741f8d0` | e31_am | pdf_manual | tier:2 | lang:en | layer:sensors | p:1166 | doc_type:owners_manual
 
 Remove heater controls -see   
 6411 750.   
@@ -45791,7 +44282,6 @@ Pull off plug and take out sensor blower.
 
 
 ### 6411590 REPLACING FINAL STAGE FOR BLOWER
-`bmw_e31_am_en_d00d6f3c` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1167 | doc_type:owners_manual
 
 Remove glove box refer to Group 51. Check the final stage prlor to replacingltreferto Car Electric/Eiectronic Test Plan.
 
@@ -45808,7 +44298,6 @@ Unscrew screws and pull final stage out.
 
 
 ### 6411750 DISASSEMBLING AND ASSEM_ BLING HEATER CONTROLS
-`bmw_e31_am_en_639c3c51` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1168 | doc_type:owners_manual
 
 Uncllp and pull cover upwards.
 
@@ -45830,7 +44319,6 @@ Disconnect plugs from heater controls.
 
 
 ### 6411755 REPLACING FRONT PANEL
-`bmw_e31_am_en_ffed26f8` | e31_am | pdf_manual | tier:2 | lang:en | layer:hvac | p:1169 | doc_type:owners_manual
 
 Remove heater controls 一 s00 6411750. Unscrew screws and take off cover.
 
@@ -45844,7 +44332,6 @@ Instaltation: Check for correct posllloning ol control wheels to potentlometers.
 
 
 ### 6399 REPLACING LIGHT BULBFOR CONTROL PANEL
-`bmw_e31_am_en_5d745151` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1170 | doc_type:owners_manual
 
 Remove plate for center console - sec Group51.
 
@@ -45858,7 +44345,6 @@ Don't forget the spacers when InstallIng.
 
 
 ### 6411765 REPLACING CONTROL UNIT FORHEATER
-`bmw_e31_am_en_6512b3f9` | e31_am | pdf_manual | tier:2 | lang:en | layer:hvac | p:1171 | doc_type:owners_manual
 
 Flrst check the control unlt prior.to removal = see 64 10010.
 
@@ -45872,13 +44358,11 @@ Press down on retalner and pull oul control unlt.
 
 
 ### 64-31/1
-`bmw_e31_am_en_49df7b2f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1172 | doc_type:owners_manual
 
 ![](images/23a4d5ba918f2d00bbf535017cd4ba512b67572da6777419ff3ff63d1fb0ee8e.webp)
 
 
 ### 6431010 REPLACING MICROFILTER
-`bmw_e31_am_en_390a51f3` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1173 | doc_type:owners_manual
 
 Run wiper arm to upright posltfon.   
 Unscrewscrews.   
@@ -45888,7 +44372,6 @@ Spread clps apart on leftand right sldes. Titmlcrofilter forward and pull lt out
 
 
 ### DESCRIPTION OF REFRIGERANT CIRCUIT FUNCTION
-`bmw_e31_am_en_013b792d` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:1174 | doc_type:owners_manual
 
 Afterswitching on the alr conditioner the retrlgerant clrcult Is aclivated In Ihat the solenold clutch recelves current.This produces poslive connectlon between the pulley and armature clutch plate and the compressor isdriven.
 
@@ -45917,13 +44400,11 @@ Safety switches
 
 
 ### 64-50/2
-`bmw_e31_am_en_3112da66` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1175 | doc_type:owners_manual
 
 ![](images/0a0d7ff5ca6de604cdfc9195e415f6349a5ab9437aed563e88d9acdaa25795b3.webp)
 
 
 ### SERVICE STATION (R 12)
-`bmw_e31_am_en_a7dc223d` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1176 | doc_type:owners_manual
 
 1234 Main switch   
 Operatlon hour counter   
@@ -45951,7 +44432,6 @@ Low pressure valve
 
 
 ### 6450009 DISCHARGING AND CHARGING AIR CONDITIONER
-`bmw_e31_am_en_260627f7` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1177 | doc_type:owners_manual
 
 Safety Precautions lor Handling Retrigerant:
 
@@ -45959,7 +44439,6 @@ The alr conditloning system is flled wlh salety refrigerant Frigen R 12 or Frgen
 
 
 ### Important!
-`bmw_e31_am_en_14a2cc17` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1178 | doc_type:owners_manual
 
 R 12 and R134a must never be mixed aseven the most minute mixed quantitleswould lead todecompositionin thesystem.Consequently syslems forR12 mayonlybefiiled with R12and vice versa Different retrigerant olls are used for both systems and must also notbe mixed. Vehicles with R 134asystems as well asparts forreplacementsare marked. TheservicestationforR134ais greenand markedR134a. The service station forR 12is blue.
 
@@ -46003,7 +44482,6 @@ When using a different sorvico stallon, refer to the pertinent operating Instruc
 
 
 ### 64-50/4
-`bmw_e31_am_en_d89d4d83` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1179 | doc_type:owners_manual
 
 ![](images/ef97f9588b3e3de288573753aa46c3aa7adf916864059e8d405e0c8bf38ce90c.webp)
 
@@ -46045,13 +44523,11 @@ Important! Never reuse drained refrigerant oll and dlspose lt as speclal reluse.
 
 
 ### 64-50/5
-`bmw_e31_am_en_5f355faf` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1180 | doc_type:owners_manual
 
 ![](images/bbed227c673324889bb402b403ab5f3a7b1832ac774cfbbeddeec6b73ea6b61a.webp)
 
 
 ### DISCHARGING AIR CONDITIONER:
-`bmw_e31_am_en_489a046d` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1181 | doc_type:owners_manual
 
 Bring service station Into baslc settling   
 (reler to page 64-50/3).   
@@ -46081,7 +44557,6 @@ Unscrew hlgh pressure hose trom pressure gage nssembly and connect lo the suppll
 
 
 ### CHARGING SYSTEM:
-`bmw_e31_am_en_a5d1677e` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1182 | doc_type:owners_manual
 
 Requlrements for correcl charging are a sutficlent amount of relrigerant and pressure Inthe charging cyilnderof at least 9to 11 bar.lf there s not enough refrlgerant In the charglng cyllnder,thls must be compensated by sucking refrigerant out of the pressure cyllnder.lnsuliclent pressure can be Increased by switching on the charging cylinder heater or cleaning the refrigerant.
 
@@ -46094,25 +44569,21 @@ Open valves 1 and 2) on the charglng hoses.Then open valve (11) agaln and observ
 
 
 ### DETECTING LEAKS:
-`bmw_e31_am_en_784aa2f6` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1183 | doc_type:owners_manual
 
 ![](images/654c3f06421987f4cff8f4f6cdc88f1b9caaabc53346600ef99d1aaf323b4a55.webp)
 
 Callbrate leak detector(1)"according to ihe operating Instructlons. Checkalr conditloner for leaks with leak detector(1). Tlghten loose plpes and elminale leaks.
 
 
-### Note:
-`bmw_e31_am_en_6da16e78` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1184 | doc_type:owners_manual
-
-Always check below an assumed point of leakage as refrlgerant Is heavler-than alr. Suck refrigerant ollout of system agaln aterfinlshing the leak test and elminating leaks.
-
-![](images/f38e499c035c82d406c719b9243d6004bc9324b53d7dc95b0b95d49b017c9501.webp)
-
-![](images/085f2412accca5be2e36e4a1c8484678936d4f62e90a30e64f7cf7f1ca8df003.webp)
+> ℹ️ **Примечание:** 
+> Always check below an assumed point of leakage as refrlgerant Is heavler-than alr. Suck refrigerant ollout of system agaln aterfinlshing the leak test and elminating leaks.
+>
+> ![](images/f38e499c035c82d406c719b9243d6004bc9324b53d7dc95b0b95d49b017c9501.webp)
+>
+> ![](images/085f2412accca5be2e36e4a1c8484678936d4f62e90a30e64f7cf7f1ca8df003.webp)
 
 
 ### CLEANING REFRIGERANT:
-`bmw_e31_am_en_343b673e` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:1185 | doc_type:owners_manual
 
 Brlng service stallon Into basic setting (refer to page 64-50/3). Open valve（14）on charging cylinder slightly （1to 1 and 1/2 turns). Swltch on suctlon and let cleaning run at least ten minutes. Close valve (14）and walt untillthecompressor isautomatically switched off. Inthecleaning processtherefrigerant Ispumped through □ drler Integrated In the servlco station where itis dried and cleaned to remove partlcles of dlrt. 真 molsture Indlcator（18）shows tho relrlgerant'smolsture content. Cleaning time should not exceed 10 to 15minutes. Ihe molsture Indlcator stll shows moisture aftor thls tlmo,lhe drler ls saturated and must be replaced(reler to operating Instructlons of the service station). Afterwards the refrlgerant must be cleaned agaln.
 
@@ -46123,7 +44594,6 @@ Ithe compressoris swltched olf during the cleaning process,the reasons for thls 
 
 
 ### 64-50/8
-`bmw_e31_am_en_2edd18e7` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1186 | doc_type:owners_manual
 
 muLsanUvINu BT MEASUHING PRESSURE:
 
@@ -46146,7 +44616,6 @@ Compressor does not run with equal intet and outlel pressures.
 
 
 ### Remedy:
-`bmw_e31_am_en_a2aa954f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1187 | doc_type:owners_manual
 
 IIcing-up protector has swltched the compressor off, check evaporalor sonsor or check powor supply to themagnetic couplng (reler to Electrlc/Electronlc Testfor Group 64).   
 Otherwise check magnetlc couplingmechanlcally (slips).
@@ -46155,7 +44624,6 @@ Low Inlet pressure and normal outlet pressure indicate an Insufficlent charged v
 
 
 ### Remedy:
-`bmw_e31_am_en_4655c6ea` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1188 | doc_type:owners_manual
 
 1 Check whether evaporator has Ice:then check evaporator sensor.   
 2. Suck out and measure relrlgerant. 1 sucked out volume ls approximately the same as specifled charge volume chock flow.of expanslon valve: then dischargo and recharge system.
@@ -46166,7 +44634,6 @@ Reler to Speclllcatlons
 
 
 ### AIA CONDITIONING EFFICIENCY TEST
-`bmw_e31_am_en_31544f62` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1189 | doc_type:owners_manual
 
 Soveral conditlons must be fulfllled for thls test.
 
@@ -46188,7 +44655,6 @@ I thls dlfforence In temporatute 1s not reached, the Service Statlon musl be con
 
 
 ### DESCAIPTION OF REFRIGERANT CIRCUIT FUNCTION
-`bmw_e31_am_en_55c2a1eb` | e31_am | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:1190 | doc_type:owners_manual
 
 Attor swltching on the alr conditlonar thorefrlgerant clreult lsactivatedin that Ihe magnellc coupllng recelves current. Thlsproduces posltive connecllon between the pulley and armature clutch plate and the compressor is driven.
 
@@ -46215,7 +44681,6 @@ Drler
 
 
 ### SERVICE STATION(SECU 134)
-`bmw_e31_am_en_a96c1be3` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1191 | doc_type:owners_manual
 
 12 Main swltch SUCKING/CLEANING swltch   
 3456 SUCKING end conlrol lamp High pressure hoso Low pressure hose Refrigerant Intetvalvo   
@@ -46239,7 +44704,6 @@ Drler
 
 
 ### 64-50/12
-`bmw_e31_am_en_a571f069` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1192 | doc_type:owners_manual
 
 6450009 DISCHARGING AND CHARGING AIR CONDITIONEA
 
@@ -46249,7 +44713,6 @@ The alr conditlonng system ls filled with safety refrlgerantFrigenR12orFrgenR134
 
 
 ### Important!
-`bmw_e31_am_en_bee26d8e` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1193 | doc_type:owners_manual
 
 R12and R134amust never bemixed aseven the most minute mixed quantitles would lead todecompositionlnthesystem.Consequently systems for R12mayonlybe flled with R 12and viceversa. Different refrlgerant ollsare used for both systemsand must also not be mixed. VehlcleswlthR134asystemsas well asparts forreplacementsare marked. Theservice station for R 134a IsgreenandmarkedR134a. The service statlon forR 12isblue.
 
@@ -46280,7 +44743,6 @@ Store fullrefrigerant cylinders that they are not subjected to direct sunshine o
 
 
 ### Important!
-`bmw_e31_am_en_75631118` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1194 | doc_type:owners_manual
 
 After each reflling check protective caps of charging valves for handtight . They serve as additlonal seals.
 
@@ -46294,13 +44756,11 @@ When using a dlferent service statlon,reler to the pertinent operating Instructl
 
 
 ### 64-50/13
-`bmw_e31_am_en_9ea51068` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1195 | doc_type:owners_manual
 
 ![](images/4cd799d0943a59a76b3bb68b037f6a39d953ac74c143afe0f4be9a4f8bff4903.webp)
 
 
 ### SUCKING REFRIGERANT OUTOF AIR CONDITIONER:
-`bmw_e31_am_en_6a7af9ce` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1196 | doc_type:owners_manual
 
 Descriptlon of pressure gage assembly   
 4 High pressure hose(red)   
@@ -46339,13 +44799,11 @@ Important! Never reuse dralned refrigerant oil and dlspose lt as speclal refuse.
 
 
 ### 64-50/14
-`bmw_e31_am_en_ea856ec0` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1197 | doc_type:owners_manual
 
 ![](images/e10b9805befec62fb4f7e28d2307e143048f3311daaa2dfcaa73f5ff05f799ce.webp)
 
 
 ### DISCHARGING AIA CONDITIONER:
-`bmw_e31_am_en_3f1315d2` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1198 | doc_type:owners_manual
 
 Bring service statlon Into basic settng   
 (reforto page 64-50/12).   
@@ -46381,7 +44839,6 @@ There lsno longermolsture In the system If the needle of vacdummeter(12） remal
 
 
 ### CHARGING SYSTEM:
-`bmw_e31_am_en_29ade20a` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:1199 | doc_type:owners_manual
 
 Requirements for correct charging are a sufficlent amount of refrigorant and prossure In tho charging cylinder of at least9to 11bar.lltherelsnol enough relrlgerant in the charglng cylinder,thls must be compensated by sucking refrigerant out of the pressure cyllnder. Insuficlent pressure can be Increased by swltching on thecharglng cyllnder heateror cleaning the refrlgerant.
 
@@ -46409,7 +44866,6 @@ Roferto Speclfications
 
 
 ### 64-50/16
-`bmw_e31_am_en_7d60f3db` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:1200 | doc_type:owners_manual
 
 Open the valves oh the charging hoses. Then open valve （7)agaln and observe the level In the charging cylinder. therelsapproxlmateiy correct charging volume\*In the system,close and open valve （7） In steps untll the correct volume ls In the system.
 
@@ -46419,7 +44875,6 @@ Open the valves oh the charging hoses. Then open valve （7)agaln and observe th
 
 
 ### DETECTING LEAKS:
-`bmw_e31_am_en_d2428186` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1201 | doc_type:owners_manual
 
 Calibrate leak detector.(1)\* according to the operating Instructions. Check alr conditloner for leaks wlth leak detector(1). Tlghten loose pipes and ellminate leaks.
 
@@ -46430,7 +44885,6 @@ Always check below anassumed polnt of leakage as refrigerant is heavler than alr
 
 
 ### CLEANING REFRIGERANT:
-`bmw_e31_am_en_de27e32e` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:1202 | doc_type:owners_manual
 
 Bring service station Into basic setting (referto page 64-50/12).   
 Open valva （15) oncharging cylinderslightly (1io1 and 1/2 tuns).   
@@ -46445,7 +44899,6 @@ If the compressor ls swltched of during the cleaning process,the reasons for thl
 
 
 ### TROUBLESHOOTING BY MEASURING PRESSURE:
-`bmw_e31_am_en_6ba7f70c` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1203 | doc_type:owners_manual
 
 Low Inlet pressure and high outlet-pressure Indicate a restricted hlgh pressure slde.
 
@@ -46466,7 +44919,6 @@ Compressor does not run with equal inlet and outlet pressures.
 
 
 ### Remedy:
-`bmw_e31_am_en_419d651b` | e31_am | pdf_manual | tier:2 | lang:en | layer:ev | p:1204 | doc_type:owners_manual
 
 IfIclng-up protecior has swltched the compressoroff,check evaporator sensor or check power supply to the magnetic couplng refer.to Electric/Electronic Test lor 7 Group 64).   
 Othorwise check magnetic coupling mechanically (slips).
@@ -46475,7 +44927,6 @@ Low iniet pressure and normal outlet pressure Indlcate an Insufflclent chargedvo
 
 
 ### Remedy:
-`bmw_e31_am_en_7a58373e` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1205 | doc_type:owners_manual
 
 1. Check whether evaporator has Ice;then check evaporator sensor.   
 2. Suck out and measure refrigerant. 1 sucked out volume Is approximately the same as speclfled charge volume\*, check llow of expanslon valve;then dlscharge and recharge system.
@@ -46486,7 +44937,6 @@ Reforto Specificatlons
 
 
 ### AIR CONDITIONING EFFICIENCY TEST
-`bmw_e31_am_en_84ba91cc` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1206 | doc_type:owners_manual
 
 Several condltlons must bo fullllled for thls test.
 
@@ -46508,7 +44958,6 @@ Ithls dlfference In tomperature Is not reached, tho Service Slatlon must be conn
 
 
 ### 6451000 CLEANING EVAPORATOR
-`bmw_e31_am_en_848fed1d` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1207 | doc_type:owners_manual
 
 It could happen that bacterla sottle on tho fns of the evaporator. Thls ls caused by the condensation wator whlch collectson the fins after swltching the comprossor ott. There could temporarily ba an unpleasant odor In the car when the compressor ls swltched on again. Consequently the evaporalor should be cleane-d at regular Intervals.
 
@@ -46537,7 +44986,6 @@ The heater remalns Installed and was only removed Inthls plcture forbetter under
 
 
 ### 6451510 REMOVING AND INSTALLING EVAPORATOR
-`bmw_e31_am_en_f6409173` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1208 | doc_type:owners_manual
 
 Suck the relrlgerant out of the alr condltoner with help ol a service statlon (refer to 6450009 or the operaling Instructlons supplled wlth pertinent service statlon). Remove wiperconsole ■ relerto Group 61.
 
@@ -46570,19 +45018,16 @@ Refer to Speclfications
 
 
 ### 64-52/1
-`bmw_e31_am_en_7930a92b` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1209 | doc_type:owners_manual
 
 ![](images/c870422eefd574fda55f25f97933053e85ce0f903205a03718a92128627da4f5.webp)
 
 
 ### 6452020 REPLACING AC COMPRESSOR
-`bmw_e31_am_en_5a1cdf04` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:1210 | doc_type:owners_manual
 
 Remove engine splash guard. Ifappllcable,loosen nut (1）and bolt (2) and take the rlbbed drive belt off ol the addltlonal alternator.
 
 
 ### Loosen nuts(4and 5) onthe tensloning roller and take the rlbbed drive belt otlof lhe compressor.
-`bmw_e31_am_en_611f6d6f` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1211 | doc_type:owners_manual
 
 installation:   
 Turn the tensionlng roller on hexagon [3] 8 lar as stop,then tighten nut (5) fltrst and finally nut (4).
@@ -46601,13 +45046,11 @@ Lift compressorout downwards.
 
 
 ### 64-52/2
-`bmw_e31_am_en_20bf3ebd` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1212 | doc_type:owners_manual
 
 ![](images/c2dc65832131b4d69ed91cbdeb819f70b7b30b81f7e964532d28b7e0205b5b7d.webp)
 
 
 ### 6452061 Replacing compressor coupling
-`bmw_e31_am_en_a7a7d489` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:1213 | doc_type:owners_manual
 
 Remove underbody protection from engine. H necessary,unfasten nut (1) and screw(2) and remove Vee belt from auxlliary alternator.
 
@@ -46632,7 +45075,6 @@ Prise open retaining ring and remove. Unfasten screw（1),disconnec!plug connect
 
 
 ### 6453510.Removingand installing replacing drier flask forair.conditloner
-`bmw_e31_am_en_cb68f9a8` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1214 | doc_type:owners_manual
 
 Note:
 
@@ -46658,7 +45100,6 @@ Remove connector.
 
 
 ### 6453 550 Removingand installing/ replacingalr conditioner condenser
-`bmw_e31_am_en_0d60a9a4` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1215 | doc_type:owners_manual
 
 Air conditioner drained,   
 referto6450009   
@@ -46680,7 +45121,6 @@ Unfasten screws left and right on condenser and pull out upwards condenser.
 
 
 ### OPERATION OFLOCK SENSOR
-`bmw_e31_am_en_e4b03766` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:1216 | doc_type:owners_manual
 
 The lock sonsor consists ofa control unit and speed sensor (lock sensor) on the AC compressor.
 
@@ -46690,7 +45130,6 @@ After starting the engine and exceeding an engine speed of 600 rpm for the first
 
 
 ### Important!
-`bmw_e31_am_en_43cc8bca` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:1217 | doc_type:owners_manual
 
 The compressor can only be swltched onagaln lf the engine ls started agaln. In caso o1 fault and when amechanical defect ol the compressor cannot be lound, check whether brief sllp has occurred whlle driving through apuddle(wetribbeddrivebelt).
 
@@ -46700,7 +45139,6 @@ Monltoring ofthe coolant temperature takes place paralleltomonltoring of slp.llt
 
 
 ### 65 Radio and special equipment
-`bmw_e31_am_en_b07efa91` | e31_am | pdf_manual | tier:2 | lang:en | layer:infotainment | p:1218 | doc_type:owners_manual
 
 6511030 Radio (business) I removeand install orreplace 65- 11/1   
 030 Radio Bavaria CIlorCReverseIl) 65- 11/2   
@@ -46739,7 +45177,6 @@ Pull out retalner （1） and dlsconnectplug (2） on radlo (3).
 
 
 ### 65 12000 REMOVING AND INSTALLINGOA REPLACING LEFTORRIGHT FRONT RADIOLOUDSPEAKER
-`bmw_e31_am_en_e807dce9` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:1219 | doc_type:owners_manual
 
 (Left)   
 Unscrew engine hood release lever. Unscrew screws and It offA-plllar plate. (Right)   
@@ -46749,20 +45186,17 @@ Unscrew screv/s, pull off electrlc wires and take out ludspeaker.
 
 
 ### 6512020 REMOVING AND INSTALLINGOR REPLACING LEFT ORRIGHT REAR RADIOLOUDSPEAKER
-`bmw_e31_am_en_7d52a955` | e31_am | pdf_manual | tier:2 | lang:en | layer:chassis | p:1220 | doc_type:owners_manual
 
 Uncllp loudspeaker frameon hatrack andunscrew screw.   
 Remove wheel house trimpanel In trunk and resonance boxwlth wires. Unscrew screws and take out loudspeaker.
 
 
 ### 6513050 REMOVING AND INSTALLING OR REPLACING RADIO LOUDSPEAKERIN LEFT OR RIGHT FRONT DOOR
-`bmw_e31_am_en_b9088683` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1221 | doc_type:owners_manual
 
 Remove door trim panel = see Gr. 51. Unscrew screws, pull off electric wires and take out loudspeaker.
 
 
 ### TROUBLESHOOTING BAVARIA C PROFESSIONAL RADIOS
-`bmw_e31_am_en_c1d567c8` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1222 | doc_type:owners_manual
 
 Bavarla C4 ls avallable In two verslons, elther with or withouta CD player. Control panel and radlo of both verslons are separated from each other. The control panel ls Installed in the dashboard as always,whlle the radlo Itself and as applicable a CD player are located In the trunk. Thlsmakes It necessary to have a connecting lead between the control panel and radlo orCD player,whlch In the course of troubleshooting lsreferred to as V1 (wlthout CD player) orV2 (wlth CD player).
 
@@ -46770,7 +45204,6 @@ Leads V1 and V2 differ only in length, because connecting lead V2 leads from the
 
 
 ### Checking Connecting Leads
-`bmw_e31_am_en_f91723ca` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1223 | doc_type:owners_manual
 
 Connecting leads are tested for breaks and short circults.   
 Procedures:   
@@ -46785,7 +45218,6 @@ Control Panel Connectlons: 12 17-pin'plug(power (powersupply) 3 2 ryed 3 9 5 配
 
 
 ### 65 中 99/2
-`bmw_e31_am_en_fe6d89f2` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1224 | doc_type:owners_manual
 
 Pin Connections   
 Pln No. 17Pln Plug (Control Panel)   
@@ -46811,7 +45243,6 @@ All plugs of the various components should be checked for correct connection pri
 
 
 ### FAULT01
-`bmw_e31_am_en_14d1ab57` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1225 | doc_type:owners_manual
 
 Radlo doesnot swltch on- no reaction
 
@@ -46839,7 +45270,6 @@ Replace CD player.
 
 
 ### FAULT 05
-`bmw_e31_am_en_42e19fdb` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1226 | doc_type:owners_manual
 
 Sound paltern dead whlle playing cassette
 
@@ -46859,7 +45289,6 @@ Replace control panel.
 
 
 ### FAULT 06
-`bmw_e31_am_en_02079270` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1227 | doc_type:owners_manual
 
 Faulty cassette drive operation,e.g. electlon, last forward orreverse
 
@@ -46871,7 +45300,6 @@ Replace control panel. (Note:leave selzed cassette In control panel. Don't remov
 
 
 ### 65 = 99/9
-`bmw_e31_am_en_29a9f1ee` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1228 | doc_type:owners_manual
 
 FAULT 07
 
@@ -46887,13 +45315,11 @@ CD eJectlon button for election of CD magazine does notreact
 
 
 ### 65 = 99/10
-`bmw_e31_am_en_7c2866dc` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1229 | doc_type:owners_manual
 
 ![](images/e027a999fdb716cef340edd09f5c1e507b6fd286571ef1624a4761aa43b444db.webp)
 
 
 ### FAULT 10
-`bmw_e31_am_en_946469dd` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1230 | doc_type:owners_manual
 
 Fault reactlon to loudness or sound adjustments
 
@@ -46907,7 +45333,6 @@ Replace control panel.
 
 
 ### 71 Equipment and accessories for engine and chassis
-`bmw_e31_am_en_5524c08e` | e31_am | pdf_manual | tier:2 | lang:en | layer:engine | p:1231 | doc_type:owners_manual
 
 71 60 Trailerhitch 1 removeand install ..···.·····.·· 71-60/1   
 Function testafterinstallation .... 1 · 1 71-60/2   
@@ -46915,7 +45340,6 @@ Function testafterinstallation .... 1 · 1 71-60/2
 
 
 ### 71 60 REMOVING AND INSTALLING TRAILER HITCH
-`bmw_e31_am_en_af0e5017` | e31_am | pdf_manual | tier:2 | lang:en | layer:body | p:1232 | doc_type:owners_manual
 
 Iniportant! Check functlon atter Installatlon.
 
@@ -46947,7 +45371,6 @@ Instaltation: Tlghtening torque".
 
 
 ### FUNCTION TEST AFTER INSTALLATION
-`bmw_e31_am_en_d7d30b12` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1233 | doc_type:owners_manual
 
 Pull off cap.   
 Insert ball rod In take-up plpe.   
@@ -46970,7 +45393,6 @@ Check electrlc functlon wlth atraller socket tester\*.
 
 
 ### CONNECTIONS OF 13PIN PLUG
-`bmw_e31_am_en_0683a4a0` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1234 | doc_type:owners_manual
 
 Pin1 Turn slgnal Indlcator, left   
 Pln2 Tall tog lghts   
@@ -46988,7 +45410,6 @@ Pin 13\* Ground (for circylt contacts 9 through 12)
 
 
 ### 72 Equipment and accessories for body
-`bmw_e31_am_en_2ff6a4d0` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:1235 | doc_type:owners_manual
 
 Frontseat belt layout drawing 72-11/1   
 7211030 Frontseatbelt-removeandinstall orreplace ..2-11/2   
@@ -46998,19 +45419,16 @@ Automaticreel seat beltchecklist 72-90/1
 
 
 ### 72-11/1
-`bmw_e31_am_en_78337e60` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1236 | doc_type:owners_manual
 
 ![](images/aab212215de06506f13af52810af25651321121a9401a40f162d69be94c0673e.webp)
 
 
 ### 72-11/2
-`bmw_e31_am_en_61fb4786` | e31_am | pdf_manual | tier:2 | lang:en | layer:general | p:1237 | doc_type:owners_manual
 
 ![](images/260cb89c9c4bd68fe01b5e1c5563e0d9ff4ccafa98c56627ffe2907870b92d39.webp)
 
 
 ### Remove seat - refer to Group 52.
-`bmw_e31_am_en_53f46bf9` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:1238 | doc_type:owners_manual
 
 Important!   
 Check functlon ol seat bolt belore relnstalling seat. Operate backrest to both final poslons,whlch puts the locking system In neutral.   
@@ -47076,7 +45494,6 @@ Ensure unlform.gap between the padding and trim panel.
 
 
 ### 72-11/4
-`bmw_e31_am_en_0ed98b95` | e31_am | pdf_manual | tier:2 | lang:en | layer:lighting | p:1239 | doc_type:owners_manual
 
 ![](images/e7704cf08a12fb2de5055ea0a8b33377e364e20949ed4ff66963469af078e168.webp)
 
@@ -47104,7 +45521,6 @@ Important! The connecting rod must bo checked prlor to Installatlon ofthe headre
 
 
 ### 72-11/5
-`bmw_e31_am_en_0df2ef3c` | e31_am | pdf_manual | tier:2 | lang:en | layer:brakes | p:1240 | doc_type:owners_manual
 
 ![](images/76a2e8a29c545e2664b1838182ed34338ab5985f4c93b50ff1ebf77a4e2ba85f.webp)
 
@@ -47122,7 +45538,6 @@ Important! Stralghtening Is not pomltted 一 salety of occupants 一 danger to l
 
 
 ### 7211 102 REMOVING AND INSTALLING OA AEPLACING ALLREARSEAT BELTS {COMPLETE)
-`bmw_e31_am_en_c7031878` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:1241 | doc_type:owners_manual
 
 Remove rear soat ■ rofer to Group 52.   
 Romove hatrack roler lo Group51. 12345 Lowor bell strap lo-ck Holdingsnap   
@@ -47136,7 +45551,6 @@ Installation: Tightening torque\*.
 
 
 ### 7211... INSPECTING AUTOMATIC REEL SEAT BELTS
-`bmw_e31_am_en_2f7992fe` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:1242 | doc_type:owners_manual
 
 The automatlc reel has two Independent activating syslems ior the locklng of seat belts.
 
@@ -47174,7 +45588,6 @@ Also rofor to Check Listlor Automallc ReelSeat Belis.
 
 
 ### CHECK LISTFOR AUTOMATIC REEL SEAT BELTS
-`bmw_e31_am_en_675b9fc0` | e31_am | pdf_manual | tier:2 | lang:en | layer:interior | p:1243 | doc_type:owners_manual
 
 ![](images/146504af1d8ba215219547e483081f6849806d40a8c9b20dc95d1a89cdec21c3.webp)
 

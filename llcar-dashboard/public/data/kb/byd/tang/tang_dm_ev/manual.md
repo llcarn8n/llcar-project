@@ -1,3 +1,10 @@
+---
+brand: byd
+model: tang
+generation: tang_dm_ev
+source: kb
+---
+
 # TANC DM/EV
 
 ![](images/f34515870fc02346306367c09086ffead113b072c9f926caa2045da37bc933cb.webp)
@@ -204,8 +211,6 @@ button downward to close the sunroof:
 
 # Opening/closing of sunshade
 
-# Push the
-
 button towards the rear of the vehicle to open the sunshade:
 
 • The first mode is manual mode; in this mode, releasing this button will stop the moving sunshade;   
@@ -221,8 +226,6 @@ button towards the front of the vehicle to close the sunshade:
 • The second mode is automatic mode; in this mode, the sunshade will automatically close; pressing this button again will stop the moving sunshade.
 
 ![](images/e5692b0bfd3795b88ff4835cfc59039234ff4120441bb82044e0d1d09cf0e2cb.webp)
-
-# Power Button
 
 # Starting the vehicle
 
@@ -514,8 +517,6 @@ The ACC system can control the vehicle to follow a vehicle ahead to stop in norm
 If the vehicle has stopped for less than 3 min, the driver needs to depress the accelerator pedal or operate the ACC lever to reactivate the ACC;   
 If the vehicle has stopped for more than 3 min, the ACC system will enter the standby state and the EPB will be applied.
 
-# Cruise Control System (If Any)
-
 # ON/OFF button of cruise control system
 
 п Start the vehicle, shift to D position and press the cruise control switch @ ; at the moment, the indicator on the combination instrument will illuminate. Press the cruise control switch @ again or power off the vehicle to turn off the cruise control system.
@@ -566,8 +567,6 @@ Tap the front, rear, right or left area of the vehicle icon on the left side to 
 
 I In the front or rear single view, double-tap the image area to switch to 180° viewing angle in full screen.
 
-# Parking Image System (If Any)
-
 # Activation of parking image system
 
 With the power ON, the front right image mode can be activated by pressing the button on the steering wheel, and this mode can be deactivated by pressing the button again.
@@ -603,8 +602,6 @@ The reversing sensor power button is on the driving assist switch set. When the 
 Front right corner sensor Front left and right middle sensors Front left corner sensor Rear right corner sensor Rear left and right middle sensors Rear left corner sensor
 
 ![](images/9fcf3d4c570b462ef668d9d9f277adb3ad02de63524d13077928b8b6c69e9bc4.webp)
-
-# Exterior Lights
 
 # Light switch set
 
@@ -659,8 +656,6 @@ I Press and hold the knob to restart the multimedia system. Press the knob to tu
 
 ![](images/ccb5c39b592c846cc67a5a5cb16bd5eaa853136ae685040831061f70e9f13446.webp)
 
-# A/C Control Panel
-
 # Front A/C control panel
 
 AUTO button   
@@ -674,8 +669,6 @@ Front windscreen defrosting button
 Rear A/C TEMP + button Rear A/C LCD screen Rear A/C blower speed + button Rear A/C blower speed - button Rear A/C ON/OFF button Rear A/C temperature set button Rear A/C AUTO button Rear A/C TEMP - button
 
 ![](images/23da17d0dc42f6022c15c504038b7b11e7969d2ebe8568026e11c1ade11be01a.webp)
-
-# Seat
 
 # Adjustment of front seat
 
@@ -884,7 +877,6 @@ Be sure to have all passengers get off the vehicle and ask them to go to a safe 
 
 Confirm if any tyre is flat. For slow leaking, fix the tyre with tyre repair kit and tyre puncture sealant. After tyre fixing, the vehicle running speed should be lower than 80 km/h.
 ### TANC DM/EV
-`byd_tang_dm_ev_en_2019_en_537f7a4e` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/f34515870fc02346306367c09086ffead113b072c9f926caa2045da37bc933cb.webp)
 
@@ -892,7 +884,6 @@ Quick reference book
 
 
 ### Thank you for choosing BYD automobile
-`byd_tang_dm_ev_en_2019_en_f68e2f34` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:2 | doc_type:owners_manual
 
 Providing products with high safety performance is a matter of course of BYD Auto Company Limited. This manual is prepared and made for your quick understanding of vehicle functions and for your driving with safety and comfort.
 
@@ -907,7 +898,6 @@ For your driving safety, please read the Owner's Manual carefully.
 
 
 ### Get-o and Ge-of. … 2
-`byd_tang_dm_ev_en_2019_en_f1375e2b` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:body | p:3 | doc_type:owners_manual
 
 Electronic Intellgent Ke y ..   
 Slide-out Inteligent Key.   
@@ -917,7 +907,6 @@ Door lock... о Opening Hands-free Access Trunk Lid by Kicking Action (If Any .6
 
 
 ### Driving.. 9
-`byd_tang_dm_ev_en_2019_en_447fba41` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:brakes | p:4 | doc_type:owners_manual
 
 Power Button ... о View of Combination Instrument (If Any) ..10 Description of Indicators/Warning Lights... ..14 Gearshift Actuator. .16 Electric Parking Brake (EPB) ...17 Automatic Vehicle Hold (AVH) ...18 Working modes of DM system (TANG DM) .. ..19 Adaptive Cruise Control System (If
 
@@ -940,7 +929,6 @@ Refueling (TANGDM) .34
 
 
 ### Emergency .. ..35
-`byd_tang_dm_ev_en_2019_en_ad140754` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:5 | doc_type:owners_manual
 
 Emergency shut-down system.….35   
 Vehicle fire rescue... .35   
@@ -953,7 +941,6 @@ Flat Tyre .…. ..37
 
 
 ### Electronic Intelligent Key
-`byd_tang_dm_ev_en_2019_en_52648148` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:body | p:6 | doc_type:owners_manual
 
 Electronic intelligent key – By pressing the left/right front door microswitch while carrying the electronic intelligent key with you, you can unlock/lock all doors. You can also operate buttons on the intelligent key.
 
@@ -967,7 +954,6 @@ Electronic intelligent key – By pressing the left/right front door microswitch
 
 
 ### Slide-out Intelligent Key
-`byd_tang_dm_ev_en_2019_en_58bb7774` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:body | p:7 | doc_type:owners_manual
 
 Slide-out intelligent key — you can unlock/lock all doors through press the micro-switch. By operating buttons on the inteligent key, you can also unlock/lock doors, open the trunk lid, and implement remote control driving function.
 
@@ -979,13 +965,11 @@ LOCK: lock the doors UNLOCK: unlock the doors FORWARD: drive forward RIGHT: turn
 
 
 ### Mechanical Key
-`byd_tang_dm_ev_en_2019_en_b63ad530` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:body | p:8 | doc_type:owners_manual
 
 Mechanical key (in the electronic inteligent key and slide-out intelligent key) — It can be used to unlock/lock the driver's door.
 
 
 ### the mechanical key in electronic intelligent key
-`byd_tang_dm_ev_en_2019_en_d2c4ac31` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:9 | doc_type:owners_manual
 
 Pullthe lock-up button to unlock pull out in the direction, pull apart by applying force upward , and take out the mechanical key from the electronic intellgent key.
 
@@ -993,7 +977,6 @@ Pull the lock-up buttonto unlock, and then take out the mechanical key in the di
 
 
 ### the mechanical key in a slide-out intelligent key
-`byd_tang_dm_ev_en_2019_en_1a58219f` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:10 | doc_type:owners_manual
 
 ![](images/996ccf92ec554af9635633382836299cac98db6107bb81e8d3e1b2b54b4424e5.webp)
 
@@ -1001,7 +984,6 @@ Pull the lock-up buttonto unlock, and then take out the mechanical key in the di
 
 
 ### PEPS
-`byd_tang_dm_ev_en_2019_en_2e90526c` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:body | p:11 | doc_type:owners_manual
 
 Carry the intelligent key to unlock or lock the door.
 
@@ -1011,7 +993,6 @@ Carry the intelligent key to unlock or lock the door.
 
 
 ### Anti-theft System
-`byd_tang_dm_ev_en_2019_en_5c401acc` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:body | p:12 | doc_type:owners_manual
 
 If any door is opened when the vehicle is in the anti-theft mode, the system will produce audible alarm and the turn signals willflash to prevent theft of the vehicle.
 
@@ -1019,7 +1000,6 @@ If any door is opened when the vehicle is in the anti-theft mode, the system wil
 
 
 ### Setting system
-`byd_tang_dm_ev_en_2019_en_a06edb91` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:body | p:13 | doc_type:owners_manual
 
 Power off the vehicle.   
 Ask all passengers to get off the vehicle.   
@@ -1028,7 +1008,6 @@ Ask all passengers to get off the vehicle.
 
 
 ### Triggering alarm
-`byd_tang_dm_ev_en_2019_en_8b2573c8` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:body | p:14 | doc_type:owners_manual
 
 The alarm will be triggered if:
 
@@ -1037,7 +1016,6 @@ The alarm will be triggered if:
 
 
 ### Disarming alarm
-`byd_tang_dm_ev_en_2019_en_4c78f17c` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:body | p:15 | doc_type:owners_manual
 
 The alarm can be disarmed by the following methods:
 
@@ -1054,7 +1032,6 @@ Notice: Do not modify the anti-theft system by means of alteration or addition b
 
 
 ### Anti-theft indicator
-`byd_tang_dm_ev_en_2019_en_b684b566` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:16 | doc_type:owners_manual
 
 □ In the anti-theft setting mode, the antitheft indicator willilluminate for 10 s. In the anti-theft mode or with the vehicle powered OFF, the anti-theft indicator will flash. If the vehicle has not been operated for more than 14 days, the anti-theft will go out.
 
@@ -1062,7 +1039,6 @@ Notice: Do not modify the anti-theft system by means of alteration or addition b
 
 
 ### Door lock
-`byd_tang_dm_ev_en_2019_en_e2586989` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:body | p:17 | doc_type:owners_manual
 
 By pressing the unlock/lock button on the console door lock, all the four doors will be unlocked/locked at the same time.
 
@@ -1072,7 +1048,6 @@ By pressing the unlock/lock button on the console door lock, all the four doors 
 
 
 ### ]Opening Hands-free Access Trunk Lid by Kicking Action (If Any)
-`byd_tang_dm_ev_en_2019_en_30ea3d78` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:body | p:18 | doc_type:owners_manual
 
 When you stand in the effective detection area of the trunk lid sensor with the intelligent key carried, raise your foot comfortably and smoothly like a kicking action under the rear bumper without touching the rear bumper.
 
@@ -1085,7 +1060,6 @@ stop. If you make another kicking action, the trunk lid will act reversely.
 
 
 ### Power Window
-`byd_tang_dm_ev_en_2019_en_2bb9b25b` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:body | p:19 | doc_type:owners_manual
 
 When the vehicle is powered ON, use the regulator switches equipped on each door to lift and lower relevant window glasses. There are four regulator switches equipped on the driver's door for the driver to control the lifting and lowering of all the window glasses on four doors.
 
@@ -1093,7 +1067,6 @@ When the vehicle is powered ON, use the regulator switches equipped on each door
 
 
 ### Anti-pinch function (if any)
-`byd_tang_dm_ev_en_2019_en_8aad505d` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:body | p:20 | doc_type:owners_manual
 
 Anti-pinch function is provided to automatically stop and return the closing window glass once an obstruction is sensed when the window is being closed.
 
@@ -1101,7 +1074,6 @@ Anti-pinch function is provided to automatically stop and return the closing win
 
 
 ### Sunroof Switch (If Any)
-`byd_tang_dm_ev_en_2019_en_e8029b52` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:body | p:21 | doc_type:owners_manual
 
 Push the button
 
@@ -1114,7 +1086,6 @@ towards the rear of the vehicle to open the sunroof horizontally;
 
 
 ### Push the
-`byd_tang_dm_ev_en_2019_en_1354568c` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:body | p:22 | doc_type:owners_manual
 
 button upward to tilt open the sunroof:
 
@@ -1132,7 +1103,6 @@ button downward to close the sunroof:
 
 
 ### Push the
-`byd_tang_dm_ev_en_2019_en_3897555c` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:23 | doc_type:owners_manual
 
 button towards the rear of the vehicle to open the sunshade:
 
@@ -1143,7 +1113,6 @@ button towards the rear of the vehicle to open the sunshade:
 
 
 ### Push the
-`byd_tang_dm_ev_en_2019_en_238f26ec` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:24 | doc_type:owners_manual
 
 button towards the front of the vehicle to close the sunshade:
 
@@ -1154,7 +1123,6 @@ button towards the front of the vehicle to close the sunshade:
 
 
 ### Starting the vehicle
-`byd_tang_dm_ev_en_2019_en_dc929861` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:brakes | p:25 | doc_type:owners_manual
 
 Carry the correct intelligent key on board.   
 Depress the brake pedal.   
@@ -1165,7 +1133,6 @@ Check the battery SOC and the driving range.
 
 
 ### Driving the vehicle
-`byd_tang_dm_ev_en_2019_en_fe8bdea8` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:brakes | p:26 | doc_type:owners_manual
 
 Depress the brake pedal.   
 Place the gearshift lever at "D" position.   
@@ -1177,7 +1144,6 @@ Depress the accelerator pedal to start driving
 
 
 ### View of Combination Instrument (If Any)
-`byd_tang_dm_ev_en_2019_en_d0af05a3` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:27 | doc_type:owners_manual
 
 Full LCD combination instrument (12.3")(TANG EV)
 
@@ -1289,7 +1255,6 @@ Working mode of DM system
 
 
 ### Description of Indicators/Warning Lights
-`byd_tang_dm_ev_en_2019_en_f649c6b3` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:28 | doc_type:owners_manual
 
 ![](images/eaf662e1338fdd6fd4bb57d1503152aba61f18297f07ad01294d047e9964010d.webp)
 
@@ -1301,7 +1266,6 @@ Working mode of DM system
 
 
 ### Gearshift Actuator
-`byd_tang_dm_ev_en_2019_en_2eb347d1` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:29 | doc_type:owners_manual
 
 R: reverse gear position
 
@@ -1329,7 +1293,6 @@ Never place the gearshift lever to R position when the vehicle is driving forwar
 
 
 ### Electric Parking Brake (EPB)
-`byd_tang_dm_ev_en_2019_en_5c6aa8c8` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:brakes | p:30 | doc_type:owners_manual
 
 Manual parking: Pull up the EPB switch. The indicator on the instrument will flash first before staying on. If this indicator stays on, it indicates that the EPB has been applied.
 
@@ -1343,7 +1306,6 @@ P position refers to the parking position. When the gearshiftlever is in P posit
 
 
 ### Applying the EPB automatically
-`byd_tang_dm_ev_en_2019_en_f6eb576a` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:engine | p:31 | doc_type:owners_manual
 
 Applying the EPB automatically upon power-off:
 
@@ -1359,7 +1321,6 @@ This function is designed to avoid adverse consequences caused by a driver leavi
 
 
 ### Releasing the EPB automatically when the vehicle is starting to move
-`byd_tang_dm_ev_en_2019_en_bed9d1ce` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:brakes | p:32 | doc_type:owners_manual
 
 Releasing the EPB automatically upon shifting gear:
 
@@ -1371,7 +1332,6 @@ Releasing the EPB automatically upon depressing accelerator pedal:
 
 
 ### Automatic Vehicle Hold (AVH)
-`byd_tang_dm_ev_en_2019_en_0d4229f5` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:33 | doc_type:owners_manual
 
 With the AVH button pressed, the automatic vehicle hold function will be activated when the operating conditions for AVH are satisfied.
 
@@ -1381,7 +1341,6 @@ With the AVH button pressed, the automatic vehicle hold function will be activat
 
 
 ### Working modes of DM system (TANG DM)
-`byd_tang_dm_ev_en_2019_en_0ab3a0e6` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:34 | doc_type:owners_manual
 
 ![](images/ac24dd818db9d629836512d7a93e3977e61718265fb07c2c5cd91f46ccdfcc35.webp)
 
@@ -1389,7 +1348,6 @@ EV mode button 2. MODE knob 3. HEV mode button
 
 
 ### EV mode
-`byd_tang_dm_ev_en_2019_en_5406222a` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:35 | doc_type:owners_manual
 
 EV mode: When the EV mode button is pressed, the EV mode button indicator willight up, indicating that the vehicle is operating in the EV mode; if the indicator goes out a few seconds after lighting up, it indicates that the powertrain cannot enter the EV mode. In the EV mode, the vehicle is driven by the motors powered by the power battery.
 
@@ -1399,19 +1357,16 @@ Forced EV mode: To enter the forced EV mode, press and hold the EV mode button f
 
 
 ### HEV-ECO mode
-`byd_tang_dm_ev_en_2019_en_edb54ed9` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:36 | doc_type:owners_manual
 
 HEV-ECO mode: Press the HEV mode button and turn the MODE knob to "ECO" to enter the HEV-ECO mode which can improve the driving economics of the vehicle.
 
 
 ### HEV-SPORT mode
-`byd_tang_dm_ev_en_2019_en_7cf4f227` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:37 | doc_type:owners_manual
 
 HEV-SPORT mode: Press the HEV mode button and turn the MODE knob to SPORT to enter the HEV-SPORT mode. When the vehicle is operating in the HEV-SPORT mode, the best power performance can be ensured, but the economic efficiency of the vehicle is lower than that when it is operating in other modes. Therefore, driving the vehicle in this mode is not suggested in case of a traffic jam.
 
 
 ### Adaptive Cruise Control System (If Any)
-`byd_tang_dm_ev_en_2019_en_31210ead` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:steering | p:38 | doc_type:owners_manual
 
 The ACC lever is on the left side of the steering wheel.
 
@@ -1445,7 +1400,6 @@ Turn the self-locking knob at the end of the cruise control lever to adjust the 
 
 
 ### Setting vehicle speed
-`byd_tang_dm_ev_en_2019_en_22c6e43a` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:39 | doc_type:owners_manual
 
 With the ACC activated, the cruise speed can be set.
 
@@ -1454,7 +1408,6 @@ I Setting level Il speed: Raise the self-resetting ACC control lever hard in the
 
 
 ### Setting headway
-`byd_tang_dm_ev_en_2019_en_fc24fbe9` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:40 | doc_type:owners_manual
 
 Turn the knob at the head of the lever clockwise to increase the headway;   
 о Turn the knob at the head of the lever anticlockwise to decrease the headway;   
@@ -1464,7 +1417,6 @@ Turn the knob at the head of the lever clockwise to increase the headway;
 
 
 ### Actively accelerating/decelerating with ACC activated
-`byd_tang_dm_ev_en_2019_en_acc71506` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:41 | doc_type:owners_manual
 
 With the ACC activated, depress the accelerator pedal to accelerate the vehicle continuously. After the desired speed is reached, release the accelerator pedal. If the vehicle speed is higher than 150 km/h or the accelerator pedal is depressed continuously for more than 15 min, the system will enter the standby state, and you need to reactivate the ACC;
 
@@ -1472,7 +1424,6 @@ With the ACC activated, depress the brake pedal to decelerate the vehicle contin
 
 
 ### Vehicle following to stop/start
-`byd_tang_dm_ev_en_2019_en_44dbd1a7` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:42 | doc_type:owners_manual
 
 The ACC system can control the vehicle to follow a vehicle ahead to stop in normal driving condition. If the vehicle stops for less than 3s, the vehicle can follow a vehicle ahead to start;   
 If the vehicle has stopped for less than 3 min, the driver needs to depress the accelerator pedal or operate the ACC lever to reactivate the ACC;   
@@ -1480,7 +1431,6 @@ If the vehicle has stopped for more than 3 min, the ACC system will enter the st
 
 
 ### ON/OFF button of cruise control system
-`byd_tang_dm_ev_en_2019_en_eacc566e` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:43 | doc_type:owners_manual
 
 п Start the vehicle, shift to D position and press the cruise control switch @ ; at the moment, the indicator on the combination instrument will illuminate. Press the cruise control switch @ again or power off the vehicle to turn off the cruise control system.
 
@@ -1488,19 +1438,16 @@ If the vehicle has stopped for more than 3 min, the ACC system will enter the st
 
 
 ### Resetting
-`byd_tang_dm_ev_en_2019_en_e369c60c` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:44 | doc_type:owners_manual
 
 Operate the switch in the @ direction to allow the vehicle to run at the speed stored when cruise control system was turned off last time. If no speed is stored, the current speed will be treated as the target speed.
 
 
 ### Canceling currently set speed
-`byd_tang_dm_ev_en_2019_en_a84fcc7b` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:brakes | p:45 | doc_type:owners_manual
 
 Operate the switch in the @ direction or depress the brake pedal to turn off the cruise control system
 
 
 ### Speed adjustment
-`byd_tang_dm_ev_en_2019_en_0c1506e3` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:46 | doc_type:owners_manual
 
 Acceleration
 
@@ -1510,13 +1457,11 @@ Operate the switch in the  or © direction; at the moment, the "SET" indicator o
 
 
 ### Overtaking acceleration
-`byd_tang_dm_ev_en_2019_en_4eef89ba` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:47 | doc_type:owners_manual
 
 In the cruise control mode, if you depress the accelerator pedal to accelerate and no other operation is performed after acceleration, the vehicle wil slow down to the speed set before the acceleration; if you depress the accelerator pedal and meanwhile operate the switch in the  or  direction, the speed can be set and the vehicle will cruise at this speed.
 
 
 ### Lane Departure Warning System (If Any)
-`byd_tang_dm_ev_en_2019_en_b3f75570` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:sensors | p:48 | doc_type:owners_manual
 
 The lane departure warning system identifies the lane lines by using the camera sensor. When the vehicle speed is higher than 60 km/h and the driver unconsciously departs from the lane, the system issues an alarm to alert the driver to driving safety.
 
@@ -1528,7 +1473,6 @@ You can turn on or off the lane departure warning system directly by operating t
 
 
 ### Activation of all-around view monitor system
-`byd_tang_dm_ev_en_2019_en_1c6eaa2c` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:steering | p:49 | doc_type:owners_manual
 
 Tap "Panorama" on the home page of multimedia or press the steering wheel
 
@@ -1536,7 +1480,6 @@ button to enter the all-around view monitor system interface.
 
 
 ### Optional views:
-`byd_tang_dm_ev_en_2019_en_1f3613cf` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:50 | doc_type:owners_manual
 
 Tap the front, rear, right or left area of the vehicle icon on the left side to display a single view of the front, rear, right or left view of the vehicle in the right image area.
 
@@ -1546,7 +1489,6 @@ I In the front or rear single view, double-tap the image area to switch to 180°
 
 
 ### Activation of parking image system
-`byd_tang_dm_ev_en_2019_en_897e6a78` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:steering | p:51 | doc_type:owners_manual
 
 With the power ON, the front right image mode can be activated by pressing the button on the steering wheel, and this mode can be deactivated by pressing the button again.
 
@@ -1556,7 +1498,6 @@ With the power ON, the front right image mode can be activated by pressing the b
 
 
 ### Optional views:
-`byd_tang_dm_ev_en_2019_en_814caecd` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:52 | doc_type:owners_manual
 
 Front right image
 
@@ -1564,14 +1505,12 @@ Front right image
 
 
 ### Reversing image
-`byd_tang_dm_ev_en_2019_en_f934b511` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:53 | doc_type:owners_manual
 
 □ The two lines shown in the figure are safety lines for reversing.   
 о This system only helps for parking and complete independence on it should be avoided. Remember this when using the reversing image system. Ensure that the space is enough, and then make reversing operations.
 
 
 ### Parking Assist System
-`byd_tang_dm_ev_en_2019_en_be64fd5e` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:sensors | p:54 | doc_type:owners_manual
 
 The reversing sensor power button is on the driving assist switch set. When the power is in the ON mode or the gearshift lever is in R position, the parking assist system will be activated automatically.
 
@@ -1584,7 +1523,6 @@ The reversing sensor power button is on the driving assist switch set. When the 
 
 
 ### Type of sensor
-`byd_tang_dm_ev_en_2019_en_bfc917d3` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:sensors | p:55 | doc_type:owners_manual
 
 Front right corner sensor Front left and right middle sensors Front left corner sensor Rear right corner sensor Rear left and right middle sensors Rear left corner sensor
 
@@ -1592,7 +1530,6 @@ Front right corner sensor Front left and right middle sensors Front left corner 
 
 
 ### Light switch set
-`byd_tang_dm_ev_en_2019_en_74f155ae` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:lighting | p:56 | doc_type:owners_manual
 
 с The light switch set includes all-weather light button, rear fog light button, light adjustment switch, brightness adjustment switch, and headlight adjustment switch.
 
@@ -1600,7 +1537,6 @@ Front right corner sensor Front left and right middle sensors Front left corner 
 
 
 ### Light adjustment lever
-`byd_tang_dm_ev_en_2019_en_bf018962` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:lighting | p:57 | doc_type:owners_manual
 
 Left and right turn signals:
 
@@ -1622,7 +1558,6 @@ High beam
 
 
 ### Wiper and Washer
-`byd_tang_dm_ev_en_2019_en_0f964822` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:58 | doc_type:owners_manual
 
 The wiper for front windscreen can be switched in the following five modes:
 
@@ -1632,7 +1567,6 @@ point wiping : stop wiping : automati wiping : low-speed wiping – : high-speed
 
 
 ### Automatic wiping function
-`byd_tang_dm_ev_en_2019_en_a0617570` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:body | p:59 | doc_type:owners_manual
 
 І The rain sensor on the inner side of front windscreen in front of the interior rearview mirror automatically controls the wiper operation mode based on the amount of rain. To use the automatic wiping function, be sure to set the wiper to "" and the power to "ON"/"OK".
 
@@ -1644,7 +1578,6 @@ Automatic wiping has 4 sensitivity levels. A higher level indicates a higher sen
 
 
 ### Multimedia Button
-`byd_tang_dm_ev_en_2019_en_f0fed47b` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:60 | doc_type:owners_manual
 
 When the power is in ACC mode, the initial image will be displayed for several seconds and the multimedia system will start to work.
 
@@ -1655,7 +1588,6 @@ I Press and hold the knob to restart the multimedia system. Press the knob to tu
 
 
 ### Front A/C control panel
-`byd_tang_dm_ev_en_2019_en_6a1135b7` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:61 | doc_type:owners_manual
 
 AUTO button   
 A/C ON/OFF button   
@@ -1665,7 +1597,6 @@ Front windscreen defrosting button
 
 
 ### Rear A/C control panel (if any)
-`byd_tang_dm_ev_en_2019_en_2c505308` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:62 | doc_type:owners_manual
 
 Rear A/C TEMP + button Rear A/C LCD screen Rear A/C blower speed + button Rear A/C blower speed - button Rear A/C ON/OFF button Rear A/C temperature set button Rear A/C AUTO button Rear A/C TEMP - button
 
@@ -1673,7 +1604,6 @@ Rear A/C TEMP + button Rear A/C LCD screen Rear A/C blower speed + button Rear A
 
 
 ### Adjustment of front seat
-`byd_tang_dm_ev_en_2019_en_2e45e5a4` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:interior | p:63 | doc_type:owners_manual
 
 Seat position adjustment switch
 
@@ -1692,7 +1622,6 @@ Seat backrest angle adjustment switch
 
 
 ### Lumbar support adjustment switch (if any)
-`byd_tang_dm_ev_en_2019_en_29e0162c` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:64 | doc_type:owners_manual
 
 • Press the front or rear portion of the switch to increase or decrease the radian.   
 • Press the upper or lower portion of the switch to extend the arc upward or downward.
@@ -1701,7 +1630,6 @@ Seat backrest angle adjustment switch
 
 
 ### Heating and ventilation system (if any)
-`byd_tang_dm_ev_en_2019_en_b4775454` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:body | p:65 | doc_type:owners_manual
 
 The heating and ventilation system switches are on the front left and right door shields.
 
@@ -1737,7 +1665,6 @@ Ventilation and heating functions cannot be turned on at the same time.
 
 
 ### Charging Method
-`byd_tang_dm_ev_en_2019_en_3234e9c0` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:ev | p:66 | doc_type:owners_manual
 
 Set the power to OFF mode.   
 Unlock the vehicle and press the charging port hatch button to open the charging port hatch automatically.
@@ -1763,13 +1690,11 @@ Charging ends.
 
 
 ### Charging port fault
-`byd_tang_dm_ev_en_2019_en_b0c8195b` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:ev | p:67 | doc_type:owners_manual
 
 As a conductive charging method, the charging port must has normal wear and aging problems, it needs to be inspected/maintained/changed according to range/date or during daily use. All inspects and maintenances should be done in the condition of turning off vehicle
 
 
 ### Normal charging port
-`byd_tang_dm_ev_en_2019_en_10541143` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:ev | p:68 | doc_type:owners_manual
 
 /
 
@@ -1777,7 +1702,6 @@ As a conductive charging method, the charging port must has normal wear and agin
 
 
 ### Abnormal fault
-`byd_tang_dm_ev_en_2019_en_6d20cb8b` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:suspension | p:69 | doc_type:owners_manual
 
 1If there are foreign matters in the charging port or terminal, it should be cleared by the high-pressure air gun; if the foreign matter cannot be cleared, need to change.
 
@@ -1799,7 +1723,6 @@ If the leaf spring and terminal are broken, need to change.
 
 
 ### Refueling (TANG DM)
-`byd_tang_dm_ev_en_2019_en_2f8ff282` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 1. Stop the vehicle with its left side being close to the fuel pump of the gas station, as the refueling hatch is designed on the left side of the vehicle.
 
@@ -1824,7 +1747,6 @@ Hissing sound may be heard due to the release of pressure from the fuel tank.
 
 
 ### Emergency shut-down system
-`byd_tang_dm_ev_en_2019_en_fafa2eba` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:interior | p:71 | doc_type:owners_manual
 
 1. The following conditions are met, the emergency shutdown system will be activated and the high voltage system will automatically shut down:
 
@@ -1840,7 +1762,6 @@ Some rear collisions.
 
 
 ### Vehicle fire rescue
-`byd_tang_dm_ev_en_2019_en_973bbd50` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:ev | p:72 | doc_type:owners_manual
 
 De-energize the vehicle to the "OFF" gear and disconnect the front-cabin start-up type iron battery if possible.
 
@@ -1858,7 +1779,6 @@ In case of other special circumstances, flying out of the projectile (such as in
 
 
 ### Vehicle collision
-`byd_tang_dm_ev_en_2019_en_dd3361cf` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:ev | p:73 | doc_type:owners_manual
 
 If the vehicle collision happened, please operate the vehicle as follows:
 
@@ -1870,7 +1790,6 @@ Do not touch the leaked liquid away from the leaking vehicle or power battery. L
 
 
 ### Vehicle flood
-`byd_tang_dm_ev_en_2019_en_7d0334a1` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:ev | p:74 | doc_type:owners_manual
 
 If the pure electric car is immersed in deep water (about 400 mm), operate vehicle as follows
 
@@ -1884,7 +1803,6 @@ Call the BYD authorized service shop for help.
 
 
 ### Towing of Vehicle
-`byd_tang_dm_ev_en_2019_en_19ddad80` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:75 | doc_type:owners_manual
 
 For towing the vehicle, contact a BYD authorized service provider. Never have your vehicle towed by another vehicle using ropes or iron chains only.
 
@@ -1894,7 +1812,6 @@ Flatbed device – The operator will load your vehicle onto a truck. This is the
 
 
 ### Flat Tyre
-`byd_tang_dm_ev_en_2019_en_754e5472` | tang_dm_ev_en_2019 | pdf_manual | tier:2 | lang:en | layer:general | p:76 | doc_type:owners_manual
 
 Be sure to gradually slow down the vehicle and keep the vehicle running in a straight line. Slowly drive the vehicle away from the crowded traffic to a safe place.
 

@@ -1,12 +1,13 @@
-# Ssangyong Rexton V2 Ocr — Руководство по ремонту
-
-
-## Двигатель
+---
+brand: ssangyong
+model: rexton
+generation: rexton_v2_ocr
+source: kb
+---
 
 
 ### 1Based on DI Engine + A/T equipped vehicle specifications
 
-`ssangyong_rexton_v2_ocr_engine_t000_759b2bc0` | topic | dita | tier:3 | lang:ru
 
 Overview .3A1-3   
 Characteristics ..3A1-4   
@@ -78,7 +79,6 @@ Y220_3A1028
 
 ### Throttle position sensor Gasoline engine:
 
-`ssangyong_rexton_v2_ocr_engine_t001_ec518136` | topic | dita | tier:3 | lang:ru
 
 This valve activates and releases the lockup clutch by adjusting the current to solenoid valve according to engine throttle opening value and output shaft speed. The lockup clutch operates in 3rd, 4th and 5th gear with steps to reduce shift shocks.
 
@@ -175,7 +175,6 @@ The throttle position signal is sent from the ECM to the TCM via the CAN. Refer 
 
 ### Removal of the fluid filler plug when the transmission fluid is hot may cause in
 
-`ssangyong_rexton_v2_ocr_engine_t002_ab7a1a97` | topic | dita | tier:3 | lang:ru
 
 The throttle position sensor (TPS) is a resistance potentiometer which is installed on the injection pump.
 
@@ -273,7 +272,6 @@ Should the throttle position data stored in the TCU be lost or be out of specifi
 
 ### DTC P1703 Engine Speed Signal Error
 
-`ssangyong_rexton_v2_ocr_engine_t003_9fe2d7c2` | topic | dita | tier:3 | lang:ru
 
 The Controller Area Network (CAN) connects various control modules by using a twisted pair of wires, to share common information. This results in a reduction of sensors and wiring. TCM obtains the actual engine speed and throttle position, vehicle speed and accelerator position etc. from ECM via CAN without any additional sensors.
 
@@ -337,7 +335,6 @@ The DTC P1713 sets when the accelerator pedal signal via CAN is out of range. Th
 
 ### Action Taken When the DTC Sets
 
-`ssangyong_rexton_v2_ocr_engine_t004_795998cf` | topic | dita | tier:3 | lang:ru
 
 The VPS is used to regulate the clutch and band pressures during a shift. The TCM compares TP voltage, engine rpm and other inputs to determine the pressure appropriate for a given shift. The TCM will regulate pressure by applying a varying amperage to the Variable Pressure Solenoid (VPS) valve. The applied amperage can vary from 0 to 1. 275 amps. The TCM then monitors the amperage at the return line.
 
@@ -436,7 +433,6 @@ Y220_3A2740
 
 ### The clutch pack clearance must be taken before the elements are soaked in ATF.
 
-`ssangyong_rexton_v2_ocr_engine_t005_97b7d6b0` | topic | dita | tier:3 | lang:ru
 
 "O” rings must not be twisted in the grooves.
 
@@ -574,7 +570,6 @@ s 4 \$ 201 980ε 848 2 os 4 \$
 
 ### Do not check or change the oil Immediately after driving off. It may cause serio
 
-`ssangyong_rexton_v2_ocr_engine_t006_c8674851` | topic | dita | tier:3 | lang:ru
 
 It consists of synchronizer hub, sleeve, ring, key and spring (1/2, 5/R, and 3/4 synchronizer are different from each other).
 
@@ -672,7 +667,6 @@ With clutch pedal fully depressed, open the air bleed bolt and bleed the air and
 
 ### Sectional View of Steering Gear Box
 
-`ssangyong_rexton_v2_ocr_engine_t007_25de8dab` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_e4d361cdd3f177927cec95004257bd91ad6ebc6e1c5a9c5e9cd05ceb74f16792.jpg)
 
@@ -791,7 +785,6 @@ Start the engine and let it run around 1,000 rpm.
 
 ### Bleed air in the following order: Right rear brake → Left rear brake → Right fro
 
-`ssangyong_rexton_v2_ocr_engine_t008_a81d6687` | topic | dita | tier:3 | lang:ru
 
 If bleeding the air while engine is running, the air may get into the oil. Always bleed the air from the steering system by cranking the starting motor.
 
@@ -891,7 +884,6 @@ Disconnect the brake pipes from master cylinder.
 
 ### Pedal Height / Maximum Stroke
 
-`ssangyong_rexton_v2_ocr_engine_t009_a7c8c804` | topic | dita | tier:3 | lang:ru
 
 . Install the assembled master cylinder to booster.
 
@@ -1025,7 +1017,6 @@ Y220_08C025
 
 ### Pressure Increases in the Circuit when ABS is Operating
 
-`ssangyong_rexton_v2_ocr_engine_t010_3a5938ec` | topic | dita | tier:3 | lang:ru
 
 Install the wheel cylinder to the backing plate.
 
@@ -1139,7 +1130,6 @@ It is installed in the left side of engine compartment.
 
 ### When the transponder has damaged
 
-`ssangyong_rexton_v2_ocr_engine_t011_84487337` | topic | dita | tier:3 | lang:ru
 
 ABS/ESP Power Antenna 30A 10A FRT Blower B+ HwshieIA H/LP LOW) 30A FRTBIOWwer Cabin F/Box B+ Power ) H/LP (Low) ABS/ESP 30A RLY 12   
 Fuse Puller 30A Engine Main HL, () 30A RR Blower HAL (H) \*R BIower RLY 15   
@@ -1196,7 +1186,6 @@ It diagnoses the immobilizer ECU and the engine ECU.
 
 ### DIRECT INJECTION DIESEL ENGINE EQUIPPED VEHICLE(WITH CAN COMMUNICATION)
 
-`ssangyong_rexton_v2_ocr_engine_t012_b4e522bc` | topic | dita | tier:3 | lang:ru
 
 Black-face type cluster (Dl/gasoline engine equipped vehicle) .9C-4
 
@@ -1270,7 +1259,6 @@ INSTRUMENT PANEL AND MULTI-METER REXTON SM - 2004.4
 
 ### The brake oil sensor is installed on the brake master cylinder reservoir.
 
-`ssangyong_rexton_v2_ocr_engine_t013_16accb17` | topic | dita | tier:3 | lang:ru
 
 1. Disconnect the temperature sensor connector in engine compartment.   
 Ground the harness side connector through 12 V, 3.4 W lamp.   
@@ -1327,7 +1315,6 @@ Severe engine damage could result.
 
 ### How to Drain the Water from Fuel Filter (Direct Injection Diesel Engine Equipped
 
-`ssangyong_rexton_v2_ocr_engine_t014_5bdf4957` | topic | dita | tier:3 | lang:ru
 
 This warning light indicates that the battery is being discharged. When the ignition is switched on, this warning light comes on and should go out when the engine is started.
 
@@ -1394,7 +1381,6 @@ Do not operate when the engine is not running.
 
 ### Stopping ESP function with ESP OFF switch
 
-`ssangyong_rexton_v2_ocr_engine_t015_38d22b93` | topic | dita | tier:3 | lang:ru
 
 Ifthe driving wheels are slipping on the snowy or icy road, the engine rpm may not be increased even when you depress the accelerator pedal, and accordingly, the driver may not start of the vehicle. In this case, stop the ESP function by pressing the ESP OFF switch. When the ESP switch is pressed, the ESP function stops and the vehicle is driven independently from the sensor outputs.
 
@@ -1505,7 +1491,6 @@ Remove the FFH silencer bracket bolts at both sides.
 
 ### Operation Check is recommended before removing the manifold gauge.
 
-`ssangyong_rexton_v2_ocr_engine_t016_183a6283` | topic | dita | tier:3 | lang:ru
 
 The supplementary electrical heater is installd in D27DT engine equipped vehicle as a basic equipment. The PTC system is operated by the measured temperature values at the coolant temperature sensor and the HFM sensor. This device improves the heating effect by increasing the temperature of flowing air into the passengers room. This system needs higher electric power than conventional system due to it heats the ceramic in PTC with the electricity. And, the alternator capacity has been largely increased (12 V \~ 75 A / 90 A to 12 V \~ 140 A).
 
@@ -1600,7 +1585,6 @@ The center piece is inserted to the compressor crankshaft and rotate the only th
 
 ### Vent Rate Control By Heating Operation
 
-`ssangyong_rexton_v2_ocr_engine_t017_a498c1f6` | topic | dita | tier:3 | lang:ru
 
 The V5 is a variable displacement compressor that can match the automotive air conditioning demand under all conditions without cycling. The basic compressor mechanism is a variable angle wobble-plate with seven axially oriented cylinders. The center of the control of the compressor displacement is a billows-actuated control valve located in the rear head of the compressor that senses compressor suction pressure.
 
@@ -1646,12 +1630,9 @@ Rollover
 
 ![](images/_MISSING_39d427f30b79d8d71b56c8ba066c1f3e8e9d037109620c70f0df64a32ac0f6fd.jpg)
 
-## Тормозная система
-
 
 ### Function of parking (P) lock
 
-`ssangyong_rexton_v2_ocr_brakes_t000_478d8884` | topic | dita | tier:3 | lang:ru
 
 The RPM sensors are fixed to the shell of the hydraulic control unit via the contact tabs. A leaf spring, which rests against the valve body, presses the RPM sensors against the transmission housing. This ensures a precise distance between RPM sensors and impulse rings. RPM sensor (n3) detects the speed of the front sun gear and RPM sensor (n2) detects the speed of the front planetary carrer. If the speed sensor is defective, the transmission is operated in emergency driving mode. Below table shows the detection of speed sensor.
 
@@ -1810,7 +1791,6 @@ Y220_3A25R0
 
 ### To make the mode shift easier, stop the vehicle, depressthe brake pedal, select 
 
-`ssangyong_rexton_v2_ocr_brakes_t001_c1e8fa1f` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_109f466ee7dd354e096ad5bbc320e8fe4a23a9d60964c5c7276fe0b124cab6ba.jpg)
 
@@ -1914,7 +1894,6 @@ Y220_04B002
 
 ### Do not fully tighten the nut.
 
-`ssangyong_rexton_v2_ocr_brakes_t002_bef96cfb` | topic | dita | tier:3 | lang:ru
 
 Disc Brake Equipped Vehicle
 
@@ -2060,7 +2039,6 @@ The vibration damper absorbs the vibration from vehicle to minimize it.
 
 ### Description and Operation of Front Suspension
 
-`ssangyong_rexton_v2_ocr_brakes_t003_3bae08a5` | topic | dita | tier:3 | lang:ru
 
 Stabilizer ... .7A-10   
 Shock absorber assembly 7A-12   
@@ -2146,7 +2124,6 @@ The brake system consists of the brake disc (front wheel), brake disc or drum (r
 
 ### Pressure distribution after working
 
-`ssangyong_rexton_v2_ocr_brakes_t004_d07fe51f` | topic | dita | tier:3 | lang:ru
 
 The brake booster is a power assist device for brake system. It relieves the pedal depressing force by using the pressure difference between the vacuum pressure generated by vacuum pump in intake manifold and the atmospheric pressure.
 
@@ -2230,7 +2207,6 @@ Y220_08A046
 
 ### After Replacing Master Cylinder
 
-`ssangyong_rexton_v2_ocr_brakes_t005_ba1230c3` | topic | dita | tier:3 | lang:ru
 
 1. Add oil after replacing the master cylinder.   
 2. Pump the brake pedal several times until the hydraulic pressure is generated. Then, keep the pedal depressing.   
@@ -2314,7 +2290,6 @@ Brake pedal pad
 
 ### Brake Pad Change
 
-`ssangyong_rexton_v2_ocr_brakes_t006_eded6d11` | topic | dita | tier:3 | lang:ru
 
 Remove the brake pipes.
 
@@ -2438,7 +2413,6 @@ Depress the brake pedal several times after replacing the brake pads.
 
 ### Brake lining and drum clearance automatic control system
 
-`ssangyong_rexton_v2_ocr_brakes_t007_56d76634` | topic | dita | tier:3 | lang:ru
 
 5Bleed the air from the brake system after replacing the brake pads.
 
@@ -2504,7 +2478,6 @@ The brake lining is installed with the brake shoe and pushed toward the drum for
 
 ### Apply a proper amount of grease to the parking brake side contacting surface.
 
-`ssangyong_rexton_v2_ocr_brakes_t008_fa2424f1` | topic | dita | tier:3 | lang:ru
 
 The disc brake is normally used for front wheels, however, currently it is also used for rear wheels. The floating caliper type disc brake installed in this vehicle has only one brake cylinder at one side of caliper. The hydraulic pressure generated by master cylinder pushes the piston to contact the pad against the disc. The caliper is moved to contact to the opposite pad.
 
@@ -2624,7 +2597,6 @@ Disconnect the rear brake pipe.
 
 ### Apply a small amount of brake fluid to piston, piston cup and inside of wheel cy
 
-`ssangyong_rexton_v2_ocr_brakes_t009_e5903a4c` | topic | dita | tier:3 | lang:ru
 
 Collect the drained oil in a proper container.
 
@@ -2737,7 +2709,6 @@ TROUBLE DIAGNOSIS ... ..10
 
 ### Parking Brake Switch and Indicator
 
-`ssangyong_rexton_v2_ocr_brakes_t010_c33c2c1f` | topic | dita | tier:3 | lang:ru
 
 The parking brake is the mechanical device to hold the vehicle. When pulling up the lever, the parking brake cable between the lever and the rear drum brake trailing shoe pulls the parking brake lining to contact to drum.
 
@@ -2858,7 +2829,6 @@ EBD (Electronic Brake Force Distribution) system . 8E1-6
 
 ### REMOVAL AND INSTALLATION... . 8E1-19
 
-`ssangyong_rexton_v2_ocr_brakes_t011_28994a53` | topic | dita | tier:3 | lang:ru
 
 On-vehicle service ..8E1-7   
 Input and output diagram of ABS unit.. .8E1-9   
@@ -2930,7 +2900,6 @@ Y220_8E1004
 
 ### Electronic system service precautions
 
-`ssangyong_rexton_v2_ocr_brakes_t012_5287cb26` | topic | dita | tier:3 | lang:ru
 
 The signals produced by the wheel sensors are evaluated in the electronic control unit. From the information received, the control unit must first compute the following variables:
 
@@ -2978,7 +2947,6 @@ Test circuits only with a high-impedance multi-meter. Never remove or apply powe
 
 ### ABS Wheel Speed Sensor, Stop Lamp Switch, Diagnostic Connector, Warning Lamp (AB
 
-`ssangyong_rexton_v2_ocr_brakes_t013_7b02b4e4` | topic | dita | tier:3 | lang:ru
 
 Newly introduced ABS has a different shape of integrated hydraulic modulator and HECU (Hydraulic and Electronic Control Unit) compared to existing ABS. And, the wheel speed sensor uses different method to detect wheel speed. The basic function of the ABS that maintains the vehicle stability by controlling the steerabilit of the vehicle when braking has not been changed.
 
@@ -3049,7 +3017,6 @@ Y220_8E1021
 
 ### FUNCTION DESCRIPTION AND REMOVAL/INSTALLATION. ..8E2-22
 
-`ssangyong_rexton_v2_ocr_brakes_t014_e048dbb6` | topic | dita | tier:3 | lang:ru
 
 The speed sensor used in traditional ABS is made of permanent magnet and transmits the output voltage that changes as the wheel rotor rotates to the HECU system. New wheel speed sensor detects the wheel speed through the current value that depends on the resistance that changes according to the magnetic field by using four resisters and supplying the 12 V power supply to the sensor.
 
@@ -3134,7 +3101,6 @@ ABS/ESP ..8E2-49
 
 ### Noise and vibration that driver senses when the ESP is operating
 
-`ssangyong_rexton_v2_ocr_brakes_t015_9a3ddd13` | topic | dita | tier:3 | lang:ru
 
 The ESP system includes the ABS/EBD and ASR systems allowing the system to be able to operate depending to the vehicle driving conditions. For example, when the brakes are applied during cornering at the speed of 100 km/h, the ABS system wiloperate at the same time the ASR or ABD systems operate to reduce the power from the slipping wheel. And when yaw rate sensor detects the rate exceeding 4jE/seconds, the ESP system is activated to apply the brake force to the corresponding wheel to compensate the yaw moment with the vehicle stability control function. When various systems operate simultaneously under a certain situation, there may be vehicle control problems due to internal malfunction of a system or simultaneous operations. In order to compensate to this problem, the ESP system sets the priority among systems. The system operates in the order of TCS (ASR or ABD), ESP and ABS. The order may be changed depending on the vehicle driving situations and driving conditions. As the single-track vehicle model used for the calculations is only valid for a vehicle moving forward, ESP intervention never takes place during backup.
 
@@ -3192,7 +3158,6 @@ The Inlet valve and outlet valve wil be closed to maintain the pressure in the h
 
 ### (2) Comparison between ESP HECU and ABS/EBD HECU
 
-`ssangyong_rexton_v2_ocr_brakes_t016_7b247d9f` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_4a6d5e7f0c0fa818f5c8f37c57ab8eab8d9e944f19fe683bd7b3dcaa42052d50.jpg)
 
@@ -3274,7 +3239,6 @@ Y220_8E2057
 
 ### (5) ESP warning lamp operation depending on system conditions
 
-`ssangyong_rexton_v2_ocr_brakes_t017_15a85ef1` | topic | dita | tier:3 | lang:ru
 
 The table shows ESP warning lamp operations when the ESP system is defective or ESP (including TCS function) is working.
 
@@ -3380,7 +3344,6 @@ Wheel Speed Sensor, Stop Lamp Switch, Diagnostic Connector, Warning Lamp (ABS/ES
 
 ### Brake Pressure Sensor, Steering Wheel Angle Sensor, Sensor Cluster, ESP OFF Swit
 
-`ssangyong_rexton_v2_ocr_brakes_t018_06b0633f` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_7985f4f831334534704490556c660b77312b964624204969561515400190574d.jpg)
 
@@ -3445,7 +3408,6 @@ When the brake pedal is applied, it controls the braking pressure electronically
 
 ### Operating Memory Settings
 
-`ssangyong_rexton_v2_ocr_brakes_t019_6522986e` | topic | dita | tier:3 | lang:ru
 
 This warning light illuminates when the ignition is switched on and should go out after about 2 seconds.
 
@@ -3512,7 +3474,6 @@ Y220_11C001
 
 ### Hood Shock Absorber
 
-`ssangyong_rexton_v2_ocr_brakes_t020_6cd93bb8` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_ffe902c144cc8e14bb790a4fa81a3b0d091ad0bcecebb4597c247668f51a302b.jpg)
 
@@ -3562,12 +3523,9 @@ Disconnect the rear defogger connectors on tailgate.
 
 ![](images/_MISSING_7c6687d3d8b5e239849765e5f7a9a70c9f2e189f8b0cf7f83778cd966ac6685d.jpg)
 
-## Подвеска
-
 
 ### Modulating Pressure (MP) and Shift Pressure (SP) Control Solenoid Valve
 
-`ssangyong_rexton_v2_ocr_suspension_t000_7ab3f883` | topic | dita | tier:3 | lang:ru
 
 Components
 
@@ -3696,7 +3654,6 @@ A. Oil gallery in clutch C1
 
 ### Line pressure control valve
 
-`ssangyong_rexton_v2_ocr_suspension_t001_2e292a40` | topic | dita | tier:3 | lang:ru
 
 11. Front planetary gear set   
 12. Gear wheel   
@@ -3815,7 +3772,6 @@ Y220_3A2810
 
 ### Front Servo Assembly
 
-`ssangyong_rexton_v2_ocr_suspension_t002_28dc1269` | topic | dita | tier:3 | lang:ru
 
 The plug is preloaded by the spring and may unexpectedly fall out of the valve body.
 
@@ -3917,7 +3873,6 @@ Position the reaction strut in its retaining clip and engage it with the band an
 
 ### Front View and Rear View
 
-`ssangyong_rexton_v2_ocr_suspension_t003_d8e84894` | topic | dita | tier:3 | lang:ru
 
 With the C2 wave spring compressed, and the clutch Pack supporting a 2 kg weight, the dimension from the underside of the C2 pressure plate to the selective steel is to be between 1.4 \~ 1.8 mm. If the clutch is to be gauged from the top of the pressure plate, then the dimension is to be the actual thickness of the pressure plate plus 1.4 \~ 1.8 mm.
 
@@ -4172,7 +4127,6 @@ Align the 5/R shift lug and the interlock plate surface.
 
 ### Disassembly and Reassembly
 
-`ssangyong_rexton_v2_ocr_suspension_t004_5949a2d3` | topic | dita | tier:3 | lang:ru
 
 Place the spring pin with the pin slot facing to the shaft.
 
@@ -4341,7 +4295,6 @@ B. Measure and record the pointer value while rotating the crankshaft.
 
 ### Upper Arm and Lower Arm Assembly
 
-`ssangyong_rexton_v2_ocr_suspension_t005_8166304b` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_8c199363ae0ed9b706c1d47ee81df22a41fd024ebe248e5163802d8eb1618a3a.jpg)
 
@@ -4449,7 +4402,6 @@ Y220_07A005
 
 ### SECTIONAL VIEW OF SHOCK ABSORBER ASSEMBLY
 
-`ssangyong_rexton_v2_ocr_suspension_t006_55509bbd` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_04ff5a629bd583aedf27bc72a51b935a1e7b7c9c1a8a9b7b9b30d263f399eb40.jpg)
 
@@ -4572,7 +4524,6 @@ The rear suspension is also to keep the ride comforts and drivability and this v
 
 ### Cautions when removing rain sensor unit
 
-`ssangyong_rexton_v2_ocr_suspension_t007_2d89da09` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_4f0c2a949a65e6ed6271d94b0de801f5d8d2a0c4c2ae63f325038c827b474196.jpg)
 
@@ -4690,7 +4641,6 @@ A restricted expansion valve willresult in low suction pressure and no cooling. 
 
 ### Notice
 
-`ssangyong_rexton_v2_ocr_suspension_t008_0227bb02` | topic | dita | tier:3 | lang:ru
 
 Turn the label of the clock spring clockwise to lock and turn the label of the clock spring counterclockwise approximately 2.9 ± 0.2 turns to the neutral positions with the front wheels ahead.
 
@@ -4698,12 +4648,9 @@ Align the pointed marks " ".
 
 ![](images/_MISSING_8689752ca87be01c1e8767f0345d017d2bd8e3ad6fb9040f645f15f4ad84cf0e.jpg)
 
-## Электрооборудование
-
 
 ### Starter, Selector Lever, CAN Communication
 
-`ssangyong_rexton_v2_ocr_electrical_t000_a782ba74` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_602b255d44fd5d8a17bd723e2611a9905752b9c9487d14621ce563293990f111.jpg)
 
@@ -4756,7 +4703,6 @@ If the DTC sets when an accessory is operated, check for a poor connection or ex
 
 ### Installation Notice
 
-`ssangyong_rexton_v2_ocr_electrical_t001_5e62d2d6` | topic | dita | tier:3 | lang:ru
 
 •Inspect the wiring for poor electrical connections at the TCM and ECM connectors. Look for possible bent, backed out, deformed or damaged terminals. Check for weak terminal tension as well. Also check for chafed wires that could short to bare metal or other wiring. Inspect for broken wire inside the insulation. •If diagnosing for a possible intermittent short or open condition, move or massage the wiring harness while observing test equipment for a change. • When ECM finds a fault on the accelerator pedal signals, ECM will adopt a default mode and send the default value and trouble message to TCM via CAN.
 
@@ -4828,7 +4774,6 @@ If the indicators do not come on, check the related bulb, the wiring harness and
 
 ### When Faults Occur, First Check.
 
-`ssangyong_rexton_v2_ocr_electrical_t002_6d524f7e` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_7af63a4efad9dd3983582dde9aad8c0c0ccdb7df3f52148c91f5cc93de6bf017.jpg)
 
@@ -4889,12 +4834,9 @@ Battery voltage < 10 volt: the undervoltage protection has triggered Check fuel 
 
 Be careful not to drop the disconnected wiring harness into the instrument panel when removing.
 
-## Климат-контроль
-
 
 ### DTC P1710 Air Conditioning Switch Circuit Malfunction
 
-`ssangyong_rexton_v2_ocr_hvac_t000_71a5a3a0` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_c815ff89baa41ef700c3df0be517d391e2670e55af7e156471982401e043a4de.jpg)
 
@@ -4989,7 +4931,6 @@ If not necessary, do not operate the temperature control switch after once set u
 
 ### Front Heater and Blower Module Assembly
 
-`ssangyong_rexton_v2_ocr_hvac_t001_3bc9fffd` | topic | dita | tier:3 | lang:ru
 
 Located at the left side of heater case.
 
@@ -5102,7 +5043,6 @@ Even though O-rings may look identical, it is extremely important that only reco
 
 ### Maintaining Chemical Stability In the Refrigeration System
 
-`ssangyong_rexton_v2_ocr_hvac_t002_428f99a8` | topic | dita | tier:3 | lang:ru
 
 The efficient operation and life of the air conditioning system is dependent upon the chemical stability of the refrigeration system.
 
@@ -5187,12 +5127,9 @@ If the FATC detects some errors it will blink the temperature display screen for
 
 When there are some errors in the automatic temperature control system without displaying the faulty code, perform the diagnostic test using the applicable table.
 
-## Кузов
-
 
 ### Selector Assembly - Removal and Installation
 
-`ssangyong_rexton_v2_ocr_body_t000_6a9c44b9` | topic | dita | tier:3 | lang:ru
 
 The plastic Electric Hydraulic Control Unit (EHU) is installed on the top of valve body. RPM sensor, start lock-out switch and oil temperature sensors are integrated in EHU.   
 The 13-pin connector is connected to automatic transmission via PCB.   
@@ -5330,7 +5267,6 @@ Y220_3A2070
 
 ### Be aware that the manual valve will fall out of the valve body.
 
-`ssangyong_rexton_v2_ocr_body_t001_a4ef661f` | topic | dita | tier:3 | lang:ru
 
 The solenoid 6 is a normally open ON/OFF type solenoid that is used to set the high/low level of line pressure.
 
@@ -5430,7 +5366,6 @@ Remove the retaining plate, plug, spring and re-verse lockout valve.
 
 ### REMOTE KEYLESS ENTRY SYSTEM (REKES)
 
-`ssangyong_rexton_v2_ocr_body_t002_629d6c79` | topic | dita | tier:3 | lang:ru
 
 Once the pins are removed, the plates are loose in the valve body and will drop out when the valve body is turned over.
 
@@ -5519,7 +5454,6 @@ DR : Driver's door PS : Passenger's door RR : Reardoor
 
 ### Lock/Unlock by REKES (Remote Keyless Entry System)
 
-`ssangyong_rexton_v2_ocr_body_t003_d40422f4` | topic | dita | tier:3 | lang:ru
 
 The buzzer output i "ON" when opening the driver's door or passenger's door while the tail lamp relay turns “ON and the ignition key is removed..
 
@@ -5644,7 +5578,6 @@ Y220_09B073
 
 ### Wiper, Door Switch, Lamps (Room Lamp, Map Lamp), Door Ajar Warning Lamp
 
-`ssangyong_rexton_v2_ocr_body_t004_f08518b4` | topic | dita | tier:3 | lang:ru
 
 .Armed mode activation requirements
 
@@ -5756,7 +5689,6 @@ Y220_09C261
 
 ### Outside rearview mirror angle adjusting switch Outside rearview mirror folding s
 
-`ssangyong_rexton_v2_ocr_body_t005_068964fa` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_5640cde894504c1266d5bb08c6cc5a237ff8bd0a88a46e6ad043c8f9044ea4f1.jpg)
 
@@ -5841,7 +5773,6 @@ This unit is installed under the driver's seat and functions as follows:
 
 ### Ambient Temperature Switch Removal and Installation
 
-`ssangyong_rexton_v2_ocr_body_t006_2bb277ab` | topic | dita | tier:3 | lang:ru
 
 1. Disconnect the negative battery cable.   
 Remove the driver's door panel.
@@ -5963,7 +5894,6 @@ If you have difficulty breathing, seek medical attention immediately. If refrige
 
 ### Condenser - Removal and Installation
 
-`ssangyong_rexton_v2_ocr_body_t007_72a5e186` | topic | dita | tier:3 | lang:ru
 
 1. Discharge and recover the refrigerant from the air conditioner system. Remove the radiator grille and front bumper.
 
@@ -6049,7 +5979,6 @@ Measure the voltage within P1, P2 terminals (specified value: 12 V) and a,b (spe
 
 ### This type of repair may be used only for urethane-installed glass.
 
-`ssangyong_rexton_v2_ocr_body_t008_950322df` | topic | dita | tier:3 | lang:ru
 
 1. Disconnect the negative battery cable.   
 Remove the glove box.   
@@ -6125,7 +6054,6 @@ Y220_11A035
 
 ### Seat position memory setting and operation
 
-`ssangyong_rexton_v2_ocr_body_t009_a0deddc2` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_04c17732910df6a19587d21e7d15aff7d67a72c43896334c69c73b95f4666eb2.jpg)
 
@@ -6181,7 +6109,6 @@ If you do not press a position switch within 5 seconds after pressing the "SET" 
 
 ### REMOVAL AND INSTALLATION OF TRIM/ROOF
 
-`ssangyong_rexton_v2_ocr_body_t010_f50a0c46` | topic | dita | tier:3 | lang:ru
 
 Preceding work: Removal of seat
 
@@ -6366,7 +6293,6 @@ Y220_11C003
 
 ### Replacement of Hood Insulation Pad
 
-`ssangyong_rexton_v2_ocr_body_t011_4b9c72f3` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_181b2eb38861adad82d297cca0ed30efce35aa24ea03cfd0d969c59444a3a5f7.jpg)
 
@@ -6529,7 +6455,6 @@ Remove the wheel arch garnish with a proper tool.
 
 ### Side Molding/Wheelhouse Molding
 
-`ssangyong_rexton_v2_ocr_body_t012_985aa9f4` | topic | dita | tier:3 | lang:ru
 
 Be careful not to damage the body surface.
 
@@ -6664,7 +6589,6 @@ Unscrew the check linkage bolt (3).
 
 ### Before removing the bumper fascia, disconnect the parking aid sensor connector.
 
-`ssangyong_rexton_v2_ocr_body_t013_ceddaa69` | topic | dita | tier:3 | lang:ru
 
 Preceding work: Disconnection of negative battery cable
 
@@ -6787,7 +6711,6 @@ When installing, put the rear bumper on the hook on the ventilator.
 
 ### Flip-Up Glass Adjustment
 
-`ssangyong_rexton_v2_ocr_body_t014_cdd2d508` | topic | dita | tier:3 | lang:ru
 
 1. Unscrew the rear bumper mounting bolts and remove the back beam assembly.
 
@@ -6896,7 +6819,6 @@ Apply a small amount of soapy water to the contacting point of glass run and the
 
 ### Rear Glass Run / Regulator / Channel
 
-`ssangyong_rexton_v2_ocr_body_t015_dfb2dd41` | topic | dita | tier:3 | lang:ru
 
 Remove the door trim, seal and glass.   
 2Remove the door glass run from door.
@@ -6990,7 +6912,6 @@ Remove the inside rearview mirror.
 
 ### Installation
 
-`ssangyong_rexton_v2_ocr_body_t016_fe2f4ab3` | topic | dita | tier:3 | lang:ru
 
 To prevent the painted surface from damaging, do not remove the adhesive by 1 mm from the body surface.
 
@@ -7190,7 +7111,6 @@ Put the adhesive tapes at the tailgate, the upper corners (2 locations) and the 
 
 ### The air bag can inflate when:
 
-`ssangyong_rexton_v2_ocr_body_t017_fc616b9c` | topic | dita | tier:3 | lang:ru
 
 1Remove the headlining, room lamps and sun visors. Remove the hose clips at each corner (4 locations) on the sun roof drain hose. Disconnect the drain hose while gently pulling it.
 
@@ -7333,12 +7253,9 @@ The air bag does not inflate when:
 
 Rollover, side impact or rear impact
 
-## Рулевое управление
-
 
 ### Steering Column - Installation
 
-`ssangyong_rexton_v2_ocr_steering_t000_1a417337` | topic | dita | tier:3 | lang:ru
 
 Be careful not to damage the boots during installation.
 
@@ -7497,7 +7414,6 @@ Installthe multifunction switch assembly to the steering column shaft.
 
 ### Steering Lower Shaft - Removal and Installation
 
-`ssangyong_rexton_v2_ocr_steering_t001_1317e856` | topic | dita | tier:3 | lang:ru
 
 Insert the side cover into the molding as shown in the figure.
 
@@ -7561,7 +7477,6 @@ ECPS system, according to the vehicle speed, enables to achieve proper steering 
 
 ### S.S.P.S (SPEED SENSITIVE POWER STEERING)
 
-`ssangyong_rexton_v2_ocr_steering_t002_933d3871` | topic | dita | tier:3 | lang:ru
 
 Location
 
@@ -7639,7 +7554,6 @@ A. Installation point
 
 ### Power Steering Pipe and Hose
 
-`ssangyong_rexton_v2_ocr_steering_t003_71eeec8b` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_a9f50ced5b08c9d8189ba64f50d63655ab66f488c6998effad91912f3957b8f2.jpg)
 
@@ -7768,7 +7682,6 @@ Remove the pinion bearing (6) by tapping it with a long and flat head drift and 
 
 ### POWER STEERING GEAR PRELOAD ADJUSTMENT
 
-`ssangyong_rexton_v2_ocr_steering_t004_ba75d1a1` | topic | dita | tier:3 | lang:ru
 
 Do not disassemble the power steering gear housing and rack gear. Replace it as an assembly if needed.
 
@@ -7890,7 +7803,6 @@ Always keep the oil level over the ADD line.
 
 ### Removal and Installation
 
-`ssangyong_rexton_v2_ocr_steering_t005_3128735a` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_a4f45d7191c37704ded919ba67f2fab5d608116d9f954ff60d61fb2f1c900e05.jpg)
 
@@ -7959,7 +7871,6 @@ SSPS, by providing appropriate steerability to driver according to the changes o
 
 ### Washer Switch (Windshield Glass)
 
-`ssangyong_rexton_v2_ocr_steering_t006_c85d22c2` | topic | dita | tier:3 | lang:ru
 
 Center switches .9D-6   
 Left switch panel . .9D-16   
@@ -8039,12 +7950,9 @@ Remove the upper and lower steering column covers.
 
 If the contact coil is not properly aligned, the steering wheel may not be able to rotate completely during a turning. Restricted turning ability may cause the vehicle to crash. Improper alignment of the contact coil also may make the SlR system inoperative, preventing the air bags from deploying during a crash.
 
-## Освещение
-
 
 ### If a wire is probed with a sharp instrument and not properly sealed afterward, t
 
-`ssangyong_rexton_v2_ocr_lighting_t000_5c3b98a3` | topic | dita | tier:3 | lang:ru
 
 -reewheels are installed in the front planetary gear set between the sun gear and the stator shaft and in the real Jlanetary gear set between the sun gear and the intermediate shaft.
 
@@ -8107,7 +8015,6 @@ Diagnostic test probes are now available that allow you to probe individual wire
 
 ### Action Taken When the DTC Sets
 
-`ssangyong_rexton_v2_ocr_lighting_t001_3ac7107c` | topic | dita | tier:3 | lang:ru
 
 Carry out the adjustments to the idle speed as detailed in the workshop manual.
 
@@ -8153,7 +8060,6 @@ The shift quality is degraded.
 
 ### Action Taken When the DTC Sets
 
-`ssangyong_rexton_v2_ocr_lighting_t002_b99dde62` | topic | dita | tier:3 | lang:ru
 
 • The solenoid 6 is disabled (OFF) resulting in high line pressure being applied continuously.
 
@@ -8267,7 +8173,6 @@ All hardware must be correctly installed and torqued to specification.
 
 ### The helical type gear prevents the axial gear missing and provides less noise.
 
-`ssangyong_rexton_v2_ocr_lighting_t003_6e9c9219` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_9b4eac0fa0912df4b70a7ed63ab0f6e10af05f284f02b0e1ff0697a8517e7503.jpg)
 
@@ -8402,7 +8307,6 @@ Y220_03D009
 
 ### Function of indicating lamp during shifting
 
-`ssangyong_rexton_v2_ocr_lighting_t004_673d44a6` | topic | dita | tier:3 | lang:ru
 
 •As the operation of shift motor starts, the indicator flickers in interval of 0.3 seconds and stops after the shifting operation is completed or cancelled.
 
@@ -8497,7 +8401,6 @@ The trouble code being detected in shift motor during its operation is defined a
 
 ### All Troubles From Speed Sensor
 
-`ssangyong_rexton_v2_ocr_lighting_t005_eec8606b` | topic | dita | tier:3 | lang:ru
 
 •When the system detects a fault in shift motor for over 1 second,"4WD CHECK" warning lamp comes on and the trouble code is stored into memory.
 
@@ -8574,7 +8477,6 @@ Replace the boot clamps with new ones.
 
 ### REMOVAL AND INSTALLATION OF ECPS CONTROL UNIT
 
-`ssangyong_rexton_v2_ocr_lighting_t006_d568c0ea` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_d6d24f64db827425946bfc6c06f35d6e11ba5f8db3d1d649f5f091125a69f5c4.jpg)
 
@@ -8669,7 +8571,6 @@ If air enters the hydraulic modulator, or if an unfilled modulator is installed,
 
 ### The warning lamp comes on and warning beep sounds when the ESP is operating
 
-`ssangyong_rexton_v2_ocr_lighting_t007_5ecd1d4f` | topic | dita | tier:3 | lang:ru
 
 When Installed In Vehicle
 
@@ -8768,7 +8669,6 @@ Cautions for wiper control
 
 ### Pause time table of vehicle speed coupled INT wiper
 
-`ssangyong_rexton_v2_ocr_lighting_t008_076dc7c9` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_0354f7bc86e4d5eb5c6fa83acc1daf4b44d7a3e85449ecb185c69a48faff0635.jpg)
 
@@ -8832,7 +8732,6 @@ This indicator illuminates when the headlight high beam is switched on.
 
 ### FUNCTION AND COMPOSITION OF SWITCHES
 
-`ssangyong_rexton_v2_ocr_lighting_t009_020691e8` | topic | dita | tier:3 | lang:ru
 
 Driving with high beam headlamp disturbs the approaching vehicle's visibility for safe driving. Use the high beam headlamp only during very dark situations when it is very hard to see the road.
 
@@ -8937,7 +8836,6 @@ Move this lever down to the stop position to signal a left turn.
 
 ### Auto Light Sensor Unit Terminal
 
-`ssangyong_rexton_v2_ocr_lighting_t010_8f0b5ca3` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_e3511b87368fb0258043523a301e6f5b6ad95c07adb0b0452ea845dc31639553.jpg)
 
@@ -9022,7 +8920,6 @@ Y220_09G325
 
 ### Front Turn Signal Lamp/Fog Lamp Removal and Installation
 
-`ssangyong_rexton_v2_ocr_lighting_t011_47afe3f0` | topic | dita | tier:3 | lang:ru
 
 An approved beam setting device should be used for a correct headlamp aiming.   
 Make sure to follow the operating instructions provided by the manufacturer.   
@@ -9141,7 +9038,6 @@ Y220_09G349
 
 ### Glove Box Lamp - Removal and Installation
 
-`ssangyong_rexton_v2_ocr_lighting_t012_404719e3` | topic | dita | tier:3 | lang:ru
 
 Open the glove box cover.   
 Separate the lamp by pushing it to arrow direction.   
@@ -9223,7 +9119,6 @@ Pressthe AUTO switch to turn on the system and set the temperature with the temp
 
 ### Receiver Drier and Refrigerant Pressure - Removal and Installation
 
-`ssangyong_rexton_v2_ocr_lighting_t013_f9aa95cb` | topic | dita | tier:3 | lang:ru
 
 1. Rotate the handle counterclockwise fully before connecting the valve to the refrigerant tank.
 
@@ -9303,7 +9198,6 @@ Unscrew the rear combination lamp mounting screws.
 
 ### Microprocessor-Independent Lamp Activation
 
-`ssangyong_rexton_v2_ocr_lighting_t014_c136248a` | topic | dita | tier:3 | lang:ru
 
 The gas lifter is filled with the high pressurized nitrogen and oil. Make sure to remove the pressure before disposal.
 
@@ -9334,12 +9228,9 @@ Service personnel can reset the SDM and turn OFF the warning lamp if the fault i
 
 If the sensing and diagnostic module (SDM) electrical connector is not properly attached, the SDM cannot function and cannot control the warning lamp. If this fault is present, the warning lamp will operate independently from the SDM through the use of shorting bars that are built into the SDM connector.
 
-## Салон
-
 
 ### Removal and Installation Procedure
 
-`ssangyong_rexton_v2_ocr_interior_t000_25ef6f06` | topic | dita | tier:3 | lang:ru
 
 The TCM is an in-vehicle micro-processor based trans-mission management system. It is mounted under the driver's side front seat in the vehicle cabin.
 
@@ -9421,7 +9312,6 @@ It is installed behind the lower instrument panel.
 
 ### INDIRECT INJECTION DIESEL ENGINE EQUIPPED VEHICLE (WITHOUT CAN COMMUNICATION)
 
-`ssangyong_rexton_v2_ocr_interior_t001_46fd3b69` | topic | dita | tier:3 | lang:ru
 
 It is install at left side of the instrument panel.
 
@@ -9553,7 +9443,6 @@ Press the button to warm the seat, and press it again to stop the operation.
 
 ### SEAT POSITION MEMORY SETTING AND OPERATION
 
-`ssangyong_rexton_v2_ocr_interior_t002_d826bec4` | topic | dita | tier:3 | lang:ru
 
 Do not place anything sharp on the seat. This may cause damages to the seat warmer. When cleaning the seats, do not use organic solvents such as benzene or thinner. The seat surfaces may get deteriorated.
 
@@ -9618,7 +9507,6 @@ Air Mix Motor, Sensors (Sun, Ambient, Interior, Coolant Temperature)
 
 ### 2. Unscrew the seat mounting bolts and remove the seat. Installation Notice
 
-`ssangyong_rexton_v2_ocr_interior_t003_9f6b2f1c` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_8cfa3dbfcd835614d430dc9edfa1330f54156ebdd1a296ad4f4bedc82a8c5248.jpg)
 
@@ -9697,7 +9585,6 @@ Unscrew the screws and remove the seat mounting cover.
 
 ### Replacing the seat motor from the seat guide rail
 
-`ssangyong_rexton_v2_ocr_interior_t004_249532aa` | topic | dita | tier:3 | lang:ru
 
 1Fold down the seatback of third seat.
 
@@ -9888,7 +9775,6 @@ Remove the lower quarter trim and upper quarter trim.
 
 ### Airbag module deployment (inside vehicle)
 
-`ssangyong_rexton_v2_ocr_interior_t005_4c310ef7` | topic | dita | tier:3 | lang:ru
 
 %Preceding works: 1. Removal of seat
 
@@ -10011,7 +9897,6 @@ Remove the lower cover of the steering column.
 
 ### Airbag module deployment (outside vehicle) Deploy airbag modules in following si
 
-`ssangyong_rexton_v2_ocr_interior_t006_b0c6c8b6` | topic | dita | tier:3 | lang:ru
 
 The passenger airbag deployment is the same procedure of the driver's. Remove the glove box instead of the contact coil and cut two passenger airbag wires.
 
@@ -10084,7 +9969,6 @@ The SDM located on floor beneath the floor console assembly. The SDM performs th
 
 ### Wiring Harness Connectors
 
-`ssangyong_rexton_v2_ocr_interior_t007_9d8c17a2` | topic | dita | tier:3 | lang:ru
 
 This device receives the impact signal from the sensor for vehicle impact and identifies whether the current condition is necessary for airbag deployment or not. And then the controller sends the specified currents to the airbag ignition circuit as needed.
 
@@ -10134,7 +10018,6 @@ It is a part of the airbag steering and is made by plastic injection molding.
 
 ### Do not measure the resistance of the airbag module because the multimeter's batt
 
-`ssangyong_rexton_v2_ocr_interior_t008_1e82dc52` | topic | dita | tier:3 | lang:ru
 
 It is a part of airbag steel plate structure.
 
@@ -10222,12 +10105,9 @@ When it is removed the scan tool after clearing the fault code, the SDM rechecks
 
 ![](images/_MISSING_1297b25ea9a7a6eb39e2f0b31e738607a4489b8104fec695d9aa0bb37002a72c.jpg)
 
-## Электропривод
-
 
 ### The specific fluid used in this transmission turns brown during normal operation
 
-`ssangyong_rexton_v2_ocr_ev_t000_ef005747` | topic | dita | tier:3 | lang:ru
 
 •Characteristics that appears in the vehicle are as below:
 
@@ -10344,7 +10224,6 @@ The DTC P1714 sets when the vehicle ID stored in EEPROM is out of range when che
 
 ### Electro Magnetic Clutch (EMC)
 
-`ssangyong_rexton_v2_ocr_ev_t001_aa7feb3a` | topic | dita | tier:3 | lang:ru
 
 The Electrically Erasable Programmable Read-Only Memory (EEPROM) is a permanent memory chip that is physically soldered within the Transmission Control Module (TCM) The EEPROM contains the calibration information required for transmission and transmission diagnostics operation. When the EEPROM malfunc-tions, DTC P1720 will set. The EEPROM memory is corrupted and the calculated checksum disagrees with the stored checksum or an EEPROM communication failure has occurred when checked on initialization.
 
@@ -10449,7 +10328,6 @@ The TOD will wait 3 seconds then attempt the shift again. If the second attempt 
 
 ### General service precautions
 
-`ssangyong_rexton_v2_ocr_ev_t002_b2a37d06` | topic | dita | tier:3 | lang:ru
 
 1Disconnect the negative battery cable.   
 Lift up the vehicle and fix it safely.   
@@ -10528,7 +10406,6 @@ The electrical components are weak to moisture. To protect ECU, GoreTex-based pl
 
 ### Active Sensor Element of Encoder Wheel
 
-`ssangyong_rexton_v2_ocr_ev_t003_9b042829` | topic | dita | tier:3 | lang:ru
 
 Removal and Installation
 
@@ -10689,7 +10566,6 @@ ing conditions with driving conditions)
 
 ### Check Voltage Supply Ubat (terminal 30)
 
-`ssangyong_rexton_v2_ocr_ev_t004_209cffb8` | topic | dita | tier:3 | lang:ru
 
 Parasitic current: below 3 mA (Battery voltage 12 V at 25°C)
 
@@ -10759,7 +10635,6 @@ Blower electrical . .10B-19
 
 ### If refrigerant is allowed to escape too fast, compressor oil will be drawn out o
 
-`ssangyong_rexton_v2_ocr_ev_t005_65b914ea` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_e573169514530e92e61d98919a5b34f1a4dba28701b27c41b89e3dd846fa5f90.jpg)
 
@@ -10833,7 +10708,6 @@ Connect the tap valve of the refrigerant tank.
 
 ### Removal and Installation
 
-`ssangyong_rexton_v2_ocr_ev_t006_aee4259b` | topic | dita | tier:3 | lang:ru
 
 It may be difficult to discharge the oil when the compressor is cold. At this time warm the compressor (40 \~ 50°C) before discharging the oil.
 
@@ -10868,12 +10742,9 @@ Remove the instrument center panel and console panel.
 4.Unscrew the bolts and remove the SDM assembly.   
 5 Install in the reverse order of removal.
 
-## Шасси
-
 
 ### Function and description
 
-`ssangyong_rexton_v2_ocr_chassis_t000_2a664e9d` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_50fd7f14a6a71275dff89250abebd4cb8135c964c2449126086c6355cf9763ed.jpg)
 
@@ -10996,7 +10867,6 @@ Apply the force on the inner race other than other points.
 
 ### . On paved road with high speed
 
-`ssangyong_rexton_v2_ocr_chassis_t001_d005f873` | topic | dita | tier:3 | lang:ru
 
 Place the groove in hub to face the 5th gear and align the synchronizer key and the synchronizer ring groove in reverse gear.
 
@@ -11089,7 +10959,6 @@ Vehicle with ABS system (Only for part time T/C equipped vehicle) Unscrew the mo
 
 ### Removal and Installation Notice
 
-`ssangyong_rexton_v2_ocr_chassis_t002_ece1d8a6` | topic | dita | tier:3 | lang:ru
 
 Adjust the clearance between snap ring and hub cover with appropriate shims (shim thickness: 0. 2, 0.3, 0.5 and 1.0 mm) so that it is below 0.2 mm. Be careful not to damage the O-ring in locking hub.
 
@@ -11230,7 +11099,6 @@ Remove all deposits of foreign material from the inside of the wheel.
 
 ### Remove stones from the tread in order to avoid operator injury during spin balan
 
-`ssangyong_rexton_v2_ocr_chassis_t003_c0dc315b` | topic | dita | tier:3 | lang:ru
 
 Inspect the tire for any damage. Balance the tire according to the equipment manufacturer's recommendations.
 
@@ -11330,7 +11198,6 @@ installing.
 
 ### Do not remove the tire from the equipment before setting the tire pressure.
 
-`ssangyong_rexton_v2_ocr_chassis_t004_e457d5cd` | topic | dita | tier:3 | lang:ru
 
 •Always keep the spare tire available. •When reinstalling the spare tire, securely fasten it. • If the lift plate is not in the center position or the spare tire is not securely fastened, the spare tire may be out of position during driving. • If a movement of spare tire is found, check the system and reinstall in needed. •The wheel nut tightening surface of the spare tire should be faced toward ground. This device is desined only for manual operation. Never use the impact type tool to remove the spare tire.
 
@@ -11401,7 +11268,6 @@ Y220_05A045
 
 ### Disassembly and Reassembly (Part time TC)
 
-`ssangyong_rexton_v2_ocr_chassis_t005_2dcc378c` | topic | dita | tier:3 | lang:ru
 
 Balance is the easiest procedure to perform and should be done first if the vibration occurs at high speeds or if the tires or the wheels are replaced.
 
@@ -11559,7 +11425,6 @@ If the measured preload is out of the specified range, retighten the slotted nut
 
 ### The allowable tolerance increases when the tires are worn or the tire pressure i
 
-`ssangyong_rexton_v2_ocr_chassis_t006_bd0dae2b` | topic | dita | tier:3 | lang:ru
 
 Remove the tire.
 
@@ -11637,7 +11502,6 @@ Mode switching
 
 ### Up/Down or In/Out Adjustment
 
-`ssangyong_rexton_v2_ocr_chassis_t007_763029dc` | topic | dita | tier:3 | lang:ru
 
 Unit: mm
 
@@ -11659,12 +11523,9 @@ Loosen the striker screws.
 
 3The floating cage plate can be moved slightly using the ends of the striker screws. Move the floating cage plate to the desired position.
 
-## Общая информация
-
 
 ### GENEALI.FMAMO\*1-3 TROUBLE CODE AND DIAGNOSIS ..3A1-52
 
-`ssangyong_rexton_v2_ocr_general_t000_851359ed` | topic | dita | tier:3 | lang:ru
 
 Trouble diagnosis with scanner ....3A1-52
 
@@ -11699,7 +11560,6 @@ This position is for all normal forward driving in 1st to 5th gear. At 5th gear,
 
 ### Direction reversal and step-down ratio
 
-`ssangyong_rexton_v2_ocr_general_t001_a36bf366` | topic | dita | tier:3 | lang:ru
 
 In general, up to 4th gear is automatically shifted at the normal road driving position. In “D” position, while driving, pushing the lever in the left (-) direction once makes down shift to 4th gear, which is the same function as the O/D OFF (Over Drive OFF) of normal vehicle.
 
@@ -11752,7 +11612,6 @@ Y220_3A1036
 
 ### Function of reverse (R) lock
 
-`ssangyong_rexton_v2_ocr_general_t002_8ef44a24` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_43a33c0f2ac539c5cda9062efcd0a0f9bb576532d02b1c82792b5f74c1a82813.jpg)
 
@@ -11813,7 +11672,6 @@ Basic shift operation includes up-shift and down-shif for all gear groups. Shift
 
 ### Connector arrangement and pin functions
 
-`ssangyong_rexton_v2_ocr_general_t003_86c0cc49` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_cb81f542c7a394c1882dcbc34396c33b1b2dce61b953233a647f5846c6abdc0a.jpg)
 
@@ -11953,7 +11811,6 @@ The shift alve pressure converts the control valve pressure (p-RV to shift valve
 
 ### Hydraulic Circuit When Moving Selector Lever From "N" to "D" (Shift Phase)
 
-`ssangyong_rexton_v2_ocr_general_t004_1cbb47af` | topic | dita | tier:3 | lang:ru
 
 The hydraulic control range (including shift elements), which is responsible for the pressure distribution before, during and after a gear change, is designated a shit group.
 
@@ -12124,7 +11981,6 @@ Remove the sealing plate (3).
 
 ### Installation Notice
 
-`ssangyong_rexton_v2_ocr_general_t005_d0ad035e` | topic | dita | tier:3 | lang:ru
 
 Be careful not to lose 4 plastic balls and 8 steel balls in shift housing.
 
@@ -12186,7 +12042,6 @@ Be careful not to drop torque conver.
 
 ### Converter Housing Assembly
 
-`ssangyong_rexton_v2_ocr_general_t006_b5b7f558` | topic | dita | tier:3 | lang:ru
 
 Make sure to install the solenoid valves at correct locations. Check the O-rings, and replace if necessary.
 
@@ -12310,7 +12165,6 @@ After teardown faults . .3A2-48
 
 ### Solenoid valve symbols (ON/OFF solenoids)
 
-`ssangyong_rexton_v2_ocr_general_t007_670d588d` | topic | dita | tier:3 | lang:ru
 
 TCU diagnostic system overview .3A2-50   
 Clearing trouble codes.. 3A2-50   
@@ -12354,7 +12208,6 @@ The solenoid symbol shown adjacent to each solenoid on the hydraulic system sche
 
 ### Solenoid supply pressure regulator valve Band apply feed regulator valve
 
-`ssangyong_rexton_v2_ocr_general_t008_81ed68a1` | topic | dita | tier:3 | lang:ru
 
 POWER ON: Line 500 port is closed. The output port is open to exhaust at the solenoid valve.
 
@@ -12430,7 +12283,6 @@ Lock-up is achieved by applying hydraulic pressure to the damper and piston asse
 
 ### DRIVE 2 AND MANUAL 2
 
-`ssangyong_rexton_v2_ocr_general_t009_2e2f9993` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_ed177de01e70e0b26074c7ef2ac4d363f4d08c8b19688d2c4f8586eca61b7a7e.jpg)
 
@@ -12518,7 +12370,6 @@ Y220_3A2380
 
 ### Fluid Level Set After Service
 
-`ssangyong_rexton_v2_ocr_general_t010_5cb684f3` | topic | dita | tier:3 | lang:ru
 
 To maintain this arrangement in the steady state solenoids and valves are activated as follows:
 
@@ -12624,7 +12475,6 @@ The vehicle coding is integrated as part of the diagnostic software. A scan tool
 
 ### DIAGNOSTIC TROUBLE CODES (Cont'd)
 
-`ssangyong_rexton_v2_ocr_general_t011_c0da0b7c` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_65846541f42606acf6034745684d86e67c3b53061a3de1c11ae8326674970e48.jpg)
 
@@ -12682,7 +12532,6 @@ YAD5A010
 
 ### TCM Diagnostic System Check (Cont'd)
 
-`ssangyong_rexton_v2_ocr_general_t012_46654385` | topic | dita | tier:3 | lang:ru
 
 An intermittent fault may be caused by a poor connection, rubbed-through wire insulation or a wire broken inside the insulation. Check for poor connections or a damaged harness. Inspect the TCM harness and con-nections for improper mating, broken locks, improperly formed or damaged terminals, poor terminal-to-wire connection, and damaged harness.
 
@@ -12752,7 +12601,6 @@ Fault detection of some other signals will not possible.
 
 ### DTC P1712 Kickdown Switch Circult Malfunction
 
-`ssangyong_rexton_v2_ocr_general_t013_2a58047e` | topic | dita | tier:3 | lang:ru
 
 The number(s) below refer to the step number(s) on the Diagnostic Table.
 
@@ -12814,7 +12662,6 @@ The accelerator pedal signal is greater than 254 steps. The malfunction is trigg
 
 ### DTC P1714 EEPROM Vehicle Code Error
 
-`ssangyong_rexton_v2_ocr_general_t014_bde7df70` | topic | dita | tier:3 | lang:ru
 
 •DTC P1720 is not set. •The vehicle type is not recognized. The EEPROM Vehicle Identification Number (VIN) value does not lie within the range 0-13. The malfunction is triggered immediately after this condition exists.
 
@@ -12850,7 +12697,6 @@ The number(s) below refer to the step number(s) on the Diagnostic Table.
 
 ### DTC P1716 Throttle Not Learnt Error
 
-`ssangyong_rexton_v2_ocr_general_t015_a46b9158` | topic | dita | tier:3 | lang:ru
 
 •This fault indicates that the TCU has not learnt the throttle position correctly since installation in the vehicle or that the throttle setting have been cleared by a diagnostic tool.
 
@@ -12889,7 +12735,6 @@ Y220_3A2060
 
 ### DTC P1721 Throttle Signal Error
 
-`ssangyong_rexton_v2_ocr_general_t016_d90ca404` | topic | dita | tier:3 | lang:ru
 
 The number(s) below refer to the step number(s) on the Diagnostic Table.
 
@@ -12938,7 +12783,6 @@ Y220_3A2060
 
 ### DTC P1722 Vehicle Type Determination Error
 
-`ssangyong_rexton_v2_ocr_general_t017_3527dee9` | topic | dita | tier:3 | lang:ru
 
 The number(s) below refer to the step number(s) on the Diagnostic Table.
 
@@ -13002,7 +12846,6 @@ The solenoid 2 is always OFF.
 
 ### DTC P1735 Solenoid 3 Circuit Open
 
-`ssangyong_rexton_v2_ocr_general_t018_7e990876` | topic | dita | tier:3 | lang:ru
 
 •DTCs P1717 and P1718 are not set.   
 S3 is OFF.   
@@ -13096,7 +12939,6 @@ Y220_3A2070
 
 ### DTC P1743 Solenoid 3 Circuit Short
 
-`ssangyong_rexton_v2_ocr_general_t019_e46c204b` | topic | dita | tier:3 | lang:ru
 
 •DTCs P1717 and P1718 are not set.   
 S7 is OFF.   
@@ -13151,7 +12993,6 @@ Y220_3A2070
 
 ### DTC P1744 Solenoid 4 Circuit Short
 
-`ssangyong_rexton_v2_ocr_general_t020_fc2f5d45` | topic | dita | tier:3 | lang:ru
 
 The solenoid 4 is always OFF.   
 The 1 →21 →4 2 →3, 2 →4 3 →1 3 →2 (all including manual), 3 —4, 4 →1 and 4 —3 shift quality is degraded.
@@ -13252,7 +13093,6 @@ Y220_3A2570
 
 ### Do not use petroleum jelly on the gasket.
 
-`ssangyong_rexton_v2_ocr_general_t021_4eaa296a` | topic | dita | tier:3 | lang:ru
 
 0555-336258 Cross Shaft Pin Remover/Installer (Detent Lever)   
 0555-336261 Cross Shaft Seal Remover   
@@ -13343,7 +13183,6 @@ Do not use petroleum jelly to hold the gasket in position.
 
 ### Torque Converter and Housing Assembly
 
-`ssangyong_rexton_v2_ocr_general_t022_42b10582` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_83ef0f3fcf0ad3b264c477c35c575e955e4340338c3498c7b214ee0633130bd3.jpg)
 
@@ -13393,7 +13232,6 @@ Removal and installation .. 3B-30
 
 ### Cross Sectional Diagram of Major Components
 
-`ssangyong_rexton_v2_ocr_general_t023_eaa03618` | topic | dita | tier:3 | lang:ru
 
 Shim adjustment 3B-75
 
@@ -13459,7 +13297,6 @@ Y220_03B010
 
 ### Offset Lever and Rolling Plunger
 
-`ssangyong_rexton_v2_ocr_general_t024_7793c839` | topic | dita | tier:3 | lang:ru
 
 Interlock System
 
@@ -13565,7 +13402,6 @@ Sealant on oil drain screw during installation: Loctite DRI LOC 200 Tightening t
 
 ### Inspection Before Installation
 
-`ssangyong_rexton_v2_ocr_general_t025_5e759a20` | topic | dita | tier:3 | lang:ru
 
 If the oil level is up to the bottom line of plug hole, it is OK.
 
@@ -13747,7 +13583,6 @@ Hub and sleeve 1/2 shift fork, pads, synchronizer sleeve • 3/4 shift fork, pad
 
 ### Make sure that the gear is at neutral position. If not, the interlock bolt canno
 
-`ssangyong_rexton_v2_ocr_general_t026_aecca342` | topic | dita | tier:3 | lang:ru
 
 The 1st/2nd/3rd gear needle bearings have one bearing row and the sizes of them are same. The reverse needle bearing has two bearing rows. The 5th needle bearing is smaller than others and consists of two bearings.
 
@@ -13930,7 +13765,6 @@ Notice Place the gear in the neutral position.
 
 ### 3Unscrew the counter screw and remove the offset plate. Installation Notice
 
-`ssangyong_rexton_v2_ocr_general_t027_5a07da17` | topic | dita | tier:3 | lang:ru
 
 System Layout
 
@@ -14062,7 +13896,6 @@ Put the probe end of the gauge on the taper roller bearing outer race in counter
 
 ### •Grease: Long-life grease (T/M DBL 6611.00)
 
-`ssangyong_rexton_v2_ocr_general_t028_a49aaff7` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_fecc36462222230ddbde0ef3465ba18515917b493cc0fe439721a3e2501773d9.jpg)
 
@@ -14120,7 +13953,6 @@ Pedal Free Play (E).
 
 ### SPECIAL TOOLS AND EQUIPMENT ..336
 
-`ssangyong_rexton_v2_ocr_general_t029_127c38c4` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_444020ba158b77a991ba45b8db18cf62b31ce96042fc7ecf73c8b64f6abdcd47.jpg)
 
@@ -14168,7 +14000,6 @@ Shift conditions are as follows:
 
 ### How to Clear the Trouble Code
 
-`ssangyong_rexton_v2_ocr_general_t030_d27731eb` | topic | dita | tier:3 | lang:ru
 
 The motor stops when the encoder related troubles are detected during shift operation. It moves toward Low-HIGH lirection for 5 seconds so that the motor is not left in unidentified position.
 
@@ -14228,7 +14059,6 @@ Y220_03D019
 
 ### SPECIAL TOOLS AND EQUIPMENT ... 40
 
-`ssangyong_rexton_v2_ocr_general_t031_8a895dce` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_e78f78049a1631da8fb63f963c6611d71984af9e861e1a9bec7afe27c1b7853e.jpg)
 
@@ -14317,7 +14147,6 @@ When selecting 4H mode, 4L drive mode is released and 4H mode is resumed.
 
 ### Appearance and Function
 
-`ssangyong_rexton_v2_ocr_general_t032_15523f8d` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_aa193e7bd852f40febf131459477e1f5d1e82755a756c701553e5920288ad110.jpg)
 
@@ -14375,7 +14204,6 @@ Transmission must be in neutral position (In case of manual transmission, the cl
 
 ### Reading position encoder
 
-`ssangyong_rexton_v2_ocr_general_t033_beef09f0` | topic | dita | tier:3 | lang:ru
 
 The position encoder is the code that TCCU can determine the shift motor position.
 
@@ -14458,7 +14286,6 @@ Pull the shift motor assembly out while keeping the level.
 
 ### Axle Shaft (Drive Shaft)
 
-`ssangyong_rexton_v2_ocr_general_t034_7b966699` | topic | dita | tier:3 | lang:ru
 
 To do that, install a new shift motor on the same location that the used shift motor was on.
 
@@ -14569,7 +14396,6 @@ Remove the axle housing assembly while lowering the jack very carefully.
 
 ### Inspection of Ring Gear Tooth Contact Pattern
 
-`ssangyong_rexton_v2_ocr_general_t035_6bba932b` | topic | dita | tier:3 | lang:ru
 
 Front Axle Housing
 
@@ -14736,7 +14562,6 @@ Install the joint assembly.
 
 ### DISASSEMBLY AND REASSEMBLY ... .18
 
-`ssangyong_rexton_v2_ocr_general_t036_d4429d48` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_6710238f7a688ad6123cd79474c1d3c6a6998599b11724aa84caa1e0b1942fb2.jpg)
 
@@ -14889,7 +14714,6 @@ Remove the axle housing cover.
 
 ### Inspection of Ring Gear Tooth Contact Pattern
 
-`ssangyong_rexton_v2_ocr_general_t037_46e8dff2` | topic | dita | tier:3 | lang:ru
 
 1. Normal Contact
 
@@ -15035,7 +14859,6 @@ Install the rear propeller shaft with the aligning the marks and tighten the int
 
 ### MAINTENCEAND REPLACEMENT .5A-11
 
-`ssangyong_rexton_v2_ocr_general_t038_3984173f` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_12e07a11e9e5aaeaa8c2bd2a25d38472829636c1110d4eb91b38d6dbe98601fd.jpg)
 
@@ -15156,7 +14979,6 @@ Installation . 5A-13
 
 ### Column and Shaft Assembly
 
-`ssangyong_rexton_v2_ocr_general_t039_299d7948` | topic | dita | tier:3 | lang:ru
 
 Do not use silicone, synthetic detergent and gasoline, etc.
 
@@ -15235,7 +15057,6 @@ This minimizes the torque changes due to angular speed changes.
 
 ### INPUT/OUTPUT OF ECPS CONTROL UNIT
 
-`ssangyong_rexton_v2_ocr_general_t040_c9c565f3` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_12c800823b75f5809b6f13941ba23f39a9c32717abfee75fdcc3505f19507cb0.jpg)
 
@@ -15290,7 +15111,6 @@ Removal and installation of ECPS control unit.... 6B-14
 
 ### PCV (Pressure Control Valve)
 
-`ssangyong_rexton_v2_ocr_general_t041_8458ea4f` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_f1e00897f6889fa5696d11551dfc69aff1e492139b5021c110d6ef0b83f859da.jpg)
 
@@ -15331,7 +15151,6 @@ Inspection .... .6C-19
 
 ### Tighten the center bolts and nuts first, then tighten the left bolts and nuts.
 
-`ssangyong_rexton_v2_ocr_general_t042_cd8bcbd2` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_696116286c61537ae7cb66cdda78ee9f0b8d4f76454aaee03bf9c672c169140c.jpg)
 
@@ -15457,7 +15276,6 @@ Measure the oil pressure with the gauge valve full closed.
 
 ### Installation Notice
 
-`ssangyong_rexton_v2_ocr_general_t043_5da41b06` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_d8ec4ebb4a673c0281680690327408d499cd9de161c6fd592013f1943c9cac55.jpg)
 
@@ -15523,7 +15341,6 @@ Reassemble in the reverse order of disassembly.
 
 ### SPECIAL TOOLS AND EQUIPMENT
 
-`ssangyong_rexton_v2_ocr_general_t044_7405200a` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_f8defd7e5a02d4dfb9b86b85dcced85896471768a5afc1694e4656066966cf51.jpg)
 
@@ -15563,7 +15380,6 @@ Insert the used pad between compressor and piston when compressing the piston.
 
 ### SPECIAL TOOLS AND EQUIPMENT ... 8E1-2
 
-`ssangyong_rexton_v2_ocr_general_t045_75d50e96` | topic | dita | tier:3 | lang:ru
 
 If any of pads is below the wear limit, replace both pads at a time.
 
@@ -15617,7 +15433,6 @@ When fasteners are removed, always reinstall them at the same location from whic
 
 ### HECU (HYDRAULIC AND ELECTRONIC CONTROL UNIT)
 
-`ssangyong_rexton_v2_ocr_general_t046_5f0a63bb` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_24fbd7450662e7ab4a65719928c5d4a5d81524f32f3f633441dbfc97d60d9086.jpg)
 
@@ -15681,7 +15496,6 @@ Select one of the above items
 
 ### Connector Arrangement
 
-`ssangyong_rexton_v2_ocr_general_t047_9eb53a3f` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_a82d62960942df821df347ef7b83dbd6eaaa5d42cc72a5759e00541487b33812.jpg)
 
@@ -15731,7 +15545,6 @@ Y220_09A023
 
 ### IGNITION KEY AND REMOTE CONTROL KEY.. 9B-3
 
-`ssangyong_rexton_v2_ocr_general_t048_288b2874` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_2cbe6b799caae5d054a21c7cf873fd276f9edb7af6f2ee72cd665c96775ec991.jpg)
 
@@ -15780,7 +15593,6 @@ When replacing the engine control unit, replace all transponders at the same tim
 
 ### Speed Sensitive INT (intermittent) Wiper
 
-`ssangyong_rexton_v2_ocr_general_t049_c3cbe1d8` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_0eb546d734d96f59b836b3d6695cd654050573d10f92839356b691a0f1511c10.jpg)
 
@@ -15888,7 +15700,6 @@ It drives the coil antenna, converts the received signals from the coil antenna 
 
 ### CIRCUIT DIAGRAM AND CONNECTER PIN ARRANGEMENT
 
-`ssangyong_rexton_v2_ocr_general_t050_cc443da7` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_5df3f027d29324373a78ad857e963a6024270137f54321aba8bb2f48998c9909.jpg)
 
@@ -15943,7 +15754,6 @@ If pressing and holding the reset button for over 3 seconds in TRIP A or TRIP B 
 
 ### Low Fuel Level Warning Light
 
-`ssangyong_rexton_v2_ocr_general_t051_50131313` | topic | dita | tier:3 | lang:ru
 
 This gauge indicates the level of fuel remaining in the fuel tank. This gauge operates only when the ignition switch is in "ON” position.
 
@@ -15991,7 +15801,6 @@ If this light comes on, have the SSPS system checked by Ssangyong Dealer or Ssan
 
 ### Release Conditions for Turning Calibration
 
-`ssangyong_rexton_v2_ocr_general_t052_52cf287c` | topic | dita | tier:3 | lang:ru
 
 Drain the water from fuel filter immediately after the warning light comes on. f you cannot do that by yourself, visit nearest Ssangyong Dealer or Ssangyong Authorized Service Operation.   
 • For the draining procedures, please refer to "How to drain the water from fuel filter” on next page. After draining the water, press the priming pump until it becomes rigid.   
@@ -16065,7 +15874,6 @@ lines of the electric railways, etc.)
 
 ### How to Erase the Calibrated Altitude Value
 
-`ssangyong_rexton_v2_ocr_general_t053_598d67fd` | topic | dita | tier:3 | lang:ru
 
 The flashing interval of the road signs changes gradually according to the vehicle speed.
 
@@ -16109,7 +15917,6 @@ So, sometimes, the indicated altitude may different due to changing atmospheric 
 
 ### Circuit diagram and connector pin arrangement
 
-`ssangyong_rexton_v2_ocr_general_t054_61d11746` | topic | dita | tier:3 | lang:ru
 
 If the vehicle stops, the currently turned off area of the signs will remain as it is.   
 If the vehicle drives off again, the next area from the turned off signs will start to flash.
@@ -16170,7 +15977,6 @@ he ESP function is resumed when pressing the ESP switch again while ESP system i
 
 ### Circuit diagram and connector pin arrangement
 
-`ssangyong_rexton_v2_ocr_general_t055_bd15098a` | topic | dita | tier:3 | lang:ru
 
 1. Separate the switches with a special tool.
 
@@ -16235,7 +16041,6 @@ Y220_09D174
 
 ### 8Response characteristics when shifting from AUTO HI to OFF
 
-`ssangyong_rexton_v2_ocr_general_t056_66caceb6` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_8542e25adc94eb2da61fe7fc98e6924db5ce1ef664f218c22afd55ea8fd6e2bf.jpg)
 
@@ -16269,7 +16074,6 @@ Check wiper low speed relay and wiper high speed relay for normal operation. Whe
 
 ### Limit switch ON mode operation
 
-`ssangyong_rexton_v2_ocr_general_t057_d0d1259a` | topic | dita | tier:3 | lang:ru
 
 1Wiper switch is turned on, relay 1 on CONT turns on to rotate the motor clockwise.
 
@@ -16327,7 +16131,6 @@ It means when motor is in park position, “W”, “C” and “P" points are i
 
 ### Passenger's/Rear Window Switch
 
-`ssangyong_rexton_v2_ocr_general_t058_5aa2980e` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_f2cd0bffa75541f82cdb940c9bdf61a49d298c21a0b02d3e2796852ed13eb9cc.jpg)
 
@@ -16397,7 +16200,6 @@ Detach the tailgate trim.
 
 ### Repairing the Tailgate defogger Grid Line
 
-`ssangyong_rexton_v2_ocr_general_t059_81bf87d3` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_eddc0e7f54e8b53232c8428197359ae7063fcf0166c2ba5f24fdabb1e3c34014.jpg)
 
@@ -16459,7 +16261,6 @@ Y220_10A002
 
 ### Sectional Drawing according to the Temperatures
 
-`ssangyong_rexton_v2_ocr_general_t060_d9b6b99e` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_d26234adc2cab419f39c7922384c596cdd38f5e8367967398c90e27c213d752a.jpg)
 
@@ -16554,7 +16355,6 @@ Disconnect the 10-pin connector and measure the voltage present in connector 1 b
 
 ### Cancel the Controller Lock
 
-`ssangyong_rexton_v2_ocr_general_t061_c84a78dd` | topic | dita | tier:3 | lang:ru
 
 The controlle is locked when the fllowing faults occur:
 
@@ -16604,7 +16404,6 @@ Canceling the controller lock depends on the corresponding testing equipment and
 
 ### Fuel Pump - Removal and Installation
 
-`ssangyong_rexton_v2_ocr_general_t062_609d4a49` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_1316f6ab4277aae2a96fc649e075faf8a4a7e0a807d7141d664ad1ff213078c8.jpg)
 
@@ -16684,7 +16483,6 @@ Circuit diagram . 10B-16
 
 ### Air Source Selection Switch (AMB Switch)
 
-`ssangyong_rexton_v2_ocr_general_t063_58857018` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_0966b1d83f244033db3bdeef18d4034f2f7a2bae6070f38b253b497906549fbb.jpg)
 
@@ -16783,7 +16581,6 @@ Y220_10B012
 
 ### Rear Air Conditioner Switch
 
-`ssangyong_rexton_v2_ocr_general_t064_42727760` | topic | dita | tier:3 | lang:ru
 
 The fan speed can be adjusted in 6 stages.
 
@@ -16832,7 +16629,6 @@ Y220_10B019
 
 ### INSUFFICIENT HEATING OR DEFROSTING (Cont'd)
 
-`ssangyong_rexton_v2_ocr_general_t065_ec8960ae` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_5396cadec20b2a8e856288831b23506006aeb7bd05181fb05ba0c6e505d31b68.jpg)
 
@@ -16882,7 +16678,6 @@ Y220_10B022
 
 ### Precautions for Working with R-134a
 
-`ssangyong_rexton_v2_ocr_general_t066_680f35b7` | topic | dita | tier:3 | lang:ru
 
 1. Remove the rear quarter inner panel.   
 2Remove the tapping screws and screws from the duct.   
@@ -16981,7 +16776,6 @@ REMOVAL AND INSTALLATION ... 10C-67
 
 ### The following handling precautions must be observed:
 
-`ssangyong_rexton_v2_ocr_general_t067_99540529` | topic | dita | tier:3 | lang:ru
 
 1.When removing refrigerant components from a vehicle, immediately cap (seal) the component to minimize the entry of moisture from the atmosphere.
 
@@ -17039,7 +16833,6 @@ The low-pressure side indicates excessive high
 
 ### Check for Refrigerant Leaks
 
-`ssangyong_rexton_v2_ocr_general_t068_5e938c84` | topic | dita | tier:3 | lang:ru
 
 1.Connect the center hose of the gauge to the refrigerant tank.   
 Open the high pressure valve of the gauge to charge with refrigerant gas.   
@@ -17123,7 +16916,6 @@ Replace the O-rings in the high and low pressure pipes with new ones.
 
 ### High and Low Pressure Lines Removal and Installation
 
-`ssangyong_rexton_v2_ocr_general_t069_9872ebe4` | topic | dita | tier:3 | lang:ru
 
 Never reuse the sealing washer once removed.
 
@@ -17174,7 +16966,6 @@ Raise the temperature of the air entering the vehicle by sliding to the right or
 
 ### INSUFFICIENT COOLING DIAGNOSIS (Cont'd)
 
-`ssangyong_rexton_v2_ocr_general_t070_d5d9a3ae` | topic | dita | tier:3 | lang:ru
 
 •Actuates by cable. •Regulates the air distribution between the windshield, the instrument panel and the floor vents.
 
@@ -17229,7 +17020,6 @@ Y220_10C063
 
 ### Condition for clearing the faulty code
 
-`ssangyong_rexton_v2_ocr_general_t071_7009a623` | topic | dita | tier:3 | lang:ru
 
 It allows MICOM to control the temperature and perform the control automatically of the heating operation, the cooling operation and the Mild operation. Also, MICOM enable to control the amount of the airflow and the direction of the vent outlet in order to keep the inside air fresh.
 
@@ -17269,7 +17059,6 @@ For the initial instalation (the initial current draw), the initial mode follows
 
 ### Control by the vehicle speed
 
-`ssangyong_rexton_v2_ocr_general_t072_cca73653` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_35a557e1e06cabbb9e341d008ff86221e167c151cc4c39efb415b8e91b62d478.jpg)
 
@@ -17309,7 +17098,6 @@ Power transistor controls the blower airflow and it receives the airflow control
 
 ### Full Automatic Temperature Control (FATC) Does Not Operate When The Ignition Is 
 
-`ssangyong_rexton_v2_ocr_general_t073_97119664` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_3250fabf337bca3789c36e9767c3582a35b86580873f0b60042652d22219b728.jpg)
 
@@ -17347,7 +17135,6 @@ Power transistor controls the blower airflow and it receives the airflow control
 
 ### High Speed Relay in Blower Motor
 
-`ssangyong_rexton_v2_ocr_general_t074_e713641b` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_d54b38d65d4b19829d32ee3d498f6ef9e289569b3c310e1968c228f550f622f0.jpg)
 
@@ -17419,7 +17206,6 @@ Remove the power transistor bolts.
 
 ### Squeak and Rattle Repair
 
-`ssangyong_rexton_v2_ocr_general_t075_793c6fc2` | topic | dita | tier:3 | lang:ru
 
 1. Set up the waterleak test stands.
 
@@ -17510,7 +17296,6 @@ Continue testing in order to determine if the noise has been eliminated or if ot
 
 ### SPECIAL TOOLS AND EQUIPMENT
 
-`ssangyong_rexton_v2_ocr_general_t076_46d739c8` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_98f7d94b66b674ab0ab643f37939e641fe38922e03645947f0f4bfc4626ff021.jpg)
 
@@ -17582,7 +17367,6 @@ Y220_11A034
 
 ### Memory operation
 
-`ssangyong_rexton_v2_ocr_general_t077_404061eb` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_e87d05167b7347c040e89fbacd0739a11edf6c2f63cb3f0f31460b18caba725e.jpg)
 
@@ -17643,7 +17427,6 @@ Remove the hand grip.
 
 ### Removal and Installation
 
-`ssangyong_rexton_v2_ocr_general_t078_156a2661` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_123803854d9be5179431a3895577111f15134d22c62ef7b967166a70676b37b1.jpg)
 
@@ -17782,7 +17565,6 @@ Check the mounting rubber and grill for damage.
 
 ### Fitting Gap Adjustment
 
-`ssangyong_rexton_v2_ocr_general_t079_6d4141fd` | topic | dita | tier:3 | lang:ru
 
 Make sure to avoid irregularities and gaps when installing the moldings.
 
@@ -17861,7 +17643,6 @@ It is important to use a flat-end rotary file in order not to damage the tapped 
 
 ### The air bag does not inflate when:
 
-`ssangyong_rexton_v2_ocr_general_t080_ae9b25fe` | topic | dita | tier:3 | lang:ru
 
 1Thoroughly clean the adhesive primer applying area on windshield.
 
@@ -17912,7 +17693,6 @@ Frontal impact against a solid concrete wallat over 25 km/h or near-frontal impa
 
 ### Diagnosis by using scan tool
 
-`ssangyong_rexton_v2_ocr_general_t081_34665c12` | topic | dita | tier:3 | lang:ru
 
 Turn the contact coil clockwise until it stops and turn it counterclockwise approx. 2.9 ± 0.2 turns to align the “ "marks.
 
@@ -17957,12 +17737,9 @@ FACSIMILE :82-31-610-3762
 
 NOTE: All rights reserved. Printed in SSANGYONG Motor Co., Ltd. No part of this book may be used or reproduced without the written permission of International A/S Team.
 
-## drivetrain
-
 
 ### Reverse 1st Gear (3.160, "s" Mode)
 
-`ssangyong_rexton_v2_ocr_drivetrain_t000_251abd35` | topic | dita | tier:3 | lang:ru
 
 REMOVAL AND INSTALLATION (DC 5-SPEED A/T) ..3A1-76 Components locationor. .3A1-76
 
@@ -18137,7 +17914,6 @@ Y220_3A1012
 
 ### TCU (Transmission Control Unit)
 
-`ssangyong_rexton_v2_ocr_drivetrain_t001_19605322` | topic | dita | tier:3 | lang:ru
 
 Function (4WD)
 
@@ -18211,7 +17987,6 @@ CAN input signal CAN output signal Accelerator pedal position Selected gear Whee
 
 ### Characteristics of TCU and Automatic Transmission (Emergency Driving Mode)
 
-`ssangyong_rexton_v2_ocr_drivetrain_t002_e0cf2042` | topic | dita | tier:3 | lang:ru
 
 The emergency driving mode is to minimize vehicle's operation when is a mode for maintaining minimum driving condition when the automatic transmission is defective. In emergency driving mode, excessively long driving and unreasonable driving should be avoided to prevent bigger fault occuring in advance. Emergency driving mode can largely be divided in electrical defective and hydraulic pressure/mechanical defective.
 
@@ -18319,7 +18094,6 @@ Disconnect selector lever.
 
 ### Converter Housing and Transmission Housing
 
-`ssangyong_rexton_v2_ocr_drivetrain_t003_9fdca7d2` | topic | dita | tier:3 | lang:ru
 
 Preceding work: Install the transmission on work bench.
 
@@ -18465,7 +18239,6 @@ Measure the clearance between the bal bearing and the parking lock gear.
 
 ### Select a proper thickness of shim: 0.2, 0.3, 0.4, 0.5 mm
 
-`ssangyong_rexton_v2_ocr_drivetrain_t004_028a4357` | topic | dita | tier:3 | lang:ru
 
 2. Install a shim.
 
@@ -18571,7 +18344,6 @@ The converter clutch regulator valve regulates the pressure of the oil which app
 
 ### Converter clutch control valve
 
-`ssangyong_rexton_v2_ocr_drivetrain_t005_4a4919b5` | topic | dita | tier:3 | lang:ru
 
 The converter clutch control valve is a two position valve which applies or releases the converter clutch.
 
@@ -18659,7 +18431,6 @@ The forward sun gear drives the short pinion anticlockwise.
 
 ### Power flow - Drive 3 lock up and manual 3 lock up
 
-`ssangyong_rexton_v2_ocr_drivetrain_t006_4322e999` | topic | dita | tier:3 | lang:ru
 
 In Drive 2 and Manual 2, transmission drive is via the input shaft and forward clutch cylinder. The elements of the transmission function as follows;
 
@@ -18741,7 +18512,6 @@ Begin with the Functional Check Procedure which provides a general outline of ho
 
 ### TRANSMISSION FLUID LEVEL SERVICE PROCEDURE
 
-`ssangyong_rexton_v2_ocr_drivetrain_t007_8660697b` | topic | dita | tier:3 | lang:ru
 
 This procedure is to be used when checking a concern with the fluid level in a vehicle. A low fluid level will result in slipping and loss of drive/ reverse or delay on engagement of drive/ reverse when the vehicle is cold.
 
@@ -18787,7 +18557,6 @@ The TR sensor signal has discrete values indicating the positions selected by th
 
 ### DTC Po710 Transmission Fluid Temperature Sensor Circuit Malfunction (Cont'd)
 
-`ssangyong_rexton_v2_ocr_drivetrain_t008_6ae007fa` | topic | dita | tier:3 | lang:ru
 
 The number(s) below refer to the step number(s) on the Diagnostic Table.
 
@@ -18846,7 +18615,6 @@ Y220_3A2040
 
 ### Conditions for Clearing the DTC
 
-`ssangyong_rexton_v2_ocr_drivetrain_t009_47a80e20` | topic | dita | tier:3 | lang:ru
 
 •The DTC will clear when the malfunction has not occurred for 30 seconds and a non-zero speed is detected. • A history DTC will clear after 40 TCM power-up cycles with a warm transmission (>50°C) and without a fault. •History DTCs can be cleared by using a scan tool.
 
@@ -18882,7 +18650,6 @@ The DTC 1710 sets when an intermittent connection in the air conditioning switch
 
 ### Conditions for Clearing the DTC
 
-`ssangyong_rexton_v2_ocr_drivetrain_t010_11ebbc0d` | topic | dita | tier:3 | lang:ru
 
 •This DTC can only be cleared by recalibrating the VPS and then cycling power to the TCM. This is a factory procedure. •A history DTC will clear after 40 TCM power-up cycles with a warm transmission (> 50°C) and without a fault. •History DTCs can be cleared by using a scan tool.
 
@@ -18919,7 +18686,6 @@ The number(s) below refer to the step number(s) on the Diagnostic Table.
 
 ### Conditions for Clearing the DTC
 
-`ssangyong_rexton_v2_ocr_drivetrain_t011_531a137f` | topic | dita | tier:3 | lang:ru
 
 3. Checks if the S1 circuit in the transmission is malfunctioning.   
 4. Check cable in the transmission for open / short.   
@@ -18996,7 +18762,6 @@ The DTC P1736 sets when the Solenoid 4 (S4) circuit is open or the switched leg 
 
 ### Conditions for Clearing the DTC
 
-`ssangyong_rexton_v2_ocr_drivetrain_t012_aea7dfc7` | topic | dita | tier:3 | lang:ru
 
 • During the TCM's testing, solenoid 4 is turned OFF/ ON by a very small (4 millisecond) pulses. This pulse is too short for the solenoid to react so the transmission operation is not affected.   
 The solenoid feedback voltage is measured before the (4 millisecond) pulse and again during the pulse. If the difference is outside the acceptable limits the relevant fault is recorded.
@@ -19061,7 +18826,6 @@ The number(s) below refer to the step number(s) on the Diagnostic Table.
 
 ### Conditions for Clearing the DTC
 
-`ssangyong_rexton_v2_ocr_drivetrain_t013_f40a718b` | topic | dita | tier:3 | lang:ru
 
 •The DTC will clear when the malfunction has not occurred after ignition cycle. •A history DTC will clear after 40 TCM power-up cycles with a warm transmission (> 50°C) and without a fault. • History DTCs can be cleared by using a scan tool.
 
@@ -19155,7 +18919,6 @@ The number(s) below refer to the step number(s) on the Diagnostic Table.
 
 ### Conditions for Clearing the DTC
 
-`ssangyong_rexton_v2_ocr_drivetrain_t014_4f39cc8f` | topic | dita | tier:3 | lang:ru
 
 • The DTC will clear when the malfunction has not occurred after ignition cycle. •A history DTC will clear after 40 TCM power-up cycles with a warm transmission (>50°C) and without a fault. • History DTCs can be cleared by using a scan tool.
 
@@ -19218,7 +18981,6 @@ The DTC P1747 sets when the solenoid 7, Torque Converter Clutch Solenoid, circui
 
 ### Planet Carrier Assembly and Centre Support
 
-`ssangyong_rexton_v2_ocr_drivetrain_t015_e12ebb1d` | topic | dita | tier:3 | lang:ru
 
 The number(s) below refer to the step number(s) on the Diagnostic Table.
 
@@ -19340,7 +19102,6 @@ Remove the five washer head bolts from the cover plate using a multi-point 8 mm 
 
 ### The clutch pack clearance must be taken before the elements are soaked in ATF.
 
-`ssangyong_rexton_v2_ocr_drivetrain_t016_6c216737` | topic | dita | tier:3 | lang:ru
 
 1.Check that the output shaft bush is not worn or damaged. Replace if necessary.   
 Check for damage to parking pawl teeth on the ring gear. Replace if necessary.   
@@ -19443,7 +19204,6 @@ With the clutch pack supporting a 2 kg weight, the dimension from the input shaf
 
 ### Output Flange Assembly (2WD Mode)
 
-`ssangyong_rexton_v2_ocr_drivetrain_t017_478f9d0c` | topic | dita | tier:3 | lang:ru
 
 The clutch pack clearance must be taken before elements are soaked in automatic transmission fluid.
 
@@ -19664,7 +19424,6 @@ TSM54/52 transmission uses the inertia lock type key to make smooth gear engagem
 
 ### Synchronizer element
 
-`ssangyong_rexton_v2_ocr_drivetrain_t018_1a0049e7` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_05462b08427eac5cb42de8545cd5ee5185d06050e0d83bd6677e308dbcb3914e.jpg)  
 DI Engine equipped vehicle - 4WD
@@ -19896,7 +19655,6 @@ Remove the extension housing with a special tool.
 
 ### Be careful not to drop the pressure plate and clutch disc.
 
-`ssangyong_rexton_v2_ocr_drivetrain_t019_6b310d4f` | topic | dita | tier:3 | lang:ru
 
 Store the needle bearing with the relevant gear.
 
@@ -19994,7 +19752,6 @@ Keep the specified tightening torque.
 
 ### REMOVAL AND INSTALLATION OF TRANSFER CASE 3D-26
 
-`ssangyong_rexton_v2_ocr_drivetrain_t020_8051155c` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_0eeb4133dc9c5f5cc1048a016489b214cc7505ce535d1b52707a17a4f840ba3d.jpg)
 
@@ -20062,7 +19819,6 @@ Rear view of connector
 
 ### 3. Cautions for oil level check and plugs tightening
 
-`ssangyong_rexton_v2_ocr_drivetrain_t021_a9ca641c` | topic | dita | tier:3 | lang:ru
 
 •TCCU sends relevant data to meter cluster via CAN to diagnose and check the indicators when the ignition switch is turned to ON. At this time, the 4WD indicators (4WD LOW and 4WD HIGH) comes on for 0.6 seconds.
 
@@ -20141,7 +19897,6 @@ Y220_03D017
 
 ### Apply long-term grease to inner spline of the transfer case input shaft.
 
-`ssangyong_rexton_v2_ocr_drivetrain_t022_11fa8084` | topic | dita | tier:3 | lang:ru
 
 When the ignition switch turns on, 4H, 4L and 4WD CHECK indicators come on for 0.6 seconds and the go off.
 
@@ -20217,7 +19972,6 @@ TOD control unit receives the wheel speed signals from the speed sensors in prop
 
 ### Speed Sensor and Clutch Coil
 
-`ssangyong_rexton_v2_ocr_drivetrain_t023_0e62fb87` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_10b0d75a1f7cbefd2876552edc14c83398490e95155488a7113716f64b6d60e5.jpg)
 
@@ -20308,7 +20062,6 @@ Y220_03E015
 
 ### Removal and Installation
 
-`ssangyong_rexton_v2_ocr_drivetrain_t024_b0477964` | topic | dita | tier:3 | lang:ru
 
 Oil drain should be along with whole transfer case disassembly and assembly.
 
@@ -20397,7 +20150,6 @@ Disassemble the differential carrier assembly.
 
 ### Winter Mode Indicator (for Automatic Transmission)
 
-`ssangyong_rexton_v2_ocr_drivetrain_t025_c88e03aa` | topic | dita | tier:3 | lang:ru
 
 The propeller shaft transfers the power through the transmission and transfer case to the front/rear axle differential carrier (final reduction gear). It is manufactured by a thin rounded steel pipe to have the strong resisting force against the torsion and bending.
 
@@ -20506,7 +20258,6 @@ The indicator comes on without blinking when shifting from 2WD to 4WD HIGH.
 
 ### Abnormal Refrigerant Pressure
 
-`ssangyong_rexton_v2_ocr_drivetrain_t026_168abb67` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_21a2ccba67a0927e1a2213198dfabe6058dac44ba8b30d692d561865c75e107a.jpg)
 
@@ -20565,12 +20316,9 @@ Remove the clutch coil.
 Compressor Magnetic Clutch Does not Engage   
 ![](images/_MISSING_42c5f07a1790aa4398cef2202cfcd91516a9143f78a262b3d9019dcf241af2fe.jpg)
 
-## sensors
-
 
 ### Solenoid, Oil Temperature Sensor, RPM Sensor (N2, N3)
 
-`ssangyong_rexton_v2_ocr_sensors_t000_41d33d9a` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_43e37d8a8cbff2b6a77929e04b04f44c41f888b331cf67fff0c62d14936adb8e.jpg)
 
@@ -20615,7 +20363,6 @@ The number(s) below refer to the step number(s) on the Diagnostic Table.
 
 ### Interpretation of Position Sensor
 
-`ssangyong_rexton_v2_ocr_sensors_t001_60c2ecd5` | topic | dita | tier:3 | lang:ru
 
 Do not apply excessive force to protect mounting area and sensor.
 
@@ -20702,7 +20449,6 @@ Remove the shift motor first before removing the front propeller shaft speed sen
 
 ### ECU (Including Solenoid Valves – ESP Equipped Model)
 
-`ssangyong_rexton_v2_ocr_sensors_t002_73101a10` | topic | dita | tier:3 | lang:ru
 
 •Elimination of conventional proportioning valve EBD utilizes the existing rear axle wheel speed sensor to monitor rear wheel slip.   
 •Based on many variables in algorithm a pressure hold, increase and/or decrease pulsetrain may be triggered at the rear wheels insuring vehicle stability.   
@@ -20769,7 +20515,6 @@ Y220_8E2052
 
 ### Checking the temperature sensor resistance
 
-`ssangyong_rexton_v2_ocr_sensors_t003_ff8c15fa` | topic | dita | tier:3 | lang:ru
 
 Measure the resistance between the terminal and the ground with an ohmmeter and replace if the resistance is out of specified range.
 
@@ -20803,7 +20548,6 @@ If rains and wiper operation changes from AUTO LO to AUTO HI, rain sensor's high
 
 ### Control and overheating Sensor
 
-`ssangyong_rexton_v2_ocr_sensors_t004_a7a54eda` | topic | dita | tier:3 | lang:ru
 
 Checking sensitivity selection (checking variable resistance knob position)
 
@@ -20865,7 +20609,6 @@ Check the surface sensor with a digital multimeter. If the resistance of flame s
 
 ### Ambient Air Temperature Sensor Error
 
-`ssangyong_rexton_v2_ocr_sensors_t005_1e7c86a4` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_7f17aad6dbbbb3e503eb7e00b673f027add20de2072a940cab2a54b7678fef8b.jpg)
 
@@ -20899,7 +20642,6 @@ Sun sensor is a photo diode that detects lights. Resistance of the diode can be 
 
 ### The air bag seldom inflates when:
 
-`ssangyong_rexton_v2_ocr_sensors_t006_17a92e5d` | topic | dita | tier:3 | lang:ru
 
 1.Disconnect the connect and remove the sun sensor from the instrument panel. Install in the reverse order of removal.
 
@@ -20966,12 +20708,9 @@ The safety sensor is safety device made up of a dualcontact, electro-mechanical 
 
 1. Acts independently of the electronic components. Connects the acceleration sensor in series in order to make up for the weak points in the current electronic sensor.
 
-## infotainment
-
 
 ### Reverse/Parking (R/P) Lock System
 
-`ssangyong_rexton_v2_ocr_infotainment_t000_5657de67` | topic | dita | tier:3 | lang:ru
 
 ![](images/_MISSING_03468e49047959060497a455bf4b7544618924ab948877eedd644a40f2b88f98.jpg)
 
@@ -21112,7 +20851,6 @@ CD shuttle (6-CD changer)
 
 ### THE V5 FULLAUTOMATIC TEMPERATURE CONTROL (FATC) SYSTEM
 
-`ssangyong_rexton_v2_ocr_infotainment_t001_6254cf3b` | topic | dita | tier:3 | lang:ru
 
 After connecting the diagnosis instrument, the function or error is shown numerically in the display. For connection and handling of the diagnosis instrument, refer to next section. An adapter cable is necessary to connect up the diagnosis instrument.
 
@@ -21182,7 +20920,6 @@ Also, it provides the convenience to the driver by indicating the ambient ai tem
 
 ### Action taken when the faulty occurred
 
-`ssangyong_rexton_v2_ocr_infotainment_t002_66ea93f8` | topic | dita | tier:3 | lang:ru
 
 Display Performance Enhancement
 
@@ -21260,7 +20997,6 @@ Turn the ignition ON.
 
 ### Fault Indication
 
-`ssangyong_rexton_v2_ocr_infotainment_t003_a3101e8b` | topic | dita | tier:3 | lang:ru
 
 When the vent inlet mode displayed in the AUTO temperature control is different from the actual mode, check the followings;
 

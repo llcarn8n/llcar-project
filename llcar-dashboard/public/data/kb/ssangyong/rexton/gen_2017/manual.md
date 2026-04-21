@@ -1,10 +1,15 @@
+---
+brand: ssangyong
+model: rexton
+generation: gen_2017
+source: kb
+---
+
 # ENGINE SERVICE MANUAL
 
 ![](images/676f644fa2aa7be89aa761fbcf786af5065c8290e5b354532ff7bbec44b2d67a.webp)
 
 # DI ENGINE
-
-# CONTENTS
 
 GENEL O.DI0   
 ENGINE ASSEMBLY .. I1   
@@ -19,10 +24,6 @@ ELECTRIC DEVICES AND SENSORS. DI09
 DIAGNIS .. 10
 
 # GENERAL INFORMATION
-
-# GENERAL INFORMATION
-
-# Table of Contents
 
 CLEANNESS DIOA-3   
 STRUCTURE DIOA-8   
@@ -55,8 +56,6 @@ Tightening torque of standard
 bolts.. DI0A-37
 
 ![](images/39dad067d4084dee3b607803276284a00aa86a3ed6a3b247ca05dfe7bfb9cb65.webp)
-
-# CLEANNESS
 
 # Cleanness of DI Engine Fuel System and Service Procedures
 
@@ -337,8 +336,6 @@ ECU receives signals from sensors via dataline and then performs effective engin
 
 # GENERAL SPECIFICATIONS
 
-# VEHICLE SPECIFICATIONS
-
 Vehicle Dimension
 
 ![](images/822574b4efff72fc7c9f3d76d5970958c4bdce8c8c0e302f497ab818dbb94a32.webp)
@@ -359,8 +356,6 @@ Y220_0A017
 
 ![](images/4f707c0b1236c729f57aba26fb97a6fe750f7fce37bc1bc18c78f003400eb208.webp)
 
-# MAINTENANCE
-
 # Major Components and Service Interval
 
 \* Use only Ssangyong Genuine Parts.   
@@ -376,8 +371,6 @@ Y220_0A017
 IDI: Indirect Injection DI: Direct Injection
 
 ![](images/281c0e420fa46bb1e89bf08270df904ce2a8f656df965ca30de95d211558c21a.webp)
-
-# VEHICLE IDENTIFICATION
 
 # 1. Vehicle identification Number
 
@@ -436,8 +429,6 @@ Y220_0A022
 
 # HOW TO USE AND MAINTAIN WORKSHOP MANUAL
 
-# CONSISTS OF WORKSHOP MANUAL
-
 1. Group: The manual is divided in large group like engine, transmission, axle and others and this group is also divided in small group by vehicle state. Small group: Each small group consists of general, vehicle service, unit repair and special tool usage.
 
 # MANUAL DESCRIPTION
@@ -472,19 +463,13 @@ Accordingly, the purpose of this manual is to prevent differences that can be ca
 
 While using this manual, there are a lot of Note or Notice having below meaning.
 
-# Note
-
 # Note means detailed description of supplementary information on work procedure or skill.
-
-# Notice
 
 Notice means precautions on tool/device or part damages or personal injuries that can occur during service works.
 
 However, above references and cautions cannot be inclusive measures, so should have habits of taking concerns and cautions based on common senses.
 
 # Cautions on Inspection/Service
-
-# Notice
 
 During service works, be sure to observe below general items for your safety.
 
@@ -586,8 +571,6 @@ Y220_0A028
 
 # During Service Work for Electric Devices
 
-# Notice
-
 Be careful not to modify or alter electrical system and electrical device. Or there can be vehicle fire or serious damage.
 
 Be sure to disconnect battery negative (-) terminal during every service work. Before disconnecting battery negative (-) terminal, turn off ignition key.   
@@ -603,11 +586,7 @@ Replace with specified capacity of fuse if there is bad, blown or short circuite
 
 ![](images/f5208858258733f5d33e18e061ebc29e234931fd33b033daed27e989c3f7f67c.webp)
 
-# LIFTING POINTS
-
 # Lifting Positions
-
-# 1. 4-post lift
 
 Asilustrated, position the vehicle on the 4-post ift securely and block the front and rear of each tire not to move during working.
 
@@ -634,8 +613,6 @@ If lift up the vehicle with safety jack and stand, should be more careful during
 
 ![](images/9024c31f11373caf53d71d64d641a26040cdaba8bb994b10aacb57caf7b76553.webp)
 
-# TIGHTENING TORQUE OF STANDARD BOLTS
-
 # Tightening Torque By Bolt Specification
 
 ![](images/50926165c1562ed5da45e84adefb6872eaabf61ec0e23f03aab95a18005a73c2.webp)
@@ -657,10 +634,6 @@ Aluminum alloy: Tighten to 80 % of above torque table. •Plastics: Tighten to 2
 ![](images/1fe01eec38bf3745993e48509bd8c8f866f96b157311c02c1e0d1ba9cc7c9791.webp)
 
 ![](images/8fbedc1d28eb0b7e2fa9490ee86663b8ef3fd18b2a76ade523c0646460b6ed7c.webp)
-
-# ENGINE ASSEMBLY
-
-# Table of Contents
 
 # STRUCTURE AND FUNCTION DESCRIPTIONS ... DI01-3
 
@@ -684,10 +657,6 @@ Engine mounting . DI01-22
 Components and special tools . DI01-32
 
 ![](images/bac45d9211b50a2a2342651947ecc16a4839332e4a999df8c2b93a52978f08a9.webp)
-
-# STRUCTURE AND FUNCTION DESCRIPTIONS
-
-# D27DT ENGINE
 
 # Major Components in Engine and Engine Compartment
 
@@ -827,8 +796,6 @@ Y220_00026
 
 # DIAGNOSTIC INFORMATION AND PROCEDURE
 
-# OIL LEAK DIAGNOSIS
-
 Most fluid oil leaks are easily located and repaired by visually finding the leak and replacing or repairing the necessary parts. On some occasions a fluid leak may be difficult to locate or repair. The following procedures may help you in locating and repairing most leaks.
 
 # Finding the Leak
@@ -915,8 +882,6 @@ The compression pressure test is to check the conditions of internal components 
 
 # Measuring Procedure
 
-# Notice
-
 •Disconnect the fuel rail pressure sensor connector to cut off the fuel injection.   
 Discharge the combustion residues in the cylinders before testing the compression pressure.   
 •Apply the parking brake before cranking the engine.   
@@ -970,8 +935,6 @@ Do not test the cylinder pressure leakage with wet type test procedure. (do not 
 ![](images/25d026f46f1f559d7e696958a1347fe8df3e1337490eead24bc778bcdea7db33.webp)
 
 # REMOVAL AND INSTALLATION
-
-# ENGINE MOUNTING
 
 ![](images/dcedf1ff6a54c2b2de555cf473c8ae9ce42bfd79c63e04c03976abfb20bef147.webp)
 
@@ -1095,8 +1058,6 @@ Installation Notice
 
 17.Remove the power steering inlet pipe and the outlet hose from the power steering pump.
 
-# Notice
-
 # Plug the openings of hoses and pump with caps not to flow out the oil.
 
 Installation Notice
@@ -1147,11 +1108,7 @@ Make sure to properly tighten the cable nuts when installing. Otherwise, it may 
 
 ![](images/bb6e469d442c2f1b72133b4bddb1525c4774c6cea368e55da900045dbf24c265.webp)
 
-# Note
-
 # The oil cooler pipes are connected to cylinder block at both sides and bottom area of oil with brackets.
-
-# Installation Notice
 
 ![](images/1419aaad25eb99cb71887a178cb9f517f5373b315ec6eab29299ffdc42a5b535.webp)
 
@@ -1188,8 +1145,6 @@ After installation of the fan belt, pump the belt tensioner 3 to 4 times.
 
 Y220_01041
 
-# Note
-
 # Before unscrewing the transmission mounting bolts, remove the starter motor.
 
 Installation Notice
@@ -1214,8 +1169,6 @@ Y220_01043
 
 ![](images/b4d547298b7777a01478bd2034f6a5f2975d8d584de5da4a189751d4a23d5586.webp)
 
-# DISASSEMBLY AND REASSEMBLY
-
 # COMPONENTS AND SPECIAL TOOLS
 
 ![](images/90a91f4258969d835195cdcb5902bc74ee3607b361fe6e2b394e3faf538820aa.webp)
@@ -1223,8 +1176,6 @@ Y220_01043
 ![](images/aba270335e72d65acc5d49d7dbfab1c5060ff2c296cd3b97c5646af9972642c4.webp)
 
 # Inspection Before Disassembly and Reassembly
-
-# Preparations and Preceding Works
 
 1. Remove the cylinder block drain plug and seal and completely drain the residual coolant from the cylinder block.
 
@@ -1424,8 +1375,6 @@ C.Remove the EGR valve #1 pipe.
 
 ![](images/a3b88fcca9da826a31e04712c0863dd390965779d49f6d86542d772504194833.webp)
 
-# Notice
-
 # The EGR #2 pipe should be replaced with new one.
 
 D.Unscrew the EGR valve #3 pipe (2) mounting bolts and remove the pipe from the exhaust manifold.
@@ -1589,8 +1538,6 @@ C. Unscrew the turbo charger mounting bracket bolts. Installation Notice
 
 D. Unscrew the turbo charger mounting bolts to exhaust manifold.
 
-# Notice
-
 # Use only 12 1/2 wrench.
 
 Installation Notice
@@ -1610,8 +1557,6 @@ Note Alternator Capacity: 140 A
 ![](images/ed4f5a507365b30860182c0def2e54cb2c612ed4360e8f2ca5fcc2a1ba314ac9.webp)
 
 # B. Remove the alternator mounting bracket.
-
-# Installation Notice
 
 ![](images/2930909e8fec0664f9d9d974a8a83ddc5d848c19cefc5d9b4154fdcc5764dd2c.webp)
 
@@ -2002,10 +1947,6 @@ Installation Notice
 
 ![](images/05cb996da159849db4d7874516e21bb107183411fb7892bb41f0f5f2c48dedd8.webp)
 
-# ENGINE HOUSING
-
-# Table of Contents
-
 # CYLINDE HEA/.YLIN DE BLOCK . MI2-3
 
 Cylinder head. DI02-3   
@@ -2034,8 +1975,6 @@ Components locator DI02-51
 ![](images/da2b3f03d4c97c4b12cf1b0ce52f4c814e614c91742c6d35e6c52c625a4aa6fd.webp)
 
 # CYLINDER HEAD/CYLINDER BLOCK
-
-# CYLINDER HEAD
 
 ![](images/48be20f647573c0aceec472d0d0cb3b272dd18bd1079c7b01285d4e0f4db7b11.webp)
 
@@ -2084,8 +2023,6 @@ Examine the cylinder head for air bubbling. If the air bubbles are seen, replace
 
 # Cylinder Head Parting Surface Check
 
-# Specifications
-
 ![](images/0037361c12967a25071d8c16fc28ad3672cd1a567bfa5a78b69dee06ce720fc9.webp)
 
 # Measurement
@@ -2121,8 +2058,6 @@ If the measured value is out of the specified range, machine the valve seat as m
 ![](images/8227828582e673ead5ce87a059a7427e1c7e704b611e04fee4c80ce831666830.webp)
 
 # Cylinder Head Disassembly and Reassembly
-
-# Disassembly
 
 Preceding Works:
 
@@ -2323,8 +2258,6 @@ Ensure that there is no leaks around the coolant line for #1 cylinder
 ![](images/2c5823872efa841cee8091df6272571894022c4a5de9e0eb7901034bd949d790.webp)
 
 17. Tighten the cylinder head cover bolts.
-
-# Notice
 
 # •Apply the sealant to the bolts for the vacuum pump and the timing chain cover.
 
@@ -2908,8 +2841,6 @@ Install from #1 cap.
 
 ![](images/2c0aec8057c6535675d33df338171ec6e353ff8f86bc47032dad0fd3ce9b8bff.webp)
 
-# FLYWHEEL
-
 # DUAL MASS FLYWHEEL (DMF, MANUAL TRANSMISSION EQUIPPED VEHICLE)
 
 ![](images/f00d87f933132b795420d986a14c1e545c96a9f4233a7716af5496ec1d240202.webp)
@@ -2926,8 +2857,6 @@ Y220_02147
 
 ![](images/300705928d567fdb2e2bf11e14af5dd3c50f42e2cfe3c2a981f2081399fef416.webp)
 
-# Structure
-
 # Function and characteristics
 
 •When the output changes from the engine is high during power stroke (l): The damper absorbs the shocks to reduce the changes to transmission. • When the output changes from the engine is low during compression stroke (2): The damper increases the torque changes to clutch.
@@ -2941,8 +2870,6 @@ Y220_02147
 Y220_02113
 
 # System Characteristics
-
-# Function
 
 Filters irregularities of engine: The secondary flywheel operates almost evenly so does not cause gear noises • The mass of the primary flywheel is less than conventional flywheel so the engine irregularity increases more (less pulsation absorbing effect) •Transmission protection function: Reduces the load to powertrain (transmission) by blocking the irregularity of engine
 
@@ -3119,8 +3046,6 @@ Insert connecting rod bearing shells.
 
 # HIGH PRESSURE PUMP (HPP)
 
-# COMPONENTS LOCATOR
-
 ![](images/fdb09b27e79d3d547d481f50e086395e03e469e18ce2bb0ab9ae63158c01c5a3.webp)
 
 Y220_02133
@@ -3261,10 +3186,6 @@ Install in the reverse order of removal and tighten the fasteners with the speci
 
 ![](images/673fefb3d857fd1cf972af19c95b7b5a030633b7cf56cae451baa020dea06f1f.webp)
 
-# INTAKE SYSTEM
-
-# INTAKE SYSTEM
-
 # Table of Contents
 
 AIR FLOWS DI03-3   
@@ -3291,8 +3212,6 @@ Caer S Cargr Intercooler Maad Comuein
 ![](images/433d06c897ea6012cee41526b75cdfcac8f8fb1bbbe3dba203771396cf4eb44f.webp)
 
 # INTAKE SYSTEM LAYOUT
-
-# COMPONENTS LOCATOR
 
 ![](images/58bdf5f478801d81b246ea8e5a1b2a09299f5dea0f2706153ebcdfda5d4d564d.webp)
 
@@ -3351,8 +3270,6 @@ When cleaning the air cleaner with compressed air, direct the air from inside (e
 ![](images/6e647f63165990f20fd3378b70490a2b86e57b258568b7148d68c3aac2e367fe.webp)
 
 # AIR FLOW SENSOR (HOT FILM AIR MASS SENSOR)
-
-# Change history
 
 inner tube added + grid (No.3) added + sensing chip changed + sensing section design changed
 
@@ -3627,12 +3544,6 @@ Check the length of the bolts before installation. M8 x 45: 6EA M8 x 130: 6EA
 
 ![](images/f0b8553e189d3105d1c58af73750b7b92f57e88c4ae3f87c8c6806340c94e897.webp)
 
-# EXHAUST SYSTEM
-
-# EXHAUST SYSTEM
-
-# Table of Contents
-
 # EXHAUST SYSTEM LAYOUT ... .. 43
 
 Components locator DI04-3   
@@ -3651,8 +3562,6 @@ System overview . .DI04-37
 ![](images/ca2708aca29c9f55b69c23dfc25816686881b2045b27d00a50d558674e94547c.webp)
 
 # EXHAUST SYSTEM LAYOUT
-
-# COMPONENTS LOCATOR
 
 ![](images/a541d682fb8db79243708ff34effedca078f32ae8b42a134992546627b8f56e1.webp)
 
@@ -3687,8 +3596,6 @@ The #3 pipe of EGR valve is exposed to the high temperature and pressure of exha
 4.Unscrew the nuts and remove the exhaust manifold and gasket.
 
 ![](images/fa09a0a4258000c09a57bee32734c8d84ce09afdaa18cf70a9c287dab15c522b.webp)
-
-# Notice
 
 # Replace the gasket with new one.
 
@@ -3793,10 +3700,6 @@ Y220_04012
 
 # Diagnosis and Maintenance for Turbo Charger System
 
-# Cautions During Driving
-
-# Inspection of Turbo Charger
-
 The following lists cautions to take during test drive and on the turbo charger vehicle, which must be considered during the operation;
 
 1. It's important not to drastically increase the engine rpm starting the engine. It could make rotation at excessive speed even before the journal bearing is lubricated and when the turbo charger rotates in poor oil supply condition, it could cause damage of bearing seizure within few seconds.   
@@ -3838,8 +3741,6 @@ In case where oil flow from the turbo charger sensor housing to the crank case i
 # Inspection of Turbine
 
 Thoroughly check the followings.
-
-# Notice
 
 # Must absolutely not operate the turbo charger with the compressor outlet and inlet opened as it could damage the turbo charger or be hazardous during inspection.
 
@@ -4045,10 +3946,6 @@ Remove the turbo charger assembly.
 
 # EGR VALVE AND VACUUM MODULATOR
 
-# EGR SYSTEM
-
-# General Information
-
 EGR system controls the opening vale of EGR valve by transmiting electrical signal (PWM control) from the engine ECU to vacuum modulator. Also, the engine ECU receives the feedback signals of the amount of air flowing through the HFM sensor.
 
 ![](images/729fee833873cc365bf7553010a8a6349d91becccc3f36ab541498d579598248.webp)
@@ -4068,8 +3965,6 @@ Y220_04023
 ![](images/17ff6565fa7de874bc7c7aa8fce540d8fae572679528a7a66f2fa5ed07a4e84e.webp)
 
 # EGR VALVE AND TURBO CHARGER ACTUATOR CONTROL VACUUMCIRCUIT
-
-# Vacuum Modulator
 
 The biggest diference between the vacuum circuit and layout of the Hoover EGR system after K2004 has been introduced is the location of the vacuum modulator for EGR valve control and the function of the other modulator. In case of EGR equipped veicle (ID ngine), it performs the role of controlling the PLA of ijection pump whereas, in D engine, it controls the turbo charger actuator.
 
@@ -4242,8 +4137,6 @@ The important elements of the muffler are volume, construction and location.
 
 # SYSTEM OVERVIEW
 
-# Exhaust System
-
 Check the complete exhaust system and the nearby body areas and trunk lid for broken, damaged, missing or mispositioned parts, open seams, holes, loose connections, or other deterioration which could permit exhaust fumes to seep into the trunk may be an indication of a problem in one of these areas. Any defects should be corrected immediately.
 
 # Notice
@@ -4277,8 +4170,6 @@ If the ganger is not properly installed, it may cause the vibration that is very
 ![](images/12ed49668614230542fe4f5d192ee44a539b3c7e8a9aad8ea56cc6b5733ff272.webp)
 
 # DOC (Diesel Oxidation Catalyst)
-
-# System and principle
 
 Oxidation catalytic technology for diesel engine is basically the same with it of gasoline engine used before development of 3 primary catalyst (2 primary catalyst), and its effect and performance were already proved.
 
@@ -4395,12 +4286,6 @@ Remove the #2 exhaust pipe.
 
 4Install in the reverse order of removal.
 
-# LUBRICATION SYSTEM
-
-# LUBRICATION SYSTEM
-
-# Table of Contents
-
 # LUBRICATION SYSTEM. .. ... 0-3
 
 Lubrication system layout . DI05-4   
@@ -4516,8 +4401,6 @@ Raise the engine speed by 2000 rpm and measure the engine oil pressure.
 
 Install the switch and engage the connector.
 
-# Notice
-
 # •Apply the Loctite onto the thread of the switch and check for oil leaks.
 
 ![](images/0bd458c58556a4686e1ab4c4ab92fc288cc9f28d98e53329ea0a9e312236e308.webp)
@@ -4536,8 +4419,6 @@ Frequently check and add if needed. Shorten the change interval under severe con
 - In hilly or moutainous terrain   
 - When doing frequent trailer towing
 
-# Notice
-
 # Water separation from the fuel filter should be performed when changing the engine oil.
 
 ![](images/521f955aeb4260231fd6fd3f4d4dd7971dad86a46fc23c1d29e610412a9739ea.webp)
@@ -4545,8 +4426,6 @@ Frequently check and add if needed. Shorten the change interval under severe con
 # Engine Oil Changing Procedures
 
 1. Park the vehicle on the level ground and warm up the engine until it reaches normal operating temperature. Stop the engine and wait around 5 minutes. Remove the oil filler cap, oil filter and oil drain plug to drain the oil.
-
-# Notice
 
 # After driving, the engine oil temperature may be high enough to burn you. Wait until the oil is cooled down.
 
@@ -4601,8 +4480,6 @@ Disconnect the ground cable from the oil pressure switch.
 
 Remove the oil cooler and filter mounting bolt.
 
-# Notice
-
 # Pay attention to the length of bolts.
 
 ![](images/73b5b29b3ecb96cd4e55005c6ed58109ef4245cada122f70147ccb8ce78b2176.webp)
@@ -4654,15 +4531,11 @@ Remove the EGR valve pipe (No.3).
 
 ![](images/d003df32401c5f87f1fcd3aeaf3725d94925546637fb6af8539d5d3ac0af87fc.webp)
 
-# Notice
-
 # Replace the pipe with new one.
 
 ![](images/fa21c4655b7abd490bd66138bb08f2c37e294dda3d80b4e4a894892ebe9f2159.webp)
 
 Unscrew the bolt and remove the oil dipstick guide tube.
-
-# Notice
 
 # Replace the O-ring with new one.
 
@@ -4745,10 +4618,6 @@ Y220_05023
 
 ![](images/7adbf6cc858f12cd93fd1728f34ac71c22b3dc8e1afc0d7f7140bff3744fd997.webp)
 
-# COOLING SYSTEM
-
-# COOLING SYSTEM
-
 # Table of Contents
 
 COOLING SYSTEM .DI06-3   
@@ -4813,10 +4682,6 @@ Be careful not to damage the radiator core when servicing.
 The belt-driven centrifugal water pump consists of an impeller, a drive shaft, and a belt pulley. The impeller is supported by a completely sealed bearing.
 
 The water pump is serviced as an assembly and, therefore, cannot be disassembled.
-
-# Coolant reservoir
-
-# Notice
 
 # Scalding hot coolant and steam could be blown out under pressure, which could cause serious injury. Never remove the coolant reservoir cap when the engine and radiator are hot.
 
@@ -4915,8 +4780,6 @@ The Engine Coolant Temperature (ECT) sensor uses a temperature to control the si
 
 # Coolant Level Check
 
-# Notice
-
 Scalding hot coolant and steam could be blown out under pressure, which could cause serious injury. Never remove the coolant reservoir cap when the engine and radiator are hot.
 
 Take precautions to prevent antifreeze coming in contact with the skin, eyes or vehicle body. If contact happens, rinse affected areas immediately with plenty of water.
@@ -4960,8 +4823,6 @@ ECU functions as below with coolant temperature sensor signals.
 ![](images/e09fa45bd23f826759f40271d2eb81790ef480a124f7779051b373bf5d2ade45.webp)
 
 # INSPECTION AND REPAIR
-
-# INSPECTION
 
 ![](images/d9cc308cc08c333d3d678c01155996b1c62bf9c6af6ac1c85d6f25c574d05ff5.webp)
 
@@ -5136,8 +4997,6 @@ Remove the oil dipstick tube.
 Remove the gasket residues from the sealing surface and replace the gasket with new one.
 
 6 Install in the reverse order of removal.
-
-# Thermostat
 
 # \* Preceding Works:
 
@@ -5337,8 +5196,6 @@ ECU receives coolant temperature and engine speed to control; after monitoring t
 
 # PREHEATING RELAY
 
-# Structure
-
 ![](images/20ffd44261cd83c1242031483b92796e302dfb1a081d785dbdc77bf4da86517b.webp)
 
 ![](images/6872142ce15fa5e9702427e138ae111f2cc233bd54ee2006d27881ac081ded8f.webp)
@@ -5392,10 +5249,6 @@ Error code of “P1720 - Pre heating control communication fail” will be repor
 
 ![](images/4e3c07ed080a343327fe6585271ff5a483a96b4d48ed337435cf075b3a266686.webp)
 
-# FUEL SYSTEM
-
-# FUEL SYSTEM
-
 # Table of Contents
 
 CAUTIONS FOR DI ENGINE. .DI07-3   
@@ -5415,8 +5268,6 @@ This chapter describes the cautions for DI engine equipped vehicle. This include
 # DI Engine
 
 Comparatively conventional diesel engines, DI engine controls the fuel injection and timing electrically, delivers high power and reduces less emission.
-
-# System Safety Mode
 
 # Water Separator Warning Light
 
@@ -5486,8 +5337,6 @@ If the priming pump is not properly operated, air may get into the fuel line. It
 ![](images/00273787e2f8de2e6c840a1f56550bbaea55969714d19219ba6cb1a300b4a665.webp)
 
 ![](images/3157f151d189bb548c752e3c0c69c090a8ec0fb0fef6b6c8b9a798da3834a120.webp)
-
-# FUEL INJECTION SYSTEM
 
 # Electronic Control of Fuel System
 
@@ -5613,10 +5462,6 @@ The transfer pump is included in the housing of the high pressure pump. The tran
 
 # FUEL TRANSFER LINE
 
-# Transfer Pump
-
-# Description
-
 The transfer pump is the device to provide suficient fuel to high fuel pressure line and is mechanical type feed pump that is driven by timing chain linked to crankshaft. This mechanical type feed pump is subject to air iflow, therefore, a hand priming pump is installed to fillfuel in Low fuel pressure(LP) circuit.
 
 The transfer pump is included in the housing of the HP pump. The transfer pump is the volumetric blade type pump an consists of the following components:
@@ -5709,10 +5554,6 @@ The LP actuator is used to proportion the amount of fuel sent to the pumping ele
 ![](images/4747a8f10cf7a1bbb996cffc594e2dac5e2f08e00f9514587f420b855fb78634.webp)
 
 # HIGH FUEL PRESSURE LINE
-
-# High Pressure Pump
-
-# Description
 
 This pump generates high fuel pressure and is driven bytiming chain (radial plunger principle). This pump pressurizes the fuel to approx. 1600 bar and sends this high pressurized fuel to high pressure accumulator (common rail via high pressure line.
 
@@ -5872,8 +5713,6 @@ Plug the coolant port not to get the coolant into the engine. Add the coolant as
 6Unscrew the upper and lower bolts and remove the auto tensioner.
 
 ![](images/8ef8768acafe0937ae54802a237838e1cd5b99b65282e237ff9ebcf9f14b9aee.webp)
-
-# Notice
 
 # To prevent oil leaks, store the removed auto tensioner in upright position.
 
@@ -6058,8 +5897,6 @@ Install the HP pump bearing bracket and HP pump to the cylinder block.
 
 ![](images/96d29e892df9cf9cf74d1e089e18f542afffc775cc4f15e8ae2293d198ef438d.webp)
 
-# Notice
-
 # Align the oil galleries in cylinder block and bearing bracket.
 
 Install the bearing into the bracket.
@@ -6096,8 +5933,6 @@ Replace the center nut with new one.
 
 8. Press the upper and lower guide pins into the guide.
 
-# Notice
-
 # Check the timing chain and guide pin for contact.
 
 9. Align the marks on the HP pump sprocket and the timing chain and tighten the bolts.
@@ -6132,8 +5967,6 @@ Rotate the bolt on crankshaft damper pulley two revolutions and check if the mar
 ![](images/7d9fc9ca20e9bdc4607174caebdafad89871409b11a25e82376f1e46a25fe5df.webp)
 
 1 Install the timing chain cover.
-
-# Notice
 
 # Align the cover and the guide pin.
 
@@ -6233,15 +6066,11 @@ Ensure that the vacuum hoses are connected to correct positions.
 
 # Fuel Filter
 
-# Function
-
 Foreign materials in fuel can damage the pump components, transfer valve and injectors. Therefore, the high pressure direct injection engine must use fuel filter. Otherwise, the operation performance will drop dramatically And, diesel fuel may contain water due to condensation by temperature changes and this condensation water can damage the system by corroding the injection system. Thus, the common rail engine should have function that can drain water periodically.
 
 ![](images/0982c8ec90e0e63fe094a3c2753c46593584724509f5ebd6c56c39fd72994bc4.webp)
 
 ![](images/9e3357332c81df72cf4f176cf87ac1ae42b25c077db4467d216ce1d65f7e31c3.webp)
-
-# Change Interval: 30,000 km
 
 # Water separation and storage function
 
@@ -6573,8 +6402,6 @@ When static, this pressure drop is zero. When the pressure in the control chambe
 
 # Fuel pressure
 
-# Fuel pressure
-
 •Minimum operating pressure: start injection over 100 bar   
 •Maximum operating pressure: 1,600 bar (max. operating pressure in normal conditions)   
 •Max overpressure: 2,100 bar
@@ -6719,12 +6546,6 @@ L 2 єз 1 8 х 2 + + L □ 4
 
 ![](images/3b4430a162989f6bac08def44ce20496df8c2cb4b131d0e1c60b7dbe79c55887.webp)
 
-# ENGINE CONTROL SYSTEM
-
-# ENGINE CONTROL SYSTEM
-
-# Table of Contents
-
 # SENSORS FOR DIAGNOSIS. ..083
 
 Engine ECU and other components .. DI08-3   
@@ -6764,8 +6585,6 @@ Y220_08002
 
 # ENGINE CONTROL SYSTEM
 
-# ECU
-
 According to input signals from various sensors, engine ECU calculates driver's demand (position of the acceleratol pedal) and then controls overall operating performance of engine and vehicle on that time.
 
 ECU receives signals from sensors through data line and then performs effective engine air-fuel ratio controls based on those signals.
@@ -6791,8 +6610,6 @@ Air flow (hot film) sensor detects intake air volume and then transmits to ECU. 
 Inputs Control Output Booster pressure sensor Atmospheric pressure sensor Injector (Built-in ECU) EGR system Air flow sensor (HFM) Fuel pressure regulating valve (IMV) Coolant temperature sensor Electrical fan control (Low/High-speed) Fuel temperature sensor E A/C compressor relay Fuel pressure sensor Glow plug relay Fnock sster sesor C Wanig ghts crankshaft position sensor (Water warning light, glow plug indicacamshaft position sensor U tor light, engine warning light) Accelerator sensor Preheater (auxiliary heater) Vehicle speed sensor K - line Switch input signal CAN communication (IG, brake, clutch, A/C signal, A/C Self-diagnosis compressor)
 
 # Structure and Function of ECU
-
-# Function of ECU
 
 :CU receives and analyzes signals from various sensors and then modifies those signals into permissible voltage levels nd analyzes to control respective actuators.
 
@@ -6844,8 +6661,6 @@ If the vehicle runs normall, fuel injection volume will be calculated by acceler
 
 ![](images/28f63bc02280f92f0b8021c6a47a33de04ff691c9281ff53ce405d5d52a4dcb0.webp)
 
-# FUEL PRESSURE CONTROL
-
 # Fuel Pressure Control Elements
 
 Pressure control consists of 2 principle modules.
@@ -6874,8 +6689,6 @@ Y220_08008
 ![](images/74fc346240c9e92e549b2a92553b49b5be03cce7c8fa06b7bc4d9cc6352f51db.webp)
 
 # FUEL INJECSTION CONTROL
-
-# Fuel Injection Control
 
 Injection control is used in order to determine the characteristics of the pulse which is sent to the injectors.   
 Injection control consists as below.   
@@ -6913,8 +6726,6 @@ During the starting phase, the pilot injection timing is determined as a functio
 ![](images/dfc90a10759fa2f8ce6500ae1d788932186e549eba6754e27a8c49073ac594c1.webp)
 
 # FUEL FLOW CONTROL
-
-# Main Flow Control
 
 The main flow represents the amount of fuelijected into the clinder during the main injection. The pilot flow represents the amount of fuel injected during the pilot injection.
 
@@ -6994,8 +6805,6 @@ During starting, the pilot flow is determined on the basis of the engine speed a
 
 ![](images/607451ab4adf93848a2b388ea4b5d75b95716f70cc6f70fb1daa25186ddd870e.webp)
 
-# Cylinder Balancing Strategy
-
 # Balancing of the point to point flows
 
 The pulse of each injector is corrected according to the difference in instantaneous speed measured between 2 succes.   
@@ -7007,8 +6816,6 @@ Finally, the time to be added to the main injection pulse for the different inje
 # Detection of an injector which has stuck closed
 
 The cylinder balancing strategy also allows the detection of an injector which has stuck closed.The diference in instantaneous speed between 2 successive ijections then exceeds a predefined treshold. In this case, a fault is signaled by the system.
-
-# Accelerometer Strategy
 
 # Resetting the pilot injection
 
@@ -7096,8 +6903,6 @@ When the pulse value that the injector starts injection is measured, itis called
 
 ![](images/dc60776cf3e6041b84a02b23973259ee28013021b7e18796605e1bd9cda23fc4.webp)
 
-# <Location of accelerator pedal sensor>
-
 # <When depressing the accelerator pedal and brake pedal simultaneously>
 
 Y220_08014
@@ -7181,8 +6986,6 @@ It is builtin the ECU and detects absolute pressure of atmosphere to correct fue
 
 # Other switches
 
-# Brake switch
-
 Brake switch detects brake pedal operations and then sends to engine ECU. It has dual structure with 2 combined switches and there are brake switch 1 and 2. When these 2 signals are input, engine ECU recognizes as normal brake signals. These switch signals are related with accelerator pedal sensor operations and used to control the fuel volume during braking. It means there are no problems in operating accelerator pedal when the brake pedalis operated but the fuel volume reduces if operates brake pedal while the accelerator pedal is depressed.
 
 ![](images/34ca181a5628766914332b762054cd827b4a86bcaeb16446b6350f0bb39ac9d2.webp)
@@ -7198,12 +7001,6 @@ Clutch pedal switch is installed on the upper of the clutch and sends clutch ped
 ![](images/69eb1148b53ff83aa730bfc7a937c749e651ae893ff9e2e84131679fba902df9.webp)
 
 SECTION DI09
-
-# ELECTRIC DEVICES AND SENSORS
-
-# ELECTRIC DEVICES AND SENSORS
-
-# Table of Contents
 
 # ELECTRIC DEVICES AND SENSORS .. 0-3
 
@@ -7225,8 +7022,6 @@ Glow plug . DI09-17
 # SPECIAL TOOLS AND EQUIPMENT .. DI09-19
 
 ![](images/0b57f7f1e195a92095ba4cad831c7c9b4227797da8611bc8a353c6d7c8c4a35d.webp)
-
-# ELECTRIC DEVICES AND SENSORS
 
 # SENSORS IN ENGINE COMPARTMENT
 
@@ -7323,8 +7118,6 @@ Remove the upper and lower mounting bolts.
 ![](images/a54ae396272ea564c5f477a6201698b86e5aa3d5820a3638f636e1789dcea998.webp)
 
 # PREHEATING SYSTEM
-
-# General
 
 Glow plug is installed on the cylinder head (combustion chamber) in the D27DT preheating control unit system. Colc starting performance has improved and exhaust gas during cold starting has reduced.
 
@@ -7434,8 +7227,6 @@ Installation Notice
 ![](images/fb8545e64a8351fa957e37104e3387f2b89f790ee73e125e90e74467d66b934e.webp)
 
 ![](images/f6bf692dcdcbe49b05cc342908b7ad6b574e0986c86176dfeea25246ca8bc95a.webp)
-
-# DIAGNOSIS
 
 # Table of Contents
 
@@ -8320,8 +8111,6 @@ HMF sensor Signal Fault (Electric Failure)
 
 # Cam Position Sensor (missing event)
 
-# Trouble Code and Symptom
-
 ![](images/cd957520efc6cfb182c27ac52ac7e0ceaa0bf87707c58126f54a1e099e83b651.webp)
 
 # Diagnosis Procedures
@@ -8354,8 +8143,6 @@ Too Small Clearance of Crank Angle Sensor
 
 # Too Large Clearance of Crank Angle Sensor
 
-# Trouble Code and Symptom
-
 ![](images/0b44c55ee5c9438588255401912d7d9d63105da662edfad6627e3cb81bb7942a.webp)
 
 # Diagnosis Procedures
@@ -8365,8 +8152,6 @@ Too Small Clearance of Crank Angle Sensor
 ![](images/4c8265cfc940f6b3136229c614e98365a0942376dced578e0bf9fe1adff63811.webp)
 
 # Crank Angle Sensor Malfunction
-
-# Trouble Code and Symptom
 
 ![](images/23fc7b329cf2ec791b980d9072dae4f0b37cfb2849434e328b10ed58a4999156.webp)
 
@@ -8402,8 +8187,6 @@ Battery Voltage Monitoring Signal Malfunction
 
 # Booster Pressure Sensor Malfunction (Out of range with Key ON)
 
-# Trouble Code and Symptom
-
 ![](images/18e7a092731cff37762a79574357e3af664f35e4ce62e6dda6dfbcc10edaf67b.webp)
 
 # Diagnosis Procedures
@@ -8421,8 +8204,6 @@ Diagnosis Procedure (Check sensor (1))
 ![](images/cd7ae713d7bb9fb9ed6085df834770352674304e753ccc53de3d09233ce2a6cf.webp)
 
 # Booster Pressure Sensor Malfunction (Out of range with Key ON)
-
-# Trouble Code and Symptom
 
 ![](images/8a4e43275026eaadc1e21eca4aa237c0befaabbe01b6a582e1c6c9e04f99bab5.webp)
 
@@ -8462,8 +8243,6 @@ Diagnosis Procedures (check sensor (1))
 
 # Brake Pedal Switch Malfunction
 
-# Trouble Code and Symptom
-
 ![](images/9f184e7ea1da0f29757cb71794efc72b1dc79f78c996bbaf08477f9e3c569fc1.webp)
 
 # • Diagnosis Procedures
@@ -8484,8 +8263,6 @@ Diagnosis Procedures (check sensor (1))
 
 # High Wiring Resistance (Injector #1)
 
-# Trouble Code and Symptom
-
 ![](images/01a3b6a6303b98a834f011fa68da2f8147883a2cd43a3b6b2ebe7eb235224426.webp)
 
 # Diagnosis Procedures
@@ -8495,8 +8272,6 @@ Diagnosis Procedures (check sensor (1))
 ![](images/43e0e9b664b0a9be46a531ee7c26af3f0960b46990dc4a001291f4bed225647b.webp)
 
 # High Wiring Resistance (Injector #2)
-
-# Trouble Code and Symptom
 
 ![](images/f33b1be03f55344ee11d6099f72f58603b8b7dffdd93d2ac411017ae558bb7bc.webp)
 
@@ -8508,8 +8283,6 @@ Diagnosis Procedures (check sensor (1))
 
 # High Wiring Resistance (Injector #3)
 
-# Trouble Code and Symptom
-
 ![](images/9a8036343f2674c8c7ecfaa5290ad0fb477addd6287a06c41c8d34f23f66c22b.webp)
 
 # Diagnosis Procedures
@@ -8520,8 +8293,6 @@ Diagnosis Procedures (check sensor (1))
 
 # High Wiring Resistance (Injector #4)
 
-# Trouble Code and Symptom
-
 ![](images/7d2e839538d2513a0a29e5045396b27a87a7d9a52afd04cf3141ff82d436bd4f.webp)
 
 # Diagnosis Procedures
@@ -8531,8 +8302,6 @@ Diagnosis Procedures (check sensor (1))
 ![](images/d859ececc9ff057d4234a4fc3d79891db6630124a54102a1ef4cacfcb6b5b321.webp)
 
 # High Wiring Resistance (Injector #5)
-
-# Trouble Code and Symptom
 
 ![](images/5075a445dba7a01024993989ce1628c077fea2a3217036cbc6ed0aa1d7c54536.webp)
 
@@ -8566,8 +8335,6 @@ Coolant Temperature Sensor Malfunction (Implausible Signal)
 
 # Coolant Temperature Sensor Malfunction (Electric Fault)
 
-# Trouble Code and Symptom
-
 ![](images/0443d5c7e6dc85b4218e4cdbe301f03841b47a19924024acc20f7f195859026a.webp)
 
 # Diagnosis Procedures
@@ -8577,8 +8344,6 @@ Coolant Temperature Sensor Malfunction (Implausible Signal)
 ![](images/dbdbd620b87c1dc7744722af9a548e519237d38ab4c70d4fd581de4c52a7696b.webp)
 
 # Too Fast or Low Main Relay Operation
-
-# Trouble Code and Symptom
 
 ![](images/9ed168729c357c00b7ea342e730e5088c16fc8dd95a4d19c27fdb3efa158433e.webp)
 
@@ -8590,8 +8355,6 @@ Coolant Temperature Sensor Malfunction (Implausible Signal)
 
 # EGR Actuator Malfunction
 
-# Trouble Code and Symptom
-
 ![](images/831eb676e1a9e5157231dfc0c0a5c2c720f03517d52b2022d75967af2ac46fce.webp)
 
 # Diagnosis Procedures
@@ -8602,8 +8365,6 @@ Coolant Temperature Sensor Malfunction (Implausible Signal)
 
 # Condenser Fan Driving Signal Fault (Type 1)
 
-# Trouble Code and Symptom
-
 ![](images/36782b6606b8b8a43c8aed31292a49146fc622d9b3f20e8f12013123e571033b.webp)
 
 # Diagnosis Procedures
@@ -8613,8 +8374,6 @@ Coolant Temperature Sensor Malfunction (Implausible Signal)
 ![](images/a5e7a060b6e1966324671c86258ab7855f3d163926012a7f9e3fa9eb7e4c1225.webp)
 
 # Condenser Fan Driving Signal Fault (Type 2)
-
-# Trouble Code and Symptom
 
 ![](images/28125cc2f0f22ff1d54b136425ccbb9e1758dbc36459cffde834fa4e88b3a3b6.webp)
 
@@ -8800,8 +8559,6 @@ Cylinder Balancing Fault (Injector #3) = Clogged Air Intake System
 
 # HSD Circuit Short to LSE (Injector #1)
 
-# Trouble Code and Symptom
-
 ![](images/1ab22b487c7a4ac05e0e46839442c493e25be7eb210783827ae09b032686f888.webp)
 
 # Diagnosis Procedures
@@ -8811,8 +8568,6 @@ Cylinder Balancing Fault (Injector #3) = Clogged Air Intake System
 ![](images/6814ec6f20623682c323ff89a7634c00157b9105e82ffa91b99276b4c3c0f28a.webp)
 
 # HSD Circuit Short to LSE (Injector #2)
-
-# Trouble Code and Symptom
 
 ![](images/bb88069c882588f3a190d7f6b6f218fbe304e1aa12f38b7ec82584c42d91bf3f.webp)
 
@@ -8824,8 +8579,6 @@ Cylinder Balancing Fault (Injector #3) = Clogged Air Intake System
 
 # HSD Circuit Short to LSE (Injector #4)
 
-# Trouble Code and Symptom
-
 ![](images/ab1894491e61fe67496cb96f9c9eca1bc5631ab0d036215f46aea74f4f18c661.webp)
 
 # Diagnosis Procedures
@@ -8835,8 +8588,6 @@ Cylinder Balancing Fault (Injector #3) = Clogged Air Intake System
 ![](images/9f606e03c7750c0085be5575de399d9046fa45ddb02b673205689c0dd37df04c.webp)
 
 # HSD Circuit Short to LSE (Injector #5)
-
-# Trouble Code and Symptom
 
 ![](images/9a5bb64202715d7a0e6c5a9f835bb5fe644d03ae49ca000e67bef9c1e28ec8d0.webp)
 
@@ -8848,8 +8599,6 @@ Cylinder Balancing Fault (Injector #3) = Clogged Air Intake System
 
 # HSD Circuit Short to LSE (Injector #3)
 
-# Trouble Code and Symptom
-
 ![](images/b297f2a30e5cb8b313c06eab6c435afa7ca4b740056dcf04c0b54164b7b9555e.webp)
 
 # Diagnosis Procedures
@@ -8859,8 +8608,6 @@ Cylinder Balancing Fault (Injector #3) = Clogged Air Intake System
 ![](images/4c56d95291a07b90320202bc797080e478b9e6127456ea7b1c155f766b51803d.webp)
 
 # Fuel Temperature Sensor Malfunction
-
-# Trouble Code and Symptom
 
 ![](images/a524f101c80b73b3d4be3c1502609e3e034f52018ac6a970e5741ca6592c9e3e.webp)
 
@@ -8872,8 +8619,6 @@ Cylinder Balancing Fault (Injector #3) = Clogged Air Intake System
 
 # Glow Plug Malfunction (Driving Signal)
 
-# Trouble Code and Symptom
-
 ![](images/82f7a081ec5476bb5ce27a23f00fac7045eb1ec98118d29863110a63e8c8af7d.webp)
 
 # Diagnosis Procedures
@@ -8884,8 +8629,6 @@ Cylinder Balancing Fault (Injector #3) = Clogged Air Intake System
 
 # Heater 1 Malfunction (Driving Signal)
 
-# Trouble Code and Symptom
-
 ![](images/2dcad6f7162641b278f76ce40b3589da356f3cd5b38b59cfb9c795560942397e.webp)
 
 # Diagnosis Procedures
@@ -8895,8 +8638,6 @@ Cylinder Balancing Fault (Injector #3) = Clogged Air Intake System
 ![](images/c046cdaeda70a83b689b8e8a2eec71bbceaca29068fa477c8c41792c7d202ebf.webp)
 
 # Heater 2 Malfunction (Driving Signal)
-
-# Trouble Code and Symptom
 
 ![](images/c3b19b8b78d18f2e1b6844cdb2bb4223e9a8ed20850e4d8b8b8ab083fd8299b7.webp)
 
@@ -8954,8 +8695,6 @@ Diagnosis Procedures (Transfer Fuel System)
 
 # Rail Pressure Control Fault (Too Slow Pressure Build Up while Cranking)
 
-# Trouble Code and Symptom
-
 ![](images/ecd457455b18fb86e2abb46a48fc4cca2e7cbac0c5dfa2cb3f10ac24159c8534.webp)
 
 # Diagnosis Procedures
@@ -8978,8 +8717,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 
 # IMV Operation Fault (Electrical Fault)
 
-# Trouble Code and Symptom
-
 ![](images/269f420a63d515ef81167f4fe2bb63f41f796c5ebef1ef8f558c1c06503d31bb.webp)
 
 # Diagnosis Procedures
@@ -8989,8 +8726,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 ![](images/3206999224e06a0e259438139313b4b0158458ea6f847db328df60a44eea96bd.webp)
 
 # Intake Air Temperature Sensor Fault (Electric Fault)
-
-# Trouble Code and Symptom
 
 ![](images/746c9b86b384652dda3ed875cde427820ab7e39ef572ee873440ea1949591e3c.webp)
 
@@ -9004,8 +8739,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 
 ![](images/51af301bee3d0f344756d389359eab80259f155bd7dcc5a7926b37e0dfe400b7.webp)
 
-# Diagnosis Procedures
-
 # Trouble Code and Symptom
 
 ![](images/e03d52317038b3478b220af20bcfde047e09cde4697e6fccc9e83d35493623b1.webp)
@@ -9017,8 +8750,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 # Trouble Code and Symptom
 
 ![](images/8ad28f6a5e851b06973b87b9d883425b1b89925aab6dbc491d486311071c412a.webp)
-
-# Diagnosis Procedures
 
 # Trouble Code and Symptom
 
@@ -9039,8 +8770,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 ![](images/8c615f9413eeb3c733e94bccdb909a8e1da4e530ebf4dc26fc62a36fa98635bf.webp)
 
 # Rail Pressure Fault (Too High)
-
-# Trouble Code and Symptom
 
 ![](images/9d2bc310a15784d52ae406e24d16002a0e52f4879e9ab98f38d70cdfd87a0fef.webp)
 
@@ -9064,8 +8793,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 
 # Accelerator Pedal Sensor Malfunction (Relationship between Track 1 and Track 2)
 
-# Trouble Code and Symptom
-
 ![](images/e08a71aa0eca1ff2c26ab60109305c87f6db0b538b4cf625ef394cf1501da580.webp)
 
 # Diagnosis Procedures
@@ -9075,8 +8802,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 ![](images/850673cd650a1fb66860c3475ba9998d71b871c02371045d9d796c5ddd20a72f.webp)
 
 # Accelerator Pedal Sensor Malfunction (Limp Home Mode Operation)
-
-# Trouble Code and Symptom
 
 ![](images/b583c1f55ab4449f325da0ae8668b6570d6bc913be4a8e59ea25d8e46c54cdd1.webp)
 
@@ -9100,8 +8825,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 
 # Accelerator Pedal Sensor Malfunction (Electrical Fault, Pedal Stuck)
 
-# Trouble Code and Symptom
-
 ![](images/2d0c958bfa412b3115c8257f1a0f46d353193545f8449e612e828c21f186a174.webp)
 
 # Diagnosis Procedures
@@ -9111,8 +8834,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 ![](images/43623afbe2ebb81b50e2fb4caeac92b7f04f04d3142fd8bf171ca6cb7b698fd2.webp)
 
 # Accelerator Pedal Sensor Malfunction (Electrical Fault, Track 1)
-
-# Trouble Code and Symptom
 
 ![](images/18f744a9db9680a6aefb7f9cda125f3a5d5b9c55a1a46c9922981e731f6bfc37.webp)
 
@@ -9124,8 +8845,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 
 # Accelerator Pedal Sensor Malfunction (Electrical Fault, Track 2)
 
-# Trouble Code and Symptom
-
 ![](images/946aeda0ef622e8471fbd9f11c54e88893d58030facc52c6b5f81fd1043ffa71.webp)
 
 # Diagnosis Procedures
@@ -9135,8 +8854,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 ![](images/522286b41e6cb0345c54f79a78c4140e309c45ca3987ab890eb2225448b49a63.webp)
 
 # Fuel Rail Pressure Sensor Malfunction (Out of Range, ADC or Vref)
-
-# Trouble Code and Symptom
 
 ![](images/b9e0740e08cff20ac4671a6d59bc3bc6fdb084d004d7b05dde29ac79013eafef.webp)
 
@@ -9149,8 +8866,6 @@ Diagnosis Procedures (High Pressyre Fuel System)
 ![](images/c3bbce2accfd22337cb13b733412464e1bb0e0174032b6a154cf789fd6dce893.webp)
 
 # Fuel Rail Pressure Sensor Malfunction (Out of Range when Key ON)
-
-# Trouble Code and Symptom
 
 ![](images/cd7776ff7d193ce3202c08aa327d1470910caf5faf367b9091f33a5e3bcb058a.webp)
 
@@ -9236,8 +8951,6 @@ Turbo Charger Actuator Operation Fault (signal)
 
 # ECU Watchdog Fault (Injector Cut-off)
 
-# Trouble Code and Symptom
-
 ![](images/ee0e9f2c5246bb5dbb2f0395b8035edf4acc20fdde5c337251a8f33365cf7727.webp)
 
 # Diagnosis Procedures
@@ -9247,8 +8960,6 @@ Turbo Charger Actuator Operation Fault (signal)
 ![](images/4089dd7a59fdf2ada5beea03fd84b482b127304619160c96bc1b454291e8a6a7.webp)
 
 # ECU Watchdog Fault (Watchdog Trip)
-
-# Trouble Code and Symptom
 
 ![](images/e6dfa90bef46f7bb582f5c9b13f92ce55df87747d8ac6197cf17ab208fec676a.webp)
 
@@ -9269,8 +8980,6 @@ Turbo Charger Actuator Operation Fault (signal)
 ![](images/9c9bba853fd7cba2ea3303493a4171a370cb63d1ff169553fd6202c3df7350b1.webp)
 
 # ECU Memory Integration Fault
-
-# Trouble Code and Symptom
 
 ![](images/33f7856e18f84aa8988a9f0406ab07b9098cc5e6d8c4e2f2bf6415290b89b7a6.webp)
 
@@ -9353,8 +9062,6 @@ Diagnosis Procedures(Check sensor (1))
 
 # Glow Plug Module Communication Fault
 
-# Trouble Code and Symptom
-
 ![](images/6ccf2a350b89e84086cd90bf69a687fe6d94f1ea5c251c14876fd84f5aed38d8.webp)
 
 # Diagnosis Procedures
@@ -9365,8 +9072,6 @@ Diagnosis Procedures(Check sensor (1))
 
 # Glow Plug Module Circuit Malfunction - Open
 
-# Trouble Code and Symptom
-
 ![](images/32750a7e694defbbcaaa1afbafef6ebbba9070d709c71fc090ae2a9ff65e7e06.webp)
 
 # Diagnosis Procedures
@@ -9376,8 +9081,6 @@ Diagnosis Procedures(Check sensor (1))
 ![](images/01aedc22445339a51e29fd9d5b9f1d8caa459f43a72b92d7861c73bbddf8aa79.webp)
 
 # Glow Plug Module Circuit Malfunction - Short (B+)
-
-# Trouble Code and Symptom
 
 ![](images/f92f15ef50acfbca538b5543130f073e7f0cddbc957caf46721d0ee972a1f2e3.webp)
 
@@ -9398,8 +9101,6 @@ Diagnosis Procedures(Check sensor (1))
 ![](images/f98e91c2cf0e7dacaa6855175d05b4d0d70e9b0f708ae974d59a394bde8872ff.webp)
 
 # Air Conditioner Operating Circuit Fault
-
-# Trouble Code and Symptom
 
 ![](images/9d6033608921af1d9c32035d671a6e488b88c60473251f0152aabf299634cba4.webp)
 
@@ -9439,8 +9140,6 @@ Fuel system check process DI10-184
 ![](images/71df3fe68ee5385e063b3c2ddb2a9b966c754ec20a07dc9c4e6a5559ce3eae12.webp)
 
 # FUEL SYSTEM DIAGNOSIS
-
-# OVERVIEW
 
 When the Diagnostic Trouble Code (DTC) is detected through scan tool, it's necessary to check the transfer and hig ressure fuel lines in fuel system before replacing the components.
 
@@ -9545,8 +9244,6 @@ Enter new injector C2I data into ECU Enter new injector C2I data into ECU after 
 
 # 4-1. High Pressure System Pressure Test
 
-# Fuel Rail Pressure Test
-
 1. Disconnect the fuel rail pressure sensor connector and IMV connector.
 
 ![](images/b12ef1af020f1829c8da89baa2102d427625875b3ab90c422ce5eb357283b4d8.webp)
@@ -9578,8 +9275,6 @@ The fuel rail pressure can be measured through the scan tool.
 ![](images/0c364d65fe2d8282545a31734d560d6954ca7bdc53a3e1a0548e295a80813d25.webp)
 
 # 4-2. Transfer Fuel System Test
-
-# Test Procedures
 
 1. All wiring harnesses, connectors and fuel lines should be installed properly and the engine should be ready to start.
 
@@ -9618,8 +9313,6 @@ Install the hoses from back leak test containers to return nipples of injector.
 ![](images/f1fa920b557ad17d2330abc497f270cd2f29b2c2f4d8845b2a467f6180cac690.webp)
 
 20cm 20cm , Y220_10079
-
-# Note
 
 # If the measured value is out of specified value, replace the injector.
 
@@ -9727,12 +9420,10 @@ FACSIMILE :82-31-610-3762
 
 NOTE: All rights reserved. Printed in SSANGYONG Motor Co., Ltd. No part of this book may be used or reproduced without the written permission of International A/S Team.
 ### ENGINE SERVICE MANUAL
-`ssangyong_rexton_en_f8c0a34a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 ![](images/676f644fa2aa7be89aa761fbcf786af5065c8290e5b354532ff7bbec44b2d67a.webp)
 
 
 ### CONTENTS
-`ssangyong_rexton_en_06c88414` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:2 | doc_type:owners_manual
 GENEL O.DI0   
 ENGINE ASSEMBLY .. I1   
 ENGINE HSING.. . I02   
@@ -9747,7 +9438,6 @@ DIAGNIS .. 10
 
 
 ### Table of Contents
-`ssangyong_rexton_en_4b715cda` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:3 | doc_type:owners_manual
 CLEANNESS DIOA-3   
 STRUCTURE DIOA-8   
 ENG IN COTLS  M-1   
@@ -9782,7 +9472,6 @@ bolts.. DI0A-37
 
 
 ### Cleanness of DI Engine Fuel System and Service Procedures
-`ssangyong_rexton_en_f5cd52dd` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:4 | doc_type:owners_manual
 The fuel system for Dl engine consists of transfer (low pressure) line and high pressure line. Its highest pressure reaches over 1600 bar. Some components in injector and HP pump are machined at the micrometer 100 um of preciseness. The pressure regulation and injector operation are done by electric source from engine ECU. Accordingly, if the internal valve is stucked due to foreign materials, injector remains open. Even in this case, the HP pump stil operates to supply high pressurized fuel. This increases the pressure to combustion chamber (over 250 bar) and may cause fatal damage to engine.
 
 You can compare the thickness of injector nozzle hole and hair as shown in below figure (left side). The right side figure shows the clearance between internal operating elements.
@@ -9797,7 +9486,6 @@ The core elements of fuel system has very high preciseness that is easily affect
 
 
 ### Job procedures
-`ssangyong_rexton_en_6bb765bf` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:5 | doc_type:owners_manual
 1. Always keep the workshop and lift clean (especially, from dust).
 
 Always keep the tools clean (from oil or foreign materials).
@@ -9820,7 +9508,6 @@ injector, including return line), follow the step 1 through step 3 above.
 
 
 ### Notice
-`ssangyong_rexton_en_79a194f9` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:6 | doc_type:owners_manual
 Clean the engine compartment before starting service works.
 
 ![](images/4fdca1d205b650207795219b8cfc38d34077de5042aa6348fb053534973c5d6a.webp)
@@ -9850,39 +9537,35 @@ Plug the disconnected parts with sealing caps, and remove the caps immediately b
 9. To supply the fuel to transfer line of HP pump press the priming pump until it becomes hard.
 
 
-### Warning
-`ssangyong_rexton_en_c49efc62` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:7 | doc_type:owners_manual
-Do not crank engine before having filled pump.
-
-O SCAN - 100 FUNCTION SELECTION   
-REXTON ECU DSL D27DT   
-1] TROUBLE CODE   
-21 DATA LIST   
-3] ACTUATOR   
-4] TROUBLE CODE CLEAR   
-5] ECU IDENTIFICATION   
-6] INJECTOR(C2I) CORRECTIONS   
-7] LEAK DETECTION   
-8ARIANT CODIN   
-9] ECU REPLACE Select one of the above items Y220_0A042   
-10. Check the installed components again and connect the negative battery cable. Start the engine and check the operating status.   
-11.With Scan-i, check if there are current faults and erase the history faults.
-
-Note For details, refer to “Dl10 Diagnosis teable".
-
-![](images/bd1da9e5ffa7f72202f53b0338241c5102b69cd933a79985d5fbd380c31c8b74.webp)
-
-DI Engine and Its Expected Problems and Remedies Can be Caused by Water in Fuel
+> ⚠️ **Внимание:** Do not crank engine before having filled pump.
+>
+> O SCAN - 100 FUNCTION SELECTION   
+> REXTON ECU DSL D27DT   
+> 1] TROUBLE CODE   
+> 21 DATA LIST   
+> 3] ACTUATOR   
+> 4] TROUBLE CODE CLEAR   
+> 5] ECU IDENTIFICATION   
+> 6] INJECTOR(C2I) CORRECTIONS   
+> 7] LEAK DETECTION   
+> 8ARIANT CODIN   
+> 9] ECU REPLACE Select one of the above items Y220_0A042   
+> 10. Check the installed components again and connect the negative battery cable. Start the engine and check the operating status.   
+> 11.With Scan-i, check if there are current faults and erase the history faults.
+>
+> Note For details, refer to “Dl10 Diagnosis teable".
+>
+> ![](images/bd1da9e5ffa7f72202f53b0338241c5102b69cd933a79985d5fbd380c31c8b74.webp)
+>
+> DI Engine and Its Expected Problems and Remedies Can be Caused by Water in Fuel
 
 
 ### SYSTEM SUPPLEMENT AGAINST PARAFFIN SEPARATION.
-`ssangyong_rexton_en_7504dacb` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:8 | doc_type:owners_manual
 In case of Diesel fuel, parafin, one of the elements, can be separated from fuel during winter and then can stick on the fuel filter blocking fuel flow and causing dificult starting finally. Oil companies supply summer fuel and winter fuel by differentiating mixing ratio of kerosene and other elements by region and season. However, above phenomenon can be happened if stations have poor facilities or sellimproper fuel for the season.   
 In case of DI engine, purity of fuel is very important factor to keep internal preciseness of HP pump and injector. Accordingly, more dense mesh than conventional fuel fiter is used. To prevent fuelfiter internal clogging due to parafin separation, SYMC is using fuel line that high pressure and temperature fuel injected by injector returns through fuel filter to have an effect of built-in heater (see fuel system).
 
 
 ### SYSTEM SUPPLEMENT AND REMEDY AGAINST WATER IN FUEL
-`ssangyong_rexton_en_1f7a635f` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:9 | doc_type:owners_manual
 As mentioned above, some gas stations supply fuel with excessive than specified water. In the conventional IDI engine, excessive water in the fuel only causes dropping engine power or engine hunting. However, fuel system in the DI engine consists of precise components so water in the fuel can cause malfunctions of HP pump due to poor lubrication of pump caused by poor coating film during high speed pumping and bacterization (under long period parking). To prevent problems can be caused by excessive water in fuel, water separator is installed inside of fuel filter. When fuel is passing filter, water that has relatively bigger specific gravity is accumulated on the bottom of the filter.
 
 ![](images/b5866f517caee463e98ec41dd0bd86bcb44c4c6e5ca03f35ffbbb8af4aa06887.webp)
@@ -9893,7 +9576,6 @@ If water in the separator on the fuel fiter exceeds a certain level, it wil be s
 
 
 ### Front view
-`ssangyong_rexton_en_9a945c23` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:10 | doc_type:owners_manual
 ![](images/a2415358f50c7d5d5a5c40e872addfc4d3ab07227dbeb905d4faf804c24e30b2.webp)
 
 Y220_0A001
@@ -9932,7 +9614,6 @@ Y220_0A001
 
 
 ### Top view
-`ssangyong_rexton_en_8f91f0ce` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:11 | doc_type:owners_manual
 ![](images/1ba9587de37ab66850874c3faddb766a830bd7623174186e3860d5214be1d397.webp)
 
 Y220_0A002
@@ -9981,14 +9662,12 @@ Y220_0A003
 
 
 ### ECU RELATED COMPONENTS
-`ssangyong_rexton_en_d5b6e2c5` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:12 | doc_type:owners_manual
 ![](images/331d5f2f496dbc544f6485fc9ec2dc4f185490ced79c2696a1b9508585e73f1d.webp)
 
 ![](images/4b9c531920005af526d8c8776a11e2ca375240bdbd89390ee19a227d2c3c6e0e.webp)
 
 
 ### ENGINE AND SENSORS
-`ssangyong_rexton_en_497f2445` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:13 | doc_type:owners_manual
 ![](images/6e7eeb14aaf20443ca87dbdcabb5cd4c57fd05894430985aee83050152c1347c.webp)
 
 Y220_0A005
@@ -9997,21 +9676,18 @@ Y220_0A005
 
 
 ### ELECTRICAL COMPONENTS AND PRE HEATING SYSTEM
-`ssangyong_rexton_en_072d3116` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:14 | doc_type:owners_manual
 ![](images/77abb0549e95a4619698e92e5e5968cdeba1581c86e5dbd48bfa78dd1f367bb6.webp)
 
 ![](images/491a81082f8eef904a556c3cf7acf3d1e85507fc108bd58afa875aeccaa155b6.webp)
 
 
 ### INTAKE SYSTEM
-`ssangyong_rexton_en_c7c0474f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:15 | doc_type:owners_manual
 ![](images/2f0078b0f94e801c64fe7047d73bc85e947b85a1bdf22aef5b2a7b674682bf7f.webp)
 
 ![](images/f27c239d301af145dc67f25ff225318c844b0f1e1c3e212dca680269d131fdc4.webp)
 
 
 ### INTAKE AIR FLOW CHART
-`ssangyong_rexton_en_e4069498` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:16 | doc_type:owners_manual
 ![](images/4f636625cafd46ad92a88697b6ad8e4ec469f4ae010753db10cd14f22e9032b8.webp)
 
 Y220_0A008
@@ -10024,7 +9700,6 @@ Y220_0A008
 
 
 ### EXHAUST AIR FLOW CHART
-`ssangyong_rexton_en_f3f3979c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:17 | doc_type:owners_manual
 ![](images/f251df62ff5435ce075b1b33154af579967457e021e8ef3aa5f1bb9721b2716a.webp)
 
 Y220_0A010
@@ -10033,7 +9708,6 @@ Y220_0A010
 
 
 ### LUBRICATION SYSTEM
-`ssangyong_rexton_en_6c6bd4b5` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:18 | doc_type:owners_manual
 ![](images/4fe78db9c1e2ff5cd393c55fadc66f009821a044175478e36d387a32aedc91b9.webp)
 
 ![](images/2b1fb1fec228b08afb04daee60e4ad83cb9b176f73a91d82a6a2b95e6c89959c.webp)
@@ -10044,7 +9718,6 @@ Y220_0A010
 
 
 ### COOLANT FLOW CHART
-`ssangyong_rexton_en_cb8fb732` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:19 | doc_type:owners_manual
 ![](images/50bd02f4cc264a27ca2d29b41a8981461648e9eaae13667e1d952aa50d716d88.webp)
 
 Y220_0A014
@@ -10053,14 +9726,12 @@ Y220_0A014
 
 
 ### FUEL SYSTEM
-`ssangyong_rexton_en_f68c72be` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:20 | doc_type:owners_manual
 ![](images/320f74516d08031dc777f9a8a93809967b893fdcb63c08796581a95a5c4c2a73.webp)
 
 ![](images/486448b3c3cf3d57f25dfeea6cce31992e1a6a022c176281271d057272bc6a72.webp)
 
 
 ### FUEL SUPPLY SYSTEM
-`ssangyong_rexton_en_be1d402c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:21 | doc_type:owners_manual
 ![](images/ecd25201e8cda005101d5a88ac95a0d08498b5b0b3cbfc39272b5f966efd6e0a.webp)
 
 Components:
@@ -10077,7 +9748,6 @@ ECU receives signals from sensors via dataline and then performs effective engin
 
 
 ### VEHICLE SPECIFICATIONS
-`ssangyong_rexton_en_c926cf90` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:22 | doc_type:owners_manual
 Vehicle Dimension
 
 ![](images/822574b4efff72fc7c9f3d76d5970958c4bdce8c8c0e302f497ab818dbb94a32.webp)
@@ -10088,21 +9758,18 @@ Y220_0A017
 
 
 ### Specifications
-`ssangyong_rexton_en_eee00d17` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:23 | doc_type:owners_manual
 ![](images/8ade26ce9edaa9df8cfec770ed319d7844925ea8cfee45b8b907b7c069098393.webp)
 
 ![](images/e910b43b685414ac181d05d593b01373409820a63ee8388e918e45de3f3da14f.webp)
 
 
 ### Specifications (Cont'd)
-`ssangyong_rexton_en_d7f3e159` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:24 | doc_type:owners_manual
 ![](images/b1fe50a94c230b2943ba70774bc0c443aeffcd94f7791d12d8f2c1fb6c660b60.webp)
 
 ![](images/4f707c0b1236c729f57aba26fb97a6fe750f7fce37bc1bc18c78f003400eb208.webp)
 
 
 ### Major Components and Service Interval
-`ssangyong_rexton_en_af4e6ac8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:25 | doc_type:owners_manual
 \* Use only Ssangyong Genuine Parts.   
 ![](images/db99772592a9d924e0fe319fe982604960131ba4d630cb464a8e5eaa12c525f0.webp)
 
@@ -10110,7 +9777,6 @@ Y220_0A017
 
 
 ### Lubrication Chart
-`ssangyong_rexton_en_a16c9888` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:26 | doc_type:owners_manual
 ![](images/f65c9d49f614fc9be9befe3f76363cc159105f5ad0e5d2d4eeca483a42ec37fb.webp)
 \*Please contact Ssangyong Dealer for approved alternative fluid. \* In only case not available MB 229.1 or 229.3, APl or ACEA oil may be accepted, however it would rather recommend to shorten the change interval around 30%.
 
@@ -10120,12 +9786,10 @@ IDI: Indirect Injection DI: Direct Injection
 
 
 ### 1. Vehicle identification Number
-`ssangyong_rexton_en_f78c66a7` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:27 | doc_type:owners_manual
 Vehicle identification number (VIN) is is on the right front axle upper frame.
 
 
 ### [KPTPOA19S1P 122357]
-`ssangyong_rexton_en_4dcadadc` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:28 | doc_type:owners_manual
 K.. Nation (K: Korea)   
 P .. Maker Identification (P: Ssangyong Motor Company)   
 т.. Vehicle Type (T: Passenger car - 4WD)   
@@ -10143,7 +9807,6 @@ P.. Plant Code (P: Pyungtaek plant)
 
 
 ### . Certification Label
-`ssangyong_rexton_en_713edcd7` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:29 | doc_type:owners_manual
 The certification label is affixed on the bottom of driver's side B-pillar.
 
 ![](images/49ba8b3d1830777391d0d181793715ecb312e34c7bda0182ff764d6188c82713.webp)
@@ -10152,26 +9815,22 @@ The certification label is affixed on the bottom of driver's side B-pillar.
 
 
 ### 3. Engine Serial Number
-`ssangyong_rexton_en_9910bc59` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:30 | doc_type:owners_manual
 The engine serial number is stamped on the lower area of cylinder block in exhaust manifold side.
 
 ![](images/3f8efd5bac184c4af0ab1520f1664a033c8b00a92faa2e2110708110c6a79bbe.webp)
 
 
 ### 4. Manual Transmission Number
-`ssangyong_rexton_en_2046f819` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:31 | doc_type:owners_manual
 The transmission label is affixed on the upper area of clutch housing.
 
 
 ### 5. Automatic Transmission Number
-`ssangyong_rexton_en_97d45947` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:32 | doc_type:owners_manual
 The transmisson label is affixed on the right area of transmission housing.
 
 ![](images/f02d9136d994b6312acda689405ccbe7a38585eb7fb09dfa7807a32187d49397.webp)
 
 
 ### 6. Transfer Case Number
-`ssangyong_rexton_en_6a48d456` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:33 | doc_type:owners_manual
 The transfer case label is affixed on the transfer case housing.
 
 ![](images/03c0cecf24b2b30be00e2ead4ae6dc17642ae479787493a2589c5c19dc075793.webp)
@@ -10182,17 +9841,14 @@ Y220_0A022
 
 
 ### CONSISTS OF WORKSHOP MANUAL
-`ssangyong_rexton_en_660a2d98` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:34 | doc_type:owners_manual
 1. Group: The manual is divided in large group like engine, transmission, axle and others and this group is also divided in small group by vehicle state. Small group: Each small group consists of general, vehicle service, unit repair and special tool usage.
 
 
 ### MANUAL DESCRIPTION
-`ssangyong_rexton_en_ddaba61c` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:35 | doc_type:owners_manual
 •The contents of the manual consist of operational principle of system, specifications, diagnosis, removal/ installation on vehicle, inspections, disassembly/ assembly of removed assembly, special tool usage. Not providing simple removal/installation information but focused on to describe much more functions, roles and principles of system. •Every automotive term like part name on the manual is the same in parts catalog, technical bulletin and drawings to avoid confusion among them.
 
 
 ### Consists of Smal Group
-`ssangyong_rexton_en_aa06ed6d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:36 | doc_type:owners_manual
 1. Contents: In small group, included subjects and detailed subjects are described in.
 
 General: In the general, summary of the small group (assembly), function and operational principle, specifications, structure and components, diagnosis and circuit diagram are described in.
@@ -10207,7 +9863,6 @@ General: In the general, summary of the small group (assembly), function and ope
 
 
 ### GUIDELINES FOR SERVICE WORK SAFETY
-`ssangyong_rexton_en_8786a8bb` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:37 | doc_type:owners_manual
 General
 
 ![](images/053a8f613ebd65f57a63630038ea3584cb1e5d86a89934df247398d48f50db5b.webp)
@@ -10218,19 +9873,16 @@ Accordingly, the purpose of this manual is to prevent differences that can be ca
 
 
 ### Note, Notice
-`ssangyong_rexton_en_fbe7de00` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:38 | doc_type:owners_manual
 While using this manual, there are a lot of Note or Notice having below meaning.
 
 
 ### Notice
-`ssangyong_rexton_en_b6eafae9` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:39 | doc_type:owners_manual
 Notice means precautions on tool/device or part damages or personal injuries that can occur during service works.
 
 However, above references and cautions cannot be inclusive measures, so should have habits of taking concerns and cautions based on common senses.
 
 
 ### Notice
-`ssangyong_rexton_en_015ca081` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:40 | doc_type:owners_manual
 During service works, be sure to observe below general items for your safety.
 
 •For service works, be sure to disconnect battery   
@@ -10255,12 +9907,10 @@ While connecting the battery terminals, be cautious of polarities (+, –) not t
 
 
 ### Guidelines on Engine Service
-`ssangyong_rexton_en_02842c5a` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:41 | doc_type:owners_manual
 To prevent personal injuries and vehicle damages that can be caused by mistakes during engine and unit inspection/ repair and to secure optimum engine performance and safety after service works, basic cautions and service work guidelines that can be easily forgotten during engine service works are described in.
 
 
 ### Cautions before service works
-`ssangyong_rexton_en_28edbbac` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:42 | doc_type:owners_manual
 •Before work on engine and each electrical equipment, be sure to disconnect battery negative (-) terminal.   
 Before service works, be sure to prepare the works by cleaning and aligning work areas.   
 •Always position the ignition switch to OFF if not required. If not, there can be electrical equipment damages or personal injuries due to short-circuit or ground by mistake.   
@@ -10269,7 +9919,6 @@ Before service works, be sure to prepare the works by cleaning and aligning work
 
 
 ### Engine and accessories
-`ssangyong_rexton_en_12c399ae` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:43 | doc_type:owners_manual
 Engine has a lot of precise portions so tightening torque should be correct during disassembly/assembly and removal/installation and service work should be done in clean ways during disassembly/assembly.
 
 Maintaining working area clean and cautious service administration is essential element of service works while working on the engine and each section of the vehicle. So the mechanics should well aware of it.
@@ -10278,7 +9927,6 @@ Maintaining working area clean and cautious service administration is essential 
 
 
 ### Fuel and lubrication system
-`ssangyong_rexton_en_1630d672` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:44 | doc_type:owners_manual
 Painted surface of the body can be damaged or rubber products (hoes) can be corroded if engine oil and fuel are spilled over. If spilled over engine, foreign materials in air can be accumulated on the engine damaging fuel system.
 
 If work on the fluid system such as fuel and oil, working area should be well ventilated and mechanic should not smoke.   
@@ -10289,7 +9937,6 @@ If fine dust or foreign material enters into DI engine's fuel system, there can 
 
 
 ### Electrical equipment
-`ssangyong_rexton_en_86eb088d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:45 | doc_type:owners_manual
 Electrical equipment should be handled more carefully. Currently, the engine is equipped with a lot of electrical equipments so there can be engine performance drops, incomplete combustion and other abnormals due to short and poor contact. Mechanics should well aware of vehicle's electrical equipment.
 
 •If have to work on the electrical equipment, be sure to disconnect battery negative (-) terminal and position the ignition switch to offif not required. •When replacing electrical equipment, use the same genuine part and be sure to check whether ground or connecting portions are correctly connected during instalation. If ground or connecting portion is loosened, there can be vehicle fire or personal injury.
@@ -10298,7 +9945,6 @@ Electrical equipment should be handled more carefully. Currently, the engine is 
 
 
 ### During Service Work - Inspection
-`ssangyong_rexton_en_781bf269` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:46 | doc_type:owners_manual
 Before lifting up the vehicle with lift, correctly support the lifting points and lift up. When using a jack, park the vehicle on the level ground and block front and rear wheels. Position the jack under the frame and lift up the vehicle and then support with chassis stand before service work.
 
 ![](images/9c74d1fa458f3ebf3177a76d7ec9dd95da1bfbc181ab210e75e4cd5e82447740.webp)
@@ -10337,7 +9983,6 @@ Y220_0A028
 
 
 ### Notice
-`ssangyong_rexton_en_556d8e86` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:47 | doc_type:owners_manual
 Be careful not to modify or alter electrical system and electrical device. Or there can be vehicle fire or serious damage.
 
 Be sure to disconnect battery negative (-) terminal during every service work. Before disconnecting battery negative (-) terminal, turn off ignition key.   
@@ -10355,39 +10000,31 @@ Replace with specified capacity of fuse if there is bad, blown or short circuite
 
 
 ### 1. 4-post lift
-`ssangyong_rexton_en_35560149` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:48 | doc_type:owners_manual
 Asilustrated, position the vehicle on the 4-post ift securely and block the front and rear of each tire not to move during working.
 
 
 ### Notice
-`ssangyong_rexton_en_53af6df7` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:49 | doc_type:owners_manual
 During lifting, be sure to check whether vehicle is empty.
 
 Board-on lift connection device installed in front of vehicle should be positioned in front of sillocating under the front door.   
 Installift connecting device on the edge of front and rear of board-on lift.
 
 
-### Warning
-`ssangyong_rexton_en_8acee14c` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:50 | doc_type:owners_manual
-Be sure to use attachment during lifting to prevent the lift from contacting with body floor. While lifting the vehicle, widen thelif floor as far as possible to stabilize between vehicle front and rear. When fixing the lif floor, be careful not to contact with brake tube and fuel lines.
+> ⚠️ **Внимание:** Be sure to use attachment during lifting to prevent the lift from contacting with body floor. While lifting the vehicle, widen thelif floor as far as possible to stabilize between vehicle front and rear. When fixing the lif floor, be careful not to contact with brake tube and fuel lines.
 
 
 ### 2. Safety jack and safety stand
-`ssangyong_rexton_en_483d9327` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:51 | doc_type:owners_manual
 If lift up the vehicle with safety jack and stand, should be more careful during works.
 
 
-### Warning
-`ssangyong_rexton_en_cb32d5fe` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:52 | doc_type:owners_manual
-•Never be under the vehicle if supported with only jack. If have to be under the vehicle, be sure to use safety block. •Use wheel block in front and rear of every wheel.
-
-![](images/2b91e4505b5df3160281eb320c1437c92fe9063abc22a3665474f55a8a59cb28.webp)
-
-![](images/9024c31f11373caf53d71d64d641a26040cdaba8bb994b10aacb57caf7b76553.webp)
+> ⚠️ **Внимание:** •Never be under the vehicle if supported with only jack. If have to be under the vehicle, be sure to use safety block. •Use wheel block in front and rear of every wheel.
+>
+> ![](images/2b91e4505b5df3160281eb320c1437c92fe9063abc22a3665474f55a8a59cb28.webp)
+>
+> ![](images/9024c31f11373caf53d71d64d641a26040cdaba8bb994b10aacb57caf7b76553.webp)
 
 
 ### Tightening Torque By Bolt Specification
-`ssangyong_rexton_en_0d20cccb` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:53 | doc_type:owners_manual
 ![](images/50926165c1562ed5da45e84adefb6872eaabf61ec0e23f03aab95a18005a73c2.webp)
 
 ![](images/46d94782d13e2291826cde4c0e47edf476f5a9caf6530e3db2136d4faa300931.webp)
@@ -10410,14 +10047,12 @@ Aluminum alloy: Tighten to 80 % of above torque table. •Plastics: Tighten to 2
 
 
 ### STRUCTURE AND FUNCTION DESCRIPTIONS ... DI01-3
-`ssangyong_rexton_en_698ba885` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:54 | doc_type:owners_manual
 D27DT engine DI01-3   
 Engine performance curve. DI01-8   
 General diagnosis.. DI01-10
 
 
 ### DIAGNOSTIC INFORMATION AND PROCEDURE .. DI01-15
-`ssangyong_rexton_en_6873654d` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:55 | doc_type:owners_manual
 Oil leak diagnosis. DI01-15   
 Compression pressure test DI01-16   
 Cylinder pressure leakage test DI01-18   
@@ -10425,14 +10060,12 @@ Tightening torque. DI01-19
 
 
 ### DISASSEMBLY AND REASSEM.BLY  M01-32
-`ssangyong_rexton_en_887eece9` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:56 | doc_type:owners_manual
 Components and special tools . DI01-32
 
 ![](images/bac45d9211b50a2a2342651947ecc16a4839332e4a999df8c2b93a52978f08a9.webp)
 
 
 ### Major Components in Engine and Engine Compartment
-`ssangyong_rexton_en_b0f170cb` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:57 | doc_type:owners_manual
 The advanced electronically controlled D27DT engine that has high pressure fuel system has been introduced to this vehicle. It satisfies the strict emission regulation and provides improved output and maximum torque.
 
 ![](images/3f8087cb0aea0d7569d20701d0dd4e3048cd889e75a7e376272aa3c24ad587dd.webp)
@@ -10449,7 +10082,6 @@ Y220_01001
 
 
 ### Engine Structure
-`ssangyong_rexton_en_36841861` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:58 | doc_type:owners_manual
 ![](images/4894ec5caa3c5becd9ae8520211d261c133fe33d0a91fde71f34546df2a24518.webp)
 
 Y220_01002
@@ -10516,14 +10148,12 @@ modulator
 
 
 ### Specifications
-`ssangyong_rexton_en_0b459a4b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:59 | doc_type:owners_manual
 ![](images/7eb41ba2e65b42b4ce77ed33d0d54db33b56eac32377ed466c6903ec0a84d771.webp)
 
 ![](images/9eb62504151e33fa71d1ac45426a26bcd6b0bfdc9f1e728f5e5c7b1bfd452d39.webp)
 
 
 ### ENGINE PERFORMANCE CURVE
-`ssangyong_rexton_en_344d310f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:60 | doc_type:owners_manual
 Output and Torque
 
 ![](images/2f40723a8d37334724f08d4ddf71e6d7f77c0094738cdaf0b0960961adf6d857.webp)
@@ -10534,7 +10164,6 @@ Y220_00025
 
 
 ### Oil Temperature/Pressure and Boost Pressure
-`ssangyong_rexton_en_baf9a839` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:61 | doc_type:owners_manual
 ![](images/4ae221e7f454d08a4c44d7bc384b8518b0b3ca1ac6bbdcc2311de87d28383477.webp)
 
 Y220_00026
@@ -10543,47 +10172,40 @@ Y220_00026
 
 
 ### GENERAL DIAGNOSIS
-`ssangyong_rexton_en_05bab6d1` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:62 | doc_type:owners_manual
 ![](images/591f6675e5a7003c656bea107a2841f143d7ead05a64e03ef136bc6308090bf4.webp)
 
 ![](images/8ac84400212d9b58e3c164a10dd3a025de150de72dc02f4f3ac9e4475a6309d6.webp)
 
 
 ### GENERAL DIAGNOSIS (Cont'd)
-`ssangyong_rexton_en_f7381ee3` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:63 | doc_type:owners_manual
 ![](images/12eb1be7409ea21f5a25286ff589c59145f619c1ee9f6951b70ffc03b38a9519.webp)
 
 ![](images/a754f70fee7e35600a85ccf8b5ba71ae393de171a6423478a8a021eec1a1a2ff.webp)
 
 
 ### GENERAL DIAGNOSIS (Cont'd)
-`ssangyong_rexton_en_78ba0735` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:64 | doc_type:owners_manual
 ![](images/48c2bd6bdc5f4e36255f1884318ae5930c1dbc0a2e37c860a8e3a18ca83254de.webp)
 
 ![](images/b6f38378e0d569d3d437cd8a7f9820453cb19c620dfdb94911e705f3920e6f54.webp)
 
 
 ### GENERAL DIAGNOSIS (Cont'd)
-`ssangyong_rexton_en_4ef86032` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:65 | doc_type:owners_manual
 ![](images/e4f071d6f83db086421d4b360ab1a659bb56621111c12f051175562892987048.webp)
 
 ![](images/f80385c6b31a033ec538cdc1c59760bb16042a65de3128bd16dc936c2d1afdb5.webp)
 
 
 ### GENERAL DIAGNOSIS (Cont'd)
-`ssangyong_rexton_en_3ff9912b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:66 | doc_type:owners_manual
 ![](images/2cfcc45e64751f6591f745403a9adc991f5a0fce3a0e8f698666083e74a358ac.webp)
 
 ![](images/8b2a05e35af0c390759659e679f5cc83e06ab8d87edd539e2996d8282c8dc522.webp)
 
 
 ### OIL LEAK DIAGNOSIS
-`ssangyong_rexton_en_4739603c` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:67 | doc_type:owners_manual
 Most fluid oil leaks are easily located and repaired by visually finding the leak and replacing or repairing the necessary parts. On some occasions a fluid leak may be difficult to locate or repair. The following procedures may help you in locating and repairing most leaks.
 
 
 ### Finding the Leak
-`ssangyong_rexton_en_06ee3088` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:68 | doc_type:owners_manual
 Identify the fluid. Determine whether it is engine oil, automatic transmission fluid, power steering fluid, etc.
 
 Identify where the fluid is leaking from.
@@ -10604,7 +10226,6 @@ If the leak still cannot be found, it may be necessary to clean the suspected ar
 
 
 ### Powder Method
-`ssangyong_rexton_en_c8c82d6d` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:69 | doc_type:owners_manual
 1. Clean the suspected area.
 
 Apply an aerosol-type powder (such as foot powder) to the suspected area.   
@@ -10613,7 +10234,6 @@ Apply an aerosol-type powder (such as foot powder) to the suspected area.
 
 
 ### Black Light and Dye Method
-`ssangyong_rexton_en_abaeac25` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:70 | doc_type:owners_manual
 A dye and light kit is available for finding leaks, Refer to the manufacturer's directions when using the kit.
 
 1Pour the specified amount of dye into the engine oil fill tube.   
@@ -10622,12 +10242,10 @@ Operate the vehicle normal operating conditions as directed in the kit.
 
 
 ### Repairing the Leak
-`ssangyong_rexton_en_f4457f3a` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:71 | doc_type:owners_manual
 Once the origin of the leak has been pinpointed and traced back to its source, the cause of the leak must be determined in order for it to be repaired properly. If a gasket is replaced, but the sealing flange is bent, the new gasket will not repair the leak. The bent flange must be repaired also. Before attempting to repair a leak, check for the following conditions and correct them as they may cause a leak.
 
 
 ### Gaskets
-`ssangyong_rexton_en_c7c71028` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:72 | doc_type:owners_manual
 •The fluid level/pressure is too high.   
 •The crankcase ventilation system is malfunctioning.   
 •The fasteners are tightened improperly or the threads are dirty or damaged.   
@@ -10639,7 +10257,6 @@ There are scratches, burrs or other damage to the sealing surface.
 
 
 ### Seals
-`ssangyong_rexton_en_5586b1e6` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:73 | doc_type:owners_manual
 •The fluid level/pressure is too high.   
 •The crankcase ventilation system is malfunctioning.   
 •The seal bore is damaged (scratched, burred or nicked).   
@@ -10653,12 +10270,10 @@ There are scratches, burrs or other damage to the sealing surface.
 
 
 ### COMPRESSION PRESSURE TEST
-`ssangyong_rexton_en_a9be0a78` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:74 | doc_type:owners_manual
 The compression pressure test is to check the conditions of internal components (piston, piston ring, intake an exhaust vale, cylinder head gasket). This test provides current engine operating status.
 
 
 ### Notice
-`ssangyong_rexton_en_b353d97d` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:75 | doc_type:owners_manual
 •Before cranking the engine, make sure that the test wiring, tools and persons are keeping away from moving components of engine (e.g., belt and cooling fan).   
 •Park the vehicle on the level ground and apply the parking brake.   
 •Do not allow anybody to be in front of the vehicle.
@@ -10667,14 +10282,12 @@ The compression pressure test is to check the conditions of internal components 
 
 
 ### Specifications
-`ssangyong_rexton_en_9ae2c69e` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:76 | doc_type:owners_manual
 ![](images/f3992f2f137b09b0498599d25f6a0187a5da0df32a596b7d25df2b565333f13b.webp)
 
 ![](images/cb694116df634f64a5523c13405c57244d2f3f2da362cc891850fabf72a2e778.webp)
 
 
 ### Notice
-`ssangyong_rexton_en_83f0f1f6` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:77 | doc_type:owners_manual
 •Disconnect the fuel rail pressure sensor connector to cut off the fuel injection.   
 Discharge the combustion residues in the cylinders before testing the compression pressure.   
 •Apply the parking brake before cranking the engine.   
@@ -10698,19 +10311,16 @@ Discharge the combustion residues in the cylinders before testing the compressio
 
 
 ### CYLINDER PRESSURE LEAKAGE TEST
-`ssangyong_rexton_en_c57bc7a0` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:78 | doc_type:owners_manual
 ![](images/40e0a74a53931e20939a51be72e8b4af30c3d5fdbe04af6d2f46f9ec62faba4e.webp)
 
 If the measured value of the compression pressure test is not within the specifications, perform the cylinder pressure leakage test.
 
 
 ### Permissible Pressure Leakage
-`ssangyong_rexton_en_6c3eedfa` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:79 | doc_type:owners_manual
 ![](images/503e8a132c6ac3c1dcc907b8a3d89886ca6c4c8d73b4f338a6d94e9bb31a931d.webp)
 
 
 ### Notice
-`ssangyong_rexton_en_930ca3c0` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:80 | doc_type:owners_manual
 Perform the pressure in order: 1- 2- 3- 4 - 5   
 Do not test the cylinder pressure leakage with wet type test procedure. (do not inject the engine oil into the combustion chamber)
 
@@ -10718,7 +10328,6 @@ Do not test the cylinder pressure leakage with wet type test procedure. (do not 
 
 
 ### TIGHTENING TORQUE
-`ssangyong_rexton_en_061baf06` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:81 | doc_type:owners_manual
 ![](images/a52ea73aa034e4e168f99fd1c5c04624aa581d70836fcb98a46a24c0f7285e27.webp)
 
 ![](images/0cc6b6c74c8deecda95043ee07d3a0e9278a9bfaed1e553b269b9cc8cb0e0bf6.webp)
@@ -10733,19 +10342,16 @@ Do not test the cylinder pressure leakage with wet type test procedure. (do not 
 
 
 ### ENGINE MOUNTING
-`ssangyong_rexton_en_b4be2002` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:82 | doc_type:owners_manual
 ![](images/dcedf1ff6a54c2b2de555cf473c8ae9ce42bfd79c63e04c03976abfb20bef147.webp)
 
 
 ### 1. Side Mountings
-`ssangyong_rexton_en_634530fa` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:83 | doc_type:owners_manual
 ![](images/69fbe1ceb125307dbdc4a5c3e1d765e13bb5863d0cfbd661c7c8f694d7ebeff1.webp)
 
 ![](images/0f878e1a91eb2102923158ab99087ec463d6697d944c40791de354ea2ea70bd9.webp)
 
 
 ### Transmission Mounting
-`ssangyong_rexton_en_a6bc2405` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:84 | doc_type:owners_manual
 ![](images/5b8fda64d1c1544397c203b8fe87d7ca33c3c814d54e14d6810a9162dd2e1506.webp)
 
 ![](images/a664aefe22086469646805bbddf923778ab92b96d963a21575620127c8637390.webp)
@@ -10756,7 +10362,6 @@ Do not test the cylinder pressure leakage with wet type test procedure. (do not 
 
 
 ### Notice
-`ssangyong_rexton_en_566bde64` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:85 | doc_type:owners_manual
 Disconnect the negative battery cable before removal.   
 Drain the engine oil.   
 Drain the engine coolant.   
@@ -10766,7 +10371,6 @@ Be careful not to splash the fuel to the vehicle body. It may cause a fire or vu
 
 
 ### Notice
-`ssangyong_rexton_en_9ff22d1b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:86 | doc_type:owners_manual
 If not necessary, place the ignition switch at “OFF" position.
 
 Remove the engine hood assembly.
@@ -10785,7 +10389,6 @@ Note Refer to "Body" section.
 
 
 ### Notice
-`ssangyong_rexton_en_17e0325d` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:87 | doc_type:owners_manual
 1.Be careful not to contact with coolant. If contacted, wash with soap and water to ensure all coolant is removed.   
 Use only designated coolant.   
 3. Open the coolant reservoir cap to help the draining.
@@ -10810,55 +10413,50 @@ Use only designated coolant.
 
 
 ### Notice
-`ssangyong_rexton_en_04b08999` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:88 | doc_type:owners_manual
 Be careful not to damage the rubber hose.
 
 Remove the coolant outlet hose over the radiator.
 
 
 ### Notice
-`ssangyong_rexton_en_bbd10104` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:89 | doc_type:owners_manual
 Be careful not to damage the rubber hose.
 
 Remove the radiator grille and loosen the hose clamp on the outlet port of turbo intercooler.
 
 
-### Note
-`ssangyong_rexton_en_2cd42fd4` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:90 | doc_type:owners_manual
-For the removal and installation of radiator grille, refer to “Cooling System” section.
-
-10Loosen the hose clamp on intake air hose of turbo charger and remove the intake air hose.
-
-11. Separate the outlet hose of oil separator from the intake air hose of turbo charger.   
-12. Loosen the clamp on the intake air duct hose of turbo charger at the air cleaner side and separate the hose from the air cleaner housing.
-
-13. Loosen the clamps and remove the intake air hose from the turbo charger.
-
-![](images/6008a7524930324bd286649529de96960921ea4c3a60cf46c060305713b8b0c8.webp)
-
-14. Loosen the clamp on the inlet hose of intercooler.
-
-![](images/bf71918e814497af9c0759c6f0a2b3622a8b954eda9f6823c97a4010d081058d.webp)
-
-![](images/899055a962dbab4ca21f2ff761626e889f99fd0d0d3e8e2bc618a1a6bcedde9e.webp)
-
-15. Loosen the clamp on the intake manifold and remove the intake air hose.
-
-![](images/ed5a88aba69182e020f511e295f1ddae49c01435d26f7de361be8fb14ba3500e.webp)
-
-16.Remove the exhaust pipe mounting nuts from the turbo charger.
-
-Installation Notice
-
-![](images/7bdd73b9f75a520ce775201b7f7552c685bec5363a8a7971a42fd03e763d0c0e.webp)
-
-![](images/59852841ed9df636efa4389ed9f18b7eca8e7fd86a0820f6dc490127573b3b6f.webp)
-
-17.Remove the power steering inlet pipe and the outlet hose from the power steering pump.
+> ℹ️ **Примечание:** For the removal and installation of radiator grille, refer to “Cooling System” section.
+>
+> 10Loosen the hose clamp on intake air hose of turbo charger and remove the intake air hose.
+>
+> 11. Separate the outlet hose of oil separator from the intake air hose of turbo charger.   
+> 12. Loosen the clamp on the intake air duct hose of turbo charger at the air cleaner side and separate the hose from the air cleaner housing.
+>
+> 13. Loosen the clamps and remove the intake air hose from the turbo charger.
+>
+> ![](images/6008a7524930324bd286649529de96960921ea4c3a60cf46c060305713b8b0c8.webp)
+>
+> 14. Loosen the clamp on the inlet hose of intercooler.
+>
+> ![](images/bf71918e814497af9c0759c6f0a2b3622a8b954eda9f6823c97a4010d081058d.webp)
+>
+> ![](images/899055a962dbab4ca21f2ff761626e889f99fd0d0d3e8e2bc618a1a6bcedde9e.webp)
+>
+> 15. Loosen the clamp on the intake manifold and remove the intake air hose.
+>
+> ![](images/ed5a88aba69182e020f511e295f1ddae49c01435d26f7de361be8fb14ba3500e.webp)
+>
+> 16.Remove the exhaust pipe mounting nuts from the turbo charger.
+>
+> Installation Notice
+>
+> ![](images/7bdd73b9f75a520ce775201b7f7552c685bec5363a8a7971a42fd03e763d0c0e.webp)
+>
+> ![](images/59852841ed9df636efa4389ed9f18b7eca8e7fd86a0820f6dc490127573b3b6f.webp)
+>
+> 17.Remove the power steering inlet pipe and the outlet hose from the power steering pump.
 
 
 ### Plug the openings of hoses and pump with caps not to flow out the oil.
-`ssangyong_rexton_en_0a505ea8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:91 | doc_type:owners_manual
 Installation Notice
 
 ![](images/1d5eba297949ef9314c52b2d47980d4c3bf235d248b5b347efd70b49a1e07847.webp)
@@ -10875,7 +10473,6 @@ Installation Notice
 
 
 ### Notice
-`ssangyong_rexton_en_2ced8380` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:92 | doc_type:owners_manual
 When separating the hoses from the fuel filter, plug the openings with caps so that the contaminants will not get into the fuel system. Mark on all the hoses not to be mixed each other.
 
 20Remove the engine oil heater outlet hose.
@@ -10888,14 +10485,12 @@ When separating the hoses from the fuel filter, plug the openings with caps so t
 
 
 ### Notice
-`ssangyong_rexton_en_52c18fae` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:93 | doc_type:owners_manual
 Make sure to properly tighten the cable nuts when installing. Otherwise, it may cause a poor ground or electric charging problem.
 
 23. Disconnect the “ST” terminal and “+” terminal cables from the starter motor.
 
 
 ### Notice
-`ssangyong_rexton_en_57e5aefa` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:94 | doc_type:owners_manual
 Make sure to properly tighten the cable nuts when installing. Otherwise, it may cause an engine starting problem.
 
 ![](images/db5bed06e92bd7c55d39ffa3eb41abeb9e6aae9a5b1c667832ccde04952ead6e.webp)
@@ -10912,7 +10507,6 @@ Make sure to properly tighten the cable nuts when installing. Otherwise, it may 
 
 
 ### Installation Notice
-`ssangyong_rexton_en_f33b52a8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:95 | doc_type:owners_manual
 ![](images/1419aaad25eb99cb71887a178cb9f517f5373b315ec6eab29299ffdc42a5b535.webp)
 
 ![](images/ba48609a997de11a63960f5cdd900bdd81c234f2d4c1a8cc4c07e3e23b292b99.webp)
@@ -10923,14 +10517,12 @@ Make sure to properly tighten the cable nuts when installing. Otherwise, it may 
 
 
 ### Installation Notice
-`ssangyong_rexton_en_1548595a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:96 | doc_type:owners_manual
 ![](images/5676e53fbb141da61d774d199556c3c30f6b70db31fa8dee16981f0edcf2b47c.webp)
 
 27. Remove the radiator shroud.
 
 
 ### Installation Notice
-`ssangyong_rexton_en_edc7c1a9` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:97 | doc_type:owners_manual
 ![](images/89782af2fa7fa0cfeec80376f44460e9269fd78a6e0ce0a89b6dee857ea592c4.webp)
 
 Take of the fan belt from the engine.
@@ -10939,21 +10531,18 @@ Take of the fan belt from the engine.
 After installation of the fan belt, pump the belt tensioner 3 to 4 times.
 
 
-### Note
-`ssangyong_rexton_en_4012feec` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:98 | doc_type:owners_manual
-![](images/dff901fd02f223eaafa8a2672cae06845f6252459781f00a4b85c23e1fd652a6.webp)
-
-![](images/4a35625d01aaf6050eab8ef5fdc0b69d1e9a8ea96e0bdbfa607854720c3e2cc2.webp)
-
-2.Remove the transmission mounting bolts and separate the engine assembly from the transmission assembly.
-
-![](images/08d6c8117bec1205551717eb170724d40517ad2326e71e4e91c964e3e0ff3cf0.webp)
-
-Y220_01041
+> ℹ️ **Примечание:** ![](images/dff901fd02f223eaafa8a2672cae06845f6252459781f00a4b85c23e1fd652a6.webp)
+>
+> ![](images/4a35625d01aaf6050eab8ef5fdc0b69d1e9a8ea96e0bdbfa607854720c3e2cc2.webp)
+>
+> 2.Remove the transmission mounting bolts and separate the engine assembly from the transmission assembly.
+>
+> ![](images/08d6c8117bec1205551717eb170724d40517ad2326e71e4e91c964e3e0ff3cf0.webp)
+>
+> Y220_01041
 
 
 ### Before unscrewing the transmission mounting bolts, remove the starter motor.
-`ssangyong_rexton_en_7b911d5d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:99 | doc_type:owners_manual
 Installation Notice
 
 ![](images/6ba57655ea6d8a3452380bbbd30eeac1a3acc1dbeee2659726587b911ffe4188.webp)
@@ -10978,21 +10567,18 @@ Y220_01043
 
 
 ### COMPONENTS AND SPECIAL TOOLS
-`ssangyong_rexton_en_3f0d9582` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:100 | doc_type:owners_manual
 ![](images/90a91f4258969d835195cdcb5902bc74ee3607b361fe6e2b394e3faf538820aa.webp)
 
 ![](images/aba270335e72d65acc5d49d7dbfab1c5060ff2c296cd3b97c5646af9972642c4.webp)
 
 
 ### Preparations and Preceding Works
-`ssangyong_rexton_en_1e5d1388` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:101 | doc_type:owners_manual
 1. Remove the cylinder block drain plug and seal and completely drain the residual coolant from the cylinder block.
 
 ![](images/b1f0141a0dfd9041164d024e14146fb807b9aaddf2e57a2d886e5645282cce4f.webp)
 
 
 ### Notice
-`ssangyong_rexton_en_358467e6` | rexton | pdf_manual | tier:2 | lang:en | layer:brakes | p:102 | doc_type:owners_manual
 Replace the seal with new one once removed.
 
 When the fan belt is installed, gently pump the belt shock absorber mounting bolt (M19) 3 times.
@@ -11011,7 +10597,6 @@ Take offthe fan belt while pushing the mounting bolt (M19).
 
 
 ### Accessories - Removal and Installation
-`ssangyong_rexton_en_d94fb870` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:103 | doc_type:owners_manual
 ![](images/4b5758a77c29babfcbbad2041df8642621c9925a3a8c7b36f2cf924f1d9b0030.webp)
 
 ![](images/59b1072528b22ede89726abb1ea51ac5d04ca1918b06596cab0518304792dc57.webp)
@@ -11020,7 +10605,6 @@ The engine accessories can be removed without any specific order. In general, re
 
 
 ### Removal and Installation Order of Major Accessories
-`ssangyong_rexton_en_b6d6d737` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:104 | doc_type:owners_manual
 1. Vacuum Modulator
 
 0
@@ -11084,7 +10668,6 @@ Y220_01051
 
 
 ### Installation Notice
-`ssangyong_rexton_en_23ded527` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:105 | doc_type:owners_manual
 ![](images/32acbccfc2068ecbee5662c30a84ae41badaf5ecf1d78994d5088c6f5000e2c5.webp)
 
 Remove the fuel pipes.
@@ -11095,7 +10678,6 @@ A.Remove the fuel supply pipes between each cylinder and common rail with a spec
 
 
 ### Notice
-`ssangyong_rexton_en_4297ee8a` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:106 | doc_type:owners_manual
 1. Plug the openings of injector nozzle and common rail with sealing caps after removed the fuel pipes.
 
 Replace the pipes with new ones. Be careful not to be mixed the fuel pipes because the pipe appearance of #1 and #3 cylinders and #2 and #4 are same each other.
@@ -11108,7 +10690,6 @@ B.Remove the high fuel pressure pipe mounting bolts with a special tool.
 
 
 ### Installation Notice
-`ssangyong_rexton_en_f8ce0d37` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:107 | doc_type:owners_manual
 ![](images/88c554e9fd66ab9b1b1a7aec00f769114fc0f928f4ec9896c3f3f4a1d94037a4.webp)
 
 C. High fuel pressure supply pipe at HP pump side Installation Notice
@@ -11120,21 +10701,18 @@ C. High fuel pressure supply pipe at HP pump side Installation Notice
 D. Unscrew the bracket mounting bolts and remove the high fuel pressure supply pipes.
 
 
-### Note
-`ssangyong_rexton_en_06fed4dd` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:108 | doc_type:owners_manual
-Special tool: Fuel pipe remover and installer
-
-![](images/ee1ef16d3923e19ad1b723a0a785b5f8b7cd214077a2d55635a66c1c36964a1a.webp)
-
-![](images/41653716bc16adaf51cbc06dadde40f92ad6271a159ce3b8c3bec176b09cb010.webp)
-
-![](images/c98f96aea8dbf53bf9ca1dd3ed7c36058227216292477464fff465c182d5bb85.webp)
-
-.Disconnect the vacuum hoses and module cables from the vacuum modulator.
+> ℹ️ **Примечание:** Special tool: Fuel pipe remover and installer
+>
+> ![](images/ee1ef16d3923e19ad1b723a0a785b5f8b7cd214077a2d55635a66c1c36964a1a.webp)
+>
+> ![](images/41653716bc16adaf51cbc06dadde40f92ad6271a159ce3b8c3bec176b09cb010.webp)
+>
+> ![](images/c98f96aea8dbf53bf9ca1dd3ed7c36058227216292477464fff465c182d5bb85.webp)
+>
+> .Disconnect the vacuum hoses and module cables from the vacuum modulator.
 
 
 ### Notice
-`ssangyong_rexton_en_19c3c89c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:109 | doc_type:owners_manual
 Put the installation marks on the modulator hoses and connectors.
 
 ![](images/2c4e1a933753ebbddcb725ad20d670356a018a3a0d1188dd8aefe87f0f96ef1d.webp)
@@ -11163,21 +10741,18 @@ ARemove the cable assembly from the engine.
 
 
 ### Important
-`ssangyong_rexton_en_3be974c6` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:110 | doc_type:owners_manual
 If possible, remove the cables after removing the fuel pipes. It make the operation easier and protect the cables and connectors.
 
 Remove the cable screws and ground cable, and then remove the engine cable assembly.
 
 
 ### Notice
-`ssangyong_rexton_en_20c659d1` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:111 | doc_type:owners_manual
 •Be careful not to damage the HP pump connecting pipe (venturi) while removing the fuel hose from the HP pump.
 
 4.Disconnect the high and low fuel pressure hoses from the HP pump.
 
 
 ### Notice
-`ssangyong_rexton_en_bedd391b` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:112 | doc_type:owners_manual
 •Be careful not to damage the hose connections. •Plug the openings in HP pump immediately after disconnecting the hoses.
 
 Remove the EGR valve and EGR valve pipe.
@@ -11187,29 +10762,24 @@ B. Unscrew the EGR valve bolts and EGR #1 pipe connecting bolts and remove the E
 
 
 ### Installation Notice
-`ssangyong_rexton_en_218b494e` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:113 | doc_type:owners_manual
 ![](images/2af61283640c8cfa4022c1687fd8f9d3713251d4660da918cc2a8a2ed8595aaf.webp)
 
 C.Remove the EGR valve #1 pipe.
 
 
 ### Installation Notice
-`ssangyong_rexton_en_91418097` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:114 | doc_type:owners_manual
 ![](images/a3b88fcca9da826a31e04712c0863dd390965779d49f6d86542d772504194833.webp)
 
 
 ### The EGR #2 pipe should be replaced with new one.
-`ssangyong_rexton_en_6fa269d7` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:115 | doc_type:owners_manual
 D.Unscrew the EGR valve #3 pipe (2) mounting bolts and remove the pipe from the exhaust manifold.
 
 
 ### Installation Notice
-`ssangyong_rexton_en_5830f706` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:116 | doc_type:owners_manual
 ![](images/331bdd468fd9b2d263874b9855a65a8853dd895e99e1dc7abf2a280c3edcafd4.webp)
 
 
 ### Notice
-`ssangyong_rexton_en_478e8f23` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:117 | doc_type:owners_manual
 1The EGR #3 pipe should be replaced with new one.   
 2 Make sure that the convex surface of new steel gasket is facing to the bolts.
 
@@ -11235,14 +10805,12 @@ B. Remove the oil fiter assembly mounting bolts.
 
 
 ### Notice
-`ssangyong_rexton_en_aa4ebe5e` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:118 | doc_type:owners_manual
 Be careful not to flow out the residual oil from the engine. If flown out, immediately wipe it out.
 
 C. Remove the oil filter assembly from the cylinder block.
 
 
 ### Installation Notice
-`ssangyong_rexton_en_e847d86d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:119 | doc_type:owners_manual
 -Replace the oil filter gasket with new one.
 
 ![](images/1ddbb711268e2e8b1ef586beb2120b61227b7e6d1ca11d11c04da25b7625a56d.webp)
@@ -11261,7 +10829,6 @@ C. Remove the belt tensioning device.
 
 
 ### Notice
-`ssangyong_rexton_en_9aecb50a` | rexton | pdf_manual | tier:2 | lang:en | layer:brakes | p:120 | doc_type:owners_manual
 •To prevent the oil leaks, store the removed shock absorber assembly with standing up. •For air bleeding, pump the shock absorber around 3 times after installation. • Be careful not to damage the rubber parts of the shock absorber when removing. •To prevent the oil leaks, remove the bolts from bottom to top section. On the contrary, when installing, tighten the bolts from top to bottom section.
 
 7. Remove the power steering pump assembly.
@@ -11272,14 +10839,12 @@ A. Remove the power steering pump mounting bolts. Installation Notice
 
 
 ### Notice
-`ssangyong_rexton_en_669932fa` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:121 | doc_type:owners_manual
 Be careful not to flow out the oil.
 
 B. Remove the power steering pump assembly from the engine.
 
 
 ### Notice
-`ssangyong_rexton_en_5fcba3e8` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:122 | doc_type:owners_manual
 To prevent the oil leaks, store the removed power steering pump assembly with standing up.
 
 Remove the air conditioner compressor assembly.
@@ -11288,7 +10853,6 @@ A. Unscrew the bolts and remove the air conditioner compressor assembly.
 
 
 ### Installation Notice
-`ssangyong_rexton_en_a73d4adf` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:123 | doc_type:owners_manual
 ![](images/dce3be77214e61b2957ed1274bbc90b96cdde7c346e4aad34b359d0f8d7a8437.webp)
 
 ![](images/44d35c59bb8844479dce0815b7ce26f16fc8d2c57899884d6b026e7563565e89.webp)
@@ -11309,7 +10873,6 @@ B.Unscrew the bolts and remove the air conditioner mounting bracket.
 
 
 ### Installation Notice
-`ssangyong_rexton_en_97846b60` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:124 | doc_type:owners_manual
 ![](images/f8578642d5f26d4760db6470546e4e3833ec0d0ddf11891837df37f4ef4dc1e6.webp)
 
 Remove the PCV valve assembly.
@@ -11322,7 +10885,6 @@ C. Unscrew the PCV valve mounting bolts and remove the PCV valve assembly.
 
 
 ### Installation Notice
-`ssangyong_rexton_en_f758529a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:125 | doc_type:owners_manual
 ![](images/bb3c52b529f8f543a940e2851498185c8d98d2fd1b212b3e589b8fa95be32afd.webp)
 
 10 Remove the oil dipstick tube assembly.
@@ -11331,14 +10893,12 @@ Unscrew the bracket bolts and remove the dipstick tube with O-ring.
 
 
 ### Installation Notice
-`ssangyong_rexton_en_2384efa7` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:126 | doc_type:owners_manual
 Insert new O-ring into the oil dipstick tube before installation.
 
 ![](images/cd301d808a654b27a5f686cc35e410a48bbd92847afac5a3510eebfcf58ffcd1.webp)
 
 
 ### Installation Notice
-`ssangyong_rexton_en_1b1bf107` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:127 | doc_type:owners_manual
 ![](images/01129a4d2f9cce3acfc639d11894fc494c89f643cc5ca3bc95bdd4b923acbb30.webp)
 
 ![](images/bb543079b75e5747e19e4cb855d2c8054303a8469508358c5851e3f507a6895d.webp)
@@ -11349,14 +10909,12 @@ A. Unscrew the bolts and remove the oil supply pipe.
 
 
 ### Installation Notice
-`ssangyong_rexton_en_5c1117e4` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:128 | doc_type:owners_manual
 ![](images/0d63ed1a4b56dfc8c318de9f576c7296e2842b5ccc805ce9af1e87e687e49178.webp)
 
 B. Unscrew the bolts and remove the oil return pipe.
 
 
 ### Installation Notice
-`ssangyong_rexton_en_ee6fea24` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:129 | doc_type:owners_manual
 ![](images/32eaee2ef649168ae1904e6e71fcf686fe92248d83aa38c99fd756f3efa541e5.webp)
 
 Make sure to install the gasket with correct direction.
@@ -11377,7 +10935,6 @@ D. Unscrew the turbo charger mounting bolts to exhaust manifold.
 
 
 ### Use only 12 1/2 wrench.
-`ssangyong_rexton_en_ec2675ec` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:130 | doc_type:owners_manual
 Installation Notice
 
 ![](images/ad9bf8fa246dc20ebec68f8b9004f7a872139a4c2727f41b5b6840c596dcc672.webp)
@@ -11392,12 +10949,10 @@ Note Alternator Capacity: 140 A
 
 
 ### Installation Notice
-`ssangyong_rexton_en_061b4b8a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:131 | doc_type:owners_manual
 ![](images/ed4f5a507365b30860182c0def2e54cb2c612ed4360e8f2ca5fcc2a1ba314ac9.webp)
 
 
 ### Installation Notice
-`ssangyong_rexton_en_65f29051` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:132 | doc_type:owners_manual
 ![](images/2930909e8fec0664f9d9d974a8a83ddc5d848c19cefc5d9b4154fdcc5764dd2c.webp)
 
 ![](images/f5dd97fc4eeecda93dba5f949297cbb7a192d0fc2133c048a08bcd5ac603a3c7.webp)
@@ -11406,7 +10961,6 @@ Note Alternator Capacity: 140 A
 
 
 ### Engine - Disassembly and Reassembly
-`ssangyong_rexton_en_74b0e969` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:133 | doc_type:owners_manual
 ![](images/9186803d5263ef316b3a9d16b5d6ebcb37d3869c410eb55dbb367130cc04b85e.webp)
 
 ![](images/3fc54e3f147c5a52a452f42837826164051280cf7db005512eba8b86cb8db5f5.webp)
@@ -11421,7 +10975,6 @@ Remove the injectors with a injector extractor (special tool).
 
 
 ### Notice
-`ssangyong_rexton_en_97ca44cb` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:134 | doc_type:owners_manual
 •Be careful not to take off the sealing caps on the injectors and fuel system.   
 •Replace the copper washers with new ones when installing.
 
@@ -11439,12 +10992,10 @@ Remove the injectors with a injector extractor (special tool).
 
 
 ### Installation Notice
-`ssangyong_rexton_en_42177c93` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:135 | doc_type:owners_manual
 ![](images/efc27d28bb8838a038c3a1e4a411de008cf8378691684228d53b0aa4f4f2ac8f.webp)
 
 
 ### Notice
-`ssangyong_rexton_en_42348c10` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:136 | doc_type:owners_manual
 Plug the openings with sealing cap.
 
 ![](images/a96e40f1003baa2577c9a9d489e3619c4035016a2db1bc5c525db4b2303e27da.webp)
@@ -11457,7 +11008,6 @@ Plug the openings with sealing cap.
 
 
 ### Installation Notice
-`ssangyong_rexton_en_45c75001` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:137 | doc_type:owners_manual
 ![](images/deb55d120fde4869f69dd1c6587e1876b764a307a80eebd88befc208cfa1f793.webp)
 
 Apply Loctite on the thread before installation.
@@ -11510,7 +11060,6 @@ Remove the oil seal residues from the oil pan and apply the liquid gasket on the
 
 
 ### Notice
-`ssangyong_rexton_en_5db081c3` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:138 | doc_type:owners_manual
 The exhaust manifold gasket is removed along with the exhaust manifold. Mark the installation direction to prevent wrong installation. Otherwise, it may cause a sealing trouble.
 
 ![](images/b45c7c8d62546cf5482bedb3eb2b4597bafe38224010ade2562da6836800f458.webp)
@@ -11525,7 +11074,6 @@ The exhaust manifold gasket is removed along with the exhaust manifold. Mark the
 
 
 ### Notice
-`ssangyong_rexton_en_3d27f737` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:139 | doc_type:owners_manual
 Be careful not to flow out the residual coolant.
 
 15Unscrew the bolts and remove the water pump. Installation Notice
@@ -11538,7 +11086,6 @@ Be careful not to flow out the residual coolant.
 
 
 ### Notice
-`ssangyong_rexton_en_7c8f5fe9` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:140 | doc_type:owners_manual
 Be careful not to flow out the residual coolant.
 
 17. Unscrew the bolts and remove the coolant inlet port from the intake manifold.
@@ -11549,7 +11096,6 @@ Installation Notice
 
 
 ### Notice
-`ssangyong_rexton_en_7ff92f39` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:141 | doc_type:owners_manual
 Be careful not to get the coolant into the intake manifold and engine.
 
 18. Unscrew the bolts and remove the intake manifold assembly.
@@ -11562,7 +11108,6 @@ Installation Notice
 
 
 ### Notice
-`ssangyong_rexton_en_f05373b5` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:142 | doc_type:owners_manual
 Replace the gasket with new one once removed.
 
 ![](images/13e1f0fe8ff11a512293e902479d84693185ac9922eee13762a96d108d3ddb10.webp)
@@ -11619,7 +11164,6 @@ Installation Notice
 
 
 ### Installation Notice
-`ssangyong_rexton_en_1a079ff2` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:143 | doc_type:owners_manual
 ![](images/8b9abd67db81a5a801500b65ff9595d0ee5569e11935489cf20abb4f24d7d7d5.webp)
 
 ![](images/97b2ed48e17a956095b0d68ada57d948b6b4aa87055660ecb252a86f38b6a1e3.webp)
@@ -11632,7 +11176,6 @@ Installation Notice
 
 
 ### Notice
-`ssangyong_rexton_en_fe9ee3a3` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:144 | doc_type:owners_manual
 •Avoid contact with hot metal parts when removing the HLA device immediately after stopping the engine.   
 •Be careful not to be contaminated by foreign materials.   
 •To prevent the oil leaks, store the removed finger foliower and HLA device with standing up.   
@@ -11669,7 +11212,6 @@ If the maximum length is exceeded by 2 mm, replace the cylinder head bolt.
 
 
 ### Notice
-`ssangyong_rexton_en_08cd7e44` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:145 | doc_type:owners_manual
 •Inspect the cylinder head surface. •Store the removed injectors and glow plugs so that they will not be damaged.
 
 3Measure the piston protrusion from the parting surface. • Specified Value: 0.765 \~ 1.055 mm
@@ -11720,7 +11262,6 @@ A. Unscrew the bearing cap bolts. Installation Notice
 
 
 ### Installation Notice
-`ssangyong_rexton_en_3d07d594` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:146 | doc_type:owners_manual
 \* Align the oil grooves in bearing cap and connecting rod.
 
 B. Remove the bearing caps and lower bearing shells.
@@ -11729,7 +11270,6 @@ C. Remove the piston assembly through the cylinder.
 
 
 ### Notice
-`ssangyong_rexton_en_62a2b1d8` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:147 | doc_type:owners_manual
 Do not mix up upper and lower crankshaft bearing shells.
 
 D. Remove the snap ring piston pin from the piston.   
@@ -11738,14 +11278,12 @@ F. Remove the piston rings from the piston.
 
 
 ### Installation Notice
-`ssangyong_rexton_en_cf4d9900` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:148 | doc_type:owners_manual
 Replace the piston ring, bearing and snap ring with new ones.
 
 37. Lock the flywheel and remove the center bolt and crankshaft pulley.
 
 
 ### Installation Notice
-`ssangyong_rexton_en_2daf7a1b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:149 | doc_type:owners_manual
 ![](images/6b0b955976a7da0b4df3db88ccea55b382b1ffd63c54bd77b081a513e515faee.webp)
 
 38. Remove the timing chain cover assembly.
@@ -11788,27 +11326,23 @@ Installation Notice
 
 
 ### Notice
-`ssangyong_rexton_en_22980357` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:150 | doc_type:owners_manual
 •Remove the bearing cap bolts from inside to outside with a pair.   
 • Do not mix up the crankshaft bearing caps and shells.
 
 ![](images/b6d5d8db1fe559643d723ab2fc2469e531a9886c9a7ca06bac48483bbfa1be05.webp)
 
 
-### Note
-`ssangyong_rexton_en_8c5b24f7` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:151 | doc_type:owners_manual
-•Install in the reverse order of removal.   
-•Tighten the fasteners with the specified tightening torques.   
-•Replace the gaskets and bearings with new ones.   
-•Make sure to install the gaskets in correct direction.
-
-![](images/c9369ceb0e4d5d6880e83a30b86e88a36c323341e78e50399479f8a11564f465.webp)
-
-![](images/05cb996da159849db4d7874516e21bb107183411fb7892bb41f0f5f2c48dedd8.webp)
+> ℹ️ **Примечание:** •Install in the reverse order of removal.
+> •Tighten the fasteners with the specified tightening torques.   
+> •Replace the gaskets and bearings with new ones.   
+> •Make sure to install the gaskets in correct direction.
+>
+> ![](images/c9369ceb0e4d5d6880e83a30b86e88a36c323341e78e50399479f8a11564f465.webp)
+>
+> ![](images/05cb996da159849db4d7874516e21bb107183411fb7892bb41f0f5f2c48dedd8.webp)
 
 
 ### CYLINDE HEA/.YLIN DE BLOCK . MI2-3
-`ssangyong_rexton_en_5ba1c1eb` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:152 | doc_type:owners_manual
 Cylinder head. DI02-3   
 Camshaft assembly DI02-17   
 Timing chain assembly. DI02-25   
@@ -11816,31 +11350,26 @@ Cylinder block DI02-29
 
 
 ### CRANKSHAFT. ... I02-332
-`ssangyong_rexton_en_e5803fee` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:153 | doc_type:owners_manual
 Arrangement of thrust washers and bearings .... DI02-33   
 Torsional vibration damper .… DI02-38
 
 
 ### FLYWHEEL .. ... DI02-42
-`ssangyong_rexton_en_6e080ec0` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:154 | doc_type:owners_manual
 Dual mass flywheel (DMF, Manual transmission equipped vehicle) .DI02-42
 
 
 ### PISTON AND CONNECTING. ROD . . 4
-`ssangyong_rexton_en_2b598e68` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:155 | doc_type:owners_manual
 Piston ring... DI02-45   
 Cylinder inner diameter and piston size .DI02-46
 
 
 ### HIGH PRESSURE PUMP (HP) ... . 251
-`ssangyong_rexton_en_940bcd62` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:156 | doc_type:owners_manual
 Components locator DI02-51
 
 ![](images/da2b3f03d4c97c4b12cf1b0ce52f4c814e614c91742c6d35e6c52c625a4aa6fd.webp)
 
 
 ### CYLINDER HEAD
-`ssangyong_rexton_en_77546514` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:157 | doc_type:owners_manual
 ![](images/48be20f647573c0aceec472d0d0cb3b272dd18bd1079c7b01285d4e0f4db7b11.webp)
 
 ![](images/6e898f3045ac1fa6f174a37c3f389fc9beb7e63e80c4d504a50b6e5fcbd3689a.webp)
@@ -11849,7 +11378,6 @@ Y220_02001
 
 
 ### System Characteristics
-`ssangyong_rexton_en_3620c814` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:158 | doc_type:owners_manual
 •4-valve DOHC valve mechanism   
 • Swirl and tangential port   
 4-bolt type cylinder head bolt   
@@ -11863,7 +11391,6 @@ Y220_02001
 
 
 ### Cylinder Head Pressure Leakage Test
-`ssangyong_rexton_en_4089b96d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:159 | doc_type:owners_manual
 Preceding Works:
 
 -Removal of cylinders   
@@ -11874,7 +11401,6 @@ Preceding Works:
 
 
 ### Test Procedures
-`ssangyong_rexton_en_da429743` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:160 | doc_type:owners_manual
 1. Place the pressure plate on a flat-bed work bench.
 
 Install the cylinder head on the pressure plate.
@@ -11885,26 +11411,22 @@ Install the cylinder head on the pressure plate.
 
 
 ### Notice
-`ssangyong_rexton_en_8546d25c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:161 | doc_type:owners_manual
 Examine the cylinder head for air bubbling. If the air bubbles are seen, replace the cylinder head.
 
 ![](images/e85719d6f37b25c41c5f3d7b8352d1e66ee438b2c7877480e1a4ec23b9da9a3b.webp)
 
 
 ### Specifications
-`ssangyong_rexton_en_8310b41f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:162 | doc_type:owners_manual
 ![](images/0037361c12967a25071d8c16fc28ad3672cd1a567bfa5a78b69dee06ce720fc9.webp)
 
 
 ### Measurement
-`ssangyong_rexton_en_1c01b53e` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:163 | doc_type:owners_manual
 Measure the cylinder head height “A".
 
 ![](images/504900d33f953d57a5623d63641598e0ed541e5d23d7dd4cda9f668baa259551.webp)
 
 
 ### Notice
-`ssangyong_rexton_en_2a29d041` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:164 | doc_type:owners_manual
 If the height is less than the limit, the cylinder head must be replaced.
 
 ![](images/baaa592d920de9046bd2cb5cc5344087d020c5e8d1a9ad7049586a9d022178ae.webp)
@@ -11915,7 +11437,6 @@ If the height is less than the limit, the cylinder head must be replaced.
 
 
 ### Notice
-`ssangyong_rexton_en_b3b4a590` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:165 | doc_type:owners_manual
 If the measured value is out of the specified range, machine the valve seat as much as necessary until the specified value is achieved.
 
 ![](images/1a2e8b5809fbb054564acf4b186a30dbde03337a821b8007d9444a70fd07f730.webp)
@@ -11932,7 +11453,6 @@ If the measured value is out of the specified range, machine the valve seat as m
 
 
 ### Disassembly
-`ssangyong_rexton_en_b6a738af` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:166 | doc_type:owners_manual
 Preceding Works:
 
 - Removal of fan belt   
@@ -11943,7 +11463,6 @@ Preceding Works:
 
 
 ### Notice
-`ssangyong_rexton_en_e2d9a34a` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:167 | doc_type:owners_manual
 • Plug the openings of injector holes and common rail with the protective caps.
 
 1.Remove the cylinder head cover.
@@ -11966,7 +11485,6 @@ Correctly align the electronic control module onto the shift plate by using two 
 
 
 ### Notice
-`ssangyong_rexton_en_db4de1e1` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:168 | doc_type:owners_manual
 7. Remove the oil cooler, then remove the intake manifold.
 
 The intake manifold can be interfered by the cylinder head bolt (M8 x 50).
@@ -11998,7 +11516,6 @@ If the maximum length is exceeded by 2 mm, replace the cylinder head bolt.
 
 
 ### Notice
-`ssangyong_rexton_en_58892b6a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:169 | doc_type:owners_manual
 •Inspect the cylinder head surface. •Store the removed injectors and glow plugs so that they will not be damaged.
 
 ![](images/b8caca376e8a72df5cd26f870e5706ba1be05755cff1d5c3801d153b4af5dc39.webp)
@@ -12009,12 +11526,10 @@ If the maximum length is exceeded by 2 mm, replace the cylinder head bolt.
 
 
 ### Reassembly
-`ssangyong_rexton_en_29d75676` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:170 | doc_type:owners_manual
 1 Install the cylinder head with the steel gasket.
 
 
 ### Notice
-`ssangyong_rexton_en_0b6095e9` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:171 | doc_type:owners_manual
 Make sure to place the “TOP” mark upward.
 
 ![](images/17052b30543061d1752f82a768d76e4f447625c52240d5fea85961429afdcc97.webp)
@@ -12025,7 +11540,6 @@ Tighten the cylinder head bolts to specified torque and torque angle.
 
 
 ### Notice
-`ssangyong_rexton_en_8fed68a9` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:172 | doc_type:owners_manual
 • Apply the oil on the bolt thread when installing.   
 •Always insert new washer first.   
 •The bolts (12) at vacuum pump side are shorter than others.
@@ -12034,7 +11548,6 @@ Tighten the cylinder head bolts to specified torque and torque angle.
 
 
 ### Notice
-`ssangyong_rexton_en_a7edff82` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:173 | doc_type:owners_manual
 •Put the cylinder head on the locating pins.
 
 Tighten the camshaft bearing cap bolts.
@@ -12058,7 +11571,6 @@ Tighten the camshaft bearing cap bolts.
 
 
 ### Notice
-`ssangyong_rexton_en_e8ced222` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:174 | doc_type:owners_manual
 Check the finger follower positions and align if needed.
 
 5. Install the intake and exhaust camshaft sprockets and the timing chain.
@@ -12067,7 +11579,6 @@ Check the finger follower positions and align if needed.
 
 
 ### Notice
-`ssangyong_rexton_en_13c91d33` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:175 | doc_type:owners_manual
 •If the sprocket bolt is stretched over 0.9 mm, replace it with new one.   
 •Always install the intake camshaft sprocket first.   
 •Ensure that the markings on camshaft sprocket and timing chain are aligned.   
@@ -12077,14 +11588,12 @@ Check the finger follower positions and align if needed.
 
 
 ### Notice
-`ssangyong_rexton_en_5ab0286d` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:176 | doc_type:owners_manual
 If the markings are not aligned, reinstall the cylinder head.
 
 7. Place the bearing cap with the OT marks on both camshafts facing upward.
 
 
 ### Notice
-`ssangyong_rexton_en_05f2eff6` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:177 | doc_type:owners_manual
 • Apply the sealant on the cap (#12) for the vacuum pump when installing.   
 • Apply the oil on the bearing journals before installation.
 
@@ -12094,7 +11603,6 @@ If the markings are not aligned, reinstall the cylinder head.
 
 
 ### Notice
-`ssangyong_rexton_en_33c418a9` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:178 | doc_type:owners_manual
 •Install the guide rail with slanted side facing forward.   
 •Be careful not to change the timing of HP pump when fitting the timing chain.
 
@@ -12122,7 +11630,6 @@ Tighten the intake and exhaust camshaft sprocket bolts.
 
 
 ### Notice
-`ssangyong_rexton_en_76b1cf7a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:179 | doc_type:owners_manual
 Ensure that there is no leaks around the coolant line for #1 cylinder
 
 ![](images/905c5c905396f3daf81a926c97d116a004b24e6614205c93dc8b8f9d61bb3873.webp)
@@ -12148,7 +11655,6 @@ Ensure that there is no leaks around the coolant line for #1 cylinder
 
 
 ### •Apply the sealant to the bolts for the vacuum pump and the timing chain cover.
-`ssangyong_rexton_en_d37c016d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:180 | doc_type:owners_manual
 ![](images/9a900d6250de4fb4e9777ea27f2af26f1d4566a179dcd906548ffb8e5b4c3c9f.webp)
 
 1Check the parting surface of the #12 bearing cap and the   
@@ -12171,7 +11677,6 @@ cylinder head for contacting.
 
 
 ### Notice
-`ssangyong_rexton_en_622be96a` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:181 | doc_type:owners_manual
 •To keep the cleanness and protect the components, the fuel pipes should be replaced with new ones. •Be careful not to be mixed the fuel pipes because the pipe appearance of #1 and #3 cylinders and #2 and #4 are same each other.
 
 ![](images/bf3a53d9e6e7af334a7b06a6a73ad6704fd66237b5e655910bd7354fe79c7976.webp)
@@ -12182,7 +11687,6 @@ cylinder head for contacting.
 
 
 ### Intake/Exhaust - Removal/Installation
-`ssangyong_rexton_en_9cde1d92` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:182 | doc_type:owners_manual
 Remove the cylinder head assembly.
 
 ![](images/83bc172c67740c282abf84f016ee5c386916ffe031f5b7434a9a6e1c15984e86.webp)
@@ -12199,7 +11703,6 @@ Remove the valves from the cylinder head.
 
 
 ### Special Tools and Equipment
-`ssangyong_rexton_en_63149296` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:183 | doc_type:owners_manual
 ![](images/a88bad502ec98fe866946594ffc432153619a9ee07e321dbbd6d8c849fb09f70.webp)
 
 ![](images/ccbdf2dc1a155433a30423488f8f054df6a2ef01ea0f784f8d78b8ff2271ed80.webp)
@@ -12210,7 +11713,6 @@ Remove the valves from the cylinder head.
 
 
 ### CAMSHAFT ASSEMBLY
-`ssangyong_rexton_en_96eee92c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:184 | doc_type:owners_manual
 \* Preceding Work: Removal of cylinder head cover
 
 ![](images/e8e7bdf01c928a0909c9c1d9fef546baa8f3b2ea56676ef7eef29dae3507192f.webp)
@@ -12219,7 +11721,6 @@ Remove the valves from the cylinder head.
 
 
 ### Camshaft Position Sensor
-`ssangyong_rexton_en_32be2998` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:185 | doc_type:owners_manual
 ![](images/612c92b37febd1ec0e032af31eac0b6f3ac06feb9aadf43ebb8262f0a4779ce1.webp)
 
 The camshaft position sensor uses haleffect to set the camshaft position and metallic-magnetic-material sensor end is attached on the camshaft and then rotates with it.If sensor protrusion passes camshaft poition sensor's semi-conductor wafer, magneti field changes direction of electron on the semi-conductor wafer to the current flow direction that passes through wafer from the right angle. When operation power is supplied from camshaft position sensor, camshaft hall sensor generates signal voltage. The signal voltage wili be OV if protrusion and camshaft position sensor are near and 5 V if apart.
@@ -12238,7 +11739,6 @@ Accordingly, camshaft position sensor is necessary to identify the cylinders cor
 
 
 ### Removal
-`ssangyong_rexton_en_8c25e925` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:186 | doc_type:owners_manual
 Preceding Works:
 
 -Removal of fan belt -Removal of fuel supply and return lines -Removal of intake manifold mounting bracket
@@ -12247,7 +11747,6 @@ Preceding Works:
 
 
 ### Notice
-`ssangyong_rexton_en_2ef193df` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:187 | doc_type:owners_manual
 Plug the openings of injector holes and common rail with the protective caps.
 
 Remove the cylinder head cover.
@@ -12294,7 +11793,6 @@ Remove the finger follower and the HLA device.
 
 
 ### Notice
-`ssangyong_rexton_en_f064d43f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:188 | doc_type:owners_manual
 Avoid contact with hot metal parts when removing the HLA device immediately after stopping the engine.
 
 ![](images/fa2c497970602e4e8550d44adc93920b0bf4d503e3df63fb22a03471707bf66a.webp)
@@ -12311,19 +11809,16 @@ Avoid contact with hot metal parts when removing the HLA device immediately afte
 
 
 ### Installation
-`ssangyong_rexton_en_779bc012` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:189 | doc_type:owners_manual
 1. Install the HLA device and finger follower. Check the HLA device with the diagnosis procedures before installation.
 
 
 ### Notice
-`ssangyong_rexton_en_8b9644d4` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:190 | doc_type:owners_manual
 •Put the cylinder head on the locating pins.
 
 2. Place the bearing cap with the OT marks on both camshafts facing upward.
 
 
 ### Notice
-`ssangyong_rexton_en_29ecc524` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:191 | doc_type:owners_manual
 • Apply the sealant on the cap (#12) for the vacuum pump when installing.   
 • Apply the oil on the bearing journals before installation.
 
@@ -12338,7 +11833,6 @@ Avoid contact with hot metal parts when removing the HLA device immediately afte
 
 
 ### Notice
-`ssangyong_rexton_en_afd79665` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:192 | doc_type:owners_manual
 Check the finger follower positions and align if needed.
 
 4. Install the intake and exhaust camshaft sprockets and the timing chain.
@@ -12347,7 +11841,6 @@ Check the finger follower positions and align if needed.
 
 
 ### Notice
-`ssangyong_rexton_en_25f0a3b2` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:193 | doc_type:owners_manual
 •If the sprocket bolt is stretched over 0.9 mm, replace it with new one.   
 •Always install the intake camshaft sprocket first.   
 •Ensure that the markings on camshaft sprocket and timing chain are aligned.   
@@ -12359,7 +11852,6 @@ Check the finger follower positions and align if needed.
 
 
 ### Notice
-`ssangyong_rexton_en_35b52d51` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:194 | doc_type:owners_manual
 If the markings are not aligned, reinstall the cylinder head.
 
 ![](images/c77fda9805e021cbe885c36e5e55b6f882afe6fde078656cb26f274670bd2478.webp)
@@ -12374,14 +11866,12 @@ If the markings are not aligned, reinstall the cylinder head.
 
 
 ### Special Tools and Equipment
-`ssangyong_rexton_en_9d9b7901` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:195 | doc_type:owners_manual
 ![](images/934b1897c317b1d3672a7e3e0b2f22238aebde80e901b0c06a2c2451b6002a1f.webp)
 
 ![](images/c88a6229409c71de1f5f4987283af48627bfda73fad13a475e340767818e38dd.webp)
 
 
 ### TIMING CHAIN ASSEMBLY
-`ssangyong_rexton_en_03da9ef4` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:196 | doc_type:owners_manual
 Chain Drive System
 
 System Layout
@@ -12407,7 +11897,6 @@ Y220_02084
 
 
 ### Chain
-`ssangyong_rexton_en_9e6c36cf` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:197 | doc_type:owners_manual
 Chain type: Double Bush   
 Pitch: 9.525 mm   
 •Load limits: 19,000 N   
@@ -12417,7 +11906,6 @@ Replace when the chain is extended by 0.5 % from overall length (Replace if exte
 
 
 ### Chain tensioner
-`ssangyong_rexton_en_27585cea` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:198 | doc_type:owners_manual
 ![](images/c01311e3ce427c3758ed6fa6ab1a16290fb60a7849ff13a3bfa5205f1b3d620f.webp)
 
 Y220_02085
@@ -12429,7 +11917,6 @@ The tensioner performs function of adjusting chain tension to be alwaystight, no
 
 
 ### Guide rail
-`ssangyong_rexton_en_91947e0b` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:199 | doc_type:owners_manual
 Guide rail is used to optimize the movement of chain drive system like tensioner.   
 Guide rail can prevent chain slap when chain is extended and reduce chain wears.   
 Guide rail is needed especialy when the distance between the sprockets are too long.   
@@ -12443,7 +11930,6 @@ The material is plastic.
 
 
 ### Timing setting
-`ssangyong_rexton_en_0526da5a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:200 | doc_type:owners_manual
 ![](images/c3f21494ae561e67c1de57a7014572eb2ae91459b68e7553d36a57bacc619af9.webp)  
 <Timing marking points on chain>
 
@@ -12462,7 +11948,6 @@ Y220_02086
 
 
 ### Removal and Installation
-`ssangyong_rexton_en_a12f9a32` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:201 | doc_type:owners_manual
 1.Remove the cylinder head assembly.   
 Remove the oil pan.   
 3Remove the chain guide rail with a sliding hammer.   
@@ -12485,7 +11970,6 @@ Remove the tensioning guide rail.
 
 
 ### CYLINDER BLOCK
-`ssangyong_rexton_en_9915011c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:202 | doc_type:owners_manual
 Deep head bolt thread to prevent the
 
 ![](images/19d0b6f5d15bd3ffc2d27122b3ddee189ee1343216e2f5082773c9568137eb56.webp)
@@ -12494,7 +11978,6 @@ Y220_02091
 
 
 ### System Characteristics
-`ssangyong_rexton_en_d90690af` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:203 | doc_type:owners_manual
 Rib design by considering strength against engine vibrations and weight   
 •Cambering type skirt design on case housing wall to reduce the engine noise   
 •Water jacket design to increase the cooling efficiency of cylinder bore bridge   
@@ -12508,7 +11991,6 @@ Reinforcement of strength - Main bearing housing / Main bearing cap - Extended m
 
 
 ### Knock Sensor
-`ssangyong_rexton_en_37fea647` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:204 | doc_type:owners_manual
 Two knock sensors are located on the cylinder block (intake manifold side).
 
 To detect engine vibration under abnormal combustion, knock sensor has piezoelectric element fixed on the vibration plate and this vibration plate is fixed on the base. If happens knocking, pistons or connecting rods vibrate and occurs heavy sounds that hit metal. Knock sensor is used to detect those knockings caused by abnormal combustions. It controls idling stabilities and turns on the engine warning light when detects injector damages. And also controls pilot injection very precisely during MAP learning.
@@ -12524,7 +12006,6 @@ Before checking the knock sensor unit, be sure to check the tightening torque of
 
 
 ### <Location of knock sensor>
-`ssangyong_rexton_en_43261541` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:205 | doc_type:owners_manual
 Y220_02092
 
 1. Sensor housing   
@@ -12543,7 +12024,6 @@ Y220_02092
 
 
 ### Notice
-`ssangyong_rexton_en_0b7253de` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:206 | doc_type:owners_manual
 The knock sensor should be tightened with the specified tightening torque. Otherwise, the engine output may be decreased and the “ENGINE CHECK” warning lamp may come on. The internal resistance of the sensor is approx. 4.7 k2.
 
 ![](images/afec436112df840a143f4fec2ff32173f760e2169ac46890215362a2f7aab6e9.webp)
@@ -12554,7 +12034,6 @@ Y220_02093
 
 
 ### CRANKSHAFT
-`ssangyong_rexton_en_7ae3e5b6` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:207 | doc_type:owners_manual
 \* Preceding Works: Removal of end cover Removal of pistons Removal of crankshaft sprocket
 
 ![](images/6700c8e5ff5e317e4e6dfb7b2ceb652028321780ec46f95afebf2d104ea12872.webp)
@@ -12574,7 +12053,6 @@ Y220_02094
 
 
 ### ARRANGEMENT OF THRUST WASHERS AND BEARINGS
-`ssangyong_rexton_en_ba26e875` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:208 | doc_type:owners_manual
 ![](images/35884a750e486a54813d497aa37e2c3ce0ae70025443df9dfe238a4ba1c43c38.webp)
 
 Y220_02095
@@ -12587,7 +12065,6 @@ Y220_02095
 
 
 ### Notice
-`ssangyong_rexton_en_942db8d4` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:209 | doc_type:owners_manual
 The clearance between bearing shell and bore and between bearing shell and journal are various. Refer to the table on next page to select bearings when installing.
 
 ![](images/817e05475889136c24c320f960336308c71a99c57e233d83dab47cd6a2aba2c4.webp)
@@ -12597,37 +12074,31 @@ Dimensions of Crankshaft Main Bearing
 
 
 ### Bearing Clearance
-`ssangyong_rexton_en_fcf70cbc` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:210 | doc_type:owners_manual
 ![](images/8b4d1d1128f90a69b290d62610706186a1a699f89ef6fd18562b55fecdc53693.webp)
 
 ![](images/5704e44c1ae27fd73b680d5dc9fa56eb6c51c83db7d51c8b78310e5ce23a2ada.webp)
 
 
 ### Notice
-`ssangyong_rexton_en_2cd0c11c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:211 | doc_type:owners_manual
 Measure the crankshaft axial clearance and correct if necessary with appropriate thrust washers.   
 Thrust washers of the same thickness must be installed on both sides of the fit bearing.
 
 
 ### Matching the Crankshaft Bearing Shels to Basic Bearing Bore in Crankcase
-`ssangyong_rexton_en_f1601c55` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:212 | doc_type:owners_manual
 ![](images/e99b3fcf4ccfc87d7d440c53e6ec2e7fdb399ea1c36adcedddb034f88f81215e.webp)
 
 
 ### Matching Crankshaft Bearing Shells to Basic Bearing Journal of Crankshaft
-`ssangyong_rexton_en_234ff9b4` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:213 | doc_type:owners_manual
 ![](images/e47283acb1cb8a4157dc5fbbe36664c4dc63f30423fb3d59c4a8941faf537398.webp)
 
 ![](images/77dca8d7f4f994bd2c2f1b0c5cc0f884114c66f486880cbb8f4fe89c91c549e4.webp)
 
 
 ### Selection of Upper Main Bearing Shell
-`ssangyong_rexton_en_132ac141` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:214 | doc_type:owners_manual
 ![](images/6044e87fe49ca8b13a211da80184b086a082ec3690595c47a9ddcf7dacd61113.webp)
 
 
 ### Selection of Lower Main Bearing Shell
-`ssangyong_rexton_en_82af830b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:215 | doc_type:owners_manual
 ![](images/a545020a2897fc8cb3030d7f313a1bb4a12f483363e7e83935a60f006d8338e7.webp)
 
 ![](images/7f087bb9eed113a52725939ba3e545ed98e3059a9a50d17de299b670f1c71523.webp)
@@ -12636,7 +12107,6 @@ Thrust washers of the same thickness must be installed on both sides of the fit 
 
 
 ### Crankshaft Position Sensor
-`ssangyong_rexton_en_e5d0dc0f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:216 | doc_type:owners_manual
 ![](images/fc3eb265991aadfd99cfc98813989bd1660be31cbf918034843708f1f30feceb.webp)
 
 Y220_02098
@@ -12668,26 +12138,22 @@ Y220_02100
 
 
 ### TORSIONAL VIBRATION DAMPER
-`ssangyong_rexton_en_46e3fb81` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:217 | doc_type:owners_manual
 ![](images/c8a4bf290d32e31e09e96917efebb2e9db939571e46a8619db220d620c1faf79.webp)
 
 Y220_02101
 
 
 ### System Description
-`ssangyong_rexton_en_5e9b2e2c` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:218 | doc_type:owners_manual
 •Components: Hub, inertia mass, cover, bearing, bushing, silicon oil •Functions: The crankshaft pully optimizes the drive system by reducing the amount of torsional vibration in crankshaft. Conventional rubber damperi limited in changing materials (rubbers) to absorb vibration, but this crankshaft pulley (viscous damper), using silicon oil, takes advantage of less changing viscosity according to the temperature.
 
 ![](images/b40037c290e1c433d32ffc1fd03c5189f9b8fa7dc364e2e423b26d770a54e516.webp)
 
 
 ### Crankshaft  Disassembly
-`ssangyong_rexton_en_4d30b784` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:219 | doc_type:owners_manual
 Unscrew the bolts and remove the connecting rod journal bearing and bearing caps.
 
 
 ### Notice
-`ssangyong_rexton_en_3051b2ee` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:220 | doc_type:owners_manual
 Position the #1 piston at TDC and remove the piston connecting rod journal bearing caps.
 
 Remove the bearing cap bolts.   
@@ -12695,7 +12161,6 @@ Remove the bearing caps.
 
 
 ### Notice
-`ssangyong_rexton_en_686de949` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:221 | doc_type:owners_manual
 •The crankshaft bearing caps are marked with stamped numbers. Start to remove from the crankshaft pulley side. •Do not mix up the bearing shells.
 
 Remove the bearing caps and lower thrust bearing.
@@ -12709,7 +12174,6 @@ Separate the lower bearing shells from the bearing caps.
 
 
 ### Notice
-`ssangyong_rexton_en_97781cbb` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:222 | doc_type:owners_manual
 Do not mix up the bearing shells.
 
 ![](images/40c2c65507bbff23b6aa01732deb2758d4b3aa08edd11d9bf2a9ae4bd1ff1bed.webp)
@@ -12726,7 +12190,6 @@ Do not mix up the bearing shells.
 
 
 ### Crankshaft  Reassembly
-`ssangyong_rexton_en_dca9734e` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:223 | doc_type:owners_manual
 1 Thoroughly clean the oil galleries and check the journal section and bearings. Replace if necessary.
 
 ![](images/534d073d39d98925af464e119a8113192c1d60ecf9ca467487c33c80967f35fa.webp)
@@ -12736,12 +12199,10 @@ Do not mix up the bearing shells.
 
 
 ### Notice
-`ssangyong_rexton_en_06c3a9a3` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:224 | doc_type:owners_manual
 The retaining lugs should be positioned in the grooves (arrow).
 
 
 ### Notice
-`ssangyong_rexton_en_2c7f862b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:225 | doc_type:owners_manual
 If the maximum permissible length of L= 63.8 mm is exceeded, the 12-sided stretch bolts should be replaced.
 
 ![](images/374c3e80795bf80298a93f7d3ba1398695d3f3368ff09f64449ecdeea1af4ebc.webp)
@@ -12756,7 +12217,6 @@ If the maximum permissible length of L= 63.8 mm is exceeded, the 12-sided stretc
 
 
 ### Notice
-`ssangyong_rexton_en_605f8cb8` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:226 | doc_type:owners_manual
 Install from #1 cap.
 
 6Position the #1 piston at TDC and install the crankshaft.
@@ -12773,14 +12233,12 @@ Install from #1 cap.
 
 
 ### DUAL MASS FLYWHEEL (DMF, MANUAL TRANSMISSION EQUIPPED VEHICLE)
-`ssangyong_rexton_en_490ea282` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:227 | doc_type:owners_manual
 ![](images/f00d87f933132b795420d986a14c1e545c96a9f4233a7716af5496ec1d240202.webp)
 
 Y220_02111
 
 
 ### System Description
-`ssangyong_rexton_en_6e8d0760` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:228 | doc_type:owners_manual
 This flywheel is installed to the rear end of crankshaft and transfers the output from the engine to the power train mechanism. When starting the engine, this drive the crankshaft train mechanism initially by using the power from the start motor. Also, DMF measure the crankshaft speed, sends the signals to ECU, and controls the ignition timing.
 
 ![](images/3e1fe406e169407ff797c2d1cc2fbae0c20ebb66e7efb1f0c6da3ee6750441ec.webp)
@@ -12791,26 +12249,22 @@ Y220_02147
 
 
 ### Function and characteristics
-`ssangyong_rexton_en_b2b55012` | rexton | pdf_manual | tier:2 | lang:en | layer:brakes | p:229 | doc_type:owners_manual
 •When the output changes from the engine is high during power stroke (l): The damper absorbs the shocks to reduce the changes to transmission. • When the output changes from the engine is low during compression stroke (2): The damper increases the torque changes to clutch.
 
 ![](images/893d8ad8d86ba17d05f499c07e4e5756c502c42231676e57cfa58e4b2c50a6b9.webp)
 
 
 ### <Torque change curve of engine and drive shaft>
-`ssangyong_rexton_en_93aa2faa` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:230 | doc_type:owners_manual
 ![](images/9b8efd386cfd673fce46bf4942e44f5042fd2ff0770e58a8399f0c0528fe889e.webp)
 
 Y220_02113
 
 
 ### Function
-`ssangyong_rexton_en_3581fe56` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:231 | doc_type:owners_manual
 Filters irregularities of engine: The secondary flywheel operates almost evenly so does not cause gear noises • The mass of the primary flywheel is less than conventional flywheel so the engine irregularity increases more (less pulsation absorbing effect) •Transmission protection function: Reduces the load to powertrain (transmission) by blocking the irregularity of engine
 
 
 ### Characteristics of DMF
-`ssangyong_rexton_en_fd700177` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:232 | doc_type:owners_manual
 Reduced vibration noise from the powertrain by blocking the torsional vibrations   
 Enhanced vehicle silence and riding comforts: reduced engine torque changes   
 •Reduced shifting shocks   
@@ -12818,7 +12272,6 @@ Enhanced vehicle silence and riding comforts: reduced engine torque changes
 
 
 ### Advantages of DMF
-`ssangyong_rexton_en_7d835370` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:233 | doc_type:owners_manual
 •Improved torque response by using 3-stage type spring: Strengthens the torque response in all ranges (low, medium, and high speed) by applying respective spring constant at each range.   
 •Stable revolution of the primary and secondary wheel by using planetary gear: Works as auxiliary damper against spring changes   
 • Less heat generation due to no direct friction against spring surface: Plastic material is covered on the spring outer surface   
@@ -12828,7 +12281,6 @@ Enhanced vehicle silence and riding comforts: reduced engine torque changes
 
 
 ### PISTON AND CONNECTING ROD
-`ssangyong_rexton_en_b95eae79` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:234 | doc_type:owners_manual
 ![](images/6814055d730ca63f65d70a22f3789670eb6cef9b9c5878494af1e48e7b7e1297.webp)
 
 Y220_02114
@@ -12846,7 +12298,6 @@ Y220_02114
 
 
 ### PISTON RING
-`ssangyong_rexton_en_147f7d25` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:235 | doc_type:owners_manual
 1.No.1 compression ring   
 2. No.2 compression ring   
 3. Oil ring   
@@ -12857,7 +12308,6 @@ Y220_02114
 
 
 ### Replacement of Piston Ring
-`ssangyong_rexton_en_f40468bb` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:236 | doc_type:owners_manual
 •Measure piston ring end play.
 
 - Piston ring end play (mm) 1st groove: 0.20 \~ 0.35 2nd groove: 0.20 \~ 0.35 3rd groove: 0.20 \~ 0.40   
@@ -12871,7 +12321,6 @@ Y220_02114
 
 
 ### CYLINDER INNER DIAMETER AND PISTON SIZE
-`ssangyong_rexton_en_a5ac7853` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:237 | doc_type:owners_manual
 ![](images/a1d569bfb97fcccb92be6b8428fe269f303589f4e023e41e55290826ab4eebea.webp)
 
 Y220_02117
@@ -12883,7 +12332,6 @@ Y220_02117
 
 
 ### Piston - Reassembly
-`ssangyong_rexton_en_0ad1ea0d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:238 | doc_type:owners_manual
 1. Install the compression ring and oil ring on the piston with a special tool.
 
 ![](images/40e46e6b5c3e743fbed6409c75d1589b3ccdbda0f362f14aa17950145e76ab48.webp)
@@ -12892,7 +12340,6 @@ Arrange the piston ring ends to be 120° apart.
 
 
 ### Notice
-`ssangyong_rexton_en_edb288f5` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:239 | doc_type:owners_manual
 •Install the No. 1 and No.2 pistons so that “Y” marking on piston head is facing upward.   
 • No.1 piston ring is thicker than No.2 piston ring.   
 •Arrange the oil ring end to opposite position of current ring end.   
@@ -12929,7 +12376,6 @@ Check the clearance of piston oil ring and compression ring with a thickness gau
 
 
 ### Notice
-`ssangyong_rexton_en_25fb728e` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:240 | doc_type:owners_manual
 Install the piston so that the piston recess (marking) or the stamped surface of connecting rod is facing to straight ahead direction.
 
 5 Lubricate piston pin and push in by hand.
@@ -12940,7 +12386,6 @@ Place new snap rings into the grooves.
 
 
 ### Notice
-`ssangyong_rexton_en_089da61c` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:241 | doc_type:owners_manual
 The snap rings should be replaced with new one.
 
 7. Lubricate the cylinder bore, connecting rod bearing journals, connecting rod bearing shells and pistons.
@@ -12949,14 +12394,12 @@ Push piston into the cylinder with a wooden stick.
 
 
 ### Notice
-`ssangyong_rexton_en_7edd28cd` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:242 | doc_type:owners_manual
 The marking on the piston crown must be facing to straight ahead direction.
 
 Insert connecting rod bearing shells.
 
 
 ### Notice
-`ssangyong_rexton_en_21e645f6` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:243 | doc_type:owners_manual
 •The upper and lower connecting rod bearings have same appearance. Therefore, make sure to check the part number before replacing them. • Install bearing rod bearing cap so that so that the retaining lugs are on the same side of the connecting rod bearing.
 
 10. Measure stretch shaft diameter of the connecting rod bolts.
@@ -12987,14 +12430,12 @@ Insert connecting rod bearing shells.
 
 
 ### Special Tools and Equipment
-`ssangyong_rexton_en_c5a7fbb2` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:244 | doc_type:owners_manual
 ![](images/b58360bdaf747efe99a042887da226e875b7e500869218c96b4b0b2722a05cf0.webp)
 
 ![](images/f4e7310edd7c6f3cee25bfe4a28d27e31818ebf1bb35a7e65c1f479a570085a9.webp)
 
 
 ### COMPONENTS LOCATOR
-`ssangyong_rexton_en_a73469d8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:245 | doc_type:owners_manual
 ![](images/fdb09b27e79d3d547d481f50e086395e03e469e18ce2bb0ab9ae63158c01c5a3.webp)
 
 Y220_02133
@@ -13017,7 +12458,6 @@ Y220_02133
 
 
 ### HP Pump - Disassembly and Reassembly
-`ssangyong_rexton_en_c30829da` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:246 | doc_type:owners_manual
 Preceding works:
 
 - Removal of fan belt (including cooling fan and fan clutch) and fan shroud   
@@ -13029,7 +12469,6 @@ Preceding works:
 
 
 ### Notice
-`ssangyong_rexton_en_356d29d9` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:247 | doc_type:owners_manual
 •To prevent oil leaks, store the removed auto tensioner in upright position. •Be careful not to damage the rubber bellows. • Plug the oil ports for HP pump with sealing caps.
 
 ![](images/ab9ef33651ce59f80b9c290fc783764d4496b9a6f7463e1c1a0a83afcf182cc6.webp)
@@ -13044,7 +12483,6 @@ Remove the cooling fan bracket assembly.
 
 
 ### Notice
-`ssangyong_rexton_en_fee4486d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:248 | doc_type:owners_manual
 Be careful not to get the sealant or foreign materials into the engine.
 
 ![](images/7615cabe5e27fb29551ae7fe199f21751d3271ee83e0c51c4a1da9b79b04fef3.webp)
@@ -13059,7 +12497,6 @@ Be careful not to get the sealant or foreign materials into the engine.
 
 
 ### Installation Notice
-`ssangyong_rexton_en_256dc788` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:249 | doc_type:owners_manual
 ![](images/de09d92f2c0039044267d9d4c8a2317d3f0c3ff71f85a2a0fbca3f7e63a2e7d3.webp)
 
 ![](images/6197bd6cc8e9283899847611628b6ce8c356edd07b2e73dc3a392b5cb127b341.webp)
@@ -13078,14 +12515,12 @@ Be careful not to get the sealant or foreign materials into the engine.
 
 
 ### Installation Notice
-`ssangyong_rexton_en_a2114e39` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:250 | doc_type:owners_manual
 ![](images/a2ae790acd1dbd881567d306f57c7e12627581ca7298dce617118b8736c531ac.webp)
 
 11. Remove the HP pump bearing with HP pump bearing puller (special tool).
 
 
 ### Notice
-`ssangyong_rexton_en_790e1b94` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:251 | doc_type:owners_manual
 Do not apply excessive force. The timing chain may deviates.
 
 12. Remove the HP pump mounting bracket.
@@ -13098,7 +12533,6 @@ Installation Notice
 
 
 ### Notice
-`ssangyong_rexton_en_7f60c136` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:252 | doc_type:owners_manual
 •To prevent HP pump shaft damaging, do not apply excessive impact.   
 •Do not apply excessive force. The timing chain may deviates.
 
@@ -13110,7 +12544,6 @@ Installation Notice
 
 
 ### Notice
-`ssangyong_rexton_en_71cc6b94` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:253 | doc_type:owners_manual
 Remove the sealing caps only when connecting the pipes and hoses.
 
 16.When replaced the HP pump, initialize the fuel pressure by using SCAN-100. Refer to “Trouble Diagnosis” section in this manual.
@@ -13121,7 +12554,6 @@ Remove the sealing caps only when connecting the pipes and hoses.
 
 
 ### Notice
-`ssangyong_rexton_en_a5e5f738` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:254 | doc_type:owners_manual
 If the initialization of fuel pressure has not been performed, the engine ECU controls new HP pump with the stored offset value. This may cause the poor engine output.
 
 Install in the reverse order of removal and tighten the fasteners with the specified tightening torque.
@@ -13146,7 +12578,6 @@ Install in the reverse order of removal and tighten the fasteners with the speci
 
 
 ### Table of Contents
-`ssangyong_rexton_en_514eebf0` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:255 | doc_type:owners_manual
 AIR FLOWS DI03-3   
 INTAKE SYSTEM LAYOUT . ... I34   
 Components locator DI03-4   
@@ -13162,29 +12593,24 @@ SPECIAL TOOLS AND EQUIPMENT .. 317
 
 
 ### AIR FLOWS
-`ssangyong_rexton_en_aa7edd31` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:256 | doc_type:owners_manual
 ![](images/1e5226b8b4382787bd760e4cc07c1431ca4318af5f2f896285711af0b4818da9.webp)
 
 
 ### Work Flow of Intake System
-`ssangyong_rexton_en_eb6b3c80` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:257 | doc_type:owners_manual
 Caer S Cargr Intercooler Maad Comuein
 
 ![](images/433d06c897ea6012cee41526b75cdfcac8f8fb1bbbe3dba203771396cf4eb44f.webp)
 
 
 ### COMPONENTS LOCATOR
-`ssangyong_rexton_en_f82f7d89` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:258 | doc_type:owners_manual
 ![](images/58bdf5f478801d81b246ea8e5a1b2a09299f5dea0f2706153ebcdfda5d4d564d.webp)
 
 
 ### AIR CLEANER
-`ssangyong_rexton_en_7a55763a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:259 | doc_type:owners_manual
 ![](images/bd43aa067592cd21ace04be63957efdd43c955b6b2cf87cf0ed237fc9d58a4a2.webp)
 
 
 ### Specifications
-`ssangyong_rexton_en_71981458` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:260 | doc_type:owners_manual
 ![](images/0f95d775e0efbe5897e1fab501ea6ebef44455949789b6c6029a4c95cfa17b2f.webp)
 
 ![](images/3260fc1b86d326d104678c2736ca7916031273e7b5367437a758918621e46966.webp)
@@ -13195,7 +12621,6 @@ Caer S Cargr Intercooler Maad Comuein
 
 
 ### Air Cleaner Element - Replacement
-`ssangyong_rexton_en_91e29291` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:261 | doc_type:owners_manual
 Preceding Work: Disconnection of negative batery cable
 
 1. Disconnect the HFM sensor connector.   
@@ -13209,7 +12634,6 @@ Preceding Work: Disconnection of negative batery cable
 
 
 ### Air Cleaner Housing - Removal and Installation
-`ssangyong_rexton_en_107aecc7` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:262 | doc_type:owners_manual
 Preceding Work: Removal of air cleaner cover
 
 1.Set aside the return hose and remove the coolant reservoir bolts.
@@ -13221,7 +12645,6 @@ Remove the air cleaner housing bolts.
 
 
 ### Air Cleaner Housing/Element - Check
-`ssangyong_rexton_en_b8eda7a9` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:263 | doc_type:owners_manual
 1. Check the air cleaner body, cover and packing for deformation, corrosion and damage. Check the air duct for damage.
 
 3.Check the air cleaner element for clogging, contamination and damage. If the element is partially clogged, remove the dust or foreign materials with the compressed air. If the contamination is severe, replace it with new one. Also, be careful not to contaminate during the replacement.   
@@ -13230,7 +12653,6 @@ Remove the air cleaner housing bolts.
 
 
 ### Notice
-`ssangyong_rexton_en_9e48b035` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:264 | doc_type:owners_manual
 When cleaning the air cleaner with compressed air, direct the air from inside (engine) to outside (ambient air). Otherwise, contaminants can get into the engine.
 
 ![](images/8ec4041afe3e5c28222d5ad84cea65f43702f23c1e7583e0fdfbcfa1dfbf2fac.webp)
@@ -13239,7 +12661,6 @@ When cleaning the air cleaner with compressed air, direct the air from inside (e
 
 
 ### Change history
-`ssangyong_rexton_en_23953f9d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:265 | doc_type:owners_manual
 inner tube added + grid (No.3) added + sensing chip changed + sensing section design changed
 
 ![](images/da39e8a71832c3b119f11568b24bf02427c42438362a76d61210bac98a19a40e.webp)
@@ -13248,7 +12669,6 @@ inner tube added + grid (No.3) added + sensing chip changed + sensing section de
 
 
 ### Results
-`ssangyong_rexton_en_a9f55074` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:266 | doc_type:owners_manual
 Durability has enhanced 60 times (lab test results)
 
 <CI type HFM sensor structure>
@@ -13308,7 +12728,6 @@ Y220_03013
 
 
 ### HFM Sensor - Removal and Installation
-`ssangyong_rexton_en_e9a6d7e5` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:267 | doc_type:owners_manual
 ![](images/8719616015360f63310babe02117779fc9bfe44931dc7a3f42023f3199ad1cd5.webp)
 
 Preceding Work: Disconnection of negative battery cable
@@ -13333,7 +12752,6 @@ Unscrew the bolts and remove the HFM sensor assembly.
 
 
 ### Intake Air Outlet Hose (Turbo Charger) - Removal and Installation
-`ssangyong_rexton_en_00f55a83` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:268 | doc_type:owners_manual
 Remove the radiator grille.
 
 2. Loosen the clamp at both sides and remove the outlet hose.
@@ -13348,12 +12766,10 @@ Install in the reverse order of removal.
 
 
 ### Notice
-`ssangyong_rexton_en_376c42da` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:269 | doc_type:owners_manual
 Securely fasten the clamps on the pipes and hoses.
 
 
 ### Intake Air Inlet Duct (Air Cleaner) - Removal and Installation
-`ssangyong_rexton_en_e9e6e76d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:270 | doc_type:owners_manual
 1. Loosen the clamp at intercooler side.   
 2 Loosen the clamp at turbo charger side.
 
@@ -13363,7 +12779,6 @@ Securely fasten the clamps on the pipes and hoses.
 
 
 ### Intake Air Inlet Duct (Intake Manifold) - Removal and Installation
-`ssangyong_rexton_en_38d53376` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:271 | doc_type:owners_manual
 1. Loosen the clamp on the inlet hose in intercooler.
 
 ![](images/1dd94eef57e35457cc99ad7525b302be8de6175328abe503da0df4a549f56b84.webp)
@@ -13380,7 +12795,6 @@ Installation Notice
 
 
 ### INTERCOOLER
-`ssangyong_rexton_en_3579a15b` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:272 | doc_type:owners_manual
 The turbo chargeris designed to improve the engine power by introducing more air (oxygen) into the engine. However, the intake ai is heated (100 \~ 110°) during the compression processin turbo charger compressor and the density is lowered.
 
 The intercooler is the device which cools (50 \~ 60°C the air entering the engine. Colder air has more oxygen molecule: than warm air. Thus cooler air gives more power and better fuel economy.
@@ -13393,7 +12807,6 @@ The intercooler is the device which cools (50 \~ 60°C the air entering the engi
 
 
 ### Intercooler - Removal and Installation
-`ssangyong_rexton_en_374bb78e` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:273 | doc_type:owners_manual
 Remove the radiator grille.
 
 ![](images/e38a371c87227c253a927958ab9c711f67ef7e78082e8a3fcc67334606b519d6.webp)
@@ -13402,7 +12815,6 @@ Remove the radiator grille.
 
 
 ### Installation Notice
-`ssangyong_rexton_en_13f3a9e8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:274 | doc_type:owners_manual
 ![](images/6a906243580c7501bd2d7c148958dd859e14252133e959647334c4e574b4a313.webp)
 
 3Remove the intercooler mounting bolts. Installation Notice
@@ -13419,14 +12831,12 @@ Remove the radiator grille.
 
 
 ### INTAKE MANIFOLD ASSEMBLY
-`ssangyong_rexton_en_b2c6ff8a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:275 | doc_type:owners_manual
 ![](images/04ea9c8324727d67966b2768913153c658ad5cf9222b231c54bfe4c13c7076bc.webp)
 
 Y220_03030
 
 
 ### System Characteristics
-`ssangyong_rexton_en_2866fc70` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:276 | doc_type:owners_manual
 •Shape that delivers the required capacity of compressed air from turbo charger to inlet port   
 •Optimized EGR gas mixture in inlet chamber   
 •Maximized intake efficiency with helical and tangential inlet port -Improving the swirl ratio in low and mid operating range -Improving the acceleration/fuel economy and reducing the maintenance in low and mid operating range   
@@ -13436,7 +12846,6 @@ Integrated inlet port and coolant outlet port
 
 
 ### SPECIAL TOOLS AND EQUIPMENT
-`ssangyong_rexton_en_29bdd2bc` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:277 | doc_type:owners_manual
 ![](images/498f20c6933431f5e818fce8fe98244732f6ab33a7b187c1c810236613784518.webp)
 
 ![](images/f61b625423ff25bd190eaedbe75952695651a0da5451912efaeebd9bbfb23b07.webp)
@@ -13447,7 +12856,6 @@ Integrated inlet port and coolant outlet port
 
 
 ### Intake Manifold - Removal/nstallation
-`ssangyong_rexton_en_f9fd559a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:278 | doc_type:owners_manual
 Preceding Work: Disconnection of negative battery cable Lift up the vehicle and remove the skid plate.
 
 ![](images/27aaf3e1df42067ffbccf14b1039a23be7b90de3d8c469ea334e7f6596cba72d.webp)
@@ -13463,7 +12871,6 @@ Remove the coolant inlet port housing.
 
 
 ### Notice
-`ssangyong_rexton_en_a65dbb28` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:279 | doc_type:owners_manual
 •Replace the pipes (2, 3) at both sides of EGR cooler (1) and gaskets with new ones.   
 •Make sure that the convex surface of gasket is facing to the pressurized direction.
 
@@ -13487,14 +12894,12 @@ Remove the brackets and connectors from top section of the engine.
 
 
 ### Notice
-`ssangyong_rexton_en_9ee16764` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:280 | doc_type:owners_manual
 • Plug the openings of pipes and ports with sealing caps to keep the cleanness of the fuel system. • Replace the pipes with new one once removed.
 
 13.Remove the injector return line at HP pump.
 
 
 ### Notice
-`ssangyong_rexton_en_69b4416e` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:281 | doc_type:owners_manual
 •Be careful not to damage the pipes to HP pump. • Plug the fuel return port of the HP pump with a sealing cap.
 
 ![](images/93094dc661adfabf2653bed1e2e066b14125da444923ca6ad474a682679c72ba.webp)
@@ -13509,7 +12914,6 @@ Remove the brackets and connectors from top section of the engine.
 
 
 ### Notice
-`ssangyong_rexton_en_a283661b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:282 | doc_type:owners_manual
 Check the length of the bolts before installation. M8 x 45: 6EA M8 x 130: 6EA
 
 ![](images/9113a0dbbc6c69014ea2ebfeffd7de89fbee99c7736f64390067de2faed4619e.webp)
@@ -13520,33 +12924,28 @@ Check the length of the bolts before installation. M8 x 45: 6EA M8 x 130: 6EA
 
 
 ### Notice
-`ssangyong_rexton_en_d48c2120` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:283 | doc_type:owners_manual
 •Replace the gasket with new one. • Make sure that the residual coolant in intake manifold gets into the inside of inlet port.
 
 17. Instal n the reverse order of removal.
 
 
 ### Notice
-`ssangyong_rexton_en_4a7080b6` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:284 | doc_type:owners_manual
 •Replace the gasket with new one. • If replaced only gasket without any other service operation, completely remove the coolant and other contaminants from the engine before installation.
 
 ![](images/f0b8553e189d3105d1c58af73750b7b92f57e88c4ae3f87c8c6806340c94e897.webp)
 
 
 ### EXHAUST SYSTEM LAYOUT ... .. 43
-`ssangyong_rexton_en_9d25700d` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:285 | doc_type:owners_manual
 Components locator DI04-3   
 Exhaust gas flows . DI04-4   
 Turbo charger assembly. DI04-6
 
 
 ### EGR VALVE AND VACUUM MODULATOR .. DMI04-27
-`ssangyong_rexton_en_7934a490` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:286 | doc_type:owners_manual
 EGR system. . DI04-27 EGR valve and turbo charger actuator control vacuum circuit . .DI04-28
 
 
 ### EXHAUSTSYSTEM AND .MUFLER . MI4-36
-`ssangyong_rexton_en_c8a2e4e4` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:287 | doc_type:owners_manual
 Muffler .. .DI04-36   
 System overview . .DI04-37
 
@@ -13554,21 +12953,18 @@ System overview . .DI04-37
 
 
 ### COMPONENTS LOCATOR
-`ssangyong_rexton_en_13a969cc` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:288 | doc_type:owners_manual
 ![](images/a541d682fb8db79243708ff34effedca078f32ae8b42a134992546627b8f56e1.webp)
 
 ![](images/9a30a84acc364e89a01404e8997fc5f8b1f9e5dd922cedc81d5edd86f897902b.webp)
 
 
 ### EXHAUST GAS FLOWS
-`ssangyong_rexton_en_90e11aef` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:289 | doc_type:owners_manual
 ![](images/aed865a541e00c3bc351a99804707b4d38f4b21b450c18d49b3dc1ea78bd0b64.webp)
 
 ![](images/4e49f3be77e2f80cfbe60d26fe203a88b784c5191324221ae5eaa7558935f68f.webp)
 
 
 ### Exhaust Manifold Removal and Installation
-`ssangyong_rexton_en_d715e804` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:290 | doc_type:owners_manual
 Remove the two intake hoses from the turbo charger.
 
 ![](images/73449aec5c26e3060111cd271abdd915f73ec41790e28e3cb5b2680ba42d7cda.webp)
@@ -13581,7 +12977,6 @@ Remove the two intake hoses from the turbo charger.
 
 
 ### Notice
-`ssangyong_rexton_en_79d16f6c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:291 | doc_type:owners_manual
 The #3 pipe of EGR valve is exposed to the high temperature and pressure of exhaust gas. Replace the gasket and pipe with new ones. Otherwise, it may cause the leakage of exhaust gas.
 
 ![](images/8f0e618accbe56646883f3d4138065e0cf7a24debbceef402bc528e15b7ad6cb.webp)
@@ -13594,7 +12989,6 @@ The #3 pipe of EGR valve is exposed to the high temperature and pressure of exha
 
 
 ### Replace the gasket with new one.
-`ssangyong_rexton_en_525ff005` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:292 | doc_type:owners_manual
 5 Install in the reverse order of removal.
 
 ![](images/6f9e5370cab8d929128d7873475306713613981404cf84caa16d0c2aa89f6532.webp)
@@ -13603,7 +12997,6 @@ The #3 pipe of EGR valve is exposed to the high temperature and pressure of exha
 
 
 ### TURBO CHARGER ASSEMBLY
-`ssangyong_rexton_en_a49ec0a3` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:293 | doc_type:owners_manual
 The turbo charger is an air pump installd on the intake manifold. It enhances power and increases torque power of engine to increase the fuel consumption rate. The engine without turbo charger cannot get as much power output as it inducts air by the means of vacuum being generated from descending strokes of the piston. Therefore, by installing the turbo charger on the intake manifold, it supplies great amounts of air to the cylinder increasing the volume efficiency and, subsequently, enhances output power.
 
 Also, as the engine's power enhances, it increases the torque power and improves the fuel consumption rate. The regular turbo charger operates by utilizing the pressure from the exhaust gas and the other, caled Super Charger, operates by utilizing power from the engine. When the turbo charger is installed, weight of the engine increases by 10 to 15 % whereas the output power increases by 35 to 45 %.
@@ -13614,7 +13007,6 @@ Y220_04007
 
 
 ### Operating Principle of Turbo Charger
-`ssangyong_rexton_en_5d87e73f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:294 | doc_type:owners_manual
 ![](images/17a9fe0a394efdb0c6cfcad5c7a5e2ebaec0bfff198f3a04467750f8814007b2.webp)
 
 The turbo charger has one shaft where at each ends are installed with two turbines having different angles to connect one end of housing to the intake manifold and the other end to the exhaust manifold. As the turbine, at exhaust end, is rotated by exhaust gas pressure the impeller, at intake end, gets rotated to send air around center of the impeller, being circumferentially accelerated by the centrifugal force, into the diffuser.
@@ -13627,7 +13019,6 @@ Diffuser: With the meaning of spreading out it is a device that transforms fluid
 
 
 ### Construction of Turbo Charger
-`ssangyong_rexton_en_9eb64ecc` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:295 | doc_type:owners_manual
 The turbine wheelin turbo charger and compressor wheel are installed at each side of the shaft. I is comprised with the shaft supporting center housing (supporting the compressor with two float journal bearings), the turbine side parts of Turbine Wheel, Shroud and Turbine Housing, and the compressor side parts of compressor wheel, back plate and compressor housing.
 
 The turbine rotates turbine wheel by receiving exhaust gas energy from the engine.   
@@ -13659,7 +13050,6 @@ J. Oil return line
 
 
 ### Impeller
-`ssangyong_rexton_en_2fb8d360` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:296 | doc_type:owners_manual
 The impeller is wings (wheel) installed on the intake end and performs the role of pressurizing air into the cylinder.
 
 The radial type has the impeller plate arranged in straight line at the center of shaft and, compared to the backward type, is being widely used as it is simple, easy to manufacture and appropriate for high speed rotation. As the impeller rotates in the housing with the diffuser installed in it, the air receives centrifugal force to be accelerated in the direction of housing's outer circumference and flows into the diffuser.
@@ -13668,26 +13058,22 @@ As surface of the passage increases, air flown into the diffuser transforms its 
 
 
 ### Turbine
-`ssangyong_rexton_en_756fcc16` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:297 | doc_type:owners_manual
 The turbine is wings installed at the exhaust end where, by the pressure of exhaust gas, i rotates the compressor and performs the role of transforming heat energy of exhaust gas into torque energy. The radial type is used as the turbine's wings. Therefore, during operation of the engine, the turbine receives temperature of exhaust gas and it rotates in high speed, it requires to have sufficient rigidity and heat resisting property.
 
 During operation of the engine, exhaust gas discharged through the exhaust valve of each cylinder makes turbine rotate by coming in contact with the turbine's wings from the outer circumference within housing of the turbine and is exhausted through the exhaust manifold. At the same time, as the impeller is on the same shaft, it rotates.
 
 
 ### Floating Bearing
-`ssangyong_rexton_en_1f8a405c` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:298 | doc_type:owners_manual
 Floating Bearing is a bearing, which supports the turbine shaft that rotates at about 10,000 to 15,000rpm. I could be rotated freely between the housing and the shaft as it gets lubricated by oil being supplied from the engine.
 
 
 ### Notice
-`ssangyong_rexton_en_ede6afa7` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:299 | doc_type:owners_manual
 Stopping the engine immediately after driving at high speed stops oil from being supplied to the bearing and may cause it to get burnt. Therefore, the engine must be stopped after cooling the turbo system by sufficiently idling the engine.
 
 ![](images/897b87eaf93c15b0fb8562c2e6a4bb530f865b1f99b9acc4c9bd2c2eaf4fa277.webp)
 
 
 ### Booster Pressure Control Valve Unit (Turbo Charger Actuator)
-`ssangyong_rexton_en_8f31211a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:300 | doc_type:owners_manual
 In order to reduce discharging of hazardous exhaust gas and to avoid the engine's overrun the turbo charger must be appropriately controlled. The maximum turbo charging pressure must be controlled as excessive increase in the pressure and power output can cause critical damages to the engine. In order to control these, the booster pressure control valve is installed on the turbo charger.
 
 The difference of the booster pressure control between the existing D engine and D engine isthatiD engine, booster pressure of the intake manifold operates the booster pressure control valve connected directly to the turbo charger whereas in Dl engine, the control is achieved by utilizing vacuum modulator (vacuum from a vacuum pump) designed to control the booster pressure control valve. It operates booster pressure control valve by supplying electrical power to the vacuum modulator having the amount of air being flown into the HFM sensor from the engine's ECU as the base signal.
@@ -13696,7 +13082,6 @@ Refer to the EGR section in following pages for the function ofturbo charger and
 
 
 ### Booster pressure control valve unit and vacuum modulator
-`ssangyong_rexton_en_2ed4276f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:301 | doc_type:owners_manual
 ![](images/fa4e4970c4c6af011bb10de9b04c9d70890313e00e49e6cbd70d6fc53d8b9941.webp)
 
 Y220_04012
@@ -13705,7 +13090,6 @@ Y220_04012
 
 
 ### Inspection of Turbo Charger
-`ssangyong_rexton_en_a72b44c6` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:302 | doc_type:owners_manual
 The following lists cautions to take during test drive and on the turbo charger vehicle, which must be considered during the operation;
 
 1. It's important not to drastically increase the engine rpm starting the engine. It could make rotation at excessive speed even before the journal bearing is lubricated and when the turbo charger rotates in poor oil supply condition, it could cause damage of bearing seizure within few seconds.   
@@ -13714,7 +13098,6 @@ If the engine is running radically after replacing the engine oil or oil filter 
 
 
 ### Notice
-`ssangyong_rexton_en_5f7df8ad` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:303 | doc_type:owners_manual
 After string for long period of time during winter season or in the low temperature condition where the fluidity of engine oil declines, the engine, before being started, should be cranked to circulate oil and must drive after checking the oil pressure is in normal condition by idling the engine for few minutes.
 
 When problem occurs with the turbo charger, it could cause engine power decline, excessive discharge of exhaust gas, outbreak of abnormal noise and excessive consumption of oil.
@@ -13735,7 +13118,6 @@ Remove the exhaust pipe at the opening of the turbine and check, with a lamp, th
 
 
 ### Notice
-`ssangyong_rexton_en_cfbf5c61` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:304 | doc_type:owners_manual
 Idling for long period of time can cause oil leakage to the turbine side due to low pressure of exhaust gas and the rotation speed of turbine wheel. Please note this is not a turbo charger problem.
 
 ![](images/9b965f9651184e3bfd3677a5d0670e551b4dc950601f9b58aab497c0395ca5bc.webp)
@@ -13748,7 +13130,6 @@ In case where oil flow from the turbo charger sensor housing to the crank case i
 
 
 ### Must absolutely not operate the turbo charger with the compressor outlet and inlet opened as it could damage the turbo charger or be hazardous during inspection.
-`ssangyong_rexton_en_3fc756a3` | rexton | pdf_manual | tier:2 | lang:en | layer:brakes | p:305 | doc_type:owners_manual
 - Interference: In case where is trace of interference or smallest damage on the compressor wheel means, most of times, that abrasion has occurred on the journal bearing. Must inspect after the overhaul.
 
 - Oil Leakage: The reason for oil leakage at the compressor section is the air cleaner, clogged by substances such as dust, causes the compressor inlet negative pressure;
@@ -13757,7 +13138,6 @@ A. Rotating in high speed at no-load for extended period of time can cause oil l
 
 
 ### Notice
-`ssangyong_rexton_en_a18752ff` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:306 | doc_type:owners_manual
 No problem will occur with the turbo charger if above conditions are found in early stage but oil leaked over long period of time will solidify at each section causing to breakout secondary defects.
 
 - Damages by foreign materials: In case where the compressor wheel is damaged by foreign materials requires having an overhaul. At this time, it's necessary to check whether the foreign materials have contaminated intake/exhaust manifold or inside of engine.
@@ -13766,7 +13146,6 @@ No problem will occur with the turbo charger if above conditions are found in ea
 
 
 ### Path of Turbo Charger Defect
-`ssangyong_rexton_en_5858f246` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:307 | doc_type:owners_manual
 The following tries to understand the defects that can occur with vehicle installed with the turbo charger and to manage the reasons of such defects.
 
 1. In case where oil pan/oil pipe has been contaminated, oil filter is defected and where adhesive of gaskets has been contaminated into the oil line.
@@ -13783,7 +13162,6 @@ The following tries to understand the defects that can occur with vehicle instal
 
 
 ### 3. Turbine Side: Inflow of foreign materials from engine Compressor Side: such as air filter, muffler and nut
-`ssangyong_rexton_en_027faeae` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:308 | doc_type:owners_manual
 ![](images/69bcd87b23f29dcbdae2a081c9816ddc293cce121451d41e2bd81e4f7afbe8f6.webp)
 
 ![](images/9eb15d104e6748e63d56bd0aba272b0f562dade33205e6fab13142525aa313f2.webp)
@@ -13794,12 +13172,10 @@ The following tries to understand the defects that can occur with vehicle instal
 
 
 ### How to Diagnose
-`ssangyong_rexton_en_aa685665` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:309 | doc_type:owners_manual
 The followings are cautions to take in handling defects of turbo charger, which must be fully aware of;
 
 
 ### Cautions When Examining the Defects:
-`ssangyong_rexton_en_c6e7c6b0` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:310 | doc_type:owners_manual
 After stopping the engine, check whether the bolts on pipe connecting section are lose as well as the connecting condition of vacuum port and modulator, which is connected to the actuator.
 
 During idling of the engine, check for leakage in the connecting section of pipe (hoses and pipes, duct connections, after the turbo charger) by applying soap water. The leakage condition in the engine block and turbine housing opening can be determined by the occurrence of abnormal noise of exhaust.
@@ -13822,21 +13198,18 @@ Inspect both side of the turbo charger wheel after removing inlet and outlet pip
 
 
 ### Notice
-`ssangyong_rexton_en_aecd9400` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:311 | doc_type:owners_manual
 It's important not to drive the engine when the intake manifold hose has been removed.
 
 ![](images/51b5c639fa98edf800971f331eb01a29375c523764ca663dac8484c1b691d58c.webp)
 
 
 ### Diagnosis and Measure
-`ssangyong_rexton_en_d28a0ec1` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:312 | doc_type:owners_manual
 ![](images/b5bef5cbfa41ebb608b57df5b8204b7dd6c35fc2a8773593d9572d8cfe751387.webp)
 
 ![](images/20f4745ad50628196b8c539100e660b65c9cbf64ec862ed07b5db9b78fdf7d9c.webp)
 
 
 ### Before Diagnosis
-`ssangyong_rexton_en_f5b789c6` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:313 | doc_type:owners_manual
 The base of making diagnosis on the EGR related system is the inspection on the connections of the vacuum hoses in related system as the first priority. When abnormal condition occurs with the EGR system, the basic approach is, as described in prior sentence, making detail inspections of vacuum circuits of each system before connecting the scan tool or vacuum tester. I is necessary to manually check on the connections if there are any slacks orloose circuits even if the visual inspection shows vacuum hose as being connected. f there are not any problems then the next inspection area is the connections of the system connectors. Most problems with the occurence of system malfunction are from conditions of vacuum line and connector connections and the causes from the malfunction of mechanical mechanism is actually very few.
 
 For example, when there are no problems with basic components, let's assume that there is a vehicle having vacuum leak from connection slack in the vacuum line between EGR vacuum modulator and EGR valve. This vehicle, due to the driving condition or, according to the circumstances, smog or other conditions, could create customer's complaint and by connecting the scanning device could display as the malfunction of the EGR valve's potentiometer.
@@ -13888,7 +13261,6 @@ For other diagnosis, refer to Diagnosis section.
 
 
 ### Turbo Charger Assembly - Removal and Installation
-`ssangyong_rexton_en_30604025` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:314 | doc_type:owners_manual
 Remove the drain plug and drain the engine oil from the oil pan.
 
 Installation Notice
@@ -13906,7 +13278,6 @@ Installation Notice
 
 
 ### Installation Notice
-`ssangyong_rexton_en_32237276` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:315 | doc_type:owners_manual
 ![](images/e155a159b5d3ecf2f7295bd75f23b1b1db0674cdd7d72bc52dbbe498674919a5.webp)
 
 4.Remove the lower and upper bolts at turbo charger oil supply pipe.
@@ -13927,7 +13298,6 @@ Remove the lower bolts at turbo charger oil return pipe.
 
 
 ### Notice
-`ssangyong_rexton_en_a1b0944e` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:316 | doc_type:owners_manual
 Replace the steel gasket with new one.
 
 Installation Notice
@@ -13944,7 +13314,6 @@ Remove the lower bolt at turbo charger bracket.
 
 
 ### Notice
-`ssangyong_rexton_en_ce15315d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:317 | doc_type:owners_manual
 Use only 12 1/2" wrench.
 
 Remove the bolts and nuts at the turbo charger and the exhaust manifold.
@@ -13959,12 +13328,10 @@ Remove the turbo charger assembly.
 
 
 ### Notice
-`ssangyong_rexton_en_2b80cf86` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:318 | doc_type:owners_manual
 •Replace the steel gasket with new one. •To prevent gas leaks, tighten the fasteners with the specified tightening torques.
 
 
 ### General Information
-`ssangyong_rexton_en_0f602818` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:319 | doc_type:owners_manual
 EGR system controls the opening vale of EGR valve by transmiting electrical signal (PWM control) from the engine ECU to vacuum modulator. Also, the engine ECU receives the feedback signals of the amount of air flowing through the HFM sensor.
 
 ![](images/729fee833873cc365bf7553010a8a6349d91becccc3f36ab541498d579598248.webp)
@@ -13985,12 +13352,10 @@ Y220_04023
 
 
 ### Vacuum Modulator
-`ssangyong_rexton_en_de115eef` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:320 | doc_type:owners_manual
 The biggest diference between the vacuum circuit and layout of the Hoover EGR system after K2004 has been introduced is the location of the vacuum modulator for EGR valve control and the function of the other modulator. In case of EGR equipped veicle (ID ngine), it performs the role of controlling the PLA of ijection pump whereas, in D engine, it controls the turbo charger actuator.
 
 
 ### DI engine vacuum modulator
-`ssangyong_rexton_en_1c4eca6d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:321 | doc_type:owners_manual
 1. EGR valve vacuum modulator   
 2. Turbo charger booster vacuum modulator
 
@@ -13998,7 +13363,6 @@ The biggest diference between the vacuum circuit and layout of the Hoover EGR sy
 
 
 ### IDI engine vacuum modulator (hoover EGR system - K2004)
-`ssangyong_rexton_en_11be48e8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:322 | doc_type:owners_manual
 ![](images/45efaf5ea456cb2cd07e9dcea3c20cd1f33b080f36a48a1c95cb32cf185cd508.webp)  
 1. Vacuum modulator for EGR valve control
 
@@ -14008,19 +13372,16 @@ The biggest diference between the vacuum circuit and layout of the Hoover EGR sy
 
 
 ### Vacuum Modulator and Vacuum Hose
-`ssangyong_rexton_en_6dda32c5` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:323 | doc_type:owners_manual
 Below figures illustrate vacuum hoses and related parts of EGR or turbo where wrong or poor connection of vacuum hose would display condition of engine irregularity and defect diagnostic codes on the scan tool.
 
 
 ### Related with EGR valve
-`ssangyong_rexton_en_95b4247f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:324 | doc_type:owners_manual
 ![](images/c00d416754cc22e577d75037d3b80a2ef1844a3d6c353665f050263fd806c2fe.webp)
 
 Y220_04026
 
 
 ### Related with turbo charger actuator
-`ssangyong_rexton_en_e829de18` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:325 | doc_type:owners_manual
 ![](images/f35d17cec2607e421a00638a254a1f010d9c49d3923225b332d6867d397ebc98.webp)
 
 Y220_04027
@@ -14029,28 +13390,24 @@ Y220_04027
 
 
 ### EGR System Diagram
-`ssangyong_rexton_en_7cabdb51` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:326 | doc_type:owners_manual
 ![](images/5a7eb53f8b5a8216f760cc881cf9bbe8ccc7ef35c79780274245d1c5ee8fa27b.webp)
 
 Y220_04028
 
 
 ### EGR Valve
-`ssangyong_rexton_en_1dc69cf5` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:327 | doc_type:owners_manual
 EGR valve recirculates some of exhaust gases to intake system to reduce toxic NOx from engine according to ECU signals.
 
 • EGR valve opening point : -270 mmHg
 
 
 ### EGR Modulator
-`ssangyong_rexton_en_43b12b66` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:328 | doc_type:owners_manual
 According to ECU signals, the vacuum modulator drives EGR valve by contrling vacuum pressure that is generated by vacuum pump with PWM type controls.
 
 ![](images/1f4194017efea05ed66e0f0e45baf6e215e8aab114a25702becad4eae5f0b557.webp)
 
 
 ### Operation Principle of Vacuum Modulator
-`ssangyong_rexton_en_9a23bf1d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:329 | doc_type:owners_manual
 ![](images/7dfe87fc6100a7ad54d657ec45faa71e9b6e1f4e5681c8d7a452edfe563590b0.webp)
 
 Vacuum is controlled according to relationship between chamber pressure (l in rolling nipple cover and magnetic force (l) in plunger.
@@ -14061,7 +13418,6 @@ According to ECU signals, the solenoid valve controls the vacuum pressure that i
 
 
 ### Operating principle: Balance between original vacuum pressure and magnetic force (see above figure)
-`ssangyong_rexton_en_f967c1b9` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:330 | doc_type:owners_manual
 •Normal state (Fig. A): Original vacuum and seat section, 3 stoppers keep sealing   
 •Duty up state (Fig. B): Original vacuum pressure is connected to inside of diaphragm chamber   
 Duty down state (Fig. C): Increased diaphragm chamber pressure is connected to atmosphere to compensate the pressure.
@@ -14076,14 +13432,12 @@ Vacuum consumption: Compared to 50 % of duty, ON/OFF periods are most unstable a
 
 
 ### Output Characteristics
-`ssangyong_rexton_en_5fde419f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:331 | doc_type:owners_manual
 ![](images/c074ac8cf0bfca7634fa29e24eefbb34229d73b74d821db3850d924bab48e184.webp)
 
 ![](images/6ce8331abd63512d6aa697ba95932a20b2a64bca7c9983b9cec137ccbeaa4933.webp)
 
 
 ### Operating Conditions
-`ssangyong_rexton_en_a1df7ebe` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:332 | doc_type:owners_manual
 Engine is running   
 •Engine RPM is within a specified range. (EGR OFF under high RPM range)   
 Engine torque is within a specified range. (EGR OFF under high torque range)   
@@ -14093,7 +13447,6 @@ EGR OFF under extended period ofidling.
 
 
 ### Control Logic
-`ssangyong_rexton_en_f02a8b85` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:333 | doc_type:owners_manual
 •Main map: EGR volume is controlled based on intake air volume   
 •Auxiliary map - Coolant temperature (Coolant temperature sensor) -Engine rpm (Crankshaft position sensor) Engine load (TPS): Detection of sharp acceleration - Intake air temperature (HFM): Decreases when over 60°C -Atmospheric pressure (Barometric sensor): Compensation of altitude
 
@@ -14101,7 +13454,6 @@ EGR OFF under extended period ofidling.
 
 
 ### Shut-off Conditions
-`ssangyong_rexton_en_5665f74d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:334 | doc_type:owners_manual
 Engine rpm: over 2,950 rpm   
 •Vehicle speed: over 105 km/h   
 • Coolant temperature: over 100°C or below 10°C   
@@ -14113,7 +13465,6 @@ Engine rpm: over 2,950 rpm
 
 
 ### EGR Valve and Pipe Removal and Installation
-`ssangyong_rexton_en_889f8eeb` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:335 | doc_type:owners_manual
 Remove the vacuum hose from the EGR valve.
 
 ![](images/abfdc7dc560a5fdabd606388992cbe4b4f7d3d14629ba712d02a16a602bd9dcb.webp)
@@ -14134,14 +13485,12 @@ Unscrew the bolts and remove the EGR valve (2), EGR valve #1 pipe (1) and gasket
 
 
 ### Notice
-`ssangyong_rexton_en_49dab458` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:336 | doc_type:owners_manual
 •Make sure to observe the specified tightening torques.   
 •Never reuse the EGR #1 pipe (intake) and #3 pipe (exhaust) once removed.   
 •Replace the gaskets with new ones.
 
 
 ### Vacuum Modulator - Removal and Installation
-`ssangyong_rexton_en_8bbc10fc` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:337 | doc_type:owners_manual
 1. Remove the vacuum hose from the vacuum modulator.
 
 Remove the vacuum modulator from the bracket.
@@ -14152,7 +13501,6 @@ Remove the vacuum modulator from the bracket.
 
 
 ### Notice
-`ssangyong_rexton_en_a69ea22d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:338 | doc_type:owners_manual
 Make sure that the vacuum hoses are connected to correct locations.
 
 ![](images/3f76e0c20b0c3a6c3df63aa66302b1bbcfefce163045fdbeb5e26f57f4a4145f.webp)
@@ -14161,14 +13509,12 @@ Make sure that the vacuum hoses are connected to correct locations.
 
 
 ### EXHAUST SYSTEM AND MUFFLER
-`ssangyong_rexton_en_0342afa8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:339 | doc_type:owners_manual
 ![](images/48bec8351fb6b3a738553328277fc08b68cd5b881208b87785e2c13d9306f18c.webp)
 
 Y220_04039
 
 
 ### MUFFLER
-`ssangyong_rexton_en_23fb6139` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:340 | doc_type:owners_manual
 The mufler is located at the middle of the exhaust pipe and reduces the pulse noise and the tail pipe noise by eliminatig :he flowing resistance from the exhaust gas.
 
 The important elements of the muffler are volume, construction and location.
@@ -14177,39 +13523,32 @@ The important elements of the muffler are volume, construction and location.
 
 
 ### Exhaust System
-`ssangyong_rexton_en_4bc32a8f` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:341 | doc_type:owners_manual
 Check the complete exhaust system and the nearby body areas and trunk lid for broken, damaged, missing or mispositioned parts, open seams, holes, loose connections, or other deterioration which could permit exhaust fumes to seep into the trunk may be an indication of a problem in one of these areas. Any defects should be corrected immediately.
 
 
 ### Notice
-`ssangyong_rexton_en_af96145c` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:342 | doc_type:owners_manual
 When you are inspecting or replacing exhaust system components, make sure there is adequate clearance from all points on the underbody to avoid possible overheating of the floor panel and possible damage to the passenger compartment insulation and trim materials.
 
 
 ### DOC (Diesel Oxidation Catalyst)
-`ssangyong_rexton_en_6846f5fa` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:343 | doc_type:owners_manual
 DOC (Diesel Oxidation Catalyst) is the purification device to reduce the toxic emissions from the exhaust gas from the engine. By using the chemical reaction, the amount of toxic gas such as NOx can be reduced.
 
 
 ### Notice
-`ssangyong_rexton_en_49a63c6d` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:344 | doc_type:owners_manual
 To prevent damage of DOC, never contact the lift pad when lifting up the vehicle.
 
 
 ### Muffler
-`ssangyong_rexton_en_cffc311e` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:345 | doc_type:owners_manual
 Aside from the exhaust manifold connection, the exhaust system uses a flange and seal joint design rather than a slip joint coupling design with clamp and U-bolts. If hole, open seams, or any deterioration is discovered upon inspection of the front muffler and pipe assembly, the complete assembly should be replace, the complete assembly should be replaced. The same procedure is applicable to the rear muffler assembly. Heat shields for the front and rear muffler assembly and catalytic converter protect the vehicle and the environment from the high temperatures that the exhaust system develops.
 
 
 ### Heat Shield
-`ssangyong_rexton_en_4a5aacee` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:346 | doc_type:owners_manual
 The heat shield protects the vehicle and components from the high heat generated from the exhaust system.
 
 In this vehicle, the heat shield to block the heat from DOC is installed to the underbody, and the heat shield to block the heat from the rear muffler is installed to the underbody between the fuel tank and the rear muffler.
 
 
 ### Hanger
-`ssangyong_rexton_en_61aec8ab` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:347 | doc_type:owners_manual
 The hanger is to support the components.
 
 If the ganger is not properly installed, it may cause the vibration that is very difficult to diagnose. Therefore, install the hanger to the correct location so that the exhaust system cannot contact to the underbody and other components.
@@ -14218,7 +13557,6 @@ If the ganger is not properly installed, it may cause the vibration that is very
 
 
 ### System and principle
-`ssangyong_rexton_en_564eee4c` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:348 | doc_type:owners_manual
 Oxidation catalytic technology for diesel engine is basically the same with it of gasoline engine used before development of 3 primary catalyst (2 primary catalyst), and its effect and performance were already proved.
 
 DOC (Diesel Oxidation Catalyst) reduces HO and CO contained exhaust gas over 80 %, and removes SOF (Soluble Organic Fraction) over 50 \~ 80 %, but because its portion in total PM is low, it reduces approx, 20 \~ 40 % of TPM (Total Particulate Material).
@@ -14231,7 +13569,6 @@ On the other hand, it is a problem that it makes the reaction of oxidation, whic
 
 
 ### Catalytic converter structure
-`ssangyong_rexton_en_65c5aeb8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:349 | doc_type:owners_manual
 The Catalytic converter of monolith type consists of 2 walled metal bodies which is made of Cordierite.
 
 The principal element of converter consists of the materials like Alumina or oxidized Serume in order to apply to Ceramic Monolith. Washer coat operates first, and catalytic metal elements (Pt, Pd, Ph) operates to washer coat next.
@@ -14252,12 +13589,10 @@ Generally Alumina (AL2O3) is used as a raw material and its 7 phases of gamma, d
 
 
 ### Catalytic converter and temperature
-`ssangyong_rexton_en_f230529b` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:350 | doc_type:owners_manual
 Catalytic converter has the normal function of purification at a range of the temperature. Because it has a weak point of decreasing of the purification rate in the condition of continuous high temperature, it should keep the temperature range of 400 to 500°C for normal condition. HC purification rate becomes better according to the increase of temperature in the normal range of temperature. CO purification rate becomes the best near the temperature of 450°C, and NOx does so near the temperature of 400 to 500°C.
 
 
 ### Purification of catalytic converter
-`ssangyong_rexton_en_242172c4` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:351 | doc_type:owners_manual
 •Adhesion of soluble organic fraction (SOF) below 180°C   
 Purification of soluble organic fraction (SOF) over 180°C Chemical reaction formula   
 •SOF(HC) + 02 .02+ H20   
@@ -14286,14 +13621,12 @@ C2H2n+2 .PAH (Aromatic HC) Soot Soot Metals SO2+H20 Metals SO2+H20 Catalyzer CO 
 
 
 ### Method for reduction of NOx
-`ssangyong_rexton_en_926c5daf` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:352 | doc_type:owners_manual
 NOx is generated a great deal in case that combustion temperature and excess air factor are high. EGR valve can decrease NOx (30 to 35 % decrease) by making temperature of combustion chamber fall by means of exhaust gas recirculation.
 
 ![](images/08552229e198e8ed6c9c9aa1de8c260836cb41e7cd46838e63708ee4758cb77e.webp)
 
 
 ### Notice
-`ssangyong_rexton_en_4ca1cb5f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:353 | doc_type:owners_manual
 Use the universal type wrench.
 
 ![](images/b4524ed86fbff1107870b380510bee39c74007df9db9352d4e24a2592c8b36f7.webp)
@@ -14315,14 +13648,12 @@ Remove the pipe mounting rubber.
 
 
 ### Catalytic Converter Removal and Installation
-`ssangyong_rexton_en_bf25ba19` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:354 | doc_type:owners_manual
 Unscrew the bolts at both sides and remove the gasket and the converter. Install in the reverse order of removal.
 
 ![](images/ee95eb51f08b86f80bb5652cf41c23fb5c90a283b9817c7ac8ff66e1af8c32fd.webp)
 
 
 ### #2 Exhaust Pipe Removal and Installation
-`ssangyong_rexton_en_bbd20196` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:355 | doc_type:owners_manual
 Unscrew the bolts and remove the gasket.
 
 ![](images/c2b33f62c972c63a01d2ee3d24fd5cfcfbda7effc8fdd61d0ecc8a17fa5557ca.webp)
@@ -14339,7 +13670,6 @@ Remove the #2 exhaust pipe.
 
 
 ### LUBRICATION SYSTEM. .. ... 0-3
-`ssangyong_rexton_en_cb37aedf` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:356 | doc_type:owners_manual
 Lubrication system layout . DI05-4   
 Lubrication diagram . DI05-5   
 Specifications . DI05-6   
@@ -14356,14 +13686,12 @@ SPECIAL TOOLS AND EQUIPMENT . . 5.19
 
 
 ### LUBRICATION SYSTEM
-`ssangyong_rexton_en_0a440077` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:357 | doc_type:owners_manual
 ![](images/fd6144d57d8fd25b47297498736c3d446d35d61a4ca95bb48ea9da4d1b77412b.webp)
 
 ![](images/efd95c59f468a2c5d618fe894cce2b7223520c43504851a4c268efd5e6294c16.webp)
 
 
 ### LUBRICATION SYSTEM LAYOUT
-`ssangyong_rexton_en_7c67e359` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:358 | doc_type:owners_manual
 ![](images/fa7a4f6551b4011c06f9ea3782e2cb5b7aaaffcf993491653996302d455c9d25.webp)
 
 Y220_05002
@@ -14372,7 +13700,6 @@ Y220_05002
 
 
 ### LUBRICATION DIAGRAM
-`ssangyong_rexton_en_1049fce7` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:359 | doc_type:owners_manual
 ![](images/ac577ba71a798d0f963dbcd6aa2dd8b2cbfb4b95f5df31c87cb9d1037b78d876.webp)
 
 Y220_05003
@@ -14385,12 +13712,10 @@ To prevent instant oil shortage after stopping the engine, the return check valv
 
 
 ### SPECIFICATIONS
-`ssangyong_rexton_en_5c6c1e7c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:360 | doc_type:owners_manual
 ![](images/3b8722e8d89889c69b12c9677d14868e21be8e894355ff3ffc569701cadba066.webp)
 
 
 ### Severe condition:
-`ssangyong_rexton_en_5b984594` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:361 | doc_type:owners_manual
 -When most trips include extended idling and/or frequent low-speed operation as in stop-and-go traffic. -When most trips are lessthan 6 km (Operating when outside temperatures remain below freezing and when most trips are less than 16 km)   
 -When operating in dusty, sandy and salty areas   
 - In hilly or moutainous terrain   
@@ -14400,14 +13725,12 @@ To prevent instant oil shortage after stopping the engine, the return check valv
 
 
 ### Oil Pressure Switch
-`ssangyong_rexton_en_c0059530` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:362 | doc_type:owners_manual
 • Operating temperature: -40 \~ 140°C • Operating pressure: 0.3 \~ 0.55 bar •Permissible pressure: 10 bar
 
 ![](images/fc32662436819aa5e73f9dfe27c0829422c2a9d46669f79de6a49d209313605e.webp)
 
 
 ### Oil Pump
-`ssangyong_rexton_en_008f5ab9` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:363 | doc_type:owners_manual
 ![](images/d353f0adddeaee13000ca46a0c65e729626d2fb8fb5c69a6123d19df719be7fe.webp)
 
 ![](images/d33cd2b8d3a7a31dc221f624e7b9761a96ed2e6e1c69a40db6019cf5d9a9d6ed.webp)
@@ -14416,7 +13739,6 @@ Differences between D27DT and old model (D29ST) - Enlarged pump capacity: Width 
 
 
 ### Oil Cooler
-`ssangyong_rexton_en_e2bb59f6` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:364 | doc_type:owners_manual
 ![](images/90ebd4b130c0b835b3aa970110e9bd7ea3afa62d2dd7c7d36d0b7025b023b1eb.webp)
 
 •Replace two oil cooler gaskets with new ones when the oil cooler has been removed.
@@ -14427,12 +13749,10 @@ Differences between D27DT and old model (D29ST) - Enlarged pump capacity: Width 
 
 
 ### Blow-by Gas Reduction Device
-`ssangyong_rexton_en_54aa4ac8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:365 | doc_type:owners_manual
 ![](images/37d180c6d283a8bf1f141316c790f4ae52107ea6211e1d17b4d2f7cdf7a13946.webp)
 
 
 ### Cylinder Head Cover
-`ssangyong_rexton_en_8050c497` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:366 | doc_type:owners_manual
 ![](images/59392498a16edd98f32d3f6ef990354750ee533a7c124d2a39e71ce5f08b6c7e.webp)
 
 Bafleplate assembly: The bafle plates in cylinder head cover separates oil and gas from blow-by gas, and controls the blow-by gas speed to send only gas to separator.
@@ -14441,7 +13761,6 @@ Bafleplate assembly: The bafle plates in cylinder head cover separates oil and g
 
 
 ### Oil Separator
-`ssangyong_rexton_en_b403c925` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:367 | doc_type:owners_manual
 ![](images/ba05ca503a139174692c94970192bbef4d103c0d4c4baeabf3145a444ae55282.webp)
 
 Y220_05009
@@ -14450,7 +13769,6 @@ The first separation wil happen when blow-by gas passes through bafle plates in 
 
 
 ### Engine Oil Pressure Check
-`ssangyong_rexton_en_99342496` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:368 | doc_type:owners_manual
 Check the oil level and quality before checking the oil pressure.
 
 Drain the engine oil.
@@ -14467,14 +13785,12 @@ Install the switch and engage the connector.
 
 
 ### •Apply the Loctite onto the thread of the switch and check for oil leaks.
-`ssangyong_rexton_en_ec922774` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:369 | doc_type:owners_manual
 ![](images/0bd458c58556a4686e1ab4c4ab92fc288cc9f28d98e53329ea0a9e312236e308.webp)
 
 ![](images/2c2b203b22c22cfd4e961fd2703c6a816a1e01b96e6ac87fb9b0e91dd159d544.webp)
 
 
 ### ENGINE OIL CHANGE
-`ssangyong_rexton_en_af41ead8` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:370 | doc_type:owners_manual
 Change interval: Initial change: 5,000 km, Change every 10,000 km or 12 months
 
 Frequently check and add if needed. Shorten the change interval under severe conditions.
@@ -14487,24 +13803,20 @@ Frequently check and add if needed. Shorten the change interval under severe con
 
 
 ### Water separation from the fuel filter should be performed when changing the engine oil.
-`ssangyong_rexton_en_aea01c69` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:371 | doc_type:owners_manual
 ![](images/521f955aeb4260231fd6fd3f4d4dd7971dad86a46fc23c1d29e610412a9739ea.webp)
 
 
 ### Engine Oil Changing Procedures
-`ssangyong_rexton_en_07e19f11` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:372 | doc_type:owners_manual
 1. Park the vehicle on the level ground and warm up the engine until it reaches normal operating temperature. Stop the engine and wait around 5 minutes. Remove the oil filler cap, oil filter and oil drain plug to drain the oil.
 
 
 ### After driving, the engine oil temperature may be high enough to burn you. Wait until the oil is cooled down.
-`ssangyong_rexton_en_b99beff5` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:373 | doc_type:owners_manual
 3Install new oil filter and tighten the drain plug with specified tighten torque.
 
 ![](images/87e8ab949544d61ef0a07c5657ceb24544966f93f768c3fead9a8890699bd039.webp)
 
 
 ### Notice
-`ssangyong_rexton_en_9f9c547e` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:374 | doc_type:owners_manual
 •Over-tightening may cause oil leaks.   
 •Replace the drain plug washer with new one.
 
@@ -14512,7 +13824,6 @@ Fil te engine oil through the oil filer opening.
 
 
 ### Notice
-`ssangyong_rexton_en_6e5a8e5b` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:375 | doc_type:owners_manual
 The oil should not go above the upper mark on the dipstick. This would lead, for example, to increased oil consumption, fouling of the spark plugs and excessive formation of carbon residue.
 
 Close the oil filler cap and start the engine.   
@@ -14522,7 +13833,6 @@ Stop the engine again and check the oil level. Add the engine oil i needed and c
 
 
 ### Engine oil filter change
-`ssangyong_rexton_en_97068f25` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:376 | doc_type:owners_manual
 1. For changing procedures, refer to the “Lubrication System” section in this manual.
 
 • Lubricate the engine oil gasket with engine oil before installation.   
@@ -14542,7 +13852,6 @@ Y220_05011
 
 
 ### Oil Filter and Cooler Removal and Installation
-`ssangyong_rexton_en_e2dc82ed` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:377 | doc_type:owners_manual
 Preceding Works:
 
 -Draining of engine oil -Removal of EGR vacuum modulator bracket
@@ -14555,14 +13864,12 @@ Remove the oil cooler and filter mounting bolt.
 
 
 ### Pay attention to the length of bolts.
-`ssangyong_rexton_en_eafd68e8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:378 | doc_type:owners_manual
 ![](images/73b5b29b3ecb96cd4e55005c6ed58109ef4245cada122f70147ccb8ce78b2176.webp)
 
 4Remove the oil cooler and filter assembly from the cylinder block.
 
 
 ### Notice
-`ssangyong_rexton_en_ad0212b2` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:379 | doc_type:owners_manual
 The oil cooler and filter assembly cannot be replaced separately.
 
 5 Install in the reverse order of removal.
@@ -14573,7 +13880,6 @@ The oil cooler and filter assembly cannot be replaced separately.
 
 
 ### OIL PUMP
-`ssangyong_rexton_en_23d04bf9` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:380 | doc_type:owners_manual
 ![](images/7f63368c02d4afa88c03e0f22d37209a5611542c9466450a69c995dc1fbfaa68.webp)
 
 1. Oil pump   
@@ -14588,7 +13894,6 @@ The oil cooler and filter assembly cannot be replaced separately.
 
 
 ### Oil Pump - Removal and Installation
-`ssangyong_rexton_en_d2047913` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:381 | doc_type:owners_manual
 Remove the oil pan.
 
 ![](images/d55a7c457c95ee785fd8e5bbb1ed94963c57812159b2a138dedd5a0a0140499e.webp)
@@ -14602,7 +13907,6 @@ Remove the oil pump.
 
 
 ### Oil Dipstick Guide Tube Removal and Installation
-`ssangyong_rexton_en_bb1d0c05` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:382 | doc_type:owners_manual
 Pull out the engine oil dipstick.
 
 Remove the EGR valve pipe (No.3).
@@ -14611,28 +13915,24 @@ Remove the EGR valve pipe (No.3).
 
 
 ### Replace the pipe with new one.
-`ssangyong_rexton_en_c5be7801` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:383 | doc_type:owners_manual
 ![](images/fa21c4655b7abd490bd66138bb08f2c37e294dda3d80b4e4a894892ebe9f2159.webp)
 
 Unscrew the bolt and remove the oil dipstick guide tube.
 
 
 ### Replace the O-ring with new one.
-`ssangyong_rexton_en_8e71d9fd` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:384 | doc_type:owners_manual
 4 Install in the reverse order of removal.
 
 ![](images/3ef02304cd11c58cc183635ffefa5b8e8423d0ea062ea8e97fe95718191cdb20.webp)
 
 
 ### Notice
-`ssangyong_rexton_en_57c43798` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:385 | doc_type:owners_manual
 After installation, check for oil leaks.
 
 ![](images/99091a806062b9c6aebc3e8b1988a15e58c038959dfd7ddecfc328f5cab6f6e7.webp)
 
 
 ### OIL SPRAY NOZZLE
-`ssangyong_rexton_en_ed6b3c50` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:386 | doc_type:owners_manual
 ![](images/baffd58b3a601c970cdd214250557c1be66335b5be38c597189e8e2ac9a140e2.webp)
 
 Y220_05021
@@ -14648,7 +13948,6 @@ Y220_05021
 
 
 ### Disassembly
-`ssangyong_rexton_en_19a7e748` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:387 | doc_type:owners_manual
 1. Remove the oil pan or crankshaft.   
 2. Unscrew the bolts and remove the nozzle.
 
@@ -14656,7 +13955,6 @@ Y220_05021
 
 
 ### OIL PAN ASSEMBLY
-`ssangyong_rexton_en_7011b692` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:388 | doc_type:owners_manual
 ![](images/56678c4c66265bb294004d2cb3f1f3918ab78f089743faad9da546daf5de71a0.webp)
 
 Y220_05023
@@ -14696,7 +13994,6 @@ Y220_05023
 
 
 ### SPECIAL TOOLS AND EQUIPMENT
-`ssangyong_rexton_en_62420613` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:389 | doc_type:owners_manual
 ![](images/7b1f1c2f94723bdcebf17e79432782c8e2a1648ab9ab6f537a83f031f32bc146.webp)
 
 ![](images/8e84d967651dfaf8375eb6aa973cd99e5d9cab9eb5066e17ab8eaaa8112265f4.webp)
@@ -14705,7 +14002,6 @@ Y220_05023
 
 
 ### Table of Contents
-`ssangyong_rexton_en_8895b73b` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:390 | doc_type:owners_manual
 COOLING SYSTEM .DI06-3   
 ENGINE COOLING SYSTEM. .DI06-4   
 Specifications . DI06-10   
@@ -14727,7 +14023,6 @@ FFH (Fuel Fired Heater): refer to “FFH System” in this manual.
 
 
 ### ENGINE COOLING SYSTEM
-`ssangyong_rexton_en_6f9e5bc8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:391 | doc_type:owners_manual
 ![](images/6a24e061d96bc39093da0703cf466d64036d02f280d584b3d24a75cda0083eb4.webp)
 
 Y220_06002
@@ -14739,7 +14034,6 @@ Cylinder head side Cylinder head → Coolant outlet port (intake #1) → Radiato
 
 
 ### Function Description
-`ssangyong_rexton_en_7a6a8519` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:392 | doc_type:owners_manual
 ![](images/fb62d6569ac6cf2d65fa8d93f36fd048290ca74813566a3946abeaf2f61a8f7d.webp)
 
 •Cylinder head coolant outlet port is integrated into intake manifold. (in front of cylinder #1) Improved shape and gasket material to prevent coolant from leaking
@@ -14760,7 +14054,6 @@ It prevents cooling efficiency from decreasing due to coolant separation between
 
 
 ### Radiator
-`ssangyong_rexton_en_99a29434` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:393 | doc_type:owners_manual
 This vehicle has a lightweight tube-and-fin aluminum radiator.   
 Be careful not to damage the radiator core when servicing.
 
@@ -14768,14 +14061,12 @@ Be careful not to damage the radiator core when servicing.
 
 
 ### Water pump
-`ssangyong_rexton_en_701499ea` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:394 | doc_type:owners_manual
 The belt-driven centrifugal water pump consists of an impeller, a drive shaft, and a belt pulley. The impeller is supported by a completely sealed bearing.
 
 The water pump is serviced as an assembly and, therefore, cannot be disassembled.
 
 
 ### Scalding hot coolant and steam could be blown out under pressure, which could cause serious injury. Never remove the coolant reservoir cap when the engine and radiator are hot.
-`ssangyong_rexton_en_bb433a8a` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:395 | doc_type:owners_manual
 The coolant reservoir is a transparent plastic reservoir, similar to the windshield washer reservoir. The coolant reservoir is connected to the radiator by a hose and to the engine cooling system by another hose. As the vehicle is driven, the engine coolant heats and expands. The portion of the engine coolant displaced by this expansion flows from the radiator and the engine into the coolant reservoir. The air trapped in the radiator and the engine is degassed into the coolant reservoir.
 
 When the engine stops, the engine coolant cools and contracts. The displaced engine coolant is then drawn back into the radiator and the engine. This keeps the radiator filled with the coolant to the desired level at all times and increases the cooling efficiency. Maintain the coolant level between the MIN and MAX marks on the coolant reservoir when the system is cold.
@@ -14784,7 +14075,6 @@ When the engine stops, the engine coolant cools and contracts. The displaced eng
 
 
 ### Thermostat
-`ssangyong_rexton_en_aed1be92` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:396 | doc_type:owners_manual
 A wax pellet-type thermostat controls the flow of the engine coolant through the engine cooling system. The thermostat is mounted in the thermostat housing to the front of the cylinder head. The thermostat stops the flow of the engine coolant from the engine to the radiator to provide faster warm-up, and to regulate the coolant temperature. The thermostat remains closed while the engine coolant is cold, preventing circulation of the engine coolant through the radiator. At this point, the engine coolant is allowed to circulate only throughout the heater core to warm it quickly and evenly. As the engine warms, the thermostat opens. This allows the engine coolant to flow through the radiator where the heat is dissipated. This opening and closing of the thermostat permits enough engine coolant to enter the radiator to keep the engine within proper engine temperature operating limits. The wax pellet in the thermostat is hermetically sealed in a metal case. The wax element of the thermostat expands when it is heated and contracts when it is cooled. As the vehicle is driven and the engine warms, the engine coolant temperature increases. When the engine coolant reaches a specified temperature, the wax pellet element in the thermostat expands and exerts pressure against the metal case, forcing the valve open. This allows the engine coolant to flow through the engine cooling system and cool the engine. As the wax pellet cools, the contraction allows a spring to close the valve.
 
 The thermostat begins to open at 85°C and is fully open at 100°C. The thermostat closes at 85°C.
@@ -14797,7 +14087,6 @@ The thermostat begins to open at 85°C and is fully open at 100°C. The thermost
 
 
 ### When closed (up to 85°C)
-`ssangyong_rexton_en_fddd81bc` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:397 | doc_type:owners_manual
 ![](images/bf66a5bf2353a8fa793c2eb64c31d8c928d6f023c38151b72cc1bc11066b8fa6.webp)
 
 X. from vrankcase
@@ -14808,12 +14097,10 @@ Z. from radiator
 
 
 ### When fully opened (above 100°C)
-`ssangyong_rexton_en_cfcd41d7` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:398 | doc_type:owners_manual
 If the cooling system is fully filled with, the coolant is automatically bled through ball valve (arrow) in thermostat.
 
 
 ### When partially opened (85°C \~ 100°C)
-`ssangyong_rexton_en_8ba842dc` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:399 | doc_type:owners_manual
 ![](images/49a67595bd36c55416b6b9d2696adb3091138d53d7d6ec793f819166e2c2023d.webp)
 
 Y220_06010
@@ -14826,7 +14113,6 @@ Y220_06010
 
 
 ### Viscous fan clutch
-`ssangyong_rexton_en_4067134e` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:400 | doc_type:owners_manual
 ![](images/6396dfb3ff2cf1d460e3f054ef31a5862e91531af8dbda06702d24cf3b1eb1c6.webp)
 
 Y220_06013
@@ -14844,12 +14130,10 @@ The cooling speed increases approx. 1,000 rpm with wind noise when the engine sp
 
 
 ### Notice
-`ssangyong_rexton_en_c983e13d` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:401 | doc_type:owners_manual
 Keep hands, tools, and clothing away from the engine cooling fans to help prevent personal injury. This fan is electric and can turn on even when the engine is not running.
 
 
 ### Notice
-`ssangyong_rexton_en_776457c4` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:402 | doc_type:owners_manual
 If a fan blade is bent or damaged in any way, no attempt should be made to repair or reuse the damaged part. A bent or damaged fan assembly should always be replaced with a new one to prevent possible injury.
 
 ![](images/75cf43fc2199b24c46431d199c6a6b1451e70fc5e0cb3bb52c40b4b43b86f518.webp)
@@ -14860,12 +14144,10 @@ The cooling fans are mounted behind the radiator in the engine compartment. The 
 
 
 ### 2. A/C On
-`ssangyong_rexton_en_a38cebfe` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:403 | doc_type:owners_manual
 • The ECU will turn the cooling fan on at high speed when the A/C system is on.
 
 
 ### Engine coolant temperature sensor
-`ssangyong_rexton_en_85c84ff2` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:404 | doc_type:owners_manual
 The Engine Coolant Temperature (ECT) sensor uses a temperature to control the signal voltage to the Engine Control Unit (ECU).
 
 ![](images/63e8d4f7ccc247fd1493f759a9afd9c9cf4d82f0cc3d75dca25df02d1c2604e2.webp)
@@ -14874,14 +14156,12 @@ The Engine Coolant Temperature (ECT) sensor uses a temperature to control the si
 
 
 ### SPECIFICATIONS
-`ssangyong_rexton_en_3f9f971f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:405 | doc_type:owners_manual
 ![](images/f92e2e88a92d302cbf1237011a5b3b22ee7157f19365bb81a43b993e83489c63.webp)
 
 ![](images/51f290ddaca39167e539e0225f7240f45d050ef85e46fd1a0c047faba03d62e4.webp)
 
 
 ### Notice
-`ssangyong_rexton_en_87acb8f7` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:406 | doc_type:owners_manual
 Scalding hot coolant and steam could be blown out under pressure, which could cause serious injury. Never remove the coolant reservoir cap when the engine and radiator are hot.
 
 Take precautions to prevent antifreeze coming in contact with the skin, eyes or vehicle body. If contact happens, rinse affected areas immediately with plenty of water.
@@ -14895,7 +14175,6 @@ Take precautions to prevent antifreeze coming in contact with the skin, eyes or 
 
 
 ### Coolant Temperature Sensor
-`ssangyong_rexton_en_a86476b7` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:407 | doc_type:owners_manual
 ![](images/10ea631b08202628eb1c90f1a78b6734776080f3a57e4c4cc64674662cb5e2e6.webp)  
 Y220_06017
 
@@ -14921,26 +14200,22 @@ ECU functions as below with coolant temperature sensor signals.
 
 
 ### Trouble Diagnosis
-`ssangyong_rexton_en_9736da83` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:408 | doc_type:owners_manual
 ![](images/e9e9fb3c66b959eb3a4f79e5fb95f08a72ca4f367481c0a1032b68a378c4f21e.webp)
 
 ![](images/e09fa45bd23f826759f40271d2eb81790ef480a124f7779051b373bf5d2ade45.webp)
 
 
 ### INSPECTION
-`ssangyong_rexton_en_12be75b6` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:409 | doc_type:owners_manual
 ![](images/d9cc308cc08c333d3d678c01155996b1c62bf9c6af6ac1c85d6f25c574d05ff5.webp)
 
 Release the pressure from coolant reservoir by loosening one notch of coolant reservoir cap, and then remove the cap.
 
 
 ### Notice
-`ssangyong_rexton_en_a69737d3` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:410 | doc_type:owners_manual
 Scalding hot coolant and steam could be blown out under pressure, which could cause serious injury. Never remove the coolant reservoir cap when the before the temperature goes down below 90°C.
 
 
 ### Cooling System
-`ssangyong_rexton_en_3ecf6738` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:411 | doc_type:owners_manual
 ![](images/eae1809ac52dc3755a6f26577ade3abd7d8d181042e928b786a2b9fc8d9a9066.webp)
 
 Add the coolant up to upper mark (arrow) on the reservoir.
@@ -14954,7 +14229,6 @@ Y220_06021
 
 
 ### Thermostat
-`ssangyong_rexton_en_59fd5e5f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:412 | doc_type:owners_manual
 Immerse the thermostat into the water. Heat the water and check the valve opening temperature.
 
 ![](images/5c139977594cebb2d1620cbbe9896bc6427eb8005c7962e18b2ebb0fba435d96.webp)
@@ -14963,7 +14237,6 @@ Immerse the thermostat into the water. Heat the water and check the valve openin
 
 
 ### Coolant Temperature Gauge Unit
-`ssangyong_rexton_en_5002e50a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:413 | doc_type:owners_manual
 1. Immerse the senor unit into the water. Heat the water and check the resistance.
 
 ![](images/9bf92f39d5cef2a2229ce42d3dbb0593660814cf8c89cc3d7881e57917f5fbac.webp)
@@ -14985,14 +14258,12 @@ Y220_06023
 
 
 ### Thermostat
-`ssangyong_rexton_en_51d282e8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:414 | doc_type:owners_manual
 1. Immerse the thermostat into the oil. Heat the oil until it reaches the specified temperature and check if the coolant temperature switch is turned “OFF”.
 
 ![](images/1fa6d7b9abbe75b946feae4ba8b4904be09dbd4c69aaa723f06fcb0024045362.webp)
 
 
 ### Notice
-`ssangyong_rexton_en_e2efd038` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:415 | doc_type:owners_manual
 Use only engine oil for this inspection. Stir the oil during heating it. Never heat the oil over required temperature.
 
 ![](images/d94e667f8a01705a9e89c184a2f8fe96e21ead091e56095fb2b08bdf8a9616df.webp)
@@ -15003,12 +14274,10 @@ Y220_06024
 
 
 ### REMOVAL AND INSTALLATION
-`ssangyong_rexton_en_e407144a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:416 | doc_type:owners_manual
 ![](images/18d5ecf4768c67055b0870dec4ff303b7bcea012c67032adf234f2f5c5179f18.webp)
 
 
 ### Coolant Hose (Inlet/Outlet)
-`ssangyong_rexton_en_0ad7d319` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:417 | doc_type:owners_manual
 Preceding Work: Draining of coolant
 
 1. Loosen the clamp and remove the coolant outlet hose (engine to radiator).
@@ -15029,7 +14298,6 @@ Y220_06027
 
 
 ### Shroud and Cooling Fan/Clutch
-`ssangyong_rexton_en_c91db112` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:418 | doc_type:owners_manual
 Preceding Works:
 
 -  Draining of coolant   
@@ -15062,7 +14330,6 @@ Installation Notice
 
 
 ### Water Pump - Assembly
-`ssangyong_rexton_en_070576fa` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:419 | doc_type:owners_manual
 Preceding Works:
 
 - Draining of coolant - Removal of V-belt -Removal of shroud -Removal of cooling fan
@@ -15095,14 +14362,12 @@ Unscrew the bolts and remove the EGR pipe and bracket. Installation Notice
 
 
 ### Installation Notice
-`ssangyong_rexton_en_905d7d66` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:420 | doc_type:owners_manual
 ![](images/aca58423ba7155f247f1a638585b5b07ee016301390cdd53ef627f65e5f625ac.webp)
 
 Remove the oil dipstick tube.
 
 
 ### Notice
-`ssangyong_rexton_en_2351b7e9` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:421 | doc_type:owners_manual
 • Replace the O-ring in oil dipstick with new one. • Plug the oil dipstick hole with a cap not to get the foreign materials into the engine.
 
 5Unscrew the bolts and remove the water pump assembly. Installation Notice
@@ -15111,14 +14376,12 @@ Remove the oil dipstick tube.
 
 
 ### Notice
-`ssangyong_rexton_en_4e8910b8` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:422 | doc_type:owners_manual
 Remove the gasket residues from the sealing surface and replace the gasket with new one.
 
 6 Install in the reverse order of removal.
 
 
 ### \* Preceding Works:
-`ssangyong_rexton_en_317b5cba` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:423 | doc_type:owners_manual
 -Draining of coolant   
 -Removal of V-belt   
 -Removal of cooling fan   
@@ -15148,7 +14411,6 @@ Unscrew the bolts and remove the thermostat housing. Installation Notice
 
 
 ### Water Pump Housing
-`ssangyong_rexton_en_40148b62` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:424 | doc_type:owners_manual
 Preceding Works:
 
 -Removal of water pump assembly -Removal of thermostat assembly
@@ -15173,7 +14435,6 @@ Unscrew the bolts and remove the water pump housing. Installation Notice
 
 
 ### Notice
-`ssangyong_rexton_en_57501e91` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:425 | doc_type:owners_manual
 •Be careful not to damage the O-ring in coolant outlet pipe (cylinder head side). •Remove the gasket residues from the sealing surface and replace the gasket with new one.
 
 5 Install in the reverse order of removal.
@@ -15184,7 +14445,6 @@ Unscrew the bolts and remove the water pump housing. Installation Notice
 
 
 ### Radiator
-`ssangyong_rexton_en_a6eee68b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:426 | doc_type:owners_manual
 Preceding Work: Draining of coolant
 
 1 Lift up the vehicle and remove the skid plate.
@@ -15195,7 +14455,6 @@ Remove the clips and washers from bottom of radiator at both sides.
 
 
 ### Notice
-`ssangyong_rexton_en_c2b3bb37` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:427 | doc_type:owners_manual
 Be careful not to damage the rubber bushing.
 
 ![](images/57b1d45f9251a12c2ad68af020a6788d5ec963378487d2daf8c8f17f1a7bcdf9.webp)
@@ -15214,7 +14473,6 @@ Installation Notice
 
 
 ### Notice
-`ssangyong_rexton_en_d4ea317d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:428 | doc_type:owners_manual
 •Plug the radiator oil holes with caps.   
 •Replace the hose washers with new ones.
 
@@ -15253,7 +14511,6 @@ Installation Notice
 
 
 ### Coolant Reservoir
-`ssangyong_rexton_en_109f2029` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:429 | doc_type:owners_manual
 1. Drain the coolant.   
 Remove the hoses.
 
@@ -15271,19 +14528,16 @@ Remove the hoses.
 
 
 ### Draining and Adding of Coolant
-`ssangyong_rexton_en_82199d43` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:430 | doc_type:owners_manual
 Release the pressure from coolant reservoir by loosening one notch of coolant reservoir cap, and then remove the cap.
 
 
 ### Notice
-`ssangyong_rexton_en_48ed299d` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:431 | doc_type:owners_manual
 Scalding hot coolant and steam could be blown out under pressure, which could cause serious injury. Never remove the coolant reservoir cap when the before the temperature goes down below 90°C.
 
 2. Loosen the drain plug in bottom of radiator and drain the coolant.
 
 
 ### Notice
-`ssangyong_rexton_en_e8d8e2f1` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:432 | doc_type:owners_manual
 Collect the drained coolant with a proper container.
 
 3.Remove the drain plug (1) and seal (2) in the cylinder block and drain the coolant.
@@ -15297,7 +14551,6 @@ Replace the seal with new one and install the drain plug. Installation Notice
 
 
 ### Notice
-`ssangyong_rexton_en_4d736f75` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:433 | doc_type:owners_manual
 •Keep the coolant mixture ratio of 50:50 (water : antifreezer).   
 •Add the coolant until the water flows out through the overflow hose.
 
@@ -15307,7 +14560,6 @@ Replace the seal with new one and install the drain plug. Installation Notice
 
 
 ### PREHEATING SYSTEM
-`ssangyong_rexton_en_989ee01c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:434 | doc_type:owners_manual
 ![](images/2d91a3cc786853c8d001b20e126dd81df57a3e5d79ac4281e656b0e6c3fb39d4.webp)
 
 ![](images/9f5c651e69d5797976e07981b2b9aa602256301cd5d158d05c9b1192b35441c0.webp)
@@ -15316,7 +14568,6 @@ Replace the seal with new one and install the drain plug. Installation Notice
 
 
 ### OVERVIEW
-`ssangyong_rexton_en_951a8bbc` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:435 | doc_type:owners_manual
 Glow plug is installed on the cylinder head (combustion chamber) in the D27DT preheating control unit system. Col starting performance has improved and exhaust gas during cold starting has reduced.
 
 ECU receives coolant temperature and engine speed to control; after monitoring the engine preheating/after heating anc glow plug diagnosis function, the fault contents will be delivered to ECU.
@@ -15327,49 +14578,41 @@ ECU receives coolant temperature and engine speed to control; after monitoring t
 
 
 ### Structure
-`ssangyong_rexton_en_2fabddce` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:436 | doc_type:owners_manual
 ![](images/20ffd44261cd83c1242031483b92796e302dfb1a081d785dbdc77bf4da86517b.webp)
 
 ![](images/6872142ce15fa5e9702427e138ae111f2cc233bd54ee2006d27881ac081ded8f.webp)
 
 
 ### PREHEATING SYSTEM DIAGRAM
-`ssangyong_rexton_en_938aab4e` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:437 | doc_type:owners_manual
 ![](images/6c538abcf6e03788d8e1b95ecc705674bb20fd09f99c5867d3aad7949137a789.webp)
 
 Y220_06070
 
 
 ### Specifications
-`ssangyong_rexton_en_3e166c31` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:438 | doc_type:owners_manual
 ![](images/222ff8d9d7d9108dfecf8d0e01f40e85ff20b3cf160277e9587bbcac5e8df7f2.webp)
 
 ![](images/dfbdd79cc963bddac823758b09019520f08669a3d06302d1e750506f03327f23.webp)
 
 
 ### Function
-`ssangyong_rexton_en_22f8663d` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:439 | doc_type:owners_manual
 Preheating system controls and checks follwing functions and operating conditions.
 
 
 ### Pre-Heating
-`ssangyong_rexton_en_11b57549` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:440 | doc_type:owners_manual
 The power wil be supplied to the glow plugs by ECU controls when the power is supplied to the IG terminal from the battery and there are normal communications with ECU within 2 seconds. The surface of glow plug will be heated up to 850°C very quickly to aid combustion by vaporizing air-fuel mixture during compression stroke. Preheating time is controlled by ECU.
 
 
 ### After-heating
-`ssangyong_rexton_en_a3000432` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:441 | doc_type:owners_manual
 When the engine is started, after-heating starts by ECU controls. The idle rpm wil be increased to reduce toxic smoke, pollutants and noises.   
 After-heating time is controlled by ECU.
 
 
 ### Checking glow plugs
-`ssangyong_rexton_en_6280239b` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:442 | doc_type:owners_manual
 •Check each glow plug for short in circuit •Check each glow plug for open in circuit due to overvoltage Check glow plug for short to ground
 
 
 ### K-Line communication
-`ssangyong_rexton_en_53a11619` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:443 | doc_type:owners_manual
 •ECU sends the results to preheating time control relay through K-Line to start communication.   
 Preheating time control relay sends messages including self-diagnosis data for glow plugs to ECU.   
 •Glow plug makes communication only as response to demand.   
@@ -15380,14 +14623,12 @@ Error code of “P1720 - Pre heating control communication fail” will be repor
 
 
 ### Operating time
-`ssangyong_rexton_en_0ad0fc59` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:444 | doc_type:owners_manual
 ![](images/d024a638301b9115d17c6dd5bfffd48e48dfa30db789a20307366fc6974fb5c5.webp)
 
 ![](images/4e3c07ed080a343327fe6585271ff5a483a96b4d48ed337435cf075b3a266686.webp)
 
 
 ### Table of Contents
-`ssangyong_rexton_en_1bd0a389` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:445 | doc_type:owners_manual
 CAUTIONS FOR DI ENGINE. .DI07-3   
 FUEL SYSTEM. DI07-6   
 Fuel injection system DI07-6   
@@ -15400,17 +14641,14 @@ Injector DI07-48
 
 
 ### CAUTIONS FOR DI ENGINE
-`ssangyong_rexton_en_3fd74372` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:446 | doc_type:owners_manual
 This chapter describes the cautions for DI engine equipped vehicle. This includes the water separation from engine, warning lights, symptoms when engine malfunctioning, causes and actions.
 
 
 ### DI Engine
-`ssangyong_rexton_en_fd8307f6` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:447 | doc_type:owners_manual
 Comparatively conventional diesel engines, DI engine controls the fuel injection and timing electrically, delivers high power and reduces less emission.
 
 
 ### Water Separator Warning Light
-`ssangyong_rexton_en_ec00b604` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:448 | doc_type:owners_manual
 When a severe failure has been occurred in a vehicle, the system safety mode is activated to protect the system. It reduces the driving force, restricts the engine speed (rpm) and stops engine operation. Refer to “Diagnosis” section in this manual.
 
 When the water level inside water separator in fuel filter exceeds a certain level (approx. 39 cc), this warning light comes on and buzzer sounds.
@@ -15423,7 +14661,6 @@ For the draining procedures, please refer to “How to drain the water from fuel
 
 
 ### Priming Pump
-`ssangyong_rexton_en_9aef96bc` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:449 | doc_type:owners_manual
 The priming pump installed in fuel pump is the device to fil the fuel into the fuel fiter. When the vehicle is under the conditions as below, press the priming pump until it becomes rigid before starting the engine.
 
 WARNING
@@ -15432,12 +14669,10 @@ Never reverse filter or use it in other place (clean side)
 
 
 ### Conditions for using Priming Pump
-`ssangyong_rexton_en_b6eb5b97` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:450 | doc_type:owners_manual
 1. After run out of fuel After draining the water from fuel separator 3. After replacing filter or any intervention on system
 
 
 ### Fuel Filter and Water Separator
-`ssangyong_rexton_en_93bf9878` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:451 | doc_type:owners_manual
 ![](images/1acc366a2c4063337e95b1442e67b5ded47c595f67f9f9fdacdc2a7adcd17351.webp)
 
 ![](images/8a8f59848fe0375ef62d4837392f6ad3f535406fa272714e2b2f2e730ef074c0.webp)
@@ -15451,14 +14686,12 @@ Y220_07003
 
 
 ### Notice
-`ssangyong_rexton_en_7a7c1278` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:452 | doc_type:owners_manual
 When replaced the fuel filter or drained the water from fuel filter, press the priming pump until it becomes rigid before starting the engine. •The water drain from fuel filter should be performed whenever changing the engine oil.
 
 ![](images/6a50245ed7886769d8e73d28179a4d8ff3e148ee1a10f8e4a610134c4541ce36.webp)
 
 
 ### Draining the Water From Fuel Filter
-`ssangyong_rexton_en_d6ac0b42` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:453 | doc_type:owners_manual
 1Place the water container under the fuel filter.
 
 ![](images/f72dd8d6e3cab7d2367b7189be0e073817bc83816cbfa5b478b54cdf74837352.webp)
@@ -15467,7 +14700,6 @@ Turn the drain plug (2) to “A” direction to drain the water. 3. Press primin
 
 
 ### Notice
-`ssangyong_rexton_en_21e801a3` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:454 | doc_type:owners_manual
 Be careful not to be injured by surrounding equipment during the working procedures.
 
 ![](images/ebc3564bc4435862b0ad7c7f785c7de6d035086938ca2aa555ff4150dd7294f1.webp)
@@ -15477,22 +14709,18 @@ Be careful not to be injured by surrounding equipment during the working procedu
 6. Clear the fault code of ECU with scan 100.
 
 
-### WARNING
-`ssangyong_rexton_en_b4749de0` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:455 | doc_type:owners_manual
-If the priming pump is not properly operated, air may get into the fuel line. It may cause starting problem or fuel system problem. Make sure to perform the job in step 4.
-
-![](images/00273787e2f8de2e6c840a1f56550bbaea55969714d19219ba6cb1a300b4a665.webp)
-
-![](images/3157f151d189bb548c752e3c0c69c090a8ec0fb0fef6b6c8b9a798da3834a120.webp)
+> ⚠️ **Внимание:** If the priming pump is not properly operated, air may get into the fuel line. It may cause starting problem or fuel system problem. Make sure to perform the job in step 4.
+>
+> ![](images/00273787e2f8de2e6c840a1f56550bbaea55969714d19219ba6cb1a300b4a665.webp)
+>
+> ![](images/3157f151d189bb548c752e3c0c69c090a8ec0fb0fef6b6c8b9a798da3834a120.webp)
 
 
 ### Electronic Control of Fuel System
-`ssangyong_rexton_en_4e457098` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:456 | doc_type:owners_manual
 ![](images/6c50c1aa7d90717ef5868c4fb4240580916f480cfaedee4671b5b9766e015841.webp)
 
 
 ### System composition
-`ssangyong_rexton_en_a515bb3f` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:457 | doc_type:owners_manual
 - High pressure fuel pump - Fuel rail - Fuel pressure sensor Rupr ine - Fuel injector - Electronic control unit (ECu) - Other sensors and actuators ECU connecting line Y220 07007
 
 According to input signals from various sensors, engine ECU calculates driver's demand (position of the accelerato jedal) and then controls overall operating performance of engine and vehicle on that time.
@@ -15503,7 +14731,6 @@ ECU receives signals from sensors via dataline and then performs efective engine
 
 
 ### Composition of Fuel System
-`ssangyong_rexton_en_42e38cf3` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:458 | doc_type:owners_manual
 Components in fuel system are designed to generate and distribute high pressure, and they are controlld electronically by engine ECU. Accordingly, fuel system is completely diffrent from injection pump type fuel supply system on the conventional Diesel engine. The fuel injection system in common rail engine is composed of transfer pressure section that transfers fuel in low pressure, high pressure section that transfers fuel in high pressure and ECU control section.
 
 ![](images/7999cda2e2c55eff24ad3f3eb2e1751db15bd33f5fee61ba14c842c1d29b5f16.webp)
@@ -15516,7 +14743,6 @@ Fuel route
 
 
 ### Hydraulic cycle in Fuel Line (Transfer and High Pressure Line)
-`ssangyong_rexton_en_bc3c8a92` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:459 | doc_type:owners_manual
 ![](images/07f4083779e523eb508c3b3d2279d7e3305f9bcf25a6cb8a2b262020f66a7415.webp)
 
 Y220_07009
@@ -15525,7 +14751,6 @@ Y220_07009
 
 
 ### Components of Low Pressure Transfer Line
-`ssangyong_rexton_en_a7c8c19f` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:460 | doc_type:owners_manual
 Low pressure stage is to supply sufficient fuel to high pressure section and components are as below.
 
 •Fuel tank (including strainer)   
@@ -15536,14 +14761,12 @@ Transfer pump
 
 
 ### Fuel tank
-`ssangyong_rexton_en_c0051efb` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:461 | doc_type:owners_manual
 Fuel tank is made of anti-corrosion material and its allowable pressure is 2 times of operating pressure (more than 0.3 bar). It has protective cap and safety valve to prevent excessive pressure building. Also, it has structure to prevent fuel from leaking in shocks, slopes and corners and to supply fuel smoothly.
 
 ![](images/9a89ff4af9110f1ff7fce8045d3c486a6170978c61b95c6b11ab40b577cc108e.webp)
 
 
 ### Priming pump
-`ssangyong_rexton_en_bbbf4e75` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:462 | doc_type:owners_manual
 If fuel runs out during driving or air gets into fuel line after fuel filter replacement, it may cause poor engine starting or damage to each component. Therefore, the hand priming pump is installed to bleed air from transfer line.
 
 When the vehicle is under the conditions as below, press the priming pump until it becomes rigid before starting the engine.
@@ -15554,7 +14777,6 @@ Press the priming pump until it becomes rigid before starting the engine.
 
 
 ### Fuel filter
-`ssangyong_rexton_en_464551a6` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:463 | doc_type:owners_manual
 It requires more purified fuel supply than conventional diesel engine. If there are foreign materials in the fuel, fuel system including pump components, delivery valve and injector nozzles may be damaged.
 
 Fuel filter purifies fuel before it reaches to high pressure pump to help proper operations in high pressure pump. And more, it separates water from fuel to prevent water from getting into FIE system (high pressure line).
@@ -15569,7 +14791,6 @@ Y220_07012
 
 
 ### Components of High Pressure Transfer Line
-`ssangyong_rexton_en_05797d68` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:464 | doc_type:owners_manual
 In the high pressure section, sufficient fuel pressure that injectors requires wil be generated and stored. The compo nents are as below:
 
 •High pressure pump   
@@ -15584,38 +14805,32 @@ Injector
 
 
 ### High pressure pump (including IMV and limit valve)
-`ssangyong_rexton_en_c670dac1` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:465 | doc_type:owners_manual
 This is plunger pump that generates high pressure; and driven by crankshaft with timing chain. The high pressure pump increases system pressure of fuel to approx. 1,600 bar and this compressed fuel is transferred to high pressure accumulator (common rail) in tube through high pressure line.
 
 
 ### Common rail (including pressure sensor)
-`ssangyong_rexton_en_a84bf2f3` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:466 | doc_type:owners_manual
 It stores fuel transferred from high pressure pump and also stores actual high pressure of fuel. Even though the injectors inject fuel from the rail, the fuel pressure in the rail is maintained to a specific value. It is because the effect of accumulator is increased by unique elasticity of fuel. Fuel pressure is measured by rail pressure sensor. And the inlet metering valve (IMV) included in high pressure pump housing keeps pressure to a desired level.
 
 ![](images/c0341785c4e732c4620f3b961510cbc2eaf0af77dfd54104c3feb1e632550cf6.webp)
 
 
 ### High pressure pipe (fuel pipe)
-`ssangyong_rexton_en_7b25b1d4` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:467 | doc_type:owners_manual
 Fuel line transfers high pressure fuel. Accordingly, it is made of steel to endure intermittent high frequency pressure changes that occur under maximum system pressure and injection stops. Injection lines between rail and injectors are all in the same length; it means the lengths between the rail and each injector are the same and the differences in length are compensated by each bending.
 
 ![](images/82bfe5a38d26400e955ef0871a3d800a1814fc8330b692a0f32627284fb16094.webp)
 
 
 ### Injectors
-`ssangyong_rexton_en_eb9ad151` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:468 | doc_type:owners_manual
 The fuel injection device is composed of electrical solenoid valve, needle and nozzle and controlled by engine ECU. The injector nozzle opens when solenoid valve is activated to directly inject the fuel into combustion chamber in engine. When injector nozzle is open, remaining fuel after injection returns to fuel tank through return line.
 
 
 ### Transfer pump
-`ssangyong_rexton_en_14c43a05` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:469 | doc_type:owners_manual
 The transfer pump is included in the housing of the high pressure pump. The transfer pump is the volumetric blade type pump. To deliver the continuously required fuel volume, the pump transfers fuel from the fuel tank to high pressure pump.
 
 ![](images/9c9c82017ee606803e0cd9e893071ae0b7a2e817793938095b8bcb36f0699fb9.webp)
 
 
 ### Fuel Filter Replacement
-`ssangyong_rexton_en_1a149e53` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:470 | doc_type:owners_manual
 \* Fuel filter change interval: every 30,000 km   
 \* Water separation interval: every 15,000 km max. (same with engine oil change interval)   
 \* Never reuse the removed fuel filter
@@ -15624,7 +14839,6 @@ The transfer pump is included in the housing of the high pressure pump. The tran
 
 
 ### Description
-`ssangyong_rexton_en_58dc8aa1` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:471 | doc_type:owners_manual
 The transfer pump is the device to provide suficient fuel to high fuel pressure line and is mechanical type feed pump that is driven by timing chain linked to crankshaft. This mechanical type feed pump is subject to air iflow, therefore, a hand priming pump is installed to fillfuel in Low fuel pressure(LP) circuit.
 
 The transfer pump is included in the housing of the HP pump. The transfer pump is the volumetric blade type pump an consists of the following components:
@@ -15640,7 +14854,6 @@ The inlet and outlet orifice.
 
 
 ### Principle of operation
-`ssangyong_rexton_en_bb8e2879` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:472 | doc_type:owners_manual
 ![](images/a2e299f8f3fe70bc1248e4cff4acdda6884c579b6ee927ccbcadd6030f0c4e82.webp)
 
 Y220_07025
@@ -15658,7 +14871,6 @@ Y220_07026
 
 
 ### Characteristics of the transfer pump
-`ssangyong_rexton_en_fe91fd99` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:473 | doc_type:owners_manual
 ![](images/89b2899dc909a688e8d2858e044950fba9ce98bc4711d07d7d35474be1aef945.webp)
 FUEL SYSTEMDI ENG SM - 2004.4
 
@@ -15666,14 +14878,12 @@ FUEL SYSTEMDI ENG SM - 2004.4
 
 
 ### INLET METERING VALVE (IMV)
-`ssangyong_rexton_en_5036220d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:474 | doc_type:owners_manual
 ![](images/efae912089c4b2d16dc58a094bdd42dabd4e476a6776a84b6920d1e17f3fa15f.webp)
 
 ![](images/bf2824619b6affed6d0e1efa72e370201ef9b9f2f060d59cd3f36bd820ce036e.webp)
 
 
 ### Overview
-`ssangyong_rexton_en_39d6266c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:475 | doc_type:owners_manual
 The LP actuator, also called the inlet metering valve, is used to control the rail pressure by regulating the amount of fuel which is sent to the pumping element of the HP pump.
 
 This actuator has two purposes:
@@ -15686,7 +14896,6 @@ Firstly, it allows the efficiency of the injection system to be improved, since 
 
 
 ### Composition of IMV
-`ssangyong_rexton_en_ff24c9dd` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:476 | doc_type:owners_manual
 The IMV is located on the hydraulic head ofthe pump. It is fed with fuel by the transfer pump via two radial holes. A cylindrical fiter fitted ver the feed orifices of the MV. This makes it possible to protect not only the LP actuator, but also all the components of the injection system located downstream of the IMV.
 
 The IMV consists of the following components:
@@ -15705,7 +14914,6 @@ Y220_07019
 
 
 ### Principle of Operation
-`ssangyong_rexton_en_0d79d05a` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:477 | doc_type:owners_manual
 The LP actuator is used to proportion the amount of fuel sent to the pumping element of the HP pump in such a way that the pressure measured by the HP sensor is equal to the pressure demand sent out by the ECU. At each point of operation, it is necessary to have:
 
 •Flow introduced into the HP pump = Injected flow + Injector backleak flow + injector control flow The IMV is normal open when itis not being supplied with fuel. It cannot therefore be used as a safety device to shut down the engine if required. The IMV is controlled by current. The flow/current law is represented below.
@@ -15714,7 +14922,6 @@ The LP actuator is used to proportion the amount of fuel sent to the pumping ele
 
 
 ### Specifications
-`ssangyong_rexton_en_1852aef4` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:478 | doc_type:owners_manual
 ![](images/ad3f8e3757553356a4cdd0d23b20a7f0da3dc506ef3c6cc4fd49e5b606223b53.webp)
 
 •ECU determines the value of the current to be sent to the IMV according to:
@@ -15725,7 +14932,6 @@ The LP actuator is used to proportion the amount of fuel sent to the pumping ele
 
 
 ### Description
-`ssangyong_rexton_en_0370e9c2` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:479 | doc_type:owners_manual
 This pump generates high fuel pressure and is driven bytiming chain (radial plunger principle). This pump pressurizes the fuel to approx. 1600 bar and sends this high pressurized fuel to high pressure accumulator (common rail via high pressure line.
 
 It is possible to extend the pumping phase in order to considerably reduce drive torque, viration and noise since the pump no longer determines the ijection period.The difrences from conventional rotary pumpslie in the fact thatit i no loger the hydraulichead rotor which turs inside the cam, but the cam which turns around the hydraulichead. Thus, any problems of dynamic pressure tightness are eliminated because the high pressure is generated in the fixed part of the pump.
@@ -15747,7 +14953,6 @@ Y220_07021
 
 
 ### Specifications
-`ssangyong_rexton_en_b0919a2e` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:480 | doc_type:owners_manual
 •Maximum operating pressure: 1600 ± 150 bar   
 • Max. Overpressure: 2100 bar   
 Maximum sealing pressure: when using a plug instead of PRV, no leaks around pump outlet port (when applying 2500 bar of constant pressure)   
@@ -15762,7 +14967,6 @@ Lubrication: - Inside lubrication (rear bearing): Fuel - Outside lubrication (fr
 
 
 ### Principle of operation
-`ssangyong_rexton_en_3d21d23a` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:481 | doc_type:owners_manual
 During the filing phase, the rollers are kept in contact with the cam by means of coil springs mounted on either side of each shoe. The transfer pressure is suficient to open the inlet valve and to move the pumping plungers apart. Thus, the dead volume between the two plungers fills with fuel.   
 When the diametrically opposite rollrs simultaneously encounter the leading edge of the cam, the plungers are pushed towards each other.   
 As soon as the pressure becomes higher than the transfer pressure, the inlet valve closes. When the pressure becomes higher than the pressure inside the rail, the delivery valve opens. Consequently, the fuel is pumped under pressure into the rail.   
@@ -15779,19 +14983,16 @@ This high pressure pump generates the driving torque with low peak torque to mai
 
 
 ### Inlet valve and delivery valve
-`ssangyong_rexton_en_79bd2626` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:482 | doc_type:owners_manual
 During the input phase, transfer pressure pushes back the inlet valve. Fuel enters the body of the pumping element. Under the effect of the transfer pressure, the two plungers are forced apart. When the rollers simultaneously encounter the leading edge of the cam, pressure suddenly rises in the body. Of the pumping element. The valve closes as soon as the pressure in the pumping element becomes higher than the transfer pressure.During the input phase, the ballof the delivery valve is subject t the rail pressure on its outer face and to the transfer pressure on its inner face. Thus the ball rests on its seat, ensuring the pressure tightness of the body of the pumping element. When the two diametrically opposite rollers encounter the leading edges of the cam, the plungers are forced together and pressure quickly rises in the body of the pumping element. When the pressure in the element becomes higher than the pressure in the rail the ball is unbalanced and it opens. The spring calibration is negligible compared with the pressure forces. Fuel is then pumped into the rail at high pressure.
 
 ![](images/86968b36c07422a97955cbd7dcc49522406460286cbb15727c0926bf49d9b369.webp)
 
 
 ### Lubrication and cooling of the HP pump
-`ssangyong_rexton_en_d56be228` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:483 | doc_type:owners_manual
 Lubrication and cooling ofthe pump are provided by the fuel circulation. The minimum flow required to ensure adequate operation of the pump is 50 /h.
 
 
 ### Phasing of HP pump required and offer 2 advantages
-`ssangyong_rexton_en_e6f80af3` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:484 | doc_type:owners_manual
 Conventional fuel injection pumps ensure pressurizing and distribution of the fuel to the different injectors. Itis essential to set the pump in such a way that the injection occurs at the required place during the cycle. The HP pump of the common rail system is no longer used for the fuel distribution, it is therefore not necessary to set the pump in relation to the engine.
 
 Nevertheless, the setting or phasing of the pump offers two advantages:
@@ -15805,20 +15006,17 @@ This phasing allows pressure stabilityto be improved, which helps to reduce the 
 
 
 ### HP Pump Fuel Route
-`ssangyong_rexton_en_40fd119b` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:485 | doc_type:owners_manual
 The fuel passed through the fuel fite is sent to the transfer pump via the HP inlet pump. this fuel passes through the transfer pump by the transferring pressure and maintains the predefined value by the regulating valve in HP pump. Also, this fuel gets into the IMV that controls only the fuel to the high pressure pump.   
 The below figure describes the pump operations when acceleration and deceleration.
 
 
 ### When need high fuel pressure (acceleration)
-`ssangyong_rexton_en_5e61aafe` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:486 | doc_type:owners_manual
 ![](images/c893697df27b97f3c171a3eedb956e1f98918ab7a5ee390c7426d8ce4e38c36b.webp)
 
 ![](images/cba46955b9b163d78d32b5e44654d9c65ae0b29bfe097db3ac9c2a0d6cee20db.webp)
 
 
 ### When do not need high fuel pressure (deceleration)
-`ssangyong_rexton_en_061b6b56` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:487 | doc_type:owners_manual
 ![](images/dedab216ae986430c6566c0ad7d29bf6b4568b5075659d2b1b6cfdb86cd25b97.webp)
 
 Y220_07030
@@ -15831,7 +15029,6 @@ The IMV is controlled by ECU.
 
 
 ### Performance curve of HP pump
-`ssangyong_rexton_en_1e5676a0` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:488 | doc_type:owners_manual
 The time required to obtain a suficient pressure in the rail to enable the engine to start depends on the volume of the system (defiition of therail, ength of the pipes, etc..The aim is to reach a pressure of 200 bars in 1. revolutions (rd compression).
 
 •Maximum operating pressure: 1600 ± 150 bar
@@ -15842,7 +15039,6 @@ The time required to obtain a suficient pressure in the rail to enable the engin
 
 
 ### Sectional View of HP Pump
-`ssangyong_rexton_en_fc100b39` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:489 | doc_type:owners_manual
 ![](images/3b22f1623419e7a9863f5e683433b97c200c89719862a6ae20fa3f99ec4a891e.webp)
 
 ![](images/961d599db1829de938409f62026adbc8a722ef798ab29ae3f252545afff25c03.webp)
@@ -15861,7 +15057,6 @@ Y220_07035
 
 
 ### Removal
-`ssangyong_rexton_en_4b0be76d` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:490 | doc_type:owners_manual
 Preceding Works
 
 -Disconnection of negative battery cable -Removal of engine cover
@@ -15872,7 +15067,6 @@ The trouble diagnosis should be performed before removing the HP pump. Refer to 
 
 
 ### Notice
-`ssangyong_rexton_en_1bc2388a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:491 | doc_type:owners_manual
 Plug the coolant port not to get the coolant into the engine. Add the coolant as required when installing.
 
 ![](images/b262a8612165976014bd4e6829ef8b28e4e474663f6a63b3628d0da1f02043a1.webp)
@@ -15899,7 +15093,6 @@ Plug the coolant port not to get the coolant into the engine. Add the coolant as
 
 
 ### To prevent oil leaks, store the removed auto tensioner in upright position.
-`ssangyong_rexton_en_24f649e8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:492 | doc_type:owners_manual
 7. Unscrew the bolts and remove the idle pulley.
 
 ![](images/a2c571b352371e820b124486a231ef18e4486b54080f5796bc1da9963c78f7c0.webp)
@@ -15926,7 +15119,6 @@ Remove the engine oil filler cap and adjust the mark on camshaft to TDC position
 
 
 ### Notice
-`ssangyong_rexton_en_b189768d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:493 | doc_type:owners_manual
 Be careful not to be mixed the lines when installing.
 
 12. Unscrew the bolts and remove the intake manifold mounting bracket.
@@ -15945,7 +15137,6 @@ pump connecting port)
 
 
 ### Notice
-`ssangyong_rexton_en_84b65344` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:494 | doc_type:owners_manual
 Plug each opening with sealing cap.
 
 14. Remove the coolant temperature sensor and the knock sensor.
@@ -15958,7 +15149,6 @@ Plug each opening with sealing cap.
 
 
 ### Notice
-`ssangyong_rexton_en_23fdc0a2` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:495 | doc_type:owners_manual
 Replace the fuel pipes with new ones.
 
 ![](images/5bbab56ce50ce8e751716e22e25edd15d2c271fbfd57c0871c1d8d38ad070bf0.webp)
@@ -15983,7 +15173,6 @@ Replace the fuel pipes with new ones.
 
 
 ### Notice
-`ssangyong_rexton_en_523d7f49` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:496 | doc_type:owners_manual
 •Replace the removed gasket with new one. • Replace the removed #1 and #3 pipes with new ones.
 
 18. Disconnect the HFM sensor connector.
@@ -15996,7 +15185,6 @@ Replace the fuel pipes with new ones.
 
 
 ### Notice
-`ssangyong_rexton_en_5ccc8cef` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:497 | doc_type:owners_manual
 •Replace the removed gasket with new one. •Replace the removed #1 and #3 pipes with new ones.
 
 22. Remove the oil dipstick mounting bracket and oil dipstick tube with O-ring.
@@ -16005,7 +15193,6 @@ Replace the fuel pipes with new ones.
 
 
 ### Notice
-`ssangyong_rexton_en_14d9de63` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:498 | doc_type:owners_manual
 Replace the O-ring with new one.
 
 23.Remove the chain tensioner.
@@ -16036,7 +15223,6 @@ Replace the O-ring with new one.
 
 
 ### Notice
-`ssangyong_rexton_en_91463011` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:499 | doc_type:owners_manual
 Be careful not to damage the bearing.
 
 29.Remove the HP pump bearing bracket (13mm - 3EA).
@@ -16050,7 +15236,6 @@ Be careful not to damage the bearing.
 
 
 ### Notice
-`ssangyong_rexton_en_6e555f63` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:500 | doc_type:owners_manual
 Plugs openings and put it in a box (for returns)
 
 ![](images/ba3b8db02e916359509dee5cc4df59d5b450a307dee0f4065448b5ceca402509.webp)
@@ -16075,7 +15260,6 @@ Y220_07064
 
 
 ### Installation
-`ssangyong_rexton_en_a760e1ac` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:501 | doc_type:owners_manual
 Install the gasket and HP pump.
 
 Notice
@@ -16092,14 +15276,12 @@ Install the HP pump bearing bracket and HP pump to the cylinder block.
 
 
 ### Align the oil galleries in cylinder block and bearing bracket.
-`ssangyong_rexton_en_8af7f517` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:502 | doc_type:owners_manual
 Install the bearing into the bracket.
 
 4Temporarily install the upper and lower guide rails to seat the chain. 5Temporarily tighten the center nut for HP pump shaft.
 
 
 ### Notice
-`ssangyong_rexton_en_fb591aee` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:503 | doc_type:owners_manual
 Be careful not to rotate the shaft.
 
 ![](images/1c07ea89f128c91f2d69cde00dbd3a9d99796c52ff5199f283300a5b83db18c3.webp)
@@ -16108,7 +15290,6 @@ Be careful not to rotate the shaft.
 
 
 ### Notice
-`ssangyong_rexton_en_4fb0088a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:504 | doc_type:owners_manual
 Do not apply excessive force to the timing chain. Otherwise, the TDC point deviates from correct position.
 
 ![](images/048080e5995e87af3d651383cf61a09e3fefd2702b592fededbe0961697b9500.webp)
@@ -16125,14 +15306,12 @@ Do not apply excessive force to the timing chain. Otherwise, the TDC point devia
 
 
 ### Notice
-`ssangyong_rexton_en_e4c3a859` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:505 | doc_type:owners_manual
 Replace the center nut with new one.
 
 8. Press the upper and lower guide pins into the guide.
 
 
 ### Check the timing chain and guide pin for contact.
-`ssangyong_rexton_en_ab7e5cc6` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:506 | doc_type:owners_manual
 9. Align the marks on the HP pump sprocket and the timing chain and tighten the bolts.
 
 ![](images/5b628b2443698225ff3a7e04f316f38f58c8a87e7c70394cf507e958d50e3f00.webp)
@@ -16149,7 +15328,6 @@ Replace the center nut with new one.
 
 
 ### Notice
-`ssangyong_rexton_en_cdf8adf0` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:507 | doc_type:owners_manual
 •Replace the chain tensioner washer with new one.   
 •Be careful not to drop the washer into the hole.
 
@@ -16157,7 +15335,6 @@ Replace the center nut with new one.
 
 
 ### Notice
-`ssangyong_rexton_en_b62cfef7` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:508 | doc_type:owners_manual
 Rotate the bolt on crankshaft damper pulley two revolutions and check if the mark on the intake camshaft is at the correct position.
 
 ![](images/daee102d10c99835c04d312419b92401ade2a2de8dade83011c1ecd476c8c9d7.webp)
@@ -16170,7 +15347,6 @@ Rotate the bolt on crankshaft damper pulley two revolutions and check if the mar
 
 
 ### Align the cover and the guide pin.
-`ssangyong_rexton_en_7010a556` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:509 | doc_type:owners_manual
 ![](images/17cbd4822d6a906dffd1bf2139375c09770bc87b8a34fb9cdc66cd19db04d1e2.webp)
 
 16. Install the auto tensioner assembly.
@@ -16187,7 +15363,6 @@ Rotate the bolt on crankshaft damper pulley two revolutions and check if the mar
 
 
 ### Notice
-`ssangyong_rexton_en_435aff90` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:510 | doc_type:owners_manual
 If the initialization of fuel pressure has not been performed, the engine ECU controls new HP pump with the stored offset value. This may cause the poor engine output.
 
 17. Install the coolant pump pulley.
@@ -16208,7 +15383,6 @@ If the initialization of fuel pressure has not been performed, the engine ECU co
 
 
 ### Notice
-`ssangyong_rexton_en_c3e7cb07` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:511 | doc_type:owners_manual
 Make sure that the convex surface of new steel gasket is facing the direction as shown in the figure.
 
 Gasket Installing direction
@@ -16241,7 +15415,6 @@ Gasket Installing direction
 
 
 ### Notice
-`ssangyong_rexton_en_96826fb0` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:512 | doc_type:owners_manual
 Ensure that the vacuum hoses are connected to correct positions.
 
 29. Connect the hose to coolant outlet port and tighten the clamp.
@@ -16270,7 +15443,6 @@ Ensure that the vacuum hoses are connected to correct positions.
 
 
 ### Function
-`ssangyong_rexton_en_31717368` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:513 | doc_type:owners_manual
 Foreign materials in fuel can damage the pump components, transfer valve and injectors. Therefore, the high pressure direct injection engine must use fuel filter. Otherwise, the operation performance will drop dramatically And, diesel fuel may contain water due to condensation by temperature changes and this condensation water can damage the system by corroding the injection system. Thus, the common rail engine should have function that can drain water periodically.
 
 ![](images/0982c8ec90e0e63fe094a3c2753c46593584724509f5ebd6c56c39fd72994bc4.webp)
@@ -16279,7 +15451,6 @@ Foreign materials in fuel can damage the pump components, transfer valve and inj
 
 
 ### Water separation and storage function
-`ssangyong_rexton_en_efbcba5b` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:514 | doc_type:owners_manual
 Function: It separates the condensation water from diesel fuel to prevent the water from getting into FlE system, and results in protection of FIE system. (manual drain)   
 •Water storage capacity: 120 cc   
 Water sensor: light if over 39 cc   
@@ -16287,12 +15458,10 @@ Water drain interval: When changing engine oil or every 20,000 km
 
 
 ### Water sensor
-`ssangyong_rexton_en_8c485974` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:515 | doc_type:owners_manual
 tis integrated in the filter and sends signal to ECU when water level reaches at a specified value (over 39 cc) i the filter :o let the driver drain the water.
 
 
 ### Fuel De-Waxing – Improving starting performance in cold weather
-`ssangyong_rexton_en_fff73c0a` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:516 | doc_type:owners_manual
 Due to characteristics of diesel fuel, some of fuel components solidify during cold winter under below a specific temperature (15°C). When those symptoms happen, engine may stall however, some of the fuel (temperature rises due to high compression) in the HP pump in D27DT engine returnto the filter to warm up fuel when temperature is below 50°C by improving cold start performance during cold winter.
 
 ![](images/1b970e1ab259b51d56dac4872116f18c097a93670e800b3749c0917f0e292c51.webp)
@@ -16303,7 +15472,6 @@ Due to characteristics of diesel fuel, some of fuel components solidify during c
 
 
 ### Notice
-`ssangyong_rexton_en_57bb1af6` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:517 | doc_type:owners_manual
 • Plug the openings of hoses and fuel filter with sealing caps.   
 • Ensure that the hoses are connected to correct positions.   
 2. Loosen the bracket bolts and disconnect the hose from the drain plug.   
@@ -16315,7 +15483,6 @@ Install in the reverse order of removal.
 
 
 ### Priming Pump
-`ssangyong_rexton_en_aa979e7f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:518 | doc_type:owners_manual
 If fuel runs out during driving or air gets into fuel line after fuel filter replacement, it may cause poor engine starting or damage to each component. Therefore, the hand priming pump is installed to fill filter.
 
 When the vehicle is under the conditions as below, press the priming pump until t becomes rigid before starting the engine.
@@ -16326,12 +15493,10 @@ Conditions for using Priming Pump -  After run out of fuel -After draining the w
 
 
 ### Notice
-`ssangyong_rexton_en_09f2f384` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:519 | doc_type:owners_manual
 When the fuel filter is replaced, the fuel in the fuel tank should be transferred to the filter by using priming pump. So never transfer the fuelin the fuel tank to the fiter by driving HP pump with cranking the engine.
 
 
 ### б Relations Between Pressure and Temperature In Fuel Transfer Line
-`ssangyong_rexton_en_72d21c0d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:520 | doc_type:owners_manual
 ![](images/813a18c6e088d7934c2df98a667f8943e10d060d69e19800430f56b13831059e.webp)
 
 Y220_07087
@@ -16347,17 +15512,14 @@ The fuel transfer line is the line between fuel tank and HP pump inlet port. The
 
 
 ### Description
-`ssangyong_rexton_en_225c2df7` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:521 | doc_type:owners_manual
 The high pressure accumulator reserves the high pressure fuel. Simultaneously, the pressure changes due to the delivery from HP pump and the fuel ijection is diminished by rail volume. This high pressure accumulatoris commonly used in all cylinders. Even when a large amount of fuel leaks, the common rail maintains its internal pressure. This ensures that the injection pressure can be maintained from when the injector opens.
 
 
 ### Function
-`ssangyong_rexton_en_21e030ef` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:522 | doc_type:owners_manual
 Relieve the pressure pulsation •Provide pressure information to ECU (fuel pressure sensor)
 
 
 ### Specifications
-`ssangyong_rexton_en_b78f04a9` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:523 | doc_type:owners_manual
 Material: Forged Steel   
 Dimension: - Volume: 22 ± 1cc - Length: Max. 397.7 mm - Outer diameter: 25.3 mm   
 •Fuel pressure sensor Integrated type - Sensor input voltage: 5 ± 0.1V - Sensor output signal voltage: - 4.055 ± 0.125 V @ 1600 ± 15 bar - 0.5 ± 0.04 V @ 0 bar   
@@ -16374,7 +15536,6 @@ Y220_07089
 
 
 ### High Fuel Pressure Pipe
-`ssangyong_rexton_en_31d49e55` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:524 | doc_type:owners_manual
 Function: Resistant to pressure changes, tightness against surroundings, supplying fuel through pump, rail and injector with high pressure
 
 •Material: Steel (Zn Plated)
@@ -16391,7 +15552,6 @@ To keep cleanness and tightness, the high pressure pipe assembly should be used 
 
 
 ### Notice
-`ssangyong_rexton_en_e2791d9e` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:525 | doc_type:owners_manual
 •Make sure to replace the removed high fuel pressure pipes.   
 •Tighten the fasteners with the specified tightening torque.
 
@@ -16401,14 +15561,12 @@ To keep cleanness and tightness, the high pressure pipe assembly should be used 
 
 
 ### Removal and Installation
-`ssangyong_rexton_en_ae920443` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:526 | doc_type:owners_manual
 Preceding Work: Removal of engine cover
 
 1. Disconnect the fuel pressure sensor connector.
 
 
 ### Notice
-`ssangyong_rexton_en_1ca262d6` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:527 | doc_type:owners_manual
 •Replace the fuel pipes with new ones. • Plug the openings of hole in the common rail with sealing caps. •Check pressure is low before opening the circuit.
 
 Unscrew the nuts and remove the fuel supply main pipe from the fuel line.
@@ -16418,7 +15576,6 @@ Installation Notice
 
 
 ### Notice
-`ssangyong_rexton_en_778a7b8f` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:528 | doc_type:owners_manual
 •Replace the fuel pipes with new ones. • Plug the openings of hole in the common rail with sealing caps.
 
 3Unscrew the high fuel pressure line nuts and remove the fuel pipes.
@@ -16428,7 +15585,6 @@ Installation Notice
 
 
 ### Notice
-`ssangyong_rexton_en_f18438dc` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:529 | doc_type:owners_manual
 •Replace the fuel pipes with new ones. • Plug the openings of hole in the common rail with sealing caps.
 
 ![](images/59b0092df2613fcff5588b8f0ecfb1d5d09893a5a3c2080ee4d3baf7b70716e3.webp)
@@ -16441,7 +15597,6 @@ Installation Notice
 
 
 ### Notice
-`ssangyong_rexton_en_c80039a5` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:530 | doc_type:owners_manual
 •Replace the fuel pipes with new ones. •Plug the openings of hole in the common rail with sealing caps.
 
 5 Install in the reverse order of removal.
@@ -16450,7 +15605,6 @@ Installation Notice
 
 
 ### Fuel Pressure Sensor
-`ssangyong_rexton_en_c739d08b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:531 | doc_type:owners_manual
 ![](images/2d82062b7f3d9fb4062a0d0d8aa57869f2659c79f87814231e905853ab5e2111.webp)
 
 -uel pressure sensor on the center of common rail detects instant fuel pressure changes and then sends to ECU. When 'eceived these signals, ECU uses them to control fuel volume and injection time.
@@ -16474,7 +15628,6 @@ his piezo element type sensor changes pressure into electrical signal. According
 
 
 ### Fuel Temperature Sensor
-`ssangyong_rexton_en_d3dcf5f8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:532 | doc_type:owners_manual
 ![](images/96898cee663d1123aef1088f87bf361f0e9716a6111d171611c02cff471039d9.webp)  
 Y220_07098
 
@@ -16492,7 +15645,6 @@ Y220_07099
 
 
 ### HFM Sensor
-`ssangyong_rexton_en_97070013` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:533 | doc_type:owners_manual
 - Refer to “Intake System”
 
 Crankshaft Position Sensor -Refer to “Engine Assembly”
@@ -16505,7 +15657,6 @@ Camshaft Position Sensor -Refer to “Engine Assembly”
 
 
 ### INJECTOR
-`ssangyong_rexton_en_56789890` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:534 | doc_type:owners_manual
 The C21 labels including injector characteristics are attached in each injector. These C21 values should be input to ECL by using Scan-i when replacing the ECU or injectors.
 
 Special cautions:
@@ -16526,7 +15677,6 @@ When the needle has to close (at the end of injection): the valve closes again s
 
 
 ### Valve
-`ssangyong_rexton_en_882f6f35` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:535 | doc_type:owners_manual
 In order to guarantee response time and minimum energy consumption:
 
 •The valve must be as light as possible. The valve stroke must be as short as possible. The effort needed to move the valve must be minimal, which means that the valve must be in hydraulic equilibrium in the closed position.
@@ -16535,7 +15685,6 @@ Spring pressure ensures contact between the valve and its seat. To lift the valv
 
 
 ### Spacer
-`ssangyong_rexton_en_7e2ad55e` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:536 | doc_type:owners_manual
 The spacer is situated underneath the valve support. It integrates the control chamber and the three calibrated orifice which allow operation of the injector. These orifices are:
 
 •The injector supply orifice (Nozzle Path Orifice: NPO) •The control chamber discharge orifice (Spill Orifice: SPO) The control chamber filing orifice (Inlet Orifice: INO)
@@ -16548,7 +15697,6 @@ The spacer is situated underneath the valve support. It integrates the control c
 
 
 ### Principle of Operation
-`ssangyong_rexton_en_acee6db9` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:537 | doc_type:owners_manual
 ![](images/ea980fefd5c430e04d69fd5547dbc098081a866f6b18729c1ad5585e656ee8b3.webp)
 
 ![](images/e0ee9dc51572dc68d528217d9e296a377977381fc0451abe31f57d555f171f97.webp)
@@ -16557,7 +15705,6 @@ Y220_07103
 
 
 ### Injector at rest
-`ssangyong_rexton_en_3255d83c` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:538 | doc_type:owners_manual
 The valve is closed. The control chamber is subject to the rail pressure.
 
 The pressure force applied by the fuel onto the needle is:
@@ -16574,14 +15721,12 @@ Y220_07104
 
 
 ### Solenoid valve control
-`ssangyong_rexton_en_1c2529cd` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:539 | doc_type:owners_manual
 When the solenoid valve is energized, the valve opens. The fuel contained in the control chamber is expelled through the discharge orifice known as the Spill Orifice (SPO).
 
 As soon as Ff > Fo, the needle remains held against its seat and there is no injection.
 
 
 ### Start of injection
-`ssangyong_rexton_en_467c7fb1` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:540 | doc_type:owners_manual
 As soon as Ff < Fo, or in other words:
 
 Pcontrol < Prail \* A/S
@@ -16592,7 +15737,6 @@ When the rail pressure is atis highest (1600 bar), this pressure drop exceeds 10
 
 
 ### End of injection
-`ssangyong_rexton_en_cb1bf2a4` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:541 | doc_type:owners_manual
 As soon as the solenoid valve is de-energized, the valve closes and the control chamber is filed. Since the needle is open, the thrust section areas situated on either side of the needle is therefore to apply different pressures to each of these faces.The pressure in the control chamber cannot exceed the rail pressure, soi is therefore necessary to limit the pressure applied to the needle's cone. This pressure limitation is achieved by the NPO orifice which produces a pressure drop when fuel is passing through it.
 
 Prail \* S ≥ (Prail - ∆ P) \* S
@@ -16603,7 +15747,6 @@ When static, this pressure drop is zero. When the pressure in the control chambe
 
 
 ### Injecting Process
-`ssangyong_rexton_en_1f9beb78` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:542 | doc_type:owners_manual
 ![](images/97d60cfd10e92f552814fc6997cebb24b707757d21fe4b01e84b38d72ef89b3a.webp)![](images/666d29e78b3ead096acfb34ed3e2fc7c865f6dc20c6cdd3827f439cf43f27400.webp)
 
 ![](images/6829ff495e00837cac66bd87cc0ca8a8f47bf1b7fd5da403718d46586dc2d9b5.webp)
@@ -16628,14 +15771,12 @@ When static, this pressure drop is zero. When the pressure in the control chambe
 
 
 ### Fuel pressure
-`ssangyong_rexton_en_b766b48d` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:543 | doc_type:owners_manual
 •Minimum operating pressure: start injection over 100 bar   
 •Maximum operating pressure: 1,600 bar (max. operating pressure in normal conditions)   
 •Max overpressure: 2,100 bar
 
 
 ### Maximum fuel volume at each injector cycle
-`ssangyong_rexton_en_06047e63` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:544 | doc_type:owners_manual
 Pilot Injection ≤ 5 mm3 Main Injection ≤ 85 mm3 (within 200 \~ 1,600 bar)
 
 ![](images/fc34974ee6eed358dbbfd5bd7f1ef0976d7acd043b09bd1c2fa4135d9b22ba74.webp)
@@ -16653,7 +15794,6 @@ Y220_07110
 
 
 ### Injector control
-`ssangyong_rexton_en_65fa64b2` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:545 | doc_type:owners_manual
 ![](images/4a9252dbcf151b6626a117a5cdc5a43d255d0dedba248e9a96c80a59b572f502.webp)
 
 Y220_07112
@@ -16665,16 +15805,13 @@ The low current allows the Joule effect losses in the ECU and injector to be red
 The air gap between the valve and the coil is reduced and the electromagnetic force to be applied to the valve ca thus be reduced. It is no longer necessary to overcome the valve inertia.
 
 
-### Note
-`ssangyong_rexton_en_a76a2012` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:546 | doc_type:owners_manual
-Joule Effect: The principle that the heat produced by an electric curent is equal to the product of the resistance of the conductor, the square of the current, and the time for which it flows. I: current (A) R: resistance (2) T: time (sec) H: calori (cal)   
-Heat capacity (H) = 0.24 I²RT
-
-![](images/136c9b5cd0f0ae8c7c48c23156b2874f7de7c24cd95191dca880b17600d135db.webp)
+> ℹ️ **Примечание:** Joule Effect: The principle that the heat produced by an electric curent is equal to the product of the resistance of the conductor, the square of the current, and the time for which it flows. I: current (A) R: resistance (2) T: time (sec) H: calori (cal)
+> Heat capacity (H) = 0.24 I²RT
+>
+> ![](images/136c9b5cd0f0ae8c7c48c23156b2874f7de7c24cd95191dca880b17600d135db.webp)
 
 
 ### Fuel Injection
-`ssangyong_rexton_en_a3e3c6cf` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:547 | doc_type:owners_manual
 Other than conventional diesel engine, common diesel engine use two steps injection as follows:
 
 Pilot Injection •Main Injection
@@ -16683,7 +15820,6 @@ In above two step injection, the fuel injection volume and injection timing is c
 
 
 ### Pilot injection
-`ssangyong_rexton_en_64f7241c` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:548 | doc_type:owners_manual
 3efore starting main injection, a small amount of fuel is injected to help proper combustion. This injection is for reducing he engine noise and vibration.
 
 In other words, i makes the pressure increase in combustion chamber during combustion smooth to reduce the engine noise and vibration (suppressing the surging). Basic values for pilot injection are adjusted according to the coolant temperature and intake air pressure.
@@ -16692,7 +15828,6 @@ In other words, i makes the pressure increase in combustion chamber during combu
 
 
 ### Main injection
-`ssangyong_rexton_en_f622e90e` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:549 | doc_type:owners_manual
 Actual output from engine is achieved by main injection.
 
 The main injection determines the pilot injection has been occurred,then calculates the injection volume. Accelerator pedal sensor, engine rpm, coolant temperature, intake air temperature and atmospheric pressure are basic date to calculate the fuel injection volume in main injection.
@@ -16718,7 +15853,6 @@ Y220_07114
 
 
 ### Removal and Installation
-`ssangyong_rexton_en_013b058e` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:550 | doc_type:owners_manual
 Preceding Work: Removal of engine cover
 
 1. Disconnect the injector return hose.
@@ -16731,19 +15865,16 @@ Unscrew the bolts and remove the fuel pipes.
 
 
 ### Installation Notice
-`ssangyong_rexton_en_5825c378` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:551 | doc_type:owners_manual
 ![](images/397ff53d0b942b552da92121664a82ff3692273c4f6d985ff641fff986c55cea.webp)
 
 
 ### Installation Notice
-`ssangyong_rexton_en_f611e3e0` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:552 | doc_type:owners_manual
 •Replace the fuel pipes with new ones. • Plug the openings of the common rail with sealing caps.
 
 Unscrew the injector holder bolts.
 
 
 ### Installation Notice
-`ssangyong_rexton_en_181bf46f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:553 | doc_type:owners_manual
 ![](images/78b1d3af330833d4a8500dfb6e6ba807888cca66d5a78c297476715c825001fd.webp)
 
 Replace the bolts and washer with new ones.
@@ -16754,7 +15885,6 @@ Disconnect the injector holder.
 
 
 ### Notice
-`ssangyong_rexton_en_2e65f4ef` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:554 | doc_type:owners_manual
 •Plug the openings of the injectors with sealing caps. •Pullthe dropped washer out from the engine with a special tool. •Clean carbon deposite in hole with specific tool.
 
 7. Install in the reverse order of removal.
@@ -16763,12 +15893,10 @@ Disconnect the injector holder.
 
 
 ### Notice
-`ssangyong_rexton_en_1b06434d` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:555 | doc_type:owners_manual
 Replace the copper washer, holder bolts and washer and fuel supply pipes with new ones.
 
 
 ### ECU Wiring Diagram
-`ssangyong_rexton_en_14e3b01d` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:556 | doc_type:owners_manual
 2 п D H 1#о #10 # 2#10 V 2   
 Sdd d 5 4 3 2 3 1 2 ε# #   
 3 6 4 2 К х ON Wown or b П Ф V XX ) o 1 o 8 хх о0   
@@ -16788,14 +15916,12 @@ L 2 єз 1 8 х 2 + + L □ 4
 
 
 ### SENSORS FOR DIAGNOSIS. ..083
-`ssangyong_rexton_en_490201b3` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:557 | doc_type:owners_manual
 Engine ECU and other components .. DI08-3   
 Top view . DI08-4   
 Side view . DI08-5
 
 
 ### ENGINE CONTROL SYSTE.. ... 86
-`ssangyong_rexton_en_81f229f6` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:558 | doc_type:owners_manual
 ECU DI08-6   
 Fuel pressure control DI08-12   
 Fuel injecstion control. DI08-13   
@@ -16807,14 +15933,12 @@ Minimum drive pulse (MDP) learning. DI08-21
 
 
 ### ENGINE ECU AND OTHER COMPONENTS
-`ssangyong_rexton_en_f4b62cad` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:559 | doc_type:owners_manual
 ![](images/0304b0fecb41af94eb970c4e579cf1d03f2eb6fe0f6afbffc4852d7472af4510.webp)
 
 ![](images/c598d2b3e5e2df2d4e90dd7f891f63d75dc0894d1ee34130d80e0aa6433bc439.webp)
 
 
 ### TOP VIEW
-`ssangyong_rexton_en_8ef7582b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:560 | doc_type:owners_manual
 ![](images/05970e6f3a108ef2a40974fb1640f052db9068d5a65e3f7fc63d950177bed2a7.webp)
 
 Y220_08002
@@ -16823,14 +15947,12 @@ Y220_08002
 
 
 ### SIDE VIEW
-`ssangyong_rexton_en_72dd2615` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:561 | doc_type:owners_manual
 ![](images/576234c3cc119acc46896de5932d64bb625b84c00f8917ecf6c0bd53e88e4976.webp)
 
 ![](images/cadad59c77ef7d8099afad6ceb7e521f7d1b266ff0a197428fe28a7d0566240b.webp)
 
 
 ### ECU
-`ssangyong_rexton_en_1b8b4bac` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:562 | doc_type:owners_manual
 According to input signals from various sensors, engine ECU calculates driver's demand (position of the acceleratol pedal) and then controls overall operating performance of engine and vehicle on that time.
 
 ECU receives signals from sensors through data line and then performs effective engine air-fuel ratio controls based on those signals.
@@ -16853,12 +15975,10 @@ Air flow (hot film) sensor detects intake air volume and then transmits to ECU. 
 
 
 ### ECU IОРХФУбOХФРХФУ
-`ssangyong_rexton_en_a284a873` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:563 | doc_type:owners_manual
 Inputs Control Output Booster pressure sensor Atmospheric pressure sensor Injector (Built-in ECU) EGR system Air flow sensor (HFM) Fuel pressure regulating valve (IMV) Coolant temperature sensor Electrical fan control (Low/High-speed) Fuel temperature sensor E A/C compressor relay Fuel pressure sensor Glow plug relay Fnock sster sesor C Wanig ghts crankshaft position sensor (Water warning light, glow plug indicacamshaft position sensor U tor light, engine warning light) Accelerator sensor Preheater (auxiliary heater) Vehicle speed sensor K - line Switch input signal CAN communication (IG, brake, clutch, A/C signal, A/C Self-diagnosis compressor)
 
 
 ### Function of ECU
-`ssangyong_rexton_en_3ff4f99a` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:564 | doc_type:owners_manual
 :CU receives and analyzes signals from various sensors and then modifies those signals into permissible voltage levels nd analyzes to control respective actuators.
 
 ECU microprocessor calculates injection period and injection timing proper for engine piston speed and crankshaf angle based on input data and stored specific map to control the engine power and emission gas.
@@ -16875,7 +15995,6 @@ Current controlcicuit divides current applying time (injection time) into fullin
 
 
 ### Control Function of ECU
-`ssangyong_rexton_en_9a9463ad` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:565 | doc_type:owners_manual
 •Controls by operating stages
 
 : To make optimum combustion under every operating stage, ECU should calculate proper injection volume ir each stage by considering various factors.
@@ -16892,7 +16011,6 @@ If the vehicle runs normall, fuel injection volume will be calculated by acceler
 
 
 ### ECU - Removal and Installation
-`ssangyong_rexton_en_def59eff` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:566 | doc_type:owners_manual
 1. Flip up the front passenger's seat and remove the ECU cover nuts.   
 2. Remove the ECU bracket nuts.
 
@@ -16913,7 +16031,6 @@ If the vehicle runs normall, fuel injection volume will be calculated by acceler
 
 
 ### Fuel Pressure Control Elements
-`ssangyong_rexton_en_6b4e0f65` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:567 | doc_type:owners_manual
 Pressure control consists of 2 principle modules.
 
 •Determines rail pressure according to engine operating conditions. Controls IMV to make the rail pressure to reach to the required value
@@ -16928,7 +16045,6 @@ Fuel pressure is corrected according to air temperature, coolant temperature and
 
 
 ### Fuel Pressure Control
-`ssangyong_rexton_en_ef4f8728` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:568 | doc_type:owners_manual
 Rail pressure is controlled by closed loop regulation of IMV. A mapping system – open loop — determines the current which needs to be sent to the actuator in order to obtain the flow demanded by the ECU. The closed loop wil correct the current value depending on the difference between the pressure demand and the pressure measured.
 
 If the pressure is lower than the demand, current is reduced so that the fuel sent to the high pressure pump is increased.   
@@ -16942,7 +16058,6 @@ Y220_08008
 
 
 ### Fuel Injection Control
-`ssangyong_rexton_en_3b4dcfda` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:569 | doc_type:owners_manual
 Injection control is used in order to determine the characteristics of the pulse which is sent to the injectors.   
 Injection control consists as below.   
 Injection timing   
@@ -16951,7 +16066,6 @@ Translating fuel injection timing and injection volume into values which can be 
 
 
 ### Main injection timing control
-`ssangyong_rexton_en_f5cfea9f` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:570 | doc_type:owners_manual
 The pulse necessary for the main injection is determined as a function of the engine speed and of the injected flow.
 
 The elements are;
@@ -16968,7 +16082,6 @@ During starting, the injection timing must be retarded in order to position the 
 
 
 ### Pilot injection timing control
-`ssangyong_rexton_en_f8b0de2a` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:571 | doc_type:owners_manual
 The pilot injection timing is determined as a function of the engine speed and of the total flow.
 
 The elements are;
@@ -16982,7 +16095,6 @@ During the starting phase, the pilot injection timing is determined as a functio
 
 
 ### Main Flow Control
-`ssangyong_rexton_en_09623d9f` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:572 | doc_type:owners_manual
 The main flow represents the amount of fuelijected into the clinder during the main injection. The pilot flow represents the amount of fuel injected during the pilot injection.
 
 The total fuel injected during 1 cycle (main flow + pilot flow) is determined in the following manner.
@@ -17016,14 +16128,12 @@ Y220_08009
 
 
 ### Driver Demand
-`ssangyong_rexton_en_a1917265` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:573 | doc_type:owners_manual
 The driver demand is the translation of the pedal position into the fuel demand. Itis calculated as a function of the pedal position and of the engine speed. The driver demand is fitered in order to limit the hesitations caused by rapid changes of the pedal position. A mapping determines the maximum fuel which can be injected as a function of the driver demand and the rail pressure. Since the flow is proportional t the ijection time and to the square rootof the injection pressure, it is necessary to limit the flow according to the pressure in order to avoid extending the injection for too long into the engine cycle. The system compares the driver demand with thi imit and chooses the smallr of the 2 values. The driver demand is then corrected according to the coolant temperature. This correction is added to the driver demand.
 
 ![](images/650a4b4e9c857cd9fed78fa94c8b07090a56492159214a4259ffc9ca89d2a08e.webp)
 
 
 ### Idle Speed Controller
-`ssangyong_rexton_en_5f49d1a0` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:574 | doc_type:owners_manual
 The idle speed controller consists of 2 principal modules:
 
 The first module determines the required idle speed according to:
@@ -17037,7 +16147,6 @@ The second module is responsible for providing closed loop control of the engine
 
 
 ### Flow Limitation
-`ssangyong_rexton_en_2649f1ba` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:575 | doc_type:owners_manual
 The flowlimitation strategy is based on the following strategies:
 
 •The flow limitation depending on the filing of the engine with air is determined acording to the engine speed and the air flow. This limitation allows smoke emissions to be reduced during stabilized running.   
@@ -17051,12 +16160,10 @@ A correction depending on the coolant temperature is added to the flow limitatio
 
 
 ### Superchager Flow Demand
-`ssangyong_rexton_en_0e2d8d58` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:576 | doc_type:owners_manual
 The supercharge flow is calculated according to the engine speed and the coolant temperature. A correction depending on the air temperature and the atmospheric pressure is made in order to increase the supercharge flow during cold starts. It is possible to alter the supercharge flow value by adding a flow offset with the aid of the diagnostic tool.
 
 
 ### Pilot flow control
-`ssangyong_rexton_en_f6f94135` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:577 | doc_type:owners_manual
 The pilot flow represents the amount of fuel ijected into the cylinder during the pilot ijection.This amount is determinec according to the engine speed and the total flow.
 
 •A first correction is made according to the air and water temperature. This corection alows the pilot flow to be adapted to the operating temperature of the engine. When the engine is warm, the ignition time decreases because the end-of-compression temperature is higher. The pilot flow can therefore be reduced because there is obviously less combustion noise when the engine is warm.   
@@ -17068,7 +16175,6 @@ During starting, the pilot flow is determined on the basis of the engine speed a
 
 
 ### Balancing of the point to point flows
-`ssangyong_rexton_en_c968d97b` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:578 | doc_type:owners_manual
 The pulse of each injector is corrected according to the difference in instantaneous speed measured between 2 succes.   
 sive injectors.   
 • The instantaneous speeds on two successive injections are first calculated.   
@@ -17077,12 +16183,10 @@ Finally, the time to be added to the main injection pulse for the different inje
 
 
 ### Detection of an injector which has stuck closed
-`ssangyong_rexton_en_7149e89d` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:579 | doc_type:owners_manual
 The cylinder balancing strategy also allows the detection of an injector which has stuck closed.The diference in instantaneous speed between 2 successive ijections then exceeds a predefined treshold. In this case, a fault is signaled by the system.
 
 
 ### Resetting the pilot injection
-`ssangyong_rexton_en_8f2a386a` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:580 | doc_type:owners_manual
 The accelerometer is used to reset the pilot injection flow in closed loop for each injector. This method allows the correction of any injector deviations over a period of time. The principle of use of the accelerometer is based on the detection of the combustion noises.
 
 The sensor is positioned in such a way as to receive the maximum signal for all the cylinders. The raw signals from the accelerometer are processed to obtain a variable which quantifies the intensity of the combustion. This variable, known as the ratio, consists of the ratio between the intensity of the background noise and the combustion noise.
@@ -17099,7 +16203,6 @@ This is done periodically under certain operating conditions. When the reseting 
 
 
 ### Detection of leaks in the cylinders
-`ssangyong_rexton_en_0c8f6594` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:581 | doc_type:owners_manual
 The accelerometer is also used to detect any injector which may have stuck open. The detection principle is based on monitoring the ratio. f there is a leak in the cylinder, the accumulated fuel selfignites as soon as the temperature and pressure conditions are favorable (high engine speed, high load and smalleak).
 
 This combustion is set off at about 20 degrees before TDC and before main injection.
@@ -17114,14 +16217,12 @@ If the ratio becomes too high, the strategy initiall restricts the pilot injecti
 
 
 ### Detection of an accelerometer fault
-`ssangyong_rexton_en_549d1b92` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:582 | doc_type:owners_manual
 This strategy permits the detection of a fault in the sensor or in the wiring loom connecting the sensor to the ECU. It is based on detection of the combustion. When the engine is idling, the detection window is set too low for the combustion caused by the main ijection. If the ratio increases, this shows that the accelerometer is working properly, but otherwise a fault is signaled to indicate a sensor failure. The recovery modes associated with this fault consist of inhibition of the pilot injection and discharge through the injectors.
 
 ![](images/9b25fabb66a9ab2f844cfb18f0a6e82a89cfeb5ea036f8a086e8ce866deb87a5.webp)
 
 
 ### INDIVIDUAL INJECTOR CALIBRATION (C2I)
-`ssangyong_rexton_en_aa49f3e7` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:583 | doc_type:owners_manual
 Injected fuel is proportional to square root of injection time and rail pressure.
 
 It is function between pulse and rail pressure and fuelinjection curve is called injector characteristis curve having the following shape.
@@ -17152,31 +16253,26 @@ Y220_08013
 
 
 ### MINIMUM DRIVE PULSE (MDP) LEARNING
-`ssangyong_rexton_en_0877328b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:584 | doc_type:owners_manual
 When the pulse value that the injector starts injection is measured, itis called mininum drive pulse (MDP). Through MDP controls, can correct pilot injectionseffectively. Pilot injection volume is very smal, 1 \~ 2 mm/str, so precise control of the injector can be difficlt fit gets old. So there needs MDP learning to control the very small volume precisely through learning according to getting older injectors.
 
 
 ### Learning Conditions
-`ssangyong_rexton_en_da9de29c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:585 | doc_type:owners_manual
 ![](images/6de2f60be55e16d73309d37aad93124616823e1cf6318b96ea7625719b78888c.webp)
 
 
 ### Trouble Codes
-`ssangyong_rexton_en_5764d625` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:586 | doc_type:owners_manual
 ![](images/efb3acf836d5d90977525a87d28ebfe49b386999023054883fd1f33f58083eba.webp)
 
 ![](images/a6b45f7b90c335ce71c6aae55d61cfa1dd4831e3c168db5fdaf56b3af26b17e6.webp)
 
 
 ### Accelerator Pedal Sensor
-`ssangyong_rexton_en_cd147e7b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:587 | doc_type:owners_manual
 ![](images/2650baa2e26980e171ae37cc77567252b552db4cb52c49b229d26013c97d4a0a.webp)
 
 ![](images/dc60776cf3e6041b84a02b23973259ee28013021b7e18796605e1bd9cda23fc4.webp)
 
 
 ### <When depressing the accelerator pedal and brake pedal simultaneously>
-`ssangyong_rexton_en_fb3550ef` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:588 | doc_type:owners_manual
 Y220_08014
 
 Accelerator pedal sensor changes accelerator pedal position into electrical signal and then sends to ECU to let know the driver's demand. There are 2 sensors in the accelerator pedal sensor. Accelerator pedal No.1 (ACC 1) sensor signal determines fuelinjection volume and injection timing during driving, and accelerator pedal No. 2 (ACC ) sensor signal compares whether the No. 1 sensor signal value is correct.
@@ -17185,7 +16281,6 @@ If accelerator pedal No. 1 and 2 sensors are defective, ECU remembers defect cod
 
 
 ### Notice
-`ssangyong_rexton_en_f8f58402` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:589 | doc_type:owners_manual
 When depressing the accelerator pedal and brake pedal simultaneously while driving, the acceleration response willbe diminished abruptly and cannot drive with over 70 km/h even though depressing the accelerator pedal to its end. At this time, the trouble code of “P-1124 Accelerator pedal sensor stuck” is stored into ECU. If depressing the accelerator pedal over 3 times, it will be resumed to normal condition.
 
 \* For detailed information, refer to "Diagnosis" section in this manual.
@@ -17197,7 +16292,6 @@ When depressing the accelerator pedal and brake pedal simultaneously while drivi
 
 
 ### Coolant Temperature Sensor
-`ssangyong_rexton_en_a4399a99` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:590 | doc_type:owners_manual
 ![](images/9922d002a2f57b5d0a6d6259677c7a67c2d6ec911fe282b1825b7262766af4b6.webp)
 
 Coolant temperature sensor is a NTC resister that sends coolant temperature to ECU.
@@ -17222,7 +16316,6 @@ Y220_08017
 
 
 ### Boost Pressure Sensor
-`ssangyong_rexton_en_c3c3f9de` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:591 | doc_type:owners_manual
 ![](images/52f17a3b53587f2ef2889e9723d3f7240052c62ce797e01492a46d590a026906.webp)
 
 Y220_08018
@@ -17245,12 +16338,10 @@ Y220_08020
 
 
 ### Vehicle Speed Sensor
-`ssangyong_rexton_en_ff4a84b9` | rexton | pdf_manual | tier:2 | lang:en | layer:brakes | p:592 | doc_type:owners_manual
 The ABS or ESP control unit sends the vehicle speed signals to ECU. ECU uses these signals to calculate the vehicle speed and meter cluster shows signals as vehicle speed.
 
 
 ### Function
-`ssangyong_rexton_en_e4f37653` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:593 | doc_type:owners_manual
 -Limits idle control correction duty range - Controls cooling fan - Cuts fuel injection if exceeds max. speed -Controls vehicle shifting feeling - Used for exhaust gas control mode
 
 ![](images/a1481e83a7a5fba4e5a069d5e1ef9b9593b24c12a66c7a229951d148ddac547d.webp)
@@ -17259,12 +16350,10 @@ The ABS or ESP control unit sends the vehicle speed signals to ECU. ECU uses the
 
 
 ### Barometric Pressure Sensor
-`ssangyong_rexton_en_e2835638` | rexton | pdf_manual | tier:2 | lang:en | layer:brakes | p:594 | doc_type:owners_manual
 It is builtin the ECU and detects absolute pressure of atmosphere to correct fuel injection timing and injection volume according to altitude.
 
 
 ### Brake switch
-`ssangyong_rexton_en_449721c6` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:595 | doc_type:owners_manual
 Brake switch detects brake pedal operations and then sends to engine ECU. It has dual structure with 2 combined switches and there are brake switch 1 and 2. When these 2 signals are input, engine ECU recognizes as normal brake signals. These switch signals are related with accelerator pedal sensor operations and used to control the fuel volume during braking. It means there are no problems in operating accelerator pedal when the brake pedalis operated but the fuel volume reduces if operates brake pedal while the accelerator pedal is depressed.
 
 ![](images/34ca181a5628766914332b762054cd827b4a86bcaeb16446b6350f0bb39ac9d2.webp)
@@ -17273,7 +16362,6 @@ Y220_08022
 
 
 ### Clutch pedal switch
-`ssangyong_rexton_en_a588acc4` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:596 | doc_type:owners_manual
 Clutch pedal switch is installed on the upper of the clutch and sends clutch pedal operations to engine ECU. Contact type switch allws engine ECU to recognize the shifting points to correct the fuel volume. It means it corrects fluctuation happens during gear shifting. Another diffrent function is canceling auto cruise function if equipped (auto cruise control - equipped for export).
 
 ![](images/b31be5b6d052446fd896307016fb0dad04125726884454d960f1875c36d3141c.webp)
@@ -17284,7 +16372,6 @@ SECTION DI09
 
 
 ### ELECTRIC DEVICES AND SENSORS .. 0-3
-`ssangyong_rexton_en_d6c6220c` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:597 | doc_type:owners_manual
 Sensors in engine compartment. DI09-3   
 Electric devices in engine compartment . DI09-4   
 Specifications . DI09-5   
@@ -17293,7 +16380,6 @@ Circuit diagram of starting and alternator DI09-7
 
 
 ### TROUBLE DIAGNOSIS ... ... I09.8
-`ssangyong_rexton_en_a1548a4e` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:598 | doc_type:owners_manual
 General. DI09-8   
 Alternator. DI09-10   
 Starter .. DI09-12   
@@ -17303,12 +16389,10 @@ Glow plug . DI09-17
 
 
 ### SPECIAL TOOLS AND EQUIPMENT .. DI09-19
-`ssangyong_rexton_en_147aa7cc` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:599 | doc_type:owners_manual
 ![](images/0b57f7f1e195a92095ba4cad831c7c9b4227797da8611bc8a353c6d7c8c4a35d.webp)
 
 
 ### SENSORS IN ENGINE COMPARTMENT
-`ssangyong_rexton_en_19e66819` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:600 | doc_type:owners_manual
 ![](images/980b4d22f9c3283019c9be9d91514e07c30e8f15f529a7fd7feb5cb3963739bd.webp)
 
 ![](images/353254aa712747fc83d45543172338149d1ed1485351f40968b71fd33c815fc1.webp)
@@ -17319,14 +16403,12 @@ Glow plug . DI09-17
 
 
 ### SPECIFICATIONS
-`ssangyong_rexton_en_3f6904a5` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:601 | doc_type:owners_manual
 ![](images/96e8e779e2113ff2e190061504284acf76da0d69fa8d9362b8292e1bb1201d90.webp)
 
 ![](images/2c1b3cb3db12bc0f910bd68317c1d614073fe6572b9bf696e491cb29370b5593.webp)
 
 
 ### CIRCUIT DIAGRAM OF PREHEATING SYSTEM
-`ssangyong_rexton_en_390487a2` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:602 | doc_type:owners_manual
 ![](images/5e7cf858d89cf4ed9d9fba4c9744b8a499fcdf31b5c845fabe1312fe9b8d23dd.webp)
 
 Y220_09003
@@ -17335,7 +16417,6 @@ Y220_09003
 
 
 ### CIRCUIT DIAGRAM OF STARTING AND ALTERNATOR
-`ssangyong_rexton_en_146d091f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:603 | doc_type:owners_manual
 ![](images/d052be361c269e0ca6f57013584a118d3c4b19f914a82de1b1577b7edcfd8a38.webp)
 
 Y220_09004
@@ -17354,7 +16435,6 @@ Y220_09004
 
 
 ### ALTERNATOR
-`ssangyong_rexton_en_f8490841` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:604 | doc_type:owners_manual
 ![](images/df887a1d3d827b85caeec32f71a8bc4664fc280c60165b9eb828ca83a10650d4.webp)
 
 Y220_09005
@@ -17366,7 +16446,6 @@ Y220_09005
 
 
 ### Removal and Installation
-`ssangyong_rexton_en_bda5106c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:605 | doc_type:owners_manual
 1. Disconnect the negative battery cable.   
 Remove the plug connection.
 
@@ -17382,7 +16461,6 @@ Remove the plug connection.
 
 
 ### STARTER
-`ssangyong_rexton_en_a3c8b84e` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:606 | doc_type:owners_manual
 ![](images/ceac442e9ccf9700243c06e75f6ace72442fdc485e8a460c784e716d644be12a.webp)
 
 1. Starter   
@@ -17394,7 +16472,6 @@ Remove the plug connection.
 
 
 ### Removal and Installation
-`ssangyong_rexton_en_78d65199` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:607 | doc_type:owners_manual
 1. Disconnect the negative battery cable.   
 2. Disconnect the starter terminal.
 
@@ -17410,7 +16487,6 @@ Remove the upper and lower mounting bolts.
 
 
 ### General
-`ssangyong_rexton_en_83c2825c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:608 | doc_type:owners_manual
 Glow plug is installed on the cylinder head (combustion chamber) in the D27DT preheating control unit system. Colc starting performance has improved and exhaust gas during cold starting has reduced.
 
 ECU receives coolant temperature and engine speed to control; after monitoring the engine preheating/after heating anc glow plug diagnosis function, the fault contents will be delivered to ECU.
@@ -17427,7 +16503,6 @@ Y220_09012
 
 
 ### Function
-`ssangyong_rexton_en_ece7e6e5` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:609 | doc_type:owners_manual
 Preheating system controls and checks following functions and operating conditions.
 
 Pre-Heating
@@ -17456,7 +16531,6 @@ When the engine is started, after-heating starts by ECU controls. The idle rpm w
 
 
 ### PREHEATING TIME RELAY
-`ssangyong_rexton_en_1de2b683` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:610 | doc_type:owners_manual
 Structure
 
 ![](images/d3e27484ee809c20e8c07670aefe7f6b2d40ab212176ed393409c586931a3e10.webp)
@@ -17465,28 +16539,24 @@ Y220_09013
 
 
 ### Specifications
-`ssangyong_rexton_en_1f841c34` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:611 | doc_type:owners_manual
 ![](images/3994a2b221b7d496404ea816463b254b96faa1245103cfd704277a0c67192261.webp)
 
 ![](images/245ed87bbd392ca99e601132196fe0a4e4e13610f7c187de7614c3e8248e4738.webp)
 
 
 ### GLOW PLUG
-`ssangyong_rexton_en_78e86c33` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:612 | doc_type:owners_manual
 Cylinder type glow plug is inserted into the cylinder and composed of heating pin and housing.
 
 There are heating coil and control coil in the heating pin and those coils located inside of ceramic cover turn ON or OFF the internal switch.
 
 
 ### Purposes of use
-`ssangyong_rexton_en_4e26e5a0` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:613 | doc_type:owners_manual
 -Preheating before engine starting -During engine starting -After-heating after engine starting
 
 ![](images/ace80714f31cfa3204a6f5fce0882dca5c01292d663028a81d91fb874ce5e653.webp)
 
 
 ### Conditions for glow plugs
-`ssangyong_rexton_en_d4693f16` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:614 | doc_type:owners_manual
 -Prompt heating and secured temperature stabilities (temperature changes) in low operating voltage   
 -Should not exceed permissible max. temperature under max. operating voltage   
 -Heating pin should have good heat-resisting properties against combustion gas and durability   
@@ -17494,12 +16564,10 @@ There are heating coil and control coil in the heating pin and those coils locat
 
 
 ### Specifications
-`ssangyong_rexton_en_59673588` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:615 | doc_type:owners_manual
 ![](images/77ebd2ff39aeccefff62fffa3c98d41fb1553788b9a9c747c7779146fba91cfe.webp)
 
 
 ### Trouble Code
-`ssangyong_rexton_en_a31b3c61` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:616 | doc_type:owners_manual
 Refer to “Diagnosis” section in this manual.
 
 ![](images/78740033495e99657e32907bfe9dad32e8c6188ad47a1356a54bee609f0ab622.webp)
@@ -17508,7 +16576,6 @@ Refer to “Diagnosis” section in this manual.
 
 
 ### Removal and Installation
-`ssangyong_rexton_en_dedab6c9` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:617 | doc_type:owners_manual
 1.Turn the ignition switch to “OFF” position and disconnect the negative battery cable. . Set aside the harnesses on the cylinder head.
 
 3. Disconnect the glow plug connectors and loosen the glow plugs.
@@ -17523,7 +16590,6 @@ Installation Notice
 
 
 ### SPECIAL TOOLS AND EQUIPMENT
-`ssangyong_rexton_en_8d3ca136` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:618 | doc_type:owners_manual
 ![](images/52a0dcc6de5c032e2f52f2845f74b87f1588a64f10fd8892707189ee8a946ab9.webp)
 
 ![](images/fb8545e64a8351fa957e37104e3387f2b89f790ee73e125e90e74467d66b934e.webp)
@@ -17532,14 +16598,12 @@ Installation Notice
 
 
 ### Table of Contents
-`ssangyong_rexton_en_3d8eb701` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:619 | doc_type:owners_manual
 SCAn- OPERATING PROCEDURES - XDi270 ENGINE ... 1103 TROUBLE DIAGNOSIS TABLE . DI10-23 FUEL SYSTEM DIAGNOSIS .. . DI10-177
 
 ![](images/55a12d7cc9427395f8574189521d6455464564df41a85650cbefb55b15b3af59.webp)
 
 
 ### SCAN-I OPERATING PROCE-DURES XDi270 ENGINE
-`ssangyong_rexton_en_feb05283` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:620 | doc_type:owners_manual
 ENTENG MIAGNOSMS PROCEDURES. DI10-4   
 FUNCTION SELECTION .DI10-6   
 Check the trouble code DI10-6   
@@ -17556,12 +16620,10 @@ ECU replace . DI10-18
 
 
 ### SCAN-I OPERATING PROCEDURES - D27DT ENGINE
-`ssangyong_rexton_en_f8a53e26` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:621 | doc_type:owners_manual
 ![](images/c408faa3c44d4d41b417004451399d947b3e7cb363515fe2eb960fd83c98160d.webp)
 
 
 ### ENTERING DIAGNOSIS PROCEDURES
-`ssangyong_rexton_en_fecf4168` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:622 | doc_type:owners_manual
 1Select “1] DIAGNOSIS”" and press “EntER" in “MAIN MENU" screen.
 
 ![](images/1478a1df3e6194a36ea32702b43559028022028a6011e9983d53f752bb15506f.webp)
@@ -17606,7 +16668,6 @@ REXTON ECU DSL D27DT
 
 
 ### FUNCTION SELECTION
-`ssangyong_rexton_en_8f2a3eb5` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:623 | doc_type:owners_manual
 Check the Trouble Code
 
 Preceding work: Perform the “Entering Diagnosis Procedures"
@@ -17624,22 +16685,19 @@ H-P0108. Boost Pressure Sensor Open Select one of the above items Y220_10008
 2. The “DIAGNOSTIC TROUBLE CODEs” screen is displayed and it shows the trouble.
 
 
-### Note
-`ssangyong_rexton_en_a458c1b7` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:624 | doc_type:owners_manual
-If there is not any fault, “NO TROUBLE DETECTED" message appears.
-
-![](images/5f1fa6fd0fc7e46b8454f7810cd674a8ae146d9e0378fc07e76b2eceea68fe16.webp)
-
-3. When selecting a trouble code, then
-
-if you press "Ente": Displays the sensor data for the detected trouble (Freeze Frame Mode).   
-if you press"“He":Displays the help tips for the detected trouble.
-
-![](images/df58d45cdd3761c7276272fa7dd740f9cfea3262b9ccb1f54fdb425a7de2f496.webp)
+> ℹ️ **Примечание:** If there is not any fault, “NO TROUBLE DETECTED" message appears.
+>
+> ![](images/5f1fa6fd0fc7e46b8454f7810cd674a8ae146d9e0378fc07e76b2eceea68fe16.webp)
+>
+> 3. When selecting a trouble code, then
+>
+> if you press "Ente": Displays the sensor data for the detected trouble (Freeze Frame Mode).   
+> if you press"“He":Displays the help tips for the detected trouble.
+>
+> ![](images/df58d45cdd3761c7276272fa7dd740f9cfea3262b9ccb1f54fdb425a7de2f496.webp)
 
 
 ### Sensor Data Check
-`ssangyong_rexton_en_89aa0a63` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:625 | doc_type:owners_manual
 Preceding Work: Perform the “Entering Diagnosis Procedures"
 
 ![](images/3bb77ea175401ea93287119c281f18d61e513ec14d7ce09a97dd1eb9a9a4f117.webp)
@@ -17690,7 +16748,6 @@ Itemm It emm Menu Disp. Y220_10013
 
 
 ### Actuator Check
-`ssangyong_rexton_en_e831e121` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:626 | doc_type:owners_manual
 Preceding Work: Perform the “Entering Diagnosis Procedures"
 
 ![](images/fb0cdd848b07581b1b78a4a8efdb4ad0b3fb170a93c79c3db47efdf64a404304.webp)
@@ -17730,7 +16787,6 @@ f you want to stop the operation press""key in keyboard.
 
 
 ### Trouble Code Clear
-`ssangyong_rexton_en_896acc48` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:627 | doc_type:owners_manual
 Preceding Work: Perform the “Entering Diagnosis Procedures"
 
 ![](images/72d94aac2115afd26a45b3d7bbf4d97ba3a481984698bd37eddea341ef19182d.webp)
@@ -17766,19 +16822,16 @@ REXToN ECU DSL D27DT
 5. The “TROUBLE CODE CLEAR” screen is displayed. If you press "ENTE", only the history trouble codes will be cleared.
 
 
-### Note
-`ssangyong_rexton_en_134f7aa0` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:628 | doc_type:owners_manual
-•Current trouble codes will not be cleared. •Check the trouble codes after clearing the trouble codes.
-
-![](images/496a2899ca043328e580cdc71c87f3d85e058d74a80f905fbabb0749dd6db2f0.webp)
-
-![](images/80f86c9de5550a94d5414f9cc2dd13580277c11716ec381d740b283ca1dc26a0.webp)
-
-![](images/9b080c4848f843b790614b6d8eba04c67116eb2b97776e6d942ffa59318f5a58.webp)
+> ℹ️ **Примечание:** •Current trouble codes will not be cleared. •Check the trouble codes after clearing the trouble codes.
+>
+> ![](images/496a2899ca043328e580cdc71c87f3d85e058d74a80f905fbabb0749dd6db2f0.webp)
+>
+> ![](images/80f86c9de5550a94d5414f9cc2dd13580277c11716ec381d740b283ca1dc26a0.webp)
+>
+> ![](images/9b080c4848f843b790614b6d8eba04c67116eb2b97776e6d942ffa59318f5a58.webp)
 
 
 ### ECU Identification
-`ssangyong_rexton_en_fca2d712` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:629 | doc_type:owners_manual
 Preceding Work: Perform the “Entering Diagnosis Procedures"
 
 Q SCAN - 100 FUNCTION SELECTION   
@@ -17807,12 +16860,10 @@ If you replaced the ECU, press “Enter” to input the vehicle identification n
 
 
 ### Injector Coding (C2I)
-`ssangyong_rexton_en_0727d6f5` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:630 | doc_type:owners_manual
 Preceding Work: Perform the “Entering Diagnosis Procedures"
 
 
 ### Notice
-`ssangyong_rexton_en_4cc8d021` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:631 | doc_type:owners_manual
 If the injector/ECU has been replaced or the injector system defective is suspected, go to C2l Coding item and check the injector and coded injector C2l value.
 
 1. Select “6] INJECTOR (C2I) CORRECTIONS” and press ENTER)" in “FUNCTION SELECTION" screen.
@@ -17833,70 +16884,63 @@ REXTON ECU DSL D27DT Programming Data : 2003-11-21 Tool Signature : 00 50 59
 [ENTER] : Display Write C2I Menu Y220_10033
 
 
-### Note
-`ssangyong_rexton_en_329ef8b1` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:632 | doc_type:owners_manual
-•The C2l value of replacing injector is recorded in the label.   
-•C2I coding number: 16 digits (ex, B1 B9 D4 1B 43 C6 OE 4F)
-
-![](images/9d149542786ec7943773d536471c16a968bac3736fab2a8c536b1fd9ea91424d.webp)
-
-![](images/b42b5466a7a74b2be2d4c15703a40934d6d18ba6a4c7c087219d90efd6de732c.webp)
-
-![](images/86764db76ed7d34d1cf06d0974514fc2152f216ce88b1bfad149db1f229bd38e.webp)
-
-3-1. If you enter the invalid C2l value of the relevant injector, the message as shown in figure appears with alarm sound.
+> ℹ️ **Примечание:** •The C2l value of replacing injector is recorded in the label.
+> •C2I coding number: 16 digits (ex, B1 B9 D4 1B 43 C6 OE 4F)
+>
+> ![](images/9d149542786ec7943773d536471c16a968bac3736fab2a8c536b1fd9ea91424d.webp)
+>
+> ![](images/b42b5466a7a74b2be2d4c15703a40934d6d18ba6a4c7c087219d90efd6de732c.webp)
+>
+> ![](images/86764db76ed7d34d1cf06d0974514fc2152f216ce88b1bfad149db1f229bd38e.webp)
+>
+> 3-1. If you enter the invalid C2l value of the relevant injector, the message as shown in figure appears with alarm sound.
 
 
-### Note
-`ssangyong_rexton_en_112ecf11` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:633 | doc_type:owners_manual
-If you want to go back to previous screen, press Es " key. You can see the previous C2I value.
-
-![](images/796543cdb9cff866a500190cf1ce1cc4aca9bd3749f3e4e08903adc959065812.webp)
-
-3-2. If you enter the valid C2I value of the relevant injector, the message as shown in figure appears with alarm sound.
-
-![](images/e38ee82df69e4f4c8767f4bfcdcb9adefe9d4ae7357f4f4f8714d37d4a1a381c.webp)
+> ℹ️ **Примечание:** If you want to go back to previous screen, press Es " key. You can see the previous C2I value.
+>
+> ![](images/796543cdb9cff866a500190cf1ce1cc4aca9bd3749f3e4e08903adc959065812.webp)
+>
+> 3-2. If you enter the valid C2I value of the relevant injector, the message as shown in figure appears with alarm sound.
+>
+> ![](images/e38ee82df69e4f4c8767f4bfcdcb9adefe9d4ae7357f4f4f8714d37d4a1a381c.webp)
 
 
-### Note
-`ssangyong_rexton_en_98422cc0` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:635 | doc_type:owners_manual
-This item is for checking the high fuel pressure after the IMV supply line of HP pump in DI engine fuel system. If you still suspect that the fuel pressure system is defective even after no trouble is detected, perform the fuel pressure test again by using a fuel pressure tool kit.
-
-1. Select “7] LEAK DETECTION" and press “EnTER" in “FUNCTION SELECTION” screen.
-
-![](images/e000458e6ad7a8c25877c8b607cac89aa35b9d9c8c14b7b03ae69ad3e6027a0d.webp)
-
-The “LEAK DETECTION" screen that shows the checking conditions as shown in figure is displayed.
-
-Q SCAN - 100 FUNCTION SELECTION   
-REXTON ECU DSL D27DT   
-1] TROUBLE CODE   
-2 DATA LIST   
-3] ACTUATOR   
-4] TROUBLE CODE CLEAR   
-5] ECU IDENTIFICATION   
-6] INJECTOR(C2I) CORRECTIONS   
-7] LEAK DETECTION   
-8] VARIANT CODING   
-9] ECU REPLACE Select one of the above items Y220_10038   
-SCAN - 100 LEAK DETECTION   
-REXTON ECU DSL D27DT   
-> Test Condition <<<<<<<<   
-- Idle Running(Vehicle Speed = 0)   
--Engine Temp. : 60-100°C   
-- No Detect Battery Fault   
-- No Detect Injector Drive Falut   
--No Detect IV Drive Falut   
-- No Detect Rail Press Falut   
-[ENTER] : Start Leak Detection Y220_10040
-
-![](images/25cfb697caa5ffcf4b71f71f8aab545d1aaf592cf0ad5c7437a4aa06429e51ea.webp)
-
-![](images/0fd3a5b5b3949fbdc66b743dbe8846be5192d45d4965ba5eb7cfeaaf640c86ad.webp)
+> ℹ️ **Примечание:** This item is for checking the high fuel pressure after the IMV supply line of HP pump in DI engine fuel system. If you still suspect that the fuel pressure system is defective even after no trouble is detected, perform the fuel pressure test again by using a fuel pressure tool kit.
+>
+> 1. Select “7] LEAK DETECTION" and press “EnTER" in “FUNCTION SELECTION” screen.
+>
+> ![](images/e000458e6ad7a8c25877c8b607cac89aa35b9d9c8c14b7b03ae69ad3e6027a0d.webp)
+>
+> The “LEAK DETECTION" screen that shows the checking conditions as shown in figure is displayed.
+>
+> Q SCAN - 100 FUNCTION SELECTION   
+> REXTON ECU DSL D27DT   
+> 1] TROUBLE CODE   
+> 2 DATA LIST   
+> 3] ACTUATOR   
+> 4] TROUBLE CODE CLEAR   
+> 5] ECU IDENTIFICATION   
+> 6] INJECTOR(C2I) CORRECTIONS   
+> 7] LEAK DETECTION   
+> 8] VARIANT CODING   
+> 9] ECU REPLACE Select one of the above items Y220_10038   
+> SCAN - 100 LEAK DETECTION   
+> REXTON ECU DSL D27DT   
+> > Test Condition <<<<<<<<   
+> - Idle Running(Vehicle Speed = 0)   
+> -Engine Temp. : 60-100°C   
+> - No Detect Battery Fault   
+> - No Detect Injector Drive Falut   
+> -No Detect IV Drive Falut   
+> - No Detect Rail Press Falut   
+> [ENTER] : Start Leak Detection Y220_10040
+>
+> ![](images/25cfb697caa5ffcf4b71f71f8aab545d1aaf592cf0ad5c7437a4aa06429e51ea.webp)
+>
+> ![](images/0fd3a5b5b3949fbdc66b743dbe8846be5192d45d4965ba5eb7cfeaaf640c86ad.webp)
 
 
 ### Variant Coding
-`ssangyong_rexton_en_c6f768ac` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:636 | doc_type:owners_manual
 Preceding Work: Perform the “Entering Diagnosis Procedures"
 
 1. Select “8] VARIANT CODING” and preSs “EntER)" in “FUNCTION SELECTION” screen.
@@ -17952,7 +16996,6 @@ Tool Signature : 00 50 59 Y220_10044
 
 
 ### ECU Replace
-`ssangyong_rexton_en_94b95c19` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:637 | doc_type:owners_manual
 © SCAN - 100 FUNCTION SELECTION   
 REXTON ECU DSL D27DT   
 1] TROUBLE CODE   
@@ -17979,7 +17022,6 @@ and then press "ENTER" button. Y220_10049
 
 
 ### Notice
-`ssangyong_rexton_en_ef626c43` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:638 | doc_type:owners_manual
 Do not turn off the Scan-100 at this time. Record the below data:
 
 Vehicle identification number   
@@ -18064,7 +17106,6 @@ REXTON ECU DSL D27DT
 
 
 ### TROUBLE DIAGNOSIS TABLE
-`ssangyong_rexton_en_b3c19ab2` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:639 | doc_type:owners_manual
 INDEX OF DTC . .. 10D-24, 71   
 Trouble diagnosis table .10D-27   
 Trouble diagnosis procedures. .10D-75
@@ -18073,7 +17114,6 @@ Trouble diagnosis procedures. .10D-75
 
 
 ### INDEX OF DTC
-`ssangyong_rexton_en_e5e7f417` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:640 | doc_type:owners_manual
 P0102  Low HFM Sensor Signal (Circult Open) .... DI10-27 P0704.  Clutch switch maltunction . . DI10-38 P0103  High HFM Sensor Sgnal (Circut Shor) ... DI10-27 P1115  Coolant Temperature Sensor Malfunction.... DI10-39 P0100  Mir Mas FJlow (HFM) Malfunco ... DI10-28 P0118 Coolant Temperature Sensor   
 P0344  Cam Position Sensor Malfunction .. ... I028 Malfunction - Shor .. .. 1039 P0341 Cam Position Sensor Malfunction P0117 Coolant Temperature Sensor   
 (Poor Synchronization) . ... DI10-228 Malfunction - Open ... ... I1040 P0219 Too Small Clearance of Crank Angle Sensor .. DI10-28 P0115 Supply Voltage Fault to Coolant   
@@ -18095,7 +17135,6 @@ P1109 Booster Pressure Sensor Initial Check Fault . DI10-34 Malfunction ... ... 
 
 
 ### TROUBLE DIAGNOSIS TABLE
-`ssangyong_rexton_en_34b99831` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:641 | doc_type:owners_manual
 ![](images/61e4dc6208005ab9b58e3aa8428e69fc4894ce1bbc48753d9e8a2196d072a18c.webp)
 
 ![](images/64df2008b8616365558a7548dfd924a90cbd00a697988b2b2abb0307fffcbce1.webp)
@@ -18272,7 +17311,6 @@ P1109 Booster Pressure Sensor Initial Check Fault . DI10-34 Malfunction ... ... 
 
 
 ### INDEX OF DTC
-`ssangyong_rexton_en_1161e134` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:642 | doc_type:owners_manual
 HMF sensor Signal Fault (Electric Failure) .. DI10-75 Brake Lamp Signal Fault. . DI10-91   
 P0102. . DI10-75 P1572. ... DI10-91   
 P0103. . DI10-75 P1571. . DI10-91   
@@ -18418,36 +17456,30 @@ P1636 . DI10-176
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_afa2dc72` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:643 | doc_type:owners_manual
 ![](images/1eb48ccb21530ad63f20dc53dc78ddf5b951ca92f9b7c82cff1cc55f76941f4a.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_d6b96cec` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:644 | doc_type:owners_manual
 ![](images/2ba7816a4d6863cf5d1e8dc09435067c090590a1fe31707cd0c976448878bae9.webp)
 
 ![](images/1f2b2a10a86074da2eb8491fd1f50f9caedef0aa37f5a4ff6a8bc5e7c9e4408f.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_30a4af3c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:645 | doc_type:owners_manual
 ![](images/cd957520efc6cfb182c27ac52ac7e0ceaa0bf87707c58126f54a1e099e83b651.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_77370f17` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:646 | doc_type:owners_manual
 ![](images/bc8b3f640a54833bb05fb1306b85bc4d8b658808b958a0f8f7fd441fbb4a0cf9.webp)
 
 ![](images/e039c5cf27d89ced7046cd9580cfafaa2df876658c5d842571e36f5f523f681e.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_21e2928a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:647 | doc_type:owners_manual
 ![](images/4bbbb5b76d5afbb12210f62ca1667272c39e809d2ce5cbad178ed2b6d9cd9990.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_40becc7d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:648 | doc_type:owners_manual
 ![](images/8a0074a4fd8034f6eb45cc4ee71c2f0b6f5749be7bbb0eaa39848d608099423f.webp)
 
 ![](images/624de970b2fe57c14a50d391697332e6920ed7ffd553f2f39ac633675a5879fc.webp)
@@ -18456,36 +17488,30 @@ Too Small Clearance of Crank Angle Sensor
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_44c7603e` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:649 | doc_type:owners_manual
 ![](images/511e89c2b563c7e608b5dffc4de728e88b896350a9f719571b6ca944292fb576.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_06990467` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:650 | doc_type:owners_manual
 ![](images/10ede84486dd54b1b2309dd3cee7d576a208645c37c32d03fd527226d9694d7d.webp)
 
 ![](images/2417ea1da7b90a26e4b678b35658349c40fc5e50d6566c5a6850ae06957e4874.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_8b5e2a9b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:651 | doc_type:owners_manual
 ![](images/0b44c55ee5c9438588255401912d7d9d63105da662edfad6627e3cb81bb7942a.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_55488280` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:652 | doc_type:owners_manual
 ![](images/e5328018154400cb445587e57971e34f3cbf0bf07ea4de52d538aad6c3669413.webp)
 
 ![](images/4c8265cfc940f6b3136229c614e98365a0942376dced578e0bf9fe1adff63811.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_386c27f0` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:653 | doc_type:owners_manual
 ![](images/23fc7b329cf2ec791b980d9072dae4f0b37cfb2849434e328b10ed58a4999156.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_04c0dbeb` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:654 | doc_type:owners_manual
 ![](images/7a96128caaea6ae4ab2b7363ac4ababf2eb140b48b266490b0f83917dcaaa0b5.webp)
 
 ![](images/f33323ec079ae0ae3534f651781f8738c84a79318342872c6180f537a9ad15cc.webp)
@@ -18494,38 +17520,32 @@ Barometric Sensor Malfunction (Out of range, using strategy of restoring by MAP 
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_3eeca082` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:655 | doc_type:owners_manual
 ![](images/2dd1730ae5bec014713cad7844a2c25b7923f6a1dae81d0671d04ce9a54b4d25.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_9e73d9f7` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:656 | doc_type:owners_manual
 ![](images/edf1905f803d0af66e77d118f8172b6d5582bd5727dd9b2062557bc30015bd6f.webp)
 
 Battery Voltage Monitoring Signal Malfunction
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_c353ffc8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:657 | doc_type:owners_manual
 ![](images/2110eaeef3c07b86c0790b8c0fcb9404842f24d60ece0701117c056955d0a758.webp)
 
 ![](images/b587879e2c0169efc43778ecc32fa2aeab2c6f3d1e7112dcb7c7fb17a2faab5b.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_562e0b99` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:658 | doc_type:owners_manual
 ![](images/559368d2dca80dddd6e7e778c749f652b8f97a0f1b59f70742d8e37061bc310f.webp)
 
 ![](images/8ee2917604affb232f88d34863d5c89dc092339083b90b0e532281244864b01c.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_e28471da` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:659 | doc_type:owners_manual
 ![](images/18e7a092731cff37762a79574357e3af664f35e4ce62e6dda6dfbcc10edaf67b.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_043cfef5` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:660 | doc_type:owners_manual
 . Diagnosis Procedures (Boost Pressure)
 
 ![](images/8763cf9157318a9ed8123ae39a4ab68c7c2760b2a2272200a6f6170088184d36.webp)
@@ -18540,12 +17560,10 @@ Diagnosis Procedure (Check sensor (1))
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_5450238c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:661 | doc_type:owners_manual
 ![](images/8a4e43275026eaadc1e21eca4aa237c0befaabbe01b6a582e1c6c9e04f99bab5.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_dbaba96c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:662 | doc_type:owners_manual
 Diagnosis Procedures (Boost Pressure)
 
 ![](images/dbfdafc8be9ae912d35699dee42ecbd3c6e98397278a232121899354d56abd3d.webp)
@@ -18562,12 +17580,10 @@ Diagnosis Procedures (check sensor (1))
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_6249132b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:663 | doc_type:owners_manual
 ![](images/b36c030a5ddb2bc7edf011099ddeaa1373f9a3ece3c564abc460727071cae3c2.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_257d9ddd` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:664 | doc_type:owners_manual
 . Diagnosis Procedures (Boost Pressure)
 
 ![](images/40537c3307251aa3c3089b372884adec66862ba537ec720a56f85382f3579a70.webp)
@@ -18582,96 +17598,80 @@ Diagnosis Procedures (check sensor (1))
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_49aa3c4f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:665 | doc_type:owners_manual
 ![](images/9f184e7ea1da0f29757cb71794efc72b1dc79f78c996bbaf08477f9e3c569fc1.webp)
 
 
 ### • Diagnosis Procedures
-`ssangyong_rexton_en_cdf7a8ed` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:666 | doc_type:owners_manual
 ![](images/6d30f4cb0da72d40665968b8e228d7fdce45686d4b25a9a9c5cd1100ca2e94de.webp)
 
 ![](images/07438990a8490541e1e673df6ad7d0be718d8468e1339559f3af3982a0977cd8.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_d723b250` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:667 | doc_type:owners_manual
 ![](images/b06bfd63280e50224860d7b93bc54451135b25d3459d0912f97352eecaaa368f.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_900396d6` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:668 | doc_type:owners_manual
 ![](images/2e1311d4c2f06a050eeb47dada56cf0642d3c5e1e3473978859a17427e5bae2b.webp)
 
 ![](images/0baafb451621be005fd4b4fd2f92601828f3cb54f490514cd2c5ecad85fb6b8c.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_eef70e91` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:669 | doc_type:owners_manual
 ![](images/01a3b6a6303b98a834f011fa68da2f8147883a2cd43a3b6b2ebe7eb235224426.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_aa55ff33` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:670 | doc_type:owners_manual
 ![](images/48a75a5b3b2c72c6e12ffba6ffea58095ead86838244a28da4090f14de5a8b8d.webp)
 
 ![](images/43e0e9b664b0a9be46a531ee7c26af3f0960b46990dc4a001291f4bed225647b.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_aaefc840` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:671 | doc_type:owners_manual
 ![](images/f33b1be03f55344ee11d6099f72f58603b8b7dffdd93d2ac411017ae558bb7bc.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_cdb24e04` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:672 | doc_type:owners_manual
 ![](images/afd65246aa93a999f035de047f184ec5706795dea80160e3f0161455b316bc6f.webp)
 
 ![](images/65f252e70cab9f0ab440a6acc3e571163588eada33db20f3ed7c11fc2f6c5236.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_5db402fa` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:673 | doc_type:owners_manual
 ![](images/9a8036343f2674c8c7ecfaa5290ad0fb477addd6287a06c41c8d34f23f66c22b.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_1e24fa4e` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:674 | doc_type:owners_manual
 ![](images/7f48d28e551ee1eea5325fc233ed24f3a79389cfe642ed04e492c6cfb5711095.webp)
 
 ![](images/9e6b48f02ddbd1c610bbfd82794790b62ea0e5e07bd003a76c6820ef61fba6b7.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_437e46d5` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:675 | doc_type:owners_manual
 ![](images/7d2e839538d2513a0a29e5045396b27a87a7d9a52afd04cf3141ff82d436bd4f.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_d46e9a95` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:676 | doc_type:owners_manual
 ![](images/d1390e85acf4fc6e7c9197409e2d4b11d28c6c289c3dbefde5ce39c4fa4dfac9.webp)
 
 ![](images/d859ececc9ff057d4234a4fc3d79891db6630124a54102a1ef4cacfcb6b5b321.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_690f4457` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:677 | doc_type:owners_manual
 ![](images/5075a445dba7a01024993989ce1628c077fea2a3217036cbc6ed0aa1d7c54536.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_36adea4a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:678 | doc_type:owners_manual
 ![](images/dba31bab4692e108547b1ee98df31c86e5482f27f62762611e04ac7a3844e835.webp)
 
 ![](images/ef89ab9fa2c0ae9b3fc1deba5ca2abd9963ddf81972ff86845e2cd973f0cbd48.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_25a7fe85` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:679 | doc_type:owners_manual
 ![](images/41e56068d0f3cbcf10e6180abb2529f33555a937e21ec8db91648e5e77046bec.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_5f754972` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:680 | doc_type:owners_manual
 ![](images/c02276802b46e025569b35143d3deabc7cb74a3f82b869e167a1330982294c20.webp)
 
 ![](images/232a1af721093a74d3ad7704ca7daa983649dfd4d082c2fd0a28fd0edc7acf3a.webp)
@@ -18680,72 +17680,60 @@ Coolant Temperature Sensor Malfunction (Implausible Signal)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_9f2f3984` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:681 | doc_type:owners_manual
 ![](images/7654a80dd93d59fec91b979c1c427332d1e5c5322d22a4929e0f3d98d3873038.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_3ebda130` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:682 | doc_type:owners_manual
 ![](images/8f126690e623fca5dcf269a010ae66a8e3201c572fe8cf70e86074bfc6c92104.webp)
 
 ![](images/d1f7fcb823a1c5895915b54c26e1510d147f2d7c35ec1f5792df2f35acfc3f2a.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_dfac05ea` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:683 | doc_type:owners_manual
 ![](images/0443d5c7e6dc85b4218e4cdbe301f03841b47a19924024acc20f7f195859026a.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_8ddbeb1c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:684 | doc_type:owners_manual
 ![](images/0b641d57ff9abe0bee56633cdf174ac40c7738aa72181c08fba8bf6b4d01d5ee.webp)
 
 ![](images/dbdbd620b87c1dc7744722af9a548e519237d38ab4c70d4fd581de4c52a7696b.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_12efa5fc` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:685 | doc_type:owners_manual
 ![](images/9ed168729c357c00b7ea342e730e5088c16fc8dd95a4d19c27fdb3efa158433e.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_f01ad361` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:686 | doc_type:owners_manual
 ![](images/c0e0e0c9f1d48d0132e015065d8ea90f6c6410c431d475a4afa50589f9a57da6.webp)
 
 ![](images/908e6175f61b160db6f5f3ecad99a8b0015455ac1e53c1c8845fe83f486c4bcd.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_c5e0b9b9` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:687 | doc_type:owners_manual
 ![](images/831eb676e1a9e5157231dfc0c0a5c2c720f03517d52b2022d75967af2ac46fce.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_bf975b90` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:688 | doc_type:owners_manual
 ![](images/699ef4b08716d581c45a555f898fb6ddec284e4678e2bb2c9a3448b136787757.webp)
 
 ![](images/75fb7fa34d4af45f490cbed5efb352e9e262e1d5bc92e7cec4322c1b5f5a3a90.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_14ddd639` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:689 | doc_type:owners_manual
 ![](images/36782b6606b8b8a43c8aed31292a49146fc622d9b3f20e8f12013123e571033b.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_4170f1c5` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:690 | doc_type:owners_manual
 ![](images/89731f550464616e1f54f21140e68d5a9b03b79dc42d799411ca0cb9148ba121.webp)
 
 ![](images/a5e7a060b6e1966324671c86258ab7855f3d163926012a7f9e3fa9eb7e4c1225.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_cd9912ee` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:691 | doc_type:owners_manual
 ![](images/28125cc2f0f22ff1d54b136425ccbb9e1758dbc36459cffde834fa4e88b3a3b6.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_22d8fec3` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:692 | doc_type:owners_manual
 ![](images/9084a07a57c245d9b328509c5620e64547fa76b3419087fee4fc6f0ac28299b9.webp)
 
 ![](images/d199575c46307d1d9f3181b10bae1efecb8d9ca3a241bb7137ddee2b4767cf69.webp)
@@ -18754,12 +17742,10 @@ Coolant Temperature Sensor Malfunction (Implausible Signal)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_dba0949e` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:693 | doc_type:owners_manual
 ![](images/818abb8c2aa25fdc76c63f65d9795e4b9c8974574b8ae8899a077ce9f11782a1.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_300d433a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:694 | doc_type:owners_manual
 ![](images/1dd74d5cb86e6eeaa5ef8732e0f66c6341c374a906095781493664a8f25b0b47.webp)
 
 ![](images/52e18845f846e1d2e566a982d028dbed572302deeab9d9a932b8267e0f20d2cf.webp)
@@ -18768,12 +17754,10 @@ Coolant Temperature Sensor Malfunction (Implausible Signal)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_ad4f611d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:695 | doc_type:owners_manual
 ![](images/d3cb229110a074bd2979cc4404f264419add6146aafbe84e133096d95ef48763.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_2322c2da` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:696 | doc_type:owners_manual
 ![](images/fa46002ed95ef1927a91d38260d30416fa9c3c9203997d29e39d73535ca3d378.webp)
 
 ![](images/15748281d5c7a0f021f2d0a921ae47b16ae3f0313e9155c3c3492285ea22b627.webp)
@@ -18782,14 +17766,12 @@ Coolant Temperature Sensor Malfunction (Implausible Signal)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_bb2f84aa` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:697 | doc_type:owners_manual
 ![](images/4348d5a4696b4795e92435bed6562827f403dea3d25b37b929fe454b6fe0eeea.webp)
 
 ![](images/77eaf5cfec7c02d6dd5dc46299d9220a081833739290cbdeb3a4a14488a76ecb.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_f0a00936` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:698 | doc_type:owners_manual
 Fuel Injection Bank 1/2
 
 Check Injector Wiring
@@ -18802,14 +17784,12 @@ Check Injector Wiring
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_8ef943a9` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:699 | doc_type:owners_manual
 ![](images/32017af513f3b535f3ff5f8efc30ba980b03c5efe672413b981b4aa9a28f4810.webp)
 
 ![](images/8fd364c2ddbca851f293eab6af11c9a7b7904696686a06c9424e18ec4db819a6.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_995f8f1e` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:700 | doc_type:owners_manual
 Fuel Injection Bank 1/2
 
 Check Injector Wiring
@@ -18822,12 +17802,10 @@ Cylinder Balancing Fault (Injector #1) = Clogged Air Intake System
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_d24cf08e` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:701 | doc_type:owners_manual
 ![](images/1e93276bd35b89ba32843d8fa081fda0d6956b957d9fb2359578fd1cb6be7d81.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_801239c3` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:702 | doc_type:owners_manual
 ![](images/9cef326a45950dc81a571a1cd908d1c475ced320d7b2b61b3b3157fa29dd2513.webp)
 
 ![](images/8a70c3f739920aa19d20e0d385109ef394c35c39f3cfe0d375e3a48c6237804f.webp)
@@ -18836,12 +17814,10 @@ Cylinder Balancing Fault (Injector #2) = Clogged Air Intake System
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_0efab9b2` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:703 | doc_type:owners_manual
 ![](images/9d32b0b05440e0871b0970d8072fe0cf1fc51f40733951add3dd5808a852c325.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_5d619661` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:704 | doc_type:owners_manual
 ![](images/7c783e850a115e0fdcfbcfb2b0f439dd7a6d2c61e419f968328dc52005df25a7.webp)
 
 ![](images/77896c47f2e3d8cf5f1278ba3d0ae38482eae2dda1585d6ffa2919afcd4cd310.webp)
@@ -18850,12 +17826,10 @@ Cylinder Balancing Fault (Injector #4): Clogged Air Intake System
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_5b0d975d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:705 | doc_type:owners_manual
 ![](images/d0fabf8f2daabaa28f32017e3a535bedd820b70ec256acc35671162bdd3c3830.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_dde28f0c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:706 | doc_type:owners_manual
 ![](images/7d7fcd4980f1a98724b463f5ab620dcebb16bbf88e82ce929f87a9169761da1b.webp)
 
 ![](images/9d85ad2912490456d11d55e92c95f508acf6776de6c3a84bbe2f4800057275d3.webp)
@@ -18864,12 +17838,10 @@ Cylinder Balancing Fault (Injector #5) = Clogged Air Intake System
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_86e398e2` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:707 | doc_type:owners_manual
 ![](images/dec70f5c0e804c75ed0af2d1170b4894e840c07e0d3b0e22705083f46a68a8d4.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_67e633aa` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:708 | doc_type:owners_manual
 ![](images/9de1f0b5adf2f722b4dd86728b59ffc277c9f377679d46e34c5e24e8f53e2d19.webp)
 
 ![](images/b475755b7de4a617b5d27a64eda563b38fce1db580004a7e81e450ed93a8a5bd.webp)
@@ -18878,24 +17850,20 @@ Cylinder Balancing Fault (Injector #3) = Clogged Air Intake System
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_6001cb79` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:709 | doc_type:owners_manual
 ![](images/b93fa168d79d0e263c9aa517e203ccc765e8c14784a479b0bcbe4436583adb69.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_45ad90ba` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:710 | doc_type:owners_manual
 ![](images/ace9514811fb500cb14f968158d46acb61c8e4c17242857c718cede2144f8e09.webp)
 
 ![](images/a20306841dd5a18d4931a86d336f7d63e3453321aebd221255a66066351a55a3.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_3a688544` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:711 | doc_type:owners_manual
 ![](images/7270bf51a87ba782dd86d1c951f8e12aaadad8c71092f09c099beba67f0e50cb.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_fe82b178` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:712 | doc_type:owners_manual
 ![](images/ff3bb2e61a463f86708c0410168963a497bb26c94cd8f416f97424fa63284859.webp)
 
 ![](images/fa6629e2addb7efb6f6413c01222627ca64a2a74966a07677b22e5a9debbeb63.webp)
@@ -18904,24 +17872,20 @@ Cylinder Balancing Fault (Injector #3) = Clogged Air Intake System
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_4a8e931a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:713 | doc_type:owners_manual
 ![](images/4434c95eae8239a63f310c94607042e1a181c58c95250f72bdfc37b9123e1b03.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_10f22ce8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:714 | doc_type:owners_manual
 ![](images/8c0679e8406a34e249b1ee7ed31246da676e10a6effacaae68154bccbc43f65a.webp)
 
 ![](images/ac6034d253a59cd9e470253010539ea1d6702f94fbbb587f761b949b635a66d4.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_8bbb90d2` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:715 | doc_type:owners_manual
 ![](images/42820b6626a9099e661663d16d1d12add726ab7db1d0244f4ffa8689d2fbee15.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_5898e973` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:716 | doc_type:owners_manual
 ![](images/fc75006a8f12f413af7669ceabc89cb70eb98d90e6b3068eeaa911801c6feaac.webp)
 
 ![](images/63e685edb554b573407e1d28e9e923f7cf6be38ff5e70df547dd6f716a7085a9.webp)
@@ -18930,132 +17894,110 @@ Cylinder Balancing Fault (Injector #3) = Clogged Air Intake System
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_4f180758` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:717 | doc_type:owners_manual
 ![](images/ec1a823b71ef586f591f0664ccc4d20bd7d880e35b0fbfc53ff5f5e239b44332.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_28c18238` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:718 | doc_type:owners_manual
 ![](images/c30304e105e0b7aaae9fb0629fdcc3d0f641de671c87252edb227d8085b50e21.webp)
 
 ![](images/90ea617fdc3b8cf29aef2669d9f39da4f3f491dad4c34d67948de8d1bf8e08cd.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_f75be5c4` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:719 | doc_type:owners_manual
 ![](images/ce86bd4623b6dc000a9db71dc5838150e89f6f58ddfa3c64212800a04d35acf7.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_f0eff193` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:720 | doc_type:owners_manual
 ![](images/f84efabb483bdd81bc1a7d91f4894515a106a394926f0d05fa1c14ef7b23e8c1.webp)
 
 ![](images/01e0d1f0cb57b4a93f6229aac9c077fd8a9f95d68908e15d950aaa0bd153773c.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_ae7c3338` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:721 | doc_type:owners_manual
 ![](images/1ab22b487c7a4ac05e0e46839442c493e25be7eb210783827ae09b032686f888.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_95b93427` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:722 | doc_type:owners_manual
 ![](images/6b58c7942d31a2274bfe3dcbf3006b9902cb634cb3d0b01a7595eaa0bae6760f.webp)
 
 ![](images/6814ec6f20623682c323ff89a7634c00157b9105e82ffa91b99276b4c3c0f28a.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_84d24e64` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:723 | doc_type:owners_manual
 ![](images/bb88069c882588f3a190d7f6b6f218fbe304e1aa12f38b7ec82584c42d91bf3f.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_9b3258b1` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:724 | doc_type:owners_manual
 ![](images/07a4652866e46bde2b71eaae52045a78d3f7adceb6df2d5ca1b744f5445ffb8f.webp)
 
 ![](images/034a445aeb8182120f49e8fcd0967af5be7ce09c6d9c75f43919ba0454386d75.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_25b9ad37` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:725 | doc_type:owners_manual
 ![](images/ab1894491e61fe67496cb96f9c9eca1bc5631ab0d036215f46aea74f4f18c661.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_330b01f8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:726 | doc_type:owners_manual
 ![](images/0eb7fe1b3b29d9a74485e4c92ff59c104a430fc628bb3aa9505716afd8b6fc20.webp)
 
 ![](images/9f606e03c7750c0085be5575de399d9046fa45ddb02b673205689c0dd37df04c.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_a0605de2` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:727 | doc_type:owners_manual
 ![](images/9a5bb64202715d7a0e6c5a9f835bb5fe644d03ae49ca000e67bef9c1e28ec8d0.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_50de9157` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:728 | doc_type:owners_manual
 ![](images/ee28ec4290396acf379f5187074c28ed22b2b5b32ac6fb578aa9b7bf4312674c.webp)
 
 ![](images/12eb44673bbaca0e3f131efc2307177a3581d2674aed1c0949468b35bdc4b89b.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_688456c1` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:729 | doc_type:owners_manual
 ![](images/b297f2a30e5cb8b313c06eab6c435afa7ca4b740056dcf04c0b54164b7b9555e.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_83582e2c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:730 | doc_type:owners_manual
 ![](images/3d9724cc9e1c41c6f44d54171f8e4a631c39f4a02e82670506b6db3780fa81fb.webp)
 
 ![](images/4c56d95291a07b90320202bc797080e478b9e6127456ea7b1c155f766b51803d.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_84b8fdfa` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:731 | doc_type:owners_manual
 ![](images/a524f101c80b73b3d4be3c1502609e3e034f52018ac6a970e5741ca6592c9e3e.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_be1bf00c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:732 | doc_type:owners_manual
 ![](images/502f77a776a8f110b73cc7e1fe1863378121648001fd8b72c9b6a6841cc4fb5d.webp)
 
 ![](images/de880707df7bfdd4049a56f3051034b6046df55a02759a88d5de5aad1b5e93c4.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_67813821` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:733 | doc_type:owners_manual
 ![](images/82f7a081ec5476bb5ce27a23f00fac7045eb1ec98118d29863110a63e8c8af7d.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_4e37a6e4` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:734 | doc_type:owners_manual
 ![](images/24e4560d4210971a273d996fb00b76abaab2ff120b1067619daa482285f1bbef.webp)
 
 ![](images/a5313072b3dd68ac547746e5b4122f95637335db408d6be2999116c2fe4a4b28.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_1209c15b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:735 | doc_type:owners_manual
 ![](images/2dcad6f7162641b278f76ce40b3589da356f3cd5b38b59cfb9c795560942397e.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_a4d10e50` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:736 | doc_type:owners_manual
 ![](images/4201ea60659b3516c64f1e2841f3e755bc16c8222fbe8125b1e9a82befe52f87.webp)
 
 ![](images/c046cdaeda70a83b689b8e8a2eec71bbceaca29068fa477c8c41792c7d202ebf.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_99c10f1b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:737 | doc_type:owners_manual
 ![](images/c3b19b8b78d18f2e1b6844cdb2bb4223e9a8ed20850e4d8b8b8ab083fd8299b7.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_67d2b330` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:738 | doc_type:owners_manual
 ![](images/f43f5e5daa169a1c11c19905f07693eaed30057f2c11a1ae4cfe886d41373e30.webp)
 
 ![](images/27e7c2b6c296f93d606c893df2c235ec687c146c0dc2d3a4e14258c3722a7e87.webp)
@@ -19064,12 +18006,10 @@ Cylinder Balancing Fault (Injector #3) = Clogged Air Intake System
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_bab4523d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:739 | doc_type:owners_manual
 ![](images/68b57a2b85c5c079247264e347c4c9812221c1fde1e2e5bb157808145d044801.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_c9d166ad` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:740 | doc_type:owners_manual
 Rail Pressure Control
 
 ![](images/7b3f41edd5fbe8d319f0a42c21d9b8651473392549f4e3615fa52c19c2ad75d3.webp)
@@ -19080,7 +18020,6 @@ Transfer Fuel System
 
 
 ### 3 High Pressyre Fuel System
-`ssangyong_rexton_en_021827bd` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:741 | doc_type:owners_manual
 ![](images/3470e244072e5b07af3c5c99efa69bc42c301770addfe92add0b4ead8af6fd31.webp)
 
 ![](images/afe3b6a29ec6366103b7b34100fd48b70353e570ee8f137017cd09fbfb8f6744.webp)
@@ -19089,12 +18028,10 @@ Transfer Fuel System
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_6b568eb4` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:742 | doc_type:owners_manual
 ![](images/40aa3c7c7f9c054c495119b1fc245573a0cc071b65fdaa5515065b7c9afcbba5.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_e71a984e` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:743 | doc_type:owners_manual
 Diagnosis Procedures (Rail Pressure Control)
 
 ![](images/2afc82d4dc00507ad54884be133d1cae7dfa500571099422db074d65444bae9c.webp)
@@ -19113,12 +18050,10 @@ Diagnosis Procedures (Transfer Fuel System)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_d5c2edee` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:744 | doc_type:owners_manual
 ![](images/ecd457455b18fb86e2abb46a48fc4cca2e7cbac0c5dfa2cb3f10ac24159c8534.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_c31a18ef` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:745 | doc_type:owners_manual
 Diagnosis Procedures (Rail Pressure Control)
 
 ![](images/ea1cf0a37a9a4f7aa7caeeb4dc82568bc8e5939b19b2a81f2fa8ef9a68dca8ed.webp)
@@ -19137,78 +18072,64 @@ Diagnosis Procedures (High Pressyre Fuel System)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_da35665d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:746 | doc_type:owners_manual
 ![](images/269f420a63d515ef81167f4fe2bb63f41f796c5ebef1ef8f558c1c06503d31bb.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_4c2648d1` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:747 | doc_type:owners_manual
 ![](images/b285ca78028e92e9ecc7350752b7c22603af707590904b204f072a69ac30155d.webp)
 
 ![](images/3206999224e06a0e259438139313b4b0158458ea6f847db328df60a44eea96bd.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_0035c95e` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:748 | doc_type:owners_manual
 ![](images/746c9b86b384652dda3ed875cde427820ab7e39ef572ee873440ea1949591e3c.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_377f418a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:749 | doc_type:owners_manual
 ![](images/979c086e81c21d844c96cf4565b6d388000eccc8427274028ad121b89226e759.webp)
 
 ![](images/47d2fae1eead7dced470985361ada3d8477549e90ec28fc55000c7f34a9c50c5.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_3c9ed888` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:750 | doc_type:owners_manual
 ![](images/51af301bee3d0f344756d389359eab80259f155bd7dcc5a7926b37e0dfe400b7.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_911c1cbf` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:751 | doc_type:owners_manual
 ![](images/e03d52317038b3478b220af20bcfde047e09cde4697e6fccc9e83d35493623b1.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_514602fa` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:752 | doc_type:owners_manual
 ![](images/3c6cd5395172b7ab8c405ee8fb025f5732c83caaf3eae6348710b86ab6d10e73.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_01742b6f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:753 | doc_type:owners_manual
 ![](images/8ad28f6a5e851b06973b87b9d883425b1b89925aab6dbc491d486311071c412a.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_952aa7ae` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:754 | doc_type:owners_manual
 ![](images/eee53167ac99428784c1f6086444baefc38b16ee2daf7534fa133f04abab4fb7.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_58aab805` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:755 | doc_type:owners_manual
 ![](images/79f4f570270ca1aa54d179f2f7180ca64dc32a6eb0e7f74d04b0fd08e604c095.webp)
 
 ![](images/035eb1799da5569d15fe162991d893fdf29c89d5625e91c7ae400a231664efec.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_02f5233b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:756 | doc_type:owners_manual
 ![](images/8ec627da8fefa615eaedd1b4cfadb8bf1c2d89faa096009bfb686e982f0750b5.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_6db7a958` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:757 | doc_type:owners_manual
 ![](images/8c615f9413eeb3c733e94bccdb909a8e1da4e530ebf4dc26fc62a36fa98635bf.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_f1cd30c7` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:758 | doc_type:owners_manual
 ![](images/9d2bc310a15784d52ae406e24d16002a0e52f4879e9ab98f38d70cdfd87a0fef.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_6a0a2e79` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:759 | doc_type:owners_manual
 1. Diagnosis Procedures (Rail Pressure Control)
 
 ![](images/9bd1629b1b1b9e86379b925e48891e38c620348b5d9ecb9d5c612015e3db5484.webp)
@@ -19227,24 +18148,20 @@ Diagnosis Procedures (High Pressyre Fuel System)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_a3f32b01` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:760 | doc_type:owners_manual
 ![](images/e08a71aa0eca1ff2c26ab60109305c87f6db0b538b4cf625ef394cf1501da580.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_5f093278` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:761 | doc_type:owners_manual
 ![](images/3a5c2d7cd0e8ea8acadec4440e8c74f6e8200a59a7a9c81981e8b6bf8e16b67f.webp)
 
 ![](images/850673cd650a1fb66860c3475ba9998d71b871c02371045d9d796c5ddd20a72f.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_6dde5e87` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:762 | doc_type:owners_manual
 ![](images/b583c1f55ab4449f325da0ae8668b6570d6bc913be4a8e59ea25d8e46c54cdd1.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_8cfbb12b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:763 | doc_type:owners_manual
 ![](images/5c6f2d7f00a113a00d415586a6c5faa599479f9f0290868b464411471fd12081.webp)
 
 ![](images/0181b71730fc91ecd625e17ac7b992c77dfafb1c54ad11ca5bd057bbe955e73a.webp)
@@ -19253,136 +18170,114 @@ Diagnosis Procedures (High Pressyre Fuel System)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_bf50328f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:764 | doc_type:owners_manual
 ![](images/5ad9d7051e3a34b596bc29214d172f16e86fc8e7686a3bb16d987c66d0e3e40c.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_c7224259` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:765 | doc_type:owners_manual
 ![](images/2439ca927bb74891a820f06d09a69df3d79006d80a3eccc71a159de2396b40c9.webp)
 
 ![](images/317700a070a665494d6bb0f58ea5a73db26cb908034f0d391363d094359081bb.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_012f0560` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:766 | doc_type:owners_manual
 ![](images/2d0c958bfa412b3115c8257f1a0f46d353193545f8449e612e828c21f186a174.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_1f591e78` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:767 | doc_type:owners_manual
 ![](images/b085adda1334a709955ca27432986b086570ae4c95e3daa51e28ee371a85d0fb.webp)
 
 ![](images/43623afbe2ebb81b50e2fb4caeac92b7f04f04d3142fd8bf171ca6cb7b698fd2.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_b0c6cc91` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:768 | doc_type:owners_manual
 ![](images/18f744a9db9680a6aefb7f9cda125f3a5d5b9c55a1a46c9922981e731f6bfc37.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_7b2f0615` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:769 | doc_type:owners_manual
 ![](images/16eee7d6e37efeee17884f6265b0fb73b56e295f58b761480d96332b37548373.webp)
 
 ![](images/2f507617d4a0c022fccbd4089c7a36e1c7f1f4717c3826f282d9cf1c841a180b.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_67887504` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:770 | doc_type:owners_manual
 ![](images/946aeda0ef622e8471fbd9f11c54e88893d58030facc52c6b5f81fd1043ffa71.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_c20d7330` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:771 | doc_type:owners_manual
 ![](images/ce20a6292ee094908f07f51f8f75e3e5f17d8afd4d5026683b47cfe176445b2b.webp)
 
 ![](images/522286b41e6cb0345c54f79a78c4140e309c45ca3987ab890eb2225448b49a63.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_270c1fb5` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:772 | doc_type:owners_manual
 ![](images/b9e0740e08cff20ac4671a6d59bc3bc6fdb084d004d7b05dde29ac79013eafef.webp)
 
 ![](images/0e52076c5fd50db87e0eaa56f5accc9c340d1a4fb93f65e0588affb1ffcc023b.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_e292c3f6` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:773 | doc_type:owners_manual
 ![](images/9b1c1278d50d9dfbda9687b046db8fce87953775991a5a0d20cd37f9fd5995d2.webp)
 
 ![](images/c3bbce2accfd22337cb13b733412464e1bb0e0174032b6a154cf789fd6dce893.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_aaf15b2d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:774 | doc_type:owners_manual
 ![](images/cd7776ff7d193ce3202c08aa327d1470910caf5faf367b9091f33a5e3bcb058a.webp)
 
 ![](images/ebcb54c9e9975bdb72175c127d2d9a96b7e7dc3d5a6cdb21ae44654ee6de1598.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_5461589d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:775 | doc_type:owners_manual
 ![](images/c5e5e6da2a075ee819064a247e04eeb3d93e9c83498bfc21a3ec06a57c2a4738.webp)
 
 ![](images/abb0b4280098628f0a72cbbfce551d480a0385f223c4a961c99c4aaae912fd25.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_41260273` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:776 | doc_type:owners_manual
 ![](images/a5e83b7cd7425fea8117c956a0e4fb8382cb1e04b05ed7748a47981d06efbe66.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_8902b5b7` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:777 | doc_type:owners_manual
 ![](images/f479ef3715b41c90cc66ea3bfa2f059043ed6bc5ef9570f33288d770c87aa132.webp)
 
 ![](images/aeab859fc4e92b18bf30b5d8d05dec0eaaab02011926d17d6a031eaec0c90b0a.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_c855d8eb` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:778 | doc_type:owners_manual
 ![](images/f067cc89aa3d2eba37c08480319a49a2c0ede77dbe09de3b25993c9b4fc738f1.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_3c340e1c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:779 | doc_type:owners_manual
 ![](images/24e0dee337a8cd603279bd9cf47cf7ea7bb8cdf53e0370ee898869c78f0ca4aa.webp)
 
 ![](images/501463edfd965207b214bba8f715890666d5f11a7d4398435dd26569f42d1bbf.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_92d12250` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:780 | doc_type:owners_manual
 ![](images/4e340a258f29053824bf8acf7d6a415ca10936d80d88696776defc1bf8572bf4.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_e29dd27c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:781 | doc_type:owners_manual
 ![](images/ded9e99de8b897740afe88b2693070236796d5917c93d591012c3243066081e3.webp)
 
 ![](images/840001ede21cb37bef3b86ed3ad56a8ebdcb333d1d2ec21097a120f93524ac02.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_da3439bc` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:782 | doc_type:owners_manual
 ![](images/06560351b06c956bcd1818d50f49d452f6f9cb331b93fba90727e424658825af.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_e29d6bbd` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:783 | doc_type:owners_manual
 ![](images/b02709bcbf43b2ef0bf2a734f599cfaa1c81b60d853777074fbd2c407e76299c.webp)
 
 ![](images/3a47d21fdb1f8438f62be8db3a7f7c353f3b067b14cbd205e929d36239b2a03c.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_84f01b61` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:784 | doc_type:owners_manual
 ![](images/1922cbd8f946f20dd7230e274e3741dc48e256f8f8f4281b33f6a465e2783245.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_7ff53790` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:785 | doc_type:owners_manual
 ![](images/603f00f0041f2a9a3a3ee2f90035363c6e652ebf47046721bb83e732bd2cace2.webp)
 
 ![](images/ae2ce28e60a5539e73f4f7e8cf4ba22b19d82a4e62464f01c47f475160f093eb.webp)
@@ -19391,84 +18286,70 @@ Turbo Charger Actuator Operation Fault (signal)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_fa67431c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:786 | doc_type:owners_manual
 ![](images/c538dfcd47778ab4b9c8cb63f529dfe784b904903ea9888618a136bb58adb370.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_bf98851d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:787 | doc_type:owners_manual
 ![](images/212869eed39c6299e4b335478056ad7ed09521da5433dc375f9d8eb680933fe9.webp)
 
 ![](images/27df63d8b345d4a3b985102055ce9ad2e6eeccecbde3606b7ad01135b740c8a8.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_c1e92d5a` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:788 | doc_type:owners_manual
 ![](images/ad6bdea52fd24e4cbddd528d4c5a8dae4693a44fef9d796d14bbed2080ede66f.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_9eb4ebe0` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:789 | doc_type:owners_manual
 ![](images/edefa031e293665f5612b4fad1e9335710cbcb4a02dd87a0cbf0a909b94b7dc4.webp)
 
 ![](images/c707df36710244c9aed52b8a8c1593f97b141ddcc07ca3b54f3ea3760a52c82a.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_9881182c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:790 | doc_type:owners_manual
 ![](images/ee0e9f2c5246bb5dbb2f0395b8035edf4acc20fdde5c337251a8f33365cf7727.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_081ea5c2` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:791 | doc_type:owners_manual
 ![](images/28522531f05d488540c6d88f1f8b9f162d840a189b1651fb4b90777107b98d88.webp)
 
 ![](images/4089dd7a59fdf2ada5beea03fd84b482b127304619160c96bc1b454291e8a6a7.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_554b815d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:792 | doc_type:owners_manual
 ![](images/e6dfa90bef46f7bb582f5c9b13f92ce55df87747d8ac6197cf17ab208fec676a.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_1c799858` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:793 | doc_type:owners_manual
 ![](images/f30a6d8f84b8fd931e0de855836d64f6fc7210343db9b14278487c6b0e48a89a.webp)
 
 ![](images/331da09870e675bc427a8b6b04b5f81835929ccbf4dd9adb9d644a67053c6981.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_ae7a44cc` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:794 | doc_type:owners_manual
 ![](images/f28c39258c6066f11e73ceb08be273f3eaa83ea5c98f585e82bbaba1564071ae.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_58fd3287` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:795 | doc_type:owners_manual
 ![](images/c7d19ec19fcd5d144b4f18785c0bf378a3c4d0319cfbfdd4cfa3bf2b9021c29e.webp)
 
 ![](images/9c9bba853fd7cba2ea3303493a4171a370cb63d1ff169553fd6202c3df7350b1.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_928fb14b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:796 | doc_type:owners_manual
 ![](images/33f7856e18f84aa8988a9f0406ab07b9098cc5e6d8c4e2f2bf6415290b89b7a6.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_1ea87e9b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:797 | doc_type:owners_manual
 ![](images/c6753c40999ea3b424f574575657236715b8013506ff6a0fe6c25bf54d31ee3c.webp)
 
 ![](images/63877875bf37c5dfd33c42cd7736bc8973a2b9778f774407dfafab94515846ce.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_0be71045` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:798 | doc_type:owners_manual
 ![](images/770ae72d3a4cb94867905ecee4473084003615f770ab69c01a87fd9fdbda55be.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_00fae6e3` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:799 | doc_type:owners_manual
 Read DTC YES   
 Knock Sensor Related DTC? — — Refer to "Accelerometer (Knock NO Sensor) Diagnosis"   
 Vehicl driving conditions are   
@@ -19478,24 +18359,20 @@ not satisfy with MDP learning requirements
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_d1795cd5` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:800 | doc_type:owners_manual
 ![](images/c1b91d509a1d1f37246f7bc7b7bfe228c20911759da8e0feb463ecc934650532.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_c9da7997` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:801 | doc_type:owners_manual
 ![](images/c8fe7440a2fa2770d51af646903aa943ffba8a9eab0c34a81941bccce51dbc7d.webp)
 
 ![](images/8a367cae2486d25b03fe37092a1cf432ee69fc50bf57a6346a1ef785a760745e.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_4b8db3ef` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:802 | doc_type:owners_manual
 ![](images/abfebe7a28ac6d2cb79763b5b209855cd5a944c937d9246684ef9ea0907b01fb.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_2f6b588b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:803 | doc_type:owners_manual
 Diagnosis Procedures(Boost Pressure)
 
 ![](images/1d08fe05ee0c6250452bac3e3127313f1cff26c4b22b9567373a72eca89c2a2d.webp)
@@ -19510,127 +18387,106 @@ Diagnosis Procedures(Check sensor (1))
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_0de64e51` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:804 | doc_type:owners_manual
 ![](images/e5c7617e97939f3e6967a6bb2774d07e94c3ffb6f3bc76bcd2b035f4437b5fe7.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_d4c2fe36` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:805 | doc_type:owners_manual
 ![](images/fb67a76e11652c9f00d3a5eee43e1ba4ae975997d6f7579ae3ce5487145600fc.webp)
 
 ![](images/06eb1aea95f9b48c4b24d72043426901f87b12cde82b931bcb63d1f5c5904050.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_26f16818` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:806 | doc_type:owners_manual
 ![](images/149fb8747ffa43b7f80aeaa68448f4b0a9b479b4ae5afac2d54f6d3f99ac0d36.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_369397a3` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:807 | doc_type:owners_manual
 ![](images/09163fa29e7f42fcd27ec0a8ce3de14f8cc2b2e0619d27009efb06b8ee9cac02.webp)
 
 ![](images/331b293dd6e83709b68c64085b01df1d634af1ac7620c93374feaf3a26e1dd47.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_f2a31c02` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:808 | doc_type:owners_manual
 ![](images/44bb5bbf85d74b3e8912c26c6ab15af91f77a9e47b5c3789bc02c12f29cd3ed2.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_e18ca51d` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:809 | doc_type:owners_manual
 ![](images/e7f5ea61383d1a3e09ed8f2430dde1eabd3aa7396a945830069581fae6c021e5.webp)
 
 ![](images/3780835e92cdadfce859479a6fe7cddec1cfc7d01c7fef5244b02d0877a0af4e.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_61a4e79c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:810 | doc_type:owners_manual
 ![](images/6ccf2a350b89e84086cd90bf69a687fe6d94f1ea5c251c14876fd84f5aed38d8.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_da2ec8a7` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:811 | doc_type:owners_manual
 ![](images/7ade1e6675fcb7fbe3916e6e2d7fa8878544ade22cd709f2eb96d7fbaa7c2584.webp)
 
 ![](images/17e5ac05f6c58e54e858969b126bf96245056c2607fda1a0880f85501613841d.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_23243ec8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:812 | doc_type:owners_manual
 ![](images/32750a7e694defbbcaaa1afbafef6ebbba9070d709c71fc090ae2a9ff65e7e06.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_db128307` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:813 | doc_type:owners_manual
 ![](images/f77d7ef84dba3e7fdbcd7682f56718fa9691f0ee2828afea7cd07d1447381f8a.webp)
 
 ![](images/01aedc22445339a51e29fd9d5b9f1d8caa459f43a72b92d7861c73bbddf8aa79.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_132782cb` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:814 | doc_type:owners_manual
 ![](images/f92f15ef50acfbca538b5543130f073e7f0cddbc957caf46721d0ee972a1f2e3.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_f6f05a94` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:815 | doc_type:owners_manual
 ![](images/562429c734b82b17890b16badd4fa66c20eaa3afdd836afdbd1283405b152690.webp)
 
 ![](images/7f341facc54ceffd896efe394f7312e4a53709118064869f3341dfa8035dce52.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_888f0f7f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:816 | doc_type:owners_manual
 ![](images/ace0872ae9358ff23f0143be7d97d9081a7a570d4556c6fff836dc45a7a09365.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_6f248c1f` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:817 | doc_type:owners_manual
 ![](images/fc2b114227c04f043869874257d04a6ba8557cf07611bafdfc7742e64bdc45e6.webp)
 
 ![](images/f98e91c2cf0e7dacaa6855175d05b4d0d70e9b0f708ae974d59a394bde8872ff.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_09e40ca8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:818 | doc_type:owners_manual
 ![](images/9d6033608921af1d9c32035d671a6e488b88c60473251f0152aabf299634cba4.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_4fdf3b59` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:819 | doc_type:owners_manual
 ![](images/e78ef799c6e3180765e614d52a4622c25837aa166c52680c86c299b3b7f34ff6.webp)
 
 ![](images/99365af206630dc9a8dc995aa42204172232e78db7394015ea2139e1df5348db.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_a4895e87` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:820 | doc_type:owners_manual
 ![](images/d058d149d245fcf84a3c277b85f86bfb68587668ad3252b086e546347440c58f.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_7fc934c1` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:821 | doc_type:owners_manual
 ![](images/ce7e9797cf2f858da016bac6b27301f2f1231dd4b57d6ede4c2f170839770519.webp)
 
 ![](images/8fbdd9e5e213fb13785d9422996f6970e49121c3a784cdbfb506546fbfb4b92b.webp)
 
 
 ### Trouble Code and Symptom
-`ssangyong_rexton_en_229dd2d7` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:822 | doc_type:owners_manual
 ![](images/5635bc9bfd024954a3e38b75468ac0ee7bd4a07d2169914432e630bb9b603142.webp)
 
 
 ### Diagnosis Procedures
-`ssangyong_rexton_en_f2ae9be7` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:823 | doc_type:owners_manual
 ![](images/cb6c201002db39e1b2454a4739024cfebe9aead45594571a089c5dd5ec701619.webp)
 
 ![](images/ca754673997f98cd21c07b169bd3eeca7745f3e7f08bb75e5512c06cddeff336.webp)
 
 
 ### FUEL SYSTEM DIAGNOSIS
-`ssangyong_rexton_en_5980571c` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:824 | doc_type:owners_manual
 OVERVIEW .. .. DI10-178   
 Fuel pressure system DI10-179   
 Fuel system pressure test DI10-182   
@@ -19640,7 +18496,6 @@ Fuel system check process DI10-184
 
 
 ### OVERVIEW
-`ssangyong_rexton_en_34a07007` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:825 | doc_type:owners_manual
 When the Diagnostic Trouble Code (DTC) is detected through scan tool, it's necessary to check the transfer and hig ressure fuel lines in fuel system before replacing the components.
 
 If the trouble continues even after the trouble has been fixed with scan tool, must perform the fuel pressure test.   
@@ -19652,7 +18507,6 @@ Below schematic diagram shows the specifications of pressure, flow mass and temp
 
 
 ### FUEL PRESSURE SYSTEM
-`ssangyong_rexton_en_171f8018` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:826 | doc_type:owners_manual
 ![](images/9e54bb16458e1631f84363da6bb65a86650f1d7b2de1bba7103802e942df904d.webp)
 
 Y220_10063
@@ -19661,45 +18515,38 @@ Y220_10063
 
 
 ### Example of Too Much Injector Back leak
-`ssangyong_rexton_en_44d37411` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:827 | doc_type:owners_manual
 ![](images/e6bc3b310b41cd0d05db1e014f630bca3b07d4d4b148b8e337d76fa60530fa7a.webp)
 
 Y220_10064
 
 
 ### Too Much Injector Back leak
-`ssangyong_rexton_en_c787fbe9` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:828 | doc_type:owners_manual
 When the injector cannot be sealed due to entering the foreign materials
 
 
 ### Ex.:
-`ssangyong_rexton_en_f5f17d85` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:829 | doc_type:owners_manual
 • Foreign materials in fuel •Burnt out or worn high pressure pump •Mechanical damage in inside of injector
 
 ![](images/d542c90b148d61efdf001a65a4f2af04d9d2e2d9988724525267a746ba3229f2.webp)
 
 
 ### Example of Pressure/Volume Loss in Pump
-`ssangyong_rexton_en_a21003f1` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:830 | doc_type:owners_manual
 ![](images/d1ad6c5e811eeab0966a5802af5ddd41173803ce0b548f5d201d9b1eac2748b9.webp)
 
 Y220_10065
 
 
 ### Pressure/Volume Loss in High Pressure Pump
-`ssangyong_rexton_en_512495ed` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:831 | doc_type:owners_manual
 When the required target pressure/volume cannot be delivered due to fuel supplyline or pump damage
 
 
 ### Ex.:
-`ssangyong_rexton_en_33bd7a64` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:832 | doc_type:owners_manual
 •Air in fuel supply line Excessive vacuum pressure in fuel supply line (-300 mbar) •Burnt out or mechanically damaged pump •Supply fuel with increased temperature ( > 65°C)
 
 ![](images/c877bb798472b540120261f1577602953788871699f89c36783de3080e3d56a4.webp)
 
 
 ### FUEL SYSTEM PRESSURE TEST
-`ssangyong_rexton_en_a17916ad` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:833 | doc_type:owners_manual
 Test Tool Kit
 
 For High Pressure Line
@@ -19710,7 +18557,6 @@ Y220_10066
 
 
 ### For Transfer Line
-`ssangyong_rexton_en_976d6cac` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:834 | doc_type:owners_manual
 ![](images/d06601555c30503c6a6486276f149975e9ebdb74cd72d921e6879d47718dec2e.webp)
 
 Y220_10067
@@ -19719,7 +18565,6 @@ Y220_10067
 
 
 ### Prerequisite
-`ssangyong_rexton_en_d185feda` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:835 | doc_type:owners_manual
 1.Check the connections in fuel supply lines.   
 Check the fuel level in fuel tank.   
 Check if the air exists in fuel supply lines (air bubbles in fuel supply lines or fuel with air bubbles).   
@@ -19729,7 +18574,6 @@ Check if the specified fuel is used.
 
 
 ### Fuel System Test Process
-`ssangyong_rexton_en_1c8985f8` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:836 | doc_type:owners_manual
 ![](images/7c145e03614c5ec7e72709e3f251bab3e209af670c44858c87568c31437f3b37.webp)
 
 Notice
@@ -19742,7 +18586,6 @@ Check the transfer fuel system and fuel filter before proceeding the high pressu
 
 
 ### FUEL SYSTEM CHECK PROCESS
-`ssangyong_rexton_en_311cd86e` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:837 | doc_type:owners_manual
 Initial Check Transfer fuel system (air in system), specified fuel used Fuel leaks, fuel filter Diagnostic Trouble Code •Wiring harness •Abnormal noise from injector No Abnormality No Check and repair in Initial Check? Yes Check fuel rail pressure (refer to 4-1) When cranking engine for 5 seconds after disconnecting IMV connector, i the rail pressure over 1,050 bar? Check transfer fuel system (refer to 4-2) Yes Install the transparent tube between fuel > filter and priming pump. Check the transfer felsystem for clogged oir bubbles. Check i the vacuum pressure is proper. No Thoroughly clean the components before installation Check the injector back leak volume   
 Method 1 Method 2 Static Test for Injector Back leak Volume Dynamic Test for Injector Back leak Volume (refer to 4-4) (refer to 4-3) (with engine cranking but not running) 1. Warm up engine (coolant temp.: over 60°C), place an (with engine running)   
 Place an empty plastic container under the return of empty plastic container under the return of injector, and   
@@ -19756,7 +18599,6 @@ Enter new injector C2I data into ECU Enter new injector C2I data into ECU after 
 
 
 ### Fuel Rail Pressure Test
-`ssangyong_rexton_en_4e458eb7` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:838 | doc_type:owners_manual
 1. Disconnect the fuel rail pressure sensor connector and IMV connector.
 
 ![](images/b12ef1af020f1829c8da89baa2102d427625875b3ab90c422ce5eb357283b4d8.webp)
@@ -19777,21 +18619,17 @@ Crank the engine for 5 seconds (twice).
 
 
 ### How To Use Pressure Tester
-`ssangyong_rexton_en_8242a4d2` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:839 | doc_type:owners_manual
 1Check if the “TEST?" is displayed on the display when pressing the “Test " button.
 
 The maximum pressure will be displayed when pressing the button while cranking the engine (around 4 seconds elapsed from 5 seconds).
 
 
-### Note
-`ssangyong_rexton_en_4f62530b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:840 | doc_type:owners_manual
-The fuel rail pressure can be measured through the scan tool.
-
-![](images/0c364d65fe2d8282545a31734d560d6954ca7bdc53a3e1a0548e295a80813d25.webp)
+> ℹ️ **Примечание:** The fuel rail pressure can be measured through the scan tool.
+>
+> ![](images/0c364d65fe2d8282545a31734d560d6954ca7bdc53a3e1a0548e295a80813d25.webp)
 
 
 ### Test Procedures
-`ssangyong_rexton_en_34bff955` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:841 | doc_type:owners_manual
 1. All wiring harnesses, connectors and fuel lines should be installed properly and the engine should be ready to start.
 
 2. Prepare the special tools for transfer fuel system test and thoroughly clean the system.
@@ -19810,7 +18648,6 @@ Start the engine and visually check the transfer line for clogged and air bubble
 
 
 ### 4-3. Static Test for Injector Back leak Volume
-`ssangyong_rexton_en_d5a87517` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:842 | doc_type:owners_manual
 Remove the injector return hose and seal the openings with screw type caps (included in tool kit).
 
 ![](images/bc02b9b868f7b2000c7061d4de1214320607a864711537796d0b7092ea2bc9e0.webp)
@@ -19833,12 +18670,10 @@ Install the hoses from back leak test containers to return nipples of injector.
 
 
 ### If the measured value is out of specified value, replace the injector.
-`ssangyong_rexton_en_f7fdf63b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:843 | doc_type:owners_manual
 ![](images/e9954e11b6e24f970360bbb6dfea84ac5b0a4ab70b3a69c8046d536b7c3c65cc.webp)
 
 
 ### 4-4. Dynamic Test for Injector Back leak Volume
-`ssangyong_rexton_en_462ca82b` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:844 | doc_type:owners_manual
 1.Start the engine and warm up until the coolant temperature reaches to 60°C.   
 Remove the injector return hose and seal the openings with screw type caps (included in tool kit).
 
@@ -19860,7 +18695,6 @@ Start the engine and let it run for 2 minutes at idle speed.
 
 
 ### PRESSURE LEAKAGE TEST WITH SCAN-100
-`ssangyong_rexton_en_cb4dbd2c` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:845 | doc_type:owners_manual
 When performing the static test for injector back leak Volume, the fuel pressure leakage test with Scan-i should be done simultaneously. And, the fuel pressure leakage test with Scan-i can be done separately.
 
 . Test Conditions:
@@ -19891,7 +18725,6 @@ SCAN - 100 LEAK DETECTION ReXtoN ECU DSL D27DT > Test Condition <<<<<<<<< - Idle
 
 
 ### 4-5 High Pressure Pump Test
-`ssangyong_rexton_en_3b1ae654` | rexton | pdf_manual | tier:2 | lang:en | layer:lighting | p:846 | doc_type:owners_manual
 1. Prepare the special tools for high pressure pump test and thoroughly clean the system.
 
 ![](images/1a87dd5603da1081876160632ce00a1a1813c438451f0f8e47dd87fcdca90815.webp)
@@ -19942,37 +18775,30 @@ FACSIMILE :82-31-610-3762
 NOTE: All rights reserved. Printed in SSANGYONG Motor Co., Ltd. No part of this book may be used or reproduced without the written permission of International A/S Team.
 
 ### Engine Assembly - Removal
-`ssangyong_rexton_en_e96c6ceb` | rexton | pdf_manual | tier:2 | lang:en | layer:engine | p:82 | doc_type:owners_manual
 
 Disconnect the negative battery cable.
 
 
 ### Inspection of Turbine
-`ssangyong_rexton_en_10f61041` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:301 | doc_type:owners_manual
 
 Thoroughly check the followings.
 
 
 ### #1 Exhaust Pipe Removal and Installation
-`ssangyong_rexton_en_0594a5ee` | rexton | pdf_manual | tier:2 | lang:en | layer:engine | p:349 | doc_type:owners_manual
 
 1.Remove the upper bolts at turbo charger.
 
 
 ### Forceful relay shut-down
-`ssangyong_rexton_en_c005ef6d` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:438 | doc_type:owners_manual
 
 •When glow plug is shorted to ground
 
 
 ### Removal and Installation
-`ssangyong_rexton_en_9c631566` | rexton | pdf_manual | tier:2 | lang:en | layer:general | p:510 | doc_type:owners_manual
 
 1.Disconnect the fuel supply and return hoses.
 
 
 ### TROUBLE DIAGNOSIS PROCEDURES
-`ssangyong_rexton_en_3e6b50a3` | rexton | pdf_manual | tier:2 | lang:en | layer:ev | p:636 | doc_type:owners_manual
 
 HMF sensor Signal Fault (Electric Failure)
-

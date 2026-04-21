@@ -1,15 +1,18 @@
-# Manual: kaiyi/x3 (42 chunks)
-<!-- doc_type:owners_manual tier:2 lang:en -->
+---
+brand: kaiyi
+model: x3
+generation: x3_2020
+source: kb
+---
+
 
 ### BACKGROUND
-`kaiyi_x3_en_3abc980e` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/87eb4de5a626823ec3e5aa7b721a932ca19e376c8a17a27f6d1c94aa9778a844.jpg)
 
 Kaiyi Automobile products cover SUV, new energy and other models, traditional fuel and new energy products. Kaiyi Automobile takes customer demand as the center, integrates global superior resources, meets the needs of young people around the world for high-quality life through the appearance and interior with a very fashionable and sporty sense, the mainstream humanized intelligent interconnection configuration, the industry mature product technology and performance application.
 
 ### Kaiyi is part of Chery Automobile Group
-`kaiyi_x3_en_3b4dc5b3` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Chery Automobile Group is a diversified enterprise group with the automotive industry chain as the core. It has five brands (Land Rover Jaguar, EXEED, KAIYI Automobile, JETOUR, and Chery Automobile), among which KAIYI is one of the five brands.
 
@@ -20,7 +23,6 @@ Chery Automobile Group is a diversified enterprise group with the automotive ind
 ![](images/3b3d860fccaeb1d79a2e56e3116c38e2533482dc523fabbdf735febce3d88993.jpg)
 
 ### 奇瑞汽车
-`kaiyi_x3_en_f0be9d42` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 C o m p l e m e n t a r y a d v a n t a g e s
 
@@ -39,7 +41,6 @@ Leading technology advantage
 Mature platform advantages
 
 ### KAIYI automobile 2014 Brand events
-`kaiyi_x3_en_b34eead2` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/326b947995309482fda336d5e57765e7527f3e7db09c67285b7332d22e7a93af.jpg)
 
@@ -54,7 +55,6 @@ In April, Kaiyi c3r was launched in Chengdu auto show
 ![](images/8677549afcc62b0bf1196d76f8d989e81863a05e21e3087a9a88951a12faee02.jpg)
 
 ### 2015
-`kaiyi_x3_en_dcd1154c` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/806c762342978fd9bd819f33fe98dd9afa37c2e91a6f7f049914d1a4000b04d1.jpg)
 
@@ -66,7 +66,6 @@ Kaiyi V3 was launched in August
 In December, Kaiyi Crowdsourcing won the "Interactive Marketing Case" Award
 
 ### KAIYI automobile 2017 Brand events
-`kaiyi_x3_en_af520b61` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/32f2e8e92b5f28b63ae5007a69d142b5e6259cd51cfb4e5b18023e714b7a776d.jpg)
 
@@ -89,7 +88,6 @@ In December, the smart factory was completed and the new car was rolled off the 
 ![](images/d86dd30eb3a23aed9e996652c307826f5a750461b643c59ebf09754167208d26.jpg)
 
 ### K a i y i I n t e l l i g e n t Y i b i n n e w c r e a t i o n
-`kaiyi_x3_en_ebff9112` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The first phase of Yibin Kaiyi Automobile Intelligent Factory, built according to international advanced standards, covers an area of 973mu, with a total investment of 3.7bilionyuanand a planned capacity of 150,00vehicles.
 
@@ -98,7 +96,6 @@ On December 24, 2019, the four process workshops of stamping, welding, painting 
 In 2020, the brand new products will be on the market, and the estimated output value will be 10bilionyuan, the tax revenue will be 1.2bilionyuan, and 2,00 people will be employed.
 
 ### Excellent Quality Assurance
-`kaiyi_x3_en_fccd7aca` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Through the bench test, enhanced road test, three high test (high temperature climate, plateau environment, high cold climate), comprehensive performance test, user simulation road test, a total of more than 1 million kilometers of tests.
 
@@ -116,14 +113,12 @@ When the highest temperature reaches 45℃and the highest altitude is 510m, the 
 the vehicle's drivability, low temperature and user perception in the high cold cold start, hot start, stable idle speed and
 
 ### High Quality Accessories Supplier
-`kaiyi_x3_en_7b4c38d6` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/f0960bf2ca13d69e76fcccb5fe73e4be48f6db44a27642a672a0631c59b179ff.jpg)
 
 ![](images/d6d51286d5418bfbb60ffdb7726985f9eca21b728e619f202503df4a2d7b63fb.jpg)
 
 ### Product positioning Smart multi-screen SUV
-`kaiyi_x3_en_4d17ab4d` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/2216c554233878aa64a1224fc37d40acdf0564f34bfbef55cfd1230c72e1339d.jpg)
 
@@ -150,7 +145,6 @@ USB jack
 LCD screen
 
 ### Design Originated from Italy's fashion design
-`kaiyi_x3_en_c54c9416` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/1fbc128b616655b4aec44cfe89efcc28241f1aa0286d256e856e9bf1a5948b41.jpg)
 
@@ -165,7 +159,6 @@ Mainly worked for the following companies and developed concept and production p
 FA C E L V E G A ( H K ) ( e x t e r i o r d e s i g n ) F I A T U n o 2 0 1 6 ( e x t e r i o r d e s i g n ) F I A T A r g o 2 0 1 7 ( e x t e r i o r d e s i g n ) P E U G E O T E s c a p a d e ( e x t e r i o r d e s i g n )
 
 ### B a s i c p a r a m e t e r s
-`kaiyi_x3_en_386862a3` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 L e n g t h \* wi d t h \* h e i g h t : 4 4 0 0 \* 1 8 3 1 \* 1 6 5 3 m m
 C u r b we i g h t （KG） : 1 3 3 6 M T / 1 3 6 6 C VT
@@ -178,7 +171,6 @@ M i n i m u m g r o u n d
 1653mm
 
 ### Wingspan Front G r i l l e
-`kaiyi_x3_en_a080c67f` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/c8d04eef936285cfe58e0891e993f26e53dd7a61d68500e282063957e411ac6c.jpg)
 
@@ -187,7 +179,6 @@ M i n i m u m g r o u n d
 Wingspan f r o n t i n t a k e g r i l l e Express youthful ideals, strong, athletic and without blemish.
 
 ### Sports front bumper + Sculpture surface
-`kaiyi_x3_en_224bf4cf` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 S i l v e r g u a r d a n d s p o r t s f r o n t
 b u m p e r m a k e t h e w h o l e v e h i c l e
@@ -198,7 +189,6 @@ T h e a r e a u n d e r t h e h e a d l a m p i s s t r o n g a n d p o w e r f 
 ![](images/be84657cca437ef87924ab5f6b89dd792373f463d7079f88546adecc4315d080.jpg)
 
 ### Subsection Waist line
-`kaiyi_x3_en_8ab0861d` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/b2c582be164166707d9a8a7d4ac293bb146579c734e4033a15493a0d472cca4d.jpg)
 
@@ -209,7 +199,6 @@ T h e w a i s t l i n e d e s i g n o f K a i y i X 3 i s s i m i l a r t o L a 
 ![](images/5ed316b8fec5e1258487dcc1d556358a1dd1529236ab7bae5c43c38335ce3c9e.jpg)
 
 ### 18 “Sport aluminum alloy wheels
-`kaiyi_x3_en_444852f9` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/1243b1ac97ebbd3d0ccea7d022775aef7f0908c710825086c2dd114886485240.jpg)
 
@@ -218,14 +207,12 @@ T h e k n i f e - e d g e h u b c a n  e f f e c t i v e l y c u t o f f t h e a
 G r e a t e r g r o u n d g r i p a n d s m a l l e r f l a t n e s s t o i m p r o v e v e h i c l e h a n d l i n g .
 
 ### LED pulling-through tail light
-`kaiyi_x3_en_9623edb4` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 T h e t a i l l i g h t a d o p t s t h r e e - d i m e n s i o n a l s c u l p t i n g d e s i g n  w i t h d i s t i n c t l i n e s ; T h e c o n t o u r o f t h e L E D l a m p b e l t i s p r o m i n e n t , f u l l o f s t e r e o s c o p i c f e e l i n g ; T h e t h r o u g h - r u n n i n g r u n n i n g l i g h t s s h o w a W s h a p e a s a w h o l e
 
 ![](images/a4e794d75ffcf486f5396849baec15e4d16ca32c9521aaa81aaccac0b289bc7d.jpg)
 
 ### LED High Position Stop Lamp
-`kaiyi_x3_en_224991e8` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/37cc0aa0d666cea492cde2cfa3aa5a1ee17dd74b28dbe32f7ba80bca0e4799ce.jpg)
 
@@ -233,7 +220,6 @@ W i d e m o d e l i n g , h i g h e r b r i g h t n e s s , l i g h t i n g s p 
 P o l l u t i o n - f r e e , l o n g l i f e ( t h e o r e t i c a l l i f e o f m o r e t h a n 5 0 , 0 0 0 h o u r s ) , m o r e e n e r g y s a v i n g a n d e n v i r o n m e n t a l p r o t e c t i o n
 
 ### Warped-tail design
-`kaiyi_x3_en_d843cfe5` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 T h e r e a r b u m p e r s h a p e i s a n g u l a r , w i t h a h i g h e r s e n s e o f p o w e r ;
 L o w e r p a r t o f t h e s i l v e r d e c o r a t i v e
@@ -243,14 +229,12 @@ e l e v a t i o n o f t h e t a i l , p r o m o t e t h e s e n s e o f m o v e 
 ![](images/8943e3ea972ad81855cf457bcfd0d9c421fccb3ad40d559bcfc07f1133680f85.jpg)
 
 ### Multiple color combinations
-`kaiyi_x3_en_13692bf2` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 These colors represent youth which are often full of hope for the future, they have young blood, the vitality, and "not afraid of the tiger title" the spirit, which are an entrepreneur should possess the following qualities
 
 ![](images/718714507111a633520e1c00619f381c6545837cf9dcc9f33662c7b43b323dda.jpg)
 
 ### Bosch ESP body stability system
-`kaiyi_x3_en_905ea361` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/f69892166ca575f73387e409ea7ed4fd91aabab978aa80de7c26be7efec7d30c.jpg)
 
@@ -259,7 +243,6 @@ The dynamic c o n tr o o f the ve h i cl e body i s more d e l i c a t e , which
 I t can e f f e c t i v e l y reduce ve h i c le s k i d ding, im p rove th e acceleration performance o f ve h i c les on low attached roads su ch a s i c e and snow roads, and i n c rease d ri vi ng s a f e t y.
 
 ### Integrated cage body
-`kaiyi_x3_en_a7b48172` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/3bd24935f072e189902378b2850377c1b8fce018fe1e725316038f8dc72aae1e.jpg)
 
@@ -270,7 +253,6 @@ W h e n t h e c o l l i s i o n o c c u r s , t h e i m p a c t f o r c e i s a 
 ![](images/50f395159910126d32ac90072299e3d9be26259f4ff87f73fc180bd84f7059e7.jpg)
 
 ### EPS Electric power steering system
-`kaiyi_x3_en_65148972` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/6aae973d34e5f07bc2bcedd40cd6686229908af51dc751bc13457a572cd11636.jpg)
 
@@ -281,14 +263,12 @@ e c o n o m y i s b e t t e r .
 ![](images/c6fea2d8d809d03df0259ed447de848e2dc19eea6ccaee3c2c53dc2950b86d1b.jpg)
 
 ### TPMS tire pressure monitoring
-`kaiyi_x3_en_e535769d` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/fb824b14e2a5eb02594484d4b43de9056bb7e43a8a66db8dd4eec2749ea089ff.jpg)
 
 D i r e c t t i r e p r e s s u r e m o n i t o r i n g , d r i v e r s a n d  p a s s e n g e r s c a n t i m e l y u n d e r s t a n d t h e t i r e c o n d i t i o n t h r o u g h t h e d a t a f e e d b a c k o f L C D i n s t r u m e n t o r c e n t r a l c o n t r o l l a r g e s c r e e n ; T h e d a t a i n c l u d e s t h e t i r e p r e s s u r e a n d t e m p e r a t u r e o f e a c h t i r e , s o t h a t t h e d r i v e r c a n t a k e t i m e l y m e a s u r e s t o e n s u r e t h e s a f e t y o f d r i v e r s  a n d p a s s e n g e r s i n c a s e o f a b n o r m a l t i r e .
 
 ### 4 Reverse Parking Sensors
-`kaiyi_x3_en_cb93ea68` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/17938cf73aa97ebc344787b698a72d7219ddba7a08b7fc683a2bb03d4d6300d2.jpg)
 
@@ -298,19 +278,16 @@ U l t r a h i g h s e n s i t i v i t y , t i m e l y v o i c e r e m i n d e r 
 P r o g r e s s i v e s o u n d e f f e c t , c h a n g i n g v o l u m e a n d f r e q u e n c y w i t h d i s t a n c e .
 
 ### High brightness：
-`kaiyi_x3_en_68610f46` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The brightness level of 1000cd m2 is the same as that of Mercedes Benz, which makes reading information clearer in the daytime.
 
 ### Multi-touch：
-`kaiyi_x3_en_c09dc7af` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Android 9.0 System, to reach the level of mobile phone contact, to achieve more touch action.
 
 ![](images/1720f25248d3a905790f7f4069815970b8cd03a6ae51d0897fc0634a969ab2d0.jpg)
 
 ### 7-inch full LCD instrumentation
-`kaiyi_x3_en_833639d6` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A b u n d a n t V e h i c l e i n f o r m a t i o n
 d i s p l a y
@@ -323,7 +300,6 @@ information.
 ![](images/a85e9d4c33726886260f91ad489991ffc27b5a711c0ba8848ab04cae53fd640b.jpg)
 
 ### Dynamic track HD visual reverse image
-`kaiyi_x3_en_2a59b6e6` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/c64ae9576bbca26ca0fdd90a8fb5d5722e94f7c6ab51191a0ea5e2b457c1df05.jpg)
 
@@ -332,14 +308,12 @@ Display the reversing track in real time and plan the reversing route intelligen
 Distance display and reminder function to ensure the safety of reversing.
 
 ### I-Cockpit
-`kaiyi_x3_en_5669feb6` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/619eae6424c75c2be869719134b2d6dceba84904a868ef004dee6278b0b1a9d2.jpg)
 
 K a i y i X 3 a d o p t s t h e e n v e l o p i n g c a b i n l a y o u t t o e n s u r e t h e c o n v e n i e n c e o f t h e o p e r a t i o n o f t h e d r i v e r s a n d p a s s e n g e r s i n s i d e t h e v e h i c l e . T h e o v e r a l l i n t e r i o r w i t h a l a r g e a r e a o f b l a c k t o s e t t h e t o n e , i n c r e a s e t h e s e n s e o f f a s h i o n ; T h e a d d i t i o n o f l e a t h e r w r a p , c h r o m e t r i m a n d s t i t c h i n g  a l s o e n h a n c e s t h e t e x t u r e .
 
 ### Flexible interior space
-`kaiyi_x3_en_19005515` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/47e8c5283af84c0078baa735c5f26dc4ec665ea1533aa169ea6e78b9664b3f8a.jpg)
 
@@ -354,7 +328,6 @@ t h e b a c k s e a t c a n b e f o l d e d w i t h o n e k e y ;
 6 : 4 T h e s p l i t b o d y i s p u t d o w n , a n d t h e s p a c e i s e f f e c t i v e l y e x t e n d e d
 
 ### K e y l e s s e n t r y
-`kaiyi_x3_en_2428da5a` | x3 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/1e0dd2414c38c1cfe4ae4ee3d373e01905bf0bb566f9dc72d06128e4b1543ff0.jpg)
 
@@ -363,7 +336,6 @@ Close to the vehicle, the door automatically unlocks without pressing the key,
 After getting off the car, it will automatically lock away from the vehicle for a certain distance.
 
 ### Start/ stop buttons
-`kaiyi_x3_en_7a4d3ec5` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/724bb6e1fe0e65aeba3e00d859fdd34f98e60b2192c08e9782b4df6decee5013.jpg)
 
@@ -371,7 +343,6 @@ Just click to start the vehicle;
 Save the steps to find the key, more convenient and fast.
 
 ### Electric adjustment outside rearview mirror
-`kaiyi_x3_en_20abb32a` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 O p e n a n d c l o s e t h e r e a r v i e w m i r r o r w i t h o n e b u t t o n , w h i c h m a k e s t h e n a r r o w s p a c e m o r e c o n v e n i e n t a n d s a f e r ;
 
@@ -382,7 +353,6 @@ I n t e g r a t e d e x t e r i o r r e a r v i e w m i r r o r t u r n s i g n 
 KAIYI ΛUTO
 
 ### Match steering wheel of a luxury vehicle
-`kaiyi_x3_en_4c54eea3` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 S i m p l e a n d f a s h i o n a b l e , m o r e
 r e c o g n i z a b l e ;
@@ -397,7 +367,6 @@ d i s t r i b u t i o n a n d c o n v e n i e n t u s e .
 ![](images/472cdedbc8873fe9dadbef37a7449347f185fdf8d20021e641b0f451cdddb35e.jpg)
 
 ### Air outlet of rear air conditioner + Dual USB socket
-`kaiyi_x3_en_331799ef` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/4a51ff0a375e8ddcf14cce5f4d2abe8773c8e9eb4176916b1dfefbbb401c1e93.jpg)
 
@@ -417,38 +386,32 @@ S u p p o r t f a s t c h a r g i n g o f m o b i l e
 p h o n e
 
 ### Cruise control function
-`kaiyi_x3_en_27c1202d` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/d343f6cc9461609d1bb50eb9f19cb5d234ed4d0f429353d121092acb7dcacbf0.jpg)
 
 S i m p l e o p e r a t i o n a n d t i m e l y r e s p o n s e ; K e e p t h e v e h i c l e r u n n i n g a t a c o n s t a n t s p e e d ( s t a r t w h e n t h e s p e e d i s h i g h e r t h a n 4 0 k m / h ) .
 
 ### AUTOHOLD+Electronic handbrake
-`kaiyi_x3_en_f3e4038e` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 T h e a p p e a r a n c e o f E P B e l e c t r o n i c h a n d b r a k e , e s p e c i a l l y t h e a p p e a r a n c e o f a u t o h o l d , s a v e s t h e v e h i c l e c e n t r a l c o n t r o l s p a c e a n d g r e a t l y i m p r o v e s t h e p r a c t i c a b i l i t y ; I t c a n r e d u c e t h e b u r d e n o f r i g h t f o o t a n d r i g h t h a n d i n t r a f f i c j a m , a n d p u t a n e n d t o t h e i n c o n v e n i e n c e c a u s e d b y i n s u f f i c i e n t s t r e n g t h t o p u l l t h e h a n d b r a k e ( e s p e c i a l l y s o m e P e t i t e L a d i e s ) ; T h e m o s t i m p o r t a n t p o i n t i s t h a t t h e t r a d i t i o n a l h a n d b r a k e c a n o n l y l o c k t h e r e a r w h e e l s . N o w ,  i f y o u n e e d e m e r g e n c y b r a k i n g i n t h e p r o c e s s o f d r i v i n g , p u l l u p t h e h a n d b r a k e b u t t o n f o r m o r e t h a n o n e s e c o n d , a n d t h e e l e c t r o n i c h a n d b r a k e w i l l c h o o s e t h e a p p r o p r i a t e b r a k i n g f o r c e a c c o r d i n g t o t h e s p e e d t o e n s u r e t h e d r i v i n g s a f e t y , s o a s t o f u r t h e r i m p r o v e t h e a c t i v e s a f e t y p e r f o r m a n c e
 
 ![](images/c440dc7db51adde76bb7a01d91671b7e3076eeca2fb46d2053c19d266ae1f0ed.jpg)
 
 ### Multi road driving mode
-`kaiyi_x3_en_c11c961c` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Tw o d r i v i n g m o d e s , s p o r t s a n d e n e r g y s a v i n g c a n b e s w i t c h e d a t a n y t i m e .
 
 ### Normal mode
-`kaiyi_x3_en_ba9d29fb` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 S t a b l e o u t p u t , m e e t t h e n e e d s o f d a i l y d r i v i n g , i m p r o v e f u e l e c o n o m y .
 
 ![](images/9b736b55b4d7a4a710923489ead20e68dea64dc8f899c92ddc92477c3c93c44d.jpg)
 
 ### Sport mode:
-`kaiyi_x3_en_2f74d14f` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 M o d e i n s t a n t a c c e l e r a t i o n , t h r o t t l e r e s p o n s e f a s t e r , i m p r o v e d r i v i n g p l e a s u r e
 
 ### Shift reminder
-`kaiyi_x3_en_b516afe2` | x3 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/fdfbaf6fa29c93d3e22c29db8c4d75d83a72e85f7bcff4f4ccf550e905701442.jpg)
 
@@ -457,4 +420,3 @@ A c c o r d i n g t o t h e c u r r e n t w o r k i n g c o n d i t i o n , t h 
 W h e n t h e u p a r r o w i s d i s p l a y e d o n t h e i n d i c a t o r l i g h t o f t h e i n s t r u m e n t , t h e u p s h i f t o p e r a t i o n w i l l b e p r o m p t e d ; W h e n t h e a r r o w d i r e c t i o n i s " d o w n " ,  i t p r o m p t s t o d o w n s h i f t .
 
 ![](images/4f5b38ceb3c5ce128515ab674b95d4bffa87db574f7104d7dfd4764c2978dcbb.jpg)
-

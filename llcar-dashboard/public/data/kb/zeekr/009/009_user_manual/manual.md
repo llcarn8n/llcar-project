@@ -1,3 +1,10 @@
+---
+brand: zeekr
+model: 009
+generation: 009_user_manual
+source: kb
+---
+
 # Family car three guarantees certificate
 
 ![](images/5d9999b90a0aa96091fa16f158a6ad7a69eca5909b63d892afa37e3dbc31d8b3.webp)
@@ -65,8 +72,6 @@ ZEEKR .10
 #
 
 … 39
-
-# foreword
 
 # Important information related to this manual
 
@@ -168,8 +173,6 @@ MIX
 Paper from   
 responsible sources   
 FSC° C074602
-
-# travel safely
 
 # security system
 
@@ -353,8 +356,6 @@ travel safely
 07 When the vehicle suddenly falls into a deep pit or ditch.
 
 08 When the vehicle rolls over.
-
-# @Explanation!
 
 # Front side airbags
 
@@ -642,8 +643,6 @@ Emergency Rescue Information
 start and drive
 
 # Charging Safety Warning
-
-# !
 
 Please check the charging cable before charging, and it is forbidden to use the charging cable with damaged skin or shell or other hidden dangers of electric leakage.
 
@@ -947,13 +946,11 @@ Tire specifications
 
 In case of emergency
 ### Family car three guarantees certificate
-`zeekr_zeekr_009_user_manual_eng_en_6c70b177` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/5d9999b90a0aa96091fa16f158a6ad7a69eca5909b63d892afa37e3dbc31d8b3.webp)
 
 
 ### welcome
-`zeekr_zeekr_009_user_manual_eng_en_57a2d031` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:2 | doc_type:owners_manual
 
 Thank you for choosing ZEEKR vehicles with excellent safety, comfort, power and economy.
 
@@ -1019,19 +1016,16 @@ ZEEKR .10
 
 
 ### risk of vehicle damage
-`zeekr_zeekr_009_user_manual_eng_en_86c8bb5a` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:3 | doc_type:owners_manual
 
 The attention mark reminds you: Failure to follow the precautions may result in vehicle damage.
 
 
 ### lustrate!
-`zeekr_zeekr_009_user_manual_eng_en_d3413ee3` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:4 | doc_type:owners_manual
 
 help information Here you can find some helpful hints or useful details.
 
 
 ### Icons and Illustrations
-`zeekr_zeekr_009_user_manual_eng_en_f156f5a3` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:5 | doc_type:owners_manual
 
 The illustrations in this manual are general pictures and are intended to aid in your understanding by showing some features or functions of the vehicle to aid in the explanation. The illustrations in this manual are for reference only, please refer to the actual vehicle for specific conditions.
 
@@ -1047,13 +1041,11 @@ If an illustration contains only one action, this icon indicates movement/action
 
 
 ### display text
-`zeekr_zeekr_009_user_manual_eng_en_70b06399` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:infotainment | p:6 | doc_type:owners_manual
 
 The text or message displayed on the vehicle display is formatted differently from normal text (eg: cancel, system reset, route editing, etc.), procedures and instructions are displayed in multiple steps (eg: vehicle function settings – driving – handling & vision ) .
 
 
 ### Vehicle configuration and options
-`zeekr_zeekr_009_user_manual_eng_en_8551a62e` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:7 | doc_type:owners_manual
 
 This brochure also provides information on the various modules, standard equipment and optional features in the model series. You may find that some of the information is not applicable to your model, because the specific configuration will be different according to the laws and regulations of different markets and different countries or regions. For details, please refer to the actual configuration of the vehicle.
 
@@ -1061,7 +1053,6 @@ You can identify equipment on your vehicle by the available controls, switches, 
 
 
 ### Warn users
-`zeekr_zeekr_009_user_manual_eng_en_07444f4b` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:8 | doc_type:owners_manual
 
 For your safety, please be sure to abide by local laws and regulations when driving a vehicle, and follow the following precautions:
 
@@ -1081,7 +1072,6 @@ ZEEKR partner Customer Service Hotline: 4000-036–036
 
 
 ### Event Data Recording System
-`zeekr_zeekr_009_user_manual_eng_en_08d4efe5` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:sensors | p:9 | doc_type:owners_manual
 
 ZEEKR vehicles are equipped with an event data recording system (EDR), which is used to record information related to vehicle collisions, such as the vehicle' s driving speed (the signal is obtained from the chassis controller and the sensor, indicating the vehicle' s speed at the time of the incident), and Active state (indicating whether the vehicle is braking at the time of the event). For the meaning and use of the specific record data items, see the 17 data elements and descriptions of the A-level data elements in Table 2 in the GB39732-2020 "Automobile Event Data Recording System" standard.
 
@@ -1095,7 +1085,6 @@ agencies that have access to the event data recording system). Reading the data 
 
 
 ### Electronic User Manual
-`zeekr_zeekr_009_user_manual_eng_en_d8ceaf91` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:10 | doc_type:owners_manual
 
 The on-board paper user manual contains some selected information during your use, and you can view the electronic user manual for complete information. In addition, the electronic user manual also provides you with more functions, such as video, search, content feedback, etc. You can view the electronic user manual in any of the following ways:
 
@@ -1105,7 +1094,6 @@ The on-board paper user manual contains some selected information during your us
 
 
 ### ①Explanation!
-`zeekr_zeekr_009_user_manual_eng_en_41f484eb` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:11 | doc_type:owners_manual
 
 As the vehicle is continuously updated, the electronic user manual will also be updated accordingly, so the content of the electronic user manual may be different from the paper user manual attached to the vehicle.
 
@@ -1113,7 +1101,6 @@ ZEEKR reserves the right to change the user manual at any time.
 
 
 ### Use certified paper
-`zeekr_zeekr_009_user_manual_eng_en_12f206a6` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:12 | doc_type:owners_manual
 
 ZEEKR is extremely concerned about environmental protection issues, and the paper used in the paper version of the user manual is from reliable sources. This publication is certified by FSC and is in line with the beautiful vision of "leaving greenery for future generations".
 
@@ -1126,7 +1113,6 @@ FSC° C074602
 
 
 ### security system
-`zeekr_zeekr_009_user_manual_eng_en_e7f1fbde` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:13 | doc_type:owners_manual
 
 The safety system consists of multiple safety devices that work
 
@@ -1136,13 +1122,11 @@ together to protect you and your passengers in the event of an accident. Dependi
 
 
 ### airbag
-`zeekr_zeekr_009_user_manual_eng_en_4129edb0` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:14 | doc_type:owners_manual
 
 If one or more airbags are triggered or if the seat belts are triggered, the doors will automatically unlock, facilitating the escape of occupants and rescuers. At the same time, the vehicle cuts off the high-voltage system to avoid high-voltage leakage. If you need to restore the high-voltage system, it is recommended to contact the ZEEKR service (experience) center for maintenance.
 
 
 ### !
-`zeekr_zeekr_009_user_manual_eng_en_2aebfef3` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:body | p:15 | doc_type:owners_manual
 
 The safety system cannot avoid all possible injuries in traffic accidents, nor can it detect and eliminate all risks during driving. Please drive the vehicle carefully.
 
@@ -1154,13 +1138,11 @@ After any collision with the vehicle, you should promptly contact ZEEKR service 
 
 
 ### Notice!
-`zeekr_zeekr_009_user_manual_eng_en_42a9669b` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:body | p:16 | doc_type:owners_manual
 
 Do not drive or tow the vehicle after the doors are automatically unlocked. The vehicle must be transported to the ZEEKR service (experience) center on a flatbed trailer for inspection and repair.
 
 
 ### seat belt
-`zeekr_zeekr_009_user_manual_eng_en_8adee9bf` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:17 | doc_type:owners_manual
 
 The role of seat belts
 
@@ -1168,7 +1150,6 @@ In the event of a collision, wearing a seat belt correctly can reduce personal i
 
 
 ### warn!
-`zeekr_zeekr_009_user_manual_eng_en_4b8d018d` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:18 | doc_type:owners_manual
 
 Before each trip, each occupant must fasten the seat belt correctly, see Using Seat Belts (page 16).   
 Each seat belt can only be used by one person, do not share a seat belt with multiple people (including children).   
@@ -1177,7 +1158,6 @@ After any vehicle collision, you should promptly contact the ZEEKR service (expe
 
 
 ### Seat belt not fastened reminder
-`zeekr_zeekr_009_user_manual_eng_en_7cd2e213` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:19 | doc_type:owners_manual
 
 The seat belt not fastening reminder device is used to remind drivers and passengers to fasten their seat belts before driving. When the vehicle is started and the driver and/or passenger are not fastening their seat belts, the instrument display will illuminate the seat belt not fastened warning light icon.
 
@@ -1185,13 +1165,11 @@ When the vehicle is running, when the driver and/or passengers are not wearing s
 
 
 ### warn!
-`zeekr_zeekr_009_user_manual_eng_en_db24b422` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:20 | doc_type:owners_manual
 
 When the driver and passengers have fastened their seat belts, but the seat belt not fastened warning light icon is still on, please park the vehicle in a safe place immediately and contact the ZEEKR service (experience) center.
 
 
 ### Notice!
-`zeekr_zeekr_009_user_manual_eng_en_498a1a8d` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:21 | doc_type:owners_manual
 
 Do not place heavy objects on the passenger seat, the system may mistakenly think that the passenger is not wearing a seat belt.
 
@@ -1205,7 +1183,6 @@ retraction/tensioning of the seat belt.
 
 
 ### seat belt cleaning
-`zeekr_zeekr_009_user_manual_eng_en_5079f84e` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:22 | doc_type:owners_manual
 
 Please use special seat belt cleaner and sponge to clean the seat belt. Please put the seat belt in a cool place to dry thoroughly before use.
 
@@ -1215,13 +1192,11 @@ Never use bleach, dyes or chemical solvents to clean seat belts. These materials
 
 
 ### Fasten seat belts
-`zeekr_zeekr_009_user_manual_eng_en_62942108` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:23 | doc_type:owners_manual
 
 1'Adjust the seat to a suitable position. 2 Slowly pull out the seat belt and insert the tongue into the buckle until you hear a "click".
 
 
 ### Retractor with preload
-`zeekr_zeekr_009_user_manual_eng_en_0afa38b6` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:24 | doc_type:owners_manual
 
 In ertain types of vehicle crashes (depending on the angle and severity of the crash), the retractor tightens the seat belts to help restrain the occupants of the vehicle.
 
@@ -1229,7 +1204,6 @@ In ertain types of vehicle crashes (depending on the angle and severity of the c
 
 
 ### warn!
-`zeekr_zeekr_009_user_manual_eng_en_7c7b1b09` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:25 | doc_type:owners_manual
 
 After a crash, the retractor becomes hot and may burn your skin.
 
@@ -1237,7 +1211,6 @@ Prolonged exposure to fumes and dust from detonating retractors may cause skin o
 
 
 ### illustrate!
-`zeekr_zeekr_009_user_manual_eng_en_dd735aa7` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:26 | doc_type:owners_manual
 
 After the detonation of the retractor assembly with pretightening function, a small amount of dust (smoke) will be released, and there may be a loud noise at the same time . This is normal and will not cause a fire.
 
@@ -1271,7 +1244,6 @@ When releasing the seat belt, hold the seat belt before pressing the unlock butt
 
 
 ### safe pregnancy
-`zeekr_zeekr_009_user_manual_eng_en_4ca0483c` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:27 | doc_type:owners_manual
 
 It is very important for pregnant women to fasten their seat belts correctly when riding in a vehicle.
 
@@ -1289,7 +1261,6 @@ Fit the lap belt snugly under your belly bulge.
 
 
 ### airbag
-`zeekr_zeekr_009_user_manual_eng_en_d911ebb7` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:28 | doc_type:owners_manual
 
 The airbag is a passive auxiliary protection device, which is used in conjunction with the seat belt to provide additional protection for the occupant' s head and chest.
 
@@ -1299,13 +1270,11 @@ The airbag control module monitors the operating conditions of each device, and 
 
 
 ### Airbag Precautions
-`zeekr_zeekr_009_user_manual_eng_en_72043815` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:29 | doc_type:owners_manual
 
 When using the vehicle, please always observe the following precautions.
 
 
 ### ↑ Warning!
-`zeekr_zeekr_009_user_manual_eng_en_b76ddd8a` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:30 | doc_type:owners_manual
 
 Do not install or place any accessories (cup holders, box holders, stickers, etc.) in the location where the airbag is installed.   
 It is strictly forbidden to modify, disassemble, or install airbags and related components without authorization.   
@@ -1317,7 +1286,6 @@ Prolonged exposure to dust (smoke) from air bag deployment may cause skin or eye
 
 
 ### Airbag Deployment Conditions
-`zeekr_zeekr_009_user_manual_eng_en_81c233ca` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:31 | doc_type:owners_manual
 
 Airbags and other safety devices may deploy during certain collisions and impacts, or during vehicle deceleration following a collision, depending on a number of factors, including the magnitude, angle, speed, and object of the impact.
 
@@ -1347,7 +1315,6 @@ travel safely
 
 
 ### Front side airbags
-`zeekr_zeekr_009_user_manual_eng_en_b3afabb0` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
 
 The collision points are concentrated in one place (such as: trees or protective poles), and the collision force is not strong enough, the airbag may not be triggered.
 
@@ -1355,7 +1322,6 @@ The degree of damage to the body structure is not the only factor that determine
 
 
 ### front airbag
-`zeekr_zeekr_009_user_manual_eng_en_d3ba2cf9` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:33 | doc_type:owners_manual
 
 ATC Ke
 
@@ -1371,7 +1337,6 @@ If the front airbags are triggered, the deployed airbags reduce occupant head an
 
 
 ### warn!
-`zeekr_zeekr_009_user_manual_eng_en_510a7c24` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:34 | doc_type:owners_manual
 
 Do not place any objects in the area between the outside of the seat and the door trim.
 
@@ -1389,7 +1354,6 @@ Do not install anything on the vehicle roof, door pillars or side trim.
 
 
 ### !
-`zeekr_zeekr_009_user_manual_eng_en_96f9fca8` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:body | p:35 | doc_type:owners_manual
 
 Do not hang or tie heavy objects to the handles on the roof. Coat hooks should only be used to hang light coats and jackets (not hard items such as umbrellas) .
 
@@ -1400,7 +1364,6 @@ Rear Fog Light Indicator: This light comes on when the rear fog lights are turne
 
 
 ### Indicator and Warning Lights
-`zeekr_zeekr_009_user_manual_eng_en_6a07df56` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:lighting | p:36 | doc_type:owners_manual
 
 light icon ←
 
@@ -1474,7 +1437,6 @@ A
 
 
 ### warning light icon
-`zeekr_zeekr_009_user_manual_eng_en_08eb6cf2` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:37 | doc_type:owners_manual
 
 WARNING LIGHT ICON INDICATIONS: If the warning light remains on, it indicates that certain important functions have been deactivated or that there is a serious fault with the vehicle which could pose a safety risk. Before driving, make sure the fault is cleared. If you do not know the specific fault, it is recommended to contact the ZEEKR service (experience) center for inspection.
 
@@ -1482,13 +1444,11 @@ Warning and fault messages are shown on the instrument display. Certain messages
 
 
 ### Notice!
-`zeekr_zeekr_009_user_manual_eng_en_15c32963` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:infotainment | p:38 | doc_type:owners_manual
 
 During normal driving, if the warning light comes on, please stop the vehicle in a safe place immediately and operate according to the prompt information on the instrument display.
 
 
 ### ①Explanation!
-`zeekr_zeekr_009_user_manual_eng_en_af8bc514` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:39 | doc_type:owners_manual
 
 After the vehicle is started, the vehicle will conduct a self-check period of time.
 
@@ -1598,25 +1558,21 @@ When Vehicle Stability Control is switched off, less stability control is applie
 
 
 ### illustrate!
-`zeekr_zeekr_009_user_manual_eng_en_fa2be6ab` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:40 | doc_type:owners_manual
 
 If the vehicle gets bogged down in snow, sand, or other conditions, turning off stability control can help the vehicle get out of trouble.
 
 
 ### ABS
-`zeekr_zeekr_009_user_manual_eng_en_e7ea01c7` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:brakes | p:41 | doc_type:owners_manual
 
 The vehicle is equipped with an anti-lock braking system that prevents the wheels from locking up when you apply maximum braking force. Improves steering control of the vehicle in emergency braking situations in most road conditions.
 
 
 ### Notice!
-`zeekr_zeekr_009_user_manual_eng_en_92018f0a` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:42 | doc_type:owners_manual
 
 On rough, gravel, or water/snow-covered roads, braking distances will be longer than on normal roads.
 
 
 ### illustrate!
-`zeekr_zeekr_009_user_manual_eng_en_9d47fe81` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:engine | p:43 | doc_type:owners_manual
 
 During braking, you may feel a continuous "clack" sound from the engine room and vibrations from the brake pedal at the same time. This is a normal phenomenon caused by the operation of the anti-lock brake system, and it is not a malfunction.
 
@@ -1638,7 +1594,6 @@ Labels are attached to high voltage parts. Never touch, disassemble or replace t
 
 
 ### !
-`zeekr_zeekr_009_user_manual_eng_en_62dda0be` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:ev | p:44 | doc_type:owners_manual
 
 During the use of the vehicle, the high-voltage system may be in a state of high voltage and high temperature. Please follow the label instructions to avoid high voltage and high temperature damage.
 
@@ -1658,7 +1613,6 @@ start and drive
 
 
 ### !
-`zeekr_zeekr_009_user_manual_eng_en_de96f199` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:ev | p:45 | doc_type:owners_manual
 
 Please check the charging cable before charging, and it is forbidden to use the charging cable with damaged skin or shell or other hidden dangers of electric leakage.
 
@@ -1696,7 +1650,6 @@ start and drive
 
 
 ### !
-`zeekr_zeekr_009_user_manual_eng_en_e9cc9aca` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:ev | p:46 | doc_type:owners_manual
 
 When inserting the charging cable, make sure that the locking device can return normally. When the locking device of the charging gun is working abnormally, please do not insert the charging gun into the charging socket of the vehicle.
 
@@ -1704,7 +1657,6 @@ When inserting/pulling out the charging cable, plug in and out at a constant spe
 
 
 ### illustrate!
-`zeekr_zeekr_009_user_manual_eng_en_dbe04972` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:ev | p:47 | doc_type:owners_manual
 
 When charging for a long time, please lock the vehicle.
 
@@ -1714,7 +1666,6 @@ Emergency Rescue in an Emergency
 
 
 ### Manual SOS call
-`zeekr_zeekr_009_user_manual_eng_en_32f9b895` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:lighting | p:48 | doc_type:owners_manual
 
 Press and hold the S0S touch button for 2-8 seconds and let go to manually activate the SOS function. Note that if the pressing time is lower than 2 seconds or higher than 8 seconds, SOS will not be dialed out.
 
@@ -1724,7 +1675,6 @@ After the SOS function is activated, passengers can directly seek emergency assi
 
 
 ### Automatic SOS call
-`zeekr_zeekr_009_user_manual_eng_en_f632b9c5` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:interior | p:49 | doc_type:owners_manual
 
 When any airbag or emergency crash sensor of the vehicle is triggered, the SOs function is automatically activated and sends a signal to the ZEEKR partner. ZEEKR partners will provide appropriate assistance (call ambulance, police, etc.) depending on the situation.
 
@@ -1732,7 +1682,6 @@ When there is no network or the vehicle cannot supply power, the emergency rescu
 
 
 ### Emergency unlocking and locking of doors
-`zeekr_zeekr_009_user_manual_eng_en_43ef31d4` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:body | p:50 | doc_type:owners_manual
 
 Emergency unlocking outside the car If you cannot unlock the door normally due to low-voltage battery loss, you can consult the ZEEKR service (experience) center for help.
 
@@ -1762,7 +1711,6 @@ emergency lock door When the doors cannot be locked normally, you can lock the d
 
 
 ### Front door emergency locking device
-`zeekr_zeekr_009_user_manual_eng_en_fd6e8be9` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:body | p:51 | doc_type:owners_manual
 
 1 Turn the front door emergency lock switch in the direction of the indicated arrow, close the front door, and lock the front door.
 
@@ -1772,7 +1720,6 @@ foreword
 
 
 ### Sliding door emergency locking device
-`zeekr_zeekr_009_user_manual_eng_en_5ded9e21` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:body | p:52 | doc_type:owners_manual
 
 1 Turn off the sliding door lock switch, close the sliding door and lock the sliding door
 
@@ -1780,7 +1727,6 @@ foreword
 
 
 ### Emergency unlock charging gun
-`zeekr_zeekr_009_user_manual_eng_en_e56fe895` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:lighting | p:53 | doc_type:owners_manual
 
 When the charging gun in the front charging port cannot be pulled out due to unexpected situations (such as vehicle power failure, electronic lock mechanical failure) when the vehicle is charging, you can manually unlock the charging gun through the emergency unlocking cable. The emergency release cable is located at the left front wheel cover, which can be seen by opening the emergency release cable cover on the wheel cover.
 
@@ -1790,7 +1736,6 @@ When the charging gun in the front charging port cannot be pulled out due to une
 
 
 ### Emergency unlock charging port cover
-`zeekr_zeekr_009_user_manual_eng_en_17d912c1` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:ev | p:54 | doc_type:owners_manual
 
 When the vehicle is ready to charge, emergencies occur (such as the vehicle' s power failure, electronic lock mechanical failure of the electric port cover.
 
@@ -1826,7 +1771,6 @@ Emergency unlock fast charging cover
 
 
 ### towing vehicle
-`zeekr_zeekr_009_user_manual_eng_en_d825e55b` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:55 | doc_type:owners_manual
 
 traction method
 
@@ -1834,7 +1778,6 @@ traction method
 
 
 ### 0
-`zeekr_zeekr_009_user_manual_eng_en_256a24fa` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:chassis | p:56 | doc_type:owners_manual
 
 01 Place the vehicle on a flatbed trailer – the recommended way.
 
@@ -1857,7 +1800,6 @@ warning light lights up and goes out after a few seconds) once.
 
 
 ### warn!
-`zeekr_zeekr_009_user_manual_eng_en_b2893be2` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:brakes | p:57 | doc_type:owners_manual
 
 Do not allow any person or object to be behind the trailer while the vehicle is being towed to it.   
 After the vehicle is towed to a flatbed trailer, to ensure the safety of parking the vehicle, please exit the trailer mode and activate the Electronic Parking Brake (EPB).   
@@ -1865,13 +1807,11 @@ Passengers are prohibited from remaining in the vehicle while the vehicle is bei
 
 
 ### Notice!
-`zeekr_zeekr_009_user_manual_eng_en_43fc498a` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:chassis | p:58 | doc_type:owners_manual
 
 The vehicle must be in trailer mode before it can be towed to a flatbed trailer. ZEEKR recommends using a flatbed trailer to tow the vehicle. When towing, all four wheels must be off the ground. During transport, make sure that the wheels cannot turn.
 
 
 ### ①Explanation!
-`zeekr_zeekr_009_user_manual_eng_en_49eca403` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:59 | doc_type:owners_manual
 
 Trailer mode is only used for towing the vehicle to a flatbed
 
@@ -1881,7 +1821,6 @@ trailer.
 
 
 ### exit trailer mode
-`zeekr_zeekr_009_user_manual_eng_en_26d97c8c` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:60 | doc_type:owners_manual
 
 You can exit trailer mode in any of the following ways: 1 Shift the gear into Park (P) and lock the vehicle from the outside. 2 Shift the gear to forward gear (D) or reverse gear (R) to enter a new driving journey.
 
@@ -1891,7 +1830,6 @@ The vehicle is equipped with a towing ring, which can assist the flatbed trailer
 
 
 ### Safety vest and warning triangle
-`zeekr_zeekr_009_user_manual_eng_en_dd54e711` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:61 | doc_type:owners_manual
 
 In the event of an emergency or breakdown that leaves the vehicle stranded in trafic, you should place a warning triangle at a suitable location to warn other road users, and wear a safety vest to ensure personal safety.
 
@@ -1903,13 +1841,11 @@ The safety vest is placed in the glove box. Wearing the safety vest can increase
 
 
 ### Triangle warning sign
-`zeekr_zeekr_009_user_manual_eng_en_a79a61eb` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 The vehicle is equipped with a warning triangle. Take out the warning triangle and unfold it and place it in an appropriate position behind your car to warn other road users. For details, please refer to the electronic version of the user manual.
 
 
 ### vehicle identification
-`zeekr_zeekr_009_user_manual_eng_en_8aecda21` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:63 | doc_type:owners_manual
 
 nameplate
 
@@ -1925,7 +1861,6 @@ V/IN on front passenger seat beam.
 
 
 ### Notice!
-`zeekr_zeekr_009_user_manual_eng_en_41eaf451` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:64 | doc_type:owners_manual
 
 Do not scratch, remove, cover, hide, alter, or paint the Vehicle Identification Number (VIN). Please keep labels visible and legible.
 
@@ -1949,7 +1884,6 @@ installation of the automotive electronic signs and the effective reading of dat
 
 
 ### 50 tire pressure label
-`zeekr_zeekr_009_user_manual_eng_en_d6245988` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:chassis | p:65 | doc_type:owners_manual
 
 Check your tire pressure often, especially before starting a long drive. You can find the recommended tire pressure specifications in the technical data section of the tire pressure label (located on the driver' s side B-pillar).
 
@@ -1972,13 +1906,11 @@ Information rearview mirrors.
 
 
 ### Notice!
-`zeekr_zeekr_009_user_manual_eng_en_29339fca` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:chassis | p:66 | doc_type:owners_manual
 
 After inflating the tires, be sure to reinstall the valve dust caps to prevent dust, gravel, etc. from damaging the valves. Use only plastic valve shields, as metal valve shields are difficult to remove once rusted.
 
 
 ### vehicle parameters
-`zeekr_zeekr_009_user_manual_eng_en_bc4b572e` | zeekr_009_user_manual_eng | pdf_manual | tier:2 | lang:en | layer:general | p:67 | doc_type:owners_manual
 
 Vehicle Dimensional Parameters (Curb Weight)
 

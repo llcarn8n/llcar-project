@@ -1,8 +1,12 @@
-# Manual: forthing/u_tour (751 chunks)
-<!-- doc_type:owners_manual tier:2 lang:en source:forthing_u_tour_en.pdf -->
+---
+brand: forthing
+model: u_tour
+generation: gen_2024
+source: kb
+---
+
 
 ### Untitled
-`forthing_u_tour_en_7cada013` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 Foreword
 Dear users,
@@ -28,7 +32,6 @@ the time of publication. However, Dongfeng Liuzhou Motor Co., Ltd. reserves the 
 change the technical specification and design at any time without advance notice.
 
 ### Technical update instructions: IoV and electronic technology products are updated
-`forthing_u_tour_en_873886e0` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:2 | doc_type:owners_manual
 
 rapidly. Please update in time to guarantee user experience.
 If you want to know more about Forthing U-tour, please visit our website:
@@ -37,7 +40,6 @@ Wish you a safe journey!
 Dongfeng Liuzhou Motor Co., Ltd.
 
 ### January 2024
-`forthing_u_tour_en_78dcfde6` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:2 | doc_type:owners_manual
 
 All rights reserved. The Manual may not be copied or reproduced without prior written
 permission of Dongfeng Liuzhou Motor Co., Ltd.
@@ -46,14 +48,12 @@ shall prevail.
 Foreword
 
 ### Configuration Description
-`forthing_u_tour_en_933d6ca8` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:3 | doc_type:owners_manual
 
 * Asterisk
 Asterisk “*” following the title or name indicates that described device or function is only
 equipped in certain models, and may not necessarily be equipped in your vehicle.
 
 ### Safety description
-`forthing_u_tour_en_3e9eb40d` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:3 | doc_type:owners_manual
 
 Safety label plates — Attached to the vehicle.
 Safety prompt information — Identified by hazard warning symbols and words such as
@@ -66,7 +66,6 @@ Note
 Used to indicate the danger that may cause minor personal injury or vehicle injury.
 
 ### Vehicle Overview Index
-`forthing_u_tour_en_ba80fe06` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:7 | doc_type:owners_manual
 
 Exterior
 1. Trunk lid
@@ -84,7 +83,6 @@ Tire
 14.
 
 ### Interior roof
-`forthing_u_tour_en_e3c6d8e0` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:9 | doc_type:owners_manual
 
 1. Left sun visor
 4. Interior rearview mirror
@@ -105,7 +103,6 @@ Dashboard
 10. Glove box
 
 ### Auxiliary dashboard
-`forthing_u_tour_en_6a2afe1c` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:10 | doc_type:owners_manual
 
 1. Upper storage compartment of auxiliary
 dashboard
@@ -118,7 +115,6 @@ dashboard
 8. Automatic parking switch
 
 ### Precautions for using seat belt
-`forthing_u_tour_en_92106444` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:13 | doc_type:owners_manual
 
 Before driving the vehicle, be sure to
 read the content of this chapter, which is
@@ -136,7 +132,6 @@ accident.
 
 
 ### In case of emergency braking in an
-`forthing_u_tour_en_a12df0c4` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:13 | doc_type:owners_manual
 
 accident, the seat belt will restrain the
 driver and passengers on the seats to
@@ -155,7 +150,6 @@ Warning
 Be sure to wear the seat belt correctly.
 
 ### Do not place seat belt across the lower
-`forthing_u_tour_en_738dd750` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:13 | doc_type:owners_manual
 
 abdomen. Otherwise, the seat belt will
 strongly press the lower abdomen in case
@@ -172,7 +166,6 @@ efficacy and increase the risk of injury.
 
 
 ### Pregnant women should also like other
-`forthing_u_tour_en_06532301` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:13 | doc_type:owners_manual
 
 passengers, place the seat belt across the
 hip as low as possible, with the shoulder
@@ -195,7 +188,6 @@ not let the child sit on the front seat.
 
 
 ### Each passenger is only allowed to use
-`forthing_u_tour_en_cb0f890f` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:13 | doc_type:owners_manual
 
 one seat belt. Do not hold infants or
 children in your arms and then bypass
@@ -220,7 +212,6 @@ the shoulder.
 2.
 
 ### Adjust the position of the seat
-`forthing_u_tour_en_8e000a23` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:14 | doc_type:owners_manual
 
 backrest
 to
@@ -240,7 +231,6 @@ indicating that the seat belt is locked.
 2.
 
 ### Press the upper part of the seat
-`forthing_u_tour_en_6e649846` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:14 | doc_type:owners_manual
 
 belt shoulder belt height adjuster, and move
 it up and down to the desired position until a
@@ -254,7 +244,6 @@ to quickly protect the driver and passengers.
 Note
 
 ### There are two latches on the seat
-`forthing_u_tour_en_f4e8dbe2` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:15 | doc_type:owners_manual
 
 belt. First, insert the small latch ①into the
 small buckle on the left side of the seat, and
@@ -267,7 +256,6 @@ indicating that the seat belt is securely
 locked.
 
 ### Then insert the large latch of the
-`forthing_u_tour_en_76114f63` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:15 | doc_type:owners_manual
 
 middle seat belt or the latch of the rear-row
 side seat belt into the side of small buckle ①
@@ -275,7 +263,6 @@ to assist in unlocking the small buckle ①.
 3.
 
 ### The vehicle is equipped with a driver's
-`forthing_u_tour_en_1c1d8898` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:15 | doc_type:owners_manual
 
 seat belt reminder, and some models also
 have front-row passenger's and middle-row
@@ -292,7 +279,6 @@ alarm until the occupant fastens the seat
 belt.
 
 ### Each seat belt is equipped with a seat
-`forthing_u_tour_en_9278dd4c` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:15 | doc_type:owners_manual
 
 belt retractor. During normal driving, the
 retractor keeps the seat belt at a certain
@@ -300,7 +286,6 @@ tension, allowing the driver and passengers
 can still move freely on the seat.
 
 ### Safety and Protection
-`forthing_u_tour_en_5b645c2b` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:16 | doc_type:owners_manual
 
 In case of an emergency, the retractor will
 automatically tighten to restrain the driver
@@ -328,7 +313,6 @@ Forthing.
 Airbag
 
 ### When the degree of frontal or side
-`forthing_u_tour_en_c937eeea` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:16 | doc_type:owners_manual
 
 collision
 of
@@ -342,7 +326,6 @@ reduce the impact injury to the head and
 chest of the driver and passengers.
 
 ### Precautions for airbag application
-`forthing_u_tour_en_1944f3fe` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:16 | doc_type:owners_manual
 
 There is an airbag warning sign on
 the
@@ -391,7 +374,6 @@ please contact the authorized service station
 of Dongfeng Forthing for replacement.
 
 ### It helps to protect the head and chest of
-`forthing_u_tour_en_2917091a` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:17 | doc_type:owners_manual
 
 the driver and the front-row passenger from
 the impact of interior components.
@@ -403,7 +385,6 @@ of interior components.
 3. Middle-row side airbag*
 
 ### It helps to protect the torso of the
-`forthing_u_tour_en_f3a9995c` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:17 | doc_type:owners_manual
 
 middle-row passenger from the impact of
 interior components.
@@ -417,7 +398,6 @@ rear-row outboard passenger.
 Warning
 
 ### As the front side airbag and side curtain
-`forthing_u_tour_en_3ab1476e` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:17 | doc_type:owners_manual
 
 airbag are deployed with considerable speed
 and force, do not approach the head near the
@@ -426,7 +406,6 @@ curtain airbag during driving. Otherwise,
 personal injury may be caused.
 
 ### The front airbag is deployed when the
-`forthing_u_tour_en_5b73d68f` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:17 | doc_type:owners_manual
 
 vehicle collides with solid wall at a speed of
 25 km/h and above.
@@ -434,7 +413,6 @@ Front-row, middle-row side airbag and side
 curtain airbag
 
 ### Deployment condition of airbag*
-`forthing_u_tour_en_13a67e7e` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:17 | doc_type:owners_manual
 
 When
 the
@@ -455,13 +433,11 @@ deployment
 circumstances of airbag (except collision)
 
 ### The front airbag may be deployed if the
-`forthing_u_tour_en_3ed298a9` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:17 | doc_type:owners_manual
 
 bottom of the vehicle is severely impacted.
 Some examples are shown in the figure.
 
 ### Types of collisions without deployment of
-`forthing_u_tour_en_c9c04aa4` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:18 | doc_type:owners_manual
 
 airbag (front)
 Generally, the front seat airbag may not
@@ -475,7 +451,6 @@ forward deceleration.
 
 
 ### The front side airbag and side curtain
-`forthing_u_tour_en_63d4d39a` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:18 | doc_type:owners_manual
 
 airbag may not be deployed if the side
 collision of the vehicle at a certain angle to
@@ -495,7 +470,6 @@ collision, rollover, low-speed side collision
 and low-speed frontal collision.
 
 ### The vehicle is equipped with an event
-`forthing_u_tour_en_74d61008` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:19 | doc_type:owners_manual
 
 data recording system (EDR), and the
 recorded data can be used for collision
@@ -525,7 +499,6 @@ longitudinal
 delta-V time
 
 ### Clipping sign Time when the
-`forthing_u_tour_en_5f6b347d` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:19 | doc_type:owners_manual
 
 acceleration
 (lateral/longitudinal
@@ -547,7 +520,6 @@ percentage
 /
 
 ### Time interval
-`forthing_u_tour_en_ec67ca58` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:19 | doc_type:owners_manual
 
 between two events
 s
@@ -564,7 +536,6 @@ number for
 recording
 
 ### Software number of
-`forthing_u_tour_en_b7b2425f` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:19 | doc_type:owners_manual
 
 the EDR device
 /
@@ -576,7 +547,6 @@ of Dongfeng Forthing.
 The vehicle speed recorded by the
 
 ### EDR system comes from the wheel linear
-`forthing_u_tour_en_5708bfe9` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:20 | doc_type:owners_manual
 
 speed of the anti-lock brake system (ABS)
 equipped on the vehicle.
@@ -605,7 +575,6 @@ by subsequent event data, and a total of three
 event data can be recorded.
 
 ### Be sure to read the content of this
-`forthing_u_tour_en_28fbd4b8` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:21 | doc_type:owners_manual
 
 chapter when children ride in the vehicle.
 Children
@@ -619,7 +588,6 @@ seat belt for protection, and if necessary, an
 auxiliary safety cushion shall be installed.
 
 ### It is recommended that children sit in
-`forthing_u_tour_en_057f9524` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:21 | doc_type:owners_manual
 
 the middle-row or rear-row seats.
 During driving, use the rear door child
@@ -637,7 +605,6 @@ or other vehicle equipment.
 
 
 ### Do not leave children alone in the
-`forthing_u_tour_en_95763af9` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:21 | doc_type:owners_manual
 
 vehicle, as this may cause casualties due
 to
@@ -659,7 +626,6 @@ recommended to use a rear-facing child
 restraint system.
 
 ### According to the weight and height
-`forthing_u_tour_en_5cea69d3` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:21 | doc_type:owners_manual
 
 requirements specified by the manufacturer
 of child restraint system, children over one
@@ -673,13 +639,11 @@ belt does not fit properly, an auxiliary seat
 cushion can be installed for children.
 
 ### Child restraint system (provided by the user)
-`forthing_u_tour_en_16d7d975` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:22 | doc_type:owners_manual
 
 CRS needs to be provided by the user. Please use a CRS that complies with the
 GB27887-2011 standard.
 
 ### Applicability of child seat
-`forthing_u_tour_en_25ead25e` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:22 | doc_type:owners_manual
 
 In addition to three-point seat belts for children protection, the middle-row seats also
 provide child restraint system with two standard "ISOFIX" interfaces, and appropriate child
@@ -688,7 +652,6 @@ The child restraint system (CRS) applicable to this vehicle and the installation
 are shown in the table below.
 
 ### Group III (22 KG to 36 KG)
-`forthing_u_tour_en_834d66d6` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:22 | doc_type:owners_manual
 
 X
 U
@@ -701,7 +664,6 @@ If the "ISOFIX" child restraint system is adopted, the adaptability information 
 and the vehicle is shown in the table below.
 
 ### Group 0
-`forthing_u_tour_en_799a0d18` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:23 | doc_type:owners_manual
 
 E
 ISO/R1
@@ -763,7 +725,6 @@ IUF
 X
 
 ### Group III
-`forthing_u_tour_en_c4790109` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:23 | doc_type:owners_manual
 
 22KG~36KG
 （Ⅰ）
@@ -788,7 +749,6 @@ F—ISO/L1: Left lateral facing position child restraint system (carrycot).
 G—ISO/L2: Right lateral facing position child restraint system (carrycot).
 
 ### If the rear-facing child restraint system is
-`forthing_u_tour_en_19a341c2` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:24 | doc_type:owners_manual
 
 obstructed by the driver's seat and thus
 cannot be installed correctly, the rear-facing
@@ -796,7 +756,6 @@ child restraint system should be installed on
 the right rear seat.
 
 ### According to the instructions provided
-`forthing_u_tour_en_44b1f5c7` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:24 | doc_type:owners_manual
 
 by the manufacturer, pass the seat belt
 through or around the rear-facing child
@@ -808,7 +767,6 @@ and shake left and right to ensure that the
 child restraint system is firmly fixed.
 
 ### According to the instructions provided
-`forthing_u_tour_en_95b091b6` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:24 | doc_type:owners_manual
 
 by the manufacturer, pass the seat belt
 through the forward-facing child restraint
@@ -824,7 +782,6 @@ that the child restraint system is firmly
 fixed.
 
 ### Place the auxiliary seat cushion on the
-`forthing_u_tour_en_927d6b6e` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:24 | doc_type:owners_manual
 
 seat and let the child sit on the auxiliary seat
 cushion.
@@ -835,7 +792,6 @@ instructions
 provided by the manufacturer,
 
 ### Safety and Protection
-`forthing_u_tour_en_22db2c81` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:25 | doc_type:owners_manual
 
 correctly cross the seat belt over the child's
 shoulder, keep the lap belt as low to the
@@ -844,7 +800,6 @@ latch into the buckle, ensuring that the seat
 belt is not twisted and kept tight.
 
 ### Child restraint system complying with
-`forthing_u_tour_en_a066b4fc` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:25 | doc_type:owners_manual
 
 standard ISO specifications can be fixed by
 ISOFIX
@@ -866,7 +821,6 @@ seat cushion and the backrest.
 2.
 
 ### Align the ISOFIX interface of the
-`forthing_u_tour_en_a77d7d8e` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:25 | doc_type:owners_manual
 
 child
 restraint
@@ -890,7 +844,6 @@ highest point.
 4.
 
 ### Warning Light and Indicator
-`forthing_u_tour_en_63230ae8` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:28 | doc_type:owners_manual
 
 Warning light and indicator remind the driver of the status of various systems in the
 vehicle.
@@ -907,7 +860,6 @@ indicate that the fuel is too little.
 Please refuel as soon as possible.
 
 ### High coolant temperature warning light
-`forthing_u_tour_en_17293b7c` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:29 | doc_type:owners_manual
 
 (red)
 This
@@ -932,7 +884,6 @@ contact the authorized service
 station of Dongfeng Forthing.
 
 ### Transmission system fault warning light
-`forthing_u_tour_en_3b534075` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:29 | doc_type:owners_manual
 
 (yellow)
 When the transmission is faulty,
@@ -943,7 +894,6 @@ contact the authorized service
 station of Dongfeng Forthing.
 
 ### This light will illuminate when
-`forthing_u_tour_en_02d9e17b` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:29 | doc_type:owners_manual
 
 the tire pressure and temperature
 are abnormal or the tire pressure
@@ -951,7 +901,6 @@ monitoring function fails.
 
 
 ### If the light illuminates because the tire
-`forthing_u_tour_en_cfc673cb` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:29 | doc_type:owners_manual
 
 pressure is too high or too low, please adjust
 the tire pressure to the standard tire pressure
@@ -962,7 +911,6 @@ time.
 
 
 ### TPMS is not matched or the sensor signal is
-`forthing_u_tour_en_920e94d1` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:29 | doc_type:owners_manual
 
 lost, please contact the authorized service
 station of Dongfeng Forthing in time.
@@ -978,7 +926,6 @@ form (text reminder is available
 only for some models).
 
 ### This light will illuminate when
-`forthing_u_tour_en_15e86427` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:30 | doc_type:owners_manual
 
 parking system is faulty. At this
 time, the parking system still has
@@ -995,7 +942,6 @@ station
 of
 
 ### When the Start/Stop switch is
-`forthing_u_tour_en_4d4fda3a` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:30 | doc_type:owners_manual
 
 turned to "ON" position and the
 engine is not running, this light
@@ -1037,7 +983,6 @@ of
 Dongfeng Forthing in time.
 
 ### This light will illuminate when
-`forthing_u_tour_en_72a044a4` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:30 | doc_type:owners_manual
 
 the EPS is faulty. If this light
 illuminates during driving, please
@@ -1053,7 +998,6 @@ station of Dongfeng Forthing as
 soon as possible.
 
 ### If this light illuminates during
-`forthing_u_tour_en_e47bcaf2` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:31 | doc_type:owners_manual
 
 driving, indicating that the
 anti-lock brake system (ABS) is
@@ -1065,7 +1009,6 @@ drive carefully and contact the
 authorized service station of
 
 ### This light will illuminate when
-`forthing_u_tour_en_8313df77` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:31 | doc_type:owners_manual
 
 the brake fluid level drops to a
 low level. If this light illuminates
@@ -1078,7 +1021,6 @@ service station of Dongfeng
 Forthing in time.
 
 ### When the Start/Stop switch is
-`forthing_u_tour_en_e5426969` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:31 | doc_type:owners_manual
 
 turned to "ON" position, this
 light will illuminate; after the
@@ -1087,7 +1029,6 @@ go out, indicating that the system
 is in normal working condition.
 
 ### If this light continues to
-`forthing_u_tour_en_15a162e4` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:31 | doc_type:owners_manual
 
 illuminate, indicating that the
 engine control system may be
@@ -1099,7 +1040,6 @@ authorized service station of
 Dongfeng Forthing.
 
 ### If the light stays on while the
-`forthing_u_tour_en_aee17da6` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:31 | doc_type:owners_manual
 
 engine is running, it indicates
 that the engine electronic
@@ -1112,7 +1052,6 @@ authorized service station of
 Dongfeng Forthing.
 
 ### When the Start/Stop switch is
-`forthing_u_tour_en_599a0c8c` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
 
 turned to "ON" position, if the
 driver or front-row passenger
@@ -1125,7 +1064,6 @@ seat belts, the light will go out
 and the alarm will be released.
 
 ### When the Start/Stop switch is
-`forthing_u_tour_en_ed6c152f` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
 
 turned to "ON" position, if the
 middle-row passenger does not
@@ -1140,7 +1078,6 @@ behaves slightly differently
 depending on the configuration.
 
 ### If this light continues to
-`forthing_u_tour_en_ec07ab17` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:32 | doc_type:owners_manual
 
 illuminate or flash during
 driving, indicating that the
@@ -1153,7 +1090,6 @@ the authorized service station of
 Dongfeng Forthing in time.
 
 ### When the driver assistance
-`forthing_u_tour_en_c2090b64` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:33 | doc_type:owners_manual
 
 system is abnormal, the light will
 flash a few times and then stay
@@ -1169,7 +1105,6 @@ indicating that the system is in
 normal working condition.
 
 ### AEB system warning light (red)*
-`forthing_u_tour_en_7ff4a443` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:33 | doc_type:owners_manual
 
 When the AEB system is started,
 alarms are given through sound
@@ -1186,7 +1121,6 @@ normal working condition and the vehicle is
 not faulty.
 
 ### This indicator will illuminate
-`forthing_u_tour_en_950e6b80` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:33 | doc_type:owners_manual
 
 when the EPB switch is pulled
 up. If this indicator does not
@@ -1203,14 +1137,12 @@ target speed will be displayed
 next to the indicator.
 
 ### The indicator illuminates when
-`forthing_u_tour_en_8e3e31bb` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:34 | doc_type:owners_manual
 
 the ACC and the lane keeping
 assist of the traffic jam assist
 works simultaneously.
 
 ### The corresponding light
-`forthing_u_tour_en_bfaf869c` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:34 | doc_type:owners_manual
 
 illuminates or goes out when
 operating the turn signal. This
@@ -1229,7 +1161,6 @@ service station of Dongfeng
 Forthing.
 
 ### Electronic stability program (ESP) OFF
-`forthing_u_tour_en_ea3d1b77` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:35 | doc_type:owners_manual
 
 indicator (yellow)
 When the ESP switch is pressed,
@@ -1240,7 +1171,6 @@ system will be turned on again,
 and this indicator will go out.
 
 ### This indicator flashes when the
-`forthing_u_tour_en_af6e2381` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:35 | doc_type:owners_manual
 
 ESP system is working. If this
 indicator continues to illuminate
@@ -1248,7 +1178,6 @@ during driving, indicating that the
 ESP system may be faulty.
 
 ### GPF status indicator (yellow)
-`forthing_u_tour_en_9d849e9c` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:36 | doc_type:owners_manual
 
 When
 the
@@ -1274,7 +1203,6 @@ at the same time, indicating that
 the carbon loading amount of
 
 ### GPF reaches an extremely high
-`forthing_u_tour_en_6da961e6` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:36 | doc_type:owners_manual
 
 level and active regeneration is
 difficult
@@ -1295,7 +1223,6 @@ the smart key is illegal or the
 anti-theft authentication fails.
 
 ### Start/Stop switch is turned to
-`forthing_u_tour_en_dc99f260` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:36 | doc_type:owners_manual
 
 "ACC" or "OFF" position, this
 indicator flashes, indicating that
@@ -1303,7 +1230,6 @@ the vehicle enters the anti-theft
 mode.
 
 ### When the front-view camera is
-`forthing_u_tour_en_40d40f9e` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:36 | doc_type:owners_manual
 
 stained or obstructed, the
 indicator flashes a few times and
@@ -1322,7 +1248,6 @@ indicator
 (white)*
 
 ### When the Start/Stop switch is
-`forthing_u_tour_en_ef7653a1` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:37 | doc_type:owners_manual
 
 turned to "ON" position, the
 start-stop system is enabled by
@@ -1341,7 +1266,6 @@ assistance, multimedia, map navigation,
 settings and warning information.
 
 ### Segment code screen: Display the average
-`forthing_u_tour_en_c236a81b` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:38 | doc_type:owners_manual
 
 vehicle speed, average fuel consumption,
 driving range, subtotal mileage and tire
@@ -1357,7 +1281,6 @@ Display the current vehicle speed.
 Display the amount of fuel in the fuel tank.
 
 ### Display the
-`forthing_u_tour_en_b32e3f03` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:39 | doc_type:owners_manual
 
 vehicle's
 subtotal
@@ -1377,7 +1300,6 @@ km.
 10.
 
 ### Type II
-`forthing_u_tour_en_8cae77bf` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:40 | doc_type:owners_manual
 
 1. Up button: switch to and select upward
 on the same level page.
@@ -1424,7 +1346,6 @@ combination
 instrument.
 
 ### Comprehensive information (LCD)
-`forthing_u_tour_en_d914d76e` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:40 | doc_type:owners_manual
 
 The
 interface
@@ -1441,13 +1362,11 @@ switched by pressing the Left and Right
 buttons on the steering wheel.
 
 ### Driving information includes vehicle
-`forthing_u_tour_en_fd800a45` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:40 | doc_type:owners_manual
 
 state, trip computer, fuel consumption for
 the last 50 km and tire pressure information.
 
 ### The interface displays the average
-`forthing_u_tour_en_184f27f5` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:41 | doc_type:owners_manual
 
 vehicle speed, driving range, average fuel
 consumption
@@ -1460,7 +1379,6 @@ buttons on the steering wheel.
 1. Average speed
 
 ### The display range of average vehicle
-`forthing_u_tour_en_969cc45b` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:41 | doc_type:owners_manual
 
 speed is 0 ~ 200 km/h. Press OK to call up
 the clear option to reset the average vehicle
@@ -1468,7 +1386,6 @@ speed.
 2. Driving mileage
 
 ### Display the maximum mileage that the
-`forthing_u_tour_en_fd55fbf3` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:41 | doc_type:owners_manual
 
 vehicle can continue to drive.
 Display range: 50~999 km. When the
@@ -1492,7 +1409,6 @@ comprehensive fuel consumption.
 
 
 ### If the low fuel level warning light
-`forthing_u_tour_en_34cf458f` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:41 | doc_type:owners_manual
 
 illuminates, it is necessary to refuel in
 time even if a longer driving range is
@@ -1510,7 +1426,6 @@ consumption
 information through a curve graph.
 
 ### Press OK to call up the clear option to
-`forthing_u_tour_en_ed83bf5f` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:42 | doc_type:owners_manual
 
 reset the optimal fuel consumption. After
 resetting, the optimal fuel consumption will
@@ -1524,7 +1439,6 @@ adjust your driving habits to achieve the
 expected fuel consumption.
 
 ### Tire pressure information
-`forthing_u_tour_en_96a14268` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:42 | doc_type:owners_manual
 
 This
 interface
@@ -1538,7 +1452,6 @@ Note
 
 
 ### Please keep the tire pressure near the
-`forthing_u_tour_en_0bc83296` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:42 | doc_type:owners_manual
 
 standard pressure value. When the tire
 pressure is displayed as "--" and the
@@ -1550,7 +1463,6 @@ time.
 
 
 ### There is no need to re-match the tire
-`forthing_u_tour_en_60a0464a` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:42 | doc_type:owners_manual
 
 pressure sensor due to installation and
 removal of tires. However, if the tire
@@ -1566,7 +1478,6 @@ Dongfeng Forthing.
 
 
 ### The tire pressure information displayed
-`forthing_u_tour_en_808e6f63` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:42 | doc_type:owners_manual
 
 in the stationary status is the information
 when
@@ -1582,7 +1493,6 @@ the data in the tire pressure information
 interface can be updated.
 
 ### Different functions can be displayed on
-`forthing_u_tour_en_6a48a256` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:43 | doc_type:owners_manual
 
 this interface according to different vehicle
 model configuration definitions. For details
@@ -1602,7 +1512,6 @@ information
 about the radio or music you are listening to.
 
 ### Map navigation
-`forthing_u_tour_en_b0c66224` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:43 | doc_type:owners_manual
 
 The
 interface
@@ -1612,7 +1521,6 @@ display the map information and simple
 navigation information on the IVI system.
 
 ### Alarm information
-`forthing_u_tour_en_b4405da3` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:43 | doc_type:owners_manual
 
 The
 interface displays
@@ -1625,7 +1533,6 @@ and down buttons on the steering wheel.
 Settings
 
 ### The setting interface includes alarm
-`forthing_u_tour_en_5a098423` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:43 | doc_type:owners_manual
 
 information inquiry, driving information
 reset,
@@ -1642,7 +1549,6 @@ interface. The specific information is shown
 in the table below.
 
 ### If the fatigue driving reminder is
-`forthing_u_tour_en_f34544bc` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:44 | doc_type:owners_manual
 
 triggered after continuous driving for more
 than 4 hours, press the OK button and park
@@ -1661,7 +1567,6 @@ information, tire pressure information and
 lane departure.
 
 ### Driving information
-`forthing_u_tour_en_aed69d48` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:44 | doc_type:owners_manual
 
 Driving
 information
@@ -1686,7 +1591,6 @@ reset the average fuel
 consumption.
 
 ### Driving mileage
-`forthing_u_tour_en_a9acf6b8` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:45 | doc_type:owners_manual
 
 Display
 the
@@ -1720,7 +1624,6 @@ comprehensive fuel consumption.
 
 
 ### If the low fuel level warning light
-`forthing_u_tour_en_abfb4131` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:45 | doc_type:owners_manual
 
 illuminates, it is necessary to refuel in
 time even if a longer driving range is
@@ -1737,7 +1640,6 @@ Note
 
 
 ### There is no need to re-match the tire
-`forthing_u_tour_en_47a50e05` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:45 | doc_type:owners_manual
 
 pressure sensor due to installation and
 removal of tires. However, if the tire
@@ -1752,7 +1654,6 @@ of
 Dongfeng Forthing.
 
 ### The tire pressure information displayed
-`forthing_u_tour_en_76ffece1` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:46 | doc_type:owners_manual
 
 in the stationary status is the information
 when
@@ -1774,7 +1675,6 @@ pressure
 information interface can be updated.
 
 ### Lane departure
-`forthing_u_tour_en_6151bf41` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:46 | doc_type:owners_manual
 
 In the interface, lane departure warning
 can be realized. For details about lane
@@ -1791,7 +1691,6 @@ Replace the smart key battery...... 48
 Opening, Closing and Locking of Door48
 
 ### Interior emergency opening of trunk
-`forthing_u_tour_en_716f4701` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:47 | doc_type:owners_manual
 
 Trunk lid opening height settings.53
 Seat heating, ventilation and
@@ -1806,7 +1705,6 @@ Smart key
 6. Smart key number plate
 
 ### Mechanical key
-`forthing_u_tour_en_8a3187ad` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:49 | doc_type:owners_manual
 
 Press
 the
@@ -1817,7 +1715,6 @@ button on the side of the smart key to take
 out the mechanical key.
 
 ### Replace the smart key battery
-`forthing_u_tour_en_178bcdc4` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:49 | doc_type:owners_manual
 
 If the smart key battery is low, the
 remote control distance may become shorter
@@ -1827,7 +1724,6 @@ smart key. In this case, the battery in the
 smart key needs to be replaced.
 
 ### If the smart key with incorrect code is
-`forthing_u_tour_en_fe481ca0` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:49 | doc_type:owners_manual
 
 carried, when the Start/Stop switch is turned
 to "ON" position, the anti-theft indicator on
@@ -1840,7 +1736,6 @@ Opening, Closing and Locking of
 Door
 
 ### Basic Function Operation
-`forthing_u_tour_en_d8d8631f` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:50 | doc_type:owners_manual
 
 Locking
 Carry the smart key, close all doors,
@@ -1855,7 +1750,6 @@ to open the glass of the four doors.
 Locking
 
 ### Press the lock button on the smart key
-`forthing_u_tour_en_56a386ad` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:50 | doc_type:owners_manual
 
 to lock the four doors and the fuel filler cap,
 the turn signal lamp flashes, the horn sounds
@@ -1865,7 +1759,6 @@ hold the lock button on the smart key to
 close the glass of the four doors.
 
 ### Take out the mechanical key
-`forthing_u_tour_en_7c49e451` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:50 | doc_type:owners_manual
 
 from the smart key.
 2.
@@ -1883,7 +1776,6 @@ hole.
 3.
 
 ### Insert the mechanical key into the
-`forthing_u_tour_en_325f321e` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:50 | doc_type:owners_manual
 
 lock
 cylinder
@@ -1897,7 +1789,6 @@ counterclockwise to lock the door.
 4.
 
 ### Unlocking with the interior door handle
-`forthing_u_tour_en_767c313c` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:51 | doc_type:owners_manual
 
 When the door is locked, pull the
 interior door handle twice to open the door.
@@ -1909,7 +1800,6 @@ the rear door cannot be opened from inside
 the vehicle.
 
 ### Unlocking and locking of front passenger
-`forthing_u_tour_en_c40976fe` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:51 | doc_type:owners_manual
 
 door and rear door
 If the vehicle is powered off, press the
@@ -1921,7 +1811,6 @@ set, children cannot open the rear door from
 inside the vehicle, which helps to prevent
 
 ### Automatically locking of door
-`forthing_u_tour_en_99b4a07b` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:52 | doc_type:owners_manual
 
 With the doors unlocked, when the
 vehicle speed increases to more than 10
@@ -1935,7 +1824,6 @@ locked
 automatically.
 
 ### When the car doors are locked and the
-`forthing_u_tour_en_ba9f8d96` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:52 | doc_type:owners_manual
 
 start switch is in the "ON" position, if the
 vehicle is subjected to a strong impact, all
@@ -1944,7 +1832,6 @@ on the intensity of the impact or the type of
 accident, the system may not function.
 
 ### Normal trunk lid
-`forthing_u_tour_en_821ad2ff` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:52 | doc_type:owners_manual
 
 When the trunk lid is closed, press and
 hold the trunk lid unlock button on the smart
@@ -1964,14 +1851,12 @@ open
 automatically.
 
 ### Stand behind the vehicle with the smart key
-`forthing_u_tour_en_55aeeea9` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:52 | doc_type:owners_manual
 
 and kick at the middle lower part of the rear
 bumper. When the kicking action is sensed,
 the trunk lid will open automatically.
 
 ### Basic Function Operation
-`forthing_u_tour_en_14e55afc` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:53 | doc_type:owners_manual
 
 Note
 
@@ -1986,7 +1871,6 @@ about 1m away from the trunk lid.
 
 
 ### In order to ensure the effectiveness of the
-`forthing_u_tour_en_f9ad6852` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:53 | doc_type:owners_manual
 
 operation, please use front and rear
 kicking operation, and the kicking time
@@ -2003,7 +1887,6 @@ be
 controlled within 2 ~ 10 cm respectively.
 
 ### Please use the most suitable operation
-`forthing_u_tour_en_a9402007` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:53 | doc_type:owners_manual
 
 method after several kicking operations
 according to the actual situation.
@@ -2015,7 +1898,6 @@ cause functional failure.
 
 
 ### The kick sensing area is located within
-`forthing_u_tour_en_319301de` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:53 | doc_type:owners_manual
 
 the width range of 50 cm on the left and
 right sides below the middle part of the
@@ -2023,7 +1905,6 @@ rear bumper. Please operate in this area.
 
 
 ### If the trunk lid opening function is
-`forthing_u_tour_en_e86e1f4c` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:53 | doc_type:owners_manual
 
 attempted for several times in a short
 time, this function may be temporarily
@@ -2050,7 +1931,6 @@ trunk lid is opened accidentally, it may
 be damaged.
 
 ### Basic Function Operation
-`forthing_u_tour_en_5a02a8b9` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:54 | doc_type:owners_manual
 
 If this switch is pressed again during closing,
 the trunk lid will stop closing.
@@ -2059,7 +1939,6 @@ automatically by pressing and holding the
 trunk lid unlock button on the smart key.
 
 ### Open and close trunk lid from inside the
-`forthing_u_tour_en_1026743f` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:54 | doc_type:owners_manual
 
 vehicle
 When the trunk lid is unlocked, press
@@ -2069,7 +1948,6 @@ trunk lid is moving, press this switch again
 to stop the movement of the trunk lid.
 
 ### If the lock fastener fails and the trunk
-`forthing_u_tour_en_d86952b4` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:54 | doc_type:owners_manual
 
 lid cannot be opened, remove the emergency
 opening cover plate from the trunk lid shield,
@@ -2079,7 +1957,6 @@ with the other hand to open the trunk lid
 from inside the vehicle.
 
 ### Press and hold the trunk lid shield
-`forthing_u_tour_en_418b82bf` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:54 | doc_type:owners_manual
 
 switch until
 a
@@ -2098,7 +1975,6 @@ is restored successfully.
 3.
 
 ### When the power liftgate needs to be
-`forthing_u_tour_en_b488c321` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:55 | doc_type:owners_manual
 
 manually operated in case of power
 failure or fault, it shall be opened or
@@ -2113,7 +1989,6 @@ damage to the electric stay bar or
 controller.
 
 ### Set the opening angle of trunk lid through
-`forthing_u_tour_en_7c156870` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:55 | doc_type:owners_manual
 
 the IVI system
 1.
@@ -2125,7 +2000,6 @@ Tap
 [Accessories] - [Power Trunk Lid Angle
 
 ### Adjustment]
-`forthing_u_tour_en_c4ef689c` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:55 | doc_type:owners_manual
 
 on
 the
@@ -2143,14 +2017,12 @@ indicating that the setting is successful.
 Note
 
 ### The opening height of the trunk lid in the
-`forthing_u_tour_en_25a1de43` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:55 | doc_type:owners_manual
 
 IVI system is for reference only. Please set
 the specific height according to the actual
 operation.
 
 ### Anti-pinch protection
-`forthing_u_tour_en_320fa535` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:55 | doc_type:owners_manual
 
 When the trunk lid opens automatically,
 if an obstacle is detected, the trunk lid will
@@ -2160,7 +2032,6 @@ trunk lid will stop closing and return to the
 preset maximum opening height.
 
 ### Manual adjustment of driver's seat
-`forthing_u_tour_en_6c64721f` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:56 | doc_type:owners_manual
 
 1. Seat forward-backward adjustment lever
 Lift the pull rod to adjust the seat to move forward and backward. After adjusting to the
@@ -2175,14 +2046,12 @@ adjusting the backrest to the appropriate position, release the handle, and shak
 forth a few times to ensure that the backrest is locked in place.
 
 ### Manual adjustment of front passenger's seat
-`forthing_u_tour_en_187784c8` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:57 | doc_type:owners_manual
 
 1. Seat forward-backward adjustment pull rod 2. Backrest angle adjustment handle
 The manual adjustment of front passenger's seat is the same as the manual adjustment of
 driver's seat.
 
 ### Ten-way seat
-`forthing_u_tour_en_1912de30` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:57 | doc_type:owners_manual
 
 1. Forward-backward adjustment button of lumbar support
 Press this button to adjust the lumbar support to move forward and backward. After
@@ -2196,7 +2065,6 @@ and backward. Push the rear part of the button upward and downward gently to rai
 lower the seat. After adjusting to a proper position, release the button.
 
 ### Basic Function Operation
-`forthing_u_tour_en_9776d8a9` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:58 | doc_type:owners_manual
 
 4. Backrest angle adjustment button
 Push the button forward and backward gently to adjust the seat backrest angle. After
@@ -2208,7 +2076,6 @@ and press button 2 to select different massage modes (for the intensity and mode
 refer to the relevant contents of seat settings in Chapter VI "IVI System").
 
 ### Eight-way seat
-`forthing_u_tour_en_5bec84b6` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:58 | doc_type:owners_manual
 
 1. Lumbar support forward-backward adjustment
 button
@@ -2218,7 +2085,6 @@ button
 The adjustment method of the eight-way seat is the same as that of the ten-way seat.
 
 ### Learning function of the driver's seat*
-`forthing_u_tour_en_bdc723cf` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:58 | doc_type:owners_manual
 
 The seat learning has been completed before the vehicle leaves the factory, so that the
 seat has a memory function. If the seat or seat ECU is replaced, seat learning is required. The
@@ -2240,7 +2106,6 @@ push the backrest angle adjustment button backward for 5s. Repeat the operation 
 complete the learning of seat backrest adjustment function.
 
 ### Electric adjustment of front passenger's seat*
-`forthing_u_tour_en_b4509474` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:59 | doc_type:owners_manual
 
 1. Backrest angle adjustment button
 Push the button forward and backward gently to adjust the seat backrest angle. After
@@ -2250,7 +2115,6 @@ Push the whole button forward and backward gently to adjust the seat forward and
 backward. After adjusting to a proper position, release the button.
 
 ### Boss key*
-`forthing_u_tour_en_ef36bd90` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:59 | doc_type:owners_manual
 
 1. Backrest angle adjustment button
 2. Seat forward-backward adjustment button
@@ -2266,7 +2130,6 @@ When adjusting the seat, do not put your hands under the seat or near moving par
 avoid injury.
 
 ### Basic Function Operation
-`forthing_u_tour_en_8a8377ea` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:60 | doc_type:owners_manual
 
 Note
 
@@ -2275,7 +2138,6 @@ directly strangle the abdomen, or make the shoulder seat belt contact the neck, 
 cause serious injury or even increase the risk of death in case of an accident.
 
 ### Manual adjustment of middle-row seat
-`forthing_u_tour_en_8bd114a9` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:60 | doc_type:owners_manual
 
 1. Seat forward-backward adjustment lever
 Pull the handle to adjust the seat to move forward and backward. After adjusting to the
@@ -2287,7 +2149,6 @@ adjusting the backrest to the appropriate position, release the handle, and shak
 forth a few times to ensure that the backrest is locked in place.
 
 ### Electric adjustment of middle-row seat*
-`forthing_u_tour_en_83c40fc6` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:61 | doc_type:owners_manual
 
 1. Seat forward-backward adjustment button
 2. Backrest angle adjustment button
@@ -2298,14 +2159,12 @@ Pull the handle to slide the seat leftward and rightward within the track, facil
 communication between the middle-row passengers, such as parent-child care.
 
 ### The middle-row seats of the two-seat
-`forthing_u_tour_en_da1cb205` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:61 | doc_type:owners_manual
 
 model have seat armrests, which can be
 flipped downwards to a fixed position when in
 use and upwards when retracted.
 
 ### Middle-row
-`forthing_u_tour_en_6851b548` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:61 | doc_type:owners_manual
 
 seat
 boarding
@@ -2329,7 +2188,6 @@ lockable area to restore the seat to its initial
 state.
 
 ### Middle-row seat learning function*
-`forthing_u_tour_en_297ed032` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:62 | doc_type:owners_manual
 
 The seat learning has been completed before the vehicle leaves the factory, allowing the
 seats to have different backrest adjustment angles on the inner and outer sides. If the seat is
@@ -2347,7 +2205,6 @@ push the backrest angle adjustment button backward for 5s. Repeat the operation 
 complete the learning of seat backrest adjustment function.
 
 ### Rear seat backrest adjustment and flattening
-`forthing_u_tour_en_b79fe7eb` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:62 | doc_type:owners_manual
 
 1.
 Pull the folding strap of the rear-row seat to adjust the angle of the seat backrest.
@@ -2355,7 +2212,6 @@ Continuously pull the strap and push the backrest from the back to the front to 
 seat.
 
 ### Basic Function Operation
-`forthing_u_tour_en_6eef6faf` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:63 | doc_type:owners_manual
 
 Reset the rear-row seat from the front: Lift the seat backrest directly until it locks.
 Reset the rear-row seat from behind: Pull the seat back strap to lift the backrest until it
@@ -2376,7 +2232,6 @@ Check and confirm that the seat belt is not twisted or stuck in the seat backres
 Seat heating, ventilation and massage*
 
 ### If the body cannot sense pain and
-`forthing_u_tour_en_24031890` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:63 | doc_type:owners_manual
 
 temperature due to medication, paralysis
 and other diseases, do not use the seat
@@ -2396,7 +2251,6 @@ chapter
 "User
 
 ### Common headrest
-`forthing_u_tour_en_c5bd81fe` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:64 | doc_type:owners_manual
 
 1.
 To raise the headrest, directly lift
@@ -2414,7 +2268,6 @@ restraint is locked in place.
 3.
 
 ### The headrest with side wings can
-`forthing_u_tour_en_090adb0c` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:64 | doc_type:owners_manual
 
 fold both sides of the headrest towards the
 center,
@@ -2437,7 +2290,6 @@ with the upper part of the ear, so that the
 headrest can play the greatest protective
 
 ### After holding the steering wheel with
-`forthing_u_tour_en_63504bda` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:66 | doc_type:owners_manual
 
 one hand and pulling the adjustment handle
 downward with the other hand, you can
@@ -2448,7 +2300,6 @@ handle and confirm that it is locked in place.
 Horn
 
 ### The horn is located in the middle of the
-`forthing_u_tour_en_9f20e473` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:66 | doc_type:owners_manual
 
 steering wheel.
 Pressing
@@ -2476,7 +2327,6 @@ Type I
 10.
 
 ### Basic Function Operation
-`forthing_u_tour_en_6cdadd44` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:67 | doc_type:owners_manual
 
 1. Resume/acceleration button
 2. Lane keeping button
@@ -2492,7 +2342,6 @@ button
 9. Following distance adjustment button
 
 ### Type II
-`forthing_u_tour_en_d6bb336a` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:67 | doc_type:owners_manual
 
 1. Brightness up button
 2. Page turning button
@@ -2513,7 +2362,6 @@ setting/deceleration
 button
 
 ### Hold the right side of the interior
-`forthing_u_tour_en_e6e61397` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:67 | doc_type:owners_manual
 
 rearview mirror and adjust the mirror body
 up, down, left and right until the rear view
@@ -2526,7 +2374,6 @@ prevent the exterior rearview mirror body
 from coming off due to over-adjustment.
 
 ### Anti-dazzling
-`forthing_u_tour_en_5268da18` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:68 | doc_type:owners_manual
 
 adjustment
 of
@@ -2543,7 +2390,6 @@ of the interior rearview mirror to switch the
 mirror reflection state to prevent dazzling.
 
 ### Automatic anti-dazzling interior rearview
-`forthing_u_tour_en_3a8a3ea4` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:68 | doc_type:owners_manual
 
 mirror*
 During driving at night, the interior
@@ -2557,7 +2403,6 @@ the rearview mirror will be temporarily
 disabled.
 
 ### Do not adjust the position of the rearview
-`forthing_u_tour_en_86fecbc7` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:69 | doc_type:owners_manual
 
 mirror during driving; otherwise, an
 accident may be caused due to incorrect
@@ -2572,13 +2417,11 @@ down, left and right to adjust the exterior
 rearview mirror to the best view angle.
 
 ### Draw down the button at the top of the
-`forthing_u_tour_en_7b9106d3` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:70 | doc_type:owners_manual
 
 display screen to call out the shortcut menu
 of the drop-down bar. Tap [Rearview Mirror
 
 ### Tap [Settings]-[Vehicle]-[Attachment]
-`forthing_u_tour_en_7f1f7c29` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 on the display screen in turn, and select to
 enable the [Automatic folding of rearview
@@ -2589,7 +2432,6 @@ automatically fold or unfold the exterior
 rearview mirrors.
 
 ### Exterior rearview mirror memory*
-`forthing_u_tour_en_c5716a47` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 Some
 models
@@ -2608,7 +2450,6 @@ in
 reverse*
 
 ### Tap [Settings]-[Vehicle]-[Attachment]
-`forthing_u_tour_en_fd7ab833` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:70 | doc_type:owners_manual
 
 on the display screen in turn to enable the
 [Reversing
@@ -2629,7 +2470,6 @@ exterior
 rearview mirror
 
 ### When the Start/Stop switch is turned to
-`forthing_u_tour_en_a331b073` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 "ON" position, press the rear windshield
 defrosting button on the A/C control panel
@@ -2645,7 +2485,6 @@ adjusting the mirror angle.
 
 
 ### If the exterior rearview mirrors are not
-`forthing_u_tour_en_76c07cce` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 folded or unfolded, it may be that the
 exterior rearview mirrors are not reset
@@ -2657,7 +2496,6 @@ three times.
 
 
 ### If there is snow on the exterior rearview
-`forthing_u_tour_en_a98cf5e2` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 mirror, please remove the snow before
 adjusting the exterior rearview mirror to
@@ -2672,14 +2510,12 @@ Power window
 5. Rear right window switch
 
 ### Pull up or press the window switch
-`forthing_u_tour_en_7f83ca2c` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:71 | doc_type:owners_manual
 
 downward to automatically raise or lower
 the window. If you need to stop halfway,
 pull up or press this switch again.
 
 ### When the Start/Stop switch is turned to
-`forthing_u_tour_en_35072a85` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:71 | doc_type:owners_manual
 
 "OFF" position and the vehicle doors are
 closed, press and hold the unlock button on
@@ -2691,7 +2527,6 @@ rise at the same time until they are fully
 closed.
 
 ### To prevent children from accidentally
-`forthing_u_tour_en_9756acb3` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:71 | doc_type:owners_manual
 
 opening or closing the window, pressing the
 window
@@ -2707,7 +2542,6 @@ driver. If it needs to be restored, press this
 switch again.
 
 ### If the window is operated repeatedly in
-`forthing_u_tour_en_89cfbdbc` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:72 | doc_type:owners_manual
 
 a short time, the motor protection function
 will be triggered and the power window
@@ -2716,7 +2550,6 @@ operation, wait for a while and then operate
 again.
 
 ### Window anti-pinch protection
-`forthing_u_tour_en_738e534f` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:72 | doc_type:owners_manual
 
 During window closing, if an obstacle
 is encountered, the window will stop closing
@@ -2726,7 +2559,6 @@ function will also work in case of impact or
 similar conditions to window obstacles.
 
 ### Window initialization
-`forthing_u_tour_en_874edfa6` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:73 | doc_type:owners_manual
 
 After
 the
@@ -2745,7 +2577,6 @@ and guide slot;
 control module are replaced.
 
 ### Pull up the window switch and
-`forthing_u_tour_en_fefd1cd9` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:73 | doc_type:owners_manual
 
 hold it until the window is completely
 closed, and then hold it for more than 2
@@ -2759,7 +2590,6 @@ seconds.
 3.
 
 ### The above steps need to be operated in
-`forthing_u_tour_en_0ee9ce97` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:73 | doc_type:owners_manual
 
 a coherent manner to ensure successful
 learning. If the power window still cannot
@@ -2774,7 +2604,6 @@ pinched.
 
 
 ### Do not allow a child to operate the
-`forthing_u_tour_en_9039c472` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:73 | doc_type:owners_manual
 
 window.
 
@@ -2790,7 +2619,6 @@ Basic Function Operation
 4. Sunroof opening button
 
 ### To improve interior light and air
-`forthing_u_tour_en_fd4b31d4` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:74 | doc_type:owners_manual
 
 circulation, the sunshade and the sunroof
 can be opened. To operate the sunroof, the
@@ -2802,7 +2630,6 @@ slide backward and tilt, and the sunshade
 will be opened accordingly.
 
 ### Sunroof opening and closing
-`forthing_u_tour_en_428ce567` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:74 | doc_type:owners_manual
 
 When the sunroof is closed, press the
 sunroof opening button, and the sunroof will
@@ -2812,14 +2639,12 @@ When the sunroof is open, press the
 sunroof closing button to close the sunroof.
 
 ### During the opening/closing of sunroof
-`forthing_u_tour_en_17b7d63a` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:74 | doc_type:owners_manual
 
 by pressing one button, press the sunroof
 operation button again to stop the sunroof at
 the current position.
 
 ### Remote closing of sunroof
-`forthing_u_tour_en_f9d6da47` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:74 | doc_type:owners_manual
 
 When the vehicle is shut down, the
 sunroof cannot be operated with the interior
@@ -2835,13 +2660,11 @@ screen, press the lock button on the smart
 key for more than 3s to close the sunroof.
 
 ### The function allows opening or closing
-`forthing_u_tour_en_51bb7226` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:74 | doc_type:owners_manual
 
 the sunroof with the interior buttons within
 30s after the vehicle is shut down.
 
 ### Sunroof voice control and remote control*
-`forthing_u_tour_en_de00d65a` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:74 | doc_type:owners_manual
 
 After the voice system is activated,
 the sunroof
@@ -2856,7 +2679,6 @@ controlled through a mobile application
 connected to the vehicle.
 
 ### Press the sunshade opening or closing
-`forthing_u_tour_en_40b1fbae` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:74 | doc_type:owners_manual
 
 button to open or close the sunshade, and
 press the button again during the sunshade
@@ -2866,7 +2688,6 @@ position of the sunshade cannot exceed the
 open position of the sunroof.
 
 ### When the sunroof or the sunshade is
-`forthing_u_tour_en_17a85f95` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:74 | doc_type:owners_manual
 
 subject to abnormal resistance or obstacles
 during automatic closing, the sunroof or the
@@ -2875,7 +2696,6 @@ and retract for a certain distance to prevent
 personal injury.
 
 ### Sunroof initialization
-`forthing_u_tour_en_899a0737` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:75 | doc_type:owners_manual
 
 If the sunroof cannot be fully closed, it
 can be restored by the following operation:
@@ -2905,7 +2725,6 @@ sunroof
 initialization is completed.
 
 ### To prevent abnormal function caused
-`forthing_u_tour_en_e334263a` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:75 | doc_type:owners_manual
 
 by overheating of the sunroof motor, after
 the sunroof is continuously operated for
@@ -2918,7 +2737,6 @@ Warning
 
 
 ### Do not allow children to operate the
-`forthing_u_tour_en_204063cb` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:75 | doc_type:owners_manual
 
 sunroof or the sunshade.
 
@@ -2936,7 +2754,6 @@ or the sunshade is about to be fully
 closed.
 
 ### The panoramic sunroof is made of
-`forthing_u_tour_en_0b9aa431` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:75 | doc_type:owners_manual
 
 integral glass and cannot be opened. The
 panoramic sunroof of some models has
@@ -2949,7 +2766,6 @@ the following conditions:
 1.
 
 ### After the ambient light rhythm mode is
-`forthing_u_tour_en_c2fa4809` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:76 | doc_type:owners_manual
 
 disabled, tap and drag the ambient light
 brightness or color adjustment button to
@@ -2957,7 +2773,6 @@ adjust the brightness or color of the ambient
 light.
 
 ### After the multimedia music playback is
-`forthing_u_tour_en_44eb7cc0` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:76 | doc_type:owners_manual
 
 turned on, the ambient light rhythm mode
 can be enabled and adjusted. Select the
@@ -2967,7 +2782,6 @@ rhythm modes, the color and brightness of
 the ambient light cannot be adjusted.
 
 ### When the vehicle is in a non-OFF
-`forthing_u_tour_en_06090a24` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:76 | doc_type:owners_manual
 
 position, open the door or trunk lid, and the
 ambient light enters breathing mode. The
@@ -2983,7 +2797,6 @@ Dongfeng Forthing for details.
 
 
 ### Please do not wipe the glass interior
-`forthing_u_tour_en_92456834` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:76 | doc_type:owners_manual
 
 surface with salt water, acidic liquids, or
 corrosive liquids to avoid irreparable
@@ -3002,7 +2815,6 @@ Exterior lighting
 9. High beam
 
 ### Pull the light control handle upward or
-`forthing_u_tour_en_f29a8467` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:76 | doc_type:owners_manual
 
 downward, and the right or left turn signal
 will flash. After the steering is completed,
@@ -3017,7 +2829,6 @@ position to turn on the high beam; pull it
 back to turn off the high beam.
 
 ### When the light switch is in ATUO
-`forthing_u_tour_en_f1166b68` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:77 | doc_type:owners_manual
 
 position and the system detects that the
 ambient light intensity is dark, press the
@@ -3036,7 +2847,6 @@ starting the vehicle or sleeping, the position
 light will go out.
 
 ### Fog light switch
-`forthing_u_tour_en_b7a539be` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:77 | doc_type:owners_manual
 
 When the low beam is turned on,
 toggle the adjusting ring to point to the rear
@@ -3046,7 +2856,6 @@ point to O, and the rear fog light will be
 turned off.
 
 ### The daytime running light is mainly
-`forthing_u_tour_en_64700b40` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:77 | doc_type:owners_manual
 
 used
 in
@@ -3072,7 +2881,6 @@ ambient
 brightness.
 
 ### Pull the light control handle back once
-`forthing_u_tour_en_98ce6942` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:77 | doc_type:owners_manual
 
 within 5 minutes after the vehicle is shut
 down, and the "Follow Me Home" function
@@ -3085,7 +2893,6 @@ on for 5 minutes, the low beam will be
 automatically turned off.
 
 ### Headlight height adjustment
-`forthing_u_tour_en_5fa2092f` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:77 | doc_type:owners_manual
 
 When the vehicle is heavily loaded, the
 rear part of the vehicle body will sink, so
@@ -3098,7 +2905,6 @@ The specific methods are as follows:
 1.
 
 ### Slide down at the top of the
-`forthing_u_tour_en_48c73929` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:77 | doc_type:owners_manual
 
 display screen to bring up a shortcut menu in
 the drop-down bar, where you can see the
@@ -3118,7 +2924,6 @@ illuminate or go out with the opening and
 closing of the four doors.
 
 ### Interior light switch
-`forthing_u_tour_en_18940393` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:78 | doc_type:owners_manual
 
 When
 the
@@ -3140,7 +2945,6 @@ illuminate, and when the button pops up, the
 lamp will go out.
 
 ### The middle-row interior lights are
-`forthing_u_tour_en_a4feb9ee` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:78 | doc_type:owners_manual
 
 located below the middle-row handle. When
 the door control switch is parallel to the
@@ -3149,7 +2953,6 @@ middle-row interior lights is controlled by
 the middle-row interior light switch.
 
 ### Ambient lights can create a nighttime
-`forthing_u_tour_en_e9a5787f` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:78 | doc_type:owners_manual
 
 atmosphere inside the vehicle and assist
 with interior lighting.
@@ -3159,7 +2962,6 @@ tapping [Settings] - [Vehicle] - [Lights] on
 the display screen.
 
 ### The courtesy light is located below the
-`forthing_u_tour_en_dc80ec2d` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:79 | doc_type:owners_manual
 
 exterior rearview mirror of the vehicle and is
 used to illuminate the ground at night. When
@@ -3170,7 +2972,6 @@ light will illuminate; after the door is closed,
 the courtesy light will go out.
 
 ### Trunk light
-`forthing_u_tour_en_6fbe3647` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:79 | doc_type:owners_manual
 
 When the trunk lid is opened, the trunk
 light will illuminate automatically. After the
@@ -3179,7 +2980,6 @@ automatically.
 Wiper
 
 ### Front automatic wiper*
-`forthing_u_tour_en_173153b2` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:79 | doc_type:owners_manual
 
 MIST: inching. Pull the wiper control
 handle upwards to wipe the wiper once, and
@@ -3206,7 +3006,6 @@ position, the wiper will wipe automatically,
 and the sensitivity can be adjusted by
 
 ### Basic Function Operation
-`forthing_u_tour_en_c2d3b977` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:81 | doc_type:owners_manual
 
 From top to bottom, the sensitivity gradually
 increases and the wiping speed gradually
@@ -3220,7 +3019,6 @@ high-speed continuous wiping.
 Note
 
 ### AUTO position and the automatic wiping
-`forthing_u_tour_en_2c66cf8c` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:81 | doc_type:owners_manual
 
 function of wiper is activated, the wiper may
 wipe under the following conditions, which
@@ -3228,7 +3026,6 @@ is normal:
 
 
 ### Areas where the light changes
-`forthing_u_tour_en_60b3b3fa` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:81 | doc_type:owners_manual
 
 significantly, such as woods and
 overpasses.
@@ -3241,14 +3038,12 @@ as following large vehicles or passing
 through construction sections.
 
 ### Pull back and hold the wiper control
-`forthing_u_tour_en_fa5debc7` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:81 | doc_type:owners_manual
 
 handle, and the front windshield washer
 starts to spray water. At the same time, the
 front wiper performs low-speed wiping.
 
 ### Rear wiper
-`forthing_u_tour_en_a23fa064` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:81 | doc_type:owners_manual
 
 HI: High-speed wiping of rear wiper. Turn
 the rear end of the wiper control handle to
@@ -3260,7 +3055,6 @@ the LO position, and the rear wiper performs
 low-speed wiping.
 
 ### Push and hold the wiper control handle
-`forthing_u_tour_en_f184f49c` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:82 | doc_type:owners_manual
 
 forward, and the rear windshield washer
 starts to spray water. At the same time, the
@@ -3272,7 +3066,6 @@ position. This interface can be used for
 mobile phone charging.
 
 ### The rear USB interfaces are located in
-`forthing_u_tour_en_1c989fd2` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
 
 the storage compartments on the left and
 right sides of the rear row, for phone
@@ -3284,7 +3077,6 @@ cover the dust cover tightly.
 
 
 ### Do not insert metal foreign matters into
-`forthing_u_tour_en_c5872521` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:83 | doc_type:owners_manual
 
 the interface to avoid fire caused by short
 circuit.
@@ -3305,7 +3097,6 @@ fire.
 
 
 ### When plugging and unplugging the USB
-`forthing_u_tour_en_e3864b2c` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:83 | doc_type:owners_manual
 
 data cable, try not to tilt it in the same
 direction as the USB interface, avoiding
@@ -3319,7 +3110,6 @@ to avoid fire.
 
 
 ### Do not allow children to use or touch the
-`forthing_u_tour_en_e52f3b68` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:84 | doc_type:owners_manual
 
 12 V on-board power supply, and do not
 insert metal foreign matters into the
@@ -3334,7 +3124,6 @@ power socket to avoid fire caused by
 short circuit.
 
 ### The wireless charging device is located
-`forthing_u_tour_en_341d104e` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:84 | doc_type:owners_manual
 
 in the storage compartment
 under the
@@ -3363,7 +3152,6 @@ charging device.
 Running
 
 ### The charging mode is managed by the
-`forthing_u_tour_en_e2d5ff1b` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:84 | doc_type:owners_manual
 
 charging
 device.
@@ -3375,7 +3163,6 @@ the door is opened or the device being
 charged is moved.
 
 ### If the above conditions are met at the
-`forthing_u_tour_en_929f8957` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:85 | doc_type:owners_manual
 
 same time, the combination instrument will
 display
@@ -3394,13 +3181,11 @@ national wireless charging standards.
 
 
 ### The memory card slot of the vehicle
-`forthing_u_tour_en_00479d40` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:85 | doc_type:owners_manual
 
 travelling data recorder is located on the left
 side of the vehicle travelling data recorder.
 
 ### Pry up the plug on the left side of the
-`forthing_u_tour_en_8d6784c7` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:85 | doc_type:owners_manual
 
 vehicle travelling data recorder with a
 straight screwdriver to see the rubber plug of
@@ -3412,7 +3197,6 @@ face upward. After inserting the card,
 reinstall the rubber plug and fasten the plug.
 
 ### It is recommended that the new card be
-`forthing_u_tour_en_3e89a513` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:85 | doc_type:owners_manual
 
 formatted in the settings of the dash cam in
 the "AI Forthing" APP. The dash cam
@@ -3432,7 +3216,6 @@ enters the recording state.
 OFF
 
 ### When the Start/Stop switch is turned
-`forthing_u_tour_en_04f770bb` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:86 | doc_type:owners_manual
 
 from "ACC" or "ON" position to "OFF"
 position, the vehicle travelling data recorder
@@ -3446,7 +3229,6 @@ the status bar of the display screen. Specific
 meanings:
 
 ### Functional description
-`forthing_u_tour_en_5ff4f209` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:87 | doc_type:owners_manual
 
 1. Temperature adjustment knob: Turn this knob to adjust the interior temperature.
 2. Front defrosting button: Press this button to turn on or off the front windshield
@@ -3474,7 +3256,6 @@ A/C mode adjustment: Adjust the control ball to adjust the temperature inside th
 vehicle.
 
 ### Functional description
-`forthing_u_tour_en_d769c1ac` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:88 | doc_type:owners_manual
 
 1. Temperature adjustment knob: Turn this knob to adjust the interior temperature.
 2. AUTO button: Press this button, the A/C system will enter the full-automatic state from
@@ -3492,7 +3273,6 @@ ice on the rear windshield and exterior rearview mirrors. If it is not turned of
 turned on, this function will turn off automatically after 10~20 minutes.
 
 ### Basic Function Operation
-`forthing_u_tour_en_1617acc2` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:89 | doc_type:owners_manual
 
 6. Air volume adjustment knob: Rotate the knob to adjust the air volume at the air outlet. At
 the same time, the current air volume will be displayed on the display screen.
@@ -3512,7 +3292,6 @@ Maximum refrigeration switch (A/C MAX) button: Press this button to enter the
 maximum refrigeration mode, with the maximum air volume and the lowest temperature.
 
 ### Rear A/C control panel*
-`forthing_u_tour_en_5f813b13` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:89 | doc_type:owners_manual
 
 1. Rear air volume down button/OFF button: Press the button to adjust the air volume of the
 rear A/C. With each press, the air volume decreases by one level, with a total of five levels.
@@ -3524,7 +3303,6 @@ each press, the air volume increases by one level until it reaches fifth level.
 rear A/C display screen will display the current air volume.
 
 ### Front outlet
-`forthing_u_tour_en_a5db1080` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:90 | doc_type:owners_manual
 
 1. Side windshield defogging air outlet
 4. Front footwell air outlet
@@ -3534,7 +3312,6 @@ rear A/C display screen will display the current air volume.
 6. Left air outlet
 
 ### Adjustment of airflow and direction
-`forthing_u_tour_en_9a2c2961` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:91 | doc_type:owners_manual
 
 Turn
 the
@@ -3549,7 +3326,6 @@ grille in the middle of the air outlet up and
 down, left and right.
 
 ### Roll the roller up and down to open and
-`forthing_u_tour_en_4f967de3` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:91 | doc_type:owners_manual
 
 close the middle-row air outlet, and move
 the grille in the middle of the air outlet up
@@ -3562,7 +3338,6 @@ grille in the middle of the air outlet up and
 down, left and right.
 
 ### The air purification system can quickly
-`forthing_u_tour_en_a702445f` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:92 | doc_type:owners_manual
 
 reduce
 harmful
@@ -3578,7 +3353,6 @@ display screen, so as to achieve the best air
 purification effect.
 
 ### Notes to users
-`forthing_u_tour_en_52aec200` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:95 | doc_type:owners_manual
 
 1. When using the IVI system (hereinafter referred to as "system"), please carefully read the
 relevant operating instructions. If the system is damaged due to failure to follow the
@@ -3604,14 +3378,12 @@ network signals, the use of navigation and network functions may be affected. Af
 vehicle leaves these areas, network signals will automatically recover.
 
 ### IVI System
-`forthing_u_tour_en_f362725b` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:96 | doc_type:owners_manual
 
 Homepage
 Slide to the left in any space on the first page to enter the second page or slide to the
 right on the second page to return to the first page.
 
 ### Page 2
-`forthing_u_tour_en_2a8f3d9c` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:96 | doc_type:owners_manual
 
 1. Homepage button: Tap this button on any interface to return to the homepage.
 2. Voice assistant*: See the section "Voice Assistant" for details.
@@ -3619,7 +3391,6 @@ right on the second page to return to the first page.
 enter the application that is playing media.
 
 ### Description
-`forthing_u_tour_en_2c1c0c66` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:97 | doc_type:owners_manual
 
 Display A/C state, including blowing mode, heating
 and cooling mode. Tap to expand the A/C details page
@@ -3642,7 +3413,6 @@ Different configurations and system versions may change the content and position
 application. Please refer to the actual vehicle for accuracy.
 
 ### Shortcut menu of drop-down bar
-`forthing_u_tour_en_2b414262` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:98 | doc_type:owners_manual
 
 Slide down at the top of the display screen to bring up a shortcut menu in the drop-down
 bar.
@@ -3671,12 +3441,10 @@ Seat adjustment: Tap it to enter the seat adjustment interface.
 the vehicle's headlights.
 
 ### A/C Settings
-`forthing_u_tour_en_049b8805` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:99 | doc_type:owners_manual
 
 Tap any interface of the A/C panel or tap the A/C status bar to enter the A/C setting.
 
 ### Automatic A/C
-`forthing_u_tour_en_2acced93` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:99 | doc_type:owners_manual
 
 1. A/C mode adjustment (electric A/C).
 2. Anion, energy saving, rear A/C, heating functions can be turned on or off, depending on
@@ -3691,7 +3459,6 @@ A/C system button, internal/external circulation button, front defroster button,
 defroster button.
 
 ### IVI System
-`forthing_u_tour_en_7ce5c989` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:100 | doc_type:owners_manual
 
 8. A/C temperature adjustment (automatic A/C).
 9. Anion function and rear A/C can be switched on and off, depending on the configuration
@@ -3702,14 +3469,12 @@ cooling (A/C MAX) button, A/C system button, internal/external circulation butto
 defroster button, and rear defroster button.
 
 ### Models supporting seat heating and ventilation
-`forthing_u_tour_en_eff60576` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:100 | doc_type:owners_manual
 
 Models supporting seat heating, ventilation and massage
 1. Front-row/middle-row seat switch adjustment
 2. Heating function on/off and mode adjustment
 
 ### IVI System
-`forthing_u_tour_en_4550abce` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:101 | doc_type:owners_manual
 
 3. Ventilation function on/off and mode adjustment
 4. Switch between ventilation and heating and seat massage.
@@ -3718,7 +3483,6 @@ vehicle)
 6. Massage mode selection (only the driver's seat massage available for the vehicle)
 
 ### Voice assistant*
-`forthing_u_tour_en_ff0a1c28` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:101 | doc_type:owners_manual
 
 For models equipped with Future-Link IoV function, press the voice wake-up button on
 the steering wheel or say "Forthing Forthing" in the vehicle to wake up the voice assistant.
@@ -3735,7 +3499,6 @@ For example, you can say:
 More functions can be viewed on the help page of the voice assistant after it is woken
 
 ### Bluetooth phone
-`forthing_u_tour_en_b04e51ba` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:103 | doc_type:owners_manual
 
 Tap the [Telephone] icon on the main interface of the system to enter the Bluetooth
 telephone interface.
@@ -3745,7 +3508,6 @@ connect the Bluetooth of the mobile phone. Other operations can be carried out a
 successful connection.
 
 ### Call records
-`forthing_u_tour_en_79d4050b` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:103 | doc_type:owners_manual
 
 1. Return to the homepage: Tap it to return to the main interface of the system.
 2. Switch and view call records: Tap to switch all/missed call records.
@@ -3758,7 +3520,6 @@ a call.
 functions.
 
 ### Address book
-`forthing_u_tour_en_3bc8785a` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:104 | doc_type:owners_manual
 
 1. Address book search function.
 2. Address book list: Scroll up and down to view the address book, and tap any contact to
@@ -3767,7 +3528,6 @@ Dial
 Dial keyboard: support direct dialing and dialing to search for contacts.
 
 ### Roadside assistance
-`forthing_u_tour_en_88a76b11` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:105 | doc_type:owners_manual
 
 Road rescue: In case of emergency requiring road rescue, tap [Emergency Road Rescue]
 to directly call Forthing after-sales service hotline for road rescue.
@@ -3777,7 +3537,6 @@ Tap the [Multimedia] icon on the main interface of the system to enter the multi
 interface.
 
 ### IVI System
-`forthing_u_tour_en_5edc5bca` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:106 | doc_type:owners_manual
 
 1. Tap it to switch and use Tencent Smart*, Bluetooth music, USB music and USB video
 functions.
@@ -3800,7 +3559,6 @@ Bluetooth setting: When Bluetooth is not connected, tap Bluetooth setting to con
 Bluetooth if you want to enter Bluetooth music.
 
 ### USB music
-`forthing_u_tour_en_38a1de86` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:107 | doc_type:owners_manual
 
 1. List switching: Tap it to switch the music playlist/USB folder list.
 2. Music list: Scroll up and down to view the list, and tap the music file to play it.
@@ -3816,7 +3574,6 @@ switching.
 Fold full screen: Tap to fold the full screen display status.
 
 ### USB video
-`forthing_u_tour_en_bfc3caba` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:108 | doc_type:owners_manual
 
 1. Close video: Tap to close the current video.
 2. Video play list: Scroll up and down to view the list, and tap the video in the list to play.
@@ -3827,7 +3584,6 @@ progress.
 5. Back: Tap to back to the last interface.
 
 ### IVI System
-`forthing_u_tour_en_7e2239a6` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:109 | doc_type:owners_manual
 
 6. Video play area: Click to call out the play control, and double click to pause/play; scroll
 left and right to adjust the play progress; scroll up and down on the left side of the screen to
@@ -3838,7 +3594,6 @@ adjust the video play volume.
 video screen will not be displayed during driving, and other operations will not be affected.
 
 ### Tencent Smart*
-`forthing_u_tour_en_5fb25492` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:109 | doc_type:owners_manual
 
 1. Recommended content: Tencent Smart intelligently recommends online content based
 on user preference, and tap it to listen.
@@ -3850,7 +3605,6 @@ favorite online songs.
 6. Play control: Play/pause, previous/next song switching.
 
 ### IVI System
-`forthing_u_tour_en_01b1b1a2` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:110 | doc_type:owners_manual
 
 Radio
 Tap the [Radio] icon on the main interface of the system to enter the radio interface.
@@ -3863,7 +3617,6 @@ display/play/pause radio channels, and switch to the next radio station in the l
 6. Radio station list: Display the preset radio station/favorite radio station list.
 
 ### Travel assistance*
-`forthing_u_tour_en_89692f4d` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:111 | doc_type:owners_manual
 
 Tap the [Travel Assistance] icon on the main interface of the system to enter the travel
 assistance interface.
@@ -3878,7 +3631,6 @@ destination.
 6. Navigation map display area: Support sliding to view and zoom in/out the map.
 
 ### User personalized memory*
-`forthing_u_tour_en_cc1f2e50` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:112 | doc_type:owners_manual
 
 Swipe the main interface of the system to the right to pull out the user personalized
 memory interface, scan the QR code on the left side of the interface to log in, and display
@@ -3901,7 +3653,6 @@ addition, the seat or exterior rearview mirror status will also be automatically
 vehicle speed exceeds 20 km/h.
 
 ### Tap [
-`forthing_u_tour_en_dc2895d8` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:112 | doc_type:owners_manual
 
 ] to customize the name of the personalized memory, making it convenient for
 you to use different seat or exterior rearview mirror position information according to
@@ -3910,13 +3661,11 @@ Tap [Save Memory] to save the newly added personalized memory or overwrite the
 previous personalized memory.
 
 ### IVI System
-`forthing_u_tour_en_dd0f7beb` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:113 | doc_type:owners_manual
 
 Tap [Delete Memory] to selectively delete personalized memories.
 Tap the avatar to log out.
 
 ### Tap [
-`forthing_u_tour_en_dbee9b83` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:113 | doc_type:owners_manual
 
 ] to enter the message center to view the pushed messages.
 The message center includes operational messages, exception messages, system
@@ -3926,13 +3675,11 @@ tap the corresponding message title to view the detailed message. Tap [
 main message title interface.
 
 ### Mobile phone interconnection (only applicable to non-IoV models)
-`forthing_u_tour_en_489d7b2f` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:114 | doc_type:owners_manual
 
 Tap the [Mobile Phone Interconnection] icon on the main interface of the system to
 enter the mobile phone interconnection interface.
 
 ### Connection mode for mobile phone interconnection
-`forthing_u_tour_en_c1a10bf6` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:114 | doc_type:owners_manual
 
 USB
 connection
@@ -3951,7 +3698,6 @@ system is connected to the mobile phone hotspot, turn on "Driving Partner"
 and follow the system prompts to connect successfully.
 
 ### IVI System
-`forthing_u_tour_en_959bc936` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:115 | doc_type:owners_manual
 
 Online
 navigation
@@ -3965,13 +3711,11 @@ Himalaya
 Himalayan online radio, tap to use
 
 ### Mobile phone interconnection screen projection function: Tap to add a
-`forthing_u_tour_en_6d66e1cc` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:115 | doc_type:owners_manual
 
 mobile phone application. After adding, the mobile phone application
 screen projection can be realized on the IVI terminal
 
 ### Description of special circumstance for mobile phone interconnection
-`forthing_u_tour_en_e8e64716` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:115 | doc_type:owners_manual
 
 To ensure the connection reliability, when using WiFi for mobile phone interconnection,
 please set the AP frequency band from 2.4 Ghz to 5.0 Ghz in the mobile phone hotspot
@@ -3979,14 +3723,12 @@ settings. If the mobile phone frequency band does not support the 5.0 GHz, it is
 recommended to use USB connection for mobile phone interconnection.
 
 ### IVI System
-`forthing_u_tour_en_a9bba8b2` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:116 | doc_type:owners_manual
 
 When using mobile phone interconnection for screen projection, if the projection is not
 clear, tap the "Driving Partner" APP and change the screen mapping coding mode from hard
 coding to soft coding in the settings.
 
 ### Inspection and maintenance
-`forthing_u_tour_en_33a65ba1` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:116 | doc_type:owners_manual
 
 Tap the [Inspection and Maintenance] icon on the main interface of the system to enter
 the inspection and maintenance interface.
@@ -4001,7 +3743,6 @@ issues.
 station.
 
 ### Maintenance function
-`forthing_u_tour_en_357d0cd5` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:117 | doc_type:owners_manual
 
 1. Maintenance details: Switch to view the maintenance details corresponding to different
 mileage.
@@ -4009,7 +3750,6 @@ mileage.
 3. Maintenance appointment: Make a phone call to make an appointment for maintenance.
 
 ### Data Mall
-`forthing_u_tour_en_01869ef1` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:117 | doc_type:owners_manual
 
 Tap the [Data Mall] icon on the main interface of the system to enter the data mall
 interface.
@@ -4020,7 +3760,6 @@ interface.
 left and right to view more types of data packages.
 
 ### Purchase history
-`forthing_u_tour_en_4d4eeec3` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:118 | doc_type:owners_manual
 
 Slide up and down to view the purchase history data of data packages. Tap [Effective
 Range of Data Package] to view the effective range of data package.
@@ -4028,7 +3767,6 @@ Settings
 Tap the [Settings] icon on the main interface of the system to enter the setting interface.
 
 ### General settings
-`forthing_u_tour_en_24e8d236` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:118 | doc_type:owners_manual
 
 1. Tap to switch to view and adjust general settings, connection settings, vehicle settings
 and system settings.
@@ -4036,7 +3774,6 @@ and system settings.
 Module
 
 ### Included functions
-`forthing_u_tour_en_a905f32b` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:118 | doc_type:owners_manual
 
 Display
 Screen brightness, day/night mode, video warning during driving,
@@ -4045,7 +3782,6 @@ Sound
 Phone volume, navigation volume, and button prompt tone
 
 ### Included functions
-`forthing_u_tour_en_eca9f627` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:119 | doc_type:owners_manual
 
 Lighting*
 Ambient light brightness adjustment, ambient light color
@@ -4061,7 +3797,6 @@ adjustment, rearview mirror flipping during reversing, steering feel
 mode setting, and customization of steering wheel buttons
 
 ### Driver assistance*
-`forthing_u_tour_en_adb1d045` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:120 | doc_type:owners_manual
 
 Adaptive high/low beam switch, automatic emergency braking
 (AEB) system switch, intelligent traffic sign recognition (TSR)
@@ -4076,7 +3811,6 @@ temperature adjustment, automatic seat ventilation activation,
 automatic seat ventilation with temperature adjustment
 
 ### System settings
-`forthing_u_tour_en_a3fd14fc` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:120 | doc_type:owners_manual
 
 System settings include: open font protocol, software upgrade, restoring factory
 settings, and resetting wireless terminals.
@@ -4091,7 +3825,6 @@ operation and legend are subject to the
 actually downloaded version.
 
 ### Tap to enter your phone number and
-`forthing_u_tour_en_0319a8b3` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:121 | doc_type:owners_manual
 
 agree with the user agreement and privacy
 policy to send a verification code, and enter
@@ -4104,7 +3837,6 @@ vehicle is added, add your vehicle first. Tap
 page for adding the vehicle.
 
 ### Tap [Add now] or tap the QR
-`forthing_u_tour_en_8c6a19bf` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:121 | doc_type:owners_manual
 
 code icon in the upper left corner to add a
 vehicle, and the QR code scanning box will
@@ -4115,7 +3847,6 @@ display screen with the mobile phone to bind
 the vehicle.
 
 ### Real name authentication
-`forthing_u_tour_en_d929a584` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:122 | doc_type:owners_manual
 
 After the vehicle binding is completed,
 it will jump to the real name authentication
@@ -4133,7 +3864,6 @@ authentication page.
 and ID number.
 
 ### IVI System
-`forthing_u_tour_en_1de5f1b1` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:123 | doc_type:owners_manual
 
 3. After confirmation, tap [Next].
 4. Upload the photos of the front, back
@@ -4146,7 +3876,6 @@ IVI System
 completed, wait for approval.
 
 ### The page will be directly displayed at the
-`forthing_u_tour_en_b510d851` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:125 | doc_type:owners_manual
 
 next login of the account after real name
 authentication,
@@ -4175,7 +3904,6 @@ function.
 3.
 
 ### Vehicle state: Display the current
-`forthing_u_tour_en_ffd465c5` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:125 | doc_type:owners_manual
 
 vehicle state. The text at the bottom will
 display the vehicle remaining mileage.
@@ -4193,7 +3921,6 @@ your finger to refresh to view the latest
 vehicle information.
 
 ### The remote vehicle control includes
-`forthing_u_tour_en_a0cfa869` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:126 | doc_type:owners_manual
 
 four functions: [Bluetooth key], [Door lock],
 [Window] and [Start]. Due to different
@@ -4205,7 +3932,6 @@ needs to be entered when the remote vehicle
 control is used.
 
 ### Bluetooth key
-`forthing_u_tour_en_47087383` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:126 | doc_type:owners_manual
 
 [Bluetooth key], a digital vehicle key
 installed in a smartphone that can control the
@@ -4218,7 +3944,6 @@ in your absence, or starting a vehicle with a
 virtual key.
 
 ### Before activating and using the
-`forthing_u_tour_en_066e4f4d` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:126 | doc_type:owners_manual
 
 Bluetooth key service, please carefully read
 and ensure that you have fully understood
@@ -4226,7 +3951,6 @@ the instructions on the page.
 2.
 
 ### After activating the Bluetooth
-`forthing_u_tour_en_13bfe0b2` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:126 | doc_type:owners_manual
 
 key service, please follow the instructions in
 the User Manual and Warranty Manual. If
@@ -4236,7 +3960,6 @@ Dongfeng Forthing for inspection.
 3.
 
 ### Some models of smartphones
-`forthing_u_tour_en_0c943c05` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:126 | doc_type:owners_manual
 
 may have incompatibilities with Bluetooth
 keys, which may be due to differences in
@@ -4255,7 +3978,6 @@ factors, and compatibility issues are not
 within our service commitment.
 
 ### The compatibility of smartphones
-`forthing_u_tour_en_f1f1b552` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:127 | doc_type:owners_manual
 
 and environmental interference can affect
 the keyless entry and start function of
@@ -4285,7 +4007,6 @@ such as the phone and the environment.
 5.
 
 ### When the vehicle power mode is
-`forthing_u_tour_en_4a4e4406` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:127 | doc_type:owners_manual
 
 adjusted to a mode other than OFF with the
 engine
@@ -4313,7 +4034,6 @@ used, the doors must be closed.
 6.
 
 ### Bluetooth key (such as authorized Bluetooth
-`forthing_u_tour_en_85eabfc8` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:127 | doc_type:owners_manual
 
 key) is inside the vehicle, the automatic
 locking after leaving the vehicle, door
@@ -4334,7 +4054,6 @@ reconnect.
 (2)
 
 ### Confirm whether there is any
-`forthing_u_tour_en_966ecbf9` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:127 | doc_type:owners_manual
 
 other mobile phone connected to the vehicle.
 If so, disconnect the other phones and
@@ -4342,7 +4061,6 @@ reconnect.
 (3)
 
 ### If the surrounding mobile phone
-`forthing_u_tour_en_fd988271` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:127 | doc_type:owners_manual
 
 connection cannot be confirmed, and there
 are no
@@ -4355,7 +4073,6 @@ tap [Reset Bluetooth key] switch in APP
 [My] - [Vehicle management] to release the
 
 ### Bluetooth pairing between the mobile phone
-`forthing_u_tour_en_246f7433` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:127 | doc_type:owners_manual
 
 and the vehicle, and then tap [Bluetooth key]
 again to complete the pairing.
@@ -4388,7 +4105,6 @@ iPhone Xs Max
 iPhone 11
 
 ### After the agreement is agreed
-`forthing_u_tour_en_bcd34fcc` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:128 | doc_type:owners_manual
 
 with, it returns to the vehicle information
 interface, and then tap [Bluetooth key].
@@ -4419,7 +4135,6 @@ activation].
 6.
 
 ### When the vehicle Bluetooth is first
-`forthing_u_tour_en_9b0628db` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:129 | doc_type:owners_manual
 
 connected to the mobile phone Bluetooth,
 pairing is required. Enter the [Pairing code]
@@ -4431,7 +4146,6 @@ the vehicle, it can replace the vehicle key to
 unlock, lock, and start the vehicle.
 
 ### Bluetooth key leaves the vehicle] in the
-`forthing_u_tour_en_ad4703ac` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:129 | doc_type:owners_manual
 
 display screen [Settings] - [Vehicle] -
 [Accessories]. After the Bluetooth key is
@@ -4441,7 +4155,6 @@ locked after you leave the vehicle with the
 Bluetooth key for a distance.
 
 ### Bluetooth vehicle control
-`forthing_u_tour_en_a52b9ddc` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:129 | doc_type:owners_manual
 
 After successful Bluetooth pairing, tap
 [Bluetooth key] function icon, and the icon
@@ -4451,7 +4164,6 @@ remote vehicle control to Bluetooth vehicle
 control.
 
 ### Forthing" APP to check the vehicle state and
-`forthing_u_tour_en_b1e0ddcb` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:130 | doc_type:owners_manual
 
 remotely control the vehicle door locks
 through the door lock function.
@@ -4459,7 +4171,6 @@ Select vehicle door [Lock] or [Unlock].
 Select trunk lid [Open] or [Close].
 
 ### Open the "AI Forthing" APP to check
-`forthing_u_tour_en_1d743596` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:131 | doc_type:owners_manual
 
 whether
 the
@@ -4479,7 +4190,6 @@ or
 [Close].
 
 ### The vehicle remote start includes four
-`forthing_u_tour_en_d148ce7c` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:132 | doc_type:owners_manual
 
 functional
 items:
@@ -4490,7 +4200,6 @@ and three time options: [5 min], [10 min],
 and [15 min].
 
 ### To use the remote temperature control
-`forthing_u_tour_en_83f6f30f` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:132 | doc_type:owners_manual
 
 function, tap [Remote heating] or [Remote
 cooling] to remotely start the vehicle for
@@ -4512,7 +4221,6 @@ vehicle control function when the vehicle is
 not in "ON" position.
 
 ### After the vehicle is shut down and the
-`forthing_u_tour_en_57d07957` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:133 | doc_type:owners_manual
 
 doors are locked, if it is detected that there
 are still passengers in the rear row, a prompt
@@ -4525,7 +4233,6 @@ reduced to a red prompt. Tap it to re-enter
 the prompt box interface.
 
 ### The system will synchronously send a
-`forthing_u_tour_en_985f2806` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:134 | doc_type:owners_manual
 
 short message to the owner's mobile phone
 to remind him/her that there are still
@@ -4543,7 +4250,6 @@ operations and pushed alarm information
 can be viewed.
 
 ### Location information
-`forthing_u_tour_en_3c49936b` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:136 | doc_type:owners_manual
 
 If you don't know where your vehicle is,
 open the "AI Forthing" APP to get the
@@ -4560,14 +4266,12 @@ you can quickly find your vehicle in a
 parking lot with good network.
 
 ### Trip history
-`forthing_u_tour_en_013b72cc` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:136 | doc_type:owners_manual
 
 Through the trip history, you can see
 the trip track of your vehicle in a certain
 period of time.
 
 ### Dash cam can only be used if the
-`forthing_u_tour_en_f8ac1d1d` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:137 | doc_type:owners_manual
 
 vehicle is equipped with a dash cam when it
 leaves the factory. To use the function, the
@@ -4577,7 +4281,6 @@ dash cam hotspot near the vehicle before it
 can be used.
 
 ### Tap [Dash cam]
-`forthing_u_tour_en_f4967781` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:137 | doc_type:owners_manual
 
 to jump
 to the
@@ -4597,14 +4300,12 @@ control of the dash cam for [Recording],
 videos taken are saved on your phone.
 
 ### You can choose to view the files of the
-`forthing_u_tour_en_41065c3a` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:138 | doc_type:owners_manual
 
 dash cam in the memory card. Tap the
 videos or photos in the memory card to save
 them to [Mobile phone album].
 
 ### The file information saved from the
-`forthing_u_tour_en_e27aa72c` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:139 | doc_type:owners_manual
 
 dashcam to the mobile phone can be viewed
 in [Mobile phone album].
@@ -4643,7 +4344,6 @@ frequency
 band], etc.
 
 ### Latest topics
-`forthing_u_tour_en_e18fd722` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:140 | doc_type:owners_manual
 
 In the "Latest topics" column, some
 interesting articles can be found, including
@@ -4664,13 +4364,11 @@ reminder], [About], [Help center] and other
 functions.
 
 ### Account management
-`forthing_u_tour_en_ac9350b7` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:141 | doc_type:owners_manual
 
 Tap [Avatar] to modify the nickname,
 change the avatar and log out of the account.
 
 ### Vehicle management
-`forthing_u_tour_en_20a34dde` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:141 | doc_type:owners_manual
 
 In vehicle management, you can view
 the
@@ -4693,7 +4391,6 @@ contact
 person], etc.
 
 ### View the current APP version and
-`forthing_u_tour_en_8e3e9aee` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:142 | doc_type:owners_manual
 
 various protocols. Tap [Update version] to
 update the APP to the latest version.
@@ -4704,13 +4401,11 @@ slots for storing water cups and other
 articles.
 
 ### The dashboard is equipped with a
-`forthing_u_tour_en_a3267444` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:145 | doc_type:owners_manual
 
 storage box, which can be opened by pulling
 the tongue and closed by pushing it back.
 
 ### Upper storage compartment of auxiliary
-`forthing_u_tour_en_c6b9f6dc` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:146 | doc_type:owners_manual
 
 dashboard
 The
@@ -4737,7 +4432,6 @@ press the cover plate until a "click" sound is
 heard.
 
 ### A storage slot is provided at the lower
-`forthing_u_tour_en_038d082b` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:146 | doc_type:owners_manual
 
 part of the auxiliary dashboard to store small
 items such as mobile phones and keys.
@@ -4750,7 +4444,6 @@ to open it, and push the handle forward to
 close it.
 
 ### There is a storage compartment located
-`forthing_u_tour_en_3d4b448e` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:146 | doc_type:owners_manual
 
 below the rear of the auxiliary dashboard,
 where you can store items such as mobile
@@ -4762,7 +4455,6 @@ beverage bottles and other items for easy use
 during travel.
 
 ### There are tray tables and cup holders at
-`forthing_u_tour_en_b0b6788f` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:148 | doc_type:owners_manual
 
 the back of the front-row seats. Press the
 release button on the back of the seat to
@@ -4777,7 +4469,6 @@ passengers from getting hurt due to item
 inertia overturning.
 
 ### The magazine bag is located on the
-`forthing_u_tour_en_8f850057` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:148 | doc_type:owners_manual
 
 back of the front and middle-row seat and
 used for placing small objects such as
@@ -4789,7 +4480,6 @@ case to slowly open it, and push the front
 end of the glasses case back to close it.
 
 ### Turn the sun visor downward to block
-`forthing_u_tour_en_229c41ed` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:149 | doc_type:owners_manual
 
 the front sunlight. To block the side sunlight,
 disengage the left/right support rod from the
@@ -4801,7 +4491,6 @@ visor and push the vanity mirror cover to the
 left/right for use.
 
 ### The middle part of the dashboard is
-`forthing_u_tour_en_4cfe1364` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:149 | doc_type:owners_manual
 
 provided with a mobile phone bracket
 interface, which is convenient for use during
@@ -4813,7 +4502,6 @@ be unfolded by pressing the groove and
 retracted by pressing the rib.
 
 ### Do not hang hangers or other hard objects
-`forthing_u_tour_en_0c10e894` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:150 | doc_type:owners_manual
 
 on the coat hooks. When the side curtain
 airbag deploys, these items may be ejected
@@ -4826,7 +4514,6 @@ Restore cruise control function...180
 Change the set vehicle speed......180
 
 ### ACC position: With the vehicle in "OFF"
-`forthing_u_tour_en_70a6459b` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:154 | doc_type:owners_manual
 
 position, press the Start/Stop switch without
 depressing the brake pedal, and the vehicle
@@ -4835,7 +4522,6 @@ the IVI system and other related functions
 can be used.
 
 ### ON position: When the vehicle is in "ACC"
-`forthing_u_tour_en_5074a5da` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:154 | doc_type:owners_manual
 
 position, press the Start/Stop switch without
 depressing the brake pedal, and the vehicle
@@ -4846,7 +4532,6 @@ again, and the vehicle will return to the
 "OFF" position.
 
 ### START gear: The gear after the vehicle is
-`forthing_u_tour_en_95d0d53e` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:154 | doc_type:owners_manual
 
 started. When the Start/Stop switch is in the
 "OFF/ON/ACC" position, depress the brake
@@ -4855,7 +4540,6 @@ will turn green. After confirming that the
 gearshift lever is in P/N position, press the
 
 ### Get into the vehicle with a smart
-`forthing_u_tour_en_a8851c48` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:154 | doc_type:owners_manual
 
 key that matches the vehicle. When the
 gearshift lever is in P/N position, depress the
@@ -4871,7 +4555,6 @@ switch and release it promptly after the
 engine is started.
 
 ### When the battery of the smart key is
-`forthing_u_tour_en_74d8664d` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:154 | doc_type:owners_manual
 
 too low or runs out, you can use the
 mechanical key inside the smart key to open
@@ -4882,7 +4565,6 @@ depress the brake pedal and press the
 Start/Stop switch at the same time.
 
 ### If there is no problem with the
-`forthing_u_tour_en_d33adc6b` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:154 | doc_type:owners_manual
 
 battery terminal, please turn on the interior
 light. During engine start, if the interior
@@ -4894,7 +4576,6 @@ please contact the authorized service station
 of Dongfeng Forthing.
 
 ### Comfortable Driving
-`forthing_u_tour_en_85eeb36d` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:155 | doc_type:owners_manual
 
 Note
 
@@ -4908,7 +4589,6 @@ recommended to preheat the engine for
 several minutes before driving.
 
 ### Press the Start/Stop switch to shut
-`forthing_u_tour_en_b71c54cc` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:155 | doc_type:owners_manual
 
 down the engine.
 3.
@@ -4922,7 +4602,6 @@ times within 2s to urgently shut down the
 engine.
 
 ### The automatic start-stop system is
-`forthing_u_tour_en_b823ab8f` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:155 | doc_type:owners_manual
 
 suitable for areas with altitude below 2600
 m. Its purpose is to reduce fuel consumption,
@@ -4947,7 +4626,6 @@ the engine will automatically start.
 3.
 
 ### After the engine automatically
-`forthing_u_tour_en_a4dfd814` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:155 | doc_type:owners_manual
 
 stops in D gear, when the automatic vehicle
 hold is turned on or the parking brake is
@@ -4964,7 +4642,6 @@ shut down the engine.
 
 
 ### Even if the vehicle is equipped with the
-`forthing_u_tour_en_82abe289` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:155 | doc_type:owners_manual
 
 automatic start-stop system, the parking
 brake must be applied when the vehicle is
@@ -4972,7 +4649,6 @@ parked on a slope to prevent it from slipping.
 
 
 ### If the vehicle is parked for a long time in
-`forthing_u_tour_en_7cc27142` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:155 | doc_type:owners_manual
 
 extremely cold outdoor weather, the engine
 shall run for a long time to raise the internal
@@ -4982,7 +4658,6 @@ to work normally.
 
 
 ### If the vehicle runs for a long time in an
-`forthing_u_tour_en_5b707340` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:155 | doc_type:owners_manual
 
 environment with poor heat dissipation, the
 battery temperature may be higher than the
@@ -5002,7 +4677,6 @@ required force.
 
 
 ### Before opening the engine hood or
-`forthing_u_tour_en_fea8792a` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:155 | doc_type:owners_manual
 
 performing any maintenance, turn the
 one-button Start/Stop switch to "OFF" to
@@ -5029,7 +4703,6 @@ system fault
 Red
 
 ### The automatic start-stop system will
-`forthing_u_tour_en_771534e1` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:156 | doc_type:owners_manual
 
 not
 be
@@ -5083,7 +4756,6 @@ are activated.
 Excessive steering wheel angle.
 
 ### It may take some time for the automatic
-`forthing_u_tour_en_039be174` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:156 | doc_type:owners_manual
 
 start-stop system to be enabled under the
 following conditions:
@@ -5121,7 +4793,6 @@ enabled.
 operation.
 
 ### Comfortable Driving
-`forthing_u_tour_en_50782f1b` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:157 | doc_type:owners_manual
 
 The vehicle is about to slide.
 The battery level drops.
@@ -5131,7 +4802,6 @@ vacuum booster decreases to the specified
 value.
 
 ### Start/Stop system switch
-`forthing_u_tour_en_17ef0a45` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:157 | doc_type:owners_manual
 
 After
 the
@@ -5152,7 +4822,6 @@ automatic start-stop function. Press the
 switch again or restart the engine with the
 
 ### Start/Stop switch to enable the automatic
-`forthing_u_tour_en_5f4bee0e` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:157 | doc_type:owners_manual
 
 start-stop system.
 After the engine automatically stops,
@@ -5167,7 +4836,6 @@ turned on with the automatic start-stop
 system switch.
 
 ### Crystal gearshift lever
-`forthing_u_tour_en_462ba8bf` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:157 | doc_type:owners_manual
 
 1. Gear unlocking button
 2. P gear button
@@ -5183,7 +4851,6 @@ parked or placed in a state ready to drive.
 Press the P gear button to enter the P gear.
 
 ### The R gear can only be engaged when
-`forthing_u_tour_en_9214992e` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:158 | doc_type:owners_manual
 
 the vehicle is started. Use this gear when
 reversing. Be sure to stop the vehicle
@@ -5201,7 +4868,6 @@ assistance. Be sure to stop the vehicle
 completely before shifting to N gear.
 
 ### M gear (manual mode)
-`forthing_u_tour_en_1b76ec70` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:158 | doc_type:owners_manual
 
 In the manual mode, the driver can
 independently
@@ -5213,7 +4879,6 @@ according to road conditions and driving
 habits to enjoy the driving.
 
 ### Shifting method
-`forthing_u_tour_en_d1ddc84e` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:158 | doc_type:owners_manual
 
 Keep
 the
@@ -5231,7 +4896,6 @@ position, and the gears are arranged from
 front to back in R-N-D order.
 
 ### Shift to P gear
-`forthing_u_tour_en_2bfd7e68` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:158 | doc_type:owners_manual
 
 After the vehicle completely stops,
 press the P gear button to enter the P gear.
@@ -5243,7 +4907,6 @@ depressing the brake pedal, and push the
 gearshift lever upward to the R position.
 
 ### P to N: Press the gear unlocking button
-`forthing_u_tour_en_9910181a` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:158 | doc_type:owners_manual
 
 (if equipped) while depressing the brake
 pedal,
@@ -5270,7 +4933,6 @@ the gearshift lever upward/downward to
 increase/decrease the gear.
 
 ### Description of shifting conditions
-`forthing_u_tour_en_f4703301` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:158 | doc_type:owners_manual
 
 1.
 When the vehicle is not started,
@@ -5293,7 +4955,6 @@ the gearshift lever rightward to D position
 and then shift gears.
 
 ### Crawling function (creeping)
-`forthing_u_tour_en_4b187628` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:159 | doc_type:owners_manual
 
 After the vehicle is started, shift the
 gearshift lever to the driving position (D or
@@ -5319,7 +4980,6 @@ Hill start:
 1.
 
 ### Slowly depress the accelerator
-`forthing_u_tour_en_90a6fa1e` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:159 | doc_type:owners_manual
 
 pedal, and release the EPB switch after
 feeling that the vehicle has a forward trend,
@@ -5336,7 +4996,6 @@ Pull up EPB switch.
 4.
 
 ### When it is necessary to stop the vehicle
-`forthing_u_tour_en_3a16f4af` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:159 | doc_type:owners_manual
 
 temporarily on a slope (with the driver in the
 vehicle), always depress the brake pedal or
@@ -5348,7 +5007,6 @@ be damaged.
 
 
 ### When it is necessary to park the vehicle
-`forthing_u_tour_en_cc86fa00` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:159 | doc_type:owners_manual
 
 on a slope for a long time (with the driver
 not in the vehicle), if the slope is steep,
@@ -5363,7 +5021,6 @@ otherwise, the automatic transmission may
 overheat or fail.
 
 ### Driving mode switching
-`forthing_u_tour_en_f39645d7` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:159 | doc_type:owners_manual
 
 When the vehicle is started, the driving
 mode is "Normal" by default. Press the
@@ -5379,7 +5036,6 @@ experience. It is suitable for flat roads with
 few vehicles.
 
 ### Economy mode (ECO)
-`forthing_u_tour_en_2d706e50` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:160 | doc_type:owners_manual
 
 With improved vehicle fuel economy,
 the mode is applicable to urban roads,
@@ -5391,14 +5047,12 @@ complete manual parking, and the parking
 status indicator will illuminate.
 
 ### Release: Depress the brake pedal and press
-`forthing_u_tour_en_bac4f765` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:160 | doc_type:owners_manual
 
 the EPB switch at the same time, the parking
 brake will be released, and the parking
 status indicator will go out.
 
 ### This function can only be used when
-`forthing_u_tour_en_8435944d` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:160 | doc_type:owners_manual
 
 the brake pedal fails or is blocked. Pull up
 the EPB switch continuously to realize
@@ -5409,7 +5063,6 @@ be withdrawn.
 Warning
 
 ### The use of emergency brake function shall
-`forthing_u_tour_en_708de93e` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:160 | doc_type:owners_manual
 
 be avoided as far as possible. On roads with
 large bending, poor road conditions or
@@ -5418,7 +5071,6 @@ braking function may lead to drifting and
 sideslip of the vehicle.
 
 ### The AUTO HOLD function can help
-`forthing_u_tour_en_52db4e7e` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:160 | doc_type:owners_manual
 
 the
 driver
@@ -5436,7 +5088,6 @@ releases the brake pedal at the scope start or
 traffic light intersection.
 
 ### Comfortable Driving
-`forthing_u_tour_en_ad6e3068` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:161 | doc_type:owners_manual
 
 Turn-on conditions of AUTO HOLD:
 The engine is started.
@@ -5444,7 +5095,6 @@ Turn-on conditions of AUTO HOLD:
 All vehicle doors are closed.
 
 ### Turn on AUTO HOLD function
-`forthing_u_tour_en_8770400b` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:161 | doc_type:owners_manual
 
 Press the AUTO HOLD switch to
 turn on the AUTO HOLD function, and the
@@ -5469,7 +5119,6 @@ automatically release the parking brake.
 Otherwise, the vehicle may fail to start.
 
 ### Turn off AUTO HOLD function
-`forthing_u_tour_en_d55e0c11` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:161 | doc_type:owners_manual
 
 When the AUTO HOLD function is
 turned on, press the AUTO HOLD switch to
@@ -5488,7 +5137,6 @@ automatically exit and be converted to EPB
 parking to ensure parking safety.
 
 ### Traction control system (TCS)
-`forthing_u_tour_en_5ee20897` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:161 | doc_type:owners_manual
 
 During vehicle running, the traction
 control system (TCS) reduces wheel slip in
@@ -5497,7 +5145,6 @@ engine and applying appropriate braking to
 the driving wheels.
 
 ### Open and close the fuel filler cap
-`forthing_u_tour_en_9ddccc03` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:161 | doc_type:owners_manual
 
 Open
 With the door unlocked, press the
@@ -5509,7 +5156,6 @@ the central door lock button or the smart key
 lock button to lock the fuel filler cap.
 
 ### Fill the fuel
-`forthing_u_tour_en_21e3ccc7` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:162 | doc_type:owners_manual
 
 Rotate
 the
@@ -5526,7 +5172,6 @@ keep the vehicle away from heat sources and
 open flames.
 
 ### After the refueling gun is automatically
-`forthing_u_tour_en_0e135a6b` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:162 | doc_type:owners_manual
 
 closed for the first time, refueling shall be
 stopped. At this time, there is a certain space
@@ -5537,7 +5182,6 @@ environment, fuel expansion will cause fuel
 leakage.
 
 ### Special attention shall be paid to the
-`forthing_u_tour_en_395968c5` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:162 | doc_type:owners_manual
 
 driving mode within the mileage of 1,000
 km of the new vehicle, which will help to
@@ -5545,7 +5189,6 @@ ensure the reliability of the vehicle and
 prolong the service life of the vehicle.
 
 ### Observe the following precautions in this
-`forthing_u_tour_en_36c296a2` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:162 | doc_type:owners_manual
 
 stage:
 Avoid driving the vehicle under full
@@ -5558,13 +5201,11 @@ tow other vehicles.
 under different working conditions.
 
 ### Driving at night is more dangerous
-`forthing_u_tour_en_b1118447` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:162 | doc_type:owners_manual
 
 than driving at daytime, mainly because of
 poor visibility at night and fatigue of drivers.
 
 ### Please pay attention to the following matters
-`forthing_u_tour_en_56050649` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:162 | doc_type:owners_manual
 
 when driving at night:
 Never
@@ -5591,7 +5232,6 @@ roadside in time for rest.
 dazzling lights and obstructing sight.
 
 ### Driving under the influence
-`forthing_u_tour_en_36723384` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:162 | doc_type:owners_manual
 
 Never drive while under the influence.
 Driving
@@ -5609,7 +5249,6 @@ reaction,
 perception, attention and judgment.
 
 ### Driving under the influence can lead not
-`forthing_u_tour_en_56706476` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:163 | doc_type:owners_manual
 
 only to accidents but also serious personal
 injuries. The traffic department will impose
@@ -5623,7 +5262,6 @@ the
 provisions of the Road Traffic Safety Law.
 
 ### In order to avoid damaging the vehicle
-`forthing_u_tour_en_3bdd60cc` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:163 | doc_type:owners_manual
 
 when driving through water, pay attention to
 the following matters:
@@ -5643,7 +5281,6 @@ Note
 
 
 ### The braking effect may be affected and
-`forthing_u_tour_en_a615973f` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:163 | doc_type:owners_manual
 
 the braking distance may be prolonged
 when the vehicle passes through
@@ -5652,7 +5289,6 @@ cause accidents!
 
 
 ### Avoid rapid acceleration or emergency
-`forthing_u_tour_en_b7948ae1` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:163 | doc_type:owners_manual
 
 braking immediately after driving through
 water.
@@ -5670,7 +5306,6 @@ traffic participants to avoid traffic accidents.
 
 
 ### The waves caused by the opposite
-`forthing_u_tour_en_8bb7ab69` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:163 | doc_type:owners_manual
 
 vehicle may exceed the allowable water
 height of the vehicle.
@@ -5682,7 +5317,6 @@ through water.
 
 
 ### Try to avoid driving on roads with
-`forthing_u_tour_en_866e9c6e` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:163 | doc_type:owners_manual
 
 significant water accumulation. After
 driving through areas with substantial water,
@@ -5693,14 +5327,12 @@ identify any potential issues, ensuring road
 safety.
 
 ### Long-distance driving
-`forthing_u_tour_en_28899a26` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:163 | doc_type:owners_manual
 
 Before long-distance driving, please
 make sure that relevant preparations are
 made and try to have a good rest.
 
 ### Please check the following components
-`forthing_u_tour_en_03378f40` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:163 | doc_type:owners_manual
 
 of the vehicle before traveling:
 Check whether the washer fluid
@@ -5722,7 +5354,6 @@ whether all tires have been inflated to the
 recommended air pressure value.
 
 ### Please pay attention to the following
-`forthing_u_tour_en_66af4aad` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:164 | doc_type:owners_manual
 
 items when driving in rainy days:
 Heavy rain will make the sight worse
@@ -5755,7 +5386,6 @@ depress the brake pedal to dry the brake
 when driving at a low speed.
 
 ### Driving on slopes and mountainous roads
-`forthing_u_tour_en_f421947b` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:164 | doc_type:owners_manual
 
 When
 driving
@@ -5787,7 +5417,6 @@ take
 appropriate measures during driving.
 
 ### Driving on icy and snowy road
-`forthing_u_tour_en_a4f2f4e0` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:165 | doc_type:owners_manual
 
 When driving in snow, use snow tires
 as much as possible. Please select snow tires
@@ -5802,7 +5431,6 @@ braking will cause the vehicle to drift.
 Please keep a safe distance.
 
 ### Harsh driving environment in winter
-`forthing_u_tour_en_dd90caeb` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 will increase vehicle wear or cause vehicle
 failure. The probability of failure can be
@@ -5834,7 +5462,6 @@ emergency
 equipment according to weather changes.
 
 ### The electric power steering system can
-`forthing_u_tour_en_1a6fa15b` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:165 | doc_type:owners_manual
 
 provide power during driving, so that the
 driver can turn the steering wheel easily.
@@ -5853,7 +5480,6 @@ modes:
 comfort, normal and sports.
 
 ### During parking or driving at a very low
-`forthing_u_tour_en_d609d5e7` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:166 | doc_type:owners_manual
 
 speed, if the steering wheel is repeatedly and
 continuously turned or turned to the end for
@@ -5866,7 +5492,6 @@ operations.
 
 
 ### When turning the steering wheel
-`forthing_u_tour_en_fb64cd3b` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:166 | doc_type:owners_manual
 
 quickly, you may hear the working sound of
 the power steering assist motor, which is a
@@ -5875,7 +5500,6 @@ system fault warning light illuminates while
 the engine is running, it indicates that the
 
 ### EPS steering system or related system is
-`forthing_u_tour_en_bfd57bff` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:166 | doc_type:owners_manual
 
 abnormal. At this time, turning the steering
 wheel may require more force. Please
@@ -5888,7 +5512,6 @@ contact the authorized service station of
 Dongfeng Forthing as soon as possible.
 
 ### The driver can brake in time in most
-`forthing_u_tour_en_475135d1` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:166 | doc_type:owners_manual
 
 dangerous
 situations,
@@ -5912,7 +5535,6 @@ force than that during normal braking, thus
 shortening the braking distance.
 
 ### Brake priority
-`forthing_u_tour_en_1ad2d1e4` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:166 | doc_type:owners_manual
 
 The
 brake
@@ -5931,7 +5553,6 @@ braking, the steering wheel can still be used
 to avoid collision.
 
 ### The ABS system has built-in self-test
-`forthing_u_tour_en_07e2afba` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:166 | doc_type:owners_manual
 
 function. When the vehicle is started and
 running at a low speed, the system will carry
@@ -5941,7 +5562,6 @@ illuminate the ABS system fault warning
 light on the combination instrument.
 
 ### Comfortable Driving
-`forthing_u_tour_en_aa96de29` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:167 | doc_type:owners_manual
 
 At this time, the brake system works
 normally, but the ABS system does not
@@ -5955,7 +5575,6 @@ please contact the authorized service station
 of Dongfeng Forthing.
 
 ### Normal working
-`forthing_u_tour_en_0073a9b5` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:167 | doc_type:owners_manual
 
 The
 ABS
@@ -5987,7 +5606,6 @@ Note
 
 
 ### The EBD system will automatically
-`forthing_u_tour_en_2ff700d2` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:167 | doc_type:owners_manual
 
 distribute the braking force between the
 front and rear wheels, so that the vehicle can
@@ -6003,13 +5621,11 @@ state may deviate from the ideal driving
 state, the ESP system will start to work.
 
 ### The ESP system will selectively apply
-`forthing_u_tour_en_0ab608eb` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:167 | doc_type:owners_manual
 
 braking force to the vehicle brake to
 improve the driving stability of the vehicle.
 
 ### Press the ESP switch to turn off the ESP
-`forthing_u_tour_en_9c738da1` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:167 | doc_type:owners_manual
 
 system, and the ESP OFF indicator on the
 combination instrument will illuminate.
@@ -6024,7 +5640,6 @@ the ESP OFF indicator on the combination
 instrument will go out.
 
 ### Do not put your foot on the brake pedal
-`forthing_u_tour_en_e30fde6e` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:167 | doc_type:owners_manual
 
 during driving, which will overheat the
 brake, accelerate the wear of the brake disc
@@ -6043,7 +5658,6 @@ of the brake and degradation of braking
 performance.
 
 ### Be careful when driving on a slippery
-`forthing_u_tour_en_fe4215c5` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:168 | doc_type:owners_manual
 
 road. Sudden braking or acceleration will
 cause wheel slipping.
@@ -6059,7 +5673,6 @@ advisable to drive at a safe speed and
 maintain a safe following distance.
 
 ### When the vehicle starts on a steep or
-`forthing_u_tour_en_41df8f5a` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:168 | doc_type:owners_manual
 
 smooth slope and the driver switches from
 the brake pedal to the accelerator pedal, the
@@ -6073,7 +5686,6 @@ Warning
 
 
 ### When parking the vehicle on a steep
-`forthing_u_tour_en_08c5551b` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:168 | doc_type:owners_manual
 
 slope, icy and muddy road, depress the
 brake pedal to prevent the vehicle from
@@ -6095,7 +5707,6 @@ the vehicle will stop completely on the
 slope.
 
 ### The HHC system will not work under
-`forthing_u_tour_en_4fd61900` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:168 | doc_type:owners_manual
 
 the following conditions:
 When the gearshift lever is shifted to
@@ -6105,7 +5716,6 @@ horizontal road.
 combination instrument illuminates.
 
 ### The HDC system allows the driver to
-`forthing_u_tour_en_816bf63a` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:168 | doc_type:owners_manual
 
 smoothly pass through a steep downhill
 section without depressing the brake pedal.
@@ -6119,7 +5729,6 @@ instrument will illuminate, indicating that
 the HDC system is turned on. When the
 
 ### HDC switch is pressed again or the vehicle
-`forthing_u_tour_en_68c4c085` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:168 | doc_type:owners_manual
 
 speed exceeds 60 km/h, the HDC working
 indicator will go out and the HDC system
@@ -6132,14 +5741,12 @@ keep the vehicle speed within the range of 8
 km/h to 35 km/h.
 
 ### The driver can depress the accelerator pedal
-`forthing_u_tour_en_e54c9707` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:169 | doc_type:owners_manual
 
 or brake pedal to adjust the speed to be
 maintained when using the HDC function to
 go downhill within the speed range.
 
 ### When the HDC system performs active
-`forthing_u_tour_en_ccec2f82` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:169 | doc_type:owners_manual
 
 braking, the HDC system working indicator
 on the combination instrument flashes, and
@@ -6155,7 +5762,6 @@ activated.
 
 
 ### The HDC function only controls the
-`forthing_u_tour_en_18b81205` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:169 | doc_type:owners_manual
 
 vehicle speed through active braking. The
 driver should pay attention to controlling the
@@ -6169,7 +5775,6 @@ braking force will be generated, which is
 normal.
 
 ### The parking assist system can assist the
-`forthing_u_tour_en_6881ff51` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:169 | doc_type:owners_manual
 
 driver
 to
@@ -6184,7 +5789,6 @@ when there are obstacles hindering driving
 or parking.
 
 ### The main functions of the parking
-`forthing_u_tour_en_000b8f67` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:169 | doc_type:owners_manual
 
 assist system include:
 Detect obstacles around the vehicle.
@@ -6196,7 +5800,6 @@ image.
 Obstacle warning and alarm.
 
 ### The parking radar system can detect
-`forthing_u_tour_en_0e592e44` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:169 | doc_type:owners_manual
 
 obstacles around the vehicle when the
 vehicle is running at a low speed and give a
@@ -6211,7 +5814,6 @@ divided into two categories:
 the rear.
 
 ### When the parking assist system is
-`forthing_u_tour_en_6bae6eb9` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:169 | doc_type:owners_manual
 
 activated, the system will automatically
 detect whether the function is normal. If the
@@ -6221,7 +5823,6 @@ authorized service station of Dongfeng
 Forthing.
 
 ### Scribe at the top of the display screen
-`forthing_u_tour_en_7987af4c` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:170 | doc_type:owners_manual
 
 to call out the shortcut menu of the
 drop-down bar, and tap [Front Radar] to turn
@@ -6229,7 +5830,6 @@ on and off the front radar system.
 ON
 
 ### The front radar system can be turned on
-`forthing_u_tour_en_3687c3fc` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:170 | doc_type:owners_manual
 
 when the following operations are met
 simultaneously:
@@ -6243,7 +5843,6 @@ driving.
 OFF
 
 ### The following operations can turn off
-`forthing_u_tour_en_5d8e8869` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:170 | doc_type:owners_manual
 
 the front radar system.
 The front radar switch is off.
@@ -6253,7 +5852,6 @@ the front radar system.
 Note
 
 ### The front radar switch controls the radar
-`forthing_u_tour_en_47b0651f` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:170 | doc_type:owners_manual
 
 sensor on the front bumper. When the
 switch is turned off, the front radar system
@@ -6264,7 +5862,6 @@ mode exits, the front radar system does not
 work.
 
 ### On and Off
-`forthing_u_tour_en_212c2cca` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:170 | doc_type:owners_manual
 
 Turn the Start/Stop switch to "ON"
 position.
@@ -6275,7 +5872,6 @@ off automatically after the gearshift lever is
 out of R gear.
 
 ### The parking assist system sends out
-`forthing_u_tour_en_831b3769` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:170 | doc_type:owners_manual
 
 intermittent alarm sound or long alarm
 sound on combination instrument according
@@ -6285,7 +5881,6 @@ shorter the interval time of alarm sound will
 be.
 
 ### Type 1: Corresponding colors are displayed
-`forthing_u_tour_en_210aa3a6` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:170 | doc_type:owners_manual
 
 on the display screen based on the distance
 from the obstacle, as shown in the following
@@ -6305,7 +5900,6 @@ panoramic image interface, accompanied by
 an audible alarm.
 
 ### Conditions in which the system may not
-`forthing_u_tour_en_03c21a03` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:171 | doc_type:owners_manual
 
 work
 Due to the characteristics, position,
@@ -6330,7 +5924,6 @@ Warning
 
 
 ### The parking assist system is only used as
-`forthing_u_tour_en_1aebfda2` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:171 | doc_type:owners_manual
 
 an auxiliary warning for obstacles in front of
 and behind the vehicle during parking and
@@ -6341,7 +5934,6 @@ the environment in real time during the
 whole driving process, and Dongfeng
 
 ### As the parking assist system has a blind
-`forthing_u_tour_en_4db7d3b1` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:171 | doc_type:owners_manual
 
 spot, please do not use it as the only
 evidence for reversing safety. The driver is
@@ -6354,7 +5946,6 @@ check the obstacles behind in time when
 reversing.
 
 ### When the gearshift lever is in R
-`forthing_u_tour_en_b8c0ec30` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:172 | doc_type:owners_manual
 
 gear, the reversing image will be turned on
 automatically, and the system will be turned
@@ -6368,7 +5959,6 @@ steering wheel is turned to a certain angle.
 360° Panoramic image*
 
 ### The panoramic image can be spliced
-`forthing_u_tour_en_1c45f17f` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:172 | doc_type:owners_manual
 
 with four camera images located in front,
 rear, left and right of the vehicle to form an
@@ -6378,7 +5968,6 @@ safer and more convenient to park the
 vehicle.
 
 ### Panoramic image enabling mode
-`forthing_u_tour_en_344dea0e` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:172 | doc_type:owners_manual
 
 Press the 360° panoramic button on
 the steering wheel to manually turn on the
@@ -6398,7 +5987,6 @@ on automatically.
 Note
 
 ### Priority: R gear > turning on the left or right
-`forthing_u_tour_en_a195b57c` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:172 | doc_type:owners_manual
 
 turn signal > 360° panoramic button. When
 the panoramic image is triggered by the high
@@ -6413,7 +6001,6 @@ the corresponding view.
 3D View
 
 ### Tap [3D View] on the left to enter the
-`forthing_u_tour_en_dba5c055` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:173 | doc_type:owners_manual
 
 3D view interface. Tap and drag any area of
 the image display to realize 360° rotation.
@@ -6425,7 +6012,6 @@ are
 supported.
 
 ### There are auxiliary lines in the 2D front
-`forthing_u_tour_en_1034b180` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:173 | doc_type:owners_manual
 
 and rear single view (middle) and 2D
 splicing view (right). The auxiliary lines
@@ -6444,7 +6030,6 @@ sections: 0 ~ 0.3 m, 0.3 ~ 1 m and 1 ~ 1.5 m.
 Warning
 
 ### The auxiliary line is only for reference and
-`forthing_u_tour_en_e56c6bf0` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:173 | doc_type:owners_manual
 
 cannot be used as the evidence for judging
 the actual distance and driving track of the
@@ -6453,7 +6038,6 @@ surrounding environment of the vehicle and
 drive safely when parking the vehicle.
 
 ### Tap [3D Surround] icon to display the
-`forthing_u_tour_en_e4c1d013` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:174 | doc_type:owners_manual
 
 surrounding effect in the single view area,
 and after 7s, it returns to the previous view.
@@ -6466,13 +6050,11 @@ and an alarm sound will be given.
 Note
 
 ### When the four radar sensors on the front and
-`forthing_u_tour_en_1d12b4a3` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:174 | doc_type:owners_manual
 
 rear sides detect obstacles, only the obstacle
 board is displayed, without alarm sound.
 
 ### Moving object & pedestrian detection
-`forthing_u_tour_en_980f8bf8` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:174 | doc_type:owners_manual
 
 warning (MOD) system
 The
@@ -6504,7 +6086,6 @@ Note
 
 
 ### The camera is similar to the human eye
-`forthing_u_tour_en_c55a6ec8` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:174 | doc_type:owners_manual
 
 as it has limited visibility in environments
 such as dusk, night, dawn, snow, rain, and
@@ -6514,7 +6095,6 @@ always responsible for maintaining a safe
 distance from any obstacles.
 
 ### The camera will enlarge and distort the
-`forthing_u_tour_en_296ab0d8` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:175 | doc_type:owners_manual
 
 image with a short delay. All functions of
 the parking assist system (radar and image)
@@ -6525,7 +6105,6 @@ during use.
 
 
 ### The panoramic view is only used to
-`forthing_u_tour_en_01c08132` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:175 | doc_type:owners_manual
 
 splice the ground images. For objects with a
 certain height, there will be blind spots in
@@ -6536,7 +6115,6 @@ vehicle.
 
 
 ### There will be a certain error between the
-`forthing_u_tour_en_d85ca6b1` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:175 | doc_type:owners_manual
 
 auxiliary line and the radar wave distance
 and the actual distance. Please pay attention
@@ -6555,7 +6133,6 @@ in
 parking.
 
 ### The automatic parking system plans
-`forthing_u_tour_en_d9e820c2` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:175 | doc_type:owners_manual
 
 the route for the driver to park. After finding
 a parking space, the driver does not need to
@@ -6565,7 +6142,6 @@ environment at all times and take over the
 vehicle when necessary.
 
 ### When the vehicle speed is below 30
-`forthing_u_tour_en_f078f325` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:175 | doc_type:owners_manual
 
 km/h, press the automatic parking switch to
 enable the parking-in function.
@@ -6575,7 +6151,6 @@ press the automatic parking switch and tap
 screen to enable the parking-out function.
 
 ### After the automatic parking system is
-`forthing_u_tour_en_d62032c2` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:175 | doc_type:owners_manual
 
 turned on, press the automatic parking
 switch again to turn off the automatic
@@ -6587,7 +6162,6 @@ automatic parking system will be turned off
 after a period of time.
 
 ### Comfortable Driving
-`forthing_u_tour_en_0cae7b5c` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:176 | doc_type:owners_manual
 
 1. When the vehicle speed is less than
 30 km/h, press the automatic parking switch,
@@ -6608,7 +6182,6 @@ parking space searching interface, while tap
 2.
 
 ### After the display screen enters the
-`forthing_u_tour_en_2d6f6dd4` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:176 | doc_type:owners_manual
 
 parking space searching interface, drive
 slowly. After a parking space is successfully
@@ -6625,7 +6198,6 @@ and press the automatic parking switch.
 4.
 
 ### Release the steering wheel and
-`forthing_u_tour_en_86226bfd` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:176 | doc_type:owners_manual
 
 brake according to the prompts, and the
 vehicle will start automatic parking-in. In
@@ -6645,7 +6217,6 @@ will be a risk of scratching the vehicle due to
 sudden acceleration.
 
 ### Parking-out process
-`forthing_u_tour_en_53acefcb` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:176 | doc_type:owners_manual
 
 Before the parking-out function is used,
 the following conditions must be met:
@@ -6666,7 +6237,6 @@ check whether the surrounding environment
 is suitable and safe.
 
 ### Comfortable Driving
-`forthing_u_tour_en_65fe839c` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:177 | doc_type:owners_manual
 
 2.
 Press
@@ -6696,7 +6266,6 @@ parking-out direction is right.
 3.
 
 ### Press the EPB switch to release
-`forthing_u_tour_en_f0ce0561` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:177 | doc_type:owners_manual
 
 parking,
 keep
@@ -6724,7 +6293,6 @@ Note
 
 
 ### The system can recognize vertical and
-`forthing_u_tour_en_65b042b2` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:177 | doc_type:owners_manual
 
 horizontal parking spaces. If there is no
 parking line in the parking space, other
@@ -6742,7 +6310,6 @@ not turn the steering wheel.
 
 
 ### During the process of searching for a
-`forthing_u_tour_en_e586709e` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:177 | doc_type:owners_manual
 
 parking space, please maintain a lateral
 distance of 0.5-1.8 m between the vehicle
@@ -6750,7 +6317,6 @@ and the parking space.
 
 
 ### After the system searches for the first
-`forthing_u_tour_en_d657f38c` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:177 | doc_type:owners_manual
 
 parking space, it will send out a prompt
 sound. Afterwards, there will be a prompt
@@ -6785,7 +6351,6 @@ parking.
 
 
 ### When parking pauses for more than 30s
-`forthing_u_tour_en_dddb18ed` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:177 | doc_type:owners_manual
 
 without resuming due to not depressing the
 brake, automatic parking will exit.
@@ -6799,13 +6364,11 @@ time limit is exceeded, automatic parking
 will exit.
 
 ### Due to the limitations of the system
-`forthing_u_tour_en_d973ee10` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:178 | doc_type:owners_manual
 
 itself, it is not always possible to detect
 objects in parking spaces and parking paths.
 
 ### When the automatic parking system is
-`forthing_u_tour_en_3b523564` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:178 | doc_type:owners_manual
 
 activated, the driver is always responsible
 for actively intervening if necessary, taking
@@ -6819,7 +6382,6 @@ emergency, please take over the steering
 wheel or depress the brake pedal in time.
 
 ### Failure to follow the regulation may result in
-`forthing_u_tour_en_c2cfa064` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:178 | doc_type:owners_manual
 
 personal injury.
 
@@ -6837,7 +6399,6 @@ pedestrians, and objects.
 
 
 ### For scenarios that meet parking
-`forthing_u_tour_en_891dfd71` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:178 | doc_type:owners_manual
 
 conditions but are not suitable for parking,
 such as intersections with curbs and lawns
@@ -6851,7 +6412,6 @@ Warning
 
 
 ### Automatic parking in narrow areas can
-`forthing_u_tour_en_6fa0b7cc` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:178 | doc_type:owners_manual
 
 affect the accuracy of sensor detection of
 obstacle positions, leading to an increase in
@@ -6861,7 +6421,6 @@ objects.
 
 
 ### During automatic parking in a narrow
-`forthing_u_tour_en_06f40c94` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:178 | doc_type:owners_manual
 
 area, continuous parking should not exceed
 10 times. Multiple consecutive parking
@@ -6873,14 +6432,12 @@ parking.
 
 
 ### The system may be affected by the
-`forthing_u_tour_en_70c68628` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:178 | doc_type:owners_manual
 
 surrounding environment, and after parking
 is completed, the vehicle body may tilt or
 shift forward in the vertical parking space.
 
 ### You may need to further adjust the vehicle
-`forthing_u_tour_en_3073e594` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:178 | doc_type:owners_manual
 
 position to ensure correct parking.
 
@@ -6893,7 +6450,6 @@ parking failure.
 
 
 ### When there are trucks or suspended
-`forthing_u_tour_en_4f976987` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:178 | doc_type:owners_manual
 
 obstacles in front or behind the parking
 space, collisions may occur during the
@@ -6908,7 +6464,6 @@ is searched; otherwise, the system will not
 be able to effectively distinguish obstacles.
 
 ### Severe weather conditions (such as
-`forthing_u_tour_en_af675185` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:179 | doc_type:owners_manual
 
 heavy rain, fog, snow, extreme heat or cold
 temperatures) will interfere with the sensor
@@ -6926,7 +6481,6 @@ system.
 
 
 ### Do not use the automatic parking system
-`forthing_u_tour_en_1647e8b8` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:179 | doc_type:owners_manual
 
 when one or more ultrasonic sensors are
 damaged, the surround-view camera is dirty,
@@ -6941,7 +6495,6 @@ of the system.
 
 
 ### Please keep the outer surface of the
-`forthing_u_tour_en_2c303275` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:179 | doc_type:owners_manual
 
 sensor and camera clean. If you discover
 any snow, ice, frost, mud, dust, etc.,
@@ -6955,7 +6508,6 @@ machine or steam cleaning machine to clean
 the sensor and camera to avoid damage.
 
 ### Rinse the surface of the vehicle sensor and
-`forthing_u_tour_en_0dd91232` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:179 | doc_type:owners_manual
 
 camera with small flow for a short time at a
 distance of at least 10 cm.
@@ -6969,7 +6521,6 @@ automatic parking process.
 
 
 ### The automatic parking system does not
-`forthing_u_tour_en_a6706f8b` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:179 | doc_type:owners_manual
 
 support parking space scenarios such as
 diagonal parking space, line frame
@@ -6982,7 +6533,6 @@ do not use the automatic parking system in
 these scenarios.
 
 ### The cruise control system allows the
-`forthing_u_tour_en_a44e05c1` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:179 | doc_type:owners_manual
 
 driver to keep the vehicle running at a preset
 speed
@@ -7004,7 +6554,6 @@ prohibited to use the cruise control system
 on icy and snowy roads.
 
 ### Set the current speed to the cruise
-`forthing_u_tour_en_6545d264` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:180 | doc_type:owners_manual
 
 speed and control the vehicle at this speed.
 If
@@ -7016,7 +6565,6 @@ is
 activated:
 
 ### Press and hold the button: Decrease the
-`forthing_u_tour_en_ccfa670e` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:180 | doc_type:owners_manual
 
 set cruise speed continuously at a speed of
 10 km/h.
@@ -7030,7 +6578,6 @@ To restore the originally set speed, press the
 cruise recovery/acceleration button.
 
 ### The vehicle speed is between 40
-`forthing_u_tour_en_694d4558` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:180 | doc_type:owners_manual
 
 and 185 km/h.
 3.
@@ -7056,7 +6603,6 @@ Press the cruise pause button.
 4.
 
 ### Comfortable Driving
-`forthing_u_tour_en_99190830` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:181 | doc_type:owners_manual
 
 The first, second, and third methods
 only pause the cruise control mode. When
@@ -7072,7 +6618,6 @@ fifth methods completely turn off the cruise
 control.
 
 ### When the cruise control function is
-`forthing_u_tour_en_d63a863d` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:181 | doc_type:owners_manual
 
 suspended, if it needs to be restored,
 accelerate to above 40 km/h first, and then
@@ -7081,7 +6626,6 @@ to re-enter the cruise state. The vehicle will
 run at the originally set cruising speed.
 
 ### When the cruise control button is
-`forthing_u_tour_en_b030c230` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:181 | doc_type:owners_manual
 
 pressed to cancel the cruise control function,
 the system will completely turn off the
@@ -7089,7 +6633,6 @@ cruise control and cancel the cruise speed set
 before turning off.
 
 ### Change the set vehicle speed
-`forthing_u_tour_en_8f065566` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:181 | doc_type:owners_manual
 
 The
 cruise
@@ -7121,7 +6664,6 @@ speed setting/deceleration button.
 Note
 
 ### Even if the cruise control function is
-`forthing_u_tour_en_8ede9144` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:181 | doc_type:owners_manual
 
 activated, the accelerator pedal can still be
 used to accelerate and overtake. After
@@ -7158,7 +6700,6 @@ responsibility for the vehicle.
 
 
 ### Comfortable Driving
-`forthing_u_tour_en_2a5a6853` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:182 | doc_type:owners_manual
 
 Warning
 
@@ -7181,7 +6722,6 @@ may be a risk of accident!
 
 
 ### ACC system can only adjust the distance
-`forthing_u_tour_en_ba6429dc` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:182 | doc_type:owners_manual
 
 from the vehicle running ahead. Generally,
 it cannot detect vehicles on other lanes or on
@@ -7191,7 +6731,6 @@ objects and brake the vehicle.
 
 
 ### ACC system shall be temporarily turned
-`forthing_u_tour_en_d93eee08` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:182 | doc_type:owners_manual
 
 off when the vehicle is running on a curved
 lane, an expressway exit or a road section
@@ -7208,7 +6747,6 @@ Warning
 
 
 ### The driver should set the ACC speed and
-`forthing_u_tour_en_51052e1a` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:182 | doc_type:owners_manual
 
 following distance reasonably according to
 the current road, traffic and weather
@@ -7227,7 +6765,6 @@ full responsibility for the vehicle.
 
 
 ### ACC system cannot detect the objects or
-`forthing_u_tour_en_e8333991` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:182 | doc_type:owners_manual
 
 accessories protruding from the side, rear
 end or roof of the followed target vehicle. If
@@ -7240,7 +6777,6 @@ depending on the situation.
 
 
 ### The driver can depress the accelerator
-`forthing_u_tour_en_1ec77d8f` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:182 | doc_type:owners_manual
 
 pedal at any time to increase the vehicle
 speed. After the accelerator pedal is
@@ -7254,7 +6790,6 @@ which may result in collision with the
 vehicle ahead.
 
 ### When the vehicle is stopped by ACC
-`forthing_u_tour_en_071b536d` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:183 | doc_type:owners_manual
 
 system, the driver must shift the gearshift
 lever in P position and turn off the Start/Stop
@@ -7267,7 +6802,6 @@ down.
 
 
 ### If the combination instrument prompts
-`forthing_u_tour_en_0a2075d0` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:183 | doc_type:owners_manual
 
 [ACC exits automatically] and ACC system
 cannot be turned on again, it indicates that
@@ -7283,7 +6817,6 @@ turned off.
 
 
 ### After replacement of the front-view
-`forthing_u_tour_en_7965f2cf` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:183 | doc_type:owners_manual
 
 camera and front windshield, four-wheel
 alignment, body and chassis modification or
@@ -7296,7 +6829,6 @@ Note
 
 
 ### In order not to affect the performance of
-`forthing_u_tour_en_aed21b8a` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:183 | doc_type:owners_manual
 
 the camera, the detecting part of the camera
 shall not be blocked by foreign matters
@@ -7311,7 +6843,6 @@ operation of ACC system.
 
 
 ### The operation of ACC system may also
-`forthing_u_tour_en_64899a93` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:183 | doc_type:owners_manual
 
 be restricted in case of snow, heavy rain,
 heavy fog or sprayed water on the road.
@@ -7325,14 +6856,12 @@ windshield or contact the authorized service
 station of Dongfeng Forthing.
 
 ### Press and hold the button: Decrease the
-`forthing_u_tour_en_d177deab` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:184 | doc_type:owners_manual
 
 set cruise speed continuously at a speed of 5
 km/h.
 5. Following distance adjustment button
 
 ### ACC on/off
-`forthing_u_tour_en_5ecccb9b` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:184 | doc_type:owners_manual
 
 When ACC system is turned on, the
 adaptive cruise control indicator (white) in
@@ -7341,7 +6870,6 @@ the combination instrument displays the set
 adaptive cruise speed and ACC system state.
 
 ### Conditions for turning on ACC system
-`forthing_u_tour_en_0303e81c` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:184 | doc_type:owners_manual
 
 
 Press the ACC button.
@@ -7368,7 +6896,6 @@ The transmission is free of fault.
 The engine is free of fault.
 
 ### ACC system can control the vehicle to
-`forthing_u_tour_en_b48a16ca` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:185 | doc_type:owners_manual
 
 follow the vehicle ahead to decelerate until
 it stops. If the vehicle ahead moves again
@@ -7380,7 +6907,6 @@ depress the accelerator pedal to turn on ACC
 system again.
 
 ### Following diagram
-`forthing_u_tour_en_a1bca07b` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:185 | doc_type:owners_manual
 
 If no vehicle ahead is detected, the
 main
@@ -7398,7 +6924,6 @@ Warning
 
 
 ### The following diagram is only displayed
-`forthing_u_tour_en_373dfb51` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:185 | doc_type:owners_manual
 
 when a vehicle running in the same lane and
 direction is detected.
@@ -7410,7 +6935,6 @@ be ultra-long, the combination instrument
 displays as shown in the figure above.
 
 ### The indicator flashes in
-`forthing_u_tour_en_bc2a28f3` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:186 | doc_type:owners_manual
 
 green: ACC system
 exits due to component
@@ -7423,7 +6947,6 @@ mentioned above. Please pay close attention
 to them.
 
 ### If the combination instrument display
-`forthing_u_tour_en_29ad9e1b` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:186 | doc_type:owners_manual
 
 interface is inconsistent with the actual
 situation observed by the driver, the driver
@@ -7438,7 +6961,6 @@ The system sensor is blocked.
 
 
 ### As ACC system cannot provide the
-`forthing_u_tour_en_a11937e2` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:187 | doc_type:owners_manual
 
 maximum braking force of the vehicle,
 under
@@ -7453,7 +6975,6 @@ require the driver to take over the vehicle in
 time.
 
 ### ACC system will send visual and
-`forthing_u_tour_en_0b00a72a` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:187 | doc_type:owners_manual
 
 audible instructions to the driver, and a red
 steering wheel mark will appear on the
@@ -7465,7 +6986,6 @@ Note
 
 
 ### After ACC system requires the driver to
-`forthing_u_tour_en_4a279cf8` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:187 | doc_type:owners_manual
 
 take over the vehicle, if the vehicle
 continues to move, the driver must depress
@@ -7478,7 +6998,6 @@ by depressing the accelerator pedal, the
 driver will not receive a takeover request.
 
 ### ACC system exit conditions
-`forthing_u_tour_en_31e619bb` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:187 | doc_type:owners_manual
 
 1. ACC button is turned off.
 2. ACC pause button is turned off.
@@ -7492,7 +7011,6 @@ long time.
 8. The steering wheel is turned sharply.
 
 ### ACC system is restricted by physical
-`forthing_u_tour_en_ddb1349b` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:187 | doc_type:owners_manual
 
 laws and the system itself during driving.
 Besides,
@@ -7506,7 +7024,6 @@ should always pay attention and intervene if
 necessary.
 
 ### The visibility of the camera may be reduced
-`forthing_u_tour_en_2216a506` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:188 | doc_type:owners_manual
 
 due to strong lighting, dark environment,
 rain, snow, pollution, and dust blocking the
@@ -7529,7 +7046,6 @@ ready to take over at any time.
 or difficult to detect.
 
 ### For the vehicle not running in the same
-`forthing_u_tour_en_7c5943f2` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:188 | doc_type:owners_manual
 
 straight line (a vehicle entering from the
 adjacent lanes), if it does not enter the
@@ -7537,7 +7053,6 @@ detection range of the camera sensor, the
 sensor may not be able to detect the vehicle.
 
 ### ACC system cannot guarantee the
-`forthing_u_tour_en_ce0920a7` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:188 | doc_type:owners_manual
 
 detection of all types of vehicles on the
 driving path, especially narrow vehicles
@@ -7560,7 +7075,6 @@ the vehicle, he/she must take over the
 vehicle.
 
 ### Do not use ACC system when the
-`forthing_u_tour_en_33f405d1` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:189 | doc_type:owners_manual
 
 vehicle is running on steep slopes. On steep
 slopes, ACC system cannot detect vehicles
@@ -7580,7 +7094,6 @@ vehicle.
 6. Vehicle cutting in laterally in front.
 
 ### ACC system may not be able to control the
-`forthing_u_tour_en_184deda0` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:189 | doc_type:owners_manual
 
 vehicle quickly or apply emergency braking.
 In this case, the driver shall pay attention to
@@ -7597,7 +7110,6 @@ enough time to brake and the driver shall
 take control of the vehicle if necessary.
 
 ### LKA system can keep the vehicle
-`forthing_u_tour_en_e29e3410` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:190 | doc_type:owners_manual
 
 running in a straight line along the lane
 within the speed range of 70~130 km/h. The
@@ -7607,7 +7119,6 @@ curve where the curvature of lane line is
 smaller.
 
 ### LKA system also has some technical
-`forthing_u_tour_en_a1bc393f` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:190 | doc_type:owners_manual
 
 limitations, so the driver must intervene in
 steering under certain conditions. When
@@ -7623,7 +7134,6 @@ Warning
 
 
 ### LKA system is a comfort system and
-`forthing_u_tour_en_b2ec15e6` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:190 | doc_type:owners_manual
 
 does not have the ability to deal with special
 driving conditions such as complex traffic
@@ -7634,7 +7144,6 @@ responsible for the vehicle.
 
 
 ### LKA system is suitable for expressways
-`forthing_u_tour_en_aeb44ccf` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:190 | doc_type:owners_manual
 
 and roads with good conditions, but not
 suitable for urban or mountainous roads.
@@ -7648,7 +7157,6 @@ Warning
 
 
 ### LKA system allows the driver not to
-`forthing_u_tour_en_038a462c` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:190 | doc_type:owners_manual
 
 operate the steering wheel for a short time,
 but it will automatically exit if the time is
@@ -7657,7 +7165,6 @@ to take over the steering wheel at any time.
 
 
 ### LKA ON/OFF
-`forthing_u_tour_en_46a80f6f` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:190 | doc_type:owners_manual
 
 When
 the lane keeping button is
@@ -7678,7 +7185,6 @@ conditions are mainly as follows:
 All doors must be closed.
 
 ### Comfortable Driving
-`forthing_u_tour_en_82723537` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:191 | doc_type:owners_manual
 
 
 EPS system is free of fault.
@@ -7699,7 +7205,6 @@ vehicle speed is lower than 65 km/h, or other
 exit conditions are met.
 
 ### If the driver actively controls the
-`forthing_u_tour_en_1638b672` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:191 | doc_type:owners_manual
 
 steering wheel to change direction or turns
 on the turn signal to prepare for lane
@@ -7712,7 +7217,6 @@ the vehicle is near the centerline of the lane,
 LKA system restarts.
 
 ### LKA system exit conditions
-`forthing_u_tour_en_7b2793cd` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:191 | doc_type:owners_manual
 
 1. Lane keeping button is turned off.
 2. The turn signal is turned on
@@ -7730,7 +7234,6 @@ over a certain angle.
 The curve radius is too small.
 
 ### System working state display
-`forthing_u_tour_en_04f3de30` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:191 | doc_type:owners_manual
 
 The
 LCA
@@ -7750,7 +7253,6 @@ combination instrument goes out.
 does not meet the working conditions, the
 
 ### LKA system ON indicator (green) on the
-`forthing_u_tour_en_a8f65ef4` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:191 | doc_type:owners_manual
 
 combination instrument stays on.
 External
@@ -7769,7 +7271,6 @@ instrument will flash, and a takeover request
 will be given.
 
 ### Lane line detection state icon displayed on
-`forthing_u_tour_en_48151942` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:191 | doc_type:owners_manual
 
 the combination instrument
 When no lane line is detected, no
@@ -7779,14 +7280,12 @@ detected, the lane lines on both sides on the
 main screen are white.
 
 ### Comfortable Driving
-`forthing_u_tour_en_b0eead33` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:192 | doc_type:owners_manual
 
 When lane lines on both sides are
 detected and LKA system is activated, the
 lane lines on both sides are blue.
 
 ### Conditions in which the driver needs to take
-`forthing_u_tour_en_0f6092fd` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:192 | doc_type:owners_manual
 
 over the vehicle
 The
@@ -7808,7 +7307,6 @@ Note
 
 
 ### LKA system may not detect that you are
-`forthing_u_tour_en_99f69174` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:192 | doc_type:owners_manual
 
 not holding the steering wheel with both
 hands, resulting in a missed alarm. Do not
@@ -7825,7 +7323,6 @@ wheel actively.
 
 
 ### If LKA system judges that the curve
-`forthing_u_tour_en_06f481e9` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:192 | doc_type:owners_manual
 
 ahead exceeds its passing capacity, the
 system will give a takeover prompt. At this
@@ -7840,7 +7337,6 @@ over the steering wheel actively.
 
 
 ### If LKA system detects that the driver
-`forthing_u_tour_en_d7cc24c2` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:192 | doc_type:owners_manual
 
 does not hold the steering wheel for a period
 of time, it will give a warning that the
@@ -7856,14 +7352,12 @@ wheel actively to control the direction of the
 vehicle.
 
 ### The steering capability of LKA system
-`forthing_u_tour_en_5edccf5a` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:193 | doc_type:owners_manual
 
 is limited, and it cannot guarantee that the
 vehicle can pass through curves with any
 curvature within the effective speed range.
 
 ### LKA system can only detect lane lines
-`forthing_u_tour_en_19ff3c10` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:193 | doc_type:owners_manual
 
 and curbs with a certain contrast. For fuzzy
 or stained lane lines, the detection may be
@@ -7873,7 +7367,6 @@ large color difference and contrast on the
 road surface, the detection may be wrong.
 
 ### LKA system may not work normally
-`forthing_u_tour_en_3a60d3a9` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:193 | doc_type:owners_manual
 
 under the following conditions:
 The camera sensor is blocked by ice,
@@ -7907,7 +7400,6 @@ rain and snow.
 or uneven.
 
 ### Description of vehicle handling stability and
-`forthing_u_tour_en_e208550c` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:193 | doc_type:owners_manual
 
 system state
 When TCS system or ESP system is
@@ -7918,14 +7410,12 @@ use of LKA system, it can be restored and
 turned on.
 
 ### Description of factors affecting calibration
-`forthing_u_tour_en_3d5128bf` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:193 | doc_type:owners_manual
 
 Removal and installation of interior
 rearview mirrors
 Replace the front windshield.
 
 ### After replacement of the front-view
-`forthing_u_tour_en_639efaa8` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:193 | doc_type:owners_manual
 
 camera and front windshield, four-wheel
 alignment, body and chassis modification or
@@ -7941,7 +7431,6 @@ work
 normally.
 
 ### Functional limitation
-`forthing_u_tour_en_2ad9b8c0` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:193 | doc_type:owners_manual
 
 Under certain traffic conditions, LKA
 system may not respond well, leading to
@@ -7949,7 +7438,6 @@ accidents. Therefore, the driver should pay
 special attention when:
 
 ### Comfortable Driving
-`forthing_u_tour_en_e66b18e0` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:194 | doc_type:owners_manual
 
 1. There are road interference lines on
 the road surface or the lane lines are
@@ -7990,7 +7478,6 @@ intersection.
 3. There is lane line convergence.
 
 ### When the vehicle runs to the lane line
-`forthing_u_tour_en_c1fe4f4c` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:194 | doc_type:owners_manual
 
 convergence position, LKA system may
 automatically exit because it detects that the
@@ -8015,7 +7502,6 @@ excessive ramp curvature or unclear lane
 line.
 
 ### When the lane line ahead of the vehicle
-`forthing_u_tour_en_11e950ef` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:195 | doc_type:owners_manual
 
 is blurry or the lane ahead is too narrow or
 curved, LKA system may exit due to not
@@ -8032,7 +7518,6 @@ lane line detection caused by severe vehicle
 bumpiness.
 
 ### TJA system allows the vehicle to run at
-`forthing_u_tour_en_1c822ad6` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:195 | doc_type:owners_manual
 
 any desired speed in the range of 0~130
 km/h, or follow a vehicle ahead within the
@@ -8059,7 +7544,6 @@ responsibility for the vehicle.
 
 
 ### TJA system is suitable for expressways
-`forthing_u_tour_en_0c475a15` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:195 | doc_type:owners_manual
 
 and roads with good conditions, but not
 suitable for urban or mountainous roads.
@@ -8072,7 +7556,6 @@ driving in urban areas, under traffic
 congestion or on winding roads.
 
 ### Comfortable Driving
-`forthing_u_tour_en_5d174acc` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:196 | doc_type:owners_manual
 
 Warning
 
@@ -8088,7 +7571,6 @@ may be a risk of accident!
 
 
 ### TJA system can assist the driver but
-`forthing_u_tour_en_c9240feb` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:196 | doc_type:owners_manual
 
 cannot replace the driver in driving. Even if
 TJA system is activated, the driver must
@@ -8104,7 +7586,6 @@ under construction.
 
 
 ### The driver should set the cruise speed
-`forthing_u_tour_en_99bce051` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:196 | doc_type:owners_manual
 
 and following distance reasonably
 according to the current road, traffic and
@@ -8124,7 +7605,6 @@ responsibility for the vehicle.
 
 
 ### TJA system cannot detect the objects or
-`forthing_u_tour_en_307cb193` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:196 | doc_type:owners_manual
 
 accessories protruding from the side, rear
 end or roof of the followed target vehicle. If
@@ -8137,7 +7617,6 @@ depending on the situation.
 
 
 ### The driver can depress the accelerator
-`forthing_u_tour_en_dc7fad5b` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:196 | doc_type:owners_manual
 
 pedal at any time to increase the vehicle
 speed. After the accelerator pedal is
@@ -8152,7 +7631,6 @@ vehicle ahead.
 
 
 ### If TJA system has already stopped the
-`forthing_u_tour_en_61741ef5` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:196 | doc_type:owners_manual
 
 vehicle and TJA has been released, turned
 off, or canceled, the vehicle will no longer
@@ -8162,7 +7640,6 @@ prepare for depressing the brake pedal.
 
 
 ### When the vehicle is stopped by TJA
-`forthing_u_tour_en_68ec6445` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:197 | doc_type:owners_manual
 
 system, the driver must shift the vehicle to P
 gear and turn off the Start/Stop switch
@@ -8176,7 +7653,6 @@ heavy fog or sprayed water on the road.
 
 
 ### Structural modification of the vehicle
-`forthing_u_tour_en_c96c901f` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:197 | doc_type:owners_manual
 
 may deteriorate TJA system.
 
@@ -8194,7 +7670,6 @@ restarted.
 
 
 ### After replacement of the front-view
-`forthing_u_tour_en_cac80717` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:197 | doc_type:owners_manual
 
 camera and front windshield, four-wheel
 alignment, body and chassis modification or
@@ -8206,7 +7681,6 @@ cannot work normally.
 
 
 ### In order not to affect the performance of
-`forthing_u_tour_en_7ffc1a3d` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:197 | doc_type:owners_manual
 
 the camera, the detecting part of the camera
 shall not be blocked by foreign matters
@@ -8221,7 +7695,6 @@ mud. Clean these areas to ensure the normal
 operation of TJA system.
 
 ### When the front-view camera needs to
-`forthing_u_tour_en_7090d2cb` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:197 | doc_type:owners_manual
 
 be cleaned, the combination instrument will
 display a prompt message. Please use the
@@ -8238,7 +7711,6 @@ Description of buttons
 6. Following distance adjustment button
 
 ### Comfortable Driving
-`forthing_u_tour_en_60ce82aa` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:198 | doc_type:owners_manual
 
 When TJA system is turned on, the
 intelligent cruise control indicator on the
@@ -8263,7 +7735,6 @@ and press the button again to switch back to
 LKA system.
 
 ### Conditions for turning on TJA system
-`forthing_u_tour_en_43d288cf` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:198 | doc_type:owners_manual
 
 
 The engine is running.
@@ -8287,7 +7758,6 @@ The transmission is free of fault.
 The engine is free of fault.
 
 ### TJA system degradation and exit conditions
-`forthing_u_tour_en_2bfaa743` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:198 | doc_type:owners_manual
 
 ACC degradation:
 1. The driver operates the steering wheel
@@ -8310,7 +7780,6 @@ long time.
 8. The steering wheel is turned sharply.
 
 ### Following display
-`forthing_u_tour_en_90353278` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:198 | doc_type:owners_manual
 
 If no vehicle ahead is detected, the
 main
@@ -8322,7 +7791,6 @@ instrument will not display the icon for the
 vehicle ahead.
 
 ### Comfortable Driving
-`forthing_u_tour_en_f0d89e6e` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:199 | doc_type:owners_manual
 
 If a vehicle ahead is detected, follow
 the vehicle ahead when there are lane lines
@@ -8335,7 +7803,6 @@ Warning
 
 
 ### The following diagram is only displayed
-`forthing_u_tour_en_9b6323fd` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:199 | doc_type:owners_manual
 
 when a vehicle running in the same lane and
 direction is detected.
@@ -8349,7 +7816,6 @@ ahead or apply brake.
 3. TJA state and cruise speed
 
 ### Please refer to the adaptive cruise
-`forthing_u_tour_en_ca2c1f44` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:199 | doc_type:owners_manual
 
 control (ACC) system chapter for cruise
 speed adjustment, setting following distance,
@@ -8357,7 +7823,6 @@ and possible system limitations of TJA
 system.
 
 ### When the vehicle runs on a road with
-`forthing_u_tour_en_a56014d6` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:199 | doc_type:owners_manual
 
 detectable lane lines at a speed greater than
 70 km/h, LDW system is activated. When
@@ -8378,7 +7843,6 @@ Note
 
 
 ### LDW system may not work normally
-`forthing_u_tour_en_8b312b69` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:199 | doc_type:owners_manual
 
 because the front-view camera is blocked by
 ice, snow and dust. Therefore, keep the
@@ -8386,7 +7850,6 @@ front-view camera clean.
 
 
 ### Assistance] - [LDW] on the display screen
-`forthing_u_tour_en_2524cc24` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:200 | doc_type:owners_manual
 
 to turn on or off LDW system and select
 LDW system sensitivity.
@@ -8424,7 +7887,6 @@ the warning will be given in a delayed
 manner.
 
 ### Warning sensitivity
-`forthing_u_tour_en_53ccb02a` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:200 | doc_type:owners_manual
 
 LDW
 system
@@ -8442,7 +7904,6 @@ restored to the state set last time by default
 when the vehicle is started.
 
 ### There are two factors affecting system
-`forthing_u_tour_en_03219c68` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:200 | doc_type:owners_manual
 
 sensitivity:
 Removal and installation of interior
@@ -8461,7 +7922,6 @@ recalibrated;
 otherwise, it cannot work normally.
 
 ### System working state display
-`forthing_u_tour_en_4627156e` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:200 | doc_type:owners_manual
 
 LDW
 system
@@ -8489,7 +7949,6 @@ combination
 instrument will not display.
 
 ### Comfortable Driving
-`forthing_u_tour_en_d906f2af` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:201 | doc_type:owners_manual
 
 LDW
 The left lane departure warning is sent,
@@ -8506,7 +7965,6 @@ driving direction of the vehicle.
 
 
 ### The LDW system is only an auxiliary
-`forthing_u_tour_en_f9d71990` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:201 | doc_type:owners_manual
 
 warning system. The driver should pay
 attention to the surrounding driving
@@ -8519,7 +7977,6 @@ case of lane departure and cannot actively
 correct the driving direction of the vehicle.
 
 ### The LDW system may be limited under
-`forthing_u_tour_en_1a427f00` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:201 | doc_type:owners_manual
 
 the following conditions:
 When
@@ -8560,7 +8017,6 @@ light is weak at night.
 rain and snow.
 
 ### LCA system includes SVA and lane
-`forthing_u_tour_en_f57eb2ab` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:201 | doc_type:owners_manual
 
 change assist, capable of detecting vehicles
 approaching
@@ -8579,14 +8035,12 @@ screen to select [OFF], [Display] or [Display
 Display
 
 ### The use of LCA system does not in any
-`forthing_u_tour_en_35ac56bb` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:202 | doc_type:owners_manual
 
 way mean that the driver can do nothing and
 relax, and changing lanes in a safe manner is
 always the driver's responsibility.
 
 ### The system is turned on after all following
-`forthing_u_tour_en_d77cba1b` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:202 | doc_type:owners_manual
 
 conditions are met:
 1. Select [Display] or [Display+Sound] for
@@ -8597,7 +8051,6 @@ position.
 the vehicle speed is greater than 20 km/h.
 
 ### The system is turned off after any of the
-`forthing_u_tour_en_2bf8e677` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:202 | doc_type:owners_manual
 
 following conditions is met:
 1. Select [Close] for the LCA system.
@@ -8607,7 +8060,6 @@ and the vehicle speed is less than or equal to
 15 km/h.
 
 ### The alarm area of the LCA system is
-`forthing_u_tour_en_4cf77e12` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:202 | doc_type:owners_manual
 
 0.5 m to 3.5m laterally from the left and
 right sides of the vehicle, and longitudinally
@@ -8619,7 +8071,6 @@ Warning
 
 
 ### LCA system cannot replace the driver's
-`forthing_u_tour_en_1ec92534` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:202 | doc_type:owners_manual
 
 observation of the surrounding
 environment.
@@ -8638,7 +8089,6 @@ Poor road conditions, sandy and dusty
 roads, and grassy roads.
 
 ### When the airflow passes through the
-`forthing_u_tour_en_e172ded4` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:203 | doc_type:owners_manual
 
 edges of the vehicle or the funnel-shaped
 bracket of the sensor, it produces noise, and
@@ -8651,7 +8101,6 @@ Motorcycle.
 
 
 ### The LCA indicators are installed on the
-`forthing_u_tour_en_8d69dcb1` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:203 | doc_type:owners_manual
 
 left and right exterior rearview mirrors. If a
 vehicle is detected in the blind spot, the
@@ -8664,7 +8113,6 @@ the vehicle is turned on, the LCA indicator
 flashes, and there is also an audible prompt.
 
 ### There are a variety of reasons that may
-`forthing_u_tour_en_45d0ce6c` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:203 | doc_type:owners_manual
 
 lead to unnecessary, untimely and invalid
 warnings or missed warnings from the LCA
@@ -8674,7 +8122,6 @@ The radar is limited.
 
 
 ### The above warnings and restrictions do
-`forthing_u_tour_en_cc3a6b6b` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:203 | doc_type:owners_manual
 
 not address all situations that may interfere
 with blind spot detection system. Many
@@ -8685,7 +8132,6 @@ conditions at all times during driving so as
 to change lanes under safe conditions.
 
 ### Door open warning (DOW)*
-`forthing_u_tour_en_7a170a40` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:204 | doc_type:owners_manual
 
 When the vehicle is stationary, the
 DOW system can detect vehicles, cyclists or
@@ -8703,7 +8149,6 @@ release warning information to prevent
 collision.
 
 ### The DOW switch state is the last
-`forthing_u_tour_en_6f8ea7fa` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:204 | doc_type:owners_manual
 
 operation state by default. Tap [Settings] -
 [Vehicle] - [Driver Assistance] - [DOW] on
@@ -8717,7 +8162,6 @@ displays a pop-up prompt, and the ambient
 light flashes.
 
 ### Level 2: The rearview mirror warning
-`forthing_u_tour_en_9d98951b` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:204 | doc_type:owners_manual
 
 light flashes, the combination instrument
 displays a pop-up prompt, and the ambient
@@ -8734,7 +8178,6 @@ much on DOW system.
 
 
 ### The DOW system is designed to remind
-`forthing_u_tour_en_1fead955` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:204 | doc_type:owners_manual
 
 the driver and passengers to pay attention to
 the environmental safety when opening
@@ -8749,7 +8192,6 @@ safety.
 
 
 ### The alarm area of the DOW system is
-`forthing_u_tour_en_fa56254d` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:204 | doc_type:owners_manual
 
 from 0 m to 2 m laterally from the left and
 right sides of the vehicle, and longitudinally
@@ -8759,7 +8201,6 @@ area is the warning area, which is bilaterally
 symmetrical.
 
 ### Level II alarm
-`forthing_u_tour_en_074311e3` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:205 | doc_type:owners_manual
 
 When
 a
@@ -8774,7 +8215,6 @@ prompt, and the corresponding side door
 ambient light will illuminate.
 
 ### The system is turned on after all following
-`forthing_u_tour_en_1e9439de` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:205 | doc_type:owners_manual
 
 conditions are met:
 1. Select [Display] or [Display+Sound] for
@@ -8790,7 +8230,6 @@ following conditions is met:
 position.
 
 ### The DOW system is not always able to
-`forthing_u_tour_en_939857e6` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:205 | doc_type:owners_manual
 
 work under various circumstances. Various
 reasons may lead to unnecessary, untimely
@@ -8811,7 +8250,6 @@ behind the vehicle.
 beside a wall.
 
 ### The above warnings and restrictions do
-`forthing_u_tour_en_55f863cc` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:205 | doc_type:owners_manual
 
 not address all situations that may interfere
 with the door opening warning. There are
@@ -8822,7 +8260,6 @@ remember to observe whether the door
 opening environment is safe and suitable.
 
 ### Rear cross traffic alarm (RCTA)*
-`forthing_u_tour_en_caecfa6c` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:206 | doc_type:owners_manual
 
 The RCTA system can detect vehicles,
 cyclists or pedestrians crossing the rear of
@@ -8833,7 +8270,6 @@ risk, and the RCTA system will release
 warning information to prevent collision.
 
 ### The RCTA switch state is the last
-`forthing_u_tour_en_fa03f721` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:206 | doc_type:owners_manual
 
 operation state by default. Tap [Settings] -
 [Vehicle] - [Driver Assistance] - [RCTA]
@@ -8848,7 +8284,6 @@ and relax. It is always the responsibility of
 the driver to reverse in a safe manner.
 
 ### The RCTA system alarm area is 0 m to
-`forthing_u_tour_en_b31bb2d3` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:206 | doc_type:owners_manual
 
 30 m laterally from the left and right sides of
 the vehicle, and from the rear of the vehicle
@@ -8857,7 +8292,6 @@ shaded area is the warning area, which is
 bilaterally symmetrical.
 
 ### When the vehicle is reversing and a
-`forthing_u_tour_en_cd6d33fd` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:206 | doc_type:owners_manual
 
 target approaches the rear of the vehicle, the
 rearview mirror warning light will flash,
@@ -8870,7 +8304,6 @@ the
 panoramic/full-automatic parking interface.
 
 ### Conditions in which RCTA system may not
-`forthing_u_tour_en_4ce4f449` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:206 | doc_type:owners_manual
 
 work
 There are a variety of reasons that
@@ -8884,7 +8317,6 @@ large volume in the blind spot.
 too high.
 
 ### The above warnings and restrictions do
-`forthing_u_tour_en_67c98c15` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:207 | doc_type:owners_manual
 
 not address all situations that may interfere
 with RCTA system. Many factors may
@@ -8894,7 +8326,6 @@ and pay attention to road conditions at all
 times during driving so as to reverse safely.
 
 ### The working range of AEB system is
-`forthing_u_tour_en_b87dbcd6` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:207 | doc_type:owners_manual
 
 8~75 km/h. The system detects the distance
 and relative speed between vehicle and
@@ -8916,7 +8347,6 @@ Warning
 
 
 ### AEB system is an active safety
-`forthing_u_tour_en_f352770b` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:207 | doc_type:owners_manual
 
 assistance system, but it cannot completely
 avoid collisions with vehicles or pedestrians
@@ -8933,7 +8363,6 @@ In case of an emergency, the driver
 should brake as soon as possible.
 
 ### When the vehicle is too close to the
-`forthing_u_tour_en_bef76afe` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:207 | doc_type:owners_manual
 
 vehicle ahead, AEB system will work and
 the AEB indicator (red) will stay on; when
@@ -8946,7 +8375,6 @@ recommended that the user turn off AEB
 system.
 
 ### When AEB system triggers automatic
-`forthing_u_tour_en_3404a5ff` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:208 | doc_type:owners_manual
 
 emergency braking, a warning image will
 pop up on the combination instrument, and a
@@ -8954,7 +8382,6 @@ rapid audible alarm signal will be given at
 the same time.
 
 ### Conditions in which the system function
-`forthing_u_tour_en_85e6e5b5` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:208 | doc_type:owners_manual
 
 may be limited
 The response and braking capacity of
@@ -9044,7 +8471,6 @@ low in height, carrying large objects, and
 having poor contrast, etc.
 
 ### Constraints
-`forthing_u_tour_en_5fdf0b43` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:208 | doc_type:owners_manual
 
 of
 traffic
@@ -9058,7 +8484,6 @@ sensor is blocked by ice, snow or dust.
 Please keep the front windshield clean.
 
 ### Comfortable Driving
-`forthing_u_tour_en_16ee6749` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:209 | doc_type:owners_manual
 
 When the visibility is poor, such as in
 foggy
@@ -9077,7 +8502,6 @@ AEB system may not detect vehicles in time,
 resulting in delay of emergency braking.
 
 ### AEB system may be automatically
-`forthing_u_tour_en_f4fb58a0` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:209 | doc_type:owners_manual
 
 deactivated under the following conditions:
 The sensor is blocked.
@@ -9091,7 +8515,6 @@ system works abnormally or is turned off.
 failures.
 
 ### AEB system will not be triggered when
-`forthing_u_tour_en_7bfc0afd` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:209 | doc_type:owners_manual
 
 any of the following inhibition conditions is
 met:
@@ -9106,7 +8529,6 @@ control and depresses the accelerator pedal
 too hard.
 
 ### Description
-`forthing_u_tour_en_9c2d3028` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:209 | doc_type:owners_manual
 
 of
 system
@@ -9126,7 +8548,6 @@ threshold of 40 km/h, AEB stops automatic
 braking.
 
 ### (FCW) *
-`forthing_u_tour_en_00ab42f3` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:209 | doc_type:owners_manual
 
 FCW
 system
@@ -9155,7 +8576,6 @@ of the vehicle and be responsible for the
 vehicle.
 
 ### Comfortable Driving
-`forthing_u_tour_en_b4bd966f` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:210 | doc_type:owners_manual
 
 Warning
 
@@ -9165,7 +8585,6 @@ the brakes without relying too heavily on the
 alarm.
 
 ### FCW system has limited response
-`forthing_u_tour_en_870d94e9` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:210 | doc_type:owners_manual
 
 capacity and may not send out alarm signals
 in time. For example, when a vehicle ahead
@@ -9177,7 +8596,6 @@ suddenly enters the driving lane, it may not
 be able to give an alarm in time.
 
 ### When the vehicle is too close to the
-`forthing_u_tour_en_9e317a02` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:210 | doc_type:owners_manual
 
 vehicle ahead, FCW system will work and
 the FCW system warning light (red) will
@@ -9195,7 +8613,6 @@ adjustment, including three levels: advance,
 normal and delay.
 
 ### FCW system is turned on by default
-`forthing_u_tour_en_012c1577` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:210 | doc_type:owners_manual
 
 when the vehicle leaves the factory, with
 normal sensitivity and sensitivity memory
@@ -9214,7 +8631,6 @@ combination instrument, and an audible
 alarm signal will be given at the same time.
 
 ### Conditions in which the system function
-`forthing_u_tour_en_f66dd4be` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:210 | doc_type:owners_manual
 
 may be limited
 FCW
@@ -9255,7 +8671,6 @@ adults with a height of 1.5~2.3 m and
 children with a height of more than 0.8 m.
 
 ### Comfortable Driving
-`forthing_u_tour_en_d3c3b651` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:211 | doc_type:owners_manual
 
 To give full play to the best detection
 performance of FCW system, the camera
@@ -9298,7 +8713,6 @@ low in height, carrying large objects, and
 having poor contrast, etc.
 
 ### Constraints
-`forthing_u_tour_en_f76e8a8e` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:211 | doc_type:owners_manual
 
 of
 traffic
@@ -9317,7 +8731,6 @@ the FCW system may not identify vehicles
 in time, resulting in alarm delay.
 
 ### FCW system may be automatically
-`forthing_u_tour_en_79be3b71` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:211 | doc_type:owners_manual
 
 deactivated under the following conditions:
 The sensor is blocked.
@@ -9326,7 +8739,6 @@ deactivated under the following conditions:
 failures.
 
 ### FCW system will not be triggered
-`forthing_u_tour_en_4d8694ab` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:211 | doc_type:owners_manual
 
 when any of the inhibition conditions is met:
 The
@@ -9341,7 +8753,6 @@ too hard.
 The driver depresses the brake pedal.
 
 ### When the vehicle passes a traffic speed
-`forthing_u_tour_en_538e411d` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:212 | doc_type:owners_manual
 
 limit sign, TSR system identifies the speed
 limit sign through the front-view camera
@@ -9352,7 +8763,6 @@ Warning
 
 
 ### Do not stick any substance on the front
-`forthing_u_tour_en_55b10e76` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:212 | doc_type:owners_manual
 
 windshield, as this may reduce the
 effectiveness of TSR system or cause the
@@ -9366,7 +8776,6 @@ conditions.
 
 
 ### TSR system cannot replace the driver's
-`forthing_u_tour_en_18f63b2c` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:212 | doc_type:owners_manual
 
 attention and judgment. The driver is always
 responsible for ensuring that the vehicle
@@ -9375,7 +8784,6 @@ accordance with current traffic laws and
 regulations.
 
 ### Description
-`forthing_u_tour_en_dafa451d` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:212 | doc_type:owners_manual
 
 of
 combination
@@ -9406,7 +8814,6 @@ after 10s or when the vehicle decelerates
 below the speed limit.
 
 ### Conditions in which TSR system function
-`forthing_u_tour_en_4c4f1aa0` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:212 | doc_type:owners_manual
 
 may be limited
 TSR system can detect standard
@@ -9423,7 +8830,6 @@ be
 accurately detected by TSR system.
 
 ### Constraints of traffic environment on TSR
-`forthing_u_tour_en_2f94bb33` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:212 | doc_type:owners_manual
 
 system safety
 TSR system may fail to detect traffic
@@ -9431,7 +8837,6 @@ signs on curved or hilly roads, or when the
 sensor is blocked by snow, ice or dust.
 
 ### Comfortable Driving
-`forthing_u_tour_en_a20ed010` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:213 | doc_type:owners_manual
 
 When the visibility is poor, such as in
 foggy, rainy or snowy days, the detection
@@ -9451,7 +8856,6 @@ not
 conform to the standard approved format,
 
 ### Description of conditions for system to clear
-`forthing_u_tour_en_898b96fd` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:213 | doc_type:owners_manual
 
 the current speed limit
 When the vehicle runs for a certain
@@ -9469,7 +8873,6 @@ low speed, TSR system will clear the speed
 limit.
 
 ### Description of factors affecting calibration
-`forthing_u_tour_en_e6874204` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:213 | doc_type:owners_manual
 
 Removal and installation of interior
 rearview mirrors
@@ -9483,7 +8886,6 @@ needs to be recalibrated; otherwise, it cannot
 work normally.
 
 ### Instructions for sensor cleaning
-`forthing_u_tour_en_f55d4d94` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:213 | doc_type:owners_manual
 
 The
 front-view
@@ -9504,7 +8906,6 @@ signs. Therefore, the driver needs to pay
 special attention.
 
 ### IHC system detects the headlights of
-`forthing_u_tour_en_87306983` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:213 | doc_type:owners_manual
 
 oncoming vehicles or the taillight beam of
 vehicles
@@ -9518,14 +8919,12 @@ cannot detect oncoming vehicles or vehicles
 ahead, the high beams will be reactivated.
 
 ### Do not stick any item on the front
-`forthing_u_tour_en_377a082a` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:214 | doc_type:owners_manual
 
 windshield, as this may reduce the
 effectiveness of IHC system or cause the
 system to stop working.
 
 ### The system can be activated when the
-`forthing_u_tour_en_2218f2fa` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:214 | doc_type:owners_manual
 
 following
 conditions
@@ -9539,7 +8938,6 @@ ring is in AUTO position.
 The vehicle speed is above 45 km/h.
 
 ### IHC system can detect the following
-`forthing_u_tour_en_06624913` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:214 | doc_type:owners_manual
 
 targets:
 Opposite
@@ -9562,7 +8960,6 @@ failure in normal detection.
 detected as vehicle taillights.
 
 ### Constraints
-`forthing_u_tour_en_391be971` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:214 | doc_type:owners_manual
 
 of
 traffic
@@ -9585,7 +8982,6 @@ normally when the light of the vehicle ahead
 is blocked (such as the crash barrier).
 
 ### Manual system release conditions
-`forthing_u_tour_en_4e51ee3c` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:214 | doc_type:owners_manual
 
 The light control handle adjusting
 ring is not in AUTO position.
@@ -9594,7 +8990,6 @@ ring is not in AUTO position.
 into the overtaking light position.
 
 ### After replacement of the front-view
-`forthing_u_tour_en_7281370e` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:215 | doc_type:owners_manual
 
 camera and front windshield, four-wheel
 alignment, body and chassis modification or
@@ -9613,7 +9008,6 @@ performance will be reduced or IHC system
 cannot work normally.
 
 ### Instructions for sensor cleaning
-`forthing_u_tour_en_d872d506` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:215 | doc_type:owners_manual
 
 The
 front-view
@@ -9629,7 +9023,6 @@ locked, ROD system will detect the rear
 occupants. If occupants or pets are detected,
 
 ### The ROD switch status is the last
-`forthing_u_tour_en_ffe764f0` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:215 | doc_type:owners_manual
 
 operation status by default. Tap [Settings] -
 [Vehicle] - [Driver Assistance] - [ROD]
@@ -9646,7 +9039,6 @@ the vehicle before leaving.
 
 
 ### Please pay attention to the network
-`forthing_u_tour_en_65f76902` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:215 | doc_type:owners_manual
 
 environment around the vehicle. Network
 restrictions (such as parking in underground
@@ -9657,7 +9049,6 @@ smoothly.
 
 
 ### Obstructions or moving objects can
-`forthing_u_tour_en_883f6263` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:215 | doc_type:owners_manual
 
 interfere with the normal operation of
 sensors and may affect the timeliness and
@@ -9678,7 +9069,6 @@ of
 Chapter V "IVI System".
 
 ### When ROD system detects that there
-`forthing_u_tour_en_93dc4934` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:215 | doc_type:owners_manual
 
 are occupants left in the vehicle, it will
 remind the driver through a mobile phone
@@ -9692,7 +9082,6 @@ vehicle will sound its horn and flash the
 warning light.
 
 ### Front compartment gutter channel
-`forthing_u_tour_en_7d9d0498` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:217 | doc_type:owners_manual
 
 Layout of engine compartment.......... 221
 Inspection of glass washer fluid. 225
@@ -9709,7 +9098,6 @@ brake lights, and license plate
 Items
 
 ### Regular and professional maintenance
-`forthing_u_tour_en_d7d925cd` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:218 | doc_type:owners_manual
 
 can keep the vehicle in good condition. The
 following will describe how to keep the
@@ -9718,7 +9106,6 @@ car washing, paint, polishing and wheel
 cleaning, as well as anti-corrosion measures.
 
 ### Frequent washing helps preserve your
-`forthing_u_tour_en_1f765199` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:218 | doc_type:owners_manual
 
 car’s appearance. Dust and grit will scratch
 the paint surface, and leaves and bird
@@ -9728,7 +9115,6 @@ recommended to clean the vehicle body in a
 cool place.
 
 ### Only solvents and cleaning agents
-`forthing_u_tour_en_e99155e1` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:218 | doc_type:owners_manual
 
 recommended in the User and Warranty
 Manual can be used. As drying the vehicle,
@@ -9736,7 +9122,6 @@ check it for chips or scratches. If found,
 repair it with touch-up paint.
 
 ### Using chemical solvents and strong
-`forthing_u_tour_en_4d5768f1` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:219 | doc_type:owners_manual
 
 detergents when cleaning the vehicle will
 damage the paint, metal and plastic parts of
@@ -9759,7 +9144,6 @@ the vehicle body.
 Waxing
 
 ### Wax the vehicle only after cleaning and
-`forthing_u_tour_en_19d27268` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:219 | doc_type:owners_manual
 
 drying, and wax it at least once every three
 months, which helps to protect the body.
@@ -9772,7 +9156,6 @@ the new vehicle is used for about half a year.
 2. Polishing wax
 
 ### Polishing wax can repair the paint that
-`forthing_u_tour_en_a4797d97` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:219 | doc_type:owners_manual
 
 has been oxidized or lost its gloss, making it
 glossy again. Such waxes generally contain
@@ -9783,7 +9166,6 @@ applied, polishing wax shall be applied.
 Note
 
 ### When the detergent is used to remove such
-`forthing_u_tour_en_7a72591b` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:219 | doc_type:owners_manual
 
 pollutants as pitch and insects, dewaxing
 may occur. Therefore, it is necessary to
@@ -9795,7 +9177,6 @@ special repair film or repair paint to prevent
 corrosion.
 
 ### When cleaning the exterior of the
-`forthing_u_tour_en_3e0da217` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:219 | doc_type:owners_manual
 
 vehicle body, the aluminum alloy wheels of
 the vehicle shall be cleaned at the same time.
@@ -9814,7 +9195,6 @@ water passage structure in the front of the
 vehicle.
 
 ### Check the drainage condition of the
-`forthing_u_tour_en_20f04b07` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:219 | doc_type:owners_manual
 
 front compartment gutter channel every
 5000 km, and try to ensure that the wiper
@@ -9827,7 +9207,6 @@ authorized service station of Dongfeng
 Forthing in time.
 
 ### The sealing strip is a rubber sealing
-`forthing_u_tour_en_0e6f8d58` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:220 | doc_type:owners_manual
 
 part installed on the door or vehicle body. It
 is one of the parts that ensure the waterproof
@@ -9849,7 +9228,6 @@ strip, please contact the authorized service
 station of Dongfeng Forthing in time.
 
 ### The dust on the carpet should often be
-`forthing_u_tour_en_2bae71a6` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:220 | doc_type:owners_manual
 
 cleaned by a vacuum cleaner. Excessive
 dust
@@ -9870,7 +9248,6 @@ use a spray or foam type vinylon cleaner.
 Leather
 
 ### Frequently use a vacuum cleaner to
-`forthing_u_tour_en_485b775a` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:220 | doc_type:owners_manual
 
 remove dust and dirt from the leather,
 especially at wrinkles and joints. Clean the
@@ -9881,14 +9258,12 @@ special soap for leather can be used.
 Window
 
 ### Use the glass detergent to clean both
-`forthing_u_tour_en_6496c089` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:220 | doc_type:owners_manual
 
 interior and exterior sides of the windows.
 and then wipe all glass and plastic surfaces
 dry with soft cloth or tissue.
 
 ### Seat belt
-`forthing_u_tour_en_e0b760b0` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:220 | doc_type:owners_manual
 
 If the seat belts are dirty, use a soft
 brush with neutral warm soapy water to
@@ -9904,7 +9279,6 @@ durability of the seat belt. Do not use the
 seat belt before it becomes dry.
 
 ### Too much dust accumulated at the loop
-`forthing_u_tour_en_cf754192` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:220 | doc_type:owners_manual
 
 at the seat belt outlet will lead to slow
 contraction of the seat belt. The inner side of
@@ -9917,7 +9291,6 @@ cleaning, please contact the authorized
 service station of Dongfeng Forthing.
 
 ### If you need to use air freshener or
-`forthing_u_tour_en_23987f3b` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:220 | doc_type:owners_manual
 
 deodorant inside the vehicle, you had better
 choose
@@ -9931,14 +9304,12 @@ fresheners will cause fiber breakage or
 fading of the interior trim and fabric.
 
 ### Service and Maintenance
-`forthing_u_tour_en_41fea58f` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:221 | doc_type:owners_manual
 
 If using liquid air freshener, ensure it is
 securely fastened to prevent splashing while
 driving.
 
 ### Anti-corrosion
-`forthing_u_tour_en_f345a6e9` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:221 | doc_type:owners_manual
 
 Salt, dirt and moisture can easily
 accumulate under the vehicle. Scraping off
@@ -9955,7 +9326,6 @@ condition.
 etc.
 
 ### Opening of the engine hood
-`forthing_u_tour_en_ba3e43a4` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:221 | doc_type:owners_manual
 
 1. Pull the engine hood opening handle
 at the lower left side of the dashboard, and
@@ -9964,7 +9334,6 @@ the engine hood will pop up slightly.
 and lift the engine hood.
 
 ### Closing the engine hood
-`forthing_u_tour_en_496f01e3` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:221 | doc_type:owners_manual
 
 For
 models
@@ -9984,7 +9353,6 @@ middle part of the front end of the engine
 hood until it is fully closed.
 
 ### Layout of engine compartment
-`forthing_u_tour_en_7061906a` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:222 | doc_type:owners_manual
 
 The picture is for reference only, and the actual vehicle shall prevail.
 1. Access cover in engine compartment
@@ -9995,7 +9363,6 @@ The picture is for reference only, and the actual vehicle shall prevail.
 6. Engine compartment fuse box
 
 ### This vehicle does not require any oil
-`forthing_u_tour_en_e4b531c9` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:223 | doc_type:owners_manual
 
 additives. Additives do not improve the
 performance of the engine and the automatic
@@ -10007,7 +9374,6 @@ consequences of the engine caused by the
 use of additives.
 
 ### The main function of GPF is to filter
-`forthing_u_tour_en_671a370e` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:223 | doc_type:owners_manual
 
 the particulate matter in the tail gas and
 reduce the concentration and quantity of
@@ -10041,7 +9407,6 @@ regeneration and gradually accumulates in
 GPF, resulting in GPF blockage.
 
 ### The formation of ash is closely related
-`forthing_u_tour_en_6ffd1064` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:223 | doc_type:owners_manual
 
 to the lubricant additives. In order to reduce
 ash, low ash and high-grade engine oil
@@ -10050,7 +9415,6 @@ Low
 Ash
 
 ### SP5W-30(LA)"
-`forthing_u_tour_en_f19868af` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:223 | doc_type:owners_manual
 
 engine
 oil
@@ -10066,7 +9430,6 @@ the engine, and thus reduce the maintenance
 cost.
 
 ### Engine oil is a consumable to ensure
-`forthing_u_tour_en_2c749f2f` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:223 | doc_type:owners_manual
 
 the normal operation of the engine, and its
 liquid level should be checked regularly. For
@@ -10087,7 +9450,6 @@ inspection.
 1. Take out the engine oil dipstick.
 
 ### Take out the oil dipstick again
-`forthing_u_tour_en_70b5e745` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:224 | doc_type:owners_manual
 
 and check the engine oil level. The fluid
 level must be between the upper limit (MAX)
@@ -10099,7 +9461,6 @@ Warning
 Check the engine oil level frequently.
 
 ### Warm up the engine for a few minutes
-`forthing_u_tour_en_123f7b7d` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:224 | doc_type:owners_manual
 
 and then shut down the engine. After about 5
 minutes, check the engine oil level on the oil
@@ -10132,7 +9493,6 @@ cylinder.
 Warning
 
 ### Engine oil plays an important role in
-`forthing_u_tour_en_e6ab3396` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:224 | doc_type:owners_manual
 
 the operation and service life of the engine
 and must be replaced according to the
@@ -10152,7 +9512,6 @@ Warning
 
 
 ### Check whether the coolant level is
-`forthing_u_tour_en_70a7b39d` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:225 | doc_type:owners_manual
 
 between the upper limit (MAX) and the
 lower limit (MIN) marks. If it is lower than
@@ -10161,7 +9520,6 @@ expansion tank to the position near the upper
 limit.
 
 ### Open the cover of fluid reservoir to add
-`forthing_u_tour_en_933bf3c4` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:225 | doc_type:owners_manual
 
 the coolant. After adding the coolant, put on
 the cover and tighten it. Do not mix coolants
@@ -10180,7 +9538,6 @@ expansion tank cap, make sure that the
 engine and radiator have cooled down.
 
 ### Replacement of coolant
-`forthing_u_tour_en_b8ef48b5` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:225 | doc_type:owners_manual
 
 Under
 normal
@@ -10190,7 +9547,6 @@ coolant needs to be replaced every 2 years or
 20,000 km, whichever comes first.
 
 ### The fluid level should be between
-`forthing_u_tour_en_571da15a` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:225 | doc_type:owners_manual
 
 the lower limit (MIN) and the upper limit
 (MAX) marks on the reservoir wall. If the
@@ -10200,7 +9556,6 @@ of Dongfeng Forthing Automobile Co., Ltd.
 for inspection in time.
 
 ### The brake fluid will absorb water in the
-`forthing_u_tour_en_8f4f67fd` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:225 | doc_type:owners_manual
 
 air. Excessive water content will cause
 corrosion and damage to the brake system,
@@ -10219,7 +9574,6 @@ station of Dongfeng Forthing for brake fluid
 replacement.
 
 ### Be sure to use the brake fluid designated
-`forthing_u_tour_en_32d237f4` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:226 | doc_type:owners_manual
 
 by Dongfeng Forthing or DOT4 products of
 the same grade packaged in closed
@@ -10235,7 +9589,6 @@ device.
 
 
 ### The brake fluid is toxic and should be
-`forthing_u_tour_en_d3cabb91` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:226 | doc_type:owners_manual
 
 kept out of the reach of children. Once
 swallowed by mistake, go to the hospital
@@ -10243,7 +9596,6 @@ immediately for examination.
 
 
 ### The brake fluid is corrosive and shall not
-`forthing_u_tour_en_d4fe6d26` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:226 | doc_type:owners_manual
 
 be allowed to contact with paint. Once it
 overflows onto the paint, wash it off with
@@ -10256,7 +9608,6 @@ unwell, go to the hospital immediately for
 examination.
 
 ### If no water is sprayed by using the
-`forthing_u_tour_en_0c4d4899` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:226 | doc_type:owners_manual
 
 wiper spraying function, it indicates that the
 glass washer fluid is insufficient and can be
@@ -10265,7 +9616,6 @@ Note
 
 
 ### It is recommended to use the glass
-`forthing_u_tour_en_a13b6238` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:226 | doc_type:owners_manual
 
 washer fluid specified by Dongfeng
 Forthing. Antifreeze will damage the paint
@@ -10278,7 +9628,6 @@ ethanol content of the detergent should not
 exceed 24%
 
 ### Replace the air filter according to the
-`forthing_u_tour_en_ad0e5f71` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:227 | doc_type:owners_manual
 
 time and mileage specified in the regular
 maintenance table. If the air filter is installed
@@ -10289,7 +9638,6 @@ filter, please contact the authorized service
 station of Dongfeng Forthing.
 
 ### Replace the fuel filter according to the
-`forthing_u_tour_en_b4527f1e` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:227 | doc_type:owners_manual
 
 time and mileage specified in the periodic
 maintenance table. It is recommended to
@@ -10315,7 +9663,6 @@ start. If the battery voltage is severely
 insufficient, the engine will fail to start.
 
 ### Battery use and precautions
-`forthing_u_tour_en_8b5b0ea5` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:227 | doc_type:owners_manual
 
 Do not use electrical appliances such
 as lamp, sound and wiper for a long time
@@ -10331,14 +9678,12 @@ A/C are shut down.
 Check the battery once a month.
 
 ### Check its terminals for corrosion degree
-`forthing_u_tour_en_4ade1862` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:227 | doc_type:owners_manual
 
 (white or faint yellow powder). In case of
 corrosion, please contact the authorized
 service station of Dongfeng Forthing.
 
 ### Battery electrolyte is highly corrosive
-`forthing_u_tour_en_ea80435f` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:228 | doc_type:owners_manual
 
 and toxic. In case of accidental contact,
 please handle it as follows:
@@ -10355,7 +9700,6 @@ Warning
 
 
 ### If it is necessary to connect the battery to
-`forthing_u_tour_en_7dbe7314` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:228 | doc_type:owners_manual
 
 other chargers, disconnect the positive and
 negative cables to avoid damaging the
@@ -10370,7 +9714,6 @@ explode, and its explosion energy is enough
 to cause serious injury.
 
 ### Squeeze the upper and lower
-`forthing_u_tour_en_5319d58b` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:228 | doc_type:owners_manual
 
 sides of the A/C filter to disengage the tabs
 on both sides and remove the filter.
@@ -10380,7 +9723,6 @@ Insert a new A/C filter.
 Close the glove box.
 
 ### Turn on the air conditioner at least once
-`forthing_u_tour_en_8bc7d577` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:228 | doc_type:owners_manual
 
 every two weeks for at least 5 minutes even
 in cold months. This is to prevent the
@@ -10396,7 +9738,6 @@ Note
 
 
 ### Tire pressure labels are attached on the
-`forthing_u_tour_en_941d5390` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:229 | doc_type:owners_manual
 
 vehicle. The label is located below the
 driver's door frame, indicating the front and
@@ -10410,7 +9751,6 @@ to the cold tire pressure recommended on
 the label.
 
 ### If the tire pressure is checked when the
-`forthing_u_tour_en_ab2e8545` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:229 | doc_type:owners_manual
 
 tire is hot (after several kilometers of
 driving), the pressure reading will be 30 to
@@ -10421,7 +9761,6 @@ reading, which will cause insufficient tire
 pressure.
 
 ### The tire pressure monitoring system is
-`forthing_u_tour_en_d53cf7f5` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:229 | doc_type:owners_manual
 
 used
 to
@@ -10449,7 +9788,6 @@ designated tire is on, it indicates that the tire
 pressure monitoring system loses its signal.
 
 ### The tire pressure information displayed
-`forthing_u_tour_en_2336f751` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:229 | doc_type:owners_manual
 
 in the stationary status is the information
 when the vehicle is last running. Therefore,
@@ -10461,7 +9799,6 @@ tire pressure information interface updates
 the data.
 
 ### Maintaining proper tire pressure can
-`forthing_u_tour_en_eec8b69b` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:229 | doc_type:owners_manual
 
 make the vehicle maneuverability, tread life
 and driving comfort reach the best state.
@@ -10480,14 +9817,12 @@ due to uneven road surface, resulting in
 uneven tire wear.
 
 ### Every time when checking the inflation
-`forthing_u_tour_en_0a497a3a` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:229 | doc_type:owners_manual
 
 state of the tire, check whether the tire is
 damaged, punctured by foreign matters and
 worn. Specific inspections are as follows:
 
 ### Service and Maintenance
-`forthing_u_tour_en_5374ec32` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:230 | doc_type:owners_manual
 
 Scratches, cracks or fractures on the
 side of the tire. If the tire fabrics or cords are
@@ -10503,7 +9838,6 @@ tire lacks adhesion when driving on a
 slippery road.
 
 ### Tire maintenance
-`forthing_u_tour_en_42998c2c` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:230 | doc_type:owners_manual
 
 In addition to proper inflation, correct
 wheel alignment also helps to reduce tread
@@ -10514,7 +9848,6 @@ authorized service station of Dongfeng
 Forthing.
 
 ### In order to prolong the service life of
-`forthing_u_tour_en_1bc9f013` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:230 | doc_type:owners_manual
 
 the tire and make the tire wear evenly, the
 tire position shall be changed every 10,000
@@ -10528,7 +9861,6 @@ operation shall be carried out according to
 the method shown in the above figure.
 
 ### As for the tire size suitable for this
-`forthing_u_tour_en_d7fd1363` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:230 | doc_type:owners_manual
 
 vehicle, please refer to the tire nameplate
 pasted under the driver's door frame, or
@@ -10536,7 +9868,6 @@ contact the authorized service station of
 Dongfeng Forthing.
 
 ### Replace with radial tires having the
-`forthing_u_tour_en_c5ccf38c` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:230 | doc_type:owners_manual
 
 same size, load scope, rated speed and
 maximum cold tire pressure (indicated on
@@ -10550,7 +9881,6 @@ steering
 accuracy.
 
 ### The ABS system works by comparing
-`forthing_u_tour_en_384ac925` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:231 | doc_type:owners_manual
 
 the wheel speeds. Therefore, when replacing
 the tires, the tires with the same size as the
@@ -10559,7 +9889,6 @@ Otherwise, the wheel speeds will be affected
 and the system may act inconsistently.
 
 ### Replacing only one tire will seriously affect
-`forthing_u_tour_en_990fe978` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:231 | doc_type:owners_manual
 
 the maneuverability of the vehicle. If it is
 necessary to replace tires, it is recommended
@@ -10574,7 +9903,6 @@ the authorized service station of Dongfeng
 Forthing.
 
 ### It is recommended to use winter tires
-`forthing_u_tour_en_78731f85` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:231 | doc_type:owners_manual
 
 on icy and snowy roads due to the limited
 applicability of summer tires in winter.
@@ -10588,7 +9916,6 @@ according to the marks on the registration
 card.
 
 ### Snow tire chains can only be used in
-`forthing_u_tour_en_fc02e720` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:231 | doc_type:owners_manual
 
 emergency
 situations
@@ -10601,7 +9928,6 @@ on the driving wheels, preferably all four
 wheels.
 
 ### The tire chains matching the vehicle
-`forthing_u_tour_en_e45726c2` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:231 | doc_type:owners_manual
 
 tires shall be selected. After the anti-skid
 chains are installed, the maneuverability of
@@ -10612,7 +9938,6 @@ instructions of the tire chain manufacturer
 carefully.
 
 ### Press the hazard warning switch above
-`forthing_u_tour_en_fcaa6f05` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:233 | doc_type:owners_manual
 
 the A/C control panel, and the turn signal
 lamp and the turn signal and hazard signal
@@ -10621,7 +9946,6 @@ start to flash to remind pedestrians and
 passing vehicles to avoid the vehicle.
 
 ### The warning triangle is placed under
-`forthing_u_tour_en_b0442794` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:233 | doc_type:owners_manual
 
 the trunk cover and can be seen by lifting the
 cover.
@@ -10634,7 +9958,6 @@ coming behind, and turn on the hazard
 warning lights at the same time.
 
 ### Emergency Self-handling
-`forthing_u_tour_en_4ef4b721` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:234 | doc_type:owners_manual
 
 1. Warning triangle
 2. Jack*
@@ -10645,7 +9968,6 @@ warning lights at the same time.
 7. Tire repair kit*
 
 ### Park the vehicle in a place where the
-`forthing_u_tour_en_c6b39ab1` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:234 | doc_type:owners_manual
 
 traffic flow is little and it is convenient to
 replace the wheel safety. Before emergency
@@ -10655,7 +9977,6 @@ the warning triangle at an appropriate
 distance to avoid traffic accidents.
 
 ### Taking out the spare tire
-`forthing_u_tour_en_66be9037` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:234 | doc_type:owners_manual
 
 1.
 Remove
@@ -10676,7 +9997,6 @@ from the center of the spare tire hub and
 remove the spare tire.
 
 ### Emergency Self-handling
-`forthing_u_tour_en_ce039578` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:235 | doc_type:owners_manual
 
 4.
 Turn
@@ -10688,7 +10008,6 @@ clockwise to retract the cable fixing bracket
 until it is fully secured in position.
 
 ### Take out the wheel nut cover clip from
-`forthing_u_tour_en_e4707c6d` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:236 | doc_type:owners_manual
 
 the on-board tools and use the clip to
 remove the wheel nut trim cover.
@@ -10709,7 +10028,6 @@ the vehicle.
 Note
 
 ### Do not jack the jack at any position other
-`forthing_u_tour_en_2f605e02` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:236 | doc_type:owners_manual
 
 than the specified position. If the jacking
 position is incorrect, the vehicle body may
@@ -10717,7 +10035,6 @@ be sunken or accidents may occur when the
 vehicle body falls.
 
 ### Remove the wheel nuts with a wheel nut
-`forthing_u_tour_en_27c5d71c` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:236 | doc_type:owners_manual
 
 wrench, and then remove the tire. Clean the
 sludge on the hub surface, and then install
@@ -10726,7 +10043,6 @@ crossed sequence as shown in the figure
 until the wheel is close to the brake hub.
 
 ### Lower the vehicle to the ground and take out
-`forthing_u_tour_en_70c9570c` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:236 | doc_type:owners_manual
 
 the jack. Tighten the wheel nuts in the same
 cross manner and then install the nut trim
@@ -10745,7 +10061,6 @@ tire into the original spare tire position and
 secure it.
 
 ### Frequently check the spare tire pressure
-`forthing_u_tour_en_5b412d12` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:237 | doc_type:owners_manual
 
 to keep the pressure within the specified
 range for emergency use at any time.
@@ -10759,7 +10074,6 @@ be used safely.
 
 
 ### The spare tire is not allowed to be
-`forthing_u_tour_en_103cabdb` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:237 | doc_type:owners_manual
 
 installed on the front wheel. If the front
 wheel needs to be replaced, the spare tire
@@ -10768,7 +10082,6 @@ then the replaced rear wheel shall be
 installed on the front wheel.
 
 ### Your vehicle is equipped with emergency
-`forthing_u_tour_en_f89f1c9b` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:237 | doc_type:owners_manual
 
 tools for tire repair. Minor damage to the tire
 tread can be repaired with a vehicle tire
@@ -10785,7 +10098,6 @@ Warning
 
 
 ### The emergency tools for vehicle tire
-`forthing_u_tour_en_24c220df` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:237 | doc_type:owners_manual
 
 repair are limited to emergency repair of
 tires, and are suitable for short-distance use
@@ -10799,7 +10111,6 @@ tire as soon as possible.
 
 
 ### Park the vehicle as far away from the
-`forthing_u_tour_en_1408f9c5` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:237 | doc_type:owners_manual
 
 traffic flow as possible, and turn on the
 hazard warning indicator and place the
@@ -10815,7 +10126,6 @@ station of Dongfeng Forthing.
 
 
 ### If the tire leakage point is large or the
-`forthing_u_tour_en_0f3d18dd` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:237 | doc_type:owners_manual
 
 damaged position is close to the tire wall of
 the rim, do not use the emergency tool for
@@ -10832,7 +10142,6 @@ inflation pump and its hose will rise, which
 is normal.
 
 ### The validity period of the tire repair fluid
-`forthing_u_tour_en_355143a5` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:238 | doc_type:owners_manual
 
 is five years. Please confirm the production
 date before use (the production date is
@@ -10845,7 +10154,6 @@ range of tire repair fluid is -30℃～70℃.
 The tire repair fluid is a disposable item.
 
 ### Forthing to purchase new tire repair fluid as
-`forthing_u_tour_en_d943b87d` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:238 | doc_type:owners_manual
 
 soon as possible to ensure that the vehicle
 always has the tire repair fluid. After
@@ -10856,7 +10164,6 @@ possible.
 
 
 ### After repairing the tire with tire repair
-`forthing_u_tour_en_833e550f` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:238 | doc_type:owners_manual
 
 fluid, the vehicle speed shall not exceed 80
 km/h during driving, and sudden
@@ -10864,7 +10171,6 @@ acceleration, sudden braking and rapid
 turning shall be avoided.
 
 ### Usage of emergency tools for vehicle tire
-`forthing_u_tour_en_e9228538` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:238 | doc_type:owners_manual
 
 repair
 1.
@@ -10885,7 +10191,6 @@ appropriate distance.
 2.
 
 ### Take out
-`forthing_u_tour_en_56570728` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:238 | doc_type:owners_manual
 
 the emergency tire
 repair kit under the trunk floor cover, and
@@ -10900,14 +10205,12 @@ bottle, and then tighten it.
 4.
 
 ### Unscrew the protective cap of the
-`forthing_u_tour_en_c768af9a` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:238 | doc_type:owners_manual
 
 valve of the faulty tire, connect the hose of
 the tire repair fluid with the tire valve, and
 tighten it.
 
 ### Emergency Self-handling
-`forthing_u_tour_en_f7097142` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:239 | doc_type:owners_manual
 
 5. Start the vehicle, insert the power
 connector of the inflation pump into the 12V
@@ -10960,7 +10263,6 @@ the
 authorized service station of Dongfeng
 
 ### When the new vehicle leaves the
-`forthing_u_tour_en_b4b65f06` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:241 | doc_type:owners_manual
 
 factory, the headlight has been calibrated. If
 the trunk is frequently used to carry heavy
@@ -10975,7 +10277,6 @@ headlight calibration.
 FAQ
 
 ### Why does the headlight glass surface
-`forthing_u_tour_en_40b5cdf0` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:241 | doc_type:owners_manual
 
 fog sometimes?
 In general, the fog in the headlight is
@@ -10987,7 +10288,6 @@ the fog will finally dissipate after each
 formation.
 
 ### The method to eliminate fog is as
-`forthing_u_tour_en_7f4db375` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:241 | doc_type:owners_manual
 
 follows: During driving, after the low beam
 is turned on for a period of time, the fog in
@@ -11006,7 +10306,6 @@ clean the lamp.
 
 
 ### When the Start/Stop switch is turned to
-`forthing_u_tour_en_efc7cd49` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:242 | doc_type:owners_manual
 
 "OFF" position, pull the wiper control
 handle upwards, and the front wiper will
@@ -11015,7 +10314,6 @@ height, which is convenient for maintenance
 and repair of the wiper blade. When the
 
 ### Replacement of front wiper blade
-`forthing_u_tour_en_6a8faa0e` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:242 | doc_type:owners_manual
 
 1.
 After
@@ -11034,7 +10332,6 @@ ensure that the wiper blade is correctly
 installed in place.
 
 ### Check whether the wiper blades are
-`forthing_u_tour_en_72759938` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:242 | doc_type:owners_manual
 
 worn or broken.
 To replace the rear wiper blade, please
@@ -11050,7 +10347,6 @@ the automatic wiper function to avoid injury.
 Note
 
 ### The engine compartment fuse box is
-`forthing_u_tour_en_0a4ecf7f` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:243 | doc_type:owners_manual
 
 located in the upper right of the engine
 compartment. Remove the clips on the left
@@ -11058,7 +10354,6 @@ and right sides of the fuse box, and open the
 box cover to check the fuse.
 
 ### The fuse protects the vehicle electrical
-`forthing_u_tour_en_935e3003` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:243 | doc_type:owners_manual
 
 equipment
 by
@@ -11072,7 +10367,6 @@ fuse is suspected to be faulty, remove it with
 a fuse puller and check whether it is blown.
 
 ### There is a fuse puller in the engine
-`forthing_u_tour_en_8e361c11` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:244 | doc_type:owners_manual
 
 compartment fuse box. Pull the fuse straight
 out of the fuse box with the puller. If the
@@ -11091,7 +10385,6 @@ with the same amperage to replace the
 burnt-out one.
 
 ### If the replacement fuse with the same
-`forthing_u_tour_en_1298b442` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:244 | doc_type:owners_manual
 
 rating is blown again in a short time, it
 indicates that the vehicle may have a serious
@@ -11106,7 +10399,6 @@ service department. Do not tow the vehicle
 only with ropes or iron chains.
 
 ### The tractor inserts two supporting arms
-`forthing_u_tour_en_8c03048b` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:250 | doc_type:owners_manual
 
 into the bottom of the front wheels of the
 vehicle to lift the wheels off the ground, and
@@ -11119,7 +10411,6 @@ the towing mileage should not exceed 50 km
 and the speed shall be kept below 30 km/h.
 
 ### If the body is equipped with a front
-`forthing_u_tour_en_d1316408` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:250 | doc_type:owners_manual
 
 spoiler, remove it before towing to avoid
 damage. Do not lift or tow the vehicle from
@@ -11137,7 +10428,6 @@ Turn
 the
 
 ### Start/Stop
-`forthing_u_tour_en_73b2c0c3` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:250 | doc_type:owners_manual
 
 switch
 to
@@ -11152,14 +10442,12 @@ following steps.
 1.
 
 ### Connect the clamp at the other
-`forthing_u_tour_en_d9c6fd98` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:251 | doc_type:owners_manual
 
 end of the positive cable to the positive (+)
 terminal of the battery of the other vehicle.
 4.
 
 ### Connect the negative cable clamp
-`forthing_u_tour_en_63554c8a` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:251 | doc_type:owners_manual
 
 to the negative (-) terminal of the battery of
 the other vehicle.
@@ -11171,7 +10459,6 @@ to a solid, fixed, unpainted metal part.
 6.
 
 ### Start the engine of the other
-`forthing_u_tour_en_1e7aba04` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:251 | doc_type:owners_manual
 
 vehicle. Increase the engine speed slightly
 and maintain it for approximately 5 min to
@@ -11179,7 +10466,6 @@ charge the vehicle battery.
 7.
 
 ### After the engine of this vehicle is
-`forthing_u_tour_en_b821dd35` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:251 | doc_type:owners_manual
 
 started, please remove the jumper cable in
 an
@@ -11197,7 +10483,6 @@ vehicle maintenance as soon as possible.
 Warning
 
 ### When jumper starting with jumper cables
-`forthing_u_tour_en_96ca8925` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:251 | doc_type:owners_manual
 
 connected from other vehicles, correct
 operation must be carried out according to
@@ -11206,7 +10491,6 @@ steps may cause fire, explosion or damage to
 the vehicle.
 
 ### After the vehicle runs for a period of
-`forthing_u_tour_en_863979fc` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:251 | doc_type:owners_manual
 
 time, the coolant thermometer indication
 shall be stable at the middle scale position. If
@@ -11218,7 +10502,6 @@ case, immediately shut down the engine and
 shut down the vehicle.
 
 ### Drive the vehicle safely to the
-`forthing_u_tour_en_4833dd0a` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:251 | doc_type:owners_manual
 
 roadside, engage the N gear, and pull up the
 EPB switch. Turn off all electrical switches
@@ -11238,7 +10521,6 @@ Dongfeng Forthing as soon as possible.
 3.
 
 ### Check the coolant level in the
-`forthing_u_tour_en_e92ec2fe` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:252 | doc_type:owners_manual
 
 reservoir. If the reservoir is empty, be sure
 to wait for the engine to cool down before
@@ -11248,7 +10530,6 @@ water, causing burns.
 5.
 
 ### Add coolant to the reservoir as
-`forthing_u_tour_en_dde9f48d` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:252 | doc_type:owners_manual
 
 necessary.
 Adding
@@ -11260,7 +10541,6 @@ cylinder block. Therefore, coolant should be
 added slowly when the engine is running.
 
 ### The operation of adding coolant requires a
-`forthing_u_tour_en_ed7f1fd9` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:252 | doc_type:owners_manual
 
 high
 degree
@@ -11282,7 +10562,6 @@ install and tighten the reservoir cover.
 Warning
 
 ### Do not open the engine hood if steam is
-`forthing_u_tour_en_a3d4195d` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:252 | doc_type:owners_manual
 
 leaking. Contact with steam or mist spray
 coming out from the overheated engine will
@@ -11296,7 +10575,6 @@ vehicle indoors and take the following
 measures.
 
 ### Appropriate
-`forthing_u_tour_en_bd887b75` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:252 | doc_type:owners_manual
 
 measures
 can
@@ -11314,7 +10592,6 @@ rear wheels with obstacles.
 4.
 
 ### If the vehicle needs to be parked
-`forthing_u_tour_en_56b23035` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:252 | doc_type:owners_manual
 
 for a long time, use a jack support frame to
 support the vehicle body so that the tires are
@@ -11322,7 +10599,6 @@ off the ground.
 5.
 
 ### Pad the wiper blade with a towel
-`forthing_u_tour_en_a921cde1` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:252 | doc_type:owners_manual
 
 or cloth so that it does not come into contact
 with the front windshield.
@@ -11339,7 +10615,6 @@ and trunk seals contact.
 8.
 
 ### Cover the vehicle body with a
-`forthing_u_tour_en_12864ef4` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:252 | doc_type:owners_manual
 
 breathable
 covering
@@ -11362,7 +10637,6 @@ fan twice.
 Note
 
 ### If the vehicle has been parked for one year
-`forthing_u_tour_en_b7c1211b` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:253 | doc_type:owners_manual
 
 or more, it may not be able to start or its
 maneuverability may become poor. In this
@@ -11376,7 +10650,6 @@ Comprehensive fuel consumption...... 260
 Parameters of wheel alignment.......... 261
 
 ### There are several vehicle identification
-`forthing_u_tour_en_cf915474` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:255 | doc_type:owners_manual
 
 numbers (VINs) on your vehicle, which are
 located in different positions.
@@ -11394,13 +10667,11 @@ front windshield.
 3.
 
 ### Enter the engine ECU system
-`forthing_u_tour_en_3fb0655a` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:255 | doc_type:owners_manual
 
 through the OBD diagnostic interface with
 the X431 diagnostic apparatus and read the
 
 ### The vehicle sign is located under the
-`forthing_u_tour_en_2b361dc0` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:255 | doc_type:owners_manual
 
 right center pillar and contains the following
 information:
@@ -11414,7 +10685,6 @@ information:
 8. Manufacture date
 
 ### Number of passengers
-`forthing_u_tour_en_26292676` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:256 | doc_type:owners_manual
 
 Engine No.
 4A95TD engine number label position
@@ -11427,7 +10697,6 @@ open flames, and keep it ventilated during
 charging and use to prevent accidents.
 
 ### The radiator warning label and the A/C
-`forthing_u_tour_en_799cf825` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:257 | doc_type:owners_manual
 
 refrigerant label are pasted above the inner
 side of the engine hood. When replacing the
@@ -11442,7 +10711,6 @@ different brands. Do not touch the radiator,
 as the cooling fan may rotate at any time.
 
 ### Risk of carbon monoxide (CO) poisoning
-`forthing_u_tour_en_7ad62c78` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:257 | doc_type:owners_manual
 
 Carbon monoxide gas is toxic, and
 inhalation of the gas will seriously threaten
@@ -11471,7 +10739,6 @@ for
 ventilation.
 
 ### The microwave window of the vehicle
-`forthing_u_tour_en_8f1df780` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:257 | doc_type:owners_manual
 
 is located in the horizontal center and
 vertically upward position of the front
@@ -11487,7 +10754,6 @@ Note
 
 
 ### Do not paste film or metal materials on
-`forthing_u_tour_en_3982c8d9` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:257 | doc_type:owners_manual
 
 the microwave window to ensure the
 standard installation of vehicle electronic
@@ -11511,7 +10777,6 @@ axle
 kg
 
 ### LZ6480M15B2
-`forthing_u_tour_en_24a8b2a5` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:261 | doc_type:owners_manual
 
 Fuel
 consumption
@@ -11522,7 +10787,6 @@ L/100km
 Measurement Methods of Fuel Consumption for Light-duty Vehicles.
 
 ### When connecting the ECU and
-`forthing_u_tour_en_2d6e582c` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:262 | doc_type:owners_manual
 
 the harness connector, make sure that the
 system power supply is disconnected, i.e.
@@ -11531,7 +10795,6 @@ plug or unplug the ECU when the Start/Stop
 switch is turned on, so as to avoid contacting
 
 ### Sparks caused by static electricity
-`forthing_u_tour_en_08ec93bd` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:262 | doc_type:owners_manual
 
 may cause damage to the ECU. Try to avoid
 contact
@@ -11550,7 +10813,6 @@ other insulating liquid on ECU pins.
 6.
 
 ### Do not burn out the ECU when
-`forthing_u_tour_en_2a87ba10` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:263 | doc_type:owners_manual
 
 repairing the vehicle by electrical welding.
 If necessary, power off the ECU, remove it,
@@ -11559,7 +10821,6 @@ welding position.
 10.
 
 ### When the engine works and the air-fuel
-`forthing_u_tour_en_3f978a6a` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:263 | doc_type:owners_manual
 
 ratio increases, the concentration of oxygen
 in the exhaust will increase. At this time, the
@@ -11576,7 +10837,6 @@ any
 adjustment or repair.
 
 ### The oxygen sensor will fail in the
-`forthing_u_tour_en_dc23cb3a` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:263 | doc_type:owners_manual
 
 following conditions:
 The electrical connector of oxygen
@@ -11603,7 +10863,6 @@ short-circuited to housing.
 oxygen sensor is short-circuited to housing.
 
 ### Precautions
-`forthing_u_tour_en_6dc5e62b` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:263 | doc_type:owners_manual
 
 for
 using
@@ -11627,18 +10886,13 @@ and other organic matters, resulting in
 inaccurate sensor output signal.
 
 ### Information of key components and parts for emission control
-`forthing_u_tour_en_52e9f85a` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:264 | doc_type:owners_manual
 
 Vehicle type approval certificate information, manufacturer, model and effective
 service life of key components for emission control, etc.
 Items
 
 
-# Manual: forthing/u_tour (751 chunks)
-<!-- doc_type:owners_manual tier:2 lang:en source:forthing_u_tour_en.pdf -->
-
 ### Untitled
-`forthing_u_tour_en_7cada013` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 Foreword
 Dear users,
@@ -11664,7 +10918,6 @@ the time of publication. However, Dongfeng Liuzhou Motor Co., Ltd. reserves the 
 change the technical specification and design at any time without advance notice.
 
 ### Technical update instructions: IoV and electronic technology products are updated
-`forthing_u_tour_en_873886e0` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:2 | doc_type:owners_manual
 
 rapidly. Please update in time to guarantee user experience.
 If you want to know more about Forthing U-tour, please visit our website:
@@ -11673,7 +10926,6 @@ Wish you a safe journey!
 Dongfeng Liuzhou Motor Co., Ltd.
 
 ### January 2024
-`forthing_u_tour_en_78dcfde6` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:2 | doc_type:owners_manual
 
 All rights reserved. The Manual may not be copied or reproduced without prior written
 permission of Dongfeng Liuzhou Motor Co., Ltd.
@@ -11682,14 +10934,12 @@ shall prevail.
 Foreword
 
 ### Configuration Description
-`forthing_u_tour_en_933d6ca8` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:3 | doc_type:owners_manual
 
 * Asterisk
 Asterisk “*” following the title or name indicates that described device or function is only
 equipped in certain models, and may not necessarily be equipped in your vehicle.
 
 ### Safety description
-`forthing_u_tour_en_3e9eb40d` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:3 | doc_type:owners_manual
 
 Safety label plates — Attached to the vehicle.
 Safety prompt information — Identified by hazard warning symbols and words such as
@@ -11702,7 +10952,6 @@ Note
 Used to indicate the danger that may cause minor personal injury or vehicle injury.
 
 ### Vehicle Overview Index
-`forthing_u_tour_en_ba80fe06` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:7 | doc_type:owners_manual
 
 Exterior
 1. Trunk lid
@@ -11720,7 +10969,6 @@ Tire
 14.
 
 ### Interior roof
-`forthing_u_tour_en_e3c6d8e0` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:9 | doc_type:owners_manual
 
 1. Left sun visor
 4. Interior rearview mirror
@@ -11741,7 +10989,6 @@ Dashboard
 10. Glove box
 
 ### Auxiliary dashboard
-`forthing_u_tour_en_6a2afe1c` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:10 | doc_type:owners_manual
 
 1. Upper storage compartment of auxiliary
 dashboard
@@ -11754,7 +11001,6 @@ dashboard
 8. Automatic parking switch
 
 ### Precautions for using seat belt
-`forthing_u_tour_en_92106444` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:13 | doc_type:owners_manual
 
 Before driving the vehicle, be sure to
 read the content of this chapter, which is
@@ -11772,7 +11018,6 @@ accident.
 
 
 ### In case of emergency braking in an
-`forthing_u_tour_en_a12df0c4` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:13 | doc_type:owners_manual
 
 accident, the seat belt will restrain the
 driver and passengers on the seats to
@@ -11791,7 +11036,6 @@ Warning
 Be sure to wear the seat belt correctly.
 
 ### Do not place seat belt across the lower
-`forthing_u_tour_en_738dd750` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:13 | doc_type:owners_manual
 
 abdomen. Otherwise, the seat belt will
 strongly press the lower abdomen in case
@@ -11808,7 +11052,6 @@ efficacy and increase the risk of injury.
 
 
 ### Pregnant women should also like other
-`forthing_u_tour_en_06532301` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:13 | doc_type:owners_manual
 
 passengers, place the seat belt across the
 hip as low as possible, with the shoulder
@@ -11831,7 +11074,6 @@ not let the child sit on the front seat.
 
 
 ### Each passenger is only allowed to use
-`forthing_u_tour_en_cb0f890f` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:13 | doc_type:owners_manual
 
 one seat belt. Do not hold infants or
 children in your arms and then bypass
@@ -11856,7 +11098,6 @@ the shoulder.
 2.
 
 ### Adjust the position of the seat
-`forthing_u_tour_en_8e000a23` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:14 | doc_type:owners_manual
 
 backrest
 to
@@ -11876,7 +11117,6 @@ indicating that the seat belt is locked.
 2.
 
 ### Press the upper part of the seat
-`forthing_u_tour_en_6e649846` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:14 | doc_type:owners_manual
 
 belt shoulder belt height adjuster, and move
 it up and down to the desired position until a
@@ -11890,7 +11130,6 @@ to quickly protect the driver and passengers.
 Note
 
 ### There are two latches on the seat
-`forthing_u_tour_en_f4e8dbe2` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:15 | doc_type:owners_manual
 
 belt. First, insert the small latch ①into the
 small buckle on the left side of the seat, and
@@ -11903,7 +11142,6 @@ indicating that the seat belt is securely
 locked.
 
 ### Then insert the large latch of the
-`forthing_u_tour_en_76114f63` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:15 | doc_type:owners_manual
 
 middle seat belt or the latch of the rear-row
 side seat belt into the side of small buckle ①
@@ -11911,7 +11149,6 @@ to assist in unlocking the small buckle ①.
 3.
 
 ### The vehicle is equipped with a driver's
-`forthing_u_tour_en_1c1d8898` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:15 | doc_type:owners_manual
 
 seat belt reminder, and some models also
 have front-row passenger's and middle-row
@@ -11928,7 +11165,6 @@ alarm until the occupant fastens the seat
 belt.
 
 ### Each seat belt is equipped with a seat
-`forthing_u_tour_en_9278dd4c` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:15 | doc_type:owners_manual
 
 belt retractor. During normal driving, the
 retractor keeps the seat belt at a certain
@@ -11936,7 +11172,6 @@ tension, allowing the driver and passengers
 can still move freely on the seat.
 
 ### Safety and Protection
-`forthing_u_tour_en_5b645c2b` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:16 | doc_type:owners_manual
 
 In case of an emergency, the retractor will
 automatically tighten to restrain the driver
@@ -11964,7 +11199,6 @@ Forthing.
 Airbag
 
 ### When the degree of frontal or side
-`forthing_u_tour_en_c937eeea` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:16 | doc_type:owners_manual
 
 collision
 of
@@ -11978,7 +11212,6 @@ reduce the impact injury to the head and
 chest of the driver and passengers.
 
 ### Precautions for airbag application
-`forthing_u_tour_en_1944f3fe` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:16 | doc_type:owners_manual
 
 There is an airbag warning sign on
 the
@@ -12027,7 +11260,6 @@ please contact the authorized service station
 of Dongfeng Forthing for replacement.
 
 ### It helps to protect the head and chest of
-`forthing_u_tour_en_2917091a` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:17 | doc_type:owners_manual
 
 the driver and the front-row passenger from
 the impact of interior components.
@@ -12039,7 +11271,6 @@ of interior components.
 3. Middle-row side airbag*
 
 ### It helps to protect the torso of the
-`forthing_u_tour_en_f3a9995c` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:17 | doc_type:owners_manual
 
 middle-row passenger from the impact of
 interior components.
@@ -12053,7 +11284,6 @@ rear-row outboard passenger.
 Warning
 
 ### As the front side airbag and side curtain
-`forthing_u_tour_en_3ab1476e` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:17 | doc_type:owners_manual
 
 airbag are deployed with considerable speed
 and force, do not approach the head near the
@@ -12062,7 +11292,6 @@ curtain airbag during driving. Otherwise,
 personal injury may be caused.
 
 ### The front airbag is deployed when the
-`forthing_u_tour_en_5b73d68f` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:17 | doc_type:owners_manual
 
 vehicle collides with solid wall at a speed of
 25 km/h and above.
@@ -12070,7 +11299,6 @@ Front-row, middle-row side airbag and side
 curtain airbag
 
 ### Deployment condition of airbag*
-`forthing_u_tour_en_13a67e7e` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:17 | doc_type:owners_manual
 
 When
 the
@@ -12091,13 +11319,11 @@ deployment
 circumstances of airbag (except collision)
 
 ### The front airbag may be deployed if the
-`forthing_u_tour_en_3ed298a9` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:17 | doc_type:owners_manual
 
 bottom of the vehicle is severely impacted.
 Some examples are shown in the figure.
 
 ### Types of collisions without deployment of
-`forthing_u_tour_en_c9c04aa4` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:18 | doc_type:owners_manual
 
 airbag (front)
 Generally, the front seat airbag may not
@@ -12111,7 +11337,6 @@ forward deceleration.
 
 
 ### The front side airbag and side curtain
-`forthing_u_tour_en_63d4d39a` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:18 | doc_type:owners_manual
 
 airbag may not be deployed if the side
 collision of the vehicle at a certain angle to
@@ -12131,7 +11356,6 @@ collision, rollover, low-speed side collision
 and low-speed frontal collision.
 
 ### The vehicle is equipped with an event
-`forthing_u_tour_en_74d61008` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:19 | doc_type:owners_manual
 
 data recording system (EDR), and the
 recorded data can be used for collision
@@ -12161,7 +11385,6 @@ longitudinal
 delta-V time
 
 ### Clipping sign Time when the
-`forthing_u_tour_en_5f6b347d` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:19 | doc_type:owners_manual
 
 acceleration
 (lateral/longitudinal
@@ -12183,7 +11406,6 @@ percentage
 /
 
 ### Time interval
-`forthing_u_tour_en_ec67ca58` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:19 | doc_type:owners_manual
 
 between two events
 s
@@ -12200,7 +11422,6 @@ number for
 recording
 
 ### Software number of
-`forthing_u_tour_en_b7b2425f` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:19 | doc_type:owners_manual
 
 the EDR device
 /
@@ -12212,7 +11433,6 @@ of Dongfeng Forthing.
 The vehicle speed recorded by the
 
 ### EDR system comes from the wheel linear
-`forthing_u_tour_en_5708bfe9` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:20 | doc_type:owners_manual
 
 speed of the anti-lock brake system (ABS)
 equipped on the vehicle.
@@ -12241,7 +11461,6 @@ by subsequent event data, and a total of three
 event data can be recorded.
 
 ### Be sure to read the content of this
-`forthing_u_tour_en_28fbd4b8` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:21 | doc_type:owners_manual
 
 chapter when children ride in the vehicle.
 Children
@@ -12255,7 +11474,6 @@ seat belt for protection, and if necessary, an
 auxiliary safety cushion shall be installed.
 
 ### It is recommended that children sit in
-`forthing_u_tour_en_057f9524` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:21 | doc_type:owners_manual
 
 the middle-row or rear-row seats.
 During driving, use the rear door child
@@ -12273,7 +11491,6 @@ or other vehicle equipment.
 
 
 ### Do not leave children alone in the
-`forthing_u_tour_en_95763af9` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:21 | doc_type:owners_manual
 
 vehicle, as this may cause casualties due
 to
@@ -12295,7 +11512,6 @@ recommended to use a rear-facing child
 restraint system.
 
 ### According to the weight and height
-`forthing_u_tour_en_5cea69d3` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:21 | doc_type:owners_manual
 
 requirements specified by the manufacturer
 of child restraint system, children over one
@@ -12309,13 +11525,11 @@ belt does not fit properly, an auxiliary seat
 cushion can be installed for children.
 
 ### Child restraint system (provided by the user)
-`forthing_u_tour_en_16d7d975` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:22 | doc_type:owners_manual
 
 CRS needs to be provided by the user. Please use a CRS that complies with the
 GB27887-2011 standard.
 
 ### Applicability of child seat
-`forthing_u_tour_en_25ead25e` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:22 | doc_type:owners_manual
 
 In addition to three-point seat belts for children protection, the middle-row seats also
 provide child restraint system with two standard "ISOFIX" interfaces, and appropriate child
@@ -12324,7 +11538,6 @@ The child restraint system (CRS) applicable to this vehicle and the installation
 are shown in the table below.
 
 ### Group III (22 KG to 36 KG)
-`forthing_u_tour_en_834d66d6` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:22 | doc_type:owners_manual
 
 X
 U
@@ -12337,7 +11550,6 @@ If the "ISOFIX" child restraint system is adopted, the adaptability information 
 and the vehicle is shown in the table below.
 
 ### Group 0
-`forthing_u_tour_en_799a0d18` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:23 | doc_type:owners_manual
 
 E
 ISO/R1
@@ -12399,7 +11611,6 @@ IUF
 X
 
 ### Group III
-`forthing_u_tour_en_c4790109` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:23 | doc_type:owners_manual
 
 22KG~36KG
 （Ⅰ）
@@ -12424,7 +11635,6 @@ F—ISO/L1: Left lateral facing position child restraint system (carrycot).
 G—ISO/L2: Right lateral facing position child restraint system (carrycot).
 
 ### If the rear-facing child restraint system is
-`forthing_u_tour_en_19a341c2` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:24 | doc_type:owners_manual
 
 obstructed by the driver's seat and thus
 cannot be installed correctly, the rear-facing
@@ -12432,7 +11642,6 @@ child restraint system should be installed on
 the right rear seat.
 
 ### According to the instructions provided
-`forthing_u_tour_en_44b1f5c7` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:24 | doc_type:owners_manual
 
 by the manufacturer, pass the seat belt
 through or around the rear-facing child
@@ -12444,7 +11653,6 @@ and shake left and right to ensure that the
 child restraint system is firmly fixed.
 
 ### According to the instructions provided
-`forthing_u_tour_en_95b091b6` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:24 | doc_type:owners_manual
 
 by the manufacturer, pass the seat belt
 through the forward-facing child restraint
@@ -12460,7 +11668,6 @@ that the child restraint system is firmly
 fixed.
 
 ### Place the auxiliary seat cushion on the
-`forthing_u_tour_en_927d6b6e` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:24 | doc_type:owners_manual
 
 seat and let the child sit on the auxiliary seat
 cushion.
@@ -12471,7 +11678,6 @@ instructions
 provided by the manufacturer,
 
 ### Safety and Protection
-`forthing_u_tour_en_22db2c81` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:25 | doc_type:owners_manual
 
 correctly cross the seat belt over the child's
 shoulder, keep the lap belt as low to the
@@ -12480,7 +11686,6 @@ latch into the buckle, ensuring that the seat
 belt is not twisted and kept tight.
 
 ### Child restraint system complying with
-`forthing_u_tour_en_a066b4fc` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:25 | doc_type:owners_manual
 
 standard ISO specifications can be fixed by
 ISOFIX
@@ -12502,7 +11707,6 @@ seat cushion and the backrest.
 2.
 
 ### Align the ISOFIX interface of the
-`forthing_u_tour_en_a77d7d8e` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:25 | doc_type:owners_manual
 
 child
 restraint
@@ -12526,7 +11730,6 @@ highest point.
 4.
 
 ### Warning Light and Indicator
-`forthing_u_tour_en_63230ae8` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:28 | doc_type:owners_manual
 
 Warning light and indicator remind the driver of the status of various systems in the
 vehicle.
@@ -12543,7 +11746,6 @@ indicate that the fuel is too little.
 Please refuel as soon as possible.
 
 ### High coolant temperature warning light
-`forthing_u_tour_en_17293b7c` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:29 | doc_type:owners_manual
 
 (red)
 This
@@ -12568,7 +11770,6 @@ contact the authorized service
 station of Dongfeng Forthing.
 
 ### Transmission system fault warning light
-`forthing_u_tour_en_3b534075` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:29 | doc_type:owners_manual
 
 (yellow)
 When the transmission is faulty,
@@ -12579,7 +11780,6 @@ contact the authorized service
 station of Dongfeng Forthing.
 
 ### This light will illuminate when
-`forthing_u_tour_en_02d9e17b` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:29 | doc_type:owners_manual
 
 the tire pressure and temperature
 are abnormal or the tire pressure
@@ -12587,7 +11787,6 @@ monitoring function fails.
 
 
 ### If the light illuminates because the tire
-`forthing_u_tour_en_cfc673cb` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:29 | doc_type:owners_manual
 
 pressure is too high or too low, please adjust
 the tire pressure to the standard tire pressure
@@ -12598,7 +11797,6 @@ time.
 
 
 ### TPMS is not matched or the sensor signal is
-`forthing_u_tour_en_920e94d1` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:29 | doc_type:owners_manual
 
 lost, please contact the authorized service
 station of Dongfeng Forthing in time.
@@ -12614,7 +11812,6 @@ form (text reminder is available
 only for some models).
 
 ### This light will illuminate when
-`forthing_u_tour_en_15e86427` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:30 | doc_type:owners_manual
 
 parking system is faulty. At this
 time, the parking system still has
@@ -12631,7 +11828,6 @@ station
 of
 
 ### When the Start/Stop switch is
-`forthing_u_tour_en_4d4fda3a` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:30 | doc_type:owners_manual
 
 turned to "ON" position and the
 engine is not running, this light
@@ -12673,7 +11869,6 @@ of
 Dongfeng Forthing in time.
 
 ### This light will illuminate when
-`forthing_u_tour_en_72a044a4` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:30 | doc_type:owners_manual
 
 the EPS is faulty. If this light
 illuminates during driving, please
@@ -12689,7 +11884,6 @@ station of Dongfeng Forthing as
 soon as possible.
 
 ### If this light illuminates during
-`forthing_u_tour_en_e47bcaf2` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:31 | doc_type:owners_manual
 
 driving, indicating that the
 anti-lock brake system (ABS) is
@@ -12701,7 +11895,6 @@ drive carefully and contact the
 authorized service station of
 
 ### This light will illuminate when
-`forthing_u_tour_en_8313df77` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:31 | doc_type:owners_manual
 
 the brake fluid level drops to a
 low level. If this light illuminates
@@ -12714,7 +11907,6 @@ service station of Dongfeng
 Forthing in time.
 
 ### When the Start/Stop switch is
-`forthing_u_tour_en_e5426969` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:31 | doc_type:owners_manual
 
 turned to "ON" position, this
 light will illuminate; after the
@@ -12723,7 +11915,6 @@ go out, indicating that the system
 is in normal working condition.
 
 ### If this light continues to
-`forthing_u_tour_en_15a162e4` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:31 | doc_type:owners_manual
 
 illuminate, indicating that the
 engine control system may be
@@ -12735,7 +11926,6 @@ authorized service station of
 Dongfeng Forthing.
 
 ### If the light stays on while the
-`forthing_u_tour_en_aee17da6` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:31 | doc_type:owners_manual
 
 engine is running, it indicates
 that the engine electronic
@@ -12748,7 +11938,6 @@ authorized service station of
 Dongfeng Forthing.
 
 ### When the Start/Stop switch is
-`forthing_u_tour_en_599a0c8c` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
 
 turned to "ON" position, if the
 driver or front-row passenger
@@ -12761,7 +11950,6 @@ seat belts, the light will go out
 and the alarm will be released.
 
 ### When the Start/Stop switch is
-`forthing_u_tour_en_ed6c152f` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
 
 turned to "ON" position, if the
 middle-row passenger does not
@@ -12776,7 +11964,6 @@ behaves slightly differently
 depending on the configuration.
 
 ### If this light continues to
-`forthing_u_tour_en_ec07ab17` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:32 | doc_type:owners_manual
 
 illuminate or flash during
 driving, indicating that the
@@ -12789,7 +11976,6 @@ the authorized service station of
 Dongfeng Forthing in time.
 
 ### When the driver assistance
-`forthing_u_tour_en_c2090b64` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:33 | doc_type:owners_manual
 
 system is abnormal, the light will
 flash a few times and then stay
@@ -12805,7 +11991,6 @@ indicating that the system is in
 normal working condition.
 
 ### AEB system warning light (red)*
-`forthing_u_tour_en_7ff4a443` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:33 | doc_type:owners_manual
 
 When the AEB system is started,
 alarms are given through sound
@@ -12822,7 +12007,6 @@ normal working condition and the vehicle is
 not faulty.
 
 ### This indicator will illuminate
-`forthing_u_tour_en_950e6b80` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:33 | doc_type:owners_manual
 
 when the EPB switch is pulled
 up. If this indicator does not
@@ -12839,14 +12023,12 @@ target speed will be displayed
 next to the indicator.
 
 ### The indicator illuminates when
-`forthing_u_tour_en_8e3e31bb` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:34 | doc_type:owners_manual
 
 the ACC and the lane keeping
 assist of the traffic jam assist
 works simultaneously.
 
 ### The corresponding light
-`forthing_u_tour_en_bfaf869c` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:34 | doc_type:owners_manual
 
 illuminates or goes out when
 operating the turn signal. This
@@ -12865,7 +12047,6 @@ service station of Dongfeng
 Forthing.
 
 ### Electronic stability program (ESP) OFF
-`forthing_u_tour_en_ea3d1b77` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:35 | doc_type:owners_manual
 
 indicator (yellow)
 When the ESP switch is pressed,
@@ -12876,7 +12057,6 @@ system will be turned on again,
 and this indicator will go out.
 
 ### This indicator flashes when the
-`forthing_u_tour_en_af6e2381` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:35 | doc_type:owners_manual
 
 ESP system is working. If this
 indicator continues to illuminate
@@ -12884,7 +12064,6 @@ during driving, indicating that the
 ESP system may be faulty.
 
 ### GPF status indicator (yellow)
-`forthing_u_tour_en_9d849e9c` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:36 | doc_type:owners_manual
 
 When
 the
@@ -12910,7 +12089,6 @@ at the same time, indicating that
 the carbon loading amount of
 
 ### GPF reaches an extremely high
-`forthing_u_tour_en_6da961e6` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:36 | doc_type:owners_manual
 
 level and active regeneration is
 difficult
@@ -12931,7 +12109,6 @@ the smart key is illegal or the
 anti-theft authentication fails.
 
 ### Start/Stop switch is turned to
-`forthing_u_tour_en_dc99f260` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:36 | doc_type:owners_manual
 
 "ACC" or "OFF" position, this
 indicator flashes, indicating that
@@ -12939,7 +12116,6 @@ the vehicle enters the anti-theft
 mode.
 
 ### When the front-view camera is
-`forthing_u_tour_en_40d40f9e` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:36 | doc_type:owners_manual
 
 stained or obstructed, the
 indicator flashes a few times and
@@ -12958,7 +12134,6 @@ indicator
 (white)*
 
 ### When the Start/Stop switch is
-`forthing_u_tour_en_ef7653a1` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:37 | doc_type:owners_manual
 
 turned to "ON" position, the
 start-stop system is enabled by
@@ -12977,7 +12152,6 @@ assistance, multimedia, map navigation,
 settings and warning information.
 
 ### Segment code screen: Display the average
-`forthing_u_tour_en_c236a81b` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:38 | doc_type:owners_manual
 
 vehicle speed, average fuel consumption,
 driving range, subtotal mileage and tire
@@ -12993,7 +12167,6 @@ Display the current vehicle speed.
 Display the amount of fuel in the fuel tank.
 
 ### Display the
-`forthing_u_tour_en_b32e3f03` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:39 | doc_type:owners_manual
 
 vehicle's
 subtotal
@@ -13013,7 +12186,6 @@ km.
 10.
 
 ### Type II
-`forthing_u_tour_en_8cae77bf` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:40 | doc_type:owners_manual
 
 1. Up button: switch to and select upward
 on the same level page.
@@ -13060,7 +12232,6 @@ combination
 instrument.
 
 ### Comprehensive information (LCD)
-`forthing_u_tour_en_d914d76e` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:40 | doc_type:owners_manual
 
 The
 interface
@@ -13077,13 +12248,11 @@ switched by pressing the Left and Right
 buttons on the steering wheel.
 
 ### Driving information includes vehicle
-`forthing_u_tour_en_fd800a45` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:40 | doc_type:owners_manual
 
 state, trip computer, fuel consumption for
 the last 50 km and tire pressure information.
 
 ### The interface displays the average
-`forthing_u_tour_en_184f27f5` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:41 | doc_type:owners_manual
 
 vehicle speed, driving range, average fuel
 consumption
@@ -13096,7 +12265,6 @@ buttons on the steering wheel.
 1. Average speed
 
 ### The display range of average vehicle
-`forthing_u_tour_en_969cc45b` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:41 | doc_type:owners_manual
 
 speed is 0 ~ 200 km/h. Press OK to call up
 the clear option to reset the average vehicle
@@ -13104,7 +12272,6 @@ speed.
 2. Driving mileage
 
 ### Display the maximum mileage that the
-`forthing_u_tour_en_fd55fbf3` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:41 | doc_type:owners_manual
 
 vehicle can continue to drive.
 Display range: 50~999 km. When the
@@ -13128,7 +12295,6 @@ comprehensive fuel consumption.
 
 
 ### If the low fuel level warning light
-`forthing_u_tour_en_34cf458f` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:41 | doc_type:owners_manual
 
 illuminates, it is necessary to refuel in
 time even if a longer driving range is
@@ -13146,7 +12312,6 @@ consumption
 information through a curve graph.
 
 ### Press OK to call up the clear option to
-`forthing_u_tour_en_ed83bf5f` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:42 | doc_type:owners_manual
 
 reset the optimal fuel consumption. After
 resetting, the optimal fuel consumption will
@@ -13160,7 +12325,6 @@ adjust your driving habits to achieve the
 expected fuel consumption.
 
 ### Tire pressure information
-`forthing_u_tour_en_96a14268` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:42 | doc_type:owners_manual
 
 This
 interface
@@ -13174,7 +12338,6 @@ Note
 
 
 ### Please keep the tire pressure near the
-`forthing_u_tour_en_0bc83296` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:42 | doc_type:owners_manual
 
 standard pressure value. When the tire
 pressure is displayed as "--" and the
@@ -13186,7 +12349,6 @@ time.
 
 
 ### There is no need to re-match the tire
-`forthing_u_tour_en_60a0464a` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:42 | doc_type:owners_manual
 
 pressure sensor due to installation and
 removal of tires. However, if the tire
@@ -13202,7 +12364,6 @@ Dongfeng Forthing.
 
 
 ### The tire pressure information displayed
-`forthing_u_tour_en_808e6f63` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:42 | doc_type:owners_manual
 
 in the stationary status is the information
 when
@@ -13218,7 +12379,6 @@ the data in the tire pressure information
 interface can be updated.
 
 ### Different functions can be displayed on
-`forthing_u_tour_en_6a48a256` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:43 | doc_type:owners_manual
 
 this interface according to different vehicle
 model configuration definitions. For details
@@ -13238,7 +12398,6 @@ information
 about the radio or music you are listening to.
 
 ### Map navigation
-`forthing_u_tour_en_b0c66224` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:43 | doc_type:owners_manual
 
 The
 interface
@@ -13248,7 +12407,6 @@ display the map information and simple
 navigation information on the IVI system.
 
 ### Alarm information
-`forthing_u_tour_en_b4405da3` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:43 | doc_type:owners_manual
 
 The
 interface displays
@@ -13261,7 +12419,6 @@ and down buttons on the steering wheel.
 Settings
 
 ### The setting interface includes alarm
-`forthing_u_tour_en_5a098423` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:43 | doc_type:owners_manual
 
 information inquiry, driving information
 reset,
@@ -13278,7 +12435,6 @@ interface. The specific information is shown
 in the table below.
 
 ### If the fatigue driving reminder is
-`forthing_u_tour_en_f34544bc` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:44 | doc_type:owners_manual
 
 triggered after continuous driving for more
 than 4 hours, press the OK button and park
@@ -13297,7 +12453,6 @@ information, tire pressure information and
 lane departure.
 
 ### Driving information
-`forthing_u_tour_en_aed69d48` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:44 | doc_type:owners_manual
 
 Driving
 information
@@ -13322,7 +12477,6 @@ reset the average fuel
 consumption.
 
 ### Driving mileage
-`forthing_u_tour_en_a9acf6b8` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:45 | doc_type:owners_manual
 
 Display
 the
@@ -13356,7 +12510,6 @@ comprehensive fuel consumption.
 
 
 ### If the low fuel level warning light
-`forthing_u_tour_en_abfb4131` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:45 | doc_type:owners_manual
 
 illuminates, it is necessary to refuel in
 time even if a longer driving range is
@@ -13373,7 +12526,6 @@ Note
 
 
 ### There is no need to re-match the tire
-`forthing_u_tour_en_47a50e05` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:45 | doc_type:owners_manual
 
 pressure sensor due to installation and
 removal of tires. However, if the tire
@@ -13388,7 +12540,6 @@ of
 Dongfeng Forthing.
 
 ### The tire pressure information displayed
-`forthing_u_tour_en_76ffece1` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:46 | doc_type:owners_manual
 
 in the stationary status is the information
 when
@@ -13410,7 +12561,6 @@ pressure
 information interface can be updated.
 
 ### Lane departure
-`forthing_u_tour_en_6151bf41` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:46 | doc_type:owners_manual
 
 In the interface, lane departure warning
 can be realized. For details about lane
@@ -13427,7 +12577,6 @@ Replace the smart key battery...... 48
 Opening, Closing and Locking of Door48
 
 ### Interior emergency opening of trunk
-`forthing_u_tour_en_716f4701` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:47 | doc_type:owners_manual
 
 Trunk lid opening height settings.53
 Seat heating, ventilation and
@@ -13442,7 +12591,6 @@ Smart key
 6. Smart key number plate
 
 ### Mechanical key
-`forthing_u_tour_en_8a3187ad` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:49 | doc_type:owners_manual
 
 Press
 the
@@ -13453,7 +12601,6 @@ button on the side of the smart key to take
 out the mechanical key.
 
 ### Replace the smart key battery
-`forthing_u_tour_en_178bcdc4` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:49 | doc_type:owners_manual
 
 If the smart key battery is low, the
 remote control distance may become shorter
@@ -13463,7 +12610,6 @@ smart key. In this case, the battery in the
 smart key needs to be replaced.
 
 ### If the smart key with incorrect code is
-`forthing_u_tour_en_fe481ca0` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:49 | doc_type:owners_manual
 
 carried, when the Start/Stop switch is turned
 to "ON" position, the anti-theft indicator on
@@ -13476,7 +12622,6 @@ Opening, Closing and Locking of
 Door
 
 ### Basic Function Operation
-`forthing_u_tour_en_d8d8631f` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:50 | doc_type:owners_manual
 
 Locking
 Carry the smart key, close all doors,
@@ -13491,7 +12636,6 @@ to open the glass of the four doors.
 Locking
 
 ### Press the lock button on the smart key
-`forthing_u_tour_en_56a386ad` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:50 | doc_type:owners_manual
 
 to lock the four doors and the fuel filler cap,
 the turn signal lamp flashes, the horn sounds
@@ -13501,7 +12645,6 @@ hold the lock button on the smart key to
 close the glass of the four doors.
 
 ### Take out the mechanical key
-`forthing_u_tour_en_7c49e451` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:50 | doc_type:owners_manual
 
 from the smart key.
 2.
@@ -13519,7 +12662,6 @@ hole.
 3.
 
 ### Insert the mechanical key into the
-`forthing_u_tour_en_325f321e` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:50 | doc_type:owners_manual
 
 lock
 cylinder
@@ -13533,7 +12675,6 @@ counterclockwise to lock the door.
 4.
 
 ### Unlocking with the interior door handle
-`forthing_u_tour_en_767c313c` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:51 | doc_type:owners_manual
 
 When the door is locked, pull the
 interior door handle twice to open the door.
@@ -13545,7 +12686,6 @@ the rear door cannot be opened from inside
 the vehicle.
 
 ### Unlocking and locking of front passenger
-`forthing_u_tour_en_c40976fe` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:51 | doc_type:owners_manual
 
 door and rear door
 If the vehicle is powered off, press the
@@ -13557,7 +12697,6 @@ set, children cannot open the rear door from
 inside the vehicle, which helps to prevent
 
 ### Automatically locking of door
-`forthing_u_tour_en_99b4a07b` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:52 | doc_type:owners_manual
 
 With the doors unlocked, when the
 vehicle speed increases to more than 10
@@ -13571,7 +12710,6 @@ locked
 automatically.
 
 ### When the car doors are locked and the
-`forthing_u_tour_en_ba9f8d96` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:52 | doc_type:owners_manual
 
 start switch is in the "ON" position, if the
 vehicle is subjected to a strong impact, all
@@ -13580,7 +12718,6 @@ on the intensity of the impact or the type of
 accident, the system may not function.
 
 ### Normal trunk lid
-`forthing_u_tour_en_821ad2ff` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:52 | doc_type:owners_manual
 
 When the trunk lid is closed, press and
 hold the trunk lid unlock button on the smart
@@ -13600,14 +12737,12 @@ open
 automatically.
 
 ### Stand behind the vehicle with the smart key
-`forthing_u_tour_en_55aeeea9` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:52 | doc_type:owners_manual
 
 and kick at the middle lower part of the rear
 bumper. When the kicking action is sensed,
 the trunk lid will open automatically.
 
 ### Basic Function Operation
-`forthing_u_tour_en_14e55afc` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:53 | doc_type:owners_manual
 
 Note
 
@@ -13622,7 +12757,6 @@ about 1m away from the trunk lid.
 
 
 ### In order to ensure the effectiveness of the
-`forthing_u_tour_en_f9ad6852` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:53 | doc_type:owners_manual
 
 operation, please use front and rear
 kicking operation, and the kicking time
@@ -13639,7 +12773,6 @@ be
 controlled within 2 ~ 10 cm respectively.
 
 ### Please use the most suitable operation
-`forthing_u_tour_en_a9402007` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:53 | doc_type:owners_manual
 
 method after several kicking operations
 according to the actual situation.
@@ -13651,7 +12784,6 @@ cause functional failure.
 
 
 ### The kick sensing area is located within
-`forthing_u_tour_en_319301de` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:53 | doc_type:owners_manual
 
 the width range of 50 cm on the left and
 right sides below the middle part of the
@@ -13659,7 +12791,6 @@ rear bumper. Please operate in this area.
 
 
 ### If the trunk lid opening function is
-`forthing_u_tour_en_e86e1f4c` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:53 | doc_type:owners_manual
 
 attempted for several times in a short
 time, this function may be temporarily
@@ -13686,7 +12817,6 @@ trunk lid is opened accidentally, it may
 be damaged.
 
 ### Basic Function Operation
-`forthing_u_tour_en_5a02a8b9` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:54 | doc_type:owners_manual
 
 If this switch is pressed again during closing,
 the trunk lid will stop closing.
@@ -13695,7 +12825,6 @@ automatically by pressing and holding the
 trunk lid unlock button on the smart key.
 
 ### Open and close trunk lid from inside the
-`forthing_u_tour_en_1026743f` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:54 | doc_type:owners_manual
 
 vehicle
 When the trunk lid is unlocked, press
@@ -13705,7 +12834,6 @@ trunk lid is moving, press this switch again
 to stop the movement of the trunk lid.
 
 ### If the lock fastener fails and the trunk
-`forthing_u_tour_en_d86952b4` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:54 | doc_type:owners_manual
 
 lid cannot be opened, remove the emergency
 opening cover plate from the trunk lid shield,
@@ -13715,7 +12843,6 @@ with the other hand to open the trunk lid
 from inside the vehicle.
 
 ### Press and hold the trunk lid shield
-`forthing_u_tour_en_418b82bf` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:54 | doc_type:owners_manual
 
 switch until
 a
@@ -13734,7 +12861,6 @@ is restored successfully.
 3.
 
 ### When the power liftgate needs to be
-`forthing_u_tour_en_b488c321` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:55 | doc_type:owners_manual
 
 manually operated in case of power
 failure or fault, it shall be opened or
@@ -13749,7 +12875,6 @@ damage to the electric stay bar or
 controller.
 
 ### Set the opening angle of trunk lid through
-`forthing_u_tour_en_7c156870` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:55 | doc_type:owners_manual
 
 the IVI system
 1.
@@ -13761,7 +12886,6 @@ Tap
 [Accessories] - [Power Trunk Lid Angle
 
 ### Adjustment]
-`forthing_u_tour_en_c4ef689c` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:55 | doc_type:owners_manual
 
 on
 the
@@ -13779,14 +12903,12 @@ indicating that the setting is successful.
 Note
 
 ### The opening height of the trunk lid in the
-`forthing_u_tour_en_25a1de43` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:55 | doc_type:owners_manual
 
 IVI system is for reference only. Please set
 the specific height according to the actual
 operation.
 
 ### Anti-pinch protection
-`forthing_u_tour_en_320fa535` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:55 | doc_type:owners_manual
 
 When the trunk lid opens automatically,
 if an obstacle is detected, the trunk lid will
@@ -13796,7 +12918,6 @@ trunk lid will stop closing and return to the
 preset maximum opening height.
 
 ### Manual adjustment of driver's seat
-`forthing_u_tour_en_6c64721f` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:56 | doc_type:owners_manual
 
 1. Seat forward-backward adjustment lever
 Lift the pull rod to adjust the seat to move forward and backward. After adjusting to the
@@ -13811,14 +12932,12 @@ adjusting the backrest to the appropriate position, release the handle, and shak
 forth a few times to ensure that the backrest is locked in place.
 
 ### Manual adjustment of front passenger's seat
-`forthing_u_tour_en_187784c8` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:57 | doc_type:owners_manual
 
 1. Seat forward-backward adjustment pull rod 2. Backrest angle adjustment handle
 The manual adjustment of front passenger's seat is the same as the manual adjustment of
 driver's seat.
 
 ### Ten-way seat
-`forthing_u_tour_en_1912de30` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:57 | doc_type:owners_manual
 
 1. Forward-backward adjustment button of lumbar support
 Press this button to adjust the lumbar support to move forward and backward. After
@@ -13832,7 +12951,6 @@ and backward. Push the rear part of the button upward and downward gently to rai
 lower the seat. After adjusting to a proper position, release the button.
 
 ### Basic Function Operation
-`forthing_u_tour_en_9776d8a9` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:58 | doc_type:owners_manual
 
 4. Backrest angle adjustment button
 Push the button forward and backward gently to adjust the seat backrest angle. After
@@ -13844,7 +12962,6 @@ and press button 2 to select different massage modes (for the intensity and mode
 refer to the relevant contents of seat settings in Chapter VI "IVI System").
 
 ### Eight-way seat
-`forthing_u_tour_en_5bec84b6` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:58 | doc_type:owners_manual
 
 1. Lumbar support forward-backward adjustment
 button
@@ -13854,7 +12971,6 @@ button
 The adjustment method of the eight-way seat is the same as that of the ten-way seat.
 
 ### Learning function of the driver's seat*
-`forthing_u_tour_en_bdc723cf` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:58 | doc_type:owners_manual
 
 The seat learning has been completed before the vehicle leaves the factory, so that the
 seat has a memory function. If the seat or seat ECU is replaced, seat learning is required. The
@@ -13876,7 +12992,6 @@ push the backrest angle adjustment button backward for 5s. Repeat the operation 
 complete the learning of seat backrest adjustment function.
 
 ### Electric adjustment of front passenger's seat*
-`forthing_u_tour_en_b4509474` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:59 | doc_type:owners_manual
 
 1. Backrest angle adjustment button
 Push the button forward and backward gently to adjust the seat backrest angle. After
@@ -13886,7 +13001,6 @@ Push the whole button forward and backward gently to adjust the seat forward and
 backward. After adjusting to a proper position, release the button.
 
 ### Boss key*
-`forthing_u_tour_en_ef36bd90` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:59 | doc_type:owners_manual
 
 1. Backrest angle adjustment button
 2. Seat forward-backward adjustment button
@@ -13902,7 +13016,6 @@ When adjusting the seat, do not put your hands under the seat or near moving par
 avoid injury.
 
 ### Basic Function Operation
-`forthing_u_tour_en_8a8377ea` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:60 | doc_type:owners_manual
 
 Note
 
@@ -13911,7 +13024,6 @@ directly strangle the abdomen, or make the shoulder seat belt contact the neck, 
 cause serious injury or even increase the risk of death in case of an accident.
 
 ### Manual adjustment of middle-row seat
-`forthing_u_tour_en_8bd114a9` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:60 | doc_type:owners_manual
 
 1. Seat forward-backward adjustment lever
 Pull the handle to adjust the seat to move forward and backward. After adjusting to the
@@ -13923,7 +13035,6 @@ adjusting the backrest to the appropriate position, release the handle, and shak
 forth a few times to ensure that the backrest is locked in place.
 
 ### Electric adjustment of middle-row seat*
-`forthing_u_tour_en_83c40fc6` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:61 | doc_type:owners_manual
 
 1. Seat forward-backward adjustment button
 2. Backrest angle adjustment button
@@ -13934,14 +13045,12 @@ Pull the handle to slide the seat leftward and rightward within the track, facil
 communication between the middle-row passengers, such as parent-child care.
 
 ### The middle-row seats of the two-seat
-`forthing_u_tour_en_da1cb205` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:61 | doc_type:owners_manual
 
 model have seat armrests, which can be
 flipped downwards to a fixed position when in
 use and upwards when retracted.
 
 ### Middle-row
-`forthing_u_tour_en_6851b548` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:61 | doc_type:owners_manual
 
 seat
 boarding
@@ -13965,7 +13074,6 @@ lockable area to restore the seat to its initial
 state.
 
 ### Middle-row seat learning function*
-`forthing_u_tour_en_297ed032` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:62 | doc_type:owners_manual
 
 The seat learning has been completed before the vehicle leaves the factory, allowing the
 seats to have different backrest adjustment angles on the inner and outer sides. If the seat is
@@ -13983,7 +13091,6 @@ push the backrest angle adjustment button backward for 5s. Repeat the operation 
 complete the learning of seat backrest adjustment function.
 
 ### Rear seat backrest adjustment and flattening
-`forthing_u_tour_en_b79fe7eb` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:62 | doc_type:owners_manual
 
 1.
 Pull the folding strap of the rear-row seat to adjust the angle of the seat backrest.
@@ -13991,7 +13098,6 @@ Continuously pull the strap and push the backrest from the back to the front to 
 seat.
 
 ### Basic Function Operation
-`forthing_u_tour_en_6eef6faf` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:63 | doc_type:owners_manual
 
 Reset the rear-row seat from the front: Lift the seat backrest directly until it locks.
 Reset the rear-row seat from behind: Pull the seat back strap to lift the backrest until it
@@ -14012,7 +13118,6 @@ Check and confirm that the seat belt is not twisted or stuck in the seat backres
 Seat heating, ventilation and massage*
 
 ### If the body cannot sense pain and
-`forthing_u_tour_en_24031890` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:63 | doc_type:owners_manual
 
 temperature due to medication, paralysis
 and other diseases, do not use the seat
@@ -14032,7 +13137,6 @@ chapter
 "User
 
 ### Common headrest
-`forthing_u_tour_en_c5bd81fe` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:64 | doc_type:owners_manual
 
 1.
 To raise the headrest, directly lift
@@ -14050,7 +13154,6 @@ restraint is locked in place.
 3.
 
 ### The headrest with side wings can
-`forthing_u_tour_en_090adb0c` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:64 | doc_type:owners_manual
 
 fold both sides of the headrest towards the
 center,
@@ -14073,7 +13176,6 @@ with the upper part of the ear, so that the
 headrest can play the greatest protective
 
 ### After holding the steering wheel with
-`forthing_u_tour_en_63504bda` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:66 | doc_type:owners_manual
 
 one hand and pulling the adjustment handle
 downward with the other hand, you can
@@ -14084,7 +13186,6 @@ handle and confirm that it is locked in place.
 Horn
 
 ### The horn is located in the middle of the
-`forthing_u_tour_en_9f20e473` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:66 | doc_type:owners_manual
 
 steering wheel.
 Pressing
@@ -14112,7 +13213,6 @@ Type I
 10.
 
 ### Basic Function Operation
-`forthing_u_tour_en_6cdadd44` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:67 | doc_type:owners_manual
 
 1. Resume/acceleration button
 2. Lane keeping button
@@ -14128,7 +13228,6 @@ button
 9. Following distance adjustment button
 
 ### Type II
-`forthing_u_tour_en_d6bb336a` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:67 | doc_type:owners_manual
 
 1. Brightness up button
 2. Page turning button
@@ -14149,7 +13248,6 @@ setting/deceleration
 button
 
 ### Hold the right side of the interior
-`forthing_u_tour_en_e6e61397` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:67 | doc_type:owners_manual
 
 rearview mirror and adjust the mirror body
 up, down, left and right until the rear view
@@ -14162,7 +13260,6 @@ prevent the exterior rearview mirror body
 from coming off due to over-adjustment.
 
 ### Anti-dazzling
-`forthing_u_tour_en_5268da18` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:68 | doc_type:owners_manual
 
 adjustment
 of
@@ -14179,7 +13276,6 @@ of the interior rearview mirror to switch the
 mirror reflection state to prevent dazzling.
 
 ### Automatic anti-dazzling interior rearview
-`forthing_u_tour_en_3a8a3ea4` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:68 | doc_type:owners_manual
 
 mirror*
 During driving at night, the interior
@@ -14193,7 +13289,6 @@ the rearview mirror will be temporarily
 disabled.
 
 ### Do not adjust the position of the rearview
-`forthing_u_tour_en_86fecbc7` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:69 | doc_type:owners_manual
 
 mirror during driving; otherwise, an
 accident may be caused due to incorrect
@@ -14208,13 +13303,11 @@ down, left and right to adjust the exterior
 rearview mirror to the best view angle.
 
 ### Draw down the button at the top of the
-`forthing_u_tour_en_7b9106d3` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:70 | doc_type:owners_manual
 
 display screen to call out the shortcut menu
 of the drop-down bar. Tap [Rearview Mirror
 
 ### Tap [Settings]-[Vehicle]-[Attachment]
-`forthing_u_tour_en_7f1f7c29` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 on the display screen in turn, and select to
 enable the [Automatic folding of rearview
@@ -14225,7 +13318,6 @@ automatically fold or unfold the exterior
 rearview mirrors.
 
 ### Exterior rearview mirror memory*
-`forthing_u_tour_en_c5716a47` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 Some
 models
@@ -14244,7 +13336,6 @@ in
 reverse*
 
 ### Tap [Settings]-[Vehicle]-[Attachment]
-`forthing_u_tour_en_fd7ab833` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:70 | doc_type:owners_manual
 
 on the display screen in turn to enable the
 [Reversing
@@ -14265,7 +13356,6 @@ exterior
 rearview mirror
 
 ### When the Start/Stop switch is turned to
-`forthing_u_tour_en_a331b073` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 "ON" position, press the rear windshield
 defrosting button on the A/C control panel
@@ -14281,7 +13371,6 @@ adjusting the mirror angle.
 
 
 ### If the exterior rearview mirrors are not
-`forthing_u_tour_en_76c07cce` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 folded or unfolded, it may be that the
 exterior rearview mirrors are not reset
@@ -14293,7 +13382,6 @@ three times.
 
 
 ### If there is snow on the exterior rearview
-`forthing_u_tour_en_a98cf5e2` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 mirror, please remove the snow before
 adjusting the exterior rearview mirror to
@@ -14308,14 +13396,12 @@ Power window
 5. Rear right window switch
 
 ### Pull up or press the window switch
-`forthing_u_tour_en_7f83ca2c` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:71 | doc_type:owners_manual
 
 downward to automatically raise or lower
 the window. If you need to stop halfway,
 pull up or press this switch again.
 
 ### When the Start/Stop switch is turned to
-`forthing_u_tour_en_35072a85` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:71 | doc_type:owners_manual
 
 "OFF" position and the vehicle doors are
 closed, press and hold the unlock button on
@@ -14327,7 +13413,6 @@ rise at the same time until they are fully
 closed.
 
 ### To prevent children from accidentally
-`forthing_u_tour_en_9756acb3` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:71 | doc_type:owners_manual
 
 opening or closing the window, pressing the
 window
@@ -14343,7 +13428,6 @@ driver. If it needs to be restored, press this
 switch again.
 
 ### If the window is operated repeatedly in
-`forthing_u_tour_en_89cfbdbc` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:72 | doc_type:owners_manual
 
 a short time, the motor protection function
 will be triggered and the power window
@@ -14352,7 +13436,6 @@ operation, wait for a while and then operate
 again.
 
 ### Window anti-pinch protection
-`forthing_u_tour_en_738e534f` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:72 | doc_type:owners_manual
 
 During window closing, if an obstacle
 is encountered, the window will stop closing
@@ -14362,7 +13445,6 @@ function will also work in case of impact or
 similar conditions to window obstacles.
 
 ### Window initialization
-`forthing_u_tour_en_874edfa6` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:73 | doc_type:owners_manual
 
 After
 the
@@ -14381,7 +13463,6 @@ and guide slot;
 control module are replaced.
 
 ### Pull up the window switch and
-`forthing_u_tour_en_fefd1cd9` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:73 | doc_type:owners_manual
 
 hold it until the window is completely
 closed, and then hold it for more than 2
@@ -14395,7 +13476,6 @@ seconds.
 3.
 
 ### The above steps need to be operated in
-`forthing_u_tour_en_0ee9ce97` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:73 | doc_type:owners_manual
 
 a coherent manner to ensure successful
 learning. If the power window still cannot
@@ -14410,7 +13490,6 @@ pinched.
 
 
 ### Do not allow a child to operate the
-`forthing_u_tour_en_9039c472` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:73 | doc_type:owners_manual
 
 window.
 
@@ -14426,7 +13505,6 @@ Basic Function Operation
 4. Sunroof opening button
 
 ### To improve interior light and air
-`forthing_u_tour_en_fd4b31d4` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:74 | doc_type:owners_manual
 
 circulation, the sunshade and the sunroof
 can be opened. To operate the sunroof, the
@@ -14438,7 +13516,6 @@ slide backward and tilt, and the sunshade
 will be opened accordingly.
 
 ### Sunroof opening and closing
-`forthing_u_tour_en_428ce567` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:74 | doc_type:owners_manual
 
 When the sunroof is closed, press the
 sunroof opening button, and the sunroof will
@@ -14448,14 +13525,12 @@ When the sunroof is open, press the
 sunroof closing button to close the sunroof.
 
 ### During the opening/closing of sunroof
-`forthing_u_tour_en_17b7d63a` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:74 | doc_type:owners_manual
 
 by pressing one button, press the sunroof
 operation button again to stop the sunroof at
 the current position.
 
 ### Remote closing of sunroof
-`forthing_u_tour_en_f9d6da47` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:74 | doc_type:owners_manual
 
 When the vehicle is shut down, the
 sunroof cannot be operated with the interior
@@ -14471,13 +13546,11 @@ screen, press the lock button on the smart
 key for more than 3s to close the sunroof.
 
 ### The function allows opening or closing
-`forthing_u_tour_en_51bb7226` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:74 | doc_type:owners_manual
 
 the sunroof with the interior buttons within
 30s after the vehicle is shut down.
 
 ### Sunroof voice control and remote control*
-`forthing_u_tour_en_de00d65a` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:74 | doc_type:owners_manual
 
 After the voice system is activated,
 the sunroof
@@ -14492,7 +13565,6 @@ controlled through a mobile application
 connected to the vehicle.
 
 ### Press the sunshade opening or closing
-`forthing_u_tour_en_40b1fbae` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:74 | doc_type:owners_manual
 
 button to open or close the sunshade, and
 press the button again during the sunshade
@@ -14502,7 +13574,6 @@ position of the sunshade cannot exceed the
 open position of the sunroof.
 
 ### When the sunroof or the sunshade is
-`forthing_u_tour_en_17a85f95` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:74 | doc_type:owners_manual
 
 subject to abnormal resistance or obstacles
 during automatic closing, the sunroof or the
@@ -14511,7 +13582,6 @@ and retract for a certain distance to prevent
 personal injury.
 
 ### Sunroof initialization
-`forthing_u_tour_en_899a0737` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:75 | doc_type:owners_manual
 
 If the sunroof cannot be fully closed, it
 can be restored by the following operation:
@@ -14541,7 +13611,6 @@ sunroof
 initialization is completed.
 
 ### To prevent abnormal function caused
-`forthing_u_tour_en_e334263a` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:75 | doc_type:owners_manual
 
 by overheating of the sunroof motor, after
 the sunroof is continuously operated for
@@ -14554,7 +13623,6 @@ Warning
 
 
 ### Do not allow children to operate the
-`forthing_u_tour_en_204063cb` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:75 | doc_type:owners_manual
 
 sunroof or the sunshade.
 
@@ -14572,7 +13640,6 @@ or the sunshade is about to be fully
 closed.
 
 ### The panoramic sunroof is made of
-`forthing_u_tour_en_0b9aa431` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:75 | doc_type:owners_manual
 
 integral glass and cannot be opened. The
 panoramic sunroof of some models has
@@ -14585,7 +13652,6 @@ the following conditions:
 1.
 
 ### After the ambient light rhythm mode is
-`forthing_u_tour_en_c2fa4809` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:76 | doc_type:owners_manual
 
 disabled, tap and drag the ambient light
 brightness or color adjustment button to
@@ -14593,7 +13659,6 @@ adjust the brightness or color of the ambient
 light.
 
 ### After the multimedia music playback is
-`forthing_u_tour_en_44eb7cc0` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:76 | doc_type:owners_manual
 
 turned on, the ambient light rhythm mode
 can be enabled and adjusted. Select the
@@ -14603,7 +13668,6 @@ rhythm modes, the color and brightness of
 the ambient light cannot be adjusted.
 
 ### When the vehicle is in a non-OFF
-`forthing_u_tour_en_06090a24` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:76 | doc_type:owners_manual
 
 position, open the door or trunk lid, and the
 ambient light enters breathing mode. The
@@ -14619,7 +13683,6 @@ Dongfeng Forthing for details.
 
 
 ### Please do not wipe the glass interior
-`forthing_u_tour_en_92456834` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:76 | doc_type:owners_manual
 
 surface with salt water, acidic liquids, or
 corrosive liquids to avoid irreparable
@@ -14638,7 +13701,6 @@ Exterior lighting
 9. High beam
 
 ### Pull the light control handle upward or
-`forthing_u_tour_en_f29a8467` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:76 | doc_type:owners_manual
 
 downward, and the right or left turn signal
 will flash. After the steering is completed,
@@ -14653,7 +13715,6 @@ position to turn on the high beam; pull it
 back to turn off the high beam.
 
 ### When the light switch is in ATUO
-`forthing_u_tour_en_f1166b68` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:77 | doc_type:owners_manual
 
 position and the system detects that the
 ambient light intensity is dark, press the
@@ -14672,7 +13733,6 @@ starting the vehicle or sleeping, the position
 light will go out.
 
 ### Fog light switch
-`forthing_u_tour_en_b7a539be` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:77 | doc_type:owners_manual
 
 When the low beam is turned on,
 toggle the adjusting ring to point to the rear
@@ -14682,7 +13742,6 @@ point to O, and the rear fog light will be
 turned off.
 
 ### The daytime running light is mainly
-`forthing_u_tour_en_64700b40` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:77 | doc_type:owners_manual
 
 used
 in
@@ -14708,7 +13767,6 @@ ambient
 brightness.
 
 ### Pull the light control handle back once
-`forthing_u_tour_en_98ce6942` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:77 | doc_type:owners_manual
 
 within 5 minutes after the vehicle is shut
 down, and the "Follow Me Home" function
@@ -14721,7 +13779,6 @@ on for 5 minutes, the low beam will be
 automatically turned off.
 
 ### Headlight height adjustment
-`forthing_u_tour_en_5fa2092f` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:77 | doc_type:owners_manual
 
 When the vehicle is heavily loaded, the
 rear part of the vehicle body will sink, so
@@ -14734,7 +13791,6 @@ The specific methods are as follows:
 1.
 
 ### Slide down at the top of the
-`forthing_u_tour_en_48c73929` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:77 | doc_type:owners_manual
 
 display screen to bring up a shortcut menu in
 the drop-down bar, where you can see the
@@ -14754,7 +13810,6 @@ illuminate or go out with the opening and
 closing of the four doors.
 
 ### Interior light switch
-`forthing_u_tour_en_18940393` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:78 | doc_type:owners_manual
 
 When
 the
@@ -14776,7 +13831,6 @@ illuminate, and when the button pops up, the
 lamp will go out.
 
 ### The middle-row interior lights are
-`forthing_u_tour_en_a4feb9ee` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:78 | doc_type:owners_manual
 
 located below the middle-row handle. When
 the door control switch is parallel to the
@@ -14785,7 +13839,6 @@ middle-row interior lights is controlled by
 the middle-row interior light switch.
 
 ### Ambient lights can create a nighttime
-`forthing_u_tour_en_e9a5787f` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:78 | doc_type:owners_manual
 
 atmosphere inside the vehicle and assist
 with interior lighting.
@@ -14795,7 +13848,6 @@ tapping [Settings] - [Vehicle] - [Lights] on
 the display screen.
 
 ### The courtesy light is located below the
-`forthing_u_tour_en_dc80ec2d` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:79 | doc_type:owners_manual
 
 exterior rearview mirror of the vehicle and is
 used to illuminate the ground at night. When
@@ -14806,7 +13858,6 @@ light will illuminate; after the door is closed,
 the courtesy light will go out.
 
 ### Trunk light
-`forthing_u_tour_en_6fbe3647` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:79 | doc_type:owners_manual
 
 When the trunk lid is opened, the trunk
 light will illuminate automatically. After the
@@ -14815,7 +13866,6 @@ automatically.
 Wiper
 
 ### Front automatic wiper*
-`forthing_u_tour_en_173153b2` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:79 | doc_type:owners_manual
 
 MIST: inching. Pull the wiper control
 handle upwards to wipe the wiper once, and
@@ -14842,7 +13892,6 @@ position, the wiper will wipe automatically,
 and the sensitivity can be adjusted by
 
 ### Basic Function Operation
-`forthing_u_tour_en_c2d3b977` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:81 | doc_type:owners_manual
 
 From top to bottom, the sensitivity gradually
 increases and the wiping speed gradually
@@ -14856,7 +13905,6 @@ high-speed continuous wiping.
 Note
 
 ### AUTO position and the automatic wiping
-`forthing_u_tour_en_2c66cf8c` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:81 | doc_type:owners_manual
 
 function of wiper is activated, the wiper may
 wipe under the following conditions, which
@@ -14864,7 +13912,6 @@ is normal:
 
 
 ### Areas where the light changes
-`forthing_u_tour_en_60b3b3fa` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:81 | doc_type:owners_manual
 
 significantly, such as woods and
 overpasses.
@@ -14877,14 +13924,12 @@ as following large vehicles or passing
 through construction sections.
 
 ### Pull back and hold the wiper control
-`forthing_u_tour_en_fa5debc7` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:81 | doc_type:owners_manual
 
 handle, and the front windshield washer
 starts to spray water. At the same time, the
 front wiper performs low-speed wiping.
 
 ### Rear wiper
-`forthing_u_tour_en_a23fa064` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:81 | doc_type:owners_manual
 
 HI: High-speed wiping of rear wiper. Turn
 the rear end of the wiper control handle to
@@ -14896,7 +13941,6 @@ the LO position, and the rear wiper performs
 low-speed wiping.
 
 ### Push and hold the wiper control handle
-`forthing_u_tour_en_f184f49c` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:82 | doc_type:owners_manual
 
 forward, and the rear windshield washer
 starts to spray water. At the same time, the
@@ -14908,7 +13952,6 @@ position. This interface can be used for
 mobile phone charging.
 
 ### The rear USB interfaces are located in
-`forthing_u_tour_en_1c989fd2` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:83 | doc_type:owners_manual
 
 the storage compartments on the left and
 right sides of the rear row, for phone
@@ -14920,7 +13963,6 @@ cover the dust cover tightly.
 
 
 ### Do not insert metal foreign matters into
-`forthing_u_tour_en_c5872521` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:83 | doc_type:owners_manual
 
 the interface to avoid fire caused by short
 circuit.
@@ -14941,7 +13983,6 @@ fire.
 
 
 ### When plugging and unplugging the USB
-`forthing_u_tour_en_e3864b2c` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:83 | doc_type:owners_manual
 
 data cable, try not to tilt it in the same
 direction as the USB interface, avoiding
@@ -14955,7 +13996,6 @@ to avoid fire.
 
 
 ### Do not allow children to use or touch the
-`forthing_u_tour_en_e52f3b68` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:84 | doc_type:owners_manual
 
 12 V on-board power supply, and do not
 insert metal foreign matters into the
@@ -14970,7 +14010,6 @@ power socket to avoid fire caused by
 short circuit.
 
 ### The wireless charging device is located
-`forthing_u_tour_en_341d104e` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:84 | doc_type:owners_manual
 
 in the storage compartment
 under the
@@ -14999,7 +14038,6 @@ charging device.
 Running
 
 ### The charging mode is managed by the
-`forthing_u_tour_en_e2d5ff1b` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:84 | doc_type:owners_manual
 
 charging
 device.
@@ -15011,7 +14049,6 @@ the door is opened or the device being
 charged is moved.
 
 ### If the above conditions are met at the
-`forthing_u_tour_en_929f8957` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:85 | doc_type:owners_manual
 
 same time, the combination instrument will
 display
@@ -15030,13 +14067,11 @@ national wireless charging standards.
 
 
 ### The memory card slot of the vehicle
-`forthing_u_tour_en_00479d40` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:85 | doc_type:owners_manual
 
 travelling data recorder is located on the left
 side of the vehicle travelling data recorder.
 
 ### Pry up the plug on the left side of the
-`forthing_u_tour_en_8d6784c7` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:85 | doc_type:owners_manual
 
 vehicle travelling data recorder with a
 straight screwdriver to see the rubber plug of
@@ -15048,7 +14083,6 @@ face upward. After inserting the card,
 reinstall the rubber plug and fasten the plug.
 
 ### It is recommended that the new card be
-`forthing_u_tour_en_3e89a513` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:85 | doc_type:owners_manual
 
 formatted in the settings of the dash cam in
 the "AI Forthing" APP. The dash cam
@@ -15068,7 +14102,6 @@ enters the recording state.
 OFF
 
 ### When the Start/Stop switch is turned
-`forthing_u_tour_en_04f770bb` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:86 | doc_type:owners_manual
 
 from "ACC" or "ON" position to "OFF"
 position, the vehicle travelling data recorder
@@ -15082,7 +14115,6 @@ the status bar of the display screen. Specific
 meanings:
 
 ### Functional description
-`forthing_u_tour_en_5ff4f209` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:87 | doc_type:owners_manual
 
 1. Temperature adjustment knob: Turn this knob to adjust the interior temperature.
 2. Front defrosting button: Press this button to turn on or off the front windshield
@@ -15110,7 +14142,6 @@ A/C mode adjustment: Adjust the control ball to adjust the temperature inside th
 vehicle.
 
 ### Functional description
-`forthing_u_tour_en_d769c1ac` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:88 | doc_type:owners_manual
 
 1. Temperature adjustment knob: Turn this knob to adjust the interior temperature.
 2. AUTO button: Press this button, the A/C system will enter the full-automatic state from
@@ -15128,7 +14159,6 @@ ice on the rear windshield and exterior rearview mirrors. If it is not turned of
 turned on, this function will turn off automatically after 10~20 minutes.
 
 ### Basic Function Operation
-`forthing_u_tour_en_1617acc2` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:89 | doc_type:owners_manual
 
 6. Air volume adjustment knob: Rotate the knob to adjust the air volume at the air outlet. At
 the same time, the current air volume will be displayed on the display screen.
@@ -15148,7 +14178,6 @@ Maximum refrigeration switch (A/C MAX) button: Press this button to enter the
 maximum refrigeration mode, with the maximum air volume and the lowest temperature.
 
 ### Rear A/C control panel*
-`forthing_u_tour_en_5f813b13` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:89 | doc_type:owners_manual
 
 1. Rear air volume down button/OFF button: Press the button to adjust the air volume of the
 rear A/C. With each press, the air volume decreases by one level, with a total of five levels.
@@ -15160,7 +14189,6 @@ each press, the air volume increases by one level until it reaches fifth level.
 rear A/C display screen will display the current air volume.
 
 ### Front outlet
-`forthing_u_tour_en_a5db1080` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:90 | doc_type:owners_manual
 
 1. Side windshield defogging air outlet
 4. Front footwell air outlet
@@ -15170,7 +14198,6 @@ rear A/C display screen will display the current air volume.
 6. Left air outlet
 
 ### Adjustment of airflow and direction
-`forthing_u_tour_en_9a2c2961` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:91 | doc_type:owners_manual
 
 Turn
 the
@@ -15185,7 +14212,6 @@ grille in the middle of the air outlet up and
 down, left and right.
 
 ### Roll the roller up and down to open and
-`forthing_u_tour_en_4f967de3` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:91 | doc_type:owners_manual
 
 close the middle-row air outlet, and move
 the grille in the middle of the air outlet up
@@ -15198,7 +14224,6 @@ grille in the middle of the air outlet up and
 down, left and right.
 
 ### The air purification system can quickly
-`forthing_u_tour_en_a702445f` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:92 | doc_type:owners_manual
 
 reduce
 harmful
@@ -15214,7 +14239,6 @@ display screen, so as to achieve the best air
 purification effect.
 
 ### Notes to users
-`forthing_u_tour_en_52aec200` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:95 | doc_type:owners_manual
 
 1. When using the IVI system (hereinafter referred to as "system"), please carefully read the
 relevant operating instructions. If the system is damaged due to failure to follow the
@@ -15240,14 +14264,12 @@ network signals, the use of navigation and network functions may be affected. Af
 vehicle leaves these areas, network signals will automatically recover.
 
 ### IVI System
-`forthing_u_tour_en_f362725b` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:96 | doc_type:owners_manual
 
 Homepage
 Slide to the left in any space on the first page to enter the second page or slide to the
 right on the second page to return to the first page.
 
 ### Page 2
-`forthing_u_tour_en_2a8f3d9c` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:96 | doc_type:owners_manual
 
 1. Homepage button: Tap this button on any interface to return to the homepage.
 2. Voice assistant*: See the section "Voice Assistant" for details.
@@ -15255,7 +14277,6 @@ right on the second page to return to the first page.
 enter the application that is playing media.
 
 ### Description
-`forthing_u_tour_en_2c1c0c66` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:97 | doc_type:owners_manual
 
 Display A/C state, including blowing mode, heating
 and cooling mode. Tap to expand the A/C details page
@@ -15278,7 +14299,6 @@ Different configurations and system versions may change the content and position
 application. Please refer to the actual vehicle for accuracy.
 
 ### Shortcut menu of drop-down bar
-`forthing_u_tour_en_2b414262` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:98 | doc_type:owners_manual
 
 Slide down at the top of the display screen to bring up a shortcut menu in the drop-down
 bar.
@@ -15307,12 +14327,10 @@ Seat adjustment: Tap it to enter the seat adjustment interface.
 the vehicle's headlights.
 
 ### A/C Settings
-`forthing_u_tour_en_049b8805` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:99 | doc_type:owners_manual
 
 Tap any interface of the A/C panel or tap the A/C status bar to enter the A/C setting.
 
 ### Automatic A/C
-`forthing_u_tour_en_2acced93` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:99 | doc_type:owners_manual
 
 1. A/C mode adjustment (electric A/C).
 2. Anion, energy saving, rear A/C, heating functions can be turned on or off, depending on
@@ -15327,7 +14345,6 @@ A/C system button, internal/external circulation button, front defroster button,
 defroster button.
 
 ### IVI System
-`forthing_u_tour_en_7ce5c989` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:100 | doc_type:owners_manual
 
 8. A/C temperature adjustment (automatic A/C).
 9. Anion function and rear A/C can be switched on and off, depending on the configuration
@@ -15338,14 +14355,12 @@ cooling (A/C MAX) button, A/C system button, internal/external circulation butto
 defroster button, and rear defroster button.
 
 ### Models supporting seat heating and ventilation
-`forthing_u_tour_en_eff60576` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:100 | doc_type:owners_manual
 
 Models supporting seat heating, ventilation and massage
 1. Front-row/middle-row seat switch adjustment
 2. Heating function on/off and mode adjustment
 
 ### IVI System
-`forthing_u_tour_en_4550abce` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:101 | doc_type:owners_manual
 
 3. Ventilation function on/off and mode adjustment
 4. Switch between ventilation and heating and seat massage.
@@ -15354,7 +14369,6 @@ vehicle)
 6. Massage mode selection (only the driver's seat massage available for the vehicle)
 
 ### Voice assistant*
-`forthing_u_tour_en_ff0a1c28` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:101 | doc_type:owners_manual
 
 For models equipped with Future-Link IoV function, press the voice wake-up button on
 the steering wheel or say "Forthing Forthing" in the vehicle to wake up the voice assistant.
@@ -15371,7 +14385,6 @@ For example, you can say:
 More functions can be viewed on the help page of the voice assistant after it is woken
 
 ### Bluetooth phone
-`forthing_u_tour_en_b04e51ba` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:103 | doc_type:owners_manual
 
 Tap the [Telephone] icon on the main interface of the system to enter the Bluetooth
 telephone interface.
@@ -15381,7 +14394,6 @@ connect the Bluetooth of the mobile phone. Other operations can be carried out a
 successful connection.
 
 ### Call records
-`forthing_u_tour_en_79d4050b` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:103 | doc_type:owners_manual
 
 1. Return to the homepage: Tap it to return to the main interface of the system.
 2. Switch and view call records: Tap to switch all/missed call records.
@@ -15394,7 +14406,6 @@ a call.
 functions.
 
 ### Address book
-`forthing_u_tour_en_3bc8785a` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:104 | doc_type:owners_manual
 
 1. Address book search function.
 2. Address book list: Scroll up and down to view the address book, and tap any contact to
@@ -15403,7 +14414,6 @@ Dial
 Dial keyboard: support direct dialing and dialing to search for contacts.
 
 ### Roadside assistance
-`forthing_u_tour_en_88a76b11` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:105 | doc_type:owners_manual
 
 Road rescue: In case of emergency requiring road rescue, tap [Emergency Road Rescue]
 to directly call Forthing after-sales service hotline for road rescue.
@@ -15413,7 +14423,6 @@ Tap the [Multimedia] icon on the main interface of the system to enter the multi
 interface.
 
 ### IVI System
-`forthing_u_tour_en_5edc5bca` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:106 | doc_type:owners_manual
 
 1. Tap it to switch and use Tencent Smart*, Bluetooth music, USB music and USB video
 functions.
@@ -15436,7 +14445,6 @@ Bluetooth setting: When Bluetooth is not connected, tap Bluetooth setting to con
 Bluetooth if you want to enter Bluetooth music.
 
 ### USB music
-`forthing_u_tour_en_38a1de86` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:107 | doc_type:owners_manual
 
 1. List switching: Tap it to switch the music playlist/USB folder list.
 2. Music list: Scroll up and down to view the list, and tap the music file to play it.
@@ -15452,7 +14460,6 @@ switching.
 Fold full screen: Tap to fold the full screen display status.
 
 ### USB video
-`forthing_u_tour_en_bfc3caba` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:108 | doc_type:owners_manual
 
 1. Close video: Tap to close the current video.
 2. Video play list: Scroll up and down to view the list, and tap the video in the list to play.
@@ -15463,7 +14470,6 @@ progress.
 5. Back: Tap to back to the last interface.
 
 ### IVI System
-`forthing_u_tour_en_7e2239a6` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:109 | doc_type:owners_manual
 
 6. Video play area: Click to call out the play control, and double click to pause/play; scroll
 left and right to adjust the play progress; scroll up and down on the left side of the screen to
@@ -15474,7 +14480,6 @@ adjust the video play volume.
 video screen will not be displayed during driving, and other operations will not be affected.
 
 ### Tencent Smart*
-`forthing_u_tour_en_5fb25492` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:109 | doc_type:owners_manual
 
 1. Recommended content: Tencent Smart intelligently recommends online content based
 on user preference, and tap it to listen.
@@ -15486,7 +14491,6 @@ favorite online songs.
 6. Play control: Play/pause, previous/next song switching.
 
 ### IVI System
-`forthing_u_tour_en_01b1b1a2` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:110 | doc_type:owners_manual
 
 Radio
 Tap the [Radio] icon on the main interface of the system to enter the radio interface.
@@ -15499,7 +14503,6 @@ display/play/pause radio channels, and switch to the next radio station in the l
 6. Radio station list: Display the preset radio station/favorite radio station list.
 
 ### Travel assistance*
-`forthing_u_tour_en_89692f4d` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:111 | doc_type:owners_manual
 
 Tap the [Travel Assistance] icon on the main interface of the system to enter the travel
 assistance interface.
@@ -15514,7 +14517,6 @@ destination.
 6. Navigation map display area: Support sliding to view and zoom in/out the map.
 
 ### User personalized memory*
-`forthing_u_tour_en_cc1f2e50` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:112 | doc_type:owners_manual
 
 Swipe the main interface of the system to the right to pull out the user personalized
 memory interface, scan the QR code on the left side of the interface to log in, and display
@@ -15537,7 +14539,6 @@ addition, the seat or exterior rearview mirror status will also be automatically
 vehicle speed exceeds 20 km/h.
 
 ### Tap [
-`forthing_u_tour_en_dc2895d8` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:112 | doc_type:owners_manual
 
 ] to customize the name of the personalized memory, making it convenient for
 you to use different seat or exterior rearview mirror position information according to
@@ -15546,13 +14547,11 @@ Tap [Save Memory] to save the newly added personalized memory or overwrite the
 previous personalized memory.
 
 ### IVI System
-`forthing_u_tour_en_dd0f7beb` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:113 | doc_type:owners_manual
 
 Tap [Delete Memory] to selectively delete personalized memories.
 Tap the avatar to log out.
 
 ### Tap [
-`forthing_u_tour_en_dbee9b83` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:113 | doc_type:owners_manual
 
 ] to enter the message center to view the pushed messages.
 The message center includes operational messages, exception messages, system
@@ -15562,13 +14561,11 @@ tap the corresponding message title to view the detailed message. Tap [
 main message title interface.
 
 ### Mobile phone interconnection (only applicable to non-IoV models)
-`forthing_u_tour_en_489d7b2f` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:114 | doc_type:owners_manual
 
 Tap the [Mobile Phone Interconnection] icon on the main interface of the system to
 enter the mobile phone interconnection interface.
 
 ### Connection mode for mobile phone interconnection
-`forthing_u_tour_en_c1a10bf6` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:114 | doc_type:owners_manual
 
 USB
 connection
@@ -15587,7 +14584,6 @@ system is connected to the mobile phone hotspot, turn on "Driving Partner"
 and follow the system prompts to connect successfully.
 
 ### IVI System
-`forthing_u_tour_en_959bc936` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:115 | doc_type:owners_manual
 
 Online
 navigation
@@ -15601,13 +14597,11 @@ Himalaya
 Himalayan online radio, tap to use
 
 ### Mobile phone interconnection screen projection function: Tap to add a
-`forthing_u_tour_en_6d66e1cc` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:115 | doc_type:owners_manual
 
 mobile phone application. After adding, the mobile phone application
 screen projection can be realized on the IVI terminal
 
 ### Description of special circumstance for mobile phone interconnection
-`forthing_u_tour_en_e8e64716` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:115 | doc_type:owners_manual
 
 To ensure the connection reliability, when using WiFi for mobile phone interconnection,
 please set the AP frequency band from 2.4 Ghz to 5.0 Ghz in the mobile phone hotspot
@@ -15615,14 +14609,12 @@ settings. If the mobile phone frequency band does not support the 5.0 GHz, it is
 recommended to use USB connection for mobile phone interconnection.
 
 ### IVI System
-`forthing_u_tour_en_a9bba8b2` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:116 | doc_type:owners_manual
 
 When using mobile phone interconnection for screen projection, if the projection is not
 clear, tap the "Driving Partner" APP and change the screen mapping coding mode from hard
 coding to soft coding in the settings.
 
 ### Inspection and maintenance
-`forthing_u_tour_en_33a65ba1` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:116 | doc_type:owners_manual
 
 Tap the [Inspection and Maintenance] icon on the main interface of the system to enter
 the inspection and maintenance interface.
@@ -15637,7 +14629,6 @@ issues.
 station.
 
 ### Maintenance function
-`forthing_u_tour_en_357d0cd5` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:117 | doc_type:owners_manual
 
 1. Maintenance details: Switch to view the maintenance details corresponding to different
 mileage.
@@ -15645,7 +14636,6 @@ mileage.
 3. Maintenance appointment: Make a phone call to make an appointment for maintenance.
 
 ### Data Mall
-`forthing_u_tour_en_01869ef1` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:117 | doc_type:owners_manual
 
 Tap the [Data Mall] icon on the main interface of the system to enter the data mall
 interface.
@@ -15656,7 +14646,6 @@ interface.
 left and right to view more types of data packages.
 
 ### Purchase history
-`forthing_u_tour_en_4d4eeec3` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:118 | doc_type:owners_manual
 
 Slide up and down to view the purchase history data of data packages. Tap [Effective
 Range of Data Package] to view the effective range of data package.
@@ -15664,7 +14653,6 @@ Settings
 Tap the [Settings] icon on the main interface of the system to enter the setting interface.
 
 ### General settings
-`forthing_u_tour_en_24e8d236` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:118 | doc_type:owners_manual
 
 1. Tap to switch to view and adjust general settings, connection settings, vehicle settings
 and system settings.
@@ -15672,7 +14660,6 @@ and system settings.
 Module
 
 ### Included functions
-`forthing_u_tour_en_a905f32b` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:118 | doc_type:owners_manual
 
 Display
 Screen brightness, day/night mode, video warning during driving,
@@ -15681,7 +14668,6 @@ Sound
 Phone volume, navigation volume, and button prompt tone
 
 ### Included functions
-`forthing_u_tour_en_eca9f627` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:119 | doc_type:owners_manual
 
 Lighting*
 Ambient light brightness adjustment, ambient light color
@@ -15697,7 +14683,6 @@ adjustment, rearview mirror flipping during reversing, steering feel
 mode setting, and customization of steering wheel buttons
 
 ### Driver assistance*
-`forthing_u_tour_en_adb1d045` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:120 | doc_type:owners_manual
 
 Adaptive high/low beam switch, automatic emergency braking
 (AEB) system switch, intelligent traffic sign recognition (TSR)
@@ -15712,7 +14697,6 @@ temperature adjustment, automatic seat ventilation activation,
 automatic seat ventilation with temperature adjustment
 
 ### System settings
-`forthing_u_tour_en_a3fd14fc` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:120 | doc_type:owners_manual
 
 System settings include: open font protocol, software upgrade, restoring factory
 settings, and resetting wireless terminals.
@@ -15727,7 +14711,6 @@ operation and legend are subject to the
 actually downloaded version.
 
 ### Tap to enter your phone number and
-`forthing_u_tour_en_0319a8b3` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:121 | doc_type:owners_manual
 
 agree with the user agreement and privacy
 policy to send a verification code, and enter
@@ -15740,7 +14723,6 @@ vehicle is added, add your vehicle first. Tap
 page for adding the vehicle.
 
 ### Tap [Add now] or tap the QR
-`forthing_u_tour_en_8c6a19bf` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:121 | doc_type:owners_manual
 
 code icon in the upper left corner to add a
 vehicle, and the QR code scanning box will
@@ -15751,7 +14733,6 @@ display screen with the mobile phone to bind
 the vehicle.
 
 ### Real name authentication
-`forthing_u_tour_en_d929a584` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:122 | doc_type:owners_manual
 
 After the vehicle binding is completed,
 it will jump to the real name authentication
@@ -15769,7 +14750,6 @@ authentication page.
 and ID number.
 
 ### IVI System
-`forthing_u_tour_en_1de5f1b1` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:123 | doc_type:owners_manual
 
 3. After confirmation, tap [Next].
 4. Upload the photos of the front, back
@@ -15782,7 +14762,6 @@ IVI System
 completed, wait for approval.
 
 ### The page will be directly displayed at the
-`forthing_u_tour_en_b510d851` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:125 | doc_type:owners_manual
 
 next login of the account after real name
 authentication,
@@ -15811,7 +14790,6 @@ function.
 3.
 
 ### Vehicle state: Display the current
-`forthing_u_tour_en_ffd465c5` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:125 | doc_type:owners_manual
 
 vehicle state. The text at the bottom will
 display the vehicle remaining mileage.
@@ -15829,7 +14807,6 @@ your finger to refresh to view the latest
 vehicle information.
 
 ### The remote vehicle control includes
-`forthing_u_tour_en_a0cfa869` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:126 | doc_type:owners_manual
 
 four functions: [Bluetooth key], [Door lock],
 [Window] and [Start]. Due to different
@@ -15841,7 +14818,6 @@ needs to be entered when the remote vehicle
 control is used.
 
 ### Bluetooth key
-`forthing_u_tour_en_47087383` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:126 | doc_type:owners_manual
 
 [Bluetooth key], a digital vehicle key
 installed in a smartphone that can control the
@@ -15854,7 +14830,6 @@ in your absence, or starting a vehicle with a
 virtual key.
 
 ### Before activating and using the
-`forthing_u_tour_en_066e4f4d` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:126 | doc_type:owners_manual
 
 Bluetooth key service, please carefully read
 and ensure that you have fully understood
@@ -15862,7 +14837,6 @@ the instructions on the page.
 2.
 
 ### After activating the Bluetooth
-`forthing_u_tour_en_13bfe0b2` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:126 | doc_type:owners_manual
 
 key service, please follow the instructions in
 the User Manual and Warranty Manual. If
@@ -15872,7 +14846,6 @@ Dongfeng Forthing for inspection.
 3.
 
 ### Some models of smartphones
-`forthing_u_tour_en_0c943c05` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:126 | doc_type:owners_manual
 
 may have incompatibilities with Bluetooth
 keys, which may be due to differences in
@@ -15891,7 +14864,6 @@ factors, and compatibility issues are not
 within our service commitment.
 
 ### The compatibility of smartphones
-`forthing_u_tour_en_f1f1b552` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:127 | doc_type:owners_manual
 
 and environmental interference can affect
 the keyless entry and start function of
@@ -15921,7 +14893,6 @@ such as the phone and the environment.
 5.
 
 ### When the vehicle power mode is
-`forthing_u_tour_en_4a4e4406` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:127 | doc_type:owners_manual
 
 adjusted to a mode other than OFF with the
 engine
@@ -15949,7 +14920,6 @@ used, the doors must be closed.
 6.
 
 ### Bluetooth key (such as authorized Bluetooth
-`forthing_u_tour_en_85eabfc8` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:127 | doc_type:owners_manual
 
 key) is inside the vehicle, the automatic
 locking after leaving the vehicle, door
@@ -15970,7 +14940,6 @@ reconnect.
 (2)
 
 ### Confirm whether there is any
-`forthing_u_tour_en_966ecbf9` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:127 | doc_type:owners_manual
 
 other mobile phone connected to the vehicle.
 If so, disconnect the other phones and
@@ -15978,7 +14947,6 @@ reconnect.
 (3)
 
 ### If the surrounding mobile phone
-`forthing_u_tour_en_fd988271` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:127 | doc_type:owners_manual
 
 connection cannot be confirmed, and there
 are no
@@ -15991,7 +14959,6 @@ tap [Reset Bluetooth key] switch in APP
 [My] - [Vehicle management] to release the
 
 ### Bluetooth pairing between the mobile phone
-`forthing_u_tour_en_246f7433` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:127 | doc_type:owners_manual
 
 and the vehicle, and then tap [Bluetooth key]
 again to complete the pairing.
@@ -16024,7 +14991,6 @@ iPhone Xs Max
 iPhone 11
 
 ### After the agreement is agreed
-`forthing_u_tour_en_bcd34fcc` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:128 | doc_type:owners_manual
 
 with, it returns to the vehicle information
 interface, and then tap [Bluetooth key].
@@ -16055,7 +15021,6 @@ activation].
 6.
 
 ### When the vehicle Bluetooth is first
-`forthing_u_tour_en_9b0628db` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:129 | doc_type:owners_manual
 
 connected to the mobile phone Bluetooth,
 pairing is required. Enter the [Pairing code]
@@ -16067,7 +15032,6 @@ the vehicle, it can replace the vehicle key to
 unlock, lock, and start the vehicle.
 
 ### Bluetooth key leaves the vehicle] in the
-`forthing_u_tour_en_ad4703ac` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:129 | doc_type:owners_manual
 
 display screen [Settings] - [Vehicle] -
 [Accessories]. After the Bluetooth key is
@@ -16077,7 +15041,6 @@ locked after you leave the vehicle with the
 Bluetooth key for a distance.
 
 ### Bluetooth vehicle control
-`forthing_u_tour_en_a52b9ddc` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:129 | doc_type:owners_manual
 
 After successful Bluetooth pairing, tap
 [Bluetooth key] function icon, and the icon
@@ -16087,7 +15050,6 @@ remote vehicle control to Bluetooth vehicle
 control.
 
 ### Forthing" APP to check the vehicle state and
-`forthing_u_tour_en_b1e0ddcb` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:130 | doc_type:owners_manual
 
 remotely control the vehicle door locks
 through the door lock function.
@@ -16095,7 +15057,6 @@ Select vehicle door [Lock] or [Unlock].
 Select trunk lid [Open] or [Close].
 
 ### Open the "AI Forthing" APP to check
-`forthing_u_tour_en_1d743596` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:131 | doc_type:owners_manual
 
 whether
 the
@@ -16115,7 +15076,6 @@ or
 [Close].
 
 ### The vehicle remote start includes four
-`forthing_u_tour_en_d148ce7c` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:132 | doc_type:owners_manual
 
 functional
 items:
@@ -16126,7 +15086,6 @@ and three time options: [5 min], [10 min],
 and [15 min].
 
 ### To use the remote temperature control
-`forthing_u_tour_en_83f6f30f` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:132 | doc_type:owners_manual
 
 function, tap [Remote heating] or [Remote
 cooling] to remotely start the vehicle for
@@ -16148,7 +15107,6 @@ vehicle control function when the vehicle is
 not in "ON" position.
 
 ### After the vehicle is shut down and the
-`forthing_u_tour_en_57d07957` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:133 | doc_type:owners_manual
 
 doors are locked, if it is detected that there
 are still passengers in the rear row, a prompt
@@ -16161,7 +15119,6 @@ reduced to a red prompt. Tap it to re-enter
 the prompt box interface.
 
 ### The system will synchronously send a
-`forthing_u_tour_en_985f2806` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:134 | doc_type:owners_manual
 
 short message to the owner's mobile phone
 to remind him/her that there are still
@@ -16179,7 +15136,6 @@ operations and pushed alarm information
 can be viewed.
 
 ### Location information
-`forthing_u_tour_en_3c49936b` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:136 | doc_type:owners_manual
 
 If you don't know where your vehicle is,
 open the "AI Forthing" APP to get the
@@ -16196,14 +15152,12 @@ you can quickly find your vehicle in a
 parking lot with good network.
 
 ### Trip history
-`forthing_u_tour_en_013b72cc` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:136 | doc_type:owners_manual
 
 Through the trip history, you can see
 the trip track of your vehicle in a certain
 period of time.
 
 ### Dash cam can only be used if the
-`forthing_u_tour_en_f8ac1d1d` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:137 | doc_type:owners_manual
 
 vehicle is equipped with a dash cam when it
 leaves the factory. To use the function, the
@@ -16213,7 +15167,6 @@ dash cam hotspot near the vehicle before it
 can be used.
 
 ### Tap [Dash cam]
-`forthing_u_tour_en_f4967781` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:137 | doc_type:owners_manual
 
 to jump
 to the
@@ -16233,14 +15186,12 @@ control of the dash cam for [Recording],
 videos taken are saved on your phone.
 
 ### You can choose to view the files of the
-`forthing_u_tour_en_41065c3a` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:138 | doc_type:owners_manual
 
 dash cam in the memory card. Tap the
 videos or photos in the memory card to save
 them to [Mobile phone album].
 
 ### The file information saved from the
-`forthing_u_tour_en_e27aa72c` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:139 | doc_type:owners_manual
 
 dashcam to the mobile phone can be viewed
 in [Mobile phone album].
@@ -16279,7 +15230,6 @@ frequency
 band], etc.
 
 ### Latest topics
-`forthing_u_tour_en_e18fd722` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:140 | doc_type:owners_manual
 
 In the "Latest topics" column, some
 interesting articles can be found, including
@@ -16300,13 +15250,11 @@ reminder], [About], [Help center] and other
 functions.
 
 ### Account management
-`forthing_u_tour_en_ac9350b7` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:141 | doc_type:owners_manual
 
 Tap [Avatar] to modify the nickname,
 change the avatar and log out of the account.
 
 ### Vehicle management
-`forthing_u_tour_en_20a34dde` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:141 | doc_type:owners_manual
 
 In vehicle management, you can view
 the
@@ -16329,7 +15277,6 @@ contact
 person], etc.
 
 ### View the current APP version and
-`forthing_u_tour_en_8e3e9aee` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:142 | doc_type:owners_manual
 
 various protocols. Tap [Update version] to
 update the APP to the latest version.
@@ -16340,13 +15287,11 @@ slots for storing water cups and other
 articles.
 
 ### The dashboard is equipped with a
-`forthing_u_tour_en_a3267444` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:145 | doc_type:owners_manual
 
 storage box, which can be opened by pulling
 the tongue and closed by pushing it back.
 
 ### Upper storage compartment of auxiliary
-`forthing_u_tour_en_c6b9f6dc` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:146 | doc_type:owners_manual
 
 dashboard
 The
@@ -16373,7 +15318,6 @@ press the cover plate until a "click" sound is
 heard.
 
 ### A storage slot is provided at the lower
-`forthing_u_tour_en_038d082b` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:146 | doc_type:owners_manual
 
 part of the auxiliary dashboard to store small
 items such as mobile phones and keys.
@@ -16386,7 +15330,6 @@ to open it, and push the handle forward to
 close it.
 
 ### There is a storage compartment located
-`forthing_u_tour_en_3d4b448e` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:146 | doc_type:owners_manual
 
 below the rear of the auxiliary dashboard,
 where you can store items such as mobile
@@ -16398,7 +15341,6 @@ beverage bottles and other items for easy use
 during travel.
 
 ### There are tray tables and cup holders at
-`forthing_u_tour_en_b0b6788f` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:148 | doc_type:owners_manual
 
 the back of the front-row seats. Press the
 release button on the back of the seat to
@@ -16413,7 +15355,6 @@ passengers from getting hurt due to item
 inertia overturning.
 
 ### The magazine bag is located on the
-`forthing_u_tour_en_8f850057` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:148 | doc_type:owners_manual
 
 back of the front and middle-row seat and
 used for placing small objects such as
@@ -16425,7 +15366,6 @@ case to slowly open it, and push the front
 end of the glasses case back to close it.
 
 ### Turn the sun visor downward to block
-`forthing_u_tour_en_229c41ed` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:149 | doc_type:owners_manual
 
 the front sunlight. To block the side sunlight,
 disengage the left/right support rod from the
@@ -16437,7 +15377,6 @@ visor and push the vanity mirror cover to the
 left/right for use.
 
 ### The middle part of the dashboard is
-`forthing_u_tour_en_4cfe1364` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:149 | doc_type:owners_manual
 
 provided with a mobile phone bracket
 interface, which is convenient for use during
@@ -16449,7 +15388,6 @@ be unfolded by pressing the groove and
 retracted by pressing the rib.
 
 ### Do not hang hangers or other hard objects
-`forthing_u_tour_en_0c10e894` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:150 | doc_type:owners_manual
 
 on the coat hooks. When the side curtain
 airbag deploys, these items may be ejected
@@ -16462,7 +15400,6 @@ Restore cruise control function...180
 Change the set vehicle speed......180
 
 ### ACC position: With the vehicle in "OFF"
-`forthing_u_tour_en_70a6459b` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:154 | doc_type:owners_manual
 
 position, press the Start/Stop switch without
 depressing the brake pedal, and the vehicle
@@ -16471,7 +15408,6 @@ the IVI system and other related functions
 can be used.
 
 ### ON position: When the vehicle is in "ACC"
-`forthing_u_tour_en_5074a5da` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:154 | doc_type:owners_manual
 
 position, press the Start/Stop switch without
 depressing the brake pedal, and the vehicle
@@ -16482,7 +15418,6 @@ again, and the vehicle will return to the
 "OFF" position.
 
 ### START gear: The gear after the vehicle is
-`forthing_u_tour_en_95d0d53e` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:154 | doc_type:owners_manual
 
 started. When the Start/Stop switch is in the
 "OFF/ON/ACC" position, depress the brake
@@ -16491,7 +15426,6 @@ will turn green. After confirming that the
 gearshift lever is in P/N position, press the
 
 ### Get into the vehicle with a smart
-`forthing_u_tour_en_a8851c48` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:154 | doc_type:owners_manual
 
 key that matches the vehicle. When the
 gearshift lever is in P/N position, depress the
@@ -16507,7 +15441,6 @@ switch and release it promptly after the
 engine is started.
 
 ### When the battery of the smart key is
-`forthing_u_tour_en_74d8664d` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:154 | doc_type:owners_manual
 
 too low or runs out, you can use the
 mechanical key inside the smart key to open
@@ -16518,7 +15451,6 @@ depress the brake pedal and press the
 Start/Stop switch at the same time.
 
 ### If there is no problem with the
-`forthing_u_tour_en_d33adc6b` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:154 | doc_type:owners_manual
 
 battery terminal, please turn on the interior
 light. During engine start, if the interior
@@ -16530,7 +15462,6 @@ please contact the authorized service station
 of Dongfeng Forthing.
 
 ### Comfortable Driving
-`forthing_u_tour_en_85eeb36d` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:155 | doc_type:owners_manual
 
 Note
 
@@ -16544,7 +15475,6 @@ recommended to preheat the engine for
 several minutes before driving.
 
 ### Press the Start/Stop switch to shut
-`forthing_u_tour_en_b71c54cc` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:155 | doc_type:owners_manual
 
 down the engine.
 3.
@@ -16558,7 +15488,6 @@ times within 2s to urgently shut down the
 engine.
 
 ### The automatic start-stop system is
-`forthing_u_tour_en_b823ab8f` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:155 | doc_type:owners_manual
 
 suitable for areas with altitude below 2600
 m. Its purpose is to reduce fuel consumption,
@@ -16583,7 +15512,6 @@ the engine will automatically start.
 3.
 
 ### After the engine automatically
-`forthing_u_tour_en_a4dfd814` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:155 | doc_type:owners_manual
 
 stops in D gear, when the automatic vehicle
 hold is turned on or the parking brake is
@@ -16600,7 +15528,6 @@ shut down the engine.
 
 
 ### Even if the vehicle is equipped with the
-`forthing_u_tour_en_82abe289` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:155 | doc_type:owners_manual
 
 automatic start-stop system, the parking
 brake must be applied when the vehicle is
@@ -16608,7 +15535,6 @@ parked on a slope to prevent it from slipping.
 
 
 ### If the vehicle is parked for a long time in
-`forthing_u_tour_en_7cc27142` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:155 | doc_type:owners_manual
 
 extremely cold outdoor weather, the engine
 shall run for a long time to raise the internal
@@ -16618,7 +15544,6 @@ to work normally.
 
 
 ### If the vehicle runs for a long time in an
-`forthing_u_tour_en_5b707340` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:155 | doc_type:owners_manual
 
 environment with poor heat dissipation, the
 battery temperature may be higher than the
@@ -16638,7 +15563,6 @@ required force.
 
 
 ### Before opening the engine hood or
-`forthing_u_tour_en_fea8792a` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:155 | doc_type:owners_manual
 
 performing any maintenance, turn the
 one-button Start/Stop switch to "OFF" to
@@ -16665,7 +15589,6 @@ system fault
 Red
 
 ### The automatic start-stop system will
-`forthing_u_tour_en_771534e1` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:156 | doc_type:owners_manual
 
 not
 be
@@ -16719,7 +15642,6 @@ are activated.
 Excessive steering wheel angle.
 
 ### It may take some time for the automatic
-`forthing_u_tour_en_039be174` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:156 | doc_type:owners_manual
 
 start-stop system to be enabled under the
 following conditions:
@@ -16757,7 +15679,6 @@ enabled.
 operation.
 
 ### Comfortable Driving
-`forthing_u_tour_en_50782f1b` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:157 | doc_type:owners_manual
 
 The vehicle is about to slide.
 The battery level drops.
@@ -16767,7 +15688,6 @@ vacuum booster decreases to the specified
 value.
 
 ### Start/Stop system switch
-`forthing_u_tour_en_17ef0a45` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:157 | doc_type:owners_manual
 
 After
 the
@@ -16788,7 +15708,6 @@ automatic start-stop function. Press the
 switch again or restart the engine with the
 
 ### Start/Stop switch to enable the automatic
-`forthing_u_tour_en_5f4bee0e` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:157 | doc_type:owners_manual
 
 start-stop system.
 After the engine automatically stops,
@@ -16803,7 +15722,6 @@ turned on with the automatic start-stop
 system switch.
 
 ### Crystal gearshift lever
-`forthing_u_tour_en_462ba8bf` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:157 | doc_type:owners_manual
 
 1. Gear unlocking button
 2. P gear button
@@ -16819,7 +15737,6 @@ parked or placed in a state ready to drive.
 Press the P gear button to enter the P gear.
 
 ### The R gear can only be engaged when
-`forthing_u_tour_en_9214992e` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:158 | doc_type:owners_manual
 
 the vehicle is started. Use this gear when
 reversing. Be sure to stop the vehicle
@@ -16837,7 +15754,6 @@ assistance. Be sure to stop the vehicle
 completely before shifting to N gear.
 
 ### M gear (manual mode)
-`forthing_u_tour_en_1b76ec70` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:158 | doc_type:owners_manual
 
 In the manual mode, the driver can
 independently
@@ -16849,7 +15765,6 @@ according to road conditions and driving
 habits to enjoy the driving.
 
 ### Shifting method
-`forthing_u_tour_en_d1ddc84e` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:158 | doc_type:owners_manual
 
 Keep
 the
@@ -16867,7 +15782,6 @@ position, and the gears are arranged from
 front to back in R-N-D order.
 
 ### Shift to P gear
-`forthing_u_tour_en_2bfd7e68` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:158 | doc_type:owners_manual
 
 After the vehicle completely stops,
 press the P gear button to enter the P gear.
@@ -16879,7 +15793,6 @@ depressing the brake pedal, and push the
 gearshift lever upward to the R position.
 
 ### P to N: Press the gear unlocking button
-`forthing_u_tour_en_9910181a` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:158 | doc_type:owners_manual
 
 (if equipped) while depressing the brake
 pedal,
@@ -16906,7 +15819,6 @@ the gearshift lever upward/downward to
 increase/decrease the gear.
 
 ### Description of shifting conditions
-`forthing_u_tour_en_f4703301` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:158 | doc_type:owners_manual
 
 1.
 When the vehicle is not started,
@@ -16929,7 +15841,6 @@ the gearshift lever rightward to D position
 and then shift gears.
 
 ### Crawling function (creeping)
-`forthing_u_tour_en_4b187628` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:159 | doc_type:owners_manual
 
 After the vehicle is started, shift the
 gearshift lever to the driving position (D or
@@ -16955,7 +15866,6 @@ Hill start:
 1.
 
 ### Slowly depress the accelerator
-`forthing_u_tour_en_90a6fa1e` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:159 | doc_type:owners_manual
 
 pedal, and release the EPB switch after
 feeling that the vehicle has a forward trend,
@@ -16972,7 +15882,6 @@ Pull up EPB switch.
 4.
 
 ### When it is necessary to stop the vehicle
-`forthing_u_tour_en_3a16f4af` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:159 | doc_type:owners_manual
 
 temporarily on a slope (with the driver in the
 vehicle), always depress the brake pedal or
@@ -16984,7 +15893,6 @@ be damaged.
 
 
 ### When it is necessary to park the vehicle
-`forthing_u_tour_en_cc86fa00` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:159 | doc_type:owners_manual
 
 on a slope for a long time (with the driver
 not in the vehicle), if the slope is steep,
@@ -16999,7 +15907,6 @@ otherwise, the automatic transmission may
 overheat or fail.
 
 ### Driving mode switching
-`forthing_u_tour_en_f39645d7` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:159 | doc_type:owners_manual
 
 When the vehicle is started, the driving
 mode is "Normal" by default. Press the
@@ -17015,7 +15922,6 @@ experience. It is suitable for flat roads with
 few vehicles.
 
 ### Economy mode (ECO)
-`forthing_u_tour_en_2d706e50` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:160 | doc_type:owners_manual
 
 With improved vehicle fuel economy,
 the mode is applicable to urban roads,
@@ -17027,14 +15933,12 @@ complete manual parking, and the parking
 status indicator will illuminate.
 
 ### Release: Depress the brake pedal and press
-`forthing_u_tour_en_bac4f765` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:160 | doc_type:owners_manual
 
 the EPB switch at the same time, the parking
 brake will be released, and the parking
 status indicator will go out.
 
 ### This function can only be used when
-`forthing_u_tour_en_8435944d` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:160 | doc_type:owners_manual
 
 the brake pedal fails or is blocked. Pull up
 the EPB switch continuously to realize
@@ -17045,7 +15949,6 @@ be withdrawn.
 Warning
 
 ### The use of emergency brake function shall
-`forthing_u_tour_en_708de93e` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:160 | doc_type:owners_manual
 
 be avoided as far as possible. On roads with
 large bending, poor road conditions or
@@ -17054,7 +15957,6 @@ braking function may lead to drifting and
 sideslip of the vehicle.
 
 ### The AUTO HOLD function can help
-`forthing_u_tour_en_52db4e7e` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:160 | doc_type:owners_manual
 
 the
 driver
@@ -17072,7 +15974,6 @@ releases the brake pedal at the scope start or
 traffic light intersection.
 
 ### Comfortable Driving
-`forthing_u_tour_en_ad6e3068` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:161 | doc_type:owners_manual
 
 Turn-on conditions of AUTO HOLD:
 The engine is started.
@@ -17080,7 +15981,6 @@ Turn-on conditions of AUTO HOLD:
 All vehicle doors are closed.
 
 ### Turn on AUTO HOLD function
-`forthing_u_tour_en_8770400b` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:161 | doc_type:owners_manual
 
 Press the AUTO HOLD switch to
 turn on the AUTO HOLD function, and the
@@ -17105,7 +16005,6 @@ automatically release the parking brake.
 Otherwise, the vehicle may fail to start.
 
 ### Turn off AUTO HOLD function
-`forthing_u_tour_en_d55e0c11` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:161 | doc_type:owners_manual
 
 When the AUTO HOLD function is
 turned on, press the AUTO HOLD switch to
@@ -17124,7 +16023,6 @@ automatically exit and be converted to EPB
 parking to ensure parking safety.
 
 ### Traction control system (TCS)
-`forthing_u_tour_en_5ee20897` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:161 | doc_type:owners_manual
 
 During vehicle running, the traction
 control system (TCS) reduces wheel slip in
@@ -17133,7 +16031,6 @@ engine and applying appropriate braking to
 the driving wheels.
 
 ### Open and close the fuel filler cap
-`forthing_u_tour_en_9ddccc03` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:161 | doc_type:owners_manual
 
 Open
 With the door unlocked, press the
@@ -17145,7 +16042,6 @@ the central door lock button or the smart key
 lock button to lock the fuel filler cap.
 
 ### Fill the fuel
-`forthing_u_tour_en_21e3ccc7` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:162 | doc_type:owners_manual
 
 Rotate
 the
@@ -17162,7 +16058,6 @@ keep the vehicle away from heat sources and
 open flames.
 
 ### After the refueling gun is automatically
-`forthing_u_tour_en_0e135a6b` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:162 | doc_type:owners_manual
 
 closed for the first time, refueling shall be
 stopped. At this time, there is a certain space
@@ -17173,7 +16068,6 @@ environment, fuel expansion will cause fuel
 leakage.
 
 ### Special attention shall be paid to the
-`forthing_u_tour_en_395968c5` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:162 | doc_type:owners_manual
 
 driving mode within the mileage of 1,000
 km of the new vehicle, which will help to
@@ -17181,7 +16075,6 @@ ensure the reliability of the vehicle and
 prolong the service life of the vehicle.
 
 ### Observe the following precautions in this
-`forthing_u_tour_en_36c296a2` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:162 | doc_type:owners_manual
 
 stage:
 Avoid driving the vehicle under full
@@ -17194,13 +16087,11 @@ tow other vehicles.
 under different working conditions.
 
 ### Driving at night is more dangerous
-`forthing_u_tour_en_b1118447` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:162 | doc_type:owners_manual
 
 than driving at daytime, mainly because of
 poor visibility at night and fatigue of drivers.
 
 ### Please pay attention to the following matters
-`forthing_u_tour_en_56050649` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:162 | doc_type:owners_manual
 
 when driving at night:
 Never
@@ -17227,7 +16118,6 @@ roadside in time for rest.
 dazzling lights and obstructing sight.
 
 ### Driving under the influence
-`forthing_u_tour_en_36723384` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:162 | doc_type:owners_manual
 
 Never drive while under the influence.
 Driving
@@ -17245,7 +16135,6 @@ reaction,
 perception, attention and judgment.
 
 ### Driving under the influence can lead not
-`forthing_u_tour_en_56706476` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:163 | doc_type:owners_manual
 
 only to accidents but also serious personal
 injuries. The traffic department will impose
@@ -17259,7 +16148,6 @@ the
 provisions of the Road Traffic Safety Law.
 
 ### In order to avoid damaging the vehicle
-`forthing_u_tour_en_3bdd60cc` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:163 | doc_type:owners_manual
 
 when driving through water, pay attention to
 the following matters:
@@ -17279,7 +16167,6 @@ Note
 
 
 ### The braking effect may be affected and
-`forthing_u_tour_en_a615973f` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:163 | doc_type:owners_manual
 
 the braking distance may be prolonged
 when the vehicle passes through
@@ -17288,7 +16175,6 @@ cause accidents!
 
 
 ### Avoid rapid acceleration or emergency
-`forthing_u_tour_en_b7948ae1` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:163 | doc_type:owners_manual
 
 braking immediately after driving through
 water.
@@ -17306,7 +16192,6 @@ traffic participants to avoid traffic accidents.
 
 
 ### The waves caused by the opposite
-`forthing_u_tour_en_8bb7ab69` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:163 | doc_type:owners_manual
 
 vehicle may exceed the allowable water
 height of the vehicle.
@@ -17318,7 +16203,6 @@ through water.
 
 
 ### Try to avoid driving on roads with
-`forthing_u_tour_en_866e9c6e` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:163 | doc_type:owners_manual
 
 significant water accumulation. After
 driving through areas with substantial water,
@@ -17329,14 +16213,12 @@ identify any potential issues, ensuring road
 safety.
 
 ### Long-distance driving
-`forthing_u_tour_en_28899a26` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:163 | doc_type:owners_manual
 
 Before long-distance driving, please
 make sure that relevant preparations are
 made and try to have a good rest.
 
 ### Please check the following components
-`forthing_u_tour_en_03378f40` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:163 | doc_type:owners_manual
 
 of the vehicle before traveling:
 Check whether the washer fluid
@@ -17358,7 +16240,6 @@ whether all tires have been inflated to the
 recommended air pressure value.
 
 ### Please pay attention to the following
-`forthing_u_tour_en_66af4aad` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:164 | doc_type:owners_manual
 
 items when driving in rainy days:
 Heavy rain will make the sight worse
@@ -17391,7 +16272,6 @@ depress the brake pedal to dry the brake
 when driving at a low speed.
 
 ### Driving on slopes and mountainous roads
-`forthing_u_tour_en_f421947b` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:164 | doc_type:owners_manual
 
 When
 driving
@@ -17423,7 +16303,6 @@ take
 appropriate measures during driving.
 
 ### Driving on icy and snowy road
-`forthing_u_tour_en_a4f2f4e0` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:165 | doc_type:owners_manual
 
 When driving in snow, use snow tires
 as much as possible. Please select snow tires
@@ -17438,7 +16317,6 @@ braking will cause the vehicle to drift.
 Please keep a safe distance.
 
 ### Harsh driving environment in winter
-`forthing_u_tour_en_dd90caeb` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 will increase vehicle wear or cause vehicle
 failure. The probability of failure can be
@@ -17470,7 +16348,6 @@ emergency
 equipment according to weather changes.
 
 ### The electric power steering system can
-`forthing_u_tour_en_1a6fa15b` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:165 | doc_type:owners_manual
 
 provide power during driving, so that the
 driver can turn the steering wheel easily.
@@ -17489,7 +16366,6 @@ modes:
 comfort, normal and sports.
 
 ### During parking or driving at a very low
-`forthing_u_tour_en_d609d5e7` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:166 | doc_type:owners_manual
 
 speed, if the steering wheel is repeatedly and
 continuously turned or turned to the end for
@@ -17502,7 +16378,6 @@ operations.
 
 
 ### When turning the steering wheel
-`forthing_u_tour_en_fb64cd3b` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:166 | doc_type:owners_manual
 
 quickly, you may hear the working sound of
 the power steering assist motor, which is a
@@ -17511,7 +16386,6 @@ system fault warning light illuminates while
 the engine is running, it indicates that the
 
 ### EPS steering system or related system is
-`forthing_u_tour_en_bfd57bff` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:166 | doc_type:owners_manual
 
 abnormal. At this time, turning the steering
 wheel may require more force. Please
@@ -17524,7 +16398,6 @@ contact the authorized service station of
 Dongfeng Forthing as soon as possible.
 
 ### The driver can brake in time in most
-`forthing_u_tour_en_475135d1` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:166 | doc_type:owners_manual
 
 dangerous
 situations,
@@ -17548,7 +16421,6 @@ force than that during normal braking, thus
 shortening the braking distance.
 
 ### Brake priority
-`forthing_u_tour_en_1ad2d1e4` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:166 | doc_type:owners_manual
 
 The
 brake
@@ -17567,7 +16439,6 @@ braking, the steering wheel can still be used
 to avoid collision.
 
 ### The ABS system has built-in self-test
-`forthing_u_tour_en_07e2afba` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:166 | doc_type:owners_manual
 
 function. When the vehicle is started and
 running at a low speed, the system will carry
@@ -17577,7 +16448,6 @@ illuminate the ABS system fault warning
 light on the combination instrument.
 
 ### Comfortable Driving
-`forthing_u_tour_en_aa96de29` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:167 | doc_type:owners_manual
 
 At this time, the brake system works
 normally, but the ABS system does not
@@ -17591,7 +16461,6 @@ please contact the authorized service station
 of Dongfeng Forthing.
 
 ### Normal working
-`forthing_u_tour_en_0073a9b5` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:167 | doc_type:owners_manual
 
 The
 ABS
@@ -17623,7 +16492,6 @@ Note
 
 
 ### The EBD system will automatically
-`forthing_u_tour_en_2ff700d2` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:167 | doc_type:owners_manual
 
 distribute the braking force between the
 front and rear wheels, so that the vehicle can
@@ -17639,13 +16507,11 @@ state may deviate from the ideal driving
 state, the ESP system will start to work.
 
 ### The ESP system will selectively apply
-`forthing_u_tour_en_0ab608eb` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:167 | doc_type:owners_manual
 
 braking force to the vehicle brake to
 improve the driving stability of the vehicle.
 
 ### Press the ESP switch to turn off the ESP
-`forthing_u_tour_en_9c738da1` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:167 | doc_type:owners_manual
 
 system, and the ESP OFF indicator on the
 combination instrument will illuminate.
@@ -17660,7 +16526,6 @@ the ESP OFF indicator on the combination
 instrument will go out.
 
 ### Do not put your foot on the brake pedal
-`forthing_u_tour_en_e30fde6e` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:167 | doc_type:owners_manual
 
 during driving, which will overheat the
 brake, accelerate the wear of the brake disc
@@ -17679,7 +16544,6 @@ of the brake and degradation of braking
 performance.
 
 ### Be careful when driving on a slippery
-`forthing_u_tour_en_fe4215c5` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:168 | doc_type:owners_manual
 
 road. Sudden braking or acceleration will
 cause wheel slipping.
@@ -17695,7 +16559,6 @@ advisable to drive at a safe speed and
 maintain a safe following distance.
 
 ### When the vehicle starts on a steep or
-`forthing_u_tour_en_41df8f5a` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:168 | doc_type:owners_manual
 
 smooth slope and the driver switches from
 the brake pedal to the accelerator pedal, the
@@ -17709,7 +16572,6 @@ Warning
 
 
 ### When parking the vehicle on a steep
-`forthing_u_tour_en_08c5551b` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:168 | doc_type:owners_manual
 
 slope, icy and muddy road, depress the
 brake pedal to prevent the vehicle from
@@ -17731,7 +16593,6 @@ the vehicle will stop completely on the
 slope.
 
 ### The HHC system will not work under
-`forthing_u_tour_en_4fd61900` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:168 | doc_type:owners_manual
 
 the following conditions:
 When the gearshift lever is shifted to
@@ -17741,7 +16602,6 @@ horizontal road.
 combination instrument illuminates.
 
 ### The HDC system allows the driver to
-`forthing_u_tour_en_816bf63a` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:168 | doc_type:owners_manual
 
 smoothly pass through a steep downhill
 section without depressing the brake pedal.
@@ -17755,7 +16615,6 @@ instrument will illuminate, indicating that
 the HDC system is turned on. When the
 
 ### HDC switch is pressed again or the vehicle
-`forthing_u_tour_en_68c4c085` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:168 | doc_type:owners_manual
 
 speed exceeds 60 km/h, the HDC working
 indicator will go out and the HDC system
@@ -17768,14 +16627,12 @@ keep the vehicle speed within the range of 8
 km/h to 35 km/h.
 
 ### The driver can depress the accelerator pedal
-`forthing_u_tour_en_e54c9707` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:169 | doc_type:owners_manual
 
 or brake pedal to adjust the speed to be
 maintained when using the HDC function to
 go downhill within the speed range.
 
 ### When the HDC system performs active
-`forthing_u_tour_en_ccec2f82` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:169 | doc_type:owners_manual
 
 braking, the HDC system working indicator
 on the combination instrument flashes, and
@@ -17791,7 +16648,6 @@ activated.
 
 
 ### The HDC function only controls the
-`forthing_u_tour_en_18b81205` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:169 | doc_type:owners_manual
 
 vehicle speed through active braking. The
 driver should pay attention to controlling the
@@ -17805,7 +16661,6 @@ braking force will be generated, which is
 normal.
 
 ### The parking assist system can assist the
-`forthing_u_tour_en_6881ff51` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:169 | doc_type:owners_manual
 
 driver
 to
@@ -17820,7 +16675,6 @@ when there are obstacles hindering driving
 or parking.
 
 ### The main functions of the parking
-`forthing_u_tour_en_000b8f67` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:169 | doc_type:owners_manual
 
 assist system include:
 Detect obstacles around the vehicle.
@@ -17832,7 +16686,6 @@ image.
 Obstacle warning and alarm.
 
 ### The parking radar system can detect
-`forthing_u_tour_en_0e592e44` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:169 | doc_type:owners_manual
 
 obstacles around the vehicle when the
 vehicle is running at a low speed and give a
@@ -17847,7 +16700,6 @@ divided into two categories:
 the rear.
 
 ### When the parking assist system is
-`forthing_u_tour_en_6bae6eb9` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:169 | doc_type:owners_manual
 
 activated, the system will automatically
 detect whether the function is normal. If the
@@ -17857,7 +16709,6 @@ authorized service station of Dongfeng
 Forthing.
 
 ### Scribe at the top of the display screen
-`forthing_u_tour_en_7987af4c` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:170 | doc_type:owners_manual
 
 to call out the shortcut menu of the
 drop-down bar, and tap [Front Radar] to turn
@@ -17865,7 +16716,6 @@ on and off the front radar system.
 ON
 
 ### The front radar system can be turned on
-`forthing_u_tour_en_3687c3fc` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:170 | doc_type:owners_manual
 
 when the following operations are met
 simultaneously:
@@ -17879,7 +16729,6 @@ driving.
 OFF
 
 ### The following operations can turn off
-`forthing_u_tour_en_5d8e8869` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:170 | doc_type:owners_manual
 
 the front radar system.
 The front radar switch is off.
@@ -17889,7 +16738,6 @@ the front radar system.
 Note
 
 ### The front radar switch controls the radar
-`forthing_u_tour_en_47b0651f` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:170 | doc_type:owners_manual
 
 sensor on the front bumper. When the
 switch is turned off, the front radar system
@@ -17900,7 +16748,6 @@ mode exits, the front radar system does not
 work.
 
 ### On and Off
-`forthing_u_tour_en_212c2cca` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:170 | doc_type:owners_manual
 
 Turn the Start/Stop switch to "ON"
 position.
@@ -17911,7 +16758,6 @@ off automatically after the gearshift lever is
 out of R gear.
 
 ### The parking assist system sends out
-`forthing_u_tour_en_831b3769` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:170 | doc_type:owners_manual
 
 intermittent alarm sound or long alarm
 sound on combination instrument according
@@ -17921,7 +16767,6 @@ shorter the interval time of alarm sound will
 be.
 
 ### Type 1: Corresponding colors are displayed
-`forthing_u_tour_en_210aa3a6` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:170 | doc_type:owners_manual
 
 on the display screen based on the distance
 from the obstacle, as shown in the following
@@ -17941,7 +16786,6 @@ panoramic image interface, accompanied by
 an audible alarm.
 
 ### Conditions in which the system may not
-`forthing_u_tour_en_03c21a03` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:171 | doc_type:owners_manual
 
 work
 Due to the characteristics, position,
@@ -17966,7 +16810,6 @@ Warning
 
 
 ### The parking assist system is only used as
-`forthing_u_tour_en_1aebfda2` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:171 | doc_type:owners_manual
 
 an auxiliary warning for obstacles in front of
 and behind the vehicle during parking and
@@ -17977,7 +16820,6 @@ the environment in real time during the
 whole driving process, and Dongfeng
 
 ### As the parking assist system has a blind
-`forthing_u_tour_en_4db7d3b1` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:171 | doc_type:owners_manual
 
 spot, please do not use it as the only
 evidence for reversing safety. The driver is
@@ -17990,7 +16832,6 @@ check the obstacles behind in time when
 reversing.
 
 ### When the gearshift lever is in R
-`forthing_u_tour_en_b8c0ec30` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:172 | doc_type:owners_manual
 
 gear, the reversing image will be turned on
 automatically, and the system will be turned
@@ -18004,7 +16845,6 @@ steering wheel is turned to a certain angle.
 360° Panoramic image*
 
 ### The panoramic image can be spliced
-`forthing_u_tour_en_1c45f17f` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:172 | doc_type:owners_manual
 
 with four camera images located in front,
 rear, left and right of the vehicle to form an
@@ -18014,7 +16854,6 @@ safer and more convenient to park the
 vehicle.
 
 ### Panoramic image enabling mode
-`forthing_u_tour_en_344dea0e` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:172 | doc_type:owners_manual
 
 Press the 360° panoramic button on
 the steering wheel to manually turn on the
@@ -18034,7 +16873,6 @@ on automatically.
 Note
 
 ### Priority: R gear > turning on the left or right
-`forthing_u_tour_en_a195b57c` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:172 | doc_type:owners_manual
 
 turn signal > 360° panoramic button. When
 the panoramic image is triggered by the high
@@ -18049,7 +16887,6 @@ the corresponding view.
 3D View
 
 ### Tap [3D View] on the left to enter the
-`forthing_u_tour_en_dba5c055` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:173 | doc_type:owners_manual
 
 3D view interface. Tap and drag any area of
 the image display to realize 360° rotation.
@@ -18061,7 +16898,6 @@ are
 supported.
 
 ### There are auxiliary lines in the 2D front
-`forthing_u_tour_en_1034b180` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:173 | doc_type:owners_manual
 
 and rear single view (middle) and 2D
 splicing view (right). The auxiliary lines
@@ -18080,7 +16916,6 @@ sections: 0 ~ 0.3 m, 0.3 ~ 1 m and 1 ~ 1.5 m.
 Warning
 
 ### The auxiliary line is only for reference and
-`forthing_u_tour_en_e56c6bf0` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:173 | doc_type:owners_manual
 
 cannot be used as the evidence for judging
 the actual distance and driving track of the
@@ -18089,7 +16924,6 @@ surrounding environment of the vehicle and
 drive safely when parking the vehicle.
 
 ### Tap [3D Surround] icon to display the
-`forthing_u_tour_en_e4c1d013` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:174 | doc_type:owners_manual
 
 surrounding effect in the single view area,
 and after 7s, it returns to the previous view.
@@ -18102,13 +16936,11 @@ and an alarm sound will be given.
 Note
 
 ### When the four radar sensors on the front and
-`forthing_u_tour_en_1d12b4a3` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:174 | doc_type:owners_manual
 
 rear sides detect obstacles, only the obstacle
 board is displayed, without alarm sound.
 
 ### Moving object & pedestrian detection
-`forthing_u_tour_en_980f8bf8` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:174 | doc_type:owners_manual
 
 warning (MOD) system
 The
@@ -18140,7 +16972,6 @@ Note
 
 
 ### The camera is similar to the human eye
-`forthing_u_tour_en_c55a6ec8` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:174 | doc_type:owners_manual
 
 as it has limited visibility in environments
 such as dusk, night, dawn, snow, rain, and
@@ -18150,7 +16981,6 @@ always responsible for maintaining a safe
 distance from any obstacles.
 
 ### The camera will enlarge and distort the
-`forthing_u_tour_en_296ab0d8` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:175 | doc_type:owners_manual
 
 image with a short delay. All functions of
 the parking assist system (radar and image)
@@ -18161,7 +16991,6 @@ during use.
 
 
 ### The panoramic view is only used to
-`forthing_u_tour_en_01c08132` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:175 | doc_type:owners_manual
 
 splice the ground images. For objects with a
 certain height, there will be blind spots in
@@ -18172,7 +17001,6 @@ vehicle.
 
 
 ### There will be a certain error between the
-`forthing_u_tour_en_d85ca6b1` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:175 | doc_type:owners_manual
 
 auxiliary line and the radar wave distance
 and the actual distance. Please pay attention
@@ -18191,7 +17019,6 @@ in
 parking.
 
 ### The automatic parking system plans
-`forthing_u_tour_en_d9e820c2` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:175 | doc_type:owners_manual
 
 the route for the driver to park. After finding
 a parking space, the driver does not need to
@@ -18201,7 +17028,6 @@ environment at all times and take over the
 vehicle when necessary.
 
 ### When the vehicle speed is below 30
-`forthing_u_tour_en_f078f325` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:175 | doc_type:owners_manual
 
 km/h, press the automatic parking switch to
 enable the parking-in function.
@@ -18211,7 +17037,6 @@ press the automatic parking switch and tap
 screen to enable the parking-out function.
 
 ### After the automatic parking system is
-`forthing_u_tour_en_d62032c2` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:175 | doc_type:owners_manual
 
 turned on, press the automatic parking
 switch again to turn off the automatic
@@ -18223,7 +17048,6 @@ automatic parking system will be turned off
 after a period of time.
 
 ### Comfortable Driving
-`forthing_u_tour_en_0cae7b5c` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:176 | doc_type:owners_manual
 
 1. When the vehicle speed is less than
 30 km/h, press the automatic parking switch,
@@ -18244,7 +17068,6 @@ parking space searching interface, while tap
 2.
 
 ### After the display screen enters the
-`forthing_u_tour_en_2d6f6dd4` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:176 | doc_type:owners_manual
 
 parking space searching interface, drive
 slowly. After a parking space is successfully
@@ -18261,7 +17084,6 @@ and press the automatic parking switch.
 4.
 
 ### Release the steering wheel and
-`forthing_u_tour_en_86226bfd` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:176 | doc_type:owners_manual
 
 brake according to the prompts, and the
 vehicle will start automatic parking-in. In
@@ -18281,7 +17103,6 @@ will be a risk of scratching the vehicle due to
 sudden acceleration.
 
 ### Parking-out process
-`forthing_u_tour_en_53acefcb` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:176 | doc_type:owners_manual
 
 Before the parking-out function is used,
 the following conditions must be met:
@@ -18302,7 +17123,6 @@ check whether the surrounding environment
 is suitable and safe.
 
 ### Comfortable Driving
-`forthing_u_tour_en_65fe839c` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:177 | doc_type:owners_manual
 
 2.
 Press
@@ -18332,7 +17152,6 @@ parking-out direction is right.
 3.
 
 ### Press the EPB switch to release
-`forthing_u_tour_en_f0ce0561` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:177 | doc_type:owners_manual
 
 parking,
 keep
@@ -18360,7 +17179,6 @@ Note
 
 
 ### The system can recognize vertical and
-`forthing_u_tour_en_65b042b2` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:177 | doc_type:owners_manual
 
 horizontal parking spaces. If there is no
 parking line in the parking space, other
@@ -18378,7 +17196,6 @@ not turn the steering wheel.
 
 
 ### During the process of searching for a
-`forthing_u_tour_en_e586709e` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:177 | doc_type:owners_manual
 
 parking space, please maintain a lateral
 distance of 0.5-1.8 m between the vehicle
@@ -18386,7 +17203,6 @@ and the parking space.
 
 
 ### After the system searches for the first
-`forthing_u_tour_en_d657f38c` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:177 | doc_type:owners_manual
 
 parking space, it will send out a prompt
 sound. Afterwards, there will be a prompt
@@ -18421,7 +17237,6 @@ parking.
 
 
 ### When parking pauses for more than 30s
-`forthing_u_tour_en_dddb18ed` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:177 | doc_type:owners_manual
 
 without resuming due to not depressing the
 brake, automatic parking will exit.
@@ -18435,13 +17250,11 @@ time limit is exceeded, automatic parking
 will exit.
 
 ### Due to the limitations of the system
-`forthing_u_tour_en_d973ee10` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:178 | doc_type:owners_manual
 
 itself, it is not always possible to detect
 objects in parking spaces and parking paths.
 
 ### When the automatic parking system is
-`forthing_u_tour_en_3b523564` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:178 | doc_type:owners_manual
 
 activated, the driver is always responsible
 for actively intervening if necessary, taking
@@ -18455,7 +17268,6 @@ emergency, please take over the steering
 wheel or depress the brake pedal in time.
 
 ### Failure to follow the regulation may result in
-`forthing_u_tour_en_c2cfa064` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:178 | doc_type:owners_manual
 
 personal injury.
 
@@ -18473,7 +17285,6 @@ pedestrians, and objects.
 
 
 ### For scenarios that meet parking
-`forthing_u_tour_en_891dfd71` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:178 | doc_type:owners_manual
 
 conditions but are not suitable for parking,
 such as intersections with curbs and lawns
@@ -18487,7 +17298,6 @@ Warning
 
 
 ### Automatic parking in narrow areas can
-`forthing_u_tour_en_6fa0b7cc` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:178 | doc_type:owners_manual
 
 affect the accuracy of sensor detection of
 obstacle positions, leading to an increase in
@@ -18497,7 +17307,6 @@ objects.
 
 
 ### During automatic parking in a narrow
-`forthing_u_tour_en_06f40c94` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:178 | doc_type:owners_manual
 
 area, continuous parking should not exceed
 10 times. Multiple consecutive parking
@@ -18509,14 +17318,12 @@ parking.
 
 
 ### The system may be affected by the
-`forthing_u_tour_en_70c68628` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:178 | doc_type:owners_manual
 
 surrounding environment, and after parking
 is completed, the vehicle body may tilt or
 shift forward in the vertical parking space.
 
 ### You may need to further adjust the vehicle
-`forthing_u_tour_en_3073e594` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:178 | doc_type:owners_manual
 
 position to ensure correct parking.
 
@@ -18529,7 +17336,6 @@ parking failure.
 
 
 ### When there are trucks or suspended
-`forthing_u_tour_en_4f976987` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:178 | doc_type:owners_manual
 
 obstacles in front or behind the parking
 space, collisions may occur during the
@@ -18544,7 +17350,6 @@ is searched; otherwise, the system will not
 be able to effectively distinguish obstacles.
 
 ### Severe weather conditions (such as
-`forthing_u_tour_en_af675185` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:179 | doc_type:owners_manual
 
 heavy rain, fog, snow, extreme heat or cold
 temperatures) will interfere with the sensor
@@ -18562,7 +17367,6 @@ system.
 
 
 ### Do not use the automatic parking system
-`forthing_u_tour_en_1647e8b8` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:179 | doc_type:owners_manual
 
 when one or more ultrasonic sensors are
 damaged, the surround-view camera is dirty,
@@ -18577,7 +17381,6 @@ of the system.
 
 
 ### Please keep the outer surface of the
-`forthing_u_tour_en_2c303275` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:179 | doc_type:owners_manual
 
 sensor and camera clean. If you discover
 any snow, ice, frost, mud, dust, etc.,
@@ -18591,7 +17394,6 @@ machine or steam cleaning machine to clean
 the sensor and camera to avoid damage.
 
 ### Rinse the surface of the vehicle sensor and
-`forthing_u_tour_en_0dd91232` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:179 | doc_type:owners_manual
 
 camera with small flow for a short time at a
 distance of at least 10 cm.
@@ -18605,7 +17407,6 @@ automatic parking process.
 
 
 ### The automatic parking system does not
-`forthing_u_tour_en_a6706f8b` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:179 | doc_type:owners_manual
 
 support parking space scenarios such as
 diagonal parking space, line frame
@@ -18618,7 +17419,6 @@ do not use the automatic parking system in
 these scenarios.
 
 ### The cruise control system allows the
-`forthing_u_tour_en_a44e05c1` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:179 | doc_type:owners_manual
 
 driver to keep the vehicle running at a preset
 speed
@@ -18640,7 +17440,6 @@ prohibited to use the cruise control system
 on icy and snowy roads.
 
 ### Set the current speed to the cruise
-`forthing_u_tour_en_6545d264` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:180 | doc_type:owners_manual
 
 speed and control the vehicle at this speed.
 If
@@ -18652,7 +17451,6 @@ is
 activated:
 
 ### Press and hold the button: Decrease the
-`forthing_u_tour_en_ccfa670e` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:180 | doc_type:owners_manual
 
 set cruise speed continuously at a speed of
 10 km/h.
@@ -18666,7 +17464,6 @@ To restore the originally set speed, press the
 cruise recovery/acceleration button.
 
 ### The vehicle speed is between 40
-`forthing_u_tour_en_694d4558` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:180 | doc_type:owners_manual
 
 and 185 km/h.
 3.
@@ -18692,7 +17489,6 @@ Press the cruise pause button.
 4.
 
 ### Comfortable Driving
-`forthing_u_tour_en_99190830` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:181 | doc_type:owners_manual
 
 The first, second, and third methods
 only pause the cruise control mode. When
@@ -18708,7 +17504,6 @@ fifth methods completely turn off the cruise
 control.
 
 ### When the cruise control function is
-`forthing_u_tour_en_d63a863d` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:181 | doc_type:owners_manual
 
 suspended, if it needs to be restored,
 accelerate to above 40 km/h first, and then
@@ -18717,7 +17512,6 @@ to re-enter the cruise state. The vehicle will
 run at the originally set cruising speed.
 
 ### When the cruise control button is
-`forthing_u_tour_en_b030c230` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:181 | doc_type:owners_manual
 
 pressed to cancel the cruise control function,
 the system will completely turn off the
@@ -18725,7 +17519,6 @@ cruise control and cancel the cruise speed set
 before turning off.
 
 ### Change the set vehicle speed
-`forthing_u_tour_en_8f065566` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:181 | doc_type:owners_manual
 
 The
 cruise
@@ -18757,7 +17550,6 @@ speed setting/deceleration button.
 Note
 
 ### Even if the cruise control function is
-`forthing_u_tour_en_8ede9144` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:181 | doc_type:owners_manual
 
 activated, the accelerator pedal can still be
 used to accelerate and overtake. After
@@ -18794,7 +17586,6 @@ responsibility for the vehicle.
 
 
 ### Comfortable Driving
-`forthing_u_tour_en_2a5a6853` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:182 | doc_type:owners_manual
 
 Warning
 
@@ -18817,7 +17608,6 @@ may be a risk of accident!
 
 
 ### ACC system can only adjust the distance
-`forthing_u_tour_en_ba6429dc` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:182 | doc_type:owners_manual
 
 from the vehicle running ahead. Generally,
 it cannot detect vehicles on other lanes or on
@@ -18827,7 +17617,6 @@ objects and brake the vehicle.
 
 
 ### ACC system shall be temporarily turned
-`forthing_u_tour_en_d93eee08` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:182 | doc_type:owners_manual
 
 off when the vehicle is running on a curved
 lane, an expressway exit or a road section
@@ -18844,7 +17633,6 @@ Warning
 
 
 ### The driver should set the ACC speed and
-`forthing_u_tour_en_51052e1a` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:182 | doc_type:owners_manual
 
 following distance reasonably according to
 the current road, traffic and weather
@@ -18863,7 +17651,6 @@ full responsibility for the vehicle.
 
 
 ### ACC system cannot detect the objects or
-`forthing_u_tour_en_e8333991` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:182 | doc_type:owners_manual
 
 accessories protruding from the side, rear
 end or roof of the followed target vehicle. If
@@ -18876,7 +17663,6 @@ depending on the situation.
 
 
 ### The driver can depress the accelerator
-`forthing_u_tour_en_1ec77d8f` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:182 | doc_type:owners_manual
 
 pedal at any time to increase the vehicle
 speed. After the accelerator pedal is
@@ -18890,7 +17676,6 @@ which may result in collision with the
 vehicle ahead.
 
 ### When the vehicle is stopped by ACC
-`forthing_u_tour_en_071b536d` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:183 | doc_type:owners_manual
 
 system, the driver must shift the gearshift
 lever in P position and turn off the Start/Stop
@@ -18903,7 +17688,6 @@ down.
 
 
 ### If the combination instrument prompts
-`forthing_u_tour_en_0a2075d0` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:183 | doc_type:owners_manual
 
 [ACC exits automatically] and ACC system
 cannot be turned on again, it indicates that
@@ -18919,7 +17703,6 @@ turned off.
 
 
 ### After replacement of the front-view
-`forthing_u_tour_en_7965f2cf` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:183 | doc_type:owners_manual
 
 camera and front windshield, four-wheel
 alignment, body and chassis modification or
@@ -18932,7 +17715,6 @@ Note
 
 
 ### In order not to affect the performance of
-`forthing_u_tour_en_aed21b8a` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:183 | doc_type:owners_manual
 
 the camera, the detecting part of the camera
 shall not be blocked by foreign matters
@@ -18947,7 +17729,6 @@ operation of ACC system.
 
 
 ### The operation of ACC system may also
-`forthing_u_tour_en_64899a93` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:183 | doc_type:owners_manual
 
 be restricted in case of snow, heavy rain,
 heavy fog or sprayed water on the road.
@@ -18961,14 +17742,12 @@ windshield or contact the authorized service
 station of Dongfeng Forthing.
 
 ### Press and hold the button: Decrease the
-`forthing_u_tour_en_d177deab` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:184 | doc_type:owners_manual
 
 set cruise speed continuously at a speed of 5
 km/h.
 5. Following distance adjustment button
 
 ### ACC on/off
-`forthing_u_tour_en_5ecccb9b` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:184 | doc_type:owners_manual
 
 When ACC system is turned on, the
 adaptive cruise control indicator (white) in
@@ -18977,7 +17756,6 @@ the combination instrument displays the set
 adaptive cruise speed and ACC system state.
 
 ### Conditions for turning on ACC system
-`forthing_u_tour_en_0303e81c` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:184 | doc_type:owners_manual
 
 
 Press the ACC button.
@@ -19004,7 +17782,6 @@ The transmission is free of fault.
 The engine is free of fault.
 
 ### ACC system can control the vehicle to
-`forthing_u_tour_en_b48a16ca` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:185 | doc_type:owners_manual
 
 follow the vehicle ahead to decelerate until
 it stops. If the vehicle ahead moves again
@@ -19016,7 +17793,6 @@ depress the accelerator pedal to turn on ACC
 system again.
 
 ### Following diagram
-`forthing_u_tour_en_a1bca07b` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:185 | doc_type:owners_manual
 
 If no vehicle ahead is detected, the
 main
@@ -19034,7 +17810,6 @@ Warning
 
 
 ### The following diagram is only displayed
-`forthing_u_tour_en_373dfb51` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:185 | doc_type:owners_manual
 
 when a vehicle running in the same lane and
 direction is detected.
@@ -19046,7 +17821,6 @@ be ultra-long, the combination instrument
 displays as shown in the figure above.
 
 ### The indicator flashes in
-`forthing_u_tour_en_bc2a28f3` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:186 | doc_type:owners_manual
 
 green: ACC system
 exits due to component
@@ -19059,7 +17833,6 @@ mentioned above. Please pay close attention
 to them.
 
 ### If the combination instrument display
-`forthing_u_tour_en_29ad9e1b` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:186 | doc_type:owners_manual
 
 interface is inconsistent with the actual
 situation observed by the driver, the driver
@@ -19074,7 +17847,6 @@ The system sensor is blocked.
 
 
 ### As ACC system cannot provide the
-`forthing_u_tour_en_a11937e2` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:187 | doc_type:owners_manual
 
 maximum braking force of the vehicle,
 under
@@ -19089,7 +17861,6 @@ require the driver to take over the vehicle in
 time.
 
 ### ACC system will send visual and
-`forthing_u_tour_en_0b00a72a` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:187 | doc_type:owners_manual
 
 audible instructions to the driver, and a red
 steering wheel mark will appear on the
@@ -19101,7 +17872,6 @@ Note
 
 
 ### After ACC system requires the driver to
-`forthing_u_tour_en_4a279cf8` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:187 | doc_type:owners_manual
 
 take over the vehicle, if the vehicle
 continues to move, the driver must depress
@@ -19114,7 +17884,6 @@ by depressing the accelerator pedal, the
 driver will not receive a takeover request.
 
 ### ACC system exit conditions
-`forthing_u_tour_en_31e619bb` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:187 | doc_type:owners_manual
 
 1. ACC button is turned off.
 2. ACC pause button is turned off.
@@ -19128,7 +17897,6 @@ long time.
 8. The steering wheel is turned sharply.
 
 ### ACC system is restricted by physical
-`forthing_u_tour_en_ddb1349b` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:187 | doc_type:owners_manual
 
 laws and the system itself during driving.
 Besides,
@@ -19142,7 +17910,6 @@ should always pay attention and intervene if
 necessary.
 
 ### The visibility of the camera may be reduced
-`forthing_u_tour_en_2216a506` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:188 | doc_type:owners_manual
 
 due to strong lighting, dark environment,
 rain, snow, pollution, and dust blocking the
@@ -19165,7 +17932,6 @@ ready to take over at any time.
 or difficult to detect.
 
 ### For the vehicle not running in the same
-`forthing_u_tour_en_7c5943f2` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:188 | doc_type:owners_manual
 
 straight line (a vehicle entering from the
 adjacent lanes), if it does not enter the
@@ -19173,7 +17939,6 @@ detection range of the camera sensor, the
 sensor may not be able to detect the vehicle.
 
 ### ACC system cannot guarantee the
-`forthing_u_tour_en_ce0920a7` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:188 | doc_type:owners_manual
 
 detection of all types of vehicles on the
 driving path, especially narrow vehicles
@@ -19196,7 +17961,6 @@ the vehicle, he/she must take over the
 vehicle.
 
 ### Do not use ACC system when the
-`forthing_u_tour_en_33f405d1` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:189 | doc_type:owners_manual
 
 vehicle is running on steep slopes. On steep
 slopes, ACC system cannot detect vehicles
@@ -19216,7 +17980,6 @@ vehicle.
 6. Vehicle cutting in laterally in front.
 
 ### ACC system may not be able to control the
-`forthing_u_tour_en_184deda0` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:189 | doc_type:owners_manual
 
 vehicle quickly or apply emergency braking.
 In this case, the driver shall pay attention to
@@ -19233,7 +17996,6 @@ enough time to brake and the driver shall
 take control of the vehicle if necessary.
 
 ### LKA system can keep the vehicle
-`forthing_u_tour_en_e29e3410` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:190 | doc_type:owners_manual
 
 running in a straight line along the lane
 within the speed range of 70~130 km/h. The
@@ -19243,7 +18005,6 @@ curve where the curvature of lane line is
 smaller.
 
 ### LKA system also has some technical
-`forthing_u_tour_en_a1bc393f` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:190 | doc_type:owners_manual
 
 limitations, so the driver must intervene in
 steering under certain conditions. When
@@ -19259,7 +18020,6 @@ Warning
 
 
 ### LKA system is a comfort system and
-`forthing_u_tour_en_b2ec15e6` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:190 | doc_type:owners_manual
 
 does not have the ability to deal with special
 driving conditions such as complex traffic
@@ -19270,7 +18030,6 @@ responsible for the vehicle.
 
 
 ### LKA system is suitable for expressways
-`forthing_u_tour_en_aeb44ccf` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:190 | doc_type:owners_manual
 
 and roads with good conditions, but not
 suitable for urban or mountainous roads.
@@ -19284,7 +18043,6 @@ Warning
 
 
 ### LKA system allows the driver not to
-`forthing_u_tour_en_038a462c` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:190 | doc_type:owners_manual
 
 operate the steering wheel for a short time,
 but it will automatically exit if the time is
@@ -19293,7 +18051,6 @@ to take over the steering wheel at any time.
 
 
 ### LKA ON/OFF
-`forthing_u_tour_en_46a80f6f` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:190 | doc_type:owners_manual
 
 When
 the lane keeping button is
@@ -19314,7 +18071,6 @@ conditions are mainly as follows:
 All doors must be closed.
 
 ### Comfortable Driving
-`forthing_u_tour_en_82723537` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:191 | doc_type:owners_manual
 
 
 EPS system is free of fault.
@@ -19335,7 +18091,6 @@ vehicle speed is lower than 65 km/h, or other
 exit conditions are met.
 
 ### If the driver actively controls the
-`forthing_u_tour_en_1638b672` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:191 | doc_type:owners_manual
 
 steering wheel to change direction or turns
 on the turn signal to prepare for lane
@@ -19348,7 +18103,6 @@ the vehicle is near the centerline of the lane,
 LKA system restarts.
 
 ### LKA system exit conditions
-`forthing_u_tour_en_7b2793cd` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:191 | doc_type:owners_manual
 
 1. Lane keeping button is turned off.
 2. The turn signal is turned on
@@ -19366,7 +18120,6 @@ over a certain angle.
 The curve radius is too small.
 
 ### System working state display
-`forthing_u_tour_en_04f3de30` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:191 | doc_type:owners_manual
 
 The
 LCA
@@ -19386,7 +18139,6 @@ combination instrument goes out.
 does not meet the working conditions, the
 
 ### LKA system ON indicator (green) on the
-`forthing_u_tour_en_a8f65ef4` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:191 | doc_type:owners_manual
 
 combination instrument stays on.
 External
@@ -19405,7 +18157,6 @@ instrument will flash, and a takeover request
 will be given.
 
 ### Lane line detection state icon displayed on
-`forthing_u_tour_en_48151942` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:191 | doc_type:owners_manual
 
 the combination instrument
 When no lane line is detected, no
@@ -19415,14 +18166,12 @@ detected, the lane lines on both sides on the
 main screen are white.
 
 ### Comfortable Driving
-`forthing_u_tour_en_b0eead33` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:192 | doc_type:owners_manual
 
 When lane lines on both sides are
 detected and LKA system is activated, the
 lane lines on both sides are blue.
 
 ### Conditions in which the driver needs to take
-`forthing_u_tour_en_0f6092fd` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:192 | doc_type:owners_manual
 
 over the vehicle
 The
@@ -19444,7 +18193,6 @@ Note
 
 
 ### LKA system may not detect that you are
-`forthing_u_tour_en_99f69174` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:192 | doc_type:owners_manual
 
 not holding the steering wheel with both
 hands, resulting in a missed alarm. Do not
@@ -19461,7 +18209,6 @@ wheel actively.
 
 
 ### If LKA system judges that the curve
-`forthing_u_tour_en_06f481e9` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:192 | doc_type:owners_manual
 
 ahead exceeds its passing capacity, the
 system will give a takeover prompt. At this
@@ -19476,7 +18223,6 @@ over the steering wheel actively.
 
 
 ### If LKA system detects that the driver
-`forthing_u_tour_en_d7cc24c2` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:192 | doc_type:owners_manual
 
 does not hold the steering wheel for a period
 of time, it will give a warning that the
@@ -19492,14 +18238,12 @@ wheel actively to control the direction of the
 vehicle.
 
 ### The steering capability of LKA system
-`forthing_u_tour_en_5edccf5a` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:193 | doc_type:owners_manual
 
 is limited, and it cannot guarantee that the
 vehicle can pass through curves with any
 curvature within the effective speed range.
 
 ### LKA system can only detect lane lines
-`forthing_u_tour_en_19ff3c10` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:193 | doc_type:owners_manual
 
 and curbs with a certain contrast. For fuzzy
 or stained lane lines, the detection may be
@@ -19509,7 +18253,6 @@ large color difference and contrast on the
 road surface, the detection may be wrong.
 
 ### LKA system may not work normally
-`forthing_u_tour_en_3a60d3a9` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:193 | doc_type:owners_manual
 
 under the following conditions:
 The camera sensor is blocked by ice,
@@ -19543,7 +18286,6 @@ rain and snow.
 or uneven.
 
 ### Description of vehicle handling stability and
-`forthing_u_tour_en_e208550c` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:193 | doc_type:owners_manual
 
 system state
 When TCS system or ESP system is
@@ -19554,14 +18296,12 @@ use of LKA system, it can be restored and
 turned on.
 
 ### Description of factors affecting calibration
-`forthing_u_tour_en_3d5128bf` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:193 | doc_type:owners_manual
 
 Removal and installation of interior
 rearview mirrors
 Replace the front windshield.
 
 ### After replacement of the front-view
-`forthing_u_tour_en_639efaa8` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:193 | doc_type:owners_manual
 
 camera and front windshield, four-wheel
 alignment, body and chassis modification or
@@ -19577,7 +18317,6 @@ work
 normally.
 
 ### Functional limitation
-`forthing_u_tour_en_2ad9b8c0` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:193 | doc_type:owners_manual
 
 Under certain traffic conditions, LKA
 system may not respond well, leading to
@@ -19585,7 +18324,6 @@ accidents. Therefore, the driver should pay
 special attention when:
 
 ### Comfortable Driving
-`forthing_u_tour_en_e66b18e0` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:194 | doc_type:owners_manual
 
 1. There are road interference lines on
 the road surface or the lane lines are
@@ -19626,7 +18364,6 @@ intersection.
 3. There is lane line convergence.
 
 ### When the vehicle runs to the lane line
-`forthing_u_tour_en_c1fe4f4c` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:194 | doc_type:owners_manual
 
 convergence position, LKA system may
 automatically exit because it detects that the
@@ -19651,7 +18388,6 @@ excessive ramp curvature or unclear lane
 line.
 
 ### When the lane line ahead of the vehicle
-`forthing_u_tour_en_11e950ef` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:195 | doc_type:owners_manual
 
 is blurry or the lane ahead is too narrow or
 curved, LKA system may exit due to not
@@ -19668,7 +18404,6 @@ lane line detection caused by severe vehicle
 bumpiness.
 
 ### TJA system allows the vehicle to run at
-`forthing_u_tour_en_1c822ad6` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:195 | doc_type:owners_manual
 
 any desired speed in the range of 0~130
 km/h, or follow a vehicle ahead within the
@@ -19695,7 +18430,6 @@ responsibility for the vehicle.
 
 
 ### TJA system is suitable for expressways
-`forthing_u_tour_en_0c475a15` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:195 | doc_type:owners_manual
 
 and roads with good conditions, but not
 suitable for urban or mountainous roads.
@@ -19708,7 +18442,6 @@ driving in urban areas, under traffic
 congestion or on winding roads.
 
 ### Comfortable Driving
-`forthing_u_tour_en_5d174acc` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:196 | doc_type:owners_manual
 
 Warning
 
@@ -19724,7 +18457,6 @@ may be a risk of accident!
 
 
 ### TJA system can assist the driver but
-`forthing_u_tour_en_c9240feb` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:196 | doc_type:owners_manual
 
 cannot replace the driver in driving. Even if
 TJA system is activated, the driver must
@@ -19740,7 +18472,6 @@ under construction.
 
 
 ### The driver should set the cruise speed
-`forthing_u_tour_en_99bce051` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:196 | doc_type:owners_manual
 
 and following distance reasonably
 according to the current road, traffic and
@@ -19760,7 +18491,6 @@ responsibility for the vehicle.
 
 
 ### TJA system cannot detect the objects or
-`forthing_u_tour_en_307cb193` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:196 | doc_type:owners_manual
 
 accessories protruding from the side, rear
 end or roof of the followed target vehicle. If
@@ -19773,7 +18503,6 @@ depending on the situation.
 
 
 ### The driver can depress the accelerator
-`forthing_u_tour_en_dc7fad5b` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:196 | doc_type:owners_manual
 
 pedal at any time to increase the vehicle
 speed. After the accelerator pedal is
@@ -19788,7 +18517,6 @@ vehicle ahead.
 
 
 ### If TJA system has already stopped the
-`forthing_u_tour_en_61741ef5` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:196 | doc_type:owners_manual
 
 vehicle and TJA has been released, turned
 off, or canceled, the vehicle will no longer
@@ -19798,7 +18526,6 @@ prepare for depressing the brake pedal.
 
 
 ### When the vehicle is stopped by TJA
-`forthing_u_tour_en_68ec6445` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:197 | doc_type:owners_manual
 
 system, the driver must shift the vehicle to P
 gear and turn off the Start/Stop switch
@@ -19812,7 +18539,6 @@ heavy fog or sprayed water on the road.
 
 
 ### Structural modification of the vehicle
-`forthing_u_tour_en_c96c901f` | u_tour | pdf_manual | tier:2 | lang:en | layer:safety | p:197 | doc_type:owners_manual
 
 may deteriorate TJA system.
 
@@ -19830,7 +18556,6 @@ restarted.
 
 
 ### After replacement of the front-view
-`forthing_u_tour_en_cac80717` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:197 | doc_type:owners_manual
 
 camera and front windshield, four-wheel
 alignment, body and chassis modification or
@@ -19842,7 +18567,6 @@ cannot work normally.
 
 
 ### In order not to affect the performance of
-`forthing_u_tour_en_7ffc1a3d` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:197 | doc_type:owners_manual
 
 the camera, the detecting part of the camera
 shall not be blocked by foreign matters
@@ -19857,7 +18581,6 @@ mud. Clean these areas to ensure the normal
 operation of TJA system.
 
 ### When the front-view camera needs to
-`forthing_u_tour_en_7090d2cb` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:197 | doc_type:owners_manual
 
 be cleaned, the combination instrument will
 display a prompt message. Please use the
@@ -19874,7 +18597,6 @@ Description of buttons
 6. Following distance adjustment button
 
 ### Comfortable Driving
-`forthing_u_tour_en_60ce82aa` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:198 | doc_type:owners_manual
 
 When TJA system is turned on, the
 intelligent cruise control indicator on the
@@ -19899,7 +18621,6 @@ and press the button again to switch back to
 LKA system.
 
 ### Conditions for turning on TJA system
-`forthing_u_tour_en_43d288cf` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:198 | doc_type:owners_manual
 
 
 The engine is running.
@@ -19923,7 +18644,6 @@ The transmission is free of fault.
 The engine is free of fault.
 
 ### TJA system degradation and exit conditions
-`forthing_u_tour_en_2bfaa743` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:198 | doc_type:owners_manual
 
 ACC degradation:
 1. The driver operates the steering wheel
@@ -19946,7 +18666,6 @@ long time.
 8. The steering wheel is turned sharply.
 
 ### Following display
-`forthing_u_tour_en_90353278` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:198 | doc_type:owners_manual
 
 If no vehicle ahead is detected, the
 main
@@ -19958,7 +18677,6 @@ instrument will not display the icon for the
 vehicle ahead.
 
 ### Comfortable Driving
-`forthing_u_tour_en_f0d89e6e` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:199 | doc_type:owners_manual
 
 If a vehicle ahead is detected, follow
 the vehicle ahead when there are lane lines
@@ -19971,7 +18689,6 @@ Warning
 
 
 ### The following diagram is only displayed
-`forthing_u_tour_en_9b6323fd` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:199 | doc_type:owners_manual
 
 when a vehicle running in the same lane and
 direction is detected.
@@ -19985,7 +18702,6 @@ ahead or apply brake.
 3. TJA state and cruise speed
 
 ### Please refer to the adaptive cruise
-`forthing_u_tour_en_ca2c1f44` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:199 | doc_type:owners_manual
 
 control (ACC) system chapter for cruise
 speed adjustment, setting following distance,
@@ -19993,7 +18709,6 @@ and possible system limitations of TJA
 system.
 
 ### When the vehicle runs on a road with
-`forthing_u_tour_en_a56014d6` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:199 | doc_type:owners_manual
 
 detectable lane lines at a speed greater than
 70 km/h, LDW system is activated. When
@@ -20014,7 +18729,6 @@ Note
 
 
 ### LDW system may not work normally
-`forthing_u_tour_en_8b312b69` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:199 | doc_type:owners_manual
 
 because the front-view camera is blocked by
 ice, snow and dust. Therefore, keep the
@@ -20022,7 +18736,6 @@ front-view camera clean.
 
 
 ### Assistance] - [LDW] on the display screen
-`forthing_u_tour_en_2524cc24` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:200 | doc_type:owners_manual
 
 to turn on or off LDW system and select
 LDW system sensitivity.
@@ -20060,7 +18773,6 @@ the warning will be given in a delayed
 manner.
 
 ### Warning sensitivity
-`forthing_u_tour_en_53ccb02a` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:200 | doc_type:owners_manual
 
 LDW
 system
@@ -20078,7 +18790,6 @@ restored to the state set last time by default
 when the vehicle is started.
 
 ### There are two factors affecting system
-`forthing_u_tour_en_03219c68` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:200 | doc_type:owners_manual
 
 sensitivity:
 Removal and installation of interior
@@ -20097,7 +18808,6 @@ recalibrated;
 otherwise, it cannot work normally.
 
 ### System working state display
-`forthing_u_tour_en_4627156e` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:200 | doc_type:owners_manual
 
 LDW
 system
@@ -20125,7 +18835,6 @@ combination
 instrument will not display.
 
 ### Comfortable Driving
-`forthing_u_tour_en_d906f2af` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:201 | doc_type:owners_manual
 
 LDW
 The left lane departure warning is sent,
@@ -20142,7 +18851,6 @@ driving direction of the vehicle.
 
 
 ### The LDW system is only an auxiliary
-`forthing_u_tour_en_f9d71990` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:201 | doc_type:owners_manual
 
 warning system. The driver should pay
 attention to the surrounding driving
@@ -20155,7 +18863,6 @@ case of lane departure and cannot actively
 correct the driving direction of the vehicle.
 
 ### The LDW system may be limited under
-`forthing_u_tour_en_1a427f00` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:201 | doc_type:owners_manual
 
 the following conditions:
 When
@@ -20196,7 +18903,6 @@ light is weak at night.
 rain and snow.
 
 ### LCA system includes SVA and lane
-`forthing_u_tour_en_f57eb2ab` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:201 | doc_type:owners_manual
 
 change assist, capable of detecting vehicles
 approaching
@@ -20215,14 +18921,12 @@ screen to select [OFF], [Display] or [Display
 Display
 
 ### The use of LCA system does not in any
-`forthing_u_tour_en_35ac56bb` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:202 | doc_type:owners_manual
 
 way mean that the driver can do nothing and
 relax, and changing lanes in a safe manner is
 always the driver's responsibility.
 
 ### The system is turned on after all following
-`forthing_u_tour_en_d77cba1b` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:202 | doc_type:owners_manual
 
 conditions are met:
 1. Select [Display] or [Display+Sound] for
@@ -20233,7 +18937,6 @@ position.
 the vehicle speed is greater than 20 km/h.
 
 ### The system is turned off after any of the
-`forthing_u_tour_en_2bf8e677` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:202 | doc_type:owners_manual
 
 following conditions is met:
 1. Select [Close] for the LCA system.
@@ -20243,7 +18946,6 @@ and the vehicle speed is less than or equal to
 15 km/h.
 
 ### The alarm area of the LCA system is
-`forthing_u_tour_en_4cf77e12` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:202 | doc_type:owners_manual
 
 0.5 m to 3.5m laterally from the left and
 right sides of the vehicle, and longitudinally
@@ -20255,7 +18957,6 @@ Warning
 
 
 ### LCA system cannot replace the driver's
-`forthing_u_tour_en_1ec92534` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:202 | doc_type:owners_manual
 
 observation of the surrounding
 environment.
@@ -20274,7 +18975,6 @@ Poor road conditions, sandy and dusty
 roads, and grassy roads.
 
 ### When the airflow passes through the
-`forthing_u_tour_en_e172ded4` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:203 | doc_type:owners_manual
 
 edges of the vehicle or the funnel-shaped
 bracket of the sensor, it produces noise, and
@@ -20287,7 +18987,6 @@ Motorcycle.
 
 
 ### The LCA indicators are installed on the
-`forthing_u_tour_en_8d69dcb1` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:203 | doc_type:owners_manual
 
 left and right exterior rearview mirrors. If a
 vehicle is detected in the blind spot, the
@@ -20300,7 +18999,6 @@ the vehicle is turned on, the LCA indicator
 flashes, and there is also an audible prompt.
 
 ### There are a variety of reasons that may
-`forthing_u_tour_en_45d0ce6c` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:203 | doc_type:owners_manual
 
 lead to unnecessary, untimely and invalid
 warnings or missed warnings from the LCA
@@ -20310,7 +19008,6 @@ The radar is limited.
 
 
 ### The above warnings and restrictions do
-`forthing_u_tour_en_cc3a6b6b` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:203 | doc_type:owners_manual
 
 not address all situations that may interfere
 with blind spot detection system. Many
@@ -20321,7 +19018,6 @@ conditions at all times during driving so as
 to change lanes under safe conditions.
 
 ### Door open warning (DOW)*
-`forthing_u_tour_en_7a170a40` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:204 | doc_type:owners_manual
 
 When the vehicle is stationary, the
 DOW system can detect vehicles, cyclists or
@@ -20339,7 +19035,6 @@ release warning information to prevent
 collision.
 
 ### The DOW switch state is the last
-`forthing_u_tour_en_6f8ea7fa` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:204 | doc_type:owners_manual
 
 operation state by default. Tap [Settings] -
 [Vehicle] - [Driver Assistance] - [DOW] on
@@ -20353,7 +19048,6 @@ displays a pop-up prompt, and the ambient
 light flashes.
 
 ### Level 2: The rearview mirror warning
-`forthing_u_tour_en_9d98951b` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:204 | doc_type:owners_manual
 
 light flashes, the combination instrument
 displays a pop-up prompt, and the ambient
@@ -20370,7 +19064,6 @@ much on DOW system.
 
 
 ### The DOW system is designed to remind
-`forthing_u_tour_en_1fead955` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:204 | doc_type:owners_manual
 
 the driver and passengers to pay attention to
 the environmental safety when opening
@@ -20385,7 +19078,6 @@ safety.
 
 
 ### The alarm area of the DOW system is
-`forthing_u_tour_en_fa56254d` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:204 | doc_type:owners_manual
 
 from 0 m to 2 m laterally from the left and
 right sides of the vehicle, and longitudinally
@@ -20395,7 +19087,6 @@ area is the warning area, which is bilaterally
 symmetrical.
 
 ### Level II alarm
-`forthing_u_tour_en_074311e3` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:205 | doc_type:owners_manual
 
 When
 a
@@ -20410,7 +19101,6 @@ prompt, and the corresponding side door
 ambient light will illuminate.
 
 ### The system is turned on after all following
-`forthing_u_tour_en_1e9439de` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:205 | doc_type:owners_manual
 
 conditions are met:
 1. Select [Display] or [Display+Sound] for
@@ -20426,7 +19116,6 @@ following conditions is met:
 position.
 
 ### The DOW system is not always able to
-`forthing_u_tour_en_939857e6` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:205 | doc_type:owners_manual
 
 work under various circumstances. Various
 reasons may lead to unnecessary, untimely
@@ -20447,7 +19136,6 @@ behind the vehicle.
 beside a wall.
 
 ### The above warnings and restrictions do
-`forthing_u_tour_en_55f863cc` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:205 | doc_type:owners_manual
 
 not address all situations that may interfere
 with the door opening warning. There are
@@ -20458,7 +19146,6 @@ remember to observe whether the door
 opening environment is safe and suitable.
 
 ### Rear cross traffic alarm (RCTA)*
-`forthing_u_tour_en_caecfa6c` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:206 | doc_type:owners_manual
 
 The RCTA system can detect vehicles,
 cyclists or pedestrians crossing the rear of
@@ -20469,7 +19156,6 @@ risk, and the RCTA system will release
 warning information to prevent collision.
 
 ### The RCTA switch state is the last
-`forthing_u_tour_en_fa03f721` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:206 | doc_type:owners_manual
 
 operation state by default. Tap [Settings] -
 [Vehicle] - [Driver Assistance] - [RCTA]
@@ -20484,7 +19170,6 @@ and relax. It is always the responsibility of
 the driver to reverse in a safe manner.
 
 ### The RCTA system alarm area is 0 m to
-`forthing_u_tour_en_b31bb2d3` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:206 | doc_type:owners_manual
 
 30 m laterally from the left and right sides of
 the vehicle, and from the rear of the vehicle
@@ -20493,7 +19178,6 @@ shaded area is the warning area, which is
 bilaterally symmetrical.
 
 ### When the vehicle is reversing and a
-`forthing_u_tour_en_cd6d33fd` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:206 | doc_type:owners_manual
 
 target approaches the rear of the vehicle, the
 rearview mirror warning light will flash,
@@ -20506,7 +19190,6 @@ the
 panoramic/full-automatic parking interface.
 
 ### Conditions in which RCTA system may not
-`forthing_u_tour_en_4ce4f449` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:206 | doc_type:owners_manual
 
 work
 There are a variety of reasons that
@@ -20520,7 +19203,6 @@ large volume in the blind spot.
 too high.
 
 ### The above warnings and restrictions do
-`forthing_u_tour_en_67c98c15` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:207 | doc_type:owners_manual
 
 not address all situations that may interfere
 with RCTA system. Many factors may
@@ -20530,7 +19212,6 @@ and pay attention to road conditions at all
 times during driving so as to reverse safely.
 
 ### The working range of AEB system is
-`forthing_u_tour_en_b87dbcd6` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:207 | doc_type:owners_manual
 
 8~75 km/h. The system detects the distance
 and relative speed between vehicle and
@@ -20552,7 +19233,6 @@ Warning
 
 
 ### AEB system is an active safety
-`forthing_u_tour_en_f352770b` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:207 | doc_type:owners_manual
 
 assistance system, but it cannot completely
 avoid collisions with vehicles or pedestrians
@@ -20569,7 +19249,6 @@ In case of an emergency, the driver
 should brake as soon as possible.
 
 ### When the vehicle is too close to the
-`forthing_u_tour_en_bef76afe` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:207 | doc_type:owners_manual
 
 vehicle ahead, AEB system will work and
 the AEB indicator (red) will stay on; when
@@ -20582,7 +19261,6 @@ recommended that the user turn off AEB
 system.
 
 ### When AEB system triggers automatic
-`forthing_u_tour_en_3404a5ff` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:208 | doc_type:owners_manual
 
 emergency braking, a warning image will
 pop up on the combination instrument, and a
@@ -20590,7 +19268,6 @@ rapid audible alarm signal will be given at
 the same time.
 
 ### Conditions in which the system function
-`forthing_u_tour_en_85e6e5b5` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:208 | doc_type:owners_manual
 
 may be limited
 The response and braking capacity of
@@ -20680,7 +19357,6 @@ low in height, carrying large objects, and
 having poor contrast, etc.
 
 ### Constraints
-`forthing_u_tour_en_5fdf0b43` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:208 | doc_type:owners_manual
 
 of
 traffic
@@ -20694,7 +19370,6 @@ sensor is blocked by ice, snow or dust.
 Please keep the front windshield clean.
 
 ### Comfortable Driving
-`forthing_u_tour_en_16ee6749` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:209 | doc_type:owners_manual
 
 When the visibility is poor, such as in
 foggy
@@ -20713,7 +19388,6 @@ AEB system may not detect vehicles in time,
 resulting in delay of emergency braking.
 
 ### AEB system may be automatically
-`forthing_u_tour_en_f4fb58a0` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:209 | doc_type:owners_manual
 
 deactivated under the following conditions:
 The sensor is blocked.
@@ -20727,7 +19401,6 @@ system works abnormally or is turned off.
 failures.
 
 ### AEB system will not be triggered when
-`forthing_u_tour_en_7bfc0afd` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:209 | doc_type:owners_manual
 
 any of the following inhibition conditions is
 met:
@@ -20742,7 +19415,6 @@ control and depresses the accelerator pedal
 too hard.
 
 ### Description
-`forthing_u_tour_en_9c2d3028` | u_tour | pdf_manual | tier:2 | lang:en | layer:steering | p:209 | doc_type:owners_manual
 
 of
 system
@@ -20762,7 +19434,6 @@ threshold of 40 km/h, AEB stops automatic
 braking.
 
 ### (FCW) *
-`forthing_u_tour_en_00ab42f3` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:209 | doc_type:owners_manual
 
 FCW
 system
@@ -20791,7 +19462,6 @@ of the vehicle and be responsible for the
 vehicle.
 
 ### Comfortable Driving
-`forthing_u_tour_en_b4bd966f` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:210 | doc_type:owners_manual
 
 Warning
 
@@ -20801,7 +19471,6 @@ the brakes without relying too heavily on the
 alarm.
 
 ### FCW system has limited response
-`forthing_u_tour_en_870d94e9` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:210 | doc_type:owners_manual
 
 capacity and may not send out alarm signals
 in time. For example, when a vehicle ahead
@@ -20813,7 +19482,6 @@ suddenly enters the driving lane, it may not
 be able to give an alarm in time.
 
 ### When the vehicle is too close to the
-`forthing_u_tour_en_9e317a02` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:210 | doc_type:owners_manual
 
 vehicle ahead, FCW system will work and
 the FCW system warning light (red) will
@@ -20831,7 +19499,6 @@ adjustment, including three levels: advance,
 normal and delay.
 
 ### FCW system is turned on by default
-`forthing_u_tour_en_012c1577` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:210 | doc_type:owners_manual
 
 when the vehicle leaves the factory, with
 normal sensitivity and sensitivity memory
@@ -20850,7 +19517,6 @@ combination instrument, and an audible
 alarm signal will be given at the same time.
 
 ### Conditions in which the system function
-`forthing_u_tour_en_f66dd4be` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:210 | doc_type:owners_manual
 
 may be limited
 FCW
@@ -20891,7 +19557,6 @@ adults with a height of 1.5~2.3 m and
 children with a height of more than 0.8 m.
 
 ### Comfortable Driving
-`forthing_u_tour_en_d3c3b651` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:211 | doc_type:owners_manual
 
 To give full play to the best detection
 performance of FCW system, the camera
@@ -20934,7 +19599,6 @@ low in height, carrying large objects, and
 having poor contrast, etc.
 
 ### Constraints
-`forthing_u_tour_en_f76e8a8e` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:211 | doc_type:owners_manual
 
 of
 traffic
@@ -20953,7 +19617,6 @@ the FCW system may not identify vehicles
 in time, resulting in alarm delay.
 
 ### FCW system may be automatically
-`forthing_u_tour_en_79be3b71` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:211 | doc_type:owners_manual
 
 deactivated under the following conditions:
 The sensor is blocked.
@@ -20962,7 +19625,6 @@ deactivated under the following conditions:
 failures.
 
 ### FCW system will not be triggered
-`forthing_u_tour_en_4d8694ab` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:211 | doc_type:owners_manual
 
 when any of the inhibition conditions is met:
 The
@@ -20977,7 +19639,6 @@ too hard.
 The driver depresses the brake pedal.
 
 ### When the vehicle passes a traffic speed
-`forthing_u_tour_en_538e411d` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:212 | doc_type:owners_manual
 
 limit sign, TSR system identifies the speed
 limit sign through the front-view camera
@@ -20988,7 +19649,6 @@ Warning
 
 
 ### Do not stick any substance on the front
-`forthing_u_tour_en_55b10e76` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:212 | doc_type:owners_manual
 
 windshield, as this may reduce the
 effectiveness of TSR system or cause the
@@ -21002,7 +19662,6 @@ conditions.
 
 
 ### TSR system cannot replace the driver's
-`forthing_u_tour_en_18f63b2c` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:212 | doc_type:owners_manual
 
 attention and judgment. The driver is always
 responsible for ensuring that the vehicle
@@ -21011,7 +19670,6 @@ accordance with current traffic laws and
 regulations.
 
 ### Description
-`forthing_u_tour_en_dafa451d` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:212 | doc_type:owners_manual
 
 of
 combination
@@ -21042,7 +19700,6 @@ after 10s or when the vehicle decelerates
 below the speed limit.
 
 ### Conditions in which TSR system function
-`forthing_u_tour_en_4c4f1aa0` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:212 | doc_type:owners_manual
 
 may be limited
 TSR system can detect standard
@@ -21059,7 +19716,6 @@ be
 accurately detected by TSR system.
 
 ### Constraints of traffic environment on TSR
-`forthing_u_tour_en_2f94bb33` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:212 | doc_type:owners_manual
 
 system safety
 TSR system may fail to detect traffic
@@ -21067,7 +19723,6 @@ signs on curved or hilly roads, or when the
 sensor is blocked by snow, ice or dust.
 
 ### Comfortable Driving
-`forthing_u_tour_en_a20ed010` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:213 | doc_type:owners_manual
 
 When the visibility is poor, such as in
 foggy, rainy or snowy days, the detection
@@ -21087,7 +19742,6 @@ not
 conform to the standard approved format,
 
 ### Description of conditions for system to clear
-`forthing_u_tour_en_898b96fd` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:213 | doc_type:owners_manual
 
 the current speed limit
 When the vehicle runs for a certain
@@ -21105,7 +19759,6 @@ low speed, TSR system will clear the speed
 limit.
 
 ### Description of factors affecting calibration
-`forthing_u_tour_en_e6874204` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:213 | doc_type:owners_manual
 
 Removal and installation of interior
 rearview mirrors
@@ -21119,7 +19772,6 @@ needs to be recalibrated; otherwise, it cannot
 work normally.
 
 ### Instructions for sensor cleaning
-`forthing_u_tour_en_f55d4d94` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:213 | doc_type:owners_manual
 
 The
 front-view
@@ -21140,7 +19792,6 @@ signs. Therefore, the driver needs to pay
 special attention.
 
 ### IHC system detects the headlights of
-`forthing_u_tour_en_87306983` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:213 | doc_type:owners_manual
 
 oncoming vehicles or the taillight beam of
 vehicles
@@ -21154,14 +19805,12 @@ cannot detect oncoming vehicles or vehicles
 ahead, the high beams will be reactivated.
 
 ### Do not stick any item on the front
-`forthing_u_tour_en_377a082a` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:214 | doc_type:owners_manual
 
 windshield, as this may reduce the
 effectiveness of IHC system or cause the
 system to stop working.
 
 ### The system can be activated when the
-`forthing_u_tour_en_2218f2fa` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:214 | doc_type:owners_manual
 
 following
 conditions
@@ -21175,7 +19824,6 @@ ring is in AUTO position.
 The vehicle speed is above 45 km/h.
 
 ### IHC system can detect the following
-`forthing_u_tour_en_06624913` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:214 | doc_type:owners_manual
 
 targets:
 Opposite
@@ -21198,7 +19846,6 @@ failure in normal detection.
 detected as vehicle taillights.
 
 ### Constraints
-`forthing_u_tour_en_391be971` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:214 | doc_type:owners_manual
 
 of
 traffic
@@ -21221,7 +19868,6 @@ normally when the light of the vehicle ahead
 is blocked (such as the crash barrier).
 
 ### Manual system release conditions
-`forthing_u_tour_en_4e51ee3c` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:214 | doc_type:owners_manual
 
 The light control handle adjusting
 ring is not in AUTO position.
@@ -21230,7 +19876,6 @@ ring is not in AUTO position.
 into the overtaking light position.
 
 ### After replacement of the front-view
-`forthing_u_tour_en_7281370e` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:215 | doc_type:owners_manual
 
 camera and front windshield, four-wheel
 alignment, body and chassis modification or
@@ -21249,7 +19894,6 @@ performance will be reduced or IHC system
 cannot work normally.
 
 ### Instructions for sensor cleaning
-`forthing_u_tour_en_d872d506` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:215 | doc_type:owners_manual
 
 The
 front-view
@@ -21265,7 +19909,6 @@ locked, ROD system will detect the rear
 occupants. If occupants or pets are detected,
 
 ### The ROD switch status is the last
-`forthing_u_tour_en_ffe764f0` | u_tour | pdf_manual | tier:2 | lang:en | layer:infotainment | p:215 | doc_type:owners_manual
 
 operation status by default. Tap [Settings] -
 [Vehicle] - [Driver Assistance] - [ROD]
@@ -21282,7 +19925,6 @@ the vehicle before leaving.
 
 
 ### Please pay attention to the network
-`forthing_u_tour_en_65f76902` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:215 | doc_type:owners_manual
 
 environment around the vehicle. Network
 restrictions (such as parking in underground
@@ -21293,7 +19935,6 @@ smoothly.
 
 
 ### Obstructions or moving objects can
-`forthing_u_tour_en_883f6263` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:215 | doc_type:owners_manual
 
 interfere with the normal operation of
 sensors and may affect the timeliness and
@@ -21314,7 +19955,6 @@ of
 Chapter V "IVI System".
 
 ### When ROD system detects that there
-`forthing_u_tour_en_93dc4934` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:215 | doc_type:owners_manual
 
 are occupants left in the vehicle, it will
 remind the driver through a mobile phone
@@ -21328,7 +19968,6 @@ vehicle will sound its horn and flash the
 warning light.
 
 ### Front compartment gutter channel
-`forthing_u_tour_en_7d9d0498` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:217 | doc_type:owners_manual
 
 Layout of engine compartment.......... 221
 Inspection of glass washer fluid. 225
@@ -21345,7 +19984,6 @@ brake lights, and license plate
 Items
 
 ### Regular and professional maintenance
-`forthing_u_tour_en_d7d925cd` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:218 | doc_type:owners_manual
 
 can keep the vehicle in good condition. The
 following will describe how to keep the
@@ -21354,7 +19992,6 @@ car washing, paint, polishing and wheel
 cleaning, as well as anti-corrosion measures.
 
 ### Frequent washing helps preserve your
-`forthing_u_tour_en_1f765199` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:218 | doc_type:owners_manual
 
 car’s appearance. Dust and grit will scratch
 the paint surface, and leaves and bird
@@ -21364,7 +20001,6 @@ recommended to clean the vehicle body in a
 cool place.
 
 ### Only solvents and cleaning agents
-`forthing_u_tour_en_e99155e1` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:218 | doc_type:owners_manual
 
 recommended in the User and Warranty
 Manual can be used. As drying the vehicle,
@@ -21372,7 +20008,6 @@ check it for chips or scratches. If found,
 repair it with touch-up paint.
 
 ### Using chemical solvents and strong
-`forthing_u_tour_en_4d5768f1` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:219 | doc_type:owners_manual
 
 detergents when cleaning the vehicle will
 damage the paint, metal and plastic parts of
@@ -21395,7 +20030,6 @@ the vehicle body.
 Waxing
 
 ### Wax the vehicle only after cleaning and
-`forthing_u_tour_en_19d27268` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:219 | doc_type:owners_manual
 
 drying, and wax it at least once every three
 months, which helps to protect the body.
@@ -21408,7 +20042,6 @@ the new vehicle is used for about half a year.
 2. Polishing wax
 
 ### Polishing wax can repair the paint that
-`forthing_u_tour_en_a4797d97` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:219 | doc_type:owners_manual
 
 has been oxidized or lost its gloss, making it
 glossy again. Such waxes generally contain
@@ -21419,7 +20052,6 @@ applied, polishing wax shall be applied.
 Note
 
 ### When the detergent is used to remove such
-`forthing_u_tour_en_7a72591b` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:219 | doc_type:owners_manual
 
 pollutants as pitch and insects, dewaxing
 may occur. Therefore, it is necessary to
@@ -21431,7 +20063,6 @@ special repair film or repair paint to prevent
 corrosion.
 
 ### When cleaning the exterior of the
-`forthing_u_tour_en_3e0da217` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:219 | doc_type:owners_manual
 
 vehicle body, the aluminum alloy wheels of
 the vehicle shall be cleaned at the same time.
@@ -21450,7 +20081,6 @@ water passage structure in the front of the
 vehicle.
 
 ### Check the drainage condition of the
-`forthing_u_tour_en_20f04b07` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:219 | doc_type:owners_manual
 
 front compartment gutter channel every
 5000 km, and try to ensure that the wiper
@@ -21463,7 +20093,6 @@ authorized service station of Dongfeng
 Forthing in time.
 
 ### The sealing strip is a rubber sealing
-`forthing_u_tour_en_0e6f8d58` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:220 | doc_type:owners_manual
 
 part installed on the door or vehicle body. It
 is one of the parts that ensure the waterproof
@@ -21485,7 +20114,6 @@ strip, please contact the authorized service
 station of Dongfeng Forthing in time.
 
 ### The dust on the carpet should often be
-`forthing_u_tour_en_2bae71a6` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:220 | doc_type:owners_manual
 
 cleaned by a vacuum cleaner. Excessive
 dust
@@ -21506,7 +20134,6 @@ use a spray or foam type vinylon cleaner.
 Leather
 
 ### Frequently use a vacuum cleaner to
-`forthing_u_tour_en_485b775a` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:220 | doc_type:owners_manual
 
 remove dust and dirt from the leather,
 especially at wrinkles and joints. Clean the
@@ -21517,14 +20144,12 @@ special soap for leather can be used.
 Window
 
 ### Use the glass detergent to clean both
-`forthing_u_tour_en_6496c089` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:220 | doc_type:owners_manual
 
 interior and exterior sides of the windows.
 and then wipe all glass and plastic surfaces
 dry with soft cloth or tissue.
 
 ### Seat belt
-`forthing_u_tour_en_e0b760b0` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:220 | doc_type:owners_manual
 
 If the seat belts are dirty, use a soft
 brush with neutral warm soapy water to
@@ -21540,7 +20165,6 @@ durability of the seat belt. Do not use the
 seat belt before it becomes dry.
 
 ### Too much dust accumulated at the loop
-`forthing_u_tour_en_cf754192` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:220 | doc_type:owners_manual
 
 at the seat belt outlet will lead to slow
 contraction of the seat belt. The inner side of
@@ -21553,7 +20177,6 @@ cleaning, please contact the authorized
 service station of Dongfeng Forthing.
 
 ### If you need to use air freshener or
-`forthing_u_tour_en_23987f3b` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:220 | doc_type:owners_manual
 
 deodorant inside the vehicle, you had better
 choose
@@ -21567,14 +20190,12 @@ fresheners will cause fiber breakage or
 fading of the interior trim and fabric.
 
 ### Service and Maintenance
-`forthing_u_tour_en_41fea58f` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:221 | doc_type:owners_manual
 
 If using liquid air freshener, ensure it is
 securely fastened to prevent splashing while
 driving.
 
 ### Anti-corrosion
-`forthing_u_tour_en_f345a6e9` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:221 | doc_type:owners_manual
 
 Salt, dirt and moisture can easily
 accumulate under the vehicle. Scraping off
@@ -21591,7 +20212,6 @@ condition.
 etc.
 
 ### Opening of the engine hood
-`forthing_u_tour_en_ba3e43a4` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:221 | doc_type:owners_manual
 
 1. Pull the engine hood opening handle
 at the lower left side of the dashboard, and
@@ -21600,7 +20220,6 @@ the engine hood will pop up slightly.
 and lift the engine hood.
 
 ### Closing the engine hood
-`forthing_u_tour_en_496f01e3` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:221 | doc_type:owners_manual
 
 For
 models
@@ -21620,7 +20239,6 @@ middle part of the front end of the engine
 hood until it is fully closed.
 
 ### Layout of engine compartment
-`forthing_u_tour_en_7061906a` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:222 | doc_type:owners_manual
 
 The picture is for reference only, and the actual vehicle shall prevail.
 1. Access cover in engine compartment
@@ -21631,7 +20249,6 @@ The picture is for reference only, and the actual vehicle shall prevail.
 6. Engine compartment fuse box
 
 ### This vehicle does not require any oil
-`forthing_u_tour_en_e4b531c9` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:223 | doc_type:owners_manual
 
 additives. Additives do not improve the
 performance of the engine and the automatic
@@ -21643,7 +20260,6 @@ consequences of the engine caused by the
 use of additives.
 
 ### The main function of GPF is to filter
-`forthing_u_tour_en_671a370e` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:223 | doc_type:owners_manual
 
 the particulate matter in the tail gas and
 reduce the concentration and quantity of
@@ -21677,7 +20293,6 @@ regeneration and gradually accumulates in
 GPF, resulting in GPF blockage.
 
 ### The formation of ash is closely related
-`forthing_u_tour_en_6ffd1064` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:223 | doc_type:owners_manual
 
 to the lubricant additives. In order to reduce
 ash, low ash and high-grade engine oil
@@ -21686,7 +20301,6 @@ Low
 Ash
 
 ### SP5W-30(LA)"
-`forthing_u_tour_en_f19868af` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:223 | doc_type:owners_manual
 
 engine
 oil
@@ -21702,7 +20316,6 @@ the engine, and thus reduce the maintenance
 cost.
 
 ### Engine oil is a consumable to ensure
-`forthing_u_tour_en_2c749f2f` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:223 | doc_type:owners_manual
 
 the normal operation of the engine, and its
 liquid level should be checked regularly. For
@@ -21723,7 +20336,6 @@ inspection.
 1. Take out the engine oil dipstick.
 
 ### Take out the oil dipstick again
-`forthing_u_tour_en_70b5e745` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:224 | doc_type:owners_manual
 
 and check the engine oil level. The fluid
 level must be between the upper limit (MAX)
@@ -21735,7 +20347,6 @@ Warning
 Check the engine oil level frequently.
 
 ### Warm up the engine for a few minutes
-`forthing_u_tour_en_123f7b7d` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:224 | doc_type:owners_manual
 
 and then shut down the engine. After about 5
 minutes, check the engine oil level on the oil
@@ -21768,7 +20379,6 @@ cylinder.
 Warning
 
 ### Engine oil plays an important role in
-`forthing_u_tour_en_e6ab3396` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:224 | doc_type:owners_manual
 
 the operation and service life of the engine
 and must be replaced according to the
@@ -21788,7 +20398,6 @@ Warning
 
 
 ### Check whether the coolant level is
-`forthing_u_tour_en_70a7b39d` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:225 | doc_type:owners_manual
 
 between the upper limit (MAX) and the
 lower limit (MIN) marks. If it is lower than
@@ -21797,7 +20406,6 @@ expansion tank to the position near the upper
 limit.
 
 ### Open the cover of fluid reservoir to add
-`forthing_u_tour_en_933bf3c4` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:225 | doc_type:owners_manual
 
 the coolant. After adding the coolant, put on
 the cover and tighten it. Do not mix coolants
@@ -21816,7 +20424,6 @@ expansion tank cap, make sure that the
 engine and radiator have cooled down.
 
 ### Replacement of coolant
-`forthing_u_tour_en_b8ef48b5` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:225 | doc_type:owners_manual
 
 Under
 normal
@@ -21826,7 +20433,6 @@ coolant needs to be replaced every 2 years or
 20,000 km, whichever comes first.
 
 ### The fluid level should be between
-`forthing_u_tour_en_571da15a` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:225 | doc_type:owners_manual
 
 the lower limit (MIN) and the upper limit
 (MAX) marks on the reservoir wall. If the
@@ -21836,7 +20442,6 @@ of Dongfeng Forthing Automobile Co., Ltd.
 for inspection in time.
 
 ### The brake fluid will absorb water in the
-`forthing_u_tour_en_8f4f67fd` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:225 | doc_type:owners_manual
 
 air. Excessive water content will cause
 corrosion and damage to the brake system,
@@ -21855,7 +20460,6 @@ station of Dongfeng Forthing for brake fluid
 replacement.
 
 ### Be sure to use the brake fluid designated
-`forthing_u_tour_en_32d237f4` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:226 | doc_type:owners_manual
 
 by Dongfeng Forthing or DOT4 products of
 the same grade packaged in closed
@@ -21871,7 +20475,6 @@ device.
 
 
 ### The brake fluid is toxic and should be
-`forthing_u_tour_en_d3cabb91` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:226 | doc_type:owners_manual
 
 kept out of the reach of children. Once
 swallowed by mistake, go to the hospital
@@ -21879,7 +20482,6 @@ immediately for examination.
 
 
 ### The brake fluid is corrosive and shall not
-`forthing_u_tour_en_d4fe6d26` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:226 | doc_type:owners_manual
 
 be allowed to contact with paint. Once it
 overflows onto the paint, wash it off with
@@ -21892,7 +20494,6 @@ unwell, go to the hospital immediately for
 examination.
 
 ### If no water is sprayed by using the
-`forthing_u_tour_en_0c4d4899` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:226 | doc_type:owners_manual
 
 wiper spraying function, it indicates that the
 glass washer fluid is insufficient and can be
@@ -21901,7 +20502,6 @@ Note
 
 
 ### It is recommended to use the glass
-`forthing_u_tour_en_a13b6238` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:226 | doc_type:owners_manual
 
 washer fluid specified by Dongfeng
 Forthing. Antifreeze will damage the paint
@@ -21914,7 +20514,6 @@ ethanol content of the detergent should not
 exceed 24%
 
 ### Replace the air filter according to the
-`forthing_u_tour_en_ad0e5f71` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:227 | doc_type:owners_manual
 
 time and mileage specified in the regular
 maintenance table. If the air filter is installed
@@ -21925,7 +20524,6 @@ filter, please contact the authorized service
 station of Dongfeng Forthing.
 
 ### Replace the fuel filter according to the
-`forthing_u_tour_en_b4527f1e` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:227 | doc_type:owners_manual
 
 time and mileage specified in the periodic
 maintenance table. It is recommended to
@@ -21951,7 +20549,6 @@ start. If the battery voltage is severely
 insufficient, the engine will fail to start.
 
 ### Battery use and precautions
-`forthing_u_tour_en_8b5b0ea5` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:227 | doc_type:owners_manual
 
 Do not use electrical appliances such
 as lamp, sound and wiper for a long time
@@ -21967,14 +20564,12 @@ A/C are shut down.
 Check the battery once a month.
 
 ### Check its terminals for corrosion degree
-`forthing_u_tour_en_4ade1862` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:227 | doc_type:owners_manual
 
 (white or faint yellow powder). In case of
 corrosion, please contact the authorized
 service station of Dongfeng Forthing.
 
 ### Battery electrolyte is highly corrosive
-`forthing_u_tour_en_ea80435f` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:228 | doc_type:owners_manual
 
 and toxic. In case of accidental contact,
 please handle it as follows:
@@ -21991,7 +20586,6 @@ Warning
 
 
 ### If it is necessary to connect the battery to
-`forthing_u_tour_en_7dbe7314` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:228 | doc_type:owners_manual
 
 other chargers, disconnect the positive and
 negative cables to avoid damaging the
@@ -22006,7 +20600,6 @@ explode, and its explosion energy is enough
 to cause serious injury.
 
 ### Squeeze the upper and lower
-`forthing_u_tour_en_5319d58b` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:228 | doc_type:owners_manual
 
 sides of the A/C filter to disengage the tabs
 on both sides and remove the filter.
@@ -22016,7 +20609,6 @@ Insert a new A/C filter.
 Close the glove box.
 
 ### Turn on the air conditioner at least once
-`forthing_u_tour_en_8bc7d577` | u_tour | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:228 | doc_type:owners_manual
 
 every two weeks for at least 5 minutes even
 in cold months. This is to prevent the
@@ -22032,7 +20624,6 @@ Note
 
 
 ### Tire pressure labels are attached on the
-`forthing_u_tour_en_941d5390` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:229 | doc_type:owners_manual
 
 vehicle. The label is located below the
 driver's door frame, indicating the front and
@@ -22046,7 +20637,6 @@ to the cold tire pressure recommended on
 the label.
 
 ### If the tire pressure is checked when the
-`forthing_u_tour_en_ab2e8545` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:229 | doc_type:owners_manual
 
 tire is hot (after several kilometers of
 driving), the pressure reading will be 30 to
@@ -22057,7 +20647,6 @@ reading, which will cause insufficient tire
 pressure.
 
 ### The tire pressure monitoring system is
-`forthing_u_tour_en_d53cf7f5` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:229 | doc_type:owners_manual
 
 used
 to
@@ -22085,7 +20674,6 @@ designated tire is on, it indicates that the tire
 pressure monitoring system loses its signal.
 
 ### The tire pressure information displayed
-`forthing_u_tour_en_2336f751` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:229 | doc_type:owners_manual
 
 in the stationary status is the information
 when the vehicle is last running. Therefore,
@@ -22097,7 +20685,6 @@ tire pressure information interface updates
 the data.
 
 ### Maintaining proper tire pressure can
-`forthing_u_tour_en_eec8b69b` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:229 | doc_type:owners_manual
 
 make the vehicle maneuverability, tread life
 and driving comfort reach the best state.
@@ -22116,14 +20703,12 @@ due to uneven road surface, resulting in
 uneven tire wear.
 
 ### Every time when checking the inflation
-`forthing_u_tour_en_0a497a3a` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:229 | doc_type:owners_manual
 
 state of the tire, check whether the tire is
 damaged, punctured by foreign matters and
 worn. Specific inspections are as follows:
 
 ### Service and Maintenance
-`forthing_u_tour_en_5374ec32` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:230 | doc_type:owners_manual
 
 Scratches, cracks or fractures on the
 side of the tire. If the tire fabrics or cords are
@@ -22139,7 +20724,6 @@ tire lacks adhesion when driving on a
 slippery road.
 
 ### Tire maintenance
-`forthing_u_tour_en_42998c2c` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:230 | doc_type:owners_manual
 
 In addition to proper inflation, correct
 wheel alignment also helps to reduce tread
@@ -22150,7 +20734,6 @@ authorized service station of Dongfeng
 Forthing.
 
 ### In order to prolong the service life of
-`forthing_u_tour_en_1bc9f013` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:230 | doc_type:owners_manual
 
 the tire and make the tire wear evenly, the
 tire position shall be changed every 10,000
@@ -22164,7 +20747,6 @@ operation shall be carried out according to
 the method shown in the above figure.
 
 ### As for the tire size suitable for this
-`forthing_u_tour_en_d7fd1363` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:230 | doc_type:owners_manual
 
 vehicle, please refer to the tire nameplate
 pasted under the driver's door frame, or
@@ -22172,7 +20754,6 @@ contact the authorized service station of
 Dongfeng Forthing.
 
 ### Replace with radial tires having the
-`forthing_u_tour_en_c5ccf38c` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:230 | doc_type:owners_manual
 
 same size, load scope, rated speed and
 maximum cold tire pressure (indicated on
@@ -22186,7 +20767,6 @@ steering
 accuracy.
 
 ### The ABS system works by comparing
-`forthing_u_tour_en_384ac925` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:231 | doc_type:owners_manual
 
 the wheel speeds. Therefore, when replacing
 the tires, the tires with the same size as the
@@ -22195,7 +20775,6 @@ Otherwise, the wheel speeds will be affected
 and the system may act inconsistently.
 
 ### Replacing only one tire will seriously affect
-`forthing_u_tour_en_990fe978` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:231 | doc_type:owners_manual
 
 the maneuverability of the vehicle. If it is
 necessary to replace tires, it is recommended
@@ -22210,7 +20789,6 @@ the authorized service station of Dongfeng
 Forthing.
 
 ### It is recommended to use winter tires
-`forthing_u_tour_en_78731f85` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:231 | doc_type:owners_manual
 
 on icy and snowy roads due to the limited
 applicability of summer tires in winter.
@@ -22224,7 +20802,6 @@ according to the marks on the registration
 card.
 
 ### Snow tire chains can only be used in
-`forthing_u_tour_en_fc02e720` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:231 | doc_type:owners_manual
 
 emergency
 situations
@@ -22237,7 +20814,6 @@ on the driving wheels, preferably all four
 wheels.
 
 ### The tire chains matching the vehicle
-`forthing_u_tour_en_e45726c2` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:231 | doc_type:owners_manual
 
 tires shall be selected. After the anti-skid
 chains are installed, the maneuverability of
@@ -22248,7 +20824,6 @@ instructions of the tire chain manufacturer
 carefully.
 
 ### Press the hazard warning switch above
-`forthing_u_tour_en_fcaa6f05` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:233 | doc_type:owners_manual
 
 the A/C control panel, and the turn signal
 lamp and the turn signal and hazard signal
@@ -22257,7 +20832,6 @@ start to flash to remind pedestrians and
 passing vehicles to avoid the vehicle.
 
 ### The warning triangle is placed under
-`forthing_u_tour_en_b0442794` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:233 | doc_type:owners_manual
 
 the trunk cover and can be seen by lifting the
 cover.
@@ -22270,7 +20844,6 @@ coming behind, and turn on the hazard
 warning lights at the same time.
 
 ### Emergency Self-handling
-`forthing_u_tour_en_4ef4b721` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:234 | doc_type:owners_manual
 
 1. Warning triangle
 2. Jack*
@@ -22281,7 +20854,6 @@ warning lights at the same time.
 7. Tire repair kit*
 
 ### Park the vehicle in a place where the
-`forthing_u_tour_en_c6b39ab1` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:234 | doc_type:owners_manual
 
 traffic flow is little and it is convenient to
 replace the wheel safety. Before emergency
@@ -22291,7 +20863,6 @@ the warning triangle at an appropriate
 distance to avoid traffic accidents.
 
 ### Taking out the spare tire
-`forthing_u_tour_en_66be9037` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:234 | doc_type:owners_manual
 
 1.
 Remove
@@ -22312,7 +20883,6 @@ from the center of the spare tire hub and
 remove the spare tire.
 
 ### Emergency Self-handling
-`forthing_u_tour_en_ce039578` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:235 | doc_type:owners_manual
 
 4.
 Turn
@@ -22324,7 +20894,6 @@ clockwise to retract the cable fixing bracket
 until it is fully secured in position.
 
 ### Take out the wheel nut cover clip from
-`forthing_u_tour_en_e4707c6d` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:236 | doc_type:owners_manual
 
 the on-board tools and use the clip to
 remove the wheel nut trim cover.
@@ -22345,7 +20914,6 @@ the vehicle.
 Note
 
 ### Do not jack the jack at any position other
-`forthing_u_tour_en_2f605e02` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:236 | doc_type:owners_manual
 
 than the specified position. If the jacking
 position is incorrect, the vehicle body may
@@ -22353,7 +20921,6 @@ be sunken or accidents may occur when the
 vehicle body falls.
 
 ### Remove the wheel nuts with a wheel nut
-`forthing_u_tour_en_27c5d71c` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:236 | doc_type:owners_manual
 
 wrench, and then remove the tire. Clean the
 sludge on the hub surface, and then install
@@ -22362,7 +20929,6 @@ crossed sequence as shown in the figure
 until the wheel is close to the brake hub.
 
 ### Lower the vehicle to the ground and take out
-`forthing_u_tour_en_70c9570c` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:236 | doc_type:owners_manual
 
 the jack. Tighten the wheel nuts in the same
 cross manner and then install the nut trim
@@ -22381,7 +20947,6 @@ tire into the original spare tire position and
 secure it.
 
 ### Frequently check the spare tire pressure
-`forthing_u_tour_en_5b412d12` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:237 | doc_type:owners_manual
 
 to keep the pressure within the specified
 range for emergency use at any time.
@@ -22395,7 +20960,6 @@ be used safely.
 
 
 ### The spare tire is not allowed to be
-`forthing_u_tour_en_103cabdb` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:237 | doc_type:owners_manual
 
 installed on the front wheel. If the front
 wheel needs to be replaced, the spare tire
@@ -22404,7 +20968,6 @@ then the replaced rear wheel shall be
 installed on the front wheel.
 
 ### Your vehicle is equipped with emergency
-`forthing_u_tour_en_f89f1c9b` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:237 | doc_type:owners_manual
 
 tools for tire repair. Minor damage to the tire
 tread can be repaired with a vehicle tire
@@ -22421,7 +20984,6 @@ Warning
 
 
 ### The emergency tools for vehicle tire
-`forthing_u_tour_en_24c220df` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:237 | doc_type:owners_manual
 
 repair are limited to emergency repair of
 tires, and are suitable for short-distance use
@@ -22435,7 +20997,6 @@ tire as soon as possible.
 
 
 ### Park the vehicle as far away from the
-`forthing_u_tour_en_1408f9c5` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:237 | doc_type:owners_manual
 
 traffic flow as possible, and turn on the
 hazard warning indicator and place the
@@ -22451,7 +21012,6 @@ station of Dongfeng Forthing.
 
 
 ### If the tire leakage point is large or the
-`forthing_u_tour_en_0f3d18dd` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:237 | doc_type:owners_manual
 
 damaged position is close to the tire wall of
 the rim, do not use the emergency tool for
@@ -22468,7 +21028,6 @@ inflation pump and its hose will rise, which
 is normal.
 
 ### The validity period of the tire repair fluid
-`forthing_u_tour_en_355143a5` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:238 | doc_type:owners_manual
 
 is five years. Please confirm the production
 date before use (the production date is
@@ -22481,7 +21040,6 @@ range of tire repair fluid is -30℃～70℃.
 The tire repair fluid is a disposable item.
 
 ### Forthing to purchase new tire repair fluid as
-`forthing_u_tour_en_d943b87d` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:238 | doc_type:owners_manual
 
 soon as possible to ensure that the vehicle
 always has the tire repair fluid. After
@@ -22492,7 +21050,6 @@ possible.
 
 
 ### After repairing the tire with tire repair
-`forthing_u_tour_en_833e550f` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:238 | doc_type:owners_manual
 
 fluid, the vehicle speed shall not exceed 80
 km/h during driving, and sudden
@@ -22500,7 +21057,6 @@ acceleration, sudden braking and rapid
 turning shall be avoided.
 
 ### Usage of emergency tools for vehicle tire
-`forthing_u_tour_en_e9228538` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:238 | doc_type:owners_manual
 
 repair
 1.
@@ -22521,7 +21077,6 @@ appropriate distance.
 2.
 
 ### Take out
-`forthing_u_tour_en_56570728` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:238 | doc_type:owners_manual
 
 the emergency tire
 repair kit under the trunk floor cover, and
@@ -22536,14 +21091,12 @@ bottle, and then tighten it.
 4.
 
 ### Unscrew the protective cap of the
-`forthing_u_tour_en_c768af9a` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:238 | doc_type:owners_manual
 
 valve of the faulty tire, connect the hose of
 the tire repair fluid with the tire valve, and
 tighten it.
 
 ### Emergency Self-handling
-`forthing_u_tour_en_f7097142` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:239 | doc_type:owners_manual
 
 5. Start the vehicle, insert the power
 connector of the inflation pump into the 12V
@@ -22596,7 +21149,6 @@ the
 authorized service station of Dongfeng
 
 ### When the new vehicle leaves the
-`forthing_u_tour_en_b4b65f06` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:241 | doc_type:owners_manual
 
 factory, the headlight has been calibrated. If
 the trunk is frequently used to carry heavy
@@ -22611,7 +21163,6 @@ headlight calibration.
 FAQ
 
 ### Why does the headlight glass surface
-`forthing_u_tour_en_40b5cdf0` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:241 | doc_type:owners_manual
 
 fog sometimes?
 In general, the fog in the headlight is
@@ -22623,7 +21174,6 @@ the fog will finally dissipate after each
 formation.
 
 ### The method to eliminate fog is as
-`forthing_u_tour_en_7f4db375` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:241 | doc_type:owners_manual
 
 follows: During driving, after the low beam
 is turned on for a period of time, the fog in
@@ -22642,7 +21192,6 @@ clean the lamp.
 
 
 ### When the Start/Stop switch is turned to
-`forthing_u_tour_en_efc7cd49` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:242 | doc_type:owners_manual
 
 "OFF" position, pull the wiper control
 handle upwards, and the front wiper will
@@ -22651,7 +21200,6 @@ height, which is convenient for maintenance
 and repair of the wiper blade. When the
 
 ### Replacement of front wiper blade
-`forthing_u_tour_en_6a8faa0e` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:242 | doc_type:owners_manual
 
 1.
 After
@@ -22670,7 +21218,6 @@ ensure that the wiper blade is correctly
 installed in place.
 
 ### Check whether the wiper blades are
-`forthing_u_tour_en_72759938` | u_tour | pdf_manual | tier:2 | lang:en | layer:sensors | p:242 | doc_type:owners_manual
 
 worn or broken.
 To replace the rear wiper blade, please
@@ -22686,7 +21233,6 @@ the automatic wiper function to avoid injury.
 Note
 
 ### The engine compartment fuse box is
-`forthing_u_tour_en_0a4ecf7f` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:243 | doc_type:owners_manual
 
 located in the upper right of the engine
 compartment. Remove the clips on the left
@@ -22694,7 +21240,6 @@ and right sides of the fuse box, and open the
 box cover to check the fuse.
 
 ### The fuse protects the vehicle electrical
-`forthing_u_tour_en_935e3003` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:243 | doc_type:owners_manual
 
 equipment
 by
@@ -22708,7 +21253,6 @@ fuse is suspected to be faulty, remove it with
 a fuse puller and check whether it is blown.
 
 ### There is a fuse puller in the engine
-`forthing_u_tour_en_8e361c11` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:244 | doc_type:owners_manual
 
 compartment fuse box. Pull the fuse straight
 out of the fuse box with the puller. If the
@@ -22727,7 +21271,6 @@ with the same amperage to replace the
 burnt-out one.
 
 ### If the replacement fuse with the same
-`forthing_u_tour_en_1298b442` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:244 | doc_type:owners_manual
 
 rating is blown again in a short time, it
 indicates that the vehicle may have a serious
@@ -22742,7 +21285,6 @@ service department. Do not tow the vehicle
 only with ropes or iron chains.
 
 ### The tractor inserts two supporting arms
-`forthing_u_tour_en_8c03048b` | u_tour | pdf_manual | tier:2 | lang:en | layer:wheels | p:250 | doc_type:owners_manual
 
 into the bottom of the front wheels of the
 vehicle to lift the wheels off the ground, and
@@ -22755,7 +21297,6 @@ the towing mileage should not exceed 50 km
 and the speed shall be kept below 30 km/h.
 
 ### If the body is equipped with a front
-`forthing_u_tour_en_d1316408` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:250 | doc_type:owners_manual
 
 spoiler, remove it before towing to avoid
 damage. Do not lift or tow the vehicle from
@@ -22773,7 +21314,6 @@ Turn
 the
 
 ### Start/Stop
-`forthing_u_tour_en_73b2c0c3` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:250 | doc_type:owners_manual
 
 switch
 to
@@ -22788,14 +21328,12 @@ following steps.
 1.
 
 ### Connect the clamp at the other
-`forthing_u_tour_en_d9c6fd98` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:251 | doc_type:owners_manual
 
 end of the positive cable to the positive (+)
 terminal of the battery of the other vehicle.
 4.
 
 ### Connect the negative cable clamp
-`forthing_u_tour_en_63554c8a` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:251 | doc_type:owners_manual
 
 to the negative (-) terminal of the battery of
 the other vehicle.
@@ -22807,7 +21345,6 @@ to a solid, fixed, unpainted metal part.
 6.
 
 ### Start the engine of the other
-`forthing_u_tour_en_1e7aba04` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:251 | doc_type:owners_manual
 
 vehicle. Increase the engine speed slightly
 and maintain it for approximately 5 min to
@@ -22815,7 +21352,6 @@ charge the vehicle battery.
 7.
 
 ### After the engine of this vehicle is
-`forthing_u_tour_en_b821dd35` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:251 | doc_type:owners_manual
 
 started, please remove the jumper cable in
 an
@@ -22833,7 +21369,6 @@ vehicle maintenance as soon as possible.
 Warning
 
 ### When jumper starting with jumper cables
-`forthing_u_tour_en_96ca8925` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:251 | doc_type:owners_manual
 
 connected from other vehicles, correct
 operation must be carried out according to
@@ -22842,7 +21377,6 @@ steps may cause fire, explosion or damage to
 the vehicle.
 
 ### After the vehicle runs for a period of
-`forthing_u_tour_en_863979fc` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:251 | doc_type:owners_manual
 
 time, the coolant thermometer indication
 shall be stable at the middle scale position. If
@@ -22854,7 +21388,6 @@ case, immediately shut down the engine and
 shut down the vehicle.
 
 ### Drive the vehicle safely to the
-`forthing_u_tour_en_4833dd0a` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:251 | doc_type:owners_manual
 
 roadside, engage the N gear, and pull up the
 EPB switch. Turn off all electrical switches
@@ -22874,7 +21407,6 @@ Dongfeng Forthing as soon as possible.
 3.
 
 ### Check the coolant level in the
-`forthing_u_tour_en_e92ec2fe` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:252 | doc_type:owners_manual
 
 reservoir. If the reservoir is empty, be sure
 to wait for the engine to cool down before
@@ -22884,7 +21416,6 @@ water, causing burns.
 5.
 
 ### Add coolant to the reservoir as
-`forthing_u_tour_en_dde9f48d` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:252 | doc_type:owners_manual
 
 necessary.
 Adding
@@ -22896,7 +21427,6 @@ cylinder block. Therefore, coolant should be
 added slowly when the engine is running.
 
 ### The operation of adding coolant requires a
-`forthing_u_tour_en_ed7f1fd9` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:252 | doc_type:owners_manual
 
 high
 degree
@@ -22918,7 +21448,6 @@ install and tighten the reservoir cover.
 Warning
 
 ### Do not open the engine hood if steam is
-`forthing_u_tour_en_a3d4195d` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:252 | doc_type:owners_manual
 
 leaking. Contact with steam or mist spray
 coming out from the overheated engine will
@@ -22932,7 +21461,6 @@ vehicle indoors and take the following
 measures.
 
 ### Appropriate
-`forthing_u_tour_en_bd887b75` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:252 | doc_type:owners_manual
 
 measures
 can
@@ -22950,7 +21478,6 @@ rear wheels with obstacles.
 4.
 
 ### If the vehicle needs to be parked
-`forthing_u_tour_en_56b23035` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:252 | doc_type:owners_manual
 
 for a long time, use a jack support frame to
 support the vehicle body so that the tires are
@@ -22958,7 +21485,6 @@ off the ground.
 5.
 
 ### Pad the wiper blade with a towel
-`forthing_u_tour_en_a921cde1` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:252 | doc_type:owners_manual
 
 or cloth so that it does not come into contact
 with the front windshield.
@@ -22975,7 +21501,6 @@ and trunk seals contact.
 8.
 
 ### Cover the vehicle body with a
-`forthing_u_tour_en_12864ef4` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:252 | doc_type:owners_manual
 
 breathable
 covering
@@ -22998,7 +21523,6 @@ fan twice.
 Note
 
 ### If the vehicle has been parked for one year
-`forthing_u_tour_en_b7c1211b` | u_tour | pdf_manual | tier:2 | lang:en | layer:brakes | p:253 | doc_type:owners_manual
 
 or more, it may not be able to start or its
 maneuverability may become poor. In this
@@ -23012,7 +21536,6 @@ Comprehensive fuel consumption...... 260
 Parameters of wheel alignment.......... 261
 
 ### There are several vehicle identification
-`forthing_u_tour_en_cf915474` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:255 | doc_type:owners_manual
 
 numbers (VINs) on your vehicle, which are
 located in different positions.
@@ -23030,13 +21553,11 @@ front windshield.
 3.
 
 ### Enter the engine ECU system
-`forthing_u_tour_en_3fb0655a` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:255 | doc_type:owners_manual
 
 through the OBD diagnostic interface with
 the X431 diagnostic apparatus and read the
 
 ### The vehicle sign is located under the
-`forthing_u_tour_en_2b361dc0` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:255 | doc_type:owners_manual
 
 right center pillar and contains the following
 information:
@@ -23050,7 +21571,6 @@ information:
 8. Manufacture date
 
 ### Number of passengers
-`forthing_u_tour_en_26292676` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:256 | doc_type:owners_manual
 
 Engine No.
 4A95TD engine number label position
@@ -23063,7 +21583,6 @@ open flames, and keep it ventilated during
 charging and use to prevent accidents.
 
 ### The radiator warning label and the A/C
-`forthing_u_tour_en_799cf825` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:257 | doc_type:owners_manual
 
 refrigerant label are pasted above the inner
 side of the engine hood. When replacing the
@@ -23078,7 +21597,6 @@ different brands. Do not touch the radiator,
 as the cooling fan may rotate at any time.
 
 ### Risk of carbon monoxide (CO) poisoning
-`forthing_u_tour_en_7ad62c78` | u_tour | pdf_manual | tier:2 | lang:en | layer:interior | p:257 | doc_type:owners_manual
 
 Carbon monoxide gas is toxic, and
 inhalation of the gas will seriously threaten
@@ -23107,7 +21625,6 @@ for
 ventilation.
 
 ### The microwave window of the vehicle
-`forthing_u_tour_en_8f1df780` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:257 | doc_type:owners_manual
 
 is located in the horizontal center and
 vertically upward position of the front
@@ -23123,7 +21640,6 @@ Note
 
 
 ### Do not paste film or metal materials on
-`forthing_u_tour_en_3982c8d9` | u_tour | pdf_manual | tier:2 | lang:en | layer:body | p:257 | doc_type:owners_manual
 
 the microwave window to ensure the
 standard installation of vehicle electronic
@@ -23147,7 +21663,6 @@ axle
 kg
 
 ### LZ6480M15B2
-`forthing_u_tour_en_24a8b2a5` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:261 | doc_type:owners_manual
 
 Fuel
 consumption
@@ -23158,7 +21673,6 @@ L/100km
 Measurement Methods of Fuel Consumption for Light-duty Vehicles.
 
 ### When connecting the ECU and
-`forthing_u_tour_en_2d6e582c` | u_tour | pdf_manual | tier:2 | lang:en | layer:general | p:262 | doc_type:owners_manual
 
 the harness connector, make sure that the
 system power supply is disconnected, i.e.
@@ -23167,7 +21681,6 @@ plug or unplug the ECU when the Start/Stop
 switch is turned on, so as to avoid contacting
 
 ### Sparks caused by static electricity
-`forthing_u_tour_en_08ec93bd` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:262 | doc_type:owners_manual
 
 may cause damage to the ECU. Try to avoid
 contact
@@ -23186,7 +21699,6 @@ other insulating liquid on ECU pins.
 6.
 
 ### Do not burn out the ECU when
-`forthing_u_tour_en_2a87ba10` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:263 | doc_type:owners_manual
 
 repairing the vehicle by electrical welding.
 If necessary, power off the ECU, remove it,
@@ -23195,7 +21707,6 @@ welding position.
 10.
 
 ### When the engine works and the air-fuel
-`forthing_u_tour_en_3f978a6a` | u_tour | pdf_manual | tier:2 | lang:en | layer:engine | p:263 | doc_type:owners_manual
 
 ratio increases, the concentration of oxygen
 in the exhaust will increase. At this time, the
@@ -23212,7 +21723,6 @@ any
 adjustment or repair.
 
 ### The oxygen sensor will fail in the
-`forthing_u_tour_en_dc23cb3a` | u_tour | pdf_manual | tier:2 | lang:en | layer:ev | p:263 | doc_type:owners_manual
 
 following conditions:
 The electrical connector of oxygen
@@ -23239,7 +21749,6 @@ short-circuited to housing.
 oxygen sensor is short-circuited to housing.
 
 ### Precautions
-`forthing_u_tour_en_6dc5e62b` | u_tour | pdf_manual | tier:2 | lang:en | layer:lighting | p:263 | doc_type:owners_manual
 
 for
 using
@@ -23263,7 +21772,6 @@ and other organic matters, resulting in
 inaccurate sensor output signal.
 
 ### Information of key components and parts for emission control
-`forthing_u_tour_en_52e9f85a` | u_tour | pdf_manual | tier:2 | lang:en | layer:maintenance | p:264 | doc_type:owners_manual
 
 Vehicle type approval certificate information, manufacturer, model and effective
 service life of key components for emission control, etc.

@@ -1,8 +1,12 @@
-# Manual: ssangyong/musso (1993 chunks)
-<!-- doc_type:service_manual tier:4 lang:en -->
+---
+brand: ssangyong
+model: musso
+generation: gen_2005
+source: kb
+---
+
 
 ### PERSONAL INJURY CAUTION
-`ssangyong_musso_en_dbd564f6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Ap ropriateservice methods andproperrepairprocedurearees ential forthesafe,reliableoperationofal motorvehicles, as wel asforthe personal safetyof the person doing the repair. There are many variations in procedures, techniques, to ls andparts forservicing vehicles, as wel as n the skils ofthepeople doing thework. This manualcan otposiblyanticipatealsuchvariationsandprovideadvice orprecautions for each. Anyone who deviates from theinstructions provided in this manual must ensure their ownsafetyandpreserve thesafetyandintegrityofthevehicle. Thefolowinglistcontainsgeneral precautions thatshouldalwaysbefolowedwhileworkingonavehicle.
 
@@ -16,7 +20,6 @@ Avoid movingparts when theengine s run ing.
 Safetyglas esmustbeworn foreyeprotection.
 
 ### Section 1 Engine
-`ssangyong_musso_en_2550376c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Section 1A1
 Section 1B1
@@ -40,21 +43,18 @@ Section 1G3
 M162 General Engine Information M162 Engine Mechanical M162 Engine Cooling M162 Engine Electrical M162 Engine Controls M162 Engine Intake & Exhaust M161 General Engine Information M161 Engine Mechanical M161 Engine Cooling M161 Engine Electrical M161 Engine Controls M161 Engine Intake & Exhaust OM600 General Engine Information OM600 Engine Mechanical OM600 Engine Cooling OM600 Engine Electrical OM600 Engine Controls OM600 Engine Intake & Exhaust
 
 ### Suspension
-`ssangyong_musso_en_7a39af52` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Section 2A Section 2B Section 2C Section 2D Section 2E
 
 Suspension Diagnosis Wheel Alignment Front Suspension Rear Suspension Tires and Wheels
 
 ### Brakes
-`ssangyong_musso_en_dadc87c7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Section 4A Section 4B Section 4C Section 4D Section 4E Section 4F Section 4G
 
 Hydraulic Brakes Master Cylinder Power Booster Front Disc Brakes Rear Disc Brakes Antilock Brake System Parking Brakes
 
 ### Transmission
-`ssangyong_musso_en_10cc4727` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 Section 5A Section 5B Section 5C Section 5D1 Section 5D2
 
@@ -65,14 +65,12 @@ Section 6 Section 6A Section 6E
 Steering Power Steering System Steering Wheel and Column
 
 ### Section 7B/C
-`ssangyong_musso_en_20de351b` | musso | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 HVAC (Heating, Ventilation & Air Conditioning)
 Manual Control/Semiauto Temperature Control Heationg, Ventilation, and Air Conditioning System
 Full Automatic Temperature Control Heationg, Ventilation, and Air Conditioning System
 
 ### Body and Accessories
-`ssangyong_musso_en_5085e415` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Section 9A Section 9B Section 9D Section 9E Section 9F Section 9H Section 9L Section 9N Section 9O Section 9P Section 9Q Section 9R Section 9T
 
@@ -94,7 +92,6 @@ Control Units and System
 Immobilizer System
 
 ### CONTENTS
-`ssangyong_musso_en_613f635c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 SECTION 1A1 M162 GENERAL ENGINE INFORMATION
 SECTION 1B1 M162 ENGINE MECHANICAL
@@ -116,27 +113,22 @@ SECTION 1F3 OM600 ENGINE CONTROLS
 SECTION 1G3 OM600 ENGINE INTAKE & EXHAUST
 
 ### SUSPENSION CONTENTS
-`ssangyong_musso_en_efa52274` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 SECTION 2A SUSPENSION DIAGNOSIS SECTION 2B WHEEL ALIGNMENT SECTION 2C FRONT SUSPENSION SECTION 2D REAR SUSPENSION SECTION 2E TIRES AND WHEELS
 
 ### BRAKE CONTENTS
-`ssangyong_musso_en_1436ac3c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 SECTION 4A HYDRAULIC BRAKES SECTION 4B MASTER CYLINDER SECTION 4C POWER BOOSTER SECTION 4D FRONT DISC BRAKES SECTION 4E REAR DISC BRAKES SECTION 4F ANTILOCK BRAKE SYSTEM SECTION 4G PARKING BRAKE
 
 ### TRANSMISSION CONTENTS
-`ssangyong_musso_en_39691b85` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 SECTION 5A AUTOMATIC TRANSMISSION SECTION 5B MANUAL TRANSMISSION SECTION 5C CLUTCH SECTION 5D1 TRANSFER CASE (PART TIME 4408) SECTION 5D2 TRANSFER CASE (TOD)
 
 ### SECTION 7D
-`ssangyong_musso_en_b2ffc1e8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 MANUAL CONTROL/SEMIAUTOTEMPERATURE CONTROLHEATING, VENTILATION, ANDAIR CONDITIONING SYSTEMFULL AUTOMATICTEMPERATURE CONTROLHEATING, VENTILATION, ANDAIR CONDITIONING SYSTEM
 
 ### BODY AND ACCESSORIES CONTENTS
-`ssangyong_musso_en_be22ae13` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 SECTION 9A BODY WIRING SYSTEM
 SECTION 9B LIGHTING SYSTEM
@@ -156,7 +148,6 @@ SECTION 9U CONTROL UNITS AND SYSTEM
 SECTION 9W IMMOBILIZER SYSTEM
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_3e7f9832` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications 0B-1 Technical Data 0B-1 Vehicle Dimensions and Weights 0B-5 Standard Bolt Specifications 0B-6
 Maintenance and Repair 0B-7
@@ -173,7 +164,6 @@ At Least Annually 0B-13
 Recommended Fluids and Lubricants 0B-14
 
 ### General Description and System
-`ssangyong_musso_en_161bc7bf` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Operation 0B-15
 General Repair Instructions 0B-15
@@ -181,7 +171,6 @@ Vehicle Identification Number System 0B-16
 Vehicle Lifting Procedures 0B-19
 
 ### SPECIFICATIONS
-`ssangyong_musso_en_c39312a5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 TECHNICAL DATA
 
@@ -190,7 +179,6 @@ Transaxle Performance
 ![](images/5f0f1349c8087956dfe14b3425fc0476d533a5a3706fc3a51155b9b7a0e61c65.jpg)
 
 ### Ignition System
-`ssangyong_musso_en_db24e81f` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 ![](images/c07072cedde6436e01e099e504a5d08bed5969eac7b953062d2c345babaf7bbf.jpg)
 
@@ -201,7 +189,6 @@ Manual Transmission
 ![](images/68c27dca146b41b0a1c505792e977cdfe4b0629d152dfa33ea1aed2f9f2f9b49.jpg)
 
 ### Fuel System
-`ssangyong_musso_en_ba10bfdf` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/30cf3e0f990da25f0e0a1a4b5f39146ce2a73044f96ff40a375334d40cd70f3e.jpg)
 
@@ -209,7 +196,6 @@ Lubricating System
 ![](images/5887a061efc6fa9a277da4975fb346b22a26a8d26806cc015a4793ef225acaa4.jpg)
 
 ### Cooling System
-`ssangyong_musso_en_bbc1dde9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/09b105dfa559b2440dff50589bd844ff75a2c74544526ecc0d02199f1f53bc65.jpg)
 
@@ -217,7 +203,6 @@ Electric System
 ![](images/d0894b02ee7ae5a28a28d5e3dfd0e9112d77666751e05abd581b88b3e5d6e262.jpg)
 
 ### VEHICLE DIMENSIONS AND WEIGHTS
-`ssangyong_musso_en_173d1df1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Vehicle Dimensions
 ![](images/34c954b2c20230e4d70e1b8b44f33be54286b93ee31799b77b724066ab9f8145.jpg)
@@ -226,7 +211,6 @@ Vehicle Weights
 ![](images/5bcd08374b5240d18fcf9ef20a67c7938f16e915ffdac10794e0162b30843ad8.jpg)
 
 ### STANDARD BOLTS SPECIFICATIONS
-`ssangyong_musso_en_45fa380a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f069e60292bbe43bc355920add8c2e02bdcc4c9b0ce32120b8b795a09c7acec6.jpg)
 
@@ -235,7 +219,6 @@ Vehicle Weights
 ![](images/55d3dbc6c4b5f6103096f4c44b9b0eb2b6a19e77dd0ef6c1726d6296faa61228.jpg)
 
 ### NORMAL VEHICLE USE
-`ssangyong_musso_en_7292ca2a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The maintenance instructions contained in the maintenance schedule are based on the assumption that the vehicle will be used for the following reasons:
 
@@ -243,34 +226,28 @@ To carry passengers and cargo within the limitation of the tire inflation prassu
 To be driven on reasonable road surfaces and within legal operating limits.
 
 ### EXPLANATION OF SCHEDULED MAINTENANCE SERVICES
-`ssangyong_musso_en_ce3b9a07` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The services listed in the maintenance schedule are further explained below. When the following maintenance services are performed, make sure all the parts are replaced and all the necessary repairs are done before driving the vehicle. Always use the proper fluid and lubricants.
 
 ### Engine Oil Viscosity
-`ssangyong_musso_en_34c508eb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Engine oil viscosity (thickness) has an effect on fuel economy and cold weather operation. Lower viscosity engine oils can provide better fuel economy and cold weather performance; however, higher temperature weather conditions require higher viscosity engine oils for satisfactory lubrication. Using oils of any viscosity other than those viscosities recommended could result in engine damage.
 
 ### Cooling System Service
-`ssangyong_musso_en_3f6c7f3d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Drain, flush and refill the system with new coolant. Refer to “Recommended Fluids And Lubricants” in this section.
 
 ### Air Cleaner Element Replacement
-`ssangyong_musso_en_e0828575` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Clean the air cleaner element every.
 
 Gasoline Engine 15,000km (10,000 miles) Diesel Engine 10,000km (6,000 miles) Replace the air cleaner element every Gasoline Engine 60,000km (36,000 miles) Diesel Engine 30,000km (18,000 miles) Replace the air cleaner more often under dusty conditions.
 
 ### Fuel Filter Replacement
-`ssangyong_musso_en_a64d6811` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the engine fuel filter every. Gasoline Engine 60,000km (36,000 miles) Diesel Engine 45,000km (24,000 miles)
 
 ### Spark Plug Replacement
-`ssangyong_musso_en_8c753735` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace spark plugs with same type.
 
@@ -278,31 +255,26 @@ Type BOSCH F8DC4 BERU 14F-8DU4 Champion C11YCC
 Gap 0.8 ± 0.1 mm
 
 ### Spark Plug Wire Replacement
-`ssangyong_musso_en_72f328ea` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Clean wires and inspect them for burns, cracks or other damage. Check the wire boot fit at the Distributor and at the spark plugs. Replace the wires as needed.
 
 ### Brake System Service
-`ssangyong_musso_en_f9602053` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the disc brake pads or the drum brake linings.
 Check the pad and the lining thickness carefully.
 
 ### Tire and Wheel Inspection and Rotation
-`ssangyong_musso_en_d2a0bcaf` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the tires for abnormal wear or damage. To equalize wear and obtain maximum tire life, rotate the tires. If irregular or premature wear exists, check the wheel alignment and check for damaged wheels. While the tires and wheels are removed, inspect the brakes.
 
 ![](images/dab71a68107267277309183007262e4a9f02923d97d0483b75a9db5407f92266.jpg)
 
 ### Chart Symbols:
-`ssangyong_musso_en_5b364a03` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 I - Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace.
 R Replace or change. (1) If vehicle is operated under severe condition short distance driving, extensive idling or driving in dusty condition. Change engine oil and the filter every 7,500 km or 6 months, whichever comes first. (2) More frequent maintenance is required if under dusty driving condition. (3) Refer to “Recommended fluids and lubricants”.
 
 ### Chart Symbols
-`ssangyong_musso_en_be17dbc9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 - Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace.
 
@@ -318,14 +290,12 @@ R - Replace or change.
 (7) If necessary, rotate and balance wheels.
 
 ### Engine
-`ssangyong_musso_en_eb0042d2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8044c3edcddc9cb5c555076f86be1007185273cbdee65a50f2a6dbf06c6692a8.jpg)
 
 NOTE 1 : Injection Timing Adjust as required When excessive smoke is visible (black or white) Poor performance/economy
 
 ### Chart Symbols:
-`ssangyong_musso_en_374d4f75` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 I  - Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace.
 R - Replace or change.
@@ -334,7 +304,6 @@ R - Replace or change.
 (3) Refer to “Recommended fluids and lubricants”.
 
 ### Chart Symbols
-`ssangyong_musso_en_add0c8e5` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 Inspect these items and their related parts. If necessary, correct, clean, replenish, adjust or replace.
 
@@ -351,37 +320,30 @@ R - Replace or change.
 (7) If necessary, rotate and balance wheels.
 
 ### Brake System Operation
-`ssangyong_musso_en_d8f9b929` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be alert for abnormal sounds, increased brake pedal travel or repeated puling to one side when braking. Also, if the brake warning light goes on, or flashes, something may be wrong with part of the brake system.
 
 ### Exhaust System Operation
-`ssangyong_musso_en_2bc8d67f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be alert to any changes in the sound of the system or the smell of the fumes. These are signs that the system may be leaking or overheating. Have the system inspected and repaired immediately.
 
 ### Tires, Wheels and Alignment Operation
-`ssangyong_musso_en_9cc3f826` | musso | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Be alert to any vibration of the steering wheel or the seats at normal highway speeds. This may mean a wheel needs to be balanced. Also, a pull right or left on a straight, level road may show the need for a tire pressure adjustment or a wheel alignment.
 
 ### Steering System Operation
-`ssangyong_musso_en_b250b2f8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be alert to changes in the steering action. An inspection is needed when the steering wheel is hard to turn or has too much free play, or is unusual sounds are noticed when turning or parking.
 
 ### Headlight Aim
-`ssangyong_musso_en_c3bfb424` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Take note of the light pattern occasionally. Adjust the headlights if the beams seem improperly aimed.
 
 ### AT EACH FUEL FILL
-`ssangyong_musso_en_893388bd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A fluid loss in any (except windshield washer) system may indicate a problem. Have the system inspected and repaired immediately.
 
 ### Engine Oil Level
-`ssangyong_musso_en_88a3ba36` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the oil level and add oil if necessary. The best time to check the engine oil level is when the oil is warm.
 
@@ -391,7 +353,6 @@ Check the oil level and add oil if necessary. The best time to check the engine 
 4. Pull out the oil level indicator and look at the oil level on it.
 
 ### WHILE OPERATING THE VEHICLE
-`ssangyong_musso_en_1ecddddd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 5. Add oil, if needed, to keep the oil level above the lower mark. Avoid overfilling the engine, since this may cause engine damage.
 6. Push the indicator all the way back down into the engine after taking the reading.
@@ -399,92 +360,74 @@ Check the oil level and add oil if necessary. The best time to check the engine 
 If you check the oil level when the oil is cold, do not run the engine first. The cold oil will not drain back to the pan fast enough to give a true oil level reading.
 
 ### Engine Coolant Level and Condition
-`ssangyong_musso_en_c894d7ca` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the coolant level in the coolant reservoir tank and add coolant if necessary. Inspect the coolant. Replace dirty or rusty coolant.
 
 ### Tire And Wheel Inspection and Pressure Check
-`ssangyong_musso_en_c1a6b492` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the tire for abnormal wear or damage. Also check for damaged wheels. Check the tire pressure when the tires are cold ( check the spare also, unless it is a stowaway). Maintain the recommended pressures. Refer to “Tire and Wheel” is in section 0B.
 
 ### Light Operation
-`ssangyong_musso_en_2251dd23` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the operation of the license plate light, the headlights (including the high beams), the parking lights, the fog lights, the taillight, the brake lights, the turn signals, the backup lights and the hazard warning flasher.
 
 ### Fluid Leak Check
-`ssangyong_musso_en_064e8d3d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Periodically inspect the surface beneath the vehicle for water, oil, fuel or other fluids, after the vehicle has been parked for a while. Water dripping from the air conditioning system after use is normal. If you notice fuel leaks or fumes, find the cause and correct it at once.
 
 ### Power Steering System Reservoir Level
-`ssangyong_musso_en_df2cfa35` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the power steering fluid level. Keep the power steering fluid at the proper level. Refer to Section 6A, Power Ste ring System.
 
 ### Brake Master Cylinder Reservoir Level
-`ssangyong_musso_en_80416bdd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the fluid and keep it at the proper level. A low fluid level can indicate worn disc brake pads which may need to be serviced. Check the breather hole in the reservoir cover to be free from dirt and check for an open passage.
 
 ### EACH TIME THE OIL IS CHANGED Brake System Inspection
-`ssangyong_musso_en_55271454` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This inspection should be done when the wheels are removed for rotation. Inspect the lines and the hoses for proper hookup, binding, leaks, cracks, chafing, etc. Inspect the disc brake pads for wear. Inspect the rotors for surface condition. Inspect other brake parts, the parking brake, etc., at the same time. Inspect the brakes more often f habit or conditions result in frequent braking.
 
 ### Steering, Suspension and Front Drive Axle Boot And Seal Inspection
-`ssangyong_musso_en_59faf71a` | musso | pdf_manual | tier:4 | lang:en | layer:steering | p:1 | doc_type:service_manual
 
 Inspect the front and rear suspension and the steering system for damaged, loose or missing parts, signs of wear or lack of lubrication. Inspect the power steering line and the hoses for proper hookup, binding, leaks, cracks, chafing, etc. Clean and inspect the drive axle boot and seals for damage, tears or leakage. Replace the seals if necessary.
 
 ### Exhaust System Inspection
-`ssangyong_musso_en_86294586` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Inspect the complete system (including the catalytic converter if equipped). Inspect the body near the exhaust system. Look for broken, damaged, missing, or out-ofposition parts as well as open seams, holes, loose connections, or other conditions which could cause heat buildup in the floor pan or could let exhaust fumes seep into the trunk or passenger compartment.
 
 ### Throttle Linkage Inspection
-`ssangyong_musso_en_ea745e54` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Inspect the throttle linkage for interference or binding, damaged, or missing parts. Lubricate all linkage joints and throttle cable joints, the intermediate throttle shaft bearing, the return spring at throttle valve assembly, and the accelerator pedal sliding face with suitable grease. Check the throttle cable for free movements.
 
 ### Engine Drive Belts
-`ssangyong_musso_en_22dec322` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Inspect all belts for cracks, fraying, wear and proper tension. Adjust or replace the belts as needed.
 
 ### Hood Latch Operation
-`ssangyong_musso_en_fa6e9861` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When opening the hood, note the operation of the secondary latch. It should keep the hood from opening all the way when the primary latch is released. The hood must close firmly.
 
 ### Lap and Shoulder Belts Condition and Operation
-`ssangyong_musso_en_01961a8d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Inspect the belt system including: the webbing, the buckles, the latch plates, the retractor, the guide loops and the anchors.
 
 ### Spare Tire and Jack Storage
-`ssangyong_musso_en_c6ea831a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be alert to rattles in the rear of the vehicle. The spare tire, all the jacking equipment, and the tools must be securely stowed at all times. Oil the jack ratchet or the screw mechanism after each use.
 
 ### Body Lubrication Service
-`ssangyong_musso_en_92cc29e8` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Lubricate all the body door hinges including the hood, the fuel door, the rear compartment hinges and the latches, the glove box and the console doors, and any folding seat hardware.
 
 ### Underbody Flushing
-`ssangyong_musso_en_1a0e5b41` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Flushing the underbody will remove any corrosive materials used for ice and snow removal and dust control. At least every spring clean the underbody. First, loosen the sediment packed in closed areas of the vehicle. Then flush the underbody with plain water.
 
 ### Engine Cooling System
-`ssangyong_musso_en_fd8c7e05` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Inspect the coolant and freeze protection fluid. If the fluid is dirty or rusty, drain, flush and refill the engine cooling system with new coolant. Keep the coolant at the proper mixture in order to ensure proper freeze protection, corrosion protection and engine operating temperature. Inspect the hoses. Replace the cracked, swollen, or deteriorated hoses. Tighten the clamps. Clean the outside of the radiator and the air conditioning condenser. Wash the filler cap and the neck. Pressure test the cooling system and the cap in order to help ensure proper operation.
 
 ### GENERAL REPAIR INSTRUCTIONS
-`ssangyong_musso_en_ece15359` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 If a floor jack is used, the following precautions are recommended.
 
@@ -502,7 +445,6 @@ Carefully observe all specifications for bolt and nut torques.
 When service operation is completed, make a final check to be sure service was done properly and the problem was corrected.
 
 ### VEHICLE IDENTIFICATION NUMBER SYSTEM
-`ssangyong_musso_en_6dff6cfc` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 12\~17.Production Serial Number : 000001 999999
 11.Plant Code P : PyongTaek Plant
@@ -532,28 +474,24 @@ When service operation is completed, make a final check to be sure service was d
 1. Nation : K
 
 ### Manufacturer’s Plate
-`ssangyong_musso_en_674e3616` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/31581b24841c13c1c1a6faff47c42cf7a0c10009652d56a6c27a59f81f7fd254.jpg)
 
 1.Type Approval No. 2.Vehicle Identification Number.
 
 ### Manufacturer’s Plate Location
-`ssangyong_musso_en_ea6f2b7d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/dc40eb44c232b4616b46fef21afe6845359245351e8b0901da3a56295664691f.jpg)
 
 ![](images/34f4cf9a54926d60d49c17ccd099b49bf5bb812008dadeb98399738f4dd079c2.jpg)
 
 ### Engine Number Location
-`ssangyong_musso_en_9f2a8824` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f7aa12435c6ece4d96dcc9b20173a4fd55647f9b5273aa3864b684ee56a44c8c.jpg)
 
 ![](images/a4a7c03352011aa0925d71b1a59f453541fe6245e6c040113cda6a2a0ae482a8.jpg)
 
 ### IL6 3200
-`ssangyong_musso_en_cfa3bf0c` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The engine number is stamped on the cylinder block in front of injection pump.
 
@@ -562,21 +500,18 @@ The engine number is stamped on the lower rear side of the alternator.
 ![](images/355e2b057f2d8bdc83d2370c6ca1b63c26093be71831aa30fe608c046c598bed.jpg)
 
 ### VEHICLE LIFTING PROCEDURES
-`ssangyong_musso_en_b7ae22da` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 To raise the vehicle, place the lifting equipment only at the points indicated. Failure to use these precise positions may result in permanent vehicle body deformation.
 
 Many dealer service facilities and service stations are equipped with automative hoists that bear upon some parts of the frame in order to lift the vehicle. If any other hoist method is used, take special care to avoid damaging the fuel tank, the filter neck, the exhaust system, or the underbody.
 
 ### Vehicle Lifting Points
-`ssangyong_musso_en_0339dc22` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f1a0b6e0caa32feb9b50f7b38af0793b38e007194bc0d83ee04bf5ba4129fc9a.jpg)
 
 Using Jack (Forward of Rear Tire)
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_14bf6d24` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Specifications 1A1-1
 Engine Specifications 1A1-1
@@ -598,7 +533,6 @@ Cleanliness and Care 1A1-13
 On-Engine Service 1A1-13
 
 ### FRONT VIEW
-`ssangyong_musso_en_7166e3ec` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ![](images/68e560edf73519e9d997028b2cb26510ef7b25a8e946e219a719f528864b8381.jpg)
 
@@ -626,7 +560,6 @@ On-Engine Service 1A1-13
 22 Drain Plug
 
 ### SIDE VIEW
-`ssangyong_musso_en_069b8392` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8be5ccd2748d93e1181db3f91c05bd8078c4a84ee33a13f0c42946f4f8864a58.jpg)
 
@@ -640,19 +573,16 @@ On-Engine Service 1A1-13
 30 Oil Pump
 
 ### E32 ENGINE
-`ssangyong_musso_en_112ed998` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/13b0d2e15698c2caa5711ea7fd88c8bd001f714a4556da105c2dcdff85c6f701.jpg)
 
 ![](images/8a546833c20d49d9bf3ecf86dd5be13b77109dd0c8106cf23b1004cd28c1e22f.jpg)
 
 ### OIL LEAK DIAGNOSIS
-`ssangyong_musso_en_f9b3ef20` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Most fluid oil leaks are easily located and repaired by visually finding the leak and replacing or repairing the necessary parts. On some occasions a fluid leak may be difficult to locate or repair. The following procedures may help you in locating and repairing most leaks.
 
 ### Finding the Leak
-`ssangyong_musso_en_1f330259` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Identify the fluid. Determine whether it is engine oil, automatic transmission fluid, power steering fluid, etc.
 
@@ -661,7 +591,6 @@ Most fluid oil leaks are easily located and repaired by visually finding the lea
 4. If the leak still cannot be found, it may be necessary to clean the suspected area with a degreaser, steam or spray solvent. 4.1 Clean the area well. 4.2 Dry the area. 4.3 Operate the vehicle for several miles at normal operating temperature and varying speeds. 4.4 After operating the vehicle, visually check the suspected component. 4.5 If you still cannot locate the leak, try using the powder or black light and dye method.
 
 ### Powder Method
-`ssangyong_musso_en_3a1b7f38` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Clean the suspected area.
 2. Apply an aerosol-type powder (such as foot powder) to the suspected area.
@@ -669,7 +598,6 @@ Most fluid oil leaks are easily located and repaired by visually finding the lea
 4. Visually inspect the suspected component. You should be able to trace the leak path over the white powder surface to the source.
 
 ### Black Light and Dye Method
-`ssangyong_musso_en_6b826c26` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A dye and light kit is available for finding leaks, Refer to the manufacturer's directions when using the kit.
 
@@ -679,12 +607,10 @@ A dye and light kit is available for finding leaks, Refer to the manufacturer's 
 3. Direct the light toward the suspected area. The dyed fluid will appear as a yellow path leading to the source.
 
 ### Repairing the Leak
-`ssangyong_musso_en_772c466f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Once the origin of the leak has been pinpointed and traced back to its source, the cause of the leak must be determined n order for it to be repaired properly. If a gasket is replaced, but the sealing flange is bent, the new gasket will not repair the leak. The bent flange must be repaired also. Before attempting to repair a leak, check for the following conditions and correct them as they may cause a leak.
 
 ### Gaskets
-`ssangyong_musso_en_1010b95d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The fluid level/pressure is too high.
 The crankcase ventilation system is malfunctioning.
@@ -696,7 +622,6 @@ There is cracking or porosity of the component.
 An improper seal was used (where applicable).
 
 ### Seals
-`ssangyong_musso_en_c614a79c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The fluid level/pressure is too high.
 The crankcase ventilation system is malfunctioning.
@@ -708,7 +633,6 @@ The shaft surface is scratched, nicked or damaged.
 A loose or worn bearing is causing excess seal wear.
 
 ### ENGINE CRANKING AT THE FRONT OF CRANKSHAFT
-`ssangyong_musso_en_062c40ae` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cooling fan
 
@@ -717,7 +641,6 @@ Preceding Work Removal of cooling fan
 3 Bolt 8.6 ± 0.9 Nm
 
 ### Notice
-`ssangyong_musso_en_5725b0b6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remove the negative ground cable before proceeding the work.
 Rotate the pulley in normal engine rotating direction when cranking.
@@ -725,7 +648,6 @@ Rotate the pulley in normal engine rotating direction when cranking.
 Tools Required 000 589 10 99 01 Torque wrench 001 589 65 09 00 Socket
 
 ### COMPRESSION PRESSURE TEST
-`ssangyong_musso_en_dbb60603` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/4c341e7ec568adc97bb5acdb389f2e6b24221a6d682dcf7584e4b3e41eb3bc30.jpg)
 
@@ -735,7 +657,6 @@ Tools Required 000 589 10 99 01 Torque wrench 001 589 65 09 00 Socket
 34 Adaptor Sealing Cone
 
 ### Measuring Procedure
-`ssangyong_musso_en_cc4ceac3` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Warm the engine up to normal operating temperature.
 2. Remove the spark plugs.
@@ -747,12 +668,10 @@ Tools Required 000 589 10 99 01 Torque wrench 001 589 65 09 00 Socket
 8. If measured value is not within the specifications, perform the cylinder pressure leakage test.
 
 ### Notice
-`ssangyong_musso_en_078012b8` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Discharge the combustion residues in the cylinders before testing the compression pressure. Apply the parking brake before cranking the engine.
 
 ### Leakage Test
-`ssangyong_musso_en_5b214385` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Warm the engine up to normal operating temperature.
 2. Disconnect the negative battery cable.
@@ -769,14 +688,12 @@ Discharge the combustion residues in the cylinders before testing the compressio
 9. Connect the connecting hose to tester and measure the leakage volume after blowing up 5bar of compressed air.
 
 ### Notice
-`ssangyong_musso_en_3bff281b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Measure the leakage volume in the completely opening condition of throttle valve by pulling the acceleration cable.
 
 10. Perform the pressure test according to the firing order.
 
 ### CLEANLINESS AND CARE
-`ssangyong_musso_en_8bc5b849` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 An automobile engine is a combination of many machined, honed, polished and lapped surfaces with tolerances that are measured in the ten-thousanths of an inch. When any internal engine parts are serviced, care and cleanliness are important. A liberal coating of enigne oil should be applied to friction areas during assembly, to protect and lubricate the surfaces on initial operation. Proper cleaning and protection of machined surfaces and friction areas is part of the repair procedure. This is considered standard shop practice even if not specifically stated.
 
@@ -785,14 +702,12 @@ Whenever valve train components are removed for service, they should be kept in 
 Battery cables should be disconnected before any major work is performed on the engine. Failure to disconnect cables may result in damage to wire harness or other electrical parts.
 
 ### ON-ENGINE SERVICE
-`ssangyong_musso_en_d3de9185` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Caution: Discon ect the negative batery cable before removing or instaling any electrical unit, or when a to l or equipment could easily come in contact with exposed electrical terminals. Discon ecting this cable wil helppreventpersonal injuryand damageto the vehicle. Theignition must alsobeinLOCK unles otherwise noted.
 
 Notice: Any time the air cleaner is removed, the intake opening should be covered. This will protect against accidental entrance of foreign material, which could follow the intake passage into the cylinder and cause extensive damage when the engine is started.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_8834a28e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications. 1A2-1
 Engine Specifications 1A2-1
@@ -806,7 +721,6 @@ Special Tools 1A2-7
 Special Tools Table 1A2-7
 
 ### Diagnosis 1A2-8
-`ssangyong_musso_en_e70b0b31` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Oil Leak Diagnosis 1A2-8
 Engine Cranking At The
@@ -818,7 +732,6 @@ Cleanliness and Care 1A2-14
 On-Engine Service 1A2-14
 
 ### FRONT VIEW
-`ssangyong_musso_en_d42f5e12` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ![](images/1e8e3815689352a80f8775b8d6ed5d5d118fe113e8604be93fdef3de3b599a2b.jpg)
 
@@ -846,7 +759,6 @@ On-Engine Service 1A2-14
 22 Oil Pan
 
 ### SIDE VIEW
-`ssangyong_musso_en_56f71d72` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ![](images/031a84e34c15637fda8afacde22e1984db3dca10fe04d38d9301573638d45079.jpg)
 
@@ -863,19 +775,16 @@ On-Engine Service 1A2-14
 33 Piston
 
 ### E20 ENGINE
-`ssangyong_musso_en_a7f208e1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c86a7112ea491ea70a6fc608973c3d6c8c981ac083f5089b8bf4de652bca6344.jpg)
 
 ![](images/e276270c4b51cd85c60d66f81a8e600a8d2e8ac2239b85ec3913bc5b0f3bee8b.jpg)
 
 ### Black Light and Dye Method
-`ssangyong_musso_en_f9b3ef20` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Most fluid oil leaks are easily located and repaired by visually finding the leak and replacing or repairing the necessary parts. On some occasions a fluid leak may be difficult to locate or repair. The following procedures may help you in locating and repairing most leaks.
 
 ### Finding the Leak
-`ssangyong_musso_en_1f330259` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Identify the fluid. Determine whether it is engine oil, automatic transmission fluid, power steering fluid, etc.
 
@@ -884,7 +793,6 @@ Most fluid oil leaks are easily located and repaired by visually finding the lea
 4. If the leak still cannot be found, it may be necessary to clean the suspected area with a degreaser, steam or spray solvent. 4.1 Clean the area well. 4.2 Dry the area. 4.3 Operate the vehicle for several miles at normal operating temperature and varying speeds. 4.4 After operating the vehicle, visually check the suspected component. 4.5 If you still cannot locate the leak, try using the powder or black light and dye method.
 
 ### Powder Method
-`ssangyong_musso_en_3a1b7f38` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Clean the suspected area.
 2. Apply an aerosol-type powder (such as foot powder) to the suspected area.
@@ -898,12 +806,10 @@ A dye and light kit is available for finding leaks, Refer to the manufacturer's 
 3. Direct the light toward the suspected area. The dyed fluid will appear as a yellow path leading to the source.
 
 ### Repairing the Leak
-`ssangyong_musso_en_772c466f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Once the origin of the leak has been pinpointed and traced back to its source, the cause of the leak must be determined n order for it to be repaired properly. If a gasket is replaced, but the sealing flange is bent, the new gasket will not repair the leak. The bent flange must be repaired also. Before attempting to repair a leak, check for the following conditions and correct them as they may cause a leak.
 
 ### Gaskets
-`ssangyong_musso_en_1010b95d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The fluid level/pressure is too high.
 The crankcase ventilation system is malfunctioning.
@@ -915,7 +821,6 @@ There is cracking or porosity of the component.
 An improper seal was used (where applicable).
 
 ### Seals
-`ssangyong_musso_en_c614a79c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The fluid level/pressure is too high.
 The crankcase ventilation system is malfunctioning.
@@ -927,7 +832,6 @@ The shaft surface is scratched, nicked or damaged.
 A loose or worn bearing is causing excess seal wear.
 
 ### ENGINE CRANKING AT THE FRONT OF CRANKSHAFT
-`ssangyong_musso_en_af2c3d48` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cooling fan
 
@@ -938,7 +842,6 @@ Preceding Work Removal of cooling fan
 4 Center Bolt (M18 55, 1piece) 1st Step 200Nm + 20Nm 2nd Step 90° + 10°
 
 ### Notice
-`ssangyong_musso_en_8e16437a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remove the negative ground cable before proceeding the work.
 Rotate the pulley in normal engine rotating direction when cranking.
@@ -946,7 +849,6 @@ Rotate the pulley in normal engine rotating direction when cranking.
 Tools Required 000 589 10 99 01 Torque Wrench 001 589 65 09 00 Socket
 
 ### COMPRESSION PRESSURE TEST
-`ssangyong_musso_en_b817ec83` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/697461fbdbb086dc92f7271f8a8dc673760da8eea0378b2e669b87cf54d02caf.jpg)
 
@@ -956,7 +858,6 @@ Tools Required 000 589 10 99 01 Torque Wrench 001 589 65 09 00 Socket
 4 Sealing Cone
 
 ### Measuring Procedure
-`ssangyong_musso_en_cc4ceac3` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Warm the engine up to normal operating temperature.
 2. Remove the spark plugs.
@@ -968,12 +869,10 @@ Tools Required 000 589 10 99 01 Torque Wrench 001 589 65 09 00 Socket
 8. If measured value is not within the specifications, perform the cylinder pressure leakage test.
 
 ### Notice
-`ssangyong_musso_en_078012b8` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Discharge the combustion residues in the cylinders before testing the compression pressure. Apply the parking brake before cranking the engine.
 
 ### CYLINDER PRESSURE LEAKAGE TEST
-`ssangyong_musso_en_1dfe8f00` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f2fc35da5511c9840700f36ff4e7011d7d44c8b21f4399985c71f4be08633e7d.jpg)
 
@@ -982,7 +881,6 @@ Discharge the combustion residues in the cylinders before testing the compressio
 6 Cylinder Pressure Leakage Tester with Connecting Hose
 
 ### Leakage Test
-`ssangyong_musso_en_5b214385` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Warm the engine up to normal operating temperature.
 2. Disconnect the negative battery cable.
@@ -999,14 +897,12 @@ Discharge the combustion residues in the cylinders before testing the compressio
 9. Connect the connecting hose to tester and measure the leakage volume after blowing up 5bar of compressed air.
 
 ### Notice
-`ssangyong_musso_en_3bff281b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Measure the leakage volume in the completely opening condition of throttle valve by pulling the acceleration cable.
 
 10. Perform the pressure test according to the firing order.
 
 ### ON-ENGINE SERVICE
-`ssangyong_musso_en_8bc5b849` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 An automobile engine is a combination of many machined, honed, polished and lapped surfaces with tolerances that are measured in the ten-thousanths of an inch. When any internal engine parts are serviced, care and cleanliness are important. A liberal coating of enigne oil should be applied to friction areas during assembly, to protect and lubricate the surfaces on initial operation. Proper cleaning and protection of machined surfaces and friction areas is part of the repair procedure. This is considered standard shop practice even if not specifically stated.
 
@@ -1019,7 +915,6 @@ Caution: Discon ect the negative batery cable before removing or instaling any e
 Notice: Any time the air cleaner is removed, the intake opening should be covered. This will protect against accidental entrance of foreign material, which could follow the intake passage into the cylinder and cause extensive damage when the engine is started.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_acdbe07a` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Specifications. 1A3-1
 Engine Specifications 1A3-1
@@ -1040,12 +935,10 @@ Cleanliness and Care 1A3-15
 On-Engine Service 1A3-15
 
 ### OIL LEAK DIAGNOSIS
-`ssangyong_musso_en_abdef64d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Most fluid oil leaks are easily located and repaired by visually finding the leak and replacing or repairing the necessary parts. On some occasions a fluid leak may be d i ff i c u l t to locate or repair. The following procedures may help you in locating and repairing most leaks.
 
 ### Finding the Leak
-`ssangyong_musso_en_ae7876d2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Identify the fluid. Determine whether it is engine oil, automatic transmission fluid, power steering fluid, etc.
 2. Identify where the fluid is leaking from. 2.1 After running the vehicle at normal operating temperature, park the vehicle over a large sheet of paper. 2.2 Wait a few minutes. 2.3 You should be able to find the approximate location of the leak by the drippings on the paper.
@@ -1053,7 +946,6 @@ Most fluid oil leaks are easily located and repaired by visually finding the lea
 4. If the leak s t i l l cannot be found, it may be necessary to clean the suspected area with a degreaser, steam or spray solvent. 4.1 Clean the area well. 4.2 Dry the area. 4.3 Operate the vehicle for several miles at normal operating temperature and varying speeds. 4.4 After operating the vehicle, visually check the suspected component. 4.5 If you still cannot locate the leak, try using the powder or black light and dye method.
 
 ### Powder Method
-`ssangyong_musso_en_ff6b0010` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Clean the suspected area.
 2. Apply an aerosol-type powder (such as foot powder) to the suspected area.
@@ -1061,7 +953,6 @@ Most fluid oil leaks are easily located and repaired by visually finding the lea
 4. Visually inspect the suspected component. You should be able to trace the leak path over the white powder surface to the source.
 
 ### Black Light and Dye Method
-`ssangyong_musso_en_eb36f3f6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A dye and light kit is available for finding leaks, Refer to the manufacturer's directions when using the kit.
 
@@ -1070,12 +961,10 @@ A dye and light kit is available for finding leaks, Refer to the manufacturer's 
 3. Direct the light toward the suspected area. The dyed fluid will appear as a yellow path leading to the source.
 
 ### Repairing the Leak
-`ssangyong_musso_en_772c466f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Once the origin of the leak has been pinpointed and traced back to its source, the cause of the leak must be determined n order for it to be repaired properly. If a gasket is replaced, but the sealing flange is bent, the new gasket will not repair the leak. The bent flange must be repaired also. Before attempting to repair a leak, check for the following conditions and correct them as they may cause a leak.
 
 ### Gaskets
-`ssangyong_musso_en_1010b95d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The fluid level/pressure is too high.
 The crankcase ventilation system is malfunctioning.
@@ -1087,7 +976,6 @@ There is cracking or porosity of the component.
 An improper seal was used (where applicable).
 
 ### Seals
-`ssangyong_musso_en_c614a79c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The fluid level/pressure is too high.
 The crankcase ventilation system is malfunctioning.
@@ -1099,7 +987,6 @@ The shaft surface is scratched, nicked or damaged.
 A loose or worn bearing is causing excess seal wear.
 
 ### Service Data
-`ssangyong_musso_en_499f2fe0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/1cfc8e708544a44fb52c6f1f5a61a85e4cb7e22aaa41d70ce03180b9778916ae.jpg)
 
@@ -1108,7 +995,6 @@ lEngine at normal operating temperature of 80°C
 Tools Required 000 589 65 09 00 Socket 001 589 73 21 00 Hand Vacuum Pump
 
 ### Notice
-`ssangyong_musso_en_dcb1c524` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Ensure that no gear is engaged and that the vehicle is protected from rolling.
 
@@ -1135,7 +1021,6 @@ Hand Vacuum Pump 001 589 73 21 00
 7. Measure the remaining cylinder compression pressure in the same manner and compare it with service data.
 
 ### Notice
-`ssangyong_musso_en_29222fb9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If out of standard, do cylinder pressure leakage test.
 
@@ -1148,7 +1033,6 @@ If out of standard, do cylinder pressure leakage test.
 ![](images/1ce6103d51ba908d1dee27ce5c4a766cb045cb2883ffe5ffb0fecb45b37762df.jpg)
 
 ### Leakage Test
-`ssangyong_musso_en_2a4509e1` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Run the engine to be the coolant temperature 80°C.
 2. Remove the fuel injection nozzle.
@@ -1172,7 +1056,6 @@ If out of standard, do cylinder pressure leakage test.
 ![](images/63d9d56c10daa7cd5c80563540e4d74c042846eaec967c653dcbcc2784f7ddb9.jpg)
 
 ### CLEANLINESS AND CARE
-`ssangyong_musso_en_8bc5b849` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 An automobile engine is a combination of many machined, honed, polished and lapped surfaces with tolerances that are measured in the ten-thousanths of an inch. When any internal engine parts are serviced, care and cleanliness are important. A liberal coating of enigne oil should be applied to friction areas during assembly, to protect and lubricate the surfaces on initial operation. Proper cleaning and protection of machined surfaces and friction areas is part fo the repair procedure. This is considered standard shop practice even if not specifically stated.
 
@@ -1181,19 +1064,16 @@ Whenever valve train components are removed for service, they should be kept in 
 Battery cables should be disconnected before any major work is performed on the engine. Failure to disconnect cables may result in damage to wire harness or other electrical parts.
 
 ### ON-ENGINE SERVICE
-`ssangyong_musso_en_939928b0` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Caution: Discon ect the negative batery cable before removing or instaling any electrical unit, or when a to lorequipment could easily come n contact with exposed electrical terminals. Disconnecting this cable wil help prevent personal injuryand damage to the vehicle. The ignition must also be n LOCK unle s otherwise noted.
 
 Notice: Any time the air cleaner is removed, the intake opening should be covered. This will protect against accidental entrance of foreign material, which could follow the intake passage into the cylinder and cause extensive damage when the engine is started.
 
 ### M162 ENGINE MECHANICAL
-`ssangyong_musso_en_b688cb01` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 CAUTION: Discon ectthenegativebaterycablebeforeremovingorinstalinganyelectricalunitorwhena to l orequipmentcouldeasilycomeincontactwithexposed electrical terminals. Discon ectingthiscable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_e63985b6` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Specifications 1B1-2
 Fastener Tightening Specifications . 1B1-2
@@ -1251,14 +1131,12 @@ Crankcase Mating Surface 1B1-113
 Cylinder Head Mating Surface 1B1-115
 
 ### SPECIAL TOOLS
-`ssangyong_musso_en_ccb7a195` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 SPECIAL TOOLS TABLE
 
 ![](images/a6133ab7da87e25a67d62e8804e324cc8bc92d497c98f711265a397f78a410fd.jpg)
 
 ### Installation Notice
-`ssangyong_musso_en_1e7a8a18` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/cdf4648bcfbf2a87a58c080fc85bb889dcc6d57de582d6fde052c32a79ad1cc9.jpg)
 
@@ -1277,7 +1155,6 @@ SPECIAL TOOLS TABLE
 7. Loosen the cylinder block drain plug and then drain the coolant completely.
 
 ### Notice
-`ssangyong_musso_en_28edfe91` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the seal before installation of the drain plug.
 
@@ -1310,7 +1187,6 @@ Replace the seal before installation of the drain plug.
 14. Remove the fuel feed and return line.
 
 ### Installation Notice
-`ssangyong_musso_en_03b76d99` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9f5090b7937a97463511852954a53136b2b395d3a55fa550377a5ccdd521ef3d.jpg)
 
@@ -1390,7 +1266,6 @@ Installation Notice
 33. Installation should follow the removal procedure in the reverse order.
 
 ### CRANKCASE VENTILATION SYSTEM
-`ssangyong_musso_en_f88d0b8e` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ![](images/8cc558520893a27895e0472a1a3be90d34c52679a60bff5fc65b633c977c2be6.jpg)
 
@@ -1420,7 +1295,6 @@ B Blowby Gas in Partial Load
 C Blowby Gas in Full Load
 
 ### Operation at Idling and Mid-Load
-`ssangyong_musso_en_7c463a63` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 It show that the throttle valve (19) is closed or very partially opened and the vacuum pressure in intake manifold is high.
 
@@ -1433,14 +1307,12 @@ The vacuum pressure generated at the crankcase sucks fresh air from intake air l
 The fresh air prevents engine oil from being contami-nated and the air admission and vent connection (17,18) is designed to control the rapid pressure changes in intake air line (13).
 
 ### Operation at Full-Load
-`ssangyong_musso_en_7b981ccd` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The throttle valve (19) is fully opened.
 
 All the blowby gases flow into the intake air duct (13) after passing through the oil separator (15,16) of the cylinder head cover (14) when fully loaded. This dilluted air will be supplied to the combustion chamber through the intake manifold (12).
 
 ### ALTERNATOR
-`ssangyong_musso_en_e22b4861` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b5f8f10aeb81f967b147bfba67d136511ebeee3d8165d8ec66d1f58ce9970b4a.jpg)
 
@@ -1449,14 +1321,12 @@ All the blowby gases flow into the intake air duct (13) after passing through th
 3 Bolt (M8 x 40, 1 piece)   22.5-27.5 Nm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_ba536181` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the drive belt.
 2. Remove the alternator.
 3. Unscrew the alternator carrier bolts and remove the carrier.
 
 ### Installation Notice
-`ssangyong_musso_en_cf8097d5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f12a412f03866b498d36ff5f9b56c74cadf69a8db07961d2baad0367daa21f3d.jpg)
 
@@ -1465,7 +1335,6 @@ All the blowby gases flow into the intake air duct (13) after passing through th
 ![](images/d3a5e92b1a7b29bdc7bcc9c7399e3af0f82ca4ff783e6cf85effb8aef2eed954.jpg)
 
 ### POWER STEERING PUMP AND A/C BRACKET
-`ssangyong_musso_en_1ac8420b` | musso | pdf_manual | tier:4 | lang:en | layer:steering | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cooling fan and shroud
 
@@ -1487,7 +1356,6 @@ M8 x 95, 2 pieces) 22.5-27.5 Nm
 13 Nut 40.5-49.5 Nm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_d548e5ca` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the belt pulley.
 
@@ -1496,7 +1364,6 @@ Installation Notice
 ![](images/522e300208e5719cbfad3aa191a033db459a8609619362b8c05ede4f81a896bb.jpg)
 
 ### Notice
-`ssangyong_musso_en_3f803839` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Pull the tensioning pulley clockwise as shown in the figure.
 
@@ -1517,7 +1384,6 @@ Installation Notice
 4. Remove the compressor after disconnecting the wiring connector and refrigerant pipe of A/C compressor.
 
 ### Notice
-`ssangyong_musso_en_5d1ef96b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Discharge all the refrigerant before removing the pipes.
 
@@ -1530,7 +1396,6 @@ Discharge all the refrigerant before removing the pipes.
 ![](images/7a8140d5f752c5b04b0f562a8e554262c11b8df070e58113ecc7c030b7a8279a.jpg)
 
 ### Installation Notice
-`ssangyong_musso_en_0be31cbd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/be32770254fe59f5cbe0ed28c4f779d7f49ab544f8ba346cd360700259e57e83.jpg)
 
@@ -1540,7 +1405,6 @@ Discharge all the refrigerant before removing the pipes.
 10. Check the oil leakage by operating the engine after installation.
 
 ### Sectional View
-`ssangyong_musso_en_3134b550` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2c7d5d5e323491a05893d69a5dd1bc9efb4a8817132efdcae24e9660848b0e13.jpg)
 
@@ -1567,14 +1431,12 @@ Discharge all the refrigerant before removing the pipes.
 ![](images/aa31dcfc7593a6a1f99252b0a0dc7c14627d2aaf94780ae323363735f2995e28.jpg)
 
 ### Installation Notice
-`ssangyong_musso_en_8a2c2d8a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/27836a096beb3dbe71809dd9756fc354cd4a9bd600cc68d9ebecd7eab693c125.jpg)
 
 2. Unscrew the lower nut(3) and remove the hydraulic engine mounting insulator.
 
 ### Notice
-`ssangyong_musso_en_c5be1f46` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the insulator is spotted with oil, replace the hydraulic insulator assembly.
 
@@ -1583,20 +1445,17 @@ If the insulator is spotted with oil, replace the hydraulic insulator assembly.
 ![](images/1de7db0127f7868c457c3cc5a317f120dad7221f1b8b8900cae8b2b67d67cb75.jpg)
 
 ### POLY V - BELT
-`ssangyong_musso_en_5fafea1f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cooling fan
 
 ![](images/c5aab710c5bd6a5f9580f61d9320b58ca1c4ebb67ad86bac38635b02f86b247e.jpg)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_8cc47a05` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Release the belt tension by turning the belt tensioning pulley nut clockwise.
 2. Remove the poly v-belt.
 
 ### Notice
-`ssangyong_musso_en_49cc4471` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the belt for damage and tensioning pulley bearing point for wear and replace them if necessary.
 
@@ -1605,7 +1464,6 @@ Check the belt for damage and tensioning pulley bearing point for wear and repla
 ![](images/d643bc103b3fb75a7544445e5efdf3855ad048e5d8201bedc959c997376de89c.jpg)
 
 ### Poly V-Belt Arrangement
-`ssangyong_musso_en_c6871961` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/96104c5d8a9a748a841dbd06b67e5ce84c4624ed53da69d1d44d639285069500.jpg)
 
@@ -1619,7 +1477,6 @@ Check the belt for damage and tensioning pulley bearing point for wear and repla
 8 Cooling Fan and Water Pump Pulley
 
 ### TENSIONING DEVICE
-`ssangyong_musso_en_748929fa` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of poly v-belt
 
@@ -1632,12 +1489,10 @@ Preceding Work Removal of poly v-belt
 5 Tensioning Pulley
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_25f03301` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the poly v-belt. 2. Remove the tensioning pulley by turning its mounting nut counter clockwise as shown in figure.
 
 ### Installation Notice
-`ssangyong_musso_en_7eaf346f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f6e271c7c1684db12460144bd02b25e5dbdd2217dd1a8925fe665766e5b1ab29.jpg)
 
@@ -1646,14 +1501,12 @@ Preceding Work Removal of poly v-belt
 3. Remove the 3 bolts (2) and remove the water pump pulley (arrow).
 
 ### Installation Notice
-`ssangyong_musso_en_147b44dc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c675f79819035b7c291fcead0bd6202fcb723f373acd4dc258f36b198364383e.jpg)
 
 4. Remove the mounting bolts(M8 x 30, 3 pieces) at the tensioning device, and remove the tensioning device (arrow).
 
 ### Installation Notice
-`ssangyong_musso_en_9af11186` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/61c2d256f1a7b80593a0862915c1b609140b55de7629b401495b86b027f8ee73.jpg)
 
@@ -1662,7 +1515,6 @@ Preceding Work Removal of poly v-belt
 ![](images/f1240b9f8c710001da6bcc5bed2fedd2df12165ba6d257aa7961a09b92a95a28.jpg)
 
 ### Notice
-`ssangyong_musso_en_6fc4cf39` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If one of the following types of damages is found, replace the belt.
 
@@ -1691,7 +1543,6 @@ If one of the following types of damages is found, replace the belt.
 11. Splits across the back of the belt.
 
 ### CYLINDER HEAD COVER
-`ssangyong_musso_en_a1cde5a8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ece1f64577eb241c402f965ee9b9e39aea1847c12eee6b8fc5a4ada1f92cfa6d.jpg)
 
@@ -1704,14 +1555,12 @@ If one of the following types of damages is found, replace the belt.
 67 Cylinder Head Cover Gasket Replace 8 Spart Plug Hole Seal Replace 9 Camshaft Seal Replace
 
 ### Composition of The Cylinder Head Cover Bolts
-`ssangyong_musso_en_cc34461f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A. M6 x 50, 4 Pieces Bolts + Washers B. M6 x 65, 8 Pieces Bolts + Washers
 
 ![](images/e6ff467c069542a98fbd526c1dddd30141d5337d0beacbb778e07eac5b786607.jpg)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_82a11c8c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the intake air duct.
 
@@ -1724,7 +1573,6 @@ Installation Notice
 2. Remove the ignition cable cover.
 
 ### Notice
-`ssangyong_musso_en_44b7e619` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Unscrew the seven (M6 x 60) bolts and remove the ignition cable cover.
 
@@ -1737,7 +1585,6 @@ Unscrew the seven (M6 x 60) bolts and remove the ignition cable cover.
 4. Unscrew all the bolts (2,3) and remove the head cover and the gasket.
 
 ### Notice
-`ssangyong_musso_en_49e334e0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the gasket with a new one if necessary.
 
@@ -1748,7 +1595,6 @@ Replace the gasket with a new one if necessary.
 ![](images/57c3c57dc31a98f3bacef692ac97efc8b60fd76967616ed1891011341de81e53.jpg)
 
 ### CYLINDER HEAD FRONT COVER
-`ssangyong_musso_en_705d1be4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cylinder head cover Removal of coolant connection fitting
 
@@ -1764,7 +1610,6 @@ Preceding Work Removal of cylinder head cover Removal of coolant connection fitt
 8 Bolt (M6 x 16, 3 pieces) 9-11 Nm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_9e1f363a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the magnet assembly.
 
@@ -1777,7 +1622,6 @@ Installation Notice
 2. Remove the cylinder head front cover (6).
 
 ### Installation Notice
-`ssangyong_musso_en_68bd25ea` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ac11692a9bf07726231867da1d6c520fd9af33959ee864f6dbef37f7d8cc3ec1.jpg)
 
@@ -1786,7 +1630,6 @@ Apply the sealant at the mating surface of the cylinder head and the front cover
 3. Remove the upper guide rail pin and the guide rail (3).
 
 ### Installation Notice
-`ssangyong_musso_en_47fc273a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the gasket with new one and apply the sealant.
 
@@ -1795,7 +1638,6 @@ Replace the gasket with new one and apply the sealant.
 ![](images/c7c34d53d49567fb8964f4f20bd6023d9c4510530bf6e79b8a1eac17047ffcad.jpg)
 
 ### CYLINDER HEAD
-`ssangyong_musso_en_a894437a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cylinder head cover Removal of cylinder head front cover Removal of upper intake manifold
 
@@ -1809,7 +1651,6 @@ Preceding Work Removal of cylinder head cover Removal of cylinder head front cov
 7 Dowel Sleeve
 
 ### Notice
-`ssangyong_musso_en_8d18fbf1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rotate the crankshaft in the normal engine direction.
 
@@ -1820,7 +1661,6 @@ Rotate the crankshaft in the normal engine direction.
 4. Remove the three flange bolts in the exhaust camshaft sprocket.
 
 ### Installation Notice
-`ssangyong_musso_en_83b509a3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/03265185120bc424022a2cc3237c073c41b979fcc51734cc8ca0aff510fb34ff.jpg)
 
@@ -1831,7 +1671,6 @@ Do not reuse the removed bolts.
 5. Separate the chain from the camshaft sprockrt.
 
 ### Notice
-`ssangyong_musso_en_2d3c0539` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to drop the chain into the timing case.
 
@@ -1855,7 +1694,6 @@ Box Wrench Insert 000 589 01 10 00
 8. Check the length of the cylinder head bolt.
 
 ### Installation Notice
-`ssangyong_musso_en_97a1277c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/fad50a9681b197d063bdc3c87b31e61f1fd112db353110336c97ee242075422c.jpg)
 
@@ -1865,7 +1703,6 @@ Replace the bolt if the measured length exceed the max. length. Apply the oil to
 10. Installation should follow the removal procedure in the reverse order.
 
 ### TIMING GEAR CASE COVER
-`ssangyong_musso_en_1e7f59d5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work : Removal of cylinder head front cover Removal of alternator bracket Removal of tensioning device Removal of belt pulley and vibration damper
 
@@ -1882,12 +1719,10 @@ Preceding Work : Removal of cylinder head front cover Removal of alternator brac
 9 Bolt (M6 x 22, 6 pieces) 9-11 Nm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_0c9be284` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Put the alignment marks (arrows) on the timing chain and camshaft sprocket. 2. Unscrew the A/C bracket bolts (1) and remove the bracket.
 
 ### Installation Notice
-`ssangyong_musso_en_cc9eab6f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/cc6965f5f334ba7e1a2c28dc392d9234a6412008334785748505e417edc576ee.jpg)
 
@@ -1896,7 +1731,6 @@ Preceding Work : Removal of cylinder head front cover Removal of alternator brac
 3. Remove the cooling fan and the viscous clutch. Unscrew the three bolts from the cooling fan bracket and remove the bracket (arrows).
 
 ### Installation Notice
-`ssangyong_musso_en_de56b67c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/31d22ebc2eac9d89398e32408c8d37889a58992581ff79d2d29aade737243018.jpg)
 
@@ -1905,7 +1739,6 @@ Preceding Work : Removal of cylinder head front cover Removal of alternator brac
 4. Remove the timing gear case cover after unscrewing the bolts (3) and (4) from the timing gear case cover and the bolt (9) from the oil pan.
 
 ### Installation Notice
-`ssangyong_musso_en_a993cc05` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f13a98b4745cd18707c90e3fc43a06661993b8c41030a246228c31e09f39f6bb.jpg)
 
@@ -1915,7 +1748,6 @@ Be careful not to stain the oil chamber of chain tensioner with the sealant.
 5. Installation should follow the removal procedure in the reverse order. 6. Warm up the engine and check for oil leaks.
 
 ### CRANKSHAFT SEALING REAR COVER
-`ssangyong_musso_en_a2c5c28b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of the automatic transmission drive plate
 
@@ -1929,12 +1761,10 @@ Preceding Work Removal of the automatic transmission drive plate
 6 Washer
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_115e2637` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Unscrew the bolts (1) and (5) and remove the closing cover by pulling the rear cover lug (arrows).
 
 ### Notice
-`ssangyong_musso_en_c71599b7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to damage the oil pan gasket.
 
@@ -1947,7 +1777,6 @@ sealing cover.
 5. Apply the engine oil to the dust lip of the radial shaft seal.
 
 ### Notice
-`ssangyong_musso_en_9cc3e071` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not use the grease.
 
@@ -1960,14 +1789,12 @@ Do not use the grease.
 7. Tighten the rear cover bolt (1) and then tighten the oil pan bolt (5) as specified and remove the special tool.
 
 ### Installation Notice
-`ssangyong_musso_en_1bdfb6f9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/200bfe5663b5134b00749a8f6131065a5c6f4fdd88e735e239cce1a15472f98b.jpg)
 
 ![](images/5f3628af029860f236f30dc92818aa10161af6a820304b52fd6726bc08008aef.jpg)
 
 ### BELT PULLEY AND VIBRATION DAMPER
-`ssangyong_musso_en_68161bfe` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work : Removal of cooling fan and viscous clutch Removal of fan shroud Removal of drive belt
 
@@ -1981,7 +1808,6 @@ Preceding Work : Removal of cooling fan and viscous clutch Removal of fan shroud
 7 Cooling Fan Pulley
 
 ### Components
-`ssangyong_musso_en_7753dc8e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/218ab5ce8eef75873685828b2de1362c10bb2a47223f13c79c9295285f413e36.jpg)
 
@@ -1999,7 +1825,6 @@ Preceding Work : Removal of cooling fan and viscous clutch Removal of fan shroud
 12 Oil Pan Mounting Bolt (M6 x 22)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_4f6d7475` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Adjust the piston of number F cylinder to the TDC.
 
@@ -2009,7 +1834,6 @@ Preceding Work : Removal of cooling fan and viscous clutch Removal of fan shroud
 3. Remove the center bolt.
 
 ### Installation Notice
-`ssangyong_musso_en_83fabbea` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d4eb2732e019b6f71bf745522375e54b0c58f2e1db0cf5b82c0e8054345862d3.jpg)
 
@@ -2022,14 +1846,12 @@ Engine Lock 602 589 00 40 00
 5. Installation should follow the removal procedure in the reverse order.
 
 ### Notice
-`ssangyong_musso_en_a33e91c4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If possible, don’t separate the vibration damper and the pulley.
 
 ![](images/6f9aca28f85018388016f91a854a787b54a7c78cb24cf1c244320158910f98dc.jpg)
 
 ### CRANKSHAFT FRONT RADIAL SEAL
-`ssangyong_musso_en_f95943ac` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of belt pulley and vibration damper
 
@@ -2042,7 +1864,6 @@ Preceding Work Removal of belt pulley and vibration damper
 5 Key
 
 ### Notice
-`ssangyong_musso_en_870cb207` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Use a clean cloth not to damage the radial seal mounting hole and the crankshaft.
 2. Coat the radial sealing lip with engine oil.
@@ -2050,7 +1871,6 @@ Use a clean cloth not to damage the radial seal mounting hole and the crankshaft
 4. Align the sleeve groove and the woodruff key and tighten the center bolt until the center bolt and the damper disk stop in the movement.
 
 ### Installation Notice
-`ssangyong_musso_en_450cf354` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d70f75b8eacbf12ff64d6de4a84a9e736d0361f4ce7fd104139030e3ec306120.jpg)
 
@@ -2061,7 +1881,6 @@ Use a clean cloth not to damage the radial seal mounting hole and the crankshaft
 ![](images/e5789d0712c3ba9909260c83a24f9ecfc3240bb00377c59c7e7b61be58ce9bd2.jpg)
 
 ### CRANKSHAFT REAR RADIAL SEAL
-`ssangyong_musso_en_73a7718f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of flywheel or drive plate
 
@@ -2071,7 +1890,6 @@ Preceding Work Removal of flywheel or drive plate
 2 Special Tool
 
 ### Notice
-`ssangyong_musso_en_d397fd6d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Use a clean cloth not to damage the radial seal mounting hole and the crankshaft.
 
@@ -2080,7 +1898,6 @@ Use a clean cloth not to damage the radial seal mounting hole and the crankshaft
 3. Apply the engine oil on the special tool (2).
 
 ### Notice
-`ssangyong_musso_en_391b73cf` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not use the grease.
 
@@ -2093,7 +1910,6 @@ Do not use the grease.
 ![](images/6990e2b387ad7189074ec6eef3c960875f46fc20411b42ec24d6c515990af8f4.jpg)
 
 ### CRANKSHAFT
-`ssangyong_musso_en_daef0a9a` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Preceding Work Removal of engine assembly Removal of timing gear case cover Removal of cylinder head Removal of oil pump Removal of oil shield
 
@@ -2108,7 +1924,6 @@ T
 5 Crank Shaft
 
 ### Arrangement of the Thrust Bearing and the Main Bearing
-`ssangyong_musso_en_139e6512` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 6 三 3 4 5 6 （7 n H ） 1 1:0
 
@@ -2130,14 +1945,12 @@ The color dot marking are put on the   1  ,  2  ,  4  ,  6  ,  8 ,10 ,12  and it
 ![](images/82cfd865d58a40cc5690f684276ae4dad5d2d07fe133c9a61d6bcf8a9f59c898.jpg)
 
 ### 1. Crankcase Side
-`ssangyong_musso_en_56b5c517` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 There are seven punching marks on the mating surface to oil pan. This mark is correspondent to the bearing distinguished by color. Select the relevant bearing according to the punching mark when repaired.
 
 ![](images/52f168fad541466422b956451ff57774da4e435e6bcad6c2cb4214efd2da4c13.jpg)
 
 ### 2. Crankshaft Bearing Cap Side
-`ssangyong_musso_en_e62f7065` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Select the crankshaft main bearing according o he marking letter on the crankshaft main journal when repaired.
 
@@ -2146,7 +1959,6 @@ Select the crankshaft main bearing according o he marking letter on the cranksha
 ![](images/c8fc4fbb6cff480bfa705a4dae3c421b1fb226408fc2f2acab1bb21f3a366453.jpg)
 
 ### Installation Notice
-`ssangyong_musso_en_f565dc75` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/de237fccb5ce258bd8182dbdf4b481f4ba38886233aaed8ab89ee1a03576286d.jpg)
 
@@ -2157,7 +1969,6 @@ Install the bearing cap according to the consecutive number.
 2. Unscrew the crankshaft bearing cap bolts and separate the upper and lower bearing shells and thrust washers.
 
 ### Installation Notice
-`ssangyong_musso_en_f37c6570` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/cb46d145c8949d4f84f49d642b2cd1004b586557e6b03c08aa4680f9256b17f2.jpg)
 
@@ -2175,7 +1986,6 @@ There are five kinds of thrust washers by thickness. Select the proper washer wh
 Part No. : 601 030 00 62 2.15  mm Part No. : 601 030 01 62 2.20 mm Part No. : 601 030 02 62 2.25 mm Part No. : 601 030 03 62 2.30  mm Part No. : 601 030 04 62 2.40  mm
 
 ### Installation Notice
-`ssangyong_musso_en_c7f876c6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure the crankshaft bearing cap properly seated in place in the crankcase side. When perfectly installed, the projected part (arrow) locates in the left side (intake manifold side).
 Assemble so that the projected part of the cap and crankcase face the same direction.
@@ -2183,7 +1993,6 @@ Assemble so that the projected part of the cap and crankcase face the same direc
 ![](images/bff12f3c25f78a2524140c19ed0533f904a6c75d09379c551a486407fa06a8ee.jpg)
 
 ### Inspection
-`ssangyong_musso_en_804d17c5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. If the length ‘L’ of the crankshaft bearing cap bolt exceeds 63.8mm, replace it.
 
@@ -2194,7 +2003,6 @@ Assemble so that the projected part of the cap and crankcase face the same direc
 3. Measure and record the inner diameter of the crankshaft bearing.
 
 ### Notice
-`ssangyong_musso_en_ec6a3412` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Measure at 2 points (1, 2). Measure ‘A’,‘B’and ‘C’ as shown. If average value of ‘B’ and ‘C’is less than value ‘A’, then the average value of ‘B’ and ‘C’ is actual average value. If average value of ‘B’ and ‘C’ is more than value ‘A’is actual average value.
 
@@ -2203,13 +2011,11 @@ Measure at 2 points (1, 2). Measure ‘A’,‘B’and ‘C’ as shown. If aver
 4. Measure and record the diameter of the crankshaft bearing journal.
 
 ### Notice
-`ssangyong_musso_en_f371032a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Record the mean value when measured at 3 points (A, B, C).
 Measure the inner diameter of bearing and the diameter of journal and if it is out of the standard data, replace the bearing shell.
 
 ### FLYWHEEL DRIVEN PLATE
-`ssangyong_musso_en_20fb731e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of manual or automatic transmission
 
@@ -2222,7 +2028,6 @@ Preceding Work Removal of manual or automatic transmission
 4 Dowel Pin
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_14cc0b2e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Unscrew the stretch bolt.
 
@@ -2239,7 +2044,6 @@ Replace the bolt when the stretch side diameter (d) of the flywheel mounting bol
 ![](images/f815898e21381ad8c413992230816e9017c06fab160c0fdae47d19d1c1ccc397.jpg)
 
 ### Sectional View
-`ssangyong_musso_en_4276fe52` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0d9b27b6afd0b152269c2f03eb12cb2cf9461add077a76ef015071afecbecced.jpg)
 
@@ -2259,7 +2063,6 @@ Cover
 14 Ring Gear
 
 ### CAMSHAFT ADJUSTER
-`ssangyong_musso_en_91d2bcfe` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b7119b13067b118515fbfd91c15c9192787b90d46ef04a0fecd8d0f7ef5d4847.jpg)
 
@@ -2289,7 +2092,6 @@ Cover
 22 Intake Camshaft
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_81a5fd87` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Turn the crankshaft to the direction of engine rotation and position the no.1 cylinder piston at TDC which the camshaft is positioned at OT.
 
@@ -2302,7 +2104,6 @@ Cover
 4. Unscrew the bolt (3) from the armature (4) and remove the armature.
 
 ### Installation Notice
-`ssangyong_musso_en_5fb4d9c6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/4ca54eb62f89d48a1ec46db40557d4ff58fbd50a7edf39dfa021ca70316e612d.jpg)
 
@@ -2315,7 +2116,6 @@ Installation Notice
 6. Unscrew the sprocket bolt from the exhaust camshaft and remove the sprocket.
 
 ### Installation Notice
-`ssangyong_musso_en_bc2a2d53` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ed2f528373a77c8898f26009ef9afed2e626f8ad9ff4d7189472b77811a32d22.jpg)
 
@@ -2331,7 +2131,6 @@ The sprocket bolt is designed to be used only once, so always replace with new o
 7. Remove the camshaft sprocket (13) and adjust piston (14), and remove the flange shaft (16) from the intake camshaft (22) after removing the bolt (15).
 
 ### Installation Notice
-`ssangyong_musso_en_da282bd8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/96dae34cbef2af7bf234c54d3091d81be03b6e4c30ffa8187bf90fd435919d5c.jpg)
 
@@ -2344,7 +2143,6 @@ The sprocket bolt is designed to be used only once, so always replace with new o
 o0
 
 ### Notice
-`ssangyong_musso_en_6f11197a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The sprocket bolts are designed to be used only once, so always replace with new one.
 
@@ -2357,7 +2155,6 @@ e. 6.8 mm
 ![](images/184ab3ee1bbf39c5adeeacdf72eb73de9be6d1bb863d614d1d0a592f5ecfbf5c.jpg)
 
 ### Notice
-`ssangyong_musso_en_00d423f9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The sprocket bolts are designed to be used only once, so always replace with new one.
 
@@ -2366,7 +2163,6 @@ E. M7 x 13 Collar Bolt Torx-T30 e. 6.8 mm 13a. Camshaft Sprocket 22a. Exhaust Ca
 ![](images/015ea73e89425cd9dfa86b80bf005d5973e7b27d0ed6f7c62eaf3ce4a0b93892.jpg)
 
 ### CAMSHAFT
-`ssangyong_musso_en_d5135977` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cylinder head cover, removal of coolant connection fitting
 
@@ -2380,7 +2176,6 @@ Preceding Work Removal of cylinder head cover, removal of coolant connection fit
 567 Intake Camshaft Sprocket Chain Wrench (Special Tool)
 
 ### Removal Procedure
-`ssangyong_musso_en_96840b2b` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Turn the crankshaft and position the No. 1 cylinder piston at BTDC 30°.
 2. Remove the alternator.
@@ -2403,7 +2198,6 @@ Preceding Work Removal of cylinder head cover, removal of coolant connection fit
 9. Loosen the remaining bolts and unscrew the intake and exhaust side camshaft bearing cap bolts.
 
 ### Notice
-`ssangyong_musso_en_4d0cacd3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Number the camshaft bearing cap bolts when removing them, so that they don’t get mixed up.
 
@@ -2412,14 +2206,12 @@ Number the camshaft bearing cap bolts when removing them, so that they don’t g
 ![](images/21c8b8d65eb668b3fea90108c4f46781e6e48f8f65facd678c4b7a52e1785851.jpg)
 
 ### Notice
-`ssangyong_musso_en_c963d518` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Turn the crankshaft in the direction of engine rotation.
 
 2. Install the exhaust camshaft bearing caps (2, 3, 5) and the intake camshaft bearing caps (9, 10, 12). Tighten the bolts with specified torque and install the remaining bearing caps.
 
 ### Notice
-`ssangyong_musso_en_335dd4de` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ec448879a93852845f807a716b780c6c23db499db65ba9d241e9db85380eaa81.jpg)
 
@@ -2430,7 +2222,6 @@ Install the bearing caps according to the numbers on the bearing caps.
 3. Turn the camshaft using the wrench (special tool) so that the intake camshaft adjustment hole lines up with the cylinder head upper side (3 o’clock direction at the intake, 9 o’clock direction at the exhaust).
 
 ### Notice
-`ssangyong_musso_en_a10aee98` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Turn the crankshaft and adjust it to OT so that No. cylinder’s piston would be at TDC.
 
@@ -2439,14 +2230,12 @@ Turn the crankshaft and adjust it to OT so that No. cylinder’s piston would be
 4. Turn the intake camshaft adjuster to the direction of camshaft rotation by hard until it stops and then install the chain.
 
 ### Notice
-`ssangyong_musso_en_4ecb519d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure that the camshaft sprocket and timing chain are aligned with marks. Intake camshaft adjuster should be in retarded position.
 
 5. Install the chain on the exhaust sprocket and tighten the sprocket bolts.
 
 ### Notice
-`ssangyong_musso_en_9568fb4e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/bd75ac4cececf1103d9e5e46fc121e2a61dc03ec07e466fc8167fde53ab05f6a.jpg)
 
@@ -2457,7 +2246,6 @@ Make sure that the camshaft sprocket and timing chain are aligned with marks. Re
 6. Install the chain tensioner and tighten it as specified.
 
 ### Notice
-`ssangyong_musso_en_b09d1bfb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2d4ca1e506f813517a700f4f66c5ba2c858766ff913b47c4bad1fe206c839d06.jpg)
 
@@ -2470,7 +2258,6 @@ Alignment between camshaft adjustment hole and cylinder head surface.
 Alignments between timing chain and sprocket marks.
 
 ### Notice
-`ssangyong_musso_en_f9596128` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Turn the crankshaft in the direction of engine rotation.
 Read just if not aligned.
@@ -2483,7 +2270,6 @@ Read just if not aligned.
 ![](images/0a88d2cd81710968a8d9258ed7de21ad54b199b427408d9adf412b3a292a4b88.jpg)
 
 ### CAMSHAFT TIMING POSITION
-`ssangyong_musso_en_38bffa61` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cylinder head cover Removal of cylinder head front cover
 
@@ -2494,7 +2280,6 @@ Preceding Work Removal of cylinder head cover Removal of cylinder head front cov
 56 Cylinder Head Front Cover Wrench (Special Tool) Adjustment Hole Fitting Pin (f4.0 mm)
 
 ### Notice
-`ssangyong_musso_en_65019e4f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the OT mark on vibration damper is aligned with timing gear case cover, the intake and exhaust cam of cylinder will make the slope to the center and will face up. In this way, the adjustment hole of the intake and exhaust camshaft will match in line with the cylinder head upper end, at 3 o’clock, and 9 o’clock direction each other.
 
@@ -2505,7 +2290,6 @@ Check if the camshaft adjustment hole is positioned to 3 o’clock direction at 
 ![](images/2d494b0de40dbf8e31a69eff3afc4725e14d235bf6ca10d4e73145ee59473fc2.jpg)
 
 ### Adjustment Procedure
-`ssangyong_musso_en_5dbc230d` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Position the No.1 cylinder to BTDC 30°
 2. Remove the chain tensioner.
@@ -2517,14 +2301,12 @@ Check if the camshaft adjustment hole is positioned to 3 o’clock direction at 
 8. Install the chain to the intake camshaft sprocket.
 
 ### Notice
-`ssangyong_musso_en_3ed6aacc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Timing chain must be placed on the guide rail in gear case cover.
 
 9. Install the chain to the exhaust camshaft sprocket and install it to the camshaft.
 
 ### Installation Notice (Sprocket Bolt)
-`ssangyong_musso_en_e621cd7f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a21b67660ec2362f1277a63d48d15c340b91f6832901a6e33071f7153a3e4a0f.jpg)
 
@@ -2533,14 +2315,12 @@ The sprocket bolt is designed to be used only once, so replace with new one.
 10. Install the chain tensioner.
 
 ### Installation Notice
-`ssangyong_musso_en_70a4563a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0a7b43bb7f29966bba6838c5842c38419443779bdb45dd37b577a5f2c71d42e0.jpg)
 
 11. Check the camshaft timing.
 
 ### VALVE SPRING
-`ssangyong_musso_en_603731e2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of camshaft Removal of spark plug
 
@@ -2560,7 +2340,6 @@ Preceding Work Removal of camshaft Removal of spark plug
 12 Supporting Bar
 
 ### Tools Required
-`ssangyong_musso_en_5df97fc5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 111 589 01 59 00 Supporting Bar
 111 589 18 61 00 Lever Pusher
@@ -2568,12 +2347,10 @@ Preceding Work Removal of camshaft Removal of spark plug
 116 589 06 63 00 Magnetic Finger
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_bd3912fd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Place the supporting bar (12) and the slide (9) at the camshaft bearing cap (Nos 1 & 7/8&14) and tighten them with the bearing cap bolt.
 
 ### Installation Notice
-`ssangyong_musso_en_817d7631` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ![](images/c51f054b6aa6f0842b07ef4a05396364adbf4a0a7d643550bb0c955449b789c5.jpg)
 
@@ -2586,7 +2363,6 @@ Supporting Bar 111 589 01 59 00
 ![](images/0a00e8512468c2cd9843b63f823a5fa5ebff608daa732edc0b887ffe03d5a364.jpg)
 
 ### Notice
-`ssangyong_musso_en_bcc074f8` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Remove the valve spring only at TDC. Always rotate the crankshaft by holding the chain to prevent from timing chain damage and tangling, and for smooth rotation.
 
@@ -2623,7 +2399,6 @@ Magnetic Finger 116 589 06 63 00
 15. Remove the valve stem seal and replace if necessary.
 
 ### Notice
-`ssangyong_musso_en_12cc7326` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the retainer for damages and replace with a new one if necessary.
 
@@ -2634,7 +2409,6 @@ Check the retainer for damages and replace with a new one if necessary.
 ![](images/3941d88df5d9660f9d6863ec4a6109c1046423f667ccba8b869220a24fa47693.jpg)
 
 ### Test (Upper and Lower Valve Tappet and Valve Cotter)
-`ssangyong_musso_en_75206816` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Upper Valve Spring Retainer
 
@@ -2653,7 +2427,6 @@ Valve Cotter
 ![](images/63073c7f5bc85dbb4cf54d288ae65ed9022b7dbcd02c182caa9a123b1e0f4aac.jpg)
 
 ### VALVE STEM SEAL
-`ssangyong_musso_en_ba6bbaa1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of valve spring
 
@@ -2662,7 +2435,6 @@ Preceding Work Removal of valve spring
 Tools Required 104 589 00 37 00 Pliers 119 589 00 43 00 Drift
 
 ### Notice
-`ssangyong_musso_en_a47639a6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the valve stem seal for damage and replace if necessary.
 
@@ -2673,7 +2445,6 @@ Pliers 104 589 00 37 00
 Drift 119 589 00 43 00
 
 ### CHAIN TENSIONER
-`ssangyong_musso_en_1cd01b90` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/de217278c30fe79a2d16d909d7e0540eaf1304eb4b5c5fbe974d3db4020cea38.jpg)
 
@@ -2688,7 +2459,6 @@ Chain Tensioner Housing 72-88 Nm
 8 Seal
 
 ### Notice
-`ssangyong_musso_en_47e7534d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remove the oil filler cap at adjustment position, and check whether the intake camshaft cam’s lobe (arrow) stays in the upper side.
 
@@ -2697,7 +2467,6 @@ Remove the oil filler cap at adjustment position, and check whether the intake c
 3. Release the tension by unscrewing the screw plug once.
 
 ### Notice
-`ssangyong_musso_en_46491df5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In case that the tension is reduced by unscrewing the screw plug, reinstall after completely removing the chain tensioner. If the chain tensioner is tightened again without completely reducing its tension, then the detent spring doesn’t return to the original position and the tension gets excedded.
 
@@ -2706,7 +2475,6 @@ In case that the tension is reduced by unscrewing the screw plug, reinstall afte
 4. Carefully unscrew the screw plug (1), and remove the seal (2).
 
 ### Notice
-`ssangyong_musso_en_c771ee74` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For the removal of screw plug, be careful that it can be jumped out due to the force of compression spring. Remove the screw plug only when the seal and compression spring are damaged.
 
@@ -2719,14 +2487,12 @@ For the removal of screw plug, be careful that it can be jumped out due to the f
 ![](images/efcfedde0ba60e56009c5476adff73adbb00abdf3c5b987873eecbdae63e8879.jpg)
 
 ### Notice
-`ssangyong_musso_en_e37c36de` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When connecting the thrust pin, push in the thrust pin far enough so that it doesn’t protrude at the chain tensioner housing.
 
 2. Install the chain tensioner housing (7), thrust pin (6), snap ring (5), and the seal (8).
 
 ### Installation Notice
-`ssangyong_musso_en_990f7654` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c3d2c21b6d4e9e764b555773e4f22bfd2ebe06bf969b6d5e292093dbdf2ce2ac.jpg)
 
@@ -2745,7 +2511,6 @@ Installation Notice
 ![](images/93ad04c1afea1f7c318ee9436ba5b0a8dcdf9fd40f71b56053ff1fffb0f5b56c.jpg)
 
 ### Sectional View
-`ssangyong_musso_en_d9a762bf` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ba1adfccb73077a81fb9e7e228e48ced9cb5006473c555c4bc8f0748558f0894.jpg)
 
@@ -2774,7 +2539,6 @@ A Oil Supply Hole
 B Chain Tensioner Oil Storage Hole
 
 ### TIMING CHAIN
-`ssangyong_musso_en_963beb51` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cylinder head cover Removal of spark plug
 
@@ -2788,7 +2552,6 @@ Preceding Work Removal of cylinder head cover Removal of spark plug
 7 Outer Plate
 
 ### Replacement Procedure
-`ssangyong_musso_en_a3811005` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Position the No.1 cylinder to TDC (OT).
 
@@ -2814,7 +2577,6 @@ Preceding Work Removal of cylinder head cover Removal of spark plug
 8. Rotate the crankshaft in the direction if engine revolution by pressing the new timing chain against the exhaust camshaft sprocket to prevent it to be tangled.
 
 ### Notice
-`ssangyong_musso_en_38855dc7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be sure to remove the wedge before cranking the engine.
 
@@ -2850,7 +2612,6 @@ Be sure to remove the wedge before cranking the engine.
 18. Install the chain tensioner.
 
 ### Installation Notice
-`ssangyong_musso_en_79e7572a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/97fe3871b7dc77100ee62432ad74bd25b33021037e385a5ca26cc50ff003016d.jpg)
 
@@ -2859,7 +2620,6 @@ Be sure to remove the wedge before cranking the engine.
 ![](images/09a550e83c458e4c082ecb9324e6bb3d6df3bc9e19aa593e4ab32d76b348afea.jpg)
 
 ### TENSIONING RAIL
-`ssangyong_musso_en_814b7fbd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of timing gear case cover
 
@@ -2871,14 +2631,12 @@ Preceding Work Removal of timing gear case cover
 4 Guide Rail
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_a237f8f9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Put the assembly mark at the camshaft sprocket and the timing chain with the paint (arrow).
 2. Remove the exhaust camshaft sprocket.
 3. Remove the tensioning rail (1) from the tensioning rail pin (3).
 
 ### Notice
-`ssangyong_musso_en_f9290107` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the plastic guide (2) if it is damaged. For installation, exactly align the plastic guide (2) with the tensioning rail (1).
 
@@ -2886,7 +2644,6 @@ Replace the plastic guide (2) if it is damaged. For installation, exactly align 
 5. Check the camshaft timing position.
 
 ### CYLINDER HEAD GUIDE RAIL
-`ssangyong_musso_en_5f68c317` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cylinder head cover
 
@@ -2898,7 +2655,6 @@ Preceding Work Removal of cylinder head cover
 4 Wrench (Special Tool)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_a5ca9107` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the chain tensioner (1).
 2. Turn the exhaust camshaft to the camshaft rotating direction using the wrench (4) and loosen the timing chain at upper guide rail (2).
@@ -2908,7 +2664,6 @@ Preceding Work Removal of cylinder head cover
 6. Install the chain tensioner.
 
 ### CRANKCASE GUIDE RAIL
-`ssangyong_musso_en_c8815d3b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of timing gear case cover
 
@@ -2920,12 +2675,10 @@ Preceding Work Removal of timing gear case cover
 4 Tensioning Rail
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_eae49a58` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Put the assembly mark at the camshaft sprocket and the timing chain with the paint (arrow). 2. Remove the exhaust camshaft sprocket. 3. Remove the guide rail (1) from the guide rail pin (3).
 
 ### Notice
-`ssangyong_musso_en_97f3964c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the plastic guide (2) if damaged. Connect the plastic guide (2) and the guide rail (1) by aligning them accurately when installing.
 
@@ -2933,7 +2686,6 @@ Replace the plastic guide (2) if damaged. Connect the plastic guide (2) and the 
 5. Check the camshaft timing position.
 
 ### CRANKSHAFT SPROCKET
-`ssangyong_musso_en_cc37f865` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of oil pan Removal of tensioning rail Removal of crank case guide rail
 
@@ -2951,19 +2703,16 @@ Preceding Work Removal of oil pan Removal of tensioning rail Removal of crank ca
 10 Timing Chain
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_8ddc6952` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Put the assembly mark at the crankshaft sprocket (4) and the timing chain (10) with the paint (arrow).
 
 ### Installation Notice
-`ssangyong_musso_en_37e0b964` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Align the assembly marks on cranshaft sprocket and timing chain. Also, align the assembly marks on camshaft sprocket and timing chain when installing.
 
 2. Unscrew the bolt (6) and remove the oil pump sprocket (7) from the oil pump.
 
 ### Installation Notice
-`ssangyong_musso_en_a72f3df6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/643e2bed7644010b089b0e89044fc52ca64a80d52abbc5842bedf2f1cb048433.jpg)
 
@@ -2976,7 +2725,6 @@ Align the assembly marks on cranshaft sprocket and timing chain. Also, align the
 5. Remove the crankshaft sprocket (4) using the puller (04, special tool).
 
 ### Notice
-`ssangyong_musso_en_f6d22175` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure not to lose the crankshaft pulley key(5) when removing. Install the crankshaft sprocket(4) after warming it up.
 
@@ -2985,7 +2733,6 @@ Make sure not to lose the crankshaft pulley key(5) when removing. Install the cr
 ![](images/564298fa2bb6eb4336a30d4d05c7d0fc4b208b735e46516824725dddbd6c51fd.jpg)
 
 ### PISTON
-`ssangyong_musso_en_eeb4f64c` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Preceding Work Removal of engine Removal of cylinder head Removal of oil pan Removal of oil pump Removal of baffle plate
 
@@ -2998,25 +2745,21 @@ Preceding Work Removal of engine Removal of cylinder head Removal of oil pan Rem
 4 Piston 56 Snap Ring Piston Pin
 
 ### Removal Procedure
-`ssangyong_musso_en_52691849` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Unscrew the connecting rod bolt (3) and remove the cap.
 2. Remove the connecting rod and the piston upward.
 
 ### Notice
-`ssangyong_musso_en_4286eac6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure that the bearing cap and shell are not changed each other. 3. Remove the snap ring (5) and pull out the piston pin (6).
 
 ### Notice
-`ssangyong_musso_en_5e0e2013` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remove the snap ring using a clean cloth as shown in the right picture so that the piston, piston ring, and the snap ring don’t get damaged.
 
 ![](images/c2933a85c2144463394bafefd013d33f903fdee41997e584dd109dd0860ccb38.jpg)
 
 ### Installation Procedure
-`ssangyong_musso_en_082c2953` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ![](images/cb9a921f278ae01044ef6c9ea81b37036d261d3264836d2b50d95d7022b3f0f9.jpg)
 
@@ -3028,7 +2771,6 @@ Remove the snap ring using a clean cloth as shown in the right picture so that t
 6. After aligning the connecting rod and the bearing cap mark (// or a number), tighten the bolts.
 
 ### Installation Notice
-`ssangyong_musso_en_ce5c3027` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/dd13d84fd649effc1f49dc7efdd4822719bbb4d2b698d23ede983f42ac2aceef.jpg)
 
@@ -3039,7 +2781,6 @@ Apply the engine oil to the bearing cap upper and lower bearing shells.
 ![](images/77de796288c9ff59c776903e6d34fdf3623ff5e27ee99ae20cd33e18e9f333c3.jpg)
 
 ### CONNECTING ROD
-`ssangyong_musso_en_22be4230` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of piston
 
@@ -3058,7 +2799,6 @@ Preceding Work Removal of piston
 9 Marking [Indication(//) or Numbers]
 
 ### Notice
-`ssangyong_musso_en_bf7e650b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the basic bore exceeds the value of 51.614mm, replace the bearing or check the connecting rod.
 
@@ -3067,7 +2807,6 @@ If the basic bore exceeds the value of 51.614mm, replace the bearing or check th
 ![](images/d947f125d1d9618e7a0e64d9bb321570dd011ac2537ef4a87cc5113abdff3b0d.jpg)
 
 ### Notice
-`ssangyong_musso_en_374ffab9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 f the length exceeds max. length, replace it.
 
@@ -3076,7 +2815,6 @@ f the length exceeds max. length, replace it.
 3. Check the assembly mark(indication//or number:arrow) of the connecting rods and the bearing cap when installing.
 
 ### Notice
-`ssangyong_musso_en_67766a22` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure it doesn’t exceed over 4g with other connecting rods when replacing the connecting rods. Check if the connecting rod and the bearing cap are accurately seated on the groove when replacing the bearing.
 
@@ -3094,14 +2832,12 @@ PISTON RING Preceding Work Removal of piston
 Tools Required 000 589 51 37 00 Clamping Strap
 
 ### Replacement Procedure
-`ssangyong_musso_en_438e0cba` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Measure the piston ring’s gap.
 
 ![](images/9dce57798fb6db9e569286e7cf705d4d5ef44a9f92afc63e9373c2213a5f8aba.jpg)
 
 ### Notice
-`ssangyong_musso_en_695416a9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If out of specification, replace the piston ring.
 
@@ -3115,7 +2851,6 @@ Clamping Strap 000 589 51 37 00
 ![](images/8a4962c3b79a91d8b0fbf2601c820855102ca45e1cf45e2978b49585f2a04b52.jpg)
 
 ### ENGINE OIL SPECIFICATION
-`ssangyong_musso_en_a76c5fcf` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c513f68206e7f92d0c9ed052740b42320dbe5db825ab95aef5789d984f451f43.jpg)
 
@@ -3126,14 +2861,12 @@ Specifications
 ![](images/08c638a5a98101c64cb2588ed71780b988cfb4b973af15fee3036dee4dab4e24.jpg)
 
 ### OIL PAN
-`ssangyong_musso_en_fc516c29` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d7d6594d283abdf86241f87c03f24ece645d62cb94612a4b8d031b691e0fcaa4.jpg)
 
 1 Gasket   Replace 5 Bolt (M6 x 85)   10 Nm 32 Bolt (M6 x 22, 6 pieces) ·. 10 Nm 6 Bolt (M8 x 40) 25 Nm Drain Plug (M6 x 20) 25 Nm 7 Bolt (M10) 40 Nm 4 Bolt (M6 x 20, 22 pieces)   10 Nm 8 Oil Pan
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_7c661b3d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the drain plug and drain the oil completely.
 2. Disconnect the electric connector from oil level switch.
@@ -3142,7 +2875,6 @@ ring (11) for wear or damage. And replace it if necessary.
 4. Unscrew the bolts and remove the oil pan and gasket.
 
 ### Notice
-`ssangyong_musso_en_c8585ad5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Arrange the bolts according to each size.
 
@@ -3156,7 +2888,6 @@ Arrange the bolts according to each size.
 M8 X 40, 4 pieces M6 X 85, 3 pieces M6 X 35, 3 pieces the rest M6 X 20, 28 pieces
 
 ### Oil Circulation
-`ssangyong_musso_en_65dd7c50` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e71669c7468371d9c0b5ca0c7f59dac173af085e150bf7a9ef9848a0fb9130f6.jpg)
 
@@ -3195,7 +2926,6 @@ a Oil Gallery (From Oil Pump to Oil Filter)
 b Main Oil Gallery c Oil Return Line (Oil Returns to the Oil Pan when Replacing the Filter Element)
 
 ### Notice
-`ssangyong_musso_en_47cb2e98` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make the screw cover removable by tightening the bolt at the side of the socket wrench (special tool).
 
@@ -3204,7 +2934,6 @@ Make the screw cover removable by tightening the bolt at the side of the socket 
 3. Remove the oil filter element.
 
 ### Notice
-`ssangyong_musso_en_6fc1dd6a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Work with a cloth under the vehicle when removing the oil filter element to not drain the oil.
 
@@ -3217,7 +2946,6 @@ Notice Leave the oil filler cap open to ease the engine oil discharge.
 5. Tighten the engine oil drain plug after cleaning it.
 
 ### Installation Notice
-`ssangyong_musso_en_db852bdb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/56f7116addc53cc604d66f193523c9dc511cac90e835d575ff045a769c2523d8.jpg)
 
@@ -3226,7 +2954,6 @@ Replace the seal washer with new one.
 6. Replace the O-ring(5) in the oil filter cover with new one.
 
 ### Notice
-`ssangyong_musso_en_0c304486` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Apply the engine oil to the O-ring.
 
@@ -3237,7 +2964,6 @@ Apply the engine oil to the O-ring.
 8. Temporarily tighten the oil filter cover (2). Install the socket wrench “7” (special tool 103 589 02 09 00), and then completely tighten it.
 
 ### Installation Notice
-`ssangyong_musso_en_d1d8513d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e46bd77976e142f5c306363b1fc8b1329e7deb10b90cddf92d40142a45d32e55.jpg)
 
@@ -3256,7 +2982,6 @@ Apply the engine oil to the O-ring.
 ![](images/ac8c1d7f02ac0cff9968f0d932a2bd6a8cb2bc3ab8f96f523464253531fe749d.jpg)
 
 ### OIL FILTER
-`ssangyong_musso_en_82075b46` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of starter motor Removal of upper intake manifold
 
@@ -3271,7 +2996,6 @@ Preceding Work Removal of starter motor Removal of upper intake manifold
 7 Gasket Replace
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_75bc7d30` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Drain the coolant from the crank case.
 2. Remove the each coolant line and hose.
@@ -3283,7 +3007,6 @@ Preceding Work Removal of starter motor Removal of upper intake manifold
 ![](images/b31802113bc557e11baf3e177fa633f3af9f6d7ff0204141cc8be8c9eab747dd.jpg)
 
 ### Notice
-`ssangyong_musso_en_2a0d6f6c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the oil filter gasket.
 
@@ -3292,7 +3015,6 @@ Replace the oil filter gasket.
 6. Run the engine at idle and check the engine for leaks.
 
 ### OIL PUMP
-`ssangyong_musso_en_d986aaf6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of oil pan
 
@@ -3304,12 +3026,10 @@ Preceding Work Removal of oil pan
 5 Oil Pump
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_307f43b3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the bolt (1) from the oil pump drive sprocket (2) and separate the gear and the oil pump drive chain.
 
 ### Installation Notice
-`ssangyong_musso_en_662cd611` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/dc12c5d0d87ec86842f3f8855f4bd1a82caa435d9533dbbf0547342f5c21b844.jpg)
 
@@ -3324,7 +3044,6 @@ Tighten the baffle plate and the oil pump with the two bolts in right side first
 3. Unscrew the bolt (9) from the oil strainer bracket.
 
 ### Installation Notice
-`ssangyong_musso_en_46b0570d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/bb8b6455406ccb58f06f9f9930e45ab3c47618b95f7269012ceec020bec46b81.jpg)
 
@@ -3337,7 +3056,6 @@ Tighten the baffle plate and the oil pump with the two bolts in right side first
 ![](images/1a3da2416e28e97757c841c9704cef85b15c8471f6dab2060a8866295aa929c2.jpg)
 
 ### OIL PRESSURE RELIEF VALVE
-`ssangyong_musso_en_ecebb6a8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of oil pan
 
@@ -3349,7 +3067,6 @@ Preceding Work Removal of oil pan
 4 Piston
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_066e6794` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the screw plug (1).
 
@@ -3362,19 +3079,16 @@ Installation Notice
 3. Installation should follow the removal procedure in the reverse order.
 
 ### OIL NON-RETURN VALVE
-`ssangyong_musso_en_55631d89` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of timing gear case cover
 
 ![](images/3ed4e50416d96e3012e0db711d505a13e420a81ebe5b0a63cf62d698b9a7c3fb.jpg)
 
 ### Functions
-`ssangyong_musso_en_3c16fdae` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The non-return valve prevents the oil in the chain tensioner from drying up. In other words, it stops oil-returning in order to prevent the oil in the chain tensioner from getting dry. As a result, the chain tensioner can be activated with oil in itself.
 
 ### Replacement Procedure
-`ssangyong_musso_en_a5801248` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the non-return valve using a pliers.
 2. Insert new non-return valve with hand.
@@ -3382,7 +3096,6 @@ The non-return valve prevents the oil in the chain tensioner from drying up. In 
 ![](images/1f618d7eab532bd495cb7c89992b2f269ea157b073260e485ffed75d56d2984b.jpg)
 
 ### OIL DIPSTICK GUIDE TUBE
-`ssangyong_musso_en_ce0639b9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a4f382ad4beced00cdbf9bd376d098272c34c155951ce6650f1f51d6b99162f2.jpg)
 
@@ -3392,12 +3105,10 @@ The non-return valve prevents the oil in the chain tensioner from drying up. In 
 4 Bolt (M6 x 12, E piece) 9-11 Nm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_6cee899c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Pull out the oil dipstick level gauge (1). 2. Remove the bolt (4) in the upper intake manifold and remove the oil dipstick guide tube.
 
 ### Installation Notice
-`ssangyong_musso_en_7f5ceb83` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b928d425de17955b046373670db6b55585966dd12ca9252c59c968bcf8daeedc.jpg)
 
@@ -3408,7 +3119,6 @@ The non-return valve prevents the oil in the chain tensioner from drying up. In 
 ![](images/6000a306e08532bbcfe82963ed3fa47fc4a54cc5a3dd46ff5ca1ec5ec4538c76.jpg)
 
 ### OIL GALLERY IN CRANKCASE
-`ssangyong_musso_en_9ecfe3a3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of crankshaft, removal of oil spray nozzle
 
@@ -3418,7 +3128,6 @@ Preceding Work Removal of crankshaft, removal of oil spray nozzle
 2 Steel Ball
 
 ### Cleaning Procedure
-`ssangyong_musso_en_e18f55a5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the plug (1) with a screwdriver.
 2. Using a round bar (3) and hammer, remove the steel ball (2).
@@ -3432,7 +3141,6 @@ Preceding Work Removal of crankshaft, removal of oil spray nozzle
 2 Main Oil Gallery
 
 ### Sealing Procedure
-`ssangyong_musso_en_67375839` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Enlarge the end of main oil gallery (4) to be diameter of 16mm, depth of 15mm.
 2. Using an M16 x 1.5 thread (tap), make the thread at the end of main oil gallery (4).
@@ -3440,7 +3148,6 @@ Preceding Work Removal of crankshaft, removal of oil spray nozzle
 4. Apply Loctite 270 on new plug and tighten to the hole until the drift is stopped after inserting new plug into the drift.
 
 ### OIL GALLERY IN CYLINDER HEAD
-`ssangyong_musso_en_3f69991f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cylinder head Removal of camshaft Removal of tappet
 
@@ -3450,7 +3157,6 @@ Preceding Work Removal of cylinder head Removal of camshaft Removal of tappet
 2 Seal
 
 ### Cleaning Procedure
-`ssangyong_musso_en_17495a12` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the screw plug (1) and the seal (2).
 
@@ -3463,7 +3169,6 @@ Replace the seal with new one.
 2. Clean the oil gallery using the compressed air.
 
 ### Sealing Procedure
-`ssangyong_musso_en_c628c972` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the screw plug (1) and the seal.
 
@@ -3500,7 +3205,6 @@ Screw Plug (Part No. 000 908 01 00 02) Seal (Part No. 007 603 01 01 03)
 ![](images/c2688fdd48a930e73f413cd9360a37846d6a10ec630397619702384fe19183a6.jpg)
 
 ### CORE PLUGS IN CRANKCASE
-`ssangyong_musso_en_4550576a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Draining of the coolant
 
@@ -3509,14 +3213,12 @@ Preceding Work Draining of the coolant
 1 Core Plug Replace
 
 ### Tools Required
-`ssangyong_musso_en_6c3844b3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 102 589 00 15 00 Drift
 
 1. Remove the intake and exhaust manifolds. 2. Pull back the core plug until the end of one side comes out using the screw driver.
 
 ### Replacement Procedure
-`ssangyong_musso_en_f6d97349` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 3. Pull out the plug carefully using a pliers.
 
@@ -3527,7 +3229,6 @@ Preceding Work Draining of the coolant
 5. Press in new plug using a drift.
 
 ### Notice
-`ssangyong_musso_en_17325674` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Wait for about 45minutes before filling the coolant so that the Loctite 240 hardens.
 
@@ -3536,13 +3237,11 @@ Wait for about 45minutes before filling the coolant so that the Loctite 240 hard
 ![](images/cc9f50a9ec9261e8c2cee34690d11b6fac79502cccee9ffd934f111e95450809.jpg)
 
 ### Repair Size
-`ssangyong_musso_en_289811d2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a5dee0606fc586c1353dae7e13b622d06bfd4110357db79447477a7660cef5df.jpg)
 1) The group code letters are carved on the surface of the piston crown and in the mating surface of the crankcase.
 
 ### Measurement of Cylinder Bore
-`ssangyong_musso_en_070d744f` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Clean the cylinder wall. 2. Using a internal diameter gauge, measure the bore size in axial and transverse direction at three points (1,2,3).
 
@@ -3553,7 +3252,6 @@ Chamfer Angle
 ![](images/9bd9bedd310d204a132be46c1d0adc32d645c60d3e2f8267f04a9b4293160ac1.jpg)
 
 ### Chamfering Procedure
-`ssangyong_musso_en_85c6bb63` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Chamfer angle 60°
 
@@ -3564,14 +3262,12 @@ Chamfer Angle
 ![](images/81a6fada9b073e739805b13a635d4beac84d56fea24f07f79a1d408dd027dd5e.jpg)
 
 ### CYLINDER HEAD MATING SURFACE
-`ssangyong_musso_en_42e07f0b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of valves
 
 ![](images/c9c9847bcee870ed2b05f1fd9cb912e5d2ccb9af8e9eb78efb853327424c987f.jpg)
 
 ### Measurement of Mating Surface
-`ssangyong_musso_en_c2dc41c2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Measure the height (H) of the cylinder head (refer to Service data standard).
 2. Check the mating surface of the cylinder head.
@@ -3582,12 +3278,10 @@ Preceding Work Removal of valves
 7. Mill the cylinder head valve seat (refer to Service data standard).
 
 ### M161 ENGINE MECHANICAL
-`ssangyong_musso_en_b688cb01` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 CAUTION: Discon ectthenegativebaterycablebeforeremovingorinstalinganyelectricalunitorwhena to l orequipmentcouldeasilycomeincontactwithexposed electrical terminals. Discon ectingthiscable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_84c5cbbb` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Specifications 1B2-2
 Fastener Tightening Specifications 1B2-2
@@ -3642,14 +3336,12 @@ Crankcase Mating Surface 1B2-110
 Cylinder Head Mating Surface 1B2-112
 
 ### SPECIAL TOOLS
-`ssangyong_musso_en_7c8488c3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 SPECIAL TOOLS TABLE
 
 ![](images/5b54f59f2c1a8b84656ffa69d77e5384785ef308c63576ccea77ea988dcbb176.jpg)
 
 ### SPECIAL TOOLS TABLE (Cont’d)
-`ssangyong_musso_en_667b00be` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8f04c9b03921e47a78c2fbccd0484a165aa0b38f741ad654a1f6f6297eb25a8c.jpg)
 
@@ -3658,7 +3350,6 @@ SPECIAL TOOLS TABLE
 ![](images/672094a96c69b73370c121859992df87978be5081c9a39febcfc0086215568f8.jpg)
 
 ### Installation Notice
-`ssangyong_musso_en_663e2458` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/808e8565e6a58b40b780479260f9b699591dd3f00c82c830360c2adc1adf14fb.jpg)
 
@@ -3677,7 +3368,6 @@ SPECIAL TOOLS TABLE
 7. Loosen the cylinder block drain plug and then drain the coolant completely.
 
 ### Notice
-`ssangyong_musso_en_551396b8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the seal before installation of the drain plug.
 
@@ -3708,7 +3398,6 @@ Replace the seal before installation of the drain plug.
 14. Remove the fuel feed and return line.
 
 ### Notice
-`ssangyong_musso_en_1bf17820` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before removing the fuel lines, release the pressure in the fuel system.
 
@@ -3790,7 +3479,6 @@ Installation Notice
 33. Installation should follow the removal procedure in the reverse order.
 
 ### CRANKCASE VENTILATION SYSTEM
-`ssangyong_musso_en_bd485844` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Operation at Idling and Mid-Load
 
@@ -3818,7 +3506,6 @@ Mid-Load)
 A Fresh Air C Blow-by Gas D Vent Connection
 
 ### Operation at Idling and Mid-Load
-`ssangyong_musso_en_0f320deb` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The throttle valve(6) is closed or very partially opened, and the vacuum pressure in intake manifold is high.
 
@@ -3831,7 +3518,6 @@ The fresh air gets supplied to the crank chamber(12) through the HFM sensor(1), 
 The additional supply of the fresh air is needed to prevent from forming the residues of the engine oil.
 
 ### Operation When Full-Load at Partial Load
-`ssangyong_musso_en_abdb0db3` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ![](images/87d339e0a515c7ea9e36fb9a67a8cc532e59eba181add5a4b1b7a0a9bb97ec56.jpg)
 
@@ -3857,12 +3543,10 @@ Mid-Load)
 A Fresh Air C Blow-by Gas D Vent Connection
 
 ### Operation When Full-Load at Partial Load
-`ssangyong_musso_en_b09cd972` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The throttle valve (6) is partially opened or fully opened. The air flows very rapidly through the vent line(5)s connection(D) and the intake air duct when full-load at partial load. Consequently, most of the low-by gases are supplied to the combustion chamber through the timing gear case cover(15), chain housing(17), oil separation chamber(3), vent line(5), throttle valve(6), and intake manifold(8).
 
 ### ALTERNATOR
-`ssangyong_musso_en_04d49d47` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/75229d12e2dc22b446f8f0508bad1444b09db9992000a7d5f0a05f2f29e5fd29.jpg)
 
@@ -3872,7 +3556,6 @@ The throttle valve (6) is partially opened or fully opened. The air flows very r
 4 Alternator Bracket
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_916742ab` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the drive belt.
 2. Remove the alternator.
@@ -3882,14 +3565,12 @@ Installation Notice
 ![](images/130e8c73406fe2b9b2cf86376ea81b5103b71cb6ce4b2b5d79270945d370e2aa.jpg)
 
 ### Notice
-`ssangyong_musso_en_10af40e2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Apply 3Nm of torque when mounting the bolt (1); apply 25 ± 2.5Nm of torque when mounting the bolts (2), and (3); and then tighten the bolt (1) with 25 ± 2.5Nm of torque.
 
 4. Installation should follow the removal procedure in the reverse order.
 
 ### POWER STEERING PUMP AND A/C BRACKET
-`ssangyong_musso_en_65b048ee` | musso | pdf_manual | tier:4 | lang:en | layer:steering | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cooling fan and shroud Removal of drive belt
 
@@ -3913,7 +3594,6 @@ Preceding Work Removal of cooling fan and shroud Removal of drive belt
 15 Bracket Gasket Replace
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_734edec9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the belt pulley after removal of poly v-belt.
 
@@ -3922,7 +3602,6 @@ Installation Notice
 ![](images/2bfd1de4924305eb1d693807ec68fa844c2c9792aface7d82eebaa5dc09b26aa.jpg)
 
 ### Notice
-`ssangyong_musso_en_c30a4bbb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Pull the tensioning pulley counterclockwise as shown in the figure.
 
@@ -3943,7 +3622,6 @@ Installation Notice
 4. Remove the compressor after disconnecting the wiring connector and refrigerant pipe of A/C compressor.
 
 ### Notice
-`ssangyong_musso_en_3295df27` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Discharge all the refrigerant before removing the pipes.
 
@@ -3956,7 +3634,6 @@ Discharge all the refrigerant before removing the pipes.
 6. Unscrew all the mounting bolts (arrows) and remove the A/C bracket and the gasket.
 
 ### Installation Notice
-`ssangyong_musso_en_24ac2a5c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/cd379cf09ceb7dca9c9982d20b2e5e93284f2de9f119732f946e95b33bf5caa0.jpg)
 
@@ -3968,14 +3645,12 @@ Discharge all the refrigerant before removing the pipes.
 10. Check the oil leakage by operating the engine after installation.
 
 ### HYDRAULIC ENGINE MOUNTING INSULATOR
-`ssangyong_musso_en_7dc5afa9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Service Data
 
 ![](images/ac387f479bb68626c7206087f47c5715199b275d2008d248ac177953a262a27e.jpg)![](images/051b61f55fe2b6d88b21111c0cc50c98f36e5c43d33d16e55d8ed3a68bd1869d.jpg)
 
 ### Sectional View
-`ssangyong_musso_en_66240b4c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/482c0fd6e3b046ca7d631e050104155daf8716de3ef483b66be6fa9bc954f7c2.jpg)
 
@@ -3986,14 +3661,12 @@ Service Data
 3 Lower Nut 1 28\~47 Nm
 
 ### Installation Notice
-`ssangyong_musso_en_9b0ac9cf` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/cbb3c1434deaf2d7fbd83815191325b628701d63fe1915ca48698f8d1263f149.jpg)
 
 2. Unscrew the lower nut(3) and remove the hydraulic engine mounting insulator.
 
 ### Notice
-`ssangyong_musso_en_89353539` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the insulator is spotted with oil, replace the hydraulic insulator assembly.
 
@@ -4002,21 +3675,18 @@ If the insulator is spotted with oil, replace the hydraulic insulator assembly.
 ![](images/ceb67b4cfb24c798b98de60f88c3527770ae2869549c1dfa217572b94f392916.jpg)
 
 ### POLY V-BELT
-`ssangyong_musso_en_74b59db3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cooling fan
 
 ![](images/c1ab21fa8a65d3c35c7cec7b61c0c9711bc013b2c99e7121e1c76dbdf9db1eb2.jpg)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_057ac5a1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Release the belt tension by turning the stud on the cap with 12 sided wrench or spanner counterclockwise.
 
 2. Remove the poly v-belt.
 
 ### Notice
-`ssangyong_musso_en_ab1ad4d2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the belt for damage and tensioning pulley bearing point for wear and replace them if necessary.
 
@@ -4025,7 +3695,6 @@ Check the belt for damage and tensioning pulley bearing point for wear and repla
 ![](images/3e1a809c115256775ee04e3486c326cb1dedaf3ef52d24ecfce32636ff4af0fe.jpg)
 
 ### TENSIONING DEVICE
-`ssangyong_musso_en_2b0545b7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of tensioning device shock absorber
 
@@ -4037,12 +3706,10 @@ Preceding Work Removal of tensioning device shock absorber
 34 Tensioning Device Stud bolt 5 Tensioning Arm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_9fdd0a17` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Turn the stud bolt to counterclockwise. 2. Insert the pin (111 589 01 15 00) into the hole in tensioning arm. 3. Unscrew the bolts (1, 2) and remove the tensioning device.
 
 ### Installation Notice
-`ssangyong_musso_en_748624de` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8f3b8249e95881e790c34a48f6bfe48999f226d52d812e65d6e1bc2267faaadb.jpg)
 
@@ -4051,7 +3718,6 @@ Preceding Work Removal of tensioning device shock absorber
 ![](images/6f301340b5aaf2ae0c32e7d1f97a0e92d6fe4eef3ad8d1902d92f78ddf39e618.jpg)
 
 ### TENSIONING DEVICE SHOCK ABSORBER
-`ssangyong_musso_en_e2d9b568` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2d843eea9770de0b0341f18ab17cfdaa6efeb2b4667ae05bbc8c10d3d941fc89.jpg)
 
@@ -4064,7 +3730,6 @@ Preceding Work Removal of tensioning device shock absorber
 7 Shock Absorber
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_52bb9637` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the end cover (1).
 
@@ -4079,7 +3744,6 @@ Installation Notice
 ![](images/334beb37bb4e2f725318eddcbab6dc7de30f7373e486f298dbe4f972c0b19fb4.jpg)
 
 ### POLY V-BELT INSPECTION
-`ssangyong_musso_en_e029c434` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make marks on the belt with chalk.
 
@@ -4088,7 +3752,6 @@ Make marks on the belt with chalk.
 Rotate the engine and check the belt for damage.
 
 ### Notice
-`ssangyong_musso_en_6fc4cf39` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If one of the following types of damages is found, replace the belt.
 
@@ -4115,7 +3778,6 @@ If one of the following types of damages is found, replace the belt.
 ![](images/ac9beef2efc80cf02767560cff499d76c2cd37a83ebe17747a7ef2621fa99896.jpg)
 
 ### CYLINDER HEAD COVER
-`ssangyong_musso_en_a5af4446` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ![](images/528e1bfff7b7469c45f13fc5543e775db0f688e755929f94531f832fe9a3b5f1.jpg)
 
@@ -4127,7 +3789,6 @@ If one of the following types of damages is found, replace the belt.
 5 Gasket 1 Replace
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_6a0e4018` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the intake air duct.
 
@@ -4142,7 +3803,6 @@ Installation Notice
 2. Remove the ignition coil cover.
 
 ### Notice
-`ssangyong_musso_en_b20171d0` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Release 3 screws from the ignition cover and remove the cover for M161 Engine coil.
 
@@ -4153,7 +3813,6 @@ Release 3 screws from the ignition cover and remove the cover for M161 Engine co
 ![](images/4ea089b272d0931c31bf31f0610dd84cbe8056298e8dda57e088ef7d17cbcc9c.jpg)
 
 ### CYLINDER HEAD FRONT COVER
-`ssangyong_musso_en_fea4b4d7` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cylinder head cover Removal of thermostat housing assembly Removal of engine hanger bracket
 
@@ -4170,7 +3829,6 @@ Preceding Work Removal of cylinder head cover Removal of thermostat housing asse
 9 Thermostat Housing
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_5ee853b1` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Disconnect the camshaft adjuster connector and remove the camshaft adjuster (E23 engine only).
 
@@ -4192,7 +3850,6 @@ Apply the sealant at the mating surface of the cylinder head and the front cover
 ![](images/b5e856fb6a122936be8534c646c5c1a5d5faa084655b021110e9e8467d40d79e.jpg)
 
 ### CYLINDER HEAD
-`ssangyong_musso_en_37e72241` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cylinder head cover Removal of cylinder head front cover Removal of intake manifold Removal of cylinder head lower line (intake manifold side)
 
@@ -4209,7 +3866,6 @@ Preceding Work Removal of cylinder head cover Removal of cylinder head front cov
 7 Dowel Sleeve Note
 
 ### Tools Required
-`ssangyong_musso_en_55693dff` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 617 589 00 10 00 Wrench Socket
 116 589 20 33 00 Sliding Hammer
@@ -4218,7 +3874,6 @@ Preceding Work Removal of cylinder head cover Removal of cylinder head front cov
 104 589 00 40 00 Holder
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_d30df699` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Rotate the crankshaft so that the piston of number cylinder is at ATDC 20.
 
@@ -4245,7 +3900,6 @@ Installation Notice
 ![](images/b093b52aa3d88aaf35041777d4e97b503458100fc47a8aa249934efc08cc8a42.jpg)
 
 ### Notice
-`ssangyong_musso_en_bb642646` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The flange bolt is designed to be used only once, so always replace with new one.
 
@@ -4258,7 +3912,6 @@ The flange bolt is designed to be used only once, so always replace with new one
 ![](images/7ac98b07c935ba95c6e2a4a766d9896c3750059d01c5a30ed8c6f777d3924675.jpg)
 
 ### Notice
-`ssangyong_musso_en_0a185502` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The flange bolt is designed to be used only once, so always replace with new one.
 
@@ -4274,7 +3927,6 @@ Nut
 8. Remove the guide rail pin using the sliding hammer (02) and the threaded pin (03).
 
 ### Notice
-`ssangyong_musso_en_e731550b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Apply the sealant on guide rail pin when installation.
 
@@ -4291,14 +3943,12 @@ Bolt (A) (M8 X 35, 4 pieces)
 10. Remove the cylinder head bolts in the reverse order of the numerics (No.10 ® No.1).
 
 ### Installation Notice
-`ssangyong_musso_en_e26519ea` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Tighten the bolts as numerical order with specified torque (No.1 ® No.10).
 
 ![](images/6637296981dc740c02eafa667432954250a2a706faa63ca31dadd2abb1224ab2.jpg)
 
 ### Notice
-`ssangyong_musso_en_c273d9cf` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Operate during engine cooling.
 
@@ -4324,7 +3974,6 @@ Holder 104 589 00 40 00
 ![](images/128f5c7b8d8e9ce38f0f42d93aaacfede4ea3c81539aa3c2d505baf74d8f910a.jpg)
 
 ### Notice
-`ssangyong_musso_en_0e92e06e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the bolt if the measured length exceed the max.
 length.
@@ -4334,7 +3983,6 @@ length.
 ![](images/a96d9805f64eeaea82fed87ae69bfb8947dd907b1760ebeaac83021004cd84d1.jpg)
 
 ### TIMING GEAR CASE COVER
-`ssangyong_musso_en_75bca474` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of viscous clutch Removal of cylinder head front cover Removal of tensioning device Removal of water pump Removal of oil filter element Removal of oil pan Removal of alternator bracker
 
@@ -4348,7 +3996,6 @@ Preceding Work Removal of viscous clutch Removal of cylinder head front cover Re
 6 Sleeve
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_52e7764f` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Remove the power steering belt pulley and A/C compressor bracket.
 2. Remove the oil line from power steering pump.
@@ -4367,7 +4014,6 @@ Installation Notice
 6. Remove the intake and exhaust camshaft sprocket (remove the camshaft adjuster assembly in E23 engine).
 
 ### Notice
-`ssangyong_musso_en_4165d331` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The flange bolt is designed to be used only once, so always replace with new one.
 
@@ -4376,7 +4022,6 @@ The flange bolt is designed to be used only once, so always replace with new one
 7. Remove the guide rail pin using the sliding hammer (02) and the threaded pin (03).
 
 ### Notice
-`ssangyong_musso_en_2c591071` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Apply the sealant on guide rail pin when installation.
 
@@ -4404,7 +4049,6 @@ Installation Notice
 ![](images/6f311fca4bddc3003aaad1ce7843ab607d2e8b5975ba219f368fb0065a16392a.jpg)
 
 ### Notice
-`ssangyong_musso_en_bdd46958` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to damage the cylinder head gasket.
 
@@ -4415,7 +4059,6 @@ Be careful not to damage the cylinder head gasket.
 13. Replace the O-ring with new one and apply the sealant on the sealing surface.
 
 ### Notice
-`ssangyong_musso_en_db8df079` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to stain the oil chamber of chain tensioner with the sealant.
 
@@ -4426,7 +4069,6 @@ Be careful not to stain the oil chamber of chain tensioner with the sealant.
 ![](images/71a43f7eaa6c6ee9b5b4d7c63564c11e4928db21310052c4d68d425d1122a8f0.jpg)
 
 ### CRANKSHAFT SEALING REAR COVER
-`ssangyong_musso_en_83db4957` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of the automatic transmission drive plate or flywheel
 
@@ -4441,12 +4083,10 @@ Bolt (M6 x 85, 2 pieces) 9-11 Nm
 Washer
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_115e2637` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Unscrew the bolts (1) and (5) and remove the closing cover by pulling the rear cover lug (arrows).
 
 ### Notice
-`ssangyong_musso_en_34ae3784` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to damage the oil pan gasket.
 
@@ -4459,7 +4099,6 @@ sealing cover.
 5. Apply the engine oil to the dust lip of the radial shaft seal.
 
 ### Notice
-`ssangyong_musso_en_9bd09389` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not use the grease.
 
@@ -4472,14 +4111,12 @@ Do not use the grease.
 7. Tighten the rear cover bolt (1) and then tighten the oil pan bolt (5) as specified and remove the special tool.
 
 ### Installation Notice
-`ssangyong_musso_en_0a068ea3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9d76c18a5bf31a29ea72e4f26319e40c8f1f896ff2d71173fa88bafd59ef43b3.jpg)
 
 ![](images/3c88e09f14d8e19b8ac3365ba4d6f497e24adb1ec1d32fae33acfe225914c137.jpg)
 
 ### BELT PULLEY AND VIBRATION DAMPER
-`ssangyong_musso_en_5d7a976c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cooling fan and viscous clutch Removal of fan shroud Removal of drive belt
 
@@ -4492,7 +4129,6 @@ Preceding Work Removal of cooling fan and viscous clutch Removal of fan shroud R
 6 Key
 
 ### Components
-`ssangyong_musso_en_f42e219a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/83598e415a69bd262c07da3899f1db989d267e2b4f8c7fc65a838884fe255e28.jpg)
 
@@ -4510,7 +4146,6 @@ Preceding Work Removal of cooling fan and viscous clutch Removal of fan shroud R
 12 Oil Pan Mounting Bolt (M6 x 22)
 
 ### Tools Required
-`ssangyong_musso_en_d290fe0f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 103 589 00 33 00 Puller
 001 589 65 09 00 Socket Wrench Insert
@@ -4519,7 +4154,6 @@ Preceding Work Removal of cooling fan and viscous clutch Removal of fan shroud R
 602 589 00 40 00 Engine Lock
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_7d588141` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Adjust the piston of number 1 cylinder to the TDC.
 
@@ -4529,7 +4163,6 @@ Preceding Work Removal of cooling fan and viscous clutch Removal of fan shroud R
 3. Remove the center bolt.
 
 ### Installation Notice
-`ssangyong_musso_en_d2b674bc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/cdde73959085a8d988a6b515cfe146b2d558550d1e8cbcf0706ec3086d7ea351.jpg)
 
@@ -4538,14 +4171,12 @@ Engine Lock 602 589 00 40 00
 4. Remove the vibration damper assembly using the puller. 5. Installation should follow the removal procedure in the reverse order.
 
 ### Notice
-`ssangyong_musso_en_8b468f4f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If possible, don’t separate the vibration damper and the pulley.
 
 ![](images/b992894eb8befac204587816bea721b4b13fd70dd78646a42bcf7ab2db040779.jpg)
 
 ### CRANKSHAFT FRONT RADIAL SEAL
-`ssangyong_musso_en_a7c50de4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of belt pulley and vibration damper
 
@@ -4558,7 +4189,6 @@ Preceding Work Removal of belt pulley and vibration damper
 5 Key
 
 ### Notice
-`ssangyong_musso_en_870cb207` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Use a clean cloth not to damage the radial seal mounting hole and the crankshaft.
 2. Coat the radial sealing lip with engine oil.
@@ -4566,7 +4196,6 @@ Use a clean cloth not to damage the radial seal mounting hole and the crankshaft
 4. Align the sleeve groove and the woodruff key and tighten the center bolt until the center bolt and the damper disk stop in the movement.
 
 ### Installation Notice
-`ssangyong_musso_en_0eae8a8f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d1853a854ac9e3d3affb974c898046a0d684c772be30e88665bd64227c4101d9.jpg)
 
@@ -4577,7 +4206,6 @@ Use a clean cloth not to damage the radial seal mounting hole and the crankshaft
 ![](images/a5a60f922ecd33be594b90a29b6999fd834f5be54a965229823706dc9deab160.jpg)
 
 ### CRANKSHAFT REAR RADIAL SEAL
-`ssangyong_musso_en_0fac49d2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of flywheel or drive plate
 
@@ -4587,7 +4215,6 @@ Preceding Work Removal of flywheel or drive plate
 2 Special Tool
 
 ### Notice
-`ssangyong_musso_en_d397fd6d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Use a clean cloth not to damage the radial seal mounting hole and the crankshaft.
 
@@ -4596,7 +4223,6 @@ Use a clean cloth not to damage the radial seal mounting hole and the crankshaft
 3. Apply the engine oil on the special tool (2).
 
 ### Notice
-`ssangyong_musso_en_c05f2c95` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not use the grease.
 
@@ -4609,7 +4235,6 @@ Do not use the grease.
 ![](images/3abe3df9b9db2d2ccfe377bd51509e497fbb214acdfdc3431366b64c1916df17.jpg)
 
 ### CRANKSHAFT
-`ssangyong_musso_en_01a67845` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Preceding Work Removal of engine Removal of cylinder head Removal of timing gear case cover Removal of crankcase sealing rear cover Removal of oil pan Removal of baffle plate Removal of oil pump
 
@@ -4624,7 +4249,6 @@ Preceding Work Removal of engine Removal of cylinder head Removal of timing gear
 8 Crank Shaft
 
 ### Arrangement of the Thrust Bearing and the Main Bearing
-`ssangyong_musso_en_9fc73bc4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ff6df427c83d4c3dac91e5a7ba08db03ae97a23f7954600016a1922bbd7d92f7.jpg)
 
@@ -4643,14 +4267,12 @@ The color dot marking are put on the 1  ,  2  ,  4  ,  6 8 , and it indicates th
 ![](images/5fdbfc132576eeb13620c3d126f92bb2696f30566ca5bf77eebada6922d52181.jpg)
 
 ### 1. Crankcase Side
-`ssangyong_musso_en_56b5c517` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 There are seven punching marks on the mating surface to oil pan. This mark is correspondent to the bearing distinguished by color. Select the relevant bearing according to the punching mark when repaired.
 
 ![](images/aa78cf600739c17c2e2e2adf9df2f0babc689a6a8a1365bfd491a8b1a7d2809a.jpg)
 
 ### 2. Crankshaft Bearing Cap Side
-`ssangyong_musso_en_d8fb943b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Select the crankshaft main bearing according to the marking letter on the crankshaft main journal when repaired.
 
@@ -4659,7 +4281,6 @@ Select the crankshaft main bearing according to the marking letter on the cranks
 ![](images/22789a463f0b51dae582dbf19545e96ed8465734bf232f85580d5cb7e1cdf6e5.jpg)
 
 ### Installation Notice
-`ssangyong_musso_en_e0b88394` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c0b5e557c39af0a24c74d4db668ccd848df35b598a35f9a0e41044c9323db90b.jpg)
 
@@ -4670,7 +4291,6 @@ Install the bearing cap according to the consecutive number.
 2. Unscrew the crankshaft bearing cap bolts and separate the upper and lower bearing shells and thrust washers.
 
 ### Installation Notice
-`ssangyong_musso_en_c5ea0d40` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/978fd659c3dbbb7a8aed1b3f9308863049bb2b43bf15ab87aadf2bcfe3238674.jpg)
 
@@ -4688,14 +4308,12 @@ There are five kinds of thrust washers by thickness. Select the proper washer wh
 Part No. : 601 030 00 62 2.15 mm Part No. : 601 030 01 62 2.20 mm Part No. 601 030 02 62 2.25 mm Part No. 601 030 03 62 2.30 mm Part No. 601 030 04 62 2.40 mm
 
 ### Installation Notice
-`ssangyong_musso_en_c34e442d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure the crankshaft bearing cap properly seated in place in the crankcase side. When perfectly installed, the projected part (arrow) locates in the left side (intake manifold side). Assemble so that the projected part of the cap and crankcase face the same direction.
 
 ![](images/46a72c446b8651e4ee3644ea42a75bb98b35bcd423f96668265ef64d15bab8d7.jpg)
 
 ### Inspection
-`ssangyong_musso_en_42f00f7e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. If the length ‘L’ of the crankshaft bearing cap bolt exceeds 63.8mm, replace it.
 
@@ -4706,7 +4324,6 @@ Make sure the crankshaft bearing cap properly seated in place in the crankcase s
 3. Measure and record the inner diameter of the crankshaft bearing.
 
 ### Notice
-`ssangyong_musso_en_181e6479` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Measure at 2 points (1, 2).
 Measure ‘A’,‘B’and ‘C’ as shown. If average value of ‘B’ and ‘C’is less than value ‘A’, then the average value of ‘B’ and ‘C’ is actual average value. If average value of ‘B’ and ‘C’ is more than value ‘A’is actual average value.
@@ -4719,13 +4336,11 @@ Measure the inner diameter of bearing and the diameter of journal and if it is o
 ![](images/ffd3e4ed81ace7be7d8c6819b42e2c54c4db5476d3599f8c22f3cba1c667fdf9.jpg)
 
 ### Notice
-`ssangyong_musso_en_437a4fd8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Service Data Standard (Crankshaft Main Bearing Gap)
 ![](images/3f6aa655b1d29493b452a7d80521bba0f6767c366a6bfea972dd5bef87405717.jpg)
 
 ### FLYWHEEL/DRIVEN PLATE
-`ssangyong_musso_en_47fdcbd7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of manual or automatic transmission
 
@@ -4738,7 +4353,6 @@ Preceding Work Removal of manual or automatic transmission
 3 Driven Plate (A/T) 45 Dowel Pin Flywheel (M/T)
 
 ### Installation Notice
-`ssangyong_musso_en_dd13ca1a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/309197c3e1ee8015829bea47dd25d3e851fca8ec0ecec8092f420c613938cc50.jpg)
 
@@ -4749,7 +4363,6 @@ Replace the bolt when the stretch side diameter (d) of the flywheel mounting bol
 3. Installation should follow the removal procedure in the reverse order.
 
 ### Sectional View
-`ssangyong_musso_en_b52a3211` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d09372d7c74f5f58cf4e82b5c0f23b4ee942d17a1924bf67e3293d58fe86b061.jpg)
 
@@ -4769,7 +4382,6 @@ Radial Seal
 14 Ring Gear
 
 ### CAMSHAFT ADJUSTER
-`ssangyong_musso_en_25ac4f86` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ![](images/faf889c109f24f7ac66fb056b48066e319ba0ee543a99d462f1b86381046793d.jpg)
 
@@ -4796,7 +4408,6 @@ Radial Seal
 Y49 Magnetic Actuator (2-pin connector)
 
 ### Notice
-`ssangyong_musso_en_e572dc0c` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Turn the crankshaft in the direction of engine rotation.
 
@@ -4813,7 +4424,6 @@ Turn the crankshaft in the direction of engine rotation.
 6. Unscrew the exhaust sprocket bolt and remove the exhaust camshaft sprocket.
 
 ### Notice
-`ssangyong_musso_en_c0349100` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The flange bolt is designed to be used only once, so always replace with new one.
 
@@ -4830,7 +4440,6 @@ Installation Notice
 ![](images/d4777a6da04750bf1cee07215f35ea48412f98a7e400656f76b3569863fc71ec.jpg)
 
 ### Notice
-`ssangyong_musso_en_cca0d06c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Put the locking slot of nut toward armarture.
 
@@ -4841,7 +4450,6 @@ Put the locking slot of nut toward armarture.
 11. Unscrew the bolt (11) and remove the flange shaft.
 
 ### Notice
-`ssangyong_musso_en_16fa4ff0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The flange bolt is designed to be used only once, so always replace with new one.
 
@@ -4852,7 +4460,6 @@ The flange bolt is designed to be used only once, so always replace with new one
 ![](images/dc960380861eec8bad5b3887060b40fbc5a51d1cc55a958cc1f9302c5a2f84f1.jpg)
 
 ### Notice
-`ssangyong_musso_en_73eca4af` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The sprocket bolts are designed to be used only once, so always replace with new one.
 
@@ -4865,7 +4472,6 @@ e. 6.8 mm
 ![](images/63bf50c38dfdb1eae9d37518e77aeba628e57ce013b8842de11220b3cf6935a0.jpg)
 
 ### Notice
-`ssangyong_musso_en_b1da8875` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The sprocket bolts are designed to be used only once, so always replace with new one.
 
@@ -4874,7 +4480,6 @@ E. M7 x 13 Collar Bolt Torx-T30 e. 6.8 mm 13a. Camshaft Sprocket 22a. Exhaust Ca
 ![](images/0d496a191fd38651bea1b6e94b1e460fa78712a15d1de81b8f562161d66ce288.jpg)
 
 ### CAMSHAFT
-`ssangyong_musso_en_9a8f2852` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work : Removal of cylinder head cover Removal of camshaft adjust actuator and cylinder head front cover
 
@@ -4891,7 +4496,6 @@ Preceding Work : Removal of cylinder head cover Removal of camshaft adjust actua
 7 Wrench (Special Tool)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_1906488b` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Turn the crankshaft and position the no.1 cylinder piston at ATDC20°.
 
@@ -4909,7 +4513,6 @@ Installation Notice
 ![](images/88158cec2eafa700097e1ddef3640f24a36d864e35cf644e1b06376f86f39eba.jpg)
 
 ### Notice
-`ssangyong_musso_en_e2dd20be` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 5. Take off the timing chain from intake camshaft sprocket, and secute it not to fall down into the timing gear case.
 
@@ -4922,7 +4525,6 @@ The sprocket bolt is designed to be used only once, so always replace with new o
 7. Remove the bearing cap, and remove the intake and the exhaust camshaft.
 
 ### Notice
-`ssangyong_musso_en_799b5a3a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the numbers on the bearing cap not to be miked up.
 
@@ -4933,7 +4535,6 @@ Check the numbers on the bearing cap not to be miked up.
 9. Installation should follow the removal procedure in the reverse order.
 
 ### Notice
-`ssangyong_musso_en_dcfe7658` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Base circle of cam should cantact with the valve tappet. Install the camshaft bearing caps according to the numbers on the cylinder head cast and bearing cap.
 
@@ -4942,7 +4543,6 @@ Base circle of cam should cantact with the valve tappet. Install the camshaft be
 ![](images/821639fd4f15980a160beefc0b91d974062be660b718c05cbc00bfeabe3f5ec4.jpg)
 
 ### CAMSHAFT TIMING POSITION
-`ssangyong_musso_en_b1ade228` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cylinder head cover Removal of cylinder head front cover
 
@@ -4958,7 +4558,6 @@ Preceding Work Removal of cylinder head cover Removal of cylinder head front cov
 7 Strate Pin
 
 ### Notice
-`ssangyong_musso_en_3629b93f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the ATDC 20° mark on vibration damper is aligned with timing gear case cover, the intake and exhaust cam of cylinder will make the slope to the center and will face up. In this way, the insert hole in NO.1 and NO.4 camshaft bearing cap will match in line with the flange hole for camshaft sprocket.
 
@@ -4971,7 +4570,6 @@ Check if the insert pin (111 589 03 15 00) can be inserted into the NO.1 and NO.
 ![](images/c44ed666fd4f7d02cfe1084f7997f66a97c264ef0da2c5dae1bcdefd97a96f7f.jpg)
 
 ### Adjustment Procedure
-`ssangyong_musso_en_4f7528b7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Position the NO.1 cylinder to ATDC 20°
 2. Remove the chain tensioner.
@@ -4981,7 +4579,6 @@ Check if the insert pin (111 589 03 15 00) can be inserted into the NO.1 and NO.
 6. Install the chain to the exhaust camshaft sprocket and tighten the bolt.
 
 ### Installation Notice
-`ssangyong_musso_en_1d1f4bad` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7bce3b8ce2ce998ec18a589d539fb331f690a64735ce2979bc36f9e157ca2ee6.jpg)
 
@@ -4990,14 +4587,12 @@ The sprocket bolt is designed to be used only once, so replace with new one.
 7. Install the chain tensioner.
 
 ### Installation Notice
-`ssangyong_musso_en_a621f5af` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f9b2b0f2fae584c5ddef6b9e2d3f66108e59a01d4a56e34fce6424fe717e565e.jpg)
 
 8. Check the camshaft timing.
 
 ### VALVE SPRING
-`ssangyong_musso_en_e9e663f7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of camshaft Removal of spark plug
 
@@ -5017,7 +4612,6 @@ Preceding Work Removal of camshaft Removal of spark plug
 12 Supporting Bar
 
 ### Tools Required
-`ssangyong_musso_en_5df97fc5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 111 589 01 59 00 Supporting Bar
 111 589 18 61 00 Lever Pusher
@@ -5025,12 +4619,10 @@ Preceding Work Removal of camshaft Removal of spark plug
 116 589 06 63 00 Magnetic Finger
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_bd3912fd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Place the supporting bar (12) and the slide (9) at the camshaft bearing cap (Nos 1 & 7/8&14) and tighten them with the bearing cap bolt.
 
 ### Installation Notice
-`ssangyong_musso_en_a9627e55` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ![](images/8a62f6878e643f7d83f1039d637fe742a9e6e5cb4c6b4bb35f9056366f8fb137.jpg)
 
@@ -5043,7 +4635,6 @@ Supporting Bar 111 589 01 59 00
 ![](images/464f3ef150ecd421bdb4d6bd16a6e8da3777aded8a0874fc59733b7c4cc0ff35.jpg)
 
 ### Notice
-`ssangyong_musso_en_bcc074f8` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Remove the valve spring only at TDC. Always rotate the crankshaft by holding the chain to prevent from timing chain damage and tangling, and for smooth rotation.
 
@@ -5079,7 +4670,6 @@ Magnetic Finger 116 589 06 63 00
 15. Remove the valve stem seal and replace if necessary.
 
 ### Notice
-`ssangyong_musso_en_5f3fe43f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the retainer for damages and replace with a new one if necessary.
 
@@ -5090,7 +4680,6 @@ Check the retainer for damages and replace with a new one if necessary.
 ![](images/9291a9b01428fee09052ee486c7f3fee4a2ba6927a2b46ea897fa471e4f20916.jpg)
 
 ### Test (Upper and Lower Valve Tappet and Valve Cotter)
-`ssangyong_musso_en_37084069` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Upper Valve Spring Retainer
 
@@ -5109,7 +4698,6 @@ Valve Cotter
 ![](images/54a05f42eca5e8ad9f182a7e00a0a3a666882dfc80e152ac3162eda5778c307b.jpg)
 
 ### VALVE STEM SEAL
-`ssangyong_musso_en_6645615d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of valve spring
 
@@ -5118,7 +4706,6 @@ Preceding Work Removal of valve spring
 Tools Required104 589 00 37 00 Pliers119 589 00 43 00 Drift
 
 ### Notice
-`ssangyong_musso_en_a47639a6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the valve stem seal for damage and replace if necessary.
 
@@ -5129,7 +4716,6 @@ Pliers 104 589 00 37 00
 Drift 119 589 00 43 00
 
 ### CHAIN TENSIONER
-`ssangyong_musso_en_8f0a68df` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/27b8ecbd0c411e59a26c548951180cd75a163b6d86c4ba9da3e31299ad4acc14.jpg)
 
@@ -5143,7 +4729,6 @@ Drift 119 589 00 43 00
 8 Seal
 
 ### Notice
-`ssangyong_musso_en_47e7534d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remove the oil filler cap at adjustment position, and check whether the intake camshaft cam’s lobe (arrow) stays in the upper side.
 
@@ -5152,7 +4737,6 @@ Remove the oil filler cap at adjustment position, and check whether the intake c
 3. Release the tension by unscrewing the screw plug once.
 
 ### Notice
-`ssangyong_musso_en_46491df5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In case that the tension is reduced by unscrewing the screw plug, reinstall after completely removing the chain tensioner. If the chain tensioner is tightened again without completely reducing its tension, then the snap ring doesn’t return to the original position and the tension gets excedded.
 
@@ -5161,7 +4745,6 @@ In case that the tension is reduced by unscrewing the screw plug, reinstall afte
 4. Carefully unscrew the screw plug (1), and remove the seal (2).
 
 ### Notice
-`ssangyong_musso_en_6943ac96` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For the removal of screw plug, be careful that it can be jumped out due to the force of compression spring. Remove the screw plug only when the seal and compression spring are damaged.
 
@@ -5174,14 +4757,12 @@ For the removal of screw plug, be careful that it can be jumped out due to the f
 ![](images/7b265ec882d893819ef2967e55f5214b8b3869549f1a4fb1a4b94c816116330e.jpg)
 
 ### Notice
-`ssangyong_musso_en_bcc1ad0a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When connecting the thrust pin, push in the thrust pin far enough so that it doesn’t protrude at the chain tensioner housing.
 
 2. Install the chain tensioner housing (7), Thrust pin (6), snap ring (5), and the seal (8).
 
 ### Installation Notice
-`ssangyong_musso_en_fbfe4b4c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d623d4cd4a66e28d77d05606c8a46a9ebdc53e6fa896b009553d3dffaec660fd.jpg)
 
@@ -5192,7 +4773,6 @@ When connecting the thrust pin, push in the thrust pin far enough so that it doe
 4. Lightly apply the grease to the seal (2) and install the screw plug (1).
 
 ### Installation Notice
-`ssangyong_musso_en_83b0dc21` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c9edb00ca27e07f73705209acc4b127a61a04363337bf0ebb66448e1122f0c57.jpg)
 
@@ -5201,7 +4781,6 @@ When connecting the thrust pin, push in the thrust pin far enough so that it doe
 ![](images/45bf02fc7e60f0f99215968d404f42b737b24d349acd3e23bf9f5e4053f22944.jpg)
 
 ### Sectional View
-`ssangyong_musso_en_1d4ab88b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/1a5bc2e62ff447689a319935f04ac7e4c549ce4ab0c5ca6784a15776593b4ae2.jpg)
 
@@ -5230,7 +4809,6 @@ A Oil Supply Hole
 B Chain Tensioner Oil Storage Hole
 
 ### TIMING CHAIN
-`ssangyong_musso_en_ad772971` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cylinder head cover Removal of spark plug
 
@@ -5242,7 +4820,6 @@ Preceding Work Removal of cylinder head cover Removal of spark plug
 567 Link Center Plate Outer Plate
 
 ### Replacement Procedure
-`ssangyong_musso_en_8605fc56` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Position the NO.1 cylinder to ATDC 20°.
 
@@ -5266,7 +4843,6 @@ Preceding Work Removal of cylinder head cover Removal of spark plug
 8. Rotate the crankshaft in the direction if engine revolution by pressing the new timing chain against the exhaust camshaft sprocket to prevent it to be tangled.
 
 ### Notice
-`ssangyong_musso_en_38855dc7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be sure to remove the wedge before cranking the engine.
 
@@ -5310,7 +4886,6 @@ Be sure to remove the wedge before cranking the engine.
 ![](images/c0c604d2ea4bfabf781755bbe604891be808636ee954a4ad389d8d5f2b2455b8.jpg)
 
 ### TENSIONING RAIL
-`ssangyong_musso_en_ef9a3ce0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cylinder head
 
@@ -5320,28 +4895,24 @@ Preceding Work Removal of cylinder head
 2 Sliding Rail
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_74e64a3f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the timing gear case cover (3). Notice Be careful not to damage the gasket.
 
 2. Remove the sliding rail (1) from the sliding rail pin (2).
 
 ### Notice
-`ssangyong_musso_en_37df37cd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the plastic guide (2) if it is damaged. For installation, exactly align the plastic guide (2) with the sliding rail (1).
 
 3. Installation should follow the removal procedure in the reverse order.
 
 ### CYLINDER HEAD GUIDE RAIL
-`ssangyong_musso_en_516d4556` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cylinder head cover
 
 ![](images/6e91ca3865a68e65a471b83f1aeda37c2249ebf575b6c448520e8f5930dd262b.jpg)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_db1c463e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Position the number 1 cylinder to ATDC20° guide rail. 2. Install the pin (special tool : 111 589 03 15 00) into the no.1 and no.6 bearing cap hole.
 
@@ -5360,7 +4931,6 @@ Preceding Work Removal of cylinder head cover
 ![](images/2ce152c40620585ea32ee79455fc2fcbb04dbd25a6021f8805a6e80ca299da2f.jpg)
 
 ### CRANKCASE GUIDE RAIL
-`ssangyong_musso_en_e4318a37` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of timing gear case cover
 
@@ -5370,21 +4940,18 @@ Preceding Work Removal of timing gear case cover
 2 Guide Rail
 
 ### Notice
-`ssangyong_musso_en_b5b3705e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to damage the gasket when removing/ installing the timing gear case cover.
 
 2. Remove the guide rail (2) from the guide rail pin(1).
 
 ### Notice
-`ssangyong_musso_en_71d3be38` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the plastic guide (2) if damaged. Connect the plastic guide (2) and the guide rail (1) by aligning them accurately when installing.
 
 3. Installation should follow the removal procedure in the reverse order.
 
 ### CRANKSHAFT SPROCKET
-`ssangyong_musso_en_850617c4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of oil pan Removal of tensioning rail Removal of crank case guide rail Removal of cylinder head
 
@@ -5402,19 +4969,16 @@ Preceding Work Removal of oil pan Removal of tensioning rail Removal of crank ca
 10 Timing Chain
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_8ddc6952` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Put the assembly mark at the crankshaft sprocket (4) and the timing chain (10) with the paint (arrow).
 
 ### Installation Notice
-`ssangyong_musso_en_37e0b964` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Align the assembly marks on cranshaft sprocket and timing chain. Also, align the assembly marks on camshaft sprocket and timing chain when installing.
 
 2. Unscrew the bolt (6) and remove the oil pump sprocket (7) from the oil pump.
 
 ### Installation Notice
-`ssangyong_musso_en_6c66f683` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b0767e7122179c6b6a7ed3fb72ac6aa8a52fcc9f895d53beea937ddc768b03bd.jpg)
 
@@ -5427,7 +4991,6 @@ Align the assembly marks on cranshaft sprocket and timing chain. Also, align the
 5. Remove the crankshaft sprocket (4) using the puller (04, special tool).
 
 ### Notice
-`ssangyong_musso_en_180147e1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure not to lose the crankshaft pulley key (5) when removing. Install the crankshaft sprocket (4) after warming it up.
 
@@ -5436,7 +4999,6 @@ Make sure not to lose the crankshaft pulley key (5) when removing. Install the c
 ![](images/fb51578d06a187d0ddd38e2881b4c85b4ee5abe8e5657874f111e7606d6486f1.jpg)
 
 ### PISTON
-`ssangyong_musso_en_f603b4c6` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Preceding Work Removal of engine Removal of cylinder head Removal of oil pan Removal of oil pump Removal of baffle plate
 
@@ -5449,18 +5011,15 @@ Preceding Work Removal of engine Removal of cylinder head Removal of oil pan Rem
 4 Piston 56 Snap Ring Piston Pin
 
 ### Removal Procedure
-`ssangyong_musso_en_52691849` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Unscrew the connecting rod bolt (3) and remove the cap.
 2. Remove the connecting rod and the piston upward.
 
 ### Notice
-`ssangyong_musso_en_4286eac6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure that the bearing cap and shell are not changed each other. 3. Remove the snap ring (5) and pull out the piston pin (6).
 
 ### Notice
-`ssangyong_musso_en_24c288c4` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Remove the snap ring using a clean cloth as shown in the right picture so that the piston, piston ring, and the snap ring don’t get damaged.
 
@@ -5476,7 +5035,6 @@ Remove the snap ring using a clean cloth as shown in the right picture so that t
 6. After aligning the connecting rod and the bearing cap mark (// or a number), tighten the bolts.
 
 ### Installation Notice
-`ssangyong_musso_en_f66d9e64` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a36818f587590820b7f366df3ab2c0a4cceb6caff1e51d2c71c71427b5c7e823.jpg)
 
@@ -5487,7 +5045,6 @@ Apply the engine oil to the bearing cap upper and lower bearing shells.
 ![](images/2a3b88f06c8b1d6e4f714c607cc5ad03cf0594e4e44ef3ac75288332f9de3472.jpg)
 
 ### CONNECTING ROD
-`ssangyong_musso_en_f2bf2363` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of piston
 
@@ -5506,7 +5063,6 @@ Preceding Work Removal of piston
 9 Marking [Indication(//) or Numbers]
 
 ### Notice
-`ssangyong_musso_en_5ec107f0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the basic bore exceeds the value of 51.614mm, replace the bearing or check the connecting rod.
 
@@ -5515,7 +5071,6 @@ If the basic bore exceeds the value of 51.614mm, replace the bearing or check th
 ![](images/0079b1b45a362d513bc0d328f66d00854a400c51787fa695cfac1a604ea7fb6c.jpg)
 
 ### Notice
-`ssangyong_musso_en_a503602f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 + the length exceeds max. length, replace it.
 
@@ -5524,12 +5079,10 @@ If the basic bore exceeds the value of 51.614mm, replace the bearing or check th
 3. Check the assembly mark(indication//or number:arrow) of the connecting rods and the bearing cap when installing.
 
 ### Notice
-`ssangyong_musso_en_67766a22` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure it doesn’t exceed over 4g with other connecting rods when replacing the connecting rods. Check if the connecting rod and the bearing cap are accurately seated on the groove when replacing the bearing.
 
 ### PISTON RING
-`ssangyong_musso_en_484ef9bb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of piston
 
@@ -5543,14 +5096,12 @@ Piston Oil Ring
 6 Side Rail
 
 ### Replacement Procedure
-`ssangyong_musso_en_70edfe39` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Measure the piston ring’s gap.
 
 ![](images/4299194830bdd25cc735486a2b006711b35fd7e54162e29869e530c9918dfaa1.jpg)
 
 ### Notice
-`ssangyong_musso_en_695416a9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If out of specification, replace the piston ring.
 
@@ -5564,7 +5115,6 @@ Clamping Strap 000 589 51 37 00
 ![](images/9b79a81ff618a1a34eae4be700f3f4df9a0f58f3c2f28d32b9da7fa8ec977835.jpg)
 
 ### OIL PAN
-`ssangyong_musso_en_23c6f53c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/6ad0b5a703d1381837ba4685f0c02681ebaff397958bad95e2b1190d1c84a7a1.jpg)
 
@@ -5587,7 +5137,6 @@ Clamping Strap 000 589 51 37 00
 M8 X 40, 4 pieces M6 X 35, 1 pieces M6 X 100, 2 piece M6 X 85, 3 pieces M6 X 20, 20 pieces
 
 ### Oil Circulation
-`ssangyong_musso_en_4d2bf707` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ![](images/b1e09ad5d3d1673abf1d3cb9d79374db02fbaa16f3202ac6c4c70aa2c7e24d16.jpg)
 
@@ -5623,7 +5172,6 @@ Crankcase)
 29 Oil Return Pipe
 
 ### ENGINE OIL AND OIL FILTER ELEMENT
-`ssangyong_musso_en_e1d8f8de` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/28a00c18b54ffb7658ce498c92b6aa41d92571a486b3d520356f0a6e259ec166.jpg)
 
@@ -5632,7 +5180,6 @@ Crankcase)
 3 Oil Filter Element 6 Oil Filter Cap
 
 ### Notice
-`ssangyong_musso_en_47cb2e98` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make the screw cover removable by tightening the bolt at the side of the socket wrench (special tool).
 
@@ -5641,7 +5188,6 @@ Make the screw cover removable by tightening the bolt at the side of the socket 
 3. Remove the oil filter element.
 
 ### Notice
-`ssangyong_musso_en_c8c5bb66` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Work with a cloth under the vehicle when removing the oil filter element to not drain the oil.
 
@@ -5660,7 +5206,6 @@ Replace the seal washer with new one.
 8. Temporarily tighten the oil filter cover (2). Install the socket wrench “7” (special tool 103 589 02 09 00), and then completely tighten it.
 
 ### Installation Notice
-`ssangyong_musso_en_2082cdd8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/bc2896276241c02cf0d9575cb37bd2c1c0a7d44321995e00fea52d3c1a60d617.jpg)
 
@@ -5676,7 +5221,6 @@ Replace the seal washer with new one.
 ![](images/6181b295a253f06475d83c715a798e193253a27c95734d9797c50cedb1937c9c.jpg)
 
 ### OIL PUMP
-`ssangyong_musso_en_b2687305` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of oil pan
 
@@ -5696,7 +5240,6 @@ Preceding Work Removal of oil pan
 (E23 Engine Only Baffle Plate Mounting Bolt)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_3bcd6c6c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Unscrew the bolt (6) from the oil pump drive sprocket and separate the oil pump drive chain.
 
@@ -5725,7 +5268,6 @@ Insert the steel gasket into the oil pump and bolt (4) mounting surface.
 ![](images/d336fa0f8c68fd8b004099b3951c109bb34f243ab44333f2172a513cd43b81e2.jpg)
 
 ### OIL PRESSURE RELIEF VALVE
-`ssangyong_musso_en_728ccca4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of oil pan
 
@@ -5737,7 +5279,6 @@ Preceding Work Removal of oil pan
 4 Piston
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_c33020f0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the screw plug (1).
 
@@ -5750,19 +5291,16 @@ Installation Notice
 3. Installation should follow the removal procedure in the reverse order.
 
 ### OIL NON-RETURN VALVE
-`ssangyong_musso_en_a411b914` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of timing gear case cover
 
 ![](images/f89bc09973e4e47b04cbee8e73bdb9a6f6caa4e4c3122a7e40ec517ee48dac70.jpg)
 
 ### Functions
-`ssangyong_musso_en_3c16fdae` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The non-return valve prevents the oil in the chain tensioner from drying up. In other words, it stops oil-returning in order to prevent the oil in the chain tensioner from getting dry. As a result, the chain tensioner can be activated with oil in itself.
 
 ### Replacement Procedure
-`ssangyong_musso_en_8d7c78ce` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the non-return valve using a pliers.
 2. Insert new non-return valve with hand.
@@ -5770,7 +5308,6 @@ The non-return valve prevents the oil in the chain tensioner from drying up. In 
 ![](images/6f37bfbae4d9e096bf174866eeb94b7d014164fe1ec74d16b0f97e71414700aa.jpg)
 
 ### OIL DIPSTICK GUIDE TUBE
-`ssangyong_musso_en_677eac04` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5c58f00d0306798e806f17789e4813cad3c1c4c6f24b3e02fef0cc8abe77de7f.jpg)
 
@@ -5780,7 +5317,6 @@ The non-return valve prevents the oil in the chain tensioner from drying up. In 
 5 Clamp
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_3c52835c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Pull out the oil dipstick level gauge (1).
 
@@ -5797,7 +5333,6 @@ It is very hard to remove the oil dipstick guide tube without special tool. If i
 4. Check for leaks by starting the engine.
 
 ### CORE PLUGS IN CRANKCASE
-`ssangyong_musso_en_08e71d76` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Draining of the coolant
 
@@ -5806,7 +5341,6 @@ Preceding Work Draining of the coolant
 1 Core Plug Replace
 
 ### Replacement Procedure
-`ssangyong_musso_en_1cc96745` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the intake and exhaust manifolds. 2. Pull back the core plug until the end of one side comes out using the screw driver.
 
@@ -5821,7 +5355,6 @@ Preceding Work Draining of the coolant
 5. Press in new plug using a drift.
 
 ### Notice
-`ssangyong_musso_en_10c621c1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Wait for about 45minutes before filling the coolant so that the Loctite 241 hardens.
 
@@ -5830,7 +5363,6 @@ Wait for about 45minutes before filling the coolant so that the Loctite 241 hard
 ![](images/0b9ad79e515b7cb36702413a1bc1aa8369ee52ae3277fc079ad1b1ca97752bd0.jpg)
 
 ### CYLINDER BORE
-`ssangyong_musso_en_90501a0b` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ![](images/eb803cb7921744372f63c582501c487c5fb4aeef9a2da07f2d0bec30db131239.jpg)
 
@@ -5841,7 +5373,6 @@ Group Code Letter and Cylinder Bore Size
 1) The group code letters are carved on the surface of the piston crown and in the mating surface of the crankcase.
 
 ### Measurement of Cylinder Bore
-`ssangyong_musso_en_7931608f` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Clean the cylinder wall. 2. Using a internal diameter gauge, measure the bore size in axial and transverse direction at three points (1,2,3).
 
@@ -5852,7 +5383,6 @@ Chamfer Angle
 ![](images/81b816b1c718727521401d72c4fd2e2a9a21a67c0099df03dc71deb1e6354102.jpg)
 
 ### Chamfering Procedure
-`ssangyong_musso_en_6056684c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Chamfer angle 75°
 
@@ -5861,14 +5391,12 @@ Chamfer Angle
 ![](images/fcd0f3a1e76945fa8b4f425694afc1d7b3e8c4f2837df17025663f86b7662ff8.jpg)
 
 ### CYLINDER HEAD MATING SURFACE
-`ssangyong_musso_en_169cf816` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of valves
 
 ![](images/828098472d85dd26825405391d6a1aa9afe9150cd8e93500698ab9b9f8eff035.jpg)
 
 ### Measurement of Mating Surface
-`ssangyong_musso_en_c2dc41c2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Measure the height (H) of the cylinder head (refer to Service data standard).
 2. Check the mating surface of the cylinder head.
@@ -5879,12 +5407,10 @@ Preceding Work Removal of valves
 7. Mill the cylinder head valve seat (refer to Service data standard).
 
 ### OM600 ENGINE MECHANICAL
-`ssangyong_musso_en_81b67f08` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 CAUTION: Discon ectthenegativebaterycablebeforeremovingorinstalinganyelectricalunitorwhena to lorequipmentcouldeasilycome incontactwithexposedelectrical terminals. Discon ectingthiscable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_6df38d86` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Specifications. 1B3-2
 Fastener Tightening Specifications 1B3-2
@@ -5943,21 +5469,18 @@ Oil Gallery Steel Ball 1B3-183
 Cylinder Bore Measurement 1B3-187
 
 ### SPECIAL TOOLS
-`ssangyong_musso_en_e04effd9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 SPECIAL TOOLS TABLE
 
 ![](images/5683a7e6c599ddde0256eaa22b1ddfe1ebc185b7378db8fa4c76f2046958018f.jpg)
 
 ### SPECIAL TOOLS TABLE (Cont’d)
-`ssangyong_musso_en_7a98be69` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e896ef9eb5f73fc360ec5a9360d8b51d6a805617152bd37a47eb88a9857bff36.jpg)
 
 ![](images/9026ebdf4d5ee7241e996077b9e5dbe894285c1c9f4ae1d8cbcf1961401e7a4e.jpg)
 
 ### Installation Notice
-`ssangyong_musso_en_cb22dc98` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/34c558ad14e14be4b31297b7fd2273b0ec772fdffb157598ad38ad0fcfb53a42.jpg)
 
@@ -5972,7 +5495,6 @@ SPECIAL TOOLS TABLE
 6. After draining, replace the seal and reinstall the drain plug.
 
 ### Installation Notice
-`ssangyong_musso_en_b5b2350e` | musso | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 ![](images/bc755be185311f9230b863ed470e8edb397c2933753edffa68197401653bd390.jpg)
 
@@ -6055,7 +5577,6 @@ SPECIAL TOOLS TABLE
 ![](images/179737a3be112a37a2693e9c935294d970eab4e6e93da3c656f25248e6bbce77.jpg)
 
 ### Installation Notice
-`ssangyong_musso_en_2751caef` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 ![](images/b387b13a2e546214c4c11b69149bdf91d0c189632679392861deaacbe07c5b4f.jpg)
 
@@ -6072,7 +5593,6 @@ SPECIAL TOOLS TABLE
 32. Loosen the installing bolt of clutch release cylinder and remove the clutch release cylinder.
 
 ### Installation Notice
-`ssangyong_musso_en_c4430531` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/16cd1a6a2541c928bfedb4fc5374e5d209122b4c29c4ac46cc1749e661eb53fc.jpg)
 
@@ -6111,7 +5631,6 @@ Installation Notice
 ![](images/b2bc759d6f64c4d3dd7bb79374c78b17b5b4f46342ebdff030f354f09e738609.jpg)
 
 ### POLY V-BELT
-`ssangyong_musso_en_a0f851fb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/3339abe54861168c483b120a5e9f4d06110816faf93c9c76be46b3c74389dc9b.jpg)
 
@@ -6122,7 +5641,6 @@ Installation Notice
 45 Spring Tensioning Lever 6 Poly V-Belt
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_f0e2c74c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the nut. 2. Push the tensioning lever in direction of arrow with a rod (F12 180mm) and pull out the bolt to the rear.
 
@@ -6146,7 +5664,6 @@ Lengthe of Belt
 ![](images/e5dba917ab4bdce10b9625475e60f768d69503213bb360385581e266270b51a3.jpg)
 
 ### TENSIONING DEVICE
-`ssangyong_musso_en_961e7fe8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cooling fan
 
@@ -6172,7 +5689,6 @@ Preceding Work Removal of cooling fan
 18 Bolt 20Nm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_7c5b5d89` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the nut. Installation Notice
 
@@ -6198,7 +5714,6 @@ Preceding Work Removal of cooling fan
 8. Pry off the closing cover (12) and remove the socket bolt (11) and then remove the tensioning pulley (10).
 
 ### Installation Notice
-`ssangyong_musso_en_484b7271` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/29f0a9a26801c165ff155d474dd2c2088ff9002ddc1364e9d41f1c0722755df9.jpg)
 
@@ -6215,7 +5730,6 @@ Installation NoticeApply Loctite on thread of fit bolt.
 12. Installation should follow the removal procedure in the reverse order.
 
 ### Notice
-`ssangyong_musso_en_287f48bd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If one of the following types of damage is found, replace the belt.
 
@@ -6251,7 +5765,6 @@ If one of the following types of damage is found, replace the belt.
 2 Prechamber
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_f9d7390e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Using the serration wrench (4), remove the threaded ring (1).
 
@@ -6268,7 +5781,6 @@ Sliding Hammer 667 589 03 63 00
 3. Remove the perchamber (2).
 
 ### Notice
-`ssangyong_musso_en_25bc5ea1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 After removing the prechamber, cover over the bores with clean rag.
 
@@ -6277,21 +5789,18 @@ After removing the prechamber, cover over the bores with clean rag.
 4. Inspect the prechamber.
 
 ### Notice
-`ssangyong_musso_en_3e1a598c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the prechamber seats in the cylinder head are leaking or if the prechambers are replaced, the sealing surfaces in the cylinder head must be remachined.
 
 ![](images/6ecfffe64d92dd9c5c4bb3e76a60d66cb09beb31e7a0ce8150b55a9d42a5ba34.jpg)
 
 ### Notice
-`ssangyong_musso_en_82c24726` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In case the prechambers are reused, inspect the prechambers thoroughly, if the ball pin by heat and fire is broken, it can not be used.
 
 1. Clean the sealing surface of the prechamber. 2. Insert the prechamber into the cylinder head at the same time aligning the cam on the collar of the prechambers with the slots in the cylinder head.
 
 ### Notice
-`ssangyong_musso_en_4ef8750f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the spacer rings are fitted to the prechambers, the spacer rings should be replaced with rings of the same thickness.
 
@@ -6304,7 +5813,6 @@ If the spacer rings are fitted to the prechambers, the spacer rings should be re
 ![](images/1348dbd270852ee44950a225797effb6403753e16f625853dcafe3bfa6410242.jpg)
 
 ### MILLING OF PRECHAMBER SEALING SURFACE
-`ssangyong_musso_en_c74acc4f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2ba4c892da23bbfb24d989983bcc7e8493bdedf93c343d991bcf8cc910f84172.jpg)
 
@@ -6313,7 +5821,6 @@ If the spacer rings are fitted to the prechambers, the spacer rings should be re
 45 Counter Sink (Special Tool 601 589 00 66) Cylinder Head
 
 ### Notice
-`ssangyong_musso_en_35b5265f` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The prechamber sealing surface may only be remachined once with the cylinder head fitted. It is essential to adhere to the specified projection ‘C’ of the prechamber of 7.6 8.1mm.
 
@@ -6353,7 +5860,6 @@ The spacer ring should be selected so that it is at least 0.1mm and not more tha
 9. Remove the countersink tool and clean the chips.
 
 ### Notice
-`ssangyong_musso_en_7df047c5` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 If the sealing surface is not completely flat, remachine the sealing surface.
 
@@ -6366,7 +5872,6 @@ If the sealing surface is not completely flat, remachine the sealing surface.
 13. Install the prechambers.
 
 ### Notice
-`ssangyong_musso_en_ff3a217d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the cylinder head is removed, the projection ‘C’ is measured in place of size ‘X’ and the appropriate size of spacer ring selected.
 
@@ -6377,7 +5882,6 @@ If the cylinder head is removed, the projection ‘C’ is measured in place of 
 ![](images/94009a918eedab1ed978dd2e0bf4b4583447ad653c2b462f099888890eedcde7.jpg)
 
 ### TDC (TDC SENSOR BRACKET) SETTING
-`ssangyong_musso_en_58c9597a` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Preceding Work Removal of No.1 cylinder prechamber
 
@@ -6389,7 +5893,6 @@ Preceding Work Removal of No.1 cylinder prechamber
 4 Piston Set at TDC
 
 ### Notice
-`ssangyong_musso_en_6d83dad0` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The TDC sensor bracket must be adjusted in case of followings.
 When replacing the TDC sensor bracket.
@@ -6399,7 +5902,6 @@ When replacing or installing the timing case cover. After engine overhauling.
 \* If the cylinder head is removed, the measuring pin of the dial gauge can be positioned on the piston crown. This is done by placing the magnetic dial holder on the mating surface of the crankcase.
 
 ### Setting (with cylinder head installed)
-`ssangyong_musso_en_0cf52bee` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Remove the prechamber of No. 1 cylinder.
 2. Position the piston of No.1 cylinder at BTDC 10.
@@ -6414,7 +5916,6 @@ Depth Gauge 601 589 07 21 00
 4. Slowly rotate the crankshaft in the direction of engine rotation until the large pointer on the dial gauge stops (TDC position).
 
 ### Notice
-`ssangyong_musso_en_1818b506` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The position of TDC is when the large pointer on the dial gauge is stopped before moving back.
 5. remove the reinstall the measuring device and position the dial gauge scale at ‘0’.
@@ -6426,7 +5927,6 @@ The position of TDC is when the large pointer on the dial gauge is stopped befor
 7. Insert fixing device into the sensor bracket.
 
 ### Notice
-`ssangyong_musso_en_2cd48587` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The pin on the vibration damper must engage into the slot of the fixing device.
 
@@ -6439,7 +5939,6 @@ Fixing Device 667 589 01 21 00
 ![](images/532477e2f693f94bffa68af5c4179d1f94c1de9233bb5d54bca4095837fbc68f.jpg)
 
 ### CYLINDER HEAD
-`ssangyong_musso_en_46d1f1d9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/bb6bd4dcd8c344558b97416e3d8189889f0e9507cac3a9fa43a1e02e49f7aff6.jpg)
 
@@ -6484,7 +5983,6 @@ Fixing Device 667 589 01 21 00
 39 Intake Manifold
 
 ### Tools Required
-`ssangyong_musso_en_7f245950` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 000 589 77 03 00 Box Wrench Insert
 001 589 65 09 00 Socket Wrench Insert
@@ -6497,7 +5995,6 @@ Fixing Device 667 589 01 21 00
 603 589 00 40 00 Counter Holder
 
 ### Notice
-`ssangyong_musso_en_c191ac40` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The cylinder head may only be removed when the engine has cooled down. The cylinder head is removed together with the exhaust manifold. As the cylinder head bolts undergo a permanent tightening. They require to be replaced if they exceed the maximum lengthes indicated in the table.
 
@@ -6510,14 +6007,12 @@ It is not necessary to retighten the cylinder head bolts at the 1000\~1500km ins
 ![](images/e2f4d79dbc6547689781f1af427dc8db328226d10e77866a18b4bb0441044eb1.jpg)
 
 ### Disassembly Procedure
-`ssangyong_musso_en_b1532582` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Completely drain the coolant from the radiator and cylinder block.
 2. Remove the cooling fan shroud.
 3. Hold the fan with counter holder and remove the bolt and then remove the cooling fan.
 
 ### Notice
-`ssangyong_musso_en_c638ffba` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Keep the fan in vertical position.
 
@@ -6539,7 +6034,6 @@ Counter Holder 603 589 00 40 00
 8. Remove the air cleaner cover and element and then remove the air cleaner housing. 9. Remove the oil return hose and plug.
 
 ### Notice
-`ssangyong_musso_en_28045d1b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Cover them to prevent chips from coming into.
 
@@ -6620,7 +6114,6 @@ Socket Wrench Insert 001 589 65 09 00
 30. Rotate the crankshaft and set the no.1 cylinder at TDC.
 
 ### Notice
-`ssangyong_musso_en_b6ef86f8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not rotate the crankshaft to the opposite direction of engine revolution.
 
@@ -6653,14 +6146,12 @@ Engine Lock 602 589 00 40 00
 37. Remove the bolt and separate the drive sprocket(21).
 
 ### Notice
-`ssangyong_musso_en_c3ca0c95` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 During removal, be careful not to drop the sprocket and chain into the timing case. Carefully pull off the chain and then pull out the sprocket.
 
 38. Remove the camshaft bearing cap bolts according to the numerical sequence.
 
 ### Notice
-`ssangyong_musso_en_f4ecd01d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remove the No.1 bolts first and then remove the No. 2 bolts. Do not remove the bolts at a time completely but remove them step by step evenly or camshaft can be seriously damaged.
 
@@ -6671,7 +6162,6 @@ OM662LA
 39. Remove the bearing caps and then pull out the camshaft(20) upward.
 
 ### Notice
-`ssangyong_musso_en_59f527ac` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to miss the locking washer.
 
@@ -6680,7 +6170,6 @@ Be careful not to miss the locking washer.
 40. Remove the locking washer.
 
 ### Notice
-`ssangyong_musso_en_e1db2d9c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the locking washer and replace if necessary.
 
@@ -6737,7 +6226,6 @@ OM 661LA
 ![](images/2351c524dc1a2547a2ba1025c129661cebf218055fb5de324dd2771c733b9448.jpg)
 
 ### Assembly Procedure
-`ssangyong_musso_en_a7a5c137` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Replace the cylinder head gasket.
 
@@ -6746,7 +6234,6 @@ OM 661LA
 2. Install the cylinder head onto the crankcase.
 
 ### Notice
-`ssangyong_musso_en_3ef61a00` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Align the cylinder head holes with the guide pins.
 
@@ -6771,7 +6258,6 @@ Cylinder head bolts arrangement Bore 1 M10 × 80 2 M10 × 102 3 M10 × 115 4 M 8
 ![](images/f910e14f71b1bdd800ec6657331e1c08a3d17f06bc492e2cb5d808bc0f9809a4.jpg)
 
 ### OM 662LA
-`ssangyong_musso_en_128805ef` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d817cd6eba514c6925d745ef7904f5a422b10144dd6afee88bd3671e69bef748.jpg)
 
@@ -6794,7 +6280,6 @@ Cylinder head bolts arrangement Bore 1 M10 × 80 2 M10 × 102 3 M10 × 115 4 M 8
 ![](images/89f44ad191eb566c59920cb87e47a886efebdfcef20d68daf117e902f9dd7ab1.jpg)
 
 ### Notice
-`ssangyong_musso_en_7c4eb348` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to be confused the connections and hoses.
 
@@ -6807,7 +6292,6 @@ Be careful not to be confused the connections and hoses.
 11. Install the sliding rail(24) and insert the sliding rail pins(25, 26).
 
 ### Notice
-`ssangyong_musso_en_a5cd188a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Apply sealing compound on the each collar of the sliding rail pins.
 
@@ -6846,7 +6330,6 @@ Notice Insert the tensioning lever bolts onto the mounting hole.
 ![](images/20a37e9a95ae88323f9c990b1550d20b0adb05774aad302cee52e3c8834a9d94.jpg)
 
 ### Notice
-`ssangyong_musso_en_05b606c5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If out of standard, adjust it with the proper thickness of locking washer.
 
@@ -6861,7 +6344,6 @@ If out of standard, adjust it with the proper thickness of locking washer.
 ![](images/80df66201db8d3dc3d01a5f985eaf5d6b5ef0cc3771273de00ae703287430f01.jpg)
 
 ### Notice
-`ssangyong_musso_en_ab242c36` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Tighten the No. 1 bolts(light arrow) first and then tighten the No. 2 bolts(dark arrow) stage by stage.
 
@@ -6876,7 +6358,6 @@ OM661LA
 21. Position the camshaft on marking and install the camshaft sprocket.
 
 ### Notice
-`ssangyong_musso_en_33b9664e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Align the alignment marks on the chain and sprocket.
 
@@ -6895,7 +6376,6 @@ Align the alignment marks on the chain and sprocket.
 ![](images/33c68a3ffabb7b8f725568b66ef98180f65bc74f6958838f3777e0e385723bf0.jpg)
 
 ### Notice
-`ssangyong_musso_en_5ea205ef` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Measure the max. length ‘L’ and replace the bolt if it exceeds 53.6mm.
 
@@ -6960,7 +6440,6 @@ Measure the max. length ‘L’ and replace the bolt if it exceeds 53.6mm.
 38. Replace the O-ring of heater feed pipe and install it to the cylinder head.
 
 ### Notice
-`ssangyong_musso_en_7af1c46e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For installation, clean the hole.
 
@@ -6983,7 +6462,6 @@ Box Wrench Insert 000 589 77 03 00
 42. Install the poly V-belt.
 
 ### Notice
-`ssangyong_musso_en_628be63a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to contaminate the belt.
 
@@ -7006,7 +6484,6 @@ Be careful not to contaminate the belt.
 ![](images/f5f8540c009c9997330033f812a47a431eb0f10ace507b7746ae545e794f8d25.jpg)
 
 ### TIMING CASE COVER
-`ssangyong_musso_en_1b7965dc` | musso | pdf_manual | tier:4 | lang:en | layer:steering | p:1 | doc_type:service_manual
 
 Preceding Work : Removal of the cooling fan Rmoval of the V-belt tensioning device Removal of the vibration damper and hub Removal of the alternator
 
@@ -7040,7 +6517,6 @@ M8 23Nm
 25 Nut 23Nm
 
 ### Tools Required
-`ssangyong_musso_en_5481b5c9` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 116 589 03 07 00 Socket Wrench
 
@@ -7054,7 +6530,6 @@ M8 23Nm
 6. Remove the vacuum pump.
 
 ### Removal Procedure
-`ssangyong_musso_en_5fdb50c2` | musso | pdf_manual | tier:4 | lang:en | layer:steering | p:1 | doc_type:service_manual
 
 ![](images/3352e3b5e0e07aaef36fbe7bfd56613eda991962a795a61d899b062e6834cbfe.jpg)
 
@@ -7069,7 +6544,6 @@ M8 23Nm
 9. Disconnect the pipes of power steering pump and remove the belt pulley.
 
 ### Notice
-`ssangyong_musso_en_33f2ad42` | musso | pdf_manual | tier:4 | lang:en | layer:steering | p:1 | doc_type:service_manual
 
 Be careful not to lose the key.
 
@@ -7093,7 +6567,6 @@ Socket Wrench 115 589 03 07 00
 15. Remove the injection pump.
 
 ### Notice
-`ssangyong_musso_en_b3579961` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 See the ‘Removal of fuel injection pump’.
 
@@ -7104,14 +6577,12 @@ See the ‘Removal of fuel injection pump’.
 18. Remove the timing case cover (19) bolts and then remove the timing case cover (14).
 
 ### Notice
-`ssangyong_musso_en_3d1792af` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to damage the cylinder head gasket or oil pan gasket.
 
 ![](images/32b685b90930e6a8385f50f665add46f734a9943f4425beacca66becf40983be.jpg)
 
 ### Installation Procedure
-`ssangyong_musso_en_159a2445` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Thoroughly clean the sealing surface and apply sealant.
 
@@ -7124,7 +6595,6 @@ Be careful not to damage the cylinder head gasket or oil pan gasket.
 ![](images/b93d26a66a773d554934b197a15946f0840bd71e883c54ce2abd719f4a36ff32.jpg)
 
 ### Notice
-`ssangyong_musso_en_a8ae5139` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Bolts arrangement
 1.M6 x 60
@@ -7146,7 +6616,6 @@ Bolts arrangement
 5. Install the flange, vibration damper and crankshaft belt pulley.
 
 ### Notice
-`ssangyong_musso_en_4d5346a9` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Replace front radial seal if necessary.
 
@@ -7223,7 +6692,6 @@ Replace front radial seal if necessary.
 ![](images/edc81f579f67d0813effe2be8cce4f197efcffff90c7cb57dcc39a288b14b9b7.jpg)
 
 ### CRANKSHAFT END COVER
-`ssangyong_musso_en_266f3a62` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of flywheel and driven plate.
 
@@ -7236,7 +6704,6 @@ Preceding Work Removal of flywheel and driven plate.
 45 Radial Seal Replace Dowel Sleeve 6 Bolt 10Nm, Loctite 573
 
 ### Notice
-`ssangyong_musso_en_97413e89` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to damage the oil pan gasket.
 
@@ -7247,7 +6714,6 @@ Be careful not to damage the oil pan gasket.
 ![](images/2e773e79c7ecdc13b67efa8f4650bb756b27e1105d81402ebaaa15e7836ac852.jpg)
 
 ### Installation Procedure
-`ssangyong_musso_en_3dbf6df1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Thoroughly clean the sealing surface of end cover and apply Loctite 573.
 
@@ -7258,7 +6724,6 @@ Be careful not to damage the oil pan gasket.
 ![](images/64d850ab57ee8e29f260c009b40e432149173a3dc58772fb296f56fca3cf52f2.jpg)
 
 ### Notice
-`ssangyong_musso_en_969764ac` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to damage the oil pan gasket.
 
@@ -7273,7 +6738,6 @@ Oil Seal Assembler 601 589 03 43 00
 5. Coat a little oil on the sealing lip of new radial seal and contacting surface.
 
 ### Notice
-`ssangyong_musso_en_31523fc8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The sealing lip of the repair radial seal is offset to the inside by 3mm to ensure that it does not run in any groove which the standard radial seal may have left on the crankshaft flange.
 
@@ -7282,7 +6746,6 @@ A Standard Radial Seal B Repair Radial Seal
 7. Install the outer oil seal assembler on he seal and by tightening the bolts, press the radial seal into the end cover as far as the stop.
 
 ### Notice
-`ssangyong_musso_en_d019d029` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The seal must be positioned exactly at right angles in the end cover to ensure that it provides a proper seal.
 
@@ -7293,7 +6756,6 @@ Oil Seal Assembler 601 589 03 43 00
 ![](images/7d73a6fbc0ddcb209d0f51f17be32c9af71736c944251ad40057c8cf40fe87e9.jpg)
 
 ### VIBRATION DAMPER AND HUB
-`ssangyong_musso_en_cb559a12` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of the cooling fan Removal of poly V-belt
 
@@ -7311,7 +6773,6 @@ Preceding Work Removal of the cooling fan Removal of poly V-belt
 10 Oil Pan
 
 ### Sectional View
-`ssangyong_musso_en_58361c71` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/db4dafc0217553d1e175cd2a747a3847777f7f6f4d870a189635bdd9a246a458.jpg)
 
@@ -7329,14 +6790,12 @@ Preceding Work Removal of the cooling fan Removal of poly V-belt
 16 Crankshaft
 
 ### Notice
-`ssangyong_musso_en_f84e0e7d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The mounting position of vibration damper is fixed by straight pin (8).
 
 Tools Required 602 589 00 40 00 Engine Lock 103 589 00 30 00 Puller
 
 ### Removal Procedure
-`ssangyong_musso_en_2afb03a6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the starter motor and install the engine lock into the wheel ring gear.
 
@@ -7368,7 +6827,6 @@ Engine Lock 602 589 00 40 00
 Puller 103 589 00 33 00
 
 ### Installation Procedure
-`ssangyong_musso_en_b965e264` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Install the hub. Notice Exactly align the woodruff key and the groove of hub (arrow).
 
@@ -7383,7 +6841,6 @@ Puller 103 589 00 33 00
 3. Install the vibration damper.
 
 ### Notice
-`ssangyong_musso_en_67d8c567` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Exactly align and insert onto the straight pin.
 
@@ -7394,7 +6851,6 @@ Exactly align and insert onto the straight pin.
 ![](images/5d4f641be913cbb386303ca05318c6831a8595f990b49422d29568f33792bbb0.jpg)
 
 ### Notice
-`ssangyong_musso_en_67c19374` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 See the ‘TDC setting’.
 
@@ -7412,7 +6868,6 @@ See the ‘TDC setting’.
 9. Remove the engine lock.
 
 ### CRANKSHAFT FRONT RADIAL SEAL
-`ssangyong_musso_en_068bcf70` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5a52c416ee753d985063a79dcd922cacc1fe6f08359d491b85e3d3c8aafc1f77.jpg)
 
@@ -7424,7 +6879,6 @@ See the ‘TDC setting’.
 Tools Required 601 589 03 14 00 Sleeve
 
 ### Notice
-`ssangyong_musso_en_7c7733c0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The sealing lip of the repair radial seal is offset to the inside by 2mm to ensure that is does not run in any groove which the standard radial seal may have left on the crankshaft flange.
 
@@ -7433,7 +6887,6 @@ A Standard Radial Seal B Repair Radial Seal
 ![](images/206af5219870ed4730db723e08494cbf7f9234a83127cf22341b0b67871e43b5.jpg)
 
 ### Replacement Procedure
-`ssangyong_musso_en_d793ec35` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Pull out the radial seal (1) and be careful not to damage the sealing surface of timing case cover. 2. Thoroughly clean the mounting bore of the radial seal.
 
@@ -7442,14 +6895,12 @@ A Standard Radial Seal B Repair Radial Seal
 3. Coat a little oil on the sealing lip of new radial (1) and contact surface.
 
 ### Notice
-`ssangyong_musso_en_517c6a2f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Align the groove of sleeve and woodruff key(arrow).
 
 ![](images/2bcf9eaa6a985712ef53a27dcaab86bfdab981411835a1e02254ce47a2619baf.jpg)
 
 ### CRANKSHAFT BALL BEARING
-`ssangyong_musso_en_dfaa1779` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5c44dac9198fb8b65c6971021763c5894ffcc34a7f8c3b26eedb45e7a52125e0.jpg)
 
@@ -7459,14 +6910,12 @@ Align the groove of sleeve and woodruff key(arrow).
 4 Bolt 45Nm + 90°
 
 ### Notice
-`ssangyong_musso_en_54e1abb9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Manual transmission only.
 
 Tools Required 000 589 33 33 00 Counter Support 000 589 25 33 00 Internal Extractor
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_bf574494` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the manual transmission.
 2. Using a puller, pull out the locking ring and ball bearing together.
@@ -7479,7 +6928,6 @@ Internal Extractor 000 589 25 33 00
 3. Apply Loctite 241 on the new ball bearing and then insert the ball bearing to be stopped at the spacer ring by using a proper mandrel.
 
 ### CRANKSHAFT
-`ssangyong_musso_en_6493df6b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of the end cover Removal of the piston Removal of the crankshaft sprocket mD noo
 
@@ -7493,7 +6941,6 @@ Preceding Work Removal of the end cover Removal of the piston Removal of the cra
 10 12-sided Stretch Bolts 55Nm + 90°
 
 ### Thrust Washer and Bearing Arrangement
-`ssangyong_musso_en_27ecf6e6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 OM662LA Engine
 
@@ -7506,14 +6953,12 @@ OM662LA Engine
 7 Thrust Bearings (Lower)
 
 ### Notice
-`ssangyong_musso_en_e77dde69` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The gaps between the bearing shell and bore and between the bearing shell and journal are different each other. Refer to service data.
 
 A Radial Bearings B Radial and Axial Bearings (Thrust Bearing)
 
 ### OM661LA Engine
-`ssangyong_musso_en_b0a46b4f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 LY
 
@@ -7526,12 +6971,10 @@ Crankshaft
 A Radial Bearings B Radial and Axial Bearings (Thrust Bearing)
 
 ### Notice
-`ssangyong_musso_en_ca6daee4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The gaps between the bearing shell and bore and between the bearing shell and journal are different each other. Refer to service data.
 
 ### Bearing Clearances
-`ssangyong_musso_en_07b5831a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 mm
 Matching Fit Bearing Journal Width to Thrust Bearings
@@ -7541,7 +6984,6 @@ mm
 ![](images/fc5392892b7d569e20aeb23f353c6b7e8b0d84848075dae7e87c22e39342d465.jpg)
 
 ### Notice
-`ssangyong_musso_en_f5339ce5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Measure crankshaft axial clearance and adjust with proper thrust Bearing.
 The same thickness of washer must be installed on both sides of the fit bearing.
@@ -7553,7 +6995,6 @@ Matching Crankshaft Bearing Shells to Basic Bearing Journal of Crankshaft
 ![](images/29e8afcb3bd20e1b978e3fa4a0ffb6ae6acdd5aff151a37291fa0e7612bc8e8a.jpg)
 
 ### Notice
-`ssangyong_musso_en_cf0d3b92` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The crankshaft bearing caps are marked with stamped numbers. Remove the bearing cap from the vibration damper side.
 
@@ -7578,7 +7019,6 @@ The crankshaft bearing caps are marked with stamped numbers. Remove the bearing 
 10. Coat the new bearing shells with oil and insert into the crankcase and into the crankshaft bearing caps.
 
 ### Notice
-`ssangyong_musso_en_083d6254` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not mix up upper and lower crankshaft bearing shells.
 
@@ -7587,7 +7027,6 @@ Do not mix up upper and lower crankshaft bearing shells.
 ![](images/e2bc70685742396b1be5b5d7032a133646d82f3f8a82a6954e0df3648f04f184.jpg)
 
 ### Notice
-`ssangyong_musso_en_134cb660` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 No. 1 is vibration damper side.
 
@@ -7608,14 +7047,12 @@ When measured in A and B, the runout should not exceed 0.010mm.
 -nUuA
 
 ### Notice
-`ssangyong_musso_en_6be2cdad` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 15. Measure radial clearance of crankshaft bearing (G).
 
 ![](images/32ec13fca19e850ac09560283904dd30e892144941a0dfd06e4257b69f99824c.jpg)
 
 ### Notice
-`ssangyong_musso_en_39b20208` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If ‘G’ is out of standard, replace the bearing shells and adjust the radial clearance of crankshaft bearing.
 
@@ -7626,7 +7063,6 @@ Example) Measured value ‘E’ = 57.700mm Measured value ‘F’ = 57.659mm Cle
 17. Measure width of thrust bearing journal (H) and adjust with proper thrust bearings (see table).
 
 ### Notice
-`ssangyong_musso_en_8c462b87` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The same thickness of thrust washers should be installed on both sides of the thrust bearing.
 
@@ -7637,14 +7073,12 @@ The same thickness of thrust washers should be installed on both sides of the th
 19. Coat the lower thrust bearing (7) with oil and insert into the crankshaft bearing cap so that the oil grooves are facing the crank webs (arrow).
 
 ### Notice
-`ssangyong_musso_en_e647ec57` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The retaining lugs should be positioned in the grooves (arrow).
 
 ![](images/fc4f56cadfeefb7a9aa6339e45b06600e3c679c573d6af45176119a680e3f2d9.jpg)
 
 ### Notice
-`ssangyong_musso_en_c7ad54aa` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If he max. length of bolts(L) exceed 63.8mm, replace them.
 
@@ -7657,7 +7091,6 @@ If he max. length of bolts(L) exceed 63.8mm, replace them.
 ![](images/f9b53a0b4e1de0d1b7c69f8f786b091b32148903548506d4ae20a9a8d3648628.jpg)
 
 ### Notice
-`ssangyong_musso_en_4b1a2301` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Install from No. 1 cap.
 
@@ -7666,14 +7099,12 @@ Install from No. 1 cap.
 ![](images/3edd913ee14b7c120ecc08ea666422a1712edc7024df227fd92c65cd7ed29f6e.jpg)
 
 ### Notice
-`ssangyong_musso_en_431774d8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the clearance is out of standard, adjust the axial clearance of crankshaft bearing by replacing the thrust washers.
 
 22. Rotate the crankshaft with hand and check whether it rotates smoothly.
 
 ### Notice
-`ssangyong_musso_en_444166f5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Dial Gauge 001 589 53 21 00
 Dial Gauge Holder 363 589 02 21 00
@@ -7693,7 +7124,6 @@ The same thickness of thrust washers should be installed on both sides of the th
 26. Measure connecting rod bearing journal diameter (K).
 
 ### Notice
-`ssangyong_musso_en_e7f3b7c3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to measurement of the crankshaft bearing journal diameter.
 
@@ -7706,7 +7136,6 @@ Example) Measured value ‘J’ = 47.700mm Measured value ‘K’ = 47.653mm Cle
 ![](images/08a79fddcf1e5cbb643ef5fc734bb04c68ea9b96c4271de14c1b7eb39165586e.jpg)
 
 ### Notice
-`ssangyong_musso_en_be3d3ca5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the clearance is out of standard, adjust the radial clearance of connecting rod bearing by replacing the connecting rod bearing shells.
 
@@ -7719,19 +7148,16 @@ If the clearance is out of standard, adjust the radial clearance of connecting r
 31. If the bearings are damaged, replace the oil presser relief valve. clean the oil pump and oil filter housing carefully and replace the hose if necessary.
 
 ### Notice
-`ssangyong_musso_en_1acd3071` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 After assembling the engine, check the camshaft timing, adjust the start of fuel injection and check the TDC sensor bracket setting.
 
 32. Fill oil and run the engine and then check the oil pressure and oil level.
 
 ### Notice
-`ssangyong_musso_en_0ec9b3c4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Install the original oil filter element and then change the engine oil and oil filter element after 1,000 1,500km.
 
 ### FLYWHEEL
-`ssangyong_musso_en_f2eb920b` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 Preceding Work Removal of the transmission Removal of the clutch
 
@@ -7750,7 +7176,6 @@ Automatic transmission flywheel
 ![](images/ebdcf938b0198ae0200a5182239a84b671ff7327b33b14b9e45d0bca91d14683.jpg)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_7bbd47ec` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Install the engine lock.
 
@@ -7767,7 +7192,6 @@ Installation Notice
 ![](images/6cc13112c9abe0ea99797fdc5fbcefb14a7f0ba32eb374c6f4a9c36c26434eb8.jpg)
 
 ### Notice
-`ssangyong_musso_en_6cfa02c0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the length ‘L’ of bolts exceeds 22.5mm, replace the bolts.
 
@@ -7785,7 +7209,6 @@ Installation Notice Correctly align the position of dowel pin (2).
 ![](images/cbd7d68e15cbd28078c3eec99aa6668efa4c203c8ed2fcc23fb49348a87f3ab2.jpg)
 
 ### Notice
-`ssangyong_musso_en_dec9b869` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Flywheels which have scorch marks, scoring or cracks in the clutch surface should be machined by grinding or precision-turning. If the scores or cracks are severe than permissible specifications, replace the flywheel.
 
@@ -7797,7 +7220,6 @@ When machining, fix the flywheel exactly not to exceed the standard runout.
 ![](images/e73af5741ee8906eec9a2a8d202c910fd8166e0155e9a0a06ea8fb8af8595baf.jpg)
 
 ### FLYWHEEL RING GEAR
-`ssangyong_musso_en_b0affbe0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of flywheel
 
@@ -7809,7 +7231,6 @@ Preceding Work Removal of flywheel
 Tools Required 001 589 53 21 00 Dial Gauge 363 589 02 21 00 Dial Gauge Holder
 
 ### Replacement Procedure
-`ssangyong_musso_en_05923a96` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Drill a hole into the ring gear (1) (arrow) and snap with a chisel. 2. Thoroughly clean the collar surfaces of ring gear.
 
@@ -7818,14 +7239,12 @@ Tools Required 001 589 53 21 00 Dial Gauge 363 589 02 21 00 Dial Gauge Holder
 ![](images/80a83c2b5d89fa33b82dcdeef2bc5690f92dad38a0dd7aceee551616ecfcd858.jpg)
 
 ### Notice
-`ssangyong_musso_en_89f013c7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If out of standard, replace the flywheel.
 
 4. Heat up the new ring gear up to 220°C by using a heating device.
 
 ### Notice
-`ssangyong_musso_en_5fa8d636` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Use temperature measuring chalk.
 
@@ -7840,7 +7259,6 @@ Use temperature measuring chalk.
 ![](images/19a5fe91a251d113301aa0fbdce7219750d06a251636a59b188fa97bdd85baf5.jpg)
 
 ### Notice
-`ssangyong_musso_en_dfb5cea4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For correct measurement, put the flywheel on the flat measuring board.
 
@@ -7850,7 +7268,6 @@ Dial Gauge Holder 363 589 02 21 00
 ![](images/e235cd201425bf8e3b5f7784bca7da650f0ec4a05f901aed50365b83239f4327.jpg)
 
 ### HYDRAULIC VALVE CLEARANCE COMPENSATION ELEMENT CHECK
-`ssangyong_musso_en_d9f9cb13` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9aa0ce51a92982cc07050d4d1876a378ff3be27cbf122bfe064e65b493747395.jpg)
 
@@ -7859,7 +7276,6 @@ Dial Gauge Holder 363 589 02 21 00
 3 Gasket Replace
 
 ### Notice
-`ssangyong_musso_en_60336d05` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The noise which continues short time during short travel (frequent starting of the engine) or engine starting after a long time storage is normal operating conditions. So, it does not need to be repaired. Determine the malfunctions in valve clearance compensation device with noise through following tests. If defective, replace as respectively.
 
@@ -7874,7 +7290,6 @@ The noise which continues short time during short travel (frequent starting of t
 5. Using a drift, lightly press the valve tappet and measure clearance between the cam and valve tappet.
 
 ### Notice
-`ssangyong_musso_en_f1f0c017` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the clearance exceeds 0.4mm, replace the valve tappet.
 
@@ -7883,14 +7298,12 @@ If the clearance exceeds 0.4mm, replace the valve tappet.
 7. Rotate the engine and check the remaining valve tappets.
 
 ### Notice
-`ssangyong_musso_en_fee6ea4a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Unnecessary rotation of the engine will damage the valve tappets. Do not rotate the engine by using the camshaft sprocket bolt or to the opposite direction of the engine rotation.
 
 ![](images/f63ff8b4289b2c5bca59a8c89d00406c9f0f75ed8748ff5e0276de1eaba2de6f.jpg)
 
 ### VALVE TAPPETS
-`ssangyong_musso_en_c6ea63e4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of camshaft
 
@@ -7902,7 +7315,6 @@ Preceding Work Removal of camshaft
 5 Screw Plug
 
 ### Replacement Procedure
-`ssangyong_musso_en_5feeb25a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Pull out the valve tappet (1).
 
@@ -7913,21 +7325,18 @@ Magnetic Bar 102 589 03 40 00
 2. Remove the plug (5) and blow compressed air into the oil gallery (3). At this time, check that the outlet bores(arrow) at the seat of the valve tappet are clear. 3. Replace the seal (4) and tighten the plug (5). 4. Insert the new valve tappet.
 
 ### Notice
-`ssangyong_musso_en_02fed45f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Coat the valve tappet with oil.
 
 ![](images/41d9dc31808a7ae738fb15ebe10cc92779d86c15a11ddd4d1799b7e42013c84e.jpg)
 
 ### VALVE SPRINGS CHECK
-`ssangyong_musso_en_b55f932e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of valve spring
 
 ![](images/1c3d7aa36c910b3a4d64ec5c2ee2a0a2b39dfcd9b4800d96936596d5a0b6cca8.jpg)
 
 ### VALVE SPRINGS (CYLINDER HEAD REMOVED)
-`ssangyong_musso_en_9671908f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Cylinder Head Removed
 
@@ -7944,7 +7353,6 @@ Cylinder Head Removed
 9 Exhaust Manifold
 
 ### Tools Required
-`ssangyong_musso_en_6f46db2f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 102 589 03 40 00 Magnetic Bar
 116 589 06 63 00 Magnetic Finger
@@ -7953,7 +7361,6 @@ Cylinder Head Removed
 667 589 00 31 00 Press Lever
 
 ### Installation Notice
-`ssangyong_musso_en_96bbdc69` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the stud bolt (6) for damage and replace necessary.
 
@@ -7970,7 +7377,6 @@ Assembling Board 601 589 01 59 00
 3. Pull out the valve tappet (1) with magnetic bar (12).
 
 ### Notice
-`ssangyong_musso_en_0b1ef128` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Place the valve tappets upside down (open end upward).
 
@@ -7987,7 +7393,6 @@ Supporting Bridge 601 589 02 59 00
 5. Using the press lever (14), press the spring retainer downward and remove the valve cotters (2) with magnetic finger (15).
 
 ### Notice
-`ssangyong_musso_en_0895ea04` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to damage guide bore of the valve tappet.
 
@@ -8003,7 +7408,6 @@ Magnetic Finger 116 589 06 63 00
 ![](images/419319a282ccc25452342cd3c04223d8a7667b4c2a6fc116c75987d0fc7fb4ab.jpg)
 
 ### VALVE SPRINGS (CYLINDER HEAD INSTALLED)
-`ssangyong_musso_en_872aa265` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of camshaft
 
@@ -8016,7 +7420,6 @@ Timing Chain
 Cylinder Head
 
 ### Notice
-`ssangyong_musso_en_3228d416` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remove the valve springs only when the piston is at TDC.
 
@@ -8028,7 +7431,6 @@ Tools Required
 667 589 02 63 00 Supporting Bar
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_906ab3eb` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Remove the valve tappet (1) with magentic lifter. Notice Place the valve tappets upside down (open end upward)
 
@@ -8053,7 +7455,6 @@ Supporting Bar 667 589 02 63 00
 5. Using the press lever (9), press the spring retainer(3) downward and remove the valve cotters (2) with magnetic finger (10).
 
 ### Notice
-`ssangyong_musso_en_dfa32552` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to damage guide bore of the valve tappet.
 
@@ -8086,7 +7487,6 @@ Magnetic Bar 102 589 03 40 00
 ![](images/17d786966abe531c9da91fccf388254c53665408d04a3b5bee35be4dd5125867.jpg)
 
 ### VALVE STEM SEALS
-`ssangyong_musso_en_552d1d9c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of camshaft.
 
@@ -8099,7 +7499,6 @@ Preceding Work Removal of camshaft.
 6 Valve
 
 ### Tools Required
-`ssangyong_musso_en_fafb4bd6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 667 589 00 31 00 Press Lever
 104 589 00 37 00 Pliers
@@ -8114,7 +7513,6 @@ Preceding Work Removal of camshaft.
 ![](images/e32ecbaa5d80fafbba12c3f1e9533a161289d607010ec1035a9fb03a6cb4d8d8.jpg)
 
 ### Replacement Procedure
-`ssangyong_musso_en_1bf25921` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Remove the valve tappet (1) with magnetic lifter. Notice Place the valve tappets upside down (open end upward).
 
@@ -8162,7 +7560,6 @@ Drift 601 589 02 43 00
 9. By pressing the spring seat with press lever (9), install the valve cotters(2) with magnetic finger (10).
 
 ### Notice
-`ssangyong_musso_en_5d9f345d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to damage guide bore of the valve tappet.
 
@@ -8172,7 +7569,6 @@ Magnetic Finger 116 589 06 63 00
 ![](images/81d24fc063dc5faee8df7751f686647c1bbffa4d8f619d671899c9f39aa96bbe.jpg)
 
 ### CHECK AND REPLACEMENT OF VALVE GUIDES
-`ssangyong_musso_en_a5bfb3b9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cylinder head Removal of valve spring Removal of valve
 
@@ -8184,14 +7580,12 @@ Preceding Work Removal of cylinder head Removal of valve spring Removal of valve
 3 Valve Seat Ring a Basic Bore Diameter
 
 ### Notice
-`ssangyong_musso_en_d5fab837` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Measure center (arrow) of the valve guide and if the inner diameter ‘A’ exceeds standard value, replace the guide.
 
 ![](images/c4a50b5a8f2f66b5de4148db756c5b2404bf1a84ba029d5a4c571cd7778bad79.jpg)
 
 ### Tools Required
-`ssangyong_musso_en_7929f6ad` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 000 589 10 53 00 Reamer (for Exhaust)
 000 589 10 68 00 Cylinder Brush
@@ -8206,7 +7600,6 @@ Measure center (arrow) of the valve guide and if the inner diameter ‘A’ exce
 601 589 06 15 00 Drift (for Exhaust)
 
 ### Checking
-`ssangyong_musso_en_2cf16fbd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Thoroughly clean the valve guide bore using a cylinder brush.
 
@@ -8221,7 +7614,6 @@ GO/NO GO Gauge 601 589 02 23 00
 ![](images/aa93bc309afdaeb4016ec73b5cba0921616d0fa666a4b58435dd5ad788cfc47e.jpg)
 
 ### Notice
-`ssangyong_musso_en_d96f8fd3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The valve guide must be driven out upward of the cylinder head.
 
@@ -8247,7 +7639,6 @@ Remove the elevation (arrow) of intake valve seat rings.
 Select correct broaching tool and guide sleeve (refer to the table).
 
 ### Notice
-`ssangyong_musso_en_f6a1f554` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before broaching work, the broaching tool must be cleared of swarf with a stiff plastic brush.
 
@@ -8270,7 +7661,6 @@ Knock through the broaching tool (6) with a plastic hammer (approx. 25g). and al
 6. Cool down the new valve guide (2) with liquid nitrogen.
 
 ### Notice
-`ssangyong_musso_en_2c4a55d7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d54dfb1b5d53b0774a6e8f38fc4407861ed5465e3eba36de1241922b19a4520d.jpg)
 
@@ -8281,7 +7671,6 @@ Super Cooling box 346 589 00 63 00
 7. Drive in new valve guide with drift (8) until the wire ring makes contact.
 
 ### Notice
-`ssangyong_musso_en_d4d8b131` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The valve guide must be driven in from the cylinder head cover.
 
@@ -8293,7 +7682,6 @@ Drift (for Exhaust) 601 589 06 15 00
 8. Check the valve guide bore with GO NO GO gauge (9). The GO side (marked ‘0’) should just still drop. If the GO side cannot be inserted, the bore of valve guide should be reamed.
 
 ### Notice
-`ssangyong_musso_en_1cdb4f7c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Perform the check only on cooled down cylinder head.
 
@@ -8305,7 +7693,6 @@ GO / NO GO Gauge (for Exhaust) 117 589 03 23 00
 9. If necessary, ream the valve guide bore evenly.
 
 ### Notice
-`ssangyong_musso_en_8075147d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never turn the reamer against the direction of rotation.
 
@@ -8315,7 +7702,6 @@ Reamer (for Intake) 000 589 21 53 00
 ![](images/af422211ea179dbfcf894eb311b692d51b32ed4c321fb621c7d980344f1499ae.jpg)
 
 ### VALVE SEAT RINGS
-`ssangyong_musso_en_b67f9bcb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of valve Checking of valve guide, replace if necessary Removal of prechamber
 
@@ -8330,7 +7716,6 @@ B Height (cylinder Head Cover Surface Seat of Valve Seat Ring)
 D Valve Seat Ring Outer Diameter D1 Valve Seat Ring Inner Diameter D2 Basic Bore Diameter H Height of Valve Seat Ring
 
 ### Removal Procedure
-`ssangyong_musso_en_b88add13` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Measure dimension ‘A’.
 
@@ -8354,7 +7739,6 @@ Drift (Intake) 8mm Drift (Exhaust) 9mm
 6. Insert the tensioning head (4) and extracted wedges(arrow) by turning the bolt (5).
 
 ### Notice
-`ssangyong_musso_en_c450b471` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Carefully tighten the bolt (5) otherwise the valve seat ring in the cylinder head will be excessively tensioned.
 
@@ -8381,7 +7765,6 @@ Carefully tighten the bolt (5) otherwise the valve seat ring in the cylinder hea
 14. Machining basic bore for valve seat ring (repair size).
 
 ### Notice
-`ssangyong_musso_en_ac488ec5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Maintain minimum value of ‘B’.
 Machine the basic bore. Measure machined basic bore and outer diameter ‘D’ of valve seat ring (repair size).
@@ -8403,7 +7786,6 @@ Limit
 16. Cool down new valve seat ring (2) into the cooling box with liquid nitrogen.
 
 ### Notice
-`ssangyong_musso_en_ff3f2a86` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not touch the cooled valve seat rings with hand.
 
@@ -8418,7 +7800,6 @@ Super Cooling Box 345 589 00 63 00
 18. Install the valve guide (3) with a proper drift and assembling tool.
 
 ### Notice
-`ssangyong_musso_en_31b21e70` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The valve guide must be driven in from the cylinder head cover.
 
@@ -8427,7 +7808,6 @@ The valve guide must be driven in from the cylinder head cover.
 Drift (Intake) 8mm Drift (Exhaust) 9mm
 
 ### CHECK AND MACHINING OF VALVES
-`ssangyong_musso_en_911fef61` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Works Removal of cylinder head Removal of the vale spring Removal of the valve
 
@@ -8438,7 +7818,6 @@ I Valve Length W Camshaft Cam Basic Diameter X Distance (Camshaft Basic Bore Val
 Y Half Camshaft Basic Bore Diameter Z Distance (Cylinder Head Cover Parting Surface Valve Stem)
 
 ### Exhaust Valve
-`ssangyong_musso_en_efb3d748` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9bc02dff64af9c3fafd85a090914a6cc194821026b1edcd24c668705b94f4ced.jpg)
 
@@ -8447,7 +7826,6 @@ Y Half Camshaft Basic Bore Diameter Z Distance (Cylinder Head Cover Parting Surf
 ![](images/3ebeea94143f37521b9786687883c934355fbdf70edda51bdfa9d32b5162306d.jpg)
 
 ### Checking and Machining
-`ssangyong_musso_en_39a39c65` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Clean the valves and do visual check. Valves with wobbled valve disc, with worn or scored valve stem should be replaced.
 
@@ -8460,7 +7838,6 @@ Y Half Camshaft Basic Bore Diameter Z Distance (Cylinder Head Cover Parting Surf
 3. Machine the valve.
 
 ### Notice
-`ssangyong_musso_en_3fdae475` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Pay attention to setting angle ‘a’.
 
@@ -8486,7 +7863,6 @@ Dial Gauge 001 589 32 21 00
 ![](images/ff519b4719e07604c91bb4edf50e2149927695b1c838105e60369482b268c58d.jpg)
 
 ### Notice
-`ssangyong_musso_en_271e7eed` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If out of standard, replace the valve seat ring.
 
@@ -8513,7 +7889,6 @@ Example) Measured value ‘w’ = 38.2 mm Measured value ‘z’ = 36.5 mm Value
 In this case according to ‘Matching valves’ table, the installed valve may be used.
 
 ### MACHINING OF VALVE SEAT
-`ssangyong_musso_en_f8c07265` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of prechamber Removal and inspection of valve, replace if necessary Inspection of valve guide, replace if necessary
 
@@ -8524,7 +7899,6 @@ Preceding Work Removal of prechamber Removal and inspection of valve, replace if
 a Valve Seat Angle b Valve Seat Free Angle
 
 ### Machining Procedure
-`ssangyong_musso_en_a1897034` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Valve machining is required
 
@@ -8582,7 +7956,6 @@ y Half Camshaft Basic Bore Diameter z Distance (Cylinder head cover parting surf
 In the case of a camshaft cam basic circle diameter ‘w’ = 38.2mm and a distance ‘x’ = 21.0mm, the installed valve may be used.
 
 ### CAMSHAFT TIMING TEST
-`ssangyong_musso_en_7cd85875` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of glow plug
 
@@ -8591,27 +7964,23 @@ Preceding Work Removal of glow plug
 1 Cylinder Head Cover 4 Valve Tappet 23 Bolt  · 10Nm 5 Cylinder Head Gasket .. Replace
 
 ### Timing
-`ssangyong_musso_en_df506026` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8aaac61d2c692bad22460137d8acc8838b162768543bc02e09d289d8c05d80a8.jpg)
 
 «At 2mm of valve lifting stroke.
 
 ### Measurement Procedure
-`ssangyong_musso_en_e2316278` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Remove the cylinder head cover.
 2. Rotate the engine in the direction of engine rotation until the intake valve of NO. 3 cylinder is completely closed. The cam lobe faces up (arrow).
 
 ### Notice
-`ssangyong_musso_en_5d3aa331` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Do not rotate the engine at the bolt of the crankshaft sprocket. Do not rotate the engine in the opposite direction of engine rotation. If do, this will cause serious measuring errors.
 
 3. Install the dial gauge holder and dial gauge (7) with the extension (8) to the cylinder head and position the tracer pin (9) onto the valve tappet (intake valve of cylinder NO.1) with a preload of min. 3mm.
 
 ### Notice
-`ssangyong_musso_en_9268be15` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The tracer pin should be positioned exactly vertical.
 
@@ -8628,7 +7997,6 @@ Extension 366 589 00 21 05
 ![](images/71c7b47347d180ca66852869d3dd1e6816cd2f78df9a584ce4deaad216858e43.jpg)
 
 ### Notice
-`ssangyong_musso_en_556a4f45` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If timing is out standard, the camshaft should be checked for wear and the timing chain for stretch. If a difference of more than 4° exists, the timing chain should be replaced.
 
@@ -8643,7 +8011,6 @@ If timing is out standard, the camshaft should be checked for wear and the timin
 ![](images/71cbd743537b60538f47dc3b3e58f9a700d6ceb4ed307d58351e31307eec7650.jpg)
 
 ### CAMSHAFT
-`ssangyong_musso_en_901a191a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cylinder head cover
 
@@ -8665,7 +8032,6 @@ Preceding Work Removal of cylinder head cover
 14 Chain Tensioner 80Nm
 
 ### Notice
-`ssangyong_musso_en_f735bf56` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not rotate the crankshaft in the opposite direction of engine rotation.
 
@@ -8688,7 +8054,6 @@ Engine Lock 602 589 00 40 00
 4. Remove the bolt and then remove the camshaft sprocket.
 
 ### Notice
-`ssangyong_musso_en_12a67412` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 During removal, be careful not to drop the sprocket with chain. Remove the chain carefully and then pull out the sprocket.
 
@@ -8699,7 +8064,6 @@ During removal, be careful not to drop the sprocket with chain. Remove the chain
 6. Remove the camshaft bearing cap bolts according to the removal order.
 
 ### Notice
-`ssangyong_musso_en_656a56e9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remove the camshaft bearing cap bolts of 1(dark arrow) first and then remove the bolts of 2 (light arrow) one revolution in stages until the counter-pressure is released. In order to avoid damaging the camshaft, it is essential to adhere to the removal order for the camshaft bearing caps.
 
@@ -8713,7 +8077,6 @@ OM 661LA
 8. Pull off the camshaft.
 
 ### Notice
-`ssangyong_musso_en_945a74d0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to miss front locking washer.
 
@@ -8722,7 +8085,6 @@ Be careful not to miss front locking washer.
 9. Pull out the locking washer.
 
 ### Notice
-`ssangyong_musso_en_d847035c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the condition of locking washer and replace if necessary.
 
@@ -8731,7 +8093,6 @@ Check the condition of locking washer and replace if necessary.
 4. Install the camshaft bearing caps according to markings(1, 2, 3 etc.).
 
 ### Installation Procedure
-`ssangyong_musso_en_571442cb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Insert the locking washer.
 2. Check the valve tappet and ensure that tappet moves smoothly.
@@ -8744,7 +8105,6 @@ Check the condition of locking washer and replace if necessary.
 ![](images/fa625beea8c97966c91ac0d5bb3f3109fc6f715938fbf83dbfbf9d6ffd75c4e6.jpg)
 
 ### Notice
-`ssangyong_musso_en_9a93de50` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Tighten the No. 1 bolts (light arrow) by one revolution in stages first and then tighten the No.2 bolts (dark arrow).
 
@@ -8759,7 +8119,6 @@ OM 661LA
 6. Install the camshaft sprocket to be aligned the markings of the camshaft camshaft bearing cap (arrow).
 
 ### Notice
-`ssangyong_musso_en_95126b7c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Align the alignment marks on the timing chain and sprocket.
 
@@ -8772,7 +8131,6 @@ Align the alignment marks on the timing chain and sprocket.
 ![](images/aaf0fee1bb0cfc7df4de1810b656f201853d1705cae4246f0296b1ff57708522.jpg)
 
 ### Notice
-`ssangyong_musso_en_7c933f12` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If max. length ‘L’ of the 12-sided bolt exceeds 53.6mm, replace it.
 
@@ -8783,7 +8141,6 @@ If max. length ‘L’ of the 12-sided bolt exceeds 53.6mm, replace it.
 ![](images/f2aac42720c53a36240013b38f4c163962816d152260d6a44ce4d33825e25a13.jpg)
 
 ### Notice
-`ssangyong_musso_en_47dd0b56` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the seal.
 Before installation, by pumping in the oil approx. 10 times, fill the oil.
@@ -8797,7 +8154,6 @@ Before installation, by pumping in the oil approx. 10 times, fill the oil.
 ![](images/f93074017e964a568e32bd7c4d075dd4c68bee8addd9570716af5ecd32207882.jpg)
 
 ### Notice
-`ssangyong_musso_en_14770cf5` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Always install the chain tensioner to be filled with oil.
 
@@ -8824,7 +8180,6 @@ Faulty chain tensioners should be replaced completely.
 A Feed Bore from Cylinder Head B To Oil Pan
 
 ### TIMING CHAIN
-`ssangyong_musso_en_8bd2bdf0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of glow plug Removal of chain tensioner Removal of cooling fan Removal of cylinder head cover
 
@@ -8833,7 +8188,6 @@ Preceding Work Removal of glow plug Removal of chain tensioner Removal of coolin
 1 Chain Link 234 Timing Chain Camshaft Sprocket Outer Plate
 
 ### Replacement Procedure
-`ssangyong_musso_en_5188cb00` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Cover over the chain box with cleaning rag and grind off both chain pins (arrow) at a chain link (1) of the timing chain.
 
@@ -8842,7 +8196,6 @@ Preceding Work Removal of glow plug Removal of chain tensioner Removal of coolin
 2. Remove the outer plate (4) and chain link (1).
 
 ### Notice
-`ssangyong_musso_en_e76fb8e9` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Ensure that the ends of the timing chain do not drop into the chain box.
 
@@ -8890,7 +8243,6 @@ In his position, the marking on camshaft camshaft bearing cap (arrow) must also 
 ![](images/7b902c673f8623fb9fa388667e912f043d6d9eb734f32a53c310bdf2701245ee.jpg)
 
 ### TENSIONING RAIL
-`ssangyong_musso_en_75bc48a1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cylinder head Removal of timing case cover
 
@@ -8901,7 +8253,6 @@ Preceding Work Removal of cylinder head Removal of timing case cover
 2 Bearing Pin
 
 ### CYLINDER HEAD GUIDE RAIL
-`ssangyong_musso_en_773c7cc6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of the cooling fan Removal of poly V-belt Removal of chain tensioner
 
@@ -8925,7 +8276,6 @@ Preceding Work Removal of the cooling fan Removal of poly V-belt Removal of chai
 16 Timing Chain
 
 ### Removal Procedure
-`ssangyong_musso_en_ebe7605c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Removal the cylinder head cover.
 2. Pull off the tensioning lever (7) and remove from the spring (15).
@@ -8950,7 +8300,6 @@ Threaded Pin 116 589 02 34 00
 ![](images/0ade8333ecf5076a13ed1c9cbd16e2d06c61ff459cfec9086b361d7827e760ba.jpg)
 
 ### Installation Procedure
-`ssangyong_musso_en_7f827cd7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Apply collar of both bearing pins with sealing compound.
 2. Position the guide rail and insert the bearing pins.
@@ -8961,7 +8310,6 @@ Threaded Pin 116 589 02 34 00
 ![](images/0635d36516cd1f577148f50013b065d3436c7730b7f50fa1dd2c42049880957e.jpg)
 
 ### Notice
-`ssangyong_musso_en_aabc637f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the max. length ‘L’ of the 12-sided bolt exceeds 53.6mm, replace it.
 
@@ -8986,7 +8334,6 @@ In this position, the marking on the camshaft camshaft bearing cap (arrow) must 
 ![](images/d1a76dd522a594ed4fae75fcf0d03dda87d7364e915551d92b00d7cbabf5fc86.jpg)
 
 ### TIMING CASE COVER GUIDE RAIL
-`ssangyong_musso_en_8ac724c5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cylinder head cover
 
@@ -9002,7 +8349,6 @@ Preceding Work Removal of cylinder head cover
 8 Tensioning Lever
 
 ### Removal Procedure
-`ssangyong_musso_en_3e282bec` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Pull out the tensioning lever (8) together with the spring (6) and guide rail (3) far enough until the tensioning lever has moved passed the oil pump chain (4) and is resting against the crankshaft (5)
 
@@ -9017,12 +8363,10 @@ Preceding Work Removal of cylinder head cover
 ![](images/3ee17afc754c6bf4c8badfe6f7f1b8190c97c78e23187ea313a3ec1a73816976.jpg)
 
 ### Installation Procedure
-`ssangyong_musso_en_6e072c8f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Install the guide rail (3). Attach the spring (6) to the guide rail and to the tensioning lever (8).
 
 ### Notice
-`ssangyong_musso_en_c04e349a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Ensure that the spring is correctly located in the guide rail (arrow).
 
@@ -9031,7 +8375,6 @@ Ensure that the spring is correctly located in the guide rail (arrow).
 ![](images/489f43148cf5215578d51ffb2a81bfaea0e0601c4c4b6d793099bf49ad07b9fe.jpg)
 
 ### CRANKSHAFT SPROCKET
-`ssangyong_musso_en_05b1f3f4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of oil pan Removal of timing case cover
 
@@ -9057,7 +8400,6 @@ Preceding Work Removal of oil pan Removal of timing case cover
 19 Tensioning Lever
 
 ### Removal Procedure
-`ssangyong_musso_en_985db54f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Pull out the tensioning lever (19) together with the spring (17) and guide rail (16) far enough until the tensioning lever has passed the oil pump chain (9) and is resting against the crankshaft (13).
 
@@ -9092,7 +8434,6 @@ Puller 102 589 05 33 00
 ![](images/8495c5556afe8ef48037eb8cc758ce20965e4cd7b884013908b41a8e110642ab.jpg)
 
 ### Notice
-`ssangyong_musso_en_10e97235` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the timing chain, camshaft sprocket, injection pump timing sprocket, oil pump chain and oil pump sprocket for wear and replace if necessary.
 
@@ -9101,7 +8442,6 @@ Check the timing chain, camshaft sprocket, injection pump timing sprocket, oil p
 2. Install the new crankshaft sprocket (12) by using a drift (21).
 
 ### Notice
-`ssangyong_musso_en_0f3f7eb8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Align the groove of sprocket and woodruff key (arrow) exactly. Drift 116 589 07 15 00
 
@@ -9110,7 +8450,6 @@ Align the groove of sprocket and woodruff key (arrow) exactly. Drift 116 589 07 
 3. Fit the timing chain (4) on the crankshaft sprocket (12).
 
 ### Notice
-`ssangyong_musso_en_d91233b1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Align the alignment marks (arrow) on the chain and sprocket.
 
@@ -9121,14 +8460,12 @@ Align the alignment marks (arrow) on the chain and sprocket.
 ![](images/ddc6bd97092d6707743efb465a3ffab6b6a39e17cb09c4d5f2d6e73ba9f693e1.jpg)
 
 ### Notice
-`ssangyong_musso_en_cb69658a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Pay attention on the alignment marks and dowel pin (arrow).
 
 ![](images/472beda7cb70e01a694373f603bf8ce13c028def17b9cc854b05299c2ee6e4fa.jpg)
 
 ### Notice
-`ssangyong_musso_en_7ac6113c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the max. length ‘L’ of the stretch bolt exceeds 53.6mm, replace it.
 
@@ -9137,7 +8474,6 @@ If the max. length ‘L’ of the stretch bolt exceeds 53.6mm, replace it.
 5. Fit the oil pump chain (9) on the crankshaft sprocket (12) and insert the oil pump sprocket (8) into the oil pump chain and then install it on the oil pump.
 
 ### Notice
-`ssangyong_musso_en_24861a47` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The curved side of the oil pump sprocket should face the oil pump.
 
@@ -9148,14 +8484,12 @@ The curved side of the oil pump sprocket should face the oil pump.
 7. Install the guide rail (16). Attach the spring (17) to guide rail and to tensioning lever together onto the bearing pins (5,6).
 
 ### Notice
-`ssangyong_musso_en_3d626fa8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Ensure that the spring is correctly located in the guide rail (arrow).
 
 ![](images/8dfeddd728407b1735a6c1c2cc8f89ef3d3dd36f7b2cc6c31d5f57fba141565f.jpg)
 
 ### PISTON
-`ssangyong_musso_en_dad1d236` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Preceding Work Removal of the cylinder head Removal of the oil pump
 
@@ -9177,12 +8511,10 @@ Preceding Work Removal of the cylinder head Removal of the oil pump
 14 Cylinder Bore
 
 ### Notice
-`ssangyong_musso_en_b534d584` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 There are two kinds of connecting rods (for machining) and they are different in weight approx. 15g. When replacing the connecting rod, measure its weight and ensure that a engine has the same weight of connecting rods. If not, there would be a unbalancing of engine.
 
 ### Removal Procedure
-`ssangyong_musso_en_7e6a9368` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove combustion residues from the cylinder bores. 2. Remove the connecting rod bolts (12) and then remove the connecting rod bearing caps(11).
 
@@ -9191,7 +8523,6 @@ There are two kinds of connecting rods (for machining) and they are different in
 3. Remove the connecting rod bearing shells (9, 10).
 
 ### Notice
-`ssangyong_musso_en_8a711bb4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not mix the bearing caps and shells each other.
 
@@ -9207,7 +8538,6 @@ Be careful not mix the bearing caps and shells each other.
 ![](images/50b6aa02bf81132f191931a9f96eb633055127a68386152a4cbda2e0224856f9.jpg)
 
 ### Installation Procedure
-`ssangyong_musso_en_c3a16df6` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Fit the piston onto the connecting rod so that the arrow (15) and the locking slot (16) are facing in direction of the vehicle.
 
@@ -9216,7 +8546,6 @@ Be careful not mix the bearing caps and shells each other.
 2. Coat the piston pin (15) with engine oil and insert it by hand.
 
 ### Notice
-`ssangyong_musso_en_7fd83ec2` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Do not heat up the piston.
 
@@ -9239,7 +8568,6 @@ Tensioning Strap 000 589 04 14 00
 8. Insert the piston assembly into the cylinder with a wooden stick (18).
 
 ### Notice
-`ssangyong_musso_en_48aed644` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The arrow on the piston crown must point toward the front of vehicle.
 
@@ -9248,14 +8576,12 @@ The arrow on the piston crown must point toward the front of vehicle.
 9. Insert the connecting rod bearing shells (9, 10).
 
 ### Notice
-`ssangyong_musso_en_43df213f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful of the difference in upper and lower bearing shells and not to be changed.
 
 10. Position the connecting rod bearings caps.
 
 ### Notice
-`ssangyong_musso_en_8e6cadba` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Position so that the retaining lugs are on the same side of the connecting rod bearing(arrow).
 
@@ -9286,14 +8612,12 @@ Position so that the retaining lugs are on the same side of the connecting rod b
 ![](images/0eb0c49596c8bf678c714d392e41df30d78797a81a2e54468f4925101a8ad675.jpg)
 
 ### Notice
-`ssangyong_musso_en_dc292e78` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Measure at points marked.
 
 ![](images/50428094d004f24649312719bb8245041b3f26cd64ac27e09fb77ebb542e8307.jpg)
 
 ### OIL FILTER
-`ssangyong_musso_en_b496fc20` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e60dcfa42b183764de2cca2fc80cdb691d621635f2a891e1433adff1b03d7a44.jpg)
 
@@ -9304,7 +8628,6 @@ Measure at points marked.
 5 Oil Filter Housing
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_5bb2f67e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the oil filter cover and then drain the oil.
 
@@ -9317,7 +8640,6 @@ Measure at points marked.
 5. Installation should follow the removal procedure in the reverse order.
 
 ### OIL PAN
-`ssangyong_musso_en_ba64ceb8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/6b8e394cec0fde6151dcc62c054b72226e26f9909ab9261638aeefd214fa0e30.jpg)
 
@@ -9335,14 +8657,12 @@ Combination Bolt 25 Nm
 \*Remove and install as numerical sequence.
 
 ### Oil Filter
-`ssangyong_musso_en_edfc7342` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/241f925067cb00d12708dce923a021bd1ea6e7d92561d4fd25c7ae8ee6e556fd.jpg)
 
 a From Oil Pump b To Main Oil Gallery c To Oil Pan
 
 ### OIL SPRAY NOZZLE
-`ssangyong_musso_en_8daeb35b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7a04bd930390705fde7aaee3e5769695eb989da032880ad0d0126366b66441e0.jpg)
 
@@ -9352,7 +8672,6 @@ a From Oil Pump b To Main Oil Gallery c To Oil Pan
 3 Combination Bolt 10 Nm A Oil Duct
 
 ### Disassembly Procedure
-`ssangyong_musso_en_fb16ce41` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove oil pan or crankshaft.
 2. Loose the bolt and then remove the nozzle.
@@ -9360,7 +8679,6 @@ a From Oil Pump b To Main Oil Gallery c To Oil Pan
 ![](images/3de1ff40cd204e3265daa2cab3bc7cf4720a04b43cd8ec12364fe007f0cf3345.jpg)
 
 ### OIL PUMP
-`ssangyong_musso_en_ce1d4da9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/57978a004dcf79f16d98d2dfc653e5f9af2f137411961da17b8c135356913c82.jpg)
 
@@ -9374,7 +8692,6 @@ a From Oil Pump b To Main Oil Gallery c To Oil Pan
 8 Bracket
 
 ### Disassembly Procedure
-`ssangyong_musso_en_ff7ba209` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the oil pan.
 2. Unscrew the mounting bolt of spracket.
@@ -9394,7 +8711,6 @@ a From Oil Pump b To Main Oil Gallery c To Oil Pan
 ![](images/e0530ed61de45cb6d9f71f3e1ba51eb32ab63aaf43b88a89084df5318ab24392.jpg)
 
 ### CYLINDER HEAD PRESSURE LEAKAGE TEST
-`ssangyong_musso_en_5687f28c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of the cylinder head Removal of the exhaust manifold Removal of the valve
 
@@ -9409,7 +8725,6 @@ Preceding Work Removal of the cylinder head Removal of the exhaust manifold Remo
 7 Cylinder Head . Immerse with pressure measuring plate into warm water of approx. 60°C and pressurize with compress airof 2 bar.
 
 ### FACING CYLINDER HEAD MATING SURFACE
-`ssangyong_musso_en_c4b483c2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work : Removal of prechamber Cylinder head pressure leakage test
 
@@ -9422,14 +8737,12 @@ A Height of Cylinder Head
 B Longitudinal Direction C Transverse Direction a Valve Arrears b Prechamber Protrusion
 
 ### Measurement Procedure
-`ssangyong_musso_en_2d9bcd71` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Measure height ‘A’.
 
 ![](images/a87a4c09f724b4c2345908184aedcfa66b8775b8bc0da0874adf2a9f1a7f46dc.jpg)
 
 ### Notice
-`ssangyong_musso_en_fdda3cc9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If he height is less than 142.5mm, replace the cylinder head.
 
@@ -9440,7 +8753,6 @@ If he height is less than 142.5mm, replace the cylinder head.
 ![](images/2b5cbf03b9f4a99463347de2a6a443fb95535104207369282d031a4f4c0919b6.jpg)
 
 ### Notice
-`ssangyong_musso_en_b51b56ae` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If out of standard, machine the valve seat.
 
@@ -9455,7 +8767,6 @@ If out of standard, machine the valve seat.
 ![](images/bde12c12c25422210f284d42b4e92aab20f1aa969a31a179771e9cce28e7e371.jpg)
 
 ### REPLACEMENT OF CRANKCASE CORE PLUG
-`ssangyong_musso_en_0d2ef23f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/db8011b9e3565fd6228486264005b7745a67f12da6aab72a156558574e32a55e.jpg)
 
@@ -9474,7 +8785,6 @@ Core plug f17mm OM661LA - 1EA OM662LA - 1EA
 Core plug = f34mm OM661LA - 1EA OM662LA - 1EA
 
 ### Replacement Procedure
-`ssangyong_musso_en_4aa50a1c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Completely drain the coolant. 2. Remove any parts which impede access. (Example transmission, injection pump) 3. Place the screwdriver to the deepdrawn edge of the core plug and pull forward and then rotate 90°.
 
@@ -9492,14 +8802,12 @@ Drift 102 589 00 15 00 (F34) Drift 102 589 12 15 00 (F17)
 7. Install the removed parts and fill the coolant.
 
 ### Notice
-`ssangyong_musso_en_d267e52e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The adhesive must be allowed to harden for about 45 minutes before filling of coolant.
 
 8. Warm up the engine and check the coolant for leaks.
 
 ### FACING CRANKCASE CONTACTING SURFACE
-`ssangyong_musso_en_6d6b6966` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/aa4ae886fd6b76cd1221e7afc3dbc79ec69a533be22acc0d86a0998db04f052f.jpg)
 
@@ -9510,7 +8818,6 @@ Y Height (crankcase upper surface crankcase lower surface)
 B Longitudinal Direction C Transverse Direction H Chamfer Height b Chamfer Angle
 
 ### OIL GALLERY STEEL BALL
-`ssangyong_musso_en_2f7940f2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cooling fan Removal of the coolant pump housing Removal of the flywheel and driven plate
 
@@ -9519,7 +8826,6 @@ Preceding Work Removal of cooling fan Removal of the coolant pump housing Remova
 Steel Ball . 1 . f15mm 2 Screw Plug . · 1 ············· Loctite 241,50Nm
 
 ### Notice
-`ssangyong_musso_en_46413972` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The screw plug (2) has to be installed as a repair solution if the steel ball (1) is leaking.
 
@@ -9529,20 +8835,17 @@ The screw plug (2) has to be installed as a repair solution if the steel ball (1
 4 Seal
 
 ### Notice
-`ssangyong_musso_en_7e3ad6a0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The seal (4) and screw plug (5) have to be installed as a repair solution if the steel ball (3) is leaking.
 
 Tools Required 601 589 08 15 00 Drift
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_ffbe431a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the timing case cover.
 2. By inserting a round bar (6) approx. 0.7m from the back to the front side through the oil gallery, knock out the steel balls (1,3).
 
 ### Notice
-`ssangyong_musso_en_fbbdb08b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to damage the bores of the steel balls.
 
@@ -9565,7 +8868,6 @@ Drift 601 589 08 1500
 ![](images/96dc8d6dea95e9a8b324229a618e07c0557978106b2f11fbaad8f52f5a986e54.jpg)
 
 ### Notice
-`ssangyong_musso_en_30892a21` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If steel ball leaks again, install the screw plug.
 
@@ -9573,7 +8875,6 @@ If steel ball leaks again, install the screw plug.
 2. Tap thread into the bores of the oil gallery.
 
 ### Notice
-`ssangyong_musso_en_4cd62ea4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Front bore M18 1.5, depth 10mm Rear bore M16 1.5, depth 14mm
 
@@ -9590,7 +8891,6 @@ Front bore M18 1.5, depth 10mm Rear bore M16 1.5, depth 14mm
 ![](images/58d368ce2d7d9d015856ff043245296c7f7fde1a72e43fe693c62456b1a243b0.jpg)
 
 ### CYLINDER BORE MEASUREMENT
-`ssangyong_musso_en_feec3fa3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/cf293ddee3a857c66ad5c198bd9726999649e8626605662ea89638d275ba6cc7.jpg)
 
@@ -9599,12 +8899,10 @@ a Longitudinal Direction b Transverse Direction c, d, e. Measuring Point
 124 Crankcase Contacting Surface TDC of 1st Piston Ring BDC of Ring
 
 ### M162 ENGINE COOLING
-`ssangyong_musso_en_ff755036` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 CAUTION: Discon ect thenegativebaterycablebeforeremovingor nstalinganyelectricalunitorwhena to lorequipmentcouldeasilycomeincontactwithexposedelectricalterminals. Discon ectingthiscable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_ed3ed7e7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications 1D1-1
 General Specifications 1D1-1
@@ -9625,14 +8923,12 @@ Cooling Fan Shroud 1D1-14
 Radiator 1D1-15
 
 ### FASTENER TIGHTENING SPECIFICATIONS
-`ssangyong_musso_en_67d78283` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d6a2e2e37bb55ad438e6494a8743b453b0c913b3d5a77751c469f0ea2daa9231.jpg)
 
 ![](images/e2645eb94bbe1764637ecbcb323d8bc8c587a4fe086b207756fa41f9310ea646.jpg)
 
 ### Notice
-`ssangyong_musso_en_d1f47823` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For the risk of scalding, cap must not be opened unless the coolant temperature is below 90°C.
 
@@ -9649,7 +8945,6 @@ Tester 124 589 15 21 00
 ![](images/b45d30884775d91a07ae7284251f47f2aabc853a56baf2f841fc0bc804031821.jpg)
 
 ### Notice
-`ssangyong_musso_en_9f3c420d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For the risk of scalding, the cap must not be opened unless the coolant temperature is below 90oC.
 
@@ -9666,7 +8961,6 @@ Just loosen the drain plug to drain the coolant and do not remove the plug compl
 3. Drain the coolant from the crankcase by inserting a hose (dia. 14mm) onto the drain bolt on the side of crankcase (exhaust manifold) and by loosening the plug.
 
 ### Installation Notice
-`ssangyong_musso_en_01734848` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7c518b067c10eed51f61500a24218cf8dfde4e48ef8b9daa5c00b83fd5d06586.jpg)
 
@@ -9675,7 +8969,6 @@ Just loosen the drain plug to drain the coolant and do not remove the plug compl
 7. Fill up the coolant through the coolant reservoir tank.
 
 ### Notice
-`ssangyong_musso_en_ed36c8a3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Match the anti-freeze and the water ratio to 50 50. Supplement the coolant until the coolant overflows to the deaeration hose.
 
@@ -9686,7 +8979,6 @@ Match the anti-freeze and the water ratio to 50 50. Supplement the coolant until
 ![](images/50f6c87f0bcec0f2daab11d28024b66877e649414cc7ce66f1a43f605e5008d5.jpg)
 
 ### COOLANT CONNECTION FITTING
-`ssangyong_musso_en_5f1a8d5a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cooling fan shroud
 
@@ -9699,14 +8991,12 @@ Preceding Work Removal of cooling fan shroud
 6 Hose
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_3b7d2ddd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Drain coolant from the radiator.
 2. Remove the hose mounting clamp (5) and disconnect the coolant hose (6).
 3. Remove the two bolts (1), the engine hanger bracket (2) and coolant outlet port (3).
 
 ### Installation Notice
-`ssangyong_musso_en_c21ceb96` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/657ff015cff67956c6d3a37b16be4a17e9a2c3200159835df0818b5c956d123b.jpg)
 
@@ -9719,7 +9009,6 @@ Replace the O-ring with new one.
 ![](images/61721ed8586f74e314a932afb9993500da34ab4ae32ee6365928908e8a93bf93.jpg)
 
 ### WATER PUMP
-`ssangyong_musso_en_fa99ad0a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of V-belt Removal of air admission housing
 
@@ -9740,7 +9029,6 @@ Preceding Work Removal of V-belt Removal of air admission housing
 13 Seal Replace
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_716f56e8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Drain the coolant.
 2. Disconnect the coolant pump wire connector.
@@ -9748,7 +9036,6 @@ Preceding Work Removal of V-belt Removal of air admission housing
 4. Remove the coolant line bolts (4) and then remove the coolant line (2).
 
 ### Notice
-`ssangyong_musso_en_0e0075d8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the seal (13).
 
@@ -9761,7 +9048,6 @@ Replace the seal (13).
 8. Do coolaing system leakage test
 
 ### THERMOSTAT
-`ssangyong_musso_en_9cd5c0dd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/de5987f95d3b15ca2696527f1bcc167c490d3798d2881de5d2baf324b4a30848.jpg)
 
@@ -9774,14 +9060,12 @@ Replace the seal (13).
 7 Heater Hose
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_b30e8d51` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Drain the coolant from the radiator.
 2. Loosen the hose mounting clamp (6) and remove the heater hose (7).
 3. Unscrew the three bolts (5) and remove the thermostat cover bracket, thermostat cover and the thermostat in order.
 
 ### Installation Notice
-`ssangyong_musso_en_ce66cb7b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8312821be878f524ac6893870fdd98e5dec4f5c31e1423271dc08c3704da1ab3.jpg)
 
@@ -9791,7 +9075,6 @@ Do not separate the thermostat cover and thermostat.
 5. Check the leakage in the cooling system.
 
 ### OIL COOLER PIPE LINE
-`ssangyong_musso_en_4df5c69f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of upper intake manifold
 
@@ -9803,7 +9086,6 @@ Preceding Work Removal of upper intake manifold
 5 O-ring · Replace
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_f81b67fb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Drain the coolant.
 2. Unscrew the bolts (2, 3) and remove the oil cooler pipe line (4). Replace the O-ring with new one.
@@ -9811,7 +9093,6 @@ Preceding Work Removal of upper intake manifold
 ![](images/74286d55e67f49462791419c9b7a2ab50de194c183feaf6439e1f5b0aa89a4cc.jpg)
 
 ### Installation Notice
-`ssangyong_musso_en_4ca305e7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 3. Installation should follow the removal procedure in the reverse order.
 
@@ -9822,7 +9103,6 @@ Preceding Work Removal of upper intake manifold
 ![](images/15a0c68f40520882c2de23368c95c87e0460590f1c555bb8ca108966fb9e138a.jpg)
 
 ### COOLING FAN AND VISCOUS CLUTCH
-`ssangyong_musso_en_0c6d2f07` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cooling fan shroud
 
@@ -9834,26 +9114,22 @@ Preceding Work Removal of cooling fan shroud
 5 Bolt (M10 X 45, 1 piece) .··.·······.. 40.5-49.5 Nm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_4f2e5668` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Hold the cooling fan pulley using the counter holder (special tool 603 589 00 40 00) and remove the cooling fan after unscrewing the four bolts (4).
 
 ### Installation Notice
-`ssangyong_musso_en_f363bcf3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5b9293b2b82a347d62d269a7e9f3608efdda47bb5ce3f875674ea6bf87e37f7a.jpg)
 
 2. Remove the bolt (5) from the viscous clutch and remove the viscous clutch from the cooling fan pulley.
 
 ### Installation Notice
-`ssangyong_musso_en_b0f1f427` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/12ddaf823b8b171aec416c52550ac8a47c9cf37f7aeff54ca10423092eff017e.jpg)
 
 3. Installation should follow the removal procedure in the reverse order.
 
 ### COOLING FAN SHROUD
-`ssangyong_musso_en_5bb672a5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/73c05ae48fabb730fc66701cc6dcba53a7dc8912f72a59fa9c7021e9bd38a931.jpg)
 
@@ -9864,7 +9140,6 @@ Preceding Work Removal of cooling fan shroud
 5 Radiator
 
 ### Notice
-`ssangyong_musso_en_6f4af649` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For installation, exactly align the lower fan shroud pin into the hole of the fan shroud assembly (4) and insert the clips.
 
@@ -9873,14 +9148,12 @@ For installation, exactly align the lower fan shroud pin into the hole of the fa
 ![](images/7584dea2119367e42a38ba93644458b73a5ac8cf083fed225ca8e58f273ec0dd.jpg)
 
 ### Installation Notice
-`ssangyong_musso_en_7d0dd91b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 4. Installation should follow the removal procedure in the reverse order.
 
 ![](images/6b6fa3e617fc58b7e5225d52b17c9b70028ead484e08c571ca5d92630f570307.jpg)
 
 ### RADIATOR
-`ssangyong_musso_en_9aa087c5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cooling fan shroud
 
@@ -9898,7 +9171,6 @@ Preceding Work Removal of cooling fan shroud
 10 Radiator
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_31038f77` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Drain coolant from the radiator.
 2. Remove the coolant thermo connector from the radiator.
@@ -9920,12 +9192,10 @@ Preceding Work Removal of cooling fan shroud
 ![](images/0b4d4ae732712b80f531a3d29c9076e1d34b8d47335ba2c4cf1fb548a2ba6b45.jpg)
 
 ### M161 ENGINE COOLING
-`ssangyong_musso_en_ff755036` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 CAUTION: Discon ect thenegativebaterycablebeforeremovingor nstalinganyelectricalunitorwhena to lorequipmentcouldeasilycomeincontactwithexposedelectricalterminals. Discon ectingthiscable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_68945243` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications. 1D2-1
 General Specifications 1D2-1
@@ -9946,14 +9216,12 @@ Fan Shroud 1D2-14
 Removal and Installation of Radiator 1D2-15
 
 ### FASTENER TIGHTENING SPECIFICATIONS
-`ssangyong_musso_en_a14feb6b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2b9932a2bc6ba79b581ce2d7ef1cd3595c6b6bf17f64764e98e1ce99a72d5a53.jpg)
 
 ![](images/0d34d50fba3b5ff2bb48fe65679d9fa559a2c07991f0bd948554131cf8266f68.jpg)
 
 ### Notice
-`ssangyong_musso_en_ac8dd4aa` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For the risk of scalding, cap must not be opened unless the coolant temperature is below 90°C.
 
@@ -9970,7 +9238,6 @@ Tester 124 589 15 21 00
 ![](images/cace02c47d63ec8c011c929ae1000b71be205168cba4623806eb25c912604cae.jpg)
 
 ### Notice
-`ssangyong_musso_en_a36ef311` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For the risk of scalding, the cap must not be opened unless the coolant temperature is below 90oC.
 
@@ -9983,7 +9250,6 @@ For the risk of scalding, the cap must not be opened unless the coolant temperat
 3. Drain the coolant from the crankcase by inserting a hose (dia. 14mm) onto the drain bolt on the side of crankcase (exhaust manifold) and by loosening the plug.
 
 ### Notice
-`ssangyong_musso_en_7e9502cf` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Just loosen the drain plug to drain the coolant and do not remove the plug completely. Collect coolant by using proper container.
 
@@ -10002,7 +9268,6 @@ Installation Notice
 7. Fill up the coolant through the coolant reservoir tank.
 
 ### Notice
-`ssangyong_musso_en_29547683` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Match the anti-freeze and the water ratio to 50 50. Supplement the coolant until the coolant overflows to the deaeration hose.
 
@@ -10013,7 +9278,6 @@ Match the anti-freeze and the water ratio to 50 50. Supplement the coolant until
 10. Warm up(until thermostat is opened) the engine and recheck the coolant level in the reservoir tank and fill up the coolant if necessary.
 
 ### COOLING FAN AND VISCOUS CLUTCH
-`ssangyong_musso_en_55841422` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/18530b9b6c2d47e5abe2ecfaebb8ca1a99be2d43f6474a621eb640a34d267256.jpg)
 
@@ -10023,20 +9287,17 @@ Match the anti-freeze and the water ratio to 50 50. Supplement the coolant until
 34 Viscous Clutch Union Nut (Left Threaded Screw) ... 40.5-49.5 Nm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_2d1b6e4c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Install the holder (special tool 111 589 00 40 00) to the bolt at the pulley as shown in the right figure to hold the pulley.
 2. Remove the viscous clutch using an open end wrench (special tool 111 589 02 01 00).
 
 ### Notice
-`ssangyong_musso_en_97450c10` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The union nut is left threaded screw.
 
 3. Remove the 3 bolts (1) from the viscous clutch and remove the cooling fan and the viscous clutch.
 
 ### Notice
-`ssangyong_musso_en_56e02c58` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You may change the procedure (2) and (3) if necessary.
 
@@ -10045,7 +9306,6 @@ You may change the procedure (2) and (3) if necessary.
 ![](images/69a8cfc9d4c339d403040239e848df7ff079f64693bb0548f8c88ed87f5feb85.jpg)
 
 ### COOLANT PUMP
-`ssangyong_musso_en_554b5dad` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of viscous clutch
 
@@ -10057,7 +9317,6 @@ Bolt (M8 X 85, 2 piece)   20.5-20.5 Nm 10 Coolant Bypass Hose 56 Coolant Pump Ho
 Bolt (M6 X 16, 4 piece) ······················· 9-11 Nm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_8ef8ecf6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Drain the coolant.
 2. Disconnect the coolant hoses (8, 9, 10).
@@ -10066,7 +9325,6 @@ Bolt (M6 X 16, 4 piece) ······················· 9-11 Nm
 remove the pulley (7).
 
 ### Notice
-`ssangyong_musso_en_ab373b55` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Hold the pulley with special tool (603 589 00 40 00) while removing the pulley.
 
@@ -10075,7 +9333,6 @@ Hold the pulley with special tool (603 589 00 40 00) while removing the pulley.
 5. Unscrew the bolts (1, 2, 3, 4) from coolant pump housing (5) and remove the coolant pump.
 
 ### Installation Notice
-`ssangyong_musso_en_607e408e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/707473c7834a67c0233af066f63e5342a244cda12e06144eeac7a6479afc783b.jpg)
 
@@ -10084,7 +9341,6 @@ Hold the pulley with special tool (603 589 00 40 00) while removing the pulley.
 7. Replace the gasket with new one.
 
 ### Notice
-`ssangyong_musso_en_d1528ed5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Apply the sealant when the sealing surface of coolant pump housing and coolant mounting area is clean.
 
@@ -10095,7 +9351,6 @@ Apply the sealant when the sealing surface of coolant pump housing and coolant m
 9. Check for leaks by starting the engine.
 
 ### THERMOSTAT
-`ssangyong_musso_en_c10f2b9a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d556a5520d9422d3df37982286258aeb61ecb87bb051ad72b9e836667c469869.jpg)
 
@@ -10108,7 +9363,6 @@ Thermostat
 O-ring
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_7f9bd33e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Drain the coolant from the radiator.
 
@@ -10116,7 +9370,6 @@ O-ring
 3. Unscrew the three bolts (1) and remove the thermostat cover assembly from thermostat housing.
 
 ### Installation Notice
-`ssangyong_musso_en_b77015d1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/081560d5817d6d2c0830685fa119840cb338c584dbcad277a10ed3c18ff80d4c.jpg)
 
@@ -10127,7 +9380,6 @@ Do not separate the thermostat cover and thermostat.
 5. Check the leakage in the cooling system.
 
 ### THERMOSTAT HOUSING ASSEMBLY
-`ssangyong_musso_en_c9050ccc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of viscous clutch
 
@@ -10145,7 +9397,6 @@ Preceding Work Removal of viscous clutch
 8 Engine Hanger Brocket
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_9a34876c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Drain the coolant.
 2. Remove the de-aeration hose (4), coolant outlet hose (5) and coolant bypass hose (6).
@@ -10153,14 +9404,12 @@ Preceding Work Removal of viscous clutch
 4. Unscrew the bolt (1c) and pry off the tensioning device shock absorber (7).
 
 ### Installation Notice
-`ssangyong_musso_en_b9f01338` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ee410d5de8f524d9167dc78cd7084f3f84e497a12e79c323019b3e0a29d721bf.jpg)
 
 5. Unscrow the bolts (1a, 1b) and remove the engine hanger bracket and thermostat housing.
 
 ### Installation Notice
-`ssangyong_musso_en_a0e0d26e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f589bc0a9bcf2896ce3fd2304dca95e7b5f4f53fa3593068212c1cd808a9fe4d.jpg)
 
@@ -10171,7 +9420,6 @@ Preceding Work Removal of viscous clutch
 8. Check for leaks in cooling system.
 
 ### Installation Notice
-`ssangyong_musso_en_37fe4637` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/29d866f24c1d1781b2e5c9053a76f76adcf3978c408c29fa1706d665d318df0a.jpg)
 
@@ -10180,7 +9428,6 @@ Preceding Work Removal of viscous clutch
 ![](images/960e59716fcbc1fa7a812617537bbd01274389184b1df49874a6d6b619df03a9.jpg)
 
 ### REMOVAL AND INSTALLATION OF RADIATOR
-`ssangyong_musso_en_e924c08a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cooling fan shroud
 
@@ -10199,7 +9446,6 @@ Equippend Vehicle)
 10 Radiator
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_fe03f69b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Drain coolant from the radiator.
 2. Remove the coolant thermo connector from the radiator.
@@ -10232,12 +9478,10 @@ Installation Notice
 ![](images/1a606e212cb34dac58debea88a7ad72311fa752b74127c1358b3e2a1f50320e8.jpg)
 
 ### OM600 ENGINE COOLING
-`ssangyong_musso_en_7cd43673` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Discon ectthenegative baterycable beforeremovingorinstalinganyelectrical unitor whena to lorequipmentcouldeasilycomeincontactwithexposedelectrical terminals. Discon ecting thiscable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_f028b402` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications. 1D3-1 On-Vehicle Service 1D3-5
 General Specifications 1D3-1 Drain and Filling of Coolant 1D3-5
@@ -10249,7 +9493,6 @@ Cooling System Leakage Test 1D3-4 Cooling Sub-System 1D3-14
 Maintenance and Repair ■ 1D3-5 Thermostat 1D3-16
 
 ### COOLING CIRCULATION
-`ssangyong_musso_en_98b65870` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/67ac146704ad1747f142f60bd2325fefb65260795dd517c90480a91484488e76.jpg)
 
@@ -10258,7 +9501,6 @@ A Thermostat B Radiator D From Heater E Hose
 G Deaeration Line H Reservoir
 
 ### Operation
-`ssangyong_musso_en_6835ad33` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. At warming up Valve closes until temperature of coolant reaches to 85°C.
 
@@ -10273,7 +9515,6 @@ B. From RadiatorC. From CrankcaseD. To Crankcase
 ![](images/49d533a3583f15409efd572c188e1ddd195e20eaf269420c3207084c8bfb3994.jpg)
 
 ### Notice
-`ssangyong_musso_en_cd21803b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not remove radiator cap when coolant is above 90°C.
 
@@ -10290,7 +9531,6 @@ Tester 124 589 15 21 00
 ![](images/1f4dede7c3ed9712d89981268341d3d9c03769eaf5a9523d9378d797c686df41.jpg)
 
 ### Notice
-`ssangyong_musso_en_d5cecfaf` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not remove radiator cap when coolant is above 90°C.
 
@@ -10299,7 +9539,6 @@ Do not remove radiator cap when coolant is above 90°C.
 2. Open the drain plug and drain the coolant.
 
 ### Notice
-`ssangyong_musso_en_534ac77c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Collect the coolant by using the proper bottle.
 
@@ -10316,14 +9555,12 @@ Collect the coolant by using the proper bottle.
 6. Fill the coolant through coolant reservoir-tank.
 
 ### Notice
-`ssangyong_musso_en_6a9786f8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A proportion of 50% by volume of water anticorrosion must be ensured
 
 7. After engine is running at idle speed, check the level of coolant. If necessary, add enough specified coolant.
 
 ### COOLANT PUMP
-`ssangyong_musso_en_f5f1d593` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of cooling fan Removal of V-belt
 
@@ -10337,7 +9574,6 @@ Preceding Work Removal of cooling fan Removal of V-belt
 6 Coolant Pump
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_078acd64` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Loose the bolts(5) and remove the pulley (4).
 
@@ -10356,7 +9592,6 @@ Installation Notice
 4. Remove the coolant pump(6).
 
 ### Notice
-`ssangyong_musso_en_3da65e72` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Clean gasket residues on the sealing surface of coolant pump and replace the gasket.
 
@@ -10365,7 +9600,6 @@ Clean gasket residues on the sealing surface of coolant pump and replace the gas
 ![](images/9d0ccf1b544549b36df39f25f0d9d626e2a53c695c46c1af67df5e1852ce43c2.jpg)
 
 ### COOLANT PUMP HOUSING
-`ssangyong_musso_en_c9bf1790` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of coolant pump Removal of thermostat Removal of alternator
 
@@ -10377,7 +9611,6 @@ Preceding Work Removal of coolant pump Removal of thermostat Removal of alternat
 4 Bolt 10 Nm
 
 ### Notice
-`ssangyong_musso_en_5178554c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The bolt on the arrow should be installed last.
 
@@ -10387,7 +9620,6 @@ The bolt on the arrow should be installed last.
 8 Temperature Sensor
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_ceede24c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the connector(3).
 2. Separate the coolant hose (5) and return pipe(6).
@@ -10395,7 +9627,6 @@ The bolt on the arrow should be installed last.
 3. Remove the bolts(4) evenly.
 
 ### Notice
-`ssangyong_musso_en_588a6da2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Clean gasket residues on the sealing surface of coolant pump and replace the gasket.
 
@@ -10406,7 +9637,6 @@ Clean gasket residues on the sealing surface of coolant pump and replace the gas
 ![](images/fc142eea31c353095ae1a011769b4c9c69fd172b0f56f39b4c21985e9e359420.jpg)
 
 ### COOLING FAN CLUTCH
-`ssangyong_musso_en_4a5544b9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b9651007cf4d932322d36989e3f08e0f65d8a9f3bceb609b644961a50fabe2d0.jpg)
 
@@ -10419,14 +9649,12 @@ Clean gasket residues on the sealing surface of coolant pump and replace the gas
 Tools Required 603 589 00 40 00 Counter Holder
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_94cdc425` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Hold the bolt pulley with counter holder and remove the bolt(4).
 
 Counter Holder 603 589 00 40 00
 
 ### Installation Notice
-`ssangyong_musso_en_144b68b1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/1d01b875b0c5de06bf9eb004ab446d4024033996f25853b2ed973a81fb0d00e0.jpg)
 
@@ -10435,7 +9663,6 @@ Counter Holder 603 589 00 40 00
 2. Remove the socket bolt(5) and then remove the cooling fan(3) and fan clutch(2).
 
 ### Installation Notice
-`ssangyong_musso_en_5cb84f96` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/010770ef634d3060fa930cc47ab51065f9d3963456ea2d11bbc71179b7c03c63.jpg)
 
@@ -10444,7 +9671,6 @@ Counter Holder 603 589 00 40 00
 ![](images/f8beef8a1b3580da5243b2d214971ad21c86aa706e3d3ae9f578aaf24d862993.jpg)
 
 ### RADIATOR
-`ssangyong_musso_en_b914e1f6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Removal of cooling fan shroud
 
@@ -10462,7 +9688,6 @@ OM661LA 321mm
 9 Bolt 3-7Nm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_3b6c5ccd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Drain coolant from the radiator.
 2. Remove the coolant thermoswich connector from radiator.
@@ -10486,7 +9711,6 @@ Installation Notice
 ![](images/f3f263ed26c4dd155016d85697f1dda7b8940638b345731883ef2cbba598fbf2.jpg)
 
 ### COOLING SUB-SYSTEM
-`ssangyong_musso_en_57a38298` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/470e6d95744ecb09ddcd4123a6f1d5f8e35d4cc4f44e1f38b62b85abd2073ecf.jpg)
 
@@ -10502,7 +9726,6 @@ Installation Notice
 11 Cooling Reservoir-tank
 
 ### Installation Notice
-`ssangyong_musso_en_e306b170` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d16ef1e313b4e78b65404070df852628933050d439d846f6ce5e748893f85184.jpg)
 
@@ -10515,7 +9738,6 @@ Tightening torque 3-7Nm
 ![](images/17db04651c69ed4feeea18f6a3215a4e60208fe89036233ba7a77e597d18107c.jpg)
 
 ### Coolant Sub-Tank
-`ssangyong_musso_en_af2f943f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Drain the coolant from radiator.
 2. Remove the each hose.
@@ -10523,7 +9745,6 @@ Tightening torque 3-7Nm
 3. Loosen the mounting bolt of sub-tank and remove the coolant sub-tank.
 
 ### Installation Notice
-`ssangyong_musso_en_8595d754` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f72632d445d820e2b346fc8b8de08c9ad24ba37f69859cdc468d11dc5ae62a48.jpg)
 
@@ -10534,7 +9755,6 @@ Tightening torque 3-7Nm
 ![](images/520b490ac4848f3ee6796b25676a209d885234e2a2a3df8acba2da5738b1cb7f.jpg)
 
 ### THERMOSTAT
-`ssangyong_musso_en_587fd5eb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/df02ef93ecdabe1d5b2e655f81a3aff446ac37229b992554086cafd111339c80.jpg)
 
@@ -10545,7 +9765,6 @@ Tightening torque 3-7Nm
 5 Bolt 10Nm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_fe0ee1e3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Drain the coolant completely.
 2. Disconnect the coolant hose(4) from the thermostat housing cover(3).
@@ -10555,14 +9774,12 @@ Tightening torque 3-7Nm
 3. Remove the bolts(5) and then remove the thermostat(1) and housing cover(3)
 
 ### Installation Notice
-`ssangyong_musso_en_6547b429` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Align the groove on thermostat and the housing cover rib(arrow).
 
 ![](images/74785a170b24f8ae711270e9c0b44fe56b294d091e6b1908dfb7f863cb9531e4.jpg)
 
 ### Notice
-`ssangyong_musso_en_e9b87cc9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the seal(2).
 
@@ -10571,12 +9788,10 @@ Replace the seal(2).
 ![](images/77ee567fbe17d02859e2a4afeecc013467f706c9c038e309dc585fb2d1e3ad03.jpg)
 
 ### M162 ENGINE ELECTRICAL
-`ssangyong_musso_en_c44d7a41` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 CAUTION: Discon ect thenegativebaterycablebeforeremoving orinstalinganyelectricalunitorwhena to lorequipmentcouldeasilycomeincontact withexposedelectrical terminals. Discon ectingthiscable wilhelppreventpersonalinjuryanddamagetothevehicle.TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_2121be57` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications. 1E1-1 On-Vehicle Service 1E1-4
 Alternator Specifications 1E1-1 Alternator 1E1-4
@@ -10588,14 +9803,12 @@ Special Tools Table 1E1-3 Unit Repair 1E1-12
 Maintenance and Repair 1E1-4 Battery 1E1-12
 
 ### FASTENER TIGHTENING SPECIFICATIONS
-`ssangyong_musso_en_6de7755e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/128e33bcf66de7152ec635e22391a975bafc6e988804e069ec9c53f9792d14d5.jpg)
 
 ![](images/a92a0beca68cc7c07f51412a581dd8bb53949af96de461e03685eb836dad7730.jpg)
 
 ### ALTERNATOR
-`ssangyong_musso_en_49bbfa0d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of the drivebelt Removal & Installation Procedure
 
@@ -10603,7 +9816,6 @@ Preceding Work Removal of the drivebelt Removal & Installation Procedure
 2. Unscrew the nut and disconnect the terminal (1).
 
 ### Installation Notice
-`ssangyong_musso_en_fdc73a1e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b8d4a95fa60ae258f105f5c7584b02a9a208d0e252aad6816ea61cfc82649090.jpg)
 
@@ -10621,7 +9833,6 @@ Installation Notice
 4. Unscrew the combination bolt (3).
 
 ### Installation Notice
-`ssangyong_musso_en_21f87bd0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/04e0593b0e2bd1f284f378d8d553d417289293f087ab4d4d8d19d7c17195e9b6.jpg)
 
@@ -10634,7 +9845,6 @@ Installation Notice
 34 Combination Bolt Alternator
 
 ### Installation Notice
-`ssangyong_musso_en_289b5285` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5a7cc2ea4e248f5d0f14b7b4c198aa858b493f2478985f74f4795e74f3cdef07.jpg)
 
@@ -10647,7 +9857,6 @@ Installation Notice
 4. Unscrew the mounting bolts (3) of starting motor.
 
 ### Installation Notice
-`ssangyong_musso_en_aab20713` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/bbd36c7998144f59c342c2b9ea7cda7fc43f080e38abb834990dd8d8fa34e260.jpg)
 
@@ -10665,7 +9874,6 @@ Installation Notice
 ![](images/f5c8e76af4cbbbf1ac760a681e79a9373ef8773cb0f8f4d053efe9ad7eced514.jpg)
 
 ### BATTERY
-`ssangyong_musso_en_e04c4dfa` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/50c11fe06ead0ace90bfa9615aa2cfd7d666ded9b3282cbb6662c76b82a823b9.jpg)
 
@@ -10682,14 +9890,12 @@ Installation Notice
 11 Battery Tray
 
 ### Notice
-`ssangyong_musso_en_170cbb4d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Disconnect the battery negative cable first. Insert the clamp bolt (8) into the battery tray hole (11) from inside when installing.
 
 ![](images/5572c135580c205388f0b41ad8f81a07475b4381921c1466a56d8e3b12d0f220.jpg)
 
 ### SPARK PLUG
-`ssangyong_musso_en_82fcfc57` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Preceding Work Removal of intake air duct
 
@@ -10700,7 +9906,6 @@ Preceding Work Removal of intake air duct
 3 Spark Plug T1/3 Ignition Coil Cylinder and 6
 
 ### Replacement Procedure
-`ssangyong_musso_en_47355b2c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the seven bolts (2) and remove the ignition cable cover.
 
@@ -10711,7 +9916,6 @@ Installation Notice
 2. Remove the two bolts (M6 X 25) from each ignition cable and remove the ignition cable.
 
 ### Installation Notice
-`ssangyong_musso_en_bebba5d8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2d764ee755686e9b9f07db7825bcee87e0fe751660cc72c949a255d7f9da4352.jpg)
 
@@ -10724,7 +9928,6 @@ Installation Notice
 ![](images/a30fac7be8b949c1c00d49e36f4079bbd440a20976482bb3e44e45032e9f3d69.jpg)
 
 ### IGNITION CABLE
-`ssangyong_musso_en_18859fcd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of intake air duct
 
@@ -10738,7 +9941,6 @@ Preceding Work Removal of intake air duct
 5a, 5b Secondary Voltage Connection E Iron Core L1 Secondary Ignition Coil L2 Primary Ignition Coil
 
 ### Functions
-`ssangyong_musso_en_9b140da8` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Firing order 1-5-3-6-2-4
 
@@ -10755,12 +9957,10 @@ T1/3 cylinder 1 and 6
 ![](images/1f07639f2caba8d9a867e69f4545f531f37ce11ff66750d16100767f7c432487.jpg)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_7c9eb5d1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the negative battery cable (1). 2. Remove the ignition cable connector from the ignition cable. 3. Disconnect the secondary spark plug connectors from the each spark plugs and remove the ignition cable.
 
 ### Installation Notice
-`ssangyong_musso_en_e7825e76` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2b71fc032030f4f3695fa74006190c62fa6f55ddf3bfb37c9bc02476d0405e80.jpg)
 
@@ -10771,14 +9971,12 @@ Make sure that the ignition cables are correctly routed. Exactly install the ign
 ![](images/bad7ae34cf60bcba93aa10b676a3e4704f4f2cbc12914630d612d9b9f4c581db.jpg)
 
 ### Inspection & Maintenance Procedure (for MSE)
-`ssangyong_musso_en_a01ec9c4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. While the ignition switch is in 'OFF' position, remove the wiring connectors (1 and 15) from ignition coil and measure the primary resistance between terminal No.1 and No.15.
 
 ![](images/0aaf4b2513ed6b2d53a63f0039a581e032eb213cef1aa0b2c3a00dc331391d74.jpg)
 
 ### Notice
-`ssangyong_musso_en_23cfe95e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If out of specified value, replace the ignition coil.
 
@@ -10787,7 +9985,6 @@ If out of specified value, replace the ignition coil.
 ![](images/bb897a9c495446dcaaa418992719506843dac42ea6bc03b1d411fabf1cce6daa.jpg)
 
 ### Notice
-`ssangyong_musso_en_21912602` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Measure remaining cables. T1/2 No. 72 and 69.
 T1/3 No. 70 and 69.
@@ -10800,7 +9997,6 @@ If out of specified value, check ignition cable and ECU.
 ![](images/3742aca6c55a5b3a1cf54bf417f47f48c2bfc23fa74f445551254a88ebdcc543.jpg)
 
 ### Notice
-`ssangyong_musso_en_469ba918` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When charging the battery, do not leave the inflammable objects around it.
 When checking the electrolyte of battery, put on
@@ -10813,19 +10009,16 @@ an eye protector and gloves.
 ![](images/cbcc31047032b2df621b84b52dd73e9ac23cd053ce6763021e0568ff86613ecf.jpg)
 
 ### Notice
-`ssangyong_musso_en_e29c68e6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the battery if the maximum tolerance of the electrolyte between cells is out of the specified value. Measure the specific gravity in the approx. 20°C of ambient temperature.
 
 3. Replenish the electrolyte if necessary.
 
 ### M161 ENGINE ELECTRICAL
-`ssangyong_musso_en_c44d7a41` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 CAUTION: Discon ect thenegativebaterycablebeforeremoving orinstalinganyelectricalunitorwhena to lorequipmentcouldeasilycomeincontact withexposedelectrical terminals. Discon ectingthiscable wilhelppreventpersonalinjuryanddamagetothevehicle.TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### Specifications 1E2-1
-`ssangyong_musso_en_7b16dc4f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Alternator Specifications 1E2-1
 Starting Motor Specifications 1E2-2
@@ -10844,14 +10037,12 @@ Unit Repair 1E2-12
 Battery 1E2-12
 
 ### FASTENER TIGHTENING SPECIFICATIONS
-`ssangyong_musso_en_093170cd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/30f64d45cf0b145e319bda91be474f9f789dd0e30be45aebc57909ba1eaab9b7.jpg)
 
 ![](images/824b655b2dc2c65416e0dd986f39aa0332a903299796a7c88113ba4323980c9a.jpg)
 
 ### ALTERNATOR
-`ssangyong_musso_en_49bbfa0d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of the drivebelt Removal & Installation Procedure
 
@@ -10859,7 +10050,6 @@ Preceding Work Removal of the drivebelt Removal & Installation Procedure
 2. Unscrew the nut and disconnect the terminal (1).
 
 ### Installation Notice
-`ssangyong_musso_en_458664f3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c834711a1d5bf4ee79cfdcd76f614f42703559174716b29b68510f0c8e31a554.jpg)
 
@@ -10877,7 +10067,6 @@ Installation Notice
 4. Unscrew the combination bolt (3).
 
 ### Installation Notice
-`ssangyong_musso_en_cbb5e778` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a0d4451c63896313dafcb3ec10caecbd6dcaec3655065636421bde120de768ea.jpg)
 
@@ -10890,7 +10079,6 @@ Installation Notice
 34 Combination Bolt Alternator
 
 ### Installation Notice
-`ssangyong_musso_en_a59ffb10` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/cd9cff3143ae7153d343c678bb3078a863e592059d700d8afc3ac62d314eeb3d.jpg)
 
@@ -10903,7 +10091,6 @@ Installation Notice
 4. Unscrew the mounting bolts (3) of starting motor.
 
 ### Installation Notice
-`ssangyong_musso_en_df50992f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/60a45933d688911aae92d95e168bd6ce3f7461c17b44530c2c58286151231662.jpg)
 
@@ -10921,7 +10108,6 @@ Installation Notice
 ![](images/acadebcc3bc3be96f6f5b2f2cb29337a814612b32c33b6190972bd28b349797e.jpg)
 
 ### BATTERY
-`ssangyong_musso_en_c3c142d1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e330007423e213f94ab0f24d27cb65b9cf7ebe6eaf040decd949944c7770b5d4.jpg)
 
@@ -10938,14 +10124,12 @@ Installation Notice
 11 Battery Tray
 
 ### Notice
-`ssangyong_musso_en_628cb67d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Disconnect the battery negative cable first. Insert the clamp bolt (8) into the battery tray hole (11) from inside when installing.
 
 ![](images/b6cd1961d3225079ea6ee23c06399a4f04c904aea578a945cbe589cafa5e4cba.jpg)
 
 ### SPARK PLUG
-`ssangyong_musso_en_42bb5046` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of intake air duct
 
@@ -10965,7 +10149,6 @@ Preceding Work Removal of intake air duct
 Tools Required 119 589 01 09 00 Spark Plug Wrence
 
 ### Installation Notice
-`ssangyong_musso_en_85cd60c0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7b8e86ae4bc2067b08975d85b2293324347ecfddd5cce54b175ede0d2fc62650.jpg)
 
@@ -10974,21 +10157,18 @@ Tools Required 119 589 01 09 00 Spark Plug Wrence
 3. Unscrew two bolts(M6 X 25) from each ignition coil and remove the ignition coil(arrow)
 
 ### Installation Notice
-`ssangyong_musso_en_4a4b5567` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d250a77090cd038350dfb6a15d19ca7e1d4f364c4fcc386ddf5a56213b2e6e63.jpg)
 
 4. Using the special tool, remove the spark plug
 
 ### Installation Notice
-`ssangyong_musso_en_32dabd66` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/97b7d86e4c2df0a26eb4370260b28c86b4121a564b8adbccceb8aa3f1475390c.jpg)
 
 Spark Plug Wrench 119 589 01 09 00
 
 ### Notice
-`ssangyong_musso_en_d3549d13` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Tighten the spark plug with specified torque.
 Install the ignition coil to number 2 and 4 cylinder, and
@@ -10997,7 +10177,6 @@ connect the cable to number 1, 4 and 2, 3 cylinder T1/1 cylinder 1 and 4 T1/2 cy
 ![](images/05c954918c4bab6efec55f544a3b40b252a03fdf982455cee42fe9021dcc4805.jpg)
 
 ### IGNITION CABLE
-`ssangyong_musso_en_3ccbd660` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of intake air duct
 
@@ -11011,7 +10190,6 @@ Preceding Work Removal of intake air duct
 5a, 5b Secondary Voltage Connection E Iron Core L1 Secondary Ignition Coil L2 Primary Ignition Coil
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_c83bc25a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the battery negative cable. 2. Unscrew the 3 screws and remove the ignition cable duct cover.
 
@@ -11023,7 +10201,6 @@ Installation Notice
 4. Remove the 2 bolts from each ignition cable and remove the ignition cables.
 
 ### Installation Notice
-`ssangyong_musso_en_e9a85a68` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/208d685014176e0ea3ee5d5654b64dcf0e7ad7812f54d6db6b98869e6000d44d.jpg)
 
@@ -11037,7 +10214,6 @@ Install the ignition cable to the cylinder 2 and 4 and connect the cable from 1 
 ![](images/600c106cf57c8c7aa9cf807c574bb49aabcce7efdb3003d4edf4966c6dbd3744.jpg)
 
 ### Ignition Cable and Cable Lay-out
-`ssangyong_musso_en_37fdf2fc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Firing Order 1-3-4-2
 2. T1/1 Connect the cylinder + 4
@@ -11046,12 +10222,10 @@ Install the ignition cable to the cylinder 2 and 4 and connect the cable from 1 
 ![](images/4a91153cf07f216e2e96872e9471869bf0d2d84bb381ec100ad2bc0e5cd3391a.jpg)
 
 ### Inspection & Maintenance (for E2.3 MSE)
-`ssangyong_musso_en_0ac6058c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Measure the primary resistance between the cable terminals 1 and 15 after removing the ignition cable wiring connector (1 and 15) with ignition switch OFF.
 
 ### Notice
-`ssangyong_musso_en_90eb8ebc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the ignition coil if out of the specified resistance.
 
@@ -11064,7 +10238,6 @@ Replace the ignition coil if out of the specified resistance.
 T1/2 between No.71 and No.69
 
 ### Notice
-`ssangyong_musso_en_2e8b4212` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the ignition cable and the ECU if out of the specified value.
 
@@ -11075,7 +10248,6 @@ Check the ignition cable and the ECU if out of the specified value.
 ![](images/3c254d097ef6f1591afc427c7f547818c99f4cd45047d15a03baf57296a41417.jpg)
 
 ### Notice
-`ssangyong_musso_en_469ba918` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When charging the battery, do not leave the inflammable objects around it.
 When checking the electrolyte of battery, put on
@@ -11088,24 +10260,20 @@ an eye protector and gloves.
 ![](images/4c9eb236a89c8de1d983e16a83684b2440011c1ed7d5036c329e989f7e7ee212.jpg)
 
 ### Notice
-`ssangyong_musso_en_e29c68e6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the battery if the maximum tolerance of the electrolyte between cells is out of the specified value. Measure the specific gravity in the approx. 20°C of ambient temperature.
 
 3. Replenish the electrolyte if necessary.
 
 ### OM600 ENGINE ELECTRICAL
-`ssangyong_musso_en_42b1c281` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Discon ect thenegative baterycable beforeremoving orinstalingany electricalunitor whena to lorequipmentcouldeasilycome incontactwithexposedelectrical terminals. Discon ectingthiscable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_d0ccf68c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications. 1E3-1 Glow Plug 1E3-2 General Specifications 1E3-1 Alternator 1E3-6 Maintenance and Repair 1E3-2 Starter Motor 1E3-8 On-Vehicle Service 1E3-2
 
 ### GLOW PLUG
-`ssangyong_musso_en_a901e1d4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8d50bcbe0061acb72557fae97bc0fcf2bd813a0cde60acdbce8668a2d6e30f5c.jpg)
 
@@ -11113,7 +10281,6 @@ Specifications. 1E3-1 Glow Plug 1E3-2 General Specifications 1E3-1 Alternator 1E
 2 Nut 4 Nm 4 Glow Plug
 
 ### General information
-`ssangyong_musso_en_71d53275` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The preheating system consists of control, coolant temperature sensor and glow plugs.
 
@@ -11155,7 +10322,6 @@ Due to the rise of temperature, the resistance of control coil increases therefo
 The temperature of the glow plug reaches up to 900°C after about 9 seconds and up to 1,050°C after 30 seconds.
 
 ### Preheating System Operation
-`ssangyong_musso_en_bb6cd5ab` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Preheating before start. Preheating time is different by coolant temperature and it is on until the glow indicator light goes off.
 
@@ -11176,7 +10342,6 @@ If glow indicator comes on after starting for about one minute, it indicates on 
 ![](images/76a497780b7719c262a066ea6a358928dad07051f6e0a0476273712fe28a4281.jpg)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_e28284c1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the negative terminal of battery.
 2. Remove the nut (2).
@@ -11204,7 +10369,6 @@ ALTERNATOR Preceding Work Removal of poly V-belt
 3 Bolt 45Nm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_65de62e6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the negative terminal of the battery.
 2. Disconnect the plug connection (5).
@@ -11222,7 +10386,6 @@ ALTERNATOR Preceding Work Removal of poly V-belt
 ![](images/0031a8b7ce9b0216ec4059a664a857201a346d87e91554530d22df2e6af3c9bc.jpg)
 
 ### STARTER MOTOR
-`ssangyong_musso_en_71ba8244` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9af238736a1853806c8110dc281979a5b264e4a8c2ac83d202ba13a2032dc8f3.jpg)
 
@@ -11232,7 +10395,6 @@ ALTERNATOR Preceding Work Removal of poly V-belt
 4 Bolt 48Nm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_78a8e4bf` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the battery terminals.
 2. Disconnect the starter motor cable harnesses.
@@ -11243,12 +10405,10 @@ reverse order.
 ![](images/6d91ef363f2f0ce6d99f478a7dd01f0315b1537e2041456a6ab7dea52afb08b8.jpg)
 
 ### M162 ENGINE CONTROLS
-`ssangyong_musso_en_84b65a55` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 CAUTION: Discon ect thenegativebaterycablebeforeremovingorinstalinganyelectricalunitorwhena to lorequipmentcouldeasilycomeincontactwithexposedelectrical terminals. Discon ecting thiscable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_082df194` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Specifications. 1F1-2
 Fastener Tightening Specifications 1F1-2
@@ -11289,7 +10449,6 @@ Coolant Temperature Sensor 1F1-75
 Accelerator Pedal Module 1F1-78
 
 ### SCHEMATIC AND ROUTING DIAGRAMS
-`ssangyong_musso_en_865233fc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e5a2a4d0838a1b503e6ed30831f27849e22a6451d3875cdcbb1f95741325c9e7.jpg)
 RE 3U 5
@@ -11297,7 +10456,6 @@ RE 3U 5
 ![](images/d654cebf443d6150e004dd449afd7c359d05fd192738f8dae5ffc53495079da6.jpg)
 
 ### SELF DIAGNOSIS SOCKET PIN NUMBERS AND DESCRIPTIONS
-`ssangyong_musso_en_e664c128` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ![](images/1b659815b3863f4668cd9a33497077dd438ac913eef8f5e82cd134102861d659.jpg)
 
@@ -11323,7 +10481,6 @@ RE 3U 5
 20 K-LINE(ECS:PIN 23)
 
 ### SELF DIAGNOSIS FAILURE CODE
-`ssangyong_musso_en_7a5e5709` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/efd2bc2318026f8f67960ee3d2c21d31f3b35a5705a4188da779bd94d2265362.jpg)
 
@@ -11332,7 +10489,6 @@ RE 3U 5
 ![](images/ad6a246c5443fefd3a496ff11ce3ae43e101651ee1d8ffc08ba2ff42e0850bc8.jpg)
 
 ### TEST BOX CONNECTION
-`ssangyong_musso_en_d61ffae6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ac60f6703104612d19620dff82f1162971b3c24989119532aa8cbf3acb6859e4.jpg)
 
@@ -11346,7 +10502,6 @@ RE 3U 5
 Tools Required 129 589 00 21 00 Test Box 210 589 08 63 00 ECU Test Cable
 
 ### FUEL INJECTION SYSTEM TEST (MSE3.62)
-`ssangyong_musso_en_fe60c631` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5b7efcda56c50c13e406f2fe337bd6a7084892af9f9f2351f933c16709b5dbd7.jpg)
 
@@ -11367,7 +10522,6 @@ Tools Required 129 589 00 21 00 Test Box 210 589 08 63 00 ECU Test Cable
 ![](images/424077d90aa5b829605416527faa7760ed4a4f65ff7eb3fbc08d5300591a3849.jpg)
 
 ### Reference Figures
-`ssangyong_musso_en_2ab84e58` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/410838e3a4474948fea267fec72a056340959005143f89b5b6623f4c5ff0b934.jpg)
 Figure2. RPM Sgnal Output
@@ -11382,7 +10536,6 @@ Figure 4. Injection Valve Wave(at sharp acceleration)
 Figure 5. Purge Control Valve Operationg Wave
 
 ### IGNITION SYSTEM TEST
-`ssangyong_musso_en_93306233` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7e44f816057f86b708bfe0ce655368280aae8f4549d0a730e8c28fa5840f620c.jpg)
 
@@ -11403,14 +10556,12 @@ Figure 6. Crankshaft Position Sensor Signal a Voltage b Identifying the No.1 2 M
 Figure 8. Signal Function 1 Crank Angle 2 Cylinder 34 Crankshaft Position Sensor Signal Camshaft Position Sensor Signal 5 RPM Signal
 
 ### IDLING CONTROL AND ELECTRONIC PEDAL SYSTEM TEST
-`ssangyong_musso_en_0b03696d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b1b0e5f6900b8122b2995e727af39f0b0f2e08ef458383ef78108abcabe8b2cc.jpg)
 
 ![](images/c2935b4097e9268ec6cb1753886bba207565ed5b787bd7f4982895298f34471f.jpg)
 
 ### FUEL PRESSURE AND INTERNAL LEAKAGE TEST Preparation
-`ssangyong_musso_en_4f81600c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a0d3d51aa70ddad6761837719407bbc849ac18571443089a19baf5fb6253bc7a.jpg)
 
@@ -11419,7 +10570,6 @@ Figure 8. Signal Function 1 Crank Angle 2 Cylinder 34 Crankshaft Position Sensor
 03 Measuring Beaker
 
 ### Connection of the Equipment
-`ssangyong_musso_en_89deffc3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Turn the ignition switch to "OFF" position.
 2. Remove the air cleaner cross pipe.
@@ -11428,7 +10578,6 @@ pressure hose and pressure tester.
 4. Prepare the beaker for measuring the amount of fuel.
 
 ### Tools Required
-`ssangyong_musso_en_28a19479` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 103 589 00 21 00 Pressure Tester
 119 589 04 63 00 Pressure Hose
@@ -11436,7 +10585,6 @@ pressure hose and pressure tester.
 ![](images/1c4ad8d1165cb531829b1625d1324e7f1f9c7986525e97cbbbea1e9338fe270b.jpg)
 
 ### FUEL PUMP TEST Preparation
-`ssangyong_musso_en_2f938346` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/992050642b2f15baa5c56702e4798b689a78f7dd658c8ff71211b7910f61213e.jpg)
 
@@ -11449,7 +10597,6 @@ pressure hose and pressure tester.
 04 ECU Test Cable
 
 ### Tools Required
-`ssangyong_musso_en_2f2e2c18` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 103 589 00 21 00 Pressure Tester
 210 589 00 99 00 Adaptor Line
@@ -11459,7 +10606,6 @@ pressure hose and pressure tester.
 ![](images/63692696c9316fe19e8454c154acc1c974517d5d689a4be4457a9bccd5616f17.jpg)
 
 ### INJECTOR TEST Preparation
-`ssangyong_musso_en_bb352401` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f953162f98ffc60cd615ed47fb9ffee346da8815937583b32c1b1b0a6ff972be.jpg)
 
@@ -11474,7 +10620,6 @@ pressure hose and pressure tester.
 Tools Required 129 589 00 21 00 Test Box 210 589 08 63 00 Ecu Test Cable
 
 ### Connection of the Equipment
-`ssangyong_musso_en_4fd7a9cc` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 1. Connect the test box to the ECU as shown in the figure.
 2. Remove the 2-pin coupling from injector.
@@ -11491,7 +10636,6 @@ Figure 9. Shop Made Cable
 Figure 10. Fuel Injector Normal Spary Pattern
 
 ### ECU Appearance
-`ssangyong_musso_en_b08675a3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/43480eecd81585afd8214a9d0a49791d5ce642aa0107759aba7b778f1cf366c4.jpg)
 
@@ -11504,12 +10648,10 @@ A Vehicle Side Connector Black
 B Engine Side Connector Gray
 
 ### Location
-`ssangyong_musso_en_c22e3ed6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Engine ECU is located at the inside of cowl side trim in right bottom of instrument panel of passenger side.
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_347d5cc1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Turn the ignition switch to "OFF" position.
 2. Disconnect the battery negative cable
@@ -11527,7 +10669,6 @@ Engine ECU is located at the inside of cowl side trim in right bottom of instrum
 ![](images/f27e8f411f20aa7a1f281cd119f25829267c057f17ee09815d3f5797173b0e2e.jpg)
 
 ### Vehicle Connector
-`ssangyong_musso_en_7ec5a659` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7e3a18a5ab4a24398819d0b22cbddb275bc6b02e94814182b3726f61a8a2239e.jpg)
 
@@ -11536,14 +10677,12 @@ Engine ECU is located at the inside of cowl side trim in right bottom of instrum
 ![](images/1bdadfee8babfbeb3ba1321575669223261e99385a7cbad3e211f2bd38d120e1.jpg)
 
 ### Engine Connector
-`ssangyong_musso_en_6db9bb7a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8a266a81848dff971c50b4c04a14087a1e28892f47c1ecc1faaab4a31134d1aa.jpg)
 
 ![](images/58a9cee236be4337832a2671100f9b6f4f4fcf08053afffc2879adf31b9db1af.jpg)
 
 ### Application
-`ssangyong_musso_en_47157ed9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b86251718306cfee8fc447e4e1dce165f4481ff93914f19db575d61d698a1b81.jpg)
 Standard, ¡: Option
@@ -11555,7 +10694,6 @@ Standard, ¡: Option
 ![](images/f09ee097860242622349d532a53174ed02dd75ee3b2c3e14eaa7a2533a90a871.jpg)
 
 ### when removing the ECU only
-`ssangyong_musso_en_d8a9d11f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Turn the ignition switch to "OFF" position.
 2. Disconnect the negative battery cable.
@@ -11563,14 +10701,12 @@ Standard, ¡: Option
 4. Unscrew the left and right bolt (3) on bolt (1) and auxiliarly bracket and remove the auxiliarly bracket from the bracket assembly (2).
 
 ### Installation Notice
-`ssangyong_musso_en_5c13e854` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/3c1b2a65915872010658b7fd4e6ce384be6f1f057bbc23712ba2c693c472d694.jpg)
 
 5. Unscrew the four bolts (5) and disconnect the ECU (6) from the bracket assenbly.
 
 ### Installation Notice
-`ssangyong_musso_en_5f686f28` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e233ba27a80df0ff06f472f9f7fddca9ecf0cf09cb34dbb7dccd370d585a1e65.jpg)
 
@@ -11591,14 +10727,12 @@ When Removing the ECU with ABS or ABS/ASR Unit
 7. Unscrew the left and right bolt (3) on the auxiliary bracket and remove the auxiliary bracket from the bracket assembly.
 
 ### Installation Notice
-`ssangyong_musso_en_311f5822` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/452d9643ac9ba5ad1ff7c89e5df864798d3d3a120c986129506424fa6af65c3b.jpg)
 
 8. Unscrew the bolts (5) and disconnect the ECU (6) from the bracket assenbly.
 
 ### Installation Notice
-`ssangyong_musso_en_d128c339` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c39ecef885fb53b92d851713bc7f54b3cc41c2480b59d44b3c04fcafb5e5dc10.jpg)
 
@@ -11607,7 +10741,6 @@ When Removing the ECU with ABS or ABS/ASR Unit
 ![](images/70653a1570905373c14174b483378f26d48529849ae367b9e11b77590150103b.jpg)
 
 ### FUEL PRESSURE REGULATOR
-`ssangyong_musso_en_e840744f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/abfb9106d73284020fb91ace583ffd5c97735e50390881f37534ea27d530c92c.jpg)
 
@@ -11618,7 +10751,6 @@ When Removing the ECU with ABS or ABS/ASR Unit
 5 O-ring replace
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_f08f4222` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the fuel pressure test connector.
 
@@ -11637,7 +10769,6 @@ When Removing the ECU with ABS or ABS/ASR Unit
 ![](images/09424165b61338ab2210b13f87b822e04ba18f45b1ae032565f1e65d3f04ef9e.jpg)
 
 ### Function of the Fuel Pressure Regulator
-`ssangyong_musso_en_4ff8f1f7` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 The fuel pressure regulator maintains the fuel pressure in the fuel line with the pressure of 3.2 bars to 3.8 bars according to the intake manifold pressure. This operating pressure cannot be changed, and the fuel injection volume will be only determined by the injection time. Over supplied fuel returns to the fuel tank through the return line.
 
@@ -11694,7 +10825,6 @@ VL. Full load
 ![](images/1d24c41990cb6b066c724c2d8dc9d102c6c031717911b5fc5ab20b717ca2bdfa.jpg)
 
 ### FUEL DISTRIBUTOR
-`ssangyong_musso_en_12a88796` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Preceding Work Removal of intake air duct
 
@@ -11710,7 +10840,6 @@ Preceding Work Removal of intake air duct
 8 Injector
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_e04d3ce8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Discharge the fuel pressure from the fuel pressure test connector.
 2. Disconnect the battery ground cable.
@@ -11725,13 +10854,11 @@ Preceding Work Removal of intake air duct
 5. Remove the fuel return and supply line.
 
 ### Notice
-`ssangyong_musso_en_7c3c1812` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 For removal, cover around parts with cloths not to be stained by fuel.
 In case of checking the injector only, do not remove the fuel return and supply line.
 
 ### Installation Notice
-`ssangyong_musso_en_6a2f7105` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 ![](images/e381a2113e962186e620a444559b5579c1ac6389417d7bbb9a833f35f0c8c5ec.jpg)
 
@@ -11740,7 +10867,6 @@ In case of checking the injector only, do not remove the fuel return and supply 
 7. Remove the two left and two right bolts and one center bolt of the fuel distributor assembly from the intake manifold.
 
 ### Installation Notice
-`ssangyong_musso_en_ab8a46d2` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 ![](images/f15b51a6822120e0023930c7168f9ae81edeb2f2aa04e47d4d891482fe56cb08.jpg)
 
@@ -11753,7 +10879,6 @@ In case of checking the injector only, do not remove the fuel return and supply 
 10. Check for fuel pressure and internal leakage by operating the engine.
 
 ### Fuel Pressure Test
-`ssangyong_musso_en_cf9df3ee` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Turn the ignition switch to "OFF" position.
 2. Remove the fuel pressure test connector.
@@ -11771,7 +10896,6 @@ In case of checking the injector only, do not remove the fuel return and supply 
 ![](images/16253dbdd345f130a3ede10c4eeabd9399ac1e1966723b4be45515fc592a347c.jpg)
 
 ### Internal Leakage Test
-`ssangyong_musso_en_89ff52d7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Connect the fuel pressure gauge to the fuel pressure test connector.
 
@@ -11784,7 +10908,6 @@ In case of checking the injector only, do not remove the fuel return and supply 
 ![](images/b3c89be931c6ba405f312a7e2ee109f5d012e74268cfc2f00c986237ad041646.jpg)
 
 ### Discharging the pressure in fuel system
-`ssangyong_musso_en_3631083c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the fuel pressure test connector.
 
@@ -11797,14 +10920,12 @@ Installation Notice
 2. Remove the fuel pressure in fuel system by pressing the service valve with a clean, pointy tool.
 
 ### Notice
-`ssangyong_musso_en_9ef6e94b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Place a cloth so that the fuel doesn't stain around.
 
 ![](images/2aa1d2f94b8bc91c37e7cce4b88ad6b953f002ac96151539fb4f5fa1e69c17f4.jpg)
 
 ### INJECTOR
-`ssangyong_musso_en_ed0ef519` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Preceding Work Removal of fuel distributor
 
@@ -11817,20 +10938,17 @@ Preceding Work Removal of fuel distributor
 5 Fuel Distributor
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_f67c3559` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the O-ring. Check for damage and replace it if necessary.
 2. Remove the injector bracket from the injector.
 
 ### Installation Notice
-`ssangyong_musso_en_de6a2130` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Exactly seat the anti-twist lock into the square groove in injector.
 
 3. Separate the injector from the fuel distributor.
 
 ### Inspection & Maintenance
-`ssangyong_musso_en_f4f80a51` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Inspection of the Injector operation and spray pattern
 
@@ -11841,7 +10959,6 @@ Inspection of the Injector operation and spray pattern
 5. Check the injector spray pattern.
 
 ### Injector Resistance Inspection
-`ssangyong_musso_en_c32bc4e4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the injector connector.
 
@@ -11850,12 +10967,10 @@ Inspection of the Injector operation and spray pattern
 ![](images/2dc342cb367ee7e49c9cbd9fccba56926aba4f7f4584a3dd6c947efe2acf7fd4.jpg)
 
 ### Notice
-`ssangyong_musso_en_f6fa74b6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the injector if the measured values is out of the specified values. Check the connector and wire connection between the ECU and the injector if the measured values are normal.
 
 ### The Injector Spray Pattern Check
-`ssangyong_musso_en_8bc49a5c` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 1. Connect the test box (129 589 00 21 00) to the ECU.
 
@@ -11864,7 +10979,6 @@ Replace the injector if the measured values is out of the specified values. Chec
 3. Disconnect the fuel distributor and injector with a unit from engine without removing the fuel supply and return line.
 
 ### Notice
-`ssangyong_musso_en_b749674a` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Prepare the beaker for taking the poping fuel.
 
@@ -11877,14 +10991,12 @@ Prepare the beaker for taking the poping fuel.
 7. Check the injector for normal spray pattern as shown in the figure. Check injector for leaks or later drops.
 
 ### Notice
-`ssangyong_musso_en_e7b8a183` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Refer to fuel injector test of engine diagnosis in this section for detailed information.
 
 ![](images/6713b4aaf423028c3ed1ac2fb0d62b8d89d0094affdd2b6ecb94603621d735cf.jpg)
 
 ### FUEL FILTER
-`ssangyong_musso_en_b63601b5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/da436ef5ab645f761635c377defe50d2a941a7667ab92bdc31c2a23e9d3b8c6b.jpg)
 3 Inlet
@@ -11893,28 +11005,24 @@ Refer to fuel injector test of engine diagnosis in this section for detailed inf
 2 Outlet
 
 ### Installation Notice
-`ssangyong_musso_en_f409329e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7639bd028fc1e30ffc68c82a0f431263a048ec9fa20872d531995a10b5c7a93b.jpg)
 
 3. Remove the mounting bracket bolt (4) and remove the fuel filter (1).
 
 ### Notice
-`ssangyong_musso_en_d6870e93` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Place the fuel pump pad. There may be a corrosion due to the contact between the fuel filter and the bracket.
 
 4. Check for leaks by operating the engine.
 
 ### Notice
-`ssangyong_musso_en_116bd6f4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Installation should follow the removal procedure in the reverse order.
 
 ![](images/1f6e53057e9eb0787341ed673248e28c5d9e669c1869b1459a2726d74687ee1e.jpg)
 
 ### FUEL PUMP
-`ssangyong_musso_en_202dd9f0` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 ![](images/df129de51b3707eab2894d8d687ea78d09d27bb9385398320763e503307a03e2.jpg)
 
@@ -11933,7 +11041,6 @@ Installation should follow the removal procedure in the reverse order.
 16 Float Arm
 
 ### Requirements for Fuel Pump
-`ssangyong_musso_en_e3beb285` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0424ff2b6f9196d372fe84873f900b03a4eb3022a8ae75a97b401f67ea22bd0a.jpg)
 
@@ -11951,7 +11058,6 @@ Installation should follow the removal procedure in the reverse order.
 ![](images/6f3415e1ec18c4977b27faf56d765bb793f5118b31b922c85199c4b186b22968.jpg)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_b7101ae5` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 1. Disconnect the negative battery cable.
 2. Disconnect the harness connector (1).
@@ -11960,7 +11066,6 @@ Installation should follow the removal procedure in the reverse order.
 and remove the pump from fuel tank.
 
 ### Notice
-`ssangyong_musso_en_218a6e38` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the condition of the seal and replace if necessary.
 Drain the fuel before removing the pump.
@@ -11968,7 +11073,6 @@ Drain the fuel before removing the pump.
 ![](images/cd4f4a7378d15d78e6d393f2a9d499b627fca9348f0187f905752093853bc237.jpg)
 
 ### Measure the Fuel Delivery From the Fuel Pump
-`ssangyong_musso_en_e3202504` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the return pipe from fuel distributor and insert the appropriate hose into it.
 2. Place the hose end into the beaker with he minimum capacity of 1Liter.
@@ -11980,7 +11084,6 @@ Drain the fuel before removing the pump.
 ![](images/cbdf0307dc8db822f90a2b4a58e8b62be98571ac63b0aa16c9750ed24a2ec3ea.jpg)
 
 ### Measure the Current Consumption of Fuel Pump
-`ssangyong_musso_en_d290a956` | musso | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 1. Remove the fuel pump relay from fuse and relay box in trunk, and turn the ignition switch to "ON" position.
 
@@ -11989,7 +11092,6 @@ Drain the fuel before removing the pump.
 ![](images/0c136afe0f63d446c731248c090bb68011da099423f5dff21fcd26534ce506e6.jpg)
 
 ### PURGE SWITCHOVER VALVE
-`ssangyong_musso_en_0ae42010` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9f2f368dac91b99032f67e109ad932af5504694d4a0eb4aa134c2a616f432abf.jpg)
 
@@ -11999,7 +11101,6 @@ Drain the fuel before removing the pump.
 4 Canister
 
 ### Functions
-`ssangyong_musso_en_8063cf12` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 The fuel vaporization control system is installed to inhibit the fuel vaporized gas from discharging into the atmosphere. The fuel vaporized gas that is accumulated in the canister abstracts through the purge switchover valve purification during the engine combustion (except the decreasing mode) and coolant temperature of over 80°C. For this reason, the ECU transacts the engine speed, air inflow quantity, coolant temperature, and intake temperature.
 
@@ -12010,13 +11111,11 @@ The purge switchover valve is activated by the ECU for the following conditions
 Coolant temperature of over 80°C Engine speed of over 1000rpm 2 Minutes after starting When the fuel cut-off mode is not activated
 
 ### Test
-`ssangyong_musso_en_c14a5c80` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Maintain the normal temperature and idling state by operating the engine.
 2. Connect the ECU terminal No.11 and No.34 and check for normal operation through the output waves using the scanner.
 
 ### Notice
-`ssangyong_musso_en_d9ce6a42` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Test during purge control switchover valve operation after the minimum of 1 minute after the engine turned on.
 
@@ -12029,7 +11128,6 @@ Test during purge control switchover valve operation after the minimum of 1 minu
 ![](images/b2d94f3009004dafdafab84f20e03a7f5c37474635fc73cfd9b2b78b0e9579e2.jpg)
 
 ### VACUUM SYSTEM
-`ssangyong_musso_en_06f60a5a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9dfd56e00f82f293b7ced48664b0fb06b60446a46e03c370c49431392cadf5ae.jpg)
 
@@ -12052,7 +11150,6 @@ Test during purge control switchover valve operation after the minimum of 1 minu
 A To Canicter
 
 ### CRANKSHAFT POSITION SENSOR
-`ssangyong_musso_en_f76ea96e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/365f5e7b0ac8d5356dd06b7fcd46ea6638da73dcfa93938da7815fb8de625fc7.jpg)
 
@@ -12060,13 +11157,11 @@ A To Canicter
 2 Bolt (M6 X 14) 9 -11Nm 4 Flywheel
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_d7fc695b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the wiring connector at the crankshaft position sensor.
 2. Unscrew the bolt and remove the crankshaft position sensor unit.
 
 ### Installation Notice
-`ssangyong_musso_en_65885507` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f3761d6605a12c35d478fce121366bb094c3f900597b89ea4a0d5b313bdc46be.jpg)
 
@@ -12075,7 +11170,6 @@ A To Canicter
 ![](images/7a873286c44542ccc29d7eeabf0da87599dcc2b0efa4ed7434983f6fd9d7f910.jpg)
 
 ### Crankshaft Position Sensor Resistance Inspection
-`ssangyong_musso_en_27ddd2b1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the coupling "E" of ECU while the ignition switch is in "OFF" position.
 
@@ -12084,21 +11178,18 @@ A To Canicter
 ![](images/9cc96086135a617c72932be9887af471ec0c045467f496bfed75f229446d41c0.jpg)
 
 ### Crankshaft Position Sensor Output Wave Inspection
-`ssangyong_musso_en_155b9904` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Connect the test box to the ECU.
 
 2. Measure the output wave between the ECU terminals No.99 and No.100 using the scanner or the oscilloscope while engine cranking (starter motor activated).
 
 ### Notice
-`ssangyong_musso_en_75ce7817` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the segment or crankshaft position sensor and air gap if cannot get the output wave as shown in the figure.
 
 ![](images/f995425bcb9103fab88b688ca1508e93c8c3ea81a0eca5e352cd1701183206a3.jpg)
 
 ### Crankshaft Position Sensor Insulator Resistance Inspection
-`ssangyong_musso_en_1b8c958b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the engine coupling from ECU while the ignition switch is in "OFF" position.
 
@@ -12107,12 +11198,10 @@ Check the segment or crankshaft position sensor and air gap if cannot get the ou
 ![](images/4ff5d10b4a937754a1f863a98881a38927af5f660f6f803aa68f079e9edcbecb.jpg)
 
 ### Notice
-`ssangyong_musso_en_95ac7bda` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Measure the check and ground terminal of the crankshaft position sensor if out of the specified value.
 
 ### CAMSHAFT POSITION SENSOR
-`ssangyong_musso_en_15f91df5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/363e5f4e2f74e93811352edb7b04b34df5f3d863ef7705815003f9ae55d14b52.jpg)
 
@@ -12122,13 +11211,11 @@ Measure the check and ground terminal of the crankshaft position sensor if out o
 5 O-ring
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_d195e994` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the wiring connector from the camshaft position sensor.
 2. Unscrew the bolt (2) and remove the camshaft position sensor.
 
 ### Installation Notice
-`ssangyong_musso_en_97069ea5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a80518f69821ff7dcc7aa547020674d708ec33c9a02cc22eeebeb30735754e9e.jpg)
 
@@ -12141,7 +11228,6 @@ Measure the check and ground terminal of the crankshaft position sensor if out o
 ![](images/202d98b22bdd013b3dd976aa892b008e718f1d131a9bbe574417858596397f6c.jpg)
 
 ### Camshaft Position Sensor Signal Voltage Inspection
-`ssangyong_musso_en_de406d4b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Connect the test box to the ECU.
 
@@ -12150,27 +11236,23 @@ Measure the check and ground terminal of the crankshaft position sensor if out o
 ![](images/1e70085a694c3cd0e6219dee6b8a22070a107f9b25c8d5648c194f2ebf28ab4e.jpg)
 
 ### Camshaft Position Sensor Output Wave Inspection
-`ssangyong_musso_en_b28642c5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Connect the test box to the ECU.
 2. Measure the output wave between the ECU terminal No.104 and No.106 using the scanner or the oscilloscope while the engine speed is at idle.
 
 ### Notice
-`ssangyong_musso_en_ba92deeb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the camshaft position sensor if cannot get the output wave as shown in the figure.
 
 ![](images/94b93d19ef38119a1b89ca9353d8605fbd9893841d2b2e5201b59b3088e3317a.jpg)
 
 ### Camshaft Position Sensor Power Supply Inspection
-`ssangyong_musso_en_ca60cd09` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Turn the ignition switch to 'ON' position. 2. Disconnect the camshaft position sensor connector. 3. Measure the voltage between the No.1 and No.3 pin of camshaft position sensor while the ignition switch is in "ON" position.
 
 ![](images/e2d5b8721335268795e659bfc0dabb7f4ee272473275b09e5b9ff7d96a279c46.jpg)
 
 ### HOT FILM AIR MASS (HFM) SENSOR
-`ssangyong_musso_en_df7beb3a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/adeee369553779c0031109b11eeb6460ebb4c34acb1cbf4b42f939f2ef2605dd.jpg)
 
@@ -12181,12 +11263,10 @@ Replace the camshaft position sensor if cannot get the output wave as shown in t
 6 Measuring Port
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_3cca391c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Turn the HFM sensor coupling in the direction shown in the figure in the right so that it gets separated from the contact surface.
 
 ### Notice
-`ssangyong_musso_en_b85ef7f0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure the HFM sensor coupling connects completely with the contact surface Installation.
 
@@ -12201,7 +11281,6 @@ Make sure the HFM sensor coupling connects completely with the contact surface I
 ![](images/67cef84bd3946dfcfad190fd066d3d30f72c8a73084a7a8790bc5235bc729ff0.jpg)
 
 ### Circuit Diagram
-`ssangyong_musso_en_ecbe0e9f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/19a72eb8599f4464eb773c846d862d0a09256bce57a1b52f37075f15df10d8b2.jpg)
 
@@ -12212,14 +11291,12 @@ Make sure the HFM sensor coupling connects completely with the contact surface I
 RH : Heat Resistance RT Temperature Resistance RS Sensor Resistance
 
 ### Specified Value (coolant temperature is over 70°C)
-`ssangyong_musso_en_ae4013bf` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ebebfbb414e556616841f7f49bfd15c19059e9d717eb95f741b9a7826a21fb31.jpg)
 
 If the measured value is not within the specified value, the possible cause may be in cable or HFM sensor in itself. Perform the 5V power supply inspection procedures.
 
 ### HFM Sensor 5V Power Supply Inspection
-`ssangyong_musso_en_1aa3f969` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Measure the voltage between the HFM sensor No.108(+) and No.105(-) after removing the HFM sensor connector.
 
@@ -12230,7 +11307,6 @@ If the measured value is not within the specified value, the possible cause may 
 2. Measure the voltage between the HFM sensor wining connector terminal No.3 pin(-) and No.4 after removing the HFM sensor connector.
 
 ### Specified Value
-`ssangyong_musso_en_040e8f32` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/39bab82408a0cfd7a782e82dff0650cbaadbdef9d23bf2d07bfc2ab9a686586f.jpg)
 
@@ -12239,7 +11315,6 @@ If the measured value is not within the specified value, the possible cause may 
 Perfrom the 12V power supple inspection procedures.
 
 ### HFM Sensor 12V Power Supply Inspection
-`ssangyong_musso_en_a107af26` | musso | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 1. Measure the voltage between the HFM sensor wiring connector 1G No.2 pin(+) and No.104 after removing the HFM sensor connector.
 
@@ -12248,7 +11323,6 @@ Perfrom the 12V power supple inspection procedures.
 If the measured value is not within the specified value, the possible cause may be in cable or over voltage protection relay.
 
 ### OXYGEN SENSOR
-`ssangyong_musso_en_a803e08a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/6b562143aad95cec5953cb268b91dda8432e90033aadabba1d8839e5fb12a3f4.jpg)
 
@@ -12262,21 +11336,18 @@ If the measured value is not within the specified value, the possible cause may 
 8 Protector Tube
 
 ### Functions
-`ssangyong_musso_en_abc611bd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The oxygen sensor optimizes the combustion (Air-Fuel Ratio 14.7:1) and resets the Air-fuel ratio in the ECU after sensing the amount of oxygen from the exhaust gases to diminish the exhaust gases.
 
 Rich(<1) above approx. 450mV Lean(>1) below approx. 450mV
 
 ### Locatoin of Sensor
-`ssangyong_musso_en_7b6d84cf` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Oxygen sensor is located on the front exhaust pipe.
 
 ![](images/69edce9796989a8b2225c9f0e259b694c4f753786f3a31a539eba3f343149084.jpg)
 
 ### Oxygen Sensor Signal Voltage Inspection
-`ssangyong_musso_en_71f7111b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Measure the oxygen sensor signal voltage between the ECU terminal No.11 and No.9. Maintain the engine speed ia at idle while the coolant temperature is over 80°C.
 
@@ -12285,7 +11356,6 @@ Oxygen sensor is located on the front exhaust pipe.
 If the measured value is not within the specified value, the possible cause may be in cable, oxygen sensor or ECU.
 
 ### Oxygen Sensor Heating Voltage Inspection
-`ssangyong_musso_en_a286c8c6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Measure the oxygen sensor heating voltage between the ECU terminal No.11 and No.9. Maintain the engine speed ia at idle while the coolant temperature is over 80°C.
 
@@ -12294,7 +11364,6 @@ If the measured value is not within the specified value, the possible cause may 
 If the measured value is not within the specified value, the possible cause may be in cable, oxygen sensor or ECU.
 
 ### Oxygen Sensor Heating Current Consumption Inspection
-`ssangyong_musso_en_ca2bbe9d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Measure the oxygen sensor heating current consumption between the ECU terminal No.9 and No.5 while the ignition switch is in "ON" position.
 
@@ -12303,12 +11372,10 @@ If the measured value is not within the specified value, the possible cause may 
 If the measured value is not within the specified value, the possible cause may be in cable, oxygen sensor or ECU.
 
 ### Functions
-`ssangyong_musso_en_b25d54df` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Vibration of the engine block is transmitted to the sensor and transferred to the ECU in the form of an alternating voltage signal via a shielded cable. The knock sensor is fastened to the engine block to recognize knocking in all cylinders. The ECU compares the signal and the retards firing point.
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_e8da27f9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the knock sensor connector from the intake manifold bracket.
 2. Unscrew the mounting bolt (M8 X 28) from the knock sensor installed on the cylinder block and remove the knocking sensor.
@@ -12316,14 +11383,12 @@ Vibration of the engine block is transmitted to the sensor and transferred to th
 ![](images/e705757ab0c6d18c2211732373e0ef77dc1f7f998fd29212122d5a54fbe38bd2.jpg)
 
 ### Installation Notice
-`ssangyong_musso_en_f3db719a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b0dde8ad56603497aff620bf7420e40aa7b761a99dfbc3d453ea7a6425665c6e.jpg)
 
 3. Installation should follow the removal procedure in the reverse order.
 
 ### COOLANT TEMPERATURE SENSOR
-`ssangyong_musso_en_c7ee9859` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a204aca24939eca636a8a375d9f2886ef67c69598d520e01caefc26001b5a359.jpg)
 
@@ -12334,13 +11399,11 @@ Vibration of the engine block is transmitted to the sensor and transferred to th
 5 Coolant Temperature Sensor
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_8bbf916c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the pressure by opening the pressure cap in the coolant subtank.
 2. Disconnect the connector and remove the coolant temperature sensor.
 
 ### Installation Notice
-`ssangyong_musso_en_231c94fc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8764370684d11871ee4c3dd313780660a40afb7d2867e382ef528e74585d3809.jpg)
 
@@ -12351,7 +11414,6 @@ Replace the seals with new one.
 ![](images/997eac93d532293f73bc726f54263b62d814915c3111549c3a2f37eb39187ca2.jpg)
 
 ### Inspection
-`ssangyong_musso_en_e94c0449` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Measure the coolant sensor input voltage between the ECU terminal No.79 and No.78 while the ignition switch in "ON" position.
 
@@ -12366,14 +11428,12 @@ allowable error :±5%
 allowable error :±5%
 
 ### Notice
-`ssangyong_musso_en_f74363ba` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace wiring and coolant temperature sensor if out of specified value.
 
 ![](images/f8995e7808b93ab298912fe7764886a5bf65513ba5b3f684134ba1f4f7e9bdb9.jpg)
 
 ### Service Data
-`ssangyong_musso_en_2cfaaf3b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b482f6f17d9726b0b6d622f96ccf8789cf3a9ba889f9ce4d67fc27a9d843c73e.jpg)
 
@@ -12382,7 +11442,6 @@ Resistance characteristic curve according to the coolant temperature
 ![](images/84862ff4ef8b63076b0604a033e1e9fd3d3b587c607a508bfc08893e365f4de9.jpg)
 
 ### ACCELERATOR PEDAL MODULE
-`ssangyong_musso_en_e480d694` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f2e3c07309f3a7966b1f0de2a75bb01247eb11763d7d4648f603e953d1637971.jpg)
 
@@ -12394,12 +11453,10 @@ Resistance characteristic curve according to the coolant temperature
 6 Nut (1 piece) 4-8 Nm
 
 ### Removal and Installation Procedure
-`ssangyong_musso_en_07eb6aa5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the 6-pin connector(arrow). 2. Unscrew the 2 bolts (3) / 1 nut (6) and remove the pedal and sensor assembly.
 
 ### Installatoin Notice
-`ssangyong_musso_en_030c3e83` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/bef693fb6b6b47685ab61d06c6769b96d01a760911b33adf21f56aaa4983b91d.jpg)
 
@@ -12408,7 +11465,6 @@ Resistance characteristic curve according to the coolant temperature
 ![](images/780b8438e13ff813678cadc94046317f01e136232f3492e20f9b7d3ef6a22a9e.jpg)
 
 ### Accelerator Pedal Sensor Connector(Sensor Side)
-`ssangyong_musso_en_fbd8bef5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Potentiometer 1. Pin no. 3 :Red Pin no. 1 :Yellow Pin no. 5 :Brown
 
@@ -12417,14 +11473,12 @@ Potentiometer 2. Pin no. 6 :Violet Pin no. 4 :Green Pin no. 2 :White
 ![](images/cf9b1258cf1b6053ed09b24ef4b5e34c7b74dae67e343f7dcc116c4a62b521b5.jpg)
 
 ### Accelerator Pedal Sensor Connector(Vehicle Side)
-`ssangyong_musso_en_3fd7f7bb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Potentiometer 1. Pin no. 3 :Red-Black Pin no. 1 :Blue-Green Pin no. 5 :Yellow-Green
 
 Potentiometer 2. Pin no. 6 :Green Pin no. 4 :Blue-Red Pin no. 2 :LightGreen
 
 ### Circuit Diagram
-`ssangyong_musso_en_90c27ad1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/81723b1d87443426e7529de695fd67a122fb204d86cddc1526285eb1e7b94fc0.jpg)
 
@@ -12432,12 +11486,10 @@ Potentiometer 1.
 Potentiometer 2.
 
 ### M161 ENGINE CONTROLS
-`ssangyong_musso_en_84b65a55` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 CAUTION: Discon ect thenegativebaterycablebeforeremovingorinstalinganyelectricalunitorwhena to lorequipmentcouldeasilycomeincontactwithexposedelectrical terminals. Discon ecting thiscable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_07fa1aba` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Specifications 1F2-2
 Fastener Tightening Specifications 1F2-2
@@ -12478,14 +11530,12 @@ Coolant Temperature Sensor 1F2-76
 Accelerator Pedal Module 1F2-79
 
 ### SCHEMATIC AND ROUTING DIAGRAMS
-`ssangyong_musso_en_beeb9055` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f324b676864524e8750a3f74cb3461a22ed420cb36131aaf73b08ae45ebee34d.jpg)
 
 ![](images/113d09ee162d2dff0b28fcf9fe43af7657bcdbd2e0c38e65b4e31fd2e96c047f.jpg)
 
 ### SELF DIAGNOSIS SOCKET PIN NUMBERS AND DESCRIPTIONS
-`ssangyong_musso_en_14d22f9a` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ![](images/d96691a5ce5064f8fa45882bb5c01bbdd515e020caa5d77057775112a4cc5759.jpg)
 
@@ -12511,7 +11561,6 @@ Accelerator Pedal Module 1F2-79
 20 K-LINE(ECS:PIN 23)
 
 ### SELF DIAGNOSIS FAILURE CODE (FOR E23 ENG)
-`ssangyong_musso_en_55d5e3c9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d315a4699443d1a0c9f31f49289e86ba02c45c2d516088cd2b867d37a9737fcd.jpg)
 
@@ -12520,7 +11569,6 @@ Accelerator Pedal Module 1F2-79
 ![](images/e5326b49d27f7da75864f101f1dd469680607860240fcb333f672b78a8c362cc.jpg)
 
 ### TEST BOX CONNECTION
-`ssangyong_musso_en_8f27e280` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/03be62401bf03adf02685d919c9fa667ae9930ef009f335bfcbffdf6b8d73b2a.jpg)
 
@@ -12534,7 +11582,6 @@ Accelerator Pedal Module 1F2-79
 Tools Required 129 589 00 21 00 Test Box 210 589 08 63 00 ECU Test Cable
 
 ### FUEL INJECTION SYSTEM TEST
-`ssangyong_musso_en_f1b6edae` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0d6321f06cfd3465365e185d03ca41780a17b7e7a53bfc48ef1e6f1ae0466c41.jpg)
 
@@ -12566,7 +11613,6 @@ Figure 3. Injection Valve Wave(at sharp acceleration)
 Figure 4. Purge Control Valve Operationg Wave
 
 ### IGNITION SYSTEM TEST
-`ssangyong_musso_en_df7b0eab` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/08c7b467cfd903a1a457aa948b01b8f94181079432ff8a7c6bfb214919b5fe85.jpg)
 
@@ -12577,7 +11623,6 @@ Figure 4. Purge Control Valve Operationg Wave
 ![](images/e51d0394c5be9635f6aaa288d299dbac1f731a4e7e15d546ed743207e94a4581.jpg)
 
 ### Reference Figures
-`ssangyong_musso_en_a2075918` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ac64bcef313cc303b3d4e455243f5e3fc778ec073ac55b5d867f9e0287adb2ac.jpg)
 Figure 5. Crankshaft Position Sensor Signal a Voltage b Identifying the No.1 2 Missing Teeth
@@ -12594,7 +11639,6 @@ IDLING CONTROL AND ELECTRONIC PEDAL SYSTEM TEST
 ![](images/c2b170d58f61b10acf238845986ea31de7358a6c197effa548efc55df203c468.jpg)
 
 ### FUEL PRESSURE AND INTERNAL LEAKAGE TEST Preparation
-`ssangyong_musso_en_68b6d6ba` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/bd7630a90953b8e1cf67f211f0582767af74e41837eb37a6b6512844a5bd4937.jpg)
 
@@ -12603,7 +11647,6 @@ IDLING CONTROL AND ELECTRONIC PEDAL SYSTEM TEST
 03 Measuring Beaker
 
 ### Connection of the Equipment
-`ssangyong_musso_en_89deffc3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Turn the ignition switch to "OFF" position.
 2. Remove the air cleaner cross pipe.
@@ -12612,7 +11655,6 @@ pressure hose and pressure tester.
 4. Prepare the beaker for measuring the amount of fuel.
 
 ### Tools Required
-`ssangyong_musso_en_8f0420fe` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 103 589 00 21 00 Pressure Tester
 119 589 04 63 00 Pressure Hose
@@ -12620,7 +11662,6 @@ pressure hose and pressure tester.
 ![](images/700292bceebf7451be269c9beeb8160722194ace17ef2bafdd5967042cc5ba0f.jpg)
 
 ### FUEL PUMP TEST Preparation
-`ssangyong_musso_en_28641e0a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2e81fb0f8565c8226edadea9f30ec566198f51de8ec7a251b447ad6c35da5b76.jpg)
 
@@ -12633,7 +11674,6 @@ pressure hose and pressure tester.
 04 ECU Test Cable
 
 ### Tools Required
-`ssangyong_musso_en_c06b1849` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 103 589 00 21 00 Pressure Tester
 210 589 00 99 00 Adaptor Line
@@ -12643,7 +11683,6 @@ pressure hose and pressure tester.
 ![](images/ebd7b5395305d02112d0ec9b94ea4fc17a66c7a4f1e4eababc093d22478de407.jpg)
 
 ### INJECTOR TEST Preparation
-`ssangyong_musso_en_a6e138e5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9037811ff259d20bc3b12ab0cfd67a8c09b949e4a57101d20dfb3cb140e8e7fb.jpg)
 
@@ -12656,7 +11695,6 @@ pressure hose and pressure tester.
 04 ECU Test Cable
 
 ### Connection of the Equipment
-`ssangyong_musso_en_4fd7a9cc` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 1. Connect the test box to the ECU as shown in the figure.
 2. Remove the 2-pin coupling from injector.
@@ -12675,7 +11713,6 @@ Figure 8. Shop Made Cable
 Figure 9. Fuel Injector Normal Spary Pattern
 
 ### ECU Appearance
-`ssangyong_musso_en_c47c9a67` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ff9e47441003d05bfba85ddb7b6d46d1f44953e0a61a91c0505b1be8c3979101.jpg)
 
@@ -12688,12 +11725,10 @@ A Vehicle Connector Black
 B Engine Connector Gray
 
 ### Location
-`ssangyong_musso_en_c22e3ed6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Engine ECU is located at the inside of cowl side trim in right bottom of instrument panel of passenger side.
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_347d5cc1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Turn the ignition switch to "OFF" position.
 2. Disconnect the battery negative cable
@@ -12711,7 +11746,6 @@ Engine ECU is located at the inside of cowl side trim in right bottom of instrum
 ![](images/871ec4013e09190afeeca2e9fbe4e485030f46504e59c5dc1783a29e2cadd158.jpg)
 
 ### Vehecle Connector
-`ssangyong_musso_en_fbe64fab` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b07a20fde4f31f9eb1db82628ba6112fea6a8b5d4221b98f0f10fe865e22b671.jpg)
 
@@ -12720,14 +11754,12 @@ Engine ECU is located at the inside of cowl side trim in right bottom of instrum
 ![](images/836f100d6d3d3ab4db6443108c7534480a42ab9379ea434326edf317d35a5ab9.jpg)
 
 ### Engine Connector
-`ssangyong_musso_en_66fbfcf9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/4f07c3917ce88a410a2c037bc7c96a331d8955ff0cfe48c9840fb05ff7436ee0.jpg)
 
 ![](images/e513f87947bf7faddf1bfbf57e06195b4e5e93dd9758e636abc02f1a4af79e30.jpg)
 
 ### Application
-`ssangyong_musso_en_4bdec541` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/4f4c77115ec19c940aa26bc9a874a9b73f7c38b1e44aa24a82b71308b80c5579.jpg)
 Standard, ¡: Option
@@ -12739,7 +11771,6 @@ Standard, ¡: Option
 ![](images/e6d6a2b71ee28bf50ca35ea77227ed12e09cdbf3cbaea044bebcc7efa94afbef.jpg)
 
 ### When removing the ECU only
-`ssangyong_musso_en_d8a9d11f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Turn the ignition switch to "OFF" position.
 2. Disconnect the negative battery cable.
@@ -12747,14 +11778,12 @@ Standard, ¡: Option
 4. Unscrew the left and right bolt (3) on bolt (1) and auxiliarly bracket and remove the auxiliarly bracket from the bracket assembly (2).
 
 ### Installation Notice
-`ssangyong_musso_en_8ea5e7f8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/edce66fe7d2955492c1979dff44504a61635460d1bfe00f9d3040a9855b29419.jpg)
 
 5. Unscrew the four bolts (5) and disconnect the ECU (6) from the bracket assenbly.
 
 ### Installation Notice
-`ssangyong_musso_en_a18a22d3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d5f072ab7f3c3afa2e950c49a24295b20f0f12318745ba7a578b0eca0e7bfdce.jpg)
 
@@ -12775,14 +11804,12 @@ When Removing the ECU with ABS or ABS/ASR Unit
 7. Unscrew the left and right bolt (3) on the auxiliary bracket and remove the auxiliary bracket from the bracket assembly.
 
 ### Installation Notice
-`ssangyong_musso_en_488df149` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/edf59848f3e554c4044b470c15a499de7c15da86b76562348762591814429b7c.jpg)
 
 8. Unscrew the bolts (5) and disconnect the ECU (6) from the bracket assenbly.
 
 ### Installation Notice
-`ssangyong_musso_en_1c40bdac` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/78e143a5881403af5630c666addca40693acd9db5385849a1635f42d68b19634.jpg)
 
@@ -12791,7 +11818,6 @@ When Removing the ECU with ABS or ABS/ASR Unit
 ![](images/b264b30a43cc9996c03f24caf6fdaf65acf8050ac40b64bced01ac8b66df464b.jpg)
 
 ### FUEL PRESSURE REGULATOR
-`ssangyong_musso_en_5166d3b5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/db8d82807a89ec7b3015dc1b2a25d7d38a4ae1d2170528e5a711ce97a237460b.jpg)
 
@@ -12801,7 +11827,6 @@ When Removing the ECU with ABS or ABS/ASR Unit
 5 O-ring replace
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_7c824b4d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the fuel pressure test connector.
 
@@ -12820,7 +11845,6 @@ When Removing the ECU with ABS or ABS/ASR Unit
 ![](images/7863f41369ae8b258bfe5c537abdb28a9e9cabc55918dd55e2c8a58316c06680.jpg)
 
 ### Function of the Fuel Pressure Regulator
-`ssangyong_musso_en_4ff8f1f7` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 The fuel pressure regulator maintains the fuel pressure in the fuel line with the pressure of 3.2 bars to 3.8 bars according to the intake manifold pressure. This operating pressure cannot be changed, and the fuel injection volume will be only determined by the injection time. Over supplied fuel returns to the fuel tank through the return line.
 
@@ -12877,7 +11901,6 @@ VL. Full load
 ![](images/4de45e44a377f3a1257f1a573ad0c077bc3bf101d1161b70d4f1025633d48cdc.jpg)
 
 ### FUEL DISTRIBUTOR
-`ssangyong_musso_en_2d97422d` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Preceding Work Removal of intake air duct
 
@@ -12901,7 +11924,6 @@ Preceding Work Removal of intake air duct
 16 O-ring
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_1148f35b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Discharge the fuel pressure from the fuel pressure test connector by pushing service valve (arrow).
 
@@ -12920,7 +11942,6 @@ Installation Notice
 ![](images/540ffdb25c3dd476e0fba25da33e3d32132892672864bba5b6e8e74c58611d42.jpg)
 
 ### Notice
-`ssangyong_musso_en_38e0271b` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 For removal, cover around parts with cloths not to bestained by fuel.
 In case of checking the injector only, do not remove the fuel return and supply line.
@@ -12946,14 +11967,12 @@ Notice Replace the injector O-ring with new one.
 10. Check for fuel pressure and internal leakage by operating the engine.
 
 ### Ignition Coil & Cable
-`ssangyong_musso_en_d6ba9560` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Ignition coil T1/1 No.1 cylinder + No.4 cylinder Inition coil T1/2 No.1 cylinder + No.4 cylinder
 
 ![](images/786647925eb22ae6334da50021fb307c0b79e147e3ccd2a7335640680299728c.jpg)
 
 ### Fuel Pressure Test
-`ssangyong_musso_en_8f1904ff` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Turn the ignition switch to "OFF" position.
 2. Remove the fuel pressure test connector.
@@ -12971,7 +11990,6 @@ Ignition coil T1/1 No.1 cylinder + No.4 cylinder Inition coil T1/2 No.1 cylinder
 ![](images/a5083c967e3524b9262808ac5dbc5a6c76698a5564c600f00247595b1c1f723b.jpg)
 
 ### Internal Leakage Test
-`ssangyong_musso_en_4f51468e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Connect the fuel pressure gauge to the fuel pressure test connector.
 
@@ -12984,7 +12002,6 @@ Ignition coil T1/1 No.1 cylinder + No.4 cylinder Inition coil T1/2 No.1 cylinder
 ![](images/e501b63af107a33f426c33458b3400927e89ca022c7b55c87ec6ca31c6776701.jpg)
 
 ### Discharging the pressure in fuel system
-`ssangyong_musso_en_e7ee1791` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the fuel pressure test connector.
 
@@ -12997,14 +12014,12 @@ Installation Notice
 2. Remove the fuel pressure in fuel system by pressing the service valve with a clean, pointy tool.
 
 ### Notice
-`ssangyong_musso_en_2f56b55c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Place a cloth so that the fuel doesn't stain around.
 
 ![](images/ae1255311732440c9a24b1712f847c80134c4e2d9328a23cb1aab79284b1f59c.jpg)
 
 ### INJECTOR
-`ssangyong_musso_en_06901488` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Preceding Work Removal of fuel distributor
 
@@ -13017,20 +12032,17 @@ Preceding Work Removal of fuel distributor
 5 Fuel Distributor
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_f67c3559` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the O-ring. Check for damage and replace it if necessary.
 2. Remove the injector bracket from the injector.
 
 ### Installation Notice
-`ssangyong_musso_en_de6a2130` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Exactly seat the anti-twist lock into the square groove in injector.
 
 3. Separate the injector from the fuel distributor.
 
 ### Inspection & Maintenance
-`ssangyong_musso_en_f4f80a51` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Inspection of the Injector operation and spray pattern
 
@@ -13041,7 +12053,6 @@ Inspection of the Injector operation and spray pattern
 5. Check the injector spray pattern.
 
 ### Injector Resistance Inspection
-`ssangyong_musso_en_5383b29b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the injector connector.
 
@@ -13050,12 +12061,10 @@ Inspection of the Injector operation and spray pattern
 ![](images/bda8936a3bdb498fb9c8dd21f5eadc693c13af37c8b961cba2e95d69f6d6cc45.jpg)
 
 ### Notice
-`ssangyong_musso_en_f6fa74b6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the injector if the measured values is out of the specified values. Check the connector and wire connection between the ECU and the injector if the measured values are normal.
 
 ### The Injector Spray Pattern Check
-`ssangyong_musso_en_8bc49a5c` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 1. Connect the test box (129 589 00 21 00) to the ECU.
 
@@ -13064,7 +12073,6 @@ Replace the injector if the measured values is out of the specified values. Chec
 3. Disconnect the fuel distributor and injector with a unit from engine without removing the fuel supply and return line.
 
 ### Notice
-`ssangyong_musso_en_5f13a282` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Prepare the beaker for taking the poping fuel.
 
@@ -13077,14 +12085,12 @@ Prepare the beaker for taking the poping fuel.
 7. Check the injector for normal spray pattern as shown in the figure. Check injector for leaks or later drops.
 
 ### Notice
-`ssangyong_musso_en_49ab1564` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Refer to fuel injector test of engine diagnosis in this section for detailed information.
 
 ![](images/d72409e545eba6aff2142fdfdef654e3caa1bd9f6999986af1c5a7acc427f795.jpg)
 
 ### FUEL FILTER
-`ssangyong_musso_en_b40a8770` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/01151e56429e43757886de63da1af735b23f19d3ea2b8334c3fda0b597e0a667.jpg)
 3 Inlet
@@ -13093,35 +12099,30 @@ Refer to fuel injector test of engine diagnosis in this section for detailed inf
 2 Outlet
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_5628ee53` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 1. Open the fuel tank cap and remove the fuel tank pressure.
 
 2. Remove the fuel out (2) and in (3).
 
 ### Installation Notice
-`ssangyong_musso_en_81bc258e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8de71391747688d2f7c643ffd9146a741b86cb7fa9172e86431bb77aa090e5cf.jpg)
 
 3. Remove the mounting bracket bolt (4) and remove the fuel filter (1).
 
 ### Notice
-`ssangyong_musso_en_d6870e93` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Place the fuel pump pad. There may be a corrosion due to the contact between the fuel filter and the bracket.
 
 4. Check for leaks by operating the engine.
 
 ### Notice
-`ssangyong_musso_en_63a07388` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Installation should follow the removal procedure in the reverse order.
 
 ![](images/11e5a48d1da610f6a0618ed4b88df404545917d5f5659d5a89cb5f75aab30f84.jpg)
 
 ### FUEL PUMP
-`ssangyong_musso_en_da8f0bde` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 ![](images/3f475c7f2115606205e454e15eac5d8ebfec117c7303d424242f54afc931eb96.jpg)
 
@@ -13140,7 +12141,6 @@ Installation should follow the removal procedure in the reverse order.
 16 Float Arm
 
 ### Requirements for Fuel Pump
-`ssangyong_musso_en_000d0338` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/127a64837db32158e413e877b0af6ea2a2fdc737b50a38a5a433b02103565f14.jpg)
 
@@ -13158,7 +12158,6 @@ Installation should follow the removal procedure in the reverse order.
 ![](images/545a0da3cf432c6d459fa61db0e79bfb72152eab4c509d3146d0568022bc1e07.jpg)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_b7101ae5` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 1. Disconnect the negative battery cable.
 2. Disconnect the harness connector (1).
@@ -13167,7 +12166,6 @@ Installation should follow the removal procedure in the reverse order.
 and remove the pump from fuel tank.
 
 ### Notice
-`ssangyong_musso_en_8b17b18a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the condition of the seal and replace if necessary.
 Drain the fuel before removing the pump.
@@ -13175,7 +12173,6 @@ Drain the fuel before removing the pump.
 ![](images/510c57f110bfe7684a20cd9037c16c036b7d0aac7e1efd3558bae11fcedb2ea8.jpg)
 
 ### Measure the Fuel Delivery From the Fuel Pump
-`ssangyong_musso_en_3957a66a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the return pipe from fuel distributor and insert the appropriate hose into it.
 2. Place the hose end into the beaker with the minimum capacity of 1Liter.
@@ -13187,7 +12184,6 @@ Drain the fuel before removing the pump.
 ![](images/53eccf62cf19db95500c69254d527e9b78ecc825f03df20ca1cc868442a8f41e.jpg)
 
 ### Measure the Current Consumption of Fuel Pump
-`ssangyong_musso_en_d290a956` | musso | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 1. Remove the fuel pump relay from fuse and relay box in trunk, and turn the ignition switch to "ON" position.
 
@@ -13196,7 +12192,6 @@ Drain the fuel before removing the pump.
 ![](images/b6c935b2724ac665606e535ddba1e30197cc9b9b84fbc7c017265b4b95ef7f7e.jpg)
 
 ### PURGE SWITCHOVER VALVE
-`ssangyong_musso_en_32a39568` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/4e587538e197282d37ababa7c070b0e94a12ab722504b662af33aba697afb0fc.jpg)
 
@@ -13206,7 +12201,6 @@ Drain the fuel before removing the pump.
 4 Canister
 
 ### Functions
-`ssangyong_musso_en_8063cf12` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 The fuel vaporization control system is installed to inhibit the fuel vaporized gas from discharging into the atmosphere. The fuel vaporized gas that is accumulated in the canister abstracts through the purge switchover valve purification during the engine combustion (except the decreasing mode) and coolant temperature of over 80°C. For this reason, the ECU transacts the engine speed, air inflow quantity, coolant temperature, and intake temperature.
 
@@ -13217,13 +12211,11 @@ The purge switchover valve is activated by the ECU for the following conditions
 Coolant temperature of over 80°C Engine speed of over 1000rpm 2 Minutes after starting When the fuel cut-off mode is not activated
 
 ### Test
-`ssangyong_musso_en_c14a5c80` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Maintain the normal temperature and idling state by operating the engine.
 2. Connect the ECU terminal No.11 and No.34 and check for normal operation through the output waves using the scanner.
 
 ### Notice
-`ssangyong_musso_en_d9ce6a42` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Test during purge control switchover valve operation after the minimum of 1 minute after the engine turned on.
 
@@ -13236,7 +12228,6 @@ Test during purge control switchover valve operation after the minimum of 1 minu
 ![](images/746fa457d0006b86b06cf333082aa93353de3a955033bc034987be9e71d2d6b4.jpg)
 
 ### VACUUM SYSTEM
-`ssangyong_musso_en_28beb0e1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Manual Transmission
 
@@ -13258,7 +12249,6 @@ Manual Transmission
 14 Connector
 
 ### Automatic Transmission
-`ssangyong_musso_en_6d169e2a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c84ceaaaa62051dfae034519ea49c88b3221bd316d2ed21e97eb21b76f33c316.jpg)
 
@@ -13268,7 +12258,6 @@ Manual Transmission
 A. To Canister B. To Auto Locking Hub
 
 ### CRANKSHAFT POSITION SENSOR
-`ssangyong_musso_en_4f9ab2c1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e52cf6bffda70b956a3b07c2e9121ec52de9fc724d772b3ecfae5312d460740b.jpg)
 
@@ -13278,13 +12267,11 @@ A. To Canister B. To Auto Locking Hub
 3 Sensor Unit
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_bbdd1373` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the wiring connector at the crankshaft position sensor.
 2. Unscrew the bolt (2) and remove the crankshaft position sensor unit (3).
 
 ### Installation Notice
-`ssangyong_musso_en_e9abf984` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ea77928e46eedb24a03e9cce67eb98004951d48ffd7491e38fe3a412135ce9b9.jpg)
 
@@ -13293,7 +12280,6 @@ A. To Canister B. To Auto Locking Hub
 ![](images/e7165a80cff4c96a554d1bcbe579235a9aeeae3fb4c3921d2ea12d3a981b94b0.jpg)
 
 ### Crankshaft Position Sensor Resistance Inspection
-`ssangyong_musso_en_8cc83c19` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the coupling "E" of ECU while the ignition switch is in "OFF" position.
 
@@ -13302,21 +12288,18 @@ A. To Canister B. To Auto Locking Hub
 ![](images/fe2e6b675a186f44f8861ceb6e8ae6d05045f9879b9ec7900818c73011aebb47.jpg)
 
 ### Crankshaft Position Sensor Output Wave Inspection
-`ssangyong_musso_en_155b9904` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Connect the test box to the ECU.
 
 2. Measure the output wave between the ECU terminals No.99 and No.100 using the scanner or the oscilloscope while engine cranking (starter motor activated).
 
 ### Notice
-`ssangyong_musso_en_41224d89` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the segment or crankshaft position sensor and air gap if cannot get the output wave as shown in the figure.
 
 ![](images/4834b7045c9d8775c75bb699479bababf87147682df4d35dbe4b5d5ad604f941.jpg)
 
 ### Crankshaft Position Sensor Insulator Resistance Inspection
-`ssangyong_musso_en_2134b90f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the engine coupling from ECU while the ignition switch is in "OFF" position.
 
@@ -13325,12 +12308,10 @@ Check the segment or crankshaft position sensor and air gap if cannot get the ou
 ![](images/666c33df236788cef7fb19047ffddc7780e3981de057c3df88b46ab13cf8b318.jpg)
 
 ### Notice
-`ssangyong_musso_en_95ac7bda` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Measure the check and ground terminal of the crankshaft position sensor if out of the specified value.
 
 ### CAMSHAFT POSITION SENSOR
-`ssangyong_musso_en_6c7c480b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5f3c3c35135b7456982b1959ed4166a8f0a1e629d008ba1825bf660808d4e876.jpg)
 
@@ -13338,14 +12319,12 @@ Measure the check and ground terminal of the crankshaft position sensor if out o
 2 Camshaft Position Sensor 5 O-ring
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_674d2dce` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the wiring connector from the camshaft position sensor.
 
 2. Unscrew the bolt (2) and remove the camshaft position sensor.
 
 ### Installation Notice
-`ssangyong_musso_en_218222f8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a394256fc4718f18f4afae9fc0921c066f968e3c59e96c9356238e1027b88fe9.jpg)
 
@@ -13358,7 +12337,6 @@ Measure the check and ground terminal of the crankshaft position sensor if out o
 ![](images/26d4f9b210dd45350ff2cd48ea33ae19a3bab7b52d2bb6d46704bb65b4caead5.jpg)
 
 ### Camshaft Position Sensor Signal Voltage Inspection
-`ssangyong_musso_en_b1dc5cd2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Connect the test box to the ECU.
 
@@ -13367,27 +12345,23 @@ Measure the check and ground terminal of the crankshaft position sensor if out o
 ![](images/dd7972a5e46004ca87638a82c82a07d1872868fd0dcbf96c8411f3e731fc9768.jpg)
 
 ### Camshaft Position Sensor Output Wave Inspection
-`ssangyong_musso_en_b28642c5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Connect the test box to the ECU.
 2. Measure the output wave between the ECU terminal No.104 and No.106 using the scanner or the oscilloscope while the engine speed is at idle.
 
 ### Notice
-`ssangyong_musso_en_a79046f4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the camshaft position sensor if cannot get the output wave as shown in the figure.
 
 ![](images/baeee5d738e552061f0b992b1c87fd2e5030b146be245249726c25381ed78623.jpg)
 
 ### Camshaft Position Sensor Power Supply Inspection
-`ssangyong_musso_en_ca60cd09` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Turn the ignition switch to 'ON' position. 2. Disconnect the camshaft position sensor connector. 3. Measure the voltage between the No.1 and No.3 pin of camshaft position sensor while the ignition switch is in "ON" position.
 
 ![](images/32880e66aa3b097f94a06bb9fc9ecd850caa7446bf9147992ef457c1ecfb16f7.jpg)
 
 ### HOT FILM AIR MASS (HFM) SENSOR
-`ssangyong_musso_en_d3a3b5b6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/fcc7b8b2b39f382570c5b690e8b6fc8f33f1921ba5ccef57f7c9df25b141a252.jpg)
 
@@ -13396,12 +12370,10 @@ Replace the camshaft position sensor if cannot get the output wave as shown in t
 45 Connector Hot film Sensor 6 Measuring Port
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_3cca391c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Turn the HFM sensor coupling in the direction shown in the figure in the right so that it gets separated from the contact surface.
 
 ### Notice
-`ssangyong_musso_en_b85ef7f0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure the HFM sensor coupling connects completely with the contact surface Installation.
 
@@ -13416,7 +12388,6 @@ Make sure the HFM sensor coupling connects completely with the contact surface I
 ![](images/10881398b84a2d171fa2ada01ac00e3daa1014bc25e131a4cbac6b717c2f8bc7.jpg)
 
 ### Circuit Diagram
-`ssangyong_musso_en_03df46de` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/14bbc0490f8e9ea9c3b8b728e3328ed23150e1d4f1b579d46ba5ac8a5bb095e5.jpg)
 
@@ -13427,14 +12398,12 @@ Make sure the HFM sensor coupling connects completely with the contact surface I
 RH : Heat Resistance RT : Temperature Resistance RS Sensor Resistance
 
 ### Specified Value (coolant temperature is over 70°C)
-`ssangyong_musso_en_95284504` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b7cee6143f4e79e319db29862956fd7c9866b1789c97e835d86d0a2e286e81b1.jpg)
 
 If the measured value is not within the specified value, the possible cause may be in cable or HFM sensor in itself. Perform the 5V power supply inspection procedures.
 
 ### HFM Sensor 5V Power Supply Inspection
-`ssangyong_musso_en_392a9744` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Measure the voltage between the HFM sensor No.108(+) and No.105(-) after removing the HFM sensor connector.
 
@@ -13445,7 +12414,6 @@ If the measured value is not within the specified value, the possible cause may 
 2. Measure the voltage between the HFM sensor wining connector terminal No.3 pin and No.102(+) after removing the HFM sensor connector.
 
 ### Specified Value
-`ssangyong_musso_en_069becb8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/270a710a71012e0c4306e3cb7ab208df0968e817320aebbc0217edb9175028af.jpg)
 
@@ -13454,7 +12422,6 @@ If the measured value is not within the specified value, the possible cause may 
 Perfrom the 12V power supple inspection procedures.
 
 ### HFM Sensor 12V Power Supply Inspection
-`ssangyong_musso_en_f17b839a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Measure the voltage between the HFM sensor wining connector 1G No.2 pin(+) and No.3 after removing the HFM sensor connector.
 
@@ -13463,7 +12430,6 @@ Perfrom the 12V power supple inspection procedures.
 If the measured value is not within the specified value, the possible cause may be in cable or over voltage protection relay.
 
 ### OXYGEN SENSOR
-`ssangyong_musso_en_c456e37f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f3c134586da394d5962c4c6058d0131e03749f9cba3506c917c783d5d1e6a5af.jpg)
 
@@ -13477,21 +12443,18 @@ If the measured value is not within the specified value, the possible cause may 
 8 Protector Tube
 
 ### Functions
-`ssangyong_musso_en_abc611bd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The oxygen sensor optimizes the combustion (Air-Fuel Ratio 14.7:1) and resets the Air-fuel ratio in the ECU after sensing the amount of oxygen from the exhaust gases to diminish the exhaust gases.
 
 Rich(<1) above approx. 450mV Lean(>1) below approx. 450mV
 
 ### Locatoin of Sensor
-`ssangyong_musso_en_d6aeb353` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Oxygen sensor is located on the front exhaust pipe.
 
 ![](images/c0372648d147d504b4a7dc5c73ab12795e3136d592f75d143345d8f36a560bf4.jpg)
 
 ### Oxygen Sensor Signal Voltage Inspection
-`ssangyong_musso_en_12dce7a8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Measure the oxygen sensor signal voltage between the ECU terminal No.11 and No.9. Maintain the engine speed ia at idle while the coolant temperature is over 80°C.
 
@@ -13500,7 +12463,6 @@ Oxygen sensor is located on the front exhaust pipe.
 If the measured value is not within the specified value, the possible cause may be in cable, oxygen sensor or ECU.
 
 ### Oxygen Sensor Heating Voltage Inspection
-`ssangyong_musso_en_d332b7e7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Measure the oxygen sensor heating voltage between the ECU terminal No.11 and No.9. Maintain the engine speed ia at idle while the coolant temperature is over 80°C.
 
@@ -13509,7 +12471,6 @@ If the measured value is not within the specified value, the possible cause may 
 If the measured value is not within the specified value, the possible cause may be in cable, oxygen sensor or ECU.
 
 ### Oxygen Sensor Heating Current Consumption Inspection
-`ssangyong_musso_en_dfb53058` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Measure the oxygen sensor heating current consumption between the ECU terminal No.9 and sensor heating(+) line while the ignition switch is in "ON" position.
 
@@ -13518,12 +12479,10 @@ If the measured value is not within the specified value, the possible cause may 
 If the measured value is not within the specified value, the possible cause may be in cable, oxygen sensor or ECU.
 
 ### Functions
-`ssangyong_musso_en_b25d54df` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Vibration of the engine block is transmitted to the sensor and transferred to the ECU in the form of an alternating voltage signal via a shielded cable. The knock sensor is fastened to the engine block to recognize knocking in all cylinders. The ECU compares the signal and the retards firing point.
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_e8da27f9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the knock sensor connector from the intake manifold bracket.
 2. Unscrew the mounting bolt (M8 X 28) from the knock sensor installed on the cylinder block and remove the knocking sensor.
@@ -13531,14 +12490,12 @@ Vibration of the engine block is transmitted to the sensor and transferred to th
 ![](images/07690fabbf503f740e278bc5f891407a25f0473d6263f255a8c4dc47350547fe.jpg)
 
 ### Installation Notice
-`ssangyong_musso_en_b0cfad8d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c6f66436571110eaf7b5ca02f1c96313ec02957e173184cd4dae9424657ffa70.jpg)
 
 3. Installation should follow the removal procedure in the reverse order.
 
 ### COOLANT TEMPERATURE SENSOR
-`ssangyong_musso_en_c67e1087` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a2ae820f65ef4f6ba5bcb22bb9606ef62b72d28b9b4de7a0ff98a5e4e98e7edd.jpg)
 
@@ -13549,13 +12506,11 @@ Vibration of the engine block is transmitted to the sensor and transferred to th
 5 Coolant Temperature Sensor
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_8bbf916c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the pressure by opening the pressure cap in the coolant subtank.
 2. Disconnect the connector and remove the coolant temperature sensor.
 
 ### Installation Notice
-`ssangyong_musso_en_51ef0904` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/6793aa1274819c8dde12fc66b594251f90d5c8420f37e4c7c37f582247de35a9.jpg)
 
@@ -13566,7 +12521,6 @@ Replace the seals with new one.
 ![](images/759e6b74682056d83aa1a39187cac8c3912040ab74ed038465684ecdc2502b14.jpg)
 
 ### Inspection
-`ssangyong_musso_en_4206baa0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Measure the coolant sensor input voltage between the ECU terminal No.79 and No.78 while the ignition switch in "ON" position.
 
@@ -13581,14 +12535,12 @@ allowable error :±5%
 allowable error :±5%
 
 ### Notice
-`ssangyong_musso_en_476d8cdf` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace wiring and coolant temperature sensor if out of specified value.
 
 ![](images/01a0919d0ad0842ab84366229bce09d50fea0be4700a53e75bd56abcaa1be062.jpg)
 
 ### Service Data
-`ssangyong_musso_en_0752bd30` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/da740843b1239693d2450e1e14927000fcea851b74aecf38cd4f8a92b467e935.jpg)
 
@@ -13597,7 +12549,6 @@ Resistance characteristic curve according to the coolant temperature
 ![](images/0d77d8329b2dc3aa94c68730666fb8b72c17cb1ebeb2dd67778e250b39d5d9e2.jpg)
 
 ### ACCELERATOR PEDAL MODULE
-`ssangyong_musso_en_ffaa3897` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/dbd3b612d29d1635fe19f07b697098d1c16bc33160c38e1ed84830fe74fc86ad.jpg)
 
@@ -13609,12 +12560,10 @@ Resistance characteristic curve according to the coolant temperature
 6 Nut (1 piece) 4-8 Nm
 
 ### Removal and Installation Procedure
-`ssangyong_musso_en_07eb6aa5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the 6-pin connector(arrow). 2. Unscrew the 2 bolts (3) / 1 nut (6) and remove the pedal and sensor assembly.
 
 ### Installatoin Notice
-`ssangyong_musso_en_5447faaf` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/adb8806f7b20bd343275f9348ab2b32b00ebf8aac118fd69b8864772b175e753.jpg)
 
@@ -13623,7 +12572,6 @@ Resistance characteristic curve according to the coolant temperature
 ![](images/d01542386ee36d4d451dcd382f05484dd10e082876ff2a7ce54ed31495302ee3.jpg)
 
 ### Accelerator Pedal Sensor Connector(Sensor Side)
-`ssangyong_musso_en_1d961ac7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Potentiometer 1. Pin no. 3 :Red Pin no. 1 :Yellow Pin no. 5 :Brown
 
@@ -13632,7 +12580,6 @@ Potentiometer 2. Pin no. 6 :Violet Pin no. 4 :Green Pin no. 2 :White
 ![](images/6d43359f7dd8a4b8fd4ee831ac58fa4e7348174b6f2d589eb1e76fc873adeebc.jpg)
 
 ### Accelerator Pedal Sensor Connector(Vehicle Side)
-`ssangyong_musso_en_cfef5123` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Potentiometer 1. Pin no. 3 :Red-Black Pin no. 1 :Blue-Green Pin no. 5 :Yellow-Green
 
@@ -13641,7 +12588,6 @@ Potentiometer 2. Pin no. 6 :Green Pin no. 4 :Blue-Red Pin no. 2 :LightGreen
 ![](images/97dfe87dc1c0bf8ba22bb2e908baf0310fa876f8fc7bd97e0a92f19a5e46784b.jpg)
 
 ### Circuit Diagram
-`ssangyong_musso_en_372df1e0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7607dda1405be96bea3c141bdde63fd289da7da87cd33691874c9a00d0070358.jpg)
 
@@ -13649,12 +12595,10 @@ Potentiometer 1.
 Potentiometer 2.
 
 ### OM600 ENGINE CONTROLS
-`ssangyong_musso_en_99ccbdc3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Discon ectthenegative baterycable beforeremoving orinstalinganyelectrical unitor whena to lorequipmentcouldeasilycomeincontactwithexposedelectrical terminals. Discon ecting thiscable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_6f9ed6f0` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Specifications 1F3-1
 Fastener Tightening Specifications 1F3-1
@@ -13682,7 +12626,6 @@ Start of Delivery Test
 Fuel Injection Pump 1F3-46
 
 ### FUEL SYSTEM
-`ssangyong_musso_en_4e60e6f7` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 ![](images/d44cf64f973c160d67775829204edc3905f33a40554cd2c00df692091a822420.jpg)
 
@@ -13695,7 +12638,6 @@ Fuel Injection Pump 1F3-46
 6 Fuel Return Hose 7 Injection Line 8 Fuel Tank 9 Fuel Filter 10 Choke Orifice
 
 ### Fuel Injection Pump Code
-`ssangyong_musso_en_647b1ba2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Example) PES 5M 55C 320 RS 168 P Pump E Self-Driven S End Flange Mounting 5 Number of Cylinders (5EA) M Pump Size 55 Element Diameter C Modification Letter 320 Assembly Number R Direction of Rotation (clockwise) S188 Special Version
 
@@ -13704,7 +12646,6 @@ RSF Governor R Governor FS Coil Spring Drive Governor
 ![](images/d6ec7197fcba8f0d066fbf13c8310f2ff29bc1c703301a3fae604e4103d96615.jpg)
 
 ### Component Location
-`ssangyong_musso_en_800b13c6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Fuel Injection Pump
 2. Vacuum Unit (Stop Unit)
@@ -13716,7 +12657,6 @@ RSF Governor R Governor FS Coil Spring Drive Governor
 ![](images/6b496cb0790b71a15072090008b0ab535319ee8cab967e58ffbb68c471ae0522.jpg)
 
 ### FUEL TANK
-`ssangyong_musso_en_acd7f1e8` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 ![](images/f993572b1d8c7849565a50ee14fcf87602677439ac88a0c4fbff85afda8a8aa4.jpg)
 
@@ -13735,7 +12675,6 @@ RSF Governor R Governor FS Coil Spring Drive Governor
 13 Clip
 
 ### VACUUM CONTROL SYSTEM TEST
-`ssangyong_musso_en_dfb20ee9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d44d68edb2eb1ccdda5d015153d672bbd6536fb9b9f47132019a8e1c496a81cb.jpg)
 
@@ -13752,7 +12691,6 @@ RSF Governor R Governor FS Coil Spring Drive Governor
 12 Modulating Pressure Line (Automatic T/M)
 
 ### Tester Connection
-`ssangyong_musso_en_5fd472aa` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 11 TDC Pulse Sender Unit
 12 Digital Tester
@@ -13760,14 +12698,12 @@ RSF Governor R Governor FS Coil Spring Drive Governor
 ![](images/d56a0902e96f737588a4448e47bb68a32c999a1f4e9b5a4be2335581b9df3db4.jpg)
 
 ### Test step 1
-`ssangyong_musso_en_acd3a58b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c70565e3f7beaf3be61597486cc1b53bacd5fca89fdfd21ff2902cec154d3627.jpg)
 
 ![](images/bd22cc611af51aa590de55853583b5d57c5394c8fe9b366c643a3d11021cd8bf.jpg)
 
 ### VACUUM PUMP (SECTIONAL VIEW)
-`ssangyong_musso_en_65eb3f68` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c550563b17f01460ffafe51bdc3beddf92db4a36a438b354feda8beab7c1449d.jpg)
 
@@ -13793,7 +12729,6 @@ SB To Brake Booster
 SK To Vacuum Lines
 
 ### VACUUM PUMP TEST
-`ssangyong_musso_en_11329cd6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/be911fcad1775db396383b60bb7e9290ee57438c8cca23dd3bc0bfd0353b4b80.jpg)
 
@@ -13805,7 +12740,6 @@ SK To Vacuum Lines
 Tools Required 201 589 13 21 00 Vacuum Tester
 
 ### Test Procedure
-`ssangyong_musso_en_624a1bd0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the fuel filter (1) and keep the filter not to be damaged from running engine.
 
@@ -13820,7 +12754,6 @@ Vacuum Tester 201 589 13 21 00
 ![](images/464da488889a4bd69f7ac2e9cf598bfea9009f21adbe83edcc975c36a9934521.jpg)
 
 ### Notice
-`ssangyong_musso_en_f1eca467` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If out of standard, replace the vacuum pump.
 
@@ -13833,7 +12766,6 @@ If out of standard, replace the vacuum pump.
 ![](images/3f70eb966d0d599e00011762d4ced6b8513ba115259d95e4a67abb38c8f847db.jpg)
 
 ### VACUUM PUMP
-`ssangyong_musso_en_c1d1728f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Remove the poly V-belt
 
@@ -13846,7 +12778,6 @@ Preceding Work Remove the poly V-belt
 5 Gasket Replace
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_11df3f30` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the vacuum line (3, 4).
 
@@ -13855,7 +12786,6 @@ Preceding Work Remove the poly V-belt
 2. Remove the bolts (1) evenly.
 
 ### Notice
-`ssangyong_musso_en_70fb9244` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If necessary, rotate the engine until the pressure on the tappet of the vacuum pump is released.
 
@@ -13868,14 +12798,12 @@ If necessary, rotate the engine until the pressure on the tappet of the vacuum p
 ![](images/dcfebd1f6b5ffdabc3d94885e31a22b65b2684076870bbb86c4e8da27cada018.jpg)
 
 ### Notice
-`ssangyong_musso_en_d6d30f44` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Clean the gasket residues of sealing surface of vacuum pump and replace the gasket(5).
 
 5. Connect the vacuum line (3, 4).
 
 ### VACUUM UNIT REPLACEMENT
-`ssangyong_musso_en_2da32e34` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/cb22260764101e9847bfbcdacb5ec569d0d361084f750c735beb62795938c12d.jpg)
 
@@ -13886,14 +12814,12 @@ Clean the gasket residues of sealing surface of vacuum pump and replace the gask
 5 Seal Replace
 
 ### Service Data
-`ssangyong_musso_en_1c0f1371` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/3c6450e08e785a6e0e2126f1d8f733a846f59621660dad01adf94736cda007d8.jpg)
 
 Tools Required 667 589 00 21 00 TDC Pulse Generato
 
 ### Adjustment Procedure
-`ssangyong_musso_en_b78d6608` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Connect the digital tester (1) and TDC pulse sender unit (11). 2. Run the engine and warm up the coolant to 60\~80°C.
 
@@ -13908,7 +12834,6 @@ TDC pulse generator 667 589 02 21 00
 ![](images/9e5d6d73b24443c1dea2d053302112e21d4968ca40a4aa8e628818b60abae7e5.jpg)
 
 ### Notice
-`ssangyong_musso_en_91c57596` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To adjust idle speed, loosen the locking nut (6) of PLA unit.
 
@@ -13919,14 +12844,12 @@ To adjust idle speed, loosen the locking nut (6) of PLA unit.
 ![](images/ca2f904bfd6c826781e0f41f32a4bd17dba1e10b319db79ef4999356be082b94.jpg)
 
 ### Notice
-`ssangyong_musso_en_3fb925ec` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not rotate the PLA unit over ½ turn from the position marking. If do, idle spring in the governor will be severely damaged.
 
 6. After adjustment, tighten the locking nut and place the position marking with different color of paint.
 
 ### Notice
-`ssangyong_musso_en_66f97cb4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If there are no changes in idle speed with PLA unit adjustment, perform the service at a BOSCH Service Center.
 
@@ -13942,7 +12865,6 @@ Vacuum Pump 001 589 73 21 00
 9. Switch on all ancillaries and check the idle speed.
 
 ### Fuel Feed Test
-`ssangyong_musso_en_b442cbee` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the fuel return line (1) and seal up it with plug.
 
@@ -13961,7 +12883,6 @@ Vacuum Pump 001 589 73 21 00
 ![](images/9f09e1e364387eec9bbdf434c7fbf73d7a9eb31aaac90f48a7fd5dc28309d1a0.jpg)
 
 ### Tools Required
-`ssangyong_musso_en_f89529a3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 617 589 04 21 00 Tester
 
@@ -13972,7 +12893,6 @@ Vacuum Pump 001 589 73 21 00
 4. Start the engine and read off the fuel pressure on tester (5).
 
 ### Notice
-`ssangyong_musso_en_651c2f85` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/00b1eb1abe328baf8e0045d20b4544baa9bdca20a1e0e7d962b9d29c510ae039.jpg)
 
@@ -13990,7 +12910,6 @@ Tester 617 589 04 21 00
 ![](images/24d5c13dd31ba7cc65bb5d5ac4cac313f4d5c2f8776c6fc945ff94301a645cd7.jpg)
 
 ### FUEL PUMP
-`ssangyong_musso_en_2088e24d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/313875489776beb1dab16176add5954959c323ff6f9fcd30f6792e9672227b85.jpg)
 
@@ -14000,7 +12919,6 @@ Tester 617 589 04 21 00
 4 Hose Clip · 1 Replace 8 Fuel Pump
 
 ### INJECTION NOZZLE TEST
-`ssangyong_musso_en_1806ddfa` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of fuel injection nozzle
 
@@ -14011,7 +12929,6 @@ Preceding Work Removal of fuel injection nozzle
 A Closed Spray = good B Stringy Spray = poor
 
 ### Notice
-`ssangyong_musso_en_c29ec853` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When testing the injection nozzle, do not place your hand into the spray of a nozzle. The spray will penetrate deep into the skin and destroy the tissue.
 
@@ -14039,7 +12956,6 @@ Open the valve (3) and slowly operate the hand lever at tester (approx. 1 stroke
 ![](images/625a485d4546fff7c5edd908db4583ad77240d6b657f221ea1eae1cc8f5654a3.jpg)
 
 ### Notice
-`ssangyong_musso_en_732fd9b1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If out of standard, repair the injection nozzle.
 
@@ -14051,7 +12967,6 @@ Slowly operate the hand lever at the tester until get a pressure of approx. 90ba
 ![](images/206834b841216ca6c95f56ffd1619f48c4d421ac0978167242d18abbc0ed6078.jpg)
 
 ### INJECTION NOZZLES
-`ssangyong_musso_en_342f32b7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ea3818063cdd192026a8cf50aed3829c337b665ed64e62143ab2f527f397e352.jpg)
 
@@ -14062,7 +12977,6 @@ Slowly operate the hand lever at the tester until get a pressure of approx. 90ba
 5 Fuel Injection Pipe 18Nm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_0e006e05` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the plastic clip from the injection pipe
 2. Remove the fuel return hose.
@@ -14078,14 +12992,12 @@ Slowly operate the hand lever at the tester until get a pressure of approx. 90ba
 Serration Wrench 001 589 65 09 00
 
 ### Notice
-`ssangyong_musso_en_b88143ca` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Pay attention o he nstallation position of new nozzle washer and tightening torque
 
 ![](images/e7f5ee969b593a096ef479c93a1aaf0e4ce0cbff4767afd456afaff437a25ebe.jpg)
 
 ### INJECTION NOZZLE REPAIR
-`ssangyong_musso_en_4a942df1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of fuel injection nozzle
 
@@ -14099,7 +13011,6 @@ Preceding Work Removal of fuel injection nozzle
 8 Nozzle Tensioning Nut 80Nm
 
 ### Notice
-`ssangyong_musso_en_0c357190` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Use protective jaws for clamping.
 
@@ -14122,14 +13033,12 @@ Cleaning Set 000 589 00 68 00
 ![](images/64ce9844b3d593a5ef4fe7fcd95335b7c2df62834385fe0d5d667fb81b0f4ea2.jpg)
 
 ### Notice
-`ssangyong_musso_en_8957fe06` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Nozzle needle (6) and nozzle body (7) should always be replaced as a pair.
 
 7. Check the fuel injection nozzle and adjust opening pressure if necessary.
 
 ### REMOVAL AND INSTALLATION OF INJECTION TIMING DEVICE
-`ssangyong_musso_en_d7db5b70` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of vacuum pump
 
@@ -14154,7 +13063,6 @@ Preceding Work Removal of vacuum pump
 17 Chain Tensioner 80Nm
 
 ### Tools Required
-`ssangyong_musso_en_a53b446a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 601 589 00 08 00 Flange
 601 589 05 21 00 Locking Screw
@@ -14163,7 +13071,6 @@ Preceding Work Removal of vacuum pump
 667 589 04 63 00 Retaining Plate
 
 ### Notice
-`ssangyong_musso_en_bd8b4bc0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the gasket.
 
@@ -14174,7 +13081,6 @@ Rotate the engine 1 revolution by hand and check TDC marking of the crankshaft a
 2. Loosen the camshaft sprocket bolt (14).
 
 ### Notice
-`ssangyong_musso_en_0cb56f4f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a82e875960c77b2d76c0cbf1628b2869ee5ebe10348bafce9721f1d93273f9dc.jpg)
 
@@ -14183,7 +13089,6 @@ Do not remove the bolt.
 4. Position the no.1 cylinder at ATDC 15°.
 
 ### Notice
-`ssangyong_musso_en_b93636d7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not rotate the engine with camshaft sprocket bolt or opposite direction of the engine rotation.
 
@@ -14192,7 +13097,6 @@ Do not rotate the engine with camshaft sprocket bolt or opposite direction of th
 5. Remove the plug (6) and seal (5) from the fuel injection pump and collect oil in a suitable vessel.
 
 ### Notice
-`ssangyong_musso_en_fc6b7868` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the seal.
 
@@ -14201,7 +13105,6 @@ Replace the seal.
 6. Install the locking screw (18) into the injection pump.
 
 ### Notice
-`ssangyong_musso_en_3476abf9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before tightening the bolts for the injection timing device and the camshaft sprocket, always remove the locking screw from the injection pump and reinstall the plug.
 
@@ -14214,7 +13117,6 @@ Locking Screw 601 589 05 21 00
 8. Remove the chain tensioner (17).
 
 ### Notice
-`ssangyong_musso_en_4ff74916` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the seal (16).
 
@@ -14227,7 +13129,6 @@ Replace the seal (16).
 10. Pull out the bolt (11) and washer (10).
 
 ### Installation Notice
-`ssangyong_musso_en_79ac957a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/23b200e16176fa138f1445cab474c52aa248f6ec6ec968f80873b0cdef9039cc.jpg)
 
@@ -14250,7 +13151,6 @@ Retaining Plate 667 589 04 63 00
 ![](images/f965f2fd26ab46adfc930e72bc1aa6a954d0a46f74fbe792f09478d491cfbe5d.jpg)
 
 ### INJECTION TIMING DEVICE
-`ssangyong_musso_en_d0412e5a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of injection timing device
 
@@ -14261,7 +13161,6 @@ Preceding Work Removal of injection timing device
 3 Governor Weights
 
 ### Disassembly & Assembly
-`ssangyong_musso_en_3b01c1cf` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the governor weights (3).
 
@@ -14272,7 +13171,6 @@ Preceding Work Removal of injection timing device
 3. Knock out the bushing with a proper drift. 4. Installation should follow the removal procedure in the reverse order.
 
 ### START OF DELIVERY TEST (POSITION SENSOR, RIV METHOD)
-`ssangyong_musso_en_6de2403f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ec5b845b83c74202dc8fd7900ed9996d3daaa2d56ea400481bd20aff69a7abf9.jpg)
 
@@ -14283,7 +13181,6 @@ Preceding Work Removal of injection timing device
 5 Screw Plug ： 30Nm
 
 ### Test Procedure
-`ssangyong_musso_en_11a38964` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the screw plug (5) and seal (4) and collect oil in a suitable vessel.
 
@@ -14301,14 +13198,12 @@ Position Sensor 617 589 08 21 00
 ![](images/f355559f2375d317fa45e893c81c1df214412f248044def9422a2ffdfda3f440.jpg)
 
 ### Notice
-`ssangyong_musso_en_7431b2ea` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If only lamp ‘A’ lights up, repeat the test and if out of specification, adjust start of delivery.
 
 ![](images/454074277b9554fe75660a0a34b0831e9be7557d8293bf11e650b219d631b7ef.jpg)
 
 ### Digital Tester, RIV Method (Connection Diagram for Testers Without Adapter)
-`ssangyong_musso_en_d3fd26ec` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ee55b161dc6e154016459a7219b92c03dfd3863ef9d29647fb0fce1b494826ca.jpg)
 
@@ -14319,7 +13214,6 @@ If only lamp ‘A’ lights up, repeat the test and if out of specification, adj
 5 Battery
 
 ### (Connection Diagram for Testers With Adapter)
-`ssangyong_musso_en_f4bfd472` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/106d9edcda04acec78103b14c50fd18f75b27535cd0390390ed743b0d9910dd2.jpg)
 
@@ -14328,7 +13222,6 @@ If only lamp ‘A’ lights up, repeat the test and if out of specification, adj
 45 TDC Pulse Sender Unit Battery 6 Rl Pulse Generator
 
 ### Test Procedure
-`ssangyong_musso_en_668a7d20` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the screw plug (7) and seal (8) collect oil in a suitable vessel.
 
@@ -14345,7 +13238,6 @@ Rl Sensor 617 589 10 21 00
 ![](images/41ade645a1ea37b53b4b52cca6814c854aa863d9f32606b22e46042511086218.jpg)
 
 ### Notice
-`ssangyong_musso_en_6e91f352` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If out of standard, adjust the start of delivery.
 
@@ -14374,7 +13266,6 @@ Position Sensor (RIV method)
 5 Scale Rl start of delivery = 14° - 16° ATDC
 
 ### Notice
-`ssangyong_musso_en_6bd193bb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not rotate the engine in opposite direction of engine rotation.
 
@@ -14393,7 +13284,6 @@ Do not rotate the engine in opposite direction of engine rotation.
 ![](images/fa0577f55c3fc9e32702e34b4a6724dcbbf925eaa2666c262aaa5fb4c85ae213.jpg)
 
 ### Notice
-`ssangyong_musso_en_464b5a33` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the adjustment range s not adequate, remove the injection pump and reinstall.
 
@@ -14404,7 +13294,6 @@ Position Sensor 617 589 08 21 00
 ![](images/dde868f6514d4ac996ef904f00d2c2ca3cff2e5983d50c6ee729d669584a5574.jpg)
 
 ### Digital tester (RIV Method)
-`ssangyong_musso_en_28566a54` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/180135b592e7f2cf5aaa9f824bfa9e394d0b94dca0cb8407880018ba6fcf2775.jpg)
 
@@ -14412,7 +13301,6 @@ Position Sensor 617 589 08 21 00
 2 Adjusting Screw   To the right : start of delivery retarded To the left : start of delivery advanced
 
 ### Adjustment Procedure
-`ssangyong_musso_en_4cd15447` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the bolt (3) at the supporting bracket.
 
@@ -14431,7 +13319,6 @@ Position Sensor 617 589 08 21 00
 ![](images/f8fb5c93c531f74113e83105822f8bf71c5d24128d4b3c094fe2fcdd60f3ea03.jpg)
 
 ### FUEL INJECTION PUMP
-`ssangyong_musso_en_a71486a1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of vacuum pump Removal of air cleaner housing Removal of intake manifold
 
@@ -14445,7 +13332,6 @@ Preceding Work Removal of vacuum pump Removal of air cleaner housing Removal of 
 23 Seal Replace
 
 ### Tools Required
-`ssangyong_musso_en_d297c7f2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 000 589 77 03 00 Box Wrench Insert
 601 589 00 08 00 Flange
@@ -14453,7 +13339,6 @@ Preceding Work Removal of vacuum pump Removal of air cleaner housing Removal of 
 601 589 05 14 00 Assembly CageRemoval
 
 ### Notice
-`ssangyong_musso_en_b09408b0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not rotate the engine in opposition direction of engine rotation.
 
@@ -14475,7 +13360,6 @@ Do not rotate the engine in opposition direction of engine rotation.
 10. Install the assembly cage (29) and remove the bolt (20) and pull off the washer (21).
 
 ### Notice
-`ssangyong_musso_en_59d2a89b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful that the bolt (20) is left hand thread.
 
@@ -14495,7 +13379,6 @@ Assembly Cage 601 589 05 14 00
 ![](images/cd655698283dbeb48e2a13195592860c02b76c26074121ff9c32ad7a1946fa58.jpg)
 
 ### Installation Procedure
-`ssangyong_musso_en_b3b76010` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Remove the screw plug (27) and seal (26) and collect oil in a vessel.
 
@@ -14544,7 +13427,6 @@ Locking Screw 601 589 05 21 00
 ![](images/9eb4d2320f630fb5edf579d508a7018e6fafa0625d80d98d819491ce2c804866.jpg)
 
 ### Notice
-`ssangyong_musso_en_3493fd28` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the seal.
 
@@ -14563,7 +13445,6 @@ Replace the seal.
 ![](images/c9e04e33aae873ca53950625682ceacaba69d15f58e43ce1c7fb98b38327a520.jpg)
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_948015ef` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications. 1G1-1 Intake Air Duct 1G1-4
 Fastener Tightening Specifications 1G1-1 Intake Manifold 1G1-5
@@ -14572,7 +13453,6 @@ On-Vehicle Service 1G1-2 Exhaust Manifold 1G1-9
 Air Cleaner 1G1-2
 
 ### AIR CLEANER
-`ssangyong_musso_en_af864c57` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7714d257054ad59a0d2ccad639872e6dccc9641b70d6b67a160765ee76d28109.jpg)
 
@@ -14583,7 +13463,6 @@ Air Cleaner 1G1-2
 5 Air Intake Shield
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_3ea0a6ed` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Release the clamp securing HFM sensor and air cleaner.
 2. Disengage the air cleaner assembly and HFM sensor assembly.
@@ -14598,7 +13477,6 @@ Air Cleaner 1G1-2
 6. Remove the air cleaner housing from insulator.
 
 ### Notice
-`ssangyong_musso_en_3d9fa558` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure the air cleaner to be seated in insulator.
 
@@ -14615,7 +13493,6 @@ Make sure the air cleaner to be seated in insulator.
 11. Installation should follow the removal procedure in the reverse order.
 
 ### INTAKE AIR DUCT
-`ssangyong_musso_en_02a81273` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/135f77e6d29043bee22f7ff5a185bc4a70ef0cd2d5a3777c70c3d1137b9abfcb.jpg)
 
@@ -14626,7 +13503,6 @@ Make sure the air cleaner to be seated in insulator.
 5 Intake Air Duct
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_34e10eff` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the clamp (1) and disconnect the HFM sensor.
 2. Remove the nut (3) (arrow).
@@ -14640,7 +13516,6 @@ Make sure the air cleaner to be seated in insulator.
 ![](images/f3286bf74e6e82d79f66c45684a68b39ba1a0a733149f97961e010d1f9a49193.jpg)
 
 ### INTAKE MANIFOLD
-`ssangyong_musso_en_f7ef9660` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of fuel distributor and injection valve
 
@@ -14671,7 +13546,6 @@ Preceding Work Removal of fuel distributor and injection valve
 23 Tapping Screw
 
 ### Upper Intake Manifold
-`ssangyong_musso_en_b8159a51` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the vacuum hose (8,9).
 
@@ -14680,14 +13554,12 @@ Preceding Work Removal of fuel distributor and injection valve
 3. Remove the upper intake manifold (5) after unscrewing the bolt (6).
 
 ### Notice
-`ssangyong_musso_en_85afe3e4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the gasket and replace it if necessary.
 
 4. Installation should follow the removal procedure in the reverse order.
 
 ### Lower Intake Manifold
-`ssangyong_musso_en_ea0edd7c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding work removal of upper intake manifold
 
@@ -14698,14 +13570,12 @@ Preceding work removal of upper intake manifold
 3. Unscrew the bolt (17) and remove the lower intake manifold (16).
 
 ### Installation Notice
-`ssangyong_musso_en_d03d32ad` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/4d06db92b6d985178e18046c37c1743536a451b5dea4ca651e540bbdf189325e.jpg)
 
 4. Start the engine and check for leaks at each connection part.
 
 ### RESONANCE FLAP
-`ssangyong_musso_en_3c6cdde9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b79d8305bfab048352522d72886b5aa9046df0a3249591fd6c2a83046ebf37d5.jpg)
 
@@ -14718,13 +13588,11 @@ Resonance Flap
 Gasket Replace
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_aad5cb9d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the 2 soft caps (1).
 2. Remove the upper resonance flap coupling after removing 4 bolts (2).
 
 ### Notice
-`ssangyong_musso_en_c651020f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Connect carefully the vacuum hose (4) for installation.
 
@@ -14737,24 +13605,20 @@ Connect carefully the vacuum hose (4) for installation.
 6. Installation should follow the removal procedure in the reverse order.
 
 ### Function Description
-`ssangyong_musso_en_6de14b94` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A pneumatically actuated resonance flap (5) is located on the intake manifold, and will be opened and closed by load, which operates resonance flap according to engine and controlled by ECU and rpm.
 
 ### 1. Resonance flap closed (at idle/partial load less than 3,800/rpm)
-`ssangyong_musso_en_ad3f9beb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The switch valve (7) will be adjusted by ECU and resonance falp will be colosed. By increasing air flow passage through dividing intaking air flow toward both air collection housing (8). This leads to a signficant increase in the torque in the lower speed range.
 
 ![](images/8febb8cac390ff5aa0b392242b2983ee4f76edc4318434605d5f46dc57970584.jpg)
 
 ### 2. Resonance flap open (at full load over 3,800/rpm)
-`ssangyong_musso_en_d8580488` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The switch valve (7) will not be adjusted by ECU and resonance falp (5) will be open. The colllected air in the air collection housing (8) will not be divided and intaking air passage will be shorten.
 
 ### EXHAUST MANIFOLD
-`ssangyong_musso_en_45b37970` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of air cleaner
 
@@ -14764,14 +13628,12 @@ Preceding Work Removal of air cleaner
 2 Gasket ·.······.·· Replace
 
 ### Notice
-`ssangyong_musso_en_b5a2a253` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check for nut damages and replace the nut if necessary.
 
 2. Remove the 23 nuts (1) from the stud bolt, and remove the exhaust manifold.
 
 ### Installation Notice
-`ssangyong_musso_en_fce62481` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8b43c5c4ce964dc4be913f51e4312ba14a7ae7f2a91925ac1f123d145c1d0697.jpg)
 
@@ -14782,7 +13644,6 @@ Check for nut damages and replace the nut if necessary.
 ![](images/8d283987b33f2fd83882de37209ab0c0b7d28885d95a352361ee0e7f4836c2d2.jpg)
 
 ### Replacement of Rivet Nut
-`ssangyong_musso_en_5abc8487` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Pull out the rivet nut from the connecting point of he exhaust manifold and the exhaust pipe using a proper bolt (arrow).
 
@@ -14791,7 +13652,6 @@ Check for nut damages and replace the nut if necessary.
 2. Insert a new rivet nut into the exhaust manifold hole, and tighten with a special tool (Caulking Bolt).
 
 ### Installation Notice
-`ssangyong_musso_en_ab1d14ad` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/df831bc559dd0cc374281fb59be27c7122a5c40c37bf492a8d292c357c93c4ef.jpg)
 
@@ -14800,7 +13660,6 @@ Caulking Bolt 103 589 01 39 00
 ![](images/fe93b4d2d7ab7abe38c2f1e6b4ec6592fd667936a810838c49c1caaf0359d0db.jpg)
 
 ### Removal and Installation of Exhaust Line
-`ssangyong_musso_en_0ac088cc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ae560a8089b8e219e1855fc615de9dc62e142428cd9a727936fd96a21223ad65.jpg)
 
@@ -14824,7 +13683,6 @@ Caulking Bolt 103 589 01 39 00
 18 Nut 28-47 Nm
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_b4b595fc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications. 1G2-1 Air Intake Shield 1G2-4
 Fastener Tightening Specifications . 1G2-1 Intake Air Duct 1G2-5
@@ -14833,7 +13691,6 @@ On-Vehicle Service 1G2-2 Exhaust Manifold 1G2-9
 Air Cleaner 1G2-2
 
 ### AIR CLEANER
-`ssangyong_musso_en_dccf7fef` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8cde866852db489a6ebfd01a9ff91dc00d58aa9f3449de55a3679a6754e05dcf.jpg)
 
@@ -14845,7 +13702,6 @@ Air Cleaner 1G2-2
 56 Air Inlet Duct Bolt (M8 × 30 22.5-27.5 Nm Bolt (M6 × 35 9-11 Nm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_3ea0a6ed` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Release the clamp securing HFM sensor and air cleaner.
 2. Disengage the air cleaner assembly and HFM sensor assembly.
@@ -14860,7 +13716,6 @@ Air Cleaner 1G2-2
 6. Remove the air cleaner housing from insulator.
 
 ### Notice
-`ssangyong_musso_en_3d9fa558` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure the air cleaner to be seated in insulator.
 
@@ -14877,7 +13732,6 @@ Make sure the air cleaner to be seated in insulator.
 11. Installation should follow the removal procedure in the reverse order.
 
 ### AIR INTAKE SHIELD
-`ssangyong_musso_en_4e66344a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of air cleaner
 
@@ -14892,7 +13746,6 @@ Preceding Work Removal of air cleaner
 7 Bracket
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_d68afbe1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the upper cover (3) from the air intake shield (5) upper mounting pin.
 2. Remove the bolts (4 and 6).
@@ -14900,7 +13753,6 @@ Preceding Work Removal of air cleaner
 4. Installation should follow the removal procedure in the reverse order.
 
 ### INTAKE AIR DUCT
-`ssangyong_musso_en_1a246071` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/860431f58972917d988410642fba25445ad25c18c69ad8ec7a4f2250e19c71e4.jpg)
 
@@ -14914,7 +13766,6 @@ Preceding Work Removal of air cleaner
 Bracket
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_3c4efb9a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Release the clamp (1) and intake air duct.
 
@@ -14925,14 +13776,12 @@ Bracket
 3. Release the clamp (7) and remove the intake air duct.
 
 ### Notice
-`ssangyong_musso_en_b6ad63ec` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Completely fit the intake air duct with the mounting bracket (8).
 
 ![](images/344e2fa40ac43961a1fb569119f916cb11fabbc24ce8ac7d58e6c21e9092d7b4.jpg)
 
 ### INTAKE MANIFOLD
-`ssangyong_musso_en_50fdf5e8` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Preceding Work Removal of intake air duce Removal of fuel distributor and injector
 
@@ -14948,7 +13797,6 @@ Preceding Work Removal of intake air duce Removal of fuel distributor and inject
 8 Connection Piece With Seal Ring 36-44 Nm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_df8b3f57` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 1. Disconnect the battery ground cable.
 2. Remove idle speed control plug connector (arrow).
@@ -14960,7 +13808,6 @@ Preceding Work Removal of intake air duce Removal of fuel distributor and inject
 4. Disconnector the rod from bearing bracket assembly and remove the connection piece (8).
 
 ### Installation Notice
-`ssangyong_musso_en_ae224550` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c1a04ee63ee855025c68598e7869b51ebf2d03b1e9a81c573c9df27d35887b3a.jpg)
 
@@ -14969,7 +13816,6 @@ Preceding Work Removal of intake air duce Removal of fuel distributor and inject
 5. Unscrew the three bolts (4) and remove the idle regulator and intermediate flange (6).
 
 ### Installation Notice
-`ssangyong_musso_en_7b1836dc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/76dca47af21221dc08c563bea2155ad39525e078ee635ddb95f4514abf8ad956.jpg)
 
@@ -14982,7 +13828,6 @@ Installation Notice
 7. Unscrew the intake manifold assembly mounting bolts (1) and remove the intake manifold and gasket.
 
 ### Notice
-`ssangyong_musso_en_c08e79fb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the gasket with new one.
 
@@ -14991,7 +13836,6 @@ Replace the gasket with new one.
 ![](images/545f2befa47ebffe7d38e699de5586f41f6ab000593b3c4b1e9daa5a05006bd4.jpg)
 
 ### EXHAUST MANIFOLD
-`ssangyong_musso_en_37cd7fe0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8b50da12f727515051a067073248df5caa35f088f233b164f10f0fb1a4b56409.jpg)
 
@@ -15004,7 +13848,6 @@ Replace the gasket with new one.
 7 Gasket Replace
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_7b496b23` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the oxygen sensor if necessary. Installation Notice
 
@@ -15015,14 +13858,12 @@ Replace the gasket with new one.
 3. Unscrew the flange bolt (6) of front exhaust pipe and separate the front exhaust pipe.
 
 ### Notice
-`ssangyong_musso_en_957ffc6e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the exhaust pipe mounting nut, and replace it with new one if necessary.
 
 4. Unscrew the eleven nuts (4) and remove the exhaust manifold (5) and gasket (7).
 
 ### Installation Notice
-`ssangyong_musso_en_59bd1d98` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/60790e7f103f052ee01dfba7c4bbf39dbd0f2371380b4f70b81fd35286c2ec21.jpg)
 
@@ -15033,7 +13874,6 @@ Check the exhaust pipe mounting nut, and replace it with new one if necessary.
 ![](images/2a900e4aca9bbfb9c927b9842e8271f371ac963e03a1c58b85da5e32534939f2.jpg)
 
 ### Removal and Installation of Exhaust Line
-`ssangyong_musso_en_5b80e351` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/07e0bff65cfa3b1d62d373927b772dffb4c804da2599eb57793cec54d72cd5c1.jpg)
 
@@ -15047,12 +13887,10 @@ Check the exhaust pipe mounting nut, and replace it with new one if necessary.
 8 Heat Pro-Tector Rear Exhaust
 
 ### OM600 ENGINE INTAKE & EXHAUST
-`ssangyong_musso_en_15424861` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Discon ect thenegative baterycable beforeremoving orinstalingany electrical unitor whena to lorequipmentcouldeasilycomeincontactwithexposedelectrical terminals. Discon ectingthiscable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_0ca65afa` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications 1G3-1
 Fastener Tightening Specifications 1G3-1
@@ -15068,7 +13906,6 @@ Intercooler 1G3-9
 Turbocharger Assembly 1G3-11
 
 ### AIR CLEANER AND INLET DUCT & HOSE
-`ssangyong_musso_en_c2c87bf6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5f8eb305c5c095068d09a58ee00548addcc2ec79ab76d553d13c64c1bc7c6ce7.jpg)
 
@@ -15083,7 +13920,6 @@ Turbocharger Assembly 1G3-11
 9 Mounting Bracket
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_3713de1a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Loosen the air duct hose clamp and then remove the air cleaner and air duct hose.
 
@@ -15098,7 +13934,6 @@ Turbocharger Assembly 1G3-11
 ![](images/ec06a457c6ea288f2123cb2520cc4078738ee60e08f1f09c2f3937215a32dde0.jpg)
 
 ### Notice
-`ssangyong_musso_en_5225e1c4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not fold the rubber.
 
@@ -15111,7 +13946,6 @@ Do not fold the rubber.
 7. Installation should follow the removal procedure in the reverse order.
 
 ### INTAKE AND EXHAUST MANIFOLD
-`ssangyong_musso_en_58839e72` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d92b8a07ea4b2a98ec874f454c7d962db5d5b48c55003b22688e79b7ab58bba9.jpg)
 
@@ -15129,7 +13963,6 @@ Do not fold the rubber.
 12 Intake Gasket
 
 ### Exhaust Line
-`ssangyong_musso_en_72ed99c6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e4d584d572e6e7c5db7eada892547f62b8ae3d5c8170675a495a1dc0488ea9dc.jpg)
 
@@ -15144,7 +13977,6 @@ Do not fold the rubber.
 9 Tail Exhaust Pipe Assembly
 
 ### Notice
-`ssangyong_musso_en_41f8d22e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When tightening the nut(3), maintain the clearance between exhaust manifold(1) and front exhaust pipe.
 
@@ -15153,7 +13985,6 @@ When tightening the nut(3), maintain the clearance between exhaust manifold(1) a
 2. Remove the nut from the front of center muffler and then remove the front exhaust pipe.
 
 ### Installation Notice
-`ssangyong_musso_en_752d4603` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b9d4dd34e599777854c9e030c8f975d56c2299b51565194fcf29c188dca27c1a.jpg)
 
@@ -15162,7 +13993,6 @@ When tightening the nut(3), maintain the clearance between exhaust manifold(1) a
 3. Remove the nut from the rear of center muffler and then remove the tail muffler.
 
 ### Installation Notice
-`ssangyong_musso_en_0e13d7c7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/868081c6ad3ccebba240df537ca705eee234aeb00ef626fa0283934dc7c3dbcc.jpg)
 
@@ -15173,7 +14003,6 @@ When tightening the nut(3), maintain the clearance between exhaust manifold(1) a
 ![](images/a8d0233d4d57396e9a0e86b6c6b0555708735c953a8628d25362ed6c7b52c150.jpg)
 
 ### CHARGE AIR SYSTEM DIAGRAM
-`ssangyong_musso_en_7eb76c78` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7fed8c014ca75c88b1b5af2dc4d06365cf6fa35ab38004e5c7cf0d96cbb4569d.jpg)
 
@@ -15189,7 +14018,6 @@ When tightening the nut(3), maintain the clearance between exhaust manifold(1) a
 10 Cylinder
 
 ### INTERCOOLER
-`ssangyong_musso_en_8cb067b8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/60d333a3fca65fda113e3cab7b5507f4131d3294d4a1617b208b4474acc8c5fd.jpg)
 
@@ -15202,7 +14030,6 @@ When tightening the nut(3), maintain the clearance between exhaust manifold(1) a
 8 Bolts
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_b6fc1504` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the hose connected to turbocharger and intake duct.
 
@@ -15221,7 +14048,6 @@ When tightening the nut(3), maintain the clearance between exhaust manifold(1) a
 ![](images/8f2433c78554ccace4d66bcae192c5b97a6290a619fc363d956057ce8569159d.jpg)
 
 ### TURBOCHARGER ASSEMBLY
-`ssangyong_musso_en_eee4eccc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b08cf4572c52c4beab4e652b515968d14201d444fb6065ec41ef766b7ef3b393.jpg)
 
@@ -15231,7 +14057,6 @@ When tightening the nut(3), maintain the clearance between exhaust manifold(1) a
 4 Turbocharger
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_7d393937` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the 2 hoses connected to intercooler.
 
@@ -15253,7 +14078,6 @@ When tightening the nut(3), maintain the clearance between exhaust manifold(1) a
 ![](images/b5ca4d47653aa336eb8d4174591dbd173d529e50a6eb9f68fafd02a022f130db.jpg)
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_4f576a1d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications 2A-1
 General Specifications 2A-1
@@ -15273,14 +14097,12 @@ Self Diagnosis Test 2A-12
 Diagnosis Test 2A-12
 
 ### GENERAL DIAGNOSIS
-`ssangyong_musso_en_a3e8c962` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Problems in the steering, the suspension, the tires, and the wheels involve several systems. Consider all systems when you diagnose a complaint. Some problems, such as abnormal or excessive tire wear and scuffed tires, may by the result of hard driving. Always road test the vehicle first. If possible, do this road test with the customer.
 
 Proceed with the following preliminary checks. Correct any substandard conditions.
 
 ### INPUT & OUTPUT DEVICES
-`ssangyong_musso_en_34f750c2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Damping force of shock absorber will rotate shock absorber control rod in 3 modes by driving actuator on the upper shock absorber when signaled from ECS.
 
@@ -15289,7 +14111,6 @@ Rotary valve in the shock absorber will control hydraulic flow according to rota
 ![](images/a1ae6e7a25269de5ba958a22b19893058714e9a8290e97c3139682716e772f36.jpg)
 
 ### SYSTEM LAYOUT
-`ssangyong_musso_en_d6d72af9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/1092018cb0c77d332a60a7bcbaf4f6d7f88a2cf0b9703dc628e8b56c00e82fd5.jpg)
 
@@ -15304,30 +14125,25 @@ Sensor)
 7 Mode Actuator
 
 ### DAMPING FORCE CONTROL LOGIC
-`ssangyong_musso_en_d10a4fad` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Control Logic that applies on damping force variable suspension is comprised of road sensing driving comfort control logic to increase driving comfort and vehicle speed sensing control logic, anti-roll control logic and anti-dive control logic to secure control safety.
 
 ![](images/fa38aa1018ab902d29b6d79f51d1e5156c287aaf609c46db18650aa3e5ab86c4.jpg)
 
 ### Initial Stage
-`ssangyong_musso_en_4014fa37` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When ignition switch is "ON", system initialization will be performed for approx. 3 seconds. During this time, warning lamp will stay ON and damping force will be switched to Hard status. After 3 seconds, warning lamp will turn off and normal control status will be restored.
 
 ### Normal Damping Force Control Establishment
-`ssangyong_musso_en_d9d40e6d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Damping force will have Soft® Medium® Hard status in AUTO mode and Medium® Hard status in SPORT mode.
 When double control items are satisfied at the same time it will be Hard® Medium® Soft in order.
 
 ### Normal Damping Force Control Release
-`ssangyong_musso_en_0cb8fac6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Control mode release will be "Hard® Medium® Soft"or "Medium® Soft". In case that returned from Hard status to Medium status during control, it will be done after elapse of setting times. Returning from Medium status to Soft status will be done immediately without delay.
 
 ### SELF-DIAGNOSIS
-`ssangyong_musso_en_dd66673e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ECS-ECU indicates ECS circuit defectives to the driver by flickering ECS indicator lamp in the meter cluster 0.5 second of interval if there are defectives.
 
@@ -15335,14 +14151,12 @@ ECS-ECU indicates ECS circuit defectives to the driver by flickering ECS indicat
 1. Turn the ignition switch ON and if ECS system is normal, ECS indicator lamp will turn on for 3 seconds and then go off. However if defective, ECS indicator lamp will flicker in the interval of 0.5 second continuously. 2. Identify fault code with Scanner.
 
 ### ACTUATOR INSPECTION
-`ssangyong_musso_en_1c942e7c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Output position of the actuator should be changed as below when battery voltage is applied between actuator connector terminals.
 
 ![](images/58703f564da9d7de804be4796c06a231ca880525be8baed1235e97970548b729.jpg)
 
 ### SCHEMATIC AND ROUTING DIAGRAMS
-`ssangyong_musso_en_d92533ff` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b00b63c54f77d062066f80f50b0e6c39c59e6901394d516875cc909cca2cc356.jpg)
 
@@ -15354,7 +14168,6 @@ Connector Pin Number and Circuits
 ![](images/dbf7ed934c21ad44e82b2aead5150e0a483950cfe92d32ec98856b5e46cdd23f.jpg)
 
 ### DIAGNOSIS TEST
-`ssangyong_musso_en_293344bb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Special Tool Requirements Scanner
 
@@ -15373,7 +14186,6 @@ Notice Check sensor value output display, if necessary.
 8. Determine the fault code and check defective component.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_8c80ceb0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications 2B-1
 Wheel Alignment Specifications 2B-1
@@ -15392,7 +14204,6 @@ Caster 2B-9
 Camber 2B-9
 
 ### Irregular and Premature Wear
-`ssangyong_musso_en_8ef606a2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Irregular and premature tire wear has many causes. Some of them are incorrect inflation pressures, lack of regular rotation, poor driving habits, or improper wheel alignment.
 
@@ -15406,12 +14217,10 @@ The wear is uneven across the tread of either front tire.
 The front tire treads are scuffed with “feather” edges on the side of the tread ribs or blocks.
 
 ### Tread Wear Indicators
-`ssangyong_musso_en_8a2a77d6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The original equipment tires have built-in tread wear indicators to show when the tires need replacement. These indicators appear as bands when the tire tread depth becomes shallow. Tire replacement is recommended when the indicators appear in three or more grooves at six locations.
 
 ### Radial Tire Waddle
-`ssangyong_musso_en_45ab8701` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Waddle is side-to-side movement at the front or rear of the vehicle. It is caused by the steel belt not being straight within the tire, or by excessive lateral runout of the tire or wheel.
 
@@ -15429,7 +14238,6 @@ Waddle can be diagnosed using the method of substituting known good tire and whe
 ![](images/8da55a1ceac511d88ba4d5aac1bbe6a938fd2fc467a240276e360935b1ee2eed.jpg)
 
 ### RADIAL TIRE LEAD/PULL
-`ssangyong_musso_en_24536801` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Lead/pull is the deviation of the vehicle from a straight path on a level road with no pressure on the steering wheel. Lead is usually caused by:
 
@@ -15445,7 +14253,6 @@ Radial Tire Lead/Pull Diagnosis Chart
 ![](images/1d1b9cb32fa84dbd6cab038a4b85f2aedffe310cbcfeb26148c8fa26d496400d.jpg)
 
 ### VIBRATION DIAGNOSIS
-`ssangyong_musso_en_02821b4f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Wheel imbalance causes most highway speed vibration problems. A vibration can remain after dynamic balancing because:
 
@@ -15456,7 +14263,6 @@ A tire stiffness variation exists.
 Measuring tire and wheel free runout will uncover only part of the problem, All three causes, known as loaded radial runout, must be checked using method of substituting known good tire and wheel assemblies on the problem vehicle.
 
 ### Preliminary Checks
-`ssangyong_musso_en_86bf652b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Prior to performing any work, always road test the car and perform a careful visual inspection for:
 
@@ -15473,14 +14279,12 @@ Imperfections in the tires, including: tread deformations, separations, or bulge
 ![](images/b4ecc9196ac32bac25e84573bff399c94cf8715e4d983b91e8cd3acdbf476f13.jpg)
 
 ### Tire Balancing
-`ssangyong_musso_en_184ff45c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Balance is the easiest procedure to perform and should be done first if the vibration occurs at high speeds. Do an off-vehicle, two-plane dynamic balance first to correct any imbalance in the tire and wheel assembly.
 
 An on-vehicle finish balance will correct any brake drum, rotor, or wheel cover imbalance, If balancing does not correct the high-speed vibration, or f he vibration occurs at low speeds, runout is the probable cause.
 
 ### Vehicle Height
-`ssangyong_musso_en_a6f7eefc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Check the tire for proper inflation.
 2. Measure ‘A’ from the center of the lower arm rear mounting bolt end to the ground.
@@ -15496,7 +14300,6 @@ An on-vehicle finish balance will correct any brake drum, rotor, or wheel cover 
 ![](images/27bd3bd31feadd3ee2bd9e05c5af4e4571b7272f2e96fa672ae29c760922465d.jpg)
 
 ### Toe-in
-`ssangyong_musso_en_6fd8cecb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Measure toe-in.
 
@@ -15507,7 +14310,6 @@ An on-vehicle finish balance will correct any brake drum, rotor, or wheel cover 
 ![](images/27c68cb6ca72b221069ec879c971f1b4a09f59a2273edb9fef39513e847fe009.jpg)
 
 ### Camber
-`ssangyong_musso_en_5fe9ad73` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the free wheel hub.
 2. Measure camber with a wheel alignment equipment.
@@ -15519,14 +14321,12 @@ An on-vehicle finish balance will correct any brake drum, rotor, or wheel cover 
 3. If camber measurements are not within specification, adjust it by increasing or decreasing the number of adjusting shims (1) inserted between the upper arm shaft and cross bracket.
 
 ### Notice
-`ssangyong_musso_en_77286659` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Difference between the left and right should be adjusted within 30’.
 
 ![](images/9eaa4856ed3b07b8a36c92da6de6504c908d59e1df8cb30c02ec243dfaa35b6d.jpg)
 
 ### Caster
-`ssangyong_musso_en_1c0422ff` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the free wheel hub.
 
@@ -15539,14 +14339,12 @@ Difference between the left and right should be adjusted within 30’.
 3. If caster measurements are not within specification, adjust it by increasing 1ea (rear) or decreasing 1ea (front).
 
 ### Notice
-`ssangyong_musso_en_7295558a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Difference between the left and right should be adjusted within 30’.
 
 ![](images/9f6392badfec9418cd9c6cc00ac408781a6652cd69b2135aa016d26212754ae2.jpg)
 
 ### CASTER
-`ssangyong_musso_en_8f908af8` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 The first responsibility of engineering is to design safe steering and suspension systems. Each component must be strong enough to withstand and absorb extreme punishment. Both the steering system and the front and the rear suspension must function geometrically with thebody mass.
 
@@ -15559,7 +14357,6 @@ Four-wheel alignment assures that all four wheels will be running in precisely t
 When the vehicle is geometrically aligned, fuel economy and tire life are at their peak, and steering and performance are maximized.
 
 ### TOE
-`ssangyong_musso_en_1fd663a9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Toe-in is the turning in of the tires, while toe-out is the turning out of the tires from the geometric centerline or thrust line. The toe ensures parallel rolling of the wheels. The toe serves to offset the small deflections of the wheel support system which occur when the vehicle is rolling forward. The specified toe angle is the setting which achieves 0 degrees of toe when the vehicle is moving. Incorrect toe-in or toe-out will cause tire wear and reduced fuel economy. As the individual steering and suspension components wear from vehicle mileage, additional oe will be needed to compensate for the wear.
 
@@ -15568,14 +14365,12 @@ Always correct the toe dimension last.
 Caster is the tilting 91 the uppermost point of the steering axis either forward or backward from the vertical when viewed from the side of the vehicle. A backward tilt is positive, and a forward tilt is negative. Caster influences directional control of the steering but does not affect tire wear. Weak springs or overloading a vehicle will affect caster. One wheel with more positive caster will pull toward the center of the car. This condition will cause the car to move or lean toward the side with the least amount of positive caster. Caster is measured in degrees.
 
 ### CAMBER
-`ssangyong_musso_en_e284ce54` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Camber is the tilting of the top of the tire from the vertical when viewed from the front of the vehicle. When the tires tilt outward, the camber is positive. When the tires tilt inward, the camber is negative. The camber angle is measured in degrees from the vertical. Camber influences both directional control and tire wear.
 
 If the vehicle has too much positive camber, the outside shoulder of the tire will wear. If the vehicle has too much negative camber, the inside shoulder of the tire will wear.
 
 ### FRONT SUSPENSION TABLE OF CONTENTS
-`ssangyong_musso_en_10f358b1` | musso | pdf_manual | tier:4 | lang:en | layer:suspension | p:1 | doc_type:service_manual
 
 Specifications 2C-1
 General Specifications 2C-1
@@ -15594,7 +14389,6 @@ Vertical and Lateral Sensor 2C-13
 ECS (ECU) 2C-14
 
 ### FRONT SUSPENSION
-`ssangyong_musso_en_1c1712fb` | musso | pdf_manual | tier:4 | lang:en | layer:suspension | p:1 | doc_type:service_manual
 
 ![](images/d0e65410475d9c08b8b68f239258ead4bdd947fac0ee832cd8e13df74c850017.jpg)
 
@@ -15607,7 +14401,6 @@ ECS (ECU) 2C-14
 7 Suspension Bumper
 
 ### FRONT STABILIZER BAR
-`ssangyong_musso_en_67f8426c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ab2b7b8fea9332a33c15f0d3b5abfc8351d4d369defef97b926d7590da91ddbc.jpg)
 
@@ -15626,7 +14419,6 @@ ECS (ECU) 2C-14
 13 Nut 16-22 Nm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_5a81312b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the connecting nuts (1) from stabilizer bar link.
 
@@ -15637,7 +14429,6 @@ Installation Notice
 2. Remove the connecting nuts (2) of the stabilizer bar and link and then remove the link.
 
 ### Installation Notice
-`ssangyong_musso_en_cdfbf68c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ea452d1ea66d76630e83d45ed0ea3d9e66816ff9a196314ec6cb11164272d95b.jpg)
 
@@ -15652,14 +14443,12 @@ Installation Notice
 4. Installation should follow the removal precedure in the reverse order.
 
 ### Notice
-`ssangyong_musso_en_3c91045d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The distance between the end of the nut and the end of the link should be in 10-13 mm at the connection of the stabilizer bar link and lower arm.
 
 ![](images/9df8c65a2e28c6083a59bcf92ae629c971e3a597aebb98bfa451805d993be054.jpg)
 
 ### TORSION BAR
-`ssangyong_musso_en_3e0d23d0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9aed115c9105375decb9277acd439002eb42b75ea30a2e89f8b32d909e37453d.jpg)
 
@@ -15678,7 +14467,6 @@ M12 60-80 Nm
 12 Height Control Seat
 
 ### Installation Notice
-`ssangyong_musso_en_1d7a5ec7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f037bfa172e08250e06682c9f0661f7c6f569c25a80d8a0ddfe1c9fb661523b0.jpg)
 
@@ -15695,7 +14483,6 @@ Installation Notice
 3. Turn the height control bolt until the distance between the end of the height control bolt end piece and the bolt end becomes 0-5 mm.
 
 ### Installation Notice
-`ssangyong_musso_en_94705c40` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Install the torsion bar spring and adjust the distance between the end of the height control bolt and piece end the bolt end to be 50-55 mm. Adjust the vehicle height.
 
@@ -15704,7 +14491,6 @@ Install the torsion bar spring and adjust the distance between the end of the he
 4. Remove the torque arm fixing nuts and bolts and then withdraw the torsion bar spring.
 
 ### Installation Notice
-`ssangyong_musso_en_9dc73d53` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/50b6ee6f9236fb084c28df4cd8ff42b4a849eab179a8e195200cc3b792140122.jpg)
 
@@ -15715,7 +14501,6 @@ Install the torsion bar spring and adjust the distance between the end of the he
 ![](images/80644844756227e0a0877142ed85629073160d9ddd2eafbd6cc6fea8f3691f68.jpg)
 
 ### FRONT LOWER AND UPPER ARM
-`ssangyong_musso_en_5d0d61f6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work : Removal of the torsion bar spring Removal of the steering knuckle and drive shaft
 
@@ -15740,7 +14525,6 @@ Preceding Work : Removal of the torsion bar spring Removal of the steering knuck
 17 Nut 60-80 Nm
 
 ### Installation Notice
-`ssangyong_musso_en_1c279e95` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/084afba562ba1cee9f7884bc96a710aa2060a31dab36c790dd79e91f389cd852.jpg)
 
@@ -15749,7 +14533,6 @@ Preceding Work : Removal of the torsion bar spring Removal of the steering knuck
 2. Remove the fulcrum pin mounting bolts and nuts and remove the upper arm assembly.
 
 ### Installation Notice
-`ssangyong_musso_en_db4c7ebe` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/162778c15696832ce6b0f4296eb16ac9de4535fbdf83e567868ebdc9e03074c2.jpg)
 
@@ -15758,7 +14541,6 @@ Preceding Work : Removal of the torsion bar spring Removal of the steering knuck
 3. Remove the lower arm mounting bolts (2).
 
 ### Installation Notice
-`ssangyong_musso_en_5407138e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/4e1f4c388a17a984f03c3a6b888cc8ce4ee583ca9f5362fcc7508314d1cb9996.jpg)
 
@@ -15767,7 +14549,6 @@ Preceding Work : Removal of the torsion bar spring Removal of the steering knuck
 4. Pull out the cotter pin from the lower arm ball end assembly and remove lower arm after loosening the slotted nut.
 
 ### Notice
-`ssangyong_musso_en_104ffdec` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the cotter pin with new one.
 
@@ -15776,7 +14557,6 @@ Replace the cotter pin with new one.
 ![](images/56885db5a309a824df3ab808d1064b1d174faa1a40dcd61837c5454567a0d052.jpg)
 
 ### FRONT SHOCK ABSORBER
-`ssangyong_musso_en_c2df4d12` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/892d3cb036a18a12d46cfafa0aaa82e4041bb3f5c6de6d86de6276ec55d3e23f.jpg)
 
@@ -15788,12 +14568,10 @@ Replace the cotter pin with new one.
 6 Nut 40-60Nm
 
 ### Notice
-`ssangyong_musso_en_cc35cad3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When installing the actuator to the mounting bracket, the wiring should face the front of the frame.
 
 ### Notice
-`ssangyong_musso_en_30853e57` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 2. Unscrew the upper nut (6).
 
@@ -15804,7 +14582,6 @@ When screwing the nut, actuator contacting surface of the mounting bracket and r
 3. Remove the mounting bracket (5).
 
 ### Notice
-`ssangyong_musso_en_5b9619b7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When installing the bracket, it should be vertical to the frame side member.
 
@@ -15813,14 +14590,12 @@ When installing the bracket, it should be vertical to the frame side member.
 5. Unscrew shock absorber lower bolt and nut and remove the shock absorber.
 
 ### Notice
-`ssangyong_musso_en_9ae626b1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Shock absorber is filled with gas, never attempt to cut or heat.
 
 6. Installation should follow the removal procedure in the reverse order.
 
 ### AXLE VERTICAL ACCELERATION SENSOR (WHEEL G SENSOR)
-`ssangyong_musso_en_27d67a6f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/fb8ed7daf19b9bef2007255626bb2f9b94d5e0c8668c688e4c81f9cf32c9d82f.jpg)
 
@@ -15830,14 +14605,12 @@ Shock absorber is filled with gas, never attempt to cut or heat.
 3 Bolt (M6) 1 20 30Nm
 
 ### Notice
-`ssangyong_musso_en_e6ba51ee` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Installation of wiring connector should be as shown in the right drawing.
 
 2. Unscrew bolts (3) and remove the axle vertical acceleration sensor (1).
 
 ### Notice
-`ssangyong_musso_en_5ddcc1a5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When installing the sensor to the bracket, the sensor wiring should be upward.
 
@@ -15850,14 +14623,12 @@ When installing the sensor to the bracket, the sensor wiring should be upward.
 4 Frame Side Member
 
 ### Notice
-`ssangyong_musso_en_67cd7723` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When connecting the connectors, connector connection of the lateral sensor (2) should be in the right and connector connection of the vertical sensor (1) should face downward.
 
 2. Unscrew bolts and remove vertical sensor and lateral sensor.
 
 ### Installation Notice
-`ssangyong_musso_en_10637069` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/6ffc15c10c09b5e25745e9bbf0bc1f353c82994d3b0a1f6fa17b8d783e3a52d0.jpg)
 
@@ -15869,7 +14640,6 @@ When connecting the connectors, connector connection of the lateral sensor (2) s
 2 Body Lateral Acceleration Sensor (Lateral Sensor)
 
 ### ECS (ECU)
-`ssangyong_musso_en_624b6be6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2a728ac582317a767051b24846e4d74fe7b392ea9eb4b793e91e17e8aa9a468d.jpg)
 
@@ -15880,7 +14650,6 @@ When connecting the connectors, connector connection of the lateral sensor (2) s
 5 Over Voltage Protection Relay
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_27e72be2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect each connectors from the console box and remove the console box.
 2. Disconnect ECU connector.
@@ -15888,7 +14657,6 @@ When connecting the connectors, connector connection of the lateral sensor (2) s
 4. Installation should follow the removal procedure in the reverse order.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_bd85ab05` | musso | pdf_manual | tier:4 | lang:en | layer:suspension | p:1 | doc_type:service_manual
 
 Specifications. 2D-1 Heating . 2D-3
 General Specifications 2D-1 Component Locator 2D-4
@@ -15899,7 +14667,6 @@ Oil Leakage 2D-2 Rear Shock Absorber 2D-9
 Noise (During Turning) 2D-2
 
 ### COMPONENT LOCATOR
-`ssangyong_musso_en_c19c607c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/12422c7626c44ececf11a541a80bf1ca38a3df525d00c57684475def2d9df001.jpg)
 
@@ -15913,7 +14680,6 @@ Noise (During Turning) 2D-2
 8 Stabilizer Bar
 
 ### REAR SUSPENSION (5 LINK)
-`ssangyong_musso_en_dc417f0b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/1e0f9493988888c1ee354e27065fad3f4b5703dd790fc1c78f7c5d3b3194f726.jpg)
 
@@ -15925,7 +14691,6 @@ Noise (During Turning) 2D-2
 8 Stabilizer Bar
 
 ### Installation Notice
-`ssangyong_musso_en_a61a5863` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a3249b81c6f4ee75923b2b8be75bfffb5d535d6c8576787d1ec50fe931561b57.jpg)
 
@@ -15934,14 +14699,12 @@ Noise (During Turning) 2D-2
 2. Remove the stabilizer bar cap fixing bolts (arrow) and remove the stabilizer bar.
 
 ### Installation Notice
-`ssangyong_musso_en_f074f6f1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/36ac0c44f7ad5c01aa0aa20d278ef83e1fab89fd8b900eded5002649cdbd3331.jpg)
 
 ![](images/d7fcbf93bec5116545803d76a097aae5258352e8ff46108ec4208855a40e1a04.jpg)
 
 ### Installation Notice
-`ssangyong_musso_en_e18e65f5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/117deecfb458f6e21fb7546c8c21369a865c642a86795358dcefdbfaedfccad7.jpg)
 
@@ -15950,7 +14713,6 @@ Noise (During Turning) 2D-2
 2. Remove the lateral rod fixing nut from the rear axle and remove the lateral rod.
 
 ### Installation Notice
-`ssangyong_musso_en_d044e8d7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0ac6a0418084b7158d497e5f86df444ffe854313c7023abef8d17cdc048ee276.jpg)
 
@@ -15961,14 +14723,12 @@ Shock Absorber.
 1. Remove the lower mounting nut.
 
 ### Installation Notice
-`ssangyong_musso_en_d17e728f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a6586cd3e1c0b53bf4733b6b61f9817627b133bb7f727816ae7a7872fe1849e4.jpg)
 
 2. Remove the upper mounting nut and remove the shock absorber.
 
 ### Installation Notice
-`ssangyong_musso_en_bbf1d4a3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/dbf1e3bb98e949ea5c2e7638195c67086c01550d5b1d4de89a39f12189e2ac0e.jpg)
 
@@ -15985,7 +14745,6 @@ Installation Notice
 2. Remove the upper arm fixing nut from the rear axle and remove the upper arm.
 
 ### Installation Notice
-`ssangyong_musso_en_3c69950b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/90100e04c1fc3f1ad8f92742928334ecd5df57b4985777a82ce8825e2b896aed.jpg)
 
@@ -15998,21 +14757,18 @@ Lower arm
 2. Remove the lower arm fixing nut from the frame.
 
 ### Installation Notice
-`ssangyong_musso_en_81c8ad5c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/3dac4149a0e5645baf20f8bc522880ab6357ed4e7e55c1b8a72ba1f936dd1118.jpg)
 
 3. Remove the lower arm fixing nut from the rear axle and remove the lower arm.
 
 ### Installation Notice
-`ssangyong_musso_en_88e32318` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/57b75ed6374a8404b30aa3bcfa05bdd59bcf6e0d6f3e7098259548d6fb5bd758.jpg)
 
 ![](images/e20e8313db5ce9a79f28e16d40ff47b15ec9e6f06268e944ccc6ccbb4c2671bd.jpg)
 
 ### REAR SHOCK ABSORBER
-`ssangyong_musso_en_bb265e09` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/126dce4b1ff27d0d76a865aa9c4630f63501d58cb1ae0b2c40fbc9c0f268a59f.jpg)
 
@@ -16024,7 +14780,6 @@ Lower arm
 6 Nut (M12 x 1.25) 40 60Nm
 
 ### Notice
-`ssangyong_musso_en_e3df108b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When installing the actuator to the mounting bracket, the wiring should face outward of the frame. Actuator wiring should be fixed 40 50mm away from the wiring ends when fixing it with the frame open clip.
 
@@ -16033,14 +14788,12 @@ When installing the actuator to the mounting bracket, the wiring should face out
 2. Unscrew the upper nut (6).
 
 ### Notice
-`ssangyong_musso_en_72be20f9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When screwing the nut, actuator contacting surface of the mounting bracket and rod end should be 0.5 1.5mm.
 
 3. Remove the mounting bracket (5).
 
 ### Notice
-`ssangyong_musso_en_3ceed9bc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When installing the bracket, it should be parallel to the frame side member.
 
@@ -16048,7 +14801,6 @@ When installing the bracket, it should be parallel to the frame side member.
 5. Unscrew shock absorber lower bolt and nut and remove the shock absorber.
 
 ### Notice
-`ssangyong_musso_en_e27635bd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Shock absorber is filled with gas, never attempt to cut or heat.
 
@@ -16057,7 +14809,6 @@ Shock absorber is filled with gas, never attempt to cut or heat.
 ![](images/1dba2cc83a2bbd0f98cfa06b9578845caf2e3c9926ad1804862f870daacfb033.jpg)
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_22118b65` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications 2E-1
 General Specifications 2E-1
@@ -16074,14 +14825,12 @@ On-Vehicle Service 2E-5
 Wheels and Tires 2E-5
 
 ### RADIAL TIRE
-`ssangyong_musso_en_5f8f9b8f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 P 215/75 R 15 94 H M+S Four Season Mud & Snow Speed Rating (max. 210km/h) Load Range (below 670kg) Rim Diameter (inch) Radial Tire Aspect Ratio = (Section Height Section Width) x 100 Section Width (mm) Passenger Car 215/65 R 16 93 V Speed Rating (max. 240km/h) Load Range (below 650kg) Rim Diameter (inch) Radial Tire Aspect Ratio = (Section Height Section Width) x 100 Section Width(mm) Summer Tire
 
 ![](images/686530530bffeb99fc2b93155c9c88b87a7aadd6ce21888d9f9c055b8eeaf9db.jpg)
 
 ### WHEEL DISC
-`ssangyong_musso_en_9b03445d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 7 x 16 ET 39 Wheel Offset (mm) (Distance from rim center to wheel nave contacting surface) Rim Diameter (inch) Identification for One-piece Well-base Rim Code Letter for Height and Profile of Rim Flange Rim Width (Inch)
 
@@ -16092,7 +14841,6 @@ d : Rim Diameter (Inch)
 ![](images/81e9882cdc4e23a8e7cf01ca7b993f6e16b44964ec5bf5d6ce9cecc2fec6297c.jpg)
 
 ### WHEEL AND TIRE
-`ssangyong_musso_en_abd834c8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/783a4cbced94e69176aa3979e6fbdb6990b71c0ef497feb7c95141321d9a4ab9.jpg)
 
@@ -16103,7 +14851,6 @@ d : Rim Diameter (Inch)
 56 Steel Wheel Weight Balance Hub Cap
 
 ### MAINTENANCE AND REPAIR ON-VEHICLE SERVICE
-`ssangyong_musso_en_25bb416e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 WHEELS AND TIRES
 
@@ -16135,7 +14882,6 @@ Measure lateral runout at the tire bead area of the wheel and tire sidewall.
 ![](images/42aad8c7577bc8ff4989f5493d5688919529614109f0887c22dba73461091db2.jpg)
 
 ### Notice
-`ssangyong_musso_en_7c79609c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If runout is excessive, replace the tire or wheel.
 
@@ -16152,7 +14898,6 @@ Tire pressure.
 Check tread contact with road.
 
 ### Notice
-`ssangyong_musso_en_8b567aa8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If underinflated, tire may come away from the wheel during rapid steering.
 An overinflated tire will cause a hard riding and uneven wear.
@@ -16191,7 +14936,6 @@ Tighten nuts in a criss-cross pattern 2-3 times.
 ![](images/35312c37be1b169d606b9aaa52897873639dfb5ee2aa2949db04d4472e53a005.jpg)
 
 ### FRONT DRIVE AXLE TABLE OF CONTENTS
-`ssangyong_musso_en_88b60589` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications 3A-1
 General Specifications 3A-1
@@ -16202,7 +14946,6 @@ Auto-Locking Hub 3A-4
 Vacuum Circuit 3A-5
 
 ### Maintenance and Repair 3A-6
-`ssangyong_musso_en_b69258c4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 On-Vehicle Service 3A-6
 Vacuum Line 3A-6
@@ -16212,7 +14955,6 @@ Unit Repair 3A-16
 Axle Housing 3A-16
 
 ### FRONT AXLE
-`ssangyong_musso_en_706e5f2e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9753171502615192e6528b7f9ef1d80daa765fd4ff6bad9c63ec3dab4ebb23c5.jpg)
 
@@ -16225,7 +14967,6 @@ Axle Housing 3A-16
 7 Locking Hub
 
 ### AUTO-LOCKING HUB
-`ssangyong_musso_en_98fc0988` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/dfaeaab7250ecbaf89dd881c4ed4f6c15bfe8826b376b296eb14ac678aeab9e7.jpg)
 
@@ -16250,7 +14991,6 @@ Axle Housing 3A-16
 19 Axle Retaining Ring
 
 ### VACUUM CIRCUIT
-`ssangyong_musso_en_f4245582` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5438bd4a323ad712b0706f0fb6ae5a87fd681e3f3eb4d3c2d680a3ac97eefb27.jpg)
 
@@ -16265,7 +15005,6 @@ Axle Housing 3A-16
 9 Hub Hose (right)
 
 ### VACUUM LINE
-`ssangyong_musso_en_0eaca567` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8963680283fd33119e6b2a9c0d9f534abbbf5ace8a2b1580b59994aa8b54c358.jpg)
 
@@ -16293,7 +15032,6 @@ Axle Housing 3A-16
 22 Clip
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_3f5fdb18` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Be careful not to change the valve when connecting the check valve and each hose.
 
@@ -16304,7 +15042,6 @@ Axle Housing 3A-16
 ![](images/38d68060925a8d569e1c64b2f24f9cc9b36a4b4e4de3ac58437ea31efbf73f05.jpg)
 
 ### Notice
-`ssangyong_musso_en_b6d4d105` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Shim thickness : 0.1, 0.2, 0.3, 0.5, 1.0 mm
 
@@ -16315,7 +15052,6 @@ Shim thickness : 0.1, 0.2, 0.3, 0.5, 1.0 mm
 ![](images/9e1f56db1b3831bbe7850493a34812c114ed16dd31b0ea3ec07f67a0a69b09b5.jpg)
 
 ### STEERING KNUCKLE AND DRIVE SHAFT
-`ssangyong_musso_en_44c2c53c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/fce362e79f17051326796d438c636c19b70118b114c8a42ce228f5fe071660cf.jpg)
 
@@ -16325,7 +15061,6 @@ Shim thickness : 0.1, 0.2, 0.3, 0.5, 1.0 mm
 5 Steering Knuckle
 
 ### Installation Notice
-`ssangyong_musso_en_554dd4b9` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ![](images/181dcc5a361815ebb1b07b6f13e0583b8bf4b5cbe0004dd3c66d479d3f973a2c.jpg)
 
@@ -16348,7 +15083,6 @@ Installation Notice
 4. Remove the mounting bolts and pull off the caliper assembly.
 
 ### Notice
-`ssangyong_musso_en_ef973125` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to damage the brake hose.
 
@@ -16367,7 +15101,6 @@ Installation Notice
 5-2. Remove the snap ring of the drive shaft and pull off the hub body.
 
 ### Notice
-`ssangyong_musso_en_71f081cc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For assembly, adjust the clearance between the snap ring and hub not to exceed 0.2 mm (Shim thickness : 0.1, 0.2, 0.3, 0.5, 1.0 mm).
 
@@ -16384,14 +15117,12 @@ For assembly, adjust the clearance between the snap ring and hub not to exceed 0
 6-1. Detach the hub cap with screw driver and remove the snap ring on drive shaft.
 
 ### Notice
-`ssangyong_musso_en_91898a79` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For assembly, adjust the clearance between the snap ring and hub not to exceed 0.2 mm (Shim thickness : 0.1, 0.2, 0.3, 0.5, 1.0 mm).
 
 6-2. Unscrew the bolts and remove hub flange.
 
 ### Installation Notice
-`ssangyong_musso_en_5d10b20c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/015d951456955103c8b7152a6fd7dcad7e58c599786badfd885f9c6d579dcf60.jpg)
 
@@ -16418,7 +15149,6 @@ Before installation, apply loctite on the mating surface.
 10. Remove the cotter pin and slotted nut and then remove the steering knuckle arm and tie-rod.
 
 ### Installation Notice
-`ssangyong_musso_en_9c3cf356` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7e02277e2123c9f485335b3ca89d144b0c622247f246051b3569a4ad5c2dbe24.jpg)
 
@@ -16429,7 +15159,6 @@ Replace the cotter pin with new one.
 11. Remove the cotter pin and nut from the steering knuckle arm and upper arm ball joint connection.
 
 ### Installation Notice
-`ssangyong_musso_en_0413a1ed` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a4aa8a8f59a51e391bbd953fe1143c8a877186f8e6af70d815b2b93e296d2d3a.jpg)
 
@@ -16440,7 +15169,6 @@ Replace the cotter pin with new one.
 12. Remove the cotter pin and nut from the steering knuckle arm and lower and lower arm boll joint connection.
 
 ### Installation Notice
-`ssangyong_musso_en_270be322` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/431d8c59b84be7ac4e58e9858c304a9abfe8af613bd85e5539b3e69534bf3db5.jpg)
 
@@ -16453,7 +15181,6 @@ Replace the cotter pin with new one.
 14. Remove the drive shaft mounting bolts and remove the drive shaft.
 
 ### Installation Notice
-`ssangyong_musso_en_4cc49e3a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/dfabeb3bf77fc56c09e5b700db07be1daa67f524174b1a14665285b209e2fd15.jpg)
 
@@ -16464,7 +15191,6 @@ Observe the tighening torque and sequence.
 15. Installation should follow the removal precedure in the reverse order.
 
 ### FRONT AXLE
-`ssangyong_musso_en_ddb68ccf` | musso | pdf_manual | tier:4 | lang:en | layer:steering | p:1 | doc_type:service_manual
 
 Preceding Work Removal of the front axle drive shaft Removla of the steering gear box
 
@@ -16487,12 +15213,10 @@ Preceding Work Removal of the front axle drive shaft Removla of the steering gea
 15 Inner Axle Shaft (RH)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_9c9a82c7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the propeller shaft from the front axle input shaft. Notice Before removal, place the alignment marks.
 
 ### Installation Notice
-`ssangyong_musso_en_50075192` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/25d62c043820174e205127e0b16489fc4d50d8e047919f92304340162d5bc259.jpg)
 
@@ -16509,7 +15233,6 @@ Installation Notice
 4. Remove the cross member mounting nuts (2) from the frame and remove the cross member.
 
 ### Installation Notice
-`ssangyong_musso_en_ee23b335` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c676ab4cc9f07d5d3baa9a74bcccfd35d01b7c43de4f0cb7f005fe7d2d3b5a85.jpg)
 
@@ -16518,7 +15241,6 @@ Installation Notice
 5. Support the axle housing on a suitable jack, Remove the axle housing mounting bracket nuts.
 
 ### Installation Notice
-`ssangyong_musso_en_a323ac3e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2e716acb891f4ca28a284ed93e9f37642becebdf87e32c2fab298dad16447ea5.jpg)
 
@@ -16531,7 +15253,6 @@ Installation Notice
 ![](images/cb97bde7a9aa8628fbef17e1f059c1def27c037d9d6bebffc34b35710e70072e.jpg)
 
 ### AXLE HOUSING
-`ssangyong_musso_en_95c627ba` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of the axle housing
 
@@ -16581,7 +15302,6 @@ to the Contact Surface
 39 Thrust Washer
 
 ### Disassembly Procedure
-`ssangyong_musso_en_6ee1801a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the drain plug and drain the oil. Reinstall the drain plug.
 
@@ -16602,7 +15322,6 @@ to the Contact Surface
 5. Unscrew the bearing cap bolts and remove the bearing caps. Pull out the differential carrier assembly.
 
 ### Notice
-`ssangyong_musso_en_f4ab6bec` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Place alignment marks on the bearing cap not to change the caps before removal. When pulling out the differential carrier assembly, be careful not to damage the axle housing.
 
@@ -16613,7 +15332,6 @@ Place alignment marks on the bearing cap not to change the caps before removal. 
 ![](images/720d58dc8c0bc6132a8d38bfe3daf0ba03535882177d8e88e095a77f6df1bc6c.jpg)
 
 ### Assembly Procedure
-`ssangyong_musso_en_20718642` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Clean the all parts and check the followings
 
@@ -16645,7 +15363,6 @@ Check the differential carrier for crack and wear (bearing contact surface). Che
 ![](images/49966f3e7201528bed6683b67a0f81413c40823d7a2bae2af659ad3e78d08107.jpg)
 
 ### Notice
-`ssangyong_musso_en_79055f0e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to change the caps. Be sure to keep the original position of the caps.
 
@@ -16676,7 +15393,6 @@ Notice Apply grease to the oil seal rib.
 ![](images/fbd6a18dec97b772a8693da401fb6915034c51157dea49fd18ccccd843df6ed0.jpg)
 
 ### Normal Contact
-`ssangyong_musso_en_d0ee6f1b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Apply gear-marking compound (prussian blue / red lead) on the ring gear teeth. Rotate the ring gear and check the tooth contact pattern.
 
@@ -16686,12 +15402,10 @@ Abnormal Contact
 ![](images/7a9ae25d245d0d748436d2991d4e469e16721e3c0bf7c7b5b2b37b2ed6dacdb7.jpg)
 
 ### PROPELLER SHAFT TABLE OF CONTENTS
-`ssangyong_musso_en_96d27b9d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications. 3C-1 Maintenance and Repair 3C-3 General Specifications 3C-1 On-Vehicle Service 3C-3 Component Locator 3C-2 Propeller Shaft 3C-3 M/T & A/T (Part-time T/C) 3C-2
 
 ### M/T & A/T (PART-TIME T/C)
-`ssangyong_musso_en_37140be0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Gasolin E32 Fromt Propeller Shaft
 
@@ -16728,12 +15442,10 @@ Gasoline Stub Shaft
 18 Boots Band
 
 ### Notice
-`ssangyong_musso_en_ad94d689` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Only the length of shaft is different and the components of front/rear shaft are the same. (The deadener is inserted to the inside of tube of rear shaft, both ends)
 
 ### PROPELLER SHAFT
-`ssangyong_musso_en_5cb023c9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e27600809a4811f8e1f4d676b7f408c1de51dbd03f446ef6294af3b47b918f7e.jpg)
 
@@ -16750,7 +15462,6 @@ Only the length of shaft is different and the components of front/rear shaft are
 11 Front Propeller Shaft (E20/E23)
 
 ### Removal Procedure
-`ssangyong_musso_en_5306987e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Place alignment marks and remove the propeller shaft.
 
@@ -16783,7 +15494,6 @@ Gasoline
 1 Grease Nipple 4 Seal 23 Flange Yoke 5 Needle Roller Bearing Spider 6 Snap Ring
 
 ### Inspection Procedure
-`ssangyong_musso_en_af80880b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Visual check. Check the disassembled parts for wear or crack. Replace them if necessary.
 
@@ -16823,7 +15533,6 @@ Sticks in sleeve joint.
 Drive angle changes in universal joints or cross causes vibration and can be detected around 60\~100 km/h.
 
 ### Installation Procedure
-`ssangyong_musso_en_5e0dc40d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Clean the disassembled parts and replace them if damaged.
 
@@ -16850,7 +15559,6 @@ Gasoline
 ![](images/cccb4f9df27a8c5c9e247bb831669b561a21b3807ee929abf66996468004cb24.jpg)
 
 ### REAR DRIVE AXLE TABLE OF CONTENTS
-`ssangyong_musso_en_cdcb6b5a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications. 3D-1
 General Specifications 3D-1
@@ -16872,7 +15580,6 @@ Axle Housing 3D-11
 LSD (Limited Slip Diffrential) 3D-16
 
 ### COMPONENT LOCATOR
-`ssangyong_musso_en_ad1b16b0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9fcd0bb4b4ce337e7002f06bd5442f199c2c67718625248d19cb1b3b518010e1.jpg)
 
@@ -16884,7 +15591,6 @@ LSD (Limited Slip Diffrential) 3D-16
 5 Upper Arm 67 Lower Arm Connecting Link 8 Stabilizer Bar
 
 ### AXLE SHAFT
-`ssangyong_musso_en_1a33797c` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ![](images/1ea936ad9906879bffeb2388e32e77d797c7ec8ec4cb1bfb40af1605b67d99a0.jpg)
 
@@ -16901,7 +15607,6 @@ LSD (Limited Slip Diffrential) 3D-16
 11 Rear Axle Housing
 
 ### Installation Notice
-`ssangyong_musso_en_506b0525` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ![](images/95d9f8762971e4dec062dc4c49cdec1aa2e484af3e60b279054a594378f2badd.jpg)
 
@@ -16912,7 +15617,6 @@ LSD (Limited Slip Diffrential) 3D-16
 3. Remove the bolts and the brake caliper.
 
 ### Installation Notice
-`ssangyong_musso_en_6fcfef6b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to damage the brake hose.
 
@@ -16923,7 +15627,6 @@ Be careful not to damage the brake hose.
 4. Remove the brake disc.
 
 ### Notice
-`ssangyong_musso_en_d18d277e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To remove the disc, install the bolts (M8 x 1.25) into the service hole and uniformly tighten the bolts.
 
@@ -16936,7 +15639,6 @@ To remove the disc, install the bolts (M8 x 1.25) into the service hole and unif
 6. Remove the plug from the axle shaft flange and remove the inner shaft mounting nuts.
 
 ### Installation Notice
-`ssangyong_musso_en_1030e81f` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ![](images/4815b861020d18cdfd2b36a5c48f6a3289a05d459644ff8a5a546240825c3a7a.jpg)
 
@@ -16946,7 +15648,6 @@ To remove the disc, install the bolts (M8 x 1.25) into the service hole and unif
 ![](images/d47ca452ae8f953a3116a3d126aee5465fb7161e31c2acea83e8d0a0d8ebde9e.jpg)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_f38ccf7f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Lift up the vehicle and support the frame safely.
 2. Remove the axle shaft.
@@ -16958,7 +15659,6 @@ To remove the disc, install the bolts (M8 x 1.25) into the service hole and unif
 ![](images/eb6914393db649cdef66f1e5d4165380764781f2c9cd67ae4b842f8dc2a105f8.jpg)
 
 ### Notice
-`ssangyong_musso_en_a3e94e57` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Place alignment marks before removal.
 
@@ -16971,7 +15671,6 @@ Place alignment marks before removal.
 5. Remove the lower arm mounting nuts and remove the lower arm from the axle housing.
 
 ### Installation Notice
-`ssangyong_musso_en_002f3a6d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/4381cdb4d2d7189ccf9805272f04b34f2b295cd38dfad5ab455dcba9704d3b42.jpg)
 
@@ -16984,7 +15683,6 @@ Place alignment marks before removal.
 7. Remove the upper arm mounting nuts and remove the upper arm form the axle housing.
 
 ### Installation Notice
-`ssangyong_musso_en_8bd6d447` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/19105c1e01c5308650fd538e223dea803e143abcc1b84369a76deeeea410a5e3.jpg)
 
@@ -17001,7 +15699,6 @@ Installation Notice
 9. Remove the lateral rod mounting nuts and remove the lateral rod from the axle housing.
 
 ### Installation Notice
-`ssangyong_musso_en_c5693877` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/20400535c560837d3a4048cccf47afb623dd3bd42d6de497f86ceee1aa39cca3.jpg)
 
@@ -17012,7 +15709,6 @@ Installation Notice
 ![](images/7305661c34790ecdba291e0cc46067ef4df546a14eeded62c17747e6a690bfb2.jpg)
 
 ### AXLE HOUSING
-`ssangyong_musso_en_21c1eb62` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of the axle shaft Removal of the axle housing
 
@@ -17051,7 +15747,6 @@ Preceding Work Removal of the axle shaft Removal of the axle housing
 31 Oil Filler Plug 28-42 Nm
 
 ### Disassembly Procedure
-`ssangyong_musso_en_1b45da36` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the drain plug and drain the oil. Reinstall the drain plug.
 
@@ -17060,7 +15755,6 @@ Preceding Work Removal of the axle shaft Removal of the axle housing
 2. Remove the axle housing cover.
 
 ### Notice
-`ssangyong_musso_en_b348c9fa` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a15416c3e54fcf95ac202b44e72c6df5a7390bb67aaa4b8dde9ca14360ada933.jpg)
 
@@ -17069,7 +15763,6 @@ Clean the cover and housing contact surface.
 3. Remove the bearing cap bolts and remove the bearing caps. Pull out the differential carrier assembly.
 
 ### Notice
-`ssangyong_musso_en_3197812c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Place alignment marks on the bearing cap not to change the caps before removal. When pulling out the differential carrier assembly, be careful not to damage the axle housing.
 
@@ -17084,7 +15777,6 @@ Place alignment marks on the bearing cap not to change the caps before removal. 
 ![](images/a108240cef5ff28c0d0d76d5f7a22e1c833cb86bfcee29217061f35bbf4049cf.jpg)
 
 ### Assembly Procedure
-`ssangyong_musso_en_6076da25` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Clean the all parts and check the followings.
 
@@ -17116,7 +15808,6 @@ Check the differential carrier for crack or wear (bearing contact surface). Chec
 ![](images/e9ca386e138be3b22b6347800a8bc7976dc1e8309962e815599e79e1cfd2e4c6.jpg)
 
 ### Notice
-`ssangyong_musso_en_2e42a964` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful no to change the caps. Be sure to keep the original position of the caps.
 
@@ -17135,7 +15826,6 @@ Be careful no to change the caps. Be sure to keep the original position of the c
 ![](images/e4b8a628d780b008c68a689863989f700a9ddaa7d616728277d12071581664ce.jpg)
 
 ### Normal Contact
-`ssangyong_musso_en_429fad20` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Apply gear-marking compound (prussian blue / red lead) on the ring gear teeth. Rotate the ring gear and check the tooth contact pattern.
 
@@ -17145,7 +15835,6 @@ Abnormal Contact
 ![](images/c87735fddd0a132cc9dfe66e36385f2dc3116dd7238c17b44021e65e32e905be.jpg)
 
 ### LSD (LIMITED SLIP DIFFERENTIAL)
-`ssangyong_musso_en_b4923582` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c5d0cbbfbd0538f9c2b2d6810dfa714b9c5e15dfb2e8907cc589ddc0d1343bba.jpg)
 
@@ -17167,7 +15856,6 @@ Abnormal Contact
 16 Oil Catcher
 
 ### Procedure
-`ssangyong_musso_en_e4004248` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Fix the right shaft of LSD to the special tool (A).
 
@@ -17176,19 +15864,16 @@ Abnormal Contact
 ![](images/a88f1118c7c1dc737cbf5ecd5519188ab0611357048dae4cc0bb1f41649ee874.jpg)
 
 ### Notice
-`ssangyong_musso_en_1c99d9cc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If necessary, replace LSD assembly.
 
 ![](images/6ba83904d4f2b3aa887bcc87e363f1f78a737b1cee437652c4aea62c878fdf00.jpg)
 
 ### HYDRAULIC BRAKES
-`ssangyong_musso_en_4adc7ca0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution:Discon ectthenegativebaterycablebeforeremoving orinstalinganyelectricalunitorwhena to lorequipment couldeasilycome in contact withexposed electrical terminals. Disco nectingthis cable wil helppreventpersonalinjuryanddamage to the vehicle. The ignitionmustalso bein LOCK unles otherwisenoted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_fb75adac` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Specifications 4A-1
 General Specifications 4A-1
@@ -17211,7 +15896,6 @@ Brake Pedal 4A-9
 LCRV (Load Conscious Reducing Valve) 4A-12
 
 ### ABS
-`ssangyong_musso_en_c0f4456a` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ![](images/c86b51f9c99b872d65dce3c4deb87fdc55330ab2c2161b5a5fe404595ceb773d.jpg)
 
@@ -17228,7 +15912,6 @@ LCRV (Load Conscious Reducing Valve) 4A-12
 11 3-way Connector
 
 ### ABS ABD
-`ssangyong_musso_en_a9a4c87d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c7944c960af5612641baebe697443bba60b4cc692c6818ad9a52561fdc9cdce9.jpg)
 
@@ -17243,7 +15926,6 @@ LCRV (Load Conscious Reducing Valve) 4A-12
 9 2-way Connector
 
 ### NON-ABS/ABD
-`ssangyong_musso_en_6611a532` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ba8f1068efbd9a2ba7b3f72c2d14f9411b3a2934c7ee6b0f9ceb430603c33d44.jpg)
 
@@ -17257,7 +15939,6 @@ LCRV (Load Conscious Reducing Valve) 4A-12
 8 LCRV
 
 ### For Master Cylinder Replacement
-`ssangyong_musso_en_8b5ec93c` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Add oil after master cylinder replacement.
 
@@ -17269,7 +15950,6 @@ LCRV (Load Conscious Reducing Valve) 4A-12
 ![](images/7ca77e4bcf24df830155ae63001513ed6b5223757cb4ac7253dcd08dfd93af80.jpg)
 
 ### For Caliper and Brake Hose Replacement
-`ssangyong_musso_en_d373a0da` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 1. Check the oil level from the oil reservoir and refill if necessary.
 2. Run the engine and depress the pedal several times to build pressure and then keep the pedal fully depressed.
@@ -17283,14 +15963,12 @@ LCRV (Load Conscious Reducing Valve) 4A-12
 ![](images/ab26dad125216bfbea8a93bf5383491a9906eb51c2feafecb5a61622f463f961.jpg)
 
 ### Notice
-`ssangyong_musso_en_a4fdd0b8` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Do not reuse the bled brake fluid. Always bleed the air after replacing brake fluid or master cylinder, caliper, brake hose and pipe. Always operate in normal order.
 
 ![](images/df3d627ed55254ce73a753ab537c3f138e1af847c9f6ecfae3d4a18e77f654f6.jpg)
 
 ### For Hydraulic Unit Replacement
-`ssangyong_musso_en_5dc9c267` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Add oil after hydraulic unit replacement.
 
@@ -17303,7 +15981,6 @@ Do not reuse the bled brake fluid. Always bleed the air after replacing brake fl
 ![](images/23b83da0b00d330aba70ef5a3f6ca833ca395c9e866e1badd559ea7a79506862.jpg)
 
 ### BRAKE PEDAL
-`ssangyong_musso_en_46c371dc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/091b5d8768c736056ccbe755f565a6e9e9e60856db2769bdf28662fd09dd9d3d.jpg)
 
@@ -17323,7 +16000,6 @@ Do not reuse the bled brake fluid. Always bleed the air after replacing brake fl
 14 Rubber Pad Replace
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_a7545e75` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the stop lamp switch connector.
 
@@ -17332,7 +16008,6 @@ Do not reuse the bled brake fluid. Always bleed the air after replacing brake fl
 2. Remove the clevis pin and disconnect the brake booster push rod.
 
 ### Notice
-`ssangyong_musso_en_42e82edf` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Install in the upper hole (1), in case of Mando brake and in the below hole (2), incase of PBR brake. Install the snap pin fully in the hole of clevis pin. Apply the grease around the hole of clevis pin.
 
@@ -17347,7 +16022,6 @@ Install in the upper hole (1), in case of Mando brake and in the below hole (2),
 ![](images/d2361e8e273d40abf95fffafbbda4f48f864ae4699312542ce71377ea22a5fbf.jpg)
 
 ### Notice
-`ssangyong_musso_en_8ddbf720` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If pedal height is not in specified value, loosen the stop lamp nut (B) and adjust the pedal height.
 
@@ -17356,7 +16030,6 @@ If pedal height is not in specified value, loosen the stop lamp nut (B) and adju
 ![](images/6c9ecce5af9c32088d6734a1b095ef3c97e3be0124d69c74f153a4f239e23e73.jpg)
 
 ### Notice
-`ssangyong_musso_en_96efe604` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If pedal stroke is not in specified value, loosen the stop bolt and lock nut (F) and adjust the pedal stroke.
 
@@ -17365,7 +16038,6 @@ If pedal stroke is not in specified value, loosen the stop bolt and lock nut (F)
 ![](images/b00a92997f5f3732e4c60c8405ec041f2be87fd3b2085a18bf724aec05df2e5f.jpg)
 
 ### Notice
-`ssangyong_musso_en_7b9223ec` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To adjust, depress the brake pedal several times until there is no more vacuum left in the vacuum line.
 
@@ -17374,7 +16046,6 @@ To adjust, loosen the lock nut (D) of the push rod and turn the rod.
 ![](images/c9174e7f7c0bb1294e4d506931d04e2f1c98e43e90083e63702d76fca36f176d.jpg)
 
 ### Inspection Procedure
-`ssangyong_musso_en_55bebd06` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Inspect the wear of bushing.
 2. Inspect the warp and bend of brake pedal.
@@ -17385,7 +16056,6 @@ stop lamp switch connector.
 ![](images/3942b8e901a3506029a86ee8ec0ef9b509e61878a61f5771cb3d6e63d36080dc.jpg)
 
 ### LCRV (LOAD CONSCIOUS REDUCING VALVE)
-`ssangyong_musso_en_355ba6ff` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/89f34880a2bb0e8dde3771c002f223c92e3c56d5569a7b1285379df3b47332b3.jpg)
 
@@ -17400,7 +16070,6 @@ Spring Washer
 8 Nut 14-18 Nm
 
 ### Construction
-`ssangyong_musso_en_0ee5d4d0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 LCRV consists of sensing part and hydraulic control part.
 
@@ -17415,7 +16084,6 @@ It consists of valve stem devices which controls hydraulic pressure according to
 ![](images/a890e39847c708c24497dfda1efe2a423499574cf7ba578e3081df4386e6ce44.jpg)
 
 ### LCRV SETTING METHOD
-`ssangyong_musso_en_f38e4a9a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/6cc66f386f9ea2daba5b04127882d38ed68c4d1f65eced544f0182e4c0625949.jpg)
 
@@ -17434,12 +16102,10 @@ It consists of valve stem devices which controls hydraulic pressure according to
 5. Place alignment marks between the lock nut (b) and adjusting screw (c) after the valve setting.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_e0511595` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications. 4B-1 On-Vehicle Service 4B-2 Fastener Tightening Specifications 1 4B-1 Booster & Brake Master Cylinder 4B-2 Maintenance and Repair 4B-2
 
 ### BOOSTER AND BRAKE MASTER CYLINDER
-`ssangyong_musso_en_9fcdd65f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0f0153fbecbb37534cc269b5967aee753538ca1212dd7eea128784b40e442cc2.jpg)
 
@@ -17461,7 +16127,6 @@ Specifications. 4B-1 On-Vehicle Service 4B-2 Fastener Tightening Specifications 
 16 2nd Tube (Secondary)
 
 ### Notice
-`ssangyong_musso_en_af8b779f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to drop the oil when removing the tube.
 If the oil is dropped, promptly sweep up.
@@ -17471,7 +16136,6 @@ If the oil is dropped, promptly sweep up.
 3. Remove the booster vacuum hose.
 
 ### Notice
-`ssangyong_musso_en_4fb51fbe` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Connect fully to the end of vacuum hose when installing.
 
@@ -17488,7 +16152,6 @@ Installation Notice
 5. Remove the clevis pin and disconnect the pedal and brake booster push rod.
 
 ### Notice
-`ssangyong_musso_en_d142f615` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Install in the upper hole when PBR brake.
 Connect the snap pin in the hole of clevis pin fully.
@@ -17499,7 +16162,6 @@ Apply the grease around the hole of clevis pin.
 6. Loosen the nut of booster and remove the booster from the dash panel.
 
 ### Installation Notice
-`ssangyong_musso_en_f472fcb7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/299ff9924e5c51f18d343b128a92f16691c626d3060cdb46c045991637728f95.jpg)
 
@@ -17512,14 +16174,12 @@ Apply the grease around the hole of clevis pin.
 ![](images/3f47e2e9af2bffa78011519a3f37e7222fe6b5d94ff1242510b69bdda8510ebb.jpg)
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_76b7990a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications. 4C-1 On-Vehicle Service 4C-2
 General Specifications 4C-1 Booster & Brake Master Cylinder 4C-2
 Maintenance and Repair 4C-2 Pedal Stroke Inspection 4C-5
 
 ### BOOSTER AND BRAKE MASTER CYLINDER
-`ssangyong_musso_en_417734fd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c128c9459db0280bd8076a0aadb494a544d92e3b3e262705dd72e2fac7dab408.jpg)
 
@@ -17541,7 +16201,6 @@ Maintenance and Repair 4C-2 Pedal Stroke Inspection 4C-5
 16 2nd Tube (Secondary)
 
 ### Notice
-`ssangyong_musso_en_07a62418` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to drop the oil when removing the tube.
 If the oil is dropped, promptly sweep up.
@@ -17551,7 +16210,6 @@ If the oil is dropped, promptly sweep up.
 3. Remove the booster vacuum hose.
 
 ### Notice
-`ssangyong_musso_en_5fc5154a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Connect fully to the end of vacuum hose when installing.
 
@@ -17568,7 +16226,6 @@ Installation Notice
 5. Remove the clevis pin and disconnect the pedal and brake booster push rod.
 
 ### Notice
-`ssangyong_musso_en_f7f6bc4c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Install in the upper hole when PBR brake.
 Connect the snap pin in the hole of clevis pin fully.
@@ -17579,7 +16236,6 @@ Apply the grease around the hole of clevis pin.
 6. Loosen the nut of booster and remove the booster from the dash panel.
 
 ### Installation Notice
-`ssangyong_musso_en_5fe05eb8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f72a15e1be7508984ae340b5ca35101fe4422c75718ba6b1b1312118e4ba08d3.jpg)
 
@@ -17592,7 +16248,6 @@ Apply the grease around the hole of clevis pin.
 ![](images/97d647049d006b82aed235a5e335ad8b5e8348fbaebcd0dcc4b120dc7c98fa70.jpg)
 
 ### PEDAL STROKE INSPECTION
-`ssangyong_musso_en_60155d6f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Start the engine and stop it after one or two minutes. Depress the brake pedal several times.
 
@@ -17605,7 +16260,6 @@ If the pedal goes down furthest the first time, but gradually rises after the se
 3. Depress the brake pedal with engine running, and stop it with the pedal depressed. If there is no change in pedal height during 30 sec., the booster is normal.
 
 ### FRONT DISC BRAKES TABLE OF CONTENTS
-`ssangyong_musso_en_4694b8ce` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications 4D-1
 Fastener Tightening Specifications 4D-1
@@ -17616,7 +16270,6 @@ Unit Repair 4D-5
 Front Disc Brake 4D-5
 
 ### FRONT DISC BRAKE
-`ssangyong_musso_en_c80c8a3c` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Preceding Work Removal of wheels and tires
 
@@ -17636,7 +16289,6 @@ Preceding Work Removal of wheels and tires
 12 Bolt 85-105 Nm
 
 ### 1. MANDO Brake
-`ssangyong_musso_en_4f5ed6bf` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remove the hose mounting nut and disconnect the hose. Installation Notice
 
@@ -17645,7 +16297,6 @@ Remove the hose mounting nut and disconnect the hose. Installation Notice
 ![](images/cd73d6a6946f86030a7937b8c07b419fb685f349c98dd4bea1bc26f4a0604c38.jpg)
 
 ### 2. PBR Brake
-`ssangyong_musso_en_1e7366e0` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Remove the eye-hose bolt and disconnect the hose.
 
@@ -17678,7 +16329,6 @@ Installation Notice
 ![](images/263a442a4de8c5acfc65ab5ac0146d11abddabd1e9486f70bab49d470e51abb3.jpg)
 
 ### Inspection Procedure
-`ssangyong_musso_en_a52e25dd` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Clean all components and visually check the followings.
 
@@ -17698,7 +16348,6 @@ Always change the all pads on one wheel at a time.
 ![](images/789eca5f77861678eeacd097b056bbbe9390836b5b4b7122857d1d77371a2f3b.jpg)
 
 ### Notice
-`ssangyong_musso_en_db70a9c5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/43067b558fd4cf729d07efd19f60ceda6f220ee4708dfa30fccc6d5feadcd98a.jpg)
 
@@ -17709,12 +16358,10 @@ Always change the all pads on one wheel at a time.
 5. Check the rotor disc for score or runout.
 
 ### REAR DISC BRAKES TABLE OF CONTENTS
-`ssangyong_musso_en_1dfa8b57` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications 4E-1 Rear Disc Brake 4E-2 Fastener Tightening Specifications 4E-1 Unit Repair 4E-4 Maintenance and Repair 4E-2 Rear Disc Brake 4E-4 On-Vehicle Service 4E-2
 
 ### REAR DISC BRAKE
-`ssangyong_musso_en_9d9ef444` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Preceding Work Removal of wheels and tires
 
@@ -17733,7 +16380,6 @@ Preceding Work Removal of wheels and tires
 11 Bolt 85-105 Nm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_cf91efe3` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 1. Remove the eye-hose bolt and disconnect the hose.
 
@@ -17754,7 +16400,6 @@ Installation Notice
 3. Pull out the brake pads. Replace pads if necessary.
 
 ### Notice
-`ssangyong_musso_en_484ec8ee` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Always change the all pads on one wheel at a time.
 
@@ -17762,7 +16407,6 @@ Always change the all pads on one wheel at a time.
 5. Bleed the air from the system.
 
 ### REAR DISC BRAKE
-`ssangyong_musso_en_df9c905c` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Inspection Procedure
 
@@ -17784,7 +16428,6 @@ Check the boots for damage or tear.
 ![](images/d2a6cf41a08c74988e868a00d7077e7f3e112ed5f7a3bc8d402302faa5cc9be2.jpg)
 
 ### Notice
-`ssangyong_musso_en_ff2b087e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Always change the all pads on one wheel at a time.
 
@@ -17795,12 +16438,10 @@ Always change the all pads on one wheel at a time.
 5. Check the rotor disc for score or runout.
 
 ### ANTILOCK BRAKE SYSTEM
-`ssangyong_musso_en_e61eb1a3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution:Discon ectthenegativebaterycablebeforeremovingorinstalinganyelectricalunitorwhena to lorequipment couldeasily come incontact withexposed electrical terminals. Disco nectingthis cablewil helppreventpersonalinjuryanddamage to the vehicle. Theignitionmustalsobein LOCK unles otherwisenoted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_27562615` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications 4F-1
 General Specifications 4F-1
@@ -17824,7 +16465,6 @@ ABS 5.3 4F-21
 ABS/ABD 5.3 4F-24
 
 ### GENERAL SPECIFICATIONS
-`ssangyong_musso_en_e6aeb52c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a477728214ce89bfafed8a82c0ee3d2202b808231c7294d5fe6e2762aafd8f3c.jpg)
 
@@ -17839,7 +16479,6 @@ R 3Sm 翻
 ![](images/2f85091a4b633655eeea193721c6683034febb317b10ae7edfd687d569d4c765.jpg)
 
 ### ABS,ABS/ABD
-`ssangyong_musso_en_318d14e1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/6f3600806db55c56ab9399c68b3f958fe0e010167596e110091c29bf1061d36c.jpg)
 
@@ -17855,7 +16494,6 @@ R 3Sm 翻
 10 ABS/ABD ECU
 
 ### General:
-`ssangyong_musso_en_9fa9122a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Automatic Brake Differential Lock (ABD) is a traction system by means of brake intervention only, available in a low speed range (< 60kph).
 
@@ -17869,7 +16507,6 @@ The temperature of the brakes is calculated by a mathematical model and ABD is s
 ABD is permitted again, when the calculated temperature is less than 350°C.
 
 ### Control Algorithm:
-`ssangyong_musso_en_05525e8c` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 The input signals for the control algorithm are the filtered wheel speed signals from the ABS speed processing.
 
@@ -17884,7 +16521,6 @@ It s reduced with increasing vehicle speed down to a constant value.
 ![](images/0e7c123a8608272432567c6601282995f07e2928e7376dc43dc5eeb329352100.jpg)
 
 ### Pressure Modulation:
-`ssangyong_musso_en_ad9d9e26` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Depending on the control deviation and the wheel acceleration of the spinning wheel, pressure increase, hold and decrease are made.
 
@@ -17893,14 +16529,12 @@ The pressure modulation is done with the conventional control with the valves. A
 ![](images/26a9be5a4dbca8b5df6a74dff28bba76138882e4c8ed0050d0f459495afbc902.jpg)
 
 ### Speed Range:
-`ssangyong_musso_en_e0e44ea9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ABD is available in the speed range £ 60 kph.
 Above 60 kph vehicle speed, ABD is passive.
 It is possible to initiate ABD operation up to a vehicle speed of 55kph.
 
 ### Temperature Model:
-`ssangyong_musso_en_974a9815` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ABD operation is a high thermal load for the brakes.
 
@@ -17911,32 +16545,27 @@ If the temperature is highter than 500°C, ABD is disabled for this wheel.
 It is permitted again, if the model has calculated down the 350°C.
 
 ### Lamp Concepts:
-`ssangyong_musso_en_e406c26d` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 The system is equipped with an ABD information lamp, which is blinking during ABD operation. The activation of the EBD, ABS warning lamp and the ABD info lampo is summarized in the following table:
 
 ![](images/65b8ad31243008779c3f87c52969fb0857b51067562804bbe247a2b3541c6101.jpg)
 
 ### Initialization
-`ssangyong_musso_en_ba74cc2a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Turn the ignition switch to "ON" position. 2. Using a service connector, ground the No.13 terminal of diagnosis socket and No.1 ground terminal for 3 - 4 seconds.
 
 ### Notice
-`ssangyong_musso_en_82e8635b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If it is over 5 seconds, initialization will not be performed.
 
 3. After completing the initialization, ABS warning lamp will be turned on until the ignition switch is turned to "OFF" position.
 
 ### Notice
-`ssangyong_musso_en_8f32a4ad` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If appeared initial fault code and above 2 differnt fault code, perform again initialization.
 Fault code will be output the numbers of fault code with a interval of 1 second.(turn on 0.75 sec., turn off 0.25 sec.)
 
 ### Fault Code Elimination
-`ssangyong_musso_en_6a7ed7e6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 After repairing the defect parts, eliminate the fault from ECU.
 
@@ -17945,28 +16574,24 @@ After repairing the defect parts, eliminate the fault from ECU.
 2. Turn the igniotion switch to "OFF" position.
 
 ### Notice
-`ssangyong_musso_en_50034655` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If not eliminate he ault code, the code will be maintained. Check and find the other defect parts with performing the imitialization again, if the fault code will be output, repair the defect parts completely.
 
 ![](images/2cd6c4ae1d2a17373575158d867f36f0ed975d26d4b0c35eb704b3f3e0a3dd32.jpg)
 
 ### Time Characteristics
-`ssangyong_musso_en_29da0800` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Initialization Tba < 5.0 sec. Tba 1.8 2.2 sec.
 2. Output of Fault Code TW1 = 1.8 - 2.2 sec. TW2 = 1.8 - 2.2 sec. T = 0.75 sec., Te ³ 0.25 sec.
 3. Elimination of Fault Code Tb1 = 5.0 sec.
 
 ### Initializing
-`ssangyong_musso_en_f4f11b0e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Set the ignition switch n “ON” position.
 
 2. Connect the No.1 terminal (Ground) and the No.13 (ABS) from diagnosis socket located in E/G room by use of service connector for 3 - 4 seconds and initialize the flash code.
 
 ### Notice
-`ssangyong_musso_en_fdbd4e83` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to connect over 5 seconds.
 
@@ -17975,37 +16600,31 @@ Be careful not to connect over 5 seconds.
 ![](images/f60b89cf6003ab3f0beadfc9825c4ae42517d75cc7661eb3a4cc7fe3947b5372.jpg)
 
 ### Dignosis Table
-`ssangyong_musso_en_f580a061` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. When the system is normal One pulse (normal code 01) indicates.
 
 2. When the system is abnormal One pulse (defect code) indicates.
 
 ### Notice
-`ssangyong_musso_en_773bf868` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Repeat the initializing procedure when checking the defect code Defect code is indicated once for sec (light on 0.75 sec, light off 0.25 sec).
 
 ### Removal the Defect Code
-`ssangyong_musso_en_7861acea` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Repair the defect code and remove the memorized defect code in the ECU. 2. Connect the No. 13 terminal (ABS) from diagnosis socket and No. 1 terminal (ground) for over 5 seconds. 3. Set the ignition switch in the “OFF” position.
 
 ### Notice
-`ssangyong_musso_en_10d3e65a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Defect code will be memorized in ECU unless the defect code is not removed.
 Repeat the initializing procedure and check the other defects.
 
 ### Time Characteristics
-`ssangyong_musso_en_debe5c3f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Initialization Tba < 5.0 sec. Tba 1.8 2.2 sec.
 2. Output of fault code TW1 = 1.8 - 2.2 sec. TW2 = 1.8 - 2.2 sec. T = 0.75 sec., Te ³ 0.25 sec.
 3. Elimination of fault code Tb1 = 5.0 sec.
 
 ### DEFECT CODES
-`ssangyong_musso_en_b5f7a0c4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e425fdd875fbcd86550bfe5380a9eda5a6b7b8b378d17e394218c1166b3f54ae.jpg)
 
@@ -18020,7 +16639,6 @@ Repeat the initializing procedure and check the other defects.
 ![](images/2ab60b8fdaa8a47dd6941dbb290bc7014b6a395d71a730637e942aab088a4c2b.jpg)
 
 ### MAINTENANCE AND REPAIR ON-VEHICLE SERVICE
-`ssangyong_musso_en_80aa26eb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 WHEEL SPEED SENSOR
 
@@ -18034,7 +16652,6 @@ WHEEL SPEED SENSOR
 6 Rear Axle
 
 ### Notice
-`ssangyong_musso_en_62509c38` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Do not force the connector when releasing in arrow direction.
 For installation of the connetor, align and firmly seat the connector of the hydraulic unit and wiring connector while keeping the locking lever upward and then push it down.
@@ -18044,7 +16661,6 @@ For installation of the connetor, align and firmly seat the connector of the hyd
 2. Remove the hydraulic lines of the hydraulic unit. During removal, be careful not to drip brake fuid on the body.
 
 ### Installation Notice
-`ssangyong_musso_en_cc8f60ab` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/83ae27dd2c516efb07137236d0503a26c1b904a314470c7d24c49fc229c9d0a0.jpg)
 
@@ -18053,7 +16669,6 @@ For installation of the connetor, align and firmly seat the connector of the hyd
 3. Unscrew hydraulic unit mounting nuts (2EA) and remove the unit from the bracket.
 
 ### Removal of the ABS ABD Unit
-`ssangyong_musso_en_f8723ce6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Location Under the front passenger's seat.
 
@@ -18065,7 +16680,6 @@ Location Under the front passenger's seat.
 ![](images/a946aa1fdead8e3300414154ee602a72102c25b3eb9d6fb0fcec9016c9617e74.jpg)
 
 ### HYDRAULIC CIRCUIT
-`ssangyong_musso_en_bf35440a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d6c7e94bae2b7312bead622ffe5a5a2f30b08af9529641e32415235152d534e8.jpg)
 ABS 5.3 Pressure Increased
@@ -18082,7 +16696,6 @@ ABS 5.3 Pressure Increased
 10 Rear Wheel
 
 ### Pressure Decreased
-`ssangyong_musso_en_adad0e79` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/33c65cce4b59fecdfc175c1df5631d448e34d88b87a57c4424d426742f73fee9.jpg)
 
@@ -18098,7 +16711,6 @@ ABS 5.3 Pressure Increased
 10 Rear Wheel
 
 ### Pressure Maintained
-`ssangyong_musso_en_6bf3e154` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5072342d6edb2da360a8db35c3577f0c81b4385dc43893415dc1de43bf5f60f2.jpg)
 
@@ -18114,7 +16726,6 @@ ABS 5.3 Pressure Increased
 10 Rear Wheel
 
 ### ABS/ABD 5.3 Pressure Increased
-`ssangyong_musso_en_d380fd35` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8f655ade993d8f9d2f155c4dbaa25d28288fbfbc9e8fc4c427d730b4c65b2e84.jpg)
 
@@ -18133,7 +16744,6 @@ ABS 5.3 Pressure Increased
 13 ISD (Integrated Suction Damper)
 
 ### Pressure Decreased
-`ssangyong_musso_en_6fc7d825` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Master Cylinder
 2 Hydraulic Unit
@@ -18150,7 +16760,6 @@ ABS 5.3 Pressure Increased
 13 ISD (Integrated Suction Damper)
 
 ### Pressure Maintained (Hold)
-`ssangyong_musso_en_29b3bd3a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e0fab8ebbcc3a2a17f61ec3e893bbb7f3fcbf91449d277565d3253851ae62c87.jpg)
 
@@ -18169,12 +16778,10 @@ ABS 5.3 Pressure Increased
 13 ISD (Integrated Suction Damper)
 
 ### PARKING BRAKE
-`ssangyong_musso_en_ef55faec` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution:Discon ectthenegativebaterycablebeforeremoving orinstalinganyelectricalunitorwhena to lorequipmentcouldeasily come in contact withexposed electrical terminals. Disco nectingthis cablewil helppreventpersonalinjuryanddamageto the vehicle. Theignition must alsobein LOCK unles otherwisenoted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_b4a2d5f6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications. 4G-1 Parking Brake 4G-2
 General Specifications 4G-1 Maintenance and Repair 4G-3
@@ -18182,7 +16789,6 @@ Fastener Tightening Specifications 4G-1 On-Vehicle Service 4G-3
 Component Locator . 4G-2 Parking Brake . 4G-3
 
 ### PARKING BRAKE
-`ssangyong_musso_en_512b51f8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d763c7de21eca1c947766f4f5dc9f16dff779b03184fa4a6fc14718832f9bb06.jpg)
 
@@ -18199,7 +16805,6 @@ Component Locator . 4G-2 Parking Brake . 4G-3
 11 Brake Disc (if Equipped with Rear Disc Brake)
 
 ### MAINTENANCE AND REPAIR ON-VEHICLE SERVICE
-`ssangyong_musso_en_af5f1190` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 PARKING BRAKE
 
@@ -18220,7 +16825,6 @@ Installation Notice
 ![](images/8ac5dc37c604f91adf33e39fc5862083a16ce08f61e8932908738260b86053c0.jpg)
 
 ### Notice
-`ssangyong_musso_en_b8021f85` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Tighten the bolts with sequence number while the lever is pulled up 4 to 6 notches.
 
@@ -18241,7 +16845,6 @@ Installation Notice
 6. Installation should follow the removal procedure in the reverse order.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_2e45e202` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 Specifications. 5A-2
 Model Part Numbers and Applications 5A-2
@@ -18309,7 +16912,6 @@ Assembly Procedure. 5A-94
 Front and Rear Band Adjustment 5A-128
 
 ### MODEL PART NUMBERS AND APPLICATIONS
-`ssangyong_musso_en_8cbe5b92` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/91b500004ef62ae46763ac903dec60b5b65b64828512d666a18ff3541e77a60d.jpg)
 
@@ -18317,14 +16919,12 @@ MODEL SPECIFICATIONS
 ![](images/d809d5b6bf8d3dd7a85b53f48281cf4286e03c9fcf17567f3fda8dbdad04cc2a.jpg)
 
 ### SCHEMATIC AND ROUTING DIAGRAMS
-`ssangyong_musso_en_2b8399d2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/52868354ab662b46e4017c88f760e8a4ea450f9880fb04588c82e17516b211d0.jpg)
 
 ![](images/0f115ca7feeecf7c7d984fa2ec6822ef26b0cdf69c30cb5f470d763fc6763b90.jpg)
 
 ### INTRODUCTION
-`ssangyong_musso_en_3451f831` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The BTR Automotive Model 74 Four Speed Automatic Transmission is an electronically controlled overdrive four speed unit with a lock-up torque converter. The lock-up torque converter results in lower engine speeds at cruise and eliminates unnecessary slippage. These features benefit the customer through improved fuel economy and noise reduction. Refer to table 1.1 for details of power, torque and configuration.
 
@@ -18344,7 +16944,6 @@ Line Pressure Pump Mechanical TV (Regulates Link Mechinial Pressure =egulator To
 Carburettor to Reference Pump Mechanical Throttle Body Pressure Link (Regulates Accelerator WW Pressure) VPS Regulator Torque to Post Threrserr TCU Module 山 Presine Speed Sensor Driver Friction Temperature Sensor SSnioid On/Off Element Micro Electronic Processor (Directs Pressure)
 
 ### OPERATOR INTERFACES
-`ssangyong_musso_en_acbb3ae7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 There are three operator interfaces associated with the four speed transmission. They are:
 
@@ -18353,7 +16952,6 @@ The gear select lever The driving mode selector The indicator light
 These operator interfaces are described below.
 
 ### GEAR SELECT LEVER OPERATION
-`ssangyong_musso_en_d9c4866a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The transmission uses a conventional selector lever. The selector lever can be moved from one position to another within the staggered configuration of the selector lever gate to positively indicate the gear -selection as shown on figure 2.1. For information about the gear selections available refer to table 2.1.
 
@@ -18364,7 +16962,6 @@ Table 2.1 Gear Selections
 ![](images/b98fef52e3cefa004eee6ab9e63b59af23c4cd805f81ef0c8b051cf396d2d1ce.jpg)
 
 ### DRIVING MODE SELECTOR
-`ssangyong_musso_en_e7e69333` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The driving mode selector consists of a mode selection switch and indicator light. The driving mode selector is located on the centre console. See figure 2,1.
 
@@ -18375,12 +16972,10 @@ When ‘NORMAL’ mode is selected upshifts will occur to maximise fuel economy 
 Refer to the vehicle owner’s manual for specific modes for each vehicle type.
 
 ### GENERAL
-`ssangyong_musso_en_149cf7a9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 There are two control systems associated with the transmission. The electronic control system monitors vehicle parameters and adjusts the transmission performance. The hydraulic control system implements the electronic control system commands.
 
 ### ELECTRONIC CONTROL SYSTEM
-`ssangyong_musso_en_1c2c8c10` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The electronic control system is comprised of sensors, a TCU and seven solenoids. The TCU reads the inputs, and under software control activates the outputs according to values stored in read only memory (ROM).
 
@@ -18402,7 +16997,6 @@ Table 3.1 Temperature Resistance Characteristics
 Figure 3.2 Temperature Resistance Characteristics
 
 ### Transmission Control Unit(TCU)
-`ssangyong_musso_en_d4a4a02c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The TCU is an in-vehicle micro-processor based transmission management system. It is usually mounted in the vehicle cabin, under the instrument panel, under the seat, behind the side kick panels or under the floor in the footwell on the passenger side. Different control units are supplied for different vehicle applications.
 
@@ -18415,7 +17009,6 @@ Output circuits which control external devices such as the variable pressure sol
 The various items which make up the TCU are discussed below.
 
 ### Processing Logic
-`ssangyong_musso_en_d6f95602` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Shift schedule and calibration information is stored in an erasable programmable read only memory (EEPROM). Throttle input calibration constants and the diagnostics information are stored in electrically erasable programmable read only memory (EEPROM) that retains the memory even when power to the TCU is disconnected.
 
@@ -18428,7 +17021,6 @@ The TCU continuously monitors every input and output circuit for short or open c
 The TCU is designed to operate at ambient temperatures between -40 and 85°C It is also protected against electrical noise and voltage spikes, however all the usual precautions should be observed, for example when arc welding or jump starting.
 
 ### TCU Inputs
-`ssangyong_musso_en_87b9249b` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 To function correctly, the TCU requires engine speed, road speed, transmission sump temperature, throttle position and gear position inputs to determine the variable pressure solenoid current ramp and on/off solenoid states. This ensures the correct gear selection and shift feel for all driving conditions.
 
@@ -18460,7 +17052,6 @@ Table 3.2 Pin No. Codes for Temperature Sensor Location In Solenoid Loom
 Figure 3.3 Temperature Sensor Location in Solenoid Loom
 
 ### Throttle Position Sensor
-`ssangyong_musso_en_1fbcc74a` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The throttle position sensor(TPS) is a resistance potentiometer mounted on the throttle body of the engine.
 
@@ -18484,7 +17075,6 @@ However these limits will be lost and will require relearning should a new TCU b
 ![](images/34fc72235393bed49c41cb30c1720563ca8fa0836ad3a47b0b881e48ed24c5bb.jpg)
 
 ### Gear Position Sensor
-`ssangyong_musso_en_9f8c25fd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The gear position sensor is incorporated in the inhibitor switch mounted on the side of the transmission case.
 
@@ -18501,12 +17091,10 @@ Table 3.3 Readings for Resistance/Shift Lever Positions
 ![](images/87fa6a033e625309d400775a89665defa5154e7d85c5f8fe122c5c040884ce19.jpg)
 
 ### Diagnostics Inputs
-`ssangyong_musso_en_8847a9b8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The diagnostics control input or K-line is used to initiate the outputting of diagnostics data from the TCU to a diagnostic test instrument. This input may also be used to clear the stored fault history data from the TCU’s retentive memory. Connection to the diagnostics input of the TCU is via a connector included in the vehicle’s wiring harness or computer interface. Refer to the vehicle manufacturer’s manual for the location of the self test connectors.
 
 ### Battery Voltage Monitoring Input
-`ssangyong_musso_en_268bc42e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The battery voltage monitoring input connects to the positive side of the battery. The signal is taken from the main supply to the TCU.
 
@@ -18515,7 +17103,6 @@ If operating conditions are such that the battery voltage at the TCU falls below
 When system voltage recovers, the TCU will resume normal operation after a 3 second delay period.
 
 ### Solenoids
-`ssangyong_musso_en_df20e6eb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The TCU controls seven solenoids. Solenoids to 6 (S1 to S6) are mounted in the valve body, while Solenoid 7 (S7) is mounted in the pump cover. The normal state (OPEN/CLOSED) and the functions associated with the solenoids are detailed in table 3.4. Table 3.5 details the S1 and S2 logic for static gear states. The logic during gear changes for S1 to S4 and S7 is detailed in table 3.6.
 
@@ -18529,12 +17116,10 @@ Table 3.6- Solenoid Operation During Gearshifts
 ![](images/fdb691ad109df1bd738a588c9bdecce4b065ed45f584d93f513323cb9f207763.jpg)
 
 ### Solenoid Valve Symbols (On/off Solenoids)
-`ssangyong_musso_en_8507d720` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The solenoid symbol shown adjacent to each solenoid on the hydraulic system schematics indicates the state of the oil flow through the solenoid valve with the power On or 0ff. Refer to figure 3.6 for the On/off operational details of NO solenoid valves.
 
 ### POWER ON
-`ssangyong_musso_en_c5fdc73d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Line 500 port is closed. The output port is open to exhaust at the solenoid valve.
 
@@ -18546,7 +17131,6 @@ The exhaust port is closed. The output port is open to line 500,
 Figure 3.6- Normally Open (NO) Symbols
 
 ### Variable Pressure Solenoid Multiplexing System
-`ssangyong_musso_en_a331a1f5` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Friction element shifting pressures are controlled by the variable pressure solenoid (VPS). Line pressure is completely independent of shift pressure and is a function of throttle position, gear state and engine speed.
 
@@ -18565,24 +17149,20 @@ Under steady state conditions the band and clutch regulator valve solenoids are 
 When a shift is initiated the required On/off solenoid is switched on cutting the supply of Line 500 to the plunger. At the same time the VPS pressure is reduced to the ramp start value and assumes control of the regulator valve by pushing the plunger away from the valve. The VPS then carries out the required pressure ramp and the timed shift is completed by switching Off the On/off solenoid and returning the VPS to the standby pressure. This system enables either the band or clutch or both to be electrically controlled for each gearshift.
 
 ### Mode Indicator Light
-`ssangyong_musso_en_acf37fb5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Depending on the application, the mode indicator light may be used to indicate the mode that has been selected or if an overheat condition exists. The mode indicator light is usually located on the instrument cluster.
 
 ### CAN
-`ssangyong_musso_en_0f72ee7b` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The controller area network (CAN) connects various control modules by using a twisted pair of wires, to share common information. This results in a reduction of sensors and wiring. Typical applications include using the engine controller to obtain the actual engine speed and throttle position, and adding these to the network. The ABS controller (if fitted) can be used to obtain the road speed signal. This information is then available to the TCU without any additional sensors.
 
 ### K-Line
-`ssangyong_musso_en_454567f3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The K-line is typically used for obtaining diagnostic information from the TCU. A computer with a special interface is connected to the TCU and all current faults, stored faults, runtime parameters are then available. The stored fault codes can also be cleared.
 
 The K-line can be used for vehicle coding at the manufacturer’s plant or in the workshop. This allows for one TCU design to be used over different vehicle models. The particular code is sent to the microprocessor via the K line and this results in the software selecting the correct shift and VPS ramp parameters.
 
 ### HYDRAULIC CONTROL SYSTEM
-`ssangyong_musso_en_653cf1a1` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The hydraulic controls are located in the valve body, pump body and main case.
 
@@ -18617,7 +17197,6 @@ The solenoid supply valve provides reference pressure for all the solenoids.
 Figure 3.7 Hydraulic Control Circuit
 
 ### Valve Body
-`ssangyong_musso_en_a7fca952` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Figure 3.8 depicts the valve body as a unit as viewed from the transmission sump. Figure 3.9 depicts the pump cover.
 
@@ -18628,7 +17207,6 @@ Figure 3.8 Valve Body
 Figure 3.9 Pump Cover
 
 ### Manual Valve
-`ssangyong_musso_en_5f662f7e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The manual valve (refer to figure 3.10) is connected to the vehicle selector mechanism and controls the flow of oil to the forward and reverse circuits. The manual valve function is identical in all forward gear positions except that in the Manual position an additional supply of oil is directed to the 1-2 shift valve for application of the rear band and the C4 overrun clutch.
 
@@ -18636,7 +17214,6 @@ The manual valve (refer to figure 3.10) is connected to the vehicle selector mec
 Figure 3.10 Manual Valve
 
 ### 1-2 Shift Valve
-`ssangyong_musso_en_7ebe380d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The 1-2 shift valve (refer to figure 3.11) is a two position valve that must be switched to the (2,3,4) position in order to get any forward gear other than first gear. It is used for all 1-2 and 2-1 gearshifts.
 
@@ -18650,7 +17227,6 @@ The 1-2 shift valve works in conjunction with the 3-4 shift valve (described bel
 Figure 3.11 1-2 Shift Valve
 
 ### 2-3 Shift Valve
-`ssangyong_musso_en_a744071d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The 2-3 shift valve (refer to figure 3.12) is a two position valve. It is used on all 2-3 and 3-2 gearshifts.
 The switching of this valve is achieved by S2 which is located at the end of the valve spool.
@@ -18662,7 +17238,6 @@ Figure 3.12 2-3 Shift Valve
 ![](images/2d7dd1e12dc387cec00f4adae490142339507c90ab23180b9cbc2327e2388e2e.jpg)
 
 ### 3-4 Shift Valve
-`ssangyong_musso_en_0f401f02` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The 3-4 shift valve (refer to figure 3,13) is a two position valve. It is used for all 3-4 and 4-3 gearshifts.
 The switching of this valve is achieved by S1 which is located at the end of the valve spool.
@@ -18680,7 +17255,6 @@ Figure 3.13 3-4 Shift Valve
 P 五
 
 ### 4-3 Sequence Valve
-`ssangyong_musso_en_aab26380` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The 4-3 sequence valve (refer figure 3.14) is a two position spring loaded valve. It switches during 3-4 and 4-3 gearshifts although it performs no function during the 3-4 shift.
 
@@ -18690,12 +17264,10 @@ During the 4-3 shift the 4-3 sequence valve delays the connection of the clutch 
 Figure 3.14 - 4-3 Sequence Valve
 
 ### Solenoid Supply Pressure Regulator Valve
-`ssangyong_musso_en_25391c79` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The solenoid supply valve (refer figure 3.15) supplies a constant pressure to all solenoids (51 to 57). Line pressure s used as the feed oil to this regulator and the output is termed line 500.
 
 ### Line Pressure Boost Valve
-`ssangyong_musso_en_457088a0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Line pressure is controlled by 56, which acts as the line pressure boost valve (refer figure 3.15). When 56 pressure is applied to the end of the PRV it is opposed by spring force and causes LOW line pressure for light throttle application and cruising.
 
@@ -18705,7 +17277,6 @@ Heavy throttle application causes the normally open 56 to open (switch Off) thus
 Figure 3.15 Solenoid Supply Pressure Regulator Valve and Line Pressure Control Valve
 
 ### Clutch Apply Regulator Valve
-`ssangyong_musso_en_a0b9242f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The clutch apply regulator valve (refer figure 3.16) is a fixed ratio valve. This valve provides a regulated pressure to the C1 clutch and controls the rate of change of state of the clutch to give the desired shift quality.
 
@@ -18717,7 +17288,6 @@ Third gear oil supplied to the valve is regulated to provide an output pressure 
 Figure 3.16 Clutch Apply Regulator Valve
 
 ### Band Apply regulator Valve
-`ssangyong_musso_en_109aa404` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The band apply regulator valve (refer figure 3.17) is a fixed ratio valve. It provides a regulated pressure to the fron servo, and controls the rate of change of state of the front band (B1) to give the desired shift quality.
 
@@ -18729,7 +17299,6 @@ Second gear oil supplied to the valve is regulated to provide an output pressure
 Figure 3.17 Band Apply Regulator Valve
 
 ### Reverse Lockout Valve
-`ssangyong_musso_en_78759024` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The reverse lockout valve (refer figure 3.18) is a two position valve contained in the upper valve body. This valve uses 51-52 pressure as a signal pressure and controls the application of the rear band (B2).
 
@@ -18755,7 +17324,6 @@ Note that if the transmission is in failure mode, the rear band will be applied 
 Figure 3.18 Reverse Lockout Valve
 
 ### Primary Regulator Valve
-`ssangyong_musso_en_68ee4eb3` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The primary regulator valve (PRV) (refer to figure 3.19) regulates the transmission line pressure (or pump output pressure). This valve gives either high or low line pressure depending on whether S6 is switched Off or On, When S6 is switched On,S6 pressure is applied to the PRV moving it against spring pressure and opening the line pressure circuit to the pump suction port resulting in reduced line pressure. Low line pressure is used during light throttle applications and cruising. Heavy throttle will cause S6 to switch Off and thereby cause high line pressure.
 
@@ -18769,7 +17337,6 @@ The PRV also regulates the supply of oil to the converter via the converter feed
 Figure 3.19 Primary Regulator Valve
 
 ### Converter Clutch Regulator Valve
-`ssangyong_musso_en_8dd4f6be` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The converter clutch regulator valve (refer figure 3.20) regulates the pressure of the oil which applies the converter clutch. Input oil from the line 500 circuit is regulated within the valve, with the output pressure being variable according to the signal pressure from the S5 circuit. Converter clutch apply and release application is smoothed by electronically varying the S5 circuit pressure.
 
@@ -18777,7 +17344,6 @@ The converter clutch regulator valve (refer figure 3.20) regulates the pressure 
 Figure 3.20 Converter Clutch Regulator Valve
 
 ### Converter Clutch Control Valve
-`ssangyong_musso_en_0f8e761a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The converter clutch control valve (refer figure 3.21) is a two position valve which applies or releases the converter clutch.
 
@@ -18791,7 +17357,6 @@ When the valve is in the on or applied position, regulated oil from the converte
 Figure 3.21- Converter Clutch Control Valve
 
 ### C1 Bias Valve
-`ssangyong_musso_en_ed304b27` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The C1 bias valve (refer figure 3.22) ensures that the converter lock-up clutch is only applied in third and fourth gears. It uses C1 clutch oil pressure as the switching signal since C1 is only applied in third and fourth gears. Line to 500 oil is routed through the C1 bias valve to S7. The C1 bias valve therefore acts as a safety feature to ensure drivability in the event of S7 failure.
 
@@ -18799,7 +17364,6 @@ The C1 bias valve (refer figure 3.22) ensures that the converter lock-up clutch 
 Figure 3.22- C1 Bias Valve
 
 ### B1R Exhaust Valve
-`ssangyong_musso_en_fe9c5fc6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The B1R exhaust valve (refer figure 3.23) is a two position spring loaded valve located in the transmission case directly adjacent to the front servo. It permits the servo release oil to be rapidly exhausted into the transmission case during application of the front band (B1). This prevents the need to force the oil back from the front servo through the valve body and through the 3-4 shift valve. The spring positions the valve to prevent oil entering the release area of the servo until the B1R circuit oil pressure reaches approximately 100 kPa.
 
@@ -18807,7 +17371,6 @@ The B1R exhaust valve (refer figure 3.23) is a two position spring loaded valve 
 Figure 3.23 B1R Exhaust Valve
 
 ### POWER TRAIN SYSTEM
-`ssangyong_musso_en_325b2c2f` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 The Power Train System consists of:
 
@@ -18842,7 +17405,6 @@ Table 4.1 Engaged Elements vs Gear Ratios
 Figure 4.1 Power Flow Diagram
 
 ### TORQUE CONVERTER
-`ssangyong_musso_en_18deec97` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The torque converter (refer figure 4.2) consists of a turbine, stator pump, impeller and a lock-up damper and piston assembly. As in conventional torque converters, the impeller is attached to the converter cover, the turbine is splined to the input shaft and the stator is mounted on the pump housing via a one way clutch (sprag).
 
@@ -18854,7 +17416,6 @@ Lock-up is achieved by applying hydraulic pressure to the damper and piston asse
 Figure 4.2 Torque Converter Cross Section
 
 ### CLUTCH PACKS
-`ssangyong_musso_en_357edc42` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 There are four clutch packs (refer to figure 4.3). All clutch packs are composed of multiple steel and friction plates.
 C1 CLUTCH When applied, this clutch pack allows the input shaft to drive the planet carrier.
@@ -18872,7 +17433,6 @@ C4 CLUTCH When applied this clutch provides engine braking on overrun. This occu
 Figure 4.3 Clutch Packs
 
 ### BANDS
-`ssangyong_musso_en_12c2cf30` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 The transmission utilises two bands, the B1 band (sometimes known as the 24 band), and the B2 band (sometimes known as the low-reverse band). Refer to figure 4.4.
 
@@ -18886,7 +17446,6 @@ Reverse, Neutral and Manual 1. When activated B2 prevents the planet carrier ass
 Figure 4.4- Bands
 
 ### ONE WAY CLUTCHES
-`ssangyong_musso_en_17431754` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 The transmission uses two OWCs, the 1-2 OWC and the 34 OWC. (Note that a third OWC is located in the torque converter, also known as a sprag.)
 
@@ -18895,12 +17454,10 @@ The 1-2 OWC is located between the planetary carrier assembly and the centre sup
 The 3-4 OWC is located between the C4 and the C2 clutch assemblies. This allows the C2 clutch to drive the forwar sun gear in first, second and third gears but unlocks in fourth gear and during overrun.
 
 ### PLANETARY GEAR SET
-`ssangyong_musso_en_32c295cd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The planetary gear set used in the transmission is a conventional six pinion Ravigneaux compound gear set.
 
 ### PARKING MECHANISM
-`ssangyong_musso_en_c6e76bdf` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Park is selected the manual lever extends the park rod rearwards to engage the parking pawl (refer to (figure 4.5). The pawl will engage the external teeth on the ring gear thus locking the output shaft to the transmission case. When Park is not selected a return spring holds the parking pawl clear of the output shaft, preventing accidental engagement of Park.
 
@@ -18908,7 +17465,6 @@ When Park is selected the manual lever extends the park rod rearwards to engage 
 Figure 4.5 Park Rod and Cross Shaft
 
 ### INTRODUCTION
-`ssangyong_musso_en_a480f3ce` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The power flows for the various transmission selections are listed below:
 
@@ -18921,14 +17477,12 @@ Figure 5.1 Engaged Elements vs Gear Selected
 ![](images/6918f1d5c9c72984d03781f39e72ee3069aa73e19163116e937b5903c80be206.jpg)
 
 ### POWER FLOW PARK AND NEUTRAL
-`ssangyong_musso_en_9f6e07f2` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 In Park and Neutral, there is no drive to the planetary gear set. The rear band is applied to eliminate ‘clunk’ on engagement of the reverse gear, and to improve the low range engagement for 4WD applications. No other clutches or bands are applied.
 
 In Park the transmission is mechanically locked by engaging a case mounted pawl with teeth on the output shaft rin gear.
 
 ### Control
-`ssangyong_musso_en_24e402e2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To maintain this arrangement in the steady state solenoids and valves are activated as follows:
 
@@ -18948,7 +17502,6 @@ Table 5.2 Engaged Elements Park arid Neutral
 ![](images/7d4b6a0e20d52bb6fecd0bc865b42bbdf55b6e51104ad540d98c766faad43350.jpg)
 
 ### POWER FLOW REVERSE
-`ssangyong_musso_en_9590fefb` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 In Reverse, transmission drive is via the input shaft and the forward clutch cylinder to the hub of the C3 clutch. The elements of the transmission function as follows
 
@@ -18958,7 +17511,6 @@ The long pinion drives the internal ring fear in the same direction.
 The internal ring being splined to the output shaft drives it in an anti-clockwise or reverse direction.
 
 ### Control
-`ssangyong_musso_en_6068bb5f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To maintain this arrangement in the steady state solenoids and valves are activated as follows:
 
@@ -18976,7 +17528,6 @@ Refer to figure 5.2 and table 5.3
 ![](images/0bd33c45ee2ae6b5ac7f4cdba0c5860c59a1d17e1054a8d550f952c180d19517.jpg)
 
 ### POWER FLOW MANUAL 1
-`ssangyong_musso_en_f5c89f67` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 In Manual 1, transmission drive is via the input shaft to the forward clutch cylinder. The elements of the transmission function as follows
 
@@ -18988,7 +17539,6 @@ The long pinion rotating about its axis drives the internal ring gear and the ou
 The C4 clutch provides engine braking through the 3-4 OWC on overrun.
 
 ### Control
-`ssangyong_musso_en_3245dfab` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To maintain this arrangement in the steady state solenoids and valves are activated as follows:
 
@@ -19005,7 +17555,6 @@ Table 5.4 Engaged Elements Manual 1
 ![](images/cba52a5430032838067d98ae2e55b68c16b5f9f3ab853d361220e8cae06fd499.jpg)
 
 ### POWER FLOW DRIVE 1
-`ssangyong_musso_en_1e19af78` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 In Drive 1, transmission drive is via the input shaft to the forward clutch cylinder. The elements of the transmission function as follows
 
@@ -19016,7 +17565,6 @@ The 1-2 OWC prevents the planetary gear carrier from rotating under reaction for
 There is no engine braking on overrun.
 
 ### Control
-`ssangyong_musso_en_c9f17922` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To maintain this arrangement in the steady state solenoids and valves are activated as follows:
 
@@ -19032,7 +17580,6 @@ Table 5.5 Engaged Elements Drive 1
 ![](images/0a9e48a3052dc31922ad27df404a44601831768977ba364aec3158a9dacc6f70.jpg)
 
 ### POWER FLOW DRIVE 2 AND MANUAL 2
-`ssangyong_musso_en_e239a4e8` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 In Drive 2 and Manual 2, transmission drive is via the input shaft and forward clutch cylinder. The elements of the transmission function as follows :
 
@@ -19043,7 +17590,6 @@ The B1 band is applied holding the reverse sun gear stationary therefore the lon
 The C4 clutch is applied to bypass the 3-4 OWC and provide engine braking on overrun.
 
 ### Control
-`ssangyong_musso_en_31f937cc` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 To maintain this arrangement in the steady state solenoids and valves are activated as follows: Solenoid S1 is switched Off. S2 is switched On.
 
@@ -19067,7 +17613,6 @@ Table 5.6 Engaged Elements Drive 2 and Manual 2
 ![](images/6121de71ee2173d20dc4f4831fe465c7e5ed282c8565e81d07b6ba1937067957.jpg)
 
 ### POWER FLOW 一 DRIVE 3 AND MANUAL 3
-`ssangyong_musso_en_580ee242` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 In Drive 3 and Manual 3, transmission drive is via the input shaft to the forward clutch cylinder. The elements of the transmission function as follows
 
@@ -19078,7 +17623,6 @@ The ring gear and output shaft are driven in a clockwise or forward direction at
 The C4 clutch is applied to bypass the 3-4 OWC and provide engine braking on overrun.
 
 ### Control
-`ssangyong_musso_en_5fa3d637` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 To maintain this arrangement in the steady state solenoids and valves are activated as follows:
 
@@ -19110,12 +17654,10 @@ Refer to figure 5.6 and table 5.7.
 ![](images/7e24f866e2c4d53fe4a39de9cf0cf0b77748b6350030f95f51e3037e50f925a5.jpg)
 
 ### POWER FLOW - DRIVE 3 LOCK UP AND MANUAL 3 LOCK UP
-`ssangyong_musso_en_942d25a1` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 In Drive 3 Lock Up and Manual 3 Lock Up, transmission drive is the same as for Drive 3 but with the application of the converter lock up clutch to provide positive no-slip converter drive.
 
 ### Control
-`ssangyong_musso_en_55c0bd3c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Control for Drive 3 Lock Up and Manual 3 Lock Up is the same as for Drive 3 with the addition of the converter clutch circuit activated by solenoid S7.
 
@@ -19132,7 +17674,6 @@ Table 5.8 Engaged Elements Drive 3 Lock Up and Manual 3 Lock Up
 ![](images/8edef672feb2167e7facff6640c228407f3ec04cc573c2ebd6cb4bd8d10bc1eb.jpg)
 
 ### POWER FLOW DRIVE 4 (OVERDRIVE)
-`ssangyong_musso_en_e9a7b47a` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 In Drive 4 (Overdrive), transmission drive is via the input shaft to the forward clutch cylinder.
 
@@ -19145,7 +17686,6 @@ The forward sun gear is also driven faster than the input shaft and overruns the
 The C2 clutch is engaged to reduce the speed differential across the 3-4 OWC.
 
 ### Control
-`ssangyong_musso_en_ef45ef09` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 o maintain this arrangement in the steady state solenoids and valves are activated as follows:
 
@@ -19173,12 +17713,10 @@ Table 5.9 Engaged Elements Drive 4 (Overdrive)
 ![](images/3acd0a11d47c2a74dd85605ecb47c99a454271a1b020d936a3a616b7bcf1d4d6.jpg)
 
 ### POWER FLOW DRIVE 4 LOCK UP
-`ssangyong_musso_en_bacf8d4a` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 In Drive 4 Lock Up, transmission drive is the same as for Drive 4 but with the application of the converter lock up clutch to provide positive no-slip converter drive.
 
 ### Control
-`ssangyong_musso_en_331f1423` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Control for Drive 4 Lock Up is the same as for Drive 4 with the addition of the converter clutch circuit activated by solenoid S7.
 
@@ -19195,14 +17733,12 @@ Table 5.10 Engaged Elements Drive 4 Lock Up
 ![](images/149550bba826e151ef05b924789f74e298eefc82ba5f420a199ad8d0ddff8f41.jpg)
 
 ### Recommended Test Equipment and Procedure
-`ssangyong_musso_en_a04da971` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The test equipment is designed to be used with the control modules in all vehicles. The components used in the transmission application are:
 
 Multi Function Tester, and Appropriate vehicle for testing.
 
 ### Multi Function Tester (MFT)
-`ssangyong_musso_en_2666d0d5` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The MFT is programmed with the special vehicle diagnostic software that allows selection of the unit under test.
 The program allows the proper communication to the Transmission Control Unit (TCU).
@@ -19212,7 +17748,6 @@ Examples are viewing codes, clearing error codes, and real-time operation. Set u
 This equipment can be used by trained personnel such as technicians and mechanics to diagnose electronic and wiring problems relating to the vehicle transmission. Information that is available includes engine and road (shaft) speed, transmission oil temperature, throttle position, solenoid/gear status and gear lever position. Current and stored faults detected by the electronics are also available.
 
 ### TCU Pin Description
-`ssangyong_musso_en_9a31b765` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The TCU pin descriptions are listed in table 6.1.1. The wiring loom pins are shown in figure 6.1.1
 
@@ -19227,7 +17762,6 @@ Table 6.1.1 TCU Pin Description
 Figure 6.1.1 Wiring Loom Pins
 
 ### Default Transmission Operating Modes
-`ssangyong_musso_en_59555e50` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The TCU relies on accurate information from its inputs and complete control of its outputs to effectively control the transmission. To ensure that it has both valid inputs and functioning outputs, the TCU carries out both hardware and software fault detection routines. The TCU will respond to any faults detected by adopting the operating modes which are detailed below.
 
@@ -19236,7 +17770,6 @@ The following symptoms of faults are the most obvious results of each fault unde
 There is always the possibility that a fault may not be detected. If undetected fault conditions are present, the operation of the transmission difficult to predict.
 
 ### 1 Throttle Fault
-`ssangyong_musso_en_788add43` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 All shifts will occur as if a nominal throttle (approx. 44%) were applied for shift scheduling.
 All shifts will be firm as full throttle and hence high engine torque is assumed.
@@ -19247,7 +17780,6 @@ Line pressure will always stay high (solenoid 6 OFF) to cope with assumed high t
 f a fault is undetected, the percent throttle is most likely to be interpreted as higher than actual, resulting in late upshifts, early downshifts, firm shifting and a harsh 3-1 shift when stopping.
 
 ### 2 Throttle Not Learnt Fault
-`ssangyong_musso_en_82e031db` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The transmission operates from default throttle calibration values which results in the evaluation of the throttle being higher (more open) than it is. There(ore at zero throttle settings, the transmission may calculate that sufficient throttle opening is present to justify high line pressure and switch solenoid 6 to OFF.
 
@@ -19256,12 +17788,10 @@ Other symptoms are:
 a. late upshifts and b. lock-up maintained at zero throttle when the vehicle speed is sufficiently high.
 
 ### 3 Engine Speed Fault
-`ssangyong_musso_en_b626af20` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 l All shifts will be firm because an engine speed corresponding to peak engine torques is assumed. If a fault is undetected, the engine speed is likely to be interpreted as stalled resulting in soft shifting possibly with an end of shift bump.
 
 ### 4 Vehicle Speed Sensor Fault
-`ssangyong_musso_en_9ed59142` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All shifts will be controlled by the shift lever with skip downshifts disabled and downshifts only allowed if the engine speed is low. Fourth gear will be inhibited.
 The torque converter will be unlocked at all times.
@@ -19269,7 +17799,6 @@ The torque converter will be unlocked at all times.
 If a fault is undetected, the vehicle is likely to be interpreted as being stationary resulting in first gear operation at all times. Note that speedometer transducer faults are likely to cause the vehicle’s speedometer to become inoperative.
 
 ### 5 Gear Lever Fault (Inhibitor/PRNDL Switch)
-`ssangyong_musso_en_37cc1c38` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The gear lever is assumed to be in the Drive position.
 The transmission is limited to 2nd,3rd, and R gears only.
@@ -19282,59 +17811,50 @@ If a fault is undetected, the gear lever position is likely to be interpreted as
 If the gear lever is incorrectly adjusted, the transmission may shift gears on bumpy road surfaces.
 
 ### 6 Transmission Oil Temperature Sensing Fault
-`ssangyong_musso_en_ac968bb6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All shifts will be firm until the transmission has warmed up, because a high transmission oil temperature is assumed.
 
 If a fault is undetected, the temperature is likely to be evaluated as being lower than actual, resulting in softer shifts with ‘end bump’ (very firm feel at the end of the shift).
 
 ### 7 Mode Setting Fault
-`ssangyong_musso_en_210e739f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All shifts will occur as if the mode is set to ‘NORMAL’. The mode indicator will always be off indicating that ‘NORMAL’ mode is selected. The mode indicator will not respond to changes in switch setting. If a fault is undetected, the mode as indicated by the mode indicator is not likely to respond to the mode switch.
 
 ### 8 Battery Voltage Sensing Fault
-`ssangyong_musso_en_2cc460b5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the battery voltage is low then shifts to first gear are inhibited.9 the battery voltage is high (>16.5V) then the transmission goes into limp home (LHM) mode.
 
 If a fault is undetected, the transmission is likely to incorrectly evaluate an ON/OFF solenoid fault resulting in limp home mode (LHM) operation.
 
 ### 9 ON/OFF Solenoid Fault (Solenoids 1,2,3 and 4)
-`ssangyong_musso_en_4f4260de` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The transmission adopts its limp home mode (LHM) operation, described above. However, if solenoid 1 is faulty then the fourth gear LHM strategy will be adopted independent of vehicle speed.
 
 If a fault is undetected, the operation of the transmission is dependent on which solenoid is actually faulty. The characteristics for different solenoid fault conditions are listed in table 6.1.2.
 
 ### 10 ON/OFF Solenoid Fault (Solenoids 6,7)
-`ssangyong_musso_en_dc08351e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If solenoid 6 is found faulty it is always disabled resulting in high line pressure being applied continuously.
 If solenoid 7 is found faulty it is disabled resulting in the transmission being locked always.
 The transmission does not go into LHM.
 
 ### 11 Variable Pressure Solenoid Fault
-`ssangyong_musso_en_7770f2ce` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The transmission adopts its LHM operation.
 If a fault is undetected, the transmission shift feel is likely to be poor for all shifts.
 
 ### 12 Software Fault
-`ssangyong_musso_en_02e715fa` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The transmission adopts the third gear LHM strategy of operation, independent of vehicle speed. The operation of the TCU under this condition is difficult to predict. Its operation may be erratic.
 If a fault is undetected, the operation of the TCU is likely to be erratic.
 
 ### 13 Power Supply Fault
-`ssangyong_musso_en_528a5da7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The transmission adopts the third gear LHM strategy of operation, independent of vehicle speed. If there is an intermittent power supply connection, the TCU will power-up in fourth gear and then shift to the appropriate gear to satisfy the conditions present. The power supply is not monitored for fault evaluation.
 
 All faults except for solenoid faults can be recovered without having to turn the TCU off and back on. However, in general the recovery requires that no faults are present for a period of time (approx. 3 or 30 seconds). Recovery from a fault will not clear the fault from the keep alive memory
 
 ### 14 Transmission Sump Temperature Exceeding 135°C
-`ssangyong_musso_en_583251eb` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 The converter lockup clutch will be applied at lower speeds, causing a shudder through the vehicle.
 The mode indicator will flash in some vehicles.
@@ -19342,7 +17862,6 @@ The mode indicator will flash in some vehicles.
 These faults can be due to the transmission oil overheating or due to an incorrect signal received from the temperature sensor.
 
 ### Diagnostic Trouble Messages
-`ssangyong_musso_en_4413eb91` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The diagnostic trouble messages generated by the TCU and their possible causes are listed in table 6.1.3.
 
@@ -19355,7 +17874,6 @@ Table 6.1.3 Diagnostic Trouble Messages
 ![](images/f05f9a4ae646b3751372a8304df2bd121dfaa291d6dce5c4f2f1b1794abb289d.jpg)
 
 ### In Vehicle Transmission Checks
-`ssangyong_musso_en_0a370095` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Carry out the following tests before removing the transmission.
 
@@ -19370,14 +17888,12 @@ Carry out a road test to confirm the symptoms, if necessary.
 Inspect the oil, ensure that there are no metal or other contaminants in the oil pan.
 
 ### Diagnosing Oil Leaks
-`ssangyong_musso_en_d70dd673` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Determine the source of oil leaks by firstly cleaning down the affected area, then driving the vehicle.
 Inspect the seals to confirm the source of the leak. To determine the source of a rear servo oil leak, raise the vehicle on a hoist, then carry out a reverse stall.
 To determine the source of a front servo leak, raise the vehicle on a hoist, then run the vehicle in second gear.
 
 ### Troubleshooting Charts
-`ssangyong_musso_en_92d59dcb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The troubleshooting charts are set out as follows:
 
@@ -19400,7 +17916,6 @@ Table 6.2.4 After Teardown Faults
 ![](images/f0f78bf58105ebf7b6e5f310b8e584d3d40a115fbaeb4df57b8db938693b6db2.jpg)
 
 ### SELF DIAGNOSIS TEST
-`ssangyong_musso_en_8ec877ac` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/bbb785cdcdc8c8fc0ba7499c67b9c7b1680f90d5fbf09e330114e5b9fc733d30.jpg)
 
@@ -19414,7 +17929,6 @@ Table 6.2.4 After Teardown Faults
 8. Determine the fault code and check the detective Items. Notice Refer to sefadf3fnosfs list.
 
 ### Self-diagnosis List
-`ssangyong_musso_en_14c4509f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/fab41279a763c67f9b146ee049260acb0489ff1ff2f1f01423bd8ae046330637.jpg)
 
@@ -19423,7 +17937,6 @@ Table 6.2.4 After Teardown Faults
 ![](images/f3a9b1b228da77acc560e379c1122ad9529c72a7d1e1e3643bbedcce5d02335d.jpg)
 
 ### HYDRAULIC SYSTEM
-`ssangyong_musso_en_8e696644` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The procedures detailed below should be followed in the event that the self test procedure detailed in section 6, or a defect symptom, indicates that there is a fault in the hydraulic system.
 
@@ -19435,7 +17948,6 @@ Check engine idle speed (refer to Section 7.3).
 Conduct a stall test (it is outside the scope of this publication to detail this procedure) conduct a road test (it is outside the scope of this publication to detail this procedure).
 
 ### Checking Transmission Fluid Level
-`ssangyong_musso_en_6585ae19` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This procedure is to be used when checking a concern with the fluid level in a vehicle. A low fluid level will result in gearshift loss or delay if driven when the vehicle is cold.
 
@@ -19444,12 +17956,10 @@ The vehicle is to be test driven to determine if there is an abnormal delay when
 If there is no loss of drive when the vehicle is driven warm and a speedo fault is registered, then fluid should be added to the transmission.
 
 ### Checking, Adding Fluid and Filling
-`ssangyong_musso_en_2e27637a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When adding or changing transmission oil use only Castrol TQ 95 automatic transmission fluid (ATF) or other approved fluids. The use of incorrect oil will cause the performance and durability of the transmission to be severely degraded. Do not underfill the transmission. Incorrect tilling may cause damage to the transmission. The fluid level setting procedure is detailed below.
 
 ### Notice
-`ssangyong_musso_en_925f13f8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When a transmission is at operating temperature hot transmission fluid may come out of the case if the fill plug i removed. 9 the transmission is at operating temperature allow two hours for cooling prior to removing the plug.
 
@@ -19466,7 +17976,6 @@ When a transmission is at operating temperature hot transmission fluid may come 
 9. Tighten the transmission filler plug to specification.
 
 ### Checking, Adding Fluid and Filling Drained or Dry Transmission
-`ssangyong_musso_en_0c911871` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 To set the correct fluid level proceed as follows.
 
@@ -19491,7 +18000,6 @@ b. If the transmission torque converter is full: 4.5 litres 4WD 4.5 litres RWD
 12. Replace the transmission filler plug and clean all remnants of ATF on the transmission and vehicle. Tighten the transmission Filler plug to specification.
 
 ### Throttle Position Calibration
-`ssangyong_musso_en_cbe375e1` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Should the throttle position data stored in the TCU be lost or be out of specification, as indicated by a diagnostic trouble message, it may be re-established by the following procedure.
 
@@ -19501,7 +18009,6 @@ Allow the engine to idle in ‘Drive’ for 60 seconds with the air conditioner 
 Switch the engine off but leave the ignition on. Hold the accelerator pedal on the floor for 60 seconds. The wide open throttle reference point in the TCU has now been set.
 
 ### Throttle Clearing
-`ssangyong_musso_en_6d55288e` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The leant throttle clearing routine uses the mode switch and gear lever. Carry out the following steps to complete the automated throttle clearing procedure:
 
@@ -19511,7 +18018,6 @@ The leant throttle clearing routine uses the mode switch and gear lever. Carry o
 4. Move the T-bar to ‘M3’ and then select ‘WINTER’ mode.
 
 ### Vehicle Coding
-`ssangyong_musso_en_74fc29fc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The vehicle coding is integrated as part of the diagnostic software. The coding applies to the following vehicle models:
 
@@ -19525,7 +18031,6 @@ The vehicle coding is integrated as part of the diagnostic software. The coding 
 8. RWD E23.
 
 ### REMOVAL & INSTALLATION OF TRANSMISSION
-`ssangyong_musso_en_c774b3d4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the negative battery cable.
 2. Disconnect the connectors from transfer case.
@@ -19558,7 +18063,6 @@ Installation Notice
 10. Separate the locking clip on shift lever and remove the shift rod.
 
 ### Notice
-`ssangyong_musso_en_a0215aca` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Removal and installation performed when the shift procedure should be lever is in “D” range.
 
@@ -19575,7 +18079,6 @@ Removal and installation performed when the shift procedure should be lever is i
 13. Put the alignment mark for installation, and unscrew the six mounting bolts for torque converter from drive plate through the service hole (arrow) by rotating the engine and remove the torque converter.
 
 ### Installation Notice
-`ssangyong_musso_en_142b8a81` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c16eab59c1259c4a8c6c136d15d8411f5b212d270f13ccd96bf173a14e29c349.jpg)
 
@@ -19588,7 +18091,6 @@ Screw the six bolts mounting the torque converter through the service hole by us
 15. Unscrew the eight transmission housing bolts and remove the transmission assembly.
 
 ### Installation Notice
-`ssangyong_musso_en_fb750c36` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/703e5ff8042b832958a7af07290fcbf18fb134cd415aa4797bb2e89ea69edd64.jpg)
 
@@ -19599,7 +18101,6 @@ Be careful not to drop the torque converter while removing the transmission.
 ![](images/db3e494cf93350e3dd11eb3f79de0bf994bf40f2a283f5daacfad0dd19d85d96.jpg)
 
 ### REBUILD WARNINGS
-`ssangyong_musso_en_f5403734` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Prior to rebuilding a transmission system, the following warnings are to be noted.
 
@@ -19609,7 +18110,6 @@ Ensure that both earth straps (one at the batted terminal and one on the vehicle
 Follow the throttle position calibration procedure in section 7 of this manual if the powertrain control module transmission control unit (PCM/TCU) is swapped.
 
 ### Notice
-`ssangyong_musso_en_79f2d58d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remove the inhibitor switch before washing the transmission in solvent or hot wash.
 
@@ -19631,7 +18131,6 @@ To disassemble the transmission, proceed as follows:
 7. Remove the front servo cover circlip. Remove the cover and piston.
 
 ### Notice
-`ssangyong_musso_en_577b7ca1` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The plastic servo block is retained by the piston return spring only.
 
@@ -19654,7 +18153,6 @@ The plastic servo block is retained by the piston return spring only.
 15. Remove the centre support retaining circlip.
 
 ### Notice
-`ssangyong_musso_en_7b3fcc32` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not hammer the output shaft to remove the centre support as this will cause permanent damage to the thrust bearing surfaces.
 
@@ -19667,7 +18165,6 @@ Do not hammer the output shaft to remove the centre support as this will cause p
 ![](images/159e2d44dc320eb8dca32a6c30d531aa5d8e82f20b59e11d3b862606942ef18f.jpg)
 
 ### Transmission Case
-`ssangyong_musso_en_d0d48796` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To teardown the transmission case, proceed as follows: 1. Remove the pin from the cross shaft inhibitor switch side (4WD models) using tool No.0555-332942.
 
@@ -19703,7 +18200,6 @@ necessary.
 17. To remove the park rod lever: Remove the circlip from the inner end of the pivot shaft and tap the outer end of the shaft until it moves free from the case, then using a wide shallow tapered drift as a wedge, drive the pin out from the inside of the case and remove the lever and spring.
 
 ### Notice
-`ssangyong_musso_en_4008d376` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not remove the park rod lever unless absolutely necessary.
 
@@ -19713,7 +18209,6 @@ Do not remove the park rod lever unless absolutely necessary.
 Figure 8.4 Forward Clutch Cylinder Assembly
 
 ### Forward Clutch Cylinder
-`ssangyong_musso_en_cc90e225` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To remove the forward clutch cylinder, refer to figure 8.4, proceed as follows.
 
@@ -19730,7 +18225,6 @@ To remove the forward clutch cylinder, refer to figure 8.4, proceed as follows.
 10. Remove the thrust block from the C4 clutch cylinder hub.
 
 ### Notice
-`ssangyong_musso_en_5b5ba279` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Make sure that the spring keeper is not caught in the circlip groove, and that all the spring pressure is released, before removing the tool.
 
@@ -19745,7 +18239,6 @@ Make sure that the spring keeper is not caught in the circlip groove, and that a
 ![](images/523c4c72bdce3d8a4d7d59facf49528b12975be0d2454b1b10565c2d184662b0.jpg)
 
 ### C3 Clutch Cylinder
-`ssangyong_musso_en_2ef6e924` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 To remove the C3 clutch cylinder, proceed as follows:
 
@@ -19758,7 +18251,6 @@ To remove the C3 clutch cylinder, proceed as follows:
 Remove the circlip and release the spring.
 
 ### Notice
-`ssangyong_musso_en_80b69396` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Make sure that the spring keeper has not been caught in the circlip groove, and that all spring pressure has been released, before removing the tool.
 
@@ -19775,7 +18267,6 @@ Make sure that the spring keeper has not been caught in the circlip groove, and 
 8. Remove the reverse sun gear from the cylinder.
 
 ### Planet Carrier and Centre Support
-`ssangyong_musso_en_763c5ad3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To remove the planet carrier and centre support, proceed as follows.
 
@@ -19788,7 +18279,6 @@ To remove the planet carrier and centre support, proceed as follows.
 ![](images/2c43b76e6fb5b791b4866854cac2f0ff2b99e995d3bcd688744385d564434f32.jpg)
 
 ### Pump
-`ssangyong_musso_en_39946319` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note that the following valves are housed in the pump cover:
 
@@ -19805,7 +18295,6 @@ To remove the pump, proceed as follows.
 3. Remove the five Torx head screws from the cover plate (Torx bit No. 30). Note that the odd screw holds the pump body to the pump body cover.
 
 ### Notice
-`ssangyong_musso_en_2610969d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not strike the converter support tube to loosen the pump body.
 
@@ -19816,7 +18305,6 @@ Do not strike the converter support tube to loosen the pump body.
 6. Remove the two ball check valves and one spring from the pump cover.
 
 ### Notice
-`ssangyong_musso_en_6efab4e0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Some of the valves and plugs are preloaded by springs and may unexpectedly fall out of the cover when the pins are removed.
 
@@ -19829,7 +18317,6 @@ Some of the valves and plugs are preloaded by springs and may unexpectedly fall 
 10. Remove the lip seal from the front of the pump body.
 
 ### Valve Body
-`ssangyong_musso_en_aac41d51` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 To disassemble the valve body, proceed as follows.
 
@@ -19861,7 +18348,6 @@ solenoid 6
 10. Remove the two filters (and the large nylon check ball) from the lower valve body.
 
 ### Notice
-`ssangyong_musso_en_8658e3d2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Once the pins are removed, the plates are loose in the valve body and will drop out when the valve body is turned over.
 
@@ -19870,7 +18356,6 @@ Once the pins are removed, the plates are loose in the valve body and will drop 
 12. Remove the 1-2,2-3 and 3-4 shift valves.
 
 ### Notice
-`ssangyong_musso_en_edaff908` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The plug is preloaded by the spring and may unexpectedly fall out of the valve body.
 
@@ -19881,7 +18366,6 @@ The plug is preloaded by the spring and may unexpectedly fall out of the valve b
 15. Depress the solenoid 5 valve. Remove the keeper pin and remove the valve and spring.
 
 ### Notice
-`ssangyong_musso_en_2506aa2c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The valve is preloaded by the spring and may unexpectedly fall out of the valve body.
 
@@ -19890,12 +18374,10 @@ The valve is preloaded by the spring and may unexpectedly fall out of the valve 
 17. Drive out the roll pin and remove the spring and ball check valve adjacent to the BAR valve.
 
 ### ASSEMBLY PROCEDURE
-`ssangyong_musso_en_705c0a9a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The transmission is assembled in modular fashion and details of assembly for each module are given under the appropriate subject. Refer to table 8.1 (at the end of Section 8.3) for the torque specifications to be applied, and to table 9.10 in section 9.6 for details of all special tools required, when performing assembly procedures. Technicians overhauling these transmissions will also require a selection of good quality Torx bit sockets, in particular numbers 30,40 and 50, and an 8 mm,10 mm and 12 mm double hex socket.
 
 ### Notice
-`ssangyong_musso_en_977ab038` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Ensure that the B1R circlip is fitted to the case. (If this is not fitted, the valve will peen its way into and through the separator plate.)
 2. Ensure that the ‘E’ clip is fitted to the cross shaft.
@@ -19909,21 +18391,18 @@ The transmission is assembled in modular fashion and details of assembly for eac
 ![](images/9521a364adc4d84736c7878f972e51d2ec9c3b35b1815bf034c6e2df6d50e2ea.jpg)
 
 ### Notice
-`ssangyong_musso_en_cee620e8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Care must be taken when applying sealant to ensure that it is not applied between the pin and the lever.
 
 5. Assemble the park rod lever, complete with the return spring and pivot pin, applying a small amount of sealant to the outer end of the pivot pin.
 
 ### Notice
-`ssangyong_musso_en_8cedf544` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 That the lever must pivot freely on its pin and the spring must return the park rod lever to its correct location.
 
 6. Secure the pivot pin with the circlip.
 
 ### Notice
-`ssangyong_musso_en_64df41ef` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The pawl must pivot freely on its pin.
 
@@ -19965,7 +18444,6 @@ The pawl must pivot freely on its pin.
 21. Route the portion of the wiring loom coming out of the case down between the inhibitor switch and the case. Position the ten pin plug on the wiring loom bracket
 
 ### Rear Band Assembly
-`ssangyong_musso_en_70117aa4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To assemble the rear band assembly proceed as follows:
 
@@ -19973,7 +18451,6 @@ To assemble the rear band assembly proceed as follows:
 2. Install the reaction anchor strut into the main case, without shims.
 
 ### Notice
-`ssangyong_musso_en_51c8ca1e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If fitting a new band, soak the new band in automatic transmission fluid (or a minimum of five minutes prior to assembly.
 
@@ -19990,7 +18467,6 @@ Figure 8.18 - Rear Servo and Band
 Figure 8.19 - Thrust Bearing and Washer Locations
 
 ### Output Shaft and Gear Assembly
-`ssangyong_musso_en_1a26eaa4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To assemble the output shaft and gear assembly (refer to (figure 8.19), proceed as follows:
 
@@ -20004,7 +18480,6 @@ To assemble the output shaft and gear assembly (refer to (figure 8.19), proceed 
 8. Carefully install the output shaft assembly in the case to prevent damage to the sealing rings.
 
 ### Rear Servo Assembly
-`ssangyong_musso_en_92c9999c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To assemble the rear servo assembly (refer to figure 8.18), proceed as follows.
 
@@ -20016,7 +18491,6 @@ To assemble the rear servo assembly (refer to figure 8.18), proceed as follows.
 6. Apply Loctite 567 sealant to the bolts. Install the bolts and tighten to specification.
 
 ### Planet Carrier Assembly and Centre Support
-`ssangyong_musso_en_e7ccda71` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 To assemble the planet carrier assembly and centre support, proceed as follows.
 
@@ -20035,7 +18509,6 @@ To assemble the planet carrier assembly and centre support, proceed as follows.
 Figure 8.20 Planet Carrier Assembly and Centre Support
 
 ### Extension Housing Assembly
-`ssangyong_musso_en_142fbea8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To assemble the extension housing assembly, proceed as follows.
 
@@ -20044,14 +18517,12 @@ To assemble the extension housing assembly, proceed as follows.
 2. Install a new seal to the extension housing or adaptor housing. Refer to figure 8.21.
 
 ### Notice
-`ssangyong_musso_en_c5ea3db9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not use petroleum jelly to hold the gasket in position.
 
 3. Position a new gasket onto the extension housing or adaptor housing.
 
 ### Notice
-`ssangyong_musso_en_c2933b92` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 See section 8.3.17 for the procedure to assemble the output flange assembly RWD models.
 
@@ -20061,7 +18532,6 @@ See section 8.3.17 for the procedure to assemble the output flange assembly RWD 
 Figure 8.21 Extension Housing
 
 ### Front Servo Assembly NOTICE
-`ssangyong_musso_en_5250f27d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Ensure that the front servo snap ring is installed correctly.
 Orient the circlip with the gap at the bottom, near the pan rail.
@@ -20081,7 +18551,6 @@ To assemble the front servo assembly (refer to figure 8.22), proceed as follows.
 Figure 8.22 Front Servo and Band
 
 ### Front Band Assembly
-`ssangyong_musso_en_96a3c96a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To assemble the front band assembly, proceed as follows.
 
@@ -20090,7 +18559,6 @@ To assemble the front band assembly, proceed as follows.
 3. Position the strut retainers on the band (refer to figure 8.23).
 
 ### NOTICE
-`ssangyong_musso_en_6cdc0f8f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If fitting a new band, soak the band in automatic transmission fluid for a minimum of 5 minutes prior to assembly.
 
@@ -20101,7 +18569,6 @@ If fitting a new band, soak the band in automatic transmission fluid for a minim
 Figure 8.23 Front Band Strut Installation
 
 ### C2/C4 Clutch Assembly Notice
-`ssangyong_musso_en_317f3204` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Check pistons for cracks.
 2. Do not mix the clutch piston return springs.
@@ -20126,7 +18593,6 @@ Figure 8.24 Typical C2/C4 Clutch Assembly
 11. Assemble the piston return spring to the piston, and fit the spring retainer over the spring.
 
 ### Notice
-`ssangyong_musso_en_0ffe8ad8` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The wire diameter of this spring is 4.3 mm.
 
@@ -20137,7 +18603,6 @@ The wire diameter of this spring is 4.3 mm.
 14. Lubricate the’0’rings with automatic transmission fluid and fit them to their respective grooves.
 
 ### Notice
-`ssangyong_musso_en_ea0a1b03` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ‘O’ rings must not be twisted in the grooves.
 
@@ -20146,7 +18611,6 @@ The wire diameter of this spring is 4.3 mm.
 16. Install the spring and spring retainer onto the piston.
 
 ### Notice
-`ssangyong_musso_en_22203a7e` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The wire diameter of this spring is 5.26 mm.
 
@@ -20175,14 +18639,12 @@ Figure 8.25 C4 Clutch Pack Clearance
 22. Check the C4 clutch pack clearance using special tool No. 0555-331900. Refer to figure 8.25.
 
 ### Notice
-`ssangyong_musso_en_ff9227b0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 With the C2 wave spring compressed, and the clutch Pack supporting a 2 k9 weight, the dimension from the underside of the C2 pressure plate to the selective steel is to be between 1.4- 1.8 mm. If the clutch is to be gauged from the top of the pressure plate, then the dimension is to be the actual thickness of the pressure plate plus 1.4-1.8 mm.
 
 23. Use selective plates to achieve the correct specification. If new friction plates are being fitted, remove the clutch pack and soak the friction plates in ATF for a minimum of 5 minutes prior to reassembly.
 
 ### Notice
-`ssangyong_musso_en_0305006d` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 The clutch pack clearance must be taken before the elements are soaked in Automatic Transmission Fluid (ATF).
 
@@ -20205,14 +18667,12 @@ Friction disc
 26. Check the clutch pack clearance using only the weight from tool No.0555-331900. Refer to figure 8.26.
 
 ### Notice
-`ssangyong_musso_en_67c60d35` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 With the clutch pack supporting a 2 kg weight, the dimension from the C3 clutch hub locating step to the friction plate is to be between 0.80-1.05 mm.
 
 27. Use selective plates to achieve the correct specification. If new friction plates are being fitted, remove the clutch pack and soak the friction plates in ATF for a minimum of 5 minutes prior to reassembly.
 
 ### Notice
-`ssangyong_musso_en_3c99166e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The clutch pack clearance must be taken before the elements are soaked in ATF.
 
@@ -20238,7 +18698,6 @@ Figure 8.27 C2 Hub Rotation
 37. Install the C3 hub and secure it with the circlip, ensuring that the circlip is firmly seated in its groove. Refer to figure 8.32.
 
 ### C3 Clutch and Reverse Sun Gear Assembly
-`ssangyong_musso_en_6eb7465d` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 To assemble the C3 clutch and reverse sun gear assembly (refer to figure 8.28), proceed as follows.
 
@@ -20248,7 +18707,6 @@ To assemble the C3 clutch and reverse sun gear assembly (refer to figure 8.28), 
 4. Install the reverse sun gear in the C3 cylinder, ensuring that the ‘O’ ring compression is adequate but not excessive.
 
 ### Notice
-`ssangyong_musso_en_073bc0fa` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ‘O’ rings must not be twisted in the grooves.
 
@@ -20257,7 +18715,6 @@ To assemble the C3 clutch and reverse sun gear assembly (refer to figure 8.28), 
 7. Install the C3 piston in the cylinder until the outside diameter of the piston enters the inside diameter of the cylinder.
 
 ### Notice
-`ssangyong_musso_en_d2e5728b` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Take care not to cut the ‘O’ ring.
 
@@ -20287,14 +18744,12 @@ Figure 8.28 C3 Clutch and Reverse Sun Gear
 13. Check the C3 clutch clearance (refer to figure 8.29) using special tool No.0555-33 900 in the following manner (weight only). a. Place the weight on the pressure plate and measure the distance from the end of the cylinder to the top of the pressure plate. b. Record this figure. c. Remove the weight. d. Lift the pressure plate up against the circlip and measure the distance from the end of the cylinder to the top of the pressure plate. e. Record this figure. f. Subtract the second reading from the first reading to obtain the clutch pack clearance.
 
 ### Notice
-`ssangyong_musso_en_20af79f1` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 With the clutch pack supporting a weight of 2 kg, the clearance between the snap ring and the top of the pressure plate is to be between 1.20-1.45 mm.
 
 14. If new friction plates are being fitted, remove the clutch pack and soak the friction elements in automatic transmission fluid for a minimum of five minutes prior to reassembly.
 
 ### Notice
-`ssangyong_musso_en_bbcf5911` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 The clutch pack clearance must be taken before the elements are soaked in automatic transmission fluid.
 
@@ -20302,7 +18757,6 @@ The clutch pack clearance must be taken before the elements are soaked in automa
 Figure 8.29 Typical C3 Clutch Assembly Clearance
 
 ### Forward Sun Gear and C3 Clutch Pack Assembly
-`ssangyong_musso_en_3336cb54` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d96d74156ec7a31743ef4ef70e614b00af8204cf6ecd86cc0f0f970134b85a91.jpg)
 Figure 8.30 Typical forward Sun Gear add C3 Clutch Assembly
@@ -20318,7 +18772,6 @@ To assemble the forward sun gear and C3 clutch pack assembly (Refer to figure 8.
 7. Place the assembly to one side.
 
 ### Notice
-`ssangyong_musso_en_eaeba9d0` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Ensure that the snap rings are fitted correctly. 2. Check pistons for cracks, especially the C1 piston. 3. Do not mix clutch piston return springs. 4. If the C1/C2 clutch packs separate from the C3 clutch pack, make sure the No. 6 bearing doesn’t drop out of the bearing retainer.
 
@@ -20346,14 +18799,12 @@ friction disc
 Use selective plates to achieve the correct specification.
 
 ### Notice
-`ssangyong_musso_en_38ff85ec` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 The clutch pack supporting a 2 kg weight, the dimension from the input shaft locating stop to the friction disc must be 0.70-0.90 mm.
 
 5. If new friction plates are being fitted, remove the clutch pack and soak the friction elements in automatic transmission fluid for a minimum of five minutes prior to assembly.
 
 ### Notice
-`ssangyong_musso_en_24617d8f` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 The clutch pack clearance must be taken before elements are soaked in automatic transmission fluid.
 
@@ -20374,7 +18825,6 @@ Figure 8.31 Typical C1 Clutch Assembly Clearance
 Figure 8.33 C1, C4, C2 and C3 Clutch
 
 ### Pump Cover and Converter Support Notice
-`ssangyong_musso_en_017607f1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Do not wash the nose of solenoids in solvent.
 2. Ensure that the correct ‘O’ ring is fitted for the application.
@@ -20383,7 +18833,6 @@ Figure 8.33 C1, C4, C2 and C3 Clutch
 5. Check the transmission end float. This will help to detect any missing parts or incorrect assembly.
 
 ### Notice
-`ssangyong_musso_en_408a48ba` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 Figure 8.35 shows the orientation of the cross- sections for figures 8.36 to 8.42.
 
@@ -20444,7 +18893,6 @@ Figure 8.42 Feed Ball
 19. Install the cover plate, solenoid 7 with the retainer and the solenoid wiring retainer to the pump cover, ensuring that the periphery of the cover plate is flush with the periphery of the pump cover. Refer to figure 8.34.
 
 ### Notice
-`ssangyong_musso_en_7fba3de2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Tighten the screws to specification in the order (1-5), shown in figure 8.44.
 
@@ -20454,7 +18902,6 @@ Figure 8.44 Pump Bolt Tightening Sequence
 20. Tighten the solenoid 7 screw. Refer to figure 8.39.
 
 ### Notice
-`ssangyong_musso_en_782b73b7` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 Check that neither the wiring nor the connector protrudes excessively, in order that at assembly neither the wiring and the connector contacts or rubs on the input shaft or the C1/C2 clutch cylinder.
 
@@ -20487,7 +18934,6 @@ e. The measurement recorded on the dial indicator is the transmission end float 
 Figure 8.46 Gear Train End Float Check
 
 ### Notice
-`ssangyong_musso_en_96b95fd1` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 1. Do not wash the nose of solenoids in solvent.
 2. Be aware of ball positions in the upper valve body.
@@ -20551,7 +18997,6 @@ Figure 8.54 Band Apply Regulator Valve and Solenoid 4
 Figure 8.55 Clutch Apply Regulator Valve and solenoid 3
 
 ### Notice
-`ssangyong_musso_en_4aec2b60` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 This aluminum valve is easily damaged.
 
@@ -20581,7 +19026,6 @@ Figure 8.58 Tightening Sequence Upper to Lower Valve Body
 25. Install solenoid 5. Ensure that the solenoid is pushed firmly into the valve body by the retainer.
 
 ### Notice
-`ssangyong_musso_en_f7a43747` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The wiring loom ground wire eyelet terminal is secured beneath the solenoid retainer.
 
@@ -20600,7 +19044,6 @@ Figure 8.62 Wiring Installation
 29. Install the manual shift valve. Refer to figure 8.60.
 
 ### Notice
-`ssangyong_musso_en_b79c3b76` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be aware that the manual valve will fall out of the valve body.
 
@@ -20624,7 +19067,6 @@ Solenoid 5 green
 Solenoid 6 violet (Refer to figure 8.62.)
 
 ### Notice
-`ssangyong_musso_en_276bc1b8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Replace the filter whenever rebuilding a transmission where a significant amount of mechanical damage has occurred.
 2. To aid the assembly of the pan gasket, use a small amount of Vaseline at the pan/gasket interface. This ensures that the gasket remains on the pan ridge. Do not over torque pan bolts as this may distort the pan and cause leaks.
@@ -20649,7 +19091,6 @@ Figure 8.65 Oil Pan Tightening Sequence
 Figure 8.64 Oil Filter Installation
 
 ### Torque Converter and Housing Assembly
-`ssangyong_musso_en_1f200183` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To assemble the torque converter and housing assembly, proceed as follows.
 
@@ -20661,7 +19102,6 @@ Figure 8.1 Torque Specifications
 ![](images/9a9c92333fa9eafd173b2df17ac0dc49fac98e9f01588eb95588289d6e1f9e02.jpg)
 
 ### Front Band Setting Procedure
-`ssangyong_musso_en_fb2a96cb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To set the front band, proceed as follows.
 
@@ -20684,14 +19124,12 @@ Figure 8.66 Front Band Settings
 ![](images/2e23055e1a16d23f0c057cdbdcdafeef7ae2a13038596871c1ab162726ed0e8a.jpg)
 
 ### Rear Band Setting Procedure
-`ssangyong_musso_en_3b9113ad` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To set the rear band, proceed as follows.
 
 1. Measure distance ‘A’ from the rear servo piston to the inner face of the transmission case using vernier calipers. Refer to figure 8.68. a. Apply air at 650/700 kPa to the rear servo apply area (B2 outer). Refer to figure 8.67. b. Measure the travel of the piston, subtract 3.75 mm and divide the remainder by 2.5 to find shim size. c. Release the air.
 
 ### Notice
-`ssangyong_musso_en_8414ee47` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A minimum of one shim is required at all times minimum shim size is 1 mm. The thickness of available shims are listed in table 8.2.
 
@@ -20712,7 +19150,6 @@ Table 8.2 Thickness of Available Shims
 Figure 8.68 Thickness of Available Shims
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_f719d623` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications 5B-1
 General Specifications 5B-1
@@ -20746,13 +19183,11 @@ Inspection of Components 5B-40
 Pre-Installation Checks 5B-45
 
 ### GENERAL SPECIFICATIONS
-`ssangyong_musso_en_ec794b7c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/59e5f0610dda292979c0f4796b2ca00239b238dc9b1100546e8bd16523edacb0.jpg)
 Notice Add LUBRIZOL (280cc) in oil after overhauling.
 
 ### COMPONENT LOCATOR
-`ssangyong_musso_en_5db4e00e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c14812aa8cb4a2541b452f36fc711f9c2fa11f1c1122df43da8a85624ec126af.jpg)
 
@@ -20867,7 +19302,6 @@ Assembly
 107 Transmission Case Assembly
 
 ### MAINTENANCE AND REPAIR ON-VEHICLE SERVICE
-`ssangyong_musso_en_09f18eff` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 SHIFT CONTROL CABLE
 
@@ -20890,7 +19324,6 @@ SHIFT CONTROL CABLE
 15 Washer
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_09a14a5d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Position the shift lever in neutral and remove the knob.
 
@@ -20909,7 +19342,6 @@ washer of the select lever.
 5. Pull out the clip from the bracket and remove the shift cable and select cable. 6. Installation is reverse order of the removal.
 
 ### Inspection Procedure
-`ssangyong_musso_en_b1ac644a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. The shift lever should be positioned in neutral.
 
@@ -20920,14 +19352,12 @@ washer of the select lever.
 ![](images/5ea6479e4d69b650c24c0146eac82164fa6eb6e061e05db8b36d59755ca557b1.jpg)
 
 ### Notice
-`ssangyong_musso_en_f0f3eed2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If necessary, adjust the adjust nut.
 
 ![](images/bc09110f863a7aee7d82c4f3e9b61729e00d132c92cdf1e645514cfdd547238a.jpg)
 
 ### TRANSMISSION
-`ssangyong_musso_en_223372da` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 Preceding Work Removal of the shift control cable
 
@@ -20956,12 +19386,10 @@ Preceding Work Removal of the shift control cable
 21 Breather Hose
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_7a70e24e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the negative terminal from the battery. 2. Lift up the vehicle and fix it safely. 3. Remove the drain plug from the transmission housing and drain the oil. Reinstall the drain plug.
 
 ### Installation Notice
-`ssangyong_musso_en_5bc1acca` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/57d3a18a037264d3c0e1b7f6ca8096527ba198b2ed43fab998602170f144ca5f.jpg)
 
@@ -20990,7 +19418,6 @@ Installation Notice
 8. Support the transmission on an suitable jack. Unscrew the center mounting nuts and each sides mounting bolts and remove the cross member.
 
 ### Installation Notice
-`ssangyong_musso_en_ef313080` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/36a76967cd1f7460d5ddd965b0807cac2b8c59cbe77e7d0d578eb45d21d042a3.jpg)
 
@@ -21008,14 +19435,12 @@ Installation Notice
 ![](images/2e7ca296f09415723e43837f24f9102f3bcb7190cebfadb132709807fd3a0d03.jpg)
 
 ### Disassembly Procedure
-`ssangyong_musso_en_dc3fdc62` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Install the removed transmission into a fixture.
 
 2. Remove the drain plug and drain the oil. Using a 13 mm wrench, remove the clamp bolt and position the offset lever in the 3-4 position of neutral.
 
 ### Notice
-`ssangyong_musso_en_0a2b8ab3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Removal of the offset lever in a position other than 3-4 of neutral will be difficult.
 
@@ -21032,7 +19457,6 @@ Removal of the offset lever in a position other than 3-4 of neutral will be diff
 Separate the offset lever from the shift.
 
 ### Notice
-`ssangyong_musso_en_9476b152` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not remove the offset lever while the extension housing is still assembled to the case.
 
@@ -21053,7 +19477,6 @@ Do not remove the offset lever while the extension housing is still assembled to
 10. Using a 10 mm wrench, remove the 10 bolts from the shift cover.
 
 ### Notice
-`ssangyong_musso_en_c61db0bd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For assembly, note the location of the two bolts.
 
@@ -21068,7 +19491,6 @@ For assembly, note the location of the two bolts.
 13. Using a 21 mm wrench or a T-50 bit, remove the 5-R lever pivot bolt.
 
 ### Notice
-`ssangyong_musso_en_2357af1a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Apply sealer bond to this bolt during assembly.
 
@@ -21093,7 +19515,6 @@ Apply sealer bond to this bolt during assembly.
 20. Make alignment marks on the case and input bearing retainer and remove the 4 input shaft bearing retainer bolts, using a 13 mm wrench.
 
 ### Notice
-`ssangyong_musso_en_7fc8df87` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Apply sealer on these bolts during assembly. Remove the input bearing retainer with the bearing outer race and shim.
 
@@ -21106,7 +19527,6 @@ Main shaft thrust race and bearing.
 Main shaft pilot bearing rollers (15 rollers).
 
 ### Notice
-`ssangyong_musso_en_c6b492aa` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ![](images/cf85802f12b53bdb5b15ba0b30d6c5f1e99ed45e3a8781ce7062354718f97252.jpg)
 
@@ -21144,7 +19564,6 @@ Push the counter shaft rearward to remove the rear bearing outer race.
 ![](images/690c9945f9913f77b929be0a2a2dba371829861a1c316c754bc558a7e3446748.jpg)
 
 ### Assembly Procedure
-`ssangyong_musso_en_bb8820f6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Using a hydraulic press and a supporting tool, press the counter shaft rear bearing into the case. Be sure that the supporting tool inside of he case should support the counter shaft.
 
@@ -21210,7 +19629,6 @@ A D
 18. Apply ‘RTV’ sealant on the sealing surface of the extension housing.
 
 ### Assembly Procedure
-`ssangyong_musso_en_397f897f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 19. Apply grease on the detent/guide plate in the extension housing. Install the detent ball in the 3-4 position.
 
@@ -21243,7 +19661,6 @@ Install the adjusting shim behind the input bearing outer race in the retainer a
 30. Install the control cables to the shift lever.
 
 ### Disassembly Procedure
-`ssangyong_musso_en_e3958df6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. For correct reassemble, place an alignment mark on the 3- 4 Synchronizer hub and sleeve.
 
@@ -21295,12 +19712,10 @@ One of the 3 springs.
 16. Check and clean all removed parts and replace if necessary.
 
 ### Assembly Procedure
-`ssangyong_musso_en_18737715` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. When assemble the synchronizer, make sure that the hubs and sleeves are matched and the 3 keys are installed properly. Also align blocking rings with keys during installation.
 
 ### Notice
-`ssangyong_musso_en_7cdcf265` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before assembly, coat all parts with lubricant. In case of the paper-lined blocking rings, soak them in DexronII/III before installation.
 
@@ -21331,14 +19746,12 @@ Spiral retaining ring (Use special tools).
 6. Using a hydraulic press and installer, install the 3-4 synchronizer hub onto the main shaft.
 
 ### Notice
-`ssangyong_musso_en_5276f311` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Align the blocking ring with the synchronizer keys while installing the hub.
 
 ![](images/d13c5765bb8a56e1a8d0ab7d386d065e41a43c10cf28b5b64c19e036c45278cc.jpg)
 
 ### Disassembly Procedure
-`ssangyong_musso_en_998393b6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the following parts from the input shaft
 
@@ -21356,7 +19769,6 @@ Main shaft pilot bearing rollers (15 rollers).
 5. Check and clean all removed parts and replace necessary.
 
 ### Assembly Procedure
-`ssangyong_musso_en_e2d43cdd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Using a hydraulic press and installer, press the input shaft bearing onto the input shaft.
 
@@ -21369,14 +19781,12 @@ Main shaft pilot bearing rollers (15 rollers).
 ![](images/753d3e6ffde7f7d64cd6783e9babc488e0177745e6e385abc8a1008df12fd9e4.jpg)
 
 ### Disassembly Procedure
-`ssangyong_musso_en_b74ed98d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Using a hydraulic press and special tool, remove the front bearing assembly from the counter shaft.
 
 2. Check and clean all removed parts and replace necessary.
 
 ### Assembly Procedure
-`ssangyong_musso_en_aa5bc9c6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Using a hydraulic press and installer, press the front bearing assembly onto the counter shaft.
 
@@ -21391,7 +19801,6 @@ Install the race to be fully seated on the inside of the case.
 ![](images/6aacbd1fbb74290308c6c60192d05601178da0a8c2d6ccf89eed9002a391904a.jpg)
 
 ### Disassembly Procedure
-`ssangyong_musso_en_6bb5ed28` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the vent from the extension housing.
 
@@ -21400,14 +19809,12 @@ Install the race to be fully seated on the inside of the case.
 3. Check and clean all removed parts and replace necessary.
 
 ### Assembly Procedure
-`ssangyong_musso_en_45692e09` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ecb8d1a60c25225773aa9e7f5e36a5134c4571b65ccdfd24b408aaf3ade8b35a.jpg)
 
 1. Install the O-ring and steel ring to the rear of the extension housing. 2. Install the vent to the extension housing.
 
 ### Disassembly Procedure
-`ssangyong_musso_en_56b22985` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Using a hammer and a pin punch (3/16) remove the selector arm roll pin.
 
@@ -21418,7 +19825,6 @@ Install the race to be fully seated on the inside of the case.
 ![](images/6de8d0687ff2eb069024f68b492795b1608295df88442cc69de31a8e16d545bf.jpg)
 
 ### Assembly Procedure
-`ssangyong_musso_en_dc44064a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. If the shaft cup plug was removed, apply plug outer surface with sealer and install it into the cover.
 
@@ -21459,7 +19865,6 @@ Selector arm should be aligned with the 3/4 shift fork selector plate.
 ![](images/9c29be827edd26c831d911c0c39e4cdc5702e601e2c048250d5f0ecf8e936fc9.jpg)
 
 ### Inspection Procedure
-`ssangyong_musso_en_e2fd0b9e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Clean all parts with solvent and dry them with compressed air. Check the following parts for cracks and damaged sealing surfaces.
 
@@ -21478,7 +19883,6 @@ Counter shaft rear bearing retainer
 Input shaft Main shaft and its gears Counter shaft and 5th drive gear
 
 ### Notice
-`ssangyong_musso_en_ec1c82b8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 4. Check the reverse idler shaft and its gears.
 
@@ -21532,7 +19936,6 @@ Excessively tight or loose hub-to-sleeve fit. Wear of the cone clutch surfaces o
 New 1-2 blocking ring 0.87-1 .4mm New 3-4 blocking ring 0.88-1.5mm
 
 ### Notice
-`ssangyong_musso_en_da9719eb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Excessive wear of the blocking ring or the speed gear cone surface will cause shift block-out gear clash.
 
@@ -21545,7 +19948,6 @@ Excessive wear of the blocking ring or the speed gear cone surface will cause sh
 ![](images/5cfe8d959b84d2a73c6146a959c335666367df0a03cb891287ba7f7fe1ca897d.jpg)
 
 ### Checking Procedure
-`ssangyong_musso_en_0de9a928` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Separate the clutch release fork from the pivot and remove the pivot from the clutch housing.
 
@@ -21566,7 +19968,6 @@ Check the housing face alignment.
 Place the dial indicator on the housing face. By rotating the crankshaft one revolution, record the dial indicator reading.
 
 ### Notice
-`ssangyong_musso_en_91c6c8c7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the reading is greater than 0.010 inch, insert the shim between the engine and clutch housing and adjust the alignment.
 
@@ -21578,7 +19979,6 @@ Flywheel
 Input shaft pilot bearing
 
 ### Notice
-`ssangyong_musso_en_a653dcd0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the excessively worn parts.
 
@@ -21587,12 +19987,10 @@ Replace the excessively worn parts.
 6. Lubricate the clutch release bearing bore, fork pivot head during assembly.
 
 ### CLUTCH
-`ssangyong_musso_en_e87e8c08` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution:Disco nectthenegativebaterycablebeforeremovingorinstalinganyelectricalunitorwhena to lorequipment couldeasilycome in contact withexposed electrical terminals. Discon ectingthis cablewil helppreventpersonal injuryand damage to the vehicle. Theignition mustalsobe in LOCK unles otherwisenoted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_469a2086` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications 5C-1
 General Specifications 5C-1
@@ -21618,14 +20016,12 @@ Clutch Pedal 5C-15
 Clutch Oil Chamber 5C-17
 
 ### FASTENER TIGHTENING SPECIFICATIONS
-`ssangyong_musso_en_2deee41c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/1dd7aa13745708579f715cbc419004d259faf1ce85ea299bb6ab3a05e4eb5af4.jpg)
 
 ![](images/927c1460358627b43a8d8525f8896876bf9ecb670b1e518964132b7fb41641ab.jpg)
 
 ### CLUTCH ASSEMBLY
-`ssangyong_musso_en_855e8ce3` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 ![](images/b355e88c4d14c7feb731e684cee9aca592b7d7583b5f2c34276e08603947ed3c.jpg)
 
@@ -21645,7 +20041,6 @@ Clutch Oil Chamber 5C-17
 14 Contacting Point of Release Fork and Pivot
 
 ### PEDAL AND MASTER CYLINDER
-`ssangyong_musso_en_0ce41ed1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7f24dd7836e70443fc8a41cd3dc9f15aba219c75e34964473cc6f3d3f95a3b20.jpg)
 
@@ -21659,7 +20054,6 @@ Clutch Hose
 Clutch Release Cylinder
 
 ### MAINTENANCE AND REPAIR ON-VEHICLE SERVICE BLEEDING OF CLUTCH SYSTEM
-`ssangyong_musso_en_77ceada2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Bleeding procedure Notice
 
@@ -21676,7 +20070,6 @@ Do not let fluid contact a painted surface.
 ![](images/3d9de50bbbafbe54ea7adf24c28c0464cfef933ebd9f725dd750574d666b83f7.jpg)
 
 ### CLUTCH DISC
-`ssangyong_musso_en_74f8b1f4` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 Preceding Work Removal of the transmission
 
@@ -21692,7 +20085,6 @@ Bolt 23 Nm Washer
 8 Bolt 44 Nm
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_a56071ba` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1. Remove the starter motor. Install the special tool to the flywheel through the starter motor mounting holes.
 
@@ -21719,7 +20111,6 @@ Installation Notice
 4. Insert the centering pin into the clutch spline. Loosen the clutch cover bolts 1/2 turn in crisscross sequence until the spring tension is released.
 
 ### Notice
-`ssangyong_musso_en_07825dbd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not remove the bolts at a time, or clutchcover can be damaged or deformed.
 
@@ -21730,7 +20121,6 @@ Centering Pin 661 589 00 15  00
 5. Unscrew the bolts and remove the clutch cover, pressure plate and clutch disc.
 
 ### Notice
-`ssangyong_musso_en_3053796c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to drop the pressure plate and clutch disc. Installation Notice
 
@@ -21739,7 +20129,6 @@ Be careful not to drop the pressure plate and clutch disc. Installation Notice
 6. Installation should follow the removal procedure in the reverse order.
 
 ### Notice
-`ssangyong_musso_en_2edccf4a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before installation, clean oil and grease on the flywheel surface.
 Do not clean the clutch disc and release bearing in solvent.
@@ -21747,7 +20136,6 @@ Do not clean the clutch disc and release bearing in solvent.
 ![](images/cf11bce7ec6c403e6605a626aae5238da6da907e6fd3056e49c74846debd8db0.jpg)
 
 ### Inspection Procedure
-`ssangyong_musso_en_d932c9cd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Clutch Cover
 
@@ -21778,7 +20166,6 @@ Check the bearing for sticks, damage, abnormal noise, turning drag and wear.
 If there is abnormal wear in contact point with bearing, replace the release fork.
 
 ### MASTER CYLINDER
-`ssangyong_musso_en_c55093c9` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ![](images/9f0998f7591244509a56ad5025ae8ca8bd37c550b5167b52fd6fe5bb0a6966db.jpg)
 
@@ -21799,7 +20186,6 @@ If there is abnormal wear in contact point with bearing, replace the release for
 15 Snap Ring
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_a05f9d24` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Draw out the fluid.
 2. Pull out the snap pin and clevis pin from the clutch pedal connection.
@@ -21809,7 +20195,6 @@ If there is abnormal wear in contact point with bearing, replace the release for
 ![](images/c6276d5430280a7503dc6f7cfb92a16dc6f9768b4546f50d9b6878b2e98d5c50.jpg)
 
 ### Notice
-`ssangyong_musso_en_68f91f28` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not the fluid contact a painted surface.
 
@@ -21825,7 +20210,6 @@ Installation Notice
 ![](images/ffdd3216cd78d36fcae41e523ddbcb9d47e5a252a409e1e7ad9a771229bd151a.jpg)
 
 ### CLUTCH PEDAL
-`ssangyong_musso_en_c99a10e6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/495352bd92f35c91f20ce3f554f190ebf5386472d074457e8f371eaf1ea475db.jpg)
 
@@ -21847,19 +20231,16 @@ Installation Notice
 16 Clutch Interlock Switch
 
 ### Notice
-`ssangyong_musso_en_51e55837` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Assembly should follow the disassembly procedure in the reverse order. Grease specification Long term grease (T/Mn DBL6611.00)
 
 ### Inspection Procedure
-`ssangyong_musso_en_384a9dfc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Pedal Stroke (A).
 
 ![](images/40001553b25e8b2e4990159e2396fb3fe1a259602a41cd0429d8d5a94d95dbbd.jpg)
 
 ### Notice
-`ssangyong_musso_en_2ce3c401` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To adjust the pedal stroke, loosen the lock nut (H) of the interlock switch (G) and turn the two lock auto until the stroke is correct.
 
@@ -21868,7 +20249,6 @@ To adjust the pedal stroke, loosen the lock nut (H) of the interlock switch (G) 
 ![](images/270ace971c0ac2212c3e0891751d7753acc6e10001d2a3c4db052ce7df18d738.jpg)
 
 ### Notice
-`ssangyong_musso_en_4f9f2fc0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To adjust the pedal height, loosen the lock nut (C) of the stopper bolt(D) and turn the stopper bolt until the height is correct.
 
@@ -21877,7 +20257,6 @@ To adjust the pedal height, loosen the lock nut (C) of the stopper bolt(D) and t
 ![](images/0a94a1b9cb570bff1ad48b11e13061bbabd2cd32a2bf04d531bcf8de4d325206.jpg)
 
 ### Notice
-`ssangyong_musso_en_2a43e9a9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To adjust the pedal free play, loosen the lock nut (F) of the master cylinder and turn the push rod until the free play is correct.
 
@@ -21886,7 +20265,6 @@ To adjust the pedal free play, loosen the lock nut (F) of the master cylinder an
 ![](images/f58730c697dd5c72d2fad86e0a0289e0da21d3c3fb73b9a5bc80901c4f841931.jpg)
 
 ### CLUTCH OIL CHAMBER
-`ssangyong_musso_en_3ab660d3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ba717053236748bb3a6147945f17e4e650b5d2b02b78c6d239654473bc75db3b.jpg)
 
@@ -21897,18 +20275,15 @@ To adjust the pedal free play, loosen the lock nut (F) of the master cylinder an
 456 Clutch Oil Chamber Hydraulic Tube Clutch Release Cylinder
 
 ### Notice
-`ssangyong_musso_en_86310eb8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Installation should follow the removal procedure in the reverse order.
 When installing, perform the bleeding procedures from chamber cylinder and release cylinder.
 
 ### TRANSFER CASE (PART TIME 4408)
-`ssangyong_musso_en_eaa9c46a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution:Discon ectthenegativebaterycablebeforeremovingorinstalinganyelectricalunitorwhena to lorequipment couldeasilycome in contact with exposed electrical terminals. Disco nectingthis cable wil helppreventpersonalinjuryanddamage to the vehicle. Theignition mustalsobein LOCK unles otherwisenoted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_02fb4f6d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications. 5D1-1 Diagnostic Diagram 5D1-9
 General Specifications 5D1-1 Maintenance and Repair 5D1-10
@@ -21920,7 +20295,6 @@ System Description 5D1-4 Transfer Case . 5D1-14
 Self-Diagnosis Test 5D1-8 Transfer Case Control Unit (TCCU) 5D1-36
 
 ### SYSTEM DESCRIPTION
-`ssangyong_musso_en_516d8fea` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. TCCU detects transfer case system malfunctions and indicates malfunctioning part(s) through flashing 4H,4L indicator lights.
 
@@ -21948,14 +20322,12 @@ Motor position sensor
 7. After repairing, eliminate the defective code stored in the TCCU.
 
 ### Notice
-`ssangyong_musso_en_db331a49` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before replacing the malfunction parts with defective code, check the wires and connectors for proper condition.
 
 ![](images/547e5f865fb5f475ad78ed98a2cc7f7b55401640832322c87c46ac42900b27a8.jpg)
 
 ### Defective Code Reading
-`ssangyong_musso_en_9e45959b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Position the ignition switch to ‘OFF’
 2. Using a service connector, connect the No.2 pin ( lgnition ) and No.6 pin (TCCU) of the diagnosis socket in the engine room.
@@ -21963,7 +20335,6 @@ Before replacing the malfunction parts with defective code, check the wires and 
 4. Read the flashing ‘4WD CHECK’ indicator light and identify the malfunctioning part.
 
 ### How to Eliminate the Falut Code
-`ssangyong_musso_en_b24814de` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Position the ignition switch to ‘OFF’
 2. Using a service connector, connect the No.2 pin (GND) and No.6 pin (TCCU) of the diagnosis socket in the engine room.
@@ -21971,7 +20342,6 @@ Before replacing the malfunction parts with defective code, check the wires and 
 4. Do defective code reading and make sure that all defective codes are eliminated.
 
 ### Diagnostic Table
-`ssangyong_musso_en_c605fa44` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Connect a service connector. If turn the ignition switch ‘ON’ ‘4WD CHECK’ indicator light will come on for 0.6 second and turn off for 3 seconds and then display a defective code 3 times continuously.
 
@@ -21980,7 +20350,6 @@ Connect a service connector. If turn the ignition switch ‘ON’ ‘4WD CHECK�
 ![](images/b82ec9e499d06da4d77b2267f0f467d0adce9b9aa2941922bddf138ccf40cd41.jpg)
 
 ### Test Procedure
-`ssangyong_musso_en_bfc58f4d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Connect the scanner harness connector to the engine compartment diagnosis socket.
 
@@ -21995,7 +20364,6 @@ Connect the scanner harness connector to the engine compartment diagnosis socket
 6. Select "TCCU Part Time" from TCCU diagnosis selection display.
 
 ### Notice
-`ssangyong_musso_en_fe0cac88` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check sensor valve output display if necessary.
 
@@ -22006,7 +20374,6 @@ Check sensor valve output display if necessary.
 9. Determine fault code and check the defective component.
 
 ### Oil Level Check
-`ssangyong_musso_en_772582a0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Clean the oil level plug and surrounding area. Remove the oil level plug and check whether oil is drip out or not.
 
@@ -22015,7 +20382,6 @@ Clean the oil level plug and surrounding area. Remove the oil level plug and che
 Tighten the oil level plug.
 
 ### Oil Change
-`ssangyong_musso_en_a87c8d58` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Clean the oil level plug and surrounding area
 Place a suitable container under the transfer case. Remove the oil and tighten the drain plug.
@@ -22023,14 +20389,12 @@ Fill the oil through the oil level plug until oil begins to drip out.
 Tighten the oil level plug.
 
 ### Cautions for oil level check and plugs tightening
-`ssangyong_musso_en_a517f70c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not use an impact wrench to remove or tighten the oil level plug or drain plug since this will damage the threads in the transfer case.
 
 ![](images/fe182fceaf65c02e4df0d247a1d40be77d8efee2c8267a45b034e23732765205.jpg)
 
 ### TRANSFER CASE
-`ssangyong_musso_en_fca45e97` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0722ec51dedc8671fdabcb8d80e387d46688d91a2ad264f78d3fe23c4cbfb8a9.jpg)
 
@@ -22050,14 +20414,12 @@ Do not use an impact wrench to remove or tighten the oil level plug or drain plu
 14 Rear Propeller Shaft
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_2e5b7d28` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the negative terminal from the battery.
 2. Lift up the vehicle and fix it safely.
 3. Remove the drain plug and drain the oil. Reinstall the drain plug. If planar damper is installed, unscrew 4 bolts and remove the planar damper.
 
 ### Installation Notice
-`ssangyong_musso_en_ba939e35` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/fd7cea4c29a0051cefa74407baf6fafc6e4c4657986cc9a75850d449c3b60d73.jpg)
 
@@ -22074,7 +20436,6 @@ Do not use an impact wrench to remove or tighten the oil level plug or drain plu
 6. Support the transfer case with jack and remove the front and rear propeller shafts from the transfer case.
 
 ### Installation Notice
-`ssangyong_musso_en_b79440ea` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0477d7308cd327d0c62756d400255fbe2a8e8465e269eb89255b1ebc077ff366.jpg)
 
@@ -22083,7 +20444,6 @@ Do not use an impact wrench to remove or tighten the oil level plug or drain plu
 7. Remove the center mounting nuts and end sides mounting bolts of the cross member and then remove the cross member.
 
 ### Installation Notice
-`ssangyong_musso_en_80373e4d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e1f4314f052e0cf387b2e1afb63fa6ee1d60f1b0968b4b30119024db28f44260.jpg)
 
@@ -22092,7 +20452,6 @@ Do not use an impact wrench to remove or tighten the oil level plug or drain plu
 8. Remove the transfer case by removing the bolts attaching the transfer case to the transmission.
 
 ### Notice
-`ssangyong_musso_en_56977ab3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Apply long-term grease to the inner spline of the transfer case input shaft.
 
@@ -22101,7 +20460,6 @@ Apply long-term grease to the inner spline of the transfer case input shaft.
 ![](images/5475ae863f897576530cc08d8d82228d82b898055475a34863b1383fe95f6aed.jpg)
 
 ### TRANSFER CASE
-`ssangyong_musso_en_4ee5c0f9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of the transfer case
 
@@ -22216,7 +20574,6 @@ Bracket
 107 Case
 
 ### <Companion Flange>
-`ssangyong_musso_en_f4c7c45f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Holding the companion flange, remove the nut and washer and then remove the companion flange and oil seal. 2. Remove the 2 plugs from the cover.
 
@@ -22225,7 +20582,6 @@ Bracket
 ![](images/ef0537863b4ad210f8e3f9838c6e4a3d0a619e23a2f93b39b920d17acef10287.jpg)
 
 ### <Extension Electric Shift>
-`ssangyong_musso_en_a02e4b3f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the bolt, washer,3 bolts and harness bracket.
 2. Remove the sensor assembly and remove the O-ring from the speed sensor.
@@ -22241,7 +20597,6 @@ Bracket
 ![](images/338a5137585cbdaf6074d1766b1b584bbc8b8b6dc5f82164e10752b16d525e6b.jpg)
 
 ### Notice
-`ssangyong_musso_en_ffc71c01` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Identification tag has information required for ordering replacement parts, so be careful not to lose it.
 
@@ -22274,7 +20629,6 @@ Identification tag has information required for ordering replacement parts, so b
 111 Transfer Case
 
 ### <Lock-up Shift Parts>
-`ssangyong_musso_en_9e9820d9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the retaining ring and clutch housing from the shift collar hub.
 2. Remove the shift collar hub from the output shaft.
@@ -22294,7 +20648,6 @@ Identification tag has information required for ordering replacement parts, so b
 55 Output Shaft
 
 ### <Drive Chains>
-`ssangyong_musso_en_cb3fe6f7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the snap ring and spacer from the output shaft.
 2. Remove the drive chain, driven sprocket and drive sprocket from the output shaft.
@@ -22328,14 +20681,12 @@ Identification tag has information required for ordering replacement parts, so b
 56 Strainer
 
 ### <Pump Parts>
-`ssangyong_musso_en_812b9a1f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/051da60e0af54a489e7ca0818672ee9be24f400389571f1ccc2186e63ec7aae6.jpg)
 
 ![](images/1bd6649efdd915188d4157873d8aa43be991fed2662089c8b7a5d636a2090890.jpg)
 
 ### <Reduction Shift Parts>
-`ssangyong_musso_en_6fd5dfd5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the reduction hub and reduction shift fork assembly from the case. 2. Remove the 2 shill fork facings from the shift fork assembly. 3. To remove the roller cam and pin, cut elf the plastic retainer when disassembling the fork assembly.
 
@@ -22351,7 +20702,6 @@ Identification tag has information required for ordering replacement parts, so b
 ![](images/d43ea6d6ddfd1541d56b5b0c3fc810c47da94c3c9fd0653b1691ed877f5c22e2.jpg)
 
 ### <Front Output Assembly>
-`ssangyong_musso_en_2c691d18` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Holding the companion flange, remove the nut and washer and then remove the companion flange and oil seal. 2. Remove the output shaft.
 
@@ -22365,14 +20715,12 @@ Identification tag has information required for ordering replacement parts, so b
 ![](images/67765aaacea602552d731e33b591b8b192dbee699ee0a03857f75c579d64e497.jpg)
 
 ### <Adapter, Input Shaft and Carrier Gear>
-`ssangyong_musso_en_a68ad019` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the breather.
 
 2. After removing 6 bolts, remove the front adopter by separating the adapter sealer bond from the case using a screw driver.
 
 ### Notice
-`ssangyong_musso_en_5ff5cbfa` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to damage the contacting surface of the case and adapter.
 3. Remove the adapter assembly, input shaft assembly and carrier gear assembly.
@@ -22382,7 +20730,6 @@ Be careful not to damage the contacting surface of the case and adapter.
 7. Remove the retaining ring, thrust plate rind sun gear from the planet carrier assembly.
 
 ### Notice
-`ssangyong_musso_en_3e26baf4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not disassemble the planet carrier assembly.
 
@@ -22410,7 +20757,6 @@ Do not disassemble the planet carrier assembly.
 111 Case
 
 ### <Electric Shifts Cam Parts>
-`ssangyong_musso_en_5e1ecf87` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the electric shift cam parts from the case assembly. 2. Separate the electric shift cam from the shift shaft. 3. Holding the shift shaft in a vise, remove the torsion spring and spacer from the shift shaft using a screw driver.
 
@@ -22421,7 +20767,6 @@ Do not disassemble the planet carrier assembly.
 111 Case
 
 ### <Case Assembly>
-`ssangyong_musso_en_01eae5f7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the oil seal.
 2. Remove the retaining ring and bearing.
@@ -22441,14 +20786,12 @@ Do not disassemble the planet carrier assembly.
 ![](images/263e181c3248f478083219edbb62bf20156ae3d5bb82b0f1a87cb7709e7d665b.jpg)
 
 ### Notice
-`ssangyong_musso_en_aebc11dc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before cleaning, check the magnet for the presence of metal particles which indicate internal chipping of the transfer case.
 
 1. Using cleaning solvent, clean the residual oil and dirt deposits.
 
 ### Notice
-`ssangyong_musso_en_a79813f8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 During cleaning, be careful not to damage the metal surfaces.
 
@@ -22457,7 +20800,6 @@ During cleaning, be careful not to damage the metal surfaces.
 3. Lubricate the ball bearings and needle bearings with transfer case oil after cleaning.
 
 ### Notice
-`ssangyong_musso_en_ef2225d6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Always replace the hose coupling, O-ring and oil seal with new parts.
 
@@ -22487,7 +20829,6 @@ Referring to normal gear tooth face, specifically inspect the uneven wear and ch
 ![](images/662948e5607b9bb3f01c5a3c36017373a8972df251768e26bfab66d99c3e2f91.jpg)
 
 ### General Information
-`ssangyong_musso_en_c0d86e99` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Use special tools during assembly of oil seals and bearings.
 2. Lubricate bearings, oil seals and bushings before assembly.
@@ -22502,7 +20843,6 @@ Referring to normal gear tooth face, specifically inspect the uneven wear and ch
 ![](images/8db5b0a0bc3f2ca0988ff5549b29d7a30ebfef199378312234009e778bb94822.jpg)
 
 ### Transfer Case
-`ssangyong_musso_en_12ccf925` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. If the ring gear was removed, align the outer diameter of the new replaced ring gear with transfer case and assemble it.
 2. Insert the pin.
@@ -22518,7 +20858,6 @@ Referring to normal gear tooth face, specifically inspect the uneven wear and ch
 ![](images/5d28c21c5b68c799a35eb9fd4ffaa5f8c49495bbf45ab9ce188da572aa4dc8a7.jpg)
 
 ### Electric Shift Cam Parts
-`ssangyong_musso_en_53fb01d4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Insert the spacer into torsion spring.
 2. Insert the end of the shift shaft into the spacer smoothly.
@@ -22553,7 +20892,6 @@ Referring to normal gear tooth face, specifically inspect the uneven wear and ch
 103 Shift Shaft
 
 ### Adapter, Input Shaft and Carrier
-`ssangyong_musso_en_0e838e75` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Place the planet carrier assembly on work bench to be the retaining ring mounting groove upward.
 2. Install the sun gear with the hub end up into the planet carrier assembly and rotate the sun gear to make sure that gears are fully engaged.
@@ -22595,7 +20933,6 @@ Referring to normal gear tooth face, specifically inspect the uneven wear and ch
 10. Install the front adapter assembly.
 
 ### Notice
-`ssangyong_musso_en_a3f8029e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 After installation, make sure that snap ring is correctly installed into the groove.
 11. Position the input shaft assembly over front cover and engage into the bearing groove by expanding the ends of snap ring.
@@ -22618,7 +20955,6 @@ After installation, make sure that snap ring is correctly installed into the gro
 ![](images/7f247ab029d0f6f5c38b8585ddacd7b6942628fad256223becf06ca5f2619bb1.jpg)
 
 ### Front Output Shaft
-`ssangyong_musso_en_8dc166f5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Position the output shaft in transfer case and install the companion flange assembly, oil seal, washer and nut. 2. Holding the companion flange, tighten the nut.
 
@@ -22632,14 +20968,12 @@ After installation, make sure that snap ring is correctly installed into the gro
 ![](images/148da50d76f99d412d36b32f5d63b86e4d43ea1f2d9cf2048f1f553effefb450.jpg)
 
 ### Reduction Shift Parts
-`ssangyong_musso_en_db5495ec` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Install the new pin, roller and retainer into the reduction shift fork.
 
 2. Press the pin, roller and retainer into the reduction spilt fork bore completely.
 
 ### Notice
-`ssangyong_musso_en_b8e1702e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure that the cam roller turns freely.
 
@@ -22650,7 +20984,6 @@ Make sure that the cam roller turns freely.
 5. Install the output shaft spline into the reduction hub and engage the output shaft end with input shaft bearing.
 
 ### Notice
-`ssangyong_musso_en_af3de882` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For installation of the output shaft, assemble the oil pump temporarily.
 
@@ -22667,21 +21000,18 @@ For installation of the output shaft, assemble the oil pump temporarily.
 64 Reduction Shift Fork
 
 ### Oil Pump
-`ssangyong_musso_en_e0d97a3b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Install the pump front cover to be the ‘TOP’ mark down and turn the cover to be the ‘TOP’ mark up when installed in vehicle.
 
 2. Install the 2 pump pins and spring to the output shaft.
 
 ### Notice
-`ssangyong_musso_en_f3e6e22c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Flat surface of the pins must point out and align the center line of pins and spring.
 
 3. Connect the hose coupling to the strainer coupling and install the strainer foot into the transfer case slot.
 
 ### Notice
-`ssangyong_musso_en_a932575b` | musso | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 The hose coupling must face the pump assembly.
 
@@ -22709,7 +21039,6 @@ The hose coupling must face the pump assembly.
 ![](images/85dae44dcdcc5611e53e01eb4dc957ab5e44191fe3a3c5d29a54132790962c21.jpg)
 
 ### Drive Chain
-`ssangyong_musso_en_84af595a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Position the drive sprocket to the rear output shaft end and driven sprocket to the front output shaft end.
 
@@ -22732,7 +21061,6 @@ The hose coupling must face the pump assembly.
 71 Output Shaft (Front)
 
 ### Lockup Shift
-`ssangyong_musso_en_973b7731` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Install the lockup hub and return spring to the lockup collar and insert the snap ring.
 2. Install the rail shaft through reduction shift fork assembly previously installed and into the blind hole in case.
@@ -22757,7 +21085,6 @@ Reduction Shift Fork Assembly
 ![](images/aba6d916132d524ee419517347d617694495167ec2db22c5cbdae829100a5256.jpg)
 
 ### Cover
-`ssangyong_musso_en_221ac9e9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Position the cover to be the open end up on the work table.
 
@@ -22786,12 +21113,10 @@ Install the bearing and motor bearing into the cover.
 25 Cover
 
 ### Cover Assembly
-`ssangyong_musso_en_0f8a0771` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Install the return spring over rail shaft in the transfer case. 2. Insert the magnet into the transfer case slot. 3. Apply 1.6mm bead of Loctite RTV 598 to the transfer case mounting surface.
 
 ### Notice
-`ssangyong_musso_en_63007e90` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For installation of cover, align the transfer case with cover not to use excessive force.
 
@@ -22832,7 +21157,6 @@ Align the cover bores with transfer case pins. Align the cover bearings with out
 16 Identification Tag
 
 ### External Electric Shift
-`ssangyong_musso_en_ae8475ec` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Align the motor with shift shaft and position the motor assembly onto the cover.
 2. Install the motor to the shift shaft and contact cover androtate the motor clockwise direction to check correctengagement.
@@ -22855,7 +21179,6 @@ Align the cover bores with transfer case pins. Align the cover bearings with out
 ![](images/c784850532d45114892ed616c857124de9b727d34288bbc7fb4e6b234d4d7786.jpg)
 
 ### Companion Flange
-`ssangyong_musso_en_c049078b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Install the 2 plugs to the cover.
 2. Install the companion flange, oil seal and washer.
@@ -22864,7 +21187,6 @@ Align the cover bores with transfer case pins. Align the cover bearings with out
 ![](images/2fed0f4db7fb9f19647c225b1b0c553717132c93b9e5366bedd7e748ff1286af.jpg)
 
 ### Notice
-`ssangyong_musso_en_f1ab8b6a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Apply Loctite 262 to nut before installation.
 
@@ -22875,7 +21197,6 @@ Apply Loctite 262 to nut before installation.
 25 Cover
 
 ### System Description
-`ssangyong_musso_en_cd5c06b4` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 TCCU is located under the front left handed seat and permits the vehicle to shift from two-wheel drive to four-wheel drive (and back shift) according to driver’s switch operation during driving (For the shifting between 4WD HIGH and 4WD LOW, stop the vehicle).
 
@@ -22902,14 +21223,12 @@ Position the transfer case switch '4H' to '4L' or '4L' to '4H'.
 According to the shifted position, indicator light will turn on.
 
 ### Inspection and Repair
-`ssangyong_musso_en_ac153deb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. 4H and 4L indicator light inspection
 
 When turn the ignition switch to "ON" position, 4H and 4L indicator light will turn on for 0.6 second and will turn off immediately.
 
 ### Notice
-`ssangyong_musso_en_5fe55649` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If indicator light does not turn on, check bulb, wiring harness and TCCU.
 
@@ -22918,12 +21237,10 @@ If indicator light does not turn on, check bulb, wiring harness and TCCU.
 ![](images/17a45b670052123f03fe81705c6832cc33ed1d266870363ce0e4affac24683ea.jpg)
 
 ### Notice
-`ssangyong_musso_en_c3bd6a7c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 DC 12V for the TCCU operation should be maintained. In case of J1-8 and J1-15, indicator light will turn on for 0.6 second when turn the ignition switch ON. If 4H and 4L indicator lights remain turned on when turn the ignition switch on or during driving, perform the TCCU diagnosis.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_026a7eef` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications 5D2-1
 General Specifications 5D2-1
@@ -22951,19 +21268,16 @@ Unit Repair 5D2-41
 Transfer Case 5D2-41
 
 ### SCHEMATIC AND ROUTING DIAGRAMS
-`ssangyong_musso_en_39a1b28c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9a42b3363a0a438beddb0c18e32d40305791c6c7dbdc1b345a0ed7dfaaf5f1e8.jpg)
 
 88 GR G 0 458 m G × S 舞 商 餐 00. 西 G 雪 A FrFf 1 M 30E.E 敢 R M
 
 ### TOD System Select Mode (4H and 4L)
-`ssangyong_musso_en_a1d06a73` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 4H is the mode when drive normally of which gear ratio is 1:1 and 4L mode distributes power to front and rear wheels 50:50 of which gear ratio is 2.48:1.
 
 ### TOD System Function (select 4H mode)
-`ssangyong_musso_en_356d979f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 TOD system controls clutch mechanism to comply with rotation in front and rear propeller shaft and if its difference exceeds the permissible range, corresponding power is distributed into front wheel through EMC (Electro-Magnetic Clutch).
 
@@ -22972,57 +21286,48 @@ Hall effect sensor signals speed on front and rear propeller shafts going throug
 Transfercase clutch coil is activated by variable current on exceeding difference of speed in front and rear propeller shafts.
 
 ### Function of 4L Mode
-`ssangyong_musso_en_85214621` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When select 4L mode, EMC is locked to apply maximum torque into front and rear propeller shafts. Shift motor rotates also 4L position by rotation of cam thus propeller shaft torque changes from 1:1 to 2.48:1 by planetary gear set.
 
 ### Shift Motor
-`ssangyong_musso_en_9c11c31b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 It locates backside transfer case, which drives rotary helical cam.
 When mode select switch changes to 4L, shift fork is on position for 2.48:1 by rotation of helical cam.
 
 ### Transfer Case
-`ssangyong_musso_en_50a2a750` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 TOD transfer case distributes power into front and rear axle by operation of 4H/4L switch and shift motor.
 
 Shifting 4H to 4L, is performed towards reducing HI-LO collar by means for connection HI-LO shift fork with output shaft in order to join with planetary gear. Torque transmits input shaft then sun gear rotating front planetary gear. Front planetary gear join with output shaft and drives LO position.
 
 ### Input/Output diagram
-`ssangyong_musso_en_768a9aa3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 TOD control unit and main wiring harness is linked by 30 pin connector. Each pin joins with switche and actuator whose details refer to the below diagram.
 
 ![](images/d1e3106e962e47ce54a41315ae209388a88254467ddf2c41edb205a1a2e353af.jpg)
 
 ### Classification of Pin No.
-`ssangyong_musso_en_03d4a50c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/1803d2ede752c8d2b3dec5789c660f24950b2ff095b6ef39890f572d76dfc290.jpg)
 1. K-LINE Communication line for coding and diagnosis with SCANNER.
 
 ### Initial Operation of TOD Control Unit
-`ssangyong_musso_en_c0783020` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When ignition “ON”, “4L” and "4WD check" lamps illuminates for 0.6second to check bulb in instrument panel, then perform diagnosis of system.
 
 ### Position Encoder
-`ssangyong_musso_en_28db8801` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Position Encoder is used by the TCCU to determine the position of the Shift Motor. Each motor position is identified by a position code as shown.
 
 ![](images/21e8de132fd2c7d0e7ece74962c177c1ef6f4cb1a4257b6bad43f53bd3e3288f.jpg)
 
 ### Notice
-`ssangyong_musso_en_a477f9e7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. All other position codes are invalid
 2. Position Input Open Circuit (> 4.5V) = 1
 3. Position Input shorted to Speed/Position Return (< 0.5V) = 0
 
 ### Position Sensor Interpretation
-`ssangyong_musso_en_7189872a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. When the module powers up, it will read the position sensor and the 4H/4L switch input and respond to the possible codes as follows
 
@@ -23035,19 +21340,16 @@ The Position Encoder is used by the TCCU to determine the position of the Shift 
 4. During a shift attempt, the shift motor will be energized for a maximum of 5 seconds.
 
 ### Electric Shift System Operation
-`ssangyong_musso_en_99501bd7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Electric Shift System is responsible for changing the Transfer Case gear ratio by controlling the electric shift motor. The TCCU monitors the 4H/4L switch, neutral switch, speed sensors, position encoder, and ignition switch.
 
 ### A range change is initiated when
-`ssangyong_musso_en_f0fa1df2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. The 4H/4L Switch is changed from 4H to 4L or from 4L to 4H.
 
 2. The motor position (as indicated by the position encoder) does not match the 4H/4L Switch immediately after the ignition is turned on.
 
 ### 1. Shift Criteria
-`ssangyong_musso_en_717704ea` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When a range change is initiated a Diagnostic Test will be completed on the motor, speed sensors, and position encoder. If the Diagnostic Test fails, the shift will not be attempted. If all components are operating properly, the TCCU will attempt a range change after the following shift criteria are met:
 
@@ -23056,7 +21358,6 @@ b. Both propshaft speeds are below 87 rpm (2580 pulses/minute).
 If the transmission is taken out of neutral before 2 seconds has elapsed, or either propshaft speed increases above the limit, the shift will be suspended and the 4L Indicator will continue to blink until the criteria are met again or the 4H/4L Switch is returned to the original position.
 
 ### 2. Range Change
-`ssangyong_musso_en_e48599b9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the shift criteria are met, the motor is rotated in the appropriate direction (as determined by the selector switch) until one of the following occurs:
 
@@ -23067,7 +21368,6 @@ c. A fault occurs with either the motor or position encoder. Refer to the diagno
 When the motor is energized, the Ignition, 4H/4L Switch, propshaft speeds, and transmission neutral inputs a ignored.
 
 ### 3. Indicator Function
-`ssangyong_musso_en_a59d26e2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Once a range change has been initiated the 4L Indicator will begin to blink at a rate of 0.3 seconds on, 0.3 seconds off until the shift is completed or canceled.
 
@@ -23081,7 +21381,6 @@ If a successful shift has been completed, the 4L Indicator will be illuminated i
 @ : shift is completed
 
 ### 4. Electric Shift Default Mode
-`ssangyong_musso_en_09932e2c` | musso | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 If the motor fails to reach its destination, the TCCU will attempt the following (in order):
 
@@ -23091,41 +21390,34 @@ c. If the attempt to return to the original position fails, the TCCU will wait 3
 d. If the second attempt to return to the original position fails the motor will be turned off, the “4WD CHECK” lamp will be illuminated, and all future shifts will be inhibited until the Ignition is cycled.
 
 ### TODTM System Operation
-`ssangyong_musso_en_bbd81441` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 The TODTM  System is responsible for distributing torque between the front and rear axles. The TCCU monitors the propshaft speeds, operating range (High/Low), and ABS activity and then applies a calculated amount of torque to the front axle by Pulse Width Modulating the current applied to the EMC.
 
 ### 1. Touch-off Torque
-`ssangyong_musso_en_f8695e08` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The minimum EMC Duty Cycle is based on the vehicle speed and throttle position The TCCU receives the TPS signal from the following sources: On vehicles equipped with CAN, the TCCU receives the TPS signal from the CAN bus.
 
 2. When Slip Detection The TCCU continuously monitors the front and rear propshaft speeds to detect wheel slip.
 
 ### 3. Wheel Slip Control
-`ssangyong_musso_en_9d1b1b49` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When wheel slip is detected the TCCU controls the EMC duty cycle as necessary until the wheel slip is reduce below the allowable limit. The EMC Duty Cycle will then be reduced to the Touch-Off value.
 
 ### 4. Brake/ABS Strategy
-`ssangyong_musso_en_d2fd48cc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the ABS System is active, the EMC Duty Cycle is set to a fixed duty cycle (30%) to aid in braking withou counteracting the ABS System.
 
 ### 5. 4L Strategy
-`ssangyong_musso_en_a52417da` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the system is operating in 4L, the TCCU continues TODTM (operation provided that the propshaft speed is below 175 rpm (5220 pulses/minute)). When the speed increases above 175 rpm, the EMC Duty Cycle is set to the maximum value (88%) which applies the maximum available torque to the front axle.
 
 ### Shape and function of TOD Control Unit
-`ssangyong_musso_en_b61f101a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f4a706368dafbe8d212f3db3c8c196f6d14f45f96bd022724b5c6c74860888ff.jpg)
 
 ![](images/d241098d1e8087a9cf38cea16854eb821d79ce16c81e824df3f25840bffaad59.jpg)
 
 ### Speed Sensor/Clutch Coil and Motor Connector
-`ssangyong_musso_en_025aae04` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Speed senso /clutch coil and shift motor connector locate upper backside transfer case (upper part of shift motor).
 
@@ -23136,14 +21428,12 @@ Shift motor connector Black Speed sensor and clutch coil connector White
 ![](images/45072c0d9fbb7746af4baa1a246f6d139adc423f74ac3668fec98cc0503be06e.jpg)
 
 ### DIAGNOSIS
-`ssangyong_musso_en_575a664e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 While the TCCU is active it periodically monitors its inputs and outputs. If a fault is detected the “4WD CHECK” lamp is illuminated and a fault code is stored in the TCCU memory.
 
 When requested, fault codes are downloaded to a diagnostic connector (K-line) serial communications using SCAN100.
 
 ### 1.TCCU Internal Function
-`ssangyong_musso_en_b1fa582f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the Ignition is turned on the TCCU tests its ROM and RAM. If there is a fault, the TCCU immediately resets itself and re-tests the ROM and RAM. If the fault persists the TCCU continues to reset and re-test until the fault is corrected or the ignition is turned off. All TCCU functions are inhibited until the fault is corrected. The “4WD CHECK” lamp is not illuminated if there is a ROM or RAM fault.
 
@@ -23152,7 +21442,6 @@ If the ROM/RAM passes the EEPROM memory is tested. If there is a fault the “4W
 An EEPROM fault can only be cleared by cycling ignition off-on.
 
 ### 2.Shift Motor Assembly Test
-`ssangyong_musso_en_238b62e2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the TCCU detects shift motor or position encoder fault continuously for one second the ‘4WD CHECK” lamp is turned on and the appropriate fault code is stored in memory.
 
@@ -23166,7 +21455,6 @@ g. If the shift motor/position encoder assembly failure (other than a motor fail
 h. A motor failure (i.e. open or short circuit) which occurs when the motor is energized can only be cleared by cycling the ignition off-on.
 
 ### 3. Front Speed Sensor Test
-`ssangyong_musso_en_0cf94566` | musso | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 If a Front Speed Sensor fault is detected continuously for 0.5 second the “4WD CHECK” lamp is illuminated. The TCCU then responds as follows:
 
@@ -23177,7 +21465,6 @@ c. All Electric Shift activity is halted until the Ignition is cycled. If a shif
 If the Front Speed Sensor recovers continuously for O.5 second the TCCU will function normally. The “4WD CHECK” lamp is turned off but the fault code will remain in memory.
 
 ### 4. Rear Speed Sensor Test
-`ssangyong_musso_en_03530229` | musso | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 If a Rear Speed Sensor fault is detected continuously for 0.5 second the “4WD CHECK” lamp is illuminated. The TCCU then responds as follows:
 
@@ -23188,7 +21475,6 @@ If the Rear Speed Sensor recovers continuously for 0.5 second the TCCU will func
 CHECK” lamp is turned off but the fault code will remain in memory.
 
 ### 5. Both Speed Sensor Faulty
-`ssangyong_musso_en_067ba57d` | musso | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 If both the Front and Rear Speed Sensors are faulty continuously for 0.5 seconds the “4WD CHECK” lamp is illuminated. The TCCU then responds as follows:
 
@@ -23197,19 +21483,16 @@ a. If the system is in High Range the TCCU sets the EMC Touch Off level based on
 If both Speed Sensors recover continuously for 0.5 second the TCCU will function normally. The “4WD CHECK” lamp is turned off but the fault code will remain in memory.
 
 ### 6. EMC Test
-`ssangyong_musso_en_f16e614c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The EMC is tested for open circuit or short circuit to ground. If a fault is detected continuously for 0.8 second the “4WD CHECK” lamp is turned on and all TODTM activity is halted.
 
 If the EMC recovers continuously for 0.8 second the TCCU will function normally. The “4WD CHECK” lamp is turned off but the fault code will remain in memory.
 
 ### 1. Diagnostic Trouble Code Retention
-`ssangyong_musso_en_75f065cd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The irst ime a ault s detected a DTC is stored in the TCCU’s Non-Volatile memory. This DTC will remain in memory until the TCCU is instructed to erase DTC’s by SCAN-100. DTC’s will not be erased by disconnecting power to the TCCU.
 
 ### Connection of Coding Tool
-`ssangyong_musso_en_5ab06fc4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Construct SCANNER into diagnosis connector (20 pins) near fuse box in engine room as below figure.
 
@@ -23218,12 +21501,10 @@ Construct SCANNER into diagnosis connector (20 pins) near fuse box in engine roo
 2 SCANNER
 
 ### Notice
-`ssangyong_musso_en_82b188f9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Coding An input activity of data for the proper performance by matching specification, devices and system with control unit.
 
 ### Coding Method
-`ssangyong_musso_en_0d5fe446` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Check and record engine type, axle ratio and tire size.
 2. Ignition “OFF”.
@@ -23235,7 +21516,6 @@ Coding An input activity of data for the proper performance by matching specific
 8. Check coding specification whether it matches with vehicle or not. If not, perform a coding again.
 
 ### ELIMINATE THE MEMORIZED FAULT CODE
-`ssangyong_musso_en_db0b0e88` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When diagnose by SCANNER, it is required that you make adequate service on defects against all fault codes. And then you should delete the memorized fault codes in TOD control unit using SCANNER as follows;
 
@@ -23245,7 +21525,6 @@ When diagnose by SCANNER, it is required that you make adequate service on defec
 4. Confirm deletion of fault code and, if not, repeat 2.-3. process.
 
 ### Malfunction interior TOD control unit fault code 1714
-`ssangyong_musso_en_3902110d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Phenomenon
 1. When ignition “ON”, “4WD CHECK” lamp illuminates continuously.
@@ -23258,7 +21537,6 @@ Cause Error of EEPROM checksum in TOD control unit
 ![](images/f3bb0a59dd9a55813c480e10c1abc3ae12a7a901c5e4f22309b2439f244873c7.jpg)
 
 ### Cause
-`ssangyong_musso_en_c1dc90b8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Bad communication line between E/G ECU and CAN.
 2. Defect of TOD control unit.
@@ -23269,7 +21547,6 @@ Cause Error of EEPROM checksum in TOD control unit
 ![](images/fc0d45634177e91e2090578caf3a1096566fc6cc780bc8afd28ecd3c1e3c33fd.jpg)
 
 ### Cause
-`ssangyong_musso_en_2c6f5dab` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Defect in electro magnetic clutch
 2. Defect in connector or wiring Open or short from EMC to the supply 1721 Short EMC to ground 1722
@@ -23279,7 +21556,6 @@ Cause Error of EEPROM checksum in TOD control unit
 ![](images/44e505b23c159f7d4f569ab203daf7f367a1ec2b680e0c4c9cc0cb91a5195bf2.jpg)
 
 ### Defect in speed sensor fault code 1731, 1732, 1733, 1734, 1735,1736
-`ssangyong_musso_en_bdb56db4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Phenomenon
 
@@ -23288,7 +21564,6 @@ Phenomenon
 2. “4WD CHECK” lamp illuminates continuously when ignition “ON”.
 
 ### Cause
-`ssangyong_musso_en_94b3e7b0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Defect of speed sensor (front, rear).
 
@@ -23299,14 +21574,12 @@ Phenomenon
 ![](images/5314d4d10ce2cb6dc6df624769ef7b06755672fd2ae16038c7d14d860e824050.jpg)
 
 ### Phenomenon
-`ssangyong_musso_en_62863cd1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. When change the 4H/4L switch from 4H to 4L, ‘4L’ indicator lamp turn off after blinking for a time and then ‘4WD CHECK’ indicator lamp turn on.
 2. Fault codes display by diagnosis of SCAN-100 1741, 1742, 1743
 3. The shifting operation is not occurred when 4H / 4L switch, is operating.
 
 ### Cause
-`ssangyong_musso_en_1ec5bb0b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Defect in shift motor, improper voltage provided, incorrect connection in connector, short of wiring.
 
@@ -23315,7 +21588,6 @@ Defect in shift motor, improper voltage provided, incorrect connection in connec
 ![](images/d545c0e93b8ecfcf30f96f897fee5c7b37d2bfc607d330523b3b9dd09d38b6a5.jpg)
 
 ### Position incoder and position 1,2,3,4 malfunction :Fault code®1750,1751,1752,1753, 1754
-`ssangyong_musso_en_b56eb315` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Phenomenon
 
@@ -23324,14 +21596,12 @@ The ‘4WD check’ lamp can not go out when the ignition switch positioned to �
 The fault code display 1750, 1751, 1752, 1753, 1754 by diagnosis of SCAN-100.
 
 ### Cause
-`ssangyong_musso_en_c67dd5a0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The portion of position incoder malfunction, each wiring is shorted with ground.
 
 ![](images/f86272e6d1761b2c68ce03491a3f1e6932c663d09331729b576bbf60f52a36c0.jpg)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_7c105b2c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Turn the ignition switch to "OFF" position.
 
@@ -23344,7 +21614,6 @@ The portion of position incoder malfunction, each wiring is shorted with ground.
 4. Installation should follow the removal procedure in the reverse order.
 
 ### Notice
-`ssangyong_musso_en_009a073e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When replace TOD control unit, it is required to make a coding correspondent with vehicle specification.
 
@@ -23354,7 +21623,6 @@ When replace TOD control unit, it is required to make a coding correspondent wit
 2 TOD control unit
 
 ### TRANSFER CASE (TOD)
-`ssangyong_musso_en_f1a07d62` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/76aba383c6bbca006eaf8851fbd0e8693d8adafad18772cde9f754f38ee1b339.jpg)
 
@@ -23367,7 +21635,6 @@ When replace TOD control unit, it is required to make a coding correspondent wit
 8 Bolt 81-89Nm
 
 ### Notice
-`ssangyong_musso_en_41785b3e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful for catalytic converter due to high temperature after driving or engine running.
 
@@ -23378,14 +21645,12 @@ Be careful for catalytic converter due to high temperature after driving or engi
 If planar damper is installed, unscrew 4 bolts and remove the planar damper.
 
 ### Notice
-`ssangyong_musso_en_0f49b8ce` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Oil drain should be along with whole transfer case disassembly and assembly.
 
 5. Disconnect transmission extension wiring connector back side transfer case.
 
 ### Notice
-`ssangyong_musso_en_8856c66d` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 When disconnect connector, make sure on direction of locking tab towards inside.
 
@@ -23422,7 +21687,6 @@ Installation Notice
 ![](images/90db79ed6b211c0394cc09dd4ca7bf3988f45aa6d67c7ec1c215303b253fa5a4.jpg)
 
 ### Notice
-`ssangyong_musso_en_9b2840b3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure the connecting surface is clean. Applying long-life grease spline inside transfer case input shaft.
 
@@ -23431,7 +21695,6 @@ Make sure the connecting surface is clean. Applying long-life grease spline insi
 14. Installation should follow the removal procedure in the reverse order.
 
 ### Replacement of Shift Motor
-`ssangyong_musso_en_f2d02be9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect (-) cable from battery.
 2. Disconnect shift motor/clutch coil connector (black pin7)
@@ -23440,7 +21703,6 @@ upper backside.
 4. Unscrew 1unit of bracket mounting bolt (M10).
 
 ### Notice
-`ssangyong_musso_en_6e94246f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When disconnecting shift motor and mounting bracket, it is required to unscrew 2 units of adjusting bolts (M10) form motor and bracket.
 
@@ -23451,7 +21713,6 @@ When disconnecting shift motor and mounting bracket, it is required to unscrew 2
 7. If necessary, make a test by SCANNER with shift motor assembly.
 
 ### Notice
-`ssangyong_musso_en_f3a54916` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not disassemble shift motor. If necessary, replace by shift motor assembly unit.
 
@@ -23460,14 +21721,12 @@ Do not disassemble shift motor. If necessary, replace by shift motor assembly un
 9. Installation should follow the removal procedure in the reverse order. Before installation, make sure that motor position match with mode of 4H/4L switch.
 
 ### Reference
-`ssangyong_musso_en_a811f91e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When accord position of motor with 4H/4L switch and transfer case match position of the disconnected motor and new one.
 
 ![](images/7e2609b5a137dc0891bac084f238e5b7a2b9664c4848e21bf0057c112f32bebf.jpg)
 
 ### Replacement Procedure
-`ssangyong_musso_en_2e89480b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect (-) cable from battery.
 2. Detach shift motor assembly.
@@ -23492,7 +21751,6 @@ When disconnect sensor, make sure on adequate pressure due to sensitiveness with
 11. On the same way, disconnect pin and wire “M” and “N” from connector.
 
 ### Notice
-`ssangyong_musso_en_c7652c2f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not touch the wires related with EMC.
 
@@ -23515,14 +21773,12 @@ Installation Notice
 20. Connect speed sensor connector, then locking sleeve.
 
 ### Reference
-`ssangyong_musso_en_55ae62a9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Front propeller shaft should be premised by removal of shift motor.
 
 After disconnecting shift motor, procedure of replacement on sensor assembly of accords with one of rear speed sensor.
 
 ### Specified Oil Level
-`ssangyong_musso_en_4ffb2343` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Lift on vehicle then make sure on safety.
 2. Prepare a vessel to drain transfer case oil.
@@ -23541,14 +21797,12 @@ Installation Notice
 8. Check oil leakage.
 
 ### Oil Replacement
-`ssangyong_musso_en_a19d3e15` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/93141952bd6ee79187ea812af726e0926083a7e810bf0a18394363094298f528.jpg)
 
 ![](images/e1abf5e6711b184da202b4f68f2df6dad31f5aff2e93c7a52b6ee733932a8169.jpg)
 
 ### TRANSFER CASE
-`ssangyong_musso_en_f3255acc` | musso | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Transfer Case, Diassembled View
 
@@ -23630,21 +21884,18 @@ Output Shaft Thrust Washer
 82 Bearing
 
 ### Disassembly Procedure
-`ssangyong_musso_en_10c3f4f3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect transfer case from vehicle
 
 2. Using a 30mm thin-wall socket, first remove the rear output nut, output shaft yoke washer, oil seal then the case flange.
 
 ### Installation Notice
-`ssangyong_musso_en_6acec75a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/127add6929e6b245024beec52c8439d9bd3a4f10e8ae2bdc584f9ad5154f9bbc.jpg)
 
 3. Disconnect shift motor/clutch coil connector and speed sensor connector from upper bracket of transfer case.
 
 ### Notice
-`ssangyong_musso_en_ffcbf950` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When disconnect connector, pull forwards grasping connector housing.
 
@@ -23657,7 +21908,6 @@ When disconnect connector, pull forwards grasping connector housing.
 7. Remove shift motor.
 
 ### Notice
-`ssangyong_musso_en_e09ea8b7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When remove shift motor, pay attention to the location of triangular slot and shaft in transfer case inside motor.
 
@@ -23710,7 +21960,6 @@ When remove shift motor, pay attention to the location of triangular slot and sh
 16. Remove the magnet from the slot in the front of the case bottom. Remove the output shaft and oil pump as an assembly.
 
 ### Notice
-`ssangyong_musso_en_7919ba62` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 17. If required, to remove the pump from the output shaft, rotate the pump to align.
 
@@ -23740,7 +21989,6 @@ If there is removal resistance, do not pound or use force to disassemble the pum
 ![](images/db2ca94a4eeffbef6b98e23cdef3613da7147dca0f384183e0e8df42c6656101.jpg)
 
 ### Notice
-`ssangyong_musso_en_338e2bb6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Under normal use, the needle bearing and bushing should not require replacement. If replacement is required, the bushing and needle bearing must be replaced as a set.
 
@@ -23763,7 +22011,6 @@ c. Tighten the actuator pin until it stops, then press the bearing and bushing o
 ![](images/25c679b62dbff259c73ca6423ca7aa98ec447a08fa534a7ec8ec110a83c6e9da.jpg)
 
 ### Assembly
-`ssangyong_musso_en_7a69f432` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before assembly, lubricate all parts with Automatic Transmission Fluid or equivalent.
 
@@ -23787,7 +22034,6 @@ Slide the sun gear, thrust plate and thrust washer into position on the input sh
 9. Install the high-low shift fork and high-low collar as an assembly into the front planet.
 
 ### Notice
-`ssangyong_musso_en_ef514cb7` | musso | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Make sure that the nylon wear pads are installed on the shift fork and snapped securely into place.
 
@@ -23825,7 +22071,6 @@ The driven sprocket (on the front output shaft) must be installed with the marki
 ![](images/794d6de183a8704b741f54752592efbf4df5340718a59711e812bccb37d98d0f.jpg)
 
 ### Notice
-`ssangyong_musso_en_40f13960` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 17. Install clutch pack assembly onto the rear output shaft. Make sure the spline of the clutch pack engages to the spline of the sprocket.
 
@@ -23838,7 +22083,6 @@ ring over the spline and use the wave spring to seat the snap ring in the snap r
 19. Install wave spring, insulator washer and armature. (Three offset slots must align with housing to be installed)
 
 ### Notice
-`ssangyong_musso_en_21373031` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Three slots on the thrust washer must be aligned with the three tabs on the clutch pack housing.
 
@@ -23854,52 +22098,47 @@ Three slots on the thrust washer must be aligned with the three tabs on the clut
 
 Do not kink or trap the wire while seating the clutch coil to the case.
 
-### CAUTION
-`ssangyong_musso_en_71662fc9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> ![](images/9fd7f6c2898941e805b620139b4986b0e95cb1ac9e5900a664634d41a88995cd.jpg)
+>
+> 25. Install the pin on the tang end of the helical cam into the hole in the front case. Position the torsion spring tangs so that they are pointing toward the top side of the transfer case and just touching the high-low shift fork.
 
-![](images/9fd7f6c2898941e805b620139b4986b0e95cb1ac9e5900a664634d41a88995cd.jpg)
-
-25. Install the pin on the tang end of the helical cam into the hole in the front case. Position the torsion spring tangs so that they are pointing toward the top side of the transfer case and just touching the high-low shift fork.
-
-### CAUTION
-`ssangyong_musso_en_f02c1863` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Do not bend the helical cam during installation to the front case because of possible damage to the pin at the tang end of the motor shaft.
-
-26. Install the shift rail through the high-low shift fork and make sure that the reverse gear shift rail is seated in the front case bore.
-
-27. Install upper and lower speed sensors into the cover. Feed the coil wire through the upper speed sensor wire shield.
-
-![](images/aa60a7aacb90fc91ec4ed2ae8f19622ce665b892a2a468105c86d742ef92372b.jpg)
-
-28. Install upper tone wheel, speedometer gear and rear output seal. Use Output Shaft Seal Replacer and Driver or equivalent to install seal.
-29. Coat the mating surface of the front case with a bead of Black Non-Acid Cure Silicone Rubber or equivalent.
-30. The following procedure must be followed prior to installing the rear case onto the front case half:
-a. Align the output shaft with the rear case output shaft bore.
-b. Align the helical cam with the rear case motor bore. If difficulty is encountered with seating the rear case, tap the rear output shaft with a sharp blow using a rubber mallet in a direction away from the triangular shaft while pushing down on the rear case.
-
-![](images/e8dfea50bbab9581cef77f6510af3574c3a5e17bc4d835d2c44d088563b0413f.jpg)
-
-31. Install the bolts retaining the case halves and tighten.
-
-![](images/80d9cb36d1349e0084ffeb31f7686c9861927140b99600466c75e08b2602626a.jpg)
-
-![](images/71b10864baae46c2dd23549fd28cc74d09b449794947a8533096ef0efc1cb4b4.jpg)
-
-32. Install shift shaft oil seal if it is not installed.
-
-33. Using pliers equipped with soft jaws, rotate the triangular shaft so it is aligned with the triangular slot in the transfer case shift motor. If triangular shaft will not rotate, rotate the rear output shaft.
-
-![](images/79b7c42ae187fa13217c4ba0bd866ab742ff1dd839f93659b8efa86cd8b02a54.jpg)
-
-34. Slightly loosen the two nuts that attach the slotted support bracket to the end of the motor house.
-
-35. Apply Black Non-Acid Cure Silicone Rubber or equivalent to motor housing base and install on transfer case.
-
-36. Install the transfer case shift motor and three bolts along with speed sensor wire harness bracket and tighten.
+> ⚠️ **Внимание:** 
+> Do not bend the helical cam during installation to the front case because of possible damage to the pin at the tang end of the motor shaft.
+>
+> 26. Install the shift rail through the high-low shift fork and make sure that the reverse gear shift rail is seated in the front case bore.
+>
+> 27. Install upper and lower speed sensors into the cover. Feed the coil wire through the upper speed sensor wire shield.
+>
+> ![](images/aa60a7aacb90fc91ec4ed2ae8f19622ce665b892a2a468105c86d742ef92372b.jpg)
+>
+> 28. Install upper tone wheel, speedometer gear and rear output seal. Use Output Shaft Seal Replacer and Driver or equivalent to install seal.
+> 29. Coat the mating surface of the front case with a bead of Black Non-Acid Cure Silicone Rubber or equivalent.
+> 30. The following procedure must be followed prior to installing the rear case onto the front case half:
+> a. Align the output shaft with the rear case output shaft bore.
+> b. Align the helical cam with the rear case motor bore. If difficulty is encountered with seating the rear case, tap the rear output shaft with a sharp blow using a rubber mallet in a direction away from the triangular shaft while pushing down on the rear case.
+>
+> ![](images/e8dfea50bbab9581cef77f6510af3574c3a5e17bc4d835d2c44d088563b0413f.jpg)
+>
+> 31. Install the bolts retaining the case halves and tighten.
+>
+> ![](images/80d9cb36d1349e0084ffeb31f7686c9861927140b99600466c75e08b2602626a.jpg)
+>
+> ![](images/71b10864baae46c2dd23549fd28cc74d09b449794947a8533096ef0efc1cb4b4.jpg)
+>
+> 32. Install shift shaft oil seal if it is not installed.
+>
+> 33. Using pliers equipped with soft jaws, rotate the triangular shaft so it is aligned with the triangular slot in the transfer case shift motor. If triangular shaft will not rotate, rotate the rear output shaft.
+>
+> ![](images/79b7c42ae187fa13217c4ba0bd866ab742ff1dd839f93659b8efa86cd8b02a54.jpg)
+>
+> 34. Slightly loosen the two nuts that attach the slotted support bracket to the end of the motor house.
+>
+> 35. Apply Black Non-Acid Cure Silicone Rubber or equivalent to motor housing base and install on transfer case.
+>
+> 36. Install the transfer case shift motor and three bolts along with speed sensor wire harness bracket and tighten.
 
 ### Notice
-`ssangyong_musso_en_79dc5e7b` | musso | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 The wire harness must be routed as shown to provide clearance and to prevent the wire harness from grounding the damper.
 
@@ -23924,7 +22163,6 @@ The wire harness must be routed as shown to provide clearance and to prevent the
 42. Fill the transfer case with 1.4 liters of Automatic Transmission Fluid or equivalent.
 
 ### Notice
-`ssangyong_musso_en_d8368125` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Fluid level should be just below the filler plug hole.
 
@@ -23935,7 +22173,6 @@ Fluid level should be just below the filler plug hole.
 44. Install the transfer case as outlined in removal and Installation, transfer case in the section.
 
 ### POWER STEERING SYSTEM TABLE OF CONTENTS
-`ssangyong_musso_en_dfce1f9f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications 6A-1
 General Specifications 6A-1
@@ -23957,7 +22194,6 @@ Bleeding of Power Steering System 6A-6
 Steering Gear Box 6A-7
 
 ### STEERING SYSTEM
-`ssangyong_musso_en_624b727c` | musso | pdf_manual | tier:4 | lang:en | layer:steering | p:1 | doc_type:service_manual
 
 ![](images/7798a342ace4f00a965fc64e615ce2489ca2c4d770205f8c557c71b4cea649c4.jpg)
 
@@ -23971,7 +22207,6 @@ Steering Gear Box 6A-7
 8 Steering Knuckle
 
 ### Steering Wheel Freeplay Inspection Procedure
-`ssangyong_musso_en_482d4c41` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Start the engine and set the wheels in straight ahead position.
 
@@ -23980,14 +22215,12 @@ Steering Gear Box 6A-7
 ![](images/56f14a36696aa532ac82d18ae28bdcbc64b5f3a137bb35861bd122cf4b3d71b5.jpg)
 
 ### Notice
-`ssangyong_musso_en_62f6a718` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If exceeds specification, the steering column shaft connections and steering linkage .clearance. Replace or repair if necessary.
 
 ![](images/2ba06b832bc64769eabaa032676e99ee4d92bd6913bfe65e101a594d0b4e8349.jpg)
 
 ### Steering Angle Inspection Procedure
-`ssangyong_musso_en_c176105d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Place the front wheel on a measuring tool.
 
@@ -23996,28 +22229,24 @@ If exceeds specification, the steering column shaft connections and steering lin
 ![](images/641c9ff61bfa8b1cdd13863fb1df16bc8b3dc8c22e46e9b42c70e5274e506a41.jpg)
 
 ### Notice
-`ssangyong_musso_en_eed25101` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If out of standard, check or adjust toe-in.
 
 ![](images/f996f37928dcb688df6f2a0c75b1f80c4cafcfb8d06c3610cf95ea051b125e0f.jpg)
 
 ### Steering Effort Inspection Procedure
-`ssangyong_musso_en_45478281` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Place a vehicle on the paved flat ground with front wheels in a straight ahead position. 2 Start the engine and run it at 1,000rpm. 3 Using a scale, measure the steering effort in both directions.
 
 ![](images/a44972294c0d20414b7d8d86a2aaed2ed157794d722a9983fcce27e762dc347c.jpg)
 
 ### Notice
-`ssangyong_musso_en_1aa62989` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The difference in steering effort of left and right should be within 0.6 kg.
 
 ![](images/d8683b15deb4cd881e5c1f749e47ef68808b4d674fafc066756831d86024dcc2.jpg)
 
 ### Oil Pump Pressure Check
-`ssangyong_musso_en_95ae2d63` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the pressure hose from the oil pump connect a pressure gauge between the oil pump and pressure hose
 
@@ -24030,7 +22259,6 @@ The difference in steering effort of left and right should be within 0.6 kg.
 ![](images/8afd6122a609c00f58e0c5166afc77b0291333e11513821786c6afbb7dc39f98.jpg)
 
 ### Notice
-`ssangyong_musso_en_881df3a1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not keep the valve closed for more than 10 seconds.
 
@@ -24040,14 +22268,12 @@ Do not keep the valve closed for more than 10 seconds.
 ![](images/e3cd82f61aec2c422467d392bd104099abd91c2ab41060958f23f0a7d3b5b247.jpg)
 
 ### BLEEDING OF POWER STEERING SYSTEM
-`ssangyong_musso_en_b7486fc8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Bleeding of Power Steering System
 
 1. Disconnect the fuel line. Using a starter motor, crank the engine and turn the steering wheel from lock to lock 5 or 6 times.
 
 ### Notice
-`ssangyong_musso_en_cfe0ddc7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do bleeding with engine cranking. If bleed with idling, there can be a air contact with oil.
 
@@ -24058,7 +22284,6 @@ Do bleeding with engine cranking. If bleed with idling, there can be a air conta
 5. By turning the steering wheel left to right, check the oil level change.
 
 ### Notice
-`ssangyong_musso_en_b7254400` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If oil is not changes more than 5mm, do bleeding again.
 If oil level rises suddenly when stopped engine, again.
@@ -24066,7 +22291,6 @@ If oil level rises suddenly when stopped engine, again.
 ![](images/7324f55e0202f2f085fadbe88b8292defc494d234f691e7872849fd32c0f932d.jpg)
 
 ### STEERING GEAR BOX
-`ssangyong_musso_en_148fb95d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c782e6fd7a75780e26d243caeb90fc4c1df25d1f7dfe4451ebe604a9ba8af1c8.jpg)
 
@@ -24084,7 +22308,6 @@ If oil level rises suddenly when stopped engine, again.
 12 Steering Gearbox Assembly
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_f09195f9` | musso | pdf_manual | tier:4 | lang:en | layer:steering | p:1 | doc_type:service_manual
 
 1. Remove the cotter pin and nut and separate the steering gear box tie rod from the steering knuckle arm using the puller.
 
@@ -24097,7 +22320,6 @@ Installation Notice
 2. Remove the bolt and separate the lower sha from the steering gear box.
 
 ### Installation Notice
-`ssangyong_musso_en_53412a2a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ce3a61e7a84b8c885a48201c62bd697502879b130862ff3b8f8b87f323bc6623.jpg)
 
@@ -24116,7 +22338,6 @@ Installation Notice
 4. Remove the clamp bolts and remove the steering gear box assembly.
 
 ### Notice
-`ssangyong_musso_en_f61802ef` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to damage the rubber(1). When installing tighten the bolt (3) with the rubber (2)being inserted to the hole of clamp.
 
@@ -24127,7 +22348,6 @@ Be careful not to damage the rubber(1). When installing tighten the bolt (3) wit
 ![](images/b6ce39ea520d0b5e8a2443457b7311d4bd1c9232d1551f53de5aa825ab107fcb.jpg)
 
 ### Inspection Procedure
-`ssangyong_musso_en_39a8374f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Check the distance of tie rod and toe-in data and, if necessary, adjust as below.
 
@@ -24144,19 +22364,16 @@ Check the toe-in date (A\~B)
 If the ton-in is normal, tighten the adjuster nut (1) to the specified toque with tie rod (2) being fixed.
 
 ### Tightening
-`ssangyong_musso_en_b671fb1a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c66aef5974459aaebe7630a5f08e894e70dd5536035b8f53bf3c60e58d55abb1.jpg)
 
 ![](images/7cba3177e37cdc5361f4f9da6ca98817c4d080bace7d1e969f53e496c4b544a2.jpg)
 
 ### STEERING WHEEL AND COLUMN TABLE OF CONTENTS
-`ssangyong_musso_en_6b7a4508` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specification 6E-1 On-Vehicle Service 6E-2 Fastener Tightening Specifications . 6E-1 Steering Column 6E-2 Maintenance and Repair . 6E-2
 
 ### MAINTENANCE AND REPAIR ON-VEHICLE SERVICE
-`ssangyong_musso_en_62aa2ffb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 STEERING COLUMN
 
@@ -24181,7 +22398,6 @@ STEERING COLUMN
 17 Column & Shaft Assembly
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_1fe8aa07` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remove the horn pad from the steering wheel and disconnect the connectors
 
@@ -24190,7 +22406,6 @@ Remove the horn pad from the steering wheel and disconnect the connectors
 2. Place an alignment marks on the column shaft end and fixing nut and then remove the fixing nut.
 
 ### Installation Notice
-`ssangyong_musso_en_a120f1a4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/fa2b3716c2117b0491d5d3d2c6c4af7b1eeb06fdb0344a97247f2e907bfd1170.jpg)
 
@@ -24204,7 +22419,6 @@ Remove the horn pad from the steering wheel and disconnect the connectors
 5. Release the crash pad panel.
 
 ### Notice
-`ssangyong_musso_en_12db19b4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remove the hood release wire and the other switch connectors.
 
@@ -24238,7 +22452,6 @@ Installation Notice
 11. Remove the steering column upper mounting bolt and pull out steering column assembly.
 
 ### Installation Notice
-`ssangyong_musso_en_c2a5a30e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/29f82a6c61cc140738a0f58391815049e90f737134f228866bdb1eb8692660c6.jpg)
 
@@ -24247,12 +22460,10 @@ Installation Notice
 ![](images/06c2156bc01b165e6b6c83246e073f5a162ce935437c19a6cbb650d91d422b8e.jpg)
 
 ### MANUAL CONTROL / SEMIAUTO TEMPERATURE CONTROL HEATING, VENTILATION AND AIR CONDITIONING SYSTEM
-`ssangyong_musso_en_b70d40ab` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution:Discon ectthenegative baterycable beforeremoving orinstalingany electrical unitorwhen a to lorequipment couldeasilycomeincontactwithexposed electrical terminals. Discon ectingthiscable wilhelppreventpersonalinjuryand damage tothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### Specifications 7B/C-2
-`ssangyong_musso_en_697d9486` | musso | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Cooling Capacity 7B/C-2
 Compressor 7B/C-2
@@ -24278,19 +22489,16 @@ Compressor 7B/C-21
 Heater and Air Conditioner Control Box 7B/C-25
 
 ### DIAGNOSIS
-`ssangyong_musso_en_b5e8f6ab` | musso | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Insufficient cooling Check blowing outlet Normal outlet Poor outlet or no outlet Check outlet temperature Check fanmptor operation Fan motor does not operate Motor operates with poor outlet Blown fuse Check for motor control circuit Normal temperature High temperature Frosted evaporator Intake grille is clogged Check the case Check compressor operation Warmevaporator Remove cloggings Check heater (A/C SW off, Fan ‘4) Check with sight glass Check thermo amp Faulty compressor Normal compressor Check belt Check with sight glass Bubble is not found Bubble is found Tension is normal Loosened tension Check pressure Charge refrigerant Check magnetic Adjust tension clutch Bubble is not found Bubble is found Check clutch connection Check pressure Check refrigerant Check wire volume and air in system Faulty magnetic electric Faulty clutch Faulty compressor operation Check battery voltage Check control switch Normal high/lowpressure High high/low pressure High pressure low Check ground L Low pressure : high Faulty A/C system Excessive refrigerant Faulty AVC mix door Dirty cond. fan Check intake and Faulty vent, intake door Excessive oil in system outlet temperature Noise No difference in Low intake temperature temperature Identify the place - Fast pressure balance Faulty evaporator Faulty comp. outlet Compressor Belt Others Excessive oil Faulty belt Faulty bearing · Belt line is correct Faulty clutch · Check belt tension
 
 ### Air Flow
-`ssangyong_musso_en_f1f415d3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7b5c52f8f6c2026b95f30e7940966292d1e9d062bf46a10b47852bd41fb30783.jpg)
 
 ![](images/464717ab9e904b06fffeed3f892f0ca29bc50df8129ae386d72d1156ebbede0f.jpg)
 
 ### DIESEL ENGINE
-`ssangyong_musso_en_36b17e12` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0fa1f72eff553f98b88ee4094b18fb8cfdd7365a8f3640423e6af52865e0e585.jpg)
 
@@ -24313,7 +22521,6 @@ Insufficient cooling Check blowing outlet Normal outlet Poor outlet or no outlet
 17 Mode Actuator Assembly
 
 ### GASOLINE ENGINE
-`ssangyong_musso_en_71f7e14e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/00ac0d62f8b3c3e0ef675d636932a138e3e1d4d6e896b508e6100ab99e0b4003.jpg)
 
@@ -24338,7 +22545,6 @@ Insufficient cooling Check blowing outlet Normal outlet Poor outlet or no outlet
 19 Water Outlet Hose
 
 ### REFRIGERANT CHARGING
-`ssangyong_musso_en_724873e6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Installation of Manifold Gauge
 
@@ -24351,12 +22557,10 @@ Installation of Manifold Gauge
 ![](images/eea7c23727fecfa3fbef16aefacfa5e2f0c12f4a22c0ba48bcbc2ac4e371c47a.jpg)
 
 ### Discharging of Refrigerant
-`ssangyong_musso_en_570bd19b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Connect the manifold gauge to the charging valve. 2. Place the free end of center hose in a shop towel. 3. Slowly open the high pressure hand valve and discharge refrigerant.
 
 ### Notice
-`ssangyong_musso_en_c51cdad6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If refrigerant is allowed to escape too fast, compressor oil will be drawn out of the system.
 
@@ -24367,7 +22571,6 @@ If refrigerant is allowed to escape too fast, compressor oil will be drawn out o
 ![](images/a4b72ce1cfaa68378a1a5f0028de45e57719825cf6a023434036875f56de229e.jpg)
 
 ### Evacuating Refrigeration System
-`ssangyong_musso_en_6196ef30` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Connect the manifold gauge to the charging valves.
 2. Connect the center hose of the gauge to the vacuum pump.
@@ -24382,7 +22585,6 @@ If refrigerant is allowed to escape too fast, compressor oil will be drawn out o
 ![](images/174868a57cde1f6a4964313ea4a1dc9228e3d5d8001df44498144210f0fa95e7.jpg)
 
 ### Check for Refrigerant Leaks
-`ssangyong_musso_en_e3069820` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Connect the center hose of the gauge to the refrigerant tank.
 2. Open the high pressure valve of the gauge to charge with refrigerant gas.
@@ -24391,7 +22593,6 @@ If refrigerant is allowed to escape too fast, compressor oil will be drawn out o
 5. If a leak is found, replace a O-ring or repair the faulty connection
 
 ### Charging Refrigerant
-`ssangyong_musso_en_964f0fd4` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 1. Connect the manifold gauge to the charging valve and evacuate the system.
 2. Connect the center hose of the gauge to the refrigerant tank.
@@ -24399,7 +22600,6 @@ If refrigerant is allowed to escape too fast, compressor oil will be drawn out o
 4. Close the high pressure valve and start the engine and run the compressor.
 
 ### Notice
-`ssangyong_musso_en_8b25b0b0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never open the high pressure valve when the compressor is running. Refrigerant gas will be charged reverse.
 
@@ -24410,14 +22610,12 @@ Never open the high pressure valve when the compressor is running. Refrigerant g
 6. Close the low pressure valve after charging.
 
 ### Notice
-`ssangyong_musso_en_7d168518` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Checking the pressure through the sight glass is impossible by applying & R-134a.
 
 7. Stop the engine and disconnect the manifold gauge from the system.
 
 ### Operation Check
-`ssangyong_musso_en_771d8f14` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Place a dry bulb thermometer to the front duct.
 2. Place a psychrometer close to the inlet of the cooling unit
@@ -24435,12 +22633,10 @@ Checking the pressure through the sight glass is impossible by applying & R-134a
 ![](images/9922720c9cdf18c56111513109a2e050d4f61fb655f7ebe67dfe23cfeaa4e98f.jpg)
 
 ### Replacement of Refrigerant Connection (O-ring Type)
-`ssangyong_musso_en_76a38cd6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. When connecting a O-ring type, apply compressor oil to portions shown in illustration. Be careful not to apply oil to threaded portion.
 
 ### Notice
-`ssangyong_musso_en_206466a6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Use specified compressor oil.
 
@@ -24455,7 +22651,6 @@ Use specified compressor oil.
 4. When connecting liquid pipe(B) and low pressure hose(A) to evaporate pipe, apply compressor oil to the O-ring. 5. When tightening, set the center of pipe and tighten fully. 6. Tighten the nut by specified wrench.
 
 ### CONDENSER
-`ssangyong_musso_en_3e43c803` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Preceding Work Removal of the radiator
 
@@ -24469,7 +22664,6 @@ Diesel Engine
 4 Condenser
 
 ### Notice
-`ssangyong_musso_en_74a18db0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before disconnection, evacuate the refrigerant from the system.
 
@@ -24480,7 +22674,6 @@ Before disconnection, evacuate the refrigerant from the system.
 ![](images/8991eed183d64ca634958545d5b541a2c9080bccf7e09b1a0bf9ae45a6202561.jpg)
 
 ### Notice
-`ssangyong_musso_en_81d777b5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before disconnection, evacuate the refrigerant from the system.
 
@@ -24497,7 +22690,6 @@ Before disconnection, evacuate the refrigerant from the system.
 ![](images/e6e91c8988109b562f13dffaa6d3ed8a61ab19bc046ce34816a64aa63c58d21d.jpg)
 
 ### RECEIVER DRIER
-`ssangyong_musso_en_3302a6f4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Diesel Engine
 
@@ -24510,14 +22702,12 @@ Diesel Engine
 5 Bracket
 
 ### Notice
-`ssangyong_musso_en_b1fd5e3a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 By connecting a manifold gauge connection hose to High/ Low pressure line, discharge the refrigerant.
 
 3. Disconnect the inlet and outlet pipes of receiver drier.
 
 ### Installation Notice
-`ssangyong_musso_en_a95b47ed` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f96467cb1be632479df49644b312d92fed0cc187dba517a03ef34d9e68539849.jpg)
 
@@ -24530,7 +22720,6 @@ By connecting a manifold gauge connection hose to High/ Low pressure line, disch
 ![](images/d9e16f280c21867ce097024eec837272a0edea9c81eef34411fceacb28a7f596.jpg)
 
 ### Gasoline Engine
-`ssangyong_musso_en_cc67678d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/eb95fcbe6c1acbcd954d0c8fec58057b00188b051a6337b82b40f8454e52511d.jpg)
 
@@ -24538,7 +22727,6 @@ By connecting a manifold gauge connection hose to High/ Low pressure line, disch
 2 Receiver Drier
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_fd02239b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the dual pressure switch connector from the receiver drier. 2. Discharge refrigerant from the system.
 
@@ -24549,7 +22737,6 @@ By connecting a manifold gauge connection hose to High/ Low pressure line, disch
 ![](images/d82ffe1503abe5df73e1038bfe3e5dc438385accb18464a039e69e0380893bbd.jpg)
 
 ### Notice
-`ssangyong_musso_en_1d4563a3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 By connecting a manifold gauge connection hose to High/ Low pressure line, discharge the refrigerant.
 
@@ -24558,7 +22745,6 @@ By connecting a manifold gauge connection hose to High/ Low pressure line, disch
 3. Disconnect the high low pressure pipe and wire connectors.
 
 ### Notice
-`ssangyong_musso_en_8a045284` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before tightening, apply the compressor oil to O-ring.
 
@@ -24567,7 +22753,6 @@ Before tightening, apply the compressor oil to O-ring.
 4. Remove the mounting bolt from the compressor bracket and remove compressor assembly.
 
 ### Installation Notice
-`ssangyong_musso_en_41ff3eb6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f4e0c0db56afa9d63e9b9c7ffd4d12a4f8dc5976279794ee6e96aa3cae1af5fa.jpg)
 
@@ -24576,7 +22761,6 @@ Before tightening, apply the compressor oil to O-ring.
 ![](images/7dc36dba8794dc41406892e6df243c116d2fec2743e8e2ca74c8e2287e041b3e.jpg)
 
 ### Gasoline Engine
-`ssangyong_musso_en_7b7c6d9b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/10ff60f8b797f6af2d20624345fffa382e25e49a75d0961c30547cc27bbdbf70.jpg)
 
@@ -24586,7 +22770,6 @@ Before tightening, apply the compressor oil to O-ring.
 34 Compressor Bracket Compressor
 
 ### Notice
-`ssangyong_musso_en_5612d91a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 By connecting a manifold gauge connection hose to High/ Low pressure line, discharge the refrigerant.
 
@@ -24597,7 +22780,6 @@ By connecting a manifold gauge connection hose to High/ Low pressure line, disch
 4. Remove the mounting bolt from the compressor bracket and remove compressor assembly.
 
 ### Notice
-`ssangyong_musso_en_9ae9974d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Place the removed compressor in vertical position.
 
@@ -24606,7 +22788,6 @@ Place the removed compressor in vertical position.
 ![](images/7184352726213d1ed0554ec9f5de3c2cf74d82ac2c559e11af5315f521e26b6d.jpg)
 
 ### HEATER AND AIR CONDITIONER CONTROL BOX
-`ssangyong_musso_en_433d8db0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/dbf99f73a62b7b79326b158d72a41cbd4fd85814af785222fed7afe26f7b7824.jpg)
 MANUAL
@@ -24617,7 +22798,6 @@ SATC
 4 A/C Switch 56 Temperature Control Lever In-vehicle Sensor
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_ffae2e02` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the switch panel. Notice Be careful not to damage the switch panel.
 2. Remove the fixing screws (4 screws) of the control box.
@@ -24631,12 +22811,10 @@ SATC
 ![](images/e5418787dee2c0342c5350457ff0b9e42447169d0763c2b37a773a06eddb6d61.jpg)
 
 ### SEAT BELTS
-`ssangyong_musso_en_0d6d3b63` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Discon ectthenegative baterycable beforeremoving orinstalingany electrical unitorwhena to lorequipmentcouldeasilycomeincontactwithexposedelectrical terminals. Discon ectingthis cable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_a2da4bc9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications 8A-1
 Fastener Tightening Specifications 8A-1
@@ -24647,7 +22825,6 @@ Rear Seat Belt 8A-3
 General Description and System Operation 8A-4 Driver Seat Belt Warning 8A-4 Operation and Functional Checks 8A-4
 
 ### FRONT SEAT BELT
-`ssangyong_musso_en_391dedf7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ec9f7c82741083719bd0d8eb9e90c8615ec5fcf2fddb47ed11efb628659a7988.jpg)
 
@@ -24661,7 +22838,6 @@ General Description and System Operation 8A-4 Driver Seat Belt Warning 8A-4 Oper
 8 Anchor Bolt 35-55 Nm
 
 ### REAR SEAT BELT
-`ssangyong_musso_en_d482790f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5ec4510d3f7ec8ed886c5052704d1952ca35ee1a115ed1c8c13203887b46f826.jpg)
 
@@ -24675,26 +22851,21 @@ General Description and System Operation 8A-4 Driver Seat Belt Warning 8A-4 Oper
 8 Webbing Guide
 
 ### DRIVER SEAT BELT WARNING
-`ssangyong_musso_en_abf6d74d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The driver's safety belt incorporates a safety belt reminder light in the instment cluster remind the driver if the safety belt is not fastened when the ignition is turnd ON.
 
-### Caution:
-`ssangyong_musso_en_e315fa1f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Keep sharp objects and potentially damaging objects away from the seat belts. Avoid bending or damaging any portion of the buckle or the latch plate. Do not bleach or dye the belt webbing. Use only mild soap and water in order to clean the belts. When installing the seat belt anchor bolts and the screws, start the bolts and screws by hand in order to prevent crossthreading. Do not attempt any repairs on the retractor mechsemblies with new assemblies. Replace any belts that are cut r damaged in any way. Inspect all saet belt anchor bolts and the screw in order to verify that they are secure.
-2. Inspect the seat belt buckle. The buckle must lock and unlock easily.
-3. After inserting the latch into the buckle, tug sharply on the belt. The buckle must remain locked.
-4. Fully extend the shoulder belt portion to make sure that there is no twisting or tears in the belt.
-5. Let the shoulder belt retract fully. The belt should retract easily.
+> ⚠️ **Внимание:** 
+> Keep sharp objects and potentially damaging objects away from the seat belts. Avoid bending or damaging any portion of the buckle or the latch plate. Do not bleach or dye the belt webbing. Use only mild soap and water in order to clean the belts. When installing the seat belt anchor bolts and the screws, start the bolts and screws by hand in order to prevent crossthreading. Do not attempt any repairs on the retractor mechsemblies with new assemblies. Replace any belts that are cut r damaged in any way. Inspect all saet belt anchor bolts and the screw in order to verify that they are secure.
+> 2. Inspect the seat belt buckle. The buckle must lock and unlock easily.
+> 3. After inserting the latch into the buckle, tug sharply on the belt. The buckle must remain locked.
+> 4. Fully extend the shoulder belt portion to make sure that there is no twisting or tears in the belt.
+> 5. Let the shoulder belt retract fully. The belt should retract easily.
 
 ### SUPPLEMENTAL RESTRAINT SYSTEM(SRS)
-`ssangyong_musso_en_21177a78` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Discon ect thenegative baterycable beforeremoving or instalingany electrical unitorwhen a to lorequipmentcouldeasilycome incontactwithexposedelectrical terminals. Discon ecting this cable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_59291916` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications 8B-1
 General Specifications 8B-1
@@ -24719,7 +22890,6 @@ Introduction 8B-22
 Caution 8B-22
 
 ### CAUTIONS
-`ssangyong_musso_en_c3979135` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Failure to follow the correct service procedure can cause air bag damage or personal injury due to unexpected air bag deployment. Before service (removal and installation of part, check for replacement), please be weal noticed of following items for your correct service.
 
@@ -24739,7 +22909,6 @@ Pull down the sun visor and see SRS air bag warning lamp on the head lining.
 B. Head Lining
 
 ### [Warning]
-`ssangyong_musso_en_49134479` | musso | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 1 This vehicle is equipped with air bag. Air bag is supplemental device for the seatbelt. Fasten your seatbelt.
 2. This air bag should be replaced by authorized supplier within replacement intervals.
@@ -24754,7 +22923,6 @@ Before removing the steering wheel, read service manual first. Set the front whe
 D. Engine Compartment
 
 ### [Warning]
-`ssangyong_musso_en_48f11074` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This vehicle is equipped with air bag. Before checking the engine compartment, read service manual first. Faultuy check and service can cause SRS air bag deployment and system defects that can be led to severe damage.
 
@@ -24763,7 +22931,6 @@ E. Battery Cable
 Before disconnecting the battery power, read service manual first.
 
 ### Air Bag Control Unit (AC4)
-`ssangyong_musso_en_38684e47` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Air bag control unit (AC4) is installed on the center portion of the front floor tunnel.
 
@@ -24783,7 +22950,6 @@ Squib energy backup condenser
 ![](images/c64771ced45e4de7ea8f724cc58d1997f9bfb1bc6f14b59111b2dcae6a519d2d.jpg)
 
 ### Input & Output Function
-`ssangyong_musso_en_57f0eb21` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Electronic air bag control and diagnosis module is connected by full 30-pin connectors.
 
@@ -24827,7 +22993,6 @@ N/A
 30 N/A
 
 ### AIR BAG MODULE
-`ssangyong_musso_en_292be55d` | musso | pdf_manual | tier:4 | lang:en | layer:steering | p:1 | doc_type:service_manual
 
 Air bag module is installed in the pad of steering wheel center and inflator is consisted of igniter, explosives, gas generating material and bag. When crashed, the air bag control unit sends current to the air bag module through squib line and this current ignites as ignition energy (6mJ) momentarily igniting explosives and bag will be inflated by nitrogen gas protecting driver at the same and then deflates.
 
@@ -24843,7 +23008,6 @@ Air bag module is installed in the pad of steering wheel center and inflator is 
 8 Backing Plate
 
 ### DESCRIPTION
-`ssangyong_musso_en_3eac60c7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Air bag control unit continuously controls system function as follows during ignition ON or driving.
 
@@ -24854,41 +23018,34 @@ If recognize or detect defects, warning lamp will turn on. If there is danger of
 Air bag control unit will store detected internal and external defects in the EEPROM.
 
 ### Battery Voltage Check
-`ssangyong_musso_en_2756b324` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Battery voltage will be monitored continuously. If voltage is out of normal operating range, all system diagnosis will stop and warning lamp turn on.
 
 ![](images/33cfd075de70832ffe261628e709037030ab0895f0bd83b7f694b7e87e920f18.jpg)
 
 ### Squib Diagnosis
-`ssangyong_musso_en_84fd9140` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 It checks not only high (4.50.5) or low (1.40.5) resistance but also short resistance (1- 10k) status between the battery and ground to indicate defects in squib line by blinking warning lamp. Air bag control unit (AC4) can measure squib resistance.
 
 ### Warning Lamp Turning On
-`ssangyong_musso_en_33e2b8f2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Air bag control unit detects system defects during ignition ON or driving and displays following 2 warning lamps.
 
 Warning lamp ON: internal defects of the air bag control unit Warning lamp blinking: higher resistance than standard in the squib line or short at the battery or ground,
 
 ### Safety Function Check
-`ssangyong_musso_en_21b3c1ee` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 It checks defects during operation of the arming sensor If the sensor is shorted for more than 2 seconds, the module will enter overall shutdown mode.
 
 ### Temperature Sensor
-`ssangyong_musso_en_4643519f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Function of the temperature sensor will be monitored continuously. If there is fault due to defective sensor or short, the lamp will turn on and program will take calibration temperature (25) of collision conditions.
 
 ### Power Supply
-`ssangyong_musso_en_5f77cede` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Airbag control unit operates in 9-16v and the characteristic of the system has backup condenser to supply the power for max.150ms if there is power defect during collision.
 
 ### Energy Reserve System
-`ssangyong_musso_en_f38ca429` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Energy reserve system is consisted of condensor and energy switch and will check following items continuously during system operation.
 
@@ -24900,32 +23057,26 @@ Function of the energy reserve switch
 If there is fault in the energy reserve system, warning lamp will turn on. And defects are found by continuous checking of the condenser voltage, the system will enter overall shutdown status for safety reason.
 
 ### Shutdown Switch
-`ssangyong_musso_en_6cfe3e87` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 There is 1 energy shutdown switch in the system and it will be checked during start-up. And it also checks that condenser is discharging properly. If shutdown switch is short, it will be detected during condensor voltage test. If squib line fault is obvious, the warning lamp will turn on and the module will enter overall shutdown status.
 
 ### Accelerometer Check
-`ssangyong_musso_en_b452f09e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Accelerometer function will be checked during start-up. During operation, accelerometer off-set signal will be checked, If there is fault, module will enter overall shutdown status.
 
 ### ASIC Overheat
-`ssangyong_musso_en_d3ca97ba` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Module monitors upper side ASIC overheats continuously. If overheated, the module will enter overall shutdow status.
 
 ### Microprocessor Fault
-`ssangyong_musso_en_e273f4a6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Module checks EEPROM, ROM checksum and RAM during start-up. EEPROM tests checksum operation. If RAM or ROM checksum is defective, module will not allow start-up continuously but will be re-set, If EEPROM is defective, warning lamp will turn on and the module will enter overall shutdown status. During operation, RAM will continuously verify the proper operation of temporary memory program data usage. If there is fault, the module will enter overall shutdown status and the warning lamp will turn on.
 
 ### Watchdog Test
-`ssangyong_musso_en_0f19f7b9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Watchdog function will be tested in start-up. If there is fault during the test, warning lamp will turn on and the module will enter overall shutdown status.
 
 ### Diagnosis
-`ssangyong_musso_en_cc62b4c3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Air bag control unit diagnoses each function in the intervals of 250ms 20 sec. during start-up or driving to prevent unwanted air bag deployment. If there is defect, it turns on or blinks warning lamp to indicate defects in the air bag system to the driver. And fatal defect is found, air bag control unit enters overall or partial shutdown status and fault code will be stored.
 
@@ -24947,7 +23098,6 @@ Blinking Code 1
 ![](images/ed4572961b9e35b9b317df219ad2d993cba2e4f8e17a5027c9fd8a2f46773f34.jpg)
 
 ### SELF DIAGNOSIS
-`ssangyong_musso_en_15c3445c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/323e7a3edd39c988f166a31f093f6069549868f28be84d27852548adf6044f8e.jpg)
 
@@ -24961,7 +23111,6 @@ Blinking Code 1
 8. Determine the fault code and trace defective component.
 
 ### Self-Diagnosis List
-`ssangyong_musso_en_777c1e33` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/46deb46f83b265db9e1abcc126c4ca933c1df4271608cc9db1718c7bc2a1ac14.jpg)
 
@@ -24974,14 +23123,12 @@ Blinking Code 1
 ![](images/8b5791da3198e17a41d64b0de8f6725b073dcc7a5f1a803fb07cca36c38d435b.jpg)
 
 ### Installation Notice
-`ssangyong_musso_en_a2097ee6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Each position mark (LH,RH) is stamped on the inner surface of the rids.
 
 2. Unscrew the bolts from both sides.
 
 ### Installation Notice
-`ssangyong_musso_en_64af0d9d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/3260f004f0f71675f5bf0d8ae80c465b1720455ddec9dbc22784955588e71109.jpg)
 
@@ -24994,14 +23141,12 @@ Each position mark (LH,RH) is stamped on the inner surface of the rids.
 ![](images/fbe1bbfaefc51170e4a3b6c80d4367aacc186233d2fadb32f2af50b6316b564d.jpg)
 
 ### Notice
-`ssangyong_musso_en_175a4eea` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Clock spring can not be repaired.
 Do not disassemble or modify.
 To adjust to the center position, rotate clockwise until it stops and then rotate it counterclockwise 2.3 ± 0.2 revolutions and align marks. If not, airbag system can not work normally and driver can be injured seriously.
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_05f522dc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 preceding work removal of steering wheel
 
@@ -25015,19 +23160,16 @@ preceding work removal of steering wheel
 ![](images/98d3b8f23c612eca80f1e0bb2005b9ef2ee7cd9bc808f0d1f92fe25d889f9ae2.jpg)
 
 ### Installation Notice
-`ssangyong_musso_en_201668d2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Don’t try to repair and modify the clock spring. When aligning the neutral position, turn to clockwise until it stops, and turn to counter clockwise until the marks are aligned
 
 ![](images/788b93191336f749a1d50445e62452b76aa1572b9178057925c3a27c3bf68c27.jpg)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_23f8c1cf` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 AC4 is installed on the center portion of the front floor tunnel. Built-in accelerometer sensor detects collision and determines action or non-action and ignition time.
 
 ### Notice
-`ssangyong_musso_en_3873d42d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not disassemble the AC4 to repair. If defective, replace it. AC4 should not be shocked or vibrated by dropping on the ground or bumping.
 
@@ -25036,7 +23178,6 @@ Replace the AC4 with new after air bag inflation.
 1. Disconnect the negative battery cable and wait for 30 seconds before starting service.
 
 ### Notice
-`ssangyong_musso_en_a6a10254` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Though battery cable is disconnected, air bag control unit will maintain backup power for 150ms and air bag can be inflated, so wait for min.30 seconds.
 
@@ -25048,21 +23189,18 @@ Though battery cable is disconnected, air bag control unit will maintain backup 
 7. Unscrew 3 nuts and remove the AC4.
 
 ### Notice
-`ssangyong_musso_en_6c1c5fe6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For installation, horizontal position should be secured for the better changes of collision pulse between the vehicle body and air bag control unit.
 
 8. Installation should follow the removal procedure in the reverse order.
 
 ### Inspection Procedure
-`ssangyong_musso_en_58566fa0` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Check AC4 case and welt bolts for crack or deformation.
 
 2. Check connector, lock lever and terminal for deformation.
 
 ### Notice
-`ssangyong_musso_en_95c7cae3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the AC4 with new if dust, deformation or corrosion found.
 
@@ -25071,30 +23209,25 @@ Replace the AC4 with new if dust, deformation or corrosion found.
 ![](images/65179437e0dc3a928bc7044e3487e31b0a2f73600dab74b134167ba7d647e39d.jpg)
 
 ### INTRODUCTION
-`ssangyong_musso_en_edf017d4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 SRS (Supplemental Restraint System) air bag protects driver and passenger by inflating air bag under collision and seat belt pre tensioner is a supplemental equipment for seat belt reducing shocks from the collision by pulling passenger’s body against seat back at the same time of air bag inflation.
 
 Air bag unit has diagnosis functions and indicates system malfunctions to the driver by turning on the air bag warning lamp.
 
-### CAUTION
-`ssangyong_musso_en_fd94ec4c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Perform the service procedures for the air bag system as ordered, if not, the air bag can be operated suddenly and it could result in damage of air bag or injury. Before service (removal, installation, checking and replacement of parts), observe the following instructions and service correctly.
-
-1. To service, turn the ignition switch to ‘LOCK’ position and disconnect the negative battery cable and continue the procedures after approx. 30 seconds.
-2. If the vehicle is damaged due to accident, remove the air bag ECU first to get the accident records.
-3. Never use the other vehicle’s air bag parts and replace with genuine part, if required.
-4. Do not disassemble or repair the air bag module, air bag unit and wiring harness to reuse.
-5. Replace the air bag unit or air bag module if dropped, cracked or damaged.
+> ⚠️ **Внимание:** 
+> Perform the service procedures for the air bag system as ordered, if not, the air bag can be operated suddenly and it could result in damage of air bag or injury. Before service (removal, installation, checking and replacement of parts), observe the following instructions and service correctly.
+>
+> 1. To service, turn the ignition switch to ‘LOCK’ position and disconnect the negative battery cable and continue the procedures after approx. 30 seconds.
+> 2. If the vehicle is damaged due to accident, remove the air bag ECU first to get the accident records.
+> 3. Never use the other vehicle’s air bag parts and replace with genuine part, if required.
+> 4. Do not disassemble or repair the air bag module, air bag unit and wiring harness to reuse.
+> 5. Replace the air bag unit or air bag module if dropped, cracked or damaged.
 
 ### BODY WIRING SYSTEM
-`ssangyong_musso_en_ffb16c2d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Discon ectthe negative baterycable beforeremoving orinstalingany electrical unitor whena to lorequipment couldeasilycomeincontactwithexposedelectrical terminals. Discon ectingthis cable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### Schematic and Routing Diagrams 9A-2
-`ssangyong_musso_en_91d67a92` | musso | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Power Distribution 9A-2
 Starting & Charging (Gasoline HFM) 9A-3
@@ -25122,7 +23255,6 @@ Automatic Transmission (BTRA) 9A-25
 Driver's Seat 9A-26
 
 ### SCHEMATIC AND ROUTING DIAGRAMS
-`ssangyong_musso_en_00708276` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/56071b9fad748bea00470146111a615532e5494903ee2f7745363c5106515794.jpg)
 
@@ -25131,7 +23263,6 @@ Driver's Seat 9A-26
 ![](images/a536ae915eb6decc0157f54b12f3d4c6a17e1d083f1e8669fd110a4219aeb76c.jpg)
 
 ### Engine Room Fuse (EF) and Relay Box
-`ssangyong_musso_en_e24c18ad` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/1b1ad23fc5398b7d8ed2a95ecd3881759ab85e524c7bd92dd556196c49e9156f.jpg)
 
@@ -25190,7 +23321,6 @@ Condenser Fan (Gasoline E/G)
 49 Relay Horn
 
 ### LOCATION OF CONNECTORS BY WIRING HARNESS MAIN
-`ssangyong_musso_en_6130c0ae` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/51370fb13457c894e40d4b8c6135e5ec1f67327ec27454f32abb416e6384faef.jpg)
 
@@ -25212,7 +23342,6 @@ Condenser Fan (Gasoline E/G)
 76-1 Mode Switch Automatic Transmission 77 “B” Position Switch ：   Automatic Transmission 78 “P” Position Switch   Automatic Transmission 79 Shift Lock Solenoid Valve. ·   Automatic Transmission 80 TCCU 81 Ground 5  ·...··  ··.··.··· ·...·· Gasoline E/G
 
 ### LOCATION OF CONNECTORS BY WIRING HARNESS MAIN
-`ssangyong_musso_en_9486bd8d` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 81-1 Ground 7 . .. Diesel E/G 82 Seat Extension Wiring Connector 83 Transmission Extension Wiring Connector   E23 & E32 Gasoline E/G with Manual Transmission
 83-1 Transmission Extension Wiring Connector   Diesel E/G with MB A/T 84 Trans ission Extension Wiring Connector  · Gasoline E/G with Manual Transmission
@@ -25259,7 +23388,6 @@ Condenser Fan (Gasoline E/G)
 129 Transfer Case Speed Sensor . Gasoline E/G with TOD (MSE ECU 3.2 Engine Only)
 
 ### LOCATION OF CONNECTORS BY WIRING HARNESS MAIN
-`ssangyong_musso_en_f84ed0c4` | musso | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 130 Engine Main Wiring Connector .     Gasoline E/G with MSE ECU
 131 Remote Engine Start   Diesel E/G with A/T & Black Out Lamp
@@ -25279,7 +23407,6 @@ Condenser Fan (Gasoline E/G)
 147 Immobilizer Unit . ··· … Diesel E/G with Crypto Type Immobilizer
 
 ### ENGINE ROOM
-`ssangyong_musso_en_6e672b69` | musso | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 ![](images/4a08318e6f06069f59fb0c96b3e2fba82e896b5492f01a1a7288c23dc67a3daf.jpg)
 
@@ -25341,7 +23468,6 @@ Condenser Fan (Gasoline E/G)
 49 Fusible Link Box   Gasoline E/G
 
 ### ENGINE ROOM
-`ssangyong_musso_en_9a9ae672` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 49-1 Fusible Link Box    · Diesel E/G
 50 Receiver Dryer   Gasoline E/G with Air Conditioner
@@ -25351,7 +23477,6 @@ Condenser Fan (Gasoline E/G)
 53 Main Wiring Connector
 
 ### FLOOR
-`ssangyong_musso_en_dd901257` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/fd7eab559e593211e55af6fdd0a2ad999cbd6d1cbe5abdc82d619ba31525f3d8.jpg)
 
@@ -25397,7 +23522,6 @@ Condenser Fan (Gasoline E/G)
 40 Acceleration Sensor ABD
 
 ### DRIVER'S DOOR
-`ssangyong_musso_en_771a9933` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/40cfadd7ae9c186317ec8e25a9f1c8d7c68b28912f4f4faa56beab3cd1b0e031.jpg)
 
@@ -25414,7 +23538,6 @@ Condenser Fan (Gasoline E/G)
 11 Door Courtesy Lamp
 
 ### PASSENGER'S DOOR
-`ssangyong_musso_en_1c15bea9` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/d231575073ed57bbd4055044579ec062cafe022c3e28f319dfcf4f7776b39aff.jpg)
 
@@ -25430,7 +23553,6 @@ Condenser Fan (Gasoline E/G)
 10 Door Courtesy Lamp
 
 ### TAIL GATE
-`ssangyong_musso_en_00da941c` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/9de55103d67d4cd45f46be4c24aa446a1fa3d5200b0345190db171fe86abd142.jpg)
 
@@ -25451,7 +23573,6 @@ Condenser Fan (Gasoline E/G)
 15 Rear Heated
 
 ### SEMI AUTOMATIC AIR CONDITIONER
-`ssangyong_musso_en_9cfa1232` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/98b70c0fb75fdff3657cd8fa1523a1067b04a9aa09f2bd940265dde7241e68c3.jpg)
 
@@ -25480,7 +23601,6 @@ Condenser Fan (Gasoline E/G)
 23 Mode Actuator
 
 ### FULL AUTOMATIC AIR CONDITIONER
-`ssangyong_musso_en_bc73e755` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d1a624c641ebaeca1138485b8acbb302c6dd1094ad1d8de138e290b2ac4a3742.jpg)
 
@@ -25495,7 +23615,6 @@ Condenser Fan (Gasoline E/G)
 8 Blower Relay 9 Control (A) 10 Control (B) 11 Sun Sensor 12 Mode Actuator 13 In Car Sensor
 
 ### GASOLINE ENGINE (MSE)
-`ssangyong_musso_en_a7cb87f7` | musso | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ![](images/ba9e83249251a02ad508fb5a9317ad4bdcd074c62661f16eb910539be737f2fb.jpg)
 
@@ -25527,7 +23646,6 @@ Condenser Fan (Gasoline E/G)
 26 ECU Engine Wiring Connector
 
 ### GASOLINE ENGINE (HFM)
-`ssangyong_musso_en_d055bfa4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/1155c32e1265222fd01aa4c5eb250b6d80c2dfa36b44e376ec20c11512a26514.jpg)
 
@@ -25556,7 +23674,6 @@ Condenser Fan (Gasoline E/G)
 23 Ground
 
 ### DIESEL ENGINE
-`ssangyong_musso_en_773afcde` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c57c2dad40871ee8b86277083ac6b47019862b35b992b9f0a02581713e205713.jpg)
 
@@ -25570,7 +23687,6 @@ Condenser Fan (Gasoline E/G)
 8 Water Temperature Sensor (Gauge)
 
 ### MANUAL TRANSMISSION
-`ssangyong_musso_en_66157602` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/1ad7914b7456b94c4c1efd6d669a85261753f4327219922a91624d7485604a4b.jpg)
 
@@ -25585,7 +23701,6 @@ Condenser Fan (Gasoline E/G)
 8 Speed Sensor (Turbo Diesel Engine Only)
 
 ### AUTOMATIC TRANSMISSION (BENZ)
-`ssangyong_musso_en_6f658404` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ea423b1ea96f26348d0a14eb7ea5e5939e3cfe89f95f1a28782936f5b77c43e3.jpg)
 
@@ -25600,7 +23715,6 @@ Protection Switch Gasoline E/G
 8 Speed Sensor Turbo Diesel E/G
 
 ### AUTOMATIC TRANSMISSION (BTRA)
-`ssangyong_musso_en_0b768a5b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7ef4553527dc00622faeeed5f2c5fbb1d395545275ad9a80cae54e0d480e9074.jpg)
 
@@ -25615,7 +23729,6 @@ Protection Switch Gasoline E/G
 9 Inhibitor Switch
 
 ### DRIVER'S SEAT
-`ssangyong_musso_en_08e35802` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/4ce2c3210b7074d15a43a371bff3890a998b3f0063eff0f190de2ba5666a9833.jpg)
 
@@ -25629,12 +23742,10 @@ Protection Switch Gasoline E/G
 8 Driver Seat Switch
 
 ### LIGHTING SYSTEM
-`ssangyong_musso_en_0d41ce8c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Discon ectthenegative baterycable beforeremoving orinstalingany electrical unitor whena to lorequipmentcouldeasilycomeincontactwithexposedelectrical terminals. Discon ectingthiscable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_eff27945` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications. 9B-1 Back-Up Lamp and Stop Lamp 9B-6
 Bulb Usage Chart 9B-1 Front and Rear Fog Lamp ： 9B-7
@@ -25645,7 +23756,6 @@ Head Lamp Leveling Device · · 9B-4 Front and Rear Lamps · ：： ： 9B-9
 Turn Signal Lamp and Hazard Lamp. ： 9B-5
 
 ### BULB USAGE CHART
-`ssangyong_musso_en_377a4596` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/08df8bb4e4654afa7bfeb480afdf48fd127756e463e9be34a00df7b95e719fa5.jpg)
 
@@ -25665,7 +23775,6 @@ SCHEMATIC AND ROUTING DIAGRAMS
 ![](images/87596d29e4795b8ebc55d425e8b742939fa73bc0aa6bab779c5060a67d690db4.jpg)
 
 ### FRONT AND REAR LAMPS
-`ssangyong_musso_en_ecb31760` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/eef35596cae2a6cb93daf2eb31fe484e5ab977729e280d57dcabb1f6ab1fb5e8.jpg)
 
@@ -25679,7 +23788,6 @@ SCHEMATIC AND ROUTING DIAGRAMS
 8 Tail Stop Lamp
 
 ### Head Lamp Focusing
-`ssangyong_musso_en_c93a7481` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When using the beam setting device
 
@@ -25715,7 +23823,6 @@ A : Up/down direction adjusting screw B : Left/right direction adjusting secrw
 ![](images/4c7a999d1f830bf14dc98aac923e6104cb7d9c7f2737e68e8e2175750b18ed26.jpg)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_fba6b2a9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Unscrew upper 2(10mm) bolts and lower 1(10mm) bolt of head lamp.
 2. Disconnect connector and remove the headlamp.
@@ -25724,14 +23831,12 @@ A : Up/down direction adjusting screw B : Left/right direction adjusting secrw
 ![](images/3eb81a834672adc5aeadac7b2dc27ace14d33de6b83153d445171a1a79c555c6.jpg)
 
 ### Bulb Replacement
-`ssangyong_musso_en_140e8902` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Turn the dust cap of the head lamp to the left and remove it.
 
 2. If it is high/low head lamp, loosen the screw and pull out the return spring and replace the bulb.
 
 ### Notice
-`ssangyong_musso_en_1ad6af11` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For correct installation, check the original position of the return spring and remove.
 
@@ -25741,7 +23846,6 @@ High/low-beam head lamp replacement
 3. If it is high-beam head lamp, pull out the return spring and replace the bulb.
 
 ### Notice
-`ssangyong_musso_en_75cd2aea` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refern to lamp specifications.
 
@@ -25749,7 +23853,6 @@ Refern to lamp specifications.
 High-beam head lamp replacement
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_e1c86b66` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Open the tailgate and remove the inner cover of the rear combination lamp.
 2. Unscrew 4(8mm) nuts of tail/stop lamp and turn signal lamp assembly.
@@ -25767,31 +23870,26 @@ Tail/stop Lamp and backup lamp
 4. Disconnect each connectors and remove the rear combination lamp. Replace with specified bulb, if necessary.
 
 ### Notice
-`ssangyong_musso_en_422b3efa` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to lamp specification.
 
 ![](images/c55f6814568aa45b8f6c9d201804169cb0932a0dddd89b49628b66d8ef50b730.jpg)
 
 ### HORNS
-`ssangyong_musso_en_ffb16c2d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Discon ectthe negative baterycable beforeremoving orinstalingany electrical unitor whena to lorequipment couldeasilycomeincontactwithexposedelectrical terminals. Discon ectingthis cable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### WIPERS/WASHER SYSTEM
-`ssangyong_musso_en_0d41ce8c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Discon ectthenegative baterycable beforeremoving orinstalingany electrical unitor whena to lorequipmentcouldeasilycomeincontactwithexposedelectrical terminals. Discon ectingthiscable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_845878bc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Schematic and Routing Diagrams . · .. ■ 9D-2 On-Vehicle Service 9D-3
 Rear Wiper and Washer 9D-2 Front Wiper and Washer 9D-3
 Maintenance and Repair 9D-3 Rear Wiper and Washer 9D-5
 
 ### FRONT WIPER AND WASHER
-`ssangyong_musso_en_24d33340` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5c6368dfcf94236a86d7f2400a051dc2fd3bd165225ef6720f201852f61465b8.jpg)
 
@@ -25811,7 +23909,6 @@ Maintenance and Repair 9D-3 Rear Wiper and Washer 9D-5
 14 Washer Hose
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_82ca5045` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the wiper arm and blade.
 2. Remove the linkage connected to the wiper motor.
@@ -25822,14 +23919,12 @@ Maintenance and Repair 9D-3 Rear Wiper and Washer 9D-5
 ![](images/56fa996c2cdeaa80e7290d6347c5505e64eb06a09352c6aaef73e76d50b77430.jpg)
 
 ### Connector Appearance and Connecting Circuit
-`ssangyong_musso_en_3a4b65d3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Connector Terminal
 
 ![](images/2fdc76a8460ccf695c8fcdaddc19301c2f095c2987877710ee0aa9634c54d7ff.jpg)
 
 ### REAR WIPER AND WASHER
-`ssangyong_musso_en_18418b1e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9da7fda7385e3c753f02dfdd24d2554edb27b53c050c58f74c5e7394e35f1096.jpg)
 
@@ -25845,7 +23940,6 @@ Connector Terminal
 10 Outer Joint
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_16e4491d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the spare tire.
 2. Unscrew the locking nut and remove the wiper.
@@ -25862,7 +23956,6 @@ Connector Terminal
 ![](images/64e91e54a690f37481f672c01e2b61b36813b754246dc4ab083066031a45b2b2.jpg)
 
 ### Connector Appearance and Connecting Circuit
-`ssangyong_musso_en_e240c995` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Connector Terminal
 
@@ -25871,12 +23964,10 @@ Connector Terminal
 ![](images/73b1045e7aae8c61a3520180167e6e73b853cbaa0ae8b5d89084b8b295684df4.jpg)
 
 ### INSTRUMENTATION/DRIVER INFORMATION
-`ssangyong_musso_en_f0534d0f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Discon ectthenegative baterycable beforeremoving or instalingany electricalunitor when a to lorequipmentcouldeasilycomeincontactwithexposed electrical terminals. Discon ecting this cable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_a80aefcb` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Schematic and Routing Diagrams 9E-2
 Cluster 9E-2
@@ -25887,7 +23978,6 @@ On-Vehicle Service 9E-4
 Combination Meter 9E-4
 
 ### COMBINATION METER
-`ssangyong_musso_en_8aee3117` | musso | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ![](images/e459fdfe513376a3c67a21aa6b8e94b979d48fda34ace6a9188d1b8beb606816.jpg)
 
@@ -25922,7 +24012,6 @@ Combination Meter 9E-4
 20. Seat belt reminder
 
 ### Diesel
-`ssangyong_musso_en_44023a4a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Speedometer
 
@@ -25939,7 +24028,6 @@ Combination Meter 9E-4
 ![](images/d41575e52bc4abd2f49c595b4de3862588694a1b6200f65fcf911d475c25611f.jpg)
 
 ### Gasolin
-`ssangyong_musso_en_2204cc6c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Windshield Linkage
 
@@ -25966,17 +24054,14 @@ S km/h 240
 ![](images/ade4b35b8a65c12899dfeca5a731d7ce58a2f7e42fb33221e5a2fea7bcace768.jpg)
 
 ### AUDIO SYSTEM
-`ssangyong_musso_en_ffb16c2d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Discon ectthe negative baterycable beforeremoving orinstalingany electrical unitor whena to lorequipment couldeasilycomeincontactwithexposedelectrical terminals. Discon ectingthis cable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### SEATS
-`ssangyong_musso_en_352a9ed5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Discon ect thenegative baterycable beforeremoving or instalingany electrical unitorwhena to l orequipmentcouldeasilycome incontactwithexposedelectrical terminals. Discon ecting thiscable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_3cd522c2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications. 9H-1 Seat Belt & Tension Reducer Circuit 9H-5
 General Specifications 9H-1 Component Locator . 9H-6
@@ -25986,14 +24071,12 @@ Power Seat 9H-3 On-Vehicle Service . 9H-7
 Seat Warmer. 9H-4
 
 ### DIAGNOSIS
-`ssangyong_musso_en_7aff785f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the power seat does not work :
 
 ![](images/cde01be7fa50314b26deda813bbe9274d4e423eeee5e9fa77712b0791f1798e7.jpg)
 
 ### SCHEMATIC AND ROUTING DIAGRAMS
-`ssangyong_musso_en_2456348c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/12ea71c6951e59fa223ab175b5b133af568542026658b06d49987717c4c255cc.jpg)
 
@@ -26004,7 +24087,6 @@ GR 5S
 3E8 8
 
 ### FRONT SEAT & REAR SEAT
-`ssangyong_musso_en_39a310d3` | musso | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 ![](images/8e2b62c43f4449326936faa0ed1675f522866cb464b2a1d73a197b5aef026669.jpg)
 
@@ -26018,7 +24100,6 @@ GR 5S
 8 Headrest
 
 ### MAINTENANCE AND REPAIR ON-VEHICLE SERVICE
-`ssangyong_musso_en_9d024180` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/3f9694992802f03295085709b486c9645514082b7d21836dd602c763044e72de.jpg)
 
@@ -26036,14 +24117,12 @@ GR 5S
 8 Seat Heater Switch
 
 ### Driver's Power Seat Switch
-`ssangyong_musso_en_2b571de7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/956b5927469d8e117ae09cce10ca0f46e691b2e2e17c1d204e792d7bd1acbf88.jpg)
 
 ![](images/068d3e0aa85d9acb84375c8f4d7970cd389d11e233d64dccb534df57cefea184.jpg)
 
 ### Seat Heater Connector and Connection Circuit
-`ssangyong_musso_en_030774ae` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Seat heater switch connector
 
@@ -26054,12 +24133,10 @@ Circuit
 Connection Circuit
 
 ### GLASS AND MIRRORS
-`ssangyong_musso_en_039ac322` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Discon ectthenegative batery cablebeforeremoving orinstalinganyelectrical unitorwhena to l orequipmentcouldeasilycomeincontactwithexposed electrical terminals. Discon ectingthiscable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_9845bc29` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Schematic and Routing Diagrams . 9L-2 On-Vehicle Service 9L-4
 Outside Mirror . 9L-2 Front & Side Glass 9L-4
@@ -26067,21 +24144,18 @@ Auto Dimming Room Mirror 9L-3 Tailgate Glass 9L-9
 Maintenance and Repair 9L-4 Auto Dimming Room Mirror 9L-12
 
 ### SCHEMATIC AND ROUTING DIAGRAMS
-`ssangyong_musso_en_0b4fb815` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/65e6e989b981ebdcae703525b0ea625db5b80f6163d33b18d3b31fa6653bd12b.jpg)
 
 ![](images/6c15a570bf5eaa68eaa9ccbaa674bd351bc4c38dcc55cd0910acb90cb930bf07.jpg)
 
 ### ON-VEHICLE SERVICE
-`ssangyong_musso_en_0d30131f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 FRONT & SIDE GLASS
 
 ![](images/a43d61b1cc51d8c41164be9232c89d8ba74341b9935c1a9033432c230292ac86.jpg)
 
 ### Installation of Windshield
-`ssangyong_musso_en_af2f3b04` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Cleaning of windshield mounting flange.
 
@@ -26133,7 +24207,6 @@ Turn over the glass and apply sealant.
 7. Using suction holders, install the windshield within 5minutes after application of sealant.
 
 ### Installation of Side Glass
-`ssangyong_musso_en_5a833ffd` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For installation, refer to 'Installation of Windshield'.
 
@@ -26170,7 +24243,6 @@ Turn over the glass and apply sealant. Uneven application of sealant may cause w
 ![](images/5e5f04ed18344f865b5c90edda87335bb8755fd4f4f75631471c6052aabc1c5d.jpg)
 
 ### TAILGATE GLASS
-`ssangyong_musso_en_eb02a1ae` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/01d14e7ac47b11d1e175aba3f29dd5439028387c548d6f5a5c9a1b1718b18272.jpg)
 
@@ -26180,7 +24252,6 @@ Turn over the glass and apply sealant. Uneven application of sealant may cause w
 34 Tailgate Tailgate Glass
 
 ### Installation of Tailgate Glass
-`ssangyong_musso_en_213fdaf1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Clean the tailgate flange.
 
@@ -26238,7 +24309,6 @@ Fix the glass with adhesive tape. Apply sealant additionally between the quarter
 ![](images/64f23732f333eb29f8f7f7da4e03fd507593189d424e3f83afc2aef5822d1beb.jpg)
 
 ### AUTO DIMMING ROOM MIRROR Layout
-`ssangyong_musso_en_4122416f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/562472422735d9c9e5f0b4ced8c6069f87d32c610f8a89d16648d43d826299a3.jpg)
 
@@ -26250,14 +24320,12 @@ Fix the glass with adhesive tape. Apply sealant additionally between the quarter
 6 Lamp
 
 ### Function
-`ssangyong_musso_en_4bbb3379` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When ignition switch is turned ON, green lamp on auto dimming mirror will turn in and glare reflection ratio will be automatically adjusted. By positioning AUTO switch to ON, 2Sensors will automatically adjust refection ratio after sensing rear and surrounding brightness to reduce driver’s eye fatigue during driving though tunnel or in night.
 
 When OFF switch is pressed, the lamp goes out and it will be operated as a normal rear view mirror and shift lever is positioned in reverse, the auto dimming function will be automatically OFF.
 
 ### Check & Service
-`ssangyong_musso_en_076114c1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If reflection ratio is not adjusted automatically during night driving when AUTO switch is pressed, check each connectors for proper connection and power flow to the auto dimming room mirror using multi tester.
 
@@ -26268,7 +24336,6 @@ If reflection ratio is not adjusted automatically during night driving when AUTO
 ![](images/593bb9cd043670f616bc212dec0e970aedec47c23b73de857662d5506a294081.jpg)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_4d8acc08` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Removal the room mirror cover (arrow).
 
@@ -26279,14 +24346,12 @@ If reflection ratio is not adjusted automatically during night driving when AUTO
 ![](images/392300848ea9fe258afc2fae21a187242cae95e22429dc0f541bcccd90f7b7d6.jpg)
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_911abdda` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Dimension 9N-2 Body Mountings ：： 9N-3
 Frame 9N-2 Body Mounting-Sectional View 9N-4
 Component Locator 9N-3 Skid Plate 9N-5
 
 ### BODY MOUNTINGS
-`ssangyong_musso_en_f4ab4a4c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ba73a76c5cdf66e0f0a29242cb4bebdc72f1289c63bb44da4611929660785b4d.jpg)
 
@@ -26305,7 +24370,6 @@ Component Locator 9N-3 Skid Plate 9N-5
 13 Washer
 
 ### BODY MOUNTING-SECTIONAL VIEW
-`ssangyong_musso_en_7b628bc3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/197ba106c88cf4fea27effc3925d3cf26170209253958dac03fbac9de87d8ac8.jpg)
 
@@ -26322,21 +24386,18 @@ Type D
 Type E
 
 ### SKID PLATE
-`ssangyong_musso_en_bf59cf83` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ba0180a43500eed99f1c6fca19b97a1f771918555886275a1bc93fcc960a2e0c.jpg)
 
 1 Mounting Bolt 28-47 Nm 2 Skid Plate
 
 ### Installation Notice
-`ssangyong_musso_en_d1afed99` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f52eab03d8ff96b5e50480a6066dcb63f8fe4662d607eef86ae78426624d2a98.jpg)
 
 2. Installation should follow the removal procedure in the reverse order.
 
 ### FRONT BUMPER
-`ssangyong_musso_en_74f6970c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/bee4552de3773c34719e4bcb088b7be14868b38e5ffce91674b9ba03d620a411.jpg)
 
@@ -26345,7 +24406,6 @@ W0352-016
 ![](images/eda2557362d4c41fd8287206d9185e2afc6301964e1633668444a0e8679ab4d7.jpg)
 
 ### Mounting Inspection
-`ssangyong_musso_en_bc04b782` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Clearance between the upper bumper and radiator grille.
 
@@ -26366,7 +24426,6 @@ W0352-016
 ![](images/585afe408272d62bf904dd2717cd77780e83149ecbf64743b78f80101cf1c3f0.jpg)
 
 ### Mounting Inspection
-`ssangyong_musso_en_60359da6` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Clearance between the upper bumper facia and tailgate.
 
@@ -26387,12 +24446,10 @@ W0352-016
 ![](images/70c9163702e0004e71edf3136cbd013a4cb05ae670b34750ecfea12b432a4a26.jpg)
 
 ### DOORS
-`ssangyong_musso_en_0ad7faa7` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Discon ectthenegative batery cable beforeremoving orinstalingany electrical unitorwhena to lorequipmentcouldeasilycome incontactwithexposedelectrical terminals. Discon ectingthiscable wilhelppreventpersonalinjuryanddamagetothevehicle.TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_40486989` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Schematic and Routing Diagrams . 9P-2 Front Door 9P-3
 Power Window 9P-2 Rear Door 9P-4
@@ -26400,14 +24457,12 @@ Maintenance and Repair 9P-3 Tail Gate 9P-5
 On-Vehicle Service 9P-3
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_e86a1b56` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 1. Remove the pin from the center hinge of the door.
 2. Remove the upper/lower hinge bolts from the body and remove the door assembly.
 3. Installation should follow the removal procedure in the reverse order.
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_e86a1b56` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 1. Remove the pin from the center hinge of the door.
 2. Remove the upper/lower hinge bolts from the body and remove the door assembly.
@@ -26416,7 +24471,6 @@ On-Vehicle Service 9P-3
 ![](images/eca850187227828ae116983a7cc8a60a18b9e06ec1ac29ff3c0387af0ffc3655.jpg)
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_3cdb5bc9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the shock absorber mounting bolts.
 2. Disconnect the tailgate wiring harness.
@@ -26426,7 +24480,6 @@ On-Vehicle Service 9P-3
 ![](images/3f3ff12d9115ede3527664d01917881e29d87247629b29f7e0086899c5f89971.jpg)
 
 ### Adjustment Procedure
-`ssangyong_musso_en_6bd0ef18` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 <Door Striker>
 1. Adjust the striker in forward rearward and left right directions. Adjust striker height by increasing decreasing the shims.
@@ -26442,12 +24495,10 @@ On-Vehicle Service 9P-3
 ![](images/15b59975cad0328637aa09f4769da5d57bb96736d392690b770895260740b3e8.jpg)
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_09348056` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Schematic and Routing Diagrams . ■ 9Q-2 On-Vehicle Service 9Q-3 Sun Roof 9Q-2 Sun Roof 9Q-3 Maintenance and Repair 9Q-3
 
 ### MAINTENANCE AND REPAIR ON-VEHICLE SERVICE
-`ssangyong_musso_en_0bce38e8` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 SUN ROOF
 
@@ -26464,7 +24515,6 @@ SUN ROOF
 11 Sun Roof Module Assembly
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_2719a468` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnect the connector and remove the sun roof module assembly.
 
@@ -26479,7 +24529,6 @@ SUN ROOF
 ![](images/628e8e39bcd05853ad5f3cc27e3f1d3700ec5ecb724e217b20bf2d48dcf35f0a.jpg)
 
 ### MAINTENANCE AND REPAIR ON-VEHICLE SERVICE
-`ssangyong_musso_en_ba772055` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 HOOD
 
@@ -26491,7 +24540,6 @@ HOOD
 4 Bolt
 
 ### Installation Notice
-`ssangyong_musso_en_d4f2b839` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/cd8ac7426fce05f83368a2f910201944872b2bb1439b48636596050f35d1dd62.jpg)
 
@@ -26512,14 +24560,12 @@ HOOD
 ![](images/67d125c30ef81f8024c537d40baecd52893f87d6c68bae0d1945e5f6029d0cb1.jpg)
 
 ### Adjustment Procedure
-`ssangyong_musso_en_89afff4f` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Alignment between hood striker and latch hole.
 
 Loosen the mounting bolt of hood latch slightly and adjust hood in forward/rearward and left/right directions. Then align the center between hood striker and latch hole.
 
 ### Installation Notice
-`ssangyong_musso_en_f20bddf2` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/ed3b68c77ac9f193e2a8c59e516773a654b8b0e4174a63719f28b38d9a96dcc7.jpg)
 
@@ -26541,7 +24587,6 @@ Adjust the lock in forward/rearward and left/right directions, align with the ho
 ![](images/924a90b92232ffd096fb29eae2ed293c8e13935feceaa3825e3c4e104e322aa2.jpg)
 
 ### Removal Procedure
-`ssangyong_musso_en_1f8299d5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the screws.
 2. Remove the mudguard and wheel guard.
@@ -26553,14 +24598,12 @@ Adjust the lock in forward/rearward and left/right directions, align with the ho
 5. Remove the fender mounting bolts.
 
 ### Notice
-`ssangyong_musso_en_b91a5313` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to damage the paintwork.
 
 ![](images/515ada3c031780cf9f72fdead588b63dfd573845ad9e82a9092bcc51b2d8cb6e.jpg)
 
 ### Notice
-`ssangyong_musso_en_c2b706bc` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Apply a tape sealer to the fender and body panel to prevent rust in fender mounting bolts area.
 
@@ -26569,12 +24612,10 @@ Apply a tape sealer to the fender and body panel to prevent rust in fender mount
 ![](images/1fa2fca8d923992ed6b46754b48e4c2a6cc52767585caccaa8f655a397d35311.jpg)
 
 ### REMOTE KEYLESS ENTRY ANDANTI-THEFT SYSTEM
-`ssangyong_musso_en_8dc21826` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Discon ectthenegativebaterycable beforeremoving or instalinganyelectrical unitorwhena to lorequipmentcouldeasilycomeincontactwithexposedelectrical terminals. Discon ectingthiscable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_0f028b86` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications. 9T-1 Diagnosis Test 9T-3
 REKES Specifications 9T-1 Maintenance and Repair ■ 1 9T-5
@@ -26583,7 +24624,6 @@ REKES 9T-2 REKES 9T-5
 Diagnosis 9T-3
 
 ### Transmitter
-`ssangyong_musso_en_7bcc09c9` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0ecd0d0d9ab2e420a4778b76758b9fc9e2334fc5c19d1c3ac82df04cade0aa96.jpg)
 
@@ -26593,14 +24633,12 @@ Diagnosis 9T-3
 REKES
 
 ### Introduction
-`ssangyong_musso_en_4f297566` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Using the service connector, possible defects in power section, input·output section of internal STICS unit can be detected and each normal status and defect mode can be checked.
 
 ![](images/86275dcea6aa20741422cea95b58fe10e39e14a5204e1664972fe878fd6787dd.jpg)
 
 ### Diagnosis Method
-`ssangyong_musso_en_79bec5f5` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 1. Use buzzer for diagnosis check status output.
 
@@ -26623,7 +24661,6 @@ T2 0.3±0.1 sec.
 T 0.6±0.2 sec.
 
 ### Notice
-`ssangyong_musso_en_3f1ff8c1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In case of checking related devices, diagnosis switch should always be ON.
 When operating the diagnosing related devices, there will be buzzer sound f t s normal and no buzzer sound if it is defective.
@@ -26631,7 +24668,6 @@ When operating the diagnosing related devices, there will be buzzer sound f t s 
 ![](images/c8afcb71604f63d6113a23723ea3fbfde93bb373c4e1c054a7ca1a2e432102b5.jpg)
 
 ### MAINTENANCE AND REPAIR ON-VEHICLE SERVICE
-`ssangyong_musso_en_92e75073` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a02923d101526ef414809d143a68e69498ab5f8e4924864696a5d9909cdfe2ad.jpg)
 
@@ -26641,7 +24677,6 @@ When operating the diagnosing related devices, there will be buzzer sound f t s 
 4 Wiring Connector (6P)
 
 ### Input Memory
-`ssangyong_musso_en_8bec2472` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 When the REKES transmitter is lost 1. Connect the battery terminal No.3 and REKES terminal No.4 which are on the diagnosis socket in engine room with service lead wire.
 
@@ -26661,7 +24696,6 @@ When the transmitter is faulty
 3 REKES Switch
 
 ### Characteristic Signal
-`ssangyong_musso_en_8b283ce3` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 1. Lock or unlock all doors according to the REKES signal when the key is removed from the key hole.
 
@@ -26670,19 +24704,16 @@ When the transmitter is faulty
 3. Time Interval T1 0.05 ± 0.02sec.(lock signal) T2 : 0.1 ± 0.02sec.(unlock signal) T3 within 0.25sec. T4 0.5 ± 0.1sec. T5 within 0.35sec. T6,T7 : 0.5 ± 0.1sec. T8 : 1 ± 0.25sec.
 
 ### Connector Appearance and Connecting Circuit
-`ssangyong_musso_en_554d87e2` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7a05714eaead3e3e835806d7d567f030b7b4b657aafc33b33f424fd4dbb3eb36.jpg)
 
 ![](images/fed768e08546fa9791d145f50ae1ba4b90027902765ee089160df0d2e724962e.jpg)
 
 ### CONTROL UNITS AND SYSTEM
-`ssangyong_musso_en_deb4d6f3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Discon ect thenegative baterycable beforeremoving orinstalingany electricalunitorwhena to lorequipment couldeasilycomeincontactwithexposedelectrical terminals. Discon ecting thiscable wilhelppreventpersonalinjuryand damage tothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_e0d9d267` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Specifications. 9U-1 STICS 9U-3
 STICS Specifications 9U-1 Maintenance and Repair 1 · 1 9U-10
@@ -26691,14 +24722,12 @@ STICS ：： 9U-2 STICS 9U-10
 Function Description 9U-3
 
 ### STICS Operating Functions
-`ssangyong_musso_en_f86d9290` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/39f80d348218f427cf3fe4d09f5e0d839264a33afca484b4cc00dbf7bb375136.jpg)
 
 ![](images/92f3282527202a483bfb6a8fe2c3dc4a2fcfefd2ab3e29488b8fe76fc3dd08bf.jpg)
 
 ### Operating Characteristics
-`ssangyong_musso_en_eaacc7e9` | musso | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 1. Wiper INT sensing vehicle speed T1 within 0.5 sec. T2 Wiper motor 1 revolution time T3 .5±0.2 sec. 20±2 sec.
 
@@ -26762,7 +24791,6 @@ T2 5±0.5 sec.
 15. Auto door unlock T1 0.5±0.1 sec. V1 15km/h
 
 ### STICS
-`ssangyong_musso_en_c8c4638d` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 STICS, electonic control warning device, controls 16 functions and contains the self diagnostic function detecting any malfunctions in the sensors and load.
 
@@ -26772,7 +24800,6 @@ STICS, electonic control warning device, controls 16 functions and contains the 
 2 STICS Connector
 
 ### Removal & Installation Procedure
-`ssangyong_musso_en_349c746e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Disconnector the battery negative cable.
 2. Unscrew 4screw from center console box.
@@ -26781,12 +24808,10 @@ STICS, electonic control warning device, controls 16 functions and contains the 
 5. Installation should follow the removal procedure in the reverse order.
 
 ### IMMOBILIZER SYSTEM
-`ssangyong_musso_en_9a198ed4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Discon ectthenegative baterycable beforeremoving orinstalinganyelectrical unitorwhena to lorequipmentcouldeasilycome incontactwithexposed electrical terminals. Discon ectingthis cable wilhelppreventpersonalinjuryanddamagetothevehicle. TheignitionmustalsobeinLOCKunle sotherwise noted.
 
 ### TABLE OF CONTENTS
-`ssangyong_musso_en_b2deea8e` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Function Description 9W-2
 System Description 9W-3
@@ -26802,14 +24827,12 @@ On-Vehicle Service 9W-15
 Immobilizer Antenna 9W-15
 
 ### FUNCTION DESCRIPTION
-`ssangyong_musso_en_9d8edac4` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Immobilizer is a device disabling vehicle ignition unless a speific key is used and designed to help prevent vehicle theft.
 
 Immobilizer is comprised of two devices, a key with encoded transponder and engine control unit(ECU) with the same encoding of the transponder. When a key is inserted into the key hole to start vehicle and turned to ‘ON’, the ECU reads and decodes the transponder code and, if the same, starts the engine, it is called immobilizer. It means immobilizer system disables starting by stopping fuel supply if the code in the transponder does not match the code stored in ECU each other.
 
 ### Notice
-`ssangyong_musso_en_e65d6a33` | musso | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 If vehicle is equipped with immobilizer system and the engine cranks normally but not start, check immobilizer system first rather than ignition and other electrical systems because it can be disabled fuel supply of injectors by ECU due to defective immobilizer system.
 Programming of the immobilizer system will be performed by authorized personnel only. If following defective codes for immobilizer system appear during diagnosis of vehicle with SCANNER, ask immobilizer programming to authorized personnel and actual programming should be performed by authorized personnel only.
@@ -26822,12 +24845,10 @@ The immobilizer system will never be removed from the vehicle. So never attempt 
 If engine does not start during service, use every key to start the engine and then check immobilizer system finally.
 
 ### Cases that requires immobilizer programming
-`ssangyong_musso_en_7c74e265` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replacement ECU In this case, replace the every transponder of the key at once. 2. Replacement of the transponder 3. Additional key for lost or 2 keys 1) Clear all codes for current keys from the ECU 2) When using current key clear code of the transponder and re-program it 3) Additional (purchased) key perform programming 4. When lost all keys 1) Clear all memorized key codes from the ECU 2) Replace the key and key set 3) Immobilizer programming
 
 ### Gasoline Version
-`ssangyong_musso_en_357a4e2c` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Immobilizer System consists of an electronic device with integrated coil, called ‘Active Antenna’, the crypto transponder, which is integrated in the ignition key, and the engine management system (EMS).
 
@@ -26841,7 +24862,6 @@ The whole Immobilizer software, the authentication and the management of valid k
 Immobilizer system for gasoline vehicle
 
 ### Active Antenna
-`ssangyong_musso_en_8f74d78b` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/da44d666c63eb612d187245dbd1e70c7ae98420d6eb091440948eceae4175a33.jpg)
 
@@ -26855,7 +24875,6 @@ Connector
 4 : Data Out (green)
 
 ### Notice
-`ssangyong_musso_en_b5504988` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Pin arrangement and spec. of connector is same for gasoline and diesel vehicles.
 
@@ -26864,7 +24883,6 @@ Wire circuit diagram
 ![](images/da8cce806e81ad00bd79f33505a5a3a66bd62d50ac4e2e2167cfa99e243556dc.jpg)
 
 ### Diesel Version
-`ssangyong_musso_en_d7184ae3` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Immobilizer System consists of an electronic device with integrated coil, called ‘Active Antenna’, the crypto transponder, which is integrated in the ignition key, and the Immobilizer-Control-Unit (ICU).
 
@@ -26895,7 +24913,6 @@ Wire circuit diagram
 ![](images/efd0858a37f68cfc40876ebcfba82d50ed8717375cf23a89a082dbac4b41ffee.jpg)
 
 ### System Integration
-`ssangyong_musso_en_9138b1ce` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The med 98.2 immobilizer is an anti-theft protection device allowing the start of the engine only if a specific authorization is obtained during the start up phase. The med 98.2 will allow (prohibit) the start of the engine by driving ON (OFF) an internal solenoid valve.
 
@@ -26928,45 +24945,38 @@ KL15 Ignition key (Power supply for med 98.2)
 GND Ground
 
 ### DIAGNOSIS
-`ssangyong_musso_en_21f27409` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 GASOLINE ENGINE Cause and Remedy for Defective When Diagnosed by Scanner
 ![](images/49ecaa02f2a9171e437e361d1af008c0a1b865f302f4234a6e5c7d619ead4dae.jpg)
 
 ### Notice
-`ssangyong_musso_en_4de115df` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Application of ex-programmed transponder into other ECUs.
 
 ; In this case, it can not be removed for the settled “lock bit” in transponder even though you perform immobilizer problem normally. Moreover it is impossible to start engine, so replace the transponder with new and perform immobilizer programming.
 
 ### Check and Remedy when Engine Does not Start
-`ssangyong_musso_en_bccc85db` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/917c77b885cc5a455b6dc63815ba9eca2743734e10e7c88b0d3649385e2d0906.jpg)
 
 Check starter wires Check TCU wires (only for 5- speed automatic transmission) Check starter and TCU
 
 ### Notice1)
-`ssangyong_musso_en_fd0fd2f5` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 MSE ECU equipped vehicle is designed to make fuel injection when the engine speed for initial cranking is over 450rpm if there are no start switch inputs in ECU No. 2 pin.
 
 ### DIESEL ENGINE
-`ssangyong_musso_en_36fbc426` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Cause and Remedy for Defective When Diagnosed by Scanner
 ![](images/06b12eaced5f29ce75133cb6099b43613efaa7d02eb7ab8648cc4f808d2810df.jpg)
 
 ### Notice
-`ssangyong_musso_en_1887e3c1` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Application of ex-programmed transponder into other ICUs.
 
 ; In this case, it can not be removed for the settled “lock bit” in transponder even though you perform immobilizer problem normally. Moreover it is impossible to start engine, so replace the transponder with new and perform immobilizer programming.
 
 ### SCHEMATIC AND ROUTING DIAGRAMS
-`ssangyong_musso_en_15016e6a` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f4423a7c41dd497356acca2014461c6c2b32560e4b536aae2560f633963ccb17.jpg)
 RE
@@ -26977,7 +24987,6 @@ GUS 1E
 ![](images/8b50d309923457ca48e2b2c91d8884189da30b5f0c36ef312764ab62758f44d0.jpg)
 
 ### IMMOBILIZER ANTENNA
-`ssangyong_musso_en_2ae91c91` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Immobilizer antenna is installed in key set outer surface (it is installed in the location of key hall illumination).(see the figure)
 
@@ -26987,7 +24996,6 @@ Immobilizer antenna is installed in key set outer surface (it is installed in th
 2 Key
 
 ### Replacement Procedure
-`ssangyong_musso_en_bf671b20` | musso | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Open the cover on key handle.
 2. Remove the small screw in symmetrical position of key illumination.
@@ -26999,4 +25007,3 @@ Immobilizer antenna is installed in key set outer surface (it is installed in th
 ![](images/4bce86c264140c6718cc2c70ee6ca31018f5916c2cf1ab492ce2033756167d80.jpg)
 
 1 Transponder
-

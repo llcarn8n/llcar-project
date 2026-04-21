@@ -1,8 +1,12 @@
-# Manual: forthing/friday_rhd (754 chunks)
-<!-- doc_type:owners_manual tier:2 lang:en source:forthing_friday_rhd_en.pdf -->
+---
+brand: forthing
+model: friday
+generation: friday_rhd
+source: kb
+---
+
 
 ### Untitled
-`forthing_friday_rhd_en_e3374ed3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 Foreword
 Dear users,
@@ -30,7 +34,6 @@ Bon voyage!
 Dongfeng Liuzhou Motor Co., Ltd.
 
 ### March 2025
-`forthing_friday_rhd_en_065235d4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:2 | doc_type:owners_manual
 
 All rights reserved. No part of this Manual may be reproduced or copied without the written consent of Dongfeng
 Liuzhou Motor Co., Ltd.
@@ -38,13 +41,11 @@ Note: The cover and pictures of this Manual are for reference only, and the real
 Foreword
 
 ### Configuration description
-`forthing_friday_rhd_en_59b26506` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:3 | doc_type:owners_manual
 
 An asterisk "*" that appears after the title or name indicates that the described device or function is only equipped
 in some models, and the vehicle you purchased may not be equipped with it.
 
 ### Safety instructions
-`forthing_friday_rhd_en_0fe799cd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:3 | doc_type:owners_manual
 
 Safety signs - affixed to the vehicle.
 Safety tips - marked with hazard warning symbols and the words "Danger", "Warning" or "Caution". The meanings
@@ -59,13 +60,11 @@ Contents
 Contents
 
 ### Instrument cluster
-`forthing_friday_rhd_en_55446ca6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:9 | doc_type:owners_manual
 
 Note: The mobile phone holder interface is only applicable to the mobile phone holder with 4-point thread
 connection
 
 ### Long-term Parked Vehicles
-`forthing_friday_rhd_en_316b3be3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:12 | doc_type:owners_manual
 
 If the vehicle needs to be parked for a long time, the
 following preparations shall be made. Proper
@@ -75,7 +74,6 @@ possible, park the vehicle indoors.
 1.
 
 ### Long-term storage of the vehicle in a traction
-`forthing_friday_rhd_en_13759807` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:12 | doc_type:owners_manual
 
 battery SOC low state will cause irrecoverable
 damage to the traction battery. Therefore, when the
@@ -90,7 +88,6 @@ backward sliding.
 4.
 
 ### Disconnect the 12V low-voltage battery wiring
-`forthing_friday_rhd_en_05ce07d9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:12 | doc_type:owners_manual
 
 and use insulating glue
 The cable joints shall be insulated and protected.
@@ -113,7 +110,6 @@ may deteriorate. In this case, contact the Forthing
 Special Service Station as soon as possible.
 
 ### If the power system fault warning lamp on the
-`forthing_friday_rhd_en_269c9091` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:12 | doc_type:owners_manual
 
 instrument cluster is on, check immediately
 according to the following steps:
@@ -146,7 +142,6 @@ If not, please contact the Forthing Special Service
 Station as soon as possible.
 
 ### Traction battery recycling
-`forthing_friday_rhd_en_8911f58b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:12 | doc_type:owners_manual
 
 According to relevant regulations, when the traction
 battery needs maintenance and replacement, the
@@ -167,7 +162,6 @@ safety accidents, the corresponding responsibilities
 shall be borne by itself or himself.
 
 ### Charging precautions
-`forthing_friday_rhd_en_26eddf1c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:13 | doc_type:owners_manual
 
 1.
 After charging, make sure that the charging
@@ -184,7 +178,6 @@ in the "Emergency Self-help Treatment" section.
 3.
 
 ### Do not insert objects other than the charging
-`forthing_friday_rhd_en_0625aa52` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:13 | doc_type:owners_manual
 
 connector into the charging interface. This may
 damage the charging interface.
@@ -198,7 +191,6 @@ on-board charging gun for charging.
 5.
 
 ### The traction battery temperature is not equal to
-`forthing_friday_rhd_en_1d2e50e4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:13 | doc_type:owners_manual
 
 the ambient temperature, and the temperature of the
 traction battery is basically consistent with the
@@ -207,7 +199,6 @@ placed in the environment for about 12~18 h.
 7.
 
 ### The traction battery is a ternary material battery
-`forthing_friday_rhd_en_7d3ede36` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:13 | doc_type:owners_manual
 
 or lithium-ion material battery, and its electrolyte is
 chemical material. Due to the composition and
@@ -216,7 +207,6 @@ traction battery at low temperature may lead to its
 service life degradation and potential safety hazards.
 
 ### It is recommended to charge the traction battery at a
-`forthing_friday_rhd_en_9260ed97` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:13 | doc_type:owners_manual
 
 temperature above 0°C as much as possible.
 8.
@@ -284,7 +274,6 @@ current appropriately according to the performance of
 the traction battery.
 
 ### Do not insert AC charging gun and DC
-`forthing_friday_rhd_en_d4ac294c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:14 | doc_type:owners_manual
 
 charging gun at the same time for charging.
 After charging, do not pull out the charging gun
@@ -295,7 +284,6 @@ Warning
 •
 
 ### If you use medical equipment (such as a
-`forthing_friday_rhd_en_0de0a2c2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:14 | doc_type:owners_manual
 
 transplanted
 cardiac
@@ -315,7 +303,6 @@ cases.
 •
 
 ### Do not disassemble or change the charging
-`forthing_friday_rhd_en_bfefecee` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:14 | doc_type:owners_manual
 
 interface, on-board charging gun, on-board
 discharging gun or AC charging pile.
@@ -338,7 +325,6 @@ duration.
 •
 
 ### When the external power grid resumes power
-`forthing_friday_rhd_en_7cbd80be` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:14 | doc_type:owners_manual
 
 supply after a short-term power outage, the
 charging
@@ -351,7 +337,6 @@ several times, please stop charging and check
 whether the power supply is normal.
 
 ### Charging system
-`forthing_friday_rhd_en_4ba2bf57` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:15 | doc_type:owners_manual
 
 •
 When the vehicle is charging, if there is a large
@@ -364,7 +349,6 @@ system will automatically stop charging.
 •
 
 ### When using a portable household AC charging
-`forthing_friday_rhd_en_d0afdde5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:15 | doc_type:owners_manual
 
 gun, pull out the AC charging gun first and
 then disconnect the power supply plug when
@@ -383,7 +367,6 @@ circuit.
 •
 
 ### If you notice an irritant odor or see smoke
-`forthing_friday_rhd_en_9f6b76b7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:15 | doc_type:owners_manual
 
 coming from the vehicle, please stop charging
 or discharging immediately and move away
@@ -398,7 +381,6 @@ conditions is found, do not charge the vehicle.
 •
 
 ### The charging equipment must be well
-`forthing_friday_rhd_en_6e44a389` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:suspension | p:15 | doc_type:owners_manual
 
 grounded. If the charging equipment fails or is
 damaged, the grounding wire can reduce the
@@ -409,7 +391,6 @@ charging connector has been removed from
 the charging interface.
 
 ### Green lamp flashes
-`forthing_friday_rhd_en_ac3f68a6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:16 | doc_type:owners_manual
 
 (breathing), and red/blue
 lamp is off
@@ -420,7 +401,6 @@ red/blue lamp is off
 Fault table:
 
 ### Charging is
-`forthing_friday_rhd_en_41327f96` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:16 | doc_type:owners_manual
 
 prohibited; the red
 lamp is on for 6
@@ -433,14 +413,12 @@ charging gun shall be subject to the instruction
 manual of the equipment.
 
 ### The AC charging interface is located in the center of
-`forthing_friday_rhd_en_bb70fa50` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:17 | doc_type:owners_manual
 
 the front face of the vehicle.
 The upper part is the AC interface, and the lower part
 is the DC interface.
 
 ### Opening and closing of AC charging port cap
-`forthing_friday_rhd_en_dce6c95b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:17 | doc_type:owners_manual
 
 Open
 When the vehicle needs charging, press the AC
@@ -454,7 +432,6 @@ port cap, and close the AC charging port cap to lock
 it.
 
 ### AC charging port lock
-`forthing_friday_rhd_en_6e79beb7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:17 | doc_type:owners_manual
 
 If the AC charging interface is in the locked state,
 press the button to stop charging, and the charging
@@ -463,7 +440,6 @@ locked state to the unlocked state. At this time, the
 charging gun can be pulled out normally.
 
 ### Opening and closing of DC charging port cap
-`forthing_friday_rhd_en_d8d6a1ce` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:17 | doc_type:owners_manual
 
 Open
 When the vehicle needs charging, press the DC
@@ -472,7 +448,6 @@ out the DC charging interface cover, and connect the
 charging device with the charging interface.
 
 ### Charging system
-`forthing_friday_rhd_en_78fdf5e0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:18 | doc_type:owners_manual
 
 Close
 After charging, pull out the DC charging gun, cover
@@ -481,7 +456,6 @@ port cap, and close the DC charging port cap to lock
 it.
 
 ### DC charging interface lock
-`forthing_friday_rhd_en_2e8652bb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:18 | doc_type:owners_manual
 
 If the DC charging interface is locked, press the
 unlocking button on the smart key, and the charging
@@ -490,7 +464,6 @@ the locked state to the unlocked state. At this time, the
 charging gun can be pulled out normally.
 
 ### AC charging with household on-
-`forthing_friday_rhd_en_16885882` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:18 | doc_type:owners_manual
 
 board charging gun*
 Operation steps*:
@@ -507,14 +480,12 @@ phenomena may occur:
 a)
 
 ### Take out the toolkit with on-board charging
-`forthing_friday_rhd_en_d3d5a713` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:18 | doc_type:owners_manual
 
 equipment from the vehicle trunk, and take out the
 on-board charging gun from the toolkit.
 5.
 
 ### Check whether the three-pin socket of
-`forthing_friday_rhd_en_c74f31ac` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:18 | doc_type:owners_manual
 
 household power supply is reliable grounding.
 7.
@@ -525,7 +496,6 @@ the charging gun again.
 8.
 
 ### Install the on-board charging gun cover and pull
-`forthing_friday_rhd_en_563166ea` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:18 | doc_type:owners_manual
 
 the on-board charging gun plug out of the power
 supply. And wrap the on-board charging gun and put
@@ -533,7 +503,6 @@ it back into the charging kit.
 9.
 
 ### Place the charging kit in the specified position
-`forthing_friday_rhd_en_fbddc65f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:18 | doc_type:owners_manual
 
 under the trunk lid to prevent it from moving freely
 with the bumping of the vehicle.
@@ -547,14 +516,12 @@ withstand shall not be lower than the rated current
 on the nameplate of the AC charging socket.
 
 ### The charging system will automatically adjust the
-`forthing_friday_rhd_en_0444c6e4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:18 | doc_type:owners_manual
 
 charging duration according to the temperature
 changes to ensure the best performance of the traction
 battery.
 
 ### Charging pile
-`forthing_friday_rhd_en_5430de8b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:19 | doc_type:owners_manual
 
 initialization
 setting
@@ -579,7 +546,6 @@ to the charging
 interface
 
 ### Abnormal state
-`forthing_friday_rhd_en_260e4128` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:19 | doc_type:owners_manual
 
 occurs due to
 damage
@@ -612,7 +578,6 @@ Service
 Center.
 
 ### Check whether two
-`forthing_friday_rhd_en_188040e4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:20 | doc_type:owners_manual
 
 short
 tones
@@ -637,7 +602,6 @@ the customer service
 center.
 
 ### The red fault
-`forthing_friday_rhd_en_c9c2ac69` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:20 | doc_type:owners_manual
 
 indicator lamp
 flashes
@@ -657,7 +621,6 @@ contact the Customer
 Service Center.
 
 ### The red fault
-`forthing_friday_rhd_en_f74ad50f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:20 | doc_type:owners_manual
 
 indicator lamp is
 always on
@@ -699,7 +662,6 @@ phenomena may occur:
 a)
 
 ### Connect the charging gun plug to the AC
-`forthing_friday_rhd_en_68dbb270` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:20 | doc_type:owners_manual
 
 charging interface on the vehicle. If the connection is
 normal, the charging connection indicator lamp on
@@ -720,7 +682,6 @@ unlocking.
 9.
 
 ### Turn off the power supply of the AC charging
-`forthing_friday_rhd_en_2f32d60c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:20 | doc_type:owners_manual
 
 pile, and put the charging gun on the AC charging pile
 back to the designated position.
@@ -729,7 +690,6 @@ cover, press the left side of the AC charging port cap,
 and close the AC charging port cap to lock it.
 
 ### Please confirm that the instrument cluster
-`forthing_friday_rhd_en_f08f966f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:21 | doc_type:owners_manual
 
 shows the traction battery SOC is greater than 30%.
 Caution
@@ -745,7 +705,6 @@ Press the switch on the power strip to discharge.
 Caution
 
 ### When the vehicle is discharged for a period of time
-`forthing_friday_rhd_en_af2aa9d9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:21 | doc_type:owners_manual
 
 and the traction battery SOC is lower than 30%, the
 discharge will be automatically stopped.
@@ -770,7 +729,6 @@ Caution
 •
 
 ### The 220 V AC discharge shares the same
-`forthing_friday_rhd_en_f4fc4038` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:21 | doc_type:owners_manual
 
 charging interface with the AC slow
 charging, so the automatic lock and unlock
@@ -786,7 +744,6 @@ Warning
 ●
 
 ### Do not store or use discharge equipment in
-`forthing_friday_rhd_en_3c966ee4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:21 | doc_type:owners_manual
 
 places with water or near heat sources.
 ●
@@ -800,7 +757,6 @@ may cause safety accidents.
 ●
 
 ### Do not use the discharge equipment when the
-`forthing_friday_rhd_en_f913e895` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:21 | doc_type:owners_manual
 
 insulation layer is damaged or the power strip
 is damaged.
@@ -820,7 +776,6 @@ total electrical power should not exceed 3
 kW; otherwise it may cause safety accidents.
 
 ### Charging with DC charging pile
-`forthing_friday_rhd_en_56c63725` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:22 | doc_type:owners_manual
 
 Operation steps*:
 1.
@@ -835,7 +790,6 @@ phenomena may occur:
 a)
 
 ### Insert the DC charging gun into the DC
-`forthing_friday_rhd_en_70daa840` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:22 | doc_type:owners_manual
 
 charging interface.
 5. Perform DC charging according to the operating
@@ -849,7 +803,6 @@ instructions of the DC charging pile.
 7.
 
 ### Pull out the charging gun after charging and put
-`forthing_friday_rhd_en_fc3caf4d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:22 | doc_type:owners_manual
 
 it back to the original position.
 8.
@@ -869,7 +822,6 @@ recommended to contact the Forthing Special Service
 Station for inspection of the vehicle.
 
 ### DIN 70121 and ISO/IEC15118 for DC
-`forthing_friday_rhd_en_9b741681` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:23 | doc_type:owners_manual
 
 charging. Otherwise, it may cause failure or
 fire, resulting in casualties.
@@ -882,7 +834,6 @@ instructions.
 ●
 
 ### It is strictly forbidden to plug and unplug the
-`forthing_friday_rhd_en_210d127d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:23 | doc_type:owners_manual
 
 DC charging gun at will during charging. To
 stop charging, please strictly follow the
@@ -895,14 +846,12 @@ time, and the DC charging gun will be pulled
 out after the charging pile stops operating.
 
 ### On the premise that the DC charging pile can output
-`forthing_friday_rhd_en_d09f50ae` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:24 | doc_type:owners_manual
 
 80 kw charging power, the estimated time for the
 traction battery to charge from 0% to 80% is shown
 in the table below:
 
 ### About 2h
-`forthing_friday_rhd_en_72250975` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:24 | doc_type:owners_manual
 
 During the charging process, the traction battery
 temperature and the power grid voltage changes will
@@ -914,7 +863,6 @@ traction battery temperature, the longer the required
 charging duration.
 
 ### In order to prolong the service life of the traction
-`forthing_friday_rhd_en_37138e4b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:24 | doc_type:owners_manual
 
 battery, the charging current requested by the vehicle
 from the DC charging pile will gradually decrease
@@ -933,7 +881,6 @@ multiple charging piles, it is recommended to contact
 the Forthing Special Service Station.
 
 ### When driving in cold weather and looking for a fast
-`forthing_friday_rhd_en_5ae3468e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:24 | doc_type:owners_manual
 
 charger, press the [Pre-heating] switch on the display
 about 1 h in advance to turn on the pre-heating
@@ -942,7 +889,6 @@ battery to the most suitable temperature range before
 charging, so as to shorten the fast charging duration.
 
 ### It is recommended that when the ambient temperature
-`forthing_friday_rhd_en_fbbfae53` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:24 | doc_type:owners_manual
 
 is less than 10℃, the remaining traction battery SOC
 on the instrument cluster is greater than 25% and the
@@ -950,7 +896,6 @@ fast charging time needs to be shortened, the traction
 battery pre-heating function shall be turned on.
 
 ### Charging system
-`forthing_friday_rhd_en_204df0d5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:25 | doc_type:owners_manual
 
 Caution
 •
@@ -962,7 +907,6 @@ pre-heating function cannot be turned on.
 •
 
 ### Click [Charging Reservation Setting] to turn
-`forthing_friday_rhd_en_059f8327` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:26 | doc_type:owners_manual
 
 on/off the charging reservation function.
 2.
@@ -977,7 +921,6 @@ The AC charging gun is not plugged in.
 •
 
 ### The charging pile does not work (including
-`forthing_friday_rhd_en_3d8d9689` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:26 | doc_type:owners_manual
 
 power grid outage, charging pile failure,
 etc.).
@@ -992,7 +935,6 @@ reservation will continue to be timed.
 •
 
 ### When [Start/End Mode] is used for
-`forthing_friday_rhd_en_b28d3bf2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:26 | doc_type:owners_manual
 
 appointment setting, if the start time and end
 time are set to be the same, it means that the
@@ -1000,7 +942,6 @@ interval between the start time and the end
 time is 24 h.
 
 ### The traction battery heating function can be turned on
-`forthing_friday_rhd_en_4aead299` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:26 | doc_type:owners_manual
 
 through the display. After the traction battery is fully
 charged in cold weather, the traction battery heating
@@ -1010,7 +951,6 @@ suitable temperature range and improve the vehicle
 endurance range.
 
 ### This function will give priority to using the
-`forthing_friday_rhd_en_cf759b85` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:26 | doc_type:owners_manual
 
 electric energy of the charging pile to keep the
 traction battery warm at low temperatures, improving
@@ -1020,7 +960,6 @@ of charging.
 3.
 
 ### This function can be selected to be turned on
-`forthing_friday_rhd_en_c32cc876` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:26 | doc_type:owners_manual
 
 every day or only once, and the insulation time can be
 selected as needed.
@@ -1035,7 +974,6 @@ activated after the battery is fully charged.
 •
 
 ### Both AC charging
-`forthing_friday_rhd_en_98d13817` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:27 | doc_type:owners_manual
 
 gun and DC charging
 gun are connected
@@ -1049,7 +987,6 @@ not
 properly connected
 
 ### Check the traction battery temperature to ensure that the traction
-`forthing_friday_rhd_en_478b9b03` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:27 | doc_type:owners_manual
 
 battery temperature is within the allowable range. If it is too hot or too
 cold, cooling or heating is required before charging.
@@ -1062,7 +999,6 @@ before charging. Please refer to the section "Jump Start" in Chapter
 VIII "Emergency Fault Troubleshooting".
 
 ### The vehicle is faulty
-`forthing_friday_rhd_en_6e721070` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:27 | doc_type:owners_manual
 
 If the vehicle is faulty, please confirm whether the warning lamp on
 the instrument cluster is on or indicates a charging fault. If a warning
@@ -1070,7 +1006,6 @@ or a prompt indicating a charging fault is displayed, stop charging and
 contact the Forthing Special Service Station.
 
 ### The traction battery
-`forthing_friday_rhd_en_5127bf4e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:27 | doc_type:owners_manual
 
 has been charged to
 the set level
@@ -1092,7 +1027,6 @@ supply is not powered
 normally
 
 ### The traction battery is
-`forthing_friday_rhd_en_c2e5a581` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:27 | doc_type:owners_manual
 
 saturated
 Unplug the charging gun, start the vehicle, and check whether the SOC
@@ -1100,7 +1034,6 @@ pointer of the vehicle points to 100%. If 100% has been indicated, the
 traction battery SOC is full and the charging is stopped.
 
 ### Charging reservation
-`forthing_friday_rhd_en_197bd2d7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:27 | doc_type:owners_manual
 
 is set
 Check whether the charging reservation is set and the reservation time
@@ -1119,7 +1052,6 @@ still displayed after replacement, it is recommended to contact the
 Forthing Special Service Station for inspection.
 
 ### Charging facilities do
-`forthing_friday_rhd_en_e0a15c51` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:27 | doc_type:owners_manual
 
 not
 meet
@@ -1129,7 +1061,6 @@ Use the charging gun provided with the vehicle or the charging pile
 meeting the CCS2 requirements for charging.
 
 ### Unable to perform
-`forthing_friday_rhd_en_c7b6c574` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:28 | doc_type:owners_manual
 
 the
 charging
@@ -1162,7 +1093,6 @@ stops
 halfway
 
 ### The power supply is
-`forthing_friday_rhd_en_8550a0d1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:28 | doc_type:owners_manual
 
 disconnected
 Check whether the power supply is disconnected. If it is disconnected,
@@ -1175,7 +1105,6 @@ Check whether the charging gun is disconnected. If it is disconnected,
 connect it and then perform the charging steps again for charging.
 
 ### Both AC charging
-`forthing_friday_rhd_en_14679594` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:28 | doc_type:owners_manual
 
 gun and DC charging
 gun are connected
@@ -1194,7 +1123,6 @@ battery
 overtemperature
 
 ### Check the traction battery temperature to ensure that the traction
-`forthing_friday_rhd_en_0c8069d0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:28 | doc_type:owners_manual
 
 battery temperature is within the allowable range. If it is overheated,
 please cool it down for a period of time before recharging.
@@ -1208,7 +1136,6 @@ pressed. If pressed, the charging equipment shall be started for
 recharging.
 
 ### The power supply is
-`forthing_friday_rhd_en_8550a0d1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:28 | doc_type:owners_manual
 
 disconnected
 Check whether the power supply is disconnected. If it is disconnected,
@@ -1222,7 +1149,6 @@ disconnected, connect it and then perform the discharging steps again
 for discharging.
 
 ### The discharging gun
-`forthing_friday_rhd_en_8d7296e4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:28 | doc_type:owners_manual
 
 and the DC charging
 gun are connected at
@@ -1234,13 +1160,11 @@ battery
 overtemperature
 
 ### Check the traction battery temperature to ensure that the traction
-`forthing_friday_rhd_en_0c8069d0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:28 | doc_type:owners_manual
 
 battery temperature is within the allowable range. If it is overheated,
 please cool it down for a period of time before discharging.
 
 ### Several types of collisions during which
-`forthing_friday_rhd_en_35cec815` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:29 | doc_type:owners_manual
 
 front side airbag and side curtain airbag
 Protective measures for children .... 34
@@ -1253,7 +1177,6 @@ Installation of auxiliary seat cushion ... 38
 Installation of ISOFIX interface .......... 39
 
 ### Precautions for seat belt
-`forthing_friday_rhd_en_6d7da9f2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:30 | doc_type:owners_manual
 
 Before driving the vehicle, be sure to read this chapter,
 which will help you get familiar with the correct
@@ -1271,7 +1194,6 @@ accident.
 •
 
 ### When the vehicle encounters an accident and
-`forthing_friday_rhd_en_954b278f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:30 | doc_type:owners_manual
 
 emergency brake, the seat belt will restrain
 the driver and passengers on the seat to
@@ -1281,7 +1203,6 @@ secondary collision.
 •
 
 ### When a child safety seat is placed on the seat
-`forthing_friday_rhd_en_fc7180d1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:30 | doc_type:owners_manual
 
 or the passenger in the front seat is not
 suitable for fastening the seat belt, it is only
@@ -1297,7 +1218,6 @@ abdomen, increasing the risk of injury.
 •
 
 ### The shoulder seat belt shall be adjusted to the
-`forthing_friday_rhd_en_b9c0b15a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:30 | doc_type:owners_manual
 
 most suitable position. Do not place the
 shoulder seat belt under the arm. The seat
@@ -1307,7 +1227,6 @@ and the risk of injury will be increased.
 •
 
 ### Pregnant women should also fasten the seat
-`forthing_friday_rhd_en_d87593cc` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:30 | doc_type:owners_manual
 
 belt across the hips as low as possible, and
 the shoulder seat belt should be stretched
@@ -1324,7 +1243,6 @@ allow children to sit on the front seat.
 •
 
 ### Only one seat belt is allowed for each
-`forthing_friday_rhd_en_724a4cc7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:30 | doc_type:owners_manual
 
 passenger. Do not hold the baby or child in
 your arms and then bypass them to fasten the
@@ -1337,7 +1255,6 @@ neck or slip off the shoulder.
 2.
 
 ### Adjust the position of the seat backrest so that
-`forthing_friday_rhd_en_1fa7eb10` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:30 | doc_type:owners_manual
 
 the backrest is in a relatively comfortable position.
 4.
@@ -1351,7 +1268,6 @@ To unfasten the seat belt, press the release
 button on the buckle.
 
 ### Press the upper part of the seat belt shoulder
-`forthing_friday_rhd_en_8ee5de21` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:31 | doc_type:owners_manual
 
 strap height adjuster, move it up and down to the
 desired position and release it until a "click" sound is
@@ -1359,7 +1275,6 @@ heard.
 2.
 
 ### Seat belt pretensioner *
-`forthing_friday_rhd_en_bdef4710` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:31 | doc_type:owners_manual
 
 In the event of a severe frontal or side collision upon
 the vehicle, the seat belt pretensioner will be
@@ -1376,7 +1291,6 @@ the
 pretensioner may not be activated.
 
 ### The vehicle is equipped with a warning lamp for the
-`forthing_friday_rhd_en_ab90767f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:31 | doc_type:owners_manual
 
 seat belt not fastened. When it is detected that the
 driver's and passenger's seat belts are not fastened, the
@@ -1386,7 +1300,6 @@ alarm until the driver and passenger fasten their seat
 belts.
 
 ### Seat belt retractor
-`forthing_friday_rhd_en_2dec9fc1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:31 | doc_type:owners_manual
 
 Each seat belt is equipped with a seat belt retractor.
 During normal driving, the retractor keeps the seat
@@ -1405,7 +1318,6 @@ please contact the Forthing Special Service
 Station.
 
 ### Safety and protection
-`forthing_friday_rhd_en_e45a571d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
 
 Airbag
 When the vehicle has a frontal or side collision to the
@@ -1415,7 +1327,6 @@ impact injury to the head and chest of the driver and
 passenger.
 
 ### There is an airbag warning label on the left sun
-`forthing_friday_rhd_en_d9791a34` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
 
 visor. Do not place a rear-facing child safety seat on
 a seat protected by the airbag (in the activated state);
@@ -1425,7 +1336,6 @@ cause serious injury.
 2.
 
 ### Do not place any objects on the dashboard or
-`forthing_friday_rhd_en_b44b93d5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
 
 stick them on the steering wheel trim cover, etc.,
 because when the airbag is deployed, these objects
@@ -1440,7 +1350,6 @@ or death to passengers.
 4.
 
 ### Do not touch any related components
-`forthing_friday_rhd_en_9cdd4613` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
 
 immediately after the airbag is deployed.
 5.
@@ -1449,7 +1358,6 @@ be heard, which may temporarily affect the hearing.
 6.
 
 ### If you feel difficulty in breathing after the
-`forthing_friday_rhd_en_ea9b017d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:32 | doc_type:owners_manual
 
 airbag is deployed, please open the door or window
 for ventilation, or leave the vehicle under the
@@ -1458,14 +1366,12 @@ your body as soon as possible to avoid skin irritation.
 7.
 
 ### Side curtain airbag*
-`forthing_friday_rhd_en_c8808206` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:33 | doc_type:owners_manual
 
 Side curtain airbag help protect the heads of driver,
 front passenger and rear outboard passengers.
 Warning
 
 ### Due to the considerable speed and force of the
-`forthing_friday_rhd_en_202f1ae9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:33 | doc_type:owners_manual
 
 front side airbag and side curtain airbag when they
 are deployed, it is forbidden to get your head close
@@ -1474,13 +1380,11 @@ curtain when the vehicle is running; otherwise you
 may be injured.
 
 ### When the vehicle is in a moderate to severe side
-`forthing_friday_rhd_en_607dd3b2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:33 | doc_type:owners_manual
 
 collision and reaches the design value, the front side
 airbag and side curtain airbag can deploy.
 
 ### Several types of collisions in which front
-`forthing_friday_rhd_en_fc25e35c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:34 | doc_type:owners_manual
 
 airbag may not deploy
 The front airbag will not deploy in the event of a side
@@ -1490,7 +1394,6 @@ forward deceleration, the front airbag may deploy.
 1.
 
 ### If the vehicle part suffering side collision is at an
-`forthing_friday_rhd_en_55c3a80c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:34 | doc_type:owners_manual
 
 angle to the body, or is not the passenger
 compartment, the front side airbag and side curtain
@@ -1504,7 +1407,6 @@ deploy.
 1.
 
 ### Vehicle VIN
-`forthing_friday_rhd_en_c0833f46` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:35 | doc_type:owners_manual
 
 /
 The EDR system is integrated in the airbag controller,
@@ -1517,7 +1419,6 @@ comes from the wheel line speed of the anti-lock
 brake system (ABS) in the vehicle.
 
 ### The data recorded by the EDR system is divided into
-`forthing_friday_rhd_en_9bc04d63` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:35 | doc_type:owners_manual
 
 non-locking event data and locking event data.
 Among them, the former is the data recorded when
@@ -1531,7 +1432,6 @@ the data of subsequent events, and event data can be
 recorded three times.
 
 ### Suitable protective devices should be used for
-`forthing_friday_rhd_en_a0ae23a8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:35 | doc_type:owners_manual
 
 children.
 When a child is too young to wear a seat belt, he or
@@ -1539,7 +1439,6 @@ she shall be placed in an approved child protective
 device in the rear row.
 
 ### Older children must be protected by a three-point seat
-`forthing_friday_rhd_en_613d62c3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:35 | doc_type:owners_manual
 
 belt and, if necessary, an auxiliary safety seat cushion
 should be installed.
@@ -1552,7 +1451,6 @@ Warning
 ●
 
 ### Children may start the vehicle or shift the
-`forthing_friday_rhd_en_4222cfc2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:35 | doc_type:owners_manual
 
 shift lever to N position. Children may also
 injure themselves when playing with
@@ -1565,7 +1463,6 @@ in a closed vehicle due to excessive
 temperature.
 
 ### Protective measures for infants
-`forthing_friday_rhd_en_5962edf0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:35 | doc_type:owners_manual
 
 The neck of infants under one year old is very fragile.
 If they are seated facing forward, it is easy to cause
@@ -1574,7 +1471,6 @@ is recommended to use rear-facing child protective
 devices.
 
 ### According to the weight and height requirements
-`forthing_friday_rhd_en_79e82236` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:36 | doc_type:owners_manual
 
 specified by the child protection device manufacturer,
 children over one year old shall use forward-facing
@@ -1586,13 +1482,11 @@ does not fit well, an auxiliary seat cushion can be
 installed for the child.
 
 ### The child protection device shall be provided by the
-`forthing_friday_rhd_en_198e8b61` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:36 | doc_type:owners_manual
 
 user. Please use the child protection device that meets
 the GB27887-2011 standard.
 
 ### Applicability of child seat
-`forthing_friday_rhd_en_37c55cd6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:37 | doc_type:owners_manual
 
 In addition to the three-point seat belt for children, the rear seat also provides two standard "ISOFIX" child restraint
 system, which can be selected as required.
@@ -1600,7 +1494,6 @@ The child restraint systems (CRS) applicable to this vehicle and their installat
 below.
 
 ### Group III (22 KG to 36 KG)
-`forthing_friday_rhd_en_f481cad5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:37 | doc_type:owners_manual
 
 X
 U
@@ -1611,7 +1504,6 @@ U: applicable to general-purpose child restraint system certified by this mass g
 X: This seat position is not applicable to the child restraint system of this mass group.
 
 ### Safety and protection
-`forthing_friday_rhd_en_c0d2ec98` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:38 | doc_type:owners_manual
 
 If the child restraint system of "ISOFIX" standard is adopted, the adaptability information between the system and
 the vehicle is shown in the table below.
@@ -1646,7 +1538,6 @@ IL
 X
 
 ### Group I
-`forthing_friday_rhd_en_8ed1f971` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:38 | doc_type:owners_manual
 
 D
 ISO/R2
@@ -1693,14 +1584,12 @@ F-ISO/L1: Child restraint system (carry-cot) for the left facing position.
 G-ISO/L2: Child restraint system (carry-cot) for right-facing position.
 
 ### If the driver's seat interferes with the proper
-`forthing_friday_rhd_en_c16098da` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:39 | doc_type:owners_manual
 
 installation of the rear-facing child protection device,
 the rear-facing child protection device should be
 installed on the rear right seat.
 
 ### According to the instructions provided by the
-`forthing_friday_rhd_en_b5f18bc0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:39 | doc_type:owners_manual
 
 manufacturer, pass the seat belt through or around the
 rear-facing child protection device, insert the tongue
@@ -1710,7 +1599,6 @@ locked firmly, and shake it from side to side to ensure
 that the child protection device is fixed firmly.
 
 ### According to the instructions provided by the
-`forthing_friday_rhd_en_2e687c12` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:39 | doc_type:owners_manual
 
 manufacturer, pass the seat belt through the forwardfacing child protection device and insert the tongue
 into the buckle, ensuring that the seat belt is not
@@ -1723,7 +1611,6 @@ side to side to ensure that the child protection device
 is firmly fixed.
 
 ### Installation of auxiliary seat cushion
-`forthing_friday_rhd_en_2ceeac5f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:39 | doc_type:owners_manual
 
 Place the auxiliary seat cushion on the seat, let the
 child sit on the auxiliary seat cushion, properly cross
@@ -1735,7 +1622,6 @@ buckle to ensure that the seat belt is not twisted and
 remains tight.
 
 ### Child safety device of standard ISO specifications
-`forthing_friday_rhd_en_21778486` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:40 | doc_type:owners_manual
 
 can be fixed by ISOFIX interface. Please follow the
 operation instructions and safety precautions of the
@@ -1755,7 +1641,6 @@ interface, and fasten the elastic interface.
 3.
 
 ### Press the rear seat headrest adjustment button to
-`forthing_friday_rhd_en_5d8cff99` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:40 | doc_type:owners_manual
 
 raise the headrest to the highest point.
 4. Pass the hook of the child safety device through the
@@ -1764,12 +1649,10 @@ back of the seat, and fasten the top strap to ensure that
 it is fastened.
 
 ### Warning lamps and indicator lamps
-`forthing_friday_rhd_en_bb0fc828` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:42 | doc_type:owners_manual
 
 Warning and indicator lamps inform the driver of the state of the vehicle's systems.
 
 ### TPMS fault warning lamp (yellow)
-`forthing_friday_rhd_en_537a9a5f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:42 | doc_type:owners_manual
 
 When
 the
@@ -1788,7 +1671,6 @@ Service Station in time.
 2.
 
 ### If this lamp is on because the TPMS is not
-`forthing_friday_rhd_en_17bf3552` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:42 | doc_type:owners_manual
 
 matched or the sensor signal is lost, please contact the
 Forthing Special Service Station in time.
@@ -1801,7 +1683,6 @@ HOLD function. Please pull up the
 EPB switch to park, and contact the
 
 ### When the lamp is on in the non-
-`forthing_friday_rhd_en_0c5400f3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:42 | doc_type:owners_manual
 
 READY state, it indicates that the 12V
 low-voltage battery is not charged,
@@ -1813,7 +1694,6 @@ unnecessary electrical equipment and contact the
 Forthing Special Service Station in time.
 
 ### Steering system fault warning lamp (yellow)
-`forthing_friday_rhd_en_ffd7e40b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:42 | doc_type:owners_manual
 
 When the EPS fails, this lamp will
 come on.
@@ -1826,7 +1706,6 @@ please contact the Forthing Special Service Station as
 soon as possible.
 
 ### If this lamp goes on when the vehicle
-`forthing_friday_rhd_en_55218e64` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:43 | doc_type:owners_manual
 
 is running, the anti-lock braking
 system (ABS) is faulty.
@@ -1836,7 +1715,6 @@ carefully and contact the Forthing Special Service
 Station as soon as possible.
 
 ### When the brake fluid level drops to a
-`forthing_friday_rhd_en_068e34d1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:43 | doc_type:owners_manual
 
 low level, this lamp will come on.
 If this lamp goes on when the vehicle is running, the
@@ -1845,14 +1723,12 @@ carefully and park the vehicle safely, and contact the
 Forthing Special Service Station in time.
 
 ### SRS malfunction warning lamp (red)
-`forthing_friday_rhd_en_e76c3759` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:43 | doc_type:owners_manual
 
 If this lamp stays on during driving, the
 SRS is faulty. Please contact the
 Forthing Special Service Station.
 
 ### When the START/STOP button is in
-`forthing_friday_rhd_en_57a4d766` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:43 | doc_type:owners_manual
 
 the "ON" position, if the driver or front
 passenger does not fasten the seat belt,
@@ -1863,7 +1739,6 @@ lamp will go out and the alarm will be
 released.
 
 ### When the FCWS detects that the
-`forthing_friday_rhd_en_4108fc2a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:43 | doc_type:owners_manual
 
 vehicle may collide with an object
 ahead, it will give an alarm prompt
@@ -1878,14 +1753,12 @@ and picture, and the warning lamp will
 flash, which is normal.
 
 ### Main warning lamp
-`forthing_friday_rhd_en_b2ab7989` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:43 | doc_type:owners_manual
 
 When the indicator lamp is on, you can
 enter the instrument alarm query
 interface to query specific faults.
 
 ### Power system malfunction warning lamp
-`forthing_friday_rhd_en_a8e23a8f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:43 | doc_type:owners_manual
 
 When the vehicle has some faults, this
 lamp will come on, and you can enter
@@ -1896,7 +1769,6 @@ please contact the Forthing Special
 Service Station in time.
 
 ### Indicator lamp
-`forthing_friday_rhd_en_845f2fdb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:43 | doc_type:owners_manual
 
 The indicator lamp is used to inform the driver of the
 working status of each system of the vehicle. When it
@@ -1912,7 +1784,6 @@ contact the Forthing Special Service
 Station.
 
 ### HDC working indicator lamp (green)
-`forthing_friday_rhd_en_8f5400e3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:44 | doc_type:owners_manual
 
 When the HDC is on, this lamp will
 stay on. When the HDC is working,
@@ -1925,7 +1796,6 @@ vehicle speed will be displayed next to
 the indicator lamp.
 
 ### When the ICC function is turned on
-`forthing_friday_rhd_en_dcf9c12f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:44 | doc_type:owners_manual
 
 but not activated, this lamp will come
 on.
@@ -1937,7 +1807,6 @@ lamp
 (yellow)*
 
 ### Turn and hazard signal indicator lamp (green)
-`forthing_friday_rhd_en_d30794e7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:44 | doc_type:owners_manual
 
 When the turn signal lamp is operated,
 the corresponding turn indicator lamp
@@ -1950,7 +1819,6 @@ quickly at this time, it indicates that the
 turn signal lamp bulb may be abnormal.
 
 ### You should immediately confirm
-`forthing_friday_rhd_en_4e6d4d58` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:44 | doc_type:owners_manual
 
 whether the turn signal lamp bulb is
 damaged and contact the Forthing
@@ -1962,7 +1830,6 @@ again, the ESP system will be turned on
 again, and this lamp will go out.
 
 ### This lamp flashes when the ESP
-`forthing_friday_rhd_en_4ba9d402` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:45 | doc_type:owners_manual
 
 system is working. If this lamp stays
 on during driving, it indicates that the
@@ -1976,7 +1843,6 @@ it indicates that the smart key is illegal
 or the anti-theft authentication fails.
 
 ### Please check whether the smart key is
-`forthing_friday_rhd_en_63a834fc` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:45 | doc_type:owners_manual
 
 correct. When the START/STOP
 button is set to "ACC" or "OFF"
@@ -1991,7 +1857,6 @@ gun connection status can be checked
 through this lamp.
 
 ### When the single pedal mode is turned
-`forthing_friday_rhd_en_7f39fd4a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:45 | doc_type:owners_manual
 
 on, this lamp will be on, indicating that
 the vehicle is in the driving state of the
@@ -2004,14 +1869,12 @@ slow down or stop for inspection, and
 clear the fault before drive.
 
 ### When the high-voltage power of the
-`forthing_friday_rhd_en_656b53c7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:45 | doc_type:owners_manual
 
 vehicle is turned on, this lamp comes
 on, indicating that the vehicle is in a
 driving state.
 
 ### It displays the energy output of the traction battery and
-`forthing_friday_rhd_en_b55029ee` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:46 | doc_type:owners_manual
 
 the percentage of recovered power. The energy output is
 displayed as 0% ~ 100% according to the actual output
@@ -2020,7 +1883,6 @@ power, and the energy recovery is displayed as 0% ~
 2.
 
 ### General information
-`forthing_friday_rhd_en_16c34817` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:46 | doc_type:owners_manual
 
 This interface displays driving information, ADAS,
 multimedia, map/navigation and settings. The display
@@ -2032,7 +1894,6 @@ It displays the current time.
 5.
 
 ### Speedometer
-`forthing_friday_rhd_en_6336536c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:46 | doc_type:owners_manual
 
 It displays the current vehicle speed.
 6.
@@ -2043,7 +1904,6 @@ km.
 7.
 
 ### The remaining SOC of the current traction battery is
-`forthing_friday_rhd_en_d434a3ca` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:46 | doc_type:owners_manual
 
 displayed. When the charging indicator lamp comes
 on, the vehicle shall be charged in time.
@@ -2053,7 +1913,6 @@ automatically cleared when out of range. It can also
 be reset by short pressing the OK button.
 
 ### OK button: Select OK button in the setting
-`forthing_friday_rhd_en_03a3cb8a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:47 | doc_type:owners_manual
 
 interface to confirm or deactivate the currently
 displayed text reminder interface.
@@ -2066,7 +1925,6 @@ content can be switched by the left and right buttons
 on the steering wheel.
 
 ### Driving information
-`forthing_friday_rhd_en_71c531a6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:47 | doc_type:owners_manual
 
 Driving information includes vehicle status, trip
 computer, power consumption in the last 50 km and
@@ -2075,7 +1933,6 @@ switched by the up and down buttons on the steering
 wheel.
 
 ### Trip computer
-`forthing_friday_rhd_en_5b0e14fb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:47 | doc_type:owners_manual
 
 This interface displays the average vehicle speed,
 average power consumption and endurance range.
@@ -2087,7 +1944,6 @@ to reset the average vehicle speed separately.
 2.
 
 ### It displays the current maximum mileage that the
-`forthing_friday_rhd_en_ae469b14` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:48 | doc_type:owners_manual
 
 vehicle can continue to travel. Display range:
 20~999km. When it is lower than 20km, "_ _ _" is
@@ -2108,7 +1964,6 @@ needs to be charged in time.
 •
 
 ### Average power consumption
-`forthing_friday_rhd_en_ef59c3eb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:48 | doc_type:owners_manual
 
 Display range of average power consumption:
 0~30Kwh/100km. Short press the OK button to call
@@ -2122,7 +1977,6 @@ curve graph. Display range of instantaneous power
 consumption: 0~30Kwh/100km
 
 ### It displays the historical low value of power
-`forthing_friday_rhd_en_f620bd74` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:48 | doc_type:owners_manual
 
 consumption.
 Short press the OK button to call up the reset interface
@@ -2136,13 +1990,11 @@ to reset the curve power consumption separately.
 3.
 
 ### Tire pressure information
-`forthing_friday_rhd_en_a75848f0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:48 | doc_type:owners_manual
 
 When the tire pressure value is abnormal, the display
 interface will give corresponding reminder.
 
 ### Please keep the tire pressure near the
-`forthing_friday_rhd_en_376ab02e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:49 | doc_type:owners_manual
 
 standard pressure value. When the tire
 pressure displays "~~" and the specified tire
@@ -2152,7 +2004,6 @@ the Forthing Special Service Station in time.
 ●
 
 ### The tire pressure sensor does not need to be
-`forthing_friday_rhd_en_e74b0118` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:49 | doc_type:owners_manual
 
 re-matched as long as it has not been
 replaced or damaged due to tire repair, tire
@@ -2164,7 +2015,6 @@ Forthing Special Service Station.
 ●
 
 ### The tire pressure information displayed
-`forthing_friday_rhd_en_6e1ff600` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:49 | doc_type:owners_manual
 
 under static conditions is the information
 when the vehicle was last operated.
@@ -2174,7 +2024,6 @@ speed of more than 30 km/h for 1 min, and
 the instrument cluster will update the data.
 
 ### Driver assistance
-`forthing_friday_rhd_en_91006ec0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:49 | doc_type:owners_manual
 
 Depending on the model configuration, different
 functions can be displayed on this interface. For
@@ -2182,7 +2031,6 @@ details about ADAS, please refer to the relevant
 instructions in Chapter VIII "Comfortable Driving".
 
 ### This interface displays some vehicle information that
-`forthing_friday_rhd_en_80a6540d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:50 | doc_type:owners_manual
 
 needs to be alarmed or reminded. When there are
 multiple vehicle information that need alarm or
@@ -2192,7 +2040,6 @@ wheel.
 Setting
 
 ### The setting interface includes alarm information
-`forthing_friday_rhd_en_2205409b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:50 | doc_type:owners_manual
 
 query, driving information clearing, brightness
 adjustment, volume adjustment and instrument
@@ -2202,7 +2049,6 @@ OK buttons on the steering wheel. The specific
 information is shown in the table below.
 
 ### If the fatigue driving reminder is triggered after
-`forthing_friday_rhd_en_b820174d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:50 | doc_type:owners_manual
 
 continuous driving for more than 4 h, press the OK
 button and park the vehicle in a safe place for 20 min
@@ -2213,7 +2059,6 @@ Liftgate opening height setting* .......... 58
 Seat heating, ventilation and massage* 64
 
 ### Replace the smart key battery
-`forthing_friday_rhd_en_dfdd75a0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:53 | doc_type:owners_manual
 
 If the smart key power is low, it may cause the remote
 control distance to become shorter or the vehicle
@@ -2222,7 +2067,6 @@ may not be able to recognize the smart key. In this
 case, the battery in the smart key needs to be replaced.
 
 ### Engine immobilizer system
-`forthing_friday_rhd_en_71338f4c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:53 | doc_type:owners_manual
 
 If you carry a smart key with an incorrect code, the
 anti-theft indicator lamp on the instrument cluster
@@ -2233,7 +2077,6 @@ this time, the vehicle will not be started.
 Opening, closing and locking of door
 
 ### Keyless entry
-`forthing_friday_rhd_en_15fc9bf9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:53 | doc_type:owners_manual
 
 Unlock
 Carry the smart key and hold the inner unlock area of
@@ -2244,7 +2087,6 @@ area on the driver's door handle, and all the door will
 be locked.
 
 ### Unlocking and locking with smart key
-`forthing_friday_rhd_en_50620aa9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:54 | doc_type:owners_manual
 
 Unlock
 Short press the unlocking button on the smart key, the
@@ -2262,7 +2104,6 @@ smart key, and the windows of four doors will be
 closed.
 
 ### Unlocking and locking with mechanical key
-`forthing_friday_rhd_en_7f953469` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:54 | doc_type:owners_manual
 
 2.
 After the door is closed, pull the driver's door
@@ -2277,7 +2118,6 @@ door; Turn the key counterclockwise to lock the door.
 back on the door handle.
 
 ### Door interior handle unlocking
-`forthing_friday_rhd_en_0f094914` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:54 | doc_type:owners_manual
 
 When the door is locked, pull the interior handle of
 the door twice to open the door.
@@ -2289,7 +2129,6 @@ the rear door cannot be opened from inside the
 vehicle.
 
 ### Unlocking and locking of front passenger door and
-`forthing_friday_rhd_en_96bec221` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:55 | doc_type:owners_manual
 
 rear door
 If the vehicle is powered off, press the inner switch of
@@ -2306,7 +2145,6 @@ vehicle, which helps prevent the child from
 accidentally opening the rear door.
 
 ### When the door is in the lock state and the
-`forthing_friday_rhd_en_f3feba64` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:55 | doc_type:owners_manual
 
 START/STOP button is in the "ON" position, if the
 vehicle suffers a strong impact, all doors will be
@@ -2315,7 +2153,6 @@ the impact or the type of accident, the system may not
 work.
 
 ### Removal and installation methods of lock
-`forthing_friday_rhd_en_2cccd308` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:55 | doc_type:owners_manual
 
 cylinder hole plug cap
 1.
@@ -2332,7 +2169,6 @@ structure of the handle cover, and then buckle the
 front end of the lock cylinder cover into the cover.
 
 ### Ordinary liftgate
-`forthing_friday_rhd_en_d142303c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:57 | doc_type:owners_manual
 
 Take the smart key to the side of the liftgate and
 manually open the liftgate while pressing the micro
@@ -2344,7 +2180,6 @@ the microswitch, the liftgate will be opened
 automatically.
 
 ### Ordinary liftgate
-`forthing_friday_rhd_en_f5a6db06` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:57 | doc_type:owners_manual
 
 When the liftgate is closed, press and hold the liftgate
 unlocking button on the smart key to unlock the
@@ -2356,7 +2191,6 @@ unlocking button on the smart key, and the liftgate
 will be opened automatically.
 
 ### Open the liftgate by sensing*
-`forthing_friday_rhd_en_08323e19` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:57 | doc_type:owners_manual
 
 Carry the smart key and stand behind the vehicle, and
 perform a kicking action below the middle of the rear
@@ -2366,7 +2200,6 @@ Caution
 ●
 
 ### The sensing opening of liftgate function can
-`forthing_friday_rhd_en_179ed522` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:57 | doc_type:owners_manual
 
 take effect only when the vehicle is not
 started.
@@ -2378,7 +2211,6 @@ liftgate.
 ●
 
 ### In order to ensure the effectiveness of the
-`forthing_friday_rhd_en_0847eff1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:57 | doc_type:owners_manual
 
 operation, please use the forward and
 backward kicking operation, and the kicking
@@ -2395,7 +2227,6 @@ kick
 operations according to the actual situation.
 
 ### Basic function operations
-`forthing_friday_rhd_en_12b94d2b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:58 | doc_type:owners_manual
 
 Caution
 •
@@ -2411,7 +2242,6 @@ operate within this area.
 •
 
 ### If you try to perform the function of opening
-`forthing_friday_rhd_en_e5aa33f2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:58 | doc_type:owners_manual
 
 the liftgate by sensing several times in a short
 period of time, the function may be
@@ -2432,7 +2262,6 @@ the liftgate. If the liftgate is opened
 accidentally, it may be damaged.
 
 ### Press the liftgate guard switch to automatically close
-`forthing_friday_rhd_en_a034e037` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:58 | doc_type:owners_manual
 
 the liftgate. If this switch is pressed again during the
 closing process, the liftgate will stop closing.
@@ -2441,7 +2270,6 @@ by pressing and holding the liftgate unlocking button
 on the smart key.
 
 ### Open and close the liftgate from inside the
-`forthing_friday_rhd_en_f1923da7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:59 | doc_type:owners_manual
 
 vehicle*
 When the liftgate is in the unlock state, press the
@@ -2451,7 +2279,6 @@ the liftgate, press this switch again, and the liftgate
 will stop moving.
 
 ### If the lock failure occurs and the liftgate cannot be
-`forthing_friday_rhd_en_262945a6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:59 | doc_type:owners_manual
 
 opened, remove the emergency opening cover on the
 liftgate guard, pull the liftgate emergency opening
@@ -2459,7 +2286,6 @@ pull ring, and hold the liftgate with the other hand to
 open the liftgate from inside the vehicle.
 
 ### Set the liftgate opening height
-`forthing_friday_rhd_en_e4007d46` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:59 | doc_type:owners_manual
 
 The opening height of the liftgate can be set by the
 liftgate guard switch:
@@ -2474,14 +2300,12 @@ height is set successfully.
 Close the liftgate and reopen it to the set height.
 
 ### Press and hold the liftgate guard switch until an
-`forthing_friday_rhd_en_753103b8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:59 | doc_type:owners_manual
 
 audible signal is heard, indicating that the maximum
 opening height has been restored successfully.
 3.
 
 ### When the power liftgate needs to be
-`forthing_friday_rhd_en_f17a13a5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:59 | doc_type:owners_manual
 
 manually operated in case of power failure or
 failure, it shall be opened or closed at an even
@@ -2491,7 +2315,6 @@ quickly, the electric stay bar or controller
 may be damaged.
 
 ### Set the opening angle of the liftgate through the
-`forthing_friday_rhd_en_09655732` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:60 | doc_type:owners_manual
 
 infotainment system
 1.
@@ -2507,14 +2330,12 @@ the setting is successful.
 Caution
 
 ### The opening height of the liftgate in the
-`forthing_friday_rhd_en_925ae86b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:60 | doc_type:owners_manual
 
 infotainment system is for reference only. Please
 set the specific height according to the actual
 operation.
 
 ### Anti-pinch protection
-`forthing_friday_rhd_en_44b20d5d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:60 | doc_type:owners_manual
 
 When the liftgate is automatically opened, if an
 obstacle is detected, the liftgate will stop opening;
@@ -2523,7 +2344,6 @@ an obstacle, the liftgate will stop closing and return to
 the pre-set maximum opening height.
 
 ### Seat fore-and-aft adjustment lever
-`forthing_friday_rhd_en_9f72a134` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:61 | doc_type:owners_manual
 
 Pull the lever upward to adjust the seat forward and backward. After adjusting it to a proper position, release the
 lever to ensure that the seat does not move forward and backward.
@@ -2534,13 +2354,11 @@ Lift or press the handle to adjust the seat up or down. After adjusting it to a 
 3.
 
 ### Adjustable handle of backrest angle
-`forthing_friday_rhd_en_d18e10e7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:61 | doc_type:owners_manual
 
 Sit on the seat, lift the handle, lean forward or press the backrest backward, adjust the backrest to a proper position
 and then release the handle, and shake it back and forth a few times to ensure that the backrest is locked in place.
 
 ### Adjustable handle of backrest angle
-`forthing_friday_rhd_en_4feb9f46` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:61 | doc_type:owners_manual
 
 The manual adjustment method of front passenger seat is the same as that of the driver seat.
 
@@ -2550,41 +2368,35 @@ the button.
 2.
 
 ### Lumbar support up/down adjustment button
-`forthing_friday_rhd_en_97f3b8a0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 Press this button to adjust the lumbar support up and down. After adjusting to the proper position, release the button.
 3.
 
 ### Seat fore-and-aft and height adjustment buttons
-`forthing_friday_rhd_en_de6e6001` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:62 | doc_type:owners_manual
 
 Gently push the entire button back and forth to adjust the seat forward and backward, and gently push the rear of
 the button up and down to adjust the seat up and down. After adjusting to the proper position, release the button.
 4.
 
 ### Backrest angle adjustment button
-`forthing_friday_rhd_en_8577fccb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:62 | doc_type:owners_manual
 
 Push this button back and forth gently to adjust the seat backrest angle. After adjusting to the proper position, release
 the button.
 5.
 
 ### Massage function adjustment button
-`forthing_friday_rhd_en_f518793e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:62 | doc_type:owners_manual
 
 Press this button to switch between lumbar support adjustment and massage adjustment. When switching to the
 massage function, press the 1 button to adjust the massage intensity, and press the 2 button to select different
 massage modes (see Chapter VI Infotainment System for seat settings for intensity and mode).
 
 ### Backrest angle adjustment button
-`forthing_friday_rhd_en_8577fccb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:62 | doc_type:owners_manual
 
 Push this button back and forth gently to adjust the seat backrest angle. After adjusting to the proper position, release
 the button.
 2.
 
 ### Seat fore-and-aft adjustment button
-`forthing_friday_rhd_en_f60dc7e2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:62 | doc_type:owners_manual
 
 Gently push the entire button back and forth to adjust the seat back and forth. After adjusting to the proper position,
 release the button.
@@ -2600,14 +2412,12 @@ Do not tilt the seat excessively; otherwise the waist seat belt may slide throug
 the abdomen, or make the shoulder seat belt touch the neck. In case of accident, it will cause serious injury
 
 ### Rear seat backrest adjustment and flattening
-`forthing_friday_rhd_en_7b0f4421` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:64 | doc_type:owners_manual
 
 1.
 Pull the rear seat folding strap to adjust the seat backrest angle. Keep pulling the strap to push the backrest
 from back to front to lay the seat flat.
 
 ### Reset of rear seat
-`forthing_friday_rhd_en_e957fbf0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:64 | doc_type:owners_manual
 
 1.
 Reset the rear seat from the front of the seat: lift the seat backrest directly until it is locked.
@@ -2627,7 +2437,6 @@ in place.
 Check and confirm that the seat belt is not twisted or stuck in the seat backrest.
 
 ### Control by display
-`forthing_friday_rhd_en_b045a8a2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:65 | doc_type:owners_manual
 
 For the specific operation method, please refer to the
 chapter "Seat Settings" in Chapter VI "Infotainment
@@ -2635,7 +2444,6 @@ System".
 Warning
 
 ### If the body cannot sense pain and temperature due
-`forthing_friday_rhd_en_c227b8d0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:65 | doc_type:owners_manual
 
 to taking drugs, paralysis, paralysis and other
 diseases, do not use the seat heating function,
@@ -2650,7 +2458,6 @@ Do not clean the seat by wet washing.
 ●
 
 ### Rear seat
-`forthing_friday_rhd_en_1c0a9201` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:65 | doc_type:owners_manual
 
 1.
 To raise the headrest, you can directly raise the
@@ -2665,7 +2472,6 @@ height, then release the switch until a "click" sound is
 heard to ensure that the headrest is locked in place.
 
 ### Height of headrest
-`forthing_friday_rhd_en_0cb18d99` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:65 | doc_type:owners_manual
 
 When adjusting the headrest, make sure that the
 center of the headrest is flush with the upper part of
@@ -2673,7 +2479,6 @@ the ear so that the headrest can provide maximum
 protection.
 
 ### Hold the steering wheel with one hand and pull down
-`forthing_friday_rhd_en_c4149829` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:66 | doc_type:owners_manual
 
 the adjusting handle with the other hand. Then move
 the steering wheel horizontally and vertically to
@@ -2684,7 +2489,6 @@ Horn
 The horn is located in the middle of the steering wheel.
 
 ### Press the horn to remind pedestrians and vehicles
-`forthing_friday_rhd_en_9c1cdddf` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:66 | doc_type:owners_manual
 
 outside the vehicle. The reasonable use of horn will
 help to ensure driving safety and reduce the frequency
@@ -2696,7 +2500,6 @@ the rear view can be fully seen from the mirror surface.
 Caution
 
 ### Due to the structural limitation of the inside
-`forthing_friday_rhd_en_ab003816` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:67 | doc_type:owners_manual
 
 rearview mirror, when adjusting the inside
 rearview mirror, please be sure to adjust it gently
@@ -2710,14 +2513,12 @@ mirror to prevent glare.
 Warning
 
 ### Do not adjust the rearview mirror position during
-`forthing_friday_rhd_en_f19a31bc` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:68 | doc_type:owners_manual
 
 driving. Otherwise, accidents may be caused due
 to misoperation, resulting in serious injury or even
 death.
 
 ### Electric adjustment of outside rearview mirror
-`forthing_friday_rhd_en_0ba9969f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:68 | doc_type:owners_manual
 
 The left and right switch can be used to select the
 rearview mirror on the corresponding side for mirror
@@ -2727,7 +2528,6 @@ right to adjust the outside rearview mirror to the best
 viewing angle.
 
 ### The drop-down bar shortcut menu can be called by
-`forthing_friday_rhd_en_e65ddc4d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:68 | doc_type:owners_manual
 
 swiping down at the top of the display. Click
 [Rearview Mirror Folding] to fold or unfold the
@@ -2743,7 +2543,6 @@ display, and select to enable the [Automatic Folding
 of Outside Rearview Mirrors] function. When the
 
 ### START/STOP button is set to "OFF" position and the
-`forthing_friday_rhd_en_33f46ba7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:69 | doc_type:owners_manual
 
 four doors are closed, press the locking or unlocking
 button on the smart key to realize automatic folding
@@ -2755,7 +2554,6 @@ the section "User Personalized Memory" in Chapter
 VI "Infotainment System".
 
 ### Automatic outside rearview mirror tilt-down during
-`forthing_friday_rhd_en_11b8fe29` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:69 | doc_type:owners_manual
 
 reversing*
 Click
@@ -2769,7 +2567,6 @@ automatically turn down to a certain angle to facilitate
 the driver to check the road conditions.
 
 ### When the START/STOP button is in the "ON"
-`forthing_friday_rhd_en_50bf4341` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:69 | doc_type:owners_manual
 
 position, press the rear windshield defrosting button
 on the A/C control panel to turn on or off the
@@ -2784,7 +2581,6 @@ adjusting the mirror angle.
 ●
 
 ### If the outside rearview mirror is not folded or
-`forthing_friday_rhd_en_2bac9a99` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:69 | doc_type:owners_manual
 
 unfolded, the outside rearview mirror may be
 not reset after being collided. It is necessary
@@ -2795,7 +2591,6 @@ two or three times.
 ●
 
 ### If there is snow on the outside rearview
-`forthing_friday_rhd_en_6691b0f0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:69 | doc_type:owners_manual
 
 mirror, please remove the snow before
 adjusting the outside rearview mirror to
@@ -2806,14 +2601,12 @@ Pull up or press down the window switch and hold it
 to manually control the window to rise or fall.
 
 ### Automatically open/close window
-`forthing_friday_rhd_en_9b255bb8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:69 | doc_type:owners_manual
 
 Pull up or press down the window switch, and the
 window can automatically rise or fall. If you need to
 stop it halfway, pull up or press this switch again.
 
 ### When the START/STOP button is in the "OFF"
-`forthing_friday_rhd_en_5c885a11` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:69 | doc_type:owners_manual
 
 position and the vehicle door is closed, press and hold
 the unlocking button on the smart key, the four
@@ -2823,7 +2616,6 @@ the smart key, the four windows will be raised at the
 same time until they are fully closed.
 
 ### To prevent children from accidentally opening or
-`forthing_friday_rhd_en_d3e0350d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:70 | doc_type:owners_manual
 
 closing the window, pressing the window lock switch
 disables the switch operation of the front passenger
@@ -2832,7 +2624,6 @@ window can only be controlled by the driver. If you
 need to restore it, press this switch again.
 
 ### If the window is operated repeatedly in a short period
-`forthing_friday_rhd_en_9094a0d2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:70 | doc_type:owners_manual
 
 of time, the motor protection function will be
 triggered, which will cause the power window control
@@ -2844,7 +2635,6 @@ process of the window, the window will stop closing
 and run in the opposite direction for a certain distance.
 
 ### After the door control module flashes the
-`forthing_friday_rhd_en_d7ec9087` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 software.
 3.
@@ -2855,7 +2645,6 @@ components that affect the window lifting stroke.
 4.
 
 ### When the door guard and door control module
-`forthing_friday_rhd_en_50ced7bb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 are replaced. The power window with anti-pinch
 function needs to be initialized and learned so that it
@@ -2867,14 +2656,12 @@ hold it for more than 2 seconds.
 2.
 
 ### Press down the window switch and hold it until
-`forthing_friday_rhd_en_cce54cb2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 the window is fully opened, and then continue to hold
 it for more than 2 seconds.
 3.
 
 ### Pull up the window switch again until the
-`forthing_friday_rhd_en_3bfd2056` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 window is closed.
 4.
@@ -2891,13 +2678,11 @@ body.
 ●
 
 ### The panoramic sunroof adopts integral glass and
-`forthing_friday_rhd_en_65460942` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:70 | doc_type:owners_manual
 
 cannot be opened. Some models have a panoramic
 sunroof with a starry sky pattern.
 
 ### Sunshade on/off
-`forthing_friday_rhd_en_6e8b559b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:71 | doc_type:owners_manual
 
 When it is necessary to improve the interior light, the
 sunroof
@@ -2915,7 +2700,6 @@ closing button to close the sunroof shade to the closed
 state with one click.
 
 ### During the one-touch opening/closing of the
-`forthing_friday_rhd_en_2771b297` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:71 | doc_type:owners_manual
 
 sunshade, press the sunshade operating switch again,
 and the sunshade will stop at the current position.
@@ -2927,7 +2711,6 @@ the open state at this time, the sunshade can be closed
 through the smart key.
 
 ### If [Short Press] is selected for [Remote Control
-`forthing_friday_rhd_en_80d41eb3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:71 | doc_type:owners_manual
 
 Window Closing Setting] on the display, press the
 lock button on the smart key, and the sunshade will
@@ -2940,14 +2723,12 @@ lock button on the smart key is pressed for more than
 3 s.
 
 ### When the sunshade encounters abnormal resistance
-`forthing_friday_rhd_en_30917b96` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:71 | doc_type:owners_manual
 
 or obstacle during automatic closing, the sunshade
 will automatically stop and return for a certain
 distance to prevent personal injury.
 
 ### In order to prevent the sunshade motor from
-`forthing_friday_rhd_en_e75a73fe` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:71 | doc_type:owners_manual
 
 overheating and causing abnormal function, after the
 sunshade is operated continuously for 120 s (under
@@ -2962,7 +2743,6 @@ thermal protection function for the second time, and
 the sunshade will not move until 120s later.
 
 ### Initialization
-`forthing_friday_rhd_en_beddb1d9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:71 | doc_type:owners_manual
 
 When the sunshade cannot be closed in place, it can
 be restored by the following operations:
@@ -2975,7 +2755,6 @@ sunshade position initialization is completed.
 2.
 
 ### Release the button and press and hold the
-`forthing_friday_rhd_en_9162d21d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:71 | doc_type:owners_manual
 
 sunshade OFF button for about 4 s within 4 s. The
 sunshade will open for a short period of time and then
@@ -2988,7 +2767,6 @@ When operating the sunshade, make sure that no
 part of the body is pinched.
 
 ### Turn signal lamp switch
-`forthing_friday_rhd_en_7107bf0d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:72 | doc_type:owners_manual
 
 Toggle the light control handle up or down, the right
 or left turn signal lamp flashes. After the steering is
@@ -2996,7 +2774,6 @@ completed, the handle returns to its original position
 and the turn signal lamp turns off.
 
 ### High/low beam switching
-`forthing_friday_rhd_en_5ccb76c0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:72 | doc_type:owners_manual
 
 When the low beam is turned on, push the light
 control handle forward to the limit position, and the
@@ -3004,7 +2781,6 @@ high beam is turned on; Move it backward to turn off
 the high beam.
 
 ### When the light switch is in ATUO position and the
-`forthing_friday_rhd_en_111c07a3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:72 | doc_type:owners_manual
 
 system detects that the ambient light intensity is dark,
 press the smart key unlocking button to unlock the
@@ -3013,7 +2789,6 @@ up; The position lamp goes out after locking, vehicle
 starting or sleeping.
 
 ### Fog lamp switch
-`forthing_friday_rhd_en_99618193` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:72 | doc_type:owners_manual
 
 When low beam is on, turn the adjustment ring to
 make ▶point to rear fog lamp, and rear fog lamp will
@@ -3026,7 +2801,6 @@ drivers to see your vehicle more clearly and ensure
 driving safety.
 
 ### Automatic lighting
-`forthing_friday_rhd_en_6ea2c41a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:72 | doc_type:owners_manual
 
 When you turn the adjustment ring ▶ to AUTO,
 headlamp and other exterior lamps will be
@@ -3034,7 +2808,6 @@ automatically turned on or off according to the
 ambient brightness.
 
 ### Follow Me Home
-`forthing_friday_rhd_en_523a2791` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:72 | doc_type:owners_manual
 
 Within 5 minutes after the vehicle is turned off, pull
 the light control handle back once, and the function
@@ -3042,13 +2815,11 @@ of Follow Me Home will be turned on, and the low
 beam will be turned on automatically at this time.
 
 ### The low beam will be automatically turned off 30
-`forthing_friday_rhd_en_92148cfe` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:72 | doc_type:owners_manual
 
 seconds after the door is locked or 5 minutes after the
 function of Follow Me Home is turned on.
 
 ### Headlamp height adjustment
-`forthing_friday_rhd_en_0e3c532b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:72 | doc_type:owners_manual
 
 When the vehicle is carrying heavy loads, the rear of
 the bodywork will sink, causing the low beam to be
@@ -3059,14 +2830,12 @@ The specific methods are as follows:
 1.
 
 ### The drop-down bar shortcut menu can be called
-`forthing_friday_rhd_en_7db2f16f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:73 | doc_type:owners_manual
 
 up by swiping down at the top of the display, and the
 headlamp height adjustment can be seen.
 3.
 
 ### The courtesy lamp is located under the outside
-`forthing_friday_rhd_en_11e45abe` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:73 | doc_type:owners_manual
 
 rearview mirror of the vehicle. It is used to illuminate
 the ground at night. When the door is opened, the
@@ -3076,13 +2845,11 @@ courtesy lamp will come on, and when the door is
 closed, the courtesy lamp will go out.
 
 ### The ambient light outside the vehicle in combination
-`forthing_friday_rhd_en_64a93eba` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:73 | doc_type:owners_manual
 
 with the light language mode can create the night
 atmosphere outside the vehicle and assist in lighting.
 
 ### Click [Settings] - [Vehicle] - [Light] - [Light
-`forthing_friday_rhd_en_c0b4282c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:73 | doc_type:owners_manual
 
 Language Mode] on the display to turn on or off the
 light language function.
@@ -3093,7 +2860,6 @@ warning, lock welcome, parking mode, charging
 indication, reverse mode and music rhythm.
 
 ### Door control switch operation
-`forthing_friday_rhd_en_f92206a5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:74 | doc_type:owners_manual
 
 When the door control switch "O" is pressed, the door
 control function is turned off.
@@ -3104,7 +2870,6 @@ the interior lamp will light up or go out with the
 opening and closing of the four doors.
 
 ### When the door control switch is parallel to the panel
-`forthing_friday_rhd_en_3a1a0fc6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:74 | doc_type:owners_manual
 
 or the "O" button is pressed, the interior lamp is
 controlled by the corresponding interior lamp switch,
@@ -3112,7 +2877,6 @@ which will be on when pressed and off when popped
 up.
 
 ### Rear interior lamp
-`forthing_friday_rhd_en_d694a56f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:74 | doc_type:owners_manual
 
 The rear interior lamp is located below the rear handle.
 When the door switch is parallel to the panel or the
@@ -3120,7 +2884,6 @@ When the door switch is parallel to the panel or the
 turned on or off by the rear interior lamp switch.
 
 ### Trunk lamp
-`forthing_friday_rhd_en_08194c7f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:74 | doc_type:owners_manual
 
 When the liftgate is opened, the trunk lamp will
 automatically light up. It goes out automatically after
@@ -3128,7 +2891,6 @@ the liftgate is closed.
 Wiper
 
 ### Front automatic wiper*
-`forthing_friday_rhd_en_686cd96e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:75 | doc_type:owners_manual
 
 MIST: Jog mode. Pull up the wiper control handle,
 and the wiper will wipe once. After releasing the
@@ -3158,7 +2920,6 @@ wiping.
 Caution
 
 ### AUTO position and the automatic wiping function
-`forthing_friday_rhd_en_af2019d1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:75 | doc_type:owners_manual
 
 of the wiper is turned on, the wiper may produce
 wiping under the following conditions, which is
@@ -3173,7 +2934,6 @@ through construction sections
 Caution
 
 ### Front windshield washing
-`forthing_friday_rhd_en_04c4b810` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:75 | doc_type:owners_manual
 
 Pull the wiper control handle back and hold it. The
 front windshield washer starts to spray water, and the
@@ -3182,7 +2942,6 @@ wiper control handle to stop spraying water and
 wiping.
 
 ### Rear wiper
-`forthing_friday_rhd_en_0a0abe89` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:76 | doc_type:owners_manual
 
 HI: Rear wiper wipes at high speed. Turn the rear end
 of the wiper control handle to HI position, and the rear
@@ -3192,7 +2951,6 @@ of the wiper control handle to LO position, and the
 rear wiper wipes at low speed.
 
 ### Rear windshield washer
-`forthing_friday_rhd_en_d3de2e20` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:76 | doc_type:owners_manual
 
 Push the wiper control handle forward and hold it.
 The rear windshield washer starts to spray water, and
@@ -3201,7 +2959,6 @@ the wiper control handle to stop spraying water and
 wiping.
 
 ### The USB port can only work when the START/STOP
-`forthing_friday_rhd_en_1d38b54b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:76 | doc_type:owners_manual
 
 button is in "ON" position or "ACC" position. This
 interface can be used for charging the mobile phone.
@@ -3216,7 +2973,6 @@ cover closed.
 •
 
 ### Do not insert metal foreign matters into the
-`forthing_friday_rhd_en_8f03026a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:77 | doc_type:owners_manual
 
 interface to avoid short circuit and fire.
 •
@@ -3238,7 +2994,6 @@ to avoid damaging the USB port.
 12 V power outlet
 
 ### Console front power outlet
-`forthing_friday_rhd_en_7bfa9f73` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:77 | doc_type:owners_manual
 
 The front 12 V power outlet is located in the storage
 compartment under the console.
@@ -3251,7 +3006,6 @@ electrical appliances to avoid fire.
 •
 
 ### Do not allow children to use or touch the
-`forthing_friday_rhd_en_673fdd12` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:77 | doc_type:owners_manual
 
 12V/220V power outlet. Do not insert metal
 foreign matters into the power outlet
@@ -3264,7 +3018,6 @@ into the 12V power outlet socket to avoid fire
 caused by short circuit.
 
 ### Deactivation
-`forthing_friday_rhd_en_d361a7be` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:78 | doc_type:owners_manual
 
 1.
 Set the START/STOP button to "ON" position,
@@ -3283,7 +3036,6 @@ exceed 2.2kw, otherwise it may cause safety
 accidents.
 
 ### The wireless charging device is located at the front of
-`forthing_friday_rhd_en_d427847e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:78 | doc_type:owners_manual
 
 the console. It can be used for charging the portable
 charging equipment (such as mobile phones) that
@@ -3294,7 +3046,6 @@ there are no metal foreign matters around the mobile
 phone and in the charging area. When the
 
 ### START/STOP button is set to "ON"/in the READY
-`forthing_friday_rhd_en_d9927dd3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:78 | doc_type:owners_manual
 
 state, place the portable charging equipment to be
 charged in the middle of the charging area (do not
@@ -3304,7 +3055,6 @@ charging state indication of the portable charging
 equipment.
 
 ### The charging will stop automatically after the
-`forthing_friday_rhd_en_36901a54` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:78 | doc_type:owners_manual
 
 charging is completed. If you need to stop charging
 during charging, just move the portable charging
@@ -3314,7 +3064,6 @@ Caution
 •
 
 ### The wireless charging device can only
-`forthing_friday_rhd_en_e83f3f97` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:78 | doc_type:owners_manual
 
 support one portable charging equipment for
 charging at a time.
@@ -3335,7 +3084,6 @@ and then charging will resume automatically.
 This is normal.
 
 ### Insertion and removal of memory card
-`forthing_friday_rhd_en_660f849b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:79 | doc_type:owners_manual
 
 The EDR memory card slot is located on the left side
 of the EDR. Please confirm whether there is a
@@ -3350,7 +3098,6 @@ After inserting the card, reinstall the rubber plug and
 fasten the plug cap.
 
 ### It is recommended that the new card be formatted in
-`forthing_friday_rhd_en_8def2eb3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:79 | doc_type:owners_manual
 
 the settings of EDR in the "AI Forthing" APP. EDR
 supports 8 G ~ 64 G memory, and the memory card
@@ -3362,7 +3109,6 @@ video recording state.
 Close
 
 ### When the START/STOP button is switched from
-`forthing_friday_rhd_en_60db7bc8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:79 | doc_type:owners_manual
 
 "ACC" or "ON" to "OFF", the EDR will be
 automatically turned off or turned off after a delay
@@ -3373,7 +3119,6 @@ Note: The original vehicle does not have an SD card,
 which needs to be purchased by the customer.
 
 ### Functional description
-`forthing_friday_rhd_en_8b167542` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:81 | doc_type:owners_manual
 
 1.
 Temperature adjustment knob: Rotate this knob to adjust the interior temperature.
@@ -3409,7 +3154,6 @@ the lowest temperature.
 13. Negative ion button*: Negative ion purification function can be turned on or off for some models.
 
 ### Front air outlet
-`forthing_friday_rhd_en_296534d2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:82 | doc_type:owners_manual
 
 1. Side windshield defogging air outlet
 4. Front foot air outlet
@@ -3425,14 +3169,12 @@ up and down, left and right to change the wind
 direction.
 
 ### The middle air outlet can be opened and closed by
-`forthing_friday_rhd_en_67369022` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:83 | doc_type:owners_manual
 
 rolling the scroll wheel up and down, and the air
 direction can be changed by moving the grille in the
 middle of the air outlet up and down and left and right.
 
 ### The air purification system can quickly reduce
-`forthing_friday_rhd_en_6f7fcf29` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:83 | doc_type:owners_manual
 
 harmful chemical gases, dust, bacteria and volatile
 organic compounds in the air, reduce odors, and
@@ -3442,7 +3184,6 @@ quality and display the air quality through the display,
 so as to achieve the best air purification effect.
 
 ### Notice to Users
-`forthing_friday_rhd_en_1b2ef576` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:85 | doc_type:owners_manual
 
 1. Proprietary equipment and accessories are integrated according to different models. Your vehicle
 configuration may be slightly different from the description in these operating instructions. Please
@@ -3471,14 +3212,12 @@ the navigation/network signal strength, there is a problem of weak navigation or
 you leave these areas, the navigation or network signal will be restored automatically.
 
 ### Displays status and controls when multimedia or
-`forthing_friday_rhd_en_87d64ab8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:86 | doc_type:owners_manual
 
 phone is active.  Multimedia information includes
 media details and play/pause buttons; clicking the
 buttons controls media playback.
 
 ### Unread message
-`forthing_friday_rhd_en_66db4e64` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:86 | doc_type:owners_manual
 
 notification
 Displayed when there are unread messages.
@@ -3501,7 +3240,6 @@ Not displayed when not muted; appears when
 system volume is set to 0.
 
 ### Bluetooth status
-`forthing_friday_rhd_en_ebf968fa` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:86 | doc_type:owners_manual
 
 display
 Includes three states: on (unconnected), on
@@ -3512,7 +3250,6 @@ settings" shortcut.
 or
 
 ### WiFi/hotspot
-`forthing_friday_rhd_en_35283cac` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:86 | doc_type:owners_manual
 
 status display
 Shows WiFi icon when WiFi is on, hotspot icon
@@ -3520,7 +3257,6 @@ when hotspot is active, and default WiFi-off icon
 when both are disabled.
 
 ### Scene and function interface display area
-`forthing_friday_rhd_en_0568bc9a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:87 | doc_type:owners_manual
 
 1. Intelligent control theme: With car model as the background, support driving mode switching, custom cards
 (multimedia controls, Bluetooth call and other functions).
@@ -3530,7 +3266,6 @@ and other functions).
 Icon
 
 ### Click to switch driving modes
-`forthing_friday_rhd_en_d681ec2d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:87 | doc_type:owners_manual
 
 Rearview
 mirror
@@ -3546,7 +3281,6 @@ If Bluetooth is connected, click to enter
 the recent calls interface;
 
 ### AVM card
-`forthing_friday_rhd_en_4d9bf272` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:88 | doc_type:owners_manual
 
 (Non-standard)
 Click to enter the AVM interface. If there
@@ -3554,7 +3288,6 @@ is no AVM function, the card will not be
 displayed;
 
 ### Click to turn the front defroster on or off
-`forthing_friday_rhd_en_456d0dcf` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:88 | doc_type:owners_manual
 
 A/C
 temperature
@@ -3568,7 +3301,6 @@ temperature control area to open the A/C control
 interface.
 
 ### Click the volume icon to pop up the quick
-`forthing_friday_rhd_en_28643540` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:88 | doc_type:owners_manual
 
 volume adjustment window, where you can
 adjust the system volume and Bluetooth call
@@ -3581,7 +3313,6 @@ If Bluetooth is connected, click to enter the
 recent calls interface;
 
 ### App Center
-`forthing_friday_rhd_en_20949e3b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:88 | doc_type:owners_manual
 
 Click to enter the App Center interface;
 In the App Center interface, long-press an app
@@ -3594,7 +3325,6 @@ disappear.
 Homepage
 
 ### Click to adjust system volume
-`forthing_friday_rhd_en_0e0a7c4a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:90 | doc_type:owners_manual
 
 ICE
 brightness
@@ -3613,7 +3343,6 @@ Screen off/standby interface
 Access the screen off/standby interface via the drop-down menu's screen off button or custom controls
 
 ### Bluetooth Phone
-`forthing_friday_rhd_en_342a6a17` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:93 | doc_type:owners_manual
 
 After the Bluetooth device is connected, the system prompts whether to synchronize contacts. Upon clicking
 "Confirm", the system sends a request to sync the address book and call history. If the mobile phone responds
@@ -3632,7 +3361,6 @@ allows background synchronization.  Synced address book and call history entries
 synchronization, triggering background updates.
 
 ### Recent calls
-`forthing_friday_rhd_en_81728d80` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:93 | doc_type:owners_manual
 
 On the call history page, after syncing the mobile phone's address book, up to 99 call records are displayed
 chronologically under "Missed", "Received", and "Dialed" categories. Users can filter by clicking "All" or "Missed".
@@ -3641,7 +3369,6 @@ The address book disappears automatically upon Bluetooth disconnection. Call rec
 contact, it is hidden by default.
 
 ### Click to switch to missed calls list
-`forthing_friday_rhd_en_115c48cb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:94 | doc_type:owners_manual
 
 Contact
 Click the "Contacts" button under Bluetooth calling, and the contacts button will be highlighted, allowing you to
@@ -3655,7 +3382,6 @@ imported. The contacts will automatically disappear after the Bluetooth connecti
 Icon
 
 ### Dialing keyboard
-`forthing_friday_rhd_en_e3ac1f9a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:94 | doc_type:owners_manual
 
 After connecting via Bluetooth, tap the "Dial Pad" in the Bluetooth call interface to enter the dialing screen, which
 displays the dialed number, associated contacts, and the dial pad.  In the dial pad, a short press on the delete button
@@ -3667,7 +3393,6 @@ with 0 or 1 trigger a numeric search, while others initiate a pinyin search. The
 profile picture (system default) + name + phone number (only the phone number is displayed if no name is available).
 
 ### Infotainment system
-`forthing_friday_rhd_en_2d0080f0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:95 | doc_type:owners_manual
 
 The name and phone number are shown in two separate rows. If a line exceeds the display box length, an ellipsis
 (...) is appended at the end.  Recognized Chinese characters or numbers are highlighted. Search results are sorted
@@ -3676,7 +3401,6 @@ or no matching results are found in the database, a default illustration is disp
 Icon
 
 ### Energy Center
-`forthing_friday_rhd_en_15e5094d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:95 | doc_type:owners_manual
 
 The Energy Center primarily displays energy consumption information and related settings, including energy
 information display, energy recovery level adjustment button, charging limit setting button, range standard setting
@@ -3688,7 +3412,6 @@ interface.
 Icon
 
 ### Infotainment system
-`forthing_friday_rhd_en_694b5125` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:96 | doc_type:owners_manual
 
 80% to 100%, adjustable in 5%
 increments. If the set value is lower
@@ -3699,14 +3422,12 @@ cannot be lower than the current
 battery level. Please reset."
 
 ### Vehicle information
-`forthing_friday_rhd_en_8555994a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:96 | doc_type:owners_manual
 
 The vehicle information module includes three sub-modules: mileage and energy consumption, personalized
 memory, and message center.  Access method: On the main interface, click the "App Center" icon in the navigation
 bar to enter the App Center interface > vehicle information interface.
 
 ### Create personalized
-`forthing_friday_rhd_en_eb6ef41a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:97 | doc_type:owners_manual
 
 memory
 Upon
@@ -3721,7 +3442,6 @@ seat state with the default name
 "#1," and so on.
 
 ### Click the "×" button in the upper-
-`forthing_friday_rhd_en_71694801` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:97 | doc_type:owners_manual
 
 right corner of a personalized
 memory
@@ -3734,7 +3454,6 @@ pop-up
 ("Delete
 
 ### Personalized
-`forthing_friday_rhd_en_d9b3e01e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:97 | doc_type:owners_manual
 
 Memory").
 Click
@@ -3746,7 +3465,6 @@ slots and fixed slots cannot be
 deleted (no "×" button displayed).
 
 ### Rename button
-`forthing_friday_rhd_en_ed598bb7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:97 | doc_type:owners_manual
 
 After
 creating
@@ -3768,7 +3486,6 @@ click "Cancel" to exit without
 saving.
 
 ### Message Center
-`forthing_friday_rhd_en_47b14927` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:98 | doc_type:owners_manual
 
 DAB
 Click the DAB icon in the "More Apps" section to enter the digital radio interface.  The radio allows you to listen
@@ -3786,7 +3503,6 @@ to the same channel or a similar program with
 better signal.
 
 ### Vehicle control
-`forthing_friday_rhd_en_b96c80ba` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:99 | doc_type:owners_manual
 
 There are three ways to access the vehicle control interface:
 ① Tap the vehicle model image in the scene function on the main interface to enter the Vehicle Control > Quick
@@ -3798,7 +3514,6 @@ There are two ways to exit the vehicle control interface:
 ② Press the HOME button.
 
 ### Quick control
-`forthing_friday_rhd_en_025701fb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:99 | doc_type:owners_manual
 
 The Quick Control interface includes setting switches for driving mode, energy recovery level, rearview mirror
 folding (non-standard), ESC OFF, etc.
@@ -3809,7 +3524,6 @@ The Quick Control interface includes setting switches for driving mode, energy r
 folding (non-standard), ESC OFF, etc.
 
 ### Click the steering wheel button customization
-`forthing_friday_rhd_en_567ddae9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:100 | doc_type:owners_manual
 
 setting tab to enter the customization setting
 interface. Options include: standby, mute,
@@ -3823,7 +3537,6 @@ Light
 Icon
 
 ### Click to turn on/off the FCA
-`forthing_friday_rhd_en_561d01ec` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:103 | doc_type:owners_manual
 
 function
 FCA
@@ -3843,7 +3556,6 @@ A secondary switch for LDA,
 click to switch alarm timing.
 
 ### Connection settings
-`forthing_friday_rhd_en_f976d4ee` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:105 | doc_type:owners_manual
 
 It includes three secondary tabs: WiFi, Hotspot, and Bluetooth.
 WiFi
@@ -3859,7 +3571,6 @@ and hotspot switch are mutually
 exclusive.
 
 ### The "Connect" button in the list of
-`forthing_friday_rhd_en_047c5903` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:105 | doc_type:owners_manual
 
 available networks can be used to
 manually connect to a wireless network.
@@ -3880,7 +3591,6 @@ connection failed" appears for 3 s
 before disappearing.
 
 ### Click to turn the hotspot function
-`forthing_friday_rhd_en_f327d788` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:106 | doc_type:owners_manual
 
 on/off. When the hotspot is turned
 off, it disconnects from other
@@ -3891,7 +3601,6 @@ name
 setting
 
 ### The default hotspot name is "FX +
-`forthing_friday_rhd_en_a96debcb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:106 | doc_type:owners_manual
 
 4 random digits". Users can
 customize
@@ -3917,7 +3626,6 @@ password is an 8-digit random
 number.
 
 ### Click the hotspot password button
-`forthing_friday_rhd_en_6179af01` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:106 | doc_type:owners_manual
 
 to enter the hotspot password
 setting pop-up.  The hotspot
@@ -3937,7 +3645,6 @@ name
 setting
 
 ### The default Bluetooth name is "FX +
-`forthing_friday_rhd_en_a71c693d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:107 | doc_type:owners_manual
 
 4 random digits". Users can customize
 the
@@ -3952,7 +3659,6 @@ uppercase/lowercase letters, numbers,
 and standard ASCII codes.
 
 ### Click "Connect" to send a pairing
-`forthing_friday_rhd_en_85475a7b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:107 | doc_type:owners_manual
 
 request to the target device. A toast
 message "Please confirm connection
@@ -3968,7 +3674,6 @@ failed" for 3 s.
 Display
 
 ### The brightness range of the
-`forthing_friday_rhd_en_34ef0e44` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:108 | doc_type:owners_manual
 
 instrument panel is 0~20
 levels, and the status bar can
@@ -3985,7 +3690,6 @@ be adjusted by sliding or
 clicking.
 
 ### Day/night mode
-`forthing_friday_rhd_en_78523985` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:108 | doc_type:owners_manual
 
 setting
 There are three modes: "Day",
@@ -4012,7 +3716,6 @@ to night mode when they are
 off.
 
 ### Observatory) is set as the
-`forthing_friday_rhd_en_4c2b51d7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:108 | doc_type:owners_manual
 
 central time zone (UTC±0),
 with UTC+1 to +12 and UTC1 to -12.  The default is UTC
@@ -4025,7 +3728,6 @@ the system time, ranging from
 00:00 on December 31, 2099.
 
 ### The internal RTC maintains
-`forthing_friday_rhd_en_ed01bfd4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:108 | doc_type:owners_manual
 
 the time after setting, but it
 resets upon factory reset or
@@ -4046,7 +3748,6 @@ with AM/PM indicated on the
 right.
 
 ### Simplified
-`forthing_friday_rhd_en_0332535d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:109 | doc_type:owners_manual
 
 Chinese,
 Traditional Chinese, English,
@@ -4069,7 +3770,6 @@ Sound
 Icon
 
 ### The system volume can be
-`forthing_friday_rhd_en_860cadbc` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:109 | doc_type:owners_manual
 
 adjusted in 40 levels from 0 to
 39, with a default value of 10.
@@ -4088,7 +3788,6 @@ sound
 switch
 
 ### There are two options: On and
-`forthing_friday_rhd_en_b2ed2728` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:110 | doc_type:owners_manual
 
 Off, with the system default set
 to On.
@@ -4105,7 +3804,6 @@ sound
 effect switch
 
 ### There are two options: On and
-`forthing_friday_rhd_en_044f3143` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:110 | doc_type:owners_manual
 
 Off, with the system default set
 to On.
@@ -4123,7 +3821,6 @@ sound
 switch
 
 ### There are two options: On and
-`forthing_friday_rhd_en_aa987ac0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:110 | doc_type:owners_manual
 
 Off, with the default set to On.
 When set to On, the VSP-related
@@ -4134,7 +3831,6 @@ and the power state changes from
 pre-start to working state, the
 
 ### Click the start detection button to
-`forthing_friday_rhd_en_a2a5ae6d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:110 | doc_type:owners_manual
 
 open the vehicle detection popup window and execute fault
 detection. The pop-up interface
@@ -4145,7 +3841,6 @@ completed
 systems and their status one by
 
 ### Infotainment system
-`forthing_friday_rhd_en_bca7e4aa` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:111 | doc_type:owners_manual
 
 one. After all detections are
 completed, it will jump to the
@@ -4172,7 +3867,6 @@ re-detection button to start a new
 round of detection.
 
 ### Factory reset button
-`forthing_friday_rhd_en_900636de` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:111 | doc_type:owners_manual
 
 The
 factory
@@ -4198,7 +3892,6 @@ enter the "Resetting" interface
 for factory reset.
 
 ### A/C display and control
-`forthing_friday_rhd_en_90b5a13b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:111 | doc_type:owners_manual
 
 1) Access mode:
 ① Swipe up with a single finger on the bottom navigation bar
@@ -4212,7 +3905,6 @@ adjustment function)
 ③ Tap to open another application
 
 ### Internal/external
-`forthing_friday_rhd_en_fad3bcd9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:112 | doc_type:owners_manual
 
 circulation switch
 Click
@@ -4241,7 +3933,6 @@ adjustment
 switch
 
 ### Click or drag the fan speed
-`forthing_friday_rhd_en_9dab6e89` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:112 | doc_type:owners_manual
 
 adjustment slider, or click the
 fan speed icons at both ends of
@@ -4257,13 +3948,11 @@ increase the fan speed by 1
 level.
 
 ### Seat display and control
-`forthing_friday_rhd_en_fa54d284` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:113 | doc_type:owners_manual
 
 The seat control function interface can be accessed via the "Seat" button on the A/C control interface.
 Icon
 
 ### Click the seat massage icon to
-`forthing_friday_rhd_en_ba732db1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:113 | doc_type:owners_manual
 
 open the adjustment pop-up,
 which includes the massage
@@ -4285,7 +3974,6 @@ switch
 (Non-standard)
 
 ### Click the switch to cycle
-`forthing_friday_rhd_en_344ca316` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:113 | doc_type:owners_manual
 
 through the levels in the order:
 "Off -> High -> Medium ->
@@ -4307,7 +3995,6 @@ position adjustment switch
 (Non-standard)
 
 ### Convenience devices (ADAS)
-`forthing_friday_rhd_en_6b06a97a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:114 | doc_type:owners_manual
 
 Forward collision assist (FCA) .......... 119
 Forward collision warning (FCW) ..... 119
@@ -4318,7 +4005,6 @@ can be opened by pulling the tab and closed by
 pushing it back.
 
 ### Central armrest box
-`forthing_friday_rhd_en_dcb31855` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:115 | doc_type:owners_manual
 
 Press the front buckle of the central armrest box, and
 the left and right armrests will open automatically.
@@ -4326,7 +4012,6 @@ There is a vent in the central armrest box, which can
 be opened or closed by turning the switch.
 
 ### The charging will stop automatically after the
-`forthing_friday_rhd_en_4d966380` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:116 | doc_type:owners_manual
 
 charging is completed. If you need to stop charging
 during charging, remove the portable charging
@@ -4338,7 +4023,6 @@ the console, which can be used to store small items
 such as mobile phone and keys.
 
 ### Glove box
-`forthing_friday_rhd_en_dc55d70b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:116 | doc_type:owners_manual
 
 The glove box is located on the right side of the
 dashboard and can be used to store documents and
@@ -4350,7 +4034,6 @@ The cup holder can be used to hold cups, bottles and
 other items, which is convenient for travel.
 
 ### Seat back publication pocket
-`forthing_friday_rhd_en_5b9ff303` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:117 | doc_type:owners_manual
 
 The publication bag is located on the back of the front
 seat and is used to hold small items such as magazines
@@ -4362,7 +4045,6 @@ the front end of the glasses case to slowly open it, and
 push it back to close it.
 
 ### Sun visor
-`forthing_friday_rhd_en_73a62a9d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:117 | doc_type:owners_manual
 
 Turn the sun visor down to block the front sunlight.
 If you need to block the side sunlight, first disengage
@@ -4375,7 +4057,6 @@ cosmetic mirror. Turn down the sun visor and push
 the cosmetic mirror cover to the left/right to use it.
 
 ### Dashboard hook
-`forthing_friday_rhd_en_a9dfa100` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:118 | doc_type:owners_manual
 
 The left side of the glove box is designed with a
 dashboard hook, which can be unfolded by pressing
@@ -4387,7 +4068,6 @@ these items may pop out and cause injury to
 passengers.
 
 ### Seat back hook
-`forthing_friday_rhd_en_1ae0a99f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:119 | doc_type:owners_manual
 
 The back of the front seat is equipped with a hook for
 passengers.
@@ -4402,7 +4082,6 @@ installed in place.
 2.
 
 ### Folding and unfolding
-`forthing_friday_rhd_en_5e14920f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:119 | doc_type:owners_manual
 
 1.
 Pull the roller blind handle, and clamp the pins
@@ -4415,7 +4094,6 @@ serves as a cover for the trunk. To ensure your
 safety, do not place any objects on it.
 
 ### The driver assistance system can assist the driver in
-`forthing_friday_rhd_en_5b6551a0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:120 | doc_type:owners_manual
 
 observing and perceiving the surrounding environment
 during driving. It provides collision warning, active
@@ -4429,7 +4107,6 @@ Lane departure assist (LDA);
 Adaptive cruise control (ACC);
 
 ### FCA includes forward collision warning (FCW) and
-`forthing_friday_rhd_en_5471eda5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:120 | doc_type:owners_manual
 
 automatic emergency braking (AEB). During driving, it
 provides alarm prompt and auxiliary braking for the
@@ -4437,7 +4114,6 @@ driver when there is collision danger in front of the
 vehicle;
 
 ### Enter the setting interface through the vehicle icon at the
-`forthing_friday_rhd_en_ae7b7c10` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:120 | doc_type:owners_manual
 
 bottom left of the vehicle, and click [ADAS] to set the
 on and off of FCA;
@@ -4446,7 +4122,6 @@ function. The function is turned on by default and is not
 recommended to be turned off by users;
 
 ### Alarm time: Click [Alarm Time] to set the alarm
-`forthing_friday_rhd_en_158efda7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:120 | doc_type:owners_manual
 
 sensitivity, which supports early, normal and delay
 options, and the alarm time is normal by default;
@@ -4458,7 +4133,6 @@ For the specific type of the warning lamp, please refer
 to the instrument section.
 
 ### Forward collision warning (FCW)
-`forthing_friday_rhd_en_e5213ba5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:120 | doc_type:owners_manual
 
 When the vehicle is running, if it detects that the
 distance between the front vehicle, cyclist or pedestrian
@@ -4472,7 +4146,6 @@ and the vehicle condition in front of the vehicle will be
 monitored in real time;
 
 ### The level-1 alarm is triggered when the vehicle may be
-`forthing_friday_rhd_en_ded95019` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:120 | doc_type:owners_manual
 
 in collision danger. The instrument warning lamp
 flashes in red, the driving interface turns red in front, and
@@ -4482,7 +4155,6 @@ sound;
 2.
 
 ### The level-2 alarm is triggered when the vehicle is about
-`forthing_friday_rhd_en_c745e93f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:120 | doc_type:owners_manual
 
 to collide. The instrument warning lamp flashes in red,
 the driving interface turns red in front, and the prompt
@@ -4493,7 +4165,6 @@ FCWS instrument warning lamp is always on in yellow.
 Warning
 
 ### The FCW is for reference only and cannot replace your
-`forthing_friday_rhd_en_25858fb0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:120 | doc_type:owners_manual
 
 attention and judgment. The FCW is only a ADAS
 function, which cannot cope with all traffic, weather and
@@ -4518,7 +4189,6 @@ function will be turned on after each vehicle restart.
 Warning
 
 ### FCW may not sound when driver turns the
-`forthing_friday_rhd_en_178e8942` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:121 | doc_type:owners_manual
 
 steering wheel sharply
 AEB
@@ -4529,7 +4199,6 @@ perform emergency brake to avoid collision or reduce
 the injury caused by collision.
 
 ### Function activation
-`forthing_friday_rhd_en_01bcc588` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:121 | doc_type:owners_manual
 
 With the AEB switch turned on, the function will be
 activated when the vehicle speed is within 8-85 km/h,
@@ -4538,7 +4207,6 @@ monitored in real time, and the AEB will be triggered
 when a collision is about to occur;
 
 ### Function trigger
-`forthing_friday_rhd_en_7fe5f355` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:121 | doc_type:owners_manual
 
 When the AEB is triggered, the instrument warning
 lamp flashes in red, the driving interface turns red in
@@ -4548,7 +4216,6 @@ alarm sound;
 When the setting switch is in the off/fault state, the
 
 ### AEBS instrument warning lamp is always on in
-`forthing_friday_rhd_en_bbda43d9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:121 | doc_type:owners_manual
 
 yellow;
 When the AEB is triggered, the vehicle speed is
@@ -4583,7 +4250,6 @@ the vehicle.
 Warning
 
 ### AEB cannot be used to maintain a safe driving
-`forthing_friday_rhd_en_03a042de` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:121 | doc_type:owners_manual
 
 distance from the vehicles ahead, cyclists and
 pedestrians. Please avoid driving too close to vehicle
@@ -4591,7 +4257,6 @@ ahead, cyclists or pedestrians or driving too intensely.
 Caution
 
 ### The brake distance will be longer on wet and slippery
-`forthing_friday_rhd_en_8b567707` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:121 | doc_type:owners_manual
 
 roads. If the ABS, TCS, or vehicle stability control
 system is triggered, the ability of AEB to slow down
@@ -4603,7 +4268,6 @@ AEB does not work.
 Warning
 
 ### The driver depresses the accelerator pedal
-`forthing_friday_rhd_en_82180aa6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:121 | doc_type:owners_manual
 
 deeply or quickly.
 •
@@ -4619,13 +4283,11 @@ No more vehicles, cyclists or pedestrians are
 detected ahead
 
 ### The following conditions may cause the camera to be
-`forthing_friday_rhd_en_e06ac89c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:121 | doc_type:owners_manual
 
 unrecognizable, making the FCA unable to operate as
 expected. This includes, but is not limited to:
 
 ### The recognition capability is decreased at night
-`forthing_friday_rhd_en_46c657e5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:122 | doc_type:owners_manual
 
 •
 The surrounding environment is dark, such as
@@ -4650,7 +4312,6 @@ freezing, snow, etc. on windshield in front of camera
 •
 
 ### The camera is out of focus or faulty
-`forthing_friday_rhd_en_9f9522f9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:122 | doc_type:owners_manual
 
 Only
 eligible
@@ -4664,7 +4325,6 @@ but not limited to:
 •
 
 ### This function cannot guarantee that a special
-`forthing_friday_rhd_en_8565a1ee` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:122 | doc_type:owners_manual
 
 vehicle can be recognized in all situations, especially at
 night, which requires special attention. For example,
@@ -4675,7 +4335,6 @@ surface below a certain height, and no-load vehicles, etc.
 •
 
 ### This function may miss stationary or slow-moving
-`forthing_friday_rhd_en_9c2a96fd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:122 | doc_type:owners_manual
 
 vehicles, especially at night, so pay special attention
 In order to play the best role of this function, the system
@@ -4690,7 +4349,6 @@ not limited to:
 •
 
 ### Pedestrians wearing large clothing (such as
-`forthing_friday_rhd_en_ee8c1128` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:122 | doc_type:owners_manual
 
 raincoats, traditional Chinese clothing, etc.) cause their
 main features (arms, legs, etc.) to be blocked and their
@@ -4705,7 +4363,6 @@ arms and other major features
 •
 
 ### Pedestrians
-`forthing_friday_rhd_en_6012af49` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:122 | doc_type:owners_manual
 
 wear
 clothing
@@ -4717,7 +4374,6 @@ Pedestrians on dark roads, tunnels, etc. at night
 •
 
 ### Pedestrians have large changes in speed when
-`forthing_friday_rhd_en_7de7c5f3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:122 | doc_type:owners_manual
 
 crossing
 In order to give full play to the best function of this
@@ -4731,7 +4387,6 @@ expected. This includes, but is not limited to:
 •
 
 ### The cyclist first appears in sensor 's field of view
-`forthing_friday_rhd_en_96ece928` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:122 | doc_type:owners_manual
 
 at a closer distance
 •
@@ -4746,7 +4401,6 @@ ahead, including but not limited to:
 •
 
 ### FCA will not respond to objects in sensor blind
-`forthing_friday_rhd_en_ce97c2fd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:122 | doc_type:owners_manual
 
 spot, such as blind spot in the corners of the vehicle or
 in the side or rear blind spot of the vehicle
@@ -4755,7 +4409,6 @@ When approaching or passing a road bend, you
 may misselect or miss a target
 
 ### Being on a slope may cause loss of target or
-`forthing_friday_rhd_en_16f003fe` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:123 | doc_type:owners_manual
 
 misjudgment of distance from the target
 •
@@ -4766,7 +4419,6 @@ time
 •
 
 ### When the vehicle suddenly drives into the rear of the
-`forthing_friday_rhd_en_e8b6781b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:123 | doc_type:owners_manual
 
 vehicle in front, or other vehicles suddenly drive into or out of
 the front of the vehicle, it may not be recognized in time
@@ -4786,7 +4438,6 @@ Winding and twisting roads, sharp turning roads.
 •
 
 ### The LDA includes lane departure prevention (LDP) and lane
-`forthing_friday_rhd_en_f1af2fca` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:123 | doc_type:owners_manual
 
 departure warning (LDW). During driving, it provides steering
 correction and alarm prompt for the driver when the vehicle
@@ -4797,7 +4448,6 @@ The LDA switch is turned on, and the function is turned on
 after the vehicle is started;
 
 ### Function activation
-`forthing_friday_rhd_en_6243757b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:123 | doc_type:owners_manual
 
 When the system detects the lane marking and 65 km/h ≤
 vehicle speed ≤ 140 km/h, the system automatically enters the
@@ -4810,7 +4460,6 @@ When the system is activated, the LDA indicator lamp (red)
 flashes;
 
 ### Function trigger
-`forthing_friday_rhd_en_03bf5922` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:123 | doc_type:owners_manual
 
 When the vehicle may deviate from the lane, the steering
 wheel turns slightly to correct the vehicle back to the lane. The
@@ -4822,7 +4471,6 @@ deviated side of the instrument driving interface will turn red
 and flash, accompanied by a medium frequency alarm sound;
 
 ### Enter the setting interface through the vehicle icon at the
-`forthing_friday_rhd_en_d8e8d1b9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:123 | doc_type:owners_manual
 
 bottom left of the vehicle, and click [ADAS] to set the on and
 off of LDA;
@@ -4847,7 +4495,6 @@ the time.
 Warning
 
 ### LDA has limited steering force and can only provide slight
-`forthing_friday_rhd_en_dc655305` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:123 | doc_type:owners_manual
 
 steering correction assistance, but cannot completely prevent
 the vehicle from deviating from the lane. Therefore, do not rely
@@ -4857,7 +4504,6 @@ Take over the steering wheel immediately if you need to turn,
 turn around, or pass through winding and sharp turning roads.
 
 ### Convenience Devices
-`forthing_friday_rhd_en_932bc2a6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:124 | doc_type:owners_manual
 
 Warning
 As a ADAS function, LDA cannot cope with all traffic,
@@ -4865,7 +4511,6 @@ weather and road conditions. The LDA is for reference
 only and is not a substitute for your visual inspection.
 
 ### You must always pay attention to the traffic conditions
-`forthing_friday_rhd_en_3d5dd9b2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:124 | doc_type:owners_manual
 
 and road conditions, and make your own decision on
 whether to use LDA while ensuring safety. When using
@@ -4881,7 +4526,6 @@ Do not do the following while driving:
 •
 
 ### LDA will not remind or control when the turn signal
-`forthing_friday_rhd_en_a460aafc` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:124 | doc_type:owners_manual
 
 lamp is turned on and the vehicle deviates to the
 corresponding side.
@@ -4890,7 +4534,6 @@ The LDA may not be able to detect the edge of the road,
 so please drive carefully and always stay in the lane.
 
 ### The lane marking detection status cannot be used
-`forthing_friday_rhd_en_0ec7f2d0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:124 | doc_type:owners_manual
 
 to determine whether the vehicle is in the lane. The
 driver needs to control the direction of the vehicle;
@@ -4900,7 +4543,6 @@ driver must always maintain control of the vehicle and
 be responsible for the vehicle;
 
 ### The following conditions may cause the LDA system to
-`forthing_friday_rhd_en_7e23950f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:124 | doc_type:owners_manual
 
 fail to operate as expected or to exit automatically,
 including but not limited to:
@@ -4914,7 +4556,6 @@ buildings or scenery
 •
 
 ### Passing through the road section without lane
-`forthing_friday_rhd_en_0db57c76` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:124 | doc_type:owners_manual
 
 marking, such as non-standardized roads, intersections,
 construction areas, etc.
@@ -4927,7 +4568,6 @@ left-turn waiting areas, etc.
 •
 
 ### The lane marking cannot be recognized or is not
-`forthing_friday_rhd_en_03c34ed8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:124 | doc_type:owners_manual
 
 recognized correctly due to the height change, e.g. when
 going uphill or downhill.
@@ -4940,7 +4580,6 @@ poor weather, poor visibility or insufficient light at night
 •
 
 ### The following conditions may cause the LDA system to
-`forthing_friday_rhd_en_d94039a1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:124 | doc_type:owners_manual
 
 fail to operate as expected or exit automatically due to
 camera recognition malfunctions, including but not
@@ -4948,7 +4587,6 @@ limited to:
 •
 
 ### The recognition capability is decreased at night
-`forthing_friday_rhd_en_a52ad227` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:124 | doc_type:owners_manual
 
 •
 The surrounding environment is dark, such as
@@ -4962,7 +4600,6 @@ large vehicles
 •
 
 ### The camera is exposed to direct light
-`forthing_friday_rhd_en_4a92a203` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:124 | doc_type:owners_manual
 
 •
 Rain, snow, fog, haze and other severe weather
@@ -4975,7 +4612,6 @@ freezing, snow, etc. on windshield in front of camera
 •
 
 ### It is not recommended to use LDA under special or
-`forthing_friday_rhd_en_143de668` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:124 | doc_type:owners_manual
 
 complex road conditions, which may cause the LDA
 system to fail to operate as expected or exit
@@ -4994,7 +4630,6 @@ roads, etc.
 Winding and twisting roads, sharp turning roads.
 
 ### Non-standard roads
-`forthing_friday_rhd_en_744ce09f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:125 | doc_type:owners_manual
 
 •
 Road without median strip.
@@ -5007,7 +4642,6 @@ stopping or starting according to the cruising distance
 set by the driver.
 
 ### ACC is mainly suitable for long-distance driving on
-`forthing_friday_rhd_en_2f04be0c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:125 | doc_type:owners_manual
 
 dry and smooth standardized roads, such as highways,
 expressways, long straight roads, etc.
@@ -5018,7 +4652,6 @@ ACC can only control the speed of the vehicle, but
 cannot control the driving direction of the vehicle.
 
 ### You must always pay attention to the traffic
-`forthing_friday_rhd_en_61872213` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:125 | doc_type:owners_manual
 
 conditions and road conditions, and make an
 independent decision on whether to use ACC while
@@ -5035,7 +4668,6 @@ Do not do the following while driving:
 •
 
 ### ACC is a comfort function rather than a collision
-`forthing_friday_rhd_en_76ce2d7d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:125 | doc_type:owners_manual
 
 prevention function, so its maximum deceleration is
 limited and less than the maximum deceleration that
@@ -5044,7 +4676,6 @@ not rely on ACC to fully decelerate the vehicle to
 avoid collision.
 
 ### When the relative speed between the vehicle and the
-`forthing_friday_rhd_en_4fa13b61` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:125 | doc_type:owners_manual
 
 vehicle ahead is greater than 50 km/h, if the vehicle
 ahead is stationary or moving slowly, there is a risk
@@ -5054,7 +4685,6 @@ and do not try to stop the vehicle or follow the vehicle
 ahead with ACC in the above cases.
 
 ### Reset/acceleration button
-`forthing_friday_rhd_en_30c2d892` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:125 | doc_type:owners_manual
 
 1)
 Reset: when the ACC exits temporarily, it can
@@ -5069,7 +4699,6 @@ to increase 5 km/h;
 2.
 
 ### Setting/deceleration button
-`forthing_friday_rhd_en_5577af62` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:125 | doc_type:owners_manual
 
 1)
 Setting: After the ACC is turned on, the ACC
@@ -5085,7 +4714,6 @@ to decrease 5 km/h;
 5.
 
 ### Convenience Devices
-`forthing_friday_rhd_en_bfb072d0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:126 | doc_type:owners_manual
 
 When the ACC is activated, the cruising distance
 (following distance) can be adjusted by the button, and
@@ -5096,7 +4724,6 @@ function; The instrument cluster displays the white ACC
 indicator lamp and the cruising speed;
 
 ### Function activation
-`forthing_friday_rhd_en_4d924633` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:126 | doc_type:owners_manual
 
 When the vehicle speed is greater than 30 km/h, press
 the setting/vehicle speed deceleration button to activate
@@ -5109,7 +4736,6 @@ instrument will prompt "ACC function cannot be
 activated";
 
 ### Cruise control
-`forthing_friday_rhd_en_c969543c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:126 | doc_type:owners_manual
 
 When the vehicle ahead is not recognized, the vehicle
 will run at the speed set by the driver, which can be
@@ -5117,7 +4743,6 @@ adjusted through the cruising speed adjustment button;
 1.
 
 ### The cruising speed can be adjusted by the
-`forthing_friday_rhd_en_0fa1b661` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:126 | doc_type:owners_manual
 
 reset/acceleration button and the setting/deceleration
 button. Short press to increase/decrease 1 km/h, and
@@ -5131,7 +4756,6 @@ according to the current vehicle ahead speed state, and
 finally reach the cruising speed;
 
 ### Cruise control
-`forthing_friday_rhd_en_60205023` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:126 | doc_type:owners_manual
 
 When the vehicle ahead is recognized, the vehicle will
 run at the distance set by the driver, which can be
@@ -5145,7 +4769,6 @@ distances;
 3.
 
 ### There are 4 cruise control distance positions in
-`forthing_friday_rhd_en_a5f02306` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:126 | doc_type:owners_manual
 
 total. The cruise control distance can be adjusted
 through the distance adjustment button. Press the button
@@ -5164,7 +4787,6 @@ depress accelerator pedal or press RES+ button" and it
 will be reactivated after the operation;
 
 ### All components of ACC are not faulty
-`forthing_friday_rhd_en_375b63ae` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:126 | doc_type:owners_manual
 
 •
 The vehicle meets all safety requirements, such as:
@@ -5176,13 +4798,11 @@ The vehicle meets all safety requirements, such as:
 → TCS and ESP are not manually disabled
 
 ### The ACC function will be automatically deactivated due
-`forthing_friday_rhd_en_307b276a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:127 | doc_type:owners_manual
 
 to the user's activation of ESP OFF setting. Please pay
 attention when using the vehicle.
 
 ### The vehicle is stationary for more than 3 minutes
-`forthing_friday_rhd_en_a2e4b406` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:127 | doc_type:owners_manual
 
 In addition, when the ACC does not meet the working
 conditions, the ACC will exit automatically, and the
@@ -5194,7 +4814,6 @@ distance from the vehicle ahead.
 Warning
 
 ### ACC may exit unexpectedly due to unexpected
-`forthing_friday_rhd_en_801b2ec8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:127 | doc_type:owners_manual
 
 conditions. Please always pay attention to the traffic
 conditions and road environment, and be ready to take
@@ -5206,7 +4825,6 @@ and the ACC will require the driver to take over the
 vehicle in time.
 
 ### The ACC will give visual and audible indications to the
-`forthing_friday_rhd_en_a74bac06` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:127 | doc_type:owners_manual
 
 driver, and the instrument cluster will give a text prompt
 "Please take over the vehicle" accompanied by a buzzer,
@@ -5217,7 +4835,6 @@ of "Please take over the vehicle" is sent at the same time,
 but the current action will still be executed.
 
 ### The ACC system is not a safety system nor an
-`forthing_friday_rhd_en_4d4c0f2b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:127 | doc_type:owners_manual
 
 obstacle detector or collision warning system, but a
 comfort system. Therefore, when ACC is turned on,
@@ -5227,7 +4844,6 @@ for the vehicle;
 •
 
 ### The ACC is suitable for use on highways and
-`forthing_friday_rhd_en_431f5c78` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:127 | doc_type:owners_manual
 
 roads with good conditions, but not suitable for use on
 urban roads or mountain roads;
@@ -5248,7 +4864,6 @@ accidents!
 •
 
 ### The ACC system can only adjust the distance
-`forthing_friday_rhd_en_5f866710` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:127 | doc_type:owners_manual
 
 between the vehicle and the vehicle in front, and usually
 cannot detect and apply the brakes for vehicles in other
@@ -5263,7 +4878,6 @@ or under construction, temporarily turn off ACC;
 •
 
 ### The ACC system can assist driver but cannot
-`forthing_friday_rhd_en_1d7abda9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:127 | doc_type:owners_manual
 
 replace driver in driving. Even if the ACC is turned on,
 the driver must drive carefully, be ready to take over the
@@ -5276,7 +4890,6 @@ speed should not be too high to avoid accidents.
 •
 
 ### In some cases (the relative speed of the vehicle
-`forthing_friday_rhd_en_10425001` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:127 | doc_type:owners_manual
 
 ahead is too high, it suddenly slows down, stops,
 changes lanes quickly, or safe distance is too small, etc.),
@@ -5287,7 +4900,6 @@ vehicle, and take full responsibility for the vehicle;
 •
 
 ### The ACC cannot detect the objects loaded on the
-`forthing_friday_rhd_en_e6fe688f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:127 | doc_type:owners_manual
 
 following target vehicle that protrude from the side, rear
 end or roof of the bodywork or the attached accessories.
@@ -5297,7 +4909,6 @@ when overtaking such vehicles, and the driver shall
 actively depress the brake pedal as appropriate;
 
 ### Convenience Devices
-`forthing_friday_rhd_en_198b7356` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:128 | doc_type:owners_manual
 
 •
 Do not activate ACC when towing a vehicle;
@@ -5314,7 +4925,6 @@ deleted after the vehicle is turned off;
 •
 
 ### If instrument cluster prompts "ACC function
-`forthing_friday_rhd_en_1b33a571` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:128 | doc_type:owners_manual
 
 automatically exits" and ACC cannot be turned on
 again, it means that the vehicle has an abnormal
@@ -5323,7 +4933,6 @@ restarted;
 •
 
 ### When the TCS system or ESP system is
-`forthing_friday_rhd_en_dcdaaefa` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:128 | doc_type:owners_manual
 
 triggered, if ACC is controlling the vehicle, ACC will
 automatically shut down;
@@ -5336,7 +4945,6 @@ ACC can be manually activated;
 •
 
 ### The driver can depress the accelerator pedal to
-`forthing_friday_rhd_en_7c2ae7cd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:128 | doc_type:owners_manual
 
 increase the vehicle speed at any time. After the
 accelerator pedal is released, the vehicle speed will
@@ -5353,14 +4961,12 @@ collision with the vehicle ahead;
 •
 
 ### The following vehicle diagram is only
-`forthing_friday_rhd_en_9e2ab898` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:128 | doc_type:owners_manual
 
 displayed when a vehicle traveling in the same
 direction on the same lane is detected;
 •
 
 ### The ACC system is subject to physical laws and
-`forthing_friday_rhd_en_e75730b2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:128 | doc_type:owners_manual
 
 the system itself during driving. In addition, under
 certain conditions, the response of the ACC may be
@@ -5368,13 +4974,11 @@ different from the driver's idea. Therefore, the driver
 must always pay attention and intervene if necessary;
 
 ### Vehicles entering/exiting curves
-`forthing_friday_rhd_en_6e780d73` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:128 | doc_type:owners_manual
 
 When driving in/out of a curve, the ACC may react to
 a vehicle in an adjacent lane and brake the vehicle.
 
 ### This braking process can be ended in advance by
-`forthing_friday_rhd_en_ddbb3711` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:128 | doc_type:owners_manual
 
 actively depressing the accelerator pedal.
 Warning!
@@ -5385,7 +4989,6 @@ and cruising distance, and be ready to take over the
 vehicle at any time.
 
 ### Vehicles in curves
-`forthing_friday_rhd_en_a53d0783` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:128 | doc_type:owners_manual
 
 •
 When the vehicle is in a curve, the ACC may
@@ -5403,7 +5006,6 @@ this happens, the symbol of the vehicle ahead will not
 be displayed on the instrument cluster display.
 
 ### For vehicles that are not running on the same straight
-`forthing_friday_rhd_en_9733fb46` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:128 | doc_type:owners_manual
 
 line (vehicles in adjacent lanes change lanes to enter),
 if they do not enter the recognition range of the
@@ -5411,7 +5013,6 @@ camera sensor, the sensor may not be able to detect
 these vehicles, resulting in a delay in ACC response.
 
 ### Vehicle running on a slope
-`forthing_friday_rhd_en_6017f0ff` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:128 | doc_type:owners_manual
 
 Do not use ACC on steep ramps. On steep ramps, the
 ACC cannot detect vehicles in the same lane, and the
@@ -5423,7 +5024,6 @@ system by depressing the brake pedal, and control the
 vehicle by yourself.
 
 ### When the target vehicle following ahead drives off
-`forthing_friday_rhd_en_f7e9e09e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:129 | doc_type:owners_manual
 
 the expressway or turns, ACC will lose the target and
 the system may automatically accelerate. If the
@@ -5436,7 +5036,6 @@ depressing the brake pedal or pressing the cruise
 control handle at any time.
 
 ### Pedestrian in front of the driving direction of the
-`forthing_friday_rhd_en_f30a3c1e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:129 | doc_type:owners_manual
 
 vehicle
 The ACC cannot detect pedestrians. Once the driver
@@ -5447,7 +5046,6 @@ Vehicles that are difficult to identify (motorcycle,
 bicycle, etc.)
 
 ### The ACC cannot guarantee the detection of all types
-`forthing_friday_rhd_en_4aafdbaf` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:129 | doc_type:owners_manual
 
 of vehicles on the driving path, especially narrow
 vehicles such as battery cars, bicycles, motorcycles,
@@ -5456,7 +5054,6 @@ bodywork. The driver needs to pay close attention to
 the surroundings of the vehicle.
 
 ### When another vehicle suddenly cuts in front of the
-`forthing_friday_rhd_en_42c4de2a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:129 | doc_type:owners_manual
 
 vehicle in the direction of travel, the ACC may not be
 able to control the vehicle quickly or may apply
@@ -5467,7 +5064,6 @@ When the target vehicle makes a U-turn or turns at a
 right angle
 
 ### When the target vehicle followed by the vehicle
-`forthing_friday_rhd_en_30d425c1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:129 | doc_type:owners_manual
 
 makes a U-turn or turns at a right angle, the sensor
 will lose the target and the system may automatically
@@ -5475,7 +5071,6 @@ accelerate. The driver needs to keep an eye on the
 surroundings and be ready to take over at any time.
 
 ### When the target vehicle followed by the vehicle passes
-`forthing_friday_rhd_en_7870a88f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:130 | doc_type:owners_manual
 
 through the intersection, the driver shall pay attention to
 the change of traffic lights, and actively intervene the
@@ -5487,14 +5082,12 @@ not have enough time to brake, and the driver needs to
 intervene in the vehicle if necessary.
 
 ### The following conditions may cause camera recognition
-`forthing_friday_rhd_en_63d42e46` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:130 | doc_type:owners_manual
 
 obstacles, affect ACC performance, and even cause the
 function to exit. This includes, but is not limited to:
 •
 
 ### Only vehicles that meet the conditions will be responded
-`forthing_friday_rhd_en_9d03b552` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:130 | doc_type:owners_manual
 
 to by ACC. The following targets are not guaranteed to
 be identified and may be responded to, including but not
@@ -5513,7 +5106,6 @@ Animals
 •
 
 ### This function cannot guarantee the recognition of
-`forthing_friday_rhd_en_5d0e3e26` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:130 | doc_type:owners_manual
 
 special vehicles, especially at night, which requires
 special attention. For example, vehicles with blocked
@@ -5523,7 +5115,6 @@ vehicles, etc.
 •
 
 ### The following situations may cause ACC to recognize
-`forthing_friday_rhd_en_7e830af2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:130 | doc_type:owners_manual
 
 and respond too late because the target is not directly
 ahead, including but not limited to:
@@ -5539,7 +5130,6 @@ the vehicle.
 •
 
 ### Being on a slope may cause loss of target or
-`forthing_friday_rhd_en_8c05bb5d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:130 | doc_type:owners_manual
 
 misjudgment of distance from vehicle ahead. Driving
 speed will increase when going downhill, resulting in
@@ -5552,7 +5142,6 @@ may not be recognized, and you need to take over in time
 •
 
 ### When the vehicle suddenly drives into the rear of
-`forthing_friday_rhd_en_5f0b901b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:130 | doc_type:owners_manual
 
 the vehicle in front, or other vehicles suddenly drive into
 or out of the front of the vehicle, the target may not be
@@ -5566,7 +5155,6 @@ caused by a change or loss of the following target
 (especially during turns or lane changes).
 
 ### This function may occasionally apply the
-`forthing_friday_rhd_en_9b217ffe` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:131 | doc_type:owners_manual
 
 brakes when they are not needed or intended. This
 may be caused by detecting a change or loss of a
@@ -5575,7 +5163,6 @@ especially during a turn or lane change.
 Warning
 
 ### This function cannot guarantee that the target can be
-`forthing_friday_rhd_en_2608fd3e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:131 | doc_type:owners_manual
 
 accurately identified in all cases. If you find that the
 situation displayed by the target vehicle ahead on the
@@ -5589,7 +5176,6 @@ There is no vehicle ahead, but the instrument
 shows a vehicle ahead
 
 ### It is not recommended to use ACC under special or
-`forthing_friday_rhd_en_6c0d50db` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:131 | doc_type:owners_manual
 
 complex road conditions, which may affect the ACC
 performance and even cause the function to exit,
@@ -5609,7 +5195,6 @@ Winding and twisting roads, sharp turning roads.
 •
 
 ### Non-standard roads
-`forthing_friday_rhd_en_f4b49299` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:131 | doc_type:owners_manual
 
 •
 Road without median strip.
@@ -5621,7 +5206,6 @@ limited to:
 •
 
 ### Sufficient brake force may not be obtained in the
-`forthing_friday_rhd_en_b0e18114` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:131 | doc_type:owners_manual
 
 following cases. This includes, but is not limited to:
 •
@@ -5638,7 +5222,6 @@ etc.)
 •
 
 ### The vehicle is running on special roads (such as
-`forthing_friday_rhd_en_ed57dec1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:131 | doc_type:owners_manual
 
 uphill and downhill, waterlogged, muddy, potholed,
 ice and snow-covered roads, etc.)
@@ -5648,7 +5231,6 @@ shut down. At this time, the START/STOP button
 indicator lamp is breathing/blue.
 
 ### ACC position: When the vehicle is in the "OFF"
-`forthing_friday_rhd_en_9c0fa508` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:133 | doc_type:owners_manual
 
 position, press START/STOP button without
 depressing the brake pedal, the indicator lamp will be
@@ -5657,7 +5239,6 @@ breathing/blue, and the vehicle will switch to the
 such as the infotainment system can be used.
 
 ### ON position: When the vehicle is in the "ACC"
-`forthing_friday_rhd_en_93f332ef` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:133 | doc_type:owners_manual
 
 position, press START/STOP button without
 depressing the brake pedal. indicator lamp is
@@ -5668,7 +5249,6 @@ button again, and the vehicle returns to the "OFF"
 position.
 
 ### START position: The vehicle is at this position when
-`forthing_friday_rhd_en_87e755be` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:133 | doc_type:owners_manual
 
 started. When the START/STOP button is in the
 "OFF/ON/ACC" position, depress the brake pedal,
@@ -5678,7 +5258,6 @@ directly. At this time, the indicator lamp of the
 START/STOP button is always on in blue.
 
 ### Start the vehicle power system
-`forthing_friday_rhd_en_7d8ad3b1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:133 | doc_type:owners_manual
 
 To start the vehicle, the following conditions must be
 met:
@@ -5695,7 +5274,6 @@ check the door.
 •
 
 ### The driving distance of the vehicle is related
-`forthing_friday_rhd_en_948b1512` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:133 | doc_type:owners_manual
 
 to the remaining power of the traction battery
 and the driving power of the vehicle.
@@ -5712,7 +5290,6 @@ parking.
 •
 
 ### The discharge capacity of the traction battery
-`forthing_friday_rhd_en_291fe103` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:133 | doc_type:owners_manual
 
 will be greatly limited at extremely low
 temperatures. In order to avoid difficulty in
@@ -5726,7 +5303,6 @@ the vehicle is not in motion, make sure that
 the vehicle is in P or N position.
 
 ### Vehicle maintenance and software update
-`forthing_friday_rhd_en_6b08c335` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:133 | doc_type:owners_manual
 
 In order to ensure the safety of maintenance personnel,
 please press and hold the hazard warning lamp switch
@@ -5745,7 +5321,6 @@ on the smart key in turn to exit the forced power-off
 mode.
 
 ### Vehicle fails to start
-`forthing_friday_rhd_en_1a32fda3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:134 | doc_type:owners_manual
 
 If the vehicle READY indicator lamp is not on, it
 indicates that there may be a power failure or the
@@ -5762,7 +5337,6 @@ key is in the vehicle and near the front cup holder.
 2.
 
 ### If the instrument cluster prompts [Low battery
-`forthing_friday_rhd_en_efa99639` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:134 | doc_type:owners_manual
 
 SOC] or the instrument cluster cannot be lit,
 indicating that the 12V low-voltage battery power
@@ -5772,7 +5346,6 @@ Self-help Treatment" for details.
 3.
 
 ### Starting the vehicle with the smart key at low
-`forthing_friday_rhd_en_4175cfb8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:134 | doc_type:owners_manual
 
 battery
 When the smart key has low or no power, you can use
@@ -5781,7 +5354,6 @@ door, then put the smart key into the first cup holder
 of the front cup holder (front direction), press the
 
 ### This position is used when parking or putting the
-`forthing_friday_rhd_en_ff579f05` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:134 | doc_type:owners_manual
 
 vehicle in the ready-to-drive state. Press the P button
 on the shift lever to enter the P position. Be sure to
@@ -5794,7 +5366,6 @@ stop the vehicle completely before engaging R
 position.
 
 ### N position (neutral position)
-`forthing_friday_rhd_en_48221923` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:134 | doc_type:owners_manual
 
 When the vehicle is in this position, the drive motor
 cannot output power and will not support auxiliary
@@ -5808,7 +5379,6 @@ vehicle is started, normal gear shifting operation can
 be carried out.
 
 ### The shift lever will return to the middle position after
-`forthing_friday_rhd_en_8e991285` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:134 | doc_type:owners_manual
 
 each gear shifting operation, and the gears are
 arranged from front to back in the order of R-N-D.
@@ -5818,7 +5388,6 @@ After the vehicle comes to a complete stop, press the
 P position button to enter the P position.
 
 ### Set to R position
-`forthing_friday_rhd_en_1212b99f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:135 | doc_type:owners_manual
 
 After the vehicle is started, depress the brake pedal
 and push the shift lever up to the R position.
@@ -5828,7 +5397,6 @@ After the vehicle is started, depress the brake pedal
 and push the shift lever down to the D position.
 
 ### Description of gear shifting conditions
-`forthing_friday_rhd_en_0b0e3f2e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:135 | doc_type:owners_manual
 
 1.
 When the vehicle is not started, the gear can
@@ -5844,7 +5412,6 @@ To engage the D position, push the shift lever
 and depress the brake at the same time.
 
 ### The driving mode is "ECO" by default when the
-`forthing_friday_rhd_en_06a5428e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:135 | doc_type:owners_manual
 
 vehicle is started. Press the driving mode button once
 to switch to "Normal" mode, and press this button
@@ -5852,7 +5419,6 @@ again to switch to "SPORT" mode.
 You can cycle between Eco→Normal→Sport→Eco.
 
 ### It combines the power performance and economy of
-`forthing_friday_rhd_en_ae0cb57f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:135 | doc_type:owners_manual
 
 the vehicle, and is suitable for various roads.
 SPORT mode:
@@ -5862,7 +5428,6 @@ experience. It is suitable for flat roads with few
 vehicles.
 
 ### Eco mode
-`forthing_friday_rhd_en_30c6bbf0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:135 | doc_type:owners_manual
 
 At this time, the vehicle is running in a relatively
 economical and energy-saving state, the power
@@ -5870,7 +5435,6 @@ performance will decrease, the power of the A/C will
 be limited, and the endurance range will increase.
 
 ### The vehicle has the functions of energy recovery
-`forthing_friday_rhd_en_43b7d14a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:136 | doc_type:owners_manual
 
 during coasting and braking energy recovery, which
 can
@@ -5882,7 +5446,6 @@ and
 economical.
 
 ### The energy recovery during coasting can convert the
-`forthing_friday_rhd_en_c80e7810` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:136 | doc_type:owners_manual
 
 kinetic energy of the vehicle into electric energy and
 charge it into the traction battery. In the conversion,
@@ -5890,7 +5453,6 @@ there is inevitable energy loss. The most economical
 way is to use the energy of the vehicle for driving.
 
 ### The energy recovery during coasting has the effect of
-`forthing_friday_rhd_en_7c10f4e1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:136 | doc_type:owners_manual
 
 braking and deceleration. According to the driving
 habits, you can set the energy recovery during
@@ -5904,7 +5466,6 @@ energy recovery can also be carried out when the
 brake pedal is depressed).
 
 ### Braking energy recovery
-`forthing_friday_rhd_en_2f203bb2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:136 | doc_type:owners_manual
 
 When the brake pedal is pressed, the vehicle will
 enter the braking energy recovery. Braking energy
@@ -5915,7 +5476,6 @@ energy to charge the traction battery, so that the
 vehicle can achieve better energy-saving effect.
 
 ### Energy recovery may not be possible in the following
-`forthing_friday_rhd_en_3859cec8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:136 | doc_type:owners_manual
 
 situations.
 1.
@@ -5932,7 +5492,6 @@ coasting cannot be performed.
 3.
 
 ### The charging capacity of the traction battery is
-`forthing_friday_rhd_en_6811ab51` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:136 | doc_type:owners_manual
 
 severely limited when the ambient temperature is
 extremely low or the temperature is too high.
@@ -5949,7 +5508,6 @@ In case of low energy recovery during coasting .
 6.
 
 ### The safety assistance system of the vehicle is
-`forthing_friday_rhd_en_dc7a63a5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:136 | doc_type:owners_manual
 
 activated (such as ABS, etc.).
 7.
@@ -5958,7 +5516,6 @@ case of fault indication, please contact the Forthing
 Special Service Station.
 
 ### Limp-home mode
-`forthing_friday_rhd_en_04e0bf33` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:136 | doc_type:owners_manual
 
 When the vehicle has certain specific faults, the
 power of the vehicle will be limited, the limited
@@ -5967,7 +5524,6 @@ instrument cluster will light up, and the maximum
 vehicle speed will be reduced.
 
 ### Do not continue to start after several failed
-`forthing_friday_rhd_en_4d47a6b6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:136 | doc_type:owners_manual
 
 starts. Please contact the Forthing Special Service
 Station as soon as possible.
@@ -5985,7 +5541,6 @@ cluster has no fault alarm signal.
 6.
 
 ### When the instrument cluster prompts that the
-`forthing_friday_rhd_en_613f37b7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:137 | doc_type:owners_manual
 
 traction battery SOC is too low, do not drive for a
 long distance, and charge the battery as soon as
@@ -5996,7 +5551,6 @@ When parking, put the vehicle into P position and pull
 up the EPB switch at the same time.
 
 ### New energy electric vehicles will have different noise
-`forthing_friday_rhd_en_b90aa955` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:137 | doc_type:owners_manual
 
 and vibration from traditional fuel vehicles.
 The following noises and vibrations are normal:
@@ -6008,13 +5562,11 @@ to complete manual parking, and the parking status
 indicator lamp will come on.
 
 ### Release: Depress brake pedal and press EPB switch
-`forthing_friday_rhd_en_0c4d5588` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:137 | doc_type:owners_manual
 
 at the same time to release the parking brake, and the
 parking status indicator lamp will go out.
 
 ### This function can only be used when the brake pedal
-`forthing_friday_rhd_en_ae13a62f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:137 | doc_type:owners_manual
 
 fails or is blocked. Continuously pull up the EPB
 switch to brake the vehicle with the EPB function in
@@ -6027,7 +5579,6 @@ slippery roads, using the emergency brake function
 may cause the vehicle to drift and sideslip.
 
 ### The auto-hold function can help the driver to start
-`forthing_friday_rhd_en_f6beaca7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:138 | doc_type:owners_manual
 
 more comfortably on a slope or at a traffic lamp
 intersection. This function can be turned on or off
@@ -6044,7 +5595,6 @@ The driver has fastened the seat belt.
 All doors of the vehicle are closed.
 
 ### If the AUTO HOLD function is turned on
-`forthing_friday_rhd_en_af51f717` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:138 | doc_type:owners_manual
 
 during driving, when the driver depresses the brake
 pedal to stop the vehicle, the vehicle will be
@@ -6060,7 +5610,6 @@ be automatically released; otherwise the vehicle may
 not be able to start.
 
 ### Turn off the AUTO HOLD function
-`forthing_friday_rhd_en_cfe9ba77` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:138 | doc_type:owners_manual
 
 1.
 When the AUTO HOLD function is on, press
@@ -6073,7 +5622,6 @@ If the driver's door is opened, the driver seat belt
 is released, or the vehicle is powered off, the AUTO
 
 ### The TCS function can reduce the wheel slip in its
-`forthing_friday_rhd_en_d70965ee` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:138 | doc_type:owners_manual
 
 rotation direction by properly braking the driving
 wheel during the driving process.
@@ -6085,7 +5633,6 @@ following when driving at night:
 1.
 
 ### Adjust the position of the vehicle inside
-`forthing_friday_rhd_en_a386ad6a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:138 | doc_type:owners_manual
 
 rearview mirror to reduce glare.
 3.
@@ -6097,7 +5644,6 @@ Drive at low speed.
 6.
 
 ### Pay attention to the dazzling of the meeting
-`forthing_friday_rhd_en_bb4597ee` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:138 | doc_type:owners_manual
 
 lamps, slow down the vehicle speed, and avoid
 looking directly at the headlights of the opposite
@@ -6110,7 +5656,6 @@ time.
 blocking the line of sight.
 
 ### Driving under the influence
-`forthing_friday_rhd_en_720b1d88` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:139 | doc_type:owners_manual
 
 Do not drive under the influence. Driving under the
 influence is very dangerous. Even a small amount of
@@ -6131,7 +5676,6 @@ Caution
 •
 
 ### When the vehicle passes through water or
-`forthing_friday_rhd_en_dc32fb1f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:139 | doc_type:owners_manual
 
 muddy roads, the braking effect may be
 affected and the brake distance may be
@@ -6154,7 +5698,6 @@ permit, the brake must be cleaned and dried
 by intermittent braking as soon as possible.
 
 ### The waves caused by the oncoming vehicle
-`forthing_friday_rhd_en_1176923b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:139 | doc_type:owners_manual
 
 may exceed the allowable fording height of
 the vehicle.
@@ -6170,7 +5713,6 @@ water. After driving on the road with more
 water, it is recommended to go to the
 
 ### Forthing Special Service Station to conduct a
-`forthing_friday_rhd_en_56744923` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:139 | doc_type:owners_manual
 
 comprehensive inspection of the vehicle,
 check hidden dangers and ensure driving
@@ -6182,7 +5724,6 @@ have made relevant preparations and try to have a
 good rest.
 
 ### Check whether the oil level reaches the
-`forthing_friday_rhd_en_6c43b68d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:139 | doc_type:owners_manual
 
 specified level.
 3.
@@ -6196,7 +5737,6 @@ for long distance driving and whether all tires are
 inflated to the recommended pressure.
 
 ### Please pay attention to the following when driving in
-`forthing_friday_rhd_en_c027a0dc` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:139 | doc_type:owners_manual
 
 rainy days:
 1. Heavy rain will make the sight worse and increase
@@ -6210,7 +5750,6 @@ even accidents may occur. Therefore, please ensure
 that the tire of the vehicle is in good condition.
 
 ### Be sure to slow down when passing through
-`forthing_friday_rhd_en_0473ca0e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:140 | doc_type:owners_manual
 
 waterlogged roads.
 6.
@@ -6226,7 +5765,6 @@ After wading, the brake can be dried by slowly
 depressing the brake pedal during low-speed driving.
 
 ### Driving on ramps and mountainous roads
-`forthing_friday_rhd_en_9090d3b6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:140 | doc_type:owners_manual
 
 When driving on ramps and mountainous roads:
 1.
@@ -6238,7 +5776,6 @@ mountainous roads. Pay attention to these signals and
 take appropriate measures when driving.
 
 ### Driving on ice and snow-covered roads
-`forthing_friday_rhd_en_201220fa` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:140 | doc_type:owners_manual
 
 1.
 When driving in snow, use snow tire as much as
@@ -6255,7 +5792,6 @@ will cause the vehicle to drift. Please keep a safe
 distance.
 
 ### The harsh driving environment in winter will increase
-`forthing_friday_rhd_en_5a522489` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:141 | doc_type:owners_manual
 
 the wear of the vehicle or cause vehicle failure. The
 following recommendations can be used to reduce the
@@ -6268,7 +5804,6 @@ expected temperature in winter.
 2.
 
 ### Check the wiper to ensure that the wiper blade
-`forthing_friday_rhd_en_45b10fa9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:141 | doc_type:owners_manual
 
 can be wiped freely.
 3.
@@ -6285,14 +5820,12 @@ Click
 [Settings]-[Vehicle]-[Accessories]-[Steering
 
 ### Normal: The steering assistance is moderate and
-`forthing_friday_rhd_en_a6f5ec4d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:141 | doc_type:owners_manual
 
 suitable for normal driving habits. This is the default.
 Comfort: The steering assistance is increased, making
 steering easier.
 
 ### When parking or driving at very low vehicle
-`forthing_friday_rhd_en_2fa07162` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:141 | doc_type:owners_manual
 
 speed, if the steering wheel is turned
 repeatedly and continuously or the steering
@@ -6319,7 +5852,6 @@ driving and contact the Forthing Special
 Service Station as soon as possible.
 
 ### The driver can brake in time under most dangerous
-`forthing_friday_rhd_en_814ee7a6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:141 | doc_type:owners_manual
 
 conditions, but the force to depress the brake pedal is
 insufficient, resulting in an increase in the brake
@@ -6332,7 +5864,6 @@ shortening the brake distance.
 BOS
 
 ### BOS can automatically reduce the driving force of the
-`forthing_friday_rhd_en_f693ec11` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:141 | doc_type:owners_manual
 
 vehicle to zero when it detects that the driver has tried
 to apply the brake but fails.
@@ -6344,7 +5875,6 @@ braking, the steering wheel can still be used to avoid
 collision.
 
 ### The ABS system has a built-in self-inspection
-`forthing_friday_rhd_en_72d76fb7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:142 | doc_type:owners_manual
 
 function. When starting the vehicle and driving at low
 speed, the system will perform self-inspection. If
@@ -6352,7 +5882,6 @@ there is a malfunction, the self-inspection function
 will shut down the ABS system and illuminate the
 
 ### ABS system malfunction warning lamp on instrument
-`forthing_friday_rhd_en_79ecaf67` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:142 | doc_type:owners_manual
 
 cluster . At this time, the brake system works
 normally, but the ABS system does not work. If the
@@ -6362,7 +5891,6 @@ during self-inspection or driving, please contact
 Forthing Special Service Station.
 
 ### When the ABS system detects that one or more
-`forthing_friday_rhd_en_d014ca7c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:142 | doc_type:owners_manual
 
 wheels are approaching the locked state, the actuator
 quickly acts to release and restore the brake force.
@@ -6375,14 +5903,12 @@ Caution
 •
 
 ### The EBD system will automatically distribute the
-`forthing_friday_rhd_en_9a2f2e10` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:142 | doc_type:owners_manual
 
 brake force between the front and rear wheels, so that
 the vehicle can have good braking performance under
 different load conditions.
 
 ### The ESP system can improve the stability of the
-`forthing_friday_rhd_en_8b9a3288` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:142 | doc_type:owners_manual
 
 vehicle. When the ESP system detects that the actual
 driving state may deviate from the ideal driving state,
@@ -6391,13 +5917,11 @@ selectively applies brake force to the vehicle brakes
 to improve the stability of the vehicle.
 
 ### ESP switch
-`forthing_friday_rhd_en_e6f254d9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:142 | doc_type:owners_manual
 
 The ESP system is turned on by default. Press the ESP
 switch, the ESP system will be turned off, and the
 
 ### ESP OFF indicator lamp on the instrument cluster
-`forthing_friday_rhd_en_3eae9d77` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:142 | doc_type:owners_manual
 
 will come on.
 After the ESP system is turned off, when the vehicle
@@ -6410,7 +5934,6 @@ automatically, and the ESP OFF indicator lamp on the
 instrument cluster will go out.
 
 ### Hill hold control (HHC) system
-`forthing_friday_rhd_en_8af7a42d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:143 | doc_type:owners_manual
 
 When the vehicle starts on a steep or smooth slope,
 the vehicle may slide downward when the driver
@@ -6418,7 +5941,6 @@ switches from the brake pedal to the accelerator pedal,
 resulting in difficulty in starting. To prevent this, the
 
 ### Do not rely solely on the HHC system to
-`forthing_friday_rhd_en_5a61b506` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:143 | doc_type:owners_manual
 
 avoid the vehicle sliding down the ramp.
 •
@@ -6437,7 +5959,6 @@ When the brake pedal is depressed, and the
 vehicle stops completely on the ramp.
 
 ### The HHC system will not operate under the following
-`forthing_friday_rhd_en_31af7d09` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:143 | doc_type:owners_manual
 
 conditions:
 1.
@@ -6446,7 +5967,6 @@ vehicle is on a level road
 2.
 
 ### The HDC system allows the vehicle to pass steep
-`forthing_friday_rhd_en_295ca588` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:143 | doc_type:owners_manual
 
 downhill sections smoothly with the driver not
 depressing the brake pedal.
@@ -6458,7 +5978,6 @@ switch is pressed again or the vehicle speed exceeds
 and the HDC system is turned off.
 
 ### Braking through HDC
-`forthing_friday_rhd_en_afbcb90c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:143 | doc_type:owners_manual
 
 When the vehicle goes down a steep slope, the HDC
 system is on, the system will actively brake to keep
@@ -6469,7 +5988,6 @@ by depressing the accelerator or brake pedal.
 When the HDC system performs active braking, the
 
 ### HDC working indicator lamp on the instrument
-`forthing_friday_rhd_en_bbdbd803` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:143 | doc_type:owners_manual
 
 cluster flashes and the brake lamp of the vehicle lights
 up. At the same time, the ESP system of the vehicle
@@ -6481,7 +5999,6 @@ confirm that the system is on.
 •
 
 ### The HDC only controls the vehicle speed
-`forthing_friday_rhd_en_32b2c149` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:143 | doc_type:owners_manual
 
 through active brake, and the driver needs to
 pay attention to controlling the vehicle at all
@@ -6494,7 +6011,6 @@ large brake force will be generated, which is a normal
 phenomenon.
 
 ### Comfort stop (CST) system
-`forthing_friday_rhd_en_f06cd652` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:144 | doc_type:owners_manual
 
 The vehicle is braked on a flat and horizontal road.
 Before the vehicle stops, the CST system can
@@ -6504,7 +6020,6 @@ vehicle is parked, and thus improve the braking
 comfort.
 
 ### Click [Settings] - [Vehicle] - [Power] - [Comfort Stop]
-`forthing_friday_rhd_en_2eabb7d1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:144 | doc_type:owners_manual
 
 on the display to turn on or off. After the vehicle is
 restarted, the CST system will memorize the last
@@ -6518,7 +6033,6 @@ is normal.
 •
 
 ### When the vehicle accelerates to about 15
-`forthing_friday_rhd_en_bb0f5c14` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:144 | doc_type:owners_manual
 
 km/h, it will also produce a short "buzzing"
 sound. This is the sound of ABS self-test,
@@ -6526,7 +6040,6 @@ which is normal.
 •
 
 ### The brake-by-wire system will also make a
-`forthing_friday_rhd_en_c1509381` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:144 | doc_type:owners_manual
 
 sound during normal operation, mainly in the
 following aspects:
@@ -6542,7 +6055,6 @@ generated during the self-test, which is
 normal.
 
 ### The parking assist system can assist the driver in
-`forthing_friday_rhd_en_604abe14` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:144 | doc_type:owners_manual
 
 observing
 and
@@ -6555,7 +6067,6 @@ warnings to the driver when there are obstacles
 that hinder driving or parking.
 
 ### The parking radar system can detect the obstacles
-`forthing_friday_rhd_en_41ed3243` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:145 | doc_type:owners_manual
 
 around the vehicle when the vehicle is running at a
 low speed, and issue a warning when the vehicle is
@@ -6565,7 +6076,6 @@ Type 1: 4 rear radar sensors:
 Figure 1.1 Rear 4 Radars
 
 ### When the following conditions are met at the same
-`forthing_friday_rhd_en_af2517cb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:145 | doc_type:owners_manual
 
 time, the rear radar function will be turned on:
 1. The START/STOP button is in the “ON” position.
@@ -6577,7 +6087,6 @@ radar function will be turned off:
 position
 
 ### When the following conditions are met at the same
-`forthing_friday_rhd_en_d2369277` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:145 | doc_type:owners_manual
 
 time, the front radar function will be turned on:
 1. The ignition switch is in the IGN “ON” position;
@@ -6599,7 +6108,6 @@ up;
 5. Vehicle speed ＞15 km/h.
 
 ### When a obstacle is detected within the detection
-`forthing_friday_rhd_en_fc6df279` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:145 | doc_type:owners_manual
 
 range of the parking radar, the display alarm and
 sound alarm will be displayed in the ICE. The closer
@@ -6619,7 +6127,6 @@ AVM interface, radar sensor alarm:
 Figure 1.4 Radar alarm display of AVM interface
 
 ### Fault display
-`forthing_friday_rhd_en_7a848fef` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:145 | doc_type:owners_manual
 
 If a single sensor or multiple sensors in front of the
 vehicle are faulty, the remaining sensors in front of
@@ -6629,7 +6136,6 @@ the remaining sensors at the rear will not work. Please
 go to the service station for maintenance in time.
 
 ### Precautions
-`forthing_friday_rhd_en_2d89f132` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:146 | doc_type:owners_manual
 
 1. This system uses ultrasonic sensors to detect
 nearby obstacles and assist the driver in judging
@@ -6651,7 +6157,6 @@ not suggests a system abnormality.
 the actual one. It is only used as a reference.
 
 ### Please do not use it as the only evidence for
-`forthing_friday_rhd_en_fe919557` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:146 | doc_type:owners_manual
 
 reversing.
 4. Detection failure or poor detection may occur
@@ -6676,7 +6181,6 @@ Warning
 ●
 
 ### The parking assist system is only used as an
-`forthing_friday_rhd_en_0f239126` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:146 | doc_type:owners_manual
 
 auxiliary warning for the front and rear
 obstacles of the vehicle during parking and
@@ -6696,7 +6200,6 @@ used as evidence of safe reversing. The
 driver is responsible for driving safety.
 
 ### The reversing image captures images through a
-`forthing_friday_rhd_en_43724f67` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:146 | doc_type:owners_manual
 
 camera installed at the rear of the vehicle, which is
 convenient for the driver to check the rear obstacle
@@ -6709,7 +6212,6 @@ the gear is shifted to R, and will be turned off if the
 gear is shifted to non-R.
 
 ### Reversing trajectory line
-`forthing_friday_rhd_en_adbfb881` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:146 | doc_type:owners_manual
 
 The scale pattern trajectory line has a scale mark,
 and the scale mark is divided into two sections 0.31 m and 1-1.5 m.
@@ -6723,7 +6225,6 @@ a certain angle.
 Caution
 
 ### The auxiliary line is only used as a reference
-`forthing_friday_rhd_en_012be5e2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:146 | doc_type:owners_manual
 
 and cannot be used as the basis for judging
 the actual distance and driving trajectory of
@@ -6739,7 +6240,6 @@ driver always has the responsibility to keep
 a distance from any obstacle.
 
 ### The camera will enlarge and distort the
-`forthing_friday_rhd_en_c4f9ac2f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:146 | doc_type:owners_manual
 
 image, and there is a slight delay. Therefore,
 the AVM cannot replace the driver's
@@ -6752,7 +6252,6 @@ during use.
 4.
 
 ### There is a certain error between the auxiliary
-`forthing_friday_rhd_en_a9aa8f3e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:147 | doc_type:owners_manual
 
 line and radar wave distance and the actual
 distance. Please observe the safety around
@@ -6766,7 +6265,6 @@ is used with reversing radar to make parking safer
 and more convenient.
 
 ### When the START/STOP button is in “ON”
-`forthing_friday_rhd_en_5119510a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:147 | doc_type:owners_manual
 
 position and the vehicle speed is ≤ 30 km/h, AVM
 will be turned on if one of the following conditions
@@ -6790,7 +6288,6 @@ engaged
 6. Voice exit.
 
 ### Note: When the vehicle speed starts to slow down
-`forthing_friday_rhd_en_4f62c1ed` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:147 | doc_type:owners_manual
 
 from high speed, the vehicle speed needs to be
 reduced to 25 km/h before the AVM function can
@@ -6802,13 +6299,11 @@ Click the front, rear, left and right camera icons on the right to switch the co
 automatically disappear if there is no operation for 5 seconds).
 
 ### Front and rear wide-angle views
-`forthing_friday_rhd_en_154bfe25` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:148 | doc_type:owners_manual
 
 In the panoramic [2D view] interface, touch any position of the front and rear single views to enter the corresponding
 front wide-angle and rear wide-angle interfaces.
 
 ### Comfortable driving
-`forthing_friday_rhd_en_470b2122` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:149 | doc_type:owners_manual
 
 3D view
 Click [3D View] on the left to enter the 3D view interface. Click and drag any area of the image display to rotate
@@ -6818,7 +6313,6 @@ In the [3D View] interface, click the 3D surround icon at the lower right corner
 surround interface. The surround time is maintained for 7 s.
 
 ### Wheel view
-`forthing_friday_rhd_en_4acefa89` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:150 | doc_type:owners_manual
 
 Click [Wheel View] to switch to the corresponding view.
 Settings
@@ -6826,7 +6320,6 @@ Click [Settings] to turn on and off the turn signal lamp entry, transparent car 
 and other functions in the settings. Initialization is off by default, and all have memory function.
 
 ### Comfortable driving
-`forthing_friday_rhd_en_51ef5264` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:151 | doc_type:owners_manual
 
 The 2D front and rear single view (middle) and the 2D stitching view (right) have auxiliary lines. The auxiliary
 lines switch to the front and rear directions with the shift of D and R positions. The actual length indicated by the
@@ -6841,7 +6334,6 @@ driving trajectory of the vehicle. Please pay attention to the surrounding envir
 driving when parking the vehicle.
 
 ### Radar obstacle board display
-`forthing_friday_rhd_en_f54ea1de` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:151 | doc_type:owners_manual
 
 In the panoramic interface, when the working conditions of the radar system are met, the obstacle board will be
 displayed and there will be an alarm sound.
@@ -6850,19 +6342,16 @@ After the four radar sensors on the front and rear sides detect the obstacle, on
 and there is no alarm sound.
 
 ### Steering view
-`forthing_friday_rhd_en_97a7753f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:152 | doc_type:owners_manual
 
 When the turn signal lamp entry function switch is turned on (not in R position), turn on the left/right turn signal
 lamp to enter the corresponding left/right steering angle. After adjusting the 04 steering rod, exit the AVM interface
 after a delay of 1 second.
 
 ### Rear cross traffic alert (RCTA) system*
-`forthing_friday_rhd_en_bcc42128` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:152 | doc_type:owners_manual
 
 In the AVM interface, the alarm will be displayed when the alarm conditions of the angle radar are met.
 
 ### Moving object detection (MOD) system
-`forthing_friday_rhd_en_5744edab` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:153 | doc_type:owners_manual
 
 The MOD system monitors the immediate vicinity of the vehicle in real time through four surround view cameras
 around the bodywork, and gives an alarm when a moving object or pedestrian approaches.
@@ -6879,7 +6368,6 @@ The EPB switch is released.
 The AVM interface is displayed.
 
 ### The auxiliary line is only used as a reference and
-`forthing_friday_rhd_en_4a8483c4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:154 | doc_type:owners_manual
 
 cannot be used as the basis for judging the actual
 distance and driving trajectory of the vehicle. Please
@@ -6898,7 +6386,6 @@ image) of all parking assist system of the vehicle
 cannot replace the driver operation and judgment.
 
 ### Please always pay attention to the safety around the
-`forthing_friday_rhd_en_26840b22` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:154 | doc_type:owners_manual
 
 vehicle during use.
 •
@@ -6910,7 +6397,6 @@ objects around the
 •
 
 ### There is a certain error between the auxiliary line and
-`forthing_friday_rhd_en_9a7fd6ba` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:154 | doc_type:owners_manual
 
 radar wave distance and the actual distance. Please
 observe the safety around the vehicle when parking
@@ -6921,7 +6407,6 @@ please clean it in time.
 •
 
 ### The system cannot be used normally in bad weather
-`forthing_friday_rhd_en_a91afdc4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:154 | doc_type:owners_manual
 
 and insufficient light.
 CCS
@@ -6936,7 +6421,6 @@ Button description:
 1.
 
 ### Cruise reset/acceleration button
-`forthing_friday_rhd_en_4a8ed4c4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:154 | doc_type:owners_manual
 
 Restore the set cruising speed and control the vehicle at this
 speed.
@@ -6944,7 +6428,6 @@ If the cruise control function is turned on:
 Press this button: the set cruise speed increases by 1 km/h.
 
 ### Vehicle speed setting/deceleration button
-`forthing_friday_rhd_en_a8549780` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:154 | doc_type:owners_manual
 
 Set the current vehicle speed as cruising speed and control the
 vehicle according to this vehicle speed.
@@ -6952,7 +6435,6 @@ If the cruise control function is activated:
 Press this button: the set cruise speed decreases by 1 km/h.
 
 ### Long press this button: the set cruise speed decreases
-`forthing_friday_rhd_en_e66bd015` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:154 | doc_type:owners_manual
 
 continuously by 5 km/h.
 Caution
@@ -6964,7 +6446,6 @@ you need to restore the original set vehicle speed, just press
 the cruise reset/acceleration button.
 
 ### Activation conditions
-`forthing_friday_rhd_en_eda30803` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:154 | doc_type:owners_manual
 
 1.
 Press the cruise control button.
@@ -6980,7 +6461,6 @@ The vehicle is in D position.
 The system is not faulty.
 
 ### Pause conditions
-`forthing_friday_rhd_en_e9e92219` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:154 | doc_type:owners_manual
 
 The cruise control function can be paused in any of the
 following ways:
@@ -7001,14 +6481,12 @@ button. The 4th and 5th modes can turn off the cruise control
 completely.
 
 ### Change the set vehicle speed
-`forthing_friday_rhd_en_fce74c83` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:154 | doc_type:owners_manual
 
 The cruise control vehicle speed can be changed by any of the
 following methods.
 1.
 
 ### Press the cruise reset/acceleration button or vehicle
-`forthing_friday_rhd_en_f3128621` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:154 | doc_type:owners_manual
 
 speed setting/deceleration button to increase/decrease the
 vehicle speed.
@@ -7028,7 +6506,6 @@ conditions are still met, the vehicle will resume the original
 set cruising speed.
 
 ### Cruise control function reset
-`forthing_friday_rhd_en_9ae0467f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:155 | doc_type:owners_manual
 
 When the cruise control function is paused, if you
 need to resume the cruise control function, you can
@@ -7038,7 +6515,6 @@ cruise state, and the vehicle will resume the original
 set cruise speed.
 
 ### When the cruise control button is pressed to cancel
-`forthing_friday_rhd_en_699b2586` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:155 | doc_type:owners_manual
 
 the cruise function, the system will completely turn
 off the cruise control and cancel the cruise speed set
@@ -7050,7 +6526,6 @@ driving. It provides collision warning, active safety
 and cruise control for driver to ensure driving safety.
 
 ### Forward collision assist (FCA) includes forward
-`forthing_friday_rhd_en_a29f1f62` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:155 | doc_type:owners_manual
 
 collision warning (FCW) and automatic emergency
 braking (AEB). During driving, it provides alarm
@@ -7064,7 +6539,6 @@ pedestrian and the vehicle is too close, the FCW
 system will remind the driver visually and audibly.
 
 ### Click [Settings] - [Vehicle] - [ADAS] - [FCW] switch
-`forthing_friday_rhd_en_3b53f463` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:155 | doc_type:owners_manual
 
 on the display to select the FCW system.
 When the setting switch is in the closed state, the
@@ -7077,7 +6551,6 @@ km/h, and the vehicle condition in front of the vehicle
 will be monitored in real time.
 
 ### The level-1 alarm is triggered when the vehicle may
-`forthing_friday_rhd_en_c396fb86` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:156 | doc_type:owners_manual
 
 be in collision danger. The FCWS warning lamp on
 the instrument cluster flashes in red, the driving
@@ -7086,7 +6559,6 @@ interface turns red in front, and the prompt box
 accompanied by medium frequency alarm sound.
 
 ### The level-2 alarm is triggered when the vehicle is
-`forthing_friday_rhd_en_ea39b93e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:156 | doc_type:owners_manual
 
 about to collide. The FCWS warning lamp on the
 instrument cluster flashes in red, the driving interface
@@ -7095,7 +6567,6 @@ please be careful] is displayed, accompanied by high
 frequency alarm sound.
 
 ### System interruption
-`forthing_friday_rhd_en_a6abf0c9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:156 | doc_type:owners_manual
 
 The FCW system will not be triggered if any of the
 suppression conditions is met:
@@ -7106,7 +6577,6 @@ angle is too large.
 2.
 
 ### The driver takes over the vehicle control and
-`forthing_friday_rhd_en_5b63b4bd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:156 | doc_type:owners_manual
 
 depresses the accelerator pedal too hard.
 3.
@@ -7126,7 +6596,6 @@ Bad weather.
 The system is faulty.
 
 ### Automatic emergency braking (AEB) system
-`forthing_friday_rhd_en_f3dcdd4d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:156 | doc_type:owners_manual
 
 When the vehicle is running, if it is detected that the
 vehicle, cyclist or pedestrian in front is about to have
@@ -7135,7 +6604,6 @@ automatically perform emergency brake to avoid
 collision or reduce the injury caused by collision.
 
 ### Click [Settings] - [Vehicle] - [ADAS] - [AEB] on the
-`forthing_friday_rhd_en_dda22477` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:156 | doc_type:owners_manual
 
 display to turn on or off.
 With the AEB switch turned on, the function will be
@@ -7145,7 +6613,6 @@ monitored in real time, and the AEB will be triggered
 when a collision is about to occur.
 
 ### Function trigger
-`forthing_friday_rhd_en_077b35eb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:156 | doc_type:owners_manual
 
 When the AEB is triggered, the FCWS warning lamp
 on the instrument cluster flashes in red, the driving
@@ -7154,7 +6621,6 @@ interface turns red in front, and the prompt box
 accompanied by high frequency alarm sound.
 
 ### The AEB is turned on by default every time the
-`forthing_friday_rhd_en_1f391eb1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:157 | doc_type:owners_manual
 
 vehicle is started, and it is not recommended that the
 user turn off the AEB.
@@ -7170,7 +6636,6 @@ angle is too large.
 2.
 
 ### The AEB may be deactivated automatically in the
-`forthing_friday_rhd_en_beaa097a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:157 | doc_type:owners_manual
 
 following cases:
 1.
@@ -7189,7 +6654,6 @@ is too large.
 2.
 
 ### The speed decreases by more than threshold
-`forthing_friday_rhd_en_b27c2089` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:157 | doc_type:owners_manual
 
 value of 40 km/h.
 Caution
@@ -7205,7 +6669,6 @@ the brake as soon as possible.
 •
 
 ### The AEB can only identify regular vehicles
-`forthing_friday_rhd_en_9b05c46c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:157 | doc_type:owners_manual
 
 that have obtained licenses and are legally
 driven on the road, and cannot detect
@@ -7230,7 +6693,6 @@ etc.
 •
 
 ### The AEB cannot identify oncoming vehicles
-`forthing_friday_rhd_en_e370cf5a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:157 | doc_type:owners_manual
 
 and crossing vehicles in front, and cannot
 trigger alarm prompts and AEB.
@@ -7245,7 +6707,6 @@ time.
 •
 
 ### The AEB is usually in the background
-`forthing_friday_rhd_en_4a58fb5d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:157 | doc_type:owners_manual
 
 working state and will not be detected by the
 driver, so the relevant target vehicle or
@@ -7254,7 +6715,6 @@ are detected.
 •
 
 ### To give the best detection performance of the
-`forthing_friday_rhd_en_1be1966c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:157 | doc_type:owners_manual
 
 AEB, the camera is required to receive as
 much information as possible about the body
@@ -7264,7 +6724,6 @@ with standard human movements.
 •
 
 ### The AEB recognition function requires
-`forthing_friday_rhd_en_6a16d73b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:157 | doc_type:owners_manual
 
 sufficient contrast between pedestrians and
 the environmental background. Too bright or
@@ -7281,13 +6740,11 @@ be activated.
 •
 
 ### The system may not be able to detect the
-`forthing_friday_rhd_en_d15cd39d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:157 | doc_type:owners_manual
 
 vehicle ahead when the sensor is blocked by
 ice, snow or dust on a curved road or a ramp.
 
 ### The performance of the AEB will be limited
-`forthing_friday_rhd_en_435f1eb2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:157 | doc_type:owners_manual
 
 in case of low visibility, such as in heavy fog,
 rain or snow.
@@ -7300,7 +6757,6 @@ reduced and the brake distance may be
 increased.
 
 ### The LDA includes lane departure prevention and lane
-`forthing_friday_rhd_en_014cdb86` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:158 | doc_type:owners_manual
 
 departure warning (LDW). During driving, it
 provides steering correction and alarm prompt for the
@@ -7314,7 +6770,6 @@ when the vehicle unconsciously deviates from the
 lane.
 
 ### Click [Settings] - [Vehicle] - [ADAS] - [LDW] on the
-`forthing_friday_rhd_en_de43d33a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:158 | doc_type:owners_manual
 
 display to select the LDW system function.
 When the LDW system is on but not activated, the
@@ -7325,7 +6780,6 @@ the vehicle speed is greater than or equal to 70 km/h,
 it will automatically enter the function activation state.
 
 ### The lane marking of the vehicle is continuously
-`forthing_friday_rhd_en_2f10f841` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:158 | doc_type:owners_manual
 
 detected after the LDW system is activated and
 displayed in the driving interface of the instrument
@@ -7335,7 +6789,6 @@ green lane departure 1 working indicator lamp is
 always on.
 
 ### Function trigger
-`forthing_friday_rhd_en_5c6c6129` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:158 | doc_type:owners_manual
 
 When the vehicle may deviate from the lane, the
 steering wheel will turn slightly to correct the vehicle
@@ -7349,7 +6802,6 @@ driving interface will turn red and flash, accompanied
 by a medium frequency alarm sound.
 
 ### System interruption
-`forthing_friday_rhd_en_01fd60a9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:158 | doc_type:owners_manual
 
 The LDW system will not be triggered if any of the
 suppression conditions is met:
@@ -7360,7 +6812,6 @@ early warning will be delayed.
 2.
 
 ### When the LDW system enters the narrow lane
-`forthing_friday_rhd_en_d6ca8f4d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:158 | doc_type:owners_manual
 
 adaptation mode in a narrow lane (2.5m < lane width
 < 3.0m), the early warning will be delayed.
@@ -7372,7 +6823,6 @@ The vehicle speed is lower than 70 km/h.
 Lane marking on both sides disappear.
 
 ### The lane marking detection status cannot be
-`forthing_friday_rhd_en_82ac21af` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:159 | doc_type:owners_manual
 
 used to determine whether the vehicle is in
 the lane. The driver needs to control the
@@ -7386,7 +6836,6 @@ driving environment and judge whether to
 change lanes.
 
 ### When the front view camera sight is blocked
-`forthing_friday_rhd_en_06f9933a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:159 | doc_type:owners_manual
 
 due to the close distance with the vehicle ahead.
 8.
@@ -7401,14 +6850,12 @@ construction area.
 on the pavement may cause misidentification.
 
 ### Cruise assist*
-`forthing_friday_rhd_en_8a8611a0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:159 | doc_type:owners_manual
 
 Cruise assist is mainly an ACC system. During
 driving, the vehicle runs at the cruising speed set by
 the driver.
 
 ### Adaptive cruise control (ACC) system
-`forthing_friday_rhd_en_2795e9b8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:159 | doc_type:owners_manual
 
 The driver can use the ACC to set the vehicle speed
 within the range of 0~130 km/h, and also follow the
@@ -7421,7 +6868,6 @@ Button description:
 1.
 
 ### Set the current vehicle speed as cruising speed and
-`forthing_friday_rhd_en_4b392f90` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:159 | doc_type:owners_manual
 
 control the vehicle according to this vehicle speed.
 If the cruise control function is turned on:
@@ -7432,7 +6878,6 @@ Four modes can be set: near, medium, far and ultra
 far.
 
 ### The white ACC
-`forthing_friday_rhd_en_a008ba92` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:160 | doc_type:owners_manual
 
 indicator lamp on
 the
@@ -7445,7 +6890,6 @@ be
 displayed.
 
 ### When the vehicle
-`forthing_friday_rhd_en_d8f617f8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:160 | doc_type:owners_manual
 
 speed is greater than
 30 km/h, press the
@@ -7478,7 +6922,6 @@ be
 displayed.
 
 ### When the vehicle
-`forthing_friday_rhd_en_ce29ca18` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:160 | doc_type:owners_manual
 
 activation
 conditions are not
@@ -7490,7 +6933,6 @@ function
 cannot be activated].
 
 ### When the instrument
-`forthing_friday_rhd_en_174a91fd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:160 | doc_type:owners_manual
 
 cluster green ACC
 indicator
@@ -7515,7 +6957,6 @@ be
 completed.
 
 ### Cruise control
-`forthing_friday_rhd_en_6160e2f8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:160 | doc_type:owners_manual
 
 When the vehicle ahead is not recognized, the vehicle
 will run at the speed set by the driver, which can be
@@ -7523,7 +6964,6 @@ adjusted through the cruising speed adjustment button.
 1.
 
 ### The cruising speed can be adjusted by the
-`forthing_friday_rhd_en_fd1dc96c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:160 | doc_type:owners_manual
 
 reset/acceleration button and the setting/deceleration
 button. Short press to increase/decrease 1 km/h, and
@@ -7533,7 +6973,6 @@ and number changes are displayed accordingly.
 3.
 
 ### After the driver actively adjusts the cruising
-`forthing_friday_rhd_en_27c8906c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:160 | doc_type:owners_manual
 
 speed,
 the
@@ -7550,7 +6989,6 @@ adjusted through the cruising speed adjustment button.
 1.
 
 ### When the cruise control is activated for the first
-`forthing_friday_rhd_en_e3ec5107` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:160 | doc_type:owners_manual
 
 time, the distance is the farthest position by default,
 and the last distance is memorized for subsequent
@@ -7558,7 +6996,6 @@ vehicle distances.
 3.
 
 ### There are 4 cruise control distance positions in
-`forthing_friday_rhd_en_83b60849` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:160 | doc_type:owners_manual
 
 total. The cruise control distance can be adjusted
 through the distance adjustment button. Press the
@@ -7571,7 +7008,6 @@ the distance adjustment, and finally reach the cruising
 distance.
 
 ### Comfortable driving
-`forthing_friday_rhd_en_de4ab5b1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:161 | doc_type:owners_manual
 
 5.
 After the vehicle following stops, if the vehicle
@@ -7581,7 +7017,6 @@ gently depress accelerator pedal or press RES+ button]
 and it will be reactivated after the operation.
 
 ### System interruption
-`forthing_friday_rhd_en_cd230867` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:161 | doc_type:owners_manual
 
 If the ACC meets any of the following conditions, the
 system will exit:
@@ -7600,7 +7035,6 @@ The vehicle speed is out of the valid range.
 7.
 
 ### Keep the accelerator pedal depressed for a long
-`forthing_friday_rhd_en_af5c9f2f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:161 | doc_type:owners_manual
 
 time.
 8.
@@ -7612,7 +7046,6 @@ preceding object, and the ACC will require the driver
 to take over the vehicle in time.
 
 ### The ACC will give visual and audible indications to
-`forthing_friday_rhd_en_32fceae0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:161 | doc_type:owners_manual
 
 the driver, and the instrument cluster will give a text
 prompt [Please take over the vehicle] accompanied
@@ -7624,7 +7057,6 @@ and the request [Please take over the vehicle] is sent,
 but the current action will still be completed.
 
 ### Comfortable driving
-`forthing_friday_rhd_en_f881f640` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:162 | doc_type:owners_manual
 
 Caution
 •
@@ -7638,7 +7070,6 @@ vehicle.
 •
 
 ### The ACC is suitable for use on highways and
-`forthing_friday_rhd_en_103d00f8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:162 | doc_type:owners_manual
 
 roads with good conditions, but not suitable
 for use on urban roads or mountain roads.
@@ -7666,7 +7097,6 @@ otherwise there is a risk of accidents!
 •
 
 ### The ACC can only adjust the distance
-`forthing_friday_rhd_en_4eee1e2d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:162 | doc_type:owners_manual
 
 between the vehicle and the vehicle in front,
 and usually cannot detect vehicles on other
@@ -7676,7 +7106,6 @@ objects and apply braking for them.
 •
 
 ### If there is an oncoming vehicle on the same
-`forthing_friday_rhd_en_7c50d7df` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:162 | doc_type:owners_manual
 
 lane, the ACC will not respond.
 •
@@ -7693,7 +7122,6 @@ Caution
 •
 
 ### The driver should set the ACC vehicle speed
-`forthing_friday_rhd_en_d952757b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:162 | doc_type:owners_manual
 
 and following distance reasonably according
 to the current road, traffic and weather
@@ -7702,7 +7130,6 @@ not be too high to avoid accidents.
 •
 
 ### In some cases (the relative speed of the
-`forthing_friday_rhd_en_3734b354` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:162 | doc_type:owners_manual
 
 vehicle in front is too high, sudden
 deceleration, parking, fast lane change or
@@ -7715,7 +7142,6 @@ take full responsibility for the vehicle.
 •
 
 ### The ACC cannot detect the objects loaded on
-`forthing_friday_rhd_en_117d6ab0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:162 | doc_type:owners_manual
 
 the following target vehicle that protrude
 from the side, rear end or roof of the
@@ -7728,7 +7154,6 @@ the brake pedal as appropriate.
 •
 
 ### Do not turn on the ACC system when towing
-`forthing_friday_rhd_en_6d0ed97c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:162 | doc_type:owners_manual
 
 a vehicle.
 •
@@ -7745,7 +7170,6 @@ be deleted after the vehicle is turned off.
 •
 
 ### If the instrument cluster prompts [ACC
-`forthing_friday_rhd_en_18ab6b52` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:162 | doc_type:owners_manual
 
 function exits automatically] and the ACC
 cannot be turned on again, it indicates that
@@ -7757,7 +7181,6 @@ ACC is controlling the vehicle, the ACC will
 be automatically turned off.
 
 ### The driver can depress the accelerator pedal
-`forthing_friday_rhd_en_ee6543f9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:163 | doc_type:owners_manual
 
 at any time to increase the vehicle speed.
 After the accelerator pedal is released, the
@@ -7770,7 +7193,6 @@ cause collision with the vehicle ahead.
 •
 
 ### The following vehicle diagram is only
-`forthing_friday_rhd_en_87289e35` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:163 | doc_type:owners_manual
 
 displayed when a vehicle traveling in the
 same direction on the same lane is detected.
@@ -7782,7 +7204,6 @@ apply the brake for the vehicle ahead.
 •
 
 ### The ACC system is subject to physical laws
-`forthing_friday_rhd_en_f7abb67a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:163 | doc_type:owners_manual
 
 and the system itself during driving. In
 addition, under certain conditions, the
@@ -7792,7 +7213,6 @@ always pay attention and intervene if
 necessary.
 
 ### This braking process can be ended in advance by
-`forthing_friday_rhd_en_9e2bdce3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:163 | doc_type:owners_manual
 
 actively depressing the accelerator pedal.
 Caution
@@ -7803,7 +7223,6 @@ speed and cruising distance, and be ready to take
 over the vehicle at any time.
 
 ### Vehicles in curves
-`forthing_friday_rhd_en_c917c1a6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:163 | doc_type:owners_manual
 
 •
 When the vehicle is in a curve, the ACC may
@@ -7825,7 +7244,6 @@ close attention and be ready to take over at
 any time.
 
 ### Vehicle running on a slope
-`forthing_friday_rhd_en_48a9084e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:164 | doc_type:owners_manual
 
 Do not use ACC on steep ramps. On steep ramps, the
 ACC cannot detect vehicles in the same lane, and the
@@ -7836,7 +7254,6 @@ please immediately release the ACC system by
 depressing the brake pedal and take over the vehicle.
 
 ### When the target vehicle following ahead drives off
-`forthing_friday_rhd_en_9b894f98` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:164 | doc_type:owners_manual
 
 the expressway or turns, ACC will lose the target and
 the system may automatically accelerate. If the
@@ -7849,7 +7266,6 @@ depressing the brake pedal at any time and take over
 the vehicle.
 
 ### Comfortable driving
-`forthing_friday_rhd_en_638b3d52` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 The ACC cannot detect pedestrians. Once the driver
 finds that there are pedestrians in front of the driving
@@ -7859,7 +7275,6 @@ Vehicles that are difficult to identify (motorcycle,
 bicycle, etc.)
 
 ### The ACC cannot guarantee the detection of all types
-`forthing_friday_rhd_en_1ed93993` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 of vehicles on the driving path, especially narrow
 vehicles such as electric vehicles, bicycles and
@@ -7869,7 +7284,6 @@ close attention to the surroundings of the vehicle.
 Vehicle cutting in from the front.
 
 ### When another vehicle suddenly cuts in front of the
-`forthing_friday_rhd_en_fbc4e474` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:165 | doc_type:owners_manual
 
 vehicle in the direction of travel, the ACC may not be
 able to quickly control the vehicle or apply
@@ -7878,7 +7292,6 @@ attention to the traffic conditions in front of the
 vehicle in the direction of travel.
 
 ### When the target vehicle followed by the vehicle
-`forthing_friday_rhd_en_9aae2a2d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:165 | doc_type:owners_manual
 
 passes through the intersection, the driver shall pay
 attention to the change of traffic lights, and actively
@@ -7891,7 +7304,6 @@ enough time to brake, and the driver needs to take
 over the vehicle if necessary.
 
 ### Automatic high-beam control (IHC)
-`forthing_friday_rhd_en_ffa8af0a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:166 | doc_type:owners_manual
 
 system*
 During driving, the vehicle automatically switches
@@ -7900,7 +7312,6 @@ environment, including ambient light factors such as
 vehicles and street lights.
 
 ### Click [Settings] - [Vehicle] - [ADAS] - [IHC] on the
-`forthing_friday_rhd_en_e157d19c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:166 | doc_type:owners_manual
 
 display to turn it on or off.
 On the premise that the switch is turned on, when the
@@ -7910,7 +7321,6 @@ function is turned on the premise that the low beam is
 turned on.
 
 ### Low beam to high beam: when the ambient
-`forthing_friday_rhd_en_9c51639b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:166 | doc_type:owners_manual
 
 environment is dark, the vehicle automatically
 switches from low beam to high beam.
@@ -7920,7 +7330,6 @@ source is sufficient, the vehicle automatically
 switches from high beam to low beam.
 
 ### If the IHC system meets any of the following
-`forthing_friday_rhd_en_80cb8319` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:167 | doc_type:owners_manual
 
 conditions, the system will exit:
 1.
@@ -7940,7 +7349,6 @@ degradation of IHC performance.
 •
 
 ### IHC may not work normally due to unstable
-`forthing_friday_rhd_en_2b145dce` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:167 | doc_type:owners_manual
 
 body.
 Traffic
@@ -7956,14 +7364,12 @@ speed limit sign on the instrument cluster to remind
 the driver to drive carefully.
 
 ### Click [Settings] - [Vehicle] - [ADAS] - [TSR] on the
-`forthing_friday_rhd_en_264632e4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:167 | doc_type:owners_manual
 
 display to turn on or off. After the switch is turned on,
 the function is automatically turned on after the
 vehicle is started.
 
 ### Function trigger
-`forthing_friday_rhd_en_ad7ed8b7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:167 | doc_type:owners_manual
 
 When the vehicle passes a speed limit sign, the
 instrument cluster displays the speed limit sign. When
@@ -7972,7 +7378,6 @@ sign on the instrument cluster flashes and disappears
 after 10 s or lower than the speed limit.
 
 ### Function deactivation
-`forthing_friday_rhd_en_af1ea88e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:168 | doc_type:owners_manual
 
 1.
 The vehicle turns around at a low speed.
@@ -7987,7 +7392,6 @@ auxiliary signs.
 The TSR system can detect standard signs,
 
 ### Do not paste any substance on the front
-`forthing_friday_rhd_en_131774dc` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:168 | doc_type:owners_manual
 
 windshield,
 which
@@ -8005,7 +7409,6 @@ with all traffic and weather conditions.
 •
 
 ### TSR system cannot replace the driver's
-`forthing_friday_rhd_en_35d9905f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:168 | doc_type:owners_manual
 
 attention and judgment. The driver is always
 responsible for ensuring that the vehicle runs
@@ -8015,7 +7418,6 @@ regulations.
 •
 
 ### The TSR system may not be able to
-`forthing_friday_rhd_en_f707b03d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:168 | doc_type:owners_manual
 
 recognize the traffic sign when the sensor is
 blocked by snow, ice or dust on a curved road
@@ -8027,7 +7429,6 @@ will be limited.
 •
 
 ### The TSR system may not be able to
-`forthing_friday_rhd_en_0b2025ac` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:168 | doc_type:owners_manual
 
 recognize the traffic sign when the glare
 (oncoming headlight light or direct sunlight)
@@ -8041,7 +7442,6 @@ missed identification of signs, so the driver
 needs to pay special attention to this.
 
 ### Removal and installation of inside rearview
-`forthing_friday_rhd_en_1703617a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:168 | doc_type:owners_manual
 
 mirror.
 2.
@@ -8054,7 +7454,6 @@ otherwise the system performance will be reduced or
 the system will not work normally
 
 ### The operation of the system may also be limited
-`forthing_friday_rhd_en_0659efcf` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:168 | doc_type:owners_manual
 
 in case of snow, heavy rain or road spray.
 3.
@@ -8063,7 +7462,6 @@ there shall be no foreign matters (such as labels, addon parts, etc.) blocking t
 4.
 
 ### The camera sensor area of the front windshield
-`forthing_friday_rhd_en_74f40339` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:168 | doc_type:owners_manual
 
 will be blocked by snow, ice, dust or mud, which may
 affect the system function if not cleaned in time.
@@ -8076,7 +7474,6 @@ Special Service Station.
 6.
 
 ### The visibility of the camera may be reduced due
-`forthing_friday_rhd_en_fdf8a357` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:168 | doc_type:owners_manual
 
 to strong light, dark environment, rain, snow, dirt,
 dust blocking the sensor, etc. As a result, the vehicle
@@ -8084,7 +7481,6 @@ ahead cannot be identified in time or cannot be
 identified. In this case, please intervene by yourself.
 
 ### The side rear assist system can detect the
-`forthing_friday_rhd_en_4f01cc3a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:169 | doc_type:owners_manual
 
 vehicle behind or in the adjacent lane through
 the sensors on both sides of the rear bumper. If
@@ -8093,7 +7489,6 @@ alarm to remind the driver to drive safely.
 Sensor
 
 ### The front and rear millimeter wave radars are
-`forthing_friday_rhd_en_4303a4eb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:169 | doc_type:owners_manual
 
 installed in the front and rear bumpers
 respectively. In order to avoid affecting the
@@ -8107,7 +7502,6 @@ off the side rear assist system；
 ⚫
 
 ### Please keep both sides of the rear bumper
-`forthing_friday_rhd_en_fdfe15e2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:169 | doc_type:owners_manual
 
 clean, do not paste any objects, and do not
 cover them with foreign matters such as
@@ -8116,7 +7510,6 @@ normal operation of the sensor;
 ⚫
 
 ### Improper maintenance or modification of
-`forthing_friday_rhd_en_79f08296` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:169 | doc_type:owners_manual
 
 the vehicle may cause misalignment of the
 sensor and affect the normal operation of
@@ -8134,7 +7527,6 @@ range and cannot detect targets outside the
 detection limit.
 
 ### Poor environmental conditions of the radar
-`forthing_friday_rhd_en_91d66637` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:169 | doc_type:owners_manual
 
 will affect the normal operation of the radar. In
 addition, abnormal target conditions detected
@@ -8142,7 +7534,6 @@ by the radar will also affect the detection
 results of the radar.
 
 ### The target detected by the radar is attached
-`forthing_friday_rhd_en_ece0cc77` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:169 | doc_type:owners_manual
 
 to substances that absorb sound waves,
 such as snowflakes, foam, cotton objects,
@@ -8154,7 +7545,6 @@ uneven roads or other reasons.
 ⚫
 
 ### There are sound sources with the same
-`forthing_friday_rhd_en_82c68af8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:169 | doc_type:owners_manual
 
 frequency around.
 The above examples, warnings and restrictions
@@ -8174,7 +7564,6 @@ relevant radio astronomy observatories in
 China.
 
 ### Lane change assist (LCA)
-`forthing_friday_rhd_en_adef93b4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:170 | doc_type:owners_manual
 
 The LCA system includes BSD and LCA,
 which can detect vehicles approaching the
@@ -8182,7 +7571,6 @@ vehicle from the side rear and provide warning
 information to avoid collision.
 
 ### When the lane change assist switch is on and
-`forthing_friday_rhd_en_6c23aa86` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:170 | doc_type:owners_manual
 
 vehicle speed is ≥15km/h, the function is
 enabled to monitor the vehicle conditions
@@ -8193,14 +7581,12 @@ The LCA monitoring area is 3.5 m outside the
 vehicle and about 70 m behind it.
 
 ### Level-1 alarm: When the target approaches the
-`forthing_friday_rhd_en_b3927021` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:170 | doc_type:owners_manual
 
 vehicle to trigger the level-1 alarm, the BSD
 lamp on the rearview mirror on the same side
 will be on for a long time;
 
 ### Level-2 alarm: When the target approaches the
-`forthing_friday_rhd_en_94ddcc16` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:170 | doc_type:owners_manual
 
 vehicle, the level-1 alarm will be triggered, and
 when the turn signal lamp on the same side is
@@ -8215,7 +7601,6 @@ outside the car is too loud, the alarm sound
 may not be heard.
 
 ### On ICE [Settings] - [Vehicle] - [ADAS] -
-`forthing_friday_rhd_en_ea4c8699` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:170 | doc_type:owners_manual
 
 [Lane Change Assist], set the switch of the
 LCA. The function is enabled by default, and
@@ -8224,7 +7609,6 @@ the alarm mode can be selected as "display" or
 "display + sound";
 
 ### The system exits when any of the following
-`forthing_friday_rhd_en_006fc7cd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:170 | doc_type:owners_manual
 
 conditions are met:
 ⚫ LCA [OFF];
@@ -8252,7 +7636,6 @@ not be able to alarm the vehicle driving in the
 adjacent lane.
 
 ### The LCA system may give false alarm under
-`forthing_friday_rhd_en_8ffcb9ae` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:170 | doc_type:owners_manual
 
 the following conditions:
 ⚫ When the driving place is close to the
@@ -8260,7 +7643,6 @@ protective fence.
 ⚫ Driving on bridges, under bridges or in
 
 ### Comfortable driving
-`forthing_friday_rhd_en_fcea0a8f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:171 | doc_type:owners_manual
 
 tunnels.
 ⚫ Drive beside shrubs, trees, etc.
@@ -8302,7 +7684,6 @@ carefully.
 Do not use this function in towing mode.
 
 ### Door open warning (DOW)
-`forthing_friday_rhd_en_db17494e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:171 | doc_type:owners_manual
 
 When the vehicle is stationary, the DOW
 system can detect vehicles, cyclists or
@@ -8313,7 +7694,6 @@ door, and the DOW system will send a warning
 message to avoid the danger of collision.
 
 ### Function activation
-`forthing_friday_rhd_en_725403ea` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:171 | doc_type:owners_manual
 
 When the DOW switch is turned on, and the
 vehicle is in ON/ACC/Ready position, the
@@ -8324,13 +7704,11 @@ the safety of users getting off the vehicle;
 The functional monitoring scope is as follows:
 
 ### Level-1 alarm: When the target approaches the
-`forthing_friday_rhd_en_3df74087` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:171 | doc_type:owners_manual
 
 vehicle to trigger the level-1 alarm, the alarm
 lamp will be on for a long time;
 
 ### Level-2 alarm: When the target approaches the
-`forthing_friday_rhd_en_219ad50d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:171 | doc_type:owners_manual
 
 vehicle, the level-1 alarm will be triggered;
 when the door on the same side is opened, the
@@ -8344,7 +7722,6 @@ the noise outside the car is too loud, the
 alarm sound may not be heard.
 
 ### On ICE [Settings] - [Vehicle] - [ADAS] -
-`forthing_friday_rhd_en_28040b53` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:171 | doc_type:owners_manual
 
 [DOW], set the switch item of DOW. The
 function is enabled by default, and the alarm
@@ -8353,7 +7730,6 @@ mode can be selected as "display" or "display
 sound";
 
 ### Comfortable driving
-`forthing_friday_rhd_en_e8ff62ea` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:172 | doc_type:owners_manual
 
 ⚫ System fault;
 Caution
@@ -8397,7 +7773,6 @@ the vehicle.
 beside a wall.
 
 ### The above warnings and limitations do not
-`forthing_friday_rhd_en_1761f192` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:172 | doc_type:owners_manual
 
 address all situations that may interfere with
 the DOW system. There are many factors that
@@ -8435,7 +7810,6 @@ carefully.
 Do not use this function in towing mode.
 
 ### Rear cross traffic alert (RCTA)
-`forthing_friday_rhd_en_f11b21c4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:172 | doc_type:owners_manual
 
 When the vehicle is reversing, RCTA can
 detect vehicles, cyclists or pedestrians crossing
@@ -8445,7 +7819,6 @@ reverses, an early warning message will be
 issued to avoid collision risk.
 
 ### Function activation
-`forthing_friday_rhd_en_a44ebf99` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:172 | doc_type:owners_manual
 
 When the RCTA switch is turned on, the
 function will be activated if the vehicle is in R
@@ -8455,7 +7828,6 @@ time to ensure the safety of reversing.
 The functional monitoring scope is as follows:
 
 ### When a target approaches the rear of the
-`forthing_friday_rhd_en_cf03b39b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:173 | doc_type:owners_manual
 
 vehicle during reversing, the alarm lamp will
 flash, accompanied by an audible prompt and
@@ -8467,7 +7839,6 @@ outside the car is too loud, the alarm sound
 may not be heard.
 
 ### System interruption
-`forthing_friday_rhd_en_97620148` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:173 | doc_type:owners_manual
 
 ⚫ The vehicle is not Ready;
 ⚫ Non-R position;
@@ -8476,7 +7847,6 @@ may not be heard.
 ⚫ System fault.
 
 ### On ICE [Settings] - [Vehicle] - [ADAS] -
-`forthing_friday_rhd_en_224ac06f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:173 | doc_type:owners_manual
 
 [RCTA], set the switch item of RCTA, which
 is enabled by default.
@@ -8502,7 +7872,6 @@ driving and compliance with current
 traffic laws and regulations.
 
 ### Precautions and limitations
-`forthing_friday_rhd_en_1256a335` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:173 | doc_type:owners_manual
 
 ⚫ The instrument cluster display is only for
 illustration and does not fully reflect the
@@ -8560,7 +7929,6 @@ responded to, including but not limited to:
 ➢ Other non-vehicle objects
 
 ### The above warnings and limitations do not
-`forthing_friday_rhd_en_b284ecca` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:173 | doc_type:owners_manual
 
 address all situations that may interfere with
 the RCTA. There are many factors that can
@@ -8573,7 +7941,6 @@ driving the vehicle so that the vehicle can be
 reversed safely.
 
 ### Rear collision warning (RCW)
-`forthing_friday_rhd_en_dc6998b5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:174 | doc_type:owners_manual
 
 During driving, when the rear vehicle is too
 close to the ego vehicle and there is a collision
@@ -8581,7 +7948,6 @@ risk, an early warning message is issued to
 avoid collision risk.
 
 ### Function activation
-`forthing_friday_rhd_en_477cbff7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:174 | doc_type:owners_manual
 
 When the RCW switch is turned on, the
 function will be activated if the vehicle is in N,
@@ -8593,7 +7959,6 @@ collision, a warning message is provided.
 The functional monitoring scope is as follows:
 
 ### Care and maintenance
-`forthing_friday_rhd_en_3b4fb6a9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:175 | doc_type:owners_manual
 
 Front compartment drip channel ........ 176
 Glass washing liquid inspection ......... 182
@@ -8609,7 +7974,6 @@ lower limit (MIN) and the
 upper limit (MAX) mark.
 
 ### Check whether the liftgate and
-`forthing_friday_rhd_en_c5785f1b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:176 | doc_type:owners_manual
 
 all other doors (including the
 rear door) can be opened and
@@ -8622,7 +7986,6 @@ embedded with foreign matters.
 12V lowvoltage battery
 
 ### Check the air outlet of the
-`forthing_friday_rhd_en_41590aca` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:176 | doc_type:owners_manual
 
 defroster every month when the
 heater and A/C are used.
@@ -8639,7 +8002,6 @@ lamp and license plate lamps
 once a month.
 
 ### Regular professional maintenance can keep the
-`forthing_friday_rhd_en_34aa1e71` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:176 | doc_type:owners_manual
 
 vehicle in good condition. The following describes
 how to keep the appearance of the vehicle clean,
@@ -8648,7 +8010,6 @@ wheel, etc., as well as measures related to corrosion
 prevention.
 
 ### Wash the vehicle frequently to help protect the
-`forthing_friday_rhd_en_aef7c393` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:176 | doc_type:owners_manual
 
 appearance of the vehicle. Dust and grit can scratch
 the paintwork, and leaves and bird droppings can
@@ -8656,7 +8017,6 @@ permanently damage the finish of the body surface. It
 is recommended to wash the body in a cool place.
 
 ### Use only the solvents and detergents recommended in
-`forthing_friday_rhd_en_921c0cfa` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:176 | doc_type:owners_manual
 
 the User's Manual. While drying the body, check the
 body for paint peeling or scratches. If any, it shall be
@@ -8665,7 +8025,6 @@ Caution
 •
 
 ### The use of chemical solvents and strong
-`forthing_friday_rhd_en_cac7e82f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:176 | doc_type:owners_manual
 
 detergents when cleaning the vehicle will
 damage the paint, metal and plastic parts and
@@ -8686,7 +8045,6 @@ luster or form water stains.
 Waxing
 
 ### Vehicle waxing is beneficial to prevent adhesion of
-`forthing_friday_rhd_en_ab660dd6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:176 | doc_type:owners_manual
 
 dust and road chemicals. Waxing can only be carried
 out after the vehicle is cleaned and dried, and waxing
@@ -8696,13 +8054,11 @@ or paste wax shall be used. When using, follow the
 instructions on the package.
 
 ### Body wax
-`forthing_friday_rhd_en_07297c20` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:177 | doc_type:owners_manual
 
 Body wax is a wax applied to the paintwork to protect
 it from damage caused by sunlight, air pollution, etc.
 
 ### Polishing wax can restore the oxidized or tarnished
-`forthing_friday_rhd_en_3f46bef6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:177 | doc_type:owners_manual
 
 paintwork to its original luster. This type of wax
 generally contains mild abrasives and solvents that
@@ -8717,7 +8073,6 @@ Therefore, it is necessary to replenish wax at the
 dewaxing position.
 
 ### When small cracks and scratches appear on the paint
-`forthing_friday_rhd_en_4021171c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:177 | doc_type:owners_manual
 
 coating, they shall be repaired immediately with
 special repair coating film or repair paint to prevent
@@ -8730,14 +8085,12 @@ at the same time. After cleaning, rinse the aluminum
 alloy wheel thoroughly with water.
 
 ### The front compartment drip channel is located in
-`forthing_friday_rhd_en_7ffac2fd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:177 | doc_type:owners_manual
 
 front of the front windshield and under the wiper
 cover. It is a very important waterway flow structure
 at the front of the vehicle.
 
 ### The drainage condition of the engine compartment
-`forthing_friday_rhd_en_3056fd86` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:177 | doc_type:owners_manual
 
 drip channel shall be checked every 5000 km to
 ensure that the wiper cover plate is clean and tidy as
@@ -8749,14 +8102,12 @@ please contact the Forthing Special Service Station in
 time.
 
 ### The sealing strip is a rubber sealing part installed on
-`forthing_friday_rhd_en_e9fe002a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:177 | doc_type:owners_manual
 
 the door or body. It is one of the parts to ensure the
 waterproof sealing of the door and belongs to other
 parts.
 
 ### The surface of the sealing strip shall be cleaned in
-`forthing_friday_rhd_en_1e87888d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:177 | doc_type:owners_manual
 
 time during the use of the vehicle to avoid excessive
 wear caused by grit or hard particles on the surface of
@@ -8766,14 +8117,12 @@ found to be worn and damaged, please contact the
 Forthing Special Service Station in time.
 
 ### The carpet shall be vacuumed frequently with a
-`forthing_friday_rhd_en_288fba25` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:177 | doc_type:owners_manual
 
 vacuum cleaner to remove dust. Excessive dust will
 accelerate the damage to the carpet. Regular washing
 with detergent can keep the carpet clean as new.
 
 ### The dust and dirt on the braided fabric shall be
-`forthing_friday_rhd_en_e75ee746` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:177 | doc_type:owners_manual
 
 removed with a vacuum cleaner frequently. It can be
 washed with low-temperature neutral soapy water
@@ -8786,7 +8135,6 @@ or spray or foam vinylon cleaner can also be used.
 Leather
 
 ### It is necessary to frequently use a vacuum cleaner to
-`forthing_friday_rhd_en_71690887` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:177 | doc_type:owners_manual
 
 remove the dust and dirt on the leather, especially at
 the wrinkles and seams. The leather can be cleaned
@@ -8796,7 +8144,6 @@ special soap for cleaning leather can be used.
 Window
 
 ### Seat belt
-`forthing_friday_rhd_en_166892bd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:178 | doc_type:owners_manual
 
 If the seat belt becomes dirty, scrub it with a soft
 brush dipped in neutral warm soapy water. Do not use
@@ -8812,7 +8159,6 @@ cleaning. If it must be cleaned by disassembling,
 please contact the Forthing Special Service Station.
 
 ### Air freshener
-`forthing_friday_rhd_en_60f53036` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:178 | doc_type:owners_manual
 
 If you need to use air fresheners or deodorants in the
 vehicle, it is recommended to use solid air fresheners.
@@ -8824,7 +8170,6 @@ If liquid air freshener is used, ensure that it is properly
 fixed to avoid splashing during driving.
 
 ### Anti-corrosion
-`forthing_friday_rhd_en_3f426f62` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:178 | doc_type:owners_manual
 
 Salt, dirt and moisture are easy to accumulate under
 the vehicle. If the vehicle paint is scraped or worn by
@@ -8838,7 +8183,6 @@ Keep the garage dry.
 3.
 
 ### Pull the engine hood release handle located
-`forthing_friday_rhd_en_15a6b3b8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:178 | doc_type:owners_manual
 
 under the right side of the dashboard, and the engine
 hood will bounce slightly.
@@ -8847,7 +8191,6 @@ Toggle the fuse lock lever to the left and lift the
 engine hood.
 
 ### Close the engine hood
-`forthing_friday_rhd_en_37fdd1bb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:179 | doc_type:owners_manual
 
 For models without engine hood gas stay bar, lift the
 engine hood to a height of about 30 cm from the
@@ -8861,7 +8204,6 @@ middle of the engine hood firmly until it is fully
 closed.
 
 ### The lubricating oil in the reducer shall be changed as
-`forthing_friday_rhd_en_f10551ef` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:182 | doc_type:owners_manual
 
 specified. When replacing, the oil in the reducer shall
 be completely drained, and then new lubricating oil
@@ -8873,7 +8215,6 @@ lower than the lower limit, add coolant to the coolant
 expansion tank until it is near the upper limit.
 
 ### Coolant supplement
-`forthing_friday_rhd_en_e2071271` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:182 | doc_type:owners_manual
 
 Open the coolant expansion tank cover to add coolant.
 Tighten the cover after adding. Coolant of different
@@ -8890,7 +8231,6 @@ cover, it must be confirmed that the drive system
 has cooled down.
 
 ### Coolant replacement
-`forthing_friday_rhd_en_723b8586` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:182 | doc_type:owners_manual
 
 Under normal circumstances, the coolant needs to be
 changed every 2 years or 20,000 km, whichever
@@ -8903,7 +8243,6 @@ please contact the Forthing Special Service Station
 for inspection in time.
 
 ### Excessive moisture content will cause corrosion
-`forthing_friday_rhd_en_bdf29d82` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:183 | doc_type:owners_manual
 
 damage to the brake system, and the boiling point of
 the brake fluid will also decrease significantly. The
@@ -8911,7 +8250,6 @@ brake fluid should be replaced in time according to
 the requirements of the regular maintenance table.
 
 ### Forthing or the DOT4 products of the same
-`forthing_friday_rhd_en_a8eb29ce` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:183 | doc_type:owners_manual
 
 grade packaged in airtight containers
 approved by Forthing. Different brake fluid
@@ -8925,7 +8263,6 @@ system.
 •
 
 ### The brake fluid is toxic and should be kept
-`forthing_friday_rhd_en_f49e3171` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:183 | doc_type:owners_manual
 
 out of reach of children. In case of accidental
 ingestion, go to the hospital for examination
@@ -8933,7 +8270,6 @@ immediately.
 •
 
 ### The brake fluid is corrosive and is not
-`forthing_friday_rhd_en_13036788` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:183 | doc_type:owners_manual
 
 allowed to contact with the paint. Once
 spilled on the paint, it needs to be cleaned
@@ -8946,7 +8282,6 @@ you feel unwell, you should go to the hospital
 for examination immediately.
 
 ### If no water is sprayed when using the wiper
-`forthing_friday_rhd_en_28b90019` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:183 | doc_type:owners_manual
 
 spray function, it indicates that the glass washing
 liquid is insufficient, and the washing liquid can be
@@ -8955,7 +8290,6 @@ Caution
 •
 
 ### It is recommended to use glass washing
-`forthing_friday_rhd_en_0cc35b38` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:183 | doc_type:owners_manual
 
 liquid specified by Forthing. Antifreeze will
 damage the surface paint of the vehicle, and
@@ -8967,7 +8301,6 @@ ethanol content of the washing liquid should
 not be higher than 24%.
 
 ### This vehicle is equipped with a maintenance-free 12V
-`forthing_friday_rhd_en_cc15c28e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:184 | doc_type:owners_manual
 
 low-voltage battery, which is located on the right side
 of the engine compartment, mainly to provide electric
@@ -8977,7 +8310,6 @@ battery is seriously short of power, the vehicle will
 not be able to start.
 
 ### Use and precautions
-`forthing_friday_rhd_en_e2bce0e5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:184 | doc_type:owners_manual
 
 1.
 Do not turn on lamps, audio, wiper and other
@@ -8996,7 +8328,6 @@ are turned off.
 4.
 
 ### The condition of the 12V low-voltage battery
-`forthing_friday_rhd_en_3b90d7bf` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:184 | doc_type:owners_manual
 
 shall be checked once a month. Check whether the
 terminals are corroded (white or light yellow powder).
@@ -9008,7 +8339,6 @@ corrosive and highly toxic. If accidentally contacted,
 please handle it as follows:
 
 ### Eye contact: Rinse with water in a cup or other
-`forthing_friday_rhd_en_f35ecbe4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:184 | doc_type:owners_manual
 
 container for at least 15 minutes and seek medical
 attention immediately.
@@ -9017,7 +8347,6 @@ skin with plenty of water and seek medical attention
 immediately.
 
 ### If you need to connect the 12V low-voltage
-`forthing_friday_rhd_en_8e939be4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:184 | doc_type:owners_manual
 
 battery to other chargers, disconnect both
 positive and negative cables to avoid damage
@@ -9034,7 +8363,6 @@ to cause serious injury. Please avoid driving
 near sparks and open flames.
 
 ### Replace the A/C filter
-`forthing_friday_rhd_en_f706358a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:184 | doc_type:owners_manual
 
 The A/C filter is located in the A/C box in front of the
 right floor air duct.
@@ -9046,7 +8374,6 @@ cover of the filter screen.
 2.
 
 ### Squeeze the upper and lower sides of the A/C
-`forthing_friday_rhd_en_4e141994` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:184 | doc_type:owners_manual
 
 filter screen to disengage it from the tabs on both
 sides, and remove the filter screen.
@@ -9055,7 +8382,6 @@ Insert a new A/C filter screen.
 4.
 
 ### When the A/C is not used for a long time
-`forthing_friday_rhd_en_ab3a1303` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:184 | doc_type:owners_manual
 
 The A/C shall be turned on at least once every two
 weeks for at least 5 minutes even in cold months. This
@@ -9064,7 +8390,6 @@ inside the compressor and to keep the A/C in the best
 operating condition.
 
 ### Care and maintenance
-`forthing_friday_rhd_en_916d4b78` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:185 | doc_type:owners_manual
 
 Tire
 For safe driving, the tire must be of the right model
@@ -9073,7 +8398,6 @@ Caution
 •
 
 ### Tire pressure label
-`forthing_friday_rhd_en_46694cd6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:185 | doc_type:owners_manual
 
 The vehicle is attached with tire pressure label. The
 label is located under the driver's door frame and
@@ -9084,7 +8408,6 @@ points:
 1.
 
 ### It is recommended to visually check the tire
-`forthing_friday_rhd_en_57238068` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:185 | doc_type:owners_manual
 
 before each driving.
 2.
@@ -9100,7 +8423,6 @@ reading, which will result in insufficient tire pressure.
 TPMS
 
 ### The TPMS is used to dynamically monitor the
-`forthing_friday_rhd_en_cfa31638` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:185 | doc_type:owners_manual
 
 pressure and temperature of the tire. When the tire
 pressure is abnormal, the instrument cluster will
@@ -9130,7 +8452,6 @@ km/h for 1 minute, and the tire pressure
 information interface will update the data.
 
 ### Maintaining proper tire pressure can achieve the best
-`forthing_friday_rhd_en_22bea963` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:185 | doc_type:owners_manual
 
 vehicle maneuverability, driving comfort and tire
 tread life.
@@ -9141,7 +8462,6 @@ are more likely to be damaged due to uneven road
 surface, and cause uneven tire wear.
 
 ### Tire inspection
-`forthing_friday_rhd_en_6b7515ee` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:185 | doc_type:owners_manual
 
 When checking the inflation state of the tire, check
 the tire for external damage, foreign body penetration
@@ -9154,7 +8474,6 @@ be replaced.
 Excessive tread wear.
 
 ### Care and maintenance
-`forthing_friday_rhd_en_e57767fe` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:186 | doc_type:owners_manual
 
 The tire must be kept in good condition, and the tire
 surface pattern shall be deep enough. The degree of
@@ -9164,7 +8483,6 @@ tire driving belt. If the tire tread thickness is less than
 adhesion when driving on slippery roads.
 
 ### Tire maintenance
-`forthing_friday_rhd_en_bb75eeab` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:186 | doc_type:owners_manual
 
 In addition to proper inflation, correct wheel
 alignment also helps to reduce tread wear. If you find
@@ -9173,7 +8491,6 @@ during driving, please contact the Forthing Special
 Service Station.
 
 ### Tire rotation
-`forthing_friday_rhd_en_d46aaf23` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:186 | doc_type:owners_manual
 
 In order to prolong the service life of the tire and
 make the tire wear evenly, the tire position shall be
@@ -9182,7 +8499,6 @@ carried out according to the method shown in the
 figure above.
 
 ### Wheel and tire specifications
-`forthing_friday_rhd_en_b1937e20` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:186 | doc_type:owners_manual
 
 Rim specifications: 18 × 6.5J (for specific model), 19
 × 7J.
@@ -9193,7 +8509,6 @@ tire label affixed under the driver's door frame, or
 contact the Forthing Special Service Station.
 
 ### Due to the limited applicability of summer tires in
-`forthing_friday_rhd_en_4146eb8d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:186 | doc_type:owners_manual
 
 winter, it is recommended to use winter tires on ice
 and snow-covered roads. Install the winter tires on all
@@ -9208,7 +8523,6 @@ not exceed the maximum rated speed of the tire
 during driving.
 
 ### Replacement of tire and wheel
-`forthing_friday_rhd_en_01f4fc22` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:186 | doc_type:owners_manual
 
 Radial tires of the same size, load range, rated
 rotational speed and maximum cold tire pressure
@@ -9220,7 +8534,6 @@ vehicle. Using tires of different sizes or structures
 will cause the ABS to fail to work properly.
 
 ### The ABS works by comparing the rotational speed of
-`forthing_friday_rhd_en_d47d0017` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:186 | doc_type:owners_manual
 
 the wheel, so when replacing the tire, you must use a
 tire with the same size as the original tire of the
@@ -9238,7 +8551,6 @@ the Forthing Special Service Station before replacing
 the wheel.
 
 ### Tire chain
-`forthing_friday_rhd_en_db7f9652` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:187 | doc_type:owners_manual
 
 The snow tire chain shall be installed on at least two
 driving wheels at the same time. It is forbidden to
@@ -9247,14 +8559,12 @@ rear wheels. Do not install the tire chain on the left or
 right side of the two wheels.
 
 ### The suggestions provided in this manual are for
-`forthing_friday_rhd_en_c7135ec0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:187 | doc_type:owners_manual
 
 reference only. The actual installation shall be subject
 to the communication results between the vehicle
 owner and the tire chain manufacturer.
 
 ### Press the hazard warning lamp switch above the A/C
-`forthing_friday_rhd_en_cad6c274` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:189 | doc_type:owners_manual
 
 control panel, the turn signal lamp and the turn signal
 indicator lamp and hazard warning lamp indicator
@@ -9262,7 +8572,6 @@ lamp on the instrument cluster will flash to remind
 pedestrians and passing vehicles to avoid the vehicle.
 
 ### The warning triangle is placed under the trunk lid and
-`forthing_friday_rhd_en_a0d0e65f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:189 | doc_type:owners_manual
 
 can be seen by lifting the lid.
 When an accident occurs during driving, try to stop
@@ -9273,14 +8582,12 @@ vehicle to remind the following vehicles, and turn on
 the hazard warning lamp at the same time.
 
 ### Your vehicle is equipped with emergency tools for
-`forthing_friday_rhd_en_5fac88fa` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:189 | doc_type:owners_manual
 
 car tire repair. Minor damage to the tire tread can be
 repaired using emergency tools for car tire repair. The
 tire repair kit is located under the trunk lid.
 
 ### Instructions for using emergency tools for car
-`forthing_friday_rhd_en_88140067` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:189 | doc_type:owners_manual
 
 tire repair
 1.
@@ -9293,7 +8600,6 @@ suitable distance.
 2.
 
 ### Take out the emergency tools for car tire repair
-`forthing_friday_rhd_en_04a50fa4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:189 | doc_type:owners_manual
 
 kit from the storage compartment under the trunk
 floor cover, and take out the inflator pump and tire
@@ -9301,7 +8607,6 @@ sealant bottle.
 3.
 
 ### Pull out the inflator pump hose and power
-`forthing_friday_rhd_en_d82a2e01` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:189 | doc_type:owners_manual
 
 supply cord, connect the inflator pump hose to the air
 inlet of the tire sealant bottle, and then tighten it.
@@ -9309,7 +8614,6 @@ Insert the tire sealant bottle into the fixing slot on the
 inflator pump and keep it upright.
 
 ### Unscrew the valve protective cap of the faulty
-`forthing_friday_rhd_en_20088c7c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:190 | doc_type:owners_manual
 
 tire, connect the hose of the tire sealant with the tire
 valve, and tighten it.
@@ -9336,7 +8640,6 @@ km to the nearest Forthing Special Service Station for
 help, and the vehicle speed shall not exceed 80 km/h.
 
 ### Emergency self-help treatment
-`forthing_friday_rhd_en_c462d120` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:191 | doc_type:owners_manual
 
 7.2 When the tire pressure is lower than 2.0 bar,
 please inflate it again with an inflator pump to the
@@ -9355,7 +8658,6 @@ Warning
 ●
 
 ### The emergency tools for car tire repair are only
-`forthing_friday_rhd_en_7217a9b5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:191 | doc_type:owners_manual
 
 limited to emergency repair of tires, which are
 suitable for short-term use to ensure that the
@@ -9368,7 +8670,6 @@ new one as soon as possible.
 ●
 
 ### Park the vehicle as far away from the traffic
-`forthing_friday_rhd_en_6cddc73b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:191 | doc_type:owners_manual
 
 flow as possible. If necessary, turn on the
 hazard warning indicator lamp and place a
@@ -9376,7 +8677,6 @@ warning triangle.
 ●
 
 ### The tire damage and wheel damage caused by
-`forthing_friday_rhd_en_5aca126f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:191 | doc_type:owners_manual
 
 driving at too low tire pressure will
 significantly reduce the driving safety of the
@@ -9407,7 +8707,6 @@ tank).
 ●
 
 ### The external temperature range for normal
-`forthing_friday_rhd_en_06193bdb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:191 | doc_type:owners_manual
 
 operation of the tire sealant is -30℃~70℃.
 ●
@@ -9428,7 +8727,6 @@ driving, and abrupt acceleration, emergency
 braking and fast turning shall be avoided.
 
 ### Preparation before tire replacement
-`forthing_friday_rhd_en_824e6280` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:192 | doc_type:owners_manual
 
 Park the vehicle on a flat ground that does not affect traffic and
 is convenient for safe wheel replacement. Before emergency
@@ -9441,13 +8739,11 @@ layer of the trunk, and take out the tools from the spare tire
 foam.
 
 ### Take out the spare tire
-`forthing_friday_rhd_en_c3380652` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:192 | doc_type:owners_manual
 
 Unscrew the center bolt that fixes the spare tire and take out
 the spare tire from the spare tire groove.
 
 ### Jack up the vehicle
-`forthing_friday_rhd_en_c0456a06` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:192 | doc_type:owners_manual
 
 Before jacking up the vehicle, place a piece of wood plug in
 front and behind the wheel diagonally opposite to the
@@ -9463,7 +8759,6 @@ bodywork may sag or an accident may occur when
 the vehicle falls.
 
 ### Take out the wheel nut cover clip from the on-board
-`forthing_friday_rhd_en_ef7f1679` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:192 | doc_type:owners_manual
 
 information bag. Take out the nut trim cover with the wheel
 nut cover clip.
@@ -9476,7 +8771,6 @@ jack. Tighten the wheel nut in the same cross pattern. Then
 install the nut trim cover with the wheel nut cover clip.
 
 ### Fix flat tire
-`forthing_friday_rhd_en_4e65303d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:192 | doc_type:owners_manual
 
 The method of installing a flat tire is the reverse of the steps of
 taking out the spare tire.
@@ -9484,7 +8778,6 @@ Caution
 •
 
 ### Check the inflation pressure of the spare tire
-`forthing_friday_rhd_en_85ba494e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:192 | doc_type:owners_manual
 
 frequently so that it can be used in an emergency at
 any time. Keep the spare tire inflation pressure at the
@@ -9505,7 +8798,6 @@ wheel first, and then the replaced wheel should be
 installed on the steering wheel.
 
 ### The effective repair diameter of this product is
-`forthing_friday_rhd_en_69e379d9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:193 | doc_type:owners_manual
 
 ≤6 mm, and the puncture can be pulled out for repair
 within this range; If the puncture is larger than this
@@ -9520,7 +8812,6 @@ hole face the 6 o'clock position directly below.
 3.
 
 ### When using this product at the ambient
-`forthing_friday_rhd_en_d7e53431` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:193 | doc_type:owners_manual
 
 temperature of (-40℃~0℃), please warm the product
 to above 0°C in the heater before use, so as to improve
@@ -9548,7 +8839,6 @@ this product.
 8.
 
 ### The storage temperature of this product is -40°C
-`forthing_friday_rhd_en_519f7151` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:193 | doc_type:owners_manual
 
 to 70°C. Avoid placing it in direct sunlight such as the
 front and rear windshields of the car. Do not contact
@@ -9560,7 +8850,6 @@ valve.
 2.
 
 ### Turn the red valve clockwise and put the bottle
-`forthing_friday_rhd_en_c98d9883` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:193 | doc_type:owners_manual
 
 upside down to start the inflation and tire repair.
 4.
@@ -9568,7 +8857,6 @@ After the tire sealant is filled, close the red valve
 counterclockwise and unscrew the connecting pipe.
 
 ### Replacing bulbs usually requires the removal of
-`forthing_friday_rhd_en_ad831254` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:193 | doc_type:owners_manual
 
 certain vehicle components, so professional skills are
 required to carry out the relevant operations,
@@ -9577,7 +8865,6 @@ replacement is required, please contact the Forthing
 Special Service Station.
 
 ### Headlamp calibration
-`forthing_friday_rhd_en_7042ebfd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:193 | doc_type:owners_manual
 
 When a new vehicle leaves the factory, the headlamp
 has been calibrated. If the trunk is often used to carry
@@ -9586,7 +8873,6 @@ recalibrated. Please contact the Forthing Special
 Service Station for headlamp calibration.
 
 ### Why does the glass surface of the headlamp
-`forthing_friday_rhd_en_4adad4ed` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:194 | doc_type:owners_manual
 
 sometimes appear "fogging"?
 Generally, the fog observed in the headlamp is
@@ -9611,7 +8897,6 @@ lamps.
 ●
 
 ### Wiper maintenance mode
-`forthing_friday_rhd_en_8e8adc02` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:194 | doc_type:owners_manual
 
 When the START/STOP button is in OFF position,
 pull up the wiper control handle, and the front wiper
@@ -9622,7 +8907,6 @@ ON position again, the front wiper will automatically
 return to its original position.
 
 ### Emergency self-help treatment
-`forthing_friday_rhd_en_675fee97` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:195 | doc_type:owners_manual
 
 1.
 After turning on the wiper maintenance mode,
@@ -9636,7 +8920,6 @@ operate in the reverse order to ensure that the wiper
 blade is installed in place correctly.
 
 ### Rear wiper blade replacement
-`forthing_friday_rhd_en_f7ecc252` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:195 | doc_type:owners_manual
 
 Check the rear wiper blade for wear or breakage.
 To replace the rear wiper blade, follow these steps:
@@ -9649,7 +8932,6 @@ human body.
 Caution
 
 ### The engine compartment fuse box is located on the
-`forthing_friday_rhd_en_1e6def8a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:195 | doc_type:owners_manual
 
 left front side of the engine compartment. Undo the
 buckles on the left and right sides of the fuse box, and
@@ -9660,7 +8942,6 @@ at the lower left corner of the driver's side. Remove
 the storage box to check the fuse.
 
 ### The fuse protects the electrical equipment of the
-`forthing_friday_rhd_en_8937e123` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:196 | doc_type:owners_manual
 
 vehicle by preventing the overload of electrical
 appliances in the circuit. A blown fuse indicates that
@@ -9670,7 +8951,6 @@ inspection and observe whether the wire in the fuse is
 blown.
 
 ### Replace the fuse
-`forthing_friday_rhd_en_2ae53fb5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:196 | doc_type:owners_manual
 
 There is a fuse puller in the indoor fuse box. Pull the
 fuse straight out of the fuse box with a puller. If the
@@ -9688,7 +8968,6 @@ electrical fault. At this time, contact the Forthing
 Special Service Station as soon as possible.
 
 ### Rear towing point
-`forthing_friday_rhd_en_a2d4be51` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:201 | doc_type:owners_manual
 
 If the vehicle needs to be towed, contact a
 professional vehicle towing service department. Do
@@ -9699,14 +8978,12 @@ The vehicle can be loaded on a truck, which is the best
 way to transport the vehicle.
 
 ### Insert two support arms into the bottom of the front
-`forthing_friday_rhd_en_041c6915` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:201 | doc_type:owners_manual
 
 wheels of the towed vehicle to lift the wheels off the
 ground, with the rear wheels still on the ground,
 which is a feasible method for towing the vehicle.
 
 ### Precautions for towing
-`forthing_friday_rhd_en_acb460b1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:201 | doc_type:owners_manual
 
 When wheel-lifting towing is adopted, the towing
 mileage should preferably not exceed 50 km, and the
@@ -9724,7 +9001,6 @@ position to release the steering wheel locking state,
 and set the shift lever to the N position.
 
 ### If it is necessary to achieve the non-parking function
-`forthing_friday_rhd_en_38a41e4e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:201 | doc_type:owners_manual
 
 in the power-off state, it can be achieved by the
 following operations:
@@ -9746,7 +9022,6 @@ conveyor-type automatic car wash, where you and the
 attendant cannot remain in the vehicle;
 
 ### The towing mode will also be used in towing and
-`forthing_friday_rhd_en_cd16034c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:201 | doc_type:owners_manual
 
 replacing the battery pack;
 After power-on again, if the power-off is performed
@@ -9754,14 +9029,12 @@ again, the EPB automatic clamping function will be
 triggered;
 
 ### If the vehicle cannot be started due to insufficient 12V
-`forthing_friday_rhd_en_685fc12c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:202 | doc_type:owners_manual
 
 low-voltage battery power, the jump cable can be
 used to start the vehicle with the help of the 12V lowvoltage battery on other vehicles. Jumper connection
 is dangerous and should be handled with caution.
 
 ### Operation steps
-`forthing_friday_rhd_en_c23cb2df` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:202 | doc_type:owners_manual
 
 1.
 Open the engine hood.
@@ -9771,7 +9044,6 @@ position, and pull up the EPB switch.
 3.
 
 ### Connect the negative cable clamp to the
-`forthing_friday_rhd_en_a70b3bc1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:202 | doc_type:owners_manual
 
 negative (-) terminal of the rescue vehicle battery.
 6.
@@ -9782,7 +9054,6 @@ unpainted metal part on the vehicle.
 7.
 
 ### Start the rescue vehicle and keep it running for
-`forthing_friday_rhd_en_72a47002` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:202 | doc_type:owners_manual
 
 about 5 min to charge the 12V low-voltage battery of
 the vehicle.
@@ -9796,14 +9067,12 @@ the vehicle as soon as possible.
 Warning
 
 ### When jump starting with a jumper cable from
-`forthing_friday_rhd_en_41f35c88` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:202 | doc_type:owners_manual
 
 another vehicle, it is necessary to follow the
 instructions properly. Incorrect operation steps
 may cause fire, explosion or damage to the vehicle.
 
 ### If the power system fault warning lamp on the
-`forthing_friday_rhd_en_de365506` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:202 | doc_type:owners_manual
 
 instrument cluster is on, check immediately
 according to the following steps:
@@ -9839,7 +9108,6 @@ reinstall and tighten the fluid reservoir cover.
 Warning
 
 ### Removing the expansion tank cover when the drive
-`forthing_friday_rhd_en_becb4ddb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:202 | doc_type:owners_manual
 
 motor is very hot can cause coolant to spray out,
 causing serious burns. Be sure to remove the
@@ -9851,7 +9119,6 @@ Vehicle identification information ..... 203
 12V low-voltage battery warning sign
 
 ### There are several vehicle identification numbers
-`forthing_friday_rhd_en_b27eae43` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:204 | doc_type:owners_manual
 
 (VINs) on your vehicle, which are located in different
 locations.
@@ -9871,7 +9138,6 @@ It is pasted on the right B-pillar inner panel.
 6.
 
 ### It is pasted on the right front wall A-pillar inner
-`forthing_friday_rhd_en_3173cce6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:204 | doc_type:owners_manual
 
 panel.
 7.
@@ -9886,7 +9152,6 @@ information of the vehicle through the OBD
 diagnostic port.
 
 ### The drive motor flexible label is located on the left
-`forthing_friday_rhd_en_3dbe5dae` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:205 | doc_type:owners_manual
 
 front of the motor housing. The information content
 is consistent with the drive motor steel code, which is
@@ -9899,7 +9164,6 @@ and shall be ventilated during charging and use to
 prevent accidents.
 
 ### The radiator warning sign and the A/C refrigerant
-`forthing_friday_rhd_en_5010e766` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:205 | doc_type:owners_manual
 
 sign are affixed to the upper inside engine hood.
 When replacing the coolant, use the coolant specified
@@ -9908,7 +9172,6 @@ mixed. Do not touch the radiator, as the cooling fan
 may rotate at any time.
 
 ### The microwave window of the vehicle is located
-`forthing_friday_rhd_en_0903ea3d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:206 | doc_type:owners_manual
 
 horizontally in the middle and vertically on the top of
 the front windshield. The identification contains the
@@ -9919,7 +9182,6 @@ Caution
 ●
 
 ### Do not paste film or metal materials at the
-`forthing_friday_rhd_en_c46dc7c8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:206 | doc_type:owners_manual
 
 microwave window position to ensure the
 standard installation of the vehicle electronic
@@ -9927,11 +9189,7 @@ identification and the effective reading of the
 data.
 
 
-# Manual: forthing/friday_rhd (754 chunks)
-<!-- doc_type:owners_manual tier:2 lang:en source:forthing_friday_rhd_en.pdf -->
-
 ### Untitled
-`forthing_friday_rhd_en_e3374ed3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 Foreword
 Dear users,
@@ -9959,7 +9217,6 @@ Bon voyage!
 Dongfeng Liuzhou Motor Co., Ltd.
 
 ### March 2025
-`forthing_friday_rhd_en_065235d4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:2 | doc_type:owners_manual
 
 All rights reserved. No part of this Manual may be reproduced or copied without the written consent of Dongfeng
 Liuzhou Motor Co., Ltd.
@@ -9967,13 +9224,11 @@ Note: The cover and pictures of this Manual are for reference only, and the real
 Foreword
 
 ### Configuration description
-`forthing_friday_rhd_en_59b26506` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:3 | doc_type:owners_manual
 
 An asterisk "*" that appears after the title or name indicates that the described device or function is only equipped
 in some models, and the vehicle you purchased may not be equipped with it.
 
 ### Safety instructions
-`forthing_friday_rhd_en_0fe799cd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:3 | doc_type:owners_manual
 
 Safety signs - affixed to the vehicle.
 Safety tips - marked with hazard warning symbols and the words "Danger", "Warning" or "Caution". The meanings
@@ -9988,13 +9243,11 @@ Contents
 Contents
 
 ### Instrument cluster
-`forthing_friday_rhd_en_55446ca6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:9 | doc_type:owners_manual
 
 Note: The mobile phone holder interface is only applicable to the mobile phone holder with 4-point thread
 connection
 
 ### Long-term Parked Vehicles
-`forthing_friday_rhd_en_316b3be3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:12 | doc_type:owners_manual
 
 If the vehicle needs to be parked for a long time, the
 following preparations shall be made. Proper
@@ -10004,7 +9257,6 @@ possible, park the vehicle indoors.
 1.
 
 ### Long-term storage of the vehicle in a traction
-`forthing_friday_rhd_en_13759807` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:12 | doc_type:owners_manual
 
 battery SOC low state will cause irrecoverable
 damage to the traction battery. Therefore, when the
@@ -10019,7 +9271,6 @@ backward sliding.
 4.
 
 ### Disconnect the 12V low-voltage battery wiring
-`forthing_friday_rhd_en_05ce07d9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:12 | doc_type:owners_manual
 
 and use insulating glue
 The cable joints shall be insulated and protected.
@@ -10042,7 +9293,6 @@ may deteriorate. In this case, contact the Forthing
 Special Service Station as soon as possible.
 
 ### If the power system fault warning lamp on the
-`forthing_friday_rhd_en_269c9091` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:12 | doc_type:owners_manual
 
 instrument cluster is on, check immediately
 according to the following steps:
@@ -10075,7 +9325,6 @@ If not, please contact the Forthing Special Service
 Station as soon as possible.
 
 ### Traction battery recycling
-`forthing_friday_rhd_en_8911f58b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:12 | doc_type:owners_manual
 
 According to relevant regulations, when the traction
 battery needs maintenance and replacement, the
@@ -10096,7 +9345,6 @@ safety accidents, the corresponding responsibilities
 shall be borne by itself or himself.
 
 ### Charging precautions
-`forthing_friday_rhd_en_26eddf1c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:13 | doc_type:owners_manual
 
 1.
 After charging, make sure that the charging
@@ -10113,7 +9361,6 @@ in the "Emergency Self-help Treatment" section.
 3.
 
 ### Do not insert objects other than the charging
-`forthing_friday_rhd_en_0625aa52` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:13 | doc_type:owners_manual
 
 connector into the charging interface. This may
 damage the charging interface.
@@ -10127,7 +9374,6 @@ on-board charging gun for charging.
 5.
 
 ### The traction battery temperature is not equal to
-`forthing_friday_rhd_en_1d2e50e4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:13 | doc_type:owners_manual
 
 the ambient temperature, and the temperature of the
 traction battery is basically consistent with the
@@ -10136,7 +9382,6 @@ placed in the environment for about 12~18 h.
 7.
 
 ### The traction battery is a ternary material battery
-`forthing_friday_rhd_en_7d3ede36` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:13 | doc_type:owners_manual
 
 or lithium-ion material battery, and its electrolyte is
 chemical material. Due to the composition and
@@ -10145,7 +9390,6 @@ traction battery at low temperature may lead to its
 service life degradation and potential safety hazards.
 
 ### It is recommended to charge the traction battery at a
-`forthing_friday_rhd_en_9260ed97` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:13 | doc_type:owners_manual
 
 temperature above 0°C as much as possible.
 8.
@@ -10213,7 +9457,6 @@ current appropriately according to the performance of
 the traction battery.
 
 ### Do not insert AC charging gun and DC
-`forthing_friday_rhd_en_d4ac294c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:14 | doc_type:owners_manual
 
 charging gun at the same time for charging.
 After charging, do not pull out the charging gun
@@ -10224,7 +9467,6 @@ Warning
 •
 
 ### If you use medical equipment (such as a
-`forthing_friday_rhd_en_0de0a2c2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:14 | doc_type:owners_manual
 
 transplanted
 cardiac
@@ -10244,7 +9486,6 @@ cases.
 •
 
 ### Do not disassemble or change the charging
-`forthing_friday_rhd_en_bfefecee` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:14 | doc_type:owners_manual
 
 interface, on-board charging gun, on-board
 discharging gun or AC charging pile.
@@ -10267,7 +9508,6 @@ duration.
 •
 
 ### When the external power grid resumes power
-`forthing_friday_rhd_en_7cbd80be` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:14 | doc_type:owners_manual
 
 supply after a short-term power outage, the
 charging
@@ -10280,7 +9520,6 @@ several times, please stop charging and check
 whether the power supply is normal.
 
 ### Charging system
-`forthing_friday_rhd_en_4ba2bf57` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:15 | doc_type:owners_manual
 
 •
 When the vehicle is charging, if there is a large
@@ -10293,7 +9532,6 @@ system will automatically stop charging.
 •
 
 ### When using a portable household AC charging
-`forthing_friday_rhd_en_d0afdde5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:15 | doc_type:owners_manual
 
 gun, pull out the AC charging gun first and
 then disconnect the power supply plug when
@@ -10312,7 +9550,6 @@ circuit.
 •
 
 ### If you notice an irritant odor or see smoke
-`forthing_friday_rhd_en_9f6b76b7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:15 | doc_type:owners_manual
 
 coming from the vehicle, please stop charging
 or discharging immediately and move away
@@ -10327,7 +9564,6 @@ conditions is found, do not charge the vehicle.
 •
 
 ### The charging equipment must be well
-`forthing_friday_rhd_en_6e44a389` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:suspension | p:15 | doc_type:owners_manual
 
 grounded. If the charging equipment fails or is
 damaged, the grounding wire can reduce the
@@ -10338,7 +9574,6 @@ charging connector has been removed from
 the charging interface.
 
 ### Green lamp flashes
-`forthing_friday_rhd_en_ac3f68a6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:16 | doc_type:owners_manual
 
 (breathing), and red/blue
 lamp is off
@@ -10349,7 +9584,6 @@ red/blue lamp is off
 Fault table:
 
 ### Charging is
-`forthing_friday_rhd_en_41327f96` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:16 | doc_type:owners_manual
 
 prohibited; the red
 lamp is on for 6
@@ -10362,14 +9596,12 @@ charging gun shall be subject to the instruction
 manual of the equipment.
 
 ### The AC charging interface is located in the center of
-`forthing_friday_rhd_en_bb70fa50` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:17 | doc_type:owners_manual
 
 the front face of the vehicle.
 The upper part is the AC interface, and the lower part
 is the DC interface.
 
 ### Opening and closing of AC charging port cap
-`forthing_friday_rhd_en_dce6c95b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:17 | doc_type:owners_manual
 
 Open
 When the vehicle needs charging, press the AC
@@ -10383,7 +9615,6 @@ port cap, and close the AC charging port cap to lock
 it.
 
 ### AC charging port lock
-`forthing_friday_rhd_en_6e79beb7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:17 | doc_type:owners_manual
 
 If the AC charging interface is in the locked state,
 press the button to stop charging, and the charging
@@ -10392,7 +9623,6 @@ locked state to the unlocked state. At this time, the
 charging gun can be pulled out normally.
 
 ### Opening and closing of DC charging port cap
-`forthing_friday_rhd_en_d8d6a1ce` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:17 | doc_type:owners_manual
 
 Open
 When the vehicle needs charging, press the DC
@@ -10401,7 +9631,6 @@ out the DC charging interface cover, and connect the
 charging device with the charging interface.
 
 ### Charging system
-`forthing_friday_rhd_en_78fdf5e0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:18 | doc_type:owners_manual
 
 Close
 After charging, pull out the DC charging gun, cover
@@ -10410,7 +9639,6 @@ port cap, and close the DC charging port cap to lock
 it.
 
 ### DC charging interface lock
-`forthing_friday_rhd_en_2e8652bb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:18 | doc_type:owners_manual
 
 If the DC charging interface is locked, press the
 unlocking button on the smart key, and the charging
@@ -10419,7 +9647,6 @@ the locked state to the unlocked state. At this time, the
 charging gun can be pulled out normally.
 
 ### AC charging with household on-
-`forthing_friday_rhd_en_16885882` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:18 | doc_type:owners_manual
 
 board charging gun*
 Operation steps*:
@@ -10436,14 +9663,12 @@ phenomena may occur:
 a)
 
 ### Take out the toolkit with on-board charging
-`forthing_friday_rhd_en_d3d5a713` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:18 | doc_type:owners_manual
 
 equipment from the vehicle trunk, and take out the
 on-board charging gun from the toolkit.
 5.
 
 ### Check whether the three-pin socket of
-`forthing_friday_rhd_en_c74f31ac` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:18 | doc_type:owners_manual
 
 household power supply is reliable grounding.
 7.
@@ -10454,7 +9679,6 @@ the charging gun again.
 8.
 
 ### Install the on-board charging gun cover and pull
-`forthing_friday_rhd_en_563166ea` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:18 | doc_type:owners_manual
 
 the on-board charging gun plug out of the power
 supply. And wrap the on-board charging gun and put
@@ -10462,7 +9686,6 @@ it back into the charging kit.
 9.
 
 ### Place the charging kit in the specified position
-`forthing_friday_rhd_en_fbddc65f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:18 | doc_type:owners_manual
 
 under the trunk lid to prevent it from moving freely
 with the bumping of the vehicle.
@@ -10476,14 +9699,12 @@ withstand shall not be lower than the rated current
 on the nameplate of the AC charging socket.
 
 ### The charging system will automatically adjust the
-`forthing_friday_rhd_en_0444c6e4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:18 | doc_type:owners_manual
 
 charging duration according to the temperature
 changes to ensure the best performance of the traction
 battery.
 
 ### Charging pile
-`forthing_friday_rhd_en_5430de8b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:19 | doc_type:owners_manual
 
 initialization
 setting
@@ -10508,7 +9729,6 @@ to the charging
 interface
 
 ### Abnormal state
-`forthing_friday_rhd_en_260e4128` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:19 | doc_type:owners_manual
 
 occurs due to
 damage
@@ -10541,7 +9761,6 @@ Service
 Center.
 
 ### Check whether two
-`forthing_friday_rhd_en_188040e4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:20 | doc_type:owners_manual
 
 short
 tones
@@ -10566,7 +9785,6 @@ the customer service
 center.
 
 ### The red fault
-`forthing_friday_rhd_en_c9c2ac69` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:20 | doc_type:owners_manual
 
 indicator lamp
 flashes
@@ -10586,7 +9804,6 @@ contact the Customer
 Service Center.
 
 ### The red fault
-`forthing_friday_rhd_en_f74ad50f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:20 | doc_type:owners_manual
 
 indicator lamp is
 always on
@@ -10628,7 +9845,6 @@ phenomena may occur:
 a)
 
 ### Connect the charging gun plug to the AC
-`forthing_friday_rhd_en_68dbb270` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:20 | doc_type:owners_manual
 
 charging interface on the vehicle. If the connection is
 normal, the charging connection indicator lamp on
@@ -10649,7 +9865,6 @@ unlocking.
 9.
 
 ### Turn off the power supply of the AC charging
-`forthing_friday_rhd_en_2f32d60c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:20 | doc_type:owners_manual
 
 pile, and put the charging gun on the AC charging pile
 back to the designated position.
@@ -10658,7 +9873,6 @@ cover, press the left side of the AC charging port cap,
 and close the AC charging port cap to lock it.
 
 ### Please confirm that the instrument cluster
-`forthing_friday_rhd_en_f08f966f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:21 | doc_type:owners_manual
 
 shows the traction battery SOC is greater than 30%.
 Caution
@@ -10674,7 +9888,6 @@ Press the switch on the power strip to discharge.
 Caution
 
 ### When the vehicle is discharged for a period of time
-`forthing_friday_rhd_en_af2aa9d9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:21 | doc_type:owners_manual
 
 and the traction battery SOC is lower than 30%, the
 discharge will be automatically stopped.
@@ -10699,7 +9912,6 @@ Caution
 •
 
 ### The 220 V AC discharge shares the same
-`forthing_friday_rhd_en_f4fc4038` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:21 | doc_type:owners_manual
 
 charging interface with the AC slow
 charging, so the automatic lock and unlock
@@ -10715,7 +9927,6 @@ Warning
 ●
 
 ### Do not store or use discharge equipment in
-`forthing_friday_rhd_en_3c966ee4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:21 | doc_type:owners_manual
 
 places with water or near heat sources.
 ●
@@ -10729,7 +9940,6 @@ may cause safety accidents.
 ●
 
 ### Do not use the discharge equipment when the
-`forthing_friday_rhd_en_f913e895` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:21 | doc_type:owners_manual
 
 insulation layer is damaged or the power strip
 is damaged.
@@ -10749,7 +9959,6 @@ total electrical power should not exceed 3
 kW; otherwise it may cause safety accidents.
 
 ### Charging with DC charging pile
-`forthing_friday_rhd_en_56c63725` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:22 | doc_type:owners_manual
 
 Operation steps*:
 1.
@@ -10764,7 +9973,6 @@ phenomena may occur:
 a)
 
 ### Insert the DC charging gun into the DC
-`forthing_friday_rhd_en_70daa840` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:22 | doc_type:owners_manual
 
 charging interface.
 5. Perform DC charging according to the operating
@@ -10778,7 +9986,6 @@ instructions of the DC charging pile.
 7.
 
 ### Pull out the charging gun after charging and put
-`forthing_friday_rhd_en_fc3caf4d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:22 | doc_type:owners_manual
 
 it back to the original position.
 8.
@@ -10798,7 +10005,6 @@ recommended to contact the Forthing Special Service
 Station for inspection of the vehicle.
 
 ### DIN 70121 and ISO/IEC15118 for DC
-`forthing_friday_rhd_en_9b741681` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:23 | doc_type:owners_manual
 
 charging. Otherwise, it may cause failure or
 fire, resulting in casualties.
@@ -10811,7 +10017,6 @@ instructions.
 ●
 
 ### It is strictly forbidden to plug and unplug the
-`forthing_friday_rhd_en_210d127d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:23 | doc_type:owners_manual
 
 DC charging gun at will during charging. To
 stop charging, please strictly follow the
@@ -10824,14 +10029,12 @@ time, and the DC charging gun will be pulled
 out after the charging pile stops operating.
 
 ### On the premise that the DC charging pile can output
-`forthing_friday_rhd_en_d09f50ae` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:24 | doc_type:owners_manual
 
 80 kw charging power, the estimated time for the
 traction battery to charge from 0% to 80% is shown
 in the table below:
 
 ### About 2h
-`forthing_friday_rhd_en_72250975` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:24 | doc_type:owners_manual
 
 During the charging process, the traction battery
 temperature and the power grid voltage changes will
@@ -10843,7 +10046,6 @@ traction battery temperature, the longer the required
 charging duration.
 
 ### In order to prolong the service life of the traction
-`forthing_friday_rhd_en_37138e4b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:24 | doc_type:owners_manual
 
 battery, the charging current requested by the vehicle
 from the DC charging pile will gradually decrease
@@ -10862,7 +10064,6 @@ multiple charging piles, it is recommended to contact
 the Forthing Special Service Station.
 
 ### When driving in cold weather and looking for a fast
-`forthing_friday_rhd_en_5ae3468e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:24 | doc_type:owners_manual
 
 charger, press the [Pre-heating] switch on the display
 about 1 h in advance to turn on the pre-heating
@@ -10871,7 +10072,6 @@ battery to the most suitable temperature range before
 charging, so as to shorten the fast charging duration.
 
 ### It is recommended that when the ambient temperature
-`forthing_friday_rhd_en_fbbfae53` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:24 | doc_type:owners_manual
 
 is less than 10℃, the remaining traction battery SOC
 on the instrument cluster is greater than 25% and the
@@ -10879,7 +10079,6 @@ fast charging time needs to be shortened, the traction
 battery pre-heating function shall be turned on.
 
 ### Charging system
-`forthing_friday_rhd_en_204df0d5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:25 | doc_type:owners_manual
 
 Caution
 •
@@ -10891,7 +10090,6 @@ pre-heating function cannot be turned on.
 •
 
 ### Click [Charging Reservation Setting] to turn
-`forthing_friday_rhd_en_059f8327` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:26 | doc_type:owners_manual
 
 on/off the charging reservation function.
 2.
@@ -10906,7 +10104,6 @@ The AC charging gun is not plugged in.
 •
 
 ### The charging pile does not work (including
-`forthing_friday_rhd_en_3d8d9689` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:26 | doc_type:owners_manual
 
 power grid outage, charging pile failure,
 etc.).
@@ -10921,7 +10118,6 @@ reservation will continue to be timed.
 •
 
 ### When [Start/End Mode] is used for
-`forthing_friday_rhd_en_b28d3bf2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:26 | doc_type:owners_manual
 
 appointment setting, if the start time and end
 time are set to be the same, it means that the
@@ -10929,7 +10125,6 @@ interval between the start time and the end
 time is 24 h.
 
 ### The traction battery heating function can be turned on
-`forthing_friday_rhd_en_4aead299` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:26 | doc_type:owners_manual
 
 through the display. After the traction battery is fully
 charged in cold weather, the traction battery heating
@@ -10939,7 +10134,6 @@ suitable temperature range and improve the vehicle
 endurance range.
 
 ### This function will give priority to using the
-`forthing_friday_rhd_en_cf759b85` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:26 | doc_type:owners_manual
 
 electric energy of the charging pile to keep the
 traction battery warm at low temperatures, improving
@@ -10949,7 +10143,6 @@ of charging.
 3.
 
 ### This function can be selected to be turned on
-`forthing_friday_rhd_en_c32cc876` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:26 | doc_type:owners_manual
 
 every day or only once, and the insulation time can be
 selected as needed.
@@ -10964,7 +10157,6 @@ activated after the battery is fully charged.
 •
 
 ### Both AC charging
-`forthing_friday_rhd_en_98d13817` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:27 | doc_type:owners_manual
 
 gun and DC charging
 gun are connected
@@ -10978,7 +10170,6 @@ not
 properly connected
 
 ### Check the traction battery temperature to ensure that the traction
-`forthing_friday_rhd_en_478b9b03` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:27 | doc_type:owners_manual
 
 battery temperature is within the allowable range. If it is too hot or too
 cold, cooling or heating is required before charging.
@@ -10991,7 +10182,6 @@ before charging. Please refer to the section "Jump Start" in Chapter
 VIII "Emergency Fault Troubleshooting".
 
 ### The vehicle is faulty
-`forthing_friday_rhd_en_6e721070` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:27 | doc_type:owners_manual
 
 If the vehicle is faulty, please confirm whether the warning lamp on
 the instrument cluster is on or indicates a charging fault. If a warning
@@ -10999,7 +10189,6 @@ or a prompt indicating a charging fault is displayed, stop charging and
 contact the Forthing Special Service Station.
 
 ### The traction battery
-`forthing_friday_rhd_en_5127bf4e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:27 | doc_type:owners_manual
 
 has been charged to
 the set level
@@ -11021,7 +10210,6 @@ supply is not powered
 normally
 
 ### The traction battery is
-`forthing_friday_rhd_en_c2e5a581` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:27 | doc_type:owners_manual
 
 saturated
 Unplug the charging gun, start the vehicle, and check whether the SOC
@@ -11029,7 +10217,6 @@ pointer of the vehicle points to 100%. If 100% has been indicated, the
 traction battery SOC is full and the charging is stopped.
 
 ### Charging reservation
-`forthing_friday_rhd_en_197bd2d7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:27 | doc_type:owners_manual
 
 is set
 Check whether the charging reservation is set and the reservation time
@@ -11048,7 +10235,6 @@ still displayed after replacement, it is recommended to contact the
 Forthing Special Service Station for inspection.
 
 ### Charging facilities do
-`forthing_friday_rhd_en_e0a15c51` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:27 | doc_type:owners_manual
 
 not
 meet
@@ -11058,7 +10244,6 @@ Use the charging gun provided with the vehicle or the charging pile
 meeting the CCS2 requirements for charging.
 
 ### Unable to perform
-`forthing_friday_rhd_en_c7b6c574` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:28 | doc_type:owners_manual
 
 the
 charging
@@ -11091,7 +10276,6 @@ stops
 halfway
 
 ### The power supply is
-`forthing_friday_rhd_en_8550a0d1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:28 | doc_type:owners_manual
 
 disconnected
 Check whether the power supply is disconnected. If it is disconnected,
@@ -11104,7 +10288,6 @@ Check whether the charging gun is disconnected. If it is disconnected,
 connect it and then perform the charging steps again for charging.
 
 ### Both AC charging
-`forthing_friday_rhd_en_14679594` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:28 | doc_type:owners_manual
 
 gun and DC charging
 gun are connected
@@ -11123,7 +10306,6 @@ battery
 overtemperature
 
 ### Check the traction battery temperature to ensure that the traction
-`forthing_friday_rhd_en_0c8069d0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:28 | doc_type:owners_manual
 
 battery temperature is within the allowable range. If it is overheated,
 please cool it down for a period of time before recharging.
@@ -11137,7 +10319,6 @@ pressed. If pressed, the charging equipment shall be started for
 recharging.
 
 ### The power supply is
-`forthing_friday_rhd_en_8550a0d1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:28 | doc_type:owners_manual
 
 disconnected
 Check whether the power supply is disconnected. If it is disconnected,
@@ -11151,7 +10332,6 @@ disconnected, connect it and then perform the discharging steps again
 for discharging.
 
 ### The discharging gun
-`forthing_friday_rhd_en_8d7296e4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:28 | doc_type:owners_manual
 
 and the DC charging
 gun are connected at
@@ -11163,13 +10343,11 @@ battery
 overtemperature
 
 ### Check the traction battery temperature to ensure that the traction
-`forthing_friday_rhd_en_0c8069d0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:28 | doc_type:owners_manual
 
 battery temperature is within the allowable range. If it is overheated,
 please cool it down for a period of time before discharging.
 
 ### Several types of collisions during which
-`forthing_friday_rhd_en_35cec815` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:29 | doc_type:owners_manual
 
 front side airbag and side curtain airbag
 Protective measures for children .... 34
@@ -11182,7 +10360,6 @@ Installation of auxiliary seat cushion ... 38
 Installation of ISOFIX interface .......... 39
 
 ### Precautions for seat belt
-`forthing_friday_rhd_en_6d7da9f2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:30 | doc_type:owners_manual
 
 Before driving the vehicle, be sure to read this chapter,
 which will help you get familiar with the correct
@@ -11200,7 +10377,6 @@ accident.
 •
 
 ### When the vehicle encounters an accident and
-`forthing_friday_rhd_en_954b278f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:30 | doc_type:owners_manual
 
 emergency brake, the seat belt will restrain
 the driver and passengers on the seat to
@@ -11210,7 +10386,6 @@ secondary collision.
 •
 
 ### When a child safety seat is placed on the seat
-`forthing_friday_rhd_en_fc7180d1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:30 | doc_type:owners_manual
 
 or the passenger in the front seat is not
 suitable for fastening the seat belt, it is only
@@ -11226,7 +10401,6 @@ abdomen, increasing the risk of injury.
 •
 
 ### The shoulder seat belt shall be adjusted to the
-`forthing_friday_rhd_en_b9c0b15a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:30 | doc_type:owners_manual
 
 most suitable position. Do not place the
 shoulder seat belt under the arm. The seat
@@ -11236,7 +10410,6 @@ and the risk of injury will be increased.
 •
 
 ### Pregnant women should also fasten the seat
-`forthing_friday_rhd_en_d87593cc` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:30 | doc_type:owners_manual
 
 belt across the hips as low as possible, and
 the shoulder seat belt should be stretched
@@ -11253,7 +10426,6 @@ allow children to sit on the front seat.
 •
 
 ### Only one seat belt is allowed for each
-`forthing_friday_rhd_en_724a4cc7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:30 | doc_type:owners_manual
 
 passenger. Do not hold the baby or child in
 your arms and then bypass them to fasten the
@@ -11266,7 +10438,6 @@ neck or slip off the shoulder.
 2.
 
 ### Adjust the position of the seat backrest so that
-`forthing_friday_rhd_en_1fa7eb10` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:30 | doc_type:owners_manual
 
 the backrest is in a relatively comfortable position.
 4.
@@ -11280,7 +10451,6 @@ To unfasten the seat belt, press the release
 button on the buckle.
 
 ### Press the upper part of the seat belt shoulder
-`forthing_friday_rhd_en_8ee5de21` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:31 | doc_type:owners_manual
 
 strap height adjuster, move it up and down to the
 desired position and release it until a "click" sound is
@@ -11288,7 +10458,6 @@ heard.
 2.
 
 ### Seat belt pretensioner *
-`forthing_friday_rhd_en_bdef4710` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:31 | doc_type:owners_manual
 
 In the event of a severe frontal or side collision upon
 the vehicle, the seat belt pretensioner will be
@@ -11305,7 +10474,6 @@ the
 pretensioner may not be activated.
 
 ### The vehicle is equipped with a warning lamp for the
-`forthing_friday_rhd_en_ab90767f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:31 | doc_type:owners_manual
 
 seat belt not fastened. When it is detected that the
 driver's and passenger's seat belts are not fastened, the
@@ -11315,7 +10483,6 @@ alarm until the driver and passenger fasten their seat
 belts.
 
 ### Seat belt retractor
-`forthing_friday_rhd_en_2dec9fc1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:31 | doc_type:owners_manual
 
 Each seat belt is equipped with a seat belt retractor.
 During normal driving, the retractor keeps the seat
@@ -11334,7 +10501,6 @@ please contact the Forthing Special Service
 Station.
 
 ### Safety and protection
-`forthing_friday_rhd_en_e45a571d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
 
 Airbag
 When the vehicle has a frontal or side collision to the
@@ -11344,7 +10510,6 @@ impact injury to the head and chest of the driver and
 passenger.
 
 ### There is an airbag warning label on the left sun
-`forthing_friday_rhd_en_d9791a34` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
 
 visor. Do not place a rear-facing child safety seat on
 a seat protected by the airbag (in the activated state);
@@ -11354,7 +10519,6 @@ cause serious injury.
 2.
 
 ### Do not place any objects on the dashboard or
-`forthing_friday_rhd_en_b44b93d5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
 
 stick them on the steering wheel trim cover, etc.,
 because when the airbag is deployed, these objects
@@ -11369,7 +10533,6 @@ or death to passengers.
 4.
 
 ### Do not touch any related components
-`forthing_friday_rhd_en_9cdd4613` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:32 | doc_type:owners_manual
 
 immediately after the airbag is deployed.
 5.
@@ -11378,7 +10541,6 @@ be heard, which may temporarily affect the hearing.
 6.
 
 ### If you feel difficulty in breathing after the
-`forthing_friday_rhd_en_ea9b017d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:32 | doc_type:owners_manual
 
 airbag is deployed, please open the door or window
 for ventilation, or leave the vehicle under the
@@ -11387,14 +10549,12 @@ your body as soon as possible to avoid skin irritation.
 7.
 
 ### Side curtain airbag*
-`forthing_friday_rhd_en_c8808206` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:33 | doc_type:owners_manual
 
 Side curtain airbag help protect the heads of driver,
 front passenger and rear outboard passengers.
 Warning
 
 ### Due to the considerable speed and force of the
-`forthing_friday_rhd_en_202f1ae9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:33 | doc_type:owners_manual
 
 front side airbag and side curtain airbag when they
 are deployed, it is forbidden to get your head close
@@ -11403,13 +10563,11 @@ curtain when the vehicle is running; otherwise you
 may be injured.
 
 ### When the vehicle is in a moderate to severe side
-`forthing_friday_rhd_en_607dd3b2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:33 | doc_type:owners_manual
 
 collision and reaches the design value, the front side
 airbag and side curtain airbag can deploy.
 
 ### Several types of collisions in which front
-`forthing_friday_rhd_en_fc25e35c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:34 | doc_type:owners_manual
 
 airbag may not deploy
 The front airbag will not deploy in the event of a side
@@ -11419,7 +10577,6 @@ forward deceleration, the front airbag may deploy.
 1.
 
 ### If the vehicle part suffering side collision is at an
-`forthing_friday_rhd_en_55c3a80c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:34 | doc_type:owners_manual
 
 angle to the body, or is not the passenger
 compartment, the front side airbag and side curtain
@@ -11433,7 +10590,6 @@ deploy.
 1.
 
 ### Vehicle VIN
-`forthing_friday_rhd_en_c0833f46` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:35 | doc_type:owners_manual
 
 /
 The EDR system is integrated in the airbag controller,
@@ -11446,7 +10602,6 @@ comes from the wheel line speed of the anti-lock
 brake system (ABS) in the vehicle.
 
 ### The data recorded by the EDR system is divided into
-`forthing_friday_rhd_en_9bc04d63` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:35 | doc_type:owners_manual
 
 non-locking event data and locking event data.
 Among them, the former is the data recorded when
@@ -11460,7 +10615,6 @@ the data of subsequent events, and event data can be
 recorded three times.
 
 ### Suitable protective devices should be used for
-`forthing_friday_rhd_en_a0ae23a8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:35 | doc_type:owners_manual
 
 children.
 When a child is too young to wear a seat belt, he or
@@ -11468,7 +10622,6 @@ she shall be placed in an approved child protective
 device in the rear row.
 
 ### Older children must be protected by a three-point seat
-`forthing_friday_rhd_en_613d62c3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:35 | doc_type:owners_manual
 
 belt and, if necessary, an auxiliary safety seat cushion
 should be installed.
@@ -11481,7 +10634,6 @@ Warning
 ●
 
 ### Children may start the vehicle or shift the
-`forthing_friday_rhd_en_4222cfc2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:35 | doc_type:owners_manual
 
 shift lever to N position. Children may also
 injure themselves when playing with
@@ -11494,7 +10646,6 @@ in a closed vehicle due to excessive
 temperature.
 
 ### Protective measures for infants
-`forthing_friday_rhd_en_5962edf0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:35 | doc_type:owners_manual
 
 The neck of infants under one year old is very fragile.
 If they are seated facing forward, it is easy to cause
@@ -11503,7 +10654,6 @@ is recommended to use rear-facing child protective
 devices.
 
 ### According to the weight and height requirements
-`forthing_friday_rhd_en_79e82236` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:36 | doc_type:owners_manual
 
 specified by the child protection device manufacturer,
 children over one year old shall use forward-facing
@@ -11515,13 +10665,11 @@ does not fit well, an auxiliary seat cushion can be
 installed for the child.
 
 ### The child protection device shall be provided by the
-`forthing_friday_rhd_en_198e8b61` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:36 | doc_type:owners_manual
 
 user. Please use the child protection device that meets
 the GB27887-2011 standard.
 
 ### Applicability of child seat
-`forthing_friday_rhd_en_37c55cd6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:37 | doc_type:owners_manual
 
 In addition to the three-point seat belt for children, the rear seat also provides two standard "ISOFIX" child restraint
 system, which can be selected as required.
@@ -11529,7 +10677,6 @@ The child restraint systems (CRS) applicable to this vehicle and their installat
 below.
 
 ### Group III (22 KG to 36 KG)
-`forthing_friday_rhd_en_f481cad5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:37 | doc_type:owners_manual
 
 X
 U
@@ -11540,7 +10687,6 @@ U: applicable to general-purpose child restraint system certified by this mass g
 X: This seat position is not applicable to the child restraint system of this mass group.
 
 ### Safety and protection
-`forthing_friday_rhd_en_c0d2ec98` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:38 | doc_type:owners_manual
 
 If the child restraint system of "ISOFIX" standard is adopted, the adaptability information between the system and
 the vehicle is shown in the table below.
@@ -11575,7 +10721,6 @@ IL
 X
 
 ### Group I
-`forthing_friday_rhd_en_8ed1f971` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:38 | doc_type:owners_manual
 
 D
 ISO/R2
@@ -11622,14 +10767,12 @@ F-ISO/L1: Child restraint system (carry-cot) for the left facing position.
 G-ISO/L2: Child restraint system (carry-cot) for right-facing position.
 
 ### If the driver's seat interferes with the proper
-`forthing_friday_rhd_en_c16098da` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:39 | doc_type:owners_manual
 
 installation of the rear-facing child protection device,
 the rear-facing child protection device should be
 installed on the rear right seat.
 
 ### According to the instructions provided by the
-`forthing_friday_rhd_en_b5f18bc0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:39 | doc_type:owners_manual
 
 manufacturer, pass the seat belt through or around the
 rear-facing child protection device, insert the tongue
@@ -11639,7 +10782,6 @@ locked firmly, and shake it from side to side to ensure
 that the child protection device is fixed firmly.
 
 ### According to the instructions provided by the
-`forthing_friday_rhd_en_2e687c12` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:39 | doc_type:owners_manual
 
 manufacturer, pass the seat belt through the forwardfacing child protection device and insert the tongue
 into the buckle, ensuring that the seat belt is not
@@ -11652,7 +10794,6 @@ side to side to ensure that the child protection device
 is firmly fixed.
 
 ### Installation of auxiliary seat cushion
-`forthing_friday_rhd_en_2ceeac5f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:39 | doc_type:owners_manual
 
 Place the auxiliary seat cushion on the seat, let the
 child sit on the auxiliary seat cushion, properly cross
@@ -11664,7 +10805,6 @@ buckle to ensure that the seat belt is not twisted and
 remains tight.
 
 ### Child safety device of standard ISO specifications
-`forthing_friday_rhd_en_21778486` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:40 | doc_type:owners_manual
 
 can be fixed by ISOFIX interface. Please follow the
 operation instructions and safety precautions of the
@@ -11684,7 +10824,6 @@ interface, and fasten the elastic interface.
 3.
 
 ### Press the rear seat headrest adjustment button to
-`forthing_friday_rhd_en_5d8cff99` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:40 | doc_type:owners_manual
 
 raise the headrest to the highest point.
 4. Pass the hook of the child safety device through the
@@ -11693,12 +10832,10 @@ back of the seat, and fasten the top strap to ensure that
 it is fastened.
 
 ### Warning lamps and indicator lamps
-`forthing_friday_rhd_en_bb0fc828` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:42 | doc_type:owners_manual
 
 Warning and indicator lamps inform the driver of the state of the vehicle's systems.
 
 ### TPMS fault warning lamp (yellow)
-`forthing_friday_rhd_en_537a9a5f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:42 | doc_type:owners_manual
 
 When
 the
@@ -11717,7 +10854,6 @@ Service Station in time.
 2.
 
 ### If this lamp is on because the TPMS is not
-`forthing_friday_rhd_en_17bf3552` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:42 | doc_type:owners_manual
 
 matched or the sensor signal is lost, please contact the
 Forthing Special Service Station in time.
@@ -11730,7 +10866,6 @@ HOLD function. Please pull up the
 EPB switch to park, and contact the
 
 ### When the lamp is on in the non-
-`forthing_friday_rhd_en_0c5400f3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:42 | doc_type:owners_manual
 
 READY state, it indicates that the 12V
 low-voltage battery is not charged,
@@ -11742,7 +10877,6 @@ unnecessary electrical equipment and contact the
 Forthing Special Service Station in time.
 
 ### Steering system fault warning lamp (yellow)
-`forthing_friday_rhd_en_ffd7e40b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:42 | doc_type:owners_manual
 
 When the EPS fails, this lamp will
 come on.
@@ -11755,7 +10889,6 @@ please contact the Forthing Special Service Station as
 soon as possible.
 
 ### If this lamp goes on when the vehicle
-`forthing_friday_rhd_en_55218e64` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:43 | doc_type:owners_manual
 
 is running, the anti-lock braking
 system (ABS) is faulty.
@@ -11765,7 +10898,6 @@ carefully and contact the Forthing Special Service
 Station as soon as possible.
 
 ### When the brake fluid level drops to a
-`forthing_friday_rhd_en_068e34d1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:43 | doc_type:owners_manual
 
 low level, this lamp will come on.
 If this lamp goes on when the vehicle is running, the
@@ -11774,14 +10906,12 @@ carefully and park the vehicle safely, and contact the
 Forthing Special Service Station in time.
 
 ### SRS malfunction warning lamp (red)
-`forthing_friday_rhd_en_e76c3759` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:43 | doc_type:owners_manual
 
 If this lamp stays on during driving, the
 SRS is faulty. Please contact the
 Forthing Special Service Station.
 
 ### When the START/STOP button is in
-`forthing_friday_rhd_en_57a4d766` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:43 | doc_type:owners_manual
 
 the "ON" position, if the driver or front
 passenger does not fasten the seat belt,
@@ -11792,7 +10922,6 @@ lamp will go out and the alarm will be
 released.
 
 ### When the FCWS detects that the
-`forthing_friday_rhd_en_4108fc2a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:43 | doc_type:owners_manual
 
 vehicle may collide with an object
 ahead, it will give an alarm prompt
@@ -11807,14 +10936,12 @@ and picture, and the warning lamp will
 flash, which is normal.
 
 ### Main warning lamp
-`forthing_friday_rhd_en_b2ab7989` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:43 | doc_type:owners_manual
 
 When the indicator lamp is on, you can
 enter the instrument alarm query
 interface to query specific faults.
 
 ### Power system malfunction warning lamp
-`forthing_friday_rhd_en_a8e23a8f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:43 | doc_type:owners_manual
 
 When the vehicle has some faults, this
 lamp will come on, and you can enter
@@ -11825,7 +10952,6 @@ please contact the Forthing Special
 Service Station in time.
 
 ### Indicator lamp
-`forthing_friday_rhd_en_845f2fdb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:43 | doc_type:owners_manual
 
 The indicator lamp is used to inform the driver of the
 working status of each system of the vehicle. When it
@@ -11841,7 +10967,6 @@ contact the Forthing Special Service
 Station.
 
 ### HDC working indicator lamp (green)
-`forthing_friday_rhd_en_8f5400e3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:44 | doc_type:owners_manual
 
 When the HDC is on, this lamp will
 stay on. When the HDC is working,
@@ -11854,7 +10979,6 @@ vehicle speed will be displayed next to
 the indicator lamp.
 
 ### When the ICC function is turned on
-`forthing_friday_rhd_en_dcf9c12f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:44 | doc_type:owners_manual
 
 but not activated, this lamp will come
 on.
@@ -11866,7 +10990,6 @@ lamp
 (yellow)*
 
 ### Turn and hazard signal indicator lamp (green)
-`forthing_friday_rhd_en_d30794e7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:44 | doc_type:owners_manual
 
 When the turn signal lamp is operated,
 the corresponding turn indicator lamp
@@ -11879,7 +11002,6 @@ quickly at this time, it indicates that the
 turn signal lamp bulb may be abnormal.
 
 ### You should immediately confirm
-`forthing_friday_rhd_en_4e6d4d58` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:44 | doc_type:owners_manual
 
 whether the turn signal lamp bulb is
 damaged and contact the Forthing
@@ -11891,7 +11013,6 @@ again, the ESP system will be turned on
 again, and this lamp will go out.
 
 ### This lamp flashes when the ESP
-`forthing_friday_rhd_en_4ba9d402` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:45 | doc_type:owners_manual
 
 system is working. If this lamp stays
 on during driving, it indicates that the
@@ -11905,7 +11026,6 @@ it indicates that the smart key is illegal
 or the anti-theft authentication fails.
 
 ### Please check whether the smart key is
-`forthing_friday_rhd_en_63a834fc` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:45 | doc_type:owners_manual
 
 correct. When the START/STOP
 button is set to "ACC" or "OFF"
@@ -11920,7 +11040,6 @@ gun connection status can be checked
 through this lamp.
 
 ### When the single pedal mode is turned
-`forthing_friday_rhd_en_7f39fd4a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:45 | doc_type:owners_manual
 
 on, this lamp will be on, indicating that
 the vehicle is in the driving state of the
@@ -11933,14 +11052,12 @@ slow down or stop for inspection, and
 clear the fault before drive.
 
 ### When the high-voltage power of the
-`forthing_friday_rhd_en_656b53c7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:45 | doc_type:owners_manual
 
 vehicle is turned on, this lamp comes
 on, indicating that the vehicle is in a
 driving state.
 
 ### It displays the energy output of the traction battery and
-`forthing_friday_rhd_en_b55029ee` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:46 | doc_type:owners_manual
 
 the percentage of recovered power. The energy output is
 displayed as 0% ~ 100% according to the actual output
@@ -11949,7 +11066,6 @@ power, and the energy recovery is displayed as 0% ~
 2.
 
 ### General information
-`forthing_friday_rhd_en_16c34817` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:46 | doc_type:owners_manual
 
 This interface displays driving information, ADAS,
 multimedia, map/navigation and settings. The display
@@ -11961,7 +11077,6 @@ It displays the current time.
 5.
 
 ### Speedometer
-`forthing_friday_rhd_en_6336536c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:46 | doc_type:owners_manual
 
 It displays the current vehicle speed.
 6.
@@ -11972,7 +11087,6 @@ km.
 7.
 
 ### The remaining SOC of the current traction battery is
-`forthing_friday_rhd_en_d434a3ca` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:46 | doc_type:owners_manual
 
 displayed. When the charging indicator lamp comes
 on, the vehicle shall be charged in time.
@@ -11982,7 +11096,6 @@ automatically cleared when out of range. It can also
 be reset by short pressing the OK button.
 
 ### OK button: Select OK button in the setting
-`forthing_friday_rhd_en_03a3cb8a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:47 | doc_type:owners_manual
 
 interface to confirm or deactivate the currently
 displayed text reminder interface.
@@ -11995,7 +11108,6 @@ content can be switched by the left and right buttons
 on the steering wheel.
 
 ### Driving information
-`forthing_friday_rhd_en_71c531a6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:47 | doc_type:owners_manual
 
 Driving information includes vehicle status, trip
 computer, power consumption in the last 50 km and
@@ -12004,7 +11116,6 @@ switched by the up and down buttons on the steering
 wheel.
 
 ### Trip computer
-`forthing_friday_rhd_en_5b0e14fb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:47 | doc_type:owners_manual
 
 This interface displays the average vehicle speed,
 average power consumption and endurance range.
@@ -12016,7 +11127,6 @@ to reset the average vehicle speed separately.
 2.
 
 ### It displays the current maximum mileage that the
-`forthing_friday_rhd_en_ae469b14` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:48 | doc_type:owners_manual
 
 vehicle can continue to travel. Display range:
 20~999km. When it is lower than 20km, "_ _ _" is
@@ -12037,7 +11147,6 @@ needs to be charged in time.
 •
 
 ### Average power consumption
-`forthing_friday_rhd_en_ef59c3eb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:48 | doc_type:owners_manual
 
 Display range of average power consumption:
 0~30Kwh/100km. Short press the OK button to call
@@ -12051,7 +11160,6 @@ curve graph. Display range of instantaneous power
 consumption: 0~30Kwh/100km
 
 ### It displays the historical low value of power
-`forthing_friday_rhd_en_f620bd74` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:48 | doc_type:owners_manual
 
 consumption.
 Short press the OK button to call up the reset interface
@@ -12065,13 +11173,11 @@ to reset the curve power consumption separately.
 3.
 
 ### Tire pressure information
-`forthing_friday_rhd_en_a75848f0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:48 | doc_type:owners_manual
 
 When the tire pressure value is abnormal, the display
 interface will give corresponding reminder.
 
 ### Please keep the tire pressure near the
-`forthing_friday_rhd_en_376ab02e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:49 | doc_type:owners_manual
 
 standard pressure value. When the tire
 pressure displays "~~" and the specified tire
@@ -12081,7 +11187,6 @@ the Forthing Special Service Station in time.
 ●
 
 ### The tire pressure sensor does not need to be
-`forthing_friday_rhd_en_e74b0118` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:49 | doc_type:owners_manual
 
 re-matched as long as it has not been
 replaced or damaged due to tire repair, tire
@@ -12093,7 +11198,6 @@ Forthing Special Service Station.
 ●
 
 ### The tire pressure information displayed
-`forthing_friday_rhd_en_6e1ff600` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:49 | doc_type:owners_manual
 
 under static conditions is the information
 when the vehicle was last operated.
@@ -12103,7 +11207,6 @@ speed of more than 30 km/h for 1 min, and
 the instrument cluster will update the data.
 
 ### Driver assistance
-`forthing_friday_rhd_en_91006ec0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:49 | doc_type:owners_manual
 
 Depending on the model configuration, different
 functions can be displayed on this interface. For
@@ -12111,7 +11214,6 @@ details about ADAS, please refer to the relevant
 instructions in Chapter VIII "Comfortable Driving".
 
 ### This interface displays some vehicle information that
-`forthing_friday_rhd_en_80a6540d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:50 | doc_type:owners_manual
 
 needs to be alarmed or reminded. When there are
 multiple vehicle information that need alarm or
@@ -12121,7 +11223,6 @@ wheel.
 Setting
 
 ### The setting interface includes alarm information
-`forthing_friday_rhd_en_2205409b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:50 | doc_type:owners_manual
 
 query, driving information clearing, brightness
 adjustment, volume adjustment and instrument
@@ -12131,7 +11232,6 @@ OK buttons on the steering wheel. The specific
 information is shown in the table below.
 
 ### If the fatigue driving reminder is triggered after
-`forthing_friday_rhd_en_b820174d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:50 | doc_type:owners_manual
 
 continuous driving for more than 4 h, press the OK
 button and park the vehicle in a safe place for 20 min
@@ -12142,7 +11242,6 @@ Liftgate opening height setting* .......... 58
 Seat heating, ventilation and massage* 64
 
 ### Replace the smart key battery
-`forthing_friday_rhd_en_dfdd75a0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:53 | doc_type:owners_manual
 
 If the smart key power is low, it may cause the remote
 control distance to become shorter or the vehicle
@@ -12151,7 +11250,6 @@ may not be able to recognize the smart key. In this
 case, the battery in the smart key needs to be replaced.
 
 ### Engine immobilizer system
-`forthing_friday_rhd_en_71338f4c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:53 | doc_type:owners_manual
 
 If you carry a smart key with an incorrect code, the
 anti-theft indicator lamp on the instrument cluster
@@ -12162,7 +11260,6 @@ this time, the vehicle will not be started.
 Opening, closing and locking of door
 
 ### Keyless entry
-`forthing_friday_rhd_en_15fc9bf9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:53 | doc_type:owners_manual
 
 Unlock
 Carry the smart key and hold the inner unlock area of
@@ -12173,7 +11270,6 @@ area on the driver's door handle, and all the door will
 be locked.
 
 ### Unlocking and locking with smart key
-`forthing_friday_rhd_en_50620aa9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:54 | doc_type:owners_manual
 
 Unlock
 Short press the unlocking button on the smart key, the
@@ -12191,7 +11287,6 @@ smart key, and the windows of four doors will be
 closed.
 
 ### Unlocking and locking with mechanical key
-`forthing_friday_rhd_en_7f953469` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:54 | doc_type:owners_manual
 
 2.
 After the door is closed, pull the driver's door
@@ -12206,7 +11301,6 @@ door; Turn the key counterclockwise to lock the door.
 back on the door handle.
 
 ### Door interior handle unlocking
-`forthing_friday_rhd_en_0f094914` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:54 | doc_type:owners_manual
 
 When the door is locked, pull the interior handle of
 the door twice to open the door.
@@ -12218,7 +11312,6 @@ the rear door cannot be opened from inside the
 vehicle.
 
 ### Unlocking and locking of front passenger door and
-`forthing_friday_rhd_en_96bec221` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:55 | doc_type:owners_manual
 
 rear door
 If the vehicle is powered off, press the inner switch of
@@ -12235,7 +11328,6 @@ vehicle, which helps prevent the child from
 accidentally opening the rear door.
 
 ### When the door is in the lock state and the
-`forthing_friday_rhd_en_f3feba64` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:55 | doc_type:owners_manual
 
 START/STOP button is in the "ON" position, if the
 vehicle suffers a strong impact, all doors will be
@@ -12244,7 +11336,6 @@ the impact or the type of accident, the system may not
 work.
 
 ### Removal and installation methods of lock
-`forthing_friday_rhd_en_2cccd308` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:55 | doc_type:owners_manual
 
 cylinder hole plug cap
 1.
@@ -12261,7 +11352,6 @@ structure of the handle cover, and then buckle the
 front end of the lock cylinder cover into the cover.
 
 ### Ordinary liftgate
-`forthing_friday_rhd_en_d142303c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:57 | doc_type:owners_manual
 
 Take the smart key to the side of the liftgate and
 manually open the liftgate while pressing the micro
@@ -12273,7 +11363,6 @@ the microswitch, the liftgate will be opened
 automatically.
 
 ### Ordinary liftgate
-`forthing_friday_rhd_en_f5a6db06` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:57 | doc_type:owners_manual
 
 When the liftgate is closed, press and hold the liftgate
 unlocking button on the smart key to unlock the
@@ -12285,7 +11374,6 @@ unlocking button on the smart key, and the liftgate
 will be opened automatically.
 
 ### Open the liftgate by sensing*
-`forthing_friday_rhd_en_08323e19` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:57 | doc_type:owners_manual
 
 Carry the smart key and stand behind the vehicle, and
 perform a kicking action below the middle of the rear
@@ -12295,7 +11383,6 @@ Caution
 ●
 
 ### The sensing opening of liftgate function can
-`forthing_friday_rhd_en_179ed522` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:57 | doc_type:owners_manual
 
 take effect only when the vehicle is not
 started.
@@ -12307,7 +11394,6 @@ liftgate.
 ●
 
 ### In order to ensure the effectiveness of the
-`forthing_friday_rhd_en_0847eff1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:57 | doc_type:owners_manual
 
 operation, please use the forward and
 backward kicking operation, and the kicking
@@ -12324,7 +11410,6 @@ kick
 operations according to the actual situation.
 
 ### Basic function operations
-`forthing_friday_rhd_en_12b94d2b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:58 | doc_type:owners_manual
 
 Caution
 •
@@ -12340,7 +11425,6 @@ operate within this area.
 •
 
 ### If you try to perform the function of opening
-`forthing_friday_rhd_en_e5aa33f2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:58 | doc_type:owners_manual
 
 the liftgate by sensing several times in a short
 period of time, the function may be
@@ -12361,7 +11445,6 @@ the liftgate. If the liftgate is opened
 accidentally, it may be damaged.
 
 ### Press the liftgate guard switch to automatically close
-`forthing_friday_rhd_en_a034e037` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:58 | doc_type:owners_manual
 
 the liftgate. If this switch is pressed again during the
 closing process, the liftgate will stop closing.
@@ -12370,7 +11453,6 @@ by pressing and holding the liftgate unlocking button
 on the smart key.
 
 ### Open and close the liftgate from inside the
-`forthing_friday_rhd_en_f1923da7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:59 | doc_type:owners_manual
 
 vehicle*
 When the liftgate is in the unlock state, press the
@@ -12380,7 +11462,6 @@ the liftgate, press this switch again, and the liftgate
 will stop moving.
 
 ### If the lock failure occurs and the liftgate cannot be
-`forthing_friday_rhd_en_262945a6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:59 | doc_type:owners_manual
 
 opened, remove the emergency opening cover on the
 liftgate guard, pull the liftgate emergency opening
@@ -12388,7 +11469,6 @@ pull ring, and hold the liftgate with the other hand to
 open the liftgate from inside the vehicle.
 
 ### Set the liftgate opening height
-`forthing_friday_rhd_en_e4007d46` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:59 | doc_type:owners_manual
 
 The opening height of the liftgate can be set by the
 liftgate guard switch:
@@ -12403,14 +11483,12 @@ height is set successfully.
 Close the liftgate and reopen it to the set height.
 
 ### Press and hold the liftgate guard switch until an
-`forthing_friday_rhd_en_753103b8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:59 | doc_type:owners_manual
 
 audible signal is heard, indicating that the maximum
 opening height has been restored successfully.
 3.
 
 ### When the power liftgate needs to be
-`forthing_friday_rhd_en_f17a13a5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:59 | doc_type:owners_manual
 
 manually operated in case of power failure or
 failure, it shall be opened or closed at an even
@@ -12420,7 +11498,6 @@ quickly, the electric stay bar or controller
 may be damaged.
 
 ### Set the opening angle of the liftgate through the
-`forthing_friday_rhd_en_09655732` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:60 | doc_type:owners_manual
 
 infotainment system
 1.
@@ -12436,14 +11513,12 @@ the setting is successful.
 Caution
 
 ### The opening height of the liftgate in the
-`forthing_friday_rhd_en_925ae86b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:60 | doc_type:owners_manual
 
 infotainment system is for reference only. Please
 set the specific height according to the actual
 operation.
 
 ### Anti-pinch protection
-`forthing_friday_rhd_en_44b20d5d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:60 | doc_type:owners_manual
 
 When the liftgate is automatically opened, if an
 obstacle is detected, the liftgate will stop opening;
@@ -12452,7 +11527,6 @@ an obstacle, the liftgate will stop closing and return to
 the pre-set maximum opening height.
 
 ### Seat fore-and-aft adjustment lever
-`forthing_friday_rhd_en_9f72a134` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:61 | doc_type:owners_manual
 
 Pull the lever upward to adjust the seat forward and backward. After adjusting it to a proper position, release the
 lever to ensure that the seat does not move forward and backward.
@@ -12463,13 +11537,11 @@ Lift or press the handle to adjust the seat up or down. After adjusting it to a 
 3.
 
 ### Adjustable handle of backrest angle
-`forthing_friday_rhd_en_d18e10e7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:61 | doc_type:owners_manual
 
 Sit on the seat, lift the handle, lean forward or press the backrest backward, adjust the backrest to a proper position
 and then release the handle, and shake it back and forth a few times to ensure that the backrest is locked in place.
 
 ### Adjustable handle of backrest angle
-`forthing_friday_rhd_en_4feb9f46` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:61 | doc_type:owners_manual
 
 The manual adjustment method of front passenger seat is the same as that of the driver seat.
 
@@ -12479,41 +11551,35 @@ the button.
 2.
 
 ### Lumbar support up/down adjustment button
-`forthing_friday_rhd_en_97f3b8a0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:62 | doc_type:owners_manual
 
 Press this button to adjust the lumbar support up and down. After adjusting to the proper position, release the button.
 3.
 
 ### Seat fore-and-aft and height adjustment buttons
-`forthing_friday_rhd_en_de6e6001` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:62 | doc_type:owners_manual
 
 Gently push the entire button back and forth to adjust the seat forward and backward, and gently push the rear of
 the button up and down to adjust the seat up and down. After adjusting to the proper position, release the button.
 4.
 
 ### Backrest angle adjustment button
-`forthing_friday_rhd_en_8577fccb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:62 | doc_type:owners_manual
 
 Push this button back and forth gently to adjust the seat backrest angle. After adjusting to the proper position, release
 the button.
 5.
 
 ### Massage function adjustment button
-`forthing_friday_rhd_en_f518793e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:62 | doc_type:owners_manual
 
 Press this button to switch between lumbar support adjustment and massage adjustment. When switching to the
 massage function, press the 1 button to adjust the massage intensity, and press the 2 button to select different
 massage modes (see Chapter VI Infotainment System for seat settings for intensity and mode).
 
 ### Backrest angle adjustment button
-`forthing_friday_rhd_en_8577fccb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:62 | doc_type:owners_manual
 
 Push this button back and forth gently to adjust the seat backrest angle. After adjusting to the proper position, release
 the button.
 2.
 
 ### Seat fore-and-aft adjustment button
-`forthing_friday_rhd_en_f60dc7e2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:62 | doc_type:owners_manual
 
 Gently push the entire button back and forth to adjust the seat back and forth. After adjusting to the proper position,
 release the button.
@@ -12529,14 +11595,12 @@ Do not tilt the seat excessively; otherwise the waist seat belt may slide throug
 the abdomen, or make the shoulder seat belt touch the neck. In case of accident, it will cause serious injury
 
 ### Rear seat backrest adjustment and flattening
-`forthing_friday_rhd_en_7b0f4421` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:64 | doc_type:owners_manual
 
 1.
 Pull the rear seat folding strap to adjust the seat backrest angle. Keep pulling the strap to push the backrest
 from back to front to lay the seat flat.
 
 ### Reset of rear seat
-`forthing_friday_rhd_en_e957fbf0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:64 | doc_type:owners_manual
 
 1.
 Reset the rear seat from the front of the seat: lift the seat backrest directly until it is locked.
@@ -12556,7 +11620,6 @@ in place.
 Check and confirm that the seat belt is not twisted or stuck in the seat backrest.
 
 ### Control by display
-`forthing_friday_rhd_en_b045a8a2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:65 | doc_type:owners_manual
 
 For the specific operation method, please refer to the
 chapter "Seat Settings" in Chapter VI "Infotainment
@@ -12564,7 +11627,6 @@ System".
 Warning
 
 ### If the body cannot sense pain and temperature due
-`forthing_friday_rhd_en_c227b8d0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:65 | doc_type:owners_manual
 
 to taking drugs, paralysis, paralysis and other
 diseases, do not use the seat heating function,
@@ -12579,7 +11641,6 @@ Do not clean the seat by wet washing.
 ●
 
 ### Rear seat
-`forthing_friday_rhd_en_1c0a9201` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:65 | doc_type:owners_manual
 
 1.
 To raise the headrest, you can directly raise the
@@ -12594,7 +11655,6 @@ height, then release the switch until a "click" sound is
 heard to ensure that the headrest is locked in place.
 
 ### Height of headrest
-`forthing_friday_rhd_en_0cb18d99` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:65 | doc_type:owners_manual
 
 When adjusting the headrest, make sure that the
 center of the headrest is flush with the upper part of
@@ -12602,7 +11662,6 @@ the ear so that the headrest can provide maximum
 protection.
 
 ### Hold the steering wheel with one hand and pull down
-`forthing_friday_rhd_en_c4149829` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:66 | doc_type:owners_manual
 
 the adjusting handle with the other hand. Then move
 the steering wheel horizontally and vertically to
@@ -12613,7 +11672,6 @@ Horn
 The horn is located in the middle of the steering wheel.
 
 ### Press the horn to remind pedestrians and vehicles
-`forthing_friday_rhd_en_9c1cdddf` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:66 | doc_type:owners_manual
 
 outside the vehicle. The reasonable use of horn will
 help to ensure driving safety and reduce the frequency
@@ -12625,7 +11683,6 @@ the rear view can be fully seen from the mirror surface.
 Caution
 
 ### Due to the structural limitation of the inside
-`forthing_friday_rhd_en_ab003816` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:67 | doc_type:owners_manual
 
 rearview mirror, when adjusting the inside
 rearview mirror, please be sure to adjust it gently
@@ -12639,14 +11696,12 @@ mirror to prevent glare.
 Warning
 
 ### Do not adjust the rearview mirror position during
-`forthing_friday_rhd_en_f19a31bc` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:68 | doc_type:owners_manual
 
 driving. Otherwise, accidents may be caused due
 to misoperation, resulting in serious injury or even
 death.
 
 ### Electric adjustment of outside rearview mirror
-`forthing_friday_rhd_en_0ba9969f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:68 | doc_type:owners_manual
 
 The left and right switch can be used to select the
 rearview mirror on the corresponding side for mirror
@@ -12656,7 +11711,6 @@ right to adjust the outside rearview mirror to the best
 viewing angle.
 
 ### The drop-down bar shortcut menu can be called by
-`forthing_friday_rhd_en_e65ddc4d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:68 | doc_type:owners_manual
 
 swiping down at the top of the display. Click
 [Rearview Mirror Folding] to fold or unfold the
@@ -12672,7 +11726,6 @@ display, and select to enable the [Automatic Folding
 of Outside Rearview Mirrors] function. When the
 
 ### START/STOP button is set to "OFF" position and the
-`forthing_friday_rhd_en_33f46ba7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:69 | doc_type:owners_manual
 
 four doors are closed, press the locking or unlocking
 button on the smart key to realize automatic folding
@@ -12684,7 +11737,6 @@ the section "User Personalized Memory" in Chapter
 VI "Infotainment System".
 
 ### Automatic outside rearview mirror tilt-down during
-`forthing_friday_rhd_en_11b8fe29` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:69 | doc_type:owners_manual
 
 reversing*
 Click
@@ -12698,7 +11750,6 @@ automatically turn down to a certain angle to facilitate
 the driver to check the road conditions.
 
 ### When the START/STOP button is in the "ON"
-`forthing_friday_rhd_en_50bf4341` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:69 | doc_type:owners_manual
 
 position, press the rear windshield defrosting button
 on the A/C control panel to turn on or off the
@@ -12713,7 +11764,6 @@ adjusting the mirror angle.
 ●
 
 ### If the outside rearview mirror is not folded or
-`forthing_friday_rhd_en_2bac9a99` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:69 | doc_type:owners_manual
 
 unfolded, the outside rearview mirror may be
 not reset after being collided. It is necessary
@@ -12724,7 +11774,6 @@ two or three times.
 ●
 
 ### If there is snow on the outside rearview
-`forthing_friday_rhd_en_6691b0f0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:69 | doc_type:owners_manual
 
 mirror, please remove the snow before
 adjusting the outside rearview mirror to
@@ -12735,14 +11784,12 @@ Pull up or press down the window switch and hold it
 to manually control the window to rise or fall.
 
 ### Automatically open/close window
-`forthing_friday_rhd_en_9b255bb8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:69 | doc_type:owners_manual
 
 Pull up or press down the window switch, and the
 window can automatically rise or fall. If you need to
 stop it halfway, pull up or press this switch again.
 
 ### When the START/STOP button is in the "OFF"
-`forthing_friday_rhd_en_5c885a11` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:69 | doc_type:owners_manual
 
 position and the vehicle door is closed, press and hold
 the unlocking button on the smart key, the four
@@ -12752,7 +11799,6 @@ the smart key, the four windows will be raised at the
 same time until they are fully closed.
 
 ### To prevent children from accidentally opening or
-`forthing_friday_rhd_en_d3e0350d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:70 | doc_type:owners_manual
 
 closing the window, pressing the window lock switch
 disables the switch operation of the front passenger
@@ -12761,7 +11807,6 @@ window can only be controlled by the driver. If you
 need to restore it, press this switch again.
 
 ### If the window is operated repeatedly in a short period
-`forthing_friday_rhd_en_9094a0d2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:70 | doc_type:owners_manual
 
 of time, the motor protection function will be
 triggered, which will cause the power window control
@@ -12773,7 +11818,6 @@ process of the window, the window will stop closing
 and run in the opposite direction for a certain distance.
 
 ### After the door control module flashes the
-`forthing_friday_rhd_en_d7ec9087` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 software.
 3.
@@ -12784,7 +11828,6 @@ components that affect the window lifting stroke.
 4.
 
 ### When the door guard and door control module
-`forthing_friday_rhd_en_50ced7bb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 are replaced. The power window with anti-pinch
 function needs to be initialized and learned so that it
@@ -12796,14 +11839,12 @@ hold it for more than 2 seconds.
 2.
 
 ### Press down the window switch and hold it until
-`forthing_friday_rhd_en_cce54cb2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 the window is fully opened, and then continue to hold
 it for more than 2 seconds.
 3.
 
 ### Pull up the window switch again until the
-`forthing_friday_rhd_en_3bfd2056` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:70 | doc_type:owners_manual
 
 window is closed.
 4.
@@ -12820,13 +11861,11 @@ body.
 ●
 
 ### The panoramic sunroof adopts integral glass and
-`forthing_friday_rhd_en_65460942` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:70 | doc_type:owners_manual
 
 cannot be opened. Some models have a panoramic
 sunroof with a starry sky pattern.
 
 ### Sunshade on/off
-`forthing_friday_rhd_en_6e8b559b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:71 | doc_type:owners_manual
 
 When it is necessary to improve the interior light, the
 sunroof
@@ -12844,7 +11883,6 @@ closing button to close the sunroof shade to the closed
 state with one click.
 
 ### During the one-touch opening/closing of the
-`forthing_friday_rhd_en_2771b297` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:71 | doc_type:owners_manual
 
 sunshade, press the sunshade operating switch again,
 and the sunshade will stop at the current position.
@@ -12856,7 +11894,6 @@ the open state at this time, the sunshade can be closed
 through the smart key.
 
 ### If [Short Press] is selected for [Remote Control
-`forthing_friday_rhd_en_80d41eb3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:71 | doc_type:owners_manual
 
 Window Closing Setting] on the display, press the
 lock button on the smart key, and the sunshade will
@@ -12869,14 +11906,12 @@ lock button on the smart key is pressed for more than
 3 s.
 
 ### When the sunshade encounters abnormal resistance
-`forthing_friday_rhd_en_30917b96` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:71 | doc_type:owners_manual
 
 or obstacle during automatic closing, the sunshade
 will automatically stop and return for a certain
 distance to prevent personal injury.
 
 ### In order to prevent the sunshade motor from
-`forthing_friday_rhd_en_e75a73fe` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:71 | doc_type:owners_manual
 
 overheating and causing abnormal function, after the
 sunshade is operated continuously for 120 s (under
@@ -12891,7 +11926,6 @@ thermal protection function for the second time, and
 the sunshade will not move until 120s later.
 
 ### Initialization
-`forthing_friday_rhd_en_beddb1d9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:71 | doc_type:owners_manual
 
 When the sunshade cannot be closed in place, it can
 be restored by the following operations:
@@ -12904,7 +11938,6 @@ sunshade position initialization is completed.
 2.
 
 ### Release the button and press and hold the
-`forthing_friday_rhd_en_9162d21d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:71 | doc_type:owners_manual
 
 sunshade OFF button for about 4 s within 4 s. The
 sunshade will open for a short period of time and then
@@ -12917,7 +11950,6 @@ When operating the sunshade, make sure that no
 part of the body is pinched.
 
 ### Turn signal lamp switch
-`forthing_friday_rhd_en_7107bf0d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:72 | doc_type:owners_manual
 
 Toggle the light control handle up or down, the right
 or left turn signal lamp flashes. After the steering is
@@ -12925,7 +11957,6 @@ completed, the handle returns to its original position
 and the turn signal lamp turns off.
 
 ### High/low beam switching
-`forthing_friday_rhd_en_5ccb76c0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:72 | doc_type:owners_manual
 
 When the low beam is turned on, push the light
 control handle forward to the limit position, and the
@@ -12933,7 +11964,6 @@ high beam is turned on; Move it backward to turn off
 the high beam.
 
 ### When the light switch is in ATUO position and the
-`forthing_friday_rhd_en_111c07a3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:72 | doc_type:owners_manual
 
 system detects that the ambient light intensity is dark,
 press the smart key unlocking button to unlock the
@@ -12942,7 +11972,6 @@ up; The position lamp goes out after locking, vehicle
 starting or sleeping.
 
 ### Fog lamp switch
-`forthing_friday_rhd_en_99618193` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:72 | doc_type:owners_manual
 
 When low beam is on, turn the adjustment ring to
 make ▶point to rear fog lamp, and rear fog lamp will
@@ -12955,7 +11984,6 @@ drivers to see your vehicle more clearly and ensure
 driving safety.
 
 ### Automatic lighting
-`forthing_friday_rhd_en_6ea2c41a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:72 | doc_type:owners_manual
 
 When you turn the adjustment ring ▶ to AUTO,
 headlamp and other exterior lamps will be
@@ -12963,7 +11991,6 @@ automatically turned on or off according to the
 ambient brightness.
 
 ### Follow Me Home
-`forthing_friday_rhd_en_523a2791` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:72 | doc_type:owners_manual
 
 Within 5 minutes after the vehicle is turned off, pull
 the light control handle back once, and the function
@@ -12971,13 +11998,11 @@ of Follow Me Home will be turned on, and the low
 beam will be turned on automatically at this time.
 
 ### The low beam will be automatically turned off 30
-`forthing_friday_rhd_en_92148cfe` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:72 | doc_type:owners_manual
 
 seconds after the door is locked or 5 minutes after the
 function of Follow Me Home is turned on.
 
 ### Headlamp height adjustment
-`forthing_friday_rhd_en_0e3c532b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:72 | doc_type:owners_manual
 
 When the vehicle is carrying heavy loads, the rear of
 the bodywork will sink, causing the low beam to be
@@ -12988,14 +12013,12 @@ The specific methods are as follows:
 1.
 
 ### The drop-down bar shortcut menu can be called
-`forthing_friday_rhd_en_7db2f16f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:73 | doc_type:owners_manual
 
 up by swiping down at the top of the display, and the
 headlamp height adjustment can be seen.
 3.
 
 ### The courtesy lamp is located under the outside
-`forthing_friday_rhd_en_11e45abe` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:73 | doc_type:owners_manual
 
 rearview mirror of the vehicle. It is used to illuminate
 the ground at night. When the door is opened, the
@@ -13005,13 +12028,11 @@ courtesy lamp will come on, and when the door is
 closed, the courtesy lamp will go out.
 
 ### The ambient light outside the vehicle in combination
-`forthing_friday_rhd_en_64a93eba` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:73 | doc_type:owners_manual
 
 with the light language mode can create the night
 atmosphere outside the vehicle and assist in lighting.
 
 ### Click [Settings] - [Vehicle] - [Light] - [Light
-`forthing_friday_rhd_en_c0b4282c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:73 | doc_type:owners_manual
 
 Language Mode] on the display to turn on or off the
 light language function.
@@ -13022,7 +12043,6 @@ warning, lock welcome, parking mode, charging
 indication, reverse mode and music rhythm.
 
 ### Door control switch operation
-`forthing_friday_rhd_en_f92206a5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:74 | doc_type:owners_manual
 
 When the door control switch "O" is pressed, the door
 control function is turned off.
@@ -13033,7 +12053,6 @@ the interior lamp will light up or go out with the
 opening and closing of the four doors.
 
 ### When the door control switch is parallel to the panel
-`forthing_friday_rhd_en_3a1a0fc6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:74 | doc_type:owners_manual
 
 or the "O" button is pressed, the interior lamp is
 controlled by the corresponding interior lamp switch,
@@ -13041,7 +12060,6 @@ which will be on when pressed and off when popped
 up.
 
 ### Rear interior lamp
-`forthing_friday_rhd_en_d694a56f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:74 | doc_type:owners_manual
 
 The rear interior lamp is located below the rear handle.
 When the door switch is parallel to the panel or the
@@ -13049,7 +12067,6 @@ When the door switch is parallel to the panel or the
 turned on or off by the rear interior lamp switch.
 
 ### Trunk lamp
-`forthing_friday_rhd_en_08194c7f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:74 | doc_type:owners_manual
 
 When the liftgate is opened, the trunk lamp will
 automatically light up. It goes out automatically after
@@ -13057,7 +12074,6 @@ the liftgate is closed.
 Wiper
 
 ### Front automatic wiper*
-`forthing_friday_rhd_en_686cd96e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:75 | doc_type:owners_manual
 
 MIST: Jog mode. Pull up the wiper control handle,
 and the wiper will wipe once. After releasing the
@@ -13087,7 +12103,6 @@ wiping.
 Caution
 
 ### AUTO position and the automatic wiping function
-`forthing_friday_rhd_en_af2019d1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:75 | doc_type:owners_manual
 
 of the wiper is turned on, the wiper may produce
 wiping under the following conditions, which is
@@ -13102,7 +12117,6 @@ through construction sections
 Caution
 
 ### Front windshield washing
-`forthing_friday_rhd_en_04c4b810` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:75 | doc_type:owners_manual
 
 Pull the wiper control handle back and hold it. The
 front windshield washer starts to spray water, and the
@@ -13111,7 +12125,6 @@ wiper control handle to stop spraying water and
 wiping.
 
 ### Rear wiper
-`forthing_friday_rhd_en_0a0abe89` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:76 | doc_type:owners_manual
 
 HI: Rear wiper wipes at high speed. Turn the rear end
 of the wiper control handle to HI position, and the rear
@@ -13121,7 +12134,6 @@ of the wiper control handle to LO position, and the
 rear wiper wipes at low speed.
 
 ### Rear windshield washer
-`forthing_friday_rhd_en_d3de2e20` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:76 | doc_type:owners_manual
 
 Push the wiper control handle forward and hold it.
 The rear windshield washer starts to spray water, and
@@ -13130,7 +12142,6 @@ the wiper control handle to stop spraying water and
 wiping.
 
 ### The USB port can only work when the START/STOP
-`forthing_friday_rhd_en_1d38b54b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:76 | doc_type:owners_manual
 
 button is in "ON" position or "ACC" position. This
 interface can be used for charging the mobile phone.
@@ -13145,7 +12156,6 @@ cover closed.
 •
 
 ### Do not insert metal foreign matters into the
-`forthing_friday_rhd_en_8f03026a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:77 | doc_type:owners_manual
 
 interface to avoid short circuit and fire.
 •
@@ -13167,7 +12177,6 @@ to avoid damaging the USB port.
 12 V power outlet
 
 ### Console front power outlet
-`forthing_friday_rhd_en_7bfa9f73` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:77 | doc_type:owners_manual
 
 The front 12 V power outlet is located in the storage
 compartment under the console.
@@ -13180,7 +12189,6 @@ electrical appliances to avoid fire.
 •
 
 ### Do not allow children to use or touch the
-`forthing_friday_rhd_en_673fdd12` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:77 | doc_type:owners_manual
 
 12V/220V power outlet. Do not insert metal
 foreign matters into the power outlet
@@ -13193,7 +12201,6 @@ into the 12V power outlet socket to avoid fire
 caused by short circuit.
 
 ### Deactivation
-`forthing_friday_rhd_en_d361a7be` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:78 | doc_type:owners_manual
 
 1.
 Set the START/STOP button to "ON" position,
@@ -13212,7 +12219,6 @@ exceed 2.2kw, otherwise it may cause safety
 accidents.
 
 ### The wireless charging device is located at the front of
-`forthing_friday_rhd_en_d427847e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:78 | doc_type:owners_manual
 
 the console. It can be used for charging the portable
 charging equipment (such as mobile phones) that
@@ -13223,7 +12229,6 @@ there are no metal foreign matters around the mobile
 phone and in the charging area. When the
 
 ### START/STOP button is set to "ON"/in the READY
-`forthing_friday_rhd_en_d9927dd3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:78 | doc_type:owners_manual
 
 state, place the portable charging equipment to be
 charged in the middle of the charging area (do not
@@ -13233,7 +12238,6 @@ charging state indication of the portable charging
 equipment.
 
 ### The charging will stop automatically after the
-`forthing_friday_rhd_en_36901a54` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:78 | doc_type:owners_manual
 
 charging is completed. If you need to stop charging
 during charging, just move the portable charging
@@ -13243,7 +12247,6 @@ Caution
 •
 
 ### The wireless charging device can only
-`forthing_friday_rhd_en_e83f3f97` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:78 | doc_type:owners_manual
 
 support one portable charging equipment for
 charging at a time.
@@ -13264,7 +12267,6 @@ and then charging will resume automatically.
 This is normal.
 
 ### Insertion and removal of memory card
-`forthing_friday_rhd_en_660f849b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:79 | doc_type:owners_manual
 
 The EDR memory card slot is located on the left side
 of the EDR. Please confirm whether there is a
@@ -13279,7 +12281,6 @@ After inserting the card, reinstall the rubber plug and
 fasten the plug cap.
 
 ### It is recommended that the new card be formatted in
-`forthing_friday_rhd_en_8def2eb3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:79 | doc_type:owners_manual
 
 the settings of EDR in the "AI Forthing" APP. EDR
 supports 8 G ~ 64 G memory, and the memory card
@@ -13291,7 +12292,6 @@ video recording state.
 Close
 
 ### When the START/STOP button is switched from
-`forthing_friday_rhd_en_60db7bc8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:79 | doc_type:owners_manual
 
 "ACC" or "ON" to "OFF", the EDR will be
 automatically turned off or turned off after a delay
@@ -13302,7 +12302,6 @@ Note: The original vehicle does not have an SD card,
 which needs to be purchased by the customer.
 
 ### Functional description
-`forthing_friday_rhd_en_8b167542` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:81 | doc_type:owners_manual
 
 1.
 Temperature adjustment knob: Rotate this knob to adjust the interior temperature.
@@ -13338,7 +12337,6 @@ the lowest temperature.
 13. Negative ion button*: Negative ion purification function can be turned on or off for some models.
 
 ### Front air outlet
-`forthing_friday_rhd_en_296534d2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:82 | doc_type:owners_manual
 
 1. Side windshield defogging air outlet
 4. Front foot air outlet
@@ -13354,14 +12352,12 @@ up and down, left and right to change the wind
 direction.
 
 ### The middle air outlet can be opened and closed by
-`forthing_friday_rhd_en_67369022` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:83 | doc_type:owners_manual
 
 rolling the scroll wheel up and down, and the air
 direction can be changed by moving the grille in the
 middle of the air outlet up and down and left and right.
 
 ### The air purification system can quickly reduce
-`forthing_friday_rhd_en_6f7fcf29` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:83 | doc_type:owners_manual
 
 harmful chemical gases, dust, bacteria and volatile
 organic compounds in the air, reduce odors, and
@@ -13371,7 +12367,6 @@ quality and display the air quality through the display,
 so as to achieve the best air purification effect.
 
 ### Notice to Users
-`forthing_friday_rhd_en_1b2ef576` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:85 | doc_type:owners_manual
 
 1. Proprietary equipment and accessories are integrated according to different models. Your vehicle
 configuration may be slightly different from the description in these operating instructions. Please
@@ -13400,14 +12395,12 @@ the navigation/network signal strength, there is a problem of weak navigation or
 you leave these areas, the navigation or network signal will be restored automatically.
 
 ### Displays status and controls when multimedia or
-`forthing_friday_rhd_en_87d64ab8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:86 | doc_type:owners_manual
 
 phone is active.  Multimedia information includes
 media details and play/pause buttons; clicking the
 buttons controls media playback.
 
 ### Unread message
-`forthing_friday_rhd_en_66db4e64` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:86 | doc_type:owners_manual
 
 notification
 Displayed when there are unread messages.
@@ -13430,7 +12423,6 @@ Not displayed when not muted; appears when
 system volume is set to 0.
 
 ### Bluetooth status
-`forthing_friday_rhd_en_ebf968fa` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:86 | doc_type:owners_manual
 
 display
 Includes three states: on (unconnected), on
@@ -13441,7 +12433,6 @@ settings" shortcut.
 or
 
 ### WiFi/hotspot
-`forthing_friday_rhd_en_35283cac` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:86 | doc_type:owners_manual
 
 status display
 Shows WiFi icon when WiFi is on, hotspot icon
@@ -13449,7 +12440,6 @@ when hotspot is active, and default WiFi-off icon
 when both are disabled.
 
 ### Scene and function interface display area
-`forthing_friday_rhd_en_0568bc9a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:87 | doc_type:owners_manual
 
 1. Intelligent control theme: With car model as the background, support driving mode switching, custom cards
 (multimedia controls, Bluetooth call and other functions).
@@ -13459,7 +12449,6 @@ and other functions).
 Icon
 
 ### Click to switch driving modes
-`forthing_friday_rhd_en_d681ec2d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:87 | doc_type:owners_manual
 
 Rearview
 mirror
@@ -13475,7 +12464,6 @@ If Bluetooth is connected, click to enter
 the recent calls interface;
 
 ### AVM card
-`forthing_friday_rhd_en_4d9bf272` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:88 | doc_type:owners_manual
 
 (Non-standard)
 Click to enter the AVM interface. If there
@@ -13483,7 +12471,6 @@ is no AVM function, the card will not be
 displayed;
 
 ### Click to turn the front defroster on or off
-`forthing_friday_rhd_en_456d0dcf` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:88 | doc_type:owners_manual
 
 A/C
 temperature
@@ -13497,7 +12484,6 @@ temperature control area to open the A/C control
 interface.
 
 ### Click the volume icon to pop up the quick
-`forthing_friday_rhd_en_28643540` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:88 | doc_type:owners_manual
 
 volume adjustment window, where you can
 adjust the system volume and Bluetooth call
@@ -13510,7 +12496,6 @@ If Bluetooth is connected, click to enter the
 recent calls interface;
 
 ### App Center
-`forthing_friday_rhd_en_20949e3b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:88 | doc_type:owners_manual
 
 Click to enter the App Center interface;
 In the App Center interface, long-press an app
@@ -13523,7 +12508,6 @@ disappear.
 Homepage
 
 ### Click to adjust system volume
-`forthing_friday_rhd_en_0e0a7c4a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:90 | doc_type:owners_manual
 
 ICE
 brightness
@@ -13542,7 +12526,6 @@ Screen off/standby interface
 Access the screen off/standby interface via the drop-down menu's screen off button or custom controls
 
 ### Bluetooth Phone
-`forthing_friday_rhd_en_342a6a17` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:93 | doc_type:owners_manual
 
 After the Bluetooth device is connected, the system prompts whether to synchronize contacts. Upon clicking
 "Confirm", the system sends a request to sync the address book and call history. If the mobile phone responds
@@ -13561,7 +12544,6 @@ allows background synchronization.  Synced address book and call history entries
 synchronization, triggering background updates.
 
 ### Recent calls
-`forthing_friday_rhd_en_81728d80` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:93 | doc_type:owners_manual
 
 On the call history page, after syncing the mobile phone's address book, up to 99 call records are displayed
 chronologically under "Missed", "Received", and "Dialed" categories. Users can filter by clicking "All" or "Missed".
@@ -13570,7 +12552,6 @@ The address book disappears automatically upon Bluetooth disconnection. Call rec
 contact, it is hidden by default.
 
 ### Click to switch to missed calls list
-`forthing_friday_rhd_en_115c48cb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:94 | doc_type:owners_manual
 
 Contact
 Click the "Contacts" button under Bluetooth calling, and the contacts button will be highlighted, allowing you to
@@ -13584,7 +12565,6 @@ imported. The contacts will automatically disappear after the Bluetooth connecti
 Icon
 
 ### Dialing keyboard
-`forthing_friday_rhd_en_e3ac1f9a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:94 | doc_type:owners_manual
 
 After connecting via Bluetooth, tap the "Dial Pad" in the Bluetooth call interface to enter the dialing screen, which
 displays the dialed number, associated contacts, and the dial pad.  In the dial pad, a short press on the delete button
@@ -13596,7 +12576,6 @@ with 0 or 1 trigger a numeric search, while others initiate a pinyin search. The
 profile picture (system default) + name + phone number (only the phone number is displayed if no name is available).
 
 ### Infotainment system
-`forthing_friday_rhd_en_2d0080f0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:95 | doc_type:owners_manual
 
 The name and phone number are shown in two separate rows. If a line exceeds the display box length, an ellipsis
 (...) is appended at the end.  Recognized Chinese characters or numbers are highlighted. Search results are sorted
@@ -13605,7 +12584,6 @@ or no matching results are found in the database, a default illustration is disp
 Icon
 
 ### Energy Center
-`forthing_friday_rhd_en_15e5094d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:95 | doc_type:owners_manual
 
 The Energy Center primarily displays energy consumption information and related settings, including energy
 information display, energy recovery level adjustment button, charging limit setting button, range standard setting
@@ -13617,7 +12595,6 @@ interface.
 Icon
 
 ### Infotainment system
-`forthing_friday_rhd_en_694b5125` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:96 | doc_type:owners_manual
 
 80% to 100%, adjustable in 5%
 increments. If the set value is lower
@@ -13628,14 +12605,12 @@ cannot be lower than the current
 battery level. Please reset."
 
 ### Vehicle information
-`forthing_friday_rhd_en_8555994a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:96 | doc_type:owners_manual
 
 The vehicle information module includes three sub-modules: mileage and energy consumption, personalized
 memory, and message center.  Access method: On the main interface, click the "App Center" icon in the navigation
 bar to enter the App Center interface > vehicle information interface.
 
 ### Create personalized
-`forthing_friday_rhd_en_eb6ef41a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:97 | doc_type:owners_manual
 
 memory
 Upon
@@ -13650,7 +12625,6 @@ seat state with the default name
 "#1," and so on.
 
 ### Click the "×" button in the upper-
-`forthing_friday_rhd_en_71694801` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:97 | doc_type:owners_manual
 
 right corner of a personalized
 memory
@@ -13663,7 +12637,6 @@ pop-up
 ("Delete
 
 ### Personalized
-`forthing_friday_rhd_en_d9b3e01e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:97 | doc_type:owners_manual
 
 Memory").
 Click
@@ -13675,7 +12648,6 @@ slots and fixed slots cannot be
 deleted (no "×" button displayed).
 
 ### Rename button
-`forthing_friday_rhd_en_ed598bb7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:97 | doc_type:owners_manual
 
 After
 creating
@@ -13697,7 +12669,6 @@ click "Cancel" to exit without
 saving.
 
 ### Message Center
-`forthing_friday_rhd_en_47b14927` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:98 | doc_type:owners_manual
 
 DAB
 Click the DAB icon in the "More Apps" section to enter the digital radio interface.  The radio allows you to listen
@@ -13715,7 +12686,6 @@ to the same channel or a similar program with
 better signal.
 
 ### Vehicle control
-`forthing_friday_rhd_en_b96c80ba` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:99 | doc_type:owners_manual
 
 There are three ways to access the vehicle control interface:
 ① Tap the vehicle model image in the scene function on the main interface to enter the Vehicle Control > Quick
@@ -13727,7 +12697,6 @@ There are two ways to exit the vehicle control interface:
 ② Press the HOME button.
 
 ### Quick control
-`forthing_friday_rhd_en_025701fb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:99 | doc_type:owners_manual
 
 The Quick Control interface includes setting switches for driving mode, energy recovery level, rearview mirror
 folding (non-standard), ESC OFF, etc.
@@ -13738,7 +12707,6 @@ The Quick Control interface includes setting switches for driving mode, energy r
 folding (non-standard), ESC OFF, etc.
 
 ### Click the steering wheel button customization
-`forthing_friday_rhd_en_567ddae9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:100 | doc_type:owners_manual
 
 setting tab to enter the customization setting
 interface. Options include: standby, mute,
@@ -13752,7 +12720,6 @@ Light
 Icon
 
 ### Click to turn on/off the FCA
-`forthing_friday_rhd_en_561d01ec` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:103 | doc_type:owners_manual
 
 function
 FCA
@@ -13772,7 +12739,6 @@ A secondary switch for LDA,
 click to switch alarm timing.
 
 ### Connection settings
-`forthing_friday_rhd_en_f976d4ee` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:105 | doc_type:owners_manual
 
 It includes three secondary tabs: WiFi, Hotspot, and Bluetooth.
 WiFi
@@ -13788,7 +12754,6 @@ and hotspot switch are mutually
 exclusive.
 
 ### The "Connect" button in the list of
-`forthing_friday_rhd_en_047c5903` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:105 | doc_type:owners_manual
 
 available networks can be used to
 manually connect to a wireless network.
@@ -13809,7 +12774,6 @@ connection failed" appears for 3 s
 before disappearing.
 
 ### Click to turn the hotspot function
-`forthing_friday_rhd_en_f327d788` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:106 | doc_type:owners_manual
 
 on/off. When the hotspot is turned
 off, it disconnects from other
@@ -13820,7 +12784,6 @@ name
 setting
 
 ### The default hotspot name is "FX +
-`forthing_friday_rhd_en_a96debcb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:106 | doc_type:owners_manual
 
 4 random digits". Users can
 customize
@@ -13846,7 +12809,6 @@ password is an 8-digit random
 number.
 
 ### Click the hotspot password button
-`forthing_friday_rhd_en_6179af01` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:106 | doc_type:owners_manual
 
 to enter the hotspot password
 setting pop-up.  The hotspot
@@ -13866,7 +12828,6 @@ name
 setting
 
 ### The default Bluetooth name is "FX +
-`forthing_friday_rhd_en_a71c693d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:107 | doc_type:owners_manual
 
 4 random digits". Users can customize
 the
@@ -13881,7 +12842,6 @@ uppercase/lowercase letters, numbers,
 and standard ASCII codes.
 
 ### Click "Connect" to send a pairing
-`forthing_friday_rhd_en_85475a7b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:107 | doc_type:owners_manual
 
 request to the target device. A toast
 message "Please confirm connection
@@ -13897,7 +12857,6 @@ failed" for 3 s.
 Display
 
 ### The brightness range of the
-`forthing_friday_rhd_en_34ef0e44` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:108 | doc_type:owners_manual
 
 instrument panel is 0~20
 levels, and the status bar can
@@ -13914,7 +12873,6 @@ be adjusted by sliding or
 clicking.
 
 ### Day/night mode
-`forthing_friday_rhd_en_78523985` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:108 | doc_type:owners_manual
 
 setting
 There are three modes: "Day",
@@ -13941,7 +12899,6 @@ to night mode when they are
 off.
 
 ### Observatory) is set as the
-`forthing_friday_rhd_en_4c2b51d7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:108 | doc_type:owners_manual
 
 central time zone (UTC±0),
 with UTC+1 to +12 and UTC1 to -12.  The default is UTC
@@ -13954,7 +12911,6 @@ the system time, ranging from
 00:00 on December 31, 2099.
 
 ### The internal RTC maintains
-`forthing_friday_rhd_en_ed01bfd4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:108 | doc_type:owners_manual
 
 the time after setting, but it
 resets upon factory reset or
@@ -13975,7 +12931,6 @@ with AM/PM indicated on the
 right.
 
 ### Simplified
-`forthing_friday_rhd_en_0332535d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:109 | doc_type:owners_manual
 
 Chinese,
 Traditional Chinese, English,
@@ -13998,7 +12953,6 @@ Sound
 Icon
 
 ### The system volume can be
-`forthing_friday_rhd_en_860cadbc` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:109 | doc_type:owners_manual
 
 adjusted in 40 levels from 0 to
 39, with a default value of 10.
@@ -14017,7 +12971,6 @@ sound
 switch
 
 ### There are two options: On and
-`forthing_friday_rhd_en_b2ed2728` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:110 | doc_type:owners_manual
 
 Off, with the system default set
 to On.
@@ -14034,7 +12987,6 @@ sound
 effect switch
 
 ### There are two options: On and
-`forthing_friday_rhd_en_044f3143` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:110 | doc_type:owners_manual
 
 Off, with the system default set
 to On.
@@ -14052,7 +13004,6 @@ sound
 switch
 
 ### There are two options: On and
-`forthing_friday_rhd_en_aa987ac0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:110 | doc_type:owners_manual
 
 Off, with the default set to On.
 When set to On, the VSP-related
@@ -14063,7 +13014,6 @@ and the power state changes from
 pre-start to working state, the
 
 ### Click the start detection button to
-`forthing_friday_rhd_en_a2a5ae6d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:110 | doc_type:owners_manual
 
 open the vehicle detection popup window and execute fault
 detection. The pop-up interface
@@ -14074,7 +13024,6 @@ completed
 systems and their status one by
 
 ### Infotainment system
-`forthing_friday_rhd_en_bca7e4aa` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:111 | doc_type:owners_manual
 
 one. After all detections are
 completed, it will jump to the
@@ -14101,7 +13050,6 @@ re-detection button to start a new
 round of detection.
 
 ### Factory reset button
-`forthing_friday_rhd_en_900636de` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:111 | doc_type:owners_manual
 
 The
 factory
@@ -14127,7 +13075,6 @@ enter the "Resetting" interface
 for factory reset.
 
 ### A/C display and control
-`forthing_friday_rhd_en_90b5a13b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:111 | doc_type:owners_manual
 
 1) Access mode:
 ① Swipe up with a single finger on the bottom navigation bar
@@ -14141,7 +13088,6 @@ adjustment function)
 ③ Tap to open another application
 
 ### Internal/external
-`forthing_friday_rhd_en_fad3bcd9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:112 | doc_type:owners_manual
 
 circulation switch
 Click
@@ -14170,7 +13116,6 @@ adjustment
 switch
 
 ### Click or drag the fan speed
-`forthing_friday_rhd_en_9dab6e89` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:112 | doc_type:owners_manual
 
 adjustment slider, or click the
 fan speed icons at both ends of
@@ -14186,13 +13131,11 @@ increase the fan speed by 1
 level.
 
 ### Seat display and control
-`forthing_friday_rhd_en_fa54d284` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:113 | doc_type:owners_manual
 
 The seat control function interface can be accessed via the "Seat" button on the A/C control interface.
 Icon
 
 ### Click the seat massage icon to
-`forthing_friday_rhd_en_ba732db1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:113 | doc_type:owners_manual
 
 open the adjustment pop-up,
 which includes the massage
@@ -14214,7 +13157,6 @@ switch
 (Non-standard)
 
 ### Click the switch to cycle
-`forthing_friday_rhd_en_344ca316` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:113 | doc_type:owners_manual
 
 through the levels in the order:
 "Off -> High -> Medium ->
@@ -14236,7 +13178,6 @@ position adjustment switch
 (Non-standard)
 
 ### Convenience devices (ADAS)
-`forthing_friday_rhd_en_6b06a97a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:114 | doc_type:owners_manual
 
 Forward collision assist (FCA) .......... 119
 Forward collision warning (FCW) ..... 119
@@ -14247,7 +13188,6 @@ can be opened by pulling the tab and closed by
 pushing it back.
 
 ### Central armrest box
-`forthing_friday_rhd_en_dcb31855` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:115 | doc_type:owners_manual
 
 Press the front buckle of the central armrest box, and
 the left and right armrests will open automatically.
@@ -14255,7 +13195,6 @@ There is a vent in the central armrest box, which can
 be opened or closed by turning the switch.
 
 ### The charging will stop automatically after the
-`forthing_friday_rhd_en_4d966380` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:116 | doc_type:owners_manual
 
 charging is completed. If you need to stop charging
 during charging, remove the portable charging
@@ -14267,7 +13206,6 @@ the console, which can be used to store small items
 such as mobile phone and keys.
 
 ### Glove box
-`forthing_friday_rhd_en_dc55d70b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:116 | doc_type:owners_manual
 
 The glove box is located on the right side of the
 dashboard and can be used to store documents and
@@ -14279,7 +13217,6 @@ The cup holder can be used to hold cups, bottles and
 other items, which is convenient for travel.
 
 ### Seat back publication pocket
-`forthing_friday_rhd_en_5b9ff303` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:117 | doc_type:owners_manual
 
 The publication bag is located on the back of the front
 seat and is used to hold small items such as magazines
@@ -14291,7 +13228,6 @@ the front end of the glasses case to slowly open it, and
 push it back to close it.
 
 ### Sun visor
-`forthing_friday_rhd_en_73a62a9d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:117 | doc_type:owners_manual
 
 Turn the sun visor down to block the front sunlight.
 If you need to block the side sunlight, first disengage
@@ -14304,7 +13240,6 @@ cosmetic mirror. Turn down the sun visor and push
 the cosmetic mirror cover to the left/right to use it.
 
 ### Dashboard hook
-`forthing_friday_rhd_en_a9dfa100` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:118 | doc_type:owners_manual
 
 The left side of the glove box is designed with a
 dashboard hook, which can be unfolded by pressing
@@ -14316,7 +13251,6 @@ these items may pop out and cause injury to
 passengers.
 
 ### Seat back hook
-`forthing_friday_rhd_en_1ae0a99f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:119 | doc_type:owners_manual
 
 The back of the front seat is equipped with a hook for
 passengers.
@@ -14331,7 +13265,6 @@ installed in place.
 2.
 
 ### Folding and unfolding
-`forthing_friday_rhd_en_5e14920f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:119 | doc_type:owners_manual
 
 1.
 Pull the roller blind handle, and clamp the pins
@@ -14344,7 +13277,6 @@ serves as a cover for the trunk. To ensure your
 safety, do not place any objects on it.
 
 ### The driver assistance system can assist the driver in
-`forthing_friday_rhd_en_5b6551a0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:120 | doc_type:owners_manual
 
 observing and perceiving the surrounding environment
 during driving. It provides collision warning, active
@@ -14358,7 +13290,6 @@ Lane departure assist (LDA);
 Adaptive cruise control (ACC);
 
 ### FCA includes forward collision warning (FCW) and
-`forthing_friday_rhd_en_5471eda5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:120 | doc_type:owners_manual
 
 automatic emergency braking (AEB). During driving, it
 provides alarm prompt and auxiliary braking for the
@@ -14366,7 +13297,6 @@ driver when there is collision danger in front of the
 vehicle;
 
 ### Enter the setting interface through the vehicle icon at the
-`forthing_friday_rhd_en_ae7b7c10` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:120 | doc_type:owners_manual
 
 bottom left of the vehicle, and click [ADAS] to set the
 on and off of FCA;
@@ -14375,7 +13305,6 @@ function. The function is turned on by default and is not
 recommended to be turned off by users;
 
 ### Alarm time: Click [Alarm Time] to set the alarm
-`forthing_friday_rhd_en_158efda7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:120 | doc_type:owners_manual
 
 sensitivity, which supports early, normal and delay
 options, and the alarm time is normal by default;
@@ -14387,7 +13316,6 @@ For the specific type of the warning lamp, please refer
 to the instrument section.
 
 ### Forward collision warning (FCW)
-`forthing_friday_rhd_en_e5213ba5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:120 | doc_type:owners_manual
 
 When the vehicle is running, if it detects that the
 distance between the front vehicle, cyclist or pedestrian
@@ -14401,7 +13329,6 @@ and the vehicle condition in front of the vehicle will be
 monitored in real time;
 
 ### The level-1 alarm is triggered when the vehicle may be
-`forthing_friday_rhd_en_ded95019` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:120 | doc_type:owners_manual
 
 in collision danger. The instrument warning lamp
 flashes in red, the driving interface turns red in front, and
@@ -14411,7 +13338,6 @@ sound;
 2.
 
 ### The level-2 alarm is triggered when the vehicle is about
-`forthing_friday_rhd_en_c745e93f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:120 | doc_type:owners_manual
 
 to collide. The instrument warning lamp flashes in red,
 the driving interface turns red in front, and the prompt
@@ -14422,7 +13348,6 @@ FCWS instrument warning lamp is always on in yellow.
 Warning
 
 ### The FCW is for reference only and cannot replace your
-`forthing_friday_rhd_en_25858fb0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:120 | doc_type:owners_manual
 
 attention and judgment. The FCW is only a ADAS
 function, which cannot cope with all traffic, weather and
@@ -14447,7 +13372,6 @@ function will be turned on after each vehicle restart.
 Warning
 
 ### FCW may not sound when driver turns the
-`forthing_friday_rhd_en_178e8942` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:121 | doc_type:owners_manual
 
 steering wheel sharply
 AEB
@@ -14458,7 +13382,6 @@ perform emergency brake to avoid collision or reduce
 the injury caused by collision.
 
 ### Function activation
-`forthing_friday_rhd_en_01bcc588` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:121 | doc_type:owners_manual
 
 With the AEB switch turned on, the function will be
 activated when the vehicle speed is within 8-85 km/h,
@@ -14467,7 +13390,6 @@ monitored in real time, and the AEB will be triggered
 when a collision is about to occur;
 
 ### Function trigger
-`forthing_friday_rhd_en_7fe5f355` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:121 | doc_type:owners_manual
 
 When the AEB is triggered, the instrument warning
 lamp flashes in red, the driving interface turns red in
@@ -14477,7 +13399,6 @@ alarm sound;
 When the setting switch is in the off/fault state, the
 
 ### AEBS instrument warning lamp is always on in
-`forthing_friday_rhd_en_bbda43d9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:121 | doc_type:owners_manual
 
 yellow;
 When the AEB is triggered, the vehicle speed is
@@ -14512,7 +13433,6 @@ the vehicle.
 Warning
 
 ### AEB cannot be used to maintain a safe driving
-`forthing_friday_rhd_en_03a042de` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:121 | doc_type:owners_manual
 
 distance from the vehicles ahead, cyclists and
 pedestrians. Please avoid driving too close to vehicle
@@ -14520,7 +13440,6 @@ ahead, cyclists or pedestrians or driving too intensely.
 Caution
 
 ### The brake distance will be longer on wet and slippery
-`forthing_friday_rhd_en_8b567707` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:121 | doc_type:owners_manual
 
 roads. If the ABS, TCS, or vehicle stability control
 system is triggered, the ability of AEB to slow down
@@ -14532,7 +13451,6 @@ AEB does not work.
 Warning
 
 ### The driver depresses the accelerator pedal
-`forthing_friday_rhd_en_82180aa6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:121 | doc_type:owners_manual
 
 deeply or quickly.
 •
@@ -14548,13 +13466,11 @@ No more vehicles, cyclists or pedestrians are
 detected ahead
 
 ### The following conditions may cause the camera to be
-`forthing_friday_rhd_en_e06ac89c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:121 | doc_type:owners_manual
 
 unrecognizable, making the FCA unable to operate as
 expected. This includes, but is not limited to:
 
 ### The recognition capability is decreased at night
-`forthing_friday_rhd_en_46c657e5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:122 | doc_type:owners_manual
 
 •
 The surrounding environment is dark, such as
@@ -14579,7 +13495,6 @@ freezing, snow, etc. on windshield in front of camera
 •
 
 ### The camera is out of focus or faulty
-`forthing_friday_rhd_en_9f9522f9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:122 | doc_type:owners_manual
 
 Only
 eligible
@@ -14593,7 +13508,6 @@ but not limited to:
 •
 
 ### This function cannot guarantee that a special
-`forthing_friday_rhd_en_8565a1ee` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:122 | doc_type:owners_manual
 
 vehicle can be recognized in all situations, especially at
 night, which requires special attention. For example,
@@ -14604,7 +13518,6 @@ surface below a certain height, and no-load vehicles, etc.
 •
 
 ### This function may miss stationary or slow-moving
-`forthing_friday_rhd_en_9c2a96fd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:122 | doc_type:owners_manual
 
 vehicles, especially at night, so pay special attention
 In order to play the best role of this function, the system
@@ -14619,7 +13532,6 @@ not limited to:
 •
 
 ### Pedestrians wearing large clothing (such as
-`forthing_friday_rhd_en_ee8c1128` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:122 | doc_type:owners_manual
 
 raincoats, traditional Chinese clothing, etc.) cause their
 main features (arms, legs, etc.) to be blocked and their
@@ -14634,7 +13546,6 @@ arms and other major features
 •
 
 ### Pedestrians
-`forthing_friday_rhd_en_6012af49` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:122 | doc_type:owners_manual
 
 wear
 clothing
@@ -14646,7 +13557,6 @@ Pedestrians on dark roads, tunnels, etc. at night
 •
 
 ### Pedestrians have large changes in speed when
-`forthing_friday_rhd_en_7de7c5f3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:122 | doc_type:owners_manual
 
 crossing
 In order to give full play to the best function of this
@@ -14660,7 +13570,6 @@ expected. This includes, but is not limited to:
 •
 
 ### The cyclist first appears in sensor 's field of view
-`forthing_friday_rhd_en_96ece928` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:122 | doc_type:owners_manual
 
 at a closer distance
 •
@@ -14675,7 +13584,6 @@ ahead, including but not limited to:
 •
 
 ### FCA will not respond to objects in sensor blind
-`forthing_friday_rhd_en_ce97c2fd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:122 | doc_type:owners_manual
 
 spot, such as blind spot in the corners of the vehicle or
 in the side or rear blind spot of the vehicle
@@ -14684,7 +13592,6 @@ When approaching or passing a road bend, you
 may misselect or miss a target
 
 ### Being on a slope may cause loss of target or
-`forthing_friday_rhd_en_16f003fe` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:123 | doc_type:owners_manual
 
 misjudgment of distance from the target
 •
@@ -14695,7 +13602,6 @@ time
 •
 
 ### When the vehicle suddenly drives into the rear of the
-`forthing_friday_rhd_en_e8b6781b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:123 | doc_type:owners_manual
 
 vehicle in front, or other vehicles suddenly drive into or out of
 the front of the vehicle, it may not be recognized in time
@@ -14715,7 +13621,6 @@ Winding and twisting roads, sharp turning roads.
 •
 
 ### The LDA includes lane departure prevention (LDP) and lane
-`forthing_friday_rhd_en_f1af2fca` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:123 | doc_type:owners_manual
 
 departure warning (LDW). During driving, it provides steering
 correction and alarm prompt for the driver when the vehicle
@@ -14726,7 +13631,6 @@ The LDA switch is turned on, and the function is turned on
 after the vehicle is started;
 
 ### Function activation
-`forthing_friday_rhd_en_6243757b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:123 | doc_type:owners_manual
 
 When the system detects the lane marking and 65 km/h ≤
 vehicle speed ≤ 140 km/h, the system automatically enters the
@@ -14739,7 +13643,6 @@ When the system is activated, the LDA indicator lamp (red)
 flashes;
 
 ### Function trigger
-`forthing_friday_rhd_en_03bf5922` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:123 | doc_type:owners_manual
 
 When the vehicle may deviate from the lane, the steering
 wheel turns slightly to correct the vehicle back to the lane. The
@@ -14751,7 +13654,6 @@ deviated side of the instrument driving interface will turn red
 and flash, accompanied by a medium frequency alarm sound;
 
 ### Enter the setting interface through the vehicle icon at the
-`forthing_friday_rhd_en_d8e8d1b9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:123 | doc_type:owners_manual
 
 bottom left of the vehicle, and click [ADAS] to set the on and
 off of LDA;
@@ -14776,7 +13678,6 @@ the time.
 Warning
 
 ### LDA has limited steering force and can only provide slight
-`forthing_friday_rhd_en_dc655305` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:123 | doc_type:owners_manual
 
 steering correction assistance, but cannot completely prevent
 the vehicle from deviating from the lane. Therefore, do not rely
@@ -14786,7 +13687,6 @@ Take over the steering wheel immediately if you need to turn,
 turn around, or pass through winding and sharp turning roads.
 
 ### Convenience Devices
-`forthing_friday_rhd_en_932bc2a6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:124 | doc_type:owners_manual
 
 Warning
 As a ADAS function, LDA cannot cope with all traffic,
@@ -14794,7 +13694,6 @@ weather and road conditions. The LDA is for reference
 only and is not a substitute for your visual inspection.
 
 ### You must always pay attention to the traffic conditions
-`forthing_friday_rhd_en_3d5dd9b2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:124 | doc_type:owners_manual
 
 and road conditions, and make your own decision on
 whether to use LDA while ensuring safety. When using
@@ -14810,7 +13709,6 @@ Do not do the following while driving:
 •
 
 ### LDA will not remind or control when the turn signal
-`forthing_friday_rhd_en_a460aafc` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:124 | doc_type:owners_manual
 
 lamp is turned on and the vehicle deviates to the
 corresponding side.
@@ -14819,7 +13717,6 @@ The LDA may not be able to detect the edge of the road,
 so please drive carefully and always stay in the lane.
 
 ### The lane marking detection status cannot be used
-`forthing_friday_rhd_en_0ec7f2d0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:124 | doc_type:owners_manual
 
 to determine whether the vehicle is in the lane. The
 driver needs to control the direction of the vehicle;
@@ -14829,7 +13726,6 @@ driver must always maintain control of the vehicle and
 be responsible for the vehicle;
 
 ### The following conditions may cause the LDA system to
-`forthing_friday_rhd_en_7e23950f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:124 | doc_type:owners_manual
 
 fail to operate as expected or to exit automatically,
 including but not limited to:
@@ -14843,7 +13739,6 @@ buildings or scenery
 •
 
 ### Passing through the road section without lane
-`forthing_friday_rhd_en_0db57c76` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:124 | doc_type:owners_manual
 
 marking, such as non-standardized roads, intersections,
 construction areas, etc.
@@ -14856,7 +13751,6 @@ left-turn waiting areas, etc.
 •
 
 ### The lane marking cannot be recognized or is not
-`forthing_friday_rhd_en_03c34ed8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:124 | doc_type:owners_manual
 
 recognized correctly due to the height change, e.g. when
 going uphill or downhill.
@@ -14869,7 +13763,6 @@ poor weather, poor visibility or insufficient light at night
 •
 
 ### The following conditions may cause the LDA system to
-`forthing_friday_rhd_en_d94039a1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:124 | doc_type:owners_manual
 
 fail to operate as expected or exit automatically due to
 camera recognition malfunctions, including but not
@@ -14877,7 +13770,6 @@ limited to:
 •
 
 ### The recognition capability is decreased at night
-`forthing_friday_rhd_en_a52ad227` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:124 | doc_type:owners_manual
 
 •
 The surrounding environment is dark, such as
@@ -14891,7 +13783,6 @@ large vehicles
 •
 
 ### The camera is exposed to direct light
-`forthing_friday_rhd_en_4a92a203` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:124 | doc_type:owners_manual
 
 •
 Rain, snow, fog, haze and other severe weather
@@ -14904,7 +13795,6 @@ freezing, snow, etc. on windshield in front of camera
 •
 
 ### It is not recommended to use LDA under special or
-`forthing_friday_rhd_en_143de668` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:124 | doc_type:owners_manual
 
 complex road conditions, which may cause the LDA
 system to fail to operate as expected or exit
@@ -14923,7 +13813,6 @@ roads, etc.
 Winding and twisting roads, sharp turning roads.
 
 ### Non-standard roads
-`forthing_friday_rhd_en_744ce09f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:125 | doc_type:owners_manual
 
 •
 Road without median strip.
@@ -14936,7 +13825,6 @@ stopping or starting according to the cruising distance
 set by the driver.
 
 ### ACC is mainly suitable for long-distance driving on
-`forthing_friday_rhd_en_2f04be0c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:125 | doc_type:owners_manual
 
 dry and smooth standardized roads, such as highways,
 expressways, long straight roads, etc.
@@ -14947,7 +13835,6 @@ ACC can only control the speed of the vehicle, but
 cannot control the driving direction of the vehicle.
 
 ### You must always pay attention to the traffic
-`forthing_friday_rhd_en_61872213` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:125 | doc_type:owners_manual
 
 conditions and road conditions, and make an
 independent decision on whether to use ACC while
@@ -14964,7 +13851,6 @@ Do not do the following while driving:
 •
 
 ### ACC is a comfort function rather than a collision
-`forthing_friday_rhd_en_76ce2d7d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:125 | doc_type:owners_manual
 
 prevention function, so its maximum deceleration is
 limited and less than the maximum deceleration that
@@ -14973,7 +13859,6 @@ not rely on ACC to fully decelerate the vehicle to
 avoid collision.
 
 ### When the relative speed between the vehicle and the
-`forthing_friday_rhd_en_4fa13b61` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:125 | doc_type:owners_manual
 
 vehicle ahead is greater than 50 km/h, if the vehicle
 ahead is stationary or moving slowly, there is a risk
@@ -14983,7 +13868,6 @@ and do not try to stop the vehicle or follow the vehicle
 ahead with ACC in the above cases.
 
 ### Reset/acceleration button
-`forthing_friday_rhd_en_30c2d892` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:125 | doc_type:owners_manual
 
 1)
 Reset: when the ACC exits temporarily, it can
@@ -14998,7 +13882,6 @@ to increase 5 km/h;
 2.
 
 ### Setting/deceleration button
-`forthing_friday_rhd_en_5577af62` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:125 | doc_type:owners_manual
 
 1)
 Setting: After the ACC is turned on, the ACC
@@ -15014,7 +13897,6 @@ to decrease 5 km/h;
 5.
 
 ### Convenience Devices
-`forthing_friday_rhd_en_bfb072d0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:126 | doc_type:owners_manual
 
 When the ACC is activated, the cruising distance
 (following distance) can be adjusted by the button, and
@@ -15025,7 +13907,6 @@ function; The instrument cluster displays the white ACC
 indicator lamp and the cruising speed;
 
 ### Function activation
-`forthing_friday_rhd_en_4d924633` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:126 | doc_type:owners_manual
 
 When the vehicle speed is greater than 30 km/h, press
 the setting/vehicle speed deceleration button to activate
@@ -15038,7 +13919,6 @@ instrument will prompt "ACC function cannot be
 activated";
 
 ### Cruise control
-`forthing_friday_rhd_en_c969543c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:126 | doc_type:owners_manual
 
 When the vehicle ahead is not recognized, the vehicle
 will run at the speed set by the driver, which can be
@@ -15046,7 +13926,6 @@ adjusted through the cruising speed adjustment button;
 1.
 
 ### The cruising speed can be adjusted by the
-`forthing_friday_rhd_en_0fa1b661` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:126 | doc_type:owners_manual
 
 reset/acceleration button and the setting/deceleration
 button. Short press to increase/decrease 1 km/h, and
@@ -15060,7 +13939,6 @@ according to the current vehicle ahead speed state, and
 finally reach the cruising speed;
 
 ### Cruise control
-`forthing_friday_rhd_en_60205023` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:126 | doc_type:owners_manual
 
 When the vehicle ahead is recognized, the vehicle will
 run at the distance set by the driver, which can be
@@ -15074,7 +13952,6 @@ distances;
 3.
 
 ### There are 4 cruise control distance positions in
-`forthing_friday_rhd_en_a5f02306` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:126 | doc_type:owners_manual
 
 total. The cruise control distance can be adjusted
 through the distance adjustment button. Press the button
@@ -15093,7 +13970,6 @@ depress accelerator pedal or press RES+ button" and it
 will be reactivated after the operation;
 
 ### All components of ACC are not faulty
-`forthing_friday_rhd_en_375b63ae` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:126 | doc_type:owners_manual
 
 •
 The vehicle meets all safety requirements, such as:
@@ -15105,13 +13981,11 @@ The vehicle meets all safety requirements, such as:
 → TCS and ESP are not manually disabled
 
 ### The ACC function will be automatically deactivated due
-`forthing_friday_rhd_en_307b276a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:127 | doc_type:owners_manual
 
 to the user's activation of ESP OFF setting. Please pay
 attention when using the vehicle.
 
 ### The vehicle is stationary for more than 3 minutes
-`forthing_friday_rhd_en_a2e4b406` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:127 | doc_type:owners_manual
 
 In addition, when the ACC does not meet the working
 conditions, the ACC will exit automatically, and the
@@ -15123,7 +13997,6 @@ distance from the vehicle ahead.
 Warning
 
 ### ACC may exit unexpectedly due to unexpected
-`forthing_friday_rhd_en_801b2ec8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:127 | doc_type:owners_manual
 
 conditions. Please always pay attention to the traffic
 conditions and road environment, and be ready to take
@@ -15135,7 +14008,6 @@ and the ACC will require the driver to take over the
 vehicle in time.
 
 ### The ACC will give visual and audible indications to the
-`forthing_friday_rhd_en_a74bac06` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:127 | doc_type:owners_manual
 
 driver, and the instrument cluster will give a text prompt
 "Please take over the vehicle" accompanied by a buzzer,
@@ -15146,7 +14018,6 @@ of "Please take over the vehicle" is sent at the same time,
 but the current action will still be executed.
 
 ### The ACC system is not a safety system nor an
-`forthing_friday_rhd_en_4d4c0f2b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:127 | doc_type:owners_manual
 
 obstacle detector or collision warning system, but a
 comfort system. Therefore, when ACC is turned on,
@@ -15156,7 +14027,6 @@ for the vehicle;
 •
 
 ### The ACC is suitable for use on highways and
-`forthing_friday_rhd_en_431f5c78` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:127 | doc_type:owners_manual
 
 roads with good conditions, but not suitable for use on
 urban roads or mountain roads;
@@ -15177,7 +14047,6 @@ accidents!
 •
 
 ### The ACC system can only adjust the distance
-`forthing_friday_rhd_en_5f866710` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:127 | doc_type:owners_manual
 
 between the vehicle and the vehicle in front, and usually
 cannot detect and apply the brakes for vehicles in other
@@ -15192,7 +14061,6 @@ or under construction, temporarily turn off ACC;
 •
 
 ### The ACC system can assist driver but cannot
-`forthing_friday_rhd_en_1d7abda9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:127 | doc_type:owners_manual
 
 replace driver in driving. Even if the ACC is turned on,
 the driver must drive carefully, be ready to take over the
@@ -15205,7 +14073,6 @@ speed should not be too high to avoid accidents.
 •
 
 ### In some cases (the relative speed of the vehicle
-`forthing_friday_rhd_en_10425001` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:127 | doc_type:owners_manual
 
 ahead is too high, it suddenly slows down, stops,
 changes lanes quickly, or safe distance is too small, etc.),
@@ -15216,7 +14083,6 @@ vehicle, and take full responsibility for the vehicle;
 •
 
 ### The ACC cannot detect the objects loaded on the
-`forthing_friday_rhd_en_e6fe688f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:127 | doc_type:owners_manual
 
 following target vehicle that protrude from the side, rear
 end or roof of the bodywork or the attached accessories.
@@ -15226,7 +14092,6 @@ when overtaking such vehicles, and the driver shall
 actively depress the brake pedal as appropriate;
 
 ### Convenience Devices
-`forthing_friday_rhd_en_198b7356` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:128 | doc_type:owners_manual
 
 •
 Do not activate ACC when towing a vehicle;
@@ -15243,7 +14108,6 @@ deleted after the vehicle is turned off;
 •
 
 ### If instrument cluster prompts "ACC function
-`forthing_friday_rhd_en_1b33a571` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:128 | doc_type:owners_manual
 
 automatically exits" and ACC cannot be turned on
 again, it means that the vehicle has an abnormal
@@ -15252,7 +14116,6 @@ restarted;
 •
 
 ### When the TCS system or ESP system is
-`forthing_friday_rhd_en_dcdaaefa` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:128 | doc_type:owners_manual
 
 triggered, if ACC is controlling the vehicle, ACC will
 automatically shut down;
@@ -15265,7 +14128,6 @@ ACC can be manually activated;
 •
 
 ### The driver can depress the accelerator pedal to
-`forthing_friday_rhd_en_7c2ae7cd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:128 | doc_type:owners_manual
 
 increase the vehicle speed at any time. After the
 accelerator pedal is released, the vehicle speed will
@@ -15282,14 +14144,12 @@ collision with the vehicle ahead;
 •
 
 ### The following vehicle diagram is only
-`forthing_friday_rhd_en_9e2ab898` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:128 | doc_type:owners_manual
 
 displayed when a vehicle traveling in the same
 direction on the same lane is detected;
 •
 
 ### The ACC system is subject to physical laws and
-`forthing_friday_rhd_en_e75730b2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:128 | doc_type:owners_manual
 
 the system itself during driving. In addition, under
 certain conditions, the response of the ACC may be
@@ -15297,13 +14157,11 @@ different from the driver's idea. Therefore, the driver
 must always pay attention and intervene if necessary;
 
 ### Vehicles entering/exiting curves
-`forthing_friday_rhd_en_6e780d73` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:128 | doc_type:owners_manual
 
 When driving in/out of a curve, the ACC may react to
 a vehicle in an adjacent lane and brake the vehicle.
 
 ### This braking process can be ended in advance by
-`forthing_friday_rhd_en_ddbb3711` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:128 | doc_type:owners_manual
 
 actively depressing the accelerator pedal.
 Warning!
@@ -15314,7 +14172,6 @@ and cruising distance, and be ready to take over the
 vehicle at any time.
 
 ### Vehicles in curves
-`forthing_friday_rhd_en_a53d0783` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:128 | doc_type:owners_manual
 
 •
 When the vehicle is in a curve, the ACC may
@@ -15332,7 +14189,6 @@ this happens, the symbol of the vehicle ahead will not
 be displayed on the instrument cluster display.
 
 ### For vehicles that are not running on the same straight
-`forthing_friday_rhd_en_9733fb46` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:128 | doc_type:owners_manual
 
 line (vehicles in adjacent lanes change lanes to enter),
 if they do not enter the recognition range of the
@@ -15340,7 +14196,6 @@ camera sensor, the sensor may not be able to detect
 these vehicles, resulting in a delay in ACC response.
 
 ### Vehicle running on a slope
-`forthing_friday_rhd_en_6017f0ff` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:128 | doc_type:owners_manual
 
 Do not use ACC on steep ramps. On steep ramps, the
 ACC cannot detect vehicles in the same lane, and the
@@ -15352,7 +14207,6 @@ system by depressing the brake pedal, and control the
 vehicle by yourself.
 
 ### When the target vehicle following ahead drives off
-`forthing_friday_rhd_en_f7e9e09e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:129 | doc_type:owners_manual
 
 the expressway or turns, ACC will lose the target and
 the system may automatically accelerate. If the
@@ -15365,7 +14219,6 @@ depressing the brake pedal or pressing the cruise
 control handle at any time.
 
 ### Pedestrian in front of the driving direction of the
-`forthing_friday_rhd_en_f30a3c1e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:129 | doc_type:owners_manual
 
 vehicle
 The ACC cannot detect pedestrians. Once the driver
@@ -15376,7 +14229,6 @@ Vehicles that are difficult to identify (motorcycle,
 bicycle, etc.)
 
 ### The ACC cannot guarantee the detection of all types
-`forthing_friday_rhd_en_4aafdbaf` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:129 | doc_type:owners_manual
 
 of vehicles on the driving path, especially narrow
 vehicles such as battery cars, bicycles, motorcycles,
@@ -15385,7 +14237,6 @@ bodywork. The driver needs to pay close attention to
 the surroundings of the vehicle.
 
 ### When another vehicle suddenly cuts in front of the
-`forthing_friday_rhd_en_42c4de2a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:129 | doc_type:owners_manual
 
 vehicle in the direction of travel, the ACC may not be
 able to control the vehicle quickly or may apply
@@ -15396,7 +14247,6 @@ When the target vehicle makes a U-turn or turns at a
 right angle
 
 ### When the target vehicle followed by the vehicle
-`forthing_friday_rhd_en_30d425c1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:129 | doc_type:owners_manual
 
 makes a U-turn or turns at a right angle, the sensor
 will lose the target and the system may automatically
@@ -15404,7 +14254,6 @@ accelerate. The driver needs to keep an eye on the
 surroundings and be ready to take over at any time.
 
 ### When the target vehicle followed by the vehicle passes
-`forthing_friday_rhd_en_7870a88f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:130 | doc_type:owners_manual
 
 through the intersection, the driver shall pay attention to
 the change of traffic lights, and actively intervene the
@@ -15416,14 +14265,12 @@ not have enough time to brake, and the driver needs to
 intervene in the vehicle if necessary.
 
 ### The following conditions may cause camera recognition
-`forthing_friday_rhd_en_63d42e46` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:130 | doc_type:owners_manual
 
 obstacles, affect ACC performance, and even cause the
 function to exit. This includes, but is not limited to:
 •
 
 ### Only vehicles that meet the conditions will be responded
-`forthing_friday_rhd_en_9d03b552` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:130 | doc_type:owners_manual
 
 to by ACC. The following targets are not guaranteed to
 be identified and may be responded to, including but not
@@ -15442,7 +14289,6 @@ Animals
 •
 
 ### This function cannot guarantee the recognition of
-`forthing_friday_rhd_en_5d0e3e26` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:130 | doc_type:owners_manual
 
 special vehicles, especially at night, which requires
 special attention. For example, vehicles with blocked
@@ -15452,7 +14298,6 @@ vehicles, etc.
 •
 
 ### The following situations may cause ACC to recognize
-`forthing_friday_rhd_en_7e830af2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:130 | doc_type:owners_manual
 
 and respond too late because the target is not directly
 ahead, including but not limited to:
@@ -15468,7 +14313,6 @@ the vehicle.
 •
 
 ### Being on a slope may cause loss of target or
-`forthing_friday_rhd_en_8c05bb5d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:130 | doc_type:owners_manual
 
 misjudgment of distance from vehicle ahead. Driving
 speed will increase when going downhill, resulting in
@@ -15481,7 +14325,6 @@ may not be recognized, and you need to take over in time
 •
 
 ### When the vehicle suddenly drives into the rear of
-`forthing_friday_rhd_en_5f0b901b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:130 | doc_type:owners_manual
 
 the vehicle in front, or other vehicles suddenly drive into
 or out of the front of the vehicle, the target may not be
@@ -15495,7 +14338,6 @@ caused by a change or loss of the following target
 (especially during turns or lane changes).
 
 ### This function may occasionally apply the
-`forthing_friday_rhd_en_9b217ffe` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:131 | doc_type:owners_manual
 
 brakes when they are not needed or intended. This
 may be caused by detecting a change or loss of a
@@ -15504,7 +14346,6 @@ especially during a turn or lane change.
 Warning
 
 ### This function cannot guarantee that the target can be
-`forthing_friday_rhd_en_2608fd3e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:131 | doc_type:owners_manual
 
 accurately identified in all cases. If you find that the
 situation displayed by the target vehicle ahead on the
@@ -15518,7 +14359,6 @@ There is no vehicle ahead, but the instrument
 shows a vehicle ahead
 
 ### It is not recommended to use ACC under special or
-`forthing_friday_rhd_en_6c0d50db` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:131 | doc_type:owners_manual
 
 complex road conditions, which may affect the ACC
 performance and even cause the function to exit,
@@ -15538,7 +14378,6 @@ Winding and twisting roads, sharp turning roads.
 •
 
 ### Non-standard roads
-`forthing_friday_rhd_en_f4b49299` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:131 | doc_type:owners_manual
 
 •
 Road without median strip.
@@ -15550,7 +14389,6 @@ limited to:
 •
 
 ### Sufficient brake force may not be obtained in the
-`forthing_friday_rhd_en_b0e18114` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:131 | doc_type:owners_manual
 
 following cases. This includes, but is not limited to:
 •
@@ -15567,7 +14405,6 @@ etc.)
 •
 
 ### The vehicle is running on special roads (such as
-`forthing_friday_rhd_en_ed57dec1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:131 | doc_type:owners_manual
 
 uphill and downhill, waterlogged, muddy, potholed,
 ice and snow-covered roads, etc.)
@@ -15577,7 +14414,6 @@ shut down. At this time, the START/STOP button
 indicator lamp is breathing/blue.
 
 ### ACC position: When the vehicle is in the "OFF"
-`forthing_friday_rhd_en_9c0fa508` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:133 | doc_type:owners_manual
 
 position, press START/STOP button without
 depressing the brake pedal, the indicator lamp will be
@@ -15586,7 +14422,6 @@ breathing/blue, and the vehicle will switch to the
 such as the infotainment system can be used.
 
 ### ON position: When the vehicle is in the "ACC"
-`forthing_friday_rhd_en_93f332ef` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:133 | doc_type:owners_manual
 
 position, press START/STOP button without
 depressing the brake pedal. indicator lamp is
@@ -15597,7 +14432,6 @@ button again, and the vehicle returns to the "OFF"
 position.
 
 ### START position: The vehicle is at this position when
-`forthing_friday_rhd_en_87e755be` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:133 | doc_type:owners_manual
 
 started. When the START/STOP button is in the
 "OFF/ON/ACC" position, depress the brake pedal,
@@ -15607,7 +14441,6 @@ directly. At this time, the indicator lamp of the
 START/STOP button is always on in blue.
 
 ### Start the vehicle power system
-`forthing_friday_rhd_en_7d8ad3b1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:133 | doc_type:owners_manual
 
 To start the vehicle, the following conditions must be
 met:
@@ -15624,7 +14457,6 @@ check the door.
 •
 
 ### The driving distance of the vehicle is related
-`forthing_friday_rhd_en_948b1512` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:133 | doc_type:owners_manual
 
 to the remaining power of the traction battery
 and the driving power of the vehicle.
@@ -15641,7 +14473,6 @@ parking.
 •
 
 ### The discharge capacity of the traction battery
-`forthing_friday_rhd_en_291fe103` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:133 | doc_type:owners_manual
 
 will be greatly limited at extremely low
 temperatures. In order to avoid difficulty in
@@ -15655,7 +14486,6 @@ the vehicle is not in motion, make sure that
 the vehicle is in P or N position.
 
 ### Vehicle maintenance and software update
-`forthing_friday_rhd_en_6b08c335` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:133 | doc_type:owners_manual
 
 In order to ensure the safety of maintenance personnel,
 please press and hold the hazard warning lamp switch
@@ -15674,7 +14504,6 @@ on the smart key in turn to exit the forced power-off
 mode.
 
 ### Vehicle fails to start
-`forthing_friday_rhd_en_1a32fda3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:134 | doc_type:owners_manual
 
 If the vehicle READY indicator lamp is not on, it
 indicates that there may be a power failure or the
@@ -15691,7 +14520,6 @@ key is in the vehicle and near the front cup holder.
 2.
 
 ### If the instrument cluster prompts [Low battery
-`forthing_friday_rhd_en_efa99639` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:134 | doc_type:owners_manual
 
 SOC] or the instrument cluster cannot be lit,
 indicating that the 12V low-voltage battery power
@@ -15701,7 +14529,6 @@ Self-help Treatment" for details.
 3.
 
 ### Starting the vehicle with the smart key at low
-`forthing_friday_rhd_en_4175cfb8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:134 | doc_type:owners_manual
 
 battery
 When the smart key has low or no power, you can use
@@ -15710,7 +14537,6 @@ door, then put the smart key into the first cup holder
 of the front cup holder (front direction), press the
 
 ### This position is used when parking or putting the
-`forthing_friday_rhd_en_ff579f05` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:134 | doc_type:owners_manual
 
 vehicle in the ready-to-drive state. Press the P button
 on the shift lever to enter the P position. Be sure to
@@ -15723,7 +14549,6 @@ stop the vehicle completely before engaging R
 position.
 
 ### N position (neutral position)
-`forthing_friday_rhd_en_48221923` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:134 | doc_type:owners_manual
 
 When the vehicle is in this position, the drive motor
 cannot output power and will not support auxiliary
@@ -15737,7 +14562,6 @@ vehicle is started, normal gear shifting operation can
 be carried out.
 
 ### The shift lever will return to the middle position after
-`forthing_friday_rhd_en_8e991285` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:134 | doc_type:owners_manual
 
 each gear shifting operation, and the gears are
 arranged from front to back in the order of R-N-D.
@@ -15747,7 +14571,6 @@ After the vehicle comes to a complete stop, press the
 P position button to enter the P position.
 
 ### Set to R position
-`forthing_friday_rhd_en_1212b99f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:135 | doc_type:owners_manual
 
 After the vehicle is started, depress the brake pedal
 and push the shift lever up to the R position.
@@ -15757,7 +14580,6 @@ After the vehicle is started, depress the brake pedal
 and push the shift lever down to the D position.
 
 ### Description of gear shifting conditions
-`forthing_friday_rhd_en_0b0e3f2e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:135 | doc_type:owners_manual
 
 1.
 When the vehicle is not started, the gear can
@@ -15773,7 +14595,6 @@ To engage the D position, push the shift lever
 and depress the brake at the same time.
 
 ### The driving mode is "ECO" by default when the
-`forthing_friday_rhd_en_06a5428e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:135 | doc_type:owners_manual
 
 vehicle is started. Press the driving mode button once
 to switch to "Normal" mode, and press this button
@@ -15781,7 +14602,6 @@ again to switch to "SPORT" mode.
 You can cycle between Eco→Normal→Sport→Eco.
 
 ### It combines the power performance and economy of
-`forthing_friday_rhd_en_ae0cb57f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:135 | doc_type:owners_manual
 
 the vehicle, and is suitable for various roads.
 SPORT mode:
@@ -15791,7 +14611,6 @@ experience. It is suitable for flat roads with few
 vehicles.
 
 ### Eco mode
-`forthing_friday_rhd_en_30c6bbf0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:135 | doc_type:owners_manual
 
 At this time, the vehicle is running in a relatively
 economical and energy-saving state, the power
@@ -15799,7 +14618,6 @@ performance will decrease, the power of the A/C will
 be limited, and the endurance range will increase.
 
 ### The vehicle has the functions of energy recovery
-`forthing_friday_rhd_en_43b7d14a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:136 | doc_type:owners_manual
 
 during coasting and braking energy recovery, which
 can
@@ -15811,7 +14629,6 @@ and
 economical.
 
 ### The energy recovery during coasting can convert the
-`forthing_friday_rhd_en_c80e7810` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:136 | doc_type:owners_manual
 
 kinetic energy of the vehicle into electric energy and
 charge it into the traction battery. In the conversion,
@@ -15819,7 +14636,6 @@ there is inevitable energy loss. The most economical
 way is to use the energy of the vehicle for driving.
 
 ### The energy recovery during coasting has the effect of
-`forthing_friday_rhd_en_7c10f4e1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:136 | doc_type:owners_manual
 
 braking and deceleration. According to the driving
 habits, you can set the energy recovery during
@@ -15833,7 +14649,6 @@ energy recovery can also be carried out when the
 brake pedal is depressed).
 
 ### Braking energy recovery
-`forthing_friday_rhd_en_2f203bb2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:136 | doc_type:owners_manual
 
 When the brake pedal is pressed, the vehicle will
 enter the braking energy recovery. Braking energy
@@ -15844,7 +14659,6 @@ energy to charge the traction battery, so that the
 vehicle can achieve better energy-saving effect.
 
 ### Energy recovery may not be possible in the following
-`forthing_friday_rhd_en_3859cec8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:136 | doc_type:owners_manual
 
 situations.
 1.
@@ -15861,7 +14675,6 @@ coasting cannot be performed.
 3.
 
 ### The charging capacity of the traction battery is
-`forthing_friday_rhd_en_6811ab51` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:136 | doc_type:owners_manual
 
 severely limited when the ambient temperature is
 extremely low or the temperature is too high.
@@ -15878,7 +14691,6 @@ In case of low energy recovery during coasting .
 6.
 
 ### The safety assistance system of the vehicle is
-`forthing_friday_rhd_en_dc7a63a5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:136 | doc_type:owners_manual
 
 activated (such as ABS, etc.).
 7.
@@ -15887,7 +14699,6 @@ case of fault indication, please contact the Forthing
 Special Service Station.
 
 ### Limp-home mode
-`forthing_friday_rhd_en_04e0bf33` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:136 | doc_type:owners_manual
 
 When the vehicle has certain specific faults, the
 power of the vehicle will be limited, the limited
@@ -15896,7 +14707,6 @@ instrument cluster will light up, and the maximum
 vehicle speed will be reduced.
 
 ### Do not continue to start after several failed
-`forthing_friday_rhd_en_4d47a6b6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:136 | doc_type:owners_manual
 
 starts. Please contact the Forthing Special Service
 Station as soon as possible.
@@ -15914,7 +14724,6 @@ cluster has no fault alarm signal.
 6.
 
 ### When the instrument cluster prompts that the
-`forthing_friday_rhd_en_613f37b7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:137 | doc_type:owners_manual
 
 traction battery SOC is too low, do not drive for a
 long distance, and charge the battery as soon as
@@ -15925,7 +14734,6 @@ When parking, put the vehicle into P position and pull
 up the EPB switch at the same time.
 
 ### New energy electric vehicles will have different noise
-`forthing_friday_rhd_en_b90aa955` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:137 | doc_type:owners_manual
 
 and vibration from traditional fuel vehicles.
 The following noises and vibrations are normal:
@@ -15937,13 +14745,11 @@ to complete manual parking, and the parking status
 indicator lamp will come on.
 
 ### Release: Depress brake pedal and press EPB switch
-`forthing_friday_rhd_en_0c4d5588` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:137 | doc_type:owners_manual
 
 at the same time to release the parking brake, and the
 parking status indicator lamp will go out.
 
 ### This function can only be used when the brake pedal
-`forthing_friday_rhd_en_ae13a62f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:137 | doc_type:owners_manual
 
 fails or is blocked. Continuously pull up the EPB
 switch to brake the vehicle with the EPB function in
@@ -15956,7 +14762,6 @@ slippery roads, using the emergency brake function
 may cause the vehicle to drift and sideslip.
 
 ### The auto-hold function can help the driver to start
-`forthing_friday_rhd_en_f6beaca7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:138 | doc_type:owners_manual
 
 more comfortably on a slope or at a traffic lamp
 intersection. This function can be turned on or off
@@ -15973,7 +14778,6 @@ The driver has fastened the seat belt.
 All doors of the vehicle are closed.
 
 ### If the AUTO HOLD function is turned on
-`forthing_friday_rhd_en_af51f717` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:138 | doc_type:owners_manual
 
 during driving, when the driver depresses the brake
 pedal to stop the vehicle, the vehicle will be
@@ -15989,7 +14793,6 @@ be automatically released; otherwise the vehicle may
 not be able to start.
 
 ### Turn off the AUTO HOLD function
-`forthing_friday_rhd_en_cfe9ba77` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:138 | doc_type:owners_manual
 
 1.
 When the AUTO HOLD function is on, press
@@ -16002,7 +14805,6 @@ If the driver's door is opened, the driver seat belt
 is released, or the vehicle is powered off, the AUTO
 
 ### The TCS function can reduce the wheel slip in its
-`forthing_friday_rhd_en_d70965ee` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:138 | doc_type:owners_manual
 
 rotation direction by properly braking the driving
 wheel during the driving process.
@@ -16014,7 +14816,6 @@ following when driving at night:
 1.
 
 ### Adjust the position of the vehicle inside
-`forthing_friday_rhd_en_a386ad6a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:138 | doc_type:owners_manual
 
 rearview mirror to reduce glare.
 3.
@@ -16026,7 +14827,6 @@ Drive at low speed.
 6.
 
 ### Pay attention to the dazzling of the meeting
-`forthing_friday_rhd_en_bb4597ee` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:138 | doc_type:owners_manual
 
 lamps, slow down the vehicle speed, and avoid
 looking directly at the headlights of the opposite
@@ -16039,7 +14839,6 @@ time.
 blocking the line of sight.
 
 ### Driving under the influence
-`forthing_friday_rhd_en_720b1d88` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:139 | doc_type:owners_manual
 
 Do not drive under the influence. Driving under the
 influence is very dangerous. Even a small amount of
@@ -16060,7 +14859,6 @@ Caution
 •
 
 ### When the vehicle passes through water or
-`forthing_friday_rhd_en_dc32fb1f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:139 | doc_type:owners_manual
 
 muddy roads, the braking effect may be
 affected and the brake distance may be
@@ -16083,7 +14881,6 @@ permit, the brake must be cleaned and dried
 by intermittent braking as soon as possible.
 
 ### The waves caused by the oncoming vehicle
-`forthing_friday_rhd_en_1176923b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:139 | doc_type:owners_manual
 
 may exceed the allowable fording height of
 the vehicle.
@@ -16099,7 +14896,6 @@ water. After driving on the road with more
 water, it is recommended to go to the
 
 ### Forthing Special Service Station to conduct a
-`forthing_friday_rhd_en_56744923` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:139 | doc_type:owners_manual
 
 comprehensive inspection of the vehicle,
 check hidden dangers and ensure driving
@@ -16111,7 +14907,6 @@ have made relevant preparations and try to have a
 good rest.
 
 ### Check whether the oil level reaches the
-`forthing_friday_rhd_en_6c43b68d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:139 | doc_type:owners_manual
 
 specified level.
 3.
@@ -16125,7 +14920,6 @@ for long distance driving and whether all tires are
 inflated to the recommended pressure.
 
 ### Please pay attention to the following when driving in
-`forthing_friday_rhd_en_c027a0dc` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:139 | doc_type:owners_manual
 
 rainy days:
 1. Heavy rain will make the sight worse and increase
@@ -16139,7 +14933,6 @@ even accidents may occur. Therefore, please ensure
 that the tire of the vehicle is in good condition.
 
 ### Be sure to slow down when passing through
-`forthing_friday_rhd_en_0473ca0e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:140 | doc_type:owners_manual
 
 waterlogged roads.
 6.
@@ -16155,7 +14948,6 @@ After wading, the brake can be dried by slowly
 depressing the brake pedal during low-speed driving.
 
 ### Driving on ramps and mountainous roads
-`forthing_friday_rhd_en_9090d3b6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:140 | doc_type:owners_manual
 
 When driving on ramps and mountainous roads:
 1.
@@ -16167,7 +14959,6 @@ mountainous roads. Pay attention to these signals and
 take appropriate measures when driving.
 
 ### Driving on ice and snow-covered roads
-`forthing_friday_rhd_en_201220fa` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:140 | doc_type:owners_manual
 
 1.
 When driving in snow, use snow tire as much as
@@ -16184,7 +14975,6 @@ will cause the vehicle to drift. Please keep a safe
 distance.
 
 ### The harsh driving environment in winter will increase
-`forthing_friday_rhd_en_5a522489` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:141 | doc_type:owners_manual
 
 the wear of the vehicle or cause vehicle failure. The
 following recommendations can be used to reduce the
@@ -16197,7 +14987,6 @@ expected temperature in winter.
 2.
 
 ### Check the wiper to ensure that the wiper blade
-`forthing_friday_rhd_en_45b10fa9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:141 | doc_type:owners_manual
 
 can be wiped freely.
 3.
@@ -16214,14 +15003,12 @@ Click
 [Settings]-[Vehicle]-[Accessories]-[Steering
 
 ### Normal: The steering assistance is moderate and
-`forthing_friday_rhd_en_a6f5ec4d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:141 | doc_type:owners_manual
 
 suitable for normal driving habits. This is the default.
 Comfort: The steering assistance is increased, making
 steering easier.
 
 ### When parking or driving at very low vehicle
-`forthing_friday_rhd_en_2fa07162` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:141 | doc_type:owners_manual
 
 speed, if the steering wheel is turned
 repeatedly and continuously or the steering
@@ -16248,7 +15035,6 @@ driving and contact the Forthing Special
 Service Station as soon as possible.
 
 ### The driver can brake in time under most dangerous
-`forthing_friday_rhd_en_814ee7a6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:141 | doc_type:owners_manual
 
 conditions, but the force to depress the brake pedal is
 insufficient, resulting in an increase in the brake
@@ -16261,7 +15047,6 @@ shortening the brake distance.
 BOS
 
 ### BOS can automatically reduce the driving force of the
-`forthing_friday_rhd_en_f693ec11` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:141 | doc_type:owners_manual
 
 vehicle to zero when it detects that the driver has tried
 to apply the brake but fails.
@@ -16273,7 +15058,6 @@ braking, the steering wheel can still be used to avoid
 collision.
 
 ### The ABS system has a built-in self-inspection
-`forthing_friday_rhd_en_72d76fb7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:142 | doc_type:owners_manual
 
 function. When starting the vehicle and driving at low
 speed, the system will perform self-inspection. If
@@ -16281,7 +15065,6 @@ there is a malfunction, the self-inspection function
 will shut down the ABS system and illuminate the
 
 ### ABS system malfunction warning lamp on instrument
-`forthing_friday_rhd_en_79ecaf67` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:142 | doc_type:owners_manual
 
 cluster . At this time, the brake system works
 normally, but the ABS system does not work. If the
@@ -16291,7 +15074,6 @@ during self-inspection or driving, please contact
 Forthing Special Service Station.
 
 ### When the ABS system detects that one or more
-`forthing_friday_rhd_en_d014ca7c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:142 | doc_type:owners_manual
 
 wheels are approaching the locked state, the actuator
 quickly acts to release and restore the brake force.
@@ -16304,14 +15086,12 @@ Caution
 •
 
 ### The EBD system will automatically distribute the
-`forthing_friday_rhd_en_9a2f2e10` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:142 | doc_type:owners_manual
 
 brake force between the front and rear wheels, so that
 the vehicle can have good braking performance under
 different load conditions.
 
 ### The ESP system can improve the stability of the
-`forthing_friday_rhd_en_8b9a3288` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:142 | doc_type:owners_manual
 
 vehicle. When the ESP system detects that the actual
 driving state may deviate from the ideal driving state,
@@ -16320,13 +15100,11 @@ selectively applies brake force to the vehicle brakes
 to improve the stability of the vehicle.
 
 ### ESP switch
-`forthing_friday_rhd_en_e6f254d9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:142 | doc_type:owners_manual
 
 The ESP system is turned on by default. Press the ESP
 switch, the ESP system will be turned off, and the
 
 ### ESP OFF indicator lamp on the instrument cluster
-`forthing_friday_rhd_en_3eae9d77` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:142 | doc_type:owners_manual
 
 will come on.
 After the ESP system is turned off, when the vehicle
@@ -16339,7 +15117,6 @@ automatically, and the ESP OFF indicator lamp on the
 instrument cluster will go out.
 
 ### Hill hold control (HHC) system
-`forthing_friday_rhd_en_8af7a42d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:143 | doc_type:owners_manual
 
 When the vehicle starts on a steep or smooth slope,
 the vehicle may slide downward when the driver
@@ -16347,7 +15124,6 @@ switches from the brake pedal to the accelerator pedal,
 resulting in difficulty in starting. To prevent this, the
 
 ### Do not rely solely on the HHC system to
-`forthing_friday_rhd_en_5a61b506` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:143 | doc_type:owners_manual
 
 avoid the vehicle sliding down the ramp.
 •
@@ -16366,7 +15142,6 @@ When the brake pedal is depressed, and the
 vehicle stops completely on the ramp.
 
 ### The HHC system will not operate under the following
-`forthing_friday_rhd_en_31af7d09` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:143 | doc_type:owners_manual
 
 conditions:
 1.
@@ -16375,7 +15150,6 @@ vehicle is on a level road
 2.
 
 ### The HDC system allows the vehicle to pass steep
-`forthing_friday_rhd_en_295ca588` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:143 | doc_type:owners_manual
 
 downhill sections smoothly with the driver not
 depressing the brake pedal.
@@ -16387,7 +15161,6 @@ switch is pressed again or the vehicle speed exceeds
 and the HDC system is turned off.
 
 ### Braking through HDC
-`forthing_friday_rhd_en_afbcb90c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:143 | doc_type:owners_manual
 
 When the vehicle goes down a steep slope, the HDC
 system is on, the system will actively brake to keep
@@ -16398,7 +15171,6 @@ by depressing the accelerator or brake pedal.
 When the HDC system performs active braking, the
 
 ### HDC working indicator lamp on the instrument
-`forthing_friday_rhd_en_bbdbd803` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:143 | doc_type:owners_manual
 
 cluster flashes and the brake lamp of the vehicle lights
 up. At the same time, the ESP system of the vehicle
@@ -16410,7 +15182,6 @@ confirm that the system is on.
 •
 
 ### The HDC only controls the vehicle speed
-`forthing_friday_rhd_en_32b2c149` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:143 | doc_type:owners_manual
 
 through active brake, and the driver needs to
 pay attention to controlling the vehicle at all
@@ -16423,7 +15194,6 @@ large brake force will be generated, which is a normal
 phenomenon.
 
 ### Comfort stop (CST) system
-`forthing_friday_rhd_en_f06cd652` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:144 | doc_type:owners_manual
 
 The vehicle is braked on a flat and horizontal road.
 Before the vehicle stops, the CST system can
@@ -16433,7 +15203,6 @@ vehicle is parked, and thus improve the braking
 comfort.
 
 ### Click [Settings] - [Vehicle] - [Power] - [Comfort Stop]
-`forthing_friday_rhd_en_2eabb7d1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:144 | doc_type:owners_manual
 
 on the display to turn on or off. After the vehicle is
 restarted, the CST system will memorize the last
@@ -16447,7 +15216,6 @@ is normal.
 •
 
 ### When the vehicle accelerates to about 15
-`forthing_friday_rhd_en_bb0f5c14` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:144 | doc_type:owners_manual
 
 km/h, it will also produce a short "buzzing"
 sound. This is the sound of ABS self-test,
@@ -16455,7 +15223,6 @@ which is normal.
 •
 
 ### The brake-by-wire system will also make a
-`forthing_friday_rhd_en_c1509381` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:144 | doc_type:owners_manual
 
 sound during normal operation, mainly in the
 following aspects:
@@ -16471,7 +15238,6 @@ generated during the self-test, which is
 normal.
 
 ### The parking assist system can assist the driver in
-`forthing_friday_rhd_en_604abe14` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:144 | doc_type:owners_manual
 
 observing
 and
@@ -16484,7 +15250,6 @@ warnings to the driver when there are obstacles
 that hinder driving or parking.
 
 ### The parking radar system can detect the obstacles
-`forthing_friday_rhd_en_41ed3243` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:145 | doc_type:owners_manual
 
 around the vehicle when the vehicle is running at a
 low speed, and issue a warning when the vehicle is
@@ -16494,7 +15259,6 @@ Type 1: 4 rear radar sensors:
 Figure 1.1 Rear 4 Radars
 
 ### When the following conditions are met at the same
-`forthing_friday_rhd_en_af2517cb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:145 | doc_type:owners_manual
 
 time, the rear radar function will be turned on:
 1. The START/STOP button is in the “ON” position.
@@ -16506,7 +15270,6 @@ radar function will be turned off:
 position
 
 ### When the following conditions are met at the same
-`forthing_friday_rhd_en_d2369277` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:145 | doc_type:owners_manual
 
 time, the front radar function will be turned on:
 1. The ignition switch is in the IGN “ON” position;
@@ -16528,7 +15291,6 @@ up;
 5. Vehicle speed ＞15 km/h.
 
 ### When a obstacle is detected within the detection
-`forthing_friday_rhd_en_fc6df279` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:145 | doc_type:owners_manual
 
 range of the parking radar, the display alarm and
 sound alarm will be displayed in the ICE. The closer
@@ -16548,7 +15310,6 @@ AVM interface, radar sensor alarm:
 Figure 1.4 Radar alarm display of AVM interface
 
 ### Fault display
-`forthing_friday_rhd_en_7a848fef` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:145 | doc_type:owners_manual
 
 If a single sensor or multiple sensors in front of the
 vehicle are faulty, the remaining sensors in front of
@@ -16558,7 +15319,6 @@ the remaining sensors at the rear will not work. Please
 go to the service station for maintenance in time.
 
 ### Precautions
-`forthing_friday_rhd_en_2d89f132` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:146 | doc_type:owners_manual
 
 1. This system uses ultrasonic sensors to detect
 nearby obstacles and assist the driver in judging
@@ -16580,7 +15340,6 @@ not suggests a system abnormality.
 the actual one. It is only used as a reference.
 
 ### Please do not use it as the only evidence for
-`forthing_friday_rhd_en_fe919557` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:146 | doc_type:owners_manual
 
 reversing.
 4. Detection failure or poor detection may occur
@@ -16605,7 +15364,6 @@ Warning
 ●
 
 ### The parking assist system is only used as an
-`forthing_friday_rhd_en_0f239126` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:146 | doc_type:owners_manual
 
 auxiliary warning for the front and rear
 obstacles of the vehicle during parking and
@@ -16625,7 +15383,6 @@ used as evidence of safe reversing. The
 driver is responsible for driving safety.
 
 ### The reversing image captures images through a
-`forthing_friday_rhd_en_43724f67` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:146 | doc_type:owners_manual
 
 camera installed at the rear of the vehicle, which is
 convenient for the driver to check the rear obstacle
@@ -16638,7 +15395,6 @@ the gear is shifted to R, and will be turned off if the
 gear is shifted to non-R.
 
 ### Reversing trajectory line
-`forthing_friday_rhd_en_adbfb881` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:146 | doc_type:owners_manual
 
 The scale pattern trajectory line has a scale mark,
 and the scale mark is divided into two sections 0.31 m and 1-1.5 m.
@@ -16652,7 +15408,6 @@ a certain angle.
 Caution
 
 ### The auxiliary line is only used as a reference
-`forthing_friday_rhd_en_012be5e2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:146 | doc_type:owners_manual
 
 and cannot be used as the basis for judging
 the actual distance and driving trajectory of
@@ -16668,7 +15423,6 @@ driver always has the responsibility to keep
 a distance from any obstacle.
 
 ### The camera will enlarge and distort the
-`forthing_friday_rhd_en_c4f9ac2f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:146 | doc_type:owners_manual
 
 image, and there is a slight delay. Therefore,
 the AVM cannot replace the driver's
@@ -16681,7 +15435,6 @@ during use.
 4.
 
 ### There is a certain error between the auxiliary
-`forthing_friday_rhd_en_a9aa8f3e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:147 | doc_type:owners_manual
 
 line and radar wave distance and the actual
 distance. Please observe the safety around
@@ -16695,7 +15448,6 @@ is used with reversing radar to make parking safer
 and more convenient.
 
 ### When the START/STOP button is in “ON”
-`forthing_friday_rhd_en_5119510a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:147 | doc_type:owners_manual
 
 position and the vehicle speed is ≤ 30 km/h, AVM
 will be turned on if one of the following conditions
@@ -16719,7 +15471,6 @@ engaged
 6. Voice exit.
 
 ### Note: When the vehicle speed starts to slow down
-`forthing_friday_rhd_en_4f62c1ed` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:147 | doc_type:owners_manual
 
 from high speed, the vehicle speed needs to be
 reduced to 25 km/h before the AVM function can
@@ -16731,13 +15482,11 @@ Click the front, rear, left and right camera icons on the right to switch the co
 automatically disappear if there is no operation for 5 seconds).
 
 ### Front and rear wide-angle views
-`forthing_friday_rhd_en_154bfe25` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:148 | doc_type:owners_manual
 
 In the panoramic [2D view] interface, touch any position of the front and rear single views to enter the corresponding
 front wide-angle and rear wide-angle interfaces.
 
 ### Comfortable driving
-`forthing_friday_rhd_en_470b2122` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:149 | doc_type:owners_manual
 
 3D view
 Click [3D View] on the left to enter the 3D view interface. Click and drag any area of the image display to rotate
@@ -16747,7 +15496,6 @@ In the [3D View] interface, click the 3D surround icon at the lower right corner
 surround interface. The surround time is maintained for 7 s.
 
 ### Wheel view
-`forthing_friday_rhd_en_4acefa89` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:150 | doc_type:owners_manual
 
 Click [Wheel View] to switch to the corresponding view.
 Settings
@@ -16755,7 +15503,6 @@ Click [Settings] to turn on and off the turn signal lamp entry, transparent car 
 and other functions in the settings. Initialization is off by default, and all have memory function.
 
 ### Comfortable driving
-`forthing_friday_rhd_en_51ef5264` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:151 | doc_type:owners_manual
 
 The 2D front and rear single view (middle) and the 2D stitching view (right) have auxiliary lines. The auxiliary
 lines switch to the front and rear directions with the shift of D and R positions. The actual length indicated by the
@@ -16770,7 +15517,6 @@ driving trajectory of the vehicle. Please pay attention to the surrounding envir
 driving when parking the vehicle.
 
 ### Radar obstacle board display
-`forthing_friday_rhd_en_f54ea1de` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:151 | doc_type:owners_manual
 
 In the panoramic interface, when the working conditions of the radar system are met, the obstacle board will be
 displayed and there will be an alarm sound.
@@ -16779,19 +15525,16 @@ After the four radar sensors on the front and rear sides detect the obstacle, on
 and there is no alarm sound.
 
 ### Steering view
-`forthing_friday_rhd_en_97a7753f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:152 | doc_type:owners_manual
 
 When the turn signal lamp entry function switch is turned on (not in R position), turn on the left/right turn signal
 lamp to enter the corresponding left/right steering angle. After adjusting the 04 steering rod, exit the AVM interface
 after a delay of 1 second.
 
 ### Rear cross traffic alert (RCTA) system*
-`forthing_friday_rhd_en_bcc42128` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:152 | doc_type:owners_manual
 
 In the AVM interface, the alarm will be displayed when the alarm conditions of the angle radar are met.
 
 ### Moving object detection (MOD) system
-`forthing_friday_rhd_en_5744edab` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:153 | doc_type:owners_manual
 
 The MOD system monitors the immediate vicinity of the vehicle in real time through four surround view cameras
 around the bodywork, and gives an alarm when a moving object or pedestrian approaches.
@@ -16808,7 +15551,6 @@ The EPB switch is released.
 The AVM interface is displayed.
 
 ### The auxiliary line is only used as a reference and
-`forthing_friday_rhd_en_4a8483c4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:154 | doc_type:owners_manual
 
 cannot be used as the basis for judging the actual
 distance and driving trajectory of the vehicle. Please
@@ -16827,7 +15569,6 @@ image) of all parking assist system of the vehicle
 cannot replace the driver operation and judgment.
 
 ### Please always pay attention to the safety around the
-`forthing_friday_rhd_en_26840b22` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:154 | doc_type:owners_manual
 
 vehicle during use.
 •
@@ -16839,7 +15580,6 @@ objects around the
 •
 
 ### There is a certain error between the auxiliary line and
-`forthing_friday_rhd_en_9a7fd6ba` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:154 | doc_type:owners_manual
 
 radar wave distance and the actual distance. Please
 observe the safety around the vehicle when parking
@@ -16850,7 +15590,6 @@ please clean it in time.
 •
 
 ### The system cannot be used normally in bad weather
-`forthing_friday_rhd_en_a91afdc4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:154 | doc_type:owners_manual
 
 and insufficient light.
 CCS
@@ -16865,7 +15604,6 @@ Button description:
 1.
 
 ### Cruise reset/acceleration button
-`forthing_friday_rhd_en_4a8ed4c4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:154 | doc_type:owners_manual
 
 Restore the set cruising speed and control the vehicle at this
 speed.
@@ -16873,7 +15611,6 @@ If the cruise control function is turned on:
 Press this button: the set cruise speed increases by 1 km/h.
 
 ### Vehicle speed setting/deceleration button
-`forthing_friday_rhd_en_a8549780` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:154 | doc_type:owners_manual
 
 Set the current vehicle speed as cruising speed and control the
 vehicle according to this vehicle speed.
@@ -16881,7 +15618,6 @@ If the cruise control function is activated:
 Press this button: the set cruise speed decreases by 1 km/h.
 
 ### Long press this button: the set cruise speed decreases
-`forthing_friday_rhd_en_e66bd015` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:154 | doc_type:owners_manual
 
 continuously by 5 km/h.
 Caution
@@ -16893,7 +15629,6 @@ you need to restore the original set vehicle speed, just press
 the cruise reset/acceleration button.
 
 ### Activation conditions
-`forthing_friday_rhd_en_eda30803` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:154 | doc_type:owners_manual
 
 1.
 Press the cruise control button.
@@ -16909,7 +15644,6 @@ The vehicle is in D position.
 The system is not faulty.
 
 ### Pause conditions
-`forthing_friday_rhd_en_e9e92219` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:154 | doc_type:owners_manual
 
 The cruise control function can be paused in any of the
 following ways:
@@ -16930,14 +15664,12 @@ button. The 4th and 5th modes can turn off the cruise control
 completely.
 
 ### Change the set vehicle speed
-`forthing_friday_rhd_en_fce74c83` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:154 | doc_type:owners_manual
 
 The cruise control vehicle speed can be changed by any of the
 following methods.
 1.
 
 ### Press the cruise reset/acceleration button or vehicle
-`forthing_friday_rhd_en_f3128621` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:154 | doc_type:owners_manual
 
 speed setting/deceleration button to increase/decrease the
 vehicle speed.
@@ -16957,7 +15689,6 @@ conditions are still met, the vehicle will resume the original
 set cruising speed.
 
 ### Cruise control function reset
-`forthing_friday_rhd_en_9ae0467f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:155 | doc_type:owners_manual
 
 When the cruise control function is paused, if you
 need to resume the cruise control function, you can
@@ -16967,7 +15698,6 @@ cruise state, and the vehicle will resume the original
 set cruise speed.
 
 ### When the cruise control button is pressed to cancel
-`forthing_friday_rhd_en_699b2586` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:155 | doc_type:owners_manual
 
 the cruise function, the system will completely turn
 off the cruise control and cancel the cruise speed set
@@ -16979,7 +15709,6 @@ driving. It provides collision warning, active safety
 and cruise control for driver to ensure driving safety.
 
 ### Forward collision assist (FCA) includes forward
-`forthing_friday_rhd_en_a29f1f62` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:155 | doc_type:owners_manual
 
 collision warning (FCW) and automatic emergency
 braking (AEB). During driving, it provides alarm
@@ -16993,7 +15722,6 @@ pedestrian and the vehicle is too close, the FCW
 system will remind the driver visually and audibly.
 
 ### Click [Settings] - [Vehicle] - [ADAS] - [FCW] switch
-`forthing_friday_rhd_en_3b53f463` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:155 | doc_type:owners_manual
 
 on the display to select the FCW system.
 When the setting switch is in the closed state, the
@@ -17006,7 +15734,6 @@ km/h, and the vehicle condition in front of the vehicle
 will be monitored in real time.
 
 ### The level-1 alarm is triggered when the vehicle may
-`forthing_friday_rhd_en_c396fb86` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:156 | doc_type:owners_manual
 
 be in collision danger. The FCWS warning lamp on
 the instrument cluster flashes in red, the driving
@@ -17015,7 +15742,6 @@ interface turns red in front, and the prompt box
 accompanied by medium frequency alarm sound.
 
 ### The level-2 alarm is triggered when the vehicle is
-`forthing_friday_rhd_en_ea39b93e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:156 | doc_type:owners_manual
 
 about to collide. The FCWS warning lamp on the
 instrument cluster flashes in red, the driving interface
@@ -17024,7 +15750,6 @@ please be careful] is displayed, accompanied by high
 frequency alarm sound.
 
 ### System interruption
-`forthing_friday_rhd_en_a6abf0c9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:156 | doc_type:owners_manual
 
 The FCW system will not be triggered if any of the
 suppression conditions is met:
@@ -17035,7 +15760,6 @@ angle is too large.
 2.
 
 ### The driver takes over the vehicle control and
-`forthing_friday_rhd_en_5b63b4bd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:156 | doc_type:owners_manual
 
 depresses the accelerator pedal too hard.
 3.
@@ -17055,7 +15779,6 @@ Bad weather.
 The system is faulty.
 
 ### Automatic emergency braking (AEB) system
-`forthing_friday_rhd_en_f3dcdd4d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:156 | doc_type:owners_manual
 
 When the vehicle is running, if it is detected that the
 vehicle, cyclist or pedestrian in front is about to have
@@ -17064,7 +15787,6 @@ automatically perform emergency brake to avoid
 collision or reduce the injury caused by collision.
 
 ### Click [Settings] - [Vehicle] - [ADAS] - [AEB] on the
-`forthing_friday_rhd_en_dda22477` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:156 | doc_type:owners_manual
 
 display to turn on or off.
 With the AEB switch turned on, the function will be
@@ -17074,7 +15796,6 @@ monitored in real time, and the AEB will be triggered
 when a collision is about to occur.
 
 ### Function trigger
-`forthing_friday_rhd_en_077b35eb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:156 | doc_type:owners_manual
 
 When the AEB is triggered, the FCWS warning lamp
 on the instrument cluster flashes in red, the driving
@@ -17083,7 +15804,6 @@ interface turns red in front, and the prompt box
 accompanied by high frequency alarm sound.
 
 ### The AEB is turned on by default every time the
-`forthing_friday_rhd_en_1f391eb1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:157 | doc_type:owners_manual
 
 vehicle is started, and it is not recommended that the
 user turn off the AEB.
@@ -17099,7 +15819,6 @@ angle is too large.
 2.
 
 ### The AEB may be deactivated automatically in the
-`forthing_friday_rhd_en_beaa097a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:157 | doc_type:owners_manual
 
 following cases:
 1.
@@ -17118,7 +15837,6 @@ is too large.
 2.
 
 ### The speed decreases by more than threshold
-`forthing_friday_rhd_en_b27c2089` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:157 | doc_type:owners_manual
 
 value of 40 km/h.
 Caution
@@ -17134,7 +15852,6 @@ the brake as soon as possible.
 •
 
 ### The AEB can only identify regular vehicles
-`forthing_friday_rhd_en_9b05c46c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:157 | doc_type:owners_manual
 
 that have obtained licenses and are legally
 driven on the road, and cannot detect
@@ -17159,7 +15876,6 @@ etc.
 •
 
 ### The AEB cannot identify oncoming vehicles
-`forthing_friday_rhd_en_e370cf5a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:157 | doc_type:owners_manual
 
 and crossing vehicles in front, and cannot
 trigger alarm prompts and AEB.
@@ -17174,7 +15890,6 @@ time.
 •
 
 ### The AEB is usually in the background
-`forthing_friday_rhd_en_4a58fb5d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:157 | doc_type:owners_manual
 
 working state and will not be detected by the
 driver, so the relevant target vehicle or
@@ -17183,7 +15898,6 @@ are detected.
 •
 
 ### To give the best detection performance of the
-`forthing_friday_rhd_en_1be1966c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:157 | doc_type:owners_manual
 
 AEB, the camera is required to receive as
 much information as possible about the body
@@ -17193,7 +15907,6 @@ with standard human movements.
 •
 
 ### The AEB recognition function requires
-`forthing_friday_rhd_en_6a16d73b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:157 | doc_type:owners_manual
 
 sufficient contrast between pedestrians and
 the environmental background. Too bright or
@@ -17210,13 +15923,11 @@ be activated.
 •
 
 ### The system may not be able to detect the
-`forthing_friday_rhd_en_d15cd39d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:157 | doc_type:owners_manual
 
 vehicle ahead when the sensor is blocked by
 ice, snow or dust on a curved road or a ramp.
 
 ### The performance of the AEB will be limited
-`forthing_friday_rhd_en_435f1eb2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:157 | doc_type:owners_manual
 
 in case of low visibility, such as in heavy fog,
 rain or snow.
@@ -17229,7 +15940,6 @@ reduced and the brake distance may be
 increased.
 
 ### The LDA includes lane departure prevention and lane
-`forthing_friday_rhd_en_014cdb86` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:158 | doc_type:owners_manual
 
 departure warning (LDW). During driving, it
 provides steering correction and alarm prompt for the
@@ -17243,7 +15953,6 @@ when the vehicle unconsciously deviates from the
 lane.
 
 ### Click [Settings] - [Vehicle] - [ADAS] - [LDW] on the
-`forthing_friday_rhd_en_de43d33a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:158 | doc_type:owners_manual
 
 display to select the LDW system function.
 When the LDW system is on but not activated, the
@@ -17254,7 +15963,6 @@ the vehicle speed is greater than or equal to 70 km/h,
 it will automatically enter the function activation state.
 
 ### The lane marking of the vehicle is continuously
-`forthing_friday_rhd_en_2f10f841` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:158 | doc_type:owners_manual
 
 detected after the LDW system is activated and
 displayed in the driving interface of the instrument
@@ -17264,7 +15972,6 @@ green lane departure 1 working indicator lamp is
 always on.
 
 ### Function trigger
-`forthing_friday_rhd_en_5c6c6129` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:158 | doc_type:owners_manual
 
 When the vehicle may deviate from the lane, the
 steering wheel will turn slightly to correct the vehicle
@@ -17278,7 +15985,6 @@ driving interface will turn red and flash, accompanied
 by a medium frequency alarm sound.
 
 ### System interruption
-`forthing_friday_rhd_en_01fd60a9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:158 | doc_type:owners_manual
 
 The LDW system will not be triggered if any of the
 suppression conditions is met:
@@ -17289,7 +15995,6 @@ early warning will be delayed.
 2.
 
 ### When the LDW system enters the narrow lane
-`forthing_friday_rhd_en_d6ca8f4d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:158 | doc_type:owners_manual
 
 adaptation mode in a narrow lane (2.5m < lane width
 < 3.0m), the early warning will be delayed.
@@ -17301,7 +16006,6 @@ The vehicle speed is lower than 70 km/h.
 Lane marking on both sides disappear.
 
 ### The lane marking detection status cannot be
-`forthing_friday_rhd_en_82ac21af` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:159 | doc_type:owners_manual
 
 used to determine whether the vehicle is in
 the lane. The driver needs to control the
@@ -17315,7 +16019,6 @@ driving environment and judge whether to
 change lanes.
 
 ### When the front view camera sight is blocked
-`forthing_friday_rhd_en_06f9933a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:159 | doc_type:owners_manual
 
 due to the close distance with the vehicle ahead.
 8.
@@ -17330,14 +16033,12 @@ construction area.
 on the pavement may cause misidentification.
 
 ### Cruise assist*
-`forthing_friday_rhd_en_8a8611a0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:159 | doc_type:owners_manual
 
 Cruise assist is mainly an ACC system. During
 driving, the vehicle runs at the cruising speed set by
 the driver.
 
 ### Adaptive cruise control (ACC) system
-`forthing_friday_rhd_en_2795e9b8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:159 | doc_type:owners_manual
 
 The driver can use the ACC to set the vehicle speed
 within the range of 0~130 km/h, and also follow the
@@ -17350,7 +16051,6 @@ Button description:
 1.
 
 ### Set the current vehicle speed as cruising speed and
-`forthing_friday_rhd_en_4b392f90` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:159 | doc_type:owners_manual
 
 control the vehicle according to this vehicle speed.
 If the cruise control function is turned on:
@@ -17361,7 +16061,6 @@ Four modes can be set: near, medium, far and ultra
 far.
 
 ### The white ACC
-`forthing_friday_rhd_en_a008ba92` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:160 | doc_type:owners_manual
 
 indicator lamp on
 the
@@ -17374,7 +16073,6 @@ be
 displayed.
 
 ### When the vehicle
-`forthing_friday_rhd_en_d8f617f8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:160 | doc_type:owners_manual
 
 speed is greater than
 30 km/h, press the
@@ -17407,7 +16105,6 @@ be
 displayed.
 
 ### When the vehicle
-`forthing_friday_rhd_en_ce29ca18` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:160 | doc_type:owners_manual
 
 activation
 conditions are not
@@ -17419,7 +16116,6 @@ function
 cannot be activated].
 
 ### When the instrument
-`forthing_friday_rhd_en_174a91fd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:160 | doc_type:owners_manual
 
 cluster green ACC
 indicator
@@ -17444,7 +16140,6 @@ be
 completed.
 
 ### Cruise control
-`forthing_friday_rhd_en_6160e2f8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:160 | doc_type:owners_manual
 
 When the vehicle ahead is not recognized, the vehicle
 will run at the speed set by the driver, which can be
@@ -17452,7 +16147,6 @@ adjusted through the cruising speed adjustment button.
 1.
 
 ### The cruising speed can be adjusted by the
-`forthing_friday_rhd_en_fd1dc96c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:160 | doc_type:owners_manual
 
 reset/acceleration button and the setting/deceleration
 button. Short press to increase/decrease 1 km/h, and
@@ -17462,7 +16156,6 @@ and number changes are displayed accordingly.
 3.
 
 ### After the driver actively adjusts the cruising
-`forthing_friday_rhd_en_27c8906c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:160 | doc_type:owners_manual
 
 speed,
 the
@@ -17479,7 +16172,6 @@ adjusted through the cruising speed adjustment button.
 1.
 
 ### When the cruise control is activated for the first
-`forthing_friday_rhd_en_e3ec5107` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:160 | doc_type:owners_manual
 
 time, the distance is the farthest position by default,
 and the last distance is memorized for subsequent
@@ -17487,7 +16179,6 @@ vehicle distances.
 3.
 
 ### There are 4 cruise control distance positions in
-`forthing_friday_rhd_en_83b60849` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:160 | doc_type:owners_manual
 
 total. The cruise control distance can be adjusted
 through the distance adjustment button. Press the
@@ -17500,7 +16191,6 @@ the distance adjustment, and finally reach the cruising
 distance.
 
 ### Comfortable driving
-`forthing_friday_rhd_en_de4ab5b1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:161 | doc_type:owners_manual
 
 5.
 After the vehicle following stops, if the vehicle
@@ -17510,7 +16200,6 @@ gently depress accelerator pedal or press RES+ button]
 and it will be reactivated after the operation.
 
 ### System interruption
-`forthing_friday_rhd_en_cd230867` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:161 | doc_type:owners_manual
 
 If the ACC meets any of the following conditions, the
 system will exit:
@@ -17529,7 +16218,6 @@ The vehicle speed is out of the valid range.
 7.
 
 ### Keep the accelerator pedal depressed for a long
-`forthing_friday_rhd_en_af5c9f2f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:steering | p:161 | doc_type:owners_manual
 
 time.
 8.
@@ -17541,7 +16229,6 @@ preceding object, and the ACC will require the driver
 to take over the vehicle in time.
 
 ### The ACC will give visual and audible indications to
-`forthing_friday_rhd_en_32fceae0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:161 | doc_type:owners_manual
 
 the driver, and the instrument cluster will give a text
 prompt [Please take over the vehicle] accompanied
@@ -17553,7 +16240,6 @@ and the request [Please take over the vehicle] is sent,
 but the current action will still be completed.
 
 ### Comfortable driving
-`forthing_friday_rhd_en_f881f640` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:162 | doc_type:owners_manual
 
 Caution
 •
@@ -17567,7 +16253,6 @@ vehicle.
 •
 
 ### The ACC is suitable for use on highways and
-`forthing_friday_rhd_en_103d00f8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:162 | doc_type:owners_manual
 
 roads with good conditions, but not suitable
 for use on urban roads or mountain roads.
@@ -17595,7 +16280,6 @@ otherwise there is a risk of accidents!
 •
 
 ### The ACC can only adjust the distance
-`forthing_friday_rhd_en_4eee1e2d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:162 | doc_type:owners_manual
 
 between the vehicle and the vehicle in front,
 and usually cannot detect vehicles on other
@@ -17605,7 +16289,6 @@ objects and apply braking for them.
 •
 
 ### If there is an oncoming vehicle on the same
-`forthing_friday_rhd_en_7c50d7df` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:162 | doc_type:owners_manual
 
 lane, the ACC will not respond.
 •
@@ -17622,7 +16305,6 @@ Caution
 •
 
 ### The driver should set the ACC vehicle speed
-`forthing_friday_rhd_en_d952757b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:162 | doc_type:owners_manual
 
 and following distance reasonably according
 to the current road, traffic and weather
@@ -17631,7 +16313,6 @@ not be too high to avoid accidents.
 •
 
 ### In some cases (the relative speed of the
-`forthing_friday_rhd_en_3734b354` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:162 | doc_type:owners_manual
 
 vehicle in front is too high, sudden
 deceleration, parking, fast lane change or
@@ -17644,7 +16325,6 @@ take full responsibility for the vehicle.
 •
 
 ### The ACC cannot detect the objects loaded on
-`forthing_friday_rhd_en_117d6ab0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:162 | doc_type:owners_manual
 
 the following target vehicle that protrude
 from the side, rear end or roof of the
@@ -17657,7 +16337,6 @@ the brake pedal as appropriate.
 •
 
 ### Do not turn on the ACC system when towing
-`forthing_friday_rhd_en_6d0ed97c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:162 | doc_type:owners_manual
 
 a vehicle.
 •
@@ -17674,7 +16353,6 @@ be deleted after the vehicle is turned off.
 •
 
 ### If the instrument cluster prompts [ACC
-`forthing_friday_rhd_en_18ab6b52` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:162 | doc_type:owners_manual
 
 function exits automatically] and the ACC
 cannot be turned on again, it indicates that
@@ -17686,7 +16364,6 @@ ACC is controlling the vehicle, the ACC will
 be automatically turned off.
 
 ### The driver can depress the accelerator pedal
-`forthing_friday_rhd_en_ee6543f9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:163 | doc_type:owners_manual
 
 at any time to increase the vehicle speed.
 After the accelerator pedal is released, the
@@ -17699,7 +16376,6 @@ cause collision with the vehicle ahead.
 •
 
 ### The following vehicle diagram is only
-`forthing_friday_rhd_en_87289e35` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:163 | doc_type:owners_manual
 
 displayed when a vehicle traveling in the
 same direction on the same lane is detected.
@@ -17711,7 +16387,6 @@ apply the brake for the vehicle ahead.
 •
 
 ### The ACC system is subject to physical laws
-`forthing_friday_rhd_en_f7abb67a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:163 | doc_type:owners_manual
 
 and the system itself during driving. In
 addition, under certain conditions, the
@@ -17721,7 +16396,6 @@ always pay attention and intervene if
 necessary.
 
 ### This braking process can be ended in advance by
-`forthing_friday_rhd_en_9e2bdce3` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:163 | doc_type:owners_manual
 
 actively depressing the accelerator pedal.
 Caution
@@ -17732,7 +16406,6 @@ speed and cruising distance, and be ready to take
 over the vehicle at any time.
 
 ### Vehicles in curves
-`forthing_friday_rhd_en_c917c1a6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:163 | doc_type:owners_manual
 
 •
 When the vehicle is in a curve, the ACC may
@@ -17754,7 +16427,6 @@ close attention and be ready to take over at
 any time.
 
 ### Vehicle running on a slope
-`forthing_friday_rhd_en_48a9084e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:164 | doc_type:owners_manual
 
 Do not use ACC on steep ramps. On steep ramps, the
 ACC cannot detect vehicles in the same lane, and the
@@ -17765,7 +16437,6 @@ please immediately release the ACC system by
 depressing the brake pedal and take over the vehicle.
 
 ### When the target vehicle following ahead drives off
-`forthing_friday_rhd_en_9b894f98` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:164 | doc_type:owners_manual
 
 the expressway or turns, ACC will lose the target and
 the system may automatically accelerate. If the
@@ -17778,7 +16449,6 @@ depressing the brake pedal at any time and take over
 the vehicle.
 
 ### Comfortable driving
-`forthing_friday_rhd_en_638b3d52` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 The ACC cannot detect pedestrians. Once the driver
 finds that there are pedestrians in front of the driving
@@ -17788,7 +16458,6 @@ Vehicles that are difficult to identify (motorcycle,
 bicycle, etc.)
 
 ### The ACC cannot guarantee the detection of all types
-`forthing_friday_rhd_en_1ed93993` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:165 | doc_type:owners_manual
 
 of vehicles on the driving path, especially narrow
 vehicles such as electric vehicles, bicycles and
@@ -17798,7 +16467,6 @@ close attention to the surroundings of the vehicle.
 Vehicle cutting in from the front.
 
 ### When another vehicle suddenly cuts in front of the
-`forthing_friday_rhd_en_fbc4e474` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:165 | doc_type:owners_manual
 
 vehicle in the direction of travel, the ACC may not be
 able to quickly control the vehicle or apply
@@ -17807,7 +16475,6 @@ attention to the traffic conditions in front of the
 vehicle in the direction of travel.
 
 ### When the target vehicle followed by the vehicle
-`forthing_friday_rhd_en_9aae2a2d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:165 | doc_type:owners_manual
 
 passes through the intersection, the driver shall pay
 attention to the change of traffic lights, and actively
@@ -17820,7 +16487,6 @@ enough time to brake, and the driver needs to take
 over the vehicle if necessary.
 
 ### Automatic high-beam control (IHC)
-`forthing_friday_rhd_en_ffa8af0a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:166 | doc_type:owners_manual
 
 system*
 During driving, the vehicle automatically switches
@@ -17829,7 +16495,6 @@ environment, including ambient light factors such as
 vehicles and street lights.
 
 ### Click [Settings] - [Vehicle] - [ADAS] - [IHC] on the
-`forthing_friday_rhd_en_e157d19c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:166 | doc_type:owners_manual
 
 display to turn it on or off.
 On the premise that the switch is turned on, when the
@@ -17839,7 +16504,6 @@ function is turned on the premise that the low beam is
 turned on.
 
 ### Low beam to high beam: when the ambient
-`forthing_friday_rhd_en_9c51639b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:166 | doc_type:owners_manual
 
 environment is dark, the vehicle automatically
 switches from low beam to high beam.
@@ -17849,7 +16513,6 @@ source is sufficient, the vehicle automatically
 switches from high beam to low beam.
 
 ### If the IHC system meets any of the following
-`forthing_friday_rhd_en_80cb8319` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:167 | doc_type:owners_manual
 
 conditions, the system will exit:
 1.
@@ -17869,7 +16532,6 @@ degradation of IHC performance.
 •
 
 ### IHC may not work normally due to unstable
-`forthing_friday_rhd_en_2b145dce` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:167 | doc_type:owners_manual
 
 body.
 Traffic
@@ -17885,14 +16547,12 @@ speed limit sign on the instrument cluster to remind
 the driver to drive carefully.
 
 ### Click [Settings] - [Vehicle] - [ADAS] - [TSR] on the
-`forthing_friday_rhd_en_264632e4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:167 | doc_type:owners_manual
 
 display to turn on or off. After the switch is turned on,
 the function is automatically turned on after the
 vehicle is started.
 
 ### Function trigger
-`forthing_friday_rhd_en_ad7ed8b7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:167 | doc_type:owners_manual
 
 When the vehicle passes a speed limit sign, the
 instrument cluster displays the speed limit sign. When
@@ -17901,7 +16561,6 @@ sign on the instrument cluster flashes and disappears
 after 10 s or lower than the speed limit.
 
 ### Function deactivation
-`forthing_friday_rhd_en_af1ea88e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:168 | doc_type:owners_manual
 
 1.
 The vehicle turns around at a low speed.
@@ -17916,7 +16575,6 @@ auxiliary signs.
 The TSR system can detect standard signs,
 
 ### Do not paste any substance on the front
-`forthing_friday_rhd_en_131774dc` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:168 | doc_type:owners_manual
 
 windshield,
 which
@@ -17934,7 +16592,6 @@ with all traffic and weather conditions.
 •
 
 ### TSR system cannot replace the driver's
-`forthing_friday_rhd_en_35d9905f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:168 | doc_type:owners_manual
 
 attention and judgment. The driver is always
 responsible for ensuring that the vehicle runs
@@ -17944,7 +16601,6 @@ regulations.
 •
 
 ### The TSR system may not be able to
-`forthing_friday_rhd_en_f707b03d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:168 | doc_type:owners_manual
 
 recognize the traffic sign when the sensor is
 blocked by snow, ice or dust on a curved road
@@ -17956,7 +16612,6 @@ will be limited.
 •
 
 ### The TSR system may not be able to
-`forthing_friday_rhd_en_0b2025ac` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:168 | doc_type:owners_manual
 
 recognize the traffic sign when the glare
 (oncoming headlight light or direct sunlight)
@@ -17970,7 +16625,6 @@ missed identification of signs, so the driver
 needs to pay special attention to this.
 
 ### Removal and installation of inside rearview
-`forthing_friday_rhd_en_1703617a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:168 | doc_type:owners_manual
 
 mirror.
 2.
@@ -17983,7 +16637,6 @@ otherwise the system performance will be reduced or
 the system will not work normally
 
 ### The operation of the system may also be limited
-`forthing_friday_rhd_en_0659efcf` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:168 | doc_type:owners_manual
 
 in case of snow, heavy rain or road spray.
 3.
@@ -17992,7 +16645,6 @@ there shall be no foreign matters (such as labels, addon parts, etc.) blocking t
 4.
 
 ### The camera sensor area of the front windshield
-`forthing_friday_rhd_en_74f40339` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:168 | doc_type:owners_manual
 
 will be blocked by snow, ice, dust or mud, which may
 affect the system function if not cleaned in time.
@@ -18005,7 +16657,6 @@ Special Service Station.
 6.
 
 ### The visibility of the camera may be reduced due
-`forthing_friday_rhd_en_fdf8a357` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:sensors | p:168 | doc_type:owners_manual
 
 to strong light, dark environment, rain, snow, dirt,
 dust blocking the sensor, etc. As a result, the vehicle
@@ -18013,7 +16664,6 @@ ahead cannot be identified in time or cannot be
 identified. In this case, please intervene by yourself.
 
 ### The side rear assist system can detect the
-`forthing_friday_rhd_en_4f01cc3a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:169 | doc_type:owners_manual
 
 vehicle behind or in the adjacent lane through
 the sensors on both sides of the rear bumper. If
@@ -18022,7 +16672,6 @@ alarm to remind the driver to drive safely.
 Sensor
 
 ### The front and rear millimeter wave radars are
-`forthing_friday_rhd_en_4303a4eb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:169 | doc_type:owners_manual
 
 installed in the front and rear bumpers
 respectively. In order to avoid affecting the
@@ -18036,7 +16685,6 @@ off the side rear assist system；
 ⚫
 
 ### Please keep both sides of the rear bumper
-`forthing_friday_rhd_en_fdfe15e2` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:169 | doc_type:owners_manual
 
 clean, do not paste any objects, and do not
 cover them with foreign matters such as
@@ -18045,7 +16693,6 @@ normal operation of the sensor;
 ⚫
 
 ### Improper maintenance or modification of
-`forthing_friday_rhd_en_79f08296` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:169 | doc_type:owners_manual
 
 the vehicle may cause misalignment of the
 sensor and affect the normal operation of
@@ -18063,7 +16710,6 @@ range and cannot detect targets outside the
 detection limit.
 
 ### Poor environmental conditions of the radar
-`forthing_friday_rhd_en_91d66637` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:169 | doc_type:owners_manual
 
 will affect the normal operation of the radar. In
 addition, abnormal target conditions detected
@@ -18071,7 +16717,6 @@ by the radar will also affect the detection
 results of the radar.
 
 ### The target detected by the radar is attached
-`forthing_friday_rhd_en_ece0cc77` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:169 | doc_type:owners_manual
 
 to substances that absorb sound waves,
 such as snowflakes, foam, cotton objects,
@@ -18083,7 +16728,6 @@ uneven roads or other reasons.
 ⚫
 
 ### There are sound sources with the same
-`forthing_friday_rhd_en_82c68af8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:169 | doc_type:owners_manual
 
 frequency around.
 The above examples, warnings and restrictions
@@ -18103,7 +16747,6 @@ relevant radio astronomy observatories in
 China.
 
 ### Lane change assist (LCA)
-`forthing_friday_rhd_en_adef93b4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:170 | doc_type:owners_manual
 
 The LCA system includes BSD and LCA,
 which can detect vehicles approaching the
@@ -18111,7 +16754,6 @@ vehicle from the side rear and provide warning
 information to avoid collision.
 
 ### When the lane change assist switch is on and
-`forthing_friday_rhd_en_6c23aa86` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:170 | doc_type:owners_manual
 
 vehicle speed is ≥15km/h, the function is
 enabled to monitor the vehicle conditions
@@ -18122,14 +16764,12 @@ The LCA monitoring area is 3.5 m outside the
 vehicle and about 70 m behind it.
 
 ### Level-1 alarm: When the target approaches the
-`forthing_friday_rhd_en_b3927021` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:170 | doc_type:owners_manual
 
 vehicle to trigger the level-1 alarm, the BSD
 lamp on the rearview mirror on the same side
 will be on for a long time;
 
 ### Level-2 alarm: When the target approaches the
-`forthing_friday_rhd_en_94ddcc16` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:170 | doc_type:owners_manual
 
 vehicle, the level-1 alarm will be triggered, and
 when the turn signal lamp on the same side is
@@ -18144,7 +16784,6 @@ outside the car is too loud, the alarm sound
 may not be heard.
 
 ### On ICE [Settings] - [Vehicle] - [ADAS] -
-`forthing_friday_rhd_en_ea4c8699` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:170 | doc_type:owners_manual
 
 [Lane Change Assist], set the switch of the
 LCA. The function is enabled by default, and
@@ -18153,7 +16792,6 @@ the alarm mode can be selected as "display" or
 "display + sound";
 
 ### The system exits when any of the following
-`forthing_friday_rhd_en_006fc7cd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:170 | doc_type:owners_manual
 
 conditions are met:
 ⚫ LCA [OFF];
@@ -18181,7 +16819,6 @@ not be able to alarm the vehicle driving in the
 adjacent lane.
 
 ### The LCA system may give false alarm under
-`forthing_friday_rhd_en_8ffcb9ae` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:170 | doc_type:owners_manual
 
 the following conditions:
 ⚫ When the driving place is close to the
@@ -18189,7 +16826,6 @@ protective fence.
 ⚫ Driving on bridges, under bridges or in
 
 ### Comfortable driving
-`forthing_friday_rhd_en_fcea0a8f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:171 | doc_type:owners_manual
 
 tunnels.
 ⚫ Drive beside shrubs, trees, etc.
@@ -18231,7 +16867,6 @@ carefully.
 Do not use this function in towing mode.
 
 ### Door open warning (DOW)
-`forthing_friday_rhd_en_db17494e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:171 | doc_type:owners_manual
 
 When the vehicle is stationary, the DOW
 system can detect vehicles, cyclists or
@@ -18242,7 +16877,6 @@ door, and the DOW system will send a warning
 message to avoid the danger of collision.
 
 ### Function activation
-`forthing_friday_rhd_en_725403ea` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:171 | doc_type:owners_manual
 
 When the DOW switch is turned on, and the
 vehicle is in ON/ACC/Ready position, the
@@ -18253,13 +16887,11 @@ the safety of users getting off the vehicle;
 The functional monitoring scope is as follows:
 
 ### Level-1 alarm: When the target approaches the
-`forthing_friday_rhd_en_3df74087` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:171 | doc_type:owners_manual
 
 vehicle to trigger the level-1 alarm, the alarm
 lamp will be on for a long time;
 
 ### Level-2 alarm: When the target approaches the
-`forthing_friday_rhd_en_219ad50d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:171 | doc_type:owners_manual
 
 vehicle, the level-1 alarm will be triggered;
 when the door on the same side is opened, the
@@ -18273,7 +16905,6 @@ the noise outside the car is too loud, the
 alarm sound may not be heard.
 
 ### On ICE [Settings] - [Vehicle] - [ADAS] -
-`forthing_friday_rhd_en_28040b53` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:171 | doc_type:owners_manual
 
 [DOW], set the switch item of DOW. The
 function is enabled by default, and the alarm
@@ -18282,7 +16913,6 @@ mode can be selected as "display" or "display
 sound";
 
 ### Comfortable driving
-`forthing_friday_rhd_en_e8ff62ea` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:172 | doc_type:owners_manual
 
 ⚫ System fault;
 Caution
@@ -18326,7 +16956,6 @@ the vehicle.
 beside a wall.
 
 ### The above warnings and limitations do not
-`forthing_friday_rhd_en_1761f192` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:172 | doc_type:owners_manual
 
 address all situations that may interfere with
 the DOW system. There are many factors that
@@ -18364,7 +16993,6 @@ carefully.
 Do not use this function in towing mode.
 
 ### Rear cross traffic alert (RCTA)
-`forthing_friday_rhd_en_f11b21c4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:172 | doc_type:owners_manual
 
 When the vehicle is reversing, RCTA can
 detect vehicles, cyclists or pedestrians crossing
@@ -18374,7 +17002,6 @@ reverses, an early warning message will be
 issued to avoid collision risk.
 
 ### Function activation
-`forthing_friday_rhd_en_a44ebf99` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:safety | p:172 | doc_type:owners_manual
 
 When the RCTA switch is turned on, the
 function will be activated if the vehicle is in R
@@ -18384,7 +17011,6 @@ time to ensure the safety of reversing.
 The functional monitoring scope is as follows:
 
 ### When a target approaches the rear of the
-`forthing_friday_rhd_en_cf03b39b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:173 | doc_type:owners_manual
 
 vehicle during reversing, the alarm lamp will
 flash, accompanied by an audible prompt and
@@ -18396,7 +17022,6 @@ outside the car is too loud, the alarm sound
 may not be heard.
 
 ### System interruption
-`forthing_friday_rhd_en_97620148` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:173 | doc_type:owners_manual
 
 ⚫ The vehicle is not Ready;
 ⚫ Non-R position;
@@ -18405,7 +17030,6 @@ may not be heard.
 ⚫ System fault.
 
 ### On ICE [Settings] - [Vehicle] - [ADAS] -
-`forthing_friday_rhd_en_224ac06f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:173 | doc_type:owners_manual
 
 [RCTA], set the switch item of RCTA, which
 is enabled by default.
@@ -18431,7 +17055,6 @@ driving and compliance with current
 traffic laws and regulations.
 
 ### Precautions and limitations
-`forthing_friday_rhd_en_1256a335` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:173 | doc_type:owners_manual
 
 ⚫ The instrument cluster display is only for
 illustration and does not fully reflect the
@@ -18489,7 +17112,6 @@ responded to, including but not limited to:
 ➢ Other non-vehicle objects
 
 ### The above warnings and limitations do not
-`forthing_friday_rhd_en_b284ecca` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:173 | doc_type:owners_manual
 
 address all situations that may interfere with
 the RCTA. There are many factors that can
@@ -18502,7 +17124,6 @@ driving the vehicle so that the vehicle can be
 reversed safely.
 
 ### Rear collision warning (RCW)
-`forthing_friday_rhd_en_dc6998b5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:174 | doc_type:owners_manual
 
 During driving, when the rear vehicle is too
 close to the ego vehicle and there is a collision
@@ -18510,7 +17131,6 @@ risk, an early warning message is issued to
 avoid collision risk.
 
 ### Function activation
-`forthing_friday_rhd_en_477cbff7` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:174 | doc_type:owners_manual
 
 When the RCW switch is turned on, the
 function will be activated if the vehicle is in N,
@@ -18522,7 +17142,6 @@ collision, a warning message is provided.
 The functional monitoring scope is as follows:
 
 ### Care and maintenance
-`forthing_friday_rhd_en_3b4fb6a9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:175 | doc_type:owners_manual
 
 Front compartment drip channel ........ 176
 Glass washing liquid inspection ......... 182
@@ -18538,7 +17157,6 @@ lower limit (MIN) and the
 upper limit (MAX) mark.
 
 ### Check whether the liftgate and
-`forthing_friday_rhd_en_c5785f1b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:176 | doc_type:owners_manual
 
 all other doors (including the
 rear door) can be opened and
@@ -18551,7 +17169,6 @@ embedded with foreign matters.
 12V lowvoltage battery
 
 ### Check the air outlet of the
-`forthing_friday_rhd_en_41590aca` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:176 | doc_type:owners_manual
 
 defroster every month when the
 heater and A/C are used.
@@ -18568,7 +17185,6 @@ lamp and license plate lamps
 once a month.
 
 ### Regular professional maintenance can keep the
-`forthing_friday_rhd_en_34aa1e71` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:176 | doc_type:owners_manual
 
 vehicle in good condition. The following describes
 how to keep the appearance of the vehicle clean,
@@ -18577,7 +17193,6 @@ wheel, etc., as well as measures related to corrosion
 prevention.
 
 ### Wash the vehicle frequently to help protect the
-`forthing_friday_rhd_en_aef7c393` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:176 | doc_type:owners_manual
 
 appearance of the vehicle. Dust and grit can scratch
 the paintwork, and leaves and bird droppings can
@@ -18585,7 +17200,6 @@ permanently damage the finish of the body surface. It
 is recommended to wash the body in a cool place.
 
 ### Use only the solvents and detergents recommended in
-`forthing_friday_rhd_en_921c0cfa` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:176 | doc_type:owners_manual
 
 the User's Manual. While drying the body, check the
 body for paint peeling or scratches. If any, it shall be
@@ -18594,7 +17208,6 @@ Caution
 •
 
 ### The use of chemical solvents and strong
-`forthing_friday_rhd_en_cac7e82f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:176 | doc_type:owners_manual
 
 detergents when cleaning the vehicle will
 damage the paint, metal and plastic parts and
@@ -18615,7 +17228,6 @@ luster or form water stains.
 Waxing
 
 ### Vehicle waxing is beneficial to prevent adhesion of
-`forthing_friday_rhd_en_ab660dd6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:176 | doc_type:owners_manual
 
 dust and road chemicals. Waxing can only be carried
 out after the vehicle is cleaned and dried, and waxing
@@ -18625,13 +17237,11 @@ or paste wax shall be used. When using, follow the
 instructions on the package.
 
 ### Body wax
-`forthing_friday_rhd_en_07297c20` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:177 | doc_type:owners_manual
 
 Body wax is a wax applied to the paintwork to protect
 it from damage caused by sunlight, air pollution, etc.
 
 ### Polishing wax can restore the oxidized or tarnished
-`forthing_friday_rhd_en_3f46bef6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:177 | doc_type:owners_manual
 
 paintwork to its original luster. This type of wax
 generally contains mild abrasives and solvents that
@@ -18646,7 +17256,6 @@ Therefore, it is necessary to replenish wax at the
 dewaxing position.
 
 ### When small cracks and scratches appear on the paint
-`forthing_friday_rhd_en_4021171c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:177 | doc_type:owners_manual
 
 coating, they shall be repaired immediately with
 special repair coating film or repair paint to prevent
@@ -18659,14 +17268,12 @@ at the same time. After cleaning, rinse the aluminum
 alloy wheel thoroughly with water.
 
 ### The front compartment drip channel is located in
-`forthing_friday_rhd_en_7ffac2fd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:177 | doc_type:owners_manual
 
 front of the front windshield and under the wiper
 cover. It is a very important waterway flow structure
 at the front of the vehicle.
 
 ### The drainage condition of the engine compartment
-`forthing_friday_rhd_en_3056fd86` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:177 | doc_type:owners_manual
 
 drip channel shall be checked every 5000 km to
 ensure that the wiper cover plate is clean and tidy as
@@ -18678,14 +17285,12 @@ please contact the Forthing Special Service Station in
 time.
 
 ### The sealing strip is a rubber sealing part installed on
-`forthing_friday_rhd_en_e9fe002a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:177 | doc_type:owners_manual
 
 the door or body. It is one of the parts to ensure the
 waterproof sealing of the door and belongs to other
 parts.
 
 ### The surface of the sealing strip shall be cleaned in
-`forthing_friday_rhd_en_1e87888d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:177 | doc_type:owners_manual
 
 time during the use of the vehicle to avoid excessive
 wear caused by grit or hard particles on the surface of
@@ -18695,14 +17300,12 @@ found to be worn and damaged, please contact the
 Forthing Special Service Station in time.
 
 ### The carpet shall be vacuumed frequently with a
-`forthing_friday_rhd_en_288fba25` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:177 | doc_type:owners_manual
 
 vacuum cleaner to remove dust. Excessive dust will
 accelerate the damage to the carpet. Regular washing
 with detergent can keep the carpet clean as new.
 
 ### The dust and dirt on the braided fabric shall be
-`forthing_friday_rhd_en_e75ee746` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:177 | doc_type:owners_manual
 
 removed with a vacuum cleaner frequently. It can be
 washed with low-temperature neutral soapy water
@@ -18715,7 +17318,6 @@ or spray or foam vinylon cleaner can also be used.
 Leather
 
 ### It is necessary to frequently use a vacuum cleaner to
-`forthing_friday_rhd_en_71690887` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:177 | doc_type:owners_manual
 
 remove the dust and dirt on the leather, especially at
 the wrinkles and seams. The leather can be cleaned
@@ -18725,7 +17327,6 @@ special soap for cleaning leather can be used.
 Window
 
 ### Seat belt
-`forthing_friday_rhd_en_166892bd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:178 | doc_type:owners_manual
 
 If the seat belt becomes dirty, scrub it with a soft
 brush dipped in neutral warm soapy water. Do not use
@@ -18741,7 +17342,6 @@ cleaning. If it must be cleaned by disassembling,
 please contact the Forthing Special Service Station.
 
 ### Air freshener
-`forthing_friday_rhd_en_60f53036` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:178 | doc_type:owners_manual
 
 If you need to use air fresheners or deodorants in the
 vehicle, it is recommended to use solid air fresheners.
@@ -18753,7 +17353,6 @@ If liquid air freshener is used, ensure that it is properly
 fixed to avoid splashing during driving.
 
 ### Anti-corrosion
-`forthing_friday_rhd_en_3f426f62` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:178 | doc_type:owners_manual
 
 Salt, dirt and moisture are easy to accumulate under
 the vehicle. If the vehicle paint is scraped or worn by
@@ -18767,7 +17366,6 @@ Keep the garage dry.
 3.
 
 ### Pull the engine hood release handle located
-`forthing_friday_rhd_en_15a6b3b8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:178 | doc_type:owners_manual
 
 under the right side of the dashboard, and the engine
 hood will bounce slightly.
@@ -18776,7 +17374,6 @@ Toggle the fuse lock lever to the left and lift the
 engine hood.
 
 ### Close the engine hood
-`forthing_friday_rhd_en_37fdd1bb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:179 | doc_type:owners_manual
 
 For models without engine hood gas stay bar, lift the
 engine hood to a height of about 30 cm from the
@@ -18790,7 +17387,6 @@ middle of the engine hood firmly until it is fully
 closed.
 
 ### The lubricating oil in the reducer shall be changed as
-`forthing_friday_rhd_en_f10551ef` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:182 | doc_type:owners_manual
 
 specified. When replacing, the oil in the reducer shall
 be completely drained, and then new lubricating oil
@@ -18802,7 +17398,6 @@ lower than the lower limit, add coolant to the coolant
 expansion tank until it is near the upper limit.
 
 ### Coolant supplement
-`forthing_friday_rhd_en_e2071271` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:182 | doc_type:owners_manual
 
 Open the coolant expansion tank cover to add coolant.
 Tighten the cover after adding. Coolant of different
@@ -18819,7 +17414,6 @@ cover, it must be confirmed that the drive system
 has cooled down.
 
 ### Coolant replacement
-`forthing_friday_rhd_en_723b8586` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:182 | doc_type:owners_manual
 
 Under normal circumstances, the coolant needs to be
 changed every 2 years or 20,000 km, whichever
@@ -18832,7 +17426,6 @@ please contact the Forthing Special Service Station
 for inspection in time.
 
 ### Excessive moisture content will cause corrosion
-`forthing_friday_rhd_en_bdf29d82` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:183 | doc_type:owners_manual
 
 damage to the brake system, and the boiling point of
 the brake fluid will also decrease significantly. The
@@ -18840,7 +17433,6 @@ brake fluid should be replaced in time according to
 the requirements of the regular maintenance table.
 
 ### Forthing or the DOT4 products of the same
-`forthing_friday_rhd_en_a8eb29ce` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:183 | doc_type:owners_manual
 
 grade packaged in airtight containers
 approved by Forthing. Different brake fluid
@@ -18854,7 +17446,6 @@ system.
 •
 
 ### The brake fluid is toxic and should be kept
-`forthing_friday_rhd_en_f49e3171` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:183 | doc_type:owners_manual
 
 out of reach of children. In case of accidental
 ingestion, go to the hospital for examination
@@ -18862,7 +17453,6 @@ immediately.
 •
 
 ### The brake fluid is corrosive and is not
-`forthing_friday_rhd_en_13036788` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:183 | doc_type:owners_manual
 
 allowed to contact with the paint. Once
 spilled on the paint, it needs to be cleaned
@@ -18875,7 +17465,6 @@ you feel unwell, you should go to the hospital
 for examination immediately.
 
 ### If no water is sprayed when using the wiper
-`forthing_friday_rhd_en_28b90019` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:183 | doc_type:owners_manual
 
 spray function, it indicates that the glass washing
 liquid is insufficient, and the washing liquid can be
@@ -18884,7 +17473,6 @@ Caution
 •
 
 ### It is recommended to use glass washing
-`forthing_friday_rhd_en_0cc35b38` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:183 | doc_type:owners_manual
 
 liquid specified by Forthing. Antifreeze will
 damage the surface paint of the vehicle, and
@@ -18896,7 +17484,6 @@ ethanol content of the washing liquid should
 not be higher than 24%.
 
 ### This vehicle is equipped with a maintenance-free 12V
-`forthing_friday_rhd_en_cc15c28e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:184 | doc_type:owners_manual
 
 low-voltage battery, which is located on the right side
 of the engine compartment, mainly to provide electric
@@ -18906,7 +17493,6 @@ battery is seriously short of power, the vehicle will
 not be able to start.
 
 ### Use and precautions
-`forthing_friday_rhd_en_e2bce0e5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:184 | doc_type:owners_manual
 
 1.
 Do not turn on lamps, audio, wiper and other
@@ -18925,7 +17511,6 @@ are turned off.
 4.
 
 ### The condition of the 12V low-voltage battery
-`forthing_friday_rhd_en_3b90d7bf` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:184 | doc_type:owners_manual
 
 shall be checked once a month. Check whether the
 terminals are corroded (white or light yellow powder).
@@ -18937,7 +17522,6 @@ corrosive and highly toxic. If accidentally contacted,
 please handle it as follows:
 
 ### Eye contact: Rinse with water in a cup or other
-`forthing_friday_rhd_en_f35ecbe4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:184 | doc_type:owners_manual
 
 container for at least 15 minutes and seek medical
 attention immediately.
@@ -18946,7 +17530,6 @@ skin with plenty of water and seek medical attention
 immediately.
 
 ### If you need to connect the 12V low-voltage
-`forthing_friday_rhd_en_8e939be4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:184 | doc_type:owners_manual
 
 battery to other chargers, disconnect both
 positive and negative cables to avoid damage
@@ -18963,7 +17546,6 @@ to cause serious injury. Please avoid driving
 near sparks and open flames.
 
 ### Replace the A/C filter
-`forthing_friday_rhd_en_f706358a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:infotainment | p:184 | doc_type:owners_manual
 
 The A/C filter is located in the A/C box in front of the
 right floor air duct.
@@ -18975,7 +17557,6 @@ cover of the filter screen.
 2.
 
 ### Squeeze the upper and lower sides of the A/C
-`forthing_friday_rhd_en_4e141994` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:184 | doc_type:owners_manual
 
 filter screen to disengage it from the tabs on both
 sides, and remove the filter screen.
@@ -18984,7 +17565,6 @@ Insert a new A/C filter screen.
 4.
 
 ### When the A/C is not used for a long time
-`forthing_friday_rhd_en_ab3a1303` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:184 | doc_type:owners_manual
 
 The A/C shall be turned on at least once every two
 weeks for at least 5 minutes even in cold months. This
@@ -18993,7 +17573,6 @@ inside the compressor and to keep the A/C in the best
 operating condition.
 
 ### Care and maintenance
-`forthing_friday_rhd_en_916d4b78` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:185 | doc_type:owners_manual
 
 Tire
 For safe driving, the tire must be of the right model
@@ -19002,7 +17581,6 @@ Caution
 •
 
 ### Tire pressure label
-`forthing_friday_rhd_en_46694cd6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:185 | doc_type:owners_manual
 
 The vehicle is attached with tire pressure label. The
 label is located under the driver's door frame and
@@ -19013,7 +17591,6 @@ points:
 1.
 
 ### It is recommended to visually check the tire
-`forthing_friday_rhd_en_57238068` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:185 | doc_type:owners_manual
 
 before each driving.
 2.
@@ -19029,7 +17606,6 @@ reading, which will result in insufficient tire pressure.
 TPMS
 
 ### The TPMS is used to dynamically monitor the
-`forthing_friday_rhd_en_cfa31638` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:185 | doc_type:owners_manual
 
 pressure and temperature of the tire. When the tire
 pressure is abnormal, the instrument cluster will
@@ -19059,7 +17635,6 @@ km/h for 1 minute, and the tire pressure
 information interface will update the data.
 
 ### Maintaining proper tire pressure can achieve the best
-`forthing_friday_rhd_en_22bea963` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:185 | doc_type:owners_manual
 
 vehicle maneuverability, driving comfort and tire
 tread life.
@@ -19070,7 +17645,6 @@ are more likely to be damaged due to uneven road
 surface, and cause uneven tire wear.
 
 ### Tire inspection
-`forthing_friday_rhd_en_6b7515ee` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:185 | doc_type:owners_manual
 
 When checking the inflation state of the tire, check
 the tire for external damage, foreign body penetration
@@ -19083,7 +17657,6 @@ be replaced.
 Excessive tread wear.
 
 ### Care and maintenance
-`forthing_friday_rhd_en_e57767fe` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:interior | p:186 | doc_type:owners_manual
 
 The tire must be kept in good condition, and the tire
 surface pattern shall be deep enough. The degree of
@@ -19093,7 +17666,6 @@ tire driving belt. If the tire tread thickness is less than
 adhesion when driving on slippery roads.
 
 ### Tire maintenance
-`forthing_friday_rhd_en_bb75eeab` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:186 | doc_type:owners_manual
 
 In addition to proper inflation, correct wheel
 alignment also helps to reduce tread wear. If you find
@@ -19102,7 +17674,6 @@ during driving, please contact the Forthing Special
 Service Station.
 
 ### Tire rotation
-`forthing_friday_rhd_en_d46aaf23` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:186 | doc_type:owners_manual
 
 In order to prolong the service life of the tire and
 make the tire wear evenly, the tire position shall be
@@ -19111,7 +17682,6 @@ carried out according to the method shown in the
 figure above.
 
 ### Wheel and tire specifications
-`forthing_friday_rhd_en_b1937e20` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:186 | doc_type:owners_manual
 
 Rim specifications: 18 × 6.5J (for specific model), 19
 × 7J.
@@ -19122,7 +17692,6 @@ tire label affixed under the driver's door frame, or
 contact the Forthing Special Service Station.
 
 ### Due to the limited applicability of summer tires in
-`forthing_friday_rhd_en_4146eb8d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:186 | doc_type:owners_manual
 
 winter, it is recommended to use winter tires on ice
 and snow-covered roads. Install the winter tires on all
@@ -19137,7 +17706,6 @@ not exceed the maximum rated speed of the tire
 during driving.
 
 ### Replacement of tire and wheel
-`forthing_friday_rhd_en_01f4fc22` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:186 | doc_type:owners_manual
 
 Radial tires of the same size, load range, rated
 rotational speed and maximum cold tire pressure
@@ -19149,7 +17717,6 @@ vehicle. Using tires of different sizes or structures
 will cause the ABS to fail to work properly.
 
 ### The ABS works by comparing the rotational speed of
-`forthing_friday_rhd_en_d47d0017` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:186 | doc_type:owners_manual
 
 the wheel, so when replacing the tire, you must use a
 tire with the same size as the original tire of the
@@ -19167,7 +17734,6 @@ the Forthing Special Service Station before replacing
 the wheel.
 
 ### Tire chain
-`forthing_friday_rhd_en_db7f9652` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:187 | doc_type:owners_manual
 
 The snow tire chain shall be installed on at least two
 driving wheels at the same time. It is forbidden to
@@ -19176,14 +17742,12 @@ rear wheels. Do not install the tire chain on the left or
 right side of the two wheels.
 
 ### The suggestions provided in this manual are for
-`forthing_friday_rhd_en_c7135ec0` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:187 | doc_type:owners_manual
 
 reference only. The actual installation shall be subject
 to the communication results between the vehicle
 owner and the tire chain manufacturer.
 
 ### Press the hazard warning lamp switch above the A/C
-`forthing_friday_rhd_en_cad6c274` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:189 | doc_type:owners_manual
 
 control panel, the turn signal lamp and the turn signal
 indicator lamp and hazard warning lamp indicator
@@ -19191,7 +17755,6 @@ lamp on the instrument cluster will flash to remind
 pedestrians and passing vehicles to avoid the vehicle.
 
 ### The warning triangle is placed under the trunk lid and
-`forthing_friday_rhd_en_a0d0e65f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:189 | doc_type:owners_manual
 
 can be seen by lifting the lid.
 When an accident occurs during driving, try to stop
@@ -19202,14 +17765,12 @@ vehicle to remind the following vehicles, and turn on
 the hazard warning lamp at the same time.
 
 ### Your vehicle is equipped with emergency tools for
-`forthing_friday_rhd_en_5fac88fa` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:189 | doc_type:owners_manual
 
 car tire repair. Minor damage to the tire tread can be
 repaired using emergency tools for car tire repair. The
 tire repair kit is located under the trunk lid.
 
 ### Instructions for using emergency tools for car
-`forthing_friday_rhd_en_88140067` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:189 | doc_type:owners_manual
 
 tire repair
 1.
@@ -19222,7 +17783,6 @@ suitable distance.
 2.
 
 ### Take out the emergency tools for car tire repair
-`forthing_friday_rhd_en_04a50fa4` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:189 | doc_type:owners_manual
 
 kit from the storage compartment under the trunk
 floor cover, and take out the inflator pump and tire
@@ -19230,7 +17790,6 @@ sealant bottle.
 3.
 
 ### Pull out the inflator pump hose and power
-`forthing_friday_rhd_en_d82a2e01` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:189 | doc_type:owners_manual
 
 supply cord, connect the inflator pump hose to the air
 inlet of the tire sealant bottle, and then tighten it.
@@ -19238,7 +17797,6 @@ Insert the tire sealant bottle into the fixing slot on the
 inflator pump and keep it upright.
 
 ### Unscrew the valve protective cap of the faulty
-`forthing_friday_rhd_en_20088c7c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:190 | doc_type:owners_manual
 
 tire, connect the hose of the tire sealant with the tire
 valve, and tighten it.
@@ -19265,7 +17823,6 @@ km to the nearest Forthing Special Service Station for
 help, and the vehicle speed shall not exceed 80 km/h.
 
 ### Emergency self-help treatment
-`forthing_friday_rhd_en_c462d120` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:191 | doc_type:owners_manual
 
 7.2 When the tire pressure is lower than 2.0 bar,
 please inflate it again with an inflator pump to the
@@ -19284,7 +17841,6 @@ Warning
 ●
 
 ### The emergency tools for car tire repair are only
-`forthing_friday_rhd_en_7217a9b5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:191 | doc_type:owners_manual
 
 limited to emergency repair of tires, which are
 suitable for short-term use to ensure that the
@@ -19297,7 +17853,6 @@ new one as soon as possible.
 ●
 
 ### Park the vehicle as far away from the traffic
-`forthing_friday_rhd_en_6cddc73b` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:191 | doc_type:owners_manual
 
 flow as possible. If necessary, turn on the
 hazard warning indicator lamp and place a
@@ -19305,7 +17860,6 @@ warning triangle.
 ●
 
 ### The tire damage and wheel damage caused by
-`forthing_friday_rhd_en_5aca126f` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:191 | doc_type:owners_manual
 
 driving at too low tire pressure will
 significantly reduce the driving safety of the
@@ -19336,7 +17890,6 @@ tank).
 ●
 
 ### The external temperature range for normal
-`forthing_friday_rhd_en_06193bdb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:191 | doc_type:owners_manual
 
 operation of the tire sealant is -30℃~70℃.
 ●
@@ -19357,7 +17910,6 @@ driving, and abrupt acceleration, emergency
 braking and fast turning shall be avoided.
 
 ### Preparation before tire replacement
-`forthing_friday_rhd_en_824e6280` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:192 | doc_type:owners_manual
 
 Park the vehicle on a flat ground that does not affect traffic and
 is convenient for safe wheel replacement. Before emergency
@@ -19370,13 +17922,11 @@ layer of the trunk, and take out the tools from the spare tire
 foam.
 
 ### Take out the spare tire
-`forthing_friday_rhd_en_c3380652` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:192 | doc_type:owners_manual
 
 Unscrew the center bolt that fixes the spare tire and take out
 the spare tire from the spare tire groove.
 
 ### Jack up the vehicle
-`forthing_friday_rhd_en_c0456a06` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:192 | doc_type:owners_manual
 
 Before jacking up the vehicle, place a piece of wood plug in
 front and behind the wheel diagonally opposite to the
@@ -19392,7 +17942,6 @@ bodywork may sag or an accident may occur when
 the vehicle falls.
 
 ### Take out the wheel nut cover clip from the on-board
-`forthing_friday_rhd_en_ef7f1679` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:192 | doc_type:owners_manual
 
 information bag. Take out the nut trim cover with the wheel
 nut cover clip.
@@ -19405,7 +17954,6 @@ jack. Tighten the wheel nut in the same cross pattern. Then
 install the nut trim cover with the wheel nut cover clip.
 
 ### Fix flat tire
-`forthing_friday_rhd_en_4e65303d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:192 | doc_type:owners_manual
 
 The method of installing a flat tire is the reverse of the steps of
 taking out the spare tire.
@@ -19413,7 +17961,6 @@ Caution
 •
 
 ### Check the inflation pressure of the spare tire
-`forthing_friday_rhd_en_85ba494e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:192 | doc_type:owners_manual
 
 frequently so that it can be used in an emergency at
 any time. Keep the spare tire inflation pressure at the
@@ -19434,7 +17981,6 @@ wheel first, and then the replaced wheel should be
 installed on the steering wheel.
 
 ### The effective repair diameter of this product is
-`forthing_friday_rhd_en_69e379d9` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:193 | doc_type:owners_manual
 
 ≤6 mm, and the puncture can be pulled out for repair
 within this range; If the puncture is larger than this
@@ -19449,7 +17995,6 @@ hole face the 6 o'clock position directly below.
 3.
 
 ### When using this product at the ambient
-`forthing_friday_rhd_en_d7e53431` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:193 | doc_type:owners_manual
 
 temperature of (-40℃~0℃), please warm the product
 to above 0°C in the heater before use, so as to improve
@@ -19477,7 +18022,6 @@ this product.
 8.
 
 ### The storage temperature of this product is -40°C
-`forthing_friday_rhd_en_519f7151` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:193 | doc_type:owners_manual
 
 to 70°C. Avoid placing it in direct sunlight such as the
 front and rear windshields of the car. Do not contact
@@ -19489,7 +18033,6 @@ valve.
 2.
 
 ### Turn the red valve clockwise and put the bottle
-`forthing_friday_rhd_en_c98d9883` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:193 | doc_type:owners_manual
 
 upside down to start the inflation and tire repair.
 4.
@@ -19497,7 +18040,6 @@ After the tire sealant is filled, close the red valve
 counterclockwise and unscrew the connecting pipe.
 
 ### Replacing bulbs usually requires the removal of
-`forthing_friday_rhd_en_ad831254` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:193 | doc_type:owners_manual
 
 certain vehicle components, so professional skills are
 required to carry out the relevant operations,
@@ -19506,7 +18048,6 @@ replacement is required, please contact the Forthing
 Special Service Station.
 
 ### Headlamp calibration
-`forthing_friday_rhd_en_7042ebfd` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:193 | doc_type:owners_manual
 
 When a new vehicle leaves the factory, the headlamp
 has been calibrated. If the trunk is often used to carry
@@ -19515,7 +18056,6 @@ recalibrated. Please contact the Forthing Special
 Service Station for headlamp calibration.
 
 ### Why does the glass surface of the headlamp
-`forthing_friday_rhd_en_4adad4ed` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:194 | doc_type:owners_manual
 
 sometimes appear "fogging"?
 Generally, the fog observed in the headlamp is
@@ -19540,7 +18080,6 @@ lamps.
 ●
 
 ### Wiper maintenance mode
-`forthing_friday_rhd_en_8e8adc02` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:194 | doc_type:owners_manual
 
 When the START/STOP button is in OFF position,
 pull up the wiper control handle, and the front wiper
@@ -19551,7 +18090,6 @@ ON position again, the front wiper will automatically
 return to its original position.
 
 ### Emergency self-help treatment
-`forthing_friday_rhd_en_675fee97` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:195 | doc_type:owners_manual
 
 1.
 After turning on the wiper maintenance mode,
@@ -19565,7 +18103,6 @@ operate in the reverse order to ensure that the wiper
 blade is installed in place correctly.
 
 ### Rear wiper blade replacement
-`forthing_friday_rhd_en_f7ecc252` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:195 | doc_type:owners_manual
 
 Check the rear wiper blade for wear or breakage.
 To replace the rear wiper blade, follow these steps:
@@ -19578,7 +18115,6 @@ human body.
 Caution
 
 ### The engine compartment fuse box is located on the
-`forthing_friday_rhd_en_1e6def8a` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:195 | doc_type:owners_manual
 
 left front side of the engine compartment. Undo the
 buckles on the left and right sides of the fuse box, and
@@ -19589,7 +18125,6 @@ at the lower left corner of the driver's side. Remove
 the storage box to check the fuse.
 
 ### The fuse protects the electrical equipment of the
-`forthing_friday_rhd_en_8937e123` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:196 | doc_type:owners_manual
 
 vehicle by preventing the overload of electrical
 appliances in the circuit. A blown fuse indicates that
@@ -19599,7 +18134,6 @@ inspection and observe whether the wire in the fuse is
 blown.
 
 ### Replace the fuse
-`forthing_friday_rhd_en_2ae53fb5` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:196 | doc_type:owners_manual
 
 There is a fuse puller in the indoor fuse box. Pull the
 fuse straight out of the fuse box with a puller. If the
@@ -19617,7 +18151,6 @@ electrical fault. At this time, contact the Forthing
 Special Service Station as soon as possible.
 
 ### Rear towing point
-`forthing_friday_rhd_en_a2d4be51` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:maintenance | p:201 | doc_type:owners_manual
 
 If the vehicle needs to be towed, contact a
 professional vehicle towing service department. Do
@@ -19628,14 +18161,12 @@ The vehicle can be loaded on a truck, which is the best
 way to transport the vehicle.
 
 ### Insert two support arms into the bottom of the front
-`forthing_friday_rhd_en_041c6915` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:wheels | p:201 | doc_type:owners_manual
 
 wheels of the towed vehicle to lift the wheels off the
 ground, with the rear wheels still on the ground,
 which is a feasible method for towing the vehicle.
 
 ### Precautions for towing
-`forthing_friday_rhd_en_acb460b1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:201 | doc_type:owners_manual
 
 When wheel-lifting towing is adopted, the towing
 mileage should preferably not exceed 50 km, and the
@@ -19653,7 +18184,6 @@ position to release the steering wheel locking state,
 and set the shift lever to the N position.
 
 ### If it is necessary to achieve the non-parking function
-`forthing_friday_rhd_en_38a41e4e` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:brakes | p:201 | doc_type:owners_manual
 
 in the power-off state, it can be achieved by the
 following operations:
@@ -19675,7 +18205,6 @@ conveyor-type automatic car wash, where you and the
 attendant cannot remain in the vehicle;
 
 ### The towing mode will also be used in towing and
-`forthing_friday_rhd_en_cd16034c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:201 | doc_type:owners_manual
 
 replacing the battery pack;
 After power-on again, if the power-off is performed
@@ -19683,14 +18212,12 @@ again, the EPB automatic clamping function will be
 triggered;
 
 ### If the vehicle cannot be started due to insufficient 12V
-`forthing_friday_rhd_en_685fc12c` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:lighting | p:202 | doc_type:owners_manual
 
 low-voltage battery power, the jump cable can be
 used to start the vehicle with the help of the 12V lowvoltage battery on other vehicles. Jumper connection
 is dangerous and should be handled with caution.
 
 ### Operation steps
-`forthing_friday_rhd_en_c23cb2df` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:202 | doc_type:owners_manual
 
 1.
 Open the engine hood.
@@ -19700,7 +18227,6 @@ position, and pull up the EPB switch.
 3.
 
 ### Connect the negative cable clamp to the
-`forthing_friday_rhd_en_a70b3bc1` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:202 | doc_type:owners_manual
 
 negative (-) terminal of the rescue vehicle battery.
 6.
@@ -19711,7 +18237,6 @@ unpainted metal part on the vehicle.
 7.
 
 ### Start the rescue vehicle and keep it running for
-`forthing_friday_rhd_en_72a47002` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:202 | doc_type:owners_manual
 
 about 5 min to charge the 12V low-voltage battery of
 the vehicle.
@@ -19725,14 +18250,12 @@ the vehicle as soon as possible.
 Warning
 
 ### When jump starting with a jumper cable from
-`forthing_friday_rhd_en_41f35c88` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:general | p:202 | doc_type:owners_manual
 
 another vehicle, it is necessary to follow the
 instructions properly. Incorrect operation steps
 may cause fire, explosion or damage to the vehicle.
 
 ### If the power system fault warning lamp on the
-`forthing_friday_rhd_en_de365506` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:202 | doc_type:owners_manual
 
 instrument cluster is on, check immediately
 according to the following steps:
@@ -19768,7 +18291,6 @@ reinstall and tighten the fluid reservoir cover.
 Warning
 
 ### Removing the expansion tank cover when the drive
-`forthing_friday_rhd_en_becb4ddb` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:ev | p:202 | doc_type:owners_manual
 
 motor is very hot can cause coolant to spray out,
 causing serious burns. Be sure to remove the
@@ -19780,7 +18302,6 @@ Vehicle identification information ..... 203
 12V low-voltage battery warning sign
 
 ### There are several vehicle identification numbers
-`forthing_friday_rhd_en_b27eae43` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:204 | doc_type:owners_manual
 
 (VINs) on your vehicle, which are located in different
 locations.
@@ -19800,7 +18321,6 @@ It is pasted on the right B-pillar inner panel.
 6.
 
 ### It is pasted on the right front wall A-pillar inner
-`forthing_friday_rhd_en_3173cce6` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:204 | doc_type:owners_manual
 
 panel.
 7.
@@ -19815,7 +18335,6 @@ information of the vehicle through the OBD
 diagnostic port.
 
 ### The drive motor flexible label is located on the left
-`forthing_friday_rhd_en_3dbe5dae` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:205 | doc_type:owners_manual
 
 front of the motor housing. The information content
 is consistent with the drive motor steel code, which is
@@ -19828,7 +18347,6 @@ and shall be ventilated during charging and use to
 prevent accidents.
 
 ### The radiator warning sign and the A/C refrigerant
-`forthing_friday_rhd_en_5010e766` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:engine | p:205 | doc_type:owners_manual
 
 sign are affixed to the upper inside engine hood.
 When replacing the coolant, use the coolant specified
@@ -19837,7 +18355,6 @@ mixed. Do not touch the radiator, as the cooling fan
 may rotate at any time.
 
 ### The microwave window of the vehicle is located
-`forthing_friday_rhd_en_0903ea3d` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:206 | doc_type:owners_manual
 
 horizontally in the middle and vertically on the top of
 the front windshield. The identification contains the
@@ -19848,7 +18365,6 @@ Caution
 ●
 
 ### Do not paste film or metal materials at the
-`forthing_friday_rhd_en_c46dc7c8` | friday_rhd | pdf_manual | tier:2 | lang:en | layer:body | p:206 | doc_type:owners_manual
 
 microwave window position to ensure the
 standard installation of the vehicle electronic

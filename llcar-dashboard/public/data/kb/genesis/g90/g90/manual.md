@@ -1,8 +1,12 @@
-# Manual: genesis/g90 (1328 chunks)
-<!-- doc_type:owners_manual tier:2 lang:en -->
+---
+brand: genesis
+model: g90
+generation: g90
+source: kb
+---
+
 
 ### OWNER'S MANUAL
-`genesis_g90_en_c2a7ab45` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Operation Maintenance Specifications
 
@@ -11,38 +15,32 @@ All information in this Owner's Manual is current at the time of publication. Ho
 This manual applies to all Genesis Branded Vehicle models and includes descriptions and explanations of optional as well as standard equipment. As a result, you may find material in this manual that does not apply to your specific vehicle.
 
 ### CAUTION: MODIFICATIONS TO YOUR GENESIS BRANDED VEHICLE
-`genesis_g90_en_fb8b5325` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Your Genesis Branded Vehicle should not be modified in any way. Such modifications may adversely affect the performance, safety o durability of your Genesis Branded Vehicle and may, in addition, violate conditions of the limited warranties covering the vehicle. Certain modifications may also be in violation of regulations established by the U.S. Department of Transportation and other federal or state agencies.
 
 ### TWO-WAY RADIO OR CELLULAR TELEPHONEINSTALLATION
-`genesis_g90_en_be04004e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Your vehicle is equipped with electronic fuel injection and other electronic components. It is possible for an improperly installed/adjusted two-way radio or cellular telephone to adversely affect electronic systems. For this reason, we recommend that you carefully follow the radio manufacturer’s instructions or consult your authorized retailer of Genesis Branded products for precautionary measures or special instructions if you choose to install one of these devices.
 
 ### SAFETY AND VEHICLE DAMAGE WARNING
-`genesis_g90_en_41d565f6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This manual includes information titled as DANGER, WARNING, CAUTION and NOTICE.
 
 These titles indicate the following:
 
 ### ！ DANGER
-`genesis_g90_en_4e22fc62` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 DANGER indicates a hazardous situation which, if not avoided, will result in death or serious injury.
 
 ![](images/af7f4fe896d61905ea43ca9f028ec8f53183a276831b556e264cc2d5b9a33e23.webp)
 
 ### NOTICE
-`genesis_g90_en_18a0a288` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 WARNING indicates a hazardous situation which, if not avoided, could result in death or serious injury.
 
 NOTICE indicates a situation which, if not avoided, could result in vehicle damage.
 
 ### Genesis Branded Vehicle Owner Privacy Policy
-`genesis_g90_en_5ae661cc` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Your Genesis Branded vehicle may be equipped with technologies and services that use information collected,
 
@@ -58,7 +56,6 @@ Genesis Customer Care representatives are available Monday through Friday, betwe
 For Genesis Customer Care assistance in Spanish or Korean, representatives are available Monday through Friday between 6:30 AM and 3:00 PM PST.
 
 ### INTRODUCTION
-`genesis_g90_en_34db52c3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Congratulations, and thank you for choosing the Genesis Branded Vehicle. We are pleased to welcome you to the growing number of discerning people who drive the Genesis Branded Vehicle. We are very proud of the advanced engineering and high-quality construction of each Genesis Branded Vehicle we build.
 
@@ -71,14 +68,12 @@ This manual also contains information on maintenance designed to enhance safe op
 This Owner's Manual should be considered a permanent part of your vehicle, and should be kept in the vehicle so you can refer to it at any time. The manual should stay with the vehicle if you sell it to provide the next owner with important operating, safety and maintenance information.
 
 ### GENESIS CUSTOMER CARE
-`genesis_g90_en_75072969` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/0393a843e17bd5c60c7bada3d6f38ceedd0a6f38cd062af743472f0bbd7625e9.webp)
 
 Copyright 2019 Genesis Customer Care. All rights reserved. No part of this publication may be reproduced, stored in any retrieval system or transmitted in any form or by any means without the prior written permission of Genesis Customer Care.
 
 ### 1. What are Genesis Parts?
-`genesis_g90_en_299a8a86` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Genesis Parts are the same parts used by HYUNDAI Motor Company to manufacture vehicles. They are designed and tested for the optimum safety, performance, and reliability to our customers.
 
@@ -86,7 +81,6 @@ Genesis Parts are the same parts used by HYUNDAI Motor Company to manufacture ve
 ■ Type A
 
 ### 2. Why should you use Genuine Genesis Parts?
-`genesis_g90_en_90e19576` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Genuine Genesis Parts are engineered and built to meet rigid manufacturing requirements. Damage caused by using imitation, counterfeit or used salvage parts is not covered under the Genesis Branded New Vehicle Limited Warranty or any other Genesis Branded Vehicle warranty.
 
@@ -95,14 +89,12 @@ In addition, any damage to or failure of Genuine Genesis Part caused by the inst
 ![](images/91329eff04a6bcfd63fbd671a25cffc92f3529896fc7855862012bc28a98862b.webp)
 
 ### 3. How can you tell if you are purchasing Genuine Genesis Parts?
-`genesis_g90_en_92c7be63` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Look for the Genuine Genesis Parts Logo on the package. Genuine Genesis Parts exported to the U.S. are packaged with labels written only in English. Genuine Genesis Parts are only sold through an authorized retailer of Genesis Branded products.
 
 ![](images/7bfee88677adf8b81b746dcf50a2c1f9cdff8c69f79118fc16cd7ec60f975328.webp)
 
 ### HOW TO USE THIS MANUAL
-`genesis_g90_en_4d05881e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 We want to help you get the greatest possible driving pleasure from your vehicle. Your Owner's Manual can assist you in many ways. To gain an overview of the contents of your Owner's Manual, use the Table of Contents in the front of the manual. The first page of each Chapter includes a detailed Table of Contents of the topics in that Chapter.
 
@@ -111,7 +103,6 @@ To quickly locate information about your vehicle, use the Index in the back of t
 For your convenience, we have incorporated tabs on the right-hand page edges. These tabs are coded with the Chapter titles to assist you with navigating through the manual.
 
 ### SAFETY MESSAGES
-`genesis_g90_en_e47deca8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Your safety, and the safety of others, is very important. This Owner's Manual provides you with many safety precautions and operating procedures. This information alerts you to potential hazards that may hurt you or others, as well as damage to your vehicle.
 
@@ -126,41 +117,34 @@ Throughout this manual DANGER, WARNING, CAUTION, NOTICE and the SAFETY ALERT SYM
 This is the safety alert symbol. It is used to alert you to potential physical injury hazards. Obey all safety messages that follow this symbol to avoid possible injury or death. The safety alert symbol precedes the signal words DANGER,
 
 ### A DANGER
-`genesis_g90_en_22b15020` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 DANGER indicates a hazardous situation which, if not avoided, will result in death or serious injury.
 
 ![](images/70ff45d37d9339c1f3b5d2ad0d903107e33f9ff2ff39df30e7a650e8176d8d5a.webp)
 
 ### NOTICE
-`genesis_g90_en_18a0a288` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 WARNING indicates a hazardous situation which, if not avoided, could result in death or serious injury.
 
 NOTICE indicates a situation which, if not avoided, could result in vehicle damage.
 
 ### FUEL REQUIREMENTS
-`genesis_g90_en_0fed7a1f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Your new vehicle is designed to obtain maximum performance with UNLEADED FUEL, as well as minimize exhaust emissions and spark plug fouling.
 
 Your new vehicle is designed to use only unleaded fuel having an octane number ((R+M)/2) of 87 (Research Octane Number 91) or higher. For improved vehicle performance, premium unleaded fuel with an octane number ((R+M)/2) of 91 (Research Octane Number 96) or higher is recommended. (Do not use methanol blended fuels.)
 
 ### NOTICE
-`genesis_g90_en_e8761d4d` | g90 | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 To prevent damage to the engine and engine components, never add any fuel system cleaning agents to the fuel tank other than what has been specified.
 
 Consult an authorized retailer of Genesis Branded products for additional information.
 
-### WARNING
-`genesis_g90_en_e06cb72a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Do not "top off" after the nozzle automatically shuts off when refueling.
-Always check that the fuel cap is installed securely to prevent fuel spillage in the event of an accident.
+> ⚠️ **Внимание:** 
+> Do not "top off" after the nozzle automatically shuts off when refueling.
+> Always check that the fuel cap is installed securely to prevent fuel spillage in the event of an accident.
 
 ### Gasoline containing alcohol or methanol
-`genesis_g90_en_2d6a2097` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Gasohol, a mixture of gasoline and ethanol (also known as grain alcohol) are being marketed along with or instead of leaded or unleaded gasoline. For example, "E15" is a gasohol comprised of 15% ethanol and 85% gasoline.
 
@@ -171,7 +155,6 @@ Discontinue using gasoho of any kind if drivability problems occur.
 "E85" fuel is an alternative fuel comprised of 85 percent ethanol and 15 percent gasoline, and is manufactured exclusively for use in Flexible Fuel Vehicles. "E85" is not compatible with your vehicle. Use of "E85" may result in poor engine performance and damage to your vehicle's engine and fuel system. Genesis Branded Vehicle recommends that customers do not use fuel with an ethanol content exceeding 15 percent.
 
 ### NOTICE
-`genesis_g90_en_e6da5688` | g90 | pdf_manual | tier:2 | lang:en | layer:engine | p:1 | doc_type:owners_manual
 
 To prevent damage to your vehicle’s engine and fuel system:
 
@@ -193,12 +176,10 @@ may result in cylinder misfire, poor acceleration, engine stalling, damage to th
 The Malfunction Indicator Lamp (MIL) may illuminate.
 
 ### NOTICE
-`genesis_g90_en_c3a059fb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Damage to the fuel system or performance problem caused by the use of these fuels or fuel additives may not be covered by your New Vehicle Limited Warranty.
 
 ### Gasoline containing MMT
-`genesis_g90_en_665b1c15` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Some gasoline contains harmful manganese-based fuel additives such as MMT (Methylcyclopentadienyl Manganese Tricarbonyl).
 
@@ -209,7 +190,6 @@ This type of fuel can reduce vehicle performance and affect your emission contro
 The malfunction indicator lamp on the cluster may come on.
 
 ### Detergent Fuel Ad itives
-`genesis_g90_en_5e8adf97` | g90 | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 Genesis Branded Vehicle recommends that you use good quality gasolines treated with detergent additives such as TOP TIER Detergent Gasoline, which help prevent deposit formation in the engine.These gasolines will help the engine run cleaner and enhance performance of the Emission Control System. For more information on TOP TIER Detergent Gasoline, please go to the website (www.toptiergas.com).
 
@@ -218,24 +198,20 @@ For customers who do not use TOP Tier Detergent Gasoline regularly, and have pro
 Additives are available from your authorized retailer of Genesis Branded products along with information on how to use them. Do not mix other additives.
 
 ### Operation n foreign countries
-`genesis_g90_en_6cd6c4e0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you are going to drive your vehicle in another country, be sure to: Observe all regulations regarding registration and insurance. Determine that acceptable fuel is available.
 
 ### VEHICLE MODIFICATIONS
-`genesis_g90_en_b2ef93d8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle should not be modified. Modification of your vehicle could affect its performance, safety or durability and may even violate governmental safety and emissions regulations.
 In addition, damage or performance problems resulting from any modification may not be covered under warranty.
 If you use unauthorized electronic devices, it may cause the vehicle to operate abnormally, wire damage, battery discharge and fire. For your safety, do not use unauthorized electronic devices.
 
 ### NOTICE
-`genesis_g90_en_74931a05` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 All warning sounds (e.g. welcome/good-bye sound, virtual engine sound) are generated from the exterior amplifiers. If necessary, we recommend you to purchase Genuine Genesis Part to replace an exterior amplifier. Any unauthorized product may cause a malfunction of the exterior amplifiers.
 
 ### VEHICLE BREAK-IN PROCESS
-`genesis_g90_en_574f06ee` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 By following a few simple precautions for the first 600 miles (1,000 km) you may add to the performance, economy and life of your vehicle.
 
@@ -245,14 +221,12 @@ Do not maintain a single speed for long periods of time, either fast or slow. Va
 Avoid hard stops, except in emergencies, to allow the brakes to seat properly.
 
 ### CALIFORNIA PROPOSITION 65 WARNING
-`genesis_g90_en_0f8ed8f8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Items contained in motor vehicles or emitted from them are known to the State of California to cause cancer and birth defects or reproductive harm. These include:
 
 Gasoline and its vapors Engine exhaust Used engine oil Interior passenger compartment components and materials Component parts which are subject to heat and wear In addition, battery posts, terminals and related accessories contain lead, lead compounds and other chemicals known to the State of California to cause cancer and reproductive harm.
 
 ### VEHICLE DATA COLLECTION AND EVENT DATA RECORDERS
-`genesis_g90_en_0f2f97c9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This vehicle is equipped with an event data recorder (EDR). The main purpose of an EDR is to record, in certain crash or near crash-like situations, such as an air bag deployment or hitting a road obstacle, data that will assist in understanding how a vehicle’s systems performed.The EDR is designed to record data related to vehicle dynamics and safety systems for a short period of time, typically 30 seconds or less.The EDR in this vehicle is designed to record such data as:
 
@@ -266,7 +240,6 @@ These data can help provide a better understanding of the circumstances in which
 To read data recorded by an EDR, special equipment is required, and access to the vehicle or the EDR is needed. In addition to the vehicle manufacturer, other parties, such as law enforcement, that have the special equipment, can read the information if they have access to the vehicle or the EDR.
 
 ### 1. Your Vehicle at a Glance
-`genesis_g90_en_c9553c28` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Exterior Overview  1-2
 Interior Overview  1-4
@@ -275,7 +248,6 @@ Instrument Panel Overview (ll)  1-6
 Engine Compartment  1-7
 
 ### EXTERIOR OVERVIEW
-`genesis_g90_en_e202e6a9` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/b4b2fdee69ce024b6a9cfbbaef377bb93cadc569ff7a173ca7bd231496c74f7a.webp)
 
@@ -289,7 +261,6 @@ OHI019001N
 4. Outer side view mirror.  3-29 8. Side repeater lamp 7-70
 
 ### Rear view
-`genesis_g90_en_080472d4` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/573e57450bed5726a6cb5a388a25016308960ae26b2357e8437f0a4e9df368fb.webp)
 
@@ -309,7 +280,6 @@ Glass antenna  4-3
 17. Trunk open switch .3-42
 
 ### The actual shape may differ from the illustration.
-`genesis_g90_en_fa223b5e` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 OHI018003
 
@@ -335,7 +305,6 @@ OFF button .5-33
 18. Seat adjustment switch  2-4
 
 ### The actual shape may differ from the illustration.
-`genesis_g90_en_160ea3fc` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 OHI019004N
 
@@ -352,7 +321,6 @@ system 15. Drive mode button  5-45
 button.  3-149
 
 ### INSTRUMENT PANEL OVERVIEW (II)
-`genesis_g90_en_a62c52ea` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/ba49e5753b1c3bf7e46d66bdade14e3e27ec0b257ff63022fac945f59b6cf277.webp)
 
@@ -369,7 +337,6 @@ OHI018005
 6. LCD display control.  3-78 7. Smart cruise control vehicle-to-vehicle distance button ... ..5-103 8. Smart cruise control switch.  5-96
 
 ### ENGINE COMPARTMENT
-`genesis_g90_en_f7a64933` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/cf0d900d60861860a7feae7f3f2a0934b68a3968220223bdeb4c681558e7f6a7.webp)
 
@@ -388,7 +355,6 @@ OHI078001/OHI078003
 5. Engine oil dipstick  7-22
 
 ### 2. Safety System of Your Vehicle
-`genesis_g90_en_6ee8d0ad` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Important Safety Precautions  2-2
 Always Wear Your Seat Belt  2-2
@@ -423,27 +389,22 @@ Air bag Advanced Supplemental
 Restraint System.  2-57 Where Are the Air Bags?  2-59 How Does the Air Bags System Operate?  2-63 What to Expect after an Air Bag Inflates...  2-67 Occupant Classification System (OCS)    2-68 Why Didn't My Air Bag Go Off in a Collision?  2-74 SRS Care.   Additional Safety Precautions  2-80 Air Bag Warning Labels  2-81
 
 ### IMPORTANT SAFETY PRECAUTIONS
-`genesis_g90_en_de23b642` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 You will find many safety precautions and recommendations throughout this section, and throughout this manual. The safety precautions in this section are among the most important.
 
 ### Always Wear Your Seat Belt
-`genesis_g90_en_e746f2a2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A seat belt is your best protection in all types of accidents. Air bags are designed to supplement seat belts, not replace them. So even though your vehicle is equipped with air bags, ALWAYS make sure you and your passengers wear your seat belts, and wear them properly.
 
 ### Restrain All Children
-`genesis_g90_en_922cd518` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 All children under age 13 should ride in your vehicle properly restrained in a rear seat, not the front seat. Infants and small children should be restrained in an appropriate child restraint. Larger children should use a booster seat with the lap/shoulder belt until they can use the seat belt properly without a booster seat.
 
 ### Air Bag Hazards
-`genesis_g90_en_dea75da8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 While air bags can save lives, they can also cause serious or fatal injuries to occupants who sit too close to them, or who are not properly restrained. Infants, young children, and shorter adults are at the greatest risk of being injured by an inflating air bag. Follow all instructions and warnings in this manual.
 
 ### Driver Distraction
-`genesis_g90_en_7dd06d8c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Driver distraction presents a serious and potentially deadly danger, especially for inexperienced drivers. Safety should be the first concern when behind the wheel and drivers need to be aware of the wide array of potential distractions, such as drowsiness, reaching for objects, eating, personal grooming, other passengers, and using cellular phones.
 
@@ -452,17 +413,14 @@ Drivers can become distracted when they take their eyes and attention off the ro
 ALWAYS set up your mobile devices (i.e., MP3 players, phones, navigation units, etc.) when your vehicle is parked or safely stopped. ONLY use your mobile device when allowed by laws and when conditions permit safe use. NEVER text or email while driving. Most states have laws prohibiting drivers from texting. Some states and cities also prohibit drivers from using handheld phones. NEVER let the use of a mobile device distract you from driving. You have a responsibility to your passengers and others on the road to always drive safely, with your hands on the wheel as well as your eyes and attention on the road.
 
 ### Control Your Speed
-`genesis_g90_en_0b987c68` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Excessive speed is a major factor in crash injuries and deaths. Generally, the higher the speed, the greater the risk, but serious injuries can also occur at lower speeds. Never drive faster than is safe for current conditions, regardless of the maximum speed posted.
 
 ### Keep Your Vehicle in Safe Condition
-`genesis_g90_en_3ec29539` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Having a tire blowout or a mechanical failure can be extremely hazardous. To reduce the possibility of such problems, check your tire pressures and condition frequently, and perform all regularly scheduled maintenance.
 
 ### SEATS
-`genesis_g90_en_4b8de1c5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/12bea3959b52be0cdc8eb63e3f205cc450a9a149061e644c632aa3cebde66d88.webp)
 [A] Driver’s side, [B] Passenger’s side
@@ -470,7 +428,6 @@ Having a tire blowout or a mechanical failure can be extremely hazardous. To red
 OHI039001N
 
 ### Front seat
-`genesis_g90_en_d5430b0c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 (1) Seat sliding forward or rearward Seat cushion tilt adjustment Seat cushion height adjustment
 (2) Seat cushion extension adjustment
@@ -490,7 +447,6 @@ OHI039001N
 OHI039090N
 
 ### Rear seat
-`genesis_g90_en_7bad035c` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 (11) Seat sliding forward or rearward /Seat cushion tilt adjustment (right side)
 (12) Seat sliding or shoulder adjustment
@@ -507,35 +463,28 @@ OHI039090N
 (23) Seat position memory system (details in Chapter 3)
 
 ### Safety Precautions
-`genesis_g90_en_4e3cfd09` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Adjusting the seats so that you are sitting in a safe, comfortable position plays an important role in driver and passenger safety together with the seat belts and air bags in an accident.
 
-### WARNING
-`genesis_g90_en_e59d6427` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Do not use a cushion that reduces friction between the seat and the passenger. The passenger's hips may slide under the lap portion of the seat belt during an accident or a sudden stop. Serious or fatal internal injuries could result because the seat belt cannot operate properly.
+> ⚠️ **Внимание:** 
+> Do not use a cushion that reduces friction between the seat and the passenger. The passenger's hips may slide under the lap portion of the seat belt during an accident or a sudden stop. Serious or fatal internal injuries could result because the seat belt cannot operate properly.
 
 ### Air bags
-`genesis_g90_en_ea0d653c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 You can take steps to reduce the risk of being injured by an inflating air bag. Sitting too close to an air bag greatly increases the risk of injury in the event the air bag inflates.
 
 The National Highway Traffic Safety Administration (NHTSA) recommends that drivers allow at least 10 inches (25 cm) between the center of the steering wheel and their chest.
 
-### WARNING
-`genesis_g90_en_18757f4b` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
-
-To reduce the risk of serious injury or death from an inflating air bag, take the following precautions:
-
-Adjust the driver's seat as far to the rear as possible while maintaining the ability to maintain full control of the vehicle.
-Adjust the front passenger seat as far to the rear as possible.
-Hold the steering wheel by the rim with hands at the 9 o'clock and 3 o'clock positions to minimize the risk of injuries to your hands and arms.
-NEVER place anything or anyone between you and the steering wheel and the air bag.
-Do not allow the front passenger to place feet or legs on the dashboard to minimize the risk of leg injuries.
+> ⚠️ **Внимание:** 
+> To reduce the risk of serious injury or death from an inflating air bag, take the following precautions:
+>
+> Adjust the driver's seat as far to the rear as possible while maintaining the ability to maintain full control of the vehicle.
+> Adjust the front passenger seat as far to the rear as possible.
+> Hold the steering wheel by the rim with hands at the 9 o'clock and 3 o'clock positions to minimize the risk of injuries to your hands and arms.
+> NEVER place anything or anyone between you and the steering wheel and the air bag.
+> Do not allow the front passenger to place feet or legs on the dashboard to minimize the risk of leg injuries.
 
 ### Front Seats
-`genesis_g90_en_73326b3b` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 Always fasten your seat belt before starting any trip.
 
@@ -543,32 +492,27 @@ At all times, passengers should sit upright and be properly restrained. Infants 
 
 The front seat can be adjusted by using the switches located on the outside of the seat cushion. Before driving, adjust the seat to the proper position so that you can easily control the steering wheel, foot pedals and controls on the instrument panel.
 
-### WARNING
-`genesis_g90_en_949a2c1b` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> Take the following precautions when adjusting your seat:
+>
+> Take the following precautions when adjusting your seat belt:
+>
+> NEVER use one seat belt for more than one occupant.
+> Always position the seatback upright with the lap portion of the seat belt snug and low across the hips.
+> NEVER allow children or small infants to ride on a passenger's lap.
+> Do not route the seat belt across your neck, across sharp edges, or reroute the shoulder strap away from your body.
+> Do not allow the seat belt to become caught or jammed. NEVER attempt to adjust the seat while the vehicle is moving. The seat could respond with unexpected movement and may cause loss of vehicle control resulting in an accident.
+> Do not place anything under the front seats. Loose objects in the driver's foot area could interfere with the operation of the foot pedals, causing an accident.
+> Do not allow anything to interfere with the normal position and proper locking of the seatback.
+> Do not place a cigarette lighter on the floor or seat. When you operate the seat, gas may exit out of the lighter causing a fire.
+> Use extreme caution when picking up small objects trapped under the seats or between the seat and the center console. Your hands might be cut or injured by the sharp edges of the seat mechanism.
 
-Take the following precautions when adjusting your seat:
-
-Take the following precautions when adjusting your seat belt:
-
-NEVER use one seat belt for more than one occupant.
-Always position the seatback upright with the lap portion of the seat belt snug and low across the hips.
-NEVER allow children or small infants to ride on a passenger's lap.
-Do not route the seat belt across your neck, across sharp edges, or reroute the shoulder strap away from your body.
-Do not allow the seat belt to become caught or jammed. NEVER attempt to adjust the seat while the vehicle is moving. The seat could respond with unexpected movement and may cause loss of vehicle control resulting in an accident.
-Do not place anything under the front seats. Loose objects in the driver's foot area could interfere with the operation of the foot pedals, causing an accident.
-Do not allow anything to interfere with the normal position and proper locking of the seatback.
-Do not place a cigarette lighter on the floor or seat. When you operate the seat, gas may exit out of the lighter causing a fire.
-Use extreme caution when picking up small objects trapped under the seats or between the seat and the center console. Your hands might be cut or injured by the sharp edges of the seat mechanism.
-
-### WARNING
-`genesis_g90_en_32d93476` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-To prevent injury:
-
-Do not adjust your seat while wearing your seat belt. Moving the seat cushion forward may cause strong pressure on your abdomen. Do not allow your hands or fingers to get caught in the seat mechanisms while the seat is moving.
+> ⚠️ **Внимание:** 
+> To prevent injury:
+>
+> Do not adjust your seat while wearing your seat belt. Moving the seat cushion forward may cause strong pressure on your abdomen. Do not allow your hands or fingers to get caught in the seat mechanisms while the seat is moving.
 
 ### NOTICE
-`genesis_g90_en_fac9e8f9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To prevent damage to the seats:
 
@@ -576,13 +520,10 @@ Always stop adjusting the seats when the seat has been adjusted as far forward o
 Do not adjust the seats longer than necessary when the engine is turned off. This may result in unnecessary battery drain.
 Do not operate two or more seats at the same time. This may result in an electrical malfunction.
 
-### WARNING
-`genesis_g90_en_45446971` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-NEVER allow children in the vehicle unattended. The power seats are operable when the engine is turned off.
+> ⚠️ **Внимание:** 
+> NEVER allow children in the vehicle unattended. The power seats are operable when the engine is turned off.
 
 ### Forward and rearward adjustment
-`genesis_g90_en_6ddc4f22` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/42e5ce30c9cb99388dbc5a80fd0b6ef9b0f420fce4d17d91c6cab572638c6b33.webp)
 
@@ -591,14 +532,12 @@ To move the seat forward or rearward:
 1. Push the control switch forward or rearward. 2. Release the switch once the seat reaches the desired position.
 
 ### i Information
-`genesis_g90_en_a96974db` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The forward/rearward seat adjustment may be restricted, when the seatback is leaned back. Adjust your seat, as follows, before adjusting the seat position rearward.
 
 Push and hold the control switch rearward as far as possible, release the control switch, and re-push the control switch rearward again. Then, the seat position is adjusted rearward, while putting the seatback upright.
 
 ### Seat cushion extension adjustment (fordriver's seat)
-`genesis_g90_en_bbd128fd` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/cff80b04b7aaca556dbee79d1acba43c4bd312376b7635bf4ab5cf2ee8ef4f88.webp)
 
@@ -612,7 +551,6 @@ To move the front part of the cushion rearward:
 2. Release the switch once the seat cushion reaches the desired length.
 
 ### Seatback angle
-`genesis_g90_en_a3dc3ddc` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/d0f46a9a07e9d3396c42ee185dea4ca1eb97118b8c926d6693ee90936016aea9.webp)
 
@@ -621,33 +559,27 @@ To recline the seatback:
 1. Push the control switch forward or rearward. 2. Release the switch once the seatback reaches the desired position.
 
 ### i Information
-`genesis_g90_en_3bd2f14a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The seatback angle adjustment may be restricted, when the seatback is reclined to some point. At this time, release the seatback angle switch and then re-push the switch rearward. The front seat will slide forward and the seatback angle will recline even more.
 
 ### Reclining seatback
-`genesis_g90_en_733d62d3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Sitting in a reclined position when the vehicle is in motion can be dangerous. Even when buckled up, the protections of your restraint system (seat belts and air bags) is greatly reduced by reclining your seatback.
 
-### WARNING
-`genesis_g90_en_61f9cee4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-NEVER ride with a reclined seatback when the vehicle is moving. Riding with a reclined seatback increases your chance of serious or fatal injuries in the event of a collision or sudden stop. Driver and passengers should ALWAYS sit well back in their seats, properly belted, and with the seatbacks upright.
-
-Seat belts must be snug against your hips and chest to work properly. When the seatback is reclined, the shoulder belt cannot do its job because it will not be snug against your chest. Instead, it will be in front of you. During an accident, you could be thrown into the seat belt, causing neck or other injuries.
-
-The more the seatback is reclined, the greater chance the passenger’s hips will slide under the lap belt or the passenger’s neck will strike the shoulder belt.
+> ⚠️ **Внимание:** 
+> NEVER ride with a reclined seatback when the vehicle is moving. Riding with a reclined seatback increases your chance of serious or fatal injuries in the event of a collision or sudden stop. Driver and passengers should ALWAYS sit well back in their seats, properly belted, and with the seatbacks upright.
+>
+> Seat belts must be snug against your hips and chest to work properly. When the seatback is reclined, the shoulder belt cannot do its job because it will not be snug against your chest. Instead, it will be in front of you. During an accident, you could be thrown into the seat belt, causing neck or other injuries.
+>
+> The more the seatback is reclined, the greater chance the passenger’s hips will slide under the lap belt or the passenger’s neck will strike the shoulder belt.
 
 ### Seat cushion tilt (1)
-`genesis_g90_en_531671b3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To change the angle of the front part of the cushion:
 
 Push the front portion of the control switch up to raise or down to lower the front part of the seat cushion. Release the switch once the seat reaches the desired position.
 
 ### Seat cushion height (2)
-`genesis_g90_en_c8b4729b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To change the height of the seat cushion:
 
@@ -660,7 +592,6 @@ The lumbar support can be adjusted by pressing the lumbar support switch.
 Press the front portion of the switch (1) to increase support or the rear portion of the switch (2) to decrease support. To move the support position up or down, press switch (3) or (4).
 
 ### Seat shoulder adjustment (for driver's seat, if equip ed)
-`genesis_g90_en_e7464a12` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/6e6319fc8d717f9e268148ee9ad6d42aa83a01e358b94f0e95d07728bceb0606.webp)
 
@@ -673,12 +604,10 @@ Seatback bolster adjustment (for driver's seat, ifequip ed)
 1. Push the adjustment lever clockwise, the seatback bolster will be adjusted inward. Push the switch counterclockwise, the seatback bolster will be adjusted outward. 2. Release the lever once the bolster reaches the desired position.
 
 ### i Information
-`genesis_g90_en_b7f62a34` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To adjust the bolster height to its maximum in the default state, operate the lever for approximately 8 seconds. After that, release the lever because there is no change in height even if you continue to operate the lever.
 
 ### Easy ac es switch (forpas enger's seat)
-`genesis_g90_en_ff0f608e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/e38af780ec45881a842bd86eeb656b0bc718b66a1feb1bf0d30fd6be4eb1c91b.webp)
 
@@ -689,26 +618,20 @@ A front seat moves slightly forward when a passenger closes a front door with th
 To deactivate the easy access function, press the DOOR switch (indicator OFF).
 
 ### Seatback pocket
-`genesis_g90_en_71948b62` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/6cbf613af5036208e82df21284e50ddebb0b3e03c1e03fd3ca521d0c7877121a.webp)
 
 The seatback pocket is provided on the back of the front seatbacks.
 
-### WARNING
-`genesis_g90_en_fdc42104` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> To prevent the Occupant Classification System from malfunctioning: Do not hang onto the driver's and front passenger's seatback.
 
-To prevent the Occupant Classification System from malfunctioning: Do not hang onto the driver's and front passenger's seatback.
-
-### WARNING
-`genesis_g90_en_32d93476` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-To prevent injury:
-
-Do not adjust your seat while wearing your seat belt. Moving the seat cushion forward may cause strong pressure on your abdomen. Do not allow your hands or fingers to get caught in the seat mechanisms while the seat is moving.
+> ⚠️ **Внимание:** 
+> To prevent injury:
+>
+> Do not adjust your seat while wearing your seat belt. Moving the seat cushion forward may cause strong pressure on your abdomen. Do not allow your hands or fingers to get caught in the seat mechanisms while the seat is moving.
 
 ### NOTICE
-`genesis_g90_en_fac9e8f9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To prevent damage to the seats:
 
@@ -717,7 +640,6 @@ Do not adjust the seats longer than necessary when the engine is turned off. Thi
 Do not operate two or more seats at the same time.This may result in an electrical malfunction.
 
 ### Vehicles not equipped with shoulder adjustment
-`genesis_g90_en_9ed7b368` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Seat sliding
 
@@ -726,31 +648,25 @@ Push the control switch (2) forward or rearward to move the seatback angle to th
 Release the switch once the seat reaches the desired position. The seat sliding position is adjusted automatically along with the seatback angle.
 
 ### Vehicles equipped with shoulder adjustment
-`genesis_g90_en_487143fa` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Seat sliding and Seatback angle Push the control switch (1) forward or rearward to slide the seat and seatback angle to the desired position. Release the switch once the seat reaches the desired position. Shoulder adjustment Push the control switch (2) forward or rearward to move the shoulder angle to the desired position. Release the switch once the seat reaches the desired position.
 
 ### Lumbar sup ort(ifequip ed)
-`genesis_g90_en_5037a2c8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/62a8693b975131ab4a2c609877cdf2d1b1869747b74e8d8d71d87fcd7ae98944.webp)
 
 The lumbar support can be adjusted by pressing the lumbar support switch.
 
 ### Cushion tilt adjustment (1, if equipped)
-`genesis_g90_en_c46f72a9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Push the front portion of the control switch (1) up to raise or down to lower the front part of the seat cushion.
 
 Press the front portion of the switch (1) to increase support or the rear portion of the switch (2) to decrease support. To move the support position up or down, press switch (3) or (4).
 
-### WARNING
-`genesis_g90_en_cc24095e` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
-
-Do not adjust your seat position forward while fastening the seatbelt. It may apply abnormally high pressure on your abdomen. Adjust your seat position first, and then fasten the seatbelt.
+> ⚠️ **Внимание:** 
+> Do not adjust your seat position forward while fastening the seatbelt. It may apply abnormally high pressure on your abdomen. Adjust your seat position first, and then fasten the seatbelt.
 
 ### Vehicles equipped with the IMS
-`genesis_g90_en_0ff63ca9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The rear seat moves slightly rearward, when a passenger opens the rear door with the DOOR indicator illuminated.
 
@@ -765,7 +681,6 @@ The rear seat moves slightly forward when a passenger closes the rear door.
 ❈ IMS Integrated Memory System
 
 ### Walk-in seat switch
-`genesis_g90_en_0115d8d1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The rear seat passenger may use the switches to control the front passenger seat.
 
@@ -777,17 +692,14 @@ Angle adjustment:
 
 To recline the front passenger seat forward, press the switch (3). To recline the front passenger seat rearward, press the switch (4).
 
-### WARNING
-`genesis_g90_en_6ed8a679` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Do not adjust the passenger seat when a passenger is seated.
-
-VIP switches for adjusting the front passenger seat (if equipped)
-
-A passenger, who occupies a rear seat behind the front passenger's seat, can control the front passenger’s seat position by operating the switch.
+> ⚠️ **Внимание:** 
+> Do not adjust the passenger seat when a passenger is seated.
+>
+> VIP switches for adjusting the front passenger seat (if equipped)
+>
+> A passenger, who occupies a rear seat behind the front passenger's seat, can control the front passenger’s seat position by operating the switch.
 
 ### i Information
-`genesis_g90_en_5825cb16` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 VIP convenient function switches for adjusting the front passenger's seat do not operate in the following situations.
 
@@ -806,14 +718,12 @@ When the VIP convenient function is not used over a certain period of time, the 
 A rear seat passenger can control the front passenger's seat position back and forth (1) and seatback angle (2).
 
 ### i Information
-`genesis_g90_en_802055d1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Rear seat controls can be deactivated or activated using the AVN system.
 
 For more information, refer to the "Setup" section of the AVN system manual.
 
 ### Relaxation mode
-`genesis_g90_en_bcee7a48` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press the switch (1) to adjust both the front passenger's seat and the rear seat, as follows.
 
@@ -825,7 +735,6 @@ Front passenger's seat
 2. The seat position is adjusted forward, the seat cushion tilt is raised and the lower lumbar support is increased.
 
 ### i Information
-`genesis_g90_en_f45943dc` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 Relaxation mode switches for adjusting the front passenger's seat do not operate in the following situations.
 
@@ -835,14 +744,12 @@ An item occupies the front passenger's seat.
 The front passenger's door is open. The front passenger's seatbelt is fastened.
 
 ### NOTICE
-`genesis_g90_en_b3262734` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not re-press the relaxation mode switch again, while operating the seat positions for relaxation mode. It may abruptly stop the seat movement.
 When you operate the seat control switch while adjusting the seat positions for the relaxation mode, it stops the automatic seat position adjustment. In this case, manually adjust the seat positions.
 Any items, which occupy the front passenger's seat, may get damaged while automatically adjusting the seat positions for the relaxation mode. Do not put any items on the front passenger's seat.
 
 ### NOTICE
-`genesis_g90_en_627f0f35` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press the switch (2) to adjust both the front passenger's seat and the rear seat, as follows.
 
@@ -854,7 +761,6 @@ When you operate the control switch while adjusting the seat positions with retu
 2. The seat cushion height is raised, and the head restraint is adjusted to the lowest height.
 
 ### i Information
-`genesis_g90_en_2f12245c` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 Return function switch for adjusting the front passenger's seat do not operate in the following situations.
 
@@ -864,7 +770,6 @@ An item occupies the front passenger's seat.
 The front passenger's door is open. The front passenger's seatbelt is fastened.
 
 ### Rearswitches operating limitation
-`genesis_g90_en_cdbeb9ff` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/b623057c6d7d9ee880bcca8832dbe517d54e097ee92e36b81dd37fadb92040e3.webp)
 
@@ -877,7 +782,6 @@ For detailed information, scan the QR code in a separately supplied simple manua
 ![](images/5a125b0ba7b5cdd56c52eae5031b2e07e8d2fea658a2aed7391f772dbdd21089.webp)
 
 ### Armrest
-`genesis_g90_en_9eddc9ee` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/1c7d2bc1bf18c16ab1cbe9a7445b398d1c2b677fb52c8e85ecd93f46f8e93bab.webp)
 
@@ -888,13 +792,11 @@ Grab the handle (1) on the upper end of the arm rest. Then, pull down the handle
 Cup holder/Storage compartment For further details, refer to ''Rear Console Storage'' and ''Cup Holder'' in chapter 3.
 
 ### NOTICE
-`genesis_g90_en_386efa86` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not put any items on the rear center seat.Those items may get damaged, when the arm rest is pulled down.
 Do not attempt to fold back the arm rest, when the cup holder is extended out.
 
 ### Carying long/narow cargo
-`genesis_g90_en_ab29cb55` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/f6637f6f52ae38765e5c4d99293f9c6dbf9e3557e80bf297d60821983645187a.webp)
 
@@ -903,48 +805,39 @@ Additional cargo space is provided to accommodate long/narrow cargo (skis, poles
 1. Pull the armrest down. 2. Pull the cover down while pushing the release lever down.
 
 ### NOTICE
-`genesis_g90_en_fa7fdc7a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Be careful when loading cargo through the rear passenger seats to prevent damage to the vehicle interior. When both the armrest and the panel, are folded down, put back the panel first, before folding back the armrest. If not, the panel knobs and the arm rest knobs may interfere with each other and get damaged.
 
 ### A CAUTION
-`genesis_g90_en_2bbc9bcf` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Make sure the engine is off, the vehicle is shifted to P (Park) and the parking brake is applied whenever loading or unloading cargo. The vehicle may move if the shift lever is inadvertently moved to another position. When cargo is loaded through the rear passenger seats, ensure the cargo is properly secured to prevent it from moving while driving.
 
-### WARNING
-`genesis_g90_en_66216ec0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Cargo should always be secured to prevent it from being thrown about the vehicle in a collision and causing injury to the vehicle occupants. Do not place objects in the rear seats, since they cannot be properly secured and may hit the front seat occupants in a collision.
+> ⚠️ **Внимание:** 
+> Cargo should always be secured to prevent it from being thrown about the vehicle in a collision and causing injury to the vehicle occupants. Do not place objects in the rear seats, since they cannot be properly secured and may hit the front seat occupants in a collision.
 
 ### Head Restraints
-`genesis_g90_en_8c48e99f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The vehicle's front and rear seats have adjustable head restraints. The head restraints provide comfort for passengers, but more importantly they are designed to help protect passengers from whiplash and other neck and spinal injuries during an accident, especially in a rear impact collision.
 
-### WARNING
-`genesis_g90_en_01046aa3` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
-
-To reduce the risk of serious injury or death in an accident, take the following precautions when adjusting your head restraints:
-
-Always properly adjust the head restraints for all passengers BEFORE starting the vehicle. NEVER let anyone ride in a seat with the head restraints removed or reversed.
-
-![](images/16bf5c98533d2dce93188362c2b1fdd26c6c2840777aa1f86887f807451b077a.webp)
-
-Adjust the head restraints so the middle of the head restraint is at the same height as the height of the top of the eyes.
-NEVER adjust the head restraint position of the driver's seat when the vehicle is in motion.
-Adjust the head restraint as close to the passenger's head as possible. Do not use a seat cushion that holds the body away from the seatback.
-Make sure the head restraint locks into position after adjusting it.
+> ⚠️ **Внимание:** 
+> To reduce the risk of serious injury or death in an accident, take the following precautions when adjusting your head restraints:
+>
+> Always properly adjust the head restraints for all passengers BEFORE starting the vehicle. NEVER let anyone ride in a seat with the head restraints removed or reversed.
+>
+> ![](images/16bf5c98533d2dce93188362c2b1fdd26c6c2840777aa1f86887f807451b077a.webp)
+>
+> Adjust the head restraints so the middle of the head restraint is at the same height as the height of the top of the eyes.
+> NEVER adjust the head restraint position of the driver's seat when the vehicle is in motion.
+> Adjust the head restraint as close to the passenger's head as possible. Do not use a seat cushion that holds the body away from the seatback.
+> Make sure the head restraint locks into position after adjusting it.
 
 ### NOTICE
-`genesis_g90_en_7c61508b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/1a3efafde6fcefb8a8652e7a98bc4b8bd6b6f184716383c9c363439467b86be6.webp)
 
 To prevent damage, NEVER hit or pull on the head restraints.
 
 ### Frontseat head restraints
-`genesis_g90_en_0f0b798a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The driver's and front passenger's seats are equipped with adjustable head restraints for the passengers safety and comfort.
 
@@ -953,7 +846,6 @@ The driver's and front passenger's seats are equipped with adjustable head restr
 ![](images/a76e65e1609c7ba54967f300516ccff4d7c412255b9236e132dba59eb4bba8f0.webp)
 
 ### Forward and rearward adjustment
-`genesis_g90_en_e4dd3b11` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Push the control switch forward or rearward to move the head restraint.
 2. Release the switch once the head restraint reaches the desired position.
@@ -961,13 +853,11 @@ The driver's and front passenger's seats are equipped with adjustable head restr
 ![](images/5b2bd6d8fec2c1dbf29596da383712cae3221669ab66e6949678f54b7b23cf2e.webp)
 
 ### Adjusting the height up and down
-`genesis_g90_en_3f5798b7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Push the control switch up to raise or down to lower the head restraint.
 2. Release the switch once the head restraint reaches the desired position.
 
 ### NOTICE
-`genesis_g90_en_0ea01823` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/ecce36e5b81681943156bad0465a5472314771a1c32c1692a063afd0156c12ef.webp)
 
@@ -976,7 +866,6 @@ If you recline the seatback towards the front with the head restraint and seat c
 ![](images/fb1b038681ff6a76c103e9db09a8fb246b80df2b84d55c0e1da93c21236dac22.webp)
 
 ### Removal/Reinstall
-`genesis_g90_en_1209f65a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To remove the head restraint:
 1. Recline the seatback (2) using the seatback angle switch (1).
@@ -990,7 +879,6 @@ To reinstall the head restraint
 1. Recline the seatback. 2. Push the head restraint height control switch (1) up as far as it can go. 3. Put the head restraint poles (2). 4. Adjust the head restraint to the appropriate height (3). 5. Recline the seatback (5) using the seatback angle switch (4).
 
 ### Rearseat head restraints
-`genesis_g90_en_c3bfeb3c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/02e3a1d06a0c93918e525995ba0f5ed9662c5a1161dd81078944616069a816f8.webp)
 
@@ -1010,7 +898,6 @@ To lower the head restraint:
 1. Push and hold the release button (2) on the head restraint support. 2. Lower the head restraint to the desired position (3).
 
 ### Power adjustment (if equipped)
-`genesis_g90_en_b5090cb3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/9883dce67e257369a67b8a8217068257a856c4f0dbad8cb0fc0d8fce2169b505.webp)
 
@@ -1023,14 +910,12 @@ Adjusting the height up and down
 ![](images/8d857f5df993fd07361ef1c27175eae5582f138df065afb829587733d0488a4c.webp)
 
 ### NOTICE
-`genesis_g90_en_6aa2531e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Pay extreme caution not to damage the connectors, while removing the head restraint. If the connectors are damaged, the head restraint power adjustment may not work properly.
 
 ![](images/ba4d0abad505c632e8cf7727498614cef269570b42f329fe94961e615e8c9f53.webp)
 
 ### Folding the center head restraint (if equipped)
-`genesis_g90_en_d131e8ef` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To fold the center head restraint :
 
@@ -1041,32 +926,26 @@ You can remove the rear-center head restraint by manually pulling up the rear-ce
 You can adjust the rear-center head restraint to the further lower height by pressing the button (2), which is located under the rearcenter head restraint, with the armrest folded back.
 
 ### i Information
-`genesis_g90_en_524efd65` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the center head restraint is in the lowest position, raise the head restraint before folding back the armrest.
 
 ![](images/138b866f714d28490efc3b5363666ce6619b1a7e711d407dfe05ceb88891c726.webp)
 
-### WARNING
-`genesis_g90_en_9f121ee8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> The seat warmers can cause a SERIOUS BURN, even at low temperatures and especially if used for long periods of time. Passengers must be able to feel if the seat is becoming too warm so they can turn it off, if needed.
+>
+> People who cannot detect temperature change or pain to the skin should use extreme caution, especially the following types of passengers:
+>
+> Infants, children, elderly or disabled persons, or hospital outpatients.
+> People with sensitive skin or who burn easily.
+> Fatigued individuals.
+> Intoxicated individuals.
+> People taking medication that can cause drowsiness or sleepiness.
 
-The seat warmers can cause a SERIOUS BURN, even at low temperatures and especially if used for long periods of time. Passengers must be able to feel if the seat is becoming too warm so they can turn it off, if needed.
-
-People who cannot detect temperature change or pain to the skin should use extreme caution, especially the following types of passengers:
-
-Infants, children, elderly or disabled persons, or hospital outpatients.
-People with sensitive skin or who burn easily.
-Fatigued individuals.
-Intoxicated individuals.
-People taking medication that can cause drowsiness or sleepiness.
-
-### WARNING
-`genesis_g90_en_17f95a87` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-NEVER place anything on the seat that insulates against heat when the seat warmer is in operation, such as a blanket or seat cushion. This may cause the seat warmer to overheat, causing a burn or damage to the seat.
+> ⚠️ **Внимание:** 
+> NEVER place anything on the seat that insulates against heat when the seat warmer is in operation, such as a blanket or seat cushion. This may cause the seat warmer to overheat, causing a burn or damage to the seat.
 
 ### NOTICE
-`genesis_g90_en_7567b16a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To prevent damage to the seat warmers and seats:
 
@@ -1091,7 +970,6 @@ When pressing the switch for more than 1.5 seconds with the seat warmer operatin
 The seat warmer automatically turns off if a passenger is not seated for approximately 40 minutes. The seat warmer defaults to the OFF position whenever the Engine Start/Stop button is in the ON position.
 
 ### Seat co lers (ifequip ed)
-`genesis_g90_en_5708546a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/e49e93392476ec2fae19da92157855223d1245adef8f55d94ce52a0910e45aac.webp)
 
@@ -1112,12 +990,10 @@ The seat cooler automatically turns off if a passenger is not seated for approxi
 The seat cooler defaults to the OFF position whenever the Engine Start/Stop button is in the ON position.
 
 ### i Information
-`genesis_g90_en_8881f466` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the outside temperature is under 33°F (2°C), the seat cooler may not operate. Use the seat cooler when the climate control system is on. Using the seat cooler for prolonged periods of time with the climate control system off could cause the climate control seat performance to be reduced.
 
 ### NOTICE
-`genesis_g90_en_22b2f5eb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To prevent damage to the seat cooler and seats:
 
@@ -1127,44 +1003,37 @@ Do not change the seat covers. It may damage the seat cooler.
 If the air vents do not operate, restart the vehicle. If there is no change, have your vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### SEAT BELTS
-`genesis_g90_en_e9ab38d5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This section describes how to use the seat belts properly. It also describes some of the things not to do when using seat belts.
 
 ### Seat Belt Safety Precautions
-`genesis_g90_en_a1b7dd8d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Always fasten your seat belt and make sure all passengers have fastened their seat belts before starting any trip. Air bags are designed to supplement the seat belt as an additional safety device, but they are not a substitute. Most states require all occupants of a vehicle to wear seat belts.
 
-### WARNING
-`genesis_g90_en_5cb1404d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> Seat belts must be used by ALL passengers whenever the vehicle is moving. Take the following precautions when adjusting and wearing seat belts:
+>
+> ALWAYS properly restrain children under age 13 in the rear seats.
+> NEVER allow children to ride in the front passenger seat. If a child age 13 or older must be seated in the front seat, move the seat as far back as possible and properly restrain them in the seat.
+> NEVER allow an infant or child to be carried on an occupant's lap.
+> NEVER ride with the seatback reclined when the vehicle is moving. Do not allow children to share a seat or seat belt.
+> Do not wear the shoulder belt under your arm or behind your back.
+> Always wear both the shoulder portion and lap portion of the lap/shoulder belt.
+> Do not use the seat belt if it is twisted. A twisted seat belt will not protect you properly in an accident.
+> Do not use a seat belt if the webbing or hardware is damaged.
+> Do not latch the seat belt into the buckles of other seats.
+> NEVER unfasten the seat belt while driving. This may cause loss of vehicle control resulting in an accident.
+> Make sure there is nothing in the buckle interfering with the seat belt latch mechanism. This may prevent the seat belt from fastening securely.
+> No modifications or additions should be made by the user which will either prevent the seat belt adjusting devices from operating to remove slack, or prevent the seat belt assembly from being adjusted to remove slack.
 
-Seat belts must be used by ALL passengers whenever the vehicle is moving. Take the following precautions when adjusting and wearing seat belts:
-
-ALWAYS properly restrain children under age 13 in the rear seats.
-NEVER allow children to ride in the front passenger seat. If a child age 13 or older must be seated in the front seat, move the seat as far back as possible and properly restrain them in the seat.
-NEVER allow an infant or child to be carried on an occupant's lap.
-NEVER ride with the seatback reclined when the vehicle is moving. Do not allow children to share a seat or seat belt.
-Do not wear the shoulder belt under your arm or behind your back.
-Always wear both the shoulder portion and lap portion of the lap/shoulder belt.
-Do not use the seat belt if it is twisted. A twisted seat belt will not protect you properly in an accident.
-Do not use a seat belt if the webbing or hardware is damaged.
-Do not latch the seat belt into the buckles of other seats.
-NEVER unfasten the seat belt while driving. This may cause loss of vehicle control resulting in an accident.
-Make sure there is nothing in the buckle interfering with the seat belt latch mechanism. This may prevent the seat belt from fastening securely.
-No modifications or additions should be made by the user which will either prevent the seat belt adjusting devices from operating to remove slack, or prevent the seat belt assembly from being adjusted to remove slack.
-
-### WARNING
-`genesis_g90_en_53038c9f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Damaged seat belts and seat belt assemblies will not operate properly. Always replace:
-
-Frayed, contaminated, or damaged webbing
-Damaged hardware
-The entire seat belt assembly after it has been worn in an accident, even if damage to webbing or assembly is not apparent
+> ⚠️ **Внимание:** 
+> Damaged seat belts and seat belt assemblies will not operate properly. Always replace:
+>
+> Frayed, contaminated, or damaged webbing
+> Damaged hardware
+> The entire seat belt assembly after it has been worn in an accident, even if damage to webbing or assembly is not apparent
 
 ### Driver's seat belt warning
-`genesis_g90_en_4523077c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 As a reminder to the driver, the seat belt warning light will illuminate for approximately 6 seconds each time the Engine Start/Stop button is in the ON or START position regardless of belt fastening. At this time, if the seat belt is not fastened a warning chime will sound for 6 seconds.
 
@@ -1188,18 +1057,15 @@ If you unfasten the seat belt while driving under 12 mph (20 km/h) the seat belt
 
 If you unfasten the seat belt while driving over 12 mph (20 km/h), the seat belt warning chime will sound for approximately 100 seconds and the corresponding warning light will blink.
 
-### WARNING
-`genesis_g90_en_3c088e13` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Improperly positioned seat belts may increase the risk of serious injury in an accident. Take the following precautions when adjusting the seat belt:
-
-Position the lap portion of the seat belt as low as possible across your hips, not on your waist, so that it fits snugly.
-Position one arm under the shoulder belt and the other over the belt, as shown in the illustration.
-Always position the shoulder belt anchor into the locked position at the appropriate height.
-Never position the shoulder belt across your neck or face.
+> ⚠️ **Внимание:** 
+> Improperly positioned seat belts may increase the risk of serious injury in an accident. Take the following precautions when adjusting the seat belt:
+>
+> Position the lap portion of the seat belt as low as possible across your hips, not on your waist, so that it fits snugly.
+> Position one arm under the shoulder belt and the other over the belt, as shown in the illustration.
+> Always position the shoulder belt anchor into the locked position at the appropriate height.
+> Never position the shoulder belt across your neck or face.
 
 ### To fasten your seat belt:
-`genesis_g90_en_7f1adeec` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Pull the seat belt out of the retractor and insert the metal tab (1) into the buckle (2). There will be an audible "click" when the tab locks into the buckle.
 
@@ -1212,12 +1078,10 @@ The seat belt automatically adjusts to the proper length after the lap belt port
 If there is a sudden stop or impact, the belt will lock into position. It will also lock if you try to lean forward too quickly.
 
 ### i Information
-`genesis_g90_en_febecbb3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you are not able to smoothly pull enough of the seat belt out from the retractor, firmly pull the seat belt out and release it. After release, you will be able to pull the belt out smoothly.
 
 ### Height adjustment
-`genesis_g90_en_db14071e` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 You can adjust the height of the shoulder belt anchor to one of the three different positions for maximum comfort and safety.
 
@@ -1236,12 +1100,10 @@ To release your seat belt: Press the release button (1) in the locking buckle.
 When it is released, the belt should automatically draw back into the retractor. If this does not happen, check the belt to be sure it is not twisted, then try again.
 
 ### Rear Seat Belt– Pas enger's 3- point system with convertible locking retractor
-`genesis_g90_en_548e6d47` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This type of seat belt combines the features of both an emergency locking retractor seat belt and an automatic locking retractor seat belt. Convertible retractor type seat belts are installed in the rear seat positions to help accommodate the installation of child restraint systems. Although a convertible retractor is also installed in the front passenger seat position, NEVER place any infant/child restraint system in the front seat of the vehicle.
 
 ### To fasten your seat belt:
-`genesis_g90_en_777cdfb7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Pull the seat belt out of the retractor and insert the metal tab into the buckle. There will be an audible "click" when the tab locks into the buckle. When not securing a child restraint, the seat belt operates in the same way as the driver's seat belt (Emergency Locking Retractor Type). It automatically adjusts to the proper length only after the lap belt portion of the seat belt is adjusted manually so that it fits snugly across your hips.
 
@@ -1256,14 +1118,12 @@ Press the release button (1) in the locking buckle.
 When it is released, the belt should automatically draw back into the retractor. If this does not happen, check the belt to be sure it is not twisted, then try again.
 
 ### NOTICE
-`genesis_g90_en_e65a5c1e` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Although the seat belt retractor provides the same level of protection for seated passengers in either emergency or automatic locking modes, the emergency locking mode allows seated passengers to move freely in their seat while keeping some tension on the belt. During a collision or sudden stop, the retractor automatically locks the belt to help restrain your body.
 
 To deactivate the automatic locking mode, unbuckle the seat belt and allow the belt to fully retract.
 
 ### Rear center seat belt
-`genesis_g90_en_c435c1ff` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 ![](images/35f9dce9c403a860a21bd03285ca52838e7a43015c4b15cf4b1d98425dcd863f.webp)
 
@@ -1272,7 +1132,6 @@ To deactivate the automatic locking mode, unbuckle the seat belt and allow the b
 3. Restore the buckle between the seat/seatback cushion after unfastening the seatbelt.
 
 ### Pre-tensioner seat belt (Driver and front pas enger)
-`genesis_g90_en_1124aa78` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/25ebbcb7baefb8dfd09d53e4a32ddfa70c452de1289b00f9086216909ff45ff6.webp)
 
@@ -1288,20 +1147,15 @@ If the system senses excessive tension on the driver or passenger's seat belt wh
 Always replace your pre-tensioners after activation or an accident.
 NEVER inspect, service, repair or replace the pre-tensioners yourself. This must be done by an authorized retailer of Genesis Branded products. Do not hit the seat belt assemblies.
 
-### WARNING
-`genesis_g90_en_f01b4ad0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> Do not touch the pre-tensioner seat belt assemblies for several minutes after they have been activated. When the pre-tensioner seat belt mechanism deploys during a collision, the pre-tensioners become hot and can burn you.
 
-Do not touch the pre-tensioner seat belt assemblies for several minutes after they have been activated. When the pre-tensioner seat belt mechanism deploys during a collision, the pre-tensioners become hot and can burn you.
-
-### WARNING
-`genesis_g90_en_558818e7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Pre-Tensioner Seat Belts (retractor pre-tensioner seat belt and emergency fastening device) that malfunction may not protect you properly during an accident. Take the following precautions:
-
-Always wear your seat belt and sit properly in your seat. Do not use the seat belt if it is loose or twisted. A loose or twisted seat belt will not protect you properly in an accident. Do not place anything near the buckle. This may adversely affect the buckle and cause it to function improperly.
+> ⚠️ **Внимание:** 
+> Pre-Tensioner Seat Belts (retractor pre-tensioner seat belt and emergency fastening device) that malfunction may not protect you properly during an accident. Take the following precautions:
+>
+> Always wear your seat belt and sit properly in your seat. Do not use the seat belt if it is loose or twisted. A loose or twisted seat belt will not protect you properly in an accident. Do not place anything near the buckle. This may adversely affect the buckle and cause it to function improperly.
 
 ### NOTICE
-`genesis_g90_en_49d15c59` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Body work on the front area of the vehicle may damage the pre-tensioner seat belt (retractor pre-tensioner seat belt and emergency fastening device) system.
 
@@ -1316,14 +1170,12 @@ The Pre-Tensioner Seat Belt System consists mainly of the following components. 
 System
 
 ### Information
-`genesis_g90_en_990ef3d9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The sensor that activates the SRS air bag is connected with the pre–tensioner seat belts. The SRS air bag warning light on the instrument panel will illuminate for approximately 6 seconds after the Engine Start/Stop button in the ON position, and then it should turn off.
 
 If the pre-tensioner is not working properly, the warning light will illuminate even if the SRS air bag is not malfunctioning. If the warning light does not illuminate, stays illuminated or illuminates when the vehicle is being driven, have an authorized retailer of Genesis Branded products inspect the pre-tensioner seat belts and SRS air bags as soon as possible.
 
 ### i Information
-`genesis_g90_en_bb30c2d5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Both the driver's and front passenger's pre-tensioner seat belts may be activated in certain frontal or side collisions or rollovers.
 
@@ -1339,7 +1191,6 @@ In this case, consult an authorized
 retailer of Genesis Branded products. The air bag warning light illuminates, if there is a malfunction with the pre-tensioner seat belt system. In following situations, immediately have the air bag system and the pretensioner seat belt system checked by an authorized retailer of Genesis Branded products. The air bag warning light does not illuminate at all after turning ON the engine. The air bag warning light remains ON over 6 seconds after turning ON the engine.
 
 ### Pre-Active Seat Belt (PSB) (if equipped)
-`genesis_g90_en_3835e4c5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/b7c165a5922815e03a4a58268228ecddd22cd99bea0641a76750ac3c4d8cd479.webp)
 
@@ -1350,19 +1201,16 @@ Properly fasten a seat belt in an upright position to maximize protection from a
 The purpose of the pre-active seat belt is to tighten the seat belt when a collision is sensed, during emergency braking, or when a loss of control is sensed.
 
 ### NOTICE
-`genesis_g90_en_c2cfd70b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The pre-active seat belt is a supplementary system. The pre-active seat belt activates only when the passenger is wearing his/her seat belt.
 
 ### Check Pre-active Seat Belt
-`genesis_g90_en_574fb2a5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The pre-active seat belt warning will turn on if there is a problem with your pre-active seat belt.
 
 Have the system checked by an authorized retailer of Genesis Branded products if the warning message comes on while the vehicle is in motion. When the PSB warning message disappears, the master warning light ( ) will illuminate.
 
 ### Pre-active seat belt operation
-`genesis_g90_en_d25c3884` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 In order to maximize the safety of the passenger, the pre-active seat belt system operates as below.
 
@@ -1374,32 +1222,25 @@ Tightens a loose seat belt if vehicle speed is over 9.3 mph (15 km/h). Belt park
 Tightens a loose seat belt when the seat belt is unfastened.
 
 ### Seat belt use during pregnancy
-`genesis_g90_en_67e855ae` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The seat belt should always be used during pregnancy. The best way to protect your unborn child is to protect yourself by always wearing the seat belt.
 
 Pregnant women should always wear a lap-shoulder seat belt. Place the shoulder belt across your chest, routed between your breasts and away from your neck. Place the lap belt line so that it fits snugly and as low as possible across the hips, not across the abdomen.
 
-### WARNING
-`genesis_g90_en_37989aa3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-A pregnant woman or a patient is more vulnerable to any imapcts on the abdomen during an abrupt stop or accident. If you are in an accident while pregnant, we recommend you consult your doctor.
-To reduce the risk of serious injury or death to an unborn child during an accident, pregnant women should NEVER place the lap portion of the seat belt above or over the area of the abdomen where the unborn child is located.
+> ⚠️ **Внимание:** 
+> A pregnant woman or a patient is more vulnerable to any imapcts on the abdomen during an abrupt stop or accident. If you are in an accident while pregnant, we recommend you consult your doctor.
+> To reduce the risk of serious injury or death to an unborn child during an accident, pregnant women should NEVER place the lap portion of the seat belt above or over the area of the abdomen where the unborn child is located.
 
 ### Infant and small children
-`genesis_g90_en_62da9e83` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 All 50 states have child restraint laws which require children to travel in approved child restraint devices, including booster seats. The age at which seat belts can be used instead of child restraints differs among states, so you should be aware of the specific requirements in your state, and where you are travelling. Infant and child restraints must be properly placed and installed in a rear seat. For more information refer to the "Child Restraint Systems" section in this chapter.
 
 Small children are best protected from injury in an accident when properly restrained in the rear seat by a child restraint system that meets the requirements of the Federal Motor Vehicle Safety Standards. Before buying any child restraint system, make sure that it has a label certifying that it meets Federal Motor Vehicle Safety Standard FMVSS 213. The restraint must be appropriate for your child’s height and weight. Check the label on the child restraint for this information. Refer to the "Child Restraint Systems" section in this chapter.
 
-### WARNING
-`genesis_g90_en_93aac08c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-ALWAYS properly restrain infants and small children in a child restraint appropriate for the child's height and weight. To reduce the risk of serious injury or death to a child and other passengers, NEVER hold a child in your lap or arms when the vehicle is moving. The violent forces created during an accident will tear the child from your arms and throw the child against the interior of the vehicle.
+> ⚠️ **Внимание:** 
+> ALWAYS properly restrain infants and small children in a child restraint appropriate for the child's height and weight. To reduce the risk of serious injury or death to a child and other passengers, NEVER hold a child in your lap or arms when the vehicle is moving. The violent forces created during an accident will tear the child from your arms and throw the child against the interior of the vehicle.
 
 ### Larger children
-`genesis_g90_en_c8ba06e8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Children under age 13 and who are too large for a booster seat must always occupy the rear seat and use the available lap/shoulder belts. A seat belt should lie across the upper thighs and be snug across the shoulder and chest to restrain the child safely. Check belt fit periodically. Children are afforded the most safety in the event of an accident when they are restrained by a proper restraint system and/or seat belts in the rear seat. Always have the LATCH system inspected by your authorized retailer of Genesis Branded products after an accident. An accident can damage the LATCH system and may not properly secure the child restraint.
 
@@ -1407,23 +1248,18 @@ If a larger child over age 13 must be seated in the front seat, the child must b
 
 If the shoulder belt portion slightly touches the child's neck or face, try placing the child closer to the center of the vehicle. If the shoulder belt still touches their face or neck they need to be returned to an appropriate booster seat in the rear seat.
 
-### WARNING
-`genesis_g90_en_cd077b34` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Always make sure children are wearing their seat belts and that they are properly adjusted before driving. NEVER allow the shoulder belt to contact the child’s neck or face. Do not allow more than one child to use a single seat belt.
+> ⚠️ **Внимание:** 
+> Always make sure children are wearing their seat belts and that they are properly adjusted before driving. NEVER allow the shoulder belt to contact the child’s neck or face. Do not allow more than one child to use a single seat belt.
 
 ### Transporting an injured person
-`genesis_g90_en_fafc3fdd` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A seat belt should be used when an injured person is being transported. Consult a physician for specific recommendations.
 
 ### One personper belt
-`genesis_g90_en_44a8fd48` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Two people (including children) should never attempt to use a single seat belt. This could increase the severity of injuries in case of an accident.
 
 ### Donot lie down
-`genesis_g90_en_733d62d3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Sitting in a reclined position when the vehicle is in motion can be dangerous. Even when buckled up, the protections of your restraint system (seat belts and air bags) is greatly reduced by reclining your seatback.
 
@@ -1431,55 +1267,45 @@ To reduce the chance of injuries in the event of an accident and to achieve the 
 
 A seat belt cannot provide proper protection if the person is lying down in the rear seat or if the front or rear seats are in a reclined position.
 
-### WARNING
-`genesis_g90_en_aadfebcf` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-NEVER ride with a reclined seatback when the vehicle is moving.
-Riding with a reclined seatback increases your chance of serious or fatal injuries in the event of a collision or sudden stop.
-Drivers and passengers should always sit well back in their seats, properly belted, and with the seatbacks upright.
+> ⚠️ **Внимание:** 
+> NEVER ride with a reclined seatback when the vehicle is moving.
+> Riding with a reclined seatback increases your chance of serious or fatal injuries in the event of a collision or sudden stop.
+> Drivers and passengers should always sit well back in their seats, properly belted, and with the seatbacks upright.
 
 ### Care of Seat Belts
-`genesis_g90_en_30b2bb8b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Seat belt systems should never be disassembled or modified. In addition, care should be taken to assure that seat belts and belt hardware are not damaged by seat hinges, doors or other abuse.
 
 ### Periodic inspection
-`genesis_g90_en_297cee2b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 All seat belts should be inspected periodically for wear or damage of any kind. Any damaged parts should be replaced as soon as possible by an authorized retailer of Genesis Branded products.
 
 ### K ep belts clean and dry
-`genesis_g90_en_783d4405` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Seat belts should be kept clean and dry. If belts become dirty, they can be cleaned by using a mild soap solution and warm water. Bleach, dye, strong detergents or abrasives should not be used because they may damage and weaken the fabric.
 
 ### When to replace seat belts
-`genesis_g90_en_8b8f5a63` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The entire seat belt assembly or assemblies should be replaced if the vehicle has been involved in an accident. This should be done even if no damage is visible. Additional questions concerning seat belt operation should be directed to an authorized retailer of Genesis Branded products.
 
-### WARNING
-`genesis_g90_en_f612ab3f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Always properly restrain children in the rear seats of the vehicle.
-
-Children of all ages are safer when restrained in the rear seat. A child riding in the front passenger seat can be forcefully struck by an inflating air bag resulting in SERIOUS INJURY or DEATH.
-
-Children under age 13 must always ride in the rear seats and must always be properly restrained to minimize the risk of injury in an accident, sudden stop or sudden maneuver. According to accident statistics, children are safer when properly restrained in the rear seats than in the front seat. Even with air bags, children can be seriously injured or killed. Children too large for a child restraint must use the seat belts provided.
-
-All 50 states have child restraint laws which require children to travel in approved child restraint devices. The laws governing the age or height/ weight restrictions at which seat belts can be used instead of child restraints differs among states, so you should be aware of the specific requirements in your state, and where you are travelling.
-
-Child restraint systems must be properly placed and installed in the rear seat. You must use a commercially available child restraint system that meets the requirements of the Federal Motor Vehicle Safety Standards (FMVSS 213).
-
-Child restraint systems are generally designed to be secured in a vehicle seat by lap belt portion of a lap/ shoulder belt, or by a LATCH system in the rear seats of the vehicle.
+> ⚠️ **Внимание:** 
+> Always properly restrain children in the rear seats of the vehicle.
+>
+> Children of all ages are safer when restrained in the rear seat. A child riding in the front passenger seat can be forcefully struck by an inflating air bag resulting in SERIOUS INJURY or DEATH.
+>
+> Children under age 13 must always ride in the rear seats and must always be properly restrained to minimize the risk of injury in an accident, sudden stop or sudden maneuver. According to accident statistics, children are safer when properly restrained in the rear seats than in the front seat. Even with air bags, children can be seriously injured or killed. Children too large for a child restraint must use the seat belts provided.
+>
+> All 50 states have child restraint laws which require children to travel in approved child restraint devices. The laws governing the age or height/ weight restrictions at which seat belts can be used instead of child restraints differs among states, so you should be aware of the specific requirements in your state, and where you are travelling.
+>
+> Child restraint systems must be properly placed and installed in the rear seat. You must use a commercially available child restraint system that meets the requirements of the Federal Motor Vehicle Safety Standards (FMVSS 213).
+>
+> Child restraint systems are generally designed to be secured in a vehicle seat by lap belt portion of a lap/ shoulder belt, or by a LATCH system in the rear seats of the vehicle.
 
 ### Child restraint system (CRS)
-`genesis_g90_en_40fcebfd` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Infants and younger children must be restrained in an appropriate rear-facing or forward-facing CRS that has first been properly secured to the rear seat of the vehicle. Read and comply with the instructions for installation and use provided by the manufacturer of the child restraint.
 
 ### Selecting a Child Restraint System (CRS)
-`genesis_g90_en_ba9feb73` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 An improperly secured child restraint can increase the risk of SERIOUS INJURY or DEATH in an accident. Always take the following precautions when using a child restraint system:
 
@@ -1499,82 +1325,68 @@ Select a child restraint that fits the vehicle seating position where it will be
 Read and comply with the warnings and instructions for installation and use provided with the child restraint system.
 
 ### Child restraint system types
-`genesis_g90_en_e83222e8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 There are three main types of child restraint systems: rearward-facing seats, forward-facing seats, and booster seats. They are classified according to the child’s age, height and weight.
 
 Rearward-facing child restraints
 
-### WARNING
-`genesis_g90_en_00f44cc9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-NEVER install a child or infant restraint in the front passenger's seat. Placing a rearward-facing child restraint in the front seat can result in SERIOUS INJURY or DEATH if the child restraint is struck by an inflating air bag.
-
-![](images/64e580fc37392510fd018134da95cd53c014b88c8ddadbcecac5d6210ce094b0.webp)
-
-A rearward-facing child seat provides restraint with the seating surface against the back of the child. The harness system holds the child in place, and in an accident, acts to keep the child positioned in the seat and reduce the stress to the neck and spinal cord.
-
-All children under age one must always ride in a rearward-facing infant child restraint.
-
-Convertible and 3-in-1 child seats typically have higher height and weight limits for the rearward-facing position, allowing you to keep your child rearward-facing for a longer period of time.
-
-Continue to use a rearward-facing child seat for as long as your child will fit within the height and weight limits allowed by the child seat manufacturer. It's the best way to keep them safe. Once your child has outgrown the rearward-facing child restraint, your child is ready for a forward-facing child restraint with a harness.
-
-![](images/ce22bafc1ec8f9446f034182091873c3ed3556052926316240ea04f3a3d1f87d.webp)
+> ⚠️ **Внимание:** 
+> NEVER install a child or infant restraint in the front passenger's seat. Placing a rearward-facing child restraint in the front seat can result in SERIOUS INJURY or DEATH if the child restraint is struck by an inflating air bag.
+>
+> ![](images/64e580fc37392510fd018134da95cd53c014b88c8ddadbcecac5d6210ce094b0.webp)
+>
+> A rearward-facing child seat provides restraint with the seating surface against the back of the child. The harness system holds the child in place, and in an accident, acts to keep the child positioned in the seat and reduce the stress to the neck and spinal cord.
+>
+> All children under age one must always ride in a rearward-facing infant child restraint.
+>
+> Convertible and 3-in-1 child seats typically have higher height and weight limits for the rearward-facing position, allowing you to keep your child rearward-facing for a longer period of time.
+>
+> Continue to use a rearward-facing child seat for as long as your child will fit within the height and weight limits allowed by the child seat manufacturer. It's the best way to keep them safe. Once your child has outgrown the rearward-facing child restraint, your child is ready for a forward-facing child restraint with a harness.
+>
+> ![](images/ce22bafc1ec8f9446f034182091873c3ed3556052926316240ea04f3a3d1f87d.webp)
 
 ### Forward-facing child restraints
-`genesis_g90_en_d48b5d90` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A forward-facing child seat provides restraint for the child's body with a harness. Keep children in a forwardfacing child seat with a harness until they reach the top height or weight limit allowed by your child restraint’s manufacturer.
 
 Once your child outgrows the forward-facing child restraint, your child is ready for a booster seat.
 
 ### Booster seats
-`genesis_g90_en_ff1d1f2b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A booster seat is a restraint designed to improve the fit of the vehicle's seat belt system. A booster seat positions the seat belt so that it fits properly over the lap of your child.
 
 Keep your child in a booster seat until they are big enough to sit in the seat without a booster and still have the seat belt fit properly. For a seat belt to fit properly, the lap belt must lie snugly across the upper thighs, not the stomach. The shoulder belt should lie snug across the shoulder and chest and not across the neck or face. Children under age 13 must always ride in the rear seats and must always be properly restrained to minimize the risk of injury.
 
-### WARNING
-`genesis_g90_en_10893107` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> Before installing your child restraint system always:
+>
+> Read and follow the instructions provided by the manufacturer of the child restraint. Read and follow the instructions regarding child restraint systems in this manual. Failure to follow all warnings and instructions could increase the risk of the SERIOUS INJURY or DEATH if an accident occurs.
 
-Before installing your child restraint system always:
+> ⚠️ **Внимание:** 
+> If the vehicle head restraints prevents proper installation of a child seat (as described in the child seat system manual, the head restraints of the respective seating position shall be readjusted or entirely removed.
+>
+> After selecting a proper child seat for your child, check to make sure it fits properly in your vehicle. Follow the instructions provided by the manufacturer when installing the child seat. Note these general steps when installing the seat to your vehicle:
+>
+> Properly secure the child restraint to the vehicle. All child restraints must be secured to the vehicle with the lap part of a lap/shoulder belt or with the LATCH system.
+>
+> Make sure the child restraint is firmly secured. After installing a child restraint to the vehicle, push and pull the seat forward-and-back and side-to-side to verify that it is securely attached to the seat. A child restraint secured with a seat belt should be installed as firmly as possible. However, some side-toside movement can be expected.
+>
+> Secure the child in the child restraint. Make sure the child is properly strapped in the child restraint according to the manufacturer instructions.
 
-Read and follow the instructions provided by the manufacturer of the child restraint. Read and follow the instructions regarding child restraint systems in this manual. Failure to follow all warnings and instructions could increase the risk of the SERIOUS INJURY or DEATH if an accident occurs.
-
-### WARNING
-`genesis_g90_en_b0fa064b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-If the vehicle head restraints prevents proper installation of a child seat (as described in the child seat system manual, the head restraints of the respective seating position shall be readjusted or entirely removed.
-
-After selecting a proper child seat for your child, check to make sure it fits properly in your vehicle. Follow the instructions provided by the manufacturer when installing the child seat. Note these general steps when installing the seat to your vehicle:
-
-Properly secure the child restraint to the vehicle. All child restraints must be secured to the vehicle with the lap part of a lap/shoulder belt or with the LATCH system.
-
-Make sure the child restraint is firmly secured. After installing a child restraint to the vehicle, push and pull the seat forward-and-back and side-to-side to verify that it is securely attached to the seat. A child restraint secured with a seat belt should be installed as firmly as possible. However, some side-toside movement can be expected.
-
-Secure the child in the child restraint. Make sure the child is properly strapped in the child restraint according to the manufacturer instructions.
-
-### WARNING
-`genesis_g90_en_99052412` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-A child restraint in a closed vehicle can become very hot.To prevent burns, check the seating surface and buckles before placing your child in the child restraint.
-
-![](images/cee790eaf4fd29bbc9da9baf643fb638c1c77347a6c28ac7747c96e5ad4fc07a.webp)
+> ⚠️ **Внимание:** 
+> A child restraint in a closed vehicle can become very hot.To prevent burns, check the seating surface and buckles before placing your child in the child restraint.
+>
+> ![](images/cee790eaf4fd29bbc9da9baf643fb638c1c77347a6c28ac7747c96e5ad4fc07a.webp)
 
 ### NOTICE
-`genesis_g90_en_c377ba62` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not adjust the seat position after installing the Child Restraint System. When the Child Restraint System is installed, any attempt to adjust the seat position may damage either the seat belt system or the Child Restraint System.
 
 ### i Information
-`genesis_g90_en_3d98438f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When installing the Child Restraint System, the rear power adjustment seat must be adjusted to the rearmost position.
 
 ### Lower Anchors and Tether for Children (LATCH System)
-`genesis_g90_en_ee3a7e42` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The LATCH system holds a child restraint during driving and in an accident. This system is designed to make installation of the child restraint easier and reduce the possibility of improperly installing your child restraint. The LATCH system uses anchors in the vehicle and attachments on the child restraint. The LATCH system eliminates the need to use seat belts to secure the child restraint to the rear seats.
 
@@ -1589,7 +1401,6 @@ The child seat manufacturer will provide you with instructions on how to use the
 ![](images/1d8bdd6179869f8677411de6e934248020fff8e1a66271293aad1ebcfee57d04.webp)
 
 ### OHI038087
-`genesis_g90_en_0183bb2f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 LATCH anchors have been provided in the left and right outboard rear seating positions. Their locations are shown in the illustration. There are no LATCH anchors provided for the center rear seating position.
 
@@ -1597,20 +1408,16 @@ LATCH anchors have been provided in the left and right outboard rear seating pos
 
 The lower anchor position indicator symbols are located on the left and right rear seat backs to identify the position of the lower anchors in your vehicle (see arrows in illustration).
 
-### WARNING
-`genesis_g90_en_bdd5d02b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Do not attempt to install a child restraint system using LATCH anchors in the rear center seating position. There are no LATCH anchors provided for this seat. Using the outboard seat anchors can damage the anchors which may break or fail in a collision resulting in serious injury or death.
-
-The LATCH anchors are located between the seatback and the seat cushion of the rear seat left and right outboard seating positions.
+> ⚠️ **Внимание:** 
+> Do not attempt to install a child restraint system using LATCH anchors in the rear center seating position. There are no LATCH anchors provided for this seat. Using the outboard seat anchors can damage the anchors which may break or fail in a collision resulting in serious injury or death.
+>
+> The LATCH anchors are located between the seatback and the seat cushion of the rear seat left and right outboard seating positions.
 
 ### NOTICE
-`genesis_g90_en_8f9e5e9f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Before installing the Child Restraint System, make sure that there is no object (e.g. toy, pen, wire) around the lower anchor area. Those objects may damage either the seat belt system or the Child Restraint System during the installment procedure. If necessary, have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Securing a child restraint with the LATCH anchors system
-`genesis_g90_en_b2a747cc` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To install a LATCH-compatible child restraint in either of the rear outboard seating positions:
 
@@ -1619,25 +1426,21 @@ To install a LATCH-compatible child restraint in either of the rear outboard sea
 3. Place the child restraint on the vehicle seat, then attach the seat to the lower anchors according to the instructions provided by the child restraint manufacturer.
 4. Follow the child restraint instructions for properly adjusting and tightening the lower attachments on the child restraint to the lower anchors.
 
-### WARNING
-`genesis_g90_en_6cd96ba6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Take the following precautions when using the LATCH system:
-
-Read and follow all installation instructions provided with your child restraint system.
-To prevent the child from reaching and taking hold of unretracted seat belts, buckle all unused rear seat belts and retract the seat belt webbing behind the child. Children can be strangled if a shoulder belt becomes wrapped around their neck and the seat belt tightens.
-NEVER attach more than one child restraint to a single anchor. This could cause the anchor or attachment to come loose or break.
-Always have the LATCH system inspected by your authorized retailer of Genesis Branded products after an accident. An accident can damage the LATCH system and may not properly secure the child restraint.
+> ⚠️ **Внимание:** 
+> Take the following precautions when using the LATCH system:
+>
+> Read and follow all installation instructions provided with your child restraint system.
+> To prevent the child from reaching and taking hold of unretracted seat belts, buckle all unused rear seat belts and retract the seat belt webbing behind the child. Children can be strangled if a shoulder belt becomes wrapped around their neck and the seat belt tightens.
+> NEVER attach more than one child restraint to a single anchor. This could cause the anchor or attachment to come loose or break.
+> Always have the LATCH system inspected by your authorized retailer of Genesis Branded products after an accident. An accident can damage the LATCH system and may not properly secure the child restraint.
 
 ### NOTICE
-`genesis_g90_en_6b46b491` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The recommended weight for the LATCH system is under 65 lb (30 kg).
 How to determine an appropriate child restraint weight:
 Child weight + Child restraint weight < 65 lb (30kg)
 
 ### Securing a child restraint seat with "Tether Anchor" system
-`genesis_g90_en_b0d28ec0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/d889427d29fa665c2bd7e209772f25f9a3634a9be8d99c8a72913606611cf0bc.webp)
 
@@ -1645,38 +1448,32 @@ First secure the child restraint with the LATCH lower anchors or the seat belt. 
 
 Child restraint hook holders are located on the package tray.
 
-### WARNING
-`genesis_g90_en_00eb623f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Take the following precautions when installing the tether strap:
-
-Read and follow all installation instructions provided with your child restraint system.
-NEVER attach more than one child restraint to a single tether anchor. This could cause the anchor or attachment to come loose or break. Do not attach the tether strap to anything other than the correct tether anchor. It may not work properly if attached to something else.
-Do not use the tether anchors for adult seat belts or harnesses, or for attaching other items or equipment to the vehicle.
-
-![](images/0ee3131bd906c91b93b856fdd019cdfb16343fba0b992189b3cde22946092365.webp)
-
-To install the tether anchor:
-
-1. Route the child restraint tether strap over the child restraint seatback. Route the tether strap under the head restraint and between the head restraint posts, or route the tether strap over the top of the vehicle seatback. Make sure the strap is not twisted.
-2. Connect the tether strap hook to the tether anchor, then tighten the tether strap according to the child seat manufacturer’s instructions to firmly secure the child restraint to the seat.
-3. Check that the child restraint is securely attached to the seat by pushing and pulling the seat forward-and-back and side-to-side.
+> ⚠️ **Внимание:** 
+> Take the following precautions when installing the tether strap:
+>
+> Read and follow all installation instructions provided with your child restraint system.
+> NEVER attach more than one child restraint to a single tether anchor. This could cause the anchor or attachment to come loose or break. Do not attach the tether strap to anything other than the correct tether anchor. It may not work properly if attached to something else.
+> Do not use the tether anchors for adult seat belts or harnesses, or for attaching other items or equipment to the vehicle.
+>
+> ![](images/0ee3131bd906c91b93b856fdd019cdfb16343fba0b992189b3cde22946092365.webp)
+>
+> To install the tether anchor:
+>
+> 1. Route the child restraint tether strap over the child restraint seatback. Route the tether strap under the head restraint and between the head restraint posts, or route the tether strap over the top of the vehicle seatback. Make sure the strap is not twisted.
+> 2. Connect the tether strap hook to the tether anchor, then tighten the tether strap according to the child seat manufacturer’s instructions to firmly secure the child restraint to the seat.
+> 3. Check that the child restraint is securely attached to the seat by pushing and pulling the seat forward-and-back and side-to-side.
 
 ### Securing a child restraint with lap/shoulder belt
-`genesis_g90_en_dad7a95d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When not using the LATCH system, all child restraints must be secured to a vehicle rear seat with the lap part of a lap/shoulder belt.
 
-### WARNING
-`genesis_g90_en_a348fd02` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-ALWAYS place a rear-facing child restraint in the rear seat of the vehicle.
-Placing a rear-facing child restraint in the front seat can result in serious injury or death if the child restraint is struck by an inflating air bag.
-
-![](images/69880c648433e35d549eed1ccc3b7f1562de6639fc7c63032aa583f4587fdade.webp)
+> ⚠️ **Внимание:** 
+> ALWAYS place a rear-facing child restraint in the rear seat of the vehicle.
+> Placing a rear-facing child restraint in the front seat can result in serious injury or death if the child restraint is struck by an inflating air bag.
+>
+> ![](images/69880c648433e35d549eed1ccc3b7f1562de6639fc7c63032aa583f4587fdade.webp)
 
 ### Automatic locking mode
-`genesis_g90_en_6ba17f0c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Since all passenger seat belts move freely under normal conditions and only lock under extreme or emergency conditions (emergency locking mode), you must manually pull the seat belt all the way out to shift the retractor to the "Automatic Locking" mode to secure a child restraint.
 
@@ -1689,7 +1486,6 @@ To install a child restraint system on the rear seats, do the following:
 Be sure the seat belt webbing is not twisted.
 
 ### i Information
-`genesis_g90_en_68ac09ef` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When using the rear center seat belt, you should also refer to the "Rear Seat Belt – Passenger's 3-point system" section in this chapter.
 
@@ -1698,7 +1494,6 @@ When using the rear center seat belt, you should also refer to the "Rear Seat Be
 2. Fasten the lap/shoulder belt latch into the buckle. Listen for the distinct "click" sound.
 
 ### i Information
-`genesis_g90_en_795fd163` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Position the release button so that it is easy to access in case of an emergency.
 
@@ -1717,38 +1512,34 @@ Position the release button so that it is easy to access in case of an emergency
 If your CRS manufacturer instructs or recommends you to use a tether anchor with the lap/shoulder belt, refer to the previous pages for more information.
 
 ### i Information
-`genesis_g90_en_025f0391` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the seat belt is allowed to retract to its fully stowed position, the retractor will automatically switch from the "Automatic Locking" mode to the emergency lock mode for normal adult usage.
 
-### WARNING
-`genesis_g90_en_441cfb87` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-If the retractor is not in the "Automatic Locking" mode, the child restraint can move when your vehicle turns or stops suddenly. A child can be seriously injured or killed if the child restraint is not properly anchored in the car, including manually pulling the seat belt all the way out to shift the rectractor to the "Automatic Locking" mode.
-
-7. Double check that the retractor is in the "Automatic Locking" mode by attempting to pull more of the seat belt out of the retractor. If you cannot, the retractor is in the "Automatic Locking" mode.
-
-To remove the child restraint, press the release button on the buckle and then pull the lap/shoulder belt out of the restraint and allow the seat belt to retract fully.
-
-![](images/103fbbc77cf3f600661badd2b631f824348835424894f32b6c9202a9379bf43d.webp)
-AIR BAG ADVANCED SUPPLEMENTAL RESTRAINT SYSTEM
-
-The actual air bags in the vehicle may differ from the illustration.
-
-OHI039041N
-
-(1) Driver's front air bag (2) Passenger's front air bag (3) Side air bag (front) (4) Side air bag (rear, if equipped)
-
-(5) Curtain air bag (6) Driver's knee air bag (7) Passenger's knee air bag
-
-This vehicle is equipped with an Advanced Supplemental Air Bag System for the driver's seat and front passenger's seats.
-
-The front air bags are designed to supplement the three-point seat belts. For these air bags to provide protection, the seat belts must be worn at all times when driving.
-
-You can be severely injured or killed in an accident if you are not wearing a seat belt. Air bags are designed to supplement seat belts, but do not replace them. Also, air bags are not designed to deploy in every collision. In some accidents, the seat belts are the only restraint protecting you.
+> ⚠️ **Внимание:** 
+> If the retractor is not in the "Automatic Locking" mode, the child restraint can move when your vehicle turns or stops suddenly. A child can be seriously injured or killed if the child restraint is not properly anchored in the car, including manually pulling the seat belt all the way out to shift the rectractor to the "Automatic Locking" mode.
+>
+> 7. Double check that the retractor is in the "Automatic Locking" mode by attempting to pull more of the seat belt out of the retractor. If you cannot, the retractor is in the "Automatic Locking" mode.
+>
+> To remove the child restraint, press the release button on the buckle and then pull the lap/shoulder belt out of the restraint and allow the seat belt to retract fully.
+>
+> ![](images/103fbbc77cf3f600661badd2b631f824348835424894f32b6c9202a9379bf43d.webp)
+> AIR BAG ADVANCED SUPPLEMENTAL RESTRAINT SYSTEM
+>
+> The actual air bags in the vehicle may differ from the illustration.
+>
+> OHI039041N
+>
+> (1) Driver's front air bag (2) Passenger's front air bag (3) Side air bag (front) (4) Side air bag (rear, if equipped)
+>
+> (5) Curtain air bag (6) Driver's knee air bag (7) Passenger's knee air bag
+>
+> This vehicle is equipped with an Advanced Supplemental Air Bag System for the driver's seat and front passenger's seats.
+>
+> The front air bags are designed to supplement the three-point seat belts. For these air bags to provide protection, the seat belts must be worn at all times when driving.
+>
+> You can be severely injured or killed in an accident if you are not wearing a seat belt. Air bags are designed to supplement seat belts, but do not replace them. Also, air bags are not designed to deploy in every collision. In some accidents, the seat belts are the only restraint protecting you.
 
 ### AIR BAG SAFETY PRECAUTIONS
-`genesis_g90_en_cd0c32dc` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 ALWAYS use seat belts and child restraints - every trip, every time, everyone! Even with air bags, you can be seriously injured or killed in a collision if you are improperly belted or not wearing your seat belt when the air bag inflates.
 NEVER place a child in any child restraint or booster seat in the front passenger seat. An inflating air bag could forcefully strike the infant or child causing serious or fatal injuries.
@@ -1757,7 +1548,6 @@ All occupants should sit upright with the seatback in an upright position, cente
 You and your passengers should never sit or lean unnecessarily close to the air bags or lean against the door or center console. Move your seat as far back as possible from front air bags, while still maintaining control of the vehicle. The U.S. National Highway Traffic Safety Administration (NHTSA) recommends that drivers allow at least 10 inches (25 cm) between the center of the steering wheel and the chest.
 
 ### Driver's and pas enger's front air bags
-`genesis_g90_en_dcb19a84` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 Your vehicle is equipped with a Advanced Supplemental Restraint System (SRS) and lap/shoulder belts at both the driver and passenger seating positions. The SRS consists of air bags which are located in the center of the steering wheel, in the driver's side lower crash pad below the steering wheel column and the passenger's side front panel pad above the glove box.
 
@@ -1773,19 +1563,16 @@ The seat belt buckle sensors determine if the driver and front passenger's seat 
 
 According to the impact severity, and seat belt usage, the SRS Control Module (SRSCM) controls the air bag inflation. Failure to properly wear seat belts can increase the risk or severity of injury in an accident.
 
-### WARNING
-`genesis_g90_en_79674889` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
-
-To reduce the risk of serious injury or death from an inflating front air bags, take the following precautions:
-
-Seat belts must be worn at all times to help keep occupants positioned properly.
-Move your seat as far back as possible from front air bags, while still maintaining control of the vehicle.
-Never lean against the door or center console.
-Do not allow the front passenger to place their feet or legs on the dashboard.
-No objects (such as crash pad cover, cellular phone holder, cup holder, perfume or stickers) should be placed over or near the air bag modules on the steering wheel, instrument panel, windshield glass, and the front passenger's panel above the glove box. Such objects could cause harm if the vehicle is in a crash severe enough to cause the air bags to deploy.
+> ⚠️ **Внимание:** 
+> To reduce the risk of serious injury or death from an inflating front air bags, take the following precautions:
+>
+> Seat belts must be worn at all times to help keep occupants positioned properly.
+> Move your seat as far back as possible from front air bags, while still maintaining control of the vehicle.
+> Never lean against the door or center console.
+> Do not allow the front passenger to place their feet or legs on the dashboard.
+> No objects (such as crash pad cover, cellular phone holder, cup holder, perfume or stickers) should be placed over or near the air bag modules on the steering wheel, instrument panel, windshield glass, and the front passenger's panel above the glove box. Such objects could cause harm if the vehicle is in a crash severe enough to cause the air bags to deploy.
 
 ### Side air bags
-`genesis_g90_en_29e5878f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/0bdab69b22048e10c65f380b8ae7564f4701615d9ef5a563673200143f8f0d1e.webp)
 
@@ -1799,22 +1586,19 @@ The side and curtain air bags on both sides of the vehicle may deploy if a rollo
 
 For vehicles equipped with a rollover sensor the side air bags and pre-tensioners on both sides of the vehicle may deploy if a rollover or possible rollover is detected. However, the side air bags are not designed to deploy in all side impact or rollover situations.
 
-### WARNING
-`genesis_g90_en_55b33c3b` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
-
-To reduce the risk of serious injury or death from an inflating side air bag, take the following precautions:
-
-Seat belts must be worn at all times to help keep occupants positioned properly.
-Do not allow passengers to lean their heads or bodies onto doors, put their arms on the doors, stretch their arms out of the window, or place objects between the doors and seats.
-Hold the steering wheel at the 9 o'clock and 3 o'clock positions, to minimize the risk of injuries to your hands and arms.
-Do not use any accessory seat covers. This could reduce or prevent the effectiveness of the system. Do not place any objects over the air bag or between the air bag and yourself. Also, do not attach any objects around the area the air bag inflates such as the door, side door glass, front and rear pillar.
-Do not place any objects between the door and the seat. They may become dangerous projectiles if the side air bag inflates.
-Do not install any accessories on the side or near the side air bags.
-Do not put any objects between the side airbag label and seat cushion. It could cause harm if the vehicle is in a crash severe enough to cause the air bags to deploy. Do not cause impact to the doors when the Engine Start/ Stop button is in the ON position or this may cause the side air bags to inflate.
-If the seat or seat cover is damaged, have the vehicle checked and repaired by an authorized retailer of Genesis Branded Vehicle.
+> ⚠️ **Внимание:** 
+> To reduce the risk of serious injury or death from an inflating side air bag, take the following precautions:
+>
+> Seat belts must be worn at all times to help keep occupants positioned properly.
+> Do not allow passengers to lean their heads or bodies onto doors, put their arms on the doors, stretch their arms out of the window, or place objects between the doors and seats.
+> Hold the steering wheel at the 9 o'clock and 3 o'clock positions, to minimize the risk of injuries to your hands and arms.
+> Do not use any accessory seat covers. This could reduce or prevent the effectiveness of the system. Do not place any objects over the air bag or between the air bag and yourself. Also, do not attach any objects around the area the air bag inflates such as the door, side door glass, front and rear pillar.
+> Do not place any objects between the door and the seat. They may become dangerous projectiles if the side air bag inflates.
+> Do not install any accessories on the side or near the side air bags.
+> Do not put any objects between the side airbag label and seat cushion. It could cause harm if the vehicle is in a crash severe enough to cause the air bags to deploy. Do not cause impact to the doors when the Engine Start/ Stop button is in the ON position or this may cause the side air bags to inflate.
+> If the seat or seat cover is damaged, have the vehicle checked and repaired by an authorized retailer of Genesis Branded Vehicle.
 
 ### Curtain air bags
-`genesis_g90_en_e872c869` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/c882cbb96230f4605d1a6b101ef4a61870b9a25794392d9e97863ca44604ad6d.webp)
 
@@ -1829,7 +1613,6 @@ The side and curtain air bags on both sides of the vehicle may deploy if a rollo
 However, the curtain air bags are not designed to deploy in all side impact or rollover situations.
 
 ### How Does the Air Bags System Operate?
-`genesis_g90_en_30a01120` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 To reduce the risk of serious injury or death from an inflating curtain air bags, take the following precautions:
 
@@ -1865,111 +1648,97 @@ seat belt buckle sensors
 The SRSCM (Supplemental Restraint System Control Module) continually monitors all SRS components while the Engine Start/Stop button is in the ON or START position to determine if a crash impact is severe enough to require air bag deployment o pre-tensioner seat belt deployment.
 
 ### SRS warning light
-`genesis_g90_en_fffc5967` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The SRS (Supplement Restraint System) air bag warning light on the instrument panel displays the air bag symbol depicted in the illustration. The system checks the air bag electrical system for malfunctions. The light indicates that there is a potential malfunction with your air bag system, which could include your side and curtain air bags used for rollover protection.
 
-### WARNING
-`genesis_g90_en_c0201478` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> If your SRS malfunctions, the air bag may not inflate properly during an accident increasing the risk of serious injury or death.
+>
+> If any of the following conditions occur, your SRS is malfunctioning:
+>
+> The light does not turn on for approximately six seconds when the Engine Start/Stop button is in the ON or START position.
+> The light stays on after illuminating for approximately six seconds.
+> The light comes on while the vehicle is in motion.
+> The light blinks when the engine is running.
+>
+> Have an authorized retailer of Genesis Branded products inspect the SRS as soon as possible if any of these conditions occur.
+>
+> During a frontal collision, sensors will detect the vehicle's deceleration. If the rate of deceleration is high enough, the control unit will inflate the front air bags.
+>
+> The front air bags help protect the driver and front passenger by responding to frontal impacts in which seat belts alone cannot provide adequate restraint. When needed, the side air bags help provide protection in the event of a side impact or rollover.
+>
+> Air bags are activated (able to inflate if necessary) only when the Engine Start/Stop button is in the ON or START position. Air bags inflate in the event of certain frontal or side collisions to help protect the occupants from serious physical injury. Generally, air bags are designed to inflate based upon the severity of a collision, its direction, etc. These two factors determine whether the sensors produce an electronic deployment/inflation signal. The front air bags will completely inflate and deflate in an instant. It is virtually impossible for you to see the air bags inflate during an accident. It is much more likely that you will simply see the deflated air bags hanging out of their storage compartments after the collision.
+>
+> In addition to inflating in certain side collisions, vehicles equipped with a rollover sensor, side and curtain air bags will inflate if the sensing system detects a rollover.
+>
+> When a rollover is detected, side and curtain air bags will remain inflated longer to help provide protection from ejection, especially when used in conjunction with the seat belts.
+>
+> To help provide protection, the air bags must inflate rapidly.The speed of air bag inflation is a consequence of extremely short time in which to inflate the air bag between the occupant and the vehicle structures before the occupant impacts those structures. This speed of inflation reduces the risk of serious or lifethreatening injuries and is thus a necessary part of air bag design.
+>
+> However, the rapid air bag inflation can also cause injuries which can include facial abrasions, bruises and broken bones because the inflation speed also causes the air bags to expand with a great deal of force.
+>
+> There are even circumstances under which contact with the air bag can cause fatal injuries, especially if the occupant is positioned excessively close to the air bag.
+>
+> You can take steps to help reduce the risk of being injured by an inflating air bag. The greatest risk is sitting too close to the air bag. An air bag needs about 10 inches (25 cm) of space to inflate. NHTSA recommends that drivers allow at least 10 inches (25 cm) between the center of the steering wheel and the chest.
 
-If your SRS malfunctions, the air bag may not inflate properly during an accident increasing the risk of serious injury or death.
-
-If any of the following conditions occur, your SRS is malfunctioning:
-
-The light does not turn on for approximately six seconds when the Engine Start/Stop button is in the ON or START position.
-The light stays on after illuminating for approximately six seconds.
-The light comes on while the vehicle is in motion.
-The light blinks when the engine is running.
-
-Have an authorized retailer of Genesis Branded products inspect the SRS as soon as possible if any of these conditions occur.
-
-During a frontal collision, sensors will detect the vehicle's deceleration. If the rate of deceleration is high enough, the control unit will inflate the front air bags.
-
-The front air bags help protect the driver and front passenger by responding to frontal impacts in which seat belts alone cannot provide adequate restraint. When needed, the side air bags help provide protection in the event of a side impact or rollover.
-
-Air bags are activated (able to inflate if necessary) only when the Engine Start/Stop button is in the ON or START position. Air bags inflate in the event of certain frontal or side collisions to help protect the occupants from serious physical injury. Generally, air bags are designed to inflate based upon the severity of a collision, its direction, etc. These two factors determine whether the sensors produce an electronic deployment/inflation signal. The front air bags will completely inflate and deflate in an instant. It is virtually impossible for you to see the air bags inflate during an accident. It is much more likely that you will simply see the deflated air bags hanging out of their storage compartments after the collision.
-
-In addition to inflating in certain side collisions, vehicles equipped with a rollover sensor, side and curtain air bags will inflate if the sensing system detects a rollover.
-
-When a rollover is detected, side and curtain air bags will remain inflated longer to help provide protection from ejection, especially when used in conjunction with the seat belts.
-
-To help provide protection, the air bags must inflate rapidly.The speed of air bag inflation is a consequence of extremely short time in which to inflate the air bag between the occupant and the vehicle structures before the occupant impacts those structures. This speed of inflation reduces the risk of serious or lifethreatening injuries and is thus a necessary part of air bag design.
-
-However, the rapid air bag inflation can also cause injuries which can include facial abrasions, bruises and broken bones because the inflation speed also causes the air bags to expand with a great deal of force.
-
-There are even circumstances under which contact with the air bag can cause fatal injuries, especially if the occupant is positioned excessively close to the air bag.
-
-You can take steps to help reduce the risk of being injured by an inflating air bag. The greatest risk is sitting too close to the air bag. An air bag needs about 10 inches (25 cm) of space to inflate. NHTSA recommends that drivers allow at least 10 inches (25 cm) between the center of the steering wheel and the chest.
-
-### WARNING
-`genesis_g90_en_078694b5` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
-
-To reduce the risk of serious injury or death from an inflating air bag, take the following precautions:
-
-NEVER place a child restraint in the front passenger seat. Always properly restrain children under age 13 in the rear seats of the vehicle.
-Adjust the front passenger’s and driver's seats as far to the rear as possible while allowing you to maintain full control of the vehicle.
-Hold the steering wheel with hands at the 9 o'clock and 3 o'clock positions.
-Never place anything or anyone between the air bag and the seat occupant.
-Do not allow the front passenger to place their feet or legs on the dashboard.
-
-![](images/2067c76feea0fc63545d87dc114bc024876f7395e12fc27ad787f11951041133.webp)
-
-When the SRSCM detects a sufficiently severe impact to the front of the vehicle, it will automatically deploy the front air bags.
-
-![](images/35f2695e339cabdb4e36d91fab55d2a0f83d88772d472c10f6ea155e1c1a54ed.webp)
-
-Upon deployment, tear seams molded directly into the pad covers will separate under pressure from the expansion of the air bags. Further opening of the covers allows full inflation of the air bags.
-
-A fully inflated air bag, in combination with a properly worn seat belt, slows the driver or the front passenger forward motion, reducing the risk of head and chest injury.
-
-![](images/ea77f70d5b5e8f9cffb51164d039c65b814a14f34437698b5bdd49afe176730b.webp)
-
-After complete inflation, the air bag immediately starts deflating, enabling the driver to maintain forward visibility and the ability to steer or operate other controls.
+> ⚠️ **Внимание:** 
+> To reduce the risk of serious injury or death from an inflating air bag, take the following precautions:
+>
+> NEVER place a child restraint in the front passenger seat. Always properly restrain children under age 13 in the rear seats of the vehicle.
+> Adjust the front passenger’s and driver's seats as far to the rear as possible while allowing you to maintain full control of the vehicle.
+> Hold the steering wheel with hands at the 9 o'clock and 3 o'clock positions.
+> Never place anything or anyone between the air bag and the seat occupant.
+> Do not allow the front passenger to place their feet or legs on the dashboard.
+>
+> ![](images/2067c76feea0fc63545d87dc114bc024876f7395e12fc27ad787f11951041133.webp)
+>
+> When the SRSCM detects a sufficiently severe impact to the front of the vehicle, it will automatically deploy the front air bags.
+>
+> ![](images/35f2695e339cabdb4e36d91fab55d2a0f83d88772d472c10f6ea155e1c1a54ed.webp)
+>
+> Upon deployment, tear seams molded directly into the pad covers will separate under pressure from the expansion of the air bags. Further opening of the covers allows full inflation of the air bags.
+>
+> A fully inflated air bag, in combination with a properly worn seat belt, slows the driver or the front passenger forward motion, reducing the risk of head and chest injury.
+>
+> ![](images/ea77f70d5b5e8f9cffb51164d039c65b814a14f34437698b5bdd49afe176730b.webp)
+>
+> After complete inflation, the air bag immediately starts deflating, enabling the driver to maintain forward visibility and the ability to steer or operate other controls.
 
 ### What to Expect after an Air Bag Inflates
-`genesis_g90_en_63e0dab2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 After a frontal or side air bag inflates, it will deflate very quickly. Air bag inflation will not prevent the driver from seeing out of the windshield or being able to steer. Curtain air bags may remain partially inflated for some time after they deploy.
 
-### WARNING
-`genesis_g90_en_a56519ee` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> After an air bag inflates, take the following precautions:
+>
+> Open your windows and doors as soon as possible after impact to reduce prolonged exposure to the smoke and powder released by the inflating air bag.
+> Do not touch the air bag storage area's internal components immediately after an air bag has inflated. The parts that come into contact with an inflating air bag may be very hot.
+> Always wash exposed skin areas thoroughly with cold water and mild soap.
+> Always have an authorized retailer of Genesis Branded products replace the air bag immediately after deployment. Air bags are designed to be used only once.
 
-After an air bag inflates, take the following precautions:
-
-Open your windows and doors as soon as possible after impact to reduce prolonged exposure to the smoke and powder released by the inflating air bag.
-Do not touch the air bag storage area's internal components immediately after an air bag has inflated. The parts that come into contact with an inflating air bag may be very hot.
-Always wash exposed skin areas thoroughly with cold water and mild soap.
-Always have an authorized retailer of Genesis Branded products replace the air bag immediately after deployment. Air bags are designed to be used only once.
-
-### WARNING
-`genesis_g90_en_060af590` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-To prevent objects from becoming dangerous projectiles when the passenger's air bag inflates:
-
-Do not install or place any objects (drink holder, CD holder, stickers, etc.) on the front passenger's panel above the glove box where the passenger's air bag is located. Do not install a container of liquid air freshener near the instrument cluster or on the instrument panel surface.
+> ⚠️ **Внимание:** 
+> To prevent objects from becoming dangerous projectiles when the passenger's air bag inflates:
+>
+> Do not install or place any objects (drink holder, CD holder, stickers, etc.) on the front passenger's panel above the glove box where the passenger's air bag is located. Do not install a container of liquid air freshener near the instrument cluster or on the instrument panel surface.
 
 ### Noise and smoke from inflating air bag
-`genesis_g90_en_5b66106a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the air bags inflate, they make a loud noise and may produce smoke and powder in the air inside of the vehicle. This is normal and is a result of the ignition of the air bag inflator. After the air bag inflates, you may feel substantial discomfort in breathing because of the contact of your chest with both the seat belt and the air bag, as well as from breathing the smoke and powder. The powder may aggravate asthma for some people. If you experience breathing problems after an air bag deployment, seek medical attention immediately.
 
 Though the smoke and powder are nontoxic, they may cause irritation to the skin, eyes, nose, throat, etc. If this is the case, wash and rinse with cold water immediately and seek medical attention if the symptoms persist.
 
 ### Occupant Classification System (OCS)
-`genesis_g90_en_f2dba220` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/82c7824a0dd064c342de84c19d554c5722aa852b5895dcfe2bbdddd2c90aa53d.webp)
 
 Your vehicle is equipped with an Occupant Classification System (OCS) in the front passenger's seat.
 
 ### Main components ofthe Oc upant Clas ification System
-`genesis_g90_en_11606f09` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A detection device located within the front passenger seat cushion. Electronic system to determine whether the passenger air bag systems should be activated or deactivated.
 An indicator light located on the instrument panel which illuminates the words "PASSENGER AIR BAG OFF" indicating the front passenger air bag system is deactivated. The instrument panel air bag indicator light is interconnected with the OCS.
 
 ### Main components ofthe Oc upant Clas ification System
-`genesis_g90_en_ed22b737` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The OCS is designed to help detect the presence of a properly-seated front passenger and determine if the passenger's front air bag should be enabled (may inflate) or not.
 
@@ -1996,102 +1765,90 @@ Putting electrical devices (e.g. notebook, satellite radio) on the seat with inv
 Condition and operation in the front passenger Occupant Classification System
 ![](images/65f77e4a3a76c3aa88f4aedcca8208531b1f1fe29dc0a2487462f7e7010cb93a.webp)
 
-### WARNING
-`genesis_g90_en_911bf40b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> Riding in an improper position or placing weight on the front passenger's seat when it is unoccupied by a passenger adversely affects the OCS. To reduce the risk of serious injury or death:
+>
+> ![](images/9b1a5ec4c282f120257865e18045e772a1cf9d328d81287715e515fc6af739a1.webp)
+>
+> NEVER put a heavy load in the front seat or seatback pocket, or hang any items on the front passenger seat.
+>
+> ![](images/db59b909a5e504eb57c42f820465c0b2989510eff2e975b0656638643309f043.webp)
+>
+> NEVER place your feet on the front passenger seatback.
+>
+> ![](images/516356d3c7180024780c9d6878420ad74058593ef02c182d490a5be48398e5a9.webp)
+>
+> NEVER sit with your hips shifted towards the front of the seat.
+>
+> ![](images/6bf3208dfa599b9706c3e22059a5ecd82e83d6afdef80a619473d0f40b36b442.webp)
+>
+> NEVER ride with the seatback reclined when the vehicle is moving.
+>
+> ![](images/d4c7cdbecdc13fa1d2a9392cad39a5614fd432658748c1cea3f2b0b81e1a370e.webp)
+>
+> NEVER place your feet or legs on the dashboard.
+>
+> ![](images/ee275034dc91158f28e90e6b242e4467284313305805f718ed957a0e6495210e.webp)
+>
+> NEVER lean on the door or center console or sit on one side of the front passenger seat.
+>
+> Do not sit on the passenger seat wearing heavily padded clothes such as ski wear and hip protector.
+>
+> ![](images/b47d263fc2ab234e0847c65b01d872ec6d99d44523617e33441a430f1c85a37c.webp)
+>
+> ![](images/dfa50c877daae3cd556b8a3188e249aba6bafb19775853fd0523884014980156.webp)
+>
+> Do not use car seat accessories such as thick blankets and cushions which cover up the car seat surface.
+>
+> Do not place electronic devices such as laptops, DVD player, or conductive materials such as water bottles on the passenger seat.
+>
+> ![](images/36bebd0eef698526b8839d4668c23ee4b0aa4de4b098053852795a6b62392590.webp)
+>
+> Do not use electronic devices such as laptops and satellite radios which use inverter chargers.
+>
+> ![](images/6ec87dae145d14cd1a5fd482c8db4a53351534de6640e651619e9cb8ec094d63.webp)
+>
+> If large quantity of liquid has been spilled on the passenger seat, the air bag warning light may illuminate or malfunction. Therefore, make sure the seat has been completely dried before driving the vehicle.
+>
+> Do not place sharp objects on the front passenger seat. These may damage the occupant classification system, if they puncture the seat cushion.
+> Do not place any items under the front passenger seat.
+> When changing or replacing the seat or seat cover, use original items only. The OCS has been developed based on using original Genesis Branded products seats only. Altering or changing the authentic parts may result in system malfunction and increase risk of injury when in collision. Any of the above could interfere with the proper operation of the OCS sensor thereby increasing the risk of an injury in an accident.
+>
+> ![](images/68650921b0cae9e2f099d46c0aa5adb6096e1e14d7585239c52df0a2e814a5fa.webp)
+>
+> Proper seated position for OCS If the "PASSENGER AIR BAG OFF" indicator is on when an adult is seated in the front passenger seat, place the Engine Start/Stop button in the OFF position and ask the passenger to sit properly (sitting upright with the seat back in an upright position, centered on the seat cushion with their seat belt on, legs comfortably extended and their feet on the floor). Restart the engine and have the person remain in that position. This will allow the system to detect the person and to enable the passenger air bag. If the "PASSENGER AIR BAG OFF" indicator is still on, ask the passenger to move to the rear seat.
 
-Riding in an improper position or placing weight on the front passenger's seat when it is unoccupied by a passenger adversely affects the OCS. To reduce the risk of serious injury or death:
-
-![](images/9b1a5ec4c282f120257865e18045e772a1cf9d328d81287715e515fc6af739a1.webp)
-
-NEVER put a heavy load in the front seat or seatback pocket, or hang any items on the front passenger seat.
-
-![](images/db59b909a5e504eb57c42f820465c0b2989510eff2e975b0656638643309f043.webp)
-
-NEVER place your feet on the front passenger seatback.
-
-![](images/516356d3c7180024780c9d6878420ad74058593ef02c182d490a5be48398e5a9.webp)
-
-NEVER sit with your hips shifted towards the front of the seat.
-
-![](images/6bf3208dfa599b9706c3e22059a5ecd82e83d6afdef80a619473d0f40b36b442.webp)
-
-NEVER ride with the seatback reclined when the vehicle is moving.
-
-![](images/d4c7cdbecdc13fa1d2a9392cad39a5614fd432658748c1cea3f2b0b81e1a370e.webp)
-
-NEVER place your feet or legs on the dashboard.
-
-![](images/ee275034dc91158f28e90e6b242e4467284313305805f718ed957a0e6495210e.webp)
-
-NEVER lean on the door or center console or sit on one side of the front passenger seat.
-
-Do not sit on the passenger seat wearing heavily padded clothes such as ski wear and hip protector.
-
-![](images/b47d263fc2ab234e0847c65b01d872ec6d99d44523617e33441a430f1c85a37c.webp)
-
-![](images/dfa50c877daae3cd556b8a3188e249aba6bafb19775853fd0523884014980156.webp)
-
-Do not use car seat accessories such as thick blankets and cushions which cover up the car seat surface.
-
-Do not place electronic devices such as laptops, DVD player, or conductive materials such as water bottles on the passenger seat.
-
-![](images/36bebd0eef698526b8839d4668c23ee4b0aa4de4b098053852795a6b62392590.webp)
-
-Do not use electronic devices such as laptops and satellite radios which use inverter chargers.
-
-![](images/6ec87dae145d14cd1a5fd482c8db4a53351534de6640e651619e9cb8ec094d63.webp)
-
-If large quantity of liquid has been spilled on the passenger seat, the air bag warning light may illuminate or malfunction. Therefore, make sure the seat has been completely dried before driving the vehicle.
-
-Do not place sharp objects on the front passenger seat. These may damage the occupant classification system, if they puncture the seat cushion.
-Do not place any items under the front passenger seat.
-When changing or replacing the seat or seat cover, use original items only. The OCS has been developed based on using original Genesis Branded products seats only. Altering or changing the authentic parts may result in system malfunction and increase risk of injury when in collision. Any of the above could interfere with the proper operation of the OCS sensor thereby increasing the risk of an injury in an accident.
-
-![](images/68650921b0cae9e2f099d46c0aa5adb6096e1e14d7585239c52df0a2e814a5fa.webp)
-
-Proper seated position for OCS If the "PASSENGER AIR BAG OFF" indicator is on when an adult is seated in the front passenger seat, place the Engine Start/Stop button in the OFF position and ask the passenger to sit properly (sitting upright with the seat back in an upright position, centered on the seat cushion with their seat belt on, legs comfortably extended and their feet on the floor). Restart the engine and have the person remain in that position. This will allow the system to detect the person and to enable the passenger air bag. If the "PASSENGER AIR BAG OFF" indicator is still on, ask the passenger to move to the rear seat.
-
-### WARNING
-`genesis_g90_en_bcde144a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Never allow an adult passenger to ride in the front passenger seat when the "PASSENGER AIR BAG OFF" indicator is illuminated. During a collision, the air bag will not inflate if the indicator is illuminated. Have your passenger reposition himself in the seat. If the "PASSENGER AIR BAG OFF" indicator remains illuminated after the passenger repositions himself properly and the vehicle is restarted, have the passenger move to the rear seat because the air bag will not inflate.
+> ⚠️ **Внимание:** 
+> Never allow an adult passenger to ride in the front passenger seat when the "PASSENGER AIR BAG OFF" indicator is illuminated. During a collision, the air bag will not inflate if the indicator is illuminated. Have your passenger reposition himself in the seat. If the "PASSENGER AIR BAG OFF" indicator remains illuminated after the passenger repositions himself properly and the vehicle is restarted, have the passenger move to the rear seat because the air bag will not inflate.
 
 ### i Information
-`genesis_g90_en_641e4668` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The "PASSENGER AIR BAG OFF" indicator illuminates for approximately 4 seconds after the Engine Start/ Stop button is in the OFF position or after the engine is started. If the front passenger seat is occupied, the OCS will then classify the front passenger after several more seconds.
 
 ### Do Not Instal a Child Restraint inthe Front Pa senger's Seat
-`genesis_g90_en_f077e1f2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/fae16db13efc827434049303a5dd5197a3434f76b06ff2eaaea890285698e532.webp)
 
 Even though your vehicle is equipped with the OCS, never install a child restraint in the front passenger’s seat. An inflating air bag can forcefully strike a child or child restraint resulting in serious or fatal injury.
 
-### WARNING
-`genesis_g90_en_8938d099` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-NEVER place a rearward-facing or forward-facing child restraint in the front passenger's seat of the vehicle.
-An inflating frontal air bag could forcefully strike a child resulting in serious injury or death.
-Always properly restrain children in an appropriate child restraint in the rear seat of the vehicle.
+> ⚠️ **Внимание:** 
+> NEVER place a rearward-facing or forward-facing child restraint in the front passenger's seat of the vehicle.
+> An inflating frontal air bag could forcefully strike a child resulting in serious injury or death.
+> Always properly restrain children in an appropriate child restraint in the rear seat of the vehicle.
 
 ### Why Didn't My Air Bag Go Off in a Collision?
-`genesis_g90_en_6b7465a4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Air bags are not designed to inflate in every collision. There are certain types of accidents in which the air bag would not be expected to provide additional protection. These include rear impacts, second or third collisions in multiple impact accidents, as well as low speed impacts. Damage to the vehicle indicates a collision energy absorption, and is not an indicator of whether or not an air bag should have inflated.
 
-### WARNING
-`genesis_g90_en_f9b205fb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-To reduce the risk of an air bag deploying unexpectedly and causing serious injury or death:
-
-Do not hit or allow any objects to impact the locations where air bags or sensors are installed.
-Do not perform maintenance on or around the air bag sensors. If the location or angle of the sensors is altered, the air bags may deploy when they should not or may not deploy when they should.
-Do not install bumper guards or replace the bumper with a non-Genuine Genesis Part. This may adversely affect the collision and air bag deployment performance.
-Press the Engine Start/Stop button to the OFF or ACC position when the vehicle is being towed to prevent inadvertent air bag deployment. Have all air bag repairs conducted by an authorized retailer of Genesis Branded products.
+> ⚠️ **Внимание:** 
+> To reduce the risk of an air bag deploying unexpectedly and causing serious injury or death:
+>
+> Do not hit or allow any objects to impact the locations where air bags or sensors are installed.
+> Do not perform maintenance on or around the air bag sensors. If the location or angle of the sensors is altered, the air bags may deploy when they should not or may not deploy when they should.
+> Do not install bumper guards or replace the bumper with a non-Genuine Genesis Part. This may adversely affect the collision and air bag deployment performance.
+> Press the Engine Start/Stop button to the OFF or ACC position when the vehicle is being towed to prevent inadvertent air bag deployment. Have all air bag repairs conducted by an authorized retailer of Genesis Branded products.
 
 ### Air bag colision sensors
-`genesis_g90_en_d09f62af` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/d40f8e291b19cf6a4fa8baa27df858521a3808b57347e01b7b402c182d62db65.webp)
 
@@ -2104,14 +1861,12 @@ OHI039078N/OHI038054/OHI039055N/OHI038056/OHI038057/OHI038058
 (5) Side impact sensor (Speed) under the C-pillar
 
 ### Front air bags
-`genesis_g90_en_fb78449e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Front air bags and the driver's knee air bag are designed to inflate in a frontal collision depending on the the severity of impact of the front collision.
 
 ![](images/7ed670c384a6401b1d3faf66728e960b57a000f506ceed7aff40e6564045c50f.webp)
 
 ### Side and curtain air bags
-`genesis_g90_en_015ea86f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Side and curtain air bags are designed to inflate when an impact is detected by side collision sensors depending on the severity of impact resulting from a side impact collision.
 
@@ -2120,7 +1875,6 @@ Although the driver's and front passenger's air bags are designed to inflate onl
 If the vehicle chassis is impacted by bumps or objects on unimproved roads, the air bags may deploy. Drive carefully on unimproved roads or on surfaces not designed for vehicle traffic to prevent unintended air bag deployment.
 
 ### Air bag non-inflation conditions
-`genesis_g90_en_009a4d5c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/503c99059975e10ad4df993ac03a534423c3178ee1845c6f5bb55c412f2bc3ba.webp)
 
@@ -2151,7 +1905,6 @@ Front air bags may not inflate in rollover accidents because air bag deployment 
 However, side and curtain air bags may inflate when the vehicle is rolled over by a side impact collision.
 
 ### i Information
-`genesis_g90_en_ef429cf5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Front air bags do not inflate in rollover accidents. However, side impact and curtain air bags may inflate in a rollover, when it is detected by the rollover sensor.
 
@@ -2160,28 +1913,23 @@ Front air bags do not inflate in rollover accidents. However, side impact and cu
 Air bags may not inflate if the vehicle collides with objects such as utility poles or trees, where the point of impact is concentrated and the collision energy is absorbed by the vehicle structure.
 
 ### SRS Care
-`genesis_g90_en_1c22ea2d` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 The SRS is virtually maintenance-free and there are no parts you can safely service by yourself. If the SRS air bag warning light does not illuminate when the Engine Start/Stop button is in the ON position, or continuously remains on, have your vehicle immediately inspected by an authorized retailer of Genesis Branded products. Any work on the SRS system, such as removing, installing, repairing, or any work on the steering wheel, the front passenger's panel, front seats and roof rails must be performed by an authorized retailer of Genesis Branded products. Improper handling of the SRS system may result in serious personal injury.
 
-### WARNING
-`genesis_g90_en_1a2c64c9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-To reduce the risk of serious injury or death, take the following precautions:
-
-Do not attempt to modify or disconnect the SRS components or wiring, including the addition of any kind of badges to the pad covers or modifications to the body structure. Do not place objects over or near the air bag modules on the steering wheel, instrument panel, or the front passenger’s panel above the glove box.
-Clean the air bag pad covers with a soft cloth moistened with plain water. Solvents or cleaners could adversely affect the air bag covers and proper deployment of the system. Always have inflated air bags replaced by an authorized retailer of Genesis Branded products.
-If components of the air bag system must be discarded, or if the vehicle must be scrapped, certain safety precautions must be observed. Consult an authorized retailer of Genesis Branded products for the necessary information. Failure to follow these precautions could increase the risk of personal injury.
+> ⚠️ **Внимание:** 
+> To reduce the risk of serious injury or death, take the following precautions:
+>
+> Do not attempt to modify or disconnect the SRS components or wiring, including the addition of any kind of badges to the pad covers or modifications to the body structure. Do not place objects over or near the air bag modules on the steering wheel, instrument panel, or the front passenger’s panel above the glove box.
+> Clean the air bag pad covers with a soft cloth moistened with plain water. Solvents or cleaners could adversely affect the air bag covers and proper deployment of the system. Always have inflated air bags replaced by an authorized retailer of Genesis Branded products.
+> If components of the air bag system must be discarded, or if the vehicle must be scrapped, certain safety precautions must be observed. Consult an authorized retailer of Genesis Branded products for the necessary information. Failure to follow these precautions could increase the risk of personal injury.
 
 ### Additional Safety Precautions
-`genesis_g90_en_584f5557` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Passengers should not move out of or change seats while the vehicle is moving. A passenger who is not wearing a seat belt during a crash or emergency stop can be thrown against the inside of the vehicle, against other occupants, or be ejected from the vehicle.
 
 Do not use any accessories on seat belts. Devices claiming to improve occupant comfort or reposition the seat belt can reduce the protection provided by the seat belt and increase the chance of serious injury in a crash.
 
 ### Do not modify the front seats.
-`genesis_g90_en_f3541cd7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Modification of the front seats could interfere with the operation of the supplemental restraint system sensing components or side air bags.
 
@@ -2192,17 +1940,14 @@ Do not cause impact to the doors. Impact to the doors when the Engine Start/Stop
 Modifications to accommodate disabilities. If you require modification to your vehicle to accommodate a disability, contact Genesis Customer Care at 844 340-9741
 
 ### Ad ing equipment to or modifying yourair bag equip ed vehicle
-`genesis_g90_en_1e230add` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you modify your vehicle by changing your vehicle’s frame, bumper system, front end or side sheet metal or ride height, this may affect the operation of your vehicle’s air bag system.
 
 ### OHI039067N/OHI039068N/OHI038070
-`genesis_g90_en_c85695db` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Air bag warning labels, required by the U.S. National Highway Traffic Safety Administration (NHTSA), are attached to alert the driver and passengers of potential risks of the air bag system. Be sure to read all of the information about the air bags that are installed on your vehicle in this Owners Manual.
 
 ### 3. Convenient Features of Your Vehicle
-`genesis_g90_en_ef9bdf86` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Accessing Your Vehicle  3-3 Smart Key. Immobilizer System .3-8
 Door Locks  3-9 Operating Door Locks from Outside the Vehicle  3-9 Operating Door Locks from Inside the Vehicle == Auto Door Lock and Unlock Features  3-13 Child-Protector Rear Door locks 3-13 Safe Exit Assist (SEA) System  3-14
@@ -2246,7 +1991,6 @@ Windshield Wipers  3-100
 Windshield Washers.   .3-101
 
 ### 3. Convenient Features of Your Vehicle
-`genesis_g90_en_f6402a74` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Parking Distance Warning (Reverse/Forward) System  3-102 Operation of the Parking Distance Warning System    3-103 Non-operational Conditions of Parking Distance Warning System  3-105 Parking Distance Warning System Precautions   .. ..3-106 Parking Collision-Avoidance Assist - Reverse 0 .3-107 System Setting and Operation  3-107 Warning and System Control  3-108 Detecting Sensor  3-110 System Malfunction  3-112 Limitations of the System  3-112 Surround View Monitor.   · .3-114 Blind-Spot View Monitor System  3-116 Automatic Climate Control System  3-117 Automatic Heating and Air Conditioning    3-118 Manual Heating and Air Conditioning  3-119 System Operation   .3-129 System Maintenance .3-130 Defroster   .3-132 Rear Window Defroster  3-132 Front Wiper Deicer 3-132
 
@@ -2282,7 +2026,6 @@ Rear Side Window Sunshade  3-150
 Luggage Net Holder  3-151
 
 ### ACCESSING YOUR VEHICLESmart Key
-`genesis_g90_en_34c534f9` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/c71c02e1349f60e7c9be1a1d0f5a23b6632a14853f1131d3fa2531d550de42bc.webp)
 
@@ -2294,7 +2037,6 @@ Your G90 uses a Smart Key, which you can use to lock or unlock the driver and pa
 4. Panic
 
 ### Locking your vehicle
-`genesis_g90_en_2b877c6a` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/a1be2cc44efe32bb627042330f2a4151c1a5160162c83f6fe4c5ff44b07f9f9c.webp)
 
@@ -2306,7 +2048,6 @@ To lock your vehicle using the door handle button or the Smart Key:
 3. Press either the button on the door handle or the Door Lock button (1) on the smart key. The chime will sound once and the hazard warning lights will blink. Also, the outer side view mirror will fold, if the folding switch is in the AUTO position. 4. Make sure the doors are locked by checking the position of the door lock button inside the vehicle.
 
 ### i Information
-`genesis_g90_en_fbf50f24` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The door handle button will only operate when the smart key is within 28\~40 inches (0.7\~1 m) from the outside door handle.
 Pressing the door handle button does not unlock the doors. To unlock the doors, refer to the following page.
@@ -2315,13 +2056,10 @@ Note that you cannot lock your vehicle using the door handle button if any of th
 
 The Smart Key is in the vehicle. The Engine Start/Stop button is in ACC or ON position. Any door except the trunk is open.
 
-### WARNING
-`genesis_g90_en_f673170f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Do not leave the Smart Key in your vehicle with unsupervised children. Unattended children could press the Engine Start/ Stop button and may operate power windows or other controls, or even make the vehicle move, which could result in serious injury or death.
+> ⚠️ **Внимание:** 
+> Do not leave the Smart Key in your vehicle with unsupervised children. Unattended children could press the Engine Start/ Stop button and may operate power windows or other controls, or even make the vehicle move, which could result in serious injury or death.
 
 ### Unlocking your vehicle
-`genesis_g90_en_41e790dc` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/c1dff779806b420f9f44f35a2ef8f1d58393a3e38b52a4d39bf943649479a318.webp)
 
@@ -2330,7 +2068,6 @@ To unlock your vehicle:
 1. Make sure you have the smart key in your possession. 2. Put your hand in the outside door handle or press the Door Unlock button (2) on the smart key. The driver's door will unlock and the hazard warning lights will blink two times. Also, the outer side view mirror will unfold, if the folding switch is in the AUTO position.
 
 ### Two Press Unlock Feature
-`genesis_g90_en_df9cf747` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The priority for unlocking the driver door only, or unlocking all the doors with one press may be adjusted in the Settings menu in the AVN system screen.
 
@@ -2341,57 +2078,48 @@ Select or Deselect the Two Press Unlock feature in the Settings menu in the AVN 
 Setup → Vehicle Settings → Door/ Trunk → 2 Press Unlock
 
 ### Information
-`genesis_g90_en_b9464406` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The door handle unlocking will only operate when the smart key is within 28-40 inches (0.7\~1m) from the outside door handle.
 Either the driver or front passenger door can be opened with the door handle button when the smart key is within this range.
 If you put hour hand in the front passenger outside door handle with the smart key in your possession, all the doors will unlock.
 
 ### i Information
-`genesis_g90_en_77445367` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The doors may unlock if the inner sensor of the outer door handle is recognized while washing your car or due to heavy rain. However, the doors are automatically locked in 30 seconds unless a door is opened after they are unlocked.
 The doors may not unlock if you put your hand in the outside door handle with gloves on.
 The doors may not unlock if you suddenly approach the door and put your hand in the outside door handle.
 
 ### Panic buton
-`genesis_g90_en_0e2c0a8e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press and hold the Panic button (4) for more than one second. The horn sounds and hazard warning lights blink for about 30 seconds. To cancel the panic mode, press any button on the Smart Key.
 
 ### Start-up
-`genesis_g90_en_be9eb0f0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 You can start the engine without inserting the key.
 
 For more information, refer to the "Engine Start/Stop Button" section in chapter 5.
 
 ### Opening the trunk
-`genesis_g90_en_ccf9ee5e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To unlock and open the trunk:
 
 1. Make sure you have the smart key in your possession. 2. Press either the trunk open switch on the outside of the trunk or press and hold the Trunk Unlock button (3) on the smart key for more than one second. The hazard warning lights will blink two times and the trunk will open. 3. Once the trunk is opened and then closed, the trunk will automatically re-lock after 30 seconds.
 
 ### NOTICE
-`genesis_g90_en_98dff5ba` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To prevent damaging the smart key:
 
 Keep the smart key in a cool, dry place to avoid damage or malfunction. Exposure to moisture or high temperature may cause the internal circuit of the smart key to malfunction which may not be covered under warranty. Avoid dropping or throwing the smart key. Protect the smart key from extreme temperatures.
 
 ### i Information
-`genesis_g90_en_4ca28568` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The trunk open switch will only operate when the smart key is within 28 inches (0.7 m) from the trunk.
 
 ### NOTICE
-`genesis_g90_en_5866d256` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Always have the smart key with you when leaving the vehicle. If the smart key is left near the vehicle, the vehicle battery may be discharged.
 
 ### Mechanical key
-`genesis_g90_en_f96011bf` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 If the Smart Key does not operate normally, you can lock or unlock the door by using the mechanical key.
 
@@ -2400,12 +2128,10 @@ If the Smart Key does not operate normally, you can lock or unlock the door by u
 To remove the mechanical key from the smart key FOB, press and hold the release button (1) and then pull the mechanical key (2) outward. To unlock the vehicle using the mechanical key, insert the mechanical key into the key hole in the driver door (Refer to page 3-9). To reinstall the mechanical key into the FOB, insert the key in the top of the key FOB and push inward until a click sound is heard.
 
 ### Los ofa smart key
-`genesis_g90_en_cee4656c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A maximum of two Smart Keys can be registered to a single vehicle. If you happen to lose your smart key, you should immediately take the vehicle and remaining keys to your authorized retailer of Genesis Branded products or tow the vehicle, if necessary.
 
 ### Smart key precautions
-`genesis_g90_en_f186590e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The smart key will not work if any of the following occur:
 
@@ -2416,12 +2142,10 @@ If the smart key is in close proximity to your mobile phone, the signal could be
 This is specifically relevant when the phone is active such as making and receiving calls, text messaging, and/or sending/receiving emails. When possible, avoid keeping the remote key and your mobile phone in the same location such as a pants or jacket pocket in order to avoid interference between the two devices.
 
 ### NOTICE
-`genesis_g90_en_9b5aad74` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Keep the smart key away from electromagnetic materials that blocks electromagnetic waves to the key surface.
 
 ### i Information
-`genesis_g90_en_802d974f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This device complies with Part 15 of the FCC rules.
 
@@ -2432,7 +2156,6 @@ Operation is subject to the following three conditions:
 3. Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the device.
 
 ### Restrictions n handling keys
-`genesis_g90_en_a73f4a30` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 When leaving keys with parking lot and valet attendants, the following procedures will ensure your vehicle’s glove box compartment can only be opened with the mechanical key.
 
@@ -2450,7 +2173,6 @@ To unlock:
 Open the glove box with the mechanical key.
 
 ### Immobilizer System
-`genesis_g90_en_c3b87c96` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the Smart Key is not working properly, try replacing the battery with a new one.
 
@@ -2461,7 +2183,6 @@ Battery Type CR2032 To replace the battery:
 1. Remove the mechanical key. 2. Use a slim tool to pry open the rear cover of the smart key. 3. Remove the old battery and insert the new battery. Make sure the battery position is correct. 4. Reinstall the rear cover of the smart key.
 
 ### i Information
-`genesis_g90_en_04aeed89` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 友
 
@@ -2480,17 +2201,14 @@ If the system repeatedly does not recognize the coding of the key, contact an au
 Do not attempt to alter this system or add other devices to it. Electrical problems could result that may make your vehicle inoperable.
 
 ### Operating Door Locks from Outside the Vehicle
-`genesis_g90_en_f40d3513` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 In order to prevent theft of your vehicle, do not leave spare keys anywhere in your vehicle. Your immobilizer password is a customer unique password and should be kept confidential.
 
 ### NOTICE
-`genesis_g90_en_6f216071` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The transponder in your key is an important part of the immobilizer system. It is designed to give years of trouble-free service, however you should avoid exposure to moisture, static electricity and rough handling. Immobilizer system malfunction could occur.
 
 ### i Information
-`genesis_g90_en_802d974f` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 This device complies with Part 15 of the FCC rules.
 
@@ -2509,7 +2227,6 @@ To remove the cover:
 1. Pull out the door handle. 2. Press the lock located at the bottom of the cover with a key or flatblade screwdriver (1). 3. Push out the cover (2) while pressing the lock.
 
 ### NOTICE
-`genesis_g90_en_5aabbc14` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Be careful not to damage the cover while removing it or misplace it after removing it.
 
@@ -2520,7 +2237,6 @@ Once the doors are unlocked, they may be opened by pulling the door handle.
 When closing the door, push the door by hand. Make sure that doors are closed securely.
 
 ### Smart key
-`genesis_g90_en_d968e016` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/0449cc663e80974046798d9ba7df8f49029e8b2ff60f3412e239ce7444813da8.webp)
 
@@ -2531,7 +2247,6 @@ To lock:
 Press the button on the outside door handle while carrying the Smart Key with you or press the Door Lock button on the Smart Key.
 
 ### To unlock:
-`genesis_g90_en_087630b7` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Put your hand in the driver's outside door handle while carrying the Smart Key with you, the driver's door will unlock.
 Put your hand in the outside door handle again within 4 seconds, then all doors will unlock.
@@ -2543,17 +2258,14 @@ Once the doors are unlocked, they may be opened by pulling the door handle.
 When closing the door, push the door by hand. Make sure that doors are closed securely.
 
 ### i Information
-`genesis_g90_en_f8a3e1dd` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 You can change the system to the central door unlock mode in the Settings menu in the AVN system screen to unlock all the doors when you press the unlock button one time.
 
 ### Information
-`genesis_g90_en_b806dd2f` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 In cold and wet climates, door lock and door mechanisms may not work properly due to freezing conditions. If the door is locked/unlocked multiple times in rapid succession with either the vehicle key or door lock switch, the system may stop operating temporarily in order to protect the circuit and prevent damage to system components.
 
 ### Power do r atch
-`genesis_g90_en_962917e4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/6f25d9eb21cc0f9f52e038ee647ce8c45df779fa09827b15325a0eb728d86279.webp)
 
@@ -2562,7 +2274,6 @@ If a door isn't closed completely but is closed to the first detent position, th
 ![](images/10344f0b73506c43a84e380af33ff8e5b973bf83a8d5d2557148aa534add796b.webp)
 
 ### Operating Door Locks from Inside the Vehicle
-`genesis_g90_en_1658d06d` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 With the do r lock buton
 
@@ -2576,7 +2287,6 @@ If the inner door handle of the driver's (or front passenger's) door is pulled w
 The doors cannot be locked if the smart key is in the vehicle and any door is open.
 
 ### Information
-`genesis_g90_en_05d02595` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 If a power door lock ever fails to function while you are in the vehicle try one or more of the following techniques to exit:
 
@@ -2585,12 +2295,10 @@ Operate the other door locks and handles, front and rear.
 Lower a front window and use the mechanical key to unlock the door from outside.
 
 ### i Information
-`genesis_g90_en_5c8d1b9c` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 When the vehicle's battery run out and you leave the vehicle, make sure all the doors are locked. You can lock the driver's door with a mechanical key and the rest of the doors with the lock button above the door inside handle.
 
 ### With the central do r lock switch
-`genesis_g90_en_b8bae554` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/808fcaf035deecde0d98d7acb37852d599147900440626345c0e1a51cc597cc4.webp)
 
@@ -2600,61 +2308,48 @@ When the lock button (1) is pressed, all the vehicle doors (and trunk) will lock
 
 When the unlock button (2) is pressed, all the vehicle doors (and trunk) will unlock.
 
-### WARNING
-`genesis_g90_en_d5d9e965` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> The doors should always be fully closed and locked while the vehicle is in motion. If the doors are unlocked, the risk of being thrown from the vehicle in a crash is increased.
 
-The doors should always be fully closed and locked while the vehicle is in motion. If the doors are unlocked, the risk of being thrown from the vehicle in a crash is increased.
+> ⚠️ **Внимание:** 
+> Do not leave children or animals unattended in your vehicle. An enclosed vehicle can become extremely hot, causing death or serious injury to unattended children or animals who cannot escape the vehicle. Children might operate features of the vehicle that could injure them, or they could encounter other harm, possibly from someone gaining entry to the vehicle.
 
-### WARNING
-`genesis_g90_en_f69c837c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Do not leave children or animals unattended in your vehicle. An enclosed vehicle can become extremely hot, causing death or serious injury to unattended children or animals who cannot escape the vehicle. Children might operate features of the vehicle that could injure them, or they could encounter other harm, possibly from someone gaining entry to the vehicle.
-
-### WARNING
-`genesis_g90_en_3303979e` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
-
-Always secure your vehicle.
-
-Leaving your vehicle unlocked can allow theft or entry into the vehicle.
-
-To secure your vehicle, while depressing the brake pedal, shift the gear to the P (Park) position, engage the parking brake, and place the Engine Start/Stop button in the OFF position, close all windows, lock all doors, and always take the key with you.
-
-![](images/1e320afa4884378aa3199dcad39bd52fd23b76c6b2cc2678ef7730c919db6a66.webp)
+> ⚠️ **Внимание:** 
+> Always secure your vehicle.
+>
+> Leaving your vehicle unlocked can allow theft or entry into the vehicle.
+>
+> To secure your vehicle, while depressing the brake pedal, shift the gear to the P (Park) position, engage the parking brake, and place the Engine Start/Stop button in the OFF position, close all windows, lock all doors, and always take the key with you.
+>
+> ![](images/1e320afa4884378aa3199dcad39bd52fd23b76c6b2cc2678ef7730c919db6a66.webp)
 
 ### Auto Door Lock and Unlock Features
-`genesis_g90_en_79058968` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Your vehicle is equipped with features that will automatically lock or unlock your vehicle based on settings you select in the AVN system screen.
 
 ### Auto LOCK Enable on Spe d
-`genesis_g90_en_f453d61e` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 When this feature is set in the AVN system screen, all the doors will be locked automatically when the vehicle exceeds 9 mph (15 km/h).
 
 ### Auto LOCK Enable on Shift
-`genesis_g90_en_8367f223` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 When this feature is set in the AVN system screen, all the doors will be locked automatically when the vehicle is shifted out of P (Park) while the engine is running.
 
 ### Auto UNLOCK - On Shift toP
-`genesis_g90_en_207454b3` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 When this feature is set in the AVN system screen, all the doors will be unlocked automatically when the vehicle is shifted back into P (Park).
 
 ### Auto UNLOCK - Vehicle Of
-`genesis_g90_en_c66327c8` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 When this feature is set in the AVN system screen, all the doors will be unlocked automatically when the vehicle is turned off.
 
 For more information on these features, scan the QR code in a separately supplied simple manual.
 
 ### Ad itional Unlock Safety Feature Air Bag Deployment
-`genesis_g90_en_8e0aa181` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 As an additional safety feature, all doors will be automatically unlocked when an impact causes the air bags to deploy.
 
 ### Child-Protector Rear Door locks
-`genesis_g90_en_f059545e` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/0d7d32906ebb75406fa685503d4ddf9c7e47b90769228b40785b0fe507942b3e.webp)
 
@@ -2668,43 +2363,36 @@ To lock the child safety lock, insert a screwdriver into the hole and turn it to
 
 To allow a rear door to be opened from inside the vehicle, unlock the child safety lock.
 
-### WARNING
-`genesis_g90_en_cb0dff50` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> If children accidently open the rear doors while the vehicle is in motion, they could fall out of the vehicle.The rear door safety locks should always be used whenever children are in the vehicle.
 
-If children accidently open the rear doors while the vehicle is in motion, they could fall out of the vehicle.The rear door safety locks should always be used whenever children are in the vehicle.
+> ⚠️ **Внимание:** 
+> ![](images/1168c314ee30c16639aad218433b62ed88d6e87ff4a9459e9adc744bcca59531.webp)
+>
+> If a vehicle is approaching from behind is too fast or a door is opened too suddenly the alarm system may not set off in time, which can increase the chance of an accident. Therefore, when exiting the vehicle, always check your surroundings to make sure that there are no vehicles or objects approaching.
+>
+> Once the system decides it is dangerous for a passenger to open a vehicle door by sensing the approaching of a vehicle from behind when the person is opening the door, the warning message “Watch for traffic” appears and the alarming sound will continue for maximum of five seconds.
+>
+> This function works for ten minutes even after the ignition is turned off.
+>
+> The function will be released as soon as the vehicle doors are locked with the smart key.
+>
+> The alarming sound will continue while the Safe Exit Assist (SEA) system is in activation.
+>
+> The Safe Exit Assist (SEA) system is activated when you select ‘Setup → Vehicle Settings → Driver Assistance → Blind-Spot Safety → Safe Exit Assist’ from the Settings menu in the AVN system screen.
+>
+> For detailed information, scan the QR code in a separately supplied simple manual.
 
-### WARNING
-`genesis_g90_en_b6bc25dc` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
-
-![](images/1168c314ee30c16639aad218433b62ed88d6e87ff4a9459e9adc744bcca59531.webp)
-
-If a vehicle is approaching from behind is too fast or a door is opened too suddenly the alarm system may not set off in time, which can increase the chance of an accident. Therefore, when exiting the vehicle, always check your surroundings to make sure that there are no vehicles or objects approaching.
-
-Once the system decides it is dangerous for a passenger to open a vehicle door by sensing the approaching of a vehicle from behind when the person is opening the door, the warning message “Watch for traffic” appears and the alarming sound will continue for maximum of five seconds.
-
-This function works for ten minutes even after the ignition is turned off.
-
-The function will be released as soon as the vehicle doors are locked with the smart key.
-
-The alarming sound will continue while the Safe Exit Assist (SEA) system is in activation.
-
-The Safe Exit Assist (SEA) system is activated when you select ‘Setup → Vehicle Settings → Driver Assistance → Blind-Spot Safety → Safe Exit Assist’ from the Settings menu in the AVN system screen.
-
-For detailed information, scan the QR code in a separately supplied simple manual.
-
-### WARNING
-`genesis_g90_en_f67a8f58` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-The safe Exist Assist (SEA) system may not operate normally when a vehicle is coming rapidly two lanes over from your vehicle or a vehicle is approaching at a fast speed from the rear in the lane next to your vehicle. The Safe Exist Assist (SEA) system may be activated later than normal or may not operate normally if a vehicle is approaching fast from the rear of your vehicle. The Safe Exist Assist (SEA) system will not operate if there is a malfunction with the Blind-Spot Collision Warning (BCW) system as follows:
-
-When the BCW warning message appears
-When the BCW sensor or the sensor surrounding is polluted or covered
-When the BCW does not warn or warns wrongly
-
-For more details, refer to cautions and limitations in “BlindSpot Collision Warning (BCW)/ Blind-Spot Collision-Avoidance Assist (BCA)” in chapter 5.
+> ⚠️ **Внимание:** 
+> The safe Exist Assist (SEA) system may not operate normally when a vehicle is coming rapidly two lanes over from your vehicle or a vehicle is approaching at a fast speed from the rear in the lane next to your vehicle. The Safe Exist Assist (SEA) system may be activated later than normal or may not operate normally if a vehicle is approaching fast from the rear of your vehicle. The Safe Exist Assist (SEA) system will not operate if there is a malfunction with the Blind-Spot Collision Warning (BCW) system as follows:
+>
+> When the BCW warning message appears
+> When the BCW sensor or the sensor surrounding is polluted or covered
+> When the BCW does not warn or warns wrongly
+>
+> For more details, refer to cautions and limitations in “BlindSpot Collision Warning (BCW)/ Blind-Spot Collision-Avoidance Assist (BCA)” in chapter 5.
 
 ### THEFT-ALARM SYSTEM
-`genesis_g90_en_a69dc757` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 This system helps to protect your vehicle and valuables. The horn will sound and the hazard warning lights will blink continuously if any of the following occur:
 
@@ -2725,12 +2413,10 @@ The Theft Alarm System will not set if the hood, the trunk, or any door is not f
 Do not attempt to alter this system or add other devices to it.
 
 ### i Information
-`genesis_g90_en_e1204f5e` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Do not lock the doors until all passengers have left the vehicle. If the remaining passenger leaves the vehicle when the system is armed, the alarm will be activated. If the vehicle is not disarmed with the smart key, open the doors by using the mechanical key or start the engine by directly pressing the Engine Start/Stop button with the smart key. When the system is disarmed but a door or trunk is not opened within 30 seconds, the system will be rearmed.
 
 ### i Information
-`genesis_g90_en_8a709cdf` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 ![](images/bdc537f7cc7f6b359b606511ebb091b5c5f570a5443e5eaa251222eca8905bde.webp)
 
@@ -2747,7 +2433,6 @@ Head-Up Display (HUD) height, rotation and brightness (if equipped)
 If the battery is disconnected, the memory settings will be erased. If the Seat Position Memory System does not operate normally, have the system checked by an authorized retailer of Genesis Branded products.
 
 ### Storing Positions into Memory
-`genesis_g90_en_aa05e069` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 1. Check that the gear is in P (Park) while the Engine Start/Stop button is in the ON position.
 
@@ -2757,7 +2442,6 @@ If the battery is disconnected, the memory settings will be erased. If the Seat 
 5. "Driver 1 (or 2) settings saved" will appear on the LCD display. The message appears only for the driver's seat position memory setting.
 
 ### Recalling Positions from Memory
-`genesis_g90_en_b05f1912` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 1. Check that the gear is in P (Park) while the Engine Start/Stop button is in the ON position.
 
@@ -2765,26 +2449,22 @@ If the battery is disconnected, the memory settings will be erased. If the Seat 
 3. "Driver 1(or 2) settings applied" will appear on the LCD display. The message appears only for the driver's seat position memory setting.
 
 ### i Information
-`genesis_g90_en_04a357b8` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 If you press the SET button or number 1 button with the number 1 setting in operation, the setting will temporarily deactivate. If you press the number 2 button, the number 2 setting will activate.
 If you press the number 2 button or SET button with the number 2 button in operation, the number 2 setting will temporarily deactivate. Press the number 1 button, the number 1 setting will activate.
 If you operate the seat adjustment switch, side view mirror, steering wheel, instrument panel illumination or head-up display while recalling the stored positions, the pre-set settings will become ineffective.
 
 ### Resetting the Seat Position Memory System
-`genesis_g90_en_25cffc99` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Take the following procedures to reset the seat position memory system, when it does not operate properly.
 
 ### To reset the seat position memorysystem
-`genesis_g90_en_a4682620` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Stop the vehicle and open the driver's door with the Engine Start/Stop button in the ON position and the gear shifted to P (Park).
 2. Operate the control switch to set the driver's seat and seatback to the foremost position.
 3. Simultaneously press the SET button and push forward the driver's seat movement switch over 2 seconds.
 
 ### While reseting the seatposition memory system
-`genesis_g90_en_516a45f8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. It starts with the notification sound. 2. The driver's seat and seatback is adjusted to the rearward position with the notification sound. 3. The driver's seat and seatback is re-adjusted to the default position (central position) with the notification sound.
 
@@ -2797,12 +2477,10 @@ The driving speed exceeds 2 mph (3 km/h).
 The driver's door is closed.
 
 ### i Information
-`genesis_g90_en_a7441f8f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Reattempt to do the resetting procedure again when the resetting procedure incompletely stops or the notification sound do not stop. Make sure that there is no obstacle around the driver's seat in advance of resetting the seat position memory system.
 
 ### Easy Access Function
-`genesis_g90_en_f6d5180e` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 The system will move the driver's seat and steering wheel automatically as follows:
 
@@ -2826,14 +2504,12 @@ For detailed information, scan the QR code in a separately supplied simple manua
 ❈ Details for the Easy Access function for the front and rear passengers seat is explained in chapter 2.
 
 ### SMART POSTURE CARE SYSTEM (IF EQUIPPED)
-`genesis_g90_en_7b4f5da2` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/9cd8110218b99b9ce0b711c5c6e24e7ad64d9f1363c71fba26b2794b310cc2fb.webp)
 
 The Smart Posture Care system automatically provides a healthy posture (position) for the driver's back, and sets the steering wheel, outer side view mirrors, head-up display positions according to the driver's body measurements.
 
 ### i Information
-`genesis_g90_en_a044ef34` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 If the Seat Posture Care System does not operate normally, have the system checked by an authorized retailer of Genesis Branded products.
 
@@ -2852,19 +2528,16 @@ Reference table
 For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### Motor-Driven Power Steering (MDPS)
-`genesis_g90_en_9b2ac183` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The system assists you with steering the vehicle. If the engine is turned off or if the power steering system becomes inoperative, you may still steer the vehicle, but it will require increased steering effort.
 
 Should you notice any change in the effort required to steer during normal vehicle operation, have the system checked by an authorized retailer of Genesis Branded products.
 
 ### NOTICE
-`genesis_g90_en_e806b085` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the Motor-Driven Power Steering (MDPS) System does not operate normally, the warning light ( ) will illuminate on the instrument cluster. You may steer the vehicle, but it will require increased steering efforts. Take your vehicle to an authorized retailer of Genesis Branded products and have the system checked as soon as possible.
 
 ### i Information
-`genesis_g90_en_d8aee3f3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The following symptoms may occur during normal vehicle operation:
 
@@ -2875,12 +2548,10 @@ Motor noise may be heard when the vehicle is at a stop or at a low driving speed
 When you operate the steering wheel in low temperatures, abnormal noise may occur. If the temperature rises, the noise will disappear. This is a normal condition.
 
 ### Tilt Steering / Telescopic Steering
-`genesis_g90_en_2bccbd23` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Adjust the steering wheel so it points toward your chest, not toward your face. Make sure you can see the instrument cluster warning lights and gauges. Always adjust the position of the steering wheel before driving.
 
 ### A WARNING
-`genesis_g90_en_ed8aa2d5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 NEVER adjust the steering wheel while driving. This may cause loss of vehicle control resulting in an accident.
 
@@ -2891,12 +2562,10 @@ To change the steering wheel angle and height:
 Move the switch (1) up and down to adjust the angle (2). Move the switch forward or rearward to adjust the height (3).
 
 ### NOTICE
-`genesis_g90_en_d49015f8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not adjust the steering wheel longer than necessary when the engine is turned off. This may result in unnecessary battery drain.
 
 ### Heated Steering Wheel
-`genesis_g90_en_059c4fe0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/a2a36270d0190d57a0f45a73d9dcdf3bafe91e7a92d5e91ebac5412fe87ced03.webp)
 
@@ -2913,34 +2582,27 @@ The heated steering wheel switch automatically changes to the LOW position after
 The heated steering wheel defaults to the OFF position whenever the Engine Start/Stop button is in the ON position.
 
 ### Horn
-`genesis_g90_en_5ca9a414` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/7a70ae035823539cc3249f384fca48231236c9296b5def69e260b3352e9d102e.webp)
 
 To sound the horn, press the area indicated by the horn symbol on your steering wheel (see illustration). The horn will operate only when this area is pressed.
 
 ### NOTICE
-`genesis_g90_en_33016d03` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not strike the horn severely to operate it, or hit it with your fist. Do not press on the horn with a sharp-pointed object.
 
 ### Inside Rearview Mirror
-`genesis_g90_en_ed4b818e` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Before driving your vehicle, check to see that your inside rearview mirror is properly positioned. Adjust the rearview mirror so that the view through the rear window is properly centered.
 
 ### ！ WARNING
-`genesis_g90_en_800c9988` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 Make sure your line of sight is not obstructed. Do not place objects in the rear seat, cargo area, or behind the rear headrests which could interfere with your vision through the rear window.
 
-### WARNING
-`genesis_g90_en_ba7da68b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-To prevent serious injury during an accident or deployment of the air bag, do not modify the rearview mirror and do not install a wide mirror.
+> ⚠️ **Внимание:** 
+> To prevent serious injury during an accident or deployment of the air bag, do not modify the rearview mirror and do not install a wide mirror.
 
 ### Electrochromic miror (ECM) with HomeLink® systemand Genesis Con ected Service (ifequip ed)
-`genesis_g90_en_e29a0e99` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/a14ff8ce4226b7a1732306afc3a424a021ef3110f584994c3e261aa0fefc1943.webp)
 
@@ -2952,40 +2614,34 @@ Your vehicle may be equipped with a Gentex Automatic-Dimming Mirror with an Inte
 
 During nighttime driving, this feature will automatically detect and reduce rearview mirror glare. The HomeLink® Universal Transceiver allows you to activate your garage door(s), electric gate, home lighting, etc.
 
-### WARNING
-`genesis_g90_en_8f7d1548` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
-
-NEVER adjust the mirror while driving. This may cause loss of vehicle control resulting in an accident.
-
-(1) HomeLink Channel 1
-(2) HomeLink Channel 2
-(3) HomeLink Channel 3
-(4) Garage Door Opener Status Indicator Closing or Closed
-(5) HomeLink Operation Indicator
-(6) Garage Door Opener Status Indicator : Opening or Opened
-(7) HomeLink User Interface Indicator
+> ⚠️ **Внимание:** 
+> NEVER adjust the mirror while driving. This may cause loss of vehicle control resulting in an accident.
+>
+> (1) HomeLink Channel 1
+> (2) HomeLink Channel 2
+> (3) HomeLink Channel 3
+> (4) Garage Door Opener Status Indicator Closing or Closed
+> (5) HomeLink Operation Indicator
+> (6) Garage Door Opener Status Indicator : Opening or Opened
+> (7) HomeLink User Interface Indicator
 
 ### NOTICE
-`genesis_g90_en_204208f1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When cleaning the mirror, use a paper towel or similar material dampened with glass cleaner. Do not spray glass cleaner directly on the mirror as that may cause the liquid cleaner to enter the mirror housing.
 
 ### Automatic-Dimming Night Vision Safety™ (NVS®) Mirror (if equipped)
-`genesis_g90_en_8439404a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The NVS® Mirror automatically reduces glare by monitoring light levels in the front and the rear of the vehicle. Any object that obstructs either light sensor will degrade the automatic dimming control feature.
 
 For more information regarding NVS® mirrors and other applications, please refer to the Gentex website:
 
 ### www.gentex.com
-`genesis_g90_en_3eaee363` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Your mirror will automatically dim upon detecting glare from the vehicles traveling behind you.
 
 The mirror defaults to the ON position each time the vehicle is started.
 
 ### Integrated HomeLink® Wireless Control System
-`genesis_g90_en_576c86ba` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The HomeLink® Wireless Control System can replace up to three handheld radio-frequency (RF) transmitters with a single built-in device. This innovative feature will learn the radio frequency codes of most current transmitters to operate devices such as gate operators, garage door openers, entry door locks, security systems, even home lighting. Both standard and rolling code-equipped transmitters can be programmed by following the outlined procedures.
 
@@ -2993,20 +2649,16 @@ Additional HomeLink® information can be found at: www.homelink.com, www.youtube
 
 Retain the original transmitter of the RF device you are programming for use in other vehicles as well as for future HomeLink® programming. It is also suggested that upon the sale of the vehicle, the programmed HomeLink® buttons be erased for security purposes.
 
-### WARNING
-`genesis_g90_en_458415b6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Before programming HomeLink® to a garage door opener or gate operator, make sure people and objects are out of the way of the device to prevent potential harm or damage. Do not use the HomeLink® with any garage door opener that lacks the safety stop and reverse features required by U.S. federal safety standards (this includes any garage door opener model manufactured before April 1, 1982). A garage door that cannot detect an object signaling the door to stop and reverse does not meet current U.S. federal safety standards. Using a garage door opener without these features increases the risk of serious injury or death.
+> ⚠️ **Внимание:** 
+> Before programming HomeLink® to a garage door opener or gate operator, make sure people and objects are out of the way of the device to prevent potential harm or damage. Do not use the HomeLink® with any garage door opener that lacks the safety stop and reverse features required by U.S. federal safety standards (this includes any garage door opener model manufactured before April 1, 1982). A garage door that cannot detect an object signaling the door to stop and reverse does not meet current U.S. federal safety standards. Using a garage door opener without these features increases the risk of serious injury or death.
 
 ### Programming HomeLink®
-`genesis_g90_en_b106dac6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Please note the following:
 
 When programming a garage door opener, it is advised to park the vehicle outside of the garage. It is recommended that a new battery be placed in the hand-held transmitter of the device being programmed to HomeLink® for quicker training and accurate transmission of the radio-frequency signal. Some vehicles may require the Engine Start/Stop button to be in the ACC (or "Accessories") position for programming and/or operation of HomeLink®. In the event that there are still programming difficulties or questions after following the programming steps listed below, contact HomeLink® at: www.homelink.com, www.youtube. com/HomeLinkGent ex or by calling 1-800-355-3515.
 
 ### Program ing
-`genesis_g90_en_3e35afff` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 To program most devices, follow these instructions:
 
@@ -3025,7 +2677,6 @@ If the indicator (4) is turned ON in Orange, go to Step 3) since it is a new pro
 4. Press the Original Transmitter button until the indicator (4) is turned continuously ON or flashes in Green for approximately 10 seconds and it indicates the programing is completed.
 
 ### i Information
-`genesis_g90_en_859cb020` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Some garage door openers require to press the programmed button on the mirror up to three times right after the programming is just completed to operate the garage door.
 
@@ -3040,7 +2691,6 @@ During programming, your handheld transmitter may automatically stop transmittin
 ![](images/b829a66f38bef6db220e0fa8a7caca1d657b40d9d8bff3c2d3b5229118afc63d.webp)
 
 ### Operating HomeLink®
-`genesis_g90_en_00b969eb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press and release one of the HomeLink buttons (1, 2 or 3) that programed.
 2. The HomeLink indicator (4) will operate as below: Indicates Green and is continuously ON (Fixed Code Garage Door Opener) Flashes in Green rapidly (Rolling Code Garage Door Opener)
@@ -3048,7 +2698,6 @@ During programming, your handheld transmitter may automatically stop transmittin
 ![](images/66f17ee79492009c9dace884203ab0594be0b94b821eabdd453af3f784a25cea.webp)
 
 ### Erasing HomeLink® butons
-`genesis_g90_en_f13c2175` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press and hold the button (1) and (3) simultaneously.
 2. The indicator (4) is turned continuously ON in orange for about 10 seconds.
@@ -3065,7 +2714,6 @@ Wisconsin.
 FCC ID: NZLUAHL5A IC: 4112A-UAHL5A
 
 ### i Information
-`genesis_g90_en_c4a90f83` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 This device complies with Part 15 of the FCC Rules.
 
@@ -3092,7 +2740,6 @@ Two Way Com unication Programing
 5. If the both indicator (4) and (6) are flashing rapidly for about 5 seconds, the two way synchronization is completed.
 
 ### Information
-`genesis_g90_en_421777a6` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Some newer garage door openers provide two-way communication synchronizing when programming the original transmitter.
 
@@ -3111,7 +2758,6 @@ If the indicator (6) is ON continuously in Green, it indicates that the garage d
 If the indicator (4) or (6) does not turn to Green, it indicates that the last status of garage door was not received properly. The HomeLink mirror tries to receive the last known status of the garage door for a few seconds.
 
 ### Recaling Garage Do r Status
-`genesis_g90_en_778d0fcb` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Homelink mirror with two way communication provides a way to view the last stored message from the garage door opener. In order to recall the last known status of the last activated device, press the buttons "1 and 2" OR "2 and 3" simultaneously.
 
@@ -3119,7 +2765,6 @@ If the indicator (4) is ON continuously in Green, it indicates that the last act
 If the indicator (6) is ON continuously in Green, it indicates that the last activated device was "open" properly.
 
 ### Side View Mirrors
-`genesis_g90_en_055c3286` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/039cb49019b3650a40361a3857a20ed87f75bb5b287bd1224caa9f058fa44191.webp)
 
@@ -3133,18 +2778,14 @@ Use the inside rearview mirror or look back directly to determine the actual dis
 
 The range may be reduced or increased a little due to obstacle conditions around the garage door opener, such as houses or trees.
 
-### WARNING
-`genesis_g90_en_190d0048` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Do not adjust or fold the side view mirrors while driving. This may cause loss of vehicle control resulting in an accident.
+> ⚠️ **Внимание:** 
+> Do not adjust or fold the side view mirrors while driving. This may cause loss of vehicle control resulting in an accident.
 
 ### NOTICE
-`genesis_g90_en_ec9ebcc6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not scrape ice off the mirror face; this may damage the surface of the glass. If the mirror is jammed with ice, do not adjust the mirror by force. Use an approved spray de-icer (not radiator antifreeze) spray, or a sponge or soft cloth with very warm water, or move the vehicle to a warm place and allow the ice to melt.
 
 ### Adjusting the side view mirors
-`genesis_g90_en_5af78662` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/f2c73c94102053ce4773d8e99e9f3612c6e290d854c498eef75f58cda6bede9a.webp)
 
@@ -3153,12 +2794,10 @@ Do not scrape ice off the mirror face; this may damage the surface of the glass.
 3. After adjustment, move the lever (1) to the middle to prevent inadvertent adjustment.
 
 ### NOTICE
-`genesis_g90_en_69145f86` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The mirrors stop moving when they reach the maximum adjusting angles, but the motor continues to operate while the switch is pressed. Do not press the switch longer than necessary, the motor may be damaged. Do not attempt to adjust the side view mirrors by hand otherwise the motor may be damaged.
 
 ### Folding/Unfolding the side view mirors
-`genesis_g90_en_ea760b76` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/ae89c40c97ac78411cba69bd203a778ba56bb1cbc73e2bd7d43f49253b230af9.webp)
 
@@ -3183,12 +2822,10 @@ You can activate or deactivate this function from the Settings menu in the AVN s
 For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### NOTICE
-`genesis_g90_en_9b193032` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The electric type side view mirror operates even though the Engine Start/Stop button is in the OFF position. However, to prevent unnecessary battery discharge, do not adjust the mirrors longer than necessary while the engine is not running.
 
 ### Reverse Parking Aid Function (if equipped)
-`genesis_g90_en_4399721a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/b7d8f149517007a67c34189c8f2d7a0388dc75ebd30f171b1475f5ae341b5b40.webp)
 
@@ -3205,7 +2842,6 @@ The outer side view mirrors will automatically revert to their original position
 The Engine Start/Stop button is pressed to either the OFF position or the ACC position. The shift lever is moved to any position except R (Reverse). The remote control outer side view mirror switch is not selected.
 
 ### WINDOWS
-`genesis_g90_en_7da2ed43` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/be7614bac1fdee1b04997760fae8b869bd7332644445dca999e47ea69b44679b.webp)
 
@@ -3224,7 +2860,6 @@ The Engine Start/Stop button must be in the ON or START position to be able to r
 However, if the front doors are opened, the Power Windows cannot be operated even within the 30 second period.
 
 ### Window opening and closing
-`genesis_g90_en_b0886785` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/a5a5ff010bac35e85b974e3637e11ded49895b054138068dc636338a3837a48e.webp)
 
@@ -3233,17 +2868,14 @@ To open:
 Press the window switch down to the first detent position (5). Release the switch when you want the window to stop.
 
 ### To close:
-`genesis_g90_en_7b2f5d27` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Pull the window switch up to the first detent position (5). Release the window switch when you want the window to stop.
 
 ### Auto up/down window
-`genesis_g90_en_8bf2aed3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Pressing or pulling up the power window switch momentarily to the second detent position (6) completely lowers or lifts the window even when the switch is released. To stop the window at the desired position while the window is in operation, pull up or press down and release the switch.
 
 ### To reset the power windows
-`genesis_g90_en_78bcc733` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the power windows do not operate normally, the automatic power window system must be reset as follows:
 
@@ -3252,7 +2884,6 @@ If the power windows do not operate normally, the automatic power window system 
 If the power windows do not operate properly after resetting, have the system checked by an authorized retailer of Genesis Branded products.
 
 ### Automatic reverse (ifequip ed)
-`genesis_g90_en_727c3414` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/6f447d99182f2325f3946bd51b2f0a78037d3fd88c65c3a17d69814d2f5a3495.webp)
 
@@ -3261,17 +2892,13 @@ If a window senses any obstacle while it is closing automatically, it will stop 
 If the window detects the resistance while the power window switch is pulled up continuously, the window will stop upward movement then lower approximately 1 inch (2.5 cm). If the power window switch is pulled up continuously again within 5 seconds after the window is lowered by the automatic window reverse feature, the automatic window reverse will not operate.
 
 ### i Information
-`genesis_g90_en_7f5188c7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The automatic reverse feature is only active when the "Auto Up" feature is used by fully pulling up the switch to the second detent.
 
-### WARNING
-`genesis_g90_en_fff60c26` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
-
-Make sure body parts or other objects are safely out of the way before closing the windows to avoid injuries or vehicle damage. Objects less than 0.16 inch (4 mm) in diameter caught between the window glass and the upper window channel may not be detected by the automatic reverse window and the window will not stop and reverse direction.
+> ⚠️ **Внимание:** 
+> Make sure body parts or other objects are safely out of the way before closing the windows to avoid injuries or vehicle damage. Objects less than 0.16 inch (4 mm) in diameter caught between the window glass and the upper window channel may not be detected by the automatic reverse window and the window will not stop and reverse direction.
 
 ### Power window ock switch
-`genesis_g90_en_56d0d968` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/0707a602e5606fd74ea3a1d44b190ab1f1536c599fb6e43333db9e51e11620ae.webp)
 
@@ -3281,13 +2908,10 @@ When the power window lock switch is pressed:
 
 The rear passenger control will not be able to operate the rear passenger power window. Note that the front passenger control is still able to operate the front passenger window, and that the driver master control can still operate all the power windows.
 
-### WARNING
-`genesis_g90_en_870838fe` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
-
-Do not allow children to play with the power windows. Keep the driver's door power window lock switch in the LOCK position. Serious injury or death can result from unintentional window operation by a child.
+> ⚠️ **Внимание:** 
+> Do not allow children to play with the power windows. Keep the driver's door power window lock switch in the LOCK position. Serious injury or death can result from unintentional window operation by a child.
 
 ### SUNROOF (IF EQUIPPED)
-`genesis_g90_en_19a51f3f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/d6c856a6e3eecdd10a1ad816a89eea916d5052f8afc827a439ac88513faeebad.webp)
 
@@ -3296,28 +2920,23 @@ If your vehicle is equipped with a sunroof, you can slide or tilt your sunroof w
 The sunroof can only be opened, closed, or tilted when the Engine Start/ Stop button is in the ON or START position.
 
 ### i Information
-`genesis_g90_en_34635b85` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 In cold and wet climates, the sunroof may not work properly due to freezing conditions.
 After the vehicle is washed or in a rainstorm, be sure to wipe off any water that is on the sunroof before operating it.
 
-### WARNING
-`genesis_g90_en_b13c0ff4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Never adjust the sunroof or sunshade while driving. This could result in loss of control and an accident that may cause death, serious injury, or property damage. Make sure heads, other body parts or objects are out of the way before using the sunroof.
-
-Do not extend your head, arms or body outside the sunroof while driving, to avoid serious injury.
-Do not leave the engine running and the key in your vehicle with unsupervised children. Unattended children could operate the sunroof, which could result in serious injury.
-Do not sit on the top of the vehicle. It may cause injuries or vehicle damage.
+> ⚠️ **Внимание:** 
+> Never adjust the sunroof or sunshade while driving. This could result in loss of control and an accident that may cause death, serious injury, or property damage. Make sure heads, other body parts or objects are out of the way before using the sunroof.
+>
+> Do not extend your head, arms or body outside the sunroof while driving, to avoid serious injury.
+> Do not leave the engine running and the key in your vehicle with unsupervised children. Unattended children could operate the sunroof, which could result in serious injury.
+> Do not sit on the top of the vehicle. It may cause injuries or vehicle damage.
 
 ### NOTICE
-`genesis_g90_en_6e09c03b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not continue to move the sunroof control lever after the sunroof is fully opened, closed, or tilted. Damage to the motor or system components could occur.
 Make sure the sunroof is closed fully when leaving your vehicle. If the sunroof is open, rain or snow may leak through the sunroof and wet the interior as well as allow theft.
 
 ### Sunroof Opening and Closing
-`genesis_g90_en_8181576b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/533733a871809662374a0e60f2f42f023e7b05610855f43fe5d0e0ea0ccf3bc8.webp)
 
@@ -3330,24 +2949,20 @@ To close:
 Press the sunroof control lever forward to the first detent position. Release the switch when you want the sunroof to stop.
 
 ### Sliding the Sunro f
-`genesis_g90_en_e95064b2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Pressing the sunroof control lever backward or forward momentarily to the second detent position completely opens or closes the sunroof even when the switch is released. To stop the sunroof at the desired position while the sunroof is in operation, press the sunroof control lever backward or forward and release the switch.
 
 ### Automatic reverse
-`genesis_g90_en_5d8b13e3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/345e55b21dfd907f6492f799cdf0a8d646b4c7438f12bd8f7bca1c26356987c7.webp)
 
 If the sunroof senses any obstacle while it is closing automatically, it will reverse direction then stop to allow the object to be cleared.
 
 ### ！ WARNING
-`genesis_g90_en_c5321c41` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Small objects that can get caught between the sunroof glass and the front glass channel may not be detected by the automatic reverse system. In this case, the sunroof glass will not detect the object and will not reverse direction.
 
 ### Sunshade
-`genesis_g90_en_d2879a43` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/30c03f4b9429b23a1900d9eacc003700f2a7333cb93ff86d98c58ec26e9ecdf4.webp)
 
@@ -3356,7 +2971,6 @@ To open the sunroof, push the sunroof control lever upward to the second detent.
 To close the sunroof, push the sunroof control lever forward until the sunroof moves to the desired position.
 
 ### NOTICE
-`genesis_g90_en_05cd876b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Periodically remove any dirt that may accumulate on the sunroof guide rail or between the sunroof and roof panel which can make a noise.
 Do not try to open the sunroof when the temperature is below freezing or when the sunroof is covered with snow or ice, otherwise the motor could be damaged. In cold and wet climates, the sunroof may not work properly.
@@ -3366,7 +2980,6 @@ Do not try to open the sunroof when the temperature is below freezing or when th
 The sunshade will automatically open with the glass panel when the glass panel moves. Close it manually if you want it closed.
 
 ### Resetting the Sunroof
-`genesis_g90_en_58197dfe` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The sunroof may need to be reset if the following conditions occur:
 
@@ -3386,7 +2999,6 @@ When this is complete, the sunroof system is reset.
 For more information, contact an authorized retailer of Genesis Branded products.
 
 ### Sunroof Open Warning (if equipped)
-`genesis_g90_en_154d338c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/aa1a4f7b210f8925c95d026442c18d4b225384c000d5888c910dd56e02b48198.webp)
 
@@ -3395,7 +3007,6 @@ If the driver turns off the engine when the sunroof is not fully closed, the war
 Close the sunroof securely when leaving your vehicle.
 
 ### Closing the ho d
-`genesis_g90_en_22014a69` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/b8419de49a2cb7ccb11ad869ea46472c5e21135c1dd46109445631fec4e327a9.webp)
 
@@ -3414,14 +3025,12 @@ All glove, rags, or other combustible material is removed from the engine compar
 2. Lower the hood halfway (lifted approximately 30 cm from the closed position) and push down to securely lock in place. Then double check to be sure the hood is secure. If the hood can be raised slightly, it is not securely locked. Open it again and close it with more force.
 
 ### ！ WARNING
-`genesis_g90_en_85d6e424` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Before closing the hood, ensure all obstructions are removed from around hood opening.
 Always double check to be sure that the hood is firmly latched before driving away. Check there is no hood open warning light displayed on the instrument cluster. Driving with the hood opened may cause a total loss of visibility, which might result in an accident.
 Do not move the vehicle with the hood in the raised position, as vision is obstructed, which might result in an accident, and the hood could fall or be damaged.
 
 ### Trunk
-`genesis_g90_en_0bd9bf5e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 (1) Power Trunk Main Control button
 
@@ -3429,7 +3038,6 @@ Do not move the vehicle with the hood in the raised position, as vision is obstr
 (2) Power Trunk Open switch
 
 ### (4) Power Trunk Lock button
-`genesis_g90_en_b6d54716` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/3b0792e5d55c76592fd74562ad0b7dc2d36ba97675099f5ed90a3aaaaefad61b.webp)
 
@@ -3437,7 +3045,6 @@ Do not move the vehicle with the hood in the raised position, as vision is obstr
 (3) Power Trunk Close button
 
 ### To open: Do one of the following
-`genesis_g90_en_8ad7a5b0` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Press the smart key Trunk Unlock button for more than one second. Press the Open switch (2) on the trunk. You need the smart key in your possession, when all doors are locked.
 Press the Power Trunk Main Control button (1).
@@ -3445,7 +3052,6 @@ Press the Power Trunk Main Control button (1).
 ![](images/c048ca93a05d80a2092c146946a93212b5862aa00d0bd6e1b897afb2207b19c9.webp)
 
 ### To close:
-`genesis_g90_en_48e1f92e` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Do one of the following:
 
@@ -3456,7 +3062,6 @@ Press the Lock button (4) on the trunk while carrying the smart key with all the
 If you push a button or switch while the trunk is opening or closing, it could stop moving. Press any button to operate the Power Trunk again.
 
 ### NOTICE
-`genesis_g90_en_04d0a290` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The Power Trunk Lock button will not work if you press the button when:
 
@@ -3464,30 +3069,22 @@ Any door is open.
 The Engine Start/Stop button is not in the OFF position.
 The Smart Key is in the vehicle.
 
-### WARNING
-`genesis_g90_en_d83dbd38` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> Never leave children or animals unattended in your vehicle. Children or animals might operate the power trunk that could result in injury to themselves or others, or damage to the vehicle.
 
-Never leave children or animals unattended in your vehicle. Children or animals might operate the power trunk that could result in injury to themselves or others, or damage to the vehicle.
+> ⚠️ **Внимание:** 
+> Always keep the trunk lid completely closed while the vehicle is in motion. If it is left open or ajar, poisonous exhaust gases containing carbon monoxide (CO) may enter the vehicle and serious illness or death may result.
 
-### WARNING
-`genesis_g90_en_7c902a12` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Always keep the trunk lid completely closed while the vehicle is in motion. If it is left open or ajar, poisonous exhaust gases containing carbon monoxide (CO) may enter the vehicle and serious illness or death may result.
-
-### WARNING
-`genesis_g90_en_c2798b54` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Make sure there are no people or objects around the trunk before opening or closing the Power Trunk. Wait until the trunk is open fully and stopped before loading or unloading cargo from the vehicle.
-
-Do not close or open the Power Trunk manually. This may cause damage to the Power Trunk. If it is necessary to close or open the Power Trunk manually when the battery is drained or disconnected, do not apply excessive force. Do not leave the Power Trunk open for a long period of time. This may drain the battery. To prevent damage to the trunk lift cylinders and the attached hardware, always close the trunk before driving.
+> ⚠️ **Внимание:** 
+> Make sure there are no people or objects around the trunk before opening or closing the Power Trunk. Wait until the trunk is open fully and stopped before loading or unloading cargo from the vehicle.
+>
+> Do not close or open the Power Trunk manually. This may cause damage to the Power Trunk. If it is necessary to close or open the Power Trunk manually when the battery is drained or disconnected, do not apply excessive force. Do not leave the Power Trunk open for a long period of time. This may drain the battery. To prevent damage to the trunk lift cylinders and the attached hardware, always close the trunk before driving.
 
 ### i Information
-`genesis_g90_en_cf28dc6d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 In cold and wet climates, trunk lock and trunk mechanisms may not work properly due to freezing conditions.
 
 ### Power trunk non-opening or closing conditions:
-`genesis_g90_en_7fb293f5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Power Trunk will not open or close automatically, when the vehicle is moving more than 1.8 mph (3 km/h).
 The Power Trunk can be operated when the engine is not running. However, the Power Trunk operation consumes large amounts of vehicle electric power. To prevent the battery from draining, do not operate it excessively (e.g., more than approximately 10 times repeatedly.) Do not modify or repair any part of the Power Trunk by yourself. This must be done by an authorized retailer of Genesis Branded products.
@@ -3495,7 +3092,6 @@ The Power Trunk can be operated when the engine is not running. However, the Pow
 Before jacking up the vehicle to change a tire or repair the vehicle, open the Power Trunk. Do not operate the Power Trunk when the vehicle is raised or this could cause the Power Trunk to operate improperly. If there are obstacles such as snow on the Power Trunk, it may not open automatically. After removing the obstacle, try to open it again.
 
 ### Automatic stop and reverse
-`genesis_g90_en_8483c263` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/5dd35e633ab4cc336bda82eb462aee2e972f17926669a2426782dd88faa240b4.webp)
 
@@ -3505,22 +3101,18 @@ However, if the resistance is weak such as from an object that is thin or soft, 
 
 3-44
 
-### WARNING
-`genesis_g90_en_393cb4ff` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-To prevent serious injury and damage take the following precautions when operating the power trunk:
-
-Keep all faces, hands, arms, body parts and other objects away from the path of the power trunk. Do not intentionally place any body parts or objects in the path of the power trunk to make sure the automatic stop and reversal operates. Do not allow children to play with the power trunk.
+> ⚠️ **Внимание:** 
+> To prevent serious injury and damage take the following precautions when operating the power trunk:
+>
+> Keep all faces, hands, arms, body parts and other objects away from the path of the power trunk. Do not intentionally place any body parts or objects in the path of the power trunk to make sure the automatic stop and reversal operates. Do not allow children to play with the power trunk.
 
 ### How to reset thepower trunk
-`genesis_g90_en_b47113b1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the battery has been discharged or disconnected, or if the power trunk fuse has been replaced or removed, reset the power trunk by performing the following procedure:
 
 1. Shift the vehicle to P (Park). 2. While pressing the power trunk close button, press the power trunk open switch for more than 3 seconds. A chime will sound. 3. Close the trunk manually. If the Power Trunk doesn't work properly after performing the above procedure, have the system checked by an authorized retailer of Genesis Branded products.
 
 ### NOTICE
-`genesis_g90_en_37e35714` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/dd4d4e5e4435d02cb587d78f63def7208cfa539ab53e95ed9042b4edd24cf81f.webp)
 
@@ -3534,18 +3126,14 @@ Even though the trunk lid control button is in the LOCK (button pressed) positio
 
 Close the trunk, and keep the trunk lid control button in the LOCK (button pressed) position before washing the vehicle in an automatic car wash.
 
-### WARNING
-`genesis_g90_en_f5a7b085` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Always keep the Trunk Lid Control Button in the LOCK (button pressed) position when not in use. Serious injury or death can result from unintentional operation by a child.
+> ⚠️ **Внимание:** 
+> Always keep the Trunk Lid Control Button in the LOCK (button pressed) position when not in use. Serious injury or death can result from unintentional operation by a child.
 
 ### i Information
-`genesis_g90_en_f1562fd3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the trunk lid control button is in the LOCK position, the Smart Trunk system will also be deactivated.
 
 ### Power trunk opening height vehicle setings
-`genesis_g90_en_9f93ffe9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 You can select the fully open height of the power trunk from the Settings menu in the AVN system screen. Select:
 
@@ -3554,23 +3142,19 @@ Setup → Vehicle Settings → Door/ Trunk → Power Trunk Opening Height → 50
 For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### Emergency trunk safety release
-`genesis_g90_en_224e59ec` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/80daf9fb57c170ceee0e08d1ce972ce6ec5a8fc378a13aed9d4406ac80bf404d.webp)
 
 Your vehicle is equipped with an Emergency Trunk Safety Release lever located inside the trunk. When someone is inadvertently locked in the trunk, the trunk can be opened by moving the lever in the direction of the arrow and pushing the trunk open.
 
-### WARNING
-`genesis_g90_en_9c654469` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-You and your passengers must be aware of the location of the Emergency Trunk Safety Release lever in this vehicle and how to open the trunk in case you are accidentally locked in the trunk.
-
-NEVER allow anyone to occupy the trunk of the vehicle at any time. If the trunk is partially or totally latched and the person is unable to get out, serious injury or death could occur due to lack of ventilation, exhaust fumes and rapid heat build-up, or because of exposure to cold weather conditions. The trunk is also a highly dangerous location in the event of a crash because it is not a protected occupant space but is a part of the vehicle's crush zone.
-Your vehicle should be kept locked and the Smart Key should be kept out of the reach of children. Parents should teach their children about the dangers of playing in trunks.
-Use the release lever for emergencies only.
+> ⚠️ **Внимание:** 
+> You and your passengers must be aware of the location of the Emergency Trunk Safety Release lever in this vehicle and how to open the trunk in case you are accidentally locked in the trunk.
+>
+> NEVER allow anyone to occupy the trunk of the vehicle at any time. If the trunk is partially or totally latched and the person is unable to get out, serious injury or death could occur due to lack of ventilation, exhaust fumes and rapid heat build-up, or because of exposure to cold weather conditions. The trunk is also a highly dangerous location in the event of a crash because it is not a protected occupant space but is a part of the vehicle's crush zone.
+> Your vehicle should be kept locked and the Smart Key should be kept out of the reach of children. Parents should teach their children about the dangers of playing in trunks.
+> Use the release lever for emergencies only.
 
 ### NOTICE
-`genesis_g90_en_063eff41` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/d79aa2e2182a5fb05b441a9d4762973e1c177be3786daec0f93961372b831563.webp)
 
@@ -3588,22 +3172,18 @@ When the vehicle battery is discharged or the trunk needs to be opened manually:
 
 If your vehicle is not equipped with a ski- through (type B), do not open the lever cover and use it as a ski-through purpose. Doing so may damage the cover.
 
-### WARNING
-`genesis_g90_en_2706f734` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-![](images/0d89cefc058b4808c6006729b4e72bc2df405c8580700a2c37995a3beacb9b3f.webp)
-
-Make sure to at least have minimum space at the back and in the upper area of the trunk when opening or closing the trunk. If not, the trunk may hit the surrounding objects (wall, ceiling, vehicle, etc.) and result in damaging the vehicle or injuring the person near.
+> ⚠️ **Внимание:** 
+> ![](images/0d89cefc058b4808c6006729b4e72bc2df405c8580700a2c37995a3beacb9b3f.webp)
+>
+> Make sure to at least have minimum space at the back and in the upper area of the trunk when opening or closing the trunk. If not, the trunk may hit the surrounding objects (wall, ceiling, vehicle, etc.) and result in damaging the vehicle or injuring the person near.
 
 ### i Information
-`genesis_g90_en_ad0aa98a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Si
 
 On a vehicle equipped with a smart key, the trunk can be opened with hands-free activation using the Smart Trunk system.
 
 ### How to use the Smart Trunk
-`genesis_g90_en_5d9c7de1` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The hands-free smart trunk system can be opened automatically when the following conditions are met:
 
@@ -3619,7 +3199,6 @@ For vehicles equipped with illuminated exterior front door handles, if the smart
 The smart key is in the vehicle.
 
 ### 1. Settings
-`genesis_g90_en_72eb1757` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To use this function, it must be activated from the Settings menu in the AVN system screen. Select:
 
@@ -3628,17 +3207,14 @@ Setup → Vehicle Settings Door/Trunk → Smart Trunk
 For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### 2. Detect and Alert
-`genesis_g90_en_a27d2507` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Smart Trunk detecting area extends approximately 20-40 inch (50-100 cm) behind the vehicle. If you are positioned in the detecting area and are carrying the smart key, the hazard warning lights will blink and the chime will sound to alert you that the smart trunk will open.
 
 ### i Information
-`genesis_g90_en_18cf04c4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not approach the detecting area if you do not want the trunk to open. If you have unintentionally entered the detecting area and the hazard warning lights and chime starts to operate, move away from the area behind the vehicle with the smart key. The trunk will remain closed.
 
 ### How to deactivate the Smart Trunk function using thesmart key
-`genesis_g90_en_f40dffb0` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/a5f49fd178b9fe6de1c6c83a1b3e6546ad908db89347c848b3b6ec5bddaed819.webp)
 
@@ -3652,7 +3228,6 @@ If you press any button on the smart key during the Detect and Alert stage, the 
 Make sure to be aware of how to deactivate the Smart Trunk function for emergency situations.
 
 ### i Information
-`genesis_g90_en_22728535` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 If you press the door unlock button (2), the Smart Trunk function will be deactivated temporarily. But, if you do not open any door for 30 seconds, the smart trunk function will be activated again.
 If you press the trunk open button (3) for more than 1 second, the trunk opens.
@@ -3660,7 +3235,6 @@ The Smart Trunk function will still be activated if you press the door lock butt
 In case you have deactivated the Smart Trunk function by pressing the smart key button and opened a door, the smart trunk function can be activated again by closing and locking all doors.
 
 ### Detecting area
-`genesis_g90_en_57ada5d9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/cbc3072873c5414ed590dd303dd148d385e33a739e389b0b16bf2b21ee1440cf.webp)
 
@@ -3669,7 +3243,6 @@ The Smart Trunk detecting area extends approximately 20-40 inches (50-100 cm) be
 The alert stops once the smart key is moved outside of the detecting area within the 3 second period.
 
 ### Information
-`genesis_g90_en_9062acb9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Smart Trunk function may not operate properly if any of the following instances occur:
 
@@ -3681,7 +3254,6 @@ The vehicle is parked on an incline or slope
 One side of the vehicle is raised or lowered relative to the opposite side
 
 ### Fuel Filler Door
-`genesis_g90_en_cd9557f8` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Opening the fuel filer do r
 
@@ -3697,58 +3269,49 @@ Opening the fuel filer do r
 3. Pull the fuel filler door (1) outward to access the fuel tank cap. 4. To remove the fuel tank cap (2), turn it counterclockwise. You may hear a hissing noise as the pressure inside the tank equalizes. 5. Place the cap on the fuel filler door.
 
 ### i Information
-`genesis_g90_en_bb639c7b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the fuel filler door does not open because ice has formed around it, tap lightly or push on the door to break the ice and release the door. Do not pry on the door. If necessary, spray around the door with an approved de-icer fluid (do not use radiator anti-freeze) or move the vehicle to a warm place and allow the ice to melt.
 
 ### Closing the fuel filer do r
-`genesis_g90_en_1736a531` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 1. To install the fuel tank cap, turn it clockwise until it "clicks" one time. 2. Close the fuel filler door until it is latched securely.
 
-### WARNING
-`genesis_g90_en_e1d0f63f` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
-
-Gasoline is highly flammable and explosive. Failure to follow these guidelines may result in SERIOUS INJURY or DEATH:
-
-Read and follow all warnings posted at the gas station.
-Before refueling, note the location of the Emergency Gasoline Shut-Off, if available, at the gas station.
-Before touching the fuel nozzle, you should eliminate the potential build-up of static electricity by touching a metal part of the vehicle, a safe distance away from the fuel filler neck, nozzle, or other gas source, with your bare hand. Do not use cellular phones while refueling. Electric current and/or electronic interference from cellular phones can potentially ignite fuel vapors and cause a fire.
-
-Do not get back into a vehicle once you have begun refueling. You can generate a buildup of static electricity by touching, rubbing or sliding against any item or fabric capable of producing static electricity. Static electricity discharge can ignite fuel vapors causing a fire. If you must re-enter the vehicle, you should once again eliminate potentially dangerous static electricity discharge by touching a metal part of the vehicle, away from the fuel filler neck, nozzle or other gasoline source, with your bare hand.
-
-When using an approved portable fuel container, be sure to place the container on the ground prior to refueling. Static electricity discharge from the container can ignite fuel vapors causing a fire. Once refueling has begun, contact between your bare hand and the vehicle should be maintained until the filling is complete. Use only approved portable plastic fuel containers designed to carry and store gasoline. When refueling, always move the shift lever to the P (Park) position, set the parking brake, and place the Engine Start/Stop button to the OFF position. Sparks produced by electrical components related to the engine can ignite fuel vapors causing a fire.
-
-Do not use matches or a lighter and do not smoke or leave a lit cigarette in your vehicle while at a gas station, especially during refueling.
-Do not over-fill or top-off your vehicle tank, which can cause gasoline spillage.
-If a fire breaks out during refueling, leave the vicinity of the vehicle, and immediately contact the manager of the gas station and then contact the local fire department. Follow any safety instructions they provide.
-If pressurized fuel sprays out, it can cover your clothes or skin and thus subject you to the risk of fire and burns. Always remove the fuel cap carefully and slowly. If the cap is venting fuel or if you hear a hissing sound, wait until the condition stops before completely removing the cap.
-Always check that the fuel cap is installed securely to prevent fuel spillage in the event of an accident.
+> ⚠️ **Внимание:** 
+> Gasoline is highly flammable and explosive. Failure to follow these guidelines may result in SERIOUS INJURY or DEATH:
+>
+> Read and follow all warnings posted at the gas station.
+> Before refueling, note the location of the Emergency Gasoline Shut-Off, if available, at the gas station.
+> Before touching the fuel nozzle, you should eliminate the potential build-up of static electricity by touching a metal part of the vehicle, a safe distance away from the fuel filler neck, nozzle, or other gas source, with your bare hand. Do not use cellular phones while refueling. Electric current and/or electronic interference from cellular phones can potentially ignite fuel vapors and cause a fire.
+>
+> Do not get back into a vehicle once you have begun refueling. You can generate a buildup of static electricity by touching, rubbing or sliding against any item or fabric capable of producing static electricity. Static electricity discharge can ignite fuel vapors causing a fire. If you must re-enter the vehicle, you should once again eliminate potentially dangerous static electricity discharge by touching a metal part of the vehicle, away from the fuel filler neck, nozzle or other gasoline source, with your bare hand.
+>
+> When using an approved portable fuel container, be sure to place the container on the ground prior to refueling. Static electricity discharge from the container can ignite fuel vapors causing a fire. Once refueling has begun, contact between your bare hand and the vehicle should be maintained until the filling is complete. Use only approved portable plastic fuel containers designed to carry and store gasoline. When refueling, always move the shift lever to the P (Park) position, set the parking brake, and place the Engine Start/Stop button to the OFF position. Sparks produced by electrical components related to the engine can ignite fuel vapors causing a fire.
+>
+> Do not use matches or a lighter and do not smoke or leave a lit cigarette in your vehicle while at a gas station, especially during refueling.
+> Do not over-fill or top-off your vehicle tank, which can cause gasoline spillage.
+> If a fire breaks out during refueling, leave the vicinity of the vehicle, and immediately contact the manager of the gas station and then contact the local fire department. Follow any safety instructions they provide.
+> If pressurized fuel sprays out, it can cover your clothes or skin and thus subject you to the risk of fire and burns. Always remove the fuel cap carefully and slowly. If the cap is venting fuel or if you hear a hissing sound, wait until the condition stops before completely removing the cap.
+> Always check that the fuel cap is installed securely to prevent fuel spillage in the event of an accident.
 
 ### i Information
-`genesis_g90_en_62188d95` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Make sure to refuel your vehicle according to the "Fuel Requirements" suggested in the Introduction chapter.
 
 ### NOTICE
-`genesis_g90_en_58fcfa34` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not spill fuel on the exterior surfaces of the vehicle. Any type of fuel spilled on painted surfaces may damage the paint. If the fuel filler cap requires replacement, use only a Genesis cap or the equivalent specified for your vehicle. An incorrect fuel filler cap can result in a serious malfunction of the fuel system or emission control system.
 
 ### Emergency fuel filer do r release
-`genesis_g90_en_30ab73a5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/ae31b5a186ab4e51288854c2d9534019a3c231400a41265029822729754c3cef.webp)
 
 If the fuel filler door does not open using the remote fuel filler door release button, you can open it manually. Pull the handle of the release located on the left side of the luggage compartment outward slightly.
 
 ### NOTICE
-`genesis_g90_en_61027024` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not pull the handle excessively, otherwise the luggage area trim or release handle may be damaged.
 
 ### INSTRUMENT CLUSTER
-`genesis_g90_en_ef562e39` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/a7bec72751fd84ac13886296b81199009a84250971701230a60746bd02731c17.webp)
 
@@ -3759,12 +3322,10 @@ OHI049100N
 3. Engine coolant temperature gauge 6. LCD display (including trip computer)
 
 ### NOTICE
-`genesis_g90_en_74931a05` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 All warning sounds (e.g. welcome/good-bye sound, virtual engine sound) are generated from the exterior amplifiers. If necessary, we recommend you to purchase Genuine Genesis Part to replace an exterior amplifier. Any unauthorized product may cause a malfunction of the exterior amplifiers.
 
 ### Adjusting instrument cluster ilumination
-`genesis_g90_en_c7480e14` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/f75f4848b10437bd6f73e46252ddd7302ec0774614e363d48fa10afacdaa3c45.webp)
 
@@ -3772,17 +3333,14 @@ When the vehicle's parking lights or headlights are on, press the illumination c
 
 When pressing the illumination control button, the interior switch illumination intensity is also adjusted.
 
-### WARNING
-`genesis_g90_en_f0b87f9a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Never adjust the instrument cluster while driving. Doing so could lead to driver distraction which may cause an accident and lead to vehicle damage, serious injury, or death.
-
-![](images/e671224eeb7db0127f0aff032241aacca7e062c01cc0c9c542dfd5d8c2b8624c.webp)
-
-The brightness of the instrument panel illumination is displayed. If the brightness reaches the maximum or minimum level, a chime will sound.
+> ⚠️ **Внимание:** 
+> Never adjust the instrument cluster while driving. Doing so could lead to driver distraction which may cause an accident and lead to vehicle damage, serious injury, or death.
+>
+> ![](images/e671224eeb7db0127f0aff032241aacca7e062c01cc0c9c542dfd5d8c2b8624c.webp)
+>
+> The brightness of the instrument panel illumination is displayed. If the brightness reaches the maximum or minimum level, a chime will sound.
 
 ### Gauges and Meters
-`genesis_g90_en_7e661447` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Spe dometer
 
@@ -3791,7 +3349,6 @@ Spe dometer
 The speedometer indicates the speed of the vehicle and is calibrated in miles per hour (mph) and/or kilometers per hour (km/h).
 
 ### Tachometer
-`genesis_g90_en_cb21f2a9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/24d80ee6194c117dc5b88c2369d1f1966a5b3713898573e586b03166c84f3b20.webp)
 
@@ -3800,50 +3357,40 @@ The tachometer indicates the approximate number of engine revolutions per minute
 Use the tachometer to select the correct shift points and to prevent lugging and/or over-revving the engine.
 
 ### Engine co lant temperature gauge
-`genesis_g90_en_5086fa57` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/8c9fd52e134f85c5d3ba8f0dafd5e7f76034fac720aca31e2be380fe144f8bfa.webp)
 
 This gauge indicates the temperature of the engine coolant when the Engine Start/Stop button is in the ON position.
 
 ### NOTICE
-`genesis_g90_en_92540c0d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the gauge pointer moves beyond the normal range area toward the "H" position, it indicates overheating that may damage the engine.
 
 Do not continue driving with an overheated engine. If your vehicle overheats, refer to "If the Engine Overheats" in chapter 6.
 
-### WARNING
-`genesis_g90_en_7b826de5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Never remove the radiator cap or engine coolant reservoir cap when the engine is hot. The engine coolant is under pressure and could cause severe burn. Wait until the engine is cool before adding coolant to the reservoir.
+> ⚠️ **Внимание:** 
+> Never remove the radiator cap or engine coolant reservoir cap when the engine is hot. The engine coolant is under pressure and could cause severe burn. Wait until the engine is cool before adding coolant to the reservoir.
 
 ### Fuel gauge
-`genesis_g90_en_4d1b141b` | g90 | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 ![](images/435bbbfc6be8d0e61a715d677301c338929c22a581420b916004fbc1ec479aa5.webp)
 
 This gauge indicates the approximate amount of fuel remaining in the fuel tank.
 
 ### NOTICE
-`genesis_g90_en_315708db` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Avoid driving with an extremely low fuel level. Running out of fuel could cause the engine to misfire, damaging the catalytic converter.
 
 ### Odometer
-`genesis_g90_en_afef8aa9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/f8c1220557c0ab1390bead10194194792dde2a9f8b15376a33886b7f2bd61919.webp)
 
 The odometer indicates the total distance that the vehicle has been driven and should be used to determine when periodic maintenance should be performed.
 
-### WARNING
-`genesis_g90_en_76eed5c8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Running out of fuel can expose vehicle occupants to danger. You must stop and obtain additional fuel as soon as possible after the warning light comes on or when the gauge indicator comes close to the "E (Empty)" level.
+> ⚠️ **Внимание:** 
+> Running out of fuel can expose vehicle occupants to danger. You must stop and obtain additional fuel as soon as possible after the warning light comes on or when the gauge indicator comes close to the "E (Empty)" level.
 
 ### Outside temperature gauge
-`genesis_g90_en_f6b40db0` | g90 | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 ![](images/5394ce99216673cf7762aa927ed402388e22f532e582b995931b60c341d6bcb4.webp)
 
@@ -3852,7 +3399,6 @@ The range is the estimated distance the vehicle can be driven with the remaining
 If the estimated distance is below 1 mile (1 km), the cluster will display "---" as the range.
 
 ### i Information
-`genesis_g90_en_ee8b9171` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the vehicle is not on level ground or the battery power has been interrupted, the range function may not operate correctly.
 The range may differ from the actual driving distance as it is an estimate of the available driving distance.
@@ -3874,7 +3420,6 @@ Press the AUTO button while pressing the OFF button on the climate control unit 
 The temperature unit on the cluster LCD display and AVN system screen will change.
 
 ### Transmission Shift Indicator
-`genesis_g90_en_64f1c350` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Automatic transmis ion shift indicator
 
@@ -3891,7 +3436,6 @@ Manual shift mode : 1, 2, 3, 4, 5, 6, 7, 8
 ![](images/18f3141e70ea8a2bafb1e0c267ead427dfa2bdc09e78ccc8100eac2b4a3fb146.webp)
 
 ### Shift indicator pop-up
-`genesis_g90_en_9922caad` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The pop-up that indicates the current gear position is displayed in the cluster for about 2 seconds when shifting into other positions (P/R/N/D).
 
@@ -3901,14 +3445,12 @@ Setup → Vehicle Settings → Cluster → Content Selection → Gear Position P
 For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### Warning and Indicator Lights
-`genesis_g90_en_f37b1785` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Su plemental Restraint System Warning Light
 
 ![](images/54f00f63f863afed5c4b93f89cb9ef2956e903ba95e7838f07158747f8b9ae7f.webp)
 
 ### Parking Brake & Brake FluidWarning Light
-`genesis_g90_en_feae3958` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This warning light illuminates:
 
@@ -3924,7 +3466,6 @@ Whenever the brake fluid level in the reservoir is low.
 - If the warning light illuminates with the parking brake released, it indicates the brake fluid level in reservoir is low.
 
 ### Seat Belt Warning Light
-`genesis_g90_en_7d1d61c1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 春
 
@@ -3937,14 +3478,12 @@ If the brake fluid level in the reservoir is low:
 1. Drive carefully to the nearest safe location and stop your vehicle. 2. With the engine stopped, check the brake fluid level immediately and add fluid as required (For more details, refer to "Brake Fluid" in chapter 7). After adding brake fluid, check all brake components for fluid leaks. If a brake fluid leak is found, or i the warning light remains on, or if the brakes do not operate properly, do not drive the vehicle. Have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Dual-diagonal braking system
-`genesis_g90_en_bb1fc7fb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Your vehicle is equipped with dualdiagonal braking systems. This means you still have braking on two wheels even if one of the dual systems should fail.
 
 With only one of the dual systems working, more than normal pedal travel and greater pedal pressure is required to stop the vehicle. Also, the vehicle will not stop in as short a distance with only a portion of the brake system working. If the brakes fail while you are driving, shift to a lower gear for additional engine braking and stop the vehicle as soon as it is safe to do so.
 
 ### Anti-lock Brake System (ABS) Warning Light
-`genesis_g90_en_6e7a7659` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This warning light illuminates:
 
@@ -3955,13 +3494,11 @@ Note that the hydraulic braking system will still be operational even if there i
 If this occurs, have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Parking Brake & Brake Fluid Warning Light
-`genesis_g90_en_d2a9e0e5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Driving the vehicle with a warning light ON is dangerous. If the Parking Brake & Brake Fluid Warning Light illuminates with the parking brake released, it indicates that the brake fluid level is low.
 If this occurs, have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Electronic Brake Force Distribution (EBD) System Warning Light
-`genesis_g90_en_24b31008` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 ![](images/8c3f516e9bfb5c4699aee77675e369a5dd8fad5b4572c1dc5d8585e1d46ba9e2.webp)
 
@@ -3972,19 +3509,16 @@ These two warning lights illuminate at the same time while driving:
 When the ABS and regular brake system may not work normally. If this occurs, have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Electronic Brake force Distribution (EBD) System Warning Light
-`genesis_g90_en_de6841c2` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 When both ABS and Parking Brake & Brake Fluid Warning Lights are on, the brake system will not work normally and you may experience an unexpected and dangerous situation during sudden braking.
 In this case, avoid high speed driving and abrupt braking.
 Have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### i Information Electronic Brake Force Distribution (EBD) System Warning Light
-`genesis_g90_en_ba0a0e00` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 When the ABS Warning Light is on or both ABS and Parking Brake & Brake Fluid Warning Lights are on, the speedometer, odometer, or tripmeter may not work. Also, the MDPS Warning Light may illuminate and the steering effort may increase or decrease. If this occurs, have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Electronic Parking Brake (EPB) Warning Light
-`genesis_g90_en_e9b40108` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This warning light illuminates:
 
@@ -3993,12 +3527,10 @@ Whenever there is a malfunction with the EPB.
 If this occurs, have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### i Information
-`genesis_g90_en_7eaa9a67` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Electronic Parking Brake (EPB) Warning Light may illuminate when the Electronic Stability control (ESC) Indicator Light comes on to indicates that the ESC is not working properly (This does not indicate malfunction of the EPB).
 
 ### Motor-Driven Power Ste ring (MDPS) Warning Light
-`genesis_g90_en_d6f493e6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Θ！
 
@@ -4007,7 +3539,6 @@ This warning light illuminates:
 When you place the Engine Start/ Stop button to the ON position. The MDPS warning light illuminates for approximately 3 seconds and then turns off. When there is a malfunction with the MDPS. If this occurs, have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Charging System Warning Light
-`genesis_g90_en_d0727bcf` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When this warning light illuminates while the engine is running, the battery is not being charged. Immediately turn OFF all electrical accessories.
 
@@ -4020,7 +3551,6 @@ Have the vehicle inspected by an authorized retailer of Genesis Branded products
 E
 
 ### Engine OilPres ure Warning Light
-`genesis_g90_en_9388806d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This warning light illuminates: When the engine oil pressure is low.
 
@@ -4029,7 +3559,6 @@ If the engine oil pressure is low:
 1. Drive carefully to the nearest safe location and stop your vehicle. 2. Turn the engine off and check the engine oil level (For more details, refer to "Engine Oil" in chapter 7). If the level is low, add oil as required. If the warning light remains on after adding oil or if oil is not available, have the vehicle inspected by an authorized retailer of Genesis Branded products as soon as possible.
 
 ### NOTICE
-`genesis_g90_en_dfa16e13` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the engine does not stop
 immediately after the Engine Oil
@@ -4046,7 +3575,6 @@ tion. In this case:
 3. Start the engine again. If the warning light stays on after the engine is started, turn the engine off immediately. If this occurs, have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Low Fuel Level Warning Light
-`genesis_g90_en_8572d780` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/b6196ec274b82fdca253d4343b5c70913d4356b32b472e6d3c32c027ebfd08f0.webp)
 
@@ -4061,12 +3589,10 @@ Whenever there is a malfunction with either the emission control system or the e
 If this occurs, have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### NOTICE
-`genesis_g90_en_ea4f9ef1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Driving with the Malfunction Indicator Lamp (MIL) on may cause damage to the emission control systems which could affect drivability and/or fuel economy.
 
 ### NOTICE
-`genesis_g90_en_be7a3142` | g90 | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 If the Malfunction Indicator Lamp (MIL) illuminates, potential catalytic converter damage is possible which could result in loss of engine power.
 
@@ -4075,7 +3601,6 @@ If this occurs, have the vehicle inspected by an authorized retailer of Genesis 
 This warning light illuminates: When the fuel tank is nearly empty. Add fuel as soon as possible.
 
 ### NOTICE
-`genesis_g90_en_6dcb8602` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Driving with the Low Fuel Level warning light on or with the fuel level below "E" can cause the engine to misfire and damage the catalytic converter.
 
@@ -4094,14 +3619,12 @@ This warning light remains ON after blinking for approximately 60 seconds, or re
 When there is a malfunction with the TPMS. If this occurs, have the vehicle inspected by an authorized retailer of Genesis Branded products. For more details, refer to "Tire Pressure Monitoring System (TPMS)" in chapter 6.
 
 ### Master Warning Light
-`genesis_g90_en_124bce82` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This indicator light illuminates:
 
 When there is a malfunction in operation in any of the following systems:
 
 ### Safe Stopping
-`genesis_g90_en_6b98808c` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 The TPMS cannot alert you to severe and sudden tire damage caused by external factors.
 If you notice any vehicle instability, immediately take your foot off the accelerator pedal, apply the brakes gradually with light force, and slowly move to a safe position off the road. Pre-Active Seat Belt (PSB) malfunction (if equipped)
@@ -4116,7 +3639,6 @@ Smart Cruise Control with Stop & Go malfunction (if equipped)
 Smart Cruise Control with Stop & Go radar blocked (if equipped), etc.
 
 ### Al Whe l Drive (AWD) Warning Light (ifequip ed)
-`genesis_g90_en_841f662e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This warning light illuminates:
 
@@ -4125,7 +3647,6 @@ This warning light illuminates:
 Whenever there is a malfunction with the AWD system. If this occurs, have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Forward ColisionAvoidance As ist (FCA) Warning Light (ifequip ed)
-`genesis_g90_en_402c7ef4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/3064198c95dcc0fb838297f0a690eb75f364fd497c79e357d2dadb126a9b2644.webp)
 
@@ -4143,7 +3664,6 @@ of Genesis Branded products.
 For more details, refer to "Forward Collision-Avoidance Assist (FCA) system" in chapter 5.
 
 ### Lane Ke ping As ist (LKA) IndicatorLight (ifequip ed)
-`genesis_g90_en_cc3641d3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 i
 
@@ -4154,7 +3674,6 @@ This indicator light illuminates:
 For more details, refer to "Lane Keeping Assist (LKA) system" in chapter 5.
 
 ### Icy Road Warning Light (if equip ed)
-`genesis_g90_en_f5caa4bc` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This warning light illuminates:
 
@@ -4177,12 +3696,10 @@ Setup → Vehicle Settings → Cluster → Content Selection → Icy Road Warnin
 For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### i Information
-`genesis_g90_en_649a45e0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the icy road warning light appears while driving, you should drive more attentively and safely refraining from over-speeding, rapid acceleration, sudden braking or sharp turning, etc.
 
 ### AUTO HOLD Indicator Light
-`genesis_g90_en_e0b53236` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 This warning light illuminates:
 
@@ -4197,21 +3714,18 @@ This indicator light illuminates:
 [Yellow] Whenever there is a malfunction with the auto hold system. If this occurs, have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### This warning light blinks:
-`genesis_g90_en_07422f23` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 When there is a malfunction with a LED headlamp related part.
 
 If this occurs, have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### NOTICE
-`genesis_g90_en_41a041f7` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 Continuous driving with the LED Headlamp Warning Light on or blinking can reduce LED headlamp life.
 
 For more details, refer to "Auto Hold" in chapter 5.
 
 ### Im obilizer Indicator Light
-`genesis_g90_en_95c5f062` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/88ba0234027cbdd7b9c9da92c004db9eba079b4b29bf49739efc88c81cbd9071.webp)
 
@@ -4224,7 +3738,6 @@ This indicator light blinks: While the ESC is operating.
 For more details, refer to "Electronic Stability Control (ESC)" in chapter 5.
 
 ### Electronic Stability Control (ESC) OF Indicator Light
-`genesis_g90_en_f9be38d8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 R OFF
 
@@ -4259,7 +3772,6 @@ When there is a malfunction with the immobilizer system.
 If this occurs, have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### High Beam Indicator Light
-`genesis_g90_en_dcd201fb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 D
 
@@ -4276,7 +3788,6 @@ The turn signal indicator light does not illuminate at all
 If either of these conditions occur, have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Low Beam Indicator Light(ifequip ed)
-`genesis_g90_en_a5b6c45d` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 D
 
@@ -4287,7 +3798,6 @@ This indicator light illuminates:
 When the headlights are on and in the high beam position When the turn signal lever is pulled into the Flash-to-Pass position.
 
 ### High Beam As ist (HBA) indicator ight (ifequip ed)
-`genesis_g90_en_1bb526d8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 C AUTO
 
@@ -4299,7 +3809,6 @@ If your vehicle detects oncoming or preceding vehicles, the High Beam Assist (HB
 For more details, refer to "High Beam Assist (HBA)" in this chapter.
 
 ### Vehicle isinN. Pres START buton and shift toP
-`genesis_g90_en_45ecdfa7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/2291560ce4d2e976d0f2ae55b2b95354105d0c11989f50e30b26625ba3e12ab4.webp)
 
@@ -4308,14 +3817,12 @@ This message is displayed if you try to turn off the vehicle with the gear in N 
 At this time, the Engine Start/Stop button changes to the ACC position If you press the Engine Start/Stop button once more, it will turn to the ON position.
 
 ### LowKey Batery
-`genesis_g90_en_95f3d9e5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/00608d583bf169ebcfb0ef42918c0a77dd33de8b5478fd6a214a2970cfcd381b.webp)
 
 This message is displayed if the battery of the smart key is discharged while changing the Engine Start/Stop button to the OFF position.
 
 ### Pres brake pedal to start engine
-`genesis_g90_en_e307b742` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/1abd3fcd756fa04c0d3113beaf2c696dbf5270c1bf6eb7ce0d2a97861486df90.webp)
 
@@ -4324,7 +3831,6 @@ This message is displayed if the Engine Start/Stop button changes to the ACC pos
 You can start the vehicle by depressing the brake pedal and then pressing the Engine Start/Stop button.
 
 ### Keynotin vehicle
-`genesis_g90_en_fba8b358` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/c2e9e87b3babf53ac7a4552d364dbd15989c344f189d79010bf917f2ad42d62a.webp)
 
@@ -4333,14 +3839,12 @@ This message is displayed if the smart key is not in the vehicle when you press 
 When attempting to start the vehicle, always have the smart key with you.
 
 ### Pres START buton with key
-`genesis_g90_en_06207ed7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/8615a43cd6fc832ed832590d0f26c73833890b6a48950f3712f8c1cbca9de7dc.webp)
 
 This message is displayed if the smart key is not detected when you press the Engine Start/Stop button.
 
 ### Pres START buton again
-`genesis_g90_en_e601f5c8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/a95ccd0ad99a7df0b0656a4955a295ac58525150cd4edf3c5e70cb27d50f77ba.webp)
 
@@ -4357,7 +3861,6 @@ This message is displayed if you press the Engine Start/Stop button while the me
 At this time, the immobilizer indicator light blinks.
 
 ### Check BRAKE SWITCH fuse
-`genesis_g90_en_b9adda01` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/84b4aae2a828f3837eb7d00cce6e077f2882f4eb0be81452c3277db85c6b99d9.webp)
 
@@ -4366,7 +3869,6 @@ This message is displayed if the brake switch fuse is disconnected.
 You need to replace the fuse with a new one. If that is not possible, you can start the engine by pressing the Engine Start/Stop button for 10 seconds in the ACC position.
 
 ### Shiftto Por Nto start engine D or, ho d, trunk open
-`genesis_g90_en_0ac50821` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/6f356ebd15d391d6a6a34cf6a0930d6da15780b12b722244069d92c7374c3b91.webp)
 
@@ -4377,17 +3879,13 @@ This message is displayed if you try to start the engine in any other position e
 This warning is displayed if any door or the hood or the trunk is left open. The warning will indicate which door is open in the display.
 
 ### i Information
-`genesis_g90_en_f9ee2326` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 You can start the engine with the shift lever in the N (Neutral) position. But, for your safety, we recommend that you start the engine with the vehicle shifted to P (Park).
 
-### WARNING
-`genesis_g90_en_5e5fa8d8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Before driving the vehicle, you should confirm that the door/ hood/trunk is fully closed. Also, check there is no door/ hood/trunk open warning light or message displayed on the instrument cluster.
+> ⚠️ **Внимание:** 
+> Before driving the vehicle, you should confirm that the door/ hood/trunk is fully closed. Also, check there is no door/ hood/trunk open warning light or message displayed on the instrument cluster.
 
 ### Sunro f open (ifequip ed)
-`genesis_g90_en_8cd1892c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/b2c63e68565d47c36d89c7ce8e1debac3bd3fd18d41dd96ded956d6f640d06ea.webp)
 
@@ -4396,14 +3894,12 @@ This warning is displayed if you turn off the engine when the sunroof is open.
 Close the sunroof securely when leaving your vehicle.
 
 ### Window open (ifequip ed)
-`genesis_g90_en_3cc107c1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/57b2766b17eef5f7de975eb48b70205ef20111f78c43596ff71ef6fbcc5818ed.webp)
 
 This warning is displayed if you turn off the engine when any window is open.
 
 ### Lights
-`genesis_g90_en_1905877c` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 ![](images/8346087a41c4d2cbbb487de78e8e1a05594709ad55da86fa33bdc8977e749d18.webp)
 
@@ -4416,7 +3912,6 @@ Setup → Vehicle Settings → Cluster → Content Selection → Wiper/Lights Di
 For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### Low Washer Fluid
-`genesis_g90_en_69f59d83` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/149784282ff937f6969df45273bb61c9c96cc83510249602cbf90c38930927a0.webp)
 
@@ -4434,7 +3929,6 @@ This message is displayed if the washer fluid level in the reservoir is nearly e
 Have the washer fluid reservoir refilled.
 
 ### Low Fuel
-`genesis_g90_en_8a1aa4a7` | g90 | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 ![](images/4cde8e7b127e275e7915771f5a469cc960397d0c943c51ef7b67d76d75739b44.webp)
 
@@ -4447,7 +3941,6 @@ It is recommended to look for the nearest fueling station and refuel as soon as 
 Add fuel as soon as possible.
 
 ### Engine has overheated
-`genesis_g90_en_01add500` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/76ee8c1cae7076434ddc3edd5efb2e2800a0276c6008abf7d9bf719e0e9ca3e3.webp)
 
@@ -4456,28 +3949,24 @@ This message is displayed when the engine coolant temperature is above 120°C (2
 If your vehicle is overheated, refer to "Overheating" in chapter 6.
 
 ### Check headlamp LED
-`genesis_g90_en_b8174d7f` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 ![](images/83500b57414e6ffe6bc0d23dfcdf0ca5040ae58699624b798eb66409d2623776.webp)
 
 This message is displayed if there is a problem with the LED headlamp. We recommend that you have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Check turn signal(ifequip ed)
-`genesis_g90_en_fa372000` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/54d8c185839b5a007b83824eb745f611bcaed27dd566cee4106dad8cf6449ac8.webp)
 
 This message is displayed if there is a problem the turn signal. We recommend that you have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Check haptic ste ring whe l system (ifequip ed)
-`genesis_g90_en_ecd43d42` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/9ca19eb4e559c9470feced8acd4066f722e6bc1cd42912fc5f5c0b8b4edfcd73.webp)
 
 This message is displayed if there is a problem with the haptic steering wheel system. We recommend that you have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Batery discharging due to external electrical devices
-`genesis_g90_en_a781bcdb` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 ![](images/76ef7df574dbae9201528f7ab101dedde231d04c930a4d326ec550d373bece7c.webp)
 
@@ -4486,7 +3975,6 @@ This message is displayed if the battery voltage is weak due to any nonfactory e
 If the warning message appears after removing the non-factory electrical accessories, we recommend that you have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### LCD DISPLAY LCD Display Control
-`genesis_g90_en_cf342d12` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/64785281fd11a5d5bc763c68aa08fcabd84264a304ccc0375a180038e1b9db2b.webp)
 
@@ -4499,13 +3987,11 @@ The LCD display modes can be changed by using the control buttons on the steerin
 3. OK SELECT/RESET button for setting or resetting the selected item
 
 ### LCD Display Modes
-`genesis_g90_en_803272f2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/73bd38e77b559e73417c5fd06cf585cce6e0e37c6250bc6b879c79009aa53e8d.webp)
 The information provided differs according to the items applied to your vehicle.
 
 ### As ist mode
-`genesis_g90_en_1f6ac0db` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/973e670b19295b9db20be6eab48b8755b033549ac94f3bb92993f8ec1de26e92.webp)
 
@@ -4516,7 +4002,6 @@ For more details, refer to "Trip Computer" in this chapter.
 ![](images/8ac2b12310a0125fe0d81f0467b03440b004106825dff4377820b33901372884.webp)
 
 ### SCC/LKA/LFA/HDA
-`genesis_g90_en_af850f16` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/779594e410fae00e6e9eccb8240cc07f4ac111e3a1112a4fa1bf1d074d890771.webp)
 Turn By Turn (TBT) mode
@@ -4530,7 +4015,6 @@ This mode displays the state of the navigation.
 ![](images/2549ee815081cb39eb55c03bb6537da9fd7b693cbb35881f81b88d60a7f4d1a8.webp)
 
 ### Driver Attention Warning (DAW)
-`genesis_g90_en_7e792d1c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This mode displays information related to Driver Attention Warning (DAW).
 
@@ -4539,14 +4023,12 @@ For more details, refer to "Driver Attention Warning (DAW)" in chapter 5.
 ![](images/7f3d97c9cf3333558530ad3eac4c2589d41fdff4e93d1085ba3d6bf148e766c8.webp)
 
 ### Tire Pressure
-`genesis_g90_en_c345197a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This mode displays information related to Tire Pressure.
 
 For more details, refer to "Tire Pressure Monitoring System (TPMS)" in chapter 6.
 
 ### Master warning mode
-`genesis_g90_en_63f4efcd` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 ![](images/cc8ec279ff5afdd84dc52275d6d838ea473ea40dd36caf2980ee07567a49dd38.webp)
 
@@ -4570,18 +4052,15 @@ The Master Warning Light illuminates if one or more of the above warning situati
 At this time, a Master Warning icon ( ) will appear beside the Assist icon on the LCD display. If the warning situation is solved, the master warning light will be turned off and the Master Warning icon will disappear.
 
 ### TRIP COMPUTER
-`genesis_g90_en_b2376b04` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The trip computer is a microcomputer-controlled driver information system that displays information related to driving.
 
 ### Information
-`genesis_g90_en_ff0172e6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Some driving information stored in the trip computer resets if the battery is disconnected.
 The vehicle must be driven for a minimum of 0.19 miles (300 meters) since the last ignition key cycle before the average fuel economy will be recalculated.
 
 ### Trip Modes
-`genesis_g90_en_ea5da83b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/5a418479cfa192be622a9c542c5b933f7b0c6e9e6447e9d996e8bc5faac4257c.webp)
 
@@ -4590,17 +4069,14 @@ The vehicle must be driven for a minimum of 0.19 miles (300 meters) since the la
 To change the trip mode, toggle the " , switch on the steering wheel.
 
 ### Average Fuel Economy (1)
-`genesis_g90_en_926a61b1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The average fuel economy is calculated by the total driving distance and fuel consumption since the last average fuel economy reset. The average fuel economy can be reset both manually and automatically.
 
 ### Manual reset
-`genesis_g90_en_1c45de12` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To clear the average fuel economy manually, press the OK button on the steering wheel for more than 1 second when the average fuel economy is displayed.
 
 ### Automatic reset
-`genesis_g90_en_d79fb75b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To automatically reset the average fuel economy, select between "After Ignition" or "After Refueling" from the Settings menu in the AVN system screen
 
@@ -4611,12 +4087,10 @@ After refueling: The average fuel economy will reset automatically after adding 
 For more details, scan the QR code in a separately supplied simple manual.
 
 ### Instant Fuel Economy (2)
-`genesis_g90_en_e5001b12` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The instantaneous fuel economy is displayed according to the bar graph in the LCD display while driving.
 
 ### A cumulated nfo display
-`genesis_g90_en_41bb1614` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/6468e51df07c9beb589ef6e4b25ec83b34c35be54274d0945633495ee92be2a3.webp)
 
@@ -4629,7 +4103,6 @@ To reset the details, press and hold the OK button when viewing the Accumulated 
 The accumulated driving information will continue to be counted while the engine is still running (for example, when the vehicle is in traffic or stopped at a stop light).
 
 ### Digital spe dometer
-`genesis_g90_en_9f86fd00` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/edfc80a2ede46c0e148ab73658d9c5245f35375307f98d2da24f90e171c1afc1.webp)
 
@@ -4646,7 +4119,6 @@ The driving information will continue to be counted while the engine is still ru
 This digital speedometer shows the speed of the vehicle.
 
 ### VEHICLE SETTNGS
-`genesis_g90_en_7505c612` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/8c9884746e5dd43a2c956ce642f90643a3232e68f8cb77a54b7df70fd86b81a9.webp)
 
@@ -4664,36 +4136,32 @@ Reset
 
 The information provided may differ depending on which functions are applicable to your vehicle.
 
-### WARNING
-`genesis_g90_en_f54ba47e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Do not operate the Vehicle Settings while driving. This may cause distraction resulting in an accident.
-
-![](images/ce7fb7573c01cc631a45a88ccff388402e561c8ab11bcc2d3daf76e2c6400e05.webp)
-
-1. Press the SETUP button on the head unit of the AVN system.
-
-![](images/ee8b7082b5034c96f23a9e2ce2dc963610074af1d076d02280480f8a6b243b33.webp)
-
-OHI048564L
-
-2. Select 'Setup → Vehicle Settings' and change the setting of the features.
-
-Nov.20 3:53m Vehicle Settings Head-Up Display Enable Head-Up Display Dispayilarwiaege Driver Assistance Display Control Drive Mode Content Selection Lights Speedometer 0 100 Door/Trunk
-
-OHI048565L
-
-For detailed information, scan the QR code in a separately supplied simple manual.
+> ⚠️ **Внимание:** 
+> Do not operate the Vehicle Settings while driving. This may cause distraction resulting in an accident.
+>
+> ![](images/ce7fb7573c01cc631a45a88ccff388402e561c8ab11bcc2d3daf76e2c6400e05.webp)
+>
+> 1. Press the SETUP button on the head unit of the AVN system.
+>
+> ![](images/ee8b7082b5034c96f23a9e2ce2dc963610074af1d076d02280480f8a6b243b33.webp)
+>
+> OHI048564L
+>
+> 2. Select 'Setup → Vehicle Settings' and change the setting of the features.
+>
+> Nov.20 3:53m Vehicle Settings Head-Up Display Enable Head-Up Display Dispayilarwiaege Driver Assistance Display Control Drive Mode Content Selection Lights Speedometer 0 100 Door/Trunk
+>
+> OHI048565L
+>
+> For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### HEAD-UP DISPLAY (IF EQUIPPED)
-`genesis_g90_en_d855eedb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/6c1a0f7b1fa987a4420b7dfd2eeaa361f85046cfd039d47ea36bae77b3c2e844.webp)
 
 The Head-Up Display is an optional feature that allows the driver to view information projected onto a transparent screen while still keeping your eyes safely on the road ahead while driving.
 
 ### Precautions while using the Head-Up Display
-`genesis_g90_en_1e9e21c7` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 It may sometimes be difficult to read information on the Head-Up Display in the following situations.
 
@@ -4710,22 +4178,17 @@ up display brightness level.
 Have your head-up display maintained by an authorized retailer of Genesis Branded products. The head-up display maintenance requires a special windshield exclusive for the head-up display.
 
 ### NOTICE
-`genesis_g90_en_81bd7af2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not tint the front windshield glass or add other types of metallic coating. Otherwise, the head-up display image may be invisible. Do not place any accessories on the crash pad or attach any objects on the windshield glass.
 
-### WARNING
-`genesis_g90_en_650f2f4a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-The Blind-spot Collision Warning (BCW) system warnings on the head up display are supplemental. Do not solely depend on them to change lanes. Always take a look around before changing lanes.
+> ⚠️ **Внимание:** 
+> The Blind-spot Collision Warning (BCW) system warnings on the head up display are supplemental. Do not solely depend on them to change lanes. Always take a look around before changing lanes.
 
 ### Information
-`genesis_g90_en_2449a2e7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When replacing the front windshield glass of the vehicles equipped with the head-up display, replace it with a windshield glass designed for the head-up display operation. Otherwise, duplicated images may be displayed on the windshield glass.
 
 ### Head-up display information
-`genesis_g90_en_c2cd24b0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/270e1ec49ff06aeb63ebd9751c4ea3aff10307bd691c1ee63994d07eab6ce036.webp)
 
@@ -4748,7 +4211,6 @@ For detailed information, scan the QR code in a separately supplied simple manua
 9. Highway Driving Assist (HAD) system information
 
 ### Head-up display seting
-`genesis_g90_en_6acd9ca0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The driver can change the head-up display settings from Settings menu in the AVN system screen as follows.
 
@@ -4759,12 +4221,10 @@ The information provided may differ depending on which functions are applicable 
 For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### i Information
-`genesis_g90_en_9e8ad791` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you select the Turn By Turn (TBT) navigation information as Head-Up Display contents, the Turn By Turn (TBT) navigation information will not be displayed in the instrument cluster LCD display.
 
 ### NOTICE
-`genesis_g90_en_38fdc668` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 Lighting control
 
@@ -4783,7 +4243,6 @@ Do not clean the sensor using a window cleaner, the cleanser may leave a light f
 ![](images/1e978aedf451f9be8acde51c687c0f11e99e1accaab7fd1c11168efff09625f0.webp)
 
 ### AUTO light position
-`genesis_g90_en_c23f3efa` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The parking lamp and headlamp will be turned ON or OFF automatically depending on the amount of light outside the vehicle.
 
@@ -4792,14 +4251,12 @@ Even with the AUTO light feature in operation, it is recommended to manually tur
 ![](images/2697e4f10627f2a45347e61a7bc299a6e72b3effb5e2a0a7ec5c079cafa74c93.webp)
 
 ### Parking lamp position ( )
-`genesis_g90_en_b6fb2b58` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The parking lamp, license plate lamp and instrument panel lamp are turned ON.
 
 ![](images/4b0c5cf89206a1653050f0f891afb6acbc1646762193fa88d3277f025e75cd3a.webp)
 
 ### High beam operation
-`genesis_g90_en_785fe793` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/fe084a872f2a553dcdc6f0cfe96cda689ea883f53045a5c728c600bfa6eafb7f.webp)
 
@@ -4812,14 +4269,12 @@ To turn off the high beam headlamp, pull the lever towards you. The low beams wi
 To flash the high beam headlamp, pull the lever towards you, then release the lever. The high beams will remain ON as long as you hold the lever towards you.
 
 ### High Beam As ist (HBA) (if equip ed)
-`genesis_g90_en_a8488843` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/516965ff48b6f16ccb4fb39938b871c7061146b68816f9cc5938c32cc592a67b.webp)
 
 The High Beam Assist (HBA) is a system that automatically adjusts the headlamp range (switches between high beam and low beam) depending on the brightness of detected vehicles and certain road conditions.
 
 ### Operating condition
-`genesis_g90_en_0f4013b7` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 1. Place the headlamp switch in the AUTO position.
 2. Turn on the high beam by pushing the lever away from you. The High Beam Assist (HBA) ( ) indicator will illuminate.
@@ -4840,44 +4295,38 @@ When vehicle speed is below 15 mph (24 km/h).
 ![](images/1649530efd7a8d43d7b6307810a9494b239ff459db192e120532b1ae32fb320c.webp)
 
 ### Warning light and message
-`genesis_g90_en_5033f7e5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the High Beam Assist (HBA) is not working properly, the Check High Beam Assist warning message will come on for a few second. After the message disappears, the master warning light ( ) will illuminate. Take your vehicle to an authorized retailer of Genesis Branded products and have the system checked.
 
-### WARNING
-`genesis_g90_en_13d6046d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> The High Beam Assist system may not work properly in the following situations.
+>
+> When the light from an oncoming or front vehicle is dim. Such examples may include: Light from a vehicle is not detected because of lamp damage, or because it is hidden from sight, etc.
+> Headlamp of a vehicle is covered with dust, snow or water.
+> A vehicle’s headlamps are off but the fog lamps are on and etc.
+> When the system is affected
+> by external conditions. Such
+> examples may include:
+> There is a lamp that has a similar shape as a vehicle’s lamp. Headlamps have been damaged or not repaired properly. Headlamps are not aimed properly. Driving on a narrow curved road, rough road, uphill or downhill.
+> - Vehicle in front is partially visible on a crossroad or curved road.
+> There is a traffic light, reflecting sign, flashing sign or mirror ahead.
+> There is a temporary reflector or flash ahead (construction area).
+> - The road conditions are bad such as being wet, iced or covered with snow. A vehicle suddenly appears from a curve.
+> The vehicle is tilted from a flat tire or being towed.
+> The Lane Keeping Assist (LKA) system indicator (yellow) light illuminates.
+> When front visibility is poor.
+> Such examples may include:
+> - Light from a vehicle is not detected because of exhaust fume, smoke, fog, snow, etc.
+> - The front windshield is covered with foreign substance.
 
-The High Beam Assist system may not work properly in the following situations.
-
-When the light from an oncoming or front vehicle is dim. Such examples may include: Light from a vehicle is not detected because of lamp damage, or because it is hidden from sight, etc.
-Headlamp of a vehicle is covered with dust, snow or water.
-A vehicle’s headlamps are off but the fog lamps are on and etc.
-When the system is affected
-by external conditions. Such
-examples may include:
-There is a lamp that has a similar shape as a vehicle’s lamp. Headlamps have been damaged or not repaired properly. Headlamps are not aimed properly. Driving on a narrow curved road, rough road, uphill or downhill.
-- Vehicle in front is partially visible on a crossroad or curved road.
-There is a traffic light, reflecting sign, flashing sign or mirror ahead.
-There is a temporary reflector or flash ahead (construction area).
-- The road conditions are bad such as being wet, iced or covered with snow. A vehicle suddenly appears from a curve.
-The vehicle is tilted from a flat tire or being towed.
-The Lane Keeping Assist (LKA) system indicator (yellow) light illuminates.
-When front visibility is poor.
-Such examples may include:
-- Light from a vehicle is not detected because of exhaust fume, smoke, fog, snow, etc.
-- The front windshield is covered with foreign substance.
-
-### WARNING
-`genesis_g90_en_0d9815f2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Do not attempt to disassemble the front view camera without the assistance of an authorized retailer of Genesis Branded products technician. If camera is removed for any reason, the system may need to be re-calibrated. Have the system inspected by an authorized retailer of Genesis Branded products.
-
-If the windshield of your vehicle is replaced, most likely the front view camera will need to be re-calibrated. If this occurs, have your vehicle inspected and have the system re-calibrated by an authorized retailer of Genesis Branded products. Be careful that water doesn't get into the High Beam Assist (HBA) unit and do not remove or damage related components of the High Beam Assist (HBA) system.
-Do not place objects on the dashboard that reflect light such as mirrors, white paper, etc. The system may not be able to function properly if sunlight is reflected.
-At times, the High Beam Assist (HBA) may not work properly. The system is for your convenience only. I t is the responsibility of the driver for safe driving practices and always check the road conditions for your safety. When the system does not operate normally, switch the headlamp position manually between the high beam and low beam.
+> ⚠️ **Внимание:** 
+> Do not attempt to disassemble the front view camera without the assistance of an authorized retailer of Genesis Branded products technician. If camera is removed for any reason, the system may need to be re-calibrated. Have the system inspected by an authorized retailer of Genesis Branded products.
+>
+> If the windshield of your vehicle is replaced, most likely the front view camera will need to be re-calibrated. If this occurs, have your vehicle inspected and have the system re-calibrated by an authorized retailer of Genesis Branded products. Be careful that water doesn't get into the High Beam Assist (HBA) unit and do not remove or damage related components of the High Beam Assist (HBA) system.
+> Do not place objects on the dashboard that reflect light such as mirrors, white paper, etc. The system may not be able to function properly if sunlight is reflected.
+> At times, the High Beam Assist (HBA) may not work properly. The system is for your convenience only. I t is the responsibility of the driver for safe driving practices and always check the road conditions for your safety. When the system does not operate normally, switch the headlamp position manually between the high beam and low beam.
 
 ### Turn signals and lane change signals
-`genesis_g90_en_40e3fce9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/761ebd9ba264e0ec0e72d3140798db3bf2c6bb5fed9b48bdf3e6f3ab9ee9b955.webp)
 
@@ -4886,7 +4335,6 @@ To signal a turn, push down on the lever for a left turn or up for a right turn 
 If an indicator stays on and does not flash or if it flashes abnormally, one of the turn signal bulbs may be burned out and will require replacement.
 
 ### Onetouch turn signal function
-`genesis_g90_en_e06ce26b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To activate the One Touch Turn Signal function, push the turn signal lever up or down to position (B) and then release it.
 
@@ -4899,7 +4347,6 @@ Setup → Vehicle Settings → Lights → 1 Touch Turn Signal → Off / 3 flashe
 For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### Batery saver function
-`genesis_g90_en_5da625a7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The purpose of this feature is to prevent the battery from being discharged. The system automatically turns off the parking lamp when the driver turns the engine off and opens the driver-side door.
 
@@ -4910,7 +4357,6 @@ If necessary, to keep the lamps on when the engine is turned off, perform the fo
 1) Open the driver-side door. 2) Turn the parking lamps OFF and ON again using the light switch on the steering column.
 
 ### Headlamp delay function
-`genesis_g90_en_7dbcff7f` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 If the Engine Start/Stop button is placed in the ACC position or the OFF position with the headlamps ON, the headlamps (and/or parking lamps) remain on for about 5 minutes. However, if the driver’s door is opened and closed, the headlights are turned off after 15 seconds. Also, with the engine off if the driver's door is opened and closed, the headlamps (and/or parking lamps) are turned off after 15 seconds.
 
@@ -4923,12 +4369,10 @@ Setup → Vehicle Settings → Lights → Headlight Delay
 For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### NOTICE
-`genesis_g90_en_80f1527d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the driver exits the vehicle through another door besides the driver door, the battery saver function does not operate and the headlamp delay function does not turn OFF automatically. This may cause the battery to discharge. To avoid battery discharge, turn OFF the headlamps manually from the headlamp switch before exiting the vehicle
 
 ### AFS (Adaptive Front-Lighting System) (if equip ed)
-`genesis_g90_en_93bb1310` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 ![](images/f8762af2542a8950956845be2e654ff9443f97d01c288a8dec8bb032274a8ff5.webp)
 
@@ -4947,7 +4391,6 @@ If the AFS malfunction indicator comes on, the AFS is not working properly.
 Drive to the nearest safe location and restart the engine. If the indicator continuously remains on, we recommend that the system be checked by an authorized retailer of Genesis Branded products.
 
 ### Daytime run ing ight(DRL)
-`genesis_g90_en_0659ebed` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 The Daytime Running Lights (DRL) can help others to see the front of your vehicle during the day, especially after dawn and before sunset.
 
@@ -4956,44 +4399,34 @@ The DRL system will turn OFF when:
 The light switch is in the parking or headlamp lamp position, including the operation that the parking lamp or headlamp is turned on automatically in the AUTO light position. The engine is turned off. The hazard warning flasher is on. The turn signal light is on. If you turn on the turn signal light, only the corresponding daytime running lights will turn off. The parking brake is applied.
 
 ### Headlamp leveling device
-`genesis_g90_en_cada11cb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 It automatically adjusts the headlamp beam level according to the number of passengers and loading weight in the luggage area.
 
 And it offers proper headlamp beam under various conditions.
 
-### WARNING
-`genesis_g90_en_db63a834` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> Do not use the interior lights when driving in the dark.The interior lights may obscure your view and cause an accident.
 
-Do not use the interior lights when driving in the dark.The interior lights may obscure your view and cause an accident.
-
-### WARNING
-`genesis_g90_en_5053b397` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-If the function does not work properly, we recommend that the system be inspected by an authorized retailer of Genesis Branded products. Do not attempt to inspect or replace the wiring yourself.
+> ⚠️ **Внимание:** 
+> If the function does not work properly, we recommend that the system be inspected by an authorized retailer of Genesis Branded products. Do not attempt to inspect or replace the wiring yourself.
 
 ### Headlamp moisture removal function (ifequip ed)
-`genesis_g90_en_6448f790` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When moisture fogs up inside of the headlamp, if the headlamp is on for certain period of time, the fan circulates the air inside to remove moisture. If the moisture is not removed, have the vehicle checked by an authorized retailer of Genesis Branded products.
 
 ### Reverse guide lamp
-`genesis_g90_en_05f65471` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the shift lever is in R (Reverse), the back-up lamp turns on and the reverse guide lamp at the back of the vehicle lights the floor. The lamp informs nearby drivers know that your vehicle is backing up.
 
 ### NOTICE
-`genesis_g90_en_78775de8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not use the interior lights for extended periods when the engine is turned off or the battery will discharge.
 
 ### Interior lamp AUTO cut
-`genesis_g90_en_4f62b6b1` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The interior lamps will automatically go off approximately 20 minutes after the engine is turned off and the doors are closed. If a door is opened, the lamp will go off 40 minutes after the engine is turned off. If the doors are locked by the remote key or smart key and the vehicle enters the armed stage of the theft alarm system, the lamps will go off five seconds later.
 
 ### Front lamps
-`genesis_g90_en_bd0fdb38` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/d4e82d5f9b2849231fcfe4c8699c16532d9608d3daabb83336376799cf1f3a87.webp)
 
@@ -5004,12 +4437,10 @@ Press either of these buttons to turn the map lamp on or off. This light produce
 Press the button to turn ON all front lamps. Re-repress the button to turn OFF all front lamps.
 
 ### 京回
-`genesis_g90_en_7dd4952c` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The front or rear room lamps come on when the front or rear doors are opened if the engine is running or not. When doors are unlocked by the Smart Key, the front and rear lamps come on for approximately 30 seconds as long as any door is not opened. The front and rear room lamps go out gradually after approximately 30 seconds if the door is closed. However, if the Engine Start/ Stop button is in the ON position or all doors are locked, the front and rear lamps will turn off. If a door is opened with the Engine Start/Stop button in the ACC position or the OFF position, the front and rear lamps stay on for about 20 minutes.
 
 ### Trunk lamp
-`genesis_g90_en_943cf9ee` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/986dacb28126e3e06589bbce639b132e9db10bfa25742b82cd0e86760fc25dfe.webp)
 
@@ -5018,7 +4449,6 @@ The front or rear room lamps come on when the front or rear doors are opened if 
 Press the button to turn ON both rear lamps. You cannot separately turn OFF the rear lamp type B. Repress the button to turn OFF the rear lamps.
 
 ### 京
-`genesis_g90_en_d4fa1c9b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press the button to dim the rear lamp type A. Re-press the button to turn OFF the lamp.
 
@@ -5031,21 +4461,18 @@ Press this button to turn the rear lamp type B on and off.
 The trunk lamp comes on when the trunk is opened.
 
 ### Vanity miror lamp (Front)
-`genesis_g90_en_6d6011cb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/772f989708b20b59ff29266369813e9a86758702046493e38a32b49354d818c6.webp)
 
 Opening the lid of the vanity mirror will automatically turn on the mirror light.
 
 ### Rear miror lamp (ifequip ed)
-`genesis_g90_en_e5bcfd80` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/65ec5089b5de2991dba3846cd9ffacc80c07f1caeeaf2c88178f1dab9332054d.webp)
 
 Press the cover and it will slowly open and the mirror lamp will turn ON.
 
 ### Glove box lamp
-`genesis_g90_en_3b6b95a3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/64f02a653a62e12bbf8516ef71a18c7a7cd2222cdd0f5236cb0571935e22cc9c.webp)
 
@@ -5054,21 +4481,18 @@ The glove box lamp comes on when the glove box is opened.
 If the glove box is not closed, the lamp will turn off after 20 minutes.
 
 ### Welcome light
-`genesis_g90_en_c5bca65b` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 When all doors (and trunk) are closed and locked, the puddle lamp will come on for 15 seconds if the door is unlocked by the smart key or when you put your hand in the outside door handle with the smart key in possession.
 
 For more details, refer to "Welcome System" in this chapter.
 
 ### Escort light
-`genesis_g90_en_0eb38474` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 When the Engine Start/Stop button is in the OFF position and the driver's door is opened, the puddle lamp will come on for 30 seconds. If the driver's door is closed within the 30 seconds, the puddle lamp will turn off after 15 seconds. If the driver's door is closed and locked, the puddle lamp will turn off immediately.
 
 The Puddle Lamp Escort Light will turn on only the first time the driver's door is opened after the engine is turned off.
 
 ### Welcome light
-`genesis_g90_en_3308b451` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/e16cd63514f91fb4e5a4257c6ad46b27b25df1d65639c3836f9c56d6b065a746.webp)
 
@@ -5081,7 +4505,6 @@ You can activate or deactivate this function from the Settings menu in the AVN s
 For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### Interior lamp
-`genesis_g90_en_3ea432fe` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 When the interior lamp switch is in the DOOR position and all doors (and trunk) are closed and locked, the room lamp will come on for 30 seconds if any of the below is performed.
 
@@ -5090,7 +4513,6 @@ When the door unlock button is pressed on the smart key. When you put your hand 
 At this time, if you press the door lock or unlock button on the remote key or smart key the room lamp will turn off immediately.
 
 ### WIPERS AND WASHERS
-`genesis_g90_en_a12b6718` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/b27d31d35c84d475c0861bd90d230cd253430656824b28678a341bd15595b70f.webp)
 
@@ -5099,21 +4521,18 @@ A : Wiper speed control MIST – Single wipe OFF – Off INT – Intermittent wi
 B : Auto control wipe time adjustment
 
 ### i Information
-`genesis_g90_en_bb042611` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If there is heavy accumulation of snow or ice on the windshield, defrost the windshield for about 10 minutes, or until the snow and/or ice is removed before using the windshield wipers to ensure proper operation.
 
 If you do not remove the snow and/or ice before using the wiper and washer, it may damage the wiper and washer system.
 
 ### Information
-`genesis_g90_en_b7269a0d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the wiper switch is set in AUTO mode when Engine Start/Stop button is in the ON position, the wiper will operate once to perform a self-check of the system. Set the wiper to the OFF position when the wiper is not in use.
 
 C Wash with brief wipes
 
 ### Windshield Wipers
-`genesis_g90_en_b325952b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Operates as follows when the ignition switch is in the ON position.
 
@@ -5126,56 +4545,47 @@ INT Wiper operates intermittently at the same wiping intervals. To vary the spee
 LO : The wiper runs at a lower speed.
 HI : The wiper runs at a higher speed.
 
-### WARNING
-`genesis_g90_en_97c067e8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-To avoid personal injury from the windshield wipers, when the engine is running and the windshield wiper switch is placed in the AUTO mode:
-
-Do not touch the upper end of the windshield glass facing the rain sensor.
-Do not wipe the upper end of the windshield glass with a damp or wet cloth.
-Do not put pressure on the windshield glass.
+> ⚠️ **Внимание:** 
+> To avoid personal injury from the windshield wipers, when the engine is running and the windshield wiper switch is placed in the AUTO mode:
+>
+> Do not touch the upper end of the windshield glass facing the rain sensor.
+> Do not wipe the upper end of the windshield glass with a damp or wet cloth.
+> Do not put pressure on the windshield glass.
 
 ### NOTICE
-`genesis_g90_en_77a49103` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When washing the vehicle, set the wiper switch in the OFF (O) position to stop the auto wiper operation. The wiper may operate and be damaged if the switch is set in the AUTO mode while washing the vehicle.
 Do not remove the sensor cover located on the upper end of the passenger side windshield glass. Damage to system components could occur and may not be covered by your vehicle warranty.
 
 ### Windshield Washers
-`genesis_g90_en_2f453638` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/8b8fbf0579c9152d4cacb85005e64e472e66b1450059811c05fb59333cf04a89.webp)
 
 In the OFF position, pull the lever gentlhyetowinards hyioeuldtoasnpdratoy rwuanshthere  lwuipdeorns 1-3 cycles. The spray and wiper operation will continue until you release the lever. If the washer does not work, you may need to add washer fluid to the washer fluid reservoir.
 
 ### ！ WARNING
-`genesis_g90_en_b96e5476` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the outside temperature is below freezing, ALWAYS warm the windshield using the defroster to prevent the washer fluid from freezing on the windshield and obscuring your vision which could result in an accident and serious injury or death.
 
 ### NOTICE
-`genesis_g90_en_704d1b24` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To prevent possible damage to the washer pump, do not operate the washer when the fluid reservoir is empty.
 To prevent possible damage to the wipers or windshield, do not operate the wipers when the windshield is dry.
 To prevent damage to the wiper arms and other components, do not attempt to move the wipers manually.
 To prevent possible damage to the wipers and washer system, use anti-freezing washer fluids in the winter season or cold weather.
 
-### WARNING
-`genesis_g90_en_dfdd89cc` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-[A] : Front Sensor, [B] : Rear Sensor
-
-The Parking Distance Warning (Reverse/Forward) system assists the driver during movement of the vehicle by chiming if any object is sensed within the distance of 39 inches (100 cm) in front and 47 inches (120 cm) behind the vehicle.
-
-This system is a supplemental system that senses objects within the range and location of the sensors, it cannot detect objects in other areas where sensors are not installed.
-
-ALWAYS look around your vehicle to make sure there are no objects or obstacles before moving the vehicle in any direction to prevent a collision.
-Always pay close attention when the vehicle is driven close to objects, particularly pedestrians, and especially children.
-Be aware that some objects may not be visible on the screen or be detected by the sensors, due to the objects distance, size or material, all of which can limit the effectiveness of the sensor.
+> ⚠️ **Внимание:** 
+> [A] : Front Sensor, [B] : Rear Sensor
+>
+> The Parking Distance Warning (Reverse/Forward) system assists the driver during movement of the vehicle by chiming if any object is sensed within the distance of 39 inches (100 cm) in front and 47 inches (120 cm) behind the vehicle.
+>
+> This system is a supplemental system that senses objects within the range and location of the sensors, it cannot detect objects in other areas where sensors are not installed.
+>
+> ALWAYS look around your vehicle to make sure there are no objects or obstacles before moving the vehicle in any direction to prevent a collision.
+> Always pay close attention when the vehicle is driven close to objects, particularly pedestrians, and especially children.
+> Be aware that some objects may not be visible on the screen or be detected by the sensors, due to the objects distance, size or material, all of which can limit the effectiveness of the sensor.
 
 ### Operating condition
-`genesis_g90_en_5cd2a7cc` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This system will activate when the Parking Distance Warning system button is pressed with the engine running.
 Sensing distance when backing up is approximately 47 in (120 cm) when you are driving less than 6 mph (10 km/h).
@@ -5184,12 +4594,10 @@ Sensing distance when moving forward is approximately 39 in (100 cm) when you ar
 When more than two objects are sensed at the same time, the closest one will be recognized first. If you move the shift lever to the R (Reverse) position with the engine running and the Parking Distance Warning system off, the system will operate automatically. But it will turn off automatically, when the vehicle speed exceeds 12 mph (20 km/h). The system will automatically operate again if vehicle speed returns to 6 mph (10 km/h).
 
 ### i Information
-`genesis_g90_en_bc0f916a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The indicator may differ from the illustration depending on objects or sensors status. If the indicator blinks, have your vehicle checked by an authorized retailer of Genesis Branded products.
 
 ### NOTICE
-`genesis_g90_en_92323f0b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When you shift the gear to R (Reverse) and if one or more of the below occurs you may have a malfunction with the Parking Distance Warning system.
 
@@ -5202,7 +4610,6 @@ The buzzer sounds intermittently. A message appears on the instrument cluster LC
 If one of the above occurs, have your vehicle checked by an authorized retailer of Genesis Branded products as soon as possible.
 
 ### Non-operational Conditions of Parking Distance Warning (Reverse/Forward) System
-`genesis_g90_en_1a9c615e` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 The Parking Distance Warning (Reverse/Forward) system may not operate normally when any of the following occur:
 
@@ -5219,7 +4626,6 @@ The following objects may not be recognized by the sensor:
 Sharp or slim objects such as ropes, chains or small poles. Objects, which tend to absorb sensor frequency such as clothes, spongy material or snow.
 
 ### Parking Distance Warning (Reverse/Forward) System Precautions
-`genesis_g90_en_d7a728e4` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The Parking Distance Warning (Reverse/Forward) system may not operate consistently in some circumstances depending on the speed of the vehicle and the shapes of the objects detected.
 
@@ -5233,25 +4639,19 @@ Do not push, scratch or strike the sensor with any hard objects that could damag
 
 Do not spray the sensors or its surrounding area directly with a high pressure washer. Doing so may cause the sensors to fail to operate normally.
 
-### WARNING
-`genesis_g90_en_64dac25b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Your new vehicle warranty does not cover any accidents or damage to the vehicle or injuries to its occupants related to a Parking Distance Warning (Reverse/Forward) system. Always drive safely and cautiously.
+> ⚠️ **Внимание:** 
+> Your new vehicle warranty does not cover any accidents or damage to the vehicle or injuries to its occupants related to a Parking Distance Warning (Reverse/Forward) system. Always drive safely and cautiously.
 
 ### PARKING COLLISION-AVOIDANCE ASSIST-REVERSE
-`genesis_g90_en_ef42e4c7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Parking Collision-Avoidance AssistReverse (PCA-R) is a supplemental system that can warn the driver or apply braking force to reduce the possibility of collision with pedestrians when the vehicle is reversing.
 
-### WARNING
-`genesis_g90_en_b76f18a1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-ALWAYS look around your vehicle to make sure there are no objects or pedestrian before moving the vehicle in any direction to prevent a collision.
-Do not solely rely on the Parking Collision-Avoidance Assist-Reverse (PCA-R) system. The system might not assist the driver leading to pedestrian injury or vehicle damage.
-Be aware that some objects may not be visible on the screen or be detected by the rear ultrasonic sensors, due to the objects' distance, size or material, all of which can limit the effectiveness of the sensors.
+> ⚠️ **Внимание:** 
+> ALWAYS look around your vehicle to make sure there are no objects or pedestrian before moving the vehicle in any direction to prevent a collision.
+> Do not solely rely on the Parking Collision-Avoidance Assist-Reverse (PCA-R) system. The system might not assist the driver leading to pedestrian injury or vehicle damage.
+> Be aware that some objects may not be visible on the screen or be detected by the rear ultrasonic sensors, due to the objects' distance, size or material, all of which can limit the effectiveness of the sensors.
 
 ### System seting
-`genesis_g90_en_81a1356f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Parking Collision-Avoidance AssistReverse (PCA-R) can be activated from the Settings menu in the AVN system screen by following the procedure below.
 
@@ -5259,7 +4659,6 @@ Parking Collision-Avoidance AssistReverse (PCA-R) can be activated from the Sett
 2. Select 'Setup → Vehicle Settings → Driver Assistance → Parking Safety → Active Assist 1 Warning Only / Off' in the AVN system screen. For detailed information, scan the QR code in a separately supplied simple manual. The system is ready for operation when 'Active Assist' is selected. In the event of an imminent collision with a pedestrian or an object, the system warns the driver or applies braking force to help avoid the collision. The system is ready for operation when 'Warning Only' is selected. In the event of an imminent collision with a pedestrian, the system warns the driver but does not assist in braking. The system deactivates when 'Off' is selected.
 
 ### Operating conditions
-`genesis_g90_en_d366b7b7` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 Parking Collision-Avoidance AssistReverse (PCA-R) system enters the ready status, when 'Active Assist' or 'Warning Only' is selected in the AVN system screen and the following conditions are satisfied:
 
@@ -5278,7 +4677,6 @@ The performance of the Parking Collision Avoidance Assist-Reverse (PCA-R) system
 As always, be careful when backing up your vehicle and be aware of your surroundings.
 
 ### Active as ist
-`genesis_g90_en_fab40cd8` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 If the system detects a risk of collision with a pedestrian or an object behind the vehicle, the system will warn the driver with audible warning, steering wheel vibration, and warnings on the cluster LCD display and the AVN system screen. If the system detects imminent collision with a pedestrian or an object behind the vehicle, the system may apply braking power. The driver needs to pay attention as the brake will release within 2 seconds. The driver must immediately depress the brake pedal and check surroundings.
 
@@ -5295,7 +4693,6 @@ The brake control may not operate properly depending on the status of the ESC (E
 The ESC (Electronic Stability Control) warning light is on The ESC (Electronic Stability Control) is engaged in a different function
 
 ### Warning only
-`genesis_g90_en_5e591086` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the system detects a risk of collision with a pedestrian or an object, the system will warn the driver with audible warning, steering wheel vibration, and warnings on the cluster LCD display and the AVN system screen. If ‘Warning Only’ is selected, braking will not be assisted.
 
@@ -5303,20 +4700,16 @@ The warning will turn off when:
 
 The driver shifts the gear to P (Park), N (Neutral), or D (Drive)
 
-### WARNING
-`genesis_g90_en_ab04fe66` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
-
-Parking Collision-Avoidance Assist-Reverse system may not operate properly or may operate unnecessarily in some circumstances. Always pay extreme caution while driving. The driver is responsible for controlling the brake appropriately.
+> ⚠️ **Внимание:** 
+> Parking Collision-Avoidance Assist-Reverse system may not operate properly or may operate unnecessarily in some circumstances. Always pay extreme caution while driving. The driver is responsible for controlling the brake appropriately.
 
 ### A CAUTION
-`genesis_g90_en_e2b4c933` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Always pay attention to road and traffic conditions while driving, whether or not there is a warning.
 Playing the vehicle audio system at high volume may prevent occupants from hearing the Parking Collision-Avoidance Assist-Reverse (PCA-R) system warning sounds.
 If any other warning sound, such as seat belt warning chime, is already generated, the Parking CollisionAvoidance Assist-Reverse (PCA-R) system warning may not sound.
 
 ### i Information
-`genesis_g90_en_f66bfbbd` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The system can detect a pedestrian or an object when:
 
@@ -5324,12 +4717,10 @@ A pedestrian is standing behind the vehicle.
 A large obstacle, such as a vehicle, is parked in the rear center of the vehicle.
 
 ### Rear view camera
-`genesis_g90_en_115d75c5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The rear view camera acquires images for rear pedestrian detection. If the camera lens is covered with snow, rain, or a foreign substance, the system may not work properly. Always keep the camera lens clean.
 
 ### Rear ultrasonic sensors
-`genesis_g90_en_a0488b02` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The rear ultrasonic sensors detect objects. The sensors are installed in the rear bumper. If the rear ultrasonic sensor(s) is covered with snow, rain, or a foreign substance, the system may not work properly. Always keep the rear bumper clean.
 
@@ -5342,7 +4733,6 @@ The system may not work properly if the bumper has been damaged, or if the rear 
 Do not apply foreign objects, such as a bumper sticker or a bumper guard, near the camera or sensors or apply paint to the bum per. Doing so may adversely affect the performance of the system.
 
 ### Warning mes age
-`genesis_g90_en_426ad8fc` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 ■ Rea rview camera
 
@@ -5357,12 +4747,10 @@ If any of these conditions occur, the system may turn off automatically or not o
 When the warning message is displayed in the cluster, make sure that the rear view camera and the rear ultrasonic sensors are clean.
 
 ### Check Parking Collision-Avoidance Assist system
-`genesis_g90_en_2691dd56` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If there is a problem with the Parking Collision-Avoidance Assist-Reverse (PCA-R) system or other related systems, a warning message will appear and the system will turn off automatically. Have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Limitations of the System
-`genesis_g90_en_8a43b945` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 Parking Collision-Avoidance AssistReverse (PCA-R) system may not assist braking or alert the driver under the following conditions even if there are pedestrians or objects.
 
@@ -5401,13 +4789,11 @@ Pedestrians or objects are around the path of the vehicle.
 Objects generating excessive noise, such as vehicle horns, loud motorcycle engines, or truck air brakes, are near the vehicle.
 
 ### Limitations of the System
-`genesis_g90_en_3bb64046` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The vehicle is backing towards a narrow passage or parking space. The vehicle is backing towards an uneven road surface, such as unpaved road, gravel, bump, gradient, etc.
 A trailer is attached to the vehicle.
 
 ### SURROUND VIEW MONITOR
-`genesis_g90_en_7b186684` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/b9cd7aa7494b5457cbd1b87564159c7b7bc3e1a54e910d25e03bef686139c5d6.webp)
 
@@ -5427,12 +4813,10 @@ The passenger's door is opened The outer side view mirror is folded If the syste
 A CAUTION (1) Front camera (2) Left/Right camera (3) Rear camera ODH047435 Surround View Monitor system only serves to assist the driver in parking. ALWAYS look around your vehicle to make sure there are no objects or obstacles before moving the vehicle.
 
 ### NOTICE
-`genesis_g90_en_5f11ba95` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Always keep the camera lens clean. The camera may not work normally if the lens is covered with foreign material.
 
 ### BLIND-SPOT VIEW MONITOR SYSTEM
-`genesis_g90_en_9e716a80` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/d8e0fde7d0bef9431818df30d5b0a867de7daaee4c232fa7a9e036096802d5ad.webp)
 
@@ -5440,22 +4824,18 @@ The Blind-Spot View Monitor system displays the left or right side of the rear b
 
 The system is activated when the following steps are performed. 1. The engine is running. 2. The turn signal is turned on. The system is deactivated when one of the following is performed. The Engine Start/Stop button is in the OFF position. The turn signal is turned off The hazard warning flasher is on A warning screen pops up and takes priority over the Blind-Spot View Monitor system.
 
-### WARNING
-`genesis_g90_en_8c4458d6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-This system is a supplemental system only. It is the responsibility of the driver to always check the area around the vehicle before and while making turns or changing lanes. ALWAYS look around your vehicle to make sure there are no objects or obstacles before moving the vehicle in any direction to prevent a collision.
-Objects are closer than they appear. Failure to visually confirm that is safe to change the lane before doing so may result in crash and serious injury or death.
-Always keep the camera lens clean. The camera may not work normally if the lens is covered with foreign substance.
+> ⚠️ **Внимание:** 
+> This system is a supplemental system only. It is the responsibility of the driver to always check the area around the vehicle before and while making turns or changing lanes. ALWAYS look around your vehicle to make sure there are no objects or obstacles before moving the vehicle in any direction to prevent a collision.
+> Objects are closer than they appear. Failure to visually confirm that is safe to change the lane before doing so may result in crash and serious injury or death.
+> Always keep the camera lens clean. The camera may not work normally if the lens is covered with foreign substance.
 
 ### AUTOMATIC CLIMATE CONTROL SYSTEM
-`genesis_g90_en_a547e14f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/44ce75f8b2b45db971f391096a80a88e113e34001b7e1a38f688af9135d40996.webp)
 
 OHI048339L/OHI048302L
 
 ### Front
-`genesis_g90_en_d146b267` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Driver's temperature control knob
 2. Driver's AUTO button
@@ -5477,7 +4857,6 @@ knob
 16. Passenger's fan speed control button
 
 ### Rear
-`genesis_g90_en_c45b79d6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 17. Rear fan speed control knob
 18. Rear mode selection button
@@ -5487,7 +4866,6 @@ knob
 22. LCD display
 
 ### Automatic Heating and Air Conditioning
-`genesis_g90_en_8137162a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/9f66ea4b05919afc63cfcb9083203a611a1295461ef8e2ca5f0677df262a48df.webp)
 
@@ -5508,14 +4886,12 @@ The selected function will be controlled manually while other functions operate 
 For your convenience and to improve the effectiveness of the climate control, use the AUTO button and set the temperature to 72°F (22°C).
 
 ### i Information
-`genesis_g90_en_0ab860f1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/726a1aca45056e000988e00742b518557e6c393bc1c8b25c433492600fc8d2c9.webp)
 
 Never place anything near or covering the sensor (both inside and outside the vehicle) to ensure better control of the heating and cooling system.
 
 ### Manual Heating and Air Conditioning
-`genesis_g90_en_3899a4ed` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The heating and cooling system can be controlled manually by pushing buttons other than the AUTO button. In this case, the system works sequentially according to the order of buttons selected.
 
@@ -5532,19 +4908,16 @@ When pressing any button except the AUTO button while using automatic operation,
 The climate control system settings will be maintained, even when the engine is turned OFF. However, the climate control system settings will be initialized when the battery has been discharged, or when the cables have been disconnected. In this case, adjust the climate control system settings again.
 
 ### Side outlet vents (D)
-`genesis_g90_en_1e27399c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 G90 is equipped with temperature sensors inside the side outlet vents to accurately measure and control air temperature both in the driver's seat and the front passenger's seat. However, when the side outlet vents are closed, the temperature sensor will measure air temperature only inside the side outlet vents. For accurate temperature control, open the side outlet vents.
 
 ### Rear outlet vents (F)
-`genesis_g90_en_5616ad33` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The rear outlet vents are controlled by the rear climate control system.
 
 ![](images/d19e02551d920fe6009430c509b535153e73067fdc0d8af856558dc3ecfed281.webp)
 
 ### Front mode selection button
-`genesis_g90_en_5e7d8ee9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The mode selection button controls the direction of the air flow through the ventilation system.
 
@@ -5553,7 +4926,6 @@ The air flow outlet direction is cycled as follows:
 {iilie
 
 ### Face-Level (B, C, D, F, G)
-`genesis_g90_en_f36468ca` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Air flow is directed toward the upper body and face. Additionally, each outlet can be controlled to direct the air discharged from the outlet.
 
@@ -5568,14 +4940,12 @@ Floor & Defrost (A, C, D, E)
 Most of the air flow is directed to the floor and the windshield with a small amount directed to the side window defrosters.
 
 ### Floor-Level (A, C, D, E)
-`genesis_g90_en_69730261` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Most of the air flow is directed to the floor, with a small amount of the air being directed to the windshield and side window defrosters.
 
 ![](images/44e49fb297cb91874265132e362b9dce2fbe34ba3bdbbd29d9d03d8197f14f43.webp)
 
 ### Rear mode selection button
-`genesis_g90_en_7f867926` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you press the rear mode selection button, you can adjust the rear mode individually.
 
@@ -5588,7 +4958,6 @@ The air flow outlet direction is cycled as follows:
 ii
 
 ### Bi-Level (E, F, G)
-`genesis_g90_en_e20de9a8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Air flow is directed toward the face and floor
 
@@ -5599,33 +4968,28 @@ Air flow is directed toward the floor.
 ![](images/29cc66e5113ce20d4a11ee655e46183361bd4ae5ca68e17670af6d77ce0a4837.webp)
 
 ### Defrost-Level (A, D)
-`genesis_g90_en_c795b430` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Most of the air flow is directed to the windshield with a small amount of air directed t o the side window defrosters.
 
 ### Information
-`genesis_g90_en_4e454d19` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The rear climate control system will be deactivated if the fan speed is set to the highest position with the front windshield defroster button ON. However, if the rear climate control switch is operated, the system will reactivate.
 
 ![](images/50aa1f7f7129686eb2263ce234dd5619acc6c291a572f7be191a1bef1c4d05ef.webp)
 
 ### Instrument panel vents
-`genesis_g90_en_c8a4bef8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The instrument panel vent air flow can be directed up/down or left/right using the vent adjustment lever.
 
 The air flow can be closed using the thumbwheel. To close the vent rotate it left ( ). To open the vent, rotate it right ( ).
 
 ### Temperature control
-`genesis_g90_en_0741bd1e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/72501c9a7fd046b5469022b9004016a2d0ee86ff1e1766944a5392574dcd87b6.webp)
 
 The temperature will increase by turning the knob to the right. The temperature will decrease by turning the knob to the left. The temperature will increase or decrease by 1°F (0.5°C). When set to the lowest temperature setting, the air conditioning will operate continuously.
 
 ### Temperature conversion
-`genesis_g90_en_bab775e1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the battery has been discharged or disconnected, the temperature mode display will reset to Centigrade.
 
@@ -5638,7 +5002,6 @@ AVN system screen Select 'Setup → General Settings → Unit → Temperature Un
 The temperature unit on the cluster LCD display and AVN system screen will change.
 
 ### Adjusting the driver and passenger side temperature and air flow direction equally
-`genesis_g90_en_e664c268` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press the SYNC button (LED ON) to adjust the driver and front/rear passenger side temperature and air flow direction equally.
 
@@ -5649,19 +5012,16 @@ Turn the driver side temperature control knob. The driver and passenger side tem
 Press the driver side mode selection button. The driver and front/ rear passenger side air flow will be adjusted equally.
 
 ### Adjusting the driver and passenger side temperature and air flow direction individually
-`genesis_g90_en_f8cfa331` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press the SYNC button again (LED OFF) to adjust the driver and front/rear passenger side temperature and air flow direction individually.
 
 ### Air intake control
-`genesis_g90_en_43a91270` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/c5e5405635a4cda9c06699bd7ae2b7a502474736136e22d12f78dde76cadd759.webp)
 
 The air intake control button is used to select either Fresh mode (outside air) or Recirculation mode (cabin air).
 
 ### i Information
-`genesis_g90_en_33b30d30` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Operating the system primarily in Fresh mode is recommended. Use Recirculation mode temporarily only when needed.
 
@@ -5670,27 +5030,22 @@ Prolonged operation of the heater in Recirculation mode and without the A/C ON c
 In addition, prolonged use of the A/C ON in Recirculation mode may result in excessively dry, dehumidified air in the cabin and may promote formation of musty vent odor due to stagnant air.
 
 ### Recirculation mode
-`genesis_g90_en_d9754bde` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/e33545d2ad2e1e3033e65a4a87a0a123a853e476577fa1496e631cb3bc5d8592.webp)
 
 When Recirculation mode is selected, air from the passenger compartment will be recirculated through the system and heated or cooled according to the function selected.
 
 ### Fresh mode
-`genesis_g90_en_255473ce` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/41c72d909861f708e2109065c1b78fd96045d29976b9eb0e79056599b5bbf3c4.webp)
 
 When Fresh mode is selected, air enters the vehicle from outside and is heated or cooled according to the function selected.
 
-### WARNING
-`genesis_g90_en_3c053e0a` | g90 | pdf_manual | tier:2 | lang:en | layer:hvac | p:1 | doc_type:owners_manual
-
-Continued use of the climate control system operation in Recirculation mode for a prolonged period of time may cause drowsiness to the occupants in the cabin. This may lead to loss of vehicle control which may lead to an accident.
-Continued use of the climate control system operation in Recirculation mode with the A/C OFF may allow humidity to increase inside the cabin. This may cause condensation to accumulate on the windshield and obscure visibility. Do not sleep in your vehicle or remain parked in your vehicle with the windows up and either the heater or the air conditioning ON for prolonged periods of time. Doing so may increase the levels of carbon dioxide in the cabin which may lead to serious injury or death.
+> ⚠️ **Внимание:** 
+> Continued use of the climate control system operation in Recirculation mode for a prolonged period of time may cause drowsiness to the occupants in the cabin. This may lead to loss of vehicle control which may lead to an accident.
+> Continued use of the climate control system operation in Recirculation mode with the A/C OFF may allow humidity to increase inside the cabin. This may cause condensation to accumulate on the windshield and obscure visibility. Do not sleep in your vehicle or remain parked in your vehicle with the windows up and either the heater or the air conditioning ON for prolonged periods of time. Doing so may increase the levels of carbon dioxide in the cabin which may lead to serious injury or death.
 
 ### Air Quality System (AQS)
-`genesis_g90_en_bb4a6918` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/6a29fdae124051979afa30cb183c2665ce013ec93e534c75f7da74756a74856d.webp)
 
@@ -5699,7 +5054,6 @@ This system automatically senses outdoor air pollutants and minimizes their flow
 To turn the AQS ON, press the button. If the windows fog up with the Recirculation mode or AQS mode selected, set the air intake control to Fresh mode or AQS control to OFF.
 
 ### i Information
-`genesis_g90_en_0e5be407` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The AQS button indicator will immediately illuminate when the engine is started with the AQS in the ON position. However, the AQS starts operating after 40 seconds.
 The AQS filters out toxic exhaust (i.e. NO, NO2, SO2, CO, CxHy) to prevent it from entering the passenger compartment but, does not totally block odor.
@@ -5709,21 +5063,18 @@ The AQS does not operate in any of the following situations
 The AQS button is re-repressed to the OFF position. Either Fresh mode or the Recirculation mode is selected. The front defroster button is pressed ON or the Floor & Defrost ( ) mode is selected. The temperature is set to either the highest (HI) or the lowest (Lo) position, while the climate control system is automatically controlled (AUTO button LED ON). The OFF button of the climate control system is selected. The Auto Defogging system operates to defog the front windshield.
 
 ### Front
-`genesis_g90_en_a39dbd62` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press the ( ) button to increase fan speed and air flow. Press the ( ) button to decrease fan speed and air flow.
 
 Pressing the OFF button turns off the fan.
 
 ### NOTICE
-`genesis_g90_en_4d6c00ae` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Operating the fan speed when the Engine Start/Stop button is in the ON position could cause the battery to discharge. Operate the fan speed when the engine is running.
 
 ![](images/6fea6a8f31fb62651ef50ad50b4f8f1454072a8da83d8240c759b428e1651290.webp)
 
 ### Rear
-`genesis_g90_en_298149b3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Turn the knob to the right ( ) to increase fan speed and airflow. Turn the knob to the left ( ) to decrease fan speed and airflow.
 
@@ -5732,28 +5083,24 @@ To adjust the rear fan speed control individually, go to the AVN system screen a
 For more information on the RSE LOCKED indicator, refer to "Rear Switches Operating Limitation" in chapter 2.
 
 ### Airconditioning
-`genesis_g90_en_434affc2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/4692637ef62135ada2c1479cc613745510ef93a0d885efd22a0f84844b6fafa0.webp)
 
 Push the A/C button to manually turn the system on (LED ON) and off.
 
 ### OF mode
-`genesis_g90_en_0d3d04fb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/5bb25488c3b58aa9d181d17c9af7258cca326299d2ad5918be9bd67982263f7e.webp)
 
 Push the OFF button to turn off the climate control system.
 
 ### Climate control information scre n selection buton
-`genesis_g90_en_2c067458` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/579743c393d490bdd7bc91a7e846037ea4f54217b4c06e5dc3694c3e09329d2d.webp)
 
 Press the climate control information screen selection button to display climate control information on the AVN system screen.
 
 ### Co ling /Ventilation
-`genesis_g90_en_46f106ae` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Select the Face Level u mode.
 2. Set the air intake control to fresh mode.
@@ -5761,7 +5108,6 @@ Press the climate control information screen selection button to display climate
 4. Set the fan speed control to the desired speed.
 
 ### Heating
-`genesis_g90_en_5dc97989` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Select the Floor Level U mode.
 2. Set the air intake control to fresh mode.
@@ -5772,12 +5118,10 @@ Press the climate control information screen selection button to display climate
 If the windshield fogs up, select the Floor & Defrost 心 mode or press the Front Defrost 国 mode.
 
 ### Operation Tips
-`genesis_g90_en_f7b49aa2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To keep dust or unpleasant fumes from entering the car through the ventilation system, temporarily set the air intake control to the recirculation mode. Return the control to the to fresh mode when the unpleasant air outside has diminished. This will help keep the driver alert and comfortable. To help prevent the inside of the windshield from fogging, set the air intake control to fresh mode and the fan speed to the desired position, turn on the air conditioning system, and adjust the temperature control to the desired temperature.
 
 ### Air conditioning
-`genesis_g90_en_5876181f` | g90 | pdf_manual | tier:2 | lang:en | layer:hvac | p:1 | doc_type:owners_manual
 
 Your Genesis Branded Vehicle air conditioning system is filled with R1234yf refrigerant.
 
@@ -5790,14 +5134,12 @@ Your Genesis Branded Vehicle air conditioning system is filled with R1234yf refr
 When maximum cooling is desired, set the temperature control to the lowest temperature setting, then set the fan speed control to the highest setting.
 
 ### NOTICE
-`genesis_g90_en_ab17a194` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When using the air conditioning system, monitor the engine temperature gauge closely while driving up hills or in heavy traffic when outside temperatures are high. Air conditioning system operation when climbing a steep grade or in high outside ambient temperatures can cause engine overheating.
 
 Continue to use the fan, but turn the air conditioning system off if the engine temperature gauge indicates engine overheating.
 
 ### Air conditioning system operation tips
-`genesis_g90_en_226670af` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the vehicle has been parked in direct sunlight during hot weather, open the windows for a short time to let the hot air inside the vehicle escape.
 After sufficient cooling has been achieved, switch back from recirculation mode to fresh mode.
@@ -5806,7 +5148,6 @@ Use the air conditioning system every month only for a few minutes to ensure max
 If you operate air conditioner excessively, the difference between the temperature of the outside air and that of the windshield could cause the outer surface of the windshield to fog up, causing loss of visibility. In this case, set the mode selection knob or button to the 山 position and fan speed control to the lowest speed.
 
 ### System Maintenance
-`genesis_g90_en_431e3433` | g90 | pdf_manual | tier:2 | lang:en | layer:hvac | p:1 | doc_type:owners_manual
 
 Cabin airfilter [A] Outside air, [B] Recirculated air [C] Climate control air filter, [D] Blower [E] Evaporator core, [F] Heater core
 
@@ -5819,26 +5160,21 @@ Have the cabin air filter replaced by an authorized retailer of Genesis Branded 
 If the air flow rate suddenly decreases, the system should be checked at an authorized retailer of Genesis Branded products.
 
 ### Checking the amount ofair conditioner refrigerant and compres or lubricant
-`genesis_g90_en_e2c012d3` | g90 | pdf_manual | tier:2 | lang:en | layer:hvac | p:1 | doc_type:owners_manual
 
 When the amount of refrigerant is low, the performance of the air conditioning is reduced. Overfilling also reduces the performance of the air conditioning system.
 
 Therefore, if abnormal operation is found, have the system inspected by an authorized retailer of Genesis Branded products.
 
 ### NOTICE
-`genesis_g90_en_2a2f47f8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 It is important that the correct type and amount of oil and refrigerant is used. Otherwise, damage to the compressor and abnormal system operation may occur.
 
-### WARNING
-`genesis_g90_en_953b9b28` | g90 | pdf_manual | tier:2 | lang:en | layer:hvac | p:1 | doc_type:owners_manual
-
-Because the refrigerant is mildly inflammable at very high pressure, the air conditioning system should only be serviced by trained and certified technicians. It is important that the correct type and amount of oil and refrigerant is used. Otherwise, it may cause damage to the vehicle and personal injury.
-
-The air conditioning system should be serviced by an authorized retailer of Genesis Branded products.
+> ⚠️ **Внимание:** 
+> Because the refrigerant is mildly inflammable at very high pressure, the air conditioning system should only be serviced by trained and certified technicians. It is important that the correct type and amount of oil and refrigerant is used. Otherwise, it may cause damage to the vehicle and personal injury.
+>
+> The air conditioning system should be serviced by an authorized retailer of Genesis Branded products.
 
 ### Air Conditioning refrigerant label
-`genesis_g90_en_abd4ed1e` | g90 | pdf_manual | tier:2 | lang:en | layer:hvac | p:1 | doc_type:owners_manual
 
 ![](images/94e13fdae57b86ba082cb94b90f72fa0f908f31eda24a02c9e05d3bf772b7c42.webp)
 
@@ -5853,14 +5189,12 @@ Each symbols and specification on air conditioning refrigerant label means as be
 Refer to chapter 8 for more detail location of the air conditioning refrigerant label.
 
 ### i Information
-`genesis_g90_en_4f5110de` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To prevent damage to the conductors bonded to the inside surface of the rear window, never use sharp instruments or window cleaners containing abrasives to clean the window.
 
 If you want to defrost and defog the front windshield, refer to the "Windshield Defrosting and Defogging" section in this chapter.
 
 ### Rear Window Defroster
-`genesis_g90_en_72517985` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/731e0e94512f111f5875f7a609cbe23f3e614c1347e6a72fbdc74daa29e01347.webp)
 
@@ -5872,7 +5206,6 @@ The rear window defroster automatically turns off after approximately 20 minutes
 If there is heavy accumulation of snow on the rear window, brush it off before operating the rear defroster.
 
 ### Windshield heating
-`genesis_g90_en_7dda097c` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Do not use the T or 国 position during cooling operation in extremely humid weather. The difference between the temperature of the outside air and that of the windshield could cause the outer surface of the windshield to fog up, causing loss of visibility could cause an accident resulting in serious injury or death. In this case, set the mode selection knob or button to the u position and fan speed control knob or button to a lower speed.
 
@@ -5881,7 +5214,6 @@ If warm air to the floor is desired while defrosting or defogging, set the mode 
 Clear all snow and ice from the hood and air inlet in the cowl grill to improve heater and defroster efficiency and to reduce the probability of fogging up the inside of the windshield.
 
 ### NOTICE
-`genesis_g90_en_65abf205` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the engine temperature is still cold after starting, then a brief engine warm up period may be required for the vented air flow to become warm or hot.
 
@@ -5895,7 +5227,6 @@ If the engine temperature is still cold after starting, then a brief engine warm
 Check to make sure the air conditioning is ON. If the air conditioning button LED is not illuminated, press the air conditioning (A/C) button once to turn the air conditioner ON. Check to make sure the air intake control is in Fresh mode.
 
 ### To defrost outside windshield
-`genesis_g90_en_22e1a47f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/25efbe46dba4ff7bc640773030aefd5f81fa61bb7ea0b47e94ea6613efccfd7d.webp)
 
@@ -5905,7 +5236,6 @@ Check to make sure the air conditioning is ON. If the air conditioning button LE
 4. Fresh mode will be selected automatically. Additionally, the air conditioning will automatically operate according to the detected ambient temperature. Check to make sure the air intake control is in Fresh mode.
 
 ### Defo ging logic
-`genesis_g90_en_953b340f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To reduce the probability of fogging up the inside of the windshield, the air intake or air conditioning are controlled automatically according to certain conditions such as or 国 positions. To cancel or reset the defogging logic, do the following.
 
@@ -5915,7 +5245,6 @@ To reduce the probability of fogging up the inside of the windshield, the air in
 If the battery has been discharged or disconnected, it resets to the defog logic status.
 
 ### Auto Defogging System
-`genesis_g90_en_10637422` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/166de31048ea2cbf1ab1fff2df753204f03be6a88784cb92c0f8c844329aca57.webp)
 
@@ -5924,7 +5253,6 @@ Auto defogging helps reduce the possibility of fogging up the inside of the wind
 The auto defogging system operates when the climate control system is on.
 
 ### i Information
-`genesis_g90_en_97fe2d7d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The auto defogging system may not operate normally, when the outside temperature is below 14 °F (-10 °C).
 
@@ -5944,79 +5272,67 @@ Step 4) The fan speed will be set to MAX.
 If the air conditioning is off or recirculation mode is manually selected while Auto Defogging System is ON, the Auto Defogging System Indicator will blink 3 times to signal that the manual operation has been canceled.
 
 ### To cancel oractivate the Auto Defog ing System
-`genesis_g90_en_936d7a0f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Climate control system
 
 To cancel the auto defogging system 1. Press the Engine Start/Stop button to the ON or START position. 2. Press the front defroster button for approximately 3 seconds. 3. The front defroster button LED will blink 3 times and then ADS OFF will illuminate on the climate control information screen when the auto defogging system is canceled.
 
 ### To reactivate the auto defogging system
-`genesis_g90_en_05832d34` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Press the Engine Start/Stop button to the ON or START position. 2. Press the front defroster button for approximately 3 seconds. 3. The front defroster button LED will blink 6 times and then ADS OFF will turn off on the climate control information screen when the auto defogging system is reactivated.
 
 ![](images/a8199d5c840776de2efcd376cf8a8b13f7650de378c4081d5e55482cce4bb1ec.webp)
 
 ### AVN system screen
-`genesis_g90_en_25cc8804` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Auto Defogging System can also be canceled or selected from the Settings menu in the AVN system screen.
 
 For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### Information
-`genesis_g90_en_861497c4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the air conditioning is turned on by Auto defogging system, if you try to turn off the air conditioning, the A/C button LED will blink 3 times and the air conditioning will not be turned off.
 To maintain the effectiveness and efficiency of the Auto Defogging System, do not select Recirculation mode while the system is operating. When the Auto Defogging System is operating, the fan speed adjustment button, the temperature adjustment knob, and the air intake control button are all disabled.
 
 ### NOTICE
-`genesis_g90_en_4acf8a73` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not remove the sensor cover located on the upper end of the driver side windshield glass.
 
 Damage to system parts could occur and may not be covered by your vehicle warranty.
 
 ### Clean Air
-`genesis_g90_en_934c99c7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the engine is running, the clean air function turns on automatically.
 
 Also, the clean air function turns off automatically, when the Engine Start/Stop button is in the OFF position.
 
 ### Automatic Ventilation (if equipped)
-`genesis_g90_en_339683fd` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The system automatically selects the fresh mode when the climate control system operates over a certain period of time (approximately 30 minutes) in low temperature with the recirculation mode selected.
 
 ### To cancel or reactivate theAutomatic Ventilation
-`genesis_g90_en_a6629659` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the air conditioning system is on, select Face Level u mode and press the air recirculation mode button at least 5 times within 3 seconds while pressing the A/C button.
 
 When the automatic ventilation is canceled, the air intake control button LED blinks 3 times. When the automatic ventilation is activated, the air intake control button LED blinks 6 times.
 
 ### Sunroof Inside Air Recirculation (if equipped)
-`genesis_g90_en_8fb215c5` | g90 | pdf_manual | tier:2 | lang:en | layer:hvac | p:1 | doc_type:owners_manual
 
 When the heater or air conditioning system is on with the sunroof opened, the fresh mode will be automatically selected. If you press the Recirculation mode button with the sunroof open, Recirculation mode activate but will only remain enabled for 3 minutes. After 3 minutes the air intake control will revert back to Fresh mode.
 
 When the sunroof is closed, the air intake position will return to the original position that was selected.
 
 ### Setting the Climate Control System in the AVN System Screen
-`genesis_g90_en_8ff593f5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Using the AVN System screen, select 'Home → Climate'. The Climate settings screen will be displayed.
 
 ### Climate information
-`genesis_g90_en_62cd5d88` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/06e114d3ff1d1074def25a19bc86d2ca3e6521db045b011193065a640bb83c40.webp)
 
 Climate information (e.g. temperature, air-flow direction, fan speed, etc.) of the driver's/front passenger’s/rear seats is displayed.
 
 ### Adjusting the rear climate control system
-`genesis_g90_en_e0f7e681` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/e8402fa38849c949039a883c0f44767e6f27721ad1833b03948067ce9c11d018.webp)
 
@@ -6027,18 +5343,15 @@ Select 'Rear Climate Controls' and then adjust the temperature, fan speed and mo
 Also, the rear climate controls can be turned off by selecting OFF.
 
 ### OHI048184L
-`genesis_g90_en_61635d17` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The smart ventilation system maintains pleasant/fresh air condition inside the passenger compartment by automatically detecting/controlling the temperature, humidity, etc., when you drive the vehicle with the climate control system in the OFF position. When the smart ventilation system starts to operate, the message, "SMART VENTILATION ON" appears for 5 seconds. Check the box next to ‘Smart Vent’ to turn on the function and uncheck the box to turn off the function.
 
 ### i Information
-`genesis_g90_en_c7747dbe` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The smart ventilation system stops operating, when the OFF button of the climate control system is selected. The smart ventilation system stops operating, when any button of the climate control system is selected for operation.
 The smart ventilation system may not operate, when the vehicle is driven at low speed.
 
 ### Activate Carbon Dioxide monitor (ifequip ed)
-`genesis_g90_en_cd772186` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/10e8ffbf3ad457e944c4a7ca7d116a265f9836b48008b70a37842ef282ac9120.webp)
 
@@ -6048,32 +5361,25 @@ When driving, the climate control system controls CO2 concentration and maintain
 
 For detailed information on the features described, scan the QR code in a separately supplied simple manual.
 
-### WARNING
-`genesis_g90_en_bb1ae5ea` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> Never store cigarette lighters, propane cylinders, or other flammable/explosive materials in the vehicle. These items may catch fire and/or explode if the vehicle is exposed to hot temperatures for extended periods.
 
-Never store cigarette lighters, propane cylinders, or other flammable/explosive materials in the vehicle. These items may catch fire and/or explode if the vehicle is exposed to hot temperatures for extended periods.
-
-### WARNING
-`genesis_g90_en_ed630541` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-ALWAYS keep the storage compartment covers closed securely while driving. Items inside your vehicle are moving as fast as the vehicle. If you have to stop or turn quickly, or if there is a crash, the items may fly out of the compartment and may cause an injury if they strike the driver or a passenger.
+> ⚠️ **Внимание:** 
+> ALWAYS keep the storage compartment covers closed securely while driving. Items inside your vehicle are moving as fast as the vehicle. If you have to stop or turn quickly, or if there is a crash, the items may fly out of the compartment and may cause an injury if they strike the driver or a passenger.
 
 ### Center Console Storage
-`genesis_g90_en_024205cc` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/03b078b703deaacd423f02383b324995ed9311f85c43489e60d93359f1c7114c.webp)
 
 To open : Press the button.
 
 ### Rear Console Storage
-`genesis_g90_en_6cfadb56` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/68c6ccb749c499ab013a88df3db400cc749b822ac6171fd12f1c0c18dc2f167f.webp)
 
 To open : Press the button.
 
 ### Sunglass Holder
-`genesis_g90_en_17f4089e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/ba90a9722655528920a6176324ab7e82532b8512849eecc60b2a381422475935.webp)
 
@@ -6081,52 +5387,42 @@ The glove box can be locked and unlocked with the mechanical key (1).
 
 To open: Pull the lever (2).
 
-### WARNING
-`genesis_g90_en_d5044664` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> ALWAYS close the glove box after use. An open glove box can cause serious injury to the passenger in an accident, even if the passenger is wearing a seat belt.
+>
+> ![](images/b8848917db9c817426dbbd768580eac626a22dc534b7875e1cbf69f35c89b67e.webp)
+>
+> To open:
+>
+> Push and release the cover and the holder will slowly open. Place your sunglasses in the compartment door with the lenses facing out.
+>
+> To close:
+> Push back into position.
+> Make sure the sunglass holder is closed while driving.
 
-ALWAYS close the glove box after use. An open glove box can cause serious injury to the passenger in an accident, even if the passenger is wearing a seat belt.
-
-![](images/b8848917db9c817426dbbd768580eac626a22dc534b7875e1cbf69f35c89b67e.webp)
-
-To open:
-
-Push and release the cover and the holder will slowly open. Place your sunglasses in the compartment door with the lenses facing out.
-
-To close:
-Push back into position.
-Make sure the sunglass holder is closed while driving.
-
-### WARNING
-`genesis_g90_en_64123ba6` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
-
-Do not keep objects except sunglasses inside the sunglass holder. Such objects can be thrown from the holder in the event of a sudden stop or an accident, possibly injuring the passengers in the vehicle. Do not open the sunglass holder while the vehicle is moving.The rear view mirror of the vehicle can be blocked by an open sunglass holder. Do not put the glasses forcibly into a sunglass holder. It may cause personal injury if you try to open it forcibly when the glasses are jammed.
+> ⚠️ **Внимание:** 
+> Do not keep objects except sunglasses inside the sunglass holder. Such objects can be thrown from the holder in the event of a sudden stop or an accident, possibly injuring the passengers in the vehicle. Do not open the sunglass holder while the vehicle is moving.The rear view mirror of the vehicle can be blocked by an open sunglass holder. Do not put the glasses forcibly into a sunglass holder. It may cause personal injury if you try to open it forcibly when the glasses are jammed.
 
 ### Front seats
-`genesis_g90_en_3c88fba0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/145b9737bc7dd8e266690605946c6c1cee34eb309635fa07b085224c06c38a8a.webp)
 
 Press the cover and it will slowly open.
 
-### WARNING
-`genesis_g90_en_ee99fef9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Avoid abrupt starting and braking when the cup holder is in use to prevent spilling your drink. If hot liquid spills, you could be burned. Such a burn to the driver could cause loss of vehicle control resulting in an accident. Do not place uncovered or unsecured cups, bottles, cans, etc., in the cup holder containing hot liquid while the vehicle is in motion. Injuries may result in the event of sudden stop or collision. Only use soft cups in the cup holders. Hard objects can injure you in an accident.
+> ⚠️ **Внимание:** 
+> Avoid abrupt starting and braking when the cup holder is in use to prevent spilling your drink. If hot liquid spills, you could be burned. Such a burn to the driver could cause loss of vehicle control resulting in an accident. Do not place uncovered or unsecured cups, bottles, cans, etc., in the cup holder containing hot liquid while the vehicle is in motion. Injuries may result in the event of sudden stop or collision. Only use soft cups in the cup holders. Hard objects can injure you in an accident.
 
 ### Rear seats
-`genesis_g90_en_c947edc8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/03b8f7217f96ee4b5c8b491f6a2c55e763c8f2aa5fbfad72f76102acdd34ca89.webp)
 
 Press the cover and it will slowly open.
 
 ### NOTICE
-`genesis_g90_en_02eebcd9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Keep your drinks sealed while driving to prevent spilling your drink. If liquid spills, it may get into the vehicle's electrical/electronic system and damage electrical/electronic parts. When cleaning spilled liquids, do not dry the cup holder using hot temperatures. This may damage the cup holder.
 
 ### Sunvisor
-`genesis_g90_en_2c584efb` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/c7d69575178de27dfb7e1c45480757139b72a830c31aafafd87c1f5f44a2b1f1.webp)
 
@@ -6139,12 +5435,10 @@ Adjust the sunvisor forward or backward (4) as needed. Use the ticket holder (5)
 Close the vanity mirror cover securely and return the sunvisor to its original position after use.
 
 ### NOTICE
-`genesis_g90_en_f5200b3a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not put several tickets in the ticket holder at one time. This could cause damage to the ticket holder.
 
 ### Rear Mirror (if equipped)
-`genesis_g90_en_8838c70f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/a3241333c0e92ba776a93c110d65b009832a7bcc2b6c7dae87178143af87c391.webp)
 
@@ -6155,24 +5449,19 @@ Press the cover and it will slowly open and the mirror lamp will turn ON.
 To close: Push back into position.
 
 ### NOTICE
-`genesis_g90_en_23369e32` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Make sure to close the rear mirror cover after use. If not, the rear mirror lamp remains ON, possibly draining the battery or damaging the rear mirror.
 
 ### Power Outlet (if equipped)
-`genesis_g90_en_243b16a9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/da03ecca80c9714bdadb3fc8aef54533acaeaa9152a577950d9e87d4a541c60f.webp)
 
 The power outlet is designed to provide power for mobile telephones or other devices designed to operate with vehicle electrical systems. The devices should draw less than 180 W (Watts) with the engine running.
 
-### WARNING
-`genesis_g90_en_6c433970` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Avoid electrical shocks. Do not place your fingers or foreign objects (pin, etc.) into a power outlet or touch the power outlet with wet hands.
+> ⚠️ **Внимание:** 
+> Avoid electrical shocks. Do not place your fingers or foreign objects (pin, etc.) into a power outlet or touch the power outlet with wet hands.
 
 ### NOTICE
-`genesis_g90_en_b814879d` | g90 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 To prevent damage to the Power Outlets
 
@@ -6183,7 +5472,6 @@ Push the plug in as far as it will go. If good contact is not made, the plug may
 Plug in battery equipped electrical/electronic devices with reverse current protection. The current from the battery may flow into the vehicle's electrical/ electronic system and cause system malfunction
 
 ### USB Charger (if equipped)
-`genesis_g90_en_571a12e6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/4e7819d166399b1ad33b9b9d6fbc274f6a5738ff1559acb7bfd0956738c677d9.webp)
 
@@ -6202,7 +5490,6 @@ A smart phone or a tablet PC may get warmer during the re-charging process. It d
 A smart phone or a tablet PC, which adopts a different re-charging method, may not be properly re-charged. In this case, use an exclusive charger of your device.
 
 ### Wireless Cellular Phone Charging System (if equipped)
-`genesis_g90_en_4aa05f00` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/bc3b47a04923cbc7ffc042b5563f18ca584c07b26dc58000c887cb247a95dd38.webp)
 
@@ -6211,7 +5498,6 @@ On certain models, the vehicle comes equipped with a wireless cellular phone cha
 The system is available when all doors are closed, and when the Engine Start/Stop button is in the ACC, ON or START position.
 
 ### To charge a celular phone
-`genesis_g90_en_518b6332` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The wireless cellular phone charging system charges only the Qi-enabled cellular phones q ). Read the label on the cellular phone accessory cover or visit your cellular phone manufacturer's website to check whether your cellular phone supports the Qi technology.
 
@@ -6245,14 +5531,12 @@ When charging certain cellular phones, the charging indicator may not change to 
 When charging some cellular phones with a self-protection feature, the wireless charging speed may decrease and the wireless charging may stop. If the cellular phone has a thick cover, the wireless charging may not be possible.
 
 ### To charge a celular phone
-`genesis_g90_en_adfe7954` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the cellular phone is not completely contacting the charging pad, wireless charging may not operate properly.
 Some magnetic items like credit cards, phone cards or rail tickets may be damaged if left with the cellular phone during the charging process.
 When any cellular phone without a wireless charging function or a metallic object is placed on the charging pad, a small noise may sound. This small sound is due to the vehicle discerning compatibility of the object placed on the charging pad. It does not affect your vehicle or the cellular phone in any way.
 
 ### i Information
-`genesis_g90_en_94c7e5f0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This device complies with part 15 of the FCC Rules.
 
@@ -6262,53 +5546,44 @@ Operation is subject to the following two conditions:
 2. This device must accept any interference received, including interference that may cause undesired operation.
 
 ### Clock
-`genesis_g90_en_fdd0f36f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/37f544ccc2002c09a95b3da128ef57fe30f1a4162134534f08376aaf5750f9a7.webp)
 
 These hooks are not designed to hold large or heavy items.
 
-### WARNING
-`genesis_g90_en_0e25ac51` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-![](images/de751860674a61efa1bb8377d71a586927620ed08a23f2d43c696f33c7a04cc2.webp)
-
-Do not hang other objects such as hangers or hard objects except clothes. Also, do not put heavy, sharp or breakable objects in the clothes pockets. In an accident or when the curtain air bag is inflated, it may cause vehicle damage or personal injury.
-
-![](images/7bfc0da287f2785fd7d8c12e43dce0ea6ea73c50a0465f2352e0768051b696b7.webp)
-
-You can set the clock by using the AVN System.
-
-For detailed information, scan the QR code in a separately supplied simple manual.
+> ⚠️ **Внимание:** 
+> ![](images/de751860674a61efa1bb8377d71a586927620ed08a23f2d43c696f33c7a04cc2.webp)
+>
+> Do not hang other objects such as hangers or hard objects except clothes. Also, do not put heavy, sharp or breakable objects in the clothes pockets. In an accident or when the curtain air bag is inflated, it may cause vehicle damage or personal injury.
+>
+> ![](images/7bfc0da287f2785fd7d8c12e43dce0ea6ea73c50a0465f2352e0768051b696b7.webp)
+>
+> You can set the clock by using the AVN System.
+>
+> For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### ！ WARNING
-`genesis_g90_en_991c13ff` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not adjust the clock while driving. You may lose your steering control and cause an accident that results in severe personal injury.
 
 ### Floor Mat Anchor(s)
-`genesis_g90_en_2431079a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/632f9df6253269fe1d20f789f68b927ea8838cc6848f9ae6b1eab407d0892e7c.webp)
 
 Pull the strap (1) to hang a bag on the hook (2). Fold the hook when not in use.
 
 ### NOTICE
-`genesis_g90_en_6ba4e40f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do no hang items that weighs over 22 lbs. (10 kg).
 
 ALWAYS use the Floor Mat Anchors to attach the front floor mats to the vehicle. The anchors on the front floor carpet keep the floor mats from sliding forward.
 
-### WARNING
-`genesis_g90_en_ea7bcf8a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-The following must be observed when installing ANY floor mat to the vehicle.
-
-Ensure that the floor mats are securely attached to the vehicle's floor mat anchor(s) before driving the vehicle. Do not use ANY floor mat that cannot be firmly attached to the vehicle's floor mat anchors. Do not stack floor mats on top of one another (e.g. all-weather rubber mat on top of a carpeted floor mat). Only a single floor mat should be installed in each position. IMPORTANT Your vehicle was manufactured with driver’s side floor mat anchors that are designed to securely hold the floor mat in place. To avoid any interference with pedal operation, Genesis Branded Vehicle recommends that the Genesis floor mat designed for use in your vehicle be installed.
+> ⚠️ **Внимание:** 
+> The following must be observed when installing ANY floor mat to the vehicle.
+>
+> Ensure that the floor mats are securely attached to the vehicle's floor mat anchor(s) before driving the vehicle. Do not use ANY floor mat that cannot be firmly attached to the vehicle's floor mat anchors. Do not stack floor mats on top of one another (e.g. all-weather rubber mat on top of a carpeted floor mat). Only a single floor mat should be installed in each position. IMPORTANT Your vehicle was manufactured with driver’s side floor mat anchors that are designed to securely hold the floor mat in place. To avoid any interference with pedal operation, Genesis Branded Vehicle recommends that the Genesis floor mat designed for use in your vehicle be installed.
 
 ### Rear Window Sunshade
-`genesis_g90_en_8be98ae9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/e6cb133f285ffda524f3f827928920421c5a282439f25878a2581f09be92e592.webp)
 
@@ -6322,12 +5597,10 @@ The rear window sunshade will be lowered automatically when the vehicle is shift
 After the rear window sunshade is lowered by shifting the vehicle to R (Reverse), if you drive more than 12 mph (20 km/h) with the shift lever in D (Drive), the rear window sunshade will be raised automatically.
 
 ### NOTICE
-`genesis_g90_en_f6d2453e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not apply excessive force while operating the rear window sunshade. This could cause damage to the rear window sunshade.
 
 ### Rear Side Window Sunshade
-`genesis_g90_en_40bcd159` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/a3350600065ab1958a1a73bc03cc64af0d6b4cdc9825a104cc7a4ded5ebdaca9.webp)
 [1] : Right side, [2] Left side
@@ -6335,23 +5608,19 @@ Do not apply excessive force while operating the rear window sunshade. This coul
 For each of the rear doors, you can fold or unfold the rear side window sunshade by using the power window switch on each rear door. Both rear sunshades can also be operated from the switches on the driver’s door.
 
 ### To unfold:
-`genesis_g90_en_3dbc62fc` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Close the window by pulling up the switch.
 2. To unfold the curtain, pull up the switch once more.
 
 ### To fold:
-`genesis_g90_en_421b3c4b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. If you want to open the shaded window, push down the switch one time to store the sunshade. 2. Push down the switch one more time to open the window.
 
 ### i Information
-`genesis_g90_en_74e2a807` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 If the upward or downward movement of the sunshade is blocked by an object or part of the body, the sunshade will detect the resistance and will stop movement and move downward or upward.
 
 ### To reset the rear side window sunshades
-`genesis_g90_en_1877b623` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the sunshade is not operating normally, it must be reset as follows:
 
@@ -6361,12 +5630,10 @@ If the sunshade is not operating normally, it must be reset as follows:
 If the rear side window sunshade does not work properly after following the above procedure, it is recommended that the system be checked by an authorized retailer of Genesis Branded products.
 
 ### NOTICE
-`genesis_g90_en_745de250` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not apply excessive external force on the rear side window sunshade while operating. It may cause a malfunction.
 
 ### Luggage Net Holder
-`genesis_g90_en_79fcd5b0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/39dd4ea4bd50270be479fef8d682ecf367732f9bec68e36d0bfd27fc8fb59da8.webp)
 
@@ -6374,13 +5641,10 @@ To help items from shifting in the trunk, you can use the holders located in the
 
 Make sure the luggage net is securely attached to the holders in the trunk.
 
-### WARNING
-`genesis_g90_en_1fa45666` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Avoid eye injury. DO NOT overstretch the luggage net. ALWAYS keep your face and body out of the luggage net's recoil path. DO NOT use the luggage net when the strap has visible signs of wear or damage.
+> ⚠️ **Внимание:** 
+> Avoid eye injury. DO NOT overstretch the luggage net. ALWAYS keep your face and body out of the luggage net's recoil path. DO NOT use the luggage net when the strap has visible signs of wear or damage.
 
 ### 4. Multimedia System
-`genesis_g90_en_2cf748ac` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Multimedia System   .4-2
 USB Port  4-2
@@ -6391,7 +5655,6 @@ DVD Player    4-5
 Bluetooth® Wireless Technology  4-6
 
 ### USB Port
-`genesis_g90_en_8cb13c6a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you install an aftermarket HID head lamp, your vehicle's audio and electronic devices may not function properly. Prevent chemicals such as perfume, cosmetic oil, sun cream, hand cleaner, and air freshener from contacting the interior parts because they may cause damage or discoloration.
 
@@ -6400,19 +5663,16 @@ If you install an aftermarket HID head lamp, your vehicle's audio and electronic
 You can use a USB cable to connect audio devices to the vehicle USB port.
 
 ### Information
-`genesis_g90_en_1c38cc3b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When using a portable audio device connected to the power outlet, noise may occur during playback. If this happens, use the power source of the portable audio device.
 
 ### Glas ante na (2)
-`genesis_g90_en_c285fadb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Your vehicle uses a glass antenna to receive both AM and FM signals.
 
 Do not clean the inside of the rear window glass with a cleaner or scraper to remove foreign deposits as this may cause damage to the antenna elements. To prevent damage to the rear glass antenna, never use sharp instruments or window cleaner containing abrasives to clean the window. Clean the inside surface of the rear glass window with a piece of soft cloth. Avoid adding metallic coatings such as Ni, Cd, etc. These can degrade the receiving AM and FM broadcast signals. When putting a sticker on the inside surface of the rear window, be careful not to damage the rear glass antenna. Do not put sharp instruments nearby the rear glass antenna.
 
 ### SE K/PRESET( / )(2)
-`genesis_g90_en_c9e77e2e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When shortly pressed (under 0.8 seconds)
 
@@ -6424,27 +5684,23 @@ SXM/FM/AM: changes the broadcast frequencies or channels until the button is rel
 Media mode: rewinds or fast forwards the file.
 
 ### MODE (3)
-`genesis_g90_en_5f216210` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press the MODE button to toggle through Radio/Media modes. Only active/available media can be accessed.
 Press and hold the button to turn AV ON/OFF.
 
 ### Voice recognition ( )(5)
-`genesis_g90_en_42c5df21` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press to activate voice recognition
 
 For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### AVN (Audio Video Navigation) System
-`genesis_g90_en_89e4f631` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/14404e91a13d2f203e1c8215635543d68dace9fc5b445fe0d5a07b9891059a78.webp)
 
 For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### DVD Player (if equipped)
-`genesis_g90_en_a18cf458` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/608529189a9621a445fe7ff2f4430842cd34e7e5b16f29607835d034e466fb96.webp)
 
@@ -6453,12 +5709,10 @@ The DVD player is installed in the glove box. If you press the left upper side i
 For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### i Information
-`genesis_g90_en_009e4816` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Video is not available while driving. Video is only available when the vehicle is stopped and the gear is shifted to P (Park).
 
 ### Bluetooth® Wireless Technology
-`genesis_g90_en_d15ea9fe` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/8c36ea180f3b248fa59cb1306753b5a17a89b2c5737faadbb5fe224a04b6bce5.webp)
 
@@ -6469,7 +5723,6 @@ For detailed information, scan the QR code in a separately supplied simple manua
 ![](images/23c1c34a2445fc1135709c063b9ef3b46bfc92c5dae7041e8f82a8429e324876.webp)
 
 ### 5. Driving Your Vehicle
-`genesis_g90_en_8c77a331` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 Before Driving  5-4
 Before Entering the Vehicle  5-4
@@ -6508,7 +5761,6 @@ Emergency Precautions  5-42
 Genesis adaptive control suspension    5-44 Electronic Control Suspension (ECS)   Dynamic Stability Damping Control (DSDC)    5-44 Drive Mode Integrated Control System  5-45 Drive Mode  5-45 Coasting   .5-49 Coasting Setting  5-49 Coasting Operating Conditions  5-49 Coasting Release Conditions  5-50 Forward Collision-Avoidance Assist (FCA) System Sensor Fusion Type (Front Radar + Front Camera)  5-51 System Setting and Operation  5-51 FCA Warning Message and Brake Control  5-53 FCA Sensor (Front Radar/ Front Camera)  5-56 System Malfunction  5-58 Limitations of the System.  5-59 Forward Collision-Avoidance Assist Lane-Change Oncoming Function  5-66 System Setting and Operation 5-66 Limitations of the System.   .5-67 Blind-Spot Collision Warning (BCW)/Blind-Spot CollisionAvoidance Assist (BCA)  5-68 System Description 5-68 System Setting and Operation 5-69 Warning and System Control  5-72
 
 ### 5. Driving Your Vehicle
-`genesis_g90_en_94a576a0` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 Detecting Sensor (Camera and Radar)   ..5-75 System Malfunction  5-77 Limitations of the System  5-78
 Rear Cross-Traffic Collision
@@ -6563,44 +5815,36 @@ Carbon monoxide (CO) gas is toxic. Breathing CO can cause unconsciousness and de
 Engine exhaust contains carbon monoxide which cannot be seen or smelled.
 
 ### Do not inhale engine exhaust.
-`genesis_g90_en_e510b9f0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If at any time you smell engine exhaust inside the vehicle, open the windows immediately. Exposure to CO can cause unconsciousness and death by asphyxiation.
 
 ### Be sure the exhaust system does not leak.
-`genesis_g90_en_09adce31` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The exhaust system should be checked whenever the vehicle is raised to change the oil or for any other purpose. If you hear a change in the sound of the exhaust or if you drive over something that strikes the underneath side of the vehicle, have the exhaust system checked as soon as possible by an authorized retailer of Genesis Branded products.
 
 ### Do not run the engine in an enclosed area.
-`genesis_g90_en_b7b6c711` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Letting the engine idle in your garage, even with the garage door open, is a hazardous practice. Run the engine only long enough to start the engine and to move the vehicle out of the garage.
 
 ### Avoid idling the engine for prolonged periods with people inside the vehicle.
-`genesis_g90_en_e7d88a6b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If it is necessary to idle the engine for a prolonged period with people inside the vehicle, be sure to do so only in an open area with the air intake set at "Fresh" and fan control set to high so fresh air is drawn into the interior.
 
 ### Keep the air intakes clear.
-`genesis_g90_en_d4a00546` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To assure proper operation of the ventilation system, keep the ventilation air intakes located in front of the windshield clear of snow, ice, leaves, or other obstructions.
 
 ### If you must drive with the trunk open:
-`genesis_g90_en_1b43537b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Close all windows.
 Open instrument panel air vents.
 Set the air intake control at "Fresh", the air flow control at "Floor" or "Face", and the fan control set to high.
 
 ### CALIFORNIA PROPOSITION 65 WARNING
-`genesis_g90_en_7030a308` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Engine exhaust and a wide variety of automobile components including components found in the interior furnishings in a vehicle, contain or emit harmful chemicals known to the State of California to cause cancer and birth defects and reproductive harm. In addition, certain fluids contained in vehicles and certain products of components contain or emit chemicals known to the State of California to cause cancer and birth defects or other reproductive harm.
 
 ### Before Entering the Vehicle
-`genesis_g90_en_5fbfd5ad` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Be sure all windows, outside mirror(s), and outside lights are clean and unobstructed.
 Remove frost, snow, or ice.
@@ -6609,7 +5853,6 @@ Check under the vehicle for any sign of leaks.
 Be sure there are no obstacles behind you if you intend to back up.
 
 ### Before Starting
-`genesis_g90_en_792628eb` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Make sure the hood, the trunk, and the doors are securely closed and locked.
 
@@ -6620,52 +5863,44 @@ Fasten your seatbelt. Check that all passengers have fastened their seatbelts.
 Check the gauges and indicators in the instrument panel and the messages on the instrument display when the ignition switch is in the ON position.
 Check that any items you are carrying are stored properly or fastened down securely.
 
-### WARNING
-`genesis_g90_en_73cda5ff` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-To reduce the risk of SERIOUS INJURY or DEATH, take the following precautions:
-
-ALWAYS wear your seat belt. All passengers must be properly belted whenever the vehicle is moving. For more information, refer to "Seat Belts" in chapter 2.
-Always drive defensively.
-Assume other drivers or pedestrians may be careless and make mistakes.
-Stay focused on the task of driving. Driver distraction can cause accidents.
-Leave plenty of space between you and the vehicle in front of you.
-
-NEVER drink or take drugs and drive.
-
-Drinking or taking drugs and driving is dangerous and may result in an accident and SERIOUS INJURY or DEATH.
-Drunk driving is the number one contributor to the highway death toll each year. Even a small amount of alcohol will affect your reflexes, perceptions and judgment. Just one drink can reduce your ability to respond to changing conditions and emergencies and your reaction time gets worse with each additional drink.
-Driving while under the influence of drugs is as dangerous or more dangerous than driving under the influence of alcohol. You are much more likely to have a serious accident if you drink or take drugs and drive. If you are drinking or taking drugs, don't drive. Do not ride with a driver who has been drinking or taking drugs. Choose a designated driver or call a taxi.
+> ⚠️ **Внимание:** 
+> To reduce the risk of SERIOUS INJURY or DEATH, take the following precautions:
+>
+> ALWAYS wear your seat belt. All passengers must be properly belted whenever the vehicle is moving. For more information, refer to "Seat Belts" in chapter 2.
+> Always drive defensively.
+> Assume other drivers or pedestrians may be careless and make mistakes.
+> Stay focused on the task of driving. Driver distraction can cause accidents.
+> Leave plenty of space between you and the vehicle in front of you.
+>
+> NEVER drink or take drugs and drive.
+>
+> Drinking or taking drugs and driving is dangerous and may result in an accident and SERIOUS INJURY or DEATH.
+> Drunk driving is the number one contributor to the highway death toll each year. Even a small amount of alcohol will affect your reflexes, perceptions and judgment. Just one drink can reduce your ability to respond to changing conditions and emergencies and your reaction time gets worse with each additional drink.
+> Driving while under the influence of drugs is as dangerous or more dangerous than driving under the influence of alcohol. You are much more likely to have a serious accident if you drink or take drugs and drive. If you are drinking or taking drugs, don't drive. Do not ride with a driver who has been drinking or taking drugs. Choose a designated driver or call a taxi.
 
 ### ENGINE START/STOP BUTTON
-`genesis_g90_en_3c2bbf2c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/464ebad00f7d73ee060c9b2b774f619e3eda8180dbb4e1e54c1a9ee45e79018f.webp)
 
 Whenever the front door is opened, the Engine Start/Stop button will illuminate and will go off 30 seconds after the door is closed.
 
 ### ！ WARNING
-`genesis_g90_en_fc10162d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To reduce risk of serious injury or death, NEVER allow children or any person who is unfamiliar with the vehicle to touch the Engine Start/Stop button or related parts. Unexpected and sudden vehicle movement can occur.
 
 ### ！ WARNING
-`genesis_g90_en_fa0316f1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To turn the engine off in an emergency:
 
 Press and hold the Engine Start/Stop button for more than two seconds OR rapidly press and release the Engine Start/ Stop button three times (within three seconds).
 If the vehicle is still moving, you can restart the engine without depressing the brake pedal by pressing the Engine Start/Stop button with the shift lever in the N (Neutral) position.
 
-### WARNING
-`genesis_g90_en_ace7f5f8` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
-
-NEVER press the Engine Start/Stop button while the vehicle is in motion except in an emergency. This will result in the engine turning off and loss of power assist for the steering and brake systems. This may lead to loss of directional control and braking function, which could cause an accident. Before leaving the driver's seat, always make sure to press the P button to shift to P (Park), set the parking brake, press the Engine Start/Stop button to the OFF position, and take the Smart Key with you. Unexpected vehicle movement may occur if these precautions are not followed.
-
-NEVER reach through the steering wheel for the Engine Start/Stop button or any other control while the vehicle is in motion. The presence of your hand or arm in this area may cause a loss of vehicle control resulting in an accident.
+> ⚠️ **Внимание:** 
+> NEVER press the Engine Start/Stop button while the vehicle is in motion except in an emergency. This will result in the engine turning off and loss of power assist for the steering and brake systems. This may lead to loss of directional control and braking function, which could cause an accident. Before leaving the driver's seat, always make sure to press the P button to shift to P (Park), set the parking brake, press the Engine Start/Stop button to the OFF position, and take the Smart Key with you. Unexpected vehicle movement may occur if these precautions are not followed.
+>
+> NEVER reach through the steering wheel for the Engine Start/Stop button or any other control while the vehicle is in motion. The presence of your hand or arm in this area may cause a loss of vehicle control resulting in an accident.
 
 ### OF
-`genesis_g90_en_53f5034b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To turn off the engine, press the Engine Start/Stop button with the vehicle shifted to P (Park).
 
@@ -6674,50 +5909,41 @@ Note if the Engine Start/Stop button is pressed with the vehicle shifted to D (D
 If the Engine Start/Stop button is pressed with the vehicle shifted to N (Neutral), the Engine Start/Stop button will go to the ACC position.
 
 ### ACC
-`genesis_g90_en_52105de5` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 Press the Engine Start/Stop button when the button is in the OFF position without depressing the brake pedal.
 
 Some of the electrical accessories are usable. The steering wheel unlocks.
 
 ### i Information
-`genesis_g90_en_e369e13d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you leave the Engine Start/Stop button in the ACC position for more than one hour, the battery power will turn off automatically to prevent the battery from discharging.
 
 ### ON
-`genesis_g90_en_ab7f3a0c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press the Engine Start/Stop button while it is in the ACC position without depressing the brake pedal.
 
 The warning lights can be checked before the engine is started.
 
 ### i Information
-`genesis_g90_en_7a2ec80c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not leave the Engine Start/Stop button in the ON position when the engine is not running to prevent the battery from discharging.
 
 ### START
-`genesis_g90_en_1124867c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To start the engine, depress the brake pedal and press the Engine Start/Stop button with the vehicle shifted to the P (Park) or the N (Neutral) position.
 
 For your safety, start the engine with the vehicle shifted to the P (Park) position.
 
 ### i Information
-`genesis_g90_en_6fc98ef2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you press the Engine Start/Stop button without depressing the brake pedal, the engine does not start and the Engine Start/Stop button changes as follows:
 
 However, the engine may start if you depress the brake pedal within 0.5 second after pressing the Engine Start/ Stop button from the OFF position.
 
-### WARNING
-`genesis_g90_en_2e4fc204` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Always wear appropriate shoes when operating your vehicle. Unsuitable shoes, such as high heels, ski boots, sandals, flip-flops, etc., may interfere with your ability to use the brake and accelerator pedals. Do not start the vehicle with the accelerator pedal depressed. The vehicle can move which can lead to an accident. Wait until the engine rpm is normal. The vehicle may suddenly move if the brake pedal is released when the rpm is high.
+> ⚠️ **Внимание:** 
+> Always wear appropriate shoes when operating your vehicle. Unsuitable shoes, such as high heels, ski boots, sandals, flip-flops, etc., may interfere with your ability to use the brake and accelerator pedals. Do not start the vehicle with the accelerator pedal depressed. The vehicle can move which can lead to an accident. Wait until the engine rpm is normal. The vehicle may suddenly move if the brake pedal is released when the rpm is high.
 
 ### i Information
-`genesis_g90_en_77747a59` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The engine will start by pressing the Engine Start/Stop button, only when the smart key is in the vehicle. Even if the smart key is in the vehicle, if it is far away from the driver, the engine may not start. When the Engine Start/Stop button is in the ACC, ON and START position, if any door is open, the system checks for the smart key. If the smart key is not in the vehicle, the warning "Key not in vehicle" will come on and if all doors are closed, the chime will also sound for about 5 seconds. Keep the smart key in the vehicle.
 
@@ -6728,12 +5954,10 @@ The engine will start by pressing the Engine Start/Stop button, only when the sm
 5. Press the Engine Start/Stop button.
 
 ### i Information
-`genesis_g90_en_5e457970` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not wait for the engine to warm up while the vehicle remains stationary. Start driving at moderate engine speeds. (Steep accelerating and decelerating should be avoided.) Always start the vehicle with your foot on the brake pedal. Do not depress the accelerator while starting the vehicle. Do not race the engine while warming it up.
 
 ### NOTICE
-`genesis_g90_en_cf285c6a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To prevent damage to the vehicle:
 
@@ -6741,7 +5965,6 @@ If the engine stalls while you are in motion, do not attempt to shift the gear t
 Do not push or tow your vehicle to start the engine.
 
 ### NOTICE
-`genesis_g90_en_34818f25` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To prevent damage to the vehicle: When the stop lamp fuse is blown, you can't start the engine normally. Replace the fuse with a new one. If you are not able to replace the fuse, you can start the engine by pressing and holding the Engine Start/Stop button for 10 seconds with the Engine Start/ Stop button in the ACC position. Do not press the Engine Start/ Stop button for more than 10 seconds except when the stop lamp fuse is blown.
 
@@ -6750,19 +5973,16 @@ For your safety always depress the brake pedal before starting the engine.
 ![](images/df9b586bc00f1013737bbf2f83a9980871e71a6d4a8d5db9f87c5a12e5a3740c.webp)
 
 ### i Information
-`genesis_g90_en_578d79e8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the smart key battery is weak or the smart key does not work correctly, you can start the engine by pressing the Engine Start/Stop button with the smart key in the direction of the picture above.
 
 ### Turning Off the Engine
-`genesis_g90_en_6ae4ca59` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Stop the vehicle and depress the brake pedal fully.
 2. Press the P button to shift to P (Park).
 3. Press the Engine Start/Stop button to the OFF position and apply the parking brake.
 
 ### AUTOMATIC TRANSMISSION
-`genesis_g90_en_e34f65c0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/ae7e9329492ae169e0aeee4c65e414374cd74e98d881146f949a501a16772bd7.webp)
 
@@ -6773,41 +5993,34 @@ OHI058010L
 [A] : P button, [B] UNLOCK button, [C] : P release button
 
 ### Automatic Transmission Operation
-`genesis_g90_en_d4b971cb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The automatic transmission has eight forward speeds and one reverse speed.
 The individual speeds are selected automatically in the D (Drive) position.
 
-### WARNING
-`genesis_g90_en_24434d72` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
-
-To reduce the risk of serious injury or death:
-
-ALWAYS check the surrounding areas near your vehicle for people, especially children, before shifting a vehicle into D (Drive) or R (Reverse). Before leaving the driver's seat, always make sure the the vehicle is shifted to the P (Park) position, then apply the parking brake, and place the Engine Start/Stop button in the OFF position. Unexpected and sudden vehicle movement can occur if these precautions are not followed. When using the paddle shifter (manual shift mode), do not use engine braking (shifting from a high gear to lower gear) rapidly on slippery roads. The vehicle may slip causing an accident.
-
-P (Park)
-
-![](images/3135116936206dad5ee8c027f3115adb77ff6b9d9a4f0894de5f595c23c778e2.webp)
-
-Always come to a complete stop before shifting into P (Park).
-
-To shift the gear from R (Reverse), N (Neutral), D (Drive) or Manual mode to P (Park), press the P button.
-If you turn off the engine in D (Drive), R (Reverse) or Manual shift mode the shifting automatically changes to P (Park).
-When you park the vehicle, press the P button while depressing the brake pedal and then apply the parking brake.
+> ⚠️ **Внимание:** 
+> To reduce the risk of serious injury or death:
+>
+> ALWAYS check the surrounding areas near your vehicle for people, especially children, before shifting a vehicle into D (Drive) or R (Reverse). Before leaving the driver's seat, always make sure the the vehicle is shifted to the P (Park) position, then apply the parking brake, and place the Engine Start/Stop button in the OFF position. Unexpected and sudden vehicle movement can occur if these precautions are not followed. When using the paddle shifter (manual shift mode), do not use engine braking (shifting from a high gear to lower gear) rapidly on slippery roads. The vehicle may slip causing an accident.
+>
+> P (Park)
+>
+> ![](images/3135116936206dad5ee8c027f3115adb77ff6b9d9a4f0894de5f595c23c778e2.webp)
+>
+> Always come to a complete stop before shifting into P (Park).
+>
+> To shift the gear from R (Reverse), N (Neutral), D (Drive) or Manual mode to P (Park), press the P button.
+> If you turn off the engine in D (Drive), R (Reverse) or Manual shift mode the shifting automatically changes to P (Park).
+> When you park the vehicle, press the P button while depressing the brake pedal and then apply the parking brake.
 
 ### Transmis ion ranges
-`genesis_g90_en_1df48453` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The indicator in the instrument cluster displays the gear position when the Engine Start/Stop button is in the ON position.
 
-### WARNING
-`genesis_g90_en_e34b9a62` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Shifting into P (Park) while the vehicle is in motion may cause you to lose control of the vehicle.
-After the vehicle has stopped, always make sure the vehicle is in P (Park), apply the parking brake, and turn the engine off. When parking on an incline, shift the gear to P (Park) and apply the parking brake to prevent the vehicle from rolling downhill.
+> ⚠️ **Внимание:** 
+> Shifting into P (Park) while the vehicle is in motion may cause you to lose control of the vehicle.
+> After the vehicle has stopped, always make sure the vehicle is in P (Park), apply the parking brake, and turn the engine off. When parking on an incline, shift the gear to P (Park) and apply the parking brake to prevent the vehicle from rolling downhill.
 
 ### N (Neutral)
-`genesis_g90_en_f01dadb7` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/06b4b4964ef8f912ef9a7f49057176e6d80a827c068126e8b88a94ccca85824c.webp)
 
@@ -6831,15 +6044,12 @@ To turn off the engine from the ACC position, press the Engine Start/Stop button
 
 When either the driver's door or the front passenger's door is opened with the Engine Start/Stop button in the ACC position and the shift lever in N (Neutral) position, the engine is automatically turned OFF and the transmission automatically changes to the P (Park) position.
 
-### WARNING
-`genesis_g90_en_759e5f03` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Do not drive with the shift lever in N (Neutral). If the shift lever is moved to N (Neutral) while driving, the vehicle loses the ability to provide engine braking. Doing so may increase the risk of an accident. Also, moving the shift lever back to D (Drive) while the vehicle is moving may severely damage the transmission.
-
-![](images/9b3615b0d6e6a5f3c543bb6b7ccd2d8cf1d07d23fa0515b6ac43bda173c68091.webp)
+> ⚠️ **Внимание:** 
+> Do not drive with the shift lever in N (Neutral). If the shift lever is moved to N (Neutral) while driving, the vehicle loses the ability to provide engine braking. Doing so may increase the risk of an accident. Also, moving the shift lever back to D (Drive) while the vehicle is moving may severely damage the transmission.
+>
+> ![](images/9b3615b0d6e6a5f3c543bb6b7ccd2d8cf1d07d23fa0515b6ac43bda173c68091.webp)
 
 ### D (Drive)
-`genesis_g90_en_def21a0e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This is the normal driving position. The transmission will automatically shift through an 8-gear sequence, providing the best fuel economy and power.
 
@@ -6850,7 +6060,6 @@ To shift into D (Drive), depress the brake pedal and press the UNLOCK button on 
 To shift into D (Drive) from N (Neutral), you must depress the brake pedal.
 
 ### Shift-lock System
-`genesis_g90_en_0d3e8f63` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 For your safety, the automatic transmission has a shift-lock system which prevents shifting the transmission from P (Park) into R (Reverse) or D (Drive) unless the UNLOCK button is pressed while depressing the brake pedal.
 
@@ -6860,7 +6069,6 @@ To shift from P (Park) into R (Reverse) or D (Drive):
 3. Move the shift lever to R (Reverse) or D (Drive) while pressing the UNLOCK button.
 
 ### When the Battery is Discharged
-`genesis_g90_en_b91e1dfe` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/67179b65d72822188bff7b7c62596168ae5f5d8e63199986d649725b60a0ba7d.webp)
 
@@ -6879,22 +6087,18 @@ For more details, refer to "Jump Starting" in chapter 6.
 4. Remove the cap-cover (1) and press the P release button (2) while depressing the brake pedal. Then, the gear will change to the N (Neutral) position. The button (2) operates only for 20 seconds to change the gear between P (Park) and N (Neutral) from the time when the button (2) is first pressed.
 
 ### i Information
-`genesis_g90_en_0e0c59d7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 In situations when the gear needs to be shifted from P (Park) to N (Neutral) when the Engine Start/Stop button is in the OFF position, refer to step 4.
 
 ### Parking
-`genesis_g90_en_a599d30f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Always come to a complete stop and continue to depress the brake pedal. Shift the vehicle into the P (Park) position, apply the parking brake, and place the Engine Start/Stop button in the OFF position. Take the Key with you when exiting the vehicle.
 
 ### ！ WARNING
-`genesis_g90_en_6b318a0e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When you stay in the vehicle with the engine running, be careful not to depress the accelerator pedal for a long period of time. The engine or exhaust system may overheat and start a fire. The exhaust gas and the exhaust system are very hot. Keep away from the exhaust system components. Do not stop or park over flammable materials, such as dry grass, paper or leaves. They may ignite and cause a fire.
 
 ### Paddle Shifter (Manual Shift Mode)
-`genesis_g90_en_5bc7aac7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/f22d3e607276cf1f947abb4cd4cf0cca68882e9aafe634165d1a27706592b402.webp)
 
@@ -6910,7 +6114,6 @@ Drive the vehicle under 4 mph (7 km/h).
 Pull and hold the right side paddle shifter.
 
 ### LCD Display Messages
-`genesis_g90_en_18e31c7e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Shifter system malfunction
 
@@ -6919,7 +6122,6 @@ Shifter system malfunction
 The message appears on the cluster LCD display when the transmission or the shift lever does not properly operate in the P (Park) position. Immediately have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Check shift lever
-`genesis_g90_en_cc2fdcad` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/b44fe286da9afcca8dba164b46e2ae3887e10a036d0320a257423c81cbbd91ba.webp)
 
@@ -6928,7 +6130,6 @@ The message appears on the cluster LCD display when there is a malfunction with 
 Immediately have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Shifting conditions not met
-`genesis_g90_en_de20cb38` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/f2f0be4b2b365c21e819108dab5fb109d175bc13f02f1cf3bf79dbee826effdd.webp)
 
@@ -6937,7 +6138,6 @@ The message appears on the cluster LCD display when engine rpm is too high, or w
 Decrease the vehicle speed or slow down before shifting the gear.
 
 ### Pres brake pedal to change gear
-`genesis_g90_en_2a8d55e8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/706ba9f63d80328fd5c6fd0bba3e394bf99f7ad8f9a53cc9c743901f3fac4e89.webp)
 
@@ -6946,7 +6146,6 @@ The message appears on the cluster LCD display when the brake pedal is not depre
 Depress the brake pedal and then shift the gear.
 
 ### Check P buton
-`genesis_g90_en_fbb4222f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/003eb2a68550fc8573b2a43ca0d40e293b4222e210695d474590ea3c75a619a8.webp)
 
@@ -6961,14 +6160,12 @@ The message appears on the cluster LCD display when there is problem with the P 
 Immediately have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Pres Pforpark
-`genesis_g90_en_b8b672cb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/330700e4952127c9d73009fca7d9c71886fa959d0545b38561548a3f9df3c2e3.webp)
 
 The message appears on the cluster LCD display to inform the driver to press the P button to shift to P (Park) when the driver moves the shift lever upward even though the gear is in R (Reverse).
 
 ### Pres brakepedal, thenpres P RELEASE buton
-`genesis_g90_en_4ff26900` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/a1b095ef7e07fb5c4d4c61948c21fe08fc9afc068eca850bb2ad6c30b6f1d14a.webp)
 
@@ -6977,7 +6174,6 @@ The message appears on the cluster LCD display when the driver presses the P REL
 Depress the brake pedal before pressing the P RELEASE button.
 
 ### Check P RELEASE buton
-`genesis_g90_en_5290ea1d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/a69735c4c870c2962b8a5f8462172d361592696639b5c01718b62c67f26696ea.webp)
 
@@ -6993,21 +6189,18 @@ The message appears on the cluster LCD display when the UNLOCK button is not pre
 Press the UNLOCK button and then shift the gear.
 
 ### PARK engaged
-`genesis_g90_en_1e4c7f97` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/7a5d0d393f9c3f23282932ad5abbfc25cf3c7ea631b86bc2dcaae0d5f2f46905.webp)
 
 The message appears on the cluster LCD display when the P (Park) position is engaged.
 
 ### NEUTRAL engaged
-`genesis_g90_en_01280570` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/d2ee4bc716e7e1978ecbe01b773ccf3fe6929fb3ff0ec647cd04874203d82bfb.webp)
 
 The message appears on the cluster LCD display when the N (Neutral) position is engaged.
 
 ### Good Driving Practices
-`genesis_g90_en_a7d703eb` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 Never shift from P (Park) or N (Neutral) to any other position with the accelerator pedal depressed. Never shift into P (Park) when the vehicle is in motion.
 Be sure the vehicle is completely stopped before you attempt to shift into R (Reverse) or D (Drive).
@@ -7019,7 +6212,6 @@ Exercise extreme caution when driving on a slippery surface. Be especially caref
 Optimum vehicle performance and economy is obtained by smoothly depressing and releasing the accelerator.
 
 ### i Information Kickdown Mechanism
-`genesis_g90_en_31af212a` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 To reduce the risk of SERIOUS INJURY or DEATH:
 
@@ -7034,7 +6226,6 @@ Genesis Branded Vehicle recommends you follow all posted speed limits.
 Use the kickdown mechanism for maximum acceleration. Depress the accelerator pedal beyond the pressure point. The automatic transmission will shift to a lower gear depending on the engine speed.
 
 ### Power Brakes
-`genesis_g90_en_ae4b0a0b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Your vehicle has power-assisted brakes that adjust automatically through normal usage.
 
@@ -7045,7 +6236,6 @@ When the engine is not running, the reserve brake power is partially depleted ea
 Pump the brake pedal only when necessary to maintain steering control on slippery surfaces.
 
 ### Take the following precautions:
-`genesis_g90_en_504ad8b8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not drive with your foot resting on the brake pedal. This will create abnormal high brake temperatures, excessive brake lining and pad wear, and increased stopping distances.
 When descending down a long or steep hill, move the gear shift lever to Manual Shift Mode and manually downshift to a lower gear in order to control your speed without using the brake pedal excessively. Applying the brakes continuously will cause the brakes to overheat and could result in a temporary loss of braking performance.
@@ -7053,14 +6243,12 @@ When descending down a long or steep hill, move the gear shift lever to Manual S
 Wet brakes may impair the vehicle's ability to safely slow down; the vehicle may also pull to one side when the brakes are applied. Applying the brakes lightly will indicate whether they have been affected in this way. Always test your brakes in this fashion after driving through deep water. To dry the brakes, lightly tap the brake pedal to heat up the brakes while maintaining a safe forward speed until brake performance returns to normal. Avoid driving at high speeds until the brakes function correctly.
 
 ### Disc Brakes Wear Indicator
-`genesis_g90_en_fb95cdfc` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When your brake pads are worn and new pads are required, you will hear a high pitched warning sound from your front or rear brakes. You may hear this sound come and go or it may occur whenever you depress the brake pedal.
 
 Note that some driving conditions or climates may cause a brake squeal when you first apply (or lightly apply) the brakes. This is normal and does not indicate a problem with your brakes.
 
 ### Electronic Parking Brake (EPB)
-`genesis_g90_en_a98d57cc` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Ap lying the parking brake
 
@@ -7070,13 +6258,10 @@ To apply the EPB (Electronic Parking Brake):
 
 1. Depress the brake pedal. 2. Pull the EPB switch towards you. Make sure the Parking Brake Warning Light comes on.
 
-### WARNING
-`genesis_g90_en_3d071b07` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-To reduce the risk of SERIOUS INJURY or DEATH, do not operate the EPB while the vehicle is moving except in an emergency situation. It could damage the brake system and lead to an accident.
+> ⚠️ **Внимание:** 
+> To reduce the risk of SERIOUS INJURY or DEATH, do not operate the EPB while the vehicle is moving except in an emergency situation. It could damage the brake system and lead to an accident.
 
 ### Releasing theparking brake
-`genesis_g90_en_629803d9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/65cd6ada6604b57e01e5a493c36528f1b7ba1a2e26cb440c2640e6f33163167e.webp)
 
@@ -7085,7 +6270,6 @@ To release the EPB (Electronic Parking Brake):
 Place the Engine Start/Stop button in the ON or START position. Depress the brake pedal. Press the EPB switch. Make sure the Parking Brake Warning Light goes off.
 
 ### To release EPB (Electronic Parking Brake) automatically:
-`genesis_g90_en_8d7d2839` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 Gear in P (Park)
 With the engine running depress
@@ -7104,12 +6288,10 @@ Satisfy the following conditions
 Make sure the Parking Brake Warning light goes off.
 
 ### i Information
-`genesis_g90_en_ce86b146` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 For your safety, you can engage the EPB even though the Engine Stop/ Start button is in the OFF position (only if battery power is available), but you cannot release it. For your safety, depress the brake pedal and release the parking brake manually with the EPB switch when you drive downhill or when backing up the vehicle.
 
 ### NOTICE
-`genesis_g90_en_9cd497f4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the parking brake warning light is still on even though the EPB has been released, have your vehicle checked by an authorized retailer of Genesis Branded products.
 Do not drive your vehicle with the EPB applied. It may cause excessive brake pad and brake rotor wear.
@@ -7119,7 +6301,6 @@ EPB (Electronic Parking Brake) may be automatically applied when:
 Requested by other systems The driver turns the engine off while Auto Hold is operating.
 
 ### Warning mes ages
-`genesis_g90_en_7079101d` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 ![](images/e093f6f8814a7fcf6de08fd4022d4f70d1f22c7202af8edc85eef2ddac2414f4.webp)
 
@@ -7131,13 +6312,10 @@ If there is a problem with the vehicle, a warning may sound and a message may ap
 
 If the situation occurs, depress the brake pedal and release EPB by pressing the EPB switch.
 
-### WARNING
-`genesis_g90_en_7bc04eb2` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
-
-Whenever leaving the vehicle or parking, always come to a complete stop and continue to depress the brake pedal. Move the shift lever into the P (Park) position, press the EPB switch, and press the Engine Start/Stop button to the OFF position. Take the Smart Key with you when exiting the vehicle. Vehicles not fully engaged in P (Park) with the parking brake set are at risk for moving inadvertently and causing injury to yourself or others. NEVER allow anyone who is unfamiliar with the vehicle to touch the EPB switch. If the EPB is released unintentionally, serious injury may occur. Only release the EPB when you are seated inside the vehicle with your foot firmly on the brake pedal.
+> ⚠️ **Внимание:** 
+> Whenever leaving the vehicle or parking, always come to a complete stop and continue to depress the brake pedal. Move the shift lever into the P (Park) position, press the EPB switch, and press the Engine Start/Stop button to the OFF position. Take the Smart Key with you when exiting the vehicle. Vehicles not fully engaged in P (Park) with the parking brake set are at risk for moving inadvertently and causing injury to yourself or others. NEVER allow anyone who is unfamiliar with the vehicle to touch the EPB switch. If the EPB is released unintentionally, serious injury may occur. Only release the EPB when you are seated inside the vehicle with your foot firmly on the brake pedal.
 
 ### NOTICE
-`genesis_g90_en_583ea7e2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not apply the accelerator pedal while the parking brake is engaged. If you depress the accelerator pedal with the EPB engaged, a warning will sound and a message will appear.
 Damage to the parking brake may occur.
@@ -7146,14 +6324,12 @@ Driving with the parking brake on can overheat the braking system and cause prem
 ![](images/2790d047d0a6ded0b294a6954a72af1ccedd116ee7bce422b4e37251cc56ac0a.webp)
 
 ### AUTO HOLD turning Off!
-`genesis_g90_en_8f1e42a4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Press brake pedal
 
 When the conversion from Auto Hold to EPB is not working properly a warning will sound and a message will appear.
 
 ### i Information
-`genesis_g90_en_ca1e72e4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A clicking sound may be heard while operating or releasing the EPB. These conditions are normal and indicate that the EPB is functioning properly.
 When leaving your keys with a parking lot attendant or valet, make sure to inform him/her how to operate the EPB.
@@ -7161,7 +6337,6 @@ When leaving your keys with a parking lot attendant or valet, make sure to infor
 ![](images/8bf69a4adfa73dba8ffaf23b59dffc127dd5a0c2e55ee2d1da4367000dab96b5.webp)
 
 ### EPB malfunction indicator
-`genesis_g90_en_84c9e46e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/67940d42c50636ae52da9be3c5d4656e019acf328ea41cafd46fc082179a4b82.webp)
 
@@ -7174,7 +6349,6 @@ If this occurs, have the system checked by an authorized retailer of Genesis Bra
 The EPB malfunction indicator may illuminate when the ESC indicator comes on to indicate that the ESC is not working properly, but it does not indicate a malfunction of the EPB.
 
 ### NOTICE
-`genesis_g90_en_2bc1fbaa` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the EPB warning light is still on, have the system checked by an authorized retailer of Genesis Branded products.
 If the parking brake warning light does not illuminate or blinks even though the EPB switch was pulled up, the EPB may not be applied.
@@ -7182,7 +6356,6 @@ If the parking brake warning light does not illuminate or blinks even though the
 If the parking brake warning light blinks when the EPB warning light is on, press the EPB switch, then pull it up. Once more, press the switch back to its original position and pull it back up. If the EPB warning light does not go off, have your vehicle checked by an authorized retailer of Genesis Branded products.
 
 ### Parking Brake Warning Light
-`genesis_g90_en_8ea61975` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 (O)P) BRAKE
 
@@ -7197,32 +6370,25 @@ If the Parking Brake Warning Light remains on after the parking brake is release
 If at all possible, cease driving the vehicle immediately. If that is not possible, use extreme caution while operating the vehicle and only continue to drive the vehicle until you can reach a safe location.
 
 ### Emergency braking
-`genesis_g90_en_0f0a3bd5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If there is a problem with the brake pedal while driving, emergency braking is possible by pulling up and holding the EPB switch. Braking is possible only while you are holding the EPB switch. However, braking distance will be longer than normal.
 
-### WARNING
-`genesis_g90_en_96e6809e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Do not operate the parking brake while the vehicle is moving except in an emergency situation. It could damage the brake system and lead to a severe accident.
+> ⚠️ **Внимание:** 
+> Do not operate the parking brake while the vehicle is moving except in an emergency situation. It could damage the brake system and lead to a severe accident.
 
 ### i Information
-`genesis_g90_en_7f3cccd2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 During emergency braking the parking brake warning light will illuminate to indicate that the system is operating.
 
 ### NOTICE
-`genesis_g90_en_ab3066bc` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you continuously notice a noise or burning smell when EPB is used for emergency braking, have your vehicle checked by an authorized retailer of Genesis Branded products as soon as possible.
 
 ### When the EPB (Electronic Parking Brake) does not release
-`genesis_g90_en_b16b4b48` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the EPB does not release normally, contact an authorized retailer of Genesis Branded products by loading the vehicle on a flatbed tow truck and have the system checked.
 
 ### Auto Hold
-`genesis_g90_en_6314c076` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Auto Hold maintains the vehicle in a standstill even though the brake pedal is not depressed after the driver brings the vehicle to a complete stop by depressing the brake pedal.
 
@@ -7239,33 +6405,26 @@ To ap ly:
 4. If EPB is applied, Auto Hold will be released.
 
 ### To release:
-`genesis_g90_en_240d13e6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you depress the accelerator pedal with the shift lever in D (Drive) or Manual shift mode, the Auto Hold will be released automatically and the vehicle will start to move. The AUTO HOLD indicator changes from green to white. If the vehicle is restarted using the cruise control toggle switch (RES+ or SET-) while Auto Hold and cruise control is operating, the Auto Hold will be released regardless of accelerator pedal operation. The AUTO HOLD indicator changes from green to white.
 
-### WARNING
-`genesis_g90_en_d1cf54d0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-When the AUTO HOLD is automatically released by depressing the accelerator pedal, always take a look around your vehicle. Slowly depress the accelerator pedal for a smooth start.
+> ⚠️ **Внимание:** 
+> When the AUTO HOLD is automatically released by depressing the accelerator pedal, always take a look around your vehicle. Slowly depress the accelerator pedal for a smooth start.
 
 ### To cancel:
-`genesis_g90_en_d39f9ce1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/72190cce88701574e99c3c4b462f6904bd178a5ed11bd16b37a9633c37e06bda.webp)
 
 1. Depress the brake pedal. 2. Press the [AUTO HOLD] switch. The AUTO HOLD indicator will turn off.
 
-### WARNING
-`genesis_g90_en_d8420ca3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-To prevent, unexpected and sudden vehicle movement, ALWAYS depress your foot on the brake pedal to cancel the Auto Hold before you:
-
-Drive downhill.
-Drive the vehicle in R (Reverse).
-Park the vehicle.
+> ⚠️ **Внимание:** 
+> To prevent, unexpected and sudden vehicle movement, ALWAYS depress your foot on the brake pedal to cancel the Auto Hold before you:
+>
+> Drive downhill.
+> Drive the vehicle in R (Reverse).
+> Park the vehicle.
 
 ### NOTICE
-`genesis_g90_en_e3268c81` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Auto Hold does not operate when:
 
@@ -7273,29 +6432,24 @@ The driver's door is opened The engine hood is opened The trunk is opened The ge
 
 If the AUTO HOLD indicator changes to yellow, the Auto Hold is not working properly. Contact an authorized retailer of Genesis Branded products.
 
-### WARNING
-`genesis_g90_en_76153cf2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-For your safety, the Auto Hold automatically switches to EPB when:
-
-Depress the accelerator pedal slowly when you start the vehicle. For your safety, cancel the Auto Hold when you drive downhill, back up the vehicle or park the vehicle.
-
-The driver's door is opened The engine hood is opened with the shift lever in D (Drive) The vehicle is in a standstill for more than 10 minutes The vehicle is standing on a steep slope The vehicle moved several times In these cases, the parking brake warning light comes on, the AUTO HOLD indicator changes from green to white, and warning sounds and a message will appear to inform you that EPB has been automatically engaged. Before driving again, depress the brake pedal, check the surrounding area near your vehicle and release the parking brake manually with the EPB switch. While operating Auto Hold, you may hear mechanical noise. However, it is normal operating noise.
+> ⚠️ **Внимание:** 
+> For your safety, the Auto Hold automatically switches to EPB when:
+>
+> Depress the accelerator pedal slowly when you start the vehicle. For your safety, cancel the Auto Hold when you drive downhill, back up the vehicle or park the vehicle.
+>
+> The driver's door is opened The engine hood is opened with the shift lever in D (Drive) The vehicle is in a standstill for more than 10 minutes The vehicle is standing on a steep slope The vehicle moved several times In these cases, the parking brake warning light comes on, the AUTO HOLD indicator changes from green to white, and warning sounds and a message will appear to inform you that EPB has been automatically engaged. Before driving again, depress the brake pedal, check the surrounding area near your vehicle and release the parking brake manually with the EPB switch. While operating Auto Hold, you may hear mechanical noise. However, it is normal operating noise.
 
 ### NOTICE
-`genesis_g90_en_cde165b7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If there is a malfunction with the driver's door or engine hood open detection system, the Auto Hold may not work properly. Contact an authorized retailer of Genesis Branded products.
 
 ### Warning mes ages
-`genesis_g90_en_8d91aa3f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/004849dee60ef76d1fa4a2108508e1d22cbb110b4e5a55aa63d5112ecec76286.webp)
 
 ![](images/07615091afb794a8cc9c510673a8d6489dbb56c4b2fd63871f6a1315ff796519.webp)
 
 ### Parking brake automatically engaged
-`genesis_g90_en_56bd0478` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the EPB is applied from Auto Hold, a warning will sound and a message will appear.
 
@@ -7306,7 +6460,6 @@ If you did not apply the brake pedal when you release the Auto Hold by pressing 
 ![](images/4773887c5e57a030f0808cf270d2284ecf6a8fdc5831af29506b41eea94f9f13.webp)
 
 ### AUTO HOLD conditions not met. Close door and hood
-`genesis_g90_en_f60fc317` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the conversion from Auto Hold to EPB is not working properly a warning will sound and a message will appear.
 
@@ -7316,23 +6469,20 @@ When you press the [AUTO HOLD] switch, if the driver's door and engine hood are 
 
 Press the [AUTO HOLD] switch after closing the driver's door and hood.
 
-### WARNING
-`genesis_g90_en_f3acfc63` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
-
-An Anti-Lock Braking System (ABS) or an Electronic Stability Control (ESC) system will not prevent accidents due to improper or dangerous driving maneuvers. Even though vehicle control is improved during emergency braking, always maintain a safe distance between you and objects ahead of you. Vehicle speeds should always be reduced during extreme road conditions. The braking distance for vehicles equipped with ABS or ESC may be longer than for those without these systems in the following road conditions.
-
-Drive your vehicle at reduced speeds during the following conditions:
-
-Rough, gravel or snow-covered roads.
-On roads where the road surface is pitted or has different surface height.
-Tire chains are installed on your vehicle.
-
-The safety features of an ABS or ESC equipped vehicle should not be tested by high speed driving or cornering. This could endanger the safety of yourself or others.
-
-ABS is an electronic braking system that helps prevent a braking skid. ABS allows the driver to steer and brake at the same time.
+> ⚠️ **Внимание:** 
+> An Anti-Lock Braking System (ABS) or an Electronic Stability Control (ESC) system will not prevent accidents due to improper or dangerous driving maneuvers. Even though vehicle control is improved during emergency braking, always maintain a safe distance between you and objects ahead of you. Vehicle speeds should always be reduced during extreme road conditions. The braking distance for vehicles equipped with ABS or ESC may be longer than for those without these systems in the following road conditions.
+>
+> Drive your vehicle at reduced speeds during the following conditions:
+>
+> Rough, gravel or snow-covered roads.
+> On roads where the road surface is pitted or has different surface height.
+> Tire chains are installed on your vehicle.
+>
+> The safety features of an ABS or ESC equipped vehicle should not be tested by high speed driving or cornering. This could endanger the safety of yourself or others.
+>
+> ABS is an electronic braking system that helps prevent a braking skid. ABS allows the driver to steer and brake at the same time.
 
 ### Using ABS
-`genesis_g90_en_08487746` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 To obtain the maximum benefit from your ABS in an emergency situation, do not attempt to modulate your brake pressure and do not try to pump your brakes. Depress your brake pedal as hard as possible.
 
@@ -7351,42 +6501,35 @@ On loose or uneven road surfaces, operation of the anti-lock brake system may re
 The ABS warning light ( ) will stay on for several seconds after the ignition switch is in the ON position. During that time, the ABS will go through self-diagnosis and the light will go off if everything is normal. If the light stays on, you may have a problem with your ABS. Contact an authorized retailer of Genesis Branded products as soon as possible.
 
 ### ！ WARNING
-`genesis_g90_en_969755a1` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 If the ABS warning light ( is on and stays on, you may have a problem with the ABS. Your power brakes will work normally. To reduce the risk of serious injury or death, contact your authorized retailer of Genesis Branded products as soon as possible.
 
 ### NOTICE
-`genesis_g90_en_4f5527c9` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 When you drive on a road having poor traction, such as an icy road, and apply your brakes continuously, the ABS will be active continuously and the ABS warning light ( may illuminate. Pull your vehicle over to a safe place and turn the engine off.
 Restart the engine. If the ABS warning light is off, then your ABS system is normal.
 Otherwise, you may have a problem with your ABS system. Contact an authorized retailer of Genesis Branded products as soon as possible.
 
 ### Information
-`genesis_g90_en_91c8a29b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When you jump start your vehicle because of a drained battery, the ABS warning light ( may turn on at the same time. This happens because of the low battery voltage. It does not mean your ABS is malfunctioning. Have the battery recharged before driving the vehicle.
 
 ### Electronic Stability Control (ESC)
-`genesis_g90_en_153c29d7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/899c0fe3825286b659f713d4d09add2121c3332834effb9dbca1c14bd178d6ed.webp)
 
 The Electronic Stability Control (ESC) system helps to stabilize the vehicle during cornering maneuvers. ESC checks where you are steering and where the vehicle is actually going. ESC applies braking pressure to any one of the vehicle's brakes and intervenes in the engine management system to assist the driver with keeping the vehicle on the intended path. It is not a substitute for safe driving practices. Always adjust your speed and driving to the road conditions.
 
 ### A WARNING
-`genesis_g90_en_4e955192` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Never drive too fast for the road conditions when cornering. The ESC system will not prevent accidents.
 Excessive speed in turns, abrupt maneuvers, and hydroplaning on wet surfaces can result in severe accidents.
 
 ### ESC ON condition
-`genesis_g90_en_9e41de72` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the ignition switch is in the ON position, the ESC and the ESC OFF indicator lights illuminate for approximately three seconds. After both lights go off, the ESC is enabled.
 
 ### When operating
-`genesis_g90_en_a2e20d7d` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 ![](images/fbef7d53b0f0dc9034c59acadf63ef2be37c62d30a6a31c68f870aa560e61cac.webp)
 
@@ -7400,7 +6543,6 @@ When moving out of the mud or driving on a slippery road, the engine RPM (revolu
 you press deeply. This is to maintain the stability and traction of the vehicle and does not indicate a problem.
 
 ### ESC OFF condition
-`genesis_g90_en_551a361e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To cancel ESC operation:
 
@@ -7422,7 +6564,6 @@ If the Engine Start/Stop button is pressed to the OFF position when ESC is off, 
 ![](images/b0b5a69716ed769c4c2fadc77c08908eee3946d92a8a64f2127293ad7b10130e.webp)
 
 ### Indicator lights
-`genesis_g90_en_f9b0cfe2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the Engine Start/Stop button is placed to the ON position, the ESC indicator light illuminates, then goes off if the ESC system is operating normally.
 
@@ -7433,24 +6574,20 @@ If ESC indicator light stays on, your vehicle may have a malfunction with the ES
 The ESC OFF indicator light comes on when ESC is turned off.
 
 ### ！ WARNING
-`genesis_g90_en_b15783ff` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the ESC is blinking, this indicates ESC is active: Drive slowly and NEVER attempt to accelerate. NEVER turn the ESC off while the ESC indicator light is blinking or you may lose control of the vehicle resulting in an accident.
 
 ### NOTICE
-`genesis_g90_en_21bcfe35` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Driving with wheel and tire sizes different than original-equipment may cause the ESC system to malfunction. Before replacing tires, make sure all four tires and wheels are the same as the original size. Never drive the vehicle with different sized wheels and tires installed.
 
 ### When Driving
-`genesis_g90_en_41db097e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The ESC OFF mode should only be used briefly to help free the vehicle if stuck in snow or mud, by temporarily stopping operation of the ESC, to maintain wheel torque.
 
 To turn ESC off while driving, press the ESC OFF button while driving on a flat road surface.
 
 ### NOTICE
-`genesis_g90_en_76f58f98` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 To prevent damage to the transmission:
 
@@ -7458,12 +6595,10 @@ Do not allow wheel(s) of one axle to spin excessively while the ESC, ABS, and pa
 When operating the vehicle on a dynamometer, make sure the ESC is turned off (ESC OFF light illuminated).
 
 ### Vehicle Stability Management (VSM)
-`genesis_g90_en_05726b0e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Vehicle Stability Management (VSM) is a function of the Electronic Stability Control (ESC) system. It helps the vehicle stay stable when accelerating or braking suddenly on wet, slippery and rough roads where traction over the four tires can suddenly become uneven.
 
 ### ！ WARNING
-`genesis_g90_en_4d9daf81` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Take the following precautions when using the Vehicle Stability Management (VSM):
 
@@ -7471,7 +6606,6 @@ ALWAYS check the speed and the distance to the vehicle ahead. The VSM is not a s
 Never drive too fast for the road conditions. The VSM system will not prevent accidents. Excessive speed in bad weather, slippery and uneven roads can result in severe accidents.
 
 ### VSM operation
-`genesis_g90_en_3d320bc3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 VSM ON condition
 
@@ -7482,12 +6616,10 @@ Vehicle speed is approximately above 9 mph (15 km/h) on curve roads.
 Vehicle speed is approximately above 12 mph (20 km/h) when the vehicle is braking on rough roads.
 
 ### When operating
-`genesis_g90_en_a8431531` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 When you apply your brakes under conditions which may activate the ESC, you may hear sounds from the brakes, or feel a corresponding sensation in the brake pedal. This is normal and it means your VSM is active.
 
 ### NOTICE
-`genesis_g90_en_0590bff4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The VSM does not operate when:
 
@@ -7496,66 +6628,55 @@ Driving in reverse.
 The ESC OFF indicator light is on.
 The MDPS (Motor-Driven Power Steering) warning light ( ) is on or blinks.
 
-### WARNING
-`genesis_g90_en_3c597c71` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-If the ESC indicator light ( ) or MDPS warning light ( ) stays on or blinks, your vehicle may have a malfunction with the VSM system. When the warning light illuminates, have your vehicle checked by an authorized retailer of Genesis Branded products as soon as possible.
-
-Driving with wheel and tire sizes different than original-equipment may cause the ESC system to malfunction. Before replacing tires, make sure all four tires and wheels are the same as the original size. Never drive the vehicle with different sized tires and wheels installed.
+> ⚠️ **Внимание:** 
+> If the ESC indicator light ( ) or MDPS warning light ( ) stays on or blinks, your vehicle may have a malfunction with the VSM system. When the warning light illuminates, have your vehicle checked by an authorized retailer of Genesis Branded products as soon as possible.
+>
+> Driving with wheel and tire sizes different than original-equipment may cause the ESC system to malfunction. Before replacing tires, make sure all four tires and wheels are the same as the original size. Never drive the vehicle with different sized tires and wheels installed.
 
 ### Hill-Start Assist Control (HAC)
-`genesis_g90_en_051093a7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Hill-Start Assist Control (HAC) helps prevent the vehicle from rolling backwards when starting a vehicle from a stop on a hill. The system operates the brakes automatically for approximately 2 seconds and releases the brake after 2 seconds or when the accelerator pedal is depressed.
 
 ### ！ WARNING
-`genesis_g90_en_3a1f3fff` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Always be ready to depress the accelerator pedal when starting off on a incline. The HAC activates only for approximately 2 seconds.
 
 ### NOTICE
-`genesis_g90_en_7ad3e6c3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The HAC does not operate when the gear is shifted to P (Park) or N (Neutral).
 The HAC activates even though the ESC (Electronic Stability Control) is off but does not activate when the ESC has malfunctioned.
 
-### WARNING
-`genesis_g90_en_068a2a8d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Whenever leaving the vehicle or parking, always come to a complete stop and continue to depress the brake pedal. Shift the gear to P (Park), apply the parking brake, and press the Engine Start/Stop button to the OFF. Vehicles with the parking brake not fully engaged are at risk for moving inadvertently and causing injury to yourself or others.
-
-Wet brakes can be dangerous! The brakes may get wet if the vehicle is driven through standing water or if it is washed. Your vehicle will not stop as quickly if the brakes are wet. Wet brakes may cause the products to pull to one side.
-
-To dry the brakes, apply the brakes lightly until the braking action returns to normal, taking care to keep the vehicle under control at all times. If the braking action does not return to normal, stop as soon as it is safe to do so and call an authorized retailer of Genesis Branded products for assistance.
-
-DO NOT drive with your foot resting on the brake pedal. Even light, but constant pedal pressure can result in the brakes overheating, brake wear, and possibly even brake failure.
-
-If a tire goes flat while you are driving, apply the brakes gently and keep the vehicle pointed straight ahead while you slow down. When you are moving slowly enough for it to be safe to do so, pull off the road and stop in a safe location.
-
-Keep your foot firmly on the brake pedal when the vehicle is stopped to prevent the vehicle from rolling forward.
+> ⚠️ **Внимание:** 
+> Whenever leaving the vehicle or parking, always come to a complete stop and continue to depress the brake pedal. Shift the gear to P (Park), apply the parking brake, and press the Engine Start/Stop button to the OFF. Vehicles with the parking brake not fully engaged are at risk for moving inadvertently and causing injury to yourself or others.
+>
+> Wet brakes can be dangerous! The brakes may get wet if the vehicle is driven through standing water or if it is washed. Your vehicle will not stop as quickly if the brakes are wet. Wet brakes may cause the products to pull to one side.
+>
+> To dry the brakes, apply the brakes lightly until the braking action returns to normal, taking care to keep the vehicle under control at all times. If the braking action does not return to normal, stop as soon as it is safe to do so and call an authorized retailer of Genesis Branded products for assistance.
+>
+> DO NOT drive with your foot resting on the brake pedal. Even light, but constant pedal pressure can result in the brakes overheating, brake wear, and possibly even brake failure.
+>
+> If a tire goes flat while you are driving, apply the brakes gently and keep the vehicle pointed straight ahead while you slow down. When you are moving slowly enough for it to be safe to do so, pull off the road and stop in a safe location.
+>
+> Keep your foot firmly on the brake pedal when the vehicle is stopped to prevent the vehicle from rolling forward.
 
 ### ALL WHEEL DRIVE (AWD) (IF EQUIPPED) Using All Wheel Drive (AWD)
-`genesis_g90_en_e9fa46e2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The All Wheel Drive (AWD) system delivers engine power to front and rear wheels for maximum traction. AWD is useful when extra traction is required, such as when driving on, muddy, wet, or snow-covered roads. If the system determines there is a need for four wheel drive, the engine's driving power is distributed to all four wheels automatically.
 
-### WARNING
-`genesis_g90_en_5483c769` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-To reduce the risk of SERIOUS INJURY or DEATH:
-
-If the AWD warning light ( ) stays on the instrument cluster, your vehicle may have a malfunction with the AWD system. When the AWD warning light ( ) illuminates have your vehicle checked by an authorized retailer of Genesis Branded products as soon as possible.
-
-Do not drive in conditions that exceed the vehicles intended design such as challenging off-road conditions.
-Avoid high speeds when cornering or turning.
-Do not make quick steering wheel movements, such as sharp lane changes or fast, sharp turns.
-The risk of a rollover is greatly increased if you lose control of your vehicle at highway speeds.
-Loss of control often occurs if two or more wheels drop off the roadway and the driver over steers to reenter the roadway.
-In the event your vehicle leaves the roadway, do not steer sharply. Instead, slow down before pulling back into the travel lanes.
-Always drive safely and use caution when driving an AWD vehicle.
+> ⚠️ **Внимание:** 
+> To reduce the risk of SERIOUS INJURY or DEATH:
+>
+> If the AWD warning light ( ) stays on the instrument cluster, your vehicle may have a malfunction with the AWD system. When the AWD warning light ( ) illuminates have your vehicle checked by an authorized retailer of Genesis Branded products as soon as possible.
+>
+> Do not drive in conditions that exceed the vehicles intended design such as challenging off-road conditions.
+> Avoid high speeds when cornering or turning.
+> Do not make quick steering wheel movements, such as sharp lane changes or fast, sharp turns.
+> The risk of a rollover is greatly increased if you lose control of your vehicle at highway speeds.
+> Loss of control often occurs if two or more wheels drop off the roadway and the driver over steers to reenter the roadway.
+> In the event your vehicle leaves the roadway, do not steer sharply. Instead, slow down before pulling back into the travel lanes.
+> Always drive safely and use caution when driving an AWD vehicle.
 
 ### i Information
-`genesis_g90_en_ff2a2481` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not drive in water if the level is higher than the bottom of the vehicle.
 Check your brake condition once you are out of mud or water. Depress the brake pedal several times as you move slowly until you feel normal braking return.
@@ -7563,7 +6684,6 @@ Shorten your scheduled maintenance interval if you drive in offroad conditions s
 Make sure that an AWD vehicle is towed by flatbed tow truck.
 
 ### Before driving
-`genesis_g90_en_4c712bb6` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 Make sure all passengers are wearing seat belts.
 Sit upright and adjust the steering wheel to a position comfortable for you to drive.
@@ -7577,26 +6697,22 @@ When approaching a stop sign or stop light, release the accelerator pedal to pro
 Avoid speeding, rapid acceleration, sudden brake applications, and sharp turns to prevent skids.
 
 ### Driving in sand or mud
-`genesis_g90_en_a57c40db` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Maintain slow and constant speed. Keep sufficient distance between your vehicle and the vehicle in front of you.
 Reduce vehicle speed and always check the road condition.
 Avoid speeding, rapid acceleration, sudden brake applications, and sharp turns to prevent getting stuck.
 
 ### NOTICE
-`genesis_g90_en_a79e1aa5` | g90 | pdf_manual | tier:2 | lang:en | layer:transmission | p:1 | doc_type:owners_manual
 
 When the vehicle is stuck in snow, sand or mud, avoid running the engine continuously at high rpm, doing so may damage the tires, transmission, differential or AWD system.
 
 ### Information
-`genesis_g90_en_8cd1025c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When using Snow Tires, mount them on all four wheels. When using AutoSock® (fabric snow chain), install them on all four tires. However, if you are in a situation to use only two AutoSock®, install them on the rear tires. In this case, drive a short distance to prevent damage to the AWD system.
 
 For more information on Snow Tires and Tire Chains, refer to "Winter Driving" in this chapter.
 
 ### Driving up or down hills
-`genesis_g90_en_d502b6ed` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Driving uphill Before starting off, check if it is
 possible to drive uphill. Drive as straight as possible.
@@ -7608,45 +6724,36 @@ Shift Mode to provide engine
 braking while driving downhill.
 Drive straight as possible.
 
-### WARNING
-`genesis_g90_en_5ca0bb0c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Exercise extreme caution driving up or down steep hills. The vehicle may flip depending on the grade, terrain and water/ mud conditions.
+> ⚠️ **Внимание:** 
+> Exercise extreme caution driving up or down steep hills. The vehicle may flip depending on the grade, terrain and water/ mud conditions.
 
 ### Tires
-`genesis_g90_en_deeb42d5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When replacing the tires, be sure to equip all four tires with the same size, type, tread, brand and load-carrying capacity.
 
-### WARNING
-`genesis_g90_en_e97164ca` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> Do not use tire and wheel with different size and type from the one originally installed on your vehicle. It can affect the safety and performance of your vehicle, which could lead to steering failure or rollover causing serious injury.
+>
+> In an emergency situation, a compact spare tire may be used. But, do not use the compact spare tire continuously. Repair or replace the original tire as soon as possible to avoid failure of the differential or AWD system.
+>
+> ![](images/0850ee0798d6a554cc4abd81452d0cb482dda7707b2ebdc0b587d2f4e73278a7.webp)
+>
+> Tire size mismatch. Check all tire sizes.
+>
+> If your vehicle is equipped with different tires (size, type, etc.) on the front and rear, the message will appear.To use the AWD system, equip the vehicle with the same tires on the front and rear.
 
-Do not use tire and wheel with different size and type from the one originally installed on your vehicle. It can affect the safety and performance of your vehicle, which could lead to steering failure or rollover causing serious injury.
-
-In an emergency situation, a compact spare tire may be used. But, do not use the compact spare tire continuously. Repair or replace the original tire as soon as possible to avoid failure of the differential or AWD system.
-
-![](images/0850ee0798d6a554cc4abd81452d0cb482dda7707b2ebdc0b587d2f4e73278a7.webp)
-
-Tire size mismatch. Check all tire sizes.
-
-If your vehicle is equipped with different tires (size, type, etc.) on the front and rear, the message will appear.To use the AWD system, equip the vehicle with the same tires on the front and rear.
-
-### WARNING
-`genesis_g90_en_17c592a4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-![](images/baa08e8377e6169ca6375d89bd06e4a9710409e8649c5d9c73699d67d31f15fc.webp)
-
-Never start or run the engine while an AWD vehicle is raised on a jack. The vehicle can slip or roll off of a jack causing serious injury or death to you or those nearby.
+> ⚠️ **Внимание:** 
+> ![](images/baa08e8377e6169ca6375d89bd06e4a9710409e8649c5d9c73699d67d31f15fc.webp)
+>
+> Never start or run the engine while an AWD vehicle is raised on a jack. The vehicle can slip or roll off of a jack causing serious injury or death to you or those nearby.
 
 ### Dynamometer testing
-`genesis_g90_en_4819bd57` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 AWD vehicles must be towed with all wheels off the ground, either on a flatbed tow truck or using doilies.
 
 For more details, refer to "Towing" in chapter 6.
 
 ### Vehicle inspection
-`genesis_g90_en_04667592` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the vehicle needs to be operated on a vehicle lift do not attempt to stop any of the four wheels for turning. This could damage the system.
 Never engage the parking brake while running the engine on a car lift. This may damage the AWD system.
@@ -7659,31 +6766,25 @@ An AWD vehicle should not be tested on a 2WD roll tester. If a 2WD roll tester m
 
 1. Check the tire pressures recommended for your vehicle. 2. Place the rear wheels on the roll tester for a speedometer test as shown in the illustration. 3. Release the parking brake. 4. Place the front wheels on the temporary free roller as shown in the illustration.
 
-### WARNING
-`genesis_g90_en_41d68d24` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Keep away from the front of the vehicle while the vehicle is in gear on the dynamometer. The vehicle can jump forward and cause serious injury or death.
+> ⚠️ **Внимание:** 
+> Keep away from the front of the vehicle while the vehicle is in gear on the dynamometer. The vehicle can jump forward and cause serious injury or death.
 
 ### Dynamic Stability Damping Control (DSDC)
-`genesis_g90_en_f529e2ed` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Electronic Control Suspension (ECS) controls the vehicle suspension automatically to maximize driving comfort by taking into account the driving conditions such as speed, surface of the road, cornering, stopping requirements and acceleration.
 
 The Dynamic Stability Damping Control (DSDC) provides comfort riding and driving stability by meticulously optimizing the suspension power during sharp curving or abrupt obstacle avoidance.
 
 ### Check Electronic Suspension
-`genesis_g90_en_eb27b01e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the ECS warning message comes on, you may have a problem with the ECS system. Have the system be checked by an authorized retailer of Genesis Branded products.
 
 ### Operating conditions
-`genesis_g90_en_742dbef7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The DSDC is activated, when driving speed exceeds 30 mph (50 km/h).
 The DSDC does not operate, when the Electronic Stability Control (ESC) is deactivated.
 
 ### NOTICE
-`genesis_g90_en_cfc72589` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Dynamic Stability Damping Control (DSDC) does not operate, when there is a malfunction with the Electronic Stability Control (ESC).
 
@@ -7693,13 +6794,10 @@ There are wide variations in tire pressures.
 The vehicle is driven on a steep slope.
 The vehicle is driven on a rough, rugged surface.
 
-### WARNING
-`genesis_g90_en_4e135d82` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-NEVER install any tires/wheels in different sizes or of different models on your vehicle. It may cause a malfunction of the Dynamic Stability Damping Control (DSDC).
+> ⚠️ **Внимание:** 
+> NEVER install any tires/wheels in different sizes or of different models on your vehicle. It may cause a malfunction of the Dynamic Stability Damping Control (DSDC).
 
 ### DRIVE MODE INTEGRATED CONTROL SYSTEM Drive Mode COMFORT mode
-`genesis_g90_en_611bdb6c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/560531f91a57b9f76b716cb86fe9e627a0620818c653a09de50deda07a2325b6.webp)
 
@@ -7726,14 +6824,12 @@ SPORT When SPORT mode is selected by pressing the
 SPORT DRIVE MODE button, the SPORT indicator will illuminate on the instrument cluster. Whenever the engine is restarted, the drive mode will revert back to COMFORT mode. If SPORT mode is desired, re-select SPORT mode. When SPORT mode is activated: The engine rpm will tend to remain raised over a certain length of time even after releasing the accelerator Upshifts are delayed when accelerating Seat bolsters are active (if equipped)
 
 ### ECO
-`genesis_g90_en_d66b9dad` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When ECO mode is selected by pressing the DRIVE MODE button, the ECO indicator will illuminate on the instrument cluster.
 
 If the vehicle is set to ECO mode, when the engine is turned OFF and restarted the drive mode setting will remain in ECO mode.
 
 ### i Information
-`genesis_g90_en_cdbb1086` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Fuel efficiency depends on the driver's driving habit and road condition.
 
@@ -7752,7 +6848,6 @@ The system will be limited to gain power when driving uphill because engine torq
 When driving the vehicle in manual shift mode using the paddle shifter. The system will be limited according to the shift location.
 
 ### CUSTOM mode
-`genesis_g90_en_d45aeb89` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When CUSTOM mode is CUSTOM selected by pressing the DRIVE MODE button, the CUSTOM mode indicator will illuminate on the instrument cluster.
 
@@ -7769,12 +6864,10 @@ SPORT
 For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### When SMART is selected for CUS-TOM mode
-`genesis_g90_en_48c3d977` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 SMART mode automatically controls the vehicle driving, such as gear shifting patterns, engine torque, riding quality (if equipped with the electronic suspension system), and power distribution (if equipped with the All-Wheel Drive (AWD) system), in accordance with the driver's driving habits.
 
 ### i Information
-`genesis_g90_en_5adf4fba` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 When you mildly drive the vehicle in SMART mode, the driving mode changes to ECO mode to improve fuel efficiency. However, the actual fuel efficiency may differ in accordance with your driving situations (i.e. upward/downward slope, vehicle deceleration/acceleration).
 
@@ -7809,29 +6902,24 @@ The transmission oil temperature is either extremely low or extremely high
 The SMART mode can be active in most of the normal driving situations. However, an extremely high/ low transmission oil temperature may temporarily deactivate the SMART mode, because the transmission condition is out of normal operation condition.
 
 ### COASTING (IF EQUIPPED)
-`genesis_g90_en_db4ca977` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When certain conditions are met, the engine is automatically decoupled from the transmission while the shift lever is remained in D (Drive). In this Coasting mode, the engine stays at idling speed to reduce fuel consumption and increase coasting distance.
 
 ### Coasting Setting
-`genesis_g90_en_6cb96408` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Coasting function must be turned ON from the Settings menu in the AVN system screen. Select:
 
 Setup → Vehicle Settings → Drive Mode → Coasting
 
 ### For detailed information, scan the QR code in a separately supplied simple manual.
-`genesis_g90_en_61b59ae6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When Coasting is turned ON and the conditions are met, the function operates with a "Coasting" message illuminated at the top center of the instrument cluster.
 
 ### NOTICE
-`genesis_g90_en_c5f49cb1` | g90 | pdf_manual | tier:2 | lang:en | layer:transmission | p:1 | doc_type:owners_manual
 
 If the accelerator pedal is pressed quickly for accelerating with the Coasting function in operation, acceleration may occur after the engagement of the clutch inside the transmission. In turn, the driver may continue to feel acceleration even after the system is turned off. Driving with the Coasting function off may be required in some cases since the engine brake is not applied while the Coasting function is in operation. Operating the AVN system screen to activate or deactivate the Coasting function while driving may be dangerous as the driver's attention is dispersed.
 
 ### Coasting Operating Conditions
-`genesis_g90_en_bb25face` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Coasting function will operate when the accelerator pedal is depressed and released under the following conditions.
 
@@ -7843,14 +6931,12 @@ The vehicle's speed is within 35–100 mph (55–160 km/h) range The road gradie
 In SMART mode, if the distance between the vehicle ahead and the relative speed is within a certain range
 
 ### Information
-`genesis_g90_en_41f5eda2` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 If the front radar for smart cruise control system cannot operate normally, the inter-vehicle distance and relative speed condition are automatically ignored.
 The Coasting function works after the engine is turned on, the transmission is warmed up, and the engine sensor self-diagnosis is completed after starting.
 Depending on the driving situation, Coasting operation may be temporarily delayed even if the above conditions are met.
 
 ### Coasting Release Conditions
-`genesis_g90_en_e10f7ced` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Coasting function will be automatically released when the following conditions are met.
 
@@ -7862,26 +6948,21 @@ In SMART mode, if the distance between the vehicle ahead is too close of the rel
 If lane change is predicated in SMART mode (e.g. the turn signal is turned ON or a LKA warning appears due to steering wheel control, etc.)
 
 ### i Information
-`genesis_g90_en_9c8281b6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 It is recommended to turn off the Coasting function if you are driving under frequently stop-and-go condition. Change the Drive Mode to COMFORT or SPORT mode or deselect Coasting from the AVN system screen.
 
 ### FORWARD COLLISION-AVOIDANCE ASSIST (FCA) SYSTEM SENSOR FUSION TYPE (FRONT RADAR + FRONT CAMERA)
-`genesis_g90_en_56723418` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 The Forward Collision-Avoidance Assist (FCA) system is designed to help detect and monitor the vehicle ahead or help detect a pedestrian in the roadway through radar signals and camera recognition to warn the driver that a collision is imminent, and if necessary, apply emergency braking.
 
-### WARNING
-`genesis_g90_en_2e8650ae` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Take the following precautions when using the Forward Collision-Avoidance Assist (FCA) system:
-
-This system is only a supplemental system and it is not intended to, nor does it replace the need for extreme care and attention of the driver. The sensing range and objects detectable by the sensors are limited. Pay attention to the road conditions at all times.
-Drive at posted speed limits and accordance to road conditions.
-Always drive cautiously to prevent unexpected and sudden situations from occurring. The Forward CollisionAvoidance system may not always stop the vehicle completely and is only intended to help mitigate a collision that is imminent.
+> ⚠️ **Внимание:** 
+> Take the following precautions when using the Forward Collision-Avoidance Assist (FCA) system:
+>
+> This system is only a supplemental system and it is not intended to, nor does it replace the need for extreme care and attention of the driver. The sensing range and objects detectable by the sensors are limited. Pay attention to the road conditions at all times.
+> Drive at posted speed limits and accordance to road conditions.
+> Always drive cautiously to prevent unexpected and sudden situations from occurring. The Forward CollisionAvoidance system may not always stop the vehicle completely and is only intended to help mitigate a collision that is imminent.
 
 ### System Setting and Operation
-`genesis_g90_en_919175be` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 System seting Setting Forward Safety function The Forward Collision-Avoidance Assist (FCA) can be activated from the Settings menu in the AVN sys
 tem screen by following the procedure below.
@@ -7903,7 +6984,6 @@ The warning light illuminates on the instrument cluster, when you cancel the FCA
 The driver can monitor the FCA ON/OFF status in the instrument cluster. Also, the warning light illuminates when the ESC (Electronic Stability Control) is turned off. If the warning light remains ON when the FCA is activated, have the system checked by an authorized retailer of Genesis Branded products.
 
 ### Selecting Warning Timing
-`genesis_g90_en_ead87ded` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The diver can select the initial warning activation time from the Settings menu in the AVN system screen. Select:
 
@@ -7928,7 +7008,6 @@ Select 'Late' when traffic is light and when driving speed is slow.
 When you accelerate suddenly to the vehicle ahead, the warning may seem to activate earlier even if 'Late' is selected.
 
 ### Prerequisite for activation
-`genesis_g90_en_e3abb292` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The FCA system will activate when 'Active Assist' or 'Warning Only' under Forward Safety is selected in the AVN system screen, and when the following prerequisites are satisfied.
 
@@ -7938,27 +7017,22 @@ The system detects a pedestrian or a vehicle in front, which may collide with yo
 
 FCA may not operate properly according to the frontal situation or the direction of a pedestrian.
 
-### WARNING
-`genesis_g90_en_91460116` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-To avoid driver distractions, do not attempt to set or cancel the FCA while driving the vehicle. Always completely stop the vehicle at a safe place before setting or canceling the system.
-FCA automatically activates upon placing the Engine Start/Stop button to the ON or START position. The driver can deactivate FCA by canceling the system setting in the AVN system screen.
-FCA automatically deactivates upon canceling ESC. When ESC is canceled, FCA cannot be activated in the AVN system screen. In this situation, the FCA warning light will illuminate which is normal.
+> ⚠️ **Внимание:** 
+> To avoid driver distractions, do not attempt to set or cancel the FCA while driving the vehicle. Always completely stop the vehicle at a safe place before setting or canceling the system.
+> FCA automatically activates upon placing the Engine Start/Stop button to the ON or START position. The driver can deactivate FCA by canceling the system setting in the AVN system screen.
+> FCA automatically deactivates upon canceling ESC. When ESC is canceled, FCA cannot be activated in the AVN system screen. In this situation, the FCA warning light will illuminate which is normal.
 
 ### FCA Warning Message and Brake Control
-`genesis_g90_en_4fa4bb7e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 FCA produces warning messages, warning alarms, and emergency braking based on the level of risk of a frontal collision, such as when a vehicle ahead suddenly brakes, or the system detects that a collision with a pedestrian is imminent.
 
 ### Colision Warning (First warning)
-`genesis_g90_en_2339035c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/2739afeb8fac9f6308fcb9550c3afb0252e62862892377eb60dd95c16b1e5fb9.webp)
 
 OHI058237L The warning message appears on the cluster LCD display with a warning chime. Additionally, some vehicle system intervention occurs by the engine management system to help decelerate the vehicle. Your vehicle speed may decelerate moderately. If FCA detects a vehicle in front, the system operates when your vehicle speed is between 5 mph (8 km/h) and 112 mph (180 km/h). Maximum vehicle speed may decrease depending on the condition of the vehicle ahead and surroundings. If FCA detects a pedestrian in front, the system operates when your vehicle speed is between 5 mph (8 km/h) and 56 mph (90 km/h). Maximum vehicle speed may decrease depending on the condition of the pedestrian ahead and surroundings. If you select 'Warning only' for the system setting, the FCA system activates and produces only warning alarms in accordance with the collision risk levels. You should control the brake directly because the FCA system will not control the brake.
 
 ### Emergency braking (Second warning)
-`genesis_g90_en_6fe63c1b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/14d48324fde5da8c1fa920fe4389258c0e1b75d9832d314e7615b3a5a23f7dd3.webp)
 
@@ -7975,29 +7049,22 @@ If FCA detects a pedestrian in front, the system operates when your vehicle spee
 If you select 'Warning only' for the system setting, the FCA system activates and produces only warning alarms in accordance with the collision risk levels. You should control the brake directly because the FCA system do not control the brake.
 
 ### Brake operation
-`genesis_g90_en_c5fc5a96` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 In an urgent situation, the braking system enters into the ready status for prompt reaction against the driver's depressing the brake pedal. The FCA provides additional braking power for optimum braking performance, when the driver depresses the brake pedal. The braking control is automatically deactivated, when the driver sharply depresses the accelerator pedal, or when the driver abruptly operates the steering wheel. The FCA brake control is automatically canceled, when risk factors disappear.
 
 ### + CAUTION
-`genesis_g90_en_acba65bc` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 The driver should always use extreme caution while operating the vehicle, whether or not there is a warning message or alarm from the FCA system. After the brake control is activated, the driver must immediately depress the brake pedal and check the surroundings. The brake activation by the system lasts for about 2 seconds.
 
 If any other warning sound such as seat belt warning chime is already generated, the Forward Collision-Avoidance Assist (FCA) system warning may not sound. Playing the vehicle audio system at high volume may prevent occupants from hearing the system warning sounds.
 
-### WARNING
-`genesis_g90_en_79fb0511` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> The braking control cannot completely stop the vehicle nor avoid all collisions. The driver should hold the responsibility to safely drive and control the vehicle.
 
-The braking control cannot completely stop the vehicle nor avoid all collisions. The driver should hold the responsibility to safely drive and control the vehicle.
-
-### WARNING
-`genesis_g90_en_ab93544b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-The FCA system logic operates within certain parameters, such as the distance from the vehicle or pedestrian ahead, the speed of the vehicle ahead, and the driver's vehicle speed. Certain conditions such as inclement weather and road conditions may affect the operation of the FCA system.
+> ⚠️ **Внимание:** 
+> The FCA system logic operates within certain parameters, such as the distance from the vehicle or pedestrian ahead, the speed of the vehicle ahead, and the driver's vehicle speed. Certain conditions such as inclement weather and road conditions may affect the operation of the FCA system.
 
 ### FCA Sensor (Front Radar/Front Camera)
-`genesis_g90_en_dbc5e131` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/b974eb157556f4b5aa5ac78f9f6ce6cadda5fe4d9df186453a63f8ae260edcd0.webp)
 
@@ -8006,7 +7073,6 @@ In order for the FCA system to operate properly, always make sure the sensor cov
 Dirt, snow, or foreign substances on the sensor cover or sensor may adversely affect the sensing performance of the sensor.
 
 ### NOTICE
-`genesis_g90_en_120d167a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not apply license plate frame or foreign objects such as a bumper sticker or a bumper guard near the radar sensor. Doing so may adversely affect the sensing performance of the radar.
 Always keep the radar sensor and cover clean and free of dirt and debris.
@@ -8019,7 +7085,6 @@ damaged in the area around the radar sensor, the FCA system may not operate prop
 Use only genuine parts to repair or replace a damaged sensor or sensor cover. Do not apply paint to the sensor cover.
 
 ### NOTICE
-`genesis_g90_en_c3df1c15` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 NEVER install any accessories or stickers on the front windshield, or tint the front windshield.
 NEVER place any reflective objects (i.e. white paper, mirror) over the dashboard. Any light reflection may prevent the system from functioning properly. Pay extreme caution to keep the camera dry.
@@ -8027,14 +7092,12 @@ NEVER disassemble the camera assembly, or apply any impact on the camera assembl
 If the sensor is forcibly moved out of proper alignment, the FCA system may not operate correctly. In this case, a warning message may not be displayed. Have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### i Information
-`genesis_g90_en_d8a24dc5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Have the system checked by an authorized retailer of Genesis Branded products. when:
 
 The windshield glass is replaced. The radar sensor or cover gets damaged or replaced.
 
 ### Radar blocked
-`genesis_g90_en_d4f089ec` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the sensor cover is covered with dirt, snow, or debris, the FCA system may not be able to detect other vehicles. If this occurs, a warning message will appear on the cluster LCD display.
 
@@ -8044,46 +7107,37 @@ FCA may not properly operate in an area (e.g. open terrain) where any objects or
 
 Also, even though a warning message does not appear on the LCD display, the FCA may not properly operate.
 
-### WARNING
-`genesis_g90_en_0bb2e576` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-The FCA system may not activate according to road conditions, inclement weather, driving conditions or traffic conditions.
+> ⚠️ **Внимание:** 
+> The FCA system may not activate according to road conditions, inclement weather, driving conditions or traffic conditions.
 
 ### Check Forward CollisionAvoidance Assist system
-`genesis_g90_en_42b2ebef` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When FCA is not working properly, the FCA warning light ( ) will illuminate and the warning message will appear for a few seconds. After the message disappears, the master warning light ( ) will illuminate. In this case, have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 The FCA warning message may appear along with the illumination of the ESC (Electronic Stability Control) warning light. Both FCA warning light and warning message will disappear once the ESC warning light issue is resolved.
 
-### WARNING
-`genesis_g90_en_784e24f7` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> FCA is only a supplemental system for the driver's convenience. It is the driver's responsibility to control the vehicle operation. Do not solely depend on the FCA system. Rather, maintain a safe braking distance, and, if necessary, depress the brake pedal to reduce the driving speed or to stop the vehicle.
+>
+> In certain instances and under certain driving conditions, the FCA system may produce a warning alarm and control the brake system unnecessarily. And, the FCA system may not produce a warning alarm and control the brake system due to detecting limitation of sensor.
+>
+> Also due to sensing limitations, in certain situations, the front radar sensor or camera recognition system may not detect the vehicle or pedestrian ahead. The FCA system may not activate and the warning message may not be displayed.
+> Even if there is any problem with the brake control function of the FCA system, the vehicle's basic braking performance will operate normally. However, brake control function for avoiding collision will not activate.
+> If the vehicle in front stops suddenly, you may have less control of the brake system. Therefore, always keep a safe distance between your vehicle and the vehicle in front of you. The FCA system may activate during braking and the vehicle may stop suddenly shifting loose objects toward the passengers. Always keep loose objects secured.
+> The FCA system may not activate if the driver applies the brake pedal to avoid collision. The brake control may be insufficient, possibly causing a collision, if a vehicle in front abruptly stops. Always pay extreme caution.
+> Occupants may get injured, if the vehicle abruptly stops by the activated FCA system. Pay extreme caution.
+> The FCA system operates only when the system detect vehicles or pedestrian in front of the vehicle.
 
-FCA is only a supplemental system for the driver's convenience. It is the driver's responsibility to control the vehicle operation. Do not solely depend on the FCA system. Rather, maintain a safe braking distance, and, if necessary, depress the brake pedal to reduce the driving speed or to stop the vehicle.
-
-In certain instances and under certain driving conditions, the FCA system may produce a warning alarm and control the brake system unnecessarily. And, the FCA system may not produce a warning alarm and control the brake system due to detecting limitation of sensor.
-
-Also due to sensing limitations, in certain situations, the front radar sensor or camera recognition system may not detect the vehicle or pedestrian ahead. The FCA system may not activate and the warning message may not be displayed.
-Even if there is any problem with the brake control function of the FCA system, the vehicle's basic braking performance will operate normally. However, brake control function for avoiding collision will not activate.
-If the vehicle in front stops suddenly, you may have less control of the brake system. Therefore, always keep a safe distance between your vehicle and the vehicle in front of you. The FCA system may activate during braking and the vehicle may stop suddenly shifting loose objects toward the passengers. Always keep loose objects secured.
-The FCA system may not activate if the driver applies the brake pedal to avoid collision. The brake control may be insufficient, possibly causing a collision, if a vehicle in front abruptly stops. Always pay extreme caution.
-Occupants may get injured, if the vehicle abruptly stops by the activated FCA system. Pay extreme caution.
-The FCA system operates only when the system detect vehicles or pedestrian in front of the vehicle.
-
-### WARNING
-`genesis_g90_en_a2d8ccf2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-The FCA system does not operate when the vehicle is in reverse. The FCA system is not designed to detect other objects on the road such as animals. The FCA system does not detect vehicles in the opposite lane. The FCA system does not detect cross traffic vehicles that are approaching. The FCA system cannot detect vehicles that are stopped vertically to your vehicle at a intersection or dead end street. In these cases, you must maintain a safe braking distance, and if necessary, depress the brake pedal to reduce the driving speed in order to maintain a safe distance or to stop the vehicle.
+> ⚠️ **Внимание:** 
+> The FCA system does not operate when the vehicle is in reverse. The FCA system is not designed to detect other objects on the road such as animals. The FCA system does not detect vehicles in the opposite lane. The FCA system does not detect cross traffic vehicles that are approaching. The FCA system cannot detect vehicles that are stopped vertically to your vehicle at a intersection or dead end street. In these cases, you must maintain a safe braking distance, and if necessary, depress the brake pedal to reduce the driving speed in order to maintain a safe distance or to stop the vehicle.
 
 ### Limitations of the System
-`genesis_g90_en_9ae52e0a` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 The Forward Collision-Avoidance Assist (FCA) system is designed to monitor the vehicle ahead or a pedestrian in the roadway through radar signals and camera recognition to warn the driver that a collision is imminent, and if necessary, apply emergency braking.
 
 In certain situations, the radar sensor or the camera may not be able to detect the vehicle or pedestrian ahead. In these cases, the FCA system may not operate normally. The driver must pay careful attention in the following situations where the FCA operation may be limited.
 
 ### Detecting vehicles
-`genesis_g90_en_37223d0e` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 The sensor may be limited when:
 
@@ -8119,7 +7173,6 @@ The vehicle in front is driving towards your vehicle or reversing You are on a r
 ![](images/807dd572e108878f3380134cf860bbb31d046770c5b8f0bf88213daef21cd4cd.webp)
 
 ### Driving on a curve
-`genesis_g90_en_7eed1274` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 The performance of the FCA system may be limited when driving on a curved road.
 
@@ -8144,7 +7197,6 @@ Check to be sure that the road conditions permit safe operation of FCA.
 H 1- OHI058307L
 
 ### Driving on a slope
-`genesis_g90_en_657bfd1c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The performance of the FCA decreases while driving upward or downward on a slope, not recognizing the vehicle in front in the same lane. It may unnecessarily produce the warning message and the warning alarm, or it may not produce the warning message and the warning alarm at all.
 
@@ -8153,7 +7205,6 @@ When the FCA suddenly recognizes the vehicle in front while passing over a slope
 Always keep your eyes forward while driving upward or downward on a slope, and, if necessary, depress the brake pedal to reduce your driving speed in order to maintain distance.
 
 ### Changing lanes
-`genesis_g90_en_fc49eeaf` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 When a vehicle changes lanes in front of you, the FCA system may not immediately detect the vehicle, especially if the vehicle changes lanes abruptly. In this case, you must maintain a safe braking distance, and if necessary, depress the brake pedal to reduce your driving speed in order to maintain a safe distance.
 
@@ -8166,7 +7217,6 @@ When driving in stop-and-go traffic, and a vehicle in front of you merges out of
 Detecting the vehicle in front of you If the vehicle in front of you has cargo that extends rearward from the cab, or when the vehicle in front of you has higher ground clearance, additional special attention is required. The FCA system may not be able to detect the cargo extending from the vehicle. In these instances, you must maintain a safe braking distance from the rearmost object, and if necessary, depress the brake pedal to reduce your driving speed in order to maintain distance.
 
 ### Detecting pedestrians
-`genesis_g90_en_ef1c33a3` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 The sensor may be limited when:
 
@@ -8189,17 +7239,14 @@ The pedestrian suddenly interrupts in front of the vehicle
 There is any other electromagnetic interference
 The construction area, rail or other metal object is near
 
-### WARNING
-`genesis_g90_en_0a8a4e76` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
-
-Do not use the Forward Collision-Avoidance Assist (FCA) system when towing a vehicle. Application of the FCA system while towing may adversely affect the safety of your vehicle or the towing vehicle.
-Use extreme caution when the vehicle in front of you has cargo that extends rearward from the cab, or when the vehicle in front of you has higher ground clearance.
-The FCA system is designed to help detect and monitor the vehicle ahead or detect a pedestrian in the roadway through radar signals and camera recognition. It is not designed to detect motorcycles, or smaller wheeled objects such as luggage bags, shopping carts, or strollers.
-Never try to test the operation of the FCA system. Doing so may cause severe injury or death.
-If the front bumper, front glass, radar or camera have been replaced or repaired, have the vehicle inspected by an authorized retailer of Genesis Branded products.
+> ⚠️ **Внимание:** 
+> Do not use the Forward Collision-Avoidance Assist (FCA) system when towing a vehicle. Application of the FCA system while towing may adversely affect the safety of your vehicle or the towing vehicle.
+> Use extreme caution when the vehicle in front of you has cargo that extends rearward from the cab, or when the vehicle in front of you has higher ground clearance.
+> The FCA system is designed to help detect and monitor the vehicle ahead or detect a pedestrian in the roadway through radar signals and camera recognition. It is not designed to detect motorcycles, or smaller wheeled objects such as luggage bags, shopping carts, or strollers.
+> Never try to test the operation of the FCA system. Doing so may cause severe injury or death.
+> If the front bumper, front glass, radar or camera have been replaced or repaired, have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### i Information
-`genesis_g90_en_802d974f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This device complies with Part 15 of the FCC rules.
 
@@ -8214,26 +7261,21 @@ Radio frequency radiation exposure information:
 This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. This equipment should be installed and operated with minimum distance of 8 in. (20 cm) between the radiator (antenna) and your body. This transmitter must not be co-located or operating in conjunction with any other antenna or transmitter.
 
 ### FORWARD COLLISION-AVOIDANCE ASSIST LANE-CHANGEONCOMING FUNCTION
-`genesis_g90_en_eb6389d4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Forward Collision-Avoidance Assist-Lane-Change Oncoming function detects the oncoming vehicle with a front view camera at the front windshield. And it assists the driver’s steering to help avoid collision with an oncoming vehicle and keep the vehicle within the lanes, when the vehicle drives over the centreline.
 
 ### System seting
-`genesis_g90_en_e6011631` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Forward Collision-Avoidance Assist–Lane-Change Oncoming function can be activated from the Settings menu in the AVN system screen by following the procedure below.
 
-### WARNING
-`genesis_g90_en_e1aa9b08` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-This function is only a supplemental system and it is not intended to, nor does it replace the need for extreme care and attention of the driver. The sensing range and objects detectable by the sensors are limited. Pay attention to the road conditions at all times. Always drive cautiously to prevent accidents from any unexpected or sudden situations. The function does not steer the vehicle completely and is not a collision avoidance system.
-
-1. Set the Engine Start/Stop button to the ON or START position. 2. Select 'Setup → Vehicle Settings → Driver Assistance → Forward Safety → Active Assist' in the AVN system screen.
-
-For more details, refer to "LCD Display Modes" in chapter 3.
+> ⚠️ **Внимание:** 
+> This function is only a supplemental system and it is not intended to, nor does it replace the need for extreme care and attention of the driver. The sensing range and objects detectable by the sensors are limited. Pay attention to the road conditions at all times. Always drive cautiously to prevent accidents from any unexpected or sudden situations. The function does not steer the vehicle completely and is not a collision avoidance system.
+>
+> 1. Set the Engine Start/Stop button to the ON or START position. 2. Select 'Setup → Vehicle Settings → Driver Assistance → Forward Safety → Active Assist' in the AVN system screen.
+>
+> For more details, refer to "LCD Display Modes" in chapter 3.
 
 ### Warning mes age and function control
-`genesis_g90_en_d20a114d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/3002bd0b387068522a325938c8bb7b88e4b490ec97aca3c80a3b595133cadbeb.webp)
 
@@ -8243,20 +7285,16 @@ If FCA is operating, the warning message "Emergency Steering" appears on the LCD
 
 The vehicle speed is over 40 mph (64 km/h) and the vehicle crosses the centreline when an oncoming vehicle is approaching. Additionally, the system provides steering assistance to return the vehicle back into the lane.
 
-### WARNING
-`genesis_g90_en_077dbc5c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-The steering control cannot completely avoid collision with an oncoming vehicle. It is the responsibility of the driver to always be aware of the surroundings and steer the vehicle.
-The function is operated within certain conditions, depending on the distance and speed of the oncoming vehicle, the speed of your vehicle, etc.The function can be canceled or not work properly according to the road conditions and surroundings. Always be cautious when driving.
-Never deliberately drive dangerously to activate the system.
+> ⚠️ **Внимание:** 
+> The steering control cannot completely avoid collision with an oncoming vehicle. It is the responsibility of the driver to always be aware of the surroundings and steer the vehicle.
+> The function is operated within certain conditions, depending on the distance and speed of the oncoming vehicle, the speed of your vehicle, etc.The function can be canceled or not work properly according to the road conditions and surroundings. Always be cautious when driving.
+> Never deliberately drive dangerously to activate the system.
 
 ### Limitations of the System
-`genesis_g90_en_324ada47` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Refer to "Limitations of the System" of Lane Keeping Assist (LKA) System's in this chapter. Refer to "Detecting Vehicles" of Forward Collision-Avoidance Assist’s in this chapter.
 
 ### i Information
-`genesis_g90_en_802d974f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This device complies with Part 15 of the FCC rules.
 
@@ -8267,14 +7305,12 @@ Operation is subject to the following three conditions:
 3. Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the device.
 
 ### i Information
-`genesis_g90_en_126a7fd3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Radio frequency radiation exposure information:
 
 This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. This equipment should be installed and operated with minimum distance of 8 in. (20 cm) between the radiator (antenna) and your body. This transmitter must not be co-located or operating in conjunction with any other antenna or transmitter.
 
 ### Blind-Spot Colision Warning (BCW)
-`genesis_g90_en_ee28f3b3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Blind-Spot Collision Warning (BCW) system uses radar sensors in the rear bumper to monitor and warn the driver when it detects an approaching vehicle in the driver's blind spot area.
 
@@ -8293,7 +7329,6 @@ Note that if your vehicle is traveling much faster than the vehicles around you,
 The Lane Change Assist feature will alert you when it detects a vehicle is approaching in an adjacent lane at a high rate of speed. If the driver activates the turn signal when the system detects an oncoming vehicle, the system sounds an audible alert.
 
 ### Blind-Spot Colision-AvoidanceAs ist (BCA)
-`genesis_g90_en_ae91889a` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 ![](images/99028c53c00ea9dd1481fc6cc2efe7bb05382945e135242ab05fb3654278040d.webp)
 
@@ -8301,13 +7336,10 @@ The Blind-Spot Collision-Avoidance Assist (BCA) system helps detect the front la
 
 The Blind-Spot Collision-Avoidance Assist system may activate the Electronic Stability Control (ESC) if there is a possible collision with an approaching vehicle while changing lanes. It is to help mitigate the collision risk or collision damage.
 
-### WARNING
-`genesis_g90_en_46523bd1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Always be aware of road conditions while driving and be alert for unexpected situations even though the Blind-Spot Collision Warning system and BlindSpot Collision-Avoidance Assist system are operating. The Blind-Spot Collision Warning (BCW) system and Blind-Spot Collision-Avoidance Assist (BCA) system are supplemental systems to assist you. Do not entirely rely on the systems. Always pay attention, while driving, for your safety. The Blind-Spot Collision Warning (BCW) system and Blind-Spot Collision-Avoidance Assist (BCA) system are not substitutes for proper and safe driving. Always drive safely and use caution when changing lanes or backing up the vehicle. The Blind-Spot Collision Warning (BCW) system and Blind-Spot Collision-Avoidance Assist (BCA) system may not detect every object alongside the vehicle.
+> ⚠️ **Внимание:** 
+> Always be aware of road conditions while driving and be alert for unexpected situations even though the Blind-Spot Collision Warning system and BlindSpot Collision-Avoidance Assist system are operating. The Blind-Spot Collision Warning (BCW) system and Blind-Spot Collision-Avoidance Assist (BCA) system are supplemental systems to assist you. Do not entirely rely on the systems. Always pay attention, while driving, for your safety. The Blind-Spot Collision Warning (BCW) system and Blind-Spot Collision-Avoidance Assist (BCA) system are not substitutes for proper and safe driving. Always drive safely and use caution when changing lanes or backing up the vehicle. The Blind-Spot Collision Warning (BCW) system and Blind-Spot Collision-Avoidance Assist (BCA) system may not detect every object alongside the vehicle.
 
 ### System Setting and Operation
-`genesis_g90_en_55c695be` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 System seting Setting Blind-Spot Safety function
 
@@ -8331,7 +7363,6 @@ When the system is initially turned on or when the engine is turned off then on 
 If the engine is turned off then on again, the system maintains the last setting.
 
 ### Setting Warning Timing
-`genesis_g90_en_e8d344c2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The diver can select the initial warning activation time from the Settings menu in the AVN system screen. Select:
 
@@ -8346,7 +7377,6 @@ Late:
 Select this warning activation time when the traffic is light and you are driving at low speeds.
 
 ### Operating conditions
-`genesis_g90_en_48dd2da4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The diver can select the warning volume from the Settings menu in the AVN system screen. Select:
 
@@ -8355,14 +7385,12 @@ Setup → Vehicle Settings → Driver Assistance → Warning Volume → High/Med
 For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### i Information
-`genesis_g90_en_3da5ca77` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you change the warning volume, the warning volume of other systems may change.
 
 The system enters the ready status, when 'Active Assist' or 'Warning Only' is selected in the AVN system screen and the following conditions are satisfied:
 
 ### Active Assist
-`genesis_g90_en_dbcff58b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1) The Blind-Spot Collision-Avoidance Assist system will operate when:
 
@@ -8373,21 +7401,18 @@ An approaching vehicle is detected next to or behind your vehicle.
 2) The Blind-Spot Collision Warning system will operate when: The vehicle speed is above approximately 20 mph (30 km/h).
 
 ### Warning Only
-`genesis_g90_en_1f4b1a8d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1) The Blind-Spot Collision Warning system will operate when:
 
 The vehicle speed is approximately 20 mph (30 km/h). The Blind-Spot CollisionAvoidance Assist system is not activated when "Warning Only" is selected for the system setting.
 
 ### Warning and System Control
-`genesis_g90_en_68254fd4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Blind-Spot Colision Warning (BCW) system
 
 ![](images/b56115898e1c0c98b17e7624cbc25e5bc087dccbbbef50f2166ef74ef363e37a.webp)
 
 ### First stage alert
-`genesis_g90_en_104bba7a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If a vehicle is detected within the boundary of the system, a warning light will illuminate on the outer side view mirror and the head up display. If the detected vehicle is no longer within the blind spot area, the warning will turn off according to the driving conditions of the vehicle.
 
@@ -8396,7 +7421,6 @@ If a vehicle is detected within the boundary of the system, a warning light will
 [A] Warning sound
 
 ### Second stage alert
-`genesis_g90_en_a3997140` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A warning chime to alert the driver will activate when:
 
@@ -8410,21 +7434,18 @@ If you turn off the turn signal indicator, the second stage alert (the warning c
 If the detected vehicle is no longer within the blind spot area, the warning will turn off according to the driving conditions of the vehicle.
 
 ### ！ WARNING
-`genesis_g90_en_8e3fecb9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The warning light on the outer side view mirror will illuminate whenever a vehicle is detected at the rear side by the system.
 To avoid accidents, do not focus only on the warning light and neglect to see the surroundings of the vehicle. Drive safely even though the vehicle is equipped with a Blind-Spot Collision Warning (BCW) system. Do not solely rely on the system but check your surroundings before changing lanes or backing the vehicle up.
 The system may not alert the driver in some situations due to system limitations so always check your surroundings while driving.
 
 ### A CAUTION
-`genesis_g90_en_6e2d207a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Always pay attention to road and traffic conditions while driving, whether or not the warning light on the outer side view illuminates or there is a warning alarm.
 Playing the vehicle audio system at high volume may prevent occupants from hearing the Blind-Spot Collision Warning system warning sounds.
 If any other warning sound such as seat belt warning chime is already generated, the Blind-Spot Collision Warning (BCW) system warning may not sound.
 
 ### Blind-Spot Colision-Avoidance As ist (BCA) system
-`genesis_g90_en_6c5c8ebc` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 ![](images/37dac3a06a9b1cfdc24a3a7fd1830e5da5ffca87a74efec4b33c62468400cb72.webp)
 
@@ -8443,22 +7464,18 @@ Blind-Spot Collision-Avoidance Assist (BCA) system is automatically deactivated 
 The vehicle drives a certain distance away
 The vehicle direction is changed against the possible-colliding point The steering wheel is abruptly moved
 
-### WARNING
-`genesis_g90_en_44d48424` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-The driver is responsible for accurate steering.
-Do not unnecessarily operate the steering wheel, when the Blind-Spot Collision-Avoidance Assist System is in operation. Always pay attention to road and traffic conditions while driving. The Blind-Spot Collision-Avoidance Assist system may not operate or unnecessarily operate depending on certain situations.
-The Blind-Spot CollisionAvoidance Assist system is not a substitute for safe driving practices, but is a supplemental system only. It is the responsibility of the driver to always drive cautiously to prevent unexpected and sudden situations from occurring. Pay attention to road conditions at all times.
+> ⚠️ **Внимание:** 
+> The driver is responsible for accurate steering.
+> Do not unnecessarily operate the steering wheel, when the Blind-Spot Collision-Avoidance Assist System is in operation. Always pay attention to road and traffic conditions while driving. The Blind-Spot Collision-Avoidance Assist system may not operate or unnecessarily operate depending on certain situations.
+> The Blind-Spot CollisionAvoidance Assist system is not a substitute for safe driving practices, but is a supplemental system only. It is the responsibility of the driver to always drive cautiously to prevent unexpected and sudden situations from occurring. Pay attention to road conditions at all times.
 
 ### Front camera
-`genesis_g90_en_9a812ebf` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The front camera function as a sensor detecting the lane. If the sensor is covered with snow, rain or foreign substance, the system may temporarily be canceled and not work properly. Always keep the sensor clean.
 
 Refer to Lane Keeping Assist (LKA) System for cautions for the front camera sensor.
 
 ### Rear radar
-`genesis_g90_en_05a7a756` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The rear radars are located inside the rear bumper for detecting the side and rear areas. Always keep the rear bumper clean for proper operation of the system.
 
@@ -8499,7 +7516,6 @@ reflection may prevent the sys
 tem from functioning properly.
 
 ### Warning mes age
-`genesis_g90_en_918fcb7e` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/135d123bc7aed5fe4a68058138d9320d06e347db4411c0589bbc9bcf5182fd6d.webp)
 
@@ -8518,28 +7534,24 @@ One or both of the sensors on the rear bumper is blocked by dirt or snow or a fo
 If any of these conditions occur, the light on the BCW/BCA switch and the system will turn off automatically.
 
 ### i Information
-`genesis_g90_en_08b02d30` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Turn off the BCW/BCA and RCCW/ RCCA systems when a trailer or carrier is installed.
 
 Press the BCW/BCA switch (the indicator on the switch will turn off) Deactivate the RCCW/RCCA system by deselecting 'Setup → Vehicle Settings → Driver Assistance → Parking Safety → Rear CrossTraffic Safety in the AVN system screen
 
 ### System Malfunction
-`genesis_g90_en_b361ba9c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/b5c5356b30b15513eabf6760224ec02b624b951ed203e0332dafb60b27dbaf05.webp)
 
 ![](images/7ba66957ce2243a0d37f276f6f287c7a3dcff72658d979c738ef677d1e3fc679.webp)
 
 ### Check Blind-Spot Collision Warning (BCW) system
-`genesis_g90_en_f6365f41` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If there is a problem with the BCW system, a warning message will appear and the light on the switch will turn off. The system will turn off automatically. BCA will not operate also if the BCW system turns off due to malfunction. Have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 If there is a problem with the BCA system, a warning message will appear. The system will turn off automatically. BCW will still operate even if the BCA system turns off due to malfunction. Have the vehicle inspected by an authorized retailer of Genesis Branded products to use BCA system.
 
 ### Limitations of the System
-`genesis_g90_en_f615a9d2` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The driver must be cautious in the below situations because the system may not detect other vehicles or objects in certain circumstances:
 
@@ -8571,7 +7583,6 @@ Keeping Assist (LKA) system" in this chapter.
 ![](images/71f02b84d076f38db7a74c642bd4353dd118b19a677a1b55e413db5384ebf511.webp)
 
 ### Driving on a curve
-`genesis_g90_en_2b95e79d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The BCW and BCA systems may not operate properly when driving on a curved road. In certain instances, the system may not detect the vehicle in the next lane. Always pay attention to road and driving conditions, while driving.
 
@@ -8592,7 +7603,6 @@ Always pay attention to road and driving conditions, while driving.
 ![](images/6eaa2460f06d80a6f46be2e313027c324c6da89c797f2698f657b516b308f6e1.webp)
 
 ### Driving on a slope
-`genesis_g90_en_bbdb8bf7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The BCW and BCA systems may not operate properly when driving on a slope. In certain instances the system may not detect the vehicle in the next lane.
 
@@ -8611,7 +7621,6 @@ In certain instances, the system may not detect the vehicle on a road with diffe
 Always pay attention to road and driving conditions, while driving.
 
 ### i Information
-`genesis_g90_en_091e0113` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/094477156c83fb322cbd85a78510613711cd3aa6b3164610ddd48a8af8f847d4.webp)
 
@@ -8630,27 +7639,23 @@ In certain instances, the system may recognize the structures (i.e. noise barrie
 Always pay attention to road and driving conditions, while driving.
 
 ### Information
-`genesis_g90_en_126a7fd3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Radio frequency radiation exposure information:
 
 This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. This equipment should be installed and operated with minimum distance of 8 in. (20 cm) between the radiator (antenna) and your body. This transmitter must not be co-located or operating in conjunction with any other antenna or transmitter.
 
-### WARNING
-`genesis_g90_en_170590a8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Rear Cros -Trafic Colision Warning (RCCW) system
-
-![](images/155ed30377c95e50bc7a8e955fbc20860747b839ce7d265c856dbd423b798606.webp)
-
-OHI058315L
-
-The Rear Cross-Traffic Collision Warning (RCCW) system uses radar sensors to monitor the approaching cross traffic from the left and right side of the vehicle when your vehicle is in reverse.
-
-The blind spot detection range varies relative to the approaching vehicle speed.
+> ⚠️ **Внимание:** 
+> Rear Cros -Trafic Colision Warning (RCCW) system
+>
+> ![](images/155ed30377c95e50bc7a8e955fbc20860747b839ce7d265c856dbd423b798606.webp)
+>
+> OHI058315L
+>
+> The Rear Cross-Traffic Collision Warning (RCCW) system uses radar sensors to monitor the approaching cross traffic from the left and right side of the vehicle when your vehicle is in reverse.
+>
+> The blind spot detection range varies relative to the approaching vehicle speed.
 
 ### Rear Cros -Trafic ColisionAvoidance As ist (RCCA) system
-`genesis_g90_en_898d69ba` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Rear Cross-Traffic CollisionAvoidance Assist (RCCA) system monitors approaching cross traffic from the left and right side of the vehicle when your vehicle is in reverse.
 
@@ -8663,7 +7668,6 @@ The Rear Cross-Traffic Collision Warning system and Rear Cross-Traffic Collision
 The Rear Cross-Traffic Collision Warning system and Rear Cross-Traffic CollisionAvoidance Assist system are not substitutes for proper and safe driving. Always drive safely and use caution when backing up the vehicle.
 
 ### Setting Rear Cross-Traffic Safety function
-`genesis_g90_en_18d4c09d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Rear Cross-Traffic Collision Warning (RCCW) and Rear CrossTraffic Collision Avoidance-Assist (RCCA) can be activated from the Settings menu in the AVN system screen by following the procedure below.
 
@@ -8674,7 +7678,6 @@ The Rear Cross-Traffic Collision Warning (RCCW) and Rear CrossTraffic Collision 
 RCCA and RCCW turn on and are ready to be operated when the 'Rear Cross-Traffic Safety' is selected. When the engine is turned off then on again, the systems will be ready to be operated. When the system is initially turned on and engine is turned off then on again, the warning light will illuminate for 3 seconds on the side view mirror.
 
 ### Setting Warning Timing
-`genesis_g90_en_54c91a64` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The diver can select the initial warning activation time from the Settings menu in the AVN system screen. Select:
 
@@ -8693,7 +7696,6 @@ Late:
 Select this warning activation time when the traffic is light and you are driving at low speeds.
 
 ### Setting Warning Volume
-`genesis_g90_en_48dd2da4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The diver can select the warning volume from the Settings menu in the AVN system screen. Select:
 
@@ -8702,7 +7704,6 @@ Setup → Vehicle Settings → Driver Assistance → Warning Volume → High/Med
 For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### Operating conditions
-`genesis_g90_en_3f70c420` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To operate:
 
@@ -8716,7 +7717,6 @@ An approaching vehicle will be detected if vehicle speed is between 5-23 mph (8-
 Note that the detecting range and operating speed may vary under certain conditions. As always, use caution and pay close attention to your surroundings when backing up your vehicle.
 
 ### Warning and System Control
-`genesis_g90_en_34cdf96e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Rear Cros -Trafic Colision Warning (RCCW) system
 
@@ -8729,7 +7729,6 @@ The warning will stop when:
 the detected vehicle moves out of the sensing area or when the vehicle is right behind your vehicle or when the vehicle is not approaching your vehicle or when the other vehicle slows down.
 
 ### Rear Cros -Trafic Colision-Avoidance As ist (RC A) system
-`genesis_g90_en_29ec8070` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/89802892e97cbd28362d8db340c3bce0ed45aa0377a47cbc16e66c0e14e50394.webp)
 
@@ -8746,33 +7745,28 @@ The brake control may not operate properly according to the status of the ESC (E
 The ESC (Electronic Stability Control) warning light is on.
 The ESC (Electronic Stability Control) is engaged in a different function.
 
-### WARNING
-`genesis_g90_en_c18628c8` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
-
-When the operation condition of the Rear Cross-Traffic Collision Warning system is satisfied, the warning will occur every time a vehicle approaches the side or rear of your stopped (0 mph (0 km/h) vehicle speed) vehicle.
-The system's warning or brake may not operate properly if the left or right of your vehicle's rear bumper is blocked by a vehicle or obstacle.
-Always pay attention to road and traffic conditions while driving, whether or not the warning light on the outer side view mirror illuminates or there is a warning alarm.
-Playing the vehicle audio system at high volume may prevent occupants from hearing the system's warning sounds. If any other warning sound such as seat belt warning chime is already generated, the Rear Cross-Traffic Collision Warning system warning may not sound. Drive safely even though the vehicle is equipped with a Rear Cross-Traffic Collision Warning system and Rear Cross-Traffic Collision-Avoidance Assist system. Do not solely rely on the system but check your surrounding when backing the vehicle up.
-The driver is responsible for accurate brake control.
-Always pay extreme caution while driving. The Rear CrossTraffic Collision Warning system and Rear Cross-Traffic Collision-Avoidance Assist system may not operate properly or unnecessarily operate depending on traffic and driving conditions.
-The Rear Cross-Traffic Collision-Avoidance Assist system is not a substitute for safe driving practices, but a convenience function only. It is the responsibility of the driver to always drive cautiously to prevent unexpected and sudden situations from occurring. Pay attention to the road conditions at all times.
+> ⚠️ **Внимание:** 
+> When the operation condition of the Rear Cross-Traffic Collision Warning system is satisfied, the warning will occur every time a vehicle approaches the side or rear of your stopped (0 mph (0 km/h) vehicle speed) vehicle.
+> The system's warning or brake may not operate properly if the left or right of your vehicle's rear bumper is blocked by a vehicle or obstacle.
+> Always pay attention to road and traffic conditions while driving, whether or not the warning light on the outer side view mirror illuminates or there is a warning alarm.
+> Playing the vehicle audio system at high volume may prevent occupants from hearing the system's warning sounds. If any other warning sound such as seat belt warning chime is already generated, the Rear Cross-Traffic Collision Warning system warning may not sound. Drive safely even though the vehicle is equipped with a Rear Cross-Traffic Collision Warning system and Rear Cross-Traffic Collision-Avoidance Assist system. Do not solely rely on the system but check your surrounding when backing the vehicle up.
+> The driver is responsible for accurate brake control.
+> Always pay extreme caution while driving. The Rear CrossTraffic Collision Warning system and Rear Cross-Traffic Collision-Avoidance Assist system may not operate properly or unnecessarily operate depending on traffic and driving conditions.
+> The Rear Cross-Traffic Collision-Avoidance Assist system is not a substitute for safe driving practices, but a convenience function only. It is the responsibility of the driver to always drive cautiously to prevent unexpected and sudden situations from occurring. Pay attention to the road conditions at all times.
 
 ### Detecting Sensor
-`genesis_g90_en_29bb3e9e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/ed109c59f5cc3abc34d8f62b49f060f4957e220603e32b63a4482cfb6861653f.webp)
 
 The rear radars are located inside the rear bumper for detecting the side and rear areas. Always keep the rear bumper clean for proper operation of the system.
 
 ### NOTICE
-`genesis_g90_en_398d7ffe` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The system may not work properly when the bumper has been damaged, or if the rear bumper has been replaced or repaired. The system may turn off if interfered by electromagnetic waves. Always keep the sensors clean. NEVER disassemble the sensor component or apply any impact on the sensor component. Be careful not to apply unnecessary force on the radar sensor or sensor cover. If the sensor is forcibly moved out of proper alignment, the system may not operate correctly. In this case, a warning message may not be displayed. Have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 Do not apply foreign objects such as a bumper sticker or a bumper guard near the radar sensor or apply paint to the sensor area. Doing so may adversely affect the performance of the sensor.
 
 ### Blind-Spot Collision Warning (BCW) system disabled. Radar blocked
-`genesis_g90_en_2b6d74b8` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 This warning message may appear when:
 
@@ -8787,19 +7781,16 @@ After any dirt or debris is removed, the system should operate normally after ab
 If the system still does not operate normally, have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### i Information
-`genesis_g90_en_05c403b2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Turn off the BCW/BCA and RCCW/RCCA systems when a trailer or carrier is installed.
 
 Press the BCW/BCA switch (the indicator on the switch will turn off) Deactivate the RCCW/RCCA system by deselecting 'Setup → Vehicle Settings → Driver Assistance → Parking Safety → Rear CrossTraffic Safety' in the AVN system screen
 
 ### Check Blind-Spot Collision Warning system
-`genesis_g90_en_6d190d15` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If there is a problem with the BCW system, a warning message will appear and the light on the switch will turn off. The system will turn off automatically. RCCW and RCCA will not operate also if the BCW system turns off due to malfunction. Have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Limitations of the System
-`genesis_g90_en_8e36ed39` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The driver must be cautious in the below situations because the system may not detect other vehicles or objects in certain circumstances:
 
@@ -8836,7 +7827,6 @@ When the vehicle is in a complex parking environment
 The system may not operate properly when the vehicle is in a complex parking environment.
 
 ### Limitations of the System
-`genesis_g90_en_e82b0484` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 In certain instances, the system may not be able to exactly determine the risk of collision for the vehicles which are parking or pulling out near your vehicle (e.g. a vehicle escaping beside your vehicle, a vehicle parking or pulling out in the rear area, a vehicle approaching your vehicle making a turn, etc.).
 
@@ -8883,7 +7873,6 @@ When the vehicle is parked rearward
 If the vehicle is parked rearward and the sensor detects the another vehicle in the rear area of the parking space, the system can warn or control braking. Always pay attention to the parking space while driving.
 
 ### Information
-`genesis_g90_en_802d974f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This device complies with Part 15 of the FCC rules.
 
@@ -8894,56 +7883,48 @@ Operation is subject to the following three conditions:
 3. Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the device.
 
 ### i Information
-`genesis_g90_en_126a7fd3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Radio frequency radiation exposure information:
 
 This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. This equipment should be installed and operated with minimum distance of 8 in. (20 cm) between the radiator (antenna) and your body. This transmitter must not be co-located or operating in conjunction with any other antenna or transmitter.
 
-### WARNING
-`genesis_g90_en_8155195e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> ![](images/4ad2d1e5ea9e66e428e50b1b995ba10ce29a6950985798fe64d0fd3f022a546d.webp)
+>
+> The Smart Cruise Control system is not a substitute for safe driving practices, but a convenience function only. It is the responsibility of the driver to always check the speed and distance to the vehicle ahead.
+>
+> (1) Cruise indicator (2) Set speed (3) Vehicle-to-vehicle distance
 
-![](images/4ad2d1e5ea9e66e428e50b1b995ba10ce29a6950985798fe64d0fd3f022a546d.webp)
+> ⚠️ **Внимание:** 
+> To see the SCC screen on the LCD display on the cluster, select Assist mode ( ). For more details, refer to "LCD Display Modes" in chapter 3.
+>
+> The Smart Cruise Control system allows you to program the vehicle to help maintain the desired speed and minimum distance between the vehicle ahead.
+>
+> The Smart Cruise Control system will automatically adjust your vehicle speed to maintain your programmed speed and following distance without requiring you to depress the accelerator or brake pedals.
+>
+> Take the following precautions
+>
+> Always set the vehicle speed under the speed limit.
+>
+> If the Smart Cruise Control is left on, (CRUISE indicator light in the instrument cluster is illuminated) the Smart Cruise Control can be activated unintentionally. Keep the Smart Cruise Control system off CRUISE indicator light OFF) when the Smart Cruise Control is not in use, to avoid inadvertently setting a speed. Use the Smart Cruise Control system only when traveling on open highways in good weather.
 
-The Smart Cruise Control system is not a substitute for safe driving practices, but a convenience function only. It is the responsibility of the driver to always check the speed and distance to the vehicle ahead.
-
-(1) Cruise indicator (2) Set speed (3) Vehicle-to-vehicle distance
-
-### WARNING
-`genesis_g90_en_11280f4f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-To see the SCC screen on the LCD display on the cluster, select Assist mode ( ). For more details, refer to "LCD Display Modes" in chapter 3.
-
-The Smart Cruise Control system allows you to program the vehicle to help maintain the desired speed and minimum distance between the vehicle ahead.
-
-The Smart Cruise Control system will automatically adjust your vehicle speed to maintain your programmed speed and following distance without requiring you to depress the accelerator or brake pedals.
-
-Take the following precautions
-
-Always set the vehicle speed under the speed limit.
-
-If the Smart Cruise Control is left on, (CRUISE indicator light in the instrument cluster is illuminated) the Smart Cruise Control can be activated unintentionally. Keep the Smart Cruise Control system off CRUISE indicator light OFF) when the Smart Cruise Control is not in use, to avoid inadvertently setting a speed. Use the Smart Cruise Control system only when traveling on open highways in good weather.
-
-### WARNING
-`genesis_g90_en_0d9a1530` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
-
-For your safety, please read the owner's manual before using the Smart Cruise Control system.
-
-Do not use the Smart Cruise
-Control when it may not be
-safe to keep the vehicle at a
-constant speed:
-- When driving in heavy traffic or when traffic conditions make it difficult to drive at a constant speed When driving on rainy, icy, or snow-covered roads When driving on a steep downhill or uphill When driving in windy areas When driving in parking lots When driving near crash barriers When driving on a sharp curve
-When driving with limited view (possibly due to bad weather, such as fog, snow, rain or sandstorm) When the vehicle sensing ability decreases due to vehicle modification resulting level difference of the vehicle's front and rear
-Unexpected situations may
-lead to possible accidents. Pay
-attention continuously to road
-conditions and driving even
-when the smart cruise control
-system is being operated.
+> ⚠️ **Внимание:** 
+> For your safety, please read the owner's manual before using the Smart Cruise Control system.
+>
+> Do not use the Smart Cruise
+> Control when it may not be
+> safe to keep the vehicle at a
+> constant speed:
+> - When driving in heavy traffic or when traffic conditions make it difficult to drive at a constant speed When driving on rainy, icy, or snow-covered roads When driving on a steep downhill or uphill When driving in windy areas When driving in parking lots When driving near crash barriers When driving on a sharp curve
+> When driving with limited view (possibly due to bad weather, such as fog, snow, rain or sandstorm) When the vehicle sensing ability decreases due to vehicle modification resulting level difference of the vehicle's front and rear
+> Unexpected situations may
+> lead to possible accidents. Pay
+> attention continuously to road
+> conditions and driving even
+> when the smart cruise control
+> system is being operated.
 
 ### Smart Cruise Control Switch
-`genesis_g90_en_df2a41b4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/b67f4e9afa86ec03a6aef579a347c2251279a59ee6d5f49100c30ae04e5e6450.webp)
 
@@ -8954,12 +7935,10 @@ SET-: Sets or decreases cruise control speed.
 CANCEL Cancels cruise control operation.
 
 ### Adjusting the Sensitivity of Smart Cruise Control
-`genesis_g90_en_553f1e76` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The sensitivity of vehicle speed when following the front vehicle to maintain the set distance can be adjusted. Select 'Setup → Vehicle Settings → Driver Assistance → SCC Reaction → Fast / Normal / Slow' from the Settings menu in the AVN system screen.
 
 ### For detailed information, scan the QR code in a separately supplied simple manual.
-`genesis_g90_en_6cd817f5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 You may select one of the three stages you prefer.
 
@@ -8971,7 +7950,6 @@ Vehicle speed following the front vehicle to maintain the set distance is normal
 Slow: Vehicle speed following the front vehicle to maintain the set distance is slower than normal speed.
 
 ### Converting to Cruise Control Mode
-`genesis_g90_en_b9219554` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The driver may choose to only use the conventional Cruise Control mode (speed control function) by doing as follows:
 
@@ -8981,13 +7959,10 @@ The driver may choose to only use the conventional Cruise Control mode (speed co
 
 When the system is canceled using the CRUISE button or the CRUISE button is used after the engine is turned on, the Smart Cruise Control mode will turn on.
 
-### WARNING
-`genesis_g90_en_88d3ac0d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-When using the Cruise Control mode, you must manually adjust the distance to other vehicles by depressing the brake pedal. The system does not automatically adjust the distance to vehicles in front of you.
+> ⚠️ **Внимание:** 
+> When using the Cruise Control mode, you must manually adjust the distance to other vehicles by depressing the brake pedal. The system does not automatically adjust the distance to vehicles in front of you.
 
 ### Smart Cruise Control Speed
-`genesis_g90_en_dcd8451f` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 To set Smart Cruise Control spe d
 
@@ -9007,12 +7982,10 @@ going uphill or downhill.
 ![](images/4eb0884609d17e66851f8e9b022896730a39c90ad7688bd62af16994002ce215.webp)
 
 ### Information
-`genesis_g90_en_9b6ac583` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Vehicle speed may decrease on an upward slope and increase on a downward slope. The speed is set to 20 mph (30 km/h) when there is a preceding car in front, and when your vehicle speed is between 0-20 mph (0-30 km/h).
 
 ### To increase Smart Cruise Control setspe d
-`genesis_g90_en_24f9def1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/a4a1df3aa6f5d3a5a8b4c6c76839fe6222ce66c75c3cecaa7838255e92b1c5b8.webp)
 
@@ -9024,7 +7997,6 @@ You can set the speed to 120 mph (200 km/h).
 ![](images/c7d96c729327426fe9fa46966a7bf2a3d1f04aab7921593227f90bb4b3fe04b1.webp)
 
 ### To decrease the Smart Cruise Control setspe d
-`genesis_g90_en_6f986ea2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/2034da926283de968e18e6fcb1bb0ab7ec86ea93e31cd31584b2a5ea81815da8.webp)
 
@@ -9035,26 +8007,22 @@ Push the toggle switch down (SET-), and hold it. Your vehicle set speed will dec
 You can set the speed to 20 mph (30 km/h).
 
 ### To temporarily ac elerate with the Smart Cruise Control on
-`genesis_g90_en_b5b3c9c9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you want to speed up temporarily when the Smart Cruise Control is on, depress the accelerator pedal. Increased speed will not interfere with Smart Cruise Control operation or change the set speed.
 
 To return to the set speed, take your foot off the accelerator pedal. If you push the toggle switch down (SET-) at increased speed, the cruising speed will be set again.
 
 ### i Information
-`genesis_g90_en_1f32d285` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Be careful when accelerating temporarily, because the speed is not controlled automatically at this time even if there is a vehicle in front of you.
 
 ### Canceled manually
-`genesis_g90_en_1e429d3c` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 Depressing the brake pedal. Pushing the CANCEL button located on the steering wheel.
 
 The Smart Cruise Control turns off temporarily when the Set Speed and Vehicle-to-Vehicle Distance indicator on the cluster LCD display turns off. The cruise indicator CRUISE is illuminated continuously.
 
 ### Canceled automatically
-`genesis_g90_en_701f582c` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 The driver's door is opened.
 The vehicle is shifted to N (Neutral), R (Reverse) or P (Park). EPB (Electronic Parking Brake) is applied.
@@ -9072,14 +8040,12 @@ The braking control is operated for FCA (Forward Collision-Avoidance Assist)
 The engine is stopped by ISG (Idle Stop & Go) (if equipped).
 
 ### i Information
-`genesis_g90_en_0433bdd4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the Smart Cruise Control is canceled during a situation that is not described, have the system checked by an authorized retailer of Genesis Branded products.
 
 ![](images/cf80119225b028a0cc6523fa5c57d0d3b6d19a3f647454dcbf582451cbf52fb8.webp)
 
 ### Smart Cruise Control canceled
-`genesis_g90_en_876c69cb` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 If the system is canceled, the warning chime will sound and a message will appear for a few seconds.
 
@@ -9095,26 +8061,21 @@ In a condition the Smart Cruise Control is canceled automatically, the Smart Cru
 Also, if the Smart Cruise Control is canceled automatically while the vehicle is at a standstill, EPB (Electronic Parking Brake) will be applied.
 
 ### To resume Smart Cruise Control set spe d
-`genesis_g90_en_20cd0038` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If any method other than the cruise toggle switch was used to cancel cruising speed and the system is still activated, the cruising speed will automatically resume when you push the toggle switch up (RES+) or down (SET-).
 
 If you push the toggle switch up (RES+), the speed will resume to the recently set speed. However, if vehicle speed drops below 5 mph (10 km/h), it will resume when there is a vehicle in front of your vehicle.
 
-### WARNING
-`genesis_g90_en_dd85ab6b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-To avoid collisions, always be aware of the selected speed and vehicle to vehicle distance settings when activating your smart cruise control system. Always maintain sufficient braking distance and decelerate your vehicle by applying the brakes if necessary.
+> ⚠️ **Внимание:** 
+> To avoid collisions, always be aware of the selected speed and vehicle to vehicle distance settings when activating your smart cruise control system. Always maintain sufficient braking distance and decelerate your vehicle by applying the brakes if necessary.
 
 ### To turn Cruise Control of
-`genesis_g90_en_0b57446f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/896d50764fefe8cd1d7f8e11277b6a0ebd9479c615a9a5665e8c24e26d426cec.webp)
 
 Push the CRUISE button. The cruise indicator will go off. If you wish not to use the cruise control system, always turn the system off by pushing the CRUISE button.
 
 ### Smart Cruise Control Vehicleto-Vehicle Distance
-`genesis_g90_en_ad7906d3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To set Vehicle-to-Vehicle Distance
 
@@ -9131,19 +8092,16 @@ For example, if you drive at 56 mph (90 km/h), the distance maintain as follows:
 Distance 4 - approximately 172 feet Distance 3 - approximately 130 feet Distance 2 approximately 106 feet Distance 1 - approximately 82 feet
 
 ### i Information
-`genesis_g90_en_d4f40eb1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The distance is set to the last set distance when the system is used for the first time after starting the engine.
 
 ### When the lane ahead s clear:
-`genesis_g90_en_c2803f74` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/8cf2cda900dac5be8a85fae3190f6c77bde22f90c92a99463fe94a6336f92b66.webp)
 
 The vehicle speed will maintain the set speed.
 
 ### When there is a vehicle ahead ofyou nyour lane:
-`genesis_g90_en_c1450601` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/e83fc22b9cf2f1e7f98b6fa3d6f8f9a121676a106d71385e6800513030ed9189.webp)
 
@@ -9156,32 +8114,28 @@ Your vehicle speed will slow down or speed up to maintain the selected distance.
 If the vehicle ahead speeds up, your vehicle will travel at a steady cruising speed after accelerating to the set speed.
 If distance from the front vehicle has been changed due to accelerating or decelerating of front vehicle, the distance on the cluster LCD display may change.
 
-### WARNING
-`genesis_g90_en_f09baf45` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-![](images/0ce6abbc338ffd9cc809dde7ee3f8546562be4bf3d3bb7560a85b22e7e08b979.webp)
-
-OHI058237L
-
-When using the Smart Cruise Control System:
-
-The warning message appears and warning chime sounds if the vehicle is unable to maintain the selected distance from the vehicle ahead. If the warning message appears and warning chime sounds, depress the brake pedal to actively adjust the vehicle speed, and the distance to the vehicle ahead. Even if the warning message does not appear and warning chime does not sound, always pay attention to the driving conditions to prevent dangerous situations from occurring. Playing the vehicle audio system at high volume may prevent occupants from hearing the system warning sounds.
-
-![](images/191343fa7e758b0e0aaf879cfa4928aad1654fe8e0c9e1f207e8011b268b5056.webp)
-
-OHI058266L
-
-If the vehicle ahead (vehicle speed: less than 20 mph (30 km/h)) moves to the next lane, the warning chime will sound and a message "Watch for surrounding vehicles" will appear. Adjust your vehicle speed for vehicles or objects that can suddenly appear in front of you by depressing the brake pedal. Always pay attention to the road condition ahead.
+> ⚠️ **Внимание:** 
+> ![](images/0ce6abbc338ffd9cc809dde7ee3f8546562be4bf3d3bb7560a85b22e7e08b979.webp)
+>
+> OHI058237L
+>
+> When using the Smart Cruise Control System:
+>
+> The warning message appears and warning chime sounds if the vehicle is unable to maintain the selected distance from the vehicle ahead. If the warning message appears and warning chime sounds, depress the brake pedal to actively adjust the vehicle speed, and the distance to the vehicle ahead. Even if the warning message does not appear and warning chime does not sound, always pay attention to the driving conditions to prevent dangerous situations from occurring. Playing the vehicle audio system at high volume may prevent occupants from hearing the system warning sounds.
+>
+> ![](images/191343fa7e758b0e0aaf879cfa4928aad1654fe8e0c9e1f207e8011b268b5056.webp)
+>
+> OHI058266L
+>
+> If the vehicle ahead (vehicle speed: less than 20 mph (30 km/h)) moves to the next lane, the warning chime will sound and a message "Watch for surrounding vehicles" will appear. Adjust your vehicle speed for vehicles or objects that can suddenly appear in front of you by depressing the brake pedal. Always pay attention to the road condition ahead.
 
 ### Use switch or pedal to accelerate
-`genesis_g90_en_2d5cf986` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 In traffic, your vehicle will stop if the vehicle ahead of you stops. Also, if the vehicle ahead of you starts moving, your vehicle will start as well. However, if the vehicle stops for more than 3 seconds, you must depress the accelerator pedal or push up the toggle switch (RES+) or push down the toggle switch (SET-) to start driving.
 
 If you push the smart cruise control toggle switch (RES+ or SET-) while Auto Hold and smart cruise control is operating the Auto Hold will be released regardless of accelerator pedal operation and the vehicle will start to move. The AUTO HOLD indicator changes from green to white.
 
 ### Sensor to Detect Distance to the Vehicle Ahead
-`genesis_g90_en_e64d16dc` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/5ebe773cd94ef9ac73eda71e16ab824fdb759c548d9a9f1b0da1efd241d6e075.webp)
 
@@ -9192,7 +8146,6 @@ If the sensor is covered with dirt or other foreign matter, the vehicle to vehic
 Always keep the sensor clean.
 
 ### Warning mes age
-`genesis_g90_en_ab177876` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 ![](images/2e6dbc95d9d280156f08b3cd83d44431a1bf4620dff97dab04e16622a694a724.webp)
 
@@ -9205,12 +8158,10 @@ Remove any dirt, snow, or debris and clean the radar sensor lens cover before op
 The Smart Cruise Control system may not properly activate, if the radar is totally covered, or if any substance is not detected after turning ON the engine (e.g. in an open terrain).
 
 ### i Information
-`genesis_g90_en_5950d1e7` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 For the SCC operation is temporarily stopped if the radar is blocked, but you wish to use cruise control mode (speed control function), you must convert to the cruise control mode (refer to "To convert to Cruise Control mode" in the following page.
 
 ### A CAUTION
-`genesis_g90_en_b59fd5c5` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 Do not apply license plate frame or foreign objects such as a bumper sticker or a bumper guard near the radar sensor. Doing so may adversely affect the sensing performance of the radar. Always keep the radar sensor and lens cover clean and free of dirt and debris. Use only a soft cloth to wash the vehicle. Do not spray pressurized water directly on the sensor or sensor cover.
 
@@ -9219,19 +8170,16 @@ If the front bumper becomes damaged in the area around the radar sensor, the Sma
 Use only Genuine Genesis Parts to repair or replace a damaged sensor or sensor cover. Do not apply paint to the sensor cover.
 
 ### System Malfunction
-`genesis_g90_en_6aaecd5d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/48afda6578afb4d6922627436e01c64e303162858e73932ec6d65f661de6b815.webp)
 
 Check Smart Cruise Control System The message will appear when the vehicle to vehicle distance control system is not functioning normally. Take your vehicle to an authorized retailer of Genesis Branded products and have the system checked.
 
 ### Limitations of the System
-`genesis_g90_en_62143a5f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Smart Cruise Control system may have limits to its ability to detect distance to the vehicle ahead due to road and traffic conditions.
 
 ### On curves
-`genesis_g90_en_82f1d0c4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/609261afcbbbb010ba7acf452721cb3ab78a49ae65910564a0a631f0b2449e05.webp)
 
@@ -9244,14 +8192,12 @@ Your vehicle speed can be reduced due to a vehicle in the adjacent lane. Apply t
 Check to be sure that the road conditions permit safe operation of the Smart Cruise Control.
 
 ### On inclines
-`genesis_g90_en_5ac26a84` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/8730999f3f541bb9fc124902e9866605ea3ae3f07fd01e40d61848db376d7ae6.webp)
 
 During uphill or downhill driving, the Smart Cruise Control system may not detect a moving vehicle in your lane, and cause your vehicle to accelerate to the set speed. Also, the vehicle speed will rapidly decrease when the vehicle ahead is recognized suddenly. Select the appropriate set speed on inclines and apply the brake or accelerator pedal if necessary.
 
 ### Vehicle recognition
-`genesis_g90_en_c4543e7b` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 明 1-OHI058307L
 
@@ -9296,30 +8242,26 @@ Always look out for pedestrians when your vehicle is maintaining a distance with
 
 Always be cautious for vehicles with higher height or vehicles carrying loads that sticks out from the back of the vehicle.
 
-### WARNING
-`genesis_g90_en_568a10d1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-When using the Smart Cruise Control take the following precautions:
-
-If an emergency stop is necessary, you must apply the brakes. The smart cruise control system cannot guarantee the stop for every emergency situation.
-Keep a safe distance according to road conditions and vehicle speed. If the vehicle to vehicle distance is too close during a high-speed driving, a serious collision may result.
-Always maintain sufficient braking distance and decelerate your vehicle by applying the brakes if necessary.
-The Smart Cruise Control system cannot recognize a stopped vehicle, pedestrians or an oncoming vehicle. Always look ahead cautiously to prevent unexpected and sudden situations from occurring.
-Vehicles moving in front of you with a frequent lane change may cause a delay in the system's reaction or may cause the system to react to a vehicle actually in an adjacent lane. Always drive cautiously to prevent unexpected and sudden situations from occurring.
-Always be aware of the selected speed and vehicle to vehicle distance. The driver should not solely rely on the system but always pay attention to driving conditions and control your vehicle speed. The Smart Cruise Control system may not recognize complex driving situations so always pay attention to driving conditions and control your vehicle speed.
-The Smart Cruise Control system may recognize a pedestrian, bicycle, motorcycle, etc. as a vehicle. Always, look ahead cautiously to prevent unexpected and sudden situations from occurring.
-Turn off the Smart Cruise Control system when the vehicle is being towed.
-The Smart Cruise Control system may operate limitedly when towing a trailer or vehicle so always drive cautiously to prevent unexpected and sudden situations from occurring.
+> ⚠️ **Внимание:** 
+> When using the Smart Cruise Control take the following precautions:
+>
+> If an emergency stop is necessary, you must apply the brakes. The smart cruise control system cannot guarantee the stop for every emergency situation.
+> Keep a safe distance according to road conditions and vehicle speed. If the vehicle to vehicle distance is too close during a high-speed driving, a serious collision may result.
+> Always maintain sufficient braking distance and decelerate your vehicle by applying the brakes if necessary.
+> The Smart Cruise Control system cannot recognize a stopped vehicle, pedestrians or an oncoming vehicle. Always look ahead cautiously to prevent unexpected and sudden situations from occurring.
+> Vehicles moving in front of you with a frequent lane change may cause a delay in the system's reaction or may cause the system to react to a vehicle actually in an adjacent lane. Always drive cautiously to prevent unexpected and sudden situations from occurring.
+> Always be aware of the selected speed and vehicle to vehicle distance. The driver should not solely rely on the system but always pay attention to driving conditions and control your vehicle speed. The Smart Cruise Control system may not recognize complex driving situations so always pay attention to driving conditions and control your vehicle speed.
+> The Smart Cruise Control system may recognize a pedestrian, bicycle, motorcycle, etc. as a vehicle. Always, look ahead cautiously to prevent unexpected and sudden situations from occurring.
+> Turn off the Smart Cruise Control system when the vehicle is being towed.
+> The Smart Cruise Control system may operate limitedly when towing a trailer or vehicle so always drive cautiously to prevent unexpected and sudden situations from occurring.
 
 ### NOTICE
-`genesis_g90_en_eac7e5cd` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Smart Cruise Control system may not operate temporarily due to:
 
 Electrical interference A modified suspension Differences of tire abrasion or tire pressure Installing different type of tires
 
 ### i Information
-`genesis_g90_en_802d974f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This device complies with Part 15 of the FCC rules.
 
@@ -9330,31 +8272,26 @@ Operation is subject to the following three conditions:
 3. Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the device.
 
 ### Information
-`genesis_g90_en_126a7fd3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Radio frequency radiation exposure information:
 
 This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. This equipment should be installed and operated with minimum distance of 8 in. (20 cm) between the radiator (antenna) and your body. This transmitter must not be co-located or operating in conjunction with any other antenna or transmitter.
 
 ### LEADING VEHICLE DEPARTURE ALERT
-`genesis_g90_en_115b8965` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Leading Vehicle Departure Alert system alerts the driver of the departure of the vehicle in front when the vehicle is stopped and the Smart Cruise Control (SCC) system is operating.
 
 ### System seting
-`genesis_g90_en_5a026b8b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Leading Vehicle Departure Alert can be activated from the Settings menu in the AVN system screen by following the procedure below.
 
 1. Set the Engine Start/Stop button to the ON or START position. 2. Select 'Setup → Vehicle Settings → Driver Assistance → Leading Vehicle Departure Alert' in the AVN system screen. For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### Use switch or pedal to accelerate
-`genesis_g90_en_156fc5e7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 While the Smart Cruise Control (SCC) system is operating, your vehicle stops behind the vehicle in front when it stops. The message shown above is displayed on the cluster within 3 seconds after the stop and the system will be in the standby position.
 
 ### Leading vehicle is driving away
-`genesis_g90_en_df73efa2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the driver does not take action for a certain period of time after the vehicle in front departs, the message shown above is displayed on the cluster.
 
@@ -9363,19 +8300,15 @@ The vehicle departs automatically if the accelerator pedal is depressed or RES+ 
 The Smart Cruise Control (SCC) system is deactivated if the accelerator pedal is depressed or RES+ or SET- toggle switch is pushed up or down when there is no vehicle in front.
 
 ### NAVIGATION-BASED SMART CRUISE CONTROL (IF EQUIPPPED)
-`genesis_g90_en_6bc0cfa4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Navigation-based Smart Cruise Control system will help automatically adjust your speed when a curved road is ahead by receiving road information from the navigation while the Smart Cruise Control is operating.
 
-### WARNING
-`genesis_g90_en_69d6f850` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-The Navigation-based Smart Cruise Control system is not a substitute for safe driving practices, but a convenience function. It is the responsibility of the driver to always be aware of the surroundings and drive safely.
-The Navigation-based Smart Cruise Control system relies entirely on the road information provided by the navigation system and may accelerate above speed limit. It is the responsibility of the driver to follow traffic laws and avoid accidents.
-For your safety, please read the owner's manual before using the system.
+> ⚠️ **Внимание:** 
+> The Navigation-based Smart Cruise Control system is not a substitute for safe driving practices, but a convenience function. It is the responsibility of the driver to always be aware of the surroundings and drive safely.
+> The Navigation-based Smart Cruise Control system relies entirely on the road information provided by the navigation system and may accelerate above speed limit. It is the responsibility of the driver to follow traffic laws and avoid accidents.
+> For your safety, please read the owner's manual before using the system.
 
 ### Information
-`genesis_g90_en_b0f999e4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Navigation-based Smart Cruise Control system is available only on controlled access road of certain highways.
 
@@ -9386,7 +8319,6 @@ The Navigation-based Smart Cruise Control system is available only on controlled
 Additional highways may be expanded by navigation updates.
 
 ### System seting
-`genesis_g90_en_5be29deb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 With the Engine Start/Stop button in the ON or START position, the Navigation-based Smart Cruise Control can be activated by selecting 'Setup → Vehicle Settings → Driver Assistance → Highway Auto Curve Slowdown' from the Settings menu in the AVN system screen. Deselect the setting to turn off the system. For detailed information, scan the QR code in a separately supplied simple manual.
 
@@ -9395,7 +8327,6 @@ If the engine is turned off then on again, the system maintains the last setting
 ![](images/a4475395690f1c4189a7e437ebc0189edc8e153168c3ba993bc3bd8164d42eab.webp)
 
 ### Operating conditions
-`genesis_g90_en_331fb6b1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Select 'Highway Auto Curve Slowdown' from the Settings menu in the AVN system screen and satisfy the following conditions for the system to operate.
 
@@ -9404,7 +8335,6 @@ Driving on the highway main line Smart Cruise Control is operating If all the me
 ![](images/0348c97a707682f8d3f150be48130e43cbb7248a2c9f14478316c02c699cbbc0.webp)
 
 ### System in operation
-`genesis_g90_en_7bbaedbc` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the vehicle decelerates in a curve, the AUTO symbol on the cluster will illuminate green.
 
@@ -9423,7 +8353,6 @@ If there is a problem with Navigation-based Smart Cruise Control, the system can
 After you pass through a tollgate on a highway, the system operates based on the first lane. If you enter one of the other lanes, the system might not properly decelerate. If you over speed, the system may not decelerate the vehicle in a curve. Deceleration by the system may not be sufficient if the driver accelerates while the system is operating, Deceleration by the system may not be sufficient due to road conditions such as uneven road surfaces, narrow lanes, etc. If the road is controlled, due to construction or holiday events, the system might not work properly.
 
 ### i Information
-`genesis_g90_en_35af98a4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Navigation-based Cruise
 Control system may not func
@@ -9439,48 +8368,40 @@ Operation is subject to the following three conditions:
 3. Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the device.
 
 ### Information
-`genesis_g90_en_126a7fd3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Radio frequency radiation exposure information:
 
 This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. This equipment should be installed and operated with minimum distance of 8 in. (20 cm) between the radiator (antenna) and your body. This transmitter must not be co-located or operating in conjunction with any other antenna or transmitter.
 
 ### LANE FOLLOWING ASSIST (LFA) SYSTEM
-`genesis_g90_en_0a2d393c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/e737805ac02fdea635933034c921dbf19679e20501b3ff5a17f52108d79740ad.webp)
 
 The Lane Following Assist (LFA) system helps detect lane markers on the road with a front view camera at the front windshield, and assists the driver's steering to help keep the vehicle between lanes.
 
-### WARNING
-`genesis_g90_en_8a076959` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> The Lane Following Assist (LFA) system is not a substitute for safe driving practices, but a convenience function. It is the responsibility of the driver to always be aware of the surroundings and steer the vehicle.
 
-The Lane Following Assist (LFA) system is not a substitute for safe driving practices, but a convenience function. It is the responsibility of the driver to always be aware of the surroundings and steer the vehicle.
-
-### WARNING
-`genesis_g90_en_a723a4e1` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
-
-Take the following precautions when using the Lane Following Assist (LFA) system:
-
-Do not turn the steering wheel suddenly when the steering wheel is being assisted by the system.
-LFA system helps the driver to keep the vehicle in the center of the lane by assisting the driver's steering. However, the driver should not solely rely on the system but always pay attention on the steering wheel to stay in the lane.
-The operation of the LFA system can be canceled or not work properly according to road condition and surroundings. Always be cautious when driving.
-Do not disassemble the LFA system camera temporarily to tint the window or attach any types of coatings and accessories. If you disassemble the camera and assemble it again, we recommend that you take your vehicle to an authorized retailer of Genesis Branded products and have the system checked for calibration.
-When you replace the windshield glass, LFA system camera or related parts of the steering wheel, take your vehicle to an authorized retailer of Genesis Branded products and have the system checked for calibration. The system helps detect lane markers and controls the steering wheel by a camera, therefore, if the lane markers are hard to detect, the system may not work properly.
-Please refer to "Limitations of the System".
-Do not remove or damage the related parts of LFA system. You may not hear a warning sound of LFA system if the audio volume is high.
-Do not place objects on the dashboard that reflects light such as mirrors, white paper, etc. This may prevent the LFA system from functioning properly.
-Always have your hands on the steering wheel while the LFA system is activated.
-The steering wheel is not continuously controlled so if the vehicle speed is at a higher rate when leaving a lane the vehicle may not be controlled by the system. The driver must always follow the speed limit when using the system. If you attach objects to the steering wheel, the system may not assist steering or the hands off alarm may not work properly.
+> ⚠️ **Внимание:** 
+> Take the following precautions when using the Lane Following Assist (LFA) system:
+>
+> Do not turn the steering wheel suddenly when the steering wheel is being assisted by the system.
+> LFA system helps the driver to keep the vehicle in the center of the lane by assisting the driver's steering. However, the driver should not solely rely on the system but always pay attention on the steering wheel to stay in the lane.
+> The operation of the LFA system can be canceled or not work properly according to road condition and surroundings. Always be cautious when driving.
+> Do not disassemble the LFA system camera temporarily to tint the window or attach any types of coatings and accessories. If you disassemble the camera and assemble it again, we recommend that you take your vehicle to an authorized retailer of Genesis Branded products and have the system checked for calibration.
+> When you replace the windshield glass, LFA system camera or related parts of the steering wheel, take your vehicle to an authorized retailer of Genesis Branded products and have the system checked for calibration. The system helps detect lane markers and controls the steering wheel by a camera, therefore, if the lane markers are hard to detect, the system may not work properly.
+> Please refer to "Limitations of the System".
+> Do not remove or damage the related parts of LFA system. You may not hear a warning sound of LFA system if the audio volume is high.
+> Do not place objects on the dashboard that reflects light such as mirrors, white paper, etc. This may prevent the LFA system from functioning properly.
+> Always have your hands on the steering wheel while the LFA system is activated.
+> The steering wheel is not continuously controlled so if the vehicle speed is at a higher rate when leaving a lane the vehicle may not be controlled by the system. The driver must always follow the speed limit when using the system. If you attach objects to the steering wheel, the system may not assist steering or the hands off alarm may not work properly.
 
 ### System seting
-`genesis_g90_en_cbecdbec` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 With the Engine Start/Stop button is in the ON or START position, the Lane Following Assist can be activated by selecting 'Setup → Vehicle Settings → Driver Assistance → Lane Following Assist' from the Settings menu in the AVN system screen. Deselect the setting to turn off the system. For detailed information, scan the QR code in a separately supplied simple manual.
 If the engine is turned off then on again, the system maintains the last setting.
 
 ### Operating conditions
-`genesis_g90_en_0cc16df8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Select 'Lane Following Assist' from the Settings menu in the AVN system screen and satisfy the following conditions for the system to operate.
 
@@ -9493,7 +8414,6 @@ Green Steering assist mode is ON
 White Steering assist mode is OFF
 
 ### Warning Message
-`genesis_g90_en_c1782643` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/0d81f0bbe67c9f4559a10aa91d64bf7b1699b82fa48d180f5ba1a53fe9c5dc4f.webp)
 
@@ -9508,53 +8428,44 @@ When the steering wheel is not controlled temporarily, the 日 indicator light w
 Keep hands on steering wheel If the driver takes their hands off the steering wheel for several seconds while the LFA system is activated, the system will warn the driver.
 
 ### i Information
-`genesis_g90_en_571604f3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Hold the steering wheel tight. Otherwise, the LFA system could misjudge that the driver's hands are off the steering wheel, and the above warning may occur.
 
-### WARNING
-`genesis_g90_en_5b519354` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-The warning message may appear late according to road conditions. Therefore, always have your hands on the steering wheel while driving.
-
-![](images/6e04e0c7774df5679d0bb8233ac86cd6929a8e0a8d9060147ab4912be756468b.webp)
+> ⚠️ **Внимание:** 
+> The warning message may appear late according to road conditions. Therefore, always have your hands on the steering wheel while driving.
+>
+> ![](images/6e04e0c7774df5679d0bb8233ac86cd6929a8e0a8d9060147ab4912be756468b.webp)
 
 ### Driving Convenience systems canceled
-`genesis_g90_en_e544827a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the driver still does not have their hands on the steering wheel after the message "Keep hands on steering wheel", the LFA system will be canceled. However, if the Smart Cruise Control is reactivated manually by the driver, the Lane Following Assist System will reactivate.
 
 To activate Smart Cruise control, refer to "Smart Cruise Control with Stop and Go" in chapter 5.
 
-### WARNING
-`genesis_g90_en_97a0e191` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-The LFA system is a supple
-mental system only. It is the
-responsibility of the driver to
-safely steer the vehicle and to
-maintain it in its lane.
-Turn off the LFA system and
-drive without using the sys
-tem in the following situa
-tions:
-- In bad weather In bad road conditions When the steering wheel needs to be controlled by the driver frequently.
-When towing a vehicle or trailer
+> ⚠️ **Внимание:** 
+> The LFA system is a supple
+> mental system only. It is the
+> responsibility of the driver to
+> safely steer the vehicle and to
+> maintain it in its lane.
+> Turn off the LFA system and
+> drive without using the sys
+> tem in the following situa
+> tions:
+> - In bad weather In bad road conditions When the steering wheel needs to be controlled by the driver frequently.
+> When towing a vehicle or trailer
 
 ### i Information
-`genesis_g90_en_6bad235b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Even though the steering is assisted by the system, the driver may control the steering wheel. The steering wheel may feel heavier when the steering wheel is assisted by the system than when it is not.
 
 ![](images/4e9bc958b227a0b2ff665d32ac75c740cc5f1230f9b96a8650e5aa35bdc544b4.webp)
 
 ### Check Lane Following Assist (LFA) system
-`genesis_g90_en_0ca976af` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If there is a problem with the system a message will appear for a few seconds. If the problem continues, we recommend that you have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### The LFA system will not be in the ENABLED state and/or the steering wheel will not be assisted when:
-`genesis_g90_en_7ce8f0e4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The turn signal is turned on before changing a lane. If you change lanes without the turn signal on, the steering wheel might be controlled.
 The vehicle is not driven in the middle of the lane when the system is turned on or right after changing a lane.
@@ -9570,12 +8481,10 @@ The steering wheel is turned suddenly.
 The system may not operate for 15 seconds after the engine is started or the camera is initialized.
 
 ### Limitations of the System
-`genesis_g90_en_16c03d1b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The LFA system may operate prematurely even if the vehicle does not depart from the intended lane, OR, the LFA system may not assist your steering or warn you if the vehicle leaves the intended lane under the following circumstances:
 
 ### When the lane and road conditions are poor
-`genesis_g90_en_3c776090` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 It is difficult to distinguish the lane marking from the road surface or the lane marking is faded or not clearly marked.
 It is difficult to distinguish the color of the lane marker from the road. There are markings on the road surface that look like a lane marker that is inadvertently being detected by the camera.
@@ -9590,7 +8499,6 @@ The lane marker in a tunnel is stained with oil, etc.
 The lane suddenly disappears such as at the intersection.
 
 ### When external condition is intervened
-`genesis_g90_en_ac4c533c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The brightness outside changes suddenly such as when entering or exiting a tunnel, or when passing under a bridge.
 The brightness outside is too low such as when the headlamps are not on at night or the vehicle is going through a tunnel.
@@ -9603,7 +8511,6 @@ The surrounding of the inside rear view mirror temperature is high due to direct
 The sensor recognition changes suddenly when passing over a speed bump or driving on a steep up/down or right/left grade
 
 ### When front visibility is poor
-`genesis_g90_en_eea5372f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The windshield or the camera lens is covered with dirt or debris.
 The windshield glass is fogged up; a clear view of the road is obstructed.
@@ -9611,7 +8518,6 @@ Placing objects on the dashboard, etc.
 The sensor cannot detect the lane because of fog, heavy rain or snow.
 
 ### LANE KEEPING ASSIST (LKA) SYSTEM
-`genesis_g90_en_6d416150` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/7bad1b340681637a399dc633edc18868a5e79265e5f1d00f5771cc22b27c9d80.webp)
 
@@ -9619,21 +8525,18 @@ The Lane Keeping Assist (LKA) system with a camera at the front windshield, help
 
 When the system detects the vehicle straying from its lane, it alerts the driver with a visual and audible warning, while applying a counter-steering torque, trying to help prevent the vehicle from moving out of its lane.
 
-### WARNING
-`genesis_g90_en_a6c1521a` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
-
-Do not turn the steering wheel suddenly when the steering wheel is being assisted by the system.
-LKA system helps to prevent the driver from moving out of the lane unintentionally by assisting the driver's steering. However, the driver should not solely rely on the system but always pay attention on the steering wheel to stay in the lane.
-The operation of the LKA system can be canceled or not work properly according to road condition and surroundings. Always be cautious when driving.
-Do not disassemble the LKA system camera temporarily to tint the window or attach any types of coatings and accessories. you disassemble the camera and assemble it again, take your vehicle to an authorized retailer of Genesis Branded products and have the system checked for calibration.
-When you replace the windshield glass, LKA system camera or related parts of the steering wheel, take your vehicle to an authorized retailer of Genesis Branded products and have the system checked for calibration.
-
-The Lane Keeping Assist (LKA) system is not a substitute for safe driving practices, but a convenience function. It is the responsibility of the driver to always be aware of the surroundings and steer the vehicle.
-
-The system helps detect lane markers and controls the steering wheel by a camera, therefore, if the lane markers are hard to detect, the system may not work properly. Please refer to "Limitations of the System" • Do not remove or damage the related parts of LKA system. You may not hear a warning sound of LKA system if the audio volume is high. If any other warning sound such as seat belt warning chime is already generated, the Lane Keeping Assist (LKA) system warning may not sound. Do not place objects on the dashboard that reflects light such as mirrors, white paper, etc. This may prevent the LKA system from functioning properly. Always have your hands on the steering wheel while the LKA system is activated. The steering wheel is not continuously controlled so if the vehicle speed is at a higher rate when leaving a lane the vehicle may not be controlled by the system. The driver must always follow the speed limit when using the system. If you attach objects to the steering wheel, the system may not assist steering or the hands off alarm may not work properly.
+> ⚠️ **Внимание:** 
+> Do not turn the steering wheel suddenly when the steering wheel is being assisted by the system.
+> LKA system helps to prevent the driver from moving out of the lane unintentionally by assisting the driver's steering. However, the driver should not solely rely on the system but always pay attention on the steering wheel to stay in the lane.
+> The operation of the LKA system can be canceled or not work properly according to road condition and surroundings. Always be cautious when driving.
+> Do not disassemble the LKA system camera temporarily to tint the window or attach any types of coatings and accessories. you disassemble the camera and assemble it again, take your vehicle to an authorized retailer of Genesis Branded products and have the system checked for calibration.
+> When you replace the windshield glass, LKA system camera or related parts of the steering wheel, take your vehicle to an authorized retailer of Genesis Branded products and have the system checked for calibration.
+>
+> The Lane Keeping Assist (LKA) system is not a substitute for safe driving practices, but a convenience function. It is the responsibility of the driver to always be aware of the surroundings and steer the vehicle.
+>
+> The system helps detect lane markers and controls the steering wheel by a camera, therefore, if the lane markers are hard to detect, the system may not work properly. Please refer to "Limitations of the System" • Do not remove or damage the related parts of LKA system. You may not hear a warning sound of LKA system if the audio volume is high. If any other warning sound such as seat belt warning chime is already generated, the Lane Keeping Assist (LKA) system warning may not sound. Do not place objects on the dashboard that reflects light such as mirrors, white paper, etc. This may prevent the LKA system from functioning properly. Always have your hands on the steering wheel while the LKA system is activated. The steering wheel is not continuously controlled so if the vehicle speed is at a higher rate when leaving a lane the vehicle may not be controlled by the system. The driver must always follow the speed limit when using the system. If you attach objects to the steering wheel, the system may not assist steering or the hands off alarm may not work properly.
 
 ### LKA operation
-`genesis_g90_en_63ecd698` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/7d82a70b1de0ebaa5f774ebc2057f1ae613998c3ece7d59e230f20803259c526.webp)
 
@@ -9655,12 +8558,10 @@ White Sensor does not detect lane markers or vehicle speed is under 40 mph (64 k
 Green Sensor detects lane markers and the system is able to control vehicle steering.
 
 ### i Information
-`genesis_g90_en_2097b1cf` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the indicator (white) is activated from the previous ignition cycle, the system will turn ON without any additional control. If you press the LKA switch again, the indicator on the cluster goes off.
 
 ### LKA system operation
-`genesis_g90_en_0729647c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/f9ee7e48953c679bf850ae3a341f8975461093665311e67487fa0d63766d045d.webp)
 
@@ -9689,7 +8590,6 @@ The steering wheel is not turned suddenly.
 When lane markers are detected and all the conditions to activate the LKA system are satisfied, a LKA system indicator light ( ) will change from white to green. This indicates that the LKA system is in the ENABLED state and the steering wheel will be controlled.
 
 ### Warning Light and Message
-`genesis_g90_en_26e0ffa3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Ke p hands on ste ring whe l
 
@@ -9698,39 +8598,31 @@ Ke p hands on ste ring whe l
 If the driver takes their hands off the steering wheel for several seconds while the LKA system is activated, the system will warn the driver.
 
 ### i Information
-`genesis_g90_en_1fcd8f17` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the steering wheel is held with a light grip, the message may appear because the LKA system may not recognize that the driver has their hands on the steering wheel.
 
-### WARNING
-`genesis_g90_en_626fc954` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> The warning message may appear late according to road conditions. Therefore, always have your hands on the steering wheel while driving.
 
-The warning message may appear late according to road conditions. Therefore, always have your hands on the steering wheel while driving.
-
-### WARNING
-`genesis_g90_en_183e1b8a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-The LKA system is a supplemental system only. It is the responsibility of the driver to safely steer the vehicle and to maintain it in its lane.
-Turn off the LKA system and drive without using the system in the following situations:
-- In bad weather
-In bad road conditions
-When the steering wheel needs to be controlled by the driver frequently.
-When towing a vehicle or trailer
+> ⚠️ **Внимание:** 
+> The LKA system is a supplemental system only. It is the responsibility of the driver to safely steer the vehicle and to maintain it in its lane.
+> Turn off the LKA system and drive without using the system in the following situations:
+> - In bad weather
+> In bad road conditions
+> When the steering wheel needs to be controlled by the driver frequently.
+> When towing a vehicle or trailer
 
 ### i Information
-`genesis_g90_en_6bad235b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Even though the steering is assisted by the system, the driver may control the steering wheel. The steering wheel may feel heavier when the steering wheel is assisted by the system than when it is not.
 
 ### Check Lane Ke ping As ist (LKA) system
-`genesis_g90_en_8fccc5b5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/91ea62e0d59fb5d4ed11fe38685e8a8889ff46be193d80b75c3d38a4c9cd9951.webp)
 
 If there is a problem with the system a message will appear for a few seconds. If the problem continues the LKA system failure indicator will illuminate.
 
 ### LKA system indicator
-`genesis_g90_en_eca77a24` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The LKA system indicator (yellow) will illuminate if the LKA system is not working properly. Have the system checked by an authorized retailer of Genesis Branded products.
 
@@ -9754,12 +8646,10 @@ The steering wheel is turned suddenly.
 The system may not operate for 15 seconds after the engine is started or the camera is initialized.
 
 ### Limitations of the System
-`genesis_g90_en_e295099f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The LKA system may operate prematurely even if the vehicle does not depart from the intended lane, OR, the LKA system may not assist your steering or warn you if the vehicle leaves the intended lane under the following circumstances:
 
 ### When the lane and road conditions are poor
-`genesis_g90_en_3c776090` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 It is difficult to distinguish the lane marking from the road surface or the lane marking is faded or not clearly marked.
 It is difficult to distinguish the color of the lane marker from the road. There are markings on the road surface that look like a lane marker that is inadvertently being detected by the camera.
@@ -9778,7 +8668,6 @@ The lane marker in a tunnel is stained with oil, etc.
 The lane suddenly disappears such as at the intersection.
 
 ### When front visibility is poor
-`genesis_g90_en_eea5372f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The windshield or the camera lens is covered with dirt or debris.
 The windshield glass is fogged up; a clear view of the road is obstructed.
@@ -9786,7 +8675,6 @@ Placing objects on the dashboard, etc.
 The sensor cannot detect the lane because of fog, heavy rain or snow.
 
 ### When external condition is intervened
-`genesis_g90_en_ac4c533c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The brightness outside changes suddenly such as when entering or exiting a tunnel, or when passing under a bridge.
 The brightness outside is too low such as when the headlamps are not on at night or the vehicle is going through a tunnel.
@@ -9798,7 +8686,6 @@ Driving on a steep grade, over a hill, or when driving on a curved road.
 The adverse road conditions cause excessive vehicle vibrations while driving.
 
 ### Setting LKA function
-`genesis_g90_en_68c1684a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The driver can change between
 ‘Lane Keeping Assist’ and ‘Lane
@@ -9819,19 +8706,15 @@ Off
 If you select 'Off', the LKA system is deactivated.
 
 ### HIGHWAY DRIVING ASSIST (HDA) SYSTEM (IF EQUIPPED)
-`genesis_g90_en_e260d01e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Highway Driving Assist (HDA) system helps keep the vehicle between lanes, maintain a distance with the vehicle ahead, and automatically adjusts the vehicle speed to the speed limit while driving on the highway.
 
-### WARNING
-`genesis_g90_en_0e0d14d4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-The Highway Driving Assist (HDA) system is not a substitute for safe driving practices, but a convenience function. It is the responsibility of the driver to always be aware of the surroundings and drive safely.
-The Highway Driving Assist (HDA) system relies entirely on the road information provided by the navigation system. It is the responsibility of the driver to follow traffic laws and avoid accidents.
-For your safety, please read the owner's manual before using the system.
+> ⚠️ **Внимание:** 
+> The Highway Driving Assist (HDA) system is not a substitute for safe driving practices, but a convenience function. It is the responsibility of the driver to always be aware of the surroundings and drive safely.
+> The Highway Driving Assist (HDA) system relies entirely on the road information provided by the navigation system. It is the responsibility of the driver to follow traffic laws and avoid accidents.
+> For your safety, please read the owner's manual before using the system.
 
 ### Information
-`genesis_g90_en_7e2b9648` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Highway Driving Assist (HDA) system is available only on controlled access road of certain highways.
 
@@ -9842,14 +8725,12 @@ The Highway Driving Assist (HDA) system is available only on controlled access r
 Additional highways may be expanded by navigation updates.
 
 ### System seting
-`genesis_g90_en_2cf8ee28` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 With the Engine Start/Stop button in the ON or START position, the Highway Driving Assist can be activated by selecting 'Setup → Vehicle Settings → Driver Assistance → Highway Driving Assist' from the Settings menu in the AVN system screen. Deselect the setting to turn off the system. For detailed information, scan the QR code in a separately supplied simple manual.
 
 If the engine is turned off then on again, the system maintains the last setting.
 
 ### Operating conditions
-`genesis_g90_en_effe7ca5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Select 'Highway Driving Assist' from the Settings menu in the AVN system screen and satisfy the following conditions for the system to operate.
 
@@ -9867,19 +8748,16 @@ If all the mentioned conditions are satisfied, the system is ENABLED and the HDA
 ![](images/2af8a4786534f0c7339f99b6477c911fcbc52b11584582e06a93aba70d339df0.webp)
 
 ### Steering control
-`genesis_g90_en_f2d044fc` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the vehicle detects both lane markers (lane color white), the ① indicator light will change from white to green. This indicates that the steering wheel is being controlled.
 
 ![](images/9ea658c6cdf492352940aa55e02bf10645590a100ec2453a109214aae9d1a1c6.webp)
 
 ### Temporary deactivation
-`genesis_g90_en_60095e84` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The ① indicator light changes from green to white when the steering wheel control is temporarily deactivated. Even if the steering wheel is not controlled, the distance between the vehicle ahead will be maintained.
 
 ### Automatic speed setting mode
-`genesis_g90_en_4909903b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The system enters the automatic speed setting mode when:
 
@@ -9895,51 +8773,45 @@ When the highway speed limit changes, the set speed automatically changes to the
 Manual speed setting mode If the speed is set manually using the RES+ or SET- toggle switch on the steering wheel, the set speed on the cluster will turn white and the 'AUTO' symbol will disappear.
 
 ### Warning Message Hands-of warning
-`genesis_g90_en_59f419f9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/3be7de5c31f4aae5636c0ffa3b22d773e83056ce1efba2d209a51308a82a1e4a.webp)
 
 Keep hands on steering wheel If the driver takes their hands off the steering wheel for several seconds while the HDA system is activated, the system will warn the driver.
 
 ### i Information
-`genesis_g90_en_2bb57548` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the steering wheel is held with a light grip, the message may appear because the HDA system may not recognize that the driver has their hands on the steering wheel.
 
-### WARNING
-`genesis_g90_en_e8784291` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-The warning message may appear late according to road conditions. Therefore, always have your hands on the steering wheel while driving.
-
-![](images/6777a24984d15f87c15eb0bfdb0f7ece705289306439cfb5a7b834ffd28ce67f.webp)
-Highway Driving Assist (HDA) system canceled
-
-If the driver still does not have their hands on the steering wheel after the message "Keep hands on steering wheel", the HDA system will be canceled. However, if the Smart Cruise Control is reactivated manually by the driver, the Highway Driving Assist System will reactivate.
-
-To activate Smart Cruise control, refer to "Smart Cruise Control with Stop and Go" in chapter 5.
-
-The HDA system will not be in the ENABLED state and/or the steering wheel will not be assisted when:
-
-The turn signal is turned on before changing a lane. If you change lanes without the turn signal on, the steering wheel might be controlled.
-The vehicle is not driven in the middle of the lane when the system is turned on or right after changing a lane.
-ESC (Electronic Stability Control) or VSM (Vehicle Stability Management) is activated.
-The vehicle is driven on a sharp curve.
-Vehicle speed is over 95 mph (153 km/h). The vehicle makes sharp lane changes.
-The vehicle brakes suddenly.
-Only one lane marker is detected. The lane is very wide or narrow. There are more than two lane markers on the road (e.g. construction area).
-Radius of a curve is too small.
-The vehicle is driven on a steep incline.
-The steering wheel is turned suddenly.
+> ⚠️ **Внимание:** 
+> The warning message may appear late according to road conditions. Therefore, always have your hands on the steering wheel while driving.
+>
+> ![](images/6777a24984d15f87c15eb0bfdb0f7ece705289306439cfb5a7b834ffd28ce67f.webp)
+> Highway Driving Assist (HDA) system canceled
+>
+> If the driver still does not have their hands on the steering wheel after the message "Keep hands on steering wheel", the HDA system will be canceled. However, if the Smart Cruise Control is reactivated manually by the driver, the Highway Driving Assist System will reactivate.
+>
+> To activate Smart Cruise control, refer to "Smart Cruise Control with Stop and Go" in chapter 5.
+>
+> The HDA system will not be in the ENABLED state and/or the steering wheel will not be assisted when:
+>
+> The turn signal is turned on before changing a lane. If you change lanes without the turn signal on, the steering wheel might be controlled.
+> The vehicle is not driven in the middle of the lane when the system is turned on or right after changing a lane.
+> ESC (Electronic Stability Control) or VSM (Vehicle Stability Management) is activated.
+> The vehicle is driven on a sharp curve.
+> Vehicle speed is over 95 mph (153 km/h). The vehicle makes sharp lane changes.
+> The vehicle brakes suddenly.
+> Only one lane marker is detected. The lane is very wide or narrow. There are more than two lane markers on the road (e.g. construction area).
+> Radius of a curve is too small.
+> The vehicle is driven on a steep incline.
+> The steering wheel is turned suddenly.
 
 ### System malfunction
-`genesis_g90_en_03613b41` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/2bd4e7f4ba4fafa693048b550c67daa89714ccfba7c7919021591626dd55054b.webp)
 
 If there is a problem with the system, a message will appear for a few seconds. If the problem continues, have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Information
-`genesis_g90_en_da2727db` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 High Driving Assist is limited in other countries.
 High Driving Assist only operates based on the speed limits of the highway but it does not work with the speed cameras. The time gap could occur between the navigation speed warning and system operation.
@@ -9950,13 +8822,11 @@ If your vehicle speed exceeds 95 mph (153 km/h), Highway Driving Assist is autom
 If you enter a rest area on the highway or a IC/JC (intersection/junction) without a destination set, the system is canceled later than when the vehicle actually leaves the highway.
 
 ### i Information
-`genesis_g90_en_c2da2067` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 For information's on vehicle to vehicle distance control and the front radar, refer to "Smart Cruise Control (Stop & Go)" in this chapter.
 For information's on steering control and distance control and the front camera, refer to "Lane Following Assist (LFA)" in this chapter.
 
 ### i Information
-`genesis_g90_en_ee96aec0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This device complies with Part 15 of the FCC rules.
 
@@ -9971,19 +8841,16 @@ erly in the following situations: The navigation is not working properly. The na
 3. Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the device.
 
 ### i Information
-`genesis_g90_en_126a7fd3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Radio frequency radiation exposure information:
 
 This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. This equipment should be installed and operated with minimum distance of 8 in. (20 cm) between the radiator (antenna) and your body. This transmitter must not be co-located or operating in conjunction with any other antenna or transmitter.
 
 ### DRIVER ATTENTION WARNING (DAW) SYSTEM
-`genesis_g90_en_32896d67` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Driver Attention Warning (DAW) system displays the condition of the driver's fatigue level and inattentive driving practices.
 
 ### System seting
-`genesis_g90_en_3df9c6a7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Selecting Forward Safety function
 
@@ -9992,7 +8859,6 @@ The Driver Attention Warning (DAW) can be activated from the Settings menu in th
 1. Set the Engine Start/Stop button to the ON or START position. 2. Select 'Setup → Vehicle Settings → Driver Assistance → Attention Warning'. in the AVN system screen. For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### Selecting Warning Timing
-`genesis_g90_en_392f4459` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The diver can select the initial warning activation time from the Settings menu in the AVN system screen. Select:
 
@@ -10009,7 +8875,6 @@ The Driver Attention Warning system helps alert the driver of his/her fatigue le
 The set-up of the Driver Attention Warning system will be maintained as selected when the engine is restarted.
 
 ### Display ofthe driver's atention level
-`genesis_g90_en_13cb436a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Attentive driving ■ Inattentive driving
 
@@ -10036,14 +8901,12 @@ The DAW screen will appear when you select the Assist mode tab on the LCD displa
 ![](images/c9f3ac1165eb1118142996ddbd62cf74acfc7eb7c37d38a987a66cb3cffa4d82.webp)
 
 ### Resetting the System
-`genesis_g90_en_763a1d40` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The last break time is set to 00:00 and the driver's attention level is set to 5 (very attentive) when the driver resets the Driver Attention Warning (DAW) system. The Driver Attention Warning (DAW) system resets the last break time to 00:00 and the driver's attention level to 5 in the following situations.
 
 The engine is turned OFF. The driver unfastens the seat belt and then opens the driver's door. The vehicle is stopped for more than 10 minutes. The Driver Attention Warning (DAW) system operates again, when the driver restarts driving.
 
 ### System Standby
-`genesis_g90_en_4b350be9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/c2aa3976dee7e66e4c3351ac6fd46d12d96ad7030e8dc3e65f148a0a3eadc411.webp)
 
@@ -10053,22 +8916,17 @@ The system is unable to collect data to monitor the driver's driving conditions.
 Driving speed remains over 110 mph (177 km/h).
 
 ### Check Driver Attention Warning (DAW) system
-`genesis_g90_en_cc13e325` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the "Check Driver Attention Warning (DAW) system" warning message appears, the system is not working properly. In this case, have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
-### WARNING
-`genesis_g90_en_3a044f2f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-The Driver Attention Warning (DAW) system is not a substitute for safe driving practices, but a convenience function only. It is the responsibility of the driver to always drive cautiously to prevent unexpected and sudden situations from occurring. Pay attention to the road conditions at all times. The driver who feels fatigued should take a break, even though there is no break suggestion by the Driver Attention Warning (DAW) system.
+> ⚠️ **Внимание:** 
+> The Driver Attention Warning (DAW) system is not a substitute for safe driving practices, but a convenience function only. It is the responsibility of the driver to always drive cautiously to prevent unexpected and sudden situations from occurring. Pay attention to the road conditions at all times. The driver who feels fatigued should take a break, even though there is no break suggestion by the Driver Attention Warning (DAW) system.
 
 ### i Information
-`genesis_g90_en_b7ae99f2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The system may suggest a break according to the driver's driving pattern or habits even if the driver doesn't feel fatigue.
 
 ### NOTICE
-`genesis_g90_en_785796f6` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 The Driver Attention Warning (DAW) system utilizes the camera sensor on the front windshield for its operation. To keep the camera sensor in the best condition, you should observe the followings:
 
@@ -10100,7 +8958,6 @@ systems: Forward Collision-avoidance Assist (FCA) Blind-Spot Collision Warning (
 ![](images/9689e2d69d8e788db13692114d01cf7a50792ae2e2b46e6cf5d50836d46d20f0.webp)
 
 ### SPECIAL DRIVING CONDITIONS Hazardous Driving Conditions
-`genesis_g90_en_2c5142a9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When hazardous driving elements are encountered such as water, snow, ice, mud and sand, take the below suggestions:
 
@@ -10108,13 +8965,10 @@ Drive cautiously and keep a longer braking distance.
 Avoid abrupt braking or steering. When your vehicle is stuck in snow, mud, or sand, use second gear. Accelerate slowly to avoid unnecessary wheel spin.
 Put sand, rock salt, tire chains or other non-slip materials under the wheels to provide additional traction while the vehicle becomes stuck in ice, snow, or mud.
 
-### WARNING
-`genesis_g90_en_6413827a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Downshifting with an automatic transmission while driving on slippery surfaces can cause an accident. The sudden change in tire speed could cause the tires to skid. Be careful when downshifting on slippery surfaces.
+> ⚠️ **Внимание:** 
+> Downshifting with an automatic transmission while driving on slippery surfaces can cause an accident. The sudden change in tire speed could cause the tires to skid. Be careful when downshifting on slippery surfaces.
 
 ### Rocking the Vehicle
-`genesis_g90_en_7915f05a` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 If it is necessary to rock the vehicle to free it from snow, sand, or mud, first turn the steering wheel right and left to clear the area around your front wheels. Then, shift back and forth between R (Reverse) and a forward gear.
 
@@ -10123,23 +8977,19 @@ Try to avoid spinning the wheels, and do not race the engine.
 To prevent transmission wear, wait until the wheels stop spinning before shifting gears. Release the accelerator pedal while shifting, and press lightly on the accelerator pedal while the transmission is in gear. Slowly spinning the wheels in forward and reverse directions causes a rocking motion that may free the vehicle.
 
 ### ！ WARNING
-`genesis_g90_en_a25400c6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the vehicle is stuck and excessive wheel spin occurs, the temperature in the tires can increase very quickly. If the tires become damaged, a tire blow out or tire explosion can occur. This condition is dangerous you and others may be injured. Do not attempt this procedure if people or objects are anywhere near the vehicle.
 If you attempt to free the vehicle, the vehicle can overheat quickly, possibly causing an engine compartment fire or other damage.Try to avoid spinning the wheels as much as possible to prevent overheating of either the tires or the engine. DO NOT allow the vehicle to spin the wheels above 35 mph (56 km/h).
 
 ### NOTICE
-`genesis_g90_en_a93ce584` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you are still stuck after rocking the vehicle a few times, have the vehicle pulled out by a tow vehicle to avoid engine overheating, possible damage to the transmission, and tire damage. See "Towing" in chapter 6.
 
 ### Smooth Cornering
-`genesis_g90_en_1cf2a795` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Avoid braking or gear changing in corners, especially when roads are wet. Ideally, corners should always be taken under gentle acceleration.
 
 ### Driving at Night
-`genesis_g90_en_ddf4eb76` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Night driving presents more hazards than driving in the daylight. Here are some important tips to remember:
 
@@ -10148,7 +8998,6 @@ Adjust your mirrors to reduce the glare from other driver's headlamps.
 Keep your headlamps clean and properly aimed. Dirty or improperly aimed headlamps will make it much more difficult to see at night. Avoid staring directly at the headlamps of oncoming vehicles. You could be temporarily blinded, and it will take several seconds for your eyes to readjust to the darkness.
 
 ### Driving in the Rain
-`genesis_g90_en_afb7cb03` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Rain and wet roads can make driving dangerous. Here are a few things to consider when driving in the rain or on slick pavement:
 
@@ -10161,55 +9010,45 @@ Driving too fast through large puddles can affect your brakes. If you must go th
 If you believe your brakes may be wet, apply them lightly while driving until normal braking operation returns.
 
 ### Hydroplaning
-`genesis_g90_en_8ce4b380` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the road is wet enough and you are going fast enough, your vehicle may have little or no contact with the road surface and actually ride on the water. The best advice is SLOW DOWN when the road is wet.
 
 The risk of hydroplaning increases as the depth of tire tread decreases, refer to "Tire Replacement" in chapter 7.
 
 ### Driving in Flooded Areas
-`genesis_g90_en_d32d1813` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Avoid driving through flooded areas unless you are sure the water is no higher than the bottom of the wheel hub. Drive through any water slowly. Allow adequate stopping distance because brake performance may be reduced.
 
 After driving through water, dry the brakes by gently applying them several times while the vehicle is moving slowly.
 
 ### Tires
-`genesis_g90_en_37e419fb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Adjust the tire inflation, as specified. Under-inflation may overheat or damage the tires.
 
 Do not install worn-out or damaged tires, which may reduce traction or fail the braking operation.
 
 ### Fuel, engine c olant and engine oil
-`genesis_g90_en_2f038755` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Driving at higher speeds on the highway consumes more fuel and is less efficient than driving at a slower, more moderate speed. Maintain a moderate speed in order to conserve fuel when driving on the highway.
 
 Be sure to check both the engine coolant level and the engine oil before driving.
 
-### WARNING
-`genesis_g90_en_9fa06235` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> Utility vehicles have a significantly higher rollover rate than other types of vehicles. To prevent rollovers or loss of control:
+>
+> Take corners at slower speeds than you would with a passenger vehicle.
+> Avoid sharp turns and abrupt maneuvers.
+> Do not modify your vehicle in any way that you would raise the center of gravity.
+> Keep tires properly inflated. Do not carry heavy cargo on the roof.
 
-Utility vehicles have a significantly higher rollover rate than other types of vehicles. To prevent rollovers or loss of control:
-
-Take corners at slower speeds than you would with a passenger vehicle.
-Avoid sharp turns and abrupt maneuvers.
-Do not modify your vehicle in any way that you would raise the center of gravity.
-Keep tires properly inflated. Do not carry heavy cargo on the roof.
-
-### WARNING
-`genesis_g90_en_cb30d5f4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-In a rollover crash, an unbelted person is significantly more likely to die than a person wearing a seat belt. Make sure all passengers are wearing their seat belts.
+> ⚠️ **Внимание:** 
+> In a rollover crash, an unbelted person is significantly more likely to die than a person wearing a seat belt. Make sure all passengers are wearing their seat belts.
 
 ### WINTER DRIVING
-`genesis_g90_en_e66a34be` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The severe weather conditions of winter quickly wear out tires and cause other problems. To minimize winter driving problems, you should take the following suggestions:
 
 ### Snow or Icy Conditions
-`genesis_g90_en_f2221563` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 You need to keep sufficient distance between your vehicle and the vehicle in front of you.
 
@@ -10220,7 +9059,6 @@ To drive your vehicle in deep snow, it may be necessary to use snow tires or to 
 Always carry emergency equipment. Some of the items you may want to carry include tire chains, tow straps or chains, a flashlight, emergency flares, sand, a shovel, jumper cables, a window scraper, gloves, ground cloth, coveralls, a blanket, etc.
 
 ### Snow tires
-`genesis_g90_en_891c0852` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 We recommend you use snow tires when road temperature is below 45°F (7°C). Refer to the below chart, and mount the recommended snow tire for your vehicle.
 
@@ -10229,35 +9067,29 @@ We recommend you use snow tires when road temperature is below 45°F (7°C). Ref
 If you mount snow tires on your vehicle, make sure to use the same inflation pressure as the original tires. However, if you mount 245/45R19 size tire on the rear, the tire inflation pressure should maintain 35psi. Mount snow tires on all four wheels to balance your vehicle's handling in all weather conditions. The traction provided by snow tires on dry road may not be as high as your vehicle's original equipment tires. Check with the tire dealer for maximum speed recommendations.
 
 ### i Information
-`genesis_g90_en_423250e4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not install studded tires without first checking local, state and municipal regulations for possible restrictions against their use.
 
 ### Tire chains
-`genesis_g90_en_9f261ff8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/69d97b4754cd76dff3aae2ab884006ce4e2233c9a7c80ff7776646eb06686458.webp)
 
 Since the sidewalls on some radial tires are thinner than other types of tires, they may be damaged by mounting certain types of tire chains on them. Do not mount tire chains on vehicles equipped with aluminum wheels; if unavoidable use AutoSock® (fabric snow chain or similar). Install AutoSock® after reviewing the instructions provided with AutoSock®. Damage to your vehicle caused by improper use of fabric snow chains are not covered by your vehicle manufacturer's warranty.
 
-### WARNING
-`genesis_g90_en_a0e05dcb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-The use of AutoSock® (fabric snow chain) may adversely affect vehicle handling:
-
-Drive less than 20 mph (30 km/h) or the AutoSock® manufacturer's recommended speed limit, whichever is lower.
-Drive carefully and avoid bumps, holes, sharp turns, and other road hazards, which may cause the vehicle to bounce.
-Avoid sharp turns or locked wheel braking.
-
-AutoSock® is a Registered trademark of AutoSock.
+> ⚠️ **Внимание:** 
+> The use of AutoSock® (fabric snow chain) may adversely affect vehicle handling:
+>
+> Drive less than 20 mph (30 km/h) or the AutoSock® manufacturer's recommended speed limit, whichever is lower.
+> Drive carefully and avoid bumps, holes, sharp turns, and other road hazards, which may cause the vehicle to bounce.
+> Avoid sharp turns or locked wheel braking.
+>
+> AutoSock® is a Registered trademark of AutoSock.
 
 ### i Information
-`genesis_g90_en_4d961999` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Install AutoSock® (fabric snow chain) on the rear tires. It should be noted that installing AutoSock® on the tires will provide a greater driving force, but will not prevent side skids. Do not install studded tires without first checking local, state and municipal regulations for possible restrictions against their use.
 
 ### Winter Precautions
-`genesis_g90_en_d9ac7b64` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When installing AutoSock® (fabric snow chain), follow the manufacturer's instructions and mount them as tightly as possible. Drive slowly (less than 20 mph (30 km/h)) with AutoSock® installed. If you hear the fabric snow chains contacting the body or chassis, stop and tighten them. If they still make contact, slow down until the noise stops. Remove the AutoSock® (fabric snow chain) as soon as you begin driving on cleared roads.
 
@@ -10266,12 +9098,10 @@ When mounting AutoSock® (fabric snow chain), park the vehicle on level ground a
 Always place the vehicle in P (Park), apply the parking brake and turn off the engine before installing AutoSock®.
 
 ### Use highquality ethylene glycol c olant
-`genesis_g90_en_d5464e7c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Your vehicle is delivered with high quality ethylene glycol coolant in the cooling system. It is the only type of coolant that should be used because it helps prevent corrosion in the cooling system, lubricates the water pump and prevents freezing. Be sure to replace or replenish your coolant in accordance with the maintenance schedule in chapter 7. Before winter, have your coolant tested to assure that its freezing point is sufficient for the temperatures anticipated during the winter.
 
 ### Change to "winter weight" oilif neces ary
-`genesis_g90_en_ca6a83fb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 In some climates it is recommended that a lower viscosity "winter weight" oil be used during cold weather. See chapter 8 for recommendations. If you aren't sure what weight oil you should use, consult an authorized retailer of Genesis Branded products.
 
@@ -10280,79 +9110,64 @@ Wrong size fabric snow chains or improperly installed fabric snow chains can dam
 AutoSock® is a Registered trademark of AutoSock.
 
 ### Check batery and cables
-`genesis_g90_en_1785e790` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Winter puts additional burdens on the battery system. Visually inspect the battery and cables as described in chapter 7. The level of charge in your battery can be checked by an authorized retailer of Genesis Branded products or a service station.
 
 ### Check spark plugs and ignition system
-`genesis_g90_en_d49792d8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Inspect your spark plugs as described in chapter 7 and replace them if necessary. Also check all ignition wiring and components to be sure they are not cracked, worn or damaged in any way.
 
 ### Useap roved window washer anti-fre ze n system
-`genesis_g90_en_59cdf8df` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To keep the water in the window washer system from freezing, add an approved window washer anti-freeze solution in accordance with instructions on the container. Window washer anti-freeze is available from an authorized retailer of Genesis Branded products and most auto parts outlets. Do not use engine coolant or other types of anti-freeze as these may damage the paint finish.
 
 ### Do notlet your parking brake fre ze
-`genesis_g90_en_6a4e534f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Under some conditions your parking brake can freeze in the engaged position. This is most likely to happen when there is an accumulation of snow or ice around or near the rear brakes or if the brakes are wet. If there is a risk the parking brake may freeze, apply it only temporarily while you put the gear in P and block the rear wheels so the car cannot roll. Then release the parking brake.
 
 ### Do not let ce and snow ac umulate underneath
-`genesis_g90_en_a114665c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Under some conditions, snow and ice can build up under the fenders and interfere with the steering. When driving in severe winter conditions where this may happen, you should periodically check underneath the car to be sure the movement of the front wheels and the steering components is not obstructed.
 
 ### Don'tplace foreign objects or materials n theengine compartment
-`genesis_g90_en_a92443a9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Placement of foreign object or materials which prevent cooling of the engine, in the engine compartment, may cause a failure or combustion. The manufacturer is not responsible for the damage caused by such placement.
 
 ### To ke p locks from fre zing
-`genesis_g90_en_14f8658c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To keep the locks from freezing, squirt an approved de-icer fluid or glycerine into the key opening. If a lock is covered with ice, squirt it with an approved de-icing fluid to remove the ice. If the lock is frozen internally, you may be able to thaw it out by using a heated key. Handle the heated key with care to avoid injury.
 
 ### VEHICLE LOAD LIMIT
-`genesis_g90_en_c3f001bf` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Two labels on your driver's door sill show how much weight your vehicle was designed to carry: the Tire and Loading Information Label and the Certification Label.
 
 Before loading your vehicle, familiarize yourself with the following terms for determining your vehicle's weight ratings, from the vehicle's specifications and the Certification Label:
 
 ### Base Curb Weight
-`genesis_g90_en_44a709a8` | g90 | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 This is the weight of the vehicle including a full tank of fuel and all standard equipment. It does not include passengers, cargo, or optional equipment.
 
 ### Vehicle Curb Weight
-`genesis_g90_en_2cf5f385` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This is the weight of your new vehicle when you picked it up from your dealer plus any aftermarket equipment.
 
 ### Cargo Weight
-`genesis_g90_en_e279d0dc` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This figure includes all weight added to the Base Curb Weight, including cargo and optional equipment.
 
 ### GAW (Gross Axle Weight)
-`genesis_g90_en_1666215c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This is the total weight placed on each axle (front and rear) including vehicle curb weight and all payload.
 
 ### GAWR (Gross Axle Weight Rating)
-`genesis_g90_en_1ade2ddb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This is the maximum allowable weight that can be carried by a single axle (front or rear). These numbers are shown on the Certification Label. The total load on each axle must never exceed its GAWR.
 
 ### GVWR (Gross Vehicle Weight Rating)
-`genesis_g90_en_860a4a75` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This is the maximum allowable weight of the fully loaded vehicle (including all options, equipment, passengers and cargo). The GVWR is shown on the Certification Label located on the driver’s door sill.
 
 ### Tire Loading Information Label Seating capacity
-`genesis_g90_en_d9b88a94` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 TIREANDLOADING INFORMATION RENSEGNEMENTSSURLESPNEUSETLECHARGEMENT SEATING CAPACITY TFRONT REAR NOMBRE DE PLACES AVANT ARRIERE
 ee 400 kgo88 Ibs TIRE SIZE COLDTIREPRESSURE SEEOWNER'S PNEU DIMENSIONS PRESSIONDES PNEUSAFROID MANUALFOR ADDITIONAL FRONT 245/45R19 240kPa, 35psi INFORMATION REAR VOIR LE MANUEL
@@ -10362,7 +9177,6 @@ DESEOUERS T155/70R19 420kPa, 60psi RPOURPLUMENES OHI056219N
 The label located on the driver's door sill gives the original tire size, cold tire pressures recommended for your vehicle, the number of people that can be in your vehicle and vehicle capacity weight.
 
 ### Vehicle capacity weight
-`genesis_g90_en_4c48c390` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 882 lbs. (400 kg)
 
@@ -10373,12 +9187,10 @@ Total 5 persons (Front seat 2 persons, Rear seat 3 persons)
 Seating capacity is the maximum number of occupants including a driver, your vehicle may carry. However, the seating capacity may be reduced based upon the weight of all of the occupants, and the weight of the cargo being carried or towed. Do not overload the vehicle as there is a limit to the total weight, or load limit including occupants and cargo, the vehicle can carry.
 
 ### Cargo capacity
-`genesis_g90_en_56df6a10` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The cargo capacity of your vehicle will increase or decrease depending on the weight and the number of occupants and the tongue load, if your vehicle is equipped with a trailer.
 
 ### ！ WARNING
-`genesis_g90_en_2b945b34` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Locate the statement "The combined weight of occupants and cargo should never exceed XXX kg or XXX lbs." on your vehicle's placard.
 2. Determine the combined weight of the driver and passengers that will be riding in your vehicle.
@@ -10394,12 +9206,10 @@ Example 2 喜喜善 Vehicle ≥ Capac 1y 喜善 Maximum Load Passenger Weight Ca
 Example 3 Vehicle 喜善善 Cepac ty ≥ 喜善 Maximum Load Passenger Weight Cargo Weight (1400 lbs.) (172 lbs. × 5 = 860 lbs.) (540 lbs.) (635 kg) (78 kg × 5 = 390 kg) (245 kg)
 
 ### Certification label
-`genesis_g90_en_26a2d21f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 GVWR PAINT FRWNT GEAR TRIM THISVEHICLECONFORMS TOALLAPPLICABLEU.S.A. FEDERAL MOTOR VEHICLE SAFETY, BUMPER，ANDTHEFTPREVENTION STANDARDS IN EFFECT ONTHEDATEOFMANUFACTURESHOWNABOVE .I.N PASSENGER CAR OBH059070
 
 ### Overloading
-`genesis_g90_en_40b04d95` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Never exceed the GVWR for your vehicle, the GAWR for either the front or rear axle and vehicle capacity weight. Exceeding these ratings can affect your vehicle's handling and braking ability, and cause an accident.
 Do not overload your vehicle. Overloading your vehicle can cause heat buildup in your vehicle's tires and possible tire failure, increased stopping distances and poor vehicle handling-all of which may result in a crash.
@@ -10411,12 +9221,10 @@ This label also tells you the maximum weight that can be supported by the front 
 The total weight of the vehicle, including all occupants, accessories, cargo, and trailer tongue load must not exceed the Gross Vehicle Weight Rating (GVWR) or the Gross Axle Weight Rating (GAWR). To find out the actual loads on your front and rear axles, you need to go to a weigh station and weigh your vehicle. Be sure to spread out your load equally on both sides of the centerline.
 
 ### NOTICE
-`genesis_g90_en_f2502295` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Overloading your vehicle may cause damage. Repairs would not be covered by your warranty. Do not overload your vehicle.
 
 ### TRAILER TOWING
-`genesis_g90_en_d2334bfb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 We do not recommend using this vehicle for trailer towing.
 
@@ -10425,19 +9233,16 @@ If you carry items inside your vehicle (e.g., suitcases, tools, packages, or any
 Put items in the cargo area of your vehicle. Try to spread the weight evenly. Do not stack items, like suitcases, inside the vehicle above the tops of the seats. Do not leave an unsecured child restraint in your vehicle. When you carry something inside the vehicle, secure it.
 
 ### 6. What to Do in an Emergency
-`genesis_g90_en_f32eeac5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Hazard Warning Flasher  6-2 In Case of an Emergency While Driving.  6-2 If the Engine Stalls While Driving 6-2 If the Engine Stalls at a Crossroad or Crossing   ·  6-2 If you Have a Flat Tire While Driving. 0  6-3 If the Engine Will Not Start  6-3 If the Engine Doesn't Turn Over or Turns Over Slowly.  6-3 If the Engine Turns Over Normally but Doesn't Start .  6-3 Jump Starting   .6-4 Push-Starting   6-6 the Engine Overheats  6-7 Tire Pressure Monitoring System (TPMS)   .6-9 Check Tire Pressure    6-9 Tire Pressure Monitoring System ..6-10 Low Tire Pressure Telltale  6-11 Low Tire Pressure LCD Display with Position Indicator  6-11 TPMS Malfunction Indicator  6-12 Changing a Tire with TPMS 6-13 If You Have a Flat Tire   .6-15 Jack Label. ·   .6-21 Towing.  6-22 Towing Service. .6-22 Removable Towing Hook  6-24 Emergency Towing  6-24
 
 ### HAZARD WARNING FLASHER
-`genesis_g90_en_7cc5eec4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/47e4bbfce90989cdc09471da0577588be0fdb806fc96d7a210b4078fc0705700.webp)
 
 The hazard warning flasher serves as a warning to other drivers to exercise extreme caution when approaching, overtaking, or passing your vehicle.
 
 ### If the Engine Stalls While Driving
-`genesis_g90_en_7da25687` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Reduce your speed gradually, keeping a straight line. Move cautiously off the road to a safe place. Turn on your hazard warning flasher.
 Try to start the engine again. If your vehicle will not start, contact an authorized retailer of Genesis Branded products or seek other qualified assistance.
@@ -10449,43 +9254,36 @@ To turn the hazard warning flasher on or off, press the hazard warning flasher b
 The hazard warning flasher operates whether your vehicle is running or not. The turn signals do not work when the hazard flasher is on.
 
 ### If the Engine Stalls at a Crossroad or Crossing
-`genesis_g90_en_ceb26317` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the engine stalls at a crossroad or crossing, if safe to do so, move the shift lever to the N (Neutral) position and then push the vehicle to a safe location.
 
 ### IF THE ENGINE WILL NOT START
-`genesis_g90_en_9620d591` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Take your foot off the accelerator pedal and let the vehicle slow down while driving straight ahead. Do not apply the brakes immediately or attempt to pull off the road as this may cause loss of vehicle control resulting in an accident. When the vehicle has slowed to such a speed that it is safe to do so, brake carefully and pull off the road. Drive off the road as far as possible and park on firm, level ground. If you are on a divided highway, do not park in the median area between the two traffic lanes. When the vehicle is stopped, press the hazard warning flasher button, shift the gear to P (Park), apply the parking brake, and press the Engine Start/Stop button to the OFF position.
 Have all passengers get out of the vehicle. Be sure they all get out on the side of the vehicle that is away from traffic.
 When changing a flat tire, follow the instructions provided later in this chapter.
 
 ### If the Engine Doesn't Turn Over or Turns Over Slowly
-`genesis_g90_en_ef5fdaa6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Be sure to shift the gear to N (Neutral) or P (Park). The engine starts only when the gear is in N (Neutral) or P (Park). Turn on the interior light. If the light dims or goes out when you operate the starter, the battery is drained.
 
 Do not push or pull the vehicle to start it. This could cause damage to your vehicle. See instructions for "Jump Starting" provided in this chapter.
 
 ### NOTICE
-`genesis_g90_en_703c915a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Push or pull starting the vehicle may cause the catalytic converter to overload which can lead to damage to the emission control system.
 
 ### If the Engine Turns Over Normally but Doesn't Start
-`genesis_g90_en_57f6a1f7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Check the fuel level and add fuel if necessary.
 
 If the engine still does not start, have your vehicle checked by an authorized retailer of Genesis Branded products.
 
 ### JUMP STARTING
-`genesis_g90_en_f8502cd7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Jump starting can be dangerous if done incorrectly. Follow the jump starting procedure in this section to avoid serious injury or damage to your vehicle. If in doubt about how to properly jump start your vehicle, we strongly recommend that you have a service technician or towing service do it for you.
 
 ### ！ WARNING
-`genesis_g90_en_e09e2bf2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To prevent SERIOUS INJURY or DEATH to you or bystanders, always follow these precautions when working near or handling the battery:
 
@@ -10516,21 +9314,18 @@ a burning sensation, get med
 ical attention immediately. When lifting a plastic-cased battery, excessive pressure on the case may cause battery acid to leak. Lift with a battery carrier or with your hands on opposite corners. Do not attempt to jump start your vehicle if your battery is frozen. NEVER attempt to recharge the battery when the vehicle's battery cables are connected to the battery. The electrical ignition system works with high voltage. NEVER touch these components with the engine running or when the Engine Start/Stop button is in the ON position.
 
 ### i Information
-`genesis_g90_en_c1794744` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 复
 
 An inappropriately disposed battery can be harmful to the environment and human health. Dispose of the battery according to your local law(s) or regulations.
 
 ### NOTICE
-`genesis_g90_en_2575a37f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To prevent damage to your vehicle:
 
 Only use a 12-volt power supply (battery or jumper system) to jump start your vehicle. Do not attempt to jump start your vehicle by push-starting.
 
 ### Information
-`genesis_g90_en_e5084179` | g90 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 Your vehicle has a battery in the trunk compartment, but when you jump start your vehicle, use the jumper terminal in the engine compartment.
 
@@ -10564,14 +9359,12 @@ Disconnect the jumper cables in the exact reverse order you connected them:
 4. Disconnect the other end of the jumper cable from the red, positive (+) jumper terminal of your vehicle (1).
 
 ### Push-Starting
-`genesis_g90_en_179e6bdc` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Vehicles equipped with automatic transmission cannot be push-started.
 
 Follow the directions in this chapter for jump-starting.
 
 ### IF THE ENGINE OVERHEATS
-`genesis_g90_en_d028c99e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If your temperature gauge indicates overheating, you experience a loss of power, or hear loud pinging or knocking, the engine may be overheating. If this happens, you should:
 
@@ -10579,42 +9372,36 @@ If your temperature gauge indicates overheating, you experience a loss of power,
 2. Shift the gear to P (Park) and set the parking brake. If the air conditioning is ON, turn it OFF.
 3. If engine coolant is running out under the vehicle or steam is coming out from the hood, stop the engine. Do not open the hood until the coolant has stopped running or the steaming has stopped. If there is no visible loss of engine coolant and no steam, leave the engine running and check to be sure the engine cooling fan is operating. If the fan is not running, turn the engine off.
 
-### WARNING
-`genesis_g90_en_786c48a9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> While the engine is running, keep hands, clothing and tools away from the moving parts such as the cooling fan and drive belt to prevent serious injury.
+>
+> ![](images/f6ae1ee03c9c647b0f360487a87a32270d6822b481ad0639bc85a9f912ba058f.webp)
+>
+> 4. Check for coolant leaking from the radiator, hoses or under the vehicle. (If the air conditioning had been in use, it is normal for cold water to be draining from it when you stop.)
+> 5. If engine coolant is leaking out, stop the engine immediately and call the nearest authorized retailer of Genesis Branded products for assistance.
 
-While the engine is running, keep hands, clothing and tools away from the moving parts such as the cooling fan and drive belt to prevent serious injury.
-
-![](images/f6ae1ee03c9c647b0f360487a87a32270d6822b481ad0639bc85a9f912ba058f.webp)
-
-4. Check for coolant leaking from the radiator, hoses or under the vehicle. (If the air conditioning had been in use, it is normal for cold water to be draining from it when you stop.)
-5. If engine coolant is leaking out, stop the engine immediately and call the nearest authorized retailer of Genesis Branded products for assistance.
-
-### WARNING
-`genesis_g90_en_727ba090` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-![](images/2edc448ec198d4a76f8ffe5f3089e9805e93c86647e7d0fb6b58857f05f7ee68.webp)
-
-Your vehicle is equipped with a pressurized coolant reserve tank. NEVER remove the radiator cap, drain plug and heater hose connector cap (refer to the below picture) while the engine and radiator are hot. Hot coolant and steam may blow out under pressure, causing serious injury.
-
-Turn the engine off and wait until the engine cools down. Use extreme care when removing the coolant reserve tank cap. Wrap a towel or thick rag around it, and turn it counterclockwise slowly to release some of the pressure from the system. Step back while the pressure is released.
-
-When you are sure all the pressure has been released, continue turning the cap counterclockwise to remove it.
-
-Heater hose connector cap (for 5.0 GDI engine)
-
-![](images/f11f30004707089cfabce66269082f91004add15cc39f2646e819d305eb3e2f2.webp)
-
-6. If you cannot find the cause of the overheating, wait until the engine temperature has returned to normal. Then, if coolant has been lost, carefully add coolant to the reservoir to bring the fluid level in the reservoir up to the halfway mark.
-
-7. Proceed with caution, keeping alert for further signs of overheating. If overheating happens again, call an authorized retailer of Genesis Branded products for assistance.
+> ⚠️ **Внимание:** 
+> ![](images/2edc448ec198d4a76f8ffe5f3089e9805e93c86647e7d0fb6b58857f05f7ee68.webp)
+>
+> Your vehicle is equipped with a pressurized coolant reserve tank. NEVER remove the radiator cap, drain plug and heater hose connector cap (refer to the below picture) while the engine and radiator are hot. Hot coolant and steam may blow out under pressure, causing serious injury.
+>
+> Turn the engine off and wait until the engine cools down. Use extreme care when removing the coolant reserve tank cap. Wrap a towel or thick rag around it, and turn it counterclockwise slowly to release some of the pressure from the system. Step back while the pressure is released.
+>
+> When you are sure all the pressure has been released, continue turning the cap counterclockwise to remove it.
+>
+> Heater hose connector cap (for 5.0 GDI engine)
+>
+> ![](images/f11f30004707089cfabce66269082f91004add15cc39f2646e819d305eb3e2f2.webp)
+>
+> 6. If you cannot find the cause of the overheating, wait until the engine temperature has returned to normal. Then, if coolant has been lost, carefully add coolant to the reservoir to bring the fluid level in the reservoir up to the halfway mark.
+>
+> 7. Proceed with caution, keeping alert for further signs of overheating. If overheating happens again, call an authorized retailer of Genesis Branded products for assistance.
 
 ### NOTICE
-`genesis_g90_en_611f0e2f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Serious loss of coolant indicates a leak in the cooling system and should be checked as soon as possible by an authorized retailer of Genesis Branded products.
 
 ### TIRE PRESSURE MONITORING SYSTEM (TPMS)
-`genesis_g90_en_75ada442` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/f40281ed76596c37409d5f0bd48856a12b956876edee827402eb8de17aef8046.webp)
 
@@ -10622,7 +9409,6 @@ Serious loss of coolant indicates a leak in the cooling system and should be che
 (2) Low Tire Pressure / Tire Pressure Monitor TPMS Malfunction Display (shown on the cluster LCD display)
 
 ### Check Tire Pressure
-`genesis_g90_en_1b9d15d1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/3a4b8d47141450e46fb85fd3c6ba8073996d538e1c728b172085e86a11dc26b8.webp)
 
@@ -10636,7 +9422,6 @@ Setup → General Settings → Unit → Tire Air Pressure Unit → psi kpa bar
 For detailed information, scan the QR code in a separately supplied simple manual.
 
 ### ！ WARNING
-`genesis_g90_en_1c5dc6aa` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Over-inflation or under-inflation can reduce tire life, adversely affect vehicle handling, and lead to sudden tire failure that may cause loss of vehicle control resulting in an accident.
 
@@ -10655,7 +9440,6 @@ When the malfunction indicator is illuminated, the system may not be able to det
 Always check the TPMS malfunction telltale after replacing one or more tires or wheels on your vehicle to ensure that the replacement or alternate tires and wheels allow the TPMS to continue to function properly.
 
 ### i Information
-`genesis_g90_en_c84b8cde` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If any of the below happens, have the system checked by an authorized retailer of Genesis Branded products.
 
@@ -10664,7 +9448,6 @@ If any of the below happens, have the system checked by an authorized retailer o
 ！）
 
 ### Low Tire Pressure Telltale
-`genesis_g90_en_3c6ef31f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/e2213f3cce9ad830f6add23af325cd1b9fd73b8252e659d9ed7df006f33060e0.webp)
 
@@ -10683,47 +9466,39 @@ If you cannot reach a service station or if the tire cannot hold the newly added
 The Low Tire Pressure LCD position indicator will remain on and the TPMS Malfunction Indicator may blink for one minute and then remain illuminated until you have the low pressure tire repaired and replaced on the vehicle.
 
 ### NOTICE
-`genesis_g90_en_45e1eaea` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 In winter or cold weather, the Low Tire Pressure Telltale may be illuminated if the tire pressure was adjusted to the recommended tire inflation pressure in warm weather. It does not mean your TPMS is malfunctioning because the decreased temperature leads to a proportional lowering of tire pressure.
 
 When you drive your vehicle from a warm area to a cold area or from a cold area to a warm area, or the outside temperature is greatly higher or lower, you should check the tire inflation pressure and adjust the tires to the recommended tire inflation pressure.
 
-### WARNING
-`genesis_g90_en_c81db0a0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Low pressure damage
-Significantly low tire pressure makes the vehicle unstable and can contribute to loss of vehicle control and increased braking distances.
-Continued driving on low pressure tires can cause the tires to overheat and fail.
-
-！
+> ⚠️ **Внимание:** 
+> Low pressure damage
+> Significantly low tire pressure makes the vehicle unstable and can contribute to loss of vehicle control and increased braking distances.
+> Continued driving on low pressure tires can cause the tires to overheat and fail.
+>
+> ！
 
 ### TPMS Malfunction Indicator
-`genesis_g90_en_41473484` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The TPMS Malfunction Indicator will illuminate after it blinks for approximately one minute when there is a problem with the Tire Pressure Monitoring System.
 
 Have the system checked by an authorized retailer of Genesis Branded products as soon as possible.
 
 ### i Information
-`genesis_g90_en_c9ccf8ac` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If there is a malfunction with the TPMS, the individual tire pressures in the cluster LCD display will not be available. Have the system checked by an authorized retailer of Genesis Branded products as soon as possible.
 
 ### NOTICE
-`genesis_g90_en_d8be69a5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The TPMS Malfunction Indicator may illuminate after blinking for one minute if the vehicle is near electric power supply cables or radio transmitters such as police stations, government and public offices, broadcasting stations, military installations, airports, transmitting towers, etc.
 
 Additionally, the TPMS Malfunction Indicator may illuminate if snow chains are used or electronic devices such as computers, chargers, remote starters, navigation, etc. This may interfere with normal operation of the TPMS.
 
 ### Changing a Tire with TPMS
-`genesis_g90_en_eda029f2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you have a flat tire, the Low Tire Pressure and LCD position indicator will come on. Have the flat tire repaired by an authorized retailer of Genesis Branded products as soon as possible or replace the flat tire with the spare tire.
 
 ### NOTICE
-`genesis_g90_en_af5cdcc2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Never use a puncture-repairing agent not approved by authorized retailer of Genesis Branded products to repair and/or inflate a low pressure tire. Tire sealant not approved by authorized retailer of Genesis Branded products may damage the tire pressure sensor.
 
@@ -10742,17 +9517,13 @@ A cold tire means the vehicle has been sitting for 3 hours and driven for less t
 Allow the tire to cool before measuring the inflation pressure. Always be sure the tire is cold before inflating to the recommended pressure.
 
 ### ！ WARNING
-`genesis_g90_en_7c14445a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The TPMS cannot alert you to severe and sudden tire damage caused by external factors such as nails or road debris. If you feel any vehicle instability, immediately take your foot off the accelerator, apply the brakes gradually with light force, and slowly move to a safe position off the road.
 
-### WARNING
-`genesis_g90_en_20ac619f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Tampering with, modifying, or disabling the Tire Pressure Monitoring System (TPMS) components may interfere with the system's ability to warn the driver of low tire pressure conditions and/or TPMS malfunctions. Tampering with, modifying, or disabling the Tire Pressure Monitoring System (TPMS) components may void the warranty for that portion of the vehicle.
+> ⚠️ **Внимание:** 
+> Tampering with, modifying, or disabling the Tire Pressure Monitoring System (TPMS) components may interfere with the system's ability to warn the driver of low tire pressure conditions and/or TPMS malfunctions. Tampering with, modifying, or disabling the Tire Pressure Monitoring System (TPMS) components may void the warranty for that portion of the vehicle.
 
 ### i Information
-`genesis_g90_en_802d974f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This device complies with Part 15 of the FCC rules.
 
@@ -10762,15 +9533,12 @@ Operation is subject to the following three conditions:
 2. This device must accept any interference received, including interference that may cause undesired operation.
 3. Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the equipment.
 
-### WARNING
-`genesis_g90_en_ed8af611` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Changing a tire can be dangerous. Follow the instructions in this section when changing a tire to reduce the risk of serious injury or death.
-
-![](images/33ad0ccac09edebea10834eb1f3ab7e33c98607f4372c978f778e264e080172a.webp)
+> ⚠️ **Внимание:** 
+> Changing a tire can be dangerous. Follow the instructions in this section when changing a tire to reduce the risk of serious injury or death.
+>
+> ![](images/33ad0ccac09edebea10834eb1f3ab7e33c98607f4372c978f778e264e080172a.webp)
 
 ### Jack and to ls
-`genesis_g90_en_ad4d80fb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/f1c5ea456ea816e7055583a5c0d0f96058b0050e7ee2ff83ca95448f036818cd.webp)
 
@@ -10800,23 +9568,20 @@ If it is hard to loosen the tire holddown wing bolt by hand, you can loosen it e
 
 1. Put the jack handle (1) inside of the tire hold-down wing bolt. 2. Turn the tire hold-down wing bolt counterclockwise with the jack handle.
 
-### WARNING
-`genesis_g90_en_3d4cb22a` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
-
-A vehicle can slip or roll off of a jack causing serious injury or death to you or those nearby. Take the following safety precautions:
-
-Never place any portion of your body under a vehicle that is supported by a jack.
-NEVER attempt to change a tire in the lane of traffic. ALWAYS move the vehicle completely off the road on level, firm ground away from traffic before trying to change a tire. If you cannot find a level, firm place off the road, call a towing service for assistance.
-Be sure to use the jack provided with the vehicle.
-ALWAYS place the jack on the designated jacking positions on the vehicle and NEVER on the bumpers or any other part of the vehicle for jacking support.
-Do not start or run the engine while the vehicle is on the jack.
-Do not allow anyone to remain in the vehicle while it is on the jack.
-Keep children away from the road and the vehicle.
-
-Follow these steps to change your vehicle's tire:
+> ⚠️ **Внимание:** 
+> A vehicle can slip or roll off of a jack causing serious injury or death to you or those nearby. Take the following safety precautions:
+>
+> Never place any portion of your body under a vehicle that is supported by a jack.
+> NEVER attempt to change a tire in the lane of traffic. ALWAYS move the vehicle completely off the road on level, firm ground away from traffic before trying to change a tire. If you cannot find a level, firm place off the road, call a towing service for assistance.
+> Be sure to use the jack provided with the vehicle.
+> ALWAYS place the jack on the designated jacking positions on the vehicle and NEVER on the bumpers or any other part of the vehicle for jacking support.
+> Do not start or run the engine while the vehicle is on the jack.
+> Do not allow anyone to remain in the vehicle while it is on the jack.
+> Keep children away from the road and the vehicle.
+>
+> Follow these steps to change your vehicle's tire:
 
 ### NOTICE
-`genesis_g90_en_5e312676` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Park on a level, firm surface.
 2. Shift the gear to P (Park), apply the parking brake, and press the Engine Start/Stop button to the OFF position.
@@ -10860,39 +9625,33 @@ When removing the wheel cover, if you use any other tool except the tool (1) pro
 If you have a tire gauge, check the tire pressure (see "Tires and Wheels" in chapter 8 for tire pressure instructions.). If the pressure is lower or higher than recommended, drive slowly to the nearest service station and adjust it to the recommended pressure. Always reinstall the valve cap after checking or adjusting tire pressure. If the cap is not replaced, air may leak from the tire. If you lose a valve cap, buy another and install it as soon as possible. After changing tires, secure the flat tire and return the jack and tools to their proper storage locations.
 
 ### NOTICE
-`genesis_g90_en_ad14e251` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Your vehicle has metric threads on the studs and lug nuts. Make certain during tire changing that the same nuts that were removed are reinstalled. If you have to replace your lug nuts make sure they have metric threads to avoid damaging the studs and ensure the wheel is properly secured to the hub. Consult an authorized retailer of Genesis Branded products for assistance.
 
 If any of the equipment such as the jack, lug nuts, studs, or other equipment is damaged or in poor condition, do not attempt to change the tire and call for assistance.
 
 ### Use of compact spare tires
-`genesis_g90_en_3781c676` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Compact spare tires are designed for emergency use only. Drive carefully on the compact spare tire and always follow the safety precautions.
 
-### WARNING
-`genesis_g90_en_3eab47fb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-To prevent compact spare tire failure and loss of control possibly resulting in an accident:
-
-Use the compact spare tire only in an emergency. NEVER operate your vehicle over 50 mph (80 km/h). Do not exceed the vehicle's maximum load rating or the load carrying capacity shown on the sidewall of the compact spare tire. Do not use the compact spare tire continuously. Repair or replace the original tire as soon as possible to avoid failure of the compact spare tire.
-
-When driving with the compact spare tire mounted to your vehicle:
-
-Check the tire pressure after installing the compact spare tire. The compact spare tire should be inflated to 60 psi (420 kPa).
-Do not take this vehicle through an automatic car wash while the compact spare tire is installed.
-Do not use the compact spare tire on any other vehicle because this tire has been designed especially for your vehicle.
-The compact spare tire's tread life is shorter than a regular tire. Inspect your compact spare tire regularly and replace worn compact spare tires with the same size and design, mounted on the same wheel.
-Do not use more than one compact spare tire at a time.
+> ⚠️ **Внимание:** 
+> To prevent compact spare tire failure and loss of control possibly resulting in an accident:
+>
+> Use the compact spare tire only in an emergency. NEVER operate your vehicle over 50 mph (80 km/h). Do not exceed the vehicle's maximum load rating or the load carrying capacity shown on the sidewall of the compact spare tire. Do not use the compact spare tire continuously. Repair or replace the original tire as soon as possible to avoid failure of the compact spare tire.
+>
+> When driving with the compact spare tire mounted to your vehicle:
+>
+> Check the tire pressure after installing the compact spare tire. The compact spare tire should be inflated to 60 psi (420 kPa).
+> Do not take this vehicle through an automatic car wash while the compact spare tire is installed.
+> Do not use the compact spare tire on any other vehicle because this tire has been designed especially for your vehicle.
+> The compact spare tire's tread life is shorter than a regular tire. Inspect your compact spare tire regularly and replace worn compact spare tires with the same size and design, mounted on the same wheel.
+> Do not use more than one compact spare tire at a time.
 
 ### Information
-`genesis_g90_en_e14965f5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When the original tire and wheel are repaired and reinstalled on the vehicle, the lug nut torque must be set correctly. The correct lug nut tightening torque is 79\~94 lbf·ft (11\~13 kgf·m).
 
 ### NOTICE
-`genesis_g90_en_a1315ce8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To prevent damaging the compact spare tire and your vehicle:
 
@@ -10902,7 +9661,6 @@ Do not use tire chains on the compact spare tire. Because of the smaller size, a
 Do not use the compact spare tire on any other wheels, nor should standard tires, snow tires, wheel covers or trim rings be used with the compact spare wheel.
 
 ### ■ Example
-`genesis_g90_en_bb752a80` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Max kACe
 kg □000kg 中 格购
@@ -10928,7 +9686,6 @@ For more detailed specifications, refer to the label attached to the jack.
 12. Representative company and address
 
 ### TOWING Towing Service
-`genesis_g90_en_889c11a8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/bf0fbef0580aa9a08fa7afde3e6e06c6fd1031eef62aeffaf62a3b0f0f718cec.webp)
 
@@ -10941,14 +9698,12 @@ When towing the vehicle by flatbed equipment, secure wheels by using chocks and 
 Do not place straps over body panels or through the wheels.
 
 ### NOTICE
-`genesis_g90_en_e240eeaf` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not lift the vehicle by the tow fitting or body and chassis parts. Otherwise the vehicle may be damaged.
 
 On AWD vehicles, your vehicle must be towed with a wheel lift and dollies or flatbed equipment with all the wheels off the ground.
 
 ### NOTICE
-`genesis_g90_en_2f87ecb7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 AWD vehicle should never be towed with the wheels on the ground. This can cause serious damage to the transmission or the AWD system.
 
@@ -10958,32 +9713,28 @@ If any of the loaded wheels or suspension components are damaged or the vehicle 
 
 When being towed by a commercial tow truck and wheel dollies are not used, the rear of the vehicle should always be lifted, not the front.
 
-### WARNING
-`genesis_g90_en_cbd5b3b7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Do not tow the vehicle with the rear wheels on the ground as this may cause damage to the vehicle.
-
-![](images/525ae15400fa951cfc105432eefb151c43eb94edf3d04c1f94e46f48988f280a.webp)
-
-Do not tow with sling-type equipment. Use a wheel lift or flatbed equipment.
-
-If your vehicle is equipped with a rollover sensor, place the Engine Start/Stop button in the OFF position. The side impact and curtain air bag may deploy if the sensor detects the situation as a rollover.
-
-![](images/eaca3e85ee2abaa3607923fda5e3ddf3a4ed3cdf53f78e1af4d4aecd6ceb104d.webp)
-
-When towing your vehicle in an emergency without wheel dollies:
-
-1. Release EPB before turning off the engine.
-2. Press the Engine Start/Stop button to the OFF position.
-3. Change the gear to N (Neutral) by pressing the P release button (need to remove cap-cover) while pressing the brake pedal. For more details, refer to "Automatic Transmission – When the Battery is Discharged" in chapter 5.
+> ⚠️ **Внимание:** 
+> Do not tow the vehicle with the rear wheels on the ground as this may cause damage to the vehicle.
+>
+> ![](images/525ae15400fa951cfc105432eefb151c43eb94edf3d04c1f94e46f48988f280a.webp)
+>
+> Do not tow with sling-type equipment. Use a wheel lift or flatbed equipment.
+>
+> If your vehicle is equipped with a rollover sensor, place the Engine Start/Stop button in the OFF position. The side impact and curtain air bag may deploy if the sensor detects the situation as a rollover.
+>
+> ![](images/eaca3e85ee2abaa3607923fda5e3ddf3a4ed3cdf53f78e1af4d4aecd6ceb104d.webp)
+>
+> When towing your vehicle in an emergency without wheel dollies:
+>
+> 1. Release EPB before turning off the engine.
+> 2. Press the Engine Start/Stop button to the OFF position.
+> 3. Change the gear to N (Neutral) by pressing the P release button (need to remove cap-cover) while pressing the brake pedal. For more details, refer to "Automatic Transmission – When the Battery is Discharged" in chapter 5.
 
 ### NOTICE
-`genesis_g90_en_bfab6746` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Failure to place the shift lever in N (Neutral) when being towed with the front wheels on the ground can cause internal damage to the transmission.
 
 ### Emergency Towing
-`genesis_g90_en_eb04465f` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 ![](images/59b81295f72ed880b179a1b28bcfe12eb1426e07f35d5e4044a681f8bbbdc9e0.webp)
 
@@ -11019,19 +9770,16 @@ Before towing, check the automatic transmission for fluid leaks under your vehic
 ![](images/68dcf107376cb52639ce1a81b9c80a450817b4bf6ba1707c994a850955c3e9ba.webp)
 
 ### NOTICE
-`genesis_g90_en_886f2548` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Accelerate or decelerate the vehicle in a slow and gradual manner while maintaining tension on the tow rope or chain to start or drive the vehicle, otherwise tow hooks and the vehicle may be damaged.
 
 ### NOTICE
-`genesis_g90_en_932894e1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To avoid damage to your vehicle and vehicle components when towing:
 
 Always pull straight ahead when using the towing hooks. Do not pull from the side or at a vertical angle. Do not use the towing hooks to pull a vehicle out of mud, sand or other conditions from which the vehicle cannot be driven out under its own power. Limit the vehicle speed to 10 mph (15 km/h) and drive less than 1 mile (1.5 km) when towing to avoid serious damage to the automatic transmission.
 
 ### 7. Maintenance
-`genesis_g90_en_9ebd84db` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 Engine Compartment.  7-3
 Maintenance Services  7-5 Owner's Responsibility  7-5 Owner Maintenance Precautions 7-5
@@ -11076,7 +9824,6 @@ Radial-Ply Tires    7-50
 Low Aspect Ratio Tires  7-51
 
 ### 7. Maintenance
-`genesis_g90_en_7c0ddfdf` | g90 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 Fuses     .7-52 Instrument Panel Fuse Replacement..  7-53 Engine Compartment Panel Fuse Replacement  7-54 Fuse/Relay Panel Description 7-56
 Light Bulbs    7-69 Headlamp, Parking Lamp, Turn Signal Lamp, Daytime Running Light and Side Marker Replacement 7-70 Side Repeater Lamp Replacement..7-70 Rear Combination Light Bulb Replacement    7-71 High Mounted Stop Light Replacement License Plate Light Replacement ..7-72 Interior Light Bulb Replacement 7-72
@@ -11085,7 +9832,6 @@ Emission Control System 7-84 Crankcase Emission Control System  7-84 Evaporative
 California Perchlorate Notice  7-87
 
 ### ENGINE COMPARTMENT
-`genesis_g90_en_ba292f2e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/22ff1b50e64530d97d442a7951e278602a303a5d8294cc5591809c1b21f03d2a.webp)
 
@@ -11116,14 +9862,12 @@ OHI078003
 9. Jumper terminal
 
 ### MAINTENANCE SERVICES
-`genesis_g90_en_24947560` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 You should exercise the utmost care to prevent damage to your vehicle and injury to yourself whenever performing any maintenance or inspection procedures.
 
 We recommend you have your vehicle maintained and repaired by an authorized retailer of Genesis Branded products. An authorized retailer of Genesis Branded products meets Genesis Branded Vehicle's high service quality standards and receives technical support from Genesis Branded Vehicle in order to provide you with a high level of service satisfaction.
 
 ### Owner's Responsibility
-`genesis_g90_en_63888561` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Maintenance service and record retention are the owner's responsibility.
 
@@ -11134,7 +9878,6 @@ Detailed warranty information is provided in your Owner's Handbook & Warranty In
 Repairs and adjustments required as a result of improper maintenance or a lack of required maintenance are not covered.
 
 ### Owner Maintenance Precautions
-`genesis_g90_en_bacedfa3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Inadequate, incomplete or insufficient servicing may result in operational problems with your vehicle that could lead to vehicle damage, an accident, or personal injury. This chapter provides instructions only for the maintenance items that are easy to perform. Several procedures can be done only by an authorized retailer of Genesis Branded products with special tools.
 
@@ -11143,7 +9886,6 @@ Your vehicle should not be modified in any way. Such modifications may adversely
 Certain modifications may also be in violation of regulations established by the U.S. Department of Transportation and other federal or state agencies.
 
 ### NOTICE
-`genesis_g90_en_8cf5a44c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Improper owner maintenance during the warranty period may affect warranty coverage.
 
@@ -11151,21 +9893,18 @@ For details, read the separate Owner's Handbook & Warranty Information booklet p
 
 If you're unsure about any service or maintenance procedure, have it done by an authorized retailer of Genesis Branded products.
 
-### WARNING
-`genesis_g90_en_154478fc` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
-
-Performing maintenance work on a vehicle can be dangerous. If you lack sufficient knowledge and experience or the proper tools and equipment to do the work, have it done by an authorized retailer of Genesis Branded products.
-
-ALWAYS follow these precautions for performing maintenance work:
-
-Park your vehicle on level ground. Shift the gear to P (Park), apply the parking brake, and press the Engine Start/Stop button to the OFF position.
-Block the tires (front and back) to prevent the vehicle from moving.
-Remove loose clothing or jewelry that can become entangled in moving parts.
-If you must run the engine during maintenance, do so out doors or in an area with plenty of ventilation.
-Keep flames, sparks, or smoking materials away from the battery and fuel-related parts.
+> ⚠️ **Внимание:** 
+> Performing maintenance work on a vehicle can be dangerous. If you lack sufficient knowledge and experience or the proper tools and equipment to do the work, have it done by an authorized retailer of Genesis Branded products.
+>
+> ALWAYS follow these precautions for performing maintenance work:
+>
+> Park your vehicle on level ground. Shift the gear to P (Park), apply the parking brake, and press the Engine Start/Stop button to the OFF position.
+> Block the tires (front and back) to prevent the vehicle from moving.
+> Remove loose clothing or jewelry that can become entangled in moving parts.
+> If you must run the engine during maintenance, do so out doors or in an area with plenty of ventilation.
+> Keep flames, sparks, or smoking materials away from the battery and fuel-related parts.
 
 ### Touching metal parts
-`genesis_g90_en_542076f4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/86a0770d5431b9870583f6dc38422970adc07e2f810b392e1f5a25d1566908ad.webp)
 
@@ -11178,7 +9917,6 @@ Any adverse conditions should be brought to the attention of your dealer as soon
 These Owner Maintenance vehicle checks are generally not covered by warranties and you may be charged for labor, parts and lubricants used.
 
 ### Whenyou stop for fuel:
-`genesis_g90_en_c01cd64d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Check the engine oil level.
 Check the coolant level in the engine coolant reservoir.
@@ -11186,7 +9924,6 @@ Check the windshield washer fluid level.
 Check the tire for low or underinflated tires.
 
 ### ！ WARNING
-`genesis_g90_en_f0cbe957` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 Be careful when checking your engine coolant level when the engine is hot. This may result in coolant being blown out of the opening and cause serious burns and other injuries.
 
@@ -11200,7 +9937,6 @@ Check the parking brake.
 Check for fluid leaks under your vehicle (water dripping from the air conditioning system during or after use is normal).
 
 ### At least monthly:
-`genesis_g90_en_4d4582a0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Check coolant level in the engine coolant reservoir.
 Check the operation of all exterior lights, including the brake lights, turn signals and hazard warning flashers.
@@ -11208,7 +9944,6 @@ Check the inflation pressures of all tires including the spare for tires that ar
 Check for loose wheel lug nuts.
 
 ### At least twice ayear: (i.e.,every Spring and Autumn)
-`genesis_g90_en_919420a3` | g90 | pdf_manual | tier:2 | lang:en | layer:hvac | p:1 | doc_type:owners_manual
 
 Check radiator, heater and air conditioning hoses for leaks or damage.
 Check windshield washer spray and wiper operation. Clean wiper blades with a clean cloth dampened with washer fluid.
@@ -11217,7 +9952,6 @@ Check muffler, exhaust pipes, shields and clamps.
 Check the seat belts for wear and function.
 
 ### At least once a year:
-`genesis_g90_en_a0a3664f` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Clean body and door drain holes. Lubricate door hinges and hood hinges.
 Lubricate door and hood locks and latches.
@@ -11226,7 +9960,6 @@ Lubricate door checker.
 Check the air conditioning system. Inspect and lubricate automatic transmission linkage and controls. Clean the battery and terminals. Check the brake fluid level.
 
 ### SCHEDULED MAINTENANCE SERVICE
-`genesis_g90_en_f525cfff` | g90 | pdf_manual | tier:2 | lang:en | layer:transmission | p:1 | doc_type:owners_manual
 
 Follow Normal Maintenance Schedule if the vehicle is usually operated where none of the following conditions apply. If any of the following conditions apply, you must follow the Maintenance Under Severe Usage Conditions.
 
@@ -11261,7 +9994,6 @@ D GUS Graf D
 \*4 : Front/rear differential oil should be changed anytime, front/rear differential have been submerged in water.\*5 : Fuel filter & Fuel tank air filter are considered to be maintenance free but periodic inspection is recommended for this main-tenance schedule depends on fuel quality. If there are some important safety matters like fuel flow restriction, surging, lossof power, hard starting problem, etc. replace the fuel filter immediately regardless of maintenance schedule and consult an G Gr 中
 
 ### Maintenance Under Severe Usage Conditions (5.0 GDI)
-`genesis_g90_en_8c3d0fe2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The following items must be serviced more frequently on cars normally used under severe driving conditions. Refer to the chart below for the appropriate maintenance intervals.
 
@@ -11270,7 +10002,6 @@ R Replace I : Inspect and, after inspection, clean, adjust, repair or replace if
 ![](images/777bc16d43cf93380de954f08e733878179ced17d9794caa1441a310235208aa.webp)
 
 ### SEVERE DRIVING CONDITIONS
-`genesis_g90_en_f3f267d7` | g90 | pdf_manual | tier:2 | lang:en | layer:transmission | p:1 | doc_type:owners_manual
 
 A -Repeatedly driving short distance of less than 5 miles (8 km) in normal temperature or less than 10 miles (16 km) in freezing temperature
 B -Extensive engine idling or low speed driving for long distances
@@ -11303,7 +10034,6 @@ G tUS G D
 \*5 : Front/rear differential oil should be changed anytime, front/rear differential have been submerged in water.\*6 : Fuel filter & Fuel tank air filter are considered to be maintenance free but periodic inspection is recommended for this main-tenance schedule depends on fuel quality. If there are some important safety matters like fuel flow restriction, surging, lossof power, hard starting problem, etc. replace the fuel filter immediately regardless of maintenance schedule and consult an G
 
 ### Maintenance Under Severe Usage Conditions (3.3 Turbo-GDI)
-`genesis_g90_en_8c3d0fe2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The following items must be serviced more frequently on cars normally used under severe driving conditions. Refer to the chart below for the appropriate maintenance intervals.
 
@@ -11312,7 +10042,6 @@ R Replace I : Inspect and, after inspection, clean, adjust, repair or replace if
 ![](images/f77da492a6bd958cbedc5cb534d613f5e12f62ba0d26659e510c1ab130cfec3c.webp)
 
 ### SEVERE DRIVING CONDITIONS
-`genesis_g90_en_f3f267d7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A -Repeatedly driving short distance of less than 5 miles (8 km) in normal temperature or less than 10 miles (16 km) in freezing temperature
 B -Extensive engine idling or low speed driving for long distances
@@ -11327,88 +10056,72 @@ J -Driving over 106 mph (170 km/h)
 K -Frequently driving in stop-and-go conditions
 
 ### EXPLANATION OF SCHEDULED MAINTENANCE ITEMS Engine Oil and Filter Fuel Lines, Fuel Hoses
-`genesis_g90_en_f903f113` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The engine oil and filter should be changed at the intervals specified in the maintenance schedule. If the vehicle is being driven in severe conditions, more frequent oil and filter changes are required.
 
 ### and Connections
-`genesis_g90_en_c3fc3b4a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Check the fuel lines, fuel hoses and connections for leakage and damage. Have an authorized retailer of Genesis Branded products replace any damaged or leaking parts immediately.
 
 ### Drive Belts
-`genesis_g90_en_e4cd9712` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Inspect all drive belts for evidence of cuts, cracks, excessive wear or oil saturation and replace if necessary. Drive belts should be checked periodically for proper tension and adjusted as necessary.
 
 ### Fuel Filter
-`genesis_g90_en_3a43a8cc` | g90 | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 A clogged-up fuel filter may limit the vehicle driving speed, damage the emission system, and cause the hard starting. When a considerable amount of foreign substances are accumulated in the fuel tank, the fuel filter should be replaced.
 
 Upon installing a new fuel filter, operate the engine for several minutes, and check the connections for any leakages. Fuel filters should be installed by an authorized retailer of Genesis Branded products.
 
 ### Vapor Hose and Fuel Filler Cap
-`genesis_g90_en_a2463e85` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The vapor hose and fuel filler cap should be inspected at those intervals specified in the maintenance schedule. Make sure a new vapor hose or fuel filler cap is correctly replaced.
 
 ### Valve Clearance (3.3 T-GDI)
-`genesis_g90_en_dec03682` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Inspect for excessive valve noise and/or engine vibration and adjust if necessary. Have an authorized retailer of Genesis Branded products perform the operation.
 
 ### Cooling System
-`genesis_g90_en_171a0aa5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Check cooling system components, such as radiator, coolant reservoir, hoses and connections for leakage and damage. Replace any damaged parts.
 
 ### Automatic Transmission Fluid
-`genesis_g90_en_b96b5d8f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Automatic transmission fluid should not be checked under normal usage conditions. But in severe conditions, the fluid should be changed at an authorized retailer of Genesis Branded products in accordance to the scheduled maintenance at the beginning of this chapter.
 
 ### Information
-`genesis_g90_en_1903b3de` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Automatic transmission fluid color is red when new.
 
 As the vehicle is driven, the automatic transmission fluid will begin to look darker. This is a normal condition and you should not judge the need to replace the fluid based upon the changed color.
 
 ### NOTICE
-`genesis_g90_en_8b30dcf6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The use of a non-specified fluid could result in transmission malfunction and failure.
 
 Use only the specified automatic transmission fluid (refer to "Recommended Lubricants and Capacities" in chapter 8).
 
 ### Brake Hoses and Lines
-`genesis_g90_en_3b4761c5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Visually check for proper installation, chafing, cracks, deterioration and any leakage. Replace any deteriorated or damaged parts immediately.
 
 ### Brake Fluid
-`genesis_g90_en_caf96e74` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Check the brake fluid level in the brake fluid reservoir. The level should be between the MIN and the MAX marks on the side of the reservoir. Use only hydraulic brake fluid conforming to DOT 3 or DOT 4 specification.
 
 ### Exhaust Pipe and Muffler
-`genesis_g90_en_7aa6cef3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Visually inspect the exhaust pipes, muffler and hangers for cracks, deterioration, or damage. Start the engine and listen carefully for any exhaust gas leakage. Tighten connections or replace parts as necessary.
 
 ### Steering Gear Box, Linkage & Boots/Lower Arm Ball Joint
-`genesis_g90_en_6682045b` | g90 | pdf_manual | tier:2 | lang:en | layer:steering | p:1 | doc_type:owners_manual
 
 With the vehicle stopped and the engine off, check for excessive freeplay in the steering wheel. Check the linkage for bends or damage. Check the dust boots and ball joints for deterioration, cracks, or damage. Replace any damaged parts.
 
 ### Drive Shafts and Boots
-`genesis_g90_en_0f79a1c6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Check the drive shafts, boots and clamps for cracks, deterioration, or damage. Replace any damaged parts and, if necessary, repack the grease.
 
 ### Checking the Engine Oil Level
-`genesis_g90_en_065da917` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Follow all of the oil manufacturer’s precautions.
 2. Be sure the vehicle is on the level ground in P (Park) with the parking brake set. If possible, block the wheels.
@@ -11427,7 +10140,6 @@ Check the drive shafts, boots and clamps for cracks, deterioration, or damage. R
 Use only the specified engine oil (refer to "Recommended Lubricants and Capacities" in chapter 8).
 
 ### NOTICE
-`genesis_g90_en_abeac780` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To prevent damage to your engine:
 
@@ -11435,7 +10147,6 @@ Do not overfill with engine oil. Add oil in small quantities and recheck level t
 Do not spill engine oil when adding or changing engine oil. Use a funnel to help prevent oil from being spilled on engine components. Wipe off spilled oil immediately.
 
 ### Checking the Engine Oil and Filter
-`genesis_g90_en_5caff200` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/7c70b7b366d3db7fd41ab8abb0b87d92f1e2c3c2ecb7d67b78e14784dba57ac2.webp)
 
@@ -11444,14 +10155,12 @@ Have engine oil and filter changed by an authorized retailer of Genesis Branded 
 T WARNING CALIFORNIA PROPOSITION 65 WARNING Engine oil contains chemicals known to the State of California to cause cancer, birth defects and reproductive harm. Used engine oil may cause irritation or cancer of the skin if left in contact with the skin for prolonged periods of time. Always protect your skin by washing your hands thoroughly with soap and warm water as soon as possible after handling used oil.
 
 ### ENGINE COOLANT
-`genesis_g90_en_e24545d6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The high-pressure cooling system has a reservoir filled with year-round antifreeze coolant. The reservoir is filled at the factory.
 
 Check the antifreeze protection and coolant level at least once a year, at the beginning of the winter season and before traveling to a colder climate.
 
 ### Checking the Engine Coolant Level
-`genesis_g90_en_d431befb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/5b0838551075ba636ea681fd4b407abdf7c2f4db319845c8e6bbe8e9e709e127.webp)
 
@@ -11462,7 +10171,6 @@ The coolant level should be filled between the F and the L marks on the side of 
 If the coolant level is low, add enough distilled (deionized) water to bring the level to the F mark, but do not overfill. If frequent additions are required, we recommend that you see an authorized retailer of Genesis Branded products for a cooling system inspection.
 
 ### Recom ended engine co lant
-`genesis_g90_en_990781ac` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When adding coolant, use only deionized water, distilled water or soft water for your vehicle and never mix hard water in the coolant filled at the factory.
 An incorrect coolant mixture can result in severe malfunction or engine damage.
@@ -11475,43 +10183,34 @@ For mixing percentage, refer to the following table:
 ![](images/07dc1563d69980ec76b2b27f0046ade06d5ba016f4bdd1640313e5413c487ab4.webp)
 
 ### i Information
-`genesis_g90_en_fe191c51` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If in doubt about the mix ratio, a 50% water and 50% antifreeze mix is the easiest to mix together as it will be the same quantity of each. It is suitable to use for most temperature ranges of -31°F and higher.
 
 ![](images/21839f9bea5d9deeb4f23d8eed4baf04da0dba1b0eb7b27b739abc1fb5ea11de.webp)
 
 ### ！ WARNING
-`genesis_g90_en_a80243cf` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Never remove the radiator cap or the drain plug while the engine and radiator are hot. Hot coolant and steam may blow out under pressure, causing serious injury. Turn the engine off and wait until the engine cools down. Use extreme care when removing the radiator cap. Wrap a thick towel around it, and turn it counterclockwise slowly to the first stop. Step back while the pressure is released from the cooling system.
 
 When you are sure all the pressure has been released, press down on the cap, using a thick towel, and continue turning counterclockwise to remove it.
 
 ### Changing Engine Coolant
-`genesis_g90_en_8c05cc55` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Have coolant changed by an authorized retailer of Genesis Branded products according to the Maintenance Schedule at the beginning of this chapter.
 
-### WARNING
-`genesis_g90_en_179a7d79` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> The electric motor for the cooling fan may continue to operate or start up when the engine is not running and can cause serious injury. Keep hands, clothing and tools away from the rotating fan blades of the cooling fan. Always turn off the engine unless the vehicle has to be inspected with the engine on. Be cautious as the cooling fan may operate if the negative (-) battery terminal is not disconnected.
 
-The electric motor for the cooling fan may continue to operate or start up when the engine is not running and can cause serious injury. Keep hands, clothing and tools away from the rotating fan blades of the cooling fan. Always turn off the engine unless the vehicle has to be inspected with the engine on. Be cautious as the cooling fan may operate if the negative (-) battery terminal is not disconnected.
-
-### WARNING
-`genesis_g90_en_2e727cc9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Do not use engine coolant or antifreeze in the washer fluid reservoir.
-
-Engine coolant can severely obscure visibility when sprayed on the windshield and may cause loss of vehicle control resulting in an accident. Engine coolant may also cause damage to paint and body trim.
+> ⚠️ **Внимание:** 
+> Do not use engine coolant or antifreeze in the washer fluid reservoir.
+>
+> Engine coolant can severely obscure visibility when sprayed on the windshield and may cause loss of vehicle control resulting in an accident. Engine coolant may also cause damage to paint and body trim.
 
 ### NOTICE
-`genesis_g90_en_ae7bcfac` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To prevent damage to engine parts, put a thick towel around the radiator cap before refilling the coolant to prevent the coolant from overflowing into engine parts, such as the alternator.
 
 ### Checking the Brake Fluid Level
-`genesis_g90_en_c7815575` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/35031107f2470ec163b6eea323770ced83fc73c63b5bc835148466a8a0104bb1.webp)
 
@@ -11521,40 +10220,32 @@ Before removing the reservoir cap and adding brake fluid, clean the area around 
 
 If the level is low, add the specified brake fluid to the MAX level. The level will fall with accumulated mileage. This is a normal condition associated with the wear of the brake linings. If the fluid level is excessively low, have the brake system checked by an authorized retailer of Genesis Branded products.
 
-### WARNING
-`genesis_g90_en_390efab2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Do not allow brake fluid to come in contact with your eyes. If brake fluid comes in contact with your eyes, flush your eyes with clean water for at least 15 minutes and get immediate medical attention.
+> ⚠️ **Внимание:** 
+> Do not allow brake fluid to come in contact with your eyes. If brake fluid comes in contact with your eyes, flush your eyes with clean water for at least 15 minutes and get immediate medical attention.
 
 ### NOTICE
-`genesis_g90_en_53e8aa1f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not allow brake fluid to contact the vehicle's body paint, as paint damage will result. Brake fluid, which has been exposed to open air for an extended time should NEVER be used as its quality cannot be guaranteed. It should be disposed of properly. Do not use the wrong kind of brake fluid. A few drops of mineral based oil, such as engine oil, in your brake system can damage brake system parts.
 
 ### A WARNING
-`genesis_g90_en_625147df` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the brake system requires frequent additions of fluid this could indicate a leak in the brake system. Have the vehicle inspected by an authorized retailer of Genesis Branded products.
 
 ### Checking the Washer Fluid Level
-`genesis_g90_en_75b7c29c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/8ffdcc37f4c38eb1da49dc68111d907105054d3634fb6b79d546feba806a2f00.webp)
 
 Check the fluid level in the washer fluid reservoir and add fluid if necessary. Plain water may be used if washer fluid is not available. However, use washer solvent with antifreeze characteristics in cold climates to prevent freezing.
 
-### WARNING
-`genesis_g90_en_9dd59f92` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-To prevent serious injury or death, take the following safety precautions when using washer fluid:
-
-Do not use engine coolant or antifreeze in the washer fluid reservoir. Engine coolant can severely obscure visibility when sprayed on the windshield and may cause loss of vehicle control resulting in an accident or damage to paint and body trim.
-Do not allow sparks or flame to contact the washer fluid or the washer fluid reservoir. Washer fluid may contain alcohol and can be flammable.
-Do not drink washer fluid and avoid contact with skin. Washer fluid is harmful to humans and animals.
-Keep washer fluid away from children and animals.
+> ⚠️ **Внимание:** 
+> To prevent serious injury or death, take the following safety precautions when using washer fluid:
+>
+> Do not use engine coolant or antifreeze in the washer fluid reservoir. Engine coolant can severely obscure visibility when sprayed on the windshield and may cause loss of vehicle control resulting in an accident or damage to paint and body trim.
+> Do not allow sparks or flame to contact the washer fluid or the washer fluid reservoir. Washer fluid may contain alcohol and can be flammable.
+> Do not drink washer fluid and avoid contact with skin. Washer fluid is harmful to humans and animals.
+> Keep washer fluid away from children and animals.
 
 ### NOTICE
-`genesis_g90_en_750bb3db` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/489b7cb2b0d65c9734ab95694ae0d61b6ab3ec8e62d4e7a5acf735e83dea8b31.webp)
 
@@ -11567,14 +10258,12 @@ Visit an authorized retailer of Genesis Branded products to replace the air clea
 Replace the filter according to the Maintenance Schedule
 
 ### i Information
-`genesis_g90_en_9b48fca2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the vehicle is operated in extremely dusty or sandy areas, replace the air cleaner filter more often than the usual recommended intervals (refer to "Maintenance Under Severe Usage Conditions" in this chapter).
 
 Do not drive with the air cleaner filter removed. This will result in excessive engine wear. When removing the air cleaner filter, be careful that dust or dirt does not enter the air intake, or damage may result. Use Genuine Genesis Part, use of non-Genuine Genesis Part could damage the engine.
 
 ### Filter Inspection
-`genesis_g90_en_f3e74cd1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The cabin air filter should be replaced according to the Maintenance Schedule. If the vehicle is operated in severely air-polluted cities or on dusty rough roads for a long period, it should be inspected more frequently and replaced sooner. Replace the cabin air filter by following the procedure below and be careful to avoid damaging other components.
 
@@ -11596,12 +10285,10 @@ The cabin air filter should be replaced according to the Maintenance Schedule. I
 5. Replace the cabin air filter. 6. Reassemble in the reverse order of disassembly.
 
 ### NOTICE
-`genesis_g90_en_fe3a9359` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Install a new cabin air filter in the correct direction with the arrow symbol (↓) facing downwards to prevent noise and reduced effectiveness.
 
 ### Blade Replacement
-`genesis_g90_en_1097944b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Contamination of either the windshield or the wiper blades with foreign matter can reduce the effectiveness of the windshield wipers.
 
@@ -11610,12 +10297,10 @@ When the wipers no longer clean adequately, the blades may be worn or cracked, a
 Common sources of contamination are insects, tree sap, and hot wax treatments used by some commercial car washes. If the blades are not wiping properly, clean both the window and the blades with a good cleaner or mild detergent, and rinse thoroughly with clean water.
 
 ### NOTICE
-`genesis_g90_en_0bee1be9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 In order to prevent damage to the hood and the wiper arms, the wiper arms should only be lifted when in the top wiping position. Always return the wiper arms to the windshield before driving.
 
 ### NOTICE
-`genesis_g90_en_4275b2f3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To prevent damage to the wiper blades, arms or other components, do not:
 
@@ -11626,7 +10311,6 @@ Attempt to move the wipers manually.
 Use non-specified wiper blades.
 
 ### i Information
-`genesis_g90_en_355ab21c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Commercial hot waxes applied by automatic car washes have been known to make the windshield difficult to clean.
 
@@ -11638,7 +10322,6 @@ Commercial hot waxes applied by automatic car washes have been known to make the
 4. Turn the wipers to any ON position to return the wipers to the bottom resting position.
 
 ### Front windshield wiper blade replacement
-`genesis_g90_en_8a16fe92` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 1. Put the front windshield wipers into the service position.
 
@@ -11657,107 +10340,93 @@ Commercial hot waxes applied by automatic car washes have been known to make the
 6. Return the wiper arm on the windshield.
 7. Place the Engine Start/Stop button to the ON position. The wiper arms will return to the normal operating position.
 
-### WARNING
-`genesis_g90_en_5ea5d23a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
+> ⚠️ **Внимание:** 
+> To prevent SERIOUS INJURY or DEATH to you or bystanders, always follow these precautions when working near or handling the battery:
+>
+> ![](images/04c5719cf75b641ae9b960c226a2ee3eab9654b6ca2dd9d4c053c54e897412b2.webp)
+>
+> ![](images/76facdb7c99aa3a6f421bc911ef1d04b4fc94e4284992e9dcd6be83ddbc55a05.webp)
+>
+> Always read and follow instructions carefully when handling a battery. Wear eye protection designed to protect the eyes from acid splashes. Keep all flames, sparks, or smoking materials away from the battery. Hydrogen is always present in battery cells, is highly combustible, and may explode if ignited. Keep batteries out of reach of children.
+>
+> ![](images/20c2111144b8cf607d5a7263d38f20c83b4deebc6006f726e0ecd21b0d80d743.webp)
+>
+> ![](images/e83eb38994c56f64ee996d6bbf872f440540568c3cd843d64a3433505489c1a9.webp)
+>
+> Batteries contain sulfuric acid which is highly corrosive. Do not allow acid to contact your eyes, skin or clothing.
+>
+> If acid gets into your eyes, flush your eyes with clean water for at least 15 minutes and get immediate medical attention. If acid gets on your skin, thoroughly wash the area. If you feel pain or a burning sensation, get medical attention immediately.
+>
+> When lifting a plastic-cased battery, excessive pressure on the case may cause battery acid to leak. Lift with a battery carrier or with your hands on opposite corners.
+>
+> Do not attempt to jump start your vehicle if your battery is frozen.
+> NEVER attempt to recharge the battery when the vehicle’s battery cables are connected to the battery.
+> The electrical ignition system works with high voltage.
+> NEVER touch these components with the engine running or when the Engine Start/Stop button is in the ON position.
 
-To prevent SERIOUS INJURY or DEATH to you or bystanders, always follow these precautions when working near or handling the battery:
-
-![](images/04c5719cf75b641ae9b960c226a2ee3eab9654b6ca2dd9d4c053c54e897412b2.webp)
-
-![](images/76facdb7c99aa3a6f421bc911ef1d04b4fc94e4284992e9dcd6be83ddbc55a05.webp)
-
-Always read and follow instructions carefully when handling a battery. Wear eye protection designed to protect the eyes from acid splashes. Keep all flames, sparks, or smoking materials away from the battery. Hydrogen is always present in battery cells, is highly combustible, and may explode if ignited. Keep batteries out of reach of children.
-
-![](images/20c2111144b8cf607d5a7263d38f20c83b4deebc6006f726e0ecd21b0d80d743.webp)
-
-![](images/e83eb38994c56f64ee996d6bbf872f440540568c3cd843d64a3433505489c1a9.webp)
-
-Batteries contain sulfuric acid which is highly corrosive. Do not allow acid to contact your eyes, skin or clothing.
-
-If acid gets into your eyes, flush your eyes with clean water for at least 15 minutes and get immediate medical attention. If acid gets on your skin, thoroughly wash the area. If you feel pain or a burning sensation, get medical attention immediately.
-
-When lifting a plastic-cased battery, excessive pressure on the case may cause battery acid to leak. Lift with a battery carrier or with your hands on opposite corners.
-
-Do not attempt to jump start your vehicle if your battery is frozen.
-NEVER attempt to recharge the battery when the vehicle’s battery cables are connected to the battery.
-The electrical ignition system works with high voltage.
-NEVER touch these components with the engine running or when the Engine Start/Stop button is in the ON position.
-
-### WARNING
-`genesis_g90_en_e0db2cbb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-CALIFORNIA PROPOSITION 65 WARNING Battery posts, terminals, and related accessories contain lead and lead compounds, chemicals known to the State of California to cause cancer, birth defects and reproductive harm. Batteries also contain other chemicals known to the State of California to cause cancer. Wash hands after handling.
+> ⚠️ **Внимание:** 
+> CALIFORNIA PROPOSITION 65 WARNING Battery posts, terminals, and related accessories contain lead and lead compounds, chemicals known to the State of California to cause cancer, birth defects and reproductive harm. Batteries also contain other chemicals known to the State of California to cause cancer. Wash hands after handling.
 
 ### NOTICE
-`genesis_g90_en_3126125d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When you do not use the vehicle for a long time in a low temperature area, disconnect the battery and keep it indoors. Always charge the battery fully to prevent battery case damage in low temperature areas.
 
 ### Battery Usage Recommendations
-`genesis_g90_en_5aaaaf87` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/629be7d4b84d4fd353c2a66f2e8e9848dd2e3d8764b666ea730eb453024cf7b8.webp)
 
 Keep the battery securely mounted. Keep the battery top clean and dry. Keep the terminals and connections clean, tight, and coated with petroleum jelly or terminal grease. Rinse any spilled acid from the battery immediately with a solution of water and baking soda.
 
 ### Battery Replacement
-`genesis_g90_en_fd0a6aa4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/a9c405bde099f40a3c4fbf47d8285366b57df162b04329b12f98883ef5ef1e47.webp)
 
 When replacing the battery, disconnect the negative (-) cable (1) and remove the positive (+) battery fuse box (2). Remove the battery hold down mounting bracket (3).
 
 ### By batery charger
-`genesis_g90_en_01841068` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Your vehicle has a maintenance-free, calcium-based battery.
 
 If the battery becomes discharged in a short time (because, for example, the headlights or interior lights were left on while the vehicle was not in use), recharge it by slow charging (trickle) for 10 hours. If the battery gradually discharges because of high electric load while the vehicle is being used, recharge it at 20-30A for two hours.
 
 ### AGM battery
-`genesis_g90_en_2aeb04b8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Absorbent Glass Matt (AGM) batteries are maintenance-free and we recommend that the AGM battery be serviced by an authorized retailer of Genesis Branded products. For charging your AGM battery, use only fully automatic battery chargers that are specially developed for AGM batteries.
 When replacing the AGM battery, we recommend that you use parts for replacement from an authorized retailer of Genesis Branded products.
 Do not open or remove the cap on top of the battery. This may cause leaks of internal electrolyte that could result in severe injury.
 
-### WARNING
-`genesis_g90_en_7a53a1b8` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
-
-Always follow these instructions when recharging your vehicle's battery to avoid the risk of SERIOUS INJURY or DEATH from explosions or acid burns:
-
-Before performing maintenance or recharging the battery, turn off all accessories and press the Engine Start/ Stop button to the OFF position.
-Keep all flames, sparks, or smoking materials away from the battery.
-Always work outdoors or in an area with plenty of ventilation. Wear eye protection when checking the battery during charging.
-The battery must be removed from the vehicle and placed in a well ventilated area.
-Watch the battery during charging, and stop or reduce the charging rate if the battery cells begin boiling violently.
-
-The negative battery cable must be removed first and installed last when the battery is disconnected. Disconnect the battery charger in the following order:
-
-![](images/dd69702c3da5d26b106fe2ad559c2824c534362a45d2d3a95ffb2befc82aafbe.webp)
-
-(a) Turn off the battery charger main switch.
-(b) Unhook the negative clamp from the negative battery terminal (1).
-(c) Unhook the positive clamp from the positive battery terminal (2).
-Always use a Genuine
-Genesis Part approved bat
-tery when you replace the bat
-tery.
+> ⚠️ **Внимание:** 
+> Always follow these instructions when recharging your vehicle's battery to avoid the risk of SERIOUS INJURY or DEATH from explosions or acid burns:
+>
+> Before performing maintenance or recharging the battery, turn off all accessories and press the Engine Start/ Stop button to the OFF position.
+> Keep all flames, sparks, or smoking materials away from the battery.
+> Always work outdoors or in an area with plenty of ventilation. Wear eye protection when checking the battery during charging.
+> The battery must be removed from the vehicle and placed in a well ventilated area.
+> Watch the battery during charging, and stop or reduce the charging rate if the battery cells begin boiling violently.
+>
+> The negative battery cable must be removed first and installed last when the battery is disconnected. Disconnect the battery charger in the following order:
+>
+> ![](images/dd69702c3da5d26b106fe2ad559c2824c534362a45d2d3a95ffb2befc82aafbe.webp)
+>
+> (a) Turn off the battery charger main switch.
+> (b) Unhook the negative clamp from the negative battery terminal (1).
+> (c) Unhook the positive clamp from the positive battery terminal (2).
+> Always use a Genuine
+> Genesis Part approved bat
+> tery when you replace the bat
+> tery.
 
 ### Byjump starting
-`genesis_g90_en_e403b659` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 After a jump start from a good battery, drive the vehicle for 20-30 minutes before it is shutoff. The vehicle may not restart i you shut it off before the battery had a chance to adequately recharge. See "Jump Starting" in chapter 6 for more information on jump starting procedures.
 
 ### i Information
-`genesis_g90_en_f613e777` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 An inappropriately disposed battery can be harmful to the environment and human health.
 
 Dispose of the battery according to your local law(s) or regulation.
 
 ### Reset features
-`genesis_g90_en_24e10c1f` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 The following items may need to be reset after the battery has been discharged or the battery has been disconnected.
 
@@ -11775,19 +10444,16 @@ Rear door window curtain (See
 chapter 3)
 AVN system (See AVN manual)
 
-### WARNING
-`genesis_g90_en_b8fa960f` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
-
-Tire failure may cause loss of vehicle control resulting in an accident. To reduce risk of SERIOUS INJURY or DEATH, take the following precautions:
-
-Inspect your tires monthly for proper inflation as well as wear and damage.
-The recommended cold tire pressure for your vehicle can be found in this manual and on the tire label located on the driver’s side center pillar. Always use a tire pressure gauge to measure tire pressure. Tires with too much or too little pressure wear unevenly causing poor handling.
-Check the pressure of the spare every time you check the pressure of the other tires on your vehicle.
-Replace tires that are worn, show uneven wear, or are damaged. Worn tires can cause loss of braking effectiveness, steering) control, or traction.
-ALWAYS replace tires with the same size as each tire that was originally supplied with this vehicle. Using tires and wheels other than the recommended sizes could cause unusual handling characteristics, poor vehicle control, or negatively affect your vehicle's Anti-Lock Brake System (ABS) resulting in a serious accident.
+> ⚠️ **Внимание:** 
+> Tire failure may cause loss of vehicle control resulting in an accident. To reduce risk of SERIOUS INJURY or DEATH, take the following precautions:
+>
+> Inspect your tires monthly for proper inflation as well as wear and damage.
+> The recommended cold tire pressure for your vehicle can be found in this manual and on the tire label located on the driver’s side center pillar. Always use a tire pressure gauge to measure tire pressure. Tires with too much or too little pressure wear unevenly causing poor handling.
+> Check the pressure of the spare every time you check the pressure of the other tires on your vehicle.
+> Replace tires that are worn, show uneven wear, or are damaged. Worn tires can cause loss of braking effectiveness, steering) control, or traction.
+> ALWAYS replace tires with the same size as each tire that was originally supplied with this vehicle. Using tires and wheels other than the recommended sizes could cause unusual handling characteristics, poor vehicle control, or negatively affect your vehicle's Anti-Lock Brake System (ABS) resulting in a serious accident.
 
 ### Tire Care
-`genesis_g90_en_0d3a601d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 For proper maintenance, safety, and maximum fuel economy, you must always maintain recommended tire inflation pressures and stay within the load limits and weight distribution recommended for your vehicle.
 
@@ -11796,26 +10462,22 @@ For proper maintenance, safety, and maximum fuel economy, you must always mainta
 All specifications (sizes and pressures) can be found on a label attached to the driver’s side center pillar.
 
 ### Recommended Cold Tire Inflation Pressures
-`genesis_g90_en_f26812f6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 All tire pressures (including the spare) should be checked when the tires are cold. "Cold tires" means the vehicle has not been driven for at least three hours or driven less than one mile (1.6 km).
 
 Warm tires normally exceed recommended cold tire pressures by 4 to 6 psi (28 to 41 kPa). Do not release air from warm tires to adjust the pressure or the tires will be under-inflated. For recommended inflation pressure, refer to "Tire and Wheels" in chapter 8.
 
 ### NOTICE
-`genesis_g90_en_4e040db5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Under-inflation results in excessive wear, poor handling and reduced fuel economy. Wheel deformation is also possible. Keep your tire pressures at the proper levels. If a tire frequently needs refilling, have it checked by an authorized retailer of Genesis Branded products.
 Over-inflation produces a harsh ride, excessive wear at the center of the tire tread, and a greater possibility of damage from road hazards.
 
 ### ！ WARNING
-`genesis_g90_en_6f0d4255` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Recommended pressures must be maintained for the best ride, vehicle handling, and minimum tire wear.
 Over-inflation or under-inflation can reduce tire life, adversely affect vehicle handling, and lead to sudden tire failure that could result in loss of vehicle control resulting in an accident. Severe under-inflation can lead to severe heat build-up, causing blowouts, tread separation and other tire failures that can result in the loss of vehicle control resulting in an accident. This risk is much higher on hot days and when driving for long periods at high speeds.
 
 ### How to check
-`genesis_g90_en_0d39f272` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use a good quality tire pressure gauge to check tire pressure. You can not tell if your tires are properly inflated simply by looking at them. Radial tires may look properly inflated when they are under-inflated.
 
@@ -11834,12 +10496,10 @@ When rotating tires, check for uneven wear and damage. Abnormal wear is usually 
 Disc brake pads should be inspected for wear whenever tires are rotated.
 
 ### i Information
-`genesis_g90_en_53974531` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The front tire size is different from the rear tire size. So when you rotate tires, check the tire and wheel size.
 
 ### Wheel Alignment and Tire Balance
-`genesis_g90_en_c5860b84` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The wheels on your vehicle were aligned and balanced carefully at the factory to give you the longest tire life and best overall performance.
 
@@ -11848,7 +10508,6 @@ In most cases, you will not need to have your wheels aligned again. However, if 
 If you notice your vehicle vibrating when driving on a smooth road, your wheels may need to be rebalanced.
 
 ### Tire Replacement
-`genesis_g90_en_d259a7e4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/0dd93ff4ff471495bd80799ca894224e390307082560eae4482139b57ae67336.webp)
 
@@ -11856,55 +10515,45 @@ If the tire is worn evenly, a tread wear indicator will appear as a solid band a
 
 Do not wait for the band to appear across the entire tread before replacing the tire.
 
-### WARNING
-`genesis_g90_en_9217a294` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
-
-It is best to replace all four tires at the same time. If that is not possible, or necessary, then replace the two front or two rear tires as a pair.
-Replacing just one tire can seriously affect your vehicle's handling.
-Tires degrade over time, even when they are not being used. Regardless of the remaining tread, Genesis Branded Vehicle recommends that tires be replaced after six (6) years of normal service.
-Heat caused by hot climates or frequent high loading conditions can accelerate the aging process. Failure to follow this warning may cause sudden tire failure, which could lead to a loss of vehicle control resulting in an accident.
-
-To reduce the risk of DEATH or SERIOUS INJURY:
-
-Replace tires that are worn, show uneven wear, or are damaged. Worn tires can cause loss of braking effectiveness, steering control, and traction.
-Always replace tires with the same size as each tire that was originally supplied with this vehicle. Using tires and wheels other than the recommended sizes could cause unusual handling characteristics, poor vehicle control, or negatively affect your vehicle's Anti-Lock Brake System (ABS) resulting in a serious accident.
+> ⚠️ **Внимание:** 
+> It is best to replace all four tires at the same time. If that is not possible, or necessary, then replace the two front or two rear tires as a pair.
+> Replacing just one tire can seriously affect your vehicle's handling.
+> Tires degrade over time, even when they are not being used. Regardless of the remaining tread, Genesis Branded Vehicle recommends that tires be replaced after six (6) years of normal service.
+> Heat caused by hot climates or frequent high loading conditions can accelerate the aging process. Failure to follow this warning may cause sudden tire failure, which could lead to a loss of vehicle control resulting in an accident.
+>
+> To reduce the risk of DEATH or SERIOUS INJURY:
+>
+> Replace tires that are worn, show uneven wear, or are damaged. Worn tires can cause loss of braking effectiveness, steering control, and traction.
+> Always replace tires with the same size as each tire that was originally supplied with this vehicle. Using tires and wheels other than the recommended sizes could cause unusual handling characteristics, poor vehicle control, or negatively affect your vehicle's Anti-Lock Brake System (ABS) resulting in a serious accident.
 
 ### Compact spare tire replacement
-`genesis_g90_en_69e47052` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A compact spare tire has a shorter tread life than a regular size tire. Replace it when you can see the tread wear indicator bars on the tire. The replacement compact spare tire should be the same size and design tire as the one provided with your new vehicle and should be mounted on the same compact spare tire wheel. The compact spare tire is not designed to be mounted on a regular size wheel, and the compact spare tire wheel is not designed for mounting a regular size tire.
 
-### WARNING
-`genesis_g90_en_1348a7df` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-The original tire should be repaired or replaced as soon as possible to avoid failure of the spare and loss of vehicle control resulting in an accident.The compact spare tire is for emergency use only. Do not operate your vehicle over 50 mph (80 km/h) when using the compact spare tire.
+> ⚠️ **Внимание:** 
+> The original tire should be repaired or replaced as soon as possible to avoid failure of the spare and loss of vehicle control resulting in an accident.The compact spare tire is for emergency use only. Do not operate your vehicle over 50 mph (80 km/h) when using the compact spare tire.
 
 ### Wheel Replacement
-`genesis_g90_en_3d8b491c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When replacing the metal wheels for any reason, make sure the new wheels are equivalent to the original factory units in diameter, rim width and offset.
 
 ### Tire Traction
-`genesis_g90_en_8e540241` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Tire traction can be reduced if you drive on worn tires, tires that are improperly inflated or on slippery road surfaces. Tires should be replaced when tread wear indicators appear. To reduce the possibility of losing control, slow down whenever there is rain, snow or ice on the road.
 
 ### Tire Maintenance
-`genesis_g90_en_3d86c6c9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 In addition to proper inflation, correct wheel alignment helps to decrease tire wear. If you find a tire is worn unevenly, have your dealer check the wheel alignment.
 
 When you have new tires installed, make sure they are balanced. This will increase vehicle ride comfort and tire life. Additionally, a tire should always be rebalanced if it is removed from the wheel.
 
 ### Tire Sidewall Labeling
-`genesis_g90_en_604ab5aa` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This information identifies and describes the fundamental characteristics of the tire and also provides the tire identification number (TIN) for safety standard certification. The TIN can be used to identify the tire in case of a recall.
 
 ![](images/dfe0da888f9f825f9567dfd6bb8c8be616bb71d4b66fb70e18f6299b7c4e2b06.webp)
 
 ### 2. Tire size designation
-`genesis_g90_en_ad4e047f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A tire’s sidewall is marked with a tire size designation. You will need this information when selecting replacement tires for your car. The following explains what the letters and numbers in the tire size designation mean.
 
@@ -11913,7 +10562,6 @@ Example tire size designation:
 (These numbers are provided as an example only; your tire size designator could vary depending on your vehicle.)
 
 ### 245/45 R19 98W
-`genesis_g90_en_b352c230` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 245 Tire width in millimeters.
 
@@ -11928,33 +10576,28 @@ R - Tire construction code (Radial).
 W - Speed Rating Symbol. See the speed rating chart in this section for additional information.
 
 ### Wheel size designation
-`genesis_g90_en_fc83c8af` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Wheels are also marked with important information that you need if you ever have to replace one. The following explains what the letters and numbers in the wheel size designation mean.
 
 Example wheel size designation:
 
 ### Tire speed ratings
-`genesis_g90_en_bb9a3a2a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The chart below lists many of the different speed ratings currently being used for passenger car tires. The speed rating is part of the tire size designation on the sidewall of the tire. This symbol corresponds to that tire’s designed maximum safe operating speed.
 
 ![](images/e309c7b8dba6910d7e805ba08d56bea901ca060068d3b5c9aa7896c98cb11885.webp)
 
 ### 3. Checking tire life (TIN: Tire Identification Number)
-`genesis_g90_en_82a362e7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Any tires that are over six years old, based on the manufacturing date, (including the spare tire) should be replaced by new ones. You can find the manufacturing date on the tire sidewall (possibly on the inside of the wheel), displaying the DOT Code. The DOT Code is a series of numbers on a tire consisting of numbers and English letters. The manufacturing date is designated by the last four digits (characters) of the DOT code.
 
 ### DOT XXXX XXXX OOOO
-`genesis_g90_en_370c2486` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The front part of the DOT means a plant code number, tire size and tread pattern and the last four numbers indicate week and year manufactured.
 
 The number of layers or plies of rubber-coated fabric in the tire. Tire manufacturers also must indicate the materials in the tire, which include steel, nylon, polyester, and others. The letter "R" means radial ply construction; the letter "D" means diagonal or bias ply construction; and the letter "B" means belted-bias ply construction.
 
 ### 5. Maximum permis ible inflation pres ure
-`genesis_g90_en_9aea06f4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This number is the greatest amount of air pressure that should be put in the tire. Do not exceed the maximum permissible inflation pressure. Refer to the Tire and Loading Information label for recommended inflation pressure.
 
@@ -11963,12 +10606,10 @@ For example:
 DOT XXXX XXXX 2719 represents that the tire was produced in the 27th week of 2019.
 
 ### 6. Maximum load rating
-`genesis_g90_en_acb33796` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This number indicates the maximum load in kilograms and pounds that can be carried by the tire. When replacing the tires on the vehicle, always use a tire that has the same load rating as the factory installed tire.
 
 ### 7. Uniform tire quality grading
-`genesis_g90_en_edfb2de8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Quality grades can be found where applicable on the tire sidewall between tread shoulder and maximum section width.
 
@@ -11979,131 +10620,106 @@ Traction - AA, A, B & C
 The traction grades, from highest to lowest, are AA, A, B and C. Those grades represent the tire's ability to stop on wet pavement as measured under controlled conditions on specified government test surfaces of asphalt and concrete. A tire marked C may have poor traction performance.
 
 ### Tread wear
-`genesis_g90_en_cc75641d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The tread wear grade is a comparative rating based on the wear rate of the tire when tested under controlled conditions on a specified government test course. For example, a tire graded 150 would wear one-and-ahalf times (1½) as well on the government course as a tire graded 100. The relative performance of tires depends upon the actual conditions of their use, however, and may depart significantly from the norm due to variations in driving habits, service practices and differences in road characteristics and climate.
 
 These grades are molded on the sidewalls of passenger vehicle tires. The tires available as standard or optional equipment on your vehicle may vary with respect to grade.
 
 ### ！ WARNING
-`genesis_g90_en_1c3b5637` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The traction grade assigned to this tire is based on straightahead braking traction tests, and does not include acceleration, cornering, hydroplaning, or peak traction characteristics.
 
 ### Temperature A, B & C
-`genesis_g90_en_9f20e244` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The temperature grades are A (the highest), B and C representing the tire’s resistance to the generation of heat and its ability to dissipate heat when tested under controlled conditions on a specified indoor laboratory test wheel.
 
 Sustained high temperature can cause the material of the tire to degenerate and reduce tire life, and excessive temperature can lead to sudden tire failure. Grade C responds to a level of performance which all passenger car tires must meet under the Federal Motor Vehicle Safety Standard No. 109. Grades B and A represent higher levels of performance on the laboratory test wheel than the minimum required by law.
 
 ### ！ WARNING
-`genesis_g90_en_1ecb0ce6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The temperature grade for this tire is established for a tire that is properly inflated and not overloaded. Excessive speed, under-inflation, over-inflation, or excessive loading, either separately or in combination, can cause heat build-up and possible sudden tire failure. This may cause loss of vehicle control resulting in an accident.
 
 ### Air Pres ure
-`genesis_g90_en_7e988bc2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The amount of air inside the tire pressing outward on the tire. Air pressure is expressed in pounds per square inch (psi) or kilopascal (kPa).
 
 ### Ac es ory Weight
-`genesis_g90_en_06312be0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This means the combined weight of optional accessories. Some examples of optional accessories are automatic transmission, power seats, and air conditioning.
 
 ### Belt
-`genesis_g90_en_7c1e8082` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A rubber coated layer of cords that is located between the plies and the tread. Cords may be made from steel or other reinforcing materials.
 
 ### Bias PlyTire
-`genesis_g90_en_31a6de78` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A pneumatic tire in which the plies are laid at alternate angles less than 90 degrees to the centerline of the tread.
 
 ### Cold Tire Pres ure
-`genesis_g90_en_febcd930` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The amount of air pressure in a tire, measured in pounds per square inch (psi) or kilopascals (kPa) before a tire has built up heat from driving.
 
 ### Curb Weight
-`genesis_g90_en_4ba7c484` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This means the weight of a motor vehicle with standard and optional equipment including the maximum capacity of fuel, oil and coolant, but without passengers and cargo.
 
 ### DOT Markings
-`genesis_g90_en_1ee0de10` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A code molded into the sidewall of a tire signifying that the tire is in compliance with the U.S. Department of Transportation motor vehicle safety standards. The DOT code includes the Tire Identification Number (TIN), an alphanumeric designator which can also identify the tire manufacturer, production plant, brand and date of production.
 
 ### Light truck(LT) tire
-`genesis_g90_en_f91e036a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A tire designated by its manufacturer as primarily intended for use on lightweight trucks or multipurpose passenger vehicles.
 
 ### Maximum Inflation Pres ure
-`genesis_g90_en_ac4f189e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The maximum air pressure to which a cold tire may be inflated. The maximum air pressure is molded onto the sidewall.
 
 ### Outward Facing Sidewal
-`genesis_g90_en_26ae665d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 An asymmetrical tire has a particular side that faces outward when mounted on a vehicle. The outward facing sidewall bears white lettering or bears manufacturer, brand, and/or model name molding that is higher or deeper than the same moldings on the inner facing sidewall.
 
 ### Pneumatic tire
-`genesis_g90_en_8a187b3f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A mechanical device made of rubber, chemicals, fabric and steel or other materials, that, when mounted on an automotive wheel provides the traction and contains the gas or fluid that sustains the load.
 
 ### Pneumatic options weight
-`genesis_g90_en_b25dccd5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The combined weight of installed regular production options weighing over 5 lb. (2.3 kg) in excess of the standard items which they replace, not previously considered in curb weight or accessory weight, including heavy duty breaks, ride levelers, roof rack, heavy duty battery, and special trim.
 
 ### RadialPlyTire
-`genesis_g90_en_fb8e959f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A pneumatic tire in which the ply cords that extend to the beads are laid at 90 degrees to the centerline of the tread.
 
 ### Treadwear Indicators
-`genesis_g90_en_eda021c2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Narrow bands, sometimes called "wear bars", that show across the tread of a tire when only 1/16 inch of tread remains.
 
 ### UTQGS
-`genesis_g90_en_13070741` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Uniform Tire Quality Grading Standards is a tire information system that provides consumers with ratings for a tire's traction, temperature and treadwear. Ratings are determined by tire manufacturers using government testing procedures. The ratings are molded into the sidewall of the tire.
 
 ### Vehicle Capacity Weight
-`genesis_g90_en_2e60a9fc` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The number of designated seating positions multiplied by 150 lbs. (68 kg) plus the rated cargo and luggage load.
 
 ### Vehicle Normal Load on the Tire
-`genesis_g90_en_131b2762` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Load on an individual tire that is determined by distributing to each axle its share of the curb weight, accessory weight, and normal occupant weight and dividing by 2.
 
 ### Vehicle Placard
-`genesis_g90_en_76963004` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A label permanently attached to a vehicle showing the original equipment tire size and recommended inflation pressure.
 
 ### Radial-Ply Tires
-`genesis_g90_en_07226881` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Genesis Branded Vehicle specifies all season tires on some models to provide good performance for use all year round, including snowy and icy road conditions. All season tires are identified by ALL SEASON and/or M+S (Mud and Snow) on the tire sidewall. Snow tires have better snow traction than all season tires and may be more appropriate in some areas.
 
 ### Summer Tires
-`genesis_g90_en_6ada4273` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Genesis Branded Vehicle specifies summer tires on some models to provide superior performance on dry roads. Summer tire performance is substantially reduced in snow and ice. Summer tires do not have the tire traction rating M+S (Mud and Snow) on the tire side wall. If you plan to operate your vehicle in snowy or icy conditions, Genesis Branded Vehicle recommends the use of snow tires or all season tires on all four wheels.
 
 ### Snow Tires
-`genesis_g90_en_c81acb33` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you equip your car with snow tires, they should be the same size and have the same load capacity as the original tires. Snow tires should be installed on all four wheels; otherwise, poor handling may result. Snow tires should carry 4 psi (28 kPa) more air pressure than the pressure recommended for the standard tires on the tire label on the driver’s side of the center pillar, or up to the maximum pressure shown on the tire sidewall, whichever is less. Do not drive faster than 75 mph (120 km/h) when your vehicle is equipped with snow tires.
 
@@ -12112,19 +10728,16 @@ Radial-ply tires provide improved tread life, road hazard resistance and smoothe
 Longer wearing tires can be more susceptible to irregular tread wear. It is very important to follow the tire rotation interval in this chapter to achieve the tread life potential of these tires. Cuts and punctures in radial-ply tires are repairable only in the tread area, because of sidewall flexing. Consult your tire dealer for radial-ply tire repairs.
 
 ### ！ WARNING
-`genesis_g90_en_bed4bbe3` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not mix bias ply and radial ply tires under any circumstances. This may cause unusual handling characteristics that may cause loss of vehicle control resulting in an accident.
 
 ### Low Aspect Ratio Tires
-`genesis_g90_en_c410acc8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Low aspect ratio tires, the aspect ratio is lower than 50, are provided for sporty looks.
 
 Because low aspect ratio tires are optimized for handling and braking, their sidewall is a little stiffer than a standard tire. Also low aspect ratio tires tend to be wider and consequently have a greater contact patch with the road surface. In some instances they may generate more road noise compared with standard tires.
 
 ### NOTICE
-`genesis_g90_en_ff34c7d2` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Because the sidewall of a low aspect ratio tire is shorter than a standard tire, the rim of the wheel and the tire itself is more easily susceptible to damage. Use caution when driving and follow the guidelines below to help minimize damage to the wheel and tire:
 
@@ -12134,12 +10747,10 @@ If the tire is subjected to a severe impact, have the tire and wheel inspected b
 Inspect the tire condition and pressure every 1,800 miles (3,000km).
 
 ### NOTICE
-`genesis_g90_en_10e978c9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 It is not easy to recognize tire damage with your own eyes. But if there is the slightest hint of tire damage, have the tire checked or replaced because the tire damage may cause air leakage from the tire. If the tire is damaged by driving on a rough road, off road, pothole, manhole, or curb stone, it will not be covered by the warranty.
 
 ### FUSES
-`genesis_g90_en_1a4f6716` | g90 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 ■ Blade type
 
@@ -12154,27 +10765,22 @@ If the electrical system does not work, first check the driver's side fuse panel
 If the replacement fuse blows, this indicates an electrical problem. Avoid using the system involved and immediately consult an authorized retailer of Genesis Branded products.
 
 ### Information
-`genesis_g90_en_6657463d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Four kinds of fuses are used: blade type for lower amperage rating, cartridge type, multi fuse and fusible link for higher amperage ratings.
 
-### WARNING
-`genesis_g90_en_478d70b7` | g90 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
-
-NEVER replace a fuse with anything but another fuse of the same rating.
-
-If any of your vehicle's lights, accessories, or controls do not work, check the appropriate circuit fuse. If a fuse has blown, the element inside the fuse will be melted or broken.
-
-A higher capacity fuse could cause damage and possibly cause a fire.
-Do not install a wire or aluminum foil instead of the proper fuse even as a temporary repair. It may cause extensive wiring damage and possibly a fire.
+> ⚠️ **Внимание:** 
+> NEVER replace a fuse with anything but another fuse of the same rating.
+>
+> If any of your vehicle's lights, accessories, or controls do not work, check the appropriate circuit fuse. If a fuse has blown, the element inside the fuse will be melted or broken.
+>
+> A higher capacity fuse could cause damage and possibly cause a fire.
+> Do not install a wire or aluminum foil instead of the proper fuse even as a temporary repair. It may cause extensive wiring damage and possibly a fire.
 
 ### NOTICE
-`genesis_g90_en_1dac6608` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not use a screwdriver or any other metal object to remove fuses because it may cause a short circuit and damage the system.
 
 ### Instrument Panel Fuse Replacement
-`genesis_g90_en_84e4e7dc` | g90 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 ![](images/8c7c2181fd996bec3d1278c0df483e6fb0067a41448a5e926cdb37797aa8397b.webp)
 
@@ -12193,7 +10799,6 @@ In an emergency, if you do not have a spare fuse, use a fuse of the same rating 
 If the headlamps or other electrical components do not work and the fuses are OK, check the fuse panel in the engine compartment. If a fuse is blown, it must be replaced with the same rating.
 
 ### Fuse switch
-`genesis_g90_en_8253aa7c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/5511613bb37a6f53fecbf151262a43dafdcff3acec5d19a2dea80ee8755aa1dc.webp)
 
@@ -12202,20 +10807,17 @@ Always, place the fuse switch to the ON position.
 If you move the switch to the OFF position, some items such as the audio system and clock must be reset and the smart key may not work properly.
 
 ### i Information
-`genesis_g90_en_2318ffeb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/841a1282a097a04de8bf930adfa1d7dc8e354f4ee344d717687d1661c5acc142.webp)
 
 If the fuse switch is OFF, "Turn FUSE SWITCH on" message will appear.
 
 ### NOTICE
-`genesis_g90_en_c98028fd` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Always place the fuse switch in the ON position while driving the vehicle.
 Do not move the fuse switch repeatedly. The fuse switch may be damaged.
 
 ### Engine Compartment Panel Fuse Replacement
-`genesis_g90_en_c4b21e11` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/dcebda2448c901ac779467e79789d7bd03a29065667d95c81ba716c7a1522c3c.webp)
 
@@ -12226,7 +10828,6 @@ Do not move the fuse switch repeatedly. The fuse switch may be damaged.
 5. Push in a new fuse of the same rating, and make sure it fits tightly in the clips. If it fits loosely, consult an authorized retailer of Genesis Branded products.
 
 ### Multi fuse
-`genesis_g90_en_7dbc042b` | g90 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 After checking the fuse box in the engine compartment securely close the fuse box cover inside the engine compartment, until it clicks.
 
@@ -12235,7 +10836,6 @@ If the fuse box is not closed properly, water may leak in side, possibly causing
 ![](images/e87c87f7a5b7c0310a207989b0d4233d61219268e106c0c1310b58f68e29d3b1.webp)
 
 ### Main fuse
-`genesis_g90_en_9e252c79` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the multi fuse is blown, it must be removed as follows:
 
@@ -12258,7 +10858,6 @@ If the main fuse is blown, it must be removed as follows:
 6. Reinstall in the reverse order of removal.
 
 ### Fuse/Relay Panel Description
-`genesis_g90_en_cb40c1a2` | g90 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 Instrument panel fuse panel (IGPM Integrated Gateway Power Control Module)
 
@@ -12267,7 +10866,6 @@ Inside the fuse/relay box cover, you can find the fuse/relay label describing fu
 ![](images/06d1ae0243f68556df7da8896105716d8953130fde90db8f8c15c1501ec606fa.webp)
 
 ### Information
-`genesis_g90_en_1cf202eb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Not all fuse panel descriptions in this manual may be applicable to your vehicle; the information is accurate at the time of printing. When you inspect the fuse box on your vehicle, refer to the fuse box label.
 
@@ -12282,14 +10880,12 @@ Instrument panel fuse panel
 ![](images/e444a649c493dc6061cef9893a8ae2f9f90723683f5cae7cbadadbb077894446.webp)
 
 ### Engine compartment fuse panel (Engine ro m unction block)
-`genesis_g90_en_726bab95` | g90 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 Inside the fuse/relay box cover, you can find the fuse/relay label describing fuse/relay names and ratings.
 
 ![](images/409d8b6e68efcced5e62251ea4fe6352cc28d056f38a37194b5ec163b2d84a83.webp)
 
 ### i Information
-`genesis_g90_en_80cd66e0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Not all fuse panel descriptions in this manual may be applicable to your vehicle; the information is accurate at the time of printing. When you inspect the fuse panel in your vehicle, refer to the fuse panel label.
 
@@ -12305,14 +10901,12 @@ Engine compartment fuse panel
 ![](images/d49a57bdb0939f09334ff29d6d39290d39c06f926ba63593639a28f89369f594.webp)
 
 ### Trunk fuse panel (Rearsub unction block)
-`genesis_g90_en_7d75133c` | g90 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 Inside the fuse/relay box covers, you can find the fuse/relay label describing fuse/relay names and ratings.
 
 ![](images/457df9d8883098f9b077c1eb0eedb8af77461855c4716be58633425ec449c81d.webp)
 
 ### i Information
-`genesis_g90_en_1cf202eb` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Not all fuse panel descriptions in this manual may be applicable to your vehicle; the information is accurate at the time of printing. When you inspect the fuse box on your vehicle, refer to the fuse box label.
 
@@ -12322,14 +10916,12 @@ Trunk fuse panel
 ![](images/99d587ef35fbf1d2376202b8f42dca1470d53ed25ca0a392dc98385f3a2d052b.webp)
 
 ### Trunk fuse panel (Batery junction block)
-`genesis_g90_en_149d53d1` | g90 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 Inside the fuse/relay box covers, you can find the fuse/relay label describing fuse/relay names and ratings.
 
 ![](images/6f0c4763a529facfc03335891cf7ae198f32058e0240670f77760fd0fcbc952f.webp)
 
 ### i Information
-`genesis_g90_en_1cf202eb` | g90 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 Not all fuse panel descriptions in this manual may be applicable to your vehicle; the information is accurate at the time of printing. When you inspect the fuse box on your vehicle, refer to the fuse box label.
 
@@ -12346,35 +10938,28 @@ Trunk fuse panel
 ![](images/2ced601e2046c5cfcf14777cf917df7546ffd40da3b8cd626cad472d034ef33a.webp)
 
 ### LIGHT BULBS
-`genesis_g90_en_f1e2c76f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Consult an authorized retailer of Genesis Branded products to replace most vehicle light bulbs. It is difficult to replace vehicle light bulbs because other parts of the vehicle must be removed before you can get to the bulb. This is especially true for removing the headlamp assembly to get to the bulb(s).
 
 ### Light replacement
-`genesis_g90_en_60643985` | g90 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 Be sure to replace the burned out bulb with one of the same wattage rating. Otherwise, it may cause damage to the fuse or electric wiring system.
 
 Removing/installing the headlamp assembly can result in damage to the vehicle.
 
 ### i Information
-`genesis_g90_en_3b29bb39` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 After driving in heavy rain or washing the vehicle, headlamp and trunk lenses could appear frosty. This condition is caused by the temperature difference between the lamp inside and the outside temperature. This is similar to the condensation on your windows inside your vehicle when it rains and doesn't indicate a problem with your vehicle. If the water leaks into the lamp bulb circuitry, have your vehicle checked by an authorized retailer of Genesis Branded products.
 
-### WARNING
-`genesis_g90_en_727347e0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-Prior to replacing a lamp, depress the foot brake, shift the gear to P (Park) apply the parking brake, place the Engine Start/Stop button to the OFF position, and take the key with you when leaving the vehicle to avoid sudden movement of the vehicle and to prevent possible electric shock.
-Be aware the bulbs may be hot and may burn your fingers.
+> ⚠️ **Внимание:** 
+> Prior to replacing a lamp, depress the foot brake, shift the gear to P (Park) apply the parking brake, place the Engine Start/Stop button to the OFF position, and take the key with you when leaving the vehicle to avoid sudden movement of the vehicle and to prevent possible electric shock.
+> Be aware the bulbs may be hot and may burn your fingers.
 
 ### i Information
-`genesis_g90_en_6f43b02d` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A normally functioning lamp may flicker momentarily to stabilize the vehicle's electrical control system. However, if the lamp goes out after flickering momentarily, or continues to flicker, have the system checked by an authorized retailer of Genesis Branded products. The parking lamp may not turn on when the parking lamp switch is turned on, but the parking lamp and headlamp switch may turn on when the headlamp switch is turned on. This may be caused by network failure or vehicle electrical control system malfunction. If this occurs, have the system checked by an authorized retailer of Genesis Branded products.
 
 ### Headlamp, Parking Lamp, Turn Signal Lamp, Daytime Running Light and Side Marker Replacement
-`genesis_g90_en_b4e5761b` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 ![](images/292623daea0e3690b2e978bb1bd1243b448b8ca5a2b86e02d0694a393e9d73c5.webp)
 
@@ -12391,7 +10976,6 @@ The LED lamps cannot be replaced as a single unit because it is an integrated un
 A skilled technician should check or repair the LED lamp, for it may damage related parts of the vehicle.
 
 ### Side Repeater Lamp Replacement
-`genesis_g90_en_4d2e2ad9` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 ![](images/8736249a67ee9298e944bd33ba7b8709a5c1081ce68ac144a56a021e57a6058e.webp)
 
@@ -12402,7 +10986,6 @@ The LED lamps cannot be replaced as a single unit because it is an integrated un
 A skilled technician should check or repair the LED lamp, for it may damage related parts of the vehicle.
 
 ### High Mounted Stop Light Replacement
-`genesis_g90_en_8452c38f` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 ![](images/10caf7ce56599b2523cddfe822998daf92225c117b72064fc081d0a622414285.webp)
 
@@ -12423,7 +11006,6 @@ The LED lamps cannot be replaced as a single unit because it is an integrated un
 A skilled technician should check or repair the LED lamp, for it may damage related parts of the vehicle.
 
 ### License Plate Light Replacement replacement
-`genesis_g90_en_4b4c7541` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 ![](images/0c5c995875c14c41b816d9afabaee12d81f41fed116d9a6bd710023250a8ba40.webp)
 
@@ -12434,7 +11016,6 @@ The LED lamps cannot be replaced as a single unit because it is an integrated un
 A skilled technician should check or repair the LED lamp, for it may damage related parts of the vehicle.
 
 ### Interior Light Bulb Replacement
-`genesis_g90_en_d42a5449` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 ![](images/a67de4b6967e8ad37f0f87598ea59e98d3635d8f59b1a72e9bc6b70f4f0c6c2b.webp)
 OHI078066/OHI078068/OHI078069/OHI078046
@@ -12452,12 +11033,10 @@ The LED lamps cannot be replaced as a single unit because it is an integrated un
 A skilled technician should check or repair the LED lamp, for it may damage related parts of the vehicle.
 
 ### Exterior general caution
-`genesis_g90_en_38cca89b` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 It is very important to follow the label directions when using any chemical cleaner or polish. Read all warning and caution statements that appear on the label.
 
 ### High-pres ure washing
-`genesis_g90_en_0bbabe31` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When using high-pressure washers, make sure to maintain sufficient distance from the vehicle. Insufficient clearance or excessive pressure can lead to component damage or water penetration.
 Do not spray the camera, sensors or its surrounding area directly with a high pressure washer. Shock applied from high pressure water may cause the device to not operate normally.
@@ -12465,7 +11044,6 @@ Do not bring the nozzle tip close to boots (rubber or plastic covers)or connecto
 Do not use any high-pressure nozzles, which induce either one-direct water stream or water swirling.
 
 ### Washing
-`genesis_g90_en_bfc2bebc` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To help protect your vehicle’s finish from rust and deterioration, wash it thoroughly and frequently at least once a month with lukewarm or cold water.
 
@@ -12478,12 +11056,10 @@ Even prompt washing with plain water may not completely remove all these deposit
 After washing, rinse the vehicle thoroughly with lukewarm or cold water. Do not allow soap to dry on the finish.
 
 ### A WARNING
-`genesis_g90_en_2fd16900` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 After washing the vehicle, test the brakes while driving slowly to see if they have been affected by water before getting on the road. If braking performance is impaired, dry the brakes by applying them lightly while maintaining a slow forward speed.
 
 ### NOTICE
-`genesis_g90_en_35e73bd3` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Do not use strong soap, chemical detergents or hot water, and do not wash the vehicle in direct sunlight or when the body of the vehicle is warm.
 Be careful when washing the side windows of your vehicle. Especially, with high-pressure water, water may leak through the windows and wet the interior. To prevent damage to the plastic parts, do not clean with chemical solvents or strong detergents.
@@ -12491,18 +11067,15 @@ Be careful when washing the side windows of your vehicle. Especially, with high-
 ![](images/1d10133e355b0d8242b92db4971a6dbaa9dab45bd4734d642b804501a66be567.webp)
 
 ### NOTICE
-`genesis_g90_en_0da2010f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Water washing in the engine compartment including high pressure water washing may cause the failure of electrical circuits located in the engine compartment.
 Never allow water or other liquids to come in contact with electrical/electronic components inside the vehicle as this may damage them.
 
 ### Matte paint finish vehicle (if equipped)
-`genesis_g90_en_147414ce` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Automatic car wash which uses rotating brushes should not be used as this can damage the surface of your vehicle. A steam cleaner which washes the vehicle surface at high temperature may result the oil to adhere and leave stains that is difficult to remove. Use a soft cloth (e.g. microfiber towel or sponge) when washing your vehicle and dry with a microfiber towel. When you hand wash your vehicle, you should not use a cleaner that finishes with wax. If the vehicle surface is too dirty (sand, dirt, dust, contaminant, etc.), clean the surface with water before washing the car.
 
 ### Waxing
-`genesis_g90_en_d11d5ee9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 A good coat of wax provides a barrier between your paint and environmental contamination.
 
@@ -12515,59 +11088,48 @@ Always wash and dry the vehicle before waxing. Use a good quality liquid or past
 Removing oil, tar, and similar materials with a spot remover will usually strip the wax from the finish. Be sure to re-wax these areas even if the rest of the vehicle does not yet need waxing.
 
 ### NOTICE
-`genesis_g90_en_54b1da77` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Wiping dust or dirt off the body with a dry cloth will scratch the finish.
 Do not use steel wool, abrasive cleaners, or strong detergents containing highly alkaline or caustic agents on chrome-plated or anodized aluminum parts. This may result in damage to the protective coating and cause discoloration or paint deterioration.
 
 ### Matte paint finish vehicle (if equipped)
-`genesis_g90_en_31298e69` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not use any polish protector such as a detergent, an abrasive and a polish. In case wax is applied, remove the wax immediately using a silicon remover and if any tar or tar contaminant is on the surface use a tar remover to clean. However, be careful not to apply too much pressure on the painted area.
 
 ### Finish damage repair
-`genesis_g90_en_12242dae` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Deep scratches or stone chips in the painted surface must be repaired promptly. Exposed metal will quickly rust and may develop into a major repair expense.
 
 ### Matte paint finish vehicle (if equipped)
-`genesis_g90_en_376e1f28` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 In case of matte paint finish vehicles, it is impossible to modify only the damaged area and repair of the whole part is necessary. If the vehicle is damaged and painting is required, we recommend that you have your vehicle maintained and repaired by an authorized retailer of Genesis Branded products. Take extreme care, as it is difficult to restore the quality after the repair.
 
 ### Bright-metal maintenance
-`genesis_g90_en_dfdff79c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To remove road tar and insects, use a tar remover, not a scraper or other sharp object. To protect the surfaces of brightmetal parts from corrosion, apply a coating of wax or chrome preservative and rub to a high luster. During winter weather or in coastal areas, cover the bright metal parts with a heavier coating of wax or preservative. If necessary, coat the parts with non-corrosive petroleum jelly or other protective compound.
 
 ### Underbody maintenance
-`genesis_g90_en_51a32341` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Corrosive materials used for ice and snow removal and dust control may collect on the underbody. If these materials are not removed, accelerated rusting can occur on underbody parts such as the fuel lines, frame, floor pan and exhaust system, even though they have been treated with rust protection.
 
 Thoroughly flush the vehicle underbody and wheel openings with lukewarm or cold water once a month, after off-road driving and at the end of each winter. Pay special attention to these areas because it is difficult to see all the mud and dirt. It will do more harm than good to wet down the road grime without removing it. The lower edges of doors, rocker panels, and frame members have drain holes that should not be allowed to clog with dirt; trapped water in these areas can cause rusting.
 
-### WARNING
-`genesis_g90_en_70aeecd4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-After washing the vehicle, test the brakes while driving slowly to see if they have been affected by water. If braking performance is impaired, dry the brakes by applying them lightly while maintaining a slow forward speed.
+> ⚠️ **Внимание:** 
+> After washing the vehicle, test the brakes while driving slowly to see if they have been affected by water. If braking performance is impaired, dry the brakes by applying them lightly while maintaining a slow forward speed.
 
 ### Aluminum whe l maintenance
-`genesis_g90_en_5ab5342a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The aluminum wheels are coated with a clear protective finish.
 
 Do not use abrasive cleaner, polishing compound, solvent, or wire brushes on aluminum wheels. Clean the wheel when it has cooled. Use only a mild soap or neutral detergent, and rinse thoroughly with water. Also, clean the wheels after driving on salted roads. Do not wash the wheels with highspeed car wash brushes. Do not use cleaners containing acid or alkaline detergents.
 
 ### Corosion protection
-`genesis_g90_en_dfbeefd6` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Protecting your vehicle from corrosion
 
 By using the most advanced design and construction practices to combat corrosion, Genesis Branded Vehicle produces cars of the highest quality. However, this is only part of the job. To achieve the long-term corrosion resistance your vehicle can deliver, the owner’s cooperation and assistance is also required.
 
 ### Common causes of corrosion
-`genesis_g90_en_58fba8c7` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The most common causes of corrosion on your vehicle are:
 
@@ -12575,12 +11137,10 @@ Road salt, dirt and moisture that is allowed to accumulate underneath the vehicl
 Removal of paint or protective coatings by stones, gravel, abrasion or minor scrapes and dents which leave unprotected metal exposed to corrosion.
 
 ### High-corrosion areas
-`genesis_g90_en_3b209e3a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you live in an area where your vehicle is regularly exposed to corrosive materials, corrosion protection is particularly important. Some of the common causes of accelerated corrosion are road salts, dust control chemicals, ocean air and industrial pollution.
 
 ### Moisture breeds corrosion
-`genesis_g90_en_3931ea7f` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Moisture creates the conditions in which corrosion is most likely to occur. For example, corrosion is accelerated by high humidity, particularly when temperatures are just above freezing. In such conditions, the corrosive material is kept in contact with the car surfaces by moisture that is slow to evaporate.
 
@@ -12589,7 +11149,6 @@ Mud is particularly corrosive because it is slow to dry and holds moisture in co
 High temperatures can also accelerate corrosion of parts that are not properly ventilated so the moisture can be dispersed. For all these reasons, it is particularly important to keep your vehicle clean and free of mud or accumulations of other materials. This applies not only to the visible surfaces but particularly to the underside of the vehicle.
 
 ### To help prevent corrosion Ke p your car clean
-`genesis_g90_en_1551f6ee` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The best way to prevent corrosion is to keep your vehicle clean and free of corrosive materials. Attention to the underside of the vehicle is particularly important.
 
@@ -12600,7 +11159,6 @@ When cleaning underneath the vehicle, pay particular attention to the components
 When cleaning lower door panels, rocker panels and frame members, be sure that drain holes are kept open so that moisture can escape and not be trapped inside to accelerate corrosion.
 
 ### K ep your garage dry
-`genesis_g90_en_78ab66f0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Don’t park your car in a damp, poorly ventilated garage. This creates a favorable environment for corrosion. This is particularly true if you wash your vehicle in the garage or drive it into the garage when it is still wet or covered with snow, ice or mud. Even a heated garage can contribute to corrosion unless it is well ventilated so moisture is dispersed.
 
@@ -12609,31 +11167,26 @@ K eppaintandtrimingo dcondition Scratches or chips in the finish should be cover
 Bird droppings are highly corrosive and may damage painted surfaces in just a few hours. Always remove bird droppings as soon as possible.
 
 ### Interior general precautions
-`genesis_g90_en_dfdee7c1` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Prevent caustic solutions such as perfume and cosmetic oil, from contacting the interior parts because they may cause damage or discoloration. If they do contact the interior parts, wipe them off immediately. See the instructions for the proper way to clean vinyl.
 
 ### NOTICE
-`genesis_g90_en_5e2bbc74` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 Never allow water or other liquids to come in contact with electrical/electronic components inside the vehicle as this may damage them. When cleaning leather products (steering wheel, seats etc.), use neutral detergents or low alcohol content solutions. If you use high alcohol content solutions or acid/ alkaline detergents, the color of the leather may fade or the surface may get stripped off.
 
 ### Cleaning the upholstery and interior trim
-`genesis_g90_en_cf01eb02` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Vinyl (if equipped)
 
 Remove dust and loose dirt from vinyl with a whisk broom or vacuum cleaner. Clean vinyl surfaces with a vinyl cleaner.
 
 ### Fabric (if equipped)
-`genesis_g90_en_5b307688` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Remove dust and loose dirt from fabric with a whisk broom or vacuum cleaner. Clean with a mild soap solution recommended for upholstery or carpets. Remove fresh spots immediately with a fabric spot cleaner. If fresh spots do not receive immediate attention, the fabric can be stained and its color can be affected.
 
 Also, its fire-resistant properties can be reduced if the material is not properly maintained.
 
 ### NOTICE
-`genesis_g90_en_14125864` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Using anything but recommended cleaners and procedures may affect the fabric's appearance and fire-resistant properties.
 
@@ -12652,7 +11205,6 @@ Vacuum the seat periodically to remove dust and sand on the seat. It will preven
 Avoid wiping with wet cloth. It may cause the surface to crack.
 
 ### NOTICE
-`genesis_g90_en_c9b66b16` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Wrinkles or abrasions which appear naturally from usage are not covered by warranty.
 Belts with metallic accessories, zippers or keys inside the back pocket may damage the seat fabric.
@@ -12666,12 +11218,10 @@ Handling prime napa leather (if equipped)
 Try to avoid excessive sunlight and heat exposure. Excessive sunlight and heat exposure naturally fades and dries out napa leather, causing wrinkles and discoloration. If the napa leather is wet with liquid, immediately clean it with lint-free cloth to minimize damage. Do not scratch the napa leather surface with a sharp object. If your napa leather seat is bright colored, it may be contaminated or stained from dyed materials such as jeans.
 
 ### Interior wo den trim
-`genesis_g90_en_e574b2d4` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Use a wooden furniture protector (e.g. wax, coating compound) to clean the interior wooden trim. Often wipe the interior wooden trim with a lint-free, clean cloth to maintain the unique wooden textures for a longer period of time.
 
 ### NOTICE
-`genesis_g90_en_0adcd5f5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you spill beverage (e.g. water, coffee) over the interior wooden trim, immediately wipe it with clean, dry cloth.
 Sharp objects (e.g. driver, knife), adhesive materials, or tapes may damage the interior wooden trim.
@@ -12680,22 +11230,18 @@ If the coating finish over the interior wooden trim is removed, moisture may dam
 If the interior wooden trim is damaged, you may get a splinter from the wood surface. Therefore, you should immediately have the damaged interior wooden trim replaced by an authorized retailer of Genesis Branded products.
 
 ### Cleaning the seat belt web ing
-`genesis_g90_en_945680ef` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Clean the belt webbing with any mild soap solution recommended for cleaning upholstery or carpet. Follow the instructions provided with the soap. Do not bleach or re-dye the webbing because this may weaken the seat belt.
 
 ### Cleaning the interior window glas
-`genesis_g90_en_f98a6c26` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If the interior glass surfaces of the vehicle become fogged (that is, covered with an oily, greasy or waxy film), they should be cleaned with glass cleaner. Follow the directions on the glass cleaner container.
 
 ### NOTICE
-`genesis_g90_en_580abfbd` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Do not scrape or scratch the inside of the rear window. This may result in damage to the rear window defroster grid.
 
 ### EMISSION CONTROL SYSTEM
-`genesis_g90_en_966bd331` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The emission control system of your vehicle is covered by a written limited warranty. Please see the warranty information contained in the Owner’s Handbook & Warranty Information booklet in your vehicle.
 
@@ -12708,51 +11254,41 @@ Your vehicle is equipped with an emission control system to meet all applicable 
 In order to ensure the proper function of the emission control systems, it is recommended that you have your vehicle inspected and maintained by an authorized retailer of Genesis Branded products in accordance with the maintenance schedule in this manual.
 
 ### 1. Crankcase Emission Control System
-`genesis_g90_en_0232e84e` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The positive crankcase ventilation system is employed to prevent air pollution caused by blow-by gases being emitted from the crankcase. This system supplies fresh filtered air to the crankcase through the air intake hose. Inside the crankcase, the fresh air mixes with blow-by gases, which then pass through the PCV valve into the induction system.
 
 ### 2. Evaporative Emission Control System Including Onboard Refueling Vapor Recovery (ORVR)
-`genesis_g90_en_3c8be1ee` | g90 | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 The Evaporative Emission Control System is designed to prevent fuel vapors from escaping into the atmosphere. The ORVR system is designed to allow the vapors from the fuel tank to be loaded into a canister while refueling at the gas station, preventing the escape of fuel vapors into the atmosphere.
 
 ### NOTICE
-`genesis_g90_en_20aa84ed` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 For the Inspection and Maintenance Test (with Electronic Stability Control (ESC) system)
 
 To prevent the vehicle from misfiring during dynamometer testing, turn the Electronic Stability Control (ESC) system off by pressing the ESC switch (ESC OFF light illuminated). After dynamometer testing is completed, turn the ESC system back on by pressing the ESC switch again.
 
 ### Canister
-`genesis_g90_en_11fda628` | g90 | pdf_manual | tier:2 | lang:en | layer:fuel_ev | p:1 | doc_type:owners_manual
 
 Fuel vapors generated inside the fuel tank are absorbed and stored in the onboard canister. When the engine is running, the fuel vapors absorbed in the canister are drawn into the surge tank through the purge control solenoid valve.
 
-### WARNING
-`genesis_g90_en_aa024673` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
-
-The purge control solenoid valve is controlled by the Engine Control Module (ECM); when the engine coolant temperature is low during idling, the PCSV closes so that evaporated fuel is not taken into the engine. After the engine warms-up during ordinary driving, the PCSV opens to introduce evaporated fuel to the engine.
+> ⚠️ **Внимание:** 
+> The purge control solenoid valve is controlled by the Engine Control Module (ECM); when the engine coolant temperature is low during idling, the PCSV closes so that evaporated fuel is not taken into the engine. After the engine warms-up during ordinary driving, the PCSV opens to introduce evaporated fuel to the engine.
 
 ### 3. Exhaust Emission Control System
-`genesis_g90_en_793e5069` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The Exhaust Emission Control System is a highly effective system which controls exhaust emissions while maintaining good vehicle performance.
 
 When the engine starts or fails to start, excessive attempts to restart the engine may cause damage to the emission system.
 
 ### Engine exhaust (carbon monoxide) precautions
-`genesis_g90_en_72f55188` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Carbon monoxide can be present with other exhaust fumes. If you smell exhaust fumes of any kind in your vehicle, drive with all the windows fully open. Have your vehicle checked and repaired immediately.
 
 ### A WARNING
-`genesis_g90_en_0740b656` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Engine exhaust gases contain carbon monoxide (CO). Though colorless and odorless, it is dangerous and could be lethal if inhaled. Follow the instructions on this page to avoid CO poisoning.
 
 ### CALIFORNIA PROPOSITION 65 WARNING
-`genesis_g90_en_5eca0bee` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Engine exhaust and a wide variety of automobile components and parts, including components found in the interior furnishings in a vehicle, contain or emit chemicals known to the State of California to cause cancer and birth defects and reproductive harm. In addition, certain fluids contained in vehicles and certain products of component wear contain or emit chemicals known to the State of California to cause cancer and birth defects or other reproductive harm.
 
@@ -12762,7 +11298,6 @@ Never sit in a parked or stopped vehicle for any extended time with the engine r
 When the engine stalls or fails to start, excessive attempts to restart the engine may cause damage to the emission control system.
 
 ### ！ WARNING
-`genesis_g90_en_ad1d5b15` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 The exhaust system and catalytic converter are very hot during and immediately after the engine has been running. To avoid SERIOUS INJURY or DEATH:
 
@@ -12778,14 +11313,12 @@ Do not modify or tamper with any part of the engine or emission control system. 
 Avoid driving with extremely low fuel level. If you run out of gasoline, it could cause the engine to misfire and result in excessive loading of the catalytic converter.
 
 ### CALIFORNIA PERCHLORATE NOTICE
-`genesis_g90_en_b7762e5e` | g90 | pdf_manual | tier:2 | lang:en | layer:interior | p:1 | doc_type:owners_manual
 
 Perchlorate Material-special handling may apply, See: www.dtsc.ca.gov/hazardouswaste/perchlorate.
 
 Notice to California Vehicle Dismantlers: Perchlorate containing materials, such as air bag inflators, seatbelt pretensioners and keyless remote entry batteries, must be disposed of according to Title 22 California Code of Regulations Section 67384.10 (a).
 
 ### 8. Specifications, Consumer information and Reporting safety defects
-`genesis_g90_en_1aa99744` | g90 | pdf_manual | tier:2 | lang:en | layer:hvac | p:1 | doc_type:owners_manual
 
 Dimensions ...8-2
 Engine .8-2
@@ -12809,36 +11342,30 @@ Consumer Information 8-10
 Reporting Safety Defects  8-11
 
 ### DIMENSIONS
-`genesis_g90_en_c0be3376` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/0fc97a4cb5823369b88dad00b37e002563d56e6651cd7025f57408fb283390e5.webp)
 
 ![](images/edca784183cc062f4f732f9f6d6071de7de3ea34fcf9d57e01afe166aef0ba7b.webp)
 
 ### TIRES AND WHEELS
-`genesis_g90_en_f5c4f069` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/8e8c8f750a5ffcccf8b1fe1b48c967c29fa8a8e3cff772836a8a8fc681845c1f.webp)
 Normal load Up to 3 persons
 
 ### i Information
-`genesis_g90_en_94ea3be5` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 It is permissible to add 3 psi to the standard tire pressure specification if colder temperatures are expected soon. Tires typically loose 1 psi (7 kPa) for every 12°F temperature drop. If extreme temperature variations are expected, recheck your tire pressure as necessary to keep them properly inflated. An air pressure generally decreases, as you drive up to a high-altitude area above sea level. Thus, if you plan to drive a high-altitude area, check the tire pressures in advance. If necessary, inflate them to a proper level. (Air inflation per altitude: +2.4psi/1mile
 
 ### NOTICE
-`genesis_g90_en_caed48b9` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 When replacing tires, use the same size originally supplied with the vehicle. Using tires of a different size can damage the related parts or not work properly.
 
 ### AIR CONDITIONING SYSTEM
-`genesis_g90_en_02f70704` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/d9c4257652f9252ef87c9353d48c72920d68301f001d6fe4b504ae9640afddb0.webp)
 Contact an authorized retailer of Genesis Branded products for more details.
 
 ### RECOMMENDED LUBRICANTS AND CAPACITIES
-`genesis_g90_en_0d729405` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 To help achieve proper engine and powertrain performance and durability, use only lubricants of the proper quality. The correct lubricants also help promote engine efficiency that results in improved fuel economy.
 
@@ -12855,7 +11382,6 @@ To help achieve proper engine and powertrain performance and durability, use onl
 \*5 : If the front/rear differential is submerged, we recommend that you visit an authorized retailer of Genesis Branded products to replace differential oil.
 
 ### NOTICE
-`genesis_g90_en_e8c5cb39` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Always be sure to clean the area around any filler plug, drain plug, or dipstick before checking or draining any lubricant. This is especially important in dusty or sandy areas and when the vehicle is used on unpaved roads. Cleaning the plug and dipstick areas will prevent dirt and grit from entering the engine and other mechanisms that could be damaged.
 
@@ -12872,7 +11398,6 @@ Engine oil viscosity (thickness) has an effect on fuel economy and cold weather 
 1 For better fuel economy, it is recommended to use the engine oil of a viscosity grade SAE 5W-20 (API SM / ILSAC GF-4 (or above)). However, if the engine oil is not available in your country, select the proper engine oil using the engine oil viscosity chart.
 
 ### VEHICLE CERTIFICATION LABEL
-`genesis_g90_en_8488185c` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/265a0e9c47b26f6e2fed65a8bfc1f3ddfb198ecc25ea795868c70f61ed11af31.webp)
 
@@ -12889,7 +11414,6 @@ The VIN is also on a plate attached to the top of the dashboard. The number on t
 The vehicle certification label attached on the driver's side center pillar gives the Vehicle Identification Number (VIN).
 
 ### TIRE SPECIFICATION AND PRESSURE LABEL
-`genesis_g90_en_7d4c3bd0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/db83505369e4020cd009eaabb0d5045a85be4c564f23a32365520f43913093c7.webp)
 
@@ -12898,14 +11422,12 @@ The tires supplied on your new vehicle are chosen to provide the best performanc
 The tire label located on the driver’s side center pillar gives the tire pressures recommended for your car.
 
 ### ENGINE NUMBER
-`genesis_g90_en_accc5296` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/c9c905420f047c2e7f8547dba0b5289ad2cb97a2f9ccdb31afba64219609e4f0.webp)
 
 The engine number is stamped on the engine block as shown in the drawing.
 
 ### REFRIGERANT LABEL (IF EQUIPPED)
-`genesis_g90_en_6acfa043` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 ![](images/fc68dc98ab98acf012bc7fa4fe0b0aa1717adbe0938c272d4f4db5287f42f8a7.webp)
 
@@ -12914,7 +11436,6 @@ The refrigerant label provides information such as refrigerant type and amount.
 The label is located on the underside of the hood.
 
 ### CONSUMER INFORMATION
-`genesis_g90_en_45a05f47` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 This consumer information has been prepared in accordance with regulations issued by the National Highway Traffic Safety Administration of the U.S. Department of Transportation. Your retailer of Genesis Branded products will help answer any questions you may have as you read this information.
 
@@ -12925,7 +11446,6 @@ For your safety, however, we strongly urge you to read and follow all directions
 If, after reading this manual, you have any questions regarding the operation of your vehicle, please contact your nearest Genesis Customer Care Regional Office as listed in the following:
 
 ### Central Region:
-`genesis_g90_en_7c67e468` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Connecticut, Delaware,
 Maine, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont. Eastern Region
@@ -12936,7 +11456,6 @@ Central Region
 844-340-9741
 
 ### Southern Region:
-`genesis_g90_en_888d9b3a` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Florida, Georgia, Maryland, North Carolina, South Carolina, Virginia, West Virginia.
 Southern Region
@@ -12944,7 +11463,6 @@ Southern Region
 844-340-9741
 
 ### South Central Region:
-`genesis_g90_en_6cb4f588` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Alabama, Arkansas, Louisiana, Mississippi, New Mexico, Oklahoma, Tennessee, Texas.
 South Central Region
@@ -12952,7 +11470,6 @@ South Central Region
 844-340-9741
 
 ### Western Region:
-`genesis_g90_en_c963ecb8` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Alaska, Hawaii, Arizona, California, Colorado, Idaho, Montana, Nevada, Oregon, Utah, Washington, Wyoming.
 Western Region
@@ -12960,7 +11477,6 @@ Western Region
 844-340-9741
 
 ### REPORTING SAFETY DEFECTS
-`genesis_g90_en_21d68a97` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 If you believe that your vehicle has a defect which could cause a crash or could cause injury or death, you should immediately inform the National Highway Traffic Safety Administration (NHTSA) in addition to notifying Genesis Customer Care.
 
@@ -12975,7 +11491,6 @@ or write to: Administrator, NHTSA. 1200 New Jersey Ave, SE., Washington, DC. 205
 You can also obtain other information about motor vehicle safety from http://www.safercar.gov.
 
 ### Index
-`genesis_g90_en_ae716196` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 A
 
@@ -13039,7 +11554,6 @@ Automatic ventilation ...··.·  3-136
 AVN (Audio/Video/Navigation) system .4-5
 
 ### Bag hanger. .3-148
-`genesis_g90_en_b2e2bf23` | g90 | pdf_manual | tier:2 | lang:en | layer:brakes | p:1 | doc_type:owners_manual
 
 Battery ··..·.············ .7-33
 Battery recharging  ·..··..··..·····. .7-35
@@ -13078,7 +11592,6 @@ Bulb wattage  ··················· .8-3
 Button start/stop, see engine start/stop button .5-6
 
 ### C
-`genesis_g90_en_70029e15` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Cabin air filter . .7-30
 Capacities (Lubricants)  3-6
@@ -13130,7 +11643,6 @@ Dimensions \*\*\*·························· .8-2
 Display illumination, see instrument panel illumination  3-55
 
 ### C
-`genesis_g90_en_439181a3` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Displays, see instrument cluster.  ·..··..··..··..··.. .3-54
 Door locks .·..·········.. .3-9
@@ -13188,7 +11700,6 @@ Easy access switch .············ .2-13
 Forward and rearward adjustment..  2-9
 
 ### C
-`genesis_g90_en_27541dbd` | g90 | pdf_manual | tier:2 | lang:en | layer:electrical | p:1 | doc_type:owners_manual
 
 Lumbar support   ..··.······························.·· ·.·····. .·.············· .2-11
 Seat bolster adjustment ： . .2-12
@@ -13226,7 +11737,6 @@ Glove box lamp . .·.···.   ..3-98
 Gross vehicle weight   .8-5
 
 ### H
-`genesis_g90_en_67f8f8b2` | g90 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 Hazard warning flasher .6-2
 Hazardous driving conditions  · \*..·············· ...5-142
@@ -13285,7 +11795,6 @@ Trip computer.  3-82
 Trip computer mode  ·...·...·   3-80
 
 ### H
-`genesis_g90_en_00964e92` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Turn By Turn (TBT) mode.    3-80
 Warning and indicator lights .·.  ············· .3-60
@@ -13350,7 +11859,6 @@ Turn signals .  ·...·...·   ·... .3-92
 Lubricants and capacities 1 .8-6
 
 ### H
-`genesis_g90_en_9f21977b` | g90 | pdf_manual | tier:2 | lang:en | layer:adas | p:1 | doc_type:owners_manual
 
 Luggage net (holder)     .3-151
 Luggage volume  1 .8-5
@@ -13399,7 +11907,6 @@ Outside mirror defroster . .·...··..··..··..··..··..··..··...·  
 Outside temperature gauge. ··.·······································.  3-58
 
 ### P
-`genesis_g90_en_b4fdefbf` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Paddle shifter (manual mode)     .5-15
 Panorama sunroof. · . .3-37
@@ -13418,7 +11925,6 @@ Pre-tensioner seat belt    2-38
 Puddle lamp   .3-98
 
 ### R
-`genesis_g90_en_e53cc153` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Range     3-58
 Rear mirror lamp . ·  3-98
@@ -13478,7 +11984,6 @@ Seat belt use and children ... .2-43
 Seat belt use during pregnancy · .2-42
 
 ### R
-`genesis_g90_en_e4967906` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Seat belt warning light   .2-33
 Transporting an injured person . .2-44
@@ -13502,7 +12007,6 @@ Side view mirror. .3-29
 Smart Cruise Control system   ..5-95
 
 ### Smart key..... .3-3
-`genesis_g90_en_645bc7d0` | g90 | pdf_manual | tier:2 | lang:en | layer:general | p:1 | doc_type:owners_manual
 
 Battery replacement .3-8
 
@@ -13570,7 +12074,6 @@ Low aspect ratio tires ·.············ ..·.········ .7-51
 Radial-ply tires . .   . .  ·················  7-50
 
 ### Smart key..... .3-3
-`genesis_g90_en_16fc1129` | g90 | pdf_manual | tier:2 | lang:en | layer:body | p:1 | doc_type:owners_manual
 
 Recommended cold tire inflation pressures.   ·  7-38
 Snow tires. .·.···.. . · ······················.   ·  7-50
@@ -13634,4 +12137,3 @@ Wipers and washers.  ··..··..··..··..··..··..····  3-100
 Windshield washers.  ·... .3-101
 Windshield wipers. .   .3-100
 Wireless cellular phone charging system .3-145
-

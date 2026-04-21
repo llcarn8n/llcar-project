@@ -1,5 +1,10 @@
-# Manual: bmw/x7_g07 (482 chunks)
-<!-- doc_type:owners_manual tier:2 lang:en -->
+---
+brand: bmw
+model: x7
+generation: g07_2018
+source: kb
+---
+
 
 ### The Ultimate
  | x7_g07 | pdf_manual | tier:2 | lang:en | layer:general | p:1
@@ -5605,73 +5610,72 @@ Opening and closing
 90
 Online Edition for Part no. 01405A1EFD3 - X/20
 
-### WARNING
- | x7_g07 | pdf_manual | tier:2 | lang:en | layer:hvac | p:91
-
-WARNING
-The tailgate swings outwards when opened.
-There is a risk of injury or material damage.
-When opening and closing, make sure that the
-area of movement of the tailgate is kept clear.
-NOTE
-Sharp or angular objects can strike the win‐
-dows and the heating conductors during the
-journey. There is a risk of material damage.
-Cover the edges and make sure that sharp ob‐
-jects cannot strike the windows.
-Opening
-▷
-Press and hold the button on the ve‐
-hicle key for approximately 1 sec‐
-ond.
-▷
-Press and hold the button on the ve‐
-hicle key for approximately 1 sec‐
-ond.
-On some equipment versions, the doors are also
-unlocked each time.
-Closing
-▷
-Press and hold the button on the ve‐
-hicle key until the tailgate has
-closed.
-▷
-Press and hold the button on the ve‐
-hicle key until the tailgate has
-closed.
-Releasing the button stops the closing operation.
-If the doors were not unlocked, the tailgate is
-locked again as soon as it is closed.
-Switching on the home lights
-The home lights function must be set for the
-button on the vehicle key.
-For further information:
-Home lights, see page 116.
-Press and hold the button on the vehi‐
-cle key for approximately 1 second.
-It is possible to adjust the duration of the home
-lights.
-For further information:
-Home lights, see page 205.
-Replacing the battery
-1. Remove the integrated key from the vehicle
-key.
-Integrated key, see page 103.
-2. Place integrated key under the battery com‐
-partment lid, arrow 1, and pry off the lid with a
-lever motion of the integrated key, arrow 2.
-3. Use a pointed object to push the battery in
-the direction of the arrow and lift it out.
-4. Insert a new type CR 2032 battery with the
-positive side facing upwards.
-5. Press the cover back into position and close
-it.
-6. Push the integrated key into the vehicle key
-until the integrated key engages.
-Opening and closing
-CONTROLS
-91
-Online Edition for Part no. 01405A1EFD3 - X/20
+> ⚠️ **Внимание:** | x7_g07 | pdf_manual | tier:2 | lang:en | layer:hvac | p:91
+>
+> WARNING
+> The tailgate swings outwards when opened.
+> There is a risk of injury or material damage.
+> When opening and closing, make sure that the
+> area of movement of the tailgate is kept clear.
+> NOTE
+> Sharp or angular objects can strike the win‐
+> dows and the heating conductors during the
+> journey. There is a risk of material damage.
+> Cover the edges and make sure that sharp ob‐
+> jects cannot strike the windows.
+> Opening
+> ▷
+> Press and hold the button on the ve‐
+> hicle key for approximately 1 sec‐
+> ond.
+> ▷
+> Press and hold the button on the ve‐
+> hicle key for approximately 1 sec‐
+> ond.
+> On some equipment versions, the doors are also
+> unlocked each time.
+> Closing
+> ▷
+> Press and hold the button on the ve‐
+> hicle key until the tailgate has
+> closed.
+> ▷
+> Press and hold the button on the ve‐
+> hicle key until the tailgate has
+> closed.
+> Releasing the button stops the closing operation.
+> If the doors were not unlocked, the tailgate is
+> locked again as soon as it is closed.
+> Switching on the home lights
+> The home lights function must be set for the
+> button on the vehicle key.
+> For further information:
+> Home lights, see page 116.
+> Press and hold the button on the vehi‐
+> cle key for approximately 1 second.
+> It is possible to adjust the duration of the home
+> lights.
+> For further information:
+> Home lights, see page 205.
+> Replacing the battery
+> 1. Remove the integrated key from the vehicle
+> key.
+> Integrated key, see page 103.
+> 2. Place integrated key under the battery com‐
+> partment lid, arrow 1, and pry off the lid with a
+> lever motion of the integrated key, arrow 2.
+> 3. Use a pointed object to push the battery in
+> the direction of the arrow and lift it out.
+> 4. Insert a new type CR 2032 battery with the
+> positive side facing upwards.
+> 5. Press the cover back into position and close
+> it.
+> 6. Push the integrated key into the vehicle key
+> until the integrated key engages.
+> Opening and closing
+> CONTROLS
+> 91
+> Online Edition for Part no. 01405A1EFD3 - X/20
 
 ### Dispose of old batteries at a Service
  | x7_g07 | pdf_manual | tier:2 | lang:en | layer:maintenance | p:92
@@ -6909,74 +6913,73 @@ CONTROLS
 109
 Online Edition for Part no. 01405A1EFD3 - X/20
 
-### NOTE
- | x7_g07 | pdf_manual | tier:2 | lang:en | layer:body | p:110
-
-NOTE
-Foreign objects, for example sand or ice, be‐
-tween the bumper and the tailgate can cause
-damage when operating the lower tailgate.
-There is a risk of material damage. Before oper‐
-ating the lower tailgate, remove any foreign ob‐
-jects from the bumper and the lower tailgate.
-NOTE
-Sharp or angular objects can strike the win‐
-dows and the heating conductors during the
-journey. There is a risk of material damage.
-Cover the edges and make sure that sharp ob‐
-jects cannot strike the windows.
-NOTE
-If the tailgate is operated manually in the wrong
-order, the tailgate can be damaged. There is a
-risk of material damage. Close the lower tail‐
-gate before manually closing the upper tailgate.
-Upper tailgate
-Opening
-General
-The tailgate may not open when the vehicle is in
-parking service mode.
-When the trailer socket is in use, the tailgate can‐
-not be opened with the vehicle key or with the
-button in the interior.
-The upper tailgate opens up to the set opening
-height.
-For further information:
-Parking service mode, see page 112.
-From outside
-▷Unlock the vehicle, then press the button on
-the outside of the tailgate.
-▷With Comfort Access: have the vehicle key
-about your person and press the button on
-the outside of the tailgate.
-▷
-Press and hold the button on the ve‐
-hicle key for approximately 1 sec‐
-ond.
-The lower tailgate is also opened if applica‐
-ble.
-▷
-Press and hold the button on the ve‐
-hicle key for approximately 1 sec‐
-ond.
-The lower tailgate is also opened if applica‐
-ble.
-From inside
-Press the button in the driver's door.
-The lower tailgate is also opened if applicable.
-Cancelling the opening operation
-The opening procedure is interrupted in the
-following situations:
-▷If the vehicle begins to move.
-▷If the button used is pressed again.
-Closing
-From outside
-▷
-Press the button on the inside of the
-upper tailgate.
-CONTROLS
-Opening and closing
-110
-Online Edition for Part no. 01405A1EFD3 - X/20
+> ℹ️ **Примечание:** | x7_g07 | pdf_manual | tier:2 | lang:en | layer:body | p:110
+>
+> NOTE
+> Foreign objects, for example sand or ice, be‐
+> tween the bumper and the tailgate can cause
+> damage when operating the lower tailgate.
+> There is a risk of material damage. Before oper‐
+> ating the lower tailgate, remove any foreign ob‐
+> jects from the bumper and the lower tailgate.
+> NOTE
+> Sharp or angular objects can strike the win‐
+> dows and the heating conductors during the
+> journey. There is a risk of material damage.
+> Cover the edges and make sure that sharp ob‐
+> jects cannot strike the windows.
+> NOTE
+> If the tailgate is operated manually in the wrong
+> order, the tailgate can be damaged. There is a
+> risk of material damage. Close the lower tail‐
+> gate before manually closing the upper tailgate.
+> Upper tailgate
+> Opening
+> General
+> The tailgate may not open when the vehicle is in
+> parking service mode.
+> When the trailer socket is in use, the tailgate can‐
+> not be opened with the vehicle key or with the
+> button in the interior.
+> The upper tailgate opens up to the set opening
+> height.
+> For further information:
+> Parking service mode, see page 112.
+> From outside
+> ▷Unlock the vehicle, then press the button on
+> the outside of the tailgate.
+> ▷With Comfort Access: have the vehicle key
+> about your person and press the button on
+> the outside of the tailgate.
+> ▷
+> Press and hold the button on the ve‐
+> hicle key for approximately 1 sec‐
+> ond.
+> The lower tailgate is also opened if applica‐
+> ble.
+> ▷
+> Press and hold the button on the ve‐
+> hicle key for approximately 1 sec‐
+> ond.
+> The lower tailgate is also opened if applica‐
+> ble.
+> From inside
+> Press the button in the driver's door.
+> The lower tailgate is also opened if applicable.
+> Cancelling the opening operation
+> The opening procedure is interrupted in the
+> following situations:
+> ▷If the vehicle begins to move.
+> ▷If the button used is pressed again.
+> Closing
+> From outside
+> ▷
+> Press the button on the inside of the
+> upper tailgate.
+> CONTROLS
+> Opening and closing
+> 110
+> Online Edition for Part no. 01405A1EFD3 - X/20
 
 ### The lower tailgate closes automatically with
  | x7_g07 | pdf_manual | tier:2 | lang:en | layer:body | p:111
@@ -8434,76 +8437,75 @@ CONTROLS
 133
 Online Edition for Part no. 01405A1EFD3 - X/20
 
-### WARNING
- | x7_g07 | pdf_manual | tier:2 | lang:en | layer:interior | p:134
-
-WARNING
-No modifications or additions should be made
-by the user that will either prevent the seat belt
-adjusting devices from operating to remove
-slack, or prevent the seat belt assembly from
-being adjusted to remove slack.
-WARNING
-If the rear backrest is not locked, the protective
-effect of the middle seat belt is not ensured.
-There is a risk of injury or even death. Lock the
-wider rear seat backrest when using the middle
-seat belt.
-WARNING
-The protective function of the seat belts may
-be limited or may even fail completely in the
-following situations:
-▷If the seat belts or belt buckles are dam‐
-aged, dirty or have been modified in an‐
-other way.
-▷If the belt tensioners or belt retractors
-have been modified.
-Seat belts can be damaged in an accident with‐
-out the damage necessarily being apparent.
-There is a risk of injury or even death. Do not
-modify seat belts, belt buckles, belt tensioners,
-belt retractors and belt anchor points and en‐
-sure that they are kept clean. After an accident,
-have the seat belts inspected at a Service Part‐
-ner of the manufacturer or another qualified
-Service Partner or a specialist workshop.
-Correct seat belt use
-▷Place the seat belt tightly over the pelvis and
-shoulder, close to the body and without twist‐
-ing.
-▷Make sure that the seat belt is positioned low
-at the hips in the area of the pelvis. The seat
-belt must not press on the abdomen.
-▷The seat belt must not be allowed to rub
-against sharp edges, be routed over solid or
-breakable objects or be trapped.
-▷Avoid wearing bulky clothing.
-▷Keep the seat belt taut by occasionally pulling
-upwards on the upper section.
-Belt height adjuster
-General
-The belt anchorage in the second row of seats
-can be adjusted to the body size of the vehicle
-occupant using the belt height adjuster.
-Adjusting
-Press and hold the button, arrow 1, and push the
-belt height adjuster up or down.
-After adjusting the height, make sure that the
-belt height adjuster engages correctly.
-Adjustment for automatic
-retracting seat belts
-▷Draw the buckle tongue attached to the seat
-belt across the body and press it into the
-buckle catch until a ‘click’ is heard.
-▷Adjustment of the belt length is very impor‐
-tant. To adjust the lap belt and check
-whether the buckle has locked correctly, pull
-upwards on the shoulder strap until the lap
-belt fits tightly.
-CONTROLS
-Seats, mirrors and steering wheel
-134
-Online Edition for Part no. 01405A1EFD3 - X/20
+> ⚠️ **Внимание:** | x7_g07 | pdf_manual | tier:2 | lang:en | layer:interior | p:134
+>
+> WARNING
+> No modifications or additions should be made
+> by the user that will either prevent the seat belt
+> adjusting devices from operating to remove
+> slack, or prevent the seat belt assembly from
+> being adjusted to remove slack.
+> WARNING
+> If the rear backrest is not locked, the protective
+> effect of the middle seat belt is not ensured.
+> There is a risk of injury or even death. Lock the
+> wider rear seat backrest when using the middle
+> seat belt.
+> WARNING
+> The protective function of the seat belts may
+> be limited or may even fail completely in the
+> following situations:
+> ▷If the seat belts or belt buckles are dam‐
+> aged, dirty or have been modified in an‐
+> other way.
+> ▷If the belt tensioners or belt retractors
+> have been modified.
+> Seat belts can be damaged in an accident with‐
+> out the damage necessarily being apparent.
+> There is a risk of injury or even death. Do not
+> modify seat belts, belt buckles, belt tensioners,
+> belt retractors and belt anchor points and en‐
+> sure that they are kept clean. After an accident,
+> have the seat belts inspected at a Service Part‐
+> ner of the manufacturer or another qualified
+> Service Partner or a specialist workshop.
+> Correct seat belt use
+> ▷Place the seat belt tightly over the pelvis and
+> shoulder, close to the body and without twist‐
+> ing.
+> ▷Make sure that the seat belt is positioned low
+> at the hips in the area of the pelvis. The seat
+> belt must not press on the abdomen.
+> ▷The seat belt must not be allowed to rub
+> against sharp edges, be routed over solid or
+> breakable objects or be trapped.
+> ▷Avoid wearing bulky clothing.
+> ▷Keep the seat belt taut by occasionally pulling
+> upwards on the upper section.
+> Belt height adjuster
+> General
+> The belt anchorage in the second row of seats
+> can be adjusted to the body size of the vehicle
+> occupant using the belt height adjuster.
+> Adjusting
+> Press and hold the button, arrow 1, and push the
+> belt height adjuster up or down.
+> After adjusting the height, make sure that the
+> belt height adjuster engages correctly.
+> Adjustment for automatic
+> retracting seat belts
+> ▷Draw the buckle tongue attached to the seat
+> belt across the body and press it into the
+> buckle catch until a ‘click’ is heard.
+> ▷Adjustment of the belt length is very impor‐
+> tant. To adjust the lap belt and check
+> whether the buckle has locked correctly, pull
+> upwards on the shoulder strap until the lap
+> belt fits tightly.
+> CONTROLS
+> Seats, mirrors and steering wheel
+> 134
+> Online Edition for Part no. 01405A1EFD3 - X/20
 
 ### ▷The length of the diagonal shoulder strap ad‐
  | x7_g07 | pdf_manual | tier:2 | lang:en | layer:interior | p:135
@@ -13541,68 +13543,67 @@ Safety
 214
 Online Edition for Part no. 01405A1EFD3 - X/20
 
-### WARNING
- | x7_g07 | pdf_manual | tier:2 | lang:en | layer:interior | p:215
-
-WARNING
-Work carried out incorrectly can lead to a fail‐
-ure, malfunction or accidental deployment of
-the airbag system. If there is a malfunction, the
-airbag system might not deploy as intended in
-an accident, even if the impact is of the appro‐
-priate severity. There is a risk of injury or even
-death. Have the airbag system tested, repaired
-or removed and disposed of by a Service Part‐
-ner of the manufacturer or another qualified
-Service Partner or a specialist workshop.
-Display in the instrument cluster
-When drive-ready state is switched on,
-the warning lamp in the instrument clus‐
-ter illuminates briefly to indicate that the
-entire airbag system and the belt tensioners are
-operational.
-Malfunction
-▷The warning lamp does not illuminate
-after drive-ready state is switched on.
-▷The warning lamp is permanently illu‐
-minated.
-Have the system checked.
-Key switch for front
-passenger airbags
-Principle
-When a child restraint system is used on the
-front passenger seat, the front and side airbags
-on the front passenger side can be deactivated
-using the key switch for front passenger airbags.
-General
-The front and side airbags for the front passen‐
-ger can be deactivated and reactivated using the
-integrated key from the vehicle key.
-Overview
-The key switch for front passenger airbags is lo‐
-cated on the outside of the dashboard.
-Deactivating the front passenger
-airbags
-1. Insert the key and press inwards where nec‐
-essary.
-2. While the key is pressed inwards, turn it to
-the OFF position as far as it will go. Once the
-stop position has been reached, remove the
-key.
-3. Make sure that the key switch is in the end
-position so that the airbags are deactivated.
-The front passenger airbags are deactivated.
-The driver's airbags remain active.
-If a child restraint system is no longer fitted in the
-front passenger seat, reactivate the front passen‐
-ger airbags so that they are triggered as intended
-in the event of an accident.
-The airbag status is displayed by the indicator
-lamp on the headliner.
-Safety
-CONTROLS
-215
-Online Edition for Part no. 01405A1EFD3 - X/20
+> ⚠️ **Внимание:** | x7_g07 | pdf_manual | tier:2 | lang:en | layer:interior | p:215
+>
+> WARNING
+> Work carried out incorrectly can lead to a fail‐
+> ure, malfunction or accidental deployment of
+> the airbag system. If there is a malfunction, the
+> airbag system might not deploy as intended in
+> an accident, even if the impact is of the appro‐
+> priate severity. There is a risk of injury or even
+> death. Have the airbag system tested, repaired
+> or removed and disposed of by a Service Part‐
+> ner of the manufacturer or another qualified
+> Service Partner or a specialist workshop.
+> Display in the instrument cluster
+> When drive-ready state is switched on,
+> the warning lamp in the instrument clus‐
+> ter illuminates briefly to indicate that the
+> entire airbag system and the belt tensioners are
+> operational.
+> Malfunction
+> ▷The warning lamp does not illuminate
+> after drive-ready state is switched on.
+> ▷The warning lamp is permanently illu‐
+> minated.
+> Have the system checked.
+> Key switch for front
+> passenger airbags
+> Principle
+> When a child restraint system is used on the
+> front passenger seat, the front and side airbags
+> on the front passenger side can be deactivated
+> using the key switch for front passenger airbags.
+> General
+> The front and side airbags for the front passen‐
+> ger can be deactivated and reactivated using the
+> integrated key from the vehicle key.
+> Overview
+> The key switch for front passenger airbags is lo‐
+> cated on the outside of the dashboard.
+> Deactivating the front passenger
+> airbags
+> 1. Insert the key and press inwards where nec‐
+> essary.
+> 2. While the key is pressed inwards, turn it to
+> the OFF position as far as it will go. Once the
+> stop position has been reached, remove the
+> key.
+> 3. Make sure that the key switch is in the end
+> position so that the airbags are deactivated.
+> The front passenger airbags are deactivated.
+> The driver's airbags remain active.
+> If a child restraint system is no longer fitted in the
+> front passenger seat, reactivate the front passen‐
+> ger airbags so that they are triggered as intended
+> in the event of an accident.
+> The airbag status is displayed by the indicator
+> lamp on the headliner.
+> Safety
+> CONTROLS
+> 215
+> Online Edition for Part no. 01405A1EFD3 - X/20
 
 ### Activating the front passenger
  | x7_g07 | pdf_manual | tier:2 | lang:en | layer:interior | p:216
@@ -23156,20 +23157,19 @@ Storage compartments
 358
 Online Edition for Part no. 01405A1EFD3 - X/20
 
-### WARNING
- | x7_g07 | pdf_manual | tier:2 | lang:en | layer:lighting | p:359
-
-WARNING
-Incorrect use of the coat hooks can present a
-danger, for example if objects are thrown
-around as a result of braking or evasive action.
-There is a risk of injury and material damage.
-Only hang lightweight objects, for example
-items of clothing, on the coat hooks.
-Storage compartments
-CONTROLS
-359
-Online Edition for Part no. 01405A1EFD3 - X/20
+> ⚠️ **Внимание:** | x7_g07 | pdf_manual | tier:2 | lang:en | layer:lighting | p:359
+>
+> WARNING
+> Incorrect use of the coat hooks can present a
+> danger, for example if objects are thrown
+> around as a result of braking or evasive action.
+> There is a risk of injury and material damage.
+> Only hang lightweight objects, for example
+> items of clothing, on the coat hooks.
+> Storage compartments
+> CONTROLS
+> 359
+> Online Edition for Part no. 01405A1EFD3 - X/20
 
 ### Luggage compartment
  | x7_g07 | pdf_manual | tier:2 | lang:en | layer:lighting | p:360
@@ -23345,68 +23345,67 @@ Luggage compartment
 362
 Online Edition for Part no. 01405A1EFD3 - X/20
 
-### WARNING
- | x7_g07 | pdf_manual | tier:2 | lang:en | layer:interior | p:363
-
-WARNING
-If the seat is not adjusted properly or the child
-seat has been installed incorrectly, the child re‐
-straint system may have limited stability or may
-not be stable at all. There is a risk of injury or
-even death. Make sure that the child restraint
-system rests firmly against the backrest. Wher‐
-ever possible, adapt the backrest angle of all
-the relevant seat backrests and adjust the seats
-correctly. Make sure that the seats and their
-backrests are correctly engaged or locked. If
-possible, adjust the height of the head re‐
-straints, or remove them.
-NOTE
-Vehicle parts can be damaged when folding
-down the rear backrest. There is a risk of mate‐
-rial damage. When folding down, make sure
-that the area of movement of the rear backrest
-including head restraint is kept clear.
-Folding down the rear backrest
-electrically
-From the rear
-Pull the switch and fold the rear seat backrest
-forwards.
-From the luggage compartment
-Overview
-Switch in luggage compartment
-Switch
-Function
-Fold down rear seat backrest.
-Max Comfort.
-Max Space.
-Folding down rear backrests
-▷
-Press the switch. The rear seat back‐
-rest automatically moves to the respec‐
-tive end position. Pressing again stops the
-movement.
-▷
-Push and hold the switch. The rear seat
-backrest continues to move for as long
-as the switch is pressed.
-Switch
-Function
-Top, front.
-The left and middle rear seat
-backrests fold forwards.
-In the case of equipment with six
-seats:
-The left rear seat backrest folds
-forwards.
-Bottom,
-front.
-The right rear seat backrest
-folds forwards.
-Luggage compartment
-CONTROLS
-363
-Online Edition for Part no. 01405A1EFD3 - X/20
+> ⚠️ **Внимание:** | x7_g07 | pdf_manual | tier:2 | lang:en | layer:interior | p:363
+>
+> WARNING
+> If the seat is not adjusted properly or the child
+> seat has been installed incorrectly, the child re‐
+> straint system may have limited stability or may
+> not be stable at all. There is a risk of injury or
+> even death. Make sure that the child restraint
+> system rests firmly against the backrest. Wher‐
+> ever possible, adapt the backrest angle of all
+> the relevant seat backrests and adjust the seats
+> correctly. Make sure that the seats and their
+> backrests are correctly engaged or locked. If
+> possible, adjust the height of the head re‐
+> straints, or remove them.
+> NOTE
+> Vehicle parts can be damaged when folding
+> down the rear backrest. There is a risk of mate‐
+> rial damage. When folding down, make sure
+> that the area of movement of the rear backrest
+> including head restraint is kept clear.
+> Folding down the rear backrest
+> electrically
+> From the rear
+> Pull the switch and fold the rear seat backrest
+> forwards.
+> From the luggage compartment
+> Overview
+> Switch in luggage compartment
+> Switch
+> Function
+> Fold down rear seat backrest.
+> Max Comfort.
+> Max Space.
+> Folding down rear backrests
+> ▷
+> Press the switch. The rear seat back‐
+> rest automatically moves to the respec‐
+> tive end position. Pressing again stops the
+> movement.
+> ▷
+> Push and hold the switch. The rear seat
+> backrest continues to move for as long
+> as the switch is pressed.
+> Switch
+> Function
+> Top, front.
+> The left and middle rear seat
+> backrests fold forwards.
+> In the case of equipment with six
+> seats:
+> The left rear seat backrest folds
+> forwards.
+> Bottom,
+> front.
+> The right rear seat backrest
+> folds forwards.
+> Luggage compartment
+> CONTROLS
+> 363
+> Online Edition for Part no. 01405A1EFD3 - X/20
 
 ### Switch
  | x7_g07 | pdf_manual | tier:2 | lang:en | layer:interior | p:364
@@ -25457,76 +25456,75 @@ MOBILITY
 397
 Online Edition for Part no. 01405A1EFD3 - X/20
 
-### WARNING
- | x7_g07 | pdf_manual | tier:2 | lang:en | layer:brakes | p:398
-
-WARNING
-Incorrect wheel and tyre combinations impair
-the vehicle's driving characteristics and inter‐
-fere with the proper functioning of various sys‐
-tems, such as the Anti-lock Brake System ABS
-or Dynamic Stability Control DSC. There is a
-risk of accident. To maintain good vehicle han‐
-dling, always fit tyres of the same make and
-tread pattern to all wheels. The manufacturer of
-the vehicle recommends using wheels and
-tyres that have been rated as suitable for the
-vehicle concerned. After a tyre has been dam‐
-aged, refit the same wheel/tyre combination as
-the original.
-WARNING
-Unsuitable wheel studs, such as one-piece
-wheel studs, may loosen or come off. The
-wheel may come loose during driving. There is
-a risk of accident. Only use two-piece wheel
-studs that have been rated by the vehicle man‐
-ufacturer as being suitable for the wheels con‐
-cerned.
-Recommended makes of tyre
-Certain makes of tyre are recommended by the
-manufacturer of the vehicle for each tyre size.
-The tyre brands can be identified by a star on the
-side wall of the tyre.
-New tyres
-Due to the manufacturing process, new tyres do
-not achieve their full road grip immediately.
-Drive moderately for the first 300 km, 200 miles.
-Retreaded tyres
-WARNING
-Retreaded tyres may have different tyre car‐
-casses. Their durability may be reduced due to
-their advanced age. There is a risk of accident.
-Do not use retreaded tyres.
-The vehicle manufacturer advises against the
-use of retreaded tyres.
-Winter tyres
-General
-Winter tyres are recommended if driving in winter
-conditions.
-Although tyres known as all-season tyres with an
-M+S label have better winter characteristics than
-summer tyres, they do not normally match the
-performance of winter tyres.
-Maximum speed of winter tyres
-If the vehicle is capable of maximum speeds
-higher than the speed permitted for the winter
-tyres, an information label stating the maximum
-permitted speed for the tyres fitted must be dis‐
-played in the driver's field of view. The label is
-available from a Service Partner of the manufac‐
-turer or another qualified Service Partner or a
-specialist workshop.
-If winter tyres are fitted, observe and do not ex‐
-ceed the respectively permitted maximum
-speed.
-Replacing run-flat tyres
-When changing from run-flat tyres to standard
-tyres, make sure that a spare wheel or a flat tyre
-kit is available in the vehicle. Additional informa‐
-MOBILITY
-Wheels and tyres
-398
-Online Edition for Part no. 01405A1EFD3 - X/20
+> ⚠️ **Внимание:** | x7_g07 | pdf_manual | tier:2 | lang:en | layer:brakes | p:398
+>
+> WARNING
+> Incorrect wheel and tyre combinations impair
+> the vehicle's driving characteristics and inter‐
+> fere with the proper functioning of various sys‐
+> tems, such as the Anti-lock Brake System ABS
+> or Dynamic Stability Control DSC. There is a
+> risk of accident. To maintain good vehicle han‐
+> dling, always fit tyres of the same make and
+> tread pattern to all wheels. The manufacturer of
+> the vehicle recommends using wheels and
+> tyres that have been rated as suitable for the
+> vehicle concerned. After a tyre has been dam‐
+> aged, refit the same wheel/tyre combination as
+> the original.
+> WARNING
+> Unsuitable wheel studs, such as one-piece
+> wheel studs, may loosen or come off. The
+> wheel may come loose during driving. There is
+> a risk of accident. Only use two-piece wheel
+> studs that have been rated by the vehicle man‐
+> ufacturer as being suitable for the wheels con‐
+> cerned.
+> Recommended makes of tyre
+> Certain makes of tyre are recommended by the
+> manufacturer of the vehicle for each tyre size.
+> The tyre brands can be identified by a star on the
+> side wall of the tyre.
+> New tyres
+> Due to the manufacturing process, new tyres do
+> not achieve their full road grip immediately.
+> Drive moderately for the first 300 km, 200 miles.
+> Retreaded tyres
+> WARNING
+> Retreaded tyres may have different tyre car‐
+> casses. Their durability may be reduced due to
+> their advanced age. There is a risk of accident.
+> Do not use retreaded tyres.
+> The vehicle manufacturer advises against the
+> use of retreaded tyres.
+> Winter tyres
+> General
+> Winter tyres are recommended if driving in winter
+> conditions.
+> Although tyres known as all-season tyres with an
+> M+S label have better winter characteristics than
+> summer tyres, they do not normally match the
+> performance of winter tyres.
+> Maximum speed of winter tyres
+> If the vehicle is capable of maximum speeds
+> higher than the speed permitted for the winter
+> tyres, an information label stating the maximum
+> permitted speed for the tyres fitted must be dis‐
+> played in the driver's field of view. The label is
+> available from a Service Partner of the manufac‐
+> turer or another qualified Service Partner or a
+> specialist workshop.
+> If winter tyres are fitted, observe and do not ex‐
+> ceed the respectively permitted maximum
+> speed.
+> Replacing run-flat tyres
+> When changing from run-flat tyres to standard
+> tyres, make sure that a spare wheel or a flat tyre
+> kit is available in the vehicle. Additional informa‐
+> MOBILITY
+> Wheels and tyres
+> 398
+> Online Edition for Part no. 01405A1EFD3 - X/20
 
 ### tion is available from a Service Partner of the
  | x7_g07 | pdf_manual | tier:2 | lang:en | layer:tires | p:399
@@ -27063,50 +27061,49 @@ Engine compartment
 422
 Online Edition for Part no. 01405A1EFD3 - X/20
 
-### WARNING
- | x7_g07 | pdf_manual | tier:2 | lang:en | layer:general | p:423
-
-WARNING
-If the bonnet is not correctly locked, it can
-come open during the journey and impair visi‐
-bility. There is a risk of accident. Stop immedi‐
-ately and close the bonnet correctly.
-WARNING
-Parts of the body can become trapped when
-opening and closing the bonnet. There is a risk
-of injury. When opening and closing, make sure
-that the area of movement of the bonnet is
-kept clear.
-NOTE
-Wipers which are folded away from the wind‐
-screen can become trapped if the front flap is
-opened. There is a risk of material damage. Be‐
-fore opening the bonnet, make sure that the
-wipers are fitted with wiper blades and are in
-contact with the windscreen.
-NOTE
-When closing, the front flap must lock into
-place on both sides. Applying additional pres‐
-sure can damage the front flap. There is a risk
-of material damage. Open the front flap again
-and close it firmly. Avoid applying additional
-pressure.
-Opening
-1. Pull the lever, arrow 1.
-Front flap is unlocked.
-2. After releasing the lever, pull the lever again,
-arrow 2.
-The front flap can be opened.
-3. Watch out for any protruding parts on the
-front flap.
-Closing
-Allow the front flap to drop from a height of ap‐
-proximately 50 cm, approx. 20 in.
-The front flap must engage on both sides.
-Engine compartment
-MOBILITY
-423
-Online Edition for Part no. 01405A1EFD3 - X/20
+> ⚠️ **Внимание:** | x7_g07 | pdf_manual | tier:2 | lang:en | layer:general | p:423
+>
+> WARNING
+> If the bonnet is not correctly locked, it can
+> come open during the journey and impair visi‐
+> bility. There is a risk of accident. Stop immedi‐
+> ately and close the bonnet correctly.
+> WARNING
+> Parts of the body can become trapped when
+> opening and closing the bonnet. There is a risk
+> of injury. When opening and closing, make sure
+> that the area of movement of the bonnet is
+> kept clear.
+> NOTE
+> Wipers which are folded away from the wind‐
+> screen can become trapped if the front flap is
+> opened. There is a risk of material damage. Be‐
+> fore opening the bonnet, make sure that the
+> wipers are fitted with wiper blades and are in
+> contact with the windscreen.
+> NOTE
+> When closing, the front flap must lock into
+> place on both sides. Applying additional pres‐
+> sure can damage the front flap. There is a risk
+> of material damage. Open the front flap again
+> and close it firmly. Avoid applying additional
+> pressure.
+> Opening
+> 1. Pull the lever, arrow 1.
+> Front flap is unlocked.
+> 2. After releasing the lever, pull the lever again,
+> arrow 2.
+> The front flap can be opened.
+> 3. Watch out for any protruding parts on the
+> front flap.
+> Closing
+> Allow the front flap to drop from a height of ap‐
+> proximately 50 cm, approx. 20 in.
+> The front flap must engage on both sides.
+> Engine compartment
+> MOBILITY
+> 423
+> Online Edition for Part no. 01405A1EFD3 - X/20
 
 ### Operating fluids
  | x7_g07 | pdf_manual | tier:2 | lang:en | layer:lighting | p:424
@@ -28842,75 +28839,74 @@ MOBILITY
 451
 Online Edition for Part no. 01405A1EFD3 - X/20
 
-### NOTE
- | x7_g07 | pdf_manual | tier:2 | lang:en | layer:general | p:452
-
-NOTE
-The vehicle may be damaged when raising and
-securing it.
-There is a risk of material damage.
-▷Raise the vehicle with suitable equipment.
-▷Do not raise or secure the vehicle by its
-towing eye, body parts or chassis parts.
-Pushing the vehicle
-To remove a broken-down vehicle from danger,
-it can be pushed for a short distance.
-For further information:
-Rolling or pushing the vehicle, see page 176.
-Towing truck
-Only have the vehicle transported on a truck bed.
-Towing other vehicles
-General
-Switch on the hazard warning lights in line with
-local regulations.
-If the electrical system of the vehicle being
-towed has failed, the vehicle must be made iden‐
-tifiable to other road users, for instance by plac‐
-ing a sign or the warning triangle in the rear win‐
-dow.
-With Safe Share function: to remove a brokendown vehicle from a dangerous area, it can be
-towed over a short distance at a maximum speed
-of 10 km/h, approx. 6 mph.
-Safety notes
-WARNING
-If the gross vehicle weight of the towing vehicle
-is less than that of the vehicle being towed, the
-towing eye may be torn off or it may not be
-possible to control the vehicle. There is a risk of
-accident. Make sure that the gross vehicle
-weight of the towing vehicle is greater than the
-weight of the vehicle being towed.
-NOTE
-If the tow bar or the towing rope is not attached
-correctly, other vehicle parts can be damaged.
-There is a risk of material damage. Attach the
-tow bar or towing rope to the towing eye cor‐
-rectly.
-Tow bar
-The towing eyes of both vehicles should be on
-the same side.
-If it is impossible to avoid attaching the tow bar at
-an angle, note the following:
-▷Clearance may be limited when cornering.
-▷Lateral forces will be generated if the tow bar
-is installed at an angle.
-Towing rope
-Note the following if using a towing rope:
-▷Use nylon ropes or straps that will allow the
-vehicle to be towed smoothly.
-▷Fasten the towing rope so it is not twisted.
-▷Check the towing eye and towing rope fas‐
-tening regularly.
-▷Do not exceed a towing speed of 50 km/h,
-30 mph.
-▷Do not exceed a towing distance of 5 km,
-3 miles.
-▷Ensure that the towing rope is taut when the
-towing vehicle drives off.
-MOBILITY
-Help in case of a breakdown
-452
-Online Edition for Part no. 01405A1EFD3 - X/20
+> ℹ️ **Примечание:** | x7_g07 | pdf_manual | tier:2 | lang:en | layer:general | p:452
+>
+> NOTE
+> The vehicle may be damaged when raising and
+> securing it.
+> There is a risk of material damage.
+> ▷Raise the vehicle with suitable equipment.
+> ▷Do not raise or secure the vehicle by its
+> towing eye, body parts or chassis parts.
+> Pushing the vehicle
+> To remove a broken-down vehicle from danger,
+> it can be pushed for a short distance.
+> For further information:
+> Rolling or pushing the vehicle, see page 176.
+> Towing truck
+> Only have the vehicle transported on a truck bed.
+> Towing other vehicles
+> General
+> Switch on the hazard warning lights in line with
+> local regulations.
+> If the electrical system of the vehicle being
+> towed has failed, the vehicle must be made iden‐
+> tifiable to other road users, for instance by plac‐
+> ing a sign or the warning triangle in the rear win‐
+> dow.
+> With Safe Share function: to remove a brokendown vehicle from a dangerous area, it can be
+> towed over a short distance at a maximum speed
+> of 10 km/h, approx. 6 mph.
+> Safety notes
+> WARNING
+> If the gross vehicle weight of the towing vehicle
+> is less than that of the vehicle being towed, the
+> towing eye may be torn off or it may not be
+> possible to control the vehicle. There is a risk of
+> accident. Make sure that the gross vehicle
+> weight of the towing vehicle is greater than the
+> weight of the vehicle being towed.
+> NOTE
+> If the tow bar or the towing rope is not attached
+> correctly, other vehicle parts can be damaged.
+> There is a risk of material damage. Attach the
+> tow bar or towing rope to the towing eye cor‐
+> rectly.
+> Tow bar
+> The towing eyes of both vehicles should be on
+> the same side.
+> If it is impossible to avoid attaching the tow bar at
+> an angle, note the following:
+> ▷Clearance may be limited when cornering.
+> ▷Lateral forces will be generated if the tow bar
+> is installed at an angle.
+> Towing rope
+> Note the following if using a towing rope:
+> ▷Use nylon ropes or straps that will allow the
+> vehicle to be towed smoothly.
+> ▷Fasten the towing rope so it is not twisted.
+> ▷Check the towing eye and towing rope fas‐
+> tening regularly.
+> ▷Do not exceed a towing speed of 50 km/h,
+> 30 mph.
+> ▷Do not exceed a towing distance of 5 km,
+> 3 miles.
+> ▷Ensure that the towing rope is taut when the
+> towing vehicle drives off.
+> MOBILITY
+> Help in case of a breakdown
+> 452
+> Online Edition for Part no. 01405A1EFD3 - X/20
 
 ### Towing eye
  | x7_g07 | pdf_manual | tier:2 | lang:en | layer:general | p:453

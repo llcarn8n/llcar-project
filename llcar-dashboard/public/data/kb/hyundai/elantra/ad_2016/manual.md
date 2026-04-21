@@ -1,8 +1,12 @@
-# Manual: hyundai/elantra_ru (823 chunks)
-<!-- doc_type:service_manual tier:4 lang:en -->
+---
+brand: hyundai
+model: elantra
+generation: ad_2016
+source: kb
+---
+
 
 ### Hyundai Elantra Automotive Repair Manual
-`hyundai_elantra_ru_en_1d41ff24` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 by Larry Warren, Mike Stubblefield and John H Haynes Member of the Guild of Motoring Writers
 
@@ -13,19 +17,16 @@ Haynes Publishing Group Sparkford Nr Yeovil Somerset BA22 7JJ England
 Haynes North America, Inc 861 Lawrence Drive Newbury Park California 91320 USA
 
 ### Acknowledgements
-`hyundai_elantra_ru_en_d7b4a000` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Wiring diagrams originated exclusively for Haynes North America, Inc. by Valley Forge Technical Information Services
 
 A book in the Haynes Automotive Repair Manual Series
 
 ### Printed in the U.S.A.
-`hyundai_elantra_ru_en_b3bedede` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All rights reserved. No part of this book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording or by any information storage or retrieval system, without permission in writing from the copyright holder.
 
 ### ISBN 1 56392 451 X
-`hyundai_elantra_ru_en_ec74eb84` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Library of Congress Control Number 2001097037
 
@@ -37,14 +38,12 @@ While every attempt is made to ensure that the information in this manual is cor
 Haynes author, mechanic and photographer with 1996 Hyundai Elantra
 
 ### Its purpose
-`hyundai_elantra_ru_en_684cdb73` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The purpose of this manual is to help you get the best value from your vehicle. It can do so in several ways. It can help you decide what work must be done, even if you choose to have it done by a dealer service department or a repair shop; it provides information and procedures for routine maintenance and servicing; and it offers diagnostic and repair procedures to follow when trouble occurs.
 
 We hope you use the manual to tackle the work yourself. For many simpler jobs, doing it yourself may be quicker than arrang ing an appointment to get the vehicle into a shop and making the trips to leave it and pick it up. More importantly, a lot of money can be saved by avoiding the expense the shop must pass on to you to cover its labor and overhead costs. An added benefit is the sense of satisfaction and accomplishment that you feel after doing the job yourself.
 
 ### Using the manual
-`hyundai_elantra_ru_en_b3eff54b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The manual is divided into Chapters. Each Chapter is divided into numbered Sections, which are headed in bold type between horizontal lines. Each Section consists of consecutively numbered paragraphs.
 
@@ -58,18 +57,13 @@ References to the left or right side of the vehicle assume you are sitting in th
 
 Even though we have prepared this manual with extreme care, neither the publisher nor the author can accept responsibility for any errors in, or omissions from, the information given.
 
-### CAUTION
-`hyundai_elantra_ru_en_8c2813f7` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> A Caution provides a special procedure or special steps which must be taken while completing the procedure where the Caution is found. Not heeding a Caution can result in damage to the assembly being worked on.
 
-A Caution provides a special procedure or special steps which must be taken while completing the procedure where the Caution is found. Not heeding a Caution can result in damage to the assembly being worked on.
-
-### WARNING
-`hyundai_elantra_ru_en_9442b164` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-A Warning provides a special procedure or special steps which must be taken while completing the procedure where the Warning is found. Not heeding a Warning can result in personal injury.
+> ⚠️ **Внимание:** 
+> A Warning provides a special procedure or special steps which must be taken while completing the procedure where the Warning is found. Not heeding a Warning can result in personal injury.
 
 ### Introduction to the Hyundai Elantra
-`hyundai_elantra_ru_en_cef6b8ab` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 These models are available in four-door sedan body, four-door hatchback and station wagon body styles.
 
@@ -82,29 +76,24 @@ Independent suspension, featuring MacPherson struts, is used on all four wheels.
 The brakes at the front are discs and either disc or drum at the rear, with standard power assist. Some models are equipped with Anti-lock Braking Systems (ABS).
 
 ### Vehicle identification numbers
-`hyundai_elantra_ru_en_d4670fbb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Modifications are a continuing and unpublicized process in vehicle manufacturing. Since spare parts manuals and lists are compiled on a numerical basis, the individual vehicle numbers are essential to correctly identify the component required.
 
 ### Vehicle identification number (VIN)
-`hyundai_elantra_ru_en_287ada48` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 This very important number stamped on a plate attached to the dashboard inside the windshield on the driver's side of the vehicle (see illustration) It is also stamped on the firewall in the engine compartment and on a plate on the drivers side door (see illustrations. The VIN also appears on the Vehicle Certificate of Title and Registration. It contains information such as where and when the vehicle was manufactured, the model year and the body style.
 
 ### VIN Engine and model year codes
-`hyundai_elantra_ru_en_413d8a31` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Two particularly important pieces of information found in the VIN are the engine code and model year code. Counting from the left, the engine code designation is the eighth digit. The model year code is the 10th digit.
 
 ### Engine codes
-`hyundai_elantra_ru_en_49ef0000` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 M = 1.8L DOHC four-cylinder engine F = 2.0L DOHC four-cylinder engine
 
 The engine code number is commonly needed when ordering engine parts. Besides being a component of the VIN, an engine code can also be found on the front (radiator) side of the engine on the right (passenger's side) end below the oil filter. .
 
 ### Transaxle number
-`hyundai_elantra_ru_en_5338c507` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The transaxle number is commonly needed when ordering transaxle parts. On
 
@@ -121,7 +110,6 @@ The Vehicle Identification Number (VIN) is also stamped into firewall in the eng
 The VIN can also be found on the end of the driver's door
 
 ### Buying parts
-`hyundai_elantra_ru_en_30b859e0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Replacement parts are available from many sources, which generally fallinto one of two categories - authorized dealer parts departments and independent retail auto parts stores. Our advice concerning these parts is as follows:
 
@@ -134,12 +122,10 @@ Warranty information: If the vehicle is still covered under warranty, be sure th
 To be sure of obtaining the correct parts, have engine and chassis numbers available and, if possible, take the old parts along for positive identification.
 
 ### Maintenance techniques
-`hyundai_elantra_ru_en_a42bf601` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 There are a number of techniques involved in maintenance and repair that will be referred to throughout this manual. Application of these techniques will enable the home mechanic to be more efficient, better organized and capable of performing the various tasks properly, which will ensure that the repair job is thorough and complete.
 
 ### Fasteners
-`hyundai_elantra_ru_en_5eb36722` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Fasteners are nuts, bolts, studs and screws used to hold two or more parts together. There are a few things to keep in mind when working with fasteners. Almost all of them use a locking device of some type, either a lockwasher, locknut, locking tab or thread adhesive. All threaded fasteners should be clean and straight, with undamaged threads and undamaged corners on the hex head where the wrench fits. Develop the habit of replacing all damaged nuts and bolts with new ones. Special locknuts with nylon or fiber inserts can only be used once. If they are removed, they lose their locking ability and must be replaced with new ones.
 
@@ -150,7 +136,6 @@ If a bolt or stud breaks off in an assembly, it can be drilled and removed with 
 Flat washers and lockwashers, when removed from an assembly, should always be replaced exactly as removed. Replace any damaged washers with new ones. Never use a lockwasher on any soft metal surface (such as aluminum), thin sheet metal or plastic.
 
 ### Fastener sizes
-`hyundai_elantra_ru_en_63c8c6ee` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For a number of reasons, automobile manufacturers are making wider and wider use of metric fasteners. Therefore, it is important to be able to tell the difference between standard (sometimes called U.S. or SAE) and metric hardware, since they cannot be interchanged.
 
@@ -169,7 +154,6 @@ Standard fasteners are often referred to as SAE, as opposed to metric. However, 
 Since fasteners of the same size (both standard and metric) may have different strength ratings, be sure to reinstall any bolts, studs or nuts removed from your vehicle in their original locations. Also, when replacing a fastener with a new one, make sure that the new one has a strength rating equal to or greater than the original.
 
 ### Tightening sequences and procedures
-`hyundai_elantra_ru_en_c3a0fe10` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Most threaded fasteners should be tightened to a specific torque value (torque is the twisting force applied to a threaded component such as a nut or bolt). Overtightening the fastener can weaken it and cause it to break, while undertightening can cause it to eventually come loose. Bolts, screws and studs, depending on the material they are made of and their thread diameters, have specific torque values, many of which are noted in the Specifications at the beginning of each Chapter. Be sure to follow the torque recommendations closely. For fasteners not assigned a specific torque, a general torque value chart is presented here as a guide. These torque values are for dry (unlubricated) fasteners threaded into steel or cast iron (not aluminum). As was previously mentioned, the size and grade of a fastener determine the amount of torque that can safely be applied to it. The figures listed here are approximate for Grade 2 and Grade 3 fasteners. Higher grades can tolerate higher torque values.
 
@@ -180,7 +164,6 @@ Fasteners laid out in a pattern, such as cylinder head bolts, oil pan bolts, dif
 Initially, the bolts or nuts should be assembled finger-tight only. Next, they should be tightened one full turn each, in a criss-cross or diagonal pattern. After each one has been tightened one full turn, return to the first one and tighten them all one-half turn, following the same pattern. Finally, tighten each of them one-quarter turn at a time until each fastener has been tightened to the proper torque. To loosen and remove the fasteners, the procedure would be reversed.
 
 ### Component disassembly
-`hyundai_elantra_ru_en_ae518ce6` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Component disassembly should be done with care and purpose to help ensure that the parts go back together properly. Always keep track of the sequence in which parts are removed. Make note of special characteristics or marks on parts that can be installed more than one way, such as a grooved thrust washer on a shaft. It is a good idea to lay the disassembled parts out on a clean surface in the order that they were removed. It may also be helpful to make sketches or take instant photos of components before removal.
 
@@ -197,7 +180,6 @@ Dial indicator set
 Whenever wiring looms, harnesses or connectors are separated, it is a good idea to identify the two halves with numbered pieces of masking tape so they can be easily reconnected.
 
 ### Gasket sealing surfaces
-`hyundai_elantra_ru_en_0abc094c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Throughout any vehicle, gaskets are used to seal the mating surfaces between two parts and keep lubricants, fluids, vacuum or pressure contained in an assembly.
 
@@ -208,7 +190,6 @@ Avoid using a screwdriver or bar to pry apart an assembly, as they can easily ma
 After the parts are separated, the old gasket must be carefully scraped off and the gasket surfaces cleaned. Stubborn gasket material can be soaked with rust penetrant or treated with a special chemical to soften it so it can be easily scraped off. A scraper can be fashioned from a piece of copper tubing by flattening and sharpening one end. Copper is recommended because it is usually softer than the surfaces to be scraped, which reduces the chance of gouging the part. Some gaskets can be removed with a wire brush, but regardless of the method used, the mating surfaces must be left clean and smooth. If for some reason the gasket surface is gouged, then a gasket sealer thick enough to fill scratches will have to be used during reassembly of the components. For most applications, a non-drying (or semi-drying gasket sealer should be used.
 
 ### Hose removal tips
-`hyundai_elantra_ru_en_3a4214af` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Warning: If the vehicle is equipped with air conditioning, do not disconnect any of the A/C hoses without first having the system depressurized by a dealer service department or a service station.
 
@@ -219,7 +200,6 @@ As a last resort (and if the hose is to be replaced with a new one anyway), the 
 If a hose clamp is broken or damaged, do not reuse it. Wire-type clamps usually weaken with age, so it is a good idea to replace them with screw-type clamps whenever a hose is removed.
 
 ### Tools
-`hyundai_elantra_ru_en_fc55319d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A selection of good tools is a basic requirement for anyone who plans to maintain and repair his or her own vehicle. For the owner who has few tools, the initial investment might seem high, but when compared to the spiraling costs of professional auto maintenance and repair, it is a wise one.
 
@@ -228,7 +208,6 @@ To help the owner decide which tools are needed to perform the tasks detailed in
 The newcomer to practical mechanics should start off with the maintenance and minor repair tool kit, which is adequate for the simpler jobs performed on a vehicle. Then, as confidence and experience grow, the owner can tackle more difficult tasks, buying additional tools as they are needed. Eventually the basic kit will be expanded into the repair and overhaul tool set. Over a period of time, the experienced do-it-yourselfer will assemble a tool set complete enough for most repair and overhaul procedures and will add tools from the special category when it is felt that the expense is justified by the frequency of use.
 
 ### Maintenance and minor repair tool kit
-`hyundai_elantra_ru_en_e9b26c27` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 The tools in this list should be considered the minimum required for performance of routine maintenance, servicing and minor repair work. We recommend the purchase of combination wrenches (box-end and openend combined in one wrench). While more expensive than open end wrenches, they offer the advantages of both types of wrench.
 
@@ -276,7 +255,6 @@ Note: If basic tune-ups are going to be part of routine maintenance, it will be 
 ![](images/556b41170f3604d1e9d57a9f5ee8b820d45f03fd400c29d14dd314b5571cb19b.jpg)
 
 ### Repair and overhaul tool set
-`hyundai_elantra_ru_en_dd458222` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 These tools are essential for anyone who plans to perform major repairs and are in addition to those in the maintenance and minor repair tool kit. Included is a comprehensive set of sockets which, though expensive, are invaluable because of their versatility, especially when various extensions and drives are available. We recommend the 1/2- inch drive over the 3/8-inch drive. Although the larger drive is bulky and more expensive, it has the capacity of accepting a very wide range of large sockets. Ideally, however, the mechanic should have a 3/8-inch drive set and a 1/2-inch drive set.
 
@@ -313,7 +291,6 @@ Jack (scissor or hydraulic type)
 Note: Another tool which is often useful is an electric dril with a chuck capacity of 3/8-inch and a set of good quality drill bits.
 
 ### Special tools
-`hyundai_elantra_ru_en_063973d6` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The tools in this list include those which are not used regularly, are expensive to buy, or which need to be used in accordance with their manufacturer's instructions. Unless these tools will be used frequently, it is not very economical to purchase many of them. A consideration would be to split the cost and use between yourself and a friend or friends. In addition, most of these tools can be obtained from a tool rental shop on a temporary basis.
 
@@ -344,7 +321,6 @@ Floor jack
 ![](images/131de5d3a01ba42f4dc1142556a30a8b06c09a3c39844f49aa6c72d2d30e0c03.jpg)
 
 ### Buying tools
-`hyundai_elantra_ru_en_ab19120f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 For the do-it-yourselfer who is just starting to get involved in vehicle maintenance and repair, there are a number of options available when purchasing tools. If maintenance and minor repair is the extent of the work to be done, the purchase of individual tools is satisfactory. if, on the other hand, extensive work is planned, it would be a good idea to purchase a modest tool set from one of the large retail chain stores. A set can usually be bought at a substantial savings over the individual tool prices, and they often come with a tool box. As additional tools are needed, add-on sets, individual tools and a larger tool box can be purchased to expand the tool selection. Building a tool set gradually allows the cost of the tools to be spread over a longer period of time and gives the mechanic the freedom to choose only those tools that will actually be used.
 
@@ -358,7 +334,6 @@ Clutch plate alignment tool
 Tap and die set
 
 ### Care and maintenance of tools
-`hyundai_elantra_ru_en_99652b62` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Good tools are expensive, so it makes sense to treat them with respect. Keep them clean and in usable condition and store them properly when not in use. Always wipe off any dirt, grease or metal chips before putting them away. Never leave tools lying around in the work area. Upon completion of a job, always check closely under the hood for tools that may have been left there so they won't get lost during a test drive.
 
@@ -367,7 +342,6 @@ Some tools, such as screwdrivers, pliers, wrenches and sockets, can be hung on a
 When tools are used with care and stored properly, they will last a very long time. Even with the best of care, though, tools will wear out if used frequently. When a tool is damaged or worn out, replace it. Subsequent jobs will be safer and more enjoyable if you do.
 
 ### How to repair damaged threads
-`hyundai_elantra_ru_en_638be2ac` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Sometimes, the internal threads of a nut or bolt hole can become stripped, usually from overtightening. Stripping threads is an all-too-common occurrence, especially when working with aluminum parts, because aluminum is so soft that it easily strips out.
 
@@ -382,7 +356,6 @@ Drill and tap the hole to the next suitable oversize and install a larger diamet
 Regardless of which method you use, be sure to proceed calmly and carefully. A little impatience or carelessness during one of these relatively simple procedures can ruin your whole day's work and cost you a bundle if you wreck an expensive part.
 
 ### Working facilities
-`hyundai_elantra_ru_en_ad3fe062` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Not to be overlooked when discussing tools is the workshop. If anything more than routine maintenance is to be carried out, some sort of suitable work area is essential.
 
@@ -403,7 +376,6 @@ Whenever working over a painted surface, such as when leaning over a fender to s
 ![](images/538399bd205301bddde9b18d8bd202a72434ddebf3e35d63e1b663501ee34479.jpg)
 
 ### Booster battery (jump) starting
-`hyundai_elantra_ru_en_6e1e5a8b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Observe the following precautions when using a booster battery to start a vehicle:
 
@@ -426,7 +398,6 @@ Dead battery 0 00ο0 3 00-3 HAYNES
 Make the booster battery cable connections in the numerical order shown (note that the negative cable of the booster battery is NOT attached to the negative terminal of the dead battery
 
 ### Jacking
-`hyundai_elantra_ru_en_6e753ab1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: The jack supplied with the vehicle should only be used for changing a tire or placing jackstands under the frame. Never work under the vehicle or start the engine while this jack is being used as the only means of support.
 
@@ -445,7 +416,6 @@ Instali the cover (and trim ring, if used) and be sure it's snapped into place a
 Stow the tire, jack and wrench. Unblock the wheels.
 
 ### Towing
-`hyundai_elantra_ru_en_796221ab` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Vehicles equipped with an automatic transaxle should not be towed with all four wheels on the ground. As a general rule, the vehicle should be towed with the front (drive) wheels off the ground (the best method is to have the vehicle placed on a flat-bed tow truck). If they can't be raised, place them on a dolly.
 
@@ -458,12 +428,10 @@ Safety is a major consideration when towing and all applicable state and local l
 ![](images/9022fc1b959b4d2b770a66df937cf3d7cdb9ba1ef6d22b25fe5a6d37455bef7d.jpg)
 
 ### Automotive chemicals and lubricants
-`hyundai_elantra_ru_en_e600c218` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A number of automotive chemicals and lubricants are available for use during vehicle maintenance and repair. They include a wide variety of products ranging from cleaning solvents and degreasers to lubricants and protective sprays for rubber, plastic and vinyl.
 
 ### Cleaners
-`hyundai_elantra_ru_en_ad890e55` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Carburetor cleaner and choke cleaner is a strong solvent for gum, varnish and carbon. Most carburetor cleaners leave a drytype lubricant film which will not harden or gum up. Because of this film it is not recommended for use on electrical components.
 
@@ -476,7 +444,6 @@ Demoisturants remove water and moisture from electrical components such as alter
 Degreasers are heavy-duty solvents used to remove grease from the outside of the engine and from chassis components. They can be sprayed or brushed on and, depending on the type, are rinsed off either with water or solvent.
 
 ### Lubricants
-`hyundai_elantra_ru_en_6cf67945` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 Motor oil is the lubricant formulated for use in engines. It normally contains a wide variety of additives to prevent corrosion and reduce foaming and wear. Motor oil comes in various weights (viscosity ratings) from 0 to 50. The recommended weight of the oil depends on the season, temperature and the demands on the engine. Light oil is used in cold climates and under light load conditions. Heavy oil is used in hot climates and where high loads are encountered. Multi-viscosity oils are designed to have characteristics of both light and heavy oils and are available in a number of weights from 5W-20 to 20w-50.
 
@@ -499,7 +466,6 @@ Moly penetrants loosen and lubricate frozen, rusted and corroded fasteners and p
 Heat-sink grease is a special electrically non-conductive grease that is used for mounting electronic ignition modules where it is essential that heat is transferred away from the module.
 
 ### Sealants
-`hyundai_elantra_ru_en_58ca5940` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 RTV sealant is one of the most widely used gasket compounds. Made from silicone, RTV is air curing, it seals, bonds, waterproofs, fills surface irregularities, remains flexible, doesn't shrink, is relatively easy to remove, and is used as a supplementary sealer with almost all low and medium temperature gaskets.
 
@@ -508,7 +474,6 @@ Anaerobic sealant is much like RTV in that it can be used either to seal gaskets
 Thread and pipe sealant is used for sealing hydraulic and pneumatic fittings and vacuum lines. It is usually made from a Teflon compound, and comes in a spray, a paint-on liquid and as a wrap-around tape.
 
 ### Chemicals
-`hyundai_elantra_ru_en_f074b2c5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Anti-seize compound prevents seizing, galling, cold welding, rust and corrosion in fasteners. High-temperature anti-seize, usually made with copper and graphite lubricants, is used for exhaust system and exhaust manifold bolts.
 
@@ -519,7 +484,6 @@ Oil additives range from viscosity index improvers to chemical treatments that c
 Gas additives perform several functions, depending on their chemical makeup. They usually contain solvents that help dissolve gum and varnish that build up on carburetor, fuel injection and intake parts. They also serve to break down carbon deposits that form on the inside surfaces of the combustion chambers. Some additives contain upper cylinder lubricants for valves and piston rings, and others contain chemicals to remove condensation from the gas tank.
 
 ### Miscellaneous
-`hyundai_elantra_ru_en_b0015c54` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Brake fluid is specially formulated hydraulic fluid that can withstand the heat and pressure encountered in brake systems. Care must be taken so this fluid does not come in contact with painted surfaces or plastics. An opened container should always be resealed to prevent contamination by water or dirt.
 
@@ -530,7 +494,6 @@ Undercoating is a petroleum-based, tar-like substance that is designed to protec
 Waxes and polishes are used to help protect painted and plated surfaces from the weather. Different types of paint may require the use of different types of wax and polish. Some polishes utilize a chemical or abrasive cleaner to help remove the top layer of oxidized (dull) paint on older vehicles. In recent years many non-wax polishes that contain a wide variety of chemicals such as polymers and silicones have been introduced. These non-wax polishes are usually easier to apply and last longer than conventional waxes and polishes.
 
 ### Conversion factors
-`hyundai_elantra_ru_en_ca5ea5e3` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/21b7236c43b5ef33d0daafcdd353bc0fa33b034b05a85ac9fb260655900bc32f.jpg)
 
@@ -539,12 +502,10 @@ t is common practice to convert from miles per gallon (mpg) to liters/100 kilome
 ![](images/2146e700ece788c0692dec2b5d0f1770e20fdd74c1017b7f9adb2d301e703a78.jpg)
 
 ### Safety first!
-`hyundai_elantra_ru_en_8db0cc17` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Regardless of how enthusiastic you may be about getting on with the job at hand, take the time to ensure that your safety is not jeopardized. A moment's lack of attention can result in an accident, as can failure to observe certain simple safety precautions. The possibility of an accident will always exist, and the following points should not be considered a comprehensive list of all dangers. Rather, they are intended to make you aware of the risks and to, encourage a safety conscious approach to all work you cary out on your vehicle.
 
 ### Essential DOs and DON'Ts
-`hyundai_elantra_ru_en_038a7275` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 DON'T rely on a jack when working under the vehicle. Aiways use approved jackstands to support the weight of the vehicle and place them under the recommended lift or support points.
 
@@ -583,19 +544,16 @@ DO carry out work in a logical sequence and make sure that everything is correct
 DO keep chemicals and fluids tightly capped and out of the reach of children and pets. DO remember that your vehicle's safety affects that of yourself and others. If in doubt on any point, get professional advice.
 
 ### Asbestos
-`hyundai_elantra_ru_en_fc4fbb0f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Certain friction, insulating, sealing, and other products - such as brake linings, brake bands, clutch linings, torque converters, gaskets, etc. - may contain asbestos. Extreme care must be taken to avoid inhalation of dust from such products, since it is hazardous to health. If in doubt, assume that they do contain asbestos.
 
 ### Fire
-`hyundai_elantra_ru_en_cac54122` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remember at all times that gasoline is highly flammable. Never smoke or have any kind of open flame around when working on a vehicle. But the risk does not end there. A spark caused by an electrical short circuit, by two metal surfaces contacting each other, or even by static electricity built up in your body under certain conditions, can ignite gasoline vapors, which in a confined space are highly explosive. Do not, under any circumstances, use gasoline for cleaning parts. Use an approved safety solvent.
 
 Always disconnect the battery ground (-) cable at the battery before working on any part of the fuel system or electrical system. Never risk spilling fuel on a hot engine or exhaust component. It is strongly recommended that a fire extinguisher suitable for use on fuel and electrical fires be kept handy in the garage or workshop at all times. Never try to extinguish a fuel or electrical fire with water.
 
 ### Fumes
-`hyundai_elantra_ru_en_f067d021` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Certain fumes are highly toxic and can quickly cause unconsciousness and even death if inhaled to any extent. Gasoline vapor falls into this category, as do the vapors from some cleaning solvents. Any draining or pouring of such volatile fluids should be done in a well ventilated area.
 
@@ -606,7 +564,6 @@ Never run the engine in an enclosed space, such as a garage. Exhaust fumes conta
 If you are fortunate enough to have the use of an inspection pit, never drain or pour gasoline and never run the engine while the vehicle is over the pit. The fumes, being heavier than air, will concentrate in the pit with possibly lethal results.
 
 ### The battery
-`hyundai_elantra_ru_en_77d77e8b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Never create a spark or allow a bare light bulb near a battery. They normally give off a certain amount of hydrogen gas, which is highly explosive.
 
@@ -619,17 +576,14 @@ Take care when adding water to a non maintenance-free battery and when carrying 
 Always wear eye protection when cleaning the battery to prevent the caustic deposits from entering your eyes.
 
 ### Household current
-`hyundai_elantra_ru_en_b3c02282` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When using an electric power tool, inspection light, etc., which operates on household current, always make sure that the tool is correctly connected to its plug and that, where necessary, it is properly grounded. Do not use such items in damp conditions and, again, do not create a spark or apply excessive heat in the vicinity of fuel or fuel vapor.
 
 ### Secondary ignition system voltage
-`hyundai_elantra_ru_en_c8998eb3` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 A severe electric shock can result from touching certain parts of the ignition system (such as the spark plug wires) when the engine is running or being cranked, particularly if components are damp or the insulation is defective. In the case of an electronic ignition system, the secondary system voltage is much higher and could prove fatal.
 
 ### Engine
-`hyundai_elantra_ru_en_ebdbd6d9` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 CHECK ENGINE light. .. See Chapter 6 Engine backfires.. 15 Engine diesels (continues to run) after switching off. 18 Engine hard to start when cold... C Engine hard to start when hort...
 Engine lacks power...
@@ -646,12 +600,10 @@ Oil puddeunder. g ie... 7 Pinging or knocking engine sounds during acceleration
 Starter motor noisy or excessively rough in engagement. or uphill  …… 16
 
 ### Engine electrical system
-`hyundai_elantra_ru_en_7ab49066` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Alternator light fails to go out. 2 9 2 Battery will not hold a charge. Alternator light fails to come on when key is turned on.
 
 ### Cooling system
-`hyundai_elantra_ru_en_9de503a1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Coolan loss  2 2 2 5 2 2 External coolant leakage.
 Internal coolant leakage.
@@ -660,7 +612,6 @@ Overheating.
 Poor coolant circulation
 
 ### Clutch
-`hyundai_elantra_ru_en_34e5650f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Clutch pedal stays on floor... 8 538 Clutch slips (engine speed increases with no increase
 in vehle spd..
@@ -672,7 +623,6 @@ Transaxle ratting (clicking).
 Unable to select gears
 
 ### Manual transaxle
-`hyundai_elantra_ru_en_ceef0e17` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Clicking noise in turns. Clunk on acceleration or deceleration 440 8 Knocking noise at low speeds.
 
@@ -685,7 +635,6 @@ Slips out of gear..
 Vvibrato
 
 ### Automatic transaxle
-`hyundai_elantra_ru_en_fd8f1ff9` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Engine will start in gears other than Park or Neutral. 3 4 5 Fluid leakag
 General shift mechanism problems
@@ -695,14 +644,12 @@ in forward or reverse gears 54 Transaxle will not downshift with accelerator ped
 pressed to the floor. 52
 
 ### Driveaxles
-`hyundai_elantra_ru_en_f7c8e268` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Clicking noise in turns . 5 5 5
 Shudder or vibration during acceleration
 Vibration at highway speeds
 
 ### Brakes
-`hyundai_elantra_ru_en_c8db4e59` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be Brake roughness or chatter (pedal pulsates) 5 Drag.ging brakes..
 Excessive brake pedal travel.
@@ -713,7 +660,6 @@ Parking brake does not hold.
 Vehicle pulls to one side during braking .
 
 ### Suspension and steering systems
-`hyundai_elantra_ru_en_c52e1a43` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Aa.. Cupped tires.. 7 28 7 Erratic steering when braking
 Excessive pitching and/or rolling around corners or
@@ -737,7 +683,6 @@ Remember that successful troubleshooting is not a mysterious black art practiced
 Finally, always establish a clear idea of why a problem has occurred and take steps to ensure that it doesn't happen again. If the electrical system fails because of a poor connection, check the other connections in the system to make sure that they don't fail as well. If a particular fuse continues to blow, find out why - don't just replace one fuse after another. Remember, failure of a small component can often be indicative of potential failure or incorrect functioning of a more important component or system.
 
 ### Engine will not rotate when attempting to start
-`hyundai_elantra_ru_en_a33a26cf` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 1Battery terminal connections loose or corroded (Chapter 1).
 C Battery discharged or faulty (Chapter 1). Automatic transmission not completely engaged in Park (Chapter 7B) or clutch not completely depressed (Chapter 8).
@@ -749,7 +694,6 @@ Starter motor faulty (Chapter 5).
 9 Starter pinion or flywheel teeth worn or broken (Chapter 5).
 
 ### Engine rotates but will not start
-`hyundai_elantra_ru_en_fa93734f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Fuel tank empty.
 2 Battery discharged (engine rotates slowly) (Chapter 5).
@@ -762,12 +706,10 @@ Fuel tank empty.
 11 Defective fuel pump relay and/or harness at relay (Chapter 4)
 
 ### 3Engine hard to start when cold
-`hyundai_elantra_ru_en_da928a05` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 23 Battery discharged or !ow (Chapter 1). Malfunctioning fuel system (Chapter 4). Injector(s) leaking (Chapter 4).
 
 ### 4Engine hard to start when hot
-`hyundai_elantra_ru_en_2f4086fe` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Air filter clogged (Chapter 1).
 2 Fuel not reaching the fuel injection system (Chapter 4).
@@ -775,20 +717,17 @@ Fuel tank empty.
 4Malfunctioning EVAP system (Chapter 6)
 
 ### 5Starter motor noisy or excessively rough in engagement
-`hyundai_elantra_ru_en_9e80504b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Pinion or flywheel gear teeth worn or broken (Chapter 5).
 2 Starter motor mounting bolts loose or missing (Chapter 5).
 
 ### 6Engine starts but stops immediately
-`hyundai_elantra_ru_en_ab731b24` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 1 Loose or faulty electrical connections at coil or alternator (Chapter 5).
 2 Insufficient fuel reaching the fuel injector(s) (Chapters 1 and 4).
 3 Vacuum leak at the gasket between the intake manifold and throttle body (Chapters 1 and 4).
 
 ### 7Oil puddle under engine
-`hyundai_elantra_ru_en_61c35c61` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Oil pan gasket and/or oil pan drain bolt washer leaking (Chapter 2).
 2 Oil pressure sending unit leaking (Chapter 2).
@@ -796,7 +735,6 @@ Fuel tank empty.
 Engine oil seals leaking (Chapter 2).
 
 ### Engine lopes while idling or idles erratically
-`hyundai_elantra_ru_en_575098ee` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1234 Vd. Air filter clogged (Chapter 1). Fuel pump not delivering sufficient fuel
 
@@ -806,14 +744,12 @@ ter 2).
 7 Camshaft lobes worn (Chapter 2).
 
 ### 9Engine misses at idle speed
-`hyundai_elantra_ru_en_706087a2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Spark plugs worn or not gapped prop
 erly (Chapter 1).
 2345 Faulty spark plug wires (Chapter 1). Vacuum leaks (Chapter 1). Incorrect ignition timing (Chapter 1). Uneven or low compression (Chapter 2).
 
 ### 10 Engine misses throughout the driving speed range
-`hyundai_elantra_ru_en_d4feac3b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1 Fuel filter clogged and/or impurities in the fuel system (Chapter 1).
 2 Low fuel pressure (Chapter 4).
@@ -825,14 +761,12 @@ erly (Chapter 1).
 9 Vacuum leak in fuel injection system (Chapter 4), intake manifold (Chapter 2A) or vacuum hoses.
 
 ### 11 Engine stumbles on acceleration
-`hyundai_elantra_ru_en_684f9eb3` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 12345 Fuel filter clogged (Chapters 1 and 4).
 Incorrect ignition timing (Chapter 5).
 Intake air leak (Chapters 2 and 4).
 
 ### 12Engine surges while holding accelerator steady
-`hyundai_elantra_ru_en_2b937765` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 123 Intake air leak (Chapter 4). Fuel pump faulty (Chapter 4). Loose fuel injector wire harness connec
 tors (Chapter 4).
@@ -840,7 +774,6 @@ tors (Chapter 4).
 (Chapter 6).
 
 ### 1Engine stalls
-`hyundai_elantra_ru_en_cfa710d2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Idle speed incorrect (Chapter 1).
 2 Fuel filter clogged and/or water and impurities in the fuel system (Chapters 1 and 4).
@@ -850,7 +783,6 @@ Faulty emissions system components (Chapter 6).
 5 Faulty spark plug wires (Chapter 1). 6 Vacuum leak in the intake manifold or vacuum hoses (Chapters 2 and 4). 7 Valve clearances incorrectly set (Chapter 1).
 
 ### 1 Engine lacks power
-`hyundai_elantra_ru_en_56f6ce1c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Incorrect ignition timing (Chapter 5). 2 Faulty or incorrectly gapped spark plugs (Chapter 1).
 3 Fuel injection system malfunction (Chapter 4).
@@ -864,7 +796,6 @@ Incorrect ignition timing (Chapter 5). 2 Faulty or incorrectly gapped spark plug
 11Obstructed exhaust system (Chapter 4).
 
 ### 15 Engine backfires
-`hyundai_elantra_ru_en_d74189d4` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 7 Emission control system not functioning properly (Chapter 6).
 2 Ignition timing incorrect (Chapter 5).
@@ -874,13 +805,11 @@ Incorrect ignition timing (Chapter 5). 2 Faulty or incorrectly gapped spark plug
 6 Valve clearances incorrectly set and/or valves sticking (Chapter 1).
 
 ### 16 Pinging or knocking engine sounds during acceleration or uphill
-`hyundai_elantra_ru_en_107a09aa` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1234 e Fuel injection system faulty (Chapter 4). Improper or damaged spark plugs or wires (Chapter 1).
 567 Knock sensor malfunctioning (Chapter 6).
 
 ### 19 Battery will not hold a charge
-`hyundai_elantra_ru_en_0fa0bcaf` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 1 Alternator drivebelt defective or not adjusted properly (Chapter 1).
 2 Battery electrolyte level low (Chapter 1). S Battery terminals loose or corroded (Chapter 1).
@@ -890,21 +819,18 @@ Incorrect ignition timing (Chapter 5). 2 Faulty or incorrectly gapped spark plug
 / Internally defective battery (Chapters 1 and 5).
 
 ### 20 Alternator light fails to go out
-`hyundai_elantra_ru_en_c39282cc` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Faulty alternator or charging circuit (Chapter 5).
 2 Alternator drivebelt defective or out of adjustment (Chapter 1).
 3 Alternator voltage regulator inoperative (Chapter 5).
 
 ### 21 Alternator light fails to come on when key is turned on
-`hyundai_elantra_ru_en_3bc0f74d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning light bulb defective (Chapter 5). 2 Fault in the printed circuit, dash wiring or bulb holder (Chapter 12).
 
 Fuel system
 
 ### 22 Excessive fuel consumption
-`hyundai_elantra_ru_en_c415ed76` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Dirty or clogged air filter element (Chapter 1).
 Incorrectly set ignition timing (Chapters 1 and 5).
@@ -913,7 +839,6 @@ Emissions system not functioning properly (Chapter 6).
 Low tire pressure or incorrect tire size (Chapter 1).
 
 ### 23Fuel leakage and/or fuel odor
-`hyundai_elantra_ru_en_a0ed2383` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 1 Leaking fuel feed or return line (Chapters
 1 and 4).
@@ -923,7 +848,6 @@ Low tire pressure or incorrect tire size (Chapter 1).
 4 Fuel injectors faulty (Chapter 4).
 
 ### 24Overheating
-`hyundai_elantra_ru_en_010a577a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Insufficient coolant in system (Chapter 1).
 2 Radiator core blocked or grille restricted (Chapter 3).
@@ -933,14 +857,12 @@ Insufficient coolant in system (Chapter 1).
 6Ignition timing incorrect (Chapter 5).
 
 ### 25 Overcooling
-`hyundai_elantra_ru_en_2c0eea05` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Faulty thermostat (Chapter 3).
 2 Inaccurate temperature gauge sending unit (Chapter 3).
 3 Electric cooling fan circuit problem (Chapter 3).
 
 ### 26 External coolant leakage
-`hyundai_elantra_ru_en_52bd88b3` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Deteriorated/damaged hoses;loose clamps (Chapters 1 and 3).
 2 Water pump defective (Chapter 3).
@@ -948,19 +870,16 @@ Insufficient coolant in system (Chapter 1).
 4 Engine drain or water jacket core plugs leaking (Chapter 2).
 
 ### 29 Poor coolant circulation
-`hyundai_elantra_ru_en_b6b9010d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Inoperative water pump (Chapter 3). 2 Restriction in cooling system (Chapters 1 and 3). Thermostat sticking (Chapter 3).
 
 ### 30 Pedal travels to floor - no pressure or very little resistance
-`hyundai_elantra_ru_en_6652e666` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1No fluid in reservoir (Chapter 1)
 
 Faulty clutch master cylinder, release cylinder or hydraulic line (Chapter 8). 3 Broken release bearing or fork (Chapter 8).
 
 ### 31 Unable to select gears
-`hyundai_elantra_ru_en_1d88b0bd` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 -23 Faly aC
 Release lever and bearing not assembled properly (Chapter 8).
@@ -968,7 +887,6 @@ Release lever and bearing not assembled properly (Chapter 8).
 5 Pressure plate-to-flywheel bolts loose (Chapter 8).
 
 ### 32Clutch slips (engine speed increases with no increase in vehicle speed)
-`hyundai_elantra_ru_en_e6a752c9` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Clutch plate worn (Chapter 8).
 2 Clutch plate is oil soaked by leaking rear main seal (Chapter 8).
@@ -976,7 +894,6 @@ Release lever and bearing not assembled properly (Chapter 8).
 5 6 Weak diaphragm spring (Chapter 8). Clutch plate overheated. Allow to cool.
 
 ### 33Grabbing (chattering) as clutch is engaged
-`hyundai_elantra_ru_en_872e99a4` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Oil on clutch plate lining, burned or glazed facings (Chapter 8).
 2 Worn or loose engine or transaxle mounts (Chapters 2 and 7).
@@ -985,38 +902,32 @@ Release lever and bearing not assembled properly (Chapter 8).
 5 Burned or smeared resin on flywheel or pressure plate (Chapter 8).
 
 ### 36Clutch pedal stays on floor
-`hyundai_elantra_ru_en_88f075b2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Faulty clutch master or release cylinder (Chapter 8).
 2. Broken release bearing or fork (Chapter 8).
 
 ### 37 High pedal effort
-`hyundai_elantra_ru_en_e3f9f9b7` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Piston binding in bore of clutch master or release cylinder (Chapter 8). 2 Pressure plate faulty (Chapter 8).
 
 ### 38 Knocking noise at low speeds
-`hyundai_elantra_ru_en_e5c970da` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Worn driveaxle constant velocity (CV) joints (Chapter 8).
 2 Worn driveaxle bore in diffrential case (Chapter 7A).\*
 
 ### 40 Clunk on acceleration or deceleration
-`hyundai_elantra_ru_en_5f5a52b0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Loose engine or transaxle mounts (Chapters 2 and 7A).
 2 Worn differential pinion shaft in case.\* 3 Worn driveaxle bore in differential case (Chapter 7A).\*
 4 Worn or damaged driveaxle inboard CV joints (Chapter 8).
 
 ### 42 Vibration
-`hyundai_elantra_ru_en_c58ae392` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Rough wheel bearing (Chapters 1
 and 10).
 2345 Damaged driveaxle (Chapter 8). Out-of-round tires (Chapter 1). Tire out of balance (Chapters 1 and 10). Worn CV joint (Chapter 8).
 
 ### 44Noisy in one particular gear
-`hyundai_elantra_ru_en_1fec2d92` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1Damaged or worn constant mesh gears (Chapter 7A).\*
 2 Damaged or worn synchronizers (Chapter 7A).\* 34
@@ -1024,12 +935,10 @@ gear (Chapter 7A).
 5 Worn or damaged reverse idler gear or idler bushing (Chapter 7A)."
 
 ### 45 Noisy in all gears
-`hyundai_elantra_ru_en_45bb4089` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Insufficient lubricant (Chapter 7A). 2 Damaged or worn bearings (Chapter 7A). 8 3 Worn or damaged input gear shaft and/or output gear shaft (Chapter 7A).\*
 
 ### 46Slips out of gear
-`hyundai_elantra_ru_en_8d92bed1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Worn or improperly adjusted linkage (Chapter 7A).
 2 Transaxle loose on engine (Chapter 7A). 3 Shift linkage does not work freely, binds (Chapter 7A).
@@ -1038,24 +947,20 @@ Worn or improperly adjusted linkage (Chapter 7A).
 6Worn shift fork (Chapter 7A).\*
 
 ### 47 Leaks lubricant
-`hyundai_elantra_ru_en_f769c449` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Driveaxle oil seals worn (Chapter 7). 2 Excessive amount of lubricant in transaxle (Chapters 1 and 7A). 3 Loose or broken input gear shaft bearing retainer (Chapter 7A).\* 4 Input gear bearing retainer O-ring and/or lip seal damaged (Chapter 7A).\*
 
 ### 48 Locked in gear
-`hyundai_elantra_ru_en_80dc59ba` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Lock pin or interlock pin missing (Chapter 7A).\*
 
 \* Although the corrective action necessary to remedy the symptoms described is beyond the scope of the home mechanic, the above information should be helpful in isolating the cause of the condition so that the owner can communicate clearly with a professional mechanic.
 
 ### Automatic transaxle
-`hyundai_elantra_ru_en_1ad82978` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note: Due to the complexity of the automatic transaxle, it is difficult for the home mechanic to properly diagnose and service this component. For problems other than the following, the vehicle should be taken to a dealer or transmission shop.
 
 ### 49 Fluid leakage
-`hyundai_elantra_ru_en_3cab2697` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Automatic transmission fluid is a deep red color. Fluid leaks should not be confused with engine oil, which can easily be blown onto the transaxle by air flow.
 
@@ -1064,13 +969,11 @@ To pinpoint a leak, first remove all builtup dirt and grime from the transaxle h
 arscaue tr n) c) Transaxle ilinesChapter Speed sensor (Chapter 7
 
 ### 56Shudder or vibration during acceleration
-`hyundai_elantra_ru_en_3a3cfd3a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 123 E Worn or damaged inboard or outboard CV joints (Chapter 8).
 4 Sticking inboard CV joint assembly (Chapter 8).
 
 ### 61Excessive brake pedal effort required to stop vehicle
-`hyundai_elantra_ru_en_13d50d27` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Malfunctioning power brake booster (Chapter 9).
 2 Partial system failure (Chapter 9).
@@ -1080,7 +983,6 @@ Brake pads or shoes contaminated with oil or grease (Chapter 9).
 6 New pads or shoes installed and not yet seated. It willtake a while for the new material to seat against the disc or drum.
 
 ### 51General shift mechanism problems
-`hyundai_elantra_ru_en_0b6f8fcd` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Chapter 7, Part B, deals with checking and adjusting the shift linkage on automatic transaxles. Common problems which may be atributed to poorly adjusted linkage are:
 
@@ -1091,28 +993,24 @@ Vehicle moves when in Park.
 Refer to Chapter 7 for the shift linkage adjustment procedure.
 
 ### 53Engine will start in gears other than Park or Neutral
-`hyundai_elantra_ru_en_650c0e90` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Out of balance front wheels and/or tires (Chapters 1 and 10).
 2 Out of round front tires (Chapters 1 and 10).
 3 Worn CV joint(s) (Chapter 8).
 
 ### Brakes
-`hyundai_elantra_ru_en_2798c692` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note: Before assuming that a brake problem exists, make sure that:
 
 Neutral start switch malfunctioning (Chapter 7B).
 
 ### 54Transaxle slips, shifts roughly, is noisy or has no drive in forward or reverse gears
-`hyundai_elantra_ru_en_ebf7c2c5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 a The tires are in good condition and properly inflated (Chapter1.
 b) The front end alignment is correct (Chapter 10).
 c) The vehicle is not loaded with weight in an unequal manner.
 
 ### 58Vehicle pulls to one side during braking
-`hyundai_elantra_ru_en_aba719fb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 There are many probable causes for the above problems, but the home mechanic should be concerned with only fluid level and fluid and filter condition. Before taking the vehicle to a repair shop, check the level and condition of the fluid as described in Chapter 1. Correct the fluid level as necessary or change the fluid and filter if needed. If the problem persists, have a professional diagnose the cause.
 
@@ -1129,7 +1027,6 @@ Disc brake pads worn out (Chapter 9).
 1 Partial brake system failure (Chapter 9). 2 Insufficient fluid in master cylinder (Chapters 1 and 9). Air trapped i system (Chapters and 9.
 
 ### 63Dragging brakes
-`hyundai_elantra_ru_en_69b6b407` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Incorrect adjustment of brake light switch (Chapter 9).
 Master cylinder pistons not returning correctly (Chapter 9). 2
@@ -1137,14 +1034,12 @@ Master cylinder pistons not returning correctly (Chapter 9). 2
 Incorrect parking brake adjustment (Chapter 9).
 
 ### 64Grabbing or uneven braking action
-`hyundai_elantra_ru_en_11fa1b99` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Brake pads or shoes worn out (Chapter 9).
 2 Malfunction of proportioning valve (Chapter 9).
 3 Binding brake pedal mechanism (Chapter 9).
 
 ### 66Brake pedal travels to the floor with little resistance
-`hyundai_elantra_ru_en_dd51e7aa` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Little or no fluid in the master cylinder
 
@@ -1153,7 +1048,6 @@ reservoir caused by a leak in the system (Chapter 9).
 3 Defective master cylinder (Chapter 9).
 
 ### Suspension and steering systems
-`hyundai_elantra_ru_en_8a0fd47e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note: Before attempting to diagnose the suspension and steering systems, perform the following preliminary checks:
 
@@ -1163,14 +1057,12 @@ c) Front and rear suspension and the steering gear assembly for loose or damaged
 Out-of-round or out-of-balance tires, bent rims and loose andlor rough wheel bearings.
 
 ### 68Vehicle pulls to one side
-`hyundai_elantra_ru_en_b2ce624d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Mismatched or uneven tires (Chap
 ter 10).
 234 Broken or sagging springs (Chapter 10). Wheel alignment (Chapter 10). Front brake dragging (Chapter 9).
 
 ### 69 Abnormal or excessive tire wear
-`hyundai_elantra_ru_en_39fdaa17` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 123456 Wheel alignment (Chapter 10).
 Sagging or broken springs (Chapter 10).
@@ -1180,7 +1072,6 @@ Overloaded vehicle.
 Tires not rotated regularly.
 
 ### 71 Shimmy, shake or vibration
-`hyundai_elantra_ru_en_c45564e2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Tire or wheel out-of-balance or out-ofround (Chapter 10).
 2 Loose or wormn front hub or wheel bearings (Chapters 1, 8 and 10). .
@@ -1189,17 +1080,14 @@ Tire or wheel out-of-balance or out-ofround (Chapter 10).
 5 Excessive wheel runout (Chapter 10). 6 Blister or bump on tire (Chapter 10).
 
 ### 72 Hard steering
-`hyundai_elantra_ru_en_d7a6c0dd` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Lack of lubrication at balljoints and tierod ends (Chapters 1 and 10). 23 Front wheel alignment (Chapter 10). Low tire pressure(s) (Chapters 1 and 10).
 
 ### 7 Poor returnability of steering to center
-`hyundai_elantra_ru_en_26ff8a90` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Lack of lubrication at balljoints and tierod ends (Chapters 1 and 10). 2 Binding in balljoints (Chapter 10). 3 Binding in steering column (Chapter 10). V Lack of lubricant in steering gear assembly (Chapter 10). 5 Front wheel alignment (Chapter 10).
 
 ### 74 Abnormal noise at the front end
-`hyundai_elantra_ru_en_f186e8a1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:suspension | p:1 | doc_type:service_manual
 
 Lack of lubrication at balljoints and tie
 rod ends (Chapters 1 and 10).
@@ -1210,7 +1098,6 @@ ends (Chapter 10).
 4 5 6 Loose stabilizer bar (Chapter 10). Loose wheel nuts (Chapters 1 and 10). Loose suspension bolts (Chapter 10)
 
 ### 75 Wander or poor steering stability
-`hyundai_elantra_ru_en_d639300c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Mismatched or uneven tires (Chap
 ter 10).
@@ -1220,33 +1107,28 @@ rod ends (Chapters 1 and 10).
 456 Loose stabilizer bar (Chapter 10). Broken or sagging springs (Chapter 10). Wheels out of alignment (Chapter 10).
 
 ### 76Erratic steering when braking
-`hyundai_elantra_ru_en_60fbc31b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 123 Front hub bearings worn (Chapter 10). Broken or sagging springs (Chapter 10). Leaking wheel cylinder or caliper (Chap
 ter 10).
 4 Warped discs or drums (Chapter 10).
 
 ### 7 Cupped tires
-`hyundai_elantra_ru_en_13897fd8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Front wheel or rear wheel alignment
 (Chapter 10). Worn strut assemblies (Chapter 10). Wheel bearings worn (Chapter 10). Excessive tire or wheel runout (Chap
 5 Worn baljoints (Chapter 10).
 
 ### 80Excessive tire wear on outside edge
-`hyundai_elantra_ru_en_86de7f1b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Inflation pressures incorrect (Chapter 1). Excessive speed in turns. Front end alignment incorrect (excessive toe-in). Have professionally aligned. 7 4 Suspension arm bent or twisted (Chapter 10).
 
 ### 82Tire tread worn in one place
-`hyundai_elantra_ru_en_e514253c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 12 Tires out of balance. Damaged or buckled wheel. Inspet and
 replace if necessary.
 3 Defective tire (Chapter 1).
 
 ### Recommended lubricants and fluids
-`hyundai_elantra_ru_en_caf08035` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note Manuacturers ccasionaly upgrade their fuidand lubriant specifcations.Check with your local auto parsstr fo the most current rec
 ommendations.
@@ -1262,7 +1144,6 @@ Ful ... Unleaded gasoline, 87 octane or higher 50/50 mixture of ethylene glycol 
 Engine oil viscosity chart - for best fuel economy and cold starting, select the lowest SAE viscosity grade for the expected temperature range
 
 ### Capacities\*
-`hyundai_elantra_ru_en_7bad11a5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 E 4.5 qts (4.2 liters)
 Automatic transaxle\*\* … 8.2 qts (7.7 liters)
@@ -1272,7 +1153,6 @@ All capacities approximate. Fil below total capacity, then add as necessary to b
 Liste ceecieul eheest mt fluid to add during a routine fluid change is to measure the amount drained.
 
 ### Ignition system
-`hyundai_elantra_ru_en_b5a89740` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Spark plug type and gap 2000 and earlier
 
@@ -1283,17 +1163,14 @@ Engine firing order... 1-3-4-2
 Ignition timing . 2000 5 to 15 degrees BTDC 2001 4 to 13 degrees BTDC
 
 ### Accessory drivebelt deflection
-`hyundai_elantra_ru_en_629cd2a0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Power  .. …… 1/4 to 3/8-inch (6.3 to 9.5 mm) Alternator. 1/4 to 5/16-inch (6.3 to 8.5 mm) Air conditioning compressor.. 5/16-inch (8 mm)
 
 ### Brakes
-`hyundai_elantra_ru_en_776249fb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Disc brake pad lining thickness (minimum) … ……………… 1/16-inch (1.5 mm) Drum brake shoe lining thickness (minimum). … 1/16-inch (1.5 mm) Parking brake adjustment. ………………… 8 clicks
 
 ### Torque specifications
-`hyundai_elantra_ru_en_ce9e7aee` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 O _ 25 to 33 35 to 45
 Automatic transaxle Prai poits 24 to  n.bs 2 9.40 40.8
@@ -1304,7 +1181,6 @@ SPO 00② Enipader nmd
 ![](images/93274c41373d7a78a5cbe5fda317c4c9f5fbbb404afed07ec34ee0eafbc62bfb.jpg)
 
 ### Typical engine compartment layout (2000 and earlier model)
-`hyundai_elantra_ru_en_f1ff3636` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 2345 Fuserlaytpa slndereer Air fiter housing Battery Automatic transaxle fluid dipstick
 
@@ -1320,7 +1196,6 @@ SPO 00② Enipader nmd
 ![](images/c63511c7c3dbd734feefabf3e21fe36f9ea48210f4bacb170a37e7387770ef11.jpg)
 
 ### Typical engine compartment layout (2001 model)
-`hyundai_elantra_ru_en_54122871` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 12345 Furserlay pa lendreor Airfliter housing Battery Automatic transaxle fluid dipstick
 
@@ -1360,7 +1235,6 @@ Fuel tank 2 Brake drum
 Typical rear underside components (2001 model)
 
 ### Hyundai Elantra Maintenance schedule
-`hyundai_elantra_ru_en_dc84a280` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The maintenance intervals in this manual are provided with the assumption that you, not the dealer, will be doing the work. These are the minimum maintenance intervals recommended by the factory for vehicles that are driven daily. If you wish to keep your vehicle in peak condition at all times, you may wish to perform some of these procedures even more often. Because frequent maintenance enhances the efficiency, performance and resale value of your car, we encourage you to do so. If you drive in dusty areas, tow a trailer, idle or drive at low speeds for extended periods or drive for short distances (less than four miles) in below freezing temperatures, shorter intervals are
 
@@ -1369,32 +1243,26 @@ also recommended.
 When your vehicle is new, follow the maintenance schedule to the letter, record the maintenance performed in your owners manual and keep all receipts to protect the new vehicle warranty. In many cases, the initial maintenance check is done at no cost to the owner.
 
 ### Every 250 miles or weekly, whichever comes first
-`hyundai_elantra_ru_en_7b75f516` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the engine oil level (Section 4) Check the engine coolant level (Section 4) Check the windshield washer fluid level (Section 4) Check the brake and clutch fluid level (Section 4) Check the tires and tire pressures (Section 5)
 
 ### Every 3000 miles or 3 months, whichever comes first
-`hyundai_elantra_ru_en_6b90c8c3` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All items listed above plus: Check the power steering fluid level (Section 6) Check the automatic transaxle fluid level (Section 7) Change the engine oil and oil filter (Section 8)
 
 ### Every 7500 miles or 6 months, whichever comes first
-`hyundai_elantra_ru_en_6f172d57` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All tems listed above plus: Seat belt check (Section 9) Inspect and replace, if necessary, the windshield wiper blades (Section 10) Check and service the battery (Section 11) Check and adjust, if necessary, the engine drivebelts (Section 12) Inspect and replace, if necessary, all underhood hoses (Section 13) Check the cooling system (Section 14) Rotate the tires (Section 15)
 
 ### Every 15,000 miles or 12 months, whichever comes first
-`hyundai_elantra_ru_en_14e3dd3b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All items listed above plus: Inspect the brake system (Section 16)\* Check the manual ransaxle lubricant level (Section17)
 
 ### Every 30,000 miles or 24 months, whichever comes first
-`hyundai_elantra_ru_en_29758401` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All items listed above plus: Replace the air filter (Section 18)\* Replace the spark plugs (Section 19) Inspect and replace, if necessary, the spark plug wires (Section 20) Check and, if necessary, replace the PCV valve (Section 21) Service the cooling system (drain, flush and refill) (Section 22) Replace the brake fluid (Section 23) Inspect the suspension, steering components and driveaxle boots (Section 24)\* Change the automatic transaxle fluid (Section 25)\*\* Change the manual transaxle lubricant (Section 26) Exhaust system check (Section 27) Inspect the fuel system (Section 28)
 
 ### Every 60,000 miles or 48 months, whichever comes first
-`hyundai_elantra_ru_en_c6c45fe3` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the fuel filter (Section 29) Replace the timing belt (Chapter 2A and 2B)
 
@@ -1416,7 +1284,6 @@ Operating when outside temperatures remain below freezing and when most trips ar
 In heavy city traffic or where the outside temperature regularly reaches 90-degrees F (32-degrees C) or higher
 
 ### Introduction
-`hyundai_elantra_ru_en_d0f76f4f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 This Chapter is designed to help the home mechanic maintain his/her car for peak performance, economy, safety and long life.
 
@@ -1431,7 +1298,6 @@ Finally, let's suppose you have to borrow or rent a torque wrench. Even if you o
 The first step of this maintenance program is to prepare you before the actual work begins. Read through all Sections pertinent to the procedures you're planning to do, then make a list of and gather together all the parts and tools you will need to do the job. If it looks as if you might run into problems during a particular segment of some procedure, seek advice from your local parts man or dealer service department.
 
 ### Owner's Manual and VECI label information
-`hyundai_elantra_ru_en_79ae4300` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Your vehicle owner's manual was written for your year and model and contains very specific information on component locations, specifications, fuse ratings, part numbers, etc. The Owner's Manual is an important resource for the do-it-yourselfer to have if one was not supplied with your vehicle, it can generally be ordered from a dealer parts department.
 
@@ -1442,7 +1308,6 @@ Among other important information, the Vehicle Emissions Control Information (VE
 This Chapter contains procedural details, safety information and more ambitious maintenance intervals than you might find in manufacturer's literature. However, you may find procedures or specifications in your Owner's Manual or VECI label that differ with what's printed here. In these cases, the Owner's Manual or VECI label can be considered correct, since it is specific to your particular vehicle.
 
 ### 3  Tune-up general information
-`hyundai_elantra_ru_en_048732a6` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The term tune-up is used in this manual to represent a combination of individual operations rather than one specific procedure.
 
@@ -1455,7 +1320,6 @@ The first step in any tune-up or engine diagnosis to help correct a poor running
 The following series of operations are those most often needed to bring a generally poor running engine back into a proper state of tune.
 
 ### Minor tune-up
-`hyundai_elantra_ru_en_66da84db` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Check all engine related fluids (Section 4)
 Clean, inspect and test the battery (Section 11)
@@ -1466,19 +1330,16 @@ Check the air filter (Section 18)
 Inspect the spark plug wires and ignition coil (Section 20)
 
 ### Major tune-up
-`hyundai_elantra_ru_en_37baadf3` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All items listed under minor tune-up, plus..
 
 Replace the air filter (Section 18) Replace the spark plugs (Section 19) Replace the spark plug wires (Section 20) Check the fuel system (Section 28)
 
 ### Fluid level checks (every 250 miles or weekly)
-`hyundai_elantra_ru_en_74f2a13e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Fluids are an essential part of the lubrication, cooling, brake, clutch and other systems. Because these fluids gradually become depleted and/or contaminated during normal operation of the vehicle, they must be periodically replenished. See Recommended lubricants, fluids and capacities at the beginning of this Chapter before adding fluid to any of the following components. Note: The vehicle must be on level ground before fluid levels can be checked.
 
 ### Engine oil
-`hyundai_elantra_ru_en_da637985` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustrations 4.2, 4.4 and 4.6
 
@@ -1497,7 +1358,6 @@ Refer to illustrations 4.2, 4.4 and 4.6
 7 Checking the oil level is an important preventive maintenance step. A continually dropping oil level indicates oil leakage through damaged seals, from loose connections, or past worn rings or valve guides. If the oil looks milky in color or has water droplets in it, a cylinder head gasket may be blown or the oil cooler could be leaking. The engine should be checked immediately. The condition of the oil should also be checked. Each time you check the oil level, slide your thumb and index finger up the dipstick before wiping off the oil. If you see small dirt or metal particles clinging to the dipstick, the oil should be changed (see Section 8).
 
 ### Engine coolant
-`hyundai_elantra_ru_en_fb8bc0f4` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: Do not allow antifreeze to come in contact with your skin or painted surfaces of the vehicle. Rinse off spills immediately with plenty of water. Antifreeze is highly toxic if ingested. Never leave antifreeze lying around in an open container or in puddles on the floor; children and pets are attracted by its sweet smell and may drink it. Check with local authorities on disposing of used anti-freeze. Many communities have collection centers, which will see that antifreeze is disposed of safely.
 
@@ -1512,7 +1372,6 @@ Note: Non-toxic antifreeze is now manufactured and available at local auto parts
 12When checking the coolant level, always note its condition. It should be relatively clear. If it is brown or rust colored, the system should be drained, flushed and refilled. Even if the coolant appears to be normal, the corrosion inhibitors wear out with use, so it must be replaced at the specified intervals.
 
 ### Engine coolant
-`hyundai_elantra_ru_en_e416ca5c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 13 Do not allow antifreeze to come in contact with your skin or painted surfaces of the vehicle. Flush contacted areas immediately with plenty of water.
 
@@ -1523,14 +1382,12 @@ Note: Non-toxic antifreeze is now manufactured and available at local auto parts
 4.14bFlip up the cap to add fluid to the rear window washer reservoir
 
 ### Washer fluid
-`hyundai_elantra_ru_en_4a82cd12` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 4.14a and 4.14
 
 14Fluid for the windshield washer system is stored in a plastic reservoir, which is located in the front corner of the engine compartment. Check the windshield washer float in the reservoir filler neck to make sure it is near the top of the neck. The rear window fluid reservoir is located behind a panel in the right side of the luggage compartment (see illustrations). Make sure the level is near the top of the filler neck. In milder climates, plain water can be used to top up the reservoir, but the reservoir should be kept no more than 2/3 full to allow for expansion should the water freeze. In colder climates, the use of a specially designed windshield washer fluid, available at your dealer and any auto parts store, will help lower the freezing point of the fluid. Mix the solution with water in accordance with the manufacturer's directions on the container. Do not use regular antifreeze. It will damage the vehicle's paint.
 
 ### Brake and clutch fluid
-`hyundai_elantra_ru_en_0ea5e5bb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustration 4.16
 
@@ -1554,7 +1411,6 @@ After filling the reservoir to the proper level, make sure the lid is properly s
 Section 16 for more information). A drop in the clutch reservoir level indicates a leak in the clutch hydraulic system (see Chapter 8). 22 If, upon checking the brake master cylinder fluid level, you discover an empty or nearly empty reservoir, the brake system should be bled (see Chapter 9).
 
 ### 5Tire and tire pressure checks (every 250 miles or weekly)
-`hyundai_elantra_ru_en_ddfb1202` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Refer to illustrations 5.2, 5.3, 5.4a, 5.4b and 5.8
 
@@ -1583,7 +1439,6 @@ Note any abnormal tread wear (see illustration). Tread pattern irregularities su
 6Correct tire air pressure adds miles to the lifespan of the tires, improves mileage and enhances overall ride quality. Tire pressure cannot be accurately estimated by looking at a tire, particularly if it is a radial. A tire pressure gauge is therefore essential. Keep an accurate gauge in the glovebox. The pressure gauges fitted to the nozzles of air hoses at gas stations are often inaccurate.
 
 ### 5Tire and tire pressure checks (every 250 miles or weekly)
-`hyundai_elantra_ru_en_33a01c87` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 7 Always check tire pressure when the tires are cold. "Cold," in this case, means the vehicle has not been driven over a mile in the three hours preceding a tire pressure check. A pressure rise of four to eight pounds is not uncommon once the tires are warm.
 
@@ -1597,7 +1452,6 @@ Don't forget to keep the spare tire inflated to the specified pressure (consult 
 ![](images/8efaefb176a6aed5bbab4fc2c598e596d2133a6c0b41a04317204c3c931234e6.jpg)
 
 ### 8.2 These tools are required when changing the engine oil and filter
-`hyundai_elantra_ru_en_fe41cac2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Drain pan - It should be fairly shallow in depth, but wide to prevent spills Rubber gloves - When removing the drain plug and filter, you will get oil on your hands (the gloves will prevent burs
 3 Breaker bar - Sometimes the oil drain plug is tight, and a long breaker bar is needed to loosen it
@@ -1610,7 +1464,6 @@ Don't forget to keep the spare tire inflated to the specified pressure (consult 
 7.3The automatic transaxle dipstick (arrow) is located below the air filter housing
 
 ### 6Power steering fluid level check (every 3000 miles or 3 months)
-`hyundai_elantra_ru_en_618095a5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The power steering system relies on fluid, which may, over a period of time, require replenishing.
 The fluid reservoir for the power steering pump is located on the right inner fender panel near the front of the engine compartment.
@@ -1620,7 +1473,6 @@ If additional fluid is required, pour the specified type directly into the reser
 6 If the reservoir requires frequent fluid additions, all power steering hoses, hose connections, the power steering pump and the steering gear should be carefully checked forJeaks.
 
 ### 7Automatic transaxle fluid level check (every 3000 miles or 3 months)
-`hyundai_elantra_ru_en_84ea0e8d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustrations 7.3 and 7.5
 
@@ -1640,7 +1492,6 @@ be between the upper and lower marks on the dipstick. If the level is low, add t
 7The condition of the fluid should also be checked along with the level. If the fluid at the end of the dipstick is black or a dark reddish brown color, or if it emits a burned smell, the fluid should be changed (see Section 27). If you are in doubt about the condition of the fluid, purchase some new fluid and compare the two for color and smell.
 
 ### 8Engine oil and oil filter change (every 3000 miles or 3 months)
-`hyundai_elantra_ru_en_3240b7d9` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Refer to illustrations 8.2, 8.7, 8.12 and 8.14
 
@@ -1678,7 +1529,6 @@ Make sure you have all the necessary tools before you begin this procedure (see 
 12Loosen the oil filter (see illustration) by turning it counterclockwise with an oil filter wrench. Once the filter is loose, use your hands to unscrew it from the block. Just as the filter is detached from the block, immediately tilt the open end up to prevent the oil inside the filter from spilling out. Warning: The exhaust system may still be hot, so be careful.
 
 ### 8Engine oil and oil filter change (every 3000 miles or 3 months)
-`hyundai_elantra_ru_en_02c03048` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 13 With a clean rag, wipe off the mounting surface on the block. If a residue of old oil is allowed to remain, it will smoke when the block is heated up. Also make sure that none of the old gasket remains stuck to the mounting surface. It can be removed with a scraper if necessary.
 
@@ -1697,7 +1547,6 @@ Make sure you have all the necessary tools before you begin this procedure (see 
 20Used motor oil cannot be re-used in its present state and should be recycled. Oil reclamation centers, auto repair shops and gas stations will normally accept the oil, which can be refined and used again. After the oil has cooled, it can be drained into a suitable container (capped plastic jugs, topped bottles, milk cartons, etc.) for transport to one of these recycling sites. New or used oil should never be allowed to go into street drains or into the ground.
 
 ### 9Seat belt check (every 15,000 miles or 12 months)
-`hyundai_elantra_ru_en_4f7d97a5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check seat belts, buckles, latch plates and guide loops for obvious damage and signs of wear.
 
@@ -1708,7 +1557,6 @@ Check seat belts, buckles, latch plates and guide loops for obvious damage and s
 4If any of the above checks reveal problems with the seat belt system, replace parts as necessary.
 
 ### 10 Windshield wiper blade inspection and replacement (every 7500 miles or 6 months)
-`hyundai_elantra_ru_en_8ce464fb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 10.6, 10.7 and 10.8
 
@@ -1731,12 +1579,10 @@ Remove the metal retainers from the element and install them in the new element 
 10 Place the metal arm assembly in the hook on the wiper arm and press it into place until the lock tab snaps into place.
 
 ### Battery check, maintenance and charging (every 7500 miles or 6 months)
-`hyundai_elantra_ru_en_67189c30` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: Certain precautions must be followed when checking and servicing the battery. Hydrogen gas, which is highly flammable, is always present in the battery cells, so keep lighted tobacco and all other open flames and sparks away from the battery. The electrolyte inside the battery is actually dilute sulfuric acid, which willcause injury if splashed on your skin or in your eyes. It will aiso ruin clothes and painted surfaces. When removing the battery cables, always detach the negative cable first and hook it up last! Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code.
 
 ### Check
-`hyundai_elantra_ru_en_2dc7961a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Refer to illustration 11.1
 
@@ -1770,13 +1616,11 @@ Note the external condition of the battery. If the positive terminal and cable c
 6 Some models with sealed batteries have a battery condition indicator on top of the battery. Compare the color showing in the window to the condition color chart on the battery. You may catch a low-charge battery condition before it strands you on the roadside. If the color indicates a low state of charge, charge the battery and examine the charging system (see Chapter 5 and this Section).
 
 ### Check
-`hyundai_elantra_ru_en_55e5f1a4` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a604262b37919e255480eb929f5012cfdd3f96f27959572c67a6eec5816dca4e.jpg)
 11.7a Battery terminal corrosion usually appears as light, fluffy powder
 
 ### Maintenance
-`hyundai_elantra_ru_en_de18732e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Refer to illustrations 11.7a, 11.7b, 11.8a and 11.8b
 
@@ -1807,7 +1651,6 @@ ual. For more detailed battery checking procedures, refer to the Haynes Automoti
 13 Make sure that the battery tray is in good condition and the hold-down clamp bolts are tight. If the battery is removed from the tray, make sure no parts remain in the bottom of the tray when the battery is reinstalled. When reinstalling the hold-down clamp bolts, do not overtighten them.
 
 ### Charging
-`hyundai_elantra_ru_en_197380de` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Warning: When batteries are being charged, hydrogen gas, which is very explosive and flammable, is produced. Do not smoke or allow open flames near a charging or a recently charged battery. Wear eye protection when near the battery during charging. Also, make sure the charger is unplugged before connecting or disconnecting the battery from the charger.
 
@@ -1824,7 +1667,6 @@ Warning: When batteries are being charged, hydrogen gas, which is very explosive
 6The average time necessary to charge a battery should be listed in the instructions that come with the charger. As a general rule, a trickle charger will charge a battery in 12 to 16 hours.
 
 ### Check
-`hyundai_elantra_ru_en_3399e600` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:steering | p:1 | doc_type:service_manual
 
 Refer to illustrations 12.3 and 12.4
 
@@ -1846,7 +1688,6 @@ The number of belts used on a particular vehicle depends on the accessories inst
 4The tension of each belt is checked by pushing on the belt at a distance halfway between the pulleys. Push firmly with your thumb and see how much the belt moves (deflects) (see illustration). As rule of thumb, if the distance from pulley center-to-pulley center is between 7 and 11 inches, the belt should deflect 1/4-inch. If the belt travels between pulleys spaced 12 to 16 inches apart, the belt should deflect 1/2-inch.
 
 ### Adjustment
-`hyundai_elantra_ru_en_e845632a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 o the can t use ar rat
 
@@ -1857,7 +1698,6 @@ Refer to illustrations 12.5a 12.5b and 12.5c
 6 After the belts have been adjusted, measure the belt tension in accordance with one of the above methods. Repeat the adjustment procedure until the drivebelt is tensioned properly.
 
 ### Replacement
-`hyundai_elantra_ru_en_1d876d5f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 7 Follow the above adjustment procedures to loosen the belt, slip the belt off the pulleys and remove it. Since belts tend to wear out more or less at the same time, it's a good idea to replace all of them at the same time.
 
@@ -1879,12 +1719,10 @@ front of a in the
 Install the belt by reversing the removal procedures. When installing a ribbed belt, make sure it is centered on the pulleys, it must not overlap either edge of the pulleys. Adjust the belt as described earlier in this Section.
 
 ### 13Underhood hose check and replacement (every 7500 miles or 6 months)
-`hyundai_elantra_ru_en_e8edee2d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Caution: Replacement of air conditioning hoses must be left to a dealer service department or air conditioning shop that has the equipment to evacuate the system safely. Never remove air conditioning components or hoses until the system has been evacuated and the refrigerant recovered by an air conditioning shop.
 
 ### General
-`hyundai_elantra_ru_en_a48d3e85` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 High temperatures in the engine compartment can cause the deterioration of the rubber and plastic hoses used for engine, accessory and emission systems operation. Periodic inspection should be made for cracks, loose clamps, material hardening and leaks.
 
@@ -1893,7 +1731,6 @@ Information specific to the cooling system hoses can be found in Section 14.
 3 Some, but not all, hoses are secured to the fitings with clamps. Where clamps are used, check to be sure they haven't lost their tension, allowing the hose to leak. If clamps aren't used, make sure the hose has not expanded and/or hardened where it slips over the fitting, allowing it to leak.
 
 ### Vacuum hoses
-`hyundai_elantra_ru_en_f63ff0f8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 4 Its quite common for vacuum hoses, especially those in the emissions system, to be color coded or identified by colored stripes molded into them. Various systems require hoses with different wall thickness, collapse resistance and temperature resistance. When replacing hoses, be sure the new ones are made of the same material.
 
@@ -1904,7 +1741,6 @@ Information specific to the cooling system hoses can be found in Section 14.
 7A small piece of vacuum hose (1/4-inch inside diameter) can be used as a stethoscope to detect vacuum leaks. Hold one end of the hose to your ear and probe around vacuum hoses and fittings, listening for the "hissing" sound characteristic of a vacuum leak. Warning: When probing with the vacuum hose stethoscope, be very careful not to come into contact with moving engine components such as the drivebelts, cooling fan, etc.
 
 ### Fuel hose
-`hyundai_elantra_ru_en_b1107c0f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: Gasoline is extremely flammable, so take extra precautions when you work on any part of the fuel system. Don't smoke or allow open flames or bare light bulbs near the work area, and don't work in a garage where a gas-type appliance (such as a water heater or clothes dryer) is present. Since gasoline is carcinogenic, wear latex gloves when there's a possibility of being exposed to fuel, and, if you spill any fuel on your skin, rinse it off immediately with soap and water. Mop up any spills immediately and do not store fuelsoaked rags where they could ignite. The fuel system is under constant pressure, so, if any fuel lines are to be disconnected, the fuel pressure in the system must be relieved first (see Chapter. 4 for more information). When you perform any kind of work on the fuel system, wear safety glasses and have a Class B type fire extinguisher on hand.
 
@@ -1913,7 +1749,6 @@ Warning: Gasoline is extremely flammable, so take extra precautions when you wor
 9When replacing hose, use only hose that is specifically designed for your fuel injection system.
 
 ### Metal lines
-`hyundai_elantra_ru_en_7f00e8cf` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 10Sections of metal line are often used for fuel line between the fuel pump and fuel injection system. Check carefully to be sure the line nas not been bent or crimped and that cracks have not started in the line.
 
@@ -1922,7 +1757,6 @@ Warning: Gasoline is extremely flammable, so take extra precautions when you wor
 Check the metal brake lines where they enter the master cylinder and brake proportioning unit (if used) for cracks in the lines or loose fittings. Any sign of brake fluid leakage calls for an immediate, thorough inspection of the brake system.
 
 ### Refer to illustration 14.4
-`hyundai_elantra_ru_en_bd7967c8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 1 Many major engine failures can be attributed to a faulty cooling system. If the vehicle is equipped with an automatic transaxle, the cooling system also cools the transmission fluid and thus plays an important role in prolonging transaxle life.
 
@@ -1960,12 +1794,10 @@ Carefully check the large upper and lower radiator hoses along with the smaller 
 6Use compressed air or a soft brush to remove bugs, leaves, etc. from the front of the radiator or air conditioning condenser. Be careful not to damage the delicate cooling fins or cut yourself on them.
 
 ### Refer to illustration 14.4
-`hyundai_elantra_ru_en_3c0c11f8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Every other inspection, or at the first indication of cooling system problems, have the cap and system pressure tested. If you don't have a pressure tester, most gas stations and repair shops will do this for a minimal charge.
 
 ### 15Tire rotation (every 7500 miles or 6 months)
-`hyundai_elantra_ru_en_eb2e7fec` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Refer to illustration 15.2
 
@@ -1987,7 +1819,6 @@ the lug nut tightness. Ideally, lug nuts should be torqued to Specifications wit
 6 For further information on the wheels and tires, refer to Chapter 10.
 
 ### 16Brake system check (every 15,000 miles or 12 months)
-`hyundai_elantra_ru_en_cc1cd4eb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: The dust created by the brake system may contain asbestos, which is harmful to your health. Never blow it out with compressed air and don't inhale any of it. An approved filtering mask should be worm when working on the brakes. Do not, under any circumstances, use petroleum-based solvents to clean brake parts. Use brake system cleaner onlyl Try to use non-asbestos replacement parts whenever possible.
 
@@ -2006,7 +1837,6 @@ or brake fluid leaks, usually onto the inside of the tire or wheel.
 5 Remove the wheels (see Jacking and towing at the front of this book, or your owner's manual, if necessary).
 
 ### Front and rear disc brakes
-`hyundai_elantra_ru_en_917356f4` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Refer to illustrations 16.7a, 16.7b, 16.9 and 16.11
 
@@ -2031,7 +1861,6 @@ Refer to illustrations 16.7a, 16.7b, 16.9 and 16.11
 1Before installing the wheels, check all brake lines and hoses for damage, wear, deformation, cracks, corrosion, leakage, bends and twists, particularly in the vicinity of the rubber hoses at the calipers (see illustration). Check the clamps for tightness and the connections for leakage. Make sure that all hoses and lines are clear of sharp edges, moving parts and the exhaust system. If any of the above conditions are noted, repair, reroute or replace the lines and/or fittings as necessary (see Chapter 9).
 
 ### Rear drum brakes
-`hyundai_elantra_ru_en_ceecf9c5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 16.15 and 16.17
 
@@ -2052,7 +1881,6 @@ Note the thickness of the lining material on both front and rear brake shoes. If
 2Repeat the procedure for the remaining wheel. If the inspection reveals that all parts are in good condition, reinstall the brake drums, install the wheels and lower the vehicle to the ground.
 
 ### Brake booster check
-`hyundai_elantra_ru_en_de323949` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 21Sit in the driver's seat and perform the following sequence of tests.
 2With the brake fully depressed, start the engine - the pedal should move down a little when the engine starts.
@@ -2066,7 +1894,6 @@ hold the pedal in for about 30 seconds - the pedal should neither sink nor rise.
 26 If your brakes do not operate as described, the brake booster has failed. Refer to Chapter 9 for the replacement procedure.
 
 ### Parking brake
-`hyundai_elantra_ru_en_dcb5ed00` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 27Slowly pull up on the parking brake and count the number of clicks you hear until the handle is up as far as it will go. The adjustment is correct if you hear the specified number of clicks (see this Chapter's Specifications). If you hear more or fewer clicks, it's time to adjust the parking brake (see Chapter 9).
 
@@ -2078,7 +1905,6 @@ hold the pedal in for about 30 seconds - the pedal should neither sink nor rise.
 ![](images/af592508315dfab0e1489b32576c989099b32803581d9976dfeb9220f47513c8.jpg)
 
 ### 17 Manual transaxle lubricant level check (every 15,000 miles or 12 months)
-`hyundai_elantra_ru_en_e0a70d58` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 17.2a and 17.2b
 
@@ -2092,7 +1918,6 @@ Install the plug and tighten it securely. Drive the vehicle a short distance, th
 18.2 Release all the air cleaner cover clips (arrows)
 
 ### 18Air filter replacement (every 30,000 miles or 24 months)
-`hyundai_elantra_ru_en_1b88e3d0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 18.2 and 18.4
 
@@ -2104,7 +1929,6 @@ At the specified intervals, the air filter should be replaced with a new one.
 Install the air cleaner cover and tighten the screws securely.
 
 ### 19Spark plug check and replacement (every 30,000 miles or 24 months)
-`hyundai_elantra_ru_en_c2f7c2e0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 19.2, 19.4a, 19.4b, 19.5a, 19.5b, 19.8, 19.9 and 19.10 1 The spark plug wires should be checked whenever new spark plugs are installed (see the next Section).
 
@@ -2114,7 +1938,6 @@ Refer to illustrations 19.2, 19.4a, 19.4b, 19.5a, 19.5b, 19.8, 19.9 and 19.10 1 
 ![](images/27a45ba1f1c091a09411e5829eda7f881b5c61b4ce46abb91a9b54192604a473.jpg)
 
 ### 17.2b .. . so you can easily add lubricant to the transaxle from above
-`hyundai_elantra_ru_en_969ce994` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 In most cases, the tools necessary for spark plug replacement include a spark plug socket which fits onto a ratchet (spark plug sockets are padded inside to prevent damage to the porcelain insulators on the new plugs), various extensions and a gap gauge to check and adjust the gap on the new plugs (see illustration). A special plug wire removal tool is available for separating the wire boots from the spark plugs and may be a good idea if the boots fit very tightly. A torque wrench should be used to tighten the new plugs. It is a good idea to allow the engine to cool before removing or installing the spark plugs.
 
@@ -2144,7 +1967,6 @@ advance, adjust them to the proper gap and replace the plugs one at a time. When
 5Check the gap by inserting the proper thickness gauge between the electrodes at the tip of the plug (see illustration). The gap between the electrodes should be the same as the one specified on the Emissions Control Information label or in Chapter 5. The wire should slide between the electrodes with a slight amount of drag. If the gap is incorrect, use the adjuster on the gauge body to bend the curved side electrode slightly until the proper gap is obtained (see illustration). If the side electrode is not exactly over the center electrode, bend it with the adjuster until it is. Check for cracks in the porcelain insulator (if any are found, the plug should not be used.
 
 ### 17.2b .. . so you can easily add lubricant to the transaxle from above
-`hyundai_elantra_ru_en_8c59e62e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ![](images/0fd261757a373c68d09025c461749dfd84dd01cc3c3b5e286d1b8f4ae6a06e76.jpg)
 19.5bTo change the gap, bend the side electrode only, as indicated by the arrows, and be very careful not to crack or chip the porcelain insulator surrounding the center electrode
@@ -2166,7 +1988,6 @@ advance, adjust them to the proper gap and replace the plugs one at a time. When
 Thread one of the new plugs into the hole until you can no longer turn it with your fingers, then tighten it with a torque wrench (if available) or the ratchet. It's a good idea to slip a short length of rubber hose over the end of the plug to use as a tool to thread it into place (see illustration). The hose will grip the plug well enough to turn it, but will start to slip if the plug begins to cross-thread in the hole - this will prevent damaged threads and the accompanying repair costs. 1 Before pushing the spark plug wire onto the end of the plug, inspect the wire following the procedures outlined in the next Section. 12 Attach the plug wire to the new spark plug, again using a twisting motion on the boot until it's seated on the spark plug. 1 Repeat the procedure for the remaining spark plugs, replacing them one at a time to prevent mixing up the spark plug wires.
 
 ### 20 Ignition system component check and replacement (30,000 miles or 24 months)
-`hyundai_elantra_ru_en_8dd7079c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustrations 20.4 and 20.8
 
@@ -2200,7 +2021,6 @@ Begin this procedure by making a visual check of the spark plug wires while the 
 12Inspect the coil pack for cracks, damage and carbon tracking. Carbon tracks can usually be removed. If damage exists, refer to Chapter 5 for the replacement procedure.
 
 ### 21 Positive Crankcase Ventilation (PCV) valve check and replacement (every 30,000 miles or 24 months
-`hyundai_elantra_ru_en_fd69ac94` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 21.4
 
@@ -2219,14 +2039,12 @@ valve, listening for a rattle. If the valve doesn't rattle, replace it with a ne
 Nc
 
 ### 21.4 With the engine running at idle, remove the PCV valve and verify that vacuum can be felt at the
-`hyundai_elantra_ru_en_e762fc57` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 6 When purchasing a replacement PCV valve, make sure it's for your particular vehicle and engine size. Compare the old valve with the new one to make sure they're the same.
 
 For further information on the PCV system refer to Chapter 6.
 
 ### 22Cooling system servicing (draining, flushing and refilling) (every 30,000 miles or 24 months)
-`hyundai_elantra_ru_en_dcd95829` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning : Do not allow antifreeze to come in contact with your skin or painted surfaces of the vehicle. Rinse off spills immediately with plenty of water. Antifreeze is highly toxic if ingested. Never leave antifreeze lying around in an open container or in puddles on the floor; children and pets are attracted by it's sweet smell and may drink it. Check with local authorities about disposing of used antifreeze. Many communities have collection centers which will see that antifreeze is disposed of safely.
 
@@ -2240,7 +2058,6 @@ At the same time the cooling system is serviced, all hoses and the radiator cap 
 22.6 The radiator drain plug (arrow) is located at the bottom corner of the radiator
 
 ### Draining
-`hyundai_elantra_ru_en_5046504b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Refer to illustrations 22.5 and 22.6
 
@@ -2257,7 +2074,6 @@ Refer to illustrations 22.5 and 22.6
 While the coolant is draining from the engine block, disconnect the hose from the coolant reservoir and remove the reservoir (see Chapter 3 if necessary). Flush the reservoir out with water until it's clean, and, if necessary, wash the inside with soapy water and a brush to make reading the fluid level easier. 9 While the coolant is draining, check the condition of the radiator hoses, heater hoses and clamps (refer to Section 13 if necessary). 10Replace any damaged clamps or hoses (refer to Chapter 3 for detailed replacement procedures).
 
 ### Flushing
-`hyundai_elantra_ru_en_6633f02c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 22.13
 
@@ -2272,7 +2088,6 @@ Refer to illustration 22.13
 15 Many deposits can be removed by the chemical action of a cleaner available at auto parts stores. Follow the procedure outlined in the manufacturer's instructions. Note: When the coolant is regularly drained and the system refilled with the correct antifreeze/water mixture, there should be no need to use chemical cleaners or descalers.
 
 ### Refilling
-`hyundai_elantra_ru_en_33bb153f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 16 To refill the system, install the thermostat, reconnect any radiator hoses and install the reservoir and the overflow hose.
 
@@ -2291,7 +2106,6 @@ Refer to illustration 22.13
 23Start the engine, allow it to reach normal operating temperature and check for leaks. 4 If the coolant temperature rises above normal, there is air trapped in the cooling system. Shut off the engine and allow it to cool completely; the system will automatically vent the trapped air. Repeat the procedure until the engine temperature stays at the normal position on the gauge.
 
 ### 2 Brake fluid change (every 30,000 miles or 24 months)
-`hyundai_elantra_ru_en_a1473b63` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Warning: Brake fluid can harm your eyes and damage painted surfaces, so use extreme caution when handling or pouring it. Do not use brake fluid that has been standing open or is more than one year old. Brake fluid absorbs moisture from the air. Excess moisture can cause a dangerous loss of braking effectiveness.
 
@@ -2318,14 +2132,12 @@ device, withdraw the fluid from the master cylinder reservoir.
 Refill the master cylinder with fluid and check the operation of the brakes. The pedal should feel solid when depressed, with no sponginess. Warning: Do not operate the vehicle if you are in doubt about the effectiveness of the brake system.
 
 ### 24Steering and suspension check (every 30,000 miles or 24 months)
-`hyundai_elantra_ru_en_51b8855d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 24.6, 24.9a, 24.9b, 24.9c, 24.11and 24.14
 
 Note: The steering linkage and suspension components should be checked periodically. Worn or damaged suspension and steering linkage components can result in excessive and abnormal tire wear, poor ride quality and vehicle handling and reduced fuel economy. For detailed illustrations of the steering and suspension components, refer to Chapter 10.
 
 ### Shock absorber check
-`hyundai_elantra_ru_en_5b6f3977` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:suspension | p:1 | doc_type:service_manual
 
 Park the vehicle on level ground, turn the engine off and set the parking brake. Check the tire pressures.
 
@@ -2355,7 +2167,6 @@ If the shocks must be replaced, refer to Chapter 10 for the procedure.
 Additional steering and suspension system information and illustrations can be found in Chapter 10.
 
 ### Driveaxle boot check
-`hyundai_elantra_ru_en_d3201f63` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:steering | p:1 | doc_type:service_manual
 
 13The driveaxle boots are very important because they prevent dirt, water and foreign material from entering and damaging the constant velocity (CV) joints. Oil and grease can cause the boot material to deteriorate prematurely, so it's a good idea to wash the boots with soap and water. Because it constantly pivots back and forth following the steering action of the front hub, the outer CV boot wears out sooner and should be inspected regularly.
 
@@ -2372,7 +2183,6 @@ Additional steering and suspension system information and illustrations can be f
 14 Inspect the boots for tears and cracks as well as loose clamps (see illustration). If there is any evidence of cracks or leaking lubricant, they must be replaced as described in Chapter 8.
 
 ### 25Automatic transaxle fluid change (every 30,000 miles or 24 months)
-`hyundai_elantra_ru_en_3c17749a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 25.7a and 25.7b
 
@@ -2391,7 +2201,6 @@ At the specified time intervals, the automatic transaxle fluid should be drained
 7Place the drain pan under the transaxle and remove the drain plug (see illustrations). Be sure the drain pan is in position, as fluid will come out with some force. Once the fluid has drained, clean the drain plug and reinstall it securely.
 
 ### 2000 and earlier models
-`hyundai_elantra_ru_en_ecc43e64` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 8 Remove the transaxle pan bolts. 9 Carefully pry the transaxle pan loose with a screwdriver. Don't damage the pan or transaxle gasket surface or leaks could develop.
 
@@ -2406,12 +2215,10 @@ Install the new filter and tighten the bolts.
 14 Make sure the gasket surface on the transaxle pan is clean, then install a new gasket. Put the pan in place against the transaxle and install the bolts. Working around the pan, tighten each bolt a litte at a time until the final torque figure listed in this Chapter's Specifications is reached. Don't overtighten the bolts!
 
 ### Later models
-`hyundai_elantra_ru_en_00ebc4b9` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 15Some later models may have a spin-on canister-type transmission filter that resembles the engine oil filter, located on top of the transaxle. Replace this filter with a new one in the same manner as an engine oil filter (see Section 8).
 
 ### All models
-`hyundai_elantra_ru_en_048cb102` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 16Lower the vehicle.
 
@@ -2423,7 +2230,6 @@ Install the new filter and tighten the bolts.
 18Install the dipstick. 1 Start the engine and shift the selector into all positions from P through 2, then shift into P and apply the parking brake. 0 Turn off the engine and check the fluid level. Add fluid to bring the level into the notched area on the dipstick.
 
 ### 6Manual transaxle lubricant change - (every 30,000 miles or 24 months)
-`hyundai_elantra_ru_en_756f4e9a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1At the specified time intervals, the manual transaxle lubricant should be drained and replaced.
 
@@ -2434,7 +2240,6 @@ Install the new filter and tighten the bolts.
 ![](images/14be586130bfdfb865b22696d08fa407df53b4c1e5b06685c40e61ea6599ff34.jpg)
 
 ### 27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - look for stains that 
-`hyundai_elantra_ru_en_f6bb8f86` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a6fa4522ccc60636d3e02396c25b04a5a77dccfc04f658eb0062efb3d55a56e0.jpg)
 27.2bCheck each exhaust system hanger (arrow) for damage and cracks
@@ -2446,7 +2251,6 @@ After the vehicle has been driven to warm up the fluid, raise it and place it on
 6Add new fluid through the filler hole until it begins to run out of the filler hole (see Section17. Install the check/fill plug and tighten it securely.
 
 ### 27Exhaust system check (every 30,000 miles or 24 months)
-`hyundai_elantra_ru_en_0f134893` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 27.2a and 27.2b With the engine cold (at least three hours after the vehicle has been driven), check the complete exhaust system from the engine to the end of the tailpipe. Ideally, the inspection should be done with the vehicle on a hoist to permit unrestricted access. If a hoist isn't available, raise the vehicle and support it securely on jackstands.
 
@@ -2459,7 +2263,6 @@ Rattles and other noises can often be traced to the exhaust system, especially t
 5 Check the running condition of the engine by inspecting inside the end of the tailipipe. The exhaust deposits here are an indication of engine state-of-tune. If the pipe is black and sooty or coated with white deposits, the engine may need a tune-up, including a thorough fuel system inspection and adjustment.
 
 ### 28Fuel system check (every 30,000 miles or 24 months)
-`hyundai_elantra_ru_en_b1107c0f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Warning: Gasoline is extremely flammable, so take extra precautions when you work on any part of the fuel system. Don't smoke or allow open flames or bare light bulbs near the work area, and don't work in a garage where a gas-type appliance (such as a water heater or clothes dryer) is present. Since gasoline is carcinogenic, wear latex gloves when there's a possibility of being exposed to fuel, and, if you spill any fuel on your skin, rinse it off immediately with soap and water. Mop up any spills immediately and do not store fuelsoaked rags where they could ignite. When you perform any kind of work on the fuel system, wear safety glasses and have a Class B type fire extinguisher on hand. The fuel system is under constant pressure, so, before any lines are disconnected, the fuel system pressure must be relieved (see Chapter 4).
 
@@ -2480,12 +2283,10 @@ If you smell gasoline while driving or after the vehicle has been sitting in the
 The evaporative emissions control system can also be a source of fuel odors. The function of the system is to store fuel vapors from the fuel tank in a charcoal canister until they can be routed to the intake manifold where they mix with incoming air before being burned in the combustion chambers.
 
 ### 28Fuel system check (every 30,000 miles or 24 months)
-`hyundai_elantra_ru_en_b650fc3a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 9 The most common symptom of a faulty evaporative emissions system is a strong odor of fuel in the engine compartment. If a fuel odor has been detected, and you have already checked the areas described above, check the charcoal canister, located behind the left front suspension tower on earlier models or under the rear of the vehicle on 1998 and later models, and the hoses connected to it.
 
 ### 2Fuel filter replacement (every 60,000 miles or 48 months)
-`hyundai_elantra_ru_en_b1107c0f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Warning: Gasoline is extremely flammable, so take extra precautions when you work on any part of the fuel system. Don't smoke or allow open flames or bare light bulbs near the work area, and don't work in a garage where a gas-type appliance (such as a water heater or clothes dryer) is present. Since gasoline is carcinogenic, wear latex gloves when there's a possibility of being exposed to fuel, and, if you spill any fuel on your skin, rinse it off immediately with soap and water. Mop up any spills immediately and do not store fuelsoaked rags where they could ignite. When you perform any kind of work on the fuel system, wear safety glasses and have a Class B type fire extinguisher on hand. The fuel system is under constant pressure, so, before any lines are disconnected, the fuel system pressure must be relieved (see Chapter 4). Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code.
 
@@ -2496,7 +2297,6 @@ Refer to illustration 29.4
 Refer to Chapter 4 and relieve the fuel system pressure. 2 Disconnect the negative battery cable. 3 If necessary for access, remove the air cleaner assembly (see Chapter 4). 4 Remove the clips. and detach the hoses from the fuel filter, then remove the filter bracket nuts and lift the assembly out of the engine compartment (see illustration). 5Note the direction that the inlet and outlet pipes are facing. Make sure the new filter is installed so that it's facing the proper direction as noted above. Install the inlet and outlet hoses and secure them with clamps. 6 The remainder of installation is the reverse of the removal procedure.
 
 ### Section
-`hyundai_elantra_ru_en_3110113e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Camshaft oil seal - replacement . 7 Camshafts and lifters - removal and installation. 6 CHECK ENGilNE light on.. See Chapter 6 Crankshaft oil seals - replacement.. 14 Cylinder compression check ... See Chapter 2C Cylinder head - removal and installation.. .. 10 Drivebelt check, adjustment and replacement... ... See Chapter 1 Engine - removal and installation. .See Chapter 2C Enieoil and filter chang  .See Chapter 1 Engine overhaul - general information  . See Chapter 2C Engine/transaxle mounts - check and replacement . 15 Exhaust manifold - removal and installation. 9
 
@@ -2506,7 +2306,6 @@ Oil pump - removal, inspection and installation.. 12 Repair operations possible 
 Water pump - removal and installation …… See Chapter 3
 
 ### Oil pump
-`hyundai_elantra_ru_en_b391b719` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Body clearance (between outer circumference of outer rotor and case)  … 0.005 to 0.007 inch (0.12 to 0.18 mm)
 Inner pump rotor axial (side) clearance 2000 and earlier  0.0008 to 0.0025 inch (0.02 to 0.065 mm) 2001 0.0016 to 0.0033 inch (0.04 to 0.085 mm)
@@ -2528,7 +2327,6 @@ Timing belt T 31 to 40 43 to 55 Ider pullbol. 31 to 40 43 to 55 Timing belt cove
 Valve cover bolts  72 to 84 in-lbs 8 to 10
 
 ### 1 General information
-`hyundai_elantra_ru_en_2f45eced` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 This Part of Chapter 2 is devoted to invehicle repair procedures for the engine. The engine has a cast-iron engine block an aluminum cylinder head. The cylinder head is equipped with dual overhead camshafts. Hydraulic lifters are used to actuate the valves on 1996 through 2000 engines; these models require no periodic valve clearance adjustments. On 2001 engines, which use "shim-and-bucket" style lifters, the valve clearances may occasionally need to be checked and, if necessary, adjusted (see Section 12 in Chapter 2B). The aluminum cylinder head on all models is equipped with pressed-in valve guides and hardened valve seats. The gear-type oil pump is mounted on the front of the engine biock and is driven by the crankshaft.
 
@@ -2537,7 +2335,6 @@ The following repair procedures are based on the assumption that the engine is i
 The Specifications included in this Part of Chapter 2 apply only to the procedures contained in this Part. All information concerning engine removal and installation, engine block and cylinder head overhaul and the Specifications necessary for cylinder head and engine block rebuilding, is in Part B of Chapter 2.
 
 ### Repair operations possible with the engine in the vehicle
-`hyundai_elantra_ru_en_afc8f3d9` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Many major repair operations can be accomplished without removing the engine from the vehicle.
 
@@ -2557,7 +2354,6 @@ In extreme cases caused by a lack of necessary equipment, repair or replacement 
 3.Use a compression gauge in the number one spark plug hole to assist in finding TDC
 
 ### 3Top Dead Center (TDC) for number one piston - locating
-`hyundai_elantra_ru_en_124c1466` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustrations 3.5 and 3.6
 
@@ -2570,7 +2366,6 @@ In order to bring any piston to TDC, the crankshaft must be turned using one of 
 The preferred method is to turn the
 
 ### 3.6Align the notch (arrow) on the crankshaft drivebelt pulley with the mark on the timing belt cover
-`hyundai_elantra_ru_en_12d96bb1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 crankshaft with a large socket and breaker bar attached to the large bolt threaded into the center of the crankshaft pulley.
 
@@ -2583,7 +2378,6 @@ Disable the ignition system by disconnecting the primary electrical connectors a
 6When the piston approaches TDC, compression will be noted on the compression gauge. Continue turning the crankshaft until the notch in the crankshaft damper is aligned with the TDC mark on the front cover (see illustration). At this point number one cylinder is at TDC on the compression stroke. If the marks aligned but there was no compression, the piston was on the exhaust stroke; continue rotating the crankshaft 360-degrees (1-turn) and line-up the marks. Note: If a compression gauge is not available, TDC for the No. 1 piston can be obtained by simultaneously aligning the marks on the camshaft timing belt sprocket with the top of the cylinder head (see illustration 5.7) and the marks on the crankshaft damper with the TDC mark on the front cover. 7 After the number one piston has been positioned at TDC on the compression stroke, TDC for any of the remaining cylinders can be located by turning the crankshaft 180 degrees and following the firing order (refer to the Specifications). Rotating the engine 180 degrees past TDC #1 will put the engine at TDC compression for cylinder #3.
 
 ### Removal
-`hyundai_elantra_ru_en_c3c4cda8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battry, make sure you have the activation code.
 
@@ -2615,7 +2409,6 @@ Remove the bolts that attach the upper timing belt cover to the valve cover (see
 7Remove the valve cover gasket from the valve cover (see illustration).
 
 ### Installation
-`hyundai_elantra_ru_en_4844e6d6` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The mating surfaces of the cylinder head and the valve cover must be clean when the cover is installed. Use a gasket scraper to remove ail traces of sealant and old gasket material, then clean the mating surfaces with lacquer thinner or acetone. If there's residue or oil on the mating surfaces when the cover is installed, oil leaks may develop.
 
@@ -2632,14 +2425,12 @@ The mating surfaces of the cylinder head and the valve cover must be clean when 
 15Reconnect the negative battery cable. 16 Start the engine and check the valve cover for oil leaks.
 
 ### 5 Timing belt and sprockets - removal, inspection and installation
-`hyundai_elantra_ru_en_91c4d7c4` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: Wait until the engine is completely cool before beginning this procedure.
 
 Caution: Do not rotate the crankshaft or the camshaft separately during this procedure with the timing belt removed as damage to valves may occur. Only rotate the camshaft a few degrees as necessary to align the camshaft sprocket marks with the marks on the rear timing cover.
 
 ### Removal
-`hyundai_elantra_ru_en_b4c909f7` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code. Refer to illustrations 5.5a, 5.5b, 5.6, 5.7, 5.8, 5.9, 5.11 and 5.12 1 Disconnect the negative battery cable. 2 Rotate the engine in the normal direction of rotation (clockwise) until the No.1 cylinder is located at TDC (see Section 3).
 
@@ -2675,7 +2466,6 @@ Caution: Some models are equipped with an anti-theft radio. Before performing a 
 13 Remove the crankshaft timing belt sprocket.
 
 ### Inspection
-`hyundai_elantra_ru_en_f8f35318` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustration 5.15 Caution: Do not bend, twist or tur the timing belt inside out. Do not allow it to come in contact with oil, coolant or fuel. Do not turn the crankshaft or camshaft more than a few degrees (if necessary for tooth alignment) while the timing belt is removed.
 
@@ -2705,7 +2495,6 @@ smooth operation and excessive play. Inspect the timing belt sprocket teeth for 
 5.22 After rotating the crankshaft at least twice, verify that the mark (arrow) on the crankshaft timing belt sprocket is aligned with the stationary index mark (arrow) on the oil pump housing
 
 ### Installation
-`hyundai_elantra_ru_en_7ea320c0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustration 5.22
 
@@ -2732,12 +2521,10 @@ Make sure that the "front run" of the belt (the side nearer the front of the veh
 29Reconnect the negative battery cable.
 
 ### 6Camshafts and lifters - removal and installation
-`hyundai_elantra_ru_en_acb82e0a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note: The camshaft and lifters should always be thoroughly inspected before installation and camshaft endplay should always be checked prior to camshaft removal. Although the hydraulic lifters on 1996 through 2000 models are self-adjusting and require no periodic service, there is an in-vehicle procedure for checking excessively noisy hydraulic lifters. Refer to Chapter 2B for the camshaft and lifter inspection procedures.
 
 ### Removal
-`hyundai_elantra_ru_en_0630738d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 6.3a, 6.3b, 6.5, 6.6, 6.7, 6.9a and 6.9b
 
@@ -2780,7 +2567,6 @@ guides (see illustration). Make sure that the friction surfaces of the guides ar
 9Thoroughly clean the cam timing chain and the timing chain sprockets on the camshafts with fresh solvent and a stiff brush and then inspect the timing chain and the sprockets (see illustration). Make sure that the bearing surfaces (the shiny parts) of the chain rollers are in good condition and that the chain isn't stiff. If the chain is excessively wom or damaged, replace it. Make sure that the teeth on the camshaft timing chain sprockets are in good condition. If any of the teeth are broken or excessively worn, replace the camshaft(s). Also inspect the timing chain
 
 ### Removal
-`hyundai_elantra_ru_en_5592471b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b6c6f192b031dd06a885a8e1a406ff2b9871cce262018ef4d9c38b7579aec639.jpg)
 6.9a Inspect the bearing surfaces (the shiny parts) of the chain rollers and the teeth on the camshaft timing chain sprockets
@@ -2807,7 +2593,6 @@ them to the tops of the lifters
 6.14When installing the camshaft timing chain on the camshaft sprockets, make sure that the timing marks on the cam chain sprockets are aligned with the centers of the two dark side plates, with four links in between
 
 ### Installation
-`hyundai_elantra_ru_en_3cf8bf68` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustrations 6. 13 and 6.14
 
@@ -2828,7 +2613,6 @@ Refer to illustrations 6. 13 and 6.14
 18The remainder of installation is the reverse of removal.
 
 ### 7 Camshaft oil seal - replacement
-`hyundai_elantra_ru_en_42512cb6` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 7.2 and 7.3
 
@@ -2845,7 +2629,6 @@ pipe will also work.
 4 Install the camshaft timing belt sprocket, the timing belt and the timing cover (see Section 5).
 
 ### 8Intake manifold - removal and installation
-`hyundai_elantra_ru_en_86e01919` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustrations 8.5, 8.6, 8.8, 8.10 and 8.11
 
@@ -2899,12 +2682,10 @@ Before installing the intake manifold, clean the mounting surfaces of the manifo
 14 The remainder of installation is the reverse of removal.
 
 ### 8Intake manifold - removal and installation
-`hyundai_elantra_ru_en_4687d38b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 15 When you're done, check the coolant level (see Chapter 1) and top up the coolant system if necessary.
 
 ### Exhaust manifold - removal and installation
-`hyundai_elantra_ru_en_84fdbab7` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustrations 9.2a 9.2b, 9.4 and 9.5 Warning: The engine must be completely cool before beginning this procedure. On 2001 models, unplug the electrical
 
@@ -2942,7 +2723,6 @@ Use a scraper to remove all traces of old gasket material and carbon deposits fr
 10Working from under the vehicle, reattach the exhaust pipe to the exhaust manifold with new nuts. Be sure to use high-temperature anti-seize compound on the threads of the studs, then tighten the new nuts securely. 11 Install the heat shield, coat the heat shield bolts with high-temperature anti-seize compound and then tighten them to the torque listed in this Chapter's Specifications. 12On 2001 models, plug in the electrical
 
 ### Exhaust manifold - removal and installation
-`hyundai_elantra_ru_en_e05cafaf` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 T connector for the upstream HO2S. 1Run the engine and check for exhaust leaks.
 
@@ -2950,7 +2730,6 @@ T connector for the upstream HO2S. 1Run the engine and check for exhaust leaks.
 9.2bTo detach the exhaust manifold heat shield on 2001 models, remove these three bolts (arrows)
 
 ### Removal
-`hyundai_elantra_ru_en_144de16e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustrations 10.10 and 10.11
 
@@ -2989,7 +2768,6 @@ Remove the power steering pump and then remove the pump bracket (see Chapter 10)
 ![](images/acada90eb13804c1a79164229843cecdb0783018a82d506ec0774adbfb2f4c95.jpg)
 
 ### 10.11f the cylinder head is stuck to the block, carefully pry it loose at a casting protrusion
-`hyundai_elantra_ru_en_87675c59` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 > . о о
 
@@ -3010,7 +2788,6 @@ Remove the gasket from the top of the block, but don't discard it yet; you'll ne
 13If the cylinder head is going to be serviced, separate the manifolds, if you haven't already done so (see Sections 8 and 9, but disregard the steps that don't apply). Then proceed to Chapter 2B for the cylinder head disassembly and overhaul procedures.
 
 ### Installation
-`hyundai_elantra_ru_en_269c2c54` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustrations 10.23a and 10.23b
 
@@ -3037,7 +2814,6 @@ Oil the threads and the underside of the bolt heads, then carefully enter each b
 23 Working progressively and in the sequence shown (see illustration), tighten the cylinder head bolts in three steps, first to the torque, and then to the angle, listed in this Chapter's Specifications. Note: It is recommended that an angle-measuring gauge be used during the final stages of the tightening, to ensure accuracy (see illustration). If a gauge is not available, use white paint to make alignment marks between the bolt head and cylinder head prior to tightening; the marks can then be used to check the bolt has been rotated through the correct angle during tightening.
 
 ### Installation
-`hyundai_elantra_ru_en_8cc2a722` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 24Install the intake manifold (see Section 8) and the exhaust manifold (see Section 9), if they haven't already been installed.
 
@@ -3085,7 +2861,6 @@ Install the timing belt and the timing belt cover (see Section 5).
 3Change the engine oil (see Chapter 1. 35Run the engine and check for leaks.
 
 ### 11 Oil pan - removal and installation
-`hyundai_elantra_ru_en_836d9560` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 shield below the oil filter (see illustration).
 3 Drain the engine oil (see Chapter 1).
@@ -3100,7 +2875,6 @@ Remove the oil dipstick.
 7 Remove the oil pan bolts (1996 through 2000 models, see illustration; 2001 models, see illustration 11.4) and then detach the oil pan. If it's stuck, pry it loose very carefully with a small screwdriver or putty knife. Don't damage the mating surfaces of the pan and block or oil leaks could develop.
 
 ### Removal
-`hyundai_elantra_ru_en_ae3c266d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 11.2, 11.4, 11.5, 11.6
 and 11.7
@@ -3110,7 +2884,6 @@ Set the parking brake and block the rear wheels. Raise the front of the vehicle 
 2 On 2001 models, remove the splash
 
 ### Installation
-`hyundai_elantra_ru_en_c5f32c16` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 11.11
 
@@ -3137,7 +2910,6 @@ Install the engine block-to-transaxle reinforcement bracket and then tighten the
 Run the engine and check for oil pressure and leaks.
 
 ### Removal
-`hyundai_elantra_ru_en_2871ece9` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 12.3 and 12.5
 
@@ -3148,7 +2920,6 @@ Refer to illustrations 12.3 and 12.5
 6 Remove the oil pump gasket.
 
 ### Disassembly
-`hyundai_elantra_ru_en_93568706` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 12.7, 12.8, 12.9a, 12.9b and 12.10
 
@@ -3175,19 +2946,16 @@ Clean off the pump assembly with solvent, remove the cover bolts (see illustrati
 12.10 Remove the old crankshaft front seal from the oil pump housing with a seal removal tool
 
 ### 12.9b .. . and then remove the relief spring and the relief plunger from the pump case
-`hyundai_elantra_ru_en_8b388e05` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 0If you're going to replace the crankshaft front oil seal, carefully pry out the old seal with a seal removal tool or with a screwdriver (see illustration). Don't scratch or gouge the seal bore.
 
 11 Clean all the parts in solvent and then wipe them off with a clean shop rag.
 
 ### Pick-up tube
-`hyundai_elantra_ru_en_608a17b1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1Inspect the pick-up tube filter screen. Make sure that it's not clogged or damaged. Ifit's clogged, clean it with a wire brush. If it's damaged, replace the pick-up tube.
 
 ### Pump case
-`hyundai_elantra_ru_en_ec940451` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 y of the inner rotor and the inner circumference of the outer rotor (see illustration) and then compare your measurement to the clearance listed in this Chapter's Specifications.
 
@@ -3207,7 +2975,6 @@ Refer to illustrations 12.14, 12.15, 12.16 and 12.17
 14 Measure the clearance between the outer circumference of the outer rotor and the front case (see illustration) and then compare your measurement to the clearance listed in this Chapter's Specifications.
 
 ### Oil pump rotors
-`hyundai_elantra_ru_en_c00bbe5d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 12.19
 
@@ -3227,7 +2994,6 @@ Refer to illustrations 12.19
 12.19 Measure the free height of the pressure relief spring and then compare your measurement to the spring free height listed in this Chapter's Specifications
 
 ### Reassembly
-`hyundai_elantra_ru_en_f40a8b66` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 12.21
 
@@ -3240,7 +3006,6 @@ Refer to illustration 12.21
 24Install the cover, install the cover bolts and then tighten the bolts to the torque listed in this Chapter's Specifications.
 
 ### Installation
-`hyundai_elantra_ru_en_d5435c88` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 12.26 Make sure that the gasket mating surface of the block is clean. Use a scraper to remove all traces of old gasket material from the engine block, then clean the mating surface with lacquer thinner or acetone.
 
@@ -3263,12 +3028,10 @@ Add oil, start the engine and check for oil pressure and leaks.
 Turm off the engine and then recheck the engine oil level.
 
 ### 13Flywheel/driveplate - removal, inspection and installation
-`hyundai_elantra_ru_en_d321200c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: The manufacturer recommends replacing the flywheel/driveplate bolts with new ones whenever they are removed.
 
 ### Removal
-`hyundai_elantra_ru_en_b3156ba5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 13.4a and 13.4b
 
@@ -3285,7 +3048,6 @@ alignment marks on the flywheel/driveplate and crankshaft to ensure correct alig
 6Inspect the crankshaft rear seal. If it's leaking, replace i before installing the fly wheel/driveplate (see Section 14).
 
 ### Inspection
-`hyundai_elantra_ru_en_e236924e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 7 Clean the flywheel to remove grease and oil. Inspect the surface for cracks, rivet grooves, burned areas and score marks. Light scoring can be removed with emery cloth. Check the ring gear for cracked and
 
@@ -3307,7 +3069,6 @@ broken teeth. If the ring gear teeth are damaged, replace the flywheel, or have 
 9Clean and inspect the mating surfaces of the flywheel/driveplate and the crankshaft.
 
 ### Installation
-`hyundai_elantra_ru_en_653ed5c5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 10 Position the flywheel, or driveplate and spacers, against the crankshaft. Be sure to align the marks made during removal. Note that some engines have an alignment dowel or 'staggered bolt holes to ensure correct installation. Before installing the bolts, apply thread-locking compound to the threads.
 
@@ -3323,7 +3084,6 @@ careful not to scratch, nick or gouge the crankshaft or the seal bore in the oil
 Install the transaxle (see Chapter 7). 1 Lower the vehicle.
 
 ### Crankshaft front oil seal
-`hyundai_elantra_ru_en_5f9e8576` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 14.2a, 14.2b and 14.4
 
@@ -3345,7 +3105,6 @@ remove the front seal by installing a pair of self-tapping screws and then, usin
 6 Run the engine and check for oil leaks at the front seal.
 
 ### Crankshaft rear oil seal
-`hyundai_elantra_ru_en_48ceb407` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 14.10 and 14.12
 
@@ -3366,7 +3125,6 @@ diameter of the new seal, place the seal in position and carefully tap it into t
 15Install the transaxle (see Chapter 7).
 
 ### Check
-`hyundai_elantra_ru_en_16db07f6` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Refer to illustrations 15.4a, 15.4b, 15.4c, 15.4d and 15.5
 
@@ -3395,7 +3153,6 @@ Check for movement between the insulator and the metal bracket(s) of each mount 
 Apply rubber preservative to the mounts to slow deterioration.
 
 ### Replacement
-`hyundai_elantra_ru_en_d6d9670b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 15.8a, 15.8b and 15.8c 7 Raise the vehicle and support it securely on jackstands (if not already done). Support the engine (see Step 3).
 
@@ -3422,7 +3179,6 @@ Remove the mount and bracket bolts and detach the mount and bracket (see illustr
 15.8c Rear roll stopper nuts and bolts (arrows) (as seen from underneath vehicle, actual mount not visible in this photo)
 
 ### Section
-`hyundai_elantra_ru_en_bfd216ac` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Camshaf, lftrsand berns - inpcn.. ……… 21 CHECK ENGINE light. ... See Chapter 6A or 6B Cranksh.arft - inspsctio  19 Crankshaft - installation and main bearing oil clearance check ... 24 Cranksa - .a.. 14 Cylinder compression check..
 Cylinder head - cleaning and inspection..
@@ -3440,7 +3196,6 @@ Vacuum gauge diagnostic checks.
 Valves - servicing
 
 ### General
-`hyundai_elantra_ru_en_aa4f3527` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Engine designation 199 tr GGM - 02. G4GC (also referred to as the "Beta" engine)
 Displacement 1.8 109.54 cubic inches (1795 cc) 2.0L44 120.52 cubic inches (1975 cc)
@@ -3451,7 +3206,6 @@ Cylinder compression pressure (cranking, at 250 to 400 rpm) 1996 through 2000 . 
 Oil pressure (at ide  24.2 psi (1.7 kg/cm2) minimum
 
 ### Cylinder head
-`hyundai_elantra_ru_en_014c0ced` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Flatness 1996 through 2000 Less than 0.002 inch (0.05 mm) im 0.004 inch (0.10 mm) 2001 and later d Less than 0.0012 inch (0.03 mm) Lim 0.0024 inch (0.06 mm)
 
@@ -3468,7 +3222,6 @@ Valve spring 1996 and 1997 F 1.8137 inches (46.07 mm) l 1.358 inches (34.5 mm) 1
 2001 and later Free length  1.9236 inches (48.86 mm) 1.5354 inches (39 mm) Valve clearance (2001 and later) Intake . 0.0079 inch (0.20 mm) . 0.0047 to 0.0110 inch (0.12 to 0.28 mm) Exhaust 0.0110 inch (0.28 mm) Li 0.0079 to 0.0142 inch (0.20 to 0.36 mm)
 
 ### Crankshaft
-`hyundai_elantra_ru_en_99e9ee17` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Standard  0.0023 to 0.010 inch (0.06 to 0.26 mm) 0.0118 inch (0.30 mm)
 Runout  N/A
@@ -3477,7 +3230,6 @@ Main bearing oil clearance Standard  0.0011 to 0.0018 inch (0.028 to 0.048 mm) S
 Clearance between sensor wheel and Crankshaft Position (CKP) sensor 1996 througGh 200... 0.020 to 0.059 inch (0.5 to 1.5 mm) 2001 and later .. … 0.020 to 0.043 inch (0.5 to 1.1 mm)
 
 ### Connecting rods
-`hyundai_elantra_ru_en_4e55bf79` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Standard 1.77 inches (45 mm) . 1st undersize  1.7608 to 1.7614 inches (44.725 to 44.740 mm) 2nd 1.7509 to 1.7516 iNnches (44.475 to 44.490 mm)
 rd 1.7411 to 1.7417 Inches (44.225 to 44.240 mm)
@@ -3487,22 +3239,18 @@ Connecting rod bearing oil clearance.. - 0.0009 to 0.0017 inch (0.024 to 0.044 m
 Connecting rod side clearance (endplay) Standard  0.0039 to 0.0098 inch (0.100 to 0.250 mm) Service limit.. 0.0157 inch (0.4 mm)
 
 ### Engine block
-`hyundai_elantra_ru_en_a459adc2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Cy 3.2283 to 3.2295 inches (82.00 to 82.03 mm) Out-of-round limit. . 0.0004 inch (0.01 mm) Taper limit  0.0004 inch (0.01 mm) Block deck warpage 1996 through 2000. 0.0020 inch (0.05 mm) 2001 and later... 0.0012 inch (0.03 mm) er ( 0.0039 inch (0.10 mm)
 
 ### Pistons and rings
-`hyundai_elantra_ru_en_36b02cc4` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Standard  3.2271 to 3.2283 inches (81.97 to 82.00 mm) st 0.010 inch (0.25 mm) 2nd 0.020 inch (0.50 mm) 3rd 0.030 inch (0.75 mm) 0.039 inch (1.00 mm) Piston ring end gap 1996 through 2000 Tp_ 0.0059 to 0.0118 inch (0.15 to 0.30 mm 0.008 to 0.014 inch (0.25 to 0.40 mm Olc 0.078 to 0.0275 inch (0.20 to 0.70 mm) Limit (all three rings  0.039 inch (1.0 mm) 2001 and later Tpc 0.0091 to 0.0150 inch (0.23 to 0.38 mm) econd. 0.0139 to 0.0189 inch (0.33 to 0.48 mm) Oil control ring  0.0079 to 0.0236 inch (0.20 to 0.60 mm) Limit (all three rings). 0.039 inch (1.0 mm)
 
 ### Pistons and rings (continued)
-`hyundai_elantra_ru_en_1b09d441` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Piston ring side clearance 1996 through 2000 Topc. 0.0016 to 0.0031 inch (0.04 to 0.085 mm) Second. 0.0016 to 0.0031 inch (0.04 to 0.085mm) Lm( 0.004 inch (0.1 mm) 2001 and later Topc 0.0016 to 0.0031 inch (0.04 to 0.085 mm) Secnd. 0.0012 to 0.0028 inch (0.03 to 0.07mm) L 0.004 inch (0.1 mm)
 
 ### Torque specifications\*
-`hyundai_elantra_ru_en_768c5d6c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Ft-lbs (unless otherwise indicated)Nm
 
@@ -3519,7 +3267,6 @@ Oil pressure switch . ….
 120 to 132 in-lbs 13 to 15
 
 ### General information - engine overhaul
-`hyundai_elantra_ru_en_ab20a124` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Included in this portion of Chapter 2 are the general overhaul procedures for the cylinder head and internal engine components.
 
@@ -3542,7 +3289,6 @@ An engine overhaul involves restoring the internal parts to the specifications o
 Critical cooling system components such as the hoses, drivebelts, thermostat and water pump should be replaced with new parts when an engine is overhauled. The radiator should be checked carefully to ensure that it isn't clogged or leaking (see Chapter 3). If you purchase a rebuilt engine or short block, some rebuilders will not warranty their engines unless the radiator has been professionally flushed. Also, we don't recommend overhauling the oil pump - always install a new one when an engine is rebuilt.
 
 ### General information - engine overhaul
-`hyundai_elantra_ru_en_1aa57889` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Before beginning the engine overhaul, read through the entire procedure to familiarize yourself with the scope and requirements of the job. Overhauling an engine isn't difficult, but it is time-consuming. Plan on the vehicle being tied up for a minimum of two weeks, especially if parts must be taken to an automotive machine shop for repair or reconditioning. Check on availability of parts and make sure that any necessary special tools and equipment are obtained in advance. Most work can be done with typical hand tools, although a number of precision measuring tools are required for inspecting parts to determine if they must be replaced. Often an automotive machine shop will handle the inspection of parts and offer advice concerning reconditioning and replacement. Note: Always wait until the engine has been completely disassembled and all components, especially the engine block, have been inspected before deciding what service and repair operations must be performed by an automotive machine shop. Since the block's condition will be the major factor to consider
 
@@ -3562,7 +3308,6 @@ when determining whether to overhaul the original engine or buy a rebuilt one, n
 As a final note, to ensure maximum life and minimum trouble from a rebuilt engine, everything must be assembled with care in a spotlessly-clean environment.
 
 ### Refer to illustrations 2.2, 2.3, 2.7 and 2.8
-`hyundai_elantra_ru_en_50d1570c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 1Low engine oil pressure can be a sign of an engine in need of rebuilding. A "low oil pressure" indicator (often called an "idiot light") is not a test of the oiling system. Such indicators only come on when the oil pressure is dangerously low. Even a factory oil pressure gauge in the instrument panel is only a relative indication, although much better for driver information than a waring light. A better test is with a mechanical (not electrical oil pressure gauge. When used in conjunction with an accurate tachometer, an engine's oil pressure performance can be compared to the manufacturers Specifications.
 
@@ -3581,7 +3326,6 @@ Remove the oil pressure sending unit (see illustration) and then screw in an oil
 8 Using a short section of wire or a T-pin, push in the sending unit plunger and check continuity between the sending unit terminal and the body again (see illustration). If there is continuity, replace the sending unit.
 
 ### 3Cylinder compression check
-`hyundai_elantra_ru_en_07ff4dc9` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustration 3.6 A compression check will tell you what mechanical condition the upper end (pistons, rings, valves, head gaskets) of the engine is in. Specifically, it can tell you if the compression is down due to leakage caused by worn piston rings, defective valves and seats or a blown head gasket. Note: The engine must be at normal operating temperature and the battery must be fully charged for this check.
 
@@ -3612,7 +3356,6 @@ Repeat the procedure for the remaining cylinders, turning the engine over for th
 11 If two adjacent cylinders have equally low compression, there's a strong possibility that the head gasket between them is blown. The appearance of coolant in the combustion chambers or the crankcase would verify this condition.
 
 ### 3Cylinder compression check
-`hyundai_elantra_ru_en_c77d0532` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 12 If one cylinder is abóut 20-percent lower than the others, and the engine has a slightly rough idle, a worn exhaust lobe on the camshaft could be the cause.
 
@@ -3637,7 +3380,6 @@ are easy to misinterpret, so they should be used in conjunction with other tests
 ![](images/7f7da67c7db2623f9048e0f7826575c1fe258ca90d183a55086f244452f8d7ba.jpg)
 
 ### 4Vacuum gauge diagnostic checks
-`hyundai_elantra_ru_en_ea56f802` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 uum hose, late ignition timing or incorrect camshaft timing. Eliminate all other possible causes, utilizing the tests provided in this Chapter before you remove the timing belt cover to check the timing marks.
 
@@ -3665,7 +3407,6 @@ If there is a large fluctuation, perform a compression or leak-down test to look
 1If the needle moves slowly through a wide range, check for a clogged PCV system, throttle body or intake manifold gasket leaks. Snap the throttle open until the engine reaches about 2,500 rpm and then abruptly snap it closed. Normally the reading should drop to near zero, rise above the normal idle reading (about 5 in-Hg over) and then return to the previous idle reading. If the vacuum returns slowly and doesn't peak when the throttle is snapped shut, the rings may be worn. If there is a long delay, look for a restricted exhaust system (usually either the muffler or the catalytic converter). A good way to verify this is to disconnect the exhaust ahead of the suspected part and then re-test.
 
 ### 5Engine rebuilding alternatives
-`hyundai_elantra_ru_en_0a21a348` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The home mechanic is faced with a number of options when performing an engine overhaul. The decision to replace the engine block, piston/connecting rod assemblies and crankshaft depends on a number of factors, with the number one consideration being the condition of the block. Other considerations are cost, access to machine shop facilities, parts availability, time required to complete the project and the extent of prior mechanical experience.
 
@@ -3678,7 +3419,6 @@ Short-block - A short-block consists of an engine block with a crankshaft and pi
 Long-block - A long-block consists of a short block plus an oil pump, oil pan, cylinder head, valve cover, camshaft and valve train components, timing sprockets and a timing belt. All components are installed with new bearings, seals and gaskets incorporated throughout. The installation of manifolds and external parts is all that's necessary. Give careful thought to which alternative is best for you and discuss the situation with local automotive machine shops, auto parts dealers and experienced rebuilders before ordering or purchasing replacement parts.
 
 ### 6 Engine removal - methods and precautions
-`hyundai_elantra_ru_en_268a21ff` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you've decided the engine must be removed for overhaul or major repair work, several preliminary steps should be taken. Locating a suitable place to work is extremely important. Adequate workspace, along with storage space for the vehicle, will be needed.
 
@@ -3695,7 +3435,6 @@ Plan for the vehicle to be out of use for quite a while. A machine shop will be 
 helpful to make sketches or take photos of various accessory mountings and wiring hookups before removing the engine.
 
 ### 7 Engine - removal and installation
-`hyundai_elantra_ru_en_33cb8b04` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Waring 1: The models covered by this manual are equipped with airbags. Always disable the airbag system before working in the vicinity of any airbag system component to avoid the possibility of accidental deployment of the airbag(s), which could cause personal injury (see Chapter 12).
 
@@ -3706,7 +3445,6 @@ Warning 3: The air conditioning system is under high pressure - have a dealer se
 Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code.
 
 ### Removal
-`hyundai_elantra_ru_en_a3e27e6f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Refer to illustrations 7.6, 7.18a, 7.18b and 7.20
 
@@ -3751,7 +3489,6 @@ Unbolt the power steering pump. Tie the pump aside without disconnecting the hos
 16Remove the front section of the exhaust system (see Chapter 4).
 
 ### Removal
-`hyundai_elantra_ru_en_f4f308bb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 17Remove the driveaxles (see Chapter 8). 1 Attach a lifting chain to the lifting eyes on the engine (see illustrations). (If two lifting eyes are not provided, attach the lifting sling or chain to a safe place such as a bracket on the cylinder head.) Roll an engine hoist into position adjacent to the engine compartment and connect the lifting chain to it. Take up the slack until there is slight tension on the hoist.
 
@@ -3770,7 +3507,6 @@ transaxle, remove the pressure plate and the clutch disc (see Chapter 8).
 27 Hoist the engine off the floor and attach it to an engine stand.
 
 ### Installation
-`hyundai_elantra_ru_en_10347498` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 28 Inspect the engine and transaxle mounts (see Chapter 2A). If any of them are worn or damaged, replace them.
 29 If the vehicle is equipped with a manual transaxle, inspect the clutch components (see Chapter 8).
@@ -3793,7 +3529,6 @@ engine compartment and lower it to the floor
 36 After everything has been reassembled, add coolant, oil, power steering and transmission fluids as needed (see Chapter 1). 37 Run the engine and check for proper operation and leaks. Shut off the engine and recheck the fluid levels.
 
 ### Engine overhaul - disassembly sequence
-`hyundai_elantra_ru_en_ebaca92d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1 It's much easier to disassemble and work on the engine if it's mounted on a portable engine stand. A stand can often be rented quite cheaply from an equipment rental yard. Before it's mounted on a stand, the flywheel/driveplate should be removed from the engine.
 
@@ -3814,7 +3549,6 @@ Oil dipstick and dipstick tube
 Flywheel/driveplate (see Chapter 2A)
 
 ### 9Cylinder head - disassembly
-`hyundai_elantra_ru_en_8301f4f2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Note: When removing external components from the engine, pay close attention to details that may be helpful or important during installation. Note the installed position of gaskets, seals, spacers, pins, brackets, washers, bolts and other small items.
 
@@ -3833,7 +3567,6 @@ Piston/connecting rod assemblies (see Section 13)
 Rear main oil seal housing (see Chapter 2A)
 
 ### Crankshaft and main bearings .
-`hyundai_elantra_ru_en_d99043fb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 6Before beginning the disassembly and overhaul procedures, make sure the following items are available. Also, refer to Engine overhaul - reassembly sequence for a list of tools and materials needed for engine reassembly.
 
@@ -3874,12 +3607,10 @@ Note: New and rebuilt cylinder heads are commonly available for most engines at 
 6 Once the valves and related components have been removed and stored in an organized manner, the heads should be thoroughly cleaned and inspected. If a complete engine overhaul is being done, finish the engine disassembly procedures before beginning the cylinder head cleaning and inspection process.
 
 ### 10 Cylinder head - cleaning and inspection
-`hyundai_elantra_ru_en_5d4f223b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Thorough cleaning of the cylinder head and related valve train components, followed by a detailed inspection, will enable you to decide how much valve service work must be done during the engine overhaul. Note: If the engine was severely overheated, the cylinder head is probably warped (see Step 12).
 
 ### Cleaning
-`hyundai_elantra_ru_en_a1b85370` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Scrape all traces of old gasket material and sealant off the head gasket, intake manifold and exhaust manifold mating surfaces. Be very careful not to gouge the cylinder head. Special gasket-removal solvents that soften gaskets and make removal much easier are available at auto parts stores.
 
@@ -3902,14 +3633,12 @@ Compressed air will speed the drying process and ensure that all holes and oil p
 10Scrape off any heavy deposits that may have formed on the valves, then use a motorized wire brush to remove deposits from the valve heads and stems. Again, make sure the valves don't get mixed up.
 
 ### Inspection
-`hyundai_elantra_ru_en_ce4ca32d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note: Be sure to perform all of the following inspection procedures before concluding
 
 machine shop work is required. Make a list of the items that need attention.
 
 ### Cylinder head
-`hyundai_elantra_ru_en_8de7b4d8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 10.11, 10.12 and 10.14 11 Inspect the head very carefully for cracks, evidence of coolant leakage and other damage. If cracks are found, check with an automotive machine shop concerning repair. If repair isn't possible, a new cylinder head must be obtained (see illustration).
 
@@ -3920,7 +3649,6 @@ Refer to illustrations 10.11, 10.12 and 10.14 11 Inspect the head very carefully
 14Check the valve stem-to-guide clearance by measuring the lateral movement of the valve stem with a dial indicator attached securely to the head (see illustration). Install the valve into the guide until the stem is flush with the top of the guide. Compare the total valve stem movement indicated by the gauge needle to the stem-to-guide clearance listed in this Chapter's Specifications. If the stemto-guide clearance is excessive, have the valve guides checked, and if necessary, knurled or replaced by an automotive machine shop.
 
 ### Valves
-`hyundai_elantra_ru_en_2fa7dc51` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 10.15 and 10.16
 
@@ -3932,7 +3660,6 @@ Refer to illustrations 10.15 and 10.16
 16Also measure the stem diameter at several points along their lengths (see illustration). Taper should not exceed the limit listed in this Chapter's Specifications.
 
 ### Valve components
-`hyundai_elantra_ru_en_eade2424` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustrations 10.17 and 10.18
 
@@ -3960,17 +3687,14 @@ Refer to illustrations 10.17 and 10.18
 this check). Note: If the engine has accumulated many miles, it's a good idea to replace all of the springs as a matter of course. 18Stand each spring on a flat surface and check it for squareness (see illustration). If any of the springs are distorted or sagged, replace all of them with new parts. Check the spring retainers, spring seats and the keepers for obvious wear and cracks. Any questionable parts should be replaced with new ones, as extensive damage will occur if they fail during engine operation.
 
 ### Camshafts and lifters
-`hyundai_elantra_ru_en_baa17866` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to Section 21 of this Chapter for the camshaft and lifter inspection procedures. Be sure to inspect the camshaft bearing journals on the cylinder head before the head is sent to a machine shop to have the valves serviced. If the journals are gouged or scored the cylinder head will have to be replaced regardless of the condition of the valves and related components.
 
 ### All components
-`hyundai_elantra_ru_en_22bf9e1c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 if the inspection process indicates the valve components are in generally poor condition and worn beyond the limits specified, which is usually the case in an engine that's being overhauled, reassemble the valves in the cylinder head (see Section 11 for valve servicing recommendations).
 
 ### 1 Valves - servicing
-`hyundai_elantra_ru_en_d9c4eec5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 it to an automotive machine shop for the actual service work. Doing the inspection will enable you to see what condition the head and valvetrain components are in and will ensure that you know what work and new parts are required when dealing with an automotive machine shop. Note: Be aware that Volkswagen cylinder heads have a maximum valve seat refacing dimension. This is the maximum amount of material that can be removed from the valve seats before cylinder head replacement is required. This measurement will be taken by the automotive machine shop.
 
@@ -3982,7 +3706,6 @@ it to an automotive machine shop for the actual service work. Doing the inspecti
 10.18 Check each valve spring for squareness
 
 ### 12Cylinder head - reassembly
-`hyundai_elantra_ru_en_f2b14107` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 12.3, 12.6 and 12.7
 
@@ -3998,7 +3721,6 @@ If the head was not sent out for service, proceed to the next step. If the head 
 12.3 Lubricate the valve stem with clean engine oil before installing it into the guide
 
 ### 12.6 Typical valve components
-`hyundai_elantra_ru_en_cc9c1b34` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 2 345 Kea Oil seall Sprining Valve Valve spring seat
 
@@ -4023,7 +3745,6 @@ Repeat the procedure for the remaining valves. Be sure to return the components 
 10 On 2001 models, after installing the cylinder head (see Chapter 2A), check and, if necessary, adjust the valve clearances as follows.
 
 ### Valve clearance check and adjustment (2001 models)
-`hyundai_elantra_ru_en_2323e692` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustrations 12.16a, 12.16b, 12.17, 12.19a, 12.19b, 12.19c and 12.20
 
@@ -4062,7 +3783,6 @@ clearance for the no. 2 and no. 4 exhaust valves and the no. 3 and no. 4 intake 
 ![](images/e713932befb91fb731b9fc8655615d0b9a00c631771a80934d91cfefdb474934.jpg)
 
 ### 12.19a Install the special lifter tool as shown, squeeze the handles together to depress the lifter 
-`hyundai_elantra_ru_en_be9bf5b3` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 е —
 
@@ -4084,7 +3804,6 @@ N = T + (A - V) T = thickness of the old shim A = valve clearance measured N = t
 24 Installation of the spark plugs, valve cover, spark plug wires and boots, accelerator cable bracket, etc. is the reverse of removal.
 
 ### 13Pistons and connecting rods - removal
-`hyundai_elantra_ru_en_cdd00726` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustrations 13.1, 13.3, 13.4 and 13.6 Note: Prior to removing the piston/connecting rod assemblies, remove the cylinder head, the oil pan, the oil pump drive chain, the oil pump and baffle by referring to the appropriate Sections in chapter 2 Part A or B.
 
@@ -4118,7 +3837,6 @@ Refer to illustrations 13.1, 13.3, 13.4 and 13.6 Note: Prior to removing the pis
 5Loosen each of the connecting rod cap nuts 1/2-turn at a time until they can be removed by hand. Remove the number one connecting rod cap and bearing insert. Don't drop the bearing insert out of the cap.
 
 ### 13Pistons and connecting rods - removal
-`hyundai_elantra_ru_en_02bff5e4` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 6Slip a short length of plastic or rubber hose over each connecting rod cap bolt to protect the crankshaft journal and cylinder wall as the piston is removed (see illustration).
 
@@ -4133,7 +3851,6 @@ Repeat the procedure for the remaining cylinders.
 10 Don't separate the pistons from the connecting rods.
 
 ### 14 Crankshaft - removal
-`hyundai_elantra_ru_en_f95a9f75` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustrations 14.1, 14.2, 14.3 and 14.4 Note: The crankshaft can be removed only after the engine has been removed from the vehicle. It's assumed the flywheel/driveplate, timing belt, oil pan, oil pump, the front and rear oil seal housings and the piston/connecting rod assemblies have already been removed.
 
@@ -4164,7 +3881,6 @@ Check the main bearing caps to see if they're marked to indicate their locations
 14.4 The manufacturer's
 
 ### 14 Crankshaft - removal
-`hyundai_elantra_ru_en_1abe4227` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 identification markings on the main bearing caps (circled) indicate the direction in which
 they must be installed
@@ -4179,7 +3895,6 @@ locations when the crankshaft is reinstalled.
 6Carefully lift the crankshaft straight out of the engine. It may be a good idea to have an assistant available, since the crankshaft is quite heavy. Be careful not to damage the reluctor ring for the crankshaft position sensor. With the bearing inserts in place in the engine block and main bearing caps, return the caps to their respective locations on the engine block and tighten the bolts finger tight.
 
 ### Refer to illustration 15.7
-`hyundai_elantra_ru_en_c803ac59` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1 Remove the main bearing caps and separate the bearing inserts from the caps and the engine block. Tag the bearings, indicating which cylinder they were removed from and whether they were in the cap or the block, then set them aside.
 
@@ -4202,7 +3917,6 @@ The threaded holes in the block must be clean to ensure accurate torque readings
 10If the engine isn't going to be reassembled right away, cover it with a large plastic trash bag to keep it clean.
 
 ### 16 Engine block - inspection
-`hyundai_elantra_ru_en_59966fd2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustrations 16.4a, 16.4b and 16.4c Note: The manufacturer recommends checking the block deck for warpage and the main bearing bore concentricity and alignment. Since special measuring tools are needed, the checks should be done by an automotive machine shop.
 
@@ -4244,13 +3958,11 @@ If the cylinder walls are badly scuffed or scored, or if they're out-of-round or
 telescoping gauge is at the correct point
 
 ### 16 Engine block - inspection
-`hyundai_elantra_ru_en_20b09e56` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 will be developed over time, so work slowly
 and repeat the check until you're satisfied the bore measurement is accurate
 
 ### 17Cylinder honing
-`hyundai_elantra_ru_en_d3a242ec` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustrations 17.3a and 17.3b
 
@@ -4280,7 +3992,6 @@ O-AC HAYNES
 18.4b . . . or a section of broken ring
 
 ### 18.10 Check the ring side clearance with a feeler gauge at several points around the groove
-`hyundai_elantra_ru_en_19469b2b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 AФФ — \* \* . 0 0    10
 
@@ -4291,7 +4002,6 @@ After the honing job is complete, chamfer the top edges of the cylinder bores wi
 After rinsing, dry the block and apply a coat of light rust preventive oil to all machined surfaces. Wrap the block in a plastic trash bag to keep it clean and set it aside until reassembly.
 
 ### 8Pistons and connecting rods inspection
-`hyundai_elantra_ru_en_1678783c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to llstrations 18.4, 18.4b, 18.10 and 18.11
 
@@ -4318,7 +4028,6 @@ Scrape all traces of carbon from the top of the piston. A hand-held wire brush o
 10 Measure the piston ring side clearance by laying a new piston ring in each ring groove and slipping a feeler gauge in beside it (see illustration). Check the clearance at three or four locations around each groove. Be sure to use the correct ring for each groove - they are different. If the side clearance is greater than specified in this Chapter, new pistons will have to be used.
 
 ### 8Pistons and connecting rods inspection
-`hyundai_elantra_ru_en_142ac774` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 11Check the piston-to-bore clearance by measuring the bore (see Section 16) and the piston diameter. Make sure the pistons and bores are correctly matched. Measure the piston across the skirt, at a 90-degree angle to the piston pin (see illustration). The mea
 
@@ -4327,7 +4036,6 @@ Scrape all traces of carbon from the top of the piston. A hand-held wire brush o
 ![](images/a7a1076f165e5685dd69094f9df2769f8e200f91b47e58b1efdb6c918f65f4dd.jpg)
 
 ### 19.1 The oil holes should be chamfered so sharp edges don't gouge or scratch the new bearings
-`hyundai_elantra_ru_en_31ce6547` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ![](images/ccaf4e3a9b11c44ae909edfc068d1923f0309a20538829a7dead6dad1436f2d8.jpg)
 19.2 Use a wire or stiff plastic bristle brush to clean the oil passages in the crankshaft
@@ -4349,7 +4057,6 @@ surement must be taken at a specific point to be accurate: The pistons should be
 15Inspect the connecting rods for cracks and other damage. Temporarily remove the rod caps, lift out the old bearing inserts, wipe the rod and cap bearing surfaces clean and inspect them for nicks, gouges and scratches. After inspecting the rods, replace the old bearings, slip the caps into place and tighten the nuts finger tight. Note: If the engine is being rebuilt because of a connecting rod knock, be sure to install new or remanufactured connecting rods.
 
 ### 19 Crankshaft - inspection
-`hyundai_elantra_ru_en_a1b57ab9` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 19.1, 19.2, 19.5 and 19.7 Remove all burrs from the crankshaft oil holes with a stone, file or scraper (see illustration).
 
@@ -4370,7 +4077,6 @@ Warning: Wear eye protection when using compressed air. Be sure to clean the oil
 Inspect the crankshaft sensor wheel at the rear of the crankshaft for cracks, wear and any other damage. If the sensor wheel is damaged, replace it. Damage to this component can result in severe driveability problems. To remove the sensor wheel from the crankshaft, remove the three' retaining screws. When installing the sensor wheel, be sure to tighten the retaining screws to the torque listed in this Chapter's Specifications.
 
 ### 20Main and connecting rod bearings - inspection and selection
-`hyundai_elantra_ru_en_2a6b550f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 20.1
 
@@ -4398,12 +4104,10 @@ and lay them out on a clean surface in the same general position as their locati
 Dirt and other foreign particles get into the engine in a variety of ways. It may be left in the engine during assembly, or it may pass through filters or the PCV system. It may get into the oil, and from there into the bearings. Metal chips from machining operations and normal engine wear are often present. Abrasives are sometimes left in engine components after reconditioning, especially when parts aren't thoroughly cleaned using the proper cleaning methods. Whatever the source, these foreign objects often end up embedded in the soft bearing material and are easily recognized. Large particles won't embed in the bearing and will score or gouge the bearing and journal. The best prevention for this cause of bearing failure is to clean all parts thoroughly and keep everything spotlessly clean during engine assembly. Frequent and regular engine oil and filter changes are also recommended.
 
 ### 20Main and connecting rod bearings - inspection and selection
-`hyundai_elantra_ru_en_f8b41ea6` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 5 Lack of lubrication (or lubrication breakdown) has a number of interrelated causes. Excessive heat (which thins the oil), overloading (which squeezes the oil from the bearing
 
 ### 21Camshaft, lifters and bearings inspection
-`hyundai_elantra_ru_en_44fcbe53` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to ilustrations 21.1, 21.2, 21.4, 21.5, 21.6a and 21.6b
 
@@ -4432,7 +4136,6 @@ Measure the outside diameter of each camshaft bearing journal and record your me
 5 Compare the camshaft lobe height by measuring each lobe with a micrometer (see illustration). Measure each of the intake lobes and write the measurements and relative positions down on a piece of paper. Then measure each of the exhaust lobes and record the measurements and relative positions also. This will let you compare all of the intake lobes to one another and all of the exhaust lobes to one another. If the difference between the lobes exceeds 0.005 inch the camshaft should be replaced. Do not compare intake lobe heights to exhaust lobe heights as lobe lift may be different. Only compare intake lobes-to-intake lobes and exhaust lobes-to exhaust lobes for this comparison.
 
 ### 21Camshaft, lifters and bearings inspection
-`hyundai_elantra_ru_en_b127d2d1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 6Inspect the contact and sliding surfaces of each lifter for wear and scratches (see illustrations). Note: If the lifter pad is worn, it's a good idea to check the corresponding camshaft. Do not lay the lifters on their side or upside down, or air can become trapped inside and the lifter will have to be bled. The lifters can be laid on their side only if they are submerged in a pan of clean engine oil until reassembly.
 
@@ -4441,7 +4144,6 @@ Measure the outside diameter of each camshaft bearing journal and record your me
 In any case make sure all the parts, new or old, have been thoroughly inspected before reassembly.
 
 ### Hydraulic lifters - in vehicle check
-`hyundai_elantra_ru_en_e30bf963` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 9Noisy valve lifters can be checked for wear without disassembling the engine by following the procedure outlined below:
 
@@ -4467,7 +4169,6 @@ h If the camshaft is OK, the lifters are faulty and must be replaced.
 and cylinder during the end gap measurement and engine assembly.
 
 ### Engine overhaul - reassembly sequence
-`hyundai_elantra_ru_en_d988c1c1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Before beginning engine reassembly, make sure you have allthe necessary new parts, gaskets and seals as well as the following items on hand:
 
@@ -4505,7 +4206,6 @@ Valve cover
 Intake and exhaust manifolds
 
 ### 23 Piston rings - installation
-`hyundai_elantra_ru_en_82509f38` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to ilustrations 23.3; 23.4, 23.5, 23.9a, 23.9b and 23.12
 
@@ -4537,7 +4237,6 @@ act
 ![](images/9726470bbfc7e10334b68c0ef0a8ca59be2db5e8bb29503c31cf5ca203b8efbc.jpg)
 
 ### 23.12 Installing the compression rings with a ring expander - the "TOP" mark (arrow) must face up
-`hyundai_elantra_ru_en_ec507b08` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 piston) is usually installed first. Some piston ring manufactures supply one-piece oil rings - others may supply three-piece oil rings. One-piece rings can be installed as shown in illustration 23.12. If you're installing threepiece oil rings, slip the spacer/expander into the groove (see illustration). If an anti-rotation tang is used, make sure it's inserted into the drilled hole in the ring groove. Next, install the lower side rail. Don't use a piston ring instalation tool on the oil ring side rails, as they may be damaged. Instead, place one end of the side rail into the groove between the spacer/expander and the ring land, hold it firmly in place and slide a finger around the piston while pushing the rail into the groove (see illustration). Next, install the upper side rail in the same manner. Note: Some engines may have a two piece oil ring. If so, follow the installation instructions that come with the piston rings if they differ from the instructions outlined here.
 
@@ -4554,12 +4253,10 @@ Note: Always follow the instructions printed on the ring package or box - differ
 Repeat the procedure for the remaining pistons and rings.
 
 ### 24Crankshaft - installation and main bearing oil clearance check
-`hyundai_elantra_ru_en_ab11123d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If they're still in place, remove the original bearing inserts from the block and the main bearing caps. Wipe the bearing surfaces of the block and caps with a clean, lint-free cloth. They must be kept spotlessly clean.
 
 ### Main bearing oil clearance check
-`hyundai_elantra_ru_en_c2d76470` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 24.5, 24.6, 24.11 and 24.15
 
@@ -4588,7 +4285,6 @@ C Oil hole
 10 Before the crankshaft can be permanently installed, the main bearing oil clearance must be checked.
 
 ### Fir
-`hyundai_elantra_ru_en_e288a0d2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 11Cut several pieces of the appropriate size Plastigage (they should be slightly shorter than the width of the main bearings and place one piece on each crahkshaft main
 
@@ -4616,7 +4312,6 @@ Compare the width of the crushed Plastigage on each journal to the scale printed
 7Carefully scrape all traces of the Plastigage material off the main bearing journals and/or the bearing faces. Use your fingernail or the edge of a credit card - don't nick or scratch the bearing faces.
 
 ### Final crankshaft installation
-`hyundai_elantra_ru_en_f2ed161f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Carefully lift the crankshaft out of the engine.
 
@@ -4637,19 +4332,16 @@ Clean the faces of the bearings in the caps, then apply lubricant to them.
 6The final step is to check the crankshaft endplay with feeler gauges or a dial indicator as described in Section 14. The endplay should be correct if the crankshaft thrust faces aren't worn or damaged and new bearings have been installed.
 
 ### 25 Rear main oil seal - replacement
-`hyundai_elantra_ru_en_13f0d00d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All models are equipped with a one piece rear main oil seal and housing. The crankshaft must be installed first and the main bearing caps bolted in place before the seal and housing can be installed on the engine block. Refer to Chapter 2A for the rear main seal replacement procedure. Disregard the Steps that do not apply since the engine is out of the vehicle and the oil pan is not installed.
 
 ### 26 Pistons and connecting rods - installation and rod bearing oil clearance check
-`hyundai_elantra_ru_en_fc38892e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1 Before installing the piston/connecting rod assemblies, the cylinder walls must be perfectly clean, the top edge of each cylinder must be chamfered, and the crankshaft must be in place.
 
 Remove the cap from the end of the number one connecting rod (check the marks made during removal). Remove the original bearing inserts and wipe the bearing surfaces of the connecting rod and cap with a clean, lint-free cloth. They must be kept spotlessly clean.
 
 ### Piston installation and rod bearing oil clearance check
-`hyundai_elantra_ru_en_31884b3c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to ilustrations 26.5a, 26.5b, 26.11, 26.13 and 26.17
 
@@ -4690,7 +4382,6 @@ Clean the back side of the other bearing insert and install it in the rod cap. A
 1Gently tap on the top of the piston with the end of a wooden or plastic hammer handle (see illustration) while guiding the end of the connecting rod into place on the crankshaft journal. The piston rings may try to pop out of the ring compressor just before entering the cylinder bore, so keep some pressure down on the ring compressor. Work slowly, and if any resistance is felt as the piston enters the cylinder, stop immediately. Find out what's hanging up and fix it before proceeding. Do not, for any reason, force the piston into the cylinder - you might break a ring and/or the piston.
 
 ### Piston installation and rod bearing oil clearance check
-`hyundai_elantra_ru_en_10d72ec9` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 12Once the piston/connecting rod assembly is installed, the connecting rod bearing oil clearance must be checked before the rod cap is permanently bolted in place.
 
@@ -4715,7 +4406,6 @@ Clean the back side of the other bearing insert and install it in the rod cap. A
 inserts and the connecting rod or cap when the clearance was measured. Also, recheck the journal diameter. If the Plastigage was wider at one end than the other, the journal may be tapered (see Section 19).
 
 ### Final connecting rod installation
-`hyundai_elantra_ru_en_4de5400e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Carefully scrape all races of the Plastigage material of the rod journal and/or bearing face. Be very careful not to scratch the bearing - use your fingerail or the edge of a credit card.
 
@@ -4738,7 +4428,6 @@ As a final step, the connecting rod endplay must be checked (see Section 13).
 26 Compare the measured endplay to this Chapter's Specifications to make sure it's correct. If it was correct before disassembly and the original crankshaft and rods were reinstalled, it should still be right. If new rods or a new crankshaft were installed, the endplay may be inadequate. If so, the rods will have to be removed and taken to an automotive machine shop for re- sizing.
 
 ### Intil start-up and break-in after overhaul
-`hyundai_elantra_ru_en_6c632701` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Warning: Have a fire extinguisher handy when starting the engine for the first time. Once the engine has been installed in the vehicle, double-check the oil and coolant levels. Remove all of the spark plugs (see Chapter 1) from the engine. 2 Disable the fuel and ignition systems by disconnecting the primary electrical connectors at the ignition coil pack/modules (see Chapter 5) and the electrical connectors at the fuel injectors (see Chapter 4).
 
@@ -4761,7 +4450,6 @@ Warning: Have a fire extinguisher handy when starting the engine for the first t
 11 After 2000 miles, change the oil and filter again and consider the engine broken in.
 
 ### Section
-`hyundai_elantra_ru_en_3e8848e0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Air conditioning and heater control assembly - removal,
 
@@ -4778,7 +4466,6 @@ Radiator - removal and installation.
 Thermostat - check and replacement . 3 Underhood hose check and replacement . See Chapter 1 Wpumla ∞ 9
 
 ### Engine cooling system
-`hyundai_elantra_ru_en_3225d977` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 All vehicles covered by this manual employ a pressurized engine cooling system with thermostatically controlled coolant circulation. An impeller type water pump mounted on the front (drivebelt end) of the engine block pumps coolant through the engine. The coolant flows around each cylinder as it moves through the cylinder head. Cast-in coolant passages direct coolant around the intake and exhaust ports, near the spark plug areas and in close proximity to the exhaust valve guides.
 
@@ -4791,19 +4478,16 @@ The coolant reservoir does double duty as both the point at which fresh coolant 
 This type of cooling system is known as a closed design because coolant that escapes past the pressure cap is saved and reused.
 
 ### Heating system
-`hyundai_elantra_ru_en_f908a84e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 The heating system consists of a blower fan and heater core located in the heater box, the hoses connecting the heater core to the engine cooling system and the heater/air conditioning control panel on the dashboard. Hot engine coolant is circulated through the heater core. When the heater mode is activated, a flap door opens to expose the heater box to the passenger compartment. A fan switch on the control head activates the blower motor, which forces air through the core, heating the air.
 
 ### Air conditioning system
-`hyundai_elantra_ru_en_3ddd29f9` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 The air conditioning system consists of a condenser mounted in front of the radiator, an evaporator mounted adjacent to the heater core, a compressor mounted on the engine, a filter-drier which contains a high pressure relief valve and the plumbing connecting all of the above components.
 
 A blower fan forces the warmer air of the passenger compartment through the evaporator core (sort of a radiator-in-reverse), transferring the heat from the air to the refrigerant. The liquid refrigerant boils off into low pressure vapor, taking the heat with it when it leaves the evaporator.
 
 ### 2 Antifreeze - general information
-`hyundai_elantra_ru_en_dd6be8aa` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: Do not allow antifreeze to come in contact with your skin or painted surfaces of the vehicle. Rinse off spills immediately with plenty of water. Antifreeze, if consumed, can be fatal to children and pets, so wipe up garage floor and drip pan coolant spills immediately. Keep antifreeze containers covered and repair leaks in your cooling system as soon as they are noticed.
 
@@ -4816,26 +4500,22 @@ Before adding antifreeze, check all hose connections, because antifreeze tends t
 The exact mixture of antifreeze-to-water which you should use depends on the relative weather conditions. The mixture should contain at least 50 percent antifreeze, but should never contain more than 70 percent antifreeze. Consult the mixture ratio chart on the antifreeze container before adding coolant. Hydrometers are available at most auto parts stores to test the coolant. Use antifreeze which meets the vehicle manufacturer's specifications.
 
 ### 3 Thermostat - check and replacement
-`hyundai_elantra_ru_en_a143a8d2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: Do not remove the radiator cap, drain the coolant or replace the thermostat until the engine has cooled completely.
 
 ### Check
-`hyundai_elantra_ru_en_8e300d9f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Before assuming the thermostat is to blame for a cooling system problem, check the coolant level, drivebelt tension (Chapter 1) and temperature gauge operation. If the engine seems to be taking a long time to warm up (based on heater output or temperature gauge operation), the thermostat is probably stuck open. Replace the thermostat with a new one.
 
 ![](images/077a1115f484390cfd7ae2eb29ccd925e47efa004ed5295cf28b9c9637690307.jpg)
 
 ### 3.8To remove the thermostat housing cover, remove these two bolts (arrows)
-`hyundai_elantra_ru_en_af0572a7` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 3 If the engine runs hot, use your hand to check the temperature of the upper radiator hose. If the hose isn't hot, but the engine is, the thermostat is probably stuck closed, preventing the coolant inside the engine from escaping to the radiator. Replace the thermostat. If the upper radiator hose is hot, it means that the coolant is flowing and the thermostat is open. Consult the Troubleshooting Section at the front of this manual for cooling system diagnosis. Caution: Don't drive the vehicle without a thermostat. The computer may stay in open loop and emissions and fuel economy will suffer.
 
 4Further testing of the thermostat can be accomplished by removing the thermostat and suspending it in a container of water. Heat the water while observing the thermostat (do not allow the thermostat to contact the sides of the container during heating). If the thermostat does not fully open as the water boils, it is defective.
 
 ### Replacement
-`hyundai_elantra_ru_en_0230ec38` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code.
 
@@ -4878,14 +4558,12 @@ Install the new thermostat in the housing. Make sure that the correct end faces 
 Install the cover and bolts. Tighten the bolts to the torque listed in this chapter's specifications.
 
 ### Replacement
-`hyundai_elantra_ru_en_07532055` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 16 Reattach the hose to the fitting and tghten the hose clamp securely. Refil the cooling system (Chapter. Start the engine and allow it to reach normal operating temperature, then check for leaks and proper thermostat operation (as described in Steps 2 through 4).
 
 4.4b Condenser cooling fan electrical connector (lower arrow) (vehicles with air conditioning); don't forget to disconnect the reservoir hose (upper arrow) from the radiator filler neck
 
 ### Removal
-`hyundai_elantra_ru_en_b6a49be0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code. Refer toilustrations 4.2,4.3, 4.4a, 4.4b, 4.5a, 4.5b, 4.8 and 4.9
 
@@ -4921,7 +4599,6 @@ Plug all open lines and fittings. 8 Remove the radiator mounting bolts and brack
 12Remove bugs and dirt from the radiator with compressed air and a soft brush. Don't bend the cooling fins as this is done.
 
 ### Installation
-`hyundai_elantra_ru_en_6f9f7acb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 13Installation is the reverse of the removal procedure.
 
@@ -4932,7 +4609,6 @@ Plug all open lines and fittings. 8 Remove the radiator mounting bolts and brack
 16 If you're working on an automatic transaxle equipped vehicle, check the transaxle fluid level and add fluid as needed.
 
 ### Check
-`hyundai_elantra_ru_en_f44d51c2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 The circuit for the radiator cooling motor is controlled by the radiator fan relay, which in turn is controlled by the PCM. The PCM monitors engine temperature through the Engine Coolant Temperature (ECT) sensor. When the ECT sensor indicates that the engine is overheating, the PCM energizes the radiator fan relay, which turns on the circuit for the radiator fan motor.
 
@@ -4958,7 +4634,6 @@ The circuit for the radiator cooling motor is controlled by the radiator fan rel
 5.10 To detach the fan motor from the shroud, remove these screws (arrows)
 
 ### Replacement
-`hyundai_elantra_ru_en_94bcd76a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 5.8, 5.9 and 5.10
 
@@ -4969,14 +4644,12 @@ Refer to illustrations 5.8, 5.9 and 5.10
 1Installation is the reverse of removal.
 
 ### 6Coolant temperature sending unit - check and replacement
-`hyundai_elantra_ru_en_18c61aa3` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustration 6.1
 
 Warning: The engine must be completely cool before removing the sending unit. The coolant temperature sending unit (seeillustration) is threaded into the thermostat housing at the front left corner of the cylinder head. Note: Don't confuse the coolant temperature sending unit with the Engine Coolant Temperature (ECT) sensor, which is also located on the thermostat housing. The coolant temperature sending unit is located in front of (ahead of the ECT sensor. Also, the coolant temperature sending unit electrical connection is a single spade-type terminal; the ECT sensor has a two-terminal electrical connector.
 
 ### Check
-`hyundai_elantra_ru_en_2b4a6f2b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 2 If the coolant temperature gauge is inoperative, check the fuses first (Chapter 12 If the temperature gauge indicates a high operating temperature after the engine has warmed up, see the Troubleshooting Section in the front of the manual.
 
@@ -4991,12 +4664,10 @@ Warning: The engine must be completely cool before removing the sending unit. Th
 7 Unplug the wire from the coolant temperature sending unit and then connect the leads of an ohmmeter between the sending unit terminal and a good ground on the
 
 ### engine.
-`hyundai_elantra_ru_en_f3ecf60d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 8 Compare your measurement with the sending unit resistance listed in this Chapter's Specifications. If the ohmmeter indicates a different figure, then the sending unit is defective. Replace it. Note: A sending unit which has been causing the temperature gauge to indicate a COLD condition regardless of how long the engine has been running, has an open circuit. A sender which has been causing the temperature gauge to indicate a HOT condition all the time has a short circuit.
 
 ### Replacement
-`hyundai_elantra_ru_en_fa069cab` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 9 With the engine completely cool, remove the cap from the radiator to release any pressure, then replace the cap. This reduces coolant loss during sending unit replacement.
 0Disconnect the wiring harness from the sending unit.
@@ -5006,7 +4677,6 @@ Warning: The engine must be completely cool before removing the sending unit. Th
 4 Refill the cooling system and run the engine. Check for leaks and proper temperature gauge operation at the instrument panel.
 
 ### Refer to illustration 7.2
-`hyundai_elantra_ru_en_4e0868d5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Remove the cap from the coolant reservoir and remove the overflow hose. 2 Remove the coolant reservoir retaining bolts (see illustration) and lift out the coolant reservoir. 3 Installation is the reverse of removal.
 
@@ -5021,7 +4691,6 @@ lad
 8.4The water pump weep hole (arrow) is located on the underside of the pump
 
 ### Refer to illustrations 8.4
-`hyundai_elantra_ru_en_0ad8cdbf` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A failure in the water pump can cause serious engine damage due to overheating.
 
@@ -5034,13 +4703,11 @@ A failure in the water pump can cause serious engine damage due to overheating.
 If the water pump shaft bearings fail, they often emit a howling sound at the front of the engine while it's running. (Don't confuse the sound of pump bearing failure with the squealing sound of drivebelt slippage.) Try to rock the water pump pulley up and down. If you can move it up and down, the shaft and/or the bearings are excessively wor.
 
 ### 9Water pump - removal and installation
-`hyundai_elantra_ru_en_70626ba2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/afe71510f8b5054410f4ca7c2abccbb682ff206703b23bf0ea0064e1d0f398b9.jpg)
 9.4 Using a chain wrench or a strap wrench, immobilize the water pump pulley, loosen and remove the pulley bolts and then remove the pulley
 
 ### Chapter 1).
-`hyundai_elantra_ru_en_fdd918f9` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 4 Loosen the water pump pulley bolts (see illustration). Remove the water pump pulley bolts and then remove the pulley.
 
@@ -5077,7 +4744,6 @@ the engine and thread the bolts into the holes finger tight.
 Install a new O-ring in the groove at the front end of the coolant inlet pipe and lubricate the O-ring with coolant. Insert the coolant inlet pipe into the water pump mounting boss and then secure it to the block with the retaining bolt. Tighten the bolt securely. Reconnect the connection hose to the coolant inlet pipe. Tighten the hose clamp securely.
 
 ### Chapter 1).
-`hyundai_elantra_ru_en_8e635987` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 16Install the alternator (see Chapter 5). 7Install the water pump pully and tighten the bolts securely.
 18 Install the accessory drivebelt (see Chapter 1).
@@ -5086,7 +4752,6 @@ Install a new O-ring in the groove at the front end of the coolant inlet pipe an
 Reconnect the negative battery cable. Start the engine and check for leaks.
 
 ### 10 Heater blower motor - circuit check and component replacement
-`hyundai_elantra_ru_en_47aae1c0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 ![](images/46ee5ce016166cb15325fc48e68a9ed241bb47ecaa66c386a0e30f20be0abd68.jpg)
 9.12 Place the gasket in position on the water pump (use a little gasket adhesive to ensure that the gasket doesn't fall off or get pinched or kinked when you install the pump)
@@ -5096,14 +4761,12 @@ power terminal (connected to the fuse box) and the ground terminal (grounded thr
 If the resistance is incorrect between any of the indicated terminals, replace the blower motor resistor. If the resistor is okay, but the fan motor is not functioning correctly, remove the air conditioning and heater control assembly from the dash (see Section 17) and check for continuity between the appropriate blower switch terminals while placing the switch in each speed position (see wiring diagrams at the end of Chapter 12). Check for continuity in each individual wire from the blower resistor to the blower switch. Also check for continuity to chassis ground at the blower switch harness connector ground wire (usually a black wire). Trace the ground wire to the ground point on the chassis and repair the ground, if necessary.
 
 ### Blower relay, high relay and power transistor (2001 models)
-`hyundai_elantra_ru_en_542143bb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Refer to illustrations 10.4a and 10.4b
 
 4 If the blower motor operates at one or more speeds, but not at all speeds, disconnect the electrical connectors from the blower relay, and from the high relay, and then measure the continuity between the indicated terminals (see illustration):
 
 ### Blower relay resistance
-`hyundai_elantra_ru_en_4d7c32aa` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 aWith the air conditioning system turned to ON, there should be continuity between terminals 1 and 2.
 With battery voltage applied to terminals 1 and 2, there should be continuity between terminals 3 and 4.
@@ -5113,14 +4776,12 @@ aterial mattone.
 ket to
 
 ### Check
-`hyundai_elantra_ru_en_cdb8a7b2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 If the blower motor does not operate at any speed, disconnect the electrical connector to the blower motor (see "Component replacement" below) and connect a test light between the two terminals of the harness side of the blower motor connector. Turn the ignition switch to ON and put the blower switch in the HIGH position. The test light should glow brightly, indicating that the blower motor power and ground circuits are okay. Plug in the electrical connector to the blower motor. If the blower motor does not operate when connected, replace the blower motor.
 
 If the test light did not come on in Step 1, refer to the wiring diagrams at the end of Chapter 12 and determine which terminais in the blower motor harness connector are the
 
 ### Blower motor resistor (1996 through 2000 models)
-`hyundai_elantra_ru_en_d1364385` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 10.3
 
@@ -5129,13 +4790,11 @@ Refer to illustration 10.3
 Beetinaand-1.4 Between terminals 3 and 4 - 2.565 to 2.835 ohms
 
 ### High relay resistance
-`hyundai_elantra_ru_en_60f76c5e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 aWith the air conditioning system turned to ON, there should be continuity between terminals 1 and 4. With battery voltage applied to terminals 1 and 4, there should be continuity between terminals 2 and 3. If the resistance of either of the relays is
 incorrect, replace that relay.
 
 ### Power transistor voltage
-`hyundai_elantra_ru_en_4320c10c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 If both of the relays are okay, check the power transistor. Using a couple of T-pins, backprobe terminals 1 and 2 of the power transistor electrical connector (see illustration), and then hook up a voltmeter to the backprobe pins. Start the engine, turn on the heater blower motor and check the voltage at each switch position.
 
@@ -5164,7 +4823,6 @@ If all three components are okay, but the fan motor is not functioning correctly
 ![](images/8acaa606ccf9291ede257a4f5afc08d34a5dca4ab1c283d2ae33a01ba0522319.jpg)
 
 ### Blower motor resistor
-`hyundai_elantra_ru_en_958480ab` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 10.5
 
@@ -5181,7 +4839,6 @@ through 2000 model
 shown, later similar)
 
 ### Heater blower motor
-`hyundai_elantra_ru_en_c98173fa` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 10.7, 10.10 and 10.11 6 Unplug the blower resistor electrical connector (see illustration 10.5).
 7 Unplug the blower motor electrical connector (see illustration).
@@ -5193,27 +4850,22 @@ After pulling down the motor assembly, detach and remove the motor cooling tube 
 12Installation is the reverse of removal.
 
 ### Blower relay
-`hyundai_elantra_ru_en_0306381f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 13 The blower relay is located on the underside of the blower lower case. To replace it, simply unplug the electrical connector and then remove the relay bracket screw. Installation is the reverse of removal.
 
 ### High relay
-`hyundai_elantra_ru_en_d60dd49d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 14The high relay is located on the underside of the blower lower case. To replace it, simply unplug the electrical connector and then remove the relay bracket screw. Installation is the reverse of removal.
 
 ### Power transistor
-`hyundai_elantra_ru_en_92a18145` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 15 The power transistor is located on the underside of the lower blower case. To replace it, simply unplug the electrical connector and then remove the two retaining screws. Installation is the reverse of removal.
 
 ### Heater blower motor
-`hyundai_elantra_ru_en_bbfa3a05` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 16The blower motor replacement procedure for 2001 models is similar to the earlier procedure for 1996 through 2000 models. Refer to Steps 6 through 12 above.
 
 ### 11 Heater core - removal and installation
-`hyundai_elantra_ru_en_5404c2de` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 ![](images/5032c0121656e72974b2f1f981525b944aa340ebe9ac8556f5a4b175347776fb.jpg)
 10.10 To separate the motor cover from the motor assembly, remove these two screws (arrows) (1996 through 2000 model shown, later similar)
@@ -5234,7 +4886,6 @@ Caution: Some models are equipped with an anti-theft radio. Before performing a 
 Note: The removal and repair of the heater and related components is an involved procedure. Read the following Section thoroughly before beginning this procedure. Allow plenty of time to complete the operation. During disassembly, make notes on the routing of all wiring and cables, and the locations of all components, to ensure correct reassembly.
 
 ### Removal
-`hyundai_elantra_ru_en_b14d9dbd` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Refer to illustrations 11.4, 11.7, 11.9, 11.11, 11.13, 11.14, 11.15a, 11.15b, 11.17, 11.18a, 11.18b and 11.19
 
@@ -5278,7 +4929,6 @@ control and the ETAC/keyless entry module brackets to the left vertical member o
 11 Remove the screws that attach the air conditioning and heater control assembly bracket to the left vertical member of the center fascia panel support bracket (see illustration).
 
 ### Removal
-`hyundai_elantra_ru_en_ed98d630` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 12Remove the bolts that attach the right vertical member of the center fascia panel support bracket to the vehicle (see illustration 11.9) and then remove the right vertical member and the three horizontal support brackets as a single assembly.
 
@@ -5318,7 +4968,6 @@ Remove the heater assembly from the vehicle.
 11.17 Disconnect this plastic vacuum hose (arrow) from the metal vacuum line on the left side of the heater case
 
 ### Removal
-`hyundai_elantra_ru_en_58525bb3` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 ![](images/0a06f17b009e0f0c9aa4c2baadd4694fd93f7db0887a1d86bf2d5a66995bde1b.jpg)
 11.18b .. . and then remove the heater core cover
@@ -5340,7 +4989,6 @@ L o
 12.11 R-134a refrigerant and recharge kits are available from auto parts stores; follow the instructions that come with the kit
 
 ### Installation
-`hyundai_elantra_ru_en_e6a1412f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 20Installation is the reverse of removal. As you reassemble the heater unit:
 
@@ -5351,7 +4999,6 @@ Make sure that the air ducting is securely reconnected.
 Fill the cooling system with the correct type and amount of coolant (see Chapter 1). On models equipped with air conditioning, have the system evacuated and recharged.
 
 ### 2Air conditioning system - check and maintenance
-`hyundai_elantra_ru_en_af687bd5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Warning: The air conditioning system is under high pressure. Do not loosen any hose fittings or remove any components until after the system has been discharged. Air conditioning refrigerant must be correctly discharged into an EPA-approved recovery/recycling unit at a dealer seryice department or an automotive air conditioning repair facility. Always wear eye protection when disconnecting air conditioning system fittings.
 
@@ -5380,12 +5027,10 @@ e Make sure the system has the correct refrigerant charge.
 7After the system reaches operating temperature, feel the two pipes connected to the evaporator at the firewall. The pipe (thinner tubing) leading from the condenser outlet to the evaporator should be warm, and the evaporator outlet line (the thicker tubing that leads back to the compressor) should be coid. If the two pipes are the same temperature (or close to the same temperature), the system charge is low.
 
 ### 2Air conditioning system - check and maintenance
-`hyundai_elantra_ru_en_0da94576` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the system is equipped with a sight glass (on top of the receiver-drier), check for the presence of air bubbles in the refrigerant. If the refrigerant passing through the sight glass looks foamy, the system charge is low. Further inspection or testing of the system is beyond the scope of the home mechanic and should be left to a professional.
 
 ### Adding refrigerant
-`hyundai_elantra_ru_en_27ca6976` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Refer to illustration 12.11
 
@@ -5410,7 +5055,6 @@ Note: The charging process requires the compressor to be running. If the clutch 
 17 If you have an accurate thermometer, you can place it in the center air conditioning duct inside the vehicle and keep track of the output air temperature. A charged system that is working correctly should cool down to approximately 40-degrees F. If the ambient (outside) air temperature is very high, say 110 degrees F, the duct air temperature may be as high as 60 degrees F, but generally the air conditioning is 30-40 degrees F cooler than the ambient air.
 
 ### Adding refrigerant
-`hyundai_elantra_ru_en_623d776a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/731b16f755e79fd4aea52cac4e607f8eb8a43b487c584b4a126a90bd0397ab98.jpg)
 13.2 To detach the upper radiator grille, remove these four screws (arrows)
@@ -5423,12 +5067,10 @@ Note: The charging process requires the compressor to be running. If the clutch 
 19Remove the charging kit from the can and store the kit for future use with the piercing valve in the UP position, to prevent inadvertently piercing the can on the next use.
 
 ### 13 Air conditioning receiver-drier - removal and installation
-`hyundai_elantra_ru_en_af687bd5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Warning: The air conditioning system is under high pressure. Do not loosen any hose fittings or remove any components until after the system has been discharged. Air conditioning refrigerant must be correctly discharged into an EPA-approved recovery/recycling unit at a dealer service department or an automotive air conditioning repair facility. Always wear eye protection when disconnecting air conditioning system fittings.
 
 ### Removal
-`hyundai_elantra_ru_en_5168e884` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Refer to illustrations 13.2, 13.3, 13.4a and 13.4b
 
@@ -5451,7 +5093,6 @@ the refrigerant lines from the condenser and from the fitting at the right end o
 5Remove the bolt from the receiver-drier mounting bracket (see illustration 13.4a) and then lift it out of the engine compartment.
 
 ### Installation
-`hyundai_elantra_ru_en_72979cb2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 6Install new O-rings (if equipped) on the refrigerant line fittings and lubricate them with clean refrigerant oil.
 7 Installation is the reverse of removal. 8 If a new receiver-drier is installed, add the correct amount and type of refrigerant oil to the system (see this Chapter's Specifications).
@@ -5464,12 +5105,10 @@ and leak tested.
 13.4bTo disconnect the other line from the condenser, remove this nut (arrow)
 
 ### 4 Air conditioning compressor - removal and installation
-`hyundai_elantra_ru_en_af687bd5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Warning: The air conditioning system is under high pressure. Do not loosen any hose fittings or remove any components until after the system has been discharged. Air conditioning refrigerant must be correctly discharged into an EPA-approved recovery/recycling unit at a dealer service department or an automotive air conditioning repair facility. Always wear eye protection when disconnecting air conditioning system fittings.
 
 ### Removal
-`hyundai_elantra_ru_en_f6bdec53` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the batery, make sure you have the activation code.
 
@@ -5495,7 +5134,6 @@ From underneath the vehicle, loosen the locknut on the tensioner (see illustrati
 Remove the compressor mounting bolts (see illustration 14.5) and then remove the compressor from the engine compartment. Note the location and thickness of any shims or spacers and reinstall them in the same location. Note: Keep the compressor level during handling and storage. If the compressor has seized, or if you find metal particles in the refrigerant oil, the system must be flushed out by an air conditioning specialist and the receiver-drier must be replaced.
 
 ### Installation
-`hyundai_elantra_ru_en_c00411a5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you are instaling a new compressor, refer to the compressor manufacturer's instructions for adding efrierant oil tothe system.
 
@@ -5504,12 +5142,10 @@ If you are instaling a new compressor, refer to the compressor manufacturer's in
 10Install the compressor in the reverse order of removal. Install new fitting O-rings. 1 Have the system evacuated, recharged and leak tested.
 
 ### 15 Air conditioning condenser - removal and installation
-`hyundai_elantra_ru_en_af687bd5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Warning: The air conditioning system is under high pressure. Do not loosen any hose fittings or remove any components until after the system has been discharged. Air conditioning refrigerant must be correctly discharged into an EPA-approved recovery/recycling unit at a dealer service department or an automotive air conditioning repair facility. Always wear eye protection when disconnecting air conditioning system fittings.
 
 ### Removal
-`hyundai_elantra_ru_en_c8ea61d4` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Refer to illustrations 15.6 and 15.7
 
@@ -5525,7 +5161,6 @@ the entry of dirt and moisture.
 7 Remove the left condenser mounting bolt (see illustration), remove the right mounting bolt and the two liquid line bracket nuts (see illustration 15.6) and then lift the condenser out of the vehicle. Store the condenser upright to prevent oil loss.
 
 ### Installation
-`hyundai_elantra_ru_en_45acf64b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Refer to illustration 15.8 If you're going to reuse the old condenser, straighten any bent condenser fins with a fin comb (see illustration) and then blow out the debris with compressed air. Caution: Use a face shield and goggles when using compressed air to clean the condenser.
 
@@ -5543,12 +5178,10 @@ Refer to illustration 15.8 If you're going to reuse the old condenser, straighte
 Have the system evacuated, recharged, and leak tested.
 
 ### 16 Air conditioning evaporator - removal and installation
-`hyundai_elantra_ru_en_a6422a58` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Warning: The air conditioning system is under high pressure. Do not loosen any hose fittings or remove any components until the system has been discharged. Air conditioning refrigerant should be correctly discharged into an approved recovery/recycling unit-by a dealer or an automotive air conditioning repair facility. Always wear eye protection when disconnecting air conditioning system fittings.
 
 ### Removal
-`hyundai_elantra_ru_en_361818a5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code.
 
@@ -5581,7 +5214,6 @@ Remove the upper and lower evaporator case mounting bolts (see illustration). Re
 X
 
 ### vehicle (see illustration).
-`hyundai_elantra_ru_en_64f8ba42` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remove the sponge pad (see illustration) which insulates the evaporator inlet and outlet pipes.
 
@@ -5594,7 +5226,6 @@ Remove the sponge pad (see illustration) which insulates the evaporator inlet an
 13 If the evaporator core needs to be cleaned, wash it with soapy water and a soft brush or blow it off with (low-pressure) compressed air. Warning: Be sure to wear eye protection when using compressed air. Inspect the evaporator core and fittings for cracks or any other damage. Replace the evaporator if it's damaged in any way.
 
 ### Installation
-`hyundai_elantra_ru_en_fa6f0f9f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 14Evaporator installation is the reverse of removal. Replace any O-rings with ones that are specifically for the type of refrigerant in your system and lubricate them with refrigerant oil prior to installation. Warning: Do not apply compressor oil to the fitting nuts. Tighten the evaporator cooling unit inlet and outlet fittings securely.
 
@@ -5629,7 +5260,6 @@ Remove the sponge pad (see illustration) which insulates the evaporator inlet an
 17Air conditioning and heater control assembly - removal, installation and cable adjustment
 
 ### Removal and installation
-`hyundai_elantra_ru_en_c2c19efb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Refer to illustrations 17.1 and 17.3
 
@@ -5640,7 +5270,6 @@ Refer to illustrations 17.1 and 17.3
 6 Installation is the reverse of removal. When you're done, be sure to adjust the temperature control cable as follows.
 
 ### Temperature control cable adjustment
-`hyundai_elantra_ru_en_46de7b5c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 7Slide the temperature control lever to COLD.
 
@@ -5649,7 +5278,6 @@ Turn the temperature-door-shaft arm (the white plastic arm) all the way to the l
 ![](images/2394b71c4430bf5c0be2d6f053c287ec53b53a9a90a56c2615bf47fb087bf323.jpg)
 
 ### 1General information
-`hyundai_elantra_ru_en_7de50652` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 1.1 Warning: Gasoline is extremely fiammable, so take extra precautions when you work on any part of the fuel system. Don't smoke or llow open flames or bare light bulbs near the work area, and don't work in a garage where a gas-type appliance (such as a water heater or a clothes dryer) is present. Since gasoline is carcinogenic, wear latex gloves when there's a possibility of being exposed to fuel, and, if you spill any fuel on your skin, rinse it off immediately with soap and water. Mop up any spils immediately and do not store fuelsoaked rags where they could ignite. The fuel system is under constant pressure, so, if any fuel lines are to be disconnected, the fuel pressure in the system must be relieved first. When you perform any kind of work on the fuel system, wear safety glasses and have a Class B type fire extinguisher on hand.
 
@@ -5658,7 +5286,6 @@ All models covered by this manual are equipped with a Multiport Fuel Injection (
 ![](images/c805f7492e6189c15757f43ac7d04c0c767a34d0cf61f3127b153d12b88c7d4b.jpg)
 
 ### 1.1 Fuel injection components
-`hyundai_elantra_ru_en_8d305680` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1Air cleaner assembly 2 3 Air intake duct Throttle body
 
@@ -5674,12 +5301,10 @@ Access to the electric in-tank fuel pump is provided through an access hole unde
 The exhaust system consists of an exhaust manifold, a pair of catalytic converters, an exhaust pipe and a muffler. Each of these components is replaceable. For further information regarding the catalytic converters, refer to Chapter 6.
 
 ### Fuel pressure relief procedure
-`hyundai_elantra_ru_en_16381f32` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code. Refer to illustrations 2.1, 2.2 and 2.3 1 Remove the rear seat cushion (see
 
 ### illustration).
-`hyundai_elantra_ru_en_e6c2fd8c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remove the fuel pump access cover (see illustration).
 3 Disconnect the fuel pump electrical connector (see illustration).
@@ -5698,7 +5323,6 @@ Remove the fuel pump access cover (see illustration).
 3.3aThe fuel pump check connector (arrow) is located at the rear of the engine compartment, behind and below the air intake plenum
 
 ### Preliminary check
-`hyundai_elantra_ru_en_3c4acca8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Refer to illustrations 3.3a and 3.3b
 
@@ -5713,14 +5337,12 @@ If there is no sound from the pump, disconnect the fuel pump check connector (se
 ![](images/280ebc0050121e5c067d4d1b09eb17c0f6b1c71117f817a7910ddcdcacabc369.jpg)
 
 ### 3.3b .. . to use the fuel pump check connector, remove the plug and connect a jumper cable from the 
-`hyundai_elantra_ru_en_1067c68a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 ![](images/fc3bf827594aa949fb2a6b61f01e4a0bdb3e674ca8b820180ecf1c18c3786616.jpg)
 
 illustration). Using a jumper cable, hook up the battery to the check connector (see illustration) and power up the fuel pump. The pump should operate. If it doesn't, check the fuel pump circuit, referring to Chapter 12 and the wiring diagrams. Check the related fuses, the fuel pump relay and the related wiring to ensure power is reaching the fuel pump connector. Check the ground circuit for continuity. If the power and ground circuits are good and the fuel pump does not operate, remove the fuel pump (see Section 5) and check for open circuits in the fuel pump module wiring and connectors. If the wiring and connectors are good, replace the fuel pump.
 
 ### Pressure check
-`hyundai_elantra_ru_en_d02398a7` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 3.9, 3.12a, 3.12b, 3.16, 3.17 and 3.18
 5 Relieve the system fuel pressure (see Section 2).
@@ -5728,7 +5350,6 @@ Refer to illustrations 3.9, 3.12a, 3.12b, 3.16, 3.17 and 3.18
 7 Reconnect the fuel pump connector (that you disconnected to relieve system fuel pressure).
 
 ### 3.12aTo connect your fuel pressure gauge to the fuel filter, fabricate your own adapter setup ..
-`hyundai_elantra_ru_en_45272b53` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 12 Aharc() diameter pipe with flange (to prevent O-rings from sliding up pipe) at one end (doesn't have to be bent, like this piece)
 3 Two O-rings that fit snugly over end of pipe up aginst pipe flane
@@ -5745,12 +5366,10 @@ Unplug the brake fluid level sensor elec trical connector from the master cylind
 11 Put a shop rag around the fuel line retaining bolt on top of the fuel filter (see illustration 3.9), and then remove the bolt and disconnect the fuel line from the filter. Connect a fuel pressure gauge to the fuel filter in place of the fuel ine (see illustrations).
 
 ### 2001 and later models
-`hyundai_elantra_ru_en_045c8fea` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 13Using the proper adapters (available at most auto parts stores) connect the fuel pressure gauge to the fuel rail.
 
 ### All models
-`hyundai_elantra_ru_en_53c8513d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 4Reconnect the negative battery cable. Start the engine and make sure that there are no leaks at the fuel pressure gauge connection. If there are, turn off the engine immediately and tighten the fittings. Measure the fuel pressure and compare this measurement to the fuel pressure listed in this Chapter's Specifications.
 
@@ -5784,7 +5403,6 @@ tion 2). 20 Disconnect the fuel pressure gauge. Replace the O-ring at the end of
 5.3 Unplug the fuel pump/fuel sending unit electrical connector (1), remove the fuel high pressure line flange bolt (2), loosen the fuel return hose clamp (3) and then disconnect both the line and the hose
 
 ### Warning: See the Warning in Section 1.
-`hyundai_elantra_ru_en_73800425` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Always relieve the fuel pressure before servicing fuel lines or fittings (see Section 2).
 
@@ -5803,7 +5421,6 @@ When replacing a fuel line, remove all fasteners attaching the fuel line to the 
 When replacing rubber hose, always use hose specifically designed for high-pressure fuel injection systems, and replace the hose clamp with a new one.
 
 ### 5Fuel pump - removal and installation
-`hyundai_elantra_ru_en_faae06d8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Refer to illustrations 5.3, 5.5 and 5.6 Warning: See the Warning in Section 1. Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code.
 
@@ -5822,7 +5439,6 @@ Remove the fuel pump mounting flange screws (see illustration).
 5.6 Remove the fuel pump/fuel sending unit assembly from the fuel tank
 
 ### Check
-`hyundai_elantra_ru_en_2029a89d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 6.2a and 6.2b
 
@@ -5837,7 +5453,6 @@ Remove the fuel pump/fuel level sending unit assembly (see Section 5).
 If the fuel level sending unit resistance does not change smoothly as the float moves from EMPTY to FULL, replace the fuel level sending unit.
 
 ### 6.2aFuel pump/fuel level sending unit electrical connector terminal guide (1996 through 2000 models)
-`hyundai_elantra_ru_en_4fcfa963` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 12 Gr level warning indicator light
 3 Fuel pump voltage supply (from fuel pump relay)
@@ -5850,7 +5465,6 @@ If the fuel level sending unit resistance does not change smoothly as the float 
 43010-06.02A HAYNES
 
 ### 6.2bFuel pump/fuel level sending unit electrical connector terminal guide (2001 models)
-`hyundai_elantra_ru_en_213f0a9e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 1 Ground for fuel level sending unit and for thermistor (for low fuel level warning indicator light)
 2 Thermistor voltage signal to low fuel level warning indicator light
@@ -5874,7 +5488,6 @@ If the fuel level sending unit resistance does not change smoothly as the float 
 7.7 Loosen the hose clamps (arrows), then disconnect the fuel filler neck hose and the vapor hose from the fuel tank
 
 ### 7 Fuel tank - removal and installation
-`hyundai_elantra_ru_en_c0159352` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 ing unit (see Section 5), if you haven't already done so. Separate the fuel level sending unit from the fuel pump (see illustrations). Reassembly is the reverse of disassembly. Installation is the reverse of removal.
 
@@ -5905,12 +5518,10 @@ Remove the fuel tank strap bolts (see illustration).
 10 Swing the fuel tank retaining straps down until they are out of the way. 11 Lower the tank enough to disconnect any remaining hoses or connectors. 12Remove the tank from the vehicle. 13 Installation is the reverse of removal.
 
 ### Fuel tank cleaning and repair general information
-`hyundai_elantra_ru_en_3a9a15e8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 The fuel tank is not repairable. If it becomes damaged, it must be replaced. 2 Cleaning the fuel tank (due to fuel contamination) should be performed by a professional with the proper training to carry out this critical and potentially dangerous work. Even after cleaning and flushing, explosive fumes may remain inside the fuel tank. 3 If the fuel tank is removed from the vehicle, it should not be placed in an area where sparks or open flames could ignite the fumes coming out of the tank. Be especially careful inside a garage where a gas-type appliance is located.
 
 ### Refer to illustration 9.2
-`hyundai_elantra_ru_en_e6a694a3` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Unclamp the air intake tube from the air cleaner cover, remove the air cleaner cover and remove the air filter element (see Chapter 1). Note: Always inspect the condition of the filter element when you remove it. Replace the element if necessary.
 2 Remove the bolts (see illustration) that attach the air cleaner housing to the inner fender panel.
@@ -5918,7 +5529,6 @@ The fuel tank is not repairable. If it becomes damaged, it must be replaced. 2 C
 4 Installation is the reverse of removal.
 
 ### Removal
-`hyundai_elantra_ru_en_f705eb67` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 10.1, 10.2, 10.3, 10.4 and 10.5 1 Detach the accelerator cable from the three cable clips (see illustration).
 
@@ -5945,7 +5555,6 @@ Detach the accelerator cable from the firewall (see illustration).
 6 From outside the vehicle, pull the accelerator cable through the firewall.
 
 ### Installation
-`hyundai_elantra_ru_en_10bb968e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 7 Installation is the reverse of removal. Make sure that there are no kinks or sharp bends in the cable.
 
@@ -5958,7 +5567,6 @@ d Remove any sharp bends from the accelerator cable.
 e) Loosen the locknut and turn the throttie cable adjusting nut clockwise to the point at which the throttle lever just begins to move, then back off the adjusting nut one turn and tighten the locknut securely.
 
 ### 1Fuel injection system - general information
-`hyundai_elantra_ru_en_526d2cd1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 \* 6 \*\*
 
@@ -5967,12 +5575,10 @@ The fuel injection system consists of the air intake system, the fuel delivery s
 The fuel injection system, the engine control system and the emission control systems are highly integrated. For information on the engine management system and the emission control systems, refer to Chapter 6.
 
 ### Air intake system
-`hyundai_elantra_ru_en_1327a42d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The air intake system consists of the air cleaner housing, the air filter element, the air intake duct, the throttle body, the air intake plenum and the intake manifoid runners (the plenum and the manifold runners are a onepiece design).
 
 ### Engine management system and emission control systems
-`hyundai_elantra_ru_en_e96005c7` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 The engine management and emission control systems are described in detail in Chapter 6.
 
@@ -5998,7 +5604,6 @@ tor
 12.8 Fuel injector harness connector terminal guide
 
 ### Fuel delivery system
-`hyundai_elantra_ru_en_6bca8021` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 The fuel delivery system consists of the fuel tank, the in-tank fuel pump, the fuel pressure regulator, the fuel rail, the fuel injectors and the hoses and lines connecting all of these components.
 
@@ -6025,7 +5630,6 @@ the assumption that the fuel pressure is adequate (see Section 3).
 With the engine running, place an automotive stethoscope against each injector, one at a time, and listen for a clicking sound, indicating operation (see illustration). If you don't have a stethoscope, place the tip of a screwdriver against the injector and listen through the handle. If you hear the injectors operating, the electrical circuits are functioning, but the injectors may be dirty or fouled from carbon deposits - commercial cleaning products may help or they may require replacement. If one or more injectors are not operating, proceed with the injector check.
 
 ### Fuel delivery system
-`hyundai_elantra_ru_en_b885e07e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 8 Turn the ignition switch to OFF. Disconnect one of the injector connectors (see illustration) and check for battery voltage at terminal no. 1 on the harness side of the injector connector with the ignition key turned to ON.
 
@@ -6052,7 +5656,6 @@ Trotle stoo sot(y Idle switch (models with an automatic transaxle only)
 Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code.
 
 ### Removal
-`hyundai_elantra_ru_en_6049af0a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Disconnect the cable from the negative terminal of the battery.
 
@@ -6069,7 +5672,6 @@ Refer to illustrations 13.2, 13.3 and 13.5
 7Remove the gasket and discard it (you must use a new gasket when reinstalling the throttle body.
 
 ### Installation
-`hyundai_elantra_ru_en_6495e73b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 8 Install the TPS and, on 2001 models, the
 
@@ -6094,7 +5696,6 @@ Check the coolant level and il as neessary.
 17Reconnect the battery negative cable.
 
 ### Warning: See the Warning in Section 1
-`hyundai_elantra_ru_en_757feb68` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code.
 
@@ -6112,7 +5713,6 @@ throttle body retaining
 nuts (arrows) or, on 2001 models, the throttle body retaining bolts
 
 ### Wa
-`hyundai_elantra_ru_en_77f188b6` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/1efaea14892bdff3ad394aa2346fa1bee963c1453229ebb4ab3f321511e7d390.jpg)
 14.3To disconnect the fuel return line from the fuel pressure regulator, remove the banjo bolt (lower arrow from the bottom of the fuel pressure regulator to detach the regulator from the fuel rail, remove the two screws (upper arrows)
@@ -6135,7 +5735,6 @@ m the
 Start the engine and check for leaks.
 
 ### Removal
-`hyundai_elantra_ru_en_4930115b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Rer to ilutrations15.4, 15.5, 15.7, 15.7, 15.8a, 15.8b and 15.8c
 
@@ -6171,7 +5770,6 @@ Disconnect the main injector harness electrical connector and the injector conne
 8 Remove the retaining clip and remove the injector(s) from the fuel rail assembly (see illustrations). Remove and discard the O-rings and seals. Note: Whether you're replacing an injector or a leaking O-ring, it's a good idea to remove all the injectors from the fuel rail and replace all the O-rings.
 
 ### Installation
-`hyundai_elantra_ru_en_0d125466` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 9 Coat the new O-rings with clean engine oil and install them on the injectors, and then insert each injector into its corresponding bore in the fuel rail. Install the injector retaining clips.
 
@@ -6190,7 +5788,6 @@ Connect the fuel pressure line flange bolts and tighten them securely.
 17Turn the ignition switch to ON, but don't start the engine. When the ignition key is turned to ON, it activates the fuel pump for about two seconds, which builds up fuel pressure in the fuel lines and the fuel rail. Repeat this step two or three times and then check the fuel pressure line, fuel return hose, the fuel rail and the fuel injectors for fuel leakage.
 
 ### 16 Exhaust system - general information
-`hyundai_elantra_ru_en_d4a35929` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 system components should be done only after enough time has elapsed after driving the vehicle to allow the system components to cool completely. Also, when working under the vehicle, make sure it is securely supported on jackstands.
 
@@ -6211,7 +5808,6 @@ d Apply anti-seize compound to the threads of all exhaust system fasteners durin
 e Be sure to allow sufficient clearance between newly installed parts and all points on the underbody to avoid overheating the floor pan and possibly damaging the interior carpet and insulation. Pay particularly close attention to the catalytic converter and heat shield.
 
 ### Muffler and pipes
-`hyundai_elantra_ru_en_0a1fc32a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 2 Conduct regular inspections of the exhaust system to keep it safe and quiet. Look for any damaged or bent parts, open seams, holes, loose connections, excessive corrosion or other defects which could allow exhaust fumes to enter the vehicle. Also check the catalytic converter when you inspect the exhaust system. Deteriorated exhaust system components should not be repaired; they should be replaced with new parts.
 
@@ -6222,7 +5818,6 @@ If the exhaust system components are extremely corroded or rusted together, weld
 Work from the back to the front when removing exhaust system components. Apply penetrating oil to the exhaust system component fasteners to make them easier to remove.
 
 ### Catalytic converter
-`hyundai_elantra_ru_en_a0dd8a24` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 16.5
 
@@ -6241,7 +5836,6 @@ Inspect the converter for cracks or other damage.
 ф
 
 ### Section
-`hyundai_elantra_ru_en_023bfc0f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Aternator - rmal and insalation .. . 10
 Battery cables - replacement.. .… 4
@@ -6260,24 +5854,20 @@ Starter motor - removal and installation. 13
 Starting system - general information and precautions.. 11
 
 ### Ignition system
-`hyundai_elantra_ru_en_44b9a892` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Sys Distributorless electronic ignition Ffing orde.. … 1-3-4-2 ion coil restance (pproximate) Primary windings  0.45 to 0.55 ohms od in 10.3 to 13.9 K-ohms Cyinde N 15.3 K-ohms Cyind 10.  ms Cy 8.8 K-ohms
 
 ### Torque specifications
-`hyundai_elantra_ru_en_4967f1ff` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Ft-Ilbs (unless otherwise indicated)Nm
 
 Atermator mounting bolts Lower bolt . s 15 to t8 20 to 25 Up 108 to 132 in-lbs 12 to 15 e 20 to 25 27 to 34
 
 ### 1 General information
-`hyundai_elantra_ru_en_1e8b9987` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The engine electrical systems include all ignition, charging and starting components. Because of their engine-related functions, these components are discussed separately from chassis electrical accessories (see Chapter 12) such as the lights, the instruments, etc.
 
 ### Precautions
-`hyundai_elantra_ru_en_5e9339f8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Always observe the following precautions when working on the electrical system:
 
@@ -6290,7 +5880,6 @@ Always disconnect the negative battery cable from the battery before working on 
 It's also a good idea to review the safety-related information regarding the engine electrical systems located in the "Safety first!" section at the front of this manual, before beginning any operation included in this Chapter.
 
 ### Battery disconnection
-`hyundai_elantra_ru_en_79543873` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Several systems on the vehicle require battery power to be available at all times, either to ensure their continued operation (such as radio, alarm system, power door locks, windows, etc.) or to maintain control unit memories (such as that in the engine management system's Powertrain Control Module [PCM]) which would be lost if the battery were to be disconnected. Therefore, whenever the battery is to be disconnected, first note the following to ensure that there are no unforeseen consequences of this action:
 
@@ -6309,14 +5898,12 @@ Warning 2: If work is to be performed around any of the airbag system components
 The battery is located at the left front corner of the engine compartment. To disconnect the battery for service procedures requiring power to be cut from the vehicle, loosen the negative cable clamp nut and detach the negative cable from the negative battery post (see Section 3). Isolate the cable end to prevent it from accidentally coming into contact with the battery post.
 
 ### з Battery - removal and installation
-`hyundai_elantra_ru_en_e09a112e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: Hydrogen gas is produced by the battery, so keep open flames and lighted cigarettes away from it at all times. Always wear eye protection when working around a battery. Rinse off spilled electrolyte immediately with large amounts of water.
 
 Caution 1: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code. Caution 2: Disconnecting the battery can cause driveability problems. See Section 1 for the use of an auxiliary voltage input device before disconnecting the battery.
 
 ### Check
-`hyundai_elantra_ru_en_e01ab7a6` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 3.1a, 3.1b and 3.1c A battery cannot be accurately tested until it is at or near a fully charged state. Disconnect the negative battery cable from the battery and perform the following tests:
 
@@ -6340,14 +5927,12 @@ sually d on oreye ery as ery is check rolyte dge of stilled xcess eriods ecific 
 Battery load test - An accurate check of the battery condition can only be performed with a load tester (available at most auto parts stores). This test evaluates the ability of the battery to operate the starter and other accessories during periods of heavy amperage draw (load). Install a special battery load testing tool onto the battery terminals (see illustration). Load test the battery according to the tool manufacturer's instructions. This tool utilizes a carbon pile to increase the load demand (amperage draw) on the battery. Maintain the load on the battery for 15 seconds and observe that the battery voltage does not drop below 9.6 volts. If the battery condition is weak or defective, the tool will indicate this condition immediately. Note: Cold temperatures will cause the minimum voltage requirements to drop slightly. Follow the chart given in the tool manufacturer's instructions to compensate for cold climates. Minimum load voltage for freezing temperatures (32 degrees F/0-degrees C should be approximately 9.1 volts.
 
 ### Check
-`hyundai_elantra_ru_en_90c99588` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Battery drain test - This test will indicate whether there's a constant drain on the vehicle's electrical system that can cause the battery to discharge. Make sure all accessories are turned Off. If the vehicle has an underhood light, verify it's working properly, then disconnect it.
 
 Connect one lead of a digital ammeter to the disconnected negative battery cable clamp and the other lead to the negative battery post. A drain of approximately 100 milliamps or less is considered normal (due to the engine control compudigital clocks, digital radios and other components which normally cause a key-off battery drain). An excessive drain (approximately 500 milliamps or more) will cause the battery to discharge. The problem circuit or component can be located by removing the fuses, one at a time, until the excessive drain stops and normal drain is indicated on the meter.
 
 ### Replacement
-`hyundai_elantra_ru_en_3c982b78` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 3.2 and 3.4
 
@@ -6386,7 +5971,6 @@ cranking rating, etc.
 9 The remainder of installation is the reverse of .removal. Connect the positive cable first, then the negative cable.
 
 ### 4 Battery cables - replacement
-`hyundai_elantra_ru_en_7e2381e9` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 4.4a and 4.4b
 
@@ -6405,7 +5989,6 @@ Caution 2: Disconnecting the battery can cause driveability problems. See Sectio
 ![](images/1e891b0a0f8f5ebdcd86e7d22d0c5f030d7ad5ef6990611f8956cbede506f799.jpg)
 
 ### 4.4bTo disconnect the negative battery cable from the engine, remove this bolt (arrow)
-`hyundai_elantra_ru_en_6a779b55` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 the other end of each cable. The positive cable is connected to the starter motor solenoid and the negative cable is connected to one of the transaxle-to-engine bolts (see illustrations). Note the routing of each cable to ensure correct installation.
 
@@ -6420,7 +6003,6 @@ Before connecting a new cable to the battery, make sure that it reaches the batt
 9 After installing the cables, connect the negative cable to the negative battery post.
 
 ### 5Ignition system - general information and precautions
-`hyundai_elantra_ru_en_e597d6be` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1 The ignition system is designed to ignite the fuel/air charge entering each cylinder at the exact moment for maximum efficiency. It does this by producing a high voltage spark between the electrodes of each spark plug.
 
@@ -6440,7 +6022,6 @@ c) Never allow the ignition coil terminals to touch ground. A grounded coil coul
 d) Do not disconnect the battery when the engine is running.
 
 ### 6Ignition system - check
-`hyundai_elantra_ru_en_1a222c1a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Refer to illustrations 6.2, 6.4, 6.5a, 6.5b and 6.8
 
@@ -6476,7 +6057,6 @@ b) On 2000 models, measure voltage between terminal 1 of the coil connector and 
 c On 2001 models, measure voltage between terminal 2 and ground (see illustration).
 
 ### 6Ignition system - check
-`hyundai_elantra_ru_en_793eda25` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 6Battery voltage should be available with the ignition key turned to ON. If there is no battery voltage present, check the fuses, the wiring and/or the circuit (including the ground side of the circuit) between the fuse box and the ignition coil. Note: For testing and additional information on the ignition system circuits, refer to the wiring diagrams at the end of Chapter 12.
 
@@ -6507,14 +6087,12 @@ un the egine and check the altemato for abnormal noise.
 3If the warning light does not illuminate when the ignition key is switched on, switch the ignition off and disconnect the wiring connector from the alternator (do not disconnect the large output wire). Connect the black wire terminal in the harness connector to a good engine ground point using a jumper wire and switch the ignition on. The warning light should illuminate - if it doesn't, there is an open circuit in the black wire between the alternator and the instrument cluster, or the instrument cluster is defective.
 
 ### 6Ignition system - check
-`hyundai_elantra_ru_en_e7703df9` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 \*03=55
 
 and for the No. 2 and No. 3 cylinders (see illustration). Caution: Failure to unplug the coil primary electrical connector(s) before measuring secondary resistance can, if the coil secondary winding is shorted, damage the PCM or other sensitive components in the engine management system. Compare your measurements with the coil secondary resistance listed in this Chapter's Specifications. If the secondary resistance is incorrect for either coil, replace the ignition coil assembly.
 
 ### Refer to illustration 7.4
-`hyundai_elantra_ru_en_df220f74` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Some models are equipped with an
 anti-theft radio. Before performing a proce
@@ -6527,7 +6105,6 @@ illustration).
 56 Remove the coil assembly. Installation is the reverse of removal.
 
 ### Charging system - general information and precautions
-`hyundai_elantra_ru_en_415d4d47` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 The charging system includes the alternator, an integral voltage regulator, the battery, a fusible link and the wiring between all the components. The charging system supplies electrical power for the ignition system, the lights, the radio, etc. The alternator is driven by a drivebelt at the front of the engine.
 
@@ -6552,7 +6129,6 @@ f The alternator is connected directly to the battery, and could arc or cause a 
 g) Wrap a plastic bag over the alternator and secure it with rubber bands before steam cleaning the engine.
 
 ### Charging system - check
-`hyundai_elantra_ru_en_a7ae1555` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 If a malfunction occurs in the charging circuit, do not immediately assume that the alternator is causing the problem. First check the following items:
 
@@ -6564,7 +6140,6 @@ Check the drivebelt condition and tension (see Chapter 1).
 If the warning light illuminates, replace the alternator.
 
 ### In
-`hyundai_elantra_ru_en_694ab5b1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 #
 
@@ -6579,7 +6154,6 @@ If the indicated voltage is greater than the specified charging voltage, replace
 9If the indicated voltage reading is less than the specified charging voltage, the alter nator is probably defective. Have the chargig system checked at a dealer service deparment or other properly equipped repair faciity. Note: Many auto parts stores will bench test an alterator off the vehicle. Refer to your local auto parts store regarding their policy, many will perform this service free of charge.
 
 ### 10 Alternator - removal and installation
-`hyundai_elantra_ru_en_0810a21f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Caution: Some models are equipped with an anti-theft radio. Before performing a proce dure that requires disconnecting the battery make sure you have the activation code,
 
@@ -6597,7 +6171,6 @@ Refer to illustrations 10.3, 10.4a and10.4b Disconnect the cable from the negati
 4Loosen the alternator lower mounting bolt (see illustration). Working from above, loosen the upper adjustment lockbolt (see ilustration), back off the adjustment bolt, swivel the alternator toward the engine and then release the drivebelt from the alternator pulley.
 
 ### Installation
-`hyundai_elantra_ru_en_23469269` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 5 Unscrew and remove the alternator upper and lower mounting bolts and washers, then remove the alternator from its mounting bracket.
 
@@ -6608,14 +6181,12 @@ than the
 If you are replacing the alternator, take the old one with you when purchasing a new unit. Make sure the new/rebuilt unit looks identical to the old alternator. Look at the terminals - they should be the same in number, size and location as the terminals on the old alternator. Finally, look at the identification numbers - they will be stamped into the housing or printed on a tag attached to the housing. Make sure the numbers are the same on both alternators.
 
 ### 11 Starting system - general information and precautions
-`hyundai_elantra_ru_en_805c8bd5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 7 Many new/rebuilt alternators DO NOT have a pulley installed, so you may have to switch the pulley from the old unit to the new/rebuilt one. When buying an alternator, find out the shop's policy regarding pulleyssome shops will perform this service free of charge.
 
 8 Installation is the reverse of removal. Tension the auxiliary drivebelt (see Chapter 1) and tighten the alternator mounting bolts to the torque listed in this Chapter's Specifications.
 
 ### Removal
-`hyundai_elantra_ru_en_d8a0b88a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 th an rocettery,
 
@@ -6632,7 +6203,6 @@ b) The starter is connected directly to the battery and could arc or cause a fir
 Always detach the cable from the negative terminal of the battery before working on the starting system.
 
 ### Refer to illustration 12.4
-`hyundai_elantra_ru_en_c5f1fe35` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 ↑If a malfunction occurs in the starting circuit, do not immediately assume that the starter is causing the problem. First, check
 
@@ -6658,7 +6228,6 @@ If the starter does not activate when the ignition switch is turned to the start
 3If the starter turns over slowly, check the starter cranking voltage and the current draw from the battery. This test must be performed with the starter assembly on the engine. Crank the engine over (for 10 seconds or less) and observe the battery voltage. It should not drop below 8.5 volts. Also, observe the current draw using an ammeter. Typically a starter amperage draw should not exceed 200 amps. If the starter motor amperage draw is excessive, have it tested by a dealer service department or other qualified repair shop. There are several conditions that may affect the starter cranking potential. The battery must be in good condition_ and the battery cold-cranking rating must not be underrated for the particular application. Be sure to check the battery specifications carefully. The battery terminals and cables must be clean and not corroded. Also, in cases of extreme cold temperatures, make sure the battery and/or engine block is warmed before performing the tests.
 
 ### Refer to illustration 12.4
-`hyundai_elantra_ru_en_bf0a3df7` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 4If the starter is receiving voltage but does not activate, remove and check the starter motor assembly on the bench. Most likely the starter motor or solenoid is defective. In some rare cases, the engine may be seized so be sure to try and rotate the crankshaft pulley (see Chapter 2A or 2B) before proceeding. With the starter assembly mounted in a vise on the bench, install one jumper cable from the positive terminal of a test battery to the B+ terminal on the starter. Install another jumper cable from the negative terminal of the battery to the body of the starter (see illustration). Install a starter switch and apply battery voltage to the solenoid S terminal (for 10 seconds or less) and observe the solenoid plunger, shift lever and overrunning clutch extend and rotate the pinion drive. If the pinion drive extends but does not rotate, the solenoid is operating but the starter motor is defective. If there is no movement but the solenoid clicks, the solenoid and/or the starter motor is defective. If the solenoid plunger extends and rotates the pinion drive, the starter assembly is oper ating properly.
 
@@ -6670,7 +6239,6 @@ If the starter does not activate when the ignition switch is turned to the start
 13.6 To detach the starter motor, remove these two mounting bolts (arrows) (2000 and earlier models shown)
 
 ### 13Starter motor - removal and installation
-`hyundai_elantra_ru_en_cdb56c41` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 13.5 and 13.6
 
@@ -6687,7 +6255,6 @@ I
 ![](images/1d72c4ac0c274adc5115d0bbf78c96d23873ebe85e24a46f73669aed8d419f8a.jpg)
 
 ### Specifications
-`hyundai_elantra_ru_en_c7c7bd42` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 arlier ovall
 
@@ -6716,7 +6283,6 @@ Throttle Position Sensor (TPS) screws... 14 to 21 in-lbs 1.5 to 2.5
 ![](images/a6f3ff0e8f3fd061ace6bc9ec9a14b7eb97f921d97005c92d4cd05fff860a771.jpg)
 
 ### 1.1 Typical emission and engine control system component
-`hyundai_elantra_ru_en_0753653d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1 Idle Speed Control (ISC) actuator 2 Positive Crankcase Ventilation (PCV) valve 3 Throttle Position Sensor (TPS)
 
@@ -6730,7 +6296,6 @@ TH EOUUSY OUISSON SYAMDARUS CLASEAON LOAUAE SATCOR 4 1 DRONE TLNE UR SPEORCATION
 1.7a The Vehicle Emission Control Information (VECl) label is located in the engine compartment and contains information on the emission devices on your vehicle
 
 ### 1General information
-`hyundai_elantra_ru_en_2868a3b3` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 1.1, 1.7a and 1.7b
 
@@ -6762,7 +6327,6 @@ Pay close attention to any special precautions outlined in this Chapter. It shou
 =A Vehicle Emissions Control Information (VECl) label and a vacuum hose routing diagram are located in the engine compartment (see illustrations). The VECl label contains important emissions specifications and adjustment information. When servicing the engine or emissions systems, the VECl label in your particular vehicle should always be checked for up-to-date information.
 
 ### Diagnostic tool information
-`hyundai_elantra_ru_en_16179d6d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 2.1 and 2.2
 
@@ -6783,7 +6347,6 @@ PCM of the vehicle you are servicing. Some scan tools - the generic, usually les
 3 A somewhat more sophisticated scan tool is needed to access a vehicle equipped with the Federally-mandated On-Board Diagnostics-1l (OBD-I) system (which applies to all of the vehicles covered by this manual). Several tool manufacturers have already introduced relatively inexpensive generic OBD-Il scan tools for the home mechanic. Ask the parts salesman at a local auto parts store for additional information concerning availability and cost.
 
 ### On-Board Diagnostic system general description
-`hyundai_elantra_ru_en_b1c566a8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 4 All models described in this manual are equipped with the On-Board Diagnostic (OBD-I) system. The OBD-Il system consists of an on-board computer, known as the Powertrain Control Module (PCM), information sensors and output actuators. The PCM is calibrated to optimize the emissions, fuel economy and driveability of the specific vehicle in which it's installed.
 
@@ -6792,7 +6355,6 @@ PCM of the vehicle you are servicing. Some scan tools - the generic, usually les
 6Because of a Federally mandated warranty which covers the emissions system components, and because any ownerinduced damage to the PCM, the sensors and/or the control devices could void the warranty, itisn't a good idea to attempt diagnosis or replacement of the PCM at home while the vehicle is under warranty. Take the vehicle to a dealer service department if the PCM or a system component malfunctions.
 
 ### Information sensors
-`hyundai_elantra_ru_en_68e306bd` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 7 Acceleration sensor - The acceleration sensor prevents the PCM from incorrectly identifying a misfire when the vehicle is being driven over a rough road.
 
@@ -6813,7 +6375,6 @@ Crankshaft Position (CKP) Sensor The CKP sensor senses crankshaft position (TDC)
 16 Mass Air Flow (MAF) sensor - The MAF sensor measures the mass of the air entering the engine. It does this by monitoring the heat transfer from a hot film probe installed across the stream of air flowing through the sensor. As the air flow through the sensor increases or decreases, it alters the amount of heat transferred from the hot film probe surface to the air flow. As the heat transfer changes, so does the resistance of the hot film probe. A 5-volt control signal from the PCM is supplied to the hot-film probe. The reference signal (the output) from the hot film probe back to the PCM varies in accordance with the resistance of the hot film probe. Think of the hot film probe as a vari
 
 ### Information sensors
-`hyundai_elantra_ru_en_ac4d303b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 17 Throttle Position Sensor (TPS) - The throttle position sensor senses throttle movement and position. This signal enables the PCM to determine when the throttle is closed, in a cruise position, or wide open. The PCM uses this information to control fuel delivery and ignition timing. The throttle position sensor is a component of the throttle control module.
 
@@ -6822,7 +6383,6 @@ able resistor whose resistance is proportional to the air flow. The PCM uses thi
 1 Vehicle Speed Sensor (VSS) - The vehicle speed sensor provides information to the PCM to indicate vehicle speed. On 1996 through 2000 models, the Vehicle Speed Sensor (VSS), which is an integral part of the speedometer, is a magnetic pick-up coil that converts the transaxle gear revolutions into a pulsing AC voltage output to the PCM. The VSS emits four pulses per revolution of the cable. On 2001 and later models, the VSS is a Hall effect switch located at the speedometer driven gear on the transaxle. On these models, the VSS converts the rotations of the driven gear into an on-off voltage signal to the PCM.
 
 ### Output actuators
-`hyundai_elantra_ru_en_bfc241eb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Check Engine light - The PCM willluminate the Check Engine light if a malfunction in the electronic engine control system occurs.
 
@@ -6839,7 +6399,6 @@ Fsesomonitors the pressure sidehe fuel tank.
 27 Heated Oxygen Sensor (H02S) heaters - All HO2S units are equipped with a heating element. Heating the HO2S allows it to reach operating temperature quickly. The PCM controls these heaters.
 
 ### Obtaining diagnostic trouble codes
-`hyundai_elantra_ru_en_7e4bb57b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 2.30
 
@@ -6853,14 +6412,12 @@ Note: The diagnostic trouble codes on all models can only be extracted from the 
 2.30 The diagnostic connector (arrow) is located under the dash
 
 ### Clearing diagnostic trouble codes
-`hyundai_elantra_ru_en_d40cc36f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 31 After the system has been repaired, the codes must be cleared from the PCM memory using a scan tool. Do not attempt to clear the codes by disconnecting battery power. If battery power is disconnected from the PCM, the PM will lose the current engine operating parameters and driveability will suffer until the PCM is programmed with a scan tool.
 
 32 Always clear the codes from the PCM before starting the engine after a new electronic emission control component is instailed onto the engine. The PCM stores the operating parameters of each sensor. The PCM may set a trouble code if a new sensor is allowed to operate before the parameters from the old sensor have been erased.
 
 ### Diagnostic trouble code identification
-`hyundai_elantra_ru_en_b42f7fb2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 33 The accompanying list of diagnostic trouble codes is a compilation of all the codes that may be encountered using a generic scan tool. Additionál trouble codes may be available with the use of the manufacturer specific scan tool. Not all codes pertain to all models and not all codes wililluminate the Check Engine light when set. All models require a scan tool to access the diagnostic trouble codes.
 
@@ -6878,7 +6435,6 @@ Chapter 6Emissions and engine control systems
 ![](images/5d078ac4f33d822842c6288f9c041f2a3e28cda986d4fd8da6711adc84c4c342.jpg)
 
 ### Mass Air Flow (MAF) sensor - check and replacement
-`hyundai_elantra_ru_en_556bb20f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 3.4 and 3.5 Check to see if there are any trouble codes stored in the PCM (see Section 2). Any codes stored in the PCM will be erased when the PCM is disconnected. Disconnect the negative battery cable.
 
@@ -6891,7 +6447,6 @@ Refer to illustrations 3.4 and 3.5 Check to see if there are any trouble codes s
 Note: This procedure applies to 2000 and earlier models only.
 
 ### Check
-`hyundai_elantra_ru_en_3bac6ef5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Refer to ilustrations 4.1 and 4.2 The MAF sensor (see illustration) is located in the intake duct between the air
 
@@ -6913,7 +6468,6 @@ cleaner housing and the throttle body.
 Without disconnecting the MAF sensor electrical connector, backprobe terminal 1 of the MAF sensor side of the connector (see illustration) with a suitable probe and connect a voltmeter. Check the output voltage at idle and then check it at 3,000 rpm. Compare your measurement with the voltage values listed in this Chapter's Specifications. If the MAF sensor output voltage varies greatly from the specified values, replace it.
 
 ### Replacement
-`hyundai_elantra_ru_en_2c582eca` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 4.3
 
@@ -6922,7 +6476,6 @@ Loosen the hose clamps (see illustration 4.1) and remove the MAF from the intake
 5 Installation is the reverse of removal.
 
 ### Check
-`hyundai_elantra_ru_en_49b82e3a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustration 5. 1 and 5.2
 
@@ -6931,7 +6484,6 @@ Refer to illustration 5. 1 and 5.2
 2 Disconnect the electrical connector and using an ohmmeter, measure the knock sensor resistance. On 1996 through 2000 models, measure the resistance between terminals 2 and 3 on the sensor side of the connector (see illustration). On 2001 models, the knock sensor connector has only two terminals - measure the resistance between them. Compare your measurement to the knock sensor resistance listed in this Chapter's Specifications. If the indicated resistance is lower than the specified resistance, replace the knock sensor.
 
 ### Replacement
-`hyundai_elantra_ru_en_2ba664dc` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 3 Unplug the knock sensor electrical con
 
@@ -6944,14 +6496,12 @@ Refer to illustration 3 Unplug the knock sensor electrical con
 5.2 Knock sensor electrical connector terminal guide (1996 through 2000 model connector shown; 2001 model connector has only two terminals)
 
 ### nector.
-`hyundai_elantra_ru_en_52b05b77` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 4 Remove the knock sensor retaining bolt (see illustration 5.1).
 5 Remove the knock sensor from the engine cylinder block.
 6 Installation is the reverse of removal.
 
 ### Check
-`hyundai_elantra_ru_en_45d9645c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 6. 1 and 6.2
 
@@ -6984,7 +6534,6 @@ housing (see below) but don't unplug the sensor electrical connector. Using a ha
 6.3b . . . and then pull off the connector
 
 ### Replacement
-`hyundai_elantra_ru_en_88dec9e5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 6.3a, 6.3b and 6.4
 3 Unplug the IAT sensor electrical connector (see illustrations).
@@ -6994,7 +6543,6 @@ Refer to illustrations 6.3a, 6.3b and 6.4
 6Installation is the reverse of remo
 
 ### Check
-`hyundai_elantra_ru_en_2379567d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 7.2, 7.3a and 7.3b The Throttle Position Sensor (TPS) is located on the throttle body. 2 Disconnect the electrical connector from the TPS (see illustration).
 
@@ -7006,7 +6554,6 @@ Refer to illustrations 7.2, 7.3a and 7.3b The Throttle Position Sensor (TPS) is 
 4Connect the ohmmeter between terminals 1 and 3 and then note the resistance as you slowly open the throttle plate. Verify that the resistance value changes smoothly and proportionately. If the TPS resistance does not change smoothly, replace the TPS.
 
 ### Replacement
-`hyundai_elantra_ru_en_b0619f63` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 7.7, 7.8a and 7.8b
 5 Disconnect the cable from the negative terminal of the battery.
@@ -7016,7 +6563,6 @@ Loosen and remove the retaining screws (see illustration) from the throttle posi
 \$32\$ 123 HARNESS SIDE CONNECTOR
 
 ### 43010-6-7.3A HAYNES
-`hyundai_elantra_ru_en_633f9bb9` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 \$1{2\$ SENSOR SIDE CONNECTOR 321 HARNESS SIDE CONNECTOR 43010-6-7.38 HAYNES
 
@@ -7033,7 +6579,6 @@ valve spindle and remove it from the vehicle. 8 When installing the TPS, make su
 9 The remainder of installation is the reverse of removal.
 
 ### 8 Engine Coolant Temperature (ECT) sensor - check and replacement
-`hyundai_elantra_ru_en_dc38b87e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustrations 8. 1and 8.3
 
@@ -7052,7 +6597,6 @@ Drain the cooling system (see Chapter 1).
 7After installing the ECT sensor, fill the cooling system (see Chapter 1), then start the engine and check for leaks.
 
 ### General information
-`hyundai_elantra_ru_en_3deff0bd` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 9. 1a and 9.1b
 
@@ -7066,7 +6610,6 @@ All vehicles covered in this manual are equipped with an "upstream" and a "downs
 ![](images/3c4f18b9ad33eb82141cb623e1a95c30359b7c5f7b3f508d18d5403795100297.jpg)
 
 ### 8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front left corner of the c
-`hyundai_elantra_ru_en_a43d13fe` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 trolling the pulse width (open time) of the fuel injectors. A mixture of 14.7 parts air to 1 part fuel is the ideal ratio for minimizing exhaust emissions, thus allowing the catalytic converter to operate at maximum efficiency. It is this ratio of 14.7 to 1 which the PCM and the HO2S attempt to maintain at all times.
 
@@ -7082,7 +6625,6 @@ upstream Heated Oxygen Sensor (HO2S)
 ![](images/3a1b8332b10539820986cf1135e2046cdd23102519b6d2f24a7b1e4c1c9ddcd2.jpg)
 
 ### 8.3To unplug the electrical connector from the ECT sensor, pry up the wire retainer, then pull the c
-`hyundai_elantra_ru_en_9750b12d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 3The HO2S must be hot to operate correctly (approximately 600-degrees F). During the initial warm-up period, the PCM operates in open loop mode - that is, it controls fuel delivery in accordance with a programmed default value instead of feedback information from the oxygen sensor.
 
@@ -7100,7 +6642,6 @@ upstream Heated Oxygen Sensor (HO2S)
 9.6b .. . and then pull it down and unplug it
 
 ### 9.6c The downstream HO2S connector (arrow) is located under the center console
-`hyundai_elantra_ru_en_6eab2130` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ff473df59d563b0d2300649d3aa997d33b2e03eb7ba20d5d7777a8d1b8128009.jpg)
 
@@ -7114,7 +6655,6 @@ d Unleaded fuel - The HO2S will operate correctly only with unleaded fuel. Make 
 5The downstream HO2S works the same way as the upstream HO2S, but the PCM uses the signal from the downstream HO2S to monitor the efficiency of the catalytic converter, and to predict imminent failure before it occurs.
 
 ### Check
-`hyundai_elantra_ru_en_d1b389cf` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Refer to illustrations 9.6a, 9.6b, 9.6c, 9.7a, 9.7b,
 
@@ -7142,7 +6682,6 @@ b) Voltage from a downstream HO2S should also read between 100 to 800 millivolts
 9.7b HO2S electrical connector terminal guide (2001 models)
 
 ### Check
-`hyundai_elantra_ru_en_cd9a0c0f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 ![](images/38a994436221f1415fda3b282bb31fc7474ba2e8c7a572429bc801fdb175e6e0.jpg)
 9.14Remove and install the HO2S with a special oxygen sensor socket that has a slot on one side for the harness
@@ -7152,7 +6691,6 @@ b) Voltage from a downstream HO2S should also read between 100 to 800 millivolts
 11If the HO2S checks out okay, but there's a driveability problem or a diagnostic trouble code related to the HO2S circuit, check the wiring harness and connectors between the HO2S and the PCM for an open or short circuit. If no problems are found, have the vehicle checked by a dealer service department.
 
 ### Replacement
-`hyundai_elantra_ru_en_454197b7` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 9.14
 
@@ -7176,7 +6714,6 @@ I 1 \$11 1O-\$2E8
 10Vehicle Speed Sensor (VSS) check and replacement
 
 ### Check
-`hyundai_elantra_ru_en_842ac9b6` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 10.3
 
@@ -7185,7 +6722,6 @@ The Vehicle Speed Sensor (VSS), which is an integral part of the speedometer, is
 3 Hook up an ohmmeter to the indicated terminals on the backside of the instrument cluster (see illustration) and rotate the speedometer drive. Note whether the continuity fluctuates on and off, four times per revolution of the cable, as you do so. If it doesn't, replace the VSS.
 
 ### Check
-`hyundai_elantra_ru_en_d98e2e28` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 10.7a and 10.7b
 
@@ -7198,7 +6734,6 @@ Plug in the electrical connector. Using suitable probes, backprobe the ground an
 E A
 
 ### Replacement
-`hyundai_elantra_ru_en_2e3d80ff` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 12.
 
@@ -7209,7 +6744,6 @@ E A
 ![](images/5897089a7cafaa996b56cffcee33374ca7e5c2c4006d31d6e2d048fb3fbad81a.jpg)
 
 ### 10.7b Vehicle Speed Sensor (VSS) connector terminal guide (2001 and later models with an automatic t
-`hyundai_elantra_ru_en_3847414a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Voltage supply
 2 Ground
@@ -7223,7 +6757,6 @@ which effect als in e senon the t shaft uating roporagnetic units, -wave S input
 3 21 CAMSHAFT POSITION SENSOR SIDE CONNECTOR 123 HARNESS SIDE CONNECTOR 43010-6-11.2A HAYNES
 
 ### Check
-`hyundai_elantra_ru_en_fe3f6c51` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 \$2\$
 
@@ -7239,12 +6772,10 @@ fefer to illustrations 11.1, 11.2a and 11.2b
 3Unplug the CMP sensor electrical connector, remove the sensor mounting bolt and remove the CMP sensor from the cylinder head.
 
 ### Check
-`hyundai_elantra_ru_en_9d460b27` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Using a suitable probe, backprobe tertinal 2 of the CMP sensor electrical connecr (see illustrations) (see Chapter 12 for dditional information on how to backprobe a onnector). Connect a voltmeter and meaure the sensor output voltage at idle (800 om) and at 3000 rpm. The sensor output oltage should fluctuate between zero and 5 volts at both idle and at 3000 rpm. If the CMP sensor does not operate as described, replace it.
 
 ### Replacement
-`hyundai_elantra_ru_en_a2fb0714` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Camshaft Position (CMP) sensor seeilustration) is located at the right rear amer of the cylinder head. The CMP sensor gnals the PCM when the No. 1 cylinder is at Top Dead Center (TDC) on its compression stroke. The PCM uses this information to fire te injectors in the correct sequence and at lne right time.
 
@@ -7253,7 +6784,6 @@ ecurely nector olt and
 4Installation is the reverse of removal.
 
 ### 1Crankshaft Position (CKP) sensor - check and replacement
-`hyundai_elantra_ru_en_5b3810b3` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The Crankshaft Position (CKP) sensor (see illustration) is located on the front side of the engine block, near the flywheel/driveplate. The CKP sensor monitors the position of the crankshaft, from which the PCM is able to compute engine RPM.
 
@@ -7283,13 +6813,11 @@ HARNESS SIDE CONNECTOR 43010-6-12.2C HAYNES
 12.2c Crankshaft Position (CKP) sensor electrical connector terminal guide (2001 and later models)
 
 ### Replacement
-`hyundai_elantra_ru_en_4d9df667` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 3 Unplug the CKP sensor electrical connector, remove the CKP sensor mounting bolt (see illustration 12.1) and remove the CKP sensor from the block.
 4 Installation is the reverse of removal. Be sure to tighten the CKP sensor mounting bolt to the torque listed in this Chapter's Specifications.
 
 ### Check
-`hyundai_elantra_ru_en_6f8db432` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 13.1 and 13.2
 
@@ -7304,7 +6832,6 @@ Refer to illustrations 13.1 and 13.2
 If the voltage is outside the specified range at idle or while driving, replace the acceleration sensor.
 
 ### Replacement
-`hyundai_elantra_ru_en_f95f6381` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 6Unplug the acceleration sensor electrical connector. 7 Remove the acceleration sensor retain
 
@@ -7317,7 +6844,6 @@ ing bolts (see illustration 13.1).
 89 Remove the acceleration sensor. Installation is the reverse of removal.
 
 ### Manifold Absolute Pressure (MAP) sensor
-`hyundai_elantra_ru_en_cc482f18` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Refer to illustrations 14.1 and 14.2
 
@@ -7356,17 +6882,14 @@ on the front of the air intake plenum; to remove the ISC actuator, unplug the el
 negative temperature coefficient (NTC) thyristor (a thermo-resistor that decreases its resistance as the air temperature goes up). The PCM provides a 5-volt signal to the IAT sensor. As the engine warms up, so does the intake air, and the IAT sensor resistance decreases accordingly, allowing an increasing portion of the 5-volt signal from the PCM to return to ground through the PCM. The PCM uses this variable output voltage from the IAT sensor to calculate the appropriate amount of fuel to deliver through the injectors.
 
 ### Replacement
-`hyundai_elantra_ru_en_7bcf9ec9` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 8 Unplug the MAP/IAT sensor electrical connector. 9 Remove the MAP/IAT sensor retaining bolts (see illustration 14.1) and detach the MAP/AT sensor from the plenum. 0Installation is the reverse of removal.
 
 ### Check
-`hyundai_elantra_ru_en_cbabd29e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 15.2a To unplug the ISC electrical connector, depress the wire retainer and pull off the connector (1996 through 2000 model shown, 2001 models similar)
 
 ### 15 Idle Speed Control (ISC) actuator - check and replacement
-`hyundai_elantra_ru_en_0d961819` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 15.1a, 15.1b, 15.2a and 15.2b
 
@@ -7383,7 +6906,6 @@ Intake Air Temperature (IAT) sensor The Intake Air Temperature (IAT) sensor (see
 2 Disconnect the ISC actuator electrical connector (see illustration) and measure the resistance across terminals 1 and 3, then terminals 2 and 3 (see illustration). Compare your measurements with the values listed in this Chapter's Specifications. If the indicated resistance is incorrect for either pair of terminals, replace the ISC actuator.
 
 ### 1996 through 2000 models
-`hyundai_elantra_ru_en_969c9abe` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Refer to illustrations 15.4 and 15.5
 
@@ -7407,12 +6929,10 @@ Loosen the hose clamps (see illustration) and disconnect the air hoses from the 
 16.1 The Multiport Fuel Injection (MFI) control relay is located under the steering column (trim panel and reinforcement removed); to remove the MFI control relay, unplug the electrical connector and remove this retaining bolt (arrow)
 
 ### 2001 and later models
-`hyundai_elantra_ru_en_e720128a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 7 Unplug the electrical connector. 8 Remove the ISC actuator mounting screws (see illustration 15.1b). 9 Disconnect the ISC actuator from the hose. 0Installation is the reverse of removal.
 
 ### 16 Multiport Fuel Injection (MFl) control relay - check and replacement
-`hyundai_elantra_ru_en_0aeef25a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Refer to illustrations 16.1, 16.4a and 16.4b
 
@@ -7439,7 +6959,6 @@ On 2000 and earlier models, remove the left knee bolster (see Chapter 11) and th
 If the MFl control relay doesn't operate as described, replace it. 9 Installation is the reverse of removal.
 
 ### Refer to illustration 17.2
-`hyundai_elantra_ru_en_392acc04` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1 The Positive Crankcase Ventilation (PCV) system reduces hydrocarbon emissions by scavenging crankcase vapors. It does this by circulating fresh air from the air cleaner through the crankcase, where it mixes with blow-by gases and is then rerouted through a PCV valve to the intake manifold.
 
@@ -7450,7 +6969,6 @@ The only components of the PCV system are the PCV valve (see illustration) and a
 to facilitate flow. If abnormal operating conditions (such as piston ring problems) arise, the system is designed to allow excessive amounts of blow-by gases to flow back through the crankcase vent hose into the air intake duct, where it mixes with intake air. 4 Checking and replacement of the PCV valve and filter is covered in Chapter 1.
 
 ### 1Evaporative Emission Control (EVAP) system - check and component replacement
-`hyundai_elantra_ru_en_b1107c0f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Warning: Gasoline is extremely flammable, so take extra precautions when you work on any part of the fuel system. Don't smoke or allow open flames or bare light bulbs near the work area, and don't work in a garage where
 
@@ -7474,7 +6992,6 @@ located in front of the left wheel well; to access the canister, remove the left
 a gas-type appliance (such as a water heater or a clothes dryer) is present. Since gasoline is carcinogenic, wear latex gloves when there's a possibility of being exposed to fuel, and if you spill any fuel on your skin, rinse it off immediately with soap and water. Mop up any spills immediately and do not store fuelsoaked rags where they could ignite. The fuel system is under constant pressure, so, if any fuel lines are to be disconnected, the fuel pressure in the system must be relieved first. When you perform any kind of work on the fuel system, wear safety glasses and have a Class B type fire extinguisher on hand.
 
 ### General description
-`hyundai_elantra_ru_en_8a56930a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 1 The Evaporative Emission Control (EVAP) system absorbs fuel vapors from the fuel tank and, during engine operation, releases them into the engine intake system, where they mix with the incoming air/fuel mixture. The main components of the EVAP system are the fuel tank, the Fuel Tank Pressure (FTP) sensor, the EVAP canister (filled with activated charcoal to absorb fuel vapors), the canister purge solenoid valve, the Canister Close Valve (CCv), and the vapor and purge lines that connect these components to each other and to the fuel tank and the engine.
 
@@ -7488,7 +7005,6 @@ lin
 4The EVAP system is equipped with a Fuel Tank Pressure (FTP) sensor that can detect a leak in the EVAP system. The FTP detects the difference in pressure between the ambient pressure (about 14.7 psi at sea level and the pressure inside the fuel tank (which increases in relation to ambient pressure, as the fuel heats up). If the FTP sensor detects excessive pressure, it signals the PCM, which opens the Canister Close Valve (CCV).
 
 ### Check and replacement
-`hyundai_elantra_ru_en_be6f8ff1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note 1: The evaporative emissions control system, like all emission control systems, is protected by a Federally-mandated warranty. The EVAP system probably won't fail during the service life of the vehicle; however, if it does, the hoses or charcoal canister are usually to blame.
 
@@ -7509,7 +7025,6 @@ protective cover and then
 lower the canister
 
 ### EVAP canister
-`hyundai_elantra_ru_en_00d06451` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 18.7a, 18.7b and 18.8 7 The EVAP canister (see illustrations) is located in front of the left wheel well (1996 through 2000 models) or underneath the left rear part of the floorpan (2001 and later models. Inspect all hoses leading to and from the canister for loose connections, damage and kinks.
 
@@ -7533,14 +7048,12 @@ you unbolt the canister, the outer of the two lower brackets - the one that slot
 18.11a On 1996 through 2000 models, the Canister Close Valve (CCV) (arrow) is located on the upper edge of the EVAP canister, in the hose between the air filter and the two-way valve
 
 ### Air filter
-`hyundai_elantra_ru_en_c44b5574` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 18.10
 
 0When the EVAP canister is vented to the intake manifold by the canister purge solenoid valve, fresh air is drawn into the canister to help flush fuel vapors from the charcoal in which they're stored inside the canister. The air filter (1996 through 2000 models, see illustration 18.7a; 2001 models, see accompanying illustration), which is located on the side of the EVAP canister, prevents dirt and debris from contaminating the EVAP canister. To detach the filter from the canister on 1996 through 2000 models, loosen the two hose clamps, disconnect the hoses from the filter, remove the two nuts that secure the air filter housing to the canister and then remove the filter. To detach the filter from the canister on 2001 models, remove the bolt that secures the CCV to the filter (see illustration 18.11b), remove the bolt that secures the filter to the canister (see illustration 18.10) and then remove the filter. Inspect the filter for cracks, distortion and other damage. Make sure the filter isn't clogged. If the filter is damaged, replace it.
 
 ### Canister Close Valve (CCV)
-`hyundai_elantra_ru_en_f82a136a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Refer to illustrations 18.11a, 18.11b and 18.12 1 The Canister Close Valve (CCv) (see illustrations) is located at the upper edge of
 
@@ -7571,7 +7084,6 @@ the vehicle, ahead of the EVAP canister, between the fuel tank pressure sensor a
 18.17 The canister purge solenoid valve (arrow) is located in the left rear corner of the engine compartment, next to the left strut tower on 2000 and earlier models
 
 ### Two-way valve
-`hyundai_elantra_ru_en_2a16c818` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 18.14 and 18.15
 
@@ -7582,7 +7094,6 @@ Refer to illustrations 18.14 and 18.15
 If the two-way valve doesn't operate as described, replace it.
 
 ### Canister purge solenoid valve
-`hyundai_elantra_ru_en_60d044b9` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Refer to illustrations 18.17, 18.18a, 18.18b and 18.19
 
@@ -7618,7 +7129,6 @@ Disconnect the jumper cables, apply vacuum to the solenoid valve again and verif
 doesn't operate as described, replace it. Measure the resistance between the terminals of the solenoid valve electrical connector on the solenoid side and compare your measurement to the resistance listed in this Chapter's Specifications. 24 If the resistance is incorrect, replace the canister purge solenoid valve.
 
 ### Fuel Tank Pressure (FTP) sensor
-`hyundai_elantra_ru_en_439b2833` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Refer to illustrations 18.25a, 18.25b and 18.27
 
@@ -7635,12 +7145,10 @@ Note: Verify that the fuel tank contains at least 15 percent of its normal capac
 29 If the FTP sensor doesn't operate as described, replace it.
 
 ### 19 On-Board Refueling Vapor Recovery (ORVR) system (1998 and later models) - general information
-`hyundai_elantra_ru_en_8fb2204c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 On 1998 and later models, the EVAP system (see Section 18) includes an OnBoard Refueling Vapor Recovery (ORVR) system, which prevents fuel vapors from escaping into the atmosphere during refueling and instead directs them to the EVAP canister. If the ORVR system malfunctions, have it diagnosed and repaired by a dealer service department.
 
 ### 20Catalytic converter - check and component replacement
-`hyundai_elantra_ru_en_56b1317a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 20.1
 
@@ -7655,7 +7163,6 @@ Note: Because of a Federally mandated warranty which covers emissions-related co
 43010-6-18.27 HAYNES
 
 ### Check
-`hyundai_elantra_ru_en_f57326dc` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 3Whenever the vehicle is raised for servicing of underbody components, inspect the catalytic converter for leaks, corrosion, dents and other damage. Inspect the welds/flange bolts that attach the front and rear ends of the converter to the exhaust system. If damage is discovered, the converter should be replaced.
 
@@ -7682,13 +7189,11 @@ department and have it checked out.
 20.7a To detach the converter (1996 and 1997 models) or the downstream converter (1998 and later models) from the exhaust system, remove these nuts and bolts (arrows) from the forward flange ...
 
 ### Replacement
-`hyundai_elantra_ru_en_ebb1fa1b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note: Refer to the exhaust system servicing section in Chapter 4A for additional information.
 6 Raise the vehicle and support t securely on jackstands.
 
 ### 1996 and 1997 models, and downstream converter on 1998 and later models
-`hyundai_elantra_ru_en_0d08bb38` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 20.7a and 20.7b Disconnect the electrical connector(s) from the oxygen sensor(s) (see Section 9).
 
@@ -7697,7 +7202,6 @@ Refer to illustrations 20.7a and 20.7b Disconnect the electrical connector(s) fr
 7 Because they're subjected to intense heat, as well as dirt, debris, mud and water, the nuts and bolts that attach the mounting flanges of the catalyst to the exhaust pipe flanges are among the most-difficult-toremove fasteners on the vehicle. Apply a liberal amount of penetrant to the exhaust pipeto-catalytic converter nuts and bolts (see illustrations). Wait a while for the penetrant to do its work and then remove the exhaust pipe-to-catalyst nuts and bolts, separate the exhaust pipes from the converter and remove the converter. Installation is the reverse of removal. Be sure to clean any carbon deposits from the exhaust pipe flanges and use new gaskets when instaling the new converter. Tighten the bolts securely.
 
 ### 1998 and later models (upstream converter)
-`hyundai_elantra_ru_en_b2409120` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 8 Remove the nuts and bolts that attach the upper exhaust pipe to the lower flange of the converter. Be sure to apply penetrant to the fasteners to loosen them up (see comments in Step 7 regarding catalyst fasteners). Separate the upper end of the exhaust pipe from the catalyst and push it aside.
 
@@ -7711,7 +7215,6 @@ Refer to illustrations 20.7a and 20.7b Disconnect the electrical connector(s) fr
 use liberal doses of penetrant to help loosen the fasteners). On 2001 and later models, the upstream converter is an integral part of the exhaust manifold. Remove the exhaust manifold (see Chapter 2A). 10 Clean the carbon deposits from the mounting flanges and install new gaskets. 11 Installation is the reverse of removal.
 
 ### Section
-`hyundai_elantra_ru_en_33e960e2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Driveaxle oil seals - replacement . See Chapter 7B
 Engine mounts - check and replacement... See Chapters 2A, 2B
@@ -7719,13 +7222,11 @@ General information..
 Manual transaxle lubricant change. See Chapter 1
 
 ### Section
-`hyundai_elantra_ru_en_79832a05` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Manual transaxle lubricant level check... See Chapter 1
 Ma. Shift lever assembly and cables - removal and installation. 432
 
 ### Torque specifications
-`hyundai_elantra_ru_en_faf6dfc1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Shift cable to body bolts.
 Shift lever base plate mounting nuts 2000 and earlier models. . 2001 models...
@@ -7752,7 +7253,6 @@ Nm
 90 to 110
 
 ### 1General information
-`hyundai_elantra_ru_en_46b0ea58` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The models covered by this manual are equipped with either a five-speed manual transaxle or an automatic transaxle. Information on the manual transaxle is included in this Part of Chapter 7. Information on the automatic transaxle can be found in Chapter 7, Part B. You'll also find certain procedures common to both transaxles - such as oil seal replacement - in Chapter 7B.
 
@@ -7761,12 +7261,10 @@ The manual transaxle is a synchronized, 5-speed design. The transaxle model numb
 Depending on the expense involved in having a transaxle overhauled, it might be a better idea to consider replacing it with either a new or rebuilt unit. Your local dealer or transaxle shop should be able to supply information concerning cost, availability and exchange policy. Regardless of how you decide to remedy a transaxle problem, you can still save a lot of money by removing and installing the unit yourself.
 
 ### 2Shift lever assembly and cables - removal and installation
-`hyundai_elantra_ru_en_1df5ae59` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: The models covered by this manual are equipped with Supplemental Restraint systems (SRS), more commonly known as airbags. Always disable the airbag system before working in the vicinity of any airbag system component to avoid the possibility of accidental deployment of the airbag, which could cause personal injury (see Chapter 12).
 
 ### Shift lever
-`hyundai_elantra_ru_en_21804f1f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 2.2
 
@@ -7776,7 +7274,6 @@ Refer to illustration 2.2
 4 Installation is the reverse or removal.
 
 ### Cables
-`hyundai_elantra_ru_en_abc1333f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 5 Detach the shift and select cable from the shift lever assembly (see Step 2).
 6 Remove the retaining clips and cotter pins and detach the cable ends of the transaxle.
@@ -7786,12 +7283,10 @@ Refer to illustration 2.2
 ![](images/9d3652991fd6a065702a2a0440fd558f1c6b38086e560542f37ad312391b6b45.jpg)
 
 ### 3 Manual transaxle - removal and installation
-`hyundai_elantra_ru_en_3498db70` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code.
 
 ### Removal
-`hyundai_elantra_ru_en_3fca3e05` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1 Disconnect the negative cable and then the positive cable from the battery.
 2 Remove the air intake duct and the air cleaner housing (see Chapter 4).
@@ -7823,7 +7318,6 @@ Shift transaxle stay from the engine (2000 and earlier models.
 With the transaxle removed, the clutch components are now accessible and can be inspected. In most cases, new clutch components should be routinely installed when the transaxle is removed (see Chapter 8).
 
 ### Installation
-`hyundai_elantra_ru_en_cd4f6d22` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:steering | p:1 | doc_type:service_manual
 
 If removed, install the clutch components (see Chapter 8.)
 
@@ -7843,7 +7337,6 @@ If removed, install the clutch components (see Chapter 8.)
 36 Have the front wheel alignment checked.
 
 ### 4Manual transaxle overhaul general information
-`hyundai_elantra_ru_en_399db861` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9158e795f5f76a316a887f71634f17fab64963baef9aae94aacba396739909fd.webp)
 
@@ -7852,26 +7345,22 @@ Overhauling a manual transaxle is diffi cult for the do-it-yourselfer. Not only 
 If transaxle problems arise, you can save a lot of money by removing and installing the transaxle yourself. Then buy a rebuilt transaxle (check with local auto parts stores and transmission shops). The cost for an overhaul almost always exceeds the cost of a rebuilt unit. If rebuilt units aren't available, have the transaxle rebuilt by a shop that specializes in rebuilding these units.
 
 ### Section
-`hyundai_elantra_ru_en_c835e5ba` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Automatic transaxle fluid and filter change.. See Chapter 1
 Automatic transaxle - removal and installation 6
 Driveaxle oil seals - removal and installation Diagnosis - general. 25
 
 ### Section
-`hyundai_elantra_ru_en_a831d792` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Engine mounts - check and replacement... See Chapter 2A and 2B Shift lever - removal and installation... Ge -43
 
 ### General
-`hyundai_elantra_ru_en_762871bc` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/285f1508d5f5f1ab0f5b77701a1ea2da411060a9b1f2a44b466e2151facc12f6.jpg)
 
 ![](images/182a26b0163998514a3495c74a39f08edee0a2d4589e70cd30929c0a554d6898.jpg)
 
 ### Refer to illustration 1.2a and 1.2b
-`hyundai_elantra_ru_en_8cfce24b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 All models covered by this manual are equipped with either a manual transaxle or an automatic transaxle. Information on the automatic is included in this Part of Chapter 7. Information on the manual transaxle can be found in Chapter 7, Part A. You'll also find certain procedures common to both transaxles - such as oil seal replacement - in this chapter.
 
@@ -7890,12 +7379,10 @@ Due to the complexity of the clutches and the hydraulic control system, and beca
 If the transaxle requires major repair work, it should be left to a dealer service department or an automotive or transmission repair shop. You can, however, remove and install the transaxle yourself and save the expense, even if the repair work is done by a transmission shop (but be sure a proper diagnosis has been made before removing the transaxle).
 
 ### Diagnosis - general
-`hyundai_elantra_ru_en_891ee1ca` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note: Automatic transaxle malfunctions may be caused by five general conditions: poor engine performance, improper adjustments, hydraulic malfunctions, mechanical malfunctions or malfunctions in the computer or its signal network. Diagnosis of these problems should always begin with a check of the easily repaired items: fluid level and condition (see Chapter 1), shift control cable adjustment and transaxle range sensor adjustment. Next, perform a road test to determine if the problem has been corrected or if more diagnosis is necessary. If the problem persists after the preliminary tests and corrections are completed, additional diagnosis should be done by a dealer service department or transmission repair shop. Refer to the Troubleshooting section at the front of this manual for information on symptoms of transaxle problems.
 
 ### Preliminary checks
-`hyundai_elantra_ru_en_dbf99a49` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Drive the vehicle to warm the transaxle to normal operating temperature.
 
@@ -7908,7 +7395,6 @@ If the fluid level is unusually low, add enough fluid to bring the level within 
 Section 4). Make sure that it's properly adjusted and that the linkage operates smoothly.
 
 ### Fluid leak diagnosis
-`hyundai_elantra_ru_en_51111e4e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 6Most fluid leaks are easy to locate visually. Repair usually consists of replacing a seal or gasket. If a leak is difficult to find, the following procedure may help.
 
@@ -7927,32 +7413,27 @@ Once the leak has been located, the cause must be determined before it can be pr
 13 Before attempting to repair a leak, check to make sure that the following conditions are corrected or they may cause another leak. Note: Some of the following conditions cannot be fixed without highly specialized tools and expertise. Such problems must be referred to a transmission shop or a dealer service department.
 
 ### Gasket leaks
-`hyundai_elantra_ru_en_a93a6de2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 14Check the fluid pan (2000 and earlier models) or front cover periodically. Make sure the bolts are tight, no bolts are missing, the gasket is in good condition and the cover is not damaged.
 
 If the leak is from the pan or front cover area, the bolts may be too tight, the sealing surface of the transaxle housing may be damaged, the gasket may be damaged or the transaxle casting may be cracked or porous. If sealant instead of gasket material has been used to form a seal between the pan/cover and the transaxle housing, it may be the wrong sealant.
 
 ### Seal leaks
-`hyundai_elantra_ru_en_99b5d060` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 6 If a transaxle seal is leaking, the fluid level or pressure may be too high, the vent may be plugged, the seal bore may be damaged, the seal itself may be damaged or improperly installed, the surface of the shaft protruding through the seal may be damaged or a loose bearing may be causing excessive shaft movement.
 
 17 Make sure the dipstick tube seal is in good condition and the tube is properly seated. Periodically check the area around the speedometer gear or sensor for leakage. If transmission fluid is evident, check the Oring for damage.
 
 ### Case leaks
-`hyundai_elantra_ru_en_5cb4411c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the case itself appears to be leaking, the casting is porous and will have to be repaired or replaced.
 akeurehe il ooleroseittings ae tight and in good condition.
 
 ### Fluid comes out vent pipe or fill tube
-`hyundai_elantra_ru_en_eef8193e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 20If this condition occurs, the transaxle is overfilled, there is coolant in the fluid, the case is porous, the dipstick is incorrect, the vent is plugged or the drain-back holes are plugged.
 
 ### 3 Shift lever - removal and installation
-`hyundai_elantra_ru_en_81075609` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Refer to illustrations 3.3, 3.4 and 3.5
 
@@ -7971,7 +7452,6 @@ Warning: The models covered by this manual are equipped with Supplemental Restra
 Remove the shift cable from the shift lever assembly, then remove the through-bolt from the shift lever (see illustration). Remove the shift lever bracket mounting bolts (see illustration). Remove the shift lever assembly from the vehicle. 6Installation is the reverse of removal. Be sure to tighten the nuts securely.
 
 ### 4Shift cable - adjustment and replacement
-`hyundai_elantra_ru_en_4da9d92c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Warning: The models covered by this manual are equipped with Supplemental Restraint systems (SRS), more commonly known as airbags. Always disable the airbag system before working in the vicinity of the impact sensors, steering column or instrument panel to avoid the possibility of accidental deployment of the airbag, which could cause personal injury (see Chapter 12). The yellow wiring harnesses and connectors routed through the console and instrument panel are for this system. Do not use electrical test equipment on any of the airbag system wiring or tamper with them in any way.
 
@@ -7988,7 +7468,6 @@ deep
 diame oil se bore seatec cant.
 
 ### Adjustment
-`hyundai_elantra_ru_en_0a7ac772` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 4.3
 
@@ -8014,7 +7493,6 @@ the cable to the lever on the transaxle
 and note if the holes in the end of the shift range switch arm and the housing line up (B)
 
 ### Replacement
-`hyundai_elantra_ru_en_1f140212` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 4.7 and 4.8
 
@@ -8024,7 +7502,6 @@ Working on the transaxle, remove the nut and C-clip retaining the cable to the t
 Remove the shift cable from the vehicle.
 
 ### Installation
-`hyundai_elantra_ru_en_e8574737` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 11Insert the shift cable through the opening in the bulkhead. Working in the console area of the passenger compartment, pull the cable into place and install the C-clip into the bracket on the shift lever assembly. Install the cable end onto the selector lever.
 
@@ -8042,7 +7519,6 @@ Working in the console area of the passenger compartment, install the shift posi
 Move the shift lever to each gear to verfy the correct shifting position.
 
 ### Refer to illustration 5.6
-`hyundai_elantra_ru_en_21f43dba` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Oil leaks frequently occur due to wear of the driveaxle oil seals. Replacement of these seals is relatively easy, since the repair can usually be performed without removing the transaxle from the vehicle.
 
@@ -8062,7 +7538,6 @@ Using a large section of pipe or a large deep socket (slightly smaller than the 
 Install the driveaxle(s). Be careful not to damage the lip of the new seal.
 
 ### Removal
-`hyundai_elantra_ru_en_eaac4cce` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 6.7, 6.8, 6.11, 6.15a and 6.15b
 
@@ -8079,7 +7554,6 @@ Caution: Some models are equipped with an anti-theft radio. Before performing a 
 ![](images/ce2ad5de2a013411728888e83890b81254b1946191ce6f05860220d8c19bdd36.jpg)
 
 ### 6.7Remove the upper transaxleto-engine bolt (arrow) (2000 and earlier models)
-`hyundai_elantra_ru_en_b6592dc2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 5Disconnect the transaxle harness connector from the side of the transaxle.
 
@@ -8090,7 +7564,6 @@ Caution: Some models are equipped with an anti-theft radio. Before performing a 
 Raise the vehicle and support it securely on jackstands. Secure the engine using an engine support brace that is installed above the engine compartment (see illustration). If an engine support brace is not available, install an engine lift and a lifting chain assembly. This will keep the engine stable during the entire transaxle removal procedure. 9 Remove the transaxle mount bracket. 0Remove the front wheels.
 
 ### 2000 and earlier models
-`hyundai_elantra_ru_en_597af3dc` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 11Remove the bolts from the center member and the transaxle rol stopper (see illustration).
 1Disconnect the lower control arms from the steering knuckles and remove the driveaxles.
@@ -8107,19 +7580,16 @@ Remove the transaxle stay, followed by the bell housing access cover.
 6.15 .. and rotate the crankshaft to remove each mounting bolt
 
 ### 2001 and later models
-`hyundai_elantra_ru_en_c6ff6e5c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 14Remove the steering gear assembly and the stabilizer bar, then disconnect the lower ball joints (see Chapter 10) and remove the driveshafts (see Chapter 8). Remove the starter motor. Paint or scribe subframe-tochassis reference marks to ensure correct reassembly. Remove the mounting bolts and lower the subframe.
 
 ### All models
-`hyundai_elantra_ru_en_6f664cbc` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 15 Unbolt and remove the cover, then remove the torque converter bolts. A screwdriver wedged in the ring gear teeth will keep the torque converter from rotating while the bolts are loosened. Rotate the engine for access to all of the bolts (see illustrations). 6Support the transaxle with an approved transaxle jack and safety chains. Floor jacks are often not stable enough to support and lower the transaxle from the vehicle. 17 Make a final check that all wires and hoses have been disconnected from the transaxle.
 
 18 Remove the mounting and retaining bolts and lower the transaxle from the vehicle or subframe with a jack.
 
 ### Installation
-`hyundai_elantra_ru_en_196b250d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 19 If removed, install the torque converter into the transaxle.
 
@@ -8138,17 +7608,14 @@ this Chapter's Specifications. Install the driveaxle and connect the lower ball 
 30 Have the front end aligned.
 
 ### General
-`hyundai_elantra_ru_en_12bc39c4` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Cutch pedladard ……… 1/4 to 1/2 inch (6 to 12 mm) 2000 and earlier models. 7-1/2 inches (190.1 mm) 2001 and later models... 6-9/16 inches (166.9 mm)
 
 ### Driveaxles
-`hyundai_elantra_ru_en_290a8495` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Driveaxle length Manual transaxle 1996 through 1998 models Left axle  … 15-45/64 inches (399 mm) Right axle  26-15/16 inches (684 mm) 1999 ANd 2000 modEls Left ax... 15-41/64 inches (397.5 mm) R 26-53/64 inches (681.5 mm) 2001 models Left... 20-13/64 inches (513.2 mm) Right  31-11/32 inches (796.2 mm) Automatic transaxle 1996 throuGh 1998 models Loh 156-21/5 nche5(79.1 m) 1999 and 2000 models Left axle  … 15-11/16 inches (398.2 mm) R 26-25/32 inches (677.2 mm) 2001 models Ligh.. 21-1/ nche (18.)m)
 
 ### Torque specifications
-`hyundai_elantra_ru_en_e05eaadb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Clutch master cylinder mounting fasteners … Clutch release cylinder mounting bolts. ……… Clutch pressure plate bolts.. .. Driveaxle/hub nut... ...
 
@@ -8164,14 +7631,12 @@ Nm
 200 to 260
 
 ### 1 General information
-`hyundai_elantra_ru_en_8b921167` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The information in this Chapter deals with the components from the rear of the engine to the front wheels, except for the transaxle, which is dealt with in the previous Chapter. For the purposes of this Chapter, these components are grouped into two categories - clutch and driveaxles. Separate Sections within this Chapter offer general descriptions and checking procedures for components in each of the two groups.
 
 Since nearly all the procedures covered in this Chapter involve working under the vehicle, make sure it's securely supported on sturdy jackstands or on a hoist where the vehicle can be easily raised and lowered.
 
 ### 2Clutch - description and check
-`hyundai_elantra_ru_en_13bb2882` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1 All vehicles with a manual transaxle use a single dry-plate, diaphragm-spring type clutch. The clutch disc has a splined hub, which allows it to slide along the splines of the transmission input shaft. Spring pressure exerted by the diaphragm in the pressure plate holds the clutch and pressure plate in contact.
 
@@ -8194,12 +7659,10 @@ Visuall inspect the pivot bushing at the top of the clutch pedal to make sure th
 Crawl under the vehicle and make sure the clutch release lever is solidly mounted on the ball stud (2001 and later models).
 
 ### 3 Clutch master cylinder - removal and installation
-`hyundai_elantra_ru_en_3498db70` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code.
 
 ### Removal
-`hyundai_elantra_ru_en_2a1418be` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Disconnect the cable from the negative battery terminal.
 
@@ -8212,7 +7675,6 @@ Disconnect the cable from the negative battery terminal.
 5 Remove the mounting fasteners and detach the cylinder from the firewall. Caution: Don't allow brake fluid to come into contact with the paint, as it will damage the finish.
 
 ### Installation
-`hyundai_elantra_ru_en_badcd967` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 6Place the master cylinder in position on the firewall and install the mounting fasteners finger tight.
 
@@ -8225,12 +7687,10 @@ Tighten the mounting fasteners to the torque listed in this Chapter's Specificat
 1 Fill the reservoir with brake fluid conforming to DOT 3 specifications and bleed the clutch system as outlined in Section 5. Connect the negative battery cable.
 
 ### 4Clutch release cylinder - removal and installation
-`hyundai_elantra_ru_en_3498db70` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code.
 
 ### 2000 and earlier models
-`hyundai_elantra_ru_en_01cbe4c8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 2 Open the hood, remove the clip and the retaining pin then detach the release cylinder push rod from the clutch release lever.
 
@@ -8239,7 +7699,6 @@ Caution: Some models are equipped with an anti-theft radio. Before performing a 
 4 Unscrew the bolts and remove the clutch release cylinder.
 
 ### 2001 and later models
-`hyundai_elantra_ru_en_f008b379` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 5Raise the vehicle and support it securely on jackstands.
 
@@ -8248,7 +7707,6 @@ Caution: Some models are equipped with an anti-theft radio. Before performing a 
 7 Remove the two release cylinder mounting bolts. 8 Remove the release cylinder.
 
 ### Installation
-`hyundai_elantra_ru_en_c72dffe6` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 9On 2001 and later models, lubricate the pocket in the release fork with multi-purpose grease.
 
@@ -8273,7 +7731,6 @@ Tighten the hydraulic fitting securely, using a flare-nut wrench.
 вly
 
 ### Refer to illustration 5.5
-`hyundai_elantra_ru_en_219e0f62` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Bleed the hydraulic system whenever any part of the system has been removed or the fluid level has fallen so low that air has been drawn into the master cylinder. The bleeding procedure is very similar to bleeding a brake system.
 
@@ -8290,12 +7747,10 @@ If you're working on a 2001 or later model, raise the vehicle and support it sec
 7 Install the dust cap and, on 2001 and later models, lower the vehicle. Check the clutch fluid level again, and add some, if necessary, to bring it to the appropriate level. Check carefully for proper operation before placing the vehicle into normal service.
 
 ### 6Clutch components - removal, inspection and installation
-`hyundai_elantra_ru_en_45cd44e0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: Dust produced by clutch wear and deposited on clutch components may contain asbestos, which is hazardous to your health. DO NOT blow it out with compressed air and DO NOT inhale it. DO NOT use gasoline or petroleum-based solvents to remove the dust. Brake system cleaner should be used to flush the dust into a drain pan. After the clutch components are wiped clean with a rag, dispose of the contaminated rags and cleaner in a covered, marked container.
 
 ### Removal
-`hyundai_elantra_ru_en_fff8c6de` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 6.5 and 6.6
 
@@ -8317,12 +7772,10 @@ Access to the clutch components is normally accomplished by removing the transax
 ![](images/b5a4933152a8bda8447986fd8d4f239c0af16b93f6bf45e44672692647800b84.jpg)
 
 ### Inspection
-`hyundai_elantra_ru_en_07a3dca4` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 6.9, 6.11a and 6.11b 7Ordinarily, when a problem occurs in the clutch, it can be attributed to wear of the
 
 ### 6. The clutch disc
-`hyundai_elantra_ru_en_5a4deec8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 12 nles cracking and deformation 3 Splined hub - the splines must not be worn and should slide smoothly on the transaxle input shaft splines 4 Rivets - these secure the lining and will damage the flywheel or pressure plate if allowed to contact the surfaces
 
@@ -8352,7 +7805,6 @@ with
 pressure plate. Also check for obvious damage, distortion, cracking, etc. Light glazing can be removed with emery cloth or sandpaper. If a new pressure plate is required, new and re-manufactured units are available.
 
 ### Installation
-`hyundai_elantra_ru_en_6660ed11` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to ilustration 6.13
 
@@ -8371,7 +7823,6 @@ Before installation, clean the flywheel and pressure plate machined surfaces wit
 1Install the transaxle and all components removed previously.
 
 ### 7 Clutch release bearing and fork - removal, inspection and installation
-`hyundai_elantra_ru_en_df227a30` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/20837eb6615c3fbc92398040e9232b16a9608f090009479837af094c1d9859b1.jpg)
 7.3Reach behind the release lever and disengage the lever from the ball stud by pulling on the retention spring, then remove the lever and bearing (2001 and later models)
@@ -8379,7 +7830,6 @@ Before installation, clean the flywheel and pressure plate machined surfaces wit
 Warning: Dust produced by clutch wear and deposited on clutch components may contain asbestos, which is hazardous to your health. DO NOT blow it out with compressed air and DO NOT inhale it. DO NOT use gasoline or petroleum-based solvents to remove the dust. Brake system cleaner should be used to flush the dust into a drain pan. After the clutch components are wiped clean with a rag, dispose of the contaminated rags and cleaner in a covered, marked container.
 
 ### Refer to illustration 7.3
-`hyundai_elantra_ru_en_53d75b2c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Unbolt the clutch release cylinder (see Section 4), but don't disconnect the fluid line between the master cylinder and the release cylinder. Suspend the release cylinder out of the way with a piece of wire. Caution: Don't depress the clutch pedal with the release cylinder unbolted. On 2000 and earlier models, remove the release lever from the release shaft to allow transaxle removal.
 
@@ -8388,7 +7838,6 @@ Unbolt the clutch release cylinder (see Section 4), but don't disconnect the flu
 3 On 2000 and earlier models, use snap ring pliers to remove the snap ring retaining the release bearing to the pressure plate. On 2001 and later models, pull the clutch release fork off the ball stud and slide the release bearing off the input shaft along with the release fork (see illustration).
 
 ### Inspection
-`hyundai_elantra_ru_en_6df48cc1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 7.4
 
@@ -8399,7 +7848,6 @@ one. Wipe the bearing with a clean rag and inspect it for damage, wear and crack
 5Check the release lever for cracks and bends.
 
 ### Installation
-`hyundai_elantra_ru_en_7d972f8e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 7.6, 7.7a and 7.7b
 
@@ -8426,7 +7874,6 @@ On 2001 and later models, attach the release bearing to the release fork.
 10 The remainder of installation is the reverse of the removal procedure.
 
 ### Pedal height
-`hyundai_elantra_ru_en_9b4fa601` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 8.1
 
@@ -8435,7 +7882,6 @@ The height of the clutch pedal is the distance the pedal sits off the floor (see
 2 To adjust the clutch pedal, loosen the locknut on the adjusting bolt and back the bolt out to increase the pedal height or tumn the bolt in to decrease pedal height. Check the pedal height (see Step 1), then tighten the locknut.
 
 ### Pedal freeplay
-`hyundai_elantra_ru_en_94fdde55` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 8.3
 
@@ -8444,7 +7890,6 @@ Refer to illustration 8.3
 4 To adjust the pedal freeplay, loosen the locknut on the clutch pushrod (see illustration 8.1). Turn the pushrod to adjust the pedal freeplay to the specified range and retighten the locknut.
 
 ### Check
-`hyundai_elantra_ru_en_c767d748` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Located at the upper end of the clutch pedal, the starter/clutch interlock switch closes when the clutch pedal is depressed with the ignition switch key in the Start position, allowing the starter motor to activate.
 
@@ -8460,7 +7905,6 @@ Refer to illustration 8.3
 5 Check the switch for continuity. With the clutch pedal depressed and the key in Start, continuity should exist between terminals 1 and 2. With the clutch pedal released, continuity should not exist.
 
 ### 10Driveaxles - general information and inspection
-`hyundai_elantra_ru_en_e7660ebb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 1 Power is transmitted from the transaxle to the wheels through a pair of driveaxles. The inner end of the driveaxle is splined into the differential side gear. The outer ends of the driveaxles are splined to the axle hubs and secured by a large locknut.
 
@@ -8488,7 +7932,6 @@ equipped with sliding constant velocity joints, which are capable of both angula
 ![](images/4bea808d19fd4dc69a9c6e00d91058351ffa07fc02c1ea0cdff49313d9d60002.jpg)
 
 ### Removal
-`hyundai_elantra_ru_en_c7109c2e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 11.2, 11.6a and 11.6b
 
@@ -8503,7 +7946,6 @@ driveaxle is free of the hub (see illustration). Note: If the driveaxle splines 
 7 Support the CV joints and carefully remove the driveaxle from the vehicle.
 
 ### Installation
-`hyundai_elantra_ru_en_eceebb8c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 11.8a and 11.8b
 
@@ -8539,7 +7981,6 @@ cap or wheel cover.
 7 Refill the transaxle with the recommended type and amount of lubricant (see Chapter 1).
 
 ### 12 Driveaxle boot - replacement
-`hyundai_elantra_ru_en_e204fd0d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note 1: If the CV joints are wor or the boots are in need of replacement (check on the availability of parts), before beginning the job. Complete rebuilt driveaxles are available on an exchange basis, which eliminates much time and work.
 
@@ -8552,7 +7993,6 @@ Note 3: Models equipped with ABS are equipped with ABS sensor rings on the outer
 Mount the driveaxle in a vise. The jaws of the vise should be lined with wood or rags to prevent damage to the driveaxle.
 
 ### Disassembly
-`hyundai_elantra_ru_en_843733c7` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Refer to ilustrations 12.3a, 12.3b, 12.4, 12.5, 12.6 and 12.7
 
@@ -8588,14 +8028,12 @@ the axleshaft with a pair of snap-ring pliers (see illustration).
 7Use a hammer and a brass punch to drive the tri-pot joint from the driveaxle (see iustration).
 
 ### Inspection
-`hyundai_elantra_ru_en_381ef427` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 8 Clean the old grease from the outer race and the tri-pot bearing assembly. Carefully disassemble each section of the tri-pot assembly, one at a time so as not to mix up the parts, and clean the needle bearings with solvent.
 
 9 Inspect the rollers, tri-pot, bearings and outer race for scoring, pitting or other signs of abnormal wear, which will warrant the replacement of the inner CV joint.
 
 ### Reassembly
-`hyundai_elantra_ru_en_822a513e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 12.10, 12.11, 12.13, 12.14, 12.15a, 12.15b, 12.15c, 12.15d and 12.15e
 
@@ -8606,7 +8044,6 @@ Refer to illustrations 12.10, 12.11, 12.13, 12.14, 12.15a, 12.15b, 12.15c, 12.15
 ![](images/9fa9cbe48f4c5893a3a8d0a46fc4729f1a4a2622f19341910c159fb66c69e180.jpg)
 
 ### 12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the boot(s) when install
-`hyundai_elantra_ru_en_c6e6732f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 snap-ring. Apply grease to the tri-pot assembly, the inside of the joint housing and the inside of the boot (see illustration). Install the housing over the tri-pot.
 
@@ -8641,7 +8078,6 @@ Tighten and the boot clamps (see illustrations). Proceed to Step 36.
 12.15d .. . then bend the end of the clamp back over the clip and cut off the excess
 
 ### Disassembly
-`hyundai_elantra_ru_en_99d0d2cd` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Refer to ilustrations 12.18, 12.19, 12.20 and 12.22 6Remove both boot clamps (seeillustration 12.3a) and discard them.
 
@@ -8673,12 +8109,10 @@ Remove the snap-ring from the groove in the axleshaft with a pair of snap-ring p
 Using a screwdriver, pry the ball bearings from the cage. Be careful not to scratch he er race, the ball bearing or the cage. Remove the cage.
 
 ### Inspection
-`hyundai_elantra_ru_en_6cbfdb67` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 12.24a and 12.24b 4 Clean the components with solvent to remove all traces of grease. Inspect the cage and races for pitting, score marks, cracks and other signs of wear and damage (see illustrations). Shiny, polished spots are normal and will not adversely affect CV joint performance.
 
 ### Reassembly
-`hyundai_elantra_ru_en_ef9fd128` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 12.26 and 12.28 5 Wrap the axleshaft splines with tape to avoid damaging the boot. Slide the small boot clamp and boot onto the axleshaft, then remove the tape. Slide the large boot clamp over the boot.
 
@@ -8717,12 +8151,10 @@ Install the snap-ring in the groove. Make sure it's compleely eate by pushingont
 35 Tighten the boot clamps (see illustrations 12.15a through 12.15e). Proceed to the next Step.
 
 ### All inner CV joints
-`hyundai_elantra_ru_en_ef234828` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 36Install a new circlip on the inner CV joint stub axle (see illustrations 11.8a and 11.8b). 37Install the driveaxle (see Section 11).
 
 ### Outer CV joint
-`hyundai_elantra_ru_en_bd975a7e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Refer to illustration 12.40
 
@@ -8741,7 +8173,6 @@ Steps 16 through 24 for ball-and-cage joints). If the shaft is equipped with a d
 44 Install the driveaxle (see Section 11).
 
 ### Section
-`hyundai_elantra_ru_en_7efb70cb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Anti-lock Brake System (ABS) - general information and trouble codes.. N Brake caliper - removal and installation. Brake check  See Chapter 1 Brake disc - inspection, removal and installation. 59 Brake hoses and lines - inspection and replacement. Brake hydraulic system - bleeding... 10 Brake pedal height and freeplay - adjustment. 12 Disc brake pads - replacement. 3
 
@@ -8750,26 +8181,22 @@ Drum brake shoes - replacement. 6 Fluid level checks See Chapter 1 General infor
 00569
 
 ### General
-`hyundai_elantra_ru_en_c755e1a9` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Brake pedal Height (with carpet in place) 2000 and earlier models. 7-31/64 inches (190 mm) 2001 and later models 6-11/16 inches (70 mm) Freeplay  1/8 to 5/16 inch (3 to 8 mm)
 Parking brake lever travel. 7 to 9 clicks
 Power brake booster pushrod-to-master cylinder piston clearance. 0.0 inch (0.0 mm)
 
 ### Disc brakes
-`hyundai_elantra_ru_en_5845f113` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 rak See Chapter 1 Disc minimum thickness. Refer to minimum thickness cast into disc ckn No more than 0.0004 inch (0.01 mm) Runout limit 1996 models  0.006 inch (0.15 mm) 1997 0.0024 inch (0.06 mm) 0 0.003 inch (0.08)
 
 ### Drum brakes
-`hyundai_elantra_ru_en_fb0b77ec` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Bakl See Chapter 1 Drum diameter (maximum) Refer to maximum diameter cast into drum
 
 ![](images/098ea51f7f1c2dfaaf72e42a947782c49db2158f560a9ea44ceba9953bdbd14a.jpg)
 
 ### General
-`hyundai_elantra_ru_en_ad667f6f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All vehicles covered by this manual are equipped with hydraulically operated, powerassisted brake systems. Allfront brake systems are disc type. Some models use drum type brakes at the rear, others are equipped with rear disc brakes.
 
@@ -8778,31 +8205,26 @@ All brakes are self-adjusting. The front and rear disc brakes automatically comp
 The hydraulic system is a split design, meaning there are two separate circuits that control the brakes. If one circuit fails, the other circuit will remain functional and a warning indicator willight up on the dashboard when a substantial amount of brake fluid is lost, showing that a failure has occurred.
 
 ### Master cylinder
-`hyundai_elantra_ru_en_dfc484dd` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The master cylinder is bolted to the power brake booster, which is mounted on the driver's side of the firewall. To locate the master cylinder, look for the large fluid reservoir on top. The fluid reservoir is plastic, secured to the master cylinder by grommets and a screw.
 
 The master cylinder is designed for the "split system" mentioned earlier and has separate piston assemblies for each circuit.
 
 ### Proportioning valve
-`hyundai_elantra_ru_en_a6a594d5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 The proportioning valve assembly is located below the master cylinder. It regulates the hydraulic pressure to the rear brakes during heavy braking to eliminate rear wheel lock-up. Under normal braking conditions, it allows full pressure to the rear brake system until a predetermined pedal pressure is reached. Above that point, the pressure to the rear brakes is limited.
 
 The proportioning valve is not serviceable. If a problem develops with the valve, it must be replaced as an assembly. Later ABS-equipped models use Electronic Brakeforce Distribution (EBD) instead of a proportioning valve. EBD is part of the ABS system and can perform the proportioning function much more precisely because it is computer operated.
 
 ### Power brake booster
-`hyundai_elantra_ru_en_e6c329b3` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The power brake booster, which uses engine manifold vacuum and atmospheric pressure to provide assistance to the hydraulically operated brakes, is mounted on the firewall in the engine compartment.
 
 ### Parking brake
-`hyundai_elantra_ru_en_e18e36e7` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 A parking brake lever inside the vehicle operates a rod attached to a pair of rear cables, each of which is connected to its respective rear brake. When the parking brake lever is pulled up on drum brake models, each rear cable pulls on a lever attached to the brake shoe assembly, causing the shoes to expand against the drum. When the lever is pulled on models with rear disc brakes, the rear cables pull on levers that are attached to screw-type actuators in the caliper housings, which apply force to the caliper pistons, clamping the brake pads against the brake disc.
 
 ### Precautions
-`hyundai_elantra_ru_en_873c63d1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 There are some general cautions and waings ivolving the brake system on these vehicles:
 
@@ -8815,7 +8237,6 @@ Safety should be paramount whenever any servicing of the brake components is per
 If a problem is suspected in the brake system, don't drive the vehicle until it's fixed.
 
 ### General information
-`hyundai_elantra_ru_en_ab65ddd6` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Refer to illustration 2.3
 
@@ -8828,7 +8249,6 @@ In a conventional braking system, if you press the brake pedal too hard, the whe
 In reality, the Anti-lock Brake System is far more complex than it sounds, so we don't recommend that you attempt to diagnose or service it. If the Anti-lock Brake System on your vehicle develops problems, take it to a dealer service department or other qualified shop.
 
 ### ABS trouble codes
-`hyundai_elantra_ru_en_e6ba80ed` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Refer to illustration 2.6
 
@@ -8861,7 +8281,6 @@ ABS Trouble Codes (1998 and earlier models only)
 10 The diagnostic codes must be cleared from the computer memory after the repairs have been performed. The diagnostic codes can only be erased using the special scan tool. If the scan tool is not available, have the code clearing procedure performed by a dealership service department or other qualified repair facility.
 
 ### 3Disc brake pads - replacement
-`hyundai_elantra_ru_en_811b008f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Warning: Disc brake pads must be replaced on both front wheels at the same time - never replace the pads on only one wheel. Also, the dust created by the brake system is harmful to your health. Never blow it out with compressed air and don't inhale any of it. An approved filtering mask should be worn when
 
@@ -8888,7 +8307,6 @@ lined in Section 5. If machining is necessary, follow the information in that Se
 3.6c  Swing the caliper up . . .
 
 ### Front pads
-`hyundai_elantra_ru_en_3f4ff13f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Refer to ilustrations 3.5 and 3.6a through 3.6p 5 Push the piston back into the bore to provide room for the new brake pads. A Cclamp can be used to accomplish this (see illustration). As the piston is depressed to the bottom of the caliper bore, the fluid in the master cylinder willrise. Make sure it doesn't
 
@@ -8940,7 +8358,6 @@ overflow. If necessary, drain off some of the fluid.
 ![](images/09143778ca15ad9abd0d6010335dd5fb972bdaaf448e9b5d46e0ca70a579651a.jpg)
 
 ### Rear pads
-`hyundai_elantra_ru_en_ce55cd9b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 7Wash the brake assembly with brake system cleaner.
 
@@ -8953,14 +8370,12 @@ Install the new pads.
 13Lower the caliper into position over the disc, then install the mounting bolts, tightening them to the torque listed in this Chapter's Specifications.
 
 ### Removal
-`hyundai_elantra_ru_en_297ae306` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 15Install the wheel and lug nuts, lower the vehicle and tighten the lug nuts to the torque listed in the Chapter 1 Specifications. Apply and release the brake pedal several times to bring the pads into contact with the brake discs. Check the brake fluid level and add fluid, if necessary (see Chapter 1. 7Check the operation of the brakes in an isolated area before driving the vehicle in traffic.
 
 Install the wheels and lug nuts and lower the vehicle. Tighten the wheel lug nuts to the torque listed in the Chapter 1 Specifications.
 
 ### Brake caliper - removal and installation
-`hyundai_elantra_ru_en_9aee6372` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 14Reconnect the parking brake cable.
 
@@ -8982,7 +8397,6 @@ Separate the parking brake cable from the lever on the caliper.
 12Remove the caliper mounting bolts.
 
 ### Front or rear pads
-`hyundai_elantra_ru_en_173d4bcf` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Bleed the brake system (see Section 10).
 
@@ -8995,14 +8409,12 @@ mounting bolts and the banjo bolt to the torque listed in this Chapter's Specifi
 14 Install the caliper by reversing the removal procedure. Remember to replace the sealing washers on either side of the brake line fitting with new ones, and tighten the banjo bolt and caliper mounting bolt to the torque values listed in this Chapter's Specifications.
 
 ### Front
-`hyundai_elantra_ru_en_cdf7df8f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 5 Install the caliper by reversing the removal procedure. Remember to replace the sealing washers on either side of the brake line fitting with new ones. Tighten the caliper
 
 15Bleed the brake system (see Section 10). 16 Install the wheels and lug nuts. Lower the vehicle and tighten the lug nuts to the torque listed in the Chapter 1 Specifications.
 
 ### Inspection
-`hyundai_elantra_ru_en_2b1ed25c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Refer to illustrations 5.3, 5.4a, 5.4b, 5.5a and 5.5b
 
@@ -9025,7 +8437,6 @@ inch from the outer edge of the disc (see illustration). Set the indicator to ze
 5it is absolutely critical that the disc not be machined to a thickness less than the minimum allowable thickness. The minimum (or discard) thickness is stamped on the disc (see illustration). The disc thickness can be checked with a micrometer (see illustration). Check the thickness at several points.
 
 ### Removal
-`hyundai_elantra_ru_en_a99b98ff` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 6 Remove the brake caliper (if not already done), but don't disconnect the brake hose (see Section 4). Also remove the caliper mounting bracket.
 
@@ -9036,7 +8447,6 @@ If you're working on a 2001 or later model, simply slide the disc off the hub fl
 9On rear disc brakes remove the retaining screw and remove the disc from the hub.
 
 ### Installation
-`hyundai_elantra_ru_en_3ba7f966` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 10Installation is the reverse of the removal procedure. Tighten the mounting bracket and caliper bolts to the torque values listed in this Chapter's Specifications.
 
@@ -9046,7 +8456,6 @@ If you're working on a 2001 or later model, simply slide the disc off the hub fl
 11 Install the wheel, then lower the vehicle to the ground. Tighten the lug nuts to the torque listed in the Chapter 1 Specifications. Depress the brake pedal a few times to bring the brake pads into contact with the disc. Bleeding of the system will not be necessary unless the fluid hose was disconnected from the caliper. Check the operation of the brakes carefully before placing the vehicle into normal service.
 
 ### 6Drum brake shoes - replacement
-`hyundai_elantra_ru_en_7f889c94` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 6.4a through 6.4z and 6.6
 
@@ -9071,7 +8480,6 @@ Loosen the wheel lug nuts, raise the rear of the vehicle and support it securely
 Block the front wheels to keep the vehicle from rolling. Remove the rear wheels.
 
 ### 6.4a Details of the rear drum brake assembly
-`hyundai_elantra_ru_en_2bbc2c0d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 123 hee reln spring Adjuster screw assembly 45689 Parking brake lever Trailing brake shoe Parking brake cable Shoe retum spring Leading brake shoe Adjuster spring 10 Hold-down spring 11 Adjuster lever pawl
 
@@ -9125,7 +8533,6 @@ Release the parking brake.
 ![](images/a4cd9d1b4750f0e14976ed5760d1b438f6595ad28a07148ea23ee5effce37bd4.jpg)
 
 ### 6.4a Details of the rear drum brake assembly
-`hyundai_elantra_ru_en_66b51d9c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ![](images/12968d3edc1fdc9a92a56a63c0f59fcc162b0ec145afaad6fbee6eceb15947cd.jpg)
 6.4n Install the hold-down pins into the backing plate
@@ -9176,7 +8583,6 @@ Prior to reinstaling, the drum should be checked for cracks, score marks, deep s
 7Instal the brake drum and bearing unit, the washer and a new spindle nut (see Chapter 10.Tighten the nut to the torque listed in the Chapter 10 Specifications.
 
 ### 6.4a Details of the rear drum brake assembly
-`hyundai_elantra_ru_en_5d0d3312` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 8 Mount the wheel, install the lug nuts, thenlower the ehice.Tighten the lug nuts to the torque listed in the Chapter 1 Specifications.
 
@@ -9185,7 +8591,6 @@ Prior to reinstaling, the drum should be checked for cracks, score marks, deep s
 10Check brake operation carefully before driving the vehicle in traffic. Warning: Do not operate the vehicle if you are in doubt about the effectiveness of the brake system.
 
 ### Removal
-`hyundai_elantra_ru_en_9b66ba21` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1Raise the rear of the vehicle and support it securely on jackstands. Block the front wheels to keep the vehicle from rolling.
 
@@ -9202,7 +8607,6 @@ Remove the brake shoe assembly (see Section 6).
 6Detach the wheel cylinder from the brake backing plate. Immediately plug the brake line to prevent fluid loss and contamination. Note: If the brake shoe linings are contaminated with brake fluid, install new brake shoes and clean the drums with brake system cleaner.
 
 ### Installation
-`hyundai_elantra_ru_en_03e56e6a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 7 Apply RTV sealant to the mating surface of the wheel cylinder and the brake backing plate, place the cylinder in position and connect the brake line. Don't tighten the fitting completely yet.
 
@@ -9211,7 +8615,6 @@ Install the mounting bolts, tightening them to the torque listed in this Chapter
 Specifications. Tighten the brake line fitting securely. Install the brake shoe assembly (see Section 6). 9 Bleed the brakes (see Section 11). 0Check brake operation before driving the vehicle in trafic. Waring: Do not operate the vehicle if you are in doubt about the effectiveness of the brake system.
 
 ### Removal
-`hyundai_elantra_ru_en_a0b0267c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustration 8.5
 
@@ -9234,7 +8637,6 @@ all body parts and be careful not to spil fluid during this procedure.
 6Disconnect the electrical connector at the brake fluid level switch on the master cylinder reservoir, then remove the nuts attaching the master cylinder to the power booster (see illustration 8.5). Pull the master cylinder off the studs and out of the engine compartment. Again, be careful not to spill the fluid as this is done.
 
 ### Installation
-`hyundai_elantra_ru_en_924a2dcb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustration 8.8
 
@@ -9266,7 +8668,6 @@ Remove the bleed tubes, one at a time, and install plugs in the open ports to pr
 9.4a Use a flare-nut wrench to loosen the brake line-to-hose fitting ...
 
 ### 9 Brake hoses and lines - inspection and replacement
-`hyundai_elantra_ru_en_b3808683` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Refer to illustrations 9.4a, 9.4b and 9.5
 
@@ -9300,7 +8701,6 @@ When installing a steel line, make sure it's securely supported in the brackets 
 After installation, check the fluid level in the master cylinder and add fluid as necessary. Bleed the brake system as described in Section 10 and test the brakes carefully before driving the vehicle in traffic. Warning: Do not operate the vehicle if you are in doubt about the effectiveness of the brake system.
 
 ### 10Brake hydraulic system - bleeding
-`hyundai_elantra_ru_en_867c4d8d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Refer to illustration 10.8
 
@@ -9329,7 +8729,6 @@ Place one end of the tubing over the bleed screw and submerge the other end in b
 11 Repeat Steps 9 and 10 until no more air is seen leaving the tube, then tighten the bleed screw and proceed to the left front wheel, then the left rear wheel and then to the right front wheel, in that order, and perform the same procedure. Be sure to check the fluid in the master cylinder reservoir frequently.
 
 ### 10Brake hydraulic system - bleeding
-`hyundai_elantra_ru_en_9af055b0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 12Never use old brake fluid. It contains moisture which can bil, rendering the brakes inoperative.
 
@@ -9338,7 +8737,6 @@ Refill the master cylinder with fluid at the end of the operation.
 14Check the operation of the brakes. The pedal should feel solid when depressed, with no sponginess. If necessary, repeat the entire process. Warning: Do not operate the vehicle if you are in doubt about the effectiveness of the brake system.
 
 ### Operating check
-`hyundai_elantra_ru_en_46fc65cb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Depress the pedal and start the engine. If the pedal goes down slightly, operation is normal.
 
@@ -9360,14 +8758,12 @@ Depress the pedal and start the engine. If the pedal goes down slightly, operati
 11.13d  Measure the distance from the piston pocket to the end of the master cylinder
 
 ### Airtightness check
-`hyundai_elantra_ru_en_62081734` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 3Start the engine and turn it off after one or two minutes. Depress the brake pedal several times slowly. If the pedal goes down farther the first time but gradually rises after the second or third depression, the booster is airtight.
 
 4 Depress the brake pedal while the engine is running, then stop the engine with the pedal depressed. If there is no change in the pedal reserve travel after holding the pedal for 30 seconds, the booster is airtight.
 
 ### Removal
-`hyundai_elantra_ru_en_7eb3a791` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustration 11.10
 
@@ -9381,14 +8777,12 @@ Refer to illustration 11.10
 11Slide the booster straight out from the firewall until the studs clear the holes, then maneuver the booster out from the engine compartment.
 
 ### Installation
-`hyundai_elantra_ru_en_b3c45f5d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 11.13a, 11.13b, 11.13c, 11.13d and 11.13e.
 
 12 Installation procedures are basically the reverse of those for removal. Use new gaskets on either side of the spacer at the firewall. Tighten the booster mounting nuts to the torque listed in this Chapter's Specifications. 13 If a new power brake booster unit is being installed, check the pushrod clearance
 
 ### (see illustration) as follows:
-`hyundai_elantra_ru_en_31af0279` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 aMeasure the distance that the pushrod protrudes from the master cylinder mounting surface on the front of the power brake booster, including the gasket, if equipped. Write down this measurement (see illustration). This is "dimension A."
 b) Measure the distance from the mounting flange to the end of the master cylinder (see illustration). Write down this measurement. This is "dimension B."
@@ -9408,7 +8802,6 @@ e) Compare your calculated pushrod clearance to the pushrod clearance listed in 
 15After the final installation of the master cylinder, the brake pedal height and freeplay must be adjusted and the system must be bled. See the appropriate Sections of this Chapter for the procedures.
 
 ### Pedal height
-`hyundai_elantra_ru_en_e7b82bca` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 12.1
 
@@ -9419,14 +8812,12 @@ Refer to illustration 12.1
 ![](images/42e4307c9c0b6a8ba4f43aec8f4e7896796921cbf32b3e136b356b11ffe59cc8.jpg)
 
 ### Pedal freeplay
-`hyundai_elantra_ru_en_08648269` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 12.3
 
 3The freeplay is the pedal slack, or the distance the pedal can be depressed before it begins to have any effect on the brake system (see illustration). If the pedal freeplay is not within the specified range, it must be adjusted. 4 To adjust the pedal freeplay, loosen the locknut on the brake pushrod (see illustration 12.1), then turn the pushrod to adjust the pedal freeplay to the specified range. Retighten the locknut.
 
 ### 13Parking brake - adjustment
-`hyundai_elantra_ru_en_13c12942` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Remove the center console (see Chapter 11).
 2 Block the front wheels, raise the rear of the vehicle and support it securely on jackstands. Apply the parking brake lever until you hear one click.
@@ -9439,7 +8830,6 @@ Stop turning the nut when the brakes just start to drag on the rear wheels.
 5Lower the vehicle and reinstall the console or cover.
 
 ### Refer to illustration 14.2
-`hyundai_elantra_ru_en_40627cce` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 1 Block the front wheels and loosen the rear wheel lug nuts. Raise the rear of the vehicle and support it securely on jackstands. 2 On models with rear drum brakes,
 
@@ -9462,7 +8852,6 @@ remove the brake shoes (see Section 6) and disconnect the cable end from the lev
 ![](images/81188f49bd92660c89ee0216f06d20de1ad8477df3019fe44cbbd35f23e05d6b.jpg)
 
 ### Contents
-`hyundai_elantra_ru_en_27f26089` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/3e31b236cb074bbdfe902f5be92efff9fe84982a9753133364ec5f2a6f01885f.jpg)
 
@@ -9472,7 +8861,6 @@ Chapter 10 Suspension and steering systems
 ![](images/59b047ec1fb3e738da796f336ebd630ccab0fa44b50fd7e1c72098e60c232bad.jpg)
 
 ### Refer to illustrations 1.1, 1.2a and 1.2b
-`hyundai_elantra_ru_en_512836a4` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:suspension | p:1 | doc_type:service_manual
 
 The front suspension system (see illustration) is a MacPherson strut design. The upper end of each strut is attached to the vehicle body. The lower end of the strut is connected to the upper end of the steering knuckle. The steering knuckle is attached to a balljoint mounted on the outer end of the control arm. A stabilizer bar is used on all models. The bar is attached to the frame with a pair of clamps and to the control arms with link rods.
 
@@ -9496,7 +8884,6 @@ Frequently, when working on the suspension or steering system components, you ma
 rn asmbly
 
 ### Refer to illustrations 1.1, 1.2a and 1.2b
-`hyundai_elantra_ru_en_d8dce968` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Trailing arm 5 Front lateral arm
 
@@ -9506,7 +8893,6 @@ Trailing arm 5 Front lateral arm
 ![](images/3c31603439dd610f4217a9d81d9914f31054b9ef305cf367b44a4c14734111dd.jpg)
 
 ### 1.2b Rear suspension components (rear view)
-`hyundai_elantra_ru_en_62a75376` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:suspension | p:1 | doc_type:service_manual
 
 1 Strut/coil spring assembly
 234 Stabilizer bar link Crossmember Adjusting cam (earlier models)
@@ -9520,7 +8906,6 @@ with a torch sometimes helps too, but isn't recommended because of the obvious d
 Since most of the procedures dealt with in this Chapter involve jacking up the vehicle and working underneath it, a good pair of jackstands will be needed. A hydraulic floor jack is the preferred type of jack to lift the vehicle, and it can also be used to support certain components during various operations. Warning: Never, under any circumstances, rely on a jack to support the vehicle while working on it. Whenever any of the suspension or steering fasteners are loosened or removed they must be inspected and, if necessary, replaced with new ones of the same part number or of original equipment quality and design. Torque specifications must be followed for proper reassembly and component retention. Never attempt to heat or straighten any suspension or steering components. Instead, replace any bent or damaged part with a new one.
 
 ### Removal
-`hyundai_elantra_ru_en_b9d10157` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 1 Loosen the front wheel lug nuts, raise the front of the vehicle and support it securely on jackstands. Remove the wheels. 2 Detach the brake hose bracket from the strut. If the vehicle is equipped with ABS, detach the speed sensor wiring harmess from the strut by removing the clamp bracket bolt. 3 Remove the strut-to-knuckle nuts and if necessary, knock the bolts out with a hammer and punch (see illustration).
 
@@ -9529,7 +8914,6 @@ Since most of the procedures dealt with in this Chapter involve jacking up the v
 5 An assistant would be helpful at this point to hold the strut as the nuts are loosened. Remove the strut upper mounting nuts (see illustration). Remove the assembly out from the fenderwell.
 
 ### Inspection
-`hyundai_elantra_ru_en_12382b61` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 6Check the strut body for leaking fluid, dents, cracks and other obvious damage which would warrant repair or replacement.
 
@@ -9538,7 +8922,6 @@ Since most of the procedures dealt with in this Chapter involve jacking up the v
 If any undesirable conditions exist, proceed to the strut disassembly procedure (see Section 3).
 
 ### Installation
-`hyundai_elantra_ru_en_cef96047` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 9Guide the strut assembly up into the fenderwell and insert the upper mounting studs through the holes in the strut tower. Once the studs protrude from the strut tower, install the nuts so the strut won't fall back through. This is most easily accomplished with the help of an assistant, as the strut is quite heavy and awkward.
 
@@ -9554,19 +8937,16 @@ If any undesirable conditions exist, proceed to the strut disassembly procedure 
 2.5 Strut upper mounting nuts
 
 ### 3Strut/coil spring - replacement
-`hyundai_elantra_ru_en_c8cea6e1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the struts or coil springs exhibit the telltale signs of wear (leaking fluid, loss of damping capability, chipped, sagging or cracked coil springs) explore all options before beginning any work. The strut/damper assemblies are not serviceable and must be replaced if a problem develops. However, strut assemblies complete with springs may be available on an exchange basis, which eliminates much time and work. Whichever route you choose to take, check on the cost and availability of parts before disassembling your vehicle. Warning: Disassembling a strut is potentially dangerous and utmost attention must be directed to the job, or serious injury may result. Use only a high-quality spring compressor and carefully follow the manufacturer's instructions furnished with the tool. After removing the coil spring from the strut, set it aside in a safe, isolated area.
 
 ### Disassembly
-`hyundai_elantra_ru_en_a86c1030` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 3.3, 3.4, 3.5 and 3.6 2 Remove the strut and spring assembly following the procedure described in Section 2 (front) or Section 9 (rear). Mount the strut assembly in a vise. Line the vise jaws with wood or rags to prevent damage to the
 
 ![](images/9a8cdaf00a0311bd4a0647cc0e03c4e5cdfda08b2866779517c6ca847ce453e5.jpg)
 
 ### 3.3 Install the spring compressor according to the tool manufacturer's instructions and compress the
-`hyundai_elantra_ru_en_44685ada` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 unit, and don't tighten the vise excessively. 3 Following the tool manufacturer's instructions, install the spring compressor (which can be obtained at most auto parts stores or equipment yards on a daily rental basis) on the spring and compress it sufficiently to relieve all pressure from the upper spring seat (see illustration). This can be verified by wiggling the spring.
 
@@ -9587,7 +8967,6 @@ Pry out the dust cover with a screwdriver and remove the damper shaft nut (see i
 3.5 Lift the suspension support off the damper shaft
 
 ### Reassembly
-`hyundai_elantra_ru_en_701d371e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 3.11 and 3.12
 
@@ -9596,7 +8975,6 @@ Refer to illustrations 3.11 and 3.12
 11Carefully place the coil spring onto the lower insulator, with the end of the spring resting in the lowest part of the insulator (see
 
 ### illustration).
-`hyundai_elantra_ru_en_60c44366` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:suspension | p:1 | doc_type:service_manual
 
 2Install the upper insulator and the spring seat (see illustration). Make sure the Dshaped cutout in the spring seat mates properly with the damper shaft.
 
@@ -9607,7 +8985,6 @@ Refer to illustrations 3.11 and 3.12
 15 Install the strut/coil spring assembly (see Section 2 [front] or 9 [rear]).
 
 ### 4Steering knuckle - removal and installation
-`hyundai_elantra_ru_en_4ab8697c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: Dust created by the brake system is harmful to your health. Never blow it out with compressed air and don't inhale any of it. Do not, under any circumstances, use petroleum-based solvents to clean brake parts. Use brake system cleaner only.
 
@@ -9627,7 +9004,6 @@ Warning: Dust created by the brake system is harmful to your health. Never blow 
 6.2To disconnect the stabilizer link from the stabilizer bar, remove the upper nut; to disconnect the link from the control arm, remove the nut that attaches the link to the control arm
 
 ### Removal
-`hyundai_elantra_ru_en_debca64b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Refer to illustration 4.2
 
@@ -9652,7 +9028,6 @@ Separate the balljoint from the steering knuckle (see Section 7).
 10Remove the strut-to-knuckle bolts, then separate the knuckle from the strut.
 
 ### Installation
-`hyundai_elantra_ru_en_396ab070` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 1 Guide the knuckle and hub assembly into position, inserting the driveaxle into the hub.
 Push the knuckle into the strut flange and install the bolts and nuts, but don't tighten them yet.
@@ -9667,12 +9042,10 @@ steering knuckle (see Section 7). Attach the tie-rod end to the steering knuckle
 17Install the wheel and lug nuts, lower the vehicle and tighten the lug nuts to the torque listed in the Chapter 1 Specifications. Tighten the driveaxle/hub nut to the torque listed in the Chapter 8 Specifications. Install a new cotter pin.
 
 ### 5 Hub and wheel bearing assembly (front) - removal and installation
-`hyundai_elantra_ru_en_7d0e03e4` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Due to the special tools and expertise required to press the hub and bearing from the steering knuckle, this job should be left to a professional mechanic. However, the steering knuckle and hub may be removed and the assembly taken to a dealer service department or other qualified repair shop. See Section 4 for the steering knuckle removal procedure.
 
 ### 6Stabilizer bar (front) - removal and installation
-`hyundai_elantra_ru_en_3844c2e6` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:steering | p:1 | doc_type:service_manual
 
 Refer to illustrations 6.2 and 6.3
 
@@ -9687,7 +9060,6 @@ Remove the stabilizer bar, guiding it out from the right (passenger's) side of t
 7 Installation is the reverse of removal. Be sure to tighten all fasteners to the torque values listed in this Chapter's Specifications.
 
 ### Removal
-`hyundai_elantra_ru_en_34d36242` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 7.4, 7.5 and 7.6
 1 Loosen the wheel lug nuts, raise the vehicle and support it securely on jackstands. Remove the wheel.
@@ -9708,7 +9080,6 @@ Use a pickle fork tool to pop the balljoint stud from the steering knuckle (see 
 6Remove the rear bushing clamp bolts (see illustration). Remove the control arm.
 
 ### Inspection
-`hyundai_elantra_ru_en_18b075bf` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 7Inspect the front and rear bushings for cracks and general deterioration. If the front bushing (or rear bushing on 2001 and later models) is in need of replacement, take the control arm to an automotive machine shop to have the old one pressed out and the new one pressed in. If the rear bushing on 2000 and earlier models is in need of replacement, remove the pivot stud nut from the rear of the control arm and slide the bushing and bracket assembly off the control arm pivot. Install the new bushing, lockwasher and nut, tightening the nut to the torque listed in this Chapter's Specifications.
 
@@ -9718,17 +9089,14 @@ Inspect the control arm for straightness. If it's bent, replace it. Do not attem
 7.5 Remove the front pivot bolt (arrow)
 
 ### Installation
-`hyundai_elantra_ru_en_03ae6c29` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 9 Installation is the reverse of removal. Tighten all of the fasteners to the torque values listed in this Chapter's Specifications. 0Install the wheel and lug nuts, lower the vehicle and tighten the lug nuts to the torque listed in the Chapter 1 Specifications.
 
 ### 8 Balljoints - replacement
-`hyundai_elantra_ru_en_c0393d99` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the balljoint is in need of replacement, take the control arm to an automotive machine shop to have the old one pressed out and the new one pressed in. See Section 7 for the control arm removal procedure.
 
 ### Removal
-`hyundai_elantra_ru_en_ce69eabc` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Refer to illustrations 9.3 and 9.6
 
@@ -9741,12 +9109,10 @@ Loosen the rear wheel lug nuts, raise the rear of the vehicle and support it sec
 Separate the strut from the knuckle. Don't allow the knuckle to fall outward, as this may damage the brake hose. 5Remove the luggage compartment trim panel for access to the upper mounting nuts. 6 Have an assistant support the strut and spring assembly while you remove the three upper mounting nuts (see illustration). Remove the assembly from the fenderwell.
 
 ### Inspection
-`hyundai_elantra_ru_en_89a922e2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 7Inspect the strut and spring as outlined in Section 2. If any undesirable conditions exist, replace the strut or spring (see Section 3).
 
 ### Installation
-`hyundai_elantra_ru_en_d4a95f93` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 8 Guide the strut assembly up into the fenderwell and insert the upper mounting studs through the holes in the strut tower. Once the studs protrude from the strut tower, install the nuts so the strut won't fall back through. This is most easily accomplished with the help of an assistant, as the strut is quite heavy and awkward.
 
@@ -9778,7 +9144,6 @@ Separate the strut from the knuckle. Don't allow the knuckle to fall outward, as
 10.6 Once the brake assembly has been detached from the knuckle, the knuckle can be removed by removing the bolts and nuts that attach it to the rear knuckle and suspension arms (arrows)
 
 ### Refer to illustration 10.6
-`hyundai_elantra_ru_en_874f55c7` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 1Loosen the rear wheel lug nuts, raise the rear of the vehicle and support it securely on jackstands. Remove the wheels.
 
@@ -9803,7 +9168,6 @@ Installation is the reverse of removal. Be sure to tighten the suspension and br
 12.2If you're just removing the stabilizer bar, remove the nut that attaches it to the link (lower arrow); if you're removing the strut, remove the nut from the upper end of the link (upper arrow)
 
 ### 11 Hub and wheel bearing assembly (rear) - removal and installation
-`hyundai_elantra_ru_en_4371af38` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Note: The hub and bearing assembly is a sealed unit and is not serviceable. If found to be defective it must be replaced with a new one.
 
@@ -9824,7 +9188,6 @@ Loosen the rear wheel lug nuts, raise the rear of the vehicle and support it sec
 Install the wheel and lug nuts. Lower the vehicle and tighten the lug nuts to the torque listed in the Chapter 1 Specifications.
 
 ### 12Stabilizer bar (rear) - removal and installation
-`hyundai_elantra_ru_en_9dc53018` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 12.2 and 12.3
 
@@ -9841,12 +9204,10 @@ Loosen the rear wheel lug nuts, raise the rear of the vehicle and support it sec
 6Install the wheel and lug nuts. Lower the vehicle and tighten the lug nuts to the torque listed in the Chapter 1 Specifications.
 
 ### 13Rear suspension arms - removal and installation
-`hyundai_elantra_ru_en_109a86d0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Loosen the rear wheel lug nuts, raise the rear of the vehicle and support it securely on jackstands. Remove the wheels. 2 On ABS-equipped models, remove the wheel speed sensors.
 
 ### Trailing arms
-`hyundai_elantra_ru_en_6a61c8a0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 13.4 and 13.5
 
@@ -9862,7 +9223,6 @@ Refer to illustrations 13.4 and 13.5
 Place a floor jack under the rear knuckle and raise the suspension to simulate normal ride height, then tighten the fasteners to the torque listed in this Chapter's Specifications. 7 Lower the vehicle and tighten the lug nuts to the torque listed in the Chapter 1 Specifications.
 
 ### Lateral arms
-`hyundai_elantra_ru_en_82eef123` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 13.8a, 13.8b, 13.9a and 13.9b
 
@@ -9881,7 +9241,6 @@ Before tightening the lateral arm fasteners on 2000 and earlier models, align th
 13 When you're done, drive the vehicle to an alignment shop and have the rear-wheel toe checked and, if necessary, adjusted.
 
 ### 1 Steering wheel - removal and installation
-`hyundai_elantra_ru_en_4e676759` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: The models covered by this manual are equipped with Supplemental Restraint Systems (SRS), more commonly known as airbags. Always disable the airbag system before working in the vicinity of any airbag system components to avoid the possibility of accidental deployment of the airbag, which could cause personal injury (see Chapter 12). Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code.
 
@@ -9901,7 +9260,6 @@ Warning: The models covered by this manual are equipped with Supplemental Restra
 14.3Remove the airbag mounting nuts
 
 ### Removal
-`hyundai_elantra_ru_en_64b5fe26` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to ilustrations 14.3, 14.4, 14.6 and 14.7 1 Park the vehicle with the front wheels pointing straight ahead.
 
@@ -9921,12 +9279,10 @@ Remove the steering wheel retaining nut, then mark the relationship of the steer
 ![](images/06327560723e392e4a3611aa0899f8eadd2f312fbaa7c6e1dc64dbae152b5523.jpg)
 
 ### 14.4Carefully lift the airbag module and disconnect the airbag electrical connectors (arrows)
-`hyundai_elantra_ru_en_b4684e21` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 wheel to the steering shaft (see illustration). 7 Use a steering wheel puller to separate the steering wheel from the steering shaft (see illustration). When removing the wheel, make sure the electrical leads for the airbag module and the cruise control system don't snag on the wheel. Warning: Do not turn the steering shaft while the steering wheel is removed.
 
 ### Installation
-`hyundai_elantra_ru_en_a43cbc92` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Make absolutely sure that the clockspring is centered with the arrow on the clockspring pointing up. This shouldn't be a problem as long as you have not turned the steering shaft while the wheel was removed. If the airbag clockspring was accidentally rotated while the wheel was removed, re-center it by rotating the hub of the clockspring counterclockwise until it stops, then rotate it clockwise until it stops, counting the number of turns. Divide this number by two and rotate the hub counterclockwise by that amount. Now line up the pointers on the clockspring body and hub.
 
@@ -9943,7 +9299,6 @@ Verify that the airbag circuit is operational by turning the ignition key to the
 15.2 Remove the clockspring mounting screws (arrows)
 
 ### 15Steering column - removal and installation
-`hyundai_elantra_ru_en_88d92fd8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning 1: The models covered by this manual are equipped with Supplemental Restraint Systems (SRS), more commonly known as airbags. Always disable the airbag system before working in the vicinity of any airbag system components to avoid the possibility of accidental deployment of the airbag, which could cause personal injury (see Chapter 12). Warning 2: Make sure the steering shaft is not turned while the steering wheel is removed or you could damage the airbag sys
 
@@ -9967,7 +9322,6 @@ tem clockspring. To prevent the shaft from turning, position the wheels straight
 Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code.
 
 ### Removal
-`hyundai_elantra_ru_en_399c4451` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Refer to illustrations 15.2, 15.3, 15.6 and 15.7 1 Disconnect the cable from the negative battery terminal, then the positive battery terminal and wait at least two minutes. Remove the steering wheel (see Section 14).
 2 Remove the clockspring mounting screws (see illustration).
@@ -9982,12 +9336,10 @@ Refer to illustrations 15.2, 15.3, 15.6 and 15.7 1 Disconnect the cable from the
 Remove the steering column.
 
 ### Installation
-`hyundai_elantra_ru_en_90ed8d38` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 9 Installation is the reverse of removal. Be sure to tighten all fasteners to the torque listed in this Chapter's Specifications. When installing the clockspring, be sure to center it following the procedure in Section 14.
 
 ### 16 Tie-rod ends - removal and installation
-`hyundai_elantra_ru_en_f55cd4e0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 16.2 and 16.3
 
@@ -9999,12 +9351,10 @@ Loosen the jam nut enough to mark the position of the tie-rod end in relation to
 5 Unscrew the tie-rod end from the steering rod.
 
 ### Installation
-`hyundai_elantra_ru_en_b357564a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 6Thread the tie-rod end on to the marked position and insert the tie-rod stud into the steering knuckle arm. Install the castle nut on the stud and tighten it to the torque listed in this Chapter's Specifications. Install a new cotter pin. If necessary, tighten the nut a littie more to allow cotter pin insertion (don't loosen the nut to do this.
 
 ### Removal
-`hyundai_elantra_ru_en_b00cd11f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 7 Tighten the jam nut securely. 8 Install the wheel and lug nuts. Lower the vehicle and tighten the lug nuts to the torque listed in the Chapter 1 Specifications. 9 Have the alignment checked and, if necessary, adjusted.
 
@@ -10020,7 +9370,6 @@ Loosen the jam nut enough to mark the position of the tie-rod end in relation to
 17.3The outer end of each steering gear boot is secured by a spring-type clamp that can be slid off simply by pinching the ends together
 
 ### 17Steering gear boots - replacement
-`hyundai_elantra_ru_en_f74220e1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 17.3
 
@@ -10033,12 +9382,10 @@ Refer to illustration 17.3
 7 Install the wheel and lug nuts. Lower the vehicle and tighten the lug nuts to the torque listed in the Chapter 1 Specifications.
 
 ### 1Steering gear - removal and installation
-`hyundai_elantra_ru_en_88d92fd8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Warning 1: The models covered by this manual are equipped with Supplemental Restraint Systems (SRS), more commonly known as airbags. Always disable the airbag system before working in the vicinity of any airbag system components to avoid the possibility of accidental deployment of the airbag, which could cause personal injury (see Chapter 12). Warning 2: Make sure the steering shaft is not turned while the steering wheel is removed or you could damage the airbag system clockspring. To prevent the shaft from turning, position the wheels straight ahead, turn the ignition key to the lock position and remove the key before beginning work, or thread the seat belt through the steering wheel and clip it into place.
 
 ### Removal
-`hyundai_elantra_ru_en_601f4821` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustrations 18.2 and 18.7
 
@@ -10057,7 +9404,6 @@ In the engine compartment, remove the air intake hose from between the throttle 
 Remove the steering gear clamp mounting bolts (see illustration and the hydraulic line clamp. Separate the intermediate shaft from the steering gear input shaft and remove the steering gear assembly through the right side fenderwell.
 
 ### Installation
-`hyundai_elantra_ru_en_918a9a3e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:steering | p:1 | doc_type:service_manual
 
 Note: Make sure the steering gear is centered from side-to-side before installing it.
 Guide the steering gear into position and connect the U-joint, aligning the marks. 9 Install the mounting brackets and bolts and tighten them to the torque listed in this Chapter's Specifications.
@@ -10069,12 +9415,10 @@ Connect the power steering pressure and return lines to the steering gear and il
 16 Install the wheels and lug nuts, then lower the vehicle and tighten the lug nuts to the torque listed in the Chapter 1 Specifications. Bleed the steering system (see Section 20).
 
 ### 19 Power steering pump - removal and installation
-`hyundai_elantra_ru_en_3498db70` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code.
 
 ### Removal
-`hyundai_elantra_ru_en_1f832970` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 19.3
 
@@ -10089,7 +9433,6 @@ Refer to illustration 19.3
 Using a large syringe or suction gun, suck as much fluid out of the power steering fluid reservoir as possible. Place a drain pan under the vehicle to catch any fluid that spills out when the hoses are disconnected. 3 Remove the fluid reservoir supply hose, hose and the pressure hose banjo bolt from power steering pump (see illustration). 4 Loosen the lock bolt and the adjusting bolt and remove the power steering belt (see Chapter 1). 5 Remove the pump mounting bolts then remove the pump from the vehicle.
 
 ### Installation
-`hyundai_elantra_ru_en_b4aaeeed` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 6Installation is the reverse of removal. Adjust the drivebelt tension following the procedure described in Chapter 1. Top up the fluid level in the reservoir (see Chapter 1) and bleed the system (see Section 20).
 
@@ -10104,13 +9447,11 @@ the dipstick.
 Recheck the fluid level to be sure it is up to the Hot mark on the dipstick while the engine is at normal operating temperature. Add fluid if necessary (see Chapter 1).
 
 ### Wheels and tires - general information
-`hyundai_elantra_ru_en_7d2eea73` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c2e0d9c171e5a69c0faa93ba367407f0b3ffb245e8e9e7a0c63a3b5121a1fcc5.jpg)
 19.3Remove the power steering fluid supply line (A) and the high pressure line banjo bolt (B) from the power steering pump
 
 ### 20 Power steering system - bleeding
-`hyundai_elantra_ru_en_40fd8270` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Following any operation in which the power steering fluid lines have been disconnected, the power steering system must be bled to remove all air and obtain proper steering performance.
 
@@ -10136,7 +9477,6 @@ Refer to illustration 21.1
 22.1 Camber, caster and toe-in angles
 
 ### Refer to illustration 22.1
-`hyundai_elantra_ru_en_d563c23e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A wheel alignment refers to the adjustments made to the wheels so they are in proper angular relationship to the suspension and the ground. Wheels that are out of proper alignment not only affect vehicle control, but also increase tire wear. The front end angles normally measured are camber, caster and toe-in (see illustration). Camber and caster can't be adjusted, but should be measured to check for bent or worn parts; toe-in is adjustable by altering the position of the tierod ends on the tie-rods. The rear toe-in can also be adjusted, but the camber and caster cannot (however, camber and caster are usually measured to check for bent or worn suspension parts).
 
@@ -10151,7 +9491,6 @@ Caster is the tilting of the front steering axis from the vertical. A tilt towar
 ![](images/a7852835670a6286fa617e9fd53b5e394f6f3a090d6af5ddf20537cc19884a7b.jpg)
 
 ### 1General information
-`hyundai_elantra_ru_en_e4ca3cd0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 These models feature a "unibody" layout, using a floor pan with front and rear frame side rails which support the body components, front and rear suspension systems and other mechanical components.
 
@@ -10160,7 +9499,6 @@ Certain components are particularly vulnerable to accident damage and can be unb
 Only general body maintenance practices and body panel repair procedures within the scope of the do-it-yourselfer are included in this Chapter.
 
 ### Body - maintenance
-`hyundai_elantra_ru_en_6288a570` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The condition of your vehicle's body is very important, because the resale value depends a great deal on it. It's much more difficult to repair a neglected or damaged body than it is to repair mechanical components. The hidden areas of the body, such as the wheel wells, the frame and the engine compartment, are equally important, although they don't require as frequent attention as the rest of the body.
 
@@ -10175,14 +9513,12 @@ Once a year, or every 12,000 miles, it's a good idea to have the underside of th
 7 Once every six months, wax the body and chrome trim. If a chrome cleaner is used to remove rust from any of the vehicle's plated parts, remember that the cleaner also removes part of the chrome, so use it sparingly. On any plated parts where chrome cleaner is used, use a good paste wax over the plating for extra protection.
 
 ### 3Vinyl trim - maintenance
-`hyundai_elantra_ru_en_337e9781` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Don't clean vinyl trim with detergents, caustic soap or petroleum-based cleaners. Plain soap and water works just fine, with a soft brush to clean dirt that may be ingrained. Wash the vinyl as frequently as the rest of the vehicle.
 
 After cleaning, application of a high quality rubber and vinyl protectant will help prevent oxidation and cracks. The protectant can also be applied to weatherstripping, vacuum lines and rubber hoses, which often fail as a result of chemical degradation, and to the tires.
 
 ### the carpet.
-`hyundai_elantra_ru_en_3e8fe5c3` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 3 Most interiors have cloth or vinyl upholstery, either of which can be cleaned and maintained with a number of material-specific cleaners or shampoos available in auto supply stores. Follow the directions on the product for usage, and always spot-test any upholstery cleaner on an inconspicuous area (bottom edge of a backseat cushion) to ensure that it doesn't cause a color shift in the material.
 
@@ -10195,7 +9531,6 @@ After cleaning, vinyl upholstery should be treated with a protectant. Note: Make
 7In areas where the interior of the vehicle is subject to bright sunlight, cover leather seating areas of the seats with a sheet if the vehicle is to be left out for any length of time.
 
 ### Repair of flexible plastic body panels (front and rear bumper covers)
-`hyundai_elantra_ru_en_67eb7b53` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The following repair procedures are for minor scratches and gouges. Repair of more serious damage should be left to a dealer service department or qualified auto body shop. Below is a list of the equipment and materials necessary to perform the following repair procedures on plastic body panels. 3M and other manufacturers produce the materials listed, many of which are available from auto parts stores.
 
@@ -10240,7 +9575,6 @@ Mix and apply the repair material. Apply a light coat first over the damaged are
 16If desired, the repaired area can be temporarily protected with several light coats of primer. Because of the special paints and techniques required for flexible body panels, it is recommended that the vehicle be taken to a paint shop for completion of the body repair.
 
 ### Repair of minor scratches
-`hyundai_elantra_ru_en_80165bb6` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 17If the scratch is superficial and does not penetrate to the metal of the body, repair is very simple. Lightly rub the scratched area with a fine rubbing compound to remove loose paint and built up wax. Rinse the area with clean water.
 
@@ -10249,7 +9583,6 @@ Mix and apply the repair material. Apply a light coat first over the damaged are
 1If the scratch has penetrated the paint and exposed the metal of the body, causing the metal to rust, a different repair technique is required. Remove all loose rust from the bottom of the scratch with a pocket knife, then apply rust inhibiting paint to prevent the formation of rust in the future. Using a rubber or nylon applicator, coat the scratched area with glaze-type filler. If required, the filler can be mixed with thinner to provide a very thin paste, which is ideal for filling narrow scratches. Before the glaze filler in the scratch hardens, wrap a piece of smooth cotton cloth around the tip of a finger. Dip the cloth in thinner and then quickly wipe it along the surface of the scratch. This will ensure that the surface of the filler is slightly hollow. The scratch can now be painted over as described earlier in this Section.
 
 ### Repair of dents
-`hyundai_elantra_ru_en_ee73f6c8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 20When repairing dents, the first job is to pull the dent out until the affected area is as close as possible to its original shape. There is no point in trying to restore the original shape completely as the metal in the damaged area will have stretched on impact and cannot be restored to its original contours. It is better to bring the level of the dent up to a point, which is about 1/8-inch (3 mm) below the level of the surrounding metal. In cases where the dent is very shallow, it is not worth trying to pull t out at all.
 
@@ -10260,7 +9593,6 @@ If the dent is in a section of the body which has double layers, or some other f
 23The next stage of repair is the removal of paint from the damaged area and from an inch or so of the surrounding metal. This is easily done with a wire brush or sanding disk in a drill motor, although it can be done just as effectively by hand with sandpaper. To complete the preparation for filling, score the surface of the bare metal with a screwdriver or the tang of a file or drill small holes in the affected area. This will provide a good grip for the filler material. To complete the repair, see the Section on filling and painting.
 
 ### Repair of rust holes or gashes
-`hyundai_elantra_ru_en_ae0b0c7d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 24Remove all paint from the affected area and from an inch or so of the surrounding metal using a sanding disk or wire brush mounted in a drill motor. If these are not available, a few sheets of sandpaper will do the job just as effectively.
 
@@ -10275,7 +9607,6 @@ With the paint removed, you will be able to determine the severity of the corros
 29 Once the hole is blocked off, the affected area can be filed and painted. See the following subsection on filling and painting.
 
 ### Filling and painting
-`hyundai_elantra_ru_en_b3d02783` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 30 Many types of body fillers are available, but generally speaking, body repair kits which contain filler paste and a tube of resin hardener are best for this type of repair work. A wide, flexible plastic or nylon applicator will be necessary for imparting a smooth and contoured finish to the surface of the filler material. Mix up a small amount of filler on a clean piece of wood or cardboard (use the hardener sparingly). Follow the manufacturer's instructions on the package, otherwise the filler will set incorrectly.
 
@@ -10290,7 +9621,6 @@ With the paint removed, you will be able to determine the severity of the corros
 35The repair area is now ready for painting. Spray painting must be carried out in a warm, dry, windless and dust free atmosphere. These conditions can be created if you have access to a large indoor work area, but if you are forced to work in the open, you will have to pick the day very carefully. If you are working indoors, dousing the floor in the work area with water will help settie the dust that would otherwise be in the air. If the repair area is confined to one body panel, mask off the surrounding panels. This will help minimize the effects of a slight mismatch in paint color. Trim pieces such as chrome strips, door handles, etc., will also need to be masked off or removed. Use masking tape and severai thickness of newspaper for the masking operations.
 
 ### Filling and painting
-`hyundai_elantra_ru_en_c5ee3d4a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 36 Before spraying, shake the paint can thoroughly, then spray a test area until the spray painting technique is mastered. Cover the repair area with a thick coat of primer. The thickness should be built up using several thin layers of primer rather than one thick one. Using 600-grit wet-or-dry sandpaper, rub down the surface of the primer until it is very smooth. While doing this, the work area should be thoroughly rinsed with water and the wet-or-dry sandpaper periodically rinsed as well. Allow the primer to dry before spraying additional coats.
 
@@ -10303,17 +9633,14 @@ If the damage is extensive, the body must be checked for proper alignment or the
 3Due to the fact that some of the major body components (hood, fenders, doors, etc.) are separate and replaceable units, any seriously damaged components should be replaced rather than repaired. Sometimes the components can be found in a wrecking yard that specializes in used vehicle components, often at considerable savings over the cost of new parts.
 
 ### 7 Hinges and locks - maintenance
-`hyundai_elantra_ru_en_e0bea51a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Once every 3000 miles, or every three months, the hinges and latch assemblies on the doors, hood and trunk (or liftgate) should be given a few drops of light oil or lock lubricant. The door latch strikers should also be lubricated with a thin coat of grease to reduce wear and ensure free movement. Lubricate the door and trunk (or liftgate) locks with spray-on graphite lubricant.
 
 ### 8Windshield and fixed glass replacement
-`hyundai_elantra_ru_en_7aa8ccfd` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replacement of the windshield and fixed glass requires the use of special fastsetting adhesive/caulk materials and some specialized tools and techniques. These operations should be left to a dealer service department or a shop specializing in glass work.
 
 ### 9 Radiator grille (2001 and later models) - replacement
-`hyundai_elantra_ru_en_f34a3c89` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Open the hood.
 2 Remove the retaining screw in the center of the top edge of the grille.
@@ -10321,12 +9648,10 @@ Using a screwdriver, release the two clips and detach the grille by pulling stra
 Press the grille into place until the clips click, then install the retaining screw.
 
 ### 10 Hood - removal, installation and adjustment
-`hyundai_elantra_ru_en_29253610` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note: The hood is somewhat awkward to remove and install; at least two people should perform this procedure.
 
 ### Removal and installation
-`hyundai_elantra_ru_en_139f80f1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Refer to illustrations 10.3 and 10.4 1 Open the hood, then place blankets or
 
@@ -10360,7 +9685,6 @@ Let the filler harden until you can just dent it with your fingernail. Use a bod
 9You shouldn't be able to feel any ridge at the transition from the filler to the bare metal or from the bare metal to the old paint. As soon as the repair is flat and uniform, remove the dust and mask off the adjacent panels or trim pieces
 
 ### Removal and installation
-`hyundai_elantra_ru_en_a476bc1d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/c0f13507a6504104ae7a0ff4f9f782de8921372202bb0dc458a9b1e231101dcd.jpg)
 0Apply several layers of primer to the area. Don't spray the primer on too heavy, so it sags or runs, and make sure each coat is dry before you spray on the next one. A professional-type spray gun is being used here, but aerosol spray primer is available inexpensively from auto parts stores
@@ -10401,7 +9725,6 @@ shield washer tubing from the nozzles on the hood.
 5 Installation is the reverse of removal. Align the hinge bolts with the marks made in Step 3.
 
 ### Adjustment
-`hyundai_elantra_ru_en_0f61193b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 10.9 and 10.10
 
@@ -10421,12 +9744,10 @@ Refer to illustrations 10.9 and 10.10
 11The hood latch assembly, as well as the hinges, should be periodically lubricated with lithium-base grease to prevent binding and wear.
 
 ### 11 Hood latch and release cable - removal and installation
-`hyundai_elantra_ru_en_1df5ae59` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: The models covered by this manual are equipped with Supplemental Restraint systems (SRS), more commonly known as airbags. Always disable the airbag system before working in the vicinity of any airbag system component to avoid the possibility of accidental deployment of the airbag(s), which could cause personal injury (see Chapter 12).
 
 ### Latch
-`hyundai_elantra_ru_en_8117bb4e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 11.1 and 11.2
 
@@ -10435,7 +9756,6 @@ Refer to illustrations 11.1 and 11.2
 3 Installation is the reverse of removal. Note: Adjust the latch so the hood engages securely when closed and the hood bumpers are slightly compressed.
 
 ### Cable
-`hyundai_elantra_ru_en_3e7d7a71` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 11.7 4 Disconnect the hood release cable from the latch assembly as described in Step 1.
 
@@ -10458,12 +9778,10 @@ Pull the cable and grommet rearward into the passenger compartment until you can
 0Working in the passenger compartment, install the new cable and handle assembly. 1 The remainder of installation is the reverse of removal.
 
 ### 12Bumpers - removal and installation
-`hyundai_elantra_ru_en_1df5ae59` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: The models covered by this manual are equipped with Supplemental Restraint systems (SRS), more commonly known as airbags. Always disable the airbag system before working in the vicinity of any airbag system component to avoid the possibility of accidental deployment of the airbag(s), which could cause personal injury (see Chapter 12). Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code.
 
 ### Front bumper
-`hyundai_elantra_ru_en_e41e1e78` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Refer to illustrations 12.3, 12.5 and 12.6 Apply the parking brake, raise the vehicle and support it securely on jackstands. Disconnect the negative battery cable, then the positive battery cable and wait two minutes before proceeding any further.
 
@@ -10487,7 +9805,6 @@ Detach the screws securing lower side of the bumper cover (see illustration).
 12.9aRemove the rear bumper cover retaining screws in the wheel wells (arrows)
 
 ### Rear bumper
-`hyundai_elantra_ru_en_8a0f82af` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Refer to illustrations 12.9a, 12,9b, 12.10a and 12.10b
 
@@ -10506,7 +9823,6 @@ If necessary for working clearance, raise the rear of the vehicle and support it
 12.10bThe remaining bumper bolts on station wagon models are located under the rear compartment on each side (arrow)
 
 ### 13Front fender - removal and installation
-`hyundai_elantra_ru_en_780fd10b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Refer to illustrations 13.3, 13.4 and 13.5
 
@@ -10527,7 +9843,6 @@ Detach the fender. It's a good idea to have an assistant support the fender whil
 14.1Remove the nuts and detah the wiper arms
 
 ### 1 Cowl cover - removal and installation
-`hyundai_elantra_ru_en_beb46aea` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 14.1 and 14.2
 
@@ -10536,14 +9851,12 @@ Refer to illustrations 14.1 and 14.2
 X
 
 ### 1Door trim panels - removal and installation
-`hyundai_elantra_ru_en_f6403d77` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 15.3a, 15.3b, 15.3c,
 15.3d, 15.3e and 15.4
 Caution: Wear gloves when working inside the door openings to protect against cuts from sharp metal edges.
 
 ### Removal
-`hyundai_elantra_ru_en_b53be418` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/6f2652089c141a2b49048dfa38bbb6bc0d03225f09c3bed7198fdef580ee8ba2.jpg)
 14.2Remove the screws (arrows) and detach the cowl cover
@@ -10568,19 +9881,16 @@ On manual window regulator equipped models, remove the window crank handle. A sh
 5For access to the door outside handle or the door window regulator inside the door, raise the window fully, remove the power window control unit (if equipped), the door panel bracket and the speaker, then carefully peel back the plastic water deflector shield (if equipped).
 
 ### Installation
-`hyundai_elantra_ru_en_1801620d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 6 Prior to installation of the door trim panel, be sure to reinstall any clips in the panel which may have come out when you removed the panel.
 
 7 Press the door panel into place and install the screws. Install the inner door handle and its screw and the pull-pocket and its screw. Install the power door lock switch assembly, if equipped, and the manual-regulator crank handle or power window switch assembly.
 
 ### 16Door - removal, installation and adjustment
-`hyundai_elantra_ru_en_55992578` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note: The door is heavy and somewhat awkward to remove and install - at least two people should perform this procedure. Caution: Wear gloves when working inside the door openings to protect against cuts from sharp metal edges.
 
 ### Removal and installation
-`hyundai_elantra_ru_en_83f53bf2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Refer to illustrations 16.6 and 16.8
 
@@ -10600,7 +9910,6 @@ Detach the door stop strut by removing the bolts (see illustration).
 Installation is the reverse of removal.
 
 ### Adjustment
-`hyundai_elantra_ru_en_1ad0b3ab` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Refer to illustration 16.13
 
@@ -10616,12 +9925,10 @@ Refer to illustration 16.13
 16.8Remove the door hinge bolts (arrows) with the door supported
 
 ### 17Door latch, lock cylinder and handle - removal and installation
-`hyundai_elantra_ru_en_4e41a072` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Wear gloves when working inside the door openings to protect against cuts from sharp metal edges.
 
 ### Door latch
-`hyundai_elantra_ru_en_39fbd492` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Refer to illustration 17.4
 
@@ -10655,7 +9962,6 @@ Working through the access hole, disengage the plastic clips that secure the out
 10Installation is the reverse of removal.
 
 ### Outside handle and door lock cylinder
-`hyundai_elantra_ru_en_bd8822a2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Refer to illustration 17.8
 
@@ -10687,7 +9993,6 @@ W
 6Remove the glass along with door opening weather stripping by pulling it up and out. 7 Installation is the reverse of removal.
 
 ### 19Door window glass regulator - removal and installation
-`hyundai_elantra_ru_en_565f52ee` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Refer to illustration 19.4
 
@@ -10702,7 +10007,6 @@ Caution: Wear gloves when working inside the door openings to protect against cu
 20.3 Remove the three mirror mounting bolts (arrows)
 
 ### Outside mirrors
-`hyundai_elantra_ru_en_e30ddcfe` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 20.1 and 20.3
 
@@ -10712,19 +10016,16 @@ Pry off the mirror trim cover (see illustration).
 4Installation is the reverse of removal.
 
 ### Inside mirror
-`hyundai_elantra_ru_en_fd2cf390` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 5The mirror base is retained to the mount on the windshield by a spring clip, and can be removed from the mount by pulling downwards (parallel to the windshield) and wiggling it side-to-side.
 
 6Install by sliding the base into the mount until it clicks in place.
 
 ### 2 Trunk lid (sedan models) - removal, installation and adjustment
-`hyundai_elantra_ru_en_aa1269bc` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note: The trunk lid is heavy and somewhat awkward to remove and install - at least two people should perform this procedure.
 
 ### Removal and installation
-`hyundai_elantra_ru_en_3521a2fa` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 1 Open the trunk lid and cover the edges of the trunk compartment with pads or cloths to protect the painted surfaces when the lid is removed.
 
@@ -10739,7 +10040,6 @@ Note: The trunk lid is heavy and somewhat awkward to remove and install - at lea
 6The height of the rear of the lid in relation to the surrounding body panels when closed can be adjusted by turning the rubber trunk lid bumpers in or out.
 
 ### Trunk lid latch
-`hyundai_elantra_ru_en_37ef8b84` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1Open the trunk and scribe a line around the trunk lid latch assembly for a reference point to aid the installation procedure.
 
@@ -10749,7 +10049,6 @@ Mark the position of the latch to the body, then unscrew the two retaining bolts
 5 Installation is the reverse of removal.
 
 ### Trunk lock cylinder
-`hyundai_elantra_ru_en_c6259c05` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 6 Remove the lock cylinder rod (if equipped) from its clip and remove the lock's mounting clip.
 Remove the lock cylinder from the trunk lid.
@@ -10758,7 +10057,6 @@ Remove the lock cylinder from the trunk lid.
 14200
 
 ### 23Trunk/liftgate release and fuel door cables - removal and installation
-`hyundai_elantra_ru_en_ae3c4cb4` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Refer to illustration 23.2
 
@@ -10780,13 +10078,11 @@ Working in the trunk compartment, pull the cable assembly towards the rear of th
 Attach the wire to the front of the new cable and fish it back through the body until it can be attached to the lever. The remainder of the installation is the reverse of removal.
 
 ### 2Liftgate (station wagon models) - removal, installation and adjustment
-`hyundai_elantra_ru_en_24c365c8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 24.5
 Note: The liftgate is heavy and somewhat awkward to hold - at least two people should perform this procedure.
 
 ### Removal and installation
-`hyundai_elantra_ru_en_77689efe` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 -2
 the lift gate opening and disconnect allwiring harness connectors leading to the liftgate. On models equipped with a rear window washer, detach the roof headliner and disconnect the washer hose.
@@ -10803,12 +10099,10 @@ Remove the hinge-toliftgate bolts and eoeheliate from the eice ee illustration).
 24.5Remove the retaining bolts (arrows) on each side of the liftgate
 
 ### Adjustment
-`hyundai_elantra_ru_en_8ef8da60` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The height of the liftgate in relation to the surrounding body panels when closed can be adjusted by loosening the liftgate latch bolts, moving the striker up or down, then re-tightening the bolts. Note: Make a reference mark around the latch before making adjustments.
 
 ### Liftgate latch
-`hyundai_elantra_ru_en_74c02f64` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 25.3
 
@@ -10818,7 +10112,6 @@ Refer to illustration 25.3
 4 Installation is the reverse of removal.
 
 ### Lock cylinder
-`hyundai_elantra_ru_en_12d441b7` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 5 Remove the liftgate trim panel.
 6 Detach the lock cylinder rod, then
@@ -10834,7 +10127,6 @@ remove the lock's retaining clip.
 25.3Remove the liftgate latch retaining bolts (arrows), then detach the actuating rods and cable
 
 ### 26Liftgate support struts (station wagon models) - removal and installation
-`hyundai_elantra_ru_en_2874f6ca` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 26.2a and 26.2b
 1 Open the liftgate and support it securely.
@@ -10842,7 +10134,6 @@ Unscrew the bolts from the brackets at each end of the support strut (see illust
 3 Installation is the reverse of removal.
 
 ### 27Center console - removal and installation
-`hyundai_elantra_ru_en_cd77d9e0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to ilustrations 27.2, 27.3a, 27.3b and 27.5
 
@@ -10879,12 +10170,10 @@ o0
 28.6 On 2000 and earlier models, the knee bolster cover can be detached by pulling it straight out
 
 ### 28Dashboard trim panels - removal and installation
-`hyundai_elantra_ru_en_1df5ae59` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: The models covered by this manual are equipped with Supplemental Restraint systems (SRS), more commonly known as airbags. Always disable the airbag system before working in the vicinity of any airbag system component to avoid the possibility of accidental deployment of the airbag(s), which could cause personal injury (see Chapter12). Caution: Some models are equipped with an anti-theft radio. Before performing a procedure that requires disconnecting the battery, make sure you have the activation code. 1 Disconnect the negative battery cable (see the Warning above).
 
 ### Instrument cluster bezel
-`hyundai_elantra_ru_en_6d279c16` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 28.4a and 28.4b
 
@@ -10893,14 +10182,12 @@ If equipped with a tilt steering column, tit the column all the way down. 3 Remo
 Remove the screws at the top and bottom of the instrument cluster bezel and detach it from the vehicle (see illustrations). 5 Installation is the reverse of the removal procedure. Make sure any clips are engaged properly before pushing the bezel firmly into place.
 
 ### 2000 and earlier models
-`hyundai_elantra_ru_en_2301de16` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 28.6
 
 6 Detach the bolster cover by pulling it straight out (see illustration), then remove the bolster bracket by unscrewing the bolts. Installation is the reverse of removal.
 
 ### 2001 and later models
-`hyundai_elantra_ru_en_6ef31821` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remove the center console (see Section 27) and the hood release handle (see Section 11).
 
@@ -10910,7 +10197,6 @@ ment behind it can be unbolted.
 9 Installation is the reverse of removal.
 
 ### Center instrument panel bezel
-`hyundai_elantra_ru_en_263616e8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 28.11a and 28.11b Remove the center console (see Section 27).
 
@@ -10919,7 +10205,6 @@ Refer to illustrations 28.11a and 28.11b Remove the center console (see Section 
 12 On 2001 and later models, detach the ashtray for access. Remove the two screws in the ashtray opening and pry carefully on the bezel until the clips are disengaged, disconnect the electrical connectors and detach the bezel from the center instrument panel. 13Installation is the reverse of removal.
 
 ### Glove box
-`hyundai_elantra_ru_en_0e4d8b49` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 28.14 and 28.15 Open the glove box door and remove the retaining screws (see illustration).
 
@@ -10940,7 +10225,6 @@ V ↑
 16Installation is the reverse of removal.
 
 ### 29Steering column covers - removal and installation
-`hyundai_elantra_ru_en_bb9a0d68` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 29.2
 
@@ -10949,7 +10233,6 @@ Warning: The models covered by this manual are equipped with Supplemental Restra
 Remove the screws, then separate the halves and remove the upper and lower steering column covers (see illustration). 3 Installation is the reverse of the removal procedure.
 
 ### Refer to illustration 30.8
-`hyundai_elantra_ru_en_1df5ae59` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Warning: The models covered by this manual are equipped with Supplemental Restraint systems (SRS), more commonly known as airbags. Always disable the airbag system before working in the vicinity of any airbag system component to avoid the possibility of accidental deployment of the airbag(s), which could cause personal injury (see Chapter 12).
 
@@ -10977,12 +10260,10 @@ Disconnect the negative battery cable (see the Warning above). Disable the airba
 30.8d . . . the retaining bolts (2000 and earlier models shown)
 
 ### Front seat
-`hyundai_elantra_ru_en_faffe3d7` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 31.2a and 31.2b Position the seat all the way forward, then all the way to the rear to access the front seat retaining bolts. 2 Detach any bolt trim covers and remove the retaining nuts/bolts (see illustrations). 3 Tilt the seat upward to access the underside, then disconnect any electrical connectors and lift the seat from the vehicle. 4 Installation is the reverse of removal.
 
 ### Rear seat
-`hyundai_elantra_ru_en_55f13c1e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 5On fixed seats, remove the bolts at base of the seat back side cushions and detach them. Remove the two bolts at the rear of the seat cushion and detach the cushion assembly. Remove the two bolts at the base and remove the seat backs.
 
@@ -10997,14 +10278,12 @@ Refer to illustrations 31.2a and 31.2b Position the seat all the way forward, th
 31.2b .. . then move the seat all the way to the rear and remove the front seat track retaining bolts (arrows)
 
 ### 1 General information
-`hyundai_elantra_ru_en_0a3acf2b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 The electrical system is a 12-volt, negative ground type. Power for the lights and all electrical accessories is supplied by a lead/acid-type battery that is charged by the alternator.
 
 This Chapter covers repair and service procedures for the various electrical components not associated with the engine. Information on the battery, alternator, distributor and starter motor can be found in Chapter 5. It should be noted that when portions of the electrical system are serviced, the negative battery cable should be disconnected from the battery to prevent electrical shorts and/or fires.
 
 ### 2Electrical troubleshooting general information
-`hyundai_elantra_ru_en_e77de4fc` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Refer to illustration 2.5a, 2,5b, 2.6, 2.9 and 2.15
 
@@ -11025,34 +10304,28 @@ If test equipment and instruments are going to be utilized, use the diagrams to 
 The basic tools needed for electrical troubleshooting include a circuit tester or volt/ohmmeter (a 12-volt bulb with a set of test leads can also be used), a continuity tester, which includes a bulb, battery and set of test leads, and a jumper wire, preferably with a circuit breaker incorporated, which can be used to bypass electrical components (see illustrations). Before attempting to locate a problem with test instruments, use the wiring diagram(s) to decide where to make the connections.
 
 ### Voltage checks
-`hyundai_elantra_ru_en_f06db720` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Voltage checks should be performed if a circuit is not functioning properly. Connect one lead of a circuit tester to either the negative battery terminal or a known good ground. Connect the other lead to a connector in the circuit being tested, preferably nearest to the battery or fuse. If the bulb of the tester lights, voltage is present, which means that the part of the circuit between the connector and the battery is problem free. Continue checking the rest of the circuit in the same fashion. When you reach a point at which no voltage is present, the problem lies between that point and the last test point with voltage. Most of the time the problem can be traced to a loose connection. Note: Keep in mind that some circuits receive voltage only when the ignition key is in the Accessory or Run position.
 
 ### Finding a short
-`hyundai_elantra_ru_en_1bbe110e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 One method of finding shorts in a circuit is to remove the fuse and connect a test light or voltmeter in place of the fuse terminals. There should be no voltage present in the circuit. Move the wiring harness from side-toside while watching the test light. If the bulb goes on, there is a short to ground somewhere in that area, probably where the insulation has rubbed through. The same test can be performed on each component in the circuit, even a switch.
 
 ### Ground check
-`hyundai_elantra_ru_en_8f1566ac` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Perform a ground test to check whether a component is properly grounded. Disconnect the battery and connect one lead of a self-powered test light, known as a continuity tester, to a known good ground. Connect the other lead to the wire or ground connection being tested. If the bulb goes on, the ground is good. If the bulb does not go on, the ground is not good.
 
 ### Continuity check
-`hyundai_elantra_ru_en_e8a31db0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A continuity check is done to determine if there are any breaks in a circuit - if it is passing electricity properly. With the circuit off (no power in the circuit), a self-powered continuity tester can be used to check the circuit. Connect the test leads to both ends of the circuit (or to the "power" end and a good ground), and if the test light comes on the circuit is passing current properly. If the light doesn't come on, there is a break somewhere in the circuit. The same procedure can be used to test a switch, by connecting the continuity tester to the switch terminals. With the switch turned On, the test light should come on.
 
 ### Finding an open circuit
-`hyundai_elantra_ru_en_7794ecaf` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 When diagnosing for possible open circuits, it is often difficult to locate them by sight because oxidation or terminal misalignment are hidden by the connectors. Merely wiggling a connector on a sensor or in the wiring harness may correct the open circuit condition. Remember this when an open circuit is indicated when troubleshooting a circuit. Intermittent problems may also be caused by oxidized or loose connections.
 
 Electrical troubleshooting is simple if you keep in mind that all electrical circuits are basically electricity running from the battery, through the wires, switches, relays, fuses and fusible links to each electrical component (light bulb, motor, etc.) and to ground, from which it is passed back to the battery. Any electrical problem is an interruption in the fiow of electricity to and from the battery.
 
 ### Connectors
-`hyundai_elantra_ru_en_8031bb3e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Most electrical connections on these vehicles are made with multi-wire_plastic connectors. The mating halves of many connectors are secured with locking clips molded into the plastic connector shells. The mating halves of large connectors, such as some of those under the instrument panel, are held together by a bolt through the center of the connector.
 
@@ -11077,7 +10350,6 @@ images of each other, and a terminal shown on the right side end view of one hal
 It is often necessary to take circuit voltage measurements with a connector connected. Whenever possible, carefully insert a straight pin into the rear of the connector shell to contact the terminal inside, then attach your meter lead to the pin. Shoving the meter's probe into the connector may spread or damage the connector. This kind of connection is called "backprobing" (see illustration).
 
 ### 3 Fuses - general information
-`hyundai_elantra_ru_en_13eaf27b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Refer to illustrations 3.1a, 3.1b and 3.3 7 The electrical circuits of the vehicle are protected by a combination of fuses and circuit breakers: The fuse blocks are located under the instrument panel and on the left side of the engine compartment (see illustrations).
 
@@ -11100,19 +10372,16 @@ F5 10 8 G X2
 6 All models are equipped with a main fuse that protects all the circuits coming from the battery. If these circuits are overloaded, the main fuse blows, preventing damage to the main wiring harness. The main fuse consists of a metal strip that will be visibly melted when overloaded. Always disconnect the battery before replacing a main fuse. The main fuse is located in the engine compartment fuse box. If you have to replace a main fuse, make sure you install a replacement unit that's equivalent to the old fuse. In other words, if the old main fuse is an 80A unit, replace it with an 80A fuse; if it's a 100A unit, replace it with a 100A fuse. Don't switch amperage ratings on the main fuse!
 
 ### 4Circuit breakers - general information
-`hyundai_elantra_ru_en_819052cc` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Circuit breakers protect components such as sunroof motors, power window motors and airbag inflator resistors.
 
 On some models the circuit breaker resets itself automatically, so an electrical overload in a circuit-breaker-protected system will cause the circuit to fail momentarily, then come back on. If the circuit does not come back on, check it immediately. Once the condition is corrected, the circuit breaker will resume its normal function. Some circuit breakers must be reset manually.
 
 ### General information
-`hyundai_elantra_ru_en_8d2c8a1f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 1 Many electrical accessories in the vehicle, such as the fuel injection system, horns, starter, cooling fans and fog lamps use relays to transmit the electrical signal to the component. Relays use a low-current circuit (the control circuit) to open and close a high-current circuit (the power circuit). If the relay is defective, that component will not operate properly. The various relays are mounted in the engine compartment fuse box and various other locations throughout the vehicle. If a faulty relay is suspected, it can be removed and tested using the procedure beiow or by a dealer service department or a repair shop. Defective relays must be replaced as a unit.
 
 ### Refer to illustration 5.4
-`hyundai_elantra_ru_en_0b73c60e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 2 On most relays, two of the terminals are the relay control circuit (they connect to the relay coil which, when energized, closes the large contacts to complete the circuit). The other terminals are the power circuit (they are connected together within the relay when the control-circuit coil is energized).
 
@@ -11123,7 +10392,6 @@ On some models the circuit breaker resets itself automatically, so an electrical
 5If the relay fails the above test, replace it.
 
 ### Check
-`hyundai_elantra_ru_en_3617bb3c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 1 Turn signal and hazard flashers are controlled from a single electronic flasher unit that is located in the passenger compartment fuse block (Section ). It can be located by listening for the clicks when the signals are on.
 
@@ -11132,14 +10400,12 @@ On some models the circuit breaker resets itself automatically, so an electrical
 If both turn signals fail to blink, the problem may be due to a blown fuse, a faulty flasher unit, a broken switch or a loose or open connection. If a quick check of the fuse box indicates that the turn signal fuse has blown, check the wiring for a short before installing a new fuse.
 
 ### Replacement
-`hyundai_elantra_ru_en_dc597b5f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 4To replace the flasher, unplug it from the relay panel directly above the fuse block, behind the driver's side of the dash. 5 Make sure that the replacement unit is identical to the original. Compare the old one to the new one before installing it.
 
 6 Installation is the reverse of removal.
 
 ### Multi-function switch - replacement
-`hyundai_elantra_ru_en_f32d3507` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Refer to illustration 7.4
 
@@ -11174,7 +10440,6 @@ Caution: Some models are equipped with an anti-theft radio. Before performing a 
 3е
 
 ### 8Ignition switch and key lock cylinder - replacement
-`hyundai_elantra_ru_en_67b3a334` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 8.3 and 8.5
 
@@ -11199,12 +10464,10 @@ Insert the key and check the lock cylinder and steering column lock for proper o
 9 The remainder of installation is the reverse of removal.
 
 ### 9Instrument panel switches replacement
-`hyundai_elantra_ru_en_4da9d92c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: The models covered by this manual are equipped with Supplemental Restraint systems (SRS), more commonly known as airbags. Always disable the airbag system before working in the vicinity of the airbag system components to avoid the possibility of accidental deployment of the airbag, which could cause personal injury (see Section 24).
 
 ### Dashboard light control
-`hyundai_elantra_ru_en_70020bd6` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 9.2a and 9.2b
 
@@ -11213,7 +10476,6 @@ Refer to illustrations 9.2a and 9.2b
 Remove the light control unit on 2000 and earlier models by prying it out with a screwdriver (see illustration). On 2001 and later models, remove the center bezel, unplug the connector and detach the switch (see illustration).
 
 ### Hazard warning switch
-`hyundai_elantra_ru_en_e782ae37` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 3The hazard switch is marked with a triangle and is located in the instrument panel center bezel.
 
@@ -11230,19 +10492,16 @@ _=.
 9.2bRemove the screws (arrows) to detach the switch panel from the instrument panel center bezel
 
 ### Rear window defogger switch
-`hyundai_elantra_ru_en_05a442f0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 5 The rear window defogger switch is mounted in the right side of instrument panel center bezel. 6 Remove the center bezel, then detach the switch (see illustration 9.2b).
 
 ### Rear wiper/washer switch
-`hyundai_elantra_ru_en_a64b0435` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 9.8a and 9.8b
 
 7 The rear wiper/washer switch is mounted on the left side of the instrument panel on station wagon models. Carefully pry the switch out of the instrument panel with a screwdriver, disconnect the electrical connector and remove the switch (see illustrations).
 
 ### 10 Instrument cluster - removal and installation
-`hyundai_elantra_ru_en_eeb28a6f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 10.3a and 10.3b
 
@@ -11265,12 +10524,10 @@ accidental deployment of the airbag, which could cause personal injury (see Sect
 4 Installation is the reverse of removal. Be sure to connect the positive cable to the battery first, then the negative cable.
 
 ### 11 Radio and speakers - removal and installation
-`hyundai_elantra_ru_en_4da9d92c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: The models covered by this manual are equipped with Supplemental Restraint systems (SRS), more commonly known as airbags. Always disable the airbag system before working in the vicinity of the airbag system components to avoid the possibility of accidental deployment of the airbag, which could cause personal injury (see Section 24).
 
 ### Radio
-`hyundai_elantra_ru_en_9fd86e1b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 11.3a and 11.3b
 
@@ -11292,7 +10549,6 @@ Disconnect the electrical connectors and the antenna lead and remove the radio f
 11.7 Remove the speaker mounting screws (arrows), pull the speaker away from the door and disconnect the electrical connector
 
 ### Front speakers
-`hyundai_elantra_ru_en_3cd55a4b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 11.7
 
@@ -11301,7 +10557,6 @@ Refer to illustration 11.7
 8Installation is the reverse of removal.
 
 ### Rear speakers
-`hyundai_elantra_ru_en_2fff9e32` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 11.9 and 11.10
 
@@ -11315,7 +10570,6 @@ Refer to illustrations 11.9 and 11.10
 12.2 Use a small wrench on the hex portion to remove the antenna mast
 
 ### 12 Antenna - replacement
-`hyundai_elantra_ru_en_58cfcb85` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Refer to illustration 12.2 and 12.3
 
@@ -11349,7 +10603,6 @@ antenna mast) to remove the exterior antenna (see illustration).
 6installation is the reverse of removal.
 
 ### 13 Headlight bulb - replacement
-`hyundai_elantra_ru_en_f1c7b585` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Refer to illustration 13.1, 13.2a and 13.2b
 
@@ -11367,7 +10620,6 @@ Warning: Halogen gas-filled bulbs are under pressure and may shatter if the surf
 4Reinstall the electrical connector and test the headlight operation.
 
 ### 14 Headlights - adjustment
-`hyundai_elantra_ru_en_49c2a221` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Refer to illustrations 14.1 and 14.2
 
@@ -11394,19 +10646,16 @@ Note: The headlights must be aimed correctly. If adjusted incorrectly they could
 5With the high beams on, the high intensity zone should be vertically centered with the exact center just below the horizontal line. Note: It may not be possible to position the headlight aim exactly for both high and low beams. If a compromise must be made, keep in mind that the low beams are the most used and have the greatest effect on safety. 6 Have the headlights adjusted by a properly equipped headlight aiming facility at the earliest opportunity.
 
 ### Refer to illustration 15.3
-`hyundai_elantra_ru_en_512c9160` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1Unplug the electrical connectors, and remove the halogen bulbs (see Section 14). On 2000 and earlier models, remove the front combination (park and turn signal light housing (see Section 16) and the screws along the top of the front bumper cover (see Chapter 11).
 3 On all models, remove the headlight housing mounting bolts and remove the housing (see illustration).
 α Installation is the reverse of removal. After you're done, adjust the headlights (see Section 14.
 
 ### 16 Bulb replacement
-`hyundai_elantra_ru_en_99581531` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: Bulbs remain hot for up to twenty minutes after they're turned off. Be sure bulbs are off and cool before you touch them.
 
 ### Front turn signal/park light
-`hyundai_elantra_ru_en_25a6ce7a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 16.2a and 16.2b
 
@@ -11417,7 +10666,6 @@ Remove the screw and pull the turn signal/parking light housing straight forward
 3 Installation is the reverse of removal.
 
 ### Rear turn signal, brake light and taillight bulbs
-`hyundai_elantra_ru_en_1eda4e43` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Refer to illustrations 16.5a 16.5b and 16.6 4 Open the trunk/liftgate. On sedan models, remove the cover for access to the housings that contain the bulbs for the brake, tail, turn and backup lights.
 
@@ -11447,7 +10695,6 @@ Refer to illustrations 16.5a 16.5b and 16.6 4 Open the trunk/liftgate. On sedan 
 out of the housing, then push in on the bulb, turn it counterclockwise and remove it from the holder (see illustration). 7 Installation is the reverse of removal.
 
 ### High-mounted brake light
-`hyundai_elantra_ru_en_4750e53a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 16.10a and 16.10b
 
@@ -11458,19 +10705,16 @@ Refer to illustrations 16.10a and 16.10b
 Installation is the reverse of removal.
 
 ### Instrument panel lights
-`hyundai_elantra_ru_en_3ce6a54e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 18 To gain access to the instrument panel lights, the instrument cluster will have to be removed first (see Section 10). 19 Rotate the bulb counterclockwise and remove it from the instrument cluster. 0Pullthe bulb straight out of the holder. 1 Installation is the reverse of removal. Note: Make sure you replace the bulb with one of the same wattage as the original bulb. The gauge bulbs have higher wattage than the indicator bulbs.
 
 ### License plate lights
-`hyundai_elantra_ru_en_7e9e7488` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 16.13
 
 13On sedan models, use a screwdriver to pry the bulb holders down with for access to the bulb holder. On station wagon models, remove the screws and lower the two license plate housings from the liftgate (see illustration). 4Pull the bulb straight out of the holder. 15Installation is the reverse of removal.
 
 ### Windshield wipers
-`hyundai_elantra_ru_en_535fbba8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 17.4
 
@@ -11481,7 +10725,6 @@ Refer to illustration 17.4
 ![](images/0bf2569fb1e86ed435e9b87d7080a51a4b88aefb623ce67b3c31030bba41180d.jpg)
 
 ### Dome/interior lights
-`hyundai_elantra_ru_en_7a7f4ddc` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 16.16
 
@@ -11500,7 +10743,6 @@ Refer to illustration 16.16
 Pry the linkage arm off the wiper motor pin with a large screwdriver 6 Installation is the reverse of removal.
 
 ### Liftgate wiper
-`hyundai_elantra_ru_en_89e8fc92` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to ilustrations 17.8 and 17.9
 
@@ -11510,7 +10752,6 @@ Remove the wiper arm.
 10 Disconnect the electrical connector from the wiper motor and remove the motor. 11Installation is the reverse of removal.
 
 ### Check
-`hyundai_elantra_ru_en_f83a5a60` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Refer to illustration 18.1
 Note: Check the fuses before beginning electrical diagnosis.
@@ -11528,26 +10769,22 @@ If the relay is OK, check for voltage to the relay power and control circuits. I
 7If there's continuity to ground through the horn switch, check for an open or short in the circuit from the relay to the switch.
 
 ### Replacement
-`hyundai_elantra_ru_en_10fcafe8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 8 To access the horn the left front turn signal/parking light housing must be removed. On models with two horns the bumper cover must first be removed for access to the right side horn (see Chapter 11).
 
 9 Disconnect the electrical connectors and remove the bracket bolts (see illustration 18.1). 0Installation is the reverse of removal.
 
 ### 19Daytime Running Lights (DRL) - general information
-`hyundai_elantra_ru_en_6626c715` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Daytime Running Lights (DRL) system used on Canadian models illuminates the headlights whenever the engine is running. The only exception is with the engine running and the parking brake engaged. Once the parking brake is released, the lights will remain on as long as the ignition switch is on, even if the parking brake is later applied.
 
 The DRL system supplies reduced power to the headlights so they won't be too bright for daytime use, while prolonging headlight life.
 
 ### 20Rear window defogger - check and repair
-`hyundai_elantra_ru_en_ec958b43` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1The rear window defogger consists of a number of horizontal heating elements baked onto the inside surface of the glass. Power is supplied through a large fuse from the power distribution box in the engine compartment. The heater is controlled by the instrument panel switch. 2 Small breaks in the element can be repaired without removing the rear window.
 
 ### Check
-`hyundai_elantra_ru_en_6ba6800b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Refer to illustrations 20.5, 20.6 and 20.8
 
@@ -11573,7 +10810,6 @@ Using a voltmeter, place the positive probe against the defogger grid positive t
 To find the break, place the voltmeter negative probe against the defogger ground terminal. Place the voltmeter positive probe with the foil strip against the heating element at the positive side and slide it toward the negative side. The point at which the voltmeter deflects from several volts to zero is the point where the heating element is broken (see illustration).
 
 ### Repair
-`hyundai_elantra_ru_en_f31676ce` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 20.14
 
@@ -11599,7 +10835,6 @@ masking tape, overlapping the undamaged area about 3/4-inch on either end (see i
 15 Allow the repair to cure for 24 hours before removing the tape and using the system.
 
 ### Refer to illustration 21.5
-`hyundai_elantra_ru_en_9c65e219` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 1 The cruise control system maintains vehicle speed with an actuator located in the engine compartment on the passenger's side fenderwell. This actuator is connected to the throttle linkage by a cable. The system consists of the actuator, brake switch (clutch switch on manual transmission models), con
 
@@ -11637,7 +10872,6 @@ If the brake lights do not operate properly, correct the problem and retest the 
 7Test drive the vehicle to determine if the cruise control is now working. If it isn't, take it to a dealer service department or an automotive electrical specialist for further diagnosis. 8 The Set/Resume functions are incorporated into the windshield wiper/washer combination switch (right side control stalk) (see Section 7) and the On/Off switch is located on the instrument panel or steering wheel.
 
 ### Cable adjustment
-`hyundai_elantra_ru_en_efa31b41` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 9Loosen both the accelerator and cruise cable adjusting nuts and locknuts until the throttle lever moves freely.
 
@@ -11646,7 +10880,6 @@ If the brake lights do not operate properly, correct the problem and retest the 
 11Tighten the cruise cable adjusting nut to remove any slack. With the cruise control lever just touching the throttle lever stopper, back off the adjusting nut one turn until there is 3 mm (1/8-inch) freeplay. Tighten the locknut securely. Repeat the procedure with the accelerator cable. After adjustment, check to make sure the idle switch touches the throttle lever. E
 
 ### 22Power window system - description and check
-`hyundai_elantra_ru_en_d1daacbb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 1 The power window system operates electric motors, mounted in the doors, which lower and raise the windows. The system consists of the control switches, the motors, regulators, glass mechanisms and associated wiring.
 
@@ -11679,7 +10912,6 @@ The power windows can be lowered and raised from the master control switch by th
 15 Test the windows after you are done to confirm proper repairs.
 
 ### 23 Power door lock system - description and check
-`hyundai_elantra_ru_en_d4578032` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 1 A power door lock system operates the door lock actuators mounted in each door. The system consists of the switches, actuators, and associated wiring. Diagnosis can usually be limited to simple checks of the wiring connections and actuators for minor faults that can be easily repaired.
 
@@ -11702,52 +10934,43 @@ If the switch has continuity but the actuator doesn't click, check the wiring be
 10If the inoperative actuator is receiving voltage, replace the actuator. Note: It's common for wires to break in the portion of the harness between the body and door (opening and closing the door fatigues and eventually breaks the wires).
 
 ### General information
-`hyundai_elantra_ru_en_234a0a37` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 All models are equipped with a Supplemental Restraint System (SRS), more commonly known as an airbag. There are two airbags, one for the driver and one for the front seat passenger. The SRS system is designed to protect the driver and front seat passenger from serious injury in the event of a head-on or frontal collision.
 
 2The SRS system consists of an SRS unit - which contains a safing sensor, impact sensor, self-diagnosis circuit and a back-up power circuit - located under the center console, an airbag assembly in the center of the steering wheel and a second airbag assembly for the front seat passenger, located in the top of the dashboard right above the glove box.
 
 ### Operation
-`hyundai_elantra_ru_en_f8e760fb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 3For the airbag(s) to deploy, the impact sensor and the safing sensor must be activated. When this condition occurs, the circuit to the airbag inflators is closed and the airbags inflate. If the battery is destroyed by the impact, or is too low to power the inflator, a back-up power unit provides power.
 
 ### Self-diagnosis system
-`hyundai_elantra_ru_en_79cc1d99` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 4A self-diagnosis circuit in the SRS unit displays a light when the ignition switch is turned to the On position. If the system is operating normally, the light should go out after about six seconds. If the light doesn't come on, or doesn't go out after six seconds, or if it comes on while you're driving the vehicle, there's a malfunction in the SRS system. Have it inspected and repaired as soon as possible. Do not attempt to troubleshoot or service the SRS system yourself. Even a small mistake could cause the SRS system to malfunction when you need it.
 
 ### Servicing components near the SRS system
-`hyundai_elantra_ru_en_7ee1999d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 5Nevertheless, there are times when you need to remove the steering wheel, radio or service other components on or near the dashboard. At these times, you'll be working around components and wire harnesses for the SRS system. Do not use electrical test equipment on any SRS wires or electrical connectors; it could cause the airbag(s) to deploy. ALWAYS DISABLE THE SRS SYSTEM BEFORE WORKING NEAR THE SRS SYSTEM COMPONENTS OR RELATED
 
 ### Disabling the SRS system
-`hyundai_elantra_ru_en_e2647fc5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: Any time you are working in the vicinity of airbag wiring or components, DISABLE THE SRS SYSTEM.
 6 Disconnect the battery negative cable, then disconnect the positive cable and wait two minutes.
 
 ### Driver’'s side airbag
-`hyundai_elantra_ru_en_a26477b2` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 7 Remove the access panel below the steering column and disconnect the electrical connector leading up the column to the driver's airbag.
 
 ### Passenger's side airbag
-`hyundai_elantra_ru_en_e73e43fb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 8 Remove the glove box (see Chapter 11). 9 Disconnect the passenger's side airbag electrical connector.
 
 ### Enabling the SRS system
-`hyundai_elantra_ru_en_8f03ab0a` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 After you've disabled the airbag and performed the necessary service, reconnect the electrical connector(s) to the airbag(s). Reinstall the lower panel and the glove box.
 
 1Turn the ignition switch to the Off position. 12 Reattach the positive battery cable first and then the negative cable.
 
 ### 25 Wiring diagrams - general information
-`hyundai_elantra_ru_en_043a9295` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Since it isn't possible to include all wiring diagrams for every year and model covered by this manual, the following diagrams are those that are typical and most commonly needed.
 
@@ -11776,7 +10999,6 @@ _____|| /8 1 0 18/8HM/03 IVON--N HONOTSS 10\$ 2 ne (13/18/0 20 H/03 4 1 \$3 8/03
 \$\ 1 ( /03 m8/038 YON VN 38/8 80) R [c3a/ 1 0) no (0 0)/M 8n 4 → 0 1/n /8 2 \$ 8 ( o0 Tron 3 e w нa TYON _ 2 / 13A/N80YN B 2 x / 5 \$ \* \$\{}\$ \{\$ 1 P nan \$}\$ O B __-_– N 1 3Na 00 D 23038 e
 
 ### 25 Wiring diagrams - general information
-`hyundai_elantra_ru_en_581b384c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 131/038 0 3 3 38 Yv LYN \$\V3N} 8378 0 30 3 38 Exterior lighting system - station wagon models o 1 WT L 1 BLU/RED! WTN BLU/CO 1 BLK 2 1
 N . BLK \*
@@ -11829,7 +11051,6 @@ Engine control system - 1999 and earlier models (2 of 3)
 ![](images/8d4507dbc2f5925c6f57f479a4a6cd1f84f5cf170abc8a27455ee554eca4a816.jpg)
 
 ### 25 Wiring diagrams - general information
-`hyundai_elantra_ru_en_82415fce` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/f59f12a7d2210d983015a6fc16e23bf875f07913337ca4a54067e43da439ddfe.jpg)
 Engine control system - 2000 models (1 of 3)
@@ -11861,7 +11082,6 @@ Instrument panel warning light system
 ![](images/33a376b14403a3977275c51ef6496799be740205c8fd564aa17ea392bc395c29.jpg)
 
 ### A
-`hyundai_elantra_ru_en_ab30ce8d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Acceleration sensor, check and replacement, 6-14
 Accelerator cable, removal and installation, 4-7
@@ -11891,7 +11111,6 @@ Bumpers, removal and installation, 11-7
 Buying parts, 0-7 .
 
 ### С
-`hyundai_elantra_ru_en_cdad254b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Cable replacement accelerator, 4-7 battery, 5-4 fuel filler door, 11-12 hood release, 11-6 parking brake, 9-17 shift automatic transaxle, 7B-4 manual transaxle, 7A-1 trunk/liftgate release, 11-12
 Camshaft oil seal, replacement, 2A-8
@@ -11931,7 +11150,6 @@ Cylinder head cleaning and inspection, 2B-9 disassembly, 2B-9 reassembly, 2B-11 
 Cylinder honing, 2B-16
 
 ### D
-`hyundai_elantra_ru_en_a8a65fae` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Dashboard trim panels, removal and installation, 11-15
 Daytime Running Lights (DRL), general information, 12-11
@@ -11947,7 +11165,6 @@ Driveplate/flywheel, removal, inspection and installation, 2A-15
 Drum brake shoes, replacement, 9-8
 
 ### E
-`hyundai_elantra_ru_en_817b674c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Electrical troubleshooting, general information, 12-1
 Emergency jump starting, 0-15
@@ -11968,7 +11185,6 @@ Evaporator, air conditioning, removal and installation, 3-14
 Exhaust manifold, removal and installation, 2A-9 system check, 1-25 general information, 4-12
 
 ### F
-`hyundai_elantra_ru_en_17309d4d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Fans, engine cooling, check and replacement, 3-4
 Fault finding, 0-21
@@ -11979,7 +11195,6 @@ Fluid level checks, 1-7 automatic transaxle, 1-11
 brake and clutch fluid, 1-9 engine coolant, 1-8 engine oil, 1-7 manual transaxle, 1-19 power steering fluid, 1-11 washer fluid, 1-9 Fluids and lubricants capacities, 1-2 recommended, 1-1 Flywheel/driveplate, removal, inspection and installation, 2A-15 Fuel and exhaust systems, 4-1 through 4-14 filter replacement, 1-26 fuel injection system check, 4-9 general information, 4-8 fuel level sending unit check and replacement, 4-6 fuel lines and fittings, repair and replacement, 4-5 fuel pressure relief procedure, 4-2 fuel pump, removal and installation, 4-5 fuel pump/fuel pressure, check, 4-3 fuel rail and injectors, removal and installation, 4-11 fuel tank removal and installation, 4-7 cleaning and repair pressure regulator, removal and installation, 4-10 system check, 1-25 torque specifications, 4-1 Fuses, general information, 12-3
 
 ### G
-`hyundai_elantra_ru_en_22e86973` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 General engine overhaul procedures,
 2B-1 through 2B-26
@@ -12003,7 +11218,6 @@ vacuum gauge diagnostic checks, 2B-6
 valves, servicing, 2B-11
 
 ### н
-`hyundai_elantra_ru_en_ddc3234c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Hazard flasher/turn signal, check and replacement, 12-4
 Headlights adjustment, 12-8 bulb replacement, 12-8 housing, replacement, 12-9
@@ -12036,7 +11250,6 @@ Jacking and towing, 0-16
 Jump starting, 0-15
 
 ### K
-`hyundai_elantra_ru_en_a82e9cb1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Knock sensor, check and replacement, 6–8
 Knuckle, rear, removal and installation, 10-8
@@ -12050,7 +11263,6 @@ Lubricants and chemicals, 0-17
 Lubricants and fluids capacities, 1-2 recommended, 1-1
 
 ### M
-`hyundai_elantra_ru_en_8adf7331` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Main and connecting rod bearings, inspection and selection, 2B-18
 Maintenance schedule, 1-6
@@ -12059,7 +11271,6 @@ Manifold Absolute Pressure (MAP)/Intake Air Temperature (IAT) sensor, check and 
 Manifold, removal and installation exhaust, 2A-9 intake, 2A-8
 
 ### Manual transaxle, 7A-1 through 7A-2
-`hyundai_elantra_ru_en_2936f6aa` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 driveaxle oil seals, replacement, 7B-5 lubricant change, 1-24 level check, 1-19 overhaul general information, 7A-2 removal and installation, 7A-2 shift lever assembly and cables, removal and installation, 7A-1 torque specifications, 7A-1
 Mass Air Flow (MAF) sensor, check and replacement, 6-7
@@ -12069,7 +11280,6 @@ Multi-function switch, replacement, 12-4
 Multiport Fuel Injection (MFl) control relay, check and replacement, 6-16
 
 ### R
-`hyundai_elantra_ru_en_27803fff` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Radiator grille (sedan models), replacement, 11-3
 Radiator, removal and installation, 3-3
@@ -12087,7 +11297,6 @@ Replacement parts, purchasing, 0-7
 Routine maintenance, 1-1
 
 ### о
-`hyundai_elantra_ru_en_a2aaea00` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Oil pan, removal and installation, 2A-12
 Oil pressure check, 2B-5
@@ -12096,7 +11305,6 @@ On-Board Diagnostic (OBD) system and trouble codes, 6-3
 On-Board Refueling Vapor Recovery (ORVR) system, general information, 6-20
 
 ### Parking brake
-`hyundai_elantra_ru_en_5fe836dc` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 adjustment, 9-17 cable(s), replacement, 9-17
 Piston rings, installation, 2B-21
@@ -12110,7 +11318,6 @@ Power window system, description and check, 12-13
 Powertrain Control Module (PCM), removal and installation, 6-7
 
 ### S
-`hyundai_elantra_ru_en_b24eb90f` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Safe repair practices, 0-20
 Scheduled maintenance, 1-1
@@ -12126,7 +11333,6 @@ Starting system general information and precautions, 5-7 starter motor and circu
 Steering column covers, removal and installation, 11-16 column, removal and installation, 10-10 gear boot replacement, 10-12 removal and installation, 10-12 knuckle; removal and installation, 10-5 power steering pump, removal and installation, 10-12 system, bleeding, 10-13 tie-rod ends, removal and installation, 10-11 wheel, removal and installation, 10-9
 
 ### Strut/coil spring
-`hyundai_elantra_ru_en_83e32f29` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 removal, inspection and installation front, 10-4 rear, 10-7 replacement, 10-4 Suspension and steering systems, 10-1 through 10-14 check, 1-23 torque specifications, 10-1 Suspension arms, rear, removal and installation, 10-8 Switches, instrument panel, replacement, 12-5
 
@@ -12156,7 +11362,6 @@ Tune-up general information, 1-7
 Turn signal/hazard flasher, check and replacement, 12-4
 
 ### V
-`hyundai_elantra_ru_en_bda67109` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Vacuum gauge diagnostic checks, 2B-6
 Valve cover, removal and installation, 2A-3
@@ -12167,7 +11372,6 @@ replacement, 6-12
 Vinyl trim, maintenance, 11–1
 
 ### W
-`hyundai_elantra_ru_en_7fbfc036` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Water pump check, 3-6 removal and installation, 3-6
 Wheel alignment, general information, 10-14
@@ -12187,7 +11391,6 @@ AMC Jеep CJ - see JEEP (50020)
 BMW 18020 3/5 Series not including diesel or all-wheel drive models '82 thru '92 18021 3 Series except 325iX models '92 thru '97 18025 320i all 4 cyl models 75 thru '83 18035 528i & 530i all models 75 thru'80 18050 1500 thru 2002 except Turbo '59 thru '77
 
 ### BUICK
-`hyundai_elantra_ru_en_980770d8` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 24010 Astro & GMC Safari Mini-VanS '85 thrU'93
 24015 Camaro V8 all models 70 thru'81
@@ -12203,7 +11406,6 @@ BMW 18020 3/5 Series not including diesel or all-wheel drive models '82 thru '92
 24046 Impala SS & Caprice and Buick Roadmaster '91 thru '96 Lumina - see GENERAL MOTORS (38010)
 
 ### CHEVROLET
-`hyundai_elantra_ru_en_06999fc0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 AUDI 15020 4000 all models '80 thru '87 15025 5000 all mOdels 77 thru '83 15026 5000 all models '84 thru '88
 
@@ -12212,7 +11414,6 @@ Century (front wheel drive) - see GM (829) 9020 Buick, Oldsmobile & Pontiac Full
 19030 Mid-size Regal & Century all rear-drive models with V6, V8 and Turbo '74 thru '87 Regal - see GENERAL MOTORS (38010) Riviera - see GENERAL MOTORS (38030) Roadmaster - see CHEVROLET (24046) Skyhawk - see GENERAL MOTORS (38015) Skylark '80 thru '85 - see GM (38020) Skylark '86 on - see GM (38025) Somerset - see GENERAL MOTORS (38025)
 
 ### Haynes Automotive Manuals
-`hyundai_elantra_ru_en_02353bf6` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Sprite - see MG Midget (66015)
 
@@ -12267,7 +11468,6 @@ DODGE 400 & 600 - see CHRYSLER (25030)
 EAGLE Talon - see Mitsubishi Eclipse (68030) Vision - See CHRYSLER (25025)
 
 ### GENERAL MOTORS
-`hyundai_elantra_ru_en_c9ccc011` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 \*10360 GM Automatic Transmission Overhaul
 38005 Buick Century, Chevrolet Celebrity, Oldsmobile Cutlass Ciera & Pontiac 6000 all models '82 thru '96
@@ -12319,7 +11519,6 @@ FORD
 ![](images/5e6e442eda60ab2aed9fd76ac3591d1e13c36dbdfd888836ba9f9917b15f675c.jpg)
 
 ### Haynes Automotive Manuals (continued)
-`hyundai_elantra_ru_en_e1861ba1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 NOTE: New manuals are added to this list on a periodic basis. If you do not see a listing for your vehicle consult your local Haynes dealer for the latest product information.
 
@@ -12377,12 +11576,10 @@ MG
 66015 MG Midget, Austin Healey Sprite '58 thrU '80
 
 ### MITSUBISHI
-`hyundai_elantra_ru_en_4f46922b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 \*68020 Cordia, Tredia, Galant, Precis & Mirage '83 thru '93 68030 Eclipse, Eagle Talon & Ply. Laser '90 thru '94 \*68040 Pick-up '83 thru '96 & Montero '83 thru '93
 
 ### NISSAN
-`hyundai_elantra_ru_en_8be936b5` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 72010 300zX all models including Turbo '84 thru '89
 \*72015 Altima all models '93 thru '97
@@ -12394,12 +11591,10 @@ MG
 72060 Stanza all models '82 thru '90
 
 ### OLDSMOBILE
-`hyundai_elantra_ru_en_401f7773` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 \*73015 Cutlass V6 & V8 gas models '74 thru '88 For other OLDSMOBILE titles, see BUICK, CHEVROLET or GENERAL MOTORS listing.
 
 ### PLYMOUTH
-`hyundai_elantra_ru_en_54fd6744` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For PLYMOUTH titles, see DODGE listing.
 
@@ -12415,7 +11610,6 @@ PORSCHE
 80035 944 all models including Turbo '83 thru '89
 
 ### RENAULT
-`hyundai_elantra_ru_en_300342d0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Alliance & Encore - see AMC (14020)
 
@@ -12451,7 +11645,6 @@ TOYOTA
 92085 Tercel all models '87 thru '94
 
 ### TRIUMPH
-`hyundai_elantra_ru_en_56da838b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 94007 Spitfire all models '62 thru '81
 94010 TR7 all models '75 thru '81
@@ -12476,7 +11669,6 @@ VOLVo
 97040 740 & 760 Series all models '82 thru '88
 
 ### TECHBOOK MANUALS
-`hyundai_elantra_ru_en_01b2ee8d` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 10205 Automotive Computer Codes
 10210 Automotive Emissions Control Manual
@@ -12505,7 +11697,6 @@ VOLVo
 10450 ATV Basics
 
 ### SPANISH MANUALS
-`hyundai_elantra_ru_en_584d31f0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 98903 Reparación de Carroceria & Pintura
 98905 Codigos Automotrices de la Computadora
@@ -12527,67 +11718,56 @@ VOLVo
 99125 Toyota Camionetas y 4Runner '79 al '95
 
 ### NORMAL
-`hyundai_elantra_ru_en_65baacac` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Symptoms: Brown to grayish-tan color and slight electrode wear. Correct heat range for engine and operating conditions. Recommendation: When new spark plugs are installed, replace with plugs of the same heat range.
 
 ### WORN
-`hyundai_elantra_ru_en_f30e331b` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Symptoms:Rounded electrodes with a small amount of deposits on the firing end. Normal coior. Causes hard starting in damp or cold weather and poor fuel economy. Recommendation: Plugs have been left in the engine too long. Replace with new plugs of the same heat range. Follow the recommended maintenance schedule.
 
 ### тоо нот
-`hyundai_elantra_ru_en_efdcf40e` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Symptoms:Blistered, white insulator, eroded electrode and absence of deposits. Results in shortened plug life.
 Recommendation:Check for the correct plug heat range, overadvanced ignition timing, lean fuel mixture, intake manifold vacuum leaks, sticking valves and insufficient engine cooling.
 
 ### CARBON DEPOSITS
-`hyundai_elantra_ru_en_fe0cbae0` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Symptoms:Dry sooty deposits indicate a rich mixture or weak ignition. Causes misfiring, hard starting and hesitation.
 
 Recommendation:Make sure the plug has the correct heat range. Check for a clogged air filter or problem in the fuel system or engine management system. Also check for ignition system problems.
 
 ### PREIGNITION
-`hyundai_elantra_ru_en_1e307657` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Symptoms: Melted electrodes. Insulators are white, but may be dirty due to misfiring or flying debris in the combustion chamber. Can lead to engine damage. Recommendation:Check for the correct plug heat range, overadvanced ignition timing, lean fuel mixture, insufficient engine cooling and lack of lubrication.
 
 ### ASH DEPOSITS
-`hyundai_elantra_ru_en_73d8c1d6` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Symptoms:Light brown deposits encrusted on the side or center electrodes or both. Derived from oil and/or fuel additives. Excessive amounts may mask the spark, causing misfiring and hesitation during acceleration.
 
 Recommendation: If excessive deposits accumulate over a short time or low mileage, install new valve guide seals to prevent seepage of oil into the combustion chambers. Also try changing gasoline brands.
 
 ### OIL DEPOSITS
-`hyundai_elantra_ru_en_4fd09cfb` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Symptoms:Oily coating caused by poor oil control. Oil is leaking past worn valve guides or piston rings into the combustion chamber. Causes hard starting, misfiring and hesitation.
 
 Recommendation: Correct the mechanical condition with necessary repairs and install new plugs.
 
 ### HIGH SPEED GLAZING
-`hyundai_elantra_ru_en_27e7c44c` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Symptoms:Insulator has yellowish,glazed appearance. Indicates that combustion chamber temperatures have risen suddenly during hard acceleration. Normal deposits melt to form a conductive coating. Causes misfiring at high speeds. Recommendation:Installnew plugs. Consider using a colder plug if driving habits warrant.
 
 ### DETONATION
-`hyundai_elantra_ru_en_6b63d0ee` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Symptoms: Insulators may be cracked or chipped. Improper gap setting techniques can also result in a fractured insulator tip. Can lead to piston damage.
 Recommendation:Make sure the fuel anti-knock values meet engine requirements. Use care when setting the gaps on new piugs. Avoid lugging the engine.
 
 ### GAP BRIDGING
-`hyundai_elantra_ru_en_613d2dc1` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Symptoms:Combustion deposits lodge between the electrodes. Heavy deposits accumulate and bridge the electrode gap. The plug ceases to fire, resulting in a dead cylinder.
 
 Recommendation: Locate the faulty plug and remove the deposits from between the electrodes.
 
 ### MECHANICAL DAMAGE
-`hyundai_elantra_ru_en_eb994ae6` | elantra_ru | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Symptoms:May be caused by a foreign object in the combustion chamber or the piston striking an incorrect reach (too long) plug. Causes a dead cylinder and could result in piston damage.
 
@@ -12598,4 +11778,3 @@ Recommendation: Repair the mechanical damage. Remove the foreign object from the
 Models covered by this manual: All Hyundai Elantra models 1996 thru 2001
 
 ![](images/5082894180ec63128521387c608b5c8a8f02e4c1e40adc8819b16938b0c449fc.jpg)
-

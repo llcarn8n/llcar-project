@@ -1,7 +1,12 @@
-# Manual: Tiggo_7_Pro_Max_Restyled (124 chunks)
+---
+brand: chery
+model: tiggo_7_pro
+generation: tiggo_7_pro_max_restyled
+source: kb
+---
+
 
 ### Благодарим вас за то, что вы остановили свой выбор на новом автомобиле Chery.
-`chery_manual_tiggo_7_pro_max_rest_0000` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:1
 
 ПРЕДИСЛОВИЕ 1
 Благодарим вас за то, что вы остановили свой выбор на новом автомобиле Chery.
@@ -112,7 +117,6 @@ Issued March2024
 Стр.
 
 ### 1-1. Как пользоваться данным
-`chery_manual_tiggo_7_pro_max_rest_0001` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:5
 
 Содержание 5
 1. ВВЕДЕНИЕ
@@ -295,7 +299,6 @@ Issued March2024
 2-8.
 
 ### стеклоподъемники99
-`chery_manual_tiggo_7_pro_max_rest_0002` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:8
 
 8 Содержание
 3-3. Окна
@@ -492,7 +495,6 @@ USB 132
 4-5.
 
 ### 5-4. Система помощи
-`chery_manual_tiggo_7_pro_max_rest_0003` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:11
 
 Содержание 11
 исполнения
@@ -679,7 +681,6 @@ Chery 238
 7-1.
 
 ### идентификационным
-`chery_manual_tiggo_7_pro_max_rest_0004` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:14
 
 14 Содержание
 8. ТЕХНИЧЕСКИЕ
@@ -861,7 +862,6 @@ Chery 238
 компонента.
 
 ### 1-2. Символы, используемые в данном Руководстве
-`chery_manual_tiggo_7_pro_max_rest_0005` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:18
 
 1-2. Символы, используемые в данном Руководстве
 Символы, используемые в данном Руководстве
@@ -990,7 +990,6 @@ Ltd. В Сертификате регистрации владельца ука�
 и т. п.
 
 ### выполнения и объяснения
-`chery_manual_tiggo_7_pro_max_rest_0006` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:21
 
 ВВЕДЕНИЕ
 
@@ -1140,7 +1139,6 @@ VIN-номер:
 владельцем был закреплен индивидуальный сервисный консультант.
 
 ### Приемка автомобиля на техническое обслуживание или ремонт.
-`chery_manual_tiggo_7_pro_max_rest_0007` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:23
 
 ВВЕДЕНИЕ
 
@@ -1244,7 +1242,6 @@ VIN-номер:
 на него.
 
 ### 1-5. Проверка нового автомобиля
-`chery_manual_tiggo_7_pro_max_rest_0008` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:26
 
 1-5. Проверка нового автомобиля
 Проверка нового автомобиля
@@ -1335,7 +1332,6 @@ Chery, осуществляющего продажу и техническое �
 передачу.
 
 ### 1-7. Экономия топлива и продление срока службы автомобиля
-`chery_manual_tiggo_7_pro_max_rest_0009` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:28
 
 1-7. Экономия топлива и продление срока службы автомобиля
 Экономия топлива и продление срока службы автомобиля
@@ -1414,7 +1410,6 @@ Chery, осуществляющего продажу и техническое �
 1.
 
 ### ▇Моторный отсек и двигатель
-`chery_manual_tiggo_7_pro_max_rest_0010` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:30
 
 ▇Моторный отсек и двигатель
 1. Запасные плавкие предохранители. Убедитесь в наличии запасных плавких
@@ -1495,7 +1490,6 @@ P
 кому-нибудь травму.
 
 ### ▇Стоянка на подъеме или спуске (при отсутствии бордюрного камня)
-`chery_manual_tiggo_7_pro_max_rest_0011` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:32
 
 ▇Стоянка на подъеме или спуске (при отсутствии бордюрного камня)
 OMT1E-0003
@@ -1593,7 +1587,6 @@ OMT1E-0003
 опасности получения тяжелых травм или повреждения автомобиля.
 
 ### 1-10. Меры предосторожности при вождении в дождь
-`chery_manual_tiggo_7_pro_max_rest_0012` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:34
 
 1-10. Меры предосторожности при вождении в дождь
 Вождение по скользкой дороге
@@ -1700,7 +1693,6 @@ OMT1E-0004
 д.).
 
 ### 1-11. Меры предосторожности при вождении в зимних условиях
-`chery_manual_tiggo_7_pro_max_rest_0013` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:36
 
 1-11. Меры предосторожности при вождении в зимних условиях
 Советы по вождению в зимних условиях
@@ -1807,7 +1799,6 @@ OMT1E-0005
 рекомендуется включать систему ESP.
 
 ### Соблюдайте следующие меры предосторожности, чтобы свести к минимуму
-`chery_manual_tiggo_7_pro_max_rest_0014` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:38
 
 Соблюдайте следующие меры предосторожности, чтобы свести к минимуму
 вероятность
@@ -1939,7 +1930,6 @@ OMT1E-0005
 2-1.
 
 ### удерживающие устройства
-`chery_manual_tiggo_7_pro_max_rest_0015` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:42
 
 2-8. Детские
 удерживающие устройства
@@ -2067,7 +2057,6 @@ CRUISE
 температуру охлаждающей жидкости двигателя.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0016` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:45
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -2362,7 +2351,6 @@ OK. Для выхода
 на рулевом колесе.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0017` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:47
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -2545,7 +2533,6 @@ ON
 дальнего света фар.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0018` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:49
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -2657,7 +2644,6 @@ HOLD) работает.
 автомобиля.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0019` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:51
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -2778,7 +2764,6 @@ LDW. При первой же возможности обратитесь на
 для проверки и ремонта автомобиля.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0020` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:53
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -2899,7 +2884,6 @@ OMT1E-1020
 2.
 
 ### выключится и затем включится снова, когда температура рулевого колеса
-`chery_manual_tiggo_7_pro_max_rest_0021` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:56
 
 • Повторное нажатие выключателя обогрева рулевого колеса.
 • Когда температура рулевого колеса достигнет 52 ° C, обогрев рулевого колеса
@@ -3061,7 +3045,6 @@ OMT1E-1034
 складывания.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0022` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:59
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -3232,7 +3215,6 @@ R)
 3.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0023` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:61
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -3394,7 +3376,6 @@ R
 • Температура окружающего воздуха опустилась ниже 2 °C на 5 секунд или более.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0024` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:63
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -3598,7 +3579,6 @@ OFF
 двигателя в положение ON.
 
 ### Дальний свет фар
-`chery_manual_tiggo_7_pro_max_rest_0025` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:66
 
 Дальний свет фар
 ■Включение дальнего света фар
@@ -3777,7 +3757,6 @@ OMT1E-1060
 рядом сидений.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0026` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:69
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -3940,7 +3919,6 @@ IHC
 закрыть. В противном случае в фары может попасть вода.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0027` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:71
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -4137,7 +4115,6 @@ OMT1E-1090
 Установив сиденье в требуемое положение, отпустите рукоятку.
 
 ### Сиденье переднего пассажира с электроприводом регулировки (для некоторых
-`chery_manual_tiggo_7_pro_max_rest_0028` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:74
 
 Сиденье переднего пассажира с электроприводом регулировки (для некоторых
 вариантов исполнения автомобиля)
@@ -4309,7 +4286,6 @@ OMT1E-1096
 работают при работающем двигателе.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0029` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:77
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -4496,7 +4472,6 @@ ACC
 2.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0030` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:79
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -4654,7 +4629,6 @@ OMT1E-1102
 • Одним ремнем должен пристегиваться только один человек.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0031` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:81
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -4798,7 +4772,6 @@ Chery
 вещества, горячую воду, отбеливатели или красящие вещества.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0032` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:83
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -4947,7 +4920,6 @@ OMT1E-1107
 3.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0033` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:85
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -5013,7 +4985,6 @@ ISOFIX.
 заменить детское удерживающее устройство.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0034` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:87
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -5161,7 +5132,6 @@ OMT1E-1110
 1.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0035` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:89
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -5325,7 +5295,6 @@ X
 R14 и ECE R145.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0036` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:91
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -5536,7 +5505,6 @@ X
 удерживающего устройства.
 
 ### детского удерживающего устройства и
-`chery_manual_tiggo_7_pro_max_rest_0037` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:94
 
 OMT1E-1114
 Шаг
@@ -5675,7 +5643,6 @@ OMT1E-1114
 происшествии.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0038` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:97
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -5865,7 +5832,6 @@ USB 132
 3-1.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0039` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:101
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -5993,7 +5959,6 @@ OMT1E-2012
 поблизости нет воды.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0040` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:103
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -6136,7 +6101,6 @@ OMT1E-2014
 м.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0041` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:105
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -6278,7 +6242,6 @@ OMT1E-2016
 В противном случае автомобиль может остаться незапертым.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0042` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:107
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -6444,7 +6407,6 @@ OMT1E-2018
 1.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0043` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:109
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -6554,7 +6516,6 @@ OMT1E-2020
 автомобиля, нажмите кнопку.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0044` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:111
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -6676,7 +6637,6 @@ OMT1E-2025
 ребенок может открыть заднюю дверь во время движения автомобиля.
 
 ### голосовых команд см. «Аудиосистема».
-`chery_manual_tiggo_7_pro_max_rest_0045` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:114
 
 • Для
 получения
@@ -6789,7 +6749,6 @@ OMT1E-2031
 автоматического закрывания окон приведет к остановке стекол.
 
 ### Процедура обучения
-`chery_manual_tiggo_7_pro_max_rest_0046` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:116
 
 Процедура обучения
 Если
@@ -6871,7 +6830,6 @@ OMT1E-2040
 шторки.
 
 ### голосовых команд см. «Аудиосистема».
-`chery_manual_tiggo_7_pro_max_rest_0047` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:118
 
 • Для
 получения
@@ -6972,7 +6930,6 @@ OMT1E-2040
 движения.
 
 ### 3-5. Аудиосистема
-`chery_manual_tiggo_7_pro_max_rest_0048` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:120
 
 3-5. Аудиосистема
 Панель управления аудиосистемой
@@ -7142,7 +7099,6 @@ rhythm
 OFF (Выключено).
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0049` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:123
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -7303,7 +7259,6 @@ Automatic rear view mirror adjustment in reversing (Автоматическое
 3.
 
 ### Кнопки управления аудиосистемой
-`chery_manual_tiggo_7_pro_max_rest_0050` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:126
 
 Кнопки управления аудиосистемой
 OMT1E-2061
@@ -7436,7 +7391,6 @@ OMT1E-3510
 3.
 
 ### автомобилю впервые (на головном
-`chery_manual_tiggo_7_pro_max_rest_0051` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:128
 
 OMT1E-3520
 4.Если
@@ -7604,7 +7558,6 @@ rts wire
 rts wirele
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0052` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:131
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -7776,7 +7729,6 @@ ION
 включении.
 
 ### При запотевании ветрового стекла во время движения рекомендуется включить
-`chery_manual_tiggo_7_pro_max_rest_0053` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:134
 
 При запотевании ветрового стекла во время движения рекомендуется включить
 режим обдува ветрового стекла. Для получения дополнительной информации см.
@@ -7884,7 +7836,6 @@ ION
 низкой или высокой скорости).
 
 ### официального дилера Chery для проверки и ремонта автомобиля.
-`chery_manual_tiggo_7_pro_max_rest_0054` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:136
 
 • Если кондиционер не охлаждает воздух, это затрудняет удаление конденсата со
 стекол.
@@ -7964,7 +7915,6 @@ ION
 воздуха.
 
 ### кондиционера в чистоте.
-`chery_manual_tiggo_7_pro_max_rest_0055` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:138
 
 • Снижение эффективности работы системы может быть вызвано загрязнением и
 засорением
@@ -8085,7 +8035,6 @@ ION
 официального дилера Chery для проверки и ремонта системы.
 
 ### Функция очистки воздуха (для некоторых вариантов исполнения
-`chery_manual_tiggo_7_pro_max_rest_0056` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:140
 
 Функция очистки воздуха (для некоторых вариантов исполнения
 автомобиля)
@@ -8267,7 +8216,6 @@ OMT1E-2067
 на зарядном устройстве.
 
 ### Способы использования
-`chery_manual_tiggo_7_pro_max_rest_0057` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:142
 
 Способы использования
 AUTO
@@ -8405,7 +8353,6 @@ ON.
 карт, стаканов и других предметов.
 
 ### ■При погрузке багажа в автомобиль соблюдайте описываемые ниже
-`chery_manual_tiggo_7_pro_max_rest_0058` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:144
 
 ■При погрузке багажа в автомобиль соблюдайте описываемые ниже
 меры предосторожности.
@@ -8505,7 +8452,6 @@ OMT1E-2150
 передней части консоли.
 
 ### 3-10. Разъем USB
-`chery_manual_tiggo_7_pro_max_rest_0059` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:146
 
 3-10. Разъем USB
 Передний разъем USB
@@ -8671,7 +8617,6 @@ OMT1E-2191
 за ручку.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0060` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:149
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -8852,7 +8797,6 @@ OMT1E-2202
 защиты от защемления остановит дверь во избежание ее повреждения.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0061` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:151
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -8959,7 +8903,6 @@ OMT1E-2202
 сработать.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0062` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:153
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -9121,7 +9064,6 @@ OMT1E-2211
 двигателя в положение OFF и закройте все двери и окна.
 
 ### ПУСК ДВИГАТЕЛЯ И УПРАВЛЕНИЕ АВТОМОБИЛЕМ
-`chery_manual_tiggo_7_pro_max_rest_0063` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:157
 
 ПУСК ДВИГАТЕЛЯ И УПРАВЛЕНИЕ АВТОМОБИЛЕМ
 
@@ -9270,7 +9212,6 @@ START.
 не обнаружен).
 
 ### Шаг 2. Переведите выключатель пуска двигателя в положение START (индикатор
-`chery_manual_tiggo_7_pro_max_rest_0064` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:160
 
 Шаг 2. Переведите выключатель пуска двигателя в положение START (индикатор
 загорится зеленым светом) и нажмите его для пуска двигателя.
@@ -9355,7 +9296,6 @@ OMT1E-3011
 2.
 
 ### Адаптивная система управления двигателем
-`chery_manual_tiggo_7_pro_max_rest_0065` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:162
 
 Адаптивная система управления двигателем
 После отсоединения и последующего подсоединения аккумуляторной батареи
@@ -9464,7 +9404,6 @@ P (стоянка)
 механически.
 
 ### автоматическое переключение на смежную повышенную передачу.
-`chery_manual_tiggo_7_pro_max_rest_0066` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:164
 
 • В режиме ручного переключения доступна функция кикдауна, но недоступно
 автоматическое переключение на смежную повышенную передачу.
@@ -9547,7 +9486,6 @@ R
 4.
 
 ### 4-4. Интеллектуальная система полного привода (AWD)
-`chery_manual_tiggo_7_pro_max_rest_0067` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:166
 
 4-4. Интеллектуальная система полного привода (AWD)
 Интеллектуальная система полного привода (AWD) (для некоторых
@@ -9660,7 +9598,6 @@ OFF-ROAD
 1.
 
 ### Описание режимов вождения
-`chery_manual_tiggo_7_pro_max_rest_0068` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:168
 
 Описание режимов вождения
 В приведенной ниже таблице дана информация о разных режимах вождения и их
@@ -9760,7 +9697,6 @@ OFF ROAD — более интенсивное.
 опрокидывания.
 
 ### таить много опасностей. Вы можете сразу не распознать ямы, канавы, колеи,
-`chery_manual_tiggo_7_pro_max_rest_0069` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:170
 
 • Даже если участок с пересеченной местностью выглядит безопасным, он может
 таить много опасностей. Вы можете сразу не распознать ямы, канавы, колеи,
@@ -9833,7 +9769,6 @@ OFF ROAD — более интенсивное.
 дилера Chery.
 
 ### длительного времени может вызвать выход из строя механизма электрического
-`chery_manual_tiggo_7_pro_max_rest_0070` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:172
 
 • Частое
 маневрирование
@@ -9979,7 +9914,6 @@ ON,
 тормоза.
 
 ### Перед буксировкой автомобиля необходимо выключить стояночный тормоз и
-`chery_manual_tiggo_7_pro_max_rest_0071` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:174
 
 Перед буксировкой автомобиля необходимо выключить стояночный тормоз и
 включить нейтральную передачу.
@@ -10070,7 +10004,6 @@ ON,
 4.
 
 ### Система автоматического удержания автомобиля
-`chery_manual_tiggo_7_pro_max_rest_0072` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:176
 
 Система автоматического удержания автомобиля
 На
@@ -10217,7 +10150,6 @@ OMT1E-3041
 выключить ее и оставить включенным стояночный тормоз с электроприводом.
 
 ### Рабочая тормозная система
-`chery_manual_tiggo_7_pro_max_rest_0073` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:178
 
 Рабочая тормозная система
 OMT1E-3042
@@ -10362,7 +10294,6 @@ OMT1E-3042
 автомобиля.
 
 ### Подушка безопасности водителя
-`chery_manual_tiggo_7_pro_max_rest_0074` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:180
 
 Подушка безопасности водителя
 Подушка безопасности переднего
@@ -10544,7 +10475,6 @@ OMT1E-3052
 срабатывания модуль подушки безопасности подлежит замене.
 
 ### Сигнализатор неисправности подушек безопасности
-`chery_manual_tiggo_7_pro_max_rest_0075` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:182
 
 Сигнализатор неисправности подушек безопасности
 В случае неисправности подушек безопасности загорается красный сигнализатор "
@@ -10699,7 +10629,6 @@ OMT1E-3058
 столкн
 
 ### Меры предосторожности,, связанные сс подушками безопасности
-`chery_manual_tiggo_7_pro_max_rest_0076` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:184
 
 М
 Меры предосторожности,, связанные сс подушками безопасности
@@ -10881,7 +10810,6 @@ OMT1E-3064
 5.
 
 ### СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
-`chery_manual_tiggo_7_pro_max_rest_0077` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:187
 
 СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
 
@@ -11036,7 +10964,6 @@ OMT1E-3064
 когда автомобиль неподвижен.
 
 ### автомобиля достигает или превышает 8 км/ч.
-`chery_manual_tiggo_7_pro_max_rest_0078` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:190
 
 • После пуска двигателя или поворота рулевого колеса на большой угол скорость
 автомобиля достигает или превышает 8 км/ч.
@@ -11129,7 +11056,6 @@ OMT1E-3064
 ».
 
 ### 5-2. Система распознавания знаков ограничения скорости (SLA)
-`chery_manual_tiggo_7_pro_max_rest_0079` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:192
 
 5-2. Система распознавания знаков ограничения скорости (SLA)
 Система распознавания знаков ограничения скорости (SLA) (для
@@ -11316,7 +11242,6 @@ ON
 5.
 
 ### СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
-`chery_manual_tiggo_7_pro_max_rest_0080` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:195
 
 СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
 
@@ -11450,7 +11375,6 @@ NORMAL
 круиз-контроля.
 
 ### СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
-`chery_manual_tiggo_7_pro_max_rest_0081` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:197
 
 СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
 
@@ -11536,7 +11460,6 @@ NORMAL
 дорожного движения.
 
 ### СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
-`chery_manual_tiggo_7_pro_max_rest_0082` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:199
 
 СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
 
@@ -11646,7 +11569,6 @@ NORMAL
 среагировать с задержкой.
 
 ### 8.Водитель должен поддерживать безопасную дистанцию до впередиидущего
-`chery_manual_tiggo_7_pro_max_rest_0083` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:200
 
 8. Водитель должен поддерживать безопасную дистанцию до впередиидущего
 транспортного
@@ -11811,7 +11733,6 @@ NORMAL
 Способ 1.
 
 ### Если во время работы ограничителя скорости возникнет необходимость в обгоне
-`chery_manual_tiggo_7_pro_max_rest_0084` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:202
 
 Обгон
 Если во время работы ограничителя скорости возникнет необходимость в обгоне
@@ -11918,7 +11839,6 @@ OMT1E-4076
 9.
 
 ### обратиться на сервисную станцию официального дилера Chery для проверки и
-`chery_manual_tiggo_7_pro_max_rest_0085` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:204
 
 обратиться на сервисную станцию официального дилера Chery для проверки и
 ремонта автомобиля.
@@ -12056,7 +11976,6 @@ HDC
 по полосе (LKA).
 
 ### работоспособность системы снижается.
-`chery_manual_tiggo_7_pro_max_rest_0086` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:206
 
 • При наличии дорожной разметки только с одной стороны от автомобиля
 работоспособность системы снижается.
@@ -12160,7 +12079,6 @@ LKA
 8.
 
 ### Система предупреждения о смене полосы движения (LDW) (для
-`chery_manual_tiggo_7_pro_max_rest_0087` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:208
 
 Система предупреждения о смене полосы движения (LDW) (для
 некоторых вариантов исполнения автомобиля)
@@ -12276,7 +12194,6 @@ Driving
 эксплуатации автомобиля.
 
 ### двигателя в положение ON.
-`chery_manual_tiggo_7_pro_max_rest_0088` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:210
 
 • Включить или выключить систему BSD можно с помощью головного устройства
 аудиосистемы.
@@ -12428,7 +12345,6 @@ OMT1E-4061
 был включен режим охраны противоугонной системы.
 
 ### 5-8. Система автоматического экстренного торможения (AEB)/
-`chery_manual_tiggo_7_pro_max_rest_0089` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:212
 
 5-8. Система автоматического экстренного торможения (AEB)/
 система предупреждения о фронтальном столкновении (FCW)
@@ -12496,7 +12412,6 @@ FCW и AEB работать не будут.
 • Система AEB выполняет лишь вспомогательную функцию.
 
 ### велосипеда, а также по характерным для велосипедиста движениям. Система
-`chery_manual_tiggo_7_pro_max_rest_0090` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:214
 
 • Велосипедистов система AEB распознает по очертаниям человеческого тела и
 велосипеда, а также по характерным для велосипедиста движениям. Система
@@ -12572,7 +12487,6 @@ AEB (подача предупреждений или торможение). В 
 загрязнений.
 
 ### СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
-`chery_manual_tiggo_7_pro_max_rest_0091` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:215
 
 СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
 
@@ -12748,7 +12662,6 @@ NORMAL
 давлении воздуха в шинах.
 
 ### СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
-`chery_manual_tiggo_7_pro_max_rest_0092` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:217
 
 СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
 
@@ -12856,7 +12769,6 @@ Chery для проверки и ремонта автомобиля.
 безопасной.
 
 ### СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
-`chery_manual_tiggo_7_pro_max_rest_0093` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:219
 
 СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
 
@@ -12997,7 +12909,6 @@ ON,
 Способ 3.
 
 ### СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
-`chery_manual_tiggo_7_pro_max_rest_0094` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:221
 
 СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
 
@@ -13108,7 +13019,6 @@ OMT1E-4105
 5.
 
 ### Система сигнализации при парковке (для некоторых вариантов
-`chery_manual_tiggo_7_pro_max_rest_0095` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:224
 
 Система сигнализации при парковке (для некоторых вариантов
 исполнения автомобиля)
@@ -13230,7 +13140,6 @@ P
 (стоян
 
 ### на дисплее одновременно. При этом звуковой сигнал предупреждает только о
-`chery_manual_tiggo_7_pro_max_rest_0096` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:226
 
 на дисплее одновременно. При этом звуковой сигнал предупреждает только о
 приближении к ближайшему препятствию.
@@ -13383,7 +13292,6 @@ OMT1E-4069
 1.
 
 ### 1. Нажмите педаль тормоза
-`chery_manual_tiggo_7_pro_max_rest_0097` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:228
 
 OMT1E-4130
 1. Нажмите педаль тормоза
@@ -13522,7 +13430,6 @@ ABS
 4.
 
 ### обнаружила, что частота вращения ведущих колес превышает частоту вращения
-`chery_manual_tiggo_7_pro_max_rest_0098` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:230
 
 обнаружила, что частота вращения ведущих колес превышает частоту вращения
 ведомых колес (что может свидетельствовать о пробуксовке), она корректирует
@@ -13609,7 +13516,6 @@ MII))
 6-3.
 
 ### 6-1. Ваши действия в экстренной ситуации
-`chery_manual_tiggo_7_pro_max_rest_0099` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:232
 
 6-1. Ваши действия в экстренной ситуации
 Система ЭРА-ГЛОНАСС
@@ -13721,7 +13627,6 @@ OMT1E-5005
 сервисный центр. Запрещается проводить ремонт самостоятельно.
 
 ### Возможные варианты индикации состояния изделия приведены в таблице.
-`chery_manual_tiggo_7_pro_max_rest_0100` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:234
 
 Возможные варианты индикации состояния изделия приведены в таблице.
 Таблица 1. Индикация состояний системы
@@ -13880,7 +13785,6 @@ OMT1E-5040
 под ковровым покрытием пола.
 
 ### На обычных дорогах знак аварийной
-`chery_manual_tiggo_7_pro_max_rest_0101` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:236
 
 Не менее 50 м
 OMT1E-5050
@@ -14033,7 +13937,6 @@ OMT1E-5090
 1.
 
 ### В СЛУЧАЕ НЕИСПРАВНОСТИ
-`chery_manual_tiggo_7_pro_max_rest_0102` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:239
 
 В СЛУЧАЕ НЕИСПРАВНОСТИ
 
@@ -14191,7 +14094,6 @@ OMT1E-5170
 по неровному дорожному покрытию.
 
 ### Перегрев охлаждающей жидкости двигателя
-`chery_manual_tiggo_7_pro_max_rest_0103` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:242
 
 Перегрев охлаждающей жидкости двигателя
 Если во время движения автомобиля произошел перегрев охлаждающей жидкости
@@ -14349,7 +14251,6 @@ OFF
 Шаг 3.
 
 ### обратитесь на сервисную станцию официального дилера Chery для проверки и
-`chery_manual_tiggo_7_pro_max_rest_0104` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:244
 
 • Если аккумуляторная батарея часто разряжается, при первой же возможности
 обратитесь на сервисную станцию официального дилера Chery для проверки и
@@ -14459,7 +14360,6 @@ OMT1E-5200
 за «положительный» (+) вывод аккумуляторной батареи и за кузов автомобиля.
 
 ### Если двигатель не запускается
-`chery_manual_tiggo_7_pro_max_rest_0105` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:246
 
 Если двигатель не запускается
 Если двигатель не запускается, убедитесь, что ваши действия соответствуют
@@ -14579,7 +14479,6 @@ OMT1E-5210
 зафиксирован на эвакуаторе.
 
 ### Буксировка неисправного автомобиля
-`chery_manual_tiggo_7_pro_max_rest_0106` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:248
 
 Буксировка неисправного автомобиля
 При
@@ -14712,7 +14611,6 @@ OMT1E-5240
 Шаг 2.
 
 ### 6-4. Предохранители
-`chery_manual_tiggo_7_pro_max_rest_0107` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:250
 
 6-4. Предохранители
 Блок предохранителей
@@ -14856,7 +14754,6 @@ OMT1E-5280
 • Если решить проблему не удается, обращайтесь к руководителю отдела технического обслуживания. Он найдет оптимальное решение.
 
 ### ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
-`chery_manual_tiggo_7_pro_max_rest_0108` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:253
 
 ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
 
@@ -15009,7 +14906,6 @@ Ltd.
 необходимыми оригинальными запасными частями.
 
 ### ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
-`chery_manual_tiggo_7_pro_max_rest_0109` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:255
 
 ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
 
@@ -15108,7 +15004,6 @@ Ltd.
 самостоятельно.
 
 ### ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
-`chery_manual_tiggo_7_pro_max_rest_0110` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:257
 
 ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
 
@@ -15258,7 +15153,6 @@ MIN
 • Используйте только тормозную жидкость, рекомендованную компанией Chery.
 
 ### ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
-`chery_manual_tiggo_7_pro_max_rest_0111` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:259
 
 ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
 
@@ -15340,7 +15234,6 @@ Chery приниматься не будут.
 150 к Па. В противном случае вы можете повредить ребра радиатора.
 
 ### ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
-`chery_manual_tiggo_7_pro_max_rest_0112` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:261
 
 ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
 
@@ -15465,7 +15358,6 @@ OMT1E-6080
 нормальное явление.
 
 ### ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
-`chery_manual_tiggo_7_pro_max_rest_0113` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:263
 
 ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
 
@@ -15563,7 +15455,6 @@ Chery
 • Своевременно устраняйте сколы от ударов камней на ветровом стекле.
 
 ### ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
-`chery_manual_tiggo_7_pro_max_rest_0114` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:265
 
 ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
 
@@ -15685,7 +15576,6 @@ DTC.
 Проверка: работа системы ЭРА ГЛОНАСС.
 
 ### ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
-`chery_manual_tiggo_7_pro_max_rest_0115` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:267
 
 ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
 
@@ -15852,7 +15742,6 @@ DTC.
 П
 
 ### Замена не требуется (кроме случаев неисправности)
-`chery_manual_tiggo_7_pro_max_rest_0116` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:270
 
 Операции
 технического
@@ -15959,7 +15848,6 @@ DTC.
 транспортных «пробках».
 
 ### проверке ее работоспособности и работоспособности стояночного тормоза,
-`chery_manual_tiggo_7_pro_max_rest_0117` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:272
 
 проверке ее работоспособности и работоспособности стояночного тормоза,
 рулевому управлению и подвеске).
@@ -16113,7 +16001,6 @@ OMT1E-7010
 и прилегающие к ней поверхности.
 
 ### ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
-`chery_manual_tiggo_7_pro_max_rest_0118` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:275
 
 ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
 
@@ -16306,7 +16193,6 @@ SQRF4J16C
 Рабочий объем (куб.
 
 ### ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
-`chery_manual_tiggo_7_pro_max_rest_0119` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:279
 
 ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
 
@@ -16435,7 +16321,6 @@ E22-E100
 • Для долива используйте только чистую тормозную жидкость.
 
 ### ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
-`chery_manual_tiggo_7_pro_max_rest_0120` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:281
 
 ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
 
@@ -16675,7 +16560,6 @@ Chery
 8.
 
 ### ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
-`chery_manual_tiggo_7_pro_max_rest_0121` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:285
 
 ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
 
@@ -16789,7 +16673,6 @@ Chery 6
 управления светом фар
 
 ### Наружные приборы освещения 51
-`chery_manual_tiggo_7_pro_max_rest_0122` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:288
 
 Наружные приборы освещения 51
 Настройка 32
@@ -16921,7 +16804,6 @@ SRS)165
 Система помо
 
 ### Шторка багажного отделения (для
-`chery_manual_tiggo_7_pro_max_rest_0123` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:290
 
 Шторка багажного отделения (для
 некоторых вариантов исполнения
@@ -16935,10 +16817,7 @@ SRS)165
 АЛФАВИТНЫЙ УКАЗАТЕЛЬ
 
 
-# Manual: Tiggo_7_Pro_Max_Restyled (124 chunks)
-
 ### Благодарим вас за то, что вы остановили свой выбор на новом автомобиле Chery.
-`chery_manual_tiggo_7_pro_max_rest_0000` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:1
 
 ПРЕДИСЛОВИЕ 1
 Благодарим вас за то, что вы остановили свой выбор на новом автомобиле Chery.
@@ -17049,7 +16928,6 @@ Issued March2024
 Стр.
 
 ### 1-1. Как пользоваться данным
-`chery_manual_tiggo_7_pro_max_rest_0001` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:5
 
 Содержание 5
 1. ВВЕДЕНИЕ
@@ -17232,7 +17110,6 @@ Issued March2024
 2-8.
 
 ### стеклоподъемники99
-`chery_manual_tiggo_7_pro_max_rest_0002` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:8
 
 8 Содержание
 3-3. Окна
@@ -17429,7 +17306,6 @@ USB 132
 4-5.
 
 ### 5-4. Система помощи
-`chery_manual_tiggo_7_pro_max_rest_0003` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:11
 
 Содержание 11
 исполнения
@@ -17616,7 +17492,6 @@ Chery 238
 7-1.
 
 ### идентификационным
-`chery_manual_tiggo_7_pro_max_rest_0004` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:14
 
 14 Содержание
 8. ТЕХНИЧЕСКИЕ
@@ -17798,7 +17673,6 @@ Chery 238
 компонента.
 
 ### 1-2. Символы, используемые в данном Руководстве
-`chery_manual_tiggo_7_pro_max_rest_0005` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:18
 
 1-2. Символы, используемые в данном Руководстве
 Символы, используемые в данном Руководстве
@@ -17927,7 +17801,6 @@ Ltd. В Сертификате регистрации владельца ука�
 и т. п.
 
 ### выполнения и объяснения
-`chery_manual_tiggo_7_pro_max_rest_0006` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:21
 
 ВВЕДЕНИЕ
 
@@ -18077,7 +17950,6 @@ VIN-номер:
 владельцем был закреплен индивидуальный сервисный консультант.
 
 ### Приемка автомобиля на техническое обслуживание или ремонт.
-`chery_manual_tiggo_7_pro_max_rest_0007` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:23
 
 ВВЕДЕНИЕ
 
@@ -18181,7 +18053,6 @@ VIN-номер:
 на него.
 
 ### 1-5. Проверка нового автомобиля
-`chery_manual_tiggo_7_pro_max_rest_0008` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:26
 
 1-5. Проверка нового автомобиля
 Проверка нового автомобиля
@@ -18272,7 +18143,6 @@ Chery, осуществляющего продажу и техническое �
 передачу.
 
 ### 1-7. Экономия топлива и продление срока службы автомобиля
-`chery_manual_tiggo_7_pro_max_rest_0009` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:28
 
 1-7. Экономия топлива и продление срока службы автомобиля
 Экономия топлива и продление срока службы автомобиля
@@ -18351,7 +18221,6 @@ Chery, осуществляющего продажу и техническое �
 1.
 
 ### ▇Моторный отсек и двигатель
-`chery_manual_tiggo_7_pro_max_rest_0010` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:30
 
 ▇Моторный отсек и двигатель
 1. Запасные плавкие предохранители. Убедитесь в наличии запасных плавких
@@ -18432,7 +18301,6 @@ P
 кому-нибудь травму.
 
 ### ▇Стоянка на подъеме или спуске (при отсутствии бордюрного камня)
-`chery_manual_tiggo_7_pro_max_rest_0011` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:32
 
 ▇Стоянка на подъеме или спуске (при отсутствии бордюрного камня)
 OMT1E-0003
@@ -18530,7 +18398,6 @@ OMT1E-0003
 опасности получения тяжелых травм или повреждения автомобиля.
 
 ### 1-10. Меры предосторожности при вождении в дождь
-`chery_manual_tiggo_7_pro_max_rest_0012` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:34
 
 1-10. Меры предосторожности при вождении в дождь
 Вождение по скользкой дороге
@@ -18637,7 +18504,6 @@ OMT1E-0004
 д.).
 
 ### 1-11. Меры предосторожности при вождении в зимних условиях
-`chery_manual_tiggo_7_pro_max_rest_0013` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:36
 
 1-11. Меры предосторожности при вождении в зимних условиях
 Советы по вождению в зимних условиях
@@ -18744,7 +18610,6 @@ OMT1E-0005
 рекомендуется включать систему ESP.
 
 ### Соблюдайте следующие меры предосторожности, чтобы свести к минимуму
-`chery_manual_tiggo_7_pro_max_rest_0014` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:38
 
 Соблюдайте следующие меры предосторожности, чтобы свести к минимуму
 вероятность
@@ -18876,7 +18741,6 @@ OMT1E-0005
 2-1.
 
 ### удерживающие устройства
-`chery_manual_tiggo_7_pro_max_rest_0015` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:42
 
 2-8. Детские
 удерживающие устройства
@@ -19004,7 +18868,6 @@ CRUISE
 температуру охлаждающей жидкости двигателя.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0016` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:45
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -19299,7 +19162,6 @@ OK. Для выхода
 на рулевом колесе.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0017` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:47
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -19482,7 +19344,6 @@ ON
 дальнего света фар.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0018` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:49
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -19594,7 +19455,6 @@ HOLD) работает.
 автомобиля.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0019` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:51
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -19715,7 +19575,6 @@ LDW. При первой же возможности обратитесь на
 для проверки и ремонта автомобиля.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0020` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:53
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -19836,7 +19695,6 @@ OMT1E-1020
 2.
 
 ### выключится и затем включится снова, когда температура рулевого колеса
-`chery_manual_tiggo_7_pro_max_rest_0021` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:56
 
 • Повторное нажатие выключателя обогрева рулевого колеса.
 • Когда температура рулевого колеса достигнет 52 ° C, обогрев рулевого колеса
@@ -19998,7 +19856,6 @@ OMT1E-1034
 складывания.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0022` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:59
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -20169,7 +20026,6 @@ R)
 3.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0023` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:61
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -20331,7 +20187,6 @@ R
 • Температура окружающего воздуха опустилась ниже 2 °C на 5 секунд или более.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0024` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:63
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -20535,7 +20390,6 @@ OFF
 двигателя в положение ON.
 
 ### Дальний свет фар
-`chery_manual_tiggo_7_pro_max_rest_0025` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:66
 
 Дальний свет фар
 ■Включение дальнего света фар
@@ -20714,7 +20568,6 @@ OMT1E-1060
 рядом сидений.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0026` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:69
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -20877,7 +20730,6 @@ IHC
 закрыть. В противном случае в фары может попасть вода.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0027` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:71
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -21074,7 +20926,6 @@ OMT1E-1090
 Установив сиденье в требуемое положение, отпустите рукоятку.
 
 ### Сиденье переднего пассажира с электроприводом регулировки (для некоторых
-`chery_manual_tiggo_7_pro_max_rest_0028` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:74
 
 Сиденье переднего пассажира с электроприводом регулировки (для некоторых
 вариантов исполнения автомобиля)
@@ -21246,7 +21097,6 @@ OMT1E-1096
 работают при работающем двигателе.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0029` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:77
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -21433,7 +21283,6 @@ ACC
 2.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0030` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:79
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -21591,7 +21440,6 @@ OMT1E-1102
 • Одним ремнем должен пристегиваться только один человек.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0031` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:81
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -21735,7 +21583,6 @@ Chery
 вещества, горячую воду, отбеливатели или красящие вещества.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0032` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:83
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -21884,7 +21731,6 @@ OMT1E-1107
 3.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0033` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:85
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -21950,7 +21796,6 @@ ISOFIX.
 заменить детское удерживающее устройство.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0034` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:87
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -22098,7 +21943,6 @@ OMT1E-1110
 1.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0035` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:89
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -22262,7 +22106,6 @@ X
 R14 и ECE R145.
 
 ### ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
-`chery_manual_tiggo_7_pro_max_rest_0036` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:91
 
 ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ
 
@@ -22473,7 +22316,6 @@ X
 удерживающего устройства.
 
 ### детского удерживающего устройства и
-`chery_manual_tiggo_7_pro_max_rest_0037` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:94
 
 OMT1E-1114
 Шаг
@@ -22612,7 +22454,6 @@ OMT1E-1114
 происшествии.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0038` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:97
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -22802,7 +22643,6 @@ USB 132
 3-1.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0039` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:101
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -22930,7 +22770,6 @@ OMT1E-2012
 поблизости нет воды.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0040` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:103
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -23073,7 +22912,6 @@ OMT1E-2014
 м.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0041` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:105
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -23215,7 +23053,6 @@ OMT1E-2016
 В противном случае автомобиль может остаться незапертым.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0042` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:107
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -23381,7 +23218,6 @@ OMT1E-2018
 1.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0043` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:109
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -23491,7 +23327,6 @@ OMT1E-2020
 автомобиля, нажмите кнопку.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0044` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:111
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -23613,7 +23448,6 @@ OMT1E-2025
 ребенок может открыть заднюю дверь во время движения автомобиля.
 
 ### голосовых команд см. «Аудиосистема».
-`chery_manual_tiggo_7_pro_max_rest_0045` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:114
 
 • Для
 получения
@@ -23726,7 +23560,6 @@ OMT1E-2031
 автоматического закрывания окон приведет к остановке стекол.
 
 ### Процедура обучения
-`chery_manual_tiggo_7_pro_max_rest_0046` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:116
 
 Процедура обучения
 Если
@@ -23808,7 +23641,6 @@ OMT1E-2040
 шторки.
 
 ### голосовых команд см. «Аудиосистема».
-`chery_manual_tiggo_7_pro_max_rest_0047` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:118
 
 • Для
 получения
@@ -23909,7 +23741,6 @@ OMT1E-2040
 движения.
 
 ### 3-5. Аудиосистема
-`chery_manual_tiggo_7_pro_max_rest_0048` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:120
 
 3-5. Аудиосистема
 Панель управления аудиосистемой
@@ -24079,7 +23910,6 @@ rhythm
 OFF (Выключено).
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0049` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:123
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -24240,7 +24070,6 @@ Automatic rear view mirror adjustment in reversing (Автоматическое
 3.
 
 ### Кнопки управления аудиосистемой
-`chery_manual_tiggo_7_pro_max_rest_0050` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:126
 
 Кнопки управления аудиосистемой
 OMT1E-2061
@@ -24373,7 +24202,6 @@ OMT1E-3510
 3.
 
 ### автомобилю впервые (на головном
-`chery_manual_tiggo_7_pro_max_rest_0051` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:128
 
 OMT1E-3520
 4.Если
@@ -24541,7 +24369,6 @@ rts wire
 rts wirele
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0052` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:131
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -24713,7 +24540,6 @@ ION
 включении.
 
 ### При запотевании ветрового стекла во время движения рекомендуется включить
-`chery_manual_tiggo_7_pro_max_rest_0053` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:134
 
 При запотевании ветрового стекла во время движения рекомендуется включить
 режим обдува ветрового стекла. Для получения дополнительной информации см.
@@ -24821,7 +24647,6 @@ ION
 низкой или высокой скорости).
 
 ### официального дилера Chery для проверки и ремонта автомобиля.
-`chery_manual_tiggo_7_pro_max_rest_0054` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:136
 
 • Если кондиционер не охлаждает воздух, это затрудняет удаление конденсата со
 стекол.
@@ -24901,7 +24726,6 @@ ION
 воздуха.
 
 ### кондиционера в чистоте.
-`chery_manual_tiggo_7_pro_max_rest_0055` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:138
 
 • Снижение эффективности работы системы может быть вызвано загрязнением и
 засорением
@@ -25022,7 +24846,6 @@ ION
 официального дилера Chery для проверки и ремонта системы.
 
 ### Функция очистки воздуха (для некоторых вариантов исполнения
-`chery_manual_tiggo_7_pro_max_rest_0056` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:140
 
 Функция очистки воздуха (для некоторых вариантов исполнения
 автомобиля)
@@ -25204,7 +25027,6 @@ OMT1E-2067
 на зарядном устройстве.
 
 ### Способы использования
-`chery_manual_tiggo_7_pro_max_rest_0057` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:142
 
 Способы использования
 AUTO
@@ -25342,7 +25164,6 @@ ON.
 карт, стаканов и других предметов.
 
 ### ■При погрузке багажа в автомобиль соблюдайте описываемые ниже
-`chery_manual_tiggo_7_pro_max_rest_0058` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:144
 
 ■При погрузке багажа в автомобиль соблюдайте описываемые ниже
 меры предосторожности.
@@ -25442,7 +25263,6 @@ OMT1E-2150
 передней части консоли.
 
 ### 3-10. Разъем USB
-`chery_manual_tiggo_7_pro_max_rest_0059` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:146
 
 3-10. Разъем USB
 Передний разъем USB
@@ -25608,7 +25428,6 @@ OMT1E-2191
 за ручку.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0060` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:149
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -25789,7 +25608,6 @@ OMT1E-2202
 защиты от защемления остановит дверь во избежание ее повреждения.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0061` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:151
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -25896,7 +25714,6 @@ OMT1E-2202
 сработать.
 
 ### ОБОРУДОВАНИЕ АВТОМОБИЛЯ
-`chery_manual_tiggo_7_pro_max_rest_0062` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:153
 
 ОБОРУДОВАНИЕ АВТОМОБИЛЯ
 
@@ -26058,7 +25875,6 @@ OMT1E-2211
 двигателя в положение OFF и закройте все двери и окна.
 
 ### ПУСК ДВИГАТЕЛЯ И УПРАВЛЕНИЕ АВТОМОБИЛЕМ
-`chery_manual_tiggo_7_pro_max_rest_0063` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:157
 
 ПУСК ДВИГАТЕЛЯ И УПРАВЛЕНИЕ АВТОМОБИЛЕМ
 
@@ -26207,7 +26023,6 @@ START.
 не обнаружен).
 
 ### Шаг 2. Переведите выключатель пуска двигателя в положение START (индикатор
-`chery_manual_tiggo_7_pro_max_rest_0064` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:160
 
 Шаг 2. Переведите выключатель пуска двигателя в положение START (индикатор
 загорится зеленым светом) и нажмите его для пуска двигателя.
@@ -26292,7 +26107,6 @@ OMT1E-3011
 2.
 
 ### Адаптивная система управления двигателем
-`chery_manual_tiggo_7_pro_max_rest_0065` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:162
 
 Адаптивная система управления двигателем
 После отсоединения и последующего подсоединения аккумуляторной батареи
@@ -26401,7 +26215,6 @@ P (стоянка)
 механически.
 
 ### автоматическое переключение на смежную повышенную передачу.
-`chery_manual_tiggo_7_pro_max_rest_0066` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:164
 
 • В режиме ручного переключения доступна функция кикдауна, но недоступно
 автоматическое переключение на смежную повышенную передачу.
@@ -26484,7 +26297,6 @@ R
 4.
 
 ### 4-4. Интеллектуальная система полного привода (AWD)
-`chery_manual_tiggo_7_pro_max_rest_0067` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:166
 
 4-4. Интеллектуальная система полного привода (AWD)
 Интеллектуальная система полного привода (AWD) (для некоторых
@@ -26597,7 +26409,6 @@ OFF-ROAD
 1.
 
 ### Описание режимов вождения
-`chery_manual_tiggo_7_pro_max_rest_0068` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:168
 
 Описание режимов вождения
 В приведенной ниже таблице дана информация о разных режимах вождения и их
@@ -26697,7 +26508,6 @@ OFF ROAD — более интенсивное.
 опрокидывания.
 
 ### таить много опасностей. Вы можете сразу не распознать ямы, канавы, колеи,
-`chery_manual_tiggo_7_pro_max_rest_0069` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:170
 
 • Даже если участок с пересеченной местностью выглядит безопасным, он может
 таить много опасностей. Вы можете сразу не распознать ямы, канавы, колеи,
@@ -26770,7 +26580,6 @@ OFF ROAD — более интенсивное.
 дилера Chery.
 
 ### длительного времени может вызвать выход из строя механизма электрического
-`chery_manual_tiggo_7_pro_max_rest_0070` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:172
 
 • Частое
 маневрирование
@@ -26916,7 +26725,6 @@ ON,
 тормоза.
 
 ### Перед буксировкой автомобиля необходимо выключить стояночный тормоз и
-`chery_manual_tiggo_7_pro_max_rest_0071` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:174
 
 Перед буксировкой автомобиля необходимо выключить стояночный тормоз и
 включить нейтральную передачу.
@@ -27007,7 +26815,6 @@ ON,
 4.
 
 ### Система автоматического удержания автомобиля
-`chery_manual_tiggo_7_pro_max_rest_0072` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:176
 
 Система автоматического удержания автомобиля
 На
@@ -27154,7 +26961,6 @@ OMT1E-3041
 выключить ее и оставить включенным стояночный тормоз с электроприводом.
 
 ### Рабочая тормозная система
-`chery_manual_tiggo_7_pro_max_rest_0073` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:178
 
 Рабочая тормозная система
 OMT1E-3042
@@ -27299,7 +27105,6 @@ OMT1E-3042
 автомобиля.
 
 ### Подушка безопасности водителя
-`chery_manual_tiggo_7_pro_max_rest_0074` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:180
 
 Подушка безопасности водителя
 Подушка безопасности переднего
@@ -27481,7 +27286,6 @@ OMT1E-3052
 срабатывания модуль подушки безопасности подлежит замене.
 
 ### Сигнализатор неисправности подушек безопасности
-`chery_manual_tiggo_7_pro_max_rest_0075` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:182
 
 Сигнализатор неисправности подушек безопасности
 В случае неисправности подушек безопасности загорается красный сигнализатор "
@@ -27636,7 +27440,6 @@ OMT1E-3058
 столкн
 
 ### Меры предосторожности,, связанные сс подушками безопасности
-`chery_manual_tiggo_7_pro_max_rest_0076` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:184
 
 М
 Меры предосторожности,, связанные сс подушками безопасности
@@ -27818,7 +27621,6 @@ OMT1E-3064
 5.
 
 ### СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
-`chery_manual_tiggo_7_pro_max_rest_0077` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:187
 
 СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
 
@@ -27973,7 +27775,6 @@ OMT1E-3064
 когда автомобиль неподвижен.
 
 ### автомобиля достигает или превышает 8 км/ч.
-`chery_manual_tiggo_7_pro_max_rest_0078` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:190
 
 • После пуска двигателя или поворота рулевого колеса на большой угол скорость
 автомобиля достигает или превышает 8 км/ч.
@@ -28066,7 +27867,6 @@ OMT1E-3064
 ».
 
 ### 5-2. Система распознавания знаков ограничения скорости (SLA)
-`chery_manual_tiggo_7_pro_max_rest_0079` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:192
 
 5-2. Система распознавания знаков ограничения скорости (SLA)
 Система распознавания знаков ограничения скорости (SLA) (для
@@ -28253,7 +28053,6 @@ ON
 5.
 
 ### СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
-`chery_manual_tiggo_7_pro_max_rest_0080` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:195
 
 СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
 
@@ -28387,7 +28186,6 @@ NORMAL
 круиз-контроля.
 
 ### СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
-`chery_manual_tiggo_7_pro_max_rest_0081` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:197
 
 СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
 
@@ -28473,7 +28271,6 @@ NORMAL
 дорожного движения.
 
 ### СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
-`chery_manual_tiggo_7_pro_max_rest_0082` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:199
 
 СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
 
@@ -28583,7 +28380,6 @@ NORMAL
 среагировать с задержкой.
 
 ### 8.Водитель должен поддерживать безопасную дистанцию до впередиидущего
-`chery_manual_tiggo_7_pro_max_rest_0083` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:200
 
 8. Водитель должен поддерживать безопасную дистанцию до впередиидущего
 транспортного
@@ -28748,7 +28544,6 @@ NORMAL
 Способ 1.
 
 ### Если во время работы ограничителя скорости возникнет необходимость в обгоне
-`chery_manual_tiggo_7_pro_max_rest_0084` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:202
 
 Обгон
 Если во время работы ограничителя скорости возникнет необходимость в обгоне
@@ -28855,7 +28650,6 @@ OMT1E-4076
 9.
 
 ### обратиться на сервисную станцию официального дилера Chery для проверки и
-`chery_manual_tiggo_7_pro_max_rest_0085` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:204
 
 обратиться на сервисную станцию официального дилера Chery для проверки и
 ремонта автомобиля.
@@ -28993,7 +28787,6 @@ HDC
 по полосе (LKA).
 
 ### работоспособность системы снижается.
-`chery_manual_tiggo_7_pro_max_rest_0086` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:206
 
 • При наличии дорожной разметки только с одной стороны от автомобиля
 работоспособность системы снижается.
@@ -29097,7 +28890,6 @@ LKA
 8.
 
 ### Система предупреждения о смене полосы движения (LDW) (для
-`chery_manual_tiggo_7_pro_max_rest_0087` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:208
 
 Система предупреждения о смене полосы движения (LDW) (для
 некоторых вариантов исполнения автомобиля)
@@ -29213,7 +29005,6 @@ Driving
 эксплуатации автомобиля.
 
 ### двигателя в положение ON.
-`chery_manual_tiggo_7_pro_max_rest_0088` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:210
 
 • Включить или выключить систему BSD можно с помощью головного устройства
 аудиосистемы.
@@ -29365,7 +29156,6 @@ OMT1E-4061
 был включен режим охраны противоугонной системы.
 
 ### 5-8. Система автоматического экстренного торможения (AEB)/
-`chery_manual_tiggo_7_pro_max_rest_0089` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:212
 
 5-8. Система автоматического экстренного торможения (AEB)/
 система предупреждения о фронтальном столкновении (FCW)
@@ -29433,7 +29223,6 @@ FCW и AEB работать не будут.
 • Система AEB выполняет лишь вспомогательную функцию.
 
 ### велосипеда, а также по характерным для велосипедиста движениям. Система
-`chery_manual_tiggo_7_pro_max_rest_0090` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:214
 
 • Велосипедистов система AEB распознает по очертаниям человеческого тела и
 велосипеда, а также по характерным для велосипедиста движениям. Система
@@ -29509,7 +29298,6 @@ AEB (подача предупреждений или торможение). В 
 загрязнений.
 
 ### СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
-`chery_manual_tiggo_7_pro_max_rest_0091` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:215
 
 СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
 
@@ -29685,7 +29473,6 @@ NORMAL
 давлении воздуха в шинах.
 
 ### СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
-`chery_manual_tiggo_7_pro_max_rest_0092` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:217
 
 СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
 
@@ -29793,7 +29580,6 @@ Chery для проверки и ремонта автомобиля.
 безопасной.
 
 ### СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
-`chery_manual_tiggo_7_pro_max_rest_0093` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:219
 
 СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
 
@@ -29934,7 +29720,6 @@ ON,
 Способ 3.
 
 ### СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
-`chery_manual_tiggo_7_pro_max_rest_0094` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:221
 
 СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ
 
@@ -30045,7 +29830,6 @@ OMT1E-4105
 5.
 
 ### Система сигнализации при парковке (для некоторых вариантов
-`chery_manual_tiggo_7_pro_max_rest_0095` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:224
 
 Система сигнализации при парковке (для некоторых вариантов
 исполнения автомобиля)
@@ -30167,7 +29951,6 @@ P
 (стоян
 
 ### на дисплее одновременно. При этом звуковой сигнал предупреждает только о
-`chery_manual_tiggo_7_pro_max_rest_0096` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:226
 
 на дисплее одновременно. При этом звуковой сигнал предупреждает только о
 приближении к ближайшему препятствию.
@@ -30320,7 +30103,6 @@ OMT1E-4069
 1.
 
 ### 1. Нажмите педаль тормоза
-`chery_manual_tiggo_7_pro_max_rest_0097` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:228
 
 OMT1E-4130
 1. Нажмите педаль тормоза
@@ -30459,7 +30241,6 @@ ABS
 4.
 
 ### обнаружила, что частота вращения ведущих колес превышает частоту вращения
-`chery_manual_tiggo_7_pro_max_rest_0098` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:230
 
 обнаружила, что частота вращения ведущих колес превышает частоту вращения
 ведомых колес (что может свидетельствовать о пробуксовке), она корректирует
@@ -30546,7 +30327,6 @@ MII))
 6-3.
 
 ### 6-1. Ваши действия в экстренной ситуации
-`chery_manual_tiggo_7_pro_max_rest_0099` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:232
 
 6-1. Ваши действия в экстренной ситуации
 Система ЭРА-ГЛОНАСС
@@ -30658,7 +30438,6 @@ OMT1E-5005
 сервисный центр. Запрещается проводить ремонт самостоятельно.
 
 ### Возможные варианты индикации состояния изделия приведены в таблице.
-`chery_manual_tiggo_7_pro_max_rest_0100` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:234
 
 Возможные варианты индикации состояния изделия приведены в таблице.
 Таблица 1. Индикация состояний системы
@@ -30817,7 +30596,6 @@ OMT1E-5040
 под ковровым покрытием пола.
 
 ### На обычных дорогах знак аварийной
-`chery_manual_tiggo_7_pro_max_rest_0101` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:236
 
 Не менее 50 м
 OMT1E-5050
@@ -30970,7 +30748,6 @@ OMT1E-5090
 1.
 
 ### В СЛУЧАЕ НЕИСПРАВНОСТИ
-`chery_manual_tiggo_7_pro_max_rest_0102` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:239
 
 В СЛУЧАЕ НЕИСПРАВНОСТИ
 
@@ -31128,7 +30905,6 @@ OMT1E-5170
 по неровному дорожному покрытию.
 
 ### Перегрев охлаждающей жидкости двигателя
-`chery_manual_tiggo_7_pro_max_rest_0103` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:242
 
 Перегрев охлаждающей жидкости двигателя
 Если во время движения автомобиля произошел перегрев охлаждающей жидкости
@@ -31286,7 +31062,6 @@ OFF
 Шаг 3.
 
 ### обратитесь на сервисную станцию официального дилера Chery для проверки и
-`chery_manual_tiggo_7_pro_max_rest_0104` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:244
 
 • Если аккумуляторная батарея часто разряжается, при первой же возможности
 обратитесь на сервисную станцию официального дилера Chery для проверки и
@@ -31396,7 +31171,6 @@ OMT1E-5200
 за «положительный» (+) вывод аккумуляторной батареи и за кузов автомобиля.
 
 ### Если двигатель не запускается
-`chery_manual_tiggo_7_pro_max_rest_0105` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:246
 
 Если двигатель не запускается
 Если двигатель не запускается, убедитесь, что ваши действия соответствуют
@@ -31516,7 +31290,6 @@ OMT1E-5210
 зафиксирован на эвакуаторе.
 
 ### Буксировка неисправного автомобиля
-`chery_manual_tiggo_7_pro_max_rest_0106` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:248
 
 Буксировка неисправного автомобиля
 При
@@ -31649,7 +31422,6 @@ OMT1E-5240
 Шаг 2.
 
 ### 6-4. Предохранители
-`chery_manual_tiggo_7_pro_max_rest_0107` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:250
 
 6-4. Предохранители
 Блок предохранителей
@@ -31793,7 +31565,6 @@ OMT1E-5280
 • Если решить проблему не удается, обращайтесь к руководителю отдела технического обслуживания. Он найдет оптимальное решение.
 
 ### ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
-`chery_manual_tiggo_7_pro_max_rest_0108` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:253
 
 ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
 
@@ -31946,7 +31717,6 @@ Ltd.
 необходимыми оригинальными запасными частями.
 
 ### ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
-`chery_manual_tiggo_7_pro_max_rest_0109` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:255
 
 ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
 
@@ -32045,7 +31815,6 @@ Ltd.
 самостоятельно.
 
 ### ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
-`chery_manual_tiggo_7_pro_max_rest_0110` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:257
 
 ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
 
@@ -32195,7 +31964,6 @@ MIN
 • Используйте только тормозную жидкость, рекомендованную компанией Chery.
 
 ### ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
-`chery_manual_tiggo_7_pro_max_rest_0111` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:259
 
 ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
 
@@ -32277,7 +32045,6 @@ Chery приниматься не будут.
 150 к Па. В противном случае вы можете повредить ребра радиатора.
 
 ### ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
-`chery_manual_tiggo_7_pro_max_rest_0112` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:261
 
 ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
 
@@ -32402,7 +32169,6 @@ OMT1E-6080
 нормальное явление.
 
 ### ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
-`chery_manual_tiggo_7_pro_max_rest_0113` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:263
 
 ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
 
@@ -32500,7 +32266,6 @@ Chery
 • Своевременно устраняйте сколы от ударов камней на ветровом стекле.
 
 ### ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
-`chery_manual_tiggo_7_pro_max_rest_0114` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:265
 
 ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
 
@@ -32622,7 +32387,6 @@ DTC.
 Проверка: работа системы ЭРА ГЛОНАСС.
 
 ### ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
-`chery_manual_tiggo_7_pro_max_rest_0115` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:267
 
 ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
 
@@ -32789,7 +32553,6 @@ DTC.
 П
 
 ### Замена не требуется (кроме случаев неисправности)
-`chery_manual_tiggo_7_pro_max_rest_0116` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:270
 
 Операции
 технического
@@ -32896,7 +32659,6 @@ DTC.
 транспортных «пробках».
 
 ### проверке ее работоспособности и работоспособности стояночного тормоза,
-`chery_manual_tiggo_7_pro_max_rest_0117` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:272
 
 проверке ее работоспособности и работоспособности стояночного тормоза,
 рулевому управлению и подвеске).
@@ -33050,7 +32812,6 @@ OMT1E-7010
 и прилегающие к ней поверхности.
 
 ### ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
-`chery_manual_tiggo_7_pro_max_rest_0118` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:275
 
 ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
 
@@ -33243,7 +33004,6 @@ SQRF4J16C
 Рабочий объем (куб.
 
 ### ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
-`chery_manual_tiggo_7_pro_max_rest_0119` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:279
 
 ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
 
@@ -33372,7 +33132,6 @@ E22-E100
 • Для долива используйте только чистую тормозную жидкость.
 
 ### ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
-`chery_manual_tiggo_7_pro_max_rest_0120` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:281
 
 ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
 
@@ -33612,7 +33371,6 @@ Chery
 8.
 
 ### ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
-`chery_manual_tiggo_7_pro_max_rest_0121` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:285
 
 ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
 
@@ -33726,7 +33484,6 @@ Chery 6
 управления светом фар
 
 ### Наружные приборы освещения 51
-`chery_manual_tiggo_7_pro_max_rest_0122` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:288
 
 Наружные приборы освещения 51
 Настройка 32
@@ -33858,7 +33615,6 @@ SRS)165
 Система помо
 
 ### Шторка багажного отделения (для
-`chery_manual_tiggo_7_pro_max_rest_0123` | tiggo_7_pro_max_restyled | pdf_manual | tier:4 | lang:ru | p:290
 
 Шторка багажного отделения (для
 некоторых вариантов исполнения
@@ -33870,4 +33626,3 @@ SRS)165
 Электрический усилитель
 рулевого управления (EPS) 157
 АЛФАВИТНЫЙ УКАЗАТЕЛЬ
-

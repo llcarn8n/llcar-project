@@ -1,8 +1,10 @@
-# Manual: baic/bj40 (413 chunks)
-<!-- doc_type:service_manual tier:4 lang:en -->
+---
+brand: baic
+model: bj40
+generation: bj40_2019
+source: kb
+---
 
-### Section p.1
-`baic_bj40_en_66e57a02` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Thank you for choose BJ40.
 
@@ -26,8 +28,6 @@ A R
 
 The company will continue to improve all models, so we reserve the right to make changes to any part of the vehicle, equipment or technical specifications at any time, thanks for your understanding. Data related to delivery scope, appearance, performance, size, weight, fuel consumption rate, specifications, and vehicle functions are all accurate at the time of printing. Some of the equipment described in this article may not be equipped on the model (please contact BAIC authorised dealership 1 your territory。
 
-### Section p.1
-`baic_bj40_en_d3540441` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 No part of this manual may be reproduced, copied, or translated without the written consent of the company, and may not be reproduced, stored in a public retrieval system, or transmitted electronically, mechanically, o in any other form.
 The company reaffirms that it is solely responsible for the revision, interpretation and explanation of this user manual, and reserves all rights and rights of modification as stipulated in the Copyright Law.
@@ -35,7 +35,6 @@ The company reaffirms that it is solely responsible for the revision, interpreta
 BAIC International Development Co., Ltd
 
 ### 1.Safety operation instruction 3. Driving Guide 134
-`baic_bj40_en_ba94e878` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Safety Driving . ·····
 Seat Belt .  ·.. 10 Airbag system  21 Children safety    33 Safety label ...·.················
@@ -45,7 +44,6 @@ Drivetrian system 145
 Parking assistant system     160
 
 ### 2. Operation of each component 40
-`baic_bj40_en_07a1d368` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Driving cabin. ················ .41
 Start and stop ..···. .74
@@ -54,7 +52,6 @@ Seats and storage   ··.. 119
 Accessories and refitting .   132
 
 ### 4. Maintenance 173
-`baic_bj40_en_3a927f3a` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Safety Maintenance .174
 Fuel System   177
@@ -70,7 +67,6 @@ Windshield washer fluid and wiper blade . ..211
 Tyre   \*\*\* . .214
 
 ### 5. When trouble arise .. 222
-`baic_bj40_en_24de2ade` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning triangle   ..223
 Spare tire and tools .224
@@ -80,18 +76,15 @@ Emergency Start .239
 Emergency to be towed · .241
 
 ### 1. Safe operation instruction
-`baic_bj40_en_99ccc86a` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Safe Driving
 Seat Belt   10 Airbag system ...21 Vehicle safety for Children
 
 ### General Instructions
-`baic_bj40_en_a12a64b5` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This chapter mainly introduces important information, operating methods, recommendations and safety precautions for safe driving. For the safety of you and the occupants, please read and abide by relevant regulations.
 
 ### Cautions
-`baic_bj40_en_13846ce3` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 The user should correctly identify the names of the various parts of the car before driving to understand the correct use of each switch.
 
@@ -100,44 +93,36 @@ Learn about the proper use of the accelerator pedal, brake pedal, steering wheel
 ![](images/fb007966c7047cdccf97807d725776db3bc6670b35ce4db202c5b49a61791545.jpg)
 
 ### Correctly adjust the seat
-`baic_bj40_en_90e7476e` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before drive the vehicle, all passengers should make the seat back upright, adjust the seat back and fasten the seat belt correctly.
 
 ### Always fasten the seat belt
-`baic_bj40_en_1fa4e66f` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Seat belts provide the best protection in all types of crashes. Although the airbag can assist the seat belt to protect it, the airbag is designed to inflate only when it hits the medium to severe front (within 30 degrees to the left and right). In addition, if the seat belt is not fasten before the crash, the airbag will even hurt the passengers. So even if your vehicle is equipped with airbags, make sure that you and all the passengers fasten the seat belts correctly.
 
 ### All children are properly accommodated
-`baic_bj40_en_73bec188` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Children should be properly placed in the rear seats instead of the front seats, which is the safest. When a child is too small to fasten a seat belt, it must be properly placed in the child protection device.
 
 ### Be aware of the dangers of air bags
-`baic_bj40_en_0dffcb6d` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Airbags provide protection, but they can also cause serious or even fatal injuries to passengers who are too close or not properly protected. Especially for babies, young children and short stature adults. Be sure to follow all the instructions in this manual
 
 ### Do not drive after drinking
-`baic_bj40_en_ccd07637` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You can't drive after drinking. After drinking, your ability to respond to changes in the environment will be reduced. The more you drink, the slower the reaction. So don’t drink and drive, don’t let your friends drink and drive.
 
 ### Control the speed
-`baic_bj40_en_31895118` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Overspeed is the main cause of crash accidents. The faster the speed, the greater the risk. Do not overspeed the specified maximum speed limit and safety conditions beyond driving.
 
 ### Keep the vehicle in safe driving
-`baic_bj40_en_fff82dfd` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Tire bursting or mechanical failure is extremely dangerous. To reduce the possibility of such problems, the tires and condition should be checked frequently and the regular maintenance as specified in the maintenance schedule should be completed.
 
 △ Warning Do not distract yourself from outside factors while driving, such as talking to the passengers or making a phone call. ●Do not drive a car when the reaction capacity is declining. Drugs, alcohol and drugs can weaken people's responsiveness. ●Strictly abide by traffic regulations and speed limits. ●Always pay attention to reduce the speed of the car and always adapt the speed to the current road conditions, traffic flow and weather conditions.
 
 ### The properly sitting posture Correct Sitting Posture of Driver
-`baic_bj40_en_a1715b78` | bj40 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 The sitting posture of the driver relates directly to driving safety and the degree of driver fatigue.
 
@@ -162,7 +147,6 @@ Ensure that you can hold the highest point of the steering wheel by slightly ben
 ![](images/ec3b76f7e92dbcbac51160aa515d1fd76da11d674a7a48f3066456ab43cbbe34.jpg)
 
 ### Correct Sitting Posture of Front Passenger
-`baic_bj40_en_c50c7ce4` | bj40 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 To ensure his/her safety and to reduce the risk of injury, the front passenger should perform the following operations：
 
@@ -189,19 +173,16 @@ Correct Sitting Posture for Rear Passengers To ensure safety and reduce the risk
 When carrying children, make sure to adopt proper measures in accordance with the relevant provisions.
 
 ### Correctly Adjust Headrest
-`baic_bj40_en_83432a2b` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/514b905b1df8e2581ee644280f8e9a7db43b47454068c674a3be0d4d09c5820d.jpg)
 
 Adjust the headrest so that its upper edge is level with the top of your head, and keep the back of your head as close to the headrest as possible.
 
 ### Cautions
-`baic_bj40_en_d2d7a640` | bj40 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 The lowest position of BJ40L rear seat headrest is not the service position, so before using it, the user must adjust it to the effective lock position to avoid hazard.
 
 ### 4 Warning
-`baic_bj40_en_17857c8e` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the headrest is removed or is improperly adjusted, passengers could easily be injured or even be killed during emergency braking or accidents! To reduce the risk of accident injuries, be absolutely sure to strictly follow the following instructions:
 ●The headrest must always remain in the correct position, and be correctly adjusted. ● The driver and all passengers must adjust their headrest to the right position based on their body characteristics. The upper edge of the headrest must be level with the top of the head as much as possible, and the back of the head should be as close to the headrest as possible.
@@ -210,7 +191,6 @@ While the vehicle is running, do NOT adjust the headrest. If you feel that you h
 been started, be sure to immediately stop the vehicle and only start driving again after you have adjusted the headrest to the correct position.
 
 ### The Pedal Area
-`baic_bj40_en_54d4d28d` | bj40 | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 (Only for models with manual transmission)
 
@@ -232,14 +212,12 @@ When driving the vehicle, ensure that all the pedals can be fully pressed to the
 ![](images/af956b2e6e3c2edb6be5f0761cc6de024cdc7755dfc9451baa5ab743ea2ff782.jpg)
 
 ### Driver Side Foot Mat
-`baic_bj40_en_3efc0372` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The foot mat should be fixed inside the foot well and should not obstruct pedal movement
 
 ![](images/9362454d2ccb18e5249108a6d61dc33aada8b1d5c74c30bd05e110532518ac71.jpg)
 
 ### 1. General Instructions
-`baic_bj40_en_97bc2742` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Your life is precious. Please make sure that you wear a seat belt!
 
@@ -256,7 +234,6 @@ This Section conveys the message that correct use of seat belts can markedly red
 ●Do NOT share a seat belt between two people (even if they are children). If your child sits on your knees, wearing a seat belt in this way can be dangerous to your child.
 
 ### 4 Warning
-`baic_bj40_en_6ffcc698` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ●When driving, do NOT loosen a fastened seat belt.
 ●The seat belt must not be in contact with fragile subjects (such as glasses, ball pen, etc.), because this may lead to injury.
@@ -275,12 +252,10 @@ The other sections of this Chapter will explain in greater detail how to ensure 
 However, please note that even when a seat belt is used correctly and the airbag has been inflated, it is still not possible to completely rule out the risk of death in accidents involving violent vehicle collisions.
 
 ### Why should seat belt be used?
-`baic_bj40_en_a8ce7108` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When a vehicle is in a frontal collision, the seat belt can reduce the forward inertia of the driver and passengers and minimize impact injuries on the vehicle passengers.
 
 ### Physical Principles of Frontal Collisions
-`baic_bj40_en_e603d9b5` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/227036c0599576af743e9a8c19b9c42a5da8360c42c2e1a7e872edfd36488de5.jpg)
 
@@ -291,7 +266,6 @@ When driving, the vehicle and passengers all have energy (kinetic energy). The i
 Passengers who do not fasten their seat belts are not “combined” with the vehicle into one body. Consequently, during a frontal collision, these vehicle occupants will continue to move forward at the pre-collision speed. The physical principle of collision introduced in this example applies to both frontal vehicle collisions and all other types of vehicle collision.
 
 ### Consequences of Not Wearing a Seat Belt
-`baic_bj40_en_cb32c211` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Many people think that during a light vehicle collision, they can use their hands to protect their body and thus prevent injury. This is a misunderstanding!
 
@@ -306,7 +280,6 @@ Even if the vehicle’s speed is very low, the force acting on the human body is
 Rear passengers must also wear seat belts correctly. Otherwise, they will be thrown violently forward during a collision. Those rear passengers who are not wearing seat belts will not only be injured, but also endanger other occupants inside the vehicle.
 
 ### 4 Warning
-`baic_bj40_en_dc4ca9a4` | bj40 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 ●Do NOT use your hands to try to protect your body during a collision. It may cause serious injury to you.
 ● There is no way for the airbag to replace the function of the seat belt. Regardless of whether an airbag is equipped, it is always necessary to wear a seatbelt correctly.
@@ -319,7 +292,6 @@ Wearing seat belts correctly can keep the driver and passengers in proper positi
 4 Warning ●The seat belt must be worn in the correct position. ●Sharing one seat belt between two people is prohibited, even if they are children. When driving, be sure to constantly maintain the correct sitting posture, and wear a seat belt throughout your journey. Do NOT unfasten your seat belt during your journey. This can lead to accidents and injury. ●Do NOT damage or clamp the seat belt or allow it come into contact with sharp edges which may cause friction. ● When wearing a seat belt, try to avoid wearing loose clothing (remove it if you have already put it on) so as to prevent it from affecting the fit between the belt and the body. ●Be sure to always keep the seat belt system clean and in good condition. Do NOT let alien matter or liquid enter the buckle of the seat belt. ●Unauthorized seat belt removal or repair is strictly prohibited.
 
 ### Seat Belt Unfastened Warning Light
-`baic_bj40_en_2bfbe470` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e1c22d40ee98b56ec00f1ab02bea80118c084a007c75f2f29b3ef875180c1738.jpg)
 
@@ -328,7 +300,6 @@ If the ignition switch has been turned on but the driver does not fasten the sea
 Front passenger seat is also provided with seat belt unlock alarm to warn the passengers of correct use of the seat belt.
 
 ### Correctly Wear a Seat Belt Wear a Front Seat Belt
-`baic_bj40_en_40f56a4a` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/24585431ef2fbd52ea009037b710b44fb33af2504d087b91c66578844f99eb0e.jpg)
 
@@ -343,7 +314,6 @@ Be sure to pull out the seat belt after it has fully retracted. If the seat belt
 ![](images/4cb680a6a6ecfd8c85047510dcff8e618fd648b1a5dc8e1a4c0175fd768f1439.jpg)
 
 ### Wear a Rear Seat Belt
-`baic_bj40_en_641ebc81` | bj40 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 ![](images/5a86aafa2efed9957957a4c2d7ff7b20c28de815e1359e11c3b8d24e25b2082f.jpg)
 
@@ -354,7 +324,6 @@ Adjust the headrest of the rear seat if needed, sit upright in the rear seat and
 ![](images/2efb6c8be32df57999eae2ea8d6646ccb740a6c8865651e7f9ea096735006290.jpg)
 
 ### Seat belt Wearing Position
-`baic_bj40_en_0dc8972f` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/18cfafe7ced258b246e76719f4242c0175cee437d19c720b300d38d1923d4a56.jpg)
 
@@ -365,7 +334,6 @@ The protective role of the seat belt can only come into full play when it is cor
 △ Warning The protective role of the seat belt can only come into full play when the back rest is in an upright position and the seat belt is correctly fastened. In the event of an accident, wearing a seat belt incorrectly may cause serious injury to passengers! ●The seat belt must pass over the mid-part of the shoulders of the passenger. Do NOT tie it round the neck. ●The seat belt must remain flat and lay close to the chest of the user. ●The seat belt must pass over the pelvic area of the user. Do NOT press it against the stomach. The seat belt must lay flat, be close to the pelvic area, and be tightened as needed. ● If the seat belt is not fastened tightly enough and slides towards the stomach or neck, it may cause serious injury to passengers.
 
 ### Adjust seat belt height
-`baic_bj40_en_bec47256` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/83d8d9e1a0e6c599baea3f1cf6a512a086fa34018dec89a3d8463beb8e326eba.jpg)
 
@@ -387,7 +355,6 @@ When driving, you should keep an upright sitting posture and move the driver’s
 During each pre-natal check, be sure to ask the doctor whether it is still wise for you to drive.
 
 ### Unfastening Seat Belt
-`baic_bj40_en_b2697925` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8351d082a40012058449dcc0b1acc6861cf9bf65f3fc3a14aeb585cde0348e02.jpg)
 
@@ -398,21 +365,18 @@ During each pre-natal check, be sure to ask the doctor whether it is still wise 
 O
 
 ### Cautions
-`baic_bj40_en_c8161f70` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before the vehicle fully stops, it is prohibited to unfasten the seat belt.
 
 ●When unfastening the seat belt, after the latch is released, it is necessary to retract the seat belt with the help of your hand to prevent the metal latch of the belt from injuring passengers when the seat belt is retracting quickly.
 
 ### Seat Belt Retractor
-`baic_bj40_en_655c0097` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All the front seats of this vehicle are equipped with seat belt retractors. When serious frontal or tail collisions happen, the sensor will trigger the seat belt retractor, and the retractor will tighten the seat belt in the direction of retraction and restrict the forward movement of the passengers.
 
 The explosive pre-tensioner device of the seat belt can only be used once. In the event of a minor frontal collision, side collision or rear collision, side tipping or an accident without notable frontal action force, the seat belt retractor will not work.
 
 ### Cautions
-`baic_bj40_en_7179f9dd` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ●When the seat belt retractor is triggered, a small amount of smoke will be emitted. This is a normal occurrence and does not indicate that the vehicle has caught fire. There is no need to worry about it.
 ●When the seat belt retractor is discarded, the relevant safety regulations must be complied with. Authorized BAIC dealerships which are familiar with the relevant safety regulations may provide you with an enquiry service
@@ -426,7 +390,6 @@ If any of the following situations arise, please contact an authorized BAIC deal
 ●The seat belt retractor or its surrounding parts are scratched, broken or have other damage.
 
 ### Seat Belt Retractor Recycling and Disposal
-`baic_bj40_en_c45733bb` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The seat belt retractor is part of the seat belt system. All operations on the seat belt retractor or the removal of the seat belt retractor, as required for the repair of other vehicle parts, must be carried out by an authorized BAIC dealership. Otherwise, damage may be caused to the seat belt, and the seat belt retractor may not work normally during an accident.
 
@@ -435,14 +398,12 @@ To prevent personal injury or environmental pollution, all dismantled seat belt 
 4 Warning Failure to get seat belt retractors renewed and checked by a BAIC authorized repair shop or professional personnel, or failure to correctly use the seat belt retractors in accordance with these provisions is bound to increase the risk of accident injuries. Unauthorized repair, removal or installation of seat belts or seat belt retractor components is prohibited. ●All operations on the seat belt retractors and seat belts, including those to remove system components to allow the repair of other vehicle parts must be carried out by an authorized BAIC dealership. Each seat belt retractor can only be triggered once. All triggered seat belt retractors must be replaced.
 
 ### General Instructions
-`baic_bj40_en_cee8bd8f` | bj40 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Correctly using seat belts can effectively reduce the risk of accident injuries. To enable the triggered airbag system to fully play its protective role, the driver and passengers must wear their seat belts correctly before the vehicle is started. The driver must correctly adjust the driver’s seat and steering wheel, correctly adjust the headrest position and use a suitable child seat to protect any children in the vehicle.
 
 ![](images/85defffc38a28ea289b43efee3fde886c0e0d41418020c08c278f9c0e22cdd84.jpg)
 
 ### The Role of the Airbag
-`baic_bj40_en_4a0ea0da` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/73b13b1886756a59ecd855524c23cf69c7be2bda94ab89709b54e47a7453611c.jpg)
 
@@ -459,7 +420,6 @@ The factors that determine whether the airbags will trigger are the angle of col
 ![](images/c079d394deff61644b5a7a0c85dbb6082e6e8390e3792ba4953f3ef01f665cb6.jpg)
 
 ### Why Wearing Seat Belts and Adopting the Correct Sitting Posture Are Important
-`baic_bj40_en_a0c8b267` | bj40 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 To enable the airbag to play its best protective role when triggered, it is necessary for the vehicle occupants to wear their seat belts correctly and assume the correct sitting posture. For your own safety and the safety of passengers, please pay attention to the following matters before driving:
 
@@ -490,7 +450,6 @@ If the following symptoms occur, it shows that the system is faulty and the airb
 ![](images/f17096deb8f21b537f4a1c79d56331885938e9068295e384e399930f51c1eb62.jpg)
 
 ### Airbag Repair, Maintenance and Scrapping
-`baic_bj40_en_d8200af5` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Components of the airbag system are installed in different positions around the vehicle. All operations of the airbag system or operations that require the removal of airbag system components to allow the repair of other vehicle components must be performed by an authorized BAIC dealership. Otherwise, the airbag system may be damaged. As a result, in the event of an accident, the system may abnormally trigger the airbag or fail to trigger the airbag at all.
 
@@ -499,7 +458,6 @@ When scrapping the entire vehicle or airbag components, be absolutely sure to fo
 ![](images/f5f2d1d1aabec223a4377a45dfb3d0a1960619bf86fd3bcc384ae3a83d962385.jpg)
 
 ### 4 Warning
-`baic_bj40_en_91bdaae8` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ●Make sure to go to an authorized BAIC dealership to have the airbag system checked and repaired.
 
@@ -508,7 +466,6 @@ When scrapping the entire vehicle or airbag components, be absolutely sure to fo
 If you want to sell the vehicle, please tell the new owner that the vehicle is equipped with an airbag system and let him/her know the date of replacements of the airbag and its components. If the vehicle is scrapped, the undeployed airbag will pose potential risks. Therefore, before scrapping the vehicle, be sure to ask specialized personnel to safely deploy the airbag under special safe conditions.
 
 ### Front Airbags
-`baic_bj40_en_f51be7f1` | bj40 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 ![](images/a7230d6af6743065c44206547017e6f82e0489a0946b710bb7a3b784b0c6e223.jpg)
 
@@ -547,7 +504,6 @@ The event of serious frontal collision, the two front airbags and the seat belt 
 △ Warning If the driver or passengers are not wearing their seat belts correctly or have failed to adopt the correct sitting posture, serious injury or even death may be caused in the event of an accident. ●The driver and passengers must make sure to correctly wear their seat belts and adjust their sitting posture before beginning a journey. When driving, do NOT let other passengers (children), pets or objects occupy the space between the front passenger and the airbag. Do NOT cover or paste anything to the surface of the steering wheel or the dashboard. ●On triggering, the airbags will contract quickly and will not block the driver’s vision. ●Do Not try to repair, adjust or refit any part of the front airbags. ●Airbags can only be triggered once. If an airbag has been triggered accidentally, you must go to an authorized BAIC dealership to have it replaced.
 
 ### Front Airbags
-`baic_bj40_en_1d84ee68` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If any of the following situations arises, please contact an authorized BAIC dealership as soon as possible:
 
@@ -560,7 +516,6 @@ If any of the following situations arises, please contact an authorized BAIC dea
 ![](images/4ef31361a82783f32bb90f270dc26d5145bf489e5f541b59acf34c7d48373268.jpg)
 
 ### Deployment of the airbag
-`baic_bj40_en_8867d7b4` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/139889790a2e817da41bf9165a21d18695b2f0f1e88b9b968715fb44189b1756.jpg)
 
@@ -583,7 +538,6 @@ Vehicles Crossing Deep Pits
 Vehicles falling or leaping steps
 
 ### Seating Position
-`baic_bj40_en_e0e37c3a` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To ensure the best protective function, during serious impacts, the front airbags must unfold within a certain period of time.
 
@@ -592,21 +546,18 @@ If the vehicle passengers are too close to the front airbag, the deploying and d
 ![](images/8efad46bbee8502f6a1a56b0a36d106a081e3577fd86b98a275dd553c09913f5.jpg)
 
 ### Conditions Under Which Airbag Does Not Deploy
-`baic_bj40_en_41503a6f` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In many types of accident, such as when the rear part of the vehicle is in a collision or a second or third time collision during a chain of collisions, or a low-speed collision, even if the airbags deploy, they may still not provide additional protection.
 
 ![](images/85ceefbb56390c65f22b1397756b252e6dc0f35d92bd8dbc8f7a5f30c30dd82a.jpg)
 
 ### Rear-End Collision
-`baic_bj40_en_0a45db45` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the front airbag is triggered, it is ejected from the driver’s side or passenger's side and deploys. In the event of rear-end collision, under the action of inertia, passengers will move towards the back rest, and the airbag cannot protect them. In these circumstances, the airbag will not work.
 
 ![](images/5a44bab8f5e27dbbd6fe4ed7eb4d585588552184a19f150e461a1bd1677e2f97.jpg)
 
 ### Side Collision
-`baic_bj40_en_f79ad808` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In the event of a side collision, passengers move towards the point of impact. Therefore, an airbag which deploys in front of them cannot protect the passengers. In these circumstances, the front airbags will not deploy.
 
@@ -618,26 +569,22 @@ In the event of a slanted collision, the collision force will move the passenger
 ![](images/0431a91534e7085e8710e601571409a2e8fadff00ef5992f559fd6ddca71a656.jpg)
 
 ### Rear collision
-`baic_bj40_en_d4f78143` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In the event of a rear collision, the driver will by instinct engage in emergency braking. At this time, the front of the vehicle will tend to dive towards the ground. In the event of this kind of collision or a rear-end collision, the front part of the vehicle will tend to dive into the other vehicle and the impact energy received by the collision sensor will not be large. In this situation, the front airbag will not work.
 
 ![](images/5b4d8d3c2c3d409b462d143a03a0dfc179db0c47b21c7a82038f47dcf77b12cf.jpg)
 
 ### Tipping Accident
-`baic_bj40_en_38a918ce` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In a tipping accident, the front airbag will not deploy, because even if it deploys, it still could not provide proper protection to the vehicle passengers.
 
 ![](images/13faf14d712fd8c245afb6ffbf6fdb990f71da16378992d74867e273153a0aba.jpg)
 
 ### Special Collisions
-`baic_bj40_en_0329fe67` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the vehicle collides with certain objects, such as electricity poles or trees, the collision point is concentrated in one place and the whole of the collision force is not transmitted to the sensor. In these circumstances the front airbags will not deploy.
 
 ### General Instructions
-`baic_bj40_en_fcd248a6` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Accident statistics verify that it is safer for children to sit in the rear rather than the front seats of a vehicle.
 
@@ -648,7 +595,6 @@ Child seats should be installed and used in accordance with the relevant regulat
 We suggest that you put the child seat instructions and this Manual together and keep them in your vehicle.
 
 ### When Several Child Passengers Have To Be Carried
-`baic_bj40_en_f79f34d5` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 There are three rear seats in your vehicle and you can use them to properly place child passengers.
 
@@ -663,7 +609,6 @@ Encourage the children to sit close to the backrest and sit upright.
 ●Check whether they have correctly put on and fastened their seat belts.
 
 ### Safety Instructions for Child Seats
-`baic_bj40_en_4edaac72` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When driving, NEVER hold a baby to your chest. The baby will be at serious risk of death if you ignore this instruction.
 
@@ -678,7 +623,6 @@ When driving, do NOT become distracted by the children in your vehicle.
 ●When driving over a long period of time, be sure to have a rest midway through your trip every two hours at least.
 
 ### 4 Warning
-`baic_bj40_en_7f04c4fd` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ●The protective role of seat belts can only work to the maximum extent when they are worn correctly.
 ●When driving, do NOT hold children or babies to your chest. Otherwise, in the event of an accident, injury or even death may be caused to children.
@@ -724,7 +668,6 @@ Children who are more than seven years old, and have a body weight of 22-36Kg an
 ![](images/0e81e41b8021998c41596ebd3f7c26e81273fb4208969d1999e01e0b47322710.jpg)
 
 ### Correctly install the Child Seat
-`baic_bj40_en_964a7038` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before installing a child seat on the rear seat, make sure you adjust the front seat to a suitable position according to the dimensions of the child seat and the body size of the child. In the event of a collision or during emergency braking, a child sitting in the rear seat is less likely to be injured if coming into contact with hard objects inside the vehicle. Moreover, the child will also be protected against injury caused by airbag inflation. Absolutely do NOT carry babies on your knees.
 
@@ -735,14 +678,12 @@ There is a warning label pasted onto the vehicle visor on the front passenger si
 ![](images/8f08da04f168fbb55fa9f769f5db8d98154b5920e4df9e8975b3eaf149950424.jpg)
 
 ### Installing a Child Seat Equipped with an ISOFIX System and Top Fastening Cord
-`baic_bj40_en_306b6a2a` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be absolutely sure to install and remove the child seat in strict accordance with the use instructions of the child seat manufacturer.
 
 ![](images/fcebba93ef943fa3a98c94f4da957d3de558408e45017c76d897ee8f8fa06cfc.jpg)
 
 ### Installing
-`baic_bj40_en_63d7a049` | bj40 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 1. Slightly push up the headrest behind the child seat.
 
@@ -755,7 +696,6 @@ Be absolutely sure to install and remove the child seat in strict accordance wit
 4 Warning ●The ISOFIX fixing ring on the back of the rear seats can only be used for the ISOFIX system. Do NOT connect fastening belts, non-ISOFIX child seats or any other items to the fixing ring. Only one top fastening cord can be connected to the rear fixing ring on the back of the rear seat. No other cords (such as luggage fastening cords) are to occupy this fixing ring.
 
 ### Safety label
-`baic_bj40_en_8b740646` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The positions of the safety labels of the vehicle are as shown in the figure. The airbag label is pasted to the outer side of the sun visor (in a closed state) on the front passenger’s side, while the A/C refrigerant label, the fan & radiator label and the radiator cover danger warning label can only be seen after the engine hood is opened.
 
@@ -764,7 +704,6 @@ These labels are used to remind you to pay attention to those potential dangers 
 ![](images/ead9b52e027bc253c4039574fe9dc08db913282ed9eff89dd58d800b20ed9bd4.jpg)
 
 ### 2. Operation and Equipment
-`baic_bj40_en_6d2d6cf4` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Cab 41
 Locking and unlocking the vehicle 中 74
@@ -776,7 +715,6 @@ Accessories and Refitting .132
 ※Note: Numbers in all pictures of this chapter are for illustrative purpose only and do not necessarily reflect the real situation of the vehicle.
 
 ### General Layout of Instruments and Operating Mechanisms
-`baic_bj40_en_fb794f9b` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/971c8a9892fc66d5ac9d7ae367daf5c6ecc8b3e5c31ba86964862a64053cfe87.jpg)
 
@@ -808,7 +746,6 @@ Accessories and Refitting .132
 ![](images/6237a3ec790b0773e1e5c71f548db84ade0ff8abdd1cb541023632e8c0be03b1.jpg)
 
 ### Central passageway layout (for vehicles equipped with manual gearbox)
-`baic_bj40_en_a2dcf204` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/44a71afa6255192412ac98f3f0ac3dabce07da3d750e35780cd3c3d5fdc13b85.jpg)
 
@@ -836,7 +773,6 @@ Central passageway layout (for vehicles equipped with automatic gearbox)
 10. Passenger seat heating button
 
 ### Instrument Cluster (Mode 1)
-`baic_bj40_en_3b9b17ab` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/3d84e65ae2c345f0dce917937d356ea492dcfcf1500d12d42db63cbd2cbdadfc.jpg)
 
@@ -861,7 +797,6 @@ prompt information
 12. Fuel gauge
 
 ### Instrument Cluster (mode 2)
-`baic_bj40_en_6441cd53` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/cfc2f1807b2f969be542e23618110578bc728b4e6fb8836e2f212ae3fef197ed.jpg)
 
@@ -880,7 +815,6 @@ prompt information
 13. Information Display Center: Navigation (if equipped), tire pressure system (if equipped), front wheel steering (if equipped), system settings, alarm and prompt information.
 
 ### Engine tachometer
-`baic_bj40_en_58092938` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The engine tachometer represents the engine's speed per minute. （rpm）
 
@@ -893,14 +827,12 @@ The starting point of the red area in the dial indicates the maximum allowable s
 ![](images/b264273c9672d62bbf8d0490efc1c1c9991eda43e1be83a047bc534a97803c07.jpg)
 
 ### Speedometer
-`baic_bj40_en_70b7f55e` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/65f67ca90c5a5bbef898629d74d6b99efe7aca6c269fc4c37271abd17843daac.jpg)
 
 Speedometer represents the real-time speed of a vehicle in km/h.
 
 ### Fuel Gauge
-`baic_bj40_en_01491ea9` | bj40 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 ![](images/149efa3c1cb8584b1704de859c5bc92808503b1c71d093a7180c9874ab8e9805.jpg)
 
@@ -911,7 +843,6 @@ When braking, accelerating, turning or ramping, the fuel in the fuel tank will s
 After filling the fuel, it will take some time for the fuel level to stabilize before the fuel gauge can reflect the real fuel volume.
 
 ### Fuel alarm lamp
-`baic_bj40_en_a56cf75a` | bj40 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 ![](images/119346f9c42e1bb2088af898d4e3e52766b4be0a4f8f7d53208f2b70509a44ab.jpg)
 
@@ -937,14 +868,12 @@ If the scale bar is biased or stays in the high temperature range of the water t
 △ Warning When the engine is running, it is strictly forbidden to open the coolant expansion tank cover. Because it's hot and cold under high pressure. But the liquid and steam will be ejected, causing burns. Make sure that the engine is completely cooled before opening the coolant expansion tank. When operating, cover the coolant expansion tank with a large and thick cloth to prevent steam scalding of operators. When filling with oil and coolant, do not sprinkle oil on engine parts or exhaust system, because there may be fire, engine coolant can be ignited in certain condition
 
 ### Engine coolant alarm lamp
-`baic_bj40_en_dcc522fd` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 上℃90
 
 The engine coolant alarm lamp (red) is located in the engine tachometer. When the engine coolant temperature is too high, the alarm lamp lights up and the alarm interface pops up. At the same time, the buzz is 5. At this time, the engine should be stopped and extinguished as soon as possible in the right place, and the level of coolant and the leakage of coolant pipeline should be checked.
 
 ### Left and Right Turn Indicators
-`baic_bj40_en_9b820bf2` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/fe98822655edfe5a1b3f73fb741704c4093d000fca23ea5a86978f2b0cb5fb81.jpg)
 
@@ -953,7 +882,6 @@ When the steering light is turned on by the light control lever, the indicator l
 ![](images/5143b24c7be391442615684f2c63d3d2e0f7374c489da8ffe43477ecaf3e93b5.jpg)
 
 ### Four-drive status indicator
-`baic_bj40_en_7a343113` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e3ac4d92925e130502b123d2c15b7087fe6a9b859a7544a255cd9895591ec281.jpg)
 
@@ -963,14 +891,12 @@ When the steering light is turned on by the light control lever, the indicator l
 File usage status.
 
 ### Trip Computer
-`baic_bj40_en_033e9bcf` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9557c6f3345cf43f2ca6311af404ab815d91ada5bca61ad8072c60efb2cba655.jpg)
 
 Short-term memory, long-term memory, other information and fuel consumption display are selected by pressing "UP" "DOWN" button.
 
 ### Information Center Display Screen
-`baic_bj40_en_29250516` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9d9908a7ff5d5fdbf78c4581872989d32bb80d7f127f5fc1b8506f7bb2f1b797.jpg)
 
@@ -983,7 +909,6 @@ Accumulated driving kilometres after long-term memory zero;
 Average fuel consumption since the last short-term/long-term memory zero shows the average fuel consumption during vehicle driving.
 
 ### Other information
-`baic_bj40_en_60b9c2dd` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/886c7c9b20fa3266ad8a91a8ceead517ed3802782f6509dd5d2f9f68ac4f3e00.jpg)
 
@@ -998,21 +923,18 @@ Vehicle Voltage: Display Vehicle Voltage，
 Display Range 0 ～ 20V （For reference only）
 
 ### Turbine Pressure Display
-`baic_bj40_en_9a2646e1` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/6d714c2105d99fee26be4017817b02c630786a3a4f73db80be647cc5a02294c5.jpg)
 
 The degree of turbocharger operation is indicated by the progress bar. The driver can understand the current working pressure of turbocharger under this interface.
 
 ### Overspeed Alarm
-`baic_bj40_en_ae676f88` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8128d87b10a3969496bcceba58cdf914e838c69ef6be1626bd4913e622ea86f7.jpg)
 
 Users set alarm speed by themselves in menu, and display alarm when the speed exceeds the set alarm speed.
 
 ### Fuel consumption display
-`baic_bj40_en_dc666753` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Fuel consumption information includes idling instantaneous fuel consumption and driving instantaneous fuel consumption. Instantaneous fuel consumption display - -L/h" when engine is not starting (RUN gear) and no fuel injection output.
 
@@ -1040,7 +962,6 @@ Odometer display：
 Displays the total distance the vehicle has been driven. This mileage cannot be cleared.
 
 ### Information Display Center
-`baic_bj40_en_05627b78` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The information display center displays the time and calendar after ignition, enters the menu bar by pressing "OK" key, chooses by pressing "UP"/DOWN key, enters the corresponding Trip Computer interface by pressing "OK" key, and then clicks "OK" key again, and calls out the "menu bar" as follows:/
 
@@ -1058,12 +979,10 @@ Information Display Center
 ![](images/cb6dd397ec38680917343637a27b338d277b13821cc1f942538e7d5e56353925.jpg)
 
 ### 2. Compass
-`baic_bj40_en_945fce17` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Display the direction of the front. The electronic compass function used in this vehicle is based on the principle of geomagnetic positioning, which can indicate eight directions vaguely. The display direction includes: north, northeast, east, southeast, south, southwest, West and northwest, and the direction angle ranges from 0 to 359°.
 
 ### Environment Information Interface
-`baic_bj40_en_ad7efcf7` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ![](images/4601d1af645a422e9e6645f5dee1f7250b687520732127e739ddc3a3ba6a4724.jpg)
 
@@ -1134,7 +1053,6 @@ DVR is full, please clean up!
 ●Parking assist system malfunction
 
 ### Prompt Message Interface
-`baic_bj40_en_90f114b8` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f8287d3f63a615aad63832af2bd274a2568a1f398d7596351f20d94890c86884.jpg)
 
@@ -1171,7 +1089,6 @@ Press "OK" to enter the system setting interface. Press "UP"/" DOWN "to select t
 System Settings include the following Settings:
 
 ### Overspeed Alarm
-`baic_bj40_en_06054220` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Overspeed Alarm
 Alarm Volume
@@ -1185,7 +1102,6 @@ Compass Calibration
 2. The default value of overspeed alarm setting is 30km/h, setting range: 30-200km/h; 3. Short press "UP" and "DOWN" keys to increase or decrease the step speed according to the step value of 5.
 
 ### Alarm Volume
-`baic_bj40_en_53bfa176` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/6205c5425aada82919d7bc7988ae2668790bb4d53b47e02a028d08bca2fe769e.jpg)
 
@@ -1196,7 +1112,6 @@ Enter the alarm volume setting page through the menu.
 Enter the alarm volume setting interface through the menu, press "UP"/" DOWN "to select, and press" OK "to confirm.
 
 ### Maintenance Information
-`baic_bj40_en_7bbf096a` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f92e3754d0d52b18140a8c479dcdf6591986a4e1fba11f16daf863c964acb0fc.jpg)
 
@@ -1207,7 +1122,6 @@ Enter the maintenance information inquiry page through the menu.
 After entering the maintenance information inquiry interface through the menu, press "BACK" button to return to the superior menu.
 
 ### Compass Calibration
-`baic_bj40_en_c3f088a1` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b62830bdc9a848c3697cef8f53fc165cd09f3fe96dbe4784260f4edb2e26d488.jpg)
 
@@ -1223,14 +1137,12 @@ Enter the compass calibration page through the menu;
 That is, the "calibration completed" interface is displayed.
 
 ### Mode Switch
-`baic_bj40_en_fdb3475d` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2f4f34e0b6a4cb7f4b601a92437532f6b63bcea0abfb0bc497d6826a7169a1f1.jpg)
 
 Press "OK" to switch between "city mode" and "off-road mode", and press "BACK" to return to the superior menu.
 
 ### Current Fault Query
-`baic_bj40_en_f0c967e4` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ![](images/5f63bd21b27c075250bff36b2077f2a9d73513aee7fc7d8ba6c707b54efc2f3a.jpg)
 
@@ -1290,7 +1202,6 @@ Make sure the lights go out before the vehicle moves.
 ![](images/733ef8910b667e9d44cb49365d61992e6eee3c494619a5bf72bbe22290ca7c0d.jpg)
 
 ### 4. ESP indicator （Yellow）
-`baic_bj40_en_8a4c9e0f` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 When the ESP work indicator flashes rapidly, indicating that the motor is not started when the start/stop button of the ESP is located in the "RUN" position. When the ESP light continues to be on
 
@@ -1322,7 +1233,6 @@ When the rear fog light is on, the indicator light is on.
 If the warning light does not go out, please go to the authorised dealership nearby for maintenance as soon as possible. 20. Oil pressure indicator 电n （Red） This warning light is on when the engine oil pressure is below normal and the start/stop button is in the "RUN" position. The engine should be extinguished after starting. If the warning light does not go out after the engine is started or is lit while the vehicle is moving, please park the vehicle in a safe place and extinguish the engine immediately. Do not start the engine until the oil pressure is restored.
 
 ### 4. ESP indicator （Yellow）
-`baic_bj40_en_701a68a3` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 23. Brake low level indicator ① （Red） The lamp is lit when the parking brake is applied or the brake fluid level is lower than the prescribed level. Before driving the vehicle should fully release the standing brake, and ensure that the brake system status and fault warning lights go out. If the light is on while the vehicle is in motion, it means less effective braking. At this point should be parked in a safe place as soon as possible, and authorised dealership contact.
 
@@ -1337,14 +1247,12 @@ i Tips When the brake system status and fault warning light is on, please park t
 4 Warning ●If the warning light is on during driving, stop immediately and contact the authorised dealership while ensuring safety. ●Failure to take action can lead to serious performance problems. 27. Press the brake pedal to release the EPB light S （Green） When the indicator light is on, it indicates that the driver needs to press the brake pedal to release the electronic handbrake. When this light is on, the alarm popup displays "please press the brake pedal to release the electronic handbrake.
 
 ### Cross-country information
-`baic_bj40_en_229b7412` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0dd8f1c5d9539bba1ffe085370c24b2f5ebf1fdd31aaa5644d8be2eb0f950e63.jpg)
 
 The horizontal and vertical angles of the vehicle can be read from the meter, which allows you to know the current position status of the vehicle relative to the horizontal plane.
 
 ### Intelligent car service \*
-`baic_bj40_en_cabcd9d9` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Intelligent development of intelligent car machine cloud platform, system hardware using 4G communication module, realize online voice recognition, online navigation, online music, driving behavior analysis, news and information and other functions;
 
@@ -1364,7 +1272,6 @@ Application store interface includes: download applications, update applications
 Service renewal, order inquiry, order deletion information, SIM card status inquiry, SIM card replacement, user agreement inquiry, user information modification, user logout, OTA update.
 
 ### Steering Wheel Adjust steering wheel position
-`baic_bj40_en_6d6b3e28` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/b4080714f995be8a54f3cd8eabf6b8117e7cbcb0750c5aa3c6758c404f7cf8b6.jpg)
 
@@ -1377,7 +1284,6 @@ The driver can adjust the height of the steering wheel according to his body sha
 3. Then push up the locking handle to lock it. 4. Move the steering wheel up, down, front and back to confirm that the steering wheel is firmly locked.
 
 ### Multi-function steering wheel
-`baic_bj40_en_303154a6` | bj40 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 4 Warning ● Improper use of steering wheel position adjustment devices and incorrect posture can result in serious injuries. ●To avoid dangerous driving conditions and accidents, only adjust the steering wheel when the vehicle is stationary! ●Note when adjusting the driver's seat or steering wheel: the distance between the steering wheel and the chest should not be less than 25 cm. If it's less than 25 centimeters, the airbag system won't protect you. ●The lock handle must be tightly pressed to prevent the position of the steering column from changing during the driving of the vehicle.
 
@@ -1388,7 +1294,6 @@ The driver can adjust the height of the steering wheel according to his body sha
 This car is equipped with multi-function steering wheel, equipped with operation, switch, adjustment and other function keys in the steering wheel, the details are as follows:
 
 ### Left Key Group
-`baic_bj40_en_d6ba1b00` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ee3426b2902ee8ad7123072be2d13e4947086532fa174bfae89975a85bc6ba04.jpg)
 
@@ -1399,7 +1304,6 @@ This car is equipped with multi-function steering wheel, equipped with operation
 8. Press the button to increase the distance from the left side of the steering wheel -8- to increase the distance from the cruise to the car.
 
 ### Right Key Group \*
-`baic_bj40_en_94005459` | bj40 | pdf_manual | tier:4 | lang:en | layer:steering | p:1 | doc_type:service_manual
 
 ![](images/4c841bca979f1924d9d21d48e893bb0982f4c98ed05a143c413fb95e90206de5.jpg)
 
@@ -1408,7 +1312,6 @@ This car is equipped with multi-function steering wheel, equipped with operation
 4. Press MODE button -4- on the right side of the steering wheel to switch the MODE interface in the large audio screen. 5. Press the OK button on the right side of the steering wheel -5- to confirm the host function. 6. Press EXIT button -6- on the right side of the steering wheel to EXIT the host function. 7. Press the language control button on the right side of the steering wheel -7- to realize voice control. 8. Press NAVI button -8- on the right side of the steering wheel to enter the navigation function.
 
 ### Middle Channel Multi-function Button
-`baic_bj40_en_9a1e81eb` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 通8
 
@@ -1417,7 +1320,6 @@ This car is equipped with multi-function steering wheel, equipped with operation
 2. RADIO button: RADIO select button; 3. MEDIA button: multimedia button; 4. OPTION key: menu shortcut OPTION; 5. BACK button: BACK to the previous button; 6. POW button: in the power-on state, short press is silent; long press is power off; in the power-off state, short press is power on; 7. MENU button: home button.
 
 ### Intelligent Cemote Control Key
-`baic_bj40_en_77f9b20b` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 This car is equipped with 2 intelligent remote control keys, the intelligent remote control key contains the mechanical key, the mechanical key is used in an emergency. If the smart remote key doesn't work, the mechanical key can be used to open the door.
 
@@ -1437,7 +1339,6 @@ Caution When using intelligent remote control keys with transceiver chips, pleas
 ![](images/415f455a8db2fd0bc487ef24852c08f00cb5846b5113f12db15408b932df4169.jpg)
 
 ### Intelligent Remote Control Key
-`baic_bj40_en_dfd35429` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/cc6883f685d5b2e7fd45d6a63579e2570365a11598992232a1b8e9695f52ca80.jpg)
 
@@ -1455,7 +1356,6 @@ If the key is lost, please contact authorised dealership as soon as possible, so
 ![](images/8f4b534903d428d43ca9a5d43bc3ae5cb3fe61953e6aa154317d109e45fdc968.jpg)
 
 ### Key Battery Replacement
-`baic_bj40_en_5e838ed4` | bj40 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 When the power is insufficient, the display screen of driving computer will display "low power of smart keys" to remind the replacement of battery.
 
@@ -1481,7 +1381,6 @@ Replace the key battery by following steps：
 6. After replaced, it is necessary to test whether the function of the Remote control key is normal. If the Remote control key still does not work properly, please contact authorised dealership.
 
 ### Unlock the door
-`baic_bj40_en_0a3d111c` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/d3e92630d560cad35483bcf70f428b4542bbb83afc33a5fa37d3b60d0ac2a736.jpg)
 
@@ -1490,28 +1389,24 @@ When the unlock key is pressed, all doors are unlocked at the same time. The tur
 After pressing the Remote control key unlocking function, should be open any door within about 30 seconds, otherwise all doors will automatically lock.
 
 ### Lock the door
-`baic_bj40_en_4e8b6920` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/dbdb3b3c3930476f1307f8a49afb09ee21a6a3ed7ae8acb822fe9a16921fd361.jpg)
 
 The remote control key is outside the car, the ignition switch is in "OFF" mode, the engine cover and all the doors are closed, press the lock key to lock the door.
 
 ### Remote control key matching
-`baic_bj40_en_5bdfdd15` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If loss of remote control key needs to be matched please go to BAIC's service Store, and the relevant operation is carried out by professional staff through special equipment.
 
 ![](images/81019b5f8a58bc72fd1285b2929799faa076212b8749728f7041d34a303a08ee.jpg)
 
 ### Anti-theft alarm system
-`baic_bj40_en_3f97be31` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The anti-theft alarm system is installed on the vehicle. In order to ensure safety and operation convenience, we strongly recommend that you read this chapter carefully in order to fully understand its characteristics and use methods.
 
 ![](images/ded7b3a3cb48de0a7b87cac88750b4dd04c3c31c80e0e99b297ef5a663313413.jpg)
 
 ### Anti-theft remote control key setting
-`baic_bj40_en_5c6a23a7` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/2ff7348094fa74b03f6ef912a729786c2660c239d8262cdce049b9481b9f6cf1.jpg)
 
@@ -1528,7 +1423,6 @@ Vehicle locking conditions:
 After setting the anti-theft state, the engine also enters the anti-theft state. At this time,insert the original matched mechanical key to entry the car and start the engine within 15 seconds, the anti-theft can be lifted.
 
 ### Remove theft by remote control key
-`baic_bj40_en_0b47cb13` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/847739c9b9ce8fa467d422976884c4b0b1fa1183a957f1ea77a965c5d36b57e6.jpg)
 
@@ -1537,7 +1431,6 @@ When the alarm is not triggered, pressing the unlock key, all doors are unlocked
 After using the remote control unlocking function. After a period of time, all doors will automatically lock again and re-enter the anti-theft alert state after a while if the door is not opened.
 
 ### Trigger alert
-`baic_bj40_en_3818812a` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 When the anti-theft system is triggered, the turning light starts to flicker and the horn gives out an alarm at the same time.
 
@@ -1558,12 +1451,10 @@ Pressing the trunk door key, but the trunk door is not opened. After a period of
 When opening the trunk door and closing the trunk door, please do not put the key in the car, so as not to be automatically locked in the car.
 
 ### Secondary fortification
-`baic_bj40_en_654b0836` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 When the vehicle alarm is triggered, when pressing the unlock key, the state is released. If the state of key and door has not changed in a certain period of time, the system will re-enter the theft-proof alert state automatically. If the unlock key is pressed again within this specified time, the timing is restarted.
 
 ### Central Lock System
-`baic_bj40_en_021624f5` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Operating Instructions of Central Lock System
 
@@ -1574,14 +1465,12 @@ The central lock system can lock and unlock alldoors of car：
 3. Manipulating the Central Lock System with the Lock Switch on the Driver's Side Door.
 
 ### Manipulating central door lock with remote control key
-`baic_bj40_en_82c05f96` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Press the lock key of the remote control key. If the vehicle meets the lock condition, the central door lock system will be locked, the whole vehicle‘s door will locked.
 
 Press the unlock key of the remote control key. If the vehicle meets the unlock condition, the central door lock system will be unlocked, the whole vehicle‘s door will unlocked.
 
 ### Manipulating central door lock with Mechanical key
-`baic_bj40_en_59b33f69` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 When the vehicle meets the lock condition, insert the key into the driver's side door lock hole and Rotate back to the vehicle(Clockwise)， the central door lock system is unlocked; Rotate the key in the front (counterclockwise) direction of the car， doors are locked.
 
@@ -1600,33 +1489,28 @@ The switch is located on the driver's side door. Pull the central door lock swit
 ![](images/0af10c1efe60fc75c494dcbe581d9787f721e5f68fff70a9011c6166aee69ada.jpg)
 
 ### Automatic unlocking function
-`baic_bj40_en_acaa2017` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 1. In the course of driving, if there is a collision and the airbag has been detonated, the door lock will be automatically unlocked.
 
 2. Vehicles go from running to stopping,the central door lock system will be unlocked automatically when the engine is out of operation and the ignition switch is placed in the "OFF"/ "ACC" position.
 
 ### Automatic locking function
-`baic_bj40_en_9b57431e` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 When the vehicle is running at a speed greater than 20 km/h, the central door lock system will automatically lock.
 
 When the speed is between 5 km/h and 20 km/h and lasts about 30 seconds, the central door lock system will automatically lock.
 
 ### Thermal Protection Function of Door Lock Motor
-`baic_bj40_en_fafa2daf` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The door lock motor has thermal protection function. If the door lock is opened and closed many times in a short time, it may trigger the thermal protection function of the door lock motor, which will lead to the failure of the door lock function in a short time.
 
 ### Car Door
-`baic_bj40_en_0265e465` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/8397229aad64a6ad7af101ffff55731db95a9439a1e3907cbaa0c254ed0f7ab3.jpg)
 
 When the door is unlocked, the door can be opened by pulling the handle-1-.
 
 ### Electric window
-`baic_bj40_en_199b3104` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The car is equipped with electric windows on the left and right doors, which can be controlled by the buttons of the electric windows in the driver's side door switch group.
 
@@ -1645,7 +1529,6 @@ Continuously press or dial up the control switch, the window stops rising and fa
 ![](images/793799e7a8c0651f18589aa14e0dd276758f4e00fbe5b3b89c43fa15d73fbad8.jpg)
 
 ### Passenger and rear window
-`baic_bj40_en_828ab47e` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 (The car is equipped with electric windows on
 the back door side of the car）
@@ -1656,7 +1539,6 @@ The steps are as follows
 Press the motor window lifting switch - 1-, which can control the up and down of the window.
 
 ### Safety lock switch
-`baic_bj40_en_e8ca80a3` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/03297ad5d69e32cb7e7a8a63a6ef78ef7e18464fa8d6df09fffabbf89c3bc76e.jpg)
 
@@ -1665,7 +1547,6 @@ As shown in the figure: Located on the driver's side door, press the switch in t
 Warning Be cautious when using electric doors and windows, improper use may cause accidents or injuries! ●Make sure that no one is in the lifting range of doors and windows when working doors and windows ●Do not leave children or disabled persons alone in the car when the car is locked, because it is impossible to open doors and windows in case of emergency. ●Keep your car keys with you when you leave the car, because you will not be able to lift doors and windows after closing a key to start the switch. ●Must be use safety lock switch to close the rear window lifting function when children sitting in the rear seat , so that it can not be works.
 
 ### Trunk door
-`baic_bj40_en_957e475d` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 During the trunk door on unlocked satuation, the trunk door can be opened by pulling the external handle of the trunk door.
 
@@ -1674,7 +1555,6 @@ During the trunk door on unlocked satuation, the trunk door can be opened by pul
 ![](images/c6453ff58931fcdfc4ad324d79aa41902d135f1065d32486207a9e67bed730c8.jpg)
 
 ### Rear windshield
-`baic_bj40_en_ef1c84c1` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Before open the rear windshield, the trunk door should be opened to the maximum position, then the lower and middle part of the rear windshield should be held by hand, and the rear window should be rotated upward forcefully. The rear windshield will stop at the maximum position with the support of the air spring. Closing is the opposite of opening. When the rear windshield is closed, the trunk door must also be opened to the maximum position.
 
@@ -1683,28 +1563,24 @@ Before open the rear windshield, the trunk door should be opened to the maximum 
 ![](images/c67a9a5fa78bac924168d420983dbc2d8fb7bfbe1805d4961648efc7026b6685.jpg)
 
 ### Points for attention
-`baic_bj40_en_b90e562c` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Taken to avoid clipping fingers and other body parts when closing the trunk door and rear window
 
 ![](images/b6a642383852e5e8c0230f2046c2e45ec7554c35c9a282e804db42bb764a4ece.jpg)
 
 ### Sidebar
-`baic_bj40_en_f6d2a995` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a32e5ee9c7f5f92bd8c3004726e6b51c089d52e30918da414814c8abc7ccc99f.jpg)
 
 Passengers and drivers can step on the sidebar when get on the car.
 
 ### Anti-roll Bar
-`baic_bj40_en_3e7af92f` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/132de7e7104148e396ebcf30a5ded35099f6dd2e3a44bfa32a887735bbb4e625.jpg)
 
 When the vehicle overturns unexpectedly, the anti-roll bar can support the vehicle body. Driver's head will not be squeezed while the vehicle overturns if the driver wears the seat belt correctly. Thus effectively protecting the driver and passenger.
 
 ### Roof cover
-`baic_bj40_en_9dc035d7` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The roof cover of the car can be disassembled.
 The specific steps are as follows.
@@ -1733,7 +1609,6 @@ Bandage Binding Front Door Hole with Sealing Strip
 After removing the front top cover, the upper part of the door seal strip is suspended in the air. It is necessary to remove the door seal strip binding (self-adhesive) from the toolbox and fix the sealing strip-1-, -2-on the front roll bar as shown in the figure.
 
 ### Rear top cover
-`baic_bj40_en_5d676117` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The rear roof cover of the car can be disassembled, but it can only be achieved by special tools. If encounter problems in operation, consult the professional staff of the authorised dealership.
 
@@ -1769,7 +1644,6 @@ Installation can be done in the reverse order of disassembly. When installing, i
 ![](images/707c773afac1fbea62206a78544e9b6fdb802bf498ac2f7addd1391b472d3b88.jpg)
 
 ### Front windshield overturned
-`baic_bj40_en_6ff1d6ff` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Apart from the removable roof cover, the front windshield can also be rolled forward on the engine hatch cover to enjoy the pleasure of driving in the field.
 
@@ -1799,90 +1673,85 @@ Detailed disassembly steps are as follows:
 
 4. Remove the beam interior panel above the windshield as shown in the figure. -1-
 
-### Caution
-`baic_bj40_en_b481cb2b` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> The beam interior panel on the windshield is fixed by 10 fasteners, and the fastener is a disposable part. New parts need to be replaced after disassembly.
+>
+> 5. Release the A-pillar speaker plug
+>
+> ![](images/ecb7c1582bf7b50e99c1453f838818edcb54ed460471b5649c6f959859bcd34d.jpg)
+>
+> First remove the A-pillar trim on both sides, and then release the icon plug (take the right side of the vehicle as an example)
+>
+> ![](images/e6e54f66e87ce0e6e473793ee180c546478aa8f8a86c3dc2b382d5a8304bd83a.jpg)
+>
+> 6. Loosen the antenna plug of the front windshield, which is located in the dashboard on the passenger side.
+>
+> ![](images/9515d5a45fc1a3d1862a3f79ba1d4a62828db3d295d27b410a5130897948b3ad.jpg)
+>
+> First remove the glove box: Open the glove box and slowly pull out the glove box in the direction of the arrow shown.
+>
+> ![](images/4acd829f689423cc7f21c75de34937b909a7dcf8bfad4aaeda5d2ed5db795f8a.jpg)
+>
+> Find the antenna plug of the front windshield and loosen it according to the graphic method (the plug is inside the glove box).
+>
+> ![](images/36329fcbce010e7169a6a069253effe8120279a10a669158a5b5d9185ce28b27.jpg)
+>
+> 7. Remove the fastening bolts connecting the front windshield with the left and right anti-roll bars. There are 3 fastening bolts on each side, total 6 bolts. (Take the right side of the vehicle as an example).
+>
+> ![](images/dac7367808b9b2626873876ddf6e0363ab645e4e46874045de8fa2261f2f93fd.jpg)
+>
+> 8. Remove wiper arm
+>
+> ![](images/c68df696229b4fa76f2ed39606dd6f83f3dcf8be88dbbf7911ca5777d07eb5a4.jpg)
+>
+> Open the wiper arm nut cover along the arrow B shown in the figure, and remove the fixed nut - arrow A-. Both wiper arm retaining nuts need to be removed
+> (The right side as an example)
+>
+> ![](images/9ffb26367afe4b9fb1ac8bcd304b0852a3329867117b9e063f7f60165a70add8.jpg)
+>
+> ![](images/9c070023258e99d43bf0c847bbf5dbf98d150c9a81a66b0034079a88c6039334.jpg)
+>
+> Pull the wiper arm out of the wiper motor shaft with a puller (pay attention to the installation position when disassembling, so that it can be used normally when recovering).
+>
+> ![](images/c8b0bbbfddf6d59b69c09166348059f1246be3cd2f92ea1294c0c628880634c9.jpg)
+>
+> 9. Remove the round head screw that fixes the lower left and right sides of the front window, 6 units on each side, total 12 units. Remove the triangle plate of the front window (take the right side of the vehicle as an example).
+>
+> ![](images/a8340cb123a9e45434edab58c0a225fb18fad078e3f1563b3209ebb0e7aae40c.jpg)
+>
+> ![](images/9d080a28d2c17204014b52646d9af866632c29f3983be6027c07ab15661d54ba.jpg)
+>
+> 10. In the direction of the arrow as shown in the figure, slowly put the front windshield down and firmly fasten the front windshield to the engine hood.
+>
+> 11. Remove B-pillar trim panel. 2
+> ![](images/548b929124d9bdc285a5a8c332fcf4ad8d9afb658213694e2e47001367ae8be2.jpg)
+>
+> ![](images/278fae0737a069fd4170541f0c4f1e463dc2de05a9ab3809c177541bff48454e.jpg)
+>
+> To do so, it is necessary to first remove the seat belt height adjusters on both sides (the picture here takes the right side of the vehicle as an example). As shown in the figure, pry and remove the outer housing of the seat belt height adjuster. Tips
 
-The beam interior panel on the windshield is fixed by 10 fasteners, and the fastener is a disposable part. New parts need to be replaced after disassembly.
-
-5. Release the A-pillar speaker plug
-
-![](images/ecb7c1582bf7b50e99c1453f838818edcb54ed460471b5649c6f959859bcd34d.jpg)
-
-First remove the A-pillar trim on both sides, and then release the icon plug (take the right side of the vehicle as an example)
-
-![](images/e6e54f66e87ce0e6e473793ee180c546478aa8f8a86c3dc2b382d5a8304bd83a.jpg)
-
-6. Loosen the antenna plug of the front windshield, which is located in the dashboard on the passenger side.
-
-![](images/9515d5a45fc1a3d1862a3f79ba1d4a62828db3d295d27b410a5130897948b3ad.jpg)
-
-First remove the glove box: Open the glove box and slowly pull out the glove box in the direction of the arrow shown.
-
-![](images/4acd829f689423cc7f21c75de34937b909a7dcf8bfad4aaeda5d2ed5db795f8a.jpg)
-
-Find the antenna plug of the front windshield and loosen it according to the graphic method (the plug is inside the glove box).
-
-![](images/36329fcbce010e7169a6a069253effe8120279a10a669158a5b5d9185ce28b27.jpg)
-
-7. Remove the fastening bolts connecting the front windshield with the left and right anti-roll bars. There are 3 fastening bolts on each side, total 6 bolts. (Take the right side of the vehicle as an example).
-
-![](images/dac7367808b9b2626873876ddf6e0363ab645e4e46874045de8fa2261f2f93fd.jpg)
-
-8. Remove wiper arm
-
-![](images/c68df696229b4fa76f2ed39606dd6f83f3dcf8be88dbbf7911ca5777d07eb5a4.jpg)
-
-Open the wiper arm nut cover along the arrow B shown in the figure, and remove the fixed nut - arrow A-. Both wiper arm retaining nuts need to be removed
-(The right side as an example)
-
-![](images/9ffb26367afe4b9fb1ac8bcd304b0852a3329867117b9e063f7f60165a70add8.jpg)
-
-![](images/9c070023258e99d43bf0c847bbf5dbf98d150c9a81a66b0034079a88c6039334.jpg)
-
-Pull the wiper arm out of the wiper motor shaft with a puller (pay attention to the installation position when disassembling, so that it can be used normally when recovering).
-
-![](images/c8b0bbbfddf6d59b69c09166348059f1246be3cd2f92ea1294c0c628880634c9.jpg)
-
-9. Remove the round head screw that fixes the lower left and right sides of the front window, 6 units on each side, total 12 units. Remove the triangle plate of the front window (take the right side of the vehicle as an example).
-
-![](images/a8340cb123a9e45434edab58c0a225fb18fad078e3f1563b3209ebb0e7aae40c.jpg)
-
-![](images/9d080a28d2c17204014b52646d9af866632c29f3983be6027c07ab15661d54ba.jpg)
-
-10. In the direction of the arrow as shown in the figure, slowly put the front windshield down and firmly fasten the front windshield to the engine hood.
-
-11. Remove B-pillar trim panel. 2
-![](images/548b929124d9bdc285a5a8c332fcf4ad8d9afb658213694e2e47001367ae8be2.jpg)
-
-![](images/278fae0737a069fd4170541f0c4f1e463dc2de05a9ab3809c177541bff48454e.jpg)
-
-To do so, it is necessary to first remove the seat belt height adjusters on both sides (the picture here takes the right side of the vehicle as an example). As shown in the figure, pry and remove the outer housing of the seat belt height adjuster. Tips
-
-### Caution
-`baic_bj40_en_d3d93fe5` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-![](images/92648b30ce1d571607ae282e1dc4a2f9a0917cdcdc703882268354f7b6296249.jpg)
-
-Unscrew the retaining bolts of the seat belt height adjuster and then remove the seat belt height adjuster (the picture here takes the right side of the vehicle as an example).
-
-![](images/a84d3e22517e58782c291e3e131b29ecf0fbdbb6ac26a5262fa87207ebf1d782.jpg)
-
-![](images/d574e2c07712fd51ee6a03656407ff5904a341fb3aabb36c8858be0427b03758.jpg)
-
-Loosen the expansion screws in the position shown in the figure (there are a total of 4expansion screws, with 2 on each side), remove the B-pillar trim panel (the picture here takes the right side of the vehicle as an example).
-
-![](images/35ce52eb66e7891dee41193a05a28c43f9fd827a92f4fc1b64a326835adb8c8b.jpg)
-
-![](images/35f0d07cf91a5474c21cd5f08768ac6d765ec92bca7496e5c393b21cb4eb5450.jpg)
-
-12. Remove the retaining bolts which connect B-pillar and the left and right stabilizer bars. There are a total of 12 retaining bolts, with 6 on each side. (The picture here takes the right side of the vehicle as an example.) Then, remove the stabilizer bars on both sides and put them in a safe place.
-
-![](images/350bb95887e841813cedbc508dcaf358682bce52b71df76dadab815e2e84f5de.jpg)
-
-13. Before driving the vehicle, be sure to reset the seat belts on both sides by taking steps which are the opposite of the steps described in Item 11 above. The front windshield folding down operation is now at an end.
+> ⚠️ **Внимание:** 
+> ![](images/92648b30ce1d571607ae282e1dc4a2f9a0917cdcdc703882268354f7b6296249.jpg)
+>
+> Unscrew the retaining bolts of the seat belt height adjuster and then remove the seat belt height adjuster (the picture here takes the right side of the vehicle as an example).
+>
+> ![](images/a84d3e22517e58782c291e3e131b29ecf0fbdbb6ac26a5262fa87207ebf1d782.jpg)
+>
+> ![](images/d574e2c07712fd51ee6a03656407ff5904a341fb3aabb36c8858be0427b03758.jpg)
+>
+> Loosen the expansion screws in the position shown in the figure (there are a total of 4expansion screws, with 2 on each side), remove the B-pillar trim panel (the picture here takes the right side of the vehicle as an example).
+>
+> ![](images/35ce52eb66e7891dee41193a05a28c43f9fd827a92f4fc1b64a326835adb8c8b.jpg)
+>
+> ![](images/35f0d07cf91a5474c21cd5f08768ac6d765ec92bca7496e5c393b21cb4eb5450.jpg)
+>
+> 12. Remove the retaining bolts which connect B-pillar and the left and right stabilizer bars. There are a total of 12 retaining bolts, with 6 on each side. (The picture here takes the right side of the vehicle as an example.) Then, remove the stabilizer bars on both sides and put them in a safe place.
+>
+> ![](images/350bb95887e841813cedbc508dcaf358682bce52b71df76dadab815e2e84f5de.jpg)
+>
+> 13. Before driving the vehicle, be sure to reset the seat belts on both sides by taking steps which are the opposite of the steps described in Item 11 above. The front windshield folding down operation is now at an end.
 
 ### General Instructions
-`baic_bj40_en_7cf9e65c` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The A/C system can reduce the air temperature and humidity inside the vehicle.
 
@@ -1903,7 +1772,6 @@ Controller circuit will be powered on. It will automatically resume the working 
 Tips When the exterior temperature and humidity are both very high, the moisture in the air will condense on the evaporator of the refrigeration system and form water drops which fall off from the evaporator, causing water accumulation under the vehicle. This is a normal occurrence and there is no need to worry about it. ●Be sure to keep the air inlet at the front part of the windshield free of blockage by snow, ice or tree leaves so as to ensure normal heating and refrigeration and prevent fogging of the front windshield. ●Only after the vehicle windows are closed can the A/C system play its maximum role. However, if it is very hot inside the vehicle due to exposure to strong sunlight, be sure to temporarily open the vehicle windows to let the hot air inside escape. This will speed up cooling inside the vehicle.
 
 ### A/C Control Panel
-`baic_bj40_en_97443ec3` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d451eebb6f244272491f413c2a69c5bb35577e7a932226ce8fc322a5c3112b7e.jpg)
 
@@ -1935,7 +1803,6 @@ Front defrost mode: under max cooling, heating state, no exit front defrost mode
 ![](images/1492398e7dfcca5fe4582d6ae2f4a32f6349e7f78a4b397226d2d7bb6aba8027.jpg)
 
 ### 2. AUTO mode switch
-`baic_bj40_en_9b12b119` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 After pressing the AUTO switch, the working indicator light will be on, and the air conditioning system will enter the automatic control program。 Air outlet temperature, air volume, air outlet direction and air circulation are all automatically controlled by the air conditioning system.AUTO working status is displayed synchronously in the large central control screen.
 
@@ -1946,7 +1813,6 @@ The direction of the wind will be selected according to the five modes of blowin
 The direction of the wind will be selected according to the five modes of blowing surface, blowing surface-blowing foot, blowing foot, blowing surface-defrosting and defrosting. When it is blowing foot-defrosting, pressing this switch again will adjust to blowing surface mode. The wind mode state is displayed synchronously in the large screen of the central control system.
 
 ### 4. Front defrost switch
-`baic_bj40_en_37b8a347` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Manual operation of this switch, air conditioning outlet mode for window blowing, external circulation, issued A/C open request Signal, A/C working indicator lights up, air volume air conditioning automatically adjusts to 5 gear(if the air volume is greater than 5 gear
 
@@ -1970,7 +1836,6 @@ After the “Rear defrost” button is pressed down, the system will start to he
 Caution Rear defroster function is only worked while the engine is working because it has much electricity consumption. 8. Internal & External Circulation Switchover Key When the internal & external circulation switchover key is not pressed, the defaulting running state of the system is the external circulation mode. After the internal & external circulation switchover key is pressed down, the indicator light on this key will be lit and the running mode of the system will be internal circulation. While the system is in a standby state, 9. A/C switch When A/C indicator is ON, so the refrigeration function is started. When A/C indicator is OFF, so the refrigeration function is closed. Only the engine is working, A/C can start work; when the engine doesn’t work, though the A/C indicator is ON, but A/C can’t work.
 
 ### 4. Front defrost switch
-`baic_bj40_en_1ea8d2d5` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Press down the automatic running key(AUTO), and the air conditioning system will enter automatic running mode. The key indicator light will also be lit and the AUTO icon will appear on the display screen. If any key other than the rear defrosting key, the system OFF key or the temperature key is pressed down while the system is in automatic running mode, the system will then execute the command of this key. As the icon on the screen disappears, the key indicator light will go off at the same time. Other originally automatically running function will continue to be automatically controlled by the system.
 10. Right temperature knob
@@ -1986,12 +1851,10 @@ Rotate the knob in clockwise direction, the temperature will go up. When the tem
 This key is used to switch over between the single zone mode and the dual zone mode. The system is in the single zone mode by default. Pressing this key can switch to dual zone mode, and the display screen will display DUAL icon. In the single zone mode, only the set temperature of the set side can be adjusted. In other words, when the set temperature increase/decrease key of the right side is adjusted, the set temperature of the right side will also increase/decrease; if the set temperature of the right side is adjusted in the single zone mode, the system will enter the dual zone mode and the set temperature of the right side will also change. But, the set temperature of the left side will remain unchanged. When the single/dual zone switchover key is pressed under the single zone control mode, the system will switch to the dual zone mode. In other words, when the set temperature of the left side, the set temperature of the right side will not change, and vice versa. When the system is in the automatic running mode, press down this key and the system will remain in the automatic running state and the AUTO icon display will not change. When the system is in a standby state, pressing down this key will be deemed as an invalid command.
 
 ### Interior heating
-`baic_bj40_en_36729845` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Turn the left\right temp. knob to above 24℃. 2. Select Mode switch, set airflow distribution, blowing foot mode is recommended. 3. Turn the Air volume knob, set the amount of air coming out.
 
 ### Interior refrigeration
-`baic_bj40_en_e63da285` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1.Turn the left\right temp. knob to lower than 24℃.
 2.Press the A/C switch, start refrigeration function, the indicator light is ON.
@@ -1999,21 +1862,18 @@ This key is used to switch over between the single zone mode and the dual zone m
 4. Press the A/C outlet airflow mode switch-3-, set airflow mode, face direction blowing mode is recommanded.
 
 ### Fast cooling
-`baic_bj40_en_245de0aa` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For maximum refrigeration, all windows must be closed. Press the A/C button, turn the mode selection knob to head mode, turn the mixed vent adjustment knob to the lowest temperature point and put the air volume control knob to the Grade 8 position.
 
 ![](images/52e375e7ef773881aba08cbbdaa72e165b1169864aba0442da9f29fa95fc468f.jpg)
 
 ### A/C Maintenance
-`baic_bj40_en_432ad200` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The A/C system is fully sealed. The main maintenance work of the system should only be done by qualified technical personnel. To enable the system remains in its best state, the vehicle owner should make sure to operate the system for a short period of time each week (even in winter). When the engine is at normal operating temperature, start the A/C and keep it on for at least 10 minutes while driving the vehicle at a stable speed.
 
 The extra moisture generated during the dehumidification process is drained outside by the system via the drainage pipe in the vehicle bottom. This may cause water accumulation on the road surface when the vehicle is still. This is no cause for concern.
 
 ### A/C Filter
-`baic_bj40_en_cf37c027` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The A/C filter (as a standard configuration for vehicles equipped with an A/C) is located inside the A/C box case at the left front side of the glove box. It helps to keep the air inside the vehicle fresh and prevent pollen and dust from entering the vehicle. To keep it working properly, it is necessary to check whether the filter is dirty every time the vehicle is inspected. If necessary, it should be replaced.
 
@@ -2022,7 +1882,6 @@ The A/C filter (as a standard configuration for vehicles equipped with an A/C) i
 ●When the A/C system is running, please confirm that the air inlet in front of the front windshield is unobstructed, such as by tree leaves or other objects. The accumulation of blocking objects at the air inlet will affect the flow of air.
 
 ### A/C Outlets
-`baic_bj40_en_985e3a18` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The A/C system of this vehicle has a total of 4 outlets
 1. Side outlets
@@ -2035,21 +1894,18 @@ There are 2 central outlets, which are located in the middle of the instrument p
 There are 2 rear outlets, which are located on the back of the front center armrest.
 
 ### Central Air outlets
-`baic_bj40_en_0e5c563c` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/1ee884beee5fce1ddccd046ff337f2b50442d82b4dda0d465d90ba06fa7166f8.jpg)
 
 To adjust the volume of airflow of each outlet, it is necessary to push any arrow-marked place of the outlet,
 
 ### Driver Side Air outlets
-`baic_bj40_en_d58ca755` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c73096f9970c003705196e5f81dd61c0901fb2f47e0e03f2d6f9c45e67a8c856.jpg)
 
 To adjust the volume of airflow of each outlet, it is necessary to push any arrow-marked place of the outlet,
 
 ### Rear Left outlets
-`baic_bj40_en_977fcd5f` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f8988dfdf02899af90c388c6d26a53f8aa8edcba883f867210d3a44673311b57.jpg)
 
@@ -2064,21 +1920,18 @@ To adjust the direction of the air flow of the outlets, turn the convex tongue a
 Rear left outlets for foot
 
 ### Rear Right outlets
-`baic_bj40_en_133862f1` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/80d21228db2ca2ad4d1cc11dad465e5efc1560d4608cca82bb1277b5a40a4579.jpg)
 
 Rear right outlets for foot
 
 ### Outlets Switch
-`baic_bj40_en_8fdf659c` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/b710c2271bdf7b87f33b8499472a6a92453b5668dcd19b0c540854979d753b06.jpg)
 
 Outlets switch makes open or close of vent door, the vent door is closed in clockwise direction to the end position, the vent door is closed in opened in anticlockwise direction to the end position.
 
 ### Exterior Vehicle Lights
-`baic_bj40_en_a2b54e04` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The vehicle light control part is located on the rear left multi-functional operating lever of the steering wheel.
 
@@ -2088,26 +1941,21 @@ The vehicle light control part is located on the rear left multi-functional oper
 2. Fog light control knob
 
 ### Vehicle Light Switches
-`baic_bj40_en_89d78c5a` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c3e9bee7a5955b4673e1529e1ef12790b74105a119ef4e1c455fc3dc6275b8ab.jpg)
 
 As shown in the figure, when the vehicle light control knob is turned to the “OFF” position-3-, it indicates that all the vehicle lights are switched off and none are lit (except the hazard warning lights). When the knob is turned to position -2-, namely the small lights position, the parking lights, the tail light, the front and rear marker lights, the vehicle plate light and the instrument backlight will be lit. Meanwhile, the display screen backlight of the information center of the instrument will be reduced to 40% of its daytime brightness to prevent dazzling. When the knob is turned to position -1-, namely the low beam position, the headlight low beam will also be switched on.
 
-### Caution
-`baic_bj40_en_f5403520` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
-
-●When the engine is turned off, do not leave the headlights or other lights on for long periods of time. Otherwise, the battery power will be reduced.
-
-●During periods of rain or when the vehicle is being washed, mist may form on the inner side of the translucent mirrors of the headlights. This is not a fault but a normal phenomenon, like the fogging of windows in damp weather. After the lights are turned on, the heat produced will evaporate any mistiness. However, if water condenses inside the headlights, please take the vehicle to an authorized BAIC dealership to have it checked.
+> ⚠️ **Внимание:** 
+> ●When the engine is turned off, do not leave the headlights or other lights on for long periods of time. Otherwise, the battery power will be reduced.
+>
+> ●During periods of rain or when the vehicle is being washed, mist may form on the inner side of the translucent mirrors of the headlights. This is not a fault but a normal phenomenon, like the fogging of windows in damp weather. After the lights are turned on, the heat produced will evaporate any mistiness. However, if water condenses inside the headlights, please take the vehicle to an authorized BAIC dealership to have it checked.
 
 ### Low/High Beam Light Switchover Turn signal lights
-`baic_bj40_en_4aa4ff68` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the headlight low beam is turned on, push the left multi-functional operating lever in the opposite direction to the steering wheel. The headlights will change from low beam to high beam. In addition, the blue indicator light on the combination instrument will be lit again. Then, reset the operating lever on the left side, and the headlights will change from high beam back to low beam again.
 
 ### Overtaking Flashing Signal
-`baic_bj40_en_902d7c08` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 No matter where the vehicle light switch knob is, pull the left multi-functional operating lever in the direction of the steering wheel, and the high beam light of the headlight will be lit. Upon release, the operating lever will automatically be restored to its original state.
 
@@ -2118,12 +1966,10 @@ Pull the left multi-functional operating lever -Arrow A- upwards, and the right 
 ![](images/67ca4cbfd97f20130a73b32f26f738fe93486c5fe92b69be60cb6a8f824421b5.jpg)
 
 ### Fog Light Control Switch
-`baic_bj40_en_be7dc7d9` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the light switch is in the small light position or the low beam light position, turn the fog light control knob to position -2-, and the front fog light will be switched on. Turn the fog light control knob to position -1-, and the front and rear fog lights will be both switched on. When the fog light control knob points to position -3-, the front and rear fog lights will be both switched off, rear fog light can't be lit separately.
 
 ### Manual Adjustment of Headlight Height
-`baic_bj40_en_22ff0705` | bj40 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 ![](images/e8b0d2b59bdd4d75d13fdb925569abd6ff6eff228215318e673b55b2381f0b86.jpg)
 
@@ -2146,19 +1992,16 @@ All seats are filled and the trunk load is evenly distributed (reach the permiss
 Only the driver, and the trunk load is evenly distributed (reach the permissible axle load of the rear axle and do not exceed the maximum permissible laden mass).
 
 ### High Beam Delay
-`baic_bj40_en_1e276bfb` | bj40 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 The high beam delay function will provide you with lighting via the headlights after you leave the vehicle.
 
 Before moving the ignition key from the “ON” position, if the light switch is in the low beam light position, turn off the engine, park the vehicle, turn off the low beam light switch, and remove the key. After leaving the vehicle, press down the locking button of the remote control key, and then the headlights will be automatically lit and show you the road ahead. The duration over which the headlights are lit can be set up via the information center of the instrument panel. For details, refer to Page 051 "Information Center".
 
 ### Light Reminder
-`baic_bj40_en_97ff62f1` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If a vehicle light is not switched off after the ignition switch has been turned off, there will be a buzzing sound when the door on the driver’s side is opened.
 
 ### Hazard Warning Light
-`baic_bj40_en_ad28b62b` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e2ee92476628e81656907cdbe1b6e3d1df1378c98e220262ee9ed6a3569f764c.jpg)
 
@@ -2170,26 +2013,23 @@ In the event of emergency congestion, the hazard warning light may be used to dr
 
 3.There is emergency congestion. 4. When the vehicle tows another vehicle or is towed by another vehicle. After the hazard warning light is switched on, all the turn signal lights will flash at the same time. The two turn signal lights on the combination instrument and the indicator light on the hazard warning light switch will also flash and issue a rhythmic prompting sound. When the ignition switch is turned off, the hazard warning lights will still work.
 
-### Caution
-`baic_bj40_en_83e7d878` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-●Long hours of using the hazard warning light will consume battery power. Even when the ignition switch is turned off, it will still consume battery power.
-●When using the hazard warning light, be sure to strictly follow the relevant laws and regulations.
-●If the hazard warning light does not work, other ways must be adopted to draw the attention of other road users to your vehicle. The method used must comply with the relevant traffic laws and regulations.
-
-![](images/19cf5fed6432031bf3cf291d76790ec3495b56502a0a740a126874ebef603adb.jpg)
-Interior Lights Reading light
-
-The reading light is located in the middle of the underside of the roof. As shown in the figure, the reading light switch has a total of 3 positions:
-
-DOOR: The reading light will be automatically lit after the vehicle door is opened and gradually go out after approximately 15s of continuous lighting. Interior lights have an energy-saving mode and will automatically go out after a maximum length of lighting of approximately 8 minutes.
-
-OFF: The reading light is turned off. ON: Regardless of the state of the vehicle doors, the reading light can belt.
-
-ON: Regardless of the state of the vehicle doors, the reading light can belt.
+> ⚠️ **Внимание:** 
+> ●Long hours of using the hazard warning light will consume battery power. Even when the ignition switch is turned off, it will still consume battery power.
+> ●When using the hazard warning light, be sure to strictly follow the relevant laws and regulations.
+> ●If the hazard warning light does not work, other ways must be adopted to draw the attention of other road users to your vehicle. The method used must comply with the relevant traffic laws and regulations.
+>
+> ![](images/19cf5fed6432031bf3cf291d76790ec3495b56502a0a740a126874ebef603adb.jpg)
+> Interior Lights Reading light
+>
+> The reading light is located in the middle of the underside of the roof. As shown in the figure, the reading light switch has a total of 3 positions:
+>
+> DOOR: The reading light will be automatically lit after the vehicle door is opened and gradually go out after approximately 15s of continuous lighting. Interior lights have an energy-saving mode and will automatically go out after a maximum length of lighting of approximately 8 minutes.
+>
+> OFF: The reading light is turned off. ON: Regardless of the state of the vehicle doors, the reading light can belt.
+>
+> ON: Regardless of the state of the vehicle doors, the reading light can belt.
 
 ### Backlight Brightness Adjustment
-`baic_bj40_en_b032aa56` | bj40 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 ![](images/0f513da5b556b00b9785c5f0ef81d2cf99908409b45e643b92ffcad83388aa68.jpg)
 
@@ -2198,21 +2038,18 @@ As shown in the figure, the backlight brightness adjustment roller is located in
 i Tips If the ignition key is in the LOCK position or in pulled-out mode, the power leakage protection function will be turned on: The fog lights, the headlights and the reading light will be turned off after approximately 8 minutes. If one or several of the fog lights, the headlights and the reading light are switched on again, the timing will start again. In the event of remote locking within 8 minutes, the corresponding light(s) will be turned off.
 
 ### Windshield Wiper Tips The front windshield wiper
-`baic_bj40_en_8a833cd9` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The control part of the front windshield wipers is a function contained in the rear right multi-functional operating lever on the steering wheel.
 
 ![](images/5af9a1fd05e36b7b84f8303f443eb2ed51c2e349d66ab08e66d3de621df92adc.jpg)
 
 ### Point Wiping
-`baic_bj40_en_294dc0e1` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In the “OFF” position, push the right multi-functional operating lever in the direction of -Arrow A- as shown in the figure, and the wipers will carry out point wiping. In other words, every time the operating lever is operated, the wipers will wipe once only. After the upward push action is completed, the operating lever will automatically reset.
 
 Intermittent wiping and continuous wiping In the “OFF” position, press the right multi-functional operating lever downwards by position in the direction of -Arrow B-, and the front windshield wipers will start intermittent wiping. Press it downwards by 2 positions, and the wipers will start continuous wiping at low speed. Press it downwards by 3 positions, and the wipers will start continuous wiping at high speed.
 
 ### Front Windshield Cleaning
-`baic_bj40_en_c1b3988d` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In the direction of -Arrow C-(towards the chest of the driver), pull the right multi-functional operating lever, and the washing nozzle of the front windshield will spray windshield cleaning agent and the wipers will automatically wipe in several cycles.
 
@@ -2223,21 +2060,17 @@ When the washing and wiping cycle ends, if the wiper control lever is in any pos
 ![](images/db41f66b452680bbde41173185e9909b4b2a5f482d211ca02641afea69a632cd.jpg)
 
 ### Intermittent Wiping Frequency
-`baic_bj40_en_f4df736e` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 As shown in the figure, turn the end position -1- of the operating lever on the right side, and the intermittent wiping frequency of the front windshield wipers can be controlled. Turning it upwards (clockwise) will reduce the frequency, while turning it downwards (anticlockwise) will increase the frequency of intermittent wiping.
 
-### Caution
-`baic_bj40_en_ad61c3b8` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-●It is prohibited to use the wipers when the windshield glass is dry.
-
-Before using the wipers in low temperatures or hot conditions, make sure that the wiper blades are not frozen or stuck to the windshield.
-
-●In winter, be sure to clear snow and ice which are accumulated on the wiper arms and the wiper blades, including the areas which the wiper blade may reach.
+> ⚠️ **Внимание:** 
+> ●It is prohibited to use the wipers when the windshield glass is dry.
+>
+> Before using the wipers in low temperatures or hot conditions, make sure that the wiper blades are not frozen or stuck to the windshield.
+>
+> ●In winter, be sure to clear snow and ice which are accumulated on the wiper arms and the wiper blades, including the areas which the wiper blade may reach.
 
 ### Rear Windshield Wiper
-`baic_bj40_en_8078bb1a` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/311c5203a622be54d59dc49c3a347e7bf1b5818efb5ce97ae7fe44bc29c014ed.jpg)
 
@@ -2252,7 +2085,6 @@ In this position, the rear windshield wiper will execute the intermittent wiping
 4. Continuous, low-speed wiping by rear wiper In this position, the rear windshield wiper will execute the continuous, low-speed wiping action.
 
 ### Rearview Mirror
-`baic_bj40_en_11dd2867` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Interior Rearview Mirror
 
@@ -2267,7 +2099,6 @@ There are two positions for the manual interior anti-glare rearview mirror, whic
 The adjustment level can be moved back and forth to adjust the interior rearview mirror. At night, the lever on the mirror base can be pulled backwards to the “Night” position to reduce the dazzling effect which the light of vehicles behind may cause to the driver. When the lever is pushed backwards, the interior rearview mirror will return to the initial position, namely the “Daytime” position and normal vision will be restored.
 
 ### Exterior Rearview Mirror
-`baic_bj40_en_8e69dc18` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This vehicle is equipped with an electronic exterior rearview mirror, which has the electric adjustment and electronic folding functions.
 
@@ -2278,7 +2109,6 @@ Automatic anti-glare inner and rear mirror can automatically adjust the inner an
 The color depth can reduce the dizziness caused by the rear vehicle lights to the eyes.
 
 ### 4 Warning
-`baic_bj40_en_36a78278` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ●In order to ensure the normal function of the anti-glare sensors on both sides of the endoscope, it is forbidden to use finger or object contact or cover sensor.
 
@@ -2293,7 +2123,6 @@ The user can turn off the display of the camera video through the switch on the 
 Thereby switching to a physical mirror mirror.
 
 ### Outside rear view mirrors
-`baic_bj40_en_221fd2b9` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The car is equipped with an electric exterior mirror, and the Outside rear view mirrorshas electric adjustment and electric folding.
 
@@ -2346,7 +2175,6 @@ The microwave window is used to install the electronic sign of the car. The inst
 The microwave window is allowed to be embodied in the form of pitting, and the black area and the pitting point have no effect on the electronic identification receiving signal.
 
 ### The importance of correct seats adjustment
-`baic_bj40_en_532ce797` | bj40 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Properly adjusting the seat ensures that the seat belt and airbag are fully protected. The driver and front passenger seats can be adjusted in a variety of occupant sizes. Always adjust the front seats correctly before driving the car:
 
@@ -2359,7 +2187,6 @@ It is able to operate all the operating mechanisms on the instrument panel accur
 △ Warning The seat can only be adjusted while the vehicle is stationary. If the seat is adjusted while the vehicle is running, it can easily lead to accidents. ●For the driver and the Passenger, the torso should always be at least 25 cm away from the steering wheel or dashboard. If the spacing is less than 25 cm, the airbag system will not be fully functional risk of injury
 
 ### Headrest
-`baic_bj40_en_cd505e99` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Correct adjustment of the headrest is essential to protect the occupants and reduce accident and injury rates.
 
@@ -2368,7 +2195,6 @@ Correct adjustment of the headrest is essential to protect the occupants and red
 Adjust the headrest so that the center of your back is right in the center of the headrest. If the center of your head and the center of the headrest do not maintain the correct position as shown in the figure, it is extremely vulnerable in the event of an accident.
 
 ### 4 Warning
-`baic_bj40_en_25e3978c` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ●If the headrest is removed or the headrest is adjusted/improperly installed, it is very easy to seriously injure the occupant in the event of an accident.
 ●The occupant must adjust the headrest according to his or her body shape.
@@ -2376,7 +2202,6 @@ Adjust the headrest so that the center of your back is right in the center of th
 ●The height of the headrest must be suitable for the height of the occupant. The upper edge should be as high as possible on the top of the head, and the center of the head should be as close as possible to the center of the headrest.
 
 ### Adjust the front seat headrest
-`baic_bj40_en_e7bf5cbe` | bj40 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 ![](images/77a864563d0efd9de0b7c81ea486fc22a7784954ac0822b5c1ca879a61ab321c.jpg)
 
@@ -2387,7 +2212,6 @@ For safety and comfort, adjust the headrest before driving.
 3. Front and rear adjustment of the headrest: The occupant sits on the seat, grab both sides of the headrest at the same time, adjust the headrest forward to the proper position; adjust the headrest to the front gear and continue to adjust the headrest forward, the headrest can be returned To the last position.
 
 ### Vehicle with three headrests
-`baic_bj40_en_5bfb057d` | bj40 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 ![](images/6f510a816fa7526277008b832009c2a3e70988439132631c270a0d94f4b1b607.jpg)
 
@@ -2400,7 +2224,6 @@ For safety and comfort, adjust the headrest before driving. 1. Grasp the sides o
 Seat Front seat Driver seat
 
 ### 4 Warning
-`baic_bj40_en_906964d4` | bj40 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 When the driver's airbag is inflated, there is extreme pressure, especially if the driver is very close to the airbag, which can cause serious injury or even death.
 
@@ -2423,21 +2246,18 @@ BPO T H B
 When the start/stop button is in the “RUN” mode, the three working indicators of the driving and Passenger side seat heating switches are illuminated. At this time, the seat temperature is the highest, and once the button is pressed, the indicator lights are turned off from top to bottom. The seat temperature is lowered by one step, and so on, and the switch button is cycled. Some models may not be equipped with this switch depending on the model.
 
 ### Front seat electric adjustment\*
-`baic_bj40_en_b84b59dc` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The driver's seat has a 6-way electric adjustable function and the front passenger seat has a 4-way electric adjustable function.
 
 ![](images/123194ba38d33819ff5d2cadde09a0e1c520fe60e23e5e5785ae318246bc44b2.jpg)
 
 ### Driver seat adjustment:
-`baic_bj40_en_87dfc432` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Toggle switch -1-, according to the left side - arrow - direction in the figure, you can adjust the height of the seat or move back and forth. Front and rear toggle switch -2-, according to the right side of the figure arrow - direction, you can adjust the backrest angle of the seat back.
 
 ![](images/2d7c6bf65401c09d9cb6a023294e2fb0f19fbf7968c3b876ecfc3a130f217303.jpg)
 
 ### Electric waist support (such as equipment):
-`baic_bj40_en_dd35926a` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The electric waist control button -1- is located on the outside of the driver's seat.
 Press the upper part of the control button to move the waist support upwards;
@@ -2448,26 +2268,22 @@ Press the back of the control button to move the waist back;
 ![](images/5bfa21730f8f44b6a7e95fde02ad9b75b1d28c6b8630952b7e405472dd5ddc51.jpg)
 
 ### Coupon seat electric adjustment:
-`baic_bj40_en_f9909bf7` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Push the front and rear switch -1- to adjust the front and rear movement of the seat position. Front and rear toggle switch -2- upper, the backrest angle of the seat back can be adjusted.
 
 ### Front seat manual adjustment \*
-`baic_bj40_en_3dc91ff3` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The driver's seat has a 6-way adjustable function and the front passenger's seat has a 4-way adjustable function.
 
 ![](images/2906f7d58e582ab3538528dd1abea0534822fc4a0fa1c3eef0539116cd710a8f.jpg)
 
 ### Seat front and rear adjustment:
-`baic_bj40_en_2b5a9b18` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The front two seats can be adjusted back and forth, here the driver side is taken as an example. Pull up the adjustment lever -1- under the front of the seat and adjust the seat to the proper position. Loosen the adjustment lever and move the seat slightly back and forth until the seat lock mechanism is locked.
 
 ![](images/04c71a8700f83d4871e2f2ee474ea7fd110258331ba7eae62b0cbc5e468f92ef.jpg)
 
 ### Seat back adjustment:
-`baic_bj40_en_1804e7f0` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The backrests of the two seats in the front row can also be adjusted. The picture here takes the driver's seat as an example. If the driver and the Passenger want to adjust the seat back, lean the body forward slightly, and gently pull up the horizontal part -2- on the seat back angle adjustment handle, and lean back to close the seat back. In a comfortable position, release the handle and the seat back is locked in that position.
 
@@ -2476,7 +2292,6 @@ The backrests of the two seats in the front row can also be adjusted. The pictur
 Seat height adjustment (only for driver seat): Press the height adjustment handle down and down -3-, the seat surface will move downwards; the height adjustment handle will be pulled back and forth, and the seat surface will move upwards.
 
 ### Backrest lumbar adjustment (only for driver seat):
-`baic_bj40_en_91a2f940` | bj40 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Pull the adjustment handle up and down -4- to increase the lumbar support; press the adjustment handle down and down to lower the lumbar support.
 
@@ -2487,7 +2302,6 @@ Caution After adjusting the seat position, try sliding the seat back and forth t
 ![](images/95ba688989e6be3bad4f5dec318c382c726ea66fac99c21aa9a6884914efa5bd.jpg)
 
 ### Rear seat folding
-`baic_bj40_en_961160cd` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This car is equipped with a rear 4/6 split seat. If you need to place large items in the rear seat, you can fold and flip the back seat back.
 
@@ -2500,7 +2314,6 @@ Fold the seat back to full contact with the seat cushion
 ![](images/e5ab6698c264b38da73fc94c2496efdf9e82a1e648f3aa69806cf0e05906be5f.jpg)
 
 ### Flip
-`baic_bj40_en_a578b0cc` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Pull down the seat straps under the sides of the seat as shown, and then lift the seat up.
 
@@ -2517,15 +2330,12 @@ The backrest is designed for an angle of 23°, 4° forward and 10° backward.
 
 ![](images/9963112878cc9a460cfe5e17508e0680cec1974d1ed696f3a67d4e3a879dc813.jpg)
 
-### Caution
-`baic_bj40_en_393196a6` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-When the vehicle is moving, the rear seat that needs to be carefully turned up is down. At this time, the fixing hook in the seat pocket of the seat should be hung on the armrest of the body side guard as indicated by the arrow.
-
-![](images/febd45fbaa16bcdfbc1a604dcfcbacd0c48568c49f2e89423229688a8dfa4fea.jpg)
+> ⚠️ **Внимание:** 
+> When the vehicle is moving, the rear seat that needs to be carefully turned up is down. At this time, the fixing hook in the seat pocket of the seat should be hung on the armrest of the body side guard as indicated by the arrow.
+>
+> ![](images/febd45fbaa16bcdfbc1a604dcfcbacd0c48568c49f2e89423229688a8dfa4fea.jpg)
 
 ### 4 Warning
-`baic_bj40_en_85b372fb` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ●It is very dangerous to ride in the baggage area. In a crash, an occupant riding in this area is likely to be seriously injured or even killed.
 ●Make sure that every occupant in the car is seated on the seat and properly fasten the seat belt.
@@ -2540,19 +2350,16 @@ box
 
 Pull the handle -1- to open the glove box and push the glove box cover to close the glove box.
 
-### Caution
-`baic_bj40_en_a91d7d02` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-●When storing liquid in the glove box, only tightly closed or unopened containers can be stored. Spilled liquid can damage the decorations and electrical components inside the glove box and dashboard. ●The glove box must be closed when the vehicle is running, otherwise the items in the glove box may fly out during an emergency braking or an accident, causing injury to the occupants.
-
-Cup holder
-
-![](images/ff2f3da884c8af38dc708831770ae1f50d62bdca9d64deab876b00e6763e60db.jpg)
-
-The cup holder -1- is located in the front center console, where an ashtray can also be placed (purchased by yourself).
+> ⚠️ **Внимание:** 
+> ●When storing liquid in the glove box, only tightly closed or unopened containers can be stored. Spilled liquid can damage the decorations and electrical components inside the glove box and dashboard. ●The glove box must be closed when the vehicle is running, otherwise the items in the glove box may fly out during an emergency braking or an accident, causing injury to the occupants.
+>
+> Cup holder
+>
+> ![](images/ff2f3da884c8af38dc708831770ae1f50d62bdca9d64deab876b00e6763e60db.jpg)
+>
+> The cup holder -1- is located in the front center console, where an ashtray can also be placed (purchased by yourself).
 
 ### Front central armrest storage box Small storage box
-`baic_bj40_en_41143f48` | bj40 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 ![](images/2001ba204eb754f94e0c591e2f07e7de340e55fface4e4f42e93cfb02a343144.jpg)
 
@@ -2575,7 +2382,6 @@ The cigarette lighter (the position of the arrow shown) is located below the ins
 5. When the cigarette lighter is used as a power outlet, it can be connected to an electrical device such as a mobile phone. Some electrical accessories may not be compatible with the cigarette lighter socket and may blow the vehicle or adapter fuse.
 
 ### Precautions:
-`baic_bj40_en_274a52bd` | bj40 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 1. Frequent plugging and unplugging of the cigarette lighter will invalidate the function of the cigarette lighter. Please fix the purpose of the cigarette lighter as much as possible. Do not switch between the cigarette lighter and the power socket function frequently.
 
@@ -2588,21 +2394,18 @@ The cigarette lighter (the position of the arrow shown) is located below the ins
 6. Never hang any type of accessory or auxiliary bracket on the plug.
 
 ### Door debris bag
-`baic_bj40_en_d422dc2d` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 There is a sundries bag arrow below each side of the door (- different models are not the same), can be used to store small items such as maps. The weight of the load shall not exceed 0.6kg, and the diameter of the round object shall not exceed 70cm. The picture here uses the right door as an example.
 
 ![](images/ac3c3457ecb13aac55a7ee42a84771408508b5c7485e661ab1a7e8c80e6cbf99.jpg)
 
 ### Driver's side door storage boxs
-`baic_bj40_en_c0709cbc` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7cf1e43a7e8bdf662b170e1004dcd36978b0851e79ddd768cc61cc37bee222f9.jpg)
 
 The storage box is located below the driver's side door.
 
 ### 220V power interface\*
-`baic_bj40_en_94203cd3` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b804acde352abdfdb37ca184df85b41c30b178b9cfd8dea7cdc3c72fbaa3cfad.jpg)
 
@@ -2615,7 +2418,6 @@ Located under the rear exhaust vent
 Caution ●Do not use more than 150W of electrical appliances, otherwise the electrical system may be damaged; ● Improper use of the outlet may result in serious personal injury or fire, so do not allow the child to stay alone in the vehicle; ●Do not spill liquids into the power outlet, as this may be dangerous.
 
 ### Parts and modification
-`baic_bj40_en_91e68b68` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the vehicle leaves the factory, the engine compartment front wall, B-pillars and other components are affixed with data labels and signs, which are marked with important data and information on the use of the vehicle. Do not remove or damage labels and tags, and always keep the data and information clear and readable.
 
@@ -2628,24 +2430,20 @@ It is recommended that you always use accessories and parts approved by our comp
 If the car phone, alarm device, transceiver radio communication device and low-power audio system are properly installed, it will not interfere with the computer control system on the car, such as the anti-lock braking system (ABS).
 
 ### Before installing any accessories, you should be aware of:
-`baic_bj40_en_e58dc84b` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure that the attachment does not cause the lights to dim or affect the normal handling or performance of the vehicle.
 
 ### Modified
-`baic_bj40_en_bbf38fb4` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Removing the parts on the vehicle or replacing the original parts with parts not approved by BAIC Auto will seriously impair the handling stability and reliability of the vehicle.
 
 ### E.g:
-`baic_bj40_en_47fd6b26` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ●Installing larger or smaller wheels and tires will interfere with the normal operation of the vehicle's anti-lock braking system (ABS) and other systems.
 
 ●Modification of the steering wheel and other safety features may cause system malfunction.
 
 ### 4 Warning
-`baic_bj40_en_ed08c047` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Improper modification or improper installation of the vehicle can easily lead to malfunctions and accidents. It is recommended to always use the accessories and parts approved by the company, because the adaptability, reliability and safety of the above accessories and parts have been strictly verified by our company.
 
@@ -2658,7 +2456,6 @@ Do not install wheels and tires that are not approved by our company.
 ![](images/f69ac8c12181d07206175e61f59e1fbc244a6a1808fdd846fd675d84656137ac.jpg)
 
 ### 3. Driving guide
-`baic_bj40_en_cb41bd58` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Start and drive    135
 Transmission system 1 · 145
@@ -2667,7 +2464,6 @@ Parking assist system . ········ 160
 Driving skills ········· .164
 
 ### Start/stop button
-`baic_bj40_en_80438a70` | bj40 | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 ![](images/5e9e8573db93e17c60cdd058ca38c8e218927c8833a8565dee917a7a27020b36.jpg)
 
@@ -2685,19 +2481,16 @@ Press the start/stop button one by one to cycle
 through the three modes “OFF” 一 “RUN” “ACC”
 
 ### Steering system
-`baic_bj40_en_1a043c6b` | bj40 | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 1. Do not leave the steering wheel in the dead position (left or right) for more than 15 seconds, which will damage the power steering system. 2. For cold zone users whose temperature is below -20 °C, the steering fluid needs to be replaced with a special low temperature resistant steering fluid at the authorised dealership.
 
 i Tips Automatic transmission model: The shift lever is in the P or N position and the brake pedal must be depressed to start the engine. Manual transmission model: The clutch pedal must be depressed to start the engine. For safety reasons, it is strongly recommended to place the shift lever in the neutral position before starting the engine. Pressing the start/stop button allows the engine to start or switch the power mode, but the smart key must be placed in an effective area that the vehicle can detect.
 
 ### Electrical anti-theft function
-`baic_bj40_en_6ef120d4` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Electronic anti-theft function is used to prevent others from illegally stealing vehicles.The transceiver chip in the remote key is equipped with an electronic code that is sent to the vehicle.The engine can only be started if the chip's electronic code matches the vehicle's ID code.If you use an incorrectly coded key (or other tool), the engine will not work.
 
 ### Automatic driving lock/ stop unlock
-`baic_bj40_en_ab17cdf5` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 When all the doors are locked, after unlocking the door with the smart key, no one of the four doors and two doors has been opened within 30 seconds, and the central door lock will automatically lock.When the vehicle speed is higher than the set value, the central door lock will automatically lock all doors.When the vehicle stalls, the doors unlock automatically.
 
@@ -2708,17 +2501,14 @@ Vehicle with AT
 Put the gear in the "P/N" position, press the brake pedal, put the smart key into the designated key identification position in the cup holder, and press the start/stop button to start the engine.
 
 ### Vehicle with MT
-`baic_bj40_en_afb0c253` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Put in neutral position, press the clutch pedal, put the smart key into the designated key identification position in the cup holder, press the start/stop button, and start the engine.
 
 ### Emergency stop function
-`baic_bj40_en_9e7a947e` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Emergency shutdown mode can be used when normal mode fails to shut down the engine.Step on the brake, and press the start/stop button twice or long press the start/stop button 2s within 2s continuously to shut down the engine. Start engine
 
 ### Start the engine with the start/stop button
-`baic_bj40_en_f0019786` | bj40 | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 When the intelligent key is within the effective detection range, the starting method of the vehicle equipped with start/stop function is as follows:
 
@@ -2731,7 +2521,6 @@ Automatic transmission model: Press the brake pedal to the bottom and hold it; P
 ![](images/b93179b7de3285503e0f2a5f666104528d77cb38dc723b05031d75427d78893d.jpg)
 
 ### Shut down the engine
-`baic_bj40_en_fb8efe6e` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Stop the car, apply parking brake, put the shift lever in neutral, automatic transmission should be placed in P, release the brake pedal or clutch pedal, press the start/stop button, shut off the engine.
 
@@ -2740,7 +2529,6 @@ Put the start/stop button in "ACC" position and the engine will stop
 ![](images/88a041559d134d07fbe5e5d207ea7febd4ce19839dd93528e1e58877318b8aec.jpg)
 
 ### MT \*
-`baic_bj40_en_b789322a` | bj40 | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 ![](images/054bcb51ada2882a05977a387dc393b848e84612b28e814202888846feaa3f53.jpg)
 
@@ -2751,14 +2539,12 @@ When changing gear, be sure to step on the clutch pedal to the end, after changi
 ![](images/a54b7a5f6cbce57f42448851c6be6b1155380d472b26b8684544b5ee9c3e4f5e.jpg)
 
 ### Vehicle speed recommend
-`baic_bj40_en_d5f1bf62` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c0c6ff3a2686b88bd377ddaed20c22b35f7b660cec173f849c2bb8005e083083.jpg)
 
 ![](images/dd09a9df2eff3b5003d907dd673c53aad613bd053fd6d81bc56472b33ac1cb55.jpg)
 
 ### Corrective operation for MT
-`baic_bj40_en_0632af00` | bj40 | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 Shift with gentle force, avoid excessive force, prevent damage to transmission gear.
 Do not put your hand on the shift lever all the time when the car is running, to avoid premature wear of the shift fork.
@@ -2771,7 +2557,6 @@ When the vehicle is running or the engine is idling, do not put your foot on the
 ![](images/4634d0d0015e6e6bbbf07ddd075e8be60af0f0ad13bf8040b9ee42e888effa83.jpg)
 
 ### Reverse gear
-`baic_bj40_en_6184398f` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 When the engine is running, the clutch pedal should be pressed to the end before hanging the reverse gear, pause for a moment and then put the shift lever into reverse gear. Otherwise, the gear will crash when hanging the reverse gear. Once the gear is put into reverse gear, the reversing indicator will be lit up, and the instrument will issue a prompt sound .For information on reversing radar systems, page 160, reversing radar systems.
 
@@ -2807,21 +2592,18 @@ Driving operation:
 
 After the vehicle is put into gear, the electronic parking brake is released first, and then the brake pedal is released and the accelerator pedal is pressed slowly. The vehicle can start to drive.When parking, press down the brake pedal, stop the vehicle, apply parking brake, and put the shift lever into "P" gear.
 
-### Caution
-`baic_bj40_en_ffedd33d` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
-
-●According to the change of resistance (such as traction, climbing a long slope, etc.), the vehicle will start the corresponding gear shift process, by changing into a lower gear to provide greater power to the vehicle.This prevents frequent gear changes.
-●A cold engine starts at a high speed, so be careful when you put it into "D" or "R" before the engine warms up.
-●Before starting the engine, make sure the gear is in "P" or "N". Do not try to start the engine in other gears. ●Put the shifter lever in its other gear from "N", leaving the engine idling.
-●When driving in manual mode, the vehicle will not automatically shift up. Please also pay attention to the speed and load of the vehicle to shift up timely, otherwise the engine and automatic transmission will be damaged.
-●When the car is being towed, remove the drive wheel from the ground. △ Warning
-●The driver must carry the remote control key with him when he leaves the car.Otherwise, people who stay in the car may mistakenly start the engine or electrical equipment, causing serious injuries.
-● Be sure to apply parking brake when stopping.If parking, do not leave anyone in the vehicle, otherwise it may inadvertently remove the parking brake and cause the vehicle to move.
-●When parking or stopping with the engine running, be careful not to press the accelerator pedal for too long.Otherwise, the engine or exhaust system may overheat and cause a fire.
-●Do not park vehicles near inflammable and explosive objects, pay attention to the direction of vehicles, do not make exhaust spray to plants and damage the green belt.
+> ⚠️ **Внимание:** 
+> ●According to the change of resistance (such as traction, climbing a long slope, etc.), the vehicle will start the corresponding gear shift process, by changing into a lower gear to provide greater power to the vehicle.This prevents frequent gear changes.
+> ●A cold engine starts at a high speed, so be careful when you put it into "D" or "R" before the engine warms up.
+> ●Before starting the engine, make sure the gear is in "P" or "N". Do not try to start the engine in other gears. ●Put the shifter lever in its other gear from "N", leaving the engine idling.
+> ●When driving in manual mode, the vehicle will not automatically shift up. Please also pay attention to the speed and load of the vehicle to shift up timely, otherwise the engine and automatic transmission will be damaged.
+> ●When the car is being towed, remove the drive wheel from the ground. △ Warning
+> ●The driver must carry the remote control key with him when he leaves the car.Otherwise, people who stay in the car may mistakenly start the engine or electrical equipment, causing serious injuries.
+> ● Be sure to apply parking brake when stopping.If parking, do not leave anyone in the vehicle, otherwise it may inadvertently remove the parking brake and cause the vehicle to move.
+> ●When parking or stopping with the engine running, be careful not to press the accelerator pedal for too long.Otherwise, the engine or exhaust system may overheat and cause a fire.
+> ●Do not park vehicles near inflammable and explosive objects, pay attention to the direction of vehicles, do not make exhaust spray to plants and damage the green belt.
 
 ### Shift gear display \*
-`baic_bj40_en_37ca0d5e` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 On models equipped with automatic transmissions, the shift position display in the assembly instrument will show the current shift position of the shift lever.
 
@@ -2830,7 +2612,6 @@ The gear character on the gear shift panel has the function of displaying with t
 How to use automatic transmission The following information is especially important for drivers unfamiliar with vehicles equipped with automatic transmissions.
 
 ### Start the
-`baic_bj40_en_c768cd0c` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ●The engine can only be started when the shift lever is in "P" or "N".
 The brake pedal should be pressed before starting the engine.
@@ -2842,18 +2623,14 @@ After selecting the driving gear and the engine is running, do not keep the vehi
 
 ● Vehicles in the wet slippery road, should choose snow mode to start.Specific operation: after the vehicle stops completely, put the gear lever into the D gear, press the button on the center console, enter the snow mode, step on the accelerator slowly, and start driving.
 
-### Caution
-`baic_bj40_en_6d064c06` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
-
-●Do not put the vehicle into "P" or "R", otherwise the transmission will be seriously damaged. ● When the vehicle is driving, especially when idling, please do not slip into neutral. ●When the vehicle is parked for a long time, please hang the "P" for parking brake.
+> ⚠️ **Внимание:** 
+> ●Do not put the vehicle into "P" or "R", otherwise the transmission will be seriously damaged. ● When the vehicle is driving, especially when idling, please do not slip into neutral. ●When the vehicle is parked for a long time, please hang the "P" for parking brake.
 
 ### Special case in which transmission functions are limited
-`baic_bj40_en_27e4277a` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the transmission hardware, CAN communication or TCU work failure, the vehicle function limits the use, enters the corresponding limping mode (the vehicle may not be able to lift the gear normally, or fixed in a specific gear, etc.), and through the TCU fault indicator light or text on the meter to warn.The vehicle can continue to drive, it is suggested to repair as soon as possible.
 
 ### Reverse
-`baic_bj40_en_126c189c` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Park the vehicle steadily
 2. Press the brake pedal and put the shift lever
@@ -2869,7 +2646,6 @@ the sound alarm of different frequencies (see
 "reversing radar system" on page 160).
 
 ### Electric transfer Case
-`baic_bj40_en_f23fe8f9` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8ae260a88a6b2762ef489485b9e77411a11488d51132393ab1d5e5e5850ee9bf.jpg)
 
@@ -2880,12 +2656,10 @@ This vehicle is equipped with electric four-wheel drive transfer box, which has 
 4L: four-wheel drive, low-gear, four-wheel drive, can be used for a short time on off-road roads requiring low speed and high traction. It is not allowed to be used on dry or paved roads.
 
 ### Switch gear Switch between 2H and 4H
-`baic_bj40_en_22628806` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 During the driving process of the vehicle (the required speed is less than 30km/h), the driver can switch between 2H and 4H at will without stopping the vehicle, but should be in a straight and uniform speed.
 
 ### Switch between 4H and 4L:
-`baic_bj40_en_44cb7a05` | bj40 | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 1. Stop and keep the engine running; 2. Press the clutch pedal or move the transmission lever to position N; 3. Turn transfer transfer switch to 4L or 4H gears.Note: for MT models, don't lift the clutch until transfer is completed;In the process of gear changing, the target gear blinking, after the completion of gear changing, the target gear is always bright.
 
@@ -2896,7 +2670,6 @@ The upper left position of cluster displays the current shift position
 ![](images/7c38a5a51f8eb8227568aba6f437a7eec8a1b8addd0482eb1b710bd4eae1f004.jpg)
 
 ### 4 Warning
-`baic_bj40_en_f5e413cf` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 if the transfer gear is not fully engaged, it
 may cause damage to the transfer or the
@@ -2910,7 +2683,6 @@ of time. the driving speed of vehicles in four-wheel
 drive mode shall not be higher than 60KM/H
 
 ### General descriptions
-`baic_bj40_en_42e48a1f` | bj40 | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 Improper operation of the driver on off-road road will cause abnormal damage to the transmission system.
 Operation requirements (steep slope, uneven mountain area, muddy road section):
@@ -2924,7 +2696,6 @@ Operation requirements (steep slope, uneven mountain area, muddy road section):
 ![](images/7d992f499fd52d6ce8d85d46cf6286ffba90708317591ef461337f42cab44056.jpg)
 
 ### Geeral descriptions
-`baic_bj40_en_0668d99f` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Disc brakes are installed on all four wheels of the vehicle.The booster helps reduce the force required to the brake pedal.
 
@@ -2953,7 +2724,6 @@ Avoid slamming on the brake pedal unnecessarily.It is wrong for some drivers to 
 If the engine flameout in the road, should take the normal brake but do not use the inching brake, otherwise the brake pedal will be more laborious. Even if the engine stalls, there is still some brake power available for braking, but it is used when braking. Once the brake assistance is exhausted, the braking time will be prolonged and the brake pedal will be more laborious.
 
 ### Influence factor for braking effect 1. Wear
-`baic_bj40_en_d49acf8f` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 The wear of brake friction plates depends largely on the mode of use and driving conditions, especially for those cars that often drive in urban traffic and short distances or drive in sports mode. Therefore, it is very necessary to check the thickness of brake friction plate in Authorised dealership within the specified time interval.
 
@@ -2968,7 +2738,6 @@ In rainy days and wet slippery road driving, should control the speed, prevent s
 In the salt road, if there is no braking for a long time, the braking effect will be delayed and delayed, so it is necessary to remove the salt layer on the brake disc and friction plate.
 
 ### 3. Plateau environment
-`baic_bj40_en_c0d3765b` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Due to the long mountain slope in the plateau area, the brake has a high use frequency, a long time and often works continuously under the forced dynamic working condition. All these factors will make the braking effect worse. Therefore, we advise the vehicle not to taxi in neutral and avoid frequent braking when going downhill. Use low gear to control the speed through the braking action of the engine itself, which can reduce the working intensity of the wheel brake, reduce the brake temperature.
 
@@ -2983,7 +2752,6 @@ Due to the low friction coefficient of snow & ice covered surface, the braking d
 No idling on ice and snow road.
 
 ### 5. Surface rust
-`baic_bj40_en_cc3619fc` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the vehicle has been parked for a long time or you have not used the brake system for a long time, then the brake disc friction plate may develop rust, and the friction plate may develop dirt. We recommend that you clean the brake disc several times before driving.
 
@@ -2992,27 +2760,23 @@ If the vehicle has been parked for a long time or you have not used the brake sy
 If you find that the braking distance suddenly becomes longer or the brake pedal travel becomes longer, there may be a fault with the braking system. In this case, should immediately drive to the nearest Beijing car dealership repair. During the way, keep the speed low, adjust your driving style, and apply more force to the brake pedal when braking.
 
 ### 7. Brake overheating
-`baic_bj40_en_eabc8a8d` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When you do not need to brake, do not lightly step on the brake pedal and make the brake "skid", which will lead to overheating of the brake, extend the braking distance and increase wear.
 
 If spoiler, wheel trim plate, etc., must not affect the flow of air to the front brake, otherwise the brake will overheat.
 
 ### The brake pedal
-`baic_bj40_en_a2b9c6c4` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not place thick MATS or other foreign objects near the brake pedal. This will affect the travel of the brake pedal in an emergency. Ensure that the brake pedal is fully operational under all circumstances.
 Do not rest your foot on the brake pedal when braking is not required. Otherwise, brake temperature will rise, brake disc premature wear, or even damage the brake.
 
 ### Brake friction pad
-`baic_bj40_en_250d8c42` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Disc brakes with warning devices emit a squeal of metal friction when the brake pads wear out to the limit. If you hear this sound, go to Authorised dealership as soon as possible to replace the new brake friction pad. Emergency braking should be avoided as far as possible during the first 200km of driving after replacement of the friction pad.
 
 ![](images/03438c47175c80bd2c22e44e96c5127223b40edb5ae78c247ad0866b74335983.jpg)
 
 ### Brake system status and brake system failure
-`baic_bj40_en_a42cd534` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning lights
 
@@ -3021,7 +2785,6 @@ When parking brake is applied or the brake fluid level is below the specified le
 if the brake pedal is pressed, when the braking effect is weakened, press the brake pedal with more force.
 
 ### Electric parking brake (EPB)
-`baic_bj40_en_c7bade24` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ![](images/02603d7b8ea49595e2777fa4900978c1fa8361ca93ddb7576ec0b20208268c66.jpg)
 
@@ -3045,13 +2808,10 @@ Caution When the start/stop button is in the "OFF" state, if the electronic park
 
 Automatic release of electronic parking: First make sure the doors are closed and fasten the seat belt well.Shift from P or N to D or R, step on the accelerator, and the electronic parking will be automatically released.
 
-### Caution
-`baic_bj40_en_f1050f19` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-make sure the driver's safety belt is fasten, otherwise parking automatic release function cannot be realized. if the driver does not fasten the safety belt, the cluster display will prompt "please fasten the driver's safety belt to release the electronic handbrake".
+> ⚠️ **Внимание:** 
+> make sure the driver's safety belt is fasten, otherwise parking automatic release function cannot be realized. if the driver does not fasten the safety belt, the cluster display will prompt "please fasten the driver's safety belt to release the electronic handbrake".
 
 ### ABS anti-lock brake system ABS working mode
-`baic_bj40_en_9146855f` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Anti-lock braking system (ABS) can prevent the wheel from locking when the vehicle is braking, which will ensure the vehicle's controllability and directional stability during braking.
 
@@ -3070,7 +2830,6 @@ If the road is slippery, ABS is enabled even when the brake pedal is lightly pre
 ![](images/22ff76282004b164d3e7c09d59127e2b3d52712775ed967fac9133de480985f5.jpg)
 
 ### ABS warning lights
-`baic_bj40_en_677249de` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ABS integrates a monitoring system to check all system related electrical components in real time.
 
@@ -3083,7 +2842,6 @@ If the warning light is not off, or if the warning light is on again while drivi
 ![](images/9b731a1a2e8aa91e884fc5fe2c57291a4d50e76e7027a2461b01c13b48b75c07.jpg)
 
 ### ABS system daily maintenance
-`baic_bj40_en_e23667ff` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ABS system is composed of mechatronic components, with high reliability, usually without regular maintenance. The following points are helpful to improve the performance of the system and further reduce the failure rate of the system:
 
@@ -3094,12 +2852,10 @@ high water content of brake fluid will not only cause bad braking due to evapora
 When the ABS warning lamp: 1. Keep ON 2. Light up for a long time during driving 3. When the start/stop button changes from "OFF" state to "RUN" state, the ABS alarm lamp on the combined instrument does not work all the time. It must be repaired in time. When using the braking system before troubleshooting, attention must be paid to controlling the braking strength to avoid wheel lock.
 
 ### EBD electronic braking force distribution system
-`baic_bj40_en_cafa046b` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Automatically adjust the braking force distribution ratio of front and rear axles to improve braking efficiency (to a certain extent, it can shorten the braking distance), and cooperate with ABS to improve braking stability.
 
 ### ESP electronic stability system \*
-`baic_bj40_en_414f3c25` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ESP can effectively reduce the risk of sideslip. The ESP only works when the engine is running. In exceptional circumstances, ESP functions can be disabled, such as:
 
@@ -3114,30 +2870,25 @@ ESP improves control of the vehicle at its dynamic limits, such as acceleration 
 In the electronic stability system, it also integrates anti-lock braking system (ABS), electronic braking force distribution system (EBD) and traction control system (TCS), ramp auxiliary function (HHC), HBA, HDC, anti-roll (RMI), AUTOHOLD
 
 ### The ESP indicator
-`baic_bj40_en_486102b2` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the start/stop button is located in the "ON" position, the ESP indicator in the combined instrument will light up, and the self-inspection will begin, indicator will be off after self-checking
 If the ESP light flashes during driving, the ESP system is currently operating.
 If the ESP light does not go out after the self-inspection or continues to light during driving, the ESP system is defective and the vehicle should drive at a low speed to the nearest Authorised dealership for maintenance.
 
 ### ESP OFF Function
-`baic_bj40_en_12a3d81c` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/796c32307a3e4df9ca5e2fd6f8c5817781df4ab20d97234acdeee2d4c5e1b97f.jpg)
 
 Transfer case 2H: it is at default that ESP function is on. Press ESP OFF button to switch off ESP function, and the ESP OFF indicator light 0 on the combination instrument will be on. Press ESPOFF button again to start ESP function, and the ESPOFF indicator light 中 on the combination instrument will be off.
 
-### Caution
-`baic_bj40_en_920b9759` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
-
-Transfer case 4H/4L,Press ESP OFF button fleetly＜ 3s， It is only for switching off ESP and Torque Control with TCS ,Retain other functions. Transfer case 4H/4L,Press ESP OFF button for a long time (3s-10s),It is only for switching off ESP and TCS,Retain other functions. ●Transfer case 2H:Press ESP OFF button ＜ 10s.It is only for switching off ESP and TCS,Retain other functions. ●When switching off the ESP function by pressing ESP OFF button, the ESP function will be automatically restored and the ESP OFF indicator light becomes off when the vehicle is driving at speeds above 80km/h.
-
-Transfer case 4H/4L: ESP OFF indicator light is automatically on, indicating that the ESP system is in partial functional state, including ABS, EBD, TCS, HHC, HBA and HDC. Hill descent function. While ESP system is in service, ESPOFF indicator light is off and ESP indicator light flashes.
-
-![](images/90ba102685cc9b71fc4ce9d8459fa06e3da21b3e58c226d31cd30c46262ca362.jpg)
+> ⚠️ **Внимание:** 
+> Transfer case 4H/4L,Press ESP OFF button fleetly＜ 3s， It is only for switching off ESP and Torque Control with TCS ,Retain other functions. Transfer case 4H/4L,Press ESP OFF button for a long time (3s-10s),It is only for switching off ESP and TCS,Retain other functions. ●Transfer case 2H:Press ESP OFF button ＜ 10s.It is only for switching off ESP and TCS,Retain other functions. ●When switching off the ESP function by pressing ESP OFF button, the ESP function will be automatically restored and the ESP OFF indicator light becomes off when the vehicle is driving at speeds above 80km/h.
+>
+> Transfer case 4H/4L: ESP OFF indicator light is automatically on, indicating that the ESP system is in partial functional state, including ABS, EBD, TCS, HHC, HBA and HDC. Hill descent function. While ESP system is in service, ESPOFF indicator light is off and ESP indicator light flashes.
+>
+> ![](images/90ba102685cc9b71fc4ce9d8459fa06e3da21b3e58c226d31cd30c46262ca362.jpg)
 
 ### Traction Control System (TCS) \*
-`baic_bj40_en_bf09d2ed` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 TCS can prevent the driving wheel from slipping during acceleration.
 
@@ -3150,7 +2901,6 @@ TCS can automatically function, without intervention from the driver. It monitor
 TCS works jointly with ABS. In case of fault to ABS, TCS is also disabled.
 
 ### Hydraulic Brake Assist (HBA)\* Hill-start Hold Control (HHC)\*
-`baic_bj40_en_a927b98a` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 The brake assist system is for purpose of brake force optimization. The brake assist system helps to improve the brake force and shorten the brake distance. When the driver depresses the brake pedal very quickly, the brake assist system will automatically adjust the brake force to the maximum value until ABS provides control intervention. Keep depressing the brake pedal until the required braking is achieved. Once the brake pedal is released, the brake assist system will be automatically shut down.
 
@@ -3159,7 +2909,6 @@ In case ABS fails, the brake assist system is also out of service.
 In case of grade more than 4°, either to continue driving after parking during driving uphill or to reverse after parking during driving downhill, the hill-start hold control is automatically activated at any time, and within about 0.5\~2S after the brake is released, HHC can still provide powerful brake force to ensure brake of the vehicle so as to prevent the vehicle from sliding and to enable easy driving, and with elimination of slope sliding trouble, comfort and control safety will be greatly improved.
 
 ### Hill Descent Control (HDC)\*
-`baic_bj40_en_fb5734c6` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 HDC enables driving at constant speed during driving downhill.
 
@@ -3176,22 +2925,18 @@ HDC operation methods:
 4. When the yellow HDC indicator light is on, it is Indicates that the HDC is disabled.Please go as soon as possible Beijing auto dealership repair vehicles.
 
 ### Roll Movement Intervention (RMI)\*
-`baic_bj40_en_e1fe5787` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 RMI is started when there is overturn potential after lateral inclination of vehicle body or height of the wheel above the ground exceeds a certain limit during driving, or the steering angle exceeds a certain limit, and it can reduce the overturn risks by braking the wheels and reducing the engine torque.
 
 ### Autohold
-`baic_bj40_en_401bf8e4` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The auto hold function can help driver to take off easily on the ramp.After releasing the brake pedal, the system continues to brake, the driver had enough time to press the accelerator pedal to take off, and this function ensures the takeoff convenience at the time of automatic parking relief.
 
 ### Turn On Autohold
-`baic_bj40_en_60cc8cdd` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the engine is operating and the driver has fasten his seat belt, driver side door closed press the AUTOHOLD switch button to activate this function.and then the indicator lamp of auto-hold switch button will go on.
 
 ### Active Autohold
-`baic_bj40_en_94561fea` | bj40 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 1. When the engine is operating and the driver has fasten his seat belt, driver side door closed,turn on AUTO HOLD ,Depress the brake pedal until the vehicle stops,AUTO HOLD function is working,the parking indicator lamp on the instrument will turn green.
 
@@ -3199,21 +2944,18 @@ When the engine is operating and the driver has fasten his seat belt, driver sid
 3. If the accelerator is not pressed after 3 min, switch to EPB mode, EPB red parking lights point.
 
 ### Autohold Is Forced To Exit
-`baic_bj40_en_2bfe6d28` | bj40 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Since the driver's seat belt is unfastened, driver side door opened and Engine shuts down, the auto hold function will be forced to exit. If AUTOHOLD is enabled, at the same time as the driver's seat belt is unfastened, driver side door opened and Engine shuts down or Press the "AUTOHOLD" switch, the brake pedal was not pressed down, Enter EPB mode, instrument green indicator
 
 Lights off, electronic parking red indicator lights point.
 
 ### Autohold Function Auto Exit
-`baic_bj40_en_abedf59f` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 When the AUTOHOLD function is active, Put it in D or R, the accelerator pedal is depressed, AUTOHOLD auto exit, the vehicle will takeoff.
 
 Caution For MT vehicles,On a level road, pull in Neutral,the accelerator pedal is depressed,AUTOHOLD function auto exit,Please take care of safety. ●AUTOHOLD monitors vehicle status,If the brake pedal is released after monitoring the brake Insufficient pressure, ESP will be actively pressurized Keep the vehicle stationary. ESP actively increase Pressure will generate noise which is the ESP electricity pump The working sound of the machine is normal. When the instrument display prompt "since.AUTOHOLD system failure ", said AUTOHOLD is disabled. Please as soon as possible Go to Beijing car dealership to inspect and repair the car Vehicles.
 
 ### Explanatory Notes on the Parking Assist System
-`baic_bj40_en_b8b6aaac` | bj40 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 Four sensors for the reversing radar system Install the rear bumper,When in reverse,parking radar system automatically activated.When the system is activated,It will check the approximate distance from the rear of the vehicle.And based on the distance to the obstacle in the information Display on the control screen.And sent by loudspeaker Make the corresponding prompt sound.
 
@@ -3222,12 +2964,10 @@ The indicator bar on the central control display screen is based on obstacles th
 ![](images/5effe49c09d10f6a98ac31b1442797973c923730c5528178f3e80948ce71563d.jpg)
 
 ### Acoustical Signal
-`baic_bj40_en_97fbaeee` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The audio alarm signal of parking assist system is sent out by the loudspeaker driven by the central control display.As the distance between the obstacle and the vehicle gets closer, the frequency of intermittent chirping increases.The distance between the barrier and the spare tire When it's less than 30 centimeters, it becomes continuous.
 
 ### Display Signal
-`baic_bj40_en_90d0af96` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Left, center and right sensors are composed of four layers set of indicators that shows the status of obstacles.Each group of display bars independently displays the information of measured obstacles， Group to group display does not interfere with each other.
 
@@ -3236,7 +2976,6 @@ When there are multiple obstacles in the detection range, the nearest obstacle i
 The display bar in zone 4 is red to represent obstacles about 0 \~30 cm from the rear of the vehicle Within the scope of; The display bar in zone 3 is yellow to represent obstacles about 30 cm \~60 cm from the rear of the vehicle Within the scope of; The display bar in zone 2 is yellow, representing obstacles about 60 cm \~ 90 cm from the rear of the vehicle Within the scope of; he display bar in zone 1 is green, representing obstacles about 90 cm \~150 cm from the rear of the vehicle Within the scope of.
 
 ### Detection Range
-`baic_bj40_en_9caf7c8f` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The detection range of the sensor is limited to the vicinity of the rear bumper. Be sure to determine the safe distance around the vehicle and drive slowly. The maximum detection distance of the sensor varies with the size of obstacles. The sensor can detect fairly large objects such as walls at a maximum distance of 150cm away. However, for small obstacles particularly rod-shaped objects, its detection distance is less than 150cm.
 
@@ -3246,14 +2985,12 @@ The detection range in the middle of the vehicle rear is 150cm.
 △ Warning While reversing, pay particular attention to those obstacles which are higher or lower than the reversing sensor. In certain particular situations, some obstacles very close to the vehicle will not be detected by the reversing radar system and thus may cause damage to the vehicle, or to objects such as short stumps, flower bed edges, etc. ● Sensor being damaged and polluted, snow or ice covering the sensor or ultrasonic waves generated near the vehicle (such as: by big trucks air braking or pneumatic hammers) may all affect the normal working of the sensor.
 
 ### Reversing Rearview System\* General Instructions
-`baic_bj40_en_fa9cb669` | bj40 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 The reversing rearview camera on the rear bumpers can assist the driver in reversing or dispatching. Vehicle rear images from rearview camera are displayed on the screen of the original navigation system.
 
 Reversing rearview system is a system for display of the rear environment while parking the vehicle at low speed (like entering the garage). The reversing rearview system is only a reversing assist system. It cannot replace the driver’s objective analysis of objects.
 
 ### System Start
-`baic_bj40_en_864a8033` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the vehicle is at R gear, the reverse rearview system will be automatically started, and reverse rearview interface is shown on the DVD display screen. Reversing radar signals are superposed and displayed on the reversing rearview image.
 
@@ -3267,7 +3004,6 @@ The red line block is a safety warning area, indicating 0.3m position;
 The yellow line block is a safety prompt area, Yellow scale by near the distance is 1 m, 1.5 m, 2 m, 2.5 m, 3 m.
 
 ### System Exit
-`baic_bj40_en_b7bdec65` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In the following two cases, the reversing rearview system exits:
 
@@ -3276,7 +3012,6 @@ In the following two cases, the reversing rearview system exits:
 2. Bring the vehicle to exit R gear.
 
 ### System Fault
-`baic_bj40_en_54e159a1` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 In case of fault to reverse rearview system, no image will be shown on the reverse rearview interface, and words “reverse rearview camera fails” appear on DVD display screen. At this time, the reverse rearview system fails to operate properly, and it should be repaired and detected at an authorized BAIC dealership.
 
@@ -3293,19 +3028,16 @@ Extreme weathers, like bright sunshine, ice and snow, may influence the display 
 While reversing, the driver must be responsible for checking whether there are people (especially children) and small animals in the operating area. During reversing, don t completely rely on the reversing rearview system. Observe the surroundings even at very low speed during operation.
 
 ### Precautions for Reversing Rearview System
-`baic_bj40_en_b9f95a4e` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The reversing rearview system is only a reversing assist system. It cannot replace the driver’s objective analysis of objects. The camera has some blind areas, so some positions are beyond its reach.
 
 Keep the camera clean and free of ice so that it can properly function. When using high pressure cleaning equipment to wash the vehicle, do not spray and wash the camera for a long time. During spray cleaning, the nozzle must be more than 10cm from the camera.
 
 ### Driving Tips Driving on Paved Road
-`baic_bj40_en_dbdbbc01` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Compared with ordinary vehicles, this vehicle has a large ground clearance, so as to adapt to driving on off-road. The special design means that the vehicle is taller than ordinary vehicles. While driving this vehicle, try to avoid abruptly turning to prevent the vehicle from going out of control or even overturning.
 
 ### Driving on Off-Road
-`baic_bj40_en_80955fe9` | bj40 | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 To gain a bigger traction improve operability on wet and skid or difficult road sections while driving off-road, be sure to put the transfer case into low gear.
 
@@ -3320,14 +3052,12 @@ When the rear wheels on one side of a vehicle equipped with a limited slip diffe
 ![](images/e39b71ea1dd00a49e3233ad576eca71fdead218bfd14a26081af98a8f60b9d62.jpg)
 
 ### Preparations Before Driving
-`baic_bj40_en_6029ae94` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 It is best to carry out safety checks before driving. Spending just a few minutes checking will help you drive safely and enjoy your driving. You can make the check as long as you are basically familiar with the various parts of the vehicle.
 
 ![](images/effaa715329abbb31c8d45ae660b120516827ed702381bdf7caeb762c81997e2.jpg)
 
 ### Before Starting the Engine
-`baic_bj40_en_b8d3aed5` | bj40 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Tire: check tire pressure and whether the tires have cuts, damage or excessive wear.
 
@@ -3351,12 +3081,10 @@ All oil levels: ensure that all the oil levels are normal.
 12V battery and cable conditions: based on the colors of the indicator, check 12V battery conditions. Check for corrosion or looseness on the blocks or cracks on the casing. Check that the cables are well connected.
 
 ### After Starting the Engine
-`baic_bj40_en_459f967b` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Fuel leakage: After the vehicle has parked for a while, check for leakage of fuel, engine oil, water or other liquids in the vehicle. After use, there may be water drops from the A/C. This is a normal occurrence.
 
 ### While Driving
-`baic_bj40_en_286b7d87` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Instruments: Be sure that instruments work normally.
 
@@ -3365,14 +3093,12 @@ Brake: On a safe road, check and confirm that when braked, the vehicle will not 
 Other abnormalities: Check whether parts are loosened or have leaks and listen for abnormal noises.
 
 ### Driving During Run-In Period
-`baic_bj40_en_06e6b54f` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To ensure the service life of the vehicle, a run-in period is needed in the early stages after the vehicle is put into use. Only after the run-in period has completed can the vehicle be put into normal use. Provisions on the Run-In Period:
 
 Select a fairly good road and drive with reduced load and in limited speed. Do NOT drive with the accelerator fully depressed or accelerate abruptly. Avoid emergency braking. Strictly execute the operating specifications and keep the engine at its normal working temperature. Before regular maintenance, do NOT replace the engine oil. Make sure to regularly maintain the vehicle, fasten external bolts and nuts. Pay attention to changes in the sound and temperature of various assemblies while driving, and promptly make adjustments.
 
 ### Wear in the Engine
-`baic_bj40_en_38dbcc4c` | bj40 | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 A new engine must undergo a wearing-in of 1500km.
 
@@ -3388,12 +3114,10 @@ Wearing in Tires and Brake Pads
 In the first 500km, be sure to drive at medium speed so that the tires can be properly worn in In the first 200km, new brake pads cannot reach the best frictional state and careful wearing-in is needed.
 
 ### 4 Warning
-`baic_bj40_en_7c072ea2` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 New tires and braking pads that have not been worn in do not have the best attachment force or frictional force. Therefore, within the first 500km, be sure to drive carefully to wear in the tires and protect against accidents. New brake pads must also be worn in accordance with the above requirements. While driving, be sure to keep a suitable distance from other vehicles and be careful to prevent situations which require emergency braking. Because in such situations, the new tires and braking pads have not been worn in and could easily cause traffic accidents. If the brake is wet or ice forms on it, or when the vehicle is driven on road sprayed with salt, its braking effect will fall.
 
 ### Key Points of Driving in Different Situations
-`baic_bj40_en_018bc8b3` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 4 Warning When driving on a downward slope, the brake is stressed, which could extremely easily cause overheating. It is therefore suggested that you switch to a low gear before driving downhill so as to reduce vehicle speed and fully leverage the braking effect of the engine to reduce the load of the brake. Be sure to apply the brake based on road and traffic conditions. Do NOT depress the brake pedal when it is not necessary to do. Doing so will wear down and overheat the brake resulting in overly long braking distance and excessive wear of the brake. ● Do NOT turn off the engine and let the vehicle coast. Doing so will cause the braking booster to not work and the braking distance will greatly increase, thus increasing the risk of accidents. ● Do NOT use the brake fluid for too long. Be sure to replace the brake fluid by the specified cycle.
 
@@ -3403,7 +3127,6 @@ In side winds, be sure to drive at low speed. This will help controlling the veh
 When the vehicle is washed or when the vehicle is driven through deep water, the brake may get wet. Look around to see whether it is safe and lightly depress the brake pedal. If you cannot sense the normal braking force, the brake may have become wet. To make it dry, drive the vehicle at a low speed while ensuring safety. Meanwhile, lightly depress the brake pedal. Drive carefully. If the brake still does not work safely, you need to park the vehicle on the road side and contact an authorized BAIC dealership for assistance.
 
 ### 4 Warning
-`baic_bj40_en_a0c58443` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before driving, ensure that the parking brake has been fully released.
 
@@ -3412,7 +3135,6 @@ When driving down long and steep slopes, be sure to slow down and shift to a low
 ● While driving on slippery road, exercise extra care when accelerating, raising or lowering the gear or braking. Sudden acceleration or engine braking may cause the vehicle to slide or the wheels to run in idle. If the brake is already wet, the braking distance required will be longer than normal. In addition, the vehicle may tilt to one side and the parking brake will not be able to firmly brake the vehicle.
 
 ### Driving During Rain When driving on slippery roads
-`baic_bj40_en_1a0f9a33` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When there is rain, please drive carefully because the visibility is low, the vehicle windows are foggy, and the road is very slippery.
 
@@ -3425,7 +3147,6 @@ When rain is falling, do NOT drive at high speed on expressways. This is because
 Warning ●When driving on slippery road, emergency braking, acceleration and steering may cause the tires to skid. This will reduce the steering performance of the vehicle and thus cause an accident. ●When the engine speed changes drastically, such as in the event of emergency engine braking, it may cause the vehicle to skid and result in an accident. ● After driving through a water puddle, lightly depress the brake pedal to ensure that the brake functions normally. Wet brake pads cannot guarantee normal braking. If the brake on one side becomes wet and cannot work normally, it will affect steering control and cause accidents. Do NOT drive on road full of water after heavy rains. This may cause serious damage to the vehicle.
 
 ### Driving in Water
-`baic_bj40_en_a08e5ef7` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Although your vehicle can drive in shallow water, the following precautions shall be taken into account prior to driving in water:
 
@@ -3438,63 +3159,52 @@ While driving in water, besides maintaining low speed, try to avoid stopping the
 Don’t release the accelerator or accelerate the vehicle. The vehicle should be driven at constant speed at the lower gear and with moderate-high accelerator opening, but not at high speed, in order to prevent water spraying. After leaving the road with surface water, the vehicle must be driven at slow speed, and lightly depress the brake pedal for several times to dry the moisture on the brake pad. Don’t immediately start the engine which has shut down while the vehicle is running in water, but place the vehicle to “N” gear as soon as possible and drag it to a safe location with less accumulated water.
 
 ### Running Water
-`baic_bj40_en_af9f58ea` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the water is running and the water level is rising (for example during rainstorm), avoid crossing the water, but continue to drive after the water level drops and/or the flow speed is reduced. If the vehicle has to pass the water, avoid driving in water more than 20cm deep. Running water will erode the river bed, which will make the vehicle trapped in deeper water. Determine the entry point and the exit point in advance.
 
 ### Still Water
-`baic_bj40_en_9c6a225f` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Avoid driving in still water more than 50cm deep, and slow down the vehicle as appropriate to reduce impacts by water wave. When driving in water more than 50cm deep, the max speed shall not exceed 8km/h.
 
 ### Maintenance
-`baic_bj40_en_decf7877` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 After driving in water, check your vehicle for its working fluid and lubricants (engine oil, transmission oil, axle and transfer case) to ensure that the fluids are not contaminated. Wash/replace the contaminated fluids (which appear to be milky or foamed) as soon as possible to avoid damage to components.
 
 ### 4 Warning
-`baic_bj40_en_caa28033` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ●When driving on slippery road, emergency braking, acceleration and steering may cause the tires to skid. This will reduce the steering performance of the vehicle and thus cause an accident.
 ●When the engine speed changes drastically, such as in the event of emergency engine braking, it may cause the vehicle to skid and result in an accident.
 After driving through a water puddle, lightly depress the brake pedal to ensure that the brake functions normally. Wet brake pads cannot guarantee normal braking. If the brake on one side becomes wet and cannot work normally, it will affect steering control and cause accidents. Do NOT drive on road full of water after heavy rains. This may cause serious damage to the vehicle.
 
 ### Key Points of Driving in Winter
-`baic_bj40_en_2e667d71` | bj40 | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Be sure to fully warm up the engine. After starting the engine, pre-heat it for a while so that the engine oil fully lubricates the various cylinders, and then drive the vehicle slowly. Drive off at low speed. This will give a sufficient time for the lubrication oil of the transmission, the transfer case and the rear axle to lubricate all lubrication positions.
 
 ### Check the Condition of the Battery and Power Cables
-`baic_bj40_en_0619896e` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the battery, including its joints an electric wire. Extremely cold weather will affect the battery. This is because more energy is needed to start and drive vehicle and the battery capacity will fall. Before driving the vehicle, check whether the engine speed is normal. Check whether the headlights are as bright as usual. If necessary, charge or replace the battery. In extremely cold weather, battery of low capacity may be frozen and thus makes it impossible to start the vehicle.
 
 ### Be sure that engine oil viscosity is suitable for driving in cold weather.
-`baic_bj40_en_5fbc5098` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In winter, a lot of summer-used engine oil remaining inside the engine may make the vehicle difficult to start. If you are not sure which engine oil should be used, please contact an authorized BAIC dealership for help.
 
 ### Check Engine Coolant
-`baic_bj40_en_bc27dd40` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be sure to use a coolant that is recognized by BAIC.
 
 If it is found that insufficient engine coolant is left, please promptly replenish the coolant.
 
 ### Avoid the freezing of door locks
-`baic_bj40_en_3e8a9665` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Spray some de-icer or glycerol into the door lock holes to prevent them from being frozen. Use glass detergent containing anti-freeze agent. This product is sold at all authorized BAIC dealerships.
 
 ### Prevent snow or ice from accumulating in fender.
-`baic_bj40_en_b7765ffe` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When snow or ice accumulates in the fender, it will make steering difficult. When driving in cold weather, be sure to frequently stop the vehicle and check whether snow or ice has accumulated in fender.
 For different driving destinations, BAIC suggests that some necessary emergency supplies should be carried.
 Items that may need to be put in the vehicle include: tire anti-skid chains, vehicle window scrapers, sandbags or salt bags, signal flash devices, small shovels, jumper cables, etc.
 
 ### Efficient Use of Vehicle
-`baic_bj40_en_00eb7cd5` | bj40 | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ●Maintain the proper tire pressure. Insufficient air pressure will cause tire wear and waste fuel.
 
@@ -3519,7 +3229,6 @@ Adjust the vehicle and keep it in its best working state.
 Dirty air filters, unsuitable valve clearances, dirty spark plugs, dirty engine oil and grease will all reduce engine performances and waste fuel. To prolong the service life of all parts and lower operating expenses, be sure to carry out regular maintenance. When frequently driving in harsh conditions, be sure to maintain the vehicle more frequently.
 
 ### Fuel Economy
-`baic_bj40_en_2118bff5` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Fuel economy is related to many factors. Personal driving habits have a major impact on fuel consumption. The recommendations below will help to achieve the best fuel economy:
 
@@ -3536,7 +3245,6 @@ When driving at high speeds, do NOT open the vehicle windows. Rationally use the
 Perform regular maintenance in accordance with the maintenance requirements. When the vehicle has stopped at a signal light or a stop sign and needs to be restarted, be sure to accelerate slowly at an even speed. Plan the driving route to avoid unnecessary stops. ●Keep tire pressures at the recommended level. Keep the air filter clean and maintain the vehicle in accordance with the recommendations and requirements in the User Manual. Keep the vehicle condition well adjusted. Improper engine adjustment will waste fuel and increase expenses.
 
 ### 4 Maintenance and Service
-`baic_bj40_en_bb2ee831` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Safety maintenance . 174
 Fuel system. .177
@@ -3552,12 +3260,10 @@ Windshield washing liquid and wiper blade .211
 Tire    214
 
 ### Safety and Maintenance
-`baic_bj40_en_852d051f` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Service items not mentioned in this chapter should all be performed by accredited or other qualified technicians.
 
 ### Safety Precautions
-`baic_bj40_en_e54248b9` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To avoid potential dangers, before starting maintenance, please read the contents of this section and confirm that you have the needed tools and techniques.
 
@@ -3572,7 +3278,6 @@ When cleaning parts, be sure to use degreasing agents or parts cleaning agents s
 ![](images/6c147fc12c25c83571107c17a71834d26781775929c60999025e7cfc4b3d6368.jpg)
 
 ### Potential Vehicle Hazards
-`baic_bj40_en_9d978953` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ●Carbon monoxide: The carbon monoxide of the engine exhaust is a toxic gas. Be sure to operate the engine in well-ventilated places.
 
@@ -3581,38 +3286,32 @@ When cleaning parts, be sure to use degreasing agents or parts cleaning agents s
 ![](images/0ae963faa858e08ef8a6173e649dd4adc98d07bdf240e8437a2860466fd2334f.jpg)
 
 ### Routine Maintenance
-`baic_bj40_en_48558d80` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Vehicle safety, reliable drive ability and good performance all partly depend on how you maintain your vehicle.
 
 Because maintenance is the responsibility of the vehicle owner, you must follow BAIC’s suggestions to perform routine maintenance of your vehicle, replace the engine oil and routinely check and replace the brake fluid and coolant.
 
 ### Maintenance Record
-`baic_bj40_en_84b4826b` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Warranty Manual includes maintenance record pages, which you can use to record information on the engine oil replacements and inspections which have been made for your vehicle. Our authorized dealerships will also use the maintenance record pages to record information on brake fluid replacements, airbag module replacements, seat belt tightening devices, etc.
 
 After each engine oil replacement and inspection, be sure to ask the authorized BAIC dealership to sign and seal the maintenance record page.
 
 ### Replace Brake Fluid
-`baic_bj40_en_06d7c63a` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Regardless of the driven mileage of a vehicle, its brake fluid should be replaced every two years. When the two-year period expires, our authorized dealership will replace the brake fluid when it is replacing the engine oil or performing inspections, thus saving you from making an extra visit to the dealership.
 
 ### Replace Coolant
-`baic_bj40_en_97f3ff44` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Regardless of the driven mileage of a vehicle, its engine coolant should be replaced at least every two years. When the two-year period expires, our authorized dealership will replace the coolant when it is being replaced the engine oil or performing inspections, thus saving you from making an extra visit to the dealership.
 
 ### Exhaust Emission Control
-`baic_bj40_en_e91662d0` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Your vehicle has been equipped with exhaust emission and evaporation devices which comply with the state and legal provisions. You should be aware that: all unauthorized replacements, refitting and adjustments of these devices by the vehicle owner him/herself or vehicle repair personnel are unlawful and the vehicle owner him/herself or vehicle repair personnel shall be responsible for any consequences thus caused.
 
 In addition, you should not make any adjustment to the engine settings. The purpose of formulating these provisions is to ensure that your vehicle complies with the strict laws and regulations on exhaust emission. Incorrect engine settings will have a negative impact on exhaust emission, engine performance and fuel consumption and generate high temperatures, thus causing damage to the three-way catalytic converter and the engine.
 
 ### Maintenance by Vehicle Owner
-`baic_bj40_en_f80829e7` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Check coolant level
 2. Check brake fluid level
@@ -3622,12 +3321,10 @@ In addition, you should not make any adjustment to the engine settings. The purp
 6. Check the air-conditioning effects
 
 ### Special Operational States
-`baic_bj40_en_96285267` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If your vehicle is often driven in dusty environments, extreme weather, or extremely high or low ambient temperature, you should pay extra attention to vehicle maintenance. For details, please contact the authorized BAIC dealership
 
 ### Safety during Vehicle Repair
-`baic_bj40_en_72190091` | bj40 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 After the engine stops running, the cooling fan may continue to run for some time. Be sure to keep away from the fan when working on the engine compartment.
 
@@ -3642,14 +3339,12 @@ To maintain the vehicle, be sure to comply with the following safety points:
 9. Do NOT let the metal parts of the tools or the vehicle come into contact with the wiring terminals of the battery.
 
 ### Fuel System
-`baic_bj40_en_e2d7ed58` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/adba4c783c85dcf621403f04b304e3995a7f7253f1ba1f8ac271b1e95bb4ed98.jpg)
 
 The fuel filler is located on the left rear wall panel.
 
 ### Adding Fuel
-`baic_bj40_en_2b4c256b` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Before adding fuel, please turn off the engine first. Then, follow the steps below:
 
@@ -3664,44 +3359,36 @@ Before adding fuel, please turn off the engine first. Then, follow the steps bel
 4. When the refueling nozzle automatically stops, continue refueling at a lower refueling speed. The second time the refueling nozzle stops, do not attempt to continue refueling any more.
 5. Close the cap and rotate slowly clockwise until hear three clicks.
 
-### Caution
-`baic_bj40_en_a8a57977` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
-
-![](images/64fb96d1355289cef108ab256bbfb2fff2770733e043ca87ac44b72c92007908.jpg)
-
-6. Closed the refueling cap, and then press the arrow area to close the refueling door. 7. When the door lock is locked, the refueling door is locked.
-
-4 Warning ● When refueling, must not smoke. There should be no spark or open flame.。 When you open the fuel tank cap, do not remove it immediately. In hot weather, if the fuel filler cap is suddenly removed, high-pressure gas can be ejected from the refueling piper and resulting in injuries. ●Ensure that fuel filler cap is tightened to prevent fuel spillage in an accident.
-
-As long as you follow the above instructions for refueling, after the second automatic stop of the refueling gun, the tank is "full" and no further refueling is required, otherwise the expansion space in the tank will also be filled up -- fuel may overflow when heated.。
-Immediately wipe the fuel that spills onto the paint
-Try not to run out of fuel on cars which equipped catalyst. Since irregular fuel supply may lead to fire missing, the unburned fuel will enter the exhaust and cause the catalyst overheating or damaged.。
+> ⚠️ **Внимание:** 
+> ![](images/64fb96d1355289cef108ab256bbfb2fff2770733e043ca87ac44b72c92007908.jpg)
+>
+> 6. Closed the refueling cap, and then press the arrow area to close the refueling door. 7. When the door lock is locked, the refueling door is locked.
+>
+> 4 Warning ● When refueling, must not smoke. There should be no spark or open flame.。 When you open the fuel tank cap, do not remove it immediately. In hot weather, if the fuel filler cap is suddenly removed, high-pressure gas can be ejected from the refueling piper and resulting in injuries. ●Ensure that fuel filler cap is tightened to prevent fuel spillage in an accident.
+>
+> As long as you follow the above instructions for refueling, after the second automatic stop of the refueling gun, the tank is "full" and no further refueling is required, otherwise the expansion space in the tank will also be filled up -- fuel may overflow when heated.。
+> Immediately wipe the fuel that spills onto the paint
+> Try not to run out of fuel on cars which equipped catalyst. Since irregular fuel supply may lead to fire missing, the unburned fuel will enter the exhaust and cause the catalyst overheating or damaged.。
 
 ### Fuel
-`baic_bj40_en_29b10029` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Use the specific gasoline to ensure the performance (see technical data section for details)
 Using low-rating or poor quality gasoline can lead to engine damage
 
 ![](images/9025dca9a4a818839859c94bec28a503bab28499459dc2154b084b01d31c7a7c.jpg)
 
-### Caution
-`baic_bj40_en_c2240be6` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> Be sure NOT use a solvent-containing cleaning agent to clean the surface of the dashboard or the airbag module.
+>
+> Solvent-containing cleaning agents can penetrate the surface of the part being cleaned, boring fine holes in the surface and making the part loose. When an airbag is released, such loose plastic parts will markedly increase the risk of injury! ●Be sure NOT use any solvent (such as gasoline or turpentine), floor wax, shoe polish or similar liquids to treat leather. Avoid exposing your vehicle to strong sunlight for a long period of time so as to prevent the leather or similar items of the vehicle from fading. If you have to park your vehicle outdoors for a long period of time, please cover the leather of the vehicle so as to prevent it from coming into direct contact with sunlight.。
 
-Be sure NOT use a solvent-containing cleaning agent to clean the surface of the dashboard or the airbag module.
-
-Solvent-containing cleaning agents can penetrate the surface of the part being cleaned, boring fine holes in the surface and making the part loose. When an airbag is released, such loose plastic parts will markedly increase the risk of injury! ●Be sure NOT use any solvent (such as gasoline or turpentine), floor wax, shoe polish or similar liquids to treat leather. Avoid exposing your vehicle to strong sunlight for a long period of time so as to prevent the leather or similar items of the vehicle from fading. If you have to park your vehicle outdoors for a long period of time, please cover the leather of the vehicle so as to prevent it from coming into direct contact with sunlight.。
-
-### Caution
-`baic_bj40_en_e20a002e` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-●Subjects with sharp edges on clothes (such as zippers or rivets) may leave permanent scratches or marks on the surface of leather. When cleaning the seat belts, do NOT remove the belts.
-●Do NOT use chemical cleaning agents to clean the seat belts because chemical cleaning agents will damage fabric.
-●The seat belt must be kept away from corrosive liquids.
-●Regularly check the state of the seat belt. If damage is found in the seat belt fabric, seat belt connection, automatic retracting device or the seat belt lock, be sure to go to an authorized BAIC dealership to get it repaired.
+> ⚠️ **Внимание:** 
+> ●Subjects with sharp edges on clothes (such as zippers or rivets) may leave permanent scratches or marks on the surface of leather. When cleaning the seat belts, do NOT remove the belts.
+> ●Do NOT use chemical cleaning agents to clean the seat belts because chemical cleaning agents will damage fabric.
+> ●The seat belt must be kept away from corrosive liquids.
+> ●Regularly check the state of the seat belt. If damage is found in the seat belt fabric, seat belt connection, automatic retracting device or the seat belt lock, be sure to go to an authorized BAIC dealership to get it repaired.
 
 ### Cleaning & Maintenance of Instruments and Plastic Parts
-`baic_bj40_en_287203c9` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Use a dry, clean and soft cloth and water to clean the surfaces of instruments and plastic parts.
 
@@ -3710,21 +3397,17 @@ If the surfaces cannot be cleaned, use solvent-free plastic cleaning agents to c
 ![](images/6916099245bca1fe8da348701882bf3720e215b7d16ca5e9a43ce460a6f8f1eb.jpg)
 
 ### Cleaning and Maintenance of Carpet
-`baic_bj40_en_0d9d966f` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Frequently use a vacuum cleaner to suck dust up from the carpet.
 Regularly wash with detergents and keep the carpet clean.
 
-### Caution
-`baic_bj40_en_e20a002e` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-●Subjects with sharp edges on clothes (such as zippers or rivets) may leave permanent scratches or marks on the surface of leather. When cleaning the seat belts, do NOT remove the belts.
-●Do NOT use chemical cleaning agents to clean the seat belts because chemical cleaning agents will damage fabric.
-●The seat belt must be kept away from corrosive liquids.
-●Regularly check the state of the seat belt. If damage is found in the seat belt fabric, seat belt connection, automatic retracting device or the seat belt lock, be sure to go to an authorized BAIC dealership to get it repaired.
+> ⚠️ **Внимание:** 
+> ●Subjects with sharp edges on clothes (such as zippers or rivets) may leave permanent scratches or marks on the surface of leather. When cleaning the seat belts, do NOT remove the belts.
+> ●Do NOT use chemical cleaning agents to clean the seat belts because chemical cleaning agents will damage fabric.
+> ●The seat belt must be kept away from corrosive liquids.
+> ●Regularly check the state of the seat belt. If damage is found in the seat belt fabric, seat belt connection, automatic retracting device or the seat belt lock, be sure to go to an authorized BAIC dealership to get it repaired.
 
 ### Cleaning & Maintenance of Leather
-`baic_bj40_en_a0fb3b6d` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Use a vacuum cleaner to suck dust.
 2. Use a clean and soft cloth and water to clean leather.
@@ -3733,28 +3416,23 @@ Regularly wash with detergents and keep the carpet clean.
 ![](images/bdf60ef30df5ba1c8d9867e9d8f00d3735f41f82bf9c5caca9217c67bed2957c.jpg)
 
 ### Cleaning and Maintenance of Seat Belts
-`baic_bj40_en_941b1fee` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Slowly pull a seat belt out and keep it in a pulled state.
 2. Use a soft brush and neutral soap water to remove dirt from the seat belt.
 3. Wait for the seat belt to dry completely and then retract it.
 
-### Caution
-`baic_bj40_en_aeaa3020` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Warning ●Chemical cleaning agents must not be used to clean seat belts, so as to prevent damage and affect their functioning. ●When replacing a seat belt, be sure to use a new seat belt of the same model and structure to make the replacement. ● Keep foreign matter or liquids from entering the seat belt the lock catch, or else the lock catch and seat belts may not work normally. ●Do not remove or modify the seat belts without permission. ●Be sure to regularly check the status of all seat belts of the vehicle. In the event of damage to the backing tapes, connection devices, retracting mechanisms or the lock catches of the seat belts, be sure to go to an authorized BAIC dealership to have them repaired or replaced.
-
-● Be sure to wait for the seat belts to completely dry before retracting them, or else it may damage the seat belt retractor. ●Regularly check all seat belts of the vehicle to ensure that they are clean and work normally.
+> ⚠️ **Внимание:** 
+> Warning ●Chemical cleaning agents must not be used to clean seat belts, so as to prevent damage and affect their functioning. ●When replacing a seat belt, be sure to use a new seat belt of the same model and structure to make the replacement. ● Keep foreign matter or liquids from entering the seat belt the lock catch, or else the lock catch and seat belts may not work normally. ●Do not remove or modify the seat belts without permission. ●Be sure to regularly check the status of all seat belts of the vehicle. In the event of damage to the backing tapes, connection devices, retracting mechanisms or the lock catches of the seat belts, be sure to go to an authorized BAIC dealership to have them repaired or replaced.
+>
+> ● Be sure to wait for the seat belts to completely dry before retracting them, or else it may damage the seat belt retractor. ●Regularly check all seat belts of the vehicle to ensure that they are clean and work normally.
 
 ### Exterior Maintenance
-`baic_bj40_en_aba1bc4d` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution ●When the brake is wet or icy, it may affect the functioning of the brake. ●When you clean the bottom of the vehicle, the lower side of the fender (wheel cover) and the wheel covering board, please operate with care so as to prevent sharp metal edges from hurting your hands. ● While the vehicle is being cleaned, the ignition switch must be turned off. Please do not use a coarse sponge or corrosive cleaning product to clean the vehicle. These might damage the paint surface! ●Do NOT use concentrated beam washing nozzle to clean tires! Even spraying from far distance will still cause damage
 
 Caution ●It is suggested that new vehicles can only be waxed after six months of use. ●Do NOT wax vehicle windows. ●Do NOT use any sharp object to clean the headlight surface. This will damage the protective paint surface and leave cracks on the headlights. ● Pay attention to the following when cleaning wheels: moisture, ice or sprayed salt will affect the functioning of the brake. ●Do NOT install protective boards or coat anti-corrosive materials around the exhaust muffler, exhaust pipes, the catalytic purifier or other hot parts. When the vehicle is running, these substances may cause fire.
 
 ### Washing vehicle
-`baic_bj40_en_1bcb0349` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Frequent vehicle washing helps maintain the appearance of the vehicle.
 
@@ -3762,14 +3440,11 @@ The vehicle should be washed in a cool place. Do NOT wash the vehicle in direct 
 
 When washing the vehicle using an automatic washing machine, please be sure to follow the instructions of the machine operator
 
-### Caution
-`baic_bj40_en_e7b32fed` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-●The body paint of the vehicle is strong enough to endure the washing of an automatic vehicle washing machine. However, attention should be paid to the impact on the paint surface. When the structure, cleaning agent used, the filtering state of water or type of wax solvent of the vehicle washing machine does not meet the relevant requirement, it may cause damage to the paint surface.
-Before washing the vehicle, the ignition switch must be turned off.
+> ⚠️ **Внимание:** 
+> ●The body paint of the vehicle is strong enough to endure the washing of an automatic vehicle washing machine. However, attention should be paid to the impact on the paint surface. When the structure, cleaning agent used, the filtering state of water or type of wax solvent of the vehicle washing machine does not meet the relevant requirement, it may cause damage to the paint surface.
+> Before washing the vehicle, the ignition switch must be turned off.
 
 ### The Automatic Vehicle Washing Device Manual Washing of Vehicle
-`baic_bj40_en_323350f9` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The vehicle paint possesses certain durability. Usually, washing the vehicle inside an automatic washing device will not affect the state of the vehicle paint. The impact on the body paint depends to a great extent on the structure of the vehicle washing equipment, the water filter used for vehicle washing and the type of cleaning agent and maintenance agent used. If the body paint has no gloss or has scratches after the vehicle is washed, be sure to immediately point it out to the washing equipment operator.
 
@@ -3784,14 +3459,12 @@ The vehicle paint possesses certain durability. Usually, washing the vehicle ins
 Extra care is needed when washing the vehicle with a high pressure washer. Be sure to operate it in accordance with the usage instructions and requirements. Special attention should be paid to the working pressure and the spraying distance.
 
 ### 4 Warning
-`baic_bj40_en_2e964cb9` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ●If there is water, ice or anti-skid salt inside the braking system, it will make the brake slow to react and increase braking distance, thus increasing risk of traffic accidents. ●Before driving, lightly depress the brake pedal and test the brake. ●Before removing the ice or anti-skid salt attached to the brake, be sure to avoid emergency braking. When braking, special attention should be paid to avoid accidents.
 
 △ Warning ●Before use, be sure that you have carefully read and followed the relevant information and warning instructions. ●When washing the vehicle, be sure to pay attention to personal safety. Special attention needs to be paid to the vehicle bottom and the inner side of the wheel cover so as to prevent sharp parts from injuring the hands and arms. ●When washing the vehicle, do NOT flush water into the engine compartment. Otherwise it will affect the service life of the parts of the engine compartment.
 
 ### Waxing
-`baic_bj40_en_11cce6c4` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Regularly waxing can protect the body paint and keep the vehicle body clean.
 
@@ -3802,7 +3475,6 @@ A superior quality paint protection wax should be selected.
 To effectively protect the body paint, it is suggested that a superior quality hard wax should be applied once a year so as to protect the paint surface from erosion by adverse external environment and protect it from light mechanical scratches.
 
 ### Types of Superior Quality Waxes
-`baic_bj40_en_77f8fe52` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Body wax: Wax which is used to protect the paint surface from sunlight, air pollution and other adverse external environments. It is usually used on new vehicles.
 
@@ -3811,54 +3483,44 @@ Polish wax: It can restore gloss to those paint surfaces which have been oxidize
 ![](images/bc252ac7e6c13c3447380b756b67f24b4e8eb94cfcb8307002f7e8375758a4d1.jpg)
 
 ### Polishing
-`baic_bj40_en_6651dd35` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Polishing is needed only when the body paint color fading and even waxing materials cannot deliver good gloss. If the polishing agent does not contain anti-corrosive ingredient, waxing is necessary after polishing.
 
 ![](images/db76add5f2f3416dbee298d87d3295a872c5e7a1b97a2363a4c8141de766e240.jpg)
 
 ### Body Paint Damage
-`baic_bj40_en_d57b415e` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Slight body paint damage (such as scratches, scrapes or stone striking marks) should be covered with body paint before steel rusting.
 
 If rusted, the rust must be thoroughly removed. In addition, the rusted portion must have an anti-corrosive base paint and a covering paint spread over it. All such work must be done at an authorized BAIC dealership.
 
 ### Cleaning and Maintenance of Exterior Plastic Parts
-`baic_bj40_en_ecda1cdb` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Usually, exterior plastic parts can be cleaned using water, a soft cloth or soft brush. Otherwise use cleaning agent without solvent for plastic parts.
 
 ![](images/73a1e8491c2a73cd5fa6219e99a3acaa7e2f5c20ed5188cd027e62f0b0a9daec.jpg)
 
 ### Maintenance of Chromium-Plated Parts
-`baic_bj40_en_da7d20fd` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Chrome plated parts can be cleaned with a wet cloth and then wiped with a soft dry cloth. If the effect is not good enough, can use chromium maintenance agent..
 
 Stains and the dirt layer on chromium-plated parts can be cleaned using a chrome maintenance agent. Regularly using a chrome maintenance agent can prevent the formation of a dirt layer on the surface. When a chrome maintenance agent is used, be sure to cover evenly the entire surface.
 
 ### Cleaning of Window Glass and Rearview Mirror
-`baic_bj40_en_a0fac1bf` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Clean window glass and rearview mirror with alcohol-based glass cleaner, then dry the glass surfaces with a clean soft cloth or fur.
 
-### Caution
-`baic_bj40_en_5b7479c9` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> Do not use the fur that brushed over the paint to clean window glass or external rearview mirror, because the wax remained in the fur will make the glass surface blurred. If rubber, grease or silicone substances remain on the glass, a special window cleaning agent or silicone cleaning agent must be used to clean them.
+>
+> After the body surface has been maintained, the wax that remains on the glass should be cleaned off using a special cleaning agent and a cleaning cloth so as to prevent scratching the wiper blade.
+>
+> A small brush may be used to clear the snow that has accumulated on the windows and the rearview mirror of the vehicle. An ice-removing spray agent or an ice scraper may be used to clear accumulated ice, the scraper should wipe in the same direction, be cautious so as to prevent damaging the parts.
 
-Do not use the fur that brushed over the paint to clean window glass or external rearview mirror, because the wax remained in the fur will make the glass surface blurred. If rubber, grease or silicone substances remain on the glass, a special window cleaning agent or silicone cleaning agent must be used to clean them.
-
-After the body surface has been maintained, the wax that remains on the glass should be cleaned off using a special cleaning agent and a cleaning cloth so as to prevent scratching the wiper blade.
-
-A small brush may be used to clear the snow that has accumulated on the windows and the rearview mirror of the vehicle. An ice-removing spray agent or an ice scraper may be used to clear accumulated ice, the scraper should wipe in the same direction, be cautious so as to prevent damaging the parts.
-
-### Caution
-`baic_bj40_en_4657f64c` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
-
-●Do not use the fur that brushed over the paint to clean window glass or external rearview mirror, because the wax remained in the fur will make the glass surface blurred. ● If rubber, grease or silicone substances remain on the glass, a special window cleaning agent or silicone cleaning agent must be used to clean them.
+> ⚠️ **Внимание:** 
+> ●Do not use the fur that brushed over the paint to clean window glass or external rearview mirror, because the wax remained in the fur will make the glass surface blurred. ● If rubber, grease or silicone substances remain on the glass, a special window cleaning agent or silicone cleaning agent must be used to clean them.
 
 ### The Cleaning Operations:
-`baic_bj40_en_3ca98a31` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 .Lift the wiper arm off the windshield glass. 2. During the operation, only the wiper blade bracket should be held.
 3. Use soft cloth to carefully wipe the dust and dirt from the wiper blade.
@@ -3867,12 +3529,10 @@ A small brush may be used to clear the snow that has accumulated on the windows 
 ![](images/45b630edb34a70e99581e19f617fca6ad24f05afef1c83cf1ab9876d81f9e910.jpg)
 
 ### Maintenance of Sealing Strip
-`baic_bj40_en_96499a95` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Frequent maintenance to these doors’ or windows’ rubber sealing strip can keep its in good flexibility, good sealing and also can prolong its lifetime, make the door easy to open, reduce the door slamming sound, and it is not easy to be frozen in winter.
 
 ### The Maintenance Operation:
-`baic_bj40_en_d5349a43` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Use a soft cloth to clear dust and dirt from the surfaces of the sealing strips.
 2. Regularly use a special protective agent to coat the sealing strips.
@@ -3880,45 +3540,38 @@ Frequent maintenance to these doors’ or windows’ rubber sealing strip can ke
 ![](images/dadac30c4873e694e1bbb97a94548bdead04e7d8d5882293026ab3aa10ac2aee.jpg)
 
 ### Cleaning and Maintenance of Wheels
-`baic_bj40_en_a471397b` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Regular maintenance will keep the wheels pleasing to the eye. It is also necessary to regularly clear anti-skid salt and braking scraps from the wheels so as to keep the polish on the surfaces of the wheels and prolong their service life.
 
 ### Every two weeks
-`baic_bj40_en_d69fcc08` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Clear anti-skid salt and braking scraps from the wheels.
 
 Use an acid-free cleaning agent to clean the wheels.
 
 ### Every three months
-`baic_bj40_en_fd2c0745` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Apply quality hard wax on the alloy wheels.
 
 4 Warning ●Be sure to use an acid-free cleaning agent to clean the alloy wheels. ●Do NOT use a polishing agent or other abrasive material to treat the surfaces of the wheels surface. Any wheel with damaged surface protective layer must be remedied in a timely manner. Using a pressure washer may cause permanent or invisible damage to wheels, thus causing fatal accidents. ●Do NOT use concentrated beam washing nozzle to clean tires! Even spraying from far distance or in a short time, it will still cause damage, it will still cause damage to the tires and cause traffic accidents.
 
 ### Chassis protection:
-`baic_bj40_en_bfe0853e` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The bottom of the vehicle has undergone protective treatment which can reduce the degree of chemical and mechanical damage. However, while the vehicle is running, it is inevitable that protective layer will be damaged. It is suggested that check the protective layers of the vehicle bottom and the chassis before winter or spring. Reparation should be done if necessary. Authorized BAIC dealerships can provide suitable repair services.
 
 ![](images/ea603137374ee54b34092b3739d687cbe3d818b826614ef887727d1c915c1a1c.jpg)
 
 ### Explanatory Notes on the Catalytic Exhaust Purifier
-`baic_bj40_en_87aeebc6` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Since exhaust emissions will generate high temperature after burning, additional insulation panel is installed in the catalytic exhaust purifier area.
 
 Do NOT use any other protection layer onto the insulation panel, the catalyst or the exhaust pipes. Do NOT remove the insulation panel.
 
 ### Anti-Corrosive Treatment of Cavities
-`baic_bj40_en_8a4b5a7f` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All vehicle cavities vulnerable to corrosion have undergone durability protection by BAIC. Anti-corrosive treatment needs neither checks nor follow-up treatment. If hard wax falls off from a cavity due to high temperature outside, it can be cleared by using a scraper or cleaning agent.
 
 ### Safety Instructions of work at Engine Compartment
-`baic_bj40_en_fbecb596` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When working on the engine or the engine compartment, such as checking or adding engine fluids, scalding or other injuries may occur. There is also a risk of accident and fire! Therefore, it is necessary to pay attention to the following warning instructions and basic safety rules.
 When adding the engine fluids, do not mix the working fluids. Otherwise, serious functional faults will be caused.
@@ -3946,7 +3599,6 @@ Prop up the support rod of the engine hood which is located in the front part of
 To close the engine hood, remove the support rod and put it back to the bracket in the front part of the engine compartment. Lower the engine hood to a position close to the fender and then release the engine hood. After the engine hood is closed, be sure to check that the lock catch has been firmly locked.
 
 ### Engine compartment layout
-`baic_bj40_en_316798e1` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a934dcbb3f4a60d8b9f0ad2e557615290d9db0c80ca8b330b3205fd9d58c090d.jpg)
 
@@ -3960,12 +3612,10 @@ To close the engine hood, remove the support rod and put it back to the bracket 
 ![](images/1939c2449473c9409d50d758ae73106b041030bb3be7c1f62d74c2fc12c7ac8d.jpg)
 
 ### Engine Oil
-`baic_bj40_en_5333edc4` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the engine oil level each week, If it is below the lower limit mark, then you need to promptly park the vehicle on flat ground. When the engine is in a cold state, it is the ideal time for checking the engine oil level. If the engine is running or has already warmed up, then please turn off the engine and wait for at least5 minutes before checking the engine oil level.
 
 ### Engine Oil Pressure Alarming Checking Engine Oil Level
-`baic_bj40_en_2fba2e79` | bj40 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 The engine oil pressure warning light is located on the display screen of the information center. When the ignition key is in the ON position (the engine has not been started), the vehicle will perform self-checking and the engine oil pressure warning light will be lit. After the engine has started, the warning light will go out. If the warning light flashes while driving, be sure to immediately turn off the engine and check the engine oil level. When necessary, add engine oil.
 If the engine oil level is normal but the warning light still flashes, be sure NOT to continue driving, even running at idle speed. Should contact the authorized BAIC dealership as soon as possible to have the system checked and repaired.
@@ -4000,7 +3650,6 @@ A certain amount of engine oil will be normally consumed during drive, the amoun
 When the vehicle is driven for a long distance on a high-way in the summer, or when towing a trailer, or climbing a mountainous road, the engine is ran under harsh conditions and the engine oil level should not exceed the upper limit mark -F-.
 
 ### Adding Engine Oil
-`baic_bj40_en_820e513e` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Engine oil should be added by a small amount over several times.
 
@@ -4014,7 +3663,6 @@ Engine oil should be added by a small amount over several times.
 5. Once the oil level approaches the upper limit mark, please immediately stop fueling and put on and tighten the engine oil filler cover.
 
 ### 4
-`baic_bj40_en_fed6a4f6` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning ●Before starting the maintenance, be sure to carefully read and follow the relevant warning instructions. Engine oil is a highly inflammable substance. While adding engine oil, be sure to exercise care. Be careful to NOT spray engine oil onto any engine part or the exhaust system. The engine oil filler cover must remain in a tightened state, so as to prevent engine oil from splashing out and causing fire when the engine runs. ●Be sure to use a type of engine oil that suits the engine of the vehicle which you have purchased. If an engine oil of a specification not suitable for the engine of this vehicle is used, it may damage the engine and thus cause accidents.
 
@@ -4023,7 +3671,6 @@ Warning ●Before starting the maintenance, be sure to carefully read and follow
 ![](images/2e3eba94e868bf0c8939e152b768750447f414223e45adfaf448f766e9160411.jpg)
 
 ### Replacing Engine Oil
-`baic_bj40_en_9f2e3fd8` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the engine oil by the cycle which is specified in BAIC’s Warranty Manual. The service life of the engine can only be guaranteed if it is maintained and the engine oil is replaced in accordance with the provisions.
 Engine oil replacement must be made by an authorized BAIC dealership.
@@ -4033,7 +3680,6 @@ The additives in the engine oil may soon make the color of a new engine oil fade
 ![](images/7e67334a9a5f27bf9e711c6ffa931f3744ca5a2021e0335a0a0abbc6a69f3521.jpg)
 
 ### Role of Coolant
-`baic_bj40_en_6667b7a0` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Correctly using coolant can play the role of protection against corrosion, cavitations leakage, radiator boiling, water scale and freezing. It can keep the cooling system constantly it’s best working state and ensure the normal working temperature of the engine.
 
@@ -4046,7 +3692,6 @@ Glycol-based antifreeze have been added into the cooling system
 To improve the anti-freeze ability of the coolant in cold seasons, please change to a coolant which suits use in the lowest local air temperature.
 
 ### 4 Warning
-`baic_bj40_en_ce7ee982` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The coolant must be stored in a closed container. Do NOT let children come into contact with it.
 
@@ -4059,7 +3704,6 @@ To ensure the anti-freeze ability of the coolant in cold weather conditions, be 
 ![](images/353979fa15093c3bc7bff77f2eed05309597a22a15096f99410b828a9310cea0.jpg)
 
 ### Coolant Temperature
-`baic_bj40_en_e32c5260` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ab8e64697686eb8804104e83c1671b72f39841fbe5e389e54bab5e2ff2e20d60.jpg)
 
@@ -4075,7 +3719,6 @@ After the coolant temperature warning light is lit again after driving over a sh
 ![](images/4c128dce563e9717d3fc09f0929d4cfca3fbf8a41374b209b08706ccb524c249.jpg)
 
 ### Checking Coolant Level and Adding Coolant
-`baic_bj40_en_970ea549` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A normal coolant level is vitally important for the engine cooling system to work normally.
 
@@ -4084,7 +3727,6 @@ Before opening the engine hood, be sure to park the vehicle on a flat road. Also
 ![](images/0c57dd435d1f62a1a5079e16bdef5d59286640f63ba3a4ad7d3527f027e0e7e5.jpg)
 
 ### Checking Coolant Level
-`baic_bj40_en_843d8435` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7426d6daa5373276118e70795abb3237b0cafc76a5265f1ef4c96d78e80da216.jpg)
 
@@ -4101,7 +3743,6 @@ The engine must not be running. To avoid scalding, wrap the coolant recovery res
 ![](images/81d9b42d0d50c20045a2327755578f46766b4fb105016bc5ab838ae0f352bde2.jpg)
 
 ### Adding Coolant
-`baic_bj40_en_1c9d679b` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Only new coolant can be added.
 
@@ -4112,7 +3753,6 @@ After filling, the coolant level must be located between “MIN” line and “M
 ![](images/ab31a3b91101513088256f2ae7ada45d51eb9b94f987e607f7de158052448b1b.jpg)
 
 ### 4 Warning
-`baic_bj40_en_92372082` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The brake fluid is corrosive please keep the container sealed and put it in a place out of reach of children. If accidental swallowing of brake fluid occurs, please immediately see a doctor.
 
@@ -4129,7 +3769,6 @@ dealership. If the brake fluid level is below the minimum mark of the storage ta
 ![](images/3accef92f828f5de06e68b753b473163f48cbd95dbecdebff1a42ddad90492b8.jpg)
 
 ### Brake Fluid Level
-`baic_bj40_en_61f05712` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The brake fluid level must be checked according to the cycle as specified in the Warranty Manual
 
@@ -4151,7 +3790,6 @@ Due to the wear of the brake pad, the braking system of the vehicle will automat
 ![](images/153ecf834bed7dd42028458c430c709008088092538446bba8e4b5cb58a29d0e.jpg)
 
 ### Replacing Brake Fluid
-`baic_bj40_en_072b54ea` | bj40 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 The brake fluid is absorbent and can absorb the moisture in the surrounding air. If the brake fluid contains too much moisture, it will corrode the braking system. This will lower the boiling point of the brake fluid and result in a reduction of braking effect
 The brake fluid used in this vehicle is specially developed by BAIC for the braking system of this vehicle. To ensure that the braking system can work normally, it is suggested that an authorized BAIC dealership should be asked to replace brake liquid with one that meets the relevant standard.
@@ -4171,7 +3809,6 @@ The brake fluid used in this vehicle is specially developed by BAIC for the brak
 ![](images/0d01ff2f4e7bb6ffec83f163fda58fadd8ffd2f0c69c6385f9c81f019c6e4bed.jpg)
 
 ### Power Steering Fluid
-`baic_bj40_en_71393e91` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The power steering fluid transmits power in the hydraulic power steering system and thus assists in steering
 
@@ -4190,7 +3827,6 @@ To prevent dust from entering the storage tank, wipe the filler cover and unscre
 ● The power steering fluid level should be between the upper limit mark and the lower limit mark. If the fluid level is below the “MIN” mark, be sure to add power steering fluid
 
 ### Adding Power Steering Fluid
-`baic_bj40_en_c38d742f` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Slowly add power steering fluid with care and do NOT exceed the upper limit mark so as to prevent an impact on the braking effect.
 
@@ -4205,7 +3841,6 @@ It is suggested that an authorized BAIC dealership should be asked to add power 
 Caution ●The color of a commercial power steering fluid which can be used may be different from the color of the power steering fluid injected into the system in the manufacturing process. This is no cause for concern. ●If an unspecified power steering fluid is used or two kinds of fluid are mixed, it may cause sealing failure and then power steering failure, parts damage or other faults
 
 ### Emergency Operation
-`baic_bj40_en_0c583a2d` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In the event of regular loss of the power steering fluid, ask an authorized BAIC dealership to inspect your vehicle.
 
@@ -4214,7 +3849,6 @@ In all circumstances, when the power steering fluid level is below the “MIN”
 If the power steering fluid level is below the MIN mark, you must add steering liquid before starting the engine. Otherwise, it will damage the steering pump
 
 ### Battery
-`baic_bj40_en_811ed0da` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Battery Operation Warning Symbols and Their Explanations
 
@@ -4225,7 +3859,6 @@ Battery Operation Warning Symbols and Their Explanations
 If you are unfamiliar with the repair processes or have no required tools, be sure to NOT perform any maintenance on the electrical system of the vehicle. If not absolutely sure, ask an authorized BAIC dealership to carry out the relevant maintenance.
 
 ### Checking Battery Power
-`baic_bj40_en_75d3332b` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the vehicle needs to be driven over a long distance or in a hot region or the battery is used for too long, be sure to regularly check battery power
 
@@ -4238,7 +3871,6 @@ If the color inside the monitoring indicatorwindow is green, it indicates that t
 If the monitoring indicator window is colorless, it indicates that the battery needs to be replaced
 
 ### Tips
-`baic_bj40_en_f6887385` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the monitoring indicator window is colorless, you may use a screwdriver to lightly tap the monitoring indicator window to drain air bubbles. If the color inside the monitoring indicator window does not change, the battery must be replaced.
 
@@ -4254,14 +3886,12 @@ In the event of the following usage conditions or situations, be sure to regular
 4 Warning ● Before starting battery maintenance, be sure to carefully read and follow the safety warning instructions for battery maintenance. ●Be sure NOT open the battery so as to prevent chemical scalding and battery explosions. ●Do NOT connect a damaged or leaking battery. Damaged or leaking batteries must be recycled and disposed of in accordance with environmental protection laws and regulations. ●The work place must be free of open fire, sparks, cover-free lights and smo king. When opening power cables and electrical equipment, attention must be paid to preventing electric sparks or static from being generated, Do NOT make the battery terminals short-circuit. Otherwise, the high energy electric sparks generated during the short circuit may injure the operating personnel
 
 ### Working in winter
-`baic_bj40_en_c1d84312` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 There are especially strict requirements for batteries in winter, because the starting power which they can provide at low temperatures is only part of the starting power in room temperature. We therefore suggest that before the cold season starts you should check your vehicle’s battery with an authorized BAIC dealership. Charging should be performed if necessary.
 
 If your vehicle is not driven for several weeks under an extremely cold situation, you should remove the battery and keep it indoors so as to protect it from damage.
 
 ### Charging and Replacing Battery
-`baic_bj40_en_a26a14e4` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Only when you possess the essential professional knowledge should you perform maintenance on the battery.
 
@@ -4272,14 +3902,12 @@ In the event of battery damage, the battery power will be insufficient, making i
 ![](images/33d81c68114334f07fa5cd67a91248e1ba9b00733068f3880393b9449d1f5b9f.jpg)
 
 ### Charging Battery
-`baic_bj40_en_df8c84ce` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the battery has been used for a rather long time, it may not maintain charging efficiency when it is completely new. If the vehicle is used too infrequently, or the vehicle makes too many short starts, or runs in a cold environment, then its battery needs to be charged regularly.
 
 Before charging, be sure to check the state of the battery
 
 ### 4 Warning
-`baic_bj40_en_3115cdd7` | bj40 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 ●Do NOT charge the battery when it is connected with the vehicle, this may seriously damage the electrical system of the vehicle. ●If the display of the battery monitoring indicator window is colorless, do NOT attempt to charge the battery. ●If the battery is frozen, do NOT attempt to charge it.
 
@@ -4300,7 +3928,6 @@ After the engine is turned off, if the ignition switch remains in the ON mode fo
 ![](images/5303332af4480ec92fa253b51b32eeb8a1c7801658e2f66c204c31f29b0e61e3.jpg)
 
 ### Replacing Battery
-`baic_bj40_en_55f09293` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Only use a battery of the same model and the same specification as that of the battery to be replaced. Otherwise, there may be situations of inconsistent dimensions or different terminal positions, thus likely to cause battery damage, leakage or fire.
 
@@ -4309,7 +3936,6 @@ When replacing a battery, ensure that it is correctly installed. Be sure that th
 ![](images/7aa9bd0cd5d5d3990cb4387182b5eb6c3abb57fa9dcf839ee1a88d523fe953c1.jpg)
 
 ### Windshield Washing Liquid and Wiper Blade
-`baic_bj40_en_5108c115` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Windshield Washing Liquid and Wiper Blade
 
@@ -4322,7 +3948,6 @@ It is difficult to use pure water to thoroughly clean the front and rear windshi
 ![](images/618d62e7eff45d2b074e6d4be8ad57122e74e858030613e767270fa0502d8423.jpg)
 
 ### Replacing Windshield Wiper Blades
-`baic_bj40_en_0ccb9ac9` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9a74d6f1c8cbd31214955744ac692c2d7ce03eeb01f8071737a3461396deddc6.jpg)
 
@@ -4337,7 +3962,6 @@ If there is a frictional sound in the wiper blade, it may be caused by the follo
 It is necessary to regularly check the wiper blade and replace the wiper blade as required. Otherwise, it will damage the front and rear windshield.
 
 ### Replacing Front Wiper Blade
-`baic_bj40_en_ae4df245` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5c082b7793fa27888b7171b1a6aa8c7ce9e48b3ed0dbd984d0b7f92a952f50c0.jpg)
 
@@ -4348,7 +3972,6 @@ Pull up the wiper arm, follow the direction of – Arrow A- and turn the wiper b
 Press the key to unlock the wiper, and then pull the wiper along the -Arrow- direction
 
 ### Replacing Rear Wiper Blade
-`baic_bj40_en_c9b46cae` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/84631851da5adc8ad52827b935c33cd98849b26dfd9466d6d8b5d9da11e3cfa6.jpg)
 
@@ -4363,7 +3986,6 @@ the sequence opposite that of removing the rear wiper blade.
 ![](images/016fc1cb84074dcab09b565f18cc2509df75cddd307ca9f5938ab8f4ed7eb296.jpg)
 
 ### Tires
-`baic_bj40_en_16ec89c6` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Defective tires are very dangerous! If tires are damaged, excessively worn, or have improper pressure, do NOT continue the driving.
 
@@ -4376,7 +3998,6 @@ The most common causes of tire ineffectiveness:
 ![](images/809227c4e909e1373e2e2d01b29541ec6a79b596d9544220bae0caec853107b6.jpg)
 
 ### Storage Instructions for Tires Tire Pressure
-`baic_bj40_en_01747586` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before removing tires, be sure to mark them indicating their turning direction. When installing the tires, follow the marks to reposition them. This can ensure that the turning direction and dynamic balancing state of the wheels will be kept unchanged.
 
@@ -4396,14 +4017,12 @@ The pressure of hot tires is bound to increase. If tire pressure has to be check
 For details about cold tire pressure criteria, refer to “Wheel” on page 250.
 
 ### When to Check Tire Pressure?
-`baic_bj40_en_f531e687` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Tires should be checked at least once a week.
 Do NOT forget to the pressure of spare tires.
 Their pressure should be 220kPa.
 
 ### How to Check Tire Pressure?
-`baic_bj40_en_3a4cd056` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Besides the tire pressure monitoring system, tire pressure can also be checked with high-quality pocket-type tire pressure gauge. It is not possible to determine whether the tire pressure is normal by visual checks alone. Even if not adequately inflated, radial tires still look very normal. check inflated tire pressure when they are cold. “Cold state”
 
@@ -4414,14 +4033,12 @@ Remove the valve cap from the valve core of the tire, press the tire pressure ga
 After the check is completed, be sure to screw the valve cap back on the valve core. The valve cap can prevent dust and moisture from entering the tire
 
 ### Tire Puncturing
-`baic_bj40_en_c7dd8ec7` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Your vehicle is equipped with treadless tires. When the tires are punctured by a sharp object, there may not be apparent air leakage in the tires. If you spot such a situation, immediately slow down and drive carefully. Replace the punctured tire with a spare tire or repair it.
 
 This type of puncturing will cause reduced tire pressure. It is therefore very important to regularly check tire pressure. Punctured or damaged tires must be immediately repaired or replaced as soon as possible
 
 ### Hidden Damage
-`baic_bj40_en_ef2586a9` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Damage to the tires and rims is often difficult to be noted. While the vehicle is running, if the vehicle vibrates abnormally or deviates, it is likely that one tire has a fault. In such a situation, you should go to an authorized BAIC dealership to have the tire checked as soon as possible.
 
@@ -4430,14 +4047,12 @@ Warning In the initial 500km, it is unlikely that new tires will not reach a sta
 ●Do NOT use used wheels or used tires of an unknown origin, because such wheels and tires may have been damaged, although they bear no visible damage. While driving, they may cause the vehicle to go out of control and result in traffic accidents. While driving, if you spot any abnormal vibration or deviation of the vehicle, be sure to immediately stop and check to see if the tires are damaged.
 
 ### Valve Hole
-`baic_bj40_en_553980d2` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Keep the valve hole cap tightly screwed to prevent dust from entering the valve hole. While checking tire pressure, check whether the valve hole leaks (ideally use a soap liquid to see if air bubbles emerge).
 
 ![](images/28f3975cd9c750bb585a53fbea2e22bc84f1b9759abff6d061f2e4bac960d6b6.jpg)
 
 ### Tire Check and Rotation
-`baic_bj40_en_c383cc01` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 It is suggested that tires should be rotated every 12,000km driven, or more frequently based on needs.
 
@@ -4454,7 +4069,6 @@ After the tires are rotated, adjust the inflation pressures of the front and rea
 △ Warning Rusting or dirt on the wheels or wheel connectors will cause the loosening of the wheel nuts after a certain period of time, thus resulting in the falling-off of wheels and traffic accidents. Therefore when replacing wheels, it is necessary to clear any rust or dirt on the wheels 4 and their connectors. In emergency situations, cloth or tissues may be used to clean. If necessary, a scraper or a wire brush may be used to clear all rust or dirt. Meanwhile, regularly check the tightening torque of the wheel nuts and the corrected torque is required to reach (140±10)Nm. It is suggested that the tightening torque of each wheel nut should be checked after the vehicle has been driven for 1500km, 5000km and 8000km. Every time the wheel assembly is dismantled, tightening must be made in strict accordance with the torque requirements.
 
 ### When To Replace Tires?
-`baic_bj40_en_5662ddaa` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/93656c4b829371d8f53d25ed038738140987c82c3a61fa972be7c7e2a4639028.jpg)
 
@@ -4470,14 +4084,12 @@ The tire wear indication mark has shown signs of wear.
 ●Tires are punctured, scratched or bear other damage, and the size and position of the damage can hardly be repaired.
 
 ### Tire Information
-`baic_bj40_en_a986ef5d` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/90f45e8d735926a292c4ac689821c2b5febd18eef209c6e98dfb7a0057bf879f.jpg)
 
 A tire information label is pasted to the B-pillar on the driver’s side. Be sure to inflate tires according to the tire pressure specified on the label.
 
 ### Buy New Tires
-`baic_bj40_en_99d147e6` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/102477ec9660f5d48ba9a10771727de51385c6c134c171153351f5f8f82c969b.jpg)
 
@@ -4486,7 +4098,6 @@ View the tire and loading information label on the vehicle to get information on
 ![](images/62122d7a34df76829d070684a03f0687049cf845ab3895f0e9586a2d160815a5.jpg)
 
 ### Wheel Balance
-`baic_bj40_en_da0b8af5` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before the vehicle left the factory, the wheels already underwent dynamic balance treatment. However, many factors in the vehicle use process will affect wheel balance, thus resulting in wheel imbalance.
 Be sure to promptly perform dynamic
@@ -4496,12 +4107,10 @@ After tires are replaced, the wheels must be dynamically balanced again.
 Dynamic balance standard for wheels: cumulative≤10g.
 
 ### Inaccurate Wheel Alignment
-`baic_bj40_en_701f4ec1` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Inaccurate wheel alignment will result in uneven wear to the tires, thus lowering driving safety. If excessive uneven tire wear is found, be sure to go to an authorized BAIC dealership to have the wheels aligned.
 
 ### Replacement of the Rim
-`baic_bj40_en_55344836` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Bent, cracked or seriously rusting or corroded rims should be replaced. If the wheel nuts often become loose, the wheels and wheel nuts should be replaced. Wheels that leak should be replaced (except for some repairable aluminum wheels). If the above situations occur, be sure to go an authorized BAIC dealership to have repairs made.
 
@@ -4512,7 +4121,6 @@ Rims can only be replaced using BAIC’s new original parts. This will ensure th
 ![](images/0bf6c5a59a3fd7d04b996870d3b4b266a1968d69032943310bfa66a423c193af.jpg)
 
 ### When Encountering Tire Puncturing
-`baic_bj40_en_e91a97fb` | bj40 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Tire puncturing is not often seen while driving. This is particularly true when the tires are properly maintained. If a tire leaks, it could be very slow. However, once tire puncturing is encountered, the phenomena that occur and the suggested measures for coping with them are as follows:
 
@@ -4521,7 +4129,6 @@ If a front tire is punctured, the drag effect of the flat tire will make the veh
 If a rear tire is punctured, you should release the accelerator pedal. Turn the steering wheel to your desired driving direction so as to keep control over the vehicle. It could be very bumpy and noisy, but you can still control the vehicle. Lightly depress the brake to stop the vehicle in the emergency lane or a safe place.
 
 ### Snow chains
-`baic_bj40_en_bf184e43` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do NOT install any snow chain which is not consented by BAIC. Otherwise, it may damage the brake parts.
 
@@ -4530,7 +4137,6 @@ Unsuitable snow chains will damage the tires, rims, suspension, brake, and body 
 1. The snow chain can be installed only on the driving wheel; 2. Follow the tightening instructions for the installing of snow chains and the vehicle speed limits under various road conditions; 3. Don’t drive at speed>50km/h. 4. To avoid damage to tires and the excessive wear of snow chain, when driving on snow-free road, be sure to remove the snow chain.
 
 ### 5 Handling of Accidents
-`baic_bj40_en_9d82c70a` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning Triangles and Fire Extinguisher .· ····... .223
 Spare Tires and Tools .  224
@@ -4539,7 +4145,6 @@ Emergency start ···. ...242
 Emergency traction .244
 
 ### Warning Triangles and Extinguisher
-`baic_bj40_en_5149497c` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning Triangles
 
@@ -4556,7 +4161,6 @@ The warning triangles should be placed behind the vehicle driving direction in a
 ![](images/70b225050220f08c0bc92cf3dd08726a524226a9aa13e75c1b104961c896e789.jpg)
 
 ### Spare Tires and Tools
-`baic_bj40_en_8c37c8a0` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Spare Tire
 
@@ -4573,7 +4177,6 @@ The spare tire is located under the spare tire rack of the tailgate. To use it, 
 3. Follow the right angle to insert the wheel lock key into the wheel lock nut and turn the wheel lock key to remove the nut; then, sequentially remove the other three ordinary wheel nuts.
 
 ### 4 Warning
-`baic_bj40_en_059ca3e7` | bj40 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 ![](images/7e7c8fc088c9a6249c955163ca471500480d81c7ed3c92a85a45a68e50b5704f.jpg)
 
@@ -4587,7 +4190,6 @@ The spare tire is located under the spare tire rack of the tailgate. To use it, 
 ![](images/51cb43c98dd56c874dc121a1085fad2ead4efc91ffb160e0bd70b2c89f16fcbf.jpg)
 
 ### Tools
-`baic_bj40_en_2bb6961d` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/aeb8f364072cbb5d725a61c16a28522dc560f406828796729b6223264e1b4728.jpg)
 
@@ -4610,7 +4212,6 @@ The vehicle tool kit includes:
 6. Key to wheel lock
 
 ### 4 Warning
-`baic_bj40_en_e3d24c34` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ●Improper use of the jack may cause serious injuries.
 ●The jack can only be used on a hard and flat surface.
@@ -4619,18 +4220,14 @@ The vehicle tool kit includes:
 ●When using the jack to lift the vehicle, be sure to remember that you must not put any part of your body under the vehicle(to prevent accidents).
 ●If it is indeed needed to operate under the vehicle, a suitable protective support must be placed under the vehicle.
 
-### Caution
-`baic_bj40_en_adb4d26d` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-After use, the jack must be put back to its original place. Also pay attention to the supporting angle of the jack and ensure that the jack can be put into the installation box.
+> ⚠️ **Внимание:** 
+> After use, the jack must be put back to its original place. Also pay attention to the supporting angle of the jack and ensure that the jack can be put into the installation box.
 
 ### 4 Warning
-`baic_bj40_en_721e59a3` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Follow the specified tightening torque to correctly tighten the wheel nuts. Otherwise, when the vehicle is driven, the nuts may become loose, thus increasing the chance of traffic accidents. When the wheel assembly dismantling wrench provided along with the vehicle is used to fasten the wheel nuts but it is not possible to guarantee the torque value, rationally control vehicle speed when driving, avoid sudden acceleration and emergency braking and go to a specialized place to calibrate and ensure that the wheel nuts reach the required tightening torque. The wheel nut toque is: 130±5Nm。
 
 ### Replacement of Flat Tires
-`baic_bj40_en_2c572354` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The dimensions of the emergency spare tires and their rims of this vehicle are the same as those of the damaged wheels.
 After an emergency spare tire is installed, the steering performance of the vehicle will change. Please rationally control vehicle speed, and avoid abrupt acceleration and emergency braking.
@@ -4639,7 +4236,6 @@ The maximum vehicle speed should not exceed 70km/h.
 While driving, do NOT use more than one emergency spare tire.
 
 ### Preparatory Work
-`baic_bj40_en_5747dc69` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you find that a tire is flat, you should slowly drive the vehicle to a flat place where safe maintenance can be performed so as to prevent further damage to the tire and the rim. Also, put a warning triangle in a suitable place behind the vehicle, and turn on the emergency warning light.
 
@@ -4650,7 +4246,6 @@ If you find that a tire is flat, you should slowly drive the vehicle to a flat p
 To further ensure that the vehicle will not move, you may place a stopper in front of and behind the tire which is farthest away from the tire to be replaced (e.g. the tire which is diagonal to the tire to be replaced).
 
 ### Loosening Wheel Nuts
-`baic_bj40_en_b20d3b5a` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/646e6a228e4efc915ad9611dc6093a3f0835c97a6860e08230a39f3a703ce079.jpg)
 
@@ -4665,7 +4260,6 @@ Do NOT remove the nut. Instead, just loosen it by approximately one turn.
 ![](images/8e28a0cb4538d197bf9d215f84266ac45142a74aa012c3c1ebd6678b6fe3596f.jpg)
 
 ### Lifting Vehicle
-`baic_bj40_en_6737cd53` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/55523f078ab6199c86c12f4a590f335c68d25200120ec6a1c097cbb825060eaf.jpg)
 
@@ -4684,7 +4278,6 @@ Remove the wheel nuts first and then the leaking tire. Be sure to exercise care 
 ![](images/48f09a3b0eab65120120ff55d81290e2834aed48457cbb333179e20e918f5e7d.jpg)
 
 ### 4 Warning
-`baic_bj40_en_bad57660` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ●The jack must be used on a hard and flat surface.
 ●The jack must be put at a suitable lifting point. 5
@@ -4693,7 +4286,6 @@ Remove the wheel nuts first and then the leaking tire. Be sure to exercise care 
 While lifting, you should continuously watch the vehicle condition. If you feel that the vehicle body is apparently tilting, you should stop lifting, find out what the problem is and only resume lifting after the problem has been fixed.
 
 ### Mount Spare Tire
-`baic_bj40_en_185271d2` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/78b9827906ed80318c324e89e9b0e2d7be24273ad0cbd3971a0303373088f3ab.jpg)
 
@@ -4718,7 +4310,6 @@ Following the sequence as shown in the figure and evenly tighten the wheel nuts.
 ![](images/25a546048571cf00e1b9ba960da2a033129ba0c9e2cf8d308c111b2a3a4ed79e.jpg)
 
 ### Instructions for Replacement of Wheel
-`baic_bj40_en_ce7be87d` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ● The replaced wheel should promptly and correctly installed into the spare tire storage place.
 ●After use, the accompanying tools should be promptly cleaned and put back to their original place.
@@ -4730,7 +4321,6 @@ Following the sequence as shown in the figure and evenly tighten the wheel nuts.
 ![](images/1370c04512916609b91b1fdda52b58c6776a447d03af9cd8e17c3b5424bd28e5.jpg)
 
 ### Replacement of Fuse
-`baic_bj40_en_7d232b80` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Fuse Box
 
@@ -4739,7 +4329,6 @@ Fuse Box
 i Tips The fuse box is located on the left side of the lower steering column of the instrument panel, at the back of knee board. To facilitate viewing during inspections or repair, the lower knee board needs to be removed.
 
 ### Remove the knee protective panel
-`baic_bj40_en_b9d80d8b` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/82019c9ec13a6594c5ce6256b3b246b612bb98c351a45ad6c5bcf4615cf684ad.jpg)
 
@@ -4748,7 +4337,6 @@ i Tips The fuse box is located on the left side of the lower steering column of 
 2. Attach a piece of 50 ×100mm protective strip (made of non-woven fabrics or similar materials) on the knee protective panel close to the ignition lock to protect the knee protective panel against scratching during the removal and installation; 3. Force backward on both the left and the right from bottom to top to remove the knee protective panel;
 
 ### With knee protective panel
-`baic_bj40_en_efa576a4` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/1e57abc0ac5ca108dff709c95313742f636650eb7a49d640d0a76eede94a348e.jpg)
 
@@ -4757,21 +4345,18 @@ i Tips The fuse box is located on the left side of the lower steering column of 
 3. Remove the protective non-woven fabrics;
 
 ### Install Fuse Box
-`baic_bj40_en_171136d9` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Check and ensure the steering column had adjusted the lowest position. The knee protection cover is with a protection cover
 2 Install knee protection cover plate, from bottom to top, to forward force by left and right sides at the same time.
 3 Rip cover nonwovens.
 
 ### Engine Compartment Power Distribution Center
-`baic_bj40_en_b504eaf3` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/6f750a0d859be1b4e7105ec08f8a7e0550c3f7a9ec0b487b32d2f4c218ba4166.jpg)
 
 ![](images/9f5ec3a44059d0f1b93fa8c37912a3acce4f89794d183c9fc3c20ec470381f26.jpg)
 
 ### Check and Replace Fuse
-`baic_bj40_en_f0847ca3` | bj40 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 If a certain electrical device stops working, you should check whether it is caused by fuse damage. You may follow the graphs of Engine Compartment Power Distribution Center the position map on the fuse box cover and tables to determine the one or several fuses that control the component. Before you are able to determine whether the fault is caused by fuse damage, you may replace all damaged fuses and check if electrical devices can work normally. If the fault still exists, please contact an authorized BAIC dealership.
 
@@ -4786,7 +4371,6 @@ If the alternative fuse of the same rated value melts again within a short time,
 ![](images/ccb02a081423712251c262facd745ae1638e9fad9b004ce1fa961c1241f263b8.jpg)
 
 ### Engine Compartment Power Distribution Center Layout
-`baic_bj40_en_df900acf` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f8516e3a25b2d6a005de7cd09062f533002b59b65a1d415d8326e4b96ebaee60.jpg)
 
@@ -4802,7 +4386,6 @@ Specifications and Functions of Engine Compartment Power Distribution Center
 ![](images/691fc3e1689276694646800ac486ba763df41b114a6acb36baf8091c1ca8373d.jpg)
 
 ### Engine Compartment Power Distribution Center Layout
-`baic_bj40_en_8d7849fe` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b1d4378957bf162d1256a56088dc7dc9bca4d7c742035f3cdac746d5aba71231.jpg)
 
@@ -4813,7 +4396,6 @@ Specifications and Functions of Engine Compartment Power Distribution Center
 ![](images/81220561b7699a68000bd71800998c9ad8033293113d09c33b5367c2eaa2db2e.jpg)
 
 ### Cabin fuse box Layout
-`baic_bj40_en_535443e8` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0f65c539c639d4a48691cb43a9fc0cf9727a3fa11975e804944e104207df7af1.jpg)
 
@@ -4829,14 +4411,12 @@ Specifications and Function of fuse box in cabin
 ![](images/b0ae1514de9674a302b1d204f03987e688be61317b2eb43be26e5a97c291fcf0.jpg)
 
 ### Replacement of Bulbs
-`baic_bj40_en_48be06e0` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Usually, it is not possible to replace a bulb without removing other parts of the vehicle. This is particularly true for those bulbs which can only be operated from inside the engine compartment. Such work requires professional skills.
 
 ![](images/987278e1c71f6d5b6da478f66d49bec9b9e57100e99a8492b652bcc704d66a02.jpg)
 
 ### Emergency Startup
-`baic_bj40_en_53e2c2d4` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If discharging makes it impossible to start the engine, you may start it by using the battery of another vehicle via a jumper cable. The following points should also be observed:
 
@@ -4855,7 +4435,6 @@ The capacity of the battery equipped for this vehicle is 60Ah.
 ![](images/31806bcaf9b1d5537fc098a6c06a95a9d49c33224f491368b7c1c22118ed1d55.jpg)
 
 ### Jumper Cables
-`baic_bj40_en_578f5962` | bj40 | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 To connect batteries via jumper cables, it is necessary to connect the positive terminals first and then the negative terminals.
 
@@ -4872,14 +4451,12 @@ Caution Properly arrange the jumper cables to prevent contact between the cable 
 ![](images/b4f642127bee503de0f576dcab98dda4916cafb916d104b40a6e321eb1aebab2.jpg)
 
 ### Emergency Towing
-`baic_bj40_en_9cb6b51e` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The front and rear parts of the vehicle are both equipped with a towing hook which can be used for towing things. When your vehicle breaks down or has an accident, the front or rear towing hook can be used as a traction point to tow your vehicle.
 
 ![](images/229438f070a04db628152e2fcb459da55f0b949648e919e3caba796de82e21cb.jpg)
 
 ### Towing from the Front
-`baic_bj40_en_824ad885` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a5532d77f425e5ad62d78d6b0806251446e1c99f0823403ce4f1f577e1bdb175.jpg)
 
@@ -4890,14 +4467,12 @@ This vehicle has two front towing hooks, symmetrically distributed on the left a
 ![](images/5b149e42b80ec3ec7ea8fe3182dea0c6dd78ff1d3ccfaf417777b7b4350b6226.jpg)
 
 ### Towing from the Rear
-`baic_bj40_en_77817724` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/3159e246e8d37e58e6ca0bf587423c0a480d5c7b9918078dc7e9df21dbe1c823.jpg)
 
 The rear traction ring (as indicated with the Arrow) is installed on the welded plate in the rear of the vehicle.
 
 ### Towing the Vehicle Warning
-`baic_bj40_en_8871ae8f` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the vehicle needs to be dragged, we suggest that you entrust an authorized BAIC dealership or a commercial towing company to do it for you. When you contact them, you must tell them how the vehicle needs to be dragged.
 
@@ -4912,7 +4487,6 @@ Using a Flatbed Truck to Drag the Vehicle
 ![](images/b3a974cbe3937a10c5cfb78be271922b1678f6c11bf9ed8e73717ac10ba57bac.jpg)
 
 ### Identification Number
-`baic_bj40_en_7c5478ca` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/445261e812ada9e6785a04fd7af6165cb05249709d093138908ef3693643a4d5.jpg)
 
@@ -4927,7 +4501,6 @@ Part code: T19900010
 Part name: PAD Diagnostic tester
 
 ### Engine Transmission & Transfer case Codes
-`baic_bj40_en_b5a4f8bc` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/77799bd2565dfbc1b948b9c489caf20f130f96d96b47f67ced5f014be2143a07.jpg)
 
@@ -4946,7 +4519,6 @@ The transmission code is imprinted on the transmission casing.
 The transfer case code is imprinted on the transfer case casing.
 
 ### Vehicle Data Nameplate
-`baic_bj40_en_ad3861a0` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The product label is in the middle and lower part of the B-pillar on the front passenger’s side\*. The following information can be read from the product label:
 
@@ -4959,7 +4531,6 @@ manufacturer
 ※Note: For some models, the data plate is riveted to the facade of the right side of the engine compartment.
 
 ### Vehicle Parameters
-`baic_bj40_en_6e31bf93` | bj40 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/2543dd2d870d14b927e45a00cc24dd2636b394ff67797767204f9357ee6a00a6.jpg)
 
@@ -4971,7 +4542,6 @@ Main type and parameters
 ![](images/0c3561c14f49347ef5b63593073fbb1942400323a91473af359b5016c425df43.jpg)
 
 ### Structural Parameters
-`baic_bj40_en_04948a92` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Front Wheel Alignment Parameters
 ![](images/bbadc184d2bb2d558a1ecca3883beff09a99f33a5efd61a5b06ea7717d98c7d1.jpg)
@@ -4982,10 +4552,8 @@ Wheel parameter
 ![](images/7ef1465dc5a0ca6846fe81c31d8bce85639da45ff8b99b8f3b95ba3e4d872d81.jpg)
 
 ### The Braking System
-`baic_bj40_en_9b8b7164` | bj40 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a3cf758efac2bac2e6a09cf5761faeff01a68223113f4762472823d48c546c78.jpg)
 
 Engine Parameters
 ![](images/566cf5ee458feba8b7b0c9a98c7505403211de3f765e204e11aec130ac5e85d8.jpg)
-

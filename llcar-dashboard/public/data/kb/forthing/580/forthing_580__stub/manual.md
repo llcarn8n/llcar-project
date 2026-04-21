@@ -1,14 +1,17 @@
-# Manual: forthing/m4 (16 chunks)
-<!-- doc_type:owners_manual tier:2 lang:en source:forthing_m4_en.pdf -->
+---
+brand: forthing
+model: 580
+generation: forthing_580__stub
+source: kb
+---
+
 
 ### Untitled
-`forthing_m4_en_3ab9e211` | m4 | pdf_manual | tier:2 | lang:en | layer:lighting | p:1 | doc_type:owners_manual
 
 2022 overseas version Dongfeng Forthing M4 sales specification configuration
 Model
 
 ### Reverse image
-`forthing_m4_en_f078f122` | m4 | pdf_manual | tier:2 | lang:en | layer:sensors | p:8 | doc_type:owners_manual
 
 ●
 With dynamic track, SD image, the same as
@@ -25,7 +28,6 @@ camera
 ×
 
 ### Front air outlet
-`forthing_m4_en_287d4822` | m4 | pdf_manual | tier:2 | lang:en | layer:general | p:11 | doc_type:owners_manual
 
 ●
 With switches on both sides, the middle
@@ -35,7 +37,6 @@ With switches on both sides, the middle
 switch is based on the shape.
 
 ### Face air outlet with switch (cold air can be
-`forthing_m4_en_5c05ce17` | m4 | pdf_manual | tier:2 | lang:en | layer:ev | p:12 | doc_type:owners_manual
 
 discharged)
 PM2.5 air purification
@@ -49,7 +50,6 @@ generator +AQS, which can intelligently
 detect and purify the air.
 
 ### Instrument panel hook
-`forthing_m4_en_00d91be3` | m4 | pdf_manual | tier:2 | lang:en | layer:interior | p:16 | doc_type:owners_manual
 
 ●
 one
@@ -72,7 +72,6 @@ the third row.
 ●
 
 ### One at the front of the auxiliary instrument
-`forthing_m4_en_06543f7c` | m4 | pdf_manual | tier:2 | lang:en | layer:general | p:16 | doc_type:owners_manual
 
 panel, one at the rear of the auxiliary
 instrument panel and one in the luggage
@@ -85,7 +84,6 @@ instrument panel and one in the luggage
 compartment.
 
 ### Rear combination lamp
-`forthing_m4_en_e285e4e5` | m4 | pdf_manual | tier:2 | lang:en | layer:lighting | p:18 | doc_type:owners_manual
 
 ●
 Penetration type, double back-up lights, with
@@ -106,7 +104,6 @@ machine)
 ×
 
 ### Center console display
-`forthing_m4_en_288775f0` | m4 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:23 | doc_type:owners_manual
 
 ●(Overseas version)
 High-definition 10.25-inch LCD screen:
@@ -118,7 +115,6 @@ English, Spain, Arabia, Persia)
 English, Spain, Arabia, Persia)
 
 ### Instrument cluster
-`forthing_m4_en_eb656fd2` | m4 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:24 | doc_type:owners_manual
 
 ●
 10.25 inch code breaking screen
@@ -132,7 +128,6 @@ reminder)
 reminder)
 
 ### Mobile phone
-`forthing_m4_en_511d72ef` | m4 | pdf_manual | tier:2 | lang:en | layer:general | p:25 | doc_type:owners_manual
 
 interconnection
 ●(Overseas version)
@@ -150,7 +145,6 @@ support viewing by mobile APP, which can
 realize the function of driving record.
 
 ### Main driving seat
-`forthing_m4_en_7eed7c24` | m4 | pdf_manual | tier:2 | lang:en | layer:interior | p:26 | doc_type:owners_manual
 
 ●
 Manual adjustment, 6-way, seat up and
@@ -171,7 +165,6 @@ adjustment
 ×
 
 ### Adjustable side-wing headrest
-`forthing_m4_en_2d47884a` | m4 | pdf_manual | tier:2 | lang:en | layer:interior | p:27 | doc_type:owners_manual
 
 ×
 Seat back plate, small table plate with cup
@@ -183,7 +176,6 @@ holder
 ●
 
 ### Auxiliary seat
-`forthing_m4_en_8bc191b9` | m4 | pdf_manual | tier:2 | lang:en | layer:interior | p:28 | doc_type:owners_manual
 
 ●
 Manual adjustment, 4-way, seat front and
@@ -200,7 +192,6 @@ back, backrest front and back
 ×
 
 ### Seat ventilation (it is recommended to match
-`forthing_m4_en_6d5f718f` | m4 | pdf_manual | tier:2 | lang:en | layer:interior | p:28 | doc_type:owners_manual
 
 the overseas version)
 ●
@@ -219,7 +210,6 @@ holder
 ●
 
 ### The backrest is folded back to be flush with
-`forthing_m4_en_e3182ef2` | m4 | pdf_manual | tier:2 | lang:en | layer:interior | p:29 | doc_type:owners_manual
 
 the second row of cushions
 the second row of cushions
@@ -231,7 +221,6 @@ the rear passenger seat can be electrically
 adjusted to move back and forth)
 
 ### Seat backrest angle is adjustable
-`forthing_m4_en_20221afc` | m4 | pdf_manual | tier:2 | lang:en | layer:interior | p:30 | doc_type:owners_manual
 
 ×
 Electric adjustment (front and rear, backrest

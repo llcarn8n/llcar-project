@@ -1,5 +1,10 @@
-# Manual: bmw/ix_i20 (375 chunks)
-<!-- doc_type:owners_manual tier:2 lang:en -->
+---
+brand: bmw
+model: ix
+generation: i20_2021
+source: kb
+---
+
 
 ### 
  | ix_i20 | pdf_manual | tier:2 | lang:en | layer:general | p:0
@@ -5972,80 +5977,79 @@ Seats, mirrors and steering wheel
 102
 Online Edition for Part no. 01405A5ED23 - VI/22
 
-### Warning
- | ix_i20 | pdf_manual | tier:2 | lang:en | layer:interior | p:103
-
-Warning
-The protective effect of safety gear, including
-seat belts, may not be fully functional or fail in
-the following situations:
-▷
-The seat belts or seat belt buckles are
-damaged, soiled, or changed in any
-other way.
-▷
-Seat belt tensioners or roll-up mechanism were modified.
-Seat belts can be imperceptibly damaged
-in the event of an accident. There is a risk
-of injury or danger to life. Do not modify
-seat belts, seat belt buckles, seat belt tensioners, roll-up mechanisms, or belt anchors
-and keep them clean. Have the seat belts
-checked after an accident at the authorized
-service center or another qualified service
-center or repair shop.
-Correct use of seat belts
-▷
-Wear the seat belt tight to your body over
-your lap and shoulders, without twisting it.
-▷
-Wear the seat belt deep on your hips over
-your lap. The seat belt must not press on
-your stomach.
-▷
-Do not rub the seat belt against sharp
-edges, or guide it or jam it in across hard
-or fragile objects.
-▷
-Avoid thick clothing.
-▷
-Re-tighten the seat belt frequently upward
-around your upper body area.
-Buckling the seat belt
-1.
-Guide the seat belt slowly over shoulder
-and hip to put it on.
-2. Insert the buckle tongue into the seat belt
-buckle. The seat belt buckle must engage
-audibly.
-To ease accessibility to the seat belt buckle, an
-adjustable slider is available on the belt to help
-position the buckle when not in use.
-Unbuckling the seat belt
-1.
-Hold down the seat belt firmly.
-2. Press the red button in the seat belt buckle.
-3. Guide the seat belt back into its roll-up
-mechanism.
-Seat belt reminder
-General information
-Make sure that the seat belts are positioned
-correctly.
-The seat belt reminder becomes active in the
-following situations:
-▷
-When the seat belt on the driver's side or
-on the passenger's side is not fastened.
-▷
-When the seat belt is unfastened while driving.
-▷
-When objects are lying on a seat.
-Display in the instrument cluster
-The indicator light in the instrument cluster illuminates after turning on the drive-ready state
-when the seat belt reminder is active.
-Seats, mirrors and steering wheel
-CONTROLS
-103
-Online Edition for Part no. 01405A5ED23 - VI/22
+> ⚠️ **Внимание:** | ix_i20 | pdf_manual | tier:2 | lang:en | layer:interior | p:103
+>
+> Warning
+> The protective effect of safety gear, including
+> seat belts, may not be fully functional or fail in
+> the following situations:
+> ▷
+> The seat belts or seat belt buckles are
+> damaged, soiled, or changed in any
+> other way.
+> ▷
+> Seat belt tensioners or roll-up mechanism were modified.
+> Seat belts can be imperceptibly damaged
+> in the event of an accident. There is a risk
+> of injury or danger to life. Do not modify
+> seat belts, seat belt buckles, seat belt tensioners, roll-up mechanisms, or belt anchors
+> and keep them clean. Have the seat belts
+> checked after an accident at the authorized
+> service center or another qualified service
+> center or repair shop.
+> Correct use of seat belts
+> ▷
+> Wear the seat belt tight to your body over
+> your lap and shoulders, without twisting it.
+> ▷
+> Wear the seat belt deep on your hips over
+> your lap. The seat belt must not press on
+> your stomach.
+> ▷
+> Do not rub the seat belt against sharp
+> edges, or guide it or jam it in across hard
+> or fragile objects.
+> ▷
+> Avoid thick clothing.
+> ▷
+> Re-tighten the seat belt frequently upward
+> around your upper body area.
+> Buckling the seat belt
+> 1.
+> Guide the seat belt slowly over shoulder
+> and hip to put it on.
+> 2. Insert the buckle tongue into the seat belt
+> buckle. The seat belt buckle must engage
+> audibly.
+> To ease accessibility to the seat belt buckle, an
+> adjustable slider is available on the belt to help
+> position the buckle when not in use.
+> Unbuckling the seat belt
+> 1.
+> Hold down the seat belt firmly.
+> 2. Press the red button in the seat belt buckle.
+> 3. Guide the seat belt back into its roll-up
+> mechanism.
+> Seat belt reminder
+> General information
+> Make sure that the seat belts are positioned
+> correctly.
+> The seat belt reminder becomes active in the
+> following situations:
+> ▷
+> When the seat belt on the driver's side or
+> on the passenger's side is not fastened.
+> ▷
+> When the seat belt is unfastened while driving.
+> ▷
+> When objects are lying on a seat.
+> Display in the instrument cluster
+> The indicator light in the instrument cluster illuminates after turning on the drive-ready state
+> when the seat belt reminder is active.
+> Seats, mirrors and steering wheel
+> CONTROLS
+> 103
+> Online Edition for Part no. 01405A5ED23 - VI/22
 
 ### A Check Control message is displayed where
  | ix_i20 | pdf_manual | tier:2 | lang:en | layer:interior | p:104
@@ -7509,68 +7513,67 @@ Driving
 126
 Online Edition for Part no. 01405A5ED23 - VI/22
 
-### Warning
- | ix_i20 | pdf_manual | tier:2 | lang:en | layer:brakes | p:127
-
-Warning
-Unattended children or animals in the vehicle
-can cause the vehicle to move and endanger
-themselves and traffic, for instance due to the
-following actions:
-▷
-Pressing the Start/Stop button.
-▷
-Releasing the parking brake.
-▷
-Opening and closing the doors or windows.
-▷
-Engaging selector lever position N.
-▷
-Using vehicle equipment.
-There is a risk of accidents or injuries. Do not
-leave children or animals unattended in the
-vehicle. Take the vehicle key with you when
-exiting and lock the vehicle.
-Overview
-Button in the vehicle
-Parking brake
-Setting the parking brake
-With a stationary vehicle
-Press the button.
-The LED lights up.
-The indicator light in the instrument
-cluster illuminates red.
-The parking brake is engaged and transmission lock is engaged.
-While driving
-Use while driving serves as an emergency
-braking function.
-Press and hold this button. The vehicle
-brakes hard as long as the button is
-pressed.
-The indicator light in the instrument
-cluster illuminates red, a signal sounds,
-and the brake lights illuminate.
-A Check Control message is displayed.
-The parking brake is engaged and the transmission lock is set when the vehicle is stationary.
-Engaging the parking brake
-automatically
-In some situations, the parking brake is engaged automatically, e.g., through Automatic
-Hold.
-Additionally, the system can be set to automatically engaging the parking brake when the
-drive readiness is turned off.
-1.
-"MENU"
-2. "Vehicle apps"
-3. "Driving settings"
-4. "Drivetrain and chassis"
-5. "Parking brake"
-6. Select the desired setting.
-In selector lever position N, the parking brake
-will not be engaged automatically.
-Driving
-CONTROLS
-127
-Online Edition for Part no. 01405A5ED23 - VI/22
+> ⚠️ **Внимание:** | ix_i20 | pdf_manual | tier:2 | lang:en | layer:brakes | p:127
+>
+> Warning
+> Unattended children or animals in the vehicle
+> can cause the vehicle to move and endanger
+> themselves and traffic, for instance due to the
+> following actions:
+> ▷
+> Pressing the Start/Stop button.
+> ▷
+> Releasing the parking brake.
+> ▷
+> Opening and closing the doors or windows.
+> ▷
+> Engaging selector lever position N.
+> ▷
+> Using vehicle equipment.
+> There is a risk of accidents or injuries. Do not
+> leave children or animals unattended in the
+> vehicle. Take the vehicle key with you when
+> exiting and lock the vehicle.
+> Overview
+> Button in the vehicle
+> Parking brake
+> Setting the parking brake
+> With a stationary vehicle
+> Press the button.
+> The LED lights up.
+> The indicator light in the instrument
+> cluster illuminates red.
+> The parking brake is engaged and transmission lock is engaged.
+> While driving
+> Use while driving serves as an emergency
+> braking function.
+> Press and hold this button. The vehicle
+> brakes hard as long as the button is
+> pressed.
+> The indicator light in the instrument
+> cluster illuminates red, a signal sounds,
+> and the brake lights illuminate.
+> A Check Control message is displayed.
+> The parking brake is engaged and the transmission lock is set when the vehicle is stationary.
+> Engaging the parking brake
+> automatically
+> In some situations, the parking brake is engaged automatically, e.g., through Automatic
+> Hold.
+> Additionally, the system can be set to automatically engaging the parking brake when the
+> drive readiness is turned off.
+> 1.
+> "MENU"
+> 2. "Vehicle apps"
+> 3. "Driving settings"
+> 4. "Drivetrain and chassis"
+> 5. "Parking brake"
+> 6. Select the desired setting.
+> In selector lever position N, the parking brake
+> will not be engaged automatically.
+> Driving
+> CONTROLS
+> 127
+> Online Edition for Part no. 01405A5ED23 - VI/22
 
 ### Releasing the parking brake
  | ix_i20 | pdf_manual | tier:2 | lang:en | layer:lighting | p:128
@@ -10368,82 +10371,81 @@ CONTROLS
 171
 Online Edition for Part no. 01405A5ED23 - VI/22
 
-### Warning
- | ix_i20 | pdf_manual | tier:2 | lang:en | layer:lighting | p:172
-
-Warning
-Individual functions may not work correctly
-when towing with Front Collision Warning enabled or Cruise Control switched on. There is
-a risk of accident. Switch off Front Collision
-Warning and Cruise Control before towing.
-Sensors
-Depending on the equipment, the system is
-controlled by the following sensors:
-▷
-Camera behind the windshield.
-▷
-Front radar sensor.
-▷
-Radar sensors, side, front.
-Speed range
-The system issues a warning of a possible risk of collision at speeds above approx.
-3 mph/5 km/h.
-If the vehicle speed exceeds approx.
-155 mph/250 km/h, the system is deactivated
-temporarily.
-Some functions are deactivated earlier.
-The system is enabled as soon as the speed
-drops below these values again.
-Turning the Forward Collision
-Mitigation on/off
-Turning on the system automatically
-Depending on the national-market version, the
-system is automatically active after every departure.
-Turning on system manually
-The system is activated by setting the warning
-time.
-Additional information:
-Setting the warning time, refer to page 172.
-Turning system off manually
-Depending on national-market version, the adjustment can only be made when the vehicle is
-at a standstill or in a very low speed range.
-If necessary, the switch-off must be confirmed
-successively on the Control Display.
-1.
-"MENU"
-2. "Vehicle apps"
-3. "Driving settings"
-4. "Driver Assistance"
-5. "Safety and warnings"
-6. "Forward Collision Mitigation"
-7. "Off"
-Setting the warning time
-1.
-"MENU"
-2. "Vehicle apps"
-3. "Driving settings"
-4. "Driver Assistance"
-5. "Safety and warnings"
-6. "Forward Collision Mitigation"
-7. Select the desired setting.
-▷
-"Early"
-▷
-"Medium"
-▷
-"Late": only acute warnings are displayed.
-The more sensitive the warning time is set
-to be, the more warnings will be displayed.
-Therefore, there may also be an excess of unwarranted warnings and responses.
-The system checks for visual impairments. Depending on the vehicle equipment, the Driver
-Attention Camera in the instrument cluster
-captures the driver’s field of vision. Visibility
-and field of vision also affect the timing of the
-warnings.
-CONTROLS
-Safety
-172
-Online Edition for Part no. 01405A5ED23 - VI/22
+> ⚠️ **Внимание:** | ix_i20 | pdf_manual | tier:2 | lang:en | layer:lighting | p:172
+>
+> Warning
+> Individual functions may not work correctly
+> when towing with Front Collision Warning enabled or Cruise Control switched on. There is
+> a risk of accident. Switch off Front Collision
+> Warning and Cruise Control before towing.
+> Sensors
+> Depending on the equipment, the system is
+> controlled by the following sensors:
+> ▷
+> Camera behind the windshield.
+> ▷
+> Front radar sensor.
+> ▷
+> Radar sensors, side, front.
+> Speed range
+> The system issues a warning of a possible risk of collision at speeds above approx.
+> 3 mph/5 km/h.
+> If the vehicle speed exceeds approx.
+> 155 mph/250 km/h, the system is deactivated
+> temporarily.
+> Some functions are deactivated earlier.
+> The system is enabled as soon as the speed
+> drops below these values again.
+> Turning the Forward Collision
+> Mitigation on/off
+> Turning on the system automatically
+> Depending on the national-market version, the
+> system is automatically active after every departure.
+> Turning on system manually
+> The system is activated by setting the warning
+> time.
+> Additional information:
+> Setting the warning time, refer to page 172.
+> Turning system off manually
+> Depending on national-market version, the adjustment can only be made when the vehicle is
+> at a standstill or in a very low speed range.
+> If necessary, the switch-off must be confirmed
+> successively on the Control Display.
+> 1.
+> "MENU"
+> 2. "Vehicle apps"
+> 3. "Driving settings"
+> 4. "Driver Assistance"
+> 5. "Safety and warnings"
+> 6. "Forward Collision Mitigation"
+> 7. "Off"
+> Setting the warning time
+> 1.
+> "MENU"
+> 2. "Vehicle apps"
+> 3. "Driving settings"
+> 4. "Driver Assistance"
+> 5. "Safety and warnings"
+> 6. "Forward Collision Mitigation"
+> 7. Select the desired setting.
+> ▷
+> "Early"
+> ▷
+> "Medium"
+> ▷
+> "Late": only acute warnings are displayed.
+> The more sensitive the warning time is set
+> to be, the more warnings will be displayed.
+> Therefore, there may also be an excess of unwarranted warnings and responses.
+> The system checks for visual impairments. Depending on the vehicle equipment, the Driver
+> Attention Camera in the instrument cluster
+> captures the driver’s field of vision. Visibility
+> and field of vision also affect the timing of the
+> warnings.
+> CONTROLS
+> Safety
+> 172
+> Online Edition for Part no. 01405A5ED23 - VI/22
 
 ### Turning the warning signal on/off
  | ix_i20 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:173
@@ -12879,67 +12881,66 @@ CONTROLS
 209
 Online Edition for Part no. 01405A5ED23 - VI/22
 
-### Warning
- | ix_i20 | pdf_manual | tier:2 | lang:en | layer:steering | p:210
-
-Warning
-The set speed can be incorrectly adjusted
-or called up by mistake. There is a risk of
-accident. Adjust the set speed to the traffic
-conditions. Watch surrounding traffic closely
-and actively intervene where appropriate.
-Overview
-Buttons on the steering wheel
-Button Function
-Turn last active speed control system on/off.
-Interrupt and continue speed control
-systems.
-Select the desired speed control
-system.
-Store current speed.
-Speed Limit Assistant: accept suggested speed manually.
-Set speed.
-Turning on the Cruise Control
-In vehicles with distance control: change the
-mode of the Cruise Control to Cruise Control
-without distance control.
-Additional information:
-Distance control, refer to page 212.
-In vehicles without distance control: turn on the
-Cruise Control with the buttons on the steering
-wheel.
-1.
-  If necessary, press the button.
-2.
-  If necessary, press the button repeatedly until the Cruise Control is selected.
-Cruise control is active. The current speed is
-maintained and stored as set speed.
-The indicator lights in the instrument cluster
-light up and the mark on the speedometer is
-set to the current speed.
-When the Cruise Control is turned on, the driving mode may change.
-Turning the speed control system
-off/interrupting
-The speed control system can be turned off or
-canceled automatically or manually.
-Additional information:
-Speed control systems, refer to page 207.
-Adjusting the speed
-Store/maintain speed
-Press the button in the interrupted
-state.
-When the system is switched on, the current
-speed is maintained and stored as the set
-speed.
-The stored speed is displayed on the speedometer.
-If necessary, the Dynamic Stability Control will
-be turned on.
-When the Speed Limit Assistant is not active,
-the current speed can also be stored by pressing a button:
-CONTROLS
-Driver assistance systems
-210
-Online Edition for Part no. 01405A5ED23 - VI/22
+> ⚠️ **Внимание:** | ix_i20 | pdf_manual | tier:2 | lang:en | layer:steering | p:210
+>
+> Warning
+> The set speed can be incorrectly adjusted
+> or called up by mistake. There is a risk of
+> accident. Adjust the set speed to the traffic
+> conditions. Watch surrounding traffic closely
+> and actively intervene where appropriate.
+> Overview
+> Buttons on the steering wheel
+> Button Function
+> Turn last active speed control system on/off.
+> Interrupt and continue speed control
+> systems.
+> Select the desired speed control
+> system.
+> Store current speed.
+> Speed Limit Assistant: accept suggested speed manually.
+> Set speed.
+> Turning on the Cruise Control
+> In vehicles with distance control: change the
+> mode of the Cruise Control to Cruise Control
+> without distance control.
+> Additional information:
+> Distance control, refer to page 212.
+> In vehicles without distance control: turn on the
+> Cruise Control with the buttons on the steering
+> wheel.
+> 1.
+>   If necessary, press the button.
+> 2.
+>   If necessary, press the button repeatedly until the Cruise Control is selected.
+> Cruise control is active. The current speed is
+> maintained and stored as set speed.
+> The indicator lights in the instrument cluster
+> light up and the mark on the speedometer is
+> set to the current speed.
+> When the Cruise Control is turned on, the driving mode may change.
+> Turning the speed control system
+> off/interrupting
+> The speed control system can be turned off or
+> canceled automatically or manually.
+> Additional information:
+> Speed control systems, refer to page 207.
+> Adjusting the speed
+> Store/maintain speed
+> Press the button in the interrupted
+> state.
+> When the system is switched on, the current
+> speed is maintained and stored as the set
+> speed.
+> The stored speed is displayed on the speedometer.
+> If necessary, the Dynamic Stability Control will
+> be turned on.
+> When the Speed Limit Assistant is not active,
+> the current speed can also be stored by pressing a button:
+> CONTROLS
+> Driver assistance systems
+> 210
+> Online Edition for Part no. 01405A5ED23 - VI/22
 
 ### Press the button.
  | ix_i20 | pdf_manual | tier:2 | lang:en | layer:infotainment | p:211
@@ -19812,74 +19813,73 @@ MOBILITY
 315
 Online Edition for Part no. 01405A5ED23 - VI/22
 
-### Warning
- | ix_i20 | pdf_manual | tier:2 | lang:en | layer:tires | p:316
-
-Warning
-The temperature grade for this tire is established for a tire that is properly inflated and
-not overloaded. Excessive speed, underinflation, or excessive loading, either separately
-or in combination, can cause heat buildup
-and possible tire failure.
-M+S
-Winter and all-season tires with better cold
-weather performance than summer tires.
-Tire tread
-Summer tires
-Do not drive with a tire tread depth of less than
-0.12 in/3 mm, otherwise there is an increased
-risk of aquaplaning.
-Winter tires
-Do not drive with a tire tread depth of less than
-0.16 in/4 mm, as such tires are less suitable for
-winter driving conditions.
-Minimum tread depth
-Distributed over the tire circumference are
-the tire manufacturer’s wear indicators with a
-height of at least 0.06 in/1.6 mm, which serve
-as an indicator of tire tread wear.
-The positions of the wear indicators are
-marked on the tire sidewall with TWI, Tread
-Wear Indicator.
-Irrespective of the wear indicators, observe the
-statutory regulations on the minimum tread
-depth.
-Tire damage
-General information
-Check your tires regularly for damage, foreign
-bodies lodged in the tread, and tread wear.
-Driving over rough or damaged road surfaces,
-as well as debris, curbs and other obstacles
-can cause serious damage to wheels, tires and
-suspension parts. This is more likely to occur
-with low-profile tires, which provide less cushioning between the wheel and the road. Be
-careful to avoid road hazards and reduce your
-speed, especially if your vehicle is equipped
-with low-profile tires.
-Indications of tire damage or other vehicle malfunctions:
-▷
-Unusual vibrations.
-▷
-Unusual tire or running noises.
-▷
-Unusual handling such as a strong tendency to pull to the left or right.
-▷
-Uneven wear pattern, e.g., increased wear
-in the area of the tire shoulder.
-Damage can be caused by the following situations, for instance:
-▷
-Driving over curbs.
-▷
-Road damage.
-▷
-Tire pressure too low.
-▷
-Vehicle overloading.
-▷
-Incorrect tire storage.
-MOBILITY
-Wheels and tires
-316
-Online Edition for Part no. 01405A5ED23 - VI/22
+> ⚠️ **Внимание:** | ix_i20 | pdf_manual | tier:2 | lang:en | layer:tires | p:316
+>
+> Warning
+> The temperature grade for this tire is established for a tire that is properly inflated and
+> not overloaded. Excessive speed, underinflation, or excessive loading, either separately
+> or in combination, can cause heat buildup
+> and possible tire failure.
+> M+S
+> Winter and all-season tires with better cold
+> weather performance than summer tires.
+> Tire tread
+> Summer tires
+> Do not drive with a tire tread depth of less than
+> 0.12 in/3 mm, otherwise there is an increased
+> risk of aquaplaning.
+> Winter tires
+> Do not drive with a tire tread depth of less than
+> 0.16 in/4 mm, as such tires are less suitable for
+> winter driving conditions.
+> Minimum tread depth
+> Distributed over the tire circumference are
+> the tire manufacturer’s wear indicators with a
+> height of at least 0.06 in/1.6 mm, which serve
+> as an indicator of tire tread wear.
+> The positions of the wear indicators are
+> marked on the tire sidewall with TWI, Tread
+> Wear Indicator.
+> Irrespective of the wear indicators, observe the
+> statutory regulations on the minimum tread
+> depth.
+> Tire damage
+> General information
+> Check your tires regularly for damage, foreign
+> bodies lodged in the tread, and tread wear.
+> Driving over rough or damaged road surfaces,
+> as well as debris, curbs and other obstacles
+> can cause serious damage to wheels, tires and
+> suspension parts. This is more likely to occur
+> with low-profile tires, which provide less cushioning between the wheel and the road. Be
+> careful to avoid road hazards and reduce your
+> speed, especially if your vehicle is equipped
+> with low-profile tires.
+> Indications of tire damage or other vehicle malfunctions:
+> ▷
+> Unusual vibrations.
+> ▷
+> Unusual tire or running noises.
+> ▷
+> Unusual handling such as a strong tendency to pull to the left or right.
+> ▷
+> Uneven wear pattern, e.g., increased wear
+> in the area of the tire shoulder.
+> Damage can be caused by the following situations, for instance:
+> ▷
+> Driving over curbs.
+> ▷
+> Road damage.
+> ▷
+> Tire pressure too low.
+> ▷
+> Vehicle overloading.
+> ▷
+> Incorrect tire storage.
+> MOBILITY
+> Wheels and tires
+> 316
+> Online Edition for Part no. 01405A5ED23 - VI/22
 
 ### Safety information
  | ix_i20 | pdf_manual | tier:2 | lang:en | layer:tires | p:317
@@ -20998,56 +20998,55 @@ Wheels and tires
 332
 Online Edition for Part no. 01405A5ED23 - VI/22
 
-### Warning
- | ix_i20 | pdf_manual | tier:2 | lang:en | layer:general | p:333
-
-Warning
-When the jack is not inserted into the jacking
-point provided for this purpose, the vehicle
-may be damaged or the jack may slip when
-it is being cranked up. There is a risk of injury
-or risk of damage to property. When cranking
-up the jack, ensure that it is inserted in the
-jacking point next to the wheel well.
-Warning
-A vehicle that is raised on a jack may fall
-off of the jack if lateral forces are exerted on
-it. There is a risk of injury and risk of damage to property. While the vehicle is raised,
-do not exert lateral effort on the vehicle or
-pull abruptly on the vehicle. Have a stuck
-wheel removed by an authorized service center or another qualified service center or repair shop.
-Warning
-Incorrect handling of the jack can damage the
-vehicle's underbody and expose high-voltage
-components. There is a risk of injury or risk
-of damage to property. When cranking up the
-jack, ensure that it is inserted in the jacking
-point next to the wheel well. Make sure not to
-damage any of the underbody parts.
-NOTICE
-Using an impact wrench to loosen or tighten
-the wheel lock bolt can damage it. There is
-a risk of damage to property, among other
-potential damage. Only use a lug wrench to
-loosen and tighten the wheel lock bolt.
-Securing the vehicle against rolling
-away
-General information
-The vehicle manufacturer recommends to additionally secure the vehicle against rolling
-away when changing a wheel.
-On a level surface
-Place wheel chocks or other suitable objects in
-front and behind the wheel that is diagonal to
-the wheel to be changed.
-On a slight downhill gradient
-If you need to change a wheel on a slight
-downhill grade, place chocks and other suitable objects, for instance rocks, under the
-proper side of the wheels of both the front and
-rear axles to block the car from rolling downhill.
-Wheels and tires
-MOBILITY
-333
-Online Edition for Part no. 01405A5ED23 - VI/22
+> ⚠️ **Внимание:** | ix_i20 | pdf_manual | tier:2 | lang:en | layer:general | p:333
+>
+> Warning
+> When the jack is not inserted into the jacking
+> point provided for this purpose, the vehicle
+> may be damaged or the jack may slip when
+> it is being cranked up. There is a risk of injury
+> or risk of damage to property. When cranking
+> up the jack, ensure that it is inserted in the
+> jacking point next to the wheel well.
+> Warning
+> A vehicle that is raised on a jack may fall
+> off of the jack if lateral forces are exerted on
+> it. There is a risk of injury and risk of damage to property. While the vehicle is raised,
+> do not exert lateral effort on the vehicle or
+> pull abruptly on the vehicle. Have a stuck
+> wheel removed by an authorized service center or another qualified service center or repair shop.
+> Warning
+> Incorrect handling of the jack can damage the
+> vehicle's underbody and expose high-voltage
+> components. There is a risk of injury or risk
+> of damage to property. When cranking up the
+> jack, ensure that it is inserted in the jacking
+> point next to the wheel well. Make sure not to
+> damage any of the underbody parts.
+> NOTICE
+> Using an impact wrench to loosen or tighten
+> the wheel lock bolt can damage it. There is
+> a risk of damage to property, among other
+> potential damage. Only use a lug wrench to
+> loosen and tighten the wheel lock bolt.
+> Securing the vehicle against rolling
+> away
+> General information
+> The vehicle manufacturer recommends to additionally secure the vehicle against rolling
+> away when changing a wheel.
+> On a level surface
+> Place wheel chocks or other suitable objects in
+> front and behind the wheel that is diagonal to
+> the wheel to be changed.
+> On a slight downhill gradient
+> If you need to change a wheel on a slight
+> downhill grade, place chocks and other suitable objects, for instance rocks, under the
+> proper side of the wheels of both the front and
+> rear axles to block the car from rolling downhill.
+> Wheels and tires
+> MOBILITY
+> 333
+> Online Edition for Part no. 01405A5ED23 - VI/22
 
 ### Lug bolt lock
  | ix_i20 | pdf_manual | tier:2 | lang:en | layer:tires | p:334

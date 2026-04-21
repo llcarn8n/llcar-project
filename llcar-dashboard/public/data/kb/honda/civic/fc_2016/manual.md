@@ -1,8 +1,10 @@
-# Manual: honda/civic (712 chunks)
-<!-- doc_type:service_manual tier:4 lang:en -->
+---
+brand: honda
+model: civic
+generation: fc_2016
+source: kb
+---
 
-### Section p.1
-`honda_civic_en_88d73082` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Honda
 Civic & del Sol
@@ -12,7 +14,6 @@ Haynes Repair Manual
 ![](images/5f505a2542aa391dc7a8871327a56d2b61107e0042639d016b342bf54c379617.webp)
 
 ### Inside this manual:
-`honda_civic_en_9266d720` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Routine maintenance
 Tune-up procedures
@@ -30,7 +31,6 @@ Wiring diagrams
 Chapter2PartB Engine
 
 ### 2B-12
-`honda_civic_en_3088dddd` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e7f4079589ca58917df0f32c8fbc6fa32cc001422c95a7e36acc2f85a189bcad.webp)
 
@@ -54,7 +54,6 @@ nentsis the reverse of removal.
 ![](images/f4998d397cc2441d51c444d7710d61bae8d8346b10fb83f2b0d2cf2db594cbdd.webp)
 
 ### Check
-`honda_civic_en_ca1973f9` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 9.6To extractacamshaft seal,drilla coupleof smallholes in the old seal, thread pairof sheetmetal screwsinto theholesand prythe seal out witha screwdriverandaclaw hammer
 
@@ -75,7 +74,6 @@ nentsis the reverse of removal.
 9.7b Asalast resort,youcan also drive: camseal into place witha hammerand a largesocket,but make sureyoudon't damage the sprocket positioning pin on the end of the camshaft
 
 ### Models covered bythis manual:
-`honda_civic_en_044bc18c` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Step-by-step procedures linked to hundreds
 of easy-to-follow photos and illustrations
@@ -98,14 +96,12 @@ Color spark plug diagnosis Easy to use index
 
 ![](images/166f8b8819d08031fcbf8223990fb5b0dd33b48e4430b2c01034881e821a4225.webp)
 
-ISBN 1 56392 1189 799-1916
 
 ![](images/4baf5a1421503d5a78e21fab89fa841d45f2ab8e0c4499ad017205e3f75f5a31.webp)
 
 ![](images/a17a0f1b7155fea9bf3e91b496fab4aad83a2a37c93bcade4355782837c28701.webp)
 
 ### Models covered:
-`honda_civic_en_ae645cdf` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All Honda Civic and SOHC del Sol models 1992 through 1995 Does not include DOHC engine
 
@@ -120,14 +116,12 @@ Haynes North America, Inc 861 Lawrence Drive Newbury Park California 91320USA
 ![](images/a99ddf35529754cd18fb0189c9521392ff1fc0cab0b90d36bcc43a4d8af7deeb.webp)
 
 ### Its purpose
-`honda_civic_en_eb1067a5` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The purpose of this manual is to help you get the best value from
 
 We hope you use the manual to tackle the work yourself. For money satisfaction and accomplishment that you feel after doing thejob yourself
 
 ### Using the manual
-`honda_civic_en_2eeca9af` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 numberedanual is Sections,
 
@@ -135,19 +129,16 @@ lines. Each Section consists of consecutively numbered paraaraphs.
 
 Section
 
-### NOTE
-`honda_civic_en_7a010df0` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Procedures, once described in the text, are not normally repereted. references
-
-i assume you are
-
-information
-
-to understand.es Intormation necessary to properly complete a procedure or information which will make the procedure easier
+> ℹ️ **Примечание:** 
+> Procedures, once described in the text, are not normally repereted. references
+>
+> i assume you are
+>
+> information
+>
+> to understand.es Intormation necessary to properly complete a procedure or information which will make the procedure easier
 
 ### Introduction to the Honda Civic
-`honda_civic_en_5ab38a18` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 door de hatchback, four
 
@@ -162,7 +153,6 @@ featuring
 rear, itpesttetd either discs or drums at the
 
 ### Buying parts
-`honda_civic_en_8cbb335c` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 concerning these parts is as follows:
 
@@ -175,7 +165,6 @@ of the source do not invalidate the warranty!
 chrpos numtder af abatair obtaining ind,ie porect, paresthave engine and identification. along
 
 ### Fasteners
-`honda_civic_en_cf390013` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 国书路
 
@@ -186,12 +175,10 @@ Standard fasteners are often referred to as SAE, as opposed to metric. However, 
 nuts removed from your vehicle in their original locations. Also, when replacing a fastener with a new one, make sure thatthe newone has a strength rating equal to or greater than the original.
 
 ### Tightening sequences and procedures
-`honda_civic_en_3beb2ad8` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 value Most threaded (torqueis the twisting fasteners force should be tightened to applied to a threaded a specific component torque such as a nut or bolt). Overtightening the fastener can weakenit and cause it to break, while undertightening can cause it to eventually come loose. Bolts, screws and studs, depending on the material they are made of and their thread diameters, have specific torque values, fasteners not assigned a specific torque, a general torque value chart As was previously mentioned, the size and grade of a fastener determine the amount of torque that can safely beapplied toit. The
 
 ### U.S. thread sizes
-`honda_civic_en_3172d352` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1/4-20 6to9
 5/16-18 12 to 18
@@ -219,7 +206,6 @@ GLTD Grade marks (bolt length) Length (in inches) Thread pitch (number of thread
 ![](images/10899b9fc3fba93654c9187b7307de147f21f056bcf8fbf69c98d50e86980556.webp)
 
 ### Metric bolt dimensions/grade marks
-`honda_civic_en_845cd828` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 PLTD Property class(bolt strength)
 Length (in millimeters)
@@ -249,7 +235,6 @@ Jack (scissor orhydraulic type)
 a chuck
 
 ### Special tools
-`honda_civic_en_3166aa9b` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The tools in this list include those which are not used regularly, frequently,
 
@@ -260,7 +245,6 @@ Valve spring compressor Piston ring groove cleaning tool Piston ring compressor 
 be agood idea to purchase a modest tool set from one of the large retail chain stores. Aset can usuallybe bought at a substantial savings 武 ri freedom to choose only cheap they
 
 ### Care and maintenance of tools
-`honda_civic_en_696912d7` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 e metal
 
@@ -269,7 +253,6 @@ Some tools, such as screwdrivers, pliers, wrenches and sockets, cante hurs Shoul
 Subsequent jobs will be safer and more enjoyable ifyou do.
 
 ### Working facilities
-`honda_civic_en_5653bb11` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 a maintenance dio
 
@@ -280,7 +263,6 @@ working wiheiaghtis mentioned clean, storage cleaning singseivents, necessary.
 cooling during maintenance containers,
 
 ### Buying tools
-`honda_civic_en_5fbcf42f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 newspapers Many because they keep
 
@@ -289,7 +271,6 @@ do-it-yourselfer starting maintenance there maintenance
 working leaning something always stores.
 
 ### Booster battery (jump) starting
-`honda_civic_en_c786eb85` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 avehicbserve these precautions when using a booster battery to start
 
@@ -305,7 +286,6 @@ battery, battery
 ![](images/7f3291e4236489837edaf5f9ac9115fc175d5ee3665612cd988521cd7f51f267.webp)
 
 ### Conversion factors
-`honda_civic_en_b6df3ffe` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Length (distance)
 Inches (in)
@@ -320,7 +300,6 @@ Force
 Ounces-force (ozf; oz) Pounds-force (ibf; Ib) Newtons (N)
 
 ### Pressure
-`honda_civic_en_b7182818` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Pounds-force per square inch (psi; Ibf/in²; Ib/in²)
 Pounds-force per square inch (psi; Ibf/in²; Ib/in²)
@@ -343,7 +322,6 @@ X 16.387 = Cubic centimetres (cc;cm²) XXxx 0.061 三 Cubic inches (cu in; in3);
 Temperature Degrees Fahrenheit 三 (Cx1.8)+32
 
 ### Engine
-`honda_civic_en_39b6d5b5` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Enset   1518
 Enginehardtostrtheno. ..   34
@@ -358,7 +336,6 @@ Pinging or knocking engine sounds during
 Steiy   rough in engagem.e.t.. 165
 
 ### Cooling system
-`honda_civic_en_1e4efb57` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Coolant loss
 
@@ -368,12 +345,10 @@ Overheating   25
 Poor coolantcirculation 30
 
 ### Clutch
-`honda_civic_en_6248135d` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Clutch pedal stays onfloor     37 Clutch slips (engine speed increases withno increase in vehicle speed   33 Hih indaltharea Grabbing (chattering) as clutch is engaged   1 34   3836 Pedal travels to floor - no   pressure   Tranelrtingcltckineg   3135 Unable to select gears  i... 32
 
 ### Leaks lubricant 48
-`honda_civic_en_4b2e3dbe` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Locked.in gear  494046444547 Noise most pronounced whenturning
 Noisyinutratning
@@ -382,19 +357,16 @@ Slips out of gear   . \*E·.··.·
 Vibration   ..·  43
 
 ### Automatic transaxle
-`honda_civic_en_be2a8d8b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Engine will start in gears other than Park or Neutral   54505253 Fluid leakage     enera hihsodel    ·... Transaxle slips, shifts roughly, isnoisy orhasno   drive Transaxle willnot downshift with accelerator pedal in forward or reverse gears     55 pressed tothefloor.   53
 
 ### Driveaxles
-`honda_civic_en_b8ca6f27` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Clicking noise in turns   56
 Shudderor vibration during acceleration   57
 Vibration at highway speeds ...…  58
 
 ### Brakes
-`honda_civic_en_6fbe5133` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ... ·. 66676164
 Dragging brakes    ·..
@@ -404,7 +376,6 @@ Noise (high-pitched squeal when Grabbing or uneven braking action the   brakes a
 Vehicle Parking brake doesnot hold   ..     .. 68 pulls to one side during braking   59
 
 ### Suspension and steering systems
-`honda_civic_en_5994c2da` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Abnormal or excessive tire we
 Abnormal noise Cupped tires. at the front end. 75 70
@@ -422,19 +393,16 @@ Wander or poor steering stability ... 76
 Wheel makes a thumping noise 71
 
 ### 11 Engine stumbles on acceleration
-`honda_civic_en_25f10470` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Spark plugs fouled (Chapter 1).
 2345 Fuel injectionsystem faulty (Chapter 4). Fuel filter clogged (Chapters and 4). Incorrect ignition timing (Chapter 5). Intake manifold air leak (Chapters 2 and 4).
 
 ### 13 Engine stalls
-`honda_civic_en_e7f1780b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Idle speed incorrect (Chapter 1). Ch Fe teged and/or water and impurities in the fuel system damp or
 8 Valve clearances incorrectly set (Chapter 1).
 
 ### 14 Engine lacks power
-`honda_civic_en_569bdd32` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1234 Incorrect ignition timing (Chapter 5). Excessive playin distributor shaft (Chapter 5).
 F distributor 5). incorrectly excessively worn
@@ -445,31 +413,26 @@ F distributor 5). incorrectly excessively worn
 11213 Emission functioning
 
 ### 15 Engine backfires
-`honda_civic_en_3164a9e1` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 123 Ignition Emission timinrtemhntfunti. functioning properly (Chapter 6). Faulty secondary
 faulty malfunctioning Vacuum manifold,
 6 (Chapter 1). Valve clearances incorrectly set and/or valves sticking
 
 ### 17 Engine runs with oil pressure light on
-`honda_civic_en_879e8c7f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1234 Low oil level (Chapter 1). Short in wiring circuit (Chapter 12). Faulty oil pressure sender (Chapter 2). Worn engine bearings and/or oil pump (Chapter 2).
 
 ### 18 Engine diesels (continues to run) after switching off
-`honda_civic_en_0e252fab` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 123 Idle speed too high (Chapter 5) Excessive engine operating temperature (Chapter 3). Ignition timing in need of adjustment (Chapter 5).
 
 Engine electrical system
 
 ### 23 Excessive fuel consumption
-`honda_civic_en_59b44ec2` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 123 Dirty hauelinec functioning excropsivy(Chaoter6). parts damaged 5 Low tirepressureor incorctiresize (Capter1).
 
 ### 43 Vibration
-`honda_civic_en_76f395ba` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 12345 Rough wheel bearing (Chapters1 and 10).
 Damaged driveaxle (Chapter 8).
@@ -478,14 +441,12 @@ Tire out of balance (Chapters and 10).
 Worn CV joint (Chapter 8).
 
 ### 48 Leaks lubricant
-`honda_civic_en_2f43831c` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Driveaxle oil seals worn (Chapter 7).
 
 234 Excessive amount of lubricant in transaxle (Chapters 1 and 7A). Loose bearing O-ring damagec
 
 ### 52 General shift mechanism problems
-`honda_civic_en_f5830434` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 linkage attributed to 1 Chapter on automatic transaxles. poorly 7, Part adjusted B, dealswith linkage Common are: checking problems and adjusting which the may shift be
 
@@ -494,7 +455,6 @@ C) Vehiclemoves whenin Park.
 2 Refer to Chapter 7B for the shift linkage adjustment procedure.
 
 ### 69 Vehicle pulls to one side
-`honda_civic_en_7a037fb1` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1234 Mismatched or uneven tires (Chapter 10).
 Broken or sagging springs (Chapter 10).
@@ -502,25 +462,21 @@ Wheel alignment (Chapter 10).
 Front brake dragging (Chapter 9).
 
 ### 70 Abnormal or excessive tire wear
-`honda_civic_en_5186f4fc` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Wheel alignment (Chapter 10).
 23 Sagging or broken springs (Chapter 10).
 456 Wier utrut bance Overloaded vehicle. (Chapter 10). Tires not rotated regularly.
 
 ### 74 Poor returnability of steering to center
-`honda_civic_en_e6653796` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 and Lack of lubrication at balljoints and tie-rod ends (Chapters 1 2345 Binding Binding mm belin steering (Chapter 10).
 
 ### 75 Abnormal noise at the front end
-`honda_civic_en_d97c8ad5` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 and Lack of lubrication at balljoints and tie-rod ends (Chapters 1
 23456 mounting bushings Loose Loose suspension bolts (Chapter 10)
 
 ### 76 Wander or poor steering stability
-`honda_civic_en_3a84546b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Mismatched or uneven tires (Chapter 10).
 
@@ -531,7 +487,6 @@ Mismatched or uneven tires (Chapter 10).
 6 Wheels out of alignment (Chapter10).
 
 ### 78 Erinssive pitching and/or rolling around corners or
-`honda_civic_en_672a26e4` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1234 Loose stabilizer bar (Chapter 10).
 Worn strut dampers or mountings (Chapter 10).
@@ -539,22 +494,18 @@ Broken or sagging springs (Chapter 10).
 Overloaded vehicle.
 
 ### 79 Suspension bottoms
-`honda_civic_en_c1a322fd` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 123 Overloaded vehicle. Worn strut dampers (Chapter 10). Incorrect, broken or sagging springs (Chapter 10).
 
 ### 80 Cupped tires
-`honda_civic_en_2df06f38` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 12345 Wront whed or rear whe alignment(Chapter 10). dampers Wheel bearings worn (Chapter 10). omsi 10).
 
 ### 81 Excessive tire wear on outside edge
-`honda_civic_en_4b650492` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 12 Inflation Excessive presed in inuoret (Chapter 1). sionally 3 Frentgend alignment incorrect (excessive toe-in). Have profes4 Suspension arm bent or twisted (Chapter 10).
 
 ### Contents
-`honda_civic_en_e0bed48d` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 #
 
@@ -581,7 +532,6 @@ Underhood Valve clearance hose check and checkand replacement  ·..     12 3 adj
 Nindshield wiper blade . 19 inspection and replacement.     9
 
 ### Recommended lubricants and fluids
-`honda_civic_en_483d4c0b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 APl gacde accompanying SG, SHorSG/CD SH/CD multigrade and fuel efficient oil
 
@@ -590,7 +540,6 @@ APl gacde accompanying SG, SHorSG/CD SH/CD multigrade and fuel efficient oil
 Engine oil viscosity chart
 
 ### General
-`honda_civic_en_6eea08db` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Valve clearances (engine cold) Acceleratorcable Intake Exhaust..   …  deflection limit 0.007 to 0.009-inch 0.009 to 0.011-inch 3/8to1/2-inch
 
@@ -617,7 +566,6 @@ Typical engine compartment layout
 16 Airfilter housing
 
 ### Honda Civic Maintenance schedule
-`honda_civic_en_90c7a40e` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 These with the maintenance intervals factory keep maintenance efficiency, distances temperatures,
 
@@ -627,22 +575,18 @@ the (Section 21)\* steering necessary,
 factory many maintenance
 
 ### Every 3000 miles or3 months, whichever comes first
-`honda_civic_en_927ecedb` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All items listed above plus: Check the power steering fluid level (Section 6) Check the automatic transaxle fluid level (Section 7) Change the engine oil andoilfilter (Section 8)
 
 ### Every 7500 miles or6 months, whichever comes first
-`honda_civic_en_0c395155` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All items listed above plus: Inspect tand replace, if necessary, the windshield wiperblades Check and service the battery (Section 10) Check and adjust, if necessary, the engine drivebelts (Section 11) Inspect and replace, if necessary, all underhood hoses (Section 12) Check the cooling system (Section 13) Rotate the tires (Section 14) Check the front disc brake pads (Section 15)
 
 ### Every 15,000 miles or 12 months, whichever comes first
-`honda_civic_en_6ec50a95` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All items listed above plus: Inspect the brake system (Section 15)\* Replace the air filter (Section 16)\*
 
 ### Every 30,000 miles or 24 months, whichever comes first
-`honda_civic_en_7a3f661e` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All items listed above plus:
 
@@ -651,7 +595,6 @@ Change linkage (Section 30)
 Replace the fuelfilter (Section 31)
 
 ### Every 90,000 miles or72 months, whichever comes first
-`honda_civic_en_955e9cb5` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace timing belt (Chapter 2A)
 
@@ -668,7 +611,6 @@ In heaches yt-aicg 90-degrees In hilly ormountainous terrain following The vehic
 specified mixture of antifreeze and water
 
 ### Engine oil
-`honda_civic_en_e005466a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 4.2, 4.4 and 4.6
 
@@ -679,7 +621,6 @@ damage. C
 illustration).
 
 ### Engine coolant
-`honda_civic_en_ea2ae1bb` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 4.9
 
@@ -700,7 +641,6 @@ checking relatively brown inhibitors
 wan Flush incontact with imr skin or immediately
 
 ### Windshield washer fluid
-`honda_civic_en_4b3f74a2` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 4.14
 
@@ -731,7 +671,6 @@ Always check tire pressure when the tires are cold. "Cold,"in this case, means t
 8 鸡 Unscrew the valve cap protruding from the wheel or hubcap and push the gauge firmly onto the valve (see illustration). Note the level. If the fluid at the end ofthe dipstick is black ora dark reddish brown color, orifit emits a burned smell, the fluid should be changed (see Section 27). If you are in doubt about the condition of the fluid, purchase some newfluid and compare the two for color and smell.
 
 ### Windshield washer fluid
-`honda_civic_en_33621994` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2292af5ba377006d0efbc1a5c16a58af4c87aba4cb2ff689850a9dca9dbc6da8.jpg)
 8.7 Use the proper size box-end wrench orsocket to remove the oil drain plug without rounding off the corners
@@ -743,7 +682,6 @@ Always check tire pressure when the tires are cold. "Cold,"in this case, means t
 8.14 Lubricate the oil filter gasket with clean engine oil before installing the filter on the engine
 
 ### 8 Engine oil and oil filter change (every 3000 miles or3months)
-`honda_civic_en_e732bf82` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Referto illustrations8.2，8.7，8.12 and8.14
 
@@ -772,7 +710,6 @@ Referto illustrations8.2，8.7，8.12 and8.14
 12 Loosen the oil filter (see illustration) by turning it counterclockwise withthe filter wrench. Any standard filter wrench will work. Sometimes the oil filter is screwed on SO tightly that it cannot be loosened. lf this situation occurs, punch a metal bar or long screwdriver directly through the side of thecanister and use itas aTbartoturn the filter. Be prepared for oil to spurt out of the canister as it ispunctured. Once the filter is loose, useyour hands to unscrew it from the block. Just as the filter is detached from the block, immediately tilt the open end up to prevent the oil inside the filter from spilling out. Warning: The exhaust system may still be hot, so be careful.
 
 ### 8 Engine oil and oil filter change (every 3000 miles or3months)
-`honda_civic_en_68e61a05` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 13 Witha clean rag,wipe off the mounting surface on the block. Ifa residue ofold oil is allowedtoremain, itwill smoke when the block is heated up. Also make sure that none of the old gasket remains stuck to the mounting surface. Itcanbe removedwith a scraper if necessary. 14 Compare the old filter with the new one to make sure they are the sametype. Smear some clean engine oil on the rubber gasketof the new filter and screw it into place (see illustration). Because overtightening the filter will damage the gasket, do'not use a filter wrenchto tightenthefilter. Tighten it by hand until the gasket contacts the seating surface. Then seat the filter by giving itan additional 3/4- turn.
 
@@ -792,7 +729,6 @@ Referto illustrations8.2，8.7，8.12 and8.14
 10.6a Battery terminal corrosion usually appears as light, fluffy powder
 
 ### Check and maintenance
-`honda_civic_en_7cfb2dca` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 maintenance ilruster tioni.oment necessary to work safely around the battery (see
 
@@ -827,14 +763,12 @@ safety battery coming Thoroughly
 11.3b Check V-ribbed belts for signs ofwear like these = if the beltlooks worn, replaceit
 
 ### Adjustment
-`honda_civic_en_6fd279a4` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 5 If adjustment is necessary, itis done by moving the belt-driven accessory onthe bracket.
 
 6 福 Forsome components, therewill bean adjusting bolt and a pivot bolt. Both must be loosened slightly to enable you to move the component. After the two bolts have been loosened, move the component away from the engine (to tighten the belt) ortoward the engine (to 7 On other components, loosen the belt). After adjustment,tighten the bolts securely. loosen the pivot bolt and locknut on the adjusting bolt.. Turn the adjusting bolt to tension the belt (see illustration).
 
 ### Replacement
-`honda_civic_en_d8dae874` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 8 To replace a belt, follow the above procedures for drivebelt adjustmentbut slip the belt off the crankshaft pulley and remove it.If you are replacing the alternator belt, you might have to removeanother belt first because of the way they are arranged on the crankshaft Mark each belt and its appropriate pulley groove SO the replacement belts can be installed in their proper positions. On some models, itmay be necessary to remove the two left engine mount bolts to provide sufficient clearance for removal of the air conditioner compressor drivebelt.
 
@@ -853,7 +787,6 @@ the ribbed grooves in the pulleys (see illustration). It is essential that the b
 11 Adjust the belt(s) in accordance with the procedure outlined above.
 
 ### General
-`honda_civic_en_d9731c97` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Caution: Replacement of air conditioning hoses must be left toa dealer service department or air conditioning shop that has the
 
@@ -864,7 +797,6 @@ Caution: Replacement of air conditioning hoses must be left toa dealer service d
 3 福 Some, but not all, hoses aresecured to the fittings with clamps. Where clamps are used, check to be sure they haven't lost their tension, allowing the hose to leak. lf clamps aren'tused, make sure the hose has not expanded allowing it to leak. and/or hardened whereit slips over the fitting,
 
 ### Vacuum hoses
-`honda_civic_en_8c9e6b68` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 4 福 It's quite common for vacuum hoses, especially those in the emissions system, to be colorcoded or identified by colored stripes molded into them. Various systems require hoses with different wall replacing hoses, completely from the vehicle. thicknesses, 5 Often the collapse only be sure effective resistance the new ones If more than one hose is removed, way and to temperature resistance. are check made a hose of the is to same remove material. be When sure it to label the hoses and fitings to ensure correct installation.
 
@@ -888,7 +820,6 @@ dwhes CORRECT WRONG WRONG
 6 Forfurtherinformation onthe wheelsand tires,refer to Chapter10.
 
 ### 15 Brake check (every 7500 miles or 6 months)
-`honda_civic_en_9f035f8b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 15.6, 15.9and 15.14
 
@@ -901,7 +832,6 @@ Note: For detailed photographs of the brake system, referto Chapter9. 1 In addit
 5 Remove the wheels (see Jacking and towing at the front ofthis book, oryour owner'smanual, if necessary).
 
 ### Disc brakes
-`honda_civic_en_ebddeaa6` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Note:Allmodels covered bythismanual have front disc brakes. Some models are also equipped with disc brakesat therear.
 
@@ -921,7 +851,6 @@ Note:Allmodels covered bythismanual have front disc brakes. Some models are also
 11 Before installing'the wheels, check all brake lines and hoses for damage, wear, deformation, cracks, corrosion, leakage, bends and twists, particularly in the vicinity ofthe rubberhoses at the calipers. Check the clamps for tightness and the connections for leakage.Make sure all hoses and lines areclear of sharp edges, moving partsand the exhaust system. Ifany of the above conditions arenoted, repair, reroute or replace the lines and/or fittings asnecessary (see Chapter 9).
 
 ### Rear drum brakes
-`honda_civic_en_ea3d6042` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 2 Referto Chapter9 andremove the rear brake drums.
 
@@ -940,7 +869,6 @@ Note:Allmodels covered bythismanual have front disc brakes. Some models are also
 17.6 When removing spark plug wires, pull only on the boot using a twisting/pulling motion
 
 ### 17 Spark plug check and replacement (every 15,000 miles or 12 months)
-`honda_civic_en_6d622b48` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Referto illustrations 17.1,17.4a, 17.4b，17.6,17.8,17.10and 17.11
 
@@ -955,7 +883,6 @@ Referto illustrations 17.1,17.4a, 17.4b，17.6,17.8,17.10and 17.11
 5 If the side electrode isnot exactly over the center electrode, use the notched adjuster to align them. Caution: If the gap ofa new plug mustbe adjusted, bend only the base of the ground electrode. Donot touch the tip.
 
 ### Removal
-`honda_civic_en_36c1a145` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 6 To prevent the possibility of mixing up spark plug wires, workon onespark plug ata time. Remove the wire and boot from one spark plug. Grasp the boot - not the cable - as shown, giveit a half twisting motion and pull straight out (see illustration).
 
@@ -966,7 +893,6 @@ Referto illustrations 17.1,17.4a, 17.4b，17.6,17.8,17.10and 17.11
 9 Whether you are replacing the plugs at this time or intend to reuse the old plugs, compare each old spark plug with those shown in the accompanying photos to determine the overall running condition of the engine.
 
 ### Installation
-`honda_civic_en_6a6ae531` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 10 It's a good ideato lightly coat the threads of the spark plugs with anti-seize compound (see illustration) to insure that the spark plugs do not seize in the aluminum cylinderhead.
 
@@ -985,7 +911,6 @@ Referto illustrations 17.1,17.4a, 17.4b，17.6,17.8,17.10and 17.11
 18.11 Shown hereare some of the common defects to look for when inspecting the distributor cap (if in doubt about its condition, install a new one)
 
 ### 18 Spark plug wire, distributor cap and rotor check and replacement (every 15,000 miles or 12months)
-`honda_civic_en_3ebaf22b` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Referto illustrations 18.11and 18.12
 
@@ -1021,7 +946,6 @@ Each original plug wire should be numbered to help identify its location. If the
 13 It is common practice to install a new cap and rotor whenever new spark plug wires are installed, but if you wish to continue using the old cap, check theresistance between the spark plug wires and the cap first. If the indicated resistance is more than the specified maximum value (see this Chapter's Specifications), replace the cap and/orwires.
 
 ### 18 Spark plug wire, distributor cap and rotor check and replacement (every 15,000 miles or 12months)
-`honda_civic_en_8b88453f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 14 When installing a new cap,remove the wires from the old cap one at a time and attach them to thenew cap in the exact same location 1 do not simultaneously remove all the wires from the old cap or firing order mix-ups may occur.
 
@@ -1029,7 +953,6 @@ Each original plug wire should be numbered to help identify its location. If the
 21.1 The manual transaxle check/fill plug (arrow) is located on the passenger side of the transaxle
 
 ### 21 Manual transaxle lubricant level check (every 15,000 miles or12 months)
-`honda_civic_en_ad15ea1a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration21.1,21.2a and21.2b
 
@@ -1040,13 +963,11 @@ Referto illustration21.1,21.2a and21.2b
 3 Install the plug and tightenit securely. Drivethe vehicle a short distance,then checkforleaks.
 
 ### 22 Steering and suspension check (every 15,000 miles or 12 months)
-`honda_civic_en_5183f797` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 22.8 and 22.9
 Note: For detailed illustrations of the steering and suspension components, referto Chapter 10.
 
 ### With the wheels on the ground
-`honda_civic_en_3b8e0a7b` | civic | pdf_manual | tier:4 | lang:en | layer:suspension | p:1 | doc_type:service_manual
 
 1 Withthe vehicle stopped and the frontwheels pointed straight ahead, rockthe steering wheel gently back and forth. If freeplay is excessive, a front wheel bearing, main shaft yoke, intermediate shaft yoke, lower arm balljoint or steering system joint is worn or the steering gear is out of adjustment, loose on its mounts or broken. Refer to Chapter 10 for theappropriaterepair procedure.
 
@@ -1057,7 +978,6 @@ Note: For detailed illustrations of the steering and suspension components, refe
 4 Note whether thevehicle lookscanted to oneside or corner. If it is, try to level itby rocking it down. Ifthis doesn't work, look forbad springs or worn or loosesuspension parts.
 
 ### Under the vehicle
-`honda_civic_en_583ce6fa` | civic | pdf_manual | tier:4 | lang:en | layer:suspension | p:1 | doc_type:service_manual
 
 5 Raise the vehicle with a floor jack and support it securely on jackstands. See Jacking and towing atthe front of this bookfor the proper jacking points.
 
@@ -1086,7 +1006,6 @@ Note: For detailed illustrations of the steering and suspension components, refe
 25.5b The coolant drain plug of the back side ofthe block (arrow) is locatednear the oil filter mount
 
 ### Refilling
-`honda_civic_en_e0139c8b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/81e84793bb9779d16d02d13cf43cffb1ed0936c9aab70968aa76e3cccf689958.jpg)
 25.13 The air bleed bolt (arrow) is located on the thermostat housing use a wrench to open it during the filling process to bleed air from the system
@@ -1104,7 +1023,6 @@ illustrations), drain. Loosen the plug and allow the coolant in the block to dra
 hoses.
 
 ### 26 Exhaust system check (every 30,000 miles or 24 months)
-`honda_civic_en_5bed991f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 beenWirivh the driven), has
 e This should be done starting ona
@@ -1129,7 +1047,6 @@ leaking, sing,t hose.
 31.4b unscrew the banjo bolt (it isn't necessary to remove the small service portboltin the center of the banjo bolt)
 
 ### Adjustment
-`honda_civic_en_e2ddbe21` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 7 Ifthe idle speed is too low ortoo high, disconnect the electrical connector from the IdleAir Control (IAC) valve (see Chapter 4). 8 Turn the screw to obtain the specified idle speed (see illustration).
 
@@ -1140,7 +1057,6 @@ leaking, sing,t hose.
 11 Turn off the engine and disconnect the tachometer.
 
 ### 31 Fuel filter replacement (every 30,000 miles or24 months)
-`honda_civic_en_fbbec322` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 31.4a, 31.4b and31.4c
 
@@ -1162,7 +1078,6 @@ system, wear safety glasses and have a Class B type fire extinguisher on hand.
 sealing fitting securely. Start the engine and check for leaks.
 
 ### Referto illuistration 32.2
-`honda_civic_en_0b198ce7` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 chambers. until incoming they can air be before routed being to the burned intake manifold in the cylinder where they combustion mix with
 
@@ -1172,7 +1087,6 @@ chambers. until incoming they can air be before routed being to the burned intak
 32.2 The charcoal canister (arrow) is mounted on the firewall check the hoses and connections for damage
 
 ### General
-`honda_civic_en_05eb60f8` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Firing order   1-3-4-4
 Dindemtunispa    I···· (cubic inch displacement) 1.5L 1.6L   .I !    ···..·····   91.1cid   97.0cid
@@ -1181,7 +1095,6 @@ Stroke   1.5L   3.33inches 1.6L  ···..···
 Compression ratio 3.54inches 1.5L   9.3:1 1.6L     9.2:1
 
 ### Camshaft
-`honda_civic_en_b532c7ef` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Enaplay Standard.  · 0.002 to 0.006 Maximum.    ·.. 0.020inch
 Lobe height D15B7 Intake   1   1.4196 inches Exhaust D15B8  i.. 1.4251 inches Intake .   1.4550 inches Exhaust 1.4565inches D15Z1 Intake Primary   1.5129 inches Exhaust Secondary   .··... .·E ·... 1.2713inches   1.4959 inches D16Z6 Intake Primary   1.4134inches Mid. ...·      1.5003 inches Secondary   1.4250 inches Exhaust   1.4964inches
@@ -1191,7 +1104,6 @@ Theblackenedterminal shown on the distributorcap indicates thenumber one spark p
 ![](images/1fc815782b49842e508550a2db8a68d8137c2427d83ec6813c72d382796548be.webp)
 
 ### Front
-`honda_civic_en_8bd01984` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Cylinder locations and distributorrotation
 
@@ -1207,7 +1119,6 @@ Ine engine is liquid-cooled, utilizing a centrifugal impeller-type m cylinders a
 continuously cartridge-type
 
 ### 2 Repair operations possible with the engine in the vehicle
-`honda_civic_en_977ef033` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 degreaser any
 
@@ -1223,7 +1134,6 @@ necessary bearings because cleaning
 360-degrees)
 
 ### 3 Top Dead Center (TDC) for number one piston locating
-`honda_civic_en_2cb1be72` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations3.10and3.11
 
@@ -1244,7 +1154,6 @@ c)
 武 illustration) 10 Mark thitel under the rotor terminal (see 11 Remove the plug from the bellhousing and locate the timina
 
 ### 5.11 Typical VTEC cylinder headand related components
-`honda_civic_en_b9e8cefe` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ![](images/4cc0097c1a197d38c8c404d8660dcf7b09edb67a15f8a29c49edcb6ce86537d3.webp)
 
@@ -1282,7 +1191,6 @@ Coolant temperature
 5 The componentsand method of operation are slightly different between the 1.5L VTEC-E and1.6L VTEC systems. The following describes the differences in the way the two systems operate.
 
 ### 1.5L VTEC-E
-`honda_civic_en_4e71b7c5` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 6 福 The camshaft has different primary and secondary intake valve lobe profiles (lift and duration specifications).
 
@@ -1291,14 +1199,12 @@ Coolant temperature
 8 When performance is needed, the secondary rocker arm is locked together (through the use of an electrically controlled, hydraulic system), with the primary rocker arm. Note: The secondary rocker arms no longer contact its own camshaft lobe, until the system is disengaged.When activated both valves open to the full lift and duration of the primary camshaft lobe, increasing performance at higher rpm's.
 
 ### 1.6L VTEC
-`honda_civic_en_024818e6` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 9 福 The camshaft used in this system has identical primary and secondary intake lobes and has aadditional third lobeand rockerarm placed between the primary and secondary. This third, or "Mid", lobe has larger lift and longer duration than the primary and secondary camshaft lobes.
 
 10 During low speed operation both intake valves operate on their own cam lobes, butboth camshaft lobes have the same specifications for lift and duration (unlike the 1.5L VTEC-E). As performance is required, the primaryand secondary rockerarms are both locked to the Mid rocker arm through the use of an electrically controlled, hydraulic system. Both intake valves now operate on the Mid intake by using the camshaft lobe profile thatmost matches driving needs at any given speed and load.
 
 ### Lost motion assembly (1.6L VTEC only)
-`honda_civic_en_a6acf637` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration5.11
 
@@ -1314,19 +1220,16 @@ mately 12-volts, if not, inspect for an open or short to ground inthe blue/black
 32 Check for continuity between the blue/black terminal of the oil pressureswitch harnessand ECM pin connector D6. There should be continuity, fnot,repairtheopenin the blue/black wire to the ECM.
 
 ### Mid rocker arm (1.6L VTEC only)
-`honda_civic_en_eab54623` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto Section 6ofthis Chapter for inspection details
 
 Mid camshaft lobe (1.6L VTEC only) Referto Section 12of thisChapter forinspection details.
 
 ### 6 Rocker arm assembly removal, inspection and installation
-`honda_civic_en_481bba7d` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note 1: The camshaft bearing caps are removed togetherwith the rocker arm assembly. Toprevent the opposite end (transaxle end)of the camshaft from popping up (from timing belt tension) after the assembly is removed, have anassistant hold the opposite end ofthe camshaft down, thenreinstall thebearing cap on that end to hold itin placeuntil reassembly (if the timing belt remains installed). Note 2: While the camshaft bearing capsare off, inpctell asthe camshaftbearing journals, as describedin Section 12.
 
 ### Removal
-`honda_civic_en_a04aed14` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1 Remove the valve cover (see Section 5).
 2 Position the number one piston at Top Dead Center (see Section 4).
@@ -1334,7 +1237,6 @@ Note 1: The camshaft bearing caps are removed togetherwith the rocker arm assemb
 4 Lift the rocker arms and shaft assembly from thecylinder head
 
 ### Inspection
-`honda_civic_en_ea17ba88` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 6.6a, 6.6b, and6.7
 
@@ -1355,7 +1257,6 @@ Referto illustrations 6.6a, 6.6b, and6.7
 6.12a TIGHTENING sequence for the rocker armassembly bolts D15B7 and D15B8 engines
 
 ### 7 Valve springs, retainers and seals replacement
-`honda_civic_en_1165c017` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Referto illustrations 7.5,7.9and 7.18
 
@@ -1390,7 +1291,6 @@ D16Z6, D15Z1 engine
 7.5 This is what the air hose adapter that threads into the spark plug hole looks like they're commonly available from auto parts stores
 
 ### 7 Valve springs, retainers and seals replacement
-`honda_civic_en_6afd7731` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/66f2c261786338679b60ba24a901b45ceb3d510f236809e82608eb1b99bc134f.jpg)
 6.12b TIGHTENING sequence forrocker armassembly bolts D15Z1 and D16Z6 engines
@@ -1405,7 +1305,6 @@ crakedo a iracksead it distortion. can be Ifthe manifal ais any traces mating St
 17The remainder ofthe installation procedure is the reverse of
 
 ### Removal
-`honda_civic_en_c74efdfd` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 battery If battery battery.
 
@@ -1461,7 +1360,6 @@ t sprocket. Install the
 Run the engine and check for leaks.
 
 ### Endplay and runout check
-`honda_civic_en_e1c7d232` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 12.1
 
@@ -1478,7 +1376,6 @@ d Ifedest replace the
 12.1Tchk thtdalinoishtts,
 
 ### Removal
-`honda_civic_en_612c0dda` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 12.8
 
@@ -1492,7 +1389,6 @@ bearing 1 Remove capsmust be removed the rocker arm assembly from the assembly (
 14.4 Remove the oil pan bolts (arrows) from the oil pan
 
 ### Removal
-`honda_civic_en_dc78e094` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Referto illustrations 13.9aand 13.9b
 
@@ -1504,7 +1400,6 @@ Wherencach boltilustsr illustration So it 116) toturd t thigahe headNote install
 车
 
 ### Installation
-`honda_civic_en_9804b1af` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 13.16
 
@@ -1518,7 +1413,6 @@ t nick or damage. damage only Dirt, corrosion, sealant readings. They Chapter's
 st camshaft and install the cooling
 
 ### Removal
-`honda_civic_en_d7952792` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 (see Charm up.he ngine, then drain the oil and replace the oil filter battery battery. disconnecting illustration). 34 Raisoeehltandunt securely oil pan totheengine block (see then the
 
@@ -1532,7 +1426,6 @@ Specifications. Install the oil pressure relief valve and spring assembly.
 Useanew sealing washer on the plug and tighten the plug securely.
 
 ### Installation
-`honda_civic_en_bc5543c2` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 10 Apply athin coat of RTV sealant to the pump housing-to-block sealing surface and a new O-ring in the pump housing. Install the pump housing to the engine block and tighten the bolts to the torque listedin this Chapter's Specifications.
 
@@ -1543,7 +1436,6 @@ Tighten the bolts to the torque listed in this Chapter'sSpecifications.
 13 Remainder of installation is the reverse of removal. Add the specified type and quantity of oil and coolant (see Chapter 1), run the engine and check for leaks.
 
 ### Removal
-`honda_civic_en_7b36af95` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 16.3
 
@@ -1560,7 +1452,6 @@ Referto illustration 16.3
 6 Cleanand inspect the mating surfaces of the flywheel/driveplate and the crankshaft. If the rear mainoil seal is leaking, replace it before reinstalling the flywheel/driveplate (see Section 17).
 
 ### Installation
-`honda_civic_en_bbd1bdbd` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 7 Position the flywheel/driveplate against the crankshaft. Note that some engines have an alignment dowel or staggered bolt holes to ensure correctinstallation. Before installing the bolts, apply thread
 
@@ -1575,14 +1466,12 @@ locking compound tothe threads.
 8 Prevent the flywheel/driveplatefrom turning by using one of the methods described in Step 3. Using a crossing pattern, tighten the bolts to the torque listedin this Chapter's Specifications. 9 The remainder of installation is the reverse of the removal procedure.
 
 ### 17 Rearmain oil seal replacement
-`honda_civic_en_847c7a7a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 17.4a and 17.4b
 
 1 · The transaxle must be removed from the vehicle for this procedure (see Chapter 7). 2 Remove the flywheel/driveplate (see Section 16). 3 Before removing the seal, it is very importantthatthe clearance between the seal and the outside edge of the retainer is checked. Use a small ruler or caliperandrecord the distance. The new seal must not be driven in past this measurement (see Chapter 2B). 4 The seal can bereplaced without removing the oil pan or seal retainer. Usea screwdriverand arag to carefully pry the seal out of the housing (see illustration). Use the rag to be sure no nicks are made in the crankshaft seal surface. Apply a film of clean oil to the crankshaft seal journal and the lip of the new seal and carefully tap the seal into
 
 ### Section
-`honda_civic_en_8458a5ca` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Crankshaft inspection
 Crankshaft installation and main bearing oil · clearance check 1923 -
@@ -1603,20 +1492,17 @@ Vacuum gauge diagnostic checks   24
 Valves - servicing  ·... 4 ...·...· ···.. ..  ·····.····.. 11
 
 ### General
-`honda_civic_en_b7e66c32` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Cylinder compression pressure Standard   Minimum.     184psi  E  ··   · ·..·  135psi
 Oilpaxiuarationbetweencyliers     28 psi   At idle   At 3000 rpm. ...   10psi ...
 
 ### Crankshaft and connecting 'rods (continued)
-`honda_civic_en_622af9df` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Runout Standard    ·..·· ···· 0.001 inch Service limit  . 1 0.002inchmaximum
 Connecting rod bearing oil clearance Standard     0.0008 to 0.0015 inch
 Coetigdidpla)  · 0.002inchmaximum Standard. ...· · ·...·.··.·.·.·. 0.006to0.012inch Service.i.. 0.016inch maximum
 
 ### Cylinder head and valves
-`honda_civic_en_29de300d` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Head warpage limits Minimum allowable     0.002inch Service limit · 0.008inchmaximum
 Head warpage at manifold surfaces 0.006inch
@@ -1630,12 +1516,10 @@ Valve stem installedheight D15B7 and D15B8 Intake .     1.8498 to 1.8683 inches 
 Valvespring free length D15B7 Intakust       2.043 inches D15B8 Intake . 1.913inches D15Z1 Exhaust   1.937 inches Intake     2.157inches Exhaust 2.294 inches D16Z6 Intakust   2.282 inches
 
 ### Ft-lbs (unless otherwise indicated)
-`honda_civic_en_0d364ad2` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Main bearing cap bolts D16Z6.   38 .. All others   . 33 Connecting rod bearing cap nuts     23 水 Refer to PartAforadditional torque specifications.
 
 ### Referto illustration 1.1
-`honda_civic_en_b357e669` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Included in this portion of Chapter 2 are the general overhaul proceduresforthe cylinder head(s), cylinder blockand internal engine components (see illustration).
 
@@ -1646,7 +1530,6 @@ The following Sections have been written based on the assumption the engine has 
 Aforadditional Specifications.
 
 ### 2 Engine overhaul general information
-`honda_civic_en_74ba4bfe` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Referto illustration 2.4
 
@@ -1669,7 +1552,6 @@ Before beginning the engine overhaul, read through the entire chapter to familia
 Asa final note, to ensure maximum lifeandminimum trouble from a rebuilt engine, everything must be assembled with care in a spotlessly clean environment.
 
 ### Referto illustration 3.7
-`honda_civic_en_5e84bf9b` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1 A compression check will tell you what mechanical condition the is in. leakage
 caused by worn piston rings, defective valves and seats or a blown
@@ -1701,7 +1583,6 @@ t cylinders and compare spark plug hole, and repeat the test.
 15 If compression is way down or varies greatly between cylinders,it
 
 ### 4 Vacuum gauge diagnostic checks
-`honda_civic_en_3932992e` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 vacuum weak valve springs, improper ignition or valve timing and ignition problems.
 
@@ -1726,14 +1607,12 @@ g) If thereisalargefluctuation,pforma down test to look for a weak or dead cylin
 i) rpmand letit shut.Normall thereading shoulddrop tonear
 
 ### Engine block
-`honda_civic_en_a48f31dc` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Cylinderbore     2.9528 to 2.9535 inches Service limit .
 Cylinder taper Cylinderout-of-round limit limit.   0.002inch 2.9555 inches maximum   0.002 inch maximum
 Blockrvick warpage.. .     0.004inchmaximim
 
 ### ston
-`honda_civic_en_acbaaf6a` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Service limit diameter.     2.9520 to 2.9524 inches
 Piston to cylinder wall clearance 2.9516 inches minimum Service limit 0.0004 to 0.0016 inch   0.002 inch maximum
@@ -1741,7 +1620,6 @@ Ring groove clearance .. Top compression ring D152Z1vice limnt   0.0014 to 0.002
 Ring end gap     0.005 inch maximum Top compression ring   0.006 to 0.012 inch Service limit.   Second compression . 0.024inchmaximum ring Service limit..   0.012 to 0.018 inch Oil control ring 0.028 inch maximum D15Z1 and D16Z6. D587and 01     0.01   0.035inch mavimim
 
 ### Crankshaft and connecting rods
-`honda_civic_en_6074b24a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Lnupiay Sternderlimit   0.004 to 0.014 inch Main bearing journals 0.018 inch maximum Diameter D16Z6   All others .. 2.1644 to 2.1654 inches Taper 1.7707 to 1.7717 inches Standard . Service limit.  ·.·..·  0.0001inch Out-of-round 0.002 inchmaximum Standard ..   Service limit. 0.0001 inch Runout 0.002 inch maximum Service Standard limit.     0.001inch
 Main bearing oil clearance   0.002 inch maximum Journals no. 1 and 5   Joumemisnoa     ..   0.00 4
@@ -1756,12 +1634,10 @@ place (see illustration). The lip is stiff so carefully workit onto the seal 店
 6 Run the engine and check foroil leaks.
 
 ### 18 Engine mounts 0 check and replacement
-`honda_civic_en_5ade68fd` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Engine mounts seldom require attention, but broken or deteriorated mounts should be replaced immediately or the added strain placed on the driveline components may cause damage orwear.
 
 ### Check
-`honda_civic_en_2e63b84a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ei must be raised slightly to remove
 
@@ -1780,7 +1656,6 @@ deteriratber preservative should be applied to the insulators to slow
 18.9c Rightside engine mount and mounting bolt (arrow)
 
 ### Replacement
-`honda_civic_en_6df0b1c4` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 18.9a, 18.9band 18.9c
 
@@ -1796,7 +1671,6 @@ and oil pan mating surfaces.
 6 福 Using a gasket scraper, remove all traces ofold gasket and/or sealant from the engine block and oil pan. Remove the seals from each end ofthe engine block or oil pan. Clean the mating surfaces with lacquer thinneror acetone. Make sure the threaded bolt holes in the block are clean.
 
 ### Installation
-`honda_civic_en_5f250023` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 7 Clean the oil pan with solvent and dry it thoroughly. Check the askey distortion, on a wparibuiaklynaround the hammer boltholest.lf and restore the gasket surfaces.
 
@@ -1807,7 +1681,6 @@ closest to the center of the pan and work outin a spiral pattern. Don't overtigh
 1 i Add oil (see Chapter 1), run the engine and check foroil leaks.
 
 ### Removal
-`honda_civic_en_98a1067c` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 15.3, 15.4 and 15.5 1 Remove the timing belt (see Section 10).
 
@@ -1824,7 +1697,6 @@ and em housing 4 Remove the bolts from the oil pump housing andseparate the asse
 illustration). 5 Remove Youmay need the screws to and use disassemble an impact screwdriver to the oil pump loosenthe (see pump cover screws without stripping the heads.
 
 ### Inspection
-`honda_civic_en_3cb3a0c9` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Referto illustrations 15.6a, 15.6band 15.6c
 
@@ -1854,7 +1726,6 @@ NIRN IF
 incorrect Be sure triepnuthe
 
 ### Installation
-`honda_civic_en_793605ed` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 12.14
 
@@ -1875,7 +1746,6 @@ timing
 ZU Ineremainder of installation is the reverse ofremoval.
 
 ### # 福8#
-`honda_civic_en_1720b967` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7d3a0f935a1092efb327fb67038d217d26552698d219d830e2dcca4cae9b4552.jpg)
 10.21a Carefully inspect the timing belt for wear or damage
@@ -1885,7 +1755,6 @@ if roughness or play is detected.
 questionable condition.
 
 ### Installation
-`honda_civic_en_7d4c2be9` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refertoillustrations 10.23, 10.25and 10.27
 
@@ -1909,7 +1778,6 @@ timing hitting
 29 e of removal.
 
 ### 11 Crankshaft front oil seal replacement
-`honda_civic_en_49ebf3c6` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 12 Remove the drivebelts (see Chapter 1). Remove the crankshaft pulley.
 34 timing Remove illustration (see
@@ -1919,7 +1787,6 @@ damage multi-purpose housing panss
 ![](images/dcc686b062def4fc08aeeb5d970a88161e044a1735d9654e4c2fdf4e30fcb64e.webp)
 
 ### Installation
-`honda_civic_en_23dbdfa7` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 matingsurrasoeand use dtces with a rag soaked in lacquer thinneroracetone.
 
@@ -1930,7 +1797,6 @@ Theremainder of installation is thereverse ofremoval
 8 福 Start the engine and check for exhaust leaks between the manifold and the cylinder head and between the manifold and the exhaust pipe.
 
 ### Removal
-`honda_civic_en_e6551546` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 and r0. lustrations 10.9,10.13,10.15,10.17,10.18a,10.18b, 10.18c
 
@@ -1944,7 +1810,6 @@ n Section 4)and remove the upper 10 Remove thealternator and bracket (see Chapte
 15traemny.e the bolts and detach the water pump pulley (see 1617 t use white paint orchalk to 海园品信 off the crankshaft (see illustrations). slitingand remove the bolt, then pull off the sprocket. Also remove the Woodruff key.
 
 ### Inspection
-`honda_civic_en_2801d991` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Referto illustrations 10.20, 10.21a and 10.21b probably damaged. Ifso, the cylinderheadwill have tobe removedfor additional repairoperations.
 
@@ -1974,7 +1839,6 @@ Referto illustrations 10.20, 10.21a and 10.21b probably damaged. Ifso, the cylin
 sounds coming from the valve cover area.
 
 ### 8 Intake manifold - removal and installation
-`honda_civic_en_864ddea3` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: Gasoline is extremely flammable, SO take extra precautions when you work on any part ofthe fuel system. Don't smoke orallow openflames or bare light bulbs near the work area,and don't work ina skin, rinse it off immediately with soap andwater. When you perform i glasses and have a
 
@@ -1985,7 +1849,6 @@ Warning: Gasoline is extremely flammable, SO take extra precautions when you wor
 8.8 Remove the bolts (arrows) and remove the brace from the intake manifold
 
 ### Removal
-`honda_civic_en_72d1a150` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refertoillustrations 8.4,8.8, 8.9and8.10
 
@@ -2002,7 +1865,6 @@ Refertoillustrations 8.4,8.8, 8.9and8.10
 10 Remove the intake manifold bolts and remove the manifold from the engine (see illustration).
 
 ### Installation
-`honda_civic_en_5cfed958` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 11 Clean the manifold nuts with solvent and dry them with compressedair, if available. 12 Check the mating surfaces of the manifold for flatness with a precision straightedge and feeler gauges. Refer to this Chapter's
 
@@ -2011,7 +1873,6 @@ Refertoillustrations 8.4,8.8, 8.9and8.10
 2118-2A-06.06bHAYNES
 
 ### 6.6b An exploded view of the rocker arms and shafts (D16Z6 engines, D15Z1 similar
-`honda_civic_en_ac65fa8b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Intake rockershaft
 2 Collar
@@ -2033,7 +1894,6 @@ caps andkeep theparts in order, they must be reassembled in the same positions t
 8 Clean the orifice SO thereare no obstructions and oil flows freely through the orifice.
 
 ### Installation
-`honda_civic_en_6a513fea` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Referto illustrations 6.12a, and6.12b
 
@@ -2051,7 +1911,6 @@ Referto illustrations 6.12a, and6.12b
 W
 
 ### 5.15 Timing plate synchronizing assembly (D15Z1 only)
-`honda_civic_en_ed1a474a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 a) Timing plate b) Returnspring
 
@@ -2066,7 +1925,6 @@ a) Primary rockerarm c) Midrocker arm b) Secondary rockerarm d) Synchronizing pi
 12 Unbolt and remove the lost motion assembly holder. 13 Remove the individual lost motion assemblies from the holder. 14 Test each motion assembly by pushing the plunger withyour finger. If the assembly doesn'tmove smoothly, replaceit.
 
 ### Timing plate, collar and return spring (1.5L VTEC-E only)
-`honda_civic_en_3e05cad5` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 5.15
 
@@ -2077,7 +1935,6 @@ Referto illustration 5.15
 19 Reassemble asshown (see illustration 5.15).
 
 ### Synchronizing assembly
-`honda_civic_en_0f27b3e9` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 5.20a and 5.20b
 20 Once the rocker arm assemblies have been removed and disassembled (see Section 6),separate the rocker arms and synchronizing components (see illustrations).
@@ -2087,7 +1944,6 @@ Refer to illustrations 5.20a and 5.20b
 2118-2a-5.20a HAYNES
 
 ### 1.6L VTEC components:
-`honda_civic_en_05261558` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 b Primaryrockerarm Secondary rockerarm Midrockerarm Synchronizing piston
 
@@ -2098,7 +1954,6 @@ b Primaryrockerarm Secondary rockerarm Midrockerarm Synchronizing piston
 23 Reassembly is the reverse ofremoval. Note: Reassembleand hold together (rubber bands work well) each cylinders components before trying to assemble them on the rocker arm shaft (see Section 6).
 
 ### VTEC lock-up control solenoid valve
-`honda_civic_en_772806e9` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refertoillustration 5.24
 
@@ -2132,7 +1987,6 @@ Note 2:A problem in the VTEC pressure switch circuit will turn on the Malfunctio
 15 After thenumber one piston has been positioned at TDC on the compression stroke, located by turning the TDC crankshaft forany and of the remaining following the firing pistons order. can Mark be the remaining sparkplug wire terminal locations on the distributor body just like you did for the number one terminal, then numberthe marks to correspond with the cylinder numbers. Asyou turn the crankshaft,therotor will also turn.When it'spointing directly at one of tesre piston for that particular cylinder is at
 
 ### Removal
-`honda_civic_en_bf42f257` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration4.6
 
@@ -2149,7 +2003,6 @@ D Remove the valve cover nuts (see illustration)
 7 Carefully lift off the valve cover and gasket. If the gasket is stuck to the cylinder head, tap it with a rubber mallet to breakthe seal. Do nat perymatnen thecover and cylinder head oryou'll damage the
 
 ### Installation
-`honda_civic_en_26080ba4` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustration4.8
 
@@ -2169,7 +2022,6 @@ will take some extra time to harden.
 11 The remainder of installation isthereverse ofremoval
 
 ### Description
-`honda_civic_en_e2834cd2` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration5.2
 
@@ -2182,17 +2034,14 @@ timing.
 Engine speed (rpm)
 
 ### Camshaft (continued)
-`honda_civic_en_5790ff71` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 imnvut 1992 through 1994 (all). 0.0006inch Service limit.   ... · 0.0010inchmaximum 1995 ... . ...· · ·.··.. 0.0010inch Service limit. 0.0020inchmaximum Journal oil clearance Standar... 0.0020 to 0.0035 inch M.xi.m  0.006inch
 
 ### Oil pump
-`honda_civic_en_a3f90712` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Toothtip Rotor-to-cover clearance  clearance   .. ASE 0.001 0.001 to to 0.006 inch 0.003inch Outer rotor-to-pump body clearance   0.004to 0.007 inch
 
 ### Airbleedbolt
-`honda_civic_en_f8fe13b1` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Ft-lbs (unless otherwise indicated) 84 in-lbs
 
@@ -2212,7 +2061,6 @@ B4 in-ibs
 108 in-lbs
 
 ### General information
-`honda_civic_en_1f210d42` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1ThitPartnd Chapter for 1.6 information concerning engine removal and installation and engine block and cylinder head overhaul can be found in Part B of this Chapter.
 
@@ -2231,7 +2079,6 @@ rebuilding.
 engine compartment, and the hoses attached to it (see illustration). 3 The evaporative emissions control system is explained in more detail in Chapter 6.
 
 ### 33 Exhaust Gas Recirculation (EGR) system check (every 60,000 miles or48 months)
-`honda_civic_en_adb9168c` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 33.2
 
@@ -2249,7 +2096,6 @@ Referto illustration 33.2
 27.7 Use a 3/8-inch ratchetto remove the automatic transaxle drain plug
 
 ### 27 Automatic transaxle fluid change (every 30,000 miles or 24 months)
-`honda_civic_en_4fb19f53` | civic | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 Refertoillustration 27.7
 
@@ -2274,7 +2120,6 @@ Recommended to drain into the pan.
 through2theia shit from P d Addfluidto bring the
 
 ### 28 Manual transaxle lubricant change (every 30,000 miles or 24 months)
-`honda_civic_en_4fc12827` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/43701ece3f4252ade05185760e8a473bf3bf3d621048af9ce692d890682061a2.jpg)
 28.1 Remove the manual transaxle drain plug with a3/8-inch ratchet
@@ -2283,7 +2128,6 @@ through2theia shit from P d Addfluidto bring the
 3 Addnew lubricant until it begins to run out of the filler hole (see Section 21). See Recommended lubricants and fluids for the specified lubricant type.
 
 ### 29 Accelerator linkage inspection (every 30,000 miles or 24 months)
-`honda_civic_en_bf4ce4f0` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 missing parts 1 Inspect the accelerator and for bindingandinterferencehentheaceeato cable, pedal isdepressed.
 
@@ -2292,7 +2136,6 @@ missing parts 1 Inspect the accelerator and for bindingandinterferencehentheacee
 4 Tightenthe locknut.
 
 ### Check
-`honda_civic_en_2c472627` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 2 Start the engine and allow it to. warm up to normal operating temperature (the cooling fan should come on at least twice). 3 动 Stop the engine. Hook up a hand-held tachometer.in accordance with the tool manufacturer's instructions. 4ehicet thm prking t
 
@@ -2310,7 +2153,6 @@ Ifany balljoint does have play, replace it. Refer to Chapter 10for the front bal
 illustration). teaots leaking if they areaeaged (see Chapter 10).
 
 ### 23 Driveaxle boot check (every 15,000 miles or 12 months)
-`honda_civic_en_da425325` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 23.2
 
@@ -2319,20 +2161,17 @@ Referto illustration 23.2
 2 心 Inspect the boots for tears and cracks as well as loose clamps or leaking grease,
 
 ### 24 Positive Crankcase Ventilation (PCV) valve check and replacement (every 15,000 miles or 12 months
-`honda_civic_en_67d26231` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 24.2 and 24.4
 Note: For a detailed description of the PCV system, referto Chapter6. 1 The PCVvalve is located in a breather hose that connects the crankcase and intake manifold.
 
 ### Check
-`honda_civic_en_42eac18e` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 t if ptlrs,nusing a rag to protect the surface of the hose (see
 
 3 福 i the PCV valve is operating properly, it will make a clicking sound when the hose is pinched shut. If it doesn't,replace the valve.
 
 ### Replacement
-`honda_civic_en_a74698c9` | civic | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 4 The PCV valve is located in the intakemanifold below the fuel injector rail (see illustration). Detach the hose and remove the valve, noting its installed position and direction.
 
@@ -2344,7 +2183,6 @@ t if ptlrs,nusing a rag to protect the surface of the hose (see
 24.4 The PCV valve (arrow) is located inthe intakemanifold to remove, simply pull it out of the rubber grommet
 
 ### 25 Cooling system servicing (draining, flushing and refilling) (every 30,000 miles or 24 months)
-`honda_civic_en_7ad43ad9` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 25.4, 25.5a,25.5b and25.13
 
@@ -2355,7 +2193,6 @@ Warning 2: Wait until the engine has completely cooled before beginning this pro
 1 Periodically, the cooling system should be drained, flushed and refilled to replenish the antifreeze mixture and prevent formation of rust and corrosion, which can impair the performance of the cooling servemdanadl hoss andineamater Whenthuld cooling be ngecketemni replaced if necessary.
 
 ### Draining
-`honda_civic_en_26e2c7df` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 2 Apply the parking brake and block the wheels. Ifthevehicle has justen to allow the engine to cool down
 
@@ -2366,7 +2203,6 @@ Warning 2: Wait until the engine has completely cooled before beginning this pro
 19.5 To make sure the adjusting screw doesn'tmove when the locknut is tightened, use a box-end wrench and have a good grip on thescrewdriver
 
 ### 19 Valve clearance checkand adjustment (every 15,000 miles or 12 months)
-`honda_civic_en_d96f564c` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Referto illustrations 19.4and 19.5
 
@@ -2375,7 +2211,6 @@ T 福 The valve clearances must be checked and adjusted with the engine cold.
 2 Place the number one piston (closest to the drivebelt end of the engine) at Top Dead Center (TDC) on the compression stroke. This is engine one complete turn and realign the marks.
 
 ### 20 Fuel system check (every 15,000 miles or 12months)
-`honda_civic_en_37206e2c` | civic | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Warning: Gasoline is extremely flammable, SO take extra precautions when you work on any part of the fuel system. Don't smoke orallow open flames or bare light bulbs near the work area, and don't work in a tei immediately carcinogenic, exposed to fuel, wear and, latex if you spill gloves when anyfuel there's a possibility of being on your skin, rinse it off immediately system,.wear safety glasses and have a Class B type fire extinguisher
 
@@ -2398,42 +2233,36 @@ necessary Maki evrehl tiel e part 4 of the fuel Since some feed and return compo
 from b Caretully the fuel tank. check Check all rubber for loose hoses and connections, metal deteriorated lines leading hoses, away as necessary. fremi the
 
 ### NORMAL
-`honda_civic_en_1d350900` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Symptoms: Brown to grayish-tan color and slight electrode wear. Correct heat range for engine and operating conditions.
 
 Recommendation: When new spark plugs are installed, replace with plugs ofthe same heat range.
 
 ### WORN
-`honda_civic_en_7c5c81d5` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/07f0f44012143fb66917053a64e43099b5da2d0bf055d23339882c66d84a0de5.jpg)
 
 Symptoms: Rounded electrodes witha smallamount of deposits on thefiring end.Normal color. Causes hard starting in damp or cold weatherand poorfuel economy. Recommendation: Plugs, have been left in the engine too long. Replace with new plugs of the same heat range. Follow the recommendedmaintenanceschedule.
 
 ### TOO HOT
-`honda_civic_en_e1f3d5a4` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Symptoms: Blistered, white insulator, eroded electrode and absence of deposits. Results in shortened plug life.
 
 Recommendation: Check forthe correct plug heat range, overadvanced ignition timing, lean fuel mixture, intake manifold vacuum leaks, sticking valves and insufficient engine cooling.
 
 ### CARBON DEPOSITS
-`honda_civic_en_b36004c0` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Symptoms: Dry sooty deposits indicate a rich mixture or weak ignition. Causes misfiring, hard starting and hesitation.
 
 Recommendation: Makesure the plug has the correct heat range. Check for a clogged air filter or problem in the fuel system or engine management system. Also check for ignition systemproblems.
 
 ### PREIGNITION
-`honda_civic_en_88cba496` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Symptoms: Melted electrodes. Insulators are white, but may be dirty due to misfiring or flying debrisin the combustion chamber. Canlead to engine damage.
 
 Recommendation: Check for the correct plug heat range, overadvanced ignition timing, lean fuel mixture, insufficient engine cooling andlack of lubrication.
 
 ### ASH DEPOSITS
-`honda_civic_en_6c3f18ec` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Symptoms: Light browndeposits encrusted on the side or center electrodes or both. Derived fromoil and/or fuel additives. Excessive amounts may mask the spark, causing misfiring and hesitation during acceleration.
 
@@ -2442,26 +2271,22 @@ Recommendation: If excessive deposits accumulate over a short time or low mileag
 Symptoms: Insulator hasyellowish, glazed appearance. Indicates that combustion chamber temperatures have risen suddenly during hardacceleration. Normal deposits meltto form a conductive coating. Causes misfiring at high speeds. Recommendation: Install new plugs. Consider using a colder plug if driving habitswarrant.
 
 ### OIL DEPOSITS
-`honda_civic_en_76e6fce1` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Symptoms: Oily coating caused by poor oil control. Oil is leaking past worn valve guides or piston ringsinto the combustion chamber. Causes hard starting,misfiring and hesitation.
 
 Recommendation: Correct the mechanical condition with necessary repairs and install new plugs.
 
 ### DETONATION
-`honda_civic_en_f40a4ab6` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Symptoms: Insulators may be cracked or chipped. Improper gap setting techniques can also result inafractured insulator tip. Can lead to piston damage.
 
 Recommendation: Make sure the fuel anti-knock valuesmeet engine requirements. Use care when setting the gaps on new plugs. Avoid luggingthe engine.
 
 ### GAP BRIDGING
-`honda_civic_en_a5059aa1` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Symptoms: Combustion deposits lodge between the electrodes. Heavy deposits accumulate and bridge the electrode gap. Theplug ceases to fire,resulting in a dead cylinder.
 
 ### MECHANICAL DAMAGE
-`honda_civic_en_51bdc23e` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Symptoms: May be caused by a foreign object. in the combustion chamber or the piston striking an incorrect reach (too long) plug. Causes a deadcylinderand could result inpiston damage.
 
@@ -2487,7 +2312,6 @@ rivets ormetal shoes, replace the brake shoes with new ones. The shoes should al
 Specifications.
 
 ### Brake booster check
-`honda_civic_en_38668b97` | civic | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 22 Sit in the driver's seat and perform the following sequence of tests.
 
@@ -2498,7 +2322,6 @@ r mintepandturaieofthhd decrease with each application.
 27 Ifyour brakes do not operate as described above when the preceding tests areperformed, the brake booster is either in need of repair or has failed. Refer to Chapter 9 for the removal procedure.
 
 ### Parking brake
-`honda_civic_en_a0b4ceec` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 28 Slowly pull up on the parking brake and count the number of clicks you hear until the handle isupas far as it will go. The adjustment is correct if you hear the specified number of clicks (see this Chapter's Specifications). If you hear moreorfewer clicks, it'stime to adjust the parking brake (see Chapter 9).
 
@@ -2508,7 +2331,6 @@ r mintepandturaieofthhd decrease with each application.
 16.4 Move the cover out of the wayand remove the filter
 
 ### 16 Air filter replacement (every 15,000 miles or 12 months)
-`honda_civic_en_12eea960` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Referto illustrations 16.2and 16.4
 
@@ -2547,7 +2369,6 @@ it fits over the fitting for distortion, which could cause leakaae.
 7 A small piece of vacuum hose (1/4-inch inside diameter) can be used as a stethoscope to detect vacuum leaks. Hold one end of the listening yorrhear and sndaterad fittings, "hissing" leak. as Warning: When probing with thevacuum moving hose engine stethoscope, components be such very
 
 ### Fuel hose
-`honda_civic_en_e734927b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 医 carcinogenic, wear latex gloves when there'sa possibility of being system, wear safety glassesand have a Class B type fire extinguisher
 
@@ -2556,7 +2377,6 @@ it fits over the fitting for distortion, which could cause leakaae.
 ofueie that is specifically designed
 
 ### Metal lines
-`honda_civic_en_a4e21121` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 10 Sections of metal lineare often used for fuel line between the fuel pump and fuel injection unit. Check carefully to be sure the line has not beenbent or crimped and that cracks havenotstarted in the line.
 
@@ -2565,7 +2385,6 @@ ofueie that is specifically designed
 12 Check the metal brake lines where they enter the master cylinder and fittings. Any sign inspection brake proportioning of the brake system. ofbrake unit fluid leakage calls for an (if used) for cracks in immediate thorough the lines or loose
 
 ### 13 Cooling system check (every 7500 miles or6months)
-`honda_civic_en_4abc6c04` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 13.4
 
@@ -2580,7 +2399,6 @@ may become more apparent if the hose issqueezed (see illustration). Regarderytfo
 Every shops charge.
 
 ### 14 Tire rotation (every 7500 miles or 6months)
-`honda_civic_en_cfcbfdd4` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 14.2
 
@@ -2594,7 +2412,6 @@ illustration). 2 福 Radial tires must be rotated in a specific pattern (see 武
 11 Install the hold-down clamp and nuts. Tighten the nuts only enough to hold the battery firmly in place (see illustration). Overtightening these nuts cancrackthe batterycase.
 
 ### Charging
-`honda_civic_en_31d1a60c` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 12 Remove all of the cell caps (if equipped) and cover the holeswith a clean cloth to prevent spattering electrolyte. Disconnect the negative battery cable and hook the battery charger leads to the battery posts (positive to positive, negative to negative), then plug in the charger. Make sure it is set at 12 volts if it has a selector switch.
 
@@ -2610,7 +2427,6 @@ illustration). 2 福 Radial tires must be rotated in a specific pattern (see 武
 17 Further information on the battery and jump starting can be found in Chapter5 and at the front of this manual.
 
 ### Check
-`honda_civic_en_960b042b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Thealternator and air conditioning compressor drivebelts are either V-belts orV-ribbed belts. Sometimes referred to as "fan" belts, the drivebelts are located at the left end of the engine. The good condition and proper adjustment ofthealternator belt is critical to the operation of the engine. Because oftheir composition and the high stresses to which they are subjected, drivebelts stretch and deteriorate as they get older. They must therefore be periodically inspected.
 
@@ -2628,7 +2444,6 @@ illustration). 2 福 Radial tires must be rotated in a specific pattern (see 武
 9.8 The metal retainers must be inserted into the slots in the rubber before installation
 
 ### 9 Windshield wiper blade inspection and replacement (every 7500 miles or 6 months)
-`honda_civic_en_0bce6dfc` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 9.6, 9.7 and 9.8
 
@@ -2643,7 +2458,6 @@ Referto illustrations 9.6, 9.7 and 9.8
 10 Place the metal arm assembly in the hook on the wiper arm and press it into place until the lock tab snaps into place.
 
 ### 10 Battery check, maintenance and charging (every 7500 miles or 6months)
-`honda_civic_en_8dc59b9d` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 10.1, 10.6a, 10.6b, 10.7a, 10.7b and 10.11 Warning: Hydrogen gas is produced by the battery, so keep open flames and lighted tobacco away from it at all times. Always wear eye protection when working around the battery. Rinse off spilled electrolyte immediately with large amounts ofwater.
 
@@ -2653,7 +2467,6 @@ Referto illustrations 10.1, 10.6a, 10.6b, 10.7a, 10.7b and 10.11 Warning: Hydrog
 ![](images/7618babc90b52c4b66bb46330aee7c715a765c3242a47a4d2066ff74cd6abe75.jpg)
 
 ### 10.1 Toolsand materialsrequired forbattery maintenance
-`honda_civic_en_d75c36ac` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Face shield/safety goggles When removing corrosion with a brush, theacidic particles can easily fly up into your eyes
 2 Baking soda -A solution of baking soda and water can be used to neutralize corrosion Petroleum jelly- A layer of this on the battery posts will helpprevent corrosion Battery post/cable cleaner This wirebrush cleaning tool will removeall traces ofcorrosion from the battery posts and cable clamps
@@ -2665,14 +2478,12 @@ Face shield/safety goggles When removing corrosion with a brush, theacidic parti
 ![](images/2a0d4a3c8f58d459d61cbfac6764f88338239a777c120b0e9dca607ca9e10c35.jpg)
 
 ### 6.4 The power steering fluid reservoir is translucent so the fluid level can be checked without remo
-`honda_civic_en_8952e662` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 reading on the gauge and compare'this figure to the recommended tire pressure shown onthe tire placard on the left door jamb. Be sure to reinstall the valve cap to keep dirt and moisture out ofthe valve stem mechanism. Check all four tires and, if necessary,add enough air to bring them up tothe recommended pressure levels.
 
 9 Don't forget to keep the spare tire inflated to the specified pressure (consult your owner's manual). Note that the air pressure specified for the compact spare is significantly higher than the pressure of the regulartires.
 
 ### 6 Power steering fluid level check (every 3000 miles or3 months)
-`honda_civic_en_8aa75380` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 6.4
 
@@ -2689,7 +2500,6 @@ Refer to illustration 6.4
 6 If the reservoir requires frequent fluid additions,all power steering hoses, hose connections, the power steering pump and the steering gear should be carefully checked for leaks.
 
 ### Refertoillustration 7.5
-`honda_civic_en_d2db7f09` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 The level of the automatic transaxle fluid should be carefully maintained. Low fluid level can lead to slipping or loss of drive, while overfilling can cause foaming, loss offluid and transaxle damaqe.
 
@@ -2705,7 +2515,6 @@ Refer to illustration 6.4
 ![](images/2cdec07176ab9efda26f9a1acd1763d8030f1a2d969677eb52a9ddd12931899a.jpg)
 
 ### 8.2 These tools are required when changing the engine oil and filter
-`honda_civic_en_9e9d0b40` | civic | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 1 Drain pan -It shouldbefairlyshallow in depth, but wideto preventspills
 2 Rubber gloves When removing the drain plug and filter, you will get oil on your hands (the gloves will prevent burns)
@@ -2729,14 +2538,12 @@ The condition of the fluid should also be checked along with thi compartment (se
 4.17b Keep the level between the MIN and MAX lines on the clutch fluid reservoir
 
 ### Battery electrolyte
-`honda_civic_en_59c22feb` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refertoillustration 4.15
 
 15 The vehicles covered by this manual are equipped with a battery which is permanently sealed (except for vent holes) and hasno filler caps. Waterdoesn't haveto beadded to these batteries atany time. lf a conventional battery is installed on your vehicle, check the electrolyte level of all six battery cells. It must be between the upper and lower levels - normally filled up to the bottom of the split-ring indicator in each cell (see illustration). If the level is low,unsnap or unscrew the filler/vent cap and add distilled water. Install andsecurely retightenthe cap. Caution: Overfilling the cells may cause electrolyte to spill over during periods of heavy charging, causingcorrosion or damage.
 
 ### Brake and clutch fluid
-`honda_civic_en_8010a2e4` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Referto illustrations 4.17a and4.17b
 
@@ -2749,7 +2556,6 @@ Referto illustrations 4.17a and4.17b
 ![](images/039ab78a42a2bdb7db55a28364a332a780b4f4e94be3fad04c754ea14e61842b.jpg)
 
 ### 5.2 Use a tire tread depth gauge to monitor tire wear they are available atauto parts stores and ser
-`honda_civic_en_790fcf9e` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 than one year or has been left open. Brake fluid absorbs moisturefrom the air. Excess moisture can cause a dangerous loss of braking. 20 While the reservoir capisremoved, inspect the master cylinder reservoir forcontamination. If deposits, dirt particles or water droplets are present, the system should bedrainedand refilled (see Chapters 8 and 9).
 
@@ -2760,7 +2566,6 @@ than one year or has been left open. Brake fluid absorbs moisturefrom the air. E
 23 If, upon checking the brake master cylinder fluid level, you discoveran empty ornearly empty reservoir, the brake system should be bled (see Chapter 9).
 
 ### 5 Tire and tire pressure checks (every 250 miles or weekly)
-`honda_civic_en_a210d1e0` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Periodic inspection of the tires may spare you from the inconvenience of being stranded with a flat tire. It can also provide you with vital information regarding possible problems in the steering and
 
@@ -2774,7 +2579,6 @@ than one year or has been left open. Brake fluid absorbs moisturefrom the air. E
 4.6 The threaded oil filler cap is located on the valve cover- to prevent dirt from contaminating the engine, always make sure the area around this opening is clean before unscrewing the cap
 
 ### 2 Introduction
-`honda_civic_en_10170ad8` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 This chapter is designed to help the home mechanic maintain his/her car forpeak performance, economy,sety and long life.
 
@@ -2789,7 +2593,6 @@ Finally,let's suppose you have to borroworrent atorquewrench. Even if you onlyne
 The first step of this maintenance program isto prepare.yourself before the actual work begins. Read through all sections pertinent to the procedures you're planning to do, then make alist of and gather together all the parts and tools you will need to do the job. If it looks as ifyou might runinto problems during a particular segment of some procedure, seek advice from your local partsman or dealerservice department.
 
 ### 3 Tune-up general information
-`honda_civic_en_8edb31d6` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 The term tune-up is used in this manual to represent a combination of individual operations rather than, one specific procedure.
 
@@ -2802,22 +2605,18 @@ The first step in any tune-up or engine diagnosis to help corect a poor running 
 The following series of operations are those most often needed to bring a generally poor running engine back into aproper state oftune.
 
 ### Minor tune-up
-`honda_civic_en_e8d8785d` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Check all engine related fluids (Section 4) Clean, inspect and test the battery (Section 10) Check and adjust the drivebelts (Section 11) Checkall underhood hoses (Section 12) Check the cooling system (Section 13) Check the air filter (Section 16) Replace the spark plugs (Section 17) Inspect the distributor cap and rotor (Section 18) Inspect the spark plug and coil wires (Section 18) Check and adjust the idle speed (Section 30)
 
 ### Major tune-up
-`honda_civic_en_35e36a0b` | civic | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Allitemslistedunderminortune-up,plus Replace the airfilter (Section 16) Replace the distributor capand rotor (Section 18) Replace the spark plug wires (Section 18) Check the fuel system (Section 20) Check the EGR system (Section 33) Check the charging system (Chapter 5)
 
 ### 4 Fluid level checks (every 250 miles orweekly)
-`honda_civic_en_aa8b7a64` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Fluids are an essential part of the lubrication, cooling, brake, clutch and other systems. Because these fluids gradually become depleted and/or contaminated during normal operation of the vehicle, they must be periodically replenished. See Recommended lubricants, fluids and capacities at the beginning ofthis Chapter before adding
 
 ### Typical engine compartment underside components
-`honda_civic_en_99132ab0` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 1 Radiatordrain
 2 Front brake caliper
@@ -2833,29 +2632,24 @@ Allitemslistedunderminortune-up,plus Replace the airfilter (Section 16) Replace 
 3 Shock and spring assembly
 
 ### Recommended lubricants and fluids (continued)
-`honda_civic_en_ab1209d9` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Automatictransaxle fluid typ... Dexron Il automatic transmission fluid Manual transaxle Lubricant type ...   APW-rdorSFW-SG engine oil Brake fluid type . . DOT3brake fluid Powe sterngsystem fluid   de ATF)
 
 ### Capacities\*
-`honda_civic_en_2364e3f1` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Engine oil     ...·······.·········· 3.5 qts Automatic transaxle (drainand refill)     2.9 qts Manual transaxle  ·...·   ·..··..· ·.···...  · ·  2 qts Coolant ...…………….. ..························· ..   4 qts \*All capacities approximate. Addasnecessary tobring toappropriatelevel.
 
 ### Ignition system
-`honda_civic_en_05d83cb6` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Spark plug type and gap D15B8 and D15Z1 engines Type   ... NGK ZFR4F-11 or equivalent Gap    · · 0.039 to 0.043 inch D15B7 engine D116Z6 engine Type Gap       ·   0.039 NGK ZFR5F-11 or equivalent to 0.043 inch Teype...  …  ·... NGK Z0.0-1quialent
 Sngrk pingwireresistance   Less than 25,000 0hms
 
 ### Accessory drivebelt deflection
-`honda_civic_en_118ceb56` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Power steering pump Newbelt   3/8 to 1/2-inch Oldbelt ... 1/2 to 5/8-inch
 Alternator Without air-conditioning Newbelt With Old belt ..     3/8 to 1/2-inch 1/4to 7/16-inch air-conditioning Newbelt.     3/16 to 5/16-inch Old belt   3/8to.1/2-inch
 
 ### Idle Speed
-`honda_civic_en_5dc57751` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 WithACvveetestin  ····.··.···. 420 +/- 50 rpm D15Z1 VTEC engine Manual transaxle. All Automati trnsaxle .·..··..····. 600 +/-50 rpm · 700 +/- 50 rpm Manual transaxle.     670 +/- 50 rpm Automatictransaxle   700+/-50rpm
 
@@ -2866,31 +2660,26 @@ WithACvveetestin  ····.··.···. 420 +/- 50 rpm D15Z1 VTEC engine Manual 
 Cylinder location and distributor rotor rotation diagram
 
 ### 55 Transaxle slips, shifts roughly, is noisy or has no drive in forward orreverse gears
-`honda_civic_en_95db1d8b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 There are many probable causes for the above problems, but the home mechanic should be concerned with only one possibility - fluid level. Before taking the vehicle to arepair shop, checkthe level and condition of the fluid as described in Chapter 1. Correct the fluid level as necessary or change the fluid and filterif needed. If the problem persists, have a professional diagnose the cause.
 
 ### 57 Shudder or vibration during acceleration
-`honda_civic_en_ecb4d774` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Excessive toe-in (Chapter 10).
 23 Incorrect spring heights (Chapter 10). Worn or damaged inboard or outboard CV joints (Chapter 8).
 4 Sticking inboard CV jointassembly (Chapter8).
 
 ### 58 Vibration at highway speeds
-`honda_civic_en_466f2187` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Out of balance front wheels and/or tires (Chapters 1 and 10).
 2 Out of round front tires (Chapters and 10).
 3 Worn CV joint(s) (Chapter 8).
 
 ### Brakes
-`honda_civic_en_77e3254f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note: Before assuming thata brakeproblem exists, make sure that: a) The tiresare in good condition and properly inflated (Chapter1). b) The front end alignment is correct (Chapter 10). c) The vehicleisnotloaded with weightin an unequalmanner.
 
 ### 59 Vehicle pulls to one side during braking
-`honda_civic_en_619b5e7e` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 12345 Incorrect tire pressures (Chapter 1).
 Front end out of line (have the front end aligned).
@@ -2902,12 +2691,10 @@ Malfunctioning drum brake or caliper assembly (Chapter 9).
 8 Excessive wear of brake shoe orpad material or disc/drum on one side.
 
 ### 60 Noise (high-pitched squeal when the brakes are applied)
-`honda_civic_en_9aaa63ab` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Front disc brake pads worn out. The noise comes from the wear sensor rubbing against the disc (does not apply to all vehicles). Replace pads with new ones immediately (Chapter 9).
 
 ### 62 Excessive brake pedal effort required to stop vehicle
-`honda_civic_en_046b5319` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1 Malfunctioning power brake booster (Chapter 9).
 23 Partial system failure (Chapter 9). Excessively worn pads or shoes (Chapter 9).
@@ -2916,36 +2703,30 @@ Front disc brake pads worn out. The noise comes from the wear sensor rubbing aga
 while forthenew material to seat against the disc or drum.
 
 ### 63 Excessive brake pedal travel
-`honda_civic_en_27165b5d` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Partial brakesystem failure (Chapter 9).
 23 Insufficient fluid in master cylinder (Chapters and 9). Airtrapped in system (Chapters and 9).
 
 ### 64 Dragging brakes
-`honda_civic_en_6ee5b754` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1234 Incorrect adjustment of brake light switch (Chapter 9). Master cylinder pistons not returning correctly (Chapter 9). Restricted brakes lines or hoses (Chapters 7 and 9). Incorrect parking brake adjustment (Chapter 9).
 
 ### 65 Grabbing or uneven braking action
-`honda_civic_en_90510c66` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Malfunction of proportioning valve (Chapter 9).
 2 Malfunction ofpower brake boosterunit (Chapter 9).
 3 Binding brake pedal mechanism (Chapter 9).
 
 ### 66 Brake pedal feels spongy when depressed
-`honda_civic_en_3ebd9d7c` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 12 Airin hydraulic lines (Chapter 9). Master cylinder mounting bolts loose (Chapter 9).
 3 Master cylinder defective (Chapter 9).
 
 ### 67 Brake pedal travels to the floor with little resistance
-`honda_civic_en_72413815` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1 Little or no fluid in the mastercylinder reservoir caused by leaking caliper piston(s) (Chapter 9). 2 Loose, damaged or disconnected brake lines (Chapter 9).
 
 ### Suspension and steering systems
-`honda_civic_en_02576117` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note: Before attempting to diagnose the suspension and steering systems, perform thefollowing preliminary checks:
 
@@ -2954,7 +2735,6 @@ C) Front and rear suspension and the steering gearassembly for loose or damaged 
 d） Out-of-round or out-of-balance tires, bent rims and loose and/or rough wheel bearings.
 
 ### 24 Fuel leakage and/or fuel odor
-`honda_civic_en_cf0b7b72` | civic | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 1234 Leaking fuel feed or return line (Chapters and 4).
 Tank overfilled.
@@ -2962,7 +2742,6 @@ Evaporative canister filter clogged (Chapters 1 and 6).
 Fuel injector internal parts excessively worn (Chapter 4).
 
 ### 25 Overheating
-`honda_civic_en_a0ddec81` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 123456 Insufficient coolantinsystem (Chapter 1).
 Radiator coreblocked or grille restricted (Chapter 3).
@@ -2972,31 +2751,26 @@ Radiator cap not maintaining proper pressure. (Chapter 3).
 Ignition timing incorrect (Chapter 5).
 
 ### 27 External coolant leakage
-`honda_civic_en_1d2d81bd` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Deteriorated/damaged hoses; loose clamps (Chapters 1 and 3).
 234 Water pump defective (Chapter 3). Leakage from radiator core or coolant reservoir bottle (Chapter 3) Engine drain or water jacket core plugs leaking (Chapter 2).
 
 ### 29 Coolant loss
-`honda_civic_en_d97a1f2e` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 123 Too much coolantinsystem (Chapter 1). Coolant boiling away because of overheating (Chapter 3). Internal or external leakage (Chapter 3). 4 Faulty radiator cap (Chapter 3)
 
 ### 30 Poor coolant circulation
-`honda_civic_en_69540a35` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Inoperative water pump (Chapter 3).
 23 Restriction in cooling system (Chapters and 3). Thermostat sticking (Chapter 3).
 
 ### 31 Pedal travels to floor 1 no pressure orvery little resistance
-`honda_civic_en_cbfe9532` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 No fluidin reservoir (Chapter 1)
 2 Faulty clutch master cylinder, release cylinder or hydraulic line (Chapter 8).
 3 Broken release bearing or fork (Chapter 8).
 
 ### 32 Unable to select gears
-`honda_civic_en_bc8aa58b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Faulty transaxle (Chapter 7).
 23 Faulty clutch disc (Chapter 8).
@@ -3005,7 +2779,6 @@ Release lever and bearing not assembled properly (Chapter 8).
 5 Pressure plate-to-flywheel bolts loose (Chapter 8).
 
 ### 33 Clutch 'slips (engine speed increases with no increase in vehicle speed)
-`honda_civic_en_b17e2163` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Clutch plate worn (Chapter 8).
 23 Clutch plate is oil soaked by leaking rear main seal (Chapter 8). Clutch plate not seated. Itmay take 30 or 40 normal starts for 公
@@ -3014,7 +2787,6 @@ new one to seat.
 56 Weak diaphragm spring (Chapter 8). Clutch plate overheated. Allowtocool.
 
 ### 34 Grabbing (chattering) as clutch is engaged
-`honda_civic_en_bdb6bce8` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Oil on clutch plate lining, burned or glazed facings (Chapter 8).
 234 Worn or loose engine or transaxlemounts (Chapters 2 and 7). Worn splines on clutch plate hub (Chapter 8). Warped pressure plateor flywheel (Chapter 8).
@@ -3022,19 +2794,16 @@ new one to seat.
 (Chapter 8).
 
 ### 35 Transaxle rattling (clicking)
-`honda_civic_en_3fd37784` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 12 Release lever loose (Chapter 8). Clutch plate damper spring failure (Chapter 8).
 3 Low engine idle speed (Chapter1).
 
 ### 37 Clutch pedal stays on floor
-`honda_civic_en_f82b3d51` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Faulty clutch master or release cylinder (Chapter 8).
 2 Brokenrelease bearing or fork (Chapter 8).
 
 ### 38 High pedal effort
-`honda_civic_en_53530657` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1 Piston binding in bore of clutch master or release cylinder (Chapter 8).
 2 Pressure plate faulty (Chapter 8).
@@ -3042,7 +2811,6 @@ new one to seat.
 Manual transaxle
 
 ### 39 Knocking noise at low speeds
-`honda_civic_en_027f8144` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 1 Worndriveaxle constant velocity (CV) joints (Chapter 8).
 2 Worndriveaxle bore in differential case (Chapter7A).
@@ -3054,7 +2822,6 @@ Remember that successful troubleshooting is notamysterious art practiced only by
 Finally, always establish a clear idea of whya problem has occurred and take steps to ensure thatit doesn't happenagain. If the electrical system fails because ofa poor connection, check the other connections in the system tomake sure that they don'tfail aswell. Ifa particular fuse continues to blow,find out why don't just replace one fuse after another. Remember, failure of a small componentcan often be indicative of potential failure or incorrect functioning ofa more important component or system.
 
 ### 1 Engine will not rotate when attempting to start
-`honda_civic_en_a13784b0` | civic | pdf_manual | tier:4 | lang:en | layer:transmission | p:1 | doc_type:service_manual
 
 12 Battery terminal connections loose or corroded (Chapter 1). Battery discharged or faulty (Chapter 1).
 3 Automatic transmission not completely engaged in Park (Chapter7)or clutch not completely depressed (Chapter 8).
@@ -3063,43 +2830,36 @@ Finally, always establish a clear idea of whya problem has occurred and take ste
 9 Starter pinion or flywheel teeth worn or broken (Chapter 5).
 
 ### 2 Engine rotates but will not start
-`honda_civic_en_f3760629` | civic | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 123 Fuel tank empty. Battery discharged (engine rotates slowly) (Chapter 5). Battery etc.
 567 Wiginatncit disconnected or faulty
 
 ### 3 Engine hard to start when cold
-`honda_civic_en_09fe3eef` | civic | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 1234 Battery discharged or low (Chapter 1). Malfunctioning fuel system (Chapter 4). Injector(s) leaking (Chapter 4). Distributor rotor carbon tracked (Chapter 5).
 
 ### 4 Engine hard to start when hot
-`honda_civic_en_7a7fd291` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Air filter clogged (Chapter 1).
 2 Fuel not reaching the fuel injection system (Chapter 4).
 3 Corroded battery connections, especiallyground (Chapter1).
 
 ### 5 Starter motor noisy or excessively rough in engagement
-`honda_civic_en_ffefa194` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Pinion or flywheel gear teeth worn orbroken (Chapter 5).
 2 Starter motor mounting bolts loose ormissing (Chapter 5).
 
 ### 6 Engine starts but stops immediately
-`honda_civic_en_6ec2c7d2` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 1 Loose or faulty electrical connections at distributor, coil or alternator (Chapter 5).
 2 3 Vacuum Insufficient fuel reaching the fuel injector(s) leak at the gasket between the (Chapters intake manifold and 4). and throttle body (Chapters and 4).
 
 ### 7 Oil puddle under engine
-`honda_civic_en_22758ee6` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Oil pan gasket and/or oil pan drain bolt washer leaking (Chapter 2).
 2 Oil pressure sending unit leaking (Chapter 2).
 
 ### 8 Engine lopes while idling or idles erratically
-`honda_civic_en_4fa86754` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Vacuum leakage (Chapters 2 and 4).
 23 Leaking EGR valve (Chapter 6). Air filter clogged (Chapter 1).
@@ -3108,7 +2868,6 @@ Chaptue pump not delivering sufficient fuel to the fuel injection system
 67 Timing belt and/or pulleys worn (Chapter 2). Camshaft lobes worn (Chapter2).
 
 ### 10 Engine misses throughout driving speed range
-`honda_civic_en_6d18022c` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 123 (Chapter 1). Faulty
 45 damaged wires or
@@ -3116,26 +2875,22 @@ Chaptue pump not delivering sufficient fuel to the fuel injection system
 89 10 ) Vacuum leakin fuel injection system, intake manifold, air control valve or vacuum hoses (Chapter 4).
 
 ### Safety first
-`honda_civic_en_fceb6aac` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Regardless of how enthusiastic you may be about getting on with the job at hand, take the time to ensure that your safety is not jeopardized. A moment's lack of attention can result in an accident, as can failure to observe certain simple safety precautions. The possibility of an accident will always exist, and the following points should not be considereda comprehensive list of all dangers. Rather, they are intended to make you aware of the risks and to encourage a safety conscious approach to all work you carry out on your vehicle.
 
 ### Essential DOs and DON'TS
-`honda_civic_en_3f8a910d` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 DON'T rely on a jack when working under the vehicle. Always use approved jackstands to support the weight ofthe vehicle and place them under therecommended lift or support points. DON'T attempt to loosen extremely tight fasteners (i.e. wheel lug nuts) while the vehicle is on a jack-it may fall. DON'T start the engine without first making sure that the transmission is in Neutral (or Park where applicable) and the parking brake is set. DON'T remove the radiator cap from a hot cooling system let it cool or cover it with a cloth and release the pressure gradually. DON'T attempt to drain the engine oil until you are sure it has cooled to the point that it will not burn you. DON'T touch any part of the engine or exhaust system until it has cooled sufficiently to avoid burns. DON'T siphon toxic liquids such as gasoline, antifreeze and brake fluid bymouth, or allow them to remain on your skin. DON'T inhale brake lining dust -it is potentially hazardous (see Asbestos below). wipe it up DON'T use loose fitting wrenches or other tools which may slip and cause injury. loosening pushing the wrench away， push with an open hand to avoid scraped knuckles if the wrench should slip. DONT attempt to lift a heavy component alone get someone to help DON'Trush ortake unsafe shortcuts to finish a job. oNl around the vehicle while you are using a drill, DO keep loose clothing and long hair well out of the way of moving parts. Ddmake srte hat any hoist used has a safe working load rating D0 get someone to check on you periodically when working alone on DO carry out work in a logical sequence and make sure that everything is correctly assembled and tightened. Dhidren pachemicals and fluids tightly capped and out ofthe reach of Asbestos
 
 brak lini insulating, utigts suchas,
 
 ### Fire
-`honda_civic_en_4079294f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remember at all times that gasoline is highly flammable. Never smoke or have any kind of open flame around when working ona vehicle. But the risk does not end there. A spark caused by an electrical short circuit, bytwo metal surfaces contacting each other, or even by static electricity built up in your body under certain conditions, can ignite gasoline vapors, which in a confined space are highly explosive. Do not, under any circumstances, use gasoline for cleaning parts. Use an approved safety solvent.
 
 Always disconnect the battery ground （-） cable at the battery before working on any part ofthe fuel system or electrical system. Never risk spilling fuel on a hot engine or exhaust component.It is strongly recommended that a fire extinguisher suitable for use on fuel and electrical times. Never try to fires be kept handy in extinguish afuel or electrical firewithwater. the garage or workshop at all
 
 ### Fumes
-`honda_civic_en_25779f05` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Certain fumes are highly toxic and can quickly cause unconsciousness and even death ifinhaled to any extent. Gasoline vapor falls into this category, as do the vapors from some cleaning solvents. Any draining or pouring of such volatile fluidsshould be done in a well ventilated area.
 
@@ -3144,19 +2899,16 @@ When using cleaning fluids and solvents, readthe instructions on the container c
 Exhaueter run fumes openair, itwitiehsesin heavier than air, will concentrate inthe
 
 ### The battery
-`honda_civic_en_dde375c0` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 battery. is before Always working disconnect the on the fuel or electrical systems. battery ground （-) cable atthe battery battery does batteries). battery
 
 Takecare when adding water toa non maintenance-free battery the caustic eposieyer protection Whenclean. the battery to prevent from entering
 
 ### Automotive chemicals and lubricants
-`honda_civic_en_4387a803` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Anumber of automotive chemicals and lubricants are available for use during vehicle maintenance and repair. They include a wide variety of products ranging from cleaning solvents and degreasers to lubricantsand protective sprays for rubber, plastic and vinyl.
 
 ### Cleaners
-`honda_civic_en_7e6a85e8` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Carburetor cleaner and choke cleaner is a strong solvent for gum, varnish and carbon. Mostcarburetor cleaners leave a dry-type lubricant film which will not harden or gum up. Because of this film it is not recommended for use on electrical components.
 
@@ -3169,14 +2921,12 @@ Demoisturants remove water and moisture from electrical components such as alter
 Degreasers are heavy-duty solvents used to remove grease from the outside of the engine and from chassis components. They can be sprayed orbrushed on and, depending on the type, are rinsed off either withwater orsolvent.
 
 ### Lubricants
-`honda_civic_en_f283dfe8` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Motor oil is the lubricant formulated foruse in engines. It normally contains a wide variety ofadditives to prevent corrosion and reduce foaming and wear. Motor oil comes in various weights (viscosity ratings) from5to 80. The recommended weight of the oil depends on the season, temperature and the demands on the engine. Light oil is usedin cold climates and under light load conditions. Heavy oil is used in hot climates and where high loads are encountered. Multi-viscoity oils are designed to have characteristics of both light and heavy oils and areavailable in anumber of weights from 5W-20 to 20W-50.
 
 that is used for mounting electronic ignition modules where itis essential that heat is transferred away from the module.
 
 ### Sealants
-`honda_civic_en_db695830` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 RTV sealant is one of the most widely used gasket compounds. Made from silicone, RTV is air curing, it seals, bonds, waterproofs, fills surface irregularities, remains flexible, doesn't shrink, is relatively easy to remove, and is used as a supplementary sealer with almost all low and medium temperature gaskets.
 
@@ -3187,7 +2937,6 @@ traodhe high-temperature in differure iabri manual required.
 Thread and pipe sealant is used for sealing hydraulic and pneumatic fittings and vacuum lines. Itis usually made from a Teflon compound, and comes in a spray, a paint-on liquid and as a wraparound tape.
 
 ### Chemicals
-`honda_civic_en_2766b7e5` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Anti-seize compound prevents seizing, galling, cold welding, rust and corrosion in fasteners. High-temperature ant-seize, usually made withust mariand graphite lubricants, is used for exhaust system and
 
@@ -3204,7 +2953,6 @@ wasemdly being out or away
 Silicone lubricants are used toprotect rubber, plastic, vinyl and nylon parts.
 
 ### Miscellaneous
-`honda_civic_en_743c46cb` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Weatherstrip adhesive is used to bond weatherstripping around pieces. doors, windows and trunk lids. Itis sometimes used to attach trim
 
@@ -3219,7 +2967,6 @@ Meat-sink grease isa special electrically non-conductive grease
 a variety These
 
 ### Jacking
-`honda_civic_en_2bf3d153` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 an tndertevehicsstathe engine while this jack is being used as
 
@@ -3238,7 +2985,6 @@ intole if used) and be sure it's snapped
 Stow the tire, jack and wrench. Unblock the wheels.
 
 ### Towing
-`honda_civic_en_436725d8` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 strong straight while towing.
 
@@ -3273,7 +3019,6 @@ Drainpan
 tune-ups maintenance, necessary stroboscopic Although absolutely
 
 ### Repair and overhaul tool set
-`honda_civic_en_2c41a6da` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 advantages
 
@@ -3306,7 +3051,6 @@ Fasteners laid out in a pattern, such as cylinder head bolts, oil pan in sequenc
 turn, return to the first one and tighten them all one-half turn,following the same pattern. Finally, tighten each of them one-quarter turn ata time
 
 ### Component disassembly
-`honda_civic_en_069c1bc6` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 keep
 
@@ -3317,7 +3061,6 @@ harnesses it is masking they
 sur urriantsate mating or
 
 ### Gasket sealing surfaces
-`honda_civic_en_c3c8f19f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 光器
 
@@ -3330,7 +3073,6 @@ If
 If a hose clamp is broken or damaged, do not reuse it. Wire-type wet replace them
 
 ### Tools
-`honda_civic_en_ae133b35` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 of investment ceomair tohesraling costs of professional auto maintenance and
 
@@ -3341,7 +3083,6 @@ Micrometer set
 Dial indicator set
 
 ### Fastener sizes
-`honda_civic_en_7e31eacf` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Fora number of reasons, automobile manufacturers are making wider and wider use of metric fasteners. Therefore, it is important to be or diameter, All bolts, thread pitch and whether standard length. For example, or metric, are a standard 1/2 sized according -13×1 to bolt is 1/2 inch in diameter, has 13 threads per inch and is 1 inch long. An M12-1.75× 25metric bolt is 12mmin diameter, has a thread pitch The twot interchangeable.
 
@@ -3354,24 +3095,20 @@ Metric studs are also marked on their ends according to property class (grade). 
 ![](images/49b47c5629bf9277dce75b0e0e086fe98e9d524f250f2f3706f9f63c5e1298e6.webp)
 
 ### Vehicle identification numbers
-`honda_civic_en_36b62b9b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Modifications area continuing and unpublicized process in vehicle manufacturing. Since spare parts manuals and lists are compiled on a numerical basis, the individual vehicle numbers are essential to correctly identify the component required
 
 ### Vehicle identification number (VIN)
-`honda_civic_en_cbb42403` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This very important number is stamped on the firewall in the te the model year and the body style (see illustration).
 
 ### Engine number
-`honda_civic_en_99b543aa` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The engine code number, which is commonly needed when ordering are:
 
 D15B8- 1.5L SOHC 8-valve D15B7 - 1.5L SOHC 16-valve D15Z1 - 1.5L SOHC 16-valve VTEC-E D16Z6 1.6L SOHC VTEC
 
 ### Transaxle number
-`honda_civic_en_88cc098c` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The transaxle number iscommonly needed when ordering transaxle parts. On manual transaxles it's located onthe bellhousing,
 
@@ -3389,7 +3126,6 @@ Wiring diagrams were provided by Mitchell International. Technical writers who c
 A book in the Haynes Automotive Repair Manual Series
 
 ### Printed in the U.S.A.
-`honda_civic_en_6b78a92b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Atean afy iseans,car nec rrmeducanda,
 including
@@ -3398,7 +3134,6 @@ retrieral
 ? Haynes North America, Inc. 1995 Withpermission fromJ.H. Haynes&Co. Ltd.
 
 ### Acknowledgements
-`honda_civic_en_a2968321` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/280569ba05a14b23ad1806fef7594ead45253f763ea4d6a8e4d169d3f4b3cd9d.webp)
 
@@ -3417,7 +3152,6 @@ Plan for the vehicleto be out of use for quite a while. Amachine shop will be re
 Alwaysbe extremely careful when removing and'installing the takirt nature, urelthhead accomplished successfully.,
 
 ### 6 Engine . removal and installation
-`honda_civic_en_c207361e` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 6.6,6.25, 6.30 and6.32
 
@@ -3428,7 +3162,6 @@ Note 1:Read through the following steps carefullyand familiarize yourself with t
 Note 2: The engine and transaxle are usually removed together, as a single unit. It is possible to remove the engine while leaving the transaxle intact. This method saves time disconnecting the transaxle but it is not recommended because of the difficulty aligning the transaxle and the engine when reinstalling.
 
 ### Removal
-`honda_civic_en_d18dd921` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 1 Referto Chapter 4 and relieve the fuel system pressure. 2 Disconnect the negative battery cable. Caution: If the radio in
 yourvehicleis equippedwith an anti-theft system, make sureyou have thecorrectactivation code before disconnecting the battery.
@@ -3449,12 +3182,10 @@ lf immediately
 6.6 Label each wire before unplugging the connector
 
 ### Automatic transaxle equipped models
-`honda_civic_en_cb200b28` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1othtstro ablentrm theraand Also, from the transaxle (see Chapter 7B). lock-up linkage 20 which will give access Remove the inspection to the torque cover converter. from the transaxle bellhousing, 21 Remove the transaxle cooler lines. 22d e triveplatonvorter bolts for removal. Remove the torque converter-to
 
 ### All models
-`honda_civic_en_1fb1c49f` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 23 Disconnect the exhaust system from the engine (see Chapter4).
 
@@ -3520,7 +3251,6 @@ Crankshaft andmain bearings
 6 福 Before beginning the disassembly and overhaul procedures, make sure the following items are available. Also, refer to Engine overhaul - reassembly sequence for a list of tools and materials needed for engine reassembly.
 
 ### 9 Cylinder head disassembly
-`honda_civic_en_1a91ebdb` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Referto illustrations 9.2， 9.3 and 9.4
 
@@ -3542,7 +3272,6 @@ fact that some specialized tools are necessary for the disassembly and alw the h
 10.15 Check for valve wear at the points shown here
 
 ### 11 Valves 1 servicing
-`honda_civic_en_2729d251` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Because of the complex nature of the job and the special tools and equipment needed, servicing of the valves, the valve seats andthe palvessuidas, commonly known as a valve job, should be done by a
 
@@ -3559,7 +3288,6 @@ Doing ensure with anautomotive machine shop. dealing
 avrvibleotr bhlad utallthhaUs air, if
 
 ### 12 Cylinder head reassembly
-`honda_civic_en_1c072aea` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refertoillustrations 12.4, 12.6and 12.8
 
@@ -3577,7 +3305,6 @@ connecting bearing Leaving bearing wilieti rod bearing surfaces from being
 Section1foraditonthin pistons from the connecting rods (see information).
 
 ### 14 Crankshaft removal
-`honda_civic_en_2f5770d0` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Note: damper, It's timing assumed the flywheel or driveplate, crankshaft vibration assemblies piston/connecting rod oil seal housing mitstraunblteandsepated from the block before proceeding throws.
 
@@ -3593,7 +3320,6 @@ reading Chapter,
 5 Gently tap the bridge with a soft-face hammer, then separate the assembly from the engine block. If necessary, use a largescrewdriver they as a leverto comeout with the removethe bridge. bridge. Try not to drop the bearing inserts if d good With the caps, return the caps to their bearing inserts in place respective in the engine locations block on the and main engine block bearing heavy. and tighten the bolts finger tight.
 
 ### 15 Engine block cleaning
-`honda_civic_en_5e07e9be` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 15.4a, 15.4b, 15.8and15.10
 
@@ -3616,7 +3342,6 @@ Ceed
 12th e right away, cover it
 
 ### 16 Engine block inspection
-`honda_civic_en_cab9f735` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Referto illustrations 16.4a, 16.4b, 16.4c, 16.12a and 16.12b in Sectionehe block isinspected, it should be cleaned as described
 
@@ -3646,7 +3371,6 @@ e distortion thenlock
 necessary
 
 ### 17 Cylinder honing
-`honda_civic_en_6a673cfa` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refertoillustrations 17.3a and 7.3b
 
@@ -3658,7 +3382,6 @@ a) v uu IvIIUWS. g illustration).
 b) honing hone illustration).
 
 ### CROSSHATCH PATTERN
-`honda_civic_en_11ea4e30` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a1943e14ae7b741ee690298ddefd6b11b3efe97de01693e586e9934c86233279.webp)
 17.3a Aspring-loaded, stone-edged hone is the most common type of cylinder hone
@@ -3679,7 +3402,6 @@ If agjourna picks 4 Rub a penny up across copper each journal from the penny,it'
 connecting 6 Using aod jourmete r.ndcompathehdiasuter of thie Cain tand
 
 ### 19 Crankshaft inspection
-`honda_civic_en_8f52a335` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ![](images/53aafa4524a8872296ae75f57b81eac9f3b2276b3addd5b855a4613930abe050.jpg)
 19.1 The oil holes should be chamfered So sharp edges don't gouge or scratch the new bearings
@@ -3730,7 +3452,6 @@ canbeistae been checked/corrected, the rings
 2 installed, check to smoothly
 
 ### 22 Piston rings installation
-`honda_civic_en_ad9637bd` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 22.3, 22.4，22.9a, 22.9b and 22.12
 
@@ -3756,7 +3477,6 @@ Plastigage bearings) 1ely bearings Doin thetmrainhb bearing cap bridge
 bear Caretully )f . Plastigage Use yourtifftatain
 
 ### Final crankshaft installation
-`honda_civic_en_4258badb` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 18 Carefully lift the crankshaft out of the enaine. face inf thu thrust Be sure to coatthe thrust faces as well as the journal bearing. are clean, then lay the
 21廿0 them. Clean the faces of the bearings in the caps, then apply lubricant
@@ -3766,7 +3486,6 @@ bear Caretully )f . Plastigage Use yourtifftatain
 27 Keterto Section 24 and installthe new rear main oil seal
 
 ### 24 Rear main oil seal installation
-`honda_civic_en_db0dcfa3` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations24.124.2a,24.2band 24.c
 
@@ -3794,7 +3513,6 @@ S
 25.4 The tab on ttheariarir (gwiw)must itinty the recess SO
 
 ### ring Also,
-`honda_civic_en_edb505f3` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 6ap bolt. a section of plastic or rubber hose overeach connecting rod
 
@@ -3805,7 +3523,6 @@ illustration), /connecting bottom
 contacting IU iap gte blockarounf terirg compressor to make sure it's circumference.
 
 ### ROD JOURNAL CODE LOCATIONS (MARKS OR BARS)
-`honda_civic_en_5a7651c5` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 25.3c Crankshaft journal designation forthe connecting rod
 
@@ -3816,7 +3533,6 @@ contacting IU iap gte blockarounf terirg compressor to make sure it's circumfere
 US
 
 ### Section
-`honda_civic_en_0c8242e7` | civic | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 heating maintenance 15171819
 conditioning
@@ -3841,7 +3557,6 @@ Thermostat 1 check and replacement.  ·.
 Water pump check   1
 
 ### General
-`honda_civic_en_b1b3cf5e` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Coolant capacity
 Drivebelt tension .. 1
@@ -3851,7 +3566,6 @@ Refrigerant type 1994 1993and earlier.  ! .
 Refrigerant and oil later added   for component  ·.· replacement Compressor   Condenser   Evaporator. . Linceiyer.se       E   1
 
 ### Torque specifications
-`honda_civic_en_a6023568` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Alternator adjustment bracket-to-water pump bolt.
 Thermostat Upper radiator hose housing fitting-to-block cover bolts   bolts
@@ -3878,7 +3592,6 @@ Ft-lbs (unless otherwise indicated)
 economy flowing and the thermostat is open. Consult the Troubleshooting is section at the front of this manual for cooling system diagnosis.
 
 ### Replacement
-`honda_civic_en_d71858cf` | civic | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Referto illustrations3.10,3.13and3.14
 
@@ -3901,7 +3614,6 @@ housing and cover. thermostat housing Tighten the bolts to the torque
 d clamp securely. Installall operating (as
 
 ### Check
-`honda_civic_en_38d30d31` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer. to illustrations 4.1a, 4.1b, and 4.3 Thmpletwian
 
@@ -3924,7 +3636,6 @@ Refer. to illustrations 4.1a, 4.1b, and 4.3 Thmpletwian
 5.6b .then loosen the hose clamp and detach the lower radiator hose (arrow)
 
 ### Removal
-`honda_civic_en_45509148` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 5.4,5.6a, 5.6b and 5.8
 
@@ -3946,7 +3657,6 @@ tltaa Don't spill coolant on the vehicle or damage. techniques
 12 Check the radiatormounts fordeteriorationand replace ifnecessary.
 
 ### Installation
-`honda_civic_en_9a2c60fd` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 dtoet of tetrmpovayprocedure. Guide the they necessary.
 heck anetic transaxle equipped vehicle,
@@ -3955,7 +3665,6 @@ heck anetic transaxle equipped vehicle,
 10.1 Location of the coolant temperature sending unit (arrow)
 
 ### 10 Coolant temperature sending unit check and replacement
-`honda_civic_en_d276fbaf` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 agitte coolbefore beginning this
 
@@ -3972,7 +3681,6 @@ Warning: sending
 5 It the sending unit must be replaced, simply unscrew it from the unit. There will besome coolant lossas the unit is removed, sending SO be pen insd toecatch it. Check the level after the replacement part has
 
 ### 11 Blower motor and circuit = check
-`honda_civic_en_07267cbf` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 1 Check the fuseand all connections in the circuit for looseness and corrosion. Make sure the battery is fully charged. A 1..
 
@@ -3990,7 +3698,6 @@ blower speeds.
 6 If the blower motorruns, but one or more speeds are inoperative, mounting damage. for
 
 ### 12 Blowermotor 1 removal and installation
-`honda_civic_en_f2b7bcf1` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 12.2and 12.4
 
@@ -4006,7 +3713,6 @@ the airbag, b a Blowermotor Blower motorresistor C motor Recirculation control
 14.3 To disconnect the heater valve cable,pry open this clip (upper arrow) witha small screwdriver and lift the cable end off 'the pin (lowerarrow) onthe heater valve lever arm
 
 ### Air conditioning system
-`honda_civic_en_604504d7` | civic | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Referto illustration 15.5
 
@@ -4026,7 +3732,6 @@ of the seals. 2 once because long term non-use It's a month. agood Notethat usin
 ![](images/2e9f1bb0b91eb7d5da74799b09c0c3921a53b9a015d2dda903ea3099c776c50a.webp)
 
 ### 14.10 Heaterunit components 1 exploded view
-`honda_civic_en_8bd1f7ec` | civic | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 ABC Heaterboretouer DE Dam pla mable arm
 
@@ -4044,7 +3749,6 @@ a) Drain thet iegridantoilftrom thncd crmupresor through the fitting centimeters
 dealriptd conditioning leak teinged epyar facility.
 
 ### Referto illustrations 18.4 and 18.5
-`honda_civic_en_4fc098d0` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 conditioning conditioning EPA-approved recovery/recycling conditioning Always disconnecting conditioning system fittings.
 
@@ -4068,7 +3772,6 @@ Always conditioning
 Remove disconnect brathketolts(arfan) electrical connector
 
 ### Section
-`honda_civic_en_c7f6cc87` | civic | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Accelerator cable 1 replacementandadjustment   10
 Aircleanerassembly 1 removal and installation   9
@@ -4084,7 +3787,6 @@ Fuel lines and fittings 1 repairand replacement   6
 Fuel pressure regulator check and replacement   ... 14
 
 ### Section
-`honda_civic_en_d65e98a5` | civic | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Fuelpumproranduse      ·...·..·.··. 243 Fuel pump/fuel pressure     = check
 Fuel system Fta check.    · ·.   See Chapter 1 78 General information     ... 1 Idle Air Control (IAC) system - check and
@@ -4107,7 +3809,6 @@ c) If thepressure is lower than specified: 1 Inspectthe fuel filter make sure it
 7 Ittherearenoproblems withanyof theabove-listed components check the fuel pump (see below).
 
 ### Fuel pump check
-`honda_civic_en_1272d348` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Referto illustrations 3.12 and 3.13
 8 Remove the rear seat (see Chapter 11).
@@ -4128,7 +3829,6 @@ e necting illustration). the wires) from the fuel pump electrical connector (see
 15 I voltage is available, but the fuel pump doesn't run when e 5). If no voltage is
 
 ### Main relay check
-`honda_civic_en_d85b77c0` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Referto illustration 3.17
 
@@ -4151,7 +3851,6 @@ e from its location nextto the
 the fuel pressure in the system must be relieved first (see Section 2for more information). When you perform any kind ofwork on the fuel system, on hand. wear safety glasses andhave a Class B type fire extinguisher
 
 ### Check
-`honda_civic_en_83bb9dbe` | civic | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 1uhfuelpumfuel level sending unit access cover (see 2 Position the ohmmeter probes onto the electrical connector terminals and check for resistance (see illustration).
 3 First, check the resistance of the sending unitwith the fuel tank completely full. The resistance of the sending unit should be about 2 to5 ohms.
@@ -4159,7 +3858,6 @@ the fuel pressure in the system must be relieved first (see Section 2for more in
 5 if the readings are incorrect or there is very little change in resistance as the float travels from full to empty, replace the sending unit.Note:Thefuellevel sending unitcanalsobe checkedbyremoving theunit (see Steps 6 through 10). Check the resistance while moving the float from full (arm at highest point of travel) to empty (armat lowest point of travel (see illustration).
 
 ### Replacement
-`honda_civic_en_3abe1150` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 6 Remove the rear seat (see Chapter 11). 7 Remove the fuel level sending unit/fuel pump access cover (see illustration 4.3) and lift the access cover fromthe floor ofthevehicle.
 
@@ -4184,14 +3882,12 @@ the fuel pressure in the system must be relieved first (see Section 2for more in
 12 Installation is thereverse of removal.
 
 ### 8 Fuel tank cleaning and repair general information
-`honda_civic_en_e14e3bf5` | civic | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 1 All repairs to the fuel tank or fillerneck should becarried outby a professional who has experience in this critical and potentially dangerous work. Even after cleaning and flushing of the fuel system, explosive fumes canremain and ignite during repair of the tank.
 
 2 If thefuel tank is removed from the vehicle, it should not be placed in an areawhere sparks or open flamescould ignite the fumes coming out of the tank. Be especially careful inside garages where a natural gas-type appliance is located, because the pilot light could cause an explosion.
 
 ### 9 Air cleaner assembly removal and instaliation
-`honda_civic_en_bc439f56` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 9.4and 9.5
 
@@ -4202,7 +3898,6 @@ Refer to illustrations 9.4and 9.5
 6 Installation is the reverse ofremoval.
 
 ### Replacement
-`honda_civic_en_1e0b9f16` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Detach the cable from the negative battery terminal. Caution: If the stereo in your vehicle is equipped with an anti-theft system, make
 
@@ -4221,14 +3916,12 @@ provided inthe intakemanifold to allow the option of the intake volume most favo
 current is applied to the solenoid coil, the needle valve raises and open (the length of time during which current is supplied to the solenoid coils).
 
 ### Fuel delivery system
-`honda_civic_en_fa850eef` | civic | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 The fuel delivery system consists of these components: The fuel pump, the pressure regulator, the fuel injectors, the injector resistor and themain relay.
 
 relay, t to eby build-up blockage allowing injectors. ine pressureregulator Excessfuelisrouted.back to thefueltank through maintains a constant fuel pressureto thereturn the
 
 ### 12 Fuel injection system check
-`honda_civic_en_0e32049f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note: The following procedureisbasedontheassumption that the fuel pressureis adequate (see Section 3). 1 Check the ground wire connections onthe intake manifold for
 
@@ -4244,7 +3937,6 @@ Note: The following procedureisbasedontheassumption that the fuel pressureis ade
 ![](images/77ba1dd7f0b151455357ea3146d9cf0ef93e4f772dda9db6f146320ab0c26ac8.jpg)
 
 ### 14.9 Remove the fuel pressure regulator bolts (arrows)
-`honda_civic_en_13f5b34e` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 3 Detach the vacuum hose from the fuel pressure regulator and connect a hand-held vacuum pump to theregulator. Start the engine and read the fuel pressure gaugewith vacuumappliedto the pressure regulator and also with no vacuumapplied (see illustrations). The fuel pressure should decrease as vacuum increases. Compare your readings with the values listed in this Chapter's Specifications.
 
@@ -4261,7 +3953,6 @@ Chapter's Specifications. Disconnect the vacuum hose and watch the gauge - the p
 6 福 If the indicated fuel pressure is too high, stop the engine and relieve the fuel pressure (see Section 2). Disconnect the fuel return line and blow through it to check for a blockage. If there is no blockage, replace the fuel pressure regulator.
 
 ### Replacement
-`honda_civic_en_49a8a917` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 14.9
 
@@ -4276,7 +3967,6 @@ Detach the cable from the negative battery terminal. Caution:If the stereo in yo
 15.12 Remove the fuel rail mounting nuts (arrows)
 
 ### Removal
-`honda_civic_en_bcf52f51` | civic | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Referto illustrations 15.8, 15.12and 15.13
 
@@ -4289,12 +3979,10 @@ disconnecting battery.
 12mtovente mounting nuts (see illustration) and detach the fuel Whether
 
 ### Installation
-`honda_civic_en_18f9d10a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 14t Che n the new cushion rings with clean engine oil and slide them O-rings and press them into mounting assembly lines leakage.
 
 ### 16 IdleAir Control (IAC) system check and component
-`honda_civic_en_6d35b141` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 16.2, 16.4 and 16.7
 
@@ -4306,7 +3994,6 @@ changes running conditioning steering,
 n4 IACC Chaptm will normally set a
 
 ### Check
-`honda_civic_en_2e3480ea` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 2m tachometer,
 according to the manufacturer'sinstructions, to the engine. Start the steady clothing, working
@@ -4319,7 +4006,6 @@ disconnected intermittent
 16.cRem Remove battery running) battery voltage should be present
 
 ### Section
-`honda_civic_en_dff01066` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Alternator = removaland installation
 Battery cek     · 1   See Chapter 13
@@ -4335,14 +4021,12 @@ Starting solenoid system = 1 general removal information and and installation.  
 Voltage regulatorandalternatorbrushes- replacement  ··..·..   14
 
 ### Ignition system
-`honda_civic_en_195feafd` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Coil
 
 Primary resistance... Charging Ignition Secondary Control system resistance. Module resistance.  ·.   Alternator brush length (minimum)
 
 ### lgnition timing
-`honda_civic_en_d95a20a0` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 D15Z1 engine   D15B8 engine 0 电 D15B7 and D16Z6 engines. .
 
@@ -4367,7 +4051,6 @@ The Programmed Ignition (PGM-IG) system provides complete timing timing throttle
 All distributors are driven by the camshaft. Distributors are advanced and retarded by the Engine Control Module (ECM). All miotibutern employ thoyastousercd .s8 lasingd ni de the become defective. Referto a dealer parts department or auto parts storefor any questions concerning the availability ofthe distributor inaCth and assemblils. Testing the TDC/CKP/CYP sensors are covered
 
 ### 6 lgnition system check
-`honda_civic_en_319aa15a` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refertoillustration6.3 Warning: Because of the very high voltage generated bythe ignition
 
@@ -4383,7 +4066,6 @@ pit rotorfor cracks, wear, damage or 6 Using an ohmmeter, check the resistance o
 7 Using an ohmmeter, check the primary and secondary resistance inf theintion coil (se hetion 7). f an open is found (verified by an SectiCheck the Ignition Control Module (ICM) for proper operation (see 9 Additional checks should be performed by a dealer service department or anautomotive repair shop.
 
 ### Check
-`honda_civic_en_f1290283` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations
 
@@ -4408,7 +4090,6 @@ corresponding wireand the ignition coil.
 installing 8 IT tne ICMfails either of the above the ICM,pack silicone greaseinthe connector checks, replace it. housing. Note: When
 
 ### Replacement
-`honda_civic_en_29547a98` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 8.12
 
@@ -4428,7 +4109,6 @@ sureyou battery. have the correct activation code before disconnecting the
 distributor. locations. original a terminal,
 
 ### Removal
-`honda_civic_en_7157c7f2` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 9.5
 
@@ -4441,7 +4121,6 @@ reference). the
 distributor.
 
 ### Installation
-`honda_civic_en_b3944482` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d8746cf332bb346a344e689bdaaaaf8268559b4f492410288f75e13184639196.jpg)
 12.1a Disconnect the 3-pin connector from the back of the alternator
@@ -4469,7 +4148,6 @@ g） o it with rubber
 12.1c Ground the white/blue wire and check that the charge warning light is ON
 
 ### 12 Charging system check
-`honda_civic_en_48b487e5` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Referto illustrations 12.1a, 12.1b and 12.1c
 
@@ -4504,7 +4182,6 @@ n) between
 to aaeietnt or other repair shop and have it rebuilt workbemove the alternator (see Section 13) and place it on a clean
 
 ### Brushes
-`honda_civic_en_e337ae45` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 14.2, 14.3, 14.5, 14.12 and 14.13
 
@@ -4514,7 +4191,6 @@ he the nut and terminal insulator
 14 Installation is the reverse ofremoval.
 
 ### Voltage regulator
-`honda_civic_en_d7ed697f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 illustration). 12 Removethe three retaining screws from the rear end frame (see
 
@@ -4526,7 +4202,6 @@ illustration). 12 Removethe three retaining screws from the rear end frame (see
 ![](images/7d0301affb36f56e497b960eba9581b239f9546305008675995844b6e2c47b4a.webp)
 
 ### 16 Starter motor in-vehicle check
-`honda_civic_en_973786e3` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note:Before diagnosing starter problems, make sure the battery is fully
 
@@ -4539,7 +4214,6 @@ overrunning 3 IT tne starter motor spins but the engine is not cranking, the
 than nine volts and the cranking speed is slow, the starter motor is
 
 ### 17 Startermotor 1 removal and installation
-`honda_civic_en_f0cf5037` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 17.2 and 17.3
 
@@ -4552,7 +4226,6 @@ battery, defective.
 between
 
 ### 18 Starter solenoid removal and installation
-`honda_civic_en_4071d11b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 18.4aand 18.4b the battery.
 
@@ -4570,19 +4243,16 @@ overrunning damaged,
 6 Installation is the reverse of removal.
 
 ### Section
-`honda_civic_en_bf339088` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Catalytic converter   10
 Engine Control Module (ECM)  ·  1 general information andreplacement   9
 Evaporative emissions control Electronic Exhaust Gas Recirculation General information Load Detector (ELD) system   (EGR) system (EVAP) system      ·...i  .    ··.   8671
 
 ### General
-`honda_civic_en_c534735c` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Oxygen sensor voltage cKPriig (4.rgm Closed throttle deceleration     . CYP circuit resistance       TDC circuit resistance  ·  Intake air temperature sensor resistance
 
 ### General information
-`honda_civic_en_3d81c212` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refertoillustration 1.5
 
@@ -4612,7 +4282,6 @@ Before assuming thatan emissions control system is malfunctioning, check the fue
 ![](images/793fcc52248b8aa366cc88c9dd552e06630fd61b182068c6c8894b3612a3ddb6.jpg)
 
 ### e remove the plastic coverfrom the electrical connectors
-`honda_civic_en_afcd1f18` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ds terminology more tgychaizednthcratut system.
 
@@ -4639,7 +4308,6 @@ The oxygen sensor monitors the oxygen content in the exhaust gus and sarndsa var
 4 components.
 
 ### 3 Self diagnosis system description and diagnostic trouble codes
-`honda_civic_en_db3cde72` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to ilustrations3.1a3.1band3.3 etorndeadinteCECengiehto the instrument panel
 
@@ -4655,7 +4323,6 @@ mer memory memory,
 4.7 Installa pin into the connector and backprobe the oxygen sensor electrical connectorwhite wire (terminal B) to monitor the sensor output signal voltage. Raise the engine rpm and confirm that the voltage signal increases
 
 ### General description
-`honda_civic_en_6fb70496` | civic | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 1 The oxygen sensor, which is located in the exhaust manifold, monitors the oxygen content of the exhaust gas stream. The oxygen content in the exhaust reacts with the oxygen sensor to produce a voltage output which varies from 0.1-volt (high oxygen, lean mixture) t tmonitoin themixture. The ECM alters the air/fuel mixture ratio by controlling the pulse width (open time) ofthe fuel injectors. A mixture ratio of 14.7 parts air to 1 partfuel is the ideal mixture ratio for minimizing exhaust emissions, thus allowing the catalytic convertertooperate atmaximum efficiency. Itisthis ratio of 14.7 to1 which the ECM and the oxygen sensor attempt tomaintain atall times.
 
@@ -4680,7 +4347,6 @@ b) Grease, dirtand other contaminants should be kept away from the electrical co
 e) The silicone bootmust be installed in the correct position to prevent the boot frombeing melted and to allow the sensor to operate properly.
 
 ### Check
-`honda_civic_en_58980a73` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Referto illustrations 4.7 and 4.10
 
@@ -4702,12 +4368,10 @@ Cto Don D15B7, D16Z6, D15B8and D15Z1 (California models only)10to 40ohms
 4.33 Check the CRANK sensor resistance by probing terminals B and F with an ohmmeter
 
 ### General description
-`honda_civic_en_916bc8a4` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 32 On these models, the crank angle sensor (CKP) determines the timing for thefuelinjection and ignition on eachcylinder. It also detects engine RPM. (engine cranking) TheTDC sensor determines the ignition timing and the CYP sensor determines the position at start-up of the at frinler ltsesorsars e
 
 ### Check
-`honda_civic_en_459dd6f0` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration4.33
 
@@ -4719,20 +4383,17 @@ illustration). Check the resistance listed in ... ： ... this Chapter's Specifi
 41lf tceeeal correct, have the system diagnosed by a
 
 ### General description
-`honda_civic_en_00e3c659` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 42 The coolant temperature sensor is a thermistor (a resistor which varies the value of its voltage output in accordance with temperature changes). The change in the resistance values will directly affect the voltage signal from the water thermosensor. As the sensor temperature DECREASES, the resistance values will INCREASE. As
 
 ![](images/a15947550312921394e83b2b7931963f3271776a38f70af27c82f7d6c61ced59.jpg)
 
 ### 4.43 Check the resistance of the coolant temperature sensor with the engine completely cold and then
-`honda_civic_en_4e8e03dd` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 DhecSEASr.
 code indicates a failure in the water thermosensor circuit, SO in most cases the appropriatesolution to the problem will be either repair ofa wire orreplacement of the sensor.
 
 ### Check
-`honda_civic_en_7643845d` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 4.43and 4.44
 
@@ -4743,7 +4404,6 @@ coolant temperature sensor makes it difficult to position probes of the meter on
 the sensor to the ECM.
 
 ### Replacement
-`honda_civic_en_e3748b50` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning:Wait until the thisprocedure. engine has cooled completely beforebeginning
 
@@ -4761,12 +4421,10 @@ and remove the IAT sensor.
 59 Installation is thereverse of removal.
 
 ### General description
-`honda_civic_en_5aea1f66` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 60 The Vehicle Speed Sensor (VSS) is located on the transaxle. This sensor produces is a a pulsing permanent voltage magnetic whenever variable vehicle reluctance speed is over3mph. sensor that These pulses are translated by the ECM and provided for other systems for fuel and transaxle shift control.
 
 ### Check
-`honda_civic_en_a62e4f11` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 61 To check the vehicle speed sensor, remove the electrical connector in the wiring harness atthesensor. Using a voltmeter, check forv voltage
 no voltageavailable, check for an open circuit between the VSS and the fuse box. Using an ohmmeter, check the black wire of the connector for continuity to ground.
@@ -4774,18 +4432,15 @@ no voltageavailable, check for an open circuit between the VSS and the fuse box.
 62 Raise the front of the vehicle and place itsecurely on jackstands. Block the rear wheels and place the transaxle in Neutral. Connect the electrical connectorto the VSS, turn the ignition to On and backprobe t Whitiveldind, one. wheel steady, rotate the other wheel by hand. The voltmeter should pulse between zero and5 volts. If itdoesn't,replace the sensor.
 
 ### Replacement
-`honda_civic_en_9017001f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 63 To replace the VSS, disconnect the electrical connector from the VSS.
 64 Remove the retaining boltand lift the VSs from the transaxle. 65 Installation is the reverse ofremoval.
 
 ### General description
-`honda_civic_en_10416b40` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 66 The barometric pressure sensor is incorporated into the ECM. In the event the self diagnosis system exhibits a code 13, have the system checked by a dealer service department or other qualified repair facility.
 
 ### General description
-`honda_civic_en_b06b604b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 67 The Lock-up Control Solenoid is a computer controlled output t 7 forthe check and replacement procedures.
 
@@ -4793,7 +4448,6 @@ no voltageavailable, check for an open circuit between the VSS and the fuse box.
 5.1 Gas flow ina typical PCVsystem
 
 ### Referto illustration 5.1
-`honda_civic_en_a6515671` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 illusthteon redtides Crankarbon etiyse vapors. It does this by circulating fresh air from the air cleaner through thi gasesand isthen rerouted blow-by dst components with the engine.
 
@@ -4802,14 +4456,12 @@ illusthteon redtides Crankarbon etiyse vapors. It does this by circulating fresh
 Chapter1. Checking and replacement of the PCV valve is covered in
 
 ### General description
-`honda_civic_en_bb4f9bd3` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 The EGR system reduces oxides of nitrogen by recirculating exhaust gas through the EGR valve and intake manifold into the combustion chambers.
 
 sensordetects theamount of EGR valve lift andsends this information to the ECM. The ECM then compares it with the ideal EGRvalve lift, which is determined by data received from the other sensors. If there's any difference between thetwo, the ECM triggers the EGR control solenoid valve to reduce theamount of vacuum applied to the EGR valve.
 
 ### Check
-`honda_civic_en_105b29f0` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 6.4, 6.7, 6.8, 6.9 and 6.10
 
@@ -4824,7 +4476,6 @@ Referto illustrations 6.4, 6.7, 6.8, 6.9 and 6.10
 16 Plug in the electrical connector.
 
 ### EGR control solenoid
-`honda_civic_en_a6adcb6f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refertoillustrations6.18
 
@@ -4834,7 +4485,6 @@ Refertoillustrations6.18
 20 Installation is thereverseof removal.
 
 ### General description
-`honda_civic_en_f285aeac` | civic | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 1 The fuel evaporative emissions control system absorbs fuel the engine
 
@@ -4855,7 +4505,6 @@ tank, canister, 4 Another regulates based fuel fuel on cut-off the vapor pressur
 7.13 With the engine warmedup, check for vacuum at the number 7 hose
 
 ### Check
-`honda_civic_en_9c2cf57b` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Referto illustrations 7.8,7.13 and 7.16
 
@@ -4882,7 +4531,6 @@ checkthe ELD circuit between the engine and the alternator).
 5 voltage. Now, It should1.5 to2.5volts. turn the switch to highbeam and check the amount of 6 If the test results are not correct, replace the ELD unit. This requires changing the entire main fuse box. The ELD unit is not available separately.
 
 ### 9 Engine Control Module (ECM) general information and replacement
-`honda_civic_en_86fde332` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Referto illustration 9.4
 
@@ -4894,17 +4542,14 @@ rett Place the carpet 4 Remove the kick plateto expose the relay panel and the E
 7 Carefully remove the ECM. Note: Avoid any static electricity damage to the computer by grounding yourselfto the body before touching the ECM and using a special anti-static pad to store the ECM on onceitisremoved.
 
 ### 10 Catalytic converter
-`honda_civic_en_687c9679` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note: Because ofa Federally mandated extended warranty which covers emissions-related components such as the catalyticconverter, chec with xealer service department before replacing theconverter
 
 ### General description
-`honda_civic_en_c4978909` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 The catalytic converterisan emission control device added to the The well as three-way hydrocarbons (HC) catalyst lowersthe and carbon levels monoxide (CO). of oxides of nitrogen (NOx) as
 
 ### Checking
-`honda_civic_en_7f135ff9` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 facility for diagnosisand repair.
 
@@ -4915,7 +4560,6 @@ facility for diagnosisand repair.
 以b e about 2000 rpm. c） If there is no restriction, the gauge will quickly drop to not more than 2 in-Hg ormoreabove itsnormal reading. d) Ifthe gauge does not show 5in-Hg or more above its normal reading, orseems tomomentarily hover around its highest reading for a moment before it returns, the exhaust system, or the converter, is plugged (or an exhaust pipe isbentordented, orthe core inside the muffler has shifted).
 
 ### Torque specifications
-`honda_civic_en_5569f70e` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Lower transaxle-to-engine bolts Frontbolt. Rearbolt   ·   47   ··········. 61
 per  !     47
@@ -4924,14 +4568,12 @@ Front stopper bracket through bolt   54 Shnrt bolt. · ... ... 33
 Clutch cover bolts. Engine stiffeners (D16Z6) Splash shieldbolts     .. .    ·.·...· ·...! 47 84in-lb 108in-l Short bolts. Long bolts  … ... 17   33
 
 ### Section
-`honda_civic_en_9dd4a51b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 a .i  6374
 Manual transaxle overhaul   1 general information
 Shift lever and ...   linkage - removal and installation..
 
 ### Ft-ibs (unless otherwise indicated)
-`honda_civic_en_ba9efc33` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 ![](images/0d935cabcdc8a1232411091a8ac499b32f7569ee021b811ae15c0f73cfa602ec.webp)
 
@@ -4989,7 +4631,6 @@ A
 23 With the transaxle removed, the clutch components are now accessible and can be inspected. In most cases, new clutch components should be routinely installed when the transaxle is removed (see Chapter 8).
 
 ### Ft-ibs (unless otherwise indicated)
-`honda_civic_en_c53d0738` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5746c4764f63634f685e0a3142dde4904ed86b6008abd38db3444d33dbde7e9b.webp)
 6.18 Remove these upper transaxle-to-engine mounting bolts (arrows)
@@ -4998,7 +4639,6 @@ A
 6.20 Remove the three rear transaxle mounting bracket bolts (arrows)
 
 ### Installation
-`honda_civic_en_cfb6f6af` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 24 Ifremoved, installthe clutch components (see Chapter 8).
 
@@ -5015,7 +4655,6 @@ A
 30 Install the splash shield and tighten the bolts to the torque lister
 
 ### Torque specifications
-`honda_civic_en_92b34ed5` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Shift lock solenoid self-locking nuts rd   bolts
 Engineatstranmountblt .. · .  ··.. .
@@ -5031,7 +4670,6 @@ Long bolts
 Lock-up control solenoid resistance Shift lock solenoid clearance.   3/32±1/64-inch 14.1to 15.5ohms (at 77-degrees F
 
 ### Section
-`honda_civic_en_45020f77` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 iedst  ·. 7453
 Shift indicator panel  ·..·..  ·  - adjustment  ·.·..
@@ -5053,7 +4691,6 @@ Ft-Ibs (unless otherwise indicated)
 5 Verify that there's play in the throttle control lever while depressing the accelerator pedal to the full-throttle position. 6 O Disconnect the end ofthe throttle control cable from the throttle control lever. 7 Verify that the throttle control lever moves smoothly. 8 Reconnectthe throttle control cable to the throttle control lever.
 
 ### Adjustment
-`honda_civic_en_2362a30d` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 9 Follow Steps1 and2above. near body.
 12 While pushing the throttle control lever to the fully-closed tightengteuelllay from the throttle control cable by
@@ -5061,7 +4698,6 @@ Ft-Ibs (unless otherwise indicated)
 15 After tightening the locknuts, check the operation of the throttle control cable.
 
 ### Replacement
-`honda_civic_en_7b0b0efd` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 4.2and4.3
 
@@ -5071,7 +4707,6 @@ the possibility ofaccidental deployment of the airbag, which could cause persona
 1 Remove the center console (see Chapter 11). remove the. 3 Unboltthe shiftcable bracket (see illustration). 45 t floorpan. 6 Remove the control leverfromthe control shaft, thenremove the shiftiagle. Be careful not to bend the cable when removing or 7 Installation is the reverse of removal. Be sure to adjust the shift cable when you're through.
 
 ### Adjustment
-`honda_civic_en_7529249b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 4.10
 
@@ -5082,7 +4717,6 @@ the cable adjuster (seeillustration 4.2).
 If any gear
 
 ### 5 Shift indicator panel adjustment
-`honda_civic_en_b8f77866` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Neutral. If they'renot aligned, adjust the shift indicator panel.
 2 Remove the center console (see Chapter 11).
@@ -5091,7 +4725,6 @@ Neutral. If they'renot aligned, adjust the shift indicator panel.
 Install the console (see Chapter 11).
 
 ### Check
-`honda_civic_en_26c03527` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations6.2, 6.3a and6.3b
 
@@ -5114,7 +4747,6 @@ forthe 14-
 4 福 Ifthere's no continuity within the range of shift lever freeplay at each shift lever position, adjust the position ofthe console switch.
 
 ### Adjustment
-`honda_civic_en_1a566f33` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 5 Move the shift lever to the Park position and loosen the switch mounting nuts (see illustration 6.11).
 6 Slide the switch toward the Drive positions until there's continuity between terminals 7 and 10, within the range of shift lever freeplay (about 5/64-inch).
@@ -5122,7 +4754,6 @@ forthe 14-
 8 If there's still no continuity at each shift leverposition, inspect the shift lever detent and bracketfor damage. If they're undamaged, replace the shift position console switch.
 
 ### Replacement
-`honda_civic_en_e5d1166c` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 6.11
 
@@ -5141,7 +4772,6 @@ Referto illustration 6.11
 .3b Continuity table for the gear position switch (with cruise control
 
 ### 1 General information
-`honda_civic_en_bd0fa4ab` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 five-speed
 
@@ -5150,12 +4780,10 @@ Due to the complexity of the automatic transaxles covered in this necessary only
 武shop.
 
 ### 2 Diagnosis general
-`honda_civic_en_a29dcc16` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note: Automatic transaxle conditions: poorengine performance, malfunctions may improper be adjustments, causedbyfive general hydraulic 容
 
 ### Preliminary checks
-`honda_civic_en_4d32eded` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 temperature. 1 Drive the vehicle to warm the transaxle to normal operating
 
@@ -5167,7 +4795,6 @@ c) Ifthogluidi the foaming, fluid, dra igdtetasal then check
 tioning, 武 propelyte linkage seectrei linkage
 
 ### Fluid leak diagnosis
-`honda_civic_en_05706652` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 following
 
@@ -5186,12 +4813,10 @@ flange must be straightened.
 following they following
 
 ### Case leaks
-`honda_civic_en_bfc5c75a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 wi leaking,the casting is porous and 19ndMak.e sure the oil cooler hose fittings are tight and in good
 
 ### Check
-`honda_civic_en_2631bd58` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Chapter Warm linkage depressing
 linkage,
@@ -5201,7 +4826,6 @@ in this Chapter's Specifications.
 30-degrees 34Refil he transaxle with the specified amount of lubricant (see 3530
 
 ### 7 Manual transaxle overhaul general information
-`honda_civic_en_58483a0f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Overhauling disassembly Numerous necessary,
 
@@ -5222,7 +4846,6 @@ eplaceitithe dushd, tgathefront end of the extension rodand O-rings reverse bush
 ofthe shift
 
 ### Check
-`honda_civic_en_07b7f2b8` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Referto illustrations 5.4a and 5.4b
 
@@ -5234,7 +4857,6 @@ ohmmeter or continuity and hinak upan
 illustration). Reverse, continuity. continuity; me below). back-up coming
 
 ### Removal
-`honda_civic_en_841dac59` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Peterar illustrations Disconnect battery.
 
@@ -5253,14 +4875,12 @@ inner bags clean. 16-valve stiffeners stiffeners L-shaped transaxle
 2.4 Insert the tip ofa large screwdriveror prybar behind the oil seal and very carefully pryitout
 
 ### 一 General information
-`honda_civic_en_f2b2d22c` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 five-speed Thevemianua trareaxiy this manual are equipped witheither a four-speed Service Chapter
 
 ential assemblies. aluminummanyal housing transaxle containing is a compact, both the transmission two-piece, lightweight and differ
 
 ### 2 Driveaxle oil seals replacement
-`honda_civic_en_54db7a6d` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 2.4 and 2.6
 
@@ -5270,7 +4890,6 @@ illustration).
 completely
 
 ### 3 Transaxle mount check and replacement
-`honda_civic_en_1381ce8c` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 3.2
 
@@ -5284,7 +4903,6 @@ L S
 Warning:
 
 ### 4 Shift lever and linkage removal and installation
-`honda_civic_en_1665574d` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 "change "torque models, "change "extension Unscrew Chapter Remove illustrations). disconnect transmission,
 illustration). disconnect transmission, illustration), spring disconnect illustration). Remove change
@@ -5306,7 +4924,6 @@ must come diaphragm illustration)
 vacuum disconnect vacuum vacuum, 武
 
 ### Two-way valve
-`honda_civic_en_844da3f4` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 7.18
 
@@ -5321,12 +4938,10 @@ Measure voltage black/yellow
 in-Hg vacuum,
 
 ### General information
-`honda_civic_en_f4b89a18` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 detects charging trouble with the driveability ELD system will occurring curring when the engine is idling. Any
 
 ### Check
-`honda_civic_en_60ccc9d7` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Disconnect illustration) between terminals) battery harness
 
@@ -5364,7 +4979,6 @@ reference running), illustration). There
 cnecking department toos checking.
 
 ### Component replacement EGR valve
-`honda_civic_en_17639118` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 6.13 12 Unplug the electrical connector for the EGR valve lift sensor
 
@@ -5374,7 +4988,6 @@ y4.50Check wir r 5.0volts
 Damage 47 Installation is the reverse of removal.
 
 ### Check
-`honda_civic_en_964fe25e` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illustrations 4.50, 4.51a and 4.51b
 
@@ -5393,7 +5006,6 @@ Slowly change increase smoothly voltage readings cn sensor.
 trouble codes and ee in any of the TPS circuits will set default value a Code 7. for Once Tea
 
 ### Intake Air Temperature (IAT) sensor Check
-`honda_civic_en_811a71c6` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 4.54
 
@@ -5404,7 +5016,6 @@ illustration). incorrect, sensor.
 shop, malfunctioning.
 
 ### Replacement
-`honda_civic_en_3ef735a3` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 5758 Unpluvthe electrical tek screws
 
@@ -5424,7 +5035,6 @@ Because loosen (assuming damage burn following Discnnnant
 Referto illustration 4.17
 
 ### Replacement
-`honda_civic_en_93150a70` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 stereo battery.
 necting battery. activation
@@ -5437,7 +5047,6 @@ reinstalled, sensor Reconnect harness. connector lead to the main
 4.27 Install a hand held the MAP sensor and first, withoutvumuto depending on the altitude
 
 ### General description
-`honda_civic_en_320badaa` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 22 The Manifold Absolute Pressure changes resulting changes intake information sensor delivery voltage information throttle
 
@@ -5456,7 +5065,6 @@ illustration). signal 28 Apply witonr vacuum Voltage to theMAP sensor
 readings incorrect, increases. sensor
 
 ### Replacement
-`honda_civic_en_a52b7993` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 29MAP Disconnect the electrical sensor. connector and the vacuum hose from
 30VethoMAP sensor. bolts that retain the MAP sensor to the firewall and
@@ -5477,7 +5085,6 @@ important emissions information. Diagram, emissions emissions servicing
 routing diagram hose always information.
 
 ### 2 Programmed information Fuel Injection (PGM-FI) system 1 general
-`honda_civic_en_cc4b4aeb` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 2.1
 
@@ -5518,7 +5125,6 @@ em ha reassembled illustration).
 ZU ime remainderof installation is the reverse of removal.
 
 ### 15 Starting system 1 general information and precautions
-`honda_civic_en_72b435b7` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 quicklegt starting system isto turn over the engine transaxles
 
@@ -5567,7 +5173,6 @@ alternator diode(s), malfunctioning.
 Refertoillustration 13.3
 
 ### 13 Alternator = removal and installation
-`honda_civic_en_0eb96b5e` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 ![](images/4774748105c28f70ae9518fcce28fb15192b8feb5b926d0daf268358088b7ec0.jpg)
 14.3 Once the rear cover is removed, remove the two screws (arrows) that retain the brush holder
@@ -5593,7 +5198,6 @@ ChapAtrer he alternator is installed, adjust the drivebelt tension (see
 alternator to verify proper operation of the
 
 ### 10.2 Tools needed to check and adjust the ignition timing
-`honda_civic_en_ba341fac` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Vacuum Vacuum shapes and sizes are available for this
 2 Inductivepick-up timing light Flashes a bright, beam according supplied with thelight
@@ -5611,7 +5215,6 @@ not to create an extreme angle
 timing the
 
 ### 10 Ignition timing adjustment
-`honda_civic_en_46405eb0` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 10.2, 10.4and 10.5
 
@@ -5624,21 +5227,18 @@ under the hood and ignitiontrtng Several special tools will be needed instructio
 illustration), white/green temperature, timing Specifications) stationary timing If distributor
 
 ### 11 Charging system general information and precautions
-`honda_civic_en_81cccef2` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 alternator, battery, wiring charging e aiternator control system within the ECU changes the voltage reading to the resistance value listed in this Chapter's Specifications. temperature 70-degrees resistance will vary samewat with thel 8 If the coil fails either check, replace it with anewpart.
 
 ![](images/04af9bf67d8675f5902480a44fc27da0902178def15ded761b815ab0af593d35.webp)
 
 ### Replacement
-`honda_civic_en_b2998bd8` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 7.10 and7.11
 
 disconnecting battery. Remove illustration). 112 Remove Installation illustration).
 
 ### Check
-`honda_civic_en_9b6f9a49` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 8.3,8.5 and 8.7 123 Wi cover. not running), checkfor
 
@@ -5657,7 +5257,6 @@ k the circuit between the
 4.2 Remove the two nuts (arrows) anddetach detach the hold-down clamps
 
 ### 1 General information
-`honda_civic_en_ad4cdabd` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 武 electricalsysteomserve the following precautions when working on the
 
@@ -5669,7 +5268,6 @@ the be battery clamps.
 information beginning Chapter.
 
 ### 3 Battery cables check and replacement
-`honda_civic_en_1822d4a9` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 the battery damage, battery starting IvU
 
@@ -5680,7 +5278,6 @@ the battery damage, battery starting IvU
 ![](images/16849d87f30566226dd84049617036b46c1abaf881d102d82af52d9f295563fe.jpg)
 
 ### 4.3 If available, attach a battery strap and liftthe battery straight up
-`honda_civic_en_65ff99c0` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 theft disconnecting system, make the battery. sure you have the correct activation code before
 
@@ -5697,7 +5294,6 @@ reaches the connecting battery piostaitewucabvi having to the attery,make sure t
 oumnect tne positive cable first,followed bythenegative cable.
 
 ### T Battery 1 removal and Installation
-`honda_civic_en_cc5236d5` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer toillustrations4.2and4.3
 
@@ -5715,19 +5311,16 @@ battery.
 Installation isthereverse of removal.
 
 ### 5 lgnition system general information
-`honda_civic_en_47a75441` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 illustration). between 4 Using an Itshouldbe ohmmeter, between measure the resistance of the IAC valve (see 8 and15 ohms. Check for continuity There should be
 
 readings have theECM
 
 ### Replacement
-`honda_civic_en_a23cde8a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 67b Remove mounting lift it from ring. 8 Installation is the reverse of removal. Be sure to install a new O
 
 ### 17 Exhaust system servicing general information
-`honda_civic_en_ee040525` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 17.1 and 17.7
 
@@ -5736,7 +5329,6 @@ driving underthevehicle, makesure it issecurely supportedon iackstands. working
 connecting
 
 ### Muffler and pipes
-`honda_civic_en_8eaa0072` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 电化
 
@@ -5757,7 +5349,6 @@ d Apeyaniigontoth threads of all exhaust system
 e) underbody overheating insulation. particularly shield. close attention to the catalytic converter andheat
 
 ### Catalytic converter
-`honda_civic_en_c5721017` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 coredd:The conveyrter geus very hot during operation. Make sureit's
 
@@ -5773,14 +5364,12 @@ Periodically, fasteners. 6therRemovge the heat shieldand inspect the converter f
 stethoscope working clicking changes
 
 ### 15 Fuel injectors check, removal and installation
-`honda_civic_en_49aab01a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 area, a heater Since being
 immediately fuel-soaked Mop immediately disconnected,
 onstem,.wear information). safety glasenyandrtvra alssintyf wrkonhutshe
 
 ### Check
-`honda_civic_en_0328daa2` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Referto illustrations 15.2, 15.3 and 15.5
 
@@ -5816,7 +5405,6 @@ build-up cleaner, toothbrush.
 Sections. 7 Theremainder of the system checks can be found in the following
 
 ### Check
-`honda_civic_en_82dfb526` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/99f802efa9d7fd5f579ecfbe8a2cb05f1ec142b90acc4dd189093d98b7edf16b.jpg)
 13.13 Remove the four nuts (arrows) and separate the throttle body from the airintake plenum
@@ -5824,7 +5412,6 @@ Sections. 7 Theremainder of the system checks can be found in the following
 i battery. make throtteoe theirductthat connects the air cleaner assembly tothe 12tch body. Plug the lines to Unscrew mounting ufodgasenemovrthe 武
 
 ### 14 Fuel pressure regulator check and replacement
-`honda_civic_en_ea1084ef` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 vacuum
 
@@ -5842,14 +5429,12 @@ O 1 a buiia-up ot sludgeis evident, try removing carburetor cleaner ora similar 
 If cieaning fails to remedy the problem, replace the throttle bodv.
 
 ### Removal and installation
-`honda_civic_en_2c2b4b28` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 waridu: Wait untilthe engine iscompletely cool before beginning this
 
 8 Detach the cable from the negative battery terminal. Caution: If
 
 ### Check
-`honda_civic_en_1d8b2648` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 14.2, 14.3a, 14.3band 14.5
 
@@ -5863,7 +5448,6 @@ sure you battery. have the correct activation code before disconnecting the 2rac
 ofremoval.
 
 ### Adjustment
-`honda_civic_en_21c5318a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To adjust the cable (see illustration):
 b Liftup on the cable toremove any slack. Turn the adusting nut until itis 1/8-inch (3 mm) away from the
@@ -5872,14 +5456,12 @@ d
 e) adjust the
 
 ### 11 Fuel injection system 1 general information
-`honda_civic_en_58306706` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 11.1
 
 illustration) three sub-systems: delivery. along temperature Sensor Pressure information, systemare
 
 ### Air intake system
-`honda_civic_en_7daf9277` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 cleaner, anththteina
 
@@ -5900,13 +5482,11 @@ from tighten the locknut
 ![](images/fb38b99b55c3bbdd8a3278e9785de9e76cd27b4ffffe02d18ba5731a8f90675e.jpg)
 
 ### 7.7a Remove the retaining screwsand separate the upper cover from the inside of the wheel opening
-`honda_civic_en_7428dece` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/dca22750ffc9af71fdbd6fb48368848e3f6b140cc76f067d0ce3091321d9ea68.jpg)
 7.7b Remove the lower outer cover
 
 ### Removal and installation
-`honda_civic_en_d86afaa6` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: is Mop immediately fuel-soaked they to disconnected, B
 
@@ -5914,7 +5494,6 @@ Warning: is Mop immediately fuel-soaked they to disconnected, B
 then lines, Twisting fittings O-rings
 
 ### Repair
-`honda_civic_en_d8b7dde0` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 fitingsee Sretion ahe fuel pressure before servicing fuel lines or damage factory
 
@@ -5924,7 +5503,6 @@ ste disassembly, evidence the egdamses disconnected sending
 damage deterioration.
 
 ### Fuel tank - removal and installation
-`honda_civic_en_169692c9` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 7.4, 7.7a, 7.7b, 7.7c, 7.8 and 7.10 weuned seteae feating linemar manufacturer's emission lispeisialeltsrts warning: flammable, flames area, being on immediately disconnected, information).
 
@@ -5938,7 +5516,6 @@ c) If always Section.
 If siphoning siphoning
 
 ### Flexible hose
-`honda_civic_en_7c2e7e40` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: hoses their
 
@@ -5947,7 +5524,6 @@ battery. battery.
 If battery voltage Working continuity battery battery between continuity,
 
 ### 4 Fuel pump = removal and installation
-`honda_civic_en_6d7a764b` | civic | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Refer to illustrations 4.44.6,4.74.84.9 ad4.2
 
@@ -5967,7 +5543,6 @@ battery battery. disconnecting
 4.7 Lift the pump from the access hole. Be sure to angle it slightly to avoid damaging the pump screen attached to the bottom
 
 ### 5 Fuel level sending unit check and replacement
-`honda_civic_en_bc94ff96` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 5.2,5.5, 5.8 and 5.9
 
@@ -5975,7 +5550,6 @@ Referto illustrations 5.2,5.5, 5.8 and 5.9
 4.8 Remove the blue protective connector from the main electrical connector
 
 ### 2 Fuel pressure relief procedure
-`honda_civic_en_f92d7f8f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 2.2
 
@@ -5986,7 +5560,6 @@ S filter.race a snop rag over the service bolt, located n top of .the fuel
 holding fitting. Allow sealing
 
 ### Pressure check
-`honda_civic_en_b06d734d` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 3.4a and 3.4b海港公公司
 
@@ -5997,13 +5570,11 @@ diameter/1 form flow. location. directly alignment
 1o0
 
 ### Chapter 3 Cooling, heating and air conditioning systems
-`honda_civic_en_1567a066` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d9a1e20736d092d0cfbbae6e6f687021335f7e4fbdbabfd8a7702bab2d9fa49e.jpg)
 contaminants moisture into the air conditioning system
 
 ### 19 Air conditioning evaporator removal and installation
-`honda_civic_en_68c2f661` | civic | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Referto illustration 19.3
 Warning conditioning fittings conditioning EPA-approved recovery/recycling
@@ -6027,7 +5598,6 @@ conditioning receiver-driver receiver-driver, fittings receiver-driver
 conditioning illustration). refrigerant bubbles conditioning facility.
 
 ### Heating systems
-`honda_civic_en_e2fdb4b7` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 stemfrom anyoming out of the heater vents isn't hot, the problem could following
 
@@ -6042,7 +5612,6 @@ a) turn tigntion ON and activate the fan control. Place yourearat areaudible. Ca
 b） S damp, shops
 
 ### 16 Air conditioning receiver-driver removal and installation
-`honda_civic_en_c4227f69` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning conditioning fittings conditioning
 dischargedi prote EPA-approvedi conditioning recovery/recycling reenaea conditioning
@@ -6054,7 +5623,6 @@ battery. before disconnecting receiver-drier Vetlii (gse lutrtio ang) from the e
 4he vehicle. Remove the receiver bracket bolt and lift the receiver-drier out of 5 Installation isthereverse of removal. dealership by conditioning
 
 ### 17 Air conditioning compressor removal and installation
-`honda_civic_en_39a9de4f` | civic | pdf_manual | tier:4 | lang:en | layer:steering | p:1 | doc_type:service_manual
 
 Referto illustrations 17.7 and 17.9
 
@@ -6080,7 +5648,6 @@ brackunbnlt theve itfromth veicle. illustration) from the mounting
 disconnecting battery. blower illustration). 340 Disconnect Remove t illustration). replacing
 
 ### 13 Heater and air conditioning control assembly removal and installation
-`honda_civic_en_e15499bd` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 13.4, 13.5a,
 
@@ -6091,7 +5658,6 @@ illustrations).
 67 Installation conditioning of the heater and
 
 ### 14 Heater core - removal and installation
-`honda_civic_en_7ecdd32f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 14.3, 14.4, and 14.10 Warning
 
@@ -6106,7 +5672,6 @@ from
 battery conditioning, system conditioning
 
 ### 6 Coolant reservoir removal and installation
-`honda_civic_en_29f23e08` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 removing the
 
@@ -6120,7 +5685,6 @@ ht and chafing.
 5 Installation is the reverse ofremoval.
 
 ### 7 Oil cooler removal and installation
-`honda_civic_en_4eb41576` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Wrarning: Allow the engine to coolcompletely before beginning this
 
@@ -6130,7 +5694,6 @@ Wrarning: Allow the engine to coolcompletely before beginning this
 tt coolant leaks.
 
 ### 8 Water pump check
-`honda_civic_en_e54cbfd9` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 8.3
 
@@ -6141,7 +5704,6 @@ tustrat.Witfth alar timing andcfal miror to find the hole on the water pump from
 bearings howling slippage, sound, for waterpump bearing failure.
 
 ### 9 Water pump replacement
-`honda_civic_en_36dab1fe` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 9.6 and 9.11
 
@@ -6191,7 +5753,6 @@ rolling.
 conditioning conditioning diagnosed dealership charge facility.
 
 ### Replacement
-`honda_civic_en_1292ebe9` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illstrations4.8a48b, 4.9,4.42 and 4
 
@@ -6203,7 +5764,6 @@ and disconnect insert a smtall screwidriyer into the connector to lift the lock 
 ![](images/2f5285c188b7be07bb094abef79ae334b25cc97a6b62b84959563212931cb85b.webp)
 
 ### 1.2 Pellettype thermostat
-`honda_civic_en_c91e4edf` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1234 Flange seal Flange Piston Nut 56 Valve seat Teflon seal
 
@@ -6214,12 +5774,10 @@ and disconnect insert a smtall screwidriyer into the connector to lift the lock 
 11 Frame
 
 ### Heating system
-`honda_civic_en_b83bace5` | civic | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 heating connecting boting thenhandoerche cooling system and the heater/air conditioning through activated, blower forces
 
 ### Air conditioning system
-`honda_civic_en_7125220c` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 radiator, conditioning condenser Tog a receiver-drier
 
@@ -6229,7 +5787,6 @@ radiator, conditioning condenser Tog a receiver-drier
 throu of the passenger compartment radiator-in-reverse), transferring taking
 
 ### 2 Antifreeze = general information
-`honda_civic_en_2b12a803` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 immediately Antifreeze may Many safely.
 
@@ -6242,7 +5799,6 @@ BeTore adding antifreeze, checkall hose connections, because VLV
 50-percent antifreeze-to-water antifreeze, en antifreeze. mixture antifreeze adding Hydrometers manufacturer's
 
 ### Check
-`honda_civic_en_a882bc8f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 temperature assuming thermostat ritchle system temperature thermostat a
 thermostat preventing escaping
@@ -6251,7 +5807,6 @@ Caution:
 ![](images/ec8bca31da0eddb810dd6022f72ef9928d6f681c1101d3f7baac1e4b46326ce7.jpg)
 
 ### 25.13 Lay the Plastigage strips on each rod bearing journal, parallel to the crankshaft centerline
-`honda_civic_en_0f5ae5e2` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Plastigage connecting
 
@@ -6264,7 +5819,6 @@ between
 tapered. clearance Plastigage was was measured. wider at one end than Also, recheck the the journal other, the journal may be diameter. If the
 
 ### Final connecting rod installation
-`honda_civic_en_59741227` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 rod bearing n
 
@@ -6278,7 +5832,6 @@ connecting three
 25.17 Measuring the width of the crushed Plastigage to determine the rod bearing oil clearance (be sure to use the correct scale 1 standard and metric ones are included)
 
 ### 26 Initial start-up and break-in after overhaul
-`honda_civic_en_854cc045` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 warnint: Have a fire extinguisher handy when starting the engine for
 
@@ -6300,7 +5853,6 @@ the ptesa s Specifications. Bolteai
 24.2b Bereto the seal and
 
 ### 25 Pistons and connecting rods installation androd bearing oil clearance check
-`honda_civic_en_2396a14f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 dr 25.3c, 25.4,25.5,25.9,25.11, 25.13
 
@@ -6309,7 +5861,6 @@ Crinrne bent hne piston/connecting thest top D ngegen
 during bearing connecting bearing They
 
 ### Connecting rod bearing oil clearance check
-`honda_civic_en_e0dba67c` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 fingesoandathtsfo from your of theanewch bearing the bearings. inserts with your
 
@@ -6326,7 +5877,6 @@ z5.3a Rod bearing e letters the (verticalnglumn) are stamped onto the crankshaft
 14 Repeat the procedure for the remaining pistons and rings.
 
 ### 23 Crankshaft installation and main bearing oil clearance check
-`honda_civic_en_4dd8f74a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refertoilu.2. 2 Position the engine with the bottom facing up.
 
@@ -6340,7 +5890,6 @@ d bearings fck
 23.5c The crankcase journal designations are stamped onto the engine block
 
 ### MAIN JOURNAL CODE LOCATIONS (NUMBERS OR BARS)
-`honda_civic_en_5ab095b2` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 bearing large corresponding bearing bearing bearings illustrations).
 
@@ -6362,7 +5911,6 @@ egt installed, the main
 cases, shop bearing
 
 ### 20 Main and connecting rod bearings inspection
-`honda_civic_en_d4571a26` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 20.1
 
@@ -6377,7 +5925,6 @@ R thoroughly assembly. recommended. Frequent and keep and everything regular eng
 2 bearings, bearing Eventually loosen bearings forming bearing bearing starvation. bearing failure. bearing
 
 ### 21 Engine overhaul reassembly sequence
-`honda_civic_en_520fc95b` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 necessary haing al the following
 
@@ -6418,7 +5965,6 @@ during honing doesn't pick-up used show
 Wrap
 
 ### 18 Pistons and connecting rods inspection
-`honda_civic_en_799f50a8` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 18.4a, 18,4b, 18.10and 18.11 piston/connecting rings Always 器 will have to beused.
 
@@ -6460,7 +6006,6 @@ p
 ![](images/249b9730522f7948b2493ee99cfe718f52665aece7a8ed8e0e002a80c8466f9b.jpg)
 
 ### 12.4 Installation of valve guide seals. Selecta driver, socket or pipe ofthe proper diameter so the 
-`honda_civic_en_8c499b27` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 3 Install the spring seats beforethe valveseals.
 
@@ -6483,7 +6028,6 @@ camshaft, Chapter
 13.1 the ridge from the top of each A ridge reamer is required to cylinder remove do this before removing the pistons!
 
 ### 13 Pistons and connecting rods removal
-`honda_civic_en_9c05458a` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refer to illutraions13.1141.6 Note: Prior to removing the piston/connecting thperoylinderhead,he Chapter
 
@@ -6504,7 +6048,6 @@ then 13.4 connecting on the Use a connecting center rod on punch thg rod ring ar
 manner, being cleaning
 
 ### Cleaning
-`honda_civic_en_48ed462b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 traces mating very
 
@@ -6524,7 +6067,6 @@ valve solvent mixing thoroughly. keepers retainers one
 remove stems.
 
 ### Cylinder head
-`honda_civic_en_9959ecec` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 二 o
 leakage areoundct
@@ -6535,7 +6077,6 @@ T straightedge feeler Chapter's warpage illustration). warpage shop. a.thnhn com
 金化馆
 
 ### Valves
-`honda_civic_en_407ac7b2` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 deformation, illustration). indicates shop.
 
@@ -6556,7 +6097,6 @@ transmission damage illustration). connect Take Warning: Remove driveshaft(s) wo
 6.30 Location of the rear engine mount bolt (arrow) and engine mount
 
 ### Installation
-`honda_civic_en_756a6ded` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 35 Chekthethm.
 damaged, and transaxle mounts. if they're. worn or working
@@ -6569,7 +6109,6 @@ accessories, of all
 42hfte aroaditining bythemop thiat discharged, have.it evacuated, discharged
 
 ### Engine rebuilding alternatives
-`honda_civic_en_53dbe498` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 piston/connecting assemblies factors, consideration prachinher Other availability, considerations
 
@@ -6588,7 +6127,6 @@ installation of manifolds and incorporated throughout. The Civa external partsis
 discuss situation alternative best ncvessaiy. forytouand dealers shops, replacement parts. rebuilders before ordering or purchasing
 
 ### Key interlock system
-`honda_civic_en_62151bf9` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 小beingkey
 
@@ -6602,7 +6140,6 @@ must be
 ![](images/455bd8b3fc4abb677b38f9f8bc5a081205143bbb9639356950ee9ffff53a0f86.webp)
 
 ### Key interlock solenoid
-`honda_civic_en_6f635a51` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 7.6
 
@@ -6611,7 +6148,6 @@ harness. 6 Unplug.the7-pin'connector (see illustration) from themain wire key co
 8onnVeteid ttht thand key eyteran'taibe removed when the battery is key be steering
 
 ### Shift lock solenoid
-`honda_civic_en_ad6e38f3` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 7.11 Remove
 illustration) Using
@@ -6624,14 +6160,12 @@ harness damage Powertrain Reversing damage
 ![](images/1d64e048b01f411f12d3c44fe763b3b6d1dff1f5c35b2bff9492a6db6a8f214d.jpg)
 
 ### 8.2 Measure connector the terminals resistance (solenoid between side) each and ground of the electr
-`honda_civic_en_c12efa24` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 and dusan thm oved. mounting surface and oil passages; make sure all dirt base torque
 thoroChlylithe electrconetorfor dtrt corrosion and oil;clean it
 e above and make sure the
 
 ### Removal
-`honda_civic_en_d482fb58` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Referto illustrations 9.7, 9.20, 9.22, 9.26 and 9.27 武 Startereethe stster motor cables and cable bracket from the Usea thetra xon connector lock-up
 
@@ -6656,7 +6190,6 @@ stiffener
 ![](images/c5751fcaa10a2bf71afbaef03d42744ca6dc9ae71ae5bd5324efb0f8d3a27e9d.webp)
 
 ### Contents
-`honda_civic_en_bcc5be8d` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 #
 
@@ -6674,7 +6207,6 @@ Starter/clutch interlock switch    ·  11 1 check, replacement
 Transaxle lubricant level check and adjustment.     9   See Chapter 1
 
 ### General
-`honda_civic_en_a1395347` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Clutch pedal freeplay Clutch pedal disengagement height.   3-1/4 inches
 Clutch pedal standard height     1/2 to 3/4 inch
@@ -6700,7 +6232,6 @@ remove feed line and use a flare-nut wrench to loosen the pressure line fitting 
 武 retaining Working King undeithet illustration) dash, unsdrewtvetwoclutch.aster cylinder
 
 ### 4 Clutch release cylinder 1 removal and installation
-`honda_civic_en_e28690d6` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 battery. sry.Cm,tmn fsthe disconnecting battery. Disconnect hose illustration). illustration). 4 Remove the two release cylinder mounting. bolts (see 5 Remove the release cylinder.
 
@@ -6710,7 +6241,6 @@ eutst pedal. Use anew cotter pin to locking
 cations conforming
 
 ### Installation
-`honda_civic_en_1f1fffe7` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 release
 
@@ -6732,7 +6262,6 @@ completely
 6.13 Center the clutch disc in the pressure plate with a clutch alignment tool
 
 ### Inspection
-`honda_civic_en_50cd3e7b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 6.9 and 6.11
 
@@ -6746,7 +6275,6 @@ disc along
 diaphragm ispringoinders obvious damage, damaged, distortion, replace cracking, the pressure plate. Also check cane is for
 
 ### Installation
-`honda_civic_en_44a35146` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 6.13
 
@@ -6755,7 +6283,6 @@ through side-to-side distorting alignment Specifications.
 H
 
 ### Removal
-`honda_civic_en_920dec9d` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 7.3a and 7.3b
 
@@ -6764,7 +6291,6 @@ c between
 ![](images/9bcd41a8db7f334b781c632e1754b8938b2a8258625d74fa6296329a55661cf6.webp)
 
 ### 8.1 Clutch pedal adjustment details
-`honda_civic_en_883d9090` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1234 LocknutA Clutch pedal switch A LocknutB Clutch pedal switch B
 5 Assist spring
@@ -6782,7 +6308,6 @@ If voltage continuity
 上器
 
 ### Adjustment
-`honda_civic_en_622d3627` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/96a2041a3c71894c303ff740d5fa712d105c4eb33af29ee5c0d2c01ec9b8eaa3.jpg)
 10.2 To prevent the hub from turning while you're loosening it, place a prybar between two of the wheel studs
@@ -6790,7 +6315,6 @@ If voltage continuity
 provided. continuity necessary, t0.s pedal
 
 ### Removal
-`honda_civic_en_1c247228` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 10.1, 10.2, 10.6, 10.7aand 10.7b 武 turning, between lerntwoof th ear.to
 
@@ -6804,7 +6328,6 @@ from the 10.6 Swing vehicle) the hub/knuckle out (away and pull the driveaxle fr
 16 lubricant Retilthechareaxl with the recommended type and amount of
 
 ### Installation
-`honda_civic_en_2d005365` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Lubricate Carefully the lips of the differential seal with multi-purpose differential bearing Chapter's
 
@@ -6815,7 +6338,6 @@ illustraintermediate t steering in the Chnuckle and tighten utstthe lower the ve
 ![](images/7227bca678ab2f06c2dfb2240f1e278c0110a3cfc9b994049af20b971555c3b3.webp)
 
 ### Disassembly
-`honda_civic_en_72bf647b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 12.3a, 12.3b, 12.3c,12.4, 12.5 and 12.6 thedrut axf oth lout clamps and slide the boot towards the centerof illustrations).
 
@@ -6826,7 +6348,6 @@ Referto illustrations 12.3a, 12.3b, 12.3c,12.4, 12.5 and 12.6 thedrut axf oth lo
 ![](images/30a62f969c64af5cead518676956d085c3870ce03e6599edb10224ea9903183c.webp)
 
 ### 12.3c An exploded view ofa typical driveaxle assemblv
-`honda_civic_en_d2fe740c` | civic | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 123 Spring clip Snap-ring Stop-ring
 5 Boot clamp
@@ -6857,7 +6378,6 @@ in 16 the boot by inserting itnthedriveaxle setto a bluntscrewdriver the proper 
 18 Install the driveaxle assembly (see Section 10).
 
 ### Disassembly
-`honda_civic_en_ae7814b0` | civic | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 ixlidStesrogh7 remove the inner CV joint fromthe
 
@@ -6873,7 +6393,6 @@ CV joint boot and the dynamic damper is listed in this Chapter's Specifications.
 21 Cut the boot clamps from the outer CV joint Slide the boot off the shaft. Note: The outer CV joint can't be disassembled or removed from theshaft.
 
 ### Inspection
-`honda_civic_en_116d9740` | civic | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Referto illustration 12.23
 
@@ -6887,7 +6406,6 @@ Referto illustration 12.23
 12.17b ： and flatten the tabs to hold it in place
 
 ### Section
-`honda_civic_en_83ec0e70` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Anti-lock Brake System (ABS) general informationand trouble codes
 Brake check.  ·. 2
@@ -6897,7 +6415,6 @@ Disc brake pads replacement     4
 #
 
 ### Section
-`honda_civic_en_bdffe84b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Drum brake shoes - replacement.
 Fluid level checks   6   See Chapter 1
@@ -6906,14 +6423,12 @@ Parking
 Wheel cylinder-   removal and installation   ...·······..-.
 
 ### General
-`honda_civic_en_35b98634` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Brakepedal Freeplay  ··.·. Height   1/16to 13/64inch Automatic transaxle Manual transaxle.     6-5/16inches
 Parking brake lever travel   .. 6-1/2 inches
 Power brake booster pushrod-to-master cylinder piston.. See Chapter 1 clearance (withavacuum of 30 in-Hg applied to booster)   0.0 to 0.016 (approx.1/64) inch
 
 ### Torque specifications
-`honda_civic_en_d6dbb315` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Brake hose-to-caliper banjo bolt (frontor rear) Front caliper bolts
 
@@ -6936,7 +6451,6 @@ Ft-Ibs (unless otherwise indicated) 25
 displaying blinking can indicate up to three codes. code/sub-code combination, etc. The ABS computer accompanying illustration).
 
 ### 3 Disc brake pads replacement
-`honda_civic_en_1139ef5f` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 asbestos, filtering working circumstances, brake
 
@@ -6988,7 +6502,6 @@ Note: This procedure applies to front and rear discbrakes. 1 Remove the cap from
 3.7c . and lift the caliper from its mounting bracket; hang the caliper out of the way with a piece of wire (see illustration 3.6d) = don't let it hang bythe brake hose
 
 ### 3 Disc brake pads replacement
-`honda_civic_en_8167ec24` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ![](images/5aa1680a2c3caef49eeba20f47d9304050127b6fecc3368b359ac04d0c4b9280.webp)
 3.8 Before installing the brake pads, apply a coat of disc brake anti-squeal compound to the backing plates of the pads follow the manufacturer's instructions on the label
@@ -7021,7 +6534,6 @@ ochile sthmuntittsteoes
 caliper completely. bore. Make sure the flange on the boot seats in the groove illustration). retaining retaining. ndust baot sliding sleeves silicone
 
 ### Inspection
-`honda_civic_en_c577e0da` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Referto illustrations 5.3, 5.4a,5.4b，5.5aand 5.5b
 
@@ -7087,7 +6599,6 @@ they rounding
 pugth hnetrapreines slightly away from the master cylinder and contamination.
 
 ### Installation
-`honda_civic_en_844c3ab7` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 installing necessary
 
@@ -7115,7 +6626,6 @@ Since fittings
 器 Do not operate the vehicle ifyouare in doubtabout the effectiveness of the brake system.
 
 ### Referto illustration9.1
-`honda_civic_en_b0367f94` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 is on the underheavy braking conditions to preventrear wheel lockun.
 
@@ -7124,7 +6634,6 @@ have 2 Ihe it checked valve isnot by serviceable; a dealer service ifyou departm
 unscrewing
 
 ### 10 Brake hoses and lines inspection and replacement
-`honda_civic_en_4285e8f7` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8c28884c6a80607f3eeb35d01a6ac07bf39efe950a7d75c30fc33d7cdbc04ab8.jpg)
 remove booster, mounting
@@ -7140,12 +6649,10 @@ boils during braking,
 necessary, Warning: effectiveness
 
 ### Operating check
-`honda_civic_en_031e9ff0` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 make suretse the brakch angeaintheraltl times nes ewith the engine offand change 2lghty start the engine. If the pedal goes down
 
 ### Removal
-`honda_civic_en_6cb84560` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 12.10
 
@@ -7170,7 +6677,6 @@ illustration) holding the because a light to see them,
 thehpaan a
 
 ### Installation
-`honda_civic_en_61c81c7a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 12.13aand12.13b booster basically u betwethmriti being and thepuahedd the clearaum
 
@@ -7179,7 +6685,6 @@ brakes just start to drag on the rear wheels.
 Lower the vehicle and reinstall the console (see Chapter 11).
 
 ### 14 Parking brake cable(s) replacement
-`honda_civic_en_fc8b36e2` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 14.4 and 14.6 Section, adjusting
 illustration housing brakes,
@@ -7190,7 +6695,6 @@ illustration
 7emofe thth remaining cables are tebe removed, repeat the above steps to according After the
 
 ### Check
-`honda_civic_en_a6a73990` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 15.4
 
@@ -7201,18 +6705,15 @@ ee at illustration). When continuity Ehan t
 15.4 Terminal guide for the brake light switch assembly
 
 ### Replacement
-`honda_civic_en_16bc43e2` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 haven't alony t the eletrical connector from the switch, if you the Witchhtcknut et. the pedal side ofthe switch and unscrew proc Instalation of,the brake light switch is the reverse oftheremoval
 
 ### Adjustment
-`honda_civic_en_51b842eb` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 switch td off the brake light Specifications).
 11 Tighten the locknut securely. touching securely. measure Chapter's
 
 ### Front suspension
-`honda_civic_en_919c1b19` | civic | pdf_manual | tier:4 | lang:en | layer:suspension | p:1 | doc_type:service_manual
 
 See Chapter 1
 
@@ -7236,7 +6737,6 @@ Dampok dbsarber absorber-to-body ta-bperymduntinnut.   4722   Pinchbolt Fork-to-
 the e remove remove
 
 ### Installation
-`honda_civic_en_7f9562ac` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 esrt assembly holes, wont alsabtta
 
@@ -7245,7 +6745,6 @@ esrt assembly holes, wont alsabtta
 self-locking damper
 
 ### 4 Shock absorber/coil spring replacement
-`honda_civic_en_15869eea` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Refer to illustrations4.5and 4.6
 
@@ -7273,7 +6772,6 @@ damper mounting base, mounting mounting self-locking mounting base and the sprin
 s the shop end necessary,
 
 ### Installation
-`honda_civic_en_b02510f1` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 10ntraecteointon the bottom of the knuckle to the lower mount and caliper (see Chapter 9).
 
@@ -7281,12 +6779,10 @@ s the shop end necessary,
 the lower arm from the trailing arm, remove the left bolt (left arrow)
 
 ### Refertoillustration 9.4
-`honda_civic_en_823c9709` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 on jackstands Loosen the rear wheel lug nuts, and remove the rear wheels. raise the vehicle, place it securely 234 lining. Remove mounting illustration). mounting bolt (see 5srinpull eowunyon the lowerarm and remove the shock absorber/coil SectiTo inspect or replace the shock absorber or coil spring, see
 
 ### 10 Hub and bearing assembly (rear) removal and installation
-`honda_civic_en_7d5d449d` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 10.3, 10.4and 10.5
 Note: The rear hub and bearing are combined into a single assembly.
@@ -7294,7 +6790,6 @@ The bearing is is if bearing
 assembly.
 
 ### Upper arm
-`honda_civic_en_4db29f72` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 11.2
 
@@ -7302,7 +6797,6 @@ Referto illustration 11.2
 5 fasteners Be sure to tighten all Specifications.
 
 ### Lower arm
-`honda_civic_en_1a76877c` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 11.8
 
@@ -7312,14 +6806,12 @@ illustration) and remove the lower arm. (see lower deterioration. If have ones i
 fasteners all
 
 ### Compensator arm
-`honda_civic_en_923db422` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 11.11
 
 illustration). 11 Remove the compensator arm-to-trailing arm bolt (see 12mpene the compensator arm-to-body nutand bolt and remove 13 Inspect the compensator arm bushings for wear and deterio14 fasteners Installation is to the torque listed in the reverse this Chapter's of removal. Be Specifications. sure to tighten both
 
 ### Trailing arm
-`honda_civic_en_4141c494` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Referto illustrations 11.19aand11.19b
 
@@ -7335,7 +6827,6 @@ Referto illustrations 11.19aand11.19b
 trailing bushing trailing shop.
 
 ### Removal
-`honda_civic_en_cd3d1a70` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to llstrations 12.2a, 12.2b, 12.c, 12.2d, 12.3a, 12.3b, 12.4 and
 
@@ -7362,14 +6853,12 @@ a puller 5 Unscrew the tie-rod end from the tie-rod.
 13.4 Use a puller to separate the tie-rod end from the steering knuckle arm
 
 ### Installation
-`honda_civic_en_fc1b3c4a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 m.tt
 nstt 8 Tighten the jam nut securely. Lower thepvehiclead tigten the Chapter
 10genthealignmentchecked bya dealer service department or an
 
 ### 14 Steering gear boots replacement
-`honda_civic_en_aad2d30a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 e vehicle and support it
 234b clamps installing
@@ -7385,7 +6874,6 @@ clamp; in cover; when you put it back on,make sure the two holes (right arrows) 
 67 lug nuts to the torque listed in the Chapter Specifications.
 
 ### Removal
-`honda_civic_en_ef6aa9d7` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 rerer tolustrations15.15.2 15.6,15.8a and 15.8b
 
@@ -7395,12 +6883,10 @@ rerer tolustrations15.15.2 15.6,15.8a and 15.8b
 18.1 Metric tire size code A= Section width B=Section height
 
 ### 17 Power steering system bleeding
-`honda_civic_en_04f810b8` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Following steering 2 With the front wheels in the straight aheadposition, check the power reaches the lower mark on the reservoir. steering fluid level (see Chapter 1). If it's low, addfluid until it eve aarthe morine and necessary reservoirfull of fluidas this is done. 6 Road test the vehicle to be sure the steering systemis functioning normally and noise free. 7 Recheck the fluid level to be sureit is upto the Hot mark on the reservoir while the engine is atnormal operating temperature. Addfluid if necessary (see Chapter 1).
 
 ### 18 Wheels and tires T general information
-`honda_civic_en_aef38132` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto. illustration 18.1
 
@@ -7423,7 +6909,6 @@ the lug nuts won't stay tight. Wheel repairs that use welding orpeening arenotre
 Tire and wheel balance is important to the overall handling, braking handling balanced by a shop with the proper equipment.
 
 ### 19 Wheel alignment 1 general information
-`honda_civic_en_524d54d2` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refertoillustration 19.1
 
@@ -7432,7 +6917,6 @@ A wheel alignment refers to the adjustments made to the wheels So they are in pr
 Getting the proper wheel alignment is a very exacting process, one in which complicated and expensive machinesare necessarv.to
 
 ### 2 Body maintenance
-`honda_civic_en_6d8e7597` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 because components. The hidden areas ofthe body, such as the wheel wells, the although frame they don't require and the engine. as compartment, frequent attention are equally as the important, rest of the
 
@@ -7451,14 +6935,12 @@ b 福 Spots of tar or asphalt thrown up from the road should be removed witha cl
 parstemengsa Unce every six months, e wax the body and chrome trim. lfa
 
 ### 3 Vinyl trim maintenance
-`honda_civic_en_dd37ada0` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 based on't cleaners. petrbleusm tos ofthdeir that.may be ingrained. Wash the vinyl as frequently as the
 
 After cleaning, application ofa high quality rubber and vinyl The weatherstripping,
 
 ### 4 Upholstery and carpets . maintenance
-`honda_civic_en_e8554c1c` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 interier Every of
 upholstery and carpetstoremove loose dirtand dust.
@@ -7489,7 +6971,6 @@ sandpaper overspray. remove any
 ![](images/5c3eb2e57c131d58f6b0e86980c12922694e14f2f484c718912b830ca8549265.jpg)
 
 ### 9.10 Scribe a line around the hood latch so you can judge the movement, then loosen the bolts and ad
-`honda_civic_en_27764da4` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e6c1d69aedbdd4020150296704efa51bd02a5ea96967e095445cc599278cfa3d.jpg)
 9.11 To adjust the vertical height of the leading edge of the hood so it's flush with the fenders, turn each edge cushion clockwise (to lower the hood) or counterclockwise (to raise the hood)
@@ -7499,7 +6980,6 @@ sandpaper,
 9 Hood removal, installation and adjustment
 
 ### 6 Body repair major damage
-`honda_civic_en_638f7bd1` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 te removeandinstall will prose cb iankets ndintw areas. This body
 
@@ -7513,7 +6993,6 @@ fenders, seriously
 overthecost of new parts. savings
 
 ### 8 Windshield and fixed glass replacement
-`honda_civic_en_eb0ba961` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You hinges. amountrifmalim around the entire hinge plate SO you can judge the carefully necessary installation, assembly closes reference Following illustration).
 
@@ -7532,7 +7011,6 @@ Refertoillustration 13.3
 14.2 Rotate the cover panel down, detach the clip and pull it out
 
 ### 13 Steering column cover'- removal and installation
-`honda_civic_en_70f87b5b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning:
 Supplemental known airbag working steering instrument airbag, .
@@ -7543,7 +7021,6 @@ ss information
 4 Installation is the reverse ofthe removal procedure.
 
 ### 14 Instrument panel lower coverand knee bolster removal and installation
-`honda_civic_en_3f2a4d33` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 14.2
 
@@ -7556,22 +7033,18 @@ detaching
 for clarity)
 
 ### Knee bolster
-`honda_civic_en_a0a092c3` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 underthe ovehhe two bolts and lower the metal knee bolster from 5 Installation is the reverse of removal.
 
 ### Front bumper Removal
-`honda_civic_en_4bde8761` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Detach the bumper cover. with Dumonect anywiring or other components that would interfere 3 Support the bumper witha jack or jackstand. bumper for
 
 ### Rear bumper Removal
-`honda_civic_en_ce52ef71` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 8 Detach the bumper cover. with bumper Disconnect ectaval. wiring or other components that would interfere 10 Support the bumper with a jack or jackstand. t11e Opinthetrunk lid or liftgate and detach the carpet for access to t then remove the
 
 ### 16 Door trim panel - removal and installation
-`honda_civic_en_3d1b2ed4` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Referto illustrations 16.1,16.3a, 16.3b, 16.4 and 16.5 windowmanual windstr regulator equipped models, remove the illustration).
 
@@ -7582,14 +7055,12 @@ doors, door bolts
 W o 5bb release screwdriver, unscrew er,pull 6 Installation isthereverseofremoval.
 
 ### Latch
-`honda_civic_en_b1e164ae` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 18.11 Disconnect Remove retaining illustration) maneuver
 t from the latch assembly.and
 13 Installation is thereverse ofremoval.
 
 ### 19 Door window glass . removal and installation
-`honda_civic_en_009361b4` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Referto Iliustrations 19.4aand 19.4b
 
@@ -7611,7 +7082,6 @@ Remove
 door 6 Installation is the reverse of removal.
 
 ### 20 Window regulator removal, installation and adjustment
-`honda_civic_en_df805fc5` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 20.4a and20.4b illustration).
 
@@ -7638,7 +7108,6 @@ detaching the battery cable.
 transaxle, retaining remove 345 Remove retaining illustrations).
 
 ### 24 Instrument cluster bezel 1 removal and installation
-`honda_civic_en_b278b35f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 24.1a,24.1b, 24.3, 24.4a and 24.4b
 
@@ -7651,7 +7120,6 @@ side air vsome models it may be necessary toremove the center and
 m Remove the retaining screws (see illustration).
 
 ### 25 Glove box 0s removal and installation
-`honda_civic_en_5a03a53c` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 25.3
 
@@ -7666,7 +7134,6 @@ removetheglove oxei from the underside of the glove box and illustration).
 with
 
 ### Contents
-`honda_civic_en_1533dac9` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 #
 
@@ -7682,7 +7149,6 @@ adt 6
 Headlight housing replacement 1315
 
 ### General information
-`honda_civic_en_8d9f2781` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 E
 
@@ -7696,7 +7162,6 @@ Relays      ·
 Wiring diagrams = general information   17   25
 
 ### 2 Electrical troubleshooting general information
-`honda_civic_en_8d83ad7c` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Warning: Aiways airbag,
 
@@ -7717,14 +7182,12 @@ between oft other,
 conditioner compressor cornerof relay relay Starter relayin leten t Cigarette dashboard, endof shbowPGM-FWPGMFI relay
 
 ### Circuit breakers general information
-`honda_civic_en_88e8bb5f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 poweCirouitw breakers motorsarnd eart companernts such as sunroof motors, airbag resistors.
 
 automatically, breaker momentarily, Some e tested by a they can't be serviced. relays must be
 
 ### 5 Relays general information
-`honda_civic_en_6d09daf1` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 information detaching battery
 
@@ -7743,7 +7206,6 @@ fuse for installing wiring
 5C6 Compare Ma identical.to the original.
 
 ### Combination switch check and replacement
-`honda_civic_en_40b0207b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Suppiem:nmast moaints
 
@@ -7757,7 +7219,6 @@ Rear Window Wiper/Washer Switch
 7.5b Pulthtg headlight/dimmer/turn the connector ict
 
 ### Replacement
-`honda_civic_en_a728c2e9` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Turn signal/headlight/dimmer switch Referto illustrations 7.5a and 7.5b
 
@@ -7773,7 +7234,6 @@ Windshield wiper/washer switch Referto illustrations 7.7a, 7.7b and 7.7c
 ![](images/e447e8798d4d2ff2221ac0deb6c4acae3b8c63312d19c92e717532e7e5471060.jpg)
 
 ### 7.5a To remove the the two retaining headlight/dimmer/turn screws (arrows) sienalswitch,remove remov
-`honda_civic_en_eb80ee32` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 8 Installation is thereverse of removal.
 
@@ -7783,7 +7243,6 @@ Cyh retaining th
 7.7b · use a small screwdriver to gently pry the switch free as you guide it out of the housing (steering wheel removed for clarity).
 
 ### 8 lgnition switch/key lock cylinder check and replacement
-`honda_civic_en_60023424` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: vicinity airbag before airbag,
 
@@ -7792,7 +7251,6 @@ information detaching battery
 codte covers, instrument panel lower
 
 ### Switch
-`honda_civic_en_886537d9` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 8.4 and 8.9
 
@@ -7814,7 +7272,6 @@ the
 t sihstligs oint1dvltadingis an indication ofa break between midethdtoardtheaktheewil change when the
 
 ### Repair
-`honda_civic_en_05dd5973` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 10.14
 
@@ -7832,14 +7289,12 @@ t15eMitheepoxythoroughly following the instructions provided with masking tape,
 11.6 Remove the screws, pull the speaker out and unplug it
 
 ### Stereo
-`honda_civic_en_986b682a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 11.3
 
 battery, Remove Warning illustration). retaining illustration). 4 Installation is thereverse ofremoval.
 
 ### Front speakers
-`honda_civic_en_a6751d66` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 11.6
 
@@ -7847,7 +7302,6 @@ Referto illustration 11.6
 7 Installation is the reverse ofremoval.
 
 ### S
-`honda_civic_en_a4a99aab` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/97e70ba7a86219eb6540f5dcd5e66c42edd0d33a6b67b90c07f5466f66d322fb.jpg)
 14.1b The screwdriver fits into a geared housing adjuster like this (horizontal adjuster shown)
@@ -7860,7 +7314,6 @@ Referto illustration 11.6
 15.4b one (arrow) at the lower corner
 
 ### 14 Headlights adjustment
-`honda_civic_en_99a48382` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 14.1a and 14.1b
 
@@ -7878,7 +7331,6 @@ masking the
 It
 
 ### 15 Headlight housing replacement
-`honda_civic_en_a5004e69` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Referto illustrations 15.4a, 15.4b, 15.4cand 15.4d warning: airbag airbag, level, the gas
 
@@ -7904,7 +7356,6 @@ the nusing(ste neadlight housing mounting bolts/nuts and remove illustrations).
 15 Installation is thereverse of removal.
 
 ### Instrument panel lights
-`honda_civic_en_9217c67e` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 16.17
 
@@ -7915,21 +7366,18 @@ instrument cluster 17 Rotate the bulb (see illustration). holder counterclockwis
 Lo (blue) Hi (blue/yellow) E(blue) 金 B(green/black) As (blue/white)
 
 ### License plate lights
-`honda_civic_en_1d7dba54` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 20 Remove the two screws and pull out the lens.
 c holder 1/8-turn counter22 Pull the bulb straight out of the holder.
 23 Installation isthereverse ofremoval.
 
 ### Dome/cargo/trunk lights
-`honda_civic_en_1b2fe550` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 24 Carefully prythe lens off foraccess to the bulb. 25 (otherwise the glass may shatter. 26 Installation is the reverse of removal.
 
 17 Wiper motor 1 check and replacement
 
 ### Check
-`honda_civic_en_5f641a34` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 17.2
 
@@ -7940,7 +7388,6 @@ assembly. 1 Disconnect the electrical connector from the wiper motor
 3 If themotor failsto run at low or high speed, replace it.
 
 ### Replacement
-`honda_civic_en_61383f9e` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustrations 17.4 and 17.9 4 Detach the wiper arms (see illustration).
 
@@ -7958,7 +7405,6 @@ Refer to illustrations 17.4 and 17.9 4 Detach the wiper arms (see illustration).
 4 Installation isthe reverse of removal. Be sure to connect the positive cabletothe battery first,then the negative cable.
 
 ### 19 Horn check and replacement
-`honda_civic_en_fd0d9c7a` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Warning: airbag working
 the possibility of accidental deployment of the airbag, which could
@@ -7974,7 +7420,6 @@ Totestthe horn, connect battery voltage to the two terminals with apair of jumpe
 6 Install the front bumper (see Chapter 11).
 
 ### 20 Cruise control system description and check
-`honda_civic_en_9a654407` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Refer to illustrations 20.5and 20.7
 
@@ -7996,7 +7441,6 @@ the t and is next to the brake fluid reservoir (see illstration).
 7 The vehicle speed sensoris located ontop of the transaxle (see illustration). Raise the front of the vehicle and support it onjack stands. Unplug the electrical connector and touch oneprobe ofa digital other to voltmeter a good to ground. theyellow/white With the vehicle wire ofthe in Neutral connector and key On, and the measure the voltage while rotating one wheel with the other one blocktid.If the voltage doesn't vary as the wheel rotates, thesensor is
 
 ### 21 Power window system description and check
-`honda_civic_en_f0cdb220` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 1 The powerwindow system consists ofthe control switches, the motors, glass mechanisms (regulators), and associated wirina.
 
@@ -8040,12 +7484,10 @@ s irarne unand instal thered short connector to the airbag electrical connector
 3 Frontpassenger's airbag three-pinconnector
 
 ### Self-diagnosis system
-`honda_civic_en_5236761f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 4 A self-diagnosis circuit in the SRS unit displays a light when the normally, ignition switch is turned to the light should go the out On after about position. If the system six seconds. is operating Ifthe light need it.
 
 ### Description
-`honda_civic_en_c3aeda07` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 airbags,
 
@@ -8053,7 +7495,6 @@ airbags,
 unit, two dash-mounted impact sensors and an airbag assembly in the back-up steering airbag
 
 ### Disabling the SRS system
-`honda_civic_en_906a6e16` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 24.8 and 24.12
 
@@ -8064,18 +7505,15 @@ battery disconnecting
 connectors Connect the as described in the following short (red) connectors steps. to the airbag side of the
 
 ### Driver's side airbag
-`honda_civic_en_2899622d` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 (red) Remove theacilustraiel belowthe airbag and removetheshort 9eel. Unplug the three-pin connector between the airbag and the cable 10 connector. Plug the short (red) connector into the airbag side of the three-pin
 
 ### Passenger's side airbag
-`honda_civic_en_5f4ca907` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 11 Remove the glove box (see Chapter 11).
 12aUnand the connector onthe slestrialcongtoratets. airbag side of the connector (see illustration). Intall hnenedrsidt
 
 ### COMPONENT LOCATOR:
-`honda_civic_en_8639bc98` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 HEATER  ··
 
@@ -8085,12 +7523,10 @@ HEATER  ··
 Wiring Diagram,Copyright 1995, Mitchell International,AllightsRevd Typical Civic wiring diagram (1993 shown, others similar) similar)-2 of15
 
 ### Either airbag
-`honda_civic_en_60785a33` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 13 After you've disabled the airbag and performed the necessary service, unplug the short connector from the airbag connector and plug in the three-pin airbag connector into the three-pin cable reel connector (driver's side) or the SRS main harness (passenger's side) attach the short connector to its holder and reinstall the lid to the underside of the steering wheel orreinstall the glove box.
 
 ### 25 Wiring diagrams general information
-`honda_civic_en_e9de7178` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Since itisn'tpossible to include all wiring diagrams forevery year andmodel covered bythis manual, the following diagrams are those .that aretypical and most commonly needed.
 
@@ -8108,7 +7544,6 @@ reaching ghoeuk that te rrly and re receiving ivingetotoei turned on.Ifit doesn'
 14 lest the windowsafter you are doneto confirm proper repairs.
 
 ### 22 Power door lock system description and check
-`honda_civic_en_3205ae9b` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Warning: deployment causepersonal injury (see Section 24).
 
@@ -8130,7 +7565,6 @@ if continuity.
 10 If the inoperative solenoid isn't receiving voltage, check foran eventually Note: It's betweenthebodyanddoor(openingandclosing the door open or short breaks the wires). common in the for wire wires between the lock to break in the solenoid portion of the and the relay. fatigues and harness
 
 ### 23 Electric rear view mirrors description and check
-`honda_civic_en_42d6cb9a` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Refer to illustrations 23.6 and 23.9
 
@@ -8161,7 +7595,6 @@ voltage
 18.3a Remove the instrument cluster screws (arrows)
 
 ### Rear wiper motor Check
-`honda_civic_en_a09f6269` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 17.13
 
@@ -8172,7 +7605,6 @@ wire)(see ilustration).The wiper should runsmoothly.
 14 If themotor fails to run, replaceit.
 
 ### Replacement
-`honda_civic_en_b2c4b7d8` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 15 Detach thewiper arm and remove the rubber seal, shaft nutand washer.
 16 Open the liftgate, remove the wiper motor cover and unplug the electrical connector.
@@ -8185,7 +7617,6 @@ wire)(see ilustration).The wiper should runsmoothly.
 18.3b Pull the cluster out ofthe dash, turn it overand unplug the electrical connectors from the backside
 
 ### 18 Instrument cluster = removal and installation
-`honda_civic_en_7d746399` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 18.3a and18.3b
 
@@ -8208,7 +7639,6 @@ Caution: The stereoin your vehiclemay be equipped withan anti-theft stethetfton 
 5 Installation is the reverse ofremoval. After you're done,adjust the headlights (see Section 14).
 
 ### Front turn signal/marker light
-`honda_civic_en_35302204` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 16.1a,16.1b, 16.2and 16.3
 
@@ -8218,7 +7648,6 @@ Referto illustrations 16.1a,16.1b, 16.2and 16.3
 4 Installation is thereverse ofremoval.
 
 ### Tail light bulb
-`honda_civic_en_797f8abd` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 5 Remove thecover forthetaillight bulb housing (see illustration). 6 Turn the bulb holder 1/8-turn counterclockwise and pull it outof the housing (see illustration).
 7 Push in on the bulb and turn itcounterclockwise, then pull it out of the bulb holder (see illustration 16.3).
@@ -8228,7 +7657,6 @@ Referto illustrations 16.1a,16.1b, 16.2and 16.3
 16.2 Rotate the bulb housing counterclockwise andremove it
 
 ### High-mounted brake light
-`honda_civic_en_fca175f5` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Coupe/Sedan models Referto illustration 16.9
 
@@ -8243,7 +7671,6 @@ Coupe/Sedan models Referto illustration 16.9
 11 Installation is thereverse ofremoval.
 
 ### Hatchback models
-`honda_civic_en_152feb89` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 12 Open the liftgate and carefully pry off the cover below the highmounted brake light housing.
 
@@ -8257,12 +7684,10 @@ Coupe/Sedan models Referto illustration 16.9
 13.3 Unplug the electrical connector and remove therubber boot
 
 ### Rear speakers
-`honda_civic_en_f0d34ffb` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 8 Open the trunk, remove the nuts and clips and detach the trim panel between the seat back and therear window. 9 中 Working inside the vehicle remove thescrewsand liftthespeaker and adapter out asan assembly.
 
 ### Sedan
-`honda_civic_en_af754250` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 11.10
 
@@ -8271,7 +7696,6 @@ Referto illustration 11.10
 12 Installation isthereverse ofremoval.
 
 ### Civic
-`honda_civic_en_52f925d8` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 12.3
 
@@ -8282,7 +7706,6 @@ Referto illustration 12.3
 5 Disconnect the string or wire and connect the antenna lead to the
 
 ### Del Sol
-`honda_civic_en_7e80a4eb` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 radio. Install the antenna mounting screwsand tighten them securely.
 
@@ -8293,7 +7716,6 @@ the assembly through the opening in the fender.
 9 Installation is thereverse ofremoval.
 
 ### 13 Headlight bulb - removal and installation
-`honda_civic_en_33cd5693` | civic | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Referto illustrations 13.3, 13.4a and13.4b
 
@@ -8317,7 +7739,6 @@ place with the clip.
 8.4 Continuity table forthe ignition switch terminals
 
 ### 9.1 Carefully pry the defogger switch out ofthe dash witha small screwdriver
-`honda_civic_en_e70a1a93` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 4 福 Check the connector for continuity between the connector terminals as shown with the key in each position (see illustration).
 
@@ -8331,7 +7752,6 @@ Insert the key and turn it to the "O"position.
 ofremoval.
 
 ### Lock cylinder and steering column lock assembly
-`honda_civic_en_62781c91` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 11 Check the lock cylinder in each position to make sure it isn't worn or loose and that the key position corresponds to the markings on the housing. If the lockcylinder is faulty, the entire steering column lock assembly will have tobe replaced.
 12 Disconnect the negative battery cable, then the positive battery cable (see Caution and Warning above).
@@ -8350,7 +7770,6 @@ ofremoval.
 9.2 Terminal guide for the rearwindow defogger switch
 
 ### 9 Rear window defogger switch check and replacement
-`honda_civic_en_b1177454` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 9.1and9.2
 
@@ -8362,12 +7781,10 @@ Referto illustrations 9.1and9.2
 ifit works, the switch is faulty and must bereplaced.
 
 ### 10 Rear window defogger check and repair
-`honda_civic_en_6f789f1c` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The rear window defogger consists ofa number of horizontal elements baked onto the glass surface. 2 Small breaks in the elementcan be repaired without removing the rear window.
 
 ### Check
-`honda_civic_en_c674ac94` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refertoillustration 10.4
 
@@ -8385,7 +7802,6 @@ Refertoillustration 10.4
 2118-12-7.4bHAYNES
 
 ### TURN SIGNAL SWITCH
-`honda_civic_en_2777e115` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d1b8611e244d3d7649124292d68ab5a761eb0ede4e34f113e5b69dc9ce1ebbd5.webp)
 
@@ -8394,7 +7810,6 @@ Refertoillustration 10.4
 Caution:Thestereoin your vehicle may be equipped with ananti-theft system. Refer to the information at the front of this manual before detaching thebatterycables.
 
 ### Check
-`honda_civic_en_60c3f091` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Referto illustrations 7.4a, 7.4b, 7.4c, 7.4d and 7.4e
 
@@ -8422,34 +7837,28 @@ If testing instruments are going to be utilized, use the diagrams to plan ahead 
 The basic tools needed for electrical troubleshooting include a circuit tester orvoltmeter (a 12-volt bulb with a set oftest leads can also be used), a continuity tester, which includes abulb, batteryand set oftest leads, and ajumper wire,preferably with a circuit breaker incorporated, which can be used to bypass electrical components. Before attempting to locate a problem with test instruments, use the wiring diagram(s) to decide whereto maketheconnections.
 
 ### Voltage checks
-`honda_civic_en_17a5a78b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Voltage checks should be performedifa circuit is not functioning properly. Connect one lead ofa circuit tester to either the negative battery terminal or a known good ground. Connect the other lead to a connector in the circuit being tested,preferably nearestto thebattery orfuse. If the bulb of the tester lights,voltage is present, which means that the part ofthe circuit between the connectorand the battery is problem free. Continue checking the rest ofthe circuit in the same fashion. When you reach a point at which no voltage is present, the problem liesbetween that point andthe last test point with voltage. Most of the time the problem can betraced to a loose connection. Note: Keep in mind thatsome circuits receive voltage onlywhen the ignitionkeyisin the Accessory orRunposition.
 
 ### Finding a short
-`honda_civic_en_c2eb5a53` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 One method of finding shorts in a circuit isto remove the fuseand connectatest lightorvoltmeter in its place tothefuseterminals. There should be no voltage present in the circuit. Move the wiring harness from side-to-side while watching the test light. Ifthe bulb goes on, there is a short to ground somewhere in thatarea, probablywhere the insulation has rubbed through. The sametest can be performed on each componentin thecircuit, even a switch.
 
 ### Ground check
-`honda_civic_en_81bd8651` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Perform aground testto check whether acomponentis properly grounded. Disconnect the battery and connect one lead of a selfpowered test light, known as a continuity tester, to a known good ground. Caution: Ifthe radio inyour vehicle is equipped with anantitheftsystem. Make sureyou have the correct activation codebefore disconnecting thebattery.Connect theother lead to the wire orground connection being tested. If the bulb goes on,the ground is good. If the bulb does not go on,the ground is not good.
 
 ### Continuity check
-`honda_civic_en_067e5c76` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A continuity check is done to determine if there are any breaks in a circuit -ifit is passing electricityproperly. With the circuitoff (no power in the circuit), a self-powered continuity tester can be used to check the circuit. Connect the test leadsto both ends of the circuit (or tothe"power"end and agood ground), andifthe test light comes on the circuit is passing current properly. If the light doesn't come on, thereisabreak somewhere in the circuit. Thesame procedure can be usedto test aswitch, by connecting the continuity tester tothe switch terminals. Withthe switch turned On,the test light should comeon.
 
 ### Finding an open circuit
-`honda_civic_en_f5636612` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 When diagnosing for possible open circuits, itis often difficult to locate them by sight because oxidation orterminal misalignment are hidden by the connectors. Merely wiggling a connector on a sensor or in the wiring harness may correct the open circuit condition. Remember this whenanopen circuit isindicated when troubleshooting a circuit. Intermittent problemsmay also be caused by oxidized or looseconnections.
 
 Electrical troubleshooting is simple'if you keepin mind that all electrical circuits are basically electricity running from the battery, through the wires, switches, relays, fuses and fusible links to each electrical component (light bulb, motor, etc.) and toground, from which itis passed backto the battery.Anyelectrical problem is an interruption in the flow of electricity to andfrom thebattery.
 
 ### 3 Fuses 1 general information
-`honda_civic_en_9fd3e3da` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Refertoillstrations3.1a,3.1band3.3
 
@@ -8479,14 +7888,12 @@ Remove the stereo (see Chapter 12).
 16 Installation is the reverse ofremoval.
 
 ### 27 Seats = removal and installation
-`honda_civic_en_c4232f7d` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 27.1aand 27.1b
 
 1 Remove the front and rear seat track retaining boits (see illustrations) and remove the seat. Unplug any electrical connectors. 2 Installation isthe reverse ofremoval.
 
 ### 28 Seatbelt check
-`honda_civic_en_8db3c564` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 1 Check the seatbelts, buckles, latch platesand guide loops for obvious damage and signs of wear.
 
@@ -8521,7 +7928,6 @@ regulator retaining boltsand the two roller guide bolts, then loosen the motor b
 6 To adjust the glass position evenly in the opening, loosen the roller guide or motor mounting bolts. Raise the window as far as possible, making sureit'scentered in its channel,thentighten the roller guide ormotor mounting boltssecurely.
 
 ### 21 Outside mirrors 1 removal and installation
-`honda_civic_en_1b0a4670` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations21.2and21.3
 
@@ -8531,7 +7937,6 @@ Referto illustrations21.2and21.3
 4 Installation isthereverse of removal.
 
 ### 22 Door . removal, installation and adjustment
-`honda_civic_en_5da4ea41` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Referto illustrations 22.3and22.4
 1 Remove the doortrimpanel (see Section 16). Disconnect any electrical connectors and push them through the door opening so they won'tinterfere with doorremoval.
@@ -8549,7 +7954,6 @@ a) Up-and-down and forward-and-backward adjustments are made by loosening the hi
 b) The door lock striker can also be adjusted both up-and-down and sideways to provide positive engagement with the lock mechanism. This is done by loosening the mounting boltsand moving the striker as necessary.
 
 ### 23 Console 1 removal and installation
-`honda_civic_en_efcc20db` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Referto illustrations 23.4aand23.4b
 
@@ -8586,7 +7990,6 @@ Caution: Ifthe stereo inyourvehicle is equipped with an anti-theft system, refer
 7 Plug in the wire harness connectors for the power door lock switch and the power window switch,if equipped, and place the panel in position in the door. Press the door panel into placeuntil the clips are seated. Install the two trimpanel retaining screws and the armrest retaining screw. Install the power door lock switch assembly, if equipped. Installthemanual regulator crank handle.
 
 ### 17 Door inside handle 1 removal and installation
-`honda_civic_en_fbe8da56` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Referto illustrations 17.1，17.2 and 17.3
 
@@ -8601,7 +8004,6 @@ Referto illustrations 17.1，17.2 and 17.3
 18 Door outside handle, lock cylinder and latch removal and installation
 
 ### Outside door handle
-`honda_civic_en_bdcd4142` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 18.3
 
@@ -8620,7 +8022,6 @@ Referto illustration 18.3
 12 The hood latch assemblyas wellas the hinges, should be periodically lubricated with white lithium-base grease to prevent sticking and wear.
 
 ### Support struts
-`honda_civic_en_c776eb07` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Support the trunk lid in the open position.
 2 Remove theplastic cover from the lower end of the strut (see illustration).
@@ -8629,7 +8030,6 @@ Referto illustration 18.3
 5 Installation is thereverse ofremoval.
 
 ### Trunk lid
-`honda_civic_en_4bfa81e6` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 6 Scribe or draw alignment marks around the hinge-to-trunk lid bolts (see illustration).
 7 While an assistant supports the trunk lid, detach the support struts, then remove the hinge-to-trunk lid bolts from both sides and lift off the trunk lid.
@@ -8640,7 +8040,6 @@ Referto illustration 18.3
 11 Finally you can fine-tune the height ofthe trailing edge of the trunk lid by turning the trunk lidedge cushions in oroutto lower or raise the trunk as necessary.
 
 ### Support struts
-`honda_civic_en_6c90fcfc` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Open the liftgate and support it.
 
@@ -8649,7 +8048,6 @@ Open the liftgate and support it.
 3 Installation is the reverse of removal. Tighten all fasteners securely.
 
 ### Liftgate
-`honda_civic_en_e13ef674` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 4 Open the liftgate and cover the upper body area around the opening with pads or cloths to protect the painted surfaces when the liftgate isremoved.
 5 Unplug all electrical connectors and pull the wire harness out of the liftgate (tie string orwire to the cables SO they can bepulled back into the body when the liftgate is reinstalled).
@@ -8659,7 +8057,6 @@ Open the liftgate and support it.
 11 If ftheliftgate needsto be adjusted, loosen the hinge boltsslightly, gently close the liftgate and verify that it's centered between the two fenders (the striker should center it). Then carefully open the liftgate and retighten the hinge bolts.
 
 ### 12 Tailgate removal and installation
-`honda_civic_en_55bbf862` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note: The following procedure applies onlyto Hatchback models. 1 Open the tailgate.
 2 Remove the trim panel and unplug all electrical connectors and pull the wire harness out of the liftgate (tie string or wire to the cables SO they can be pulled back into the body when the liftgate is reinstalled).
@@ -8677,7 +8074,6 @@ leatherupholstery.
 4 In areas where the interior ofthe vehicle is subject to bright sunlight, coverleather seats with a sheet if the vehicle isto beleft out forany length oftime.
 
 ### Repair of minor scratches
-`honda_civic_en_4669dd00` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 If the scratch issuperficial and does not penetrate to themetal of the body, repair is very simple. Lightly rub the scratched area with a fine rubbing compound to remove loose paint and built up wax. Rinse thearea with clean water.
 
@@ -8686,7 +8082,6 @@ leatherupholstery.
 3 If the scratch has penetrated the paint and exposed themetal of the body, causing the metal to'rust, a different repair technique is required. Remove all loose rustfrom the bottom ofthe scratch with a pocket knife, then apply rust inhibiting paint to prevent the formation of rust in the future. Using a rubber or nylon applicator, coat the scratched area with-glaze-type filler.Ifrequired, thefillercan be mixed with thinner to provide a very thin paste, which is ideal forfilling narrow scratches. Before the glaze filler in the scratch hardens, wrap apiece of smooth cotton clotharound the tip of a finger. Dip the cloth in thinner and then quicklywipe it along the surface ofthe scratch. This will ensure that the surface of the filler is slightly hollow.Thescratch can now be painted overas described earlierin thissection.
 
 ### Repair of dents
-`honda_civic_en_82074b18` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 4 When repairing dents, the first job is to pull the dent out until the affected area is as close as possible to its original shape. There is no point in trying to restore the original shape completely asthe metal in the damaged area will have stretched on impact and cannot be restoredto itsoriginal contours.It isbetterto bring the level of the dent uptoa point which is about1/8-inchbelowthe level of the surrounding metal. In cases where the dent is very shallow,it is not worth trying to pull itoutatall.
 
@@ -8697,7 +8092,6 @@ leatherupholstery.
 7 The next stage of repair is the removal of paint from the damaged areaand from an inch or SO of the surrounding metal. This is easily done with a wire brush or sanding disk in a drill motor, although itcan be done just as effectively by hand with sandpaper. To complete the preparation for filling, score the surface of the bare metal with a screwdriver or the tang of a fileor drill small holes in the affected area. This will provide agood grip for the filler material. To complete the repair, see the Section on filling and painting.
 
 ### Repair of rust holes or gashes
-`honda_civic_en_0ef1b1ab` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 8 福 Remove all paint from the affected area and from an inch or SO of the surrounding metal using a sanding diskorwirebrush mountedina drill motor. If these are not available, a few sheets of sandpaper will do the job just as effectively.
 
@@ -8712,7 +8106,6 @@ leatherupholstery.
 13 Once the hole is blocked off, the affected areacan be filledand painted. See the following subsection on filling and painting.
 
 ### Filling and painting
-`honda_civic_en_63b84cf7` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 14 Many types of body fillersare available, but generally speaking, body repair kitswhich contain fillerpaste and atube ofresin hardener are best for this type of repair work. A wide, flexibleplastic or nylon, applicator will benecessary for imparting asmooth and contoured finish to the surface ofthefillermaterial. Mixupa small amount of filler on a clean piece of wood or cardboard (use the hardener sparingly). Follow the manufacturer's instructions on the package, otherwise the filler will set incorrectly.
 
@@ -8729,7 +8122,6 @@ leatherupholstery.
 20 Before spraying, shake the paint can thoroughly， then spray a test area until the spray painting technique is mastered. Cover the repair area with a thick coat of primer. The thickness should be built up using
 
 ### Filling and painting
-`honda_civic_en_d09437d3` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 These photos illustrate a method of repairing simple dents. They are intended to supplement Body repair = minor damage in this Chapter and should not be used as the sole instructions for body repair on these vehicles.
 
@@ -8756,7 +8148,6 @@ perform the job properly. Because of this, you should have a technician with the
 Toe-in is the turning in of the wheels. The purpose of a toe specification isto ensure parallel rolling of the wheels. Inavehiclewith zero toe-in, the distance between the front edges ofthe wheels will be the same asthe distance between the rear edges of the wheels. The actual amount of toe-in is normally only a fraction ofan inch. At the front end, toe-inis controlledby the tie-rod end position on the tie-rod. At therear it is adjusted by moving the rear lower arm,inorout,within its. bracket on the body. toe-in will cause the tires to
 
 ### Filling and painting
-`honda_civic_en_c61ad236` | civic | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 improperly by making them scrubagainsttheroad surface.
 
@@ -8782,7 +8173,6 @@ Separate the tie-rod ends from the steering knuckle arms (see Section 13).Remove
 illustrationstLoi ninhemin blt trom the steering gear input shaft. Move the steering gear asfaras possible toardttethd steering sttssin gear from the vehicle as you move it to the left side.
 
 ### Installation
-`honda_civic_en_35b4d073` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 9 Raise the steering gear into position and connect the intermediate shaft, aligning the marks.
 10 Install the steering gear mounting bolts andwashers and tighten them tothe torque listed in this Chapter's Specifications.
@@ -8797,7 +8187,6 @@ floor. atthe lowerend of the shield arealigned with the locating pins in the
 15 Fill the power steering pump reservoir with the recommended fluid (see Chapter 1) and bleed the steering system (see Section 17).
 
 ### 16 Power steering pump removal and installation
-`honda_civic_en_bd7b441e` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Refer to illustration 16.2
 
@@ -8832,7 +8221,6 @@ G
 7 Remove the steering wheel bypulling itstraight off the shaft. Warning: While the steering wheel is removed, DO NOTturn the steering shaft. If you doso,the airbag reel couldbe damaged.
 
 ### Installation
-`honda_civic_en_42eaf53e` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 12.9
 
@@ -8848,7 +8236,6 @@ a) Rotate the cable reelclockwise until it stops. b) Rotate the cable reel count
 15 Secure the short connector tothe access plate and install the access plate.
 
 ### Removal
-`honda_civic_en_e6a35db2` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Refertoillustrations 13.2a, 13.2band 13.4
 
@@ -8880,7 +8267,6 @@ Refertoillustrations 13.2a, 13.2band 13.4
 5.6 To detach the lower control arm's rear pivot stud from its bushing,remove this nut (arrow); it's not necessary to remove-the three bushing clamp bolts (arrows) unless you need to replace the bushing itself
 
 ### 5 Lower control arm (front) 1 removal and installation
-`honda_civic_en_0aeadb29` | civic | pdf_manual | tier:4 | lang:en | layer:suspension | p:1 | doc_type:service_manual
 
 Referto illustrations 5.4,5.5and 5.6
 
@@ -8893,7 +8279,6 @@ Referto illustrations 5.4,5.5and 5.6
 7 Installation isthereverse ofremoval.
 
 ### 6 Upper control arm (front) removal and installation
-`honda_civic_en_7371237c` | civic | pdf_manual | tier:4 | lang:en | layer:suspension | p:1 | doc_type:service_manual
 
 Referto illustrations 6.2,6.3 and 6.4
 1 Loosen the front wheel lug nuts, raise the vehicle, place it securely on jackstands and remove the wheel. Support the lower control arm with a.floor jack.
@@ -8912,7 +8297,6 @@ Referto illustrations 6.2,6.3 and 6.4
 6 Installation is thereverse ofremoval. Be sure to tighten all ofthe fasteners to the torque values listed inthis Chapter's Specifications.
 
 ### Removal
-`honda_civic_en_f4aedb4d` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 1 Remove the wheel cover, if equipped. Loosen the driveaxle/hub nut (see Chapter 8). Loosen the wheel lug nuts, raise the front of the vehicleand support itsecurely on jackstands. Remove the wheel and .the driveaxle/hub nut. 2 Unbolt the brake .hosebracket from the steering knuckle. Unbolt the brake caliper, hang it out of the way with a piece of wire,remove the caliper mounting bracket and remove the brake disc (see Chapter 9).
 
@@ -8937,7 +8321,6 @@ Referto illustrations 6.2,6.3 and 6.4
 3.6 Remove the nuts (arrows) from the shock absorber mounting studs
 
 ### 2 Stabilizer bar (front) 1 removal and installation
-`honda_civic_en_09aefbef` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refertoillustrations 2.2and2.3
 
@@ -8954,7 +8337,6 @@ Refertoillustrations 2.2and2.3
 6 Installation isthe reverse ofremoval.
 
 ### Removal
-`honda_civic_en_824b6f4e` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Referto illustrations 3.4,3.5a,3.5b and 3.6
 
@@ -8968,14 +8350,12 @@ to manufacturer's compress all pressure the
 4 Place a floorjackunderthelower control arm'tosupport it when the shock absorber assembly is removed. Remove the damper fork pinch bolt (see illustration).
 
 ### Front suspension (continued)
-`honda_civic_en_282aafa4` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Lowercontrolarm Frontpivotbolt   .    ·...·. 47 Rear pivot stud nut   61 Bushing clam..bot.. 66 tabilizerbar Linknuts (upperand lower) 16 Bushing lamp nu   ···. 16
 Steering..uckl….low...aljoint.ut.. 36 to 43
 Uppercontrol arm Anchorboltnuts   47 Pivotboltnuts    · ... 22 Balljoint nut.     29to35
 
 ### Rearsuspension
-`honda_civic_en_e5048765` | civic | pdf_manual | tier:4 | lang:en | layer:suspension | p:1 | doc_type:service_manual
 
 Compensator arm
 
@@ -8998,14 +8378,12 @@ Upperarm-to-trailing arm bolt  ·...  ··. 40
 Uppercontrol arm inner mounting bolts   28
 
 ### eering system
-`honda_civic_en_28229af6` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 #
 
 Steering wheel nut ….. 36 Airbagmodule Torx bolts 84in-lbs Steering gear mounting bolts Left (drive.'side.. 43 Right (passenger's) side    ··.··..····. 28 Tie-rod end-to-steering knuckle nut   32 Intermediate shaft pinch-bolt   16
 
 ### Referto illustrations 1.1and1:2
-`honda_civic_en_ca8fb078` | civic | pdf_manual | tier:4 | lang:en | layer:suspension | p:1 | doc_type:service_manual
 
 The front suspension (see illustration) is a fully independent design withupper and lower control arms, shock absorber/coil spring assemblies and a stabilizerbar.
 
@@ -9018,14 +8396,12 @@ Frequently, when working on the suspension or steering system components, youmay
 Since most of the procedures thataredealt with in this chapter involve jacking up the vehicleand working underneath it, a good pair of jackstands will be needed. Ahydraulic floor jack is the preferred type ofjack to lift the vehicle, and it can also be used to support certain components during various operations. Warning:Never, under any circumstances, relyon ajacktosupportthevehicle whileworking onit. Wheneverany ofthe suspension orsteering fastenersare loosened or removed theymust be inspected and, ifnecessary, be replacedwith newones of the same part number orof original equipment qualityand design. Torque specifications mustbe followed for proper reassembly and component retention. Neverattempt to heat or straighten any suspension or steering component. Instead, replace any bent or damagedpart with a new one.
 
 ### Notes
-`honda_civic_en_8249596e` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/1f74798680f5ebf2367dc1aa216c0e2fdee20bd3445afc316a58fc5101ca798d.webp)
 
 ![](images/b622ee6bf4aa7e8c9dcfe5c10d3ee2c2fafdabbe49f72b47b6fcb6187cfdbd0c.jpg)
 
 ### 13.4 The parking brake adjusting nut (arrow) is on the equalizer assembly
-`honda_civic_en_ab203305` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 booster must be measured. Using a depth micrometer or vernier calipers, measurethe distance from the seat (recessed area) in the master cylinder piston tothe mastercylindermounting flange. Next, apply a vacuum of 20 in-Hg to the booster (using a hand vacuum pump)andmeasurethe distance from the end ofthe vacuum booster pushrod to the mounting face of the booster (including gasket, if used) wherethemaster cylinder mounting flange seats. Subtract the two measurementsto get the clearance (see illustration). IF the clearance is more or less than specified, loosen the star locknut and turn the adjuster on thepower boosterpushrod until the clearance is within the specified limit (see illustration). After adjustment, tighten the locknut. 14 Afterthe final installation of themaster cylinderand brake hoses and lines, bleedthe brakes as described in Section 11.
 
@@ -9034,7 +8410,6 @@ booster must be measured. Using a depth micrometer or vernier calipers, measuret
 14.4 After you have disconnected the parking brake cable from the parking brake lever, compress the tangs on the retainer by sliding a 12mmoffsetboxwrench over the end of the cable onto the retainer,and pull the cable out of the backing plate
 
 ### 13 Parking brake adjustment
-`honda_civic_en_c764f9b4` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to illustration 13.4
 
@@ -9043,7 +8418,6 @@ Refer to illustration 13.4
 4 Turn the adjusting nut on the equalizer (see illustration) clockwise while rotating the rearwheels. Stop turning the nut when the
 
 ### 14.6 An exploded view of a typical parking brake cable assembly
-`honda_civic_en_e98f15e2` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ![](images/df63c7b2d24847b5d434a1639119ca23ec855bc3f0099b86d6cde8ae05d06cb1.webp)
 
@@ -9077,7 +8451,6 @@ Warning: Do not, underany circumstances, use anything otherthan genuine steel br
 9 After installation, check the fluid level in themaster cylinder and add fluid as necessary. Bleed the brake system as described in Section 11.and test the brakes carefully before driving the vehicle in traffic. Warning: Do notoperate the vehicle ifyou arein doubt about the effectiveness of the brake system.
 
 ### Referto illustration 11.8
-`honda_civic_en_580fd08d` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Warning 1: This procedure should not be undertaken on a vehicle equipped with an Anti-lock Brake System (ABS), sincespecial tools are needed to properly bleed thebrakes. Take the vehicle to a dealer service department orotherrepairshopthat hasthepropertools.
 
@@ -9106,12 +8479,10 @@ Warning 2: Weareye protection when bleeding the brake system. If the fluid comes
 9 Check brake operation before driving the vehicle in traffic. Warning: Donotoperate the vehicle ifyou arein doubt about the effectiveness of thebrakesystem.
 
 ### 7 Wheel cylinder removal and installation
-`honda_civic_en_dc827f79` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Note: If the wheel cylindersleak, theymustbereplaced withnewones - themanufacturer doesnot recommend rebuildingthem.
 
 ### Removal
-`honda_civic_en_0facfcc4` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration 7.4
 
@@ -9124,7 +8495,6 @@ Referto illustration 7.4
 6 Detachthe wheelcylinderfrom the brake backing plate andplace it on a clean workbench. Immediately plug the brake line to prevent fluid loss and contamination. Note: If the brake shoe linings are contaminated with brake fluid, install new brake shoes and cleanthe drums with brakesystem cleaner.
 
 ### Installation
-`honda_civic_en_9fc7a49a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 7 Apply RTV sealant to the mating surface ofthe wheel cylinderand
 
@@ -9141,12 +8511,10 @@ the brake backing plate, place the cylinderin position and connect the brake lin
 10 Check brake operation before driving the vehicle in traffic. Warning: Do not operate the vehicle ifyouare in doubt about the effectiveness ofthebrakesystem.
 
 ### 8 Master cylinder 中 removal and installation
-`honda_civic_en_bd39239b` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Warning: This procedure should not be undertaken on a vehicle equipped withan Anti-lock Brake System (ABS), sincespecial toolsare needed to properly bleed the brakes. Take the vehicle to a dealer service department orotherrepair shop that has the proper tools. Note: If themastercylinder isdefective, itmustbereplacedwithanew one themanufacturerdoesnot recommend rebuilding it.
 
 ### Removal
-`honda_civic_en_5487f0c5` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Refertoillustration 8.4
 
@@ -9186,7 +8554,6 @@ O # caption under each illustration. All fourrear brake shoes must be replaced a
 5.5a The minimum allowable thickness is stamped into the disc (typical)
 
 ### Removal
-`honda_civic_en_526931f7` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ![](images/c40d7352423456da58d2aef7cd336e4fa31077bf20c6e552103ddbf3bbafebb2.jpg)
 5.5b A micrometer is used to measure disc thickness
@@ -9202,19 +8569,16 @@ O # caption under each illustration. All fourrear brake shoes must be replaced a
 5Itis absolutely critical that the disc not be machined to a thickness less than the minimum allowable thickness. The minimum wear (or discard) thickness is stamped on the disc (see illustration). The disc thickness can be checked with a micrometer (see illustration).
 
 ### Removal
-`honda_civic_en_cdf84cee` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 and tightenthem. Alternate betweenthe bolts, turning them a couple of turnsata time,until the discis free (see illustration).
 
 ### Installation
-`honda_civic_en_7fabe85b` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 8 Place the disc in position overthethreaded studs. Install the disc retaining screws
 9 Install the caliper mounting bracket, brake pads and caliper over the disc. Tighten the mounting bracket and caliper bolts to the torque listed in this Chapter's Specifications.
 10 Install thewheel, then lower the vehicle to the ground. Depress the brake pedal a fewtimesto bring the brake pads into contact with the disc. Bleeding of the system will not be necessary unless the fluid hose was disconnected from the caliper. Checktheoperation of the brakes carefully before placingthevehicleintonormal service.
 
 ### 6 Drum brake shoes replacement
-`honda_civic_en_1586a3e0` | civic | pdf_manual | tier:4 | lang:en | layer:steering | p:1 | doc_type:service_manual
 
 Referto illustrations 5.6a, 5.6b, 5.7a,5.7b and 5.7c
 
@@ -9223,7 +8587,6 @@ Referto illustrations 5.6a, 5.6b, 5.7a,5.7b and 5.7c
 7 Remove the two lug nuts which were put onto hold the disc in place, or the two disc retaining screws, ifpresent (see illustration) and removethe disc from the hub. Ifthe disc is stuck to the hub andwon't come off,thread two bolts into the holes provided (see illustration)
 
 ### Referto illustrations 6.2, 6.4a through 6.4r and 6.5
-`honda_civic_en_b797e4e0` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Warning: Drum brake shoes must be replaced on both wheels atthe same time 1 neverreplace the shoes on only one wheel. Also, the dust createdbythebrakesystem may contain asbestos, whichis harmfulto yourhealth.Neverblow it out with compressedair and don't inhale any ofit. Anapproved filtering maskshould be worn whenworking on the brakes. Do not, under any circumstances, use petroleum-based solvents to clean brakeparts. Usebrake systemcleaner only!
 
@@ -9236,7 +8599,6 @@ Warning: Drum brake shoes must be replaced on both wheels atthe same time 1 neve
 4.5 Use a small screwdriver to remove the dustboot retaining ring (not used on all calipers)
 
 ### Front or rear pads
-`honda_civic_en_0f9cea86` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 14 Install the wheel and lug nuts, lowerthe vehicle and tighten the lugnutsto the torquespecified in Chapter1.
 
@@ -9245,14 +8607,12 @@ Warning: Drum brake shoes must be replaced on both wheels atthe same time 1 neve
 16 Apply and release the brake pedal and (if you replaced rear pads) the handbrakeleverseveral timesto bringthe pads into contact with the brake discs. Check the operation ofthe brakes in an isolated area beforedriving thevehicle in traffic.
 
 ### 4 Disc brake caliper 1 removal, overhaul and installation
-`honda_civic_en_8fdceab5` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Warning: Dust created by the brake system may contain asbestos, whichisharmful to your health. Neverblow itoutwithcompressed air and don't inhale any of it. Anapproved filteringmask should be. worn when working on thebrakes. Do not, underanycircumstances, use petroleum-based solvents to clean brakeparts. Use brake system cleaneronly!
 
 Note:Ifan overhaulis indicated (usually because of fluid leakage), explore all options before beginning the job. Newand factoryrebuilt calipers areavailable on an exchange basis, which makes this job quite easy. Ifyou decide to rebuild the calipers, make surea rebuild kitis available beforeproceeding. Always rebuild the calipers in pairs -never rebuild justoneof them.
 
 ### Removal
-`honda_civic_en_63dd5684` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Referto illustrations 4.2and4.3
 
@@ -9265,7 +8625,6 @@ Referto illustrations 4.2and4.3
 4 Refer to Section 3 and remove the caliper (it's part ofthe brake pad replacement procedure).
 
 ### Front caliper
-`honda_civic_en_b63228bc` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Referto illustrations 4.5,4.6,4.8,4.9 and 4.14
 
@@ -9294,7 +8653,6 @@ Note:In addition to the illustrationsaccompanying this Section, referto the. exp
 13 If the caliper doesn'tuse a retaining ring on the piston dust boot (calipers marked NISSIN), install the bootin the upper groove in the
 
 ### 3.6p Anexploded view ofan Akebono caliper (all models except EX models)
-`honda_civic_en_9f771c2b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 12345 Lower caliperpin (bolt)
 Uppercaliper pin (bolt)
@@ -9315,7 +8673,6 @@ Padshim
 17 Calipermountingbracket
 
 ### 3.6q Anexploded view ofa Nissin caliper (EX models only)
-`honda_civic_en_65f03157` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 1 Caliper pins (bolts)
 2 Caliper body
@@ -9359,7 +8716,6 @@ FO
 4 Inspect the brake disc carefully as outlined in Section 5. If machining is necessary, follow the information in that Section to remove the disc, atwhich timethe calipersand pads can beremoved aswell.
 
 ### Front pads
-`honda_civic_en_2dea145d` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Referto illustrations 3.5and3.6a through 3.6q
 
@@ -9372,14 +8728,12 @@ Referto illustrations 3.5and3.6a through 3.6q
 3.6f Remove the inner brake pad (some models don'thave a shim on the inner pad)
 
 ### Rear pads
-`honda_civic_en_a0a0c9f6` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 3.7a through 3.7f,3.8 and 3.12
 
 7 Follow the accompanying illustrations, beginning with 3.7a, for the actual pad replacement procedure. Be sure to stay in order and readthecaption undereach illustration. When you havecompleted the Steps described in theaccompanying photos, proceed to Step 8. 8 Apply a thin coat of disc brake anti-squeal compound, in accordance with the manufacturer's recommendations, on the backing plates of thenew pads (see illustration).
 
 ### General
-`honda_civic_en_33632b0e` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All. vehicles covered by this manual are equipped with hydraulically operated power assisted brake systems. All front brake systems are disc type. Some models use drum typebrakes at the rear, othersareequipped with reardiscbrakes.
 
@@ -9388,14 +8742,12 @@ All brakes are self-adjusting. The front and rear disc brakes automatically comp
 The hydraulic system is a diagonally-splitdesign, meaning there are separate circuits for the left front/right rear and the rightfront/left rear brakes. if one circuit fails, the other circuit will remain functional and a warning indicator will light up on the dashboard when a substantial amount of brake fluid is lost, showing that a failure has occurred.
 
 ### Master cylinder
-`honda_civic_en_b70d7e16` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Themastercylinderis bolted to the power brake booster, which is mounted on the driver's side of the firewall. To locate the master cylinder, lookfor the large fluidreservoir ontop.The fluid reservoir is a removable plasticcup,secured to the mastercylinder byaclamp.
 
 The master cylinder is designed for the "split system" mentioned earlierand hasseparate pistonassembliesforeach circuit.
 
 ### Proportioning valve
-`honda_civic_en_de129702` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 The proportioning valve assembly is located on the firewall. On vehicles equipped with the Anti-lock Brake System (ABS), it's an integral part ofthemodulator/solenoid unit, which is located on the right (passenger's) side of the firewall, behindthetransaxle.
 
@@ -9404,17 +8756,14 @@ The proportioning valve regulatesthe hydraulic pressure to the rear brakes durin
 Theproportioning valveis notserviceable 作 a problem develops with the valve, itmustbereplacedasanassembly.
 
 ### Power brake booster
-`honda_civic_en_c529afcd` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The power brake booster, which usesengine manifold vacuum and atmospheric pressure to provide assistanceto the hydraulically operated brakes, ismounted onthefirewall in theenginecompartment.
 
 ### Parking brake
-`honda_civic_en_3b8e844e` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Aparking brake lever inside the vehicle operates a single front cable attached to apair ofrear cables, each ofwhich is connected to its respectiverear brake. When the parking brake lever is pulled up on drum brake models, each rear cablepulls on a lever attached to the brakeshoeassembly, causing the shoes to expand against the drum. When the lever ispulled onmodels with rear discbrakes, the rear cablespull on leversthat are attachedto screw-typeactuators in the caliper housings,whichapply force to the caliperpistons, clampingthe brake padsagainst the brake disc.
 
 ### Precautions
-`honda_civic_en_84d31579` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 There are some general cautions and warnings involving the brakesystem onthesevehicles:
 
@@ -9425,7 +8774,6 @@ d) No part of the brake hydraulicsystem on a vehicleequippedwith anAnti-lock Bra
 e) Ifaproblem issuspectedin thebrake system, don't drive the vehicle until it'sfixed.
 
 ### General information
-`honda_civic_en_9739a0d1` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Warning:No part of the hydraulic brake system on a vehicle equipped with anAnti-lockBrake System (ABS) should be disconnected, as special tools areneeded toproperlybleedthesystem. Takethevehicle to a dealerservice departmentor otherrepair shop forrepairs which require opening of the system.
 
@@ -9438,7 +8786,6 @@ In principle, the system is pretty simple: Each wheel hasa wheel sensor monitori
 In reality,theAnti-lock Brake System is farmorecomplex thanit sounds, SO we don'trecommend that you attempt to diagnose or service it. Ifthe Anti-lock Brake System onyour vehicle develops problems, takeit.to a dealer service department or other qualified shop.
 
 ### ABS trouble codes
-`honda_civic_en_2c301940` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustration2.5
 
@@ -9451,7 +8798,6 @@ Referto illustration2.5
 23 Bend the outer CV joint housing at an angle to the axleshaft to expose thebearings, inner raceandcage (see illustration). Inspect the bearingsurfaces for signs of wear. If the bearings are damaged or worn,replace thedriveaxle.
 
 ### Reassembly
-`honda_civic_en_069eb6c6` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 24 Slide the new outer boot onto the axleshaft. It'sa good ideato wraptapearound the splines ofthe shaft to prevent damage to the boot (see illustration 12.10a). When the boot is in position, add the specified amount of grease (included in.the boot replacement kit) to the outer joint and the boot (pack the joint with as much grease asit will hold and put the rest into the boot). Slide the boot on the rest of the way and install the new clamps (see illustrations 12.17a and 12.17b). 25 Slide the dynamic damper, if equipped, onto the shaft.Make sure its outer edge isaligned with.the previously applied mark. Note: If you're using anewaxleshaftandouterCV jointassembly, thespecified the inner CV joint boot and thedynamic damperis
 
@@ -9471,14 +8817,12 @@ Referto illustration2.5
 7 Remove the stop-ring, slide the old boot offthe driveaxle and discard it.
 
 ### Inspection
-`honda_civic_en_c5285d68` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 8 Clean the old grease from the outer race and the tri-pot bearing assembly. Carefully disassemble each section of the tri-pot assembly, one at a time SO as not to mix up the parts, and clean the needle bearings with solvent.
 
 9 Inspect therollers, tri-pot, bearings and outer race for scoring, pitting or other signs of abnormal wear, which will warrant the replacement of the inner CV joint.
 
 ### Reassembly
-`honda_civic_en_1cf81fe0` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 12.10a,12.10b, 12.12,12.13,12.14，12.15,12.16, 12.17aand12.17b
 
@@ -9523,7 +8867,6 @@ Referto illustrations 12.10a,12.10b, 12.12,12.13,12.14，12.15,12.16, 12.17aand1
 7 Carefully pry the inner end of the driveaxle from the transaxle or, on 1994 and 1995del Sol models, the intermediate shaft = using a large screwdriver or prybar positioned between the transaxle or bearing support and the CV joint housing (see illustrations). Support the CV joints and carefully remove the driveaxle fromthe vehicle. To prevent damage to theintermediate shaft seal or the differential seal, hold the inner CV joint horizontal until the driveaxle is clear of the intermediate shaft ortransaxle.
 
 ### Installation
-`honda_civic_en_9582f8b2` | civic | pdf_manual | tier:4 | lang:en | layer:suspension | p:1 | doc_type:service_manual
 
 Refertoillustrations 10.8a, 10.8band 10.9
 
@@ -9541,14 +8884,12 @@ Lock the disc as in Step 2 SO it can't turn, thentighten the hub nut'securely. D
 2 Remove the transaxle (see Chapter7， Part A). 3 Slide the release bearing off the input shaft, disengage the clutch release fork retention spring from the ball stud and remove the fork (see illustrations).
 
 ### Inspection
-`honda_civic_en_cd236b0a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 4 Hold the bearing by the outer race and rotate the inner racewhile applyingpressure. If the bearing doesn't turnsmoothly or if it's noisy, replace the bearing/hub assembly with a new one. Wipe the bearing with a clean rag and inspect it for damage, wear and cracks. It's common practice to replace the bearing with a new one whenever a clutch job is performed, to decrease the possibility of a bearing failure in the future. Don't immerse the bearing in solvent -it'ssealed for life andtodosowould ruinit.Also check therelease leverfor cracksand bends.
 
 5 Ifthe new bearing is not equipped with a bearing holder (hub), drive the holder from the old bearing and install it to the new one. A seal/bushing driver or an appropriately sized socket can be used to accomplish this.
 
 ### Installation
-`honda_civic_en_8db140df` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations7.6and7.7
 
@@ -9567,7 +8908,6 @@ Referto illustrations7.6and7.7
 11 The remainder of installation is the reverse of the removal procedure.
 
 ### Referto illustration 8.1
-`honda_civic_en_0bec9205` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Loosen locknut A (see illustration), then back off clutch pedal switch A.
 2 Loosen locknut C, thenturn the pushrod in orout until.the stroke and height of the pedal are within therange listed inthe Specifications atthebeginning ofthis Chapter.
@@ -9578,7 +8918,6 @@ Referto illustrations7.6and7.7
 11 Tighten locknut B.
 
 ### Check
-`honda_civic_en_53331f1d` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1 The starter/clutch interlock switch is locatednear the upper end of the clutch pedal (pedal switch B in illustration 8.1). It hastwo wires - one coming from the starter relay and one going to ground. Whenthe ignition switch keyisturned to the Start position andthe clutchpedal is depressed, the starter relay'spath to ground is closed by the starter/clutch interlockswitch andthestartermotor is activated.
 
@@ -9599,7 +8938,6 @@ Referto illustrations7.6and7.7
 10 Lowerthevehicle and connect thenegative batterycable.
 
 ### 5 Clutch hydraulic system bleeding
-`honda_civic_en_49d07fc2` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Bleedthehydraulicsystem whenever any part of the system has beenremoved or the fluid level has fallen SO low that air has been drawnintothemaster cylinder. The bleeding procedure is verysimilar to bleeding abrake system.
 
@@ -9619,12 +8957,10 @@ Referto illustrations7.6and7.7
 7 Install the dust cap and lower thevehicle. Check carefully for properoperation before placing thevehicle into normal service.
 
 ### 6 Clutch components removal, inspection and installation
-`honda_civic_en_57d0b73d` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning: Dust produced by clutch wearand deposited on clutch components maycontain asbestos, which ishazardous to your health. DO NOTblow itout with compressed air and DO NOT inhale it. DO NOT use gasoline orpetroleum-based solvents to remove the dust. Brake system cleanershould beusedto flush the dust into a drainpan. After the clutchcomponentsarewiped cleanwitharag, dispose of the contaminatedragsand cleanerinacovered，marked container.
 
 ### Removal
-`honda_civic_en_e8b602fc` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 6.5 and 6.6
 
@@ -9635,31 +8971,26 @@ Referto illustrations 6.5 and 6.6
 ![](images/a758c3390d13c704bbf5bf2a8c60d87e3a75a681a96331d11331d29868642572.jpg)
 
 ### 6.9 The clutch disc
-`honda_civic_en_4056b6b4` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Lining thiswillwear down in use 2 Springs ordampers = check for cracking and deformation 3 Splined hub the splinesmust notbe worn and should slide smoothly on the transaxle input shaft splines 4 Rivets 1 these secure. the lining and will damage'the flywheel orpressure plate if allowed to contact the surfaces
 
 ### Driveaxles
-`honda_civic_en_b97f5f29` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Driveaxlelength all Civic modelsand del Sol models without DOHC engine 1992 With dynamic damper L.eft  30-13/32 to 30-19/32 inches Right  ·.   19-11/16to 19-29/32 inches With.o...m m    19-11/16to 19-29/32inches 1993 on 30-13/32to 30-19/32 inches Right    19-11/16to19-29/32inches
 Driveaxle length del Solmodels with DOH …. 18-11/16to 18-29/32inches
 Dynamicdamper (distance from inner CVboot) All modelsexcept del Sol with DOHC engine ..f · 3.0+/- 7/64inches Right..  ·.  ··.. 2-13/64 +/- 7/64inches del Sol modelswith DOHC engine  · ·..·.. 1-inch
 
 ### Ft-lbs
-`honda_civic_en_192fa8ef` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Clutch pressure plate bolts Driveaxle/hub nut  ..·.···· ·····.·····.·..····..·...·.···. Intermediate shaft bearing support bolts
 
 ### General information
-`honda_civic_en_5d1b731c` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The information in this Chapter deals withthe components from the rear ofthe engine to the front wheels, except for the transaxle, which is dealt with in the previous Chapter. For the purposes ofthis Chapter, these components aregrouped into two categories 二 clutch and driveaxles. Separate Sections within this Chapter offer general descriptions and checking procedures for components in each ofthe two groups.
 
 Since nearly alltheprocedures covered inthis Chapter involve working under the vehicle, make sure it'ssecurely supported on sturdy jackstands or on a hoist where the vehicle can be easily raised and lowered.
 
 ### 2 Clutch description and check
-`honda_civic_en_76faf1d7` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 1 All vehicles with a manual transmission use a single dry-plate, diaphragm-spring type clutch.The clutch disc has asplined hub which allows it to slide along the splines ofthe transmission input shaft. The clutch and pressure plate are held in contact by spring pressure exerted by the diaphragm in the pressure plate.
 
@@ -9678,7 +9009,6 @@ d Visually inspect thepivotbushing at the top ofthe clutchpedalto makesure there
 e Crawlunder thevehicle andmake sure theclutch release lever is solidlymounted on the ball stud.
 
 ### Removal
-`honda_civic_en_5def2105` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Referto illustrations3.3a，3.3b 3.4 and 3.5
 
@@ -9702,7 +9032,6 @@ Referto illustrations3.3a，3.3b 3.4 and 3.5
 out during removal. Lower the transaxle from the vehicle. Note: It may benecessary to slowly lower the jack supporting the engine while the jack supporting the transaxle is being lowered. This willprovide more clearance between the transaxle and the body.
 
 ### Installation
-`honda_civic_en_68fedc2a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 29 Honda recommends flushing the transmission cooler and the cooler hoses and lines with solvent wheneverthe transmission is removedfromthevehicle. Useanapproved solvent, such Honda J35944-20 or equivalent. Flush the lines and fluid cooler thoroughly and surenosolvent remainsinthe lines or cooler after flushing. 30 Install thestartermotor motor (see Chapter 5).
 31 Prior to installation, make that the torque converter hub is securely engaged in the pump. With the transaxle secured to the jack, raise itintoposition Be sure tokeep it level so the torque converter does not slide out.
@@ -9719,7 +9048,6 @@ out during removal. Lower the transaxle from the vehicle. Note: It may benecessa
 ![](images/915ed2674eab57a42c78140951eb7fa31eb32b4352f7b3adc4ad7a8039b86c78.webp)
 
 ### 7.15 An exploded view of the shift lock solenoid assembly
-`honda_civic_en_ffeef6f2` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1234 Shiftlock collar Solenoidpin Self-locking nuts (replace) Shiftlocksolenoid
 
@@ -9730,7 +9058,6 @@ out during removal. Lower the transaxle from the vehicle. Note: It may benecessa
 b If thesolenoid doesn't operate, replaceit. If thesolenoid does operate, but you have been having problems with the shift lock system, it may be necessary to adjust the solenoid at its Offand On positions (see below). 13 While the solenoid ison, it'sa good idea to check the clearance betweentheshift lock leverandthe lockpin lock lever and the lock pin groove (see below). 14 Withthe solenoid turned off, notewhether or notthe lock pin is blocked by the shift lock lever.If it isn't, lock lever.If it isn't,adjust theposition of the shift locksolenoid until it is (see below).
 
 ### Solenoid replacement and adjustment
-`honda_civic_en_a4b4205e` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Referto illustrations 7.15, 7.18 and 7.19
 
@@ -9752,7 +9079,6 @@ Note: The following procedure pertains only to the shift lock solenoid. For info
 shiftlock lever and the lock pin groove (arrows) and compare yourmeasurement to the clearance listed in this Chapter's Specifications
 
 ### Check
-`honda_civic_en_320b5706` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Referto illustrations 8.1 and 8.2
 
@@ -9763,7 +9089,6 @@ Referto illustrations 8.1 and 8.2
 3 Connect each ofthe connector terminals (solenoid side) to the battery positive terminal witha jumper wire. Youshould heara clicking sound as each solenoid valve is energized. Ifyou don't, take the vehicle to a dealer and havethe ECM and lock-up control solenoid valve circuits checked out. Caution: Be verycareful when applying battery voltage to an electricalcomponent. Disconnectthecomponent from the main wiring harness and apply voltage directly to the componentorto theharness connector leading to thecomponent. Do notapply voltage to the connector on the vehicle harness-side or damage to the Powertrain Control Modulemay result.
 
 ### Replacement
-`honda_civic_en_ebf0b66d` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Referto illustration 8.4
 
@@ -9821,7 +9146,6 @@ Anti-theft audio system, 0-15
 Automatic transaxle, 7B-1 through 7B-8 diagnosis, general, 7B-1 fluid change, 1-26 level check,1-10 gearposition switch, check, adjustment and replacement,7B-3 general information,7B-1 interlock system, description, checkandsolenoid replacement and adjustment, 7B-5 lock-up control solenoid valve, check and replacement, 7B-6 removal and installation, 7B-7 shiftcable, replacement andadjustment,7B-3 shift indicator panel, adjustment, 7B-3 throttle control cable, check and adjustment, 7B-2
 
 ### B
-`honda_civic_en_7d96a476` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Back-up light switch, checkand replacement, 7A-4
 Balljoints, replacement, 10-7
@@ -9836,7 +9160,6 @@ Brakes, 9-1 through 9-20 Anti-lock Brake System (ABS), general information and t
 caliper, removal, overhaul and installation, 9-8 check,1-17 disc, inspection, removal andinstallation, 9-9 general information, 9-2 hosesand lines, inspection and replacement, 9-15 hydraulicsystem, bleeding, 9-16 light switch, check, replacement and adjustment, 9-19 master cylinder, removal and installation, 9-14 pads,replacement, 9-3 parking brake. adjustment, 9-18 cablereplacement, 9-19 power booster, check, removal and installation, 9-17 proportioning valve,replacement, 9-15 shoes, replacement, 9-10 wheel cylinder, removal and installation,9-14 Bulb replacement, 12-10 Bumpers,removal and installation,11-7 Buying parts, 0-7
 
 ### Cable
-`honda_civic_en_7c173729` | civic | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 accelerator, replacementand adjustment, 4-7 battery, checkand replacement,5-2 parking brake, replacement, 9-19
 Camshaft,removal,inspectionand installion 2A-15
@@ -9856,7 +9179,6 @@ Crankshaft front oil seal,replacement, 2A-14 inspection, 2B-17 installation and 
 linesand fittings,repair and replacement, 4-6 pressureregulator, checkand replacement, 4-10 pump, removal and installation, 4-4 pump/fuel pressure, check, 4-2 tank cleaning and repair, general information,4-7 removal and installation, 4-6 throttle body, check, removal and installation, 4-10 Fuses, general information, 12-2
 
 ### H
-`honda_civic_en_cf58802d` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Hazard/turn signal flashers, check and replacement, 12-3
 Headlights adjustment, 12-9 bulb,removal and installation, 12-8 housing replacement, 12-9
@@ -9890,7 +9212,6 @@ Jump starting the vehicle, 0-15
 Liftgate and support struts,removal, installation and adjustment, 11-6 Lock-up Control Solenoid (automatictransaxle only), 6-9 Lower control arm (front),removal and installation,10-6
 
 ### M
-`honda_civic_en_fa2a4b06` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Maintenance schedule, 1-5
 Maintenance techniques, tools and working facilities, 0-7
@@ -9902,21 +9223,18 @@ Master cylinder, removal and installation, 9-14
 Mirrors electricrear view, description and check, 12-14 outside, removaland installation, 11-10
 
 ### O
-`honda_civic_en_f7c713f5` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Oil cooler, removal and installation, 3-6 pan,removal and installation,2A-17 pump,removal, inspection and installation, 2A-18
 Outside mirrors,removal and installation,11-10
 Oxygen sensor, 6-5
 
 ### Parking brake
-`honda_civic_en_93166394` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 adjustment, 9-18 cable(s), replacement, 9-19 Parts, replacement, buying,0-7 Pistons and connecting rods inspection, 2B-16 installation and rod bearing oil clearance check, 2B-22 removal,2B-12 Positive Crankcase Ventilation (PCV)system, 6-9 Positive Crankcase Ventilation (PCV) valve checkand replacement, 1-24 Power brake booster, check, removal and installation, 9-17 Power doorlock system, description and check, 12-14 Power steering fluid level check, 1-10 pump,removal and installation, 10-12 system, bleeding, 10-13 Power window system, descriptionand check,12-13
 
 Programmed Fuel Injection (PGM-FI) system, general information, 6-2
 
 ### R
-`honda_civic_en_a7d662ee` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Radiator, removal and installation, 3-5
 Rear main oil seal installation (during overhaul),2B-21 replacement (in vehicle),2A-19
@@ -9926,7 +9244,6 @@ Rockerarmassembly, removal,inspectionand installation,2A-7
 Rotor, brake, inspection, removal and installation, 9-9
 
 ### S
-`honda_civic_en_9d1e692b` | civic | pdf_manual | tier:4 | lang:en | layer:suspension | p:1 | doc_type:service_manual
 
 Safety first, 0-18
 Seatbeltcheck, 11-12
@@ -9968,7 +9285,6 @@ Tune-up and routine maintenance, 1-1 through 1-28
 Tune-up, general information, 1-6
 
 ### U
-`honda_civic_en_d5bf4062` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Underhood hose check and replacement, 1-15
 Upholstery and carpets,maintenance, 11-1
@@ -9985,7 +9301,6 @@ Vinyl trim,maintenance,11-1
 Voltage regulator andalternator brushes,replacement, 5-8
 
 ### W
-`honda_civic_en_4638bd9d` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Water pump check, 3-6 replacement, 3-6
 Wheel alignment, general information, 10-13 cylinder,removal and installation 9-14
@@ -10000,7 +9315,6 @@ Cylinderhead cleaning and inspection, 2B-10 disassembly, 2B-9 reassembly,2-11 re
 Cylinder honing,2B-15
 
 ### D
-`honda_civic_en_57ee0589` | civic | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Diagnosis, 0-19
 Disc brake caliper, removal,overhaul and installation, 9-8 pads,replacement, 9-3 inspection,removal and installation, 9-9
@@ -10010,7 +9324,6 @@ Drivebelt check,adjustmentand replacement, 1-14
 Drum brake shoes, replacement, 9-10
 
 ### E
-`honda_civic_en_d019b6ea` | civic | pdf_manual | tier:4 | lang:en | layer:engine | p:1 | doc_type:service_manual
 
 Electric rearview mirrors, description and check, 12-14
 Electrical troubleshooting, general information, 12-1
@@ -10020,7 +9333,6 @@ Engine block cleaning,2B-13 inspection, 2B-15 camshaft, removal,inspectionand in
 reassembly, 2B-11 removal and installation,2A-17 cylinder honing,2B-15 exhaustmanifold, removal and installation,2A-11 flywheel/driveplate,removal and installation,2A-19 general information,2A-2 general overhaul procedures,2B-1 through 2B-20 initial start-upand break-inafter overhaul,2B-24 intakemanifold, removal and installation, 2A-10 in-vehicle repair procedures,2A-1 through 2A-20 main and connecting rod bearings, inspection, 2B-18 mounts, check and replacement,2A-20 oil pan,removal and installation,2A-17 oil pump, removal, inspection and installation,2A-18 overhaul disassembly sequence, 2B-8 general information,2B-5 reassembly sequence, 2B-18 piston rings,installation,2B-19 pistonsand connecting rods inspection,2B-16 installation and rod bearing oil clearance check, 2B-22 removal, 2B-12 rear main oil seal, installation (during overhaul),2B-21 rear main oil seal, replacement (in vehicle),2-19 rebuilding alternatives,2B-8 removal and installation,2B-7 removal,methods and precautions,2B-6 repair operations possible with the engine in the vehicle, 2A-3 rockerarm assembly, removal, inspectionand installation,2A-7 timing belt and sprockets,removal, inspection and installation,2A-12 Top Dead Center (TDC) for number one piston, locating,2A-3 vacuumgauge diagnostic checks,2B-6 valve cover,removal and installation,2A-4 valve springs, retainersand seals, replacement, 2A-9 valves,servicing,-11 VTEC systems,description and component check,2A-4 ngine Control Module (EcM), general information and replacement, 6-13 ngine electrical systems, 5-1 through 5-12 ngine oiland oil filterchange,1-11 vaporative emissions control (EVAP) system, 6-11 vaporativeemissions control system check, 1-27 xhaust Gas Recirculation (EGR) system, 6-9 xhaust Gas Recirculation (EGR) system check, 1-28 xhaust manifold, removal and installation,2A-11 :xhaust system servicing, general information, 4-14
 
 ### F
-`honda_civic_en_40f75cca` | civic | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Fan, engine cooling, checkand component replacement, 3-
 Fault finding,0-19
@@ -10046,7 +9358,6 @@ Typical Civic del Sol wiring diagram (1993 shown, others similar) 5of13
 ![](images/41b1d86134c54d453d89f71791b7d264336091203d3786f5af0e29c71a3b083c.webp)
 
 ### COMPONENTLOCATOR:
-`honda_civic_en_0fa41a62` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/69b1286efef92de0e6c983b1a7288432cbd09aec63ffba55c3e10f859b15dd5f.webp)
 Typical Civic del Sol wiring diagram (1993 shown,others similar) -1of13
@@ -10069,14 +9380,12 @@ Typical Civic wiring diagram (1993 shown, others similar)- 6 of 15
 Wiring Diagram, Copyright @ 1995, Mitchell International, AilRights Reserved
 
 ### Haynes Automotive Manuals
-`honda_civic_en_55a43f2f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 periodic foryourvehicle, NOTE:
 
 ![](images/f89f61a216db7f6168772800fef2a06da485882c554073de8b42af69d9aab9dc.webp)
 
 ### AMC
-`honda_civic_en_65cece3b` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Jeep CJ-see JEEP (50020) 14020 Mid-size models '70thru'83 14025 (Renault) Alliance &Encore'83 thru'87
 
@@ -10105,7 +9414,6 @@ CHEVROLET
 \*24080 Vans . Chevrolet& GMC 68thru '96
 
 ### CHRYSLER
-`honda_civic_en_e9a85834` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 25015 Chrysler Cirrus,Dodge Stratus, Plymouth Breeze 95thru‘00
 10310 Chrysler Engine Overhaul Manual
@@ -10116,7 +9424,6 @@ CHEVROLET
 \*25040 ChryslerSebring, Dodge Avenger‘95 thru‘02
 
 ### DATSUN
-`honda_civic_en_eace8b9e` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 28005 200sXallmodels '80thru '83
 28007 B-210allmodels '73thru'78
@@ -10132,7 +9439,6 @@ CHEVROLET
 28025 810/Maxima all gasoline models, '77thru '84
 
 ### DODGE
-`honda_civic_en_0c69518d` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 400 &600 see CHRYSLER(25030)
 30008 Aries & Plymouth Reliant'81 thru '89
@@ -10158,7 +9464,6 @@ Plymouth Arrow Pick-ups'79thru '93
 \*30065 Vans- Dodge &Plymouth'71 thru '99
 
 ### EAGLE
-`honda_civic_en_30159d56` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Talon -seeMITSUBISHI(68030, 68031) Vision -see CHRYSLER(25025)
 
@@ -10193,7 +9498,6 @@ FORD
 \*36097 WindstarMini-van'95 thru'01
 
 ### GENERAL MOTORS
-`honda_civic_en_3f2e32fe` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 10360 GM Automatic Transmission Overhaul
 38005 Buick Century, ChevroletCelebrity, Oldsmobile Cutlass Ciera &Pontiac 6000 allmodels '82thru '96
@@ -10210,12 +9514,10 @@ FORD
 GEO Metro -seeCHEVROLET Sprint (24075) Prizm 1 '85thru '92 see CHEVY(24060), 93thru '96 see TOYOTA Corolla (92036) 40030 Storm all models '90 thru '93 Tracker- seeSUZUKI Samurai (90010) (Continued on other side)
 
 ### Haynes Automotive Manuals (continued)
-`honda_civic_en_e0f214da` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 NOTE:New manuals are added to this list on a periodic basis. If you do not see a listing foryourvehicle consult vour local Haynesdealer forthe latestproduct information.
 
 ### HONDA
-`honda_civic_en_3b8c2f44` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 42010 Accord CVCC allmodels 76thru 83
 42011 Accord allmodels '84 thru'89
@@ -10232,7 +9534,6 @@ Acura Integra '94 thru '00
 42040 Prelude Cvccallmodels'79 thru '89
 
 ### HYUNDAI
-`honda_civic_en_6f511bea` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 \*43010 Elantraallmodels 96thru'01
 43015 Excel&Accentallmodels '86thru 98
@@ -10268,7 +9569,6 @@ MAZDA
 \*61042 626'93thru'01,MX-6/Ford Probe '93 thru'97
 
 ### MERCEDES-BENZ
-`honda_civic_en_dccd18af` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 63012 123 Series Diesel'76 thru '85
 63015 190 Series four-cyl gas models, '84thru '88
@@ -10277,14 +9577,12 @@ MAZDA
 63030 350 &450 allmodels'71 thru '80
 
 ### MERCURY
-`honda_civic_en_481fb8bc` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 64200 Villager& Nissan Quest'93 thru'01 All other titles, see FORD Listing.
 
 MG 66010 MGB Roadster&GT Coupe'62 thru'80 66015 MG Midget, Austin Healey Sprite '58 thru'80
 
 ### MITSUBISHI
-`honda_civic_en_ce6a3ac9` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 68020 Cordia, Tredia,Galant, Precis&
 Mirage 83thru '93
@@ -10293,7 +9591,6 @@ Mirage 83thru '93
 68040 Pick-up '83thru.'96&Montero '83thru '93
 
 ### NISSAN
-`honda_civic_en_aa3dd84e` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 72010 300zXallmodels including Turbo '84thru'89
 72015 Altima allmodels '93thru '01
@@ -10309,12 +9606,10 @@ Quest-seeMERCURYVillager (64200)
 72060 Stanza allmodels '82thru '90
 
 ### OLDSMOBILE
-`honda_civic_en_238121f0` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 73015 Cutlass V6& V8 gasmodels'74 thru '88 Forother OLDSMOBILE titles,see BUICK, CHEVROLETOrGENERAL MOTORSlisting
 
 ### PLYMOUTH
-`honda_civic_en_92601890` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For PLYMOUTH titles, see DODGE listing.
 
@@ -10325,7 +9620,6 @@ PONTIAC
 79040 Mid-size Rear-wheel Drive'70thru'87 Forother PONTIAC titles, see BUICK, CHEVROLET Or GENERAL MOTORSlisting
 
 ### PORSCHE
-`honda_civic_en_58198c2f` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 80020 911except Turbo& Carrera4'65thru'89
 80025 914 all 4 cyl models '69thru'76
@@ -10333,7 +9627,6 @@ PONTIAC
 80035 944all models including Turbo '83 thru'89
 
 ### RENAULT
-`honda_civic_en_2a83efd0` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Alliance & Encore = seeAMC (14020)
 
@@ -10344,7 +9637,6 @@ SATURN \*87010 Saturn all models'91thru'99
 SUBARU 89002 1100,1300,1400 &1600 '71 thru'79 89003 1600 &18002WD &4WD 80thru '94
 
 ### SUZUKI
-`honda_civic_en_42e92427` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 \*90010 Samurai/Sidekick&Geo Tracker '86thru'01
 
@@ -10374,7 +9666,6 @@ TOYOTA
 92085 Tercel allmodels '87thru '94
 
 ### TRIUMPH
-`honda_civic_en_9883fdda` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 94007 Spitfire all models '62 thru'8'
 94010 TR7 all models'75thru'81
@@ -10396,7 +9687,6 @@ VOLVO
 97015 140 Seriesall models '66thru'74 97020 240 Series all models '76thru '93 97040 740 & 760 Seriesallmodels'82 thru '88 97050 850Seriesall models '93thru '97
 
 ### TECHBOOK MANUALS
-`honda_civic_en_30ed2f0d` | civic | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 10205 Automotive Computer Codes
 10210 Automotive Emissions Control Manual
@@ -10427,7 +9717,6 @@ VOLVO
 10450 ATV Basics
 
 ### SPANISH MANUALS
-`honda_civic_en_d0ca895a` | civic | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 98903 Reparacion de Carroceria& Pintura
 98905 C6digos Automotrices de la Computadora
@@ -10451,4 +9740,3 @@ Jimmy '92 '94, Tahoey Yukon '95al'98
 99110 Nissan Camioneta '80al'96,Pathfinder '87al'95
 99118 Nissan Sentra '82 al '94
 99125 Toyota Camionetasy 4Runner '79 al'95
-

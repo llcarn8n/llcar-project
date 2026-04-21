@@ -1,8 +1,12 @@
-# Manual: skoda/octavia (2635 chunks)
-<!-- doc_type:unknown tier:4 lang:en -->
+---
+brand: skoda
+model: octavia
+generation: a8_2020
+source: kb
+---
+
 
 ### NOAPOBHbIE ЗNEKTPNYECKNE CXEMbI, XryTbl N PA3bEMbI
-`skoda_octavia_en_b86b6ee7` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 SKODA OCTAVIA OCTAVIA Combi/R /RS PyKOBOACTBO nO JkcnnyaTaLnn, peMOHTy N TeXHN4eCKOMy O6cnynBaHnIo
 
@@ -11,7 +15,6 @@ SKODA OCTAVIA OCTAVIA Combi/R /RS PyKOBOACTBO nO JkcnnyaTaLnn, peMOHTy N TeXHN4e
 ![](images/57c77c92faa5c14af8cce396a4abec4bb00446414fef882e02738578c8adc0f8.jpg)
 
 ### PyKOBOACTBO n0 3KcnJyaTaLNN, peMOHTy N TeXHN4eCKOMy 06cnyxNBaHNI0
-`skoda_octavia_en_b8651265` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbInyCK C 2013 厂
 
@@ -20,7 +23,6 @@ BbInyCK C 2013 厂
 ![](images/_MISSING_ffb3f60174ebea151f5737b63920672ccd2d11a1ee77288b4a546f38867f3e5e.webp)
 
 ### COAEPXAHNE
-`skoda_octavia_en_a8a05b80` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NHCTpy KuNg no. 3kcnJiyaTauNn-MecTO BOINTeJIA npn6opbl M KOHTponb Hbie JaMribI
 MHCTPyKUNA n 3kcnJIyaTaun-NH@opMauMoHHag CHcTeMa BOINTenA KOMnbI Tep 10
@@ -52,7 +54,6 @@ rnaBa BeH3NHOBbte ABnrarenn ！， 8,2 0n -CNCTeMa Bbiycka or, CNCTeMa 3axnraHNA
 TnaBa In3eJibHble IBNraTenN 1 6/2, 0π (CLHB,CLHA, CKFB, CKFC,CRVC,CUPA, CRKB) CHATNe/ ycTaHOBka, onopbi/ pa36opka,nepenaua HOJINKJINHOBbIM peMHeM kpbmka koneHBana MaxoBnK,rBu 210
 
 ### COAEPXAHNE
-`skoda_octavia_en_01fbd3eb` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TnaBa I3enibHhe IBNraTeJN 1,6/2,0n. -rasopacnpenennt MexaHN3M, CNCTeMa CMa3KN,NJbTp .231
 PnaBa Jn3eJibHble IBnraTeJin 1,6/2,0π. CNCTema OXJIaxneHNA,HacOc,TepMOcTaT,naTUnK L， naHry pannaTop, BeHTJATOp,TOnJBHaA CNCTeMa, nnbTp mnaHrn,TypooHarHeTaTeJib.  238
@@ -93,7 +94,6 @@ TnaBa Ky30B HapyxHbe 3epkaja 3anHero Buna 450
 TnaBa Ky30B TsroBO-cuenHoe ycTponicTbo. 452
 
 ### COAEPXAHNE
-`skoda_octavia_en_d0833197` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TJaBa peJnHrn Kpbn,3anHnn cnonnep. 53
 TnaBa TpeHnee 3epkajio 3aⅡHero BNIa LeH TpaJbHaa KOHCOJb 454
@@ -146,14 +146,12 @@ TnaBa 6.06mee SnektpoobopyobaHne-npenoxpaHnTeJn. 557
 PsaBa 6 06uee 3Jekrpoobopynobanne-pene. 565
 
 ### COAEPXAHNE
-`skoda_octavia_en_dd7257a8` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Tnaba 6.06mee aJiektpoo 6opy HOBaHne TouKN npncoenHeHnA K Macce. .566
 rnaBa 6.06mee JiekTpoobopynoBaHne npAHuNnnanbHbe 3nekTpnueckne CxeMbI ueera npobonos. 568
 rnaBa 6.06mee SJekTpoobopyxoBanne npuHunnanbHe 9nekTpnueckne CxeMbl, CNCTema KOM@opra. 586
 
 ### MecTO BOANTenA
-`skoda_octavia_en_717813a7` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1.9nekTpuecke cTexsonAbeMHNKN 2 BHyTpeHHAR pyka ABepN 3. TepeKnouarenb perynupoBkn nonoxeHNHapy>KHbIX 3epkan 4.AepnekTop 5.3axwMAn napKoBouHoro TanoHa 6.oApyneBoepeknouaenb:CurHanbi NOBOPOTa.AanbHNi cBeT NCToAHO4Hbie coHapN,CBeTOBon CrHan,Kpy3-ob Bbl30B nyHxTa MeHIO AccNCTeHTbl 7. Pyneboe koneco: Co 3ByK0BbIM CHrHanOM, C cpOHTanbHonnoAy山koN 6e3onacHoCTN BOANTenA, C Kia8nwamn yipaBneHn NHbopMauNOHHoN CNCTeMbl, C KnaBnuamnynpasneHN yHKUNAMN CNCTeMbl Infotainment 8.KoM6nHaLna npn6opoB 9. noApyneBon nepekniouarenb: CtexnoO4NCTNTenb, CTeKnOOMbIBaTenb, MHorocyHKLNOHanbHbIM ANcnneeM, NHCOPMaUNOHHaA CNCTeMa 10. AecnekTopbl 1 qeHTpy nepenHen naHen 11. Infotainment 12. KoHTponbHaA naMna OTKAOYeHHON cpOHTanbHon noAy山kn 6e3onacHocTh nepeA Heronaccaxupa 13. KnaBwma aBapNNHoN CBeTOBON CHrHanN3auN 14. BHyTpeHHee 3epkano 3aqHero BHAa 15.BemeBoN suK coCTopoHbInepeqHero naccaxupa 16. poHTanbHas noAyuka 6e30nacHoCTN nepenHero naccaknpa
 
@@ -180,21 +178,18 @@ Coo6ueHne SAFE CP Ha ANcnnee B KOM6NHaLNN npn6opo8 03Ha4aeT, 4T0 3amuTa KOM6NHaU
 ![](images/_MISSING_fd020a69aeadd51070b4b4750416abced17bbd81bf06b05476fa2fe0b179508f.webp)
 
 ### NHANKaTOp HeNcnpaBHOCTN
-`skoda_octavia_en_07007ece` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn B KOM6NHaLNN npw6opoB NMeeTCA HencnpaBHOCTb, HaANcnnee oro6pakaeTcg cneAyio山ee coo6山eHne: M Own6xa: KOM6NHaLNA npn6opoB. B peMOHT! S KOM6NHALN9 NPN6OPOB BPEMOHT.
 
 O6paTnTecb Ha CTO.
 
 ### Kom6nHauna npn6opos
-`skoda_octavia_en_f97c92eb` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1. TaxoMeTp C KOHTpOnIbHbIMN namnamh 2. Ancnnen: Co C4eT4NKOM npo6era, C NHANKaTOpOMTO,c3neKTpoHHbIMN yacaMN,CNH中opMaLNOHHoN CHCTeMON, C KOHTPOnbHbIMN NNKTOrpaMMaMN 3. CnnAoMeTp （1） C KOHTpOnbHbIMN namnaMn 4 yxa3arenb TeMnepaTypblOK 5.aHenb C KOHTponbHbIMn aMnamN 6.KnaBna An: Hacrponkn 3Ha4eHi yaCOB/MNHYT, HHANKaLNN npo6era W BpeMeHn, OCTaBwerocA A0 o4epeAHoro TO, o6HyneHNg WHANKaTopa TO, oOHyneHne cyeTuNka CyToyHoro npo6era, NHAukaunn 3apgna AK6
 
 7. yka3aTenb ypOBHA TonnnBa
 
 ### Taxometp
-`skoda_octavia_en_eceb218e` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KpaCHbIM uBeTOM Ha iukane TaxoMeTpa 1 pa3MeueHa 30Ha, BKOTOpOn cncTeMaynpabneH9 Ha4NHaeT OrpaHN4NBaTb 06opoTbl ABNraTens. CNCTeMaaBTOMaTwueCKNOrpaHnyNBaeT 06op0Tbl ABnraTenA 0 6e3onacHoro npeAenbHoro 3HaueHNA epexniouanirecb Ha 60- nee BbICOKyI0 nepena4y WN nepebonnte ceneKTop AK B nonoxeHne D paHbme, yem CTpenka TaxOMeTpa AocTHrHeT KpaCHOi 30Hbl. 4ro6bl NCKnI04NTb pa6oTy ABnrateng Ha CANWKOM BbIC0KNX NANCnNUKOM HN3KNX 060- poTax Heo6x0ANM0 cneAoBaTb pekoMeHqaunAM no Bb16opy nepenaun.
 
@@ -209,7 +204,6 @@ A CerMeHTHbii ANcnnen B.Ancnnen MAXI DOT pHMe4aHNe:B3aBNCNMOCTHOTKOMneKTaUnN a/M
 ![](images/3fd299a4bf39ec4acba64cd7267c32bfcf2b7bab698fc625d5f10a1103bd171d.jpg)
 
 ### TpeAynpexAeHnenpnnpeBbiweHN cKopoctn
-`skoda_octavia_en_d3fc265a` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pwnpeBbIWeHNN CKopoCTN 120 KM/4 pa3- AaercA npeAynpexAao山nni 3BykoBon chrHan. KorAa ckopoCTb CHOBa CTaHOBNTCAHNKe 120 KM/4, npeAynpexAaiomnn 3ByKOBON CNrHan BblKnioyaeTCA.
 
@@ -220,17 +214,14 @@ yxa3atenb TeMnepaTypbiOX
 yka3areAb TeMnepaTypbl 0X pa6oraeT TOnbK0 NpN BKJIoYeHHOM 3axnrahnn.
 
 ### 30Ha HN3K0 TemniepaTypbl
-`skoda_octavia_en_a50c8c44` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn CTpenka HaxonNTCA B nebon 30He WKanbl, ABnraTenb eme He AOCTnr pa6ouen TeMnepaTypbl. N36eraiTe Bbicoknx o6opoTOB. ABNKeHNA C NONHOCTbIO HaxaTon neAanbio ra3a 转 upe3MepHo Harpy3KN Ha ABNraTenb. 3TNM npenoTBpauaeTca PNCK nobPexAehnn ABNraTenA.
 
 ### 3oHapabouenTemnepaTypbl
-`skoda_octavia_en_321406a2` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecn ctpenka HaxonnTCA B cpeqHen 30He Wkanbl, ABNraTenb AOCTNr CBoen pa6ouen TeMnepaTypbl.fpn 6onbmon Harpy3ke HanBnraTenbWnN BbiCokoN HapyXHon TeMnepaType CTpenka MOKeT nepeMecTNTbCR eue npabee.
 
 ### 30Ha Bbicokon TemrtepaTypbl
-`skoda_octavia_en_b42a621f` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn Tpenka Ao山na no kpacHoro cekTopa WKanbI,TeMnepaTypaO>K cnnukoM Bbicokag.
 
@@ -251,7 +242,6 @@ km B A trip
 1024 96.3
 
 ### C4eT4NKcyToyHoronpo6era[trip]
-`skoda_octavia_en_f06dee6c` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CueTuNK CyTo4Horo npo6era A noka3bIBa-er paccTOAHNe, nponneHHoe a/M C MOMeHTanocneHero oOHyneHn cyeTunKa, Noka3aHN9BbIB0ARTCA C TO4HOCTbIO AO 100 M.
 
@@ -260,17 +250,14 @@ C6poc c4erunka cyTo4Horo npo6era
 KopOTKO HaXMNTe KnaBnwy 6.
 
 ### yctaHoBka 4acoB
-`skoda_octavia_en_b677494f` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BKiounte 3axuraHne. ynepxuBanTe knaBHwy6 HaxaTon, noka HaAncnnee He NIABATCA qacbi. OTnyCTNTe KnaBnWy 6 CNCTema nepeknoyaeTcA Ha cyHKUNIO yCTaHOBKN BpeMeH, HaxMnte KnaBnwy 6 no8TOPHO N 3anante 3Ha4eHne Ang 4acoB. NonOXAure npNMepHo 4 ceKyHAbI,cCTeMa nepeKnoyNtcR HaHacponKy 3Ha4eHn8Ag MNHyT.HaxMnte KnaBnwy 6 nOBTOpHO N 3aAanTe 3Ha4eHNeAn MNHyT.HaCTpONTb noka3aHns 4acoB MOKH0 Takxe B CNCTeMe Infotainment.
 
 ### NHANKaUnA3apAAaAK5
-`skoda_octavia_en_b1d6999c` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbiKno4nTe 3axnraHne. yAepxnBanite KnaBnwy 6HakaTon, noka Ha ANcnnee He BblCBeTNTCS COCTOHHNe AKb NnN AKb SOC. OTnycTnTe KnaBnuy6,6yAeToTo6paxaTbcAcreneHb 3apA\*eHHoCTN AK6 8 npoueHTax (%).
 
 ### CaMoqnarHocTNka
-`skoda_octavia_en_e3c2366a` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pn BKnIO4eHHOM 3axnraHNNBa/M noCTO-AHHOnpOBepsoTCR OnpeAeneHHble yHKLNNNCOCTORHNA OTAenbHbIX CHCTeM a/M. Coo6me-HA 0 c6ogx N HencnpaBHocraX  Apyrne AaH-Hble OTOOpaKaIOTCA Ha Ancnnee 8 KOM6NHa-LN npn6opos. HekOTopbIe Coo6meHNA OTO-6paxaioTcA OAHOBPeMeHHO D KOHTPONbHbIMNnamnaMn WAN NNKTorpaMMaMN Ha Ancnnee.Coo6meHnn Bbl80ANTCAAO Tex nop, noka He-NcnpaBHocTb He 6ygeT yCTpaHeHa.Tlocne nep-BOrO OToopaKeHNA, CNMB0nbl
 
@@ -283,21 +270,18 @@ npOAOnXatoTQTo6pakaTbcA6e3yKa3aHNn Ang Bonnteng.
 ![](images/_MISSING_1b1788b33af94fe4b3735d6de62114d23a927e0fd6bd54af55a2d916dc8fb355.webp)
 
 ### KoHTponbHbienamnbl
-`skoda_octavia_en_a0fc4a1b` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KoHTponbHble naMnbl noka3bIBalOT Texy山ee COCTOAHNe 中yHKLN nN60 HenCrpa8H0- CTN. 3aropaHne HeKOT0pbIX KOHTPOAbHbIX namn MOXeT conpoBoXAaTbcg 3ByK0BbIMN CNrHanaMN N nORBeHNeM CooG山eHN Ha ANCnnee B KOMONHaUNN npNGopOB locne Bknto4eHnA 3axNraHNA HeKOTopble KOHTp. naMnbl 3aropaIoTcg Ha KOpoTkoe BpeMgAn npoBepKn paborOCNOCOOHOCTNCNCTeM a/M. Ecn cncteMbl NcnpaBHbl, yepe3Heckonbko cekyHAnocne BKNoYeHNA 3akhraHng KOHTp. namnblracHyT. Texy山ee coCToAHNe 中yHKun N CNCTeM noka3blBaI0T KOHTp. nNKTorpaMMbl Ha ANcnnee. KoHTponbHble naMnbt HaxoA9TC9 B cneAyio山NX MeCTax KOMONHaUNN NpN6opOB:TaxOMeTp 1,cnnAOMeTp3, naHenb C KOHTpOnbHbIMN aMnam 5.
 
 BHNMAHNEI VrHopupoBaHe CHrHano8 KOHTponbHbIxnaMnNCoooueHnnHaAHcnieeKOM6NHaNNnpn6opoB MOKeT npnBecTuK TpaBMHpOBaHHIO nonen noBpexAeHnoa/m, Ecn Bb1BbiHyKAeHbl OCTAHOBHTbCA 13-3a TeXHNUecKON HenCnpaBHOCTN, OCTaHOBNTe a/m Ha 6e30nacHoM paccTOAHHN oT TpaHcnopTHoro noToka, BblKoynTe ABHratenb H BKAIOUnTe aBapwiHyio CBOTOBYIO ChrHann3aunio. BbiCTaBn8Tb 3HaK aBapuhHon OCTaHOBKN cneAyeT Ha npeAnncaHHOM paccrORHNN. MoropHbI OTCeK a/M-30HanoBbIweHHon onacHocTn.
 
 ### AKN
-`skoda_octavia_en_bd97d5e2` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KoHTp0ibHb1e naMnbl c006- 山aloT 0 HeNcnpaBHOCTw/CoCTOSHNN AKI.
 
 ![](images/_MISSING_9aae3ddb6437baffce8f97718c2eab65233d849be2bfc32513d4737ab1cecbd0.webp)
 
 ### CTOAHO4HbINTOPM03
-`skoda_octavia_en_ef7b14bf` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KoHTponbHan namna ropnT npn 3aTAHyTOM CTOSHO4HOM TOpM03e. Apm
 
@@ -306,7 +290,6 @@ KoHTponbHan namna ropnT npn 3aTAHyTOM CTOSHO4HOM TOpM03e. Apm
 ABNKeHNN C 3aTAHyTbIM CTORHO4HbIM TOPMO30M C0 CKOPOCTbiOBbiWe 5KM/4noAaeTcA 3ByKO80N curHan. Ha Ancnnee KOMONHaUNN nPN6opoB OTo6paxaeTCA cneAylomee co06meHNe: “M BblK1o4nTe CTOAHO4HbIN TOPM03! "S" BbIK1IO4NTE CTORHO4HbIN TOPMO3.
 
 ### TopMO3Hag CHCTeMa
-`skoda_octavia_en_f9eaedb3` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/_MISSING_e0970e4536a93e1a2f1df56e0d2cb734f4cafd513cb1e4999f47cdc0ea31dc73.webp)
 
@@ -319,7 +302,6 @@ OcTaHOBNTe a/M, BbIKnIo4NTe ABNI npoBepbte ypoBeHb TOPM03HON 茶 Ecnn KOHTp. nam
 Ecnn KOHTp. namna 3aropa- 1. ） eTCBMeCTe C KOHTp. namnon, He npoAonkatb ABNKeHNe! 06paTNTeCb Ha CTO. C6on B pa6oTe TOPM03HON CHCTeMbI MOXeT CyUeCTBeHHO yAnNHNTb TopMO3HOW nyTb a/m!
 
 ### KoHTponbHas naMna npeAynpexAeHNAOHenpNCTerHyTOMpeMHe 6e3onacHocTn
-`skoda_octavia_en_5144098b` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 1真
 
@@ -330,7 +312,6 @@ KoHTp0nbHag naMna 3aropaeTcA npn BKnloyeHNN 3axwraHnA, kak HanoMNHaHNe 0 Heo6xog
 ![](images/_MISSING_80c7ff6f8fba399fa1e03820e5f1688ec2dce52ae34a1bb5f0804d008339ea6a.webp)
 
 ### ycHnnTenbpyneBoro ynpaBneHNA
-`skoda_octavia_en_7c7bf70b` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecn 3aropaeTcA KOHTP. namna, npon3omen yaCTN4HblnOTKa3yCNnNTen pyneBoro ynpaBneHnA, NAA noBOpoTapyeBoro koneca MOKeTnOTpeGoBaTbCA 6onbwee ycnnne.HemeAneHHo oopaTnTecb Ha CTO. KorAa ropuT KOHTp. namna, ycwnnTenb pynteBoro ynpaBneHng MOnHOCTbl0 BbIwen 3 CTpos, 1 noAAepxka pyneboro ynpaBneHng He ocymecTBnReTCA Ang noBopoTa pyneBoro koneca Tpe6yeTc9 3Ha4nTenbHO 6onbwee ycunne). HemeAneHHO o6parnTecb Ha CTO.
 
@@ -341,7 +322,6 @@ Apumeuanne: Apn OTKNIOYeHNH H n0- BTOPHOM nOAKmOYeHHN AK6, nocne BKnIOHeHNA3aKNr
 nocne Toro, KaK a/M npoeneT He6onbwoe paccTOaHNe, KOHTp. namna AonXKHa norac HyTb. EcnN nocne noBTopHoro nyCka ABnrate W KOPOTKON noe3AkN KOHTp. namna He racHeT, CNCTeMa HencnpaBHa. HeMeAeHHO o6paTWTecb Ha CTO.
 
 ### AHTNnpo6yKcOBO4HaA CNCTeMa (ASR)
-`skoda_octavia_en_e2ed6636` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/_MISSING_62cb03a1ad7b7c2a6bb0646e0f1f85a3df3f87203c28825042f0120271ae75e2.webp)
 
@@ -356,14 +336,12 @@ pnMeyaHue:EonnAK66binaOTcoeAn HeHa H CHoga noncoeqnHeHa, Y0 nocne BKnoyeHNA 3axh
 EcnN KOHTp.naMnaropNT,9TO03Hayaer, 4T0 CMCTema ASR BblKsioyeHa. Ha Ancnnee KOM6NHauNN rpn6opob OTo6paxaercg cneAyiomee coo6meHNe: M AHTNnpo6yKcOB. CuCTeMa (ASR) BI Ko4eHa. “S ASR BbIKA.
 
 ### AHTHnpo6yKcoBO4Hag CHCTeMa (ASR) BbiKioyeHa
-`skoda_octavia_en_9b397993` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 百商
 
 KorAa KOHTp.JaMnaMraeT,3T003- HauaeT, 4T0 cpa6aTbIBaeT CNCTeMa ESC. EcnN KOHTp.namna ropnT,cucteMa ESC HencnpaBHa. Ha Ancnnee KOM6NHaunn npn6opoB OToopaxaeTca cneAyiomee coo6meHNe: “M Oww6ka: ESC (cNCT. nonqepx. KypcoB. yctonu.) OUN6KA ESC.
 
 ### CNcTeMa nOAAePXaHng kypcoBon yCTOHUNBOCTH (ESC)
-`skoda_octavia_en_1d367454` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 自之之
 
@@ -380,7 +358,6 @@ TpMeuaHne: EonN AK6 6bta OTCOeAN-HeHa N CHoBa noncoeAnHeHa, T0 nocneBKnoyeHNA 3a
 Ecnn nocne Toro,Kaka/npoeneTHe6onb山oe paccTORHne, KOHTp. naMna H racHeT, CNCTeMa HencnpaBHa. HemeAneHH0 06paTwTecb Ha CTO.
 
 ### AHTH6nOKNpOBO4HagCNCTeMa (ABS)
-`skoda_octavia_en_e5dd9d09` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 （）
 
@@ -393,7 +370,6 @@ EcnN KOHTp. naMna 3aropaeTC9 BMecTe C KOHTp.naMnon, HenpoAonKaTb ABNxeHne!O6- pa
 ![](images/_MISSING_3d574bf7095e004aede8c6f89324ad20cd3e0b3e8d55aa99b1694613a277dfc0.webp)
 
 ### 3aAHNN npOTnBOTyMaHHbioHapb
-`skoda_octavia_en_a67bff92` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KoHTpONbHaa namna ropnT npu BKO4eHHOM 3aAHeM IpOTNBOTyMaHHOM coHape.
 
@@ -402,21 +378,18 @@ KoHTpONbHaa namna ropnT npu BKO4eHHOM 3aAHeM IpOTNBOTyMaHHOM coHape.
 Ecnn ropnT KOHTp. namna, CNCTeMa KOHTPOnA 0r HencnpaBHa, CncreMa AOnyCKaeTABNKeHNe B aBapniHoM peKNMe. HeMeAneHHO o6paTNTecb Ha CT(
 
 ### CuCTeManpeABapnTenbHoro HakanHBaHNA (AN3enbHbInABNraTenb)
-`skoda_octavia_en_f2914ee6` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KoHTp0JbHa8 namna 3aropaeTcA nocne BKnioueHng 3akraHNA. rocne Toro,kak naMnanoracHeT, ABNraTenb MOXHO cpa3y xe 3anyCTNTb. Ecn KOHTp. namna He 3aropaercA Nnn ropnT NOCTORHHO, CACTeMa npeABapnTenbHoro HakanNBaHng HencnpaBHa. Ecnn KOHTP. namna B0 Bpem9 ABNKEHNA HaunHaeT MNraTb, B CHCTeMe ynpaBneHnABnrareneM NMeeTcA HeNcnpaBHocTb. CucTema AonyckaeT ABNKeHne BaBapnnHoM pexnMe. HemeAneHHO 06paTNTeCb Ha CTO.
 
 ![](images/_MISSING_8a31e8fa9f94fadbc2234360848393adaa8e9300f37949588d387fd96ca099f8.webp)
 
 ### OnektpoHHagneAanb ra3a (6eH3WHOBbINABNraTenib)
-`skoda_octavia_en_8e318158` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EPC
 
 Ecnn ropuT KOHTp. namna EPC, NMeeTCA HenCnpaBHOCTb B ChCTeMe ynpaBneHNA ABNraTenem. CNCTeMa nonycKaeT ABNKeHNe B aBaPhNHOM penme. HeMeqneHHo o6paTNTeCb Ha CTO.
 
 ### HencnpaBHoCTN B CHCTeMe rIoAywek 6e30nacHocTN
-`skoda_octavia_en_b3eb901f` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/_MISSING_84e0172a05039dc61151325cf7ed12a59d14b7cb57accff16a4e5e9f5686c0d7.webp)
 
@@ -425,17 +398,14 @@ Ecnn rOpNT KOHTp.naMnaN Haqncnnee NMeeTCA cneAyiolee coo6meHNe, CNCTeMaroAymek 6
 ToTOBHOcTb cnCTeMbl nony山ek 6e3onaCHoCTN KOHTpOnNpyeTcA aBTOMaTNyeCKN, B T. 4. korna OAHa N3 NoAyWeK 6e30nacHocTN OTKioueHa,
 
 ### NoAyWka 6e3onacHocTH nnN npeAHaTaXH Tenb peMHA 6e30nacHocTNOTKnIo4eHbl C nomombio TecTepa
-`skoda_octavia_en_80ef8b95` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KoHTponbHas namna npnBkloyeHN 3axnraHnA 3aropaercg Ha 4 ceKyHAbI N nocne 3Toro MnraeT npnMepH0 12 cekyHA.Ha ANCnnee KoM6NHaunn npn6o poB OTo6paxaeTcA cnenyiomee coo6meHne: M NoAywka 6e3./npeAHaTanT. OTK04eHbl. “S n0Ay山KN 5E3ON./NPEAHAT. BblK.
 
 ### poHTanbHas noAywka 6e3onacHocTH ne peAHero naccaxnpa OTKoyeHa C nOMO山bioBbiKnioyaTeng CKIO40M
-`skoda_octavia_en_c6b99c7b` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KoHTponbHaa namnaropnt nocne BKno4eHNg 3akhraHng B TeyeHne 4 ceKyHA. KoHTponbHan naMna OFF B Haqnnch PASSENGER AIR BAG ON/OFF B LeHTpalbHon uacth nepenHen naHenn nocne BKnOUHNA 3axnraHnA 3aropaeTcg.
 
 ### fpeBeHTHBHaRCHCTeMa 6e30nacHocTN
-`skoda_octavia_en_0384cb70` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn ropnt KOHTp. naMna W Ha Ancnnee WMeeTCA OAHO 13 cneAyioENx coobmeHnn, Heo6xoA4MO 3aMe
 
@@ -444,12 +414,10 @@ Ecnn ropnt KOHTp. naMna W Ha Ancnnee WMeeTCA OAHO 13 cneAyioENx coobmeHnn, Heo6x
 HNTb peMHN 6e30naCHocTNBoqNTengN nepeA-Hero naccaxnpa.HeMeAneHHo c6paTnTeCb HaCTO:"M TpeBeHTNBHaA CNCTeMa 6e30nac-HOCTN HenocTynHa. "S NPEBEHTNBHASCNCTEMA NACCNBHON 6E3OTIACHOCTNHE/OCTYIIHA.
 
 ### Nn
-`skoda_octavia_en_dbdb5f1c` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 "Mn TpeBeHTNBHag CNCTeMa 6e30nacHoCTN: pa6oTa C orpaHnyeHNsMN. S NPEBEHT. CNCTEMA 5E3OIIACHOCTN PA6OTAC OTPAHN4.
 
 ### AaBneHne B WHHax
-`skoda_octavia_en_baab307a` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KoHTpObHag namna 3aropaeTcA, 白日 ecsw B OAHOM 3 konec o6HapyxeH0 3Ha4nTenbHoe naneHne AaBneHng no Cpa8HeHNiO c nepBoHayabHon BennyNHon. poBepbTe AaBneHNe BO Bcex WNHaX N npN He06xOANMOCTN AOBeANTe ero A0 HopMb1. AoNONHNTenbHO pa3qaetcA Takxe npenynpexxAaio山nn 3ByKoBon crHan Ecn KOHTP. namna MnraeT, B CNCTeMeNMeeTCA HeNCnpaBHOCTb. HemenneHHo o6paThTecb Ha CTO.
 
@@ -462,7 +430,6 @@ Ecnn nocne Toro, kak a/M npoeneT He6onbloe paccTosHne KOHTP.naMna He racHeT,CnCT
 KornaropuT KOHTp.naMna,TOpMO3- Hble KONOAKN N3HOWeHbl. Ha Ancnnee KOM6NHaUNN npn6opoB OTo6paxaercA cneAyiouee coo6meHne: "MpobepbTe TopM03Hb1e KOnOAKN! S nPOBEPbTE TOPMO3HbIE KOJIOAKN. HemenneHHo o6paTnTecb Ha CTO,
 
 ### yka3atennnoBopota
-`skoda_octavia_en_d966ca33` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/_MISSING_a31642228d79324ed57b2848077b5831fb0eec5b48ca1d284056704b2fe82293.webp)
 
@@ -473,7 +440,6 @@ Nnnnpabag
 KOHTp. namna. pN HencnpaBHOcTh B yka3atensx NOBOPOTa KOHTp.sIaMna MNraer c yABOeHHON yacToTon. 9To He OTHOCNTCAK a/Mc npnuenom. pN BKJNoyeHHON aBapniHon CBeT080N CNrHann3aUNN OHOBpeMeHHO MNraIoT 8ce yka3arenNnoBopota a/M, a rakxe 06e KOHTp. namnbl.
 
 ### yxa3atennoBopoTa Hanpnuene
-`skoda_octavia_en_796e0e40` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 四E四
 
@@ -482,7 +448,6 @@ Korqa KOHTp. namna MhraeT, 3T0 03HauaeT, 4T0 BK1IO4eHbl yka3aTenN noBopoTa Ha np
 Tpiuen MOnXeH OblTb noncoennHeH HaAnekaunMo6pa30M.
 
 ### KoHTponbHble nNKTorpaMMbl Ha ANcnnee
-`skoda_octavia_en_66abbdea` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnN 3aropaeTcg KOHTp.naMna,Ha· KMNTenenanb TopM03a.
 
@@ -515,7 +480,6 @@ KoHTponbHblenNKTorpaMMbl 1
 3aropaioTcg nocne BKSIOYeHNA 3axuraHMA. Korna peMeHb 6e30nacHocTn Ha 3aAHeM CHAeHbe npNCTerNBaeTCA WnN OTCTérNBaeTCA, COOTBeTCTByIOWag KOHTp. NINKTOrpaMMa3ar0- paercA Ha HenpoAonknTenbHoe BpeMA W OTO6paxaeT Tekyuee COCTOAHNe PeMHA!
 
 ### FeHeparop
-`skoda_octavia_en_b7b32abe` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/_MISSING_d8b986c3a40b7a2be0f0aefaf8a7b186ecb0a21d058deba09540c72d92ddc5bc.webp)
 
@@ -542,7 +506,6 @@ KOMONHaUNN npn6opos NABNHCA cnenyio山ee coo6meHne:
 OCTaHOBNTe a/M,BbIKnoyNTe ABNrarenb n npoBepbTe ypOBeHb 0X. npN CnNWKOM HN3- KOM ypoBHe AoneiTe OXK. EcnN nocne AonNBKNOXKNBKnoueHN9 3aXNraHNA KOHTP. NNKTorpaMMa noracna, ABNXeHNe MOXHO nPOAOnKNTb. Ecnn npM HOpManbHOM ypOBHe 0米 KOHTp. ANKTOrpaMMa He racHeT, ripoBepbTe rpenoxpaHNTenb BeHTNnsTopa paAnaTopa, 3ameHnTe neperopebwnn npeAoxpaHnTenb. Ecnn npu HOpManbH0M ypOBHe 0X N qeslom npeAoxpaHNTene BeHTnnATopa KOHTp. NNKTOrpaMMa He racHeT, npoAonkaTb ABNKeHne Heb3a! O6paTNTecb Ha CTO.
 
 ### CnNWKOMBbICokag TeMneparypa OX
-`skoda_octavia_en_db49930f` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TpN CnNWKOM BbICOKON reMnepaType Ox 3aropaeTcn nNKTorpaMMaN HaAncniee KOM6NHaunN npn6opoB RBnRTC0 cnenylomee coo6ueHne:
 
@@ -553,7 +516,6 @@ OcTaHOBNTecb M BblKnioynTe ABnraTenb. AoxANTecb B03BpaTa crpenkN yka3areng TeMnn
 BHNMAHNE! OTxpbiBanTe pacwpntenbHbli 6a4ok OX oCTOPOXHo. OcTOPOXHO: Ha ropa4em ABnratene CHCTeMa oxnakAeHnA HaxoANTCA nA AaBneHnem OnacHOCTb oxxora 6pbl3ramu XHAKOCTNWnNnapoMnoaTomynpene, yeMOTkpy4nBaTb kpbIuuky, AanTe ABHrareno OCTbITb. Hekacanrecb BeHTHAATOPOB paqnaropa. BeHTHnATOp CHCTeMbI oxnaxeHng MOkeTcamonpon3BonbHo BKnIO4NTbCAAa米enpnBbiKo4eHHoM3aXnraHnN.
 
 ### AasnteHne Macna BABnratene
-`skoda_octavia_en_a8eecaff` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/_MISSING_6dda71e5da60e0577d77094d4661fa6eabd3bac59b0dd49c751d9d612784a12e.webp)
 
@@ -583,7 +545,6 @@ HeMeAneHHo o6paTNTeCb Ha CTO.
 BHNMAHNE! Ecnw B AaHHon CHTyauH y Bac HETBO3MOKHOCTHAONNTb Macnio, npOAOnkaTbABNxenne Henb3g! 3arnywwte ABwrarenb 封 o6parnTecb Ha CTO.
 
 ### BbIXOAN3CTpOsaMnbl
-`skoda_octavia_en_982a8907` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KoHTponbHaa NNKTorpaMMa ropnT npnneperopebwen namne. Ha Ancnnee KOM6NHaunN npn6opoB OToOpaxaeTcA, Hanp4Mep, cneAyiouiee COo6meHne:M fpoBepbTe 6nNKHNN CBeT cnpaBa! “S NPOBEPbTE6NXKHNN CBET CIPABA.
 
@@ -600,7 +561,6 @@ HeMeAleHHo o6paTWTecb Ha CTO.
 BHNMAHNE! CaxeBbiinbppa3orpeBaer CAAOBbICokonTeMnepaTypbI.fo3ToMyHenapkyire a/M B Taxnx MecTax, rAepa3orperbin unbrp MOKeTConpnkacaTbcRCcyxonTpaBon WCApyrNMN BOCnnaMeHRioNMNCA Marepnanam. Bbi3BaHHan KOHTp. namnon Heo6x0ANMOCTb exarb c onpeAeneHHon CKOPOCTbi0 8 TeyeHne onpeAeneHHoro BpeMeHH H 8 KoeMcnyuae He MOxer paccmaTpNBaTbcAKakonpaBqaHne HapyWeHuycraHoBAeHHorocKopocTHOropeKNMa.
 
 ### CaxeBbln 中wbTp AN3enbHbIN ABNrarenb)
-`skoda_octavia_en_d5014035` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OCTOPOKHO! noka ropnT KOHTP.nHKTorpaMMa, npnAetcA MNPNTbCA c 00-
 
@@ -609,7 +569,6 @@ OCTOPOKHO! noka ropnT KOHTP.nHKTorpaMMa, npnAetcA MNPNTbCA c 00-
 BbiweHHbiMpacxogOM TonnnBa M B HeKOTOpbIx cny yagx, Co CHNKeHNeM MOUHOCTN ABnrarens, Apw SkcnnyaTaunN a/M Ha AN3T0nnnBe C noBbIWeHHbiM cOAepkaHNeM cepbl cpoK cnyx6b caxesoro WbTpaMOXeTCy山eCTBeHHOCOKpaTITbCA.A/M He pekoMeHAyeTCA Bce Bpemg NCno/1b30BaTb ronbko AR noe3Aok Ha KOpOTknepaccTORHNA. Aonrne no e3AKN CnococTByiTCKNraHNiO HaKOnNBWencA ca水 8 caxesoM unbTpe. EcnN BblKnoynTb ABNraTenbBnpouecce ouncTkn中nsibTpa nnnnouTH cpa3y 米e nocne Hero, BeHTNnATOPpaAnaTopa MOxeT 8 reyeHne HeCKO/IbKNX MHyT BKAOuaTbCR camonpoN3Bonbho.
 
 ### ypoBeHb KNAKOCTN B 6a4ke CTeKnO OMbIBaTenA
-`skoda_octavia_en_145db046` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/_MISSING_0051caa7feaceef5aaff6d2f019ce17ed6a2e0f5d7027e29961726509fcc0dfc.webp)
 
@@ -618,7 +577,6 @@ KoHTponbHas NNKTorpaMMa ropNT npn HN3K0M ypOBHe>KNQKOCTN B 6a4ke OMbiBaTens. Ha 
 Aonenite NAKOCTb,
 
 ### Pe3epB TOnnnBa
-`skoda_octavia_en_7128dc3c` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/_MISSING_0c7e638465ec2c293c554d1304b3768565a4711024b49b817d4a87291b8e88e2.webp)
 
@@ -629,24 +587,20 @@ QononHTenbHo pa3naercg Takxe npenynpexAaIoLnN 3ByKoBon cuHan,
 ApnMeyaHne: Coo6ueHne NC4e3HeT nocne T0- r0, Kaka/M6yAeT3anpaeneH TONNBOM Nnpoener He6onbmoepaccToshne.
 
 ### CncTeMa CTAPT-CTON
-`skoda_octavia_en_8c618d1f` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/_MISSING_3542b4ddfc0f50161b201bd17755ee3156d5a13dc0198f168df6e9e07b32af3b.webp)
 
 KoHTponbHble nMKTorpaMMbl noKa3bIBaIOT COCTORHNe CNCTeMbl CTAPT-CTOI.
 
 ### BoAa B TONANBHOM Φunbtpe (AN 3enibHbin ABNrarenb)
-`skoda_octavia_en_e890ece6` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TonnNBHbih cunbTp C BOQOOTAennTeneM OTCNnbTpOBblBaeTN3 TonnNBaBOAyN3arp83- HeHNA. EcnN B BOAoOTAennTene CKannNBaeTCA CANWKOM MHOrO BOAbI, Ha ANCnnee BKOM6NHaL npnoopos nOABnSeTCA cneAyromee coo6weHne.
 
 ### NH中opMauNOHHag CNCTeMa BOANTENA
-`skoda_octavia_en_1e47a477` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NHpopMauNOHHag CNCTeMa nepeAaet B0- ANTeno NHcopMauNIO NyKa3aHN9 0T HeK0TOpbIX CWCTeM a/M. 9ra NHcbopmaung W yka3aHN9 OTo6paxaIoTcg Ha ANcnnee KOM6nHaunN npn6opoB 2 (BAanbHenuem npocto He Ancnnee). NHcpopMauNOHHaA CNcTeMa Bbinaet cnenyio山yio NHcopMaLNio:HapyKHag TeMnepaTypa, pekOMeHAauNg 0 Bbl6opy nepenaun, npeaynpexAeHne 0 He3akpbITbIX ABepAX, kanote, kpbllke 6araxHNka pekoMeHnaLNNnO 3KOHOMW4HOMy BOXAEHNIO yka3aTenb CTOpOH ropw30HTa, 6opTOBON KOMnbtOTep (MHoroCyHKuNOHanbHbIn ANCnnen), npeAynpexAeHne npn npeBblweHNN CKopocTN, AaHHble ANcnnes MAXI DOT, QaHHbleyHKunn TanMep (cekyHAOMep),NHANKaTOpTO,caMOANarHOCTHkaa/M, KOHTp.nuKTorpaMMbl,pacno3HaBaHNe nopo米- HbiX 3HaK0B, TaiMayT-aCCNCTeHT, nofioxeHne cenekropa AKI, NHcopMaung W yka3aHN9 BCNOMOraTenbHbIX CNCTeM.
 
 ### ynpabneHne NHOPMaLNOHHOnCHCTeMON
-`skoda_octavia_en_92c05ef0` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KaBnun Ha nonpyneBOM nepekloyarene/perynaTop Ha MHOrOCyHKUNOHaIbHOM pyneBoM konece
 
@@ -656,14 +610,12 @@ ynpaBneHne NHopMaUHOHHoncuCTeMON
 ![](images/_MISSING_549d2d95dded81db0e723a4631ca8a84c90b9d662bed94a30fc6dade7b72c450.webp)
 
 ### NHANKaUNg HanpaBneHNA ABNKeHNA OTHOCHTenbHO CTOPOH CBera
-`skoda_octavia_en_453fe597` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/a7d0dbe6c4f45965a0971c1a50fec00ee34868f0887cedf034b5172da5906ee7.jpg)
 
 Hex0TopbIMN 中yHKuNAMN NHcopMauNOHHO CHCTeMbl MOXHO ynpaBngTb C n0M0LbI0 KnaBnw Ha noApysleBoMnepeksioyarene NAN HaMHOrocyHKLoHanbHOMpyneBOMKonece
 
 ### HapyxHagTemneparypa
-`skoda_octavia_en_55ccfb80` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha Ancnnee OTo6paxaercA Teky山ee 3HayeHne HapyXHon TeMneparypbl. Ecn HapyxHag TeMnepaTypa B0 BpeMa ABNXKeHNA onycKaeTcq Hke +4C,nepeA NHANKaTOPOM TeMnepaTypbl ORenRTCn CNMBOn {npeAynpexAeHne 06 onacHocTN rononeAnbi） nonaeTcn3ByKOBoN CNrHan Ecnn np BKnIo4eHNN 3aKuraHnA HapyxHan TeMnepa Typa HWKe +4C,Ha Ancnnee nORBnReTCA CHMBOn N pa3AaeTcn 3By
 
@@ -674,7 +626,6 @@ NHpopmaung o BKnoyeHHON nepeAa4e/peKOMeHAaUNA no Bbi6opy nepeAayn
 ![](images/ccb00672a3694a5ea220ea0d0d1343437813852ca7a3f79bc2abf13849b9920c.jpg)
 
 ### PekomeHAaunn noBbi6opynepenaun
-`skoda_octavia_en_d0b46e03` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 4ro6b1 MakcNManbHO CHW34Tb notpe6neHe TonnnBa, np Heo6xOANMOCTN nepeknio4NTbCS Ha Apyryio nepeAa4y Ha ANcnnee oTO6paxaetcg COOTBeTCTByIOmag pekoMeHAagng. KorAa CNCTeMa pacno3Haer, 4T0 6onee BbIroH0 nepekloynTbcA Ha Apyrylo nepenayy,paAOMCyxa3aTeneMBKnioyeHHon nepenanonBnseTcg ctpenka 1 peKOMeHAye
 
@@ -683,12 +634,10 @@ Man nepenaya B. HanpMMep, kora Ha ANCnsee OTOOpaKaeTCRCO4eTaHNeCNMBOJIOB 4- 5, 3
 BHMAHNE!3aBbi6opHyxHoinepea4nBToi HANHHONAOpOKHOnCnTyanN, Hanpumep, rpn 06- roHe, BcerAaOTBeUaeTBOANTenb.
 
 ### NpeAynpexAeHne 0He3aKpbITbIXABepAX, KanoTe,kpblke 6araxHnka
-`skoda_octavia_en_d8472d54` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnN XOT9 6blOAHaABepb,Kpblwka 6araxHNKa WAN KanoToTkpblTbl, Ha qcnnee OTo6paxaeTcA a/M C COOTBeTCTByIO山en OTKPbITON ABepblo,kpbI山KoN 6araxHnxa nnn kanoTOM, Ecnn npw ABNKeHNN CO CKopoCTbi0 Bblwe 6 KM/4 OAHaN3ABepen OTkpbITa,pa3naeTcg 3ByKOBON CNrHan.
 
 ### PekoMeHAaunN n0 3K0HOMN4HOMy BoXAeHWO
-`skoda_octavia_en_7674e4a3` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ang AOCTNKeHNA MNHNMaJIbHoro pacxona TonnnBa Ha Ancnnee (1)MOryT OTo6pakarbcA pekomeHAaLNNno CHNKeHNIO pacxoAa TonsnBa. PeKOMeHAaLNN nO 3KOHOMN4HOMY B0XAeHWO FpenBapgiorcA HaAnncbIo 3KO-COBET. HaripnMep, npu BKnIoyeHHON KnNMaTNuecKoN ycTaHoBke W onyeHHbIX CTeknax BbIBOANTCA coo6ueHne: 3KO-COBET KnNM. yCTaHoBka BKnIoyeHa. nonHMM4Te crekna. NHANKaLNA pekoMeHgaLn 10 3KOHOMN4HOMy B0米AeHNIo AOnXHa 6bITb aKTu8NpoBaHa B CNCTeMe Infotainment.
 
@@ -701,118 +650,96 @@ NHANKaUNA HanpaBneHng OTHOCNTenbHO CTOPOH CBeTa pa6oraeT TOJbK0 npn BKIO4eHHOM 3
 TpwMeuaHwe: NHAUKaUNACTOPOHCBeTa MOKeT 6biTbnpencraeneha BBpXHeNNNBHNKHenuaCT ANCnneRB3aBNCHMOCTNOTxapaKTepaApyronOTO 6paxaemonNHcopmaunn.
 
 ### boptoBoni KOMnbioTep (MHorocyHK-4NOHanbHbin ANcnnen)
-`skoda_octavia_en_222fb94b` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 MHorocyHKLNOHanbHblANcnnen pa6oraer TOnbK0 npn BK1OyeHHOM 3axwraHNN. noCne BknlioyeHnA 3axnraHN OTo6pakaeTcA Ta yHxuns (napamep),oopag 6bna Bbl6paHa nepeA nocnenHnM BblKlioueHneM 3aKnraHA. NHAKALNIO HeKOTOPbIXNYHKTOB MeHIO MOKHO BblKnoyaTb WN BKno4aTb B CNCTeMe Infotainment.
 
 ### naMgTb
-`skoda_octavia_en_43f7c483` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 MHorocyHKLMOHanbHb ANcnnen o6opyAOBaH Tpemg aBTOMaTN4eCKNMN 6nokaMn naMATN. VHANaUNg Ha Ancnnee conepxaHNg Bbl6paHHoro 6nokanamAT pa3nnyaeTca B 3aBHCNMOCTN OTKOMNJIeKTAUNNa/M.
 
 ### C MOM. CTapTa(ANcnnen MAXI DOT) unN “1(cerMeHTHbIn Ancnnen)
-`skoda_octavia_en_e4e966a0` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B3ToN naM8TH 3anNcbIBaiOTCA napaMeTpbl noe3AKN OT BKSIO4eHNA A0 BbiKno4eHNn 3aKNraHA. Ecnn noe3qka 6yneT npoAonxeHa He 6onee yem 4epe3 2 4aca nocne BbiKio4eHNA 3axuraHng, HOBble 3HayeHNA BKnloyaTcA B pacyeTakTyabHon NHcpopmaunn no noe3Ake.NpnnpepblBaHnN noe3qkn 6onee, 4eM Ha 2 4aca AaHHbie n0e3AKN aBTOMaTNyecKN yAangIOTCA.
 
 ### Aonrobpem. (ANCHnen MAXI DOT) HnN“2 (cerMeHTHbInAncnnen)
-`skoda_octavia_en_a8296215` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B 3Ton naMATN 3anncbiBaioTcsnapaMeTpbiABNKeHNAoGoro 4ucna OTnenbHblX noe300K3a cyMMapHoe Bpemn ABNKeHNAAO 99 4 59MWH WAN 3a 06mnn npo6er p 9 999 KM.IpunpeBbIWeHNNOAHorO N3 Ha3BaHHbIX noka3aTe-nen,naMaTbOuNuaeTca,NOTcyerHa4NHaeTcgCHayana,
 
 ### C MOM. 3anpaB. (ANcnen MAXI DOT) NNN 3（cerMeHTHbInAncnnen)
-`skoda_octavia_en_5ae5d2aa` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B 3ToN naMTn 3anncbiBaioTcg napaMetpbl ABNKeHNA C MOMeHTa nocnepHen 3anpaBkn TonnNBOM.TIpv cneAyio山en 3anpaBke TonnNBHoro 6aka 3Ha4eHN9 aBTOMaTNyeCKN yAanaIOTCAN3naMATN.
 
 ### Bb16opnaM8TH
-`skoda_octavia_en_4ef2c8e0` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbI6epNTe KOHKPeTHbI BNAAaHHbIX OABNXeHNN. npn NOBTOPHOM NOATBePKAeHNN napaMeTpa MO>KHoBbl6npaTb MexAy OTAenbHblMN6nokaMNraMATN.
 
 ### 06HyseHne
-`skoda_octavia_en_4e2e4b60` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bbl6epNTe KOHKPeTHbI BNAAaHHbIX OABNKeHNN. BblepnTe HyXHbl 6aHK naMATN. HaKMNTeKnaBNuy B nn peryngTop D" Ha 60- nee npononkntenbHoe Bpemg. O6HynAHOTCA ChenylouNe 3HayeHnA Bbl6paHHoro 6noka naMATN:cpeAHnn pacxoA TonnnBa,nponAeHHblhn nyTb, cpeAH8g CKOpOCTb ABNKeHNA, BpeM9 ABNKeHNA.
 
 FipnMeuaHne: fpu OTCOeANHeHNN KIeMM AK5 a/MAaHHbIeBcex6nOKOBnaMATHCTHpaiOTCA.
 
 ### 3anac xoAa
-`skoda_octavia_en_29d3966c` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AaHHble 0 3anace xoAa noka3blBai0T, KaKoe paccToRve MOeTnponTn Bau a/M HaocTaio山eMcg TOnANBe npN coxpaHeHN Tekymef0 CTNNA BOXAEHNA, AaHHbln napameTp n3MeHAeTCA C WarOM 10 KM. nocne Toro, Kak 3aropenacb KOHTp. namna, WHANKaUNA N3MeH9eTcAc山aroM5KM.pnpacyéTe 3anaca xoAa 3a OCHoBy pNHHMaeTcA pacxon TonnnBa Ha NPOTAXKeHNN nocnenHnx 50 KNnOMeTpOB npo6era. Ecnu Bbl CHN3NTe pacxoA TonnnBa, T0 3anacxonayBennynTcg.
 
 ### CpeAHNnpacxoA TonnnBa
-`skoda_octavia_en_68535dc5` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CpeAHN pacxoA TonnnBa （1） paccuntbiBa-eTc9 C MOMeHTa nocneAHero YAaneHNA AaH-Hb1X 3 naMATN. 4ro6bl onpeAennTb CpeAHNApacxoA TornnBa3aonpeAeneHHbll npomeky-TOK BpeMeHN, o6HynnTe naMaTb B Ha4ane HO-BOroN3MepeHNA. Tocne yAaneHng AaHHbIX W3namaTN, Ha nep8bIX 100 Mnpo6erapacxon TO-nnuBaHeOTobpaxaeTcs. BoBpemABnKeHngOTo6paxaeMble AaHHble nOCTORHHOOOHOBAAIOTCA.
 
 ### Teky山nn pacxoA TonnnBa
-`skoda_octavia_en_37512560` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OTo6paxeHne 3Toro napameTpa 103800seT KOppeKTNPOBaTb CTNnb BOXneHNAC yuéTOM pacxoAa TonnNBa (1). Ha CTOALeM nn6o MenneHHOABNKyueMCA a/M pacxoATonnNBaOTO6paxaerca B n/y (2).
 
 ### TeMrteparypa Macna
-`skoda_octavia_en_d4b2c54b` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Korna TeMnepaTypa Macna nexnt B npeAenax OT80A0 110°C,3T0 o3Ha4aeT,4To BNratenb Aporpencs Ao pa6ouen TemnepaTypbl. KorAa TeMnepaTypa Macna HNXe 80°C W Bblwe 110C,cneAyer n3eraTb BbICOKNX 060- POTOB ABNraTen, ABNKeHNA CNOnHOCTblO Haxaton nenanbtora3a ype3MepHon Harpy3KN Ha ABNraTenb. Ecnw reMnepaTypa Macna Hxe 50C, n ecn B CNCTeMe KOHTPOnA TeMnepaTypb1 Macna NMeercA HeNCnpaBHOCTb, BMeCTO 3HaueHN9 TeMnepaTypbl BbIBOAATCA TOnbKO CAMBOnbI
 
 ### TpeAynpexAeHnenpNnpeBbiueHnNcko poctn
-`skoda_octavia_en_6cc42bbb` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HacTpoiika npeAenbHo AonycTnMon ckopoCTN, Hanpumep MakcnManbHon CKOpOCTN An9 ABNKeHNA B HaceneHHbIX nyHKTax,
 
 ### Pacno3HaBaHne AopoXHbiX 3Hak0B
-`skoda_octavia_en_16192351` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaAncnnee MOryTOAHOBpeMeHHOOTo6pa-XaTbCA A0 3 cnenyiomx AOp0XHbIX 3HaKOB:OrpaH4eHwe CKopocTN (BKiouaa AOnOnHN-TenbHble Ta6nnukn),3anpeTo6roHa.
 
 ### Tekyuas ckopocTb ABNKeHNA
-`skoda_octavia_en_58fc3483` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Oro6paxaemas reky山as CKOp0CTb ABWKeHNRa/M NAeHTW4HaNOKa3aHNAMCnNOMeTpa 3.
 
 (1) EAAHNubl N3MepeHns pacxona TonnnBa NHANKALNN HacTpanBaIOTCA 8 CNCTeMe Infotainment. (2) B MOAenAX QNA HeKOTOPbIX CTpaH pacXOATONHBa Ha HenonBNKHOMa/M BbIBOANTCA B KM/n.
 
 ### CpeAHag CKopoctb
-`skoda_octavia_en_849949dd` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Oro6paxaeTcs 3HaueHne cpeAHeN CKopoCTN ABNKHNg m KM/u C MOMeHTa nocneAHero OOHyneHn naMATN. 4ro6bionpenennTb cpenHI0I0 CKopOCTb ABNKeHNS 3a onpeneneHHbin npOMexKyTOK BpeMeHN,o6HynnTe naMTb B Ha4ane HOBOrO N3MepeHNA. B TeueHne nep8blX 300 M nyTN nocne 04NCTKN naMaTN HNkaKne AaHHble HeOToopaxaIOTCA Bo BpeMg ABNXeHNA OTo6paxaeMble AaHHble NOCTOAHHO OOHOBNAIOTCA.
 
 ### Ipo6er
-`skoda_octavia_en_925863c8` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Oro6paxaeTcanpo6erCMoMeHTanocneAHeroo6HyneHAnaMTu.Ang N3MepeHnnpo6era c Kakoro-To KOHKpeTHOrO MOMeHTa HeO6- XO0NMO 06HynNTb naMATb 8 3TOT MOMeHT. MaKcWManbHoe OTobpaxaeMoe 3Ha4eHNe coCTABngeT 9 999 KM.IpN npeBblleHnN 3Toro 3Ha4eHNA OTo6paxeHne CHOBa Ha4NHaeTCA C Hyn8.
 
 ### BpeMA noe3AkN
-`skoda_octavia_en_dde92974` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaAncnnee OToupaxaeTcA BpeMs ABNke-Hn9,npowenwee C MOMeHTanocneAHero 06-Hyn1eHns naMATN. An N3MepeHNA BpeMeHNnoe3AKNc KaKoro-TO onpeAeneHHorO MOMeHTaBpeMeHN Heo6x0ANMO o6Hyn4Tb naMATb B3TOT MOMeHT BpeMeHN. MakcuManbHoe OTO-6paxaeMoe 3HaueHne coCTaBnAeT 99 yacoB N59 MNHyT. NpnnpeBblweHNN 3T0r0 3HayeHNOTo6paxeHne CHOBa HauNHaeTCs C Hyng.
 
 ### fToTpe6NTenNCHCTeMKOMcopTa
-`skoda_octavia_en_686e5250` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CyMMapHbI pacxon TonAnBa Bcex rotpe-6wrenen CNCTeM KoMcopTa OT06paxaeTcA Bn/4.OAHoBpeMeHHOcOToopaKeHNeMpacxoAaBbIBOnNTcA crNcOK N33nOTpe6NTeneN CNCTeMKOMcopra, Ha o6ecneueHne paboTbl KOTOpbIXnPNXOANTCA CaMbli BbICOKN pacxOA.
 
 ### 06beM Ao3anpaBkn(1)
-`skoda_octavia_en_7bc5f255` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocne pacxona CBblwe 10 A TonnnBa 3 nONHOCTbiO 3anpaBneHHoro 6aka Ha Ancnnee yKa3blBaeTCA KOnNyeCTBO TonAnBa B nTpax, KoTopoe C yBepeHHOCTbl0 MOKeT 6bITb 3anpaBneHo.
 
 (1）TonbKo Ans HeKOTopbIX CTpaH.
 
 ### Hactponka orpaHnyeHng CkopocTN Ha CTORWeM a/M
-`skoda_octavia_en_d27209cf` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bb16epure nyHKT MeH TpeAynp. npu (gncnnen MAX1 DOT) WN (cer- Km/ MeHTHbIn ANcnneni). onTBepANB Bb1- 6op 9Tor0 nyHKTa MeHIO, aKTHBnpynTe B03- MOKHOCTb 3anaHng orpaHnyeHng CKopocTN. 3anaite Heo6x0ANMoe orpaHnyeHne CkopoCTN,HanpnMep, 50 KM/u:CoxpaHnTe 3anaHHoe orpaHNueHNe,nOATBePANB BBOn AaHHbIX, WnN nOAOKANTe HecKOIbKO ceKyHA,HaCTponka 6yAeTCOXpaHeHa aBTOMaTNyecKN. OrpaHnyeHNe CKOPOCTN N3MeHgeTCAC 山arOM5 KM/4.
 
 ### HacTponka orpaHnyeHNA CKOpOCTN B0 BPMAABNKeHNA
-`skoda_octavia_en_857409cd` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bb16epnTe nyHKT MeHIO NpeAynp. npn Ancnnen MAXI DOT) WN (cerMeHTHbIN Ancnnen). Aewranrecb C xenaemon CKOpOCTblo, HanpnMep, 50 KM4.oATBepANTeTeKy山yo cKopOCTb B KauecTBe 3HaYeHNAAng orpaHNyeHNg CKOpOcTn. Ecnn HyxH N3MeHNTb HacTpoeHHoe orpaHnyeHne CKOpocTN, N3MeHeHNe poncxonnt C 山arom 5 KM/4 (HanpnMep, npnMeHeHHan CKOpoCTb 47 KM/4 no8blWaeTCsAO 50KM/4nn6onoHNXaeTCAAO 45 KM/4). ToATBepAuTe 3anaHHoe 3HaueHne orpaHn4eHN8 CKOPOCTN WnN nOAOKAnte HeCK0bK0 cekyHA, Hactponka 6yAeT coxpaHeHa aBTOMaTN4ecKN.
 
 ### OTKNOyeHNeNnN N3MeHeHNe orpaHnye-HHACKOpOCTN
-`skoda_octavia_en_2667e5f1` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bbl6epNTe nyHKT MeHio [peAynp. npu ANcnnen MAX1 DOT) WnN (cer
 
@@ -821,68 +748,56 @@ MeHTHbIn ANCnnen) pn nOgTBepKAeHNN c0- xpaHeHHoro 3HayeHNA yHKUNA orpaHNHeHNA CK
 Bb16paHHbI npenen CKopoCTN coxpaHReTCHTakXe nocne BblKiioueHnA N nocneAyio山e50 BKSIOyeHN8 3axnraHng. rpn OCTaHOBKe ABNKeHns 6onee yeM Ha 2 yaca HacTpoeHHoe 3Ha4eHNenpenenbhon ckopocTN aBToMaTnyeCKN yAangeTCA,
 
 ### Ancnnen MAXI DOT
-`skoda_octavia_en_d7474a39` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Aucnnen MAXI DOT WHcpopMNpyeT Bac o TekyueM COCTORHNN Bamero a/M. Kpome roro, Ha ANcnnen MAXI DOT B 3aBNCNMOcTN OT KOMneKTaLNN a/M） BblBOANTCA NHcpopMaLnA, noctynaiomas OT CNCTeMb1 Infotainment,MHOrocyHKuNoHanbHOro ANCnnes  T.n.
 
 ### yHKTblrnaBHoroMeHio
-`skoda_octavia_en_b188643f` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bbl Moxete Bbt6paTb (8 3aBNCNMOCTN OT KOMnneKrauNN a/m) cneAyiomne napameTpbl: BopTKOMnbloTep, AccNCTeHTbl, HaBurauna, AyANOCNCTeMa, TenecboH, A/M, Taimep.
 
 ### yHKT MeHIO: AccNCTeHTbI
-`skoda_octavia_en_7291c230` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bpa3qeneMeHiO ACCNCTeHTbI nyTeM nOA-TBepKAeHN8 MOXKHO aKTNBNPOBaTb NnN AeaK-TN8NPOBaTb CNCTeMy KOHT. ANCTaH. WAB. nononoce. Bb13BaTb B raBHOM MeHIO nyHKT Ac-CNCTeHTbl MOKHO HenocpeACTBeHHO HaxaTW-eM KnaBnwN E Ha noApyneBOMnepeknoyatene.
 
 TpuMeyaHne:EcnN HaANcnnee MAXI DOToTo6pakaioTcAnpeAynpexAeHnA,x HeoxoAnMo noATBepAnrb, 4To6bIBbl3BaTbFnaBHoeMeHio.
 
 ### Tanmep (CeKyHAOMep)
-`skoda_octavia_en_a5b05dab` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 DyHKuNS TaMepKpyroBn03B0NgeT W3MepNTb, 3a kakoe BpeMA a/M npoe3xaer OAH Kpyr rOHO4HON Tpaccbl. N3MepeHHoe BpeMR OTo6paxaeTcs HaANcnnee. Pe3ynbTaTbl OTO6paxaIoTca B MWHyTax, cekyHqax 1 AeCATbIX AOnAX CeKyHAbI.
 
 ### 3anyck yHkynn Tanmep kpyroB
-`skoda_octavia_en_f4f7c9c2` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bbi6epNTeBTnaBHOM MeHIOANCnneA nyHKT TanMep, B HannynN NMeIOTCA cneAyiomne yHKuNN: CTapT py4Hon nyCK N3MepeHNA
 
 BpeMeHN WN BO306HOBAeHne npepBaHHoroN3mepeHng; C MOM. nycka aBTOMaTNyeCKNNnycK N3MepeHNA BpeMeHNnpN TpOraHNNCMeC-Ta;CTaTNCTNKa aHanN3N c6poc pe3ynbTaTOBN3MepeHNA.
 
 ### ABTOMaTN4eCKNH3anyCKN3MepeHNA
-`skoda_octavia_en_79ef1301` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bbi6epuTe B MeHIO NyHKT Tanmep KpyroB C MOM.rycka. N3MepeHne 3anyckaeTcA aBT0- MaTnyeckN C HayanoM ABNKeHNA.
 
 ### 3anyckxpoHomeTpaxacnenyiouerokpyra
-`skoda_octavia_en_bdda96af` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bo BpeM9 N3MepeHNA Bbl6epuTe B MeHIo nyHKT HoBbl Kpyr. Bo Bpem8 N3MepeHNA Ha Ancnnee OToOpaxaercA BpeM8 caMoro 6bICTporo nocneAHero npohneHHoro kpyra.
 
 ### N3MepeHneipoMexyToyHorope3ynibTaTa
-`skoda_octavia_en_56939760` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bo BpeM9 N3MepeHNA Bbl6epnte B MeHIO yHKTIpoM.BpeMg. Ha Ancnnee npHMepHo 5 cekyH BbICBe4NBaeTCA npomexkyToyHbIN pe3ynbTaT. CHNMaTb npoMeXyToyHble noka3aHN9 B0 8peMA npoxoxAenng OAHOrO kpyra MO>KHO MHOrOKPaTHO.
 
 ### rpepbiBaHueN3MepeHnA
-`skoda_octavia_en_e113b75d` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bo BpeMA W3MepeHNA 8bl6epnTe B MeHI0 nyHKT CTon. N3MepeHne npepblBaeTcA, NORBnAeTcA B03M0XH0CTb Bbl6opa CneAyiO山NX cyHKLWN: Tpogonk. 1 nPOAOnKNTb Tekyμee N3MepeHNe; HoBbli xpyr 3anyCTNTb CneAyIo山ee N3MepeHne; OTM. kpyr OTMeHNTb W3MepeHne (pe3y/ibTaT npepBaHHoro N3MepeHNA ynangetca N3naMaTn): 3asepm. 3aBep山WTb N3MepeHne pe3ynbTaT npepBaHHoro N3MepeHHS COxPaHAeTCA B naMATN),
 
 ### AHann3pe3ynbTaToB
-`skoda_octavia_en_da2a93fb` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bbl6epnTe B MeHIO nyHKT TalMep KpyroB CTaTNCTNKa. Oro6paxaIoTcg cneAyloWne AaHHbIe: Jlywnn: Kpyr cnyyWNMBpeMeHeM; XyA山N: Kpyr C xyA山NM BpeMeHeM; B cpeAHeM: cpeAHhn pe3ynbTaT HPoxoxAehnn 四 Horo kpyra: 06mee BpeMA: cyMMapHoe BpeMA hpoxokAeHng Bcex Kpyro8.
 
 ### O6HyneHne pe3yJibTaTOB
-`skoda_octavia_en_81485e55` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bbl6epnTe B MeHIO nyHKT TanMep KpyroB CTaTNCTNKa O6HyneHne.
 
 pwMe4aHNe:CNCTeManO3BOnReTN3MepNT6AO 11pe3ynbTaro8. N3mepenne BpeMeHH OTAe/IbHbIX KpyroB3aKaH4HBaeTCg 4epe3 99 qac., 59 MHH 59 ceK. C 3TOrOMOMeHTa BpeMeHNaBTOMaTHUeCKH 3anyckaeTcsN3MeHeHne HOBOro BpeMOHHKpyrOB. n OTAenbHocTNpe3ynbTaTblHeo6HyngiOTcg. Ecm pe3ynbTablHe6bnN6HyneHblOH OCTaIOTcABnaMATHHnocneBbiknioueHg 3axhraHns.
 
 ### NHANKaTOpMeXcepBNCHbIX MHTepBano8
-`skoda_octavia_en_aa13897c` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CpoK cneAyio山ero TO aBTOMaTN4ecKN OTo6paxaeTcA Ha ANcnnee, WnN NHANKaLNI0
 
@@ -892,7 +807,6 @@ CpoK cneAyio山ero TO aBTOMaTN4ecKN OTo6paxaeTcA Ha ANcnnee, WnN NHANKaLNI0
 ripnmeaHne:fpN OTCOeQNHeHNNAKEAaHHble HHANKaTopa TO coxpaH8IOTCg. B cnyyae nposeneHNApeMOHTHbIXpa6oT, C8A3aHHblX C 3aMeHOKOM6nHau npn6opoB, Heo6xoAuMO yCTaHOBNTb BepHoe 3HayeHne cyerunka nepnoANuHocTH T0. 3ra pa6oTa BbinonHAeTCA Ha CTO. 8 NCnOnHeHNNAn HeKOTOPbIXCTpaHHHANKaUNSBbIBOANTCABaHCKON CHCTeMe Mep.
 
 ### Coo6ueHng 0 TexHn4eckoM 06cnyxHBaHnN
-`skoda_octavia_en_e75291cb` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nepeA HacTynneHNeM cneAyto山ero cpoka TO Ha ANcnnee, nocse BKNOUeHNS 3a XNraHug, OTo6paxaeTcA CNMBOn, Takke coobueHne:“M 3aMeHaMacna 4epe3... AH, “S 3AMEHA MACIA 4EPE3...AH.
 
@@ -903,7 +817,6 @@ WAN
 NHANKaTopocraBuerocs npo6eraB KM NnN OCTABUNXCA AHe BeAeT oOpaTHbIn OTC4eT AO cpokaTexo6cnyKNBaHNCWaroMB100 KMN60 B OQNH AeHb.
 
 ### Coo6ueHns npN HacTyrneHnNcpokaTO
-`skoda_octavia_en_4fc81f61` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KaK TOSIbK0 cpok npoBeneHNA TO Hacty
 rINT, Ha ANcnnee, nocne BKIIO4eHNA 3axnra
@@ -916,31 +829,26 @@ OHHbI cepBnc! "S TPE6VETC9 3AMEHA
 MACNANNHCNEKLNOHHbIN CEPBNCI
 
 ### NHAnKauHg npobera H BpemeHN, ocTaBleFOCAAOouepeAHoro TO
-`skoda_octavia_en_7c83eab3` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BKonTe 3axuraHne. HaxMNTe N yaepKuBaite KaBwy6,noka HaAcnnee HeOTo6pa3NTbcs TO.OTnyCTnTb Knanuy6. Ha Ancnee OTo6pa3NTCA CNMBOn N HanpNMep, cneAyio山ee coo6meHne: “M T0 yepe3...KMW..AH. "S TO 4EPE3... KM NNN..AH.
 
 ### 06HysteHne NHANKaTopa T0
-`skoda_octavia_en_daba23d9` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnw B a/M HacTpoeH nepeMeHHbIn Mex-cepBNCHbIn NHTepBan, T0 nocne 06HyneHNANHANKaTopa TO nepeMeHHbin MecepBNCHblnWHTepBan CMeHReTCA CNKCNPOBaHHbIM. 1o-9TOMy pekOMeHAyeTcA ocy山ecT8nATb copocTONbKO Ha CTO,coTpyAHNKN KOToporo npoBe-AyToOHyneHne NCNOnb3OBaHNeMANarHOCTN-yeckoro TecTepa.
 
 ### O6HyneHneHHAukaropaTOro3aMeHe Macna
-`skoda_octavia_en_fd46f304` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbIKniounTe 3aXNraHne （ya/MCCNCTeMOn KESSY Heo6xonNMO Taxke 3akpblTb Bce ABep, 6araxHbln OTceK W kanot). HaxMnte N yAepXnBanTe KnaBnuy 6. Bknioynte 3axnraHe. oABngeTCg cnenyio山ee coo6meHne: “M O6HyMTb NHANKaTOp 3aMeHbl Macna? “S" O6HyEHNE WHA.TO
 
 OTnyCTNTe N CHOBa HaXMNTe KaBnuy6.
 
 ### 06HyneHne HHqukaTopa NHCneKUNOHHOrO cepBnca
-`skoda_octavia_en_3b5b8daa` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbIKniouTe 3axnraHne （ya/MCCnCTeMon KESSY Heo6xOnNMO TaKXe 3aKpbITb BCe ABepn, 6araxHbl OTCeK 4 Kanot). HaxMnre 1 yAepxnBante KnaBnwy 6. Bxnoynre 3aknraHne 1 yAepKNBante KnaBn山y 6 HaxxaTon A0 nOABneHng cnenyiouero cooujeHnA:"M O6- HyANTb WHANKaTOp NHCN. cepBnca? S O5HYNEHNE NHA.TO
 
 OTnycTWTe 5 CHOBa HaXMNte Kna8nwy 6. OCTOPOXHOIO6HynsTb NHANKaTOpTO caM0- CTOsTenbHO He pOKOMeHAyeTCA. 8nPOTHBHOM cnyyae WHgnkaTopMOker 6bITb HacrpoeH HenpabnsbH, 4TOnpNBeAeTKHeNCnpaBHOCTSMBa/M.
 
 ### OrnNpaHne 1 3annpaHne
-`skoda_octavia_en_252533c9` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Baw a/M ocHaueH UeHTpaNbHbIM 3aMKOM. LeHTpanbHbl 3aMOK NO3BOnAeTOAH0BpeMeHH0 3anepeTb/OTnepeTb BCe ABepN,Nto4OK TOnnNBHOro 6aka N 6araxHbl OTceK (1). B LeHTpanbHbln 3aMOK NHTerpnpobaHa yHKuNg 6noknpoBkn Safe. Kornaa/M 3annpaeTcs CHaPyKN,DBepHble 3aMKNaBTOMaTN4eCKn 6noKNpyIOTCA TocneOTnNpaHNs NMeeT MeCTO cneAyouee （1).Bce ABepn,kpbluuka 6araxHnKaN no4OK 3anBHoA ropnoBnHblTonnNBHoro 6aka OTnNPaIOTCR. no cnrHany KOHLeBoro Bb1KnOyareng nBepn BKnoyaeTCA ocBemeHne canoHa. BbIKNoyaeTcs 6nokupo8ka 3aMK0B (SAFE). KoHTponbHan namna Ha ABepn BOAWTeng npekpa山aeT MWraTb. HapyXHble 3epkana packnaAbIBaOTCs B pa6oyee nonoxeHne (2). OxpaHHaa CNrHann3auNA BbIKnOyaeTCs. nocne 3annpaHng NMeeT MeCTO cneAyiomee (1) Bce ABepN, kpbIuka 6araxHNka Nn040K 3a/1NBHon ropnOBHHbI TONANBHOrO 6aka 3annpaioTcs.To cnrHanyKOHueBoro BbIKoyaTeng ABepN racHeT ocBe山eHne casoHa, Bkno4aeTCA 6nokupOBka 3aMKOB (SAFE) KoHTponbHas namna Ha ABepN BOANTens Ha4NHaeT MNraTb. HapyXHb1e 3epkana CKJaAbiBaIoTCA B nonoKehneQnapkoBkn (2). OxpaHHas cnrHann3auNA BKoyaeTcg.
 
@@ -949,14 +857,12 @@ Baw a/M ocHaueH UeHTpaNbHbIM 3aMKOM. LeHTpanbHbl 3aMOK NO3BOnAeTOAH0BpeMeHH0 3an
 (2） OTHOCNTCA TOnbKO K cnyuaio, korAa CNCTeMa InfotainmentaKTNBwpoBaHa.
 
 ### NHANKaLNA HeNCnpaBHOCTH
-`skoda_octavia_en_fbc46326` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnN KOHTp.naMna B ABepN BOANreng BHayane 6bICTpo MNraet BTeyeHne 2 ceKyHA 3aTeMHenpepbiBHo ropNT npNMepHo 30c, M ncne 3Toro MeAneHHO MNraeT, o6paTuTecb Ha CTO.
 
 BHNMAHNE! Ecnn a/M 3anepT, 1 6nokupoBka ABepen (SAFE) aKTHBHa, 8canohe He AOXHbl 0CraBaTbcAnOAN,nOCKOnbKyOHN HeCOryT,Cnyuae Heo6xoANMoCTH, 0TKpbITb ABepN OnyCTWTb crexna W3HyTpN. 3anepTbleABepNB 4pe38bi4anHon CHTyayHN OCnOKHAIOTCnacaTenAMnIpOHNKHOBeHNe BHyTpb a/M OncHOAnA KN3HN! 3anepTble Aaeph TaKKenPenATCTByIOT HeCaHKLIHOHNpOBaHHOMyAOCTyny cHapyxN Hanphmep, HanepekpecTkax. B cnyyaeaBapn cocpa6aTbiBaHeMnoAymek6e3onac HOCTN,3anepTbIeABepNaBTOMaTuuecKnOTnNpaiOTCR, 4r06bt cnacaTennMornnnonacTb B a/M rpn orKa3eyeHTpanbHoro3aMKa MOKHO 3anepeTb HnNOTneperb KIO4OM TOAbk0 ABepb BOANreng. Ocra/ibHbieABepnNKpbluky6araxHnkaBbI MOxeTe 3anepetb N oTnepeTb cnomombto aBapnniHoro ornnpaHHWN 3annpaHg.
 
 ### Kno4:6e3Ay/cAy
-`skoda_octavia_en_521243be` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/66d3a0756211ab1b5454c2813357703caa4ed33fb482b8eb26a6a5561aacf8d4.jpg)
 
@@ -967,14 +873,12 @@ BHyTpN kopryca paqnoknioya ycTaHoBneH nepenaTuNK C 3neMeHTOM NnTaHN8 (6arapeiKON
 BHNMAHNE! Bb1xoAA 3 a/M 中 Aake Ha camoe KOPOTKOeBpEMA BcerAa BbHnManteKno4n3 3aMka3aknraHNA. 3T0OCo6eHHO BaXHo, ecnBa/MOcTaiOTCAAeTn.AeTHMOryT3anIyCTNTbABNraTenb WH BKAO4NTb 3nekTpoobopyAoBaHne (Hanpumep. 3. CTeKnOnOAbeMHNKN). 4T0 MOKeTnDNBeCTH K rpa8- MaM!N3BnekaiteKoy N33aMka3aXnraH8TonbkonocnenonHon OCTAHOBKNa/M!Moxer BHe3anHO cpa6oTaTb 6nokupoBka pyng: onacHoCTb aBapn! EcnnLeHTpanbhb3aMoK WnNOxpaHHas CHrHan3aLMA pearupyioT H ANCTaHLIHOHHOe ynpaBnehne TONbKOCpaCCTOAHNAMeHee 3 MeTpoB, Heo6x0AM0 3ameHHTb QneMeHT mTaHNA. Ecn Bbl norepaM K104,An nonyyeHns Ay6nnkaTa 06paTHTecb Ha CTO.
 
 ### OTnNpaHne/3annpaHneKnio4OM
-`skoda_octavia_en_8cc3f79e` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HarpaBneHngoBopoTa KnioyaAotnN paHng N3anHpaHNA
 
 ![](images/61b07ab029f1531182f5e1adeded6dbb1105c25c0aa7715a46ab9a4595de9341.jpg)
 
 ### 3anupaHne
-`skoda_octavia_en_c3a6a508` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 门oBepHNTe KnIo4 B 3aMKeABepN BOANTens B HanpaBneHnN CTpenkN B. Ecnn OTKpbITaxOT8 6b1OAHa ABepb,3anepeTb a/M HeBo3MO米HO
 
@@ -989,17 +893,14 @@ H
 A.OTKAblBaHNe N CKnagbIBaHne 6oponkn Knto4a B.KoHTponbHan naMna
 
 ### OTnupaHne
-`skoda_octavia_en_a91e6293` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B noATBepXAeHNe OTnNpaHnA a/m2 pa3a MNraioT yka3aTenn noBopoTa. Ecnn Bbl OTonpete a/Mcnomoubio Ay,NB TeyeHne 45 CeKyHA He OTKPOeTe HN OAHy ABePb NnN KPbIWKy 6araxHuka, a/M a8TOMaTn4eckN CHOBa 3anpetcs, a TaKxeaKTNBNpyeTcs6noKupoBka 3aMKOB oxpaHHancurHann3aung. 6naronaps 3Ton 中yHKuNN,CnyuanHo OTnepTbln a/M He ocTaeTCs OTnepTbIM.
 
 ### 3anupaHne
-`skoda_octavia_en_c04a5e37` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pn 3anupaHwn a/M pa3 MNraioT Bce yka3aTenNnoBOpoTa, Ecnn nocne 3annpaHs a/m ABepn WnN KpbIWka 6araXHnkaocTanncb OTKpbITbl, yka3aTenN noBopoTa MNrHyT TOnbK0 nocne 3akpblBaHng.
 
 ### npoBepka3apgAa3neMeHrannTaHnA
-`skoda_octavia_en_205ad40d` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnN npN HaXaTnN KHonkn HapaANoKnlioye KpacHas KOHTp. namna B He MMraeT, T0 are
 
@@ -1008,26 +909,22 @@ MeHT nNTaHNRpa3paKeH. 3aMeHnteGneMeHTnNTaHNg.
 OCTOPOKHO!HaXMMaiTeKHonky3anpaHng HapannoKmoueTonbkororna,KorAaABepnNKpika6araxHnka3akpb/TblN KorAaBbl xopouOBNqWTe a/M EcnnABepbBOANTenOTkpbiTa,3anepba/MC nomoublopagnokiioya Henb38. Pa6ore Knioya MOryT MewaTb CHrHanbl, HaxoAAWHecA n06nN30CTH N paboraiomneBTOMKe Aana30He 4acroTpanhonepeAaT4NKOB. 8 a/M C oxpaHHOn CHrHanm3aunen MOKHO AOnOnHNTenbHo HacTpONTb nOATBepxAe HNeOTnNpaHns/3annpaHnA3BykoBbIMnChrHaiaMN.
 
 ### OrnnpaHne/3annpaHne KESSY
-`skoda_octavia_en_2ee235de` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KESSY: 0603Ha4eHne 30H/AaT4NKNBpy4- kenepeAHenABepN
 
 ![](images/8b884560d6007eba8d28b2cac8796c7ab37817e719bf44a6028220ae456982b8.jpg)
 
 ### OTnNpaeMble/3aniupaembie3aMKN
-`skoda_octavia_en_ded15d47` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 A.nlepeAH neBa ABepb B. NepenHsR npaBag ABepb C. Kpbluka 6araxHNka
 
 CucTeMa KESSY (Keyless Entry Start Exit System) NO3BOnAeT 0TnNpaTb M 3annpaTb a/M 6e3 aKTNBHoro NCNOnb30BaHN9 Knoya. npu 3TOM Kno4 AOnXeH HaxOANTbC9 B 30He A, B NnN C (HapaccTosHNN He 6onee 1,5 MOTa/M).
 
 ### 3annpaHne
-`skoda_octavia_en_a78f0859` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NpnKOCHNTeCb K AaT4NKy 1 nanbuamn. B a/MCAKI nepeA 3annpaHueM ABepe Heo6xoANMO yCTaHOBNTb ceneKTop 8 nonoxeHne P.
 
 ### OTKNIOYeHHe 6noKNPOBKN 3aMKOB
-`skoda_octavia_en_40848050` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ABa pa3a 8 TeueHne 2 cekyHA KOCHNTeCb nalbLaMnAaTyNka 1. Ecnn npn oTnnpaHnn nepeKpbIBaIOTCAAaTUNK 2NOAHOBpeMeHHO AaTHNK1,a/M He oTnupaeTcg. Ecnn a/M 3anupaerCnpNKoCHOBeHNeMKAaTuNKy1,TOBTeyeHne cnenyioWnX 2 ceKyHA OTnepeTb ero npNKOCHO
 
@@ -1038,41 +935,34 @@ OCTOPOXHO! KorAa Bb1 BbIxonTe 13 a/, ABepu He 3annpaioTcA aBTOMaTHueCKN, R03T0My
 (1）AeNCTBNTenbHOAna/M c AKI.
 
 ### SnoknpoBkaABepen
-`skoda_octavia_en_470d8fac` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Eci Bbl3akpblBaeTe a/MCHapy 3aMKN ABepen 3annpaioTcg aBTOMaTNyeCKN. B 3TOM cny4ae,OTkpbITb ABepn C NOMOWbIO Py4KN OTKPbIBaHNAABepN HeBO3MOXKHO,HN N3HyTPN,HN CHapy>XN. Ha AaHHbIn 中akT nocne BbiKl04eHN9 3aXNraHn o6pa山aeTBHNMaHue CneAyio山ee cooueHne ANcnnes KoMoNHaunN npn6opoB: “M yuNTbiBanTe 6nokup. 3aMKOB! S y4NTbIBANTE 6JOKNPOBKy.
 
 Ecnn a/m 3anepr 4 中yHkuNA 6noknpoBkn 3aMK0B OTKIO4eHa, Bbl MOXeTe OTKpbITb a/m N3HyTpN, NOT9HyB 3a py4Ky OTKPbIBaHN9 ABepn.
 
 ### NHANKaUNA BKnIogeHNA
-`skoda_octavia_en_bf356d2a` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KoHTponbHag naMna B A8epN BOANTeng 6bICTpo MWraeT OKOA0 2 ceKyHA 3aTeM Ha4NHaeT MNraTb paBHOMepHO C 6onee npononnTenbHbIM WHTepBanaMn.
 
 ### NHANKaUHA BbIKIO4eHNA
-`skoda_octavia_en_f003c19a` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KoHTponbHa naMna B ABepu BOANTenA 6bicTpo MNraeT npnMepHo 2 cekyHAbl, 3aTeM racHeTN 4epe3 30 ceKyHA CHOBa Ha4NHaeTMNraTb, MeAneHHee NCPaBHbIMN NHTepBanaMN.
 
 BHNMAHNE! Ecnn a/M 3anepr M 6noknpoBka ABepen (SAFE) aKTHBHa, 8 canohe He AONKHbI OcTaBaTbcAnIOAN, nOCKOnbKyOHN HeCMOryTBcnyuae Heo6xoAWMOCTH 0TKpb/Tb ABepH Hn onycTHTb CTeKna 13HyTPH. 3anepTble ABepu 9 4pe3Bbi4anHon CHTyaLMoCnOXHRIOT cnacaTengMnpoHHkHoBeHHe BHyTpba/M!3rayHkg AeicrBHenbHa ronbkO An8OTAeIbHbIX CTpaH.
 
 ### OTnNpaHne OTAenbHon ABepN
-`skoda_octavia_en_77dabda1` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3Ta 中yHKun8 no3BongeT OTnNpaTb TOnbKO ABepb BOANTenA. Bce OCTanbHble ABepN, - 4oK 3anNBHonropnoBNHbI N Kpbluka 6araXHWka ocTaIOTCR 3anepTbIMN,NOTnNPaIOTCRTOnbK0 nocne nOBTOpHoro HaxaTng KHONKN OTnNPaHNA.
 
 ### OrnnpaHne ABepen c OAHOH CTOpOHbl a/M
-`skoda_octavia_en_90aa82c0` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 9ra 中yHKUNA 103B0nAT OTnepeTb 06e ABepN co CTOpOHbl BOANTenA. Bce octanbHble ABepN, no40k3anNBHon ropnOBNHbINKpbluka 6araxHuka OCTaIOTCA 3anepTbIMN, W oTnnpaIOTCA TOnbK0 nocne nOBTOpHoro HakaTNA KHONKN OTNNPaHN9.
 
 ### OTrHpaHNea/MCCHCTeMONKESSY
-`skoda_octavia_en_7c6aac48` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AaHHas 中yHKu9 Aonyckaer OTnnpaHne nnN Bcex A8epen NnN OAHONABePNwnno6enx ABepencoAHon neBon nnn npaBon） CTOpOHbl a/M. Bce ocTabHble ABepN. n04oK 3annBHon ropnOBNHbl N KpbIwka 6araxHNka OCTaIOTCA 3anepTbIMN, N OTnNPaIOTCA T0JbK0 nocne noBTOPHOrO HaKaTNA KHONKN OTANPAHNA.
 
 ### ABTOMaTnueckoe 3annpaHne/oTnnpaHne
-`skoda_octavia_en_d6003b71` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bce ABepn 3anupaiTcg HauNHa co cKopoCTN npMepHO 15KM/4. Kna8nwa B py4ke OTnnpaHNA KpbI山KN 6araxHuka OTKNIOyaeTCA. nocne N38ne4eHnA Knioya W3 3aMka 3axhraHN, a/M aBTOMaTNyeCKN OTnNpaeTcA. Kpome Toro, BOANTenb NnN nepeAHnn naccaxNp MOXeTOTnepeTba/M,HaxKaB KnaBNwy LeHTpanbHoro 3aMka
 
@@ -1085,7 +975,6 @@ ABepN a/M MOKHO BJ6ONMOMeHT OTnepeTb N3 canoHa W OTKpbITb, OANH pa3 NOTSHyB 3apy
 EcnN a/M He 6bln3anepT CHapyx,Bbl MOxete 3anepeTb WAN OTnepeTb ero KnaBnwen naxe npn BbIKIYeHHOM 3axNraHNN. A Tex nop,nOKa OTkpbITa xOTs 6blOAHa ABepb,3anepeTb a/M HeB03MOXKHO.
 
 ### OrnnpaHne
-`skoda_octavia_en_f98a8c9a` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 C CDE
 
@@ -1094,7 +983,6 @@ HaxMNTe KaBnuy B KnaBnwe noracHeT CNMBOn. 门pu 3anupaHNN a/M KnaBnuen ueHTpanbH
 6araxHNKa CHapyXN HeBO3MOKHo （Ang 6e30-nacHoCTN, HanpnMep, npN OCTaHOBKe Ha ne-peKpecTke).OTnepeTb NOTKpbiTb ABepN N3 ca-noHaMOKHO OANH pa3 nOTAHyB pyuKy OTKpbl-BaHNA COOTBeTCTByIOuen ABepn. B cnyuaeaBapNn cocpa6aTblBaHneMnoAy山ex 6e3onac-HOCTN,3anepTbleABepN aBTOMaTN4eCKN OTnN-paIOTCA,4ToobI CnacaTenN MOrnN npoHNKHyTbBHyTpb a/M.
 
 ### BoKNpOBka OTCnyuanHoro OTKPbIBaHNA ABepenN3HyTPN
-`skoda_octavia_en_7b49ea06` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 5noknpoBka OTKPbIBaHNgABepeN N3HYTPN: 3aAHAAneBagABepb
 
@@ -1103,7 +991,6 @@ HaxMNTe KaBnuy B KnaBnwe noracHeT CNMBOn. 门pu 3anupaHNN a/M KnaBnuen ueHTpanbH
 MexaHN3M 6noKNpOBKN npensTCTByeT OTKpblBaHNIO 3aAHNX ABepen N3HyTpN. ABepb MOxeT 6bITb OTKpblTa TOnbK0 CHapyKN. 9ra 6noknpoBka BKnio4aeTcA 4 BbIKnyaeTCA K1I040M a/M,
 
 ### BbiKioyeHne
-`skoda_octavia_en_c1ab0809` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NoBepHNte Wnnu 6noKupoBKN B HanpaBneHMN, nPOTNBONONOXHOM cTpenike (Ha npaBon ABepN 一 3epkabHo).
 
@@ -1112,69 +999,58 @@ OTKpbIBaHne/3akpbiBaHneABepN HapyXHag/BHyTpeHHNepyuKNABepN
 ![](images/8f90a7db05f86bbcb153111a6e66c0551c585414b475ccee845544368a237815.jpg)
 
 ### 3akpbiBaHne ABepN N3 canoHa
-`skoda_octavia_en_ea9e1755` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bo3bMNTeCb 3a pyyky C n 3akponite coOTBeTCTByIOuyIOABepb.
 
 BHNMAHNE!CnegNTe3aTeM,To6bIABepb6bina 3akpbira npaBunbHo, B nPOTHBHOMcnyuae OHa MOKeTBHe3aNHOOTKPbITbCABOBPeMAABNKHHA.
 
 ### KESSY
-`skoda_octavia_en_6040d4a3` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Cncrema KESSY (Keyless Entry Start Exit System) NO3BONAeT OTnNpaTb N 3annpaTb a/m 6e3 aKTNBHor0 Ncnonb30BaHNA Knoua.
 
 TpeAynpexAalowee coo6menne
 
 ### Knioy B a/M
-`skoda_octavia_en_ee76068e` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 yHKuu9 3aLNTbl OT HenpeAHaMepeHHoro 3annpaHuA Knoa B a/MaBTOMaTNUeCKNOTnNpaer a/M npn Hannynn cnenyiomnx ycnoBnn: a/M,BKnioyag 6araxHbln OTceK, 6bln 3anepTi KAio4, KOTOpbIM 6b1n 3anepT a/M, ocTanics BHyTpN (o6nacTb D). B nonTBepxneHne 10- BTopHoro OTnNpaHug a/M 2 pa3a MNraIoT yka3aTen nOBOpOTa, Ha Ancnnee KOM6NHaLNN nph6op0B OToopaxaeTcg cneqyiouee co06- 山eHne: “M Kno4 B a/M. “S K1Io4 B ABTOMO6NNE.
 
 Ecnna/MoCHa山eHoxpaHHon cnrHann3aune, AOnonHNTenbHO pa3AacTcA 3ByK0B0N CNrHan.
 
 ### CHcTeMa He HaXOANT KNIOY
-`skoda_octavia_en_8bb1dc06` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn CcTeMa He ooHapyxwna KniouBa/M Ha ANcniee KOM6nHaunn npn6opoB NOgBnseTCA OAHO 13 cneAyiomnx coo6meHnn: “M Kn:o4 He HanAeH. M Knto4 He pacno3HaH. “S” HET KIO4A.
 
 3r0 MoxeT npon30nTN, ecn KnIOy HaxoANTCA BHe a/M,pa3pskeHa 6aTapenikaKnoua. KniOu HenCrpaBeH,Nnn Me山aeTcnnbHoe 3neKTpOMarHnTHoe none.
 
 ### HencripaBHoCTb 3 CHCTeMe KESSY
-`skoda_octavia_en_297aa010` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnw B CNCTeMe KESSY NMeeTCA HenCnpaBHOCTb, Ha Ancnnee OTo6paxaercA cneAyiomee coo6meHne: "M HencnpaBHocTb CNCT. AocTyna W nycka 6e3 Kioua. S HENCNPABHOCTb CNCT. AOCTYNA N nyCKA 5E3 KIIO4A.
 
 ### HH3xoe HanpaxeHne 3neMeHTannTaHng 8 ko4e
-`skoda_octavia_en_6b39e764` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pu CnNWKOM HW3K0M HanpgkeHnn aneMeHTanNTAHNABKnIoue Ha Ancnnee KOM6NHaLWN phoopoe nonnserca cnenyiomee C006- meHne: "M 3aMeHNTe3neM, NNTaHNg B KNI0- ue! “S 3AMEHNTE 3NEMEHT NTAHNA KIO4A.
 
 3aMeHNTe 3neMeHTnNTaHN B Knioye.
 
 ### A/MHaCTORHKe
-`skoda_octavia_en_c33a5bcb` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnN BTeyeHne 6o nnn 90 4acOB a/M He OTnnpaeTca,AaTunkn B py4ke ABepNnepeAHero naccaxnpa N BOANTeNA aBTOMaTNyecKN OTKnIo4aIoTCA.
 
 ### AKTHBaLng yepe3 60 4acoB
-`skoda_octavia_en_0cf5dbfc` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OronpnTe ABepb BOANTenA C noMoLbto AaT4nka 2. HaxMuTe py4Ky OTKPbIBaHN9 KpbIWKN 6araxHNka, Oronpnte a/M KHONKON Knoua C CHMBONOM 3. ABapniHoe OTnNpaHne ABEPN BOANTenR.
 
 ### OxpaHHag curHann3auna
-`skoda_octavia_en_fa2e0650` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NoBblwaer CTeneHb 3a山NTbl Bawero a/m OT HeCaHKLNOHNpOBaHHOrO AOCTyna. pn noNbiTke B3n0Ma a/M ChrHann3aug BKNiouaeT 3ByKOBON W CBeTOBON CurHanbl TpeBorn (gaJee KopOTkO: cnrHan TpeBorn). OxpaHHag CNrHann3aung Cpa6aTblBaeT,KorAa HapywaeTcs OAHa W3 cnenyiomnx 30H OXpaHbl a/M: KanOT, KpbI山ka 6araxHuka, ABepn, 3aMOK 3axnraHNA, HaKnoH a/M, canoH a/M, naneHne HanpgKeHn 6opTOBOn CeTNa/M, po3eTka Tcy, ycTaHoBneHHas B 3aBOACKNXyCnoBNAX. pn OTKioYeHNNAHON N3 2KIeMMAK6npNaKTHBNpoBaHHon oxpaHHon CMrHanN3auNN, HeMeAneHHO BKnouaeTca CnrHan TpeBorn. CurHann3au9 OTKouaeTCA, korna a/m OTnHpaeTcg WAN BKnoyaeTcA 3axnraHne.
 
 OCTOPOXHO!4ro6blo6ecne4nTbpa6oTocnoCO6HOCTb oxpaHHon CHrHann3aHN B nonHon mepe,nepen TeM kak Ocra8NTb a/M,y6eAnTecb, 4T0 BceABepN 3anepTbl, ctekna nOAHATbI 4nOAbeMHO-CABNKHON JIOK 3akpbiT. CpoK cnyx6blCHpeHbICNrHann3aun COCTaBnAeT5neT.
 
 ### BxstoyeHne
-`skoda_octavia_en_a4456577` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OxpaHHag CNrHann3ang BKnIO4aeTC8 aBTOMaTnuecKn npnMepHO uepe3 30 CeKyHA nocne 3anupaHng a/M.Ecnn Bbt OTonpete a/m c noMomblo Ay,n B TeueHne cnenyiounx 45 ceKYHA He OTKpOeTe HN OAHy ABepb WAW KpbI山Ky 6araxHNka,a/MaBTOMaTnueckN 3anpaeTcsN aKTNBNPyeTCA 6noknpoBka 3aMK0B W oxpaHHa9 CHrHanN3auNg. BnaroAaps sTon yHKNN, cnyyanHo OTnepTbih a/M He OcTaeTcA OTnepTbIM.
 
 ### BbIKno4eHne
-`skoda_octavia_en_4f1ef3c1` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OxpaHHag ChrHanN3ang BbIKnouaeTcA aBTOMaTnuecKN noCne OTnNpaHNA a/M. EcnN B TeyeHne 45ca/M He 6yAeTOTKpblT,OxpaHHag CNrHann3ayN cHoBa BKAOYNTcg.CnrHann3aLN8CHOBaaKTHBnpyeTc, eCnN ABepb BOANTe6yAeTOTnepTa KnoUOM B TeyeHne 45 c nocne 3anupaHnA a/M.
 
@@ -1183,21 +1059,18 @@ pwmeuaHne: Ecn Bbl oTnupaere a/mnosopoTOMKnoya B3aMKeABePNBOANTenA nocne OTKpbiB
 He, 4T06bl AeaKTHBNpoBaTb oxpanHyio CHrHan3aLHo.
 
 ### KnaBnuaoxpaHbicanoHa N 3a山NTbIOT 6yKcupoBkN
-`skoda_octavia_en_0be3476d` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 O
 
 CNCTeMa oxpaHbl canoHa aKTHBNpyeT chrHan TpeBorn,Kak TOnbkO pacno3HaeT ABNxeHNe B canoHe WN HaKnOH a/M.
 
 ### BbIknioyeHne
-`skoda_octavia_en_b2d6468b` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbIKn04nTe 3axnraHne. Orxpoite Aeepb BOANTeng. HaxMnte KiaBnwy C CNMBO nOM Ha CTONke T CO CTOPOHbI BOANTeng. OFE ToAcCBeTkachMBona Ha KnaBue N3MeHeTCAC KpaCHON HaopaHxeByio.A/M 窗 6yqeT 3anepT B TeyeHne 30 cekyHA. CNcTeMa oxpaHbl canoHa N3a山Ta OT 6yKCWpOBKN BKnIo4aIOTCA nocne 3anupaHna/m aBTOMaTN4eCKN. OrKnlo4nte oxpaHy canoha A 3auNTy OT 6yKCNpOBKN, ecnn TpeBOKHaCNrHanM3aung MOxKeT Cpa6OTaTbOTABNKEHNA B canoHea/M (HaripNMep,AeTe Nnn XNBOTHbIx), WnN ecnNa/M HeooxoqnMoTpaHcnopTupoBaTb (HanpwMep, noe310M Wn B0AHbIM TpaHcnopTOM),NnN B Cnyuae 6ykcnpoBkn a/M.
 
 OCTOPOKHOIOTKPbITbNOTCeKAnAOUKOB 0rpaHn4NBaeT3OHyAehicTBnAAaTuNKaOxpaHbIcanoHaNCHHXaeT ero 3eKTnBHoCTb.AnR o6ecneueHHAyHKHOHanbHOCTHOXpaHbIcanoHa nepen 3anHpaHneMa/MBcerAa3akpbiBaiite OTCeKAn xpaHeHNA 04KOB.fpn3anupaHnna/MoxpaHHag cnrHaH3aHAaKTHBHPyeTCANnpNOTKIOyHHON 6nOKPOBKe3aMKOB OAHakooxpaHacanoHanpn9ToM He aKTHBHpyeTCA.
 
 ### Kpbllika 6araxHNka
-`skoda_octavia_en_6499332f` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OCTOPOKHO! EcnN a/M 6b3anepT eme Ao 3akpblBaHnpbukn6araxHka,bwaaomaTH4ecKN 3anpercs cpa3y nocne 3akpbiBaHHg. Tpn
 
@@ -1216,22 +1089,18 @@ Py4ka B 06nBkeKpblwkn6araxHnka
 nocne OTnnpaHns ABepb 6araxHNka MOKHO 0TKpbiTb C nOMO山bi0 KHONKN B py4ke HaA HOMepHbIM 3HaKOM.
 
 ### ABTOMaTnueckoe3annpaHne
-`skoda_octavia_en_924f7a30` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn a/m 6bn 3anepT eue Ao 3akpbiBaHNR Kpbl山kN 6araxHNka, Kpbl山kaaBTOMaTNuecKN 3anpercA cpa3y rocne 3akpbIBaHN8. BpeM9, 1 NCTeyeHNN KoToporo KpbI山ka 6araxHNka 6yAeT 3annpaTbcg aBTOMaTNyeCKN, MOXH0 yeennuNTb Ha CTO.
 
 ### 3aepxka 3annpaHng
-`skoda_octavia_en_bcb9059e` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnnABepb 6araxHuka 6bIna OTneptaCnOMO山btoKnaBN山NCCNMBO nOM Ha Kioue C ANCTAHJNOHHbIM ynpaBneHNeM,TO B TeyeHNe HeKOToporo BpeMeHN nocne 3akpbiBaHnA ee MOXHO CHOBa OTKpbITb. Noka KpbIuka 6araXHnka He 6ynet 3anepra aBTOMaTNyeCKN, 8 a/M MoryT npoHNKHyTb HexenarenbHiblennua.To3Tomy a/M BcerAacneAyeT3annpaTb KHonkoN Ha Knio 4e C ANCTaHUNOHHbIM ynpaBieHnem. 3anep\*ky 3annpaHnMOXHo Bnoboe BpeMAOTKNO4NTb Ha CTO.
 
 ### OrpaHnyeHne ycnnng
-`skoda_octavia_en_174b0650` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3nexTponpnBoA ABepN 6araxHnka 8 AanbHenweM npOCTO ABePN) NMeeT 中yHKLW0 OrpaHnyeHnA ycnnng, EcnN npn 3akpbIBaHNN Kpblwka BCTpe4aeT npenRTCTBNe, 0Ha ocTaHaBANBaeTCA,N pa3AaeTcA 3ByKOBo CNrHan. Ecn BO BpeMg OTKpbIBaHnA WnN 3aKpbIBaHNA KpbI山K4 6araxHukaN3-3a CANWKOM 6bIcTpon nocaAkN Ba/MnpONCXOANT TOn4OK Bcero a/M, ABepb MOKeT OCTAHOBNTbCA.
 
 ### Py4HOe OTKpbIBaHne N 3axpbIBaHHe
-`skoda_octavia_en_a71ca20d` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OTkpbIBaTb N 3akpbiBaTb ABepb·6araXHWka Bpy4HyI0 pa3pemaeTcR nWb 8 NCKIIO4NTenbHbix cnyyagx. AenaTb3TO HyKHO MeAneHHO, 6e3 PbiBKOB, HaxNMax Ha ABepb nocpennHe.
 
@@ -1242,12 +1111,10 @@ ynpaBneHnenpNBoAoMKpbiWKN
 ![](images/a5e129a00a7bc1e4d5879994f8ec6e243f21574752251677ae3d181740e9231e.jpg)
 
 ### OpraHbiynpaBneHHg
-`skoda_octavia_en_a5e11e32` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ynpaBnaTb 3nekTponpnBonOM KpblWKN MOKHO C N0M0山bi0 cnenyio山nx opraHoB: KHONKON Ha Knio4e (HaKMMaTb ceKyHAy), KHonKon HapyukeAc HapyHON CTOpOHbl ABepn, KHONKON B C BHyTPeHHeA CTOpOHbI ABepN, KnaBnwen C Ha ueHTpanbHon KOHCONN.
 
 ### 30HblynpaBneHnA
-`skoda_octavia_en_db191663` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CncTema pa3nnyaeT 3 30Hbl, B KOTOpbIX yHKuNAOTAenbHbIx OpraHoB ynpaBneHng MeHReTCA. Takxe pa3nnyaioT kpanHne nonokeHNA KpblWKN-nonHoCTbio 3akpbITa(B 3a6noKNpoBaHHOM 3aMKe)NnOnHOCTbiOOTKpbITa. peAenbl 30Hbl 3BapbupyiOTCA B 3a8NCNMOCTNOT HaCTpONKN BepXHero nOnOXeHn8 KpbI山KN. EcN BepxHee nonokeHne KPbIWKNnPNXonNTCA Ha30Hy2,TO3Ha 3 He aKTNBHa. Npenenbl 30- Hbl 2 BapbupyioTcA nponopunoHanbho HaCTponke BepxHero NONOKeHA KPbIWKN.
 
@@ -1267,7 +1134,6 @@ yrpaBneHNenpNBOAOMKpbIWKN C noMOmbIo KnaBNwnSHapaAnoknioye HKnaBnwn C
 pn BK/IO4eHOM 3axnraHNn ynpabneHne npNBOAOM KPbIuKNC nOMOubio paAnoknoua pa60Taer.ynpaBneHNe npNBOAOM Kpbi山Kn C nOMOWbio KnaBNWN C He pa6oTaeT, KorAa a/M6bIn OTnepT CHapyXN.YnpaBneHNe npNBoAOM KpbIuKNCnOMO山bIo KnaBWWN HapaANoKioyenKiaBn山N C He pa6oTaeT, Korna K a/M npnuennen npnuen.
 
 ### 3ByKoBbiecnrHanbl
-`skoda_octavia_en_b23d61e8` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 O6ecneyNBakT 6e3onaCHoCTb 4 NHcOPMNPyI0T 0 3aBepweHnN TOrO NAN NHOrO nenctBng.
 ![](images/_MISSING_622e1452f421092e42588af05e7b8e5d96151858af40349e83cc12b00b9e13d4.webp)
@@ -1277,19 +1143,16 @@ BbinonHNMoe AencTBNe HeBblnonHnMoe nencTBne AenxeHne B HanpaBneHNN npoThBOnonOKH
 ABNKeHNIO
 
 ### HacTponika
-`skoda_octavia_en_b52e0fad` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OcTaHOBNTe KpbIWKy B Hy>KH0M nonokeHN c noM0WbI snektponpnbona Wn Bpy4- HyIo). HaxMnte KnaBnuy B W YAepKnBanre Aonbwe 3 ceKyHA. CoxpaHeHNe HOBOrO nonoKeH B NAMATN NOATBepXAaeTCA 3ByKOBbIM CNrHanOM.
 
 ### CTupaHne HaCTpOnKN
-`skoda_octavia_en_1a595831` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OcTopOKH0 roAHNMNTe KpbluKy Bpy4Hyi0 no kpanHero sepxHero nonokeHng HaxMre KnaBNwy BNyAepxnBanTeAonb山e 3 ceKyHA. Pa3AacTcs 3ByKoBoN CNrHan,paHee HacTpoeHHoe 3Ha4eHNe BbICOTbI CTNpaeTCR 13 naM8TN, BOCCTAHaBINBaeTCA 6a30B0e Nonoehne MaKCNManbHOiBbICOTbI nOAbeMa Kpbi山KN.HaCTpaNBaTb KpanHee BepxHee nonokehne Kpbl山K4 peKOMeHAyeTcA, HanpnMep, B cneAyIoLNX CNTyauN9X: npn noMexax OTKpbl8aHWIO Kpbl山Kn (HanpMMep,npN HN3KOM 3ae3neB rapax); Ang yAo6cTBa nonb30BaHnn (HanpwMep, npw HN3K0M pocTe). BepXHee nonoxeHNe,KOToporOnNaOaTecKOMOTKpbIBaHNN AOCTNraeT KpbIuka, BcerAa MeHbWe npeAenbH0B03M0XKHON BbICOTbl, KOTOpanMOKeT 6biTb AOCTNrHyTa npN OTKpbIBaHNN BpyuHyio. 的
 
 Kpbiwka BCerna nOAHNMaeTCA AO BbICOTbl, KOTopag 6bina3anncaHa B naM8Tb BnocneqHnN pa3.
 
 ### C6onBpa6ore
-`skoda_octavia_en_e433847b` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/_MISSING_4aba4ba6551e7a15ab0596dc814373b0d5c01b85225e46718fa87663a54a6587.webp)
 
@@ -1304,36 +1167,30 @@ coxpaHeHo 3akpbltoenonokeHne B 3anepTOM .
 ![](images/_MISSING_d6c0d644ed27f26dfb276ceb4304ba1a6921b639acb4c16d28c3b0c10a25db61.webp)
 
 ### 3nektpn4eckne CTeKJIonOAbeMHNKN
-`skoda_octavia_en_0faa467c` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pa6oTaioTTonbkonpN BKNO4eHHOM 3axWraHnn. nocne BbiKIoyeHNA 3axnraHNA, Bb1 MO\*eTeOTKpbIBaTb N 3akpblBaTb ctekna eue OKono 10 MNHyT. IIpN 0TKpbIBaHNN ABepn 80- ANTens WnN nepeAHero naccaxnpa, CTeK/0- nAbeMHNKN NOnHOCTblO OTKNo4aIOTCA An9 npOBeTPNBaHNA caoha B0 BpeMg ABNKeHNA cneAyeT npexne Bcero NCnonb308aTb CNCTeMy BeHTHNALNN OTONNTenA WnN KnNMaTnyeCKON yCTaHOBKN. Fpn OTKpbIBaHMN CTeKOn B canoHMOKeT nonacTbnbinbNApyrne3arp83- HeHnA,N poe Toro,npn opeAeneHHo KoPOCTNMOXeT NORBNTbCRWYMOT beTpa.
 
 BHNMAHNE!CneANTe3aTeM, 4ro6blnpu 3anpaHHNa/MCHapyxNBHeMHeHaxoANnnCbnOAn, n0- CKOnbkyonyCTNTb creknaH3canoHaBcnyuae Heo6- XOANMOCTH 6ygeT H8B03MOKHO. CucTema HMeeT yHKLNto orpaHnueHAycnnng. Apn HannnN npenATCTBNA npouecc 3akpbiBaHN8 npnocTaHaBnnBaTCANCTeKnOOnyCKaeTCA Ha HeCKOnbKOcaHTHMeTp08. TeM He MeHee, npn3akpblBaHnNCTekon Tpe6yBTCAOCMOTPNTeNbHOCTb onacHocTbTpaBMbliEcnn Ha3aHeMcnAeHbepacnonaraioTcaAeTn,pekoMeHAyercg OTKNOUNTb KaBnwH CTeKNonOAbeMHNKOB 3aAHHx nBepen (BbIKnOuaTenbS).MexaHN3MCTeKnonoAbeMHnka 06opyAOBaH 3a山uTon OT neperpeBa. pN HeOAHOKpaTHOM OTKPbIBaHNN N 3akpbibaHHN CTekna3Ta3aunra MokeTcpa6oTaT.3ronp BOANTK BPOMeHHON 6nokHpoake MexaHn3Ma creKnonoAbeMHNka. Kax Tonbko MOXaHH3MOCTbIHeT, H 3auHtaoTneperpeba OTKAIOYHTCA, CTeKnO MOKHO 6yAeT CHoBa 0TKpblBaTb N 3akpbiBaTb.
 
 ### OnyckaHne noAHnMaHne CrekOnCMecta BOANTenA
-`skoda_octavia_en_08b38345` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KnaBHWN Ha ABepN BOANTenA
 
 ![](images/88c7e9747115f0c1e0151c1be0ca598baf677aa992947e9a60a40514d4583926.jpg)
 
 ### KnaBnWn CTeKNOnOAbeMHNKOB
-`skoda_octavia_en_2792011b` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 A KnaBnwa CTeKnonOAbeMHNKa ABepN BOATeng B.KnaBwwaCTeKnonoAbeMHnka ABepnnepenHero naccaxnpa C. KnaBwua CTeKnonoAbeMHNka 3aAHen npaBon ABepN D. KnaBnwa CTeKnonoAbeMHnka 3aAHen neBon ABepn
 
 ### OTkpbIBaHne
-`skoda_octavia_en_4308109f` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Cnerka HaXKMNTe COOTBeTCTByIO山yiO KnaBNWy NyAepxNBante A0 Tex nop,nokactekio He ONyCTNTCA A0 HyXHor0 nonokeHNA. pw 0TnycKaHNN KnaBnwN CTeKO cpa3y OcTaHaBnNBaeTcs KpoMe Toro, KOPOTKNM HaxaTneM KnaBNWN A ynopa MOXHO nOnHOCTbiO onycTWTb CTeKnO BaBTOMaTNyeCKOMpeKNMe. Mpn NOBTOPHOM HakatnN KnaBNWN CTeKnO OCTAHaBnNBaeTCs.
 
 ### 3akpbiBaHne
-`skoda_octavia_en_1f4cf4b1` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Cnerka NOTAHnTe COOTBeTCTByIOLIyIO KnaBN山y BBepx nyAepXNBaTeAO Tex nop,noka CTeKnO He NOAHNMeTCA A0 HyXHoro nonokeHHA. pN OTnycKaHNN KAaBnwn CTeKno cpa3y OCTAHABnNBaeTcA. KpOMe Toro,KOpOTKNM OTTArnBaHneMKnaBnwnAO ynopa MOXHO nOnHOCTbIO nOAHATb CTeKnO 电 aBTOMaTN4eCKOM peXWMe. pu nOBTOPHOM NOTArNBaHNN KaBWWN,CTeKIO OCTaHaBANBaeTcg.
 
 ### BbiKnoyaTeb KnasnW CTEKNOnOAbeMHNKOB 3aAHNXABepen
-`skoda_octavia_en_bd8d376b` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TeX nOp,nOKa CTeKnO He OnyCTNTCRAO Heo6xoANMOronOnoKeHNA. KpOMeToro,BblMoxeTe NONHOCTbIO ONyCTNTb CTeKO aBTOMaTN4eCKN, KpaTKOBpeMeHHbIM HaXaTNeMHNKHen 4acrh KiaBnwn. pN NOBTOPHOM HaXaTNN KnaBnWn CTeKnO HeMeAneHHO OCTaHaBnNBaeTCA.
 
@@ -1348,46 +1205,38 @@ PacnonokeHneKnaBnun HaABepnnepeA Heronaccaxnpa
 BABepN nepeAHero naccaknpa N B 3aAHHX A8epsx HaxOAnTCA KnaBNWN COOTBeTCTBylo山ero CTeKnonogbeMHNka.
 
 ### OTKpbiBaHue
-`skoda_octavia_en_598fc3c5` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Cnerka HaKMNTe Ha COOTBeTCTByIO山yiO KnaBuwy BHN3 N yAepKNBanTe KnaBnwy A
 
 Cnerka NOTAHNTe COOTBeTCTByIO山yIO naBH山y BBepx W yAepxnBaiite KnaBnuy A0 Tex nop, noka CTeKnO He nOAHNMeTCAAO HeO6xoANMoro nonokeHnA Kpome Toro, Bbl Moxere n0J1HOCTbIO nOAHATb CTeKno aBTOMaTNueCKN, KpaTKOBpeMeHHbIM Ha>KaTNeMBepXHen 4actn KnaBnun, NpN nOBTOPHOM HaxKaTNN KiaBnWN CTeKnO HeMeANeHHO OCTaHaBANBaeTCA.
 
 ### OrpaHnyeHneycnnNA
-`skoda_octavia_en_01640582` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CncTema 3neKTpnyecKnx CTeKJIOnOAbeMHNKOB WMeeT cyHKLNI0 orpaHNyeHng ycnns 3ra 中yHKLNA CHNKaeT OnacHOCTb 3aKNMa NTpaBMbI npN 3aKpbIBaHNNCTekOn. Npn HannynN npeNATCTBNA 3akpblBaHNe npnoctaHaBnNBaeTCg N CTeK10 onyckaeTCA Ha HeCKOnbkO caHTNMeTpOB.Ecnn npenATcTBne Me山aeT 3akpblBaHuio CTeKna8 Te4eHne cnenyio山X 10 cekyHA, 3akpblBaHneCHOBa npepblBaeTCAN CTeknO onycKaeTCA Ha Heck0nbk0 caHTHMeTpOB. Ecnn B TeyeHne 10 ceKyHA nocne NOBTOpHoro OnycKaHN8 CTeKna Bbl CHOBa 10- nblTaeTecb 3akpbITb CTeKnO, HeCMOTpA Ha TO, 4To nperATCTBNe He 6bInO yCTpaHeHo,noAbeM 6yAer 3a6noknpoBaH. ABTOMaTN4eckoe no0- HATNe CTekna B 3TOM cny4ae HeB03MOKHO. yHKLNg orpaHnyeHn9 ycnng npoAonkaeT AeNCTBOBaTb. OrpaHwyeHne ycnnNg OTKJI0- YNTCR Tonbko TorAa,KOrga8 TeueHnecneAyiOEX 10 ceKyHA Bbl CHOBa nonbiTaeTeCb 3akpbiTb CTeKSnO 1 Tenepb CTeKI1o 3akpoeTc8 C noHblM ycunnem！EcnnnponAet 6onee10 ceKyHA, yHKLNA orpaHn4eHng ycnnns CH0Ba BKNIOUNTCA.
 
 ### KoMopTHoe ynpaBneHne CTeKnonoAbeMHHKaMN
-`skoda_octavia_en_38c51fb3` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pN OTnNpaHn WnN 3anNpaHNN a/M cbyHKIO KOMcpOPTHoro onyCKaHNA M NOAHNMaHNA ctekon MOXHO Ncnonb30BaTb cneAyiomnM06- pa30M:HacTponka KOMcopTHoro ynpaBneHng CTeKAononbeMHNKaMN. ycnoBneM npaanJbHO pa6oTbl 中yHKLNN KOMcpopTHoro ynpaBneHNS CTeKIonOAbeMHNKaMNSBngeTCRpa6oTOcnoco6Hag cyHKUN9 aBTOMaTNyeCkoro onycKaHnA W NOAHNMAHNA BCex CTekOn OTkpbIBaHNe/3aKpbIBaHNe MOKeT nponcxOANTb OAHNM N3 cnenyiomnx Cnoco6oB.
 
 ### OTxpbiBaHne
-`skoda_octavia_en_bf5ad171` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ha>MwTe KnaBuWy C CNMBONOM Ha Kioye 4 yepknBaiTeHaxaton.ynepKNBanteKnoy B 3aMke ABePN BOANTeB nonoxeHNN OTNNPaHNA. yAepxNBanTe Knaen山y A (1) BNOnOXeHNN OTKPbIBAHNA.
 
 ### 3akpbiBaHne
-`skoda_octavia_en_9d3f6a88` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaxMNTeKnaBNwy C CNMBONOM Ha Knioye W yAepKnBante HaxaTon. YAepXNBaiTe KniouB 3aMkeABepN BOANTens B nonoXeHNN 3annpaHnA. yAepxnBanre KnaBnuy A (1) B nonoxeHnN 3akpblBaHN9, p HanuNN CNCTeMbl KESSY yAepnBante naneu Ha AaTunke 1. OTnyCTWB K04, wnN KnaBn山y A, BblMOxeTe HeMennIeHHo npepBaTb npouecc onyckaHns WnN nOAHNMaHNA CTeKOn.KOMcopTHoe OTKpbIBaHNeNnN 3aKpblBaHNe cTékon C nOMoubIO Kno4a B 3aMke ABePNBOANTenA BO3MOXKHO T0NbK0 B TeyeHne 45 ceKyHAnocne 3annpaHng a/M.
 
 (1）KoMcopTHoe OTKpbIBaHne N 3aKpblBaHNe CTeKonC NOMO山biOKnaBNWN A B03M0KH0 cpa3y xe nocneOTnnpaHNA a/M/BbIKIoYeHNA 3aKnraHNA W OTKpbIBaHN9 ABepN BOANTenA WnN nepenHero naccaxnpa.
 
 ### C6on Bpa6ote
-`skoda_octavia_en_5cf458cb` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ABTOMaTNyeCKNe CTeKiononbeMHNKN He pa6oTaloT, korqa KneMMbi AK6 a/M OTCOeANHNCb N CHoBa noAceqNHnnCb nPN onyeHHblX CTeKnax. CncTeMy Heo6xoAMO aKTNBNpOBaTb.
 
 ### TpoueccakTnBaunn
-`skoda_octavia_en_d108ab50` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BxiouNTe 3aknraHne.nloTaHnTe 3a BepxHNW KpaN cOOTBeTCTByiO山eN KnaBNWN CTeK1OnoAbeMHNKa N NOAHNMNTe CTeKnO. OrnycTnTe KnaBn山y. Eue pa3nOTAHyTb Ty Ke KnaBNuyN yAepxNBaTb eé B BepXHeM NonokeHnN npnMepHo 3 cekyHAbl.
 
 ### NaHopaMHblN nOAbeMHO-CABNKHON Nok (Octavia)
-`skoda_octavia_en_d5a295fa` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ynpaBngTb naHopaMHbIM noAbeMHO-CABNKHbIMnIOKOM（Aanee KOPOTKO: nOAbeMHO-CABNKHON nIOK)MOXHO TOnbKO nPN BKIO4eHHOM 3axnraHnN NHapyKHON TemnepaType He Hxe-20C.Tocne oTKioueHng3aKNraHNA ynpaBngTb noAbeMHO-CABNKHbIM nioKOM M0KH0 eue B Te4eHNe npNMepH0 10 MNHyT. Tonbk0 nocne OTKpbIBaHNAABePN B0- ANTeng WAN ABep nepenHero naccaxupa ynpaBAnTb NoAbeMHO-CABNKHbIMlOKOM yXe HeB03M0KHO.
 
@@ -1398,7 +1247,6 @@ NoBopoTHbinnepeknoyatenb nOAbeMHO-CABHKHOrOJIOka
 ![](images/9163a699acfec5bea352217587a4ff3d89181029a9b74196f3fd58e6819fc497.jpg)
 
 ### KoM中opTHoenonokeHne
-`skoda_octavia_en_7eb94b9d` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ToBepHnTe nepeklloyarenb B nonoxeHneC. ECnN nOQbMHO-CABNKHON NIOK HaXOANTCRB KOMcPOpTHOM nonokeHnn, NHTeHCNBHOCTba3poANHaMNyeCKNX山yMOB CHNKaeTCR.
 
@@ -1407,31 +1255,26 @@ ToBepHnTe nepeklloyarenb B nonoxeHneC. ECnN nOQbMHO-CABNKHON NIOK HaXOANTCRB KOM
 NoBepHnTenepeknoyaTenb B nonokeHne D.
 
 ### oAbeMnioKaBBepx
-`skoda_octavia_en_872aeaf2` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NoBepHnTe nepexnioatenb 8 noJokeHne A.HaKMNTe HaperyngTopBo6nacTN BbiCTyna E BBepx, B HanpaBneHnN KpbIWN.
 
 ### OrpaHnyeHne ycnnNA
-`skoda_octavia_en_9874ba08` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nonbemHo-cABnKHon OK WMeeT cyHKLI0 orpaHnyehng ycunnA npu 3aKpbIBaHNN. nOAbeMHO-CABNKHON nOK OCTaHaBNNBaeTCA N OTXOANT Ha HeCK0/bK0 CaHTNMeTPOB Ha3aA, ecn kakoe-nn60 npensrCTBne (HanpMMep, nen) He N03B0nReT emy 3akpbITbCA. obeMHO-CABNKHON OK MOXHO 3aKpbITb NOnHOCTblO 6e3 OrpaHn4eHnA ycunNg. Ans 3Toro nOTsHNTe noBopOTHbiN nepeKniouarenb BbleMKon E BHW3 H BnepeA, noka NOK nonmoCTbtO He 3aKpoeTCA.
 
 NpnMeaHe:TOAbeMHO-CABNKHONnIOK NMeeT COnHLe3aNTHyiO WTopky. yrpaBnehue conHiesaWNTHON山TOpKON OCyWeCTBnAeTCA BpyuHyio.
 
 ### KomΦopTHoe ynpabneHne noAbeMHO-CABHKHbIM nIOKOM
-`skoda_octavia_en_62ab633d` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ynpaBnTb noAbeMHO-CABNXKHbIM nIOKOM MOXH0 np 3annpaHnN NA OTnNpaHNN KnIO40M, WN C n0M0山bt0 AaT4nka 1 CNCTeMbl KESSY.
 
 ### 3axpblBaHne
-`skoda_octavia_en_a1ad7075` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nonbeMHO-CABNKHoN nIOK MO/KH0 3aKpbITb cneAyiOLNM 06pa30M. HaKMNTeKnaBnwy C CNMBONOM Ha Knio4e N yAepxNBante Hakaron. yAepxnBante K104 8 3aMkeABepN BOANTenaB nONOKeHNA
 
 3annpaHNg. npn Hann4nN CNCTeMbl KESSY yAepxnBante naneu Ha AaT4nke 1. ∩pn npeKpaweHnN 3annpaH48 WAN npu OTnyCKaHNN AaTunka CNCTeMbI KESSY npouecc 3akpblBaHHA HeMeANHHO rpepblBaeTcs.
 
 ### oAbeMnoka BBepX
-`skoda_octavia_en_025779f8` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaxMNte KnaBnmy C CNMBONOM Ha Kio4e NynepknBanTe Hakaton.
 
@@ -1440,7 +1283,6 @@ HaxMNte KnaBnmy C CNMBONOM Ha Kio4e NynepknBanTe Hakaton.
 pnMeuaHne: OTkpbITb nOAbeMHO-CABNXHON OK C nomoWbio yHKLNN KOMOPTHOrO ynpasneHHAHe803MOKHO.
 
 ### NaHopaMHbln nOAbeMHO-CABNKHON nIOK (Combi)
-`skoda_octavia_en_ec76b64b` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ynpaBn8Tb naHopaMHbIM nonbeMHO-cABNXHbIMOKOM（Aanee KOPOTKO: nOAbeMHO-CABNKHONnIOK) MOKHO TOJIbKO nPN BKNO4eHHOM 3aKuraHnN NHapyKHon TemnepaType He HNxe-20C.Tlocne oTknioueHnA 3aKNraHn ynpaBnaTb nonbeMHO-CABNKHbIM nIOKOM MOKH0 eme B TeyeHne npNMepHO 10 MNHyT. Tonbk0 nocne OTKpbIBaHNA ABepN BOANTeng WA ABepn nepeqHero naccaxnpa ynpaBJ8Tb nOAbeMHO-CABNKHbIMlOKOMyKe HeB03M0XHO.
 
@@ -1451,12 +1293,10 @@ NoBopoTHblnnepeKhouaTenb nOAbeMHO-CABNXHOrOnIOKa
 ![](images/edebbf6285e12fd028b0a8d237440961d04d8b4d90694799cf18fdda4a0007fd.jpg)
 
 ### KomcopTHoe nonokeHne
-`skoda_octavia_en_53044b30` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NoBepHNTe nepekniouaTenb B nonoxeHne C. ECnN nOAbMHO-CABNKHON nOK HaXOANTCA B KOMcopTHOM NOnoKeHNn, NHTeHCNBHOCTb a3poANHaMNueckuxWyMOB CHWXKaeTCA,
 
 ### OrpaHnueHne ycnnnA
-`skoda_octavia_en_eb76c7c7` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 noAbeMHO-CABNKHON nOK NMeeT yHK-LnIo orpaHnyeHnA ycnnnn nph 3aKpbIBaHNN.OAbMHO-CABNKHON nOK OCTaHaBnNBaeTCAN OTXOANT Ha Heckonbk0 CaHTHMeTpOB Ha3aA,ecnn kakoe-nn60 npengTCTene (HanpNMep,n） He n03B0nAeT eMy 3aKpbITbCH.OAbeMHO-CABNKHON nIOK MOXH0 3aKpbITbNONHOCTbIO 6e3 orpaHH4eHn9 ychnNA. An3Toro NOTAHNTe nOBOPOTHbIN NepeKNIOyaTenbBbleMKonE BHN3 N Bnepen, noka JioknOnHO-CTblO He 3akpoeTcA.
 
@@ -1469,24 +1309,20 @@ KnaBHwn yrpabseHng conHue3amNTHOn WTopkon
 ConHLe3anTHyiO WTopky MOXKHO OTKPbITb NnN 3aKpbITb CnoMolbto KnaBnw.
 
 ### OrkpbIBaHne
-`skoda_octavia_en_f1673048` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AnnonHoro OTKpbIBaHnA KOpOTkO HaKMATe KnaBn山y F.AnA OTKPbIBaHNA AO HyXHOrO nonokeHng HaxMhTe NypepxnBante Kna8nWyF.Nocne oTnyckaHNAKnaBn山Nnpouecc oTKpblBaHN9 OCTaHaBnNBaeTcg.
 
 ### 3akpbIBaHue
-`skoda_octavia_en_633ada16` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 AnNONHoro 3aKpbBaHNA KOpOTko HaXMN Te KnaBnwy G.Ann 3aKpbiBaHN8 A0 HyKHoro MnokeeUn HaxMNTe NyAepKnBaiTe KnaBnWy G. nocne 0TnyckaHN9 KnaBnuN npouecc 3akpblBaHNA OCTaHaBANBaeTcg.
 
 ### KoMopTHoe ynpaBneHne HOAbeMHO-CABNKHbIMIOKOM
-`skoda_octavia_en_cbbff5b1` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ynpabn8Tb nAbeMHO-CABNKHbIM OKOM MOKHO npu 3anNpaHN Wn oTnNpaHNN Kno4OMNCnoMoLJbloAaTynka CNCTeMbIKESSY.
 
 Haxmnte KnaBNuy C CHMBOJIOM Ha Knioye W yAepKNBante HakaTon WN yAepkNBanTe Knto4 B 3aMke ABepN B0- ANreng B NOnokHnN 3annpaHnA, WnN yAepXNBanTenaneunpNKaTbIMKAaTyNKy CHCTeMbI KESSY.pn npekpaLeHNN 3annpaHg NnN npN OTnycKaHNN AaT4nka CNCTeMbI KESSY 1 npouecc 3aKpbIBaHNA HeMeAneHHO npepbiBaeTcg.
 
 ### NoAbeMnoka BBepx
-`skoda_octavia_en_5d9ca195` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/_MISSING_3f372f2fe6a9919ef98a387472396402d5f4c53b4219f8d37fa22be5b7b37c32.webp)
 
@@ -1495,21 +1331,18 @@ HaxMNTe KaBnly C CHMBONOM Ha Kio4e NynepxnBanTeHaxaTon
 puMeyaHne: OTKpbITb nOAbeMHO-CABNKHOH nokcnomoubio yHKLUN KOMpopTHoro ynpaBneHHAHeB03MOKHO.
 
 ### OcBeleHne
-`skoda_octavia_en_e5427079` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Tpn6opbl ocBemeHng pa6oraioT TOnbK0 npNBK/Io4eHHoM3aXNraHNN, ecn cneunanbHO HeyKa3aHO Apyroe.
 
 pnMeuahne:Fpu HencnpaaHocTH repekniouarenA ocBeueHHs aBTOMaTHyeCKN BKno4aeTCA 6nKH coeT. apbl Moryr Ha HeKOTopoeBpeMA 3anoTeBatb N3HyTPH. Ap BKnIoYeHHN apbi 06- nactb npoxoxAeHn caeTa 6biCTpo ouHuaetcs 0T 3anoTeBaHHA, HO HHorAa n0 KpaAMpaccenbaTeng 3anoTeBaHne CoxpaHAeTCA HeKOToPoe BpeMA. 3r0 3anoTeBaHne He BAHAeT Ha cpOK cnyk6bl ocBeT TenbHbIX npn6opos. ApH BKTOYeHHN ra6apHTHbIX orHen, 6nuxHero NniAanbHero CBeTaBKO4aeTCA HnoAcBerka KOMONHaLni npn6opoB. ApKOCTb nOACBeTKN KOM6NHauNH npn6opo8 HacTpanBaeTcA 8 CHCTeMe Infotainment.
 
 ### Fa6apnTHbleorHNN 6nNXHNn CBer
-`skoda_octavia_en_91db28b5` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TepeKnoyaTenb OcBeueHnA nperynaTop koppekTopa Φap
 
 ![](images/adb0c8864b884b3b40be3ec6aea2936e71b0fcaf5e83b9bc7324ad0793a56cb3.jpg)
 
 ### nonokeHnA nepeknio4aTenaocBemeHngA
-`skoda_octavia_en_5b53a799` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 0:BbiKnIo4eHNe OCBe山eHNA (kpoMe AHeBHoropekNMa ocBeeHng)
 
@@ -1524,12 +1357,10 @@ Tpn noBopore peryngTopa B N3 N0- nOxeHNg B ronoxeHne 3 koppeKTop cap nocteneHHO 
 BHNMAHNE！HaKnOHapAonKeH6biTbBcerAa oTperynnpoBaH TaK,4To6b16bnNco6noneHbl cneAyiomeTpeboBaHng. apbla/M He ocnennsoTBOANTenenApyrHxTpaHcnopTHbIxcpeACTB, oco6eHHO BCTpeuHoro HanpasneHng. AanbHocTb OcBeleHnA AOCTaToHHaAng 6e3onacHoroBoKAeHnA.PeKOMeHAyetca KOppeKTnpoBaTb nonokeHne 中ap npw BKTIoYeHHOM 6nKHeM CBeTe. nocne BKTOYeHNA 3anraHnA H 80 BPMABNKHHA 6uKCeHOHOBbie Φapbl aBTOMaTHyeCKHnOACTpaNBaIOTCAKCTeneHN 3arpy3KH peKHMyABHXeHNAa/M.A/MC6HKCeHOHO8bIMH apaMN HeocHauaioTcgpyyHblMperyngropoM koppekTopa Φap. SnXHCBT BKNI040H, ecn BK1I040H0 3axhraHne M nepekniouaTenbpeKNMo8CBeleHngHaXOAHTcA8nonOKeHNN HAN AUTO. nocne BbIKToyeHNA 3aHraHA6nKHnCBeraBToMaTnueckn BbiKIO4aetcg, N BKNO4eHHbIMN OcTaIoTCA TOnbkO ra6aPNTHble OrHN. ra6apuTHbieOrHNBbIKsIouaIoTCA n0- CneN3Bne4eHAKoya H33amka 3a\*uraHng.
 
 ### OTKHo4eHne AHeBHoropexnMa ocBemeHHHa a/M6e3 CHCTeMbl Infotainment
-`skoda_octavia_en_1908ac81` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 noTAHNTe noApyneBon nepeknoyaTenb yka3arenen noBopoTa M AanbHero CBeraK pyneBoMy Konecy N onycTnTe ero BHN3, OAHoBpeMeHHO BKnIoynTe 3axurahne, W yAepxW Baite nepeKnloyaTenb B 3TOM nonokeHnN He MeHee Tpex ceKyHA.
 
 ### BKnioyeHneAHeBHoropexnMa ocBeleHHAHaa/M6e3CHcTeMbl Infotainment
-`skoda_octavia_en_502e1504` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 noTaHNre noApyneBon nepeksloyatenb yka3atenen noBopotaN nanbHero CBeTa K pyneBOMy KOneCyNOAHNMNTeerOBBepX OnHo BpeMeHHO BK1I04NTe 3axnraHne, N ynepx
 
@@ -1538,14 +1369,12 @@ Bante nepeknouaTenb BGTOMNonOeHNN He MeHee 3 CeKyHA.AHeBHON peKNM CBeLeHNA BKnoy
 TpweuaHNe:pNBKnOueHHOMAHeBHOM pekhMeocBeueHng ra6apnTHbieorHn (HnnepeAHe,HN 3aHne) OCBeueHne HOMepHoro3HakaHeropAT.
 
 ### yka3atenn noBopota M AanbHnn CBeT
-`skoda_octavia_en_9839ab68` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ToApyneBonnepeknoyarenbyka3aTenen nOBOpoTa NAanbHero CBeTa
 
 ![](images/820d2bec5d2b08ee6fa3f57454a7c408949d3b71d941f9872750204f95714cfe.jpg)
 
 ### NonoXeHNAnOAPyneBoro nepeknioyatens
-`skoda_octavia_en_78c060b7` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 A. BknoueHne "CTpenka snpaBo" npa8bIx yka3atenen noBopoTa B. Bkno4eHne “CTpenka BneBO" neBbIX yka3atenen noBopoTa C.BKnioueHne AanbHero CBeTa (nonoxeHne 6e3中nkcaunn) D. BblKlioueHNe AanbHero c8eTa/BkloueHne CBeTOBorO ChrHana (nonoxeHne 6e3cnkcann)
 
@@ -1560,7 +1389,6 @@ WnN
 Ecnn Ha.a/MC acCNCTeHTOMAaibHero CBeTapbluarnepeknioyateng yCTaHaBNBaeTCA B nonokeHne C, accNCTeHT BKnoyaeTCA,
 
 ### "KoMcopTHOe BKnoueHne yka3arenen 10- BopoTa"
-`skoda_octavia_en_3c8501d8` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ang TpexkpaTHor0 MNraHNA yka3aTenen noBopora KpaTKOBpeMeHHO HaXMNTe pbl4ar BBePX NNNBHN3AO TOUKNCONPOTNBAHNANOTnyCTNTe. "KomcopTHoe BKN04eHNe yka3arenen noBopoTa" MOKHO aKTNBNPOBaTb NnNAeaKTNBNPOBaTb B CNCTeMe Infotainment. CurHanN3aLn8 npu nepecrpoeHnN B Apyron paA 一 An HenpoAonXnTenbHonpa6oTblyka3aTenen noBopoTanepeMecTnTepbl4ar BBepX NNN BHN3 A0 TOUKNCOnPOTNBneHNA A yAepKnBanre ero B3TOMNonoKeHnN.
 
@@ -1577,78 +1405,64 @@ Mepeknio4arenbocbemeHna
 Ecnn nepeknioyaTenb ocBemeHnA yctaHOBAeH B nonokeHne AUTO, ra6apnTHble orHN N 6nKHn CBeT, a TaKxeocBe山eHne HOMepHoro 3Haka BKoyaIoTCA NBblKioyaioTcA aBTOMaTnyeckn.OcBeueHne perynnpyeTcg Ha OCHOBe AaHHbIX, pernc.TpnpyeMbIx AaT4NKOM, pacnonOXeHHbIM MeXAyBeTpOBbIMCTeKJOM W BHyTpeHHNM3epKanOM 3aqHero BNna. 4yBcTBNTenbHOCTb AaT4nka OCBeWeHHOCTN MOXKHO HacTpoNTb B CNCTeMe Infotainment. Korna nepeKnIoyaTenb OCBe山eHNs yCTaHOBneHB nonoXeHne AUTO、CNMBON AUTO pAAOM c nepeKoyaTeneM roput. Korna ocBe山eHne aBTOMaTNueCKN BKNIO4aeTCA,PAAOMCnepeKilioyaTeneM OCBeLeHNA ropnT Taxxe E0 NCNMBOn
 
 ### BxnioyeHne OCBeWeHNAAIAABNKEHNA BOBPeMA AOXAA
-`skoda_octavia_en_062e7a25` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn nepeknouarenb ycTaHOBnIeH 8non0- xeHne AUTO, W cyHKLNA aBTOMaTNyeckoro BK1o4eHNg CTeKIOOYNCTNTenR 80 Bpemg A0- KA，nN pa6oTa CTeKNOOUNCTNTen8 (B nOnOKeN 2 wnn 3） npononxaetcn 6onee 30 ceKyHA,TOra6apNTHbleorHn6nnXHcBeTaBTOMaTNyeCKN BKIoyaloTCA. OcBemeHne BblKnioyaeTcs,KOrAa yHKunA aBTOMaTnyeckoro BKlioyeHNs CTeKnoonctnTeg WN creKn0- OYNCTNTenN （B nonoxeHNN 2 nnN 3) He pa6otaT B TeyeHne npnMepHo 4eTbipex MNHyT. yHKUNIOaBTOMaTN4eCKOrO BKJIOUeHNA OCBe山HN BOBPeMAAOXAA MOXHO aKTNBNPOBaTb WNAeaKTNBNpOBaTb BCHCTeMe Infotainment.
 
 ### AAanTHBHbieapbI (AFS)
-`skoda_octavia_en_e9303431` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CncTema aAanTNBHOro OCBemeHNA AFS pa6oTaeTBOB3aNMOAeNCTBNNC中yHKLNe aBTOMaTNyecKOro ynpabneHnA OCBeleHNeM AUTO, n09TOMy Heo6xoANMO Takke 03HaK0- MNTbCA co cneAylomen nHcopMaLnei.CncTeMa AFSo6ecneynBaeT BOANTenIo OcBeweHne AOPOrNB3aBNCNMOCTNOTyCnOBNA AOPOXHoro ABNKeHNA W noroAHbIX ycnoBni. CucTeMa aAanThpyeT copMy CBeTOBOrO koHyca cap nepena/M B 3aBNCMMOCTHOTCKOpOCTHa/M,pa60Tb1 CTeKAOOUNCTNTenen nPOTNBOTYMaHHbIX cap, aTaKkeAaHHbIX HaBNraLNOHHON CNCTeMbl Infotainment. CucteMa AFS pa6oraeT
 
 ### 3aropoAHblnpexNM
-`skoda_octavia_en_5dd84ec1` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Φopma CBeTOBOrO KOHyca cap nepeA a/M 6nn3ka K 中opme KoHyca 6nuXHero CBeTa. 3ToT peKNM aKTNBNpyeTCA, ecnn He aKTNBNpoBaHblCneAyioune pexnMbl.
 
 ### FopoAckonpexnM
-`skoda_octavia_en_3e47d63a` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TOnbK0 npu BbInonHeHNN cneAyiomero ycnoBN: nepeKnouaTenb OcBeLeHnA HaxoANTCA B NonokeHnn AUTO. CNCTeMa AFS pa6oTaeT B cnenyiownxpexnmax.
 
 CBeTOBon KOHyC nepeA a/M ananTnpoBaH TaK, 4T06bl 0H 3axBaTbiBan coceAHne TpoTyapbl,nepekpeck,wexoAHbleexobn. A.9TOT pexNM aKTNBeH nPN CKOPOCTN ABN>KeHW15-50KM/4,
 
 ### PeKNMaBTOMarNcTpan
-`skoda_octavia_en_1f734f84` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CBeTOBOn koHyc中ap nepena/MaAantupoBaH raKNM o6pa30M, 4T0 80ANTenb MOKeT CBOeBpeMeHHO pearnpoBaTb Ha npengTcrBne WnN Apyrylo onacHocTb. PexNM aKTNBeH Ha CKOPOCTN Bblue 110 KM/4.
 
 ### PeXNM AOXAA
-`skoda_octavia_en_992d72f8` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CBeTOBOn KoHyc中ap nepena/M aganTnpoBaHTaKNMO6pa3OM,4TO BO BpeM AOXAACHNxaetcA CTeneHb ocnennehnn BOANTenen BCTpe4HbIX a/M. 9r0T pexnM aKTNBNpyeTCA npN CKopocTn 50-90 K/4,ecn CTeKnooCWTenn npopa6otann B HenpepbIBHOM pexnme CBbiWe2MNHyT.PeXNMBbiKnIo4aeTCg, korAa CTeKnOO4NCTNTenN He pa6oTaioT Aonbwe BOCbMNMNHYT.
 
 ### PeXNMTyMaH
-`skoda_octavia_en_84637084` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CBeTOBon KoHyc cap nepen a/M aAanTnpyeTCA TaKHM O6pa3OM, 4TO BOANTenb He ocnengeTcA OTpaxaouNMcA 0T TyMaHa CBeTOM 中ap. 9ToT pexnM aKTNBNpyeTcA npn CKopoCTN 15-70 KM/4N ecnn3aqHnn NPOTNBOTYMaHHbln中oHapb BKnioueH Aonble 10 cekyHA.PeXKNMBbIKnIo4aeTCA, Korna3aqH npOTNBOTyMaHHbin oHapb OTKIoyeH AonbWe 5 ceKyHA.
 
 ### AHHaMnyeckoeaAanTHBHoe ocBeleHne
-`skoda_octavia_en_933b1fcf` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CseToBOn KoHycap nepen a/M anantupyeTCs TakNM 06pa30M, 4T0 ocBe山aeTcy npoe3- KaA yacTb B.o6nacTh noBopora. 3ra 中yHKLA aKTNBHa Ha CKOpOCTAX BbIwe 10 KM/4,a Takxe BO BCex peXNMax CHCTeMbI AFS.
 
 BHNMAHNE! B cnyuae HeNcnpaBHOCTH CNCreMbr ananTnBHoro OcBeueHnA AFSapbIaBTOMaTH4ecKH yCTaHaBINBaIOTCA B asapnHoe nonoxeHne, npeAoTapamaiomee ocnennehne BOANTenen BCTpeyHoro TpaHcnopTa. BcneAcTBne 3T0ro AalbHOCTbpacnpocTpaHeHnA cBeToBoro KOHycaapnepena/MyMeHbmaeTcx. no3T0My npoAonkanreABn xeHne OCTOPOXHO N.He3aMeATenbHo o6parnTecb Ha CTO.fpnBbi6ope pexna ABxeHn 3ko CHCTeMa AFS OTKOUaeTCs.
 
 ### AcCHcTeHTAanbHerOCBeTa PblyarynpaBneHHA
-`skoda_octavia_en_369f79e6` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/1b54e345987761f08807074e319a25ed1a31c27aa435097a0d713eee6332ca84.jpg)
 
 AcCNCTeHT AanbHero CBeTa aBTOMarnyeCKN BKnio4aeT N BblKnoyaeT AanbHnN CBeT B 3aBnCNMOCTN OTycnOBNN Okpykaio山en cpeAbl. AanbHnn CBeT perynnpyeTca Ha OCH0Be QaHHbIx,perncTpnpyeMbix KaMepon,pacnonoxeHHON Mexpy BeTp0BbIM CTeKIOM W BHyTpeHHNM 3epkanoM 3aqHero BAa. DyHKLNI0 accNcreHTa ynpaBnehng AanbHNM CBeTOM MOKHO BKni04NTb N OTKIO4NTb B CNCTeMe Infotainment.AanbHnn CBeT MoxeT BKouaTb· CRaBTOMaTN4eCKN Ha CKopOCTN BbIUe 6O KM/4. OH ABTOMaTNYeCKNOTKnIOUaeTCA, korAa CKOpOCTb CTaHOBNTCg MeHbWe 30 KM/4.KorAaacCNCTeHT aBTOMaTNyecKN BK104aeT nanbHn CBeT, B KOM6NHauNN npn6opoB 3aropaeTCA KOHTp. namna
 
 ### AKTHBHPOBaHNe
-`skoda_octavia_en_9a0a8fd0` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NoBepHnTe nepeknioyaTenb OCBemeHNA B nonokeHne AUTO. TepeBeANTe pbluar B 10- JokeHne A (noAnpyXNHeHHOe nonokeHne). Ha ANcnnee KOMoNHauNN npnoopOB 1OSBAR1TC9 KOHTp. nNKTorpaMMa BKN104eHHoro aCCNCTeHTa AaIbHerO CBeTa.
 
 ### AeaKTHBnpoBaHne
-`skoda_octavia_en_0454f2df` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecn AanbHNn CBeTyXe BKnIoyeH aBTOMaTn4ecKN, nepeaennte pbiuar noApyneBoro nepekloyateng 8nooxeHne B (noAnpyKNHeHHoe nonokeHne). Ecnn AanbHnn CBeT eue He BKJII04eH aBTOMaTNyeCKN, ycTaHoBnre pbluar noApyneBoronepeKloyateng BnonoxeHneA nanbHNn CBeT BKnIoUNTCA), a 3areM B nonoxeHne B. EcnN Heo6xoqNMO CHOBa BKI04NTb accNCTeHTa, ycTaHOBnTe pbluar noApyneboro nepeknioyateng BnonokeHne A. AccNCTeHTa MOKH0 Takke OTKnIO4NTb, noBepHyB nepeKloyarenb OCBemeHNA N3 NonokeHnn AUTO Bnoboe Apyroe nonoxeHne.
 
 ### BKnioyeHneAanbHeroCBeTaBpy4Hyio
-`skoda_octavia_en_3bf676fb` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnnAanbHNCBeT He BKoyeHaBTOMaTNyeckn, ero MOXKH0 BKI04NTb Bpy4HyI0 ycTaHOBNTe pbiyarnoApyneBoro nepeknlouaTengB nonoxeHne A. ACCNCTeHTBbIKIoyaeTCH,KOHTp.nNKTorpaMMa racHeT.
 
 ### BbiKnioyeHneAasbHeroCBeTa Bpy4Hylo
-`skoda_octavia_en_ea87ebb8` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 EcnN AanbHNNi CBeT BKnIOyeH aBTOMaTnyeCKN,erO MOKHO OTKIOYNTb Bpy4HyI0 ycTaHOBNTe pbl4ar noApyneboro nepekliouaTenA 8 nonokeHne B. ACCNCTeHTBbIKnOyaeTCA, KOHTp. NHKTorpaMMa racHeT.
 
 ### NpeAynpexAaiomee coo6meHne
-`skoda_octavia_en_348706e8` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CoobmeHnA Nyka3aHnOToopaxaIoTCAHa Ancnnee KOMONHaLNN npnoopob: “M C6on B pa6ore acc-ra ynpabn. AanbHNM CBeTOM. “S” HAPy山EHNE PA6OTbI ACCNC-TA AA. CBETA.
 
@@ -1663,7 +1477,6 @@ poTNBOTyMaHHbleapbl nepeknioyatenb OcBemeHNA
 ![](images/7b8f011057c9c610b03ee274055273def89ba6ffaa06bb2855000ac747f5cf05.jpg)
 
 ### BKnoyeHne/BbiKnio4eHne
-`skoda_octavia_en_e03a1d6e` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 no8epHNte nepekslioyaTenb DcBemeHns 8 nonokeHne AUTO,
 
@@ -1672,7 +1485,6 @@ W
 ycTaHoBNTei nepeKlioyaTenb OcBe山eHNAB nonoxeHne 1. BbIKnoyaIoTCA NpOTNBOTYMaHHble 中apbl B o6paTHon nocneAOBaTenbHOCTN. npu BKnIoyeHHbIX nPOTNBOTyMaHHbIX capax 8 KOM6NHauNN npn6opoB ropnT KOHTp. namna
 
 ### pOTNBOTyMaHHbieapblc yHKunen CORNER
-`skoda_octavia_en_67494b4f` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 DyHKuNa CORNER NCnonb3yeT npoTHB0- TyMaHHble 中apbl AA nyywero OcBeleHng npoctpaHcTBa C COOTBeTCTByIO山en CT0p0Hbl a/M npN noBopore, napkoBke NT.n. yHKLnA CORNER BKnIo4aeTCA aBTOMaTN4eCKN npm BblnONHeHNN CneAyIOMNX yCnOB: BKI04eHbl yka3aren roBopoTa W nepeAHne koneca CNAbHO nOBepHyTbIBnpaBO NnN BneBo （1):ABNratenb pa6oTaeT;a/M CTONT Ha MeCTe NNN ABNKeTCA CO CKOPOCTbho He 6onee 40km/4;6nxH CBeT BKnloyeH NIN nepeKloyaTenb 0c80- 山eHA yCTaHOBneH B nonoxeHne AUTO N BKIOYeH 6nNKHNi CBeT;AHeBHON pexNM ocBemeHnA BblK04eH; nPOTNBOTyMaHHble capbl BblKnioyeHbl.
 
@@ -1687,7 +1499,6 @@ TpnMeaHe:pn BnoyeHnn nepenaun3aHerxOAaBKnouaoTcAo6enpOTBoTyMaHHbieapbl.
 3aAHNNnpOTHBOTyMaHHbInOHapb
 
 ### BKnoyeHne/BbIKnioueHne
-`skoda_octavia_en_8993c4c3` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NoBepHwte nepeknoyaTenib DcBemeHnn B nonoxeHNe AUTO,NnN
 
@@ -1700,17 +1511,14 @@ YcTaHOBWTe nepeKJiloyarenb ocBeueHNg 8 nonokeHne 2. BblKnlo4aeTcA 3aAHNN npoThBO
 Ecn a/m 06opyA0BaH TArOBO-CUenHbIMyCTpONCTBOM B 3aB0AckoN KOMnneKTaLNN NnNA006opyAoBaH TArOB0-CuenHbIM yCTpoNCTBOM3 accopTNMeHTa SKODA, T0 B0 8peM8 ABN-KeHNA C npnuenoM BKloyaeTCA TOJbk0 3a-HN npOTHBOTyMaHHbln 中OHapb npuuena.
 
 ### COMING HOME/LEAVINGHOME
-`skoda_octavia_en_c728da03` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 @yHKy9 COMING HOME/LEAVING HOME (Aanee KOpOTKO: cyHKLNs) o6ecneynBaeTaBTOMaTNyecKOeBKnIOyeHNeOCBe山eHNA Ha HenpogonKntenbHoe Bpemg B ycnOBNAX noxon BNANMOCTN, nocne BbIxoAa 3 a/M N NPn npnonnkeHn K HeMy. yHKLNA BKno4aeTCA aBTOMaTNueCKN npn Hannynn cneAyio山hx ycnoBnn:nepeknoyaTenlb ocBeleHng HaXOANTCA BnonokeHnN AUTO; BNANMOCTb B0- kpyr a/M nnoxan; 3axnraHwe BKlioyeHO. 9ry 中yHKuKION HaCTponKy ANNTenbHOCTNPaOoTbi ocBe山eHns MOXH0 aKTNBNpOBaTb Wn AeakTHBHpOBaTb B CNCTeMe Infotainment. OcBemeHne perynNpyeTca HaoCHoBe qaHHbIx,perncrpNpyeMbIX AaT4NKOM, pacnonoxeHHbIM MexAyBeTpOBbIMCTeKnOM W BHyTpeHHNM3epkanOM 3aAHerO BNAa. BKnoyaIOTCA ra6apnTHble OrHNN 6nNKHnn cBeT,coHapn oCBeueHnA noporoB BHapyKHbix3epkanaxN rioAcBeTka HOMepHoro 3Haka,
 
 ### COMINGHOME
-`skoda_octavia_en_999e4354` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OcsemeHne BKnoyaercA aBTOMaTNueCKN np OTKPbIBaHNN ABepN BOANTenA. OcBemeHheracHeT nocne 3akpbiBaHNR BCexABepenN 6araxHnka no NCTeyeHNN HaCTpoeHHoro BpeMeHN 3aAepxkn. EcnN OAHa N3 ABepen WN KpbI山ka 6araxHNka OCTaIOTCA OTKpbITbIMN, OCBeleHNeracHeT 4epe3 60 cekyHA.
 
 ### LEAVING HOME
-`skoda_octavia_en_96e3c96b` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OcBeueHne BKnloyaeTCA aBTOMaTNyecKNnpN OTnNPaHNN a/M C nOM0WbIO ANCTaHLNOH-Horo yrpaBneHn8. OcBeueHne BbiKnoyaeTcs
 
@@ -1723,12 +1531,10 @@ ABapNHHas CBeTOBag CBeTOBagCNrHann3aUNA KnaBnwa aBapnnHoNcBeToBon cnrHann3a4Hn.
 2 震
 
 ### HaKMnTe KnaBNly
-`skoda_octavia_en_1c8082e7` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 pN BKnOUeHNN aBapNHON CBeTOBON CArHanN3auNN Ha4nHaloT MNraTb Bce yka3aTen noBopoTa. Takxe Ha4NHaeT MuraTb KOHTp. naMna yka3aTenen noBoporaN KoHTp.naMna B KnaBnwe.ABapnniHaa cBeToBagCHrHann3aLNs MOXeT 6bITb BKnlo4eHa N npn BbIKIOueHHOM 3aKNraHAN. IpN cpa6aTbiBaHN noAywKN 6e3onacHocTN aBapnniHag CBeTOBaR CNrHann3aUN8BKnIOUaeTCsaBTOMaTNyecKN Ecn npn BKnoyeHHonaBapnNHON CurHann3ann N npn BKIO4eHHOM 3axnraHnN BKnIo4NTb yka3aTeb noBopoTa, TO OH 6yAeT pa6OTaTb ronbko C COOTBeTCTByiOueni CTopOHbla/M.
 
 ### BKToyeHNeCTOAHO4HbIXorHen
-`skoda_octavia_en_c8f30a35` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbIKno4NTe 3axhraHne. NepebeANTe noApyneBon nepekioyatenb B nonokeHne A wn B Ao ynopa-ra6aPNTHble OrHN Ha npabon wnN neBon CTopOHe a/m BKnIoyaTCA.
 
@@ -1742,7 +1548,6 @@ TepeAHNn nnaoHocBemeHnA canoha nepeknoyarenb nepeAHero OcBeleHnA canoHa -2 Bapna
 ![](images/6983ff3110188c24120fc9be5673d8448b7077c2dc6486a8058929cf88831fa0.jpg)
 
 ### onoxeHnAnepeknioyarena
-`skoda_octavia_en_39a046ca` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BKI04NTb BblKA04NTb
 
@@ -1765,7 +1570,6 @@ OTKpbIBaeTcR oAHa N3ABepe NnN 6araXHbli OTCeK,Koy 3aKNraHNg BbIHNMaeTCA 3 3aMka.
 pwe4aHne:EcnNnaoH ocBeueH canoHa OCTaeTCABKno4eHHbIMnpNBblKnIo4eHHOM3aXraHH, M KorAaOTkpbiTa OAHa N3ABepen nnacon BbiKnoyaercgnpnmepHo uepe3 10 MHHyT. B nepeAH nnacon OcBeweHnA canoHa BCTpoeHbl 2 C8eTHbHNkapaccexHHoro CBeTaAnAnoACBeTkNPbiyaranepeknouehHAnepegay W CpeAHen yacTHnepeAHennaHenn OHNBKnouaIOTCRaBTOMaTHueckn npn BKTIO4eHHN ra6apnTHbixoHapen. OAHOBpeMeHHO, nocneBnoueHg3aXraHg （npn BnioueHHbxra6apWTHbIX orHgx) BKio4aeTCA noAcBeTka py4KI ABepH.
 
 ### 3aAHunnaoHocBemeHnacanoHa
-`skoda_octavia_en_93615578` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Tonbko A a/m 6e3naHopaMHoro CABNKHoro noka.
 
@@ -1782,14 +1586,12 @@ HaxMnTe K/aBnwy.. BKnioyeHne/BbiKnoueHne poHapen AA YTeHNg
 HaxMnTe KnaBuuy WAN
 
 ### 3aAHNnnaoHocBemeHng cantoha
-`skoda_octavia_en_9da13fb4` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Tosbk0 An9a/MCnaHopaMHbIMCABNKHbIM 几OKOM.
 
 ![](images/_MISSING_82ad553e018a14e78da5b25479e59ac1f84c4ab0a45a67ae987423f757eb9f6c.webp)
 
 ### 3aAHnnnnacoHocBe山eHNA caoha
-`skoda_octavia_en_fd0d5067` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/c5e2dbdfc9489390dfbc63ab7d126a9c10a5f8a530ed3f08f3727afde663ef75.jpg)
 
@@ -1812,12 +1614,10 @@ CnrHanbHan namna HaxogNTcA 8 HNKHen ： 4aCTN 06nN40BKN ABepn.Jamna BKnIo4aeTCA 
 npnmeyahne: Ecnu ABepb OTKpbIra, a 3axnraHe BbIKloueHo, namna racHer aBTOMaTnyecKH npnMepeHo4epe3 10 MWHyT.
 
 ### NoACBeTkanpocTpaHcTBa B6nn3hnopora ABepn
-`skoda_octavia_en_7e85b4c1` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NnacoH ocBe山eHng nopora HaxoAuTcA Ha HNKHen cTopoHe HapyXHoro 3epkana3aqHero BnAaNocBeuaeT npocTpaHcTB0BO3ne nopora nepeAHen ABepN. ToncBeTka BKnouaeTCR n0- cne OTnNpaHNA a/m MnN npn OTKPbIBaHNN nepeqHen nBepn. NoAcBeTka BbIK/iouaeTcg npnMepHO uepe330 ceKyHA nocne 3akpbITnAABepen WnN npn BKO4eHNN 3aknraHng. Ecnn A8epb OTKpbITa, a 3axnraHne BbIKIoyeHO, naMnaracHeT aBTOMaTnyecKN npNMepeHo uepe3 10 MHHyT.
 
 ### 06orpeB BeTpoBoro N 3aAHero CTeKOn/K03bIpbKN
-`skoda_octavia_en_310e0259` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KnaBnWN o6orpeBa BeTpoBoro N 3aAHero CTekon Climatronic/KnNMaTnyeckaa ycTaHoBKa C py4HbiM ynpaBneHnem, OTOnNTeJlb
 
@@ -1838,19 +1638,16 @@ ConHue3auNTHblnKo3bipek: cneba/cnpaba
 ConHLe3auNTHbIn K03bIpek Co CTopoHbl BOANTeng WnNnepeAHero naccaxnpa MOKHO N3BneybN3KpenneHNg NNOBepHyTbKABepN B HanpaBneHNNCTpenkn 1.B kaxAOM ConHue3a山NTHOMKO3bIpbKe HaXOANTCA KOCMeTnyecKoe 3epkano A C Kpbluxon. CABNHbTe KpbIWKy B HanpaBneHNnCTpenkn 2. Aepxatenb Ang 6yMarB cnyxknTAns 3axpenneHnA nerknx npenMeTOB,HanpNMep, ANCTka C 3aMeTKaMNNT.n.
 
 ### ConHue3aunTHag WTopka
-`skoda_octavia_en_45e3063c` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/3540d875f9c53082e90b1b569dbcfabedd8480456e69110759d9b2c8becbd633.jpg)
 
 ConHue3aunTHag WTopxa BbITArNBaeTCA W3 kopnyca, pacnonoxeHHoro Ha nonke 6araxHuka.
 
 ### CMaTbiBaHHe
-`skoda_octavia_en_08030c5d` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 N3BneknTe WTopky N3 Aepkarenen A W npNAepxwBanreee 3apyukyBrax,4ToUblOHa MeAneHHO 1 6e3noBpexAeHnn CBepHynacb B kopnyc B 06nnLoBke 6araxHnka.
 
 ### CTeKooyNCTNTenN 1 CTeKnooMbIBaTenn
-`skoda_octavia_en_bd92503d` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pa6oTaloT TOnbKonPN BKnIO4eHHOM 32XNramhw N 3aKpbITOM kanoTe. TpN BKnIOYeHHOM npepbIBNCTOM pexuMe CTeKoo4NCTNTenen HHTepBan ABNKeHNA CTeKoo4NCTNTenen W3- MeHAeTCAB 3aBNCNMOCTNOTCKOPOCTNABNKeHA pn pa6ore 8 aBTOMaTNyecKOMpexNMe 04NCTKN BO BPeM OA NHTepBanbicpaoaTblBaHNA CTeKiooyncTnTens perynNpyIoTcH B 3aBNCNMOCTNOT NHTEHCNBHOCTNAOKAA. Ecn npN BKioueHnNnepeAauN 3aAHero xoAa cTeknOo4NCTNTenb BeTpoBoro ctekna BKn04eH, CTeKAOOYNCTNTeb 3aAHerO CTeKna aBTOMaTWyeckN BbinonHgeT OANH LNKI 044CTKN. yHKLNIO aBTOMaTwyecKoN OUNCTKN 3aAHerO CTeKJaBOBpeMnAOKAAMOXKHOaKTNBNpOBaTb NnN AeaKTNBNPOBaTb B CHCTeMe Infotainment.
 
@@ -1861,7 +1658,6 @@ Ha BeTpOBoe CTekno 山eTkablTaeTcA ero yAannTb. HocnenTn nonbTok yAaneHN npenTcT
 pweyaHne:focneKaxgoroTpeTberoBbIKio 4eHA 3aknraHg NCXOAHoe nonoxehne NOBOAKOB nepeAhero CTEUIOOYNCTHTenA MeHReTCA. 3ro npeATCTByernpexAeBpemeHHonyoranocrnMarepnanape3nHoK WeTOKCTeKnOOUNCTNTenA OuHCTHTenb 3aqHero CTekna pa6oraer TOnbKO npn 3akpbITon KpbItuke 6araxHhka. Conepxnte 山eTkN creK/oO4nCTHrenena yNcrote. Ha HHX MOryrOcTaBaTbcA 4acTnubI3arpA3HeHA. HanpnMep,nocneaBToMaTH 4eckon MONiKH. Ecn remnepaTypa okpyxaioero BO3Ayxa Hxe+10C,TohpnBKno4eHHOMABnrarene nponcxoAnT 06orpes KNKnepoB CTOKIOOMbIBaTeng.
 
 ### NonokehnanoApyneBoro nepekniouaTeng
-`skoda_octavia_en_5cadd492` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 0. CTeKnOOUNCTNTenN BbIKAioueHbl
 
@@ -1881,43 +1677,36 @@ pweyaHne:focneKaxgoroTpeTberoBbIKio 4eHA 3aknraHg NCXOAHoe nonoxehne NOBOAKOB ne
 A.PerynsTop HaCTpoWikN WHTepBana MexAy OTAenbHbIMN nKnaMn o4NCTKN（1 npepblBNCTbIN pexhM 04NCTKN BeTpoBoro CTekna) NnN CKopocTN OUNCTKN BO BpeMAAOXA （1 aBTOMaTnueckaAOuNCTKa BeTpoBoro CTeKna B0 BPeM AOXAA)
 
 ### ABTOMaTNUeCKaA O4NCTKa BeTpOBOrO CTekna BO BPeMg AOAA
-`skoda_octavia_en_b8d2a7e4` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OyHKuuI0 aBTOMaTNuecKOn 04NCTKN BeTpoboro CTexna B0 BPeMAAOKAA MOKHO aKTN
 
 BNpOBaTb WNN AeaKTNBNpOBaTb B CNCTeMe Infotainment.
 
 ### yHKUHACOBMeCTHOn aBTOMaTH4eCKON pa6oTbi CTeKnOO4NCTHTenA NCTeKnOOMblBaTeng BeTpOBOro CTeKa
-`skoda_octavia_en_57c0a43c` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CreKnoOMbiBarenb cpa6aTblBaeT nepBbIM, CTeKnooyNcTNTenNBKnIoyaIoTcgC He6onb山oN 3aAepKkon. pn ABWKeHWN Ha CKOpoCTN 60- nee120 KM/4 CTeKnOOMbiBaTenb NCTeKnoo4NCTWTenbpa6OTaIOTOAHOBpeMeHHO Nocne ornyckaHN9 nepekniouarensCTeknooMblBaTenb nepecTaHer nogaBaTb XNAKOCTb, CTeKS1004NCTNTenb BblnOnHNT eme 2-3 uNKna 04NCTKN B 3aBNCNMOCTN OT AnNTenbHOCTN npenwecTByiouen pa60Tbl OMbIBaTens). pN cKopocTN CBblue 2 KM/u CTeknoouNCTnTenb AenaeT eme OANHB3Max uepe35cekyHAnocnenocnenHero B3Maxa, yro6bl yAanNtb nocneAHne kannN C0 CTekna. Ipn KenaHnN 3Ty cyHKuuIo M0xXH0 BKS104NTb WnNOTKO4NTb Ha CTO.
 
 ### yHKUNACOBMeCTHOIaBTOMaTHueCKOn pa6oTbICTeKnIoo4NCTNTenA NCTeKnoOMbiBatens 3aAHero CTekia
-`skoda_octavia_en_4d05f76c` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CTeKsoOMblBaTenb Cpa6aTbiBaeT nepBbiM, CTeKnoOUNCTNTenb BKnio4aeTCA C Hebonb山on 3anepxkon. nocne OTnyCKaHNA nepeknioyaTeng, CTeKnOOMbIBaTenb nepecTaHeT nogaBaTb KNAKOCTb, CTeKNOO4NCTNTenb BblnoNHNT eme 2-3 ynKna 04NCTKN (B 3aBNCNMOCTN OT ANTenbHOCTN npeAmeCTByio山en pa6oTbi OMbiBaTens). nonpyneson nepeknioyaTenb OCTaeTCA B nonokeH 6.
 
 ### yHKUNg aBTOMaTHuecKon O4NCTKN 3aA Hero CTekna BO BPeMA AOAg (Combi)
-`skoda_octavia_en_9de541dd` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnw nepeknoyaTenb CTeKnOOUNCThTenA HaxOANTCA B nonokeHnn 2 wm 3, To npN Ck0- poCTN Bbiwe 5KM/yKaxAble 30 NNN 10 cekyHA BbinoNHAeTCA UNKNOUNCTKN 3aAHerO CTeKna. pu BKlioyeHHOn aBTOMaTNyecKOn 04NCTke BerpOBoro CTeKna BO BpeMn AokAg (noApyne BON nepeknioyaTenb B nonokeHNN 1 9ra 中yHKuNg aKTNBHa Tonbko npn pa6ote O4NCTWTeng BeTpo8oro cTeKsia 8 NOCTOSHHOM pexxnMe (6e3nepepbIBOB MeXAy LNKnaMNOUNCTKN). yHKuNi0 aBTOMaTNyeckoN 04NCTKN 3aAHero Crekia B0 Bpemg 00XA9 MOXH0 aKTNBNpoBaTb Wn AeaKTNBNpOBaTb B CNCTeMe Infotainment.
 
 ### 3nMHee nonoxehne CTeKIOO4NCTNTenen BerpOBoro CTeKna
-`skoda_octavia_en_0e5ce1dd` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnin CTexnoouNCTNTenn HaxoANrCA B NCXOAHOM nOnOKeHNN, NX HeB03MO)KHO OTBECTN OT BeTpoBoro cTeKna. o3ToMy Mbl pekoMeHAyeM B 3NMHee BpeMA yCTaHaBnNBaTb CTeKnOO4NCTNTenN B Takoe nonoxeHne, 4T06bI WX nerko MOKHO 6b1no OTBeCTN 0T BeTpoBoro CTeKna. BKnIoynTe CTeKnOOyNCTNTenb. BblKIo4NTe 3axnraHne. CTeKnoOUNCTNTenN 00- TaHyTCA B NONOKeHNN,B KOTOPOM OHN HaXOANJINCbnPN BbIKnlo4eHNN 3aXNraHNA. B ka4ect8e 3NMHero NonokeHng Bbl MoxeTe Takke ncnOnb30BaTb cepBnCHoe nonoxeHne CTeKnoo4nCTNTenen.
 
 TpnMeuaHie:Ecnn CTeknooNcTnennpaboraIOTBMeAneNHOMN6bICTpOMpeXiMeNCKOPOCTb a/M CTaHOBNTCA HNxKe 4 KM/4, CTOKOO4NCTHTenN aBTOMaTnueckHnepeKiiouaioTcA Ha 6oee HN3Kyi0 CKOpOCTb pa6oTbl, NepBoHauanbHble HacTpoikn no oranHo BOCCTaHaBnNBaIOTCA, korAa CKOpOCTb a/m npeBbICNT8KM/4
 
 ### OMbiBaTeb 中ap
-`skoda_octavia_en_7eca77b0` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OMbiBaTenb ap nocne BKJIO4eHNA 3axraHg Bcerna BKnioyaeTcA nocne nepBoro N nocne kaxqoro AecgToro BKnoyeHN9OMbIBaTen9 BeTpoBoro CTeKna, korAa BKnIO4eH 6nKHu ceeT. Npu kaxqOM unkne 04NCTKN nPoNCxoANT AByKpaTHoe OMblBaHne Φap. He06x0ANM0 perynapHo, HanpnMep, nocne KaxAon 3anpaBku,yAanaTb CpacceuBaTenen ap 3acoxmyi0 rpA3b. 4ro6bi o6ecne4nTb HopMaJbHylopa6oTyOMbIBaTengB3NMHee BpeMA, o4nmaniTe onopbl XnKnepoB OT cHera yAansnte neACnoMoubio cneunanbHoro cnpes.
 
 OCTOPOXHO! Hnxorna He BbITArnBanre XuKnepblOMbiBarenaap BpyuHyio B03M0XH0 HX noBpexAeHne! Cucrema 04HCTKN cap pa6oraer pn HapyKHonTemepaTypeOT-12Co+39C.
 
 ### 3epkana 3aqHero BnAa
-`skoda_octavia_en_a6bfd9d3` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BHNMAHNE! 3epkana C aBTOMaTnyecKNM 3aTeMHeHNeM (3neKTpoxpoMHble3epkana) conepxaT KAKN SnekTponnT, KOTOpbin npn noBpexAeHnN 3epkana MOKOT Bb/Te4b, BbIrekWNN JnektPOnNT MOKeTBbl3BaTb pa3ApaxeHNeKOXN. rna3 M opraHOBAbIxaHN8.
 
@@ -1930,12 +1719,10 @@ BHyTpeHHee3epkano 3aAHeroBnAa c py4 HonycTaHoBkonpexNMa3aTeMHeHNg
 ![](images/72f9aa79438ea6574bd47d928e97bc04e2499ac3750a80e647e0c450ee5b9fba.jpg)
 
 ### BHyTpeHHee 3epkano 3aAHero BNAa C py4 HonycraHoBkonpeXNMa3aTeMHeHNR
-`skoda_octavia_en_faab57f6` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ang 3aTeMHeHNA 3epkana nepemecTnte pblyaxok CHI3y Ha 3epkane no HanpaBneHnio K BeTpOBOMy CTeKny cTpenka A.An9 B03Bpa山eHnA NCXOAHbIX HaCTpoeK nepeABNHbTe pbl4axOK CHN3y Ha 3epkane 8 HanpaBneHNN OT BeTPOBOrO CTeKia Crpenka B.
 
 ### 3epkanoCaBTOMaTHuecKNM 3aTeMHeHHeM
-`skoda_octavia_en_0e662a3f` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 4To6blaKTNBNpOBaTb aBTOMaTNyeCkoe 3a TeMHeHne, HaXMNTe KnaBNWy D. KoHTponbHasnaMnaC 3aropaeTcR. 4ro6blAeaKTHBNpoBaTbaBTOMaTwueCKOe3aTeMHeHne,HaKMNTe KnaBN山y D eme pa3. KoHTpobHaa namfa C racHer. Ecn aBTOMaTN4eCKOe 3aTeMHeHNe BKIo4eHo,3epKanOaBTOMaTNuecKn 3aTeMHgeTCA_NPN nonaAaHNN Ha Hero ny4acBeTa c3aAn. flpn BKJIioyeHNN BHyTpncanOHHoro OcBeWeHHA NNnPNBKAoYeHNN nepena4n 3aAHero xoqa 3epkano B038pamaeTcs B OCHOBHOe (He3aTeMHeHHoe COCTORHNe). He 3akpenngnite BHeWHne HaBNraunoHHbte npn6opbl Ha BetpoBOMCTeKne W B6nn3NcanoHHoro3epkanacaBTOMaTNyeCKNM 3aTeMHeHNeM.
 
@@ -1954,32 +1741,26 @@ O6orpeB 3epkan
 CxnaAblBaHne HapyXHbix 3epkan
 
 ### CHHXpoHHagperynupoBka 06onx3epkan
-`skoda_octavia_en_93174af6` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 locne nepeboAa perynatopa B nonokeHNeL MOKHo perynpoBaTb nonoxeHne o6onx 3epkan OAHOBPeMeHHO. CHHXpOHHyIo perynNpoBky 06oNx 3epkan MOKHO aKTNBNpOBaTb WA AeaKTNBNpoBaTb 8CNCTeMe Infotainment.
 
 ### CknaAbiBaHne o6onx HapyxHblx3epkan C noMomblo noBopoTHoroperynaTopa
-`skoda_octavia_en_ceb64c48` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CknagblBaHne 060nX HapyXHbIX 3epkan B03M0KH0 Tonbko npN BbIKIO4eHHOM 3axraHNN, a Takke rpN cKopoCTN AO 50 xM/4.3epKana packnaqbiBaIoTcA B pa6oyee noslokeHwe, nocne yero peryngTop cneAyeT noBepHyTb W3 noJokeHnn B noboe Apyroe.
 
 ### ABTOMaTH4eckoe cKnaAbiBaHne/packnaAbiBaHne 06onXHapyXHbix 3epxan
-`skoda_octavia_en_05f373fd` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nocne 3annpaHNs a/M HapyxkHble 3epkana aBTOMaTN4eCKN CKaAbiBaIOTCR B napk0804 Hoe nonokeHne. Nlocne OTnNPaHNA a/M HapyKHble 3epkana a8TOMaTNueCKN packnaAblBaIoTcA B pa6o4ee nonokeHne yHKLMI0 a8- TOMaTnyeckoro CKnaAbiBaHNa/pacKnanbiBaHA HapyXHbIX 3epkan MOKHO aKTNBNpOBaTb NNAeaKTNBNpOBaTb 8 CNcTeMe Infotainment.
 
 ### CKnaAbiBaHne3epkana co CTOPOHbI nepeAHeronaccaxupa
-`skoda_octavia_en_49529490` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B a/M C yHkunen 3anoMHaHnA nonokeH BOANTenbckoro CNAeHbA 9T0 3epkano Cnerka HaKnOHAeTCA BHN3nPN BKioUeHNN nepena4n 3aAHero xoAa, KorAa perynsTop 3epKa HaxoANTCg B nonoKeHN R.3To no3Bonger BNqeTb Kpan 6opAopanpnnapkoBke.3epkanio B03Bpa山aeTcg B CBOe NCXOAHOe nonoxeHne nocne noBopora peryngTopa 13 nonoKHA R. yHKUNIo CKnaAbIBaHN 3epkana Co CTOpOHbI nepeAHero naccaxupa MOHo akThBWPOBaTb Wn AeaKTIBNpOBaTb B CNCTeMe Infotainment.
 
 ### 3anoMNHaHenonoxeHHAHapyXHbIX3epkan
-`skoda_octavia_en_4bbd9157` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B a/M C yHkunen 3anoMNHaHNA nonoxeH9 BOANTenbCKOro CNAeHbA WAN yHKunen naMATN Kno4a MOKHO coxpaHNTb HacTponkN nonokeHn8 HapyxKHbIX 3epkas npn coxpaheHNN B NAMATnNOnOkHNA CNAeHbA BOANTEnA.
 
 ### PerysNpoBka CNAeHNN
-`skoda_octavia_en_71ba97aa` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BHNMAHNE! 3nektpopery rynupoBka nepeqHux CHAeHnia6oraeTNnpnBbiKnloyeHHoM3aknraHn 8 TOM hcnenpn BbiHyToMKlioye 3aXuraHHa). no3TOMy HeoCTaBnanTeAeTeiBCanoHea/M6e3 npHCMO Tpa. Bo BpeM9 ABNkeHNg CnNHKN CHAeHNN He AOnKHbi 6b1Tb CANWKOM CHIbHO OTKnOHeHbi Ha3aA, rak kak 3T0 OTpnuarenbHo BNAer Ha 3pcekrnBHOCTbpa6oTbipeMHen NnoAywex 6e30nacHocTn! HukorAa He 6epntenaccaxnpoB 6o/bme, 4eMeCTb nocanoyHblx MecT. KaxAbl naccaxip AOnXeH npaannbHo HpHcTerHyTbCApOMHeM 6e30nacHocTN HaCBOeMCAeHbe,AeTNOnXHbI6bITbpHCTerHyTblCHCnonb30BaHem cnenanbhblx yAepKnBaioHx CHCreM. Ang MakchmanbHo 3pekTHBHon 3auTbInaccaxnpobnepeAHne CHAeHbANBCenOArOnOBHHKH AOnXHbI 6b/Tb oTperynnpobaHbl 8 COOTBeTCT8MN C pOCTOM CHggUN, apemHN 6e30nacHoCTNAOnKHbI6biTbBcerganpaBnibHonpnCTerHyTbl. HacuAehbenepeAhero naccaxnpa Henepeb03Hte HKaKHenAbxbieAn rpeAHa3HaueHbl(Hanpumep,AeTckoe cAeHbe). Cw AeHbeBoAntengperynnpyire TOnbkO B HenOABNK HOMa/M. BMexaHn3meperynupoBKH HakioHa CnNHK 4epe3 HexoTopoe BpeMg MOKeT nORBNTbCS nioΦr. B uengx 6e3onacHocTn, B naMATH nonoxeHCHAeHbBOnNTengHpaAHOKnoUa HeBO3MOKHO coxpaHNTb Takoe nonoxeHne CHAeHbA, npN KoTopom yron HakoHa CnAHKN OTHOCHTebHO nOAyUKN ChAeHbAnpeBbiuaer 102.fpnCoxpaHeHNN HOBOrO HonoKeHHCNAeHb8BoANTenAWHapyKHbIx3epkan npeAblAymeecoxpaHeHHoe nonoXeHneyAangeTcA.
 
@@ -1990,17 +1771,14 @@ PyuHaaperynnpoBkanepeAHnxChAeHnn
 A. PerynupoBka nPOAOnbHoro nonokeHnsCNAeHbsB. PerynnpoBka CWAeHb9 n BbiCOTe （1）C.PerynupoBka HaKoHa CNNHKI CHAeHbAD.PerynnpoBka nOACHNUHOrO noAnopa
 
 ### PerynnpoBka npogonbhoro nonokehng CHAeHbA
-`skoda_octavia_en_3a052e1d` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 noTsHnte pbluar A B HanpaBneHNN CTpenKNNCnBNHbTeCNAeHbeB HyKHOenOnoXeHNe. rocne OTnyCKaHN9 Pbi4ara CHneHbe AOnXHO 3acNkcnpoBaTbcA COT4TnNBbiM3ByKOM！
 
 ### PerysupoBka HaknoHa CnNHKN CHAeHbA
-`skoda_octavia_en_4ea214e6` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pa3rpy3NTe Cn4HKy CNneHbA (He npncnoHATeCb K Hen) NBpauaNiTe MaXOBNuOK CB HanpaBneHNNOAHON N3 cTpesok.
 
 ### PeryJKpoBKanoACHn4HoronoAnopa PerynnpoBka HaKnOHa CNNHKNCNAHbA
-`skoda_octavia_en_7793fd6b` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaxnManTepblyar D B HanpaBneHNN OAHO N3 CTpenok.
 
@@ -2019,14 +1797,12 @@ PerynupoBka CNHHKN CHAHbA/NOACHNAHOro noAnopa
 A.PerynNpoBkanOAyWKN CHAeHbR B.PerynnpOBKa HaKIOHa CnNHKN CNAeHbA C.PerynNpoBka noAcHn4Horo noAnopa
 
 ### PerynnpoBkaOAyWKNCNAeHbAnOBbICOTe
-`skoda_octavia_en_8755807c` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaxnMaiTe nepeknioyaTenb A B HanpaBneHNN OAHON N3 CTpenok 3.
 
 HaxnManite nepekniouatenb BB HanpabneHnn OAHON N3 CTpenok.
 
 ### yBennyeHne nnNyMeHbweHne BbinyknoCTNnONCHHUHOrO nOgnOa
-`skoda_octavia_en_3d02b4a1` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaknManTe nepexnoyaTenb C B 06nacTn OAHOW3CTpenOK5.OTperypoBaHHoenon KeHNe CNAeHbA BOANTenAMOXHOCOXPaHNTbB naM8TN nonokeHnn CNAeHbg WnN 8 naMATN pannoknioya.
 
@@ -2039,12 +1815,10 @@ noArONOBHNKN: cnepeAn/caaAn
 Hanyuuasg 3amnta o6ecneuBaercg, ecnBepxHnn Kpan nonronoBHNka HaxoQntcs Ha DAHON BbICOre C BepXHen Toukon ronoBbl.
 
 ### PerynupoBka BbiCOTbl
-`skoda_octavia_en_9e87d158` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B03bM4TeCb 3a NOArONOBHNK nepeAHero CHAeHbA 06eNMN pykaMN c6oKy, HaxMnTe N yAepKNBaniTe KHonky中NKcaTopa A n CABNHbre noAronOBHNK B Tpe6yeMoe nonoxeHne, Bo3bMWTeCb 3a nOArOnOBHNK 3anHero ChAeHbA 06e4M pykaMN c6oKy W BbITAHNTe ero BBepx. 4ro6blonyCTTb 3aAHN nOAronOBHNK, DAHONpykoni HaXMNteNyAepkNBanite HaxaToN KnaBnuynkcaTopa 1, a Apyron BAaBNTe BHN3 nonronoBHNK. Ang MaKcNManbHO 3c中eKTNBHON 3auuTbl naccaxnpoB noArono8- HNKNNNepeAHNe cuAeHbA AonKHbIGbITb oTperynnpo8aHbl B COOTBETCTBNN C POCTOM CNAAX, a peMHN 6e30nacHocTN AOnKHbl 6blTb BcerAa npaBnnbHo npNCTerHyTbl.
 
 ### CHATNe NycTaHoBka
-`skoda_octavia_en_1587091d` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHATb MOXH0 TonbKO noAronoBHNkN 3anHNX CNAeHNN.BbITAHNTe NOArONOBHNKN3CNNHK CNAeHbA Ao ynopa. HaxMNTe KHoriKy uKcaTopa B HanpaBneHNN CTpenkN 1, OAHOBpe
 
@@ -2061,22 +1835,18 @@ KnaBnwn naMATN M KnaBnwa SET
 yHKLINg naMATN NonokeHNA CNAeHbA BOANTennnpeAocTaBnReTBaM B03MOKHOCTb COxpaH9Tb WHANBnAyanbHble NonokHNn cngeHbA N HapyXHbIX 3epkan3aqHero BNqa. KaxAoNN3Tpex KiaBNWnaMTn B MOXHo npNcBONTb OAHO OTperynnpoBaHHoe nonokeHne CWAeHbA.
 
 ### CoxpaHeHne HacTpoeknonoXeHNA CNAeHbANHapyXHbIX 3epkanAAABNKeHNA BnepeA
-`skoda_octavia_en_ec59e054` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BKs1oynTe 3axwraHne. ycTaHoBnre cuneHbe B Heo6xoANMoe nonokeHne. OrperynnpyuiTeo6a HapyxHbix 3epkana 3aAHero BNqa. HaKMNTe KnaBNuy SET (A). B TeyeHne 10 ceKyHA nocne HaxaTng KnaBNuN SET HaKMNTe Heo6xogMyi0 KaB4wy naM8TN B. CoxpaheHwe HacTponKN B namaTN nOATBepxAaeTcA 3ByKOBbIMCNrHanOM.
 
 ### 3anoMNHaHHe NoNokeHnAHaPyKHOro 3epkana cOcTopoHbl nepeAHeronaccakW paAnAABNKeHNg 3aAHNMXOAOM
-`skoda_octavia_en_8e1424a1` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bknounre 3akuraHne. HaxMNTe HyKHyIO KnaByuy namgTN B. ycTaHOBNTe perynaTop NonoXeHn HapyKHb1X 3epkan 8 nonoxehne R. BkoynTe nepena4y 3aAHero xona. OtperynupyiTenonoxeHneHapyxHoro3epkanaco CTOP0Hbl nepenHero naccaxupa, Bb1KnI04NTe nepena4y 3aAHero xoAa, OrperynupoBaHHoe nonoxeHne Hapyxhoro 3epkana coxpaHseTCA.
 
 ### Bb130B coxpaHeHHbIX Hacrpoek
-`skoda_octavia_en_c96641cf` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KpaTKoBpeMeHHO HaKMNTe Heo6xoANMyi0 KnaBnwy naMgrN B npw BbIKi4eHHOM 3axraHNN N OTKPbITON nBepn BOANTenA. poAonXNTenbHO HaxMante Heo6xoAuMyio KAaBW山y naMATN B np BKSI04eHH0M 3aKuraHnN WnN 3akpbi7oni ABepN BOnnTeng.
 
 ### TpekpameHne HayaBweicaperynnpoBkN
-`skoda_octavia_en_f49a22c9` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaxMwtenlo6yloKnaBn山y HacnAeHbe BOANTenA Wn KH0NKy Ha paAnokioye.
 
@@ -2085,36 +1855,30 @@ HaxMwtenlo6yloKnaBn山y HacnAeHbe BOANTenA Wn KH0NKy Ha paAnokioye.
 pMeuaHe:pn kaxnom HOBOM coxpaHeHnn HacTpoek nonokehngcnAehbA HHapyKHbiX3epkan AnAABHKeHNA Bnepen Heo6xonMOTaKxe3aH080 coxpaHATb WHAiBHAyabHyiO HacTpoixy HapyKHoro 3epkana Ha crOpoHe nepenhero naccaxnpa AA ABNKHNA 3aAHnMxogoM.
 
 ### yHKUng naMATN BpaAnoknoye
-`skoda_octavia_en_3cf5f1ff` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B naMATW papnoknioya MOKHO aKTHBNpoBaTb yHKLNI0 aBTOMaTNyecKoro 3anoMNHaH NonokeHNn CNAeHbA BOANTen N HapyXHbIx 3epkannpn 3annpaHnna/M (Aanee KopOTK0 ， 中yHKU48 aBTOMaTnyeckoro 3anoMnHaHg). 3Ty cyHKunIo Taxxe MOXH0 aKTNBNPOBaTb WN AeaKTNBNpOBaTb 8 CNCTeMe Infotainment.
 
 ### CoxpaHeHne HactpoeknonoxeHng cHAeHbANHapyKHbIX3epkanAnAABNXeHNA BnepeA
-`skoda_octavia_en_38b536cc` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BKOUNTe yHKLNIOaBTOMaTnuecKoroco xpaHeHA Korna3ra cyHkuN9 aKTBNpoBaHa. pNKaXAoM3annpaHnNa/MTekymeenonoxeHe CNAeHbA BOANTeng NnonoxeHne HapyxHbix 3epKan An8ABNxeHN Bnepen 6yAeT COxpaHATbcs BnaMTn paANoKnoua.NpN nocne AyioueM OTnNpaHNNa/M TeM Ke cCaMbIM Ko4OM,CHAeHbe BOANTens N Hapy>KHble 3epkana 3aAHerO BNAa yCTaHOBATCA 8 nonoxeHne, coxpaHeHHoeB naMATN SToro Knioya （1).
 
 （1)Ang CoxpaHeHA nonoxeHCAeHN HapyKHbix 3epkana/McnenyeT OTnNpaTb N3a nnpaTb TeM Xe KlIoYOM,
 
 ### TporpaMMnpoBaHnenonoxeHns3epkana co cTopoHbInepeAHeronaccaxnpaAnA ABHKeHNA3aAHNMXOAOM
-`skoda_octavia_en_f13e10b2` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Oronpnte a/M paqnoKnio40M. BxnoynTe 3axwraHue. ycTaHOBNte perynaTop nonoxeHAHapyXHbix3epkanBnonoKeHNe R. Bknlotenepenauy 3aHero xoAa.Orperynupyute nonokeHne HapyxHoro 3epkana Co CTOp0Hbl nepeAHero naccaxnpa.BbiKnounte nepeAayy 3aqHero xona. HactpoeHHoe nonokehne HapyKHoro 3epkana coxpaHNTCA BnaMATN3TOro paAnoKno4a.
 
 ### AKTHBaUNA yHKUNNaBTOMaTH4ecKoro coxpaHeHnA
-`skoda_octavia_en_8e92a201` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Oronpnte a/M paANoKlo4OM. HaxMNte n yAepknBanteno6yio KnaBnuy naMATN B. 1locneToro,KaK CNAeHbe yCTaHOBNTcs B nonoKeHe, coxpaHeHHoe 3a COOTBeTCTByIO山en KaBiwen, OAHOBPOMeHHO HaxnManTe KnaBnwy Hapannoknioye 8 TeyeHne 10 G ceKyHA. ycnewHas akTnBauN9 cyHKLNNaBTOMaTnyeckoroCoxpaHeHNAnAAaHHOr0 KnloyanoATBepkAaeTcg3Byko8bIM CNrHan0M, BnaMTNKniouacoxpaHeHHoe3a KnaBWWen naMRTN nOnOKeHNe CNAeHbR BOANTeng N HapyXHbIx 3epkan He COxpaHseTcA.pN Heo6-
 
 XOANMOCTH, CHAeHbe MOKHO yCTaHOBNTb 8 Tpe6yemoe nonokeHne. ocne 3annpaHnga/m Teky山ee nonoXeHne ChAeHbR BOAnTen W HapyKHbIX 3epkan coxpaHgeTcA B naM9TN paAnoKiioya.
 
 ### AeaKTNBHpOBaHNe中yHKuNN aBTOMaTnyeckorocoxpaHeHNA
-`skoda_octavia_en_65642509` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OTonpNTe a/M paANoknlo4OM HaxMNTe M yAepKNBanTe KnaBhwy SET (A). OAHoBpeMeHHO B Teyehne 10 ceKyHA HaKMNTe KnaBN山y Ha pannoknioye. YcnewHoe 0 AeaKTNBnpoBaHne 中yHKUN aBTOMaTWyeckoro CoxpaHeHnAAng AaHHoro KnoyanonTBepxAaetcs 3ByKOBbIMCNrHanOM.
 
 ### TpekpaueHne HauaBueicgperynupoBkn
-`skoda_octavia_en_bd813159` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Haxmnte no6yoKnaBnyHacnneHbe B0gTens WnN KHonKy Ha pannokio4e.
 
@@ -2129,7 +1893,6 @@ AeHbA
 CnNHKN W nony山kn nepeAHnx CNAeHNN, a Takxe 06onxkpanHNx 3aAHNX CNAeHNN MOryr 6bITb o6opyAoBaHbl 3neKTponoAorpeBoM.oAorpeB CnAeHnN MOKHONCNOnb30BaTb TOnbK0 npnpa6oTaioLeMABNraTene.
 
 ### Bknio4enne
-`skoda_octavia_en_a454bbf6` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaXMNTe KnaBIWy WN 福
 
@@ -2144,12 +1907,10 @@ TepeAHnnnOAnoKOTHNK PerynnpoBkanoAnoKOTHNKa
 nonnokoTHNkperynnpyeTcA no BbICOTe NB npononbHoM HanpaBneHnN.
 
 ### PerynupoBka BbICOTbl
-`skoda_octavia_en_9881fa10` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHa4ana 3akponite KpblWKy W 3aTeM nonHAMNTe ee B HanpaBneHnN Ctpenkn 1B OAHO N34eTbipex cNKcnpoBaHHb1X nonoxeHnn.
 
 ### nepememeHne
-`skoda_octavia_en_b7d21be8` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CABNHbTe KpbIWKy n0 HanpaBneHnio crpenkN 2 B HyxHoenonokehne oA nonnoKOTHNKOM NMeeTcsBeWebOn OTceK.
 
@@ -2158,7 +1919,6 @@ pweuaHne:fTepen Ncnonlb3oBaHeMCTOAHoy HOroTopMo3a nepeABnHbTeKpblWkynOAnoKOTHNKa
 3aAHn MOAnOKOTHNK OnyckaHne noAoKOTHNka
 
 ### OrKHAbIBaHne
-`skoda_octavia_en_c54d3d4b` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 noT8HNTe 3a nernio AN OTKNHbTe nOAnOKOTHNK 臨 HanpaBneHNN Crpenkn. B noAnOKOTH4Ke MOKeT HaXOANTbCs nOACTaKaHHNK.
 
@@ -2169,12 +1929,10 @@ CkiaAbiBaHne CANHKN ChAeHbgnepeAHero naccaxnpa
 CnwHKy CHAeHbA nepeAHero naccaxnpaMOKH0 CnOKNTb BnepeA B ropN30HTanbHoenonokeHne.
 
 ### OTKNAblBaHne
-`skoda_octavia_en_2ffbcdc1` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 noTsHnre 3a pbl4axok n0 ctpenke 1.OnycTATe cnnHKy Bnepen n0 CTpenke 2. Aon-KeH 6bITb Cnbl山eH 山en4ok cNKcaLNN.
 
 ### Bo3Bpar B NCXOAHOe nonokeHne
-`skoda_octavia_en_33bb501b` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 noTAHNTe 3a pbluaxxok no ctpenke 1.AHNMNTe cnNHKy B NPOTWBONOnOXHOM CTpenke 2 HanpaBneHNN. AonxeH ObITb CnbiweH uenuoK cnkcaunN.
 
@@ -2189,17 +1947,14 @@ BaraxHbln oTceK: cknanbiBaHne CNNHKN 3aAHero CHAeHbA (Octavia/Combi)
 CnoxNB cnNHKy CHAeHbA, MOXKHO yBenN4NTb BMeCTNMOCTb 6araxHnka. B a/M c pa3- AenbHbIMN 3aAHNMN CNAeHbAMN, npn Heo6x0- ANMOCTN,MOXKHO CKNaAbIBaTb CNNHKN CNAeHNN NNO OTAenbHOCTN.
 
 ### CknaAblBaHne
-`skoda_octavia_en_61d03bc2` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nepeA CKnanbIBaHNeMCnNHOK 3anHero cNAeHbgnoA6epnte nonoxeHne nepeAHnx chAeHN TaKNM 06pa30M, 4T06b1 OH He nobpeninNCbnpN cKnagblBaHnn CNNHOK 3aAHnX CnAeHNn （1).HaxMnte pyuky ukcaropa A n nonHOCTbI0 cnOKuTe cnNHKy CWAeHbA.
 
 ### CknagblBaHneN3 6araxHnka
-`skoda_octavia_en_b816963c` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CnNHKN 3aQHNX CNAeHNN MoryT 6bITb OTkpenneHbl OT 6araxHNka N cnoxeHbl BnepeA. C npaBoh cTopoHbI 6araXHuka HaxoAuTca pblyaKoK Ang OTnnpaHnn npaBon NcpeAHen yacTen CnNHOK 3aAHerO CNneHbA. C neBon ctopoHbl6araXHNka HaxoAnTcs pbIyaXoKAnR OTnNpaHnA neBon CnNHKN 3aAHero CNAeHbg. noT9- HNTe 3a COOTBeTCTBYIOWNN Pbi4ax0K n CTpenke. pn OTnnpaHNN kaxAas 3 CNINHOK 3aAHero CNAeHbs MOXeT 6b1Tb cnoxeHa BnepeA.
 
 ### Bo3BpaT B NCXOAHOe nonoxeHne
-`skoda_octavia_en_64561163` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 yAepxnbaite 3aHn kpanHn peMeHb 6e30nacHocTN C B03neO6NBKN 6oKOBNHbI. 3aTeM OTKNHbTe CnHHKy CNAeHb9 Ha3aA A0 3auenkNBaHnA pyuKn cnkcaTopaA.ipoBepbTe 中ukcauno, nOT8HyB cnHHKy CNAeHbA BnepeA. y6ennTecb, 4T0 KpacHbIN WTncpT B nOAHOCTbiO CKpbIT.
 
@@ -2218,14 +1973,12 @@ TipakTw4Hoe o6opyAoBaHne 3axnMAnAnapkoBoyHoro ranoHa
 BHNMAHNE!ITepeAHayanOMABNXeHno683aTenibHoy6epnteranoHH3 3axnMa, 4To6bi He orpaH4NBaTb30HyBNANMOCTH.
 
 ### BeueBoNuNKCO CTOpOHbl BOANTenA
-`skoda_octavia_en_a18fdf31` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OTKpbIBaHHe BeueBorO AuuKa cO CTOpoHbI BOANTEJIA
 
 ![](images/389a613e9f6fc38cdeff601e75eb25e0c058b9a601a0202c27af3ccc035f4654.jpg)
 
 ### 3akpblBaHne
-`skoda_octavia_en_93b2dc33` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ogHNMNTe KpbI山ky Ao cbuKcaLN cxapakTepHbIM山en4KOM,
 
@@ -2242,7 +1995,6 @@ CnAeHbe BOANTens: OTceK AnA CHrHanibHoroXnneta
 OTceK Ang CNrHanbHoro XnneTa HaxonnTCA NOn CNAeHbem BOANTeng.
 
 ### He3akpblBaeMoe Bemeboe OTAeneHne B nepeAHen yacTnyeHTpanbHonKOHconN
-`skoda_octavia_en_47cf0ba2` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OTKPbIToeBemeBoeOTAeneHne
 
@@ -2257,7 +2009,6 @@ OTkpbiBaHne BemeBoroOTceka
 ![](images/de1f020b4e347a8ceded9c8023abd22d2000983038d6f9cd0d5aecc829123528.jpg)
 
 ### OTkpbiBaHne N3akpbiBaHne
-`skoda_octavia_en_24e604b5` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaxMNre Ha Kpan KpbluknA 心 0603Ha4eHHOM CTpenkoN HanpaBneHnN, 3axpbIBaHNe ocy山ecTBngeTCA B 06paTHOM HanpabneHnn. 3T0OTAeneHne npeAHa3HayeHo Ang xpaHeHng HebonbwnX npeAMeTOB, Hanpnmep, Mo6nnbHoro renecoHa. B 9T0 OTAeneHne MOKeT 6biTb "noABeAeH ycnneHHbi CNFHan OT aHTeHHbl Ha Kpblwe, 4T06bl yny4W4Tb ycnoBng Ang pa6oTbl Ba山ero Mo6NnbHoro TenecoHa.
 
@@ -2274,7 +2025,6 @@ pnkypnBaTeb
 1O
 
 ### ynpabnieHne
-`skoda_octavia_en_50350d52` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 yronnte KHOnKy npnkypnBaTeng. oAOKANTe, noka KHonka He BepHeTCA B ncxoqHoe nonoxeHne, Cpa3y xe N3BneKNTe 5 Ncnonb3ytenpnkypnBaTenb. BcraBbTe npNKypuBaTenb B p03eTKy.
 
@@ -2285,33 +2035,28 @@ nenenbHnubl: cnepeAn/c3aAN
 ![](images/ee521449f3a852edd74d1ebce914868c570674f8d575284a75d8f9557d82ce05.jpg)
 
 ### CHATHe NycTaHoBka3aAHennenenbHnubl
-`skoda_octavia_en_c3debad2` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OTKpONTe BemeBON OTceK. Bo3bMTeCb 3a BCTaBKy BnOKa3aHHOMCTpenKaMNMecTeI W 13- BAeKNTeee no HanpaBneHNio CTpenkn 1.MoHTax B 06paTHOM nopaake.
 
 OCTOPOXKHO!He BbIHNManiTe nenenbHiuy 3a kpbiwkycnepenn OHaMOxeTcnoMarbcR.
 
 ### Ncnonb30BaHnepO3eTKNHa 12 B
-`skoda_octavia_en_84e70bd2` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHNMTe KpbIWky p03eTKN WN OrKponte ee BcTaBbTe B po3eTky pa3beM 3neKTponpu6opa. Po3eTka 12B N nOAKnoyeHHbIN K He npw6opMOryT NCnonb3oBaTbCA W npN BblKnI0- 4eHHOM3aXNraHNN, 8T.4.N6e3Kn4a B 3aMke 3axnraHng.
 
 OCTOPOKHO:KpO3eTkeMOMHO noAKnIouaTb Tonbkopa3peueHHble 3n.npnHagexHoctn Q6men MOWHOCTbIOAO 120 BT.
 
 ### KOHTenHepAIAMycopa/OTKpbIBaHNeKOH renHepa
-`skoda_octavia_en_b2fec464` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/c73ac911018c54a46f23049ae706f2fd7a9ea31fb59e69e7f609dba0e7b152a6.jpg)
 
 KOHTenHep Ang MycopaMOKeTyCTaHaBnNBaTbc9 BKapMaHblO6NBKN Asepn.
 
 ### ycTaHOBKaKOHTeiHepa AA Mycopa
-`skoda_octavia_en_4974abe8` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 YcTaHOBNTe KOHTeHep nepenHen 4aCTbI0Ha creHky BeLeBoro OTAeneHNA. HaxMnTe HaKOHTeNHep B 3aAHen 4acTN 8 HanpaBneHnNCTpenKN 1.pN Heo6xoANMOCTNCABNHbTe KOH-TenHep 8 HanpaBneHNN CTpenok 2.
 
 ### OrkpbiBaHNe M 3akpbiBaHne KOHTenHepa Ang Mycopa
-`skoda_octavia_en_d079642b` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OTkponTe KOHTONHep 8 HanpaBneHnN CTpenkN 3. 3akpbiBaHN0 ocy山ecTBnAeTcR B o6paTH0M HanpaBneHnn.
 
@@ -2328,7 +2073,6 @@ NOACTaBKaAng MybTHMeANHHbIXyCTponctB
 noAcTaBka A9 MynbTNMeANNHbIX yCTpoNCTB HaxoANTcA B nepeAHen 4actn LeHTpanbHon KOHCOnN. noncraBka MOXeT WCnonb30BaTbcg A Mo6nnbHoro TenecoHa, MP3-nneepa NnN CXO>KNX yCTpONCTB.
 
 ### BeueBon oTcek nonnIepeAHnM noAJIokoTHHKOM
-`skoda_octavia_en_f7b4770f` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OTKpbiBaHne BeeBoro OTceka
 
@@ -2337,7 +2081,6 @@ OTKpbiBaHne BeeBoro OTceka
 oTAHNTe KpblWKy noAnokOTHNka 3a pyuky AB HanpaBneHNN CTpenkN OTKPONTe.
 
 ### 3akpbiBaHue
-`skoda_octavia_en_99ea0160` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OTkpOiTe pbIky AO KOHLa Tonbko nocne 3Toro eé MOKH0 6yqeT onyCTHTb BHM3 B np0- TNBONOJIOKHOMCTpenke HanpaBneHnu. O6- nacTb B BemeBoro OTceka rpenHa3Ha4eHa An9 pa3meweHnn npenMeTos, ra6apNTHble pa3Mepbl KOTOPbIX He npeBbluaioT 98 x 104x 142 MM. O6nactb C BeLeBoro OTceka neAHa3Ha4eHa Anpa3meLeHng npenMeTo8 MeHbwero pa3mepa.
 
@@ -2348,7 +2091,6 @@ OTKpbIBaHNe OTCeKa AnAO4KOB
 HaxMNte Ha Kpbl山Ky OTcekaQn8O4KOB B 06nacTn A. OTCeK OTKpbIBaeTCA 8 HanpaBneHNN CTpeIKN.
 
 ### 3axpbiBaHne
-`skoda_octavia_en_3a537808` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 noAHNMNTe KpblWKy OTceka AA 04KOB npoTNB CTpenKN AO OTueTnNBOn nKCaunn.
 
@@ -2359,7 +2101,6 @@ OTKpbIBaHne Bemeboro Aunka/ynpabne HNeoXnaXAeHneMBe山eBoroAuNKa
 B BemeBoM Suke HaxonntcA Aepxarenb A pyyx 4 KpepNTHbIX KapTouek. NoTAHATe 3a pyuky KpblUKN n0 Ctpenke N onyCThre KpbIUKy BHN3.
 
 ### OxnaxAeHne
-`skoda_octavia_en_9c95e701` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NoBopOTHbIn nepnektop OTKpblBaeT NnN 3aKpbiBaeT NpNTOK B03qyxa. npn 0TKpbIT0M AecnekTope W BKAIOyeHHON KnNMaTNyeckon yCTaHoBKe OxnaXAeHHbIn B03AyX nonaeTcA B
 
@@ -2372,12 +2113,10 @@ CuAeHbe nepeAHeronaccaxupa: 0TKpblBaHneBejeBoro OTceka
 ![](images/02145a2b5e63951d9084cf635546ab2372b957f54b5c737499f038f0bdbee1fd.jpg)
 
 ### 3akpbiBaHne
-`skoda_octavia_en_19f0bb4d` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bo3bMNTeCb 3a py4Ky N 3akponre OTCeK npOTNB HanpaBneHn8 CTpenkn 2.He OTnyckaiTe py4ky, noka OTceK He 6yAeT 3aKpblT,
 
 ### KPO4KNANA OAeXAbI
-`skoda_octavia_en_380a2dbe` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KPIoUXN AnA OAeXAbI Haxoncn Ha cpenHWX CTONKax M Ha nopy4Hgx HaA 3aAHNMN ABepRMN.
 
@@ -2404,7 +2143,6 @@ pWeHeHe;OTKNHbTeKpbIWKypO3eTKN B HanpabneHnn cTpenkN. BcraBbre 8p03eTkypa3beM 3n
 Po3eTKON 230 B M0XH0 n0nb30BaTbC8 TOnbKO nPNBKNIO4eHHOM 3axNraHNN. Ipn ycTaHOBke BNAKN 3nekTpnyeckoro noTpe6nrens B p03eTKy npeAoxpaHnTenbHan 6noknpoBka CHNMaeTCA, W p03eTka BKnoyaeTCA.
 
 ### CBeTOANOAHbIN NHANKaTOP
-`skoda_octavia_en_f646ee92` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NOCTOSHHO rophT 3eneHblM CBeTOM:nNTa-HNe pO3eTKN BKnIO4eHO. MuraeT KpacHbIM CBe-TOM:TNTaHNe pO3eTKN BPeMeHHO OTKAIO4eHO.NnTaHNe pO3eTKN OTKNIOUaeTcA aBTOMaTN4e-CKN, KorAa Chna Toka npeBbICNT AonyCTNMOe3Ha4eHNe, B cnyyae reperpeba, W KorAaAK6 CNnbH0 pa3paxeHa. KorAa npu4NHbl OT-KOUeHNA nNTaHN yCTPaHAIOTCR,nNTaHnepO-3eTKN CHOBa aBTOMaTNyeCKN BKno4aeTCg.noAcoennHeHHble noTpe6nTenn CHOBa Hau-HaoT pa6oTaTb.
 
@@ -2419,12 +2157,10 @@ BHNMAHNE! K po3eTke MOXHO noAKoyaTb Tonbkopa3pemeHHble3n ptHannexHocTuoopy AOBaH
 nocne OTKNAbIBaHNA nOANOKOTHNKa W KpbIWKN B CnNHke 3aAHero cnAeHbA o6pa3yeTC OTBepCTHe, 4epe3 koTopoe MOXHO BCTaBNTb CbeMHbln 4exon G nblxaMN, noAnOKOTHNK N KpbIWKy MOKHO OTKNHyTb N3CaNOHa WAN 3 6araxHnka.
 
 ### OTKpbIBaHne N3canoHa
-`skoda_octavia_en_c4ec2ac0` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OTKNHbTe 3AAHNI nOAnOKOTHNK （He AO ynOpa). ToTAHNTe 3a py4ky A B HanpaBneHNN CTpenKN NOTKNHbTe KpbIKy BHN3.
 
 ### 3akpbiBaHwe
-`skoda_octavia_en_044fcc71` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ToAHNMNTe kpbIKy N NOANOKOTHNK A0 ynopa BBepX,AOcNKcaLNN COTueTnNBbIM 3ByKOM. y6eAntecb, 4T0 NOAIOKOTHNK nocne 3aKpbIBaHNA 3auenKHyncg.9To MoKHo onpeAeNTb nO TOMy, yTO KpaCHorO NOng HaA KHONKOn 中nxcaropa B 6onbwe He BNAHO 13 6araxHnka.
 
@@ -2435,24 +2171,20 @@ CbeMHbIn YexonAnAIbIK ΦnkcauHA 4exna Ana nbIx
 CbeMHbl 4exon CAyKNT NCKnIOUNTenbHO AnA nepebo3kN nb1米.
 
 ### forpy3ka
-`skoda_octavia_en_f9c8e186` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OTkponite nBepb 6araxHuka. OTKNHbTe 3aHNnOANOKOTHNK NNoyoK B CnNHKe CNAeHbЯ, Pa3noxnTe nycton yexOn Tak, yTo6bI KOHey C MOnHNen-3acTexKon HaxoAnncs B 6araxHnke. BcTaBbTe NbIXKN W3 6araxHnka B CbeMHbln yexon. 3akponre yexon.
 
 ### Φnkcauna
-`skoda_octavia_en_95f4f3fc` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 3aTAHNTeneHTyA3aCBo6OAHbl KOHeL BO-Kpyrnbl>k nepegpenneHnAMN nbIXK. OTKNHb-Te CNNAHKy cneHbn HeMHOrO Bnepen. NpoBe-ANTe kpenexHbln peMeHb B 4epe3 nio4oK BCNNHKe CNAeHbA HaA BePXHeN 4acTblo CnNHKN.3areM OTKNHbTe CnMHKy CNAeHbA Ha3aA A03a山enknBaHng CTOnOPHON KnaBn山N + npo-BepbTe cuxcaunIO, NOTAHyB CNNHKy CWAeHbABnepen. BcTaBbTe KpenexHbln peMeHb B B 3a-MOK C AO OTueTnNBOro 山enyka.
 
 BHNMAHNE! nocne 3arpy3kNibxK yexon Heo6. XOANMO 3apnxcHponarb kpenexHbiM peMHeM B. eHTaAAonxHaKpenkoo6xBaTbiBaTbnb/n. CneATe, 4T06b1 neHra A 06xBaTbiBaa bX nepeA KpenneHAMN Ablx (cm. Takke HaAnncb H CbeMHOMyexntel. O6HBecnepeBo3NMblxbiHe AOneHnpeBbiwaTb24kr. CbeMHb yexon npenyCMOTpeHAnguerbipexnapbx. KnanNte nKn B CbeMHbluexon3arHyTbIMNKOHtaMnBnepeA.ananK OCTPHAMNHa3aA. EcnNBCbeMHoM yexne HaxoANTCAHeckonbkonapnbx TO cneAnte, 4To6bi xpennenns x pacnonaraiucb Ha OAHOM ypo8He. CbeMHbliuexon Henb38 CknaAbiBaTb H xpaHTb 80 BnaXHOMCOCTOAHNN.
 
 ### OcBeueHne 6araxHnka
-`skoda_octavia_en_1c0ca6ff` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OcBeLeHne BKnoyaeTc8 W BbIKnioyaeTcg, korAa OTKpbIBaeTC8 NAN 3akpbiBaeTCA Kpbi山- ka 6araxHuka. Ecnn Kpblwka 6araxHuka OTxpbiTa, a 3axnraHne BbIKnoueHo, namna racHeT aBTOMaTN4ecKn nphMepeno 4epe3 10 MNHyT.
 
 ### A/M KaTeropnn N1
-`skoda_octavia_en_ba55a75a` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B a/M KaTeropnu N1,He 06opyA0BaHHbIX 3awnTHoN pemerkon, A kpenneHnA rpy3a cneAyeT NCNOnb30BaTb netnn W npoymNHbl, COOTBeTCTByioUNe CTaHAapTy EN 12195 (1-4). Ang HaAeKHon axcnnyaraunna/M 3nektponpobogka AonXHa 6biTb NcnpaoHa. No3T0My Heo6xoANMO CneANTb,uToGbI OHa He 6bIna noBpexqeHa npn packnanke 6araxHnka,a TakKe nnN 3arpy3ke Npa3rpy3ke.
 
@@ -2479,7 +2211,6 @@ OCTOPOXHO! MaxcnmanbHo AOnyCTnMas CTaTNueckag Harpy3ka Ha oAHy neTIlO AcOcTaBAR 
 A.onepeHbili KapMaH B. HanonbHas ceTka C.pononbHblni KapMaH
 
 ### OTKNAHONABONHON KPIO4OK
-`skoda_octavia_en_bfd39d48` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/9d45ecb6df2c964521c70fe2d5921ea37291590718f1f7b553109de03c988adf.jpg)
 
@@ -2500,7 +2231,6 @@ OCTOPOXHO! 3akpenTb noKpbiTNe nona B Combi MOXHO ronbko Torga, korAa TpaHcbopMnp
 ![](images/3a716cc06eea452b554d0463e656327c1e518c8dd64b99bf06b649e588b21815.jpg)
 
 ### ABycTopoHHeenokpbITuenona
-`skoda_octavia_en_02bb30f7` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B 6araxkHOM OTceKe MOKeT HaxOANTbCA AByCTOPOHHNN KOBPNK. OAHaCTopOHa koBpNka NMeeT TkaHeBoe nokpbIThe,Apyrag CTopOHa ■ MOio山aACA (yAoOHbI yxon). Moouagcs CTOpoHa NCNOnb3yeTCA A nepeBo3kN M0KpbIX WN 3arpa3HeHHbIX npeqMeTOB.
 
@@ -2515,12 +2245,10 @@ CHATNe/ycTaHoBkanonkn6araXHnka
 ![](images/2fbe45dffa0ca71f841fa25477fff6ed5c37d0152e54ddc28da7351564c2e562.jpg)
 
 ### yxnaAkanonkN 6araxHnka 3acnnHkon 3aAHeroCNAeHbA
-`skoda_octavia_en_076937e8` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OTuennTe orpaHnuwenbhble peMHn 1.HaKMNTe Ha HNKHIOIO 4acTb nonkN 8 06nacrn onop2.N3BneKNTe nonky6araXHnka.CHATyIo nonkyMOKHOpa3MecTNTb3aCNNHKoi3aAHero CNAeHba.
 
 ### YcTaHoBka
-`skoda_octavia_en_57466a0e` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 onoxnTe nonlky Ha onopHble noBepxHOCT Ha 06NBke 60KOBNH. Pacnonoknte kpenneHnAnonkn 3 HaAonopamn 2 Ha o6NBke 6ok0- BH HaxMNTe Ha BepXHiol 4aCTb nonKN, rak 4To6bl KpenneHNA NOnHOCTbIO 3acnkcnpoBaAMCb Ha onopax. 3auennre noABecb! noAKN 1 3a Kpbluky 6araxHnka,
 
@@ -2531,7 +2259,6 @@ Pa3MaTblBaHneWTopKn6araXHnka/cMaTbiBaHne WTopkn 6araxHnka
 Bo3bMNTecb 3a pyyKy ANBbITHHNTe WTopky no CTpenke A0 中nkcauNn co CnbIUNMbIM 山enykom.
 
 ### BbIHNMaHNe/yCTaHOBKa
-`skoda_octavia_en_7c9d1e9f` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 NonHoCTbiQ CMOTaHHylO WTOpKy 6araXKHNKa MOKHO BbIFyTb (HanpNMep,AnA nepeB03Kn rpoMo3nxoro6araxa). HaxMNTe Ha Topeu nonepeyHonTaHrN8 HanpaBneHnN CTpenkn 3n N3BneKnTe山Topky B HanpaBneHNN CTpenkn 4. MOHTax T 06paTHOMnOpAAKe. CHTYIO WTop
 
@@ -2548,31 +2275,26 @@ Pa3MemeHne CHATONWTopKN6araxHn ka/npaBnibHoepa3MeueHne CHATOrO C kpbtwn6araxHnka
 Ecn a/M 06opyAoBaH TpaHcpopMnpyeMbiM nonoM 6araxkHuka, CHATbINCKpbIuN 6arakHNKN 山Topky 6araxKHnka MOXHo xpaHNTb B yrny6neHNsx 6okoBbIx Kpbluek 6araxHNka.
 
 ### Pa3MeueHne CHaTOrO CKpbI山n6araxHnka
-`skoda_octavia_en_d3ddbc1c` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CnoxnTe TpaHccopMnpyeMblinonBBepxHeMnonokeHNN N3BneKNTe6okoBble HaKnanK 6araxHuka no CTpenkaM 1. BcTaBbTe nepeAHIoI0 nonepeynHy CHATOrO C XpbIWN 6araxHnka AB nepenHne yryoneHng kpblwek. BcTaBbTe 3aAHi010 nonepeyHy CH8TOrO C KpbiW4 6araxHka B B 3anHne yrny6neHN9 KpblWek.ycTaHoBNTe 6oKoBble KpbluKN HaMeCTO B nPOTNBONOnOXHOMCTpenkaM 气 HanpaBneHhn. Pa3noxnre TpaHccpopMnpyeMbli non BBepxHeMnono>eHNN.
 
 ### Pa3MeueHneCHgTon山TopKn6araKHNka
-`skoda_octavia_en_e44b9a14` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CnokNTeTpaHccpopMNpyeMblnnonB Bepx-HeMnonokeHNn.N3BneknTe 6okoBble Haknan-KN 6araxHnkano CTpenkaM 1. 3aABnHbTe ne-peAHiolo uacTb 山Topkn 6araXHnKa CneBa noAyacTb D 60KOBoN KpbI山KN. noBepHure 3an-HI010 yacTb WTopkn nO CTpenke 2. ycTaHOBNTe60K0Bble KpbIWKn Ha MeCTO 3 nPOTABONONOX-HOM cTpenkaM 1 HanpaBneHNN. Pa3noxnteTpaHccpopMNpyeMblinon B BepXHeM nonoke-HNN. Ecnn CHATbINC KpbIwN 6araXHuK N山Top-kaxpaHTCRB 6araKHOMOTCeKeOAHOBpeMeH-HO, TO 3aAH8A 4acTb WTOPKN AOnKHa HaKpbl-BaTb 3aAHOI0 nonepe4nHy 6araxHnka.
 
 TpwMe4aHue: epenTeM Kak y6paTb CHATbIM C KpbiwN6araxHnkB6araxHbOTcek. H3BnekNTe N3 ero HecyueropoHuTeHHaKnoy,HHaue OHMOXeT 6biTbnoepexneH. KnoyoT6araxHika MOXHO y6- paTbByrny6nenne C.
 
 ### BeeBon OTcek B6araxHOMOTceke
-`skoda_octavia_en_ee8e8002` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BbIHNMaHne BeLeBoro OTCeka N3nemeHta Cargo/npumepxpenneHn8 6araxacncnonb30- BaHNeM3neMeHTa Cargo
 
 ![](images/8b0dbf4a67289ab2296df64d558a7f615e28ad483e03aea1c055b5798fb347ba.jpg)
 
 ### 3akpereHnenpeAMeToB 6araxa
-`skoda_octavia_en_4632f25b` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 N3BeKNTeoneMeHTCargoB(uacTb KpblKN BeueBoro oTceka) no cTpenke 2. 3akpenv-Te əneMeHt Cargo CIOMO山bio3acTexxkw-Ben-KpO Ha HaCThte nona 6araxHnka. B3aBNCNMO-CTN OTKOMnIeKTaLNN,Be山eBon OTCeK MOKerHaxoANTbCA TOJbK0 Ha OAHON, WN Ma 06enxCTOpOHax 6araxHnka.
 
 ### TpNnoAHNMaHne HacThna nona/BemeBble OTCeKNNOAHaCTHnOM
-`skoda_octavia_en_aae2e079` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BeueBble OTCeKN Haxonntcn noA HacTNnOM rona 6araxHka (npN KoMnneKTaunn 6e3 3anacHoro koneca). AeneHne 6araxHnka c rioMO山bI TpaHccopMnpyeMoro nona. rpunoAHNMNTe HacTnn nona n ctpenke. 3auennte
 
@@ -2590,41 +2312,34 @@ BbIHNMaHNe MHoroyHKuHOHanbHorokapMaHa
 MHorocyHKuuOHanbHbln KapMaH non CMaTblBalomeicg WTopKon 6araxKHuka npeAHa3Ha4eH AnA OAeXAbi A nerknx npenMeToB 6e3 OCTpbIx kpaeB.
 
 ### Pa3MaTblBaHne
-`skoda_octavia_en_1b2087d2` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 OTKNHbTe BHN3 nepeHNe KPI04KW c 06enx CTOPOH6araxHNka.Bo3bMnTecb o6eNMN pykaMW 3a 3aqHi010 nnaHky A N BbiABNHbTe BeCb KapMaH 1 crpenke 1. HaneHbTe 3aAHIo0 nnaHky Ao ynopa Hao6a kptouka no cTpenke 2.
 
 ### 3aABr raHne
-`skoda_octavia_en_e91415f7` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CHMMNTe 3anHioio nnaHky G KpI04K0B n0 CTpenke 3. 3aABNHbTe BeCb MHOrocyHKUNOHanbHbI KapMaH r0 Ctpenke 4. CoBMeCTNTe 3aqHi010 nnaHky C nepenHen 1 npnXmnte C 06ONX KOHLOB B. OTKNHbTe nepeAHne KpIoHKN C o6enX CTopoH 6araXKHNka.
 
 ### BbIHNMaHne/yCTaHOBKa
-`skoda_octavia_en_ef31cf19` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 N3BAeknTe CMaTbiBalomyiocg WTopky 6a-ra>xHnka. N3BneKNTe MHoroyHKuNOHanbHblKapMaH N3 HanpaenonX r1o ctpenke. MoH-Tax B 06paTHOM nopaAke. Npu ycTaH0BKeBCTaBbTeOTMe4eHHbIn 3HaKOM R↑ kpai nnaH-KM 8 npaBylo HanpaBnglomyio, a kpan Co 3Ha-KOM 个 L8 neByio Hanpasnglomyio. CTpenkhQOnKHbl yka3biBaTb BnepeA.
 
 ### Fonnoxehng TpaHcΦopMnpyemoronona 6araxHuka
-`skoda_octavia_en_a5c59d41` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 nepeBoA TpaHcΦopMnpyemorononaB BepxHeenonoxeHne/TpaHccopMnpyeMbin nOBBepxHeMnonoXeHNN
 
 ![](images/6e9835fdf9abf60f5bd3ba6031393e694393678043a7f1e253469138ab55971b.jpg)
 
 ### epeBoATpaHccopMnpyemoronona B HWXHeenonoxeHne/TpaHcpopMupyeMbl non B HHKHeMNOnOKeHNN
-`skoda_octavia_en_06759447` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TpaHccopMMpyeMbl non 6araxHuka MOKHO nepesecTn B BepxHee Wn HNKHee nonoxeHne.
 
 ![](images/4604f1fc5a0132c8504fe1f47a87a0d1949ce001cc6e9cc8023e7522bd40cc79.jpg)
 
 ### fepeboA B Bepxhee nonokeHne
-`skoda_octavia_en_8ff81f88` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bo3bMNTe TpaHcpopMnpyeMbili non c3a3a pyuky A. punoAHNMnTe TpaHccpopMnpyeMbi nonnpMepHo Ha 20 CM,nOTRHNTe ero Hace6s NnoAHNMNTe BBepx no CTpenke 1 Ha Bbl-cOTy CMaTbIBalOuenicn WTOPKN A0 中ukcaunNCo CnbIWNMbIM 山en4koM, Nocne 山enykaTpaHccopMnpyeMbln non MOKHO cnoKNTb BBepxHeM nonokeHNn, 0TKaB ero Brepen.pocCTpaHcTBO n0g TpaHccopMnpyeMblM n0-nOM MOKHO NCnonb308aTbAnA xpaHeHnA ka-KNX-nn6o npeAMeTOB.
 
 ### TepeBOAB HHXHee nonokeHne
-`skoda_octavia_en_785478c1` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TpoBepbre, 4T06b1 npocTpaHCTB0 n0A TpaHccbopMnpyeMbIM nonom 6bno CB060AHblM. Bo3bMNTe TpaHccopMnpyeMbli nonc3aA 3a pyukyA.TpnnoAHNMnTe TpaHccopMnpyeMblnonnocTpenke2npnMepHo Ha 10 cM NnOTAHNTe Ha ce6g n CTpenke 3 TpaHcpopMHpyeMbI noni cam onyckaeTCA B HNKHee nonoxeHne, B KOTOPOM ero MO\*H0 CnOXNTb,OTKaB Bnepen. TpaHccopMnpyeMbnon B 060- NX NONKeHNXMOKHO CnOKNTb NNN NcnoJb30BaTb A8 AeneHNg npocTpaHcTBa 6araxHwka.
 
@@ -2633,7 +2348,6 @@ CknaAblBaHne TpaHccopmnpyemoronona
 ![](images/f1fb2da67a68dbe996a3a00b1c97826089c326369806b5165c093c6417ce1c67.jpg)
 
 ### TpaHcpopMnpyeMblnnon6araxHnkacnoxeH: BHNXHeMnOnOKeHNN/B BepXHeMnonoxeHNN
-`skoda_octavia_en_bb5003e5` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/23547731a05280f0b4fe564c5e295fdd5e82f8a69f8e0f52d29eb787c54217fd.jpg)
 
@@ -2660,12 +2374,10 @@ Pa3AennTenbHag CeTka:pbIuaxOkOTnNpaHNA
 ![](images/b4958ca129d356583b84e0ff44b3340dc04bca008fd349a2c00d4ef67a26d774.jpg)
 
 ### Pa3MaTbiBaHne
-`skoda_octavia_en_d5412897` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pa3n0x4Te 4acTb CMaTbIBaeMON WTOPKN 6araxHnkaAno cTpenke BbITAHNTe pa3genNTenbHyI0 ceTky 3a BepXHI0I0 nonepe4Hyio WTaHry B N3 Kopnyca C. 3auennte nonepeyHyIO WTaHry BrHe3ne D cOAHON CTOpOHbl. HaXMNTe nonepeyHyiO山TaHryCApyrON CTopOHbl H 3aLenNTe 3TyCTopOHyB THe3qe D. Korna nonepeqHaa WTaHra 6yAeT HaxoANTbCA, HanpwMep, B neBOM rHe3ge D, HaKMNTeeecApyron CT0p0Hbl n0 CTpenke 1 4 BCTaBbTe B npaBoe rHe300 D. Cnoxnre 4acTb CMaTblBaeMON 山TOpKN 6araxHuka A B NPOTNBONONOKHOM CTpenke HanpaBneHNN.
 
 ### CMaTbIBaHNe
-`skoda_octavia_en_6947c6b7` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Pa3noxnre 4acTb CMaTbIBaeMON WTOpKN 6araxHnka A no ctpenke. HaxMNTe Ha nonepe4Hyi0 WTaHry N W3BneKNTe ee W3 rHe3A D CHayana C OAHON, a noTOM C Apyron CTopOHbl. 4ro6bl He noBpennTb pa3AenuTenbHyio ceTky pN CMaTbIBaHNN 8 Kopnyce C npNAepkhBanTe ee 3a nonepe4Hyio 山TaHry B. Cnoxure 4acTb CMaTbIBaeMOn WTopKN 6araxHNKa AB npOTNBOnOo>KHOMCTpenke HanpaBAeHNN.
 
@@ -2678,12 +2390,10 @@ Ncnonb3oBaHnepa3AennTenbHonceTkH 3a nepeAHNMN CHAeHbAMN
 ![](images/616fac327fa168b8d3a85adfbd45fab4b719376aa3f29cfb5485a240d743724a.jpg)
 
 ### Pa3MarbiBaHne
-`skoda_octavia_en_6dd015b8` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 CnoxnTe 3aAHee CNAeHbe BnepeA. BblT9- HNTe pa3qennTenbHyiO ceTky 3a BepXHi0I0 10- nepeuHyio 山TaHry A N3 kopnyca B. 3auenwte nonepeyHyio 山TaHryB rHe3Ae C C OAHON CTOpoHbl.HaxMNTe nonepeuHyIo山TaHryCApyron CTop0Hbl W 3auennTe 3Ty CTopoHy B rHe3qe C. KorAa nonepeyHag 山TaHra 6yAeT HaxoANTbCA, Hanpumep, B neBOM rHe3Ae C, HaxkMNTe ee C Apyron CTopoHb1 no ctpenke 1W BCTaBbTe 8 npaBoe rHe3no C.
 
 ### CmaTblBaHne
-`skoda_octavia_en_1e29a9cc` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaXMnte HanonepeyHyloWTaHry W N3BneKNTe eé N3rHe3A C cHayanacoHon a nOTOM CApyron CTOpOHbl. 4ro6bl He noBpennTb pa3- AennTenbHyIO CeTKy npNCMaTbIBaHNNB KOpnyce B, npnnepxnBante ee 3a nonepeyHyi0 WTaHry A. 门pnBeAnTe 3aAHee CNAeHbe 8 WCxOAHoe nonokeHne.
 
@@ -2696,12 +2406,10 @@ CHATHe N ycTaHoBka Koprycapa3Aenw TenbHon ceTkH
 CnoxnTe 3aAHee CNAeHbe BnepeA. 0tKponte npaByio 3a0Hi010 ABepb. CABNHbTe Kopnyc pa3AenNTenbHon ceTkn Ano CTpenke 4 N3BneKnTe ero W3 kperneHnn Ha CnNHkax 3aAHNX CNAeHn no ctpenke 2.
 
 ### ycTaHoBka
-`skoda_octavia_en_785c9646` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 BcTa8bTe Bbipe3bl kopnyca pa3AenntenbHON CeTKN B KpenneHNA B CNNHKN 3aAHNX CNAeH CABNHbTe Kopnyc pa3AennTenbHon ceTKN npoTnB HanpaBneHng CTpenKN 1 A0 ynopa. FpNBeguTe 3ahee CnAeHbe B NcxOqHoe nonokeHne.
 
 ### TouKNKpenneHNA
-`skoda_octavia_en_901ccaef` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Toslbko An a/M Combi.
 
@@ -2712,43 +2420,36 @@ PacnonnoxeHne ToyeK KPenneHng nonepeyHbixpennHroB
 A.lepeAHNe Toukn penneHng B. 3aqHue To4KN KpenneHng BbnonHaniTe yCTaHoBKy W CH8TNe B COOTBeTCTBNN L HpNJOXeHHON NHCTPyKuNen
 
 ### ToukN kpenneHng nonepeyHbix Kr, pepennHroB
-`skoda_octavia_en_8337b33a` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/b9d348d082a23cefc35321118edf5c97ff4a22d71096be02ce88e351156d553e.jpg)
 
 BblwaTb pa3pemeHHyio nonHyio Maccy a/M 3anpeuaercg.pN Ncnonb3oBaHnn cuCTeMbipeNHroB/6araXHNka C MeHbmen rpy30- noAbeMHOCTbIo Bbl He CMOKere NONHOCTbI0 NCnOnb30BaTb Harpy3Ky Ha Kpblly, pa3- peweHHyIoAnAa/M B 3TOM cnyyae He cnenyeT 3a6bl8aTb, 4T0 6araxXHAK Ha kpbiue AonxeH 6blTb 3arpyxeHrpy30M T0J1bK0 TakoNMaccbl, KoTopag yka3aHa B Ka4ecTBe MakcNManbHO AONyCTHMON ero pykoBOncTbe no yCTaHoBke.
 
 ### OtonneHne, BEHTNNAUNA, KOHANLNOHNpoBaHne
-`skoda_octavia_en_c8df0672` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 TpHMeuaHe: 803Ayx Bb/BOANTCA 4epe3 BbinyCKHble BHTHnALHOHHbIe OTBePCTNA 8 CTeHKax 6araxHnka. pNBKuoueHHoMpexMepeunpkynguHn Ba/MHepeKOMeHAyeTcA KypHTb TaKKakAbiMW3 caoHa a/M ocenaer Ha ncnapntene KOHAnNoHepa. 3r0 BeAeT K nORBneHNiO yCTonynBoro 3anaxa npu pabore KMaTHueCKOn yCTaHOBKH, Takyionpo6neMyMOXHOyCrpaHnTbANubnyTeMCnOKHbIx NAOpOFOCTOALHX pa6oT (3ameHbl ncnapntena). Ang ncnpaBHoN pa6oTbIOTonTenA NKOHAOHepa Heo6- XOAIMO, 4T06bIBO3Ayxo3a6opHNKnepeABeTpOBbIM CTeKOM H 6b nepekpbiT nbAOM, CHeroM MN onaBwen ANCTBON. pnpa6oTatoueMKOHANLNOHepe H3 ncnapnteng KnMaTHueckoN ycTaHoBkN M0- XeT kanaTb KOHAeHCaT H CkannBaTbCA B nyxHuy nOA a/M 3r0 HB 03HauaeT, 4T0 HMeeTCA HerepMeTH4HOCTb!
 
 ### AecnekTopbl
-`skoda_octavia_en_b9df9872` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 B 3aBNCNMOCTN OT NnokeHnn PyKO8TKN peryngTopa DTONSIEHNA WnN KNMaTnyeckoN yCTaHOBKN N OT BHeWHNX KANMaTNuecKNX ycnoBnn yepe3 AecpnekTopbi nogaeTcs nonorpe
 
 TbI,He noAorpeTbn Nnn OxnaxeHHbIn B03- Ayx. y AecnekTopoB 3, 4 N 6 MOXH0 MeHATb HanpaBneHne 06myBa, a Takxe MOXHO 3aKpblBaTb Mn 0TKpbIBaTb AecnekTopbl no OTAenbHOCTN.
 
 ### N3MeHeHneHanpaBnieHngnoTokaBo3Ayxa
-`skoda_octavia_en_6b9e1de0` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HanpaBNTbnOToK BO3Ayxa BbI山e NnN HNKe MOKHO, noBepHyB ropn30HranbHble kan03 CA8NKHbIM perynsTopoM A BBepx Nn BH43. N3MeHNTb 6okoBoe HanpaBneHNe noToka B03- Ayxa MOXHO, noBepHyB BepTAkanbHbleKanio3 CABN>KHbIM perynsropoM A BneBO Wn Bnpa8o.
 
 ### OTKpbIBaHNe N3akpbiBaHNe
-`skoda_octavia_en_c5275f2c` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Bpauante perynarop B B8epx WA BHN3. 0630p BO3MOKHOCTeN perynnpo8kn HanpasAeHN B03Ay山HbIX NOTOK08.
 
 ![](images/_MISSING_1a1bf14aa37a354fb638a1f8d7c5e941fda3a9b839fcc0f40b5c0ee2a567cf04.webp)
 
 ### C6onB pa6ore
-`skoda_octavia_en_3bbfb80e` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Ecnn npu HapyxHoN TeMnepaType 6osiee +5C KOHANLNOHep He BKnioyaeTCA, B ero pa6oTe NMeeTcg c6on. 9r0 MoXeT 6bITb Bbl3BaH0 cnenyioLMN npnunHamN:neperopenoAnH N3npenoxpaHnTenen npOBepbTe COOTBETCTByiomNe npeAoxpaHnTennN 3aMeHNTe neperopeBune; KOHANUNOHep aBTOMaTNueCKN OTKnIo4eH N3-3aCnN山KOM BbiCOKON TemnepaTypblOKABNraTeng Ecnn ycTpaHnTb c6on B pa6oTe CaMOCTORTenbHO He yAaetcs, WAN 3c中eKTNBHOCTb pa6oTbl KNMaTnyecKoN ycraHOBKN CHNKaeTCA, Heo6x0ANMO 0TKNI04NTb KOHANUNOHep M 06paTNTbcg Ha CTO.
 
 ### yHKUNN OTAenbHbIX opraHOB yrpaBneHNA
-`skoda_octavia_en_01ac9aeb` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 A.PerynupoBkaTeMnepatypbl (spameHne npoTn8 yacoBon CTpenkN (BneBo): yMeHb山eHNeTeMnepaTypbl, no yacoBON CTpenke (BnpaBO)yBenweHne TeMnepaTypbt)
 
@@ -2759,12 +2460,10 @@ C. PerynnpoBka HanpaBneHNs BO3AyWHbIX NOTOKOB BxnioyeHne/BbiKnloyeHne o6orpeBa 3
 BHNMAHNE! AngnpenoTBpaueHns 3anoteBaHA CTeKon BeHTUnATOP AOnKeH 6b/Tb NOCTOAHHO BKOyeN.
 
 ### PeunpkyngungBOAyxa
-`skoda_octavia_en_b4c91d98` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 PexNMpeuNpKynauun npeAoTBpauaet no. naqaHne 8 canoHa/M3arpA3HeHHoroB03yxa, Hanpumep, npu npoe3ne TOHHeNA WN B npo6kax.
 
 ### BKnioueHne/BbiKnioyeHne
-`skoda_octavia_en_2963497d` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 Haxmre KnaBnmy C CNMBONOM OA KaBNuen 3aropaeTcA KoHTp.naMna, Eue pa3 HaXMNTe KnaBnwy. KoHTponbHag namna n0A KnaBnwen racHeT. Npn noBopore perynsropa pacnpeneneHnA B03Ayxa B nonoxeHnepexnM peunpky AALNN BblKniouaeTcA aBTOMaTNyeCKN. ipwaooeryney nSuNIO B03Ayxa M0KH0 BH0Bb BK1I0 4NTbnOBTOpHbIM HaXKaTNeM KnaBnwn
 
@@ -2773,7 +2472,6 @@ BHNMAHNE! PexHM peunpkynanN B03Ayxa Henb39 OCraBAATb BKAIO4eHHbIM HaAonro, Tak K
 ![](images/_MISSING_7195e9a0628e1b09a42d83763263dad545f7924fa40b614a4d929d38dc7350a9.webp)
 
 ### PekOMeHAyeMbie 6a30Bble HacTponknOpraHoBynpaBnIeHngOTonnteneM
-`skoda_octavia_en_7b8f8b0e` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 ![](images/_MISSING_9b026493ea3a6b146bfd08d9a32c860d7f269694728e2f1c72d7764f6ce85902.webp)
 
@@ -2781,7 +2479,6 @@ BHNMAHNE! PexHM peunpkynanN B03Ayxa Henb39 OCraBAATb BKAIO4eHHbIM HaAonro, Tak K
 AecnexTopb1 3 peKOMeHAyercR nPNno6bIx peXNMaX AepXKaTb OTKpbITbIMN.
 
 ### KnNMaTnueckan ycTaHOBka (cpy4HbIM yripaBneHnem)
-`skoda_octavia_en_25abf743` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 KoHANuMOHep pa6oTaeT Tonbk0 npu cneAyIOFNX ycnoBNAX: KOHANLNOHep BKOyeH, ABNraTenbpa6oTaeT,HapyKHanTeMnepaTypa Bblme +2C, BeHTHnATOp BKIo4eH (nonoxeHue 1-6). Ecnn xenaemon reMneparypbl canoHe MOXH0 AOCTN4b, He BKnioyas XOHANLINOHep, Bbl6npanre pexHM npwToka B03Ayxa. KoHANUNOHep npN CAN山KOM BbICOKON TemnepaType O>K oTknouaeTcA,4To6bIo6ecneuwTb oxnaxAeHne ABNrareng rpn BbICoKoN Harpy3Ke.
 
@@ -2790,7 +2487,6 @@ OpraHblynpabneHng
 ![](images/e8dc3b06bc362da32b14a06927c686181784a69058f2f13d1d110c3c836647a9.jpg)
 
 ### yHKUNN OTAenbHbIx opraHoB yrpaBneHNA
-`skoda_octavia_en_22002abc` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 A.PerynupoBkaTemneparypbl {Bpamenne IpOTNB yacoBon cTpenkN (Bneso): yMeHb山eHne TeMnepaTypbl, no yacoBon cTpenke (BnpaBo)yBenneHneTeMnepaTypbl) B. PerynupoBka CKopoCTN BeHTNnATopa (cTyneHb 0: BeHTNNATOP BbIKNIO4eH, CTyneHb 6 MaKCNMaibHas CKOpOCTb BeHTNsTOpa) C.PerynupoBka HanpaBneHnA B03Ay山HbtX NOTOKOB 1.B 3aBNCNMOCTN OT KOMNneKTaUNN:
 
@@ -2805,17 +2501,14 @@ xa (pexNM peunpkynunn) ynpaBneHue nonorpeboM npaboro 特 nepenHero cnneHba puMeu
 KnaBnueA/C3aropaeTcRnpn HaxaTnn,Aaxe ecn BblnonHeHbi He Bce ycoBNA BKHo4eHN8 KOHAHUnOHepa, 3aropaHne KOHTp. naMnbl + Kna8nwe CBNAeTenbCTByeT 0 rOTOBHOCTNKOHANLNOHepa Kpa6ote.
 
 ### PeXNM peunpkynaunn
-`skoda_octavia_en_5d48f8dc` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 PeKNM peunpkynsunn npenoTBpawaer nonaAaHNe BcanOH a/M 3arpA3HeHHoro BO3Ayxa, HanpuMep, npn npoe3Ae TOHHeJA WAN B npo6kax.
 
 ### BKnoyeHne/BbIKstioyeHne
-`skoda_octavia_en_18a1947b` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 HaxMnre KnaBuwy C CNMB0nOM oA KnaBuwen 3aropaercA KOHTP. namna. Eue pa3 HaxMnre KnaBnwy KoHTpOnbHag naMna noA KnaBNwen racHeT. Apu noBopote perynaTopa pacnpeneneHnR Bo3AyxaC BnonokeHe pexNM peunpkyngunn BblKnio4aeTCA aBTOMaTNyeCKN. npn AaHHOM nosioxkeHWperynTopapeupkynLnioBO3Ayxa MOXHO BHOBb BKJIIO4NTb rOBTOPHbIM Ha水aTHeMKnaBNWN
 
 ### ABTOMaTNyeckan KnNMaTnyecKag ycTaHoBka Climatronic
-`skoda_octavia_en_bc6a880d` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 门p pa6ore B aBTOMaTNyeCKOM pexnme Climatronico6ecneuBaeTonTuManbHyio peryNHp08ky TeMnepaTypbl B03Ayxa, CKOpoCTN BeHTnnATOpa, a Takxe pacnpeneneHng 803- Ay山Hb1X nOTOKOB. B CNCTeMe yyNTbIBaeTCAN B03AenCTBNe conHeyHoro N3ny4eHNA, NO9ToMy OHaHe HyKAaeTCR BAONOnHNTenbHon pyyHoi HacTpoNke. KOHANuNOHep pa6oTaeT TonbKO np cnenylounx ycnOBNAX: KOHANUNOHep BKnIO4eH, ABwratenb pa6oraer, HapyXHag TeMneparypa Bblme +2C. KoHqNuNOHep npN CANEKOM BbICOKON TeMnepaType O>K oTKnIoyaeTcs, 4To6bI o6ecneyntb oxnaxneHneABNraTengnpn BblCOKon Harpy3ke.
 
@@ -2824,7 +2517,6 @@ OpraHblynpaBneHna
 ![](images/9e48d1e4a88fec530332c39d7ba12335c5af46c152c0487c8ac175a48034f5e4.jpg)
 
 ### yHKUNNOTAenbHbIXOpraHOB ynpaBneHNg
-`skoda_octavia_en_0eaf5c98` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 A.PerynupoBka TeMnepaTypbl Ang neBon
 CTOpOHbI WnN 06enx CTopOH B.AaTynKTeMnepaTypblB canoHe C. PerynupoBKa cKOpocTH BeHTnnATopa D.PerynupoBkaTeMneparypblAnn npabon
@@ -2836,7 +2528,6 @@ Ang npaBon CTOPOHbl 3. B 3aBNCNMOCTNOTKOMnneKTaUNN:
 上 Crekna NoToK BO3Ayxa HanpaBneH Ha BepxHIOI0 4acTb TynoBna Norok B03Ayxa HanpaBneH B 06- nacTb Hor ABTOMaTNyeCKoe BKioueHNeN BblKloyeHne pexnma peunpkynsunn ynpaBieHne noqorpebom npaBoro nepenHero cnnehbA
 
 ### MAXW
-`skoda_octavia_en_11776641` | octavia | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:unknown
 
 <!-- merged from chunks-manual-octavia.md @ 2026-04-14 -->
 
@@ -2903,8 +2594,6 @@ Skoda Octavia
 ![](images/c1db648edf9c010aa9163d7005efd5cbcc50d353a6a85a42ade07ca696ff3661.jpg)
 
 # РУКОВОДСТВО ПО ЭКСПЛУАТАЦИИ АВТОМОБИЛЯ
-
-# общий вид
 
 ![](images/d6860356c28345324c85f90424e584d505bfcbd4a07e19672da6052cd4367be5.jpg)
 
@@ -3263,8 +2952,6 @@ CauT
 
 # Эксплуатация автомобилей с автоматической трансмиссией
 
-# Запуск двигателя
-
 Двигатель можно заводить при по- ложениях «N» и «Р» рычага селектора переключения передач.
 
 # Выбор режима движения авто- мобиля
@@ -3382,8 +3069,6 @@ CauT
 Если двигатель не завелся не- медленно, тогда прекратите запуск че- рез 10 секунд и повторите запуск при- близительно через 30 секунд.
 
 Если двигатель не завелся даже со второй попытки, одной из при- чин этому может быть поврежденный плавкий предохранитель топливного электронасоса.
-
-# Дизельные двигатели
 
 # Предварительный подогрев (накаливание)
 
@@ -3562,8 +3247,6 @@ B результате аккумуляции тепла повысилась т
 Пример изображения большого дисплея
 
 Время суток указывается и при вык- люченном зажигании. Настройкачасов осуществляется кнопкой управления.
-
-# Время суток (без символики)
 
 # 8. Сигнальные и индикаторные лампочки
 
@@ -3766,8 +3449,6 @@ B результате аккумуляции тепла повысилась т
 ![](images/a57ea1de7c50f972bc480fb5d63e4393abad71095da541f9f6748eaa4988d6bc.jpg)
 
 # Выключатели фар
-
-# Внимание!
 
 . На автомобилях с правосто- ронним рулевым управлением расположение выключателей от- личается. Однако символы на вы- ключателях соответствуют симво- лам, имеющимся на автомобилях с левосторонним рулевым управ- лением.
 
@@ -4070,8 +3751,6 @@ o Пользуясь стояночными ог- нями, соблюдайте
 
 # Поворотная ручка настройки С – воздухораспределение
 
-# Нажимная кнопка D – режим циркулирующего воздуха
-
 Путем нажатия кнопки D включается режим циркулирующего воздуха во внутреннем пространстве автомобиля. Символ в кнопке загорается. В резуль- тате следующего нажатия циркуляция воздуха прекращается.
 
 После отпускания рычага стекло- омыватель прекратит работу, а стекло- очиститель протрет стекло еще 1-3 раза (в зависимости от длины дей- ствия стеклоомывателя).
@@ -4130,8 +3809,6 @@ o Пользуясь стояночными ог- нями, соблюдайте
 
 2 - ступень вентилятора; 3 – температура наружного воздуха; при выключении аBTоматическоrо кондиционера кнопкой «11» появится на этой позиции изображение «OFF», а остальные показания не изобразятся; 4 - размораживание лобового стек- ла; 5 - режим циркуляции воздуха; 6 - направление подачи воздуха; 7 - установленная температура в салоне; 8 – индикация «AUTO» (автомати- ческий режим), «ЕсоN» (компрессор выключен) или же«OFF»(«Climаtrоnіс» выключен);
 
-# Кнопки
-
 # Дисплей
 
 1 - размораживание ветрового стекла;
@@ -4166,8 +3843,6 @@ o Пользуясь стояночными ог- нями, соблюдайте
 Шины необходимо защищать от контакта с маслом, жиром и топливом. Обнаружив утерю колпачков вентилей шин, потерянные колпачки замените новыми.
 
 Если необходимо демонтиро- вать колеса, то их нужно предвари- тельно пометить для того, чтобы при повторном монтаже соблюсти перво- начальное направление вращения ко- леса.
-
-# 14. КОЛЕСА
 
 # Общие положения
 
@@ -4528,8 +4203,6 @@ O
 
 Извлеките из патрона неисп- равную лампочку накаливания. • Установите новую лампочку на- каливания. Установите патрон вместе с лампочкаминакаливания назад B корпус лампочки. Упругие выступы кор- пуса лампочки должны войти в фикси- рованное положение.
 
-# Верхний
-
 # стоп-сигнал (Соmbi)
 
 Рекомендуется менять лампочкуна- каливания на станции техобслужива- ния Skoda.
@@ -4634,8 +4307,6 @@ A – разряженная аккумуляторная батарея;
 ![](images/88b7bf8a77dd56c3ba973e9380807b914c62508bc22047c4cf3065c1d094d628.jpg)
 
 # 1. ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ АВТОМОБИЛЯ
-
-# 1. ИДЕНТИФИКАЦИЯ АВТОМОБИЛЯ
 
 Идентификационный номер авто- мобиля (номер кузова) выбит на зад- ней поперечной стенке подкапотного пространства. Его можно прочесть, открыв капот двигателя, через люк, находящийся в водонепроницаемом кожухе. Он содержит информацию о производителе,некоторыхособеннос- тях конструкции, годе выпуска автомо- биля и др. (рис. 1.1).
 
@@ -4747,8 +4418,6 @@ A – разряженная аккумуляторная батарея;
 
 # Через 12 месяцев
 
-# Двигатель:
-
 замена моторного масла; замена масляного фильтра; • проверка отсутствия подтека- ний; . проверка уровня антифриза в системе охлаждения и его корректи- ровка при необходимости; заменаохлаждающейжидко- сти (антифриза с водой) - каждые 36 000 км; замена воздушного фильтра (- ов) – каждые 60 000 км или 48 меся- цев; проверка состояния зубчатого ремня привода.
 
 # Трансмиссия:
@@ -4776,8 +4445,6 @@ A – разряженная аккумуляторная батарея;
 визуальная проверка отсут- ствия повреждений модулей подушек безопасности.
 
 # Летняя проверка
-
-# Двигатель:
 
 o проверка состояния и натяже- ния ремней привода, замена или регу- лировка при необходимости; . проверка системы охлаждения на отсутствие подтеканий, проверка уровня охлаждающей жидкости и со- стояния антифриза, доливание при необходимости; • проверка патрубков, шлангов и электрических соединений топливной системы; . проверка воздушного фильтра, замена при необходимости; • проверка уровня масла, доли- вание при необходимости; . проверка вредных выбросов отработавших газов.
 
@@ -4808,8 +4475,6 @@ o проверка состояния и натяже- ния ремней пр�
 • проверка ремней безопаснос- ти.
 
 # Зимняя проверка
-
-# Двигатель:
 
 проверка состояния и натяже- ния ремней привода, замена или регу- лировка при необходимости; проверка системы охлаждения на отсутствие подтеканий, проверка уровня охлаждающей жидкости и со- стояния антифриза, доливание при необходимости; . проверка патрубков, шлангов и электрических соединений топливной системы; • проверка воздушного фильтра, замена при необходимости; • проверка уровня масла,долива- ние при необходимости; . проверка вредных выбросов отработавших газов.
 
@@ -4911,8 +4576,6 @@ o проверка подвески на отсут- ствие поврежде
 
 # 6. ЗАМЕНА МАСЛЯНОГО ФИЛЬТРА
 
-# Бензиновые двигатели
-
 1. Ослабьте масляный фильтр со стяжным ленточным хомутом и извле- ките его. 2. Протрите поверхность прилега- ния уплотнительного кольца к двига- телю. 3. Слегка смажьте маслом резино- вое уплотнительное кольцо. 4. Установите новый фильтр, затя- нув его вручную. 5. После замены масла проверьте герметичность фильтра на прогретом двигателе.
 
 # Дизельные двигатели
@@ -5011,8 +4674,6 @@ o проверка подвески на отсут- ствие поврежде
 
 # 13. ЗАМЕНА ТОРМОЗНОЙ \*идкости
 
-# Внимание!
-
 Ни в коем случае не смеши- вайте тормозную жидкость с жид- костями, содержащими минераль- ные масла. Минеральные масла наносят вред уплотнителям и ман- жетам тормозной системы.
 
 • Тормозная жидкость ядови- та. Кроме того, ввиду ее разъедаю- щего действия нельзя, чтобы жид- кость соприкасалась с лакирован- ными поверхностями.
@@ -5085,15 +4746,9 @@ o проверка подвески на отсут- ствие поврежде
 
 # 16. СОДЕРЖАНИЕ ВРЕДНЫХ ВЕЩЕСТВ В ОТРАБОТАВШИХ ГАЗАХ
 
-# Бензиновые двигатели
-
 ![](images/f591611592928db53421f8b42e4e1e039a1450a8a2810c3113bc29211e1b48d4.jpg)
 
-# 2. БЕНЗИНОВЫЕ ДВИГАТЕЛИ
-
 # 1. СНЯТИЕ И УСТАНОВКА БЕНЗИНОВЫХ ДВИГАТЕЛЕЙ
-
-# Снятие
 
 1. Отсоедините и снимите бата- рею. 2.Снимите кронштейн батареи (рис.2.1).
 
@@ -5248,8 +4903,6 @@ HOB; 2 – от спидометра; 3 - от комбинированного 
 
 26. Открутите два кронштейна креп- ления нагнетающего трубопровода ру- левого механизма сусилителем (слева на коробке передач и под стартером). Открутите шкив насоса рулевого меха- низма с усилителем. Открутив насос, привяжите его вверху кузова автомо- биля. Провода должны быть соединен- ными.
 
-# Для автомобилей
-
 # с кондиционером воздуха
 
 27. Открутите  фиксатор шлангов для хладагента. 28. Удалите компрессор, закре- пите его на буксирную петлю авто- мобиля на внутренней стороне бам- пера (рис. 2.20).
@@ -5316,8 +4969,6 @@ HOB; 2 – от спидометра; 3 - от комбинированного 
 
 # 2. РЕМЕНЬ ПРИВОДА ГЕНЕРАТОРА
 
-# 2.1. Двигатель «АЕЕ»
-
 ![](images/195167c035c861c4e467b1e0a98a43f6ef41e52bd887b0ab969f906c8433fcda.jpg)  
 Рис. 2.27. Схема ремня привода генератора:
 
@@ -5368,8 +5019,6 @@ HOB; 2 – от спидометра; 3 - от комбинированного 
 3.Наденьтеременьприводагенера- тора. Ослабьте натяжное устройство. Извлеките для этой цели дорн. 4. Заведите двигатель и проверьте прогиб ремня.
 
 # 3. ЗУБЧАТЫЙ РЕМЕНЬ ПРИВОДА РАСПРЕДЕЛИТЕЛЬНОГО БАЛА
-
-# 3.1. Двигатель «АЕЕ»
 
 Зубчатый ремень привода распределительного вала двигателя «АЕЕ» показан нарис. 2.34.
 
@@ -5497,16 +5146,12 @@ OF
 
 # 4. КРЫШКА ГОЛОВКИ БЛОКА ЦИЛИНДРОВ
 
-# 4.1. Двигатель «АЕЕ»
-
 Крышка головки блока цилиндров двигателя «АЕЕ» показана на рис. 2.45.
 
 ![](images/f1cf58ad686373acdc9639817454830a020dd3dba05d0db7aca93330c287f605.jpg)  
 Рис. 2.45. Крышка головки блока цилиндров двигателя «АЕЕ»: -Болт; 2 - Уплотнительная шайба; 3 - Крышка головки блока цилиндров; 4 - Крышка маслозаливной горловины; 5 - Прокладка крышки головки блока цилиндров; 6 - Болт крепления головки блока цилиндров; 7 - Головка блока цилиндров; 8 - Прокладка блока цилиндров.
 
 # 4.2. Двигатели «АЕН» и «AKL»
-
-# Снятие
 
 1. Снимите верхнюю часть впуск- ного коллектора. 2 Снимите верхнюю часть защит- ного кожуха зубчатого ремня привода распределительного вала. 3. Открутите гайки крепления крышки головки блока цилиндров. 4.Удалите планки жесткости, фик- сатор и защитный кожух зубчатого ремня привода и снимите крышку го- ловки блока цилиндров.
 
@@ -5515,8 +5160,6 @@ OF
 5.Установите крышкуголовки блока цилиндров, планки жесткости, защит- ный кожух зубчатого ремня привода и фиксатор. 6. Затяните гайки накрест до мо- мента 10 Нм.
 
 # 5. ГОЛОВКА БЛОКА ЦИЛИНДРОВ
-
-# 5.1. Двигатель «АЕЕ»
 
 Головка блока цилиндров двигателя «АЕЕ» показана на рис. 2.46.
 
@@ -5632,16 +5275,12 @@ A
 
 # 6. БЛОК ЦИЛИНДРОВ, КОЛЕНЧАТЫЙ ВАЛ И МАХОВИК
 
-# 6.1. Двигатель «АЕЕ»
-
 Блокцилиндров, коленчатый вали маховик двигателя «АЕЕ» показаны нарис. 2.59.
 
 ![](images/2ac9464e245a689ecab9d1de1b7a3051fefdee34a29978c7196ea681def6e641.jpg)  
 Рис. 2.59. Блок цилиндров, коленчатый вал и маховик: 1 - Вкладыши подшипников 1, 2, 4 и 5; 2, 9, 13 - Болты; 3 - Крышка подшипника; 4 - Вкладыш подшипника 3; 5, 7. - Направляющие кольца; 6 - Коленчатый вал; 8 - Маховик; 10 - Шайба; 11 - Маховик; 12 - Промежуточная пластина; 14 - Фланец с сальником; 15 - Сальник; 16 - Фланец с сальником/масляный насос; 17 - Передний сальник коленчатого вала; 18 - Уплотнительная втулка; 19 - Зубчатый шкив коленчатого вала; 20 - Масляный насос.
 
 # Замена переднего сальника коленчатого вала
-
-# Снятие
 
 1. Снимите ремень привода ге- нератора. 2. Снимите нижний правый кожух двигателя. 3. Снимите зубчатый ремень приводараспределительного вала. 4. Снимите зубчатый шкив ко- ленчатого вала, используя специаль- ный инструмент (рис. 2.60).
 
@@ -5654,8 +5293,6 @@ A
 Рис. 2.61. Выкрутите внутреннюю часть съемника сальника на два оборота.
 
 6. Смажьте маслом резьбовую го- ловку съемника, установите ее и вкру- тите как можно глубже в сальник. 7. Ослабьте болт и извлеките саль- ник, проворачивая внутреннюю часть в противоположную сторону вращения коленчатого вала.
-
-# Установка
 
 # Двигатели до номера 210157
 
@@ -5838,8 +5475,6 @@ A
 
 # 8.3. Замена сальника распределительного вала
 
-# Снятие
-
 1. Снимите верхний защитный ко- жух зубчатого ремня привода распре- делительного вала. 2. Ослабьте болт крепления шки- ва распределительного вала. 3. Совместите метки на шкиве распределительного вала и защитном кожухе зубчатого ремня привода (тем самым установив поршень первого цилиндра в ВМТ) (рис. 2.82).
 
 ![](images/d333206b49d9705ce9e6236e47d79c1aa48c5b020c02be1761ccdbc4b184ff5e.jpg)
@@ -5895,11 +5530,7 @@ B
 
 Внимание! После сборки рас- пределительного вала нельзя за- водить двигатель на протяжении 30 минут, необходимо дать время гидрокомпенсаторам осесть.
 
-# 8.5. Проверка
-
 # гидрокомпенсаторов
-
-# Внимание!
 
 Неисправный гидрокомпен- сатор следует заменять как одно целое (он не подлежит ремонту).
 
@@ -5921,8 +5552,6 @@ B
 Рис. 2.86. Проверка гидрокомпенсаторов.
 
 # 8.6. Замена сальника стержня клапана
-
-# Снятие
 
 1.Снимитераспределительный вал. 2. Снимите гидрокомпенсаторы и установите их рабочей поверхностью вниз. 3. Выкрутите свечи зажигания. 4. Установите поршень соответ- ствующего цилиндра в ВМТ.
 
@@ -5950,8 +5579,6 @@ B
 10.Смажьте сальник клапана в маслом, установите его в устройство для надевания сальников и осторож- но всуньте в направляющую втулку клапана.
 
 11. Снимите защитный пластмас- совый чехол А.
-
-# 8.7. Шлифование седел клапанов
 
 # Расчет максимального допустимого размера для шлифовки
 
@@ -6048,8 +5675,6 @@ C ©
 
 # 9. МАСЛЯНЫЙ НАСОС ДВИГАТЕЛЯ «АЕЕ»
 
-# Снятие
-
 1. Снимите ремень привода гене- pатopа. 2. Снимите правый нижний кожух двигателя. 3. Снимите зубчатый ремень привода распределительного вала и натяжной ролик. 4. Снимите зубчатый шкив коленча- того вала с помощью контропоры (рис. 2.98). При повторной установке масля- ного насоса замените сальник.
 
 5. Поверните коленчатый вал из положения первого цилиндра в ВМТ на три зуба влево (рис. 2.99). Третий зуб 1 справа от сошлифованного зуба (мет- ки для установки первого цилиндра в ВМТ) 2 должен совпадать с меткой 2V на корпусе масляного насоса 3.
@@ -6129,8 +5754,6 @@ C ©
 
 # 11. ПОДДОН ДВИГАТЕЛЯ
 
-# Снятие
-
 1. Снимите звукоизоляцию (стрел- ки) (рис. 2.108).
 
 ![](images/b612db04cf1f9f79298b772ead435b6ac7dc364702ac7b577f9c422e2235bc01.jpg)  
@@ -6173,8 +5796,6 @@ C ©
 
 # 12. ЗАМЕНА ОХЛАЖДАЮЩЕЙ ЖИДКОСТИ
 
-# Сливание охлаждающей жидкости
-
 1. Откройте пробку расширитель- ного бачка охлаждающей жидкости. 2. Снимите среднюю часть звуко- изоляции (стрелки на верхнем ри- сунке) (рис. 2.108). 3. Подставьте под двигатель слив- нуюемкость. 4. Поверните сливную пробку (стрелка) на радиаторе влево и выта- щите ее назад или же наденьте на при- соединительный патрубок вспомога- тельный шланг (рис. 2.114). 5. Отсоедините патрубок охлажда- ющей жидкости от масляного радиато- ра и дайте стечь охлаждающей жидко- сти полностью (рис. 2.115).
 
 ![](images/9e0e0597d09e70dd70bf266df70eeb407143ccbd32203826c944912469607e4f.jpg)  
@@ -6192,8 +5813,6 @@ C ©
 
 # 13. РАДИАТОР СИСТЕМЫ ОХЛАЖДЕНИЯ
 
-# Снятие
-
 1. Слейте охлаждающую жидкость. 2.Отсоедините разъем проводки от датчика температуры 1, отсоедините разъемы проводки 2 и 3 на раме вен- тилятора для дополнительного охлаж- дения (нажмите на стопорные выступы) (рис.2.117).
 
 Рис. 2.117. Отсоедините   
@@ -6207,8 +5826,6 @@ C ©
 выступы).
 
 3. Отсоедините патрубки от штуце- ров радиатора (снимите хомуты креп- ления).
-
-# Для автомобилей
 
 # с кондиционером воздуха
 
@@ -6256,10 +5873,6 @@ e
 
 # 14. НАСОС ОХЛАЖДАЮЩЕЙ \*идкосТи
 
-# 14.1. Двигатель «АЕЕ»
-
-# Снятие
-
 1. Слейте охлаждающую жидкость. 2. Снимите ремень привода гене- pатopа. 3. Снимите зубчатый ремень 1 при- вода распределительного вала (рис. 2.124).
 
 ![](images/7bc889fdd771d2c27946a3a74370f5123b3d24573927c7cb2faa4b5812186c76.jpg)
@@ -6294,8 +5907,6 @@ e
 
 5 4 3
 
-# 15. ТЕРМОСТАТ
-
 # 15.1. Двигатель «АЕЕ»
 
 Термостат двигателя «АЕЕ» показан на рис. 2.127.   
@@ -6313,8 +5924,6 @@ e
 
 # 15.2. Двигатели «АЕН» и «АKL»
 
-# Снятие
-
 1. Слейте охлаждающую жидкость. 2.Снимите патрубок для охлажда- ющей жидкости с штуцера 3 (рис. 2.128).
 
 ![](images/70727d8e99bf9187e27d7e4fba91eb55994bffdaba4682d545456cbed690a750.jpg)  
@@ -6323,8 +5932,6 @@ e
 3. Выкрутите болты 4, снимите шту- цер вместе с уплотнительным кольцом 2 и термостатом 1.
 
 # СИСТЕМА ПИТАНИЯ
-
-# Проверка
 
 ![](images/ca599a70f609070c08a818a96361852e35fb431fd55727f777a2c204dfe6b7ea.jpg)  
 Топливный бак, топливный насос и топливный фильтр показаны на рис. 2.129.
@@ -6342,8 +5949,6 @@ e
 5. Очистите поверхность приле- ганияуплотнительного кольца. 6. Установите термостат и про- следите,чтобы при установке клапан термостата находился в вертикаль- ном положении. Затяните болты до момента 15 Нм. Залейте охлаждаю- щуюжидкость.
 
 # 16. ТОПЛИВНЫЙ НАСОС
-
-# Снятие
 
 1. Выключите зажигание и отсоеди- ните отрицательный проводот батареи. 2. Снимите кожух (под задним си- деньем). 3. Снимите нагнетающий и слив- нойтопливопроводы с фланца топлив- ного насоса (нажимая на кнопку фикса- тора). 4Отсоедините четырехконтакт- ный разъем с фланца топливного насоса и извлеките его. 5. Открутите гайку и извлеките топ- ливный насос и уплотнительное кольцо из отверстия топливного бака (рис. 2.130).
 
@@ -6378,8 +5983,6 @@ e
 4. Вставив датчик уровня топлива в направляющие канавки на топливном насосе, вдавите его вверх до упора.
 
 # 18. ТОПЛИВНЫЙ БАК
-
-# Снятие
 
 1. Выключите зажигание и отсо- едините отрицательный провод от батареи. 2. Слейте топливо из топливного бака. 3. Открутите кожух, находящийся под задним сиденьем. 4. Отсоедините четырехконтакт- ный разъем с фланца на топливном баке и извлеките его. 5. Откройте крышкузаливной горло- вины, снимите распорное кольцо в ре- зиновом чехле (вокруг заливной горло- вины). 6 Протолкните резиновый чехол внутрь. 7. Снимите тарельчатую опору правого заднего колеса. 8. Открутите заливную горловину бака под тарельчатой опорой колеса. 9. Снимите кожух под топливным баком (стрелки) (рис. 2.133).
 
@@ -6443,8 +6046,6 @@ e
 
 # 21. ЗАМЕНА ПЕРЕДНЕЙ ЧАСТИ ВЫПУСКНОГО ТPУБOПРOBОДА
 
-# Снятие
-
 . Открутите защитный кожух (стрелки) и отсоедините разъем про- водки от лямбда-зонда (рис. 2.141).
 
 ![](images/bb2a78d091093e05f07175af8c79b5fada967f68d924aa51ef4bbb70a7952d5b.jpg)  
@@ -6460,8 +6061,6 @@ e
 Рис. 2.142. Последовательность затяжки передней части выпускного трубопровода к выпускному коллектору.
 
 # 22. ВЫПУСКНОЙ КОЛЛЕКТОР
-
-# Снятие
 
 1. Удалите верхнюю часть впускного коллектора. 2. Снимите переднюю часть впуск- ного трубопровода.
 
@@ -6497,8 +6096,6 @@ e
 ![](images/0d6a3ab1201913ec279445dc5380879b753757d175028a6d1a17e1de2a611ac8.jpg)
 
 # 24. ЗУБЧАТЫЙ РЕМЕНЬ ПРИВОДА РАСПРЕДЕЛИТЕЛЬНОГО ВАЛА
-
-# 24.1. Двигатель «АGN»
 
 Зубчатый ремень привода распределительного вала двигателя «AGN» показан на рис. 2.145.
 
@@ -6649,8 +6246,6 @@ e
 
 # Замена переднего сальника коленчатого вала
 
-# Снятие
-
 1. Снимите ремень привода ге- нератора и натяжное устройство. 2. Снимите зубчатый ремень.
 
 3. Снимите зубчатый шкив коленча- того вала. Заблокируйте шкив с помо- щью рычага «Тзо004» или контропоры MР 1-310 (рис. 2.159).
@@ -6688,8 +6283,6 @@ o если на коленчатом валу нет никаких следов
 
 # 26. МАХОВИК ДВИГАТЕЛЯ
 
-# Снятие
-
 1. Пометьте положение маховика на коленчатом валу для облегчения уста- HOBKИ.   
 2. Снимите маховик. Заблоки- руйте маховик с помощью фиксато- ра (контропоры) МР 1-222 (рис. 2.164).
 
@@ -6701,8 +6294,6 @@ o если на коленчатом валу нет никаких следов
 3. Установите маховик на коленча- тый вал в положение, отмеченное во время снятия. 4. Установив новые болты, затяните их рукой. 5. Затяните болты до момента 60 Нм + 90° (1/4 оборота).
 
 # 27. ВЕДОМЫЙ ДИСК СЦЕПЛЕНИЯ
-
-# Установка
 
 1. Установите ведомый диск сцепления вместе с шайбой с выемкой 1 (рис. 2.165).
 
@@ -6773,8 +6364,6 @@ o если на коленчатом валу нет никаких следов
 ![](images/4b563e54f7c980f3489882ab3e9c513b053ca5a6ee822376423836632f1d8a51.jpg)
 
 # 30. КРЫШКА ГОЛОВКИ БЛОКА ЦИЛИНДРОВ
-
-# Снятие
 
 1 Отсоедините отрицательный провод от батареи.
 
@@ -6917,10 +6506,6 @@ R 9
 
 # 31.1. Головка блока цилиндров двигателя «АGN»
 
-# Снятие
-
-# Обработка головки блока цилиндров
-
 1. Снимите крышку головки блока цилиндров. 2. Слейте охлаждающую жид- КОСТЬ. 3. Отсоедините патрубки охлаж- дающей жидкости от присоедини- тельного патрубка головки блока циин- дров. 4. Открутите фиксатор трубы для охлаждающей жидкости от присое- динительного патрубка головки блока цилиндров. 5. Отсоедините разъем провод- ки от датчика температуры охлажда- ющей жидкости (стрелка) (рис. 2.184).
 
 12. Обработка головки блока цилиндров(перешлифовка) допус- тима до минимального размера а: 139.25мм (рис.2.187).
@@ -6993,8 +6578,6 @@ V C O tOR o D 9 U г -∞
 
 25. Установите поршень первого цилиндра в положение ВМТ, совме- стив для этого метки (рис. 2.150). 26. Снимите зубчатый ремень со шкива распределительноговала. 27. Выкрутите катушки зажига- ния. 28. Открутите болты крепления головки блока цилиндров в последо- вательности, указанной на рис. 2.185. 29. Снимите головку блока ци- линдров.
 
-# Проверка
-
 # Установка
 
 31. Ослабьте примерно на два обо- рота болты 1 и 2 на кронштейне креп- ления турбонаддува с целью предотв- ращения натяга во время установки го- ловки блока цилиндров (рис. 2.195).
@@ -7030,8 +6613,6 @@ a 2-й прием: 180° (1/2 оборота).
 Основные детали ГРМ представлены на рис. 2.196.
 
 # 32.2. Распределительные валы и регулятор распределительного вала
-
-# Снятие
 
 1. Снимите ремень привода гене- ратора и натяжное устройство. 2. Снимите верхний защитный кожух зубчатого ремня. 3. Установите поршень первого цилиндра в ВМТ (рис. 2.150). 4. Снимите крышку головки бло- ка цилиндров. 5. Вкрутите установочный болт без головки М5х55 1 в натяжной ролик зубчатого ремня. Закрутите гайку 2 с шайбой 3 на установочный болт 1 (рис. 2.152). 6. Снимите зубчатый ремень со шкива распределительного вала. 7. Ослабьте крепление шкива распределительноговала. 8. Снимите шкив распредели- тельного вала. 9. Снимите кожух для датчика частоты вращенияраспределитель- ного вала. 10. Снимите кольцо и диафрагму датчика частоты вращения распре- делительного вала. 11. Зафиксируйте регулятор рас- пределительного вала с помощью фиксатора натяжного устройства цепи «3366» (рис. 2.198).
 
@@ -7206,8 +6787,6 @@ H 2 -
 
 # Впускной распределительный вал
 
-# Снятие
-
 23. Снимите ремень привода гене- ратoра. 24. Отсоедините разъем проводки от датчика частоты вращения распре- делительного вала (рис. 2.175). 25. Снимите верхний защитный кожух зубчатого ремня. 26. Снимите кожух датчика. 27. Снимите кольцо и диафрагму датчика частоты вращения распреде- лительного вала. 28. Для установки съемника саль- ников вкрутите болт МР 1-215/1 в рас- пределительный вал до упора (рис. 2.209).
 
 ![](images/3f91ca5334e9c81cf33a018e87feff391be1990f8dbddf8fbe987d31447e9aae.jpg)  
@@ -7233,8 +6812,6 @@ H 2 -
 Внимание! Не допускается подгонка клапанов, а лишь их притирка.   
 Размеры впускного и выпускного клапанов приведены в таблице 2.15.
 
-# 32.5. Проверка
-
 # гидрокомпенсаторов
 
 • Неисправный гидрокомпен- сатор следует заменять как одно целое (он не подлежит ремонту). . Нерегулярный стук клапанов во время пуска – нормальное явле- ние.
@@ -7251,8 +6828,6 @@ H 2 -
 снимите крышку головки блока цилиндров; установите кулачки проверяе- мых гидрокомпенсаторов вверх; прижмите гидрокомпенсатор вниз с помощью деревянного или же пластмассового клина (рис. 2.86). Если величина зазора, измеренная щупом, превысит 0.20 мм, то нужно заменить гидрокомпенсатор.
 
 # 32.6. Замена сальника стержня клапана
-
-# Снятие
 
 1. Снимитераспределительные валы. 2 Снимите гидрокомпенсаторы (взаимно не заменяя), положите их в сторонурабочей поверхностью вниз. 3. Выкрутите свечи зажигания. 4.Установите поршень соответству- ющего цилиндра в НМТ.
 
@@ -7318,8 +6893,6 @@ H 2 -
 2. Определите зазор между втул- кой и клапаном: направляющая втулка впускного клапана: 0,80 мм; направляющая втулка выпуск- ного клапана: 0,80 мм.
 
 Внимание! Если износ больше допустимого, следует повторить из- мерение с новыми клапанами. Если износ все еще больше допустимого, необходимо заменить головкублока цилиндров.
-
-# 32.8. Обработка седел клапанов
 
 # Расчет максимально допускаемой обработки
 
@@ -7407,8 +6980,6 @@ H 2 -
 
 ![](images/5d59243cb8aafdb2fd191d1dd717d0ad7611ae6781e94cae0b16a5c5ed46d99e.jpg)
 
-# 34. МАСЛЯНЫЙ НАСОС
-
 # 35. ПОДДОН ДВИГАТЕЛЯ
 
 Масляный насос изображен на рис. 2.221.
@@ -7449,8 +7020,6 @@ H 2 -
 
 Если измеренное значение от- личается от требуемого, замените редукционныйклапан.
 
-# Установка
-
 # СИСТЕМАОХЛАЖДЕНИЯ
 
 Внимание! Масляный поддон нужно установить в течение 5 минут после нанесения герметика.
@@ -7484,8 +7053,6 @@ H 2 -
 
 # 37. НАСОС СИСТЕМЫ ОХЛАЖДЕНИЯ
 
-# Снятие
-
 .Слейте охлаждающую жидкость. 2. Снимите ремень привода гене- paтopa. 3. Снимите зубчатый ремень со шкива насоса системы охлаждения. 4. Открутите болты крепления 1 и снимите насос системы охлаждения 2 (рис. 2.228).
 
 ![](images/4f2247e85ddbe88d0ac8799ed0f1b2821936eb131af24abede61e59acc891f83.jpg)  
@@ -7496,8 +7063,6 @@ H 2 -
 5. Смочите новый сальник в охлаж- дающейжидкости. 6. Установите насос системы охлаж- дения. Положение для установки: проб- ка в корпусе насоса должна быть на- правлена вниз. 7.Установите насос системы охлаж- дения 2 на свое место и затяните болты крепления 1. 8. Далее установка проводится в порядке,обратном снятию.
 
 # 38. ТЕРМОСТАТ
-
-# Снятие
 
 1. Слейте охлаждающую жид- кость.
 
@@ -7520,8 +7085,6 @@ H 2 -
 13 - Выпускной коллектор.
 
 # Передняя часть выпускного трубопровода
-
-# Снятие
 
 1.Отсоедените разъем проводки от лямбда-зонда, отсоедините электро- проводку с зажимами от теплозащит- ного щитка (рис. 2.231).
 
@@ -7702,8 +7265,6 @@ H 2 -
 
 # 40.4. Снятие и установка турбокомпрессора
 
-# Снятие
-
 1. Снимите декоративную крышку двигателя.   
 2. Снимите звукоизоляцию посре- дине и справа (стрелки) (рис. 2.154).   
 3. Открутите теплозащитный щиток правой полуоси.   
@@ -7744,8 +7305,6 @@ o - о
 Рис. 2.246. Открутите кронштейн нагнетающей смазочной трубки от турбокомпрессора 1.
 
 # Радиатор сжатого воздуха
-
-# Снятие
 
 5. Отсоедините рукав воздухоза- борника 2 от радиатора сжатого возду- ха (рис. 2.250).
 
@@ -8057,8 +7616,6 @@ II
 
 # 50. СИСТЕМА ДОПОЛНИТЕЛЬНОЙ ПОДАЧИ ВОЗДУХА
 
-# Применение
-
 Из системы дополнительной пода- чи воздуха, после пуска холодного двигателя (температура охлаждаю- щей жидкости от +5 ° до +33°С), на- гнетается воздух в пространство за выпускными клапанами продолжи- тельностью максимум 100 секунд. В результате отработавшие газы обога- щаются кислородом, происходит до- полнительное дожигание и, тем са- мым, сокращается фаза нагрева ката- лизатора ОГ. Активируется данная си- стема блоком управления впрыском и зажиганием«Мотrопіс» через реле насоса дополнительной подачи возду- ха нагнетательного клапана дополни- тельной подачи воздуха и комбиниро- ванного клапана. К тому же, после каж- дого последующего пуска двигателя (вплоть до температуры двигателя максимум 96 С) система дополни- тельной подачи воздуха включается на холостом ходу на 10 секунд, контроли- руясь системой автоматического кон- троля. Лямбда-зонды при этом долж- ны быть активированы.
 
 ![](images/b52312e488de621e422bcf35ccb1464f0b25348893fcb6dc5a6c44028a08b774.jpg)  
@@ -8119,19 +7676,13 @@ II
 
 # 50.4. Комбинированный клапан
 
-# Снятие
-
 1. Сверху: снимите декоративную крышку двигателя (рис. 2.254); снимите рукав воздухозаборника 1 (стрелки) (рис. 2.255). Трубка для уда- ления воздуха 2 остается присоеди- ненной; отсоедините напорную и заборную трубки от комбинированного клапана; ослабьте болтовое соединение на соединительной трубе. 2.Снизу: снимите защитный чехол полуоси; открутите соединительную трубу от выпускного коллектора; открутите комбинированный кла- пан.
 
 # Установка
 
 3. Установка проводится в порядке, обратном снятию.
 
-# 3. ДИЗЕЛЬНЫЕ ДВИГАТЕЛИ
-
 # 1. СНЯТИЕ И УСТАНОВКА ДИЗЕЛЬНЫХ ДВИГАТЕЛЕЙ
-
-# Снятие
 
 1. Отсоедините отрицательный про- вод от батареи. 2. Снимите кожух двигателя (рис. 3.1). Извлеките пробки 1 и ослабьте гайки (стрелки). Снимите зажимы 2 с болтов 3.
 
@@ -8300,8 +7851,6 @@ OT термовыключателя
 36. Открутите шкив насоса усили- теля рулевого управления.
 
 37. Открутите насос усилителя ру- левого управления и привяжите его к кузову автомобиля. Провода насоса остаются присоединенными.
-
-# Для автомобилей
 
 # с кондиционером воздуха
 
@@ -8523,8 +8072,6 @@ D
 
 # 4. УСТАНОВКА ПОРШНЯ ПЕРВОГО ЦИЛИНДРА В БМТ
 
-# Для автомобилей до VII/97 г.
-
 1. Присоедините устройство для установки ВМТ «МР 1-313» согласно указаниям на рисунке 3.43. Отрегули- руйте длину устройства для установки ВМТ «МР 1-313» на 96 мм (стрелка) (левый шлиц шкалы (стрелка А) пред- ставляет собой опорную точку). Вра- щайте коленчатый вал так, чтобы метка ВМТ (стрелка В) на маховике совпала с кромкой регулирующего устройства.
 
 ![](images/616c2150dd136fd0f84563108b14098995763db3458757454dc64b4ecf019eb2.jpg)  
@@ -8583,8 +8130,6 @@ D
 
 # 5.1. Замена переднего сальника коленчатого вала
 
-# Снятие
-
 1. Снимите ремень привода ге- нератора.   
 2. Снимите зубчатый ремень.   
 3. Снимите зубчатый шкив ко- ленчатого вала. Заблокируйте зуб- чатый шкив с помощью контропоры «МР 1-310» или «Т 30004» (рис. 3.50).
@@ -8638,8 +8183,6 @@ D
 
 # 5.4. Зубчатый шкив привода масляного насоса
 
-# Снятие
-
 1. Снимите масляный поддон.   
 2. Снимите передний сальник коленчатого вала.   
 3. Снимите натяжное устройство цепи привода масляного насоса, зубчатый шкив привода масляного насоса и цепь.   
@@ -8692,8 +8235,6 @@ X -MP 1-316
 Внимание! Уновыхпоршней при- надлежность к цилиндру помечена краской на днище поршня.
 
 Поршни цилиндров 1 и 2: маркировка — 1/2. Поршни цилиндров 3 и 4: маркировка - 3/4.
-
-# 6.2. Проверка натяга
 
 # (перекоса) поршня в ВМТ
 
@@ -8830,8 +8371,6 @@ X -MP 1-316
 Таблица 3.7. Фазы газораспределения   
 ![](images/fe5e5f8d8fffab6cef8887abb266881156bcc66b25a59ae7bb1e0ae6f4ae815a.jpg)
 
-# 8.2. Обработка седел клапанов
-
 # Расчет максимально допускаемой обработки
 
 1. Засуньте клапан, крепко вдавив его в седло.
@@ -8955,8 +8494,6 @@ HM. 15. Установите шкив распредели-
 
 # 8.5. Замена сальника стержня клапана
 
-# Снятие
-
 1. Снимитераспределительныйвал. 2. Снимите гидрокомпенсаторы (взаимно их не заменяя). 3. Установите поршень соответ- ствующего цилиндра в ВМТ. 4. Установите монтажный инстру- мент «МР 1-213» и отрегулируйте вы- соту его лап (рис. 3.77).
 
 ![](images/3fa384362e0f92353c3426346080001eaf313093404080c7328e03730aecb775.jpg)  
@@ -9033,8 +8570,6 @@ HM. 15. Установите шкив распредели-
 
 1 – Радиатор; 2 – Масляный радиатор; 3 – Насос системы охлаждения и термостат; 4 - Блок цилиндров; 5 - Расширительный бачок; 6 - Впускной коллектор; 7 – Радиатор системы отопления; 8 - Радиатор для охлаждения трансмиссионного масла; 9 - Дополнительный отопитель.
 
-# Снятие
-
 # 11. НАСОС СИСТЕМЫ ОХЛАЖДЕНИЯ
 
 1. Слейте охлаждающую жидкость. 2.Снимите звукоизоляцию. 3. Отсоедините топливопроводы (стрелки) от топливного насоса вы- сокого давления и, закупорив их чис- тыми пробками, отложите в сторону. 4. Отсоедините разъем проводки 2 от датчика температуры входящего воздуха с датчиком давления во впуск- ном коллекторе. Снимите воздушный впускной патрубок 1 (рис. 3.83).
@@ -9073,8 +8608,6 @@ HM. 15. Установите шкив распредели-
 #
 
 # 12. ТЕРМОСТАТ
-
-# Снятие
 
 1. Слейте охлаждающую жидкость. 2. Отсоедините патрубки охлаждающей жидкости от соединительного шту- цера 2. Открутите болты 1, снимите соединительный штуцер вместе с уплот- нительным кольцом круглого сечения 3 и термостатом 4. (рис. 3.86).
 
@@ -9133,8 +8666,6 @@ Dee
 
 # 13. РАДИАТОР
 
-# Снятие
-
 1.Слейте охлаждающую жидкость. 2. Отсоедините разъем 1 от термо-   
 выключателя и разъемы 2 и 3 на корпу-   
 се вентилятора радиатора (нажмите на   
@@ -9156,8 +8687,6 @@ Dee
 2 затяните болты крепления ра- диатора и кожуха вентилятора до мо- мента 10 Нм. замените уплотнительные коль- ца круглого сечения патрубков; 6 закрутите пробку сливного от- верстия охлаждающей жидкости; o залейте охлаждающую жид- КОСТЬ. 13.Установите фары. 14. Присоедините отсоединенные разъемы проводки.
 
 # 14. ВЕНТИЛЯТОРЫ РАДИАТОРА
-
-# Снятие
 
 1. Отсоедините разъемы проводки 2 и 3 от радиатора (нажимая стопор- ные фиксаторы) (рис. 3.93).
 
@@ -9182,8 +8711,6 @@ Dee
 # Установка
 
 6. Установка проводится в порядке, братном снятию.
-
-# СИСТЕМА ПИТАНИЯ
 
 # 15. ТОПЛИВНЫЙ БАК
 
@@ -9244,8 +8771,6 @@ Dee
 черный нагнетающий топливопро- вод 2 должен находиться на   
 соединителе с маркировкой «V».
 
-# СИСТЕМА ПИТАНИЯ АВТОМОБИЛЕЙ 4х4
-
 # 17. ТОПЛИВНЫЙ БАК АВТОМОБИЛЕЙ 4Х4
 
 Топливный бак автомобилей 4х4 показан на рис. 3.100.
@@ -9297,8 +8822,6 @@ Dee
 
 Снятие и установка левого и правого датчиков уровня топлива такие же, как и для автомобилей 4х2 (Пункт 16 этого Раздела).
 
-# 19. ТУРБОКМОПРЕССОР
-
 # 19.1. Турбокомпрессор
 
 Турбокомпрессор с присоединенными деталями изображен на рис. 3.104, а схема регулировки подачи сжатого воздуха – на рис. 3.105.
@@ -9334,8 +8857,6 @@ J
 Рис. 3.107. Открутите снизу стопорную гайку 2, а сверху - болты крепления 1.
 
 # 19.2. Ресивер высокого давления клапана регулировки давления сжатого воздуха
-
-# Снятие
 
 1.Открутите стопорную гайку 3 воз- духонаправляющего патрубка 2 (рис. 3.106).
 
@@ -9413,8 +8934,6 @@ J
 12. Затяните контргайку 1. 13. Установив тягу управления на рычаг, наденьте фиксатор 4. 14. Установите турбокомпрессор.
 
 # Радиатор охлаждения сжатого воздуха
-
-# Снятие
 
 1. Снимите звукоизоляцию посре- дине и справа (стрелки) (рис. 3.5).
 
@@ -9512,8 +9031,6 @@ J
 
 # 4. СИСТЕМЫ УПРАВЛЕНИЯ ДВИГАТЕЛЕМ (топливо- и воздухоподачи, система зажигания)
 
-# СИСТЕМА УПРАВЛЕНИЯ ДВИГАТЕЛЕМ 1АВМ ДВИГАТЕЛЯ «АЕЕ»
-
 Подкапотное пространство автомобиля с двигателем «АЕЕ» показано на рис. 4.1.
 
 Компоненты системы управле- ния двигателем показаны на рис. 4.2.
@@ -9591,8 +9108,6 @@ J
 Внимание! При частоте враще- ния ниже 1400 об/мин снова имеет место индикация режима холосто- го хода.
 
 6. Нажмите на кнопку «». 7. Введите «06» для функции «За- вершение вывода» и подтвердите на- жатием кнопки«Q». 8. Если вышеуказанные значения не установлены, тогда: • отсчитав память неисправнос- тей, устраните возможные неисправ- НOСТИ; . проверьте потенциометр дрос- сельной заслонки.
-
-# 2. ЛЯМБДА-ЗОНД
 
 # 2.1. Проверка подачи напряжения
 
@@ -10601,8 +10116,6 @@ a температура охлаждающей жидкости должна б
 16 - Электромагнитный клапан   
 системы улавливания паров бензина.
 
-# СИСТЕМА ВПРЫСКА ТОПЛИВА
-
 # 1. ПРОВЕРКА ПАМЯТИ КОДОВ НЕИСПРАВНОСТЕЙ И ОЧИСТКА ЕЕ СОДЕРЖИМОГО
 
 . Присоедините тестер «V.A.G 1552», введите адрес «01 для блока управления двигателем. Двигатель должен работать на частоте оборотов при холостом ходе.
@@ -10638,8 +10151,6 @@ HELP
 HELP
 
 9. Введите «О6» для выбора функ- ции «Завершение вывода» и под- твердите нажатием кнопки «Q».
-
-# 2. ПРОВЕРКА ФОРСУНОК
 
 # 2.1. Проверка сопротивления форсунки
 
@@ -10808,8 +10319,6 @@ HELP
 11. Установите на свое место пре- дохранительтопливного насоса.
 
 # 5. ПРОВЕРКА ДАТЧИКА ПОЛОЖЕНИЯ ДРОССЕЛЬНОЙ ЗАСЛОНКИ
-
-# Проверка значений напряжения дат- чика
 
 1. Отсоедините 8-контактный разъем на корпусе дроссельной за- слонки. 2.Включите зажигание. 3.Измерьте ручным мультиметром, например «V.A.G 1526», разность на- пряжений между контактами «4» и «7» 8-контактного разъема (рис. 4.50). За- данное значение: минимум 4,8 В.
 
@@ -11113,8 +10622,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 # СИСТЕМА АВТОМАТИЧЕСКОГО УПРАВЛЕНИЯ «МОТРОНИС» ДВИГАТЕЛЯМИ «АГН» И «АГU»
 
-# СИСТЕМА АВТОМАТИЧЕСКОГО УПРАВЛЕНИЯ «МОtrОПИС» ДВИГАТЕЛЯ «АGN»
-
 Подкапотное пространство автомо- биля с двигателем «АG№» 1.8 л 92 кВт показано на рис. 4.65, а система впрыс- ка топлива показана на рис. 4.66, 4.67.
 
 ![](images/93eb059199d45ddaab0a41ccbe5b6f91300aee824f0fd0010e38d4cf7209e2f3.jpg)
@@ -11391,8 +10898,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 42. Вставьте распределитель топ- ливас форсунками в отверстия нижней части впускного коллектора. 43. Присоедините фиксатор прово- дов. 44.Установите удерживающие бол- ты распределителя топлива и затяните их. 45. Установите верхнюю часть впус- кного коллектора. 46. Далее установка производится в порядке, обратном снятию.
 
-# 2. ПРОВЕРКА ФОРСУНОК
-
 # Двигатели выпуска до VII/97 г.
 
 1. Снимите фиксаторы проводов высокого напряжения системы за- жигания.
@@ -11575,8 +11080,6 @@ o проверьте на обрыв, короткое замыкание на �
 датчика частоты вращения коленчато-   
 го вала; 16 - Датчик детонационного   
 сгорания1; 17 - Датчик температуры входящего воздуха; 18 - Пневматический выключатель усилителя рулевого привода; 1 19 - Корпус дроссельной заслонки; 20 - Датчик частоты вращения распределительноговала.
-
-# СИСТЕМА ВПРЫСКА ТОПЛИВА
 
 # 1. ПРОВЕРКА ХОЛОСТОГО ХОДА
 
@@ -12126,8 +11629,6 @@ A – Реле системы впрыска топлива, В - Реле св�
 
 # 12. ТОПЛИВНЫЙ ФИЛЬТР
 
-# 13. ФОРСУНКИ
-
 Топливный фильтр показан на рис. 4.111.
 
 ![](images/88e837a5ebc91d9ad6a1befbc588f7332ba2a51d02389f2a434ca34d02ae08bd.jpg)  
@@ -12619,8 +12120,6 @@ xa: выключитезажигание; отсоедините разъем - 
 
 # 24. ТОПЛИВНЫЙ НАСОС ВЫСОКОГО ДАВЛЕНИЯ
 
-# Снятие
-
 1. Снимите защитный кожух дви- гателя.
 
 2. Отсоедините нагнетающий трубопровод от топливного насоса высокого давления. 3. Закройте отверстия чистой тряпкой. 4. Снимите верхний кожух зубча- того приводного ремня, вакуумный насос и крышку головки блока ци- линдров.
@@ -12878,10 +12377,6 @@ A – Поле индикации «2», начало впрыска; в - По�
 
 49809n 85 ТАЧАПИЕ хУдEоа
 
-# 5. ТРАНСМИССИЯ
-
-# СЦЕПЛЕНИЕ
-
 # 1. ПРИВОД УПРАВЛЕНИЯ СЦЕПЛЕНИЕМ
 
 Привод управления сцеплением приведен на рис. 5.1.
@@ -12910,8 +12405,6 @@ A – Поле индикации «2», начало впрыска; в - По�
 Рис. 5.3. Гидравлический привод сцепления (МкПП 02ј): 1 - Бачок для тормозной жидкости; 2 - Заборная трубка; 3 - Главный цилиндр сцепления; 4 - Крепление; 5 - Педаль сцепления; 6 - Гайка; 7, 11, 17 - Фиксаторы; 8 - Рычаг выключения сцепления; 9 - Цилиндр выключения сцепления; 10 - Болт; 12 - Трубка; 13 - Гайка; 14 - Пылезащитный колпачок; 15 - Пробка для удаления воздуха; 16 - Уплотнительное кольцо круглого сечения; 18 - Коробка передач.
 
 # 3. ГЛАВНЫЙ ЦИЛИНДР СЦЕПЛЕНИЯ
-
-# Снятие
 
 1. Отсоедините и закупорьте трубку A, ведущую к бачку тормоз- ной жидкости (рис. 5.4).
 
@@ -13046,8 +12539,6 @@ A – Поле индикации «2», начало впрыска; в - По�
 8. Отсоедините шток вилки пере- ключения передач 1 от рычага пере- ключения передач 2, используя отвер- тку, снимите шайбу 3 и извлеките крон- штейн 4 наружу вверх (рис. 5.20).
 
 # 7. СНЯТИЕ И УСТАНОВКА МКПП
-
-# Снятие
 
 1. Снимите кожух двигателя. . Отсоедините отрицательный провод от батареи
 
@@ -13657,8 +13148,6 @@ o рычаг выключения сцепления
 ![](images/57d0f3c851ee43279e77cd0dbb3a7332dfe7a29dc77c749505a5b0e13de096d1.jpg)  
 Конструкция вторичного вала показана на рис. 5.97.
 
-# МЕХАНИЧЕСКАЯ КОРОБКА ПЕРЕДАЧ 02Ј
-
 # 12. РАЗБОРКА И СБОРКА КОРОБКИ ПЕРЕДАЧ
 
 Первичный и вторичный валы, дифференциал и вилки переключе- ния передач показаны на рис. 5.98.
@@ -13942,8 +13431,6 @@ o рычаг выключения сцепления
 
 ![](images/ef7af557879164fe548c7f7b35f05dd33ef6898abe661b0d949e014deb445992.jpg)
 
-# 6. ПОДВЕСКА
-
 # ПЕРЕДНЯЯ ПОДВЕСКА
 
 Балка крепления подвески,стабилизаторпоперечнойустойчивости и нижний рычаг подвескипоказаны на рис.6.1а
@@ -13989,8 +13476,6 @@ o рычаг выключения сцепления
 ABS.
 
 # 1. НИЖНИЙ РЫЧАГ ПОДВЕСКИ
-
-# Снятие
 
 1. Снимите колпак колеса.   
 2. Приподнимите автомобиль так, чтобы снять нагрузку с передней под- veski.   
@@ -14058,8 +13543,6 @@ cа. 15. Установите наружный шарнир
 
 # 2. БАЛКА КРЕПЛЕНИЯ ПОДВЕСКИ
 
-# Снятие
-
 1. Снимите колпаки передних колес. 2. Приподнимите автомобиль так, чтобы снять нагрузку с передней под- veski. 3. Ослабьте гайку ступицы. 4. Поднимите автомобиль и сними- те колеса. 5. Открутите гайку ступицы. 6.Снимите нижний защитный щиток. 7. Открутите болты 1 (рис. 6.2). 8. Выпрессуйте карданные валы. 9. Отсоедините нижние рычаги подвески от шаровых опор. 10. Снимите крышку подшипника ступицы колеса.
 
 11. Открутите болты 1 и 2 и снимите качательную опору (рис. 6.5).
@@ -14115,8 +13598,6 @@ cа. 15. Установите наружный шарнир
 
 # 4. ШАРОВАЯ ОПОРА
 
-# Снятие
-
 1.Снятие шаровой опоры возможно только после снятия амортизаторной стойки и поворотного кулака.
 
 2.Установите специальный инстру- мент согласно рисунку 6.13 и ослабьте гайку.
@@ -14149,8 +13630,6 @@ cа. 15. Установите наружный шарнир
 Установка проводится в порядке, обратном снятию.
 
 # 5. АМОРТИЗАТОРНАЯ СТОЙКА
-
-# Снятие
 
 1. Снимите колпак колеса. 2. Приподнимите автомобиль так, чтобы снять нагрузку с передней подвески. 3. Ослабьте гайку ступицы. 4. Снимите колесо. 5. Открутите болты 1 (рис. 6.2). 6. Выпрессуйте карданный вал (рис.6.3). 7. С помощью съемника «Маtrа V176 отсоедините тягурулевой трапе- ции от рычага рулевой трапеции (рис. 6.16).
 
@@ -14225,8 +13704,6 @@ cа. 15. Установите наружный шарнир
 20. Прикрутите головку шарового шарнира к нижнему рычагом подвески до момента 20 Нм + 90°. 21.Прикрутите опору суппорта дис- кового тормозного механизма к пово- ротному кулаку до момента 28 Нм. 22.Установите проводдатчика чис- ла оборотов системы АВS в фиксатор. 23. Присоедините разъем датчика числа оборотов системы АBS. 24. Смажьте маслом поверхность прилегания гайки, шлицы и резьбу наружного шарнира, закрутите новую гайку как можно дальше. 25. Засуньте наружный шарнир в ступицу колеса так, чтобы он соприка- сался с подшипником ступицы колеса. 26. Установите колесо. 27. Опустите автомобиль так, чтобы колеса все еще были вывешены. 28. Нажмите на педаль тормоза. 29. Затяните гайку до момента 250 Нм и ослабьте на один оборот. Под- тяните гайку еще на 50 Нм + 45".
 
 # 6. КАРДАННЫЙ ВАЛ
-
-# Снятие
 
 1. Снимите колпак колеса. 2. Приподнимите автомобиль так, чтобы снять нагрузку с передней подвески. 3. Ослабьте гайку ступицы. 4. Снимите колесо. 5. Снимите нижнийзащитный щиток. 6. Отсоедините карданный вал от вала с фланцем или от коробки пе- редач. 7. Открутите болты 1 (рис. 6.2). 8. Выпрессуйте карданный вал и извлеките карданный вал (рис. 6.3). 9. Ослабьте болты качательной опо- ры коробки передач (стрелка) (рис. 6.25).
 
@@ -14503,8 +13980,6 @@ B
 
 # 10.1. Резинометаллическая опора
 
-# Снятие
-
 1. Отсоедините трос привода сто- яночной тормозной системы от при- жимных зажимов (стрелки) (рис. 6.59). 2.Отсоедините зажимы 2 от фикса- тора тормозных шлангов.Открутите болт 1 крепления резинометалличес- кой опоры. 3. Установите специальный инстру- мент и выбейте резинометаллическую опору из балки моста (рис. 6.61).
 
 MP 3-419 V 0 y IMP 5-400/2
@@ -14563,8 +14038,6 @@ MP 3-419 V 0 y IMP 5-400/2
 
 9. Установка производится в поряд- ке, обратном снятию. Начало пружины (стрелка) должно прилегать к упорной поверхности подкладки (рис. 6.67).
 
-# ЗАДНЯЯ ПОДВЕСКА
-
 # (дисковые тормозные механизмы)
 
 Задняя подвеска с задними дисковыми тормозными механизмами показана на рис. 6.68.
@@ -14603,8 +14076,6 @@ MP 3-419 V 0 y IMP 5-400/2
 # 13. АМОРТИЗАТОР
 
 Снятие и установка амортизатора и пружины такие же, как и для задней подвески с задними барабаннымитор- мозными механизмами.
-
-# КОЛЕСА И ШИНЫ
 
 # 14. ПРОВЕРКА ИЛИ РЕГУЛИРОВКА СХОЖДЕНИЯ ПЕРЕДНИХ КОЛЕС
 
@@ -14649,10 +14120,6 @@ MP 3-419 V 0 y IMP 5-400/2
 ![](images/bf3cecaf8c2ebb9dd3b23815edd854d82eee53c81ae477a7a0d4db59c2164b29.jpg)
 
 # 7. РУЛЕВОЕ УПРАВЛЕНИЕ
-
-# 1. РУЛЕВОЙ ВАЛ
-
-# Снятие
 
 Отсоедините отрицательный провод от батареи. 2. Установите колеса для движения по прямой. 3. Открутите болты 2 (рис. 7.1). Извлеките из фиксаторов обивку под панелью приборов 1.
 
@@ -14842,8 +14309,6 @@ P
 
 # 3. НАКОНЕЧНИКИ РУЛЕВЫХ ТЯГ
 
-# Снятие
-
 1. Отсоедините поперечную ру- левую тягу от рычага рулевой трапе- ции. 2. Ослабьте гайку 2 и открутите наконечник рулевой тяги 3 от попе- речной рулевой тяги 1 (рис. 7.28).
 
 ![](images/238bfc31714db6625f75a1ab2a73c3084908c40bf82cf2e931290373f2faad18.jpg)  
@@ -14864,8 +14329,6 @@ P
 5. Проверьте углы установки пере- дних колес и положение рулевого коле- са. При необходимости отрегулируйте их.
 
 # 4. ПОПЕРЕЧНЫЕ РУЛЕВЫЕ ТЯГИ
-
-# Снятие
 
 1. Очистите снаружи рулевой меха- низм вокруг защитного чехла. 2. Снимите хомут и сдвиньте за- щитный чехол. 3. Открутите поперечную руле- вую тягу от зубчатой рейки рулевого механизма C помощью гаечного ключа с тарированным моментом затяжки (рис. 7.30).
 
@@ -14978,8 +14441,6 @@ P
 
 20. Отсоедините манометр для проверки насоса усилителя рулево- го управления.
 
-# Снятие
-
 # Автомобили с насосом усилителя рулевого управления, расположенным сверху
 
 21. Снимите кожух двигателя.
@@ -15056,8 +14517,6 @@ sverху
 
 # Автомобили с насосом усилителя рулевого управления, расположенным снизу
 
-# Снятие
-
 35. Поверните натяжной ролик с помощью гаечного ключа в направ- лении стрелки и снимите ремень привода генератора (рис. 7.49).
 
 ![](images/5c81cbfe5dcbcb328fd24e4e88f606b67ac1c1ec13ce233b4d8d6bbf1b34652a.jpg)  
@@ -15111,10 +14570,6 @@ sverху
 
 1 – Насос усилителя рулевого управления; 2 – Впускной трубопровод; 3 - Нагнетающая трубка; 4 - Пневматический выключатель усилителя рулевого управления; 5, 7 - Уплотнительное кольцо; 6 - Болт; 8 - Цветная маркировка на впускном трубопроводе (по периметру - белая или желтая); 9 - Фиксатор;10 -Гайка; 11 - Кронштейн.
 
-# 8. ТОРМОЗНЫЕ СИСТЕМЫ
-
-# РАБОЧАЯ ТОРМОЗНАЯ СИСТЕМА
-
 # 1. УДАЛЕНИЕ ВОЗДУХА ИЗ ТОРМОЗНОЙ СИСТЕМЫ
 
 1. Наденьте шланг на резьбовую пробку вентиляционного отверстия и откройте пробку.
@@ -15130,8 +14585,6 @@ sverху
 1. Тормозной механизм правого заднего колеса, 2. Тормозной ме- ханизм левого заднего колеса, 3. Тормозной механизм правого пе- реднего колеса, 4. Тормозной ме- ханизм левого переднего колеса.
 
 # 2. ВЫКЛЮЧАТЕЛЬ СТОП-СИГНАЛОВ
-
-# Регулировка
 
 1.Снимите щиток, находящийся под панелью приборов со стороны во- дителя.
 
@@ -15200,8 +14653,6 @@ sverху
 # Снятие
 
 1. Отсоедините отрицательный провод от батареи.
-
-# Кроме автомобилей
 
 # с двигателями 1.6 л/55 кВт
 
@@ -15333,8 +14784,6 @@ sverху
 
 # 5.2.1. Накладки и корпус суппорта дискового тормозного механизма
 
-# Снятие
-
 1.Снимите колеса. 2.Снимите крышки (стрелки) (рис. 8.20).
 
 ![](images/9fd2b88d083174c34d36a05d8da8f227cba210cdaa9c7befc98dbb4d9f26e41f.jpg)  
@@ -15420,8 +14869,6 @@ sverху
 Рис. 8.30. Установите внутреннюю уплотняющую кромку сальника в канавку цилиндра с помощью пластмассового клина «3409».
 
 # 6. ТОРМОЗНЫЕ МЕХАНИЗМЫ ЗАДНИХ КОЛЕС
-
-# 6.1. Барабанные тормозные механизмы
 
 Барабанные тормозные механизмы задних колес показаны на рис. 8.32а,б.
 
@@ -15548,8 +14995,6 @@ sverху
 
 # 6.2.1. Накладки
 
-# Снятие
-
 1. Снимите колеса. 2. Отцепите трос привода сто- яночной тормозной системы от суп- порта дискового тормозного меха- низма 3. Выкрутите болты из корпуса опоры суппорта дискового тормоз- ного механизма, придерживая при этом направляющие пальцы (рис. 8.41).
 
 ![](images/3b42eafe190f3d28290935ffbfc44a592028c1ccbd569978283f35082300606e.jpg)  
@@ -15621,11 +15066,7 @@ sverху
 
 3409
 
-# СТОЯНОЧНАЯ ТОРМОЗНАЯ СИСТЕМА
-
 # 7. ТРОС ПРИВОДА СТОЯНОЧНОЙ ТОРМОЗНОЙ СИСТЕМЫ
-
-# Снятие
 
 На всех автомобилях
 
@@ -15659,8 +15100,6 @@ sverху
 
 # АНТИБЛОКИРОВОЧНАЯ СИСТЕМА АВS
 
-# 8. ГИДРАВЛИЧЕСКИЙ БЛОК АВS
-
 Гидравлический блок АBS показан  на рис. 8.53.
 
 ![](images/2f11b047609441850039d9565803c37b51eb8efb2c6e865ee0bcdad73baafeef.jpg)  
@@ -15676,8 +15115,6 @@ N —
 # Установка
 
 11. Установка производится в по- рядке, обратном снятию.
-
-# Снятие
 
 # Кроме двигателей 1.6 л/55 кВт:
 
@@ -15720,8 +15157,6 @@ N —
 14. Прикрутите  гидравлический блок к кронштейну. 15. Присоедините трубопрово- ды тормозного привода к гидравли- ческому блоку и затяните их. 16.Прикрутите гидравлический блок (стрелки) (рис. 8.58). 17.Присоедините многоконтактный разъем проводки к блоку управления ABS и закрепите его. 18. Далее установка проводится в порядке, обратном снятию.
 
 # 9. ДАТЧИКИ ЧАСТОТЫ ВРАЩЕНИЯ КОЛЕС СИСТЕМЫ АВS
-
-# Снятие
 
 1. Поднимите автомобиль. 2. Отсоедините разъем провод- ки от датчика частоты вращения (стрелка) и открутите болт 2 (рис. 8.59).
 
@@ -15797,10 +15232,6 @@ N —
 
 # 9. ЭЛЕКТРООБОРУДОВАНИЕ АВТОМОБИЛЯ
 
-# 1. СТАРТЕР
-
-# Снятие
-
 1. Отсоедините отрицательный про- вод от батареи.
 
 # На автомобилях с дизельным двигателем
@@ -15823,8 +15254,6 @@ N —
 7. Установка проводится в порядке, обратном снятию.
 
 # 2. ГЕНЕРАТОР
-
-# Снятие
 
 1. Отсоедините отрицательный провод от батареи.   
 2.Переместите натяжной ролик в направлении стрелки и ослабьте ремень привода генератора (рис. 9.4).
@@ -15865,11 +15294,7 @@ HHAH/--O
 
 6. Установка проводится в порядке, обратном снятию.
 
-# 2.2. Автомобили
-
 # с дизельными двигателями
-
-# Снятие
 
 1. Отсоедините отрицательный провод от батареи.
 
@@ -15880,8 +15305,6 @@ HHAH/--O
 Рис. 9.7. Открутите болты компрессора А.
 
 8. Подвесьте компрессор с присое- диненными трубками на кузов.
-
-# На автомобилях
 
 # с дополнительным радиатором
 
@@ -15896,8 +15319,6 @@ HHAH/--O
 11. Установка проводится в поряд- ке, обратном снятию.
 
 # 3. ФАРЫ
-
-# Снятие
 
 1. Открутите болт (стрелка) (рис. 9.8).
 
@@ -15931,8 +15352,6 @@ HHAH/--O
 
 1
 
-# 10. КУЗОВ
-
 # 1. ПЕРЕДНЯЯ ЧАСТЬ КУЗОВА
 
 Сборочная схема передней части кузова показана на рис. 10.1.
@@ -15961,8 +15380,6 @@ HHAH/--O
 8. Сборка проводится в порядке, обратном разборке.
 
 # 2. ЗАМЕНА ПЕРЕДНЕЙ СТЕНКИ КУЗОВА
-
-# Разборка
 
 1. Снимите бампер. 2. Снимите переднюю фару. 3. Выкрутите винты 2 и 3 крепле- ния передней стенки кузова 1 (рис. 10.2). 4. Выкрутите винты 1 кронштейна крепления радиатора 3, закрепите ра- диатор 4 на двигателе (рис. 10.3).
 
@@ -16020,8 +15437,6 @@ HHAH/--O
 
 # 5. КРЫШКА БАГАЖНИКА
 
-# Снятие
-
 1. Снимите молдинг крышки ба- гажника. 2. Отсоедините разъемы проводки и извлеките провод из крышки. 3. Снимите газонаполненные амортизаторы. 4.Выкрутите винты 1 крепления шарниров 2 и снимите крышку (рис. 10.7).
 
 ![](images/90f65094a9aa9a9174a1c705ef87b462a33790212a48c172550d32f18f929ba5.jpg)  
@@ -16032,8 +15447,6 @@ HHAH/--O
 5. Установка проводится в поряд- ке, обратном снятию.
 
 # 6. ГАЗОНАПОЛНЕННЫЙ АМОРТИЗАТОР
-
-# Снятие
 
 1. Откройте крышку багажника и подоприте ее.
 
@@ -16096,8 +15509,6 @@ HHAH/--O
 Рис. 10.13. Выкрутите стопорную шпильку 1 из верхней петли и болты 2 крепления нижней петли.
 
 # 10. СТЕКЛОПОДЪЕМНИК
-
-# Снятие
 
 1. Снимите молдинг двери. Снимите шумопоглощающую и уплотнительную пленку. 3. Опустите или же поднимите стекло так, чтобы зажимные колодки стекла попали в монтажные отвер- стия.
 
@@ -16239,11 +15650,7 @@ Octavia Combi:
 
 ![](images/48956ba5fb1db5ee4eaa7359009ad9b2bb6e42d926489a5a78253059c91c079c.jpg)
 
-# 18. ПАНЕЛЬ ПРИБОРОВ
-
 # 18.1. Панель приборов автомобилей выпуска 08.96-08.98 гr.
-
-# Снятие
 
 1. Отсоедините отрицательный провод от батареи. 2. Снимите рулевое колесо.
 
@@ -16313,8 +15720,6 @@ Octavia Combi:
 автоматического натяжного механизма.
 
 # 18.2. Панели приборов автомобилей, начиная с VI/98 г. выпуска
-
-# Снятие
 
 1. Отсоединитеотрицательный провод от батареи.   
 2. Снимите панель (выступающую часть пола) под панелью приборов.   
@@ -16447,8 +15852,6 @@ C 4 3
 Рис. 10.40б. Молдинги передней двери с электростеклоподъемником:
 
 # 20. ЗАДНИЕ СИДЕНЬЯ
-
-# Снятие
 
 1. Сдвиньте сиденье вперед, потя- нув за петли (стрелка), и откиньте его (рис. 10.41).
 
@@ -16636,8 +16039,6 @@ h ( 4 8 5 4 ot on 8 \$ 0 8 1 ои 880 5 8 25 1 g 3 3 VS X 8 2 v 2 2 8 V 0 (79 22
 
 ![](images/f881e57f70ca992ccf4acf41bc8b665b2e42a80e180858818c74ee7db31531e4.jpg)
 
-# СОДЕРЖАНИЕ
-
 # ВСТУПЛЕНИЕ. 3
 
 Габаритные размеры Skodа Octavia   
@@ -16647,8 +16048,6 @@ h ( 4 8 5 4 ot on 8 \$ 0 8 1 ои 880 5 8 25 1 g 3 3 VS X 8 2 v 2 2 8 V 0 (79 22
 Skoda Octavia Combi 6
 
 # РУКОВОДСТВО ПО ЭКСПЛУАТАЦИИ . . . . . .
-
-# 1.ТЕХНИЧЕСКОЕОБСЛУЖИВАНИЕ АВТОМОБИЛЯ 32
 
 1. Идентификация автомобиля и его агрегатов . 32 2. Плановое техническое обслуживание 33 3. Проверка и регулировка света фар 34 4. Проверка уровня моторного масла 35 5. Замена моторного масла 35 6. Замена масляного фильтра 35 7.Замена топливного фильтра (дизельные двигатели) 36 8. Слив конденсата из топливного фильтра (дизельные двигатели) 36 9. Проверка состояния ремня привода генератора 36 10. Проверка свечей зажигания 36 11. Проверка уровня масла в бачке усилителя рулевого управления . 36 12. Проверка уровня масла в механической коробке передач 37 13. Замена тормозной жидкости 37 14. Проверка толщины тормозных накладок 37 15. Поднятие автомобиля 37 16. Содержание вредных веществ в отработавших газах 38
 
@@ -16700,8 +16099,6 @@ Skoda Octavia Combi 6
 # СИСТЕМА ВЫПУСКАОТРАБОТАВШИХ ГАЗОВ . .. . 66
 
 21. Замена передней части выпускного трубопровода 67 22. Выпускной коллектор 67 23. Замена переднего и заднего глушителей шума 67
-
-# ДBИГATEЛИ «AGN» и «AGU» 1.8 л
 
 # 24. Зубчатый ремень привода распределительных
 
@@ -16817,10 +16214,6 @@ Skoda Octavia Combi 6
 
 # 4. СИСТЕМЫ УПРАВЛЕНИЯ ДВИГАТЕЛЕМ (ТОПЛИВО- И ВОЗДУХОПОДАЧИ, СИСТЕМА ЗАЖИГАНИЯ) . 125
 
-# СИСТЕМА УПРАВЛЕНИЯ ДВИГАТЕЛЕМ 1АVМ ДВИГАТЕЛЯ«АЕЕ» 125
-
-# СИСТЕМА ВПРЫСКАТОПЛИВА. 126
-
 1. Проверка режимов работы двигателя 126 2.Лямбда-зонд. 126 2.1. Проверка подачи напряжения 126 2.2. Проверка сигнального провода лямбда-зонда и активации (возбуждения) 126 3. Проверка механизма управления дроссельной заслонкой 127 3.1. Проверка выключателя холостого хода 127 3.2. Проверка установочного элемента и потенциометра дроссельной заслонки. 127 3.3. Проверка потенциометра дроссельной заслонки 127 4. Проверка электропитания и проводов, ведущих к блоку управления двигателем 128 5. Проверка датчика потока воздуха 129 6. Проверка датчика температуры охлаждающей жидкости 129 7. Проверка датчика температуры входящего воздуха. 130 8. Приспособление блока управления двигателя к иммобилайзеру 131 9. Проверка форсунок 132 10. Проверка регулятора давления топлива . 132 11. Проверка электромагнитного клапана системы улавливания паров бензина 133
 
 12. Проверка реле возбуждения топливного насоса 134 13. Замена блока управления двигателя 134
@@ -16829,11 +16222,7 @@ Skoda Octavia Combi 6
 
 14. Проверка и регулировка опережения зажигания 135 15. Проверка датчика частоты вращения 136 16. Проверка трансформатора высокого напряжения 136
 
-# 17. КОДЫ НЕИСПРАВНОСТЕЙ СИСТЕМЫ УПРАВЛЕНИЯ ДВИГАТЕЛЕМ 1 АVМ 137
-
 # СИСТЕМААВТОМАТИЧЕСКОГО УПРАВЛЕНИЯ «SИМОS 2» ДВИГАТЕЛЯМИ «АЕН» И«АКL».. 138
-
-# СИСТЕМАВПРЫСКАТОПЛИВА 138
 
 1. Проверка памяти неисправностей и очистка ее содержимого 138 2. Проверка форсунок 139 2.1. Проверка сопротивления форсунки 139 2.2. Проверка электропроводности форсунки . 139 2.3. Проверка возбуждения (срабатывания) форсунок 139 3. Проверка количества впрыскиваемого топлива, герметичности и формы струи форсунок. 139 4. Проверка реле топливного насоса 140 4.1. Проверка реле топливного насоса 140 4.2. Проверка электропитания и возбуждения (срабатывания) реле топливного насоса 140 5. Проверка датчика положения дроссельной заслонки 141
 
@@ -16846,8 +16235,6 @@ Skoda Octavia Combi 6
 СИСТЕМАУПРАВЛЕНИЯ ДВИГАТЕЛЕМ«МОТРОНИС» ДВИГАТЕЛЕЙ «АGN» И«АGU» 1.8 л 146
 
 # СИСТЕМА УПРАВЛЕНИЯ ДВИГАТЕЛЕМ «МОТРОНИС» ДВИГАТЕЛЯ«AGН» 1.8 л 146
-
-# СИСТЕМАВПРЫСКАТОПЛИВА 146
 
 1. Проверка количества впрыскиваемого топлива. . 149   
 2. Проверка форсунок 151   
@@ -16866,17 +16253,11 @@ Skoda Octavia Combi 6
 
 6. Проверка оконечного мощного каскада 157 7. Проверка катушек зажигания 158 8. Проверка датчиков детонационного сгорания 158 9. Проверка датчика частоты вращения распределительного вала 158
 
-# КОДЫ НЕИСПРАВНОСТЕЙ СИСТЕМЫ УПРАВЛЕНИЯ ДВИГАТЕЛЕМ«МОТРОНИС» 159
-
 # СИСТЕМА ВПРЫСКА ТОПЛИВАДИЗЕЛЬНЫХ ДВИГАТЕЛЕЙ 1.9 TDI «АGR» И «АНF» 160
 
 10. Опрос памяти неисправностей и ее очистка 161 11. Топливный насос высокого давления 162 12. Топливный фильтр 162 13.Форсунки 162 14. Проверка датчика температуры входящего воздуха . 163 15. Проверка регулировки давления впрыска 163 16. Проверка системы рециркуляции отработавших газов 164 17.Проверка электромагнитного клапана рециркуляции отработавших газов . 165 18. Проверка датчика расхода воздуха 165 19. Проверка датчика частоты вращения коленчатого вала 166 20. Проверка датчика перемещения иглы форсунки 166 21. Турбонаддув 167 21.1. Проверка давления сжатого воздуха 167 21.2. Проверка электромагнитного клапана ограничения давления сжатого воздуха . 167 22. Проверка накаливания . 168 23. Проверка свечей накала 168 24. Топливный насос высокого давления 168 25. Динамическая проверка и регулировка начала впрыска топлива 170 26. Проверка датчика температуры входящего воздуха . 171 27. Проверка регулятора положения заслонки 171
 
 # КОДЫ НЕИСПРАВНОСТЕЙСИСТЕМЫ УПРАВЛЕНИЯ ДВИГАТЕЛЕМ 1.9 ТDI 172
-
-# 5. ТРАНСМИССИЯ 173
-
-# СЦЕПЛЕНИЕ 173
 
 1. Привод управления сцеплением 173   
 2. Гидравлический привод сцепления . 173   
@@ -16899,10 +16280,6 @@ Skoda Octavia Combi 6
 13. Разборка и сборка коробки передач 188   
 14. Конструкция валов коробки передач 192
 
-# ДИФФЕРЕНЦИАЛ 194
-
-# 6. ПОДВЕСКА 194
-
 # ПЕРЕДНЯЯ ПОДВЕСКА 194
 
 1. Нижний рычаг подвески. 195   
@@ -16919,8 +16296,6 @@ Skoda Octavia Combi 6
 
 # ЗАДНЯЯ ПОДВЕСКА (БАРАБАННЫЕ ТОРМОЗНЫЕ
 
-# МЕХАНИЗМЫ) 204
-
 10. Снятие и установка задней подвески (барабанные тормозные механизмы) 204 10.1. Резинометаллическая опора 205 11. Амортизаторная стойка 205
 
 # ЗАДНЯЯ ПОДВЕСКА (ДИСКОВЫЕТОРМОЗНЫЕ МЕХАНИЗМЫ) 206
@@ -16928,19 +16303,13 @@ Skoda Octavia Combi 6
 12. Резинометаллическая опора . . 206   
 13. Амортизаторная стойка 206
 
-# КОЛЕСА И ШИНЫ 206
-
 # 14. Проверка и регулировка схождения передних
-
-# колес 206
 
 15. Технические характеристики углов установки передних колес 207 16. Технические характеристики углов установки задних колес 207 17. Размеры шин, применяемых на автомобиле в зависимости от типа двигателя 207
 
 # 7. РУЛЕВОЕ УПРАВЛЕНИЕ 208
 
 1. Рулевой вал 208 2. Рулевой механизм 209 3. Наконечники рулевых тяг 211 4. Поперечные рулевые тяги 211 5. Регулировка рулевого механизма ZF 212 6. Снятие, проверка и установка насоса усилителя рулевого управления 212 7. Пневматический выключатель усилителя рулевого управления 215
-
-# 8. ТОРМОЗНЫЕСИСТЕМЫ 216
 
 # РАБОЧАЯ ТОРМОЗНАЯ СИСТЕМА 216
 
@@ -17062,7 +16431,6 @@ e-mail: info@autocentre.ua http://www.autocentre.ua Golf V
 
 Также приведена информация об обеспечении пассивной безопасности автомобиля, о размерах кузова (контрольных точках), перечни признаков возможных неисправ- ностей и кодов неисправностей,которые помогут вам поставить диагноз автомобилю.
 ### KODA
-`skoda_octavia_ru_8d47e867` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 OCTAVIA   
 1996-2002 г.B. Бензин/Дизель
 
@@ -17070,7 +16438,6 @@ OCTAVIA
 
 
 ### SKODA OCTAVIA
-`skoda_octavia_ru_98c04a0d` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:2 | doc_type:owners_manual
 ХЕТЧБЕК и УНИВЕРСАЛ
 
 1996-2002 г.г. выпуска
@@ -17083,19 +16450,16 @@ OCTAVIA
 
 
 ### Бензиновые двигатели
-`skoda_octavia_ru_fd4d651f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:3 | doc_type:owners_manual
 «AEE» 1.6 л (55 кВт/75 л.с.) «AEH», «AKL» 1.6 л (74 кВт/101 л.C.) «AGN» 1.8 л (92 кВт/120 л.с.) «AGU» 1.8 л (110 кВт/150 л.с.) «AQY» 2.0 л (85 кВт/115 л.C.)
 
 
 ### Дизельные двигатели
-`skoda_octavia_ru_dbc5014a` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:4 | doc_type:owners_manual
 «AGP» 1.9 TDI (50 кВт/68 л.с.) «AGR» 1.9 TDI (66 кBт/90 л.C.) «AHF» 1.9 TDI (81 кBT/110 л.C.)
 
 ![](images/3c2d77086faba9f472bfb2cdebe901149781596728fc381a539baf82caf59d70.jpg)
 
 
 ### © "Автомастер", 2003 - 2006
-`skoda_octavia_ru_6bdc0398` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:5 | doc_type:owners_manual
 Все права защищены.
 
 Копирование или иное воспроизведение этой публикации, а также любой ее части электронным или ме- ханическим способом, включая запись на любой носитель информации и фотографирование, без письмен- ного разрешения издательства запрещается.
@@ -17109,7 +16473,6 @@ Skoda Осtaviа, хетчбек и универсал: 1996-2002 г.г. вып.
 
 
 ### ВСТУПЛЕНИЕ
-`skoda_octavia_ru_19614f2d` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:6 | doc_type:owners_manual
 Легковые автомобили «Sкоdа» можно разделить на не- сколькогрупп. Первая - семейство автомобилей малого клас- ca Forman, Favorit, Felicia, выпускаемыe с 1983 пo 2000 год, Фабiа – с 1999 года, вторая группа – семейство автомобилей среднего класса Осtavia, выпускаемых с 1996 года.
 
 Заслуженную восточноевропейскую марку (основана в 1986-м как Лаurin – Кlеmеnt; Skоdа – с 1925 года) можно счи- тать единственной из всего бывшего социалистического автопрома, вышедшей на мировой рынок. В начале 200 1 года, полностью прекратив сборку моделей семейства Fеliсиа, включая популярные пикапы и фургоны,чешская фирма пе- решла на «платформенную» идеологию и теперь выпускает автомобили только на общих с VW агрегатах, но при этом модели «Sкоdа» стоят на 15-20% дешевле, чем модели VW, что делает их столь популярными.
@@ -17131,7 +16494,6 @@ Skoda Octavia
 
 
 ### общий вид
-`skoda_octavia_ru_207d0f74` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:7 | doc_type:owners_manual
 ![](images/d6860356c28345324c85f90424e584d505bfcbd4a07e19672da6052cd4367be5.jpg)
 
 Расположение органов управления и форма панели приборов зависят от исполнения модели. Составные части оборудования, обозначенные\*, устанавливаются се- рийно только на некоторые определенные модели или же их поставляют только как специальное оборудование, по особому заказу. 0 автомобилей с правым рулевым управлением расположение не- которых органов управления отличается. Однако символы, применяемые на органах управления таких автомобилей, соответствуют символам, применяемым в автомо- билях с левым рулевым управлением.
@@ -17153,33 +16515,28 @@ Skoda Octavia
 
 
 ### 1. КЛЮЧИ
-`skoda_octavia_ru_c6a8cfda` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:8 | doc_type:owners_manual
 ![](images/8eeba08b27b298812f9ed490f13099ec1924265df9e493e74c08c9392fdc6766.jpg)
 
 В комплект автомобиля входят два ключа. С их помощью можно открыть все замки автомобиля. К ключам при- лагается брелок с цифровым обозна- чением ключей.
 
 
 ### Брелок
-`skoda_octavia_ru_abdf1150` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 К одному из ключей прикреплен пластмассовый брелок с номером ключа. По этому номеру вы легко смо- жете получить на станции техническо- го обслуживания Skodа запасной ключ.
 
 Внимание! Брелок с номером храните в защищенном месте, ибо в случае утери или же по- вреждения ключа можно заказать изготовление ключа лишь по этому номеру.
 
 
 ### Ключ с фонариком
-`skoda_octavia_ru_e3240be6` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:10 | doc_type:owners_manual
 Фонарь загорается при нажатии кнопки, находящейся посредине клю- 4а(1).
 
 ![](images/03f9c9a780fd80b6d574f7b7d33cacb6a0e93461148e4da95b90719899991bc5.jpg)
 
 
 ### Замена батарейки или же лампочки
-`skoda_octavia_ru_7a0b335a` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 вложите монету в щель, нахо- дящуюся сбоку ключа (2), и удалите верхнюю крышку; . замените батарейку или же лам- почкуи установите крышку на место.
 
 
 ### Иммобилайзер
-`skoda_octavia_ru_7d90f288` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:12 | doc_type:owners_manual
 Каждый раз при повороте ключа в положение «ОN» ответчик, находя- щийся внутри ключа, посылает иден- тификационный код на антенну замка зажигания. Для того чтобы двигатель запустился, этот идентификационный код должен соответствовать коду, за- писанномув блокуправления иммоби- лайзера. Если коды соответствуют друг другу, иммобилайзер посылает сигнал, разрешающий запуск двигате- ля, в блок управления двигателя. Без указанного кода двигатель не запус- тится. Электронный иммобилайзер значительно снижает риск угона авто- мобиля.
 
 При получении новых (запасных) ключей двигатель должен быть пере- программирован под код, записанный в них.
@@ -17198,33 +16555,30 @@ Skoda Octavia
 снаружи, с помощью ключа за- жигания; выключателями 1 и 2, установ- ленными на двери водителя: выключа- тель 1 - запирание автомобиля; вы- ключатель 2 - открывание автомобиля; 9 кнопками фиксатора передних дверей только на автомобилях, кото- рые оснащены кнопками 1 и 2 (рисунок, выделенный кругом); © с помощью устройства дистан- ционного управления.
 
 
-### Внимание!
-`skoda_octavia_ru_04efc809` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:13 | doc_type:owners_manual
-при открывании все кнопки   
-фиксаторов перемещаются вверх; при запирании дверь водителя   
-должна быть закрыта. Остальные две-   
-ри можно закрыть даже после осуще-   
-ствленного запирания; • при запирании все кнопки фик-   
-саторов должны переместиться вниз.   
-Если это не произошло, откройте со-   
-ответствующую дверь еще раз и за-   
-кройте ее правильно; . правильное запирание дверей   
-подтверждает мигающий индикатор,   
-установленный в двери водителя на   
-кнопке фиксатора. Индикатор не мига-   
-ет,еслидеактивировано защитное   
-блокирующее устройство. Это не рас-   
-пространяется на автомобили, обору-
-
-дованные противоугонной сигнализа- цией, так как приведенный индикатор показывает активацию противоугон- ной системы;
-
-с помощью переключателей 1 или 2, установленных в дверях, авто- мобиль можно, если он не заперт из- вне, открывать и запирать даже без ключа зажигания;
-
-открывать и запирать крышку багажника можно выключателями 1 или 2 и ключом.
+> ⚠️ **Внимание:** при открывании все кнопки
+> фиксаторов перемещаются вверх; при запирании дверь водителя   
+> должна быть закрыта. Остальные две-   
+> ри можно закрыть даже после осуще-   
+> ствленного запирания; • при запирании все кнопки фик-   
+> саторов должны переместиться вниз.   
+> Если это не произошло, откройте со-   
+> ответствующую дверь еще раз и за-   
+> кройте ее правильно; . правильное запирание дверей   
+> подтверждает мигающий индикатор,   
+> установленный в двери водителя на   
+> кнопке фиксатора. Индикатор не мига-   
+> ет,еслидеактивировано защитное   
+> блокирующее устройство. Это не рас-   
+> пространяется на автомобили, обору-
+>
+> дованные противоугонной сигнализа- цией, так как приведенный индикатор показывает активацию противоугон- ной системы;
+>
+> с помощью переключателей 1 или 2, установленных в дверях, авто- мобиль можно, если он не заперт из- вне, открывать и запирать даже без ключа зажигания;
+>
+> открывать и запирать крышку багажника можно выключателями 1 или 2 и ключом.
 
 
 ### Защитное блокирующее устройство
-`skoda_octavia_ru_a97e2475` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 В результате закрывания автомо- биля снаружи наступает автоматичес- кое блокирование замков дверей. Внутренние кнопки фиксаторов невоз- можно вытащить вверх. Сигнализатор на кнопке мигает. Ни одну из дверей автомобиля не возможно открыть ни изнутри, ни снаружи.
 
 закрывая автомобиль ключом или же с помощью дистанционного устройства,можно вывести защитное блокирующее устройство из действия двукратным запиранием в течение 2-х секунд.
@@ -17239,7 +16593,6 @@ B результате последующего однократного отк�
 
 
 ### Дистанционное управление центральным замком
-`skoda_octavia_ru_ba0bd189` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 ![](images/99c121f2a2b69182f10376b4ab98ff1273df51fbffdd6ac37f9a62ff99820967.jpg)
 
 При открывании автомобиля необ- ходимо кратковременно нажать на кнопку 1. При запирании автомобиля необходимо кратковременно нажать на кнопку 2. Для откидывания ключа наружу необходимо нажать кнопку 3. Заправка ключа внутрь производится нажатием на кнопку 3.
@@ -17252,7 +16605,6 @@ b 2 1
 
 
 ### Отпирание и закрывание дверей автомобиля
-`skoda_octavia_ru_83d58b46` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:16 | doc_type:owners_manual
 Для открывания дверей автомоби- ля кратковременно нажмите кнопку 2. Для запирания дверей автомобиля кратковременно нажмите кнопку 1. В результате двойного нажатия кнопки 1 при запирании в течение 2-х секунд выводится из действия защитное бло- кирующее устройство и наблюдение за внутренним пространством авто- мобиля.
 
 Внимание! Во время нажатия одной из кнопок на ключе мигает индикатор. Если этот индикатор не мигает, это значит, что батарейки ключа разряжены. Проверьте или замените их.
@@ -17263,12 +16615,10 @@ b 2 1
 
 
 ### Синхронизация кода ключа
-`skoda_octavia_ru_b7aa9481` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 Если открыть автомобиль с помо- щью дистанционного управления не- возможно, то, возможно, что не со- впадают коды ключа и блока управ- ления. Это может случиться в том случае, если на кнопку дистанцион- ного управления нажимали несколько раз вне его радиуса действия или после замены батареи устройства дистанционного управления. Поэтому нужно провести синхронизацию кода путем нажатия любой кнопки на уст- ройстве дистанционного управления. Откройте дверь автомобиля ключом в течение одной минуты с момента на- жатия кнопки.
 
 
 ### 2. ПОДУШКИ БЕЗОПАСНОСТИ (AIR BAG)
-`skoda_octavia_ru_2863f98f` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:18 | doc_type:owners_manual
 Передние подушки безопасности
 
 Подушки безопасности «Air bag» находятся в рабочем состоянии лишь при включенном зажигании.
@@ -17303,21 +16653,18 @@ b 2 1
 При активации системы подушки безопасности наполняются рабочим газом, надуваясь перед водителем и пассажиром, сидящим рядом с ним. Подушка безопасности надувается за считанные секунды для того, чтобы оказать дополнительную защиту при аварии. В результате погружения во- дителя и пассажира, сидящего рядом с ним, в полностью надутую подушку, смягчается их движение в переднем направлении, понижая тем самым опасность получения травмы головы и верхней части туловища. Специально разработанная подушка безопасности позволяет при нагрузке, получившейся вследствие столкновения с пассажи- ром, получить контролируемое выпус- кание газа, благодаря чему она мягко подхватывает голову и верхнюю часть туловища. После транспортного про- исшествия подушка безопасности опорожняется до такой степени, что восстанавливаетсяобзорность вперед.
 
 
-### Внимание!
-`skoda_octavia_ru_b00180dd` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:19 | doc_type:owners_manual
-По указанным причинам очень важно соблюдать определенное рас- стояние от рулевого колеса или пане- ли приборов до пассажиров. Кроме того, положение передних сидений всегда должно быть отрегулировано в зависимости от роста сидящего на нем пассажира.
-
-Запрещается разбирать от- дельные элементы подушек безопас- ности, чтобы избежать срабатывания модулей.
-
-Срок эксплуатации модулей системы - 15 лет с даты выпуска ав- томобиля. По истечении этого време- ни следует обратиться на станцию технического обслуживания Sкоdа и заменить модуль.
-
-Система «Air bag» не заменяет ремней безопасности, а является неотъемлемойчастью пассивной безо- пасности автомобиля. Подушки безо- пасности активируются лишь при усло- вии пристегивания ремнями безопас- НOCТИ.
-
-![](images/071aa77e0cd83b18cabe369b9dd3bd43ebdf2ba7b6f8d4c602798cede775f887.jpg)
+> ⚠️ **Внимание:** По указанным причинам очень важно соблюдать определенное рас- стояние от рулевого колеса или пане- ли приборов до пассажиров. Кроме того, положение передних сидений всегда должно быть отрегулировано в зависимости от роста сидящего на нем пассажира.
+>
+> Запрещается разбирать от- дельные элементы подушек безопас- ности, чтобы избежать срабатывания модулей.
+>
+> Срок эксплуатации модулей системы - 15 лет с даты выпуска ав- томобиля. По истечении этого време- ни следует обратиться на станцию технического обслуживания Sкоdа и заменить модуль.
+>
+> Система «Air bag» не заменяет ремней безопасности, а является неотъемлемойчастью пассивной безо- пасности автомобиля. Подушки безо- пасности активируются лишь при усло- вии пристегивания ремнями безопас- НOCТИ.
+>
+> ![](images/071aa77e0cd83b18cabe369b9dd3bd43ebdf2ba7b6f8d4c602798cede775f887.jpg)
 
 
 ### Указания по технике безопасности
-`skoda_octavia_ru_df2281f6` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:20 | doc_type:owners_manual
 Для того чтобы боковые подушки безопасности могли предоставлять максимальную степень защиты, нужно занимать во время движения автомо- биля правильное положение на сиде- нье,ограничиваемое пристегнутыми ремнями безопасности.
 
 Нельзя, чтобы между пассажирами и зоной эффективного действия надув- ных подушекбезопасности находились другие лица, животные или предметы. Также нельзя, чтобы на дверях находи- лись разного рода принадлежности, как, например, держатели для банок с напитками и т.д.
@@ -17336,46 +16683,41 @@ b 2 1
 
 
 ### Безопасность детей
-`skoda_octavia_ru_fd28939f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 Статистика транспортных аварий доказывает, что перевозка детей на задних сиденьяхявляется безопаснее, чем на сиденьи рядом с водителем.
 
 Дети до 12 лет, при нормальных усло- виях, должны сидеть на заднем сиде- ньи. Согласно возрасту, росту и весу безопасность ребенка должна обес- печиваться либо детским креслом, либо ремнями, которые являются со- ставной частью автомобиля. В целях безопасности детские кресла должны монтироваться за сиденьем, находя- щимся рядом с сиденьем водителя.
 
 
-### Внимание!
-`skoda_octavia_ru_32774c3d` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
-Во время езды все участники движения и, прежде всего, дети должны быть пристегнуты рем- нями.
-
-Никогда не разрешайте свое- му ребенку во время езды вста- вать на кресле или становиться на колени. В противном случае при аварии ваш ребенок будет выброшен из кресла И B peзультате удара может получить смертельное ранение.
-
-Если дети во время езды на- клонены  вперед  или занимают неправильное сидячее положе- ние, то они подвергаются повы- шенному риску повреждения B случае аварии. Это относится, прежде всего, к детям, которые при езде сидят на сиденьи рядом с водителем, а при аварии акти- визируется система «Аігбаg». Ре- зультатом этого может быть серь- езное или даже смертельное ра- нение.
-
-Детей, рост которых не превы- шает 150 см, нельзя без приме- нения специальной системы при- стегивания для детей, пристеги- вать обычными ремнями, так как в случае аварии они могут полу- чить ранения шеи и брюшной ча- сти тела.
-
-![](images/3931ec46b1e1459d0780f62965efc9ad91e6967995ae77864061c246e7ae6724.jpg)
-
-Ни в коем случае люди, едущие в автомобиле, не должны возить де- тей (независимо от их возраста) на коленях.
-
-Дети, пристегнутые в детском кресле, не должны оставаться без надзора.
-
-Для детей можно использовать только системы пристегивания, кото- рые имеют официальное утверждение и пригодны для детей. Для перевозки детей действует предписание ЕСЕ - R44, в соответствии с которым систе- мы для пристегивания детей разделе- ны на 5 классов:
-
-кlасс 0: 0-10 кr класс 0+: до 13 кг клaсс 1: 9-18 кр класс 2: 15-25 кр кlaсс 3: 22-36 Kr
-
-Системы для пристегивания детей, которые прошли испытания согласно предписанию ЕСЕ - R44, на детском сиденье обозначены соответствую- щим символом — буквой Е, в кругу под ним приводится номер протокола ис- пытания.
-
-![](images/a3e2edf2a6dd9c6cbd36cd03b3ec2436f3022d3122899990a31fed755825266b.jpg)
+> ⚠️ **Внимание:** Во время езды все участники движения и, прежде всего, дети должны быть пристегнуты рем- нями.
+>
+> Никогда не разрешайте свое- му ребенку во время езды вста- вать на кресле или становиться на колени. В противном случае при аварии ваш ребенок будет выброшен из кресла И B peзультате удара может получить смертельное ранение.
+>
+> Если дети во время езды на- клонены  вперед  или занимают неправильное сидячее положе- ние, то они подвергаются повы- шенному риску повреждения B случае аварии. Это относится, прежде всего, к детям, которые при езде сидят на сиденьи рядом с водителем, а при аварии акти- визируется система «Аігбаg». Ре- зультатом этого может быть серь- езное или даже смертельное ра- нение.
+>
+> Детей, рост которых не превы- шает 150 см, нельзя без приме- нения специальной системы при- стегивания для детей, пристеги- вать обычными ремнями, так как в случае аварии они могут полу- чить ранения шеи и брюшной ча- сти тела.
+>
+> ![](images/3931ec46b1e1459d0780f62965efc9ad91e6967995ae77864061c246e7ae6724.jpg)
+>
+> Ни в коем случае люди, едущие в автомобиле, не должны возить де- тей (независимо от их возраста) на коленях.
+>
+> Дети, пристегнутые в детском кресле, не должны оставаться без надзора.
+>
+> Для детей можно использовать только системы пристегивания, кото- рые имеют официальное утверждение и пригодны для детей. Для перевозки детей действует предписание ЕСЕ - R44, в соответствии с которым систе- мы для пристегивания детей разделе- ны на 5 классов:
+>
+> кlасс 0: 0-10 кr класс 0+: до 13 кг клaсс 1: 9-18 кр класс 2: 15-25 кр кlaсс 3: 22-36 Kr
+>
+> Системы для пристегивания детей, которые прошли испытания согласно предписанию ЕСЕ - R44, на детском сиденье обозначены соответствую- щим символом — буквой Е, в кругу под ним приводится номер протокола ис- пытания.
+>
+> ![](images/a3e2edf2a6dd9c6cbd36cd03b3ec2436f3022d3122899990a31fed755825266b.jpg)
 
 
 ### Класс 0/0+:
-`skoda_octavia_ru_563a7989` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
 Для детей грудного возраста, име- ющих вес до 10 кг (в крайнем случае до 13 кг),наиболее подходящим является раскладывающееся детское кресло.
 
 В связи с тем, что эти детские кресла монтируются таким обра- зом, что ребенок сидит спиной к на- правлению движения, нельзя их располагать на сиденье рядом с водителем.
 
 
 ### Класс 1:
-`skoda_octavia_ru_f6fd9000` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:24 | doc_type:owners_manual
 CauT
 
 Этот класс предназначен для груд- ных и маленьких детей весом 9-18 кг. В нижней части данной весовой кате- гории более целесообразным является применение детского кресла, в кото- ром ребенок сидит спиной к направле- нию движения. В весовой категории над классом 0+ оптимальным является детское кресло, в котором дети сидят лицом к направлению движения.
@@ -17386,7 +16728,6 @@ CauT
 
 
 ### Класс 2:
-`skoda_octavia_ru_4d7fa51f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 Для детей весом 15-25 кг оптималь- ными являются детские кресла в ком- бинации с ремнями, крепящимися в трехточках.
 
 Внимание! Плечевая часть рем- ня должна проходить приблизи- тельно через середину плеча, ни в коем случае не должна находиться в области шеи, и должна хорошо прилегать к телу. Нижняя часть ремня должна хорошо прилегать к тазобедренной области и ни в коем случае не располагаться на животе ребенка.
@@ -17395,7 +16736,6 @@ CauT
 
 
 ### Класс 3:
-`skoda_octavia_ru_31f35a02` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:26 | doc_type:owners_manual
 Для детей весом 22-36 кг и ростом ниже 150 см оптимальными являются детские подушки-сиденья в комбина- ции с ремнями, крепящимися в трех точках.
 
 Внимание! Плечевая часть рем- ня должна проходить приблизи- тельно через середину плеча, ни в коем случае не должна находиться в области шеи, и должна хорошо прилегать к телу. Нижняя часть ремня должна всегда прилегать к тазобедренной области и ни в коем случае не располагаться на живо- те ребенка.
@@ -17410,7 +16750,6 @@ CauT
 
 
 ### Использование детского кресла на сиденье рядом с водителем
-`skoda_octavia_ru_818363bb` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:27 | doc_type:owners_manual
 В целях безопасности рекоменду- ется применять детские пристегиваю- щиеся системы на задних сиденьях. Однако, когда, несмотря на рекомен- дации, детское кресло размещается на переднем сидении рядом с водите- лем, вы должны, в связи с использова- нием системы «Airbаg» на сиденье ря- дом с водителем, соблюдать следую- щие инструкции:
 
 Внимание! Никогда не исполь- зуйте на сиденьи рядом с водите- лем такое детское кресло, на кото- ром ребенок сидит спиной к на- правлению движения. Этот тип кресла находится в области дей- ствия активированной системы бе- зопасности. В этом случае ребенок может быть тяжело или смертельно ранен.
@@ -17419,14 +16758,12 @@ CauT
 
 
 ### Безопасность детей и боковые системы «Airbag»
-`skoda_octavia_ru_2cd5d62c` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:28 | doc_type:owners_manual
 Ваш автомобиль Skodа может, до- полнительно к имеющимся системам «Аirbаg», оснащаться также двумя бо- ковыми системами «Аігбаg», которые обеспечивают вам, в случае бокового удара, повышенную безопасность.
 
 Внимание!Для недопущения тяжелых ранений дети всегда должны перевозиться в детской пристегивающейся системе, ко- торая установлена в соответ- ствии с возрастом, ростом и ве- сом ребенка. Дети никогда не должны находиться в области, где при выстреливании боковой подушки «Airbаg» могут получить удар по голове.
 
 
 ### Крепление детского кресла («Система ISOFIX»)
-`skoda_octavia_ru_c62403c3` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:29 | doc_type:owners_manual
 ![](images/24f34421edcf15b108e94ab275e1ef53554f454a5ac7c9c68a3bcac295db853c.jpg)
 
 Между внешними задними опорны- ми частями кресла и сиденьем всегда имеются два крепящих отверстия, предназначенные для установки детс- кого кресла с помощью системы «ISOFIX».
@@ -17437,7 +16774,6 @@ CauT
 
 
 ### 3. МЕХАНИЧЕСКАЯ КОРОБКА ПЕРЕДАЧ
-`skoda_octavia_ru_eafafe9c` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:30 | doc_type:owners_manual
 Переключение передач
 
 Схема переключения передач
@@ -17448,7 +16784,6 @@ CauT
 
 
 ### Важно
-`skoda_octavia_ru_b6b08af1` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:31 | doc_type:owners_manual
 Во время движения автомобиля рука не должна лежать на рычаге пере- ключения передач, ибо нажим руки передается на вилку переключения передач, что может со временем при- вести кее повреждению или преждев- ременномуизносу.
 
 Схема переключения передач с шестиступенчатой коробкой передач
@@ -17457,17 +16792,14 @@ CauT
 
 
 ### 4. АВТОМАТИЧЕСКАЯ КОРОБКА ПЕРЕДАЧ
-`skoda_octavia_ru_e843d556` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:32 | doc_type:owners_manual
 ![](images/fdd3c3083e74c0d5a181ed986e0681bd246f37ebb4fe51bb6b1fa9961781e5ec.jpg)
 
 
 ### Положение рычага селектора переключения автоматической коробкой передач.
-`skoda_octavia_ru_ae763da7` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:33 | doc_type:owners_manual
 В поле индикации появляется как раз изображение установленного по- ложения рычага селектора переключе- ния передач (включенной передачи).
 
 
 ### Р (Стоянка/Парковка)
-`skoda_octavia_ru_8fafc9cc` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:34 | doc_type:owners_manual
 Это положение используется для механической блокировки трансмис- сии, когда автомобиль стоит, или при запуске двигателя. Передвигайте ры- чаг в положение «Р» только когда авто- мобиль стоит.
 
 ![](images/f828329a3b79fbdfb1f4a74b77c212d69b693e8a0dea999616ea8b956ad953e7.jpg)
@@ -17478,43 +16810,36 @@ CauT
 
 
 ### R (Задний ход)
-`skoda_octavia_ru_9c0d4f92` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:35 | doc_type:owners_manual
 Задний ход разрешается включать только при остановленном автомоби- ле и частоте вращения двигателя, со- ответствующей холостому ходу. При переводе рычага селектора в положе- ние «R» из положения «Р» или «№» нужно нажать на педаль тормоза и предохра- нительную кнопку на головке рычага селектора. При переводе рычага се- лектора в положение «В»загораются фонари заднего хода.
 
 
 ### N (Нейтральное положение)
-`skoda_octavia_ru_86328c82` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:36 | doc_type:owners_manual
 Для перевода рычага селектора из положения «N» на скоростях менее 5 км/ч нужно, равно как и на останов- ленном автомобиле и при включенном зажигании, нажать педаль тормоза и предохранительную кнопку на головке рычага селектора.
 
 
 ### D (Движение вперед)
-`skoda_octavia_ru_73cc38cd` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 Автоматически переключаются че- тыре передачи в зависимости от на- грузки двигателя, техники вождения и скорости движения автомобиля.
 
 При переключении из положения «D» в положение «3 нужно нажать пре- дохранительную кнопкуна головке ры- чага селектора переключения передач.
 
 
 ### 3 (Движение по пересеченной местности)
-`skoda_octavia_ru_87b02df4` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 Выбор этого положения рекомен- дуется тогда, когда в определенных дорожных условиях в положении «D» происходит слишком частое переклю- чение передач.
 
 Первая, вторая и третья передачи включаются автоматически, в зависи- мости от нагрузки двигателя и скоро- сти движения автомобиля. Четвертая передача остается заблокированной. Этим самым увеличивается «торможе- ние двигателем». При переключении из положения «3» в положение «2» не- обходимо нажать предохранительную кнопку на головке рычага.
 
 
 ### 2 (Движение по гористой местности)
-`skoda_octavia_ru_c1c56c94` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:39 | doc_type:owners_manual
 Это положение рычага селектора автоматической коробки передач вы- годно при продолжительном спуске. Первая и вторая передачи переключа- ются автоматически в зависимости от нагрузки двигателя, техники вождения и скорости движенияавтомобиля. Тре- тья и четвертая передачи остаются заблокированы для того, чтобы пре- дотвратить лишнее переключение на высшие передачи. Этим самым увели- чивается торможение двигателем.
 
 
 ### 1 (Движение по крутым спускам и подъемам)
-`skoda_octavia_ru_89423ce3` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:40 | doc_type:owners_manual
 Это положение рекомендуется для очень крутого спуска и подъема.
 
 Хотя при ручном переключении на низшую передачу можно включить по- ложения «3», «2» и «1», но автоматичес- кое устройство включит передачу лишь тогда, когда уже исключено превыше- ние максимально допустимой частоты вращения вала двигателя.
 
 
 ### Блокировка рычага селектора переключения передач
-`skoda_octavia_ru_2b9abbe5` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:41 | doc_type:owners_manual
 В положениях «Р» и «№» рычаг се- лектора переключения передач при включенном зажигании заблокирован. На кожухе рядом с рычагом селектора переключения передач сигнализатор горит до тех пор, пока не нажата пе- даль тормоза. Для того чтобы перевес- ти рычаг из этого положения в другое, необходимо нажать педаль тормоза, нажимая в то же время блокировочную кнопку на головке рычага селектора переключения передач. Этим предотв- ращается включение передачи с пос- ледующим неожиданным троганием автомобиля с места.
 
 При переключении передач из по- ложения «R» в «D» рычаг не блокирует- ся, благодаря чему возможно осво- бождение застрявшего автомобиля раскачкой. Блокировка сработает лишь в том случае, если рычаг оста- нется при отпущенной педали тормоза в положении «№» более 2-х секунд.
@@ -17523,36 +16848,30 @@ CauT
 
 
 ### Запуск двигателя
-`skoda_octavia_ru_d86421b5` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:42 | doc_type:owners_manual
 Двигатель можно заводить при по- ложениях «N» и «Р» рычага селектора переключения передач.
 
 
 ### Выбор режима движения авто- мобиля
-`skoda_octavia_ru_a1e2ff5e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 Прежде чем приступить к выбору режима движения автомобиля, кото- рый стоит с работающим двигателем, всякий раз нажимайте на педаль тор- моза. Во время выбора передачи не нажимайте на педаль газа. Если во время движения автомобиля вы по ошибке включите положение «№», тогда прежде чем включить заново какой- нибудь другой из режимов для движе- ния автомобиля вперед, нужно отпус- тить педаль газа и подождать, пока частота вращения двигателя будет отвечать холостому ходу.
 
 Внимание! Всегда удерживай- те автомобиль педалью тормоза при переводе рычага селектора переключения передач из поло- жения «Р» или «N» в положение для движения вперед или назад, чтобы предотвратить самовольное пере- мещение автомобиля.
 
 
 ### Разгон
-`skoda_octavia_ru_18862d1d` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:44 | doc_type:owners_manual
 Выберите режим движения (D, 3, 2, 1) и подождите, пока коробка передач не включит передачу, передавая силу сцепления на ведущие колеса (почув- ствуется слабый рывок), а затем лишь нажимайте на педаль акселератора.
 
 
 ### Остановка
-`skoda_octavia_ru_e7b69356` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:45 | doc_type:owners_manual
 При кратковременных остановках, например, перед светофором, не нуж- но включать положение «№». Достаточ- но лишь нажать на педаль тормоза, при этом двигатель должен работать на холостых оборотах.
 
 
 ### Стоянка
-`skoda_octavia_ru_433885b2` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:46 | doc_type:owners_manual
 При стоянке на ровной площадке достаточно перевести рычаг селекто- ра переключения передач в положение «Р». На наклонной площадке сначала необходимо крепко затянуть рычаг стояночного тормоза, а затем переве- сти рычаг селектора переключения пе- редач в положение «Р».
 
 Внимание! Во время стоянки ав- томобиля рычаг селектора пере- ключения передач всегда должен находиться в положении «Р», ибо только это положение исключает самопроизвольное движение авто- мобиля с места.
 
 
 ### Режимы вождения
-`skoda_octavia_ru_ae6e6f5e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:47 | doc_type:owners_manual
 В автоматической коробке пере- дач предусмотрены разные програм- мы режимов вождения. В зависимости от техники вождения или от дорожной ситуации можно выбрать программу либо экономичного, либо спортив- ноговождения.
 
 Выбор программы осуществляет- ся автоматически, в зависимости от способа управления педалью акселе- ратора. В результате медленного на- жатия на педаль акселератора уста- навливается программаэкономич- ного вождения. Этим самым понижа- ется расход топлива.
@@ -17561,12 +16880,10 @@ CauT
 
 
 ### Устройство «kick-down»
-`skoda_octavia_ru_f61b0eb7` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:48 | doc_type:owners_manual
 Устройство «kick-dоwn» позволяет добиться максимального ускорения. Если нажать на педаль акселератора до упора, тогда произойдет включение низшей передачи. Переключение на последующую высшую передачу про- изойдет лишь тогда, когда будет дос- тигнута максимальная частота враще- ния двигателя.
 
 
 ### Аварийная программа
-`skoda_octavia_ru_a6458dbc` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:49 | doc_type:owners_manual
 В случае появления неисправности на электронном устройстве управле- ния работой коробки передач, коробка передач продолжает работать по ава- рийным программам в зависимости от вида неисправности.
 
 Хотя коробка передач переключает передачи таким же образом, как и раньше, однако толчки при переключе- нии передач будут гораздо более ощу- тимы.
@@ -17577,7 +16894,6 @@ CauT
 
 
 ### 5. РЕГУЛИРОВКА РУЛЕВОЙ КОЛОНКИ
-`skoda_octavia_ru_27a4bf90` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:50 | doc_type:owners_manual
 ![](images/6b0466e25e7dcabd3fc66ae4e9c9b2545c838325dd17d55e88c782ddd2db025d.jpg)
 
 Рулевое колесо можно регулиро- вать по высоте и в продольном направ- лении.
@@ -17592,24 +16908,20 @@ CauT
 
 
 ### 6. ЗАМОК ЗАЖИГАНИЯ
-`skoda_octavia_ru_4bbcc878` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 ![](images/6b3b8afd553e09503c909339a9495271fb7a1f60544b72e6b3df4033fe0d5e9c.jpg)
 
 Замок зажигания имеет следую- щие положения:
 
 
 ### LOCK (1)
-`skoda_octavia_ru_f7976856` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 Данное положение используется при постановке автомобиля на стоян- ку. Только в этом положении может быть извлечен ключ зажигания. В этом положении блокируется система зажи- гания и при вытянутом ключе блокиру- ется рулевое колесо. Для нормализа- ции работы рулевого вала необходимо вставить ключ зажигания и провернуть его по часовой стрелке в другое поло- жение. Если рулевое колесо не разбло- кируется при повороте ключа зажига- ния, попробуйте повернуть его легень- ко одновременно с поворотом ключа.
 
 
 ### ACC(2)
-`skoda_octavia_ru_d5f61252` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:53 | doc_type:owners_manual
 В данном положении ключа зажи- гания включается радио и другие ак- сессуары, но запуск двигателя не про- исходит.
 
 
 ### START (3)
-`skoda_octavia_ru_6592919d` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 Это положение используется толь- ко для запуска двигателя. Ключ зажи- гания следует отпускать из этого по- ложения сразу же после запуска дви- гателя.
 
 Внимание! Никогда не выни- майте ключ зажигания во время движения автомобиля. Это приве- дет к блокировке рулевого колеса и потере управляемости автомо- биля, и, как следствие, к серьез- ным повреждениям и травмам.
@@ -17620,19 +16932,16 @@ CauT
 
 
 ### Дизельные двигатели
-`skoda_octavia_ru_6bb67e11` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:55 | doc_type:owners_manual
 1. Прекращение подачи топли- ва, двигатель не работает. 2. Предварительный подогрев топлива.
 
 
 ### 3. Запуск двигателя.
-`skoda_octavia_ru_15179be8` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:56 | doc_type:owners_manual
 Когда включен предварительный подогрев топлива, не рекомендуется включать электропотребители с повы- шенным отбором тока, иначе уменьша- ется емкость аккумуляторной батареи.
 
 Внимание! Если после выключе- ния зажигания или извлечения клю- ча из замка зажигания вы забудете выключить габаритные огни или указатели поворота, тогда после открытия двери прозвучит звуковое предупреждение.
 
 
 ### 7. ЗАПУСК ДВИГАТЕЛЯ
-`skoda_octavia_ru_0fb38d07` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:57 | doc_type:owners_manual
 Внимание! При запуске в ход двигателя в закрытом помеще- нии имеется опасность отрав- ления отработавшими газами!
 
 Прежде чем приступить к пуску двигателя, установите рычаг переклю- чения передач в нейтральное положе- ние (на автомобилях савтоматической трансмиссией в положение «Р или «№») и затяните рычаг стояночного тор- моза.
@@ -17645,7 +16954,6 @@ CauT
 
 
 ### Бензиновые двигатели
-`skoda_octavia_ru_6fd5bfe9` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 Эти двигатели оборудованы систе- мой впрыскивания топлива, которая автоматически обеспечивает подачу необходимой смеси топлива с возду- хом. По этой причине указания по за- пускуэтихдвигателей действуют неза- висимо от температуры окружающей среды и являются одинаковыми для холодного и прогретого двигателя.
 
 До и во время пуска «не нажи- майте на педаль акселератора».
@@ -17656,12 +16964,10 @@ CauT
 
 
 ### Предварительный подогрев (накаливание)
-`skoda_octavia_ru_867ee644` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 После включения зажигания заго- рается индикатор подогрева (накали- вания). После того как индикатор по- гаснет, вы можете запускать двига- тель.
 
 
 ### Пуск холодного двигателя
-`skoda_octavia_ru_f1650fff` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:60 | doc_type:owners_manual
 При температуре окружающей сре- ды более +5 С двигатель можно за- пускать без предварительного подо- грева. В ходе запуска не нажимайте на педаль акселератора.
 
 Переведите ключ зажигания в положение «2», при этом должен заго- реться индикатор подогрева накали- вания), а после д мпера- туры запуска он должен погаснуть.
@@ -17670,25 +16976,21 @@ CauT
 
 
 ### Пуск прогретого двигателя
-`skoda_octavia_ru_7dab3218` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:61 | doc_type:owners_manual
 При пуске прогретого двигателя, имеющего рабочую температуру, ин- дикатор накаливания не загорается, и поэтому можно запускать двигатель сразу.
 
 При более продолжительной по- вышенной нагрузке двигателя выклю- чайте двигатель не сразупосле оконча- ния движения, а дайте двигателю по- работать на холостом ходу около 2 ми- нут. Таким образом вы предотвратите перегрев остановленного двигателя.
 
 
-### Внимание!
-`skoda_octavia_ru_937e061e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
-После остановки двигателя вентилятор системы охлаждения может работать еще некоторое время (до 10 мин.). Даже по истече- нии более длительного промежут- ка времени вентилятор может вне- запно завестись, если:
-
-B результате аккумуляции тепла повысилась температура охлаждающей жидкости;
-
-подкапотное пространство при горячем двигателе дополни- тельно нагревается в результате сильного действия солнечных лу- чей.
-
-По этой причине проводите ра- боты в подкапотном пространстве с повышенной осторожностью.
+> ⚠️ **Внимание:** После остановки двигателя вентилятор системы охлаждения может работать еще некоторое время (до 10 мин.). Даже по истече- нии более длительного промежут- ка времени вентилятор может вне- запно завестись, если:
+>
+> B результате аккумуляции тепла повысилась температура охлаждающей жидкости;
+>
+> подкапотное пространство при горячем двигателе дополни- тельно нагревается в результате сильного действия солнечных лу- чей.
+>
+> По этой причине проводите ра- боты в подкапотном пространстве с повышенной осторожностью.
 
 
 ### 8. 3ВУКОВAЯ СИГНАЛИЗАЦИЯ ПРИ ДВИЖЕНИИ ЗАДНИМ ХОДОМ
-`skoda_octavia_ru_fa45703a` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:63 | doc_type:owners_manual
 Звуковая сигнализация, располо- женная в заднем бампере, измеряет расстояние междузадним бампером и препятствием с помощью ультразву- ковых датчиков. Звуковая сигнализа- ция автоматически активируется при включенном зажигании и включенной передаче заднего хода.
 
 Предупредительный сигнал начи- нается при движении автомобиля зад- ним ходом на расстоянии приблизи- тельно 1,6 м от препятствия. По мере уменьшения расстояния сокращается промежуток времени между отдельны- ми звуковыми сигналами. На расстоя- нии приблизительно 0.3 м раздается непрерывный звуковой сигнал - опас- ная зона. При этом сигнале следует прекратить движение задним хо- дом.
@@ -17696,17 +16998,14 @@ B результате аккумуляции тепла повысилась т
 Внимание! Звуковая сигнали- зация при движении задним ходом не снимает с водителя ответствен- ности при постановке автомобиля на стоянку и прочих подобных ма- неврах. Прежде чем двигаться зад- ним ходом, все-таки убедитесь в том, что позади автомобиля не имеется препятствий небольшого размера, которые могут находить- ся вне зоны действия датчиков.
 
 
-### Внимание!
-`skoda_octavia_ru_345ac342` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:64 | doc_type:owners_manual
-При эксплуатации автомоби- ля с прицепом сигнализация выво- дится из действия.
-
-Если сигнал раздается при- близительно 5 секунд после включе- ния зажигания и при включенной пе- редаче заднего хода, а вблизи авто- мобиля нет препятствия, это означа- ет, что в системе возникла неисп- равность. Для ее устранения необхо- димо обратиться на станцию техни- ческого oбcлуживания Skoda.
-
-Для того чтобы обеспечить правильное действие устройства, необходимо содержать все датчики в чистоте (без обледенения и т.п.).
+> ⚠️ **Внимание:** При эксплуатации автомоби- ля с прицепом сигнализация выво- дится из действия.
+>
+> Если сигнал раздается при- близительно 5 секунд после включе- ния зажигания и при включенной пе- редаче заднего хода, а вблизи авто- мобиля нет препятствия, это означа- ет, что в системе возникла неисп- равность. Для ее устранения необхо- димо обратиться на станцию техни- ческого oбcлуживания Skoda.
+>
+> Для того чтобы обеспечить правильное действие устройства, необходимо содержать все датчики в чистоте (без обледенения и т.п.).
 
 
 ### 9. ЩИТОК ПРИБОРОВ
-`skoda_octavia_ru_f90f5b3d` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 ![](images/83bdf1bd50678e8c274ce0f1987792bc5a289f06a900da93a738792ddf4ef4d7.jpg)
 
 Расположение приборов зависит от модели автомобиля и типа двига- теля.
@@ -17720,7 +17019,6 @@ B результате аккумуляции тепла повысилась т
 
 
 ### 1. Тахометр
-`skoda_octavia_ru_daeca30b` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:66 | doc_type:owners_manual
 Стрелка тахометра ни в коем случае не должна попадать в красную зону.
 
 Внимание! Своевременное пе- реключение на более высокую передачу способствует уменьше- нию расхода топлива и снижению шума, вызванного работой авто- мобиля.
@@ -17729,24 +17027,20 @@ B результате аккумуляции тепла повысилась т
 
 
 ### 2. Указатель температуры охлаждающей жидкости
-`skoda_octavia_ru_2ffb6da9` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 Указатель работает только при включенном зажигании. При холод- ной жидкости стрелка указателя на- ходится в нижней части шкалы. Из- бегайте низких частот вращения дви- гателя и не подвергайте его сильной нагрузке.
 
 При нормальной работе двигате- ля стрелка должна находиться в среднем положении (жидкость про- грета до рабочей температуры). При повышенной нагрузке двигателя и повышенной температуре воздуха стрелка указателя может отклониться более вправо. Такое отклонение не существенно до тех пор, пока не нач- нет вспыхивать индикатор перегрева охлаждающей жидкости.
 
 
 ### 3. Указатель уровня топлива
-`skoda_octavia_ru_0538e078` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:68 | doc_type:owners_manual
 Указатель работает только при включенном зажигании. Объем топ- ливного бака - 55 л (4х4 - 63 л). Когда загорается индикатор уровня топлива постоянным светом, то это означает, что в топливном баке име- ется еще около 7 литров топлива.
 
 
 ### 4. Спидометр
-`skoda_octavia_ru_e66bc20e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 Диапазон шкалы спидометра зави- сит от мощности двигателя.
 
 
 ### Счетчик пройденного пути
-`skoda_octavia_ru_0733998d` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 Верхний счетчик регистрирует об- щий пройденный путь, а нижний счет- чик – более короткие участки пути (су- точный счетчик пути). Последняя циф- ра суточного счетчика пути означает сотни метров. Показания суточного счетчика пути сбрасываются нажати- ем кнопки сброса, находящейся у спи- дометра.
 
 Ради безопасности движения не сбрасывайте показания суточ- ного счетчика пути во время движе- ния автомобиля.
@@ -17755,7 +17049,6 @@ B результате аккумуляции тепла повысилась т
 
 
 ### Указатель периодичности сервисного технического обслуживания
-`skoda_octavia_ru_64bfba24` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 При наступлении срока выполне- ния очередного сервисного техни- ческого обслуживания на дисплее суточного счетчика пройденного пути или на информационном дисплее по- явится следующаяинформация: «service km 1500» или «service in 1500». Данные по количеству кило- метров, оставшихся до сервисного техосмотра, постепенно понижаются с шагом в 100 км.
 
 Как только наступит срок проведе- ния сервисного техосмотра, на дисп- лее загорается лампочка «sеrviсе» или «service сейчaс».
@@ -17764,7 +17057,6 @@ B результате аккумуляции тепла повысилась т
 
 
 ### 5. Часы с цифровой индикацией
-`skoda_octavia_ru_12538f43` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 Для настройки времени служит ручка настройки, находящаяся спра- ва от тахометра внизу:
 
 для того чтобы провести на- стройку часов, следует проворачи- вать ручку настройки влево;
@@ -17773,7 +17065,6 @@ B результате аккумуляции тепла повысилась т
 
 
 ### 6. Многофункциональный указатель
-`skoda_octavia_ru_ac7b78d9` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 ![](images/c1aa440a81692459c7bf8f66d9f0c1ef34974a9a4e8a14721ddc056a003263f1.jpg)
 
 Наряду с информацией о времени суток, многофункциональный указатель предоставляет целый ряд дополни- тельных сведений:
@@ -17791,27 +17082,22 @@ B результате аккумуляции тепла повысилась т
 
 
 ### 7. Показания
-`skoda_octavia_ru_2393b181` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:74 | doc_type:owners_manual
 После включения зажигания по- явится то показание, которое было набрано последним.
 
 
 ### Указатель температуры наружного воздуха (°C)
-`skoda_octavia_ru_420f7d24` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:75 | doc_type:owners_manual
 Правильное значение появляется с задержкой около 5 минут. В останов- ленном автомобиле или же на слиш- ком низкой скорости движения указы- ваемая температура может оказаться выше, чем температура наружного воздуха, вследствие наличия тепла, выделенного двигателем.
 
 
 ### Запас хода
-`skoda_octavia_ru_69cb2778` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:76 | doc_type:owners_manual
 Это показание сообщает о том, сколько километров автомобиль мо- жет еще проехать с имеющимся запа- сом топлива в баке. Для расчета ис- пользуется средний расходтоплива за последние 50 км. После сброса указа- теля (после отсоединения и присоеди- нения батареи) нужно проехать 50 км для того, чтобы появилось фактичес- кое значение.
 
 
 ### Мгновенный расход  (л/100 км)
-`skoda_octavia_ru_ad59633a` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 Это показание сообщает мгновен- ный расход топлива, выраженный в л/ 100 км. Подсчет осу цествляется 1 раз в 2 с. На остановленном автомобиле расход изображается в л/ч.
 
 
 ### Средний расход (л/100 км)
-`skoda_octavia_ru_3fefec30` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 Показывает средний расход топли- ва, а не расход в момент отсчета. Средний расход топлива появляется после включения зажигания или же после сброса памяти, после пробега около 300 м. До этого момента вместо показания высвечиваются штрихи.
 
 Память для отдельной поездки 1 - показывает средний расход топлива в ходе отдельной поездки.
@@ -17822,7 +17108,6 @@ B результате аккумуляции тепла повысилась т
 
 
 ### Время движения автомобиля
-`skoda_octavia_ru_f4b4fd7a` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 1 - продолжительность движения автомобиля с момента включения за- жигания или аннулированных данных.
 
 2 – общая продолжительность дви- жения автомобиля.
@@ -17831,12 +17116,10 @@ B результате аккумуляции тепла повысилась т
 
 
 ### Информационный дисплей
-`skoda_octavia_ru_901c0951` | octavia | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:80 | doc_type:owners_manual
 При включенном зажигании и во время движения в автомобиле все время проверяются определенные функции и состояние автомобиля.
 
 
 ### Пройденный путь (КМ)
-`skoda_octavia_ru_2738ddea` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 Для индикации пройденного пути действуют те же принципы, что и для времени движения автомобиля. Наи- большее указываемое расстояние: 9999 км.
 
 На большом и малом дисплеях (в зависимости от оборудования авто- мобиля) могут изображаться:
@@ -17848,7 +17131,6 @@ B результате аккумуляции тепла повысилась т
 
 
 ### Средняя скорость движения KM/4
-`skoda_octavia_ru_f6ce7988` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 Для индикации средней скорости движения действуют те же принципы, что и для среднего расхода топлива.
 
 ![](images/7da2e5d6f4b406af8f6cd33bd7a4d0e2c9c67b148b5ec1acba3a1f37b264979d.jpg)  
@@ -17858,26 +17140,22 @@ B результате аккумуляции тепла повысилась т
 
 
 ### 8. Сигнальные и индикаторные лампочки
-`skoda_octavia_ru_2abbbf42` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 ![](images/bd4ce18e068ada5b3d6d184161d2e3e7e41ef7d74c16285fb50dc9bd942d9a6c.jpg)
 
 Расположение сигнальных и ин- дикаторных лампочек зависит от мо- дели и типа двигателя. Загорание некоторых лампочек сопровождает- ся звуковым сигналом. Также воз- можно изображение текста на ин- формационном дисплее.
 
 
 ### Указатели поворота
-`skoda_octavia_ru_07eac3cf` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 В зависимости от перемещения переключателя поворота вверх или вниз мигает правый или левый индика- ционный указатель поворота на пане- ли приборов.
 
 В случае выхода из строя лампочки указателя поворота частота мигания индикационного указателя примерно в два раза больше нормальной. Сказан- ное не распространяется на езду с прицепом. При включении аварийной световой сигнализации загораются одновременно тоже оба индикацион- ные указателя поворота.
 
 
 ### Дальний свет фар
-`skoda_octavia_ru_64939871` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:85 | doc_type:owners_manual
 Индикатор загорается постоянным светом при включении дальнего света фар или применении предупредитель- ной световой сигнализации посред- ством фар.
 
 
 ### Система подушек безопасности «Air bag»
-`skoda_octavia_ru_0ae6d5c1` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:86 | doc_type:owners_manual
 Если подушка безопасности пасса- жира повреждена, то:
 
 после включения зажигания заго- рается сигнальная лампочка на 3 се- кунды, а затем горит прерывистым светом на протяжении 12 секунд с интервалом 2 секунды.
@@ -17890,52 +17168,43 @@ B результате аккумуляции тепла повысилась т
 
 
 ### Ближний свет фар
-`skoda_octavia_ru_f5766d73` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:87 | doc_type:owners_manual
 Индикаторная лампочка горит постоянным светом при включенном ближнем свете фар.
 
 
 ### Противотуманные фары
-`skoda_octavia_ru_237427dc` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:88 | doc_type:owners_manual
 Индикаторная лампочка горит постоянным светом при включенных противотуманныхфарах.
 
 
 ### Задня противотуманная фара
-`skoda_octavia_ru_19a7e8ea` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:89 | doc_type:owners_manual
 Индикаторнаялампочка горит постоянным светом при включении задней противотуманнойфары.
 
 
 ### Сигнальная лампочка электронной системы EРС управления подачей топлива (только на некоторых двигателях)
-`skoda_octavia_ru_1f4577fb` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:90 | doc_type:owners_manual
 Сигнальная лампочка горит на протяжении нескольких секунд пос- ле включения зажигания. Если она не гаснет в течение нескольких се- кунд после включения зажигания или же вспыхивает во время движе- ния автомобиля, то это означает, что в электронной системе управления подачей топлива (регулирования мощности двигателя) возникла неис- правность.Аварийная программа, набранная блоком управления дви- гателем, позволит добраться с повы- шенной осторожностью до ближайшей станции сервисного техобслуживания Skoda.
 
 
 ### Предварительный разогрев 00(накаливание) (только дизельные двигатели)
-`skoda_octavia_ru_d3466a75` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:91 | doc_type:owners_manual
 Если двигатель холодный, то сиг- нальная лампочка загорается в ре- зультате поворачивания ключа зажи- гания в положение «2». Если сигналь- ная лампочка не загорается, то неисп- равность находится в устройстве для накаливания и вам следует обратиться за помощью к специалистам. Сразуже после того как сигнальная лампочка погаснет, запустите двигатель. Если двигатель прогрет на рабочую темпе- ратуру, то сигнальная лампочка нака- ливания не загорается. Можно сразу запускать двигатель.
 
 Если сигнальная лампочка мигает при движении автомобиля, то это оз- начает, что в системе возникла неис- правность. Обратитесь за професси- ональной помощью на станцию сер- висного техобслуживания Skoda.
 
 
 ### Температура и уровень охлаждающей жидкости
-`skoda_octavia_ru_744b9611` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:92 | doc_type:owners_manual
 Сигнальная лампочка горит не- сколько секунд после включения за- жигания. Если она не гаснет или за- горается прерывистым светом BO время движения автомобиля, то это указывает на слишком высокую тем- пературу охлаждающейжидкости или же на ее слишком низкий уро- вень. В качестве предупредительно- го сигнала раздается тоже звуковая сигнализация (3 коротких звуковых сигнала).
 
 В таком случае остановите авто- мобиль и двигатель и проверьте уровень охлаждающей жидкости. При необходимости долейте ее.
 
 
-### Внимание!
-`skoda_octavia_ru_daf2c81c` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
-Уравнительный бачок для ох- лаждающейжидкости нужно от- крывать осторожно. Система ох- лаждения горячего двигателя нахо- дится поддавлением и грозит опас- ностью ожога! Поэтому нужно дать двигателю остыть, прежде чем от- винчивать крышку.
-
-Не дотрагивайтесь до венти- лятора. Вентилятор может срабо- тать сам по себе даже при выклю- ченном зажигании.
-
-Если уровень охлаждающей жид- кости - в предусмотренных пределах, то повышенная температура может быть вызвана неисправностью дей- ствия вентилятора для охлаждающей жидкости.Проверьте предохранитель вентилятора и при необходимости за- мените его.
-
-Если сигнальная лампочка не по- гасла, хотя уровень жидкости и пре- дохранитель вентилятора в норме, то не продолжайте поездку. Обрати- тесь за профессиональной помощью на станцию техобслуживания Sкоdа.
+> ⚠️ **Внимание:** Уравнительный бачок для ох- лаждающейжидкости нужно от- крывать осторожно. Система ох- лаждения горячего двигателя нахо- дится поддавлением и грозит опас- ностью ожога! Поэтому нужно дать двигателю остыть, прежде чем от- винчивать крышку.
+>
+> Не дотрагивайтесь до венти- лятора. Вентилятор может срабо- тать сам по себе даже при выклю- ченном зажигании.
+>
+> Если уровень охлаждающей жид- кости - в предусмотренных пределах, то повышенная температура может быть вызвана неисправностью дей- ствия вентилятора для охлаждающей жидкости.Проверьте предохранитель вентилятора и при необходимости за- мените его.
+>
+> Если сигнальная лампочка не по- гасла, хотя уровень жидкости и пре- дохранитель вентилятора в норме, то не продолжайте поездку. Обрати- тесь за профессиональной помощью на станцию техобслуживания Sкоdа.
 
 
 ### Толщина (предельно допустимый износ) тормозных накладок
-`skoda_octavia_ru_613ba5ee` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:94 | doc_type:owners_manual
 Если загорелась сигнальная лампоч- ка, то обратитесь на станцию сервисного техобслуживания Sкоdа, чтобы прове- ритьсостояниетормозныхнакладок.
 
 В качестве предупредительного сигнала также срабатывает звуковая сигнализация (1 короткий звуковой сигнал).
@@ -17944,14 +17213,12 @@ B результате аккумуляции тепла повысилась т
 
 
 ### Запас топлива
-`skoda_octavia_ru_bc86770f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 Индикаторная лампочка загорается при понижении запаса топлива в топ- ливном баке приблизительно до 7 лит- ров.
 
 Предупредительную сигнализа- цию обеспечивает также звуковая сигнализация (1 короткий звуковой сигнал).
 
 
 ### Уровень масла
-`skoda_octavia_ru_8a036431` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:96 | doc_type:owners_manual
 Сигнальная лампочка горит красным цветом (низкое давле- ние масла)
 
 Сигнальная лампочка горит на протяжении нескольких секунд пос- ле включениязажигания.
@@ -17974,55 +17241,46 @@ B результате аккумуляции тепла повысилась т
 
 
 ### Сигнальная лампочка вспыхивает желтым светом (неисправный датчик количества моторного масла)
-`skoda_octavia_ru_14c8d7d5` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:97 | doc_type:owners_manual
 В случае возникновения неисправ- ности датчика количества моторного масла об этом предупреждают: звуко- вой сигнал и многократное вспыхива- ние сигнальной лампочка.
 
 
 ### Открытие двери
-`skoda_octavia_ru_1dddfb48` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:98 | doc_type:owners_manual
 Сигнальная лампочка светит при открытии одной или более дверей.
 
 
 ### Сигнальная лампочка уровня жидкости в бачке для стеклоомывателей
-`skoda_octavia_ru_ef33b26c` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:99 | doc_type:owners_manual
 Сигнальная лампочка загорается при включенном зажигании постоян- ным светом при недостатке жидкости в бачке для стеклоомывателей. Долейте жидкость.
 
 В качестве предупредительного сигнала также срабатывает звуковая сигнализация (1 короткий звуковой сигнал).
 
 
 ### Лампы накаливания
-`skoda_octavia_ru_ebf8372d` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:100 | doc_type:owners_manual
 Сигнальная лампочка загорается при повреждении лампочек накали- вания стоп-сигналов, габаритных фо- нарей или фар ближнего света.
 
 
 ### Проверка электронного устройства управления работой двигателя
-`skoda_octavia_ru_6c36ddd2` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:101 | doc_type:owners_manual
 Сигнальная лампочка загорается после включения зажигания.
 
 Если сигнальная лампочка не гас- нет после пуска двигателя, загорается при движении автомобиля или мига- ет, это указывает на неисправность электронной системы управления двигателя или на неисправность сис- темы управления отработавшими га- зами.
 
 
 ### Электронная стабилизирующая программа (ESP)
-`skoda_octavia_ru_4e458769` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:102 | doc_type:owners_manual
 Сигнальная лампочка горит на про- тяжении несколькихсекунд после вклю- чения зажигания. Составной частью программы ЕСР является автомати- ческое регулирование привода веду- щих колес по их буксованию (АСР). АSR не входит в состав ESP в автомобилях с приводом на все колеса с двигателем 2,0 л/85 кВт.
 
 Когда происходит процесс регули- рования при движении автомобиля, тогда сигнальная лампочка мигает. При выключенном устройстве или же при наличии неисправности в системе сигнальная лампочка горит постоянно. Так как система ESР работает совмес- тно с устройствами ABS, MSR и EDS, при перерыве в работе АВS также го- рит сигнализатор ESР.
 
 
 ### Автоматическое регулирование привода ведущих колес по их буксованию (ASR)
-`skoda_octavia_ru_b7aeb495` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:103 | doc_type:owners_manual
 Сигнальная лампочка горит на про- тяжении несколькихсекунд после вклю- чения зажигания. Когда происходит процессрегулирования при движении автомобиля, тогда сигнализатор мига- ет. При выключенном устройстве или же при наличии неисправности в сис- теме сигнальная лампочка горит посто- янно.
 
 
 ### Антиблокировочная система (ÁBS)
-`skoda_octavia_ru_e806bd5a` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:104 | doc_type:owners_manual
 Индикатор показывает состояние системы ABS или систем ABS и EDS.
 
 Всякий раз после включения зажи- гания должна загореться сигнальная лампочка АBS. Если сигнальная лам- почка АВS не гаснет в течение несколь- ких секунд после включения зажигания или совсем не загорается или же заго- рается при движении автомобиля, это означает, что в АBS возникла неисп- равность и торможение автомобиля осуществляется без действия системы ABS. На автомобиле в таком случае работает лишь стандартная тормозная система.
 
 
 ### Электронная блокировка дифференциала (EDS)
-`skoda_octavia_ru_d15d191a` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:105 | doc_type:owners_manual
 Система EDS является составной частью системы АBS. Неисправность системы EDS сигнализируется загора- нием сигнальной лампочки АBS. Не- медленно обратитесь за помощью на ближайшую станцию сервисного тех- обслуживания Skoda.
 
 Если в системе АBS появится не- исправность большего масштаба, то также срабатывает звуковая сигнали- зация (3 коротких звуковых сигнала).
@@ -18037,7 +17295,6 @@ B результате аккумуляции тепла повысилась т
 
 
 ### Выбор аварийного кода
-`skoda_octavia_ru_ac16d0a4` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:106 | doc_type:owners_manual
 В случае повреждения электронно- го чипа в головке ключа двигатель ос- танавливается в течение 3-х секунд с момента пуска. В таком случае можно набрать аварийный код, дезактивируя этим самым систему.
 
 Четырехзначный кодовый номер, появляющийся после обтирания со- ответствующего участка на брелке, набирают при включенном зажига- нии.
@@ -18052,7 +17309,6 @@ B результате аккумуляции тепла повысилась т
 
 
 ### )Уровень тормозной жидкости
-`skoda_octavia_ru_2086c88c` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:107 | doc_type:owners_manual
 Сигнальная лампочка горит на протяжении нескольких секунд пос- ле включения зажигания.
 
 Внимание! Если сигнальная лампочка горит постоянно при включенном зажигании или заго- рается во время движения авто- мобиля, это указывает на возник- шую неисправность в тормозной системе. В качестве предупреди- тельного сигнала срабатывает также звуковая сигнализация (3 коротких звуковых сигнала).
@@ -18061,7 +17317,6 @@ B результате аккумуляции тепла повысилась т
 
 
 ### Зарядка аккумуляторной батареи
-`skoda_octavia_ru_5e9c6844` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:108 | doc_type:owners_manual
 Сигнальная лампочказагорается при включенном зажигании. После запуска двигателя она должна погас- нуть. Если сигнальная лампочка заго- рается во время движения автомобиля или же не гаснет после запуска двига- теля, тогда необходимо остановить ав- томобиль и заглушить двигатель. Про- верьте ремень привода генератора или замените его.
 
 Если ремень в норме, но лампочка все еще горит, можно продолжать движение до ближайшей станции тех- нического обслуживания. Поскольку подзарядка аккумулятора автомобиля не производится, необходимо выклю- чить все ненужные потребители в ав- томобиле.
@@ -18070,74 +17325,62 @@ B результате аккумуляции тепла повысилась т
 
 
 ### Пристегивание ремней безопасности
-`skoda_octavia_ru_953ce52d` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 Сигнальная лампочка предупреж- дает водителя о необходимости при- стегиванияремнем безопасности. Если водитель не пристегнут, то звуко- вая сигнализация раздается на протя- жении 6 сек.
 
 
 ### 9. Выключатели
-`skoda_octavia_ru_a083cf4d` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 ![](images/a57ea1de7c50f972bc480fb5d63e4393abad71095da541f9f6748eaa4988d6bc.jpg)
 
 
-### Внимание!
-`skoda_octavia_ru_86ebf48f` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:111 | doc_type:owners_manual
-. На автомобилях с правосто- ронним рулевым управлением расположение выключателей от- личается. Однако символы на вы- ключателях соответствуют симво- лам, имеющимся на автомобилях с левосторонним рулевым управ- лением.
-
-. Если после извлечения клю- ча зажигания из замка и открытия двери водителя фары останутся включены, тогда вас об этом про- информирует звуковая сигнализа- ция.
-
-. При закрытии двери води- теля (система зажигания выклю- чена) выключается звуковая сиг- нализация включенных фар, что позволяет постановку автомоби- ля на стоянку с включенными га- баритными огнями.
-
-0 – Отключено
-
-1 – Габаритные огни
-
-MO
+> ⚠️ **Внимание:** . На автомобилях с правосто- ронним рулевым управлением расположение выключателей от- личается. Однако символы на вы- ключателях соответствуют симво- лам, имеющимся на автомобилях с левосторонним рулевым управ- лением.
+>
+> . Если после извлечения клю- ча зажигания из замка и открытия двери водителя фары останутся включены, тогда вас об этом про- информирует звуковая сигнализа- ция.
+>
+> . При закрытии двери води- теля (система зажигания выклю- чена) выключается звуковая сиг- нализация включенных фар, что позволяет постановку автомоби- ля на стоянку с включенными га- баритными огнями.
+>
+> 0 – Отключено
+>
+> 1 – Габаритные огни
+>
+> MO
 
 
 ### 2 – Ближний свет фар
-`skoda_octavia_ru_3e7ac014` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:112 | doc_type:owners_manual
 Ближний свет фар можно включить лишь после предварительного включе- ния габаритных огней.
 
 Фары ближнего или дальнего света горят лишь при включенном зажига- нии. Во время пуска двигателя и после выключения зажигания фары автома- тически гаснут.
 
 
 ### 3 – Регулятор интенсивности освещения приборов
-`skoda_octavia_ru_76248153` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 Освещенность приборов можно плавно регулировать путем вращения ручки настройки при включенном ос- вещении.
 
 
 ### Выключатель противотуманных фар
-`skoda_octavia_ru_071292c9` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:114 | doc_type:owners_manual
 Противотуманные фары вклю- чаются путем выдвигания поворот- ного выключателя в положение «А». Противотуманные  фары горят  при включенных габаритных огнях, фарах ближнего и дальнего света.
 
 
 ### Выключатель задней
-`skoda_octavia_ru_ec3bbdd5` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:115 | doc_type:owners_manual
 Задняя противотуманная фара включается путем выдвигания по- воротного выключателя в положе- ние«В.». Заднюю противотуманную фару можно включить только при вклю- ченных фарах ближнего или дальнего света или при включенных противоту- манных фарах (в зависимости от ис- полнения в разных странах). Из-за сильного слепящего действия проти- вотуманных фар их включение разре- шаетсятолькоприограниченной види- мости.
 
 
-### Внимание!
-`skoda_octavia_ru_2c097170` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:116 | doc_type:owners_manual
-Задняя противотуманная фара находится в группированном световом приборе со стороны во дителя.
-
-Электрическое подключение тягово-сцепного устройства выпол- нено таким образом, что при эксплу- атации с прицепом, снабженным задней противотуманной фарой, ав- томатически отключается задняя противотуманная фара на буксирую- щем автомобиле.
-
-![](images/16c757e09b7650c33ed435eb957e2d8a2142e9255939086ea93e969930844cca.jpg)
-
-1 – Выключатель системы аварийной световой сигнализации
-
-2 – Выключатель обогрева стекла крышки багажника/ обогрева наружных зеркал заднего вида
-
-3 - ESP/ASR (выключатель может быть предназначен для систем ESP или ASR, прочие пояснения по ESР и ASR)
+> ⚠️ **Внимание:** Задняя противотуманная фара находится в группированном световом приборе со стороны во дителя.
+>
+> Электрическое подключение тягово-сцепного устройства выпол- нено таким образом, что при эксплу- атации с прицепом, снабженным задней противотуманной фарой, ав- томатически отключается задняя противотуманная фара на буксирую- щем автомобиле.
+>
+> ![](images/16c757e09b7650c33ed435eb957e2d8a2142e9255939086ea93e969930844cca.jpg)
+>
+> 1 – Выключатель системы аварийной световой сигнализации
+>
+> 2 – Выключатель обогрева стекла крышки багажника/ обогрева наружных зеркал заднего вида
+>
+> 3 - ESP/ASR (выключатель может быть предназначен для систем ESP или ASR, прочие пояснения по ESР и ASR)
 
 
 ### 1 - Выключатель системы аварийной световой сигнализации
-`skoda_octavia_ru_b6c539a8` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:117 | doc_type:owners_manual
 При включении аварийной свето- вой сигнализации мигает вместе с ука- зателями поворота также и соот- ветствующая лампочка в выключате- ле. Систему аварийной световой сиг- нализации можно тоже включить при выключенной системе зажигания.
 
 
 ### 2 –Выключатель обогрева стекла крышки багажника
-`skoda_octavia_ru_4892ffba` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:118 | doc_type:owners_manual
 Обогрев стекла крышки багажника можно включить только при включен- ном зажигании
 
 У автомобилей с электроуправля- емыми обогреваемыми наружными зеркалами заднего вида поверхнос- ти зеркал обогреваются в том случае, если включен обогрев стекла крыш- ки багажника.
@@ -18146,7 +17389,6 @@ MO
 
 
 ### 3 – Электронная программа стабилизации ESP
-`skoda_octavia_ru_96e0f205` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:119 | doc_type:owners_manual
 Автомобили с системой АВS могут быть дополнительно оснащены элект- роннойпрограммой стабилизации (ESP).
 
 Благодаря системе ESР повышает- ся управляемость автомобиля, напри- мер, при быстром прохождении пово- рота. Система ЕSР расширяет функции систем ABS, MSR. ASR и EDS, уменьшая при всехдорожныхусловияхопасность заноса. Во всем диапазоне скоростей система работает совместно с систе- мой АВS. Припоявлении неисправнос- ти в системе АВS программа ESР выключается.
@@ -18165,12 +17407,10 @@ MO
 
 
 ### Важно
-`skoda_octavia_ru_df4c2249` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:120 | doc_type:owners_manual
 Для того чтобы обеспечить пра- вильное функционирование электрон- ной стабилизирующей программы (ESP), нужно, чтобы на всех четырех колесах были установлены одинако- вые шины. Отличающиеся параметры шин могут привести к нежелательному уменьшению мощности двигателя.
 
 
 ### Действие ESP
-`skoda_octavia_ru_e18fe67d` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:121 | doc_type:owners_manual
 В электронную программу стабили- зации интегрированы системы АВS, MSR, EDS и ASR. Помимо данных, име- ющихся в распоряжении этих систем, блок управления ESР нуждается еще в дополнительных измеряемых величи- нах, получаемых от высокочувствитель- ных датчиков. Измеряются скорость вращательного движения автомобиля вокруг его вертикальной оси, ускоре- ние автомобиля в поперечном направ- лении, тормозное давление и угол по- ворота рулевого колеса.
 
 Внимание! В автомобилях с при- водом для всех четырех колес сис- тема ASR не является частью систе- мы ESP.
@@ -18183,7 +17423,6 @@ MO
 
 
 ### 3 – Автоматическое регулирование привода ведущих колес по их буксованию АSR
-`skoda_octavia_ru_342c1144` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:122 | doc_type:owners_manual
 Автомобили с системой АBS могут быть дополнительно оснащены авто- матическим регулированием приво- да ведущих колес по их буксованию (ASR).
 
 При ускорении автомобилей приводом на передние колеса уст- ройство автоматического регулиро- вания привода ведущих колес по их буксованию (АSR) предотвращает проворачивание ведущих колес пу- тем уменьшения мощности двигате- ля. Во всем диапазоне скоростей устройство работает совместно с си- стемой АВS. При наличии неисправ- ности на устройстве АВS программа ASR тоже выключается.
@@ -18199,7 +17438,6 @@ MO
 
 
 ### 4 – Обогрев передних сидений с поворотной кнопкой регулирования
-`skoda_octavia_ru_6a335366` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 Поверхность сидений для водителя и пассажира переднего сидения, а так- же и их спинок, может нагреваться при включенном зажигании. Обогрев мож- но включить и регулировать по жела- нию путем поворачивания соответству- ющихвыключателей.
 
 Обогрев отключается путем пово- рачивания соответствующего Вы- ключателя в нейтральное положение «О».
@@ -18208,14 +17446,12 @@ MO
 
 
 ### 5 – Открытие крышки заливной горловины топливного бака снаружи автомобиля
-`skoda_octavia_ru_42d02bb8` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 В результате нажатия выключате- ля открывается крышка заливной горловины бака.
 
 ![](images/8f51102b7e197be8b820afbbc0096dca41205dd1e848dd1ecf8c443a808501c3.jpg)
 
 
 ### Экстренное открытие крышки заливной горловины топливного бака
-`skoda_octavia_ru_86a2cc03` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:125 | doc_type:owners_manual
 Если система открытия с места водителя неисправна, тогда можно открыть крышку вручную.
 
 Откройте крышку багажника, отцепите и оттяните его правую об- шивку.
@@ -18224,7 +17460,6 @@ MO
 
 
 ### Регулирование угла наклона оптической оси основных фар
-`skoda_octavia_ru_8dd12aa9` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:126 | doc_type:owners_manual
 ![](images/e1ae646621e2af3ad2ec98df1f02356a2d4a5f4a8a958b1f2fecfcbe7a447721.jpg)
 
 Этот текст не распространяется на автомобили с ксеноновыми лампочка- ми. У этих автомобилей угол наклона оптической оси фар приспосабливает- ся к движению автоматически.
@@ -18249,28 +17484,24 @@ III – водитель, 330 кг груза в багаж- нике согла
 
 
 ### Многофункциональный рычаг переключения
-`skoda_octavia_ru_437c8338` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:127 | doc_type:owners_manual
 ![](images/e22d8e7d521211f65a881d962086465434bf1e21bfdb66a2b5714ec695f44986.jpg)
 
 Указатели поворота работают лишь при включенном зажигании.
 
 
 ### Переключение ближнего и дальнего света фар
-`skoda_octavia_ru_b19b1396` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:128 | doc_type:owners_manual
 При включенном ближнем свете фар отожмите рычаг переключения света фар от рулевого колеса. Вклю- чение дальнего света фар сопровож- дается загоранием синей индикатор- ной лампочки. Для того чтобы переклю- чить на ближний свет фар, притяните рычаг переключателя назад в исходное положение.
 
 Предупреждение! Для автомо- билей, оснащенных ксеноновыми лампочками, не рекомендуется, чтобы при остановке автомобиля светили одновременно фары даль- него света И противотуманные фары.
 
 
 ### Предупредительная световая сигнализация посредством прерывистого света фар
-`skoda_octavia_ru_4c3fd9d0` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:129 | doc_type:owners_manual
 Нажмите рычаг переключателя в направлении рулевого колеса (под- рессоренное положение) -загораются фары дальнего света и индикаторная лампочка.
 
 Внимание! Пользуясь указан- ными функциями освещения И сигнализации,соблюдайте COOTветствующие требования правил дорожного движения.
 
 
 ### Стояночные огни
-`skoda_octavia_ru_f1c9a9f3` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:130 | doc_type:owners_manual
 При включенном зажигании можно пользоваться стояночными огнями:
 
 Правый стояночный огонь – ры- чаг вверх.
@@ -18278,22 +17509,18 @@ III – водитель, 330 кг груза в багаж- нике согла
 Левый стояночный огонь – рычаг вниз.
 
 
-### Внимание!
-`skoda_octavia_ru_3a669f6d` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:131 | doc_type:owners_manual
-o Пользуясь стояночными ог- нями, соблюдайте соответству- ющие законоположения.
-
-Если после извлечения ключа из замка зажигания рычаг находится в положении, отлич- ном от среднего, то после откры- тия двери водителя раздастся звуковой сигнал. После закрытия двери звуковой сигнал отключа- ется.
+> ⚠️ **Внимание:** o Пользуясь стояночными ог- нями, соблюдайте соответству- ющие законоположения.
+>
+> Если после извлечения ключа из замка зажигания рычаг находится в положении, отлич- ном от среднего, то после откры- тия двери водителя раздастся звуковой сигнал. После закрытия двери звуковой сигнал отключа- ется.
 
 
 ### 10. «Теmроmat» (регулятор скорости)
-`skoda_octavia_ru_3987b562` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 «Тетротат» представляет собой систему, позволяющую поддерживать на постоянном уровне любую требуе- мую скорость, превышающую 30 км/ч, при том условии, что это позволяет мощность двигателя, а именно без того, чтобы водителю приходилось управлять акселератором.
 
 Внимание! Системой «Тетро- тат» нельзя пользоваться при ин- тенсивном движении и при плохом состоянии дорожного полотна (го- лолед, скользкая дорога, щебень и т.П.).
 
 
 ### Важно
-`skoda_octavia_ru_e12ff295` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:133 | doc_type:owners_manual
 У автомобилей с автоматической коробкой передач можно пользовать- ся «Тетротат» лишь тогда, когда ры- чаг селектора переключения передач находится в положениях «D», «3» и «2». В положениях «Р», «N», «R» и «1» пользоваться системой «Тетротат» нельзя.
 
 ![](images/99d3f8d23be24f18cc255a3057efd4a115d81020a333cab171142722f2620e64.jpg)
@@ -18302,12 +17529,10 @@ o Пользуясь стояночными ог- нями, соблюдайте
 
 
 ### Включение
-`skoda_octavia_ru_88f0ad5a` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:134 | doc_type:owners_manual
 Система «Тетротат включается перемещением выключателя «А в по- ложение «ОN» (ВКЛ).
 
 
 ### Запоминание скорости
-`skoda_octavia_ru_aa91b5c7` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:135 | doc_type:owners_manual
 Включите систему «Tempomat». После достижения требуемой скорости кратковременно нажмите кнопку «В». Автомобилем поддерживается уста- новленная скоростьбез необходимос- ти управления педалью акселератора.
 
 Повысить скорость можно обыч- ным способом - педалью акселерато- ра. После отпускания педали скорость понизится до установленной. Однако сказанное не распространяется на случаи превышенияустановленной скорости больше, чем на 10 км/ч, и дольше, чем 5 мин. В таком случае имеет место сброс установленной ско- рости. Необходимо установить ско- рость заново.
@@ -18318,7 +17543,6 @@ o Пользуясь стояночными ог- нями, соблюдайте
 
 
 ### Замедление
-`skoda_octavia_ru_4685fc3f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:136 | doc_type:owners_manual
 Введенную в память скорость можно понизить нажатием кнопки «B».
 
 Если кнопка поддерживается на- жатой, то скорость плавно понижает- ся. После достижения требуемого значения скорости отпустите кнопку.
@@ -18327,14 +17551,12 @@ o Пользуясь стояночными ог- нями, соблюдайте
 
 
 ### Ускорение
-`skoda_octavia_ru_f28b8a9b` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 Введенную в память скорость мож- но увеличить без нажатия педали аксе- лератора путем перемещения кнопки выключателя«А» в положение «RЕS» (РЕСТАРT).
 
 Если держать кнопку нажатой, то скорость плавно повышается. После достижения требуемого значения ско- рости отпустите кнопку. В результате этой операции новая установленная скорость вводится в память.
 
 
 ### 11. СТЕКЛООЧИСТИТЕЛИИ СТЕКЛООМЫВАТЕЛИ
-`skoda_octavia_ru_e7c21cc5` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:138 | doc_type:owners_manual
 ![](images/a6f846595b5b87ac5025339b2a84f1d3332e6b37abc159d0039f3a086f3c7c1e.jpg)
 
 Стеклоочистители и стеклоомыва- тели работают лишь при включенном зажигании.
@@ -18343,7 +17565,6 @@ o Пользуясь стояночными ог- нями, соблюдайте
 
 
 ### Лобовое стекло
-`skoda_octavia_ru_da8c8d95` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:139 | doc_type:owners_manual
 . Однократное действие стек-   
 лоочистителей - рычаг переведен в   
 положение «4». G Прерывистая работа стекло-   
@@ -18360,7 +17581,6 @@ o Пользуясь стояночными ог- нями, соблюдайте
 
 
 ### Датчик дождя
-`skoda_octavia_ru_ed38dc53` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:140 | doc_type:owners_manual
 Ручка в положении «1».
 
 Датчик управляет промежутками времени между отдельными ходами щетокстеклоочистителя в зависимости от дождя.
@@ -18369,7 +17589,6 @@ o Пользуясь стояночными ог- нями, соблюдайте
 
 
 ### Фароомыватели
-`skoda_octavia_ru_d42e7619` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:141 | doc_type:owners_manual
 При каждом опрыскивании лобово- го стекла стеклоомывателями будут опрыснуты фары (при включенных га- баритных огнях, фарах ближнего или дальнего света).
 
 Опрыскивание фар продолжитель- ностью около 1 сек. начинается через 3 секунды после притягивания рычага (положение «5»).
@@ -18378,7 +17597,6 @@ o Пользуясь стояночными ог- нями, соблюдайте
 
 
 ### Стекло крышки багажника
-`skoda_octavia_ru_15ef486b` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:142 | doc_type:owners_manual
 Прерывистый режим работы стеклоочистителя
 
 Рычаг – в положении «6».
@@ -18387,17 +17605,14 @@ o Пользуясь стояночными ог- нями, соблюдайте
 
 
 ### Автоматическая работа стек- лоочистителя и стеклоомывателя
-`skoda_octavia_ru_04f5313e` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:143 | doc_type:owners_manual
 ![](images/78b30d906770b128c9b104998735a57ee339c66fb73f45a7696cf7b8cffc7268.jpg)
 
 
 ### Органы управления
-`skoda_octavia_ru_9d9e58fb` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 Поворотная ручка настройки А – выбор температуры В правую сторону - увеличение теп- лопроизводительности. В левую сторону – уменьшение теп- лопроизводительности.
 
 
 ### Поворотная ручка настройки В – управление вентилятором
-`skoda_octavia_ru_7aed1206` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:145 | doc_type:owners_manual
 Ручкой настройки «В» можно регу- лировать количество воздуха, проходя- щего через систему отопления.
 
 Расход проходящего воздуха регу- лируется четырьмя положениями.
@@ -18410,7 +17625,6 @@ o Пользуясь стояночными ог- нями, соблюдайте
 
 
 ### Нажимная кнопка D – режим циркулирующего воздуха
-`skoda_octavia_ru_4558f3d7` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:146 | doc_type:owners_manual
 Путем нажатия кнопки D включается режим циркулирующего воздуха во внутреннем пространстве автомобиля. Символ в кнопке загорается. В резуль- тате следующего нажатия циркуляция воздуха прекращается.
 
 После отпускания рычага стекло- омыватель прекратит работу, а стекло- очиститель протрет стекло еще 1-3 раза (в зависимости от длины дей- ствия стеклоомывателя).
@@ -18419,21 +17633,18 @@ o Пользуясь стояночными ог- нями, соблюдайте
 
 
 ### Стеклоочиститель выключен
-`skoda_octavia_ru_a450468a` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:147 | doc_type:owners_manual
 КнопкуD невозможно нажать в том случае, если поворотная ручка на- стройки С находится в положении или же вблизи от этого положения.
 
 Рычаг – в положении «О».
 
 
 ### 12. ОТОПЛЕНИЕ И ВЕНТИЛЯЦИЯ
-`skoda_octavia_ru_3215d6b3` | octavia | pdf_manual | tier:2 | lang:ru | layer:hvac | p:148 | doc_type:owners_manual
 ![](images/323580b47123470b6390d2a7ddbc7a3bc35f414bee4f0e6d7e01aa0d88ddc472.jpg)
 
 ↑↑ ↓↓↓ .
 
 
 ### Дефлекторы обдува
-`skoda_octavia_ru_3fe12710` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:149 | doc_type:owners_manual
 Через дефлекторы подается подо- гретый или неподогретый свежий воз- дух, в зависимости от положения ручки настройки А.
 
 Подача воздуха к дефлекторам ре- гулируется поворотной ручкой на- стройки с.
@@ -18450,36 +17661,30 @@ o Пользуясь стояночными ог- нями, соблюдайте
 
 
 ### Размораживание лобового и боковых стекол
-`skoda_octavia_ru_1beda974` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 поворотную ручкунастройки В - в положение 4; . поворотнуюручкунастройки А- до упора вправо и С- в положение • закрыть дефлекторы для впус- ка воздуха 3; o через дефлекторы для впуска воздуха 4 можно дополнительно пода- вать к боковым стеклам еще и подо- гретый воздух.
 
 
 ### Предотвращение запотевания лобового и боковых стекол
-`skoda_octavia_ru_4039a551` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 . поворотную ручкунастройки в - в положение 2 или 3; • поворотную ручку настройки А, в случае необходимости – в полосу ото- пления; . поворотную ручку настройки с - в положение
 
 закрыть дефлекторы для впуска воздуха 3; . через дефлекторы для впуска воздуха 4 можно дополнительно пода- вать к боковым стеклам еще и подо- гретый воздух.
 
 
 ### Максимально быстрый обогрев внутреннего пространства автомобиля
-`skoda_octavia_ru_ec822ec0` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:152 | doc_type:owners_manual
 поворотную ручкунастройки в – в положение 4; поворотную ручкунастройки А - до упора вправо; поворотную ручку настройки с - в положение открыть отверстия для впуска воздуха 3 и 4 Рекомендуется нажать на кнопку D - режим циркуляции воздуха.
 
 
 ### 13. «Climаtrоniс» (автоматический кондиционер воздуха)
-`skoda_octavia_ru_b91b89c3` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:153 | doc_type:owners_manual
 тора отдельных видов новыхшинможет отличаться друг от друга.
 
 Шины необходимо периоди- чески проверять на отсутствие по- вреждений, например, другими тела- ми, отсутствие проколов, трещин или выпуклостей (это касается, главным образом, их боковых стенок). Инород- ные тела, проникшие в шину, могут повредить ее изнутри. Все поврежде- ния должны быть оценены специалис- том, который определит возможность ремонта шины. Если ремонт невозмо- жен или же его результат сомнитель- ный, шину необходимо заменить. У дефектной шины есть опасность раз- рыва.
 
 
 ### Кнопки
-`skoda_octavia_ru_987fc441` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:154 | doc_type:owners_manual
 2 - ступень вентилятора; 3 – температура наружного воздуха; при выключении аBTоматическоrо кондиционера кнопкой «11» появится на этой позиции изображение «OFF», а остальные показания не изобразятся; 4 - размораживание лобового стек- ла; 5 - режим циркуляции воздуха; 6 - направление подачи воздуха; 7 - установленная температура в салоне; 8 – индикация «AUTO» (автомати- ческий режим), «ЕсоN» (компрессор выключен) или же«OFF»(«Climаtrоnіс» выключен);
 
 
 ### Дисплей
-`skoda_octavia_ru_dea0953c` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:155 | doc_type:owners_manual
 1 - размораживание ветрового стекла;
 
 9 - автоматический режим;   
@@ -18495,7 +17700,6 @@ o Пользуясь стояночными ог- нями, соблюдайте
 
 
 ### Датчики температуры воздуха в салоне
-`skoda_octavia_ru_c584fa5e` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:156 | doc_type:owners_manual
 18 – Датчики температуры воздуха в салоне.
 
 2③④56 7 8 9   
@@ -18516,19 +17720,16 @@ o Пользуясь стояночными ог- нями, соблюдайте
 
 
 ### Общие положения
-`skoda_octavia_ru_361e19c8` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:157 | doc_type:owners_manual
 Новые шины сначала не отли- чаются идеальным сцеплением с до- рогой, достигая его только после пробега около 100 км с умеренной скоростью при вождении с соответ- ствующей осторожностью. В зависимости от элементов конструкции шин и типа рисунка их протектора высота рисунка протек-
 
 Демонтированные колеса или же шины следует хранить в холодном, сухом и по возможности темном поме- щении. Шины, которые не установлены на диске, храните в вертикальном по- ложении.
 
 
 ### Срок службы шин
-`skoda_octavia_ru_f07a207c` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:158 | doc_type:owners_manual
 Срок службы шин зависит пре- имущественно от нижеуказанных об- стоятельств.
 
 
 ### Давление воздуха в шинах
-`skoda_octavia_ru_417b6fdc` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:159 | doc_type:owners_manual
 Значения внутреннего давления в шинах приводятся на ярлыке, находя- щемся на внутренней стороне крышки заливной горловины топливного бака.
 
 Внутреннее давление в шинах имеет большое значение, особенно для движения с большими скоростя- ми. По этой причине следует прове- рять давление воздуха в шинах ми- нимально раз в месяц и перед любой долгой поездкой. Проверяя внутрен- нее давление в шинах, не забывайте о запасном колесе.
@@ -18543,38 +17744,31 @@ o Пользуясь стояночными ог- нями, соблюдайте
 
 
 ### Метод вождения
-`skoda_octavia_ru_0676c6ad` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:160 | doc_type:owners_manual
 Быстрое прохождение поворотов, резкий разгон и резкое торможение ускоряют износ шин.
 
 
 ### Балансировка колес
-`skoda_octavia_ru_37897a3e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 Колеса нового автомобиля отба- лансированы. В результате разного рода воздействий в ходе эксплуата- ции автомобиля может получиться дисбаланс колес, что проявляется прежде всего в неспокойном управле- нии.
 
 Ввиду того что дисбаланс колес приводит к повышенному износуруле- вого механизма, подвески, колес и шин, необходимо колеса заново отба- лансировать. Кроме того, нужно отба- лансировать колеса после замены шин или после их ремонта.
 
 
 ### Неправильная кинематик: управляемых колес
-`skoda_octavia_ru_b4f5cbad` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:162 | doc_type:owners_manual
 Неправильная регулировка углов установки управляемых колес приводит не только к повышенному,зачастую лишь одностороннему, износу шин, а также оказывает отрицательное влия- ние на безопасность движения автомо- биля. В случае неравномерного износа шин следует обратиться за помощью в мастерскуютехобслуживания.
 
 4
 
 
 ### Признаки износа шин
-`skoda_octavia_ru_ecbd75eb` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 На рисунке протектора оригиналь- ных шин поперек направления их вращения и на одинаковых расстояни- ях друг от друга расположено от 6 до 8 индикаторов износа шин высотой 16 мм. Положение индикаторов отме- чено на боковинах покрышек буквами «TWI» или символами треугольника.
 
 
-### Внимание!
-`skoda_octavia_ru_dae9ec1e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:164 | doc_type:owners_manual
-Рекомендуется заменять шину всегда, по крайней мере, до износа шины вплоть до уровня ин- дикаторов износа. Соблюдайте предусмотренную законом высоту рисунка протектора шины.
-
-Изношенные шины отрица- тельно влияют, особенно при дви- жении с большими скоростями по мокрымдорогам, на сцеплениеши- ны с дорогой. В таком случае может иметь место явление, называемое «аквапланированием»(неконтроли- руемый увод шины – «плавание» на мокройдороге).
+> ⚠️ **Внимание:** Рекомендуется заменять шину всегда, по крайней мере, до износа шины вплоть до уровня ин- дикаторов износа. Соблюдайте предусмотренную законом высоту рисунка протектора шины.
+>
+> Изношенные шины отрица- тельно влияют, особенно при дви- жении с большими скоростями по мокрымдорогам, на сцеплениеши- ны с дорогой. В таком случае может иметь место явление, называемое «аквапланированием»(неконтроли- руемый увод шины – «плавание» на мокройдороге).
 
 
 ### Взаимная замена колес
-`skoda_octavia_ru_17bfa3e3` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 При значительном износе шин пе- редних колес рекомендуем взаимоза- менять передние колеса с задними согласно рисунку. В результате по- добной замены вы добьетесь при- близительно равного срока службы для всех шин, установленных на авто- мобиле.
 
 ![](images/4bf970ce441ccb8c7da7a0e0d48c91b48c2ed16cb7ae3a6cf3ea246069ac92ff.jpg)
@@ -18583,7 +17777,6 @@ o Пользуясь стояночными ог- нями, соблюдайте
 
 
 ### Замена колес/шин
-`skoda_octavia_ru_3b8ee182` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:166 | doc_type:owners_manual
 Шины и диски колес представля- ют собой важные элементы конструк- ции автомобиля. По этой причине можно для автомобиля пользоваться лишь теми видами шин и дисков, ко- торые были утверждены изготовите- лем автомобиля. Такие шины и дис- ки идеально приспособлены к данно- му типу автомобиля, способствуя в существенной мере достижению хо- рошей устойчивости автомобиля и безопасности его динамических СВОЙСТВ.
 
 Монтаж и ремонт шин требу- ют специальных инструментов и знаний. Поэтому желательно, чтобы эти работы выполняли лишь специ- алисты на станциях техобслужива- ния Skoda.
@@ -18604,7 +17797,6 @@ o Пользуясь стояночными ог- нями, соблюдайте
 
 
 ### На шины распространяются следующие категории скорости:
-`skoda_octavia_ru_eb1fc04d` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:167 | doc_type:owners_manual
 код Q – не более 160 км/ч;   
 код R - не более 170 км/ч;   
 код S - не более 180 км/ч;   
@@ -18632,7 +17824,6 @@ o Пользуясь стояночными ог- нями, соблюдайте
 
 
 ### Шины с зимним рисунком протектора
-`skoda_octavia_ru_dcab9bd2` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 Внимание! Ходовые свойства автомобиля при движении по доро- гам в зимнихдорожныхусловиях су- щественно улучшаются в результа- те применения шин с зимним ри- сунком протектора.
 
 Допускается применение только радиальных шин с зимним рисунком протектора.
@@ -18647,7 +17838,6 @@ B целях достиженияидеаль- ных ходовых свойс�
 
 
 ### Цепипротивоскольжения
-`skoda_octavia_ru_1905b54b` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 Снеговыми цепями можно пользо- ваться нашинах всеходобренныхраз- меров, заисключениемразмеров205/ 60 R15и 205/55 R16.
 
 Дисковое колесо 5 5J х 16 L Т 36 (оригинальнаяпринадлежность) всоче- таниисшиной205/55R16 обеспечивает возможностьпримененияснеговыхце- пей на автомобиле Осtаviа RS.
@@ -18658,23 +17848,19 @@ B целях достиженияидеаль- ных ходовых свойс�
 
 
 ### 15. ИНСТРУМЕНТЫ
-`skoda_octavia_ru_b314fdbc` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 Инструменты и домкрат находятся в полипропиленовом ковше, установ- ленном в запасном колесе.
 
 
-### Внимание!
-`skoda_octavia_ru_0b2c5ff7` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
-Домкрат, поставляемый вме- сте с автомобилем, предназначен лишь для вашего типа автомобиля. Ни в коем случае нельзя поднимать с его помощью более тяжелые авто- мобили или другие грузы.
-
-Прежде чем поднимать авто- мобиль, затяните рычаг стояночно- го тормоза и, когда автомобиль под- нят, никогда не запускайте двига- тель во избежание получения травмы.
-
-![](images/167b750603397aefc2757b410fa84c94533e1683980ff6e195dd780b328329c1.jpg)
-
-Во время выполнения работ подподнятымавтомобилемондол- жен быть надежно зафиксирован подходящимиподставками.
+> ⚠️ **Внимание:** Домкрат, поставляемый вме- сте с автомобилем, предназначен лишь для вашего типа автомобиля. Ни в коем случае нельзя поднимать с его помощью более тяжелые авто- мобили или другие грузы.
+>
+> Прежде чем поднимать авто- мобиль, затяните рычаг стояночно- го тормоза и, когда автомобиль под- нят, никогда не запускайте двига- тель во избежание получения травмы.
+>
+> ![](images/167b750603397aefc2757b410fa84c94533e1683980ff6e195dd780b328329c1.jpg)
+>
+> Во время выполнения работ подподнятымавтомобилемондол- жен быть надежно зафиксирован подходящимиподставками.
 
 
 ### 16. ЗАПАСНОЕ КОЛЕСО
-`skoda_octavia_ru_39862205` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:172 | doc_type:owners_manual
 ![](images/d218821776026685ab7b40e1d2784881c746d958454a9a3dc6baf87c20417de8.jpg)
 
 Запасное колесо лежит под ков- риком, в углублении пола багажника и закреплено с помощью специаль- ного болта.
@@ -18683,7 +17869,6 @@ B целях достиженияидеаль- ных ходовых свойс�
 
 
 ### 17. ЗАМЕНА КОЛЕСА
-`skoda_octavia_ru_06c009ed` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:173 | doc_type:owners_manual
 Поставьте автомобиль на сто- янку, по возможности вне проезжей части дороги.
 
 Затянитерычаг стОЯноЧного тормоза, включите передачу. Если автомобиль стоит на уклоне, тогда зафиксируйте от перемещения про- тивоположное колесо на той оси, на которой будете осуществлять замену.
@@ -18706,53 +17891,47 @@ o Установив запасное колесо, за- крепите его 
 
 
 ### Ни в коем случае не смазы- вайте болты жирами или маслом!
-`skoda_octavia_ru_ecd92944` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 G Затем опустите домкратом ав- томобиль вниз и затяните поперекре- стно противолежащие болты крепле- ния колеса.
 
 Сняв адаптер, наденьте на го- ловку болта защитный колпак.
 
 
-### Внимание!
-`skoda_octavia_ru_5387ae40` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
-• Затягивая противоугонный болт крепления колеса, абсолютно необходимо соблюдать момент за- тяжки 120 Нм. В случае перетяжки болт и адаптер могут при опреде- ленных обстоятельствах повре- диться.
-
-Комплект предохранитель- ных болтов можно приобрести в качестве части оригинальных при- надлежностей Skoda.
-
-Накиньте на отдельные болты крепления колеса до упора ключ и по- степенно ослабьте их путем провора- чивания в левую сторону. Ослабляя болты, держите ключ как можно ближе кего свободному концу. Если не удаст- ся ослабить некоторые из болтов, тог- да можете справиться с этой задачей, наступая на свободный конец ключа. При этом следует действовать с осто- рожностью, и целесообразнодержать- ся за автомобиль. Ослабьте болты при- близительно на один оборот.
-
-![](images/9cd6be093dd6c195ad02887bdb6203ae29f6749c1c23a8459357ae8d06474089.jpg)
-
-0 На пороге дверей имеются штампованные углубления (впереди и сзади). Прямо под углублением на- ходится место, где можно установить домкрат автомобиля.
-
-Внимание! При установке домк- рата в других местах возможно повреждение автомобиля.
-
-a Путем поворачивания ПОВО- ротного рычага домкрата выкручи- вайте его контактную площадку (ко- лодку) вверх на такую высоту, чтобы домкрат как раз точно помещался подавтомобилем.
-
-![](images/a908b552995377c219bf9278bda86487014db3488c178052c229f53ef98fb018.jpg)
-
-Колодка домкрата должна плот- но прилечь к вертикальному фальцу порога, обхватывая его, во избежание скольжения домкрата в ходе поднятия автомобиля.
-
-Продолжайте поднимать авто- мобиль до тех пор, пока заменяемое колесо не перестанет касаться опор- ной поверхности.
-
-Выкрутите болты крепления колеса и положите их на чистую по-
-
-Натолкнув сплошной колпак ступицы колеса сначала в месте от- верстия для вентиля, вдавите его по- степенно по всему периметру.
-
-Вложив замененное колесо в углубление, имеющееся в полу ба- гажника, закрепите его специальным болтом.
+> ⚠️ **Внимание:** • Затягивая противоугонный болт крепления колеса, абсолютно необходимо соблюдать момент за- тяжки 120 Нм. В случае перетяжки болт и адаптер могут при опреде- ленных обстоятельствах повре- диться.
+>
+> Комплект предохранитель- ных болтов можно приобрести в качестве части оригинальных при- надлежностей Skoda.
+>
+> Накиньте на отдельные болты крепления колеса до упора ключ и по- степенно ослабьте их путем провора- чивания в левую сторону. Ослабляя болты, держите ключ как можно ближе кего свободному концу. Если не удаст- ся ослабить некоторые из болтов, тог- да можете справиться с этой задачей, наступая на свободный конец ключа. При этом следует действовать с осто- рожностью, и целесообразнодержать- ся за автомобиль. Ослабьте болты при- близительно на один оборот.
+>
+> ![](images/9cd6be093dd6c195ad02887bdb6203ae29f6749c1c23a8459357ae8d06474089.jpg)
+>
+> 0 На пороге дверей имеются штампованные углубления (впереди и сзади). Прямо под углублением на- ходится место, где можно установить домкрат автомобиля.
+>
+> Внимание! При установке домк- рата в других местах возможно повреждение автомобиля.
+>
+> a Путем поворачивания ПОВО- ротного рычага домкрата выкручи- вайте его контактную площадку (ко- лодку) вверх на такую высоту, чтобы домкрат как раз точно помещался подавтомобилем.
+>
+> ![](images/a908b552995377c219bf9278bda86487014db3488c178052c229f53ef98fb018.jpg)
+>
+> Колодка домкрата должна плот- но прилечь к вертикальному фальцу порога, обхватывая его, во избежание скольжения домкрата в ходе поднятия автомобиля.
+>
+> Продолжайте поднимать авто- мобиль до тех пор, пока заменяемое колесо не перестанет касаться опор- ной поверхности.
+>
+> Выкрутите болты крепления колеса и положите их на чистую по-
+>
+> Натолкнув сплошной колпак ступицы колеса сначала в месте от- верстия для вентиля, вдавите его по- степенно по всему периметру.
+>
+> Вложив замененное колесо в углубление, имеющееся в полу ба- гажника, закрепите его специальным болтом.
 
 
 ### После замены колеса нужно сделать следующее:
-`skoda_octavia_ru_8680e9aa` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 проверить внутреннее давле- ние шины использованного запасно- го колеса; как можно скорее проверить приложенный момент затяжки болтов крепленияколесадинамометрическим ключом. Стальные диски и диски из легких сплавов следует затягивать до момента 120 Нм.
 
 
 ### 18. ПРОТИВОУГОННОЕ ОСНАЩЕНИЕ КОЛЕС
-`skoda_octavia_ru_625b1906` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 ![](images/b2a65523f27ea657c70b3f45f437cbb0ae2fb97cb81acc7b9a8e17fac47d2c54.jpg)
 
 
 ### Противоугонные болты крепления колес
-`skoda_octavia_ru_a946686d` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 A – болт крепления колеса;   
 в - адаптер.
 
@@ -18766,7 +17945,6 @@ A – болт крепления колеса;
 
 
 ### 19. ПРЕДОХРАНИТЕЛИ
-`skoda_octavia_ru_5aa53d30` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:179 | doc_type:owners_manual
 Отдельные цепи тока автомобиля предохраняются плавкими предо- хранителями.
 
 Предохранители находится на левой боковой стороне панели при- боров под кожухом.
@@ -18775,26 +17953,21 @@ A – болт крепления колеса;
 
 
 ### Замена предохранителей
-`skoda_octavia_ru_126c02f8` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:180 | doc_type:owners_manual
 Выключите зажигание и соот- ветствующийэлектропотребитель. 0 Всунув под кожух отвертку (стрелка на кожухе), удалите кожух рычажным движением отвертки. . Руководствуясь схемой на ри- сунке, определите, какой предохра- нитель соответствует тому или иному электропотребителю. Извлеките пе- регоревшийпредохранитель. . Перегоревший предохрани- тель можно узнать по расплавленной металлической полоске. Предохра- нитель нужно заменить другим оди- наковогоампеража.
 
 
-### Внимание!
-`skoda_octavia_ru_0f8df7a9` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:181 | doc_type:owners_manual
-Если сразу после включения соответствующегоэлектропотре- бителя установленный заново пре- дохранитель вновь перегорит, то необходимо безотлагательно про- верить электрооборудование авто- мобиля на станции техобслужива- ния.
-
-Ни в коем случае не чините перегоревших предохранителей. Починенные предохранители могут стать причиной серьезных повреж- дений электрооборудования авто- мобиля.
-
-• Некоторые из электропотре- бителей, приведенных в таблице, являются составной частью только некоторых моделей Skоda или же входят в специальное оборудова- ние автомобиля.
+> ⚠️ **Внимание:** Если сразу после включения соответствующегоэлектропотре- бителя установленный заново пре- дохранитель вновь перегорит, то необходимо безотлагательно про- верить электрооборудование авто- мобиля на станции техобслужива- ния.
+>
+> Ни в коем случае не чините перегоревших предохранителей. Починенные предохранители могут стать причиной серьезных повреж- дений электрооборудования авто- мобиля.
+>
+> • Некоторые из электропотре- бителей, приведенных в таблице, являются составной частью только некоторых моделей Skоda или же входят в специальное оборудова- ние автомобиля.
 
 
 ### Коробка предохранителей
-`skoda_octavia_ru_c2ffc1a7` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:182 | doc_type:owners_manual
 ![](images/13ccf1fb88990fbb8a730eea852759a4cbbb96b351b8b8cfa22e8632969933ff.jpg)
 
 
 ### Цветовая маркировка предохранителей и сила тока, А
-`skoda_octavia_ru_cb9501fc` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:183 | doc_type:owners_manual
 светло-коричневый 5   
 темно-коричневый 7,5   
 красный 10   
@@ -18805,7 +17978,6 @@ A – болт крепления колеса;
 
 
 ### 20. ЗАМЕНА ЛАМПОЧЕК НАКАЛИВАНИЯ
-`skoda_octavia_ru_b1dd0041` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:184 | doc_type:owners_manual
 Прежде чем приступить к замене какой-либо лампочки накаливания, нужно выключить соответствующее ос- вещение.
 
 Внимание! Не прикасайтесь не- защищенными пальцами к стеклян- ному баллону галогенной лампочки накаливания (даже малейшее заг- рязнение понижает срок службы лампочки). Пользуйтесь чистой тряпкой, бумажной салфеткой и т.п.
@@ -18814,7 +17986,6 @@ A – болт крепления колеса;
 
 
 ### Автомобили с ксеноновыми лампочками
-`skoda_octavia_ru_630e8592` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:185 | doc_type:owners_manual
 В автомобилях, оснащенных ксе- ноновыми фарами, проводят замену лампочек накаливания для ближнего, дальнего света фар и габаритных ог- ней.
 
 Основная фара с чехлом фар ближнего света, дальнего света и габаритного огня
@@ -18846,7 +18017,6 @@ A – болт крепления колеса;
 
 
 ### Передний габаритный фонарь
-`skoda_octavia_ru_0c853e7f` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:186 | doc_type:owners_manual
 1 1 1
 
 Поднимите капот автомобиля. Снимите чехол фары. Извлеките из фары ламповый   
@@ -18862,7 +18032,6 @@ A – болт крепления колеса;
 
 
 ### Передние указатели поворота
-`skoda_octavia_ru_33347aae` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:187 | doc_type:owners_manual
 O
 
 Поднимите капот автомобиля. Выкрутите винт 1. • Выдвиньте фонарь в направ- лении стрелки. • Поверните патрон вместе с лам- почкой накаливания чуть влево, извле- ките его. Вдавив неисправную лампочку накаливания в патрон, поверните ее влево и извлеките. Установите новую лампочку на- каливания, вдавите ее вовнутрь патро- на и поверните вправо до упора. Установите патрон вместе C лампочкой накаливания в корпус фона- ря указателя поворота и поверните вправо до упора. . Установите корпус фонаря указателя поворота назад таким об- разом, чтобы удерживающие высту- пы фонаря вошли в фиксированное положение B выемках ОСНОВНОЙ фары.
@@ -18879,7 +18048,6 @@ O
 
 
 ### Освещение багажника
-`skoda_octavia_ru_c57ff6ce` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:188 | doc_type:owners_manual
 ![](images/c62c1f93e863916b5484cdeee6242e8d45efd2b2ee1e65f9ac8aed056f8f199d.jpg)
 
 ![](images/979ac7b1fad14621e5f0134403fdd4770d78253546eb7380bda94e976d2c76f7.jpg)  
@@ -18889,7 +18057,6 @@ O
 
 
 ### Освещение багажника (Сотbі)
-`skoda_octavia_ru_bedf32dd` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:189 | doc_type:owners_manual
 ![](images/a7acfa529bc36b3357284a2f6d552fe757a64b045a2e4876ff041751cccda94d.jpg)
 
 Откройте крышкубагажника. Установите отвертку в щель рядом с фонарем и аккуратно извлеките его. • Отсоедините штекерные со- единители.
@@ -18908,12 +18075,10 @@ O
 
 
 ### стоп-сигнал (Соmbi)
-`skoda_octavia_ru_0c4c44cb` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 Рекомендуется менять лампочкуна- каливания на станции техобслужива- ния Skoda.
 
 
 ### 21. ЗАПУСКДВИГАТЕЛЯ ОТВСПОМОГАТЕЛЬНОГО АККУМУЛЯТОРА
-`skoda_octavia_ru_c8c8311f` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:191 | doc_type:owners_manual
 Если двигатель не заводится из- за разряженной аккумуляторной ба- тареи, то можно для его запуска вос- пользоватьсяаккумуляторнойбата- реей, находящейся в другом автомо- биле, присоединяемой с помощью вспомогательныхпусковых прово- дов. При этом нужно придерживаться нижеследующихуказаний:
 
 Номинальное напряжение обе- их аккумуляторных батарей должно равняться 12 В. Емкость аккумулятор- ной батареи, применяемой для пуска двигателя, не должна быть существен- но ниже, чем емкость разряженной ак- кумуляторной батареи.
@@ -18945,25 +18110,22 @@ A – разряженная аккумуляторная батарея;
 Внимание! Не подключайте про- вод к отрицательному (-) полюсу разряженной аккумуляторной бата- реи. Сильное искрообразование, получающееся при запуске двига- теля, может зажечь водород, выде- ляющийся из аккумуляторной бата- реи.
 
 
-### Внимание!
-`skoda_octavia_ru_6c339252` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
-6 Ни в коем случае нельзя до- пустить взаимного контакта между голыми, неизолированными частя- ми клемм вспомогательных пуско- вых проводов для облегчения пуска. Кроме того, нельзя допустить, что- бы вспомогательный пусковой про- вод, подключенный к положитель- ному (+) полюсному выводу аккуму- ляторной батареи, соприкоснулся с токопроводящими (металлически- ми) частями автомобиля, в резуль- тате чего может возникнуть опас- ность короткого замыкания.
-
-• Располагайте вспомогатель- ные провода для облегчения пуска таким образом, чтобы не произош- ло их повреждения движущимися частями в подкапотном простран- стве обоих автомобилей.
-
-Не наклоняйтесь над акку- муляторными батареями, иначе подвергаетесь риску ожога разъе- дающим электролитом.
-
-Исключите возможность при- сутствия запальных источников (от- крытого огня,зажженной сигареты и т.п.).
-
-. Заведите двигатель автомо- биля.
-
-Если двигатель не завелся прибли- зительно в течение 10 сек. , тогда пре- кратите запуск двигателя и повторите его приблизительно через 30 секунд.
-
-После запуска двигателя отклю- чите вспомогательные пусковые прово- да в обратной последовательности.
+> ⚠️ **Внимание:** 6 Ни в коем случае нельзя до- пустить взаимного контакта между голыми, неизолированными частя- ми клемм вспомогательных пуско- вых проводов для облегчения пуска. Кроме того, нельзя допустить, что- бы вспомогательный пусковой про- вод, подключенный к положитель- ному (+) полюсному выводу аккуму- ляторной батареи, соприкоснулся с токопроводящими (металлически- ми) частями автомобиля, в резуль- тате чего может возникнуть опас- ность короткого замыкания.
+>
+> • Располагайте вспомогатель- ные провода для облегчения пуска таким образом, чтобы не произош- ло их повреждения движущимися частями в подкапотном простран- стве обоих автомобилей.
+>
+> Не наклоняйтесь над акку- муляторными батареями, иначе подвергаетесь риску ожога разъе- дающим электролитом.
+>
+> Исключите возможность при- сутствия запальных источников (от- крытого огня,зажженной сигареты и т.п.).
+>
+> . Заведите двигатель автомо- биля.
+>
+> Если двигатель не завелся прибли- зительно в течение 10 сек. , тогда пре- кратите запуск двигателя и повторите его приблизительно через 30 секунд.
+>
+> После запуска двигателя отклю- чите вспомогательные пусковые прово- да в обратной последовательности.
 
 
 ### Буксировка автомобиля и пуск двигателя буксировкой автомобиля
-`skoda_octavia_ru_a1b68fab` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 Буксирные петли расположены в задней части автомобиля на правой стороне под буфером и впереди. Бук- сировочный трос или буксировочную штангу можно прикреплять только к этим петлям. Прежде чем приступить к применению передней буксирной пет- ли, нужно удалить вентиляционную ре- шетку. Решетка зафиксирована пласт- массовыми удерживающими высту- пами. Решеткуможно удалять вручную.
 
 Возьмите решетку за оребрение в ее верхней части. Отжав ее в направле- нии стрелки 1, извлеките ее в направ- лении стрелки 2.
@@ -18974,7 +18136,6 @@ A – разряженная аккумуляторная батарея;
 
 
 ### Общие указания
-`skoda_octavia_ru_4f87fdf5` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 Для того чтобы при буксировке и при запуске двигателя буксировкой автомобиля оба автомобиля излишне не страдали от толчков, применяемый буксировочный трос должен быть из- готовлен из упругого материала. По- этому пользуйтесь для этой цели толь- ко тросами из искусственного волокна или подобного материала. Во время буксировки следите все время за тем, чтобы оба автомобиля не подверга- лись чрезмерной тяге и чтобы не име- ла место их ударная нагрузка. При бук- сировке автомобилей на дорогах с пло- хим покрытием всегда имеется опас- ность чрезмерной нагрузки на крепеж- ные детали обоих автомобилей и их повреждения.
 
 При буксировке автомобилей с автоматической коробкой передач нужно соблюдать нижеуказанные особенности:
@@ -18983,29 +18144,24 @@ A – разряженная аккумуляторная батарея;
 
 
 ### 22. ДАННЫЕ ПО ЙДЕНТИФИКАЦИИ АВТОМОБИЛЯ
-`skoda_octavia_ru_2871c4ba` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:195 | doc_type:owners_manual
 Идентификационный номер автомобиля (номер кузова)
 
 Выбит на передней стенке кузова, отделяющей моторный отсек от сало- на (в верхней части справа). Номер можно прочесть через люк в пластмас- совой крышкеводонепроницаемого кожуха. Этот номер приведен также в левом нижнем углупереднего окна.
 
 
 ### Заводской номер двигателя
-`skoda_octavia_ru_60a4ae7f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 Заводской номер двигателя выбит на блоке двигателя.
 
 
 ### Заводская табличка с обозначением модели изделия
-`skoda_octavia_ru_eba5adaa` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 Расположена в передней части мо- торного отсека на левом кожухе амортизационнойстойки.
 
 
 ### Табличка омологации
-`skoda_octavia_ru_792a46fe` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:198 | doc_type:owners_manual
 Расположена на передней плоской стопорной шайбе замка капота двига- теля. Уавтомобилей, предназначенных для некоторыхстран, нет таблички омо- логации.
 
 
 ### Табличка данных
-`skoda_octavia_ru_794a36e8` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:199 | doc_type:owners_manual
 1 2 TMEK91U0Y8296212 AGR 1U527X OCTAVA COMBI GLX
 
 Расположена на полу багажника. На табличке имеются следующие данные:
@@ -19014,7 +18170,6 @@ A – разряженная аккумуляторная батарея;
 
 
 ### Ярлыки на крышке заливной горловины топливного бака
-`skoda_octavia_ru_da362c6b` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:200 | doc_type:owners_manual
 Табличка размеров шин и внутренних давлений в шинах (Octavia)   
 ![](images/093791c8ddfb37e04b5b01a939a527043a1c4938253640894c1813b56b2957a7.jpg)
 
@@ -19022,7 +18177,6 @@ A – разряженная аккумуляторная батарея;
 
 
 ### 1. ИДЕНТИФИКАЦИЯ АВТОМОБИЛЯ
-`skoda_octavia_ru_25ef89e1` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:201 | doc_type:owners_manual
 Идентификационный номер авто- мобиля (номер кузова) выбит на зад- ней поперечной стенке подкапотного пространства. Его можно прочесть, открыв капот двигателя, через люк, находящийся в водонепроницаемом кожухе. Он содержит информацию о производителе,некоторыхособеннос- тях конструкции, годе выпуска автомо- биля и др. (рис. 1.1).
 
 Начиная с IV/99 г., идентификаци- онный номер автомобиля находится в левом нижнем углу ветрового стекла:
@@ -19085,145 +18239,118 @@ A – разряженная аккумуляторная батарея;
 
 
 ### 2. ПЛАНОВОЕ ТЕХНИЧЕСКОЕ OBSLUZIVANIE
-`skoda_octavia_ru_468ce39d` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:202 | doc_type:owners_manual
 Интервалы проверки состояния или замены ремней привода на двигателе
 
 проверка состояния зубчатого ремня привода – каждые 15 000 км/12 месяцев; • замена зубчатого ремня приво- да – каждые 60 000 км.
 
 
 ### Через 15 000 км Двигатель:
-`skoda_octavia_ru_6706e443` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:203 | doc_type:owners_manual
 замена моторного масла;   
 замена масляного фильтра;   
 проверка подтеканий масла.
 
 
 ### Через 30 000 км Двигатель:
-`skoda_octavia_ru_dd7634f5` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:204 | doc_type:owners_manual
 замена моторного масла; замена масляного фильтра; . проверка отсутствия подтека- ний; 0 замена свечей зажигания каждые 60 000 км; проверка натяжения и состоя- ния клинового ремня привода, его за- мена при необходимости; проверка уровня антифриза в системе охлаждения и его корректи- ровка при необходимости; 0 замена охлаждающей жидкос- ти (антифриза с водой) — каждые 36 000 км; замена воздушного фильтра (-ов) – каждые 60 000 км или 48 ме- сяцев; проверка вредных выбросов от- работавших газов.
 
 
 ### Трансмиссия:
-`skoda_octavia_ru_3b53958c` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:205 | doc_type:owners_manual
 проверка подтеканий на короб- ке передач; 0 проверка отсутствия подтека- ний корпуса дифференциала в автома- тической коробке передач, проверка уровня масла и его доливание; 0 проверка защитных чехлов по- луосей на отсутствие повреждений или подтеканий.
 
 
 ### Рулевое управление:
-`skoda_octavia_ru_a2bf2801` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:206 | doc_type:owners_manual
 проверка всех элементов руле- вого управления на отсутствие по- вреждений, износа или утечек; • проверка уровня жидкости в усилителе рулевого управления и ее доливание;
 
 
 ### Тормозные системы:
-`skoda_octavia_ru_1427f41b` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:207 | doc_type:owners_manual
 проверка уровня тормозной жидкости и ее доливание; замена тормозной жидкости - каждые 24 месяца; проверка толщины тормозных накладок и колодок.
 
 
 ### Подвеска, колеса и шины:
-`skoda_octavia_ru_af81dc8e` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:208 | doc_type:owners_manual
 проверка состояния рычагов подвески; . проверка высоты протектора и износа всех шин.
 
 
 ### Электрические системы:
-`skoda_octavia_ru_b56e7675` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:209 | doc_type:owners_manual
 проверка работоспособности всехпотребителей; проверка стеклоочистителей и стекломывателей, доливание жидко- СтИ; проверка света фар, регули- ровка при необходимости; o проверкаотсутствия повреж- дений модулей подушки безопаснос- ти; . сброс показаний счетчиков на ноль; • батарея - проверка уровня электролита и крепления батареи.
 
 
 ### Двигатель:
-`skoda_octavia_ru_00f2890e` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:210 | doc_type:owners_manual
 замена моторного масла; замена масляного фильтра; • проверка отсутствия подтека- ний; . проверка уровня антифриза в системе охлаждения и его корректи- ровка при необходимости; заменаохлаждающейжидко- сти (антифриза с водой) - каждые 36 000 км; замена воздушного фильтра (- ов) – каждые 60 000 км или 48 меся- цев; проверка состояния зубчатого ремня привода.
 
 
 ### Трансмиссия:
-`skoda_octavia_ru_68b82f84` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:211 | doc_type:owners_manual
 6 проверка подтеканий на короб- ке передач; • проверка защитных чехлов по- луосей на отсутствие повреждений или подтеканий.
 
 
 ### Рулевое управление:
-`skoda_octavia_ru_d390d147` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:212 | doc_type:owners_manual
 проверка всех элементов руле- вого управления на отсутствие по- вреждений, износа или утечек; проверка уровня жидкости в усилителе рулевого управления и ее доливание.
 
 
 ### Электрические системы:
-`skoda_octavia_ru_45e29f7a` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:214 | doc_type:owners_manual
 проверка работоспособности всехпотребителей; проверка стеклоочистителей и стекломывателей, доливание жидкос- ти; • сброс показаний счетчиков на ноль; • батарея проверка уровня электролита и крепления батареи.
 
 
 ### Интерьер:
-`skoda_octavia_ru_1fcb6bf2` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:215 | doc_type:owners_manual
 визуальная проверка отсут- ствия повреждений модулей подушек безопасности.
 
 
 ### Двигатель:
-`skoda_octavia_ru_99c16193` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:216 | doc_type:owners_manual
 o проверка состояния и натяже- ния ремней привода, замена или регу- лировка при необходимости; . проверка системы охлаждения на отсутствие подтеканий, проверка уровня охлаждающей жидкости и со- стояния антифриза, доливание при необходимости; • проверка патрубков, шлангов и электрических соединений топливной системы; . проверка воздушного фильтра, замена при необходимости; • проверка уровня масла, доли- вание при необходимости; . проверка вредных выбросов отработавших газов.
 
 
 ### Трансмиссия:
-`skoda_octavia_ru_8c345464` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:217 | doc_type:owners_manual
 проверка уровня трансмисси- онной жидкости, доливание при необ- ходимости и проверка подтеканий на механической коробке передач; • проверка уровня трансмисси- онной жидкости, доливание при необ- ходимости и проверка подтеканий на автоматической коробке передач; . проверка защитных чехлов по- луосей на отсутствие повреждений или износа.
 
 
 ### Рулевое управление:
-`skoda_octavia_ru_e20a94bd` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:218 | doc_type:owners_manual
 проверка всех элементов руле- вого управления на отсутствие по- вреждений или износа; • проверка уровня жидкости в усилителе рулевого управления, доли- вание при необходимости.
 
 
 ### Тормозные системы:
-`skoda_octavia_ru_448db01e` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:219 | doc_type:owners_manual
 проверка тормозных трубок и шлангов на отсутствие повреждений; проверка уровня тормозной жидкости и ее доливание; проверка толщины тормозных накладок и колодок; . проверка и регулировка сто- яночного тормоза.
 
 
 ### Подвеска, колеса и шины:
-`skoda_octavia_ru_24fd9cfd` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:220 | doc_type:owners_manual
 проверка состояния элементов подвески; проверка высоты и износа про- тектора всех шин, включая запасное колесо; o проверка давления в шинах и его регулировка;
 
 проверка отсутствия подтека- ний в амортизаторах.
 
 
 ### Электрооборудование:
-`skoda_octavia_ru_e816a2d8` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 . проверка системы освещения и сигнала; • проверка стеклоочистителей и стеклоомывателей, доливание жидкос- ТИ; • проверка света фар, регули- ровка при необходимости; • проверка и очистка клемм акку- муляторной батареи.
 
 
 ### Двигатель:
-`skoda_octavia_ru_64f104d7` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:222 | doc_type:owners_manual
 проверка состояния и натяже- ния ремней привода, замена или регу- лировка при необходимости; проверка системы охлаждения на отсутствие подтеканий, проверка уровня охлаждающей жидкости и со- стояния антифриза, доливание при необходимости; . проверка патрубков, шлангов и электрических соединений топливной системы; • проверка воздушного фильтра, замена при необходимости; • проверка уровня масла,долива- ние при необходимости; . проверка вредных выбросов отработавших газов.
 
 
 ### Трансмиссия:
-`skoda_octavia_ru_9d4b1e45` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:223 | doc_type:owners_manual
 проверка уровня трансмисси- онной жидкости, доливание при необ- ходимости и проверка подтеканий на автоматической коробке передач.
 
 
 ### Рулевое управление:
-`skoda_octavia_ru_b66cd723` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:224 | doc_type:owners_manual
 проверка уровня жидкости в усилителе рулевого управления, доли- вание при необходимости.
 
 
 ### Тормозные системы:
-`skoda_octavia_ru_e65f3c4c` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:225 | doc_type:owners_manual
 проверка уровня тормозной жидкости, доливание при необхо- димости; . проверка толщины тормозных накладок и колодок.
 
 
 ### Подвеска, колеса и шины:
-`skoda_octavia_ru_d1eae984` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:226 | doc_type:owners_manual
 o проверка подвески на отсут- ствие повреждений; проверка глубины и износа про- тектора всех шин, включая запасное колесо; проверка давления в шинах и его регулировка.
 
 
 ### Электрооборудование:
-`skoda_octavia_ru_73b3bd42` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:227 | doc_type:owners_manual
 проверка системы освещения и сигнала; 0 проверка стеклоочистителей и стеклоомывателей,доливание жидкос- ти; проверка и очистка клемм акку- муляторной батареи.
 
 
 ### 3. ПРОВЕРКА И РЕГУЛИРОВКА СВЕТА ФАР
-`skoda_octavia_ru_ce26c8e7` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:228 | doc_type:owners_manual
 0 отрегулировать давление B шинах; . проверить рассеиватели фар и заменить поврежденные; проверить состояние ламп на- каливания и отражателей фар; . загрузить автомобиль. 3aгрузка автомобиля: один человек или 75 кг на сиденье водителя (снаряжен- ная масса автомобиля). 2. Автомобиль и прибор для регу- лировки света фар (реглоскоп) уста- новите на ровной поверхности. 3. Выровняйте автомобиль и рег- лоскоп в соответствии с рекоменда- циями по эксплуатации прибора. 4. У автомобилей с корректором угла наклона фар на панели приборов проверьте работоспособность этого устройства. 5. Отрегулируйте угол наклона оп- тической оси фар. Угол наклона опти- ческой оси фар: он выбит в верхней части корпуса фары и выражен в %. Основные фары должны быть отрегу- лированы по этому углу. Данные в процентах, приведенные на наклейке, соответствуют десятиметровому рас- стоянию проекционной стены, это значит, что, например, 1.2% соответ- ствует 12 см.
 
 1. Для проведения регулировки света фар необходимо выполнить следующие условия:
 
 
 ### Проверка регулировки света фар Основная фара
-`skoda_octavia_ru_26ca1063` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:229 | doc_type:owners_manual
 6. Проверьте, совпадает ли при включенном ближнем свете фары светотеневая граница горизонталь- ного светового контура с горизон- тальной разделительной линией 1 на испытательной поверхности (рис. 1.13).
 
 7. Проверьте, чтобы точка перело- ма 2 между левой частью горизон- тального контура и частью светотене- вой границы, поднимающейся напра- во вверх, находилась на перпендику- ляре, опущенном с отметки середины 3. Световое ядро светового пучка дол- жно находиться правее этого перпен- дикуляра.
@@ -19235,12 +18362,10 @@ o проверка подвески на отсут- ствие поврежде
 
 
 ### Остальные дополнительные фары
-`skoda_octavia_ru_c5ea4c1c` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:230 | doc_type:owners_manual
 Дополнительно установленные фары должны проверяться и, при не- обходимости, регулироваться соглас- но действующим нормам и правилам.
 
 
 ### Регулировка фар
-`skoda_octavia_ru_a27f5e87` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:231 | doc_type:owners_manual
 8. Отрегулируйте положение фары с помощью крестообразной отвертки для регулировочных винтов (рис. 1.14). Оба регулировочных винта занимают зеркальное положение по отношению к левой фаре.
 
 ![](images/f5533c92524d35beadd66b652f6571a0bdcb74510a0e7763f9c93acb03e2255b.jpg)  
@@ -19257,7 +18382,6 @@ o проверка подвески на отсут- ствие поврежде
 
 
 ### 4. ПРОВЕРКА УРОВНЯ МОТОРНОГО МАСЛА
-`skoda_octavia_ru_07f493a1` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:232 | doc_type:owners_manual
 1. Проверку следует производить после остановки двигателя, причем, необходимо подождать примерно 3 минуты, прежде чем приступить к про- верке уровня масла, для того чтобы масло могло стечь в поддон.
 
 2Извлеките щуп уровня масла, вытрите чистой тряпкой и вновь всунь- те его на место до упора.
@@ -19273,7 +18397,6 @@ o проверка подвески на отсут- ствие поврежде
 
 
 ### 5. ЗАМЕНА МОТОРНОГО МАСЛА
-`skoda_octavia_ru_de7f0d4b` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:233 | doc_type:owners_manual
 Внимание!
 
 Замену моторного масла не- обходимо производить тогда, когда двигатель прогрет до рабочей тем- пературы.
@@ -19294,12 +18417,10 @@ o проверка подвески на отсут- ствие поврежде
 
 
 ### Бензиновые двигатели
-`skoda_octavia_ru_35b289e1` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:234 | doc_type:owners_manual
 1. Ослабьте масляный фильтр со стяжным ленточным хомутом и извле- ките его. 2. Протрите поверхность прилега- ния уплотнительного кольца к двига- телю. 3. Слегка смажьте маслом резино- вое уплотнительное кольцо. 4. Установите новый фильтр, затя- нув его вручную. 5. После замены масла проверьте герметичность фильтра на прогретом двигателе.
 
 
 ### Дизельные двигатели
-`skoda_octavia_ru_bb4edd3e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:235 | doc_type:owners_manual
 6. Открутите крышку 1 с помощью ключа (рис. 1.18). 7. Замените уплотнительные коль- ца круглого сечения 2 и 3 и фильтрую- щий элемент 4. 8. Затяните крышку 1 с помощью ключа до момента 25 Нм.
 
 ![](images/ab47ff1830bd5287e0867f9fd2099c5686def07116f4fb0df4fa709cc66c0a63.jpg)  
@@ -19308,19 +18429,16 @@ o проверка подвески на отсут- ствие поврежде
 
 
 ### 7. ЗАМЕНА ТОПЛИВНОГО ФИЛЬТРА (ДИЗЕЛЬНЫЕ ДВИГАТЕЛЙ)
-`skoda_octavia_ru_1b99246b` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:236 | doc_type:owners_manual
 Внимание! Избегайте попада- ния дизельного топлива на патруб- ки системы охлаждения. Если та- кое произошло, необходимо не- медленно очистить патрубок.
 
 
 ### Снятие
-`skoda_octavia_ru_4a381b66` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:237 | doc_type:owners_manual
 1. Снимите хомут 5 (рис. 1.19). 2. Снимите регулировочный клапан   
 4 с присоединенным топливопроводом. 3. Снимите топливные шланги с   
 выводов 1 и 2 на фильтре. 4. Ослабьте винт с хомутом 3. 5. Покачайте и выньте фильтр.
 
 
 ### Установка
-`skoda_octavia_ru_797bb5d3` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:238 | doc_type:owners_manual
 6. Наденьте новый фильтр. 7. Установите винт с хомутом 3 и затяните его. 8. Наденьте новое уплотнительное кольцо под регулировочный клапан. 9.Установите регулировочный кла- пан 4 с присоединенными топливопро- водами. 10. Установите хомут 5. 11. Наденьте топливные шланги на выводы 1 и 2 и закрепите шланги хому- тами. 12. Проверьте систему подачи топ- лива на отсутствие утечек (на глаз). 13. Повторно нажмите на педаль подачи топлива; на холостом ходу топ- ливо должно поступать по прозрачному трубопроводу без пузырьков.
 
 ![](images/698406762a4fb5d9cee2a3414dc35ff7ebceef72f9d9ec79cd3d2eeb8953bcbd.jpg)  
@@ -19328,7 +18446,6 @@ o проверка подвески на отсут- ствие поврежде
 
 
 ### 8. СЛИВ КОНДЕНСАТА ИЗ ТОПЛИВНОГО ФИЛЬТРА (ДИЗЕЛЬНЫЕ ДВИГАТЕЛИ)
-`skoda_octavia_ru_276938f4` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:239 | doc_type:owners_manual
 2.Ослабьте сливную пробкуи дайте вытечь жидкости в количестве около 0.1 литра (рис. 1.21).
 
 ![](images/26f3a64a21a188d59c37be7df5188471215939f6d1ab74486a2d0ae8b612e7bb.jpg)  
@@ -19338,7 +18455,6 @@ o проверка подвески на отсут- ствие поврежде
 
 
 ### 9. ПРОВЕРКА СОСТОЯНИЯ РЕМНЯ ПРИВОДА ГЕНЕРАТОРА
-`skoda_octavia_ru_8d77dfc9` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:240 | doc_type:owners_manual
 1. Поднимите автомобиль.   
 2. Снимите правый нижний кожух моторного отсека.   
 3. Проверните коленчатый вал дви- гателя за шкив коленчатого вала с помощью гаечного ключа (рис. 1.22).
@@ -19358,7 +18474,6 @@ o проверка подвески на отсут- ствие поврежде
 
 
 ### 10. ЗАМЕНА СВЕЧЕЙ ЗАЖИГАНИЯ
-`skoda_octavia_ru_d289d222` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:241 | doc_type:owners_manual
 1. Для откручивания свечей зажигания необходимо пользоваться специаль- ным ключом.
 
 2. Свечи следует менять через каждые 60 000 км.   
@@ -19373,7 +18488,6 @@ o проверка подвески на отсут- ствие поврежде
 
 
 ### 11. ПРОВЕРКА УРОВНЯ МАСЛА В УСИЛИТЕЛЕ РУЛЕВОГО УПРАВЛЕНИЯ
-`skoda_octavia_ru_bd5ab746` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:242 | doc_type:owners_manual
 1. Проверка уровня масла должна проводиться при установке колес для прямолинейного движения.
 
 2. Уровень масла должен находить- ся вблизи отметки «МІН» (рис. 1.24).
@@ -19387,7 +18501,6 @@ o проверка подвески на отсут- ствие поврежде
 
 
 ### 12. ПРОВЕРКА УРОВНЯ МАСЛА В МЕХАНИЧЕСКОЙ КОРОБКЕ ПЕРЕДАЧ
-`skoda_octavia_ru_64f7ff19` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:243 | doc_type:owners_manual
 Пятиступенчатые коробки передач «02J» и «02C», «02К» (1.8 л/92 кВт, 1.8 л/110 кВт, 1.9 л/66 кВт, 1.9 л/ 81 кВт, 1.6 л и 1.9 л/50 кВт)
 
 1. Открутите сливную пробку (рис. .25a,6).
@@ -19401,31 +18514,28 @@ o проверка подвески на отсут- ствие поврежде
 2. Проверьте уровень масла: он должен доходить до нижней кромки маслозаливного отверстия. 3. В случае необходимости долей- те трансмиссионное масло (G 50 SАE 75 W90). 4. Вкрутите сливную пробку до момента 25 Нм.
 
 
-### Внимание!
-`skoda_octavia_ru_52d9e0bf` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:244 | doc_type:owners_manual
-Ни в коем случае не смеши- вайте тормозную жидкость с жид- костями, содержащими минераль- ные масла. Минеральные масла наносят вред уплотнителям и ман- жетам тормозной системы.
-
-• Тормозная жидкость ядови- та. Кроме того, ввиду ее разъедаю- щего действия нельзя, чтобы жид- кость соприкасалась с лакирован- ными поверхностями.
-
-Тормозная жидкость гигро- скопична, это значит, что она спо- собна поглощать влагу из воздуха. Поэтомувсегда храните ее в закры- том сосуде.
-
-1. С помощью колбы для отсасыва- ния извлеките столько тормозной жид- кости из бачка, сколько получится.
-
-2. Установите на бачок устройство для наполнения и удаления воздуха.
-
-3. Для очистки не пользуйтесь ника- кими тряпками, содержащими мине- ральные масла.
-
-4. Установите и натяните распор- ную планку для удержания педали тор- моза между тормозной педалью и си- деньем водителя.
-
-5. Открутите пробки для удаления воздуха и дайте вытечь установленно- му количеству жидкости. При этом вытесняется старая жидкость из сис- темы путем накачивания новой жидко- сти - объем жидкости составляет от 400 до 500 см³.
-
-6. Сняв устройство, присоединен- ное к бачку, удалите распорную планку для удержания педали тормоза.
-
-7. Проверьте давление на педаль и свободный ход педали, который не должен превышать 1/3 общего хода педали.
+> ⚠️ **Внимание:** Ни в коем случае не смеши- вайте тормозную жидкость с жид- костями, содержащими минераль- ные масла. Минеральные масла наносят вред уплотнителям и ман- жетам тормозной системы.
+>
+> • Тормозная жидкость ядови- та. Кроме того, ввиду ее разъедаю- щего действия нельзя, чтобы жид- кость соприкасалась с лакирован- ными поверхностями.
+>
+> Тормозная жидкость гигро- скопична, это значит, что она спо- собна поглощать влагу из воздуха. Поэтомувсегда храните ее в закры- том сосуде.
+>
+> 1. С помощью колбы для отсасыва- ния извлеките столько тормозной жид- кости из бачка, сколько получится.
+>
+> 2. Установите на бачок устройство для наполнения и удаления воздуха.
+>
+> 3. Для очистки не пользуйтесь ника- кими тряпками, содержащими мине- ральные масла.
+>
+> 4. Установите и натяните распор- ную планку для удержания педали тор- моза между тормозной педалью и си- деньем водителя.
+>
+> 5. Открутите пробки для удаления воздуха и дайте вытечь установленно- му количеству жидкости. При этом вытесняется старая жидкость из сис- темы путем накачивания новой жидко- сти - объем жидкости составляет от 400 до 500 см³.
+>
+> 6. Сняв устройство, присоединен- ное к бачку, удалите распорную планку для удержания педали тормоза.
+>
+> 7. Проверьте давление на педаль и свободный ход педали, который не должен превышать 1/3 общего хода педали.
 
 
 ### 14. ПРОВЕРКА ТОЛЩИНЫ ТОРМОЗНЫХ НАКЛАДОК
-`skoda_octavia_ru_97883bc2` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:245 | doc_type:owners_manual
 Дисковые тормозные механизмы
 
 Внимание! В целях лучшей оцен- ки толщины накладок тормозных колодок следует снять колеса и после проведения проверки уста- новить их назад в то же положение.
@@ -19444,7 +18554,6 @@ o проверка подвески на отсут- ствие поврежде
 
 
 ### Барабанные тормозные механизмы
-`skoda_octavia_ru_931d2fcc` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:246 | doc_type:owners_manual
 6. Проверьте толщину тормозных накладок через смотровое отверстие в защитном щитке (рис. 1.28).
 
 ![](images/6e2c340ee678a809f38b7884e40deaa1b3a6b9a7d836502aec9c661de6123c03.jpg)  
@@ -19454,7 +18563,6 @@ o проверка подвески на отсут- ствие поврежде
 
 
 ### 15. ПОДНЯТИЕ АВТОМОБИЛЯ
-`skoda_octavia_ru_b228cd9d` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:247 | doc_type:owners_manual
 1. Подъемные плечи можно устанав- ливать только под лонжеронами (рис. 1.29).
 
 ![](images/649a32b9423e593b25e336dbede7bf2072f2c0c8005396ef03fbfe6e6ed8aeb7.jpg)  
@@ -19469,22 +18577,18 @@ o проверка подвески на отсут- ствие поврежде
 Рис. 1.31. Задние точки опоры.
 
 
-### Внимание!
-`skoda_octavia_ru_29cfc166` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:248 | doc_type:owners_manual
-Во время поднятия автомо- биля запрещается запускать двига- тель и включать передачу, если хоть одно из колес все еще касает- ся опорной поверхности.
-
-При проведении работ под поднятым автомобилем необходи- мо зафиксировать его от падения подставками.
-
-3. Задние точки опоры находятся на обоих лонжеронах на расстояниях, определенных маркировкой на пороге (рис. 1.31).
+> ⚠️ **Внимание:** Во время поднятия автомо- биля запрещается запускать двига- тель и включать передачу, если хоть одно из колес все еще касает- ся опорной поверхности.
+>
+> При проведении работ под поднятым автомобилем необходи- мо зафиксировать его от падения подставками.
+>
+> 3. Задние точки опоры находятся на обоих лонжеронах на расстояниях, определенных маркировкой на пороге (рис. 1.31).
 
 
 ### Бензиновые двигатели
-`skoda_octavia_ru_b84d3f02` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:249 | doc_type:owners_manual
 ![](images/f591611592928db53421f8b42e4e1e039a1450a8a2810c3113bc29211e1b48d4.jpg)
 
 
 ### Снятие
-`skoda_octavia_ru_0df4fa95` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:250 | doc_type:owners_manual
 1. Отсоедините и снимите бата- рею. 2.Снимите кронштейн батареи (рис.2.1).
 
 ![](images/8398e7ab04af45cd9d02dd765f4857bd762b2a89bb1e6ccde05ce97108567e9d.jpg)  
@@ -19567,7 +18671,6 @@ o проверка подвески на отсут- ствие поврежде
 
 
 ### 18. На автомобилях с механичес- кой коробкой передач:
-`skoda_octavia_ru_ef65a074` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:251 | doc_type:owners_manual
 отожмите отверткой штоКи вилок переключения передач 1 и 2 (рис. 2.14); . снимите привод переключе- ния передач с коробки передач.
 
 ![](images/f8b068ae9529647b1f19fa56662810d2279fd7928a82f279503ff1c804e40e67.jpg)  
@@ -19582,7 +18685,6 @@ o проверка подвески на отсут- ствие поврежде
 
 
 ### 21. На автомобилях с автомати- ческой коробкой передач:
-`skoda_octavia_ru_6ebe063e` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:252 | doc_type:owners_manual
 отожмите отверткой трос уп- равления рычагом селектора пере- ключения передач 1 на штоке вилки переключения передач и на коробке передач 4, снимите стопорный хо- мутик 3 с контропоры (рис. 2.16); • снятый трос управления ры- чагом селектора переключения пе- редач отведите в сторону; • открутитефиксатор нагнета- ющего трубопровода рулевого уп- равления с усилителем от опоры коробки передач.
 
 ![](images/1c947c53dd6e1ef2a0cc2c7a4eff6f62fc7a744b2f354a4ebc9f9b3b92f9e8f6.jpg)  
@@ -19611,7 +18713,6 @@ HOB; 2 – от спидометра; 3 - от комбинированного 
 
 
 ### Для всех автомобилей:
-`skoda_octavia_ru_4526e10e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:253 | doc_type:owners_manual
 23. Снимите нагнетающий 1 и сливной 2 топливопроводы путем нажатия фиксирующейкнопки B месте соединения. Трубопроводы и разъемы имеют различную цветную маркировку. Снимите шланг 3 с бач- ка с активированным углем.
 
 24. Отсоедините шланги охлаж- дающей жидкости (рис. 2.18):
@@ -19643,7 +18744,6 @@ HOB; 2 – от спидометра; 3 - от комбинированного 
 
 
 ### с кондиционером воздуха
-`skoda_octavia_ru_9dd9bc71` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:254 | doc_type:owners_manual
 27. Открутите  фиксатор шлангов для хладагента. 28. Удалите компрессор, закре- пите его на буксирную петлю авто- мобиля на внутренней стороне бам- пера (рис. 2.20).
 
 ![](images/497ca796e620c6e3249783ed7ec0af13955f2660c9475c06445ee2595b8744a7.jpg)  
@@ -19651,7 +18751,6 @@ HOB; 2 – от спидометра; 3 - от комбинированного 
 
 
 ### Для всех автомобилей
-`skoda_octavia_ru_1fd22a70` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:255 | doc_type:owners_manual
 29. Удалите качательную опору двигателя (рис. 2.21). Снимите экра- нирование полуоси. Отсоедините по- луоси от фланцев коробки передач. Отведите обе полуоси назад и привя- жите проволокой к кузову.Снимите переднюю часть выпускного трубо- провода.
 
 ![](images/38c1bb545c40500786564603f7022717cef007846e15769951666d205ed74755.jpg)  
@@ -19686,7 +18785,6 @@ HOB; 2 – от спидометра; 3 - от комбинированного 
 
 
 ### Автомобили с автоматической коробкой передач
-`skoda_octavia_ru_054c5772` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:256 | doc_type:owners_manual
 35. Извлеките пробки из защитно- го щитка гидротрансформатора. От- крутите три гайки на гидротрансфор- маторе, проворачивая при этом кар- данный вал на 1/3 оборота (рис. 2.25). После рассоединения двигателя и ко- робки передач необходимо зафикси- ровать гидротрансформатор от выпа- дания.
 
 ![](images/107284ae2de274ad159804506dc3effa29e5527f61b5928be324f16c94534bc9.jpg)  
@@ -19696,7 +18794,6 @@ HOB; 2 – от спидометра; 3 - от комбинированного 
 
 
 ### Установка
-`skoda_octavia_ru_b5f49c49` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:257 | doc_type:owners_manual
 37. Установка производится в по- рядке, обратном снятию.
 
 ![](images/fadd48796611be6adec71c2ff48752812ef34597087b7686bc1ef004d2ac0bc1.jpg)  
@@ -19704,7 +18801,6 @@ HOB; 2 – от спидометра; 3 - от комбинированного 
 
 
 ### ДВИГАТЕЛИ 1.6 л «АЕЕ», «AЕН», «AKL»
-`skoda_octavia_ru_d834b4e3` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:258 | doc_type:owners_manual
 Технические характеристики двигателей 1.6 л приведены в таблице 2.1.
 
 Таблица 2.1. Технические характеристики двигателей 1.6 л   
@@ -19712,7 +18808,6 @@ HOB; 2 – от спидометра; 3 - от комбинированного 
 
 
 ### 2.1. Двигатель «АЕЕ»
-`skoda_octavia_ru_e380e0e7` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:259 | doc_type:owners_manual
 ![](images/195167c035c861c4e467b1e0a98a43f6ef41e52bd887b0ab969f906c8433fcda.jpg)  
 Рис. 2.27. Схема ремня привода генератора:
 
@@ -19728,14 +18823,12 @@ HOB; 2 – от спидометра; 3 - от комбинированного 
 
 
 ### 2.2. Двигатели «АЕН» и «AKL»
-`skoda_octavia_ru_1afe71fa` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:260 | doc_type:owners_manual
 Ремень приводов генератора двигателей «АЕН» и «АКL» показан на рис. 2.29.
 
 Внимание! Двигатели с комп- рессором кондиционера оснаще- ны двойным ремнем привода ге- нератора.
 
 
 ### Снятие
-`skoda_octavia_ru_a6de98f6` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:261 | doc_type:owners_manual
 Внимание! Перед тем как при- ступить к снятию ремня привода ге- нератора, необходимо обозначить направление его вращения. Вра- щение его в противоположную сто- ронуможет привестикего преждев- ременномуповреждению.
 
 1. Ослабьте натяжение ремня при- вода генератора. Чтобы ослабить натя- жение, необходимо повернуть натяж- ное устройство в направлении стрелки (рис. 2.32).
@@ -19760,14 +18853,12 @@ HOB; 2 – от спидометра; 3 - от комбинированного 
 
 
 ### Установка
-`skoda_octavia_ru_3696bb65` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:262 | doc_type:owners_manual
 Внимание! Перед установкой ремня привода генератора нужно проверить прочность установки всех агрегатов.
 
 3.Наденьтеременьприводагенера- тора. Ослабьте натяжное устройство. Извлеките для этой цели дорн. 4. Заведите двигатель и проверьте прогиб ремня.
 
 
 ### 3.1. Двигатель «АЕЕ»
-`skoda_octavia_ru_5f5ca950` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:263 | doc_type:owners_manual
 Зубчатый ремень привода распределительного вала двигателя «АЕЕ» показан нарис. 2.34.
 
 ![](images/3091dc27d6a6f3dc169e0f615a1015d00366cd1f779ded84cd5a352cae0cba47.jpg)  
@@ -19775,7 +18866,6 @@ HOB; 2 – от спидометра; 3 - от комбинированного 
 
 
 ### Снятие
-`skoda_octavia_ru_e45d6c61` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:264 | doc_type:owners_manual
 1. Снимите ремень привода гене- ратора (пункт 1).
 
 2. Снимите канавочный шкив колен- чатого вала, а также верхнюю и ниж- нюю части защитного кожуха зубчатого ремня привода распределительного вала.
@@ -19784,21 +18874,18 @@ HOB; 2 – от спидометра; 3 - от комбинированного 
 
 
 ### Установка
-`skoda_octavia_ru_d7286ba0` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:265 | doc_type:owners_manual
 6. Установите шкив распредели- тельного вала напротив метки (стрел- ка A) (рис. 2.35).
 
 бец зубчатого шкива коленчатого вала должен находиться напротив метки на уплотнительном фланце (стрелка В) (рис.2.35).
 
 
 ### Для автомобилей с номерами двигателя до 518016
-`skoda_octavia_ru_d52df519` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:266 | doc_type:owners_manual
 7.Установите поршень первого ци- линдра в ВМТ. Подшлифованный зу-
 
 8. Установите поршень первого цилиндра в ВМТ. Метка (стрелка 1) на зубчатом шкиве коленчатого вала должна находиться напротив метки «2V» (стрелка 2) на корпусе масляного насоса (рис. 2.36).
 
 
 ### Для автомобилей с номерами двигателя после 518016
-`skoda_octavia_ru_2f034e2a` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:267 | doc_type:owners_manual
 ![](images/df1114945093d4f1860abcc1eb26d5fa0640adf8cd0d8707209b6ba4b947ee28.jpg)  
 Рис. 2.36. Для правильной установки зубчатого ремня привода совместите метки на зубчатом шкиве коленчатого вала и корпусе масляного насоса.
 
@@ -19807,7 +18894,6 @@ HOB; 2 – от спидометра; 3 - от комбинированного 
 
 
 ### Для всех двигателей
-`skoda_octavia_ru_a935785c` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:268 | doc_type:owners_manual
 9. Установите зубчатый ремень привода. Если ремень устанавлива- ется повторно, установите его в на- правлении вращения по ранее сделан- ным меткам.
 
 10. Установите ролик натяжного устройства и затяните рукой сто- порную гайку. Стопорный винт при этом должен зайти в выемку в опор- ной плите (рис. 2.37).
@@ -19823,7 +18909,6 @@ HOB; 2 – от спидометра; 3 - от комбинированного 
 
 
 ### 3.2. Двигатели «АЕН» и «АKL»
-`skoda_octavia_ru_9d498154` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:269 | doc_type:owners_manual
 Зубчатый ремень привода распределительного вала двигателей «АЕН» и «AKL» показан на рис. 2.38.
 
 ![](images/19759353a14d2ab5338c94c01e28f6451c8986b2dae95d5577a3c08f4bbbb928.jpg)
@@ -19839,7 +18924,6 @@ HOB; 2 – от спидометра; 3 - от комбинированного 
 
 
 ### Снятие
-`skoda_octavia_ru_13c0860a` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:270 | doc_type:owners_manual
 1. Снимите ремень привода гене-   
 ратopа. 2. Снимите натяжное устройство   
 ремня привода генератора. 3. Установите поршень 1-го цилин-
@@ -19871,7 +18955,6 @@ OF
 
 
 ### Установка и натяжение зубчатого ремня привода (регулировка фаз газораспределения)
-`skoda_octavia_ru_7e33a67e` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:271 | doc_type:owners_manual
 13.Совместите меткуна шкиве рас- пределительного вала с меткой на зад- нем защитном кожухе зубчатого ремня привода (стрелки) (рис. 2.43).
 
 ![](images/ff3718ca074c3f618a80247a143d1df1ed8d2a8b9d533368267d294ea5a12a87.jpg)  
@@ -19902,7 +18985,6 @@ OF
 
 
 ### 4.1. Двигатель «АЕЕ»
-`skoda_octavia_ru_5a3d5d70` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:272 | doc_type:owners_manual
 Крышка головки блока цилиндров двигателя «АЕЕ» показана на рис. 2.45.
 
 ![](images/f1cf58ad686373acdc9639817454830a020dd3dba05d0db7aca93330c287f605.jpg)  
@@ -19910,17 +18992,14 @@ OF
 
 
 ### Снятие
-`skoda_octavia_ru_9edbf860` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:273 | doc_type:owners_manual
 1. Снимите верхнюю часть впуск- ного коллектора. 2 Снимите верхнюю часть защит- ного кожуха зубчатого ремня привода распределительного вала. 3. Открутите гайки крепления крышки головки блока цилиндров. 4.Удалите планки жесткости, фик- сатор и защитный кожух зубчатого ремня привода и снимите крышку го- ловки блока цилиндров.
 
 
 ### Установка
-`skoda_octavia_ru_926bac92` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:274 | doc_type:owners_manual
 5.Установите крышкуголовки блока цилиндров, планки жесткости, защит- ный кожух зубчатого ремня привода и фиксатор. 6. Затяните гайки накрест до мо- мента 10 Нм.
 
 
 ### 5.1. Двигатель «АЕЕ»
-`skoda_octavia_ru_9b923543` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:275 | doc_type:owners_manual
 Головка блока цилиндров двигателя «АЕЕ» показана на рис. 2.46.
 
 ![](images/9af7e18d3a62cca6a125a07202c9a577cd812a7238f2dda3342ce68679975d39.jpg)  
@@ -19933,12 +19012,10 @@ OF
 
 
 ### Снятие
-`skoda_octavia_ru_7a7e59f3` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:276 | doc_type:owners_manual
 1. Ослабьте болты крепления головки блока цилиндров в указан- ной последовательности (рис. 2.47).
 
 
 ### Проверка
-`skoda_octavia_ru_80939203` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:277 | doc_type:owners_manual
 2. Проверьте деформацию головки блока цилиндров в нескольких местах (рис. 2.48). Максимально допустимая деформация: 0.5 мм.
 
 ![](images/9e9c429d94f667f41dbd34df4ac89e6ee1e78e24a431ffbe3ffd0f4546073f50.jpg)  
@@ -19949,7 +19026,6 @@ A
 
 
 ### Установка
-`skoda_octavia_ru_621bdf1d` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:278 | doc_type:owners_manual
 3. Осторожно удалите остатки прокладки.
 
 4.Чтобы правильно установить (от- центровать) головку блока цилиндров, необходимо в отверстия для болтов крепления головки блока цилиндров вкрутить направляющие пальцы(стрел- ки) (рис. 2.49).
@@ -19971,14 +19047,12 @@ A
 
 
 ### 5.2. Двигатели «АЕН» и «AKL»
-`skoda_octavia_ru_1b6e37a8` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:279 | doc_type:owners_manual
 Головка блока цилиндров двигателей «АЕН» и «АКЛ» показана на рис. 2.51.
 
 ![](images/943274d32dfd2aaab39757f939595b17e137fb6ba804787249e5a8e2b0bafc9e.jpg)
 
 
 ### Рис. 2.51. Головка блока цилиндров:
-`skoda_octavia_ru_48b97f99` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:280 | doc_type:owners_manual
 1, 2, 10, 12, 17, 21, 26, 28 – Болты; 3 – Задняя часть защитного кожуха зубчатого ремня привода распределительного вала; 4 - Головка блока цилиндров; 5 - Болт крепления головки блока цилиндров;   
 6 - Маслоотделитель; 7 - Прокладка крышки головки блока цилиндров;   
 8 -Планка жесткости; 9 - Крышка головки блока цилиндров; 11 - Верхняя часть впускного коллектора; 13 - Крышка маслозаливной горловины;   
@@ -19989,7 +19063,6 @@ A
 
 
 ### Снятие
-`skoda_octavia_ru_f4bc9902` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:281 | doc_type:owners_manual
 1. Отсоедините отрицательный провод от батареи. 2. Снимите верхнюю часть впускно- го коллектора. 3. Снимите звукоизоляцию (рис. 2.52).
 
 ![](images/8e223e4b3bb9c8aed79289fcee39ea0046065ab1bb2efb7e7d127702be058df7.jpg)  
@@ -20031,19 +19104,16 @@ A
 
 
 ### Проверка
-`skoda_octavia_ru_9b229dea` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:282 | doc_type:owners_manual
 24. Проверьте деформацию голов- ки блока цилиндров в нескольких мес- тах (рис. 2.48). Максимально допус- тимая деформация: 0.1 мм.
 
 
 ### Установка
-`skoda_octavia_ru_6cc1b9a8` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:283 | doc_type:owners_manual
 25. Установите поршень первого цилиндра в ВМТ. 26.Установите новую прокладку го- ловки блока цилиндров, зафиксируйте центрирующие втулки. Номер про- кладки должен быть установлен вверх. 27.Установите новые болты крепле- ния головки блока цилиндров и затя- ните их рукой.
 
 28. Затяните болты крепления в два этапа (рис. 2.50): 1-й этап - 40 Нм; 2-й этап - дотяните на 180" (1/2 оборота). 29. Установите зубчатый ремень привода распределительного вала и натяните его (отрегулируйте фазы га- зораспределения). 30. Установите ремень привода ге- нератора. 31.Установите крышкуголовки бло- ка цилиндров. 32. Установите верхнюю часть впуск- ного коллектора. 33. Отрегулируйте трос управления акселератором. 34. Залейте охлаждающую жид- КОСТЬ.
 
 
 ### 6.1. Двигатель «АЕЕ»
-`skoda_octavia_ru_b615ce20` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:284 | doc_type:owners_manual
 Блокцилиндров, коленчатый вали маховик двигателя «АЕЕ» показаны нарис. 2.59.
 
 ![](images/2ac9464e245a689ecab9d1de1b7a3051fefdee34a29978c7196ea681def6e641.jpg)  
@@ -20051,7 +19121,6 @@ A
 
 
 ### Снятие
-`skoda_octavia_ru_aa46957e` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:285 | doc_type:owners_manual
 1. Снимите ремень привода ге- нератора. 2. Снимите нижний правый кожух двигателя. 3. Снимите зубчатый ремень приводараспределительного вала. 4. Снимите зубчатый шкив ко- ленчатого вала, используя специаль- ный инструмент (рис. 2.60).
 
 ![](images/03845f7fcd4a8592af24ba1ce2d714bb3ad95b12669b441a26130a03ad0d456a.jpg)  
@@ -20066,12 +19135,10 @@ A
 
 
 ### Двигатели до номера 210157
-`skoda_octavia_ru_9ec2fbcb` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:286 | doc_type:owners_manual
 8. Слегка смажьте рабочую кромку сальника. 9. Установите направляющую втулку на коленчатый вал и установите через нее сальник. 10. Запрессуйте сальник с помо- щью приспособления в одной плос- кости с рабочей кромкой сальника фланца (рис. 2.62).
 
 
 ### Двигатели, начиная с номера 210158
-`skoda_octavia_ru_66da516f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:287 | doc_type:owners_manual
 11. Слегка смажьте рабочую кромку сальника(измененного исполнения). 12.Надев втулку на шатунную шейку коленчатого вала, закрутите ее до упора (рис.2.63).
 
 ![](images/967ef49f9709bdaee29f5816f99bfd30685b4cd89c44278070098d714ad43089.jpg)  
@@ -20092,7 +19159,6 @@ A
 
 
 ### 6.2. Двигатели «АEН» и «АKL» 74 кВт
-`skoda_octavia_ru_69ef6fea` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:288 | doc_type:owners_manual
 Блок цилиндров, коленчатый вал и маховик двигателей «АЕН» и «АКL» пока- заны на рис. 2.65. Ремонтные размеры коленчатого вала двигателей «АЕН» и «АKL» приведены в таблице 2.3.
 
 ![](images/66333a1b9600d9c352fe715d95c0e4ca5f9aec60629aaa2ba70a0ea48c650215.jpg)
@@ -20115,7 +19181,6 @@ A
 
 
 ### Установка
-`skoda_octavia_ru_769b4f20` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:289 | doc_type:owners_manual
 6. Смажьте маслом рабочую кромку сальника.
 
 7. Установите направляющую втулку на шатунную шейку коленчатого вала (рис. 2.68). Наденьте сальник через направляющую втулку.
@@ -20125,7 +19190,6 @@ A
 
 
 ### Замена переднего сальника коленчатого вала
-`skoda_octavia_ru_ca99e9a9` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:290 | doc_type:owners_manual
 1. Снимите ремень привода гене- ратора.
 
 2. Снимите зубчатый ремень при- вода распределительного вала.
@@ -20150,7 +19214,6 @@ A
 
 
 ### 7. ШАТУННО-ПОРШНЕВАЯ ГРУППА
-`skoda_octavia_ru_7174f230` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:291 | doc_type:owners_manual
 Шатунно-поршневая группа двигателя «АЕ» показана на рис. 2.70, а шатунно-поршневая группа двигателей «АЕН» и «AKL» — на рис. 2.71.
 
 ![](images/f772bc732a1af613e9367bd710babe7e9765c7d252b8a040fb1b625f1e1dd5cf.jpg)  
@@ -20165,7 +19228,6 @@ A
 
 
 ### Проверка поршневых колец
-`skoda_octavia_ru_91fce1d6` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:292 | doc_type:owners_manual
 1. Проверьте с помощью щупа тепловой зазор поршневых колец(рис. 2.72). Засуньте кольцо перпендикуляр- но к осицилиндра на расстояние 15 мм от нижнего края цилиндра и проверьте тепловой зазор.
 
 ![](images/88735034be3e0665859e29ad510c340fe91812ee4cb67d0b9c8219734e7d25e4.jpg)  
@@ -20201,12 +19263,10 @@ A
 
 
 ### Размеры поршня и цилиндра
-`skoda_octavia_ru_bed16ef8` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:293 | doc_type:owners_manual
 4. Проверьте размеры поршня, указанные на рис. 2.76.
 
 
 ### Замена зубчатого обода маховика
-`skoda_octavia_ru_3c958bbd` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:294 | doc_type:owners_manual
 5. Установите маховик в горизон- тальное положение. Снимите обод, постепенно сбивая его ударами по всему периметру. В случае необходи- мости нагрейте обод.
 
 6. Для установки обода нагрейте его до температуры 150 'С и наденьте равномерно намаховик. При необходи- мости заколотите его до упора с помо- щью дорна по всему периметру.
@@ -20216,7 +19276,6 @@ A
 
 
 ### 8. ГАЗОРАСПРЕДЕЛИТЕЛЬНЫЙ МЕХАНИЗМ
-`skoda_octavia_ru_3bc487e9` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:295 | doc_type:owners_manual
 Газораспределительный механизм двигателя «АЕЕ» показан на рис. 2.77, а газораспределительный механизм двигателя «АЕН» и «АК» - на рис. 2.78.
 
 ![](images/6c57b2b3d20b6b43552ee66a69604d41f538700102ac7bf9b96c00714dab6304.jpg)  
@@ -20229,7 +19288,6 @@ A
 
 
 ### 8.1. Проверка осевого зазора распределительного вала
-`skoda_octavia_ru_29391aa3` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:296 | doc_type:owners_manual
 Установите индикатор стрелочного типа и измерьте осевой зазор распре- делительного вала.Измерение должно проводиться при следующихусловиях:
 
 на двигателе «АЕЕ»: при снятых гидрокомпенсаторахиустановленной крышке подшипника 3 (рис. 2.79);
@@ -20244,7 +19302,6 @@ A
 
 
 ### 8.2. Размеры клапанов
-`skoda_octavia_ru_8daf895f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:297 | doc_type:owners_manual
 Размеры клапана показаны на рис. 2.81 и приведены в таблице 2.8.
 
 Внимание! Не допускается под- гонка клапана, а лишь только их притирка.
@@ -20257,7 +19314,6 @@ A
 
 
 ### Снятие
-`skoda_octavia_ru_486b5889` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:298 | doc_type:owners_manual
 1. Снимите верхний защитный ко- жух зубчатого ремня привода распре- делительного вала. 2. Ослабьте болт крепления шки- ва распределительного вала. 3. Совместите метки на шкиве распределительного вала и защитном кожухе зубчатого ремня привода (тем самым установив поршень первого цилиндра в ВМТ) (рис. 2.82).
 
 ![](images/d333206b49d9705ce9e6236e47d79c1aa48c5b020c02be1761ccdbc4b184ff5e.jpg)
@@ -20281,7 +19337,6 @@ A
 
 
 ### Установка
-`skoda_octavia_ru_d7e8b323` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:299 | doc_type:owners_manual
 10. Смажьте маслом рабочую кром- кусальника. 11. Запрессуйте сальник с помо- щью распорной втулки, надев его с помощью направляющей втулки (рис. 2.84).
 
 ![](images/07c8bf999e0289952265bccf58ad5fc13aecfd5ed5086f328912ad20d0459c45.jpg)  
@@ -20292,7 +19347,6 @@ A
 
 
 ### 8.4. Распределительный вал Снятие
-`skoda_octavia_ru_50b19831` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:300 | doc_type:owners_manual
 1. Снимите ремень привода ге- нератора. 2. Снимите шкив, нижний и верх- ний защитные кожухи зубчатого ремня привода распределительного вала. 3. Ослабьте болт шкива распреде- лительного вала. 4. Установите поршень первого ци- линдра в ВМТ, совместив метки на шкиве распределительного вала и защитном кожухе зубчатого ремня привода (рис. 2.82). 5. Ослабьте натяжной ролик и сни- мите зубчатый ремень привода рас- пределительного вала. 6.Снимите задний защитный кожух зубчатого ремня привода распредели- тельного вала.
 
 7. Снимите верхнюю часть впускно- го коллектора и крышку головки блока цилиндров. 8. Снимите распределитель зажи- гания. 9. Снимите шкив распределитель- ного вала. 10. Сначала снимите крышки под- шипников 1, 3 и 5 (рис. 2.85). Затем, постепенно ослабляя накрест, снимите 2 и 4 крышки.
@@ -20301,7 +19355,6 @@ B
 
 
 ### Установка
-`skoda_octavia_ru_d25f47eb` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:301 | doc_type:owners_manual
 Внимание! Замените сальник распределительного вала. При ус- тановке распределительного вала кулачки первого цилиндра должны быть направлены вверх.
 
 11. Смажьте маслом рабочие по- верхности распределительного вала.
@@ -20317,30 +19370,27 @@ B
 Внимание! После сборки рас- пределительного вала нельзя за- водить двигатель на протяжении 30 минут, необходимо дать время гидрокомпенсаторам осесть.
 
 
-### Внимание!
-`skoda_octavia_ru_7b5df485` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:302 | doc_type:owners_manual
-Неисправный гидрокомпен- сатор следует заменять как одно целое (он не подлежит ремонту).
-
-Нерегулярный стук клапанов во время пуска – нормальное явле- ние.
-
-1. Заведите двигатель и дайте ему поработать до техпор, пока вентилятор системы охлаждения не включится один раз.
-
-2. Увеличьте частоту вращения дви- гателя до 2500 об/мин на две минуты или, при необходимости,осуществите небольшой пробег.
-
-Внимание! Если нерегулярный стук клапанов исчезнет, но появля- ется в ходе пробега на короткие расстояния, нужно заменить пре- дохранительный масляный клапан. Он находится на кронштейне мас- ляного фильтра.
-
-3. Если по истечении этого срока гидрокомпенсаторы все еще издают шум, тогда следует их проверить сле- дующим образом:
-
-снимите верхнюю часть защит- ного кожуха впускного коллектора и крышкуголовки блока цилиндров. вращайте коленчатый вал по ча- совой стрелке до тех пор, пока кулачок проверяемого гидрокомпенсатора не будет направлен вверх.
-
-прижмите гидрокомпенсатор вниз с помощью деревянного или же пластмассового клина (рис. 2.86). Если зазор между гидрокомпенсатором и кулачкомраспределительного вала больше 0.20 мм, гидрокомпенсатор следует заменить.
-
-![](images/5a310b77729c7b25a18a6f2b8f69f72b9575937ef6c9972abc53121dc57df0f8.jpg)  
-Рис. 2.86. Проверка гидрокомпенсаторов.
+> ⚠️ **Внимание:** Неисправный гидрокомпен- сатор следует заменять как одно целое (он не подлежит ремонту).
+>
+> Нерегулярный стук клапанов во время пуска – нормальное явле- ние.
+>
+> 1. Заведите двигатель и дайте ему поработать до техпор, пока вентилятор системы охлаждения не включится один раз.
+>
+> 2. Увеличьте частоту вращения дви- гателя до 2500 об/мин на две минуты или, при необходимости,осуществите небольшой пробег.
+>
+> Внимание! Если нерегулярный стук клапанов исчезнет, но появля- ется в ходе пробега на короткие расстояния, нужно заменить пре- дохранительный масляный клапан. Он находится на кронштейне мас- ляного фильтра.
+>
+> 3. Если по истечении этого срока гидрокомпенсаторы все еще издают шум, тогда следует их проверить сле- дующим образом:
+>
+> снимите верхнюю часть защит- ного кожуха впускного коллектора и крышкуголовки блока цилиндров. вращайте коленчатый вал по ча- совой стрелке до тех пор, пока кулачок проверяемого гидрокомпенсатора не будет направлен вверх.
+>
+> прижмите гидрокомпенсатор вниз с помощью деревянного или же пластмассового клина (рис. 2.86). Если зазор между гидрокомпенсатором и кулачкомраспределительного вала больше 0.20 мм, гидрокомпенсатор следует заменить.
+>
+> ![](images/5a310b77729c7b25a18a6f2b8f69f72b9575937ef6c9972abc53121dc57df0f8.jpg)  
+> Рис. 2.86. Проверка гидрокомпенсаторов.
 
 
 ### Снятие
-`skoda_octavia_ru_14189e06` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:303 | doc_type:owners_manual
 1.Снимитераспределительный вал. 2. Снимите гидрокомпенсаторы и установите их рабочей поверхностью вниз. 3. Выкрутите свечи зажигания. 4. Установите поршень соответ- ствующего цилиндра в ВМТ.
 
 5. Установитедополнительный стержень для установки пружин клапа- нов и отрегулируйте его высоту (рис. 2.87).
@@ -20359,7 +19409,6 @@ B
 
 
 ### Установка
-`skoda_octavia_ru_37b80dfd` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:304 | doc_type:owners_manual
 9. Для предотвращения повреж- дения нового сальника наденьте на стерженьзащитныйпластмассовый чехол А(рис. 2.89).
 
 ![](images/743ea890a0448c0870c1952f71bdd263745fc2d4de5ca80eb5b01e801dc68336.jpg)  
@@ -20371,7 +19420,6 @@ B
 
 
 ### Расчет максимального допустимого размера для шлифовки
-`skoda_octavia_ru_e0705240` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:305 | doc_type:owners_manual
 Измерьте расстояние а между кон- цом стержня клапана и верхним краем головки блока цилиндров (рис. 2.90). По измеренному значению следует подсчитатьмаксимальныйдопусти- мый размер для шлифовки.
 
 ![](images/d4f749dec33006223817dde9f52ca4155a0decf6c04a44681e1af62d058617d9.jpg)  
@@ -20389,7 +19437,6 @@ B
 
 
 ### Углы седла клапана
-`skoda_octavia_ru_39837e56` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:306 | doc_type:owners_manual
 Углы седла клапана двигателя «АЕЕ» показаны на рис. 2.91, двигате- лей «АЕН» и «АКЛ» – на рис. 2.92, и приведены в таблице 2.9.
 
 ![](images/d5576e91ad3b7e7f95b993eeb9365cbb2fd94bd02a5844ee1a53d7dc12972d5b.jpg)  
@@ -20400,7 +19447,6 @@ B
 
 
 ### Шлифование седел клапанов
-`skoda_octavia_ru_bf15d296` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:307 | doc_type:owners_manual
 Шлифование седел клапанов можно осуществить вручную или же машин- ным способом при соблюдении следу- ющихусловий:
 
 нельзя, чтобы износ направ- ляющих втулок клапанов был больше допустимого; необходимо применять фре- зы «NАС» с твердосплавными режущи- ми пластинами (минимальная твер- дость пластинок – 90 по шкале Роквела) (рис. 2.93).
@@ -20422,7 +19468,6 @@ C ©
 
 
 ### 5. На двигателях «АЕЕ» :
-`skoda_octavia_ru_169d9876` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:308 | doc_type:owners_manual
 фрезеруйте верхний коррек-   
 тирующий угол фрезой с углом 120°   
 до тех пор, пока не будет получен   
@@ -20454,7 +19499,6 @@ C ©
 
 
 ### СИСТЕМА СМАЗКИ
-`skoda_octavia_ru_bc2cc600` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:309 | doc_type:owners_manual
 Система смазки двигателя «АЕЕ» показана на рис. 2.96, а двигателей «АЕН» и «АКL» – на рис. 2.97.
 
 Рис. 2.96. Система смазки 1 2 3 4 5 6 7 8 9 10 11 12 13 14 1рв масла; 3 - Направляющая труба; 4 - Патрубок для указателя уровня масла; 5 - Указатель уровня масла; 6 - Шкив распределительного вала; 7 - Масляный фильтр; 8 - Зубчатый шкив привода масляного насоса; 9 -Натяжной ролик;   
@@ -20469,7 +19513,6 @@ C ©
 
 
 ### Снятие
-`skoda_octavia_ru_5389b5ba` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:310 | doc_type:owners_manual
 1. Снимите ремень привода гене- pатopа. 2. Снимите правый нижний кожух двигателя. 3. Снимите зубчатый ремень привода распределительного вала и натяжной ролик. 4. Снимите зубчатый шкив коленча- того вала с помощью контропоры (рис. 2.98). При повторной установке масля- ного насоса замените сальник.
 
 5. Поверните коленчатый вал из положения первого цилиндра в ВМТ на три зуба влево (рис. 2.99). Третий зуб 1 справа от сошлифованного зуба (мет- ки для установки первого цилиндра в ВМТ) 2 должен совпадать с меткой 2V на корпусе масляного насоса 3.
@@ -20489,7 +19532,6 @@ C ©
 
 
 ### Проверка
-`skoda_octavia_ru_5e98dca2` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:311 | doc_type:owners_manual
 11. Проверьте зазор между ше-   
 стернями насоса с помощью щупа (рис.   
 2.101): новый насос: 0.05 мм; допустимый износ: 0.20 мм.
@@ -20515,7 +19557,6 @@ C ©
 
 
 ### Установка
-`skoda_octavia_ru_6fb8a952` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:312 | doc_type:owners_manual
 Внимание! Одна из четырех вершин полигонального кулачка ко- ленчатого вала должна быть на- правлена вверх (стрелка)  (рис. 2.104).
 
 14. Наденьте на коленчатый  вал втулку и затяните рукой центральный болт с внутренним шестигранником (рис.2.105).
@@ -20537,7 +19578,6 @@ C ©
 
 
 ### 10. КРОНШТЕЙН МАСЛЯНОГО ФИЛЬТРА ДВИГАТЕЛЕЙ «AEH» И «AKL»
-`skoda_octavia_ru_3614fff2` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:313 | doc_type:owners_manual
 19. Установите впускной масля- ный трубопровод вместе с новой прокладкой и затяните болты креп- ления до момента 10 Нм.
 
 Кронштейн масляного фильтра двигателей «АЕН» и «АКЛ» показан на рис. 2.107.
@@ -20552,7 +19592,6 @@ C ©
 
 
 ### Снятие
-`skoda_octavia_ru_e98feed5` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:314 | doc_type:owners_manual
 1. Снимите звукоизоляцию (стрел- ки) (рис. 2.108).
 
 ![](images/b612db04cf1f9f79298b772ead435b6ac7dc364702ac7b577f9c422e2235bc01.jpg)  
@@ -20582,7 +19621,6 @@ C ©
 
 
 ### СИСТЕМА ОХЛАЖДЕНИЯ
-`skoda_octavia_ru_ed2f3665` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:315 | doc_type:owners_manual
 Система охлаждения двигателя «АЕЁ» показана на рис. 2.112, а двига- телей «АЕН» и «АКL» – на рис. 2.107.
 
 ![](images/543f65f7b587251c873f17dc161cbe16c878ddf4a3e9ae083c813dcd292761d0.jpg)  
@@ -20596,7 +19634,6 @@ C ©
 
 
 ### Сливание охлаждающей жидкости
-`skoda_octavia_ru_e90d2055` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:316 | doc_type:owners_manual
 1. Откройте пробку расширитель- ного бачка охлаждающей жидкости. 2. Снимите среднюю часть звуко- изоляции (стрелки на верхнем ри- сунке) (рис. 2.108). 3. Подставьте под двигатель слив- нуюемкость. 4. Поверните сливную пробку (стрелка) на радиаторе влево и выта- щите ее назад или же наденьте на при- соединительный патрубок вспомога- тельный шланг (рис. 2.114). 5. Отсоедините патрубок охлажда- ющей жидкости от масляного радиато- ра и дайте стечь охлаждающей жидко- сти полностью (рис. 2.115).
 
 ![](images/9e0e0597d09e70dd70bf266df70eeb407143ccbd32203826c944912469607e4f.jpg)  
@@ -20604,7 +19641,6 @@ C ©
 
 
 ### Заливание охлаждающей жидкости
-`skoda_octavia_ru_a4057394` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:317 | doc_type:owners_manual
 Внимание! Нельзя, чтобы доля антифриза превышала 60%, так как дальнейшее повышение доли анти- фриза приводит к ухудшению моро- зостойкости и в то же время ухуд- шению охлаждающих свойств жид- КОСТИ.
 
 6. Закрутите сливную пробку. 7. Заполните расширительный ба- чОК ЖИДКОСТЬЮ ДО ОТМЕТКИ «МАХ» на бачке (рис. 2.116). 8. Заведите двигатель и дайте ему поработать на частоте 1500 об/мин примерно 2 минуты, доливая при этом жидкость вплоть до перепускного от- верстия в расширительном бачке. 9. Закройте расширительный ба- чОК. 10. Дайте двигателю поработать до тех пор, пока не заработает венти- лятор. 11. Проверьте уровень охлаждаю- щей жидкости. На горячем двигателе уровень должен находиться на отметке «МАХ», а на холодном двигателе между отметками «МІN» и «МАХ».
@@ -20615,7 +19651,6 @@ C ©
 
 
 ### Снятие
-`skoda_octavia_ru_ab438ccc` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:318 | doc_type:owners_manual
 1. Слейте охлаждающую жидкость. 2.Отсоедините разъем проводки от датчика температуры 1, отсоедините разъемы проводки 2 и 3 на раме вен- тилятора для дополнительного охлаж- дения (нажмите на стопорные выступы) (рис.2.117).
 
 Рис. 2.117. Отсоедините   
@@ -20632,7 +19667,6 @@ C ©
 
 
 ### с кондиционером воздуха
-`skoda_octavia_ru_64785728` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:319 | doc_type:owners_manual
 4. Выкрутите четыре болта крепле- ния конденсатора (стрелки) (рис. 2.118).
 
 ![](images/1c455df49c04ad0ca36e911d019b9b43fdd5e3e458812b469bd0e69cfe835b69.jpg)  
@@ -20644,7 +19678,6 @@ e
 
 
 ### Для всех автомобилей
-`skoda_octavia_ru_5166c7df` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:320 | doc_type:owners_manual
 6. Снимите обе фары. 7. Выкрутите четыре болта, удер- живающие радиатор сверху (рис. 2.120).
 
 ![](images/72394e526b867251845c72df7734a65d5ef5bcf346169cb5972cd24f61259391.jpg)  
@@ -20668,19 +19701,16 @@ e
 
 
 ### Для всех автомобилей
-`skoda_octavia_ru_3a829d5c` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:321 | doc_type:owners_manual
 11. Снимите опору радиатора (4 болта). 12. Осторожно извлеките радиатор ВНИз.
 
 
 ### Установка
-`skoda_octavia_ru_ecd598f8` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:322 | doc_type:owners_manual
 13. Установка проводится в поряд- ке, обратном снятию. Затяните датчик температуры 1 до момента 35 Нм. Уста- новите кронштейны крепления 2 и 3 на радиатор (рис. 2.123).
 
 3 2
 
 
 ### Снятие
-`skoda_octavia_ru_5b467bbe` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:323 | doc_type:owners_manual
 1. Слейте охлаждающую жидкость. 2. Снимите ремень привода гене- pатopа. 3. Снимите зубчатый ремень 1 при- вода распределительного вала (рис. 2.124).
 
 ![](images/7bc889fdd771d2c27946a3a74370f5123b3d24573927c7cb2faa4b5812186c76.jpg)
@@ -20696,12 +19726,10 @@ e
 
 
 ### Установка
-`skoda_octavia_ru_fe4fd29c` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:324 | doc_type:owners_manual
 7. Установка производится в по- рядке, обратном снятию. Замените уплотнительное кольцо 7 и смочите его в присадке для охлаждающей жидкости.
 
 
 ### 14.2. Двигатели «АЕН» и «АКL» Снятие
-`skoda_octavia_ru_aa8d06c5` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:325 | doc_type:owners_manual
 8. Снимите кожух двигателя, откру- тив гайки (стрелки) (рис. 2.125).
 
 ![](images/c970e73c27e3a5751f4c8649e496ecffd9dc2c01835f11547664add0b4a43d0d.jpg)  
@@ -20713,14 +19741,12 @@ e
 
 
 ### Установка
-`skoda_octavia_ru_a336a87e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:326 | doc_type:owners_manual
 18. Очистите уплотняющую поверх- ность подуплотнительное кольцо. Смо- чите уплотнительное кольцо 3 в присад- ке для охлаждающей жидкости (анти- фризе). 19. Далее установка производится в порядке, обратном снятию.
 
 5 4 3
 
 
 ### 15.1. Двигатель «АЕЕ»
-`skoda_octavia_ru_18b59594` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:327 | doc_type:owners_manual
 Термостат двигателя «АЕЕ» показан на рис. 2.127.   
 Температура начала открытия термостата: 84 'С;   
 Температура конца открытия термостата: 98 \*С.   
@@ -20736,7 +19762,6 @@ e
 
 
 ### Снятие
-`skoda_octavia_ru_1146f66d` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:328 | doc_type:owners_manual
 1. Слейте охлаждающую жидкость. 2.Снимите патрубок для охлажда- ющей жидкости с штуцера 3 (рис. 2.128).
 
 ![](images/70727d8e99bf9187e27d7e4fba91eb55994bffdaba4682d545456cbed690a750.jpg)  
@@ -20746,7 +19771,6 @@ e
 
 
 ### Проверка
-`skoda_octavia_ru_5da3c70c` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:329 | doc_type:owners_manual
 ![](images/ca599a70f609070c08a818a96361852e35fb431fd55727f777a2c204dfe6b7ea.jpg)  
 Топливный бак, топливный насос и топливный фильтр показаны на рис. 2.129.
 
@@ -20760,12 +19784,10 @@ e
 
 
 ### Установка
-`skoda_octavia_ru_3d640847` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:330 | doc_type:owners_manual
 5. Очистите поверхность приле- ганияуплотнительного кольца. 6. Установите термостат и про- следите,чтобы при установке клапан термостата находился в вертикаль- ном положении. Затяните болты до момента 15 Нм. Залейте охлаждаю- щуюжидкость.
 
 
 ### Снятие
-`skoda_octavia_ru_b27f9166` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:331 | doc_type:owners_manual
 1. Выключите зажигание и отсоеди- ните отрицательный проводот батареи. 2. Снимите кожух (под задним си- деньем). 3. Снимите нагнетающий и слив- нойтопливопроводы с фланца топлив- ного насоса (нажимая на кнопку фикса- тора). 4Отсоедините четырехконтакт- ный разъем с фланца топливного насоса и извлеките его. 5. Открутите гайку и извлеките топ- ливный насос и уплотнительное кольцо из отверстия топливного бака (рис. 2.130).
 
 Внимание! Если топливный на- сос все еще заполнен топливом, то, прежде чем приступить к замене, его нужно опорожнить.
@@ -20776,7 +19798,6 @@ e
 
 
 ### Установка
-`skoda_octavia_ru_8941e298` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:332 | doc_type:owners_manual
 6. Установка проводится в порядке, обратном снятию. Соблюдайте пра- вильное положение для установки(рис. 2.131):
 
 ![](images/7d2547150053463f98eeae8dd7dd0ecfae27a4882ce2dc5773ad90b0a5e861fa.jpg)  
@@ -20788,7 +19809,6 @@ e
 
 
 ### 17. ДАТЧИК УРОВНЯ ТОПЛИВА Снятие
-`skoda_octavia_ru_61369e23` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:333 | doc_type:owners_manual
 1.Снимите топливный насос. 2. Разжав фиксирующие язычки, :нимите провода 3 и 4 (рис. 2.132).
 
 ![](images/6a4d2df6aada97ade942f42f2f4257929d0b23c29026c09f85097c94d8012565.jpg)  
@@ -20798,12 +19818,10 @@ e
 
 
 ### Установка
-`skoda_octavia_ru_a12dbe1b` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:334 | doc_type:owners_manual
 4. Вставив датчик уровня топлива в направляющие канавки на топливном насосе, вдавите его вверх до упора.
 
 
 ### Снятие
-`skoda_octavia_ru_787468ab` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:335 | doc_type:owners_manual
 1. Выключите зажигание и отсо- едините отрицательный провод от батареи. 2. Слейте топливо из топливного бака. 3. Открутите кожух, находящийся под задним сиденьем. 4. Отсоедините четырехконтакт- ный разъем с фланца на топливном баке и извлеките его. 5. Откройте крышкузаливной горло- вины, снимите распорное кольцо в ре- зиновом чехле (вокруг заливной горло- вины). 6 Протолкните резиновый чехол внутрь. 7. Снимите тарельчатую опору правого заднего колеса. 8. Открутите заливную горловину бака под тарельчатой опорой колеса. 9. Снимите кожух под топливным баком (стрелки) (рис. 2.133).
 
 ![](images/3424aa2eb902fec0e605d6646fa2d97f782a9b01af3e5afc68b84a92efb1ad01.jpg)  
@@ -20825,12 +19843,10 @@ e
 
 
 ### Установка
-`skoda_octavia_ru_dd252cb3` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:336 | doc_type:owners_manual
 14. Установка проводится в поряд- ке, обратном снятию.
 
 
 ### 19. БАЧОК С АКТИВИРОВАН- НЫМ УГЛЕМ
-`skoda_octavia_ru_ebd827d2` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:337 | doc_type:owners_manual
 Бачок с активированным  углем показан на рис. 2.136.
 
 ![](images/1df26a83af6b6139138f7abb64d61ca3925a1556fdb64d1863e9f3ac6c750356.jpg)  
@@ -20842,7 +19858,6 @@ e
 
 
 ### 20. КОРПУС ДРОССЕЛЬНОЙ ЗАСЛОНКИ
-`skoda_octavia_ru_2df65938` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:338 | doc_type:owners_manual
 Корпус дроссельной заслонки показан на рис. 2.137.
 
 ![](images/b1dc4a17e537e83a1c536897788b3656997543a6bbdafbbfea67eea7cd61c33d.jpg)  
@@ -20850,7 +19865,6 @@ e
 
 
 ### СИСТЕМА ВЫПУСКА ОТРАБОТАВШИХ ГАЗОВ
-`skoda_octavia_ru_4e1f629c` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:339 | doc_type:owners_manual
 Система выпуска отработавших газов двигателя «АЕЕ» показана на рис. 2.138. Передняя и задняя части выпускной трубы с опорами показаны на рис. 2.139. Система выпуска отработавших газов двигателя «АЕН» и «АКL показана на рис. 2.140.
 
 ![](images/36c77ff244dcf8a227b28342fa3550183a92b3dbecdf9d2a7d5f8c51b8337069.jpg)  
@@ -20870,7 +19884,6 @@ e
 
 
 ### Снятие
-`skoda_octavia_ru_77808614` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:340 | doc_type:owners_manual
 . Открутите защитный кожух (стрелки) и отсоедините разъем про- водки от лямбда-зонда (рис. 2.141).
 
 ![](images/bb2a78d091093e05f07175af8c79b5fada967f68d924aa51ef4bbb70a7952d5b.jpg)  
@@ -20880,7 +19893,6 @@ e
 
 
 ### Установка
-`skoda_octavia_ru_11f6ede1` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:341 | doc_type:owners_manual
 7. Затяните последовательно болты крепления переднейчасти выпускного трубопровода к выпускномуколлектору (рис.2.142). 8. Далее установка проводится в порядке,обратном снятию.
 
 ![](images/1bb819130be675c3ef6dedea2f30c0c7753d6d4c94f994fcc6f7264f8a7643ed.jpg)  
@@ -20888,7 +19900,6 @@ e
 
 
 ### Снятие
-`skoda_octavia_ru_a4fbd14a` | octavia | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:342 | doc_type:owners_manual
 1. Удалите верхнюю часть впускного коллектора. 2. Снимите переднюю часть впуск- ного трубопровода.
 
 3. Открутите гайки 1 крепления теп- лозащитного экрана 3 и снимите шай- бы 2 (рис. 2.143).
@@ -20902,12 +19913,10 @@ e
 
 
 ### Установка
-`skoda_octavia_ru_0948f5b0` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:343 | doc_type:owners_manual
 7. Установка проводится в порядке, обратном снятию. При установке заме- ните прокладкувыпускного коллектора и самоконтрящиеся гайки.
 
 
 ### 23. ЗАМЕНА ПЕРЕДНЕГО И ЗАДНЕГО ГЛУШИТЕЛЕЙ ШУМА
-`skoda_octavia_ru_3d1aed9b` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:344 | doc_type:owners_manual
 1. Отсоедините выпускной трубо- провод от под прямым углом в преду- смотренном месте (стрелка 2) (рис. 2.144).
 
 2. Установите в ходе сборки двой- ную втулку 4 на боковых отметках 1 и 3.
@@ -20919,7 +19928,6 @@ e
 
 
 ### ДBИГATEЛИ «AGN» и «AGU» 1.8 л
-`skoda_octavia_ru_9e825529` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:345 | doc_type:owners_manual
 Технические характеристики двигателей «AGN» и «AGU» 1.8 л приведены в таблице 2.10.
 
 Блица 2.10. Технические характеристики двигателей«АGN» и «AGU» 1.8 л   
@@ -20927,7 +19935,6 @@ e
 
 
 ### 24.1. Двигатель «АGN»
-`skoda_octavia_ru_f893b850` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:346 | doc_type:owners_manual
 Зубчатый ремень привода распределительного вала двигателя «AGN» показан на рис. 2.145.
 
 ![](images/260cbedcd2c2f114eec9438feaec20fe47710b102ed4f123a541806538e5fc2d.jpg)  
@@ -20935,7 +19942,6 @@ e
 
 
 ### Снятие
-`skoda_octavia_ru_d8fdfafd` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:347 | doc_type:owners_manual
 1. Отсоедините бачок охлаждаю- щей жидкости и бачок усилителя рулевого механизма (стрелки), от- ведите в сторону, не отсоединяя при этом шланги (рис. 2.146).
 
 ![](images/c0f8b4ee0340214afb61e9fceb4911f04734c4ea00e15d8a62383923c13e1286.jpg)  
@@ -20999,7 +20005,6 @@ e
 
 
 ### Установка и натяжение
-`skoda_octavia_ru_e9cc95c3` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:348 | doc_type:owners_manual
 17. Совместите метки на шкиве рас- пределительных валов с метками на крышке головки блока цилиндров(рис. 2.150).
 
 18. Установите зубчатый ремень на канавочный шкив коленчатого вала (со- блюдая направление вращения).
@@ -21018,14 +20023,12 @@ e
 
 
 ### 24.2. ДВИГАТЕЛЬ «АGU»
-`skoda_octavia_ru_2d15efc9` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:349 | doc_type:owners_manual
 Зубчатый ремень привода распределительного вала двигателя «AGU» пока- зан на рис. 2.153.
 
 ![](images/c98e0a699c49d82cefdfe6680f98f93f21c8800840bceabb35351b558c04564b.jpg)
 
 
 ### Рис. 2.153. Зубчатый ремень привода распределительного вала двигателя «AGU»:
-`skoda_octavia_ru_58cafdb3` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:350 | doc_type:owners_manual
 1 – Кронштейн крепления двигателя; 2, 6, 7, 14, 16, 17, 18, 21 – Болты;   
 3 - Верхний защитный кожух зубчатого ремня; 4 - Зубчатый ремень;   
 5 - Направляющий ролик; 8 - Шкив распределительного вала;   
@@ -21035,7 +20038,6 @@ e
 
 
 ### Снятие
-`skoda_octavia_ru_c302a94c` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:351 | doc_type:owners_manual
 1. Снимите среднюю и правую зву- коизоляции (стрелки) (рис. 2.154).
 
 ![](images/7a0bb443db086b84a3d3dc80e1460800a830e788ffc2ec748c82399acdd66dd8.jpg)  
@@ -21069,12 +20071,10 @@ e
 
 
 ### Установка и натяжение
-`skoda_octavia_ru_024f3273` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:352 | doc_type:owners_manual
 19. Установка проводится в поряд- ке, обратном снятию.
 
 
 ### 25. САЛЬНИКИ КОЛЕНЧАТОГО ВАЛА ДВИГАТЕЛЯ
-`skoda_octavia_ru_6164fc0a` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:353 | doc_type:owners_manual
 Сальники коленчатого вала двигателя показаны на рис. 2.158.
 
 ![](images/ce7ec84968f63198ca9193694774c81e1821992299d069dacc971d167c4b5597.jpg)  
@@ -21084,7 +20084,6 @@ e
 
 
 ### Снятие
-`skoda_octavia_ru_f3ded689` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:354 | doc_type:owners_manual
 1. Снимите ремень привода ге- нератора и натяжное устройство. 2. Снимите зубчатый ремень.
 
 3. Снимите зубчатый шкив коленча- того вала. Заблокируйте шкив с помо- щью рычага «Тзо004» или контропоры MР 1-310 (рис. 2.159).
@@ -21108,7 +20107,6 @@ e
 
 
 ### Установка
-`skoda_octavia_ru_d6c0671e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:355 | doc_type:owners_manual
 8. Проверьте коленчатый вал на отсутствиеповреждений,причинен- ных сальником. 9. Слегка смажьте маслом рабо- чую кромку сальника. 10. Установите направляющую втул- ку МР 1-231/1 на коленчатый вал (рис. 2.162).
 
 ![](images/78c09659c3849f4b36166f06c94630ce7c941e45d1df3e3b43dd16ef8eb6cc59.jpg)  
@@ -21123,7 +20121,6 @@ o если на коленчатом валу нет никаких следов
 
 
 ### Снятие
-`skoda_octavia_ru_8f4dfc30` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:356 | doc_type:owners_manual
 1. Пометьте положение маховика на коленчатом валу для облегчения уста- HOBKИ.   
 2. Снимите маховик. Заблоки- руйте маховик с помощью фиксато- ра (контропоры) МР 1-222 (рис. 2.164).
 
@@ -21132,12 +20129,10 @@ o если на коленчатом валу нет никаких следов
 
 
 ### Установка
-`skoda_octavia_ru_b7818192` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:357 | doc_type:owners_manual
 3. Установите маховик на коленча- тый вал в положение, отмеченное во время снятия. 4. Установив новые болты, затяните их рукой. 5. Затяните болты до момента 60 Нм + 90° (1/4 оборота).
 
 
 ### Установка
-`skoda_octavia_ru_b5164ff5` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:358 | doc_type:owners_manual
 1. Установите ведомый диск сцепления вместе с шайбой с выемкой 1 (рис. 2.165).
 
 ![](images/5ad9c44057b456ab989cc0846dfa318503002bbddbe05677387812880d6b752b.jpg)  
@@ -21158,7 +20153,6 @@ o если на коленчатом валу нет никаких следов
 
 
 ### 28. КОЛЕНЧАТЫЙ ВАЛ
-`skoda_octavia_ru_5c149a87` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:359 | doc_type:owners_manual
 Коленчатый вал двигателей «AGN» и «AGU»показан на рис. 2.167. Размеры коленчатого вала приведены в табл. 2.11.
 
 Таблица 2.11. Размеры коленчатого вала, мм   
@@ -21166,7 +20160,6 @@ o если на коленчатом валу нет никаких следов
 
 
 ### 29. ШАТУННО-ПОРШНЕВАЯ ГРУППА
-`skoda_octavia_ru_b82bca8f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:360 | doc_type:owners_manual
 Таблица 2.12. Тепловые зазоры поршневых колец   
 ![](images/1e56d35ae9abc6bfe2a4d0a8157bf724727f7b782fc1816ee93e9bb5e25a38d9.jpg)
 
@@ -21180,7 +20173,6 @@ o если на коленчатом валу нет никаких следов
 
 
 ### Проверка теплового зазора поршневого кольца
-`skoda_octavia_ru_982f59e0` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:361 | doc_type:owners_manual
 Вставьте кольцо перпендикулярно к стенке цилиндра вплоть до нижнего отверстия в цилиндре, на расстояние приблизительно 15 мм от края цилин- дра (рис. 2.169).
 
 ![](images/baac8062c5cd46f52068d9fb0e99296d2eb5e4c0ca1b46b72d947126322bf6c7.jpg)  
@@ -21188,7 +20180,6 @@ o если на коленчатом валу нет никаких следов
 
 
 ### Проверка зазора поршневого кольца по высоте
-`skoda_octavia_ru_7c10933a` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:362 | doc_type:owners_manual
 Перед проведением проверки прочистите канавку для поршневого кольца (рис. 2.170).
 
 ![](images/79cc814b92e98d9e3aa34ad3189749f177920f388cd6c22d5b05262d260bf467.jpg)  
@@ -21196,7 +20187,6 @@ o если на коленчатом валу нет никаких следов
 
 
 ### Проверка отклонений от округлости поршня
-`skoda_octavia_ru_243cf55b` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:363 | doc_type:owners_manual
 Измерение производите на рассто- янии около 10 мм от нижнего края, пер- пендикулярно (90°) к оси поршневого пальца (рис. 2.171). Отклонение от номинального размера – 0.04 мм.
 
 Таблица 2.13. Зазоры поршневых колец по высоте   
@@ -21207,21 +20197,18 @@ o если на коленчатом валу нет никаких следов
 
 
 ### Проверка внутреннего диаметра цилиндров
-`skoda_octavia_ru_ab005387` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:364 | doc_type:owners_manual
 Измерить поперекрестно B 3-x местах в поперечном направлении А и в продольном направлении в (рис. 2.172). Отклонения от номинального размера: 0,10 мм.
 
 ![](images/4b563e54f7c980f3489882ab3e9c513b053ca5a6ee822376423836632f1d8a51.jpg)
 
 
 ### Снятие
-`skoda_octavia_ru_749ca9df` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:365 | doc_type:owners_manual
 1 Отсоедините отрицательный провод от батареи.
 
 2. Отсоедините все разъемы про- водки двигателя.
 
 
 ### 3. На автомобилях до VII/97 г.:
-`skoda_octavia_ru_23624073` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:366 | doc_type:owners_manual
 • отсоедините трос управления акселератором от механизма управле- ния дроссельной заслонкой и от конт- ропоры на впускном коллекторе (не снимая фиксатор);
 
 снимите трос управления аксе- лератором и отсоедините провода вы- сокого напряжения системы зажига- ния;
@@ -21264,7 +20251,6 @@ o если на коленчатом валу нет никаких следов
 
 
 ### 7. На всех автомобилях:
-`skoda_octavia_ru_c6eb02a0` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:367 | doc_type:owners_manual
 0 отсоедините патрубок 2, соеди- ненный с впускным трубопроводом 5; © отсоедините вакуумный патру- бок 3 от корпуса дроссельной заслонки, ведущий к вакуумному усилителю тор- МОЗОВ;
 
 отсоедините патрубок 4, соеди- ненный с угольным фильтром; отсоедините впускной трубо- провод 5 от корпуса дроссельной зас- ЛОНКИ; отсоедините разъем проводки от корпуса дроссельной заслонки.
@@ -21306,7 +20292,6 @@ R 9
 
 
 ### 14. На автомобилях с VIII/97 г.:
-`skoda_octavia_ru_25362995` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:368 | doc_type:owners_manual
 отсоедините разъем проводки от электромагнитного клапана пере- ключения впускного трубопровода 4 (рис.2.182);
 
 ![](images/30020a8ad21344057f90d8148a76082a421ea44d7f58c424a94ebb736b2d7be0.jpg)
@@ -21331,19 +20316,16 @@ R 9
 
 
 ### 15. На всех автомобилях:
-`skoda_octavia_ru_9077e217` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:369 | doc_type:owners_manual
 снимите верхний защитный ко- жух зубчатого ремня; • снимите крышку головки блока цилиндров.
 
 
 ### Установка
-`skoda_octavia_ru_02289510` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:370 | doc_type:owners_manual
 16. Установка проводится в поряд- ке, обратном снятию.
 
 6. Отсоедините катализатор ОГ от передней части выпускного трубопро- вода, отведите его назад. 7.Снимите ремень привода генера- тора и устройство натяжения ремня. 8. Снимите зубчатый ремень со шкива распределительного вала. 9. Ослабьте болты крепления голов- ки блока цилиндров (рис. 2.185). 10. Снимите головку блока цилинд- ров с прокладкой.
 
 
 ### 31. ГОЛОВКА БЛОКА ЦИЛИНДРОВ
-`skoda_octavia_ru_b230ee9a` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:371 | doc_type:owners_manual
 Головка блока цилиндров двигателя «АG№»показана на рис. 2.183.
 
 ![](images/d3cd352a9f1ff120604ac8e008da89c3908ca6bcd24f08a7376385300a387f5f.jpg)
@@ -21353,7 +20335,6 @@ R 9
 
 
 ### Проверка
-`skoda_octavia_ru_191c5eb3` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:372 | doc_type:owners_manual
 11. Проверьте деформацию голов- ки блока цилиндров линейкой и щупом в несколькихместах(рис. 2.186). Мак- симально допустимая деформа- ция: 0.1 мм.
 
 Рис. 2.183. Головка блока цилиндров двигателя «АG№»:   
@@ -21363,7 +20344,6 @@ R 9
 
 
 ### Обработка головки блока цилиндров
-`skoda_octavia_ru_5b9a2f95` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:373 | doc_type:owners_manual
 1. Снимите крышку головки блока цилиндров. 2. Слейте охлаждающую жид- КОСТЬ. 3. Отсоедините патрубки охлаж- дающей жидкости от присоедини- тельного патрубка головки блока циин- дров. 4. Открутите фиксатор трубы для охлаждающей жидкости от присое- динительного патрубка головки блока цилиндров. 5. Отсоедините разъем провод- ки от датчика температуры охлажда- ющей жидкости (стрелка) (рис. 2.184).
 
 12. Обработка головки блока цилиндров(перешлифовка) допус- тима до минимального размера а: 139.25мм (рис.2.187).
@@ -21377,7 +20357,6 @@ V C O tOR o D 9 U г -∞
 
 
 ### Установка
-`skoda_octavia_ru_41599627` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:374 | doc_type:owners_manual
 13. Осторожно удалите остатки прокладки.
 
 14. Установите прокладку головки блока цилиндров. Устанавливая про- кладку, руководствуйтесь центрирую- щими штифтами в блоке цилиндров (стрелки) (рис. 2.188). При установке прокладки ее номер должен быть рас- положентаким образом,чтобы его мож- но было прочитать со стороны впускного коллектора.
@@ -21398,7 +20377,6 @@ V C O tOR o D 9 U г -∞
 
 
 ### 31.2. Головка блока цилиндров двигателя «АGU»
-`skoda_octavia_ru_5674233d` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:375 | doc_type:owners_manual
 Головка блока цилиндров двигателя «АGU» показана на рис. 2.190.
 
 ![](images/c839fc8a1f734981056a57485c7f384c1d2f04f4e23681e034b25261917a43a3.jpg)
@@ -21410,7 +20388,6 @@ V C O tOR o D 9 U г -∞
 
 
 ### Снятие
-`skoda_octavia_ru_9e388d97` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:376 | doc_type:owners_manual
 1. Отсоедините отрицательный провод от батареи. 2. Снимите декоративную крышку двигателя. 3. Слейте охлаждающую жидкость. 4. Отсоедините трос управления акселератором от корпуса дрос- сельной заслонки и от кронштейна на впускном коллекторе (стрелки), закрепите трос сбоку (рис. 2.191).
 
 ![](images/d83a0556ce7fed711e6f70b237c4825dc7fa60bf9273c07334f8e3539d3e592a.jpg)  
@@ -21441,7 +20418,6 @@ V C O tOR o D 9 U г -∞
 
 
 ### Установка
-`skoda_octavia_ru_18a22f6f` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:377 | doc_type:owners_manual
 31. Ослабьте примерно на два обо- рота болты 1 и 2 на кронштейне креп- ления турбонаддува с целью предотв- ращения натяга во время установки го- ловки блока цилиндров (рис. 2.195).
 
 ![](images/e89cb0c7291b28961e6676677eccc81c2c5965f1bf85099be477b69e7f2bf5ab.jpg)  
@@ -21464,7 +20440,6 @@ a 2-й прием: 180° (1/2 оборота).
 
 
 ### 32. ГАЗОРАСПРЕДЕЛИТЕЛЬ- НЫЙ МЕХАНИЗМ
-`skoda_octavia_ru_fc719f37` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:378 | doc_type:owners_manual
 Газораспределительный меха- низм (ГРМ) служит дЛя впуска в ци- линдры горючей смеси и выпуска от- работавших газов в соответствии с протеканием рабочего процесса в каждом цилиндре.
 
 Чугунные распределительные валы установлены на пяти опорах в алюми- ниевом корпусе подшипников, закреп- ленном в верхней части головки блока цилиндров. Рабочие поверхности рас- пределительных валов обработаны с достаточно высокой точностью для обеспечения своевременного откры- тия и закрытия впускных и выпускных клапанов (согласно фазам газорасп- ределения).
@@ -21477,7 +20452,6 @@ a 2-й прием: 180° (1/2 оборота).
 
 
 ### Снятие
-`skoda_octavia_ru_6ac96812` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:379 | doc_type:owners_manual
 1. Снимите ремень привода гене- ратора и натяжное устройство. 2. Снимите верхний защитный кожух зубчатого ремня. 3. Установите поршень первого цилиндра в ВМТ (рис. 2.150). 4. Снимите крышку головки бло- ка цилиндров. 5. Вкрутите установочный болт без головки М5х55 1 в натяжной ролик зубчатого ремня. Закрутите гайку 2 с шайбой 3 на установочный болт 1 (рис. 2.152). 6. Снимите зубчатый ремень со шкива распределительного вала. 7. Ослабьте крепление шкива распределительноговала. 8. Снимите шкив распредели- тельного вала. 9. Снимите кожух для датчика частоты вращенияраспределитель- ного вала. 10. Снимите кольцо и диафрагму датчика частоты вращения распре- делительного вала. 11. Зафиксируйте регулятор рас- пределительного вала с помощью фиксатора натяжного устройства цепи «3366» (рис. 2.198).
 
 26 4 ① E g   
@@ -21502,7 +20476,6 @@ a 2-й прием: 180° (1/2 оборота).
 
 
 ### 32.1. Проверка осевого зазора распределительных валов
-`skoda_octavia_ru_5aae2778` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:380 | doc_type:owners_manual
 1. Прикрепите универсальный ин- дикатор стрелочного типа МР 3- 447 к головке блока цилиндров к впускному и выпускному распреде- лительным валам (рис. 2.197а,б).
 
 ![](images/62b1f6e4e07c3575229663082c54453ba37dc5a26247ab4adc785812f97813df.jpg)  
@@ -21565,7 +20538,6 @@ H 2 -
 
 
 ### Установка
-`skoda_octavia_ru_2c56b06f` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:381 | doc_type:owners_manual
 Внимание! При установке рас- пределительных валов кулачки 1-го цилиндра должны быть направлены вверх. При установке крышки под- шипника нужно проследить за тем, чтобы можно было прочесть марки- ровку крышки со стороны впуска го- ловки блока цилиндров.
 
 19. Установите цепь на оба распре- делительных вала согласно меткам, сделанным при снятии или по цветной маркировке.
@@ -21599,7 +20571,6 @@ H 2 -
 
 
 ### Снятие
-`skoda_octavia_ru_b5ce338e` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:382 | doc_type:owners_manual
 1. Снимите ремень привода гене- ратора и натяжное устройство. 2. Снимите верхний защитный ко- жух зубчатого ремня. 3. Установите поршень первого ци- линдра в ВМТ (рис. 2.150). 4. Снимите зубчатый ремень со шкива распределительного вала. 5. Ослабьте крепление шкива рас- пределительного вала(сприменением контропоры МР 1-216). 6. Снимите шкив распределитель- ного вала. 7. Для установки съемника сальни- ков вкрутите болт крепления шкива распределительного вала (стрелка) вручную в распределительный вал до упора (рис. 2.205).
 
 Рис. 2.205. Для установки   
@@ -21619,7 +20590,6 @@ H 2 -
 
 
 ### Установка
-`skoda_octavia_ru_aa5c0448` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:383 | doc_type:owners_manual
 11. Слегка смажьте маслом рабо- чую кромку сальника. 12. Установите пригоночную втулку МР 1-228/2 на конец распределитель- ного вала (рис. 2.207).
 
 ![](images/47e60a70f2554b74e0c37f7342004b92eb9600f4e96abc2068090b788743c405.jpg)
@@ -21651,7 +20621,6 @@ H 2 -
 
 
 ### Снятие
-`skoda_octavia_ru_c55de0de` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:384 | doc_type:owners_manual
 23. Снимите ремень привода гене- ратoра. 24. Отсоедините разъем проводки от датчика частоты вращения распре- делительного вала (рис. 2.175). 25. Снимите верхний защитный кожух зубчатого ремня. 26. Снимите кожух датчика. 27. Снимите кольцо и диафрагму датчика частоты вращения распреде- лительного вала. 28. Для установки съемника саль- ников вкрутите болт МР 1-215/1 в рас- пределительный вал до упора (рис. 2.209).
 
 ![](images/3f91ca5334e9c81cf33a018e87feff391be1990f8dbddf8fbe987d31447e9aae.jpg)  
@@ -21670,18 +20639,15 @@ H 2 -
 
 
 ### Установка
-`skoda_octavia_ru_3c05d650` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:385 | doc_type:owners_manual
 32. Установка проводится в поряд- ке, обратном снятию.
 
 
 ### 32.4. Клапаны
-`skoda_octavia_ru_8e4ac0c9` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:386 | doc_type:owners_manual
 Внимание! Не допускается подгонка клапанов, а лишь их притирка.   
 Размеры впускного и выпускного клапанов приведены в таблице 2.15.
 
 
 ### гидрокомпенсаторов
-`skoda_octavia_ru_cd2f48cb` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:387 | doc_type:owners_manual
 • Неисправный гидрокомпен- сатор следует заменять как одно целое (он не подлежит ремонту). . Нерегулярный стук клапанов во время пуска – нормальное явле- ние.
 
 Таблица 2.15. Размеры клапанов   
@@ -21697,12 +20663,10 @@ H 2 -
 
 
 ### Снятие
-`skoda_octavia_ru_0098d4ba` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:388 | doc_type:owners_manual
 1. Снимитераспределительные валы. 2 Снимите гидрокомпенсаторы (взаимно не заменяя), положите их в сторонурабочей поверхностью вниз. 3. Выкрутите свечи зажигания. 4.Установите поршень соответству- ющего цилиндра в НМТ.
 
 
 ### Выпускные клапаны
-`skoda_octavia_ru_70a3f040` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:389 | doc_type:owners_manual
 5. Установите монтажный инстру- мент МР 1-213 и отрегулируйте высоту его лап (рис. 2.210).
 
 ![](images/3c2259a6fbb06df9ccdde6a4722d226c2ba00101a001d91c398196b251dc8f99.jpg)  
@@ -21717,7 +20681,6 @@ H 2 -
 
 
 ### Впускные клапаны
-`skoda_octavia_ru_ce1d35ed` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:390 | doc_type:owners_manual
 9. У прижимного приспособления МР 1-229 есть два разных положения (рис. 2.212):
 
 ![](images/ca273049d855f7d72286b272ec2dd25952b205ca8cf087e0e9faa1f52e6a5add.jpg)  
@@ -21743,7 +20706,6 @@ H 2 -
 
 
 ### Установка
-`skoda_octavia_ru_89d1b282` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:391 | doc_type:owners_manual
 15. Чтобы предотвратить повреж- дения новых сальников стержней кла- панов, наденьте на стержень клапана защитный пластмассовыйчехол А(рис. 2.214).
 
 ![](images/39185f496eb8dff6bbddcc0fcf42ad8f433555d2ec64ba2ff094bc82fdcd2a16.jpg)  
@@ -21757,7 +20719,6 @@ H 2 -
 
 
 ### 32.7. Проверка направляющих втулок клапанов
-`skoda_octavia_ru_98fbfefb` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:392 | doc_type:owners_manual
 1. Вставьте клапан в направляющую втулку(рис. 2.215). Конец стержня кла- пана должен находиться в одной плос- кости с направляющей втулкой.
 
 ![](images/b2134b5a59c6b21ac06f59be07704ff38ab7f5ebeabe8adfcfdb48908b73825b.jpg)  
@@ -21769,7 +20730,6 @@ H 2 -
 
 
 ### Расчет максимально допускаемой обработки
-`skoda_octavia_ru_99519b30` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:393 | doc_type:owners_manual
 1. Вставьте клапан, крепко вдавив его в седло.
 
 2.Измерьте расстояние а междукон- цом стержня клапана и верхним краем головки блокацилиндров (рис. 2.216). По измеренному значению а и минималь- номузначению размера обработки сле- дует подсчитатьмаксимальныйдопуска- емый размер обработки.
@@ -21783,14 +20743,12 @@ H 2 -
 
 
 ### Пример:
-`skoda_octavia_ru_8d584065` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:394 | doc_type:owners_manual
 Измеренное расстояние а 34.5MM - Минимальный размер 34.0MM = Максим. допустимый размер обработки 0.5Mm
 
 Внимание! Если максимальный допустимый размер для шлифовки равен О мм, следует повторить из- мерение с новым клапаном. Если даже после этого максимальный допустимый размер для шлифовки равен 0, необходимо заменить го- ловку блока цилиндров.
 
 
 ### Обработка седел клапанов
-`skoda_octavia_ru_1c4d15c9` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:395 | doc_type:owners_manual
 Углы седла клапана показаны на рис. 2.217 и приведены в таблице 2.16.
 
 ![](images/2d5337cd259a0f75b058c30b313f8281e2eb5a26ad305d235e836c79b02d7e20.jpg)  
@@ -21805,7 +20763,6 @@ H 2 -
 
 
 ### Последовательность работ при фрезеровании
-`skoda_octavia_ru_335d2c32` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:396 | doc_type:owners_manual
 6. Фрезеруйте седло клапана фре- зой 90° до тех пор, пока не образуется идеальная поверхность прилегания (не превышая при этом максимальный до- пускаемый размер подгонки) (рис. 2.218).
 
 ![](images/fa7793f064640fecfc02203a8a3565dbef18a541533ff21b02b5c00d3c491781.jpg)  
@@ -21828,7 +20785,6 @@ H 2 -
 
 
 ### СИСТЕМА СМАЗКИ ДВИГАТЕЛЯ
-`skoda_octavia_ru_d26cc6c9` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:397 | doc_type:owners_manual
 Система смазки двигателя показана на рис. 2.219.
 
 ![](images/cbbd98ebcde6710015f07afbf1f5dcba039ec9782db25f2f99078082e4d11d2e.jpg)
@@ -21841,7 +20797,6 @@ H 2 -
 
 
 ### 33. КРОНШТЕЙН КРЕПЛЕНИЯ МАСЛЯНОГО ФИЛЬТРА
-`skoda_octavia_ru_4f59a140` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:398 | doc_type:owners_manual
 Кронштейн крепления масляного фильтра двигателей показан на рис. 2.220а,б.
 
 ![](images/6885ca3e1c38e78f0234f1896d2d92b2bdb4006e27cfe94e086148c191178f94.jpg)  
@@ -21861,7 +20816,6 @@ H 2 -
 
 
 ### 35. ПОДДОН ДВИГАТЕЛЯ
-`skoda_octavia_ru_a7b14bdf` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:399 | doc_type:owners_manual
 Масляный насос изображен на рис. 2.221.
 
 ![](images/9d0fe781000f920c0da012ae4bfe59ae71c98d7009b84a158725c706832fc647.jpg)  
@@ -21869,7 +20823,6 @@ H 2 -
 
 
 ### Снятие
-`skoda_octavia_ru_9d323b6c` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:400 | doc_type:owners_manual
 1.Снимите звукоизоляцию(стрел- ки) (рис. 2.222).
 
 ![](images/f72f69899dc7a4ef323b71e10a33fc783c50fe31f996d5282506aa7261147317.jpg)  
@@ -21885,7 +20838,6 @@ H 2 -
 
 
 ### 36. ПРОВЕРКА ДАТЧИКА ДАВЛЕНИЯ МАСЛА
-`skoda_octavia_ru_89eb2f81` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:401 | doc_type:owners_manual
 1.Отсоединитеразъемпроводкиот датчика давления масла (стрелка), снимите его (рис. 2.226).
 
 ![](images/d12f527b92d7046594ce3bb12ab0415c78e22f808fff02f80950e75d33eb7ade.jpg)  
@@ -21904,7 +20856,6 @@ H 2 -
 
 
 ### СИСТЕМАОХЛАЖДЕНИЯ
-`skoda_octavia_ru_dd3f0bf5` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:402 | doc_type:owners_manual
 Внимание! Масляный поддон нужно установить в течение 5 минут после нанесения герметика.
 
 7.Отрежьте ножницами острый кон- чик тюбика с герметиком «D 176 404 А2».
@@ -21936,7 +20887,6 @@ H 2 -
 
 
 ### Снятие
-`skoda_octavia_ru_b2aa444d` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:403 | doc_type:owners_manual
 .Слейте охлаждающую жидкость. 2. Снимите ремень привода гене- paтopa. 3. Снимите зубчатый ремень со шкива насоса системы охлаждения. 4. Открутите болты крепления 1 и снимите насос системы охлаждения 2 (рис. 2.228).
 
 ![](images/4f2247e85ddbe88d0ac8799ed0f1b2821936eb131af24abede61e59acc891f83.jpg)  
@@ -21944,12 +20894,10 @@ H 2 -
 
 
 ### Установка
-`skoda_octavia_ru_0ddb83b0` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:404 | doc_type:owners_manual
 5. Смочите новый сальник в охлаж- дающейжидкости. 6. Установите насос системы охлаж- дения. Положение для установки: проб- ка в корпусе насоса должна быть на- правлена вниз. 7.Установите насос системы охлаж- дения 2 на свое место и затяните болты крепления 1. 8. Далее установка проводится в порядке,обратном снятию.
 
 
 ### Снятие
-`skoda_octavia_ru_6a81be6e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:405 | doc_type:owners_manual
 1. Слейте охлаждающую жид- кость.
 
 2. Отсоедините патрубок для охлаж- дающей жидкости от соединительного штуцера 2 (рис. 2.229). Выкрутите бол- ты 1, снимите соединительный штуцер вместе с уплотнительным кольцом круг- лого сечения 3 и термостатом 4.
@@ -21959,7 +20907,6 @@ H 2 -
 
 
 ### 39. СИСТЕМА ВЫПУСКА ОТРАБОТАВШИХ ГАЗОВ
-`skoda_octavia_ru_bc4091ec` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:406 | doc_type:owners_manual
 39.1. Система выпуска отработавших газов двигателя «АGN» Система выпуска отработавших газов двигателя «АGN» показана на рис. 2.230.
 
 ![](images/c53243bb978da2f7cab41b6ad29db11d9dd63b8b2bfd7bc3f1e33f8eb2b6bc5d.jpg)  
@@ -21973,7 +20920,6 @@ H 2 -
 
 
 ### Снятие
-`skoda_octavia_ru_d3859885` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:407 | doc_type:owners_manual
 1.Отсоедените разъем проводки от лямбда-зонда, отсоедините электро- проводку с зажимами от теплозащит- ного щитка (рис. 2.231).
 
 ![](images/001d312ca8e115c940051ee75cc77a633a64243aa21fc552a53f43b2c5ab1352.jpg)  
@@ -21981,12 +20927,10 @@ H 2 -
 
 
 ### Проверка термостата
-`skoda_octavia_ru_6bebab54` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:408 | doc_type:owners_manual
 3. Согрейте термостат на водяной бане. При этом отметьте: начало открытия: около 87 °С; конец открытия: около 102°; длина хода штока: минимум 7 мм.
 
 
 ### Установка
-`skoda_octavia_ru_d489efe7` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:409 | doc_type:owners_manual
 4. Установка производится в по- рядке, обратном снятию.
 
 2. Открутите передние гайки креп- ления выпускного трубопровода (рис. 2.232).
@@ -22000,7 +20944,6 @@ H 2 -
 
 
 ### Установка
-`skoda_octavia_ru_c75b31cc` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:410 | doc_type:owners_manual
 5. Установка проводится в порядке, обратном снятию. Затяните болты креп- ления выпускной трубы к выпускному коллектору в последовательности, ука- занной на рис. 2.233.
 
 ![](images/01d124d1ebb678ce45ba796eeaf2062a0552160936e2aec85cc4bbfde143f27f.jpg)  
@@ -22012,12 +20955,10 @@ H 2 -
 
 
 ### Рис. 2.234. Система выпуска отработавших газов двигателя «АGU»:
-`skoda_octavia_ru_e52b924d` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:411 | doc_type:owners_manual
 1 – Трубчатый (туннельный мост); 2, 11,13 - Кронштейны крепления; 3, 5, 10, 14 - Болты; 4 – Передняя часть выпускной трубы; 6 - Прокладка; 7 - Турбонаддув; 8 - Лямбда-зонд; 9 - Двойная закрепительная втулка; 12 - Передний и задний глушители.
 
 
 ### Выпускной коллектор
-`skoda_octavia_ru_2d1e6e9c` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:412 | doc_type:owners_manual
 1. Снимите декоративную крыш- ку двигателя. 2.Открутите теплозащитный щиток. 3. Снимите переднюю часть выпус- кного трубопровода. 4. Ослабьте кронштейн крепления турбонаддува 3 (рис. 2.235а).
 
 ![](images/f216c0948bce1f2afbd1a32c38cc17d157c967ac9f12ff80007653ffebb51f8e.jpg)
@@ -22049,7 +20990,6 @@ H 2 -
 
 
 ### Снятие
-`skoda_octavia_ru_d980dfb8` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:413 | doc_type:owners_manual
 7. Отсоедините воздухозаборник 2 от верхней части воздухонаправляю- щего патрубка 1 (рис. 2.235б). До это- го нужно отсоединить тепловой щиток на воздухозаборнике.
 
 Рис. 2.236. Отсоедините   
@@ -22084,12 +21024,10 @@ H 2 -
 
 
 ### Установка
-`skoda_octavia_ru_099c2158` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:414 | doc_type:owners_manual
 20. Установка проводится в поряд- ке, обратном снятию. Замените гайки крепления выпускного коллектора, турбонагнетателя и выпускного трубо- провода.
 
 
 ### 40. ТУРБОНАДДУВ (ТОЛЬКО НА ДВИГАТЕЛЯХ «АGU»)
-`skoda_octavia_ru_d1a2fc1d` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:415 | doc_type:owners_manual
 Схема и конструкция турбонаддува воздуха показаны на рис. 2.238, 2.239, 2.240.
 
 2 3 4 5 6 7 8 9 Рис. 2.238. Схема турбонаддува: 1 -Вентиляционный патрубок; 2 - Бачок с активированным углем; 3- Турбокомпрессор; 4,14 - Обратные клапаны бачка с активированным углем; 5 - Ресивер клапана регулировки давления сжатого воздуха; 6 - Клапан прекращения подачи топлива в режиме принудительного холостого хода; 7 - Электромагнитный клапан для ограничения давления сжатого воздуха; 8 - Вакуумный усилитель Q тормозного привода; 9 - Обратный клапан вакуумного усилителя тормозного привода; C а 12 - Регулятор давления подачи топлива; 13 - Вентиляция картера двигателя; 15 - Радиатор сжатого воздуха. 15 14 13 12 11 10 5 11 12 13 14 15 8 8 7 8 9 10 7 0 11 6 4 Ь-3- 0 8 3 10 9 5 © B \ 11 © 8 2 16 1 8 43 \* A 6 543 19 2 7 .-1 12 \* © 2-\}\$ 16 8 = 19 18 17 0 s-3 2 13 2 17 20- 15 2 22 14 23 11 0 -19 12 5 26 5 25 24 Рис. 2.239. Конструкция турбонаддува: Рис. 2.240. Патрубки и клапаны регулировки подачи 1, 5, 8, 11, 13, 16, 17, 19, 22 - Болты крепления; сжатого воздуха: 2, 7, 15, 24, 25 - Прокладки; 3 - Турбокомпрессор; 0 4 - Уплотнительное кольцо круглого сечения; 6 - Впускной коллектор; 9 - Теплозащитный щиток; 10 - Верхний кронштейн; 12 - Подающая смазочная
@@ -22100,7 +21038,6 @@ H 2 -
 
 
 ### 40.1. Проверка клапана прекращения подачи топлива в режиме принудительного холостого хода
-`skoda_octavia_ru_dd552a5e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:416 | doc_type:owners_manual
 чения давления сжатого воздуха 1 (рис. 2.244).
 
 1. Присоедините ручной вакуум-на- сос (напр., «V.A.G 1390») к вакуумной трубке на клапане прекращения пода- чи топлива в режиме принудительного холостого хода (рис. 2.241).
@@ -22114,7 +21051,6 @@ H 2 -
 
 
 ### 40.2. Проверка системы регулировкй сжатого воздуха
-`skoda_octavia_ru_4bea7c20` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:417 | doc_type:owners_manual
 1. Давление сжатого воздуха изме- ряется при полной нагрузке, во время движения автомобиля или же на роли- ковомиспытательном стенде.Продол- жительность одного измерения - не более 10 секунд.
 
 2. Соедините Т-образный разъем с тестером «V.А.G 1397 А» междурегуля- тором давления подачи топлива и пе- редней частью впускного трубопрово- да (рис. 2.242).
@@ -22131,12 +21067,10 @@ H 2 -
 
 
 ### Автомобили с механической коробкой передач:
-`skoda_octavia_ru_f4625963` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:418 | doc_type:owners_manual
 на включенной третьей переда- че увеличьте частотувращения полным нажатием педали акселератора с 2000 об/мин на 3000 об/мин и нажмите кнопку М тестера. Заданное значе- ние: 0.15-0.16МПа.
 
 
 ### Автомобили с автоматической коробкой передач:
-`skoda_octavia_ru_70ca3722` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:419 | doc_type:owners_manual
 установите частоту вращения 1800-2о00 об/мин (рычаг селектора переключения передач должен нахо- диться в положении «2»); . увеличьте частоту вращения до 2500 об/мин и подождите до тех пор, пока коробка передач не включит вто- рую передачу; . нажав на педаль акселератора до упора (кiск-доwп), при частоте вра- щения 3000 об/мин нажмите кнопкуМ испытательного прибора. Заданное значение: 0.15-0.16 МПа.
 
 5. В случае увеличенного значения давления сжатого воздуха:
@@ -22147,7 +21081,6 @@ H 2 -
 
 
 ### 40.3. Проверка ресивера высокого давления клапана регулировки давления сжатого воздуха
-`skoda_octavia_ru_c0487f2e` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:420 | doc_type:owners_manual
 1. Отсоедините разъем проводки 2 от электромагнитного клапана ограни-
 
 ![](images/215674f0ff408f7504c350c77049a114f459aac725b5301e66f230ce6c207395.jpg)  
@@ -22166,7 +21099,6 @@ H 2 -
 
 
 ### Снятие
-`skoda_octavia_ru_131ff330` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:421 | doc_type:owners_manual
 1. Снимите декоративную крышку двигателя.   
 2. Снимите звукоизоляцию посре- дине и справа (стрелки) (рис. 2.154).   
 3. Открутите теплозащитный щиток правой полуоси.   
@@ -22189,12 +21121,10 @@ H 2 -
 
 
 ### Установка
-`skoda_octavia_ru_fc8e3409` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:422 | doc_type:owners_manual
 28. Установка проводится в поряд- ке, обратном снятию.
 
 
 ### 41. СИСТЕМА ОХЛАЖДЕНИЯ СЖАТОГО ВОЗДУХА
-`skoda_octavia_ru_308da0e5` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:423 | doc_type:owners_manual
 Система охлаждения сжатого воздуха показана на рис. 2.248.
 
 ![](images/07914e9e785d49def6df77c585d63a96b7cafd2971ee32b95ad6be4f75176b86.jpg)
@@ -22210,7 +21140,6 @@ o - о
 
 
 ### Снятие
-`skoda_octavia_ru_9c7d6954` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:424 | doc_type:owners_manual
 5. Отсоедините рукав воздухоза- борника 2 от радиатора сжатого возду- ха (рис. 2.250).
 
 ![](images/b58cb250db05f99a31ef214872de4705e0f575ea91716debbd26afc0012a2140.jpg)  
@@ -22242,12 +21171,10 @@ o - о
 
 
 ### Установка
-`skoda_octavia_ru_3adccce3` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:425 | doc_type:owners_manual
 8. Установка проводится в порядке, обратном снятию.
 
 
 ### ДВИГАТЕЛЬ «АQУ» 2.0 л
-`skoda_octavia_ru_4ad70b76` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:426 | doc_type:owners_manual
 Технические характеристики двигателя «АQУ» приведены в таблице 2.18.
 
 Таблица 2.18. Технические характеристики двигателя «АQУ» 2.0 л   
@@ -22255,7 +21182,6 @@ o - о
 
 
 ### 42. РЕМЕНЬ ПРИВОДА ГЕНЕРАТОРА
-`skoda_octavia_ru_ad2a016e` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:427 | doc_type:owners_manual
 Ремень привода генератора двигателя показан на рис. 2.251, а процедура его снятия и установки такая же, как идля двигателей «АЕН», «АКЛ» 1.6 л (Пункт 2.2 Главы 2 на странице 42).
 
 ![](images/7fd2136ccd09e06796138a70de993b9b3aa74f476b017b8a34a883c29d08e7a0.jpg)
@@ -22277,22 +21203,18 @@ o - о
 
 
 ### 43. ЗУБЧАТЫЙ РЕМЕНЬ ПРИВОДА РАСПРЕДЕЛИТЕЛЬНОГО БАЛА
-`skoda_octavia_ru_958c97a4` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:428 | doc_type:owners_manual
 Процедура снятия и установки зуб- чатого ремня привода двигателя такая же, как и на двигателе «АЕН», «АКL» 1.6 л (Пункт 3.2 Главы 2 на странице 42).
 
 
 ### 44. САЛЬНИКИ КОЛЕНЧАТОГО ВАЛА И МАХОВИК
-`skoda_octavia_ru_0e899985` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:429 | doc_type:owners_manual
 Процедура замены сальников, сня- тия и установки маховика и сцепления двигателя такая же, как и на двигателях 1.8 л (Пункт 6 Главы 2 на странце 51).
 
 
 ### 45. КОЛЕНЧАТЫЙ ВАЛ
-`skoda_octavia_ru_eb4395d0` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:430 | doc_type:owners_manual
 Процедура снятия и установки ко- ленчатого вала двигателя такая же, как и на двигателях 1.8 л (Пункт 6 Главы 2 на странице 51).
 
 
 ### 46. ШАТУННО-ПОРШНЕВАЯ ГРУППА
-`skoda_octavia_ru_e969d5fc` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:431 | doc_type:owners_manual
 Шатунно-поршневая группа двигателя показана на рис. 2.252
 
 ![](images/ccade0e9ed2c74579152fbd5fd0801ed4f86ce9bd668c5afff3785493b757dc3.jpg)  
@@ -22311,7 +21233,6 @@ o - о
 
 
 ### 47. ГОЛОВКА БЛОКА ЦИЛИНДРОВ
-`skoda_octavia_ru_83ad691a` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:432 | doc_type:owners_manual
 Головка блока цилиндров двигателя показана на рис. 2.253.
 
 ![](images/f770f85515f82f4bbdca3f43a0b4bff3cc6ee1430e95f8823e405fafd6a75830.jpg)
@@ -22320,7 +21241,6 @@ o - о
 
 
 ### Снятие
-`skoda_octavia_ru_239b12d1` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:433 | doc_type:owners_manual
 1. Отсоедините отрицательный про- вод от батареи.
 
 2. Снимите кожух двигателя 2 (рис. 2.254). Для этой цели предварительно ослабьте гайку 1, извлеките указатель уровня масла 3 и снимите кожух вперед рывком кверху(стрелки).
@@ -22392,14 +21312,12 @@ V
 
 
 ### Проверка деформации головки блока цилиндров
-`skoda_octavia_ru_581214e3` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:434 | doc_type:owners_manual
 25. Проверьте деформацию головки блокацилиндров в несколькихместахс помощью линейки и щупа (рис. 2.261). Допустимая деформация: 0.1 мм.
 
 Если деформация больше 0.1 мм, то необходимо перешлифовать головку блока цилиндров или заме- нить ее.
 
 
 ### Установка
-`skoda_octavia_ru_ae299bfa` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:435 | doc_type:owners_manual
 26. Закупорьте цилиндры чистыми тряпками с целью предотвращения проникновения грязи или остатков смазочного материала в пространство между рабочей поверхностью (зерка- лом) цилиндра и поршнем.
 
 27. Осторожно очистите уплотняю- щие поверхности головки блока ци- линдров и блока цилиндров. Тщатель- но устраните остатки наждака, шлифо- вального материала и тряпок для чис- Тки.
@@ -22431,7 +21349,6 @@ V
 
 
 ### 48. ГАЗОРАСПРЕДЕЛИТЕЛЬ- НЫЙ МЕХАНИЗМ
-`skoda_octavia_ru_ffb0e2fd` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:436 | doc_type:owners_manual
 Газораспределительный механизм двигателя такой же, как и на двигателе «АЕН», «АКЛ» 1.6 л (Пункт 8 Главы 2 на странице 54). Но необходимо учесть следующее:
 
 размеры клапанов (табл. 2.22);
@@ -22443,14 +21360,12 @@ V
 
 
 ### СИСТЕМА СМАЗКИ
-`skoda_octavia_ru_4be7f3f5` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:437 | doc_type:owners_manual
 Система смазки двигателя (рис. 2.265) подобна системе смазки двигателя «АЕН», «АКЛ» 1.6 л (Глава 2 страница 58).
 
 имеется маркировка с помощью выбитых номеров и букв между кулач- ками впускного и выпускного клапанов (табл. 2.23);
 
 
 ### Таблица 2.23. Маркировки на распределительном вале
-`skoda_octavia_ru_041a5229` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:438 | doc_type:owners_manual
 ![](images/e9d5d2d100f4ebd72cdc50baf7ebd3e2c55cbce9cd7e93967ed9f78c4ec976c7.jpg)  
 Рис. 2.265. Система смазки:
 
@@ -22460,7 +21375,6 @@ II
 
 
 ### Таблица 2.24. Фазы газораспределения
-`skoda_octavia_ru_2fcfe108` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:439 | doc_type:owners_manual
 фазы газораспределения при высоте подъема клапана 1 мм (табл. 2.24).
 
 ![](images/ebf79750fb358b357b42cb929626da966ac096ccb3dae558db518deaa56a0d88.jpg)
@@ -22473,7 +21387,6 @@ II
 
 
 ### 8. СИСТЕМА ОХЛАЖДЕНИЯ
-`skoda_octavia_ru_eeba9884` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:440 | doc_type:owners_manual
 Система охлаждения двигателя (рис. 2.266) подобна системе охлаждения двигателя «АЕН», «АКЛ 1.6 л (Глава 2 страница 61).
 
 ![](images/e2cad1860c809c52f3f145f33a3b490c4bde16dea418322be3b640268361a6e8.jpg)  
@@ -22486,12 +21399,10 @@ II
 
 
 ### СИСТЕМА ПИТАНИЯ
-`skoda_octavia_ru_3f4a6997` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:441 | doc_type:owners_manual
 Система питания двигателя подобна системе питания двигателя «АЕН», «АКL» Г.6 л (Глава 2 страница 64).
 
 
 ### 49. СИСТЕМА ВЫПУСКА ОТРАБОТАВШИХ ГАЗОВ
-`skoda_octavia_ru_02e25d18` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:442 | doc_type:owners_manual
 Система выпуска отработавших газов двигателя показана на рис. 2.267.
 
 ![](images/c02cfe9b322ee55d406b8113454446f46f166ff3cdb1706ff7e36b090c26308e.jpg)
@@ -22503,7 +21414,6 @@ II
 
 
 ### 49.1. Передний и задний глушители
-`skoda_octavia_ru_296eb58f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:443 | doc_type:owners_manual
 Передний и задний глушители показаны на рис. 2.268
 
 ![](images/7ecdfe51fac5981a7f430a2ac6a369b38b5514c84c1f578fc1272dcf1e103d5f.jpg)
@@ -22512,7 +21422,6 @@ II
 
 
 ### 49.2. Выпускной коллектор Снятие
-`skoda_octavia_ru_92c710d7` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:444 | doc_type:owners_manual
 1. Снимите декоративную крышку двигателя. Для этой цели ослабьте гайку 1 и, после извлечения указателя уровня масла 3, снимите крышку рыв- ком вперед и вверх (стрелки) (рис. 2.254).
 
 2.Снимите рукав воздухозаборни- ка 1 (стрелки) (рис. 2.255). Воздушный патрубок 2 остается присоединенным.
@@ -22537,12 +21446,10 @@ II
 
 
 ### Установка
-`skoda_octavia_ru_3984192a` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:445 | doc_type:owners_manual
 12. Установка проводится в поряд- ке, обратном снятию.
 
 
 ### Применение
-`skoda_octavia_ru_d7ea0e4f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:446 | doc_type:owners_manual
 Из системы дополнительной пода- чи воздуха, после пуска холодного двигателя (температура охлаждаю- щей жидкости от +5 ° до +33°С), на- гнетается воздух в пространство за выпускными клапанами продолжи- тельностью максимум 100 секунд. В результате отработавшие газы обога- щаются кислородом, происходит до- полнительное дожигание и, тем са- мым, сокращается фаза нагрева ката- лизатора ОГ. Активируется данная си- стема блоком управления впрыском и зажиганием«Мотrопіс» через реле насоса дополнительной подачи возду- ха нагнетательного клапана дополни- тельной подачи воздуха и комбиниро- ванного клапана. К тому же, после каж- дого последующего пуска двигателя (вплоть до температуры двигателя максимум 96 С) система дополни- тельной подачи воздуха включается на холостом ходу на 10 секунд, контроли- руясь системой автоматического кон- троля. Лямбда-зонды при этом долж- ны быть активированы.
 
 ![](images/b52312e488de621e422bcf35ccb1464f0b25348893fcb6dc5a6c44028a08b774.jpg)  
@@ -22557,7 +21464,6 @@ II
 
 
 ### 50.1. Проверка комбиниро- ванного клапана
-`skoda_octavia_ru_727c0899` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:447 | doc_type:owners_manual
 1. Отсоедините заборную трубку 1 от нагнетательного клапана дополни- тельной подачи воздуха 2 (рис. 2.270).
 
 Рис. 2.270. Отсоедините заборную трубку 1 от нагнета-   
@@ -22578,7 +21484,6 @@ II
 
 
 ### 50.2. Проверка двигателя насоса дополнительной подачи воздуха
-`skoda_octavia_ru_62f9757a` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:448 | doc_type:owners_manual
 1.Предохранительреле насосадо- полнительной подачи воздуха (стрелка) в главной коробкепредохранителей воз- леаккумуляторной батареи должен быть исправным (рис. 2.271).
 
 1
@@ -22595,7 +21500,6 @@ II
 
 
 ### 50.3. Проверка впускного клапана дополнительной подачи воздуха
-`skoda_octavia_ru_9509f907` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:449 | doc_type:owners_manual
 2. Снимите декоративную крышку двигателя. 3. Отсоедините напорную трубкуна- соса дополнительной подачи воздуха от двигателя.
 
 1. Отсоедините верхнюю заборную трубку (стрелка) от нагнетательного клапана дополнительной подачивозду- ха 1 (рис. 2.272).
@@ -22606,17 +21510,14 @@ II
 
 
 ### Снятие
-`skoda_octavia_ru_e0bb97ca` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:450 | doc_type:owners_manual
 1. Сверху: снимите декоративную крышку двигателя (рис. 2.254); снимите рукав воздухозаборника 1 (стрелки) (рис. 2.255). Трубка для уда- ления воздуха 2 остается присоеди- ненной; отсоедините напорную и заборную трубки от комбинированного клапана; ослабьте болтовое соединение на соединительной трубе. 2.Снизу: снимите защитный чехол полуоси; открутите соединительную трубу от выпускного коллектора; открутите комбинированный кла- пан.
 
 
 ### Установка
-`skoda_octavia_ru_0d34ee8e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:451 | doc_type:owners_manual
 3. Установка проводится в порядке, обратном снятию.
 
 
 ### Снятие
-`skoda_octavia_ru_8cf49062` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:452 | doc_type:owners_manual
 1. Отсоедините отрицательный про- вод от батареи. 2. Снимите кожух двигателя (рис. 3.1). Извлеките пробки 1 и ослабьте гайки (стрелки). Снимите зажимы 2 с болтов 3.
 
 ![](images/b8d4730e57a693aca539d1c4731bd6bd7bf34d5c4d62f95953b47c07b1bae115.jpg)  
@@ -22671,12 +21572,10 @@ II
 
 
 ### Для автомобилей с кондиционером воздуха
-`skoda_octavia_ru_1cdef09c` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:453 | doc_type:owners_manual
 11. Отсоедините разъем проводки от компрессора кондиционера.
 
 
 ### Для всех автомобилей
-`skoda_octavia_ru_746c1c41` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:454 | doc_type:owners_manual
 12. Отсоедините следующие разъе- мы проводки (рис. 3.12):
 
 Рис. 3.12. Отсоедините   
@@ -22789,7 +21688,6 @@ OT термовыключателя
 
 
 ### с кондиционером воздуха
-`skoda_octavia_ru_c69e5eac` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:455 | doc_type:owners_manual
 38. Открутите компрессор конди- ционера, опустите его и подвесьте с помощью проволоки вместе с присое- диненными патрубками системы ох- лаждения на буксирную петлю авто- мобиля (стрелка) (рис. 3.23).
 
 Рис. 3.23. Открутите компрессор кондиционера, опустите его и   
@@ -22799,7 +21697,6 @@ OT термовыключателя
 
 
 ### Для всех автомобилей
-`skoda_octavia_ru_a73d57cf` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:456 | doc_type:owners_manual
 39. Открутите качающуюся опору двигателя (стрелки) (рис. 3.24).
 
 ![](images/f713c395ff9c2686910130c9db1044d6e7a09961a6b706ba8e250db91c4eac8a.jpg)  
@@ -22814,7 +21711,6 @@ OT термовыключателя
 
 
 ### Для всех автомобилей
-`skoda_octavia_ru_af7aa3e2` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:457 | doc_type:owners_manual
 43. Поднимите автомобиль на га- ражном подъемнике. Установите крон- штейн опоры двигателя «Т10012» в гид- равлическое устройство для снятия и установки двигателя и коробки пере- дач (напр., «V.A.G 1383 А»).
 
 44. Прикрепите кронштейн опоры двигателя «Т10012» к блоку цилиндров двигателя с помощью гаек и болтов М10 (рис. 3.25).
@@ -22845,7 +21741,6 @@ OT термовыключателя
 
 
 ### Установка
-`skoda_octavia_ru_e5291457` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:458 | doc_type:owners_manual
 50. Установка производится в по- рядке, обратном снятию. При этом следует учесть следующее:
 
 проверьте наличие в блоке ци- линдров центрирующих втулок для центрирования двигателя и коробки передач и, при необходимости, уста- новите их;
@@ -22859,7 +21754,6 @@ OT термовыключателя
 
 
 ### Для автомобилей с кондиционером воздуха
-`skoda_octavia_ru_82e69a64` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:459 | doc_type:owners_manual
 установите компрессор конди- ционера. Для облегчения установки компрессора кондиционера сдвиньте резьбовые втулки немного назад в направлении стрелки В для установки болтов А (рис. 3.30);
 
 ![](images/c21d0d229f5b839f54148590a4aafc52e856f4535a76040fcc75b74acb68582f.jpg)  
@@ -22867,19 +21761,16 @@ OT термовыключателя
 
 
 ### Для всех автомобилей
-`skoda_octavia_ru_1e992dc9` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:460 | doc_type:owners_manual
 установите насос усилителя ру- левого механизма; установите ремень привода ге- нератора; установитеполуоси; подсоедините патрубки охлаж- дающей жидкости.
 
 
 ### ДВИГАТЕЛЬ «AGR» 1.9 TDI
-`skoda_octavia_ru_d4b77235` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:461 | doc_type:owners_manual
 Технические характеристики двигателя 1.9 TDI приведены в таблице 3.1.   
 аблица 3.1. Технические характеристики двигателя   
 ![](images/5a23f5a9d71cfbb71166c02f8e68e31218712b5b7dffc7f091fcacaa4bdceda0.jpg)
 
 
 ### 2. РЕМЕНЬ ПРИВОДА ГЕНЕРАТОРА
-`skoda_octavia_ru_5ca0e512` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:462 | doc_type:owners_manual
 Ремень привода генератора двигателя показан на рис. 3.31.
 
 ![](images/8ade78b3fd42d8a4b6abfd4325b1f16d8619a7b759cef79bf16efe0a1b538f6c.jpg)  
@@ -22896,7 +21787,6 @@ OT термовыключателя
 
 
 ### Снятие
-`skoda_octavia_ru_90d5c471` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:463 | doc_type:owners_manual
 1. Снимите нижний правый кожух двигателя. 2.Снимите воздухонаправляющий патрубок между радиатором сжатого воздуха и турбокомпрессором. 3. Наденьте на головкуболта натяж- ного ролика плоский гаечный ключ 16. Для того чтобы ослабить натяжение ремня привода генератора, поверните натяжнойролик в направлении стрелки (рис.3.34).
 
 ![](images/83a9ca09bf6e1b0fc24e1ba8ff0f6685e4d6dc189fe238c764ca47c36640a35a.jpg)  
@@ -22906,12 +21796,10 @@ OT термовыключателя
 
 
 ### Установка
-`skoda_octavia_ru_7e29a904` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:464 | doc_type:owners_manual
 5. Поднимите натяжной ролик рем- ня привода генератора с помощью га- ечного ключа 16 и наденьте ремень.
 
 
 ### 3. ЗУБЧАТЫЙ РЕМЕНЬ ПРИВОДА РАСПРЕДЕЛИТЕЛЬНОГО БАЛА
-`skoda_octavia_ru_21f55e91` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:465 | doc_type:owners_manual
 Зубчатый ремень показан на рис. 3.35.
 
 ![](images/3a95014f74d43b751c5b4bd54f481206af187ddf22b0dccef2fecbc99f7e4537.jpg)
@@ -22925,14 +21813,12 @@ OT термовыключателя
 
 
 ### Снятие
-`skoda_octavia_ru_c749b58f` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:466 | doc_type:owners_manual
 1. Снимите правую фару. 2. Снимите кожух двигателя. 3.Отсоедините разъем проводки от датчика давления во впускном коллек- торе и от датчика температуры входя- щего воздуха. 4. Снимите патрубок между радиа- тором сжатого воздуха и впускным кол- лектором. 5. Отсоедините расширительный бачок охлаждающей жидкости и отло- жите его в сторону. 6. Отсоедините бачок насоса усили- теля рулевого механизма и отложите его в сторону. 7. Извлеките топливный фильтр и отложите его в сторону. 8. Снимите защитный щиток двига- теля.
 
 9. Снимите воздухонаправляющий патрубок между радиатором сжатого воздуха и турбокомпрессором.
 
 
 ### Для всех автомобилей
-`skoda_octavia_ru_f63bb25e` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:467 | doc_type:owners_manual
 ![](images/62c0aa8ada3017537bfbeca3c54cb7c049ba81a3c2a5df1156c986814f877028.jpg)  
 Рис. 3.36. Установите поршень первого цилиндра в ВМТ (стрелка) (автомобили с механической коробкой передач).
 
@@ -22940,7 +21826,6 @@ OT термовыключателя
 
 
 ### Для всех автомобилей
-`skoda_octavia_ru_3356cc94` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:468 | doc_type:owners_manual
 15. Заблокируйте распределитель- ный вал линейкой «МР 1-312». Клапа- ны 1-го цилиндра должны быть зак- рыты и клапаны 4-го цилиндра долж- ны быть перекрыты (стрелки) (рис. 3.37). Регулирующую линейку отцент- руйте следующим образом: поверните заблокированный распределительный вал так, чтобы один конец регулирую- щей линейки уперся в головку блока цилиндров. На втором конце регули- рующей линейки измерьте щупами получившийся зазор. Всуньте щуп между регулирующей линейкой и го- ловкой блока цилиндров размером в половину толщины зазора. Затем по- ворачивайте распределительный вал до тех пор, пока регулирующая линей- ка не упрется в щуп. Второй щуп такого же размера всуньте во второй конец между регулирующей линейкой и го- ловкой блока цилиндров.
 
 ![](images/3a7c882bcf8d1aeb49f454ba81f43e3a2853d5aba3a1dfd943adfeea925127c6.jpg)
@@ -22976,7 +21861,6 @@ OT термовыключателя
 
 
 ### Установка
-`skoda_octavia_ru_986c0799` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:469 | doc_type:owners_manual
 27. Проверьте установку поршня первого цилиндра в ВМТ.
 
 28.Ослабьтеболткрепленияшкива распределительного вала на 1/2 обо- рота (рис. 3.41). Придержите шкив с применениемконтропоры«МР1-216». Снимите шкив с конуса распредели- тельноговала, постукиваямолоткомпо дорну,проходящемучерезотверстиев заднем защитном кожухе зубчатого ремня.
@@ -23022,7 +21906,6 @@ D
 
 
 ### Для автомобилей до VII/97 г.
-`skoda_octavia_ru_8880e99b` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:470 | doc_type:owners_manual
 1. Присоедините устройство для установки ВМТ «МР 1-313» согласно указаниям на рисунке 3.43. Отрегули- руйте длину устройства для установки ВМТ «МР 1-313» на 96 мм (стрелка) (левый шлиц шкалы (стрелка А) пред- ставляет собой опорную точку). Вра- щайте коленчатый вал так, чтобы метка ВМТ (стрелка В) на маховике совпала с кромкой регулирующего устройства.
 
 ![](images/616c2150dd136fd0f84563108b14098995763db3458757454dc64b4ecf019eb2.jpg)  
@@ -23031,7 +21914,6 @@ D
 
 
 ### Для автомобилей с VII/97 г.
-`skoda_octavia_ru_28ca11fa` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:471 | doc_type:owners_manual
 2. Присоедините устройство для установки ВМТ «МР 1-313 согласно указаниям на рисунке 3.44. Отрегули- руйте длину устройства для установки
 
 ![](images/38d9fe9b6c3626cd2bd3270fccfb822c54f9ad84ea9a39a705c2cff39195f004.jpg)  
@@ -23043,7 +21925,6 @@ D
 
 
 ### Для автомобилей до VII/97 г.
-`skoda_octavia_ru_9647f9b3` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:472 | doc_type:owners_manual
 3. Установите стальную чертежную линейку на край маховика (рис. 3.45).
 
 ![](images/6f86cde2211979ba8ccb25fbc846de6b81bd9f7e5e97e8d64599a7004457e61b.jpg)  
@@ -23058,7 +21939,6 @@ D
 
 
 ### Для автомобилей с VIII/97 г.
-`skoda_octavia_ru_3ed72fa9` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:473 | doc_type:owners_manual
 5. Установите стальную чертежную линейку на край маховика (рис. 3.47).
 
 ![](images/0c406a7af415981f5450c6f2d0c861c60b0118305bd12af54942b6498a6988ba.jpg)  
@@ -23073,7 +21953,6 @@ D
 
 
 ### 5. КОЛЕНЧАТЫЙ ВАЛ
-`skoda_octavia_ru_1940f026` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:474 | doc_type:owners_manual
 Коленчатый вал двигателя показан на рис. 3.49.
 
 ![](images/5b538968364b689029638a9e1d3971f87e3ae7b6ce5e8d3b3b3767ea95d4f66a.jpg)  
@@ -23085,7 +21964,6 @@ D
 
 
 ### Снятие
-`skoda_octavia_ru_fe279a0f` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:475 | doc_type:owners_manual
 1. Снимите ремень привода ге- нератора.   
 2. Снимите зубчатый ремень.   
 3. Снимите зубчатый шкив ко- ленчатого вала. Заблокируйте зуб- чатый шкив с помощью контропоры «МР 1-310» или «Т 30004» (рис. 3.50).
@@ -23108,7 +21986,6 @@ D
 
 
 ### Установка
-`skoda_octavia_ru_0c90c317` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:476 | doc_type:owners_manual
 8. Смажьте маслом рабочую кром- ку сальника. 9. Установите направляющую гильзу «МР 1-314» на коленчатый вал (рис. 3.52).
 
 ![](images/055f72eb0791495f621994995dcad9450a057446846fd8f675085b5045d08b28.jpg)  
@@ -23120,7 +21997,6 @@ D
 
 
 ### 5.2. Маховик
-`skoda_octavia_ru_cfc543fd` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:477 | doc_type:owners_manual
 1.Вставьте контропору «МР 1-223» в отверстие в блоке цилиндров и заб- локируйте маховик от вращения (рис. 3.54).
 
 ![](images/e8bf82b9ff019d79ee7a26b455fdda6a51a1da55914a3a815b017592d1ab8665.jpg)  
@@ -23137,12 +22013,10 @@ D
 
 
 ### 5.3. Ведомый диск сцепления
-`skoda_octavia_ru_c9b4dfdc` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:478 | doc_type:owners_manual
 Ведомый дисксцепления показан в Пункте 27 Главы 2 на странице 72.
 
 
 ### Снятие
-`skoda_octavia_ru_7aa79407` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:479 | doc_type:owners_manual
 1. Снимите масляный поддон.   
 2. Снимите передний сальник коленчатого вала.   
 3. Снимите натяжное устройство цепи привода масляного насоса, зубчатый шкив привода масляного насоса и цепь.   
@@ -23152,7 +22026,6 @@ D
 
 
 ### Установка
-`skoda_octavia_ru_3bd5a763` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:480 | doc_type:owners_manual
 5. Нагревайте зубчатый шкив при- вода масляного насоса в нагреватель- ной печи около 15 минут при темпера- туре 220 °C.
 
 6. Наденьте  клещами  зубчатый шкив привода масляного насоса на конец коленчатого вала, установите его с применением гильзы «МР 1-316» до упора, находящегося на коленчатом валу (рис. 3.56).
@@ -23161,7 +22034,6 @@ X -MP 1-316
 
 
 ### 6. ШАТУННО-ПОРШНЕВАЯ ГРУППА
-`skoda_octavia_ru_7a2cbea3` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:481 | doc_type:owners_manual
 Шатунно-поршневая группа представлена на рис. 3.57.
 
 ![](images/cf169e8f549e404d22f12bf04a4b9c338b7fa578954f49e93ad560505accccfa.jpg)  
@@ -23171,7 +22043,6 @@ X -MP 1-316
 
 
 ### Проверка поршней и поршневых колец
-`skoda_octavia_ru_38449c76` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:482 | doc_type:owners_manual
 Порядок проверки поршней и поршневых колец приведен в Пункте 29 Главы 2 на странице 74.
 
 Основные размеры поршней и зазоры поршневых колец двигателя приведе- ны в табл. 3.2 и 3.3.
@@ -23184,7 +22055,6 @@ X -MP 1-316
 
 
 ### 6.1. Маркировка поршней и их принадлежность
-`skoda_octavia_ru_d37b45e4` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:483 | doc_type:owners_manual
 Принадлежность поршня к цилинд- ру и его положение для установки представлены на рис. 3.58.
 
 ![](images/8766bf91e8a6e69c6e47a0705cdf282dd331974a2947dde91382b461357b2d5f.jpg)  
@@ -23202,7 +22072,6 @@ X -MP 1-316
 
 
 ### (перекоса) поршня в ВМТ
-`skoda_octavia_ru_eafad65c` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:484 | doc_type:owners_manual
 В случае установки новых порш- ней или нового блока цилиндров проверьте положение поршней в ВМТ (рис. 3.59). В зависимостиот раз- мераперекосаустановитесоответству- ющиепрокладкиголовкиблока цилин- дров,руководствуясьприэтомуказани- ями следующей таблицы 3.4.
 
 Таблица 3.4. Перекос поршня   
@@ -23213,7 +22082,6 @@ X -MP 1-316
 
 
 ### 6.3. Маркировка прокладки головки блока цилиндров
-`skoda_octavia_ru_2bb2307e` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:485 | doc_type:owners_manual
 Маркировка прокладки головки блока цилиндров представлена на рис. 3.60.
 
 ![](images/4f75376cf97ecefc1737c4550d6e992499495a1ba67b46c0250e6051ba7aa021.jpg)  
@@ -23223,7 +22091,6 @@ X -MP 1-316
 
 
 ### 6.4. Размеры поршня и цилиндра
-`skoda_octavia_ru_2283d264` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:486 | doc_type:owners_manual
 Размеры поршня и цилиндра при- ведены в табл. 3.5.
 
 Таблица 3.5. Размеры поршня и цилиндра   
@@ -23231,7 +22098,6 @@ X -MP 1-316
 
 
 ### 7. ГОЛОВКА БЛОКА ЦИЛИНДРОВ
-`skoda_octavia_ru_94e35afd` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:487 | doc_type:owners_manual
 Головка блока цилиндров показана на рис. 3.61.
 
 ![](images/d7e6c56dc3d588f4dfeb0d78acd3d6dbc87db0062a0ce2e6d500bf9c1b097ce0.jpg)  
@@ -23245,7 +22111,6 @@ X -MP 1-316
 
 
 ### Снятие
-`skoda_octavia_ru_482fa4a3` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:488 | doc_type:owners_manual
 1. Отсоедините отрицательный провод от батареи. 2.Снимите кожух двигателя (рис. 3.1). 3. Снимите шумоизоляцию посре- дине и справа (стрелки) (рис. 3.5). 4.Отсоедините воздухонаправляю- щий патрубок между радиатором сжа- того воздуха и турбокомпрессором. 5. Открутите от блока цилиндров сливную смазочную трубкутурбокомп- peccopa. 6. Открутите от турбокомпрессора нагнетающую смазочную трубку. 7.Открутитефиксаторнагнетающей смазочнойтрубки, ведущейктурбоком- прессору, от выпускного коллектора. 8. Отсоедините выпускной коллек- торот турбокомпрессора. 9. Снимите ремень привода гене- ратора.
 
 10.Слейте охлаждающую жидкость. 11. Снимите впускной воздушный патрубок 1 (рис. 3.8). 12. Отсоедините трубку удаления воздуха 3 и разъем проводки от датчи- ка расхода воздуха 2. Ослабьте болты 4 и 5 и снимите воздушный фильтр. 13. Отсоедините от впускного кол- лектора впускной воздушный патрубок для воздушного фильтра/турбокомп- рессора и снимите его. 14. Отсоедините топливопроводы высокого давления с помощью ключа «3035». 15.Отсоедините сливнойтопливоп- роводот форсунок ктопливномунасосу высокого давления. 16. Отсоедините рейкус пальцевы- ми разъемами для свечей накалива- ния. Отсоедините разъем проводки от датчика перемещения иглы и отсоеди- ните разъем от фиксатора.
@@ -23284,12 +22149,10 @@ X -MP 1-316
 
 
 ### Проверка
-`skoda_octavia_ru_d1485fef` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:489 | doc_type:owners_manual
 Проверку головки блока цилиндров смотрите в Пункте 8 Раздела 2.2 Главы 2.
 
 
 ### Установка
-`skoda_octavia_ru_8342eb11` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:490 | doc_type:owners_manual
 29. Перед установкой головки блока цилиндров установите поршень перво- го цилиндра в ВМТ. Установите регу- лирующую линейку «МР 1-312» в рас- пределительный вал.
 
 30. Установите прокладку головки блока цилиндров. Для центровки сле- дует вкрутить направляющие штифты «МР 1-208» в наружные отверстия со стороны впускного коллектора (рис. 3.65).
@@ -23324,7 +22187,6 @@ X -MP 1-316
 
 
 ### 8. ГАЗОРАСПРЕДЕЛИТЕЛЬНЫЙ МЕХАНИЗМ
-`skoda_octavia_ru_bda9270b` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:491 | doc_type:owners_manual
 Газораспределительный механизм двигателя показан на рис. 3.67.
 
 ![](images/685d76785e4fc9905ea5200c1325c6731a99b962da48d45ae4bbfbd8d1432b0e.jpg)  
@@ -23332,7 +22194,6 @@ X -MP 1-316
 
 
 ### 8.1. Клапаны
-`skoda_octavia_ru_41747111` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:492 | doc_type:owners_manual
 Внимание! Не допускается подгонка клапанов, а лишь только их при- тирка.
 
 Размеры впускного и выпускного клапанов приведены в таблице 3.6 (рис. 2.81).
@@ -23346,7 +22207,6 @@ X -MP 1-316
 
 
 ### Расчет максимально допускаемой обработки
-`skoda_octavia_ru_577ed1d7` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:493 | doc_type:owners_manual
 1. Засуньте клапан, крепко вдавив его в седло.
 
 2. Измерьте расстояние а между концом стержня клапана и верхним краем головки блока цилиндров (рис. 2.216). По измеренному значению а и минимальному значению размера об- работки следует подсчитать макси- мальный допускаемый размер обра- ботки.
@@ -23361,7 +22221,6 @@ X -MP 1-316
 
 
 ### Обработка седел клапанов
-`skoda_octavia_ru_c332d618` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:494 | doc_type:owners_manual
 Углы седел клапанов показаны на рис. 3.68а,б и приведены в табл. 3.8, 3.9.
 
 ![](images/bcfc3a88502b333b93bab5c9c695912265746cb9f28c88aef1e78b9d02b6da11.jpg)  
@@ -23395,7 +22254,6 @@ e необходимо применять фрезы «№АС» с твердо
 
 
 ### Последовательность работ при фрезеровании
-`skoda_octavia_ru_bcce6782` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:495 | doc_type:owners_manual
 6. Фрезеруйте седло клапана фре- зой 90° до тех пор, пока не образуется идеальная поверхностьприлегания (не превышая при этом максимальный допускаемый размер подгонки) (рис. 3.69).
 
 ![](images/b9ef12f6d6049a0956e3f79b5c76d844a6fb478566a8692400afc1c441d0c42f.jpg)  
@@ -23411,7 +22269,6 @@ e необходимо применять фрезы «№АС» с твердо
 
 
 ### 8.3. Распределительный вал Снятие
-`skoda_octavia_ru_5237cc14` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:496 | doc_type:owners_manual
 1. Снимите верхний защитный ко- жух зубчатого ремня, крышку головки блока цилиндров и вакуумный насос. 2. Установите поршень первого ци- линдра в ВМТ (стрелка) (автомобили с механической коробкой передач) (рис.3.70).
 
 ![](images/ffad26c7f6a6a108b292984a7a22e3a4f621386e7e10774c8e539e5b6a8f7f0c.jpg)  
@@ -23436,7 +22293,6 @@ e необходимо применять фрезы «№АС» с твердо
 
 
 ### Проверка
-`skoda_octavia_ru_bf6fb1d7` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:497 | doc_type:owners_manual
 11. Проверьте осевой зазор рас- пределительного вала.
 
 ![](images/2461a683e86e41dfec897f3e410d286836bd9c382a831707222bbc2e6270bdde.jpg)  
@@ -23448,7 +22304,6 @@ e необходимо применять фрезы «№АС» с твердо
 
 
 ### Установка
-`skoda_octavia_ru_92848edd` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:498 | doc_type:owners_manual
 Внимание! При установке рас- пределительных валов кулачки 1- го цилиндра должны быть направ- лены вверх. При установке просле- дите за установкой крышек под- шипника (рис. 3.75).
 
 ![](images/3323bb933389e0da4741d1654d8a02fb91511a26f1b587ef0ab4b21e926623c6.jpg)  
@@ -23464,7 +22319,6 @@ HM. 15. Установите шкив распредели-
 
 
 ### 8.4. Проверка направляющих втулок клапанов
-`skoda_octavia_ru_999042c3` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:499 | doc_type:owners_manual
 Всуньте клапан в направляющую втулку. Конец стержня клапана должен совпадать с концом направляющей (рис. 3.76). Допустимый зазор - не более 1.3 мм.
 
 ![](images/b39b66582c5b46dd53d43e5834a254b6d99d95c43ed3213689306d53f82164ee.jpg)  
@@ -23474,7 +22328,6 @@ HM. 15. Установите шкив распредели-
 
 
 ### Снятие
-`skoda_octavia_ru_0408a9ff` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:500 | doc_type:owners_manual
 1. Снимитераспределительныйвал. 2. Снимите гидрокомпенсаторы (взаимно их не заменяя). 3. Установите поршень соответ- ствующего цилиндра в ВМТ. 4. Установите монтажный инстру- мент «МР 1-213» и отрегулируйте вы- соту его лап (рис. 3.77).
 
 ![](images/3fa384362e0f92353c3426346080001eaf313093404080c7328e03730aecb775.jpg)  
@@ -23489,7 +22342,6 @@ HM. 15. Установите шкив распредели-
 
 
 ### Установка
-`skoda_octavia_ru_27788a92` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:501 | doc_type:owners_manual
 7. Чтобы предотвратить поврежде- ние нового сальника стержня клапана, наденьте на стержень клапана защит- ный пластмассовыйчехол А (рис. 3.79).
 
 ![](images/0cc15b1cf248ba515debbfaf744045adb3a4193be3450fcc233f99ec69d5ea99.jpg)  
@@ -23503,12 +22355,10 @@ HM. 15. Установите шкив распредели-
 
 
 ### 8.6. Проверка гидрокомпенсаторов
-`skoda_octavia_ru_4a145fb2` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:502 | doc_type:owners_manual
 Проверкагидрокомпенсаторов при- ведена в Пункте 32.5 Главы 2 на страни- це 82.
 
 
 ### 9. КРОНШТЕЙН МАСЛЯНОГО ФИЛЬТРА
-`skoda_octavia_ru_e3a2a784` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:503 | doc_type:owners_manual
 Кронштейн крепления масляного фильтра показан на рис. 3.81.
 
 ![](images/7805fb5a51b34eb4218f1afb4c0262076413ab0598ba9210f9e73668c919f4cc.jpg)
@@ -23532,7 +22382,6 @@ HM. 15. Установите шкив распредели-
 
 
 ### 10. ПОДДОН ДВИГАТЕЛЯ
-`skoda_octavia_ru_929dbc4d` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:504 | doc_type:owners_manual
 Снятие и установка поддона двигателя приведены в Пункте 35 Главы 2 на странице 86.
 
 Составные части системы охлаждения показаны на рис. 3.82
@@ -23553,12 +22402,10 @@ HM. 15. Установите шкив распредели-
 
 
 ### 11. НАСОС СИСТЕМЫ ОХЛАЖДЕНИЯ
-`skoda_octavia_ru_a174bc1d` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:505 | doc_type:owners_manual
 1. Слейте охлаждающую жидкость. 2.Снимите звукоизоляцию. 3. Отсоедините топливопроводы (стрелки) от топливного насоса вы- сокого давления и, закупорив их чис- тыми пробками, отложите в сторону. 4. Отсоедините разъем проводки 2 от датчика температуры входящего воздуха с датчиком давления во впуск- ном коллекторе. Снимите воздушный впускной патрубок 1 (рис. 3.83).
 
 
 ### СИСТЕМА ОХЛАЖДЕНИЯ
-`skoda_octavia_ru_b344dbc8` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:506 | doc_type:owners_manual
 ![](images/402308fab3ce921e8eda075f6f61d2385112abccda51ea9abd200f7737ce9578.jpg)  
 Рис. 3.83. Отсоедините разъем проводки 2 от датчика температуры входящего воздуха с датчиком давления во впускном коллекторе.
 
@@ -23578,7 +22425,6 @@ HM. 15. Установите шкив распредели-
 
 
 ### Установка
-`skoda_octavia_ru_982f8faf` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:507 | doc_type:owners_manual
 13. Очистите поверхность для уп- лотнительного кольца круглого сече- ния.
 
 14. Заменитеуплотнительное кольцо круглого сечения 5 и смажьте новое кольцо охлаждающей жидко- стью.
@@ -23591,7 +22437,6 @@ HM. 15. Установите шкив распредели-
 
 
 ### Снятие
-`skoda_octavia_ru_01746c67` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:508 | doc_type:owners_manual
 1. Слейте охлаждающую жидкость. 2. Отсоедините патрубки охлаждающей жидкости от соединительного шту- цера 2. Открутите болты 1, снимите соединительный штуцер вместе с уплот- нительным кольцом круглого сечения 3 и термостатом 4. (рис. 3.86).
 
 ![](images/e2140cf00a871041a102548432285ffec318f640eb68f9c260f09dfba9488476.jpg)  
@@ -23601,14 +22446,12 @@ HM. 15. Установите шкив распредели-
 
 
 ### Проверка
-`skoda_octavia_ru_4571e26b` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:509 | doc_type:owners_manual
 4. Опустите термостат в емкость с горячей водой и проверьте температу- ру срабатывания.
 
 ![](images/b49a7d7973ad34e3fb9a8dcd2ff92cda3e0079b32ae39f453775580534a5cf1c.jpg)
 
 
 ### Установка
-`skoda_octavia_ru_9e4288e2` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:510 | doc_type:owners_manual
 5. Очистите поверхность для уп- лотнительного кольца круглого сече- ния.
 
 6. Замените уплотнительное коль- цо круглого сечения и смажьте новое кольцо охлаждающей жидкостью.
@@ -23621,7 +22464,6 @@ HM. 15. Установите шкив распредели-
 
 
 ### Для автомобилей с кондиционером воздуха
-`skoda_octavia_ru_55b4eaa0` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:511 | doc_type:owners_manual
 4. Окрутите четыре поддерживаю- щих болта (стрелки) конденсатора (рис. 3.88).
 
 5. Снимите хомут крепления (стрелка) трубопровода хладагента (рис. 3.89).
@@ -23630,7 +22472,6 @@ LS q
 
 
 ### Для всех автомобилей
-`skoda_octavia_ru_ea867d6e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:512 | doc_type:owners_manual
 6. Снимите обе фары. 7. Открутите четыре поддерживаю- щих болта (стрелки) радиатора сверху и снизу (рис. 3.90а,б).
 
 ![](images/6e272405e3f63c3f7a6d69726b87b713bf3cce2348920bcaaca99ab81eb32d72.jpg)  
@@ -23645,7 +22486,6 @@ LS q
 
 
 ### Для автомобилей с кондиционером воздуха
-`skoda_octavia_ru_4b1f24e8` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:513 | doc_type:owners_manual
 8. Выдвиньте немного радиатор вместе с конденсатором.
 
 9. Снимите хомут крепления (стрел- ка) трубопровода хладагента (рис. 3.91).
@@ -23654,7 +22494,6 @@ Dee
 
 
 ### Снятие
-`skoda_octavia_ru_4fe7b46d` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:514 | doc_type:owners_manual
 1.Слейте охлаждающую жидкость. 2. Отсоедините разъем 1 от термо-   
 выключателя и разъемы 2 и 3 на корпу-   
 се вентилятора радиатора (нажмите на   
@@ -23665,12 +22504,10 @@ Dee
 
 
 ### Для всех автомобилей
-`skoda_octavia_ru_2616feb1` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:515 | doc_type:owners_manual
 10. Снимите кожухвентилятора ра- диатора (4 болта). 11.Осторожно извлеките радиатор в направлении вниз.
 
 
 ### Установка
-`skoda_octavia_ru_b4443324` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:516 | doc_type:owners_manual
 12. Установка проводится в поряд- ке,обратном снятию. При этом необхо- димо учесть следующее: затяните термовыключатель 1 до момента 35 Нм. Установите кронш- тейны крепления 2 и 3 на радиатор согласно рисунку 3.92;
 
 7 3 2
@@ -23679,7 +22516,6 @@ Dee
 
 
 ### Снятие
-`skoda_octavia_ru_ae453703` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:517 | doc_type:owners_manual
 1. Отсоедините разъемы проводки 2 и 3 от радиатора (нажимая стопор- ные фиксаторы) (рис. 3.93).
 
 ![](images/c28a8a9004b0e36c59c93d8e8d7d772dad3e722acd8ac75176ad19dfd55fdb07.jpg)  
@@ -23692,24 +22528,20 @@ Dee
 
 
 ### Только для вентилятора «V7» (большего диаметра)
-`skoda_octavia_ru_4d3f5639` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:518 | doc_type:owners_manual
 3. Снимите правую фару. 4. Открутите болты крепления (3 шт.) воздушного впускного патрубка (над правой фарой). Ослабьте воздуш- ный впускной патрубок настолько, что- бы можно было снять лопастное колесо вентилятора.
 
 
 ### Для обоих вентиляторов
-`skoda_octavia_ru_3312f072` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:519 | doc_type:owners_manual
 5. Открутите болты крепления (3 шт.) вентилятора и снимите его (вен-
 
 тилятор «V7» — вверх, вентилятор «V35», меньшего диаметра — вниз).
 
 
 ### Установка
-`skoda_octavia_ru_110b6312` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:520 | doc_type:owners_manual
 6. Установка проводится в порядке, братном снятию.
 
 
 ### 15. ТОПЛИВНЫЙ БАК
-`skoda_octavia_ru_ec289096` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:521 | doc_type:owners_manual
 Топливный бак с присоединенными деталями показан на рис. 3.94.
 
 Рис. 3.94. Топливный бак с присоединенными деталями: - Топливный бак; 2 - Уплотнительное кольцо; 3 - Датчик уровня топлива;   
@@ -23718,7 +22550,6 @@ Dee
 
 
 ### Снятие
-`skoda_octavia_ru_76ea1e6b` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:522 | doc_type:owners_manual
 1. Опорожните топливный бак с по- мощью устройства для отсасывания топлива (напр. «V.A.G 1433A»). 2. Разберите частично заднюю подвеску (по необходимости). 3. Открутите кожух, находящийся под задним сиденьем. 4. Отсоедините многоконтакт- ный разъем от указателя уровня топлива. 5. Открыв крышку заливной гор- ловины топливного бака, снимите стопорное кольцо вместе с резино- вым пылезащитным чехлом (вокруг заливной горловины). 6. Протолкните резиновый пы- лезащитный чехол внутрь. 7. Снимите колесный кожух пра- вого заднего колеса.
 
 8. С колесной ниши ослабьте два болта крепления заливной горлови- ны бака. 9. Снимите кожух под топливным баком (стрелки) (установлен не на всех автомобилях) (рис. 3.95).
@@ -23740,22 +22571,18 @@ Dee
 
 
 ### Установка
-`skoda_octavia_ru_0e741678` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:523 | doc_type:owners_manual
 14. Установите теплозащитный щи- ток со старого топливного бака на но- вый. Далее установка производится в порядке, обратном снятию.
 
 
 ### 16. ДАТЧИК УРОВНЯ ТОПЛИВА
-`skoda_octavia_ru_7779b3d7` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:524 | doc_type:owners_manual
 ![](images/9eb2bd4eb20e4a89c8c05c2bf85d0419ebb4cad97d842e36554e06173dcb1a1a.jpg)
 
 
 ### Снятие
-`skoda_octavia_ru_2e250683` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:525 | doc_type:owners_manual
 Рис. 3.98. Ослабьте накидную гайку ключом «МР 1-227» и извлеките фланец крышки вместе с датчиком из топливного бака.
 
 
 ### Установка
-`skoda_octavia_ru_0146e0ad` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:526 | doc_type:owners_manual
 1. Открутите кожух, находящийся под задним сиденьем. 2. Ослабьте крепление нагнетаю- щего и сливного топливопроводов и отсоедините их. 3. Отсоедините разъем проводки от датчика уровня топлива. 4. Ослабьте накидную гайку клю- чом «МР 1-227» и извлеките фланец крышки вместе с датчиком из топлив- ного бака (рис. 3.98).
 
 5. Соблюдайте положения для ус- тановки: . метка на фланце крышки дол- жна совпадать с меткой на топлив- ном баке (стрелки) (рис. 3.99);
@@ -23774,7 +22601,6 @@ Dee
 
 
 ### 17. ТОПЛИВНЫЙ БАК АВТОМОБИЛЕЙ 4Х4
-`skoda_octavia_ru_e95f10cb` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:527 | doc_type:owners_manual
 Топливный бак автомобилей 4х4 показан на рис. 3.100.
 
 ![](images/cf7548c0f280c75b8144fe0690150c585c18cd1323b57c84c8c9833f913f3196.jpg)  
@@ -23786,7 +22612,6 @@ Dee
 
 
 ### Снятие
-`skoda_octavia_ru_27b7c064` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:528 | doc_type:owners_manual
 1. Опорожните топливный бак с по-   
 мощью устройства для отсасывания   
 топлива (напр. «V.A.G 1433 A»). 2 Открутите кожух (находится под   
@@ -23823,12 +22648,10 @@ Dee
 
 
 ### 18. ДАТЧИК УРОВНЯ ТОПЛИВА АВТОМОБИЛЕЙ 4Х4
-`skoda_octavia_ru_5b36bc3b` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:529 | doc_type:owners_manual
 Снятие и установка левого и правого датчиков уровня топлива такие же, как и для автомобилей 4х2 (Пункт 16 этого Раздела).
 
 
 ### 19.1. Турбокомпрессор
-`skoda_octavia_ru_3b76eb45` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:530 | doc_type:owners_manual
 Турбокомпрессор с присоединенными деталями изображен на рис. 3.104, а схема регулировки подачи сжатого воздуха – на рис. 3.105.
 
 J
@@ -23848,7 +22671,6 @@ J
 
 
 ### Снятие
-`skoda_octavia_ru_db1ac7b2` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:531 | doc_type:owners_manual
 6. Отсоедините от турбокомпрессо- ра трубку подачи смазки и скобу для крепления впускного коллектора. 7. Открутите от турбокомпрессора трубкуслива масла. 8. Снимите воздухонаправляющий патрубок, ведущий от воздушного фильтра к турбокомпрессору. 9. Открутите снизу стопорную гайку 2, а сверху – болты крепления 1 (рис. 3.107). 1. Снимите турбокомпрессор по направлению вниз.
 
 21. Наденьте на турбокомпрессор шланг, ведущий к электромагнитному клапанудляограничениядавлениясжа- того воздуха, и зафиксируйте его при- жимной скобой или же вкрутите полый болт с новыми шайбами, затягиваяего до момента 15 Нм.
@@ -23864,7 +22686,6 @@ J
 
 
 ### Снятие
-`skoda_octavia_ru_27b1e218` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:532 | doc_type:owners_manual
 1.Открутите стопорную гайку 3 воз- духонаправляющего патрубка 2 (рис. 3.106).
 
 1. Снимите турбокомпрессор. 2. Извлеките фиксатор 4 (рис. 3.108). Открутите болты крепления 2.
@@ -23882,7 +22703,6 @@ J
 
 
 ### Установка
-`skoda_octavia_ru_f5020884` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:533 | doc_type:owners_manual
 11. Наденьте шланг на резервуар высокого давления (ресивер) клапана регулировкидавления сжатоговоздуха изафиксируйтеегоприжимнойскобой.
 
 12. Смажьте резьбу и поверхности прилегания головок болтов крепления 1 пастой «G 052 112 А3» для болтовых соединений, подвергаемыхтепловому напряжению.
@@ -23907,7 +22727,6 @@ J
 
 
 ### Проверка
-`skoda_octavia_ru_793168a7` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:534 | doc_type:owners_manual
 4. Отсоедините разъем от электро- магнитного клапана ограничения дав- ления сжатого воздуха 2 (рис. 3.109).
 
 5. Заведите двигатель и, резко на- жимая на педаль акселератора, устано- вите максимальную частотувращения коленчатого вала.
@@ -23923,7 +22742,6 @@ J
 
 
 ### Установка
-`skoda_octavia_ru_51b77645` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:535 | doc_type:owners_manual
 7. Установите болты крепления 2, нанеся на них средство «D 000 600» (рис. 3.108).
 
 8. Установите резервуар высокого давления (ресивер) 6 на турбокомп- рессоре и затяните болты крепления до момента 10 Нм.
@@ -23941,12 +22759,10 @@ J
 
 
 ### 19.3. Система охлаждения сжатого воздуха
-`skoda_octavia_ru_a93d2c07` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:536 | doc_type:owners_manual
 12. Затяните контргайку 1. 13. Установив тягу управления на рычаг, наденьте фиксатор 4. 14. Установите турбокомпрессор.
 
 
 ### Снятие
-`skoda_octavia_ru_d90789df` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:537 | doc_type:owners_manual
 1. Снимите звукоизоляцию посре- дине и справа (стрелки) (рис. 3.5).
 
 2 Отсоедините топливопроводы (стрелки) от топливного насоса вы- сокого давления. Закупорьте топли- вопроводы чистыми пробками и отло- жите их в сторону.
@@ -23962,12 +22778,10 @@ J
 
 
 ### Установка
-`skoda_octavia_ru_27d2f214` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:538 | doc_type:owners_manual
 10. Установка проводится в поряд- ке, обратном снятию.
 
 
 ### 20. СИСТЕМА ВЫПУСКА ОТРАБОТАВШИХ ГАЗОВ
-`skoda_octavia_ru_6b99475e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:539 | doc_type:owners_manual
 Система выпуска отработавших газов показана на рис. 3.113.
 
 ![](images/7d7ca90df3b10b31fb6eab1f9ace0e9922757aeb84b4ab02c068d9673c7b44b1.jpg)  
@@ -23975,7 +22789,6 @@ J
 
 
 ### 21. СИСТЕМА ВЫПУСКА ОТРАБОТАВШИХ ГАЗОВ АВТОМОБИЛЕЙ 4х4
-`skoda_octavia_ru_59a0d41b` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:540 | doc_type:owners_manual
 Система выпуска отработавших газов автомобилей 4х4 показана на рис. 3.114.
 
 ![](images/b26b67f72aa1ccdd3fc5514bc8395abfd21523c665b1fce9c660b67b7382f202.jpg)  
@@ -23983,12 +22796,10 @@ J
 
 
 ### ДВИГАТЕЛЬ «АНЕ» 1.9 TDI
-`skoda_octavia_ru_8b77b5a7` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:541 | doc_type:owners_manual
 Конструкция двигателя «AHF1,9 TDI аналогична конструкции двигателя «AG1,9 TDI. Поэтому снятие, проверка и установкавсехагрегатов(кроменижерассмотренных) двигателяАНФ19ТD аналогичнаснятию,проверке и установке всех агрегатов двигателя «AGR» 1,9 TDI.
 
 
 ### 22. ТУРБОКОМПРЕССОР
-`skoda_octavia_ru_39f78900` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:542 | doc_type:owners_manual
 Турбокомпрессор двигателя «АНF» 1,9 TDI показан на рис. 3.115.
 
 Рис. 3.115. Турбокомпрессор:   
@@ -24025,17 +22836,14 @@ J
 
 
 ### Снятие
-`skoda_octavia_ru_f7cc003a` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:543 | doc_type:owners_manual
 1. Снимите правую полуось. 2.Снимитенижнийкожухдвигателя. 3. Открутите поддерживающие болты передней части выпускного тру- бопровода и отделите трубопровод от турбокомпрессора. 4. Отсоедините от корпуса турбо- компрессора трубки подачи и слива масла. 5. Отсоедините от корпуса турбо- компрессора рукав воздухозаборника, а всасывающий шланг - от резервуара высокого давления турбокомпрессора. 6. Снимите кронштейн турбокомп- peccopa. 7.Снимите воздухонаправляющий патрубок, идущий от воздушного фильтра к турбокомпрессору (прежде чем приступить к снятию, отцепите от прижимных зажимов всасываю- щие шланги и электропроводку). Снимите теплозащитный эк- ран с выпускного коллектора. 9. Снимите трубку для рециркуля- ции отработавших газов. 10. Отсоедините кронштейн трубки подачи масла от кронштейна масляно- го фильтра. 11. Ослабьте поддерживающие болты выпускного коллектора.
 
 
 ### Установка
-`skoda_octavia_ru_c96100c6` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:544 | doc_type:owners_manual
 12. Установка производится в по- рядке, обратном снятию.
 
 
 ### 23. СИСТЕМА ВЫПУСКА ОТРАБОТАВШИХ ГАЗОВ
-`skoda_octavia_ru_34f7b4ee` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:545 | doc_type:owners_manual
 Система выпуска отработавших газов двигателя показана на рис. 3.116.
 
 ![](images/49fe442b0f236c50b8e1cd2cfef58acb959dbdbe1a3584a85ae16b7a2ab01d8f.jpg)
@@ -24044,7 +22852,6 @@ J
 
 
 ### 24. СИСТЕМА РЕЦИРКУЛЯЦИИ ОТРАБОТАВШИХ ГАЗОВ
-`skoda_octavia_ru_08d13c86` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:546 | doc_type:owners_manual
 Система рециркуляции отработавших газов двигателя показана на рис. 3.117.
 
 ![](images/d32fc03cb950865f3270c7d607d2a7ce7704d8a81c4396b3aefe0eb1f62d2f21.jpg)  
@@ -24052,7 +22859,6 @@ J
 
 
 ### СИСТЕМА УПРАВЛЕНИЯ ДВИГАТЕЛЕМ 1АВМ ДВИГАТЕЛЯ «АЕЕ»
-`skoda_octavia_ru_8559d7f8` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:547 | doc_type:owners_manual
 Подкапотное пространство автомобиля с двигателем «АЕЕ» показано на рис. 4.1.
 
 Компоненты системы управле- ния двигателем показаны на рис. 4.2.
@@ -24089,7 +22895,6 @@ J
 
 
 ### 1. ПРОВЕРКА РЕЖИМОВ РАБОТЫ ДВИГАТЕЛЯ
-`skoda_octavia_ru_daf398ab` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:548 | doc_type:owners_manual
 Внимание! Проверяется способ- ность блока управления двигате- лем распознавать режимы работы двигателя (работа на холостом ходу, режим частичных нагрузок, обогащение горючей смеси при разгоне и при полном открытии дроссельной заслонки, эксплуата- ция при полной нагрузке и режим замедления).
 
 1. Присоедините тестер «V.A.G. 1552», выберите в меню «Электрони- ка двигателя» (адрес «0 1»), двигатель при этом должен работать на холостом ходу.
@@ -24126,7 +22931,6 @@ J
 
 
 ### СИСТЕМА ВПРЫСКА ТОПЛИВА
-`skoda_octavia_ru_46886849` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:549 | doc_type:owners_manual
 закройте дроссельную заслонку. На первой позиции слева должна быть единица «1» до тех пор, пока частота вращения больше 1400 об/мин. Изоб- ражение на дисплее: 110000000 (крат- ковременно).
 
 Внимание! При частоте враще- ния ниже 1400 об/мин снова имеет место индикация режима холосто- го хода.
@@ -24135,7 +22939,6 @@ J
 
 
 ### 2.1. Проверка подачи напряжения
-`skoda_octavia_ru_67e55456` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:550 | doc_type:owners_manual
 1. Отсоедините четырехконтактный разъем проводки от лямбда-зонда (рис. 4.3).
 
 ![](images/0d38e4f41b931e3f10c3cc5fc1e7deab3ac5b7d3bfe2967e00104a856ca203d6.jpg)  
@@ -24169,7 +22972,6 @@ Y 2
 
 
 ### 2.2. Проверка сигнального провода лямбда-зонда и активации (возбуждения)
-`skoda_octavia_ru_acc465a2` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:551 | doc_type:owners_manual
 Внимание! Сигнал лямбда-зон- да контролируется системой авто- матического управления двигате- лем.
 
 1. Прочитайте память неисправнос- тей. 2. Если индицируется неисправ- ность лямбда-зонда, а обогрев лямб- да-зонда в порядке, отсоедините разъем проводки от лямбда-зонда. 3. Ручным мультиметром (диапа- зон измерений: 2в) измерьте напря- жение между контактами 3 и 4 разъема проводки (рис. 4.4). 4.Включите зажигание. Требуе- мое значение: 450 ± 50 мВ. 5. Выключите зажигание. 6. В случае получения требуемого значения замените лямбда-зонд. 7. Если требуемое значение не было получено, тогда соедините тестер «V.A.G 1598/22» со жгутом проводов блока управления двигателем (рис. 4.5).
@@ -24185,12 +22987,10 @@ Y 2
 
 
 ### 3. ПРОВЕРКА МЕХАНИЗМА УПРАВЛЕНИЯ ДРОССЕЛЬНОЙ ЗАСЛОНКОЙ
-`skoda_octavia_ru_44e4b2d2` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:552 | doc_type:owners_manual
 Внимание! При необходимости замены механизма управления дроссельной заслонкой установи- те его в исходное положение.
 
 
 ### 3.1. Проверка выключателя холостого хода
-`skoda_octavia_ru_e407b2df` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:553 | doc_type:owners_manual
 1. Присоедините тестер и выбе- рите пункт «Электроникадвигателя» (адрес«01»), причем, зажиганиедолж- но быть выключено. На дисплее высве- тится следующая информация:
 
 Тест системы автомобиля Наберите функцию XX
@@ -24269,7 +23069,6 @@ o нажмите кнопку «»;
 
 
 ### 3.2. Проверка установочного элемента и потенциометра дроссельной заслонки
-`skoda_octavia_ru_e924b273` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:554 | doc_type:owners_manual
 1. Присоедините тестер и выбери- те пункт «Электроника двигателя» (адрес «0 1»), при этом двигатель дол- жен работать на холостом ходу. Надис- плее должна высветиться информа- ция:
 
 Тест системы автомобиля Наберите функцию XX
@@ -24302,7 +23101,6 @@ o нажмите кнопку «»;
 
 
 ### 3.3. Проверка потенциометра дроссельной заслонки
-`skoda_octavia_ru_e6d664b0` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:555 | doc_type:owners_manual
 1. Присоедините тестер «V.A.G 1552 и выберите пункт «Электроника двигателя» (адрес «01»), при этом за- жигание должно быть включено. На дисплее должна высветиться следую- щая информация:
 
 Тест системы автомобиля Наберите функцию XX
@@ -24356,7 +23154,6 @@ Ca
 
 
 ### 4. ПРОВЕРКА ЭЛЕКТРОПИТАНИЯ И ПРОВОДОВ, ВЕДУЩИХ К БЛОКУ УПРАВЛЕНИЯ ДВИГАТЕЛЕМ
-`skoda_octavia_ru_a189e7ae` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:556 | doc_type:owners_manual
 1. Снимите воздушный фильтр.   
 2. Отсоедините разъем проводки 1 от механизма управления дроссельной заслонкой 2 (рис. 4.7).   
 3. Для того чтобы измерить напря- жение, присоедините мультиметр к контактам 4 и 7 разъема проводки.   
@@ -24384,12 +23181,10 @@ Ca
 
 
 ### Требуемое значение: ∞ Ом.
-`skoda_octavia_ru_6855af44` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:557 | doc_type:owners_manual
 11. Если в проводах не выявлено никакой неисправности, проверьте электропитание блока управления двигателем.
 
 
 ### 5. ПРОВЕРКА ДАТЧИКА ПОТОКА ВОЗДУХА
-`skoda_octavia_ru_33e13db0` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:558 | doc_type:owners_manual
 1. Присоедините тестер и выбери- те пункт«Электроника двигателя» (адрес «0 1»). Двигатель при этом дол- жен работать на оборотах холостого хода. На дисплее должна высветиться следующая информация:
 
 Тест системы автомобиля Наберите функцию XX
@@ -24483,7 +23278,6 @@ a проверьте провода, идущие к блокууправлен�
 
 
 ### 6. ПРОВЕРКА ДАТЧИКА ТЕМПЕРАТУРЫ ОХЛАЖДАЮЩЕЙ ЖИДКОСТИ
-`skoda_octavia_ru_1894d679` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:559 | doc_type:owners_manual
 1.Присоединитетестеривыберите пункт «Электроника двигателя» (ад- рес «0 1»), двигатель при этом должен работатьнаоборотаххолостогохода.
 
 На дисплее должна высветиться следующая информация:
@@ -24569,7 +23363,6 @@ HELP
 
 
 ### Проверка работы датчика
-`skoda_octavia_ru_e6465ea4` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:560 | doc_type:owners_manual
 10. Наблюдайте за значением тем- пературы охлаждающейжидкости в поле 2 при работающем двигателе. Значение температуры должно возрас- тать равномерно, без скачкообразных изменений и без перерывов.
 
 Внимание! Если показание на дисплее прибора для диагности- ческой установки возрастает скачкообразно, на 2-5 °С, то это вызвано блоком управления дви- гателем, а не неисправностью датчика. Если в некоторых тем- пературных диапазонах наблю- даются перебои в работе двига- теля и температура возрастает не плавно, а с перерывами, это оз- начает, что время от времени имеет место пропадание сигнала по температуре и датчик в таком случае подлежит замене.
@@ -24578,7 +23371,6 @@ HELP
 
 
 ### 7. ПРОВЕРКА ДАТЧИКА ТЕМПЕРАТУРЫ ВХОДЯЩЕГО ВОЗДУХА
-`skoda_octavia_ru_0afa5484` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:561 | doc_type:owners_manual
 1. Присоедините тестер и выбери- те пункт Электроника двигателя» (адрес «0 1»), при этом зажигание дол- жно быть включено. На дисплее должна высветиться следующая информация:
 
 Тест системы автомобиля Наберите функцию XX
@@ -24667,7 +23459,6 @@ HELP
 
 
 ### 8. ПРИСПОСОБЛЕНИЕ БЛОКА УПРАВЛЕНИЯ ДВИГАТЕЛЕМ К ИММОБИЛАЙЗЕРУ
-`skoda_octavia_ru_8e631496` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:562 | doc_type:owners_manual
 . Присоедините тестер «V.A.G 15522(рис.4.16).
 
 ![](images/fd327f5a8aee414bbe70bce1b468341853e8d1ad4f86607511b43f2f24f6cc62.jpg)  
@@ -24681,7 +23472,6 @@ HELP
 
 
 ### IMMO-IDENTNR: SKZ720V0040171
-`skoda_octavia_ru_7c0e3d9e` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:563 | doc_type:owners_manual
 6. Нажмите кнопку «». На дисплее должна высветиться следующая ин- формация:
 
 Тест системы автомобиля Наберите функцию XXX
@@ -24710,7 +23500,6 @@ HELP
 
 
 ### 9. ПРОВЕРКА ФОРСУНОК
-`skoda_octavia_ru_f0174666` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:564 | doc_type:owners_manual
 1. Снимите воздушный фильтр. 2. Отсоедините разъемы проводки от форсунок (стрелки) (рис. 4.17).
 
 ![](images/fbf85dd990281cfd600008918ff39fc0dc6c2ff563777f0cf491d5dd43a16531.jpg)  
@@ -24742,7 +23531,6 @@ HELP
 
 
 ### Проверка сопротивлений форсунок
-`skoda_octavia_ru_89de44b4` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:565 | doc_type:owners_manual
 12. Проверьте сопротивления фор- сунок между контактами. Требуемое значение: от 14 до 17 Ом (рис. 4.19).
 
 ![](images/394034cd154b428a7ede396a54936cd17a0563e667a9fbe48d0b78f27941d12d.jpg)  
@@ -24752,7 +23540,6 @@ HELP
 
 
 ### Проверка характеристики впрыскиваемой струи и герметичности
-`skoda_octavia_ru_46166ab2` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:566 | doc_type:owners_manual
 13. Отсоедините трехконтактный разъем проводки от трансформатора высокого напряжения системы зажи- гания.
 
 14. Отсоедините четырехконтакт- ный разъем 1 от датчика температуры охлаждающей жидкости 2 (рис. 4.20).
@@ -24781,7 +23568,6 @@ HELP
 
 
 ### 10. ПРОВЕРКА РЕГУЛЯТОРА ДАВЛЕНИЯ ТОПЛИВА
-`skoda_octavia_ru_a91ff717` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:567 | doc_type:owners_manual
 1. Отсоедините нагнетающий топли- вопровод (с белой маркировкой) 1 от распределителя топлива 2 (рис. 4.22).
 
 ![](images/cc2d9fdde140b12945e871a68b12dcdc9a41c79a774aef28fefbc5c4e03b7509.jpg)  
@@ -24831,7 +23617,6 @@ HELP
 
 
 ### 11. ПРОВЕРКА ЭЛЕКТРОМАГНИТНОГО КЛАПАНА СИСТЕМЫ УЛАВЛИВАНИЯ ПАРОВ 5EH3ИHA
-`skoda_octavia_ru_6ee3b6f9` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:568 | doc_type:owners_manual
 1. В обесточенном состоянии элек- тромагнитный клапан закрыт. 2.Отсоедините трубку 1 от электро- магнитного клапана 2 бачка с активи- рованным углем (рис. 4.24).
 
 ![](images/d93531d2b74cfcd392e07f04f73eeea308a81c415f1a1df629d44af0c5445bb9.jpg)  
@@ -24847,7 +23632,6 @@ HELP
 
 
 ### Проверка № 80 (клапан «АКF» (бачка с активированным углем)
-`skoda_octavia_ru_38dcc137` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:569 | doc_type:owners_manual
 7. Отсоедините разъем проводки от клапана «АКЕ» (бачка с активирован- ным углем). Измерьте ручным мультимет- ром сопротивление между контак- тами клапана (рис. 4.25). Требуемое значение: 22.…. 30 Ом.
 
 9. В случае расхождений с требуе- мыми значениями замените клапан «AKF».
@@ -24871,7 +23655,6 @@ HELP
 
 
 ### Проверка управления клапаном «АКF» (бачка с активированным углем)
-`skoda_octavia_ru_ff662b33` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:570 | doc_type:owners_manual
 15. Подсоедините пробник-ин- дикатор напряжения между контак- том 2 и положительным полюсным выводом «+» аккумуляторной батареи (рис. 4.27).
 
 16. Введите диагностику регулиру- ющих органов (функция «03») и набе- рите электромагнитный клапан бачка с активированнымуглем. Требуемое значение: пробник-индикатор напря- жения должен мигать.
@@ -24889,12 +23672,10 @@ HELP
 
 
 ### 12. ПРОВЕРКА РЕЛЕ ВОЗБУЖДЕНИЯ ТОПЛИВНОГО HACOCA
-`skoda_octavia_ru_c1e20842` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:571 | doc_type:owners_manual
 Реле топливного насоса находится в коробке реле внутри автомобиля за вещевой полкой в пространстве для ног водителя (позиция 4) (рис. 4.29).
 
 
 ### А. Проверка реле топливного насоса
-`skoda_octavia_ru_f63d94d9` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:572 | doc_type:owners_manual
 1. Извлеките из фиксатора предох- ранитель 28, подсоедините пробник- индикатор напряжения между «мас- сой» и одним из двухконтактов предох- ранителя 28 в фиксаторе предохрани- теля (рис. 4.30).
 
 2. На короткое время запустите стартер. Реле топливного насоса дол- жно сработать (чувствительно И слышно). Пробник-индикатор напря- жения должен гореть постоянно.
@@ -24921,12 +23702,10 @@ HELP
 
 
 ### Б. Проверка электропитания и возбуждения реле топливного насоса
-`skoda_octavia_ru_53191d14` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:573 | doc_type:owners_manual
 1.Извлеките реле топливного насо- са из коробки реле (позиция 4).
 
 
 ### Проверка электропитания
-`skoda_octavia_ru_67280bda` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:574 | doc_type:owners_manual
 2 Присоедините ручной мульти- метр постепенно к контакту 19 (положи- тельный полюс) и к «массе», к контакту 17 (положительный полюс) и к «массе» (рис.4.31).
 
 3.Включитезажигание.Принезаве- денном двигателе реле срабатывает приблизительно на 10 сек. Требуемое значение - приблизительно равное напряжениюаккумуляторнойбатареи.
@@ -24935,7 +23714,6 @@ HELP
 
 
 ### Проверка возбуждения
-`skoda_octavia_ru_dbbf5ff5` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:575 | doc_type:owners_manual
 5. Подсоедините пробник-индика- тор напряжения с контактом 16 («мас- са») и положительным полюсом (рис. 4.31). 6. При включении стартера проб- ник-индикатор напряжения должен за- гореться постоянным светом.
 
 Внимание! Пробники с незначи- тельным отбором тока гаснут не полностью, а вплоть до включения стартера слабо горят.
@@ -24944,19 +23722,16 @@ HELP
 
 
 ### 13. ЗАМЕНА БЛОКА УПРАВЛЕНИЯ ДВИГАТЕЛЯ
-`skoda_octavia_ru_551a9b9a` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:576 | doc_type:owners_manual
 Внимание! В результате отсое- динения разъема проводки от блока управления двигателем считанные значения сбрасываются, причем содержание памяти неисправнос- тей сохраняется.
 
 
 ### Снятие
-`skoda_octavia_ru_ef3123d0` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:577 | doc_type:owners_manual
 1. Выключите зажигание. 2. Снимите крышку водонепроница- емого кожуха. 3. Ослабьте зажимы разъема про- водки блока управления двигателем и отсоедините разъем проводки. 4. Оттяните отверткой язычок фик- сатора в сторону и извлеките блок уп- равления двигателем вперед (рис. 4.32).
 
 E
 
 
 ### Установка
-`skoda_octavia_ru_fb59e358` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:578 | doc_type:owners_manual
 5. Установка проводится в порядке, обратном снятию.
 
 Внимание! В первой фазе счи- тывания в ходе установки исходно- го положения двигателя возмож-
@@ -24967,7 +23742,6 @@ E
 
 
 ### СИСТЕМА ЗАЖИГАНИЯ
-`skoda_octavia_ru_8bb4091e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:579 | doc_type:owners_manual
 Схема системы зажигания показана на рис. 4.33.
 
 ![](images/4fc044241d70e37ed24c089e975840d96b8dd2fc7687a911294e5a231adf1677.jpg)
@@ -24983,7 +23757,6 @@ E
 
 
 ### 14. ПРОВЕРКА И РЕГУЛИРОВКА ОПЕРЕЖЕНИЯ ЗАЖИГАНИЯ
-`skoda_octavia_ru_2e358ada` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:580 | doc_type:owners_manual
 1 Присоедините тестер «V.A.G 1767 или же «V.A.G 1367с индукци- онными клещами«V.А.G 1367/8(рис. 4.35).
 
 Рис. 4.35. Присоедините тестер «V.A.G 1767 или же «V.A.G 1367» с индукционными клещами «V.А.G 1367/8.
@@ -25015,7 +23788,6 @@ E
 
 
 ### 15. ПРОВЕРКА ДАТЧИКА ЧАСТОТЫ ВРАЩЕНИЯ
-`skoda_octavia_ru_f0831284` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:581 | doc_type:owners_manual
 1. Отсоедините разъем проводки от датчика частоты вращения (распре- делитель зажигания).
 
 2. Для того чтобы измерить напря- жение, присоедините мультиметр с помощью провода «V.A.G 1594» к на- ружнымконтактамразъема(рис. 4.36).
@@ -25038,7 +23810,6 @@ E
 
 
 ### 16. ПРОВЕРКА ТРАНСФОРМАТОРА ВЫСОКОГО НАПРЯЖЕНИЯ
-`skoda_octavia_ru_d9cb8194` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:582 | doc_type:owners_manual
 1. Отсоедините разъем и провод высокого напряжения от трансформа- тора высокого напряжения системы зажигания.
 
 2. Проверьте сопротивление пер- вичной обмотки с помощью мультимет- ра, который подключается междузажи- мами 1 и 15 (рис. 4.37). Требуемое значение: от 0,5 до 1.2 Ом.
@@ -25070,7 +23841,6 @@ E
 
 
 ### Проверка управления
-`skoda_octavia_ru_be721c6b` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:583 | doc_type:owners_manual
 11. Отсоедините разъем от форсу- HOK. 12. Присоедините пробник (указа- тель напряжения) «V.A.G 1527» с по- мощью провода «V.А.G 1594 А и пере- ходника «V.A.G 1594/15» к контактам 2 и 3 разъема (рис. 4.39).
 
 Рис. 4.39. Присоедините пробник (указатель напряжения) V.A.G   
@@ -25097,7 +23867,6 @@ E
 
 
 ### Проверка датчика
-`skoda_octavia_ru_8368028c` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:584 | doc_type:owners_manual
 детонационного сгорания топлива
 
 1.Присоедините тестер«V.A.G 1598/22» к проводам в многоконтакт- ном разъеме блока управления двига- телем.
@@ -25137,12 +23906,10 @@ a температура охлаждающей жидкости должна б
 
 
 ### 17. КОДЫ НЕИСПРАВНОСТЕЙ СИСТЕМЫ УПРАВЛЕНИЯ ДВИГАТЕЛЕМ 1АVМ
-`skoda_octavia_ru_b6b3b256` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:585 | doc_type:owners_manual
 ![](images/a63ab7f9bd06cd559fd14f2ac33374457f213ea009ed119e540e6c15a3a8ffaf.jpg)
 
 
 ### СИСТЕМА АВТОМАТИЧЕСКОГО УПРАВЛЕНИЯ «СИМОС 2» ДВИГАТЕЛЯМИ«АЕН»,«АКL»
-`skoda_octavia_ru_bcbf8cb1` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:586 | doc_type:owners_manual
 Подкапотное пространство автомобилей с двигателем «АЕН», «АКL» показано на рис. 4.42.
 
 ![](images/92ce7e45114b021fb4022717fcb960677581c1434496d17ed206a7d411bdba29.jpg)
@@ -25179,7 +23946,6 @@ a температура охлаждающей жидкости должна б
 
 
 ### 1. ПРОВЕРКА ПАМЯТИ КОДОВ НЕИСПРАВНОСТЕЙ И ОЧИСТКА ЕЕ СОДЕРЖИМОГО
-`skoda_octavia_ru_1750125d` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:587 | doc_type:owners_manual
 . Присоедините тестер «V.A.G 1552», введите адрес «01 для блока управления двигателем. Двигатель должен работать на частоте оборотов при холостом ходе.
 
 2. Если двигатель не заводится: при включенном зажигании проверьте память неисправностей. На дисплее должна высветиться следующая ин- формация:
@@ -25216,7 +23982,6 @@ HELP
 
 
 ### 2.1. Проверка сопротивления форсунки
-`skoda_octavia_ru_0cbb16c4` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:588 | doc_type:owners_manual
 1. Снимите распределитель топли- ва.
 
 2. Отсоедините разъем проводки от проверяемой форсунки.
@@ -25232,7 +23997,6 @@ HELP
 
 
 ### 2.2. Проверка электропроводности форсунки
-`skoda_octavia_ru_ace15b23` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:589 | doc_type:owners_manual
 1. Отсоедините разъем проводки от проверяемой форсунки.
 
 2. Подсоедините пробник «V.A.G 1527 между контактом «1» разъема и отрицательным проводом (массой) двигателя (рис. 4.44).
@@ -25250,7 +24014,6 @@ HELP
 
 
 ### 2.3. Проверка возбуждения (срабатывания) форсунок
-`skoda_octavia_ru_4d4fda45` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:590 | doc_type:owners_manual
 1.Отсоедините разъем проводки от проверяемой форсунки.
 
 2. Подсоедините пробник«V.A.G 1527 междуконтактом «2» разъема и положительным полюсом аккумулятор- ной батареи (рис. 4.45).
@@ -25271,7 +24034,6 @@ HELP
 
 
 ### 3. ПРОВЕРКА КОЛИЧЕСТВА ВПРЫСКИВАЕМОГО ТОПЛИВА, ГЕРМЕТИЧНОСТИ И ФОРМЫ СТРУЙ ФОРСУНОК
-`skoda_octavia_ru_dde70b3e` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:591 | doc_type:owners_manual
 1. Отсоедините заборную трубку от регулятора давления топлива.
 
 2. Отсоедините нагнетающий и сливной топливопроводы.
@@ -25329,7 +24091,6 @@ HELP
 
 
 ### 4. ПРОВЕРКА РЕЛЕ ТОПЛИВНОГО НАСОСА
-`skoda_octavia_ru_396f0fac` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:592 | doc_type:owners_manual
 Внимание! Реле топливного насоса находится в коробке реле внутри автомобиля в переднем простран- стве для ног слева (позиция реле – 4) (рис. 4.48).
 
 ![](images/8e2b7d56954beb751273ae4bc719b9d3b1729d0c0b01fff61c7e1d754f3a63b0.jpg)  
@@ -25337,7 +24098,6 @@ HELP
 
 
 ### 4.1. Проверка реле топливного насоса
-`skoda_octavia_ru_900be4fe` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:593 | doc_type:owners_manual
 1. Снимите полку в переднем про- странстве для ног слева.
 
 2. Извлеките предохранитель для топливного насоса (предохранитель «28»), подсоедините пробник «V.А.G 1527» между «массой» и одним из двух контактов предохранителя для топливного насоса (рис. 4.49).
@@ -25348,7 +24108,6 @@ HELP
 
 
 ### для топливного насоса.
-`skoda_octavia_ru_69eed8af` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:594 | doc_type:owners_manual
 3. На короткое время включите стартер. Релетопливного насоса долж- но сработать (чувствительно и слыш- но). Пробник должен гореть.
 
 4. Если реле топливного насоса не сработало, проверьте возбуждение (срабатывание) реле.
@@ -25361,12 +24120,10 @@ HELP
 
 
 ### 4.2. Проверка электропитания и возбуждения (срабатывания) реле топливного насоса
-`skoda_octavia_ru_71c0a584` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:595 | doc_type:owners_manual
 1. Извлеките реле топливного насо- са из коробки реле (позиция реле 4).
 
 
 ### Проверка электропитания
-`skoda_octavia_ru_7e2fdba4` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:596 | doc_type:owners_manual
 2. Включите зажигание.
 
 3. Присоедините ручной мульти- метр «V.A.G 1526» к контакту «19» реле (положительный полюс,зажим «15» замка зажигания) и к «массе», далее между контактом «17» реле (положи- тельный полюс, зажим «30 аккумуля- торной батареи) и «массой». Требуе- мое значение: все время приблизи- тельно равно напряжению аккумуля- торной батареи.
@@ -25375,7 +24132,6 @@ HELP
 
 
 ### Проверка возбуждения (срабатывания)
-`skoda_octavia_ru_de42de60` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:597 | doc_type:owners_manual
 5. Подсоедините пробник«V.A.G 1527 с контактом «16» реле (возбуж- дение «массы» с блока управления двигателем) и с положительным полю- сом (рис. 4.48).
 
 6. Включите стартер на короткое время.
@@ -25392,7 +24148,6 @@ HELP
 
 
 ### Проверка значений напряжения дат- чика
-`skoda_octavia_ru_e99741d0` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:598 | doc_type:owners_manual
 1. Отсоедините 8-контактный разъем на корпусе дроссельной за- слонки. 2.Включите зажигание. 3.Измерьте ручным мультиметром, например «V.A.G 1526», разность на- пряжений между контактами «4» и «7» 8-контактного разъема (рис. 4.50). За- данное значение: минимум 4,8 В.
 
 ![](images/072331d715aafcc06e4587c50993e83bd30e55c6f8ef68073828a46855e4c408.jpg)  
@@ -25437,7 +24192,6 @@ HELP
 
 
 ### СИСТЕМА ЗАЖИГАНИЯ
-`skoda_octavia_ru_810f0d4f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:599 | doc_type:owners_manual
 В целях предотвращения несчаст- ных случаев, увечий и повреждений системы впрыскивания топлива и за- жигания уделите внимание следую- щимположениям:
 
 не прикасайтесь к проводам системы зажигания и не отсоединяйте их,когда двигатель работает или во время его пуска;
@@ -25455,7 +24209,6 @@ a двигатель можно мыть лишь в том случае, есл
 
 
 ### 6. ПРОВЕРКА ДВУХИСКРОВОЙ СИСТЕМЫ ЗАЖИГАНИЯ
-`skoda_octavia_ru_96aaf2d7` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:600 | doc_type:owners_manual
 Внимание! Катушки зажигания и оконечные мощные каскады обра- зуют одно целое и меняются как одно целое.
 
 1.Отсоедините 4-контактный разъем от катушек зажигания.
@@ -25471,7 +24224,6 @@ a двигатель можно мыть лишь в том случае, есл
 
 
 ### Проверка электропитания катушек зажигания
-`skoda_octavia_ru_3c4900da` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:601 | doc_type:owners_manual
 4. Отсоедините 4-контактный разъ- ем от катушек зажигания.
 
 5. Включите зажигание.
@@ -25485,7 +24237,6 @@ a двигатель можно мыть лишь в том случае, есл
 
 
 ### Проверка возбуждения (срабатывания)
-`skoda_octavia_ru_688c38b9` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:602 | doc_type:owners_manual
 8. Отсоедините разъем от всех че-   
 тырех форсунок (с целью предотвра-   
 щения впрыскивания без зажигания). 9.Включите зажигание. 10. Подсоедините пробник «V.A.G   
@@ -25509,7 +24260,6 @@ a двигатель можно мыть лишь в том случае, есл
 
 
 ### 7. ПРОВЕРКА ДАТЧИКА ТЕМПЕРАТУРЫ ВХОДЯЩЕГО ВОЗДУХА
-`skoda_octavia_ru_6084d364` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:603 | doc_type:owners_manual
 ![](images/cc9f87addf59c39ee734fd66c84c4779470877753a7dd3aaa6c72f4460c6e0be.jpg)
 
 1. Присоедините омметр к датчику температуры входящего воздуха (рис. 4.54).
@@ -25534,7 +24284,6 @@ a двигатель можно мыть лишь в том случае, есл
 
 
 ### 8. ПРОВЕРКА ДАТЧИКА ЧАСТОТЫ ВРАЩЕНИЯ КОЛЕНЧАТОГО ВАЛА ДВИГАТЕЛЯ
-`skoda_octavia_ru_bc9d2a8c` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:604 | doc_type:owners_manual
 Внимание! Датчик частоты враще- ния вала двигателя является в то же время датчиком положения поршня в цилиндре. Двигатель работает также и без сигнала датчика часто- ты вращения вала двигателя; пуск двигателя без сигнала тоже возмо- жен, но с большими затруднениями (аварийная функция).
 
 1. Прежде чем приступить к прове- дению проверки, проверьте правиль- ность сборки и установки датчика.
@@ -25594,7 +24343,6 @@ V.A.G 1526»
 
 
 ### 9. ПРОВЕРКА ДАТЧИКА ТЕМПЕРАТУРЫ ОХЛАЖДАЮЩЕЙ ЖИДКОСТИ
-`skoda_octavia_ru_07288e26` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:605 | doc_type:owners_manual
 1.Отсоедините разъем проводки от датчикатемпературыохлаждающей жидкости. 2. Проверьте сопротивление между контактами «1» («масса») и «3» (сигнал) датчика (рис. 4.58).
 
 ![](images/51346cb1cff1f3e61657be22f5d64f589e91c9750b6adb6182789b7c5e587d95.jpg)  
@@ -25637,7 +24385,6 @@ o проверьте прохождение тока через сигнальн
 
 
 ### 10. ПРОВЕРКА ДАТЧИКА ДЕТОНАЦИОННОГО СГОРАНИЯ
-`skoda_octavia_ru_63b538ac` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:606 | doc_type:owners_manual
 Проверка проводов датчика детона- ционного сгорания
 
 1. Отсоедините разъем проводки от датчика детонационного сгорания в моторномотсеке. 2. Проверьте все три контакта на разъеме датчика детонационного сго- рания на электропроводность (рис. 4.61).
@@ -25649,7 +24396,6 @@ o проверьте прохождение тока через сигнальн
 
 
 ### Проверка проводов от датчика дето- национного сгорания к блоку управ- ления двигателем
-`skoda_octavia_ru_4b3faf67` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:607 | doc_type:owners_manual
 4. Присоедините тестер «V.A.G 1598/22 к жгуту проводов блока уп- равления двигателем.
 
 5. Проверьте по принципиальной схеме электрооборудования провода между датчиком детонационного сго- рания и блоком управления двигате- лем на электропроводность тока или, соответственно, навзаимноекороткое замыкание или же короткое замыкание на положительный полюс или на «мас- су».
@@ -25672,7 +24418,6 @@ o проверьте прохождение тока через сигнальн
 
 
 ### 11. ПРОВЕРКА ДАТЧИКА ЧАСТОТЫ ВРАЩЕНИЯ РАСПРЕДЕЛИТЕЛЬНОГО ВАЛА
-`skoda_octavia_ru_8c138d9b` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:608 | doc_type:owners_manual
 Внимание! Датчик частоты враще- ния распределительного вала нахо- дится под шкивом распределитель- ного вала. Ввиду того, что в случае выхода из строя датчика частоты вращения распределительного вала оказывается невозможным закрепление сигналов датчиков де- тонационного сгорания за отдель- ными цилиндрами, регулирование детонационного сгорания выклю- чается, и угол опережения зажига- ния немного уменьшается для того, чтобы предотвратить детонацион- ный стук.
 
 При выходе из строя датчика двига- тель продолжает работать дальше и его можно даже снова запустить.
@@ -25701,12 +24446,10 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### 12. КОДЫ НЕИСПРАВНОСТЕЙ СИСТЕМЫ УПРАВЛЕНИЯ ДВИГАТЕЛЕМ
-`skoda_octavia_ru_bcac9c84` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:609 | doc_type:owners_manual
 Коды неисправностей системы управления двигателем «АЕН», «АК» 1.6 л такие же, как и у двигателя с системой управления 1АVМ двигателя «АEЕ» 1.6 л (страница 137).
 
 
 ### СИСТЕМА АВТОМАТИЧЕСКОГО УПРАВЛЕНИЯ «МОtrОПИС» ДВИГАТЕЛЯ «АGN»
-`skoda_octavia_ru_7adc985f` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:610 | doc_type:owners_manual
 Подкапотное пространство автомо- биля с двигателем «АG№» 1.8 л 92 кВт показано на рис. 4.65, а система впрыс- ка топлива показана на рис. 4.66, 4.67.
 
 ![](images/93eb059199d45ddaab0a41ccbe5b6f91300aee824f0fd0010e38d4cf7209e2f3.jpg)
@@ -25748,7 +24491,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### СИСТЕМА ВПРЫСКА ТОПЛИВА
-`skoda_octavia_ru_0ee594c6` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:611 | doc_type:owners_manual
 Рис. 4.66. Система впрыска   
 топлива, применяемая до VII/97 г.:   
 1, 3, 13 - Болты; 2 - Декоративная крышка двигателя; 4, 9, 20, 25 - Соединительные разъемы;   
@@ -25776,7 +24518,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### Верхняя часть впускного коллектора
-`skoda_octavia_ru_ce2141ef` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:612 | doc_type:owners_manual
 Верхняя часть впускного коллектора показана на рис. 4.68, 4.69.
 
 ![](images/6e77f638a5eee0be2194ee58eb4d671c8754cf8bbc03be8f3a84ba17b3104f7a.jpg)
@@ -25845,7 +24586,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### Нижняя часть впускного трубопровода
-`skoda_octavia_ru_7ad8822f` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:613 | doc_type:owners_manual
 Нижняя часть впускного трубопровода показана на рис. 4.70, 4.71.
 
 Рис. 4.70. Нижняя часть впускного   
@@ -25879,7 +24619,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### 1. ПРОВЕРКА КОЛИЧЕСТВА ВПРЫСКИВАЕМОГО ТОПЛИВА
-`skoda_octavia_ru_93602117` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:614 | doc_type:owners_manual
 Двигатели выпуска до VII/97 г.
 
 1. Отсоедините тягу педали ак- селератора и провода высокого на- пряжения системы зажигания OT фиксатора. 2. Снимите декоративную крыш- ку двигателя (стрелки) (рис. 4.72).
@@ -25934,7 +24673,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### На всех автомобилях
-`skoda_octavia_ru_20636b83` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:615 | doc_type:owners_manual
 16. Отсоедините следующие разъе- мы проводки (рис. 4.75): от датчика детонационного сго- рания 1 - черный разъем; от датчика детонационного сго- рания 2 - коричневый разъем; от датчика частоты вращения коленчатого вала двигателя 3 – серый разъем. 17. Отсоедините разъемы про- водки от форсунок. 1. Ослабьте крепление жгута проводов и извлеките его из фикса- тора.
 
 19. Открутите болты (стрелки) и снимите распределитель топлива 1 и фиксатор проводов 2 с впускного коллектора (рис. 4.79).
@@ -25977,7 +24715,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### Двигатели выпуска до VII/97 г.
-`skoda_octavia_ru_debae270` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:616 | doc_type:owners_manual
 37. Осторожно вставьте распре- делитель топлива с форсунками в пространство между верхней час- тью впускного коллектора и голов- кой блока цилиндров (рис. 4.83).
 
 ![](images/f5e6709934e66eafa24d7456b1bb1517a5d572ee10f5beab97c1695185463b36.jpg)  
@@ -25987,17 +24724,14 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### Двигатели выпуска после VIII /97 г.
-`skoda_octavia_ru_de66a564` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:617 | doc_type:owners_manual
 42. Вставьте распределитель топ- ливас форсунками в отверстия нижней части впускного коллектора. 43. Присоедините фиксатор прово- дов. 44.Установите удерживающие бол- ты распределителя топлива и затяните их. 45. Установите верхнюю часть впус- кного коллектора. 46. Далее установка производится в порядке, обратном снятию.
 
 
 ### Двигатели выпуска до VII/97 г.
-`skoda_octavia_ru_532ad135` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:618 | doc_type:owners_manual
 1. Снимите фиксаторы проводов высокого напряжения системы за- жигания.
 
 
 ### А. Проверка сопротивления форсунок
-`skoda_octavia_ru_5a8890b6` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:619 | doc_type:owners_manual
 2. Отсоедините разъем проводки от проверяемойфорсунки.
 
 3. Измерьте сопротивление между контактами форсунки с помощью при- 6ора «V.A.G 1526 A» (рис. 4.84). Тре- буемое значение: от 13 до 18 Ом. У прогретого двигателя значение со- противления повышается приблизи- тельно на 4… 6 Ом.
@@ -26006,7 +24740,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### Б. Проверка электропроводности форсунок
-`skoda_octavia_ru_1db735bc` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:620 | doc_type:owners_manual
 5. Отсоедините разъем провод- ки от проверяемой форсунки. 6. Подсоедините пробник «V.А.G 1527»между контактом 1 и «массой» двигателя (рис. 4.85).
 
 ![](images/b592e7048f226b244256dfd652d1dcb828d54d97d3d40dbb10ea674a0cf2212d.jpg)  
@@ -26019,7 +24752,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### В. Проверка возбуждения форсунок
-`skoda_octavia_ru_d27826ad` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:621 | doc_type:owners_manual
 10. Отсоедините разъем про- водки от проверяемой форсунки. 11. Подсоедините пробник «V.А.G 1527» между контактом 2 и положи- тельным полюсом аккумуляторной ба- тареи (рис. 4.86).
 
 ![](images/ec4de135135f302fc6f4c92fa175427704f940fca11712c42ecae202a1338dc6.jpg)  
@@ -26044,7 +24776,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### А. Проверка сопротивления форсунок
-`skoda_octavia_ru_fdf68775` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:622 | doc_type:owners_manual
 17.Отсоедините разъем проводки от проверяемой форсунки. Измерьте со- противлениемеждуконтактамифорсун- киспомощью «V.А.G 1526 А»(рис. 4.88). Требуемое значение: от 13 до 18 Ом.
 
 Упрогретогодвигателя значениесопро- тивления повышается приблизительно на4..6 Ом.
@@ -26059,7 +24790,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### Б. Проверка электропроводности форсунок
-`skoda_octavia_ru_0052ebc5` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:623 | doc_type:owners_manual
 19. Отсоедините разъем пpoводки от проверяемой форсунки. 20. Подсоедините пробник «V.А.G 1527 между контактом 1 и «массой» двигателя (рис. 4.89).
 
 ![](images/3773d41b81e003054f4665d4de5649d0b097bb720c1e82aea3f29b8373a815bb.jpg)  
@@ -26073,7 +24803,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### В. Проверка возбуждения форсунок
-`skoda_octavia_ru_11bc3272` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:624 | doc_type:owners_manual
 24. Отсоедините разъем про- водки от проверяемой форсунки. 25. Подсоедините пробник «V.А.G 1527» между контактом 2 и положи- тельным полюсом аккумуляторной ба- тареи (рис. 4.90).
 
 ![](images/81308be64a73c3d570915ae0781849a09b3994b7c538cfb4f7bda032204d4cee.jpg)  
@@ -26095,7 +24824,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### 3. ПРОВЕРКА РЕЛЕ ТОПЛИВНОГО НАСОСА
-`skoda_octavia_ru_24f14f0e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:625 | doc_type:owners_manual
 Внимание! Реле топливного на- соса находится в коробке реле внутри автомобиля позади веще- вой полки в пространстве для ног водителя, позиция реле — 4 (рис. 4.91).
 
 ![](images/5c69056eecf0119c66316b3b9b8adcb6842488dc8814bf4831533d423b89b1ff.jpg)  
@@ -26103,7 +24831,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### А. Проверка реле топливного насоса
-`skoda_octavia_ru_fb5802e3` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:626 | doc_type:owners_manual
 1.Снимите вещевую полку в пе- реднем пространстве для ног слева.
 
 2. Извлеките из фиксатора пре- дохранитель «28», подсоедините проб- ник напряжения между«массой» и одним из двух контактов фиксатора предохранителя «28» (рис. 4.92).
@@ -26127,12 +24854,10 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### Б. Проверка электропитания и возбуждения реле топливного насоса
-`skoda_octavia_ru_4dda50a2` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:627 | doc_type:owners_manual
 10. Извлеките реле топливного на- соса из коробки реле, позиция реле — 4.
 
 
 ### Проверка электропитания
-`skoda_octavia_ru_ae2e258e` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:628 | doc_type:owners_manual
 11. Включите зажигание.
 
 12. Присоедините ручной мульти- метр «V.A.G 1526» к контакту 19 (поло- жительный полюс) и к «массе», к кон- такту 17 (положительный полюс) и к «массе» реле.
@@ -26143,7 +24868,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### Проверка возбуждения
-`skoda_octavia_ru_8197e587` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:629 | doc_type:owners_manual
 14. Присоедините пробник «V.A.G 1527» к контакту 16 («масса») и поло- жительному полюсу. При включении стартера пробник должен загореться постоянным светом.
 
 15. Если пробник не горит, про- верьте напряжение следующим обра- 3OM:
@@ -26154,7 +24878,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### СИСТЕМА ЗАЖИГАНИЯ
-`skoda_octavia_ru_13a64694` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:630 | doc_type:owners_manual
 Система зажигания двигателя представлена на рис. 4.93.
 
 ![](images/2a3e97d05863baad123dc9084c327270134d4f29bbe95827bac1ade208465c6d.jpg)
@@ -26174,7 +24897,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### СИСТЕМА АВТОМАТИЧЕСКОГО УПРАВЛЕНИЯ «МОТРОНІС» ДВИГАТЕЛЕМ «АGU»
-`skoda_octavia_ru_0c63196c` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:631 | doc_type:owners_manual
 Подкапотное пространство автомобиля с двигателем «АGU» 1.8 л показано на рис. 4.94, а система впрыска топлива показана на рис. 4.94, 4.95.
 
 ![](images/2054418ff2c2c698335cf68a1a6a718af12865f4f07755ab617ab1dc49f5a548.jpg)
@@ -26189,7 +24911,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### 1. ПРОВЕРКА ХОЛОСТОГО ХОДА
-`skoda_octavia_ru_1ee48146` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:632 | doc_type:owners_manual
 1. Заведите двигатель и дайте ему поработать на холостом ходу.
 
 2 Опросите память неисправ- ностей. Нельзя, чтобы в памяти была загружена какая-либо неисп- равность. В случае необходимости, устраните неисправность и прове- дите очистку памяти неисправнос- тей.Остановите двигатель, снова заведите его и, осуществив испы- тательный пробег,снова отсчитайте память неисправностей. Затем:
@@ -26208,7 +24929,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### Проверка частоты вращения на холостом ходу
-`skoda_octavia_ru_6048ea63` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:633 | doc_type:owners_manual
 5. Наберите изображаемую группу «001». На дисплее должна выс- ветиться следующая информация:
 
 Система установлена 7 в исходное положение 1 840 об/мин 1.30 мс 3° 12°до ВМТ
@@ -26219,7 +24939,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### Рис. 4.95. Система впрыска топлива
-`skoda_octavia_ru_bfda0e7a` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:634 | doc_type:owners_manual
 -Воздушный фильтр; 2, 3,10, 15,   
 17, 18,21,27, 30 - Болты;   
 4 -Заборная трубка;   
@@ -26267,7 +24986,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### 2. ПРОВЕРКА РЕГУЛЯТОРА ДАВЛЕНИЯ СЖАТОГО ВОЗДУХА
-`skoda_octavia_ru_3e8f65c8` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:635 | doc_type:owners_manual
 1. На включенной 3-ей передаче нажмите на педаль акселератора до ynopа.
 
 2. На частоте приблизительно 4000 об/мин отсчитайте и пометьте значе- ние, изображенное в поле индикации «4». Требуемое значение: 5... 95%.
@@ -26298,7 +25016,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### 3. ПРОВЕРКА ЭЛЕКТРОМАГНИТНОГО КЛАПАНА ОГРАНИЧЕНИЯ ДАВЛЕНИЯ СЖАТОГО ВОЗДУХА
-`skoda_octavia_ru_66011bc1` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:636 | doc_type:owners_manual
 1. Присоедините тестер и наберите «Электроникудвигателя».
 
 2. Наберите диагностику регулиру- ющихорганов.
@@ -26339,7 +25056,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### 4. ПРОВЕРКА ДАТЧИКА ЧАСТОТЫ ВРАЩЕНИЯ КОЛЕНЧАТОГО ВАЛА ДВИГАТЕЛЯ
-`skoda_octavia_ru_2dca6098` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:637 | doc_type:owners_manual
 1. Отсоедините  трехконтактный разъем проводки от датчика часто- ты вращения вала двигателя «1» (се- рый разъем) (рис. 4.98).
 
 3
@@ -26364,7 +25080,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### 5. ПРОВЕРКА ДАТЧИКА ТЕМПЕРАТУРЫ ОХЛАЖДАЮЩЕЙ ЖИДКОСТИ
-`skoda_octavia_ru_64d0c922` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:638 | doc_type:owners_manual
 1. Присоедините тестер «V.A.G   
 1552» с проводом «V.A.G 1551/3».
 
@@ -26435,7 +25150,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### СИСТЕМА ЗАЖИГАНИЯ
-`skoda_octavia_ru_77e1a21d` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:639 | doc_type:owners_manual
 Система зажигания двигателя показана на рис. 4.100.
 
 ![](images/eb37fef604faee9dbbc9363d8ff12c302787b4946855f86144b2d82179d3a541.jpg)  
@@ -26443,7 +25157,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### 6. ПРОВЕРКА ОКОНЕЧНОГО МОЩНОГО КАСКАДА
-`skoda_octavia_ru_a7c3ccda` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:640 | doc_type:owners_manual
 Проверка возбуждения оконечного мощного каскада
 
 1. Отсоедините разъемы проводки от всех четырех форсунок. 2. Отсоедините пятиконтактный разъем проводки 1 от оконечного мощ- ного каскада 2 (рис. 4.101). 3. Присоедините пробник-индика- тор напряжения между контактами 1 и 3 разъема проводки с помощью прово- дов из вспомогательного измеритель- ного комплекта«V.A.G 1594».
@@ -26457,7 +25170,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### Проверка оконечного мощного каскада
-`skoda_octavia_ru_2dfb50f7` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:641 | doc_type:owners_manual
 7. Присоедините пятиконтактный разъем к оконечномумощномукаскаду. 8.Отсоедините четырехконтактный разъем проводки 1 от оконечного мощ- ного каскада 2 (рис. 4.103).
 
 9. Присоедините пробник-индика- тор напряжения между контактом 1 оконечного мощного каскада и поло- жительным полюсом аккумуляторной батареи с помощью проводов из вспо- могательного измерительного комп- лекта «V.A.G 1594».
@@ -26470,7 +25182,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### 7. ПРОВЕРКА КАТУШЕК ЗАЖИГАНИЯ
-`skoda_octavia_ru_18c65931` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:642 | doc_type:owners_manual
 1. Включите зажигание.
 
 2. Присоедините пробник-индикатор напряжения между контактом 1 четы- рехконтактного разъема проводки и от- рицательным полюсом аккумуляторной батареи с помощью проводов из вспо- могательного измерительного комплек- та «V.A.G 1594». Пробник-индикатор напряжениядолжен горетьпостоянным светом. Постепенно повторите испыта- ние на контактах 2, 3 и 4 (рис. 4.103).
@@ -26489,7 +25200,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### 8. ПРОВЕРКА ДАТЧИКОВ ДЕТОНАЦИОННОГО СГОРАНИЯ
-`skoda_octavia_ru_113b0a65` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:643 | doc_type:owners_manual
 1.Отсоедините трехконтактный разъем проводки от датчика дето- национного сгорания 1 (рис. 4.104).
 
 0 3
@@ -26512,7 +25222,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### Датчик детонационного
-`skoda_octavia_ru_ae7710e1` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:644 | doc_type:owners_manual
 сгорания 1
 
 ![](images/92bc75eab9af4f440c1875e4665567a0460967eb6ca043ec6e3188040e987824.jpg)
@@ -26529,7 +25238,6 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### 9. ПРОВЕРКА ДАТЧИКА ЧАСТОТЫ ВРАЩЕНИЯ РАСПРЕДЕЛИТЕЛЬНОГО ВАЛА.
-`skoda_octavia_ru_5d5bfb22` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:645 | doc_type:owners_manual
 Внимание! В нормальном режи- ме движения блок управления дви- гателемраспознает посредством сигнала датчика момент воспламе- нения 1-го цилиндра. В случае вы- хода из строя датчика оказывается невозможным закрепление сигна- ла датчика детонационного сгора- ния за тем или иным цилиндром, регулирование детонационного сгорания выключается и угол опе- режения зажигания немного умень- шается для того, чтобы надежно предотвратить детонационный стук. При выходе из строя датчика двигатель продолжает работать дальше и можно его даже снова за- пустить.
 
 1.Отсоедините трехконтактный разъем 1 датчика частоты вращения 2 (рис. 4.106).
@@ -26568,12 +25276,10 @@ o проверьте на обрыв, короткое замыкание на �
 
 
 ### КОДЫ НЕИСПРАВНОСТЕЙ СИСТЕМЫ АВТОМАТИЧЕСКОГО УПРАВЛЕНИЯ ДВИГАТЕЛЕМ«МОТРОНИС»
-`skoda_octavia_ru_bfb9b876` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:646 | doc_type:owners_manual
 ![](images/80d6d1d0395130756e63efe1de87900395fc95ec94282d2257af3a0e7b37369c.jpg)
 
 
 ### СИСТЕМА ВПРЫСКА ТОПЛИВА ДИЗЕЛЬНЫХ ДВИГАТЕЛЕЙ 1.9 TDI «AGR» И«AHF»
-`skoda_octavia_ru_a133dce9` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:647 | doc_type:owners_manual
 Подкапотное пространство двигателей 1.9 TDI «AGR» и «AHF» представлено на рис.4.107,4.108, 4.109.
 
 ![](images/367dcca9699f6cb13b6b80882ab79f1a824a55ed22f0463823e6bf20a989bbfc.jpg)
@@ -26656,7 +25362,6 @@ A - Реле системы впрыска топлива;
 
 
 ### Рис. 4.109. Подкапотное пространство двигателя 1.9 TDI «АНF»: Элементы с А по Е на рисунке не представлены.
-`skoda_octavia_ru_af25e565` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:648 | doc_type:owners_manual
 A – Реле системы впрыска топлива, В - Реле свечей накаливания, С - Реле   
 вентилятора системы охлаждения; D - Датчик положения педали акселерато-   
 ра, Е - Выключатель стоп-сигналов; F - Датчик положения педали сцепления. 1 -Механический клапан системы рециркуляции отработавших газов, 2 - Электромагнитный клапан переключения дроссельной заслонки, 3 - Форсунка с датчиком перемещения иглы, 4 - Блок управления, 5 - Электромагнитный клапан системы рециркуляции отработавших газов; 6 - Электромагнитный клапан ограничения давления сжатого воздуха, 7 - Датчик расхода воздуха системы впрыска топлива; 8, 9 - Реле;   
@@ -26666,7 +25371,6 @@ A – Реле системы впрыска топлива, В - Реле св�
 
 
 ### 10. ОПРОС ПАМЯТИ НЕИСПРАВНОСТЕЙ И ЕЕ ОЧИСТКА
-`skoda_octavia_ru_609f160c` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:649 | doc_type:owners_manual
 Опрос памяти неисправностей
 
 1. Присоедините тестер «V.А.G. 1552» с проводом «V.A.G. 1551/3» и введите«Электронику двигателя» (адрес «01»). В тех случаях, когда дви- гательне заводится,включитезажига- ние. На дисплее должна высветиться следующаяинформация:
@@ -26705,7 +25409,6 @@ A – Реле системы впрыска топлива, В - Реле св�
 
 
 ### Очистка памяти неисправностей
-`skoda_octavia_ru_263a8b62` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:650 | doc_type:owners_manual
 12. Присоедините тестер«V.A.G 1552»ивведите«Электроникудвига- теля» (адрес «01»). Двигательдолжен работать. На дисплее должна высве- титься следующая информация:
 
 Тест системы автомобиля HELF Наберите функцию XX
@@ -26728,7 +25431,6 @@ A – Реле системы впрыска топлива, В - Реле св�
 
 
 ### I1. ТОПЛИВНЫЙ НАСОС ВЫСОКОГО ДАВЛЕНИЯ
-`skoda_octavia_ru_789a75c5` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:651 | doc_type:owners_manual
 Топливный насос высокого давления показан на рис. 4.110.
 
 ![](images/557dbe10fddf31739c7fbd81d0845b686aa835b6e83ebe75f11fe1034048949d.jpg)
@@ -26755,7 +25457,6 @@ A – Реле системы впрыска топлива, В - Реле св�
 
 
 ### 13. ФОРСУНКИ
-`skoda_octavia_ru_be1d5cff` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:652 | doc_type:owners_manual
 Топливный фильтр показан на рис. 4.111.
 
 ![](images/88e837a5ebc91d9ad6a1befbc588f7332ba2a51d02389f2a434ca34d02ae08bd.jpg)  
@@ -26763,7 +25464,6 @@ A – Реле системы впрыска топлива, В - Реле св�
 
 
 ### Снятие
-`skoda_octavia_ru_4a507b2c` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:653 | doc_type:owners_manual
 1. Снимите топливопровод вы- сокого давления торцевым ключом. 2. Выкрутите болт сливного топ- ливопровода. 3. Ослабьте болт крепления, снимите хомут крепления и извле- ките распылитель форсунки. 4. Прикрутите гайку вспомога- тельного инструмента на зажатый (заклинивший) распылитель и на- деньте на припаянную гайку съемник «МР 1-230»(рис. 4.112).
 
 ![](images/f17e8103becb50fb37eb897073ad331dbc65b4e425d2c5fd5a0d6b1c43a5aec6.jpg)
@@ -26773,7 +25473,6 @@ A – Реле системы впрыска топлива, В - Реле св�
 
 
 ### Установка
-`skoda_octavia_ru_446e6de5` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:654 | doc_type:owners_manual
 5. Установите распылитель фор-   
 cуHки. 6. Наденьте хомут крепления и   
 затяните болт крепления до момен-   
@@ -26783,14 +25482,12 @@ cуHки. 6. Наденьте хомут крепления и
 
 
 ### Проверка
-`skoda_octavia_ru_4bebc77a` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:655 | doc_type:owners_manual
 7. Присоедините тестер «V.A.G 1552» и введите функцию «Считы- вание блока измеренных значе- ний».
 
 8. Отсчитайте блок измеренных значений (группа «013»), причем, дви- гатель должен работать на холостом ходу. На дисплее должна высветиться следующая информация:
 
 
 ### Требуемоезначение:
-`skoda_octavia_ru_5fc48e0a` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:656 | doc_type:owners_manual
 -1.50 мr/H..+ 1.50 mr/H. 9. Если одно или больше заданных значений находятся вне допустимых пределов, необходимо взаимно заме- нить распылители (за исключением распылителя 3-го цилиндра).
 
 10. Если неисправность связана с распылителем, замените распылитель.
@@ -26810,7 +25507,6 @@ cуHки. 6. Наденьте хомут крепления и
 
 
 ### 14. ПРОВЕРКА ДАТЧИКА ТЕМПЕРАТУРЫ ВХОДЯЩЕГО ВОЗДУХА
-`skoda_octavia_ru_8b14e86d` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:657 | doc_type:owners_manual
 1.Отсчитайтеблок измеренных значений, причем, двигатель должен быть выключен. На дисплее должна высветиться следующая информа- ция:
 
 ![](images/e5c9eadd690225597b71280b01b7212d9fdc78100eeb2c3f6b46c327c36f6a2f.jpg)
@@ -26865,7 +25561,6 @@ cуHки. 6. Наденьте хомут крепления и
 
 
 ### 15. ПРОВЕРКА РЕГУЛИРОВКИ ДАВЛЕНИЯ ВПРЫСКА
-`skoda_octavia_ru_f5ad8572` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:658 | doc_type:owners_manual
 1. Наберите диагностику регули- рующих органов и введите в дей- ствие клапан начала впрыска. На дисплее должна высветиться сле- дующаяинформация:
 
 Диагносткарегулирующих органов Клапан начала впрыска
@@ -26891,12 +25586,10 @@ cуHки. 6. Наденьте хомут крепления и
 
 
 ### 16. ПРОВЕРКА СИСТЕМЫ РЕЦИРКУЛЯЦИИ ОТРАБОТАВШИХ ГАЗОВ
-`skoda_octavia_ru_54415045` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:659 | doc_type:owners_manual
 Работа системы рециркуляции проверяется по количеству рецир- кулируемого воздуха. В том случае, если отработавшие газы рецирку- лируются, доля свежего воздуха, ус- танавливаемая датчиком расхода воздуха, уменьшается. Чем больше количество отработавших газов, тем меньше сигнал датчика расхода воздуха.
 
 
 ### Автомобили до VII/97 г.
-`skoda_octavia_ru_0552dd55` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:660 | doc_type:owners_manual
 1.Отсчитайте блок измеренных значений, изображаемая группа «001», при этом двигатель должен работать на холостом ходу.
 
 Считывание блока измеренныхзначений1
@@ -26955,7 +25648,6 @@ a слишком высокая температура входящего воз
 
 
 ### Автомобили с VIII/97 г.
-`skoda_octavia_ru_9d3bcdc9` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:661 | doc_type:owners_manual
 Проверка рециркуляции отрабо- тавших газов осуществляется в функ- ции «О4»«Установка исходного со- стояния». Клапан рециркуляции отра- ботавших газов тактируется через каж- дые 10 секунд таким образом, чтобы создавать крайние значения рецирку- ляции отработавших газов (датчика расхода воздуха). Эти значения изоб- ражаются в блоке измеренных значе- ний, изображаемой группе «003», поле индикации «3».
 
 14. Присоедините тестер «V.A.G 1552». На дисплее должна высветить- ся следующая информация:
@@ -26976,13 +25668,11 @@ a слишком высокая температура входящего воз
 
 
 ### «ZVVP неактивна»:
-`skoda_octavia_ru_a45a80d3` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:662 | doc_type:owners_manual
 Заданное значение в поле «3» – 420... 560 мг/H.   
 Заданное значение в поле «4» – 0...5%.
 
 
 ### «ZVVP активна»:
-`skoda_octavia_ru_9fcfd944` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:663 | doc_type:owners_manual
 Заданное значение в поле «3» – 170... 340мг/H.   
 Заданное значение в поле «4» – 95... 100 %.
 
@@ -26992,7 +25682,6 @@ a слишком высокая температура входящего воз
 
 
 ### 17. ПРОВЕРКА ЭЛЕКТРОМАГНИТНОГО КЛАПАНА РЕЦИРКУЛЯЦИИ ОТРАБОТАВШИХ ГАЗОВ
-`skoda_octavia_ru_e2205ba8` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:664 | doc_type:owners_manual
 1. Отсоедините разъем 1  от электромагнитногоклапанарецир- куляции отработавших газов (рис. 4.118).
 
 2. Присоедините мультиметр в ре- жиме измерения сопротивления к кла- пану 2. Заданное значение: 14... 20 OM.
@@ -27019,7 +25708,6 @@ a слишком высокая температура входящего воз
 
 
 ### 18. ПРОВЕРКА ДАТЧИКА РАСХОДА ВОЗДУХА
-`skoda_octavia_ru_d4c35f97` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:665 | doc_type:owners_manual
 В сигнале датчика расхода воздуха нуждается блок управления для расчета количества впрыскиваемого топлива и для регулировки рециркуляции отра- ботавших газов. Чем меньше сигнал датчика расхода воздуха, тем меньше топливаможетвпрыскиваться.
 
 ![](images/309236920756572a0a1b5c83c2648f1150f4653788a27557c57b28beb14fcd38.jpg)  
@@ -27057,7 +25745,6 @@ a слишком высокая температура входящего воз
 
 
 ### На автомобилях до VII/98 г.
-`skoda_octavia_ru_08fef88c` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:666 | doc_type:owners_manual
 e отсоедините разъем проводки от датчика расхода воздуха (рис. 4. 119);
 
 − 2 1 46   
@@ -27079,7 +25766,6 @@ e отсоедините разъем проводки от датчика ра�
 
 
 ### На автомобилях с VII/98 г.:
-`skoda_octavia_ru_d6461285` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:667 | doc_type:owners_manual
 отсоедините разъем проводки от датчика расхода воздуха (рис. 4.120);
 
 5 4 3 2 включите зажигание; присоединитемультиметр B режиме измерения напряжения K следующим контактам разъема:
@@ -27092,7 +25778,6 @@ e отсоедините разъем проводки от датчика ра�
 
 
 ### 19. ПРОВЕРКА ДАТЧИКА ЧАСТОТЫ ВРАЩЕНИЯ КОЛЕНЧАТОГО ВАЛА
-`skoda_octavia_ru_8e357eb3` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:668 | doc_type:owners_manual
 Внимание! Датчик частоты вра- щения вала двигателя –  это датчик частоты вращения и опорных ме- ток. При выходе его из строя двига- тель останавливается.
 
 1.Выключите зажигание. 2. Отсоедините разъем 1 от топ- ливного насоса высокого давления (рис.4.121).
@@ -27122,7 +25807,6 @@ e отсоедините разъем проводки от датчика ра�
 
 
 ### 20. ПРОВЕРКА ДАТЧИКА ПЕРЕМЕЩЕНИЯ ИГЛЫ ФОРСУНКИ
-`skoda_octavia_ru_6f3dceb4` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:669 | doc_type:owners_manual
 Сигнал датчика перемещения иглы нужен для определения начала впрыска. При выходе его из строя начало впрыска регулируют (в зави- симости от частоты вращения и на- грузки), а при нормальном режиме эксплуатации начало впрыска регу- лируется автоматически (в зависи- мости от частоты вращения, нагруз- ки и температуры).
 
 1. Выключите зажигание.
@@ -27146,7 +25830,6 @@ e отсоедините разъем проводки от датчика ра�
 
 
 ### 21. ТУРБОНАДДУВ
-`skoda_octavia_ru_ddab0992` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:670 | doc_type:owners_manual
 Схема заборных трубок регулятора давления сжатого воздуха, системы рециркуляции отработавших газов и корпуса дроссельной заслонки пред- ставлена на рис. 4.123.
 
 ![](images/84dcf0aceca82c9ecb8d2e3aea7927edfd7899ee08b65d455ae3e845a68a8cdc.jpg)  
@@ -27154,7 +25837,6 @@ e отсоедините разъем проводки от датчика ра�
 
 
 ### 21.1. Проверка давления сжатого воздуха
-`skoda_octavia_ru_3962c562` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:671 | doc_type:owners_manual
 1. Присоедините тестер «V.A.G 1598/22» и наберите «Электронику двигателя».
 
 2. Отсчитайте блок измеренных значений, группа«011». Двигатель должен работать в режиме холостого хода.
@@ -27193,7 +25875,6 @@ e отсоедините разъем проводки от датчика ра�
 
 
 ### 21.2. Проверка электромагнитного клапана ограничения давления сжатого воздуха
-`skoda_octavia_ru_500e30d5` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:672 | doc_type:owners_manual
 1. Присоедините тестер «V.A.G 1598/22» и наберите «Электронику двигателя», при этом двигатель дол- жен работать в режиме холостого хода. На дисплее должна высветиться следу- ющаяинформация:
 
 Тест системы автомобиля Наберите функцию
@@ -27241,7 +25922,6 @@ xa: выключитезажигание; отсоедините разъем - 
 
 
 ### 22. ПРОВЕРКА НАКАЛИВАНИЯ
-`skoda_octavia_ru_41cfdc2a` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:673 | doc_type:owners_manual
 1.Выключитезажигание. 2. Отсоедините разъем провод- ки 1 от датчика температуры охлаж- дающей жидкости 2 (рис. 4.125).
 
 ![](images/d21269a13ef00cd166492ab47de94387cd861d64d811d91b0c766b3d0a89ec84.jpg)  
@@ -27259,7 +25939,6 @@ xa: выключитезажигание; отсоедините разъем - 
 
 
 ### 23. ПРОВЕРКА СВЕЧЕЙ НАКАЛА
-`skoda_octavia_ru_2d616263` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:674 | doc_type:owners_manual
 1. Выключите зажигание. 2. Отсоедините разъем провод- ки от свечей накала. 3. Присоедините пробник (на полупроводниках) к положительно- му полюсу батареи. 4. Прикладывайте пробник ко всем свечам накала по порядку (рис. 4.126). Диоддолжен гореть,это значит, что свеча в порядке.
 
 ![](images/48c4850ef71d451accb950655801f7d779973e19e28715115e808e966e01bc61.jpg)  
@@ -27269,7 +25948,6 @@ xa: выключитезажигание; отсоедините разъем - 
 
 
 ### Снятие
-`skoda_octavia_ru_5d59b439` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:675 | doc_type:owners_manual
 1. Снимите защитный кожух дви- гателя.
 
 2. Отсоедините нагнетающий трубопровод от топливного насоса высокого давления. 3. Закройте отверстия чистой тряпкой. 4. Снимите верхний кожух зубча- того приводного ремня, вакуумный насос и крышку головки блока ци- линдров.
@@ -27283,7 +25961,6 @@ xa: выключитезажигание; отсоедините разъем - 
 
 
 ### 6. На снятом двигателе:
-`skoda_octavia_ru_84194d66` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:676 | doc_type:owners_manual
 присоедините устройство для установки ВМТ «МР 1-313», как показа- но на рисунке 4.128;
 
 ![](images/7d736b59bc928c258760197106dbbf506fcf62006368ac9e2af4b815503db5e2.jpg)  
@@ -27295,7 +25972,6 @@ xa: выключитезажигание; отсоедините разъем - 
 
 
 ### 7. На двигателе, закрепленном на кронштейне «МР 1 -202»:
-`skoda_octavia_ru_19975f85` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:677 | doc_type:owners_manual
 установите стальную линейку на край маховика (рис. 4.129);
 
 ![](images/35645147d0a95f3e463d5843f24a64210ae4fc515ee4521a75c1196a3d3d0935.jpg)  
@@ -27312,7 +25988,6 @@ e отмерьте точно 100 мм от отмет- ки ВМТ (стрел�
 
 
 ### На всех автомобилях
-`skoda_octavia_ru_d730ceaf` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:678 | doc_type:owners_manual
 8. Заблокируйте положение рас- пределительного вала с помощью регулирующей линейки «Мр 1-312» (рис. 4.131).
 
 ![](images/c95d4244b4702eee34445e243f6411ea4a1242c978823f65dfffa6a48963fa4e.jpg)  
@@ -27343,7 +26018,6 @@ e отмерьте точно 100 мм от отмет- ки ВМТ (стрел�
 
 
 ### Установка
-`skoda_octavia_ru_eef03f6e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:679 | doc_type:owners_manual
 17. Установите топливный насос высокого давления и закрутите снача- ла болт к задней опоре с помощью ко- нусной гайки.
 
 18. Установите передние крепежные болты и затяните их до момента 25 Нм.
@@ -27412,7 +26086,6 @@ e отмерьте точно 100 мм от отмет- ки ВМТ (стрел�
 
 
 ### 25. ДИНАМИЧЕСКАЯ ПРОВЕР- КА Й РЕГУЛИРОВКА НАЧАЛА ВПРЫСКА
-`skoda_octavia_ru_32af670b` | octavia | pdf_manual | tier:2 | lang:ru | layer:lighting | p:680 | doc_type:owners_manual
 1. Присоедините тестер «V.A.G 1552» и введите в действие функцию «Установка исходного состояния». На дисплее должно высветиться поле индикации от 1... 10 индикации).
 
 ![](images/2209492e278a3dcdff57f6c380d919af451d281a4564f30e28c60dab6e86c9b5.jpg)
@@ -27463,7 +26136,6 @@ A – Поле индикации «2», начало впрыска; в - По�
 
 
 ### 26. ПРОВЕРКА ДАТЧИКА ТЕМПЕРАТУРЫ ВХОДЯЩЕГО ВОЗДУХА
-`skoda_octavia_ru_84bfbfec` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:681 | doc_type:owners_manual
 1. Присоедините тестер «V.A.G 1552» с проводом «V.A.G 1551/3» и введите«Электронику двигателя» (адрес«01»).
 
 ![](images/9aeba4c1a7490eb509451cadf0d9c6e790b4e1b89de75be2c5292d683d1b5c09.jpg)
@@ -27486,7 +26158,6 @@ A – Поле индикации «2», начало впрыска; в - По�
 
 
 ### Пример:
-`skoda_octavia_ru_e52e15de` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:682 | doc_type:owners_manual
 Для температуры 30 °С заданное значение равно 1500…. 2000 Ом. Для температуры 80 С заданное значение равно 275.…. 375 Ом.
 
 6. В случае недостижения заданно- го значения замените датчиктемпера- туры входящего воздуха.
@@ -27499,7 +26170,6 @@ A – Поле индикации «2», начало впрыска; в - По�
 
 
 ### 27. ПРОВЕРКА РЕГУЛЯТОРАПОЛОЖЕНИЯ ЗАСЛОНКИ
-`skoda_octavia_ru_832486c9` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:683 | doc_type:owners_manual
 На автомобилях выпуска с IX/98 г. регулятор заслонки находится во впускном трубопроводе.
 
 Отсоедините четырехконтакт- ный разъем проводки (рис. 4.143).
@@ -27531,21 +26201,18 @@ A – Поле индикации «2», начало впрыска; в - По�
 
 
 ### КОДЫ НЕИСПРАВНОСТЕЙ СИСТЕМЫ АВТОМАТИЧЕСКОГО УПРАВЛЕНИЯ ДВИГАТЕЛЕМ 1.9 ТDИ
-`skoda_octavia_ru_b5f8bf1d` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:684 | doc_type:owners_manual
 ![](images/8cc3947446c9c4e719d64ceb0a81ac649fc1c7b96a3eb083ce0af5a8951789e8.jpg)
 
 49809n 85 ТАЧАПИЕ хУдEоа
 
 
 ### 1. ПРИВОД УПРАВЛЕНИЯ СЦЕПЛЕНИЕМ
-`skoda_octavia_ru_7ca2efce` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:685 | doc_type:owners_manual
 Привод управления сцеплением приведен на рис. 5.1.
 
 ![](images/3d03143aeb729cf44fab23abd2f0206bb613923a4320d7c338c28a3dd7a24f62.jpg)
 
 
 ### 2. ГИДРАВЛИЧЕСКИЙ ПРИВОД СЦЕПЛЕНИЯ
-`skoda_octavia_ru_6b9d3ea8` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:686 | doc_type:owners_manual
 Гидравлический привод сцепления показан на рис. 5.2, 5.3.
 
 Рис – 5.1. Привод управления сцеплением:   
@@ -27567,7 +26234,6 @@ A – Поле индикации «2», начало впрыска; в - По�
 
 
 ### Снятие
-`skoda_octavia_ru_3077d718` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:687 | doc_type:owners_manual
 1. Отсоедините и закупорьте трубку A, ведущую к бачку тормоз- ной жидкости (рис. 5.4).
 
 ![](images/a569f4d191de469e623ce10c6a52c20b21a73f057a7eaf0559ca29b9bd38bb0f.jpg)  
@@ -27593,7 +26259,6 @@ A – Поле индикации «2», начало впрыска; в - По�
 
 
 ### Установка
-`skoda_octavia_ru_15ca298e` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:688 | doc_type:owners_manual
 9. Установка производится в порядке, обратном снятию. При этом необходимо соблюдать сле- дующиеуказания: фиксатор А должен находить- ся на тяге управления в главным цилиндром сцепления (рис. 5.7);
 
 ![](images/2b36cb702173f75b95598e8302390e97ec1b81e487c372b2c0f8ce15be0bac21.jpg)  
@@ -27605,7 +26270,6 @@ A – Поле индикации «2», начало впрыска; в - По�
 
 
 ### 4. УДАЛЕНИЕ ВОЗДУХА ИЗ ГИДРАВЛИЧЕСКОГО ПРИВОДА СЦЕПЛЕНИЯ
-`skoda_octavia_ru_641ba8d4` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:689 | doc_type:owners_manual
 1. Удалите воздух из гидравличес- кого привода сцепления прибором для заправки тормозного привода и для удаления воздуха из него.
 
 2. Для удаления воздуха восполь- зуйтесь шлангом для удаления воздуха (длиной около 670 мм).
@@ -27624,12 +26288,10 @@ A – Поле индикации «2», начало впрыска; в - По�
 
 
 ### 5. МЕХАНИЗМ ВЫКЛЮЧЕНИЯ СЦЕПЛЕНИЯ
-`skoda_octavia_ru_b552afe0` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:690 | doc_type:owners_manual
 Механизм выключения сцепления показан на рис. 5.9.
 
 
 ### 6. СНЯТИЕ И УСТАНОВКА СЦЕПЛЕНИЯ
-`skoda_octavia_ru_4a3f85b9` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:691 | doc_type:owners_manual
 Сцепление, устанавливаемое C МКПП 02к показано на рис. 5.10.
 
 ![](images/d770310b958c52ae5de9f57315f03779891fb5ddc30006d1b127f66300d76e32.jpg)  
@@ -27652,7 +26314,6 @@ A – Поле индикации «2», начало впрыска; в - По�
 
 
 ### Снятие
-`skoda_octavia_ru_fdcf3949` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:692 | doc_type:owners_manual
 1. Снимите маховик, застопорив его контропорой «МР 1-221» (рис. 5.12).
 
 ![](images/a7a80d3bfb97554aa14719ba6299f90692a2ee0b3a87532773fc235404e751e4.jpg)  
@@ -27677,7 +26338,6 @@ A – Поле индикации «2», начало впрыска; в - По�
 
 
 ### Установка
-`skoda_octavia_ru_e7340614` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:693 | doc_type:owners_manual
 7. Установите нажимной диск. 8. Установите промежуточный диск. Положение для установки про- межуточного листа: Выступ (стрел- ка) должен быть направлен в сторо- ну от нажимного диска (рис. 5.15).
 
 ![](images/4338c5a99b8113f1d66dac73db9483788c917ffac24b4c04c8e044619be35699.jpg)  
@@ -27700,7 +26360,6 @@ A – Поле индикации «2», начало впрыска; в - По�
 
 
 ### На всех автомобилях:
-`skoda_octavia_ru_602b07cb` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:694 | doc_type:owners_manual
 7. Отсоедините разъемы проводки от спидометра 1 и выключателя фар заднего хода 2 (рис. 5.19).
 
 0
@@ -27709,12 +26368,10 @@ A – Поле индикации «2», начало впрыска; в - По�
 
 
 ### Снятие
-`skoda_octavia_ru_491ffa5e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:695 | doc_type:owners_manual
 1. Снимите кожух двигателя. . Отсоедините отрицательный провод от батареи
 
 
 ### На автомобилях с двигателем 1.6 л/74 кВт и 1.9 л/50 кВт:
-`skoda_octavia_ru_75fc7166` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:696 | doc_type:owners_manual
 3.Снимите воздушную впускную трубу 1 и разъем 2 с датчика расхода воздуха (рис. 5.17).
 
 ![](images/cd656eb2e84f422d8a2a35bdb613ddfad902e5f7be9412ec8042bd7277415893.jpg)  
@@ -27724,7 +26381,6 @@ L NO
 
 
 ### На автомобилях с двигателем 1.9 л/50 кВт:
-`skoda_octavia_ru_a800fea9` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:697 | doc_type:owners_manual
 4. Снимите воздушную трубку 3 с воздушного фильтра.
 
 На автомобилях с двигателем 1.6 л/74 кВт и 1.9 л/50 кВт:
@@ -27733,7 +26389,6 @@ L NO
 
 
 ### На автомобилях с двигателем 1.6 л/55 кВт:
-`skoda_octavia_ru_437857ab` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:698 | doc_type:owners_manual
 6. Снимите воздушный фильтр (стрелки) и отложите его в сторону (рис.5.18).
 
 ![](images/8edd8f465636711f4672332ee7be9918b2a2c6f7c787d3e1511e98c89b6e6291.jpg)  
@@ -27792,7 +26447,6 @@ AO OUDO
 
 
 ### На автомобилях с двигателем 1.6 л/74 кВт и 1.9 л/50 кВт:
-`skoda_octavia_ru_03451345` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:699 | doc_type:owners_manual
 Рис. 5.27. Снимите малый защитный лист А маховика сзади правого вала с фланцем (стрелка).
 
 17.Выкрутите крепежные болты (стрелки) из подшипника коробки пе- редач. 18. Снимите с коробки передач кронштейн коробки передач стрелки 3 и стрелка 1. 19. Снимите звукоизоляцию, для чего открутите болты (стрелки) (рис. 5.26).
@@ -27813,7 +26467,6 @@ AO OUDO
 
 
 ### На автомобилях с двигателем 1.6 л/55 кВт и 1.9 л/50 кВт:
-`skoda_octavia_ru_8cec00b8` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:700 | doc_type:owners_manual
 27. Ослабьте двойной хомут А и от- соедините выпускной трубопровод (рис.5.29).
 
 ![](images/2002bf0e5497ed1151dc6dcafac35c34dc07d83dc9c18654a3e8c9b5e566c6b7.jpg)  
@@ -27821,7 +26474,6 @@ AO OUDO
 
 
 ### На автомобилях с двигателем 1.6 л/55 кВт:
-`skoda_octavia_ru_034e8a49` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:701 | doc_type:owners_manual
 28. Ослабьте гайки (стрелки), отсо- едините выпускной коллектор от ката- лизатора ОГ (рис. 5.30).
 
 ![](images/22bcdb920da34c413a8aedec00b0e6d23f17752aac8a9b22b583b8060cc759f9.jpg)  
@@ -27831,7 +26483,6 @@ AO OUDO
 
 
 ### На всех автомобилях:
-`skoda_octavia_ru_9ccc663f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:702 | doc_type:owners_manual
 31. Прикрутите специальный инст- румент С с помощью болта В к кронш- тейну агрегата (к креплению качатель- нойопоры).
 
 32. Установите устройство А «МР 3- 470» и затяните болты (стрелки) (рис. 5.32).
@@ -27875,7 +26526,6 @@ AO OUDO
 
 
 ### Установка
-`skoda_octavia_ru_b51186b3` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:703 | doc_type:owners_manual
 43. Установка проводится в поряд- ке, обратном снятию.
 
 ![](images/9c936b0cfeee797d255f9530d599d259c21ebbb8b6d7eec4d3a9476aa94a6cc8.jpg)  
@@ -27883,7 +26533,6 @@ AO OUDO
 
 
 ### МЕХАНИЧЕСКАЯ КОРОБКА ПЕРЕДАЧ 02К
-`skoda_octavia_ru_aa226651` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:704 | doc_type:owners_manual
 Сборочная схема механизма переключения передач на коробке передач по- казана на рис. 5.38.
 
 ![](images/3c8330b1a1f9d4c5c4c3285ab086cb5617e8efe2a54c889ae5e2b32cac188797.jpg)
@@ -27892,7 +26541,6 @@ AO OUDO
 
 
 ### 8. РЕГУЛИРОВКА ПРИВОДА ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ
-`skoda_octavia_ru_81dd78ca` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:705 | doc_type:owners_manual
 Коробка передач в нейтральном положении.
 
 1. Снимите шаровую головку рыча- га переключения передач с чехлом. 2. Ослабьте гайку для прижимной скобы (стрелка). Соединение штока вилки переключения передач и рычага переключения передач должно легко перемещаться (рис. 5.39).
@@ -27922,7 +26570,6 @@ AO OUDO
 
 
 ### Точная настройка
-`skoda_octavia_ru_df70c47c` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:706 | doc_type:owners_manual
 20 Отрегулируйте расстояние а путеm осторожного перемещения ynopa. 21. В этом положении снова за- тяните болты 1 и 2 до момента 25 Нм, придерживая при этом упор и рычаг переключения передач в правильном положении (рис. 5.45).
 
 12. Затяните болты 1 и 2 до момента 25 Нm. 13. Выключите передачу заднего хода. 14. Включите по несколько раз все передачи. Следует уделять вни- мание блокированию передачи заднего хода. 15. Если B ходе повторного включения передачи имеет месtо заклинивание, то следует предпринять следующие меры: включите 1-ую передачу; устраните зазор в приводе пе- реключения передач путем осторожно- го нажатия рычага переключения пере- дач влево. Расстояние а должно быть после этого равно 2 ± 1 мм (рис. 5.43). Если это не так, то осуществите точную настройку.
@@ -27955,7 +26602,6 @@ AO OUDO
 
 
 ### 9. РАЗБОРКА И СБОРКА КОРОБКИ ПЕРЕДАЧ
-`skoda_octavia_ru_ddf4c2a5` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:707 | doc_type:owners_manual
 Крышка картера коробки передач и 5-й передачи, крышка картера короб- ки передач и привода переключения передач и первичный, вторичный вал, дифференциал и вилки переключения передач представлены на рис. 5.46, 5.47,5.48.
 
 ![](images/1669b2119524e976c901c8adb77ea2853dfcbfd7c61a273e72dbfac38f4adf7f.jpg)  
@@ -27969,7 +26615,6 @@ AO OUDO
 
 
 ### Разборка
-`skoda_octavia_ru_5ce562ed` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:708 | doc_type:owners_manual
 .Выкрутите резьбовую пробку маслосливного отверстия (стрел- ка) и слейте трансмиссионное мас- ло (рис. 5.49).
 
 ![](images/1b88cad56db0aa928cae8ce0d5a3bd65161201051ed567d7a15ea018eebad6d6.jpg)  
@@ -28095,7 +26740,6 @@ A R
 
 
 ### Сборка
-`skoda_octavia_ru_5d372d91` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:709 | doc_type:owners_manual
 27. Установите дифференциал. 28.Установите первичный вал. 29. Затяните болты крепления под- шипника/первичного вала. Положение для установки упорного подшипника, игольчатого подшипника шестерни 1-й передачи: выступ А на внутреннем ди- аметре указывает всторонукрепления подшипника В (рис. 5.72).
 
 ![](images/949be55747ec273fbf4be59b1694a55f927924d81f5e9f341038dce8573e8a0d.jpg)  
@@ -28270,7 +26914,6 @@ o рычаг выключения сцепления
 
 
 ### 10. ЗАМЕНА ИГОЛЬЧАТОГО ПОДШИПНИКА ПЕРВИЧНОГО БАЛА
-`skoda_octavia_ru_6dd0fa6e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:710 | doc_type:owners_manual
 Выпрессовывание и запрессовы- вание игольчатого подшипника пер- вичного вала представлено на рис. 5.92,5.93.
 
 ![](images/862c635ab03cd2e6328cda85b3b21e95aabee7a5699fb20a04a2c6c0e6c6ba0f.jpg)  
@@ -28281,7 +26924,6 @@ o рычаг выключения сцепления
 
 
 ### 11. ЗАМЕНА САЛЬНИКА ПЕРВИЧНОГО ВАЛА
-`skoda_octavia_ru_37a00ad0` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:711 | doc_type:owners_manual
 Снятие  и установка сальника первичного вала показаны на рис. 5.94, 5.95.
 
 ![](images/88b68dd78f9f946dacd7f6e42389d3b6a3bc7cd92f07ede97521440a5db7a361.jpg)  
@@ -28292,7 +26934,6 @@ o рычаг выключения сцепления
 
 
 ### 12. КОНСТРУКЦИЯ ВАЛОВ КОРОБКИ ПЕРЕДАЧ
-`skoda_octavia_ru_4b53b2ab` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:712 | doc_type:owners_manual
 Конструкция первичного вала показана на рис. 5.96.
 
 ![](images/a427a4633ad6b147142d1e914d1df7d69573b20dadca7820216b3b7352977c47.jpg)  
@@ -28337,7 +26978,6 @@ o рычаг выключения сцепления
 
 
 ### 12. РАЗБОРКА И СБОРКА КОРОБКИ ПЕРЕДАЧ
-`skoda_octavia_ru_1d55c20e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:713 | doc_type:owners_manual
 Первичный и вторичный валы, дифференциал и вилки переключе- ния передач показаны на рис. 5.98.
 
 ![](images/185eb64f3927f5d649859b4b957e087ca151d323c3b6013c1870e0ff66da7daf.jpg)  
@@ -28345,7 +26985,6 @@ o рычаг выключения сцепления
 
 
 ### Разборка
-`skoda_octavia_ru_fbf3ac80` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:714 | doc_type:owners_manual
 1. Выкрутите резьбовую пробку маслосливного отверстия (стрелка) и слейте трансмиссионное масло (рис. 5.49). 2. Закрепите коробку передач на сборочном стенде. 3. Снимите рычаг выключения сцепления и подшипник выключения сцепления. 4. Открутите направляющую гильзу. 5. Снимите крышку коробки пере- дач (стрелка) (рис. 5.99).
 
 ![](images/f7301022e2cc6b81a40f529bbdaa7c04b7d39aaaa16775cb78408d8bb9288d6c.jpg)  
@@ -28425,7 +27064,6 @@ o рычаг выключения сцепления
 
 
 ### Сборка
-`skoda_octavia_ru_72708397` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:715 | doc_type:owners_manual
 22. Снимите правую полуось и из- влеките дифференциал.
 
 23.Установите дифференциал. Каждый раз заменяйте прокладки (стрелки) крепления подшипника вто- ричного вала (рис. 5.113).
@@ -28528,7 +27166,6 @@ o рычаг выключения сцепления
 
 
 ### Регулировка положения 5-й передачи
-`skoda_octavia_ru_26c69dde` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:716 | doc_type:owners_manual
 44. Включите 5-ю передачу (рис. 5.125). Ослабьте болт 1. Нажмите скользящую муфту с вилкой пере- ключения передач в направлении стрелки, затяните болт 1 до момента 25HM.
 
 ![](images/9a86b36afccff640bd034768f9a140cf0efd5146c3dfbc4491ef5cdb2d62ed6c.jpg)  
@@ -28540,7 +27177,6 @@ o рычаг выключения сцепления
 
 
 ### 13. КОНСТРУКЦИЯ ВАЛОВ КОРОБКИ ПЕРЕДАЧ
-`skoda_octavia_ru_3b92711f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:717 | doc_type:owners_manual
 Конструкция первичного вала показана на рис. 5.126.
 
 ![](images/6fdcb2273dfca1a3fa7824a9bcc7e364ad0a4b1ef806a9fdd9e95be571e2bdfa.jpg)  
@@ -28553,7 +27189,6 @@ o рычаг выключения сцепления
 
 
 ### Рис. 5.127. Конструкция вторичного вала:
-`skoda_octavia_ru_aeb2f3cc` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:718 | doc_type:owners_manual
 ![](images/0fb63a7df2d9f5b982f8167d3337a50b8bcf3c70a5c9e4ada5cd4aab49238bec.jpg)  
 Конструкция вторичного вала показана на рис. 5.127.
 
@@ -28591,7 +27226,6 @@ o рычаг выключения сцепления
 
 
 ### ДИФФЕРЕНЦИАЛ
-`skoda_octavia_ru_18646d87` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:719 | doc_type:owners_manual
 Общая схема дифференциала показана на рис. 5.129.
 
 Рис. 5.129. Общая схема   
@@ -28627,7 +27261,6 @@ o рычаг выключения сцепления
 
 
 ### ПЕРЕДНЯЯ ПОДВЕСКА
-`skoda_octavia_ru_b23f2a4d` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:720 | doc_type:owners_manual
 Балка крепления подвески,стабилизаторпоперечнойустойчивости и нижний рычаг подвескипоказаны на рис.6.1а
 
 ![](images/24048d88275af4fb2e8351c4571cc20846a2930113caf2b8292fd709b68a925f.jpg)  
@@ -28672,7 +27305,6 @@ ABS.
 
 
 ### Снятие
-`skoda_octavia_ru_4aeacb87` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:721 | doc_type:owners_manual
 1. Снимите колпак колеса.   
 2. Приподнимите автомобиль так, чтобы снять нагрузку с передней под- veski.   
 3. Ослабьте гайку ступицы.   
@@ -28682,12 +27314,10 @@ ABS.
 
 
 ### Только на автомобилях с автома- тической коробкой передач
-`skoda_octavia_ru_002d023f` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:722 | doc_type:owners_manual
 7. Установите устройство для под- вешивания двигателей «МР9-200» и закрепите двигатель в этом положе- нии.
 
 
 ### На всех автомобилях
-`skoda_octavia_ru_db7b5253` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:723 | doc_type:owners_manual
 8. Открутите болты 1 (рис. 6.2).
 
 ![](images/d41810aadf8cc64b77f4a2cd952f94ee47e69c0bd5252ee27b77e2d0b4093b07.jpg)  
@@ -28708,12 +27338,10 @@ ABS.
 
 
 ### Только на автомобилях с автоматической коробкой передач
-`skoda_octavia_ru_7b9a33d4` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:724 | doc_type:owners_manual
 11. Открутите болт 4 качательной опоры и болты с шайбами 5 и 6 от балки крепления подвески.
 
 
 ### Установка
-`skoda_octavia_ru_971b314f` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:725 | doc_type:owners_manual
 12. Установите нижний рычаг под-   
 вески и закрепите его. 13.Закрепите балку крепления под-   
 вески. Затяните гайки до момента 100   
@@ -28743,7 +27371,6 @@ cа. 15. Установите наружный шарнир
 
 
 ### Снятие
-`skoda_octavia_ru_15bfbeeb` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:726 | doc_type:owners_manual
 1. Снимите колпаки передних колес. 2. Приподнимите автомобиль так, чтобы снять нагрузку с передней под- veski. 3. Ослабьте гайку ступицы. 4. Поднимите автомобиль и сними- те колеса. 5. Открутите гайку ступицы. 6.Снимите нижний защитный щиток. 7. Открутите болты 1 (рис. 6.2). 8. Выпрессуйте карданные валы. 9. Отсоедините нижние рычаги подвески от шаровых опор. 10. Снимите крышку подшипника ступицы колеса.
 
 11. Открутите болты 1 и 2 и снимите качательную опору (рис. 6.5).
@@ -28755,12 +27382,10 @@ cа. 15. Установите наружный шарнир
 
 
 ### Установка
-`skoda_octavia_ru_4e4fc491` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:727 | doc_type:owners_manual
 17. Прежде чем прикрутить болты балки крепления подвески, установите рулевой механизм на балкукрепления подвески и закрутите болты крепления рулевого механизма. 18. Резьбовую втулку 1 установите правильно в отверстии балки крепле- ния подвески (рис. 6.6). 19. Далее установка проводится в порядке, обратном снятию.
 
 
 ### 3. ПОВОРОТНЫЙ КУЛАК
-`skoda_octavia_ru_2b87798e` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:728 | doc_type:owners_manual
 Ремонт поворотного кулака путем выпрессовывания и запрессовывания ступицы колеса и подшипника ступицы колеса возможен только после снятия амортизаторнойстойки.
 
 1. Выпрессуйте ступицу колеса из поворотного кулака (рис. 6.7).
@@ -28801,7 +27426,6 @@ cа. 15. Установите наружный шарнир
 
 
 ### Снятие
-`skoda_octavia_ru_9002abc0` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:729 | doc_type:owners_manual
 1.Снятие шаровой опоры возможно только после снятия амортизаторной стойки и поворотного кулака.
 
 2.Установите специальный инстру- мент согласно рисунку 6.13 и ослабьте гайку.
@@ -28816,7 +27440,6 @@ cа. 15. Установите наружный шарнир
 
 
 ### Проверка
-`skoda_octavia_ru_88aab47d` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:730 | doc_type:owners_manual
 Проверка осевого зазора
 
 4. Нажмите нижний рычаг под- вески вниз, а затем снова вверх (рис. 6.15).
@@ -28826,14 +27449,12 @@ cа. 15. Установите наружный шарнир
 
 
 ### Проверка радиального зазора
-`skoda_octavia_ru_d5fa3075` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:731 | doc_type:owners_manual
 5. Пошатайте колесо внутрь и нару- жу (рис. 6.17).
 
 Внимание! При обеих проверках не допускается какой-либо зазор, ни видимый, ни ощущаемый. В ходе проверок наблюдайте за шаровой опорой. Учитывайте возможный за- зор подшипника ступицы колеса или "зазор" опоры амортизаторной стойки сверху. Проверьте резино- вую прокладку на неповрежден- ность и, при необходимости, заме- ните шаровую опору.
 
 
 ### Снятие
-`skoda_octavia_ru_7b5247cd` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:732 | doc_type:owners_manual
 1. Снимите колпак колеса. 2. Приподнимите автомобиль так, чтобы снять нагрузку с передней подвески. 3. Ослабьте гайку ступицы. 4. Снимите колесо. 5. Открутите болты 1 (рис. 6.2). 6. Выпрессуйте карданный вал (рис.6.3). 7. С помощью съемника «Маtrа V176 отсоедините тягурулевой трапе- ции от рычага рулевой трапеции (рис. 6.16).
 
 ![](images/2790d0d2fffa7257d72391bb7ff2977af8ec5e8f79c7d00656cc03cc292b3cc9.jpg)  
@@ -28863,7 +27484,6 @@ cа. 15. Установите наружный шарнир
 
 
 ### Разборка
-`skoda_octavia_ru_c6ded807` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:733 | doc_type:owners_manual
 ![](images/08caa1f6e06deed64a2e137dd11157630c53142fef27e012a462cc1639a3196e.jpg)  
 Рис. 6.19. Установите разжимное приспособление «3424» согласно рисунку, растяните верхнюю часть поворотного кулака и извлеките амортизаторную стойку.
 
@@ -28896,7 +27516,6 @@ cа. 15. Установите наружный шарнир
 
 
 ### Сборка
-`skoda_octavia_ru_ec1ae703` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:734 | doc_type:owners_manual
 16. Установите сжатую пружину вместе с устройством для сжатых пружин, например «V.A.G 1752/1», на нижнюютарелкупружины. Конец витка пружины должен при этом прилегать до упора (стрелка) (рис. 6.24).
 
 ![](images/80b99837b5cbc90493a689811d3f422f6ffb39027e237d799461466e5d6a4166.jpg)  
@@ -28904,14 +27523,12 @@ cа. 15. Установите наружный шарнир
 
 
 ### Установка
-`skoda_octavia_ru_04017451` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:735 | doc_type:owners_manual
 17. Установите амортизаторную стойку вместе с поворотным кулаком и прикрепите к кожуху амортизаторной СТОЙКИ: 18. Смажьте маслом шлицы ступи- цы колеса. 19.Засуньте наружный шарнир как можно дальше в шлицы ступицы коле- ca.
 
 20. Прикрутите головку шарового шарнира к нижнему рычагом подвески до момента 20 Нм + 90°. 21.Прикрутите опору суппорта дис- кового тормозного механизма к пово- ротному кулаку до момента 28 Нм. 22.Установите проводдатчика чис- ла оборотов системы АВS в фиксатор. 23. Присоедините разъем датчика числа оборотов системы АBS. 24. Смажьте маслом поверхность прилегания гайки, шлицы и резьбу наружного шарнира, закрутите новую гайку как можно дальше. 25. Засуньте наружный шарнир в ступицу колеса так, чтобы он соприка- сался с подшипником ступицы колеса. 26. Установите колесо. 27. Опустите автомобиль так, чтобы колеса все еще были вывешены. 28. Нажмите на педаль тормоза. 29. Затяните гайку до момента 250 Нм и ослабьте на один оборот. Под- тяните гайку еще на 50 Нм + 45".
 
 
 ### Снятие
-`skoda_octavia_ru_0366e9e5` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:736 | doc_type:owners_manual
 1. Снимите колпак колеса. 2. Приподнимите автомобиль так, чтобы снять нагрузку с передней подвески. 3. Ослабьте гайку ступицы. 4. Снимите колесо. 5. Снимите нижнийзащитный щиток. 6. Отсоедините карданный вал от вала с фланцем или от коробки пе- редач. 7. Открутите болты 1 (рис. 6.2). 8. Выпрессуйте карданный вал и извлеките карданный вал (рис. 6.3). 9. Ослабьте болты качательной опо- ры коробки передач (стрелка) (рис. 6.25).
 
 ![](images/a0d20a797a2fa9e8481df355a7e89b1bb6756236f04cc91fb8008e50c29d283c.jpg)  
@@ -28924,12 +27541,10 @@ cа. 15. Установите наружный шарнир
 
 
 ### Установка
-`skoda_octavia_ru_be5a5125` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:737 | doc_type:owners_manual
 11. Смажьте маслом шлицы ступи- цы колеса. 12. Установите карданный вал на свое место. 13.Втолкните наружный шарнир как можно дальше в шлицы ступицы коле- са. 14. Прикрутите шаровую опору к нижнемурычагуподвески новыми бол- тами до момента 20 Нм + 90. 15.Установите внутренний шарнир карданного вала и затяните болты до следующих моментов: М8 х 18 – 40 Нм, M8 × 28 - 40 HM, M8 x 48 - 40 Hm, M10 × 20 - 80 Hm,M10 × 48 -80 Hm. 16. Затяните качательную опору на балке крепления подвески до момента 20 Hm+ 90. 17. Смажьте маслом поверхность прилегания гайки, шлицы и резьбу наружного шарнира, закрутите новую гайку как можно дальше. 18. Всуньте наружный шарнир в ступицу колеса так, чтобы он соприка- сался с подшипником ступицы колеса. 19. Установите нижний защитный щИтОК. 20.Установите колесо. 21. Опустите автомобиль так,чтобы колеса не касались земли. 22. Нажмите на педаль тормоза. 23. Затяните гайку ступицы до мо- мента 250 Нм и ослабьте ее на один оборот. Подтяните гайку еще на 50 Нм +45°.
 
 
 ### 7. КАРДАННЫЙ ВАЛ С НАРУЖНЫМ И ВНУТРЕННИМ ШАРНИРАМИ РАВНЫХ УГЛОВЫХ СКОРОСТЕЙ
-`skoda_octavia_ru_ba8610b5` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:738 | doc_type:owners_manual
 Карданный вал с наружным и внутренним шарнирами равных угловых скоро- стей показан на рис. 6.27. Количество и вид консистентной смазки приведены в табл.6.1.
 
 ![](images/2ab9bc0b39597f809b7730e9988909a06bbbdf7cfa0984e33e2d59d904939058.jpg)  
@@ -28990,7 +27605,6 @@ A
 
 
 ### 8. КАРДАННЫЙ ВАЛ С ВНУТРЕННИМ ШАРНИРОМ РАВНЫХ УГЛОВЫХ СКОРОСТЕЙ «ААР 2900»
-`skoda_octavia_ru_eb2d26d6` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:739 | doc_type:owners_manual
 Внимание! Внутренние шарни- ры и внутренние шарниры равных угловых скоростей можно заправ- лять только высокотемпературной консистентной смазкой изсоответ- ствующего ремонтного комплекта.
 
 0 Заправочное количество консистентной смазки для внут- реннего шарнира равных угловых скоростей: общее количество 180 г, из чего 90 г следует набить в шарнир равных угловых скоростей и 90 г – в заднюю часть шарнира равных угловых скоростей.
@@ -29002,7 +27616,6 @@ A
 
 
 ### Разборка
-`skoda_octavia_ru_5cb616cd` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:740 | doc_type:owners_manual
 1. Снимите хомут на корпусе шарни- ра (рис. 6.39). Снимите хомут на кар- данном валу и отодвиньте защитный чехол.
 
 ![](images/d515c3fe93e5d98fe222a28350032bc602cfd8eb35ada4d94824cac8640846e9.jpg)  
@@ -29042,12 +27655,10 @@ A
 
 
 ### Сборка
-`skoda_octavia_ru_a1351769` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:741 | doc_type:owners_manual
 12. Наденьте на карданный вал хо- мут для защитного чехла. 13. Наденьте на карданный вал защитный чехол. 14. Наденьте на карданный вал шарнирныйкорпус.
 
 
 ### Сборка муфты с шипами
-`skoda_octavia_ru_64b583df` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:742 | doc_type:owners_manual
 Внимание! Фаска (стрелка) на муфте с шипами должна быть на- правлена в сторону карданного вала. Фаска служит для ориенти- ровки во время сборки.
 
 15. Закрепите карданный вал в тис- ки с защитными губками (рис. 6.45).
@@ -29086,14 +27697,12 @@ B
 
 
 ### 9. КАРДАННЫЙ ВАЛ С ВНУТРЕННИМ ШАРНИРОМ РАВНЫХ УГЛОВЫХ СКОРОСТЕЙ «ААР 2000»
-`skoda_octavia_ru_aafd252f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:743 | doc_type:owners_manual
 Карданный вал с внутренним шарниром равных угловых скоростей «ААR 2000» показан на рис. 6.50.
 
 Внимание! Заправочное количе- ство консистентной смазки для внутреннего шарнира равных угло- вых скоростей: общее количество – 120 г, из чего 60 г следует набить в шарнир равных угловых скоростей и 60 г – в заднюю сторону шарнира равных угловых скоростей.
 
 
 ### Разборка
-`skoda_octavia_ru_4b333068` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:744 | doc_type:owners_manual
 1. Снимите хомут на корпусе шарни- ра (рис. 6.39). 2.Отодвиньте защитный чехол. 3. Ослабьте с помощью отвертки зажимы (стрелки) и снимите крышку (рис.6.51).
 
 ![](images/40a67cf972e48dc2e2f89a9d30b9b30011b28bfac9d77f2dc87880ec5a892191.jpg)  
@@ -29108,12 +27717,10 @@ B
 
 
 ### Сборка
-`skoda_octavia_ru_4ff911c3` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:745 | doc_type:owners_manual
 13. Наденьте на карданный вал защитный чехол. 14. Наденьте на карданный вал шарнирный корпус.
 
 
 ### Сборка шарнира равных угловых скоростей
-`skoda_octavia_ru_61913d91` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:746 | doc_type:owners_manual
 15. Установите муфту с шипами так, чтобы маркировка на ней со- впадала с маркировкой на кардан- ном валу, и наденьте ее до упора (рис. 6.53).
 
 16. Установите новое стопорное кольцо, соблюдая при этом его пра- вильную установку. 17. Наденьте шарнирный корпус через ролики и крепко прижмите его. 18. Извлеките карданный вал из монтажного инструмента и закрепи- те его в тиски. 1. Заложите 60 г высокотемпе- ратурной консистентной смазки из ремонтного комплекта в шарнир равных угловых скоростей (со сто- роны муфты с шипами) (стрелка A) (рис. 6.47). 20. Заложите 60 г высокотемпе- ратурнойконсистентнойсмазки из ремонтного комплекта в заднюю часть шарнира равных угловых ско- ростей (стрелка В). 21. Установите защитный чехол. 22. Извлеките карданный вал из тисков и прикрепите на него шар- нирный корпус. 23. Установите в паз новое уп- лотнительное кольцо (стрелка) из ремонтного комплекта (рис. 6.54).
@@ -29134,7 +27741,6 @@ B
 
 
 ### ЗАДНЯЯ ПОДВЕСКА (барабанные тормозные механизмы)
-`skoda_octavia_ru_9ca0518c` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:747 | doc_type:owners_manual
 Задняя подвеска автомобиля с задними барабанными тормозными механиз- мами показана на рис. 6.56.
 
 2. Поднимите автомобиль так, что- бы разгрузить амортизаторную стойку. 3. Снимите колеса. 4. Ослабьте рычаг привода сто- яночной тормозной системы. 5. Откиньте или удалите сред- нюю панель в задней части. 6. Ослабьте регулировочную гайку (стрелка) (рис. 6.576).
@@ -29155,13 +27761,11 @@ B
 
 
 ### Снятие
-`skoda_octavia_ru_e5740c5a` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:748 | doc_type:owners_manual
 ![](images/1c05cb789078e9775669bf852c9e07ecb25bc34174ffa80a51349f17619f4725.jpg)  
 Рис. 6.56. Задняя подвеска автомобиля с задними барабанными тормозными механизмами:
 
 
 ### 10. СНЯТИЕ И УСТАНОВКА ЗАДНЕЙ ПОДВЕСКИ
-`skoda_octavia_ru_6dc1b552` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:749 | doc_type:owners_manual
 ![](images/5586cbb0b19325ceb5a17d1670084168c8d5e5795866d5b0fae8bbd432be777f.jpg)  
 Рис. 6.58. Отсоедините тросы привода стояночной тормозной системы 1 от рычага стояночной тормозной системы и извлеките тросы привода стояночной тор- мозной системы из направляющих труб.
 
@@ -29185,7 +27789,6 @@ B
 
 
 ### Только для автомобилей с регулятором тормозного усилия в зависимости от нагрузки (автомобили без АBS)
-`skoda_octavia_ru_66455d0f` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:750 | doc_type:owners_manual
 13. Открутите болт 1 крепления регулятора тормозногоусилия B зависимости от нагрузки (рис. 6.60).
 
 ![](images/2aff8dee880954c318e052222dc81f31ec642a3485cf5a0f0655d5d1c482f1cc.jpg)  
@@ -29193,24 +27796,20 @@ B
 
 
 ### На всех автомобилях
-`skoda_octavia_ru_5af63591` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:751 | doc_type:owners_manual
 14. Подоприте заднюю подвеску с помощью подъемника для коробки пе- редач с наконечником. 15. Открутите болты 1 резиноме- таллической опоры и опустите заднюю подвеску (рис. 6.59).
 
 
 ### Установка
-`skoda_octavia_ru_3d06f87f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:752 | doc_type:owners_manual
 16. Прежде чем устанавливать зад- нюю подвеску, смажьте почковидные поверхности резинометаллических опор сборочной пастой «G052 150 А2». Далее установка производится в порядке,обратном снятию.
 
 
 ### Снятие
-`skoda_octavia_ru_86ce9a41` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:753 | doc_type:owners_manual
 1. Отсоедините трос привода сто- яночной тормозной системы от при- жимных зажимов (стрелки) (рис. 6.59). 2.Отсоедините зажимы 2 от фикса- тора тормозных шлангов.Открутите болт 1 крепления резинометалличес- кой опоры. 3. Установите специальный инстру- мент и выбейте резинометаллическую опору из балки моста (рис. 6.61).
 
 MP 3-419 V 0 y IMP 5-400/2
 
 
 ### Установка
-`skoda_octavia_ru_cc10449d` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:754 | doc_type:owners_manual
 4.Запрессуйте резинометалличес- кую опору С в балкумоста D (рис. 6.62).
 
 ![](images/5fa348d2b89818ac39ef0d3e09340b4932c46eb963cb6e9f904d7508880fac6b.jpg)  
@@ -29234,7 +27833,6 @@ MP 3-419 V 0 y IMP 5-400/2
 
 
 ### 11.АМОРТИЗАТОРНАЯ СТОЙКА
-`skoda_octavia_ru_a6d3d3d6` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:755 | doc_type:owners_manual
 Конструкцияамортизатора показа- на на рис. 6.65.
 
 ![](images/b94870765d5439f24cb5483591a109f825229b7fcf10ce06a7e369696b13bf35.jpg)
@@ -29250,7 +27848,6 @@ MP 3-419 V 0 y IMP 5-400/2
 
 
 ### Снятие амортизатора
-`skoda_octavia_ru_802c4b5d` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:756 | doc_type:owners_manual
 1. Снимите колпак колеса. 2. Поднимите автомобиль и сни- мите колесо. 3. Открутите болты 1 и 2 и сни- мите амортизатор (рис. 6.66).
 
 ![](images/8adb13e7cc9c9a3b926d458882845964eb494feedca1273c8661e91386b3ebc5.jpg)  
@@ -29259,17 +27856,14 @@ MP 3-419 V 0 y IMP 5-400/2
 
 
 ### Снятие пружины
-`skoda_octavia_ru_a095a316` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:757 | doc_type:owners_manual
 4.Снимите колпак колеса. 5. Поднимите автомобиль и сни- мите колесо. 6. Отсоедините разъем провод- ки от датчика частоты вращения ко- леса. 7. Открутите болт 2 (рис. 6.66). 8. Опустите на некоторое расстоя- ние подъемник для коробки передач и снимите пружину.
 
 
 ### Установка
-`skoda_octavia_ru_475a5454` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:758 | doc_type:owners_manual
 9. Установка производится в поряд- ке, обратном снятию. Начало пружины (стрелка) должно прилегать к упорной поверхности подкладки (рис. 6.67).
 
 
 ### (дисковые тормозные механизмы)
-`skoda_octavia_ru_86f596e0` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:759 | doc_type:owners_manual
 Задняя подвеска с задними дисковыми тормозными механизмами показана на рис. 6.68.
 
 ![](images/31acc42e84e0fc6acd8e49c27e1e8e019a2445325402f60ad825da23f3a7350d.jpg)  
@@ -29280,7 +27874,6 @@ MP 3-419 V 0 y IMP 5-400/2
 
 
 ### Рис. 6.68. Задняя подвеска с задними дисковыми тормозными механизмами:
-`skoda_octavia_ru_ea36ef1e` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:760 | doc_type:owners_manual
 1, 2712,1317,2025 26 33 - Болты; 3 - Тормозной диск;   
 4 - Крышка; 5, 11, 28 - Гайки; 6 - Ступица колеса с подшипником и ротором датчика импульсов; 8, 30 - Защитные щитки; 9, 15 - Фиксаторы троса привода стояночной тормозной системы; 10 - Трос привода стояночной тормозной системы; 14 - Кронштейн подшипника задней подвески;   
 16 - Резинометаллическая опора; 18 - Динамический демпфер; 19 -Датчик частоты вращения АвS; 21 - Балка моста; 22 - Тарелка пружины; нижняя;   
@@ -29290,7 +27883,6 @@ MP 3-419 V 0 y IMP 5-400/2
 
 
 ### Снятие
-`skoda_octavia_ru_a669a42e` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:761 | doc_type:owners_manual
 1. Открутите болты 1 (рис. 6.57а). 2. Поднимите автомобиль так, что- бы разгрузить амортизатор и пружину. 3.Снимите колеса. 4. Ослабьте рычаг привода сто- яночной тормозной системы. 5. Отсоедините тросы привода сто- яночной тормозной системы от при- жимных зажимов (стрелки) (рис. 6.59).
 
 9. Отсоедините разъемы проводки от датчиков частоты вращения. 10.Отсоедините провода датчиков частоты вращения от зажимов фикса- тора. 11. Подоприте заднюю подвеску с помощью подъемника для коробки пе- редач с наконечником. 12. Открутите болты 1 крепления резинометаллической опоры и опусти- те заднюю подвеску.
@@ -29299,22 +27891,18 @@ MP 3-419 V 0 y IMP 5-400/2
 
 
 ### Установка
-`skoda_octavia_ru_ff4fe94a` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:762 | doc_type:owners_manual
 13. Прежде чем устанавливать зад- нюю подвеску, смажьте почковидные поверхности резинометаллических опор сборочной пастой «G 052 150 А2». Установка производится в поряд- ке,обратном снятию.
 
 
 ### 12. РЕЗИНОМЕТАЛЛИЧЕСКАЯ ОПОРА
-`skoda_octavia_ru_7a966643` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:763 | doc_type:owners_manual
 Снятие и установка резинометал- лической опоры такие же, как и для задней подвески с задними барабан- нымитормознымимеханизмами.
 
 
 ### 13. АМОРТИЗАТОР
-`skoda_octavia_ru_b1310d24` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:764 | doc_type:owners_manual
 Снятие и установка амортизатора и пружины такие же, как и для задней подвески с задними барабаннымитор- мозными механизмами.
 
 
 ### 14. ПРОВЕРКА ИЛИ РЕГУЛИРОВКА СХОЖДЕНИЯ ПЕРЕДНИХ КОЛЕС
-`skoda_octavia_ru_717cec26` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:765 | doc_type:owners_manual
 1. Ослабьте контргайку 1 (рис. 6.70). Отрегулируйте схождение путем пово- рачивания левой или же правой руле- вой тяги (или же обеих).
 
 ![](images/01b012fb267b25692d0b7e0b62cfe2663b27ff0dc0c97daacaa9840ad0efb1fd.jpg)  
@@ -29328,7 +27916,6 @@ MP 3-419 V 0 y IMP 5-400/2
 
 
 ### 15. ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ УГЛОВ УСТАНОВКИ ПЕРЕДНИХ КОЛЕС
-`skoda_octavia_ru_6e74b153` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:766 | doc_type:owners_manual
 Техническиехарактеристикиуглов установки передних колес приведены в табл. 6.2.
 
 Таблица 6.2. Технические характеристики углов установки передних колес   
@@ -29337,7 +27924,6 @@ MP 3-419 V 0 y IMP 5-400/2
 
 
 ### 16. ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ УГЛОВ УСТАНОВКИ ЗАДНИХ КОЛЕС
-`skoda_octavia_ru_064db7d3` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:767 | doc_type:owners_manual
 Технические характеристики углов установки задних колес приведены в табл. 6.3 аблица 6.3. Технические характеристики углов установки задних колес
 
 Таблица 6.5. Условное обозначение допустимой нагрузки на шину и обозначение категории скорости шины   
@@ -29348,7 +27934,6 @@ MP 3-419 V 0 y IMP 5-400/2
 
 
 ### 17. РАЗМЕРЫ ШИН, ПРИМЕНЯЕМЫХ НА АВТОМОБИЛЕ В ЗАВИСИМОСТИ ОТ ТИПА ДВИГАТЕЛЯ
-`skoda_octavia_ru_fbb7bbe7` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:768 | doc_type:owners_manual
 Размеры шин, применяемых на ав- томобиле в зависимости от типа дви- гателя приведены в табл. 6.4.
 
 Условное обозначение допустимой нагрузки на шину и обозначение кате- гории скорости шины приведены в табл. 6.5.
@@ -29360,7 +27945,6 @@ MP 3-419 V 0 y IMP 5-400/2
 
 
 ### Снятие
-`skoda_octavia_ru_228320d6` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:769 | doc_type:owners_manual
 Отсоедините отрицательный провод от батареи. 2. Установите колеса для движения по прямой. 3. Открутите болты 2 (рис. 7.1). Извлеките из фиксаторов обивку под панелью приборов 1.
 
 ![](images/8a2607f65475892bad6444747683e52ff550bc0b536117b8f37ade731b56542e.jpg)  
@@ -29419,7 +28003,6 @@ P
 
 
 ### Замена замка зажигания
-`skoda_octavia_ru_c9d3075a` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:770 | doc_type:owners_manual
 20. Высверлите болты с отрывной головкой (стрелки) и снимите замок зажигания (рис. 7.12).   
 21. Установите замок зажигания на рулевой вал и затягивайте болты с отрывной головкой (стрелки) до тех пор, пока головки не оторвутся.
 
@@ -29429,7 +28012,6 @@ P
 
 
 ### Установка
-`skoda_octavia_ru_0ef7f658` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:771 | doc_type:owners_manual
 22. Установите новую втулку 1 и болт с отрывной головкой 2 (рис. 7.13).
 
 Затягивайте болт с отрывной головкой 2 до тех пор, пока головка не оторвется.
@@ -29443,7 +28025,6 @@ P
 
 
 ### 2. РУЛЕВОЙ МЕХАНИЗМ
-`skoda_octavia_ru_afbe1708` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:772 | doc_type:owners_manual
 болт 2 и закрутите гайку 1 до момента 10 Нм. Затяните болт 3 до момента 25 HM.
 
 24. Присоедините карданный шар- нир с крестовиной к шестерне рулевого механизма и закрепите болтом 1 (рис. 7.15). Начиная с II/97 г., устанавливает- ся зажимное кольцо. Затяните болт в зажимном кольце 2 до момента 17 Нм.
@@ -29469,7 +28050,6 @@ P
 
 
 ### Снятие
-`skoda_octavia_ru_74cd9a9c` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:773 | doc_type:owners_manual
 1. Открутите гайки 1 и снимите ко- жух А (рис. 7.7).
 
 2. Открутите болт 1 (рис. 7.8). Начи- ная с II/97 г., устанавливается зажим- ное кольцо.
@@ -29537,7 +28117,6 @@ P
 
 
 ### Установка
-`skoda_octavia_ru_4b88193d` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:774 | doc_type:owners_manual
 16. Установите рулевой меха- низм с направляющей гильзой 1 на балке крепления подвески и затяни- те новые болты рукой (рис. 7.26).
 
 ![](images/bf897336f9f58b497d6678fb0bc0fec7070e59b0fcdb7ed8217ed5bc0cd7bbbb.jpg)  
@@ -29554,7 +28133,6 @@ P
 
 
 ### Снятие
-`skoda_octavia_ru_cd215848` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:775 | doc_type:owners_manual
 1. Отсоедините поперечную ру- левую тягу от рычага рулевой трапе- ции. 2. Ослабьте гайку 2 и открутите наконечник рулевой тяги 3 от попе- речной рулевой тяги 1 (рис. 7.28).
 
 ![](images/238bfc31714db6625f75a1ab2a73c3084908c40bf82cf2e931290373f2faad18.jpg)  
@@ -29562,7 +28140,6 @@ P
 
 
 ### Установка
-`skoda_octavia_ru_969819bb` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:776 | doc_type:owners_manual
 Внимание! В ходе установки ру- ководствуйтесь маркировкой на на- конечнике поперечной рулевой тяги: I. Наконечник левого звена по- перечной рулевой тяги L, II. Нако- нечник правого звена поперечной рулевой тяги R (рис. 7.29).
 
 ![](images/b605bc742f60c169133e7cdce3bd27d13cab9cb922c3749d071b48c99e447c7a.jpg)  
@@ -29577,7 +28154,6 @@ P
 
 
 ### Снятие
-`skoda_octavia_ru_857c2e5f` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:777 | doc_type:owners_manual
 1. Очистите снаружи рулевой меха- низм вокруг защитного чехла. 2. Снимите хомут и сдвиньте за- щитный чехол. 3. Открутите поперечную руле- вую тягу от зубчатой рейки рулевого механизма C помощью гаечного ключа с тарированным моментом затяжки (рис. 7.30).
 
 ![](images/a09c1caf6a040c37f6f467964a84ce176994dc9f2255cea454df3aecb9d599de.jpg)  
@@ -29585,7 +28161,6 @@ P
 
 
 ### Установка
-`skoda_octavia_ru_21a05683` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:778 | doc_type:owners_manual
 4. Прикрутите поперечную рулевую тягу к зубчатой рейке рулевого меха- низма и затяните до момента 75 Нм. 5. Проверьте установку зубчатой рейки рулевого механизма в среднее положение. Для этого проверьте раз- мер а и в случае надобности отрегулируйте его (рис. 7.31). Размер a= 30,5 Mm.
 
 6. Установите защитный чехол. Про- верьте его на отсутствие износа (тре- щин,разрывов) ичистотууплотняющих поверхностей чехла. Ни в коем случае не устанавливайте защитный чехол в перекрученном виде.
@@ -29597,7 +28172,6 @@ P
 
 
 ### 5. РЕГУЛИРОВКА РУЛЕВОГО МЕХАНИЗМА ZF
-`skoda_octavia_ru_29922d8b` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:779 | doc_type:owners_manual
 1. Поднимите автомобиль. Ко- леса должны быть установлены для движенияпрямо.
 
 2. Поворачивайте рулевое ко- лесо попеременно в одну и другую стороны вокруг средней оси (около 30°). Если люфт рулевого колеса слишком большой, то это проявит- ся стуком. Второй механик при этом должен осторожно вращать регулировочный винт (стрелка) до тех пор, пока стук не исчезнет (рис. 7.33).
@@ -29612,7 +28186,6 @@ P
 
 
 ### 6. НАСОС УСИЛИТЕЛЯ РУЛЕВОГО УПРАВЛЕНИЯ
-`skoda_octavia_ru_94f88544` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:780 | doc_type:owners_manual
 Насос усилителя рулевого управления нижнего расположения представлен на рис.7.35.
 
 ![](images/6489fffbdee448a0eb27ca3c39fe1a2d323426ce4ef4d6ce8a0d3321d91e2afa.jpg)
@@ -29623,7 +28196,6 @@ P
 
 
 ### Автомобили с насосом усилителя рулевого управления,расположенным снизу
-`skoda_octavia_ru_98eb822f` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:781 | doc_type:owners_manual
 1. Зажмите сливную трубку за- жимом для трубок «МР 7-602» (рис. 7.36).
 
 ![](images/7df40bcb5175efc7740f97877790e5310f348bd47493a889bf3a2e4ee40b91b0.jpg)  
@@ -29644,7 +28216,6 @@ P
 
 
 ### Автомобили с насосом усилителя рулевого управления, расположенным сверху
-`skoda_octavia_ru_04ec4e7c` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:782 | doc_type:owners_manual
 7. Снимите кожух двигателя.
 
 8. Зажмите сливную трубку зажи- мом для трубок «МР 7-602(рис. 7.39).
@@ -29696,7 +28267,6 @@ P
 
 
 ### Автомобили с насосом усилителя рулевого управления, расположенным сверху
-`skoda_octavia_ru_d4ba7bd3` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:783 | doc_type:owners_manual
 21. Снимите кожух двигателя.
 
 22. Установите гаечный ключ на болт натяжного ролика (рис. 7.42). Для того, чтобы ослабить натяжение реб- ристого клинового ремня, поверните натяжной ролик в направлении стрел- ки.
@@ -29744,7 +28314,6 @@ sverху
 
 
 ### Установка
-`skoda_octavia_ru_66d026e6` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:784 | doc_type:owners_manual
 29. Залейте жидкость в насос через впускное отверстие (стрелка B) (рис. 7.47). 30. Вращайте вручную ступицу насоса до тех пор, пока из напорного отверстия (стрелка А) не начнет выте- кать жидкость.
 
 ![](images/c741969ca86ccae80e76e5c7fcbcaa0890194935c4f8fe3df1cff3bb62d7a66d.jpg)
@@ -29772,7 +28341,6 @@ sverху
 
 
 ### Снятие
-`skoda_octavia_ru_97c1266f` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:785 | doc_type:owners_manual
 35. Поверните натяжной ролик с помощью гаечного ключа в направ- лении стрелки и снимите ремень привода генератора (рис. 7.49).
 
 ![](images/5c81cbfe5dcbcb328fd24e4e88f606b67ac1c1ec13ce233b4d8d6bbf1b34652a.jpg)  
@@ -29784,14 +28352,12 @@ sverху
 
 
 ### Автомобили
-`skoda_octavia_ru_e027b1a2` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:786 | doc_type:owners_manual
 без пневматического выключателя усилителя рулевого управления и с ним
 
 43. Открутите болты 1 и 4. 44. Извлеките насос усилителя рулевого управления 5 из кронш- тейна крепления.
 
 
 ### Установка
-`skoda_octavia_ru_96a17b70` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:787 | doc_type:owners_manual
 45. Залейте жидкость в насос усилителярулевого управления че- рез впускной патрубок (стрелка В) (рис.7.47). 46Вращайте вручную ступицу насоса усилителя рулевого управ- ления до тех пор, пока из нагнетаю- щего патрубка (стрелка А) не начнет вытекатьжидкость. 47. Установите насос усилителя рулевого управления в кронштейн крепления и затяните болты креп- ления 1 и 2 до момента 25 Нм (рис. 7.51).
 
 ![](images/00893503f4843892c241f010d9c0e8a2dd3cd7841ae8ef1af7df4cf17571e517.jpg)  
@@ -29801,7 +28367,6 @@ sverху
 
 
 ### На автомобилях с бензиновыми двигателями без кондиционера
-`skoda_octavia_ru_740805a0` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:788 | doc_type:owners_manual
 37. Открутитешкив с помощью гаечного ключа.   
 38. Зажмите впускной трубопро- вод между бачком и насосом с по- мощью зажима «МР7-602» (рис. 7.50).
 
@@ -29812,17 +28377,14 @@ sverху
 
 
 ### Автомобили без пневматического выключателя усилителя рулевого управления
-`skoda_octavia_ru_d0b6a3a3` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:789 | doc_type:owners_manual
 40. Открутите болт 2 и снимите на- гнетающую трубку.
 
 
 ### Автомобили с пневматическим выключателем усилителя рулевогоуправления
-`skoda_octavia_ru_8b0b5e5e` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:790 | doc_type:owners_manual
 41. Отсоедините разъем  про- водки от пневматического выклю- чателя усилителя рулевого управле- ния.
 
 
 ### 7. ПНЕВМАТИЧЕСКИЙ ВЫКЛЮЧАТЕЛЬ УСИЛИТЕЛЯ РУЛЕВОГО УПРАВЛЕНИЯ
-`skoda_octavia_ru_bb765a30` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:791 | doc_type:owners_manual
 Пневматический выключатель усилителя рулевого управления, встроенный в насосе рулевого усилителя, служит для стабилизации частоты вращения вала двигателя на холостом ходу, когда поворачивается рулевое колесо стоящего на месте автомобиля.
 
 Пневматический выключатель усилителя рулевого управления показан на рис.7.52.
@@ -29834,7 +28396,6 @@ sverху
 
 
 ### 1. УДАЛЕНИЕ ВОЗДУХА ИЗ ТОРМОЗНОЙ СИСТЕМЫ
-`skoda_octavia_ru_dac41c6e` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:792 | doc_type:owners_manual
 1. Наденьте шланг на резьбовую пробку вентиляционного отверстия и откройте пробку.
 
 2. Нажимайте повторно на педаль управления тормозной системой, в ре- зультате чего тормозная система про- моется тормозной жидкостью.
@@ -29849,7 +28410,6 @@ sverху
 
 
 ### Регулировка
-`skoda_octavia_ru_b1652443` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:793 | doc_type:owners_manual
 1.Снимите щиток, находящийся под панелью приборов со стороны во- дителя.
 
 2. Отсоедините разъем проводки от выключателя сигнала торможения.
@@ -29871,7 +28431,6 @@ sverху
 
 
 ### 3. ВАКУУМНЫЙ УСИЛИТЕЛЬ ТОРМОЗНОГО ПРИВОДА
-`skoda_octavia_ru_e08bb995` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:794 | doc_type:owners_manual
 Вакуумный усилитель тормозного привода вместе с главным тормозным цилиндром показан на рис. 8.2.
 
 ![](images/338d8d0542d0c575c540f8b52d500634c759d43d02fec3b15e783ecdd0910c16.jpg)  
@@ -29881,7 +28440,6 @@ sverху
 
 
 ### Снятие
-`skoda_octavia_ru_d1d309eb` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:795 | doc_type:owners_manual
 1.Снимите гидравлический блок ABS.
 
 2. Отсоедините разъем провод- ки 1 от датчика аварийного падения уровня тормозной жидкости (рис. 8.3). Отсоедините трубку 2 от главного ци- линдра сцепления, зажав ее зажимом для трубок «МР 7-602». Отсоедините трубку 2 от бачка тормозного привода 3 и закрепите его сбоку.
@@ -29907,7 +28465,6 @@ sverху
 
 
 ### Установка
-`skoda_octavia_ru_e70804dd` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:796 | doc_type:owners_manual
 8. Установите вакуумный усилитель тормозного привода и затяните новые гайки до момента 25 Нм. 9. Присоедините педаль тормоза к вакуумному усилителю тормозного привода (рис. 8.6). 10. Установите выключатель сигна- ла торможения и отрегулируйте его по- ложение. 11. Далее установка проводится в порядке, обратном снятию.
 
 ![](images/b8e2aaaaf9c980064fd3c5246491f91393ddca4b15fdfa2ed2416fe46c0ea449.jpg)  
@@ -29915,12 +28472,10 @@ sverху
 
 
 ### 4. ГЛАВНЫЙ ТОРМОЗНОЙ ЦИЛИНДР
-`skoda_octavia_ru_d46af216` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:797 | doc_type:owners_manual
 Главный тормозной цилиндр пред- ставлен на рис. 8.2.
 
 
 ### с двигателями 1.6 л/55 кВт
-`skoda_octavia_ru_5c386858` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:798 | doc_type:owners_manual
 2. Отсоедините разъем проводки 1 от датчика расхода воздуха на воздухо- заборнике воздушного фильтра. От- крутите болты 2 от воздушного фильт- ра 3 и снимите фильтр (рис. 8.7).
 
 ![](images/7dc1c49451e53c38035482192357411fe13d3595514b7e1977dfebd7f68a4bc3.jpg)  
@@ -29930,7 +28485,6 @@ sverху
 
 
 ### На всех автомобилях
-`skoda_octavia_ru_706116e0` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:799 | doc_type:owners_manual
 4. Отсоедините разъем проводки 1 от датчика аварийного падения уровня тормозной жидкости (рис. 8.3).
 
 5. Извлеките как можно больше тор- мозной жидкости из бачка тормозного привода.
@@ -29947,12 +28501,10 @@ sverху
 
 
 ### Установка
-`skoda_octavia_ru_2e0f7e9b` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:800 | doc_type:owners_manual
 11. Установка проводится в поряд- ке, обратном снятию. Замените уплот- нительное кольцо междуглавным тор- мозным цилиндром и вакуумным уси- лителем тормозного привода.
 
 
 ### 5. ТОРМОЗНЫЕ МЕХАНИЗМЫ ПЕРЕДНИХ КОЛЕС
-`skoda_octavia_ru_d2d2d444` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:801 | doc_type:owners_manual
 5.1. Дисковые тормозные механизмы FS-III передних колес Дисковые тормозные механизмы передних колес показаны на рис. 8.8.
 
 ![](images/114434ee0a60135caae84960824959f40a6b1d441454853a286c37fa68dec932.jpg)  
@@ -29962,7 +28514,6 @@ sverху
 
 
 ### Снятие
-`skoda_octavia_ru_5aa699ea` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:802 | doc_type:owners_manual
 1. Снимите колеса.   
 2. Снимите крышки 2 (рис. 8.9).
 
@@ -29996,12 +28547,10 @@ sverху
 
 
 ### 5.1.2. Суппорт дискового тормозного механизма
-`skoda_octavia_ru_51f7144e` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:803 | doc_type:owners_manual
 Суппорт дискового тормозного механизма показан на рис. 8.13.
 
 
 ### Установка
-`skoda_octavia_ru_95d3a0a8` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:804 | doc_type:owners_manual
 6. Почистите корпус суппорта дис- кового тормозногомеханизма.
 
 7. Вдавите поршень с помощью приспособления для установки порш- ней «МР 9-403»(рис. 8.11).
@@ -30013,7 +28562,6 @@ sverху
 
 
 ### Разборка
-`skoda_octavia_ru_1482f0d9` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:805 | doc_type:owners_manual
 Рис. 8.13. Суппорт дискового тормозного механизма: 1 - Колпачок; 2 - Пробка; 3 - Втулка; 4 - Направляющие пальцы; 5 - Крышки; 6 - Суппорт; 7 - Сальник; 8 - Поршень; 9 - Защитная крышка.
 
 1. Выдавите сжатым воздухом пор- шень из опоры суппорта (стрелка) (рис. 8.14).
@@ -30028,7 +28576,6 @@ sverху
 
 
 ### Сборка
-`skoda_octavia_ru_c793c33c` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:806 | doc_type:owners_manual
 3. Очистите поверхности поршня и сальника и просушите их.
 
 4. Смажьте поршень и сальник тор- мозной жидкостью перед установкой.
@@ -30050,7 +28597,6 @@ sverху
 
 
 ### 5.2. ДИСКОВЫЕ ТОРМОЗНЫЕ МЕХАНИЗМЫ FN-3 ПЕРЕДНИХ КОЛЕС
-`skoda_octavia_ru_fd277d40` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:807 | doc_type:owners_manual
 Дисковые тормозные механизмы FN-3 передних колес показаны на рис. 8.19
 
 ![](images/e146e2466206122004b7e15eb738a64bd22482c879a918ba65f67238a58da8b4.jpg)  
@@ -30058,7 +28604,6 @@ sverху
 
 
 ### Снятие
-`skoda_octavia_ru_3c73d321` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:808 | doc_type:owners_manual
 1.Снимите колеса. 2.Снимите крышки (стрелки) (рис. 8.20).
 
 ![](images/9fd2b88d083174c34d36a05d8da8f227cba210cdaa9c7befc98dbb4d9f26e41f.jpg)  
@@ -30082,7 +28627,6 @@ sverху
 
 
 ### Установка
-`skoda_octavia_ru_336a21a3` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:809 | doc_type:owners_manual
 8. Установите _фрикционные на- кладки (рис. 8.23). Проследите за тем, чтобы стрелка на опорной части фрик- ционной накладки была направлена в собранном состоянии вниз.
 
 ![](images/9fffdbc6cbcd3f3bdea7f385b221ffce2569ffe5557072bc69a84caaa5d507b0.jpg)  
@@ -30115,7 +28659,6 @@ sverху
 
 
 ### 5.2.2. Суппорт дискового тормозного механизма
-`skoda_octavia_ru_8dc74de2` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:810 | doc_type:owners_manual
 Суппорт дискового тормозного механизма представлен на рис. 8.27.
 
 ![](images/85177642fa403860c1dbcaa72b0796da6a5c95ab4a5cc1231db0642bf82cb2b8.jpg)  
@@ -30123,7 +28666,6 @@ sverху
 
 
 ### Разборка
-`skoda_octavia_ru_c838447b` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:811 | doc_type:owners_manual
 1. Выпрессуйте сжатым воздухом поршень из опоры суппорта (стрелка) (рис. 8.28).
 
 ![](images/18f65b68727e76a4f2c4422618a48a9079036f6d76f19bb0a7c4ed21ce7aa925.jpg)  
@@ -30141,7 +28683,6 @@ sverху
 
 
 ### Сборка
-`skoda_octavia_ru_33011e9b` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:812 | doc_type:owners_manual
 3. Очистите поверхности поршня и сальника и просушите их. 4. Перед установкой смажьте пор- шень и сальниктормозной жидкостью. 5. Вставьте новый сальник в паз суппорта дискового тормозного меха- низма. 6. Наденьте сальник наружной уп- лотняющей кромкой на поршень (рис. 8.16). 7. Установите внутреннюю уплотня- ющую кромку сальника в канавку ци- линдра с помощью пластмассового клина «3409» (рис. 8.30).
 
 ![](images/ffcb6e5f828df17b38a8dd546813f9bd52c13baf65f0ca4ba06d09990285d1b0.jpg)  
@@ -30149,7 +28690,6 @@ sverху
 
 
 ### 6.1. Барабанные тормозные механизмы
-`skoda_octavia_ru_9c9fd1d7` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:813 | doc_type:owners_manual
 Барабанные тормозные механизмы задних колес показаны на рис. 8.32а,б.
 
 ![](images/286c9c215c99891187b467502ee8655f0b42e943f42a05ff5b066f88e03653e7.jpg)
@@ -30198,7 +28738,6 @@ sverху
 
 
 ### Снятие
-`skoda_octavia_ru_acbc21f7` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:814 | doc_type:owners_manual
 1. Снимите колеса. 2.Снимите тормозной барабан. 3.Снимите тарелку пружины. 4. С помощью отвертки удалите тормозные колодки в направлении стрелки (рис. 8.33).
 
 ![](images/67f5376b27b03635f1a332517f9e50e4bfeede8781738c87a623e538b45cfaed.jpg)  
@@ -30215,7 +28754,6 @@ sverху
 
 
 ### Проверка
-`skoda_octavia_ru_4e7fcd26` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:815 | doc_type:owners_manual
 11. Отожмите пылезащитный чехол, используя для этого пластмассовый клин «3409» (рис. 8.36). Если внутри пылезащитного чехла есть тормозная жидкость, то необходимо заменить ко- лесный тормозной цилиндр.
 
 ![](images/799c849ee18d91cba2c6668534a2f98cebd7cb98eea6cf759c90b2de4199663a.jpg)  
@@ -30233,7 +28771,6 @@ sverху
 
 
 ### Установка
-`skoda_octavia_ru_578d49d0` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:816 | doc_type:owners_manual
 13. Прицепите  стяжную пружину тормозных колодок к тормозной ко- лодке (рис. 8.38).
 
 14. Смажьте поверхность касания разжимного рычага твердой пластич- ной смазкой.
@@ -30268,7 +28805,6 @@ sverху
 
 
 ### 6.2. Дисковые тормозные механизмы
-`skoda_octavia_ru_6ecd57d4` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:817 | doc_type:owners_manual
 Дисковые тормозные механизмы задних колес показаны на рис. 8.40.
 
 ![](images/6870f15b1caff7a2907508eaaec15cd2a2e659b547a15993aace4ba51010134e.jpg)
@@ -30279,7 +28815,6 @@ sverху
 
 
 ### Снятие
-`skoda_octavia_ru_ef1c3cec` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:818 | doc_type:owners_manual
 1. Снимите колеса. 2. Отцепите трос привода сто- яночной тормозной системы от суп- порта дискового тормозного меха- низма 3. Выкрутите болты из корпуса опоры суппорта дискового тормоз- ного механизма, придерживая при этом направляющие пальцы (рис. 8.41).
 
 ![](images/3b42eafe190f3d28290935ffbfc44a592028c1ccbd569978283f35082300606e.jpg)  
@@ -30293,7 +28828,6 @@ sverху
 
 
 ### Установка
-`skoda_octavia_ru_8a15ba57` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:819 | doc_type:owners_manual
 Внимание! Установите мон- тажный инструмент «МР 9-401» та- ким образом,чтобы буртик инстру- мента (стрелка В) прилегал к суп- порту дискового тормозного меха- низм. При тугоподвижном поршне используйте гаечный ключ (стрелка A) (рис. 8.42).
 
 ![](images/bcc8c96ca908768247d9ad15f7c09a32cd0aa8f18d6331478de94d73ac229398.jpg)  
@@ -30312,14 +28846,12 @@ sverху
 
 
 ### Момент затяжки: 35 Нм.
-`skoda_octavia_ru_7166661e` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:820 | doc_type:owners_manual
 11. Присоедините трос привода стояночной тормозной системы K суппорту дискового тормозного ме- ханизма.   
 1 Отрегулируйте рычаг приво- да стояночной тормозной системы.   
 13. Установите колеса.
 
 
 ### 6.2.2. Суппорт тормозного мөханизма
-`skoda_octavia_ru_55a42c20` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:821 | doc_type:owners_manual
 Суппорт тормозного механизма заднего колеса показан на рис. 8.44.
 
 ![](images/b1bb5b75549a3e68c86e64edd0ed85ea914fed0acdab132794f6f1994d04597a.jpg)  
@@ -30329,7 +28861,6 @@ sverху
 
 
 ### Снятие
-`skoda_octavia_ru_69334c5f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:822 | doc_type:owners_manual
 Внимание! Установите монтаж- ный инструмент «МР 9-401» таким образом, чтобы буртик инструмен- та находился перед поршнем (стрелка В). Для тугоподвижных поршней для выполнения этой ра- боты примените (стрелка А) гаеч- ный ключ (рис. 8.45).
 
 ![](images/41158655cf96fe775386cfe456ac13ea679f6253019065dfa697f1af79c30f2d.jpg)  
@@ -30345,7 +28876,6 @@ sverху
 
 
 ### Установка
-`skoda_octavia_ru_3f7d59d1` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:823 | doc_type:owners_manual
 3. Очистите спиртом поверхности поршня и сальника и просушите их. 4. Перед установкой смажьте пор- шень и сальниктормознойжидкостью. 5. Наденьте сальник наружной уп- лотняющей кромкой на поршень (рис. 8.47).
 
 ![](images/82569a2dfa094d45590b040df4e7b308cd9b238582cb13162a365276eac0b7cd.jpg)  
@@ -30358,7 +28888,6 @@ sverху
 
 
 ### Снятие
-`skoda_octavia_ru_5375dce8` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:824 | doc_type:owners_manual
 На всех автомобилях
 
 1. Снимите среднюю консоль меж- ду передними сиденьями в задней части.
@@ -30374,12 +28903,10 @@ sverху
 
 
 ### На автомобилях с задними барабанными тормозными механизмами
-`skoda_octavia_ru_a44c7fdd` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:825 | doc_type:owners_manual
 6. Снимите тормозной барабан. 7.Отцепите трос привода стояноч- ной тормозной системы от рычага на тормозной колодке.
 
 
 ### На автомобилях с задними дисковыми тормозными механизмами
-`skoda_octavia_ru_90b09e9c` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:826 | doc_type:owners_manual
 8. Ослабьте отверткой крепление хомута 1 и снимите его в направлении ВНИЗ.
 
 Нажмите рычаг привода стояноч- ной тормозной системы 2 в направле- нии стрелки и отцепите трос привода стояночной тормозной системы 3 (рис. 8.50).
@@ -30389,12 +28916,10 @@ sverху
 
 
 ### На всех автомобилях
-`skoda_octavia_ru_39472d53` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:827 | doc_type:owners_manual
 9. Отцепите трос привода сто- яночной тормозной системы от хо- мута на задней подвеске (стрелка A) и отсоедините его из фиксаторов (стрелки) (рис. 8.51).
 
 
 ### 8. ГИДРАВЛИЧЕСКИЙ БЛОК АВS
-`skoda_octavia_ru_ff7ea1a1` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:828 | doc_type:owners_manual
 Гидравлический блок АBS показан  на рис. 8.53.
 
 ![](images/2f11b047609441850039d9565803c37b51eb8efb2c6e865ee0bcdad73baafeef.jpg)  
@@ -30409,12 +28934,10 @@ N —
 
 
 ### Установка
-`skoda_octavia_ru_bdfb19b1` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:829 | doc_type:owners_manual
 11. Установка производится в по- рядке, обратном снятию.
 
 
 ### Кроме двигателей 1.6 л/55 кВт:
-`skoda_octavia_ru_6d13e714` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:830 | doc_type:owners_manual
 1. Отсоедините разъем проводки 1 от датчика расхода воздуха в воз- духозаборнике воздушного фильт- ра. Открутите болты 2 от воздушного фильтра 3 и снимите фильтр. 2. На дизельных двигателях сни- мите коробкуреле над вакуумным уси- лителем тормозного привода. 3.Извлекитеиз бачкагидравличес- кого тормозного привода как можно большее количествожидкости. 4. Нажмите педаль тормоза и за- фиксируйте ее с помощью приспособ- ления «V.A.G 1238/В» (рис. 8.54).
 
 ![](images/29f4e7a049a74339091532f1dffd0c7ba5e0cf45fbfc7954cb85fe55ba5472c5.jpg)  
@@ -30451,12 +28974,10 @@ N —
 
 
 ### Установка
-`skoda_octavia_ru_03774529` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:831 | doc_type:owners_manual
 14. Прикрутите  гидравлический блок к кронштейну. 15. Присоедините трубопрово- ды тормозного привода к гидравли- ческому блоку и затяните их. 16.Прикрутите гидравлический блок (стрелки) (рис. 8.58). 17.Присоедините многоконтактный разъем проводки к блоку управления ABS и закрепите его. 18. Далее установка проводится в порядке, обратном снятию.
 
 
 ### Снятие
-`skoda_octavia_ru_899b4ae1` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:832 | doc_type:owners_manual
 1. Поднимите автомобиль. 2. Отсоедините разъем провод- ки от датчика частоты вращения (стрелка) и открутите болт 2 (рис. 8.59).
 
 ![](images/79252861db3c01bc6bd046223cf6589a80ddf940c2425e72edca52bab2436d68.jpg)  
@@ -30469,7 +28990,6 @@ N —
 
 
 ### Установка
-`skoda_octavia_ru_d040d6ff` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:833 | doc_type:owners_manual
 4. Перед  установкой датчика смажьте внутреннюю поверхность пла- стичной смазкой.
 
 5. Установите датчик частоты вращения переднего колеса в пово- ротный кулак колеса, а заднего – в отверстие в цапфе и затяните болт крепления датчиков до момента 8 Нм.   
@@ -30479,18 +28999,15 @@ N —
 
 
 ### Проверка ротора
-`skoda_octavia_ru_120b685f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:834 | doc_type:owners_manual
 9. Приподнимите автомобиль.   
 10. Снимите колесо.
 
 
 ### На колесах передней оси
-`skoda_octavia_ru_8d3860b3` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:835 | doc_type:owners_manual
 11. Путем вращения тормозного диска проверьте ротор 1 на отсут- ствие загрязнений и повреждений (рис. 8.59). Если отверстия ротора за- сорены, то необходимо их очистить.
 
 
 ### На колесах задней оси (дисковые тормозные механизмы)
-`skoda_octavia_ru_1290716e` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:836 | doc_type:owners_manual
 12. Открутите болты А и снимите суппорт дискового тормозного ме- ханизма (рис. 8.61).
 
 ![](images/d0a582ea33304c69c6f43b06422799a4b916873cb0a48b4d1c5640330c315716.jpg)  
@@ -30498,7 +29015,6 @@ N —
 
 
 ### На колесах задней оси (барабанные тормозные механизмы)
-`skoda_octavia_ru_1627b28c` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:837 | doc_type:owners_manual
 13. Снимите тормозной барабан.   
 14.При повреждении ротора необ- ходимо заменить его вместе со ступи- цей колеса.   
 15.Установите колесо.   
@@ -30506,7 +29022,6 @@ N —
 
 
 ### Проверка торцевого биения ротора колеса
-`skoda_octavia_ru_fb5cee74` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:838 | doc_type:owners_manual
 17. Приподнимите автомобиль. 18. Снимите колесо. 19. Вращая ступицу колеса, про-   
 верьте равномерность расстояния   
 между ротором и датчиком частоты   
@@ -30537,7 +29052,6 @@ N —
 
 
 ### На автомобилях с дизельным двигателем
-`skoda_octavia_ru_06c25f62` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:839 | doc_type:owners_manual
 2. Снимите батарею и кронштейн ее крепления (рис. 9.1).
 
 ![](images/a89558f163c55c847ee63c15e52399af604e25f73b520e15a379298d90f8a7f0.jpg)  
@@ -30545,7 +29059,6 @@ N —
 
 
 ### На всех автомобилях
-`skoda_octavia_ru_245b521c` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:840 | doc_type:owners_manual
 3. Отсоедините разъемы проводки 1 и 3 и провода 2 от фиксаторов (рис. 9.2).
 
 3 6 2
@@ -30554,12 +29067,10 @@ N —
 
 
 ### Установка
-`skoda_octavia_ru_5f825cf0` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:841 | doc_type:owners_manual
 7. Установка проводится в порядке, обратном снятию.
 
 
 ### Снятие
-`skoda_octavia_ru_7965ee71` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:842 | doc_type:owners_manual
 1. Отсоедините отрицательный провод от батареи.   
 2.Переместите натяжной ролик в направлении стрелки и ослабьте ремень привода генератора (рис. 9.4).
 
@@ -30571,7 +29082,6 @@ N —
 
 
 ### 2.1. Автомобили с бензиновыми двигателями
-`skoda_octavia_ru_607e3972` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:843 | doc_type:owners_manual
 5. Отсоедините нагнетающую труб- ку от усилителя рулевого механизма и снимите его с фиксатора (правая стрелка) (рис. 9.3).
 
 3. Снимите ремень привода гене- ратора.
@@ -30598,12 +29108,10 @@ HHAH/--O
 
 
 ### Установка
-`skoda_octavia_ru_11fbbb9d` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:844 | doc_type:owners_manual
 6. Установка проводится в порядке, обратном снятию.
 
 
 ### На автомобилях с кондиционером
-`skoda_octavia_ru_20753f6a` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:845 | doc_type:owners_manual
 ![](images/3b35d47385b2b41bcb89082c3422b4b6378761af0def9e83454ac749f8269ef6.jpg)  
 Рис. 9.6. Переместите натяжной ролик в направлении стрелки и ослабьте ремень привода генератора.   
 Рис. 9.7. Открутите болты компрессора А.
@@ -30612,17 +29120,14 @@ HHAH/--O
 
 
 ### с дополнительным радиатором
-`skoda_octavia_ru_021d0a79` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:846 | doc_type:owners_manual
 9. Снимите вентилятор дополни- тельного радиатора.
 
 
 ### Установка
-`skoda_octavia_ru_e35752cb` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:847 | doc_type:owners_manual
 11. Установка проводится в поряд- ке, обратном снятию.
 
 
 ### Снятие
-`skoda_octavia_ru_f986f412` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:848 | doc_type:owners_manual
 1. Открутите болт (стрелка) (рис. 9.8).
 
 ![](images/bb0630efeed81fbc801aebab7601c3cf6c242fdfcc6c6e0f182c2261cc96dcac.jpg)  
@@ -30639,7 +29144,6 @@ HHAH/--O
 
 
 ### Регулировка положения фар
-`skoda_octavia_ru_effd691d` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:850 | doc_type:owners_manual
 8. Для регулировки положения фары по высоте вращайте регули- ровочный болт над фарой с помо- щью отвертки (рис. 9.10).
 
 ![](images/e6205ca898320277672fdf42503328d259574ea2795db37e64fa0a43f76caccf.jpg)  
@@ -30654,7 +29158,6 @@ HHAH/--O
 
 
 ### 1. ПЕРЕДНЯЯ ЧАСТЬ КУЗОВА
-`skoda_octavia_ru_15093c6c` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:851 | doc_type:owners_manual
 Сборочная схема передней части кузова показана на рис. 10.1.
 
 ![](images/980ccafd34da558bd3fa0ae29e96fd3f5c31e15ae7d594f6c8a021ed1f7c634d.jpg)  
@@ -30662,7 +29165,6 @@ HHAH/--O
 
 
 ### Разборка
-`skoda_octavia_ru_8adc4025` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:852 | doc_type:owners_manual
 1. Отсоедините разъемы проводки и трубки системы охлаждения, отсо- едините трос открывания капота.
 
 2. Отсоедините трубки кондицио- нера (если он установлен на автомо- биле).
@@ -30679,14 +29181,12 @@ HHAH/--O
 
 
 ### Разборка
-`skoda_octavia_ru_e7e4c7f6` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:853 | doc_type:owners_manual
 1. Снимите бампер. 2. Снимите переднюю фару. 3. Выкрутите винты 2 и 3 крепле- ния передней стенки кузова 1 (рис. 10.2). 4. Выкрутите винты 1 кронштейна крепления радиатора 3, закрепите ра- диатор 4 на двигателе (рис. 10.3).
 
 5. Снимите модуль передней стен- ки кузова 2 в направлении движения автомобиля. 6. Снимите остальные установлен- ные детали передней стенки.
 
 
 ### Сборка
-`skoda_octavia_ru_757c69c1` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:854 | doc_type:owners_manual
 7. Сборка проводится в порядке, обратном разборке.
 
 ![](images/c12fb84da2fa8311807db8ac29a2a01bc8d9cd55bb81b7c609ff8f5a9446a46e.jpg)  
@@ -30697,17 +29197,14 @@ HHAH/--O
 
 
 ### 3. СБОРОЧНАЯ СХЕМА ПЕРЕДНЕГО КРЫЛА
-`skoda_octavia_ru_7fda7160` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:855 | doc_type:owners_manual
 Сборочная схема переднего крыла показана на рис. 10.4.
 
 
 ### 4. КАПОТ
-`skoda_octavia_ru_6c8b8292` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:856 | doc_type:owners_manual
 Капот показан на рис. 10.5а, а за- пирающее устройство капота - на рис. 10.56.
 
 
 ### Снятие
-`skoda_octavia_ru_344236c4` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:857 | doc_type:owners_manual
 1. Отцепите трос 1 от запирающе- го устройства капота (рис. 10.6).
 
 ![](images/2281d9f9f56f204745c655f1e9dcf849e9f3eaf32e42a454c571b8f0a5c2d7d9.jpg)  
@@ -30729,12 +29226,10 @@ HHAH/--O
 
 
 ### Установка
-`skoda_octavia_ru_5887ef41` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:858 | doc_type:owners_manual
 4. Установка проводится в поряд- ке, обратном снятию.
 
 
 ### Регулировка
-`skoda_octavia_ru_8cd01e79` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:859 | doc_type:owners_manual
 Капот должен хорошо прилегать к кузову. Соблюдайте равномерныйзазор между капотом и кузовом. Капот должен закрываться И открываться свободно.
 
 ![](images/19be98bdd2bfd373061c7869535df3e8cc689481e4589c76a624ed706606368c.jpg)  
@@ -30742,7 +29237,6 @@ HHAH/--O
 
 
 ### Снятие
-`skoda_octavia_ru_c45bd9b4` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:860 | doc_type:owners_manual
 1. Снимите молдинг крышки ба- гажника. 2. Отсоедините разъемы проводки и извлеките провод из крышки. 3. Снимите газонаполненные амортизаторы. 4.Выкрутите винты 1 крепления шарниров 2 и снимите крышку (рис. 10.7).
 
 ![](images/90f65094a9aa9a9174a1c705ef87b462a33790212a48c172550d32f18f929ba5.jpg)  
@@ -30750,12 +29244,10 @@ HHAH/--O
 
 
 ### Установка
-`skoda_octavia_ru_3a01bc2c` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:861 | doc_type:owners_manual
 5. Установка проводится в поряд- ке, обратном снятию.
 
 
 ### Снятие
-`skoda_octavia_ru_05ce9b3f` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:862 | doc_type:owners_manual
 1. Откройте крышку багажника и подоприте ее.
 
 2. Приподнимите отверткой хомут крепления 2, снимите газонаполнен- ный амортизатор с шарового шарнира крепежного уголка 1 (рис. 10.8).
@@ -30764,7 +29256,6 @@ HHAH/--O
 
 
 ### Установка
-`skoda_octavia_ru_d8bf03d0` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:863 | doc_type:owners_manual
 3. Установка проводится в поряд- ке, обратном снятию.
 
 ![](images/bea545b61c348902d4d1317c6e1bec17aee818e90d9563fb8a79d66d6570e228.jpg)  
@@ -30772,7 +29263,6 @@ HHAH/--O
 
 
 ### 7. ЗАМОК КРЫШКИ БАГАЖНИКА
-`skoda_octavia_ru_636360ba` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:864 | doc_type:owners_manual
 Замок крышки багажника показан на рис. 10.9.
 
 ![](images/14bc7b9c3f3ce7ee2fc1edc8097ad35784248470e3e9126796ad16a7b65cf8be.jpg)  
@@ -30781,7 +29271,6 @@ HHAH/--O
 
 
 ### 8. ЗАЛИВНАЯ ГОРЛОВИНА ТОПЛИВНОГО БАКА
-`skoda_octavia_ru_6c08ec96` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:865 | doc_type:owners_manual
 Заливная горловина топливного бака показана на рис. 10.10.
 
 5 6 7 8
@@ -30790,7 +29279,6 @@ HHAH/--O
 
 
 ### 9. ПЕРЕДНЯЯ ДВЕРЬ
-`skoda_octavia_ru_ba1b1482` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:866 | doc_type:owners_manual
 Передняя дверь показана на рис. 10.11.
 
 ![](images/3b99622642fcfdd2e97a0e7bcaa26f269d98732b3a56230013382623b3eaf766.jpg)  
@@ -30798,7 +29286,6 @@ HHAH/--O
 
 
 ### Снятие
-`skoda_octavia_ru_50f1426f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:867 | doc_type:owners_manual
 1. Извлеките нижнюю обивку (па- нель) стойки А.   
 2. Отсоедините разъем проводки 1 на стойке А (рис. 10.12).   
 3. Выкрутите стопорную шпильку 1 из верхней петли (рис. 10.13).   
@@ -30807,12 +29294,10 @@ HHAH/--O
 
 
 ### Установка
-`skoda_octavia_ru_6addfdff` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:868 | doc_type:owners_manual
 6. Установка проводится в поряд- ке, обратном снятию.
 
 
 ### Регулировка
-`skoda_octavia_ru_0a69115c` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:869 | doc_type:owners_manual
 7. Для того чтобы обеспечить точ- ное регулирование двери, ослабьте крепление петель как на стойке, так и на двери.
 
 8. Ослабьте винты и отрегулируйте положение двери. Дверь отрегулиро- вана правильно тогда, когда после ее закрытия повсюду имеется равномер- ное расстояние от выреза для двери в боковине кузова и дверь точно при- гнана к кузову также по высоте.
@@ -30825,14 +29310,12 @@ HHAH/--O
 
 
 ### Снятие
-`skoda_octavia_ru_53521d51` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:870 | doc_type:owners_manual
 1. Снимите молдинг двери. Снимите шумопоглощающую и уплотнительную пленку. 3. Опустите или же поднимите стекло так, чтобы зажимные колодки стекла попали в монтажные отвер- стия.
 
 4. Ослабив гайки 1, раздвиньте за- жимные колодки (рис. 10.14). 5. Извлеките стекло двери наверх и закрепите его (напр. клейкой лен- той). 6. Ослабьте винты 2 крепления стеклоподъемника. 7. Отцепите трос. Если на автомо- биле установлены электростекло- подъемники,отсоедините разъем проводки. 8Приподнимите стеклоподъем- ник так, чтобы иметь возможность вы- тащить винты 2 через монтажные от- верстия. 9. Извлеките стеклоподъемник че- рез монтажное отверстие вниз.
 
 
 ### Установка
-`skoda_octavia_ru_4c088fcd` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:871 | doc_type:owners_manual
 10. Установка проводится в поряд- ке, обратном снятию.
 
 ![](images/f491b495bcfded37227fe407c8e9e7ca887d281a43900a4a76e8606e26b7b251.jpg)  
@@ -30840,7 +29323,6 @@ HHAH/--O
 
 
 ### 11. НАРУЖНАЯ ДВЕРНАЯ РУЧКА
-`skoda_octavia_ru_f9fe00f5` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:872 | doc_type:owners_manual
 Наружная дверная ручка показана на рис. 10.15.
 
 ![](images/2f450f039848b3f93c0a7853052206998b4d4c204cc59157f2de6c2d555652d9.jpg)
@@ -30855,12 +29337,10 @@ HHAH/--O
 
 
 ### Снятие
-`skoda_octavia_ru_9829276b` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:873 | doc_type:owners_manual
 1. Потяните  наружную дверную ручку 3 до упора в направлении стрелки А и удерживайте ее в этом положении (рис. 10.16). 2. Снимите колпачок 1. 3. Поворачивайте винт 4 в направ- лении стрелки В до появления сопро- тивления. 4. Повернув цилиндр замка 2 со всунутым ключом в направлении стрелки С, извлеките его в направле- нии стрелки D. 5. Отцепите трос 1 от ручки 2 (рис. 10.17). 6. Сдвиньте ручку 2 в направлении стрелки А и переместите ее в направ- лении стрелки В.
 
 
 ### Установка
-`skoda_octavia_ru_ccca6454` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:874 | doc_type:owners_manual
 7. Установка проводится в поряд- ке, обратном снятию.
 
 ![](images/1e12c1f47c75919f3a8e0beb1ea19c0a2663dd02cce38cde4c69b97cdb73a4c1.jpg)
@@ -30889,7 +29369,6 @@ HHAH/--O
 
 
 ### 12. ЗАДНЯЯ ДВЕРЬ
-`skoda_octavia_ru_3774730d` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:875 | doc_type:owners_manual
 Задняя дверь показана на рис. 10.18.
 
 ![](images/304e2ff75b37906a7ae6bbcfe7947906f29db8b2199d4db675bcaa809771fbf0.jpg)
@@ -30911,7 +29390,6 @@ HHAH/--O
 
 
 ### Снятие
-`skoda_octavia_ru_da9833d9` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:876 | doc_type:owners_manual
 1. Отсоедините разъем проводки   
 1, находящийся в резиновой проход-   
 ной втулке 2 в стойке В (рис. 10.19). 2. Выкрутите шпильку 1 из верхней   
@@ -30920,7 +29398,6 @@ HHAH/--O
 
 
 ### Установка
-`skoda_octavia_ru_52a38cdc` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:877 | doc_type:owners_manual
 5. Установка проводится в поряд- ке, обратном снятию.
 
 ![](images/20e42456c6b16e2c44d8032d5a4a811910724f191cfaed510ba9fbfa5bc0e33d.jpg)  
@@ -30931,27 +29408,22 @@ HHAH/--O
 
 
 ### 13. БАМПЕРЫ
-`skoda_octavia_ru_b1faac67` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:878 | doc_type:owners_manual
 Передний бампер показан на рис. 10.21а, задний бампер - на рис. 10.216, задний бампер Осtaviа Сombi - на рис. 10.21в.
 
 
 ### 14. ПОДКРЫЛЬНИКИ
-`skoda_octavia_ru_346f8c7f` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:879 | doc_type:owners_manual
 Подкрыльник переднего крыла по- казан на рис. 10.22а, заднего крыла - на рис. 10.226.
 
 
 ### 15. НАРУЖНОЕ ЗЕРКАЛО ЗАДНЕГО ВИДА
-`skoda_octavia_ru_f19359f8` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:880 | doc_type:owners_manual
 Наружное зеркало заднего вида показано на рис. 10.23.
 
 
 ### 16. ТЯГОВО-СЦЕПНОЕ УСТРОЙСТВО
-`skoda_octavia_ru_f76ea2dd` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:881 | doc_type:owners_manual
 Тягово-сцепное устройство пока- зано на рис. 10.24.
 
 
 ### 17. РЕМНИ БЕЗОПАСНОСТИ
-`skoda_octavia_ru_69e94ab3` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:882 | doc_type:owners_manual
 Верхняя петля крепления передне- го ремня безопасности показана на рис. 10.25а, крепления переднего ремня безопасности – на рис. 10.25б, автоматический натяжной механизм с устройством предварительного натя- жения ремня безопасности - на рис. 10.25в, автоматический натяжной ме- ханизм ремня безопасности заднего сиденья - на рис. 10.25г, замок пе- реднего ремня безопасности – на рис. 10.25д, замок заднего ремня безопас- ности – на рис. 10.25е.
 
 ![](images/00f5c0cec2ba089e2dc6a7dbf51bb8b319913342b6386c715b3070b60756aa8a.jpg)
@@ -30980,7 +29452,6 @@ Octavia Combi:
 
 
 ### Снятие
-`skoda_octavia_ru_b1f8127b` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:883 | doc_type:owners_manual
 1. Отсоедините отрицательный провод от батареи. 2. Снимите рулевое колесо.
 
 3. Выкрутите винты 2 и 3 (рис. 10.26). Снимите крышки 4 и 5 с руле- вого вала.
@@ -31031,7 +29502,6 @@ Octavia Combi:
 
 
 ### Установка
-`skoda_octavia_ru_cbe88567` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:884 | doc_type:owners_manual
 13. Установка проводится в поряд- ке, обратном снятию.
 
 ![](images/1a9d5f04101d262745167478fa347e2bfe3e33ac65ff46743017a2ad60d69766.jpg)  
@@ -31051,7 +29521,6 @@ Octavia Combi:
 
 
 ### Снятие
-`skoda_octavia_ru_bb0350c3` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:885 | doc_type:owners_manual
 1. Отсоединитеотрицательный провод от батареи.   
 2. Снимите панель (выступающую часть пола) под панелью приборов.   
 3. Снимите панель под панелью приборов.   
@@ -31124,7 +29593,6 @@ E 020 O
 
 
 ### Установка
-`skoda_octavia_ru_65a8fe70` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:886 | doc_type:owners_manual
 2 3 5
 
 ![](images/299fbb7ec14854f8ba39da1a4b818da171afef9a8d37feac0ae89268fdebc545.jpg)  
@@ -31149,7 +29617,6 @@ C 4 3
 
 
 ### 19. МОЛДИНГИ ДВЕРЕЙ
-`skoda_octavia_ru_8ed94139` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:887 | doc_type:owners_manual
 Молдинги передней двери с меха- ническим стеклоподъемником показа- ны на рис. 10.40а, с электростекло- подъемником - на рис. 10.40б, мол- динги задней двери - на рис. 10.40в.
 
 ![](images/78fd57376eae8b650bd2b1ab4acf56d7a095e43b8a8eb479bd9c8ec3ca653d79.jpg)
@@ -31186,7 +29653,6 @@ C 4 3
 
 
 ### Снятие
-`skoda_octavia_ru_7ce76234` | octavia | pdf_manual | tier:2 | lang:ru | layer:interior | p:888 | doc_type:owners_manual
 1. Сдвиньте сиденье вперед, потя- нув за петли (стрелка), и откиньте его (рис. 10.41).
 
 2. Вытолкните крючки 1 основания сиденья из петель 2 и извлеките осно- вание сиденья из автомобиля (рис. 10.42).
@@ -31206,7 +29672,6 @@ C 4 3
 
 
 ### Установка
-`skoda_octavia_ru_a19dc8ba` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:889 | doc_type:owners_manual
 5. Установка проводится в поряд- ке, обратном снятию.
 
 ![](images/c995b30cdf69c62a947f2b8755f4261c3692dd27dde9f848af0bf19b01907bfb.jpg)  
@@ -31376,7 +29841,6 @@ h ( 4 8 5 4 ot on 8 \$ 0 8 1 ои 880 5 8 25 1 g 3 3 VS X 8 2 v 2 2 8 V 0 (79 22
 
 
 ### ВСТУПЛЕНИЕ. 3
-`skoda_octavia_ru_d682be11` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:890 | doc_type:owners_manual
 Габаритные размеры Skodа Octavia   
 и Skoda Octavia Combi 4   
 Технические характеристики Skoda Octavia   
@@ -31385,12 +29849,10 @@ Skoda Octavia Combi 6
 
 
 ### 1.ТЕХНИЧЕСКОЕОБСЛУЖИВАНИЕ АВТОМОБИЛЯ 32
-`skoda_octavia_ru_21abab9a` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:891 | doc_type:owners_manual
 1. Идентификация автомобиля и его агрегатов . 32 2. Плановое техническое обслуживание 33 3. Проверка и регулировка света фар 34 4. Проверка уровня моторного масла 35 5. Замена моторного масла 35 6. Замена масляного фильтра 35 7.Замена топливного фильтра (дизельные двигатели) 36 8. Слив конденсата из топливного фильтра (дизельные двигатели) 36 9. Проверка состояния ремня привода генератора 36 10. Проверка свечей зажигания 36 11. Проверка уровня масла в бачке усилителя рулевого управления . 36 12. Проверка уровня масла в механической коробке передач 37 13. Замена тормозной жидкости 37 14. Проверка толщины тормозных накладок 37 15. Поднятие автомобиля 37 16. Содержание вредных веществ в отработавших газах 38
 
 
 ### ДВИГАТЕЛИ «АЕЕ», «АЕН», «АКL» 1.6 л . . . . . . . . 42
-`skoda_octavia_ru_a1b3ef34` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:892 | doc_type:owners_manual
 2. Ремень привода генератора 42 2.1. Двигатель «АЕЕ» 42 2.2. Двигатели «АЕН» и «АКL» 43   
 3. Зубчатый ремень привода распределительного   
 вала 44 3.1. Двигатель «АЕЕ» 44 3.2. Двигатели «АЕН» и «AКL» 45   
@@ -31409,12 +29871,10 @@ Skoda Octavia Combi 6
 
 
 ### СИСТЕМАСМАЗКИ
-`skoda_octavia_ru_c31bc7cf` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:893 | doc_type:owners_manual
 9. Масляный насос двигателя «АЕЕ» 59 10. Кронштейн масляного фильтра двигателей «AEH», «AKL». 60 11. Поддон двигателя 60
 
 
 ### СИСТЕМА ОХЛАЖДЕНИЯ.
-`skoda_octavia_ru_7646ee3b` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:894 | doc_type:owners_manual
 12. Замена охлаждающей жидкости. 61   
 13. Радиатор системы охлаждения 62   
 14. Насос системы охлаждения 63   
@@ -31426,7 +29886,6 @@ Skoda Octavia Combi 6
 
 
 ### СИСТЕМАПИТАНИЯ 64
-`skoda_octavia_ru_fee8db29` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:895 | doc_type:owners_manual
 16. Топливный насос 64   
 17. Датчик уровня топлива 65   
 18. Топливный бак. 65   
@@ -31435,12 +29894,10 @@ Skoda Octavia Combi 6
 
 
 ### СИСТЕМА ВЫПУСКАОТРАБОТАВШИХ ГАЗОВ . .. . 66
-`skoda_octavia_ru_927880a6` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:896 | doc_type:owners_manual
 21. Замена передней части выпускного трубопровода 67 22. Выпускной коллектор 67 23. Замена переднего и заднего глушителей шума 67
 
 
 ### 24. Зубчатый ремень привода распределительных
-`skoda_octavia_ru_18514ba0` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:897 | doc_type:owners_manual
 валов 24.1. Двигатель «АGN». 24.2. Двигатель «АGU».   
 25. Сальники коленчатого вал   
 26.Маховик   
@@ -31453,7 +29910,6 @@ Skoda Octavia Combi 6
 
 
 ### СИСТЕМАСМАЗКИ
-`skoda_octavia_ru_70bd446f` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:898 | doc_type:owners_manual
 33. Кронштейн масляного фильтра   
 34. Масляный насос   
 35. Поддон двигателя   
@@ -31461,7 +29917,6 @@ Skoda Octavia Combi 6
 
 
 ### СИСТЕМА ОХЛАЖДЕНИЯ. 87
-`skoda_octavia_ru_3f01fd16` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:899 | doc_type:owners_manual
 37. Насос системы охлаждения 88   
 38. Термостат 88   
 39. Система выпуска отработавших газов 88 39.1. Система выпуска отработавших газов двигателя «AGN» 88 39.2. Система выпуска отработавших газов двигателя «AGU» 89   
@@ -31470,7 +29925,6 @@ Skoda Octavia Combi 6
 
 
 ### ДВИГАТЕЛЬ «АQУ» 2.0 л . 93
-`skoda_octavia_ru_4c4b43f1` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:900 | doc_type:owners_manual
 42. Ремень привода генератора 93   
 43. Зубчатый ремень привода распределительного   
 вала 94   
@@ -31487,12 +29941,10 @@ Skoda Octavia Combi 6
 
 
 ### 3. ДИЗЕЛЬНЫЕ ДВИГАТЕЛИ. 100
-`skoda_octavia_ru_067c0e84` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:901 | doc_type:owners_manual
 1. Снятие и установка дизельных двигателей . . . . . 100
 
 
 ### ДВИГАТЕЛЬ «AGR» 1.9 TDI 104
-`skoda_octavia_ru_070a6a4c` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:902 | doc_type:owners_manual
 2. Ремень привода генератора 104   
 3. Зубчатый ремень привода распределительного   
 вала 105   
@@ -31521,13 +29973,11 @@ Skoda Octavia Combi 6
 
 
 ### СИСТЕМАСМАЗКИ 115
-`skoda_octavia_ru_8e45cfac` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:903 | doc_type:owners_manual
 9. Кронштейн масляного фильтра 115   
 10. Поддон двигателя 115
 
 
 ### СИСТЕМА ОХЛАЖДЕНИЯ . 116
-`skoda_octavia_ru_71bd826d` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:904 | doc_type:owners_manual
 11. Насос системы охлаждения 116   
 12.Термостат 117   
 13. Радиатор системы охлаждения 117   
@@ -31536,13 +29986,11 @@ Skoda Octavia Combi 6
 
 
 ### СИСТЕМАПИТАНИЯ 118
-`skoda_octavia_ru_4b3e8db3` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:905 | doc_type:owners_manual
 15. Топливный бак. 118   
 16. Датчик уровня топлива 119
 
 
 ### СИСТЕМА ПИТАНИЯ АВТОМОБИЛЕЙ 4 Х 4 119
-`skoda_octavia_ru_484703f6` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:906 | doc_type:owners_manual
 17. Топливный бак автомобилей 4 х 4 119   
 18. Датчик уровня топлива автомобилей 4 х 4 120   
 19. Турбонаддув 120   
@@ -31556,41 +30004,34 @@ Skoda Octavia Combi 6
 
 
 ### ДВИГАТЕЛЬ «АНF» 1.9 TDI 123
-`skoda_octavia_ru_5fe220d2` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:907 | doc_type:owners_manual
 22. Турбокомпрессор. 123   
 23. Система выпуска отработавших газов 124   
 24. Система рециркуляции отработавших газов 124
 
 
 ### СИСТЕМА ВПРЫСКАТОПЛИВА. 126
-`skoda_octavia_ru_115b24a3` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:908 | doc_type:owners_manual
 1. Проверка режимов работы двигателя 126 2.Лямбда-зонд. 126 2.1. Проверка подачи напряжения 126 2.2. Проверка сигнального провода лямбда-зонда и активации (возбуждения) 126 3. Проверка механизма управления дроссельной заслонкой 127 3.1. Проверка выключателя холостого хода 127 3.2. Проверка установочного элемента и потенциометра дроссельной заслонки. 127 3.3. Проверка потенциометра дроссельной заслонки 127 4. Проверка электропитания и проводов, ведущих к блоку управления двигателем 128 5. Проверка датчика потока воздуха 129 6. Проверка датчика температуры охлаждающей жидкости 129 7. Проверка датчика температуры входящего воздуха. 130 8. Приспособление блока управления двигателя к иммобилайзеру 131 9. Проверка форсунок 132 10. Проверка регулятора давления топлива . 132 11. Проверка электромагнитного клапана системы улавливания паров бензина 133
 
 12. Проверка реле возбуждения топливного насоса 134 13. Замена блока управления двигателя 134
 
 
 ### СИСТЕМАЗАЖИГАНИЯ 135
-`skoda_octavia_ru_a2fe6556` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:909 | doc_type:owners_manual
 14. Проверка и регулировка опережения зажигания 135 15. Проверка датчика частоты вращения 136 16. Проверка трансформатора высокого напряжения 136
 
 
 ### СИСТЕМАВПРЫСКАТОПЛИВА 138
-`skoda_octavia_ru_e2a9508e` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:910 | doc_type:owners_manual
 1. Проверка памяти неисправностей и очистка ее содержимого 138 2. Проверка форсунок 139 2.1. Проверка сопротивления форсунки 139 2.2. Проверка электропроводности форсунки . 139 2.3. Проверка возбуждения (срабатывания) форсунок 139 3. Проверка количества впрыскиваемого топлива, герметичности и формы струи форсунок. 139 4. Проверка реле топливного насоса 140 4.1. Проверка реле топливного насоса 140 4.2. Проверка электропитания и возбуждения (срабатывания) реле топливного насоса 140 5. Проверка датчика положения дроссельной заслонки 141
 
 
 ### СИСТЕМАЗАЖИГАНИЯ 141
-`skoda_octavia_ru_2b845732` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:911 | doc_type:owners_manual
 6. Проверка двухискровой системы зажигания .. 142 7. Проверка датчика температуры входящего воздуха. 142 8. Проверка датчика частоты вращения коленчатого вала двигателя 143 9. Проверка датчика температуры охлаждающей \*идкости 144 10. Проверка датчика детонационного сгорания ... 144 11. Проверка датчика частоты вращения распределительного вала двигателя 145
 
 
 ### 12. КОДЫ НЕИСПРАВНОСТЕЙ СИСТЕМЫ АВТОМАТИЧЕСКОГО УПРАВЛЕНИЯДВИГАТЕЛЕМ 145
-`skoda_octavia_ru_29e5ca1e` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:912 | doc_type:owners_manual
 СИСТЕМАУПРАВЛЕНИЯ ДВИГАТЕЛЕМ«МОТРОНИС» ДВИГАТЕЛЕЙ «АGN» И«АGU» 1.8 л 146
 
 
 ### СИСТЕМАВПРЫСКАТОПЛИВА 146
-`skoda_octavia_ru_85389ee0` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:913 | doc_type:owners_manual
 1. Проверка количества впрыскиваемого топлива. . 149   
 2. Проверка форсунок 151   
 3. Проверка реле топливного насоса 152   
@@ -31606,17 +30047,14 @@ Skoda Octavia Combi 6
 
 
 ### СИСТЕМАЗАЖИГАНИЯ 157
-`skoda_octavia_ru_997e68f5` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:914 | doc_type:owners_manual
 6. Проверка оконечного мощного каскада 157 7. Проверка катушек зажигания 158 8. Проверка датчиков детонационного сгорания 158 9. Проверка датчика частоты вращения распределительного вала 158
 
 
 ### СИСТЕМА ВПРЫСКА ТОПЛИВАДИЗЕЛЬНЫХ ДВИГАТЕЛЕЙ 1.9 TDI «АGR» И «АНF» 160
-`skoda_octavia_ru_a79ad0f4` | octavia | pdf_manual | tier:2 | lang:ru | layer:sensors | p:915 | doc_type:owners_manual
 10. Опрос памяти неисправностей и ее очистка 161 11. Топливный насос высокого давления 162 12. Топливный фильтр 162 13.Форсунки 162 14. Проверка датчика температуры входящего воздуха . 163 15. Проверка регулировки давления впрыска 163 16. Проверка системы рециркуляции отработавших газов 164 17.Проверка электромагнитного клапана рециркуляции отработавших газов . 165 18. Проверка датчика расхода воздуха 165 19. Проверка датчика частоты вращения коленчатого вала 166 20. Проверка датчика перемещения иглы форсунки 166 21. Турбонаддув 167 21.1. Проверка давления сжатого воздуха 167 21.2. Проверка электромагнитного клапана ограничения давления сжатого воздуха . 167 22. Проверка накаливания . 168 23. Проверка свечей накала 168 24. Топливный насос высокого давления 168 25. Динамическая проверка и регулировка начала впрыска топлива 170 26. Проверка датчика температуры входящего воздуха . 171 27. Проверка регулятора положения заслонки 171
 
 
 ### СЦЕПЛЕНИЕ 173
-`skoda_octavia_ru_8b13a657` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:916 | doc_type:owners_manual
 1. Привод управления сцеплением 173   
 2. Гидравлический привод сцепления . 173   
 3. Главный цилиндр сцепления 174   
@@ -31628,7 +30066,6 @@ Skoda Octavia Combi 6
 
 
 ### МЕХАНИЧЕСКАЯ КОРОБКАПЕРЕДАЧ О2К 179
-`skoda_octavia_ru_886fd05e` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:917 | doc_type:owners_manual
 8. Регулировка привода переключения передач . . .. 179   
 9. Разборка и сборка коробки передач 180
 
@@ -31636,13 +30073,11 @@ Skoda Octavia Combi 6
 
 
 ### МЕХАНИЧЕСКАЯ КОРОБКА ПЕРЕДАЧ 02 Ј ... 188
-`skoda_octavia_ru_fd7c0e7c` | octavia | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:918 | doc_type:owners_manual
 13. Разборка и сборка коробки передач 188   
 14. Конструкция валов коробки передач 192
 
 
 ### ПЕРЕДНЯЯ ПОДВЕСКА 194
-`skoda_octavia_ru_835195a4` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:919 | doc_type:owners_manual
 1. Нижний рычаг подвески. 195   
 2. Балка крепления подвески 195   
 3. Поворотный кулак . 196   
@@ -31657,28 +30092,23 @@ Skoda Octavia Combi 6
 
 
 ### МЕХАНИЗМЫ) 204
-`skoda_octavia_ru_b0036472` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:920 | doc_type:owners_manual
 10. Снятие и установка задней подвески (барабанные тормозные механизмы) 204 10.1. Резинометаллическая опора 205 11. Амортизаторная стойка 205
 
 
 ### ЗАДНЯЯ ПОДВЕСКА (ДИСКОВЫЕТОРМОЗНЫЕ МЕХАНИЗМЫ) 206
-`skoda_octavia_ru_8f73ec89` | octavia | pdf_manual | tier:2 | lang:ru | layer:suspension | p:921 | doc_type:owners_manual
 12. Резинометаллическая опора . . 206   
 13. Амортизаторная стойка 206
 
 
 ### колес 206
-`skoda_octavia_ru_76fa82f4` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:922 | doc_type:owners_manual
 15. Технические характеристики углов установки передних колес 207 16. Технические характеристики углов установки задних колес 207 17. Размеры шин, применяемых на автомобиле в зависимости от типа двигателя 207
 
 
 ### 7. РУЛЕВОЕ УПРАВЛЕНИЕ 208
-`skoda_octavia_ru_809c894b` | octavia | pdf_manual | tier:2 | lang:ru | layer:steering | p:923 | doc_type:owners_manual
 1. Рулевой вал 208 2. Рулевой механизм 209 3. Наконечники рулевых тяг 211 4. Поперечные рулевые тяги 211 5. Регулировка рулевого механизма ZF 212 6. Снятие, проверка и установка насоса усилителя рулевого управления 212 7. Пневматический выключатель усилителя рулевого управления 215
 
 
 ### РАБОЧАЯ ТОРМОЗНАЯ СИСТЕМА 216
-`skoda_octavia_ru_5f5cdec1` | octavia | pdf_manual | tier:2 | lang:ru | layer:engine | p:924 | doc_type:owners_manual
 1. Удаление воздуха из тормозной системы . … . . 216
 
 2. Регулировка включателя стоп-сигналов 216   
@@ -31695,17 +30125,14 @@ perednih koles 219
 
 
 ### СТОЯНОЧНАЯТОРМОЗНАЯ СИСТЕМА ... . . . 224
-`skoda_octavia_ru_9fb66844` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:925 | doc_type:owners_manual
 7. Снятие и установка троса привода стояночной тормозной системы 224
 
 
 ### АНТИБЛОКИРОВОЧНАЯ СИСТЕМА АВS. . . . . . . 224
-`skoda_octavia_ru_9ba9b2ee` | octavia | pdf_manual | tier:2 | lang:ru | layer:brakes | p:926 | doc_type:owners_manual
 8. Гидравлический блок АBS 225 9. Датчики частоты вращения колес системы ABS 226 10.Технические характеристики тормозных механизмов 227 КОДЫ НЕИСПРАВНОСТЕЙ АВС 228
 
 
 ### 9.ЭЛЕКТРООБОРУДОВАНИЕАВТОМОБИЛЯ ... 229
-`skoda_octavia_ru_3101c028` | octavia | pdf_manual | tier:2 | lang:ru | layer:ev | p:927 | doc_type:owners_manual
 1. Стартер 29   
 2. Генератор 229   
 2.1. Автомобили с бензиновыми двигателями . 229   
@@ -31714,7 +30141,6 @@ perednih koles 219
 
 
 ### 10. КУЗОВ. 231
-`skoda_octavia_ru_19e60d00` | octavia | pdf_manual | tier:2 | lang:ru | layer:body | p:928 | doc_type:owners_manual
 1. Передняя часть кузова 231   
 2.Замена передней стенки кузова 231   
 3. Сборочная схема переднего крыла 231   
@@ -31744,7 +30170,6 @@ perednih koles 219
 
 
 ### СХЕМЫ ЭЛЕКТРИЧЕСКИХСОЕДИНЕНИЙ......244
-`skoda_octavia_ru_13c9b9cc` | octavia | pdf_manual | tier:2 | lang:ru | layer:general | p:929 | doc_type:owners_manual
 Даний посібник містить загальні відомості по будові автомобіля Skoda Оctavia 1996-2002 р. випуску та його модифікацій, рекомендації з технічного обслуговування, опис можливих несправностей усіх систем двигуна як з турбонаддувом, так і без нього (аж до перевірки датчиків різних систем), трансмисії з механічною коробкою передач, ходової частини, рульового управління з гідропідсилювачем, гальмових систем з АВС. Належна увага приділена електронним системам управління двигуном, трансмісією й јн., включаючи переліки кодів можливих несправностей цих систем. Технічні поради цього посібника, допоможуть провести технічне обслуговування і ремонт як на станції технічного обслуговування, так і самостійно.
 
 Довідкове видання

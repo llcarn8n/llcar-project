@@ -1,5 +1,10 @@
-# Manual: bmw/i4_g26 (356 chunks)
-<!-- doc_type:owners_manual tier:2 lang:en -->
+---
+brand: bmw
+model: i4
+generation: g26_2021
+source: kb
+---
+
 
 ### 
  | i4_g26 | pdf_manual | tier:2 | lang:en | layer:general | p:0
@@ -6156,53 +6161,52 @@ CONTROLS
 107
 Online Edition for Part no. 01405A546C7 - II/22
 
-### Warning
- | i4_g26 | pdf_manual | tier:2 | lang:en | layer:body | p:108
-
-Warning
-There is a risk of jamming when moving the
-seats. There is a risk of injury or risk of damage to property. Make sure that the travel
-path of the seat is clear prior to any adjustment.
-Overview
-The memory buttons are located on the front
-doors.
-Storing settings
-1.
-Set the desired position.
-2.
-  Press the button. The LED lights up.
-3. Press the desired button 1 or 2 while the
-LED is lit. A signal sounds.
-Go to Settings
-Press the desired button 1 or 2.
-The stored position is called up.
-The procedure stops when a seat setting
-switch or one of the memory buttons is
-pressed again.
-The adjustment of the seat position on the
-driver's side is interrupted after a short time
-while driving.
-Seat heating
-General information
-If the trip is continued within approx. 15 minutes after an intermediate stop, the functions
-are turned on automatically with the temperature that was last set.
-Automatic climate control
-Overview
-Turning the seat heating on/off
-1.
-"CLIMATE MENU" tap in the center of the
-climate control bar.
-2.
-  seat heating.
-3. Select the desired setting.
-When ECO PRO is activated, the heater output
-is reduced.
-Additional information:
-ECO PRO, refer to page 277.
-CONTROLS
-Seats, mirrors and steering wheel
-108
-Online Edition for Part no. 01405A546C7 - II/22
+> ⚠️ **Внимание:** | i4_g26 | pdf_manual | tier:2 | lang:en | layer:body | p:108
+>
+> Warning
+> There is a risk of jamming when moving the
+> seats. There is a risk of injury or risk of damage to property. Make sure that the travel
+> path of the seat is clear prior to any adjustment.
+> Overview
+> The memory buttons are located on the front
+> doors.
+> Storing settings
+> 1.
+> Set the desired position.
+> 2.
+>   Press the button. The LED lights up.
+> 3. Press the desired button 1 or 2 while the
+> LED is lit. A signal sounds.
+> Go to Settings
+> Press the desired button 1 or 2.
+> The stored position is called up.
+> The procedure stops when a seat setting
+> switch or one of the memory buttons is
+> pressed again.
+> The adjustment of the seat position on the
+> driver's side is interrupted after a short time
+> while driving.
+> Seat heating
+> General information
+> If the trip is continued within approx. 15 minutes after an intermediate stop, the functions
+> are turned on automatically with the temperature that was last set.
+> Automatic climate control
+> Overview
+> Turning the seat heating on/off
+> 1.
+> "CLIMATE MENU" tap in the center of the
+> climate control bar.
+> 2.
+>   seat heating.
+> 3. Select the desired setting.
+> When ECO PRO is activated, the heater output
+> is reduced.
+> Additional information:
+> ECO PRO, refer to page 277.
+> CONTROLS
+> Seats, mirrors and steering wheel
+> 108
+> Online Edition for Part no. 01405A546C7 - II/22
 
 ### Rear automatic climate control
  | i4_g26 | pdf_manual | tier:2 | lang:en | layer:interior | p:109
@@ -12078,60 +12082,59 @@ CONTROLS
 201
 Online Edition for Part no. 01405A546C7 - II/22
 
-### Warning
- | i4_g26 | pdf_manual | tier:2 | lang:en | layer:lighting | p:202
-
-Warning
-The use of the system can lead to an increased risk of accidents in the following situations, for instance:
-▷
-On winding roads.
-▷
-With high traffic volume.
-▷
-On slippery roads, in fog, snow, or wet
-conditions, or on a loose road surface.
-There may be a risk of accident or risk of
-damage to property. Only use the system if
-driving at constant speed is possible.
-Warning
-The set speed can be incorrectly adjusted or
-called up by mistake. There is a risk of accident. Adjust the set speed to the traffic conditions. Watch surrounding traffic closely and
-actively intervene where appropriate.
-Overview
-Buttons on the steering wheel
-Button Function
-Cruise control on/off.
-Continue cruise control with the last
-setting.
-Interrupt cruise control.
-Button Function
-Store current speed.
-Speed Limit Assistant: accept suggested speed manually.
-Rocker switch:
-Set speed.
-Turning Cruise Control on/off
-Turning on the system
-Depending on the equipment version,
-press the relevant button on the steering wheel.
-The indicator lights in the instrument cluster
-light up and the mark on the speedometer is
-set to the current speed.
-Cruise control is active. The current speed is
-maintained and stored as set speed.
-If necessary, the Dynamic Stability Control will
-be turned on.
-To turn off the system
-Depending on the equipment version,
-press the relevant button on the steering wheel.
-The displays turn off. The stored set speed is
-deleted.
-Interrupting cruise control
-Stopping the system manually
-When active, press the button.
-CONTROLS
-Driver assistance systems
-202
-Online Edition for Part no. 01405A546C7 - II/22
+> ⚠️ **Внимание:** | i4_g26 | pdf_manual | tier:2 | lang:en | layer:lighting | p:202
+>
+> Warning
+> The use of the system can lead to an increased risk of accidents in the following situations, for instance:
+> ▷
+> On winding roads.
+> ▷
+> With high traffic volume.
+> ▷
+> On slippery roads, in fog, snow, or wet
+> conditions, or on a loose road surface.
+> There may be a risk of accident or risk of
+> damage to property. Only use the system if
+> driving at constant speed is possible.
+> Warning
+> The set speed can be incorrectly adjusted or
+> called up by mistake. There is a risk of accident. Adjust the set speed to the traffic conditions. Watch surrounding traffic closely and
+> actively intervene where appropriate.
+> Overview
+> Buttons on the steering wheel
+> Button Function
+> Cruise control on/off.
+> Continue cruise control with the last
+> setting.
+> Interrupt cruise control.
+> Button Function
+> Store current speed.
+> Speed Limit Assistant: accept suggested speed manually.
+> Rocker switch:
+> Set speed.
+> Turning Cruise Control on/off
+> Turning on the system
+> Depending on the equipment version,
+> press the relevant button on the steering wheel.
+> The indicator lights in the instrument cluster
+> light up and the mark on the speedometer is
+> set to the current speed.
+> Cruise control is active. The current speed is
+> maintained and stored as set speed.
+> If necessary, the Dynamic Stability Control will
+> be turned on.
+> To turn off the system
+> Depending on the equipment version,
+> press the relevant button on the steering wheel.
+> The displays turn off. The stored set speed is
+> deleted.
+> Interrupting cruise control
+> Stopping the system manually
+> When active, press the button.
+> CONTROLS
+> Driver assistance systems
+> 202
+> Online Edition for Part no. 01405A546C7 - II/22
 
 ### Stopping the system automatically
  | i4_g26 | pdf_manual | tier:2 | lang:en | layer:general | p:203
@@ -14052,83 +14055,82 @@ CONTROLS
 231
 Online Edition for Part no. 01405A546C7 - II/22
 
-### Warning
- | i4_g26 | pdf_manual | tier:2 | lang:en | layer:general | p:232
-
-Warning
-Due to high speeds when the Park Distance
-Control is activated, the warning can be delayed due to physical circumstances. There is
-a risk of injury or risk of damage to property.
-Avoid approaching an object too fast. Avoid
-driving off quickly while Park Distance Control
-is not yet active.
-Sensors
-The system is controlled by the following sensors:
-▷
-Ultrasound sensors in the front/rear bumpers.
-▷
-Ultrasonic sensors, side.
-Turning Park Distance Control
-on/off
-Turning on the system automatically
-The system switches on automatically in the
-following situations:
-▷
-When drive readiness is turned on when
-engaging selector lever position R.
-▷
-While approaching detected obstacles if the
-speed is lower than approx.
-2.5 mph/4 km/h. The activation distance
-depends on the situation in question.
-You may switch automatic activation when obstacles are detected on and off.
-1.
-"MENU"
-2. "Vehicle apps"
-3. "Driving settings"
-4. "Driver Assistance"
-5. "Parking and maneuvering"
-6. "Automatic PDC activation"
-Turning off the system automatically
-When driving forward, the system turns off automatically as needed when a certain distance
-or speed is exceeded.
-Turning the system on/off manually
-Press the button.
-▷
-On: the LED lights up.
-▷
-Off: the LED goes out.
-If the system is manually switched on when
-the reverse gear is engaged, the rearview
-camera image is displayed.
-Depending on the national-market version, the
-system cannot be turned off manually when
-the reverse gear is engaged.
-Acoustic warning
-General information
-An intermittent tone indicates when the vehicle
-is approaching an object. E.g., when an object
-is detected at the rear left of the vehicle, a
-sound is heard from the rear left speaker.
-The shorter the distance to the object, the
-shorter the intervals of the intermittent tones.
-When the distance to a detected object is less
-than approx. 8 in/20 cm, a continuous tone is
-sounded.
-When there are objects in front of and behind
-the vehicle at the same time, at a distance
-smaller than approx. 8 in/20 cm, an alternating
-continuous tone will sound between the front
-and rear speakers.
-The intermittent tones and the continuous tone
-are turned off when selector lever position P is
-engaged.
-Depending on national-market version, the intermittent tones are switched off after a short
-time when the vehicle is stationary.
-CONTROLS
-Parking
-232
-Online Edition for Part no. 01405A546C7 - II/22
+> ⚠️ **Внимание:** | i4_g26 | pdf_manual | tier:2 | lang:en | layer:general | p:232
+>
+> Warning
+> Due to high speeds when the Park Distance
+> Control is activated, the warning can be delayed due to physical circumstances. There is
+> a risk of injury or risk of damage to property.
+> Avoid approaching an object too fast. Avoid
+> driving off quickly while Park Distance Control
+> is not yet active.
+> Sensors
+> The system is controlled by the following sensors:
+> ▷
+> Ultrasound sensors in the front/rear bumpers.
+> ▷
+> Ultrasonic sensors, side.
+> Turning Park Distance Control
+> on/off
+> Turning on the system automatically
+> The system switches on automatically in the
+> following situations:
+> ▷
+> When drive readiness is turned on when
+> engaging selector lever position R.
+> ▷
+> While approaching detected obstacles if the
+> speed is lower than approx.
+> 2.5 mph/4 km/h. The activation distance
+> depends on the situation in question.
+> You may switch automatic activation when obstacles are detected on and off.
+> 1.
+> "MENU"
+> 2. "Vehicle apps"
+> 3. "Driving settings"
+> 4. "Driver Assistance"
+> 5. "Parking and maneuvering"
+> 6. "Automatic PDC activation"
+> Turning off the system automatically
+> When driving forward, the system turns off automatically as needed when a certain distance
+> or speed is exceeded.
+> Turning the system on/off manually
+> Press the button.
+> ▷
+> On: the LED lights up.
+> ▷
+> Off: the LED goes out.
+> If the system is manually switched on when
+> the reverse gear is engaged, the rearview
+> camera image is displayed.
+> Depending on the national-market version, the
+> system cannot be turned off manually when
+> the reverse gear is engaged.
+> Acoustic warning
+> General information
+> An intermittent tone indicates when the vehicle
+> is approaching an object. E.g., when an object
+> is detected at the rear left of the vehicle, a
+> sound is heard from the rear left speaker.
+> The shorter the distance to the object, the
+> shorter the intervals of the intermittent tones.
+> When the distance to a detected object is less
+> than approx. 8 in/20 cm, a continuous tone is
+> sounded.
+> When there are objects in front of and behind
+> the vehicle at the same time, at a distance
+> smaller than approx. 8 in/20 cm, an alternating
+> continuous tone will sound between the front
+> and rear speakers.
+> The intermittent tones and the continuous tone
+> are turned off when selector lever position P is
+> engaged.
+> Depending on national-market version, the intermittent tones are switched off after a short
+> time when the vehicle is stationary.
+> CONTROLS
+> Parking
+> 232
+> Online Edition for Part no. 01405A546C7 - II/22
 
 ### Adjusting the volume
  | i4_g26 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:233
@@ -19555,68 +19557,67 @@ Wheels and tires
 318
 Online Edition for Part no. 01405A546C7 - II/22
 
-### Warning
- | i4_g26 | pdf_manual | tier:2 | lang:en | layer:general | p:319
-
-Warning
-Supports such as wooden blocks under the
-jack reduce the load-carrying capacity of the
-jack to bear weight. The load-carrying capacity of the wooden blocks may be exceeded and the vehicle may tip over. There is
-a risk of injury or danger to life. Do not place
-supports under the jack.
-Warning
-The jack, issued by the vehicle manufacturer,
-is provided in order to perform a wheel
-change in the event of a breakdown. The jack
-is not designed for frequent use; for example,
-changing from summer to winter tires. Using
-the jack frequently may cause it to become
-jammed or damaged. There is a risk of injury
-and risk of damage to property. Only use the
-jack to change an emergency or spare wheel
-in the event of a breakdown.
-Warning
-On soft, uneven or slippery ground, for example snow, ice, tiles, etc., the jack can slip
-away. There is a risk of injury. If possible,
-change the wheel on a flat, solid, and slip-resistant surface.
-Warning
-The jack is optimized for lifting the vehicle
-and for the jacking points on the vehicle only.
-There is a risk of injury. Do not lift any other
-vehicle or cargo using the jack.
-Warning
-When the jack is not inserted into the jacking
-point provided for this purpose, the vehicle
-may be damaged or the jack may slip when it
-is being cranked up. There is a risk of injury
-or risk of damage to property. When cranking
-up the jack, ensure that it is inserted in the
-jacking point next to the wheel well.
-Warning
-A vehicle that is raised on a jack may fall off
-of the jack if lateral forces are exerted on it.
-There is a risk of injury and risk of damage to
-property. While the vehicle is raised, do not
-exert lateral effort on the vehicle or pull
-abruptly on the vehicle. Have a stuck wheel
-removed by a dealer’s service center or another qualified service center or repair shop.
-Warning
-Incorrect handling of the jack can damage the
-vehicle's underbody and expose high-voltage
-components. There is a risk of injury or risk of
-damage to property. When cranking up the
-jack, ensure that it is inserted in the jacking
-point next to the wheel well. Make sure not to
-damage any of the underbody parts.
-Securing the vehicle against rolling
-away
-General information
-The vehicle manufacturer recommends to additionally secure the vehicle against rolling
-away when changing a wheel.
-Wheels and tires
-MOBILITY
-319
-Online Edition for Part no. 01405A546C7 - II/22
+> ⚠️ **Внимание:** | i4_g26 | pdf_manual | tier:2 | lang:en | layer:general | p:319
+>
+> Warning
+> Supports such as wooden blocks under the
+> jack reduce the load-carrying capacity of the
+> jack to bear weight. The load-carrying capacity of the wooden blocks may be exceeded and the vehicle may tip over. There is
+> a risk of injury or danger to life. Do not place
+> supports under the jack.
+> Warning
+> The jack, issued by the vehicle manufacturer,
+> is provided in order to perform a wheel
+> change in the event of a breakdown. The jack
+> is not designed for frequent use; for example,
+> changing from summer to winter tires. Using
+> the jack frequently may cause it to become
+> jammed or damaged. There is a risk of injury
+> and risk of damage to property. Only use the
+> jack to change an emergency or spare wheel
+> in the event of a breakdown.
+> Warning
+> On soft, uneven or slippery ground, for example snow, ice, tiles, etc., the jack can slip
+> away. There is a risk of injury. If possible,
+> change the wheel on a flat, solid, and slip-resistant surface.
+> Warning
+> The jack is optimized for lifting the vehicle
+> and for the jacking points on the vehicle only.
+> There is a risk of injury. Do not lift any other
+> vehicle or cargo using the jack.
+> Warning
+> When the jack is not inserted into the jacking
+> point provided for this purpose, the vehicle
+> may be damaged or the jack may slip when it
+> is being cranked up. There is a risk of injury
+> or risk of damage to property. When cranking
+> up the jack, ensure that it is inserted in the
+> jacking point next to the wheel well.
+> Warning
+> A vehicle that is raised on a jack may fall off
+> of the jack if lateral forces are exerted on it.
+> There is a risk of injury and risk of damage to
+> property. While the vehicle is raised, do not
+> exert lateral effort on the vehicle or pull
+> abruptly on the vehicle. Have a stuck wheel
+> removed by a dealer’s service center or another qualified service center or repair shop.
+> Warning
+> Incorrect handling of the jack can damage the
+> vehicle's underbody and expose high-voltage
+> components. There is a risk of injury or risk of
+> damage to property. When cranking up the
+> jack, ensure that it is inserted in the jacking
+> point next to the wheel well. Make sure not to
+> damage any of the underbody parts.
+> Securing the vehicle against rolling
+> away
+> General information
+> The vehicle manufacturer recommends to additionally secure the vehicle against rolling
+> away when changing a wheel.
+> Wheels and tires
+> MOBILITY
+> 319
+> Online Edition for Part no. 01405A546C7 - II/22
 
 ### On a level surface
  | i4_g26 | pdf_manual | tier:2 | lang:en | layer:steering | p:320
@@ -20432,62 +20433,61 @@ MOBILITY
 335
 Online Edition for Part no. 01405A546C7 - II/22
 
-### Warning
- | i4_g26 | pdf_manual | tier:2 | lang:en | layer:ev | p:336
-
-Warning
-Fluids in the high-voltage battery are corrosive. There is a risk of injury. Do not touch fluids escaping from the high-voltage battery.
-Jump-starting
-General information
-Have only a dealer’s service center or another
-qualified service center or repair shop perform
-the jump-start.
-Safety information
-DANGER
-Contact with live components can lead to an
-electric shock. There is a risk of injury or danger to life. Do not touch any components that
-are under voltage.
-Towing
-Safety information
-Warning
-Due to system limits, individual functions can
-malfunction during tow-starting/towing when
-Forward Collision Mitigation is activated.
-There is a risk of accident. Switch Forward
-Collision Mitigation off prior to tow-starting/
-towing.
-Transporting the vehicle
-General information
-The vehicle is not permitted to be towed.
-Safety information
-NOTICE
-The vehicle can be damaged when towing
-the vehicle with a single lifted axle. There is a
-risk of damage to property, among other potential damage. The vehicle should only be
-transported on a loading platform.
-NOTICE
-The vehicle can become damaged when lifting and securing it.
-There is a risk of damage to property, among
-other potential damage.
-▷
-Lift the vehicle using suitable means.
-▷
-Do not lift or secure the vehicle by its tow
-fitting, body parts, or suspension parts.
-Pushing the vehicle
-To remove a broken-down vehicle from the
-hazardous area, push it for a short distance at
-a speed of no more than 6 mph/10 km/h.
-Additional information:
-Rolling or pushing the vehicle, refer to
-page 121.
-Tow truck
-The vehicle should only be transported on a
-loading platform.
-MOBILITY
-Breakdown Assistance
-336
-Online Edition for Part no. 01405A546C7 - II/22
+> ⚠️ **Внимание:** | i4_g26 | pdf_manual | tier:2 | lang:en | layer:ev | p:336
+>
+> Warning
+> Fluids in the high-voltage battery are corrosive. There is a risk of injury. Do not touch fluids escaping from the high-voltage battery.
+> Jump-starting
+> General information
+> Have only a dealer’s service center or another
+> qualified service center or repair shop perform
+> the jump-start.
+> Safety information
+> DANGER
+> Contact with live components can lead to an
+> electric shock. There is a risk of injury or danger to life. Do not touch any components that
+> are under voltage.
+> Towing
+> Safety information
+> Warning
+> Due to system limits, individual functions can
+> malfunction during tow-starting/towing when
+> Forward Collision Mitigation is activated.
+> There is a risk of accident. Switch Forward
+> Collision Mitigation off prior to tow-starting/
+> towing.
+> Transporting the vehicle
+> General information
+> The vehicle is not permitted to be towed.
+> Safety information
+> NOTICE
+> The vehicle can be damaged when towing
+> the vehicle with a single lifted axle. There is a
+> risk of damage to property, among other potential damage. The vehicle should only be
+> transported on a loading platform.
+> NOTICE
+> The vehicle can become damaged when lifting and securing it.
+> There is a risk of damage to property, among
+> other potential damage.
+> ▷
+> Lift the vehicle using suitable means.
+> ▷
+> Do not lift or secure the vehicle by its tow
+> fitting, body parts, or suspension parts.
+> Pushing the vehicle
+> To remove a broken-down vehicle from the
+> hazardous area, push it for a short distance at
+> a speed of no more than 6 mph/10 km/h.
+> Additional information:
+> Rolling or pushing the vehicle, refer to
+> page 121.
+> Tow truck
+> The vehicle should only be transported on a
+> loading platform.
+> MOBILITY
+> Breakdown Assistance
+> 336
+> Online Edition for Part no. 01405A546C7 - II/22
 
 ### Towing other vehicles
  | i4_g26 | pdf_manual | tier:2 | lang:en | layer:body | p:337
@@ -22460,9 +22460,6 @@ Can be used offline after download
 Online Edition for Part no. 01405A546C7 - II/22
 
 
-# Manual: bmw/i4_g26 (356 chunks)
-<!-- doc_type:owners_manual tier:2 lang:en -->
-
 ### 
  | i4_g26 | pdf_manual | tier:2 | lang:en | layer:general | p:0
 
@@ -28618,53 +28615,52 @@ CONTROLS
 107
 Online Edition for Part no. 01405A546C7 - II/22
 
-### Warning
- | i4_g26 | pdf_manual | tier:2 | lang:en | layer:body | p:108
-
-Warning
-There is a risk of jamming when moving the
-seats. There is a risk of injury or risk of damage to property. Make sure that the travel
-path of the seat is clear prior to any adjustment.
-Overview
-The memory buttons are located on the front
-doors.
-Storing settings
-1.
-Set the desired position.
-2.
-  Press the button. The LED lights up.
-3. Press the desired button 1 or 2 while the
-LED is lit. A signal sounds.
-Go to Settings
-Press the desired button 1 or 2.
-The stored position is called up.
-The procedure stops when a seat setting
-switch or one of the memory buttons is
-pressed again.
-The adjustment of the seat position on the
-driver's side is interrupted after a short time
-while driving.
-Seat heating
-General information
-If the trip is continued within approx. 15 minutes after an intermediate stop, the functions
-are turned on automatically with the temperature that was last set.
-Automatic climate control
-Overview
-Turning the seat heating on/off
-1.
-"CLIMATE MENU" tap in the center of the
-climate control bar.
-2.
-  seat heating.
-3. Select the desired setting.
-When ECO PRO is activated, the heater output
-is reduced.
-Additional information:
-ECO PRO, refer to page 277.
-CONTROLS
-Seats, mirrors and steering wheel
-108
-Online Edition for Part no. 01405A546C7 - II/22
+> ⚠️ **Внимание:** | i4_g26 | pdf_manual | tier:2 | lang:en | layer:body | p:108
+>
+> Warning
+> There is a risk of jamming when moving the
+> seats. There is a risk of injury or risk of damage to property. Make sure that the travel
+> path of the seat is clear prior to any adjustment.
+> Overview
+> The memory buttons are located on the front
+> doors.
+> Storing settings
+> 1.
+> Set the desired position.
+> 2.
+>   Press the button. The LED lights up.
+> 3. Press the desired button 1 or 2 while the
+> LED is lit. A signal sounds.
+> Go to Settings
+> Press the desired button 1 or 2.
+> The stored position is called up.
+> The procedure stops when a seat setting
+> switch or one of the memory buttons is
+> pressed again.
+> The adjustment of the seat position on the
+> driver's side is interrupted after a short time
+> while driving.
+> Seat heating
+> General information
+> If the trip is continued within approx. 15 minutes after an intermediate stop, the functions
+> are turned on automatically with the temperature that was last set.
+> Automatic climate control
+> Overview
+> Turning the seat heating on/off
+> 1.
+> "CLIMATE MENU" tap in the center of the
+> climate control bar.
+> 2.
+>   seat heating.
+> 3. Select the desired setting.
+> When ECO PRO is activated, the heater output
+> is reduced.
+> Additional information:
+> ECO PRO, refer to page 277.
+> CONTROLS
+> Seats, mirrors and steering wheel
+> 108
+> Online Edition for Part no. 01405A546C7 - II/22
 
 ### Rear automatic climate control
  | i4_g26 | pdf_manual | tier:2 | lang:en | layer:interior | p:109
@@ -34540,60 +34536,59 @@ CONTROLS
 201
 Online Edition for Part no. 01405A546C7 - II/22
 
-### Warning
- | i4_g26 | pdf_manual | tier:2 | lang:en | layer:lighting | p:202
-
-Warning
-The use of the system can lead to an increased risk of accidents in the following situations, for instance:
-▷
-On winding roads.
-▷
-With high traffic volume.
-▷
-On slippery roads, in fog, snow, or wet
-conditions, or on a loose road surface.
-There may be a risk of accident or risk of
-damage to property. Only use the system if
-driving at constant speed is possible.
-Warning
-The set speed can be incorrectly adjusted or
-called up by mistake. There is a risk of accident. Adjust the set speed to the traffic conditions. Watch surrounding traffic closely and
-actively intervene where appropriate.
-Overview
-Buttons on the steering wheel
-Button Function
-Cruise control on/off.
-Continue cruise control with the last
-setting.
-Interrupt cruise control.
-Button Function
-Store current speed.
-Speed Limit Assistant: accept suggested speed manually.
-Rocker switch:
-Set speed.
-Turning Cruise Control on/off
-Turning on the system
-Depending on the equipment version,
-press the relevant button on the steering wheel.
-The indicator lights in the instrument cluster
-light up and the mark on the speedometer is
-set to the current speed.
-Cruise control is active. The current speed is
-maintained and stored as set speed.
-If necessary, the Dynamic Stability Control will
-be turned on.
-To turn off the system
-Depending on the equipment version,
-press the relevant button on the steering wheel.
-The displays turn off. The stored set speed is
-deleted.
-Interrupting cruise control
-Stopping the system manually
-When active, press the button.
-CONTROLS
-Driver assistance systems
-202
-Online Edition for Part no. 01405A546C7 - II/22
+> ⚠️ **Внимание:** | i4_g26 | pdf_manual | tier:2 | lang:en | layer:lighting | p:202
+>
+> Warning
+> The use of the system can lead to an increased risk of accidents in the following situations, for instance:
+> ▷
+> On winding roads.
+> ▷
+> With high traffic volume.
+> ▷
+> On slippery roads, in fog, snow, or wet
+> conditions, or on a loose road surface.
+> There may be a risk of accident or risk of
+> damage to property. Only use the system if
+> driving at constant speed is possible.
+> Warning
+> The set speed can be incorrectly adjusted or
+> called up by mistake. There is a risk of accident. Adjust the set speed to the traffic conditions. Watch surrounding traffic closely and
+> actively intervene where appropriate.
+> Overview
+> Buttons on the steering wheel
+> Button Function
+> Cruise control on/off.
+> Continue cruise control with the last
+> setting.
+> Interrupt cruise control.
+> Button Function
+> Store current speed.
+> Speed Limit Assistant: accept suggested speed manually.
+> Rocker switch:
+> Set speed.
+> Turning Cruise Control on/off
+> Turning on the system
+> Depending on the equipment version,
+> press the relevant button on the steering wheel.
+> The indicator lights in the instrument cluster
+> light up and the mark on the speedometer is
+> set to the current speed.
+> Cruise control is active. The current speed is
+> maintained and stored as set speed.
+> If necessary, the Dynamic Stability Control will
+> be turned on.
+> To turn off the system
+> Depending on the equipment version,
+> press the relevant button on the steering wheel.
+> The displays turn off. The stored set speed is
+> deleted.
+> Interrupting cruise control
+> Stopping the system manually
+> When active, press the button.
+> CONTROLS
+> Driver assistance systems
+> 202
+> Online Edition for Part no. 01405A546C7 - II/22
 
 ### Stopping the system automatically
  | i4_g26 | pdf_manual | tier:2 | lang:en | layer:general | p:203
@@ -36514,83 +36509,82 @@ CONTROLS
 231
 Online Edition for Part no. 01405A546C7 - II/22
 
-### Warning
- | i4_g26 | pdf_manual | tier:2 | lang:en | layer:general | p:232
-
-Warning
-Due to high speeds when the Park Distance
-Control is activated, the warning can be delayed due to physical circumstances. There is
-a risk of injury or risk of damage to property.
-Avoid approaching an object too fast. Avoid
-driving off quickly while Park Distance Control
-is not yet active.
-Sensors
-The system is controlled by the following sensors:
-▷
-Ultrasound sensors in the front/rear bumpers.
-▷
-Ultrasonic sensors, side.
-Turning Park Distance Control
-on/off
-Turning on the system automatically
-The system switches on automatically in the
-following situations:
-▷
-When drive readiness is turned on when
-engaging selector lever position R.
-▷
-While approaching detected obstacles if the
-speed is lower than approx.
-2.5 mph/4 km/h. The activation distance
-depends on the situation in question.
-You may switch automatic activation when obstacles are detected on and off.
-1.
-"MENU"
-2. "Vehicle apps"
-3. "Driving settings"
-4. "Driver Assistance"
-5. "Parking and maneuvering"
-6. "Automatic PDC activation"
-Turning off the system automatically
-When driving forward, the system turns off automatically as needed when a certain distance
-or speed is exceeded.
-Turning the system on/off manually
-Press the button.
-▷
-On: the LED lights up.
-▷
-Off: the LED goes out.
-If the system is manually switched on when
-the reverse gear is engaged, the rearview
-camera image is displayed.
-Depending on the national-market version, the
-system cannot be turned off manually when
-the reverse gear is engaged.
-Acoustic warning
-General information
-An intermittent tone indicates when the vehicle
-is approaching an object. E.g., when an object
-is detected at the rear left of the vehicle, a
-sound is heard from the rear left speaker.
-The shorter the distance to the object, the
-shorter the intervals of the intermittent tones.
-When the distance to a detected object is less
-than approx. 8 in/20 cm, a continuous tone is
-sounded.
-When there are objects in front of and behind
-the vehicle at the same time, at a distance
-smaller than approx. 8 in/20 cm, an alternating
-continuous tone will sound between the front
-and rear speakers.
-The intermittent tones and the continuous tone
-are turned off when selector lever position P is
-engaged.
-Depending on national-market version, the intermittent tones are switched off after a short
-time when the vehicle is stationary.
-CONTROLS
-Parking
-232
-Online Edition for Part no. 01405A546C7 - II/22
+> ⚠️ **Внимание:** | i4_g26 | pdf_manual | tier:2 | lang:en | layer:general | p:232
+>
+> Warning
+> Due to high speeds when the Park Distance
+> Control is activated, the warning can be delayed due to physical circumstances. There is
+> a risk of injury or risk of damage to property.
+> Avoid approaching an object too fast. Avoid
+> driving off quickly while Park Distance Control
+> is not yet active.
+> Sensors
+> The system is controlled by the following sensors:
+> ▷
+> Ultrasound sensors in the front/rear bumpers.
+> ▷
+> Ultrasonic sensors, side.
+> Turning Park Distance Control
+> on/off
+> Turning on the system automatically
+> The system switches on automatically in the
+> following situations:
+> ▷
+> When drive readiness is turned on when
+> engaging selector lever position R.
+> ▷
+> While approaching detected obstacles if the
+> speed is lower than approx.
+> 2.5 mph/4 km/h. The activation distance
+> depends on the situation in question.
+> You may switch automatic activation when obstacles are detected on and off.
+> 1.
+> "MENU"
+> 2. "Vehicle apps"
+> 3. "Driving settings"
+> 4. "Driver Assistance"
+> 5. "Parking and maneuvering"
+> 6. "Automatic PDC activation"
+> Turning off the system automatically
+> When driving forward, the system turns off automatically as needed when a certain distance
+> or speed is exceeded.
+> Turning the system on/off manually
+> Press the button.
+> ▷
+> On: the LED lights up.
+> ▷
+> Off: the LED goes out.
+> If the system is manually switched on when
+> the reverse gear is engaged, the rearview
+> camera image is displayed.
+> Depending on the national-market version, the
+> system cannot be turned off manually when
+> the reverse gear is engaged.
+> Acoustic warning
+> General information
+> An intermittent tone indicates when the vehicle
+> is approaching an object. E.g., when an object
+> is detected at the rear left of the vehicle, a
+> sound is heard from the rear left speaker.
+> The shorter the distance to the object, the
+> shorter the intervals of the intermittent tones.
+> When the distance to a detected object is less
+> than approx. 8 in/20 cm, a continuous tone is
+> sounded.
+> When there are objects in front of and behind
+> the vehicle at the same time, at a distance
+> smaller than approx. 8 in/20 cm, an alternating
+> continuous tone will sound between the front
+> and rear speakers.
+> The intermittent tones and the continuous tone
+> are turned off when selector lever position P is
+> engaged.
+> Depending on national-market version, the intermittent tones are switched off after a short
+> time when the vehicle is stationary.
+> CONTROLS
+> Parking
+> 232
+> Online Edition for Part no. 01405A546C7 - II/22
 
 ### Adjusting the volume
  | i4_g26 | pdf_manual | tier:2 | lang:en | layer:drivetrain | p:233
@@ -42017,68 +42011,67 @@ Wheels and tires
 318
 Online Edition for Part no. 01405A546C7 - II/22
 
-### Warning
- | i4_g26 | pdf_manual | tier:2 | lang:en | layer:general | p:319
-
-Warning
-Supports such as wooden blocks under the
-jack reduce the load-carrying capacity of the
-jack to bear weight. The load-carrying capacity of the wooden blocks may be exceeded and the vehicle may tip over. There is
-a risk of injury or danger to life. Do not place
-supports under the jack.
-Warning
-The jack, issued by the vehicle manufacturer,
-is provided in order to perform a wheel
-change in the event of a breakdown. The jack
-is not designed for frequent use; for example,
-changing from summer to winter tires. Using
-the jack frequently may cause it to become
-jammed or damaged. There is a risk of injury
-and risk of damage to property. Only use the
-jack to change an emergency or spare wheel
-in the event of a breakdown.
-Warning
-On soft, uneven or slippery ground, for example snow, ice, tiles, etc., the jack can slip
-away. There is a risk of injury. If possible,
-change the wheel on a flat, solid, and slip-resistant surface.
-Warning
-The jack is optimized for lifting the vehicle
-and for the jacking points on the vehicle only.
-There is a risk of injury. Do not lift any other
-vehicle or cargo using the jack.
-Warning
-When the jack is not inserted into the jacking
-point provided for this purpose, the vehicle
-may be damaged or the jack may slip when it
-is being cranked up. There is a risk of injury
-or risk of damage to property. When cranking
-up the jack, ensure that it is inserted in the
-jacking point next to the wheel well.
-Warning
-A vehicle that is raised on a jack may fall off
-of the jack if lateral forces are exerted on it.
-There is a risk of injury and risk of damage to
-property. While the vehicle is raised, do not
-exert lateral effort on the vehicle or pull
-abruptly on the vehicle. Have a stuck wheel
-removed by a dealer’s service center or another qualified service center or repair shop.
-Warning
-Incorrect handling of the jack can damage the
-vehicle's underbody and expose high-voltage
-components. There is a risk of injury or risk of
-damage to property. When cranking up the
-jack, ensure that it is inserted in the jacking
-point next to the wheel well. Make sure not to
-damage any of the underbody parts.
-Securing the vehicle against rolling
-away
-General information
-The vehicle manufacturer recommends to additionally secure the vehicle against rolling
-away when changing a wheel.
-Wheels and tires
-MOBILITY
-319
-Online Edition for Part no. 01405A546C7 - II/22
+> ⚠️ **Внимание:** | i4_g26 | pdf_manual | tier:2 | lang:en | layer:general | p:319
+>
+> Warning
+> Supports such as wooden blocks under the
+> jack reduce the load-carrying capacity of the
+> jack to bear weight. The load-carrying capacity of the wooden blocks may be exceeded and the vehicle may tip over. There is
+> a risk of injury or danger to life. Do not place
+> supports under the jack.
+> Warning
+> The jack, issued by the vehicle manufacturer,
+> is provided in order to perform a wheel
+> change in the event of a breakdown. The jack
+> is not designed for frequent use; for example,
+> changing from summer to winter tires. Using
+> the jack frequently may cause it to become
+> jammed or damaged. There is a risk of injury
+> and risk of damage to property. Only use the
+> jack to change an emergency or spare wheel
+> in the event of a breakdown.
+> Warning
+> On soft, uneven or slippery ground, for example snow, ice, tiles, etc., the jack can slip
+> away. There is a risk of injury. If possible,
+> change the wheel on a flat, solid, and slip-resistant surface.
+> Warning
+> The jack is optimized for lifting the vehicle
+> and for the jacking points on the vehicle only.
+> There is a risk of injury. Do not lift any other
+> vehicle or cargo using the jack.
+> Warning
+> When the jack is not inserted into the jacking
+> point provided for this purpose, the vehicle
+> may be damaged or the jack may slip when it
+> is being cranked up. There is a risk of injury
+> or risk of damage to property. When cranking
+> up the jack, ensure that it is inserted in the
+> jacking point next to the wheel well.
+> Warning
+> A vehicle that is raised on a jack may fall off
+> of the jack if lateral forces are exerted on it.
+> There is a risk of injury and risk of damage to
+> property. While the vehicle is raised, do not
+> exert lateral effort on the vehicle or pull
+> abruptly on the vehicle. Have a stuck wheel
+> removed by a dealer’s service center or another qualified service center or repair shop.
+> Warning
+> Incorrect handling of the jack can damage the
+> vehicle's underbody and expose high-voltage
+> components. There is a risk of injury or risk of
+> damage to property. When cranking up the
+> jack, ensure that it is inserted in the jacking
+> point next to the wheel well. Make sure not to
+> damage any of the underbody parts.
+> Securing the vehicle against rolling
+> away
+> General information
+> The vehicle manufacturer recommends to additionally secure the vehicle against rolling
+> away when changing a wheel.
+> Wheels and tires
+> MOBILITY
+> 319
+> Online Edition for Part no. 01405A546C7 - II/22
 
 ### On a level surface
  | i4_g26 | pdf_manual | tier:2 | lang:en | layer:steering | p:320
@@ -42894,62 +42887,61 @@ MOBILITY
 335
 Online Edition for Part no. 01405A546C7 - II/22
 
-### Warning
- | i4_g26 | pdf_manual | tier:2 | lang:en | layer:ev | p:336
-
-Warning
-Fluids in the high-voltage battery are corrosive. There is a risk of injury. Do not touch fluids escaping from the high-voltage battery.
-Jump-starting
-General information
-Have only a dealer’s service center or another
-qualified service center or repair shop perform
-the jump-start.
-Safety information
-DANGER
-Contact with live components can lead to an
-electric shock. There is a risk of injury or danger to life. Do not touch any components that
-are under voltage.
-Towing
-Safety information
-Warning
-Due to system limits, individual functions can
-malfunction during tow-starting/towing when
-Forward Collision Mitigation is activated.
-There is a risk of accident. Switch Forward
-Collision Mitigation off prior to tow-starting/
-towing.
-Transporting the vehicle
-General information
-The vehicle is not permitted to be towed.
-Safety information
-NOTICE
-The vehicle can be damaged when towing
-the vehicle with a single lifted axle. There is a
-risk of damage to property, among other potential damage. The vehicle should only be
-transported on a loading platform.
-NOTICE
-The vehicle can become damaged when lifting and securing it.
-There is a risk of damage to property, among
-other potential damage.
-▷
-Lift the vehicle using suitable means.
-▷
-Do not lift or secure the vehicle by its tow
-fitting, body parts, or suspension parts.
-Pushing the vehicle
-To remove a broken-down vehicle from the
-hazardous area, push it for a short distance at
-a speed of no more than 6 mph/10 km/h.
-Additional information:
-Rolling or pushing the vehicle, refer to
-page 121.
-Tow truck
-The vehicle should only be transported on a
-loading platform.
-MOBILITY
-Breakdown Assistance
-336
-Online Edition for Part no. 01405A546C7 - II/22
+> ⚠️ **Внимание:** | i4_g26 | pdf_manual | tier:2 | lang:en | layer:ev | p:336
+>
+> Warning
+> Fluids in the high-voltage battery are corrosive. There is a risk of injury. Do not touch fluids escaping from the high-voltage battery.
+> Jump-starting
+> General information
+> Have only a dealer’s service center or another
+> qualified service center or repair shop perform
+> the jump-start.
+> Safety information
+> DANGER
+> Contact with live components can lead to an
+> electric shock. There is a risk of injury or danger to life. Do not touch any components that
+> are under voltage.
+> Towing
+> Safety information
+> Warning
+> Due to system limits, individual functions can
+> malfunction during tow-starting/towing when
+> Forward Collision Mitigation is activated.
+> There is a risk of accident. Switch Forward
+> Collision Mitigation off prior to tow-starting/
+> towing.
+> Transporting the vehicle
+> General information
+> The vehicle is not permitted to be towed.
+> Safety information
+> NOTICE
+> The vehicle can be damaged when towing
+> the vehicle with a single lifted axle. There is a
+> risk of damage to property, among other potential damage. The vehicle should only be
+> transported on a loading platform.
+> NOTICE
+> The vehicle can become damaged when lifting and securing it.
+> There is a risk of damage to property, among
+> other potential damage.
+> ▷
+> Lift the vehicle using suitable means.
+> ▷
+> Do not lift or secure the vehicle by its tow
+> fitting, body parts, or suspension parts.
+> Pushing the vehicle
+> To remove a broken-down vehicle from the
+> hazardous area, push it for a short distance at
+> a speed of no more than 6 mph/10 km/h.
+> Additional information:
+> Rolling or pushing the vehicle, refer to
+> page 121.
+> Tow truck
+> The vehicle should only be transported on a
+> loading platform.
+> MOBILITY
+> Breakdown Assistance
+> 336
+> Online Edition for Part no. 01405A546C7 - II/22
 
 ### Towing other vehicles
  | i4_g26 | pdf_manual | tier:2 | lang:en | layer:body | p:337

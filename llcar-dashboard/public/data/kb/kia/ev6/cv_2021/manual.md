@@ -1,13 +1,16 @@
-# Manual: kia/ev6 (1975 chunks)
-<!-- doc_type:service_manual tier:4 lang:en -->
+---
+brand: kia
+model: ev6
+generation: cv_2021
+source: kb
+---
+
 
 ### WARNING California Proposition 65
-`kia_ev6_en_71f7bb15` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 “Operating, servicing and maintaining a passenger vehicle or off-road vehicle can expose you to chemicals including engine exhaust, carbon monoxide, phthalates, and lead, which are known to the State of California to cause cancer and birth defects or other reproductive harm. To minimize exposure, avoid breathing exhaust, do not idle the engine except as necessary, service your vehicle in a well-ventilated area and wear gloves or wash your hands frequently when servicing your vehicle. For more information go to www.P65Warnings.ca.gov/passengervehicle.
 
 ### FOREWORD
-`kia_ev6_en_f1c138d1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Dear Customer,
 
@@ -30,7 +33,6 @@ All rights reserved. May not be reproduced or translated in whole or in part wit
 Printed in Korea
 
 ### How to use this manual
-`kia_ev6_en_3c9b57d3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 We want to help you get the greatest possible driving pleasure from your vehicle. Your Owner's Manual can assist you in many ways.
 
@@ -44,32 +46,26 @@ Chapters: This manual has nine chapters plus an index. Each chapter begins with 
 
 You will find various WARNINGS, CAUTIONS, and NOTICES in this manual. These WARNINGS were prepared to enhance your personal safety. You should carefully read and follow ALL procedures and recommendations provided in these WARNINGS, CAUTIONS and NOTICES.
 
-### WARNING
-`kia_ev6_en_f79d4d90` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-A WARNING indicates a situation in which harm, serious bodily injury or death could result if the warning is ignored.
+> ⚠️ **Внимание:** 
+> A WARNING indicates a situation in which harm, serious bodily injury or death could result if the warning is ignored.
 
 ### A CAUTION
-`kia_ev6_en_4c897512` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/168f1a600b35c4dcf7f5638e544bbd3dd36c35b791e85d33bee71bccac1fbcfd.webp)
 
 A CAUTION indicates a situation in which damage to your vehicle could result if the caution is ignored.
 
 ### \* NOTICE
-`kia_ev6_en_ad931e0e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/cdf7b8bbdc0a2b3c583d8e049d42e083b97073eae69f845564264b38b1ab0b6a.webp)
 
 A NOTICE indicates interesting or helpful information is being provided.
 
 ### Table of Contents
-`kia_ev6_en_99cfbec4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Electric vehicle guide Introduction Your vehicle at a glance Safety features of your vehicle Features of your vehicle Driving your vehicle What to do in an emergency Maintenance Specifications, Consumer information and Reporting safety defects Abbreviation Index
 
 ### EV menu. 中 1-6
-`kia_ev6_en_4889f9cc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 僅 EV mode screen. 1-7
 Energy Information ·····.·   1-8
@@ -80,7 +76,6 @@ Nearby Stations     1-14
 EV Settings   1-15
 
 ### Charging electric vehicle = 1-22
-`kia_ev6_en_6aa60299` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Electric charging door   .1-22
 Precautions for charging electric vehicle  1-23
@@ -90,7 +85,6 @@ DC charge   1-29
 Portable charge (sold separately).   \*\*\*\*\*\*\*\*\*· 1-31
 
 ### Driving electric vehicle. 1-40
-`kia_ev6_en_60002c01` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 How to start the vehicle 1-40
 How to stop the vehicle. 1-40
@@ -105,21 +99,18 @@ Warning and indicator lights (Related to electric vehicle)   1-45
 LCD display messages (Related to electric vehicle) ..·· 1-46
 
 ### Safety precautions for electric vehicle . 1-51
-`kia_ev6_en_dd4fcc00` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 僅 If an accident occurs .. 1-51
 Other precautions for electric vehicle. ： .1-53
 High voltage cut-off switch . .1-53
 
 ### Electric vehicle guide Overview of electric vehicle
-`kia_ev6_en_c84fea17` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 An electric vehicle is driven using a battery and an electric motor. While general vehicles use an internal combustion engine and gasoline as fuel, electric vehicles use electrical energy that is charged & stored inside the high voltage battery.
 
 As a result, battery electric vehicles do not require gasoline and do not give off tailpipe emissions.
 
 ### Characteristics of electric vehicles
-`kia_ev6_en_d18f7f75` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 It is driven using the electrical energy that is charged & stored inside the high voltage battery. This method of propulsion eliminates tailpipe emissions from the vehicle.
 
@@ -128,19 +119,16 @@ A high performance electric motor is used in the vehicle as well. Compared to ma
 When the battery charge is not sufficient, AC charge (L2-Normal), DC charge and Trickle charge (L1-Trickle) are available. (Refer to "Charge types for electric vehicle" on page 1-17.)
 
 ### What Does Regenerative Braking Do?
-`kia_ev6_en_35cd7f9c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 It uses the electric motor when decelerating and braking and recaptures & transforms kinetic to electrical energy in order to charge the high voltage battery. (Torque is applied in the opposite direction when decelerating to generate braking force and electric energy.)
 
 ### Battery information
-`kia_ev6_en_491645c5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The vehicle is composed of a high voltage battery that drives the motor, air conditioner, and charges an auxiliary battery (12V) that drives all other 12V systems.
 
 The auxiliary battery is automatically charged when the vehicle is in the READY mode or the high voltage battery is being charged.
 
 ### Main components of electric vehicle
-`kia_ev6_en_887314e0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 On-Board Charger (OBC): Transforms (inverts) AC power charge power, to DC power, to charge the high voltage battery.
 
@@ -149,7 +137,6 @@ Inverter: Transforms direct current into alternating current to supply power to 
 \* LDC: Low Voltage DC-DC Converter \* VCU: Vehicle Control Unit
 
 ### ！ WARNING
-`kia_ev6_en_238fd164` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not remove or disassemble high voltage components and high voltage battery connectors and/or wiring (orange cabling). Also, be careful not to damage high voltage components and the high voltage battery. It may cause serious injury and significantly
 
@@ -157,7 +144,6 @@ impact the performance and durability of the vehicle.
 When inspection and maintenance is required for high voltage components and the high voltage battery, have the vehicle inspected by an authorized Kia dealer.
 
 ### High voltage (HV) battery (lithium-ion polymer)
-`kia_ev6_en_ffacec67` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 The charge amount of the high
 voltage battery may gradually
@@ -182,7 +168,6 @@ The value of the high voltage battery charge level may vary according to the cha
 temperature, etc.). In order to fully charge the battery, the current of the high voltage battery will be gradually decreased, so that the longevity and safety of the battery can be secured.
 
 ### ！ CAUTION
-`kia_ev6_en_1b7f72b6` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Make sure to use a designated charger when charging the high voltage battery. Using non-approved or inappropriate type of chargers may have a serious impact on vehicle durability. If the vehicle is kept with insufficient charge for a long period, it may damage the high voltage battery and the high voltage battery may have to be replaced depending on the level of degradation.
 
@@ -190,19 +175,15 @@ If the vehicle is in a collision, contact an authorized Kia dealer to inspect wh
 Using the V2L function may reduce the mileage due to the use of high voltage battery energy, and repeated use of the V2L function may cause a decrease in the life of the high voltage battery.
 
 ### High voltage battery warmer sys tem (if equipped)
-`kia_ev6_en_df5a560f` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 The high voltage battery warmer system prevents reduction of battery output when battery temperature is low. If the charging connector is connected, the warmer system automatically operates according to the battery temperature. Charging time may shorten compare to vehicles without the high voltage battery warmer system. But, the use of electricity charge may increase because of high voltage battery warmer system operation.
 
-### CAUTION
-`kia_ev6_en_f5cd16c8` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
-
-![](images/7695b4d6c19c78ee2568e0fc12377dfe6140f3b55554c59760171420c07dd0af.webp)
-
-The high voltage battery warmer system operates when the charging connector is connected to the vehicle. However, the high voltage warmer system may not operate when battery temperature drops below -31 °F (-35 °C).
+> ⚠️ **Внимание:** 
+> ![](images/7695b4d6c19c78ee2568e0fc12377dfe6140f3b55554c59760171420c07dd0af.webp)
+>
+> The high voltage battery warmer system operates when the charging connector is connected to the vehicle. However, the high voltage warmer system may not operate when battery temperature drops below -31 °F (-35 °C).
 
 ### EV menu
-`kia_ev6_en_0236d883` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you select the EV menu at the multimedia system home screen, you can enter the EV menu.
 
@@ -211,7 +192,6 @@ If you select the EV menu at the multimedia system home screen, you can enter th
 The image of EV menu screen in this manual may differ from the actual screen depending on the vehicle specification and the version of the multimedia system software. For more information, please refer to the separately supplied infotainment system manual.
 
 ### EV mode screen
-`kia_ev6_en_26221ece` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/67eafd80fc0490cd02c6c01e09c3119a7de4bea3670f5b66724665b8f8f78a68.webp)
 
@@ -224,14 +204,12 @@ The image of EV menu screen in this manual may differ from the actual screen dep
 7 Menu
 
 ### Energy Information
-`kia_ev6_en_f93f112b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7f4d91539b1b1885f3c6099ba6cba687377c26d02fbf6fed0f7a20ef533da589.webp)
 
 Select EV and see the vehicle image from the infotainment system screen. You can check battery information and energy consumption.
 
 ### Battery Information
-`kia_ev6_en_09fe3332` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/21a003060393f39592edb5e80c5b384790dec04c5ed5d7b6c56a9d9d6b56ff74.webp)
 
@@ -245,7 +223,6 @@ The distance to empty may vary
 according to the change of the driving pattern even if the same target battery charge level is set.
 
 ### Next Departure
-`kia_ev6_en_699ce2ce` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9e99988a2f2dd9f8589e32b07d1595151377c4de060a1f8ef1f3e77c829d597d.webp)
 
@@ -254,7 +231,6 @@ A: Electric Vehicle 1 Next Departure
 Select EV → Next Departure on the screen. You can set the date and time of when to charge the battery, climate con trol temperature, and other various functions.
 
 ### Departure Time
-`kia_ev6_en_d631bd6c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c6237ae3f61ff66c0e9913adac4c42819e0eb070124be37e539ac937e4a32bc5.webp)
 
@@ -263,13 +239,11 @@ A: Next Departure 1 1st Departure Time 2 2nd Departure Time
 ![](images/f309a0a888c3153f80e49b9c7dec6d0e8c7de5561a2c363e488e200e263e9e2a.webp)
 
 ### A: Departure 1
-`kia_ev6_en_baa87872` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Departure Time: Set the time that you wish to start the vehicle after charging the battery.
 2 Departure Day: Set the day of the week to activate reserved charging and target temperature for departure time.
 
 ### Charging and Climate
-`kia_ev6_en_b7f076e0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8de668279ccb3f634bea3c4b5443c2f3bdb1e55c37888369cfa6dcfc49de0d76.webp)
 
@@ -279,14 +253,12 @@ Select EV → Charging and Climate on
 the screen.
 
 ### \* NOTICE
-`kia_ev6_en_3ee6e3b1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Vehicle must be connected with the charging connector at the time set for pre-scheduled charging.
 
 ![](images/ec3e372bd7b521e31d63cb35d2ae35203cdffac84690c6655f444108ef42c1a8.webp)
 
 ### A: Scheduled Charging and Target Temperature
-`kia_ev6_en_ed07db2e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Scheduled Charging
 2 Target Temperature
@@ -294,7 +266,6 @@ Vehicle must be connected with the charging connector at the time set for pre-sc
 You can set the date and time of when to charge the battery and the climate control temperature. Also, you may select the time to start charging using the off-peak time setting.
 
 ### A: Off-peak Hours Settings
-`kia_ev6_en_7935d3cf` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Start Time: Charging begins at the designated off-peak time. If deselected, starts charging only on the scheduled time.
 
@@ -305,24 +276,20 @@ You can set the date and time of when to charge the battery and the climate cont
 Off-peak tariffs prioritized: If selected, starts charging at offpeak time (may keep on charging pass off-peak time to charge 100%). Charge only during Off-peak: If selected, charges only within offpeak time (may not charge 100%).
 
 ### \* NOTICE
-`kia_ev6_en_09f309f7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/fbb2de4b1571c5bd03b52fda19a0224dcf6a1f38db705fac12bef0042b5fbc9f.webp)
 
 Off-peak charging rates for electricity may not be available everywhere. Check with your local utility for details.
 
 ### A: Target Temperature Settings
-`kia_ev6_en_8e26578b` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 1 Set Target Temperature: If the target temperature (1) is set with the charger connected, the cabin temperature will be adjusted to the target temperature at departure time (without loss of high voltage battery charging level). In cold weather, pre-scheduled heating helps enhance electric vehicle performance by heating the vehicle in advance.
 
 ### Vehicle To Load (V2L) (if equipped)
-`kia_ev6_en_43203510` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 V2L is the system that provides AC power using the high voltage battery for driving to operate several electronical products.
 
 ### How to connect
-`kia_ev6_en_0238847d` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 ![](images/4acfacf478c4c23a3ed80c16f2b2d6f5af67bea51b7f12c816011ec7c2f0daf3.webp)
 
@@ -335,12 +302,10 @@ You can set the battery discharging limit for high voltage battery for driving.
 ![](images/83460caa594f58ddba71ad74814c1e296e7fd494feac8c687af64040199f6ab9.webp)
 
 ### Energy information
-`kia_ev6_en_29136bf2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Select EV and see the vehicle image from the infotainment system screen. You can check battery discharging level.
 
 ### Exterior
-`kia_ev6_en_74e2110c` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 1 Open the cover of the V2L connector.
 2 Close the cover after connecting compatible appliances and electronic products to the power outlet.
@@ -350,7 +315,6 @@ Select EV and see the vehicle image from the infotainment system screen. You can
 5 Press the switch (1) to turn off the light (2) the V2L will be off. You can disconnect the V2L connector when the light (2) turns off or the charging door lock is deactivated pressing the door unlock button on the smart key.
 
 ### Interior
-`kia_ev6_en_6e2f2c17` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Connect to the power outlet located in bottom of the rear seat with the EV button in the ON position.
 
@@ -370,24 +334,20 @@ Green: Normal power supply
 through the normal connection of the power outlet.
 
 ### LCD display messages
-`kia_ev6_en_08ca996f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 V2L has ended. Battery level has reached the set value
 
 ![](images/0e020aec3dc66714d0849e93503ec83f574fb05651f1d5b26f2442bc46c2150d.webp)
 
 ### A: V2L has ended. Battery level has reached the set value
-`kia_ev6_en_56468f3e` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 When the high voltage battery level reaches the discharging limit set level, the V2L will stop and the warning will be displayed. If you want to use the V2L continuously, make the discharging limit set level lower than the present battery level.
 
 ### A: V2L stopped due to excessive power use
-`kia_ev6_en_07b8668b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you use an electrical appliance that exceeds the maximum power output the vehicle can supply, i will stop working and display a warning message. Make sure that the total power consumption of your electrical appliances does not exceed the V2L maximum power output.
 
 ### A: V2L conditions not met
-`kia_ev6_en_ab595be8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If V2L is interrupted for any of the following reasons, a warning message is displayed.
 
@@ -396,7 +356,6 @@ V2L connector switch off V2L connector overheating Opening the charging door whi
 Make sure there are no problems with the V2L connector and the vehicle indoor outlet.
 
 ### ！ WARNING
-`kia_ev6_en_0bb39a2f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not touch the V2L connector of the terminal of the vehicle charging hole. Do not put metal objects to the V2L connector or charging hole. It might be a cause of electric shock.
 Do not touch the V2L connector,
@@ -415,7 +374,6 @@ Do not charge in the following conditions. An accident might occur.
 The V2L connector, charging hole, power plug or cable is damaged, corroded or rusted. The connection part is loose. Do not use if the sheath of home appliance cables is damaged or broken. There is a risk of fire, electric shock or injury. Never use an electric heating appliance like iron, coffee pot, and toaster in the vehicle. It may cause a fire and injury.
 
 ### ！ CAUTION
-`kia_ev6_en_445df7d5` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Be well-informed of the manual to prevent accidents. The V2L discharging mode is blocked automatically in case of overheating. (When the discharging mode is blocked, check whether the V2L connector or power plug is contaminated, worn, corroded or broken or the appliance capacity is over 16 A. If the temperature falls to proper level after it is left unattended, you can use it again. Use only compatible appliances.)
 
@@ -437,7 +395,6 @@ Measuring devices that need to process accurate data.
 Electric products sensitive to inverter type AC power supply. (Inverter: A device that converts DC power into AC power) Do not use products that require a continuous power supply, such as medical equipment. The power supply may be interrupted depending on the vehicle's condition. Only use compatible appliances under 16 ampere. Plug in the power plug fully and use the qualified plug that meets the standard. If you use worn, corroded or broken plug or improper plug, it might be a cause of malfunction. Use the power plug with ground connection. Do not use high power home appliances such as air conditioner, washing machine or dryer. Do not hang home appliances on the V2L charging cable. For various devices connected to a power outlet, use only products that have obtained national safety certifi cation. For usage and precautions, refer to the manual of the device. (Electrical appliances, multi-outlets, cord extension cables, etc.) For electronic devices that are used outdoors in a vehicle, use a product with a waterproof function or use it in a a waterproof environment. Do not use in environments with rain or high humidity. (Electrical appliances, multioutlets, cord extension cables, etc.) If there is a risk of lightning, do not use the V2L function outside the vehicle.
 
 ### ！ CAUTION
-`kia_ev6_en_8f0d47b4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not connect multiple portable
 multi-outlets.
@@ -448,7 +405,6 @@ When using the V2L, the cooling fan in the vehicle motor compartment can operate
 vehicle is turned off. Do not put your hand near the cooling fan in the V2L operating state.
 
 ### \* NOTICE
-`kia_ev6_en_f82c35ac` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Please connect the V2L connector to the charging hole within 60 seconds after the charging cover opens. To prevent theft after connecting, it is changed to auto lock automatically so that it is difficult to separate.
 When using V2L, cancel the scheduled air conditioning setting. V2L may not be available to operate if the scheduled air conditioning is being acti
@@ -458,33 +414,28 @@ Opening the charging door or connecting the V2L connector to the
 charging inlet, the V2L discharging mode will shut off. If you want to use the interior and exterior V2L simultaneously, firstly connect the V2L connector to the charging inlet and use the indoor V2L.
 
 ### A: Electric Vehicle
-`kia_ev6_en_52b7415f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Select EV → Map on the screen. Stations around the current location are searched.
 
 ![](images/7632a96885a9d65baaeff9ef4b559d7d2eec0956ed58a590cea263460516159e.webp)
 
 ### A: Electric Vehicle
-`kia_ev6_en_40b48b9a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Select 'Search for charging stations' icon on the screen.
 
 ![](images/764d77ba387003d0c42153a94aeacf3558083896b37ccf233cc1c9893f7dcf2b.webp)
 
 ### A: Near Current Position
-`kia_ev6_en_04436d2a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Around the course, around the current site, around the selected destination or charging stations of interest will be searched. If you choose the charging station, the detailed information will be provided.
 
 For more detailed information, please refer to the separately supplied infotainment system manual.
 
 ### A: Electric Vehicle
-`kia_ev6_en_f83e2465` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Select EV → 'Settings' icon on the screen. You can set the Battery Charge Level, Charging Current, Winter Mode, and Utility Mode functions.
 
 ### Charging Limit (Max. % Charge)
-`kia_ev6_en_af74ecbf` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 ![](images/44ea48a8d5520057ff7452d05265664ee292e3a507e6b8dfab5b7b01f7a62b46.webp)
 
@@ -501,7 +452,6 @@ The charging level can be changed by 10%.
 If the target battery charge level is lower than the high voltage battery charge level, the battery will not be charged.
 
 ### Charging Current
-`kia_ev6_en_f232d58f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a23a98c00c63857710253ed370fd8c19190f08e001ac37ee967d9a5df1072415.webp)
 
@@ -519,7 +469,6 @@ If the charging process does not start or abruptly stops in the middle, re-selec
 Charging time varies depending on which charging current is selected.
 
 ### Winter Mode
-`kia_ev6_en_ae164817` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 ![](images/a5572734c72e27546e12f266ac313c04bc86b974e7b827e32191611952adfe76.webp)
 
@@ -532,14 +481,12 @@ Also, if the battery temperature is low during driving or when scheduled air con
 However, when the battery level is low, the mode is not operated to improve driving distance.
 
 ### Utility Mode
-`kia_ev6_en_8a7b82e3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When driving is not necessary such as while camping or when stopping the vehicle for a long time, it is possible to use the electrical devices (audio, lights, etc.) for long hours.
 
 The high voltage battery is used instead, to maintain the 12V auxiliary battery, for operating the convenient 12V features of the vehicle.
 
 ### System Setting and Activation
-`kia_ev6_en_6f3f5bfe` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5d8a52164526b8b009b757c4e02a418d272b7b73fddfbf6ad33c92c2aa962609.webp)
 
@@ -554,22 +501,18 @@ The vehicle is in the READY mode. The gear is in P (Park). EPB (Electronic Parki
 EV Settings → Utility Mode is selected on the infotainment system screen.
 
 ### System Activation
-`kia_ev6_en_31ed682e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The READY indicator will turn off and the UTIL indicator will illuminate on the cluster and the EPB is applied. All vehicle electronics are usable but the vehicle cannot be driven. The EPB can be canceled by pressing the EPB switch. Gear cannot be shifted out of P (Park). If a shift attempt is made, Shifting conditions not met message will be displayed on the cluster.
 
 ### System Deactivation
-`kia_ev6_en_fd6f6c8e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Utility Mode can be deactivated by pressing the EV button to the OFF position. The function cannot be deactivated from the EV Settings.
 
 ### AC charge
-`kia_ev6_en_1a328866` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The electric vehicle is charged by plugging into a AC charger installed at your home or a public charging station. (For further details, refer to "AC charge" on page 1-25.)
 
 ### DC charge
-`kia_ev6_en_583e2aa5` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 You can charge at high speeds at public charging stations. Refer to the respective company's manual that is provided for each DC charger type.
 
@@ -578,12 +521,10 @@ Battery performance and durability can deteriorate if the DC charger is used con
 Use of DC charge should be minimized in order to help prolong high voltage battery life.
 
 ### Portable charge
-`kia_ev6_en_502a7362` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Electric vehicle can be charged by using household electricity. The electrical outlet at your home must comply with regulations and can safely accommodate the Voltage/Current (Amps)/Power (Watts) ratings specified on the portable charge. (Portable charging cable: Sold separately)
 
 ### Charging time information
-`kia_ev6_en_bed14efc` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 ![](images/b214bcb5ea6275ad196aae818c0778030af3553533c729a104464499fb0d9823.webp)
 
@@ -600,14 +541,12 @@ A maximum diagnosis time of 3 minutes may be added to check the battery conditio
 Portable charging cable is sold separately.
 
 ### \* NOTICE
-`kia_ev6_en_155c6ed2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/902f5285040294bb565fe4859b3bb03634d9fa26837eab13e9c0803e6ac1bd49.webp)
 
 Type 3R, when mating with outlets. Additional Type 3R enclosure should be provided in the end installation.
 
 ### Charge indicator lamp for electric vehicle
-`kia_ev6_en_ee9f2f13` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Charging status
 
@@ -618,21 +557,18 @@ Electric charging door
 When charging the high voltage battery, the charge level can be checked from inside the charging door.
 
 ### High voltage indicator
-`kia_ev6_en_a0a72178` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 ![](images/20f544f10d34e73cf053088bf2bd6af8402b0ffa4d64608f77ef800e5ce81b74.webp)
 
 The high voltage indicator is located on top of the crash pad. When the 12V auxiliary battery is discharged, it is charged from the high voltage battery of the vehicle. When the high voltage electricity flow in the vehicle, the color of the indicator changes to amber and turns off after charging is finished.
 
 ### ！ WARNING
-`kia_ev6_en_fc73ab17` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 ![](images/9e59b55ef0cbb48f18cc231923d813faf625b3a83478b90af5798b345c525671.webp)
 
 When the function is activating, the Charging Indicator Lamp will turn on and high voltage electricity will be flowing in the vehicle. Do not touch the high voltage electric wire (orange), connector, and all electric components and devices. This may cause electric shock and lead to injuries. Also, do not modify your vehicle in any way. This may affect your vehicle performance and lead to an accident.
 
 ### Charging connector lock Locking charging cable
-`kia_ev6_en_23ccfc07` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ad3a65caeaac99d7f5009837d57432bf9a41f3e48b2a857829904d6f0acafeaa.webp)
 
@@ -647,24 +583,20 @@ You may select when the charging connector can be locked and unlocked in the cha
 Select Setup → Vehicle → ECO Vehicle → Charging Connector Lock in the infotainment system.
 
 ### Always mode
-`kia_ev6_en_0ef7fe2b` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The connector locks when the charging connector is plugged into the charging inlet. The connector is locked until all doors are unlocked by the driver. This mode can be used to prevent charging cable theft.
 
 If the charging connector is unlocked when all doors are unlocked, but the charging cable is not disconnected within 15 seconds, the connector will be automatically locked again. If the charging connector is unlocked when all doors are unlocked, but all doors are locked again, immediately, the connector will be automatically locked again.
 
 ### Lock While Charging mode
-`kia_ev6_en_6c274e24` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The connector locks when charging starts. The connector unlocks when charging is complete. This mode can be used when charging in a public charging station.
 
 ### Do Not Lock mode
-`kia_ev6_en_2ec910ee` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The connector unlocks regardless of the state of charging. Press the charging connector release button, disconnect the connector. Be careful to theft of the charging cable.
 
 ### Scheduled charging
-`kia_ev6_en_a0b8b96e` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 You can set-up a charging schedule for your vehicle using the infotainment screen or the Kia Connect application on your smart phone.
 
@@ -687,7 +619,6 @@ When you press the charging button for immediate charging, the scheduled charge 
 Refer to "AC charge" on page 1-25, "Portable charge (sold separately)" on page 1-31 for details about connecting the AC charger and the Portable Charging Cable (ICCB: In-Cable Control Box) (sold separately).
 
 ### Charging electric vehicle Electric charging door
-`kia_ev6_en_1763465b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b99a71abcaddf89d659f252081902a429628146c24c54232f279235dcd0d3390.webp)
 
@@ -696,7 +627,6 @@ The electric charge door will open and close as follows.
 ![](images/4580d41c4588c1f4939903ebf36911e22d507abd87fcf98259a7c01d21202e0d.webp)
 
 ### \* NOTICE
-`kia_ev6_en_6eeacc78` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The charging door automatically closes when:
 
@@ -707,7 +637,6 @@ When replacing the charging door, be sure to disconnect the vehicle-side wiring 
 door.
 
 ### Precautions for charging electric vehicle
-`kia_ev6_en_174dbd5a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 AC Charger
 
@@ -716,14 +645,12 @@ AC Charger
 Actual charger appearance and charging method may vary in accordance with the charger manufacturer.
 
 ### ！ WARNING
-`kia_ev6_en_fa6e0880` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Electromagnetic waves that are generated from the charger can seriously impact medical electric devices, such as an implantable cardiac pacemaker. When using electronic medical devices, such as an implantable cardiac pacemaker, make sure to ask the medical team and manufacturer
 
 whether charging your electric vehicle will impact the operation of the medical electric devices, such as an implantable cardiac pacemaker. Check to make sure there is no water or dust on the charging cable connector and plug before connecting to the charger and charging inlet. Connecting while there is water or dust on the charging cable connector and plug may cause a fire or electric shock.
 
 ### A WARNING
-`kia_ev6_en_dfdc2ac8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be careful not to touch the charging
 connector, charging plug, and the
@@ -736,7 +663,6 @@ prevent electrical shock when
 charging: Use a waterproof charger. Make sure to not touch the charging connector and charging plug when your hand is wet. Do not stand in water or snow when connecting the charging cable. Do not charge when there is lightning and/or potential for lightning. Do not charge when the charging connector and plug is wet.
 
 ### ！ WARNING
-`kia_ev6_en_89864651` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Immediately stop charging when you discover abnormal symptoms (e.g., smell, smoke).
 Replace the charging cable if the
@@ -749,7 +675,6 @@ When connecting or removing the charging cable, make sure to hold the charging c
 Only use the charging cable (if equipped) certified by Kia. If you use a separate extension cable such as a reel or use an uncertified cable, it may cause abnormalities of electrical outlets, leading to fire or explosion. If you pull the cable itself (without using the handle), the internal wires may disconnect or get damaged. This may lead to electric shock or fire. Do not leave the vehicle with the charging door open. An open charging door may indicate that the vehicle door has been unlocked and may be subject to vehicle theft.
 
 ### ！ CAUTION
-`kia_ev6_en_ba5b526e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Always keep the charging connector and charging plug in clean and dry condition. Be sure to keep the
 charging cable in a condition where there is no water or moisture.
@@ -761,21 +686,18 @@ Before charging the battery, turn the vehicle OFF.
 When the vehicle is switched OFF while charging, the cooling fan inside the motor compartment may automatically operate. Do not touch the cooling fan while charging. Be careful not to drop the charging connector. The charging connector can be damaged. Do NOT use a extension cord, when using the L1-Portable charger, as this may overheat and/or cause damage.
 
 ### \* NOTICE
-`kia_ev6_en_57ed2b3d` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 When charging or right after charging the high voltage battery, the cooling will be made using air conditioner system in order to control the high voltage battery temperature.
 
 At this time, the noise might occur by the air conditioner compressor and cooling fan, but this is due to normal operation.
 
 ### Unlock charging connector in emergency
-`kia_ev6_en_ed42214d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/65ccd22e7e37be32fa2ca335107976b033ffd22219e763c9d1b4f1428853b51a.webp)
 
 If the charging cable does not detach due to battery discharge and failure of the electric wires, open the liftgate and slightly pull the emergency cable on the right side area as shown above. The charging connector will then unlock.
 
 ### AC charge
-`kia_ev6_en_71a8793b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You can use an AC charger at home or public charging stations, or the charging cable provided with your vehicle. (if equipped)
 
@@ -792,7 +714,6 @@ A: Charging plug (Charger) B: Charging connector (Vehicle)
 Shape of charger and how to use the charger may be different for each manufacturer.
 
 ### How to connect AC charger
-`kia_ev6_en_0df3d55a` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 1. While the brake pedal is pressed, engage the parking brake.
 
@@ -803,37 +724,33 @@ Shape of charger and how to use the charger may be different for each manufactur
 ![](images/4b04d6b3c84e2154e026fc0bbc8149f60320916f4f0f33579f8a2669aa42cde2.webp)
 
 ### A CAUTION
-`kia_ev6_en_7345c999` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you cannot open the charging door due to freezing weather, tap lightly or remove any ice near the charging door. Do not try to forcibly open the charging door.
 
 4. Open the charging door and remove the AC charging inlet cover (1) to access the AC charging inlet port.
 
-### CAUTION
-`kia_ev6_en_848920a8` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
-
-![](images/8bdbddc03d8d82bad40febbc3a5ff8afc9e82328f508537f138d3f1b6e4759b0.webp)
-
-In order to connect the charging connector, release the door lock to unlatch the charging connector lock system. If not, the charging connector and the vehicle's charging inlet may be damaged.
-
-5. Check if there is any dust, foreign substances, water or moisture on the charging connector and charging inlet.
-6. Hold the charging connector handle and connect it to the vehicle AC charging inlet.
-7. Push the connector until you hear a "clicking" sound. If the charging connector and charging terminal are not connected properly or damaged, this may cause a fire.
-
-\* For more information about how to charge and how to disconnect, please refer to the manual of each AC charger. The shape of the charging connector may be different for each manufacturer. 8. Connect the charging plug to the electric outlet at a AC charging station to start charging.
-
-AC Charger
-
-![](images/4bbfae5471341c4b0904106ec28f47d0119fcde22150a5841aaee64486993c50.webp)
-
-9. Check if the charge indicator lamp In the instrument cluster is turned ON.
-
-![](images/69cc42878cfaf842cd51b3f2c5375b70865453273657e1d59917708795da8980.webp)
-
-Charging does not occur when the charging indicator lamp is OFF. When the charging connector and charging plug are not connected properly, reconnect the charging cable to charge.
+> ⚠️ **Внимание:** 
+> ![](images/8bdbddc03d8d82bad40febbc3a5ff8afc9e82328f508537f138d3f1b6e4759b0.webp)
+>
+> In order to connect the charging connector, release the door lock to unlatch the charging connector lock system. If not, the charging connector and the vehicle's charging inlet may be damaged.
+>
+> 5. Check if there is any dust, foreign substances, water or moisture on the charging connector and charging inlet.
+> 6. Hold the charging connector handle and connect it to the vehicle AC charging inlet.
+> 7. Push the connector until you hear a "clicking" sound. If the charging connector and charging terminal are not connected properly or damaged, this may cause a fire.
+>
+> \* For more information about how to charge and how to disconnect, please refer to the manual of each AC charger. The shape of the charging connector may be different for each manufacturer. 8. Connect the charging plug to the electric outlet at a AC charging station to start charging.
+>
+> AC Charger
+>
+> ![](images/4bbfae5471341c4b0904106ec28f47d0119fcde22150a5841aaee64486993c50.webp)
+>
+> 9. Check if the charge indicator lamp In the instrument cluster is turned ON.
+>
+> ![](images/69cc42878cfaf842cd51b3f2c5375b70865453273657e1d59917708795da8980.webp)
+>
+> Charging does not occur when the charging indicator lamp is OFF. When the charging connector and charging plug are not connected properly, reconnect the charging cable to charge.
 
 ### \* NOTICE
-`kia_ev6_en_3c4ce08e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You can start charging when the EV button is in the OFF position and the gear is in P (Park). After charging has started, you can use electrical components, such as the radio by pressing the EV button to the ACC or ON position.
 
@@ -846,7 +763,6 @@ During charging, you cannot move the gear from P (parking) to other positions.
 ![](images/7dd3f9f75ead0a2ef4284894afe1290e4909cd781d4c05eb7891fea52e74a468.webp)
 
 ### A: Remaining Time
-`kia_ev6_en_771418cd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The remaining charging time in the LCD image may differ from actual charging time.
 
@@ -856,25 +772,20 @@ When scheduled charging is set, the estimated charging time is displayed as "--"
 
 If air conditioning/remote air conditioning control is set, the estimated time to charge is displayed as "--".
 
-### CAUTION
-`kia_ev6_en_ac8bffa3` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
-
-In order to disconnect the charging connector, release the door lock to unlatch the charging connector lock, if the charge auto lock has not been activated. If not, the charging connector and the vehicle's charging inlet may be damaged.
+> ⚠️ **Внимание:** 
+> In order to disconnect the charging connector, release the door lock to unlatch the charging connector lock, if the charge auto lock has not been activated. If not, the charging connector and the vehicle's charging inlet may be damaged.
 
 ### \* NOTICE
-`kia_ev6_en_365d0e07` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Depending on the condition and durability of the high voltage battery, charger specifications, and ambient temperature, the time required for charging the battery may vary.
 
 ### Charging connector AUTO/LOCK mode
-`kia_ev6_en_a00b1030` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the charging connector and the charging inlet are connected, you can choose the mode on the infotainment system. The charging connector will be locked at a different time depending on the selected mode.
 
 For more information, refer to the "Charging connector lock" on page 1-20.
 
 ### How to disconnect AC charger
-`kia_ev6_en_fc01c87b` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 1. When charging is complete, remove the charging plug from the electrical outlet.
 
@@ -892,13 +803,10 @@ However, if the vehicle is in the charging connector AUTO mode, the charging con
 
 For more details, refer to "Charging connector lock" on page 1-20.
 
-### CAUTION
-`kia_ev6_en_8e136040` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
-
-In order to disconnect the charging connector, release the door lock to unlatch the charging connector lock system. If not, the charging connector and the vehicle's charging inlet may be damaged.
+> ⚠️ **Внимание:** 
+> In order to disconnect the charging connector, release the door lock to unlatch the charging connector lock system. If not, the charging connector and the vehicle's charging inlet may be damaged.
 
 ### ！ CAUTION
-`kia_ev6_en_3d1790c6` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/62ee9f7ef5d148efd6b1fe5cbeb028180fccb37a9725272846d23d14f6dc3919.webp)
 
@@ -914,14 +822,12 @@ If the charging connector lock does not unlatch even after the door lock doors h
 6. Store the charging cable safely in the storage compartment
 
 ### How to store and keep the AC charging cable (if equipped)
-`kia_ev6_en_31de8c7d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/fed7f632054d050db82c5e2e935075098e6b507a791bfaa59566acaafc02d662.webp)
 
 Store the charging cable safely in the storage compartment.
 
 ### \* NOTICE
-`kia_ev6_en_604cb213` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not disassemble or modify the charging Cable (ICCB: In-Cable Control Box). Such acts will void your warranty on the charger. Always keep the charging connector and charging plug in clean and dry condition. Be sure to keep the charging cable in a condition where there is no water or moisture.
 
@@ -939,19 +845,15 @@ Dry it in a well-ventilated shade after wiping off the water. Be careful not to 
 charging plug to water.
 
 ### A WARNING
-`kia_ev6_en_cfec440c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not disassemble or modify the charging Cable (ICCB: In-Cable Control Box). Such acts could result fire, electric shock and injury.
 
-### CAUTION
-`kia_ev6_en_b2f4d256` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-When cleaning the charging cable, do not use an organic solvent, such as paint thinner, benzene, alcohol and gasoline. Doing so may change the color and damage the charging cable.
-
-When you use a general car cleaner to clean the charging cable, make sure that any organic solvent mentioned above is not included.
+> ⚠️ **Внимание:** 
+> When cleaning the charging cable, do not use an organic solvent, such as paint thinner, benzene, alcohol and gasoline. Doing so may change the color and damage the charging cable.
+>
+> When you use a general car cleaner to clean the charging cable, make sure that any organic solvent mentioned above is not included.
 
 ### DC charge
-`kia_ev6_en_77139e57` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You can charge at high speeds at public charging stations. Use the charging cable installed with DC chargers.
 
@@ -959,13 +861,10 @@ You can charge at high speeds at public charging stations. Use the charging cabl
 
 Actual charger appearance and charging method may vary in accor dance with the charger manufacturer. If you use a DC charger when the vehicle is already fully charged, some DC chargers will send out an error mes sage. When the vehicle is fully charged, do not charge the vehicle.
 
-### CAUTION
-`kia_ev6_en_83de612d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-If you cannot open the charging door due to freezing weather, try again after removing any ice near the charging door. If you open it by force, the charging door may be damaged.
+> ⚠️ **Внимание:** 
+> If you cannot open the charging door due to freezing weather, try again after removing any ice near the charging door. If you open it by force, the charging door may be damaged.
 
 ### How to connect DC charger
-`kia_ev6_en_4a24317b` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 1. While the brake pedal is pressed, engage the parking brake.
 2. Place the gear in P (Park), and turn OFF the vehicle. If you try to charge while the gear is not placed in P (Park), i will automatically move to P (Park). However, charge the battery only when the gear is placed in P (Park) for safety reasons.
@@ -982,7 +881,6 @@ Refer to the manual for each type of DC charger for how to charge and remove the
 Charging doesn't start when the charging indicator lamp is OFF. When the charging connector is not connected properly, reconnect the charging cable to charge it again.
 
 ### \* NOTICE
-`kia_ev6_en_f1bd8ea1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Charge your car only when the gear is placed in P (Park) for safety.
 You can start charging when the EV button is in the OFF position and the gear is in P (Park).
@@ -990,7 +888,6 @@ After charging has started, you can use electrical components, such as the radio
 You cannot move the gear other than P (Park) while charging.
 
 ### \* NOTICE
-`kia_ev6_en_e0a07aa5` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 To control the temperature of the high voltage battery while charging, the air conditioner is used to cool down the battery, which may generate noise from operation of the air conditioner com pressor and cooling fan. Also, the air conditioner's performance may be degraded during the summer due to operation of the cooling system for the high voltage battery.
 
@@ -999,27 +896,22 @@ To control the temperature of the high voltage battery while charging, the air c
 ![](images/5f222ce2faacfa49bd91f395fb5b49615cb35ca473a70a98ec6d52bf3dcb6bd9.webp)
 
 ### \* NOTICE
-`kia_ev6_en_286d3964` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Depending on the condition and durability of the high voltage battery, charger specifications, and ambient temperature, the time required for charging the battery may vary. In rare cases, you might hear high frequency noise (very little beep sound) outside the car when charging with 400V fast charger that is deteriorated or has long communication delay. The high frequency noise can be generated only when the car tries to reduce its own electromagnetic waves to keep fast charging as possible. So, there is no need to worry about this little noise, because it is the intentional operation of the car that does not affect any charging performance or the vehicle itself at all.
 
 ### How to disconnect DC charger
-`kia_ev6_en_1fb24953` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove the charging connector when DC charging is completed, or after you stop charging using the DC charger. Refer to each respective fast charger manual for details about how to disconnect the charging connector.
 
-### CAUTION
-`kia_ev6_en_cdeb470c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-![](images/53c2ff04539c96b2241c2e2fb9e0aa3a428a13ba9bd27d8a70b5342e81b1d0d6.webp)
-
-When disconnecting the charging connector, do not try to disconnect it by force without pressing the release button. This may damage the charging connector and vehicle charging inlet.
-
-2. Make sure to completely close the DC charging inlet cover.
-3. Make sure to completely close the charging door.
+> ⚠️ **Внимание:** 
+> ![](images/53c2ff04539c96b2241c2e2fb9e0aa3a428a13ba9bd27d8a70b5342e81b1d0d6.webp)
+>
+> When disconnecting the charging connector, do not try to disconnect it by force without pressing the release button. This may damage the charging connector and vehicle charging inlet.
+>
+> 2. Make sure to completely close the DC charging inlet cover.
+> 3. Make sure to completely close the charging door.
 
 ### Portable charge (sold separately)
-`kia_ev6_en_e1903e91` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/281736963d9a53a25393f5144b15e8da919f543588daa517d0a155690ac00a96.webp)
 
@@ -1032,7 +924,6 @@ This cable is designed to prevent problems caused by unexpected battery discharg
 If this cable is connected to a household power source, it may exceed the capacity of the outlet (amperage), resulting in safety problems such as electrical shutdown and fire.
 
 ### How to set the charge level of the portable charger (sold separately)
-`kia_ev6_en_4054341a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Check the outlet's current rating before connecting the plug to the outlet.
 2. Connect the power plug to the household electrical outlet.
@@ -1048,7 +939,6 @@ If this cable is connected to a household power source, it may exceed the capaci
 Once the charging current setting is complete, start charging (refer to "Portable charge (sold separately)" on page 1-31 for more information).
 
 ### Examples of ICCB charging cur rent setting
-`kia_ev6_en_66049c80` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Control box display window
 
@@ -1057,24 +947,20 @@ Control box display window
 ![](images/d3046a0944b420b9ee4ded87e409d3429aae5e2760c8732715d5128cf968ff9a.webp)
 
 ### ！ CAUTION
-`kia_ev6_en_07ee6344` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Please make sure that charge level selection matches the capacity of your circuit breaker to avoid blown fuse.
 
 ### \* NOTICE
-`kia_ev6_en_01098fa9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 (Examples are only for reference and situations may vary depending on the sur rounding environment.)
 
 ### How to connect portable charger (ICCB: In-Cable Control Box) (sold separately)
-`kia_ev6_en_1502a3a7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Connect the plug to a household electric outlet.
 
 ![](images/445c58ddb6bbdd6be1d9e810ece36d6a3732f68ff0f80a400323d1b33a546460.webp)
 
 ### \* NOTICE
-`kia_ev6_en_87f9db81` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 If the outlet is aged, damaged or
 cracked, do not use it.
@@ -1097,27 +983,22 @@ Make sure that the plug is not loosely put into the outlet. (If it is loose, it 
 
 ![](images/acd88d1a0902380085724ee3873aeecb1921546d6352c51582604fd443ef370a.webp)
 
-### CAUTION
-`kia_ev6_en_204688c5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> If you cannot open the charging door due to freezing weather, tap lightly or remove any ice near the charging door. Do not try to forcibly open the charging door.
 
-If you cannot open the charging door due to freezing weather, tap lightly or remove any ice near the charging door. Do not try to forcibly open the charging door.
-
-### CAUTION
-`kia_ev6_en_13ab6321` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
-
-In order to connect the charging connector, unlock the vehicle's doors to unlatch the charging connector lock system.
-
-If not, the charging connector and the vehicle's charging inlet may be damaged.
-
-6. Open the charging door and then open the inlet cover.
-7. Open the protective cover of the charging connector and check if there is dust on the charging connector and charging inlet.
-8. Hold the charging connector handle and connect it to the vehicle AC charging inlet.
-9. Push the connector until you hear a "clicking" sound. Charging starts automatically and the charging indicator lamp starts to blink.
-
-![](images/06b2d62ab5daf3f56b751a10c969779ab7ff79086e5542dd110578ae0661620a.webp)
+> ⚠️ **Внимание:** 
+> In order to connect the charging connector, unlock the vehicle's doors to unlatch the charging connector lock system.
+>
+> If not, the charging connector and the vehicle's charging inlet may be damaged.
+>
+> 6. Open the charging door and then open the inlet cover.
+> 7. Open the protective cover of the charging connector and check if there is dust on the charging connector and charging inlet.
+> 8. Hold the charging connector handle and connect it to the vehicle AC charging inlet.
+> 9. Push the connector until you hear a "clicking" sound. Charging starts automatically and the charging indicator lamp starts to blink.
+>
+> ![](images/06b2d62ab5daf3f56b751a10c969779ab7ff79086e5542dd110578ae0661620a.webp)
 
 ### ！ WARNING
-`kia_ev6_en_2305ce47` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the charging connector and charging terminal are not connected properly, this may cause a fire.
 
@@ -1128,7 +1009,6 @@ If the charging connector and charging terminal are not connected properly, this
 When the charging connector is not connected properly, reconnect the charging cable to charge it again.
 
 ### \* NOTICE
-`kia_ev6_en_f543d1cb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You can start charging when the EV button is in the OFF position and the gear is in P (Park).
 After charging has started, you can use electrical components, such as the radio, by pressing the EV button to ACC or ON position.
@@ -1140,7 +1020,6 @@ During charging, you cannot move the gear from P (parking) to other positions.
 ![](images/a229604a1a6df03a1ee60b5e86dac597de09add923ba9f43032eb12a72fe2207.webp)
 
 ### A: Remaining Time
-`kia_ev6_en_771418cd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The remaining charging time in the LCD image may differ from actual charging time.
 
@@ -1148,41 +1027,34 @@ If you open the driver door while charging, the estimated charging time is also 
 
 When scheduled charging is set, the estimated charging time is displayed as "--"
 
-### CAUTION
-`kia_ev6_en_4ef2ed47` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
-
-In order to disconnect the charging con nector, release the door lock to unlatch the charging connector lock system.
-
-If not, the charging connector and the vehicle's charging inlet may be damaged.
+> ⚠️ **Внимание:** 
+> In order to disconnect the charging con nector, release the door lock to unlatch the charging connector lock system.
+>
+> If not, the charging connector and the vehicle's charging inlet may be damaged.
 
 ### \* NOTICE
-`kia_ev6_en_365d0e07` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Depending on the condition and durability of the high voltage battery, charger specifications, and ambient temperature, the time required for charging the battery may vary.
 
 ### Charging connector AUTO/LOCK mode
-`kia_ev6_en_a00b1030` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the charging connector and the charging inlet are connected, you can choose the mode on the infotainment system. The charging connector will be locked at a different time depending on the selected mode.
 
 For more information, refer to the "Charging connector lock" on page 1-20.
 
 ### Charging status indicator lamp for portable charger
-`kia_ev6_en_dcff3025` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/cee246d939727664458674632c41080b406544d47b8a720e88f4091875bb44fd.webp)
 
 ![](images/5adba3e57550d0c141875bc6986d6f63c6880d2d8c6c87f0fed95033ac0f0650.webp)
 
 ### Status/Diagnosis/Countermeasure
-`kia_ev6_en_8bf4e229` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/3d9b31fa8167b0c987b62517369680270e49a21809c87c888bedbbd3f1cec542.webp)
 
 Charging connector plugged into vehicle (POWER Green ON) Plug connected to an electric outlet (POWER Green ON)
 
 ### While charging
-`kia_ev6_en_678591aa` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/99ded782ff2ce89622bc099c9ce007ebae69d3f9d52a12043d086885e5659f87.webp)
 
@@ -1197,28 +1069,24 @@ Before plugging charging con nector into vehicle (POWER Green ON, FAULT Red blin
 Abnormal temperature ICCB (In-Cable Control Box) failure Contact an authorized Kia dealer.
 
 ### Plugged into vehicle (POWER Green ON, FAULT Red Blink)
-`kia_ev6_en_ee9a17a5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/3fd24599aa59ba1da3213dfb86733f279d01bb2dff3bcce31b1de7270a80eff7.webp)
 
 Diagnostic device failure Current leakage Abnormal temperature
 
 ### Leakage current failure (POWER Green ON, FAULT Red Blink)
-`kia_ev6_en_e7d1aedf` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/712be2a0101f3d1f399cc03e48a46087f7a3c13e94ef0ae2072d7137595e3792.webp)
 
 After disconnecting and reconnecting the power plug, press and release the button for 2 seconds or longer to clear the error.
 
 ### Power saving mode
-`kia_ev6_en_4a6dc192` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/cadedc5458be2fdd8dca51f5ab84ab8c70e1db2497bd338e4af488c65abb4de1.webp)
 
 Charge level indicator is turned off if there is no status change for more than minute.
 
 ### How to disconnect portable charging cable (ICCB: In-Cable Control Box) (sold separately)
-`kia_ev6_en_b731d32c` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 1. Hold the charging connector handle (2) and pull it while pressing the release button (1).
 
@@ -1229,15 +1097,12 @@ However, in AUTO Mode, the lock is released automatically when charging is compl
 For more information, refer to the
 "Charging connector lock" on page 1- 20.
 
-### CAUTION
-`kia_ev6_en_786fc2dc` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
-
-In order to disconnect the charging connector, unlock the vehicle's doors to
-unlatch the charging connector lock system.
-If not, the charging connector and the vehicle's charging inlet may be damaged.
+> ⚠️ **Внимание:** 
+> In order to disconnect the charging connector, unlock the vehicle's doors to
+> unlatch the charging connector lock system.
+> If not, the charging connector and the vehicle's charging inlet may be damaged.
 
 ### T CAUTION
-`kia_ev6_en_c5d51301` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 When disconnecting the charging connector, do not try to disconnect it by force while not pressing the release button. This may damage the charging connector and vehicle charging inlet.
 
@@ -1254,7 +1119,6 @@ If the charging connector lock does not unlatch even after the vehicle's doors a
 5. Close the protective cover for the charging connector so that foreign substances do not flow into the terminal. 6. Put the charging cable inside the cable compartment to protect it.
 
 ### A WARNING
-`kia_ev6_en_da28a125` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Use a portable charging cable that is certified by Kia.
 Do not try to repair, disassemble, or adjust the portable charging cable. Do not use an extension cord or
@@ -1264,23 +1128,20 @@ Do not touch the plug and charging connector with wet hands.
 Do not touch the terminal part of the AC charging connector and the AC charging inlet on the vehicle.
 Do not connect the charging connector to voltage that does not comply with specifications.
 
-### WARNING
-`kia_ev6_en_546822f5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Do not use the portable charging
-cable if it is worn out, exposed, or
-there exists any type of damage on the portable charging cable.
-If the ICCB case and AC charging connector is damaged, cracked, or the wires are exposed in any way, do not use the portable charging cable.
-Do not let kids operate or touch the portable charging cable.
-Charging with a worn out or damaged household electric outlet can result in a risk of electric shock. If you are
-unsure about the condition of a
-household electric outlet have it
-checked by licensed electrician and charge again.
-Stop using the portable charging
-cable immediately if the household electric outlet or any components are overheating or you notice burning odors.
+> ⚠️ **Внимание:** 
+> Do not use the portable charging
+> cable if it is worn out, exposed, or
+> there exists any type of damage on the portable charging cable.
+> If the ICCB case and AC charging connector is damaged, cracked, or the wires are exposed in any way, do not use the portable charging cable.
+> Do not let kids operate or touch the portable charging cable.
+> Charging with a worn out or damaged household electric outlet can result in a risk of electric shock. If you are
+> unsure about the condition of a
+> household electric outlet have it
+> checked by licensed electrician and charge again.
+> Stop using the portable charging
+> cable immediately if the household electric outlet or any components are overheating or you notice burning odors.
 
 ### \* NOTICE
-`kia_ev6_en_b51f6c14` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Keep the control box free of water. Keep the AC charging connector or plug terminal free of foreign sub
 stances.
@@ -1290,7 +1151,6 @@ Do not drop the control box or place a heavy object on the control box.
 Do not place an object that can generate high temperatures near the charger when charging.
 
 ### Actions to be taken when charging stops abruptly
-`kia_ev6_en_61805549` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 When you cannot charge the high voltage battery after connecting the charger, check the following:
 
@@ -1302,7 +1162,6 @@ When you cannot charge the high voltage battery after connecting the charger, ch
 6. If charging fails and the service warning light ( ) is lit in the cluster, contact an authorized Kia dealer.
 
 ### How to start the vehicle
-`kia_ev6_en_3a9142b6` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 1. With the smart key in the vehicle, sit in the driver's seat.
 2. Fasten the seat belt before starting the vehicle.
@@ -1318,12 +1177,10 @@ Vehicle ON → READY (Green)
 8. Press and hold the brake pedal and shift to the desired position. 9. Release the parking brake and slowly release the brake pedal. Check if the vehicle slowly moves forward, then depress the accelerator pedal.
 
 ### \* NOTICE
-`kia_ev6_en_51659b2a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 While the charging cable is connected, the gear cannot be shift from P (Park) to any other gear for safety reasons.
 
 ### How to stop the vehicle
-`kia_ev6_en_fa63b369` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Hold down the brake pedal while the vehicle is parked.
 2. Shift to P (Park).
@@ -1339,7 +1196,6 @@ Vehicle OFF
 When the READY indicator in ON and the gear is in a position other than P (Park), the driver can accidentally depress the accelerator pedal, causing the vehicle to move unexpectedly.
 
 ### Virtual Engine Sound System (VESS)
-`kia_ev6_en_dbab3340` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Virtual Engine Sound System (VESS) generates an engine sound for pedestrians to hear the vehicle because there is no sound while the Electric Vehicle (EV) is operating.
 
@@ -1347,13 +1203,10 @@ If the vehicle is in the READY mode and the gear is not in P (Park), the VESS wi
 
 When the gear is shifted to R (Reverse), an additional warning sound will be heard.
 
-### WARNING
-`kia_ev6_en_17cb22fd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-The sound system only plays a supplementary role. The system is not designed to and does not replace the care of drivers. Drivers should always pay attention to their surroundings while driving.
+> ⚠️ **Внимание:** 
+> The sound system only plays a supplementary role. The system is not designed to and does not replace the care of drivers. Drivers should always pay attention to their surroundings while driving.
 
 ### ， CAUTION
-`kia_ev6_en_892303d3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The vehicle is much quieter while driving than a conventional gasoline-powered vehicle. Be aware of your
 surroundings and always drive safely. After you park the vehicle or while you are waiting at a traffic light, check
@@ -1366,14 +1219,12 @@ Distance to empty
 The distance to empty is displayed differently according to the selected drive mode in the drive mode integrated control system.
 
 ### When destination is not set
-`kia_ev6_en_91ec0082` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 On average, a vehicle can drive approximately 205 miles (330 km) [Standard Type, 127 miles (300 km) for AWD]/273 miles (440 km) [Extended Type, 248 miles (400 km) for AWD].
 
 Estimated range based on manufacturer testing.
 
 ### \* NOTICE
-`kia_ev6_en_9a49e976` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 Your mileage will vary depending on a number of factors, including battery age, ambient temperature, driving habits, options, cargo, and others. EPA estimates, when available, can be found at fueleconomy.gov.
 
@@ -1394,14 +1245,12 @@ amount of the high voltage battery, weather, temperature, durability of the batt
 Natural degradation may occur with the high voltage battery depending on the number of years the vehicle is used. This may reduce the distance to empty.
 
 ### When destination is set
-`kia_ev6_en_ee7d1b66` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the destination is set, the distance to empty may change. The distance to empty is recalculated using the information of the destination.
 
 However, the distance to empty may vary significantly based on traffic conditions, driving habits, and condition of the vehicle.
 
 ### Tips for improving distance to empty
-`kia_ev6_en_f82d70b1` | ev6 | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 If you operate the air conditioner/ heater frequently, the driving battery uses more electricity. This may reduce the distance to empty. Therefore, it is recommended that you set the cabin temperature to 72 °F (22 °C) AUTO. Turn OFF the heater and air conditioner if you do not need them. Also, repeatedly turning the heater and air conditioning on and off is not recom mended.
 
@@ -1417,7 +1266,6 @@ Do not load unnecessary items in the vehicle.
 Do not mount parts that may increase air resistance.
 
 ### ECO Driving
-`kia_ev6_en_e98ccf3d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/27e62b657f7e9e4c53ffd861f0b3f92eb9cf8f0f63c975097272e2ff172f368f.webp)
 
@@ -1426,12 +1274,10 @@ A: Electric Vehicle 1 ECO Driving
 Select Menu → ECO Driving on the screen. You can check ECO level information and ECO driving history.
 
 ### A: ECO Driving 1 EV Economy
-`kia_ev6_en_f6c9ca46` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You can check the driving date, driving distance, and the average energy consumption rating for the last 30 driving trips.
 
 ### Electricity Use
-`kia_ev6_en_604d4cd6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7e1146a2d4e30886252625b991b63df765be6754171d4a6eb0cfecd19c92135e.webp)
 
@@ -1442,7 +1288,6 @@ Select Menu → Electricity Use on the screen. You can check the current energy 
 ![](images/95c5c3b2d32d4b8f3bbaff9be895f3ffc12b538a1b8acefe7afdb3b6c83f143a.webp)
 
 ### A: Energy Consumption
-`kia_ev6_en_fb732b35` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Battery Care: Shows the momentary power and energy consumption which are used to:
 
@@ -1462,7 +1307,6 @@ PWR (Power): It shows the energy consumption rate of the vehicle when driving up
 CHG (Charge): It shows the charging status of the battery when it is being charged by the regenerative brakes (decelerating or driving on a downhill road). The more electric energy is charged, the lower the gauge level.
 
 ### State of Charge (SOC) gauge for high voltage battery
-`kia_ev6_en_b209c0a1` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 ![](images/77c456ee7008d98672790ecba5f6da4bacb6fbbb9fd140c826e2d53a340b4911.webp)
 
@@ -1479,24 +1323,19 @@ When the remaining battery is lower than 10% on the SOC gauge, the warning light
 When the warning light ( ) turns ON, the vehicle can drive approximately an additional 18\~25 miles (30\~40 km) depending on the driving speed, heater/ air conditioner, weather, driving style, and other factors. Charging is required.
 
 ### \* NOTICE
-`kia_ev6_en_fa834e2a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the high voltage battery range is 25\~30 miles (40\~50 km), the vehicle speed is limited, and then eventually the vehicle will turn OFF. Charge the vehicle immediately.
 
 ### Aux. Battery Saver+ (if equipped)
-`kia_ev6_en_e8f1e708` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 The Aux. Battery Saver+ is a function that monitors the charging status of the 12 V auxiliary battery. If the auxiliary battery level is low, the main high voltage battery charges the auxiliary battery.
 
-### WARNING
-`kia_ev6_en_cf368079` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-When the function is activating the indicator lamp will illuminate and high voltage electricity will be flowing in the vehicle. Do not touch the high voltage electric wire (orange), connector, and all electric components and devices. This may cause electric shock and lead to injuries. Also, do not modify your vehicle in any way. This may affect your vehicle performance and lead to an accident.
-
-![](images/59935361b9fe10f981b457b4338729125e932b1f15db3441e8f30b824720f30f.webp)
+> ⚠️ **Внимание:** 
+> When the function is activating the indicator lamp will illuminate and high voltage electricity will be flowing in the vehicle. Do not touch the high voltage electric wire (orange), connector, and all electric components and devices. This may cause electric shock and lead to injuries. Also, do not modify your vehicle in any way. This may affect your vehicle performance and lead to an accident.
+>
+> ![](images/59935361b9fe10f981b457b4338729125e932b1f15db3441e8f30b824720f30f.webp)
 
 ### \* NOTICE
-`kia_ev6_en_d7342678` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Aux. Battery Saver+ activates maximum of 20 minutes. If the Aux. Battery Saver+ function activates more than 10 times consecutively, in the Automatic Mode the function will stop activating, judging that there is a problem with the auxiliary battery. In this case, drive the vehicle for some period of time. The function will start activating if the auxiliary battery returns to normal.
 
@@ -1505,12 +1344,10 @@ The Aux. Battery Saver+ function cannot prevent battery discharge if the auxilia
 If the Aux. Battery Saver+ function was activated the high voltage battery level may have decreased.
 
 ### Warning and indicator lights (Related to electric vehicle)
-`kia_ev6_en_bb0bccae` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The warning light and indicator light indicate the situation where the driver should be careful and whether the various functions are activated.
 
 ### This indicator illuminates:
-`kia_ev6_en_37009756` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the vehicle is ready to be driven.
 
@@ -1519,7 +1356,6 @@ ON: Normal driving is possible. OFF: Normal driving is not possible, or a proble
 When the ready indicator goes OFF or blinks, there is a problem with the sys tem. In this case, have your vehicle inspected by an authorized Kia dealer.
 
 ### Service warning light
-`kia_ev6_en_7ab93d15` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning light illuminates:
 
@@ -1528,28 +1364,24 @@ When the EV button is in the ON position. It illuminates for approximately 3 sec
 When the warning light illuminates while driving, or does not go OFF after starting the vehicle, have your vehicle inspected by an authorized Kia dealer.
 
 ### This indicator illuminates:
-`kia_ev6_en_4971d6c9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the EV button is in the ON position.
 
 It illuminates for approximately 3 seconds and then goes off. When the power is limited for the safety of the high-powered parts of an electric vehicle. The power is limited for the following reasons.(Unless both Service Warning Light and Power Down Indicator Light illuminate at the same time, it is not a failure.) The high voltage battery level is too low or voltage is decreasing The temperature of the high voltage battery is too high or too low The temperature of the motor is high
 
 ### \* NOTICE
-`kia_ev6_en_a2f3a1eb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not accelerate or start the vehicle suddenly when the Power Down Indicator Light is ON.
 Charge the battery immediately when the high voltage battery level is not
 enough.
 
 ### \* NOTICE
-`kia_ev6_en_63045095` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b1d6083e8e27fd1fac9ae823a6221460068b1a97e261ceb159d299ff65f9e36e.webp)
 
 When the remaining battery power is low, the Power Down Indicator Light turns on and the output is limited. In that case, charge the battery immediately; otherwise, it could be difficult to climb hills or the vehicle may move backward.
 
 ### This warning light illuminates:
-`kia_ev6_en_8140a0ce` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the regenerative brake does not operate and the brake does not perform well. This causes the Brake Warning light (red) and Regenerative Brake Warning Light (yellow) to illuminate simultane ously.
 
@@ -1558,7 +1390,6 @@ In this case, drive safely and have the vehicle inspected by an authorized Kia d
 The operation of the brake pedal may be more difficult than normal, and the braking distance can increase, as it may default to manual hydraulic mode.
 
 ### High voltage battery low level warning light
-`kia_ev6_en_c7a624dd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning light illuminates:
 
@@ -1567,62 +1398,51 @@ When the high voltage battery level is low.
 When the warning light turns ON, charge the battery immediately.
 
 ### A: Shift to P to charge
-`kia_ev6_en_5dd1ef75` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This message is displayed if you connect the charging cable without the gear in the P (Park) position.
 
 Shift to P (Park) before connecting the charging cable.
 
 ### A: Low EV battery
-`kia_ev6_en_0265e8ac` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the high voltage battery level reaches around 10% or less, this warning message is displayed.
 
 The warning light on the instrument cluster ( ) will turn on simultaneously. Charge the battery immediately.
 
 ### A: Charge immediately. Power limited
-`kia_ev6_en_c7fd9842` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the high voltage battery level reaches around 5% or less, this warning message is displayed.
 
 The warning light on the instrument cluster ( ) will turn on simultaneously. The vehicle's power will be reduced to minimize the energy consumption of the high voltage battery. Charge the battery immediately.
 
-### WARNING
-`kia_ev6_en_d18e3c2c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Refrain from driving when the warning message is displayed. If this occurs, park the vehicle in a safe location and have your vehicle towed to the nearest authorized Kia dealer and have the vehicle inspected.
+> ⚠️ **Внимание:** 
+> Refrain from driving when the warning message is displayed. If this occurs, park the vehicle in a safe location and have your vehicle towed to the nearest authorized Kia dealer and have the vehicle inspected.
 
 ### A: Power limited
-`kia_ev6_en_468489cc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In the following cases, this warning mes sage is displayed when the vehicle's power is limited for safety.
 
 When the power is limited for the safety of the high-powered parts of an electric vehicle. The power is limited for the following reasons (Unless both Service Warning Light and Power Down Indicator Light illuminate at the same time, it is not a failure.): The high voltage battery level is too low or voltage is decreasing. The temperature of the high voltage battery is too high or too low. The temperature of the motor is high.
 
 ### ！ WARNING
-`kia_ev6_en_32ff2e91` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When this warning message is displayed, do not accelerate or start the vehicle suddenly. Charge the battery immediately when the high voltage battery level is not enough.
 
 ### \* NOTICE
-`kia_ev6_en_595df593` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a105376a7d771eae471e5067ffe29e63caac14fb1a416be14ae6d5f3dbb56faa.webp)
 
 When the power is limited for the safety of the high-powered parts of an electric vehicle, the power down indicator light illuminates. your vehicle may not drive uphill or skid on a slope with the indicator light ON.
 
 ### A: Power limited due to low EV battery temperature. Charge battery
-`kia_ev6_en_a6f936e3` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 The warning message is displayed to protect the electric vehicle system when you turn off or turn on the vehicle while outside temperature is low. If the high voltage battery charging level is low and parked outside in low temperature for a long time, vehicle power could be limited. Charging the battery before driving, increases the battery temperature, and helps increase power.
 
 ### ！ CAUTION
-`kia_ev6_en_457ed098` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If this warning message is still displayed even when the ambient temperature is sufficiently high, have the vehicle inspected by an authorized Kia dealer.
 
 ### A: EV Battery Overheated! Stop vehicle
-`kia_ev6_en_d041a4a1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed to protect battery and electric vehicle sys
 
@@ -1630,37 +1450,30 @@ tem when the high voltage battery tem perature is too high.
 
 Turn off the EV button and stop the vehicle so that the battery temperature decreases.
 
-### WARNING
-`kia_ev6_en_cad9eae3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-If this warning is still displayed even after the EV button has been turned off for sufficient time, refrain from driving and have the vehicle inspected by an authorized Kia dealer.
+> ⚠️ **Внимание:** 
+> If this warning is still displayed even after the EV button has been turned off for sufficient time, refrain from driving and have the vehicle inspected by an authorized Kia dealer.
 
 ### A: Stop vehicle and check power supply
-`kia_ev6_en_13f955ec` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed when a failure occurs in the 12 V power supply system.
 
 If this occurs, park the vehicle in a safe location, tow your vehicle to the nearest authorized Kia dealer and have the vehicle inspected.
 
 ### A: Unplug vehicle to start
-`kia_ev6_en_b0f8ee0d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This message is displayed when you start the vehicle, without unplugging the charging cable, and will not shift out of park. Unplug the charging cable, and then turn on the vehicle.
 
 ### A: Charging Door Open
-`kia_ev6_en_ecb427c8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This message is displayed when the vehicle is driven with the charging door opened. Close the charging door and then start driving.
 
 ### A: Remaining Time
-`kia_ev6_en_daa274e6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The remaining charging time in the LCD image may differ from actual charging time.
 
 This message is displayed to notify the remaining time to charge the battery, to the selected target battery charge level, and the charge voltage level.
 
 ### A: Charging Stopped. Check the DC charger
-`kia_ev6_en_6f6dd7f9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed when charging is stopped for the reasons below:
 
@@ -1671,7 +1484,6 @@ If this occurs, check whether there is any problem with the external AC or DC ch
 If the same problem occurs when charging the vehicle with a well-functioning external charger or genuine Kia portable charger, have your vehicle inspected by an authorized Kia dealer.
 
 ### A: Charging Stopped. Check the cable connection
-`kia_ev6_en_d2e7c76d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed for the reasons below:
 
@@ -1684,21 +1496,18 @@ Check whether there is any problem (external damage, foreign substances, etc.) w
 If the same problem occurs when charging the vehicle with a replaced charging cable or genuine Kia portable charger, have your vehicle inspected by an authorized Kia dealer.
 
 ### A: Check regenerative brakes
-`kia_ev6_en_c0d11a21` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed when the regenerative brake system does not work properly.
 
 In this case, have your vehicle inspected by an authorized Kia dealer.
 
 ### A: Check Virtual Engine Sound System
-`kia_ev6_en_1b4f8386` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This message is displayed when there is a problem with the Virtual Engine Sound System (VESS).
 
 In this case, have your vehicle inspected by an authorized Kia dealer.
 
 ### A: Check Active Air Flap System
-`kia_ev6_en_eab1e3f8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed in the following situations:
 
@@ -1711,48 +1520,39 @@ The air flap does not open
 When all of the above conditions are fixed, the warning will disappear. In this case, have your vehicle inspected by an authorized Kia dealer.
 
 ### A: Refill coolant
-`kia_ev6_en_7ad59db9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This message is displayed when the coolant is low. If the warning message is displayed, stop driving and check the amount of coolant. Driving without sufficient amount of coolant for a prolonged period of time can cause serious problems with the vehicle's electrical equipment and make normal driving impossible.
 
-### WARNING
-`kia_ev6_en_44adf4d8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> When a vehicle accident occurs, move the vehicle to a safe place, turn OFF the vehicle and remove the auxiliary battery (12V) terminal to prevent high voltage electricity from flowing.
+> If electric wires are exposed from
+> inside or outside the vehicle, do not touch the wires.
+> Also, do not touch the high voltage electric wire (orange), connector, or any of the electric components and devices. This may cause electric shock and lead to injuries.
 
-When a vehicle accident occurs, move the vehicle to a safe place, turn OFF the vehicle and remove the auxiliary battery (12V) terminal to prevent high voltage electricity from flowing.
-If electric wires are exposed from
-inside or outside the vehicle, do not touch the wires.
-Also, do not touch the high voltage electric wire (orange), connector, or any of the electric components and devices. This may cause electric shock and lead to injuries.
-
-### WARNING
-`kia_ev6_en_7fc1b067` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-When a vehicle accident occurs and the high voltage battery is damaged, harmful gas and electrolytes may
-leak. Be careful not to touch the
-leaked liquid.
-When you suspect leakage of inflammable gas and other harmful gases, open the windows and evacuate to a safe place. If any leaked fluid comes in contact with your eyes or skin,
-immediately clean the affected area thoroughly with tap water or saline solution and have doctors inspect it as soon as possible.
+> ⚠️ **Внимание:** 
+> When a vehicle accident occurs and the high voltage battery is damaged, harmful gas and electrolytes may
+> leak. Be careful not to touch the
+> leaked liquid.
+> When you suspect leakage of inflammable gas and other harmful gases, open the windows and evacuate to a safe place. If any leaked fluid comes in contact with your eyes or skin,
+> immediately clean the affected area thoroughly with tap water or saline solution and have doctors inspect it as soon as possible.
 
 ### ！ WARNING
-`kia_ev6_en_8d57bcdc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If a small scale fire occurs, use a fire extinguisher (ABC, BC) that is meant for electrical fires. If it is impossible to extinguish the fire in the early stage, maintain a safe distance away from the vehicle and immediately call your local fire emergency responders. Also, advise them that an electric vehicle is involved.
 If the fire spreads to the high voltage battery, large amounts of water is
 needed to put out the fire. Using small amounts of water or fire extinguishers not meant for electrical fires could cause serious injury or death from electrical shocks.
 
 ### A WARNING
-`kia_ev6_en_e94e6862` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you cannot put out the fire immediately, the high voltage battery may explode. Evacuate to a safe place and do not let other people approach the site. Contact the fire department and notify them of an electric vehicle fire. If the vehicle is flooded with water, immediately turn OFF the vehicle and evacuate to a safe place. Contact the fire department or an authorized Kia dealer.
 
 ### Other precautions for electric vehicle
-`kia_ev6_en_affd70f1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When you paint, apply heat treatment to the vehicle as a result of an accident, and/or weld on the vehicle, the performance of the high voltage battery can be reduced.
 If heat treatment is required, have the vehicle serviced by an authorized Kia dealer and have the high voltage battery removed, prior to any repairs. When you clean the motor compartment, do not use high pressure water to wash. This may cause an electric shock due to a discharge in high voltage electricity, or damage the vehicle's electric system.
 Do not use, remodel, or install nongenuine parts. This may damage the electric power system.
 
 ### High voltage cut-off switch
-`kia_ev6_en_a88cf3e8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/37ab630429cf3502b2d5504943919efcfa135ba256bf7dbba308096c8c3ad416.webp)
 
@@ -1760,25 +1560,20 @@ The high voltage cut-off switch is located in the motor room compartment fuse bo
 
 Pull up the yellow lever in the high voltage cut-off switch to shut down high voltage battery.
 
-### WARNING
-`kia_ev6_en_1fbc5e10` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Never disconnect the high voltage cutoff switch except in an emergency situation. Serious problems may occur, such as the vehicle will not start.
+> ⚠️ **Внимание:** 
+> Never disconnect the high voltage cutoff switch except in an emergency situation. Serious problems may occur, such as the vehicle will not start.
 
 ### \* NOTICE
-`kia_ev6_en_96d93e76` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Putting the excessive force to the switch lever while shutting down the high voltage battery may severely damage the high voltage cut-off switch.
 
 ### Introduction 2
-`kia_ev6_en_43705db2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Vehicle data collection and event data recorders T 2-2
 Vehicle handling instructions 中 2-3
 Vehicle modifications. 1 2-3
 
 ### Introduction Vehicle data collection and event data recorders
-`kia_ev6_en_851da46c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This vehicle is equipped with an event data recorder (EDR). The main purpose of an EDR is to record, in certain crash or near crash-like situations, such as an air bag deployment or hitting a road obstacle, data that will assist in understanding how a vehicle's systems performed. The EDR is designed to record data related to vehicle dynamics and safety systems for a short period of time, typically 30 seconds or less. The EDR in this vehicle is designed to record such data as:
 
@@ -1797,7 +1592,6 @@ NOTE: EDR data are recorded by your vehicle only if a non-trivial crash situatio
 To read data recorded by an EDR, special equipment is required, and access to the vehicle or the EDR is needed. In addition to the vehicle manufacturer, other parties, such as law enforcement, that have the specia equipment, can read the information i they have access to the vehicle or the EDR.
 
 ### Vehicle handling instructions Vehicle modifications
-`kia_ev6_en_46d4785e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 As with other vehicles of this type, failure to operate this vehicle correctly may result in loss of control, an accident or vehicle rollover.
 
@@ -1810,7 +1604,6 @@ In addition, damage or performance problems resulting from any. modification may
 If you use unauthorized electronic devices, it may cause the vehicle to operate abnormally, wire damage, battery discharge and fire. For your safety, do not use unauthorized electronic devices.
 
 ### Your vehicle at a glance 3
-`kia_ev6_en_bd1001c6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Exterior overview … 3-2
 Interior overview .3-4
@@ -1818,7 +1611,6 @@ Instrument panel overview .3-6
 Motor room compartment .3-8
 
 ### Your vehicle at a glance Exterior overview
-`kia_ev6_en_3e848898` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Front view
 
@@ -1854,7 +1646,6 @@ The actual appearance may differ from the illustration. Not all equipment is inc
 9. Backup lamp 8-43
 
 ### Interior overview
-`kia_ev6_en_356b6190` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/537647e5303d68b157f6a7bc530c31ea3337cff63f45f38be824c10ce5a9c9e4.webp)
 
@@ -1883,7 +1674,6 @@ Your vehicle at a glance
 18.Reduction gear (shifter dial) 6-10
 
 ### Instrument panel overview
-`kia_ev6_en_4f8ce004` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/849a02342fdf55f60a47097ba6495dced9c86cbc65a4d4fa591c24edf6baa7f2.webp)
 
@@ -1904,7 +1694,6 @@ Wiper and washer control lever (Right) 5-95
 12.Glove box 5-116
 
 ### Instrument panel overview
-`kia_ev6_en_08c29a01` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 13.Steering wheel heater button 5-51
 14.AUTO HOLD button 6-28
@@ -1915,7 +1704,6 @@ Wiper and washer control lever (Right) 5-95
 19.Passenger's front air bag 4-44
 
 ### Motor room compartment
-`kia_ev6_en_ef059091` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/4cd2ab5f7d2d79a322447ea49e00871adedd2a76e8230a18c7584f865c20b6d7.webp)
 
@@ -1930,7 +1718,6 @@ The actual appearance may differ from the illustration. Not all equipment is inc
 7. Front trunk 5-43
 
 ### Seat. 4-5
-`kia_ev6_en_014ce010` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Feature of seat leather .····· · 4-7
 Infotainment system  · ············· .4-8
@@ -1943,51 +1730,42 @@ Headrest (for rear seat)   4-16
 Armrest .··.· 4-17
 
 ### Seat belts T 4-17
-`kia_ev6_en_3dae2dbd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 僅 Seat belt restraint system  4-17 僅 Seat belt warning light. . 4-18 ...\*..\* Seat belt - driver's 3-point system with emergency locking
 retractor .··.·.   4-19 Seat belts front passenger and rear seat 3-point system
 with combination locking retractor  4-20 Pre-tensioner seat belt . ······· .4-22 Seat belt precautions 4-23 Care of seat belts .··.·· …\*\*\*\*\*\*\* .4-25
 
 ### Child Restraint System (CRS) .4-26
-`kia_ev6_en_347a61a8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Children always in the rear ..···.  4-26
 Selecting a Child Restraint System (CRS) .4-27
 Installing a Child Restraint System (CRS)   .4-28
 
 ### Air bag advanced supplemental restraint system ................4-34
-`kia_ev6_en_1cb9d1ac` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 僅 How does the air bag system operate?. .4-35 . Do not install a child restraint on the front passenger's seat   4-36 Air bag warning light ... 4-36 Supplemental Restraint System (SRS) components and functions .4-37
 
 ### 4 Safety features of your vehicle
-`kia_ev6_en_e51b070a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Occupant Detection System (ODS).  4-38 Driver's and passenger's front air bag ·· 4-44 Side air bag   4-46 Curtain air bag ··. ·····.·.·.· .4-47 Air bag collision sensors . \*\*\*\*\*\*\*\*\* 4-49 Why didn't my air bag go off in a collision? (Inflation and non-inflation conditions of the air bag)   4-50 Supplemental Restraint System (SRS) care ……   4-52 Adding equipment to or modifying your air bag-equipped vehicle.  4-53 僅 Air bag warning label .4-53
 
 ### Important safety precautions
-`kia_ev6_en_722a208b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You will find many safety precautions and recommendations throughout this section, and throughout this manual. The safety precautions in this section are among the most important.
 
 ### Always wear your seat belt
-`kia_ev6_en_754ed4ec` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A seat belt is your best protection in all types of accidents. Air bags are designed to supplement seat belts, not replace them. So even though your vehicle is equipped with air bags, ALWAYS make sure you and your passengers always wear their seat belts, and wear them properly.
 
 ### Restrain all children
-`kia_ev6_en_d05a1861` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All children under age 13 should ride in your vehicle properly restrained in a rear seat, not the front seat. Infants and small children should be restrained in an appropriate child restraint. Larger children should use a booster seat with the lap/shoulder belt until they can use the seat belt properly without a booster seat.
 
 ### Air bag hazards
-`kia_ev6_en_7c3fecbc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 While air bags can save lives, they can also cause serious or fatal injuries to occupants who sit too close to them, or who are not properly restrained. Infants, young children, and shorter adults are at the greatest risk of being injured by an inflating air bag. Follow all instructions and warnings in this manual.
 
 ### Driver distraction
-`kia_ev6_en_f202e5a5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Driver distraction presents a serious and potentially deadly danger, especially for inexperienced drivers. Safety should be the first concern when behind the wheel and drivers need to be aware of the wide array of potential distractions, such as drowsiness, reaching for objects, eating, personal grooming, other passengers, and using cellular phones.
 
@@ -1996,24 +1774,20 @@ Drivers can become distracted when they take their eyes and attention off the ro
 ALWAYS set up your mobile devices (i.e., MP3 players, phones, navigation units, etc.) when your vehicle is parked or safely stopped. ONLY use your mobile device when allowed by laws and when conditions permit safe use. NEVER text or email while driving. Most states have laws prohibiting drivers from texting. Some states and cities also prohibit drivers from using handheld phones. NEVER let the use of a mobile device distract you from driving. You have a responsibility to your passengers and others on the road to always drive safely, with your hands on the wheel as well as your eyes and attention on the road.
 
 ### Control your speed
-`kia_ev6_en_5f398a85` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Excessive speed is a major factor in crash injuries and deaths. Generally, the higher the speed, the greater the risk, but serious injuries can also occur at lower speeds. Never drive faster than is safe for current conditions, regardless of the maximum speed posted.
 
 ### Keep your vehicle in safe condition
-`kia_ev6_en_159f42bd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Having a tire blowout or a mechanical failure can be extremely hazardous. To reduce the possibility of such problems, check your tire pressures and condition frequently, and perform all regularly scheduled maintenance.
 
 ### Seat
-`kia_ev6_en_c486269c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The following explains name, feature and adjustment of each seat.
 
 ![](images/e7e0931a182619b10b948c7744a83bd776dd752d11d5989755619301bf20a6ef.webp)
 
 ### Front seat
-`kia_ev6_en_c729919a` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 1 Forward and backward
 2 Seatback angle
@@ -2024,75 +1798,60 @@ The following explains name, feature and adjustment of each seat.
 equipped)
 7 Headrest
 
-### WARNING
-`kia_ev6_en_578fa0fb` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
-
-Do not place anything in the driver's footwell or under the front seats. Loose objects in the driver's foot area could interfere with the operation of the foot pedals.
+> ⚠️ **Внимание:** 
+> Do not place anything in the driver's footwell or under the front seats. Loose objects in the driver's foot area could interfere with the operation of the foot pedals.
 
 ### Uprighting Seat
-`kia_ev6_en_3bb7179d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not press the release lever on a manual seatback without holding and controlling the seatback. The seatback will spring upright possibly impacting you or other passengers.
 
 ### Loose Objects
-`kia_ev6_en_62838d5a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The driver must advise the passengers to keep the seatback in an upright position whenever the vehicle is in motion. If a seat is reclined during an accident, the restraint system's ability to restrain will be greatly reduced.
 
 ### Seat Cushion
-`kia_ev6_en_1c5ca14d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Occupants should never sit on aftermarket seat cushions or sitting cushions. The passenger Occupant Detection System (ODS) may not operate properly, or pas senger's hips may slide under the lap portion of the seat belt during an accident or a sudden stop.
 
 ### Driver's Seat
-`kia_ev6_en_da5149c3` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Never attempt to adjust the seat while the vehicle is moving. This could result in loss of control of your vehicle. Do not allow anything to interfere with the normal position of the seatback. Storing items against the seatback could result in serious or fatal injury in a sudden stop or collision. Sit as far back as possible from the steering wheel while still maintaining comfortable control of the your vehicle. A distance of at least 10 inches (25 cm) from your chest to the steering wheel is recommended. Failure to do so can result in air bag inflation injuries to the driver.
 
 ### Rear Seatbacks
-`kia_ev6_en_b7685d1c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Always lock the rear seatback before driving. Failure to do so could result in passengers or objects being thrown forward injuring vehicle occupants.
 
 ### Unexpected Seat Movement
-`kia_ev6_en_c3d84ccd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 After adjusting a manual seat, always check that it is locked by shifting your weight to the front and back. Sudden or unexpected movement of the driver's seat could cause you to lose control of the vehicle.
 
 ### Seat Adjustment
-`kia_ev6_en_1d17b5bb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not adjust the seat while wearing seat belts. Moving the seat forward will cause strong pressure on the
 abdomen.
 Do not place your hand near the seat bottom or seat track while adjusting the seat. Your hand could get caught in the seat mechanism.
 
 ### Luggage and Cargo
-`kia_ev6_en_e0f92c35` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not stock pile or stack luggage or cargo higher than the seatback in the cargo area. In an accident the cargo could strike and injure a passenger. If objects are large, heavy or must be piled, they must be secured in the cargo area.
 
 ### Cargo Area
-`kia_ev6_en_9f8777ef` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not allow passengers to ride in the cargo area under any circumstance. The cargo area is solely for the purpose of transporting luggage or cargo.
 
 ### Small Objects
-`kia_ev6_en_b51ff575` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Use extreme caution when picking up small objects trapped under the seats or between the seat and the center console. Your hands might be cut or injured by the sharp edges of the seats mechanism.
 
 ### Seat Short Circuit Risk
-`kia_ev6_en_083f9813` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Be aware of wires or air vents when placing a seat cover or covering the seat with plastic cover. A short circuit may occur, which could lead to fire.
 
 ### Precautions with Seat Covers
-`kia_ev6_en_e1da96c3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Use caution when working on the seat cover. A short circuit or disconnection may occur, which could lead to noise, damage the ventilation system.
 
 ### Feature of seat leather (if equipped)
-`kia_ev6_en_320a0a1e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Our car seats are upholstered with a combination of artificial and genuine leather. The genuine leather is made from the outer skin of an animal, which goes through a special process to be available for use. Since it is a natural substance, each part differs in thickness or density. Also, wrinkles could appear depending on the temperature and humidity.
 
@@ -2101,21 +1860,17 @@ Wrinkles may appear as a natural result of stretching and shrinking depending on
 The seat cover is made of stretchable material to improve comfort of pas sengers.
 The parts contacting the body are curved and the side supporting area is high which provides driving comfort and stability.
 
-### CAUTION
-`kia_ev6_en_0ea166a6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Belts with metallic accessories, zippers or keys inside the back pocket may damage the seat fabric.
-Make sure not to wet the seat. It may change the nature of the natural
-leather.
-Jeans or clothes which could bleach may contaminate the surface of the seat covering fabric.
+> ⚠️ **Внимание:** 
+> Belts with metallic accessories, zippers or keys inside the back pocket may damage the seat fabric.
+> Make sure not to wet the seat. It may change the nature of the natural
+> leather.
+> Jeans or clothes which could bleach may contaminate the surface of the seat covering fabric.
 
 ### \* NOTICE
-`kia_ev6_en_8d75a2a7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Wrinkles or abrasions may appear naturally from usage. It is not a fault of product. Wrinkles or abrasions are not covered by warranty.
 
 ### Infotainment system
-`kia_ev6_en_5ea3f4e5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7d9a24d3db4f070947ebe65a7e3740424d39cba71ba2f1993b8bbe2ee3b66c6d.webp)
 
@@ -2124,21 +1879,18 @@ Select Setup → Vehicle → Seat from the Settings menu in the infotainment sys
 Seat Position Change Alert: When the seat position changes, details of the change are shown with a seat image.
 
 ### Seat Easy Access
-`kia_ev6_en_97bd3bec` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Steering Easy Access: Moves the steering wheel when the driver enters or leaves the vehicle. Driver Seat Easy Access (Normal/ Extended/Off) the seat automatically moves when the driver enters or leaves the vehicle may be selected.
 
 For detailed information, refer to the separately supplied infotainment system manual.
 
 ### Front seat adjustment for man ual seat (if equipped)
-`kia_ev6_en_ae673296` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ea3820b4ddadffb411607f700d8e04bc8b4c4e49a11071ba709096ec9ae23c47.webp)
 
 The front seat can be adjusted by using the control levers located on the outside of the seat cushion.
 
 ### Forward and backward (1)
-`kia_ev6_en_9a8deea6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Adjust the seat before driving, and make sure the seat is locked securely by trying to move forward and backward without using the lever. If the seat moves, it is not locked properly.
 
@@ -2149,7 +1901,6 @@ To move the seat forward or backward:
 3. Release the lever and make sure the seat is locked in place.
 
 ### Seatback angle (2)
-`kia_ev6_en_2d870690` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To recline the seatback:
 
@@ -2158,7 +1909,6 @@ To recline the seatback:
 3. Release the lever and make sure the seatback is locked in place. (The lever MUST return to its original position for the seatback to lock.)
 
 ### Reclining Seatback
-`kia_ev6_en_f6fcbb48` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Sitting in a reclined position when the vehicle is in motion can be dangerous. Even when buckled up, the protections of your restraint system (seat belts and/ or air bags) is greatly reduced by reclining your seatback.
 
@@ -2167,14 +1917,12 @@ Seat belts must be snug against your hips and chest to work properly. When the s
 The more the seatback is reclined, the greater chance the passenger's hips will slide under the lap belt or the passenger's neck will strike the shoulder belt.
 
 ### Seat height (3)
-`kia_ev6_en_d6381ce6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To change the height of the seat, push the lever upwards or downwards.
 
 To lower the seat cushion, push the lever down several times. To raise the seat cushion, pull the lever up several times.
 
 ### Front seat adjustment for power seat (if equipped)
-`kia_ev6_en_b9c48465` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 ![](images/9bed8e7cc54e8b5214198f1388cfe35f17a07648c819a3b3ad4b3e7014b2918d.webp)
 
@@ -2183,7 +1931,6 @@ The front seat can be adjusted by using the control switches located on the outs
 Before driving, adjust the seat to the proper position so you can easily control the steering wheel, pedals and switches on the instrument panel.
 
 ### Forward and backward (1)
-`kia_ev6_en_53a86a74` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/80e2b9d5b8bff091a467d7b8f21081b87b1f54a86ef32244bf42008126df6026.webp)
 
@@ -2192,7 +1939,6 @@ To move the seat forward or backward:
 Push the control switch forward or backward to move the seat to the desired position. Release the switch once the seat reaches the desired position.
 
 ### Seatback angle (2)
-`kia_ev6_en_4f15b9ae` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0562b7316a612007c1843be9b16e026a07b378b137757724c83ddd5e525210b4.webp)
 
@@ -2201,7 +1947,6 @@ To recline the seatback:
 Push the control switch forward or backward to move the seatback to the desired angle. Release the switch once the seat reaches the desired position.
 
 ### Seat height/tilt (3)
-`kia_ev6_en_219efae5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b8119c1b457ae93043e37bafbec13b2c6cf4fe2fe22efd0d5b10b6810158641f.webp)
 
@@ -2210,7 +1955,6 @@ To change the height of the seat:
 Pull the front portion of the control switch up to raise or press down to lower the front part of the seat cushion. Pull the rear portion of the control switch up to raise or press down to lower the seat cushion. Release the switch once the seat reaches the desired position.
 
 ### Lumbar support for driver's seat (if equipped)
-`kia_ev6_en_6d9e3056` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c0164b1828aa9c1eb2e222a9246ae30a15ba9b2eb32be1415dbc97b25a035617.webp)
 
@@ -2220,24 +1964,20 @@ The lumbar support can be adjusted by pressing the lumbar support switch on the 
 2. Release the switch once it reaches the desired position.
 
 ### Seatback pocket
-`kia_ev6_en_6717f206` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/74ba72fe08fdf0db0ad1207228e09b831641b329f28385a48557fc03343b8686.webp)
 
 There is a pocket (1) in the front seat back for storing simple books or atlases, and USB charger (2) (if equipped) for rear passengers.
 
 ### Seatback Pockets
-`kia_ev6_en_066b3e55` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not put heavy or sharp objects in the seatback pockets. In an accident they could come loose from the pocket and injure vehicle occupants.
 
 ### Folding the rear seat
-`kia_ev6_en_7d4e6a12` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The rear seatbacks may be folded to facilitate carrying long items or to increase the luggage capacity of the vehicle.
 
 ### Folded Seatback
-`kia_ev6_en_379e67a6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The purpose of the fold-down rear seatbacks is to allow you to carry longer objects that could not otherwise be accommodated.
 
@@ -2246,7 +1986,6 @@ seating position since no seat belts are available for use.
 To reduce the risk of injury caused by sliding cargo within the passenger compartment of the vehicle, objects carried on the folded down seatback should not extend higher than the top of the front seats.
 
 ### Folding down the rear seatback
-`kia_ev6_en_3827c05a` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 1. Set the front seatback to the upright position and if necessary, slide the front seat forward.
 2. Lower the rear headrests to the lowest position by pressing the headrest release button (1) while pulling the headrest down (2).
@@ -2254,7 +1993,6 @@ To reduce the risk of injury caused by sliding cargo within the passenger compar
 ![](images/d679e41c1ca15bb1597e645fb0fce85e06856b414ed64053d3e69e5598ed8b1a.webp)
 
 ### Objects
-`kia_ev6_en_b6a20edc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Objects carried on the folded down seatback should not extend higher than the top of the front seatbacks. This could allow cargo to slide forward and cause injury or damage during sudden stops.
 
@@ -2273,12 +2011,10 @@ Objects carried on the folded down seatback should not extend higher than the to
 6. Return the rear seat belt to the proper position.
 
 ### Uprighting Seat
-`kia_ev6_en_7bbf0652` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When you return the seatback to its upright position, hold the seatback and return it slowly. If the seatback is returned without holding it, the back of the seat could spring forward, resulting in injury caused by being struck by the seatback.
 
 ### Rear Seatback
-`kia_ev6_en_8a5dcf9d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To ensure maximum protection in the event of an accident or sudden stop, when returning the rear seat to the upright position:
 
@@ -2291,49 +2027,39 @@ instructions could result in serious
 injury or death in the event of a crash.
 
 ### A WARNING
-`kia_ev6_en_23b03104` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Unless the driver's position is properly set according to the driver's physical figure, do not fold the rear seat. It may increase bodily injuries in a sudden stop or collision.
 
 ### Cargo
-`kia_ev6_en_9f6716d1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Cargo should always be secured to prevent it from being thrown about the vehicle in a collision and causing injury to the vehicle occupants. Do not place objects in the rear seats, since they cannot be properly secured and may hit the front seat occupants in a collision.
 
 ### Damaging Rear Seat Belt Buckles
-`kia_ev6_en_7cc75926` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When you fold the rear seatback, insert the buckle between the rear seatback and cushion. Doing so can prevent the buckle from being damaged by the rear seatback.
 
 ### Rear Seat Belts
-`kia_ev6_en_9b60b53b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When returning the rear seatbacks to the upright position, remember to return the rear shoulder belts to their proper position.
 
-### CAUTION
-`kia_ev6_en_2a3bdfc6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Be careful when loading cargo through the rear passenger seats to prevent damage to the vehicle interior.
+> ⚠️ **Внимание:** 
+> Be careful when loading cargo through the rear passenger seats to prevent damage to the vehicle interior.
 
 ### Seatback remote folding
-`kia_ev6_en_90677edf` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e361fdb144237ddd99fe1f0a9d56a1e5d234a8ca00119e79f3492c0983cc3fc8.webp)
 
 Pull the rear seatback folding switch (1, 2) located on both sides of the cargo area.
 
 ### Rear Seat Folding
-`kia_ev6_en_2df100c6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not fold the rear seats, if passengers, pets or luggage are in the rear seats. It may cause injury or damage to passen gers, pets, luggage.
 
 ### Cargo Loading
-`kia_ev6_en_c1ef0a6d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure the vehicle is off, the shifter dial is in P (Park) and the parking brake is securely applied whenever loading or unloading cargo. Failure to take these steps may allow the vehicle to move if the shifter dial is inadvertently moved to another position.
 
 ### Headrest (for front seat)
-`kia_ev6_en_176a0a5a` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 The driver's and front passenger's seats are equipped with a headrest for the occupant's safety and comfort.
 
@@ -2346,14 +2072,12 @@ For maximum effectiveness in case of an accident, the headrest should be adjuste
 Also, adjust the headrest as close to your head as possible. For this reason, the use of a cushion that holds the body away from the seatback is not recommended.
 
 ### Headrest Removal/Adjustment
-`kia_ev6_en_feb94dd0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not operate the vehicle with the headrests removed. Headrests can provide critical neck and head support in a crash. Do not adjust the headrest height while the vehicle is in motion. Driver may lose control of the vehicle.
 
 Excessive pulling or pushing may damage the headrest.
 
 ### Adjusting the height up and down (if equipped)
-`kia_ev6_en_834aaa4c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/52496cf33ddfe718f9b44ebbfb736d1d5a1f7a2e90737c60273ef08b36b998b5.webp)
 
@@ -2362,7 +2086,6 @@ Lower the headrest to the desired
 position (3).
 
 ### \* NOTICE
-`kia_ev6_en_97213932` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 If you recline the seatback towards the front with the headrest and seat cushion raised, the headrest may come in contact with the sun visor or other parts of the vehicle.
 
@@ -2377,7 +2100,6 @@ To remove the headrest:
 A WARNING
 
 ### Headrest Removal
-`kia_ev6_en_180807e7` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 NEVER allow anyone to ride in a seat with the headrest removed or reversed. Headrests can provide critical neck and head support in a crash.
 
@@ -2388,12 +2110,10 @@ To reinstall the headrest:
 3. Adjust the headrest to the appropriate height.
 
 ### Headrest Reinstallation
-`kia_ev6_en_b01eedf3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To reduce the risk of injury to the head or neck, always make sure the headrest is locked into position and adjusted properly after reinstalling.
 
 ### Headrest (for rear seat)
-`kia_ev6_en_ec86b723` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 The rear seat is equipped with headrests in all the seating positions for the occu pant's safety and comfort.
 
@@ -2406,7 +2126,6 @@ For maximum effectiveness in case of an accident, the headrest should be adjuste
 Also, adjust the headrest as close to your head as possible. For this reason, the use of a cushion that holds the body away from the seatback is not recommended.
 
 ### Adjusting the height up and down
-`kia_ev6_en_5f24cb45` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9f9f41358c7fec8e9fdc0ac8bd753e09925061014e7223cc6aeebaf8719d0ada.webp)
 
@@ -2414,7 +2133,6 @@ To raise the headrest, pull it up to the desired position (1).
 To lower the headrest, push and hold the release button (2) on the headrest support and lower the headrest to the desired position (3).
 
 ### Removal and reinstallation
-`kia_ev6_en_e9237fac` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/607d6dfaa41f1e1b07f53405c726c2bffeb3f21ec210fe85467aacca0a152a8c.webp)
 
@@ -2423,7 +2141,6 @@ To remove the headrest, raise it as far as it can go then press the release butt
 Then adjust it to the appropriate height and ensure that it locks in posi tion.
 
 ### Armrest
-`kia_ev6_en_62635257` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To use the armrest, pull it forward from the seatback.
 
@@ -2433,26 +2150,22 @@ Slide the cover outwards to use the cup holder.
 Slide the cover inwards to use the storage area.
 
 ### Seat belt restraint system
-`kia_ev6_en_65fab4f0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For maximum restraint system protection, the seat belts must always be used whenever the vehicle is moving.
 
 A properly positioned shoulder belt should be positioned midway over your shoulder across your collarbone. Never allow children to ride in the front passenger seat. See "Child Restraint System (CRS)" on page 4-26 for further discussion.
 
 ### Twisted Seat Belt
-`kia_ev6_en_d812de42` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure your seat belt is not twisted when worn. A twisted seat belt may not properly protect you in an accident and could even cut into your body.
 
 ### Shoulder Belt
-`kia_ev6_en_44c5d49c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never wear the shoulder belt under your arm or behind your back. An improperly positioned shoulder belt cannot protect the occupant in a
 crash.
 Always wear both the shoulder portion and lap portion of the lap/shoulder belt.
 
 ### Damaged Seat Belt
-`kia_ev6_en_e03251d5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the entire seat belt assembly if any part of the webbing or hardware is damaged, as you can no longer be sure that a damaged seat belt will provide protection in a crash.
 
@@ -2473,12 +2186,10 @@ Do not unfasten the seat belt and do not fasten and unfasten the seat belt repea
 When fastening the seat belt, make sure that the seat belt does not pass over objects that are hard or can break easily.
 
 ### Seat Belt Buckle
-`kia_ev6_en_47d2ed90` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not allow foreign material (gum, crumbs, coins, liquids, etc.) to obstruct the seat belt buckle. This may prevent the seat belt from fastening securely.
 
 ### Driver's seat belt warning
-`kia_ev6_en_cbde3eed` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 As a reminder to the driver, the seat belt warning light will illuminate for approximately 6 seconds each time the EV button is in ON regardless of belt fastening.
 
@@ -2491,7 +2202,6 @@ If a driver continues not to fasten the seat belt and drives 6 mph (9 km/h) or m
 If a driver continues not to fasten the seat belt while driving over 12 mph (20 km/h), the seat belt warning chime will sound for approximately 100 seconds and the corresponding warning light will blink.
 
 ### Front passenger's seat belt warning
-`kia_ev6_en_5d2b166e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 As a reminder to the front passenger, the seat belt warning light will illuminate for approximately 6 seconds each time the EV button is in ON regardless of belt fastening. If the front passenger contin ues not to fasten the seat belt, the warning light will stay illuminated until the belt is fastened each time EV button is in ON.
 
@@ -2502,12 +2212,10 @@ If a front passenger unfastens the seat belt while the vehicle is driven below 1
 If a front passenger continues not to fasten the seat belt while the vehicle is driven over 12 mph (20 km/h), the seat belt warning chime will sound for approximately 100 seconds and the corresponding warning light will blink.
 
 ### \* NOTICE
-`kia_ev6_en_20e2004d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Even if the front passenger seat is not occupied, the seat belt warning light will illuminate for 6 seconds. The front passenger's seat belt warning may operate when luggage is placed on the front passenger seat.
 
 ### Fastening the seat belt
-`kia_ev6_en_493e1309` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/08a8e8ce2c0d4db96d10b51b0a44f92ac7970aff641127949374bd6fedd52008.webp)
 
@@ -2520,12 +2228,10 @@ You should place the lap belt portion as low as possible and snugly across your 
 The arm closest to the seat belt buckle should be over the belt while the other arm should be under the belt as shown in the illustration. Never wear the seat belt under the arm closest to the door. The seat belt automatically adjusts to the proper length only after the lap belt portion is adjusted manually so that it fits snugly around your hips. If you lean forward in a slow, easy motion, the belt will extend and let you move around. If there is a sudden stop or impact, however, the belt will lock into position. It will also lock if you try to lean forward too quickly.
 
 ### \* NOTICE
-`kia_ev6_en_34a11255` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you are not able to pull out the seat belt from the retractor, firmly pull the belt out and release it. Then you will be able to pull the belt out smoothly.
 
 ### Height adjustment
-`kia_ev6_en_00ace9b8` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 You can adjust the height of the shoulder belt anchor to one of the 4 positions for maximum comfort and safety.
 
@@ -2543,17 +2249,14 @@ Release the button to lock the anchor into position. Try sliding the height adju
 Improperly positioned seat belts can cause serious injuries in an accident.
 
 ### Shoulder Belt Positioning
-`kia_ev6_en_3500896b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Verify the shoulder belt anchor is locked into position at the appropriate height. Never position the shoulder belt across your neck or face. Improperly positioned seat belts can cause serious injuries in an accident.
 
 ### Seat Belt Replacement
-`kia_ev6_en_1c9940d2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace your seat belts after being in an accident. Failure to replace seat belts after an accident could leave you with damaged seat belts that will not provide protection in the event of another collision.
 
 ### Fastening the seat belt
-`kia_ev6_en_356dc8d5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Combination retractor type seat belts are installed in the rear seat positions to help accommodate the installation of child restraint systems. Although a com bination retractor is also installed in the front passenger seat position, it is strongly recommended that children always be seated in the rear seat. NEVER place any infant restraint system in the front seat of the vehicle.
 
@@ -2566,12 +2269,10 @@ It automatically adjusts to the proper length only after the lap belt portion of
 When the seat belt is fully extended from the retractor to allow the installation of a child restraint system, the seat belt operation changes to allow the belt to retract, but not to extend (automatic locking retractor type). Refer to "Securing a child restraint with a lap/shoulder belt" on page 4-31.
 
 ### ！ CAUTION
-`kia_ev6_en_52114365` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do NOT fold down the left portion of the rear seatback when the rear center seat belt is buckled. ALWAYS UNBUCKLE the rear center seat belt before folding down the left portion of the rear seatback. If the rear center seat belt is buckled when the left portion of the rear seatback is folded down, distortion and damage to the top portion of the seatback and seat belt garnish may result, causing the seatback to lock into the folded down position.
 
 ### \* NOTICE
-`kia_ev6_en_70bf53a9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Although the combination retractor provides the same level of protection for seated passengers in either emergency or automatic locking modes, have the seated passengers use the emergency locking feature for improved conve nience. The automatic locking function is intended to facilitate child restraint
 
@@ -2585,17 +2286,14 @@ The seat belt should be locked into the buckle on each seat cushion to be proper
 2 Rear center seat belt fastening buckle
 3 Rear left seat belt fastening buckle
 
-### WARNING
-`kia_ev6_en_917484d5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Prior to fastening the rear seat belts, ensure the latch matches the seat belt buckle. Forcefully fastening the left or right seat belt to the center buckle can result in an improper fastening scenario that will not protect you in an accident.
-
-When using the rear center seat belt, the buckle with the "CENTER" mark must be used.
-
-![](images/56443a41f6f8e629db4c5abce2c881422178e5871a6ae0ed06bad57693b96599.webp)
+> ⚠️ **Внимание:** 
+> Prior to fastening the rear seat belts, ensure the latch matches the seat belt buckle. Forcefully fastening the left or right seat belt to the center buckle can result in an improper fastening scenario that will not protect you in an accident.
+>
+> When using the rear center seat belt, the buckle with the "CENTER" mark must be used.
+>
+> ![](images/56443a41f6f8e629db4c5abce2c881422178e5871a6ae0ed06bad57693b96599.webp)
 
 ### Releasing the seat belt
-`kia_ev6_en_e0bbfec4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/3e45b25ddd356d9a1aa2fd3c85ebc785e355eba60b28663d27fb68686e02335b.webp)
 
@@ -2604,7 +2302,6 @@ The seat belt is released by pressing the release button (1) on the locking buck
 When it is released, the belt should automatically draw back into the retractor. If this does not happen, check the belt to make sure it is not twisted, then try again.
 
 ### Pre-tensioner seat belt
-`kia_ev6_en_90124b1f` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Your vehicle is equipped with driver's and front passenger's pre-tensioner seat belts (retractor pre-tensioner and EFD (Emergency Fastening Device)).
 
@@ -2615,7 +2312,6 @@ The pre-tensioner seat belts may be activated, when a frontal collision is sever
 When the vehicle stops suddenly, or if the occupant tries to lean forward too quickly, the seat belt retractor may lock into position. In certain frontal collisions, the pre-tensioner will activate and pull the seat belt into tighter contact against the occupant's body.
 
 ### 1 Retractor pre-tensioner
-`kia_ev6_en_545a993f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The purpose of the retractor pre-tensioner is to make sure that the shoulder belts fit in tightly against the occupant's upper body in certain frontal collisions.
 
@@ -2639,12 +2335,10 @@ The actual position of seat belt pre-tensioner system components may differ from
 4 Emergency fastening device (EFD)
 
 ### Skin Irritation
-`kia_ev6_en_cd452ce3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Wash all exposed skin areas thoroughly after an accident in which the pre-tensioner seat belts were activated. The fine dust from the pre-tensioner activation may cause skin irritation and should not be inhaled for prolonged periods.
 
 ### \* NOTICE
-`kia_ev6_en_6a668c7c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Both the driver's and front passenger's seat belt pre-tensioner systems may be activated, not only in certain frontal collisions, but also in certain side collisions or rollovers, if the vehicle is equipped with a side or curtain air bag.
 Because the sensor that activates the SRS air bag is connected with the pretensioner seat belt, the SRS air bag warning light ( ) on the instrument panel will illuminate for approximately 6 seconds after the EV button has
@@ -2655,111 +2349,89 @@ If the pre-tensioner seat belt system is not working properly, this warning ligh
 being driven, have an authorized Kia dealer inspect the pre-tensioner seat belt and SRS air bag system as soon as possible.
 
 ### Hot Pre-tensioner
-`kia_ev6_en_4c54e6f3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not touch the pre-tensioner seat belt assemblies for several minutes after they have been activated. When the pretensioner seat belt mechanism fires during a collision, the pre-tensioner becomes hot and can burn you.
 
 ### \* NOTICE
-`kia_ev6_en_04efd414` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not attempt to service or repair the pre-tensioner seat belt system in any manner. Do not attempt to inspect or replace the pre-tensioner seat belts yourself. This must be done by an authorized Kia dealer.
 
 Pre-tensioners are designed to operate only one time. After activation, pre-tensioner seat belts must be replaced. If the pre-tensioner must be replaced, contact an authorized Kia dealer.
 
 ### Infant or small child
-`kia_ev6_en_1508d032` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All 50 states have child restraint laws. You should be aware of the specific requirements in your state. Child and/or infant seats must be properly placed and installed in the rear seat. For more information about the use of these restraints, refer to "Child Restraint System (CRS)" on page 4-26.
 
 ### \* NOTICE
-`kia_ev6_en_67090838` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Small children are best protected from injury in an accident when properly restrained in the rear seat by a child restraint system that meets the requirements of the Federal Motor Vehicle Safety Standards. Before buying any child restraint system, make sure that it has a label certifying that it meets Federal Motor Vehicle Safety Standard 213. The restraint must be appropriate for your child's height and weight. Check the label on the child restraint for this information. Refer to "Child Restraint System (CRS)" on page 4-26.
 
 ### Larger children
-`kia_ev6_en_66a87519` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Children who are too large for child restraint systems should always occupy the rear seat and use the available lap/ shoulder belts. The lap portion should be fastened and snug on the hips as low as possible. Check periodically to insure that the belt fits. A child's squirming could put the belt out of position. Children are given the most safety in the event of an accident when they are restrained by a proper restraint system in the rear seat. If a larger child (over age 13) must be seated in the front seat, the child should be securely restrained by the available lap/shoulder belt and the seat should be placed in the rearmost position. Children age 13 and under should be restrained securely in the rear seat. NEVER place a child age 13 and under in the front seat. NEVER place a rear facing child seat in the front seat of a vehicle.
 
 If the shoulder belt portion slightly touches the child's neck or face, try placing the child closer to the center of the vehicle. If the shoulder belt still touches their face or neck they need to be returned to a child restraint system.
 
 ### Small Children
-`kia_ev6_en_065024f2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not allow small children to ride in the vehicle without an appropriate child restraint system. If the shoulder belt comes in contact with your child's neck or face, your child is too small to ride in the vehicle. In a crash the seat belt will inflict injury to your child's neck, throat and face.
 
 ### Restraint of pregnant women
-`kia_ev6_en_85748ed0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Pregnant women should wear lap/shoulder belt assemblies whenever possible according to specific recommendations by their doctors. The lap portion of the belt should be worn AS SECURELY AND LOW AS POSSIBLE.
 
 ### Pregnant Women
-`kia_ev6_en_dc35ad38` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Pregnant women must never place the lap portion of the seat belt above or on the abdomen where the fetus is located. The force of the seat belt during a collision will crush the fetus.
 
 ### Injured person
-`kia_ev6_en_0d263867` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A seat belt should be used when an injured person is being transported. When this is necessary, you should con sult a physician for recommendations.
 
 ### One person per belt
-`kia_ev6_en_c93bcd10` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Two people (including children) should never attempt to use a single seat belt. This could increase the severity of injuries in case of an accident.
 
 ### Do not lie down
-`kia_ev6_en_ead24deb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To reduce the chance of injuries in the event of an accident and to achieve maximum effectiveness of the restraint system, all passengers should be sitting up and the front and rear seats should be in an upright position when the vehicle is moving. A seat belt cannot provide proper protection if the person is lying down in the rear seat or i the front and rear seats are in a reclined position.
 
 ### Care of seat belts
-`kia_ev6_en_c80592b1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Seat belt systems should never be disassembled or modified. In addition, care should be taken to assure that seat belts and belt hardware are not damaged by seat hinges, doors or other abuse.
 
 ### Pinched Seat Belt
-`kia_ev6_en_db991727` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure that the webbing and/or buckle does not get caught or pinched in the rear seat when returning the rear seatback to its upright position. A caught or pinched webbing/buckle may become damaged and could fail during a collision or sudden stop.
 
-### WARNING
-`kia_ev6_en_19ab2d16` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
-
-Seatbelts can become hot in a vehicle that has been closed up in sunny weather. They could burn infants and children.
+> ⚠️ **Внимание:** 
+> Seatbelts can become hot in a vehicle that has been closed up in sunny weather. They could burn infants and children.
 
 ### Periodic inspection
-`kia_ev6_en_a309177c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All seat belts should be inspected periodically for wear or damage of any kind. Any damaged parts should be replaced as soon as possible.
 
 ### Keep belts clean and dry
-`kia_ev6_en_c119947e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Seat belts should be kept clean and dry. If belts become dirty, they can be cleaned by using a mild soap solution and warm water. Bleach, dye, strong detergents or abrasives should not be used because they may damage and weaken the fabric.
 
 ### When to replace seat belts
-`kia_ev6_en_b0845b87` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The entire in-use seat belt assembly or assemblies should be replaced if the vehicle has been involved in an accident. This should be done even if no damage is visible. Additional questions concerning seat belt operation should be directed to an authorized Kia dealer.
 
 ### Child Restraint System (CRS)
-`kia_ev6_en_5eae3c90` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Infants and younger children must be restrained in an appropriate rear-facing or forward-facing CRS that has first been properly secured to the rear seat of the vehicle.
 
 ### Children always in the rear
-`kia_ev6_en_509ae5c3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Children under age 13 must always ride in the rear seats and must always be properly restrained to minimize the risk of injury in an accident, sudden stop or sudden maneuver.
 
 ### Restraint Location
-`kia_ev6_en_19d7fd00` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never install a child or infant seat in the front passenger's seat. A child riding in the front passenger seat can be forcefully struck by an inflating airbag and get seriously injured.
 
 ### Hot Child Restraint
-`kia_ev6_en_668872b1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A child restraint system can become very hot if it is left in a closed vehicle on a sunny day. Be sure to check the seat cover, buckles and latches before placing a child in the restraint system.
 
@@ -2772,12 +2444,10 @@ Child restraint systems must be properly placed and installed in the rear seat. 
 Child restraint systems are generally designed to be secured in a vehicle seat by lap belt portion of a lap/shoulder belt, or by a LATCH system in the rear seats of the vehicle.
 
 ### Child restraint system (CRS)
-`kia_ev6_en_0c2eab0b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Infants and younger children must be restrained in an appropriate rear-facing or forward-facing CRS that has first been properly secured to the rear seat of the vehicle. Read and comply with the instructions for installation and use provided by the manufacturer of the CRS.
 
 ### Child Restraint Installation
-`kia_ev6_en_df7b1e0c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 An improperly secured child restraint system can increase the risk of serious injury or death in an accident. Always take the following precautions when using a child restraint system:
 
@@ -2786,12 +2456,10 @@ Always follow the child restraint sys tem manufacturer's instructions for instal
 Do not use an infant carrier or a child safety seat that "hooks" over a seatback, as it may not provide adequate protection in an accident.
 
 ### \* NOTICE
-`kia_ev6_en_b4c8c69f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 After an accident, have a Kia dealer check the child restraint system, seat belts, tether anchors and lower anchors.
 
 ### Selecting a Child Restraint System (CRS)
-`kia_ev6_en_5f2953c6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When selecting a CRS for your child, always:
 
@@ -2802,27 +2470,22 @@ required label or the instructions for use typically provide this information. S
 Read and comply with the warnings and instructions for installation and use provided with the child restraint system.
 
 ### Holding Children
-`kia_ev6_en_c945c1c8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never hold a child in your arms or lap when riding in a vehicle. The violent forces created during a crash will tear the child from your arms and throw the child against the car's interior. Always use a child restraint system, which is appropriate for your child's height and weight.
 
 ### Unattended Children
-`kia_ev6_en_9884b7d4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never leave children unattended in a vehicle. The car can heat up very quickly, resulting in injuries to the child in the vehicle.
 
 ### Seat Belt Use
-`kia_ev6_en_6d0e9ca1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not use one seat belt for two occu pants at the same time. This will eliminate any safety benefit provided by the seat belt to the occupants.
 
 ### Child restraint system types
-`kia_ev6_en_248b57d0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 There are three main types of child restraint systems: rear-facing seats, forward-facing seats, and booster seats. They are classified according to the child's age, height and weight.
 
 ### Rear-facing child seats
-`kia_ev6_en_7b20bfa5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f39fd0eee81a09bb788f875c33884107d8253e7f2a5dd5c87c8c78abf2b10701.webp)
 
@@ -2833,7 +2496,6 @@ All children under age one must always ride in a rear-facing infant child restra
 Continue to use a rear-facing child seat for as long as your child will fit within the height and weight limits allowed by the child seat manufacturer. It's the best way to keep them safe. Once your child has outgrown the rear-facing child restraint, your child is ready for a forward-facing child restraint with a harness.
 
 ### Forward-facing child restraints
-`kia_ev6_en_23a5eac2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e50c558ac01be58dd78e5ab9c2c59c4d864d3a09fcb96144abc8e7dd530b8f26.webp)
 
@@ -2842,14 +2504,12 @@ A forward-facing child seat provides restraint for the child's body with a harne
 Once your child outgrows the forwardfacing child restraint, your child is ready for a booster seat.
 
 ### Booster seats
-`kia_ev6_en_50c2623c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A booster seat is a restraint designed to improve the fit of the vehicle's seat belt system. A booster seat positions the seat belt so that it fits properly over the lap of your child.
 
 Keep your child in a booster seat until they are big enough to sit in the seat without a booster and still have the seat belt fit properly. For a seat belt to fit properly, the lap belt must lie snugly across the upper thighs, not the stomach. The shoulder belt should lie snug across the shoulder and chest and not across the neck or face. Children under age 13 must always ride in the rear seats and must always be properly restrained to minimize the risk of injury.
 
 ### Installing a Child Restraint System (CRS)
-`kia_ev6_en_601d8ac0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 After selecting a proper child seat for your child, check to make sure it fits properly in your vehicle.
 
@@ -2862,7 +2522,6 @@ Make sure the child restraint is firmly secured. After installing a child restra
 Secure the child in the child restraint. Make sure the child is properly strapped in the child restraint according to the manufacturer instructions.
 
 ### Lower Anchors and Tether for Children (LATCH) System
-`kia_ev6_en_ccb58605` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The LATCH system holds a child restraint during driving and in an accident. This system is designed to make installation of the child restraint easier and reduce the possibility of improperly installing your child restraint. The LATCH system uses anchors in the vehicle and attachments on the child restraint. The LATCH system eliminates the need to use seat belts to secure the child restraint to the rear seats.
 
@@ -2877,7 +2536,6 @@ The child seat manufacturer will provide you with instructions on how to use the
 LATCH anchors have been provided in the left and right outboard rear seating positions. Their locations are shown in the illustration. There are no LATCH anchors provided for the center rear seating position.
 
 ### LATCH Lower Anchors
-`kia_ev6_en_03041363` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never attempt to attach a LATCH equipped seat in the center seating position. LATCH lower anchors are only to be used in the left and right rear outboard seating positions. You may damage the anchors or the anchors may fail and break in a collision if the seat is in the center seating position.
 
@@ -2893,7 +2551,6 @@ The LATCH anchors are located between the seatback and the seat cushion of the r
 To use the lower anchor, push the upper portion of the lower anchor cover.
 
 ### Securing a child restraint with the LATCH anchors system
-`kia_ev6_en_4b3c6d18` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To install a LATCH-compatible child restraint in either of the rear outboard seating positions:
 
@@ -2903,7 +2560,6 @@ To install a LATCH-compatible child restraint in either of the rear outboard sea
 4. Follow the child restraint instructions for properly adjusting and tightening the lower attachments on the child restraint to the lower anchors.
 
 ### A WARNING
-`kia_ev6_en_214c11a3` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Take the following precautions when using the LATCH system:
 
@@ -2915,7 +2571,6 @@ vehicle. Lock each unused seatbelt following the instructions in the "automatic 
 Always have the LATCH system inspected by your authorized Kia dealer after an accident. An accident can damage the LATCH system and may not properly secure the child restraint.
 
 ### \* NOTICE
-`kia_ev6_en_3fa05494` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The recommended maximum weight for the LATCH system is 65 lbs. (30 kg). When selecting a proper child restraint system, consider that the maximum total weight of the child plus the child
 restraint should be less than 65 lbs. (30 kg).
@@ -2925,7 +2580,6 @@ Child Restraint system Weight = 65
 (child's total weight in lbs.)
 
 ### Securing a child restraint seat with "Tether Anchor" system
-`kia_ev6_en_dc72f425` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/47168586cf1d7a1eae9450e78e29cc90a668adc84440e0af12b323acec331513.webp)
 
@@ -2933,35 +2587,31 @@ First secure the child restraint with the LATCH lower anchors or the seat belt. 
 
 Child restraint hook holders are located on the shelf behind the rear seats.
 
-### WARNING
-`kia_ev6_en_04bfc8db` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Take the following precautions when installing the tether strap:
-
-Read and follow all installation
-instructions provided with your child restraint system.
-NEVER attach more than one child restraint to a single tether anchor.
-This could cause the anchor or attachment to come loose or break.
-Do not attach the tether strap to anything other than the correct tether anchor. It may not work properly if attached to something else.
-Do not use the tether anchors for
-adult seat belts or harnesses, or for attaching other items or equipment to the vehicle.
-Always fasten the seat belts behind the child restraint seat when they are not used to secure the child seat. Failure to do so may result in child strangulation.
-
-To install the tether anchor:
-
-![](images/7a932e77ccd21a49b9f0d3c75a1d7718bdea9f0f3a7078ac78031bd60d3882ff.webp)
-
-1. Route the child restraint tether strap over the child restraint seatback. Route the tether strap under the head restraint and between the head restraint posts, or route the tether strap over the top of the vehicle seatback. Make sure the strap is not twisted. 2. Connect the tether strap hook to the tether anchor, then tighten the tether strap according to the child seat man
-
-ufacturer's instructions to firmly secure the child restraint to the seat. 3. Check that the child restraint is securely attached to the seat by pushing and pulling the seat forward and from side-to-side.
+> ⚠️ **Внимание:** 
+> Take the following precautions when installing the tether strap:
+>
+> Read and follow all installation
+> instructions provided with your child restraint system.
+> NEVER attach more than one child restraint to a single tether anchor.
+> This could cause the anchor or attachment to come loose or break.
+> Do not attach the tether strap to anything other than the correct tether anchor. It may not work properly if attached to something else.
+> Do not use the tether anchors for
+> adult seat belts or harnesses, or for attaching other items or equipment to the vehicle.
+> Always fasten the seat belts behind the child restraint seat when they are not used to secure the child seat. Failure to do so may result in child strangulation.
+>
+> To install the tether anchor:
+>
+> ![](images/7a932e77ccd21a49b9f0d3c75a1d7718bdea9f0f3a7078ac78031bd60d3882ff.webp)
+>
+> 1. Route the child restraint tether strap over the child restraint seatback. Route the tether strap under the head restraint and between the head restraint posts, or route the tether strap over the top of the vehicle seatback. Make sure the strap is not twisted. 2. Connect the tether strap hook to the tether anchor, then tighten the tether strap according to the child seat man
+>
+> ufacturer's instructions to firmly secure the child restraint to the seat. 3. Check that the child restraint is securely attached to the seat by pushing and pulling the seat forward and from side-to-side.
 
 ### Securing a child restraint with a lap/shoulder belt
-`kia_ev6_en_43638a4b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When not using the LATCH system, all child restraints must be secured to a vehicle rear seat with the lap part of a lap/shoulder belt.
 
 ### Automatic locking mode
-`kia_ev6_en_284673ce` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a581e5fce8a06a13c09de071f69f6acbb0f8d735de48a5b586211b3c2a562bf9.webp)
 
@@ -2991,19 +2641,16 @@ Be sure the seat belt webbing is not twisted. 2. Fasten the lap/shoulder belt la
 7. Double check that the retractor is in the "automatic locking" mode by attempting to pull more of the seat belt out of the retractor. If you cannot, the retractor is in the "automatic locking" mode. If your CRS manufacturer instructs or recommends you to use a tether anchor with the lap/shoulder belt, refer to "Securing a child restraint with the LATCH anchors system" on page 4-30 for more information.
 
 ### Auto Lock Mode
-`kia_ev6_en_cd3105c4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Set the retractor to Automatic Lock mode when installing any child restraint system. If the retractor is not in the automatic locking mode, the child restraint can move when your vehicle turns or stops suddenly. A child can be seriously injured or killed if the child restraint is not properly anchored in the car, including manually pulling the seat belt all the way out to shift the retractor to the "Auto Lock" mode.
 
 ### \* NOTICE
-`kia_ev6_en_218c5178` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the seat belt is allowed to retract to its fully stowed position, the retractor will automatically switch from the "automatic locking" mode to the emergency lock mode for normal adult usage.
 
 To remove the child restraint, press the release button on the buckle and then pull the lap/shoulder belt out of the restraint and allow the seat belt to retract fully.
 
 ### Air bag advanced supplemental restraint system
-`kia_ev6_en_d1bf1227` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 The appropriate air bags inflate instantly in the event of a serious frontal collision or side collision in order to help protect the occupants from serious physical injury.
 
@@ -3027,32 +2674,25 @@ There are even circumstances
 under which contact with the steering wheel or passenger air bag can cause fatal injuries, especially if the occupant is positioned excessively close to the steering wheel or passenger air bag.
 
 ### Airbag Inflation
-`kia_ev6_en_3c01da04` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Sit as far back as possible from the steering wheel while still maintaining comfortable control of the vehicle. A distance of at least 10" from your chest to the steering wheel is recommended. Failure to do so can result in airbag inflation injuries to the driver.
 
 ### Noise and smoke
-`kia_ev6_en_6831bbd0` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 When inflated, the air bags make a loud noise and leave smoke and powder in the air inside the vehicle. This is normal and is a result of the ignition of the air bag inflator. After the air bag inflates, you may feel substantial discomfort in breathing due to the contact of your chest with both the seat belt and the air bag, as well as from breathing the smoke and powder. Open your doors and/or windows as soon as possible after impact in order to reduce dis
 
 ### comfort and prevent prolonged exposure to the smoke and powder.
-`kia_ev6_en_74d068d8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Though smoke and powder are nontoxic, it may cause irritation to the skin (eyes, nose and throat, etc). If this is the case, wash and rinse with cold water immediately and consult a doctor if the symptom persists.
 
 ### Hot Components
-`kia_ev6_en_e660f958` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not touch the air bag storage area's internal components immediately after airbag inflation. The air bag related parts in the steering wheel, instrument panel and the roof rails above the front and rear doors are very hot. Hot components can result in burn injuries.
 
-### WARNING
-`kia_ev6_en_d9ea1643` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Do not install or place any accessories near air bag deployment areas, such as the instrument panel, windows, pillars, and roof rails.
+> ⚠️ **Внимание:** 
+> Do not install or place any accessories near air bag deployment areas, such as the instrument panel, windows, pillars, and roof rails.
 
 ### Do not install a child restraint on the front passenger's seat
-`kia_ev6_en_a92d938c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never place a rear-facing child restraint in the front passenger's seat.
 
@@ -3065,12 +2705,10 @@ In addition, do not place front-facing child restraints in the front passenger's
 inflates, it could cause serious or fatal injuries to the child.
 
 ### Air Bag Deployment
-`kia_ev6_en_2344d9c3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When children are seated in the rear outboard seats of a vehicle equipped with side and/or curtain air bags, install the child restraint system as far away from the door side as possible. Inflation of the side and/or curtain air bags could impact the child.
 
 ### Air bag warning light
-`kia_ev6_en_034f30dc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The purpose of air bag warning light in your instrument panel is to alert you of a potential problem with your air bag system, which could include your side and/ or curtain air bags used for rollover protection.
 
@@ -3085,7 +2723,6 @@ The light does not turn on briefly when you change EV button to ON. The light st
 The light blinks when EV button is in the ON position.
 
 ### Supplemental Restraint System (SRS) components and functions
-`kia_ev6_en_91beb810` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 The SRS consists of multiple elements and sensors.
 
@@ -3139,24 +2776,20 @@ Passenger's front air bag soap after an accident in which the air bags were depl
 The SRS can function only when EV button is in the ON position. If the SRS air bag warning light does not illuminate, or continuously remains on after illuminating for about 6 seconds when EV button is in the ON position after the vehicle is in the READY mode, or comes on while driving, the SRS is not working properly. If this occurs, have your vehicle immediately inspected by an authorized Kia dealer.
 
 ### Air Bag Obstructions
-`kia_ev6_en_e06d5db8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not install or place any accessories on the steering wheel, instrument panel, or on the front passenger's panel above the glove box in a vehicle. Such objects may become dangerous projectiles if the air bag deploys.
 
 ### Flying Objects
-`kia_ev6_en_eb478f70` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not place any objects (an umbrella, bag, etc.) between the front door and the front seat. Such objects may become dangerous projectiles if the side airbag inflates.
 
 If an air bag deploys, there may be a loud noise followed by a fine dust released in the vehicle. These conditions are normal and are not hazardous the air bags are packed in this fine powder. The dust generated during air bag deployment may cause skin or eye irritation as well as aggravate asthma for some persons. Always wash all exposed skin areas thoroughly with cold water and a mild
 
 ### \* NOTICE
-`kia_ev6_en_7e8df162` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before you replace a fuse or disconnect a battery terminal, change the EV button to the OFF position. Never remove or replace the air bag related fuse(s) when the EV button is in the ON position. Failure to heed this warning will cause the SRS air bag warning light to illuminate.
 
 ### Occupant Detection System (ODS)
-`kia_ev6_en_18705b4d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Your vehicle is equipped with an occupant detection system in the front passenger's seat.
 
@@ -3167,7 +2800,6 @@ The occupant detection system is designed to detect the presence of a properly-s
 Do not put anything in front of the passenger air bag OFF indicator.
 
 ### Main components of the occu pant detection system
-`kia_ev6_en_0cb89f63` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 An detection device located within the front passenger seat cushion.
 An electronic system which deter
@@ -3188,7 +2820,6 @@ The ODS (Occupant Detection System) may not function properly if the passenger t
 6. Reclining the seatback.
 
 ### Condition and operation in the front passenger occupant detection system
-`kia_ev6_en_d84655bd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/4e7d6cc65bee7d6ed7fc3d44e53420e2ed06d2e6d83d9af955fe16e65485f649.webp)
 
@@ -3200,18 +2831,14 @@ The ODS (Occupant Detection System) may not function properly if the passenger t
 
 \* 4. The PASSENGER AIR BAG OFF indicator may turn on or off when a child above 12 months to 12 years old (with or without child restraint system) sits in the front passenger seat. This is a normal condition.
 
-### WARNING
-`kia_ev6_en_25d765ed` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Do not install a child restraint system in the passenger seat when the seat is heavily soaked with any type of liquid. Do not alter or remodel the ODS (Occupant Detection System). This may damage the system and prevent its proper function in a collision.
+> ⚠️ **Внимание:** 
+> Do not install a child restraint system in the passenger seat when the seat is heavily soaked with any type of liquid. Do not alter or remodel the ODS (Occupant Detection System). This may damage the system and prevent its proper function in a collision.
 
 ### \* NOTICE
-`kia_ev6_en_e56c60c7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not modify or replace the front passenger seat. Do not place anything on or attach anything, such as a blanket, front seat cover or after market seat heater, to the front passenger seat. This can adversely affect the occupant detection system.
 
 ### \* NOTICE
-`kia_ev6_en_9458511c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not use car seat cushions that
 cover up the surface of the seat and aftermarket manufactured passenger seat heaters.
@@ -3221,13 +2848,10 @@ Any service related to the passenger seat and the ODS must be done at an authori
 After the passenger seat has been removed or installed for repair purposes, check for normal operation of the PASSENGER AIR BAG OFF and air bag warning lights with a person
 seated or not seated in the passenger seat.
 
-### WARNING
-`kia_ev6_en_f6750b42` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-When the PASSENGER AIR BAG OFF symbol is illuminated, the passenger air bag system will not operate. The passenger air bag system will operate when necessary if the symbol is not illuminated.
+> ⚠️ **Внимание:** 
+> When the PASSENGER AIR BAG OFF symbol is illuminated, the passenger air bag system will not operate. The passenger air bag system will operate when necessary if the symbol is not illuminated.
 
 ### ODS System
-`kia_ev6_en_5a0802e7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Riding in an improper position adversely affects the Occupant Detection System and may result in the deactivation of the front passenger airbag. It is important for the driver to instruct the passenger as to the proper seating instructions as contained in this manual.
 
@@ -3272,7 +2896,6 @@ Do not spill liquid in the passenger seat. Spilled liquid on the passenger seat 
 ![](images/e01703aaa385cd2227d131abd048420d07f903452440ec68ec6d8f31db9fc4ad.webp)
 
 ### Proper position
-`kia_ev6_en_9f3be914` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f4b4b823a47c53b90117f9efde39593e09a696e2f4e068fe45c7c60cf12df936.webp)
 
@@ -3281,14 +2904,12 @@ When an adult is seated in the front passenger seat, if the PASSENGER AIR BAG OF
 If the PASSENGER AIR BAG OFF indicator is still on, ask the passenger to move to the rear seat.
 
 ### PASSENGER AIR BAG OFF Light
-`kia_ev6_en_823634ec` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not allow an adult passenger to ride in the front seat when the PASSENGER AIR BAG OFF indicator is illuminated because the air bag will not deploy in the event of a crash. The driver must instruct the passenger to reposition himself in the seat. Failure to properly position himself may lead to air bag deactivation, resulting in air bag nondeployment in a collision. If the PASSENGER AIR BAG OFF indicator remains illuminated after the passenger repositions themselves properly and the car is restarted, it is recommended that the passenger move to the rear seat
 
 because the passenger's front air bag will not deploy.
 
 ### \* NOTICE
-`kia_ev6_en_769d54fd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The PASSENGER AIR BAG OFF indicator illuminates for about 4 seconds after EV button is turned to the ON position after the vehicle is started. If the front passenger seat is occupied, the occupant detection sensor will then classify the front passenger after several more seconds.
 
@@ -3299,7 +2920,6 @@ Any child age 13 and under should ride in the rear seat. Children too large for 
 If the occupant detection system is not working properly, the SRS air bag warning light on the instrument panel will illuminate because the passenger's front air bag is connected with the occupant detection system. If there is a malfunction of the occupant detection system, the PASSENGER AIR BAG OFF indicator will not illuminate and the passenger's front air bag will inflate in frontal impact crashes even if there is no occupant in the front passenger's seat.
 
 ### Driver's and passenger's front air bag
-`kia_ev6_en_39d52295` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Your vehicle is equipped with an Advanced Supplemental Restraint (Air Bag) System and lap/shoulder belts at both the driver and passenger seating position.
 
@@ -3332,26 +2952,22 @@ According to the impact severity and seat belt usage, the SRSCM (SRS Control Mod
 Additionally, your vehicle is equipped with an occupant detection system in the front passenger's seat. The occupant detection system detects the presence of a passenger in the front passenger's seat and will turn off the front passenger's air bag under certain conditions. For more detail, see "Occupant Detection System (ODS)" on page 4-38.
 
 ### Modification
-`kia_ev6_en_280e9b20` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Modification to the seat structure can cause the air bag to deploy at a different level than should be provided.
 
 Manufacturers are required by government regulations to provide a contact point concerning modifications to the vehicle for persons with disabilities, which modifications may affect the vehicle's advanced air bag system. That contact is Kia's toll-free Customer Assistance center at 1-800-333-4Kia. However, Kia does not endorse nor will it support any changes to any part or structure of the vehicle that could affect the advanced air bag system, including the occupant detection system.
 
 ### Replacement/Modifications
-`kia_ev6_en_f0740b06` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The front passenger seat, dashboard or door should not be replaced except by an authorized Kia dealer using original Kia parts designed for this vehicle and model. Any other such replacement or modification could adversely affect the operation of the occupant detection system and your advanced air bags.
 
 ### Modification
-`kia_ev6_en_574ead7d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Modification to the seat structure can cause the air bag to deploy at a different level than should be provided.
 
 Advanced air bags are combined with pre-tensioner seat belts to help provide enhanced occupant protection in frontal crashes. Front air bags are not intended to deploy in collisions in which sufficient protection can be provided by the seat belt.
 
 ### \* NOTICE
-`kia_ev6_en_7e06b6e2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b08fcbfae675a011a63405164b3c46366dbc14eade2862f292d7b412c5f09563.webp)
 
@@ -3360,19 +2976,16 @@ Air bags can only be used once have an authorized Kia dealer replace the air bag
 Front air bags are not intended to deploy in side-impact, rear-impact or rollover crashes. However, when frontal deployment threshold is satisfied at side-impact, front air bags may deploy. In addition, front air bags will not deploy in frontal crashes below the deployment threshold.
 
 ### SRS Wiring
-`kia_ev6_en_7b33c913` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not tamper with or disconnect SRS wiring or other components of the SRS system. Doing so could result in injury, due to accidental deployment of the air bags or by rendering the SRS inoperative.
 
 ### No Attaching Objects
-`kia_ev6_en_4be06764` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 No objects (such as crash pad cover, cellular phone holder, cup holder, perfume or stickers) should be placed over or near the air bag modules on the steering wheel, instrument panel, windshield glass, and the front passenger's panel above the glove box. Such objects could cause harm if the vehicle is in a crash severe enough to cause the air bags to deploy.
 
 Do not place any objects over the air bag or between the air bag and yourself.
 
 ### Side air bag
-`kia_ev6_en_7f8f9e27` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Your vehicle is equipped with a side air bag in each front seat.
 
@@ -3389,33 +3002,28 @@ detected.
 The side air bags are not designed to deploy in all side impact or rollover situations.
 
 ### Unexpected Deployment
-`kia_ev6_en_9a618fb7` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Avoid impact to the side impact airbag sensor when the EV button is ON to prevent unexpected deployment of the side air bag.
 
 The side air bag is supplemental to the driver's and the passenger's seat belt systems and is not a substitute for them. Therefore your seat belts must be worn at all times while the vehicle is in operation. For best protection from the side air bag system and to avoid being injured by the deploying side air bag, both front seat occupants should sit in an upright position with the seat belt properly fastened. The driver's hands should be placed on the steering wheel at the 9:00 and 3:00 positions. The passenger's arms and hands should be placed on their laps.
 
 ### Deployment
-`kia_ev6_en_a62172bc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not install any accessories including seat covers, on the side or near the side air bag, as this may adversely affect the deployment of the side air bags.
 
 If seat or seat cover is damaged, have the vehicle checked and repaired by an authorized Kia dealer. Inform the dealer that your vehicle is equipped with side air bags and an occupant detection system.
 
 ### Flying Objects
-`kia_ev6_en_d3e5caba` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not place any objects (an umbrella, bag, etc.) between the front door and the front seat. Such objects may become dangerous projectiles if the side airbag inflates.
 
 ### No Attaching Objects
-`kia_ev6_en_b3036ac6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not place any objects over the air bag or between the air bag and yourself. Also, do not attach any objects around the area in which the air bag inflates, as the door, side door glass, front and rear pillar.
 
 Do not put any objects between the side airbag label and seat cushion. It could cause harm if the vehicle is in a crash severe enough to cause the air bags to deploy. Never place or insert any object into any small opening near the side airbag labels attached to the vehicle seats. When the air bag deploys, the object may adversely affect the deployment and result in an unexpected accident or bodily harm. Do not install any accessories on the side or near the side air bags.
 
 ### Curtain air bag
-`kia_ev6_en_dea1088b` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Curtain air bags are located along both sides of the roof rails above the front and rear doors.
 
@@ -3435,21 +3043,18 @@ The curtain air bags are not designed to deploy in all side impact or rollover s
 Do not allow the passengers to lean their heads or bodies against the doors, put their arms on the doors, stretch their arms out of the window or place objects between the doors and passengers when they are seated on seats equipped with side impact and/or curtain air bags.
 
 ### \* NOTICE
-`kia_ev6_en_6db8c122` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ae600ef4ef266dde39cd749d1274997aefd19d374e6dcd22a35de17043bb737c.webp)
 
 Never try to open or repair any components of the side and curtain air bag system. This should only be done by an authorized Kia dealer.
 
 ### No Attaching Objects
-`kia_ev6_en_1ef4a3e9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not place any objects over the air bag. Also, do not attach any objects around the area in which the air bag inflates, such as the door, side door glass, front and rear pillar, roof side rail.
 Do not hang hard, breakable, or
 heavy objects on the coat hooks for safety reasons.
 
 ### Air bag collision sensors
-`kia_ev6_en_69eecf29` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The air bag collision sensors are located in the following positions.
 
@@ -3464,7 +3069,6 @@ The actual shape and position of sensors may differ from the illustration.
 5 Side impact sensor (C-pillar)
 
 ### Air Bag Sensors
-`kia_ev6_en_fd640f5c` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Do not hit or allow any objects to
 impact the locations where air bags or sensors are installed.
@@ -3479,14 +3083,12 @@ Problems may arise if the sensor installation angles are changed due to the defo
 Installing bumper guards (or side step or running board) or replacing a bumper (or front door module) with non-genuine parts may adversely affect your vehicle's collision and air bag deployment performance.
 
 ### Why didn't my air bag go off in a collision? (Inflation and non-inflation conditions of the air bag)
-`kia_ev6_en_1b829293` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 There are many types of accidents in which the air bag would not be expected to provide additional protection.
 
 These include rear impacts, second or third collisions in multiple impact accidents, as well as low speed impacts.
 
 ### Air bag inflation conditions
-`kia_ev6_en_f059bfc1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Front air bags
 
@@ -3495,7 +3097,6 @@ Front air bags
 Front air bags are designed to inflate in a frontal collision depending on the severity of impact of the front collision.
 
 ### Side and/or curtain air bags
-`kia_ev6_en_38417a8b` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ![](images/445a6219caeaf1b041b31fa36613eb7ebd34813518351fb288fd2e81465ec2bd.webp)
 
@@ -3514,7 +3115,6 @@ Even if side and/or curtain air bags do not provide impact protection in a rollo
 If the vehicle chassis is impacted by bumps or objects on unimproved roads, the air bags may deploy. Drive carefully on unimproved roads or on surfaces not designed for vehicle traffic to prevent unintended air bag deployment.
 
 ### Air bag non-inflation conditions
-`kia_ev6_en_da3e4a7e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In certain low-speed collisions the air bags may not deploy. The air bags are designed not to deploy in such cases because they may not provide benefits beyond the protection of the seat belts in such collisions.
 
@@ -3545,7 +3145,6 @@ Air bags may not inflate if the vehicle collides with objects such as utility po
 ![](images/c2136436b90140892120c3df68221eda227f5270f7f436a34982185b8c644104.webp)
 
 ### Supplemental Restraint System (SRS) care
-`kia_ev6_en_b87c6905` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 The SRS is virtually maintenance-free and so there are no parts you can safely service by yourself.
 
@@ -3558,29 +3157,24 @@ For cleaning the air bag pad covers, use only a soft, dry cloth or one which has
 If components of the air bag system must be discarded, or if the vehicle must be scrapped, certain safety precautions must be observed. An authorized Kia dealer knows these precautions and can give you the necessary information. Failure to follow these precautions and procedures could increase the risk of personal injury.
 
 ### Tampering with SRS
-`kia_ev6_en_4617b9a2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not tamper with or disconnect SRS wiring, or other components of the SRS system. Doing so could result in the accidental inflation of the air bags or render the SRS inoperative.
 
 ### Towing Vehicle
-`kia_ev6_en_ef8ab6af` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Always have the vehicle in OFF position when your vehicle is being towed. The side air bags may inflate if the vehicle is tilted, such as when being towed, because of the rollover sensors in the vehicle.
 
 ### Adding equipment to or modifying your air bag-equipped vehicle
-`kia_ev6_en_88a069b9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you modify your vehicle by changing your vehicle's frame, bumper system, front end or side sheet metal or ride height, this may affect the operation of your vehicle's air bag system.
 
 ### Air bag warning label
-`kia_ev6_en_beeecdae` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Air bag warning labels, some required by the U.S. National Highway Traffic Safety Administration (NHTSA), are attached to the sun visor to alert the driver and passengers of potential risks of the air bag system.
 
 ![](images/3e4a23bf59187f5fcda4f8ad5371aeb9352fb611af18b1f51088db4004186263.webp)
 
 ### Door locks. ..... 5-15
-`kia_ev6_en_bda68f59` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Operating door unlocks from outside the vehicle. .·.·.·· 5-15
 Operating door locks from outside the vehicle ··········· 5-17
@@ -3592,7 +3186,6 @@ Electronic child safety lock ······ .5-23
 Rear Occupant Alert (ROA) 5-23
 
 ### Driver Position Memory System . .5-24
-`kia_ev6_en_8538aaf0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Storing memory positions ..·   5-25
 Recalling memory positions   5-25
@@ -3600,21 +3193,18 @@ Resetting memory positions     5-25
 Seat easy access    5-26
 
 ### Liftgate. .5-26
-`kia_ev6_en_ba819e1d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Opening the liftgate. 5-26
 Closing the liftgate. - \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*.\* 5-27
 Emergency liftgate safety release   5-27
 
 ### Power liftgate 1 5-28
-`kia_ev6_en_6147d647` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Opening and closing the power liftgate \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 5-30
 Resetting the power liftgate . . 5-32
 Emergency liftgate safety release 5-32
 
 ### Wide sunroof 5-46
-`kia_ev6_en_803ed74a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Power sunshade .5-46
 Tilt open/close . .5-47
@@ -3624,7 +3214,6 @@ Resetting the sunroof  \*..\*\*\*\*\*\*\*\* 5-48
 Sunroof open warning ········  5-49
 
 ### Steering wheel 5-49
-`kia_ev6_en_1e754338` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Electric Power Steering (EPS) .5-49
 Tilt and telescopic steering wheel ····..······ 5-50
@@ -3632,14 +3221,12 @@ Heated steering wheel  5-51
 Horn  5-51
 
 ### Augmented Reality HUD 5-87
-`kia_ev6_en_94b9cbc7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Head-up display settings. . .5-87
 Head-up display information  .5-87
 Precautions while using the head-up display \*\*\*\*\*\*·· 5-88
 
 ### Lighting. 5-90
-`kia_ev6_en_232a170d` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Battery saver function...  … 5-90
 Headlight escort function .···.· . 5-90
@@ -3650,7 +3237,6 @@ Operating turn signals and lane change signals . . .5-92
 High Beam Assist (HBA). 5-92
 
 ### 5 Features of your vehicle
-`kia_ev6_en_e3944bf2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Room lamp   5-97
 Map lamp    5-97
@@ -3659,7 +3245,6 @@ Vanity mirror lamp . .\* .5-98
 Glove box lamp. .··········  5-98
 
 ### Automatic climate control system 5-101
-`kia_ev6_en_5f25dac8` | ev6 | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Using the infotainment/climate switchable controller · .5-102
 Heating and air conditioning automatically.  5-102
@@ -3671,12 +3256,10 @@ Checking the amount of air conditioner refrigerant and
 compressor lubricant 5-111
 
 ### Windshield defrosting and defogging m 5-112
-`kia_ev6_en_b487a0e0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Defrosting outside windshield with automatic climate control. ：  5-113 Defogging inside windshield with automatic climate control.  5-113 Defogging logic. .· ·. …\*\*\*\*\*\*\*\* .5-113 Auto Defogging System (ADS)   …\*\*\*\*\*\*\*\*\*\*\*\*·· 5-114 Automatic ventilation .··. 5-114 Smart ventilation    5-115 A/C Automatic Drying    5-115
 
 ### Interior features. 5-117
-`kia_ev6_en_cb07691e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 僅 Ambient light. .5-117
 .
@@ -3693,7 +3276,6 @@ Luggage net holder     5-124
 Cargo security screen .   5-125
 
 ### Audio system. m 5-125
-`kia_ev6_en_a9c0394b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Sharkfin antenna 5-125
 USB port   \*.\*\*\*\*\*\*\*\*\*\*..\* 5-125
@@ -3701,22 +3283,18 @@ Using the infotainment/climate switchable controller … 5-126
 How vehicle radio works. 5-127
 
 ### Features of your vehicle Keys
-`kia_ev6_en_23645d86` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The mechanical key and various remote functions are integrated into the smart key to provide convenience to the driver.
 
 ### Record your key number
-`kia_ev6_en_f75f4f61` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The key code number is stamped on the bar code tag attached to the key set. Should you lose your keys, this number will enable an authorized Kia dealer to duplicate the keys easily. Remove the bar code tag and store it in a safe place. Also, record the code number and keep it in a safe and handy place, but not in the vehicle.
 
 ### Aftermarket Keys
-`kia_ev6_en_e1acce05` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Use only Kia original parts for the key in your vehicle. If an aftermarket key is used, the EV button may not return to ON after START. If this happens, the vehicle will continue to operate causing possible fire due to excessive current in the wiring.
 
 ### Smart key
-`kia_ev6_en_33de09eb` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 With a smart key, you can lock or unlock a door and even start the vehicle without inserting the key.
 
@@ -3732,7 +3310,6 @@ With a smart key, you can lock or unlock a door and even start the vehicle witho
 ward)
 
 ### Locking (1)
-`kia_ev6_en_a6aa43d1` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Manual type
 
@@ -3746,7 +3323,6 @@ To lock your vehicle using the door handle touch sensor or the smart key:
 3. In addition, pushing the button on the door handle (the engraved part) while keeping the smart key will lock all doors.
 
 ### Electric type (if equipped)
-`kia_ev6_en_72b35f2d` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/4dcacd72b2317d1c3f11001c9f8cc5aed8e936a6e06d1a97b5669e28eb989186.webp)
 
@@ -3757,12 +3333,10 @@ To lock your vehicle using the door handle touch sensor or the smart key:
 3. In addition, touching the touch sensor on the door handle (the engraved part) while keeping the smart key will lock all doors and let the door handle to retract back.
 
 ### ！ WARNING
-`kia_ev6_en_8f61282a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not leave the smart key in your vehicle with unsupervised children. Unattended children could press the EV button and may operate power windows or other controls, or even make the vehicle move, which could result in serious injury or death.
 
 ### \* NOTICE
-`kia_ev6_en_793ca990` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The outside rearview mirrors will fold
 if Enable on Door Unlock is selected
@@ -3784,7 +3358,6 @@ cle using the door handle touch sen
 sor if any of the following occur: The smart key is in the vehicle. The EV button is in ACC or ON position. Any of the doors are open except for the liftgate.
 
 ### \* NOTICE
-`kia_ev6_en_12306019` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 To fold/unfold the outside rearview mirrors simultaneously when the door is locked/unlocked, select Setup → Vehicle Settings → Convenience → Welcome Mirror → Enable on Door Unlock in the infotainment system screen.
 The door handle button will only operate when the smart key is within
@@ -3794,7 +3367,6 @@ If the smart key is not moved for
 some time, the detection function for smart key operation will pause. Lift the smart key to activate the detection again.
 
 ### Unlocking (2)
-`kia_ev6_en_d360bdab` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Manual type
 
@@ -3807,7 +3379,6 @@ To unlock your vehicle using the door handle button or the smart key:
 3. After unlocking the doors, the doors will automatically re-lock after 30 seconds unless a door is opened.
 
 ### When you release the Two Press Unlock function
-`kia_ev6_en_48efb183` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 To unlock your vehicle using the door handle touch sensor or the smart key:
 
@@ -3816,7 +3387,6 @@ To unlock your vehicle using the door handle touch sensor or the smart key:
 3. After unlocking the doors, the doors will automatically re-lock after 30 seconds unless a door is opened.
 
 ### When you set the Two Press Unlock function
-`kia_ev6_en_67a20732` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 1. Make sure you have the smart key in your possession.
 2. Touch the touch sensor on the door handle (engraved part) or press the door unlock button (2) on the smart key. The driver's door handle will pop out and the driver's door will be unlocked.
@@ -3827,7 +3397,6 @@ lights will blink twice and the chime will sound.
 4. After unlocking the doors, the doors will automatically relock after 30 seconds unless a door is opened.
 
 ### Two Press Unlock Feature
-`kia_ev6_en_7bbfcd45` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The priority for unlocking the driver door only, or unlocking all the doors with one press may be adjusted in the infotainment system screen.
 
@@ -3836,7 +3405,6 @@ The Two Press Unlock feature, when enabled, will require the user to press the d
 Select or deselect the Two Press Unlock Feature in the infotainment system. The option can be found under the following menu:
 
 ### Setup → Vehicle Settings → Door → Two Press Unlock
-`kia_ev6_en_5adf5ac0` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The Two Press Unlock Feature can also be enabled or disabled by pressing the door lock and unlock buttons simultaneously on the key fob:
 
@@ -3844,7 +3412,6 @@ Press and hold both the door lock button (1) and the door unlock button (2) simu
 This will enable or disable the Two Press Unlock feature. Repeat this procedure to enable/disable the mode again.
 
 ### \* NOTICE
-`kia_ev6_en_2311ded8` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The outside rearview mirrors will
 unfold if Enable on Door Unlock is
@@ -3869,7 +3436,6 @@ The doors may not lock or unlock in the following situations.
 If the touch sensor is touched with gloves on If the door is suddenly approached
 
 ### Liftgate open (3)
-`kia_ev6_en_96284ca6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To open:
 
@@ -3878,19 +3444,16 @@ To open:
 3. Once the liftgate is opened and then closed, the liftgate will lock automatically.
 
 ### \* NOTICE
-`kia_ev6_en_ec441a28` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The liftgate unlock will only operate when the smart key is within 28\~40 inches (0.7\~1 m) from the liftgate.
 
 ### Panic alarm (4)
-`kia_ev6_en_ed7c7781` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Press the panic button (4) for more than 1 second. 2. The horn sounds and hazard warning light flash for about 27 seconds.
 
 To stop the horn and lights, press any button on the smart key.
 
 ### Remote start (5)
-`kia_ev6_en_d3280da4` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 You can start the vehicle using the remote start button (5) of the smart key. To start the vehicle remotely:
 
@@ -3898,13 +3461,10 @@ Lock the doors by pressing the door lock button (1) within 32 feet (10 m) distan
 
 Press the remote start button (5) once to turn off the vehicle. Air conditioner/ heater system maintains the status before turning off the vehicle. If no further action for operating/driving the vehicle is taken, the vehicle will be turned off 10 minutes after starting the vehicle remotely.
 
-### CAUTION
-`kia_ev6_en_c7fd877c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Laws in your country may restrict the use of remote start. You should check country regulations before using this remote starting system. It is only possible to start the vehicle remotely when shifted to P (Park). If the hood or the liftgate is opened, you cannot start the vehicle remotely.
+> ⚠️ **Внимание:** 
+> Laws in your country may restrict the use of remote start. You should check country regulations before using this remote starting system. It is only possible to start the vehicle remotely when shifted to P (Park). If the hood or the liftgate is opened, you cannot start the vehicle remotely.
 
 ### Remote Smart Parking Assist (RSPA) (6, 7) (if equipped)
-`kia_ev6_en_3ac4c233` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Remote Smart Parking Assist (RSPA) helps the drivers park their vehicle by using sensors to measure parking spaces and control the steering wheel, gear shift and vehicle speed to semiau omatically park the vehicle.
 
@@ -3913,7 +3473,6 @@ With the smart key, the driver can move the vehicle forward or backward using th
 For more information, refer to "Remote Smart Parking Assist (RSPA) (if equipped)" on page 6-165.
 
 ### Mechanical key
-`kia_ev6_en_745731cc` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 If the smart key does not operate normally, you can lock or unlock the driver's door by using the mechanical key.
 
@@ -3926,14 +3485,12 @@ To reinstall the mechanical key, put the key into the hole and push it until a c
 With a smart key, you can lock or unlock a door (and liftgate) and start the vehicle.
 
 ### Loss of the smart key
-`kia_ev6_en_fddf0c24` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A maximum of 2 smart keys can be reg istered to a single vehicle.
 
 If you happen to lose your smart key, you will not be able to start the vehicle. You should immediately take the vehicle and remaining key to your authorized Kia dealer (tow the vehicle, if necessary) to protect it from potential theft.
 
 ### Smart key precautions
-`kia_ev6_en_fce1a727` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The smart key will not work if any of the following occur:
 
@@ -3944,24 +3501,20 @@ When the smart key does not work correctly, open and close the door with the mec
 If the smart key is in close proximity to your cell phone or smart phone, the signal from the smart key could be blocked by normal operation of your cell phone or smart phone. This is especially important when the phone is active such as making calls, receiving calls, text messaging, and/or sending/receiving emails. Avoid placing the smart key and your cell phone or smart phone in the same pants or jacket pocket and maintain adequate distance between the two devices.
 
 ### Smart Key
-`kia_ev6_en_56b40e30` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Keep the smart key away from water or any liquid, as it can become damaged and not function properly if wet.
 
 ### \* NOTICE
-`kia_ev6_en_cb8c961d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/978ca30642439004f3731dd0ed6252d2a64c5b1dbd2f11300843688dbd285bb1.webp)
 
 If the smart key is inoperative due to exposure to water or liquids, it will not be covered by your manufacturer's vehicle warranty.
 
 ### \* INFORMATION
-`kia_ev6_en_4bde257a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the smart key is not moved for some time, the detection function for smart key operation will pause. Lift the smart key to activate the detection again.
 
 ### Battery replacement
-`kia_ev6_en_adba5358` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A smart key battery should last for several years, but if the smart key is not working properly, try replacing the battery with a new one.
 
@@ -3985,14 +3538,12 @@ X
 An inappropriately disposed battery can be harmful to the environment and human health. Dispose the battery according to your local law(s) or regula tions.
 
 ### THIS PRODUCT CONTAINS A BUTTON BATTERY
-`kia_ev6_en_af95293d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If swallowed, a lithium button battery can cause severe or fatal injuries within 2 hours.
 
 Keep batteries out of reach of children. If you think batteries may have been swallowed or placed inside any part of the body, seek immediate medical attention.
 
 ### Immobilizer system
-`kia_ev6_en_07a223c5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The immobilizer system protects your vehicle from theft. If an improperly coded key (or other device) is used, the vehicle's power system is disabled.
 
@@ -4009,19 +3560,15 @@ If the system repeatedly does not recognize the coding of the key, it is recomme
 Do not attempt to alter this system or add other devices to it. Electrical problems could result that may make your vehicle inoperable.
 
 ### \* NOTICE
-`kia_ev6_en_ee3769b1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/51533da4b730a14abeaf6c4efe109fe272797653008952c68ec9e5dee726d48f.webp)
 
 When starting the vehicle, do not use the key with other immobilizer keys around. Otherwise the vehicle may not start or may stop soon after it starts. Keep each key separate in order to avoid a starting malfunction.
 
-### WARNING
-`kia_ev6_en_261a6be9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-In order to prevent theft of your vehicle, do not leave spare keys anywhere in your vehicle. Your immobilizer password is a customer unique password and should be kept confidential.
+> ⚠️ **Внимание:** 
+> In order to prevent theft of your vehicle, do not leave spare keys anywhere in your vehicle. Your immobilizer password is a customer unique password and should be kept confidential.
 
 ### This device complies with Part 15 of the FCC rules.
-`kia_ev6_en_385acad1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Operation is subject to the following three conditions:
 
@@ -4030,12 +3577,10 @@ Operation is subject to the following three conditions:
 3. Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the device.
 
 ### \* NOTICE
-`kia_ev6_en_b8389f05` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the equipment. If the smart key is inoperative due to changes or modifications not expressly approved by the party responsible for compliance, it will not be covered by your manufacturer's vehicle warranty.
 
 ### Theft-alarm system
-`kia_ev6_en_1e775df4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This system is designed to provide protection from unauthorized entry into the vehicle.
 
@@ -4044,7 +3589,6 @@ This system is designed to provide protection from unauthorized entry into the v
 This system is operated in three stages: the first is the "Armed" stage, the second is the "Theft-alarm" stage, and the third is the "Disarmed" stage. If triggered, the system provides an audible alarm with blinking of the hazard warning lights.
 
 ### Entering the armed stage using the smart key
-`kia_ev6_en_418cbd92` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 1. Place the EV button in the OFF position.
 2. Make sure that all doors, the hood and liftgate are closed and latched.
@@ -4053,12 +3597,10 @@ This system is operated in three stages: the first is the "Armed" stage, the sec
 If any door (or liftgate) or hood remains open, the hazard warning lights and the chime will not operate and the theft-alarm will not arm. If all doors and liftgate and hood are closed after the lock button is pressed, the hazard warning lights blink once. The system can also be armed by locking the doors with the key from the front doors; however, the hazard warning lights will not blink using this method. 4. Lock the doors by pressing the lock button on the smart key. After completion of the steps above, the hazard warning lights will operate once to indicate that the system is armed.
 
 ### \* NOTICE
-`kia_ev6_en_0387a869` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not arm the system until all passengers have left the vehicle. If the system is armed while a passenger(s) remains in the vehicle, the alarm may be activated when the remaining passenger(s) leaves the vehicle. If any door (or liftgate) or hood is opened within 30 seconds after the system enters the armed stage, the system will be disarmed to prevent unnecessary alarm.
 
 ### Theft-alarm stage
-`kia_ev6_en_341e69fc` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The alarm will be activated if any of the following occurs while the system is armed.
 
@@ -4069,7 +3611,6 @@ The hood is opened.
 The horn will sound and the hazard warning lights will blink continuously for approximately 27 seconds, and repeat the horn 3 times unless the system is disarmed. To turn off the system, unlock the doors with the smart key.
 
 ### Disarmed stage
-`kia_ev6_en_1f07493e` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The system will be disarmed when:
 
@@ -4078,7 +3619,6 @@ The doors (and liftgate) are unlocked with the smart key.
 After pressing the unlock button, the hazard warning lights will blink and the chime will sound twice (in smart key) to indicate that the system is disarmed. After pressing the unlock button, if any door (or liftgate) is not opened within 30 seconds, the system will be rearmed.
 
 ### \* NOTICE
-`kia_ev6_en_5a1fea5d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Avoid trying to start the vehicle while the alarm is activated. The vehicle
 starting motor is disabled during the theft-alarm stage.
@@ -4086,17 +3626,14 @@ If the system is not disarmed with the smart key, open the doors by using the me
 If you lose your keys, consult your authorized Kia dealer.
 
 ### Adjusting Alarm System
-`kia_ev6_en_5c0c3b6d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not change, alter or adjust the theft alarm system in your vehicle. Improper installation of the alarm system could damage the vehicle or cause the system to malfunction.
 
 ### \* NOTICE
-`kia_ev6_en_22fd3e7c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Malfunctions caused by improper alterations, adjustments or modifications to the theft-alarm system are not covered by your vehicle manufacturer warranty.
 
 ### Operating door unlocks from outside the vehicle
-`kia_ev6_en_a19f4a8c` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Manual type
 
@@ -4111,7 +3648,6 @@ Once the doors are unlocked, when press the front of the door handle (1) then re
 Pull the outside door handle to open the door.
 
 ### Approach Unlock system
-`kia_ev6_en_f79923dc` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The outside door handle will slide out and the doors will unlock when the driver approaches the vehicle possess ing the smart key.
 
@@ -4122,7 +3658,6 @@ To activate Approach unlock system for only the driver's seat, select Setup 一 
 To activate Approach unlock system, select Setup → Vehicle → Door → Activate Approach Unlock in the infotainment system. The outside door handle will slide out and the door will unlock when the driver approaches the vehicle possessing the smart key. If Approaching unlock system is deactivated, the door handle will not slide out even when the driver approaches to the vehicle with the smart key. To unlock doors when Approach unlock system is deactivated, touch the lock/unlock sensor (engraved part) on the handle.
 
 ### When the Approach unlock is activated
-`kia_ev6_en_ad7ee456` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/b8b4e43266934a1a3c2678c4472b0afb839acdd54d59453af1b53a87b36f503f.webp)
 
@@ -4131,7 +3666,6 @@ If you approach (within ft. (30 cm)) the driver or front passenger's door handle
 After first approach, the vehicle tries detecting the smart key every 5 seconds and if the key is not detected, the doors will lock automatically and the handles will slide in.
 
 ### When the Approach unlock is deactivated
-`kia_ev6_en_4edfdf99` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/7f4eb9ac11b61b4223d4e3f05fc338d1d94908a856b4fb75c99bd615a190d513.webp)
 
@@ -4140,12 +3674,10 @@ The handle does not slide out even when you approach with the smart key in posse
 The doors will lock automatically and the handles will slide in after 30 seconds unless a door is opened.
 
 ### \* NOTICE
-`kia_ev6_en_ea05bbfe` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In emergency situations, such as battery is dead, the outside electric door handle can still be operated in a way that the manual type outside manual door handle operate.
 
 ### Operating door locks from outside the vehicle
-`kia_ev6_en_e46c3a1c` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Manual type
 
@@ -4157,7 +3689,6 @@ The hazard warning lights will blink and chime also sounds once.
 Push the door to close.
 
 ### Electric type (if equipped)
-`kia_ev6_en_4c07a7a5` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/370842ed0a6497481d7a8f194d42c18942219648d10847cd418fa7d0fab0859c.webp)
 
@@ -4166,7 +3697,6 @@ When all doors are closed, touch the touch sensor on the front outside door hand
 The hazard warning lights will blink and chime also sounds once.
 
 ### \* NOTICE
-`kia_ev6_en_71a270cb` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 If the door is locked/unlocked multiple times in rapid succession with the
 smart key, door lock button or door lock switch, the system may stop
@@ -4175,7 +3705,6 @@ case the system does not operate due to multiple operations.
 Approach Unlock system is not operated continuously. Retry after a certain period of time when all the doors are closed.
 
 ### \* NOTICE
-`kia_ev6_en_6cc343e8` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 In cold and wet climates, door lock
 and door mechanisms may not work
@@ -4192,19 +3721,16 @@ When washing the vehicle Self car wash Keep the door locked with the outside doo
 Auto car wash Keep the door locked with the outside door handle closed. f the smart key is not in the vehicle, turn off the vehicle and keep the smart key away at least 78 inches (2 m) from the vehicle to prevent the outside door handle operates.
 
 ### Mechanical key
-`kia_ev6_en_a3aaf441` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/3b6b881244a383969bb08fada0787f3d2c2d3e305bf907e7524a4b89d48738ea.webp)
 
 Press the front part (1) of the door handle to pull out the rear part of the door handle. While keep pressing the front part of the door handle, insert the mechanical key (2) to the lock with the key handle facing the ground as shown. To lock the door, turn the key toward the front (left side) of the vehicle. To unlock, turn the key toward the rear (right side) of the vehicle.
 
 ### \* NOTICE
-`kia_ev6_en_45192777` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Do not apply excessive force on the door and door handle. It may damage the door and door handle. The mechanical key only locks/ unlocks the driver's door handle. For more details, refer to 'In case of an emergency' in this chapter.
 
 ### How to remove ice from door handles
-`kia_ev6_en_86e8ffbb` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 In extreme winter conditions, the door handle may not open due to icing inside the door handle. You can usually use the bottom of your fist to tap the door handle a few times to remove the ice.
 
@@ -4214,26 +3740,21 @@ In extreme winter conditions, the door handle may not open due to icing inside t
 
 2. If necessary, increase the intensity of tapping to remove ice, and repeat until the door handle protrudes when unlocking the door. 3. When the door handle protrudes and can be pulled, open and close a few times to remove any icing residue.
 
-### WARNING
-`kia_ev6_en_ce78b621` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Before performing this procedure, remove any jewelry or objects that could damage the paintwork and do not attempt to use tools or excessive force.
-Do not hit the vehicle too hard as dents may occur. You should use a force similar to knocking on your neighbor's door.
+> ⚠️ **Внимание:** 
+> Before performing this procedure, remove any jewelry or objects that could damage the paintwork and do not attempt to use tools or excessive force.
+> Do not hit the vehicle too hard as dents may occur. You should use a force similar to knocking on your neighbor's door.
 
 ### Operating door locks from inside the vehicle
-`kia_ev6_en_e92219df` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 With the door handle
 
 ![](images/a273eeb0d6b6b88d1ce6324202436f409223c7fd843a4a150db4907f36167c4d.webp)
 
 ### Rear door
-`kia_ev6_en_5d3bf406` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 If the inner door handle is pulled once when the door is locked, the door will unlock. If the inner door handle is pulled once more, the door will open.
 
 ### Door Lock Malfunction
-`kia_ev6_en_4e56fcca` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 If a power door lock ever fails to function while you are in the vehicle, try one or more of the following techniques to exit:
 
@@ -4243,7 +3764,6 @@ Operate the other door locks and handles, front and rear.
 Lower a front window and use the key to unlock the door from outside.
 
 ### With the central door lock switch
-`kia_ev6_en_6a251560` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Driver side
 
@@ -4258,7 +3778,6 @@ door and passenger's door will turn on. If any door is unlocked, it will go off.
 If the smart key is in the vehicle and any door is opened, the doors will not lock even though the right portion (1) for driver side or upper portion (1) for passenger side of the central door lock switch is pressed.
 
 ### Doors
-`kia_ev6_en_6790c291` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The doors should always be fully
 closed and locked while the vehicle is in motion to prevent accidental opening of the door.
@@ -4266,12 +3785,10 @@ Be careful when opening doors and watch for vehicles, motorcycles, bicycles or p
 approaching can cause damage or injury.
 
 ### Unattended Children/Animals
-`kia_ev6_en_c19924e7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never leave children or animals unattended in your vehicle. An enclosed vehicle can become extremely hot, causing death or severe injury to unattended children or animals who cannot escape the vehicle.
 
 ### In case of an emergency
-`kia_ev6_en_959ee57c` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/585614a4e69f90e4d8a0cae23c5971b1a08ce511680e073e998b03463a171d31.webp)
 
@@ -4282,70 +3799,52 @@ In case of emergency such as when the battery is discharged, the only way to loc
 
 3. Close the door securely.
 
-### WARNING
-`kia_ev6_en_d4077653` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> The doors should always be fully closed and locked while the vehicle is in motion. If the doors are unlocked, the risk of being thrown from the vehicle in a crash is increased. Do not pull the inner door handle of the driver's or passenger's door while the vehicle is moving.
 
-The doors should always be fully closed and locked while the vehicle is in motion. If the doors are unlocked, the risk of being thrown from the vehicle in a crash is increased. Do not pull the inner door handle of the driver's or passenger's door while the vehicle is moving.
+> ⚠️ **Внимание:** 
+> Do not leave children or animals unat tended in your vehicle. An enclosed vehicle can become extremely hot, caus ing death or serious injury to unattended children or animals who cannot escape the vehicle. Children might operate features of the vehicle that could injure them, or they could encounter other harm, possibly from someone gaining entry to the vehicle.
 
-### WARNING
-`kia_ev6_en_d2fc2bd6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> Always secure your vehicle. Leaving your vehicle unlocked increases the potential risk to you or others from someone hiding in your vehicle. To secure your vehicle, while depressing the brake, shift the gear to the P (Park) position, engage the parking brake, and press the EV button to the OFF position, close all windows, lock all doors, and always take the key with you.
 
-Do not leave children or animals unat tended in your vehicle. An enclosed vehicle can become extremely hot, caus ing death or serious injury to unattended children or animals who cannot escape the vehicle. Children might operate features of the vehicle that could injure them, or they could encounter other harm, possibly from someone gaining entry to the vehicle.
+> ⚠️ **Внимание:** 
+> If you stay in the vehicle for a long time while the weather is very hot or cold, there are risks of injuries or danger to life. Do not lock the vehicle from the outside when someone is in the vehicle.
 
-### WARNING
-`kia_ev6_en_2b7391a7` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
-
-Always secure your vehicle. Leaving your vehicle unlocked increases the potential risk to you or others from someone hiding in your vehicle. To secure your vehicle, while depressing the brake, shift the gear to the P (Park) position, engage the parking brake, and press the EV button to the OFF position, close all windows, lock all doors, and always take the key with you.
-
-### WARNING
-`kia_ev6_en_ac3b0003` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-If you stay in the vehicle for a long time while the weather is very hot or cold, there are risks of injuries or danger to life. Do not lock the vehicle from the outside when someone is in the vehicle.
-
-### CAUTION
-`kia_ev6_en_d6a7c725` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Opening a door when something is approaching may cause damage or injury. Be careful when opening doors and watch for vehicles, motorcycles, bicycles or pedestrians approaching the vehicle in the path of the door.
+> ⚠️ **Внимание:** 
+> Opening a door when something is approaching may cause damage or injury. Be careful when opening doors and watch for vehicles, motorcycles, bicycles or pedestrians approaching the vehicle in the path of the door.
 
 ### \* NOTICE
-`kia_ev6_en_142f1792` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 If the electrical power door lock switch does not operate (ex. dead car battery) and the liftgate is closed, you will not be able to open the liftgate until power is restored.
 
 ### Door lock/unlock features
-`kia_ev6_en_41e74111` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Your vehicle is equipped with features that will automatically lock or unlock your vehicle based on settings you select in the infotainment system screen. For detailed information, refer to the separately supplied infotainment system manual.
 
 ### Auto LOCK Enable on speed
-`kia_ev6_en_03a779ee` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 When this feature is set in the infotainment system screen, all the doors will be locked automatically when the vehicle exceeds 9 mph (15 km/h).
 
 You can activate or deactivate the auto door lock/unlock features in the vehicle. Refer to "Vehicle settings (infotainment system)" on page 5-72.
 
 ### Auto LOCK Enable on shift
-`kia_ev6_en_8027614f` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 When this feature is set in the infotainment system screen, all the doors will be locked automatically when the vehicle is shifted out of P (Park) while the vehicle is ON.
 
 ### Auto UNLOCK On Shift to P
-`kia_ev6_en_977e3636` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 When this feature is set in the infotainment system screen, all the doors will be unlocked automatically when the vehicle is shifted back into P (Park) while the vehicle is ON.
 
 ### Auto UNLOCK Vehicle off
-`kia_ev6_en_71bbed81` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 When this feature is set in the infotainment system screen, all the doors will be unlocked automatically when the vehicle is turned off.
 
 ### Additional unlock safety feature air bag deployment
-`kia_ev6_en_5ba7eef1` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 As an additional safety feature, all doors will be automatically unlocked when an impact causes the air bags to deploy.
 
 ### Child-protector rear door lock (if equipped)
-`kia_ev6_en_92d12b5e` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The child safety lock is provided to help prevent children from accidentally opening the rear doors from inside the vehicle. The rear door safety locks should be used whenever children are in the vehicle.
 
@@ -4358,12 +3857,10 @@ To lock the child safety lock, insert a key (or screwdriver) into the hole and t
 To allow a rear door to be opened from inside the vehicle, unlock the child safety lock.
 
 ### Rear Door Locks
-`kia_ev6_en_a67bc93c` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Use the rear door safety locks whenever children are in the vehicle. If a child accidentally opens the rear doors while the vehicle is moving, he or she may fall out.
 
 ### Electronic child safety lock (if equipped)
-`kia_ev6_en_b84f176f` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/fcecb3bfed75239ba44813b0e3a82898e1c92bdfaa77b014cb149102cf2c55f9.webp)
 
@@ -4375,27 +3872,21 @@ Safe Exit Assist is operated when the electronic child safety lock is activated 
 
 The electronic child safety lock is always on when the EV button is in the ON for approximately 3 minutes.
 
-### WARNING
-`kia_ev6_en_42972451` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> If children accidentally opens the rear door while the vehicle is in motion, they could fall out of the vehicle. Electronic child safety lock should always be used whenever children are in the vehicle.
 
-If children accidentally opens the rear door while the vehicle is in motion, they could fall out of the vehicle. Electronic child safety lock should always be used whenever children are in the vehicle.
-
-### CAUTION
-`kia_ev6_en_7f047a02` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-If the Electronic child safety lock is not operated when pushing the Electronic child safety lock switch, the message is displayed and the alarm will sound.
-
-![](images/35e75b363e629a322ddf4d015a8e233b83b343c8fd5f57ab1765934a4521ffec.webp)
+> ⚠️ **Внимание:** 
+> If the Electronic child safety lock is not operated when pushing the Electronic child safety lock switch, the message is displayed and the alarm will sound.
+>
+> ![](images/35e75b363e629a322ddf4d015a8e233b83b343c8fd5f57ab1765934a4521ffec.webp)
 
 ### \* NOTICE
-`kia_ev6_en_d4e3af1d` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/ca758e275e9377eab781dfd96205617c9d3df775fe0f13a46a64b55370e58e0c.webp)
 
 If your vehicle is equipped with the Electronic child safety lock, the Child-protector rear door locks, which are manually operated, are not provided.
 
 ### Rear Occupant Alert (ROA)
-`kia_ev6_en_42f543e2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear Occupant Alert (ROA) is provided to help prevent exiting the vehicle with a rear passenger left in the vehicle.
 
@@ -4404,7 +3895,6 @@ When you open the front door after opening and closing the rear door and turning
 ![](images/3d7cf9b1934befea5d4a06203613299a783833802f7c168ccfd51c89801fa37d.webp)
 
 ### A: Check rear seats
-`kia_ev6_en_c4321917` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You can activate or deactivate Rear Occupant Alert (ROA) from the infotainment system.
 
@@ -4412,23 +3902,18 @@ The option can be found under the following menu:
 
 1. Press Setup button from the infotainment system screen.
 
-### WARNING
-`kia_ev6_en_1a939484` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Rear Occupant Alert (ROA) does not actually detect objects or people in the rear seat. By using a rear door opened and closed history, the system informs the driver that there may be something in the rear seat.
+> ⚠️ **Внимание:** 
+> Rear Occupant Alert (ROA) does not actually detect objects or people in the rear seat. By using a rear door opened and closed history, the system informs the driver that there may be something in the rear seat.
 
 ### ！ CAUTION
-`kia_ev6_en_5a88b83c` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Rear Occupant Alert (ROA) uses a rear door opened and closed history. The history is reset after the driver turns the vehicle off normally, exits the vehicle and locks the door remotely. So even if a rear door does not reopen, Rear Occupant Alert (ROA) alert can occur. For example, after the Rear Occupant Alert (ROA) alert occurs, if the driver does not lock the door, and drives again, the alert can occur.
 
 ### ！ WARNING
-`kia_ev6_en_c502a504` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The door lock system may not work if the electrical system is compromised. Accordingly, please train children passengers regarding how to open the car door manually before an emergency situation arises. That way, they would be able to open the door manually in the event an emergency situation arises.
 
 ### Driver Position Memory System (if equipped)
-`kia_ev6_en_25cf3153` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Driver Position Memory System is provided to store and recall the following memory settings with a simple button operation.
 
@@ -4438,42 +3923,34 @@ Driver's seat position
 Outside rear view mirror position
 Instrument panel illumination intensity Head Up Display (HUD) display mode, position, AR matching adjustment (if equipped)
 
-### WARNING
-`kia_ev6_en_816e8969` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Never attempt to operate the driver position memory system while the vehicle is moving. This could result in loss of control, and an accident causing death, serious injury, or property damage.
+> ⚠️ **Внимание:** 
+> Never attempt to operate the driver position memory system while the vehicle is moving. This could result in loss of control, and an accident causing death, serious injury, or property damage.
 
 ### \* NOTICE
-`kia_ev6_en_b4830f47` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the battery is disconnected, the memory settings will be erased. If the Driver Position Memory System does not operate normally, have the system checked by an authorized Kia dealer.
 
 ### Storing memory positions
-`kia_ev6_en_ce98d41b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Shift to P (Park) while the EV button is in the ON position.
 2. Adjust the driver's seat position, outside rearview mirror position, and head-up display height to the desired position.
 3. Hold the button (1 or 2). The system will beep once and notify you ‘Driver 1 (or 2) settings saved' will appear on the infotainment screen.
 
 ### Recalling memory positions
-`kia_ev6_en_c6b6ae1e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Shift to P (Park) while the EV button is in the ON position. 2. Press the desired memory button (1 or 2). The system will beep once, and then the driver's seat position, outside rearview mirror position, and head-up display height will automatically adjust to the stored positions. 3. ‘Driver (or 2) settings applied' will appear on the infotainment screen.
 
 ### \* NOTICE
-`kia_ev6_en_5dd0c9a7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In order to adjust the memory button (2) while adjusting the memory button (1), press the memory button (1) to pause the adjustment of (1), then press memory button (2). If you adjust the seat, rearview mirror, head-up display while recalling the stored positions, the manually adjusted settings will be applied.
 
 ### Resetting integrated memory system
-`kia_ev6_en_1fac8db1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Stop the vehicle and open the driver's door with the EV button in the ON position and the vehicle shifted to P (Park).
 2. Adjust the driver's seat and seatback to the foremost position.
 3. Press the memory button (or 2) and push forward the driver's seat movement switch over 2 seconds simultaneously.
 
 ### While resetting integrated mem ory system
-`kia_ev6_en_8649c570` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Resetting starts with a notification sound.
 2. The driver's seat and seatback is adjusted to the rearward position with the notification sound.
@@ -4488,7 +3965,6 @@ The driving speed exceeds 2 mph (3 km/h).
 The driver's door is closed.
 
 ### \* NOTICE
-`kia_ev6_en_07244290` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 While integrated memory system is being reset, if the resetting and notification sound stops incompletely, restart the resetting procedure again. Make sure that there is no objects around the driver's seat in advance of
 
@@ -4496,7 +3972,6 @@ resetting the integrated memory system.
 After resetting the integrated memory system, the adjustment for the driver seat must be stored again to recall the memory position.
 
 ### Exiting the vehicle
-`kia_ev6_en_c7d5dc20` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The driver's seat will move as follows when the EV button is in the OFF position with the gear in P (Park) and the driver's door open.
 
@@ -4505,7 +3980,6 @@ Driver seat: Moves rearward depending on the distance selected from the Settings
 However, the driver's seat may not move rearward if there is not enough space between the driver's seat and the rear seats.
 
 ### Entering the vehicle
-`kia_ev6_en_90e57676` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The driver's seat will move as follows when the EV button is pressed to the ACC, ON or START position or while carrying the smart key, the driver's door is closed with the EV button in the OFF position.
 
@@ -4516,12 +3990,10 @@ You can set the Seat Easy Access function from the Settings menu in the infotain
 Driver seat Setup → Vehicle → Seat → Seat Easy Access → Driver Seat Easy Access → Normal/Extended/Off
 
 ### Opening the liftgate
-`kia_ev6_en_399d23df` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The liftgate is locked or unlocked when all doors are locked or unlocked with the key, smart key or central door lock/ unlock switch.
 
 ### Liftgate lift
-`kia_ev6_en_f503754a` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Make sure that you close the liftgate before driving your vehicle. Possible damage may occur to the liftgate gas lifters and attached hardware i the liftgate is not closed prior to driving.
 
@@ -4530,17 +4002,13 @@ Make sure that you close the liftgate before driving your vehicle. Possible dama
 Only the liftgate is unlocked if the liftgate unlock button on the smart key is pressed for approximately second. If unlocked, the liftgate can be opened by pressing the handle (1) and pulling it up. Once the liftgate is opened and then closed, the liftgate locks automatically. (All doors must be locked.)
 
 ### \* NOTICE
-`kia_ev6_en_c8a24e82` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 In cold and wet climates, door lock and door mechanisms may not work properly due to freezing conditions.
 
-### WARNING
-`kia_ev6_en_6e6ae34d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-The liftgate swings upward. Make sure no objects or people are near the rear of the vehicle when opening the liftgate.
+> ⚠️ **Внимание:** 
+> The liftgate swings upward. Make sure no objects or people are near the rear of the vehicle when opening the liftgate.
 
 ### Closing the liftgate
-`kia_ev6_en_74674311` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Lower and push down the liftgate firmly. Make sure that the liftgate is securely latched.
 
@@ -4549,12 +4017,10 @@ Lower and push down the liftgate firmly. Make sure that the liftgate is securely
 Make sure your hands, feet and other parts of your body are safely out of the way before closing the liftgate.
 
 ### Rear Cargo Area
-`kia_ev6_en_61a18206` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Occupants should never ride in the rear cargo area where no restraints are available. Occupants should always be properly restrained.
 
 ### Emergency liftgate safety release
-`kia_ev6_en_1f8050e9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Your vehicle is equipped with the emergency liftgate safety release lever located on the bottom of the liftgate. When someone is inadvertently locked in the luggage compartment.
 
@@ -4566,51 +4032,39 @@ The liftgate can be opened by doing as follows:
 2. Push the mechanical key to the right.
 3. Push up the liftgate.
 
-### WARNING
-`kia_ev6_en_533650d6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> No one should be allowed to occupy the cargo area of the vehicle at any time. The cargo area is a very dangerous location in the event of a crash. Use the release lever for emergencies only. Use with extreme caution, espe cially while the vehicle is in motion.
 
-No one should be allowed to occupy the cargo area of the vehicle at any time. The cargo area is a very dangerous location in the event of a crash. Use the release lever for emergencies only. Use with extreme caution, espe cially while the vehicle is in motion.
+> ⚠️ **Внимание:** 
+> Make sure there are no people or objects around the liftgate before opening or closing the liftgate. Wait until the liftgate is open fully and stopped before loading or unloading cargo from the vehicle.
 
-### WARNING
-`kia_ev6_en_dce9d91b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Make sure there are no people or objects around the liftgate before opening or closing the liftgate. Wait until the liftgate is open fully and stopped before loading or unloading cargo from the vehicle.
-
-### WARNING
-`kia_ev6_en_dfedff14` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Do not grasp the part supporting the liftgate (gas lifter), as this may cause seri ous injury.
-
-![](images/24467f4357533ae1c8440046e1a778ac9904467ec31e069d74f13bbf304534c5.webp)
+> ⚠️ **Внимание:** 
+> Do not grasp the part supporting the liftgate (gas lifter), as this may cause seri ous injury.
+>
+> ![](images/24467f4357533ae1c8440046e1a778ac9904467ec31e069d74f13bbf304534c5.webp)
 
 ### Before using the power liftgate
-`kia_ev6_en_81ef037e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The power liftgate operates when the gear is in P (Park) with the EV button in the ON position. However, the liftgate will operate regardless of the gear position when the vehicle is off.
 
 For safety, before attempting to open or close the liftgate, make sure the vehicle is in P (Park).
 
-### WARNING
-`kia_ev6_en_cc4dc2d7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Never leave children or animals unattended in your vehicle. Children or animals might operate the power liftgate that could result in injury to themselves or others, or damage the vehicle. Make sure that there are no people or objects in the path of the power liftgate (or smart liftgate) prior to use. Serious injury, damage to the vehicle or damage to surrounding objects may result if contact with the power liftgate (or smart liftgate) occurs.
-
-![](images/0502d5f2ed9202c4484e08a804b6c2d4ba2783546011506a101183b72fb14cc5.webp)
-
-A: 27 inches (70 cm) B: 27 inches (70 cm)
+> ⚠️ **Внимание:** 
+> Never leave children or animals unattended in your vehicle. Children or animals might operate the power liftgate that could result in injury to themselves or others, or damage the vehicle. Make sure that there are no people or objects in the path of the power liftgate (or smart liftgate) prior to use. Serious injury, damage to the vehicle or damage to surrounding objects may result if contact with the power liftgate (or smart liftgate) occurs.
+>
+> ![](images/0502d5f2ed9202c4484e08a804b6c2d4ba2783546011506a101183b72fb14cc5.webp)
+>
+> A: 27 inches (70 cm) B: 27 inches (70 cm)
 
 ### \* NOTICE
-`kia_ev6_en_52200d6d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not close or open the power liftgate manually. This may cause damage to the power liftgate. If it is necessary to close or open the power liftgate manually when the battery is discharged or disconnected, do not apply excessive force.
 
 ### Setting the power liftgate
-`kia_ev6_en_28283871` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The driver can select the power liftgate opening height or speed from the Settings menu in the infotainment system screen.
 
 ### To adjust the power liftgate opening height, select Setup → Vehicle Settings → Door → Power Liftgate
-`kia_ev6_en_3be04e39` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For detailed information, refer to the separately supplied infotainment system manual.
 
@@ -4622,7 +4076,6 @@ You can manually adjust the height of the power liftgate that you prefer regardl
 3. Close the liftgate after hearing the buzzer sound. 4. The liftgate will open to the manually adjusted height that was set.
 
 ### \* NOTICE
-`kia_ev6_en_d5fc2533` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the power liftgate opening height is set manually, and then User Height Setting is selected from the infotainment system, the power liftgate will automatically open to the height manually set by the driver.
 If the power liftgate opening height has not been manually set, the power liftgate will fully open when User
@@ -4630,7 +4083,6 @@ Height Setting from the infotainment system is selected.
 If one of the height (Full Open/Level 3/Level 2/Level 1) is selected from the settings menu in the infotainment system screen, and then User Height Setting is selected, the power liftgate open height will be set to the previously saved height.
 
 ### Power liftgate opening speed
-`kia_ev6_en_94624278` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/db12dd683bde4e112727f922137abb13c204ae4aa8a57836cfbfbad2a07b08ef.webp)
 
@@ -4639,7 +4091,6 @@ To adjust the power liftgate opening height, select Setup → Vehicle Settings �
 For detailed information, refer to the separately supplied infotainment system manual.
 
 ### Power liftgate open/close button - smart key (1)/inside the vehicle (2)
-`kia_ev6_en_ef2962f1` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 When the liftgate is closed, press and hold the power liftgate open/close button. The liftgate will open automatically and the warning chime will sound. Press the liftgate open/close button again to stop the operation. When the liftgate is opened, press and hold the power liftgate open/close button. The liftgate will close automatically and the warning chime will sound. Press the power liftgate open/ close button until the liftgate is closed completely. If the liftgate open/close button is not pressed while closing, power liftgate will stop operate and warning chime will sound for approximately 5 seconds.
 
@@ -4648,7 +4099,6 @@ Power liftgate open button out side the vehicle (3)
 When the smart key is detected, press the power liftgate open button. The liftgate will open and the warning chime will sound. If the doors are unlocked, the liftgate can be opened or closed without the smart key.
 
 ### \* NOTICE
-`kia_ev6_en_f5489116` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The power liftgate can be operated when the vehicle is not running. However, power liftgate operation consumes a large amount of eclectic
 power. To prevent the battery from being discharged, do not operate it excessively (for example, more than 5 times repeatedly).
@@ -4660,7 +4110,6 @@ operate improperly.
 In cold and wet climates, the power liftgate may not work properly due to freezing conditions.
 
 ### Automatic reverse
-`kia_ev6_en_efaec16c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c51b281e029f7aa1711f76b478b48eecf0a7b54ff50fc9ab2f1ed5496b528f7b.webp)
 
@@ -4673,26 +4122,22 @@ Caution should be taken to prevent any objects from obstructing the liftgate ope
 If the automatic reverse feature operates more than two times while attempting to open or close the liftgate, the power liftgate may stop at that position. If this occurs, carefully close the liftgate manually, and then try to operate the power liftgate automatically again.
 
 ### Non-operating conditions of the power liftgate
-`kia_ev6_en_6ca2d2f3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The power liftgate does not open when the vehicle is in motion. The chime will sound if you drive with the liftgate opened. Stop your vehicle immediately at a safe place and check 1 your liftgate is opened.
 
 Operating the power liftgate more than 5 times continuously could cause damage to the operating motor. If this occurs, the power liftgate system enters into thermal protection mode to prevent the motor from overheating. In thermal protection mode, the power liftgate will not operate. If any of the power liftgate buttons are pressed to try to open the liftgate, the chime will sound 3 times but the liftgate will remain closed. Allow the power liftgate system to cool for about minute before operating the system again.
 
 ### A WARNING
-`kia_ev6_en_16b8df3f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never intentionally place any object or part of your body in the path of the power liftgate to make sure the automatic reverse function operates.
 
 ### \* NOTICE
-`kia_ev6_en_54b112f6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/494444dfadbaceafc5d04d94234ac18de7d53c4436e2e797c2a63d613d55c9dd.webp)
 
 Do not put heavy objects on the power liftgate before you operate the power liftgate. Additional weight may damage the operation of the system.
 
 ### Resetting the power liftgate Emergency liftgate safety release
-`kia_ev6_en_4d7422d7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the battery has been discharged or disconnected, or if the power liftgate fuse has been replaced or removed, reset the power liftgate by performing the following procedure:
 
@@ -4703,14 +4148,12 @@ If the battery has been discharged or disconnected, or if the power liftgate fus
 5. The liftgate will open with a chime sound. If the power liftgate does not work properly after the above procedure, have the system inspected by an authorized Kia dealer.
 
 ### A WARNING
-`kia_ev6_en_81ddfabd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not hold on to or try to pull on the liftgate strut. Be aware that the deformation of the liftgate strut may cause vehicle damage and risk of injury.
 
 ![](images/cf6147197f3a6f3dcea13151793d8e663cb3b0a38890b75a1e4a3bd39bd0227c.webp)
 
 ### \* NOTICE
-`kia_ev6_en_1dfa84f5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the power liftgate is stopped before the liftgate is fully open, resetting will not proceed. Wait until the power liftgate is fully open.
 
@@ -4724,15 +4167,12 @@ To unlock and open the liftgate manually from inside the luggage compart ment, p
 2. Push the release lever to the right by a key.
 3. Push up the liftgate.
 
-### WARNING
-`kia_ev6_en_06328a8e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Be aware of the location of the emergency liftgate safety release lever in your vehicle and know how to open the liftgate using the safety release lever.
-No one, including animals, should be allowed to occupy the luggage compartment of the vehicle at any time. The luggage compartment is a very dangerous location in the event of an accident.
-Use the release lever for emergencies only. Use extreme caution, especially while the vehicle is in motion.
+> ⚠️ **Внимание:** 
+> Be aware of the location of the emergency liftgate safety release lever in your vehicle and know how to open the liftgate using the safety release lever.
+> No one, including animals, should be allowed to occupy the luggage compartment of the vehicle at any time. The luggage compartment is a very dangerous location in the event of an accident.
+> Use the release lever for emergencies only. Use extreme caution, especially while the vehicle is in motion.
 
 ### Smart Liftgate with Auto Open (if equipped)
-`kia_ev6_en_d1d39250` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 On a vehicle equipped with a smart key, the liftgate can be opened using the Smart Liftgate with Auto Open system.
 
@@ -4744,48 +4184,40 @@ After 15 seconds when all doors are closed and locked
 The smart key is positioned within the detecting area for more than 3 seconds.
 
 ### \* NOTICE
-`kia_ev6_en_28119b7f` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The Smart Liftgate with Auto Open does not operate when:
 
 The smart key is detected within 15 seconds after the doors are closed and locked, and is continuously detected. The smart key is detected within 15 seconds after the doors are closed and locked, and 60 inches (1.5 m) from the front door handles. (for vehicles equipped with Welcome Light) A door is not locked or closed. The smart key is in the vehicle.
 
 ### 1. Setting
-`kia_ev6_en_e6fed577` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To activate the Smart Liftgate with Auto Open, go to Setup → Vehicle → Door → Smart Liftgate with Auto Open on the infotainment system.
 
 ### 2. Detect and Alert
-`kia_ev6_en_bd8702fd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 H
 
 If you are positioned in the detecting area (20\~40 inches [50\~100 cm] behind the vehicle) carrying a smart key, the hazard warning lights will blink and chime will sound to alert you the smart key has been detected and the liftgate will open.
 
 ### \* NOTICE
-`kia_ev6_en_34250c83` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not approach the detecting area if you do not want the liftgate to open. If you have unintentionally entered the detecting area and the hazard warning lights and chime starts to operate, leave the detecting area with the smart key. The liftgate will stay closed.
 
 ### 3. Automatic Opening
-`kia_ev6_en_f8e10183` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/39fa68c359441855eb55c08cf72dd936b542cf6510e81acceef02f3690fa9bbb.webp)
 
 After the hazard warning lights blink and the chime sounds 6 times, the smart liftgate will open.
 
 ### ！ WARNING
-`kia_ev6_en_fb2f3bc4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure you close the liftgate before driving your vehicle. Make sure there are no people or objects around the liftgate before opening or closing the liftgate. Make sure objects in the cargo area do not come out when opening the liftgate on a slope. It may cause seri ous injury. Make sure to deactivate the Smart Liftgate with Auto Open when washing your vehicle. Otherwise, the liftgate may open inadvertently. The key should be kept out of reach of children. Children may inadvertently open the Smart Liftgate with Auto Open while playing around the rear area of the vehicle.
 
 ### Liftgate Lift
-`kia_ev6_en_d588487c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make certain that you close the liftgate before driving your vehicle. Possible damage may occur to the liftgate gas lifters and attached hardware if the liftgate is not closed prior to driving.
 
 ### Deactivating smart liftgate
-`kia_ev6_en_6cd8cd42` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/e57dbeba15dbd4cf46e77ae45690dc6bdb7c191e75068c8b3c571184348aefc4.webp)
 
@@ -4800,7 +4232,6 @@ If you press any button of the smart key during the Detect and Alert stage, the 
 Make sure to be aware of how to deactivate the Smart Liftgate with Auto Open function for emergency situations.
 
 ### \* NOTICE
-`kia_ev6_en_6c212629` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 If you press the door unlock button (2), the Smart Liftgate with Auto Open function will be deactivated temporarily. But, if you do not open any door for 30 seconds, the Smart Liftgate with Auto Open function will be activated again.
 If you press the liftgate unlock/open button (3) for more than second, the liftgate opens.
@@ -4808,14 +4239,12 @@ If you press the door lock button (1) or liftgate unlock/open button (3) when th
 Smart Liftgate with Auto Open function by pressing the smart key button and opened a door, the Smart Liftgate with Auto Open function can be activated again by closing and locking all doors.
 
 ### Detecting area
-`kia_ev6_en_85cf89d5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0b1f6e6d9a5287f298a1db1eb35536112cd4836ae5140d880aefffd63cb7e75c.webp)
 
 The Smart Liftgate with Auto Open operates with a welcome alert if the smart key is detected within 20\~40 inches (50\~100 cm) from the liftgate. The alert stops at once if the smart key is positioned outside the detecting area during the Detect and Alert stage.
 
 ### \* NOTICE
-`kia_ev6_en_2ce3db37` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Smart Liftgate with Auto Open
 function may not work if any of the
@@ -4827,7 +4256,6 @@ The detecting range may decrease or
 increase when: One side of the tire is raised to replace a tire or to inspect the vehicle. The vehicle is slantingly parked on a slope or unpaved road, etc.
 
 ### Windows
-`kia_ev6_en_f4754b2b` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The doors of this vehicle are equipped with power windows that can be operated by a switch.
 
@@ -4840,7 +4268,6 @@ The doors of this vehicle are equipped with power windows that can be operated b
 5 Power window lock switch
 
 ### \* NOTICE
-`kia_ev6_en_34a76860` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 In cold and wet climates, power windows may not work properly due to freezing conditions.
 
@@ -4853,21 +4280,18 @@ The driver's door has a master power window switch that controls all the windows
 If the window cannot be closed because it is blocked by objects, remove the objects and close the window.
 
 ### \* NOTICE
-`kia_ev6_en_990f115d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 While driving with the rear windows down or with the sunroof (if equipped) in an open (or partially open position), your vehicle may demonstrate a wind buffeting or pulsation noise. This noise is a normal occurrence and can be reduced or eliminated by taking the following actions. If the noise occurs with one or both of the rear windows down, partially lower both front windows approximately 1 inch (2.5 cm). If you experience noise with the sunroof open, slightly reduce the size of the sunroof opening.
 
 Do not install any accessories in the vehicle that extend into the open window area. Such objects will impact the proper functioning of the automatic reversal "jam protection" feature.
 
 ### Type A
-`kia_ev6_en_5279aede` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To open or close a window, press down or pull up the front portion of the corresponding switch to the first detent position (1).
 
 ![](images/587741e243b9e7a396be1092132b5eac772fb735f9b13ce0b4b360cd6920afe0.webp)
 
 ### Type B - Auto up/down window (if equipped)
-`kia_ev6_en_d0dd5b28` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/054e073b83c0e1a9f9453842006397f88f886a1734201d7e30db9fdbc4e295c9.webp)
 
@@ -4878,7 +4302,6 @@ If the power window does not operate normally, the automatic power window system
 1. Turn the EV button to the ON position. 2. Close the window and continue pulling up the power window switch for at least second after the window is completely closed.
 
 ### Automatic reversal (For Type B)
-`kia_ev6_en_e2cf15fd` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 If the upward movement of the window is blocked by an object or part of the body, the window will detect the resistance and will stop upward movement. The window will then lower approximately 11.8 inches (30 cm) to allow the object to be cleared.
 
@@ -4889,27 +4312,21 @@ If the window detects the resistance while the power window switch is pulled up 
 If the power window switch is pulled up continuously again within 5 seconds after the window is lowered by the automatic window reversal feature, the automatic window reversal will not operate.
 
 ### \* NOTICE
-`kia_ev6_en_fc43b2ae` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The automatic reversal feature for the window is only active when the "auto up" feature is used by fully pulling up the switch. The automatic reverse feature will not operate if the window is raised using the halfway position on the power window switch.
 
 ### A WARNING
-`kia_ev6_en_5306a204` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Always check for obstructions before raising any window to avoid injuries or vehicle damage. If an object less than 0.16 of an inch (4 mm) in diameter is caught between the window glass and the upper window channel, the automatic reverse window may not detect the resistance and will not stop and reverse direction.
 
 ### A WARNING
-`kia_ev6_en_f3cc769f` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The automatic reverse feature doesn't activate while resetting power window system. Make sure body parts or other objects are safely out of the way before closing the windows to avoid injuries.
 
-### WARNING
-`kia_ev6_en_6f879af0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Do not install any accessories in the vehicle that extend into the open window area. Such objects could prevent the automatic reverse feature from functioning.
+> ⚠️ **Внимание:** 
+> Do not install any accessories in the vehicle that extend into the open window area. Such objects could prevent the automatic reverse feature from functioning.
 
 ### Power window lock button
-`kia_ev6_en_617db65a` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The driver can disable the power window switches on the rear passengers' doors by pressing the power window lock button to the lock position (pressed).
 
@@ -4922,19 +4339,16 @@ The front passenger's control can operate the front passenger's power window.
 The rear passengers' control cannot operate the rear passengers' power window.
 
 ### Opening/Closing Window
-`kia_ev6_en_d5ff1c98` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 To prevent possible damage to the power window system, do not open or close two windows or more at the same time. This will also ensure the longevity of the fuse.
 
 Always double check to make sure all arms, hands, head and other obstructions are safely out of the way before closing a window. If the window cannot be closed because it is blocked by objects, remove the objects and close the window.
 
 ### Power Windows
-`kia_ev6_en_5bca2a59` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Do not allow children to play with the power windows. Keep the power window lock button (on the driver's door) in the LOCK (pressed) position. Do not extend a face or arms outside the window opening while the vehicle is in motion. Doing so could result in significant bodily injury.
 
 ### Remote window opening (if equipped)
-`kia_ev6_en_fcd6a4c6` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/01e6bf6931aa005cf9f07a745212649397bab3ae0550e935f6a1e23987d9de60.webp)
 
@@ -4942,35 +4356,28 @@ You can still control the windows move ment with the vehicle turned off.
 
 Press the door unlock button (1) for more than 3 seconds. The window moves down after the doors are unlocked, as long as you press the door unlock button (1). The window move ment stops, when you release the door unlock button (1).
 
-### WARNING
-`kia_ev6_en_556c4bc5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> If you keep the windows open after operating the Remote window opening function, it is likely to cause a
+> theft.
+> Using the function while raining may cause malfunction due to the inflow of water.
 
-If you keep the windows open after operating the Remote window opening function, it is likely to cause a
-theft.
-Using the function while raining may cause malfunction due to the inflow of water.
-
-### CAUTION
-`kia_ev6_en_0b70dc4f` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
-
-The remote window opening function may abruptly stop, when you move away from your vehicle during operation. Stay in close proximity from your vehicle, while monitoring the window movement.
-One of the windows may stop operating, when the window is interrupted by certain force. However, the other windows will keep operating. Thus, you should make sure that all windows are opened.
-Be careful when using the remote window opening function, as the
-doors will be unlocked.
+> ⚠️ **Внимание:** 
+> The remote window opening function may abruptly stop, when you move away from your vehicle during operation. Stay in close proximity from your vehicle, while monitoring the window movement.
+> One of the windows may stop operating, when the window is interrupted by certain force. However, the other windows will keep operating. Thus, you should make sure that all windows are opened.
+> Be careful when using the remote window opening function, as the
+> doors will be unlocked.
 
 ### \* NOTICE
-`kia_ev6_en_80006f52` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remote window opening requires the automatic power window up/down function equipped for front seats.
 
 ### Opening the hood
-`kia_ev6_en_12293672` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Pull the release lever to unlatch the hood. The hood should pop open slightly.
 
 ![](images/bb9a077747d14ff55d1acb35a8a76ac17e2d30cab7135d4fb735783291281923.webp)
 
 ### A WARNING
-`kia_ev6_en_3ba74edc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Open the hood after turning off the EV button on a flat surface, turn the shifter dial to the P (Park) position and set the parking brake.
 
@@ -4979,7 +4386,6 @@ Open the hood after turning off the EV button on a flat surface, turn the shifte
 ![](images/8d38b8d8adfd93d155556e2ac3fdacb05a13bb9e92d76bfe5ab5c1b89eea4f2f.webp)
 
 ### Closing the hood
-`kia_ev6_en_66ddbbb7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/4550defcaa4514e1cd8d5357a1ba2b1533a2f7bf5ec8081b1985f987a3ed8fff.webp)
 
@@ -4990,22 +4396,18 @@ All filler caps in the motor compart ment must be correctly installed. Gloves, r
 2. Lower the hood halfway and push down to securely lock in place. Then double check to be sure the hood is secure. If the hood can be lifted with a slight force, open the hood again and close it more firmly.
 
 ### Hood Obstruction
-`kia_ev6_en_bf2e1b96` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before closing the hood, ensure that all obstructions are removed from the hood opening. Closing the hood with an obstruction present in the hood opening may result in severe personal injury or property damage.
 
 ### Fire Risk
-`kia_ev6_en_952de80b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not leave gloves, rags or any other combustible material in the motor compartment. Doing so may cause a heatinduced fire.
 
 ### Unsecured Hood
-`kia_ev6_en_fc63360c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Always double check to be sure that the hood is firmly latched before driving away. If it is not latched, the hood could fly open while the vehicle is being driven, causing a total loss of visibility, which might result in an accident.
 
 ### Hood open warning
-`kia_ev6_en_5d7994f9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A warning message will appear on the LCD display when hood is open.
 
@@ -5014,14 +4416,12 @@ A warning message will appear on the LCD display when hood is open.
 The warning chime will operate when the vehicle is being driven above 2 mph (3 km/h) with the hood open.
 
 ### Front trunk Opening the front trunk
-`kia_ev6_en_9364150e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0a913ffa04dc4a703e6b3d07389efd381c6cc211824d781abf1b8f7072d2f972.webp)
 
 1 Front trunk lever Open the hood. Lift up the front trunk cover while depressing the front trunk lever (1).
 
 ### A WARNING
-`kia_ev6_en_32b4492c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 NEVER make an attempt to get inside the front trunk. It will cause a fatal injury.
 Before closing the hood, ensure all obstructions are removed from
@@ -5032,7 +4432,6 @@ movements.
 Never store cigarette lighters, propane cylinders, or other flammable/ explosive materials in the vehicle. These items may catch fire and/or explode if the vehicle is exposed to hot temperatures for extended periods.
 
 ### ！ CAUTION
-`kia_ev6_en_d64d7c24` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not exceed the luggage volume capacity of the front trunk. The overweighted front trunk can be severely damaged.
 Do not store the fragile objects in the front trunk.
@@ -5045,24 +4444,19 @@ trunk may be deformed or damaged and the front trunk cover may be
 opened during driving due to poor closing, resulting in damage.
 
 ### \* NOTICE
-`kia_ev6_en_9ace544d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To avoid possible theft, do not leave valuables in the storage compartments. Do not put objects that exceeds available front trunk weight to the front trunk, or it may cause damage to the motor room compartment.
 
 ### Charging door Opening and closing the charging door
-`kia_ev6_en_a071fd41` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/201a15f3d216f5990d6d280675f56df52e846d12804e2051ab8f4b4ed0547fe2.webp)
 
 Push the charging door open/close button on the lower crashpad. Push the charging door close button located inner part of the charging door.
 
-### CAUTION
-`kia_ev6_en_e0f23e77` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
-
-Do not leave the vehicle with the charging door open. An open charging door may indicate that the vehicle door has been unlocked and may be subject to vehicle theft.
+> ⚠️ **Внимание:** 
+> Do not leave the vehicle with the charging door open. An open charging door may indicate that the vehicle door has been unlocked and may be subject to vehicle theft.
 
 ### NOTICE
-`kia_ev6_en_84c694a7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The charging door opens to the right. Check the surrounding while the
 charging door is open or close. Be
@@ -5072,7 +4466,6 @@ door.
 Do not hold the hinge to prevent damaging the charging door and causing other accidents.
 
 ### \* NOTICE
-`kia_ev6_en_0310d75d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The charging door automatically closes when:
 
@@ -5086,7 +4479,6 @@ Z
 僅 Make sure that the charging door is closed before driving the vehicle. If the charging door is opened, mechanical parts of the charging door can be damaged. After closed the charging door, be sure to check the warning light is off. After charging the vehicle, close the charging inlet by the charging inlet cover properly. If the charging inlet cover is closed improperly, the charging inlet and the charging door can be damaged. Do not pry on the charging door while the charging door is opening. The charging door may stop moving. Also, the electrical mechanism of the charging door and its related parts can be severely damaged. While washing the vehicle, do not spray a high pressure water to the charging door directly. The high pressure can damage the charging door.
 
 ### Wide sunroof (if equipped)
-`kia_ev6_en_dcb07d5e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If your vehicle is equipped with a sun roof, you can slide or tilt your sunroof with the sunroof switch located on the overhead console.
 
@@ -5097,12 +4489,10 @@ The sunroof can only be operated when the EV button is in the ON or START positi
 The sunroof can be operated for approximately 3 minutes after the EV button is in the ACC or OFF position. However, if the front door is open, the sunroof cannot be operated even within the 3 minutes period.
 
 ### ！ WARNING
-`kia_ev6_en_e554fa37` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never adjust the sunroof or sunshade while driving. This could result in loss of control and an accident that may cause injury, or property damage. Do not leave the vehicle running and the key in your vehicle with unsuper vised children. Unattended children could operate the sunroof, which could result in serious injury. Do not sit on the top of the vehicle. It may cause injury or vehicle damage.
 
 ### Power sunshade
-`kia_ev6_en_58e2b5a3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e9de11ac0ec29a181411d6e60296156babc07429e6c1f2fec9edacc457944196.webp)
 
@@ -5113,13 +4503,11 @@ Push the sunroof switch rearward to the first detent position, the power sunshad
 To stop the power sunshade at any point, push the sunroof switch in any direction.
 
 ### \* NOTICE
-`kia_ev6_en_74cef254` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not pull or push the power sunshade by hand as such action may damage the power sunshade or cause it to malfunction.
 Wrinkles formed on the power sunshade are normal due to material characteristic.
 
 ### Tilt open/close
-`kia_ev6_en_c4255e3e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7941bbf96ebef1b232ecab56de0fc3a0c940c3017f57c3bc79a617ae93ee8a69.webp)
 
@@ -5129,7 +4517,6 @@ Push the sunroof switch upward or forward when the sunroof glass is tilt opened,
 To stop the sunroof movement at any point, push the sunroof switch in any direction.
 
 ### Slide open/close
-`kia_ev6_en_56b4a180` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7628cef2d6307ca50f2950a0745502f422410ae8a47a95cb83d855c3aaf1d4a4.webp)
 
@@ -5139,19 +4526,16 @@ Push the sunroof switch forward to the first detent position, the sunroof glass 
 To stop the sunroof movement at any point, push the sunroof switch in any direction.
 
 ### Automatic reversal
-`kia_ev6_en_47e2ac22` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f22300b09134e60954e3937f801a61da18cb493b32d5d41a7f32cacdcf52c372.webp)
 
 If the power sunshade or sunroof glass senses any obstacle while it is closing automatically, it will reverse direction then stop at a certain position. The auto reverse function may not work if an object thin or soft is caught between the sliding power sunshade or sunroof glass and sunroof sash.
 
 ### ！ WARNING
-`kia_ev6_en_7c372f68` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure heads, hands, arms or any other body parts or objects are out of the way before operating the sunroof. Body parts or objects may get caught causing injuries or vehicle damage. Never deliberately use your body parts to test the automatic reversal function. The power sunshade or sun roof glass may reverse direction, but there is a risk of injury.
 
 ### \* NOTICE
-`kia_ev6_en_02c2efdd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not continue to push the sunroof switch after the sunroof is fully
 opened, closed, or tilted. Damage to the sunroof motor could occur.
@@ -5167,12 +4551,10 @@ Do not extend any luggage outside the sunroof while driving. Vehicle
 damage may occur if the vehicle suddenly stops.
 
 ### ！ WARNING
-`kia_ev6_en_7a3a9274` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not extend your head, arms, body parts or objects outside the sunroof while driving. Injuries may occur if the vehicle suddenly stops.
 
 ### Resetting the sunroof
-`kia_ev6_en_8faa733b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/781e7fea3e4ec53940cf26e64c3bb46576c802c345e5a12a4556464a244556b0.webp)
 
@@ -5187,31 +4569,25 @@ When the 12-volt battery is either disconnected or discharged When the sunroof f
 5. Once again push and hold the sunroof switch forward until the power sunshade and sunroof glass slide open and close. Do not release the switch until the operation is com pleted. If you release the switch during operation, start the procedure again from step 2.
 
 ### \* NOTICE
-`kia_ev6_en_e5c938f1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the sunroof does not reset when the vehicle battery is disconnected or discharged, or the sunroof fuse is blown, the sunroof may not operate normally.
 
 ### Sunroof open warning
-`kia_ev6_en_7d75dde2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/6b646fffcf3c1b4e002928838de1ca55954b2a206dc6ce4e7cf0b31f05ea1dee.webp)
 
 If the driver turns off the vehicle when the sunroof is not fully closed, the warn ing chime will sound for several seconds and the sunroof open warning will appear on the cluster LCD display. Close the sunroof securely when leaving your vehicle.
 
-### CAUTION
-`kia_ev6_en_359b91e0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Make sure the sunroof is closed fully when leaving your vehicle. If the sunroof is left open, rain or snow may wet the interior of the vehicle. Also, leaving the sunroof open when the vehicle is unattended may invite theft.
+> ⚠️ **Внимание:** 
+> Make sure the sunroof is closed fully when leaving your vehicle. If the sunroof is left open, rain or snow may wet the interior of the vehicle. Also, leaving the sunroof open when the vehicle is unattended may invite theft.
 
 ### Electric Power Steering (EPS)
-`kia_ev6_en_b0d198d1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Power steering uses an electric motor to assist you in steering the vehicle. If the vehicle is off or if the power steering system becomes inoperative, the vehicle may still be steered, but it will require increased steering effort. Electric Power Steering is controlled by the power steering control unit which senses the steering wheel torque and vehicle speed to command the motor. The steering effort becomes heavier as the vehicle's speed increases and becomes lighter as the vehicle's speed decreases for better control of the steering wheel.
 
 Should you notice any change in the effort required to steer during normal vehicle operation, have the power steer ing checked by an authorized Kia dealer.
 
 ### NOTICE
-`kia_ev6_en_f710b314` | ev6 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 The following symptoms may occur during normal vehicle operation:
 
@@ -5236,7 +4612,6 @@ When the vehicle is stationary, and the steering wheel is turned all the way to 
 As time passes, the steering wheel will return to its normal condition.
 
 ### Tilt and telescopic steering wheel
-`kia_ev6_en_cf559516` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A tilt and telescopic steering wheel allows you to adjust the steering wheel before you drive.
 
@@ -5245,25 +4620,21 @@ You can also raise it to give your legs more room when you exit and enter the ve
 The steering wheel should be positioned so that it is comfortable for you to drive, while permitting you to see the instrument panel warning lights and gauges.
 
 ### Steering Wheel Adjustment
-`kia_ev6_en_c7bdd242` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never adjust the angle and height of the steering wheel while driving. You may lose steering control.
 
 ### Adjusting steering wheel angle and height
-`kia_ev6_en_b22fa436` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2d5b8fb82eb61e93c85780918cec3d08f2d33571bf0e001cea78c1e4f8ed4495.webp)
 
 1. To change the steering wheel angle, pull down the lock release lever (1). 2. Adjust the steering wheel to the desired angle (2) and height (3). 3. Pull up the lock-release lever (4) to lock the steering wheel in place. 4. Be sure to adjust the steering wheel to the desired position before driving.
 
 ### \* NOTICE
-`kia_ev6_en_76d56667` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 After adjustment, sometimes the lockrelease lever may not lock the steering wheel.
 It is not a malfunction. This occurs when two gears engage. In this case, adjust the steering wheel again and then lock the steering wheel.
 
 ### Heated steering wheel (if equipped)
-`kia_ev6_en_ca07e4ab` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 With the EV button in the ON position, pressing the heated steering wheel button warms the steering wheel. The indicator on the button will illuminate.
 
@@ -5271,25 +4642,19 @@ With the EV button in the ON position, pressing the heated steering wheel button
 
 To turn the heated steering wheel off, press the button once again. The indicator on the button will turn off.
 
-### WARNING
-`kia_ev6_en_efcc3947` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> If the steering wheel becomes too warm, turn the system off. The heated steering wheel may cause burns even at low temperatures, especially if used for long periods of time.
 
-If the steering wheel becomes too warm, turn the system off. The heated steering wheel may cause burns even at low temperatures, especially if used for long periods of time.
-
-### CAUTION
-`kia_ev6_en_673b5aab` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Do not install any type of grip cover for the steering wheel, it may impair the function of the heated steering wheel system.
-
-When cleaning the heated steering wheel, do not use an organic solvent, such as paint thinner, benzene, alcohol and gasoline. Doing so may damage the surface of the steering wheel. If the surface of the steering wheel is damaged by a sharp object, damage to the heated steering wheel components could occur.
+> ⚠️ **Внимание:** 
+> Do not install any type of grip cover for the steering wheel, it may impair the function of the heated steering wheel system.
+>
+> When cleaning the heated steering wheel, do not use an organic solvent, such as paint thinner, benzene, alcohol and gasoline. Doing so may damage the surface of the steering wheel. If the surface of the steering wheel is damaged by a sharp object, damage to the heated steering wheel components could occur.
 
 ### \* NOTICE
-`kia_ev6_en_9130cfdb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The heated steering wheel will turn off automatically approximately 30 minutes after the heated steering wheel is turned on.
 
 ### Horn
-`kia_ev6_en_e56246f1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To sound the horn, press the area indicated by the horn symbol on your steer ing wheel (see illustration).
 
@@ -5298,39 +4663,32 @@ To sound the horn, press the area indicated by the horn symbol on your steer ing
 The horn will operate only when this area is pressed. Check the horn regularly to be sure it operates properly.
 
 ### \* NOTICE
-`kia_ev6_en_fa902c7b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To sound the horn, press the area indicated by the horn symbol on your steering wheel (see illustration). The horn will operate only when this area is pressed.
 
 ### Mirrors
-`kia_ev6_en_b393af0e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This vehicle is equipped with rearview mirrors inside and outside to provide views of objects behind the vehicle.
 
 ### Inside rear view mirror
-`kia_ev6_en_1f294779` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Adjust the rear view mirror so that the center view through the rear window is seen. Make this adjustment before you start driving.
 
 Do not place objects in the rear seat or cargo area which would interfere with your vision out the rear window.
 
 ### Mirror Adjustment
-`kia_ev6_en_647f8b63` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not adjust the rear view mirror while the vehicle is moving. This could result in loss of control.
 
 ### Cleaning Mirror
-`kia_ev6_en_ced47e06` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When cleaning the mirror, use a paper towel or similar material dampened with glass cleaner. Do not spray glass cleaner directly on the mirror. It may cause the liquid cleaner to enter the mirror housing.
 
 ### \* NOTICE
-`kia_ev6_en_d7b2ff64` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not modify the inside mirror in any manner, including installing a wide mirror. Doing so could result in injury during an accident or deployment of the air bag.
 
 ### Day/night rear view mirror (if equipped)
-`kia_ev6_en_b96bdae9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/89449698c970f24a31dd2a330b56e1b5da1ebd2cd374045284432e71e75af842.webp)
 
@@ -5342,7 +4700,6 @@ Pull the day/night lever toward you (2) to reduce the glare from the headlamps o
 Remember that you lose some rear view clarity in the night position.
 
 ### Electric Chromic Mirror (ECM) (if equipped)
-`kia_ev6_en_9faf57ec` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 The electric rear view mirror automatically controls the glare from the headlamps of the vehicles behind you in nighttime or low light driving conditions.
 
@@ -5351,7 +4708,6 @@ The electric rear view mirror automatically controls the glare from the headlamp
 The sensor mounted in the mirror senses the light level around the vehicle, and automatically controls the headlamp glare from the vehicles behind you. When the vehicle is running, the glare is automatically controlled by the sensor mounted in the rear view mirror.
 
 ### Electric Chromic mirror (ECM) with HomeLink씾 system (if equipped)
-`kia_ev6_en_7f8793a9` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/f40e8275d876dd7045302685699fb9b2564d6eff628b6b8d7099063551daf0b4.webp)
 
@@ -5366,7 +4722,6 @@ The sensor mounted in the mirror senses the light level around the vehicle, and 
 During nighttime driving, this feature will automatically detect and reduce rear view mirror glare. The HomeLink씾 Universal Transceiver allows you to activate your garage door(s), electric gate, home lighting, etc.
 
 ### Automatic-Dimming Night Vision Safety™ (NVS씾) Mirror
-`kia_ev6_en_d90c786e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The NVS씾 Mirror automatically reduces glare by monitoring light levels in the front and the rear of the vehicle. Any objects that obstructs the light sensor will degrade the automatic dimming control feature.
 
@@ -5377,24 +4732,19 @@ Your mirror will automatically dim upon detecting glare from the vehicles travel
 The mirror defaults to the ON position each time the vehicle is started.
 
 ### Integrated HomeLink씾 Wireless Control System
-`kia_ev6_en_0b126007` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The HomeLink씾 Wireless Control System provides a convenient way to replace up to three handheld radio-frequency (RF) transmitters used to activate compatible devices such as gate operators, garage door openers, entry door locks, security systems, and home lighting.
 
 ### \* NOTICE
-`kia_ev6_en_d19157d8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Considering the Home Security when the vehicle is parked outside the garage, the HomeLink will ONLY work when the ignition switch is in ACC position or ON position.
 
-### CAUTION
-`kia_ev6_en_732dbf2e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Before programming HomeLink to a garage door opener or gate operator, make sure that people and objects are out of the way of the device to prevent potential harm or damage. When programming a garage door opener, it is advised to park outside of the garage. Do not use HomeLink with any garage door opener that lacks safety stop and reverse features as required by U.S. federal safety standards (this includes any garage door opener model manufactured before April 1, 1982). A garage door that cannot detect an object signaling the door to stop and reverse does not meet current U.S. federal safety standards. For more information, contact HomeLink at www.homelink.com, or call HomeLink customer support at 1- 800-355-3515.
-
-It is also recommended that a new battery be replaced in the hand-held trans mitter of the device being trained to HomeLink for quicker training and accu rate transmission of the radio frequency.
+> ⚠️ **Внимание:** 
+> Before programming HomeLink to a garage door opener or gate operator, make sure that people and objects are out of the way of the device to prevent potential harm or damage. When programming a garage door opener, it is advised to park outside of the garage. Do not use HomeLink with any garage door opener that lacks safety stop and reverse features as required by U.S. federal safety standards (this includes any garage door opener model manufactured before April 1, 1982). A garage door that cannot detect an object signaling the door to stop and reverse does not meet current U.S. federal safety standards. For more information, contact HomeLink at www.homelink.com, or call HomeLink customer support at 1- 800-355-3515.
+>
+> It is also recommended that a new battery be replaced in the hand-held trans mitter of the device being trained to HomeLink for quicker training and accu rate transmission of the radio frequency.
 
 ### 1. Programming HomeLink씾
-`kia_ev6_en_d44fc384` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The following steps show how to program HomeLink. If you have any ques tions or are having difficulty programming your HomeLink buttons, refer to the HomeLink website or call the HomeLink customer support toll-free number. Do this, before going back to the dealer who sold you the car.
 
@@ -5406,7 +4756,6 @@ Or, call HomeLink customer support at 1-800-355-3515
 (Please have the vehicle make/model AND the opener device make/model readily available.)
 
 ### 1) Programming Preparation
-`kia_ev6_en_c1c9e3bd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. When programming a garage door opener, it is advised to park the vehicle outside of the garage. 2. It is recommended that a new battery be placed in the hand-held transmitter of the device being programmed
 
@@ -5415,7 +4764,6 @@ to HomeLink for quicker training and accurate transmission of the radiofrequency
 ![](images/a716023d847611bd9d3e15dd2cd1e3156bae77a32e0ded4419788f0582dcfb62.webp)
 
 ### 2) Programming a New HomeLink씾 Button
-`kia_ev6_en_a043ad46` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Press and release the HomeLink button (1), (2) or (3), you would like to program. The HomeLink indicator light (7) will flash orange slowly (if not, perform the steps of "Erasing HomeLink Buttons" section, and start over).
 
@@ -5446,7 +4794,6 @@ A ladder and/or second person may simplify the following steps.
 8. Return to the vehicle and firmly press, hold for two seconds and release, the HomeLink button up to three times in a row slowly. Do not press the HomeLink button rapidly. As soon as you see the garage door start to move, stop pressing any buttons until a few seconds after the garage door has come to a complete stop, regardless of position. At this point programming is complete and your device should operate when the HomeLink button is pressed and released.
 
 ### 3) Two-Way Communication Programming (For select garage door openers)
-`kia_ev6_en_a1e294e8` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 If your garage door opener has the 'myQ' logo on its side, your opener has Two-Way Communication capability. HomeLink has the capability to establish Two-Way Communication with your garage door opener. HomeLink can receive and display "closing" or "opening" status messages from compatible garage door openers. At any time, HomeLink can also recall and display the last recorded status communicated by the garage door opener to indicate your garage door being "closed" or "opened".
 
@@ -5465,12 +4812,10 @@ To check if your garage door opener is compatible with this feature, refer to ww
 5. Return to the vehicle and firmly press and release the programmed HomeLink button to activate your garage door. The Two-Way Communication indicators (4), (6) flash in orange when the door is moving. Do not make any additional button presses until AFTER the garage door has come to a complete stop. 6. Your Two-Way Communication programming is now complete.
 
 ### \* NOTICE
-`kia_ev6_en_013f1d26` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If your garage door opener has TwoWay Communication functionality, it is possible for HomeLink to stop functioning the garage door shortly after initial programming, if the Two-Way Communication Programming wasn't properly completed. This usually happens after the first 10 times a programmed HomeLink button is pressed. If you experience this, completing the "Programming a New HomeLink Button" and "Two-Way Communication Programming" will restore door operation.
 
 ### 4) Canadian Programming
-`kia_ev6_en_eff179b8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Canadian radio-frequency laws require transmitter remote signals to "time-out" (or quit) after a couple seconds of transmission, which may not be long enough for HomeLink to pick up the signal during programming.
 
@@ -5481,21 +4826,18 @@ While the HomeLink indicator light (7) is flashing orange, press and release ("c
 2. Operating HomeLink씾
 
 ### 1) Operating HomeLink씾
-`kia_ev6_en_03791335` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Press and release the desired programmed HomeLink button (1, 2 or 3).
 
 ![](images/b3bea964172329aaf0db1a07ffa5015a1c770ad7fc29395ad9438f52cd5572fb.webp)
 
 ### \* NOTICE
-`kia_ev6_en_e8f007fc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The HomeLink indicator (7) should light green, solid or flashing, and your programmed device should operate.
 
 If your device does not operate, the HomeLink programming was not suc cessful, and you'll need to reprogram the button.
 
 ### 2) Two-Way Communication Display Behavior
-`kia_ev6_en_5f282b05` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 1. Press and release one of the programmed HomeLink buttons (1, 2 or 3)
 
@@ -5517,7 +4859,6 @@ If the indicator (4) or (6) does not turn to green, it indicates that the last s
 known status of the garage door for a few seconds.
 
 ### 3) Recalling Garage Door Status
-`kia_ev6_en_4c687ee1` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 HomeLink mirror with Two-Way Communication provides a way to view the last stored message from the garage door opener. In order to recall the last known status of the last activated device, press the buttons "1 and 2" OR "2 and 3" simultaneously.
 
@@ -5530,7 +4871,6 @@ If the indicator (4) appears solid Green, it indicates that the last activated d
 1. Press and hold the desired HomeLink button you want to re-program. DO NOT release the button. 2. The HomeLink indicator light (7) will illuminate solid green. Release the button as soon as the HomeLink indicator light (7) begins to flash orange, usually about 20 seconds. 3. Proceed with the steps in the "Programming a New HomeLink Button" section.
 
 ### \* NOTICE
-`kia_ev6_en_5787daa6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you do not complete the re-programming of a new device to the button, it will revert to the previously stored programming
 
@@ -5545,21 +4885,18 @@ If you do not complete the re-programming of a new device to the button, it will
 4. Now all three HomeLink buttons (1), (2) and (3) are cleared of any programming
 
 ### Information
-`kia_ev6_en_89f1ced8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 HomeLink and the HomeLink House logo are registered trademarks of Gentex Corporation.
 
 The myQ logo is a registered trademark of The Chamberlain Group, Inc
 
 ### FCC (USA) and ISED (Canada)
-`kia_ev6_en_fb903f26` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This device complies with FCC rules part 15 and Innovation, Science, and Economic Development Canada RSS-210. Operation is subject to the following two conditions: (1) This device may not cause harmful interference, and (2) This device must accept any interference that may be received including interference that may cause undesired operation. WARNING: The transmitter has been tested and complies with FCC and ISED rules. Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the device.
 
 This equipment complies with FCC and ISED radiation exposure limits set forth for an uncontrolled environment. End Users must follow the specific operating instructions for satisfying RF exposure compliance. This transmitter must be at least 20 cm from the user and must not be co-located or operating in conjunction with any other antenna or transmit ter.
 
 ### Outside rear view mirror
-`kia_ev6_en_6ab0552e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Your vehicle is equipped with both lefthand and right-hand outside rear view mirrors.
 
@@ -5568,19 +4905,16 @@ Be sure to adjust the mirror angles before driving.
 The mirrors can be adjusted remotely with the remote switch. The mirror heads can be folded back to prevent damage during an automatic car wash or when passing through a narrow street.
 
 ### Rear View Mirrors
-`kia_ev6_en_21558002` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not scrape ice off the mirror face; this may damage the surface of the glass. If ice should restrict the movement of the mirror, do not force the mirror for adjustment. To remove ice, use a de-icer spray, a sponge or soft cloth with very warm water.
 
 If the mirror is jammed with ice, do not adjust the mirror by force. Use an approved spray de-icer (not radiator antifreeze) to release the frozen mecha nism or move the vehicle to a warm place and allow the ice to melt.
 
 ### Mirror Adjustment
-`kia_ev6_en_0343edf3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not adjust or fold the outside rear view mirrors while the vehicle is moving. This could result in loss of control.
 
 ### Adjusting the outside rear view mirrors
-`kia_ev6_en_edb1ce98` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9d5c2f2bbca566f4ebac161074793f042aa6eaf60fdebb2c0d6496d08c89eb3f.webp)
 
@@ -5588,13 +4922,10 @@ Adjusting the rear view mirrors:
 
 1. Move the R or L switch (1) to select the right side mirror or the left side mirror. 2. Press a corresponding point on the mirror adjustment control (2) to position the selected mirror up, down, left or right. 3. After adjustment, put the button into neutral (center) position to prevent inadvertent adjustment.
 
-### CAUTION
-`kia_ev6_en_37afb5a6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-The mirrors stop moving when they reach the maximum adjusting angles, but the motor continues to operate while the switch is pressed. Do not press the switch longer than necessary, the motor may be damaged. Do not attempt to adjust the outside rear view mirror by hand. Doing so may damage the parts.
+> ⚠️ **Внимание:** 
+> The mirrors stop moving when they reach the maximum adjusting angles, but the motor continues to operate while the switch is pressed. Do not press the switch longer than necessary, the motor may be damaged. Do not attempt to adjust the outside rear view mirror by hand. Doing so may damage the parts.
 
 ### Folding the outside rear view mirror
-`kia_ev6_en_eef6066c` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The outside rear view mirror can be folded or unfolded by pressing the switch as below.
 
@@ -5608,13 +4939,10 @@ The mirror will fold or unfold when the door is locked or unlocked by the button
 The mirror will unfold when you
 approach the vehicle (all doors closed and locked) with a smart key in possession. (if equipped)
 
-### CAUTION
-`kia_ev6_en_9b54c1c1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-The electric type outside rear view mirror operates even though the EV button is in OFF position. However, to prevent unnecessary battery discharge, do not adjust the mirrors longer than necessary while the EV button is ON. Do not fold an electric type outside rear view mirror by hand as this could cause motor failure.
+> ⚠️ **Внимание:** 
+> The electric type outside rear view mirror operates even though the EV button is in OFF position. However, to prevent unnecessary battery discharge, do not adjust the mirrors longer than necessary while the EV button is ON. Do not fold an electric type outside rear view mirror by hand as this could cause motor failure.
 
 ### Reverse parking aid function (if equipped)
-`kia_ev6_en_663fb53e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the gear is shifted to the R (Reverse) position, the outside rear view lever(s) will rotate downwards to aid with driving in reverse.
 
@@ -5629,7 +4957,6 @@ The outside rear view mirrors will automatically revert to their original positi
 The EV button is placed to either the OFF position or the ACC position. The gear is shifted to any position except R (Reverse). The remote control outside rear view mirror switch is not selected.
 
 ### Reverse parking aid user settings mode
-`kia_ev6_en_a2308384` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you cannot secure enough visibility with the angles provided as factory default conditions, you can readjust and store the angles of outside rear view mirrors.
 
@@ -5642,7 +4969,6 @@ The factory default angles of the right and left rear view mirrors might be set 
 6. You can adjust the rear view mirror on the other side by following the same procedures (1\~5).
 
 ### Resetting reverse parking aid user settings mode
-`kia_ev6_en_8f3646fe` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you want to change the automatic control function of rear view mirrors to factory-default conditions, follow the steps below.
 
@@ -5654,12 +4980,10 @@ If you want to change the automatic control function of rear view mirrors to fac
 6. You can initialize settings for the mirror on the other side by following the same procedures (1\~5).
 
 ### ！ CAUTION
-`kia_ev6_en_4c4349a6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 We recommend following the procedures in an orderly manner to change or initialize the auto reversing user settings. If you move to the next step before completing the previous one, the changed angle may not be changed or initialization may not work properly.
 
 ### Instrument cluster
-`kia_ev6_en_68b77d60` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The instrument cluster displays various information about the vehicle's condition.
 
@@ -5678,13 +5002,10 @@ The actua cluster and contents of the LCD display in the vehicle may differ from
 9 Regenerative braking level indicator
 10 Electric energy economy
 
-### CAUTION
-`kia_ev6_en_55b6ac59` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Be careful while driving as dynamicthemed animation effects can distract the driver and lead to unexpected accidents.
+> ⚠️ **Внимание:** 
+> Be careful while driving as dynamicthemed animation effects can distract the driver and lead to unexpected accidents.
 
 ### Instrument panel illumination control
-`kia_ev6_en_52adc1d3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The brightness of the instrument panel illumination is changed by pressing the illumination control button ("+" or "-") when the vehicle's position lights or headlamps are turned on.
 
@@ -5697,24 +5018,20 @@ If you hold the illumination control button ("+" o "-"), the brightness will be 
 If the brightness reaches to the maximum or minimum level, an alarm will sound.
 
 ### A WARNING
-`kia_ev6_en_ae573a21` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never adjust the instrument cluster while driving. This could result in loss of control and lead to an accident that may cause death, serious injury, or vehicle damage.
 
 ### Gauges
-`kia_ev6_en_3940bded` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The gauges display various information such as the speed of the vehicle, the amount of charge of the battery, and so on.
 
 ### Speedometer
-`kia_ev6_en_90b693e3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/36aa6ac948538490c4360227909edf37126d854c574929ec19b183a2deac807a.webp)
 
 The speedometer indicates the speed of the vehicle and is calibrated in miles per hour (mph) and/or kilometers per hour (km/h).
 
 ### Power/Charge gauge
-`kia_ev6_en_f025b685` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2ae44ff7fa6f62507ea12755bb231f4ffc28ab8a99b4e16bf5207ff15f37ced5.webp)
 
@@ -5725,7 +5042,6 @@ PWR (Power): It shows the energy consumption rate of the vehicle when driving up
 CHG (Charge): It shows the charging status of the battery when it is being charged by the regenerative brakes (decelerating or driving on a downhill road). The more electric energy is charged, the lower the gauge level.
 
 ### State of Charge (SOC) gauge for high voltage battery
-`kia_ev6_en_5d1bb280` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 ![](images/91696dce2c854bc1087eae055171230baccb2e4573c328a48275ec5fd03f805f.webp)
 
@@ -5742,12 +5058,10 @@ When the remaining battery is lower than 10% on the SOC gauge, the warning light
 When the warning light ( ) turns ON, the vehicle can drive approximately an additional 18\~25 miles (30\~40 km) depending on the driving speed, heater/ air conditioner, weather, driving style, and other factors. Charging is required.
 
 ### \* NOTICE
-`kia_ev6_en_fa834e2a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the high voltage battery range is 25\~30 miles (40\~50 km), the vehicle speed is limited, and then eventually the vehicle will turn OFF. Charge the vehicle immediately.
 
 ### Outside temperature gauge
-`kia_ev6_en_10123856` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f8a644620b8f52f12977ca74e994cbd692cd8d1d310a1d76330d8b295e0b5c90.webp)
 
@@ -5758,21 +5072,18 @@ The outside temperature on the display may not change immediately like a gen era
 You can change the temperature unit from the Settings menu in the infotainment system screen. Select:
 
 ### General Settings → Unit → Temperature Unit → °C/°F
-`kia_ev6_en_54821f8e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For detailed information, refer to the separately supplied infotainment system manual.
 
 Both the temperature unit on the cluster LCD display and climate control screen will change.
 
 ### Odometer
-`kia_ev6_en_e3944af9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a57add8e2b41cdd390293ab1ed18b1a7784df93baed78335fae12a6f8079067e.webp)
 
 The odometer Indicates the total distance that the vehicle has been driven and should be used to determine when periodic maintenance should be performed.
 
 ### Distance to empty
-`kia_ev6_en_3b76fbc2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5e79baa14e6b72db40051d40bc51c454d373b84379ec89cfea6f421f369b77d5.webp)
 
@@ -5783,7 +5094,6 @@ among ECO/NORMAL/SPORT/
 SNOW mode.
 
 ### \* NOTICE
-`kia_ev6_en_7665e41b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the vehicle battery power has been interrupted, the distance to empty function may not operate correctly. The distance to empty may differ
 from the actual driving distance as it is an estimate of the available driving distance.
@@ -5791,7 +5101,6 @@ The distance to empty may vary significantly based on driving condi
 tions, driving habits, and condition of the vehicle.
 
 ### Reduction gear shift indicator
-`kia_ev6_en_47e3d1a1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/46110b4a33c2da3e266f51885bdb4d46e531bd6e2fd17fff25e6df3f7c7c52ca.webp)
 
@@ -5800,14 +5109,12 @@ This indicator displays which position is selected.
 Park: P Reverse: R Neutral: N Drive: D
 
 ### Regenerative braking level indicator
-`kia_ev6_en_636f25d1` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ![](images/66cab3baebd95e9e0b8d494543764d7b67ec4d0ca9a846b04cf32060c78573fa.webp)
 
 The regenerative brake indicates the level of the regenerative braking that you set. And it also indicates Smart regenerative system's operation status.
 
 ### LCD display control
-`kia_ev6_en_1fcf8fbe` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The LCD display modes can be changed by using the control buttons.
 
@@ -5816,24 +5123,20 @@ The LCD display modes can be changed by using the control buttons.
 1. : MODE button for changing modes 2. / : MOVE switch for changing items 3. OK: SELECT/RESET button for setting or resetting the selected item
 
 ### Trip modes
-`kia_ev6_en_be09cdc8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8ed239be029bf9cfd7b556074b5cd00b9a53f24341a0a46d934d8f31bcca31aa.webp)
 
 To change the trip mode, toggle the switch ( / ) on the steering wheel.
 
 ### Average Energy Consumption (1)
-`kia_ev6_en_2645ce10` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The average energy consumption is calculated by the total driving distance and the high voltage battery consumption since the last average energy consumption reset. The average energy consumption can be reset both manually and automatically.
 
 ### Manual reset
-`kia_ev6_en_1746a0c5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To clear the average energy consumption manually, press the OK button on the steering wheel for more than second when the average energy consumption is displayed.
 
 ### Automatic reset
-`kia_ev6_en_72f73278` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To automatically reset the average energy consumption select either menu from the 'Energy Consumption Reset' in the Cluster menu on the infotainment system screen.
 
@@ -5841,17 +5144,14 @@ At Vehicle Start: The average energy consumption will reset automatically whenev
 After recharging: The average energy consumption will reset automatically when driving speed exceeds mph (1 km/h), after recharging more than 10%.
 
 ### \* NOTICE
-`kia_ev6_en_349183c3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The vehicle must be driven for a minimum of 0.19 miles (300 meters) since the last ignition key cycle before the average energy consumption will be recalculated.
 
 ### Instant Energy Consumption (2)
-`kia_ev6_en_486bc414` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The instantaneous energy consump tion is displayed according to the bar graph in the LCD display while driving.
 
 ### Driving Assist mode
-`kia_ev6_en_88fe70b3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This mode displays the state of:
 
@@ -5864,7 +5164,6 @@ Lane Following Assist
 Highway Driving Assist Driver Attention Warning Speed Limit System
 
 ### Trip computer mode 功
-`kia_ev6_en_85d4168f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You may change through items in the following order.
 
@@ -5873,7 +5172,6 @@ Drive Info
 ![](images/d62bcd8990f453f24dbf011193cd342206a76ef4e276b32aa710ae16f982cc26.webp)
 
 ### A: Drive Info
-`kia_ev6_en_c22d30d2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Accumulated trip distance
 
@@ -5891,7 +5189,6 @@ The driving information will continue to be counted while the vehicle is in the 
 The vehicle must be driven for a minimum of 0.19 miles (300 meters) since the last ignition key cycle before the driving information is recalculated.
 
 ### A: After recharging
-`kia_ev6_en_4f3f3625` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Accumulated trip distance
 2 Average energy consumption
@@ -5906,7 +5203,6 @@ Accumulated Info
 ![](images/0f92002cc64f952a15fba536043f28fc154d7c68ef5639ee9e88ee71a07105d8.webp)
 
 ### A: Accumulated Info
-`kia_ev6_en_4f3f3625` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 Accumulated trip distance
 2 Average energy consumption
@@ -5921,7 +5217,6 @@ To reset the details, press and hold the OK button when viewing the Accumulated 
 The accumulated driving information will continue to be counted while the vehicle is in the READY mode (for example, when the vehicle is in traffic or stopped at a stop light).
 
 ### \* NOTICE
-`kia_ev6_en_b1f45a37` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The vehicle must be driven for a minimum of 0.19 miles (300 meters) since the last ignition key cycle before the average accumulated driving informa tion is recalculated.
 
@@ -5932,7 +5227,6 @@ The electric vehicle system informs the drivers its energy flow in various opera
 The distribution status of the driving power of the front and rear wheels are displayed when Auto AWD mode is activated. For more details, refer to "All wheel drive (AWD) (if equipped)" on page 6-41.
 
 ### Turn By Turn (TBT) mode
-`kia_ev6_en_704015e7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/542e3f85ad4b689b518e94cc7c408abf69f922cfd1a3be277d349901f262e91b.webp)
 
@@ -5941,12 +5235,10 @@ This mode displays the Navigation sta tus.
 Information mode
 
 ### A: Low tire pressure
-`kia_ev6_en_74a88660` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Information related to Tire Pressure. Refer to "Tire Pressure Monitoring System (TPMS)" on page 7-6.
 
 ### Master warning mode 4
-`kia_ev6_en_f416c9e6` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 ![](images/820a8e10ee2f7680392012888db0b26e08c89839564e93cd90f5bcff0548af03.webp)
 
@@ -5957,7 +5249,6 @@ Driver assistance system malfunction, limitation or radar/camera blockage LED he
 At this time, a Master Warning icon ( ) will appear in the lower right corner on the LCD display. I the warning situation is solved, the master warning light will be turned off and the Master Warning icon will disappear.
 
 ### Service Interval
-`kia_ev6_en_c6993006` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0966e577a90b4eeda4db3d171336866fe93a4c44218a046a538fe66d86b1f0cd.webp)
 
@@ -5967,12 +5258,10 @@ To reset the service interval, select
 Setup → Vehicle → Cluster → Service Interval → Reset.
 
 ### \* NOTICE
-`kia_ev6_en_0cc597f6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Calculates and displays when you need a scheduled maintenance service (mileage or days). If the remaining mileage or time reaches 900 miles (1,500 km) or 30 days, the message Service in is displayed for several seconds each time you set the vehicle to the ON position.
 
 ### Driver Assistance settings (infotainment system)
-`kia_ev6_en_eed87ce2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 q G Vehicle Settings
 Driver Smart Cruise Control
@@ -5984,7 +5273,6 @@ Head-Up Display Warning Volume
 Cluster Mediun OCV041584N
 
 ### Select Setup → Vehicle → Driver Assis
-`kia_ev6_en_463a810d` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 tance on the infotainment system screen to set the Driver Assistance function.
 
@@ -6002,7 +5290,6 @@ Blind-Spot Safety
 Parking Safety
 
 ### Vehicle settings (infotainment system)
-`kia_ev6_en_fa3a98d1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Q 心 Vehicle Settings
 Driver Smart Cruise Control
@@ -6014,7 +5301,6 @@ Head-Up Display Sarning Volume
 Cluster edu OCV041584N
 
 ### \* NOTICE
-`kia_ev6_en_fc7218f4` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The information provided may differ depending on which features are applicable to your vehicle. For detailed information, refer to the separately supplied infotainment system manual.
 
@@ -6036,13 +5322,10 @@ Lights
 Door
 Convenience
 
-### WARNING
-`kia_ev6_en_bea8fe4e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Do not operate the Vehicle Settings while driving. This may cause distraction resulting in an accident.
+> ⚠️ **Внимание:** 
+> Do not operate the Vehicle Settings while driving. This may cause distraction resulting in an accident.
 
 ### LCD display messages
-`kia_ev6_en_fb7b84fb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Door, hood, liftgate open warn ing display
 
@@ -6050,13 +5333,10 @@ Door, hood, liftgate open warn ing display
 
 This warning is displayed if any door or the hood or the liftgate is left open. The warning will indicate which door is open in the display.
 
-### CAUTION
-`kia_ev6_en_89f8e7f4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Before driving the vehicle, you should confirm that the door/hood/liftgate is fully closed. Also, check that there is no door/hood/liftgate open warning light or message displayed on the instrument cluster.
+> ⚠️ **Внимание:** 
+> Before driving the vehicle, you should confirm that the door/hood/liftgate is fully closed. Also, check that there is no door/hood/liftgate open warning light or message displayed on the instrument cluster.
 
 ### Sunroof open warning display (if equipped)
-`kia_ev6_en_ea579f22` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9db86a47343c65a35ce278ad4575cf4dd3f324db061b1c42f87eb0131eb9f9cb.webp)
 
@@ -6065,14 +5345,12 @@ This warning is displayed if you turn off the vehicle when the sunroof is open.
 Close the sunroof securely before leaving your vehicle.
 
 ### A: Low tire pressure
-`kia_ev6_en_987c34a8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed if the tire pressure is low. The corresponding tire on the vehicle will be illuminated.
 
 For more details, refer to "Tire Pressure Monitoring System (TPMS)" on page 7- 6.
 
 ### Lights mode
-`kia_ev6_en_8430a27e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7be3265bc616f2352b348d78ebfd5a4d1ce9b536677d9417a5b3b4ca2fe14f5c.webp)
 
@@ -6087,7 +5365,6 @@ This indicator displays which exterior light is selected using the lighting cont
 You can activate or deactivate Wiper/ Lights Display function from the infotainment system.
 
 ### Wiper mode
-`kia_ev6_en_bfa2d51f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c33252afd04d3ddeb29c0586d8dd2ee5f0b81f77ee57c6f1be6f06596702fc0f.webp)
 
@@ -6102,24 +5379,20 @@ This indicator displays which wiper speed is selected using the wiper control.
 You can activate or deactivate Wiper/ Lights Display function from the infotainment system.
 
 ### Low key battery
-`kia_ev6_en_291da151` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed if the battery of the smart key is discharged while changing the EV button to the OFF position.
 
 ### Press brake pedal to start vehicle
-`kia_ev6_en_3c40d660` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed if the EV button changes to the ACC position twice by pressing the button repeatedly without depressing the brake pedal. You can start the vehicle by depressing the brake pedal.
 
 ### Key not in vehicle
-`kia_ev6_en_c7b4d181` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed if the smart key is not in the vehicle when you press the EV button.
 
 When attempting to start the vehicle, always have the smart key with you.
 
 ### Press EV button again
-`kia_ev6_en_b0faf05b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This message is displayed if you were unable to start the vehicle when the EV button was pressed.
 
@@ -6128,125 +5401,103 @@ If this occurs, attempt to start the vehicle by pressing the EV button again.
 If the warning message appears each time you press the EV button, have your vehicle inspected by an authorized Kia dealer.
 
 ### Press EV button with key
-`kia_ev6_en_0e59f2f5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed if you press the EV button while the warning message Key not detected is displayed.
 
 ### Shift to P to start vehicle
-`kia_ev6_en_f1e028dc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed if you try to start the vehicle without shifting to the P (Park) position.
 
 ### Shift to P
-`kia_ev6_en_d2301a03` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed if you try to turn off the vehicle with the gear in the N (Neutral) position.
 
 At this time, the EV button changes to the ACC position (If you press the EV button once more, it will turn to the ON position).
 
 ### Battery discharging due to exter nal electrical devices
-`kia_ev6_en_e030c9ab` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This message is displayed if the battery voltage is weak due to any non-factory electrical accessories (ex. dashboard camera). Be careful that the battery is not discharged.
 
 If the warning message appears after removing the non-factory electrical accessories, have your vehicle inspected by an authorized Kia dealer.
 
 ### Low washer fluid
-`kia_ev6_en_529bf583` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed f the washer fluid level in the reservoir is nearly empty.
 
 Have the washer fluid reservoir refilled.
 
 ### Shift to P to charge
-`kia_ev6_en_5dd1ef75` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This message is displayed if you connect the charging cable without the gear in the P (Park) position.
 
 Shift to P (Park) before connecting the charging cable.
 
 ### Low EV battery
-`kia_ev6_en_0265e8ac` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the high voltage battery level reaches around 10% or less, this warning message is displayed.
 
 The warning light on the instrument cluster ( ) will turn on simultaneously. Charge the battery immediately.
 
 ### Charge immediately. Power limited
-`kia_ev6_en_1d443501` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the high voltage battery level reaches around 5% or less, this warning message is displayed.
 
 The warning light on the instrument cluster ( ) and the power down indicator light ( ) will turn on simultaneously. The vehicle's power will be reduced to minimize the energy consumption of the high voltage battery. Charge the battery immediately.
 
-### WARNING
-`kia_ev6_en_d18e3c2c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Refrain from driving when the warning message is displayed. If this occurs, park the vehicle in a safe location and have your vehicle towed to the nearest authorized Kia dealer and have the vehicle inspected.
+> ⚠️ **Внимание:** 
+> Refrain from driving when the warning message is displayed. If this occurs, park the vehicle in a safe location and have your vehicle towed to the nearest authorized Kia dealer and have the vehicle inspected.
 
 ### Power limited
-`kia_ev6_en_53522c87` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In the following cases, this warning message is displayed when the vehicle's power is limited for safety.
 
 When the power is limited for the safety of the high-powered parts of an electric vehicle. The power is limited for the following reasons. (Unless both Service Warning Light and Power Down Indicator Light illuminate at the same time, it is not a failure.) The high voltage battery level is too low or voltage is decreasing. The temperature of the high voltage battery is too high or too low. The temperature of the motor is high.
 
 ### \* NOTICE
-`kia_ev6_en_32ff2e91` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When this warning message is displayed, do not accelerate or start the vehicle suddenly. Charge the battery immediately when the high voltage battery level is not enough.
 
 ### \* NOTICE
-`kia_ev6_en_64e834c8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the power is limited for the safety of the high-powered parts of an electric vehicle, the power down indicator light illuminates. your vehicle may not drive uphill or skid on a slope with the indicator light ON.
 
 ### Power limited due to low EV battery temperature. Charge battery
-`kia_ev6_en_a6f936e3` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 The warning message is displayed to protect the electric vehicle system when you turn off or turn on the vehicle while outside temperature is low. If the high voltage battery charging level is low and parked outside in low temperature for a long time, vehicle power could be limited. Charging the battery before driving, increases the battery temperature, and helps increase power.
 
 ### ！ CAUTION
-`kia_ev6_en_457ed098` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If this warning message is still displayed even when the ambient temperature is sufficiently high, have the vehicle inspected by an authorized Kia dealer.
 
 ### EV Battery Overheated! Stop vehicle
-`kia_ev6_en_b5dcadf2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed to protect battery and electric vehicle system when the high voltage battery temperature is too high.
 
 Turn off the EV button and stop the vehicle so that the battery temperature decreases.
 
 ### ！ WARNING
-`kia_ev6_en_cad9eae3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If this warning is still displayed even after the EV button has been turned off for sufficient time, refrain from driving and have the vehicle inspected by an authorized Kia dealer.
 
 ### Stop vehicle and check power supply
-`kia_ev6_en_13f955ec` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed when a failure occurs in the 12 V power supply system.
 
 If this occurs, park the vehicle in a safe location, tow your vehicle to the nearest authorized Kia dealer and have the vehicle inspected.
 
 ### Unplug vehicle to start
-`kia_ev6_en_b0f8ee0d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This message is displayed when you start the vehicle, without unplugging the charging cable, and will not shift out of park. Unplug the charging cable, and then turn on the vehicle.
 
 ### Charging Door Open
-`kia_ev6_en_ecb427c8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This message is displayed when the vehicle is driven with the charging door opened. Close the charging door and then start driving.
 
 ### Remaining Time
-`kia_ev6_en_d34ee38e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This message is displayed to notify the remaining time to charge the battery, to the selected target battery charge level, and the charge voltage level.
 
 ### Charging Stopped. Check the AC charger/Charging Stopped. Check the DC charger
-`kia_ev6_en_6f6dd7f9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed when charging is stopped for the reasons below:
 
@@ -6257,7 +5508,6 @@ If this occurs, check whether there is any problem with the external AC or DC ch
 If the same problem occurs when charging the vehicle with a well-functioning external charger or genuine Kia portable charger (sold separately), have your vehicle inspected by an authorized Kia dealer.
 
 ### Charging Stopped. Check the cable connection
-`kia_ev6_en_d2e7c76d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed for the reasons below:
 
@@ -6270,7 +5520,6 @@ Check whether there is any problem (external damage, foreign substances, etc.) w
 If the same problem occurs when charging the vehicle with a replaced charging cable or genuine Kia portable charger (sold separately), have your vehicle inspected by an authorized Kia dealer.
 
 ### Check Active Air Flap System
-`kia_ev6_en_eab1e3f8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed in the following situations:
 
@@ -6283,36 +5532,30 @@ The air flap does not open
 When all of the above conditions are fixed, the warning will disappear.
 
 ### Refill coolant
-`kia_ev6_en_87335c4d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This message is displayed when the coolant is low. If the warning message is displayed, stop driving and check the amount of coolant. Driving without sufficient coolant for a prolonged period of time can cause serious problems with the vehicle's electrical equipment and make normal driving impossible.
 
 ### Check regenerative brakes
-`kia_ev6_en_c0d11a21` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning message is displayed when the regenerative brake system does not work properly.
 
 In this case, have your vehicle inspected by an authorized Kia dealer.
 
 ### Check Virtual Engine Sound System
-`kia_ev6_en_1b4f8386` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This message is displayed when there is a problem with the Virtual Engine Sound System (VESS).
 
 In this case, have your vehicle inspected by an authorized Kia dealer.
 
 ### Warning and indicator lights
-`kia_ev6_en_b22e888a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The warning light and indicator light indicate a situation where the driver should be careful and whether the various functions are activated.
 
 ### Warning Lights
-`kia_ev6_en_f06b0c1a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Make sure that all warning lights are OFF after starting the vehicle. If any light is still ON, this indicates a situation that needs attention.
 
 ### Service warning light
-`kia_ev6_en_7ab93d15` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning light illuminates:
 
@@ -6321,7 +5564,6 @@ When the EV button is in the ON position. It illuminates for approximately 3 sec
 When the warning light illuminates while driving, or does not go OFF after starting the vehicle, have your vehicle inspected by an authorized Kia dealer.
 
 ### Air bag warning light
-`kia_ev6_en_6276aa0d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning light illuminates:
 
@@ -6333,14 +5575,12 @@ SRS.
 In this case, have the vehicle inspected by an authorized Kia dealer.
 
 ### Seat belt warning light 容
-`kia_ev6_en_318f0662` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning light informs the driver that the seat belt is not fastened.
 
 \* For more details, refer to "Seat belts" on page 4-17.
 
 ### Parking brake & brake fluid warning light OAKE
-`kia_ev6_en_0f29f8d5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning light illuminates:
 
@@ -6357,7 +5597,6 @@ When the brake fluid level in the reservoir is low.
 If the warning light illuminates with the parking brake released, it indicates the brake fluid level in reservoir is low.
 
 ### If the brake fluid level in the res ervoir is low:
-`kia_ev6_en_990ba94b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Drive carefully to the nearest safe location and stop your vehicle. 2. With the vehicle stopped, check the brake fluid level immediately and add fluid as required (For more details, refer to "Brake fluid" on page 8-12). Then check all brake components for fluid leaks. If any leak on the brake system is still found, the warning light remains on, or the brakes do not
 
@@ -6366,7 +5605,6 @@ operate properly, do not drive the vehicle.
 In this case, have your vehicle towed to an authorized Kia dealer and inspected.
 
 ### Dual-diagonal braking system
-`kia_ev6_en_25c9a309` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Your vehicle is equipped with dual-diagonal braking systems. This means you still have braking on two wheels even if one of the dual systems should fail.
 With only one of the dual systems working, more than normal pedal travel and greater pedal pressure are required to stop the vehicle.
@@ -6374,14 +5612,12 @@ Also, the vehicle will not stop in as short a distance with only a portion of th
 brake system working.
 
 ### Parking Brake & Brake Fluid Warning Light
-`kia_ev6_en_4a2321e6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Driving the vehicle with a warning light ON is dangerous. If the parking brake & brake fluid warning light illuminates with the parking brake released, it indicates that the brake fluid level is low.
 
 In this case, have your vehicle inspected by an authorized Kia dealer.
 
 ### Anti-lock Brake System (ABS) warning light
-`kia_ev6_en_a0d99ddc` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 This warning light illuminates:
 
@@ -6390,7 +5626,6 @@ When the EV button is in the ON position.
 It illuminates for approximately 3 seconds and then goes off. When there is a malfunction with the ABS (The normal braking system will still be operational without the assistance of the anti-lock brake system). In this case, have your vehicle inspected by an authorized Kia dealer.
 
 ### Electronic Brake force Distribution (EBD) system warning light
-`kia_ev6_en_f424035c` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 0P) BRAKE
 
@@ -6399,7 +5634,6 @@ These two warning lights illuminate at the same time while driving:
 When the ABS and regular brake system may not work normally. In this case, have your vehicle inspected by an authorized Kia dealer.
 
 ### Electronic Brake force Distribution (EBD) System Warning Light
-`kia_ev6_en_ee9e4c2f` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 When both ABS and parking brake & brake fluid warning lights are on, the brake system will not work normally and you may experience an unexpected and dangerous situation during sudden braking.
 
@@ -6408,7 +5642,6 @@ In this case, avoid high speed driving and abrupt braking.
 Have your vehicle inspected by an authorized Kia dealer as soon as possi ble.
 
 ### This warning light illuminates:
-`kia_ev6_en_b48250a8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the regenerative brake does not operate and the brake does not perform well. This causes the Brake Warning light (red) and Regenerative Brake Warning Light (yellow) to illuminate simultaneously.
 
@@ -6417,7 +5650,6 @@ In this case, drive safely and have the vehicle inspected by an authorized Kia d
 The operation of the brake pedal may be more difficult than normal, and the braking distance can increase, as it may default to manual hydraulic mode.
 
 ### Electric Power Steering (EPS) warning light
-`kia_ev6_en_25ccc62a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning light illuminates:
 
@@ -6430,7 +5662,6 @@ In this case, have your vehicle
 inspected by an authorized Kia dealer.
 
 ### Charging system warning light 白
-`kia_ev6_en_ef6a01df` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning light illuminates:
 
@@ -6445,33 +5676,28 @@ If you drive the vehicle while the warning light is on, vehicle speed may be lim
 \* LDC: Low voltage DC-DC Converter.
 
 ### High voltage battery low level warning light
-`kia_ev6_en_44bb7b0a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning light illuminates:
 
 When the high voltage battery level is low. When the warning light turns ON, charge the battery immediately.
 
 ### This indicator illuminates:
-`kia_ev6_en_4971d6c9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the EV button is in the ON position.
 
 It illuminates for approximately 3 seconds and then goes off. When the power is limited for the safety of the high-powered parts of an electric vehicle. The power is limited for the following reasons.(Unless both Service Warning Light and Power Down Indicator Light illuminate at the same time, it is not a failure.) The high voltage battery level is too low or voltage is decreasing The temperature of the high voltage battery is too high or too low The temperature of the motor is high
 
 ### \* NOTICE
-`kia_ev6_en_a2f3a1eb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not accelerate or start the vehicle suddenly when the Power Down Indicator Light is ON.
 Charge the battery immediately when the high voltage battery level is not
 enough.
 
 ### \* NOTICE
-`kia_ev6_en_08792551` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the remaining battery power is low, the Power Down Indicator Light turns on and the output is limited. In that case, charge the battery immediately; otherwise, it could be difficult to climb hills or the vehicle may move backward.
 
 ### Low tire pressure warning light ！
-`kia_ev6_en_813b9158` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning light illuminates:
 
@@ -6487,17 +5713,14 @@ In this case, have your vehicle
 inspected by an authorized Kia dealer. For more details, refer to "Tire Pressure Monitoring System (TPMS)" on page 7- 6.
 
 ### Low Tire Pressure
-`kia_ev6_en_72343d5b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Significantly low tire pressure makes the vehicle unstable and can contribute to loss of vehicle control and increased braking distances. Continued driving or low pressure tires will cause the tires to overheat and fail.
 
 ### Safe Stopping
-`kia_ev6_en_12a5b7c2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The TPMS cannot alert you to severe and sudden tire damage caused by external factors. If you notice any vehicle instability, immediately take your foot off the accelerator pedal, apply the brakes gradually with light force, and slowly move to a safe position off the road.
 
 ### Electronic Parking Brake (EPB) warning light EPB
-`kia_ev6_en_fe16ef91` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning light illuminates:
 
@@ -6506,7 +5729,6 @@ When the EV button is in the ON position.
 It illuminates for approximately 3 seconds and then goes off. When there is a malfunction with the EPB. In this case, have your vehicle inspected by an authorized Kia dealer.
 
 ### Master warning light
-`kia_ev6_en_b5cd7e11` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 This warning light informs the driver the following situations
 
@@ -6526,12 +5748,10 @@ High Beam Assist malfunction
 To identify the details of the warning, look at the LCD display.
 
 ### Electronic Parking Brake (EPB) Warning Light
-`kia_ev6_en_55ea33e6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Electronic Parking Brake (EPB) Warning Light may illuminate when the Electronic Stability Control (ESC) Indicator Light comes on to indicate that the ESC is not working properly (This does not indicate malfunction of the EPB).
 
 ### LED headlamp warning light
-`kia_ev6_en_70cfa899` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 This warning light illuminates:
 
@@ -6543,19 +5763,16 @@ LED headlamp.
 In this case, have your vehicle inspected by an authorized Kia dealer.
 
 ### This warning light blinks:
-`kia_ev6_en_2cd7c9a2` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 When there is a malfunction with a LED headlamp related part.
 
 In this case, have your vehicle inspected by an authorized Kia dealer.
 
 ### LED Headlamp Warning Light
-`kia_ev6_en_930cfb79` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Continuous driving with the LED Headlamp Warning Light on or blinking can reduce LED headlamp (low beam) life.
 
 ### Forward Safety warning light
-`kia_ev6_en_3f8577d6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning light illuminates:
 
@@ -6574,17 +5791,14 @@ When there is a malfunction with Forward Collision-Avoidance Assist. If this occ
 For more details, refer to "Forward Collision-Avoidance Assist (FCA)" on page 6-46.
 
 ### This warning light illuminates:
-`kia_ev6_en_6c73b8d2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning light is to warn the driver the road may be icy. When the temperature on the outside temperature gauge is approximately below 39 °F (4 °C) the icy road warning light and outside temperature gauge blinks and then illuminates. Also, the warning chime sounds 1 time.
 
 ### \* NOTICE
-`kia_ev6_en_78f5f015` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the icy road warning light appears while driving, you should drive more attentively and safely refraining from over-speeding, rapid acceleration, sudden braking or sharp turning, etc.
 
 ### All Wheel Drive (AWD) warning light 金 (if equipped)
-`kia_ev6_en_5af71860` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning light illuminates:
 
@@ -6599,7 +5813,6 @@ In this case, have your vehicle inspected by an authorized Kia dealer.
 \* For more details, refer to "All wheel drive (AWD) (if equipped)" on page 6- 41.
 
 ### This indicator illuminates:
-`kia_ev6_en_37009756` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the vehicle is ready to be driven.
 
@@ -6608,7 +5821,6 @@ ON: Normal driving is possible. OFF: Normal driving is not possible, or a proble
 When the ready indicator goes OFF or blinks, there is a problem with the system. In this case, have your vehicle inspected by an authorized Kia dealer.
 
 ### Electronic Stability Control (ESC) indicator light
-`kia_ev6_en_2c70c5f5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This indicator light illuminates:
 
@@ -6620,12 +5832,10 @@ In this case, have your vehicle
 inspected by an authorized Kia dealer.
 
 ### This indicator light blinks:
-`kia_ev6_en_d00306d1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 While the ESC is operating. For more details, refer to "Electronic Stability Control (ESC)" on page 6-32.
 
 ### Electronic Stability Control (ESC) OFF indicator light
-`kia_ev6_en_d45502f7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This indicator light illuminates:
 
@@ -6634,7 +5844,6 @@ When the EV button is in the ON position. It illuminates for approximately 3 sec
 Stability Control (ESC)" on page 6-32.
 
 ### Immobilizer indicator light (with smart key)
-`kia_ev6_en_86dde13f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This indicator light illuminates for up to 30 seconds:
 
@@ -6643,17 +5852,14 @@ key in the vehicle with the EV button
 in the ACC or ON position. Once the smart key is detected, you can start the vehicle (READY indicator ON). The indicator light goes off after starting the vehicle (READY indicator ON).
 
 ### High beam indicator light
-`kia_ev6_en_55ffff18` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the smart key is in the vehicle and the EV button is ON, but the vehicle cannot detect the smart key. In this case, have your vehicle inspected by an authorized Kia dealer.
 
 ### This indicator light illuminates:
-`kia_ev6_en_01f73a3a` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 When the headlights are on and in the high beam position. When the turn signal switch is pulled into the Flash-to-Pass position.
 
 ### High Beam Assist indicator light
-`kia_ev6_en_47701a26` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the battery of the smart key is weak.
 When there is a malfunction with the immobilizer system.
@@ -6661,12 +5867,10 @@ In this case, have your vehicle
 inspected by an authorized Kia dealer.
 
 ### This indicator light illuminates:
-`kia_ev6_en_c258eee7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When High Beam Assist is activated. \* For more details, refer to "High Beam Assist (HBA)" on page 5-92.
 
 ### Light ON indicator light
-`kia_ev6_en_d7a75630` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When you turn the turn signal light on. If any of the following occurs, there may a malfunction with the turn signal system.
 
@@ -6675,7 +5879,6 @@ This indicator light illuminates: When the tail lights or headlights are on.
 In this case, have your vehicle inspected by an authorized Kia dealer.
 
 ### AUTO HOLD indicator light (AUTO HOLD)
-`kia_ev6_en_af1c6de5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The indicator light does not blink but illuminates.
 The indicator light blinks more rapidly. The indicator light does not illuminate at all.
@@ -6683,7 +5886,6 @@ The indicator light blinks more rapidly. The indicator light does not illuminate
 This indicator light illuminates:
 
 ### Low beam indicator light
-`kia_ev6_en_b6a9c60b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This indicator light illuminates: When the headlights are on.
 
@@ -6694,7 +5896,6 @@ Yellow: When there is a malfunction with the AUTO HOLD system.
 In this case, have the vehicle inspected by an authorized Kia dealer. For more details, refer to "AUTO HOLD" on page 6-28.
 
 ### This indicator light illuminates:
-`kia_ev6_en_c691f2b4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Lane Safety indicator light will illuminate when you turn Lane Keeping Assist on by pressing and holding the Lane Driving Assist button.
 
@@ -6703,7 +5904,6 @@ If there is a problem with the function, the yellow Lane Safety indicator will i
 \* For more details, refer to "Lane Keeping Assist (LKA)" on page 6-65.
 
 ### This indicator light illuminates:
-`kia_ev6_en_e030e64e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Lane Following Assist indicator will illuminate when you turn Lane Following Assist on by pressing Lane Driving Assist button.
 
@@ -6712,19 +5912,16 @@ If there is a problem with the function, the yellow Lane Following Assist indica
 For more details, refer to "Lane Following Assist (LFA)" on page 6-124.
 
 ### Highway Lane Change Assist indicator light  (if equipped)
-`kia_ev6_en_fa6aa5ea` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This indicator light illuminates:
 
 Green: When Highway Lane Change Assist is ready for operation. Grey: When Highway Lane Change Assist is in standby.
 
 ### This indicator light blinks:
-`kia_ev6_en_be864cef` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Green: When Highway Lane Change Assist is operating. White: When Highway Lane Change Assist is canceled. \* For more details, refer to "Highway Driving Assist (HDA) (if equipped)" on page 6-127.
 
 ### Drive mode indicator light (ECO/ NORMAL/SPORT/SNOW)
-`kia_ev6_en_7ceff732` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This indicator light illuminates:
 
@@ -6734,14 +5931,12 @@ integrated control system" on page 6-
 38.
 
 ### Augmented Reality HUD (if equipped)
-`kia_ev6_en_aa5ca64a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/48c2ecabd12fae0fd6f30306837475a4b2511f17c932c80d0ded76ad040d20f7.webp)
 
 The Head-Up Display projects the instrument cluster and navigation information onto the windshield.
 
 ### Head-up display settings
-`kia_ev6_en_e2b61619` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/04ad7bd8e446925d0e0855a1a5944d09a38365f7383f0cf11a4c3d779ac3eb2a.webp)
 
@@ -6758,7 +5953,6 @@ Setup → Vehicle → Head-up display → Display mode → Augmented reality mod
 After turning on the head-up display, you can change the settings of Display control, AR matching adjustment (When Augmented reality mode is selected) and Content selection of the Head-Up Display.
 
 ### AR mode display information
-`kia_ev6_en_2fd5ffc4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5845749bb60fb468a7f24c11c41407d48797640f99acd6b46394653f66803a4d.webp)
 
@@ -6779,7 +5973,6 @@ After turning on the head-up display, you can change the settings of Display con
 15 Highway Lane Change Assist information (AR)
 
 ### Standard mode display information
-`kia_ev6_en_6792368e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a5b5d6e3e2d41f47bbec898521cccb82095ac3f6ca73df1b393b31f410bbbbae.webp)
 
@@ -6798,7 +5991,6 @@ mation
 11 Surrounding vehicle information
 
 ### Precautions while using the head-up display
-`kia_ev6_en_76ffdfcd` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 It may sometimes be difficult to read information on the Head-Up Display in the following situations.
 
@@ -6826,23 +6018,19 @@ glass designed for Head-Up Display operation. Otherwise, duplicated
 images may be displayed on the
 windshield glass.
 
-### WARNING
-`kia_ev6_en_fa0ce034` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-The warning information of BlindSpot Safety on the Head-Up Display are supplemental. Do not solely
-depend on them to change lanes. Always take a look around before changing lanes.
-The driving route guidance display in the augmented reality mode is an auxiliary function. Be sure to check the navigation screen together.
-ALWAYS pay attention on the road while driving when the Head-Up Display is on.
+> ⚠️ **Внимание:** 
+> The warning information of BlindSpot Safety on the Head-Up Display are supplemental. Do not solely
+> depend on them to change lanes. Always take a look around before changing lanes.
+> The driving route guidance display in the augmented reality mode is an auxiliary function. Be sure to check the navigation screen together.
+> ALWAYS pay attention on the road while driving when the Head-Up Display is on.
 
 ### \* NOTICE
-`kia_ev6_en_22fa385c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 AR mode is the basic setting for Headup display.
 For detailed information, refer to the separately supplied infotainment system manual.
 Standard Head-up display information may not be consistent based on the different system settings menu.
 
 ### \* NOTICE
-`kia_ev6_en_1b761191` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Head-Up Display includes GPL, LGPL, MPL and other open source license softwares. To obtain the source code developed under the open source license
 installed on this product, please visit
@@ -6852,12 +6040,10 @@ If you send an e-mail to MOBIS _OSSrequest@mobis.co.kr within three (3) years of
 request an open source code for the software on this product, you will receive it in a CD-ROM and/or other storage medium at a minimal charge (the charge will cover costs for the storage medium and delivery).
 
 ### Lighting
-`kia_ev6_en_5c0e789b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This vehicle is equipped with a variety of lights to illuminate the interior and exterior of the vehicle.
 
 ### Battery saver function
-`kia_ev6_en_0fcdc99b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The purpose of this feature is to prevent the battery from being discharged if the lights are left in the ON position. The system automatically shuts off the parking lights after the vehicle is turned off and the driver's door is opened.
 
@@ -6866,7 +6052,6 @@ However, the position lamps stay ON even when the driver-side door is opened if 
 If necessary, to keep the lamps on turn the position lamps OFF and ON again using the headlamp switch on the steering column after the vehicle is turned off.
 
 ### Headlight escort function
-`kia_ev6_en_e54ecc43` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 If you turn the EV button to the ACC or OFF position with the headlights ON, the headlights remain on for about 5 minutes.
 
@@ -6875,7 +6060,6 @@ However, if the driver's door is opened and closed, the headlights are turned of
 The headlights can be turned off by pressing the lock button on the smart key one more time or turning the light switch to the OFF position.
 
 ### Daytime running light (DRL)
-`kia_ev6_en_2486807a` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 The Daytime Running Lights can make it easier for others to see the front of your vehicle during the day.
 
@@ -6888,7 +6072,6 @@ The vehicle is off.
 Engaging the parking brake.
 
 ### Lighting control
-`kia_ev6_en_31b0adb7` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 The light switch has a Headlight and a Parking light position.
 
@@ -6902,21 +6085,18 @@ To operate the lights, turn the knob at the end of the control lever to one of t
 4 Headlamp (Low beam)
 
 ### Position & Taillamp
-`kia_ev6_en_454147fb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/62b766ec086c65fb21241a19f0f666fb25bd504b0a4f2e6b89abf36f1f679651.webp)
 
 When the light switch is in the parking light position, the tail, license and instrument panel lights will turn ON.
 
 ### Headlamp (Low beam)
-`kia_ev6_en_e7184497` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e2bcb961ee3fb63b8c16a96f87d8651ad04ed55cfc17ccc2de7d1d4dd039e4ae.webp)
 
 When the light switch is in the headlamp (Low beam) position, the head, tail, license lights will turn ON.
 
 ### AUTO light
-`kia_ev6_en_8ee957e1` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 ![](images/f4696ce6b9ce161a817fa245d14dc09a0a456df49433d803b52153eda95069d5.webp)
 
@@ -6924,16 +6104,13 @@ When the light switch is in the AUTO light position, the taillights and headligh
 
 When the light switch is positioned at an auto light position, at first, the wiper will turn on and then, after 5 seconds the head lamp will turn on automatically. If the head lamp has been turned on due to this function of the vehicle, the head lamp will turn off 60 seconds after the wiper has been turned off.
 
-### CAUTION
-`kia_ev6_en_00878a25` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Never place anything over the sensor (1) located on the instrument panel, as this will ensure better auto-light system control.
-Do not clean the sensor using a window cleaner. The cleaner may leave a light film which could interfere with sensor operations.
-If your vehicle has window tint or
-other types of metallic coating on the front windshield, the auto light system may not work properly.
+> ⚠️ **Внимание:** 
+> Never place anything over the sensor (1) located on the instrument panel, as this will ensure better auto-light system control.
+> Do not clean the sensor using a window cleaner. The cleaner may leave a light film which could interfere with sensor operations.
+> If your vehicle has window tint or
+> other types of metallic coating on the front windshield, the auto light system may not work properly.
 
 ### Operating high beam
-`kia_ev6_en_b6e84c09` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 ![](images/3414f0282e941c5333e27aeeec640ad79187b5eeec3d3bc5ef5386a518c6760c.webp)
 
@@ -6947,7 +6124,6 @@ when the headlight high beams are switched on.
 To prevent the battery from being discharged, do not leave the lights on for a prolonged time while the vehicle is off.
 
 ### High Beams
-`kia_ev6_en_847022f1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not use high beam when there are other vehicles in front of or approaching your vehicle. Using high beam could obstruct the other driver's vision.
 
@@ -6960,7 +6136,6 @@ Pull the lever towards you.
 It will return to the normal (low beam) position when released. The headlight switch does not need to be on to use this flashing feature.
 
 ### Operating turn signals and lane change signals
-`kia_ev6_en_f6d1821f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/835721466da658aa6449fe1d4e7952d7cdb2104394adcf27a33df6c3a487e348.webp)
 
@@ -6979,14 +6154,12 @@ If an indicator stays on and does not flash or if it flashes abnormally, one of 
 If an indicator flash is abnormally quick or slow, a bulb may be burned out or have a poor electrical connection in the circuit.
 
 ### High Beam Assist (HBA)
-`kia_ev6_en_c03b9d5b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5d8f6f49e3d4dfa7e69bd6f80a32828a90172b2ef941693f28a1bac4135c5066.webp)
 
 High Beam Assist is a function that automatically adjusts the headlamp range (switches between high beam and low beam) depending on the brightness of detected vehicles and certain road conditions.
 
 ### Detecting sensor
-`kia_ev6_en_38bc9f82` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Front view camera
 
@@ -6994,15 +6167,12 @@ Front view camera
 
 The front view camera is used as a detecting sensor to detect ambient light and brightness while driving. Refer to the picture above for the detailed location of the detecting sensor.
 
-### CAUTION
-`kia_ev6_en_2ba97ac2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Always keep the front view camera in good condition to maintain optimal performance of High Beam Assist.
-
-For more details on the precautions of the front view camera, refer to "Forward Collision-Avoidance Assist (FCA)" on page 6-46.
+> ⚠️ **Внимание:** 
+> Always keep the front view camera in good condition to maintain optimal performance of High Beam Assist.
+>
+> For more details on the precautions of the front view camera, refer to "Forward Collision-Avoidance Assist (FCA)" on page 6-46.
 
 ### High Beam Assist Setting
-`kia_ev6_en_33655475` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Q A Vehicle Settings
 Head-Up Display √ Headlight Delay Exteriorlighting staysonfor15 seconds
@@ -7016,7 +6186,6 @@ A: Vehicle Settings 1 Lights 2 High Beam Assist
 With the vehicle in the ON position, select Setup → Vehicle → Lights → High Beam Assist from the Settings menu to turn on High Beam Assist function.
 
 ### High Beam Assist operation
-`kia_ev6_en_c243575a` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 After selecting High Beam Assist in the Settings menu, High Beam Assist will operate by following the procedure below.
 
@@ -7044,24 +6213,20 @@ detected.
 When the surrounding ambient light is bright enough that high beams are not required. When streetlights or other lights are detected.
 
 ### \* NOTICE
-`kia_ev6_en_db6cf4c9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Depending on the instrument cluster specifications or theme, images or colors may be displayed differently.
 
 ### High Beam Assist Malfunction and limitations
-`kia_ev6_en_13281a70` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 High Beam Assist Malfunction
 
 ![](images/6631b26ad170e3004dff4afdedfc0d00bb72384904163bfef6c973ebd4573de0.webp)
 
 ### A: Check High Beam Assist (HBA) system
-`kia_ev6_en_7ba4599f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When High Beam Assist is not working properly, the warning message will appear and warning light ( ) will illuminate on the cluster. Have your vehicle inspected by an authorized Kia dealer.
 
 ### Limitations of High Beam Assist
-`kia_ev6_en_ce062854` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Light from a vehicle is not detected because of lamp damage, or because it is hidden from sight, etc.
 Headlamp of a vehicle is covered with dust, snow or water.
@@ -7079,29 +6244,23 @@ The vehicle is tilted from a flat tire or is being towed.
 Light from a vehicle is not detected because of exhaust fume, smoke, fog, snow, etc.
 
 ### \* NOTICE
-`kia_ev6_en_5223d4af` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For more details on the limitations of the front view camera, refer to "Forward Collision-Avoidance Assist (FCA)" on page 6-46.
 
-### WARNING
-`kia_ev6_en_331fe82f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-At times, High Beam Assist may not work properly. The function is for your convenience only. It is the responsibility of the driver for safe driving prac tices and always check the road conditions for your safety. When High Beam Assist does not operate normally, change the headlamp position manually between high beam and low beam.
+> ⚠️ **Внимание:** 
+> At times, High Beam Assist may not work properly. The function is for your convenience only. It is the responsibility of the driver for safe driving prac tices and always check the road conditions for your safety. When High Beam Assist does not operate normally, change the headlamp position manually between high beam and low beam.
 
 ### Wipers and washers
-`kia_ev6_en_83c3ae11` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The wipers and washers remove foreign substances from the windshield and rear window, helping to maintain visibility.
 
 ![](images/3bd2caae4f965ca392d4efbbfd9ee9f84f405dae104dd7011c2c25587bcdcf4e.webp)
 
 ### A: Wiper speed control (front)
-`kia_ev6_en_42ff8757` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 MIST Single wipe OFF Off AUTO Auto control wipe LO Low wiper speed HI High wiper speed B: Auto control wipe time adjustment C: Wash with brief wipes
 
 ### Windshield washers
-`kia_ev6_en_d96ef499` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Operates as follows when the EV button is turned ON.
 
@@ -7110,12 +6269,10 @@ MIST: For a single wiping cycle, move the lever to this (MIST) position and rele
 OFF: Wiper is not in operation LO: Normal wiper speed HI: Fast wiper speed
 
 ### \* NOTICE
-`kia_ev6_en_5612219a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If there is heavy accumulation of snow or ice on the windshield, defrost the windshield for about 10 minutes, or until the snow and/or ice is removed before using the windshield wipers to ensure proper operation. If you do not remove the snow and/or ice before using the wiper and washer, it may damage the wiper and washer system.
 
 ### Auto control
-`kia_ev6_en_84c145a2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/6c1bd1a786ccfbccfd286fad4cc0d95e38f24e133a6130c841c2b2008880cbd8.webp)
 
@@ -7126,7 +6283,6 @@ To vary the speed setting, turn the speed control knob (B).
 If the wiper switch is set in AUTO mode when the EV button is ON, the wiper will operate once to perform a self-check of the system. Set the wiper to OFF position when the wiper is not in use.
 
 ### ！ CAUTION
-`kia_ev6_en_9ae11fd0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the EV button is ON and the windshield wiper switch is placed in the AUTO mode, use caution in the following situations to avoid any injury to the hands or other parts of the body:
 
@@ -7135,18 +6291,15 @@ Do not wipe the upper end of the
 windshield glass with a damp or wet cloth.
 Do not put pressure on the windshield glass.
 
-### CAUTION
-`kia_ev6_en_e174cee7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-When washing the vehicle, set the wiper switch in the OFF position to stop the auto wiper operation.
-The wiper may operate and be damaged if the switch is set in the AUTO mode while washing the vehicle.
-Do not remove the sensor cover
-located on the upper end of the passenger side windshield glass. Damage to system parts could occur and may not be covered by your vehicle war ranty.
-When starting the vehicle in winter, set the wiper switch in the OFF position. Otherwise, wipers may operate and ice may damage the windshield wiper blades. Always remove all snow and ice and defrost the windshield properly prior to operating the windshield wipers.
-When tinting the windshield, be careful of any fluid getting into the sensor located in the top center of the front windshield. It may damage the related parts.
+> ⚠️ **Внимание:** 
+> When washing the vehicle, set the wiper switch in the OFF position to stop the auto wiper operation.
+> The wiper may operate and be damaged if the switch is set in the AUTO mode while washing the vehicle.
+> Do not remove the sensor cover
+> located on the upper end of the passenger side windshield glass. Damage to system parts could occur and may not be covered by your vehicle war ranty.
+> When starting the vehicle in winter, set the wiper switch in the OFF position. Otherwise, wipers may operate and ice may damage the windshield wiper blades. Always remove all snow and ice and defrost the windshield properly prior to operating the windshield wipers.
+> When tinting the windshield, be careful of any fluid getting into the sensor located in the top center of the front windshield. It may damage the related parts.
 
 ### Operating windshield washer
-`kia_ev6_en_5009d277` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Use this function when the windshield is dirty.
 
@@ -7157,48 +6310,40 @@ Use this function when the windshield is dirty.
 The spray and wiper operation will continue until you release the lever. If the washer does not work, check the washer fluid level. If the fluid level is not sufficient, you will need to add appropriate non-abrasive windshield washer fluid to the washer reservoir. The reservoir filler neck is located in the front of the motor compartment on the passenger side.
 
 ### Washer Pump
-`kia_ev6_en_d9f0d1f6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To prevent possible damage to the washer pump, do not operate the washer when the fluid reservoir is empty.
 
 ### Obscured Visibility
-`kia_ev6_en_60320d27` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not use the washer in freezing temperatures without first warming the windshield with the defrosters; the washer solution could freeze on the windshield and obscure your vision.
 
 ### Wipers & Windshields
-`kia_ev6_en_fea583c5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To prevent possible damage to the wipers or windshield, do not operate the wipers when the windshield is dry. To prevent damage to the wiper blades, do not use gasoline, kerosene, paint thinner, or other solvents on or near them. To prevent damage to the wiper arms and other components, do not attempt to move the wipers manually.
 
 ### Interior lights
-`kia_ev6_en_183d6b4f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This vehicle is equipped with lights throughout the vehicle to illuminate the interior.
 
 Do not use the interior lights for extended periods when the vehicle is off. It may cause battery discharge.
 
 ### Interior Lights
-`kia_ev6_en_a88eef07` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not use the interior lights when driving in the dark. Accidents could happen because the view may be obscured by interior lights.
 
 ### Automatic turn off function (if equipped)
-`kia_ev6_en_9754ae41` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The interior lights automatically turn off approximately 20 minutes after the EV button is turned off, if the lights are in the ON position.
 
 If your vehicle is equipped with the theft alarm system, the interior lights automatically turn off approximately 5 sec onds after the system is armed.
 
 ### Room lamp
-`kia_ev6_en_4bd41743` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/86d32d901e83a80e3bd899a7cb3efe9eba721c599484a3e9dd056779b18413b8.webp)
 
 : The light stays on at all times.
 
 ### Map lamp
-`kia_ev6_en_499ee1ff` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/c3b3c622070fc8502d8016f8826909baf47f76c89b81477aebf0f623c46ed203.webp)
 
@@ -7225,19 +6370,16 @@ To turn off the DOOR mode, press the DOOR button (2) once again (not pressed).
 The DOOR mode and ROOM mode cannot be selected at the same time.
 
 ### Liftgate room lamp
-`kia_ev6_en_56a09a28` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The liftgate room lamp comes on when the liftgate is opened.
 
 ![](images/5b8c703c068652861ff187057da11672407ea94e3f3a16853998a5e74aae8964.webp)
 
 ### \* NOTICE
-`kia_ev6_en_6d054684` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The liftgate lamp comes on as long as the liftgate lid is open. To prevent unnecessary charging system drain, close the liftgate lid securely after using the liftgate.
 
 ### Vanity mirror lamp
-`kia_ev6_en_cd48c0b9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a90d8849c0868b567cbde0d21021df33d2631c9f5616aae9cf3aac5438eecef3.webp)
 
@@ -7247,36 +6389,30 @@ Push the switch to turn the light on or off.
 : The lamp will turn off if this button is pressed.
 
 ### Vanity Mirror Lamp
-`kia_ev6_en_d2e770f4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Always have the switch in the off position when the vanity mirror lamp is not in use. If the sun visor is closed without the lamp off, it may discharge the battery or damage the sun visor.
 
 ### Glove box lamp
-`kia_ev6_en_1269edf6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/70249cd3a8c01d9968a09405f00d953e8bd839e2c8e25c30878cc3313c1a3b15.webp)
 
 The glove box lamp comes on when the glove box is opened.
 
 ### ！ CAUTION
-`kia_ev6_en_5abc89b7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To prevent unnecessary charging system drain, close the glove box securely after using the glove box.
 
 ### Welcome system
-`kia_ev6_en_15e987be` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The welcome system is a function that illuminates the surroundings or the interior when the driver approaches or exits the vehicle.
 
 ### Headlight (Headlamp) escort function
-`kia_ev6_en_24da16bc` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The headlights (and/or taillights) remain on for approximately 5 minutes after the vehicle is turned off. However, if the driver's door is opened and closed, the headlights are turned off after 15 seconds.
 
 The headlights can be turned off by pressing the lock button on the transmitter or smart key twice or turning off the light switch from the headlight or Auto light position.
 
 ### Interior light
-`kia_ev6_en_64337d23` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 When the interior light switch is in the DOOR position and all doors (and liftgate) are locked and closed, the room lamp will come on for 30 seconds if any of the following occurs.
 
@@ -7285,7 +6421,6 @@ With the smart key system When the door unlock button is pressed on the smart ke
 At this time, if you press the door lock button, the lamps will turn off immediately.
 
 ### Body silhouette lamp
-`kia_ev6_en_c091d3ae` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/7a7b217bb950acc5cf5d4bd5fda98f79d9f779d24486d143f4db0b43583ed538.webp)
 
@@ -7296,14 +6431,12 @@ With the smart key system When the door unlock button is pressed on the smart ke
 At this time, if you press the door lock button, the lamps will turn off immediately.
 
 ### Conductors
-`kia_ev6_en_55a2bf0f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To prevent damage to the conductors bonded to the inside surface of the rear window, never use sharp instruments or window cleaners containing abrasives to clean the window.
 
 If you want to defrost and defog the front windshield, refer to "Windshield defrosting and defogging" on page 5- 112.
 
 ### Operating rear window defroster
-`kia_ev6_en_20760a15` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The defroster heats the window to remove frost, fog and thin ice from the rear window, while the vehicle is on.
 
@@ -7324,12 +6457,10 @@ To turn off the defroster:
 Press the rear window defroster button again.
 
 ### Outside mirror defroster (if equipped)
-`kia_ev6_en_848d21bb` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 If your vehicle is equipped with the outside rearview mirror defrosters, they will operate at the same time you turn on the rear window defroster.
 
 ### Automatic climate control system
-`kia_ev6_en_5c3abca1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7b86b4de7bf9c134098dcd6f5dd0268ed196a7d2b6d39cfe9c7c47fae24facdc.webp)
 
@@ -7353,14 +6484,12 @@ If your vehicle is equipped with the outside rearview mirror defrosters, they wi
 Operating the blower when the EV button is in the OFF position could cause the battery to discharge. Operate the blower when the vehicle is in ON position.
 
 ### Using the infotainment/climate switchable controller
-`kia_ev6_en_7df56676` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/fe3c1c6f33a0b803333512b109a980c388578f3844a2ae42e3c52581b3853159.webp)
 
 Press the button on the switchable con troller to switch between infotainment system or climate control panel. Press and hold the button to select the default mode for the control panel.
 
 ### Switching between panels
-`kia_ev6_en_06422144` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Infotainment control panel
 
@@ -7375,7 +6504,6 @@ The knob display will be illuminated according to the selected control panel mod
 When the vehicle is in the ACC position, only the infotainment system will be activated.
 
 ### Setting the default mode
-`kia_ev6_en_7bb92919` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f2ff6b5d4a412253b224cd7db4ab2dbdebbbf8bdce20983d41a80f94e2c47335.webp)
 
@@ -7387,7 +6515,6 @@ If the mode is set to 'OFF', the control panel will display the mode used
 recently.
 
 ### Heating and air conditioning automatically
-`kia_ev6_en_b6b34798` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Press the AUTO button. The modes, fan speeds, air intake and air-conditioning will be controlled automatically by setting the temperature.
 
@@ -7404,14 +6531,12 @@ Mode selection button Air conditioning button Front windshield defroster button 
 ![](images/4e2692eb2ec76acc9837649cd353ecd4959a74ab81ce1d7420b90fa912ae9e7d.webp)
 
 ### \* NOTICE
-`kia_ev6_en_1d62345d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not place anything over the sensor located on the instrument panel to ensure better control of the heating and cooling system.
 
 ![](images/95c55bb5aec609df3970747ccf740dc1c4c3695191c2cf0995e5472b72c36613.webp)
 
 ### Heating and air conditioning manually
-`kia_ev6_en_07d91593` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The heating and cooling system can be controlled manually by pressing buttons or turning knob(s) other than the AUTO button.
 
@@ -7436,7 +6561,6 @@ Heating: Cooling:
 Press the AUTO button in order to convert to full automatic control of the system.
 
 ### Mode selection
-`kia_ev6_en_de04ca3e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The mode selection button controls the direction of the air flow through the ventilation system.
 
@@ -7447,22 +6571,18 @@ The air flow outlet port is directed as follows:
 }{\
 
 ### Face-Level (B, D, F)
-`kia_ev6_en_41b2a010` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Air flow is directed toward the upper body and face. Additionally, each outlet can be controlled to direct the air discharged from the outlet.
 
 ### Floor-Level (A, C, D, E)
-`kia_ev6_en_3a847b53` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Most of the air flow is directed to the floor, with a small amount of the air being directed to the windshield and side window defrosters.
 
 ### Floor/Defrost-Level (A, C, D, E)
-`kia_ev6_en_8bc8df72` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Most of the air flow is directed to the floor and the windshield with a small amount directed to the side window defrosters.
 
 ### Instrument panel vents
-`kia_ev6_en_ee2157dc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Front
 
@@ -7471,7 +6591,6 @@ Front
 The outlet vents can be opened or closed by moving the vent left or right. Also, you can adjust the direction of air delivery from these vents using the vent control lever as shown.
 
 ### Temperature control
-`kia_ev6_en_addf2c6d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d861cb7da471562d21ed75791a6201465f4512326120d2ee8adf21130f562e79.webp)
 
@@ -7482,7 +6601,6 @@ The temperature will decrease to the minimum (LO) by turning the knob to the ext
 When turning the knob, the temperature will increase or decrease by °F/0.5 °C. When set to the lowest temperature setting, the air conditioning will operate continuously.
 
 ### \* NOTICE
-`kia_ev6_en_3ade481b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When starting the vehicle in cold weather using manual temperature control, operate the system in the following method to improve heating.
 
@@ -7491,14 +6609,12 @@ Allow the vehicle to warm up during this time since the air flow from the heater
 After a few minutes of vehicle warm up, turn on or set the fan to a higher level and adjust the temperature setting to hot.
 
 ### Temperature conversion
-`kia_ev6_en_cc5f8063` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You can switch the temperature mode from Centigrade to Fahrenheit as follows:
 
 Go to Setup → Units → Temperature on the infotainment system. For detailed information, refer to the separately supplied infotainment system manual.
 
 ### Controlling air intake
-`kia_ev6_en_ee28f3a5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This is used to select the outside (fresh) air position or recirculated air position.
 
@@ -7509,14 +6625,12 @@ To change the air intake control position:
 Push the control button.
 
 ### Outside (fresh) air position
-`kia_ev6_en_458b412d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2d1f95cd5e154bfb7bd26ff31f131334d51122cb40bc40a596976117a3c78f56.webp)
 
 With the outside (fresh) air position selected, air enters the vehicle from outside and is heated or cooled according to the function selected. The indicator light will turn off.
 
 ### Recirculated air position
-`kia_ev6_en_8e5efbec` | ev6 | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 ![](images/951981fc95b592e8bf99636f21f35a2cfc1c82cc59ddb0b693b761bd8baec644.webp)
 
@@ -7525,12 +6639,10 @@ With the recirculated air position selected, air from the passenger com partment
 In addition, prolonged use of the air conditioning with the recirculated air position selected will result in excessively dry air in the passenger compartment.
 
 ### \* NOTICE
-`kia_ev6_en_09708378` | ev6 | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Operating the system primarily in Fresh mode is recommended. Use Recirculation mode temporarily only when needed. Prolonged operation of the heater in Recirculation mode and without the air conditioning ON can cause fogging of the windshield. In addition, prolonged use of the air conditioning ON in Recirculation mode may result in excessively dry, dehumidified air in the cabin and may promote formation of musty vent odor due to stagnant air.
 
 ### Controlling fan speed
-`kia_ev6_en_26ceee57` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The fan speed can be set to the desired speed by operating the fan speed con trol switch.
 
@@ -7543,31 +6655,26 @@ Press right for higher speed, or press left for lower speed.
 To turn the fan speed control off, press the OFF knob.
 
 ### Air conditioning
-`kia_ev6_en_2a33130c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/49dbdf98fedd7831a73c1621814caa9e368b0e9674bd94b532794f7200fb6cfd.webp)
 
 Press the A/C button to turn the air conditioning system on (indicator light will illuminate). Press the button again to turn the air conditioning system off.
 
 ### Reduced Visibility
-`kia_ev6_en_650f90e5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Continuous use of the climate control system in the recirculated air position may allow humidity to increase inside the vehicle, which may fog the glass and obscure visibility.
 
 ### Recirculated Air
-`kia_ev6_en_02969914` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Continued use of the climate control system in the recirculated air position can cause drowsiness or sleepiness, and loss of vehicle control. Set the air intake control to the outside (fresh) air position as much as possible while driving.
 
 ### Sleeping with A/C on
-`kia_ev6_en_db2feabe` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not sleep in a vehicle with the air conditioning or heating on, as this may cause serious harm or death due to a drop in the oxygen level and/or body temperature.
 
 Operating the fan when the EV button is in the OFF position could cause the battery to discharge. Operate the fan when the vehicle is running.
 
 ### Turning heating on or off
-`kia_ev6_en_88c6c7a5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/3edecd49d61b6d0e074374068c3d2aaf65fe2e704716828cf6ebb42f6270a47e.webp)
 
@@ -7577,7 +6684,6 @@ Push the button again to turn the heater off.
 The air conditioner and heater uses energy from the battery. If you use the heater or air conditioner for too long, distance to empty can be reduced due to increased power consumption. Turn off the heater or air conditioner if not necessary.
 
 ### Air conditioning for driver only
-`kia_ev6_en_93f1d70e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c0c2947934a57c16fb1a17c50df5a8bf16e6c4dc3faf86258c623bdc656376c4.webp)
 
@@ -7586,14 +6692,12 @@ Press the DRIVER ONLY button and the indicator light illuminates, cold air mostl
 However, some of the cold air may come out of other seats' ducts to keep indoor air pleasant.
 
 ### Turning off the front air climate control
-`kia_ev6_en_12b3a76c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2c0aeb4b29c707d6938099f69d0d3d79ee085f3423926f90627cc608cf7866fd.webp)
 
 Press the OFF knob to turn off the front air climate control system. However, you can still operate the air intake buttons as long as the EV button is in the ON position.
 
 ### Ventilation
-`kia_ev6_en_82f6c7b4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Set the mode to the ( ) position.
 2. Set the air intake control to the outside (fresh) air position.
@@ -7601,7 +6705,6 @@ Press the OFF knob to turn off the front air climate control system. However, yo
 4. Set the fan speed control to the desired speed.
 
 ### Heating
-`kia_ev6_en_82f6c7b4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Set the mode to the ( ) position.
 2. Set the air intake control to the outside (fresh) air position.
@@ -7610,7 +6713,6 @@ Press the OFF knob to turn off the front air climate control system. However, yo
 5. If dehumidified heating is desired, turn the air conditioning system (if equipped) on. If the windshield fogs up, set the mode to the ( ) or ( ) position.
 
 ### Heating operation tips
-`kia_ev6_en_69cbeef4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To keep dust or unpleasant fumes from entering the vehicle through the ventilation system, temporarily set the air intake control to the recirculated air position. Be sure to return the control to the fresh air position when the irritation has passed to keep fresh air in the vehicle. This will help keep the driver alert and comfortable.
 Air for the heating/cooling system is drawn in through the grilles just
@@ -7619,7 +6721,6 @@ To prevent interior fog on the windshield, set the air intake control to the fre
 temperature.
 
 ### Air conditioning
-`kia_ev6_en_29257069` | ev6 | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 All Kia air conditioning systems are filled with R-1234yf refrigerant.
 
@@ -7628,22 +6729,18 @@ All Kia air conditioning systems are filled with R-1234yf refrigerant.
 3. Set the air intake control to the outside-air or recirculated air position.
 4. Adjust the fan speed control and temperature control to maintain maximum comfort. When maximum cooling is desired, set the temperature control to the extreme left position, then set the fan speed control to the highest speed.
 
-### CAUTION
-`kia_ev6_en_313987cb` | ev6 | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
-
-The refrigerant system should only be serviced by trained and certified technicians to insure proper and safe
-operation.
-The refrigerant system should be serviced in a well-ventilated place.
-The air conditioning evaporator (cooling coil) shall never be repaired or replaced with one removed from a used or salvaged vehicle and new
-replacement MAC evaporators shall be certified (and labeled) as meeting SAE Standard J2842.
+> ⚠️ **Внимание:** 
+> The refrigerant system should only be serviced by trained and certified technicians to insure proper and safe
+> operation.
+> The refrigerant system should be serviced in a well-ventilated place.
+> The air conditioning evaporator (cooling coil) shall never be repaired or replaced with one removed from a used or salvaged vehicle and new
+> replacement MAC evaporators shall be certified (and labeled) as meeting SAE Standard J2842.
 
 ### ！ CAUTION
-`kia_ev6_en_e2fd1f42` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When using the air conditioning system, monitor the temperature gauge closely while driving up hills or in heavy traffic when outside temperatures are high. Air conditioning system operation may cause vehicle overheating. Continue to use the blower fan but turn the air conditioning system off if the temperature gauge indicates vehicle overheating. When opening the windows in humid weather, air conditioning may create water droplets inside the vehicle. Since excessive water droplets may cause damage to electrical equipment, air conditioning should only be used with the windows closed.
 
 ### Air conditioning operation tips Climate control air filter
-`kia_ev6_en_da27e4d9` | ev6 | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 If the vehicle has been parked in
 direct sunlight during hot weather, open the windows for a short time to let the hot air inside the vehicle
@@ -7672,12 +6769,10 @@ F: Heater core
 If dust or other pollutants accumulate in the filter over a period of time, the air flow from the air vents may decrease, resulting in moisture accumulation on the inside of the windshield even when the outside (fresh) air position is selected. If this happens, have the climate control air filter replaced by an authorized Kia dealer.
 
 ### \* NOTICE
-`kia_ev6_en_acf25eea` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace the filter every 15,000 miles (20,000 km) or once a year. If the vehicle is being driven in severe conditions, such as dusty or rough roads, more frequent air conditioner filter inspections and changes are required. When the air flow rate suddenly decreases, the system should be checked at an authorized Kia dealer.
 
 ### Air conditioning refrigerant label
-`kia_ev6_en_906aca7e` | ev6 | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Example
 
@@ -7704,19 +6799,16 @@ Refer to "Refrigerant label" on page 9-7 for more detail on the location of air 
 It is important that the correct type and amount of oil and refrigerant is used, otherwise damage to the vehicle may occur. To prevent damage, the air conditioning system in your vehicle should only be serviced by trained and certified technicians.
 
 ### Checking the amount of air con ditioner refrigerant and compres sor lubricant
-`kia_ev6_en_a4a5f2fa` | ev6 | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 When the amount of refrigerant is low, the performance of the air conditioning is reduced. Overfilling also has a negative impact on the air conditioning system.
 
 Therefore, if abnormal operation is found, have the system inspected by an authorized Kia dealer.
 
 ### A WARNING
-`kia_ev6_en_c720ddb8` | ev6 | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 The oil and refrigerant in your vehicle's air conditioning system is under very high pressure. If proper service procedures are not followed an explosion may result. To reduce the risk of serious injury or death, the air conditioning system in your vehicle should only be serviced by trained and certified technicians.
 
 ### Vehicles equipped with R-1234yf
-`kia_ev6_en_c31cb882` | ev6 | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 ![](images/04ebc952a76d7f9176799ca615ce69e3310f92c8e222bfb28c8bb8b884318ea4.webp)
 
@@ -7725,12 +6817,10 @@ Since the refrigerant is mildly flammable and operated at high pressure, the air
 Failure to heed these warnings can lead to serious injuries.
 
 ### Windshield defrosting and defogging
-`kia_ev6_en_3ab2698d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the windshield is covered with frost or moisture, the front view is blurred, you should remove the frost and moisture.
 
 ### Windshield Heating
-`kia_ev6_en_8a723771` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Do not use the ( ) or ( ) position during cooling operation in extremely humid weather. The difference between the temperature of the outside air and the windshield could cause the outer surface of the windshield to fog up, causing loss of visibility. In this case, set the mode selection to the ( ) position and fan speed control to the lower speed.
 
@@ -7743,7 +6833,6 @@ improve heater and defroster effi
 ciency and to reduce the probability of fogging up the inside of the windshield.
 
 ### Defrosting outside windshield with automatic climate control
-`kia_ev6_en_b30a4742` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9de5800a262d2519997e50dac82c638f3cdb7219fc18224826c1c297c7ad3ede.webp)
 
@@ -7753,7 +6842,6 @@ ciency and to reduce the probability of fogging up the inside of the windshield.
 4. The outside (fresh) air position will be selected automatically and the air conditioning will turn on according to the detected ambient temperature.
 
 ### Defogging inside windshield with automatic climate control
-`kia_ev6_en_4e64a7d2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2625b983068c7d822f73d823f50ebe60c1093775fa3a32b70b50e121f5c2f7e4.webp)
 
@@ -7764,14 +6852,12 @@ ciency and to reduce the probability of fogging up the inside of the windshield.
 If the air conditioning and outside (fresh) air position are not selected automatically, adjust the corresponding button manually. If the ( ) position is selected, lower fan speed is adjusted to a higher fan speed.
 
 ### Defogging logic (if equipped)
-`kia_ev6_en_c42e258f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To reduce the possibility of fogging up the inside of the windshield, the air intake or air conditioning is controlled automatically according to certain con ditions such as ( ) or ( ) position.
 
 To cancel automatic defogging logic or return to the automatic defogging logic, do the following.
 
 ### Turning the defogging logic on or off
-`kia_ev6_en_cd8759a5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/69abe118ee8a25696db10421e1ec9a44ebda7bde89e04b2a52856dc216855398.webp)
 
@@ -7782,7 +6868,6 @@ The recirculation indicator blinks 3 times in 0.5 second of intervals. It indica
 that the defogging logic is canceled or returned to the programmed status. If the battery has been discharged or disconnected, it resets to the defog logic status.
 
 ### Auto Defogging System (ADS)
-`kia_ev6_en_b27a5fc0` | ev6 | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Auto defogging reduces the probability of fogging up the inside of the windshield by automatically sensing the moisture of inside the windshield.
 
@@ -7802,7 +6887,6 @@ Blowing air flow toward the wind
 shield
 
 ### Turning the auto defogging sys tem on or off
-`kia_ev6_en_2e357c13` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Press the front windshield defroster button for 3 seconds when the EV button is in the ON position.
 
@@ -7811,24 +6895,20 @@ When the ADS system is reset, the
 defroster button indicator will blink 6 times per 0.25 sec.
 
 ### ！ CAUTION
-`kia_ev6_en_4a00425d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not remove the sensor cover located on the upper end of the passenger side windshield glass. Damage to the system parts could occur and may not be covered by your vehicle warranty.
 
 ### Automatic ventilation
-`kia_ev6_en_340f17f9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The system automatically selects the outside (fresh) air position when the climate control system operates over a certain period of time (5 minutes) in low temperature with the recirculated air position selected.
 
 ### To cancel or reset the Automatic Ventilation
-`kia_ev6_en_c93beefa` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the air conditioning system is on, select Face Level ( ) mode and press the recirculated air position button more than five times within 3 seconds while pressing A/C button.
 
 When the automatic ventilation is can celed, the indicator blinks 3 times. When the automatic ventilation is activated, the indicator blinks 6 times.
 
 ### Smart ventilation (if equipped)
-`kia_ev6_en_61a1759a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The smart ventilation system maintains pleasant/fresh air conditioning inside the passenger compartment by automatically detecting/controlling the temperature and humidity level, when you drive the vehicle with the climate control system in OFF position. When the smart ventilation system starts to operate, the message appears for approximately 5 seconds.
 
@@ -7837,19 +6917,16 @@ The smart ventilation system stops when:
 OFF button is selected. Any of the buttons of the climate control is selected for operation.
 
 ### A/C Automatic Drying (if equipped)
-`kia_ev6_en_62cb927b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A/C Automatic Drying feature dries the moisture in the air conditioner and reduces air conditioner odor. The blower motor automatically operates after 30 minutes the vehicle is turned off.
 
 ### Turning A/C Automatic Drying on or off
-`kia_ev6_en_8d881214` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The A/C Automatic Drying feature can be turned on and off by selecting Setup → Climate → Climate Features → A/C Automatic Drying from the infotainment system. See additional information in supplied infotainment manual. If the operating condition is satisfied after setting the feature, the operating condition is displayed on the infotain
 
 ment system screen and the blower motor automatically operates. When the A/C Automatic Drying feature is activated, the air conditioner sets the fan speed to the third level, selects Fresh mode, and directs the air flow to the floor.
 
 ### Operating conditions
-`kia_ev6_en_9a857fe7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The A/C Automatic Drying feature operates under the following conditions:
 
@@ -7857,7 +6934,6 @@ The vehicle is turned off after operating the air conditioner for a certain peri
 The 12-volt battery level is sufficient The outside temperature is above a certain level
 
 ### Non-operating conditions
-`kia_ev6_en_323cfd8a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The A/C Automatic Drying feature stops operating under the following conditions:
 
@@ -7866,7 +6942,6 @@ The EV button is pressed, or the vehicle is ON
 The climate control system is operated remotely
 
 ### \* NOTICE
-`kia_ev6_en_56fed073` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The A/C Automatic Drying feature
 reduces air conditioner odors but may not remove all odors.
@@ -7874,7 +6949,6 @@ The A/C Automatic Drying feature
 does not operate if the remaining battery level is insufficient to prevent battery discharge.
 
 ### Storage compartment
-`kia_ev6_en_4efef1a2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 These compartments can be used to store small items required by the driver or passengers.
 
@@ -7883,12 +6957,10 @@ ment.
 Always keep the storage compartment covers closed while driving. Do not attempt to place so many items in the storage compartment that the storage compartment cover cannot close securely.
 
 ### Flammable Materials
-`kia_ev6_en_1767d5c9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not store glasses, gas lighter, portable battery, canned beverage, spray can, propane cylinder, cosmetic tube or other flammable/explosive materials in the vehicle. These items may catch fire and/ or explode if the vehicle is exposed to hot temperatures for extended periods.
 
 ### Center console storage
-`kia_ev6_en_8fd44e35` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7f8f4cfd26b47026d55f27f69a0d46eacc9f3b73fa2ed1e74592006833b5b579.webp)
 
@@ -7897,7 +6969,6 @@ To open the center console storage:
 Pull up the lever.
 
 ### Glove box
-`kia_ev6_en_180d9619` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e0e575a4affef4df62190d7b485e1e4dc2a767fc15de6a976f2d0e8cd7d33290.webp)
 
@@ -7906,17 +6977,14 @@ To open the glove box:
 Push the lever and the glove box will automatically open. Close the glove box after use.
 
 ### Glove Box
-`kia_ev6_en_696390ff` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To reduce the risk of injury in an acci dent or sudden stop, always keep the glove box door closed while driving.
 
 ### \* NOTICE
-`kia_ev6_en_94787ddc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the temperature control switch is in the warm or hot position, warm or hot air will flow into the glove box.
 
 ### Luggage box
-`kia_ev6_en_cc6f24b8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/01ab77133be5c831b9b1988985789ac465253f7d26240fe5a3052b4d0e0a6328.webp)
 
@@ -7925,14 +6993,12 @@ You can place tools, etc. in the box for easy access.
 Grasp the handle on the edge of the cover and lift it.
 
 ### Ambient light (if equipped)
-`kia_ev6_en_6a08be8e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5468ccc72d2ecef66546ec9b19a29748e5ac98f0be3f58418329b552440fe808.webp)
 
 The ambient lights are installed in the front crash pad, front doors, and the top/bottom of the center console.
 
 ### Cup holder
-`kia_ev6_en_555e1bc0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8d938c9bdc4233b54e75bdd6ff113403a30b605d9313554d129e727dcbda5af6.webp)
 
@@ -7941,17 +7007,13 @@ Cups or small beverage cans may be placed in the cup holders.
 A WARNING
 
 ### Hot Liquids
-`kia_ev6_en_d8cc4592` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not place uncovered cups with hot liquid in the cup holder while the vehicle is in motion. I the hot liquid spills, you may burn yourself. Such a burn to the driver could lead to loss of control of the vehicle.
 
-### CAUTION
-`kia_ev6_en_9539958d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Keep your drinks sealed while driving to prevent spilling your drink. If liquid spills, it may get into the vehicle's electrical/electronic system and damage electrical/electronic parts. When cleaning spilled liquids, do not use heat to dry the cup holders. This may damage the cup holder.
+> ⚠️ **Внимание:** 
+> Keep your drinks sealed while driving to prevent spilling your drink. If liquid spills, it may get into the vehicle's electrical/electronic system and damage electrical/electronic parts. When cleaning spilled liquids, do not use heat to dry the cup holders. This may damage the cup holder.
 
 ### Seat warmer (if equipped)
-`kia_ev6_en_20c450c8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The seat warmer is provided to warm the front and rear (if equipped) seats during cold weather.
 
@@ -7964,7 +7026,6 @@ Push either of the buttons to warm the front and rear (if equipped) seats.
 During mild weather or under conditions where the operation of the seat warmer is not needed, keep the buttons in the "OFF" position.
 
 ### Temperature control (Manual)
-`kia_ev6_en_97cc6dbb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Each time you press the button, the temperature setting of the seat will change as follows:
 
@@ -7977,7 +7038,6 @@ OFF → HIGH( 真 → LOW()
 The seat warmer defaults to the OFF position whenever the EV button is turned on.
 
 ### Temperature control (Automatic)
-`kia_ev6_en_7e6006ad` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The seat warmer starts to automatically control the seat temperature in order to prevent low-temperature burns after being manually turned ON.
 
@@ -7986,12 +7046,10 @@ Front seat OFF→HIGH→MIDDLE(→LOW(） 30min 60min
 You may manually press the button to increase the seat temperature. However, it soon returns to the automatic mode again. When pressing the button for more than 1.5 seconds with the seat warmer operating, the seat warmer will turn OFF. The seat warmer defaults to the OFF position whenever the vehicle is in the ON position.
 
 ### \* NOTICE
-`kia_ev6_en_59a5b19c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 With the seat warmer button in the ON position, the heating system in the seat turns off or on automatically depending on the seat temperature.
 
 ### Seat Warmer Burns
-`kia_ev6_en_5a1a7fe3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The seat warmer may cause burns, even at low temperature, if used over a long period of time. Never allow passengers who may not be able to take care of themselves to be exposed to the risk of seat heater burns. These include:
 
@@ -8002,7 +7060,6 @@ The seat warmer may cause burns, even at low temperature, if used over a long pe
 5. Individuals taking medication that can cause drowsiness or sleepiness (sleeping pills, cold tablets, etc.)
 
 ### Air ventilation seat (if equipped)
-`kia_ev6_en_dfef2bcb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2d35b6c428ce295d2b93ae8a41e95952461e40997aeefade771b338ace81ebc3.webp)
 
@@ -8015,12 +7072,10 @@ OFF→HIGH →MIDDLE(→LOW(
 The seat warmer (with air ventilation) defaults to the OFF position whenever the EV button is turned on.
 
 ### Seat Damage
-`kia_ev6_en_ae662b3d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When cleaning the seats, do not use an organic solvent, such as paint thinner, benzene, alcohol and gasoline. Doing so may damage the air ventilation seat. Do not place heavy or sharp objects on the seat. Those things may damage the air ventilation seat. Be careful not to spill liquid, such as water or beverages, on the seat. If you spill some liquid, wipe the seat with a dry towel. Before using the air ventilation seat, dry the seat completely.
 
 ### Sun visor
-`kia_ev6_en_dd742864` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Use the sun visor to shield direct light through the front or side windows.
 
@@ -8035,12 +7090,10 @@ Adjust the sun visor extension forward or backward (3). (if equipped)
 The ticket holder (5) is provided for holding a tollgate ticket.
 
 ### Vanity Mirror Lamp
-`kia_ev6_en_e0c575ec` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you use the vanity mirror lamp, turn off the lamp before returning the sun visor to its original position; otherwise, it could result in battery discharge and possible sun visor damage.
 
 ### Power outlet
-`kia_ev6_en_a360c3ac` | ev6 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 The power outlet is designed to provide power for mobile telephones or other devices designed to operate with vehicle electrical systems.
 
@@ -8058,12 +7111,10 @@ Some electronic devices can cause electronic interference when plugged into a ve
 Push the plug in as far as it will go. If good contact is not made, the plug may overheat and the fuse may open. Plug in battery equipped electronic devices with reverse current protection. The current from the battery may flow into the vehicle's electrical/electronic system and cause system malfunction.
 
 ### Electric Shock
-`kia_ev6_en_bbd116f5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not put a finger or a foreign object (pen, etc.) into a power outlet and do not touch with a wet hand. You may get an electric shock.
 
 ### USB charger (if equipped)
-`kia_ev6_en_ba26023b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The USB charger is designed to recharge batteries of small size electrical devices using a USB cable.
 
@@ -8074,7 +7125,6 @@ The USB charger is designed to recharge batteries of small size electrical devic
 The electrical devices can be recharged when the vehicle is in ACC/ON position. The battery charging state may be monitored on the electrical device. Disconnect the USB cable from the USB port after use.
 
 ### \* NOTICE
-`kia_ev6_en_ab563061` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Some devices are not supported for fast charging but will be charged with normal speed.
 Use the USB charger when the vehicle is on to prevent battery discharge. Only devices that fit the USB port can be used.
@@ -8082,7 +7132,6 @@ The USB charger can be used only for battery charging purposes.
 Battery chargers cannot be charged.
 
 ### \* INFORMATION
-`kia_ev6_en_54c7efc5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Power Delivery 3.0 is available on the smart phone or the tablet PC equipped with fast charging capabilities.
 It is applicable to digital devices with USB C-type.
@@ -8091,7 +7140,6 @@ Charging speed is determined according to the charging specification of the con 
 Rated output Digital device with fast charging: 9.0 V/Max 3.0 A Digital devices with normal charging: 5.0 V/Max 3.0 A
 
 ### Wireless smart phone charging system
-`kia_ev6_en_4bf199ab` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A wireless smart phone charging system is located on the center console.
 
@@ -8106,7 +7154,6 @@ For best wireless charging results, place the smart phone on the center of the c
 The wireless charging system is designed for one smart phone equipped with QI per single usage only. Please refer to the smart phone accessory cover or the smart phone manufacturer homepage to check whether your smart phone supports QI function.
 
 ### Charging wireless smart phone
-`kia_ev6_en_0cb31dbe` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Remove any object on the smart phone charging pad including the smart key. If there is any foreign object on the pad other than a smart phone, the wireless charging function may not operate properly. 2. Place the smart phone on the center of the wireless charging pad. The indicator light will change to orange once the wireless charging begins. After the charging is com
 
@@ -8123,22 +7170,18 @@ If the wireless charging is not functioning properly, the orange light will blin
 If you leave the smart phone on the charging pad when the vehicle is turned off, the vehicle will alert you through warning messages and sound (applicable for vehicles with voice guidance function) after the 'Good bye' function on the instrument cluster ends.
 
 ### Distracted Driving
-`kia_ev6_en_37152fe9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Driving while distracted can result in a loss of vehicle control that may lead to an accident, severe bodily injury, or death. The driver's primary responsibility is in the safe and legal operation of a vehicle. Any use of handheld devices, other equipment, or vehicle systems that take the driver's eyes, attention, and focus away from the safe operation of a vehicle are not permissible by law. These should never be used during the operation of the vehicle.
 
 ### Liquid in Wireless Smart Phone Charger
-`kia_ev6_en_86c11dfd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To prevent liquid from damaging the wireless smart phone charging system in your vehicle, be sure not to spill liquid over the charging system when charging your phone.
 
 ### Metal in Wireless Charging System
-`kia_ev6_en_f21ae174` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If any metallic object, system such as c coin, is located between the wireless charging system and the smart phone, the charging may be disrupted. Also, the metallic object may heat up and potentially damage the charging system. If there is any metallic object between the smart phone and the charging pad, immediately remove the smart phone. Remove the metallic object after it has cooled down.
 
 ### \* NOTICE
-`kia_ev6_en_6c45f708` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the interior temperature of the wireless charging system rises above a set temperature, the wireless
 charging system will cease to function. After the interior temperature drops below the threshold, the wireless charging function will resume. The wireless charging system may not function properly when there is a
@@ -8168,14 +7211,12 @@ wireless charging speed may
 decrease and the wireless charging may stop.
 
 ### This device complies with part 15 of the FCC Rules
-`kia_ev6_en_6e286109` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Operation is subject to the following two conditions:
 
 1. This device may not cause harmful interference, and 2. This device must accept any interference received, including interference that may cause undesired operation.
 
 ### Coat hook
-`kia_ev6_en_5b55a470` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A coat hook is next to the rear grab handle.
 
@@ -8183,22 +7224,18 @@ A coat hook is next to the rear grab handle.
 
 This actual feature may differ from the illustration.
 
-### WARNING
-`kia_ev6_en_ead8ef29` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Do not hang other objects, such as hangers or hard objects except clothes. Also, do not put heavy, sharp or breakable objects in the clothing's pockets. In an accident or when the curtain air bag is inflated, it may cause vehicle damage or personal injury.
-
-![](images/ab5573c5f8fe0b22d1487ea121dbfa9feb87c2f6efd8d4626a813dc0f289601a.webp)
+> ⚠️ **Внимание:** 
+> Do not hang other objects, such as hangers or hard objects except clothes. Also, do not put heavy, sharp or breakable objects in the clothing's pockets. In an accident or when the curtain air bag is inflated, it may cause vehicle damage or personal injury.
+>
+> ![](images/ab5573c5f8fe0b22d1487ea121dbfa9feb87c2f6efd8d4626a813dc0f289601a.webp)
 
 ### Floor mat anchor(s)
-`kia_ev6_en_eef19eb9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e9083ffa10dbb7cb61675cac3e5f14041192a1216808e8948201d0fdc5acfb6d.webp)
 
 When using a floor mat on the front floor carpet, make sure it attaches to the floor mat anchor(s) in your vehicle. This keeps the floor mat from sliding forward.
 
 ### Aftermarket Floor Mat
-`kia_ev6_en_f8f4c447` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not install after market floor mats that are not capable of being securely attached to the vehicle's floor mat anchors.
 
@@ -8213,12 +7250,10 @@ floor mat anchors.
 Do not stack floor mats on top of one another (e.g. all-weather rubber mat on top of a carpeted floor mat). Only a single floor mat should be installed in each position.
 
 ### \* NOTICE
-`kia_ev6_en_74257e8d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Your vehicle was manufactured with driver's side floor mat anchors that are designed to securely hold the floor mat in place. To avoid any interference with pedal operation, Kia recommends that only the Kia floor mat designed for use in your vehicle be installed.
 
 ### Luggage net holder
-`kia_ev6_en_a116924f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To keep items from shifting in the cargo area, you can use the holders located in the cargo area to attach the luggage net. (if equipped)
 
@@ -8227,19 +7262,16 @@ To keep items from shifting in the cargo area, you can use the holders located i
 If necessary, we recommend that you contact an authorized Kia dealer.
 
 ### ！ CAUTION
-`kia_ev6_en_5dbd69fa` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2e0798ae1135052969dc5b318665ea805e72479c16f0787e9deff07b8d741000.webp)
 
 To prevent damage to the vehicle, care should be taken when carrying fragile or bulky objects in the luggage compartment.
 
 ### Luggage net
-`kia_ev6_en_64f9d454` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Always keep your face and body out of the luggage net recoil path and avoid using the luggage net when the straps have visible signs of wear or damage. The luggage net can snap and cause injuries.
 
 ### Cargo security screen (if equipped)
-`kia_ev6_en_8c2bc792` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Use the cargo security screen to hide items stored in the cargo area.
 
@@ -8248,19 +7280,15 @@ Use the cargo security screen to hide items stored in the cargo area.
 To use the cargo security screen, pull the handle backward and insert the edges into the slots.
 
 ### Cargo Security Screen
-`kia_ev6_en_6caa34bf` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not place objects on the cargo security screen. Such objects may be thrown about inside the vehicle and possibly injure vehicle occupants during an accident or when braking.
 
-### CAUTION
-`kia_ev6_en_6a02096f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-![](images/3b81b718aeb8284fda0480367edb42930a7a53bfc81b2040a6f3a1281145fdcd.webp)
-
-Do not place luggage on the cargo security screen. This may cause the security screen to become damaged or mal formed.
+> ⚠️ **Внимание:** 
+> ![](images/3b81b718aeb8284fda0480367edb42930a7a53bfc81b2040a6f3a1281145fdcd.webp)
+>
+> Do not place luggage on the cargo security screen. This may cause the security screen to become damaged or mal formed.
 
 ### \* NOTICE
-`kia_ev6_en_c188c38e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you install an after market HID head lamp, your vehicle's audio and electronic device may malfunction.
 
@@ -8273,21 +7301,18 @@ The shark fin antenna receives data transmitted from base stations and satellite
 The signals which antenna can transmit and receive vary by the vehicle option.
 
 ### USB port
-`kia_ev6_en_5e45430f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You can use a USB port to plug in a USB.
 
 ![](images/6a38b9d9f64344829dab878755fe856f441823bdb29781d83306f7cf5a931b7d.webp)
 
 ### Using the infotainment/climate switchable controller
-`kia_ev6_en_6a200612` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/41de77352ecf228f1c4c4a57897fb3ee5e89318d67ba270b9267c60f3a6788f6.webp)
 
 Press the button on the switchable con troller to switch between infotainment system or climate control panel. Press and hold the button to select the default mode for the control panel.
 
 ### Switching between panels
-`kia_ev6_en_cae09a67` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Infotainment control panel
 
@@ -8302,7 +7327,6 @@ The knob display will be illuminated according to the selected control panel mod
 When the vehicle is in the ACC posi tion, only the infotainment system will be activated.
 
 ### Setting the default mode
-`kia_ev6_en_1511b399` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/17b5a2bfe97e9189f49e47859b881d40f328497ba80df79a560b0cd58ba8fe88.webp)
 
@@ -8314,7 +7338,6 @@ If the mode is set to 'OFF', the control panel will display the mode used
 recently.
 
 ### FM reception
-`kia_ev6_en_cbd6c55d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ddc84e782b643dfd27a4f229c58bb93c16eee63e078a6a250934ce3f403e1cf2.webp)
 
@@ -8325,14 +7348,12 @@ However, in some cases the signal coming to your vehicle may not be strong and c
 This can be due to factors, such as the distance from the radio station, closeness of other strong radio stations or the presence of buildings, bridges or other large obstructions in the area.
 
 ### AM reception
-`kia_ev6_en_4f5c9034` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/984b57fc8561ea38fa77203c3246a7c5ff31475c457edc1537cadd15cb30e607.webp)
 
 AM broadcasts can be received at greater distances than FM broadcasts. This is because AM radio waves are transmitted at low frequencies. These long distance, low frequency radio waves can follow the curvature of the earth rather than traveling straight. In addition, they curve around obstructions resulting in better signal coverage.
 
 ### FM radio station
-`kia_ev6_en_d6304ca8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/6bd11b9115b9a73399715d86a5f2ad0522799df31f3224af0fb735265cd4de1a.webp)
 
@@ -8355,19 +7376,16 @@ Station Swapping As an FM signal weakens, another more powerful signal near the 
 Multi-Path Cancellation Radio signals being received from several directions can cause distortion or fluttering. This can be caused by a direct and reflected signal from the same station, or by signals from two stations with close frequencies. If this occurs, select another station until the condition has passed.
 
 ### Using a cellular phone or a twoway radio
-`kia_ev6_en_618cd028` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When a cellular phone is used inside the vehicle, noise may be produced from the audio system. This does not mean that something is wrong with the audio equipment. In such a case, try to operate mobile devices as far from the audio equipment as possible.
 
 When using a communication system such as a cellular phone or a radio set inside the vehicle, a separate external antenna must be fitted. When a cellular phone or a radio set is used with an internal antenna alone, it may interfere with the vehicle's electrica system and adversely affect safe operation of the vehicle.
 
 ### Distracted Driving
-`kia_ev6_en_37152fe9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Driving while distracted can result in a loss of vehicle control that may lead to an accident, severe bodily injury, or death. The driver's primary responsibility is in the safe and legal operation of a vehicle. Any use of handheld devices, other equipment, or vehicle systems that take the driver's eyes, attention, and focus away from the safe operation of a vehicle are not permissible by law. These should never be used during the operation of the vehicle.
 
 ### FCC
-`kia_ev6_en_87b63f1b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to part 15 of the FCC Rules. These limits are designed to provide reasonable protec tion against harmful interference in a residential installation.
 
@@ -8386,7 +7404,6 @@ This equipment complies with FCC radiation exposure limits set forth for an unco
 This equipment should be installed and operated with minimum 8 inches (20 cm) between the radiator and your body. This transmitter must not be collocated or operating in conjunction with any other antenna or transmitter unless authorized to do so by the FCC.
 
 ### Reduction gear T 6-10
-`kia_ev6_en_7de2abbf` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Reduction gear operation.   . 6-10
 Parking     6-11
@@ -8394,7 +7411,6 @@ LCD display messages  6-12
 Good driving practices   6-14
 
 ### Smart regeneration system 6-17
-`kia_ev6_en_245325af` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Setting smart regeneration system. . 6-17
 Smart regeneration system activation ·… .\*.. 6-17
@@ -8405,7 +7421,6 @@ System malfunction 6-20
 Limitations of the system 6-20
 
 ### Brake system 6-23
-`kia_ev6_en_71b194f9` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Power brakes ..··   6-23
 Electronic Parking Brake (EPB) 皖  6-24
@@ -8418,52 +7433,44 @@ Hill-start Assist Control (HAC)   6 -35
 Brake Assist System (BAS)   .6-36
 
 ### Forward Collision-Avoidance Assist (FCA) . 6-46
-`kia_ev6_en_11054e70` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Forward Collision-Avoidance Assist settings  6-49 Forward Collision-Avoidance Assist operation . · . 6-51 Forward Collision-Avoidance Assist malfunction and limitations. .6-58
 
 ### Lane Keeping Assist (LKA) 6-65
-`kia_ev6_en_b53b8f2b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Lane Keeping Assist settings .  6-66
 Lane Keeping Assist operation .   6-67
 Lane Keeping Assist malfunction and limitations  .6-68
 
 ### Blind-Spot Collision-Avoidance Assist (BCA) m 6-70
-`kia_ev6_en_4d5fd2f1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Blind-Spot Collision-Avoidance Assist settings  6-72 Blind-Spot Collision-Avoidance Assist operation . .6-73 Blind-Spot Collision-Avoidance Assist malfunction and limitations  6-76
 
 ### Safe Exit Warning (SEW) . 6-80
-`kia_ev6_en_27dd2f80` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Safe Exit Warning settings   6-81
 Safe Exit Warning operation ·····\*·· \*\*\* .6-82
 Safe Exit Warning malfunction and limitations .6-83
 
 ### Intelligent Speed Limit Assist (ISLA) . 6-91
-`kia_ev6_en_6f3d13ef` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Intelligent Speed Limit Assist settings.   6-92
 Intelligent Speed Limit Assist operation   .6-93
 Intelligent Speed Limit Assist malfunction and limitations   6-94
 
 ### Driver Attention Warning (DAW) 6-96
-`kia_ev6_en_bc72509e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Driver Attention Warning settings .· .\*\*\*\*\*\*\*\*\*\*·· .6-97
 Driver Attention Warning operation . ··· 6-98
 Driver Attention Warning malfunction and limitations 6-100
 
 ### Blind-Spot View Monitor (BVM) = 6-102
-`kia_ev6_en_5925103b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Blind-Spot View Monitor settings . 皖 6-102
 Blind-Spot View Monitor operation   6-102
 Blind-Spot View Monitor malfunction …\*\*\*\*\*\*\*\*\*\*\*·\*\*\*\*\*\*\*\*\*\*\*\*· 6-103
 
 ### Smart Cruise Control (SCC) m 6-103
-`kia_ev6_en_7e670975` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Smart Cruise Control settings.   6-104
 Smart Cruise Control operation. .. ·\*\*\*\*\*\*\*\*.· 6-108
@@ -8471,63 +7478,53 @@ Smart Cruise Control display and control \*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\* 6
 Smart Cruise Control malfunction and limitations 6-113
 
 ### Navigation-based Smart Cruise Control (NSCC) m □000 6-118
-`kia_ev6_en_12bddc59` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Navigation-based Smart Cruise Control settings   6-118
 Navigation-based Smart Cruise Control operation.   ...\*.. 6-119
 Navigation-based Smart Cruise Control limitations  6-121
 
 ### Lane Following Assist (LFA). … 6-124
-`kia_ev6_en_a644e45c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Lane Following Assist settings..    6-124
 Lane Following Assist operation 6-125
 Lane Following Assist malfunction and limitations . 6-126
 
 ### Highway Driving Assist (HDA) 中 6-127
-`kia_ev6_en_f47c9feb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Highway Driving Assist settings   .6-128
 Highway Driving Assist operation …. . 6-129
 Highway Driving Assist malfunction and limitations.  6-134
 
 ### Rear View Monitor (RVM) 6-137
-`kia_ev6_en_317c81b5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear View Monitor settings   6-137
 Rear View Monitor operation . 6-137
 Rear View Monitor malfunction and limitations 6-139
 
 ### Surround View Monitor (SVM) 6-139
-`kia_ev6_en_cbda9745` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Surround View Monitor settings. .…. .\*\*\*\*. 6-140
 Surround View Monitor operation 6-141
 Surround View Monitor malfunction and limitations .. 6-142
 
 ### Rear Cross-Traffic Collision-Avoidance Assist (RCCA) ........6-143
-`kia_ev6_en_04959700` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear Cross-Traffic Collision-Avoidance Assist settings   6-144 Rear Cross-Traffic Collision-Avoidance Assist operation 6-145 Rear Cross-Traffic Collision-Avoidance Assist malfunction and limitations .6-148
 
 ### Reverse Parking Distance Warning (PDW) 6-151
-`kia_ev6_en_03933a6a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Reverse Parking Distance Warning settings. .6-151 Reverse Parking Distance Warning operation .······ 6-152 Reverse Parking Distance Warning malfunction and precautions. 6-152
 
 ### Forward/Reverse Parking Distance Warning (PDW). ...........6-154
-`kia_ev6_en_eebba3aa` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Forward/Reverse Parking Distance Warning settings..   .6-155 Forward/Reverse Parking Distance Warning operation   .6-155 Forward/Reverse Parking Distance Warning malfunction and precautions   6-157
 
 ### Reverse Parking Collision-Avoidance Assist (PCA) 6-159
-`kia_ev6_en_f7e5b000` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Reverse Parking Collision- Avoidance Assist settings   6-159
 Reverse Parking Collision- Avoidance Assist operation   6-160
 
 ### Driving your vehicle 6
-`kia_ev6_en_c00ab91b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Reverse Parking Collision- Avoidance Assist malfunction
 and limitations. 6-161
@@ -8551,17 +7548,14 @@ Certification label     6-207
 Vehicle weight   6-208
 
 ### Driving your vehicle Before driving
-`kia_ev6_en_e5cdedc0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before getting into the vehicle, you should examine the car and its surroundings. After getting into the vehicle, you should check a number of things before driving.
 
 ### Before entering the vehicle
-`kia_ev6_en_f82b510e` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Be sure that all windows, outside mirror(s), and outside lights are clean. Check the condition of the tires. Check under the vehicle for any sign of leaks. Be sure there are no obstacles behind you if you intend to back up.
 
 ### Before starting
-`kia_ev6_en_040b1c74` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Close and lock all doors.
 Position the seat so that all controls are easily reached.
@@ -8576,37 +7570,30 @@ Release the parking brake and make sure the brake warning light goes out.
 For safe operation, be sure you are familiar with your vehicle and its equipment.
 
 ### Check Surroundings
-`kia_ev6_en_4a4d3632` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Always check the surrounding areas near your vehicle for pedestrians, especially children, before putting a vehicle into D (Drive) or R (Reverse).
 
 ### Loose Objects
-`kia_ev6_en_df526c7b` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Securely store items in your vehicle. When you make a sudden stop or turn the steering wheel rapidly; loose objects may drop on the floor and it could interfere with the operation of the foot pedals, possibly causing an accident.
 
 ### Proper Footwear
-`kia_ev6_en_52eb580f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Always wear appropriate shoes when operating your vehicle. Unsuitable shoes (high heels, ski boots, sandals, etc.) may interfere with your ability to use the brake and accelerator pedals.
 
 ### Driving While Intoxicated
-`kia_ev6_en_48348bcd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not drive while intoxicated. Drinking and driving is dangerous. Even a small amount of alcohol will affect your reflexes, perceptions and judgment. Driving while under the influence of drugs is as dangerous as or more dangerous than driving drunk.
 
 ### Distracted Driving
-`kia_ev6_en_f4e7e541` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Focus on the road while driving. The driver's primary responsibility is in the safe and legal operation of the vehicle. Use of any handled devices, other equipment or vehicle systems that distract the driver should not be used during vehicle operation.
 
 ### California Proposition 65
-`kia_ev6_en_6d732042` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Engine exhaust and a wide variety of automobile compo nents and parts, including components found in the interior furnishings in a vehicle, contain or emit chemicals known to the State of California to cause cancer and birth defects and reproductive harm. In addition, certain fluid contained in vehicles and certain products of component wear contain or emit chemicals known to the State of California to cause cancer and birth defects or other repro ductive harm.
 
 ### EV button
-`kia_ev6_en_4782ef41` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Whenever the front door is opened, the EV button will illuminate for your convenience.
 
@@ -8617,26 +7604,22 @@ The light will go off after about 30 sec onds when the door is closed.
 When all doors are closed, if you lock the vehicle by using the transmitter or the smart key, the light will go off immediately.
 
 ### OFF
-`kia_ev6_en_75af049a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To turn off the vehicle power (ON position), press the EV button with the shifter dial in the P (Park) position. When you press the EV button without the shifter dial in the P (Park) position, the EV button will not change to the OFF position but to the ACC position.
 
 ### ACC (Accessory)
-`kia_ev6_en_f588c588` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Press the EV button while it is in the OFF position without depressing the brake pedal.
 
 If the EV button is in the ACC position for more than hour, the button is turned off automatically to prevent battery discharge.
 
 ### ON
-`kia_ev6_en_06bd0580` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Press the EV button while it is in the ACC position without depressing the brake pedal.
 
 The warning lights can be checked before the vehicle is started. Do not leave the EV button in the ON position for a long time. The battery may discharge, because the vehicle is not running.
 
 ### START/RUN
-`kia_ev6_en_6d88991f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To start the vehicle, depress the brake pedal and press the EV button with the shifter dial in the P (Park) position. For your safety, start the vehicle with the shifter dial in the P (Park) position.
 
@@ -8645,33 +7628,27 @@ If you press the EV button without depressing the brake pedal, the vehicle will 
 Go to OFF → ACC → ON → OFF or ACC
 
 ### Starting Vehicle
-`kia_ev6_en_42c4e617` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never press the EV button while the vehicle is in motion except in an emergency. This would result in loss of directional control and braking function, which could cause an accident.
 
 ### Leaving the Vehicle
-`kia_ev6_en_46a513a3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To avoid unexpected or sudden vehicle movement, never leave your vehicle if the reduction gear is not locked in the P (Park) position and the parking brake is fully engaged. Before leaving the driver's seat, always make sure the reduction gear is engaged in P (Park), set the parking brake fully and shut the vehicle off.
 
-### WARNING
-`kia_ev6_en_3e15ddf1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Do not start the vehicle with the accelerator pedal depressed. The vehicle can move and lead to an accident.
-
-The vehicle will start by pressing the EV button, only when the smart key is in the vehicle. Even when the smart key is in the vehicle, if it is far away from the driver, the vehicle may not start. When the EV button is in the ACC or ON position, and any door is open, the system checks for the smart key. When the smart key is not in the vehicle, the READY indicator will blink and Key not in vehicle message will come on. When all doors are closed, the chime will also sound for about 5 seconds. Keep the smart key in the vehicle when in the ACC position or if the vehicle is ON. 1. Always carry the smart key with you. 2. Make sure the parking brake is applied. 3. Make sure the shifter dial is in P (Park). 4. Depress the brake pedal.
-
-5. Press the EV button. If the vehicle starts, the READY indicator will come on.
+> ⚠️ **Внимание:** 
+> Do not start the vehicle with the accelerator pedal depressed. The vehicle can move and lead to an accident.
+>
+> The vehicle will start by pressing the EV button, only when the smart key is in the vehicle. Even when the smart key is in the vehicle, if it is far away from the driver, the vehicle may not start. When the EV button is in the ACC or ON position, and any door is open, the system checks for the smart key. When the smart key is not in the vehicle, the READY indicator will blink and Key not in vehicle message will come on. When all doors are closed, the chime will also sound for about 5 seconds. Keep the smart key in the vehicle when in the ACC position or if the vehicle is ON. 1. Always carry the smart key with you. 2. Make sure the parking brake is applied. 3. Make sure the shifter dial is in P (Park). 4. Depress the brake pedal.
+>
+> 5. Press the EV button. If the vehicle starts, the READY indicator will come on.
 
 ### \* NOTICE
-`kia_ev6_en_cdfcb0e8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Always start the vehicle with your foot on the brake pedal. Do not depress the accelerator while starting the vehicle.
 If ambient temperature is low, the
 READY indicator may remain illuminated longer than the normal amount of time.
 
 ### \* NOTICE
-`kia_ev6_en_e6d16b0c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To prevent damage to the vehicle:
 
@@ -8679,7 +7656,6 @@ If the READY indicator turns off while you are in motion, do not attempt to move
 If traffic and road conditions permit, you may put the shifter dial in the N (Neutral) position while the vehicle is still moving and press the EV button in an attempt to restart the vehicle. Do not push or tow your vehicle to start the vehicle.
 
 ### Unintended Vehicle Movement
-`kia_ev6_en_48ac398b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never leave the smart key in the vehicle with children or vehicle occupants who are unfamiliar with the vehicle operation. Pushing the EV button while the smart key is in the vehicle may result in unintended vehicle activation and/or unin tended vehicle movement.
 
@@ -8696,7 +7672,6 @@ When the stop lamp fuse is blown, you can't start the vehicle normally. Replace 
 Do not press the EV button for more than 10 seconds except when the stop lamp fuse is blown.
 
 ### Turning off the vehicle
-`kia_ev6_en_5f8c7d0c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Depress the brake pedal fully.
 2. Shift to P (Park).
@@ -8705,35 +7680,29 @@ Do not press the EV button for more than 10 seconds except when the stop lamp fu
 5. Make sure the READY indicator light on the instrument cluster is turned off.
 
 ### ！ CAUTION
-`kia_ev6_en_4822d078` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the READY indicator light on the instrument cluster is still on, the vehicle is not turned off and can move when the gear is in any position except P (Park).
 
 ### Reduction gear operation
-`kia_ev6_en_5ed92f24` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Select gear positions by turning the shifter dial.
 
 ![](images/34fb265ce70306dd093adc7aee565934e5a241f14455451d1d08800882f113d7.webp)
 
-### WARNING
-`kia_ev6_en_2855c973` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
-
-To reduce the risk of serious injury or death:
-
-ALWAYS check the surrounding areas near your vehicle for people, espe cially children, before shifting a vehicle into D (Drive) or R (Reverse). Before leaving the driver's seat, always make sure the gear is in the P (Park) position, then set the parking brake, and place the Power button in the OFF position. Unexpected and sudden vehicle movement can occur if these precautions are not followed.
-
-For your safety, always depress the brake pedal while shifting to another gear.
+> ⚠️ **Внимание:** 
+> To reduce the risk of serious injury or death:
+>
+> ALWAYS check the surrounding areas near your vehicle for people, espe cially children, before shifting a vehicle into D (Drive) or R (Reverse). Before leaving the driver's seat, always make sure the gear is in the P (Park) position, then set the parking brake, and place the Power button in the OFF position. Unexpected and sudden vehicle movement can occur if these precautions are not followed.
+>
+> For your safety, always depress the brake pedal while shifting to another gear.
 
 ### Gear position
-`kia_ev6_en_119d18cf` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/068fa3d1300482e6d8cbc7dad5f57ac8ec6b59620208bc77474fbcdc679a6f53.webp)
 
 The indicator in the instrument cluster displays the gear position when the EV button is in the ON position.
 
 ### P (Park)
-`kia_ev6_en_0cb594b5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Always come to a complete stop before shifting into P (Park).
 
@@ -8747,28 +7716,23 @@ The vehicle speed is below mph (2 km/h).
 
 When the vehicle is over a certain speed, the gear does not shift to P (Park) when the [P] button is pressed.
 
-### WARNING
-`kia_ev6_en_0661be8b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Shifting into P (Park) while the vehicle is in motion may cause you to lose control of the vehicle.
-After the vehicle has stopped, always make sure the gear is in P (Park),
-apply the parking brake, and turn the vehicle off.
-Do not use the P (Park) position in place of the parking brake.
+> ⚠️ **Внимание:** 
+> Shifting into P (Park) while the vehicle is in motion may cause you to lose control of the vehicle.
+> After the vehicle has stopped, always make sure the gear is in P (Park),
+> apply the parking brake, and turn the vehicle off.
+> Do not use the P (Park) position in place of the parking brake.
 
 ### R (Reverse)
-`kia_ev6_en_d924f017` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Use this position to drive the vehicle backward.
 
 To shift to R (Reverse), turn the shifter dial to R (Reverse) position while depressing the brake pedal.
 
 ### Shifting
-`kia_ev6_en_26248402` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Always come to a complete stop before shifting into or out of R (Reverse); you may damage the reduction gear if you shift into R (Reverse) while the vehicle is in motion, except on "Rocking the vehicle" on page 6-190.
 
 ### N (Neutral)
-`kia_ev6_en_eac8795b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To shift to N (Neutral) from P (Park), turn the shifter dial to N (Neutral) position while depressing the brake pedal.
 
@@ -8779,12 +7743,10 @@ To turn off the vehicle from the ACC position, press the [P] button within 3 min
 When the driver's door is opened within 3 minutes with the EV button in the ACC position and the gear in N (Neutral), the vehicle is automatically turned OFF and shifted to the P (Park) position.
 
 ### D (Drive)
-`kia_ev6_en_6b7e7a66` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This is the normal driving position. To shift to D (Drive), turn the shifter dial to D (Drive) position while depressing the brake pedal.
 
 ### Shift-lock system
-`kia_ev6_en_44f1f913` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For your safety, your vehicle has a shiftlock system which prevents shifting the gear from P (Park) or N (Neutral) into R (Reverse) or D (Drive) unless the brake pedal is depressed.
 
@@ -8793,14 +7755,12 @@ To shift from P (Park) or N (Neutral) into R (Reverse) or D (Drive), from R (Rev
 1. Depress and hold the brake pedal. 2. Start the vehicle or place the EV button in the ON position. 3. Press the R (Reverse) or D (Drive) button.
 
 ### When the battery (12V) is discharged
-`kia_ev6_en_ccc9f2a9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You cannot shift the gear when the battery is discharged.
 
 Jump start your vehicle (refer to "Jump starting (12V battery)" on page 7-4) or contact an authorized Kia dealer.
 
 ### Parking
-`kia_ev6_en_65077266` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Always come to a complete stop and continue to depress the brake pedal.
 2. Shift to the P (Park) position.
@@ -8809,29 +7769,24 @@ Jump start your vehicle (refer to "Jump starting (12V battery)" on page 7-4) or 
 5. Take the key with you when leaving the vehicle.
 
 ### LCD display messages
-`kia_ev6_en_ea52a262` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If a message appears on the LCD display, refer to the next section for the appropriate steps to take.
 
 ### A: Shifting conditions not met, Reduce speed, then shift
-`kia_ev6_en_a740dde2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The message appears on the LCD display in the following conditions:
 
 1. When driving speed is too fast to shift the gear. Decrease the vehicle speed or slow down before shifting the gear. 2. When the gear is shifted while the vehicle is in Utility mode.
 
 ### A: Press brake pedal to change gear
-`kia_ev6_en_1ab71396` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The message appears on the LCD display, when the brake pedal is not depressed while shifting the gear. Depress the brake pedal and then shift the gear.
 
 ### A: Shift to P after stopping
-`kia_ev6_en_9db6ec29` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The message appears on the LCD display when the gear is shifted to P (Park) while the vehicle is moving. Stop the vehicle before shifting to P (Park).
 
 ### A: Gear already selected
-`kia_ev6_en_ba2e7937` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The message appears on the LCD display when the selected gear button is pressed again.
 
@@ -8840,48 +7795,41 @@ PARK malfunction. Engage park ing brake when parking vehicle
 ![](images/925440d5c932ec266a51c9c8f0376496bd8f05e97582fddc82a16f8ec3a85a34.webp)
 
 ### A: PARK malfunction. Engage parking brake when parking vehicle
-`kia_ev6_en_ad67c154` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The message is displayed when there is a problem with function engaging P (Park) position.
 
 Immediately have the vehicle inspected by an authorized Kia dealer.
 
 ### A: Check P button
-`kia_ev6_en_39238d32` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The message appears on the LCD display when there is problem with the P button.
 
 Immediately have the vehicle inspected by an authorized Kia dealer.
 
 ### A: Check shifter dial
-`kia_ev6_en_0060fd95` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The message appears on the LCD display when there is problem with the shift buttons.
 
 Immediately have the vehicle inspected by an authorized Kia dealer
 
 ### A: Rotary shifter stuck
-`kia_ev6_en_92c02156` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The message appears on the LCD display when the shifter dial is continuously stuck or there is problem with the shifter dial.
 
 Make sure that there is no object over the shifter dial. If the problem persists, immediately have the vehicle inspected by an authorized Kia dealer.
 
 ### A: Shift button held down
-`kia_ev6_en_a8035d6e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The message appears on the LCD display when the shifter button is continuously pressed or there is problem with the button.
 
 Make sure that there is no object over the shift button. If the problem persists, immediately have the system checked by an authorized Kia dealer.
 
 ### A: Rotary shifter turned while pressing P
-`kia_ev6_en_2e90ee50` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The message appears on the LCD display when the shifter dial is not turned while pressing P button.
 Make sure that shifter dial is not turned while pressing P button.
 
 ### Good driving practices
-`kia_ev6_en_e08bc974` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Good driving habits reduce the risk of accidents and help maintain vehicle performance.
 
@@ -8897,36 +7845,30 @@ wheels to lose traction and may cause loss of vehicle control resulting in an ac
 Optimum vehicle performance and economy is obtained by smoothly
 depressing and releasing the accelerator.
 
-### WARNING
-`kia_ev6_en_a5de7aed` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> When driving uphill or downhill, always shift to D (Drive) for driving forward or shift to R (Reverse) for driving backwards, and check the gear position indicated on the cluster before driving. Driving in the opposite direction of the selected gear can lead to a dangerous situation by shutting off the vehicle and affecting the braking performance.
 
-When driving uphill or downhill, always shift to D (Drive) for driving forward or shift to R (Reverse) for driving backwards, and check the gear position indicated on the cluster before driving. Driving in the opposite direction of the selected gear can lead to a dangerous situation by shutting off the vehicle and affecting the braking performance.
-
-### WARNING
-`kia_ev6_en_13f70953` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
-
-To reduce the risk of SERIOUS INJURY or DEATH:
-
-ALWAYS wear your seat belt. In a collision, an unbelted occupant is significantly more likely to be seriously
-injured or killed than a properly belted occupant.
-Avoid high speeds when cornering or turning.
-Do not make quick steering wheel movements, such as sharp lane
-changes or fast, sharp turns.
-The risk of rollover is greatly
-increased if you lose control of your vehicle at highway speeds.
-Loss of control often occurs if two or more wheels drop off the roadway and the driver over steers to reenter the roadway.
-In the event your vehicle leaves the roadway, do not steer sharply.
-Instead, slow down before pulling
-back into the travel lanes.
-Kia recommends you follow all posted speed limits.
+> ⚠️ **Внимание:** 
+> To reduce the risk of SERIOUS INJURY or DEATH:
+>
+> ALWAYS wear your seat belt. In a collision, an unbelted occupant is significantly more likely to be seriously
+> injured or killed than a properly belted occupant.
+> Avoid high speeds when cornering or turning.
+> Do not make quick steering wheel movements, such as sharp lane
+> changes or fast, sharp turns.
+> The risk of rollover is greatly
+> increased if you lose control of your vehicle at highway speeds.
+> Loss of control often occurs if two or more wheels drop off the roadway and the driver over steers to reenter the roadway.
+> In the event your vehicle leaves the roadway, do not steer sharply.
+> Instead, slow down before pulling
+> back into the travel lanes.
+> Kia recommends you follow all posted speed limits.
 
 ### Regenerative braking system
-`kia_ev6_en_39a0e5af` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The regenerative braking system allows you to charge the battery when you use the brakes to stop the vehicle.
 
 ### Regenerative braking (Paddle shifter)
-`kia_ev6_en_e7986d51` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The paddle shifter is used to adjust the regenerative braking level from 0 to 3 during decelerating or braking.
 
@@ -8943,7 +7885,6 @@ Pull and hold the right side paddle shifter for over second to turn on and off t
 Refer to "Smart regeneration system" on page 6-17.
 
 ### \* NOTICE
-`kia_ev6_en_3b6337f6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The paddle shifter does not operate when:
 
@@ -8968,7 +7909,6 @@ Initial setting of the regenerative braking level and adjustable range vary acco
 For more details, refer to "Drive mode integrated control system" on page 6- 38.
 
 ### To operate
-`kia_ev6_en_790161c9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Pull and hold the left side paddle
 shifter while coasting.
@@ -8979,7 +7919,6 @@ though the paddle shifter is released. While the One pedal driving is in activat
 accelerator pedal.
 
 ### Automatic engagement of EPB
-`kia_ev6_en_88dbae69` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 After the vehicle is stopped by the One Pedal Driving function, EPB is automatically engaged when any of these conditions occur:
 
@@ -8989,47 +7928,36 @@ The liftgate is open.
 5 minutes have passed after the vehicle has stopped.
 The system operation is limited due to other reasons.
 
-### WARNING
-`kia_ev6_en_340c660c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> Do not solely rely on one pedal driving to stop the vehicle. Stopping the vehicle may not be possible depending on the vehicle and road conditions. Pay attention to the road condition ahead and apply the brake if necessary. Avoid increasing the regenerative braking level suddenly on slippery roads (like snow or icy conditions) because it may lead to slipping of the tires and skidding of vehicle. It can be dangerous due to the loss of the vehicle's steering force.
 
-Do not solely rely on one pedal driving to stop the vehicle. Stopping the vehicle may not be possible depending on the vehicle and road conditions. Pay attention to the road condition ahead and apply the brake if necessary. Avoid increasing the regenerative braking level suddenly on slippery roads (like snow or icy conditions) because it may lead to slipping of the tires and skidding of vehicle. It can be dangerous due to the loss of the vehicle's steering force.
-
-### CAUTION
-`kia_ev6_en_4e12ba87` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-When the vehicle is stopped or parked by One Pedal Driving on the steep hills, be sure to depress the brake pedal.
+> ⚠️ **Внимание:** 
+> When the vehicle is stopped or parked by One Pedal Driving on the steep hills, be sure to depress the brake pedal.
 
 ### i-Pedal
-`kia_ev6_en_bb495bd9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 i-Pedal is controlled by the accelerator pedal. i-Pedal provides vehicle speed control (acceleration/deceleration, stopping) without manually controlling the paddle shifter.
 
 ### To operate
-`kia_ev6_en_11f840ce` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Pull the left side paddle shifter to level 3 regenerative braking system.
 Pull the left side paddle shifter once again when the regenerative braking level is 3.
 Check i-Pedal indicator symbol on the instrument cluster.
 
-### CAUTION
-`kia_ev6_en_67ce420a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-When the vehicle is stopped or parked by i-Pedal on the steep hills, be sure to depress the brake pedal.
+> ⚠️ **Внимание:** 
+> When the vehicle is stopped or parked by i-Pedal on the steep hills, be sure to depress the brake pedal.
 
 ### Smart regeneration system
-`kia_ev6_en_e5517992` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Smart Regeneration System con trols the regenerative braking automatically according to the road gradient and driving condition of the vehicle in front.
 
 The system minimizes the unnecessary operation of the brake and acceleration pedal, improving the electric efficiency and assisting the driver.
 
 ### Setting smart regeneration sys tem
-`kia_ev6_en_dbf1efa9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Pull and hold the right side paddle shifter for over second to turn on and off the automatic change of the regenerative braking. The automatic regenera tive braking adjustment by smart regeneration system is activated above the standard set level.
 
 ### Smart regeneration system activation
-`kia_ev6_en_42c2fd06` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 With 'AUTO' for the regenerative braking level displayed on the cluster, the regenerative braking level is controlled automatically when vehicle speed is above 6 mph (10 km/h) and one of the condition below is met.
 
@@ -9040,32 +7968,28 @@ Speed of the vehicle ahead reduces or
 increases
 
 ### \* NOTICE
-`kia_ev6_en_94c5c110` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The regenerative braking level can be adjusted based on the driver's deceleration style. (Strong/Medium/Gentle)
 To adjust the level, select Setup →
 Vehicle → ECO Vehicle → Smart
 Regeneration System in the infotainment system.
 
-### WARNING
-`kia_ev6_en_1b545272` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-When vehicle speed is under 6 mph (10 km/h), the Smart Regeneration System is canceled. The driver must adjust the vehicle speed by depressing the accelerator or brake pedal according to the road condition ahead and driving condition.
-
-When the system is turned on from the Vehicle Settings menu, but the front radar doesn't recognize the vehicle in front, 'AUTO' is displayed in white.
-
-![](images/93a3a030c19d124fd2a686263a506079ada02115d3a69484e337785486ca022d.webp)
-
-If the front radar recognizes the vehicle in front, 'AUTO' is displayed in blue. The regenerative braking level is automatically controlled depending on the driving condition of the vehicle in front and the level is indicated with arrows.
-
-![](images/b64d16d669ef0b23bcdcbeab1e8c1e894ed54bd46b974176e5e8bd33eb0fb28b.webp)
-
-However, current regenerative braking level is maintained if the driver depresses the brake pedal while the system is in activation. Also, the system is canceled temporarily if the accelerator pedal is depressed.
-
-The Smart Regeneration System which automatically controls the regenerative braking level when coasting is only a supplemental system for the driver's convenience. Do not solely rely on this system to stop the vehicle. The system cannot completely stop the vehicle in all situations nor avoid all collisions. The brake control may be insufficient depending on the speed of the vehicle in front and when the vehicle in front suddenly stops, a vehicle cuts in suddenly or there is a steep slope. Always look ahead cautiously to prevent unexpected and sudden situations from occurring.
+> ⚠️ **Внимание:** 
+> When vehicle speed is under 6 mph (10 km/h), the Smart Regeneration System is canceled. The driver must adjust the vehicle speed by depressing the accelerator or brake pedal according to the road condition ahead and driving condition.
+>
+> When the system is turned on from the Vehicle Settings menu, but the front radar doesn't recognize the vehicle in front, 'AUTO' is displayed in white.
+>
+> ![](images/93a3a030c19d124fd2a686263a506079ada02115d3a69484e337785486ca022d.webp)
+>
+> If the front radar recognizes the vehicle in front, 'AUTO' is displayed in blue. The regenerative braking level is automatically controlled depending on the driving condition of the vehicle in front and the level is indicated with arrows.
+>
+> ![](images/b64d16d669ef0b23bcdcbeab1e8c1e894ed54bd46b974176e5e8bd33eb0fb28b.webp)
+>
+> However, current regenerative braking level is maintained if the driver depresses the brake pedal while the system is in activation. Also, the system is canceled temporarily if the accelerator pedal is depressed.
+>
+> The Smart Regeneration System which automatically controls the regenerative braking level when coasting is only a supplemental system for the driver's convenience. Do not solely rely on this system to stop the vehicle. The system cannot completely stop the vehicle in all situations nor avoid all collisions. The brake control may be insufficient depending on the speed of the vehicle in front and when the vehicle in front suddenly stops, a vehicle cuts in suddenly or there is a steep slope. Always look ahead cautiously to prevent unexpected and sudden situations from occurring.
 
 ### Smart regeneration system will be temporarily canceled when:
-`kia_ev6_en_075e02f2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Canceled manually
 Pulling and holding the right side of
@@ -9078,19 +8002,16 @@ from the cluster.
 Canceled automatically The vehicle is shifted to N (Neutral), R (Reverse) or P (Park). Smart Cruise Control is in activation. The ESC (Electronic Stability Control) or ABS is operating.
 
 ### A WARNING
-`kia_ev6_en_480659c7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the Smart Regeneration System is canceled automatically, adjust the vehicle speed directly by depressing the accelerator or brake pedal according to the road and driving conditions ahead.
 
 ### Resuming smart regeneration system
-`kia_ev6_en_8ea90081` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To re-activate the Smart Regeneration System while driving:
 
 Pull and hold the right side paddle shifter for more than second again. Then, AUTO for the regenerative braking level will appear on the cluster.
 
 ### Vehicle-to-vehicle distance recognition sensor
-`kia_ev6_en_a566e97b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In order for the Smart Regeneration System to operate properly, always make sure the radar sensor cover is clean and free of dirt, snow, and debris. Dirt, snow, or foreign substances on the lens may adversely affect the sensing performance of the sensor. In this case, the system operation may stop temporarily and not operate normally.
 
@@ -9098,38 +8019,32 @@ Front radar
 
 ![](images/68d811478f6d5a59d55e9b4af0a2768c99a048eb8891aa9d4e88ac2773389d5f.webp)
 
-### CAUTION
-`kia_ev6_en_01277298` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Do not apply license plate frame or foreign objects such as a bumper
-sticker or a bumper guard near the radar sensor. Doing so may adversely affect the sensing performance of the radar.
-Always keep the radar sensor and lens cover clean and free of dirt and debris.
-Use only a soft cloth to wash the vehicle. Do not spray pressurized water directly on the sensor or sensor cover. Be careful not to apply unnecessary force on the radar sensor or sensor cover. If the sensor is forcibly moved out of proper alignment, the Smart Regeneration System may not operate correctly. In this case, a warning message may not be displayed. Have the vehicle inspected by an autho
-rized Kia dealer.
-If the front bumper becomes damaged in the area around the radar
-sensor, the Smart Regeneration System may not operate properly. Have the vehicle inspected by an autho
-rized Kia dealer.
-Use only genuine Kia parts to repair or replace a damaged sensor or sensor cover. Do not apply paint to the sensor cover.
+> ⚠️ **Внимание:** 
+> Do not apply license plate frame or foreign objects such as a bumper
+> sticker or a bumper guard near the radar sensor. Doing so may adversely affect the sensing performance of the radar.
+> Always keep the radar sensor and lens cover clean and free of dirt and debris.
+> Use only a soft cloth to wash the vehicle. Do not spray pressurized water directly on the sensor or sensor cover. Be careful not to apply unnecessary force on the radar sensor or sensor cover. If the sensor is forcibly moved out of proper alignment, the Smart Regeneration System may not operate correctly. In this case, a warning message may not be displayed. Have the vehicle inspected by an autho
+> rized Kia dealer.
+> If the front bumper becomes damaged in the area around the radar
+> sensor, the Smart Regeneration System may not operate properly. Have the vehicle inspected by an autho
+> rized Kia dealer.
+> Use only genuine Kia parts to repair or replace a damaged sensor or sensor cover. Do not apply paint to the sensor cover.
 
 ### System malfunction
-`kia_ev6_en_cf19fadf` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The following message will appear when the Smart Regeneration System is not functioning normally.
 
 ![](images/1308974d7e995652475c3e46116c47d0a752c9ae7b6bf830a3bc6261bc7356ff.webp)
 
 ### A: Check Smart Regeneration System
-`kia_ev6_en_f908607c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The message will appear when the system is not functioning normally. The system will be canceled and the word 'AUTO' on the cluster will disappear and instead display regenerative braking level. Check for foreign substances on the front radar. Remove any dirt, snow, or foreign material that could interfere with the radar sensors. If the system still does not operate normally, take your vehicle to an authorized Kia dealer and have the system checked.
 
 ### Limitations of the system
-`kia_ev6_en_443b068b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Smart Regeneration System may not operate properly in certain situations when the driving condition is beyond the performance of the front radar sensor. Driver's attention is required in such cases when the system does not react properly or operate unintentionally.
 
 ### Driving on a curved road
-`kia_ev6_en_95af0104` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/24e0dec08bb42434cfbbfb7c2eaf131bbcb3f010d29f2a4cd896919c02ac76d2.webp)
 
@@ -9148,7 +8063,6 @@ Always pay attention to road and driving conditions while driving. If necessary,
 Always check the traffic conditions around the vehicle.
 
 ### Driving on a sloped road
-`kia_ev6_en_b406552e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/01b4f8a9437c508ba985582b5e5fec2535b02a71f99dcea1904078f61e090e8a.webp)
 
@@ -9159,14 +8073,12 @@ Also, if the system suddenly recognizes the vehicle in front, the regenerative b
 The driver must maintain a safe braking distance, and if necessary, depress the brake pedal to reduce your driving speed in order to maintain a safe distance.
 
 ### Changing lanes
-`kia_ev6_en_644093f4` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ![](images/26286d635b0c201a180f61a1d9b03b321ad6b7371a4b9d4003c120174a173bc6.webp)
 
 When a vehicle changes lanes in front of you, the smart regeneration system may not immediately detect the vehicle, especially if the vehicle changes lanes abruptly. In this case, you must maintain a safe braking distance, and if necessary, depress the brake pedal to reduce your driving speed in order to maintain a safe distance.
 
 ### Recognizing the vehicle
-`kia_ev6_en_50d87c3e` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 ![](images/1aed9b546b6b41dd4ee09e3a410d84337a95ca1c73d94575e7ee19698a1dfea0.webp)
 
@@ -9190,29 +8102,26 @@ While the steering wheel is operating When driving to one side of the lane When 
 
 Apply the brake or accelerator pedal if necessary.
 
-### WARNING
-`kia_ev6_en_5e9711bb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-When using the Smart Regeneration System take the following precautions:
-
-If an emergency stop is necessary, you must apply the brakes.
-Keep a safe distance according to
-road conditions and vehicle speed. If the vehicle distance is too close
-during high-speed driving, a serious collision may result.
-Always maintain sufficient braking distance and decelerate your vehicle by applying the brakes if necessary. The Smart Regeneration System is designed to detect and monitor the vehicle ahead in the roadway through radar signals. It is not designed to
-detect oncoming vehicles, pedestrians, bicycles, motorcycles, or smaller wheeled objects such as luggage
-bags, shopping carts, or strollers.
-Vehicles moving in front of you with a frequent lane change may cause a delay in the system's reaction or may cause the system to react to a vehicle actually in an adjacent lane. Always drive cautiously to prevent unex
-pected and sudden situations from occurring.
-The Smart Regeneration System may not recognize complex driving situations so always pay attention to driving conditions and control your
-vehicle speed.
-
-The Smart Regeneration System may not operate temporarily due to:
-
-Electrical interference Modifying the suspension Differences of tire abrasion or tire pressure Installing different type of tires
+> ⚠️ **Внимание:** 
+> When using the Smart Regeneration System take the following precautions:
+>
+> If an emergency stop is necessary, you must apply the brakes.
+> Keep a safe distance according to
+> road conditions and vehicle speed. If the vehicle distance is too close
+> during high-speed driving, a serious collision may result.
+> Always maintain sufficient braking distance and decelerate your vehicle by applying the brakes if necessary. The Smart Regeneration System is designed to detect and monitor the vehicle ahead in the roadway through radar signals. It is not designed to
+> detect oncoming vehicles, pedestrians, bicycles, motorcycles, or smaller wheeled objects such as luggage
+> bags, shopping carts, or strollers.
+> Vehicles moving in front of you with a frequent lane change may cause a delay in the system's reaction or may cause the system to react to a vehicle actually in an adjacent lane. Always drive cautiously to prevent unex
+> pected and sudden situations from occurring.
+> The Smart Regeneration System may not recognize complex driving situations so always pay attention to driving conditions and control your
+> vehicle speed.
+>
+> The Smart Regeneration System may not operate temporarily due to:
+>
+> Electrical interference Modifying the suspension Differences of tire abrasion or tire pressure Installing different type of tires
 
 ### This device complies with Part 15 of the FCC rules.
-`kia_ev6_en_385acad1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Operation is subject to the following three conditions:
 
@@ -9221,17 +8130,14 @@ Operation is subject to the following three conditions:
 3. Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the device.
 
 ### Radio frequency radiation expo sure information:
-`kia_ev6_en_272d92ee` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. This equipment should be installed and operated with minimum distance of 8 in. (20 cm) between the radiator (antenna) and your body. This transmitter must not be colocated or operating in conjunction with any other antenna or transmitter.
 
 ### Brake system
-`kia_ev6_en_9a3c4c70` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This vehicle is equipped with various brakes and functions to stop the vehicle or keep it stationary.
 
 ### Power brakes
-`kia_ev6_en_80751ea7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Your vehicle has power -assisted brakes that adjust automatically through normal usage.
 
@@ -9242,56 +8148,46 @@ When the vehicle is not on, the reserve brake power is partially depleted each t
 Pump the brake pedal only when necessary to maintain steering control on slippery surfaces.
 
 ### \* NOTICE
-`kia_ev6_en_3cc05eaf` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When stepping on the brake pedal under a certain driving or weather condition. you may witness your car make a sound of squealing or some other noises. This is not a brake malfunction but a normal phenomenon. When driving on the road to which deicing chemicals are applied, the vehicle may witness noises from the brake or abnormal abrasion of tires because of such deicing chemicals. You should operate brake additionally so that you would be able to remove the deicing chemicals on the brake disk and pad under a safe traffic condition.
 
 ### Brake Pedal
-`kia_ev6_en_44484c61` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not drive with your foot resting on the brake pedal. This will create abnormally high brake temperatures which can cause excessive brake lining and pad wear.
 
 ### Steep Hill Braking
-`kia_ev6_en_b7cc9293` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Avoid continuous application of the brakes when descending a long or steep hill by increasing the regeneration level. Continuous brake application will cause the brakes to overheat and could result in a temporary loss of braking performance.
 
 Wet brakes may impair the vehicle's ability to safely slow down; the vehicle may also pull to one side when the brakes are applied. Applying the brakes lightly will indicate whether they have been affected in this way. Always test your brakes in this fashion after driving through deep water. To dry the brakes, apply them lightly while maintaining ， safe forward speed until brake performance returns to normal.
 
 ### ！ CAUTION
-`kia_ev6_en_f8887a48` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not depress the brake pedal continuously without the READY indicator ON. The battery may be discharged.
 
 ### In the event of brake failure
-`kia_ev6_en_0031a5a2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If service brakes fail to operate while the vehicle is in motion, you can make an emergency stop with the parking brake. The stopping distance, however, will be much greater than normal.
 
 ### Parking Brake
-`kia_ev6_en_7a4027e5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Avoid applying the parking brake to stop the vehicle while it is moving except in an emergency situation. Applying the parking brake while the vehicle is moving at normal speeds can cause a sudden loss of control of the vehicle. If you must use the parking brake to stop the vehicle, use great caution in applying the brake.
 
 ### Disc brakes wear indicator
-`kia_ev6_en_f1923290` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When your brake pads are worn and new pads are required, you will hear a high-pitched warning sound from your front brakes or rear brakes. You may hear this sound come and go or it may occur whenever you depress the brake pedal.
 
 Always replace the front or rear brake pads as pairs.
 
 ### Replace Brake Pads
-`kia_ev6_en_19f1f5a8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not continue to drive with worn brake pads. Continuing to drive with worn brake pads can damage the braking system and result in costly brake repairs, and can also lead to a serious accident.
 
 ### Brake Wear
-`kia_ev6_en_d881dce5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not ignore high pitched wear sounds from your brakes. If you ignore this audible warning, you will eventually lose braking performance, which could lead to a serious accident.
 
 ### Applying the parking brake
-`kia_ev6_en_f4992c2f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8a1cee30b5575302bb5fe580a42e817ce67ae85990c806ff7511ccfb7268057b.webp)
 
@@ -9300,7 +8196,6 @@ Do not ignore high pitched wear sounds from your brakes. If you ignore this audi
 Also, the EPB is applied automatically if the AUTO HOLD button is on when the vehicle is turned off. However, if you pull up the EPB switch after the vehicle is turned off, the EPB will not be Applied.
 
 ### \* NOTICE
-`kia_ev6_en_e4bff2e0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 On a steep incline or when pulling a trailer, if the vehicle does not remain at a standstill, do as follows:
 
@@ -9314,7 +8209,6 @@ A click or electric brake motor whine sound may be heard while operating or rele
 These conditions are normal and indicate that the EPB is functioning properly.
 
 ### Releasing the parking brake with Electronic Parking Brake (EPB) switch
-`kia_ev6_en_80164f49` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/64b45d1bb04e521db1761c6a4eba40232b2f107a76eaf8661a47fcd5b9589194.webp)
 
@@ -9325,7 +8219,6 @@ Place the EV button in the ON position. Depress the brake pedal. The shifter dia
 2. Make sure the brake warning light goes off.
 
 ### Automatic release of Electronic Parking Brake (EPB)
-`kia_ev6_en_1583925e` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 The EPB is released automatically under following conditions.
 
@@ -9341,24 +8234,19 @@ Reduction gear
 Make sure the brake warning light goes off.
 
 ### \* NOTICE
-`kia_ev6_en_8db83c51` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For your safety, you can engage the EPB even though the EV button is in the OFF position, but you cannot
 release it.
 For your safety, depress the brake pedal and release the parking brake manually with the EPB switch when you drive downhill or when backing up the vehicle.
 
-### CAUTION
-`kia_ev6_en_4c80358b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-If the parking brake warning light is still on even though the EPB has been released, have the system checked by an authorized Kia dealer. Do not drive your vehicle with the EPB applied. It may cause excessive brake pad and brake rotor wear.
+> ⚠️ **Внимание:** 
+> If the parking brake warning light is still on even though the EPB has been released, have the system checked by an authorized Kia dealer. Do not drive your vehicle with the EPB applied. It may cause excessive brake pad and brake rotor wear.
 
 ### \* NOTICE
-`kia_ev6_en_24b410ca` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For EPB (Electronic Parking Brake) equipped vehicles with AUTO HOLD function used while driving, if the EV button has been turned OFF, the EPB will be engaged automatically. Therefore, AUTO HOLD function should be turned off before the EV button is turned off.
 
 ### System warning
-`kia_ev6_en_a2ef9479` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 The EPB will display a warning message with sound under certain conditions.
 
@@ -9367,31 +8255,25 @@ If you try to drive off depressing the accelerator pedal with the EPB applied, b
 ![](images/6ed8719a68cc2d015d15dcf8bab4d58f61064c10ad09a8ec82d83f15b77fd70e.webp)
 
 ### A: To release EPB, fasten seatbelt and close door, hood and liftgate
-`kia_ev6_en_b5efb01b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If there is a problem with the vehicle, a warning may sound and a message may appear.
 
 If the above situation occurs, depress the brake pedal and release EPB by pressing the EPB switch.
 
-### WARNING
-`kia_ev6_en_6f441efb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> To prevent unintentional movement when stopped and leaving the vehicle, do not use the shifter dial in place of the parking brake. Set the parking brake and make sure the shifter dial is securely positioned in P (Park). Never allow a passenger to touch the parking brake. If the parking brake is released unintentionally, serious injury may occur. All vehicles should always have the parking brake fully engaged when parked to avoid inadvertent movement of the vehicles which can injure occupants or pedestrians.
 
-To prevent unintentional movement when stopped and leaving the vehicle, do not use the shifter dial in place of the parking brake. Set the parking brake and make sure the shifter dial is securely positioned in P (Park). Never allow a passenger to touch the parking brake. If the parking brake is released unintentionally, serious injury may occur. All vehicles should always have the parking brake fully engaged when parked to avoid inadvertent movement of the vehicles which can injure occupants or pedestrians.
-
-### CAUTION
-`kia_ev6_en_ef6b310b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-A click or electric brake motor whine sound may be heard while operating or releasing the EPB. These conditions are normal and indicate that the EPB is functioning properly.
-When leaving your keys with a parking lot attendant or valet, make sure to inform him/her how to operate the EPB.
-The EPB may malfunction if you drive with the EPB applied.
-When you automatically release EPB by depressing the accelerator pedal, depress it slowly.
-
-When the conversion from AUTO HOLD to EPB is not working properly a warning will sound and a message will appear.
-
-![](images/95149cafdba3852af9c0f1bc80adbff5720770b20c8658607e558d4020e030a0.webp)
+> ⚠️ **Внимание:** 
+> A click or electric brake motor whine sound may be heard while operating or releasing the EPB. These conditions are normal and indicate that the EPB is functioning properly.
+> When leaving your keys with a parking lot attendant or valet, make sure to inform him/her how to operate the EPB.
+> The EPB may malfunction if you drive with the EPB applied.
+> When you automatically release EPB by depressing the accelerator pedal, depress it slowly.
+>
+> When the conversion from AUTO HOLD to EPB is not working properly a warning will sound and a message will appear.
+>
+> ![](images/95149cafdba3852af9c0f1bc80adbff5720770b20c8658607e558d4020e030a0.webp)
 
 ### \* NOTICE
-`kia_ev6_en_fdb17597` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Engage the brake pedal when the above message appears for the AUTO HOLD and EPB may not activate.
 
@@ -9400,7 +8282,6 @@ If the EPB is applied while AUTO HOLD is activated because of an ESC (Electronic
 ![](images/cbd6b676e307d050ada0805e0e4c3efbb9d573ca84bf91eaa1cd3ddffa3dc470.webp)
 
 ### EPB malfunction indicator
-`kia_ev6_en_83a3fe50` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This warning light illuminates if the EV button is changed to the ON position and goes off in approximately 3 seconds if the system is operating normally.
 
@@ -9415,7 +8296,6 @@ The EPB malfunction indicator may illuminate when the ESC indicator comes on to 
 The EPB warning light may illuminate if the EPB switch operates abnormally. Shut the vehicle off and turn it on again after a few minutes.
 
 ### ！ CAUTION
-`kia_ev6_en_0ea57576` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f8491fda2c653a59f0f5cb5c359afd465701cd4c2721d693afb4afef9df01b61.webp)
 
@@ -9426,36 +8306,30 @@ If the parking brake warning light does not illuminate or blinks even though the
 If the parking brake warning light blinks when the EPB warning light is on, press the EPB switch, then pull it up. Once more press it back to its original position and pull it back up. If the EPB warning does not go off, have the system checked by an authorized Kia dealer.
 
 ### Emergency braking
-`kia_ev6_en_117c7ff5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If there is a problem with the brake pedal while driving, emergency braking is possible by pulling up and holding the EPB switch.
 
 Braking is possible only while you are holding the EPB switch.
 
 ### A WARNING
-`kia_ev6_en_1a66060e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not operate the Electronic Parking Brake while the vehicle is moving except in an emergency situation. Applying the Electronic Parking Brake while the vehicle is moving at normal speeds can cause a sudden loss of control of the vehicle. If you must use the Electronic Parking Brake to stop the vehicle, use great caution in applying the brake.
 
 ### \* NOTICE
-`kia_ev6_en_7672b19f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 During emergency braking by the EPB, the parking brake warning light will illuminate to indicate that the system is operating.
 
 If you notice a continuous noise or burning smell when the EPB is used for emergency braking, have your vehicle checked by an authorized Kia dealer.
 
 ### When the EPB (Electronic Parking Brake) is not released
-`kia_ev6_en_4737768d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the EPB does not release normally, take your vehicle to an authorized Kia dealer by loading the vehicle on a flatbed tow truck and have the system checked.
 
 ### AUTO HOLD
-`kia_ev6_en_ad46aeeb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The AUTO HOLD maintains the vehicle in a standstill even though the brake pedal is not depressed after the driver brings the vehicle to a complete stop by depressing the brake pedal.
 
 ### Applying AUTO HOLD function
-`kia_ev6_en_a2ac798c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Depress the brake pedal, start the vehicle and then press the AUTO HOLD button. The white AUTO HOLD indicator will come on indicating the system is in standby.
 
@@ -9469,21 +8343,17 @@ The AUTO HOLD maintains the vehicle in a standstill even though the brake pedal 
 
 If you press the accelerator pedal with the shifter dial in D (Drive), or R (Reverse) when the accelerator is not depressed, the AUTO HOLD will be released automatically and the vehicle will start to move. The indicator changes from green to white indicating the AUTO HOLD is in standby and the EPB is released.
 
-### WARNING
-`kia_ev6_en_834bac83` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-When driving off from AUTO HOLD by depressing the accelerator pedal, always check the surrounding area near your vehicle.
-Slowly depress the accelerator pedal for a smooth launch.
+> ⚠️ **Внимание:** 
+> When driving off from AUTO HOLD by depressing the accelerator pedal, always check the surrounding area near your vehicle.
+> Slowly depress the accelerator pedal for a smooth launch.
 
 ### Canceling AUTO HOLD function
-`kia_ev6_en_5ae3d984` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/513dde6b5b11190c34cecac097ca5b9526d1a6d22b48e658aa0c933d1ad1df13.webp)
 
 To cancel the AUTO HOLD operation, press the AUTO HOLD switch. The AUTO HOLD indicator will turn off. To cancel the AUTO HOLD operation when the vehicle is at a standstill, press the AUTO HOLD switch while depressing the brake pedal.
 
 ### \* NOTICE
-`kia_ev6_en_ffe3e1c0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The following are conditions when the AUTO HOLD will not engage (AUTO HOLD light will not turn green and the AUTO HOLD system remains in standby):
 
@@ -9495,24 +8365,20 @@ The vehicle is in a standstill for more than 10 minutes The vehicle is standing 
 
 The vehicle moved for a few seconds In these cases, the brake warning light comes on, the AUTO HOLD indicator changes from green to white, and a warning sounds and a message will appear to inform you that EPB has been automatically engaged. Before driving off again, press foot brake pedal, check the surrounding area near your vehicle and release parking brake manually with the EPB switch. If the AUTO HOLD indicator lights up yellow, the AUTO HOLD is not working properly. Take your vehicle to an authorized Kia dealer and have the system checked. If the vehicle is restarted with the AUTO HOLD button pressed, AUTO HOLD will be in the standby state.
 
-### WARNING
-`kia_ev6_en_718d73c3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-To reduce the risk of an accident, do not activate AUTO HOLD while driving downhill, backing up or parking your vehicle.
-
-If there is a malfunction with the driver's door or vehicle hood or liftgate open detection system, the AUTO HOLD may not work properly.
-
-Take your vehicle to an authorized Kia dealer and have the system checked.
+> ⚠️ **Внимание:** 
+> To reduce the risk of an accident, do not activate AUTO HOLD while driving downhill, backing up or parking your vehicle.
+>
+> If there is a malfunction with the driver's door or vehicle hood or liftgate open detection system, the AUTO HOLD may not work properly.
+>
+> Take your vehicle to an authorized Kia dealer and have the system checked.
 
 ### \* NOTICE
-`kia_ev6_en_e1dee1cd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/3e68446bf56207cb7b309b227f67ceb0abe47b067fb18a4bf337e649cdaa9894.webp)
 
 A click or electric brake motor whine sound may be heard while operating or releasing the EPB, but these conditions are normal and indicate that the EPB is functioning properly.
 
 ### Warning messages
-`kia_ev6_en_c4a101db` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The AUTO HOLD function will display a warning message with sound under certain conditions.
 
@@ -9521,14 +8387,12 @@ When the EPB is applied from AUTO HOLD, a warning will sound and a mes sage will
 ![](images/52cecbe5196ea095caa8f5656e80ff442966a86ecd9300356b635c412b496e5b.webp)
 
 ### A: Parking brake automatically engaged
-`kia_ev6_en_d4683ce0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the conversion from AUTO HOLD to EPB is not working properly a warning will sound and a message will appear.
 
 ![](images/1ddc13ac23d37ba862774593dd8afcca5bb48cde30c111bf438d12c1e76889fe.webp)
 
 ### \* NOTICE
-`kia_ev6_en_11cfb5f4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When this message is displayed, the AUTO HOLD and EPB may not operate. For your safety, depress the brake pedal.
 
@@ -9537,7 +8401,6 @@ If you do not apply the brake pedal when you release the AUTO HOLD by pressing t
 ![](images/fc3b6dcd6c2c7fa3d0a0fca3666d639269f2574afc0c2ec192ec24aa86c2a58d.webp)
 
 ### Parking Brake Use
-`kia_ev6_en_8bdc0692` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never allow a passenger to touch the parking brake. If the parking brake is released unintentionally, serious injury may occur. All vehicles should always have the parking brake fully engaged when parked to avoid inadvertent movement of the vehicles which can injure occupants or pedestrians.
 
@@ -9552,7 +8415,6 @@ If the brake warning light remains on after the parking brake is released while 
 If at all possible, cease driving the vehicle immediately. If that is not possible, use extreme caution while operating the vehicle and only continue to drive the vehicle until you can reach a safe location or repair shop.
 
 ### Anti-lock Brake System (ABS)
-`kia_ev6_en_12f9c1a8` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 The ABS prevents the wheels from locking. So the vehicle remains stable and can still be steered.
 
@@ -9571,7 +8433,6 @@ When you apply your brakes under conditions which may lock the wheels, you may h
 In order to obtain the maximum benefit from your ABS in an emergency situation, do not attempt to modulate your brake pressure and do not try to pump your brakes.
 
 ### \* NOTICE
-`kia_ev6_en_76dfddc2` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 A click sound may be heard in the vehicle compartment when the vehicle begins to move after the vehicle is started. These conditions are normal and indicate that the anti-lock brake system is functioning properly.
 
@@ -9592,14 +8453,12 @@ When you drive on a road having poor traction, such as an icy road, and have ope
 Restart the vehicle. If the ABS warning light goes off, then your ABS system is normal. Otherwise, you may have a problem with the ABS. Contact an authorized Kia dealer as soon as possible.
 
 ### \* NOTICE
-`kia_ev6_en_a3f11952` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 When you jump start your vehicle because of a drained battery, the vehicle may not run as smoothly and the ABS warning light may turn on at the same time. This happens because of low battery voltage. It does not mean your ABS has malfunctioned.
 
 Do not pump your brakes! Have the battery recharged before driving the vehicle.
 
 ### Electronic Stability Control (ESC)
-`kia_ev6_en_c92dc90e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The ESC system is designed to stabilize the vehicle during cornering maneuvers.
 
@@ -9613,51 +8472,42 @@ Only a safe and attentive driver can prevent accidents by avoiding maneuvers tha
 
 including driving at safe speeds for the conditions.
 
-### WARNING
-`kia_ev6_en_6a32a24e` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
-
-For maximum protection, always wear your seat belt. No system, no matter how advanced, can compensate for all driver error and/or driving conditions. Always drive responsibly.
-
-The ESC system is an electronic system designed to help the driver maintain vehicle control under adverse conditions. It is not a substitute for safe driving practices. Factors including speed, road conditions and driver steering input can all affect whether ESC will be effective in preventing a loss of control. I t is still your responsibility to drive and corner at reasonable speeds and to leave a sufficient margin of safety.
-
-When you apply your brakes under con ditions which may lock the wheels, you may hear a "tik-tik'' sound from the brakes, or feel a corresponding sensation in the brake pedal. This is normal and it means your ESC is active.
+> ⚠️ **Внимание:** 
+> For maximum protection, always wear your seat belt. No system, no matter how advanced, can compensate for all driver error and/or driving conditions. Always drive responsibly.
+>
+> The ESC system is an electronic system designed to help the driver maintain vehicle control under adverse conditions. It is not a substitute for safe driving practices. Factors including speed, road conditions and driver steering input can all affect whether ESC will be effective in preventing a loss of control. I t is still your responsibility to drive and corner at reasonable speeds and to leave a sufficient margin of safety.
+>
+> When you apply your brakes under con ditions which may lock the wheels, you may hear a "tik-tik'' sound from the brakes, or feel a corresponding sensation in the brake pedal. This is normal and it means your ESC is active.
 
 ### \* NOTICE
-`kia_ev6_en_296db426` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f19449b4000c9b9f86780c6b80f5263752dde1cf037f12d5077fde40ced77af7.webp)
 
 A click sound may be heard in the vehicle compartment when the vehicle begins to move after the vehicle is started. These conditions are normal and indicate that the Electronic Stability Control System is functioning properly.
 
 ### ESC ON condition
-`kia_ev6_en_4b8f8a9f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the EV button is turned ON, ESC and ESC OFF indicator lights illuminate for approximately 3 seconds, then ESC is turned on.
 Press the ESC OFF button for at least half a second after turning the vehicle ON to turn ESC off. (ESC OFF indicator will illuminate). To turn the ESC on, press the ESC OFF button (ESC OFF indicator light will go off).
 When starting the vehicle, you may hear a slight ticking sound. This is the ESC performing an automatic system self-check and does not indicate a problem.
 
 ### When operating
-`kia_ev6_en_62163475` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the ESC is in operation, the ESC indicator light blinks. When the Electronic Stability Control is operating properly, you can feel a slight pulsation in the vehicle. This is only the effect of brake control and indicates nothing unusual. When moving out of the mud or driving on a slippery road, pressing the accelerator pedal may not cause the vehicle speed to increase.
 
 ### Electronic stability control (ESC) operation off
-`kia_ev6_en_d70f2ef1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This car has 2 kinds of ESC off states. If the vehicle stops when ESC is off, ESC remains off. Upon restarting the vehicle, the ESC will automatically turn on again.
 
 ### ESC off state 1 - Traction control disabled
-`kia_ev6_en_9dd5a48f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To turn off the traction control function and only operate the brake control function of the ESC, press the ESC OFF button (ESC OFF 鑫 for less than 3 seconds and the ESC OFF indicator light (ESC OFF ) will illuminate.
 
 ### ESC off state 2 - Traction & stability control disabled
-`kia_ev6_en_c815453c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To turn off the traction control function and the brake control function of the ESC, press the ESC OFF button (ESC OFF ) for more than 3 seconds. ESC OFF indicator light (ESC OFF 器 will illuminate and ESC OFF warning chime will sound. At this state, the car stability control function does not operate any more.
 
 ### Indicator light
-`kia_ev6_en_607ab9a2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ESC indicator light ESC OFF indicator light OFF
 
@@ -9665,44 +8515,36 @@ When EV button is turned to ON, the indicator light illuminates, then goes off i
 The ESC OFF indicator light comes on when the ESC is turned off with the button.
 
 ### Electronic Stability Control
-`kia_ev6_en_e083ba7e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Drive carefully even though your vehicle has Electronic Stability Control. It can only assist you in maintaining control under certain circumstances.
 
 ### When driving
-`kia_ev6_en_cbbfb70e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ESC should be turned on for daily driving whenever possible. To turn ESC off while driving, press the ESC OFF button while driving on a flat road surface.
 
 ### Operating ESC
-`kia_ev6_en_a0439637` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never press the ESC OFF button while ESC is operating (ESC indicator light blinks). If ESC is turned off while ESC is operating, the vehicle may slip out of control.
 
 ### \* NOTICE
-`kia_ev6_en_3362aa1f` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 When operating the vehicle on a dynamometer, ensure that the ESC is turned off (ESC OFF light illuminated). If the ESC is left on, it may prevent the vehicle speed from increasing, and result in false diagnosis. Turning the ESC off does not affect ABS or brake system operation.
 
 ### Vehicle Stability Management (VSM)
-`kia_ev6_en_6905b3b4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This system provides further enhancements to vehicle stability and steering responses when a vehicle is driving on a slippery road or a vehicle detects changes in coefficient of friction between right wheels and left wheels when braking.
 
 ### Tire/Wheel Size
-`kia_ev6_en_fccdcdef` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When replacing tires and wheels, make sure they are the same size as the original tires and wheels installed. Driving with varying tire or wheel sizes may diminish any supplemental safety benefits of the VSM system.
 
 ### Vehicle stability management (VSM) operation
-`kia_ev6_en_91b8b524` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 When the VSM is in operation, ESC indicator light ( ) blinks.
 
 When the vehicle stability management is operating properly, you can feel a slight pulsation in the vehicle and/or abnormal steering responses (EPS- Electric Power Steering). This is only the effect of brake and EPS control and indicates nothing unusual.
 
 ### The VSM does not operate when:
-`kia_ev6_en_9615b9ba` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Driving on a sloping road such as a
 gradient or incline
@@ -9713,19 +8555,16 @@ EPS indicator light remains on the
 instrument cluster
 
 ### Vehicle stability management (VSM) operation off
-`kia_ev6_en_849eef1f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you press the ESC OFF button to turn off the ESC, the VSM will also cancel and the ESC OFF indicator light ( ) illuminates.
 
 To turn on the VSM, press the button again. The ESC OFF indicator light goes out.
 
 ### Vehicle Stability Management
-`kia_ev6_en_69596285` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Drive carefully even though your vehicle has vehicle stability management. It can only assist you in maintaining control of the vehicle under certain circumstances.
 
 ### Malfunction indicator
-`kia_ev6_en_81fbe3da` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The VSM can be deactivated even if you don't cancel the VSM operation by pressing the ESC OFF button. It indicates that a malfunction has been detected somewhere in the Electric Power Steering system or VSM system. If the ESC indicator light ( ) or EPS warning light remains on, take your vehicle to an authorized Kia dealer and have the system checked.
 
@@ -9735,18 +8574,14 @@ Your vehicle is designed to activate according to the driver's intention, even w
 
 driving in inclement weather and on a slippery road.
 
-### WARNING
-`kia_ev6_en_ad4f13a4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-For maximum protection, always wear your seat belt. No system, no matter how advanced, can compensate for all driver error and/or driving conditions. Always drive responsibly.
+> ⚠️ **Внимание:** 
+> For maximum protection, always wear your seat belt. No system, no matter how advanced, can compensate for all driver error and/or driving conditions. Always drive responsibly.
 
 ### Electronic Control Suspension (ECS) (if equipped)
-`kia_ev6_en_9dcd2409` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Electronic Control Suspension (ECS) controls the vehicle suspension automatically to maximize driving comfort by taking into account the driving conditions such as speed, surface of the road cornering, stopping requirements and acceleration. If the ECS warning message comes on, you may have a prob lem with the ECS system. In this case, have your vehicle inspected by an authorized Kia dealer.
 
 ### Hill-start Assist Control (HAC)
-`kia_ev6_en_f28d6afe` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A vehicle has the tendency to roll back on a steep hill when it starts to go after stopping. The Hill-start Assist Control (HAC) prevents the vehicle from rolling back by applying the brakes automatically for approximately 2 seconds.
 
@@ -9755,22 +8590,18 @@ The brakes are released when the accelerator pedal is depressed or after about 2
 The HAC is activated only for about 2 seconds, so when the vehicle is starting off always depress the accelerator pedal.
 
 ### Maintaining Brake Pressure on Incline
-`kia_ev6_en_bce706f6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 HAC does not replace the need to apply brakes while stopped on an incline. While stopped, make sure you maintain brake pressure sufficient to prevent your vehicle from rolling backward and causing an accident. Don't release the brake pedal until you are ready to accelerate forward.
 
 ### Brake Assist System (BAS)
-`kia_ev6_en_9902820a` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 The BAS system is to reduce or to avoid accident risk. It recognizes the distance from the vehicle ahead or the pedestrian through the sensors (i.e. radar and camera), and, if necessary, warns the driver of accident risk with the warning message or the warning alarms.
 
 ### Brake Assist System (BAS) Limitations
-`kia_ev6_en_4d741b02` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The BAS system is a supplemental system and is not a substitute for safe driving practices. It is the responsibility of the driver to always check the speed and distance to the vehicle ahead to ensure it is safe to use.
 
 ### Take the following precautions when using the Brake Assist System (BAS):
-`kia_ev6_en_6fbbe89b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This system is only a supplemental system and it is not intended to, nor does it replace the need for extreme care and attention of the driver. The sensing range and objects detectable by the sensors are limited. Pay attention to the road conditions at all times.
 
@@ -9779,7 +8610,6 @@ NEVER drive too fast in accordance with the road conditions or while cornering.
 Always drive cautiously to prevent unex pected and sudden situations from occurring. BAS does not stop the vehicle completely and does not avoid collisions.
 
 ### Good braking practices
-`kia_ev6_en_c5a69ad9` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Good braking practices help to drive safely and extend brake life.
 
@@ -9809,12 +8639,10 @@ brake operating or its motor may be heard temporarily when:
 Repeatedly depressing the brake pedal
 
 ### Drive mode integrated control system
-`kia_ev6_en_1d068846` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The drive mode integrated control system allows the driver to select the drive mode most appropriate to the surrounding environment.
 
 ### DRIVE MODE
-`kia_ev6_en_87277b72` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The drive mode may be selected according to the driver's preference or road condition.
 
@@ -9827,7 +8655,6 @@ The mode changes, as below, whenever the DRIVE MODE button is pressed. When rest
 A: Hold
 
 ### ECO mode
-`kia_ev6_en_912b1f72` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ECO mode is a driving mode in which the vehicle can change the engagement status of the motor according to the situation required. Auto changing the driving mode (2WD/AWD) helps improve energy efficiency.
 
@@ -9842,7 +8669,6 @@ When ECO mode is activated: The acceleration response may be slightly reduced if
 The situations above are normal conditions when ECO mode is activated to help improve electric energy efficiency.
 
 ### SPORT mode
-`kia_ev6_en_d50c484f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 SPORT mode is a driving mode improving driving performance by fixing AWD system.
 
@@ -9851,7 +8677,6 @@ When SPORT mode is selected, the
 SPORT indicator will illuminate on the instrument cluster and the color of the mood lamp will change.
 
 ### SNOW mode
-`kia_ev6_en_9fc54859` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 SNOW mode is a driving mode improving driving performance by changing the engagement status of the motor according to the situation required. Auto changing the driving mode (2WD/AWD) helps improve driving stability.
 
@@ -9860,7 +8685,6 @@ When SNOW mode is selected, the SNOW indicator will illuminate on the instrument
 When SNOW mode is activated, the driving power is distributed to four wheels automatically, increasing the stability of the vehicle.
 
 ### \* NOTICE
-`kia_ev6_en_c06a1563` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Depress the accelerator pedal softly on the snow and the ice.
 Keep appropriate distance from the vehicle in the front.
@@ -9868,30 +8692,25 @@ Prevent rapid acceleration, deceleration and steering control. Abrupt driving on
 accident.
 
 ### Initial setting for each DRIVE MODE
-`kia_ev6_en_e24e7c59` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 \* It is possible to set the driving condition for each drive mode, at the drive mode setting in Infotainment system, For more information, refer to the separately supplied manual.
 
 ![](images/8240e356caf91cafa2985a7081e2bfbdd72d73d5af6d3bef99ba1d9c4f0b7006.webp)
 
 ### All wheel drive (AWD) (if equipped)
-`kia_ev6_en_242d7448` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When All Wheel Drive (AWD) is activated, driving forces are distributed appropriately to front and rear wheels. It could improve driving performance by maximizing the driving force of vehicles on severe road conditions such as steep hills, unpaved, slippery, etc.
 
 ### Advantage of electronic AWD
-`kia_ev6_en_a0bd57bd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Improvement of straight stability Improvement of driving performance on curve Secure stability on severe condition such as wet and sandy roads. Improvement of energy efficiency from driving mode automatic control.
 
 ### Before driving
-`kia_ev6_en_95d8581f` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Make sure all passengers are wearing seat belts.
 Sit upright and closer to the steering wheel than usual. Adjust the steering wheel to a position comfortable for you to drive.
 
 ### Driving on snow-covered or icy roads
-`kia_ev6_en_85e69c3b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Start off slowly by applying the accelerator pedal gently. Use snow tires or tire chains. Keep sufficient distance between your vehicle and the vehicle in front of you. Using the regenerative braking helps the steering on the downhill. However it is difficult to adjust the vehicle while coasting, so avoid using the third level
 
@@ -9900,12 +8719,10 @@ Avoid speeding, rapid acceleration, sudden brake applications, and sharp turns t
 It is difficult to start again if the vehicle stops on an uphill road. Keep your distance from other vehicles and drive slowly.
 
 ### Driving in sand or mud
-`kia_ev6_en_1f1be46f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Maintain a slow, constant speed. Use tire chains driving in mud if necessary. Keep sufficient distance between your vehicle and the vehicle in front of you. Reduce vehicle speed and always check the road condition. Avoid speeding, rapid acceleration, sudden brake applications, and sharp turns to prevent getting stuck.
 
 ### Driving up or down hills
-`kia_ev6_en_7e57180e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Driving uphill Before starting off, check if it is possible to drive uphill. Drive as straight as possible.
 
@@ -9914,7 +8731,6 @@ Driving downhill
 Do not change gear while driving downhill. Select gear before driving downhill. Drive straight as possible.
 
 ### Driving through water
-`kia_ev6_en_ad77b769` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Try to avoid driving in deep standing water.
 If you need to drive in water, stop your vehicle, set the vehicle in Multi Terrain mode and drive under 5 mph (8 km/h).
@@ -9922,7 +8738,6 @@ If you need to drive in water, stop your vehicle, set the vehicle in Multi Terra
 Do not change gear while driving in water.
 
 ### Additional driving conditions
-`kia_ev6_en_ccb72f60` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Become familiar with the off-road conditions before driving.
 Always pay attention when driving off-road and avoid dangerous areas. Drive slowly when driving in heavy wind.
@@ -9930,7 +8745,6 @@ Reduce vehicle speed when cornering. The center of gravity of AWD vehicles is hi
 Always hold the steering wheel firmly when you are driving off-road.
 
 ### ！ WARNING
-`kia_ev6_en_300e4708` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the AWD warning light ( ) stays on the instrument cluster, your vehicle may have a malfunction with the AWD system. When the AWD warning light ( ) illuminates, have your vehicle
 checked by an authorized Kia dealer. Do not drive in conditions that exceed the vehicles intended design such as challenging off-road conditions.
@@ -9943,13 +8757,10 @@ Loss of control often occurs if two or more wheels drop off the roadway and the 
 
 In the event your vehicle leaves the roadway, do not steer sharply. Instead, slow down before pulling back into the travel lanes. Exercise extreme caution driving up or down steep hills. The vehicle may flip depending on the grade, terrain and water/mud conditions. Do not grab the inside of the steering wheel when you are driving off-road. You may hurt your arm by a sudden steering maneuver or from steering wheel rebound due to an impact with objects on the ground. You could lose control of the steering wheel which may lead to serious injury or death.
 
-### CAUTION
-`kia_ev6_en_32d54456` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Always drive slowly in water. If you drive too fast, water may get into the motor compartment, causing your vehicle to suddenly stop.
+> ⚠️ **Внимание:** 
+> Always drive slowly in water. If you drive too fast, water may get into the motor compartment, causing your vehicle to suddenly stop.
 
 ### \* NOTICE
-`kia_ev6_en_c0cb2cd7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not drive in water if the level is higher than the center of the wheel. Check your brake condition once you are out of mud or water. Depress the brake pedal several times as you
 move slowly until you feel normal
@@ -9966,22 +8777,18 @@ When putting the tire chains to the tire, be sure to attach the chain to the two
 If tire chains must be used, use fabric snow chain and install the tire chain after reviewing the instructions provided with the tire chains. For more information on Snow Tires and Tire Chains, refer to "Winter driving" on page 6-193.
 
 ### Tires
-`kia_ev6_en_35f64c87` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When replacing the tires, be sure to equip all four tires with the tire and wheel of the same size, type, tread, brand and load-carrying capacity. In case of emergency such as tire puncture, repair it using TMK (Tire Mobility Kit) for temporary use. Afterwards, have the tire be inspected by an authorized Kia dealer.
 
 ### Towing
-`kia_ev6_en_53ea9be8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 AWD vehicles must be towed with a wheel lift and dollies or flatbed equipment with all the wheels off the ground. For more information, refer to "Towing" on page 7-17.
 
 ### Vehicle inspection
-`kia_ev6_en_705f3821` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the vehicle is on a car lift, do not operate the front and rear wheels separately. All four wheels should be operated. Never engage the parking brake while running the vehicle on a car lift. This may damage the AWD system.
 
 ### Dynamometer testing
-`kia_ev6_en_7717d3f8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 AWD vehicle must be tested on a special four wheel chassis dynamometer. If a 2WD roll tester must be used, perform the following procedure.
 
@@ -9990,7 +8797,6 @@ AWD vehicle must be tested on a special four wheel chassis dynamometer. If a 2WD
 A: Roll tester (Speedometer) B: Temporary free roller
 
 ### Operation
-`kia_ev6_en_1956ce99` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the tire pressures recom
 mended for your vehicle.
@@ -9999,7 +8805,6 @@ Release the parking brake.
 Place the front wheels on the temporary free roller as shown in the illustration.
 
 ### ！ WARNING
-`kia_ev6_en_b59b9184` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not use tire and wheel with different size and type from the one originally installed on your vehicle. It can affect the safety and performance of your vehicle, which could lead to
 steering failure or rollover causing serious injury.
@@ -10007,32 +8812,26 @@ Never start or run the vehicle while AWD vehicle is raised on a jack.The vehicle
 Keep away from the front of the vehicle while the vehicle is in gear on the dynamometer. The vehicle can jump forward and cause serious injury or death.
 
 ### Active air flap
-`kia_ev6_en_21881c2e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/52fb3aceadfd0b65e23f2a9fb34d62d0ce8e66a026772e396bb5aca2af4d9ab5.webp)
 
 Active air flap system controls the air flap below the front bumper to cool the vehicle parts and improve energy efficiency.
 
 ### A: Check Active Air Flap System
-`kia_ev6_en_b569e0c1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The active air flap system may not operate normally if the air flap is temporarily opened due to foreign factors or if the controller is contaminated by snow or rain, etc.
 
 When the message is popped up on the display, stop the vehicle in a safe place and check the status of the air flap. Start the vehicle after performing the necessary work like foreign matter removal and waiting 10 minutes. If the pop-up remains up, have the vehicle inspected by an authorized Kia dealer.
 
-### CAUTION
-`kia_ev6_en_e930d2a1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Regardless of the pop-up, if the air flaps aren't in the same position, stop the vehicle and wait for 10 minutes and start the vehicle and inspect the air flap.
-The active air flap system is actuated by motors. Do not disturb actuation or apply force excessively. It may cause failure.
+> ⚠️ **Внимание:** 
+> Regardless of the pop-up, if the air flaps aren't in the same position, stop the vehicle and wait for 10 minutes and start the vehicle and inspect the air flap.
+> The active air flap system is actuated by motors. Do not disturb actuation or apply force excessively. It may cause failure.
 
 ### \* NOTICE
-`kia_ev6_en_0099482a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Active air flap system could be activate regardless of the vehicle condition.(Parking, driving, charging, etc.)
 
 ### Vehicle auto-shut off function
-`kia_ev6_en_7e33c63d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you forget to turn off the vehicle for a period of time, Vehicle shuts off automatically to prevent waste electric power.
 
@@ -10043,7 +8842,6 @@ cally in:
 B: Reset
 
 ### Operating conditions
-`kia_ev6_en_7738f1a8` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Vehicle Auto-Shut Off timer activates when the following conditions are met.
 
@@ -10055,28 +8853,24 @@ Head unit is not updating Outside of vehicle charging connector engaged or exter
 If you want to deactivate auto-shut off function during interior V2L, use the Utility Mode
 
 ### Basic function
-`kia_ev6_en_8c274b25` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/245be4cf5b9fd1fb924c5d698385cd5cb7ce2fe575ff4e9abc4b5f2230e14e9d.webp)
 
 Forward Collision-Avoidance Assist is designed to help detect and monitor the vehicle ahead or help detect a pedestrian or cyclist in the roadway and warn the driver that a collision is imminent with a warning message and an audible warning, apply emergency braking. In addition, if equipped with front corner radars, when driving at high speeds, Forward Collision-Avoidance Assist will help detect vehicles in front and adjacent lanes. If a collision is imminent when changing lanes, Forward CollisionAvoidance Assist may apply emergency braking to help prevent a collision.
 
 ### Junction Turning function
-`kia_ev6_en_fd922d04` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f8022236980d22425b5d6f62651a3613bd17d5269f382424dc5232e23296a84f.webp)
 
 Junction Turning function may help avoid a collision with an oncoming vehicle in an adjacent lane when turning left at a crossroad with the turn signal on by applying emergency braking.
 
 ### Junction Crossing function (if equipped)
-`kia_ev6_en_704eada8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/3303cd273f8ea0ee2b4b4d522c2d3fa64c2738ba61e8e96c79b580734b422292.webp)
 
 Junction Crossing function may help avoid a collision with oncoming vehicles on the left or right side when crossing an intersection by applying emergency braking.
 
 ### Lane-Change Oncoming function (if equipped)
-`kia_ev6_en_e363d516` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d1539332520e7f6c3011092226ea2dcaaf5bff650a43bcb170459f8abdacc7d4.webp)
 
@@ -10084,7 +8878,6 @@ Junction Crossing function may help avoid a collision with oncoming vehicles on 
 Lane-Change Oncoming function may help avoid a collision with an oncoming vehicle when changing lanes by assisting the driver's steering.
 
 ### Lane-Change Side function (if equipped)
-`kia_ev6_en_9651aaa9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5d9a8491c1f6d19d8470129281822d27ad92fdaabed84c12def826b56aff9937.webp)
 
@@ -10093,7 +8886,6 @@ Lane-Change Oncoming function may help avoid a collision with an oncoming vehicl
 in the next lane when changing lanes by assisting the driver's steering.
 
 ### Evasive Steering Assist function (if equipped)
-`kia_ev6_en_87cd87fb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9dd61090b985d03204513196fd5a66c6a13f144801d8383d9acb8bb5cf7857fe.webp)
 
@@ -10106,7 +8898,6 @@ Evasive steering assist
 Evasive Steering Assist function may help to avoid a collision with a pedestrian or cyclist ahead in the same lane. When a risk of collision is detected, Evasive Steering Assist function may warn the driver and if there is space to avoid collision in the lane, it will assist the driver's steering.
 
 ### Detecting sensor
-`kia_ev6_en_fba11def` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Front view
 
@@ -10114,22 +8905,19 @@ Front view
 
 detailed location of the detecting sensors.
 
-### CAUTION
-`kia_ev6_en_88b7f015` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
-
-Take the following precautions to main
-tain optimal performance of the detect
-ing sensor:
-僅 Never disassemble the detecting sensor or sensor assembly, or apply any impact on it. If the detecting sensors have been replaced or repaired, have the vehicle inspected by an authorized Kia dealer. Never install any accessories or stickers on the front windshield, or tint the front windshield. Pay extreme caution to keep the front view camera dry. Never place any reflective objects (i.e. white paper, mirror) over the dashboard. Do not place any objects near the front windshield or install any accessories on the front windshield. It can affect the performance of the defogging and defrosting function of the climate control system, which may prevent the Driver Assistance systems from operating. Do not apply license plate frame or objects, such as a bumper sticker, film or a bumper guard, near the front radar cover. Always keep the front radar and cover clean and free of dirt and debris. Use only a soft cloth to wash the vehicle. Do not spray pressurized water directly on the sensor or sensor cover. If unnecessary force has been applied to the radar or around the radar, Forward Collision-Avoidance Assist may not properly operate even though a warning message does not appear on the cluster. Have the vehicle inspected by an authorized Kia dealer.
-Use only genuine parts to repair or
-replace a damaged front radar cover.
-Do not apply paint to the front radar
-cover.
-Vehicles equipped with front corner
-radar and/or rear corner radar Do not apply license plate frame or objects, such as a bumper sticker, film or a bumper guard, near the front corner radar or rear corner radar. The function may not work properly when the bumper has been replaced, or the surroundings of the front corner radar or rear corner radar has been damaged or paint has been applied. If a trailer, carrier, etc. is installed, it may adversely affect the performance of the rear corner radar or Forward Collision-Avoidance Assist may not operate properly.
+> ⚠️ **Внимание:** 
+> Take the following precautions to main
+> tain optimal performance of the detect
+> ing sensor:
+> 僅 Never disassemble the detecting sensor or sensor assembly, or apply any impact on it. If the detecting sensors have been replaced or repaired, have the vehicle inspected by an authorized Kia dealer. Never install any accessories or stickers on the front windshield, or tint the front windshield. Pay extreme caution to keep the front view camera dry. Never place any reflective objects (i.e. white paper, mirror) over the dashboard. Do not place any objects near the front windshield or install any accessories on the front windshield. It can affect the performance of the defogging and defrosting function of the climate control system, which may prevent the Driver Assistance systems from operating. Do not apply license plate frame or objects, such as a bumper sticker, film or a bumper guard, near the front radar cover. Always keep the front radar and cover clean and free of dirt and debris. Use only a soft cloth to wash the vehicle. Do not spray pressurized water directly on the sensor or sensor cover. If unnecessary force has been applied to the radar or around the radar, Forward Collision-Avoidance Assist may not properly operate even though a warning message does not appear on the cluster. Have the vehicle inspected by an authorized Kia dealer.
+> Use only genuine parts to repair or
+> replace a damaged front radar cover.
+> Do not apply paint to the front radar
+> cover.
+> Vehicles equipped with front corner
+> radar and/or rear corner radar Do not apply license plate frame or objects, such as a bumper sticker, film or a bumper guard, near the front corner radar or rear corner radar. The function may not work properly when the bumper has been replaced, or the surroundings of the front corner radar or rear corner radar has been damaged or paint has been applied. If a trailer, carrier, etc. is installed, it may adversely affect the performance of the rear corner radar or Forward Collision-Avoidance Assist may not operate properly.
 
 ### Forward Safety
-`kia_ev6_en_d063c90d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Q ADriver Assistance
 Driver Attention Warning Active Assist 2 Prouidesa war and
@@ -10167,7 +8955,6 @@ With the vehicle on, select Setup →
 Vehicle → Driver assistance → Forward safety → Forward Cross-Traffic Safety from the infotainment system screen to turn on Junction Crossing function and deselect to turn off the function.
 
 ### ！ WARNING
-`kia_ev6_en_8a1e3f80` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the vehicle is restarted, Forward Collision-Avoidance Assist will always turn on. However, if Off is selected, the driver should always be aware of the surroundings and drive safely.
 
@@ -10175,17 +8962,14 @@ When the vehicle is restarted, Forward Collision-Avoidance Assist will always tu
 Forward Cross-Traffic Safety (if equipped)
 
 ### ！ CAUTION
-`kia_ev6_en_a7714b1c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If Warning Only is selected, braking and steering (if equipped) is not assisted. The settings for Forward Safety include 'Basic function' and 'Junction Turning', 'Lane-Change Oncoming', 'Lane-Change Side' and 'Evasive Steering Assist' (if equipped). If Forward Safety is set to Off, Junction Crossing function will not operate even when Forward Cross-Traffic Safety (if equipped) is selected.
 
 ### \* NOTICE
-`kia_ev6_en_67f19161` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Forward Collision-Avoidance Assist will turn off when ESC is turned off by pressing and holding the ESC OFF button. The warning light ( ) will illuminate on the cluster.
 
 ### Warning Timing
-`kia_ev6_en_2fe3d2e5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A: Driver Assistance 1 Warning Timing 2 Standard
 3 Late
@@ -10197,7 +8981,6 @@ Standard: Use in a normal driving environment. If the function operates too sens
 Late: The warning timing will be slow
 
 ### Warning Volume
-`kia_ev6_en_a4cf7297` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/bb9fa00c0e4e63e2428d81657757574e72cf002f128c4f2729376e2e1f9e3bf9.webp)
 
@@ -10209,15 +8992,12 @@ A: Driver Assistance
 
 With the vehicle on, select Setup → Vehicle → Driver Assistance → Warning Volume from the infotainment system screen to change the Warning Volume to High, Medium, or Low for Forward Collision-Avoidance Assist. If you change the Warning Volume, the warning volume of other Driver Assistance systems may change.
 
-### CAUTION
-`kia_ev6_en_ead585ba` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-The setting of the Warning Timing and Warning Volume applies to all functions of Forward Collision-Avoidance Assist.
-Even though Normal is selected for Warning Timing, if the front vehicle suddenly stops, the initial warning activation time may seem late.
-Select Late for Warning Timing when traffic is light and when driving speed is slow.
+> ⚠️ **Внимание:** 
+> The setting of the Warning Timing and Warning Volume applies to all functions of Forward Collision-Avoidance Assist.
+> Even though Normal is selected for Warning Timing, if the front vehicle suddenly stops, the initial warning activation time may seem late.
+> Select Late for Warning Timing when traffic is light and when driving speed is slow.
 
 ### Basic function
-`kia_ev6_en_825bc029` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The basic function for Forward CollisionAvoidance Assist is warned and con trolled by the following level.
 
@@ -10227,7 +9007,6 @@ Stopping vehicle and ending brake
 control
 
 ### A: Collision Warning
-`kia_ev6_en_c17f8b74` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The warning message, an audible warning will sound to warn the driver of a collision.
 
@@ -10236,7 +9015,6 @@ Collision Warning will be activated in following conditions.
 Vehicle: Your vehicle speed is approx imately 6\~124 mph (10\~200 km/h) Pedestrian or cyclist: Your vehicle speed is approximately 6\~53 mph (10\~85 km/h)
 
 ### A: Emergency Braking
-`kia_ev6_en_370d1bd2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The warning message, an audible warning will sound to warn the driver that emergency braking will be assisted. The brake assist will be activated and it may help avoid a collision with a vehicle, pedestrian and cyclist.
 
@@ -10256,14 +9034,12 @@ Stopping vehicle and ending brake control
 ![](images/8b6b19be78610a83cc4d88fafc7af0874c3ec0bbdd5dc30781d0d223609e18b1.webp)
 
 ### A: Drive carefully
-`kia_ev6_en_2ddda498` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the vehicle is stopped due to emergency braking, the warning message will appear on the cluster. For your safety, the driver should depress the brake pedal immediately and check the surroundings.
 
 Brake control will end after the vehicle is stopped by emergency braking for approximately 2 seconds.
 
 ### Warning and control
-`kia_ev6_en_96ee058f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The basic function for Junction Turning function is warned and controlled by the following level.
 
@@ -10273,7 +9049,6 @@ Stopping vehicle and ending brake
 control
 
 ### A: Collision Warning
-`kia_ev6_en_3064a269` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The warning message, an audible warning will sound to warn the driver of a collision.
 
@@ -10282,7 +9057,6 @@ Collision Warning will be activated in following conditions.
 Vehicle speed: Approximately 6\~19 mph (10\~30 km/h) Oncoming vehicle speed: Approximately 19\~44 mph (30\~70 km/h)
 
 ### A: Emergency Braking
-`kia_ev6_en_7b8cd671` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The warning message, an audible warning will sound to warn the driver that emergency braking will be assisted. The brake assist will be activated and it may help avoid a collision of a vehicle.
 
@@ -10291,7 +9065,6 @@ Emergency Braking will be activated in following conditions.
 Vehicle speed: Approximately 6\~19 mph (10\~30 km/h) Oncoming vehicle speed: Approximately 19\~44 mph (30\~70 km/h)
 
 ### \* NOTICE
-`kia_ev6_en_0955d5f5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the driver's seat is on the left side, Junction Turning function will operate only when the driver turns left. If the driver's seat position is on right side, the function will operate only when you turn right.
 
@@ -10299,7 +9072,6 @@ If the driver's seat is on the left side, Junction Turning function will operate
 Stopping vehicle and ending brake control
 
 ### A: Drive carefully
-`kia_ev6_en_17e250f0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the vehicle is stopped due to emergency braking, the warning message will appear on the cluster.
 
@@ -10308,7 +9080,6 @@ For your safety, the driver should depress the brake pedal immediately and check
 Brake control will end after the vehicle is stopped by emergency braking for approximately 2 seconds.
 
 ### Warning and control
-`kia_ev6_en_5ed43cbb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The basic function for Junction Crossing function is warned and controlled by the following level.
 
@@ -10318,7 +9089,6 @@ Stopping vehicle and ending brake
 control
 
 ### A: Collision Warning
-`kia_ev6_en_edf0684b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The warning message, an audible warn ing will sound to warn the driver of a collision.
 
@@ -10327,7 +9097,6 @@ Collision Warning will be activated in following conditions.
 Vehicle speed: Approximately 6\~19 mph (10\~30 km/h) Crossing vehicle speed: Approximately 6\~37 mph (10\~60 km/h)
 
 ### A: Emergency Braking
-`kia_ev6_en_0b5de377` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The warning message, an audible warn ing will sound to warn the driver that emergency braking will be assisted. The brake assist will be activated and it may help avoid a collision of a vehicle.
 
@@ -10340,7 +9109,6 @@ Stopping vehicle and ending brake control
 ![](images/e1534b452be1427804f32f20ca606f76080c2e1712fd38d19dbb172f392577e5.webp)
 
 ### A: Drive carefully
-`kia_ev6_en_0d0c2eff` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the vehicle is stopped due to emergency braking, the Drive carefully warning message will appear on the cluster.
 
@@ -10349,14 +9117,12 @@ For your safety, the driver should depress the brake peda immediately and check 
 Brake control will end after the vehicle is stopped by emergency braking for approximately 2 seconds.
 
 ### ！ CAUTION
-`kia_ev6_en_e8116ab0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c47bd07cac07833c9de07758cb820e33afec8e32fbfb6529434e4fa10c480ab7.webp)
 
 If the collision angle with the crossing vehicle is beyond a certain range, Junction Crossing Warning and control may be late or may not operate.
 
 ### Lane-Change Oncoming function (if equipped)
-`kia_ev6_en_696e8137` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning and control
 
@@ -10365,7 +9131,6 @@ The basic function for Lane-Change Oncoming function is warned and controlled by
 Collision Warning Emergency Steering
 
 ### A: Collision Warning
-`kia_ev6_en_3f8ec783` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The warning message, an audible warning will sound to warn the driver of a collision.
 
@@ -10376,7 +9141,6 @@ Oncoming vehicle speed: Approximately above 6 mph (10 km/h)
 Relative speed: Approximately below 124 mph (200 km/h)
 
 ### A: Emergency Steering
-`kia_ev6_en_86948d39` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To warn the driver that emergency steering will be assisted, the warning message will appear on the cluster, an audible warning will sound.
 
@@ -10387,14 +9151,12 @@ Oncoming vehicle speed: Approximately above 6 mph (10 km/h)
 Relative speed: Approximately below 124 mph (200 km/h)
 
 ### Warning and control
-`kia_ev6_en_d5a9744e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The basic function for Lane-Change Oncoming function is warned and controlled by the following level.
 
 Collision Warning Emergency Steering
 
 ### A: Collision Warning
-`kia_ev6_en_6c200882` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To warn the driver of a collision, the warning message will appear on the cluster, an audible warning will sound. Emergency Steering will be activated in following conditions.
 
@@ -10404,7 +9166,6 @@ Vehicle speed: 25\~90 mph (40\~145 km/h) Front-side vehicle: Driving
 Emergency Steering
 
 ### A: Emergency Steering
-`kia_ev6_en_86948d39` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To warn the driver that emergency steering will be assisted, the warning message will appear on the cluster, an audible warning will sound.
 
@@ -10412,15 +9173,12 @@ Emergency Steering will be activated in following conditions.
 
 Vehicle speed: Approximately 25\~90 mph (40\~145 km/h)
 
-### CAUTION
-`kia_ev6_en_4b279510` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-![](images/1d902009f78d31d97503acbd76897eb2532feff85a4de1c23e9b9c2d4b873503.webp)
-
-Lane-Change Side function does not operate if the oncoming vehicle from the front side is stopped.
+> ⚠️ **Внимание:** 
+> ![](images/1d902009f78d31d97503acbd76897eb2532feff85a4de1c23e9b9c2d4b873503.webp)
+>
+> Lane-Change Side function does not operate if the oncoming vehicle from the front side is stopped.
 
 ### Evasive Steering Assist function (if equipped)
-`kia_ev6_en_8df2f6a4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning and control
 
@@ -10433,7 +9191,6 @@ Emergency Steering (Driver steering assist)
 ![](images/e4aa990c4100b14dcbe7feea29b637a19380871acd33c33cf8eb0638e5f7e637.webp)
 
 ### A: Emergency Steering
-`kia_ev6_en_fe53e070` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To warn the driver that emergency steering will be assisted, the warning message will appear on the cluster, an audible warning will sound. If there is a risk of collision with a vehicle, pedestrian or cyclist in front, the steering will be assisted to help prevent collision when the driver steers the vehicle to avoid collision.
 
@@ -10446,7 +9203,6 @@ Emergency Steering (Evasive steering assist)
 ![](images/4f4790140dcea7872531b0c1ed2c06e79e2d608f8463ea606277d44b6eb44a6b.webp)
 
 ### A: Emergency Steering
-`kia_ev6_en_b83b0866` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To warn the driver that emergency steering will be assisted, the warning message will appear on the cluster, an audible warning will sound. If there is high risk of collision with a pedestrian or cyclist in front, and the vehicle speed to operate emergency braking is within the operation range, the steering will be assisted to help prevent collision when there is space to avoid collision in the driving lane.
 
@@ -10454,26 +9210,22 @@ Emergency Steering will be activated in following conditions.
 
 Vehicle speed: 40\~47 mph (65\~75 km/h)
 
-### CAUTION
-`kia_ev6_en_f6431f0b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-The steering wheel may turn auto matically when emergency steering is operating.
-Emergency steering will automati
-cally cancel when risk factors disappear. If necessary, the driver must
-steer the vehicle.
-Emergency steering may not operate or may cancel during operation if the steering wheel is held tight or steered in the opposite direction.
-When steering is assisted to avoid collision with a vehicle, pedestrian and cyclist, Evasive steering assist will be canceled if collisions with other
-objects (vehicles, pedestrians, or
-cyclists) are expected.
-Evasive steering assist may not operate if space to avoid collision in the driving lane is insufficient.
+> ⚠️ **Внимание:** 
+> The steering wheel may turn auto matically when emergency steering is operating.
+> Emergency steering will automati
+> cally cancel when risk factors disappear. If necessary, the driver must
+> steer the vehicle.
+> Emergency steering may not operate or may cancel during operation if the steering wheel is held tight or steered in the opposite direction.
+> When steering is assisted to avoid collision with a vehicle, pedestrian and cyclist, Evasive steering assist will be canceled if collisions with other
+> objects (vehicles, pedestrians, or
+> cyclists) are expected.
+> Evasive steering assist may not operate if space to avoid collision in the driving lane is insufficient.
 
 ### \* NOTICE
-`kia_ev6_en_0c834b11` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The images or colors may be displayed differently depending on the specifications of the instrument cluster or theme.
 
 ### ！ WARNING
-`kia_ev6_en_4a0991af` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 For your safety, change the Settings after parking the vehicle at a safe location. With Active Assist or Warning Only selected, when ESC is turned off by pressing and holding the ESC OFF button, Forward Collision-Avoidance Assist will turn off automatically. In this case, Forward Collision-Avoid
 
@@ -10486,43 +9238,35 @@ The driver should hold the responsi bility to control the vehicle. Do not solely
 You may not hear the warning sound of Forward Collision-Avoidance Assist if the surrounding is noisy. Forward Collision-Avoidance Assist may turn off or may not operate properly or may operate unnecessarily depending on the road conditions and the surroundings.
 
 ### ！ WARNING
-`kia_ev6_en_7a262e76` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Even if there is a problem with Forward Collision-Avoidance Assist, the vehicle's basic braking performance will operate normally.
 During emergency braking, braking control by Forward Collision-Avoidance Assist will automatically cancel when the driver excessively depresses the accelerator pedal or sharply steers the vehicle.
 
 ### ！ CAUTION
-`kia_ev6_en_9c9c612a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Depending on the condition of the vehicle, pedestrian and cyclist in front and the surroundings, the speed
 range to operate Forward CollisionAvoidance Assist may reduce. Forward Collision-Avoidance Assist may only warn the driver, or it may not operate.
 Forward Collision-Avoidance Assist will operate under certain conditions by judging the risk level based on the condition of the oncoming vehicle, driving direction, speed and sur
 roundings.
 
-### WARNING
-`kia_ev6_en_2d7ae1b0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-When a collision with a surrounding vehicle is expected, Lane-Change Oncoming, Lane-Change Side and Evasive Steering Assist functions will only warn the driver. (if equipped)
+> ⚠️ **Внимание:** 
+> When a collision with a surrounding vehicle is expected, Lane-Change Oncoming, Lane-Change Side and Evasive Steering Assist functions will only warn the driver. (if equipped)
 
 ### \* NOTICE
-`kia_ev6_en_1480959e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In a situation where collision is imminent, braking may be assisted by Forward Collision-Avoidance Assist when braking is insufficient by the driver.
 
 ### Forward Collision-Avoidance Assist malfunction and limitations
-`kia_ev6_en_7ca80a02` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Forward Collision-Avoidance Assist malfunction
 
 ![](images/0425e45108eec35c037ce8ee567acb397800cfb0788199ecb82265acc29e5961.webp)
 
 ### A: Check Forward Safety system
-`kia_ev6_en_92751285` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Forward Collision-Avoidance Assist is not working properly, the warning message will appear, and the ( ) and ( ) warning lights will illuminate on the cluster. Have the vehicle inspected by an authorized Kia dealer.
 
 ### A: Forward Safety system disabled. Camera obscured
-`kia_ev6_en_0b7cbce9` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 When the front windshield where the front view camera is located, front radar cover, bumper or sensor is covered with foreign material, such as snow or rain, it can reduce the detecting performance and temporarily limit or disable Forward Collision-Avoidance Assist.
 
@@ -10533,12 +9277,10 @@ Forward Collision-Avoidance Assist will operate normally when snow, rain or fore
 If Forward Collision-Avoidance Assist does not operate normally after obstruction (snow, rain, or foreign material) is removed (including trailer, carrier, etc. from the rear bumper), have the vehicle inspected by an authorized Kia dealer.
 
 ### ！ WARNING
-`kia_ev6_en_bcaa7e2d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Even though the warning message or warning light does not appear on the cluster, Forward Collision-Avoidance Assist may not properly operate. Forward Collision-Avoidance Assist may not properly operate in an area (e.g. open terrain), where any sub stance are not detected after turning ON the vehicle.
 
 ### Limitations of Forward CollisionAvoidance Assist
-`kia_ev6_en_24ea7e66` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Forward Collision-Avoidance Assist may not operate normally, or it may operate unexpectedly under the following circumstances:
 
@@ -10574,7 +9316,6 @@ Unstable driving
 You are on a roundabout and the
 
 ### Limitations of Forward CollisionAvoidance Assist
-`kia_ev6_en_01603448` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 vehicle in front is not detected
 You are continuously driving in a circle
@@ -10608,7 +9349,6 @@ Driving through a narrow road where trees or grass are overgrown
 There is interference by electromagnetic waves, such as driving in an area with strong radio waves or electrical noise
 
 ### Junction Crossing, Lane-Change Oncoming, Lane-Change Side, Evasive Steering Assist function (if equi
-`kia_ev6_en_5f7dd19c` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The temperature around the front corner radar or rear corner radar is high or low
 A trailer or carrier is installed around the rear corner radar
@@ -10651,57 +9391,54 @@ side on the lane marking
 The distance to the front vehicle is
 extremely short
 
-### WARNING
-`kia_ev6_en_984af06e` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
-
-Driving on a curved road
-
-![](images/bf8b70ad2ca46a7550467fa9e8cd77f21a48ad799a23467c93aed84d7ce25f54.webp)
-
-Forward Collision-Avoidance Assist may not detect other vehicles, pedestrians or cyclists in front of you on curved roads adversely affecting the performance of the sensors. This may result in no warning, braking assist or steering assist (if equipped) when necessary.
-
-When driving on a curved road, you must maintain a safe braking distance, and if necessary, steer the vehicle and depress the brake pedal to reduce your driving speed in order to maintain a safe distance.
-
-![](images/23280d5edb2d563f986f5f74e15220bdbb058debd849e4d22edf51f7b8ded432.webp)
-
-Forward Collision-Avoidance Assist may detect a vehicle, pedestrian or cyclist in the next lane or outside the lane when driving on a curved road. If this occurs, Forward Collision-Avoidance Assist may unnecessarily warn the driver and control the brake or steering wheel (if equipped). Always check the traffic conditions around the vehicle.
-
-Driving on a sloped road
-
-![](images/40f32a9b53bc8b863001298bf89236639e6b0c71e93d6743d7e73fc5c0195d3a.webp)
-
-Forward Collision-Avoidance Assist may not detect other vehicles, pedestrians or cyclists in front of you while driving uphill or downhill, adversely affecting the performance of the sensors.
-
-This may result in unnecessary warning, braking assist or steering assist (if equipped) or no warning, braking assist or steering assist (if equipped) when necessary.
-
-Also, vehicle speed may rapidly decrease when a vehicle, pedestrian or cyclist ahead is suddenly detected.
-
-Always have your eyes on the road while driving uphill or downhill and if necessary, steer your vehicle and depress the brake pedal to reduce your driving speed in order to maintain a safe distance.
-
-Changing lanes
-
-![](images/8a363dfb3e6132cb6756632b6407ec4ddba1371202f7457395cea5365af5a3b1.webp)
-
-[A]: Your vehicle, [B]: Lane changing vehicle
-
-When a vehicle moves into your lane from an adjacent lane, it cannot be detected by the sensor until it is in the sensor's detection range. Forward Collision-Avoidance Assist may not immediately detect the vehicle when the vehicle changes lanes abruptly. In this case, you must maintain a safe braking distance, and if necessary, steer your vehicle and depress the brake pedal to reduce your driving speed in order to maintain a safe distance.
-
-![](images/cbbb4802251313294a25c50427897871a2e8711c412a785b0a2f80d74c262282.webp)
-
-[A]: Your vehicle, [B]: Lane changing vehicle,
-
-[C]: Same lane vehicle
-
-When a vehicle in front of you merges out of the lane, Forward CollisionAvoidance Assist may not immediately detect the vehicle that is now in front of you. In this case, you must maintain a safe braking distance, and if necessary, steer your vehicle and depress the brake pedal to reduce your driving speed in order to maintain a safe distance.
-
-Detecting a vehicle
-
-![](images/683d29c268ac317718569664abc76685c8879950bee63ad57ed6cdabb01ced5c.webp)
-
-If the vehicle in front of you has cargo that extends rearward from the cab, or when the vehicle in front of you has higher ground clearance, additional specia attention is required. Forward Collision-Avoidance Assist may not be able to detect the cargo extending from the vehicle. In these instances, you must maintain a safe braking distance from the rearmost object, and if necessary, steer your vehicle and depress the brake pedal to reduce your driving speed in order to maintain distance.
+> ⚠️ **Внимание:** 
+> Driving on a curved road
+>
+> ![](images/bf8b70ad2ca46a7550467fa9e8cd77f21a48ad799a23467c93aed84d7ce25f54.webp)
+>
+> Forward Collision-Avoidance Assist may not detect other vehicles, pedestrians or cyclists in front of you on curved roads adversely affecting the performance of the sensors. This may result in no warning, braking assist or steering assist (if equipped) when necessary.
+>
+> When driving on a curved road, you must maintain a safe braking distance, and if necessary, steer the vehicle and depress the brake pedal to reduce your driving speed in order to maintain a safe distance.
+>
+> ![](images/23280d5edb2d563f986f5f74e15220bdbb058debd849e4d22edf51f7b8ded432.webp)
+>
+> Forward Collision-Avoidance Assist may detect a vehicle, pedestrian or cyclist in the next lane or outside the lane when driving on a curved road. If this occurs, Forward Collision-Avoidance Assist may unnecessarily warn the driver and control the brake or steering wheel (if equipped). Always check the traffic conditions around the vehicle.
+>
+> Driving on a sloped road
+>
+> ![](images/40f32a9b53bc8b863001298bf89236639e6b0c71e93d6743d7e73fc5c0195d3a.webp)
+>
+> Forward Collision-Avoidance Assist may not detect other vehicles, pedestrians or cyclists in front of you while driving uphill or downhill, adversely affecting the performance of the sensors.
+>
+> This may result in unnecessary warning, braking assist or steering assist (if equipped) or no warning, braking assist or steering assist (if equipped) when necessary.
+>
+> Also, vehicle speed may rapidly decrease when a vehicle, pedestrian or cyclist ahead is suddenly detected.
+>
+> Always have your eyes on the road while driving uphill or downhill and if necessary, steer your vehicle and depress the brake pedal to reduce your driving speed in order to maintain a safe distance.
+>
+> Changing lanes
+>
+> ![](images/8a363dfb3e6132cb6756632b6407ec4ddba1371202f7457395cea5365af5a3b1.webp)
+>
+> [A]: Your vehicle, [B]: Lane changing vehicle
+>
+> When a vehicle moves into your lane from an adjacent lane, it cannot be detected by the sensor until it is in the sensor's detection range. Forward Collision-Avoidance Assist may not immediately detect the vehicle when the vehicle changes lanes abruptly. In this case, you must maintain a safe braking distance, and if necessary, steer your vehicle and depress the brake pedal to reduce your driving speed in order to maintain a safe distance.
+>
+> ![](images/cbbb4802251313294a25c50427897871a2e8711c412a785b0a2f80d74c262282.webp)
+>
+> [A]: Your vehicle, [B]: Lane changing vehicle,
+>
+> [C]: Same lane vehicle
+>
+> When a vehicle in front of you merges out of the lane, Forward CollisionAvoidance Assist may not immediately detect the vehicle that is now in front of you. In this case, you must maintain a safe braking distance, and if necessary, steer your vehicle and depress the brake pedal to reduce your driving speed in order to maintain a safe distance.
+>
+> Detecting a vehicle
+>
+> ![](images/683d29c268ac317718569664abc76685c8879950bee63ad57ed6cdabb01ced5c.webp)
+>
+> If the vehicle in front of you has cargo that extends rearward from the cab, or when the vehicle in front of you has higher ground clearance, additional specia attention is required. Forward Collision-Avoidance Assist may not be able to detect the cargo extending from the vehicle. In these instances, you must maintain a safe braking distance from the rearmost object, and if necessary, steer your vehicle and depress the brake pedal to reduce your driving speed in order to maintain distance.
 
 ### A WARNING
-`kia_ev6_en_3c149f36` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When you are towing a trailer or
 another vehicle, we recommend that Forward Collision-Avoidance Assist is turned off due to safety reasons.
@@ -10710,7 +9447,6 @@ Forward Collision-Avoidance Assist may not operate normally if interfered by str
 Forward Collision-Avoidance Assist may not operate for 15 seconds after the vehicle is started, or the front view camera is initialized.
 
 ### This device complies with Part 15 of the FCC rules.
-`kia_ev6_en_385acad1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Operation is subject to the following three conditions:
 
@@ -10719,17 +9455,14 @@ Operation is subject to the following three conditions:
 3. Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the device.
 
 ### Radio frequency radiation expo sure information:
-`kia_ev6_en_9591b646` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. This equipment should be installed and operated with minimum distance of 8 inches (20 cm) between the radiator (antenna) and your body. This transmitter must not be colocated or operating in conjunction with any other antenna or transmitter.
 
 ### Lane Keeping Assist (LKA)
-`kia_ev6_en_25625e1f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Lane Keeping Assist is designed to help detect lane markings (or road edges) while driving over a certain speed. Lane Keeping Assist will warn the driver if the vehicle leaves the lane without using the turn signal, or will automatically assist the driver's steering to help prevent the vehicle from departing the lane.
 
 ### Detecting sensor
-`kia_ev6_en_92495418` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Front view camera
 
@@ -10740,12 +9473,10 @@ The front view camera is used as a detecting sensor to detect lane markings (or 
 Refer to the picture above for the detailed location of the detecting sensor.
 
 ### ！ CAUTION
-`kia_ev6_en_6a0f602c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For more details on the precautions of the front view camera, refer to "Forward Collision-Avoidance Assist (FCA)" on page 6-46.
 
 ### Lane Keeping Assist settings Lane Safety
-`kia_ev6_en_606488bd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d39dbbb25c4cccb3dc022cb4d6430c04aeddde147d0d44a0e4d7b1e4608c196b.webp)
 
@@ -10762,15 +9493,12 @@ Warning Only: Lane Keeping Assist will warn the driver with an audible warning w
 detected. The driver must steer the vehicle.
 Off: Lane Keeping Assist will turn off. The indicator ( ) light will turn off on the cluster.
 
-### WARNING
-`kia_ev6_en_beb5e321` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-If Warning Only is selected, steering is not assisted.
-Lane Keeping Assist does not control the steering wheel when the vehicle is driven in the middle of the lane.
-The driver should always be aware of the surroundings and steer the vehicle if Off is selected.
+> ⚠️ **Внимание:** 
+> If Warning Only is selected, steering is not assisted.
+> Lane Keeping Assist does not control the steering wheel when the vehicle is driven in the middle of the lane.
+> The driver should always be aware of the surroundings and steer the vehicle if Off is selected.
 
 ### Turning Lane Keeping Assist On/ Off
-`kia_ev6_en_cd837899` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/69ca4efb88de5d785bce3761233291ff02d2361426dfeaf23938506543be94a4.webp)
 
@@ -10781,12 +9509,10 @@ Press and hold the button again to turn off the function.
 If the vehicle is restarted, Lane Keeping Assist will maintain the last setting.
 
 ### \* NOTICE
-`kia_ev6_en_e3ead554` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the Lane Driving Assist button is pressed shortly, Lane Following Assist will turn on and off. When Lane Keeping Assist is turned off with the Lane Driving Assist button, the Lane Safety setting also changes to Off.
 
 ### Warning Volume
-`kia_ev6_en_fd8fabd1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a7a81cc03582984150c7e61baed5fc665e1fa98b7b1e7e0506744128eebc5e2a.webp)
 
@@ -10801,40 +9527,33 @@ With the vehicle on, select Setup → Vehicle → Driver Assistance → Warning 
 If you change the Warning Volume, the Warning Volume of other Driver Assistance functions may be changed.
 
 ### Lane Keeping Assist operation
-`kia_ev6_en_440581fb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e6f0ce4ad5b5d5e5e1c87e9f46fb13dffb9081504aef1b00f87aad211d8b044d.webp)
 
 Lane Keeping Assist will warn and control the vehicle with Lane Departure Warning and Lane Keeping Assist.
 
 ### Lane Departure Warning
-`kia_ev6_en_8df801b2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To warn the driver that the vehicle is departing from the projected lane in front, the green ( ) indicator light will blink on the cluster, the lane line will blink on the cluster depending on which direction the vehicle is veering, and an audible warning will sound. Vehicle speed: Approximately 40\~120 mph (60\~200 km/h).
 
 ### Lane Keeping Assist
-`kia_ev6_en_8fa9320a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To warn the driver that the vehicle is departing from the projected lane in front, the green ( ) indicator light will blink on the cluster, and the steering wheel will make adjustments to keep vehicle inside the lane. Vehicle speed: Approximately 40\~120 mph (60\~200 km/h).
 
 ### A: Keep hands on steering wheel
-`kia_ev6_en_6f8cd3ec` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the driver takes their hands off the steering wheel for several seconds, the warning message will appear on the cluster, and an audible warning will sound in stages.
 
-### WARNING
-`kia_ev6_en_217acf47` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-The steering wheel may not be assisted if the steering wheel is held very tight or the steering wheel is steered over a certain degree.
-
-Lane Keeping Assist does not operate at all times. It is the responsibility of the driver to safely steer the vehicle and to maintain the vehicle in its lane. The hands–off warning message may appear late depending on road conditions. Always have your hands on the steering wheel while driving.
-If the steering wheel is held very
-lightly, the hands–off warning message may appear because Lane Keeping Assist may not detect that the
-driver has their hands on the steering wheel.
-If you attach objects to the steering wheel, the hands-off warning may not work properly.
+> ⚠️ **Внимание:** 
+> The steering wheel may not be assisted if the steering wheel is held very tight or the steering wheel is steered over a certain degree.
+>
+> Lane Keeping Assist does not operate at all times. It is the responsibility of the driver to safely steer the vehicle and to maintain the vehicle in its lane. The hands–off warning message may appear late depending on road conditions. Always have your hands on the steering wheel while driving.
+> If the steering wheel is held very
+> lightly, the hands–off warning message may appear because Lane Keeping Assist may not detect that the
+> driver has their hands on the steering wheel.
+> If you attach objects to the steering wheel, the hands-off warning may not work properly.
 
 ### \* NOTICE
-`kia_ev6_en_92fb3822` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For more details on setting the instrument cluster, refer to "Instrument
 cluster" on page 5-63.
@@ -10847,31 +9566,26 @@ Lane undetected
 ![](images/e7a2cd0ee80374af6e4a4a3455c7fc9d00f5b9db7e5d9ad3a7b539024a49f520.webp)
 
 ### Lane detected
-`kia_ev6_en_f002cdf9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7739aa8da0215d273635512ac3ca8fb800735433c3c715fcf373cb96ba520673.webp)
 
 Even though the steering is assisted by Lane Keeping Assist, the driver may control the steering wheel. The steering wheel may feel heavier or lighter when the steering wheel is assisted by Lane Keeping Assist than when it is not.
 
 ### \* NOTICE
-`kia_ev6_en_0c834b11` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The images or colors may be displayed differently depending on the specifications of the instrument cluster or theme.
 
 ### Lane Keeping Assist malfunction and limitations
-`kia_ev6_en_beb9902d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Lane Keeping Assist malfunction
 
 ![](images/4731ba9ae46a03999a2da036203df45306b9add1ebaa9643f34eb2c865f701d0.webp)
 
 ### A: Check Lane Safety system
-`kia_ev6_en_f9cbdd24` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Lane Keeping Assist is not working properly, the warning message will appear and the yellow ( ) indicator light will illuminate on the cluster. If this occurs, have the function inspected by an authorized Kia dealer.
 
 ### Limitations of Lane Keeping Assist
-`kia_ev6_en_48dbd439` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Lane Keeping Assist may not operate normally or may operate unexpectedly under the following circumstances:
 
@@ -10881,52 +9595,48 @@ Lane Keeping Assist may not operate normally or may operate unexpectedly under t
 The distance to the front vehicle is extremely short or the vehicle in front is covering the lane marking (or road edge)
 
 ### \* NOTICE
-`kia_ev6_en_5223d4af` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For more details on the limitations of the front view camera, refer to "Forward Collision-Avoidance Assist (FCA)" on page 6-46.
 
-### WARNING
-`kia_ev6_en_7a9cc44f` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
-
-Take the following precautions when using Lane Keeping Assist:
-
-The driver should hold the responsibility to safely drive and control the vehicle. Do not solely rely on the function and drive dangerously.
-The operation of Lane Keeping Assist can be canceled or not work properly depending on road conditions and surroundings. Always be cautious
-while driving.
-Refer to "Limitations of Lane Keeping Assist" if the lane is not detected properly.
-When you are towing a trailer or
-another vehicle, we recommend that Lane Keeping Assist is turned off due to safety reasons.
-If the vehicle is driven at high speed, the steering wheel will not be con
-trolled. The driver must always follow the speed limit when using Lane
-Keeping Assist. If any other function's warning message is displayed or audible warning is generated, Lane Keeping Assist warning message may not be displayed and audible warning may not be generated.
-You may not hear the warning sound of Lane Keeping Assist if the sur
-rounding is noisy.
-If you attach objects to the steering wheel, steering may not be assisted properly.
-Lane Keeping Assist may not operate for 15 seconds after the vehicle is
-started, or the Front view camera is initialized.
-
-Lane Keeping Assist will not operate when:
-
-The turn signal or hazard warning
-flasher is turned on
-The vehicle is not driven in the cen
-ter of the lane when the function is
-turned on or right after changing a
-lane
-ESC (Electronic Stability Control) or
-VSM (Vehicle Stability Manage
-ment) is activated
-The vehicle is driven on a sharp
-curved road
-Vehicle speed is below 35 mph (55
-km/h) or above 130 mph (210 km/
-h)
-The vehicle makes sharp lane
-changes
-The vehicle brakes suddenly
+> ⚠️ **Внимание:** 
+> Take the following precautions when using Lane Keeping Assist:
+>
+> The driver should hold the responsibility to safely drive and control the vehicle. Do not solely rely on the function and drive dangerously.
+> The operation of Lane Keeping Assist can be canceled or not work properly depending on road conditions and surroundings. Always be cautious
+> while driving.
+> Refer to "Limitations of Lane Keeping Assist" if the lane is not detected properly.
+> When you are towing a trailer or
+> another vehicle, we recommend that Lane Keeping Assist is turned off due to safety reasons.
+> If the vehicle is driven at high speed, the steering wheel will not be con
+> trolled. The driver must always follow the speed limit when using Lane
+> Keeping Assist. If any other function's warning message is displayed or audible warning is generated, Lane Keeping Assist warning message may not be displayed and audible warning may not be generated.
+> You may not hear the warning sound of Lane Keeping Assist if the sur
+> rounding is noisy.
+> If you attach objects to the steering wheel, steering may not be assisted properly.
+> Lane Keeping Assist may not operate for 15 seconds after the vehicle is
+> started, or the Front view camera is initialized.
+>
+> Lane Keeping Assist will not operate when:
+>
+> The turn signal or hazard warning
+> flasher is turned on
+> The vehicle is not driven in the cen
+> ter of the lane when the function is
+> turned on or right after changing a
+> lane
+> ESC (Electronic Stability Control) or
+> VSM (Vehicle Stability Manage
+> ment) is activated
+> The vehicle is driven on a sharp
+> curved road
+> Vehicle speed is below 35 mph (55
+> km/h) or above 130 mph (210 km/
+> h)
+> The vehicle makes sharp lane
+> changes
+> The vehicle brakes suddenly
 
 ### Blind-Spot Collision-Avoidance Assist (BCA) (if equipped)
-`kia_ev6_en_db3aa135` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Blind-Spot Collision-Avoidance Assist is designed to help detect and monitor approaching vehicles in the driver's blind spot area and warn the driver of a possible collision with a warning message and audible warning.
 
@@ -10937,7 +9647,6 @@ In addition, if there is a risk of collision when changing lanes or driving forw
 Blind-Spot Collision-Avoidance Assist helps detect and inform the driver that a vehicle is in the blind spot.
 
 ### ！ CAUTION
-`kia_ev6_en_9e50a962` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The detecting range may vary depending on the speed of your vehicle. However, even if there is a vehicle in the blind spot area, the function may not warn you when you pass by at high speeds.
 
@@ -10946,7 +9655,6 @@ The detecting range may vary depending on the speed of your vehicle. However, ev
 Blind-Spot Collision-Avoidance Assist helps detect and inform the driver that a vehicle is approaching at high speed from the blind spot area.
 
 ### Rear corner radar
-`kia_ev6_en_3fd72afd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning timing may vary depending on the speed of the vehicle approaching at high speed.
 
@@ -10959,7 +9667,6 @@ When changing lanes by detecting the lane ahead, if Blind-Spot Collision-Avoidan
 When you are driving forward out of a parking space, if Blind-Spot CollisionAvoidance Assist judges that there is a collision risk with an approaching vehicle in the blind spot, it will help avoid collision by applying the brake.
 
 ### Detecting sensor
-`kia_ev6_en_4ede6ef7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Front view camera
 
@@ -10970,7 +9677,6 @@ Front view camera
 Refer to the picture above for the detailed location of the detecting sensors.
 
 ### ！ CAUTION
-`kia_ev6_en_0dbd5bcf` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 Take the following precautions to maintain optimal performance of the detecting sensor:
 
@@ -10986,7 +9692,6 @@ If a trailer, carrier or other equipment is installed, it may adversely affect t
 For more details on the precautions of the front view camera, refer to "Forward Collision-Avoidance Assist (FCA)" on page 6-46.
 
 ### Blind-Spot Safety
-`kia_ev6_en_f8a504a7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Q A Driver Assistance O Prtioes
 Driver Attention Warning
@@ -11009,18 +9714,14 @@ Warning Only: Blind-Spot CollisionAvoidance Assist will warn the driver with a w
 ![](images/75bcbcd08eb225366326d68f52454068057125041a3be039d3f86a7caa0a197c.webp)
 
 ### A: Blind-Spot Safety System is Off
-`kia_ev6_en_1f77836c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the vehicle is restarted with BlindSpot Collision-Avoidance Assist off, the Blind-Spot Safety System is Off message will appear on the cluster. If you change the setting from Off to Active Assist or Warning Only, the warning light on the outside rear view mirror will blink for three seconds. In addition, if the vehicle is turned on, when Blind-Spot Collision-Avoidance Assist is set to Active Assist or Warning Only, the warning light on the outside rear view mirror will blink for three sec onds.
 
-### WARNING
-`kia_ev6_en_7774006b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-If Warning Only is selected, braking is not assisted.
-If Off is selected, the driver should always be aware of the surroundings and drive safely.
+> ⚠️ **Внимание:** 
+> If Warning Only is selected, braking is not assisted.
+> If Off is selected, the driver should always be aware of the surroundings and drive safely.
 
 ### Warning Timing
-`kia_ev6_en_196afbfd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/6d81c60ef46f2a184454bc284af017fef8f6a8fb05fd5d9d08f6dca3133daa34.webp)
 
@@ -11034,7 +9735,6 @@ To select the Warning time Standard or Late.
 Standard: Use under normal driving conditions. If it feels too sensitive, set the warning timing to Late. Late: The warning timing will be late
 
 ### Warning Volume
-`kia_ev6_en_5c7d4ae6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c406068f72db25622724dda5503b56431f80321bd1cf464f08c595fabe2db2f2.webp)
 
@@ -11048,16 +9748,13 @@ With the vehicle on, select Setup → Vehicle → Driver Assistance → Warning 
 
 Volume to High, Medium, or Low for Blind-Spot Collision-Avoidance Assist. If you change the Warning Volume, the warning volume of other Driver Assistance systems may change.
 
-### CAUTION
-`kia_ev6_en_f743783f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-The setting of the Warning Timing and Warning Volume applies to all functions of the Blind-Spot CollisionAvoidance Assist.
-Even though Standard is selected for Warning Timing, if the vehicles
-approaches at high speed, the initial warning activation time may seem late.
-Select Late for Warning Timing when traffic is light and when driving speed is slow.
+> ⚠️ **Внимание:** 
+> The setting of the Warning Timing and Warning Volume applies to all functions of the Blind-Spot CollisionAvoidance Assist.
+> Even though Standard is selected for Warning Timing, if the vehicles
+> approaches at high speed, the initial warning activation time may seem late.
+> Select Late for Warning Timing when traffic is light and when driving speed is slow.
 
 ### Vehicle detection
-`kia_ev6_en_b34e647f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0b981f57e1da1999f92d100d87fcbc839c1c1c30cc5fddaf543b6334cbb41b5d.webp)
 
@@ -11068,7 +9765,6 @@ Blind-Spot Collision-Avoidance Assist will operate as following circumstances.
 Vehicle speed: Above 12 mph (20 km/ h) The speed of the vehicle in the blind spot area: Above 7 mph (10 km/h)
 
 ### Collision warning
-`kia_ev6_en_37018894` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Collision warning will operate when the turn signal to change the lane in the direction of the vehicle in the blind spot area.
 
@@ -11077,23 +9773,19 @@ When the turn signal is turned off or you move away from the lane, the collision
 detection state.
 
 ### \* NOTICE
-`kia_ev6_en_4da4a861` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If Warning Only is selected from the Settings menu, the collision warning will operate when your vehicle approaches the lane in which the blind spot vehicle is detected.
 
 ### A WARNING
-`kia_ev6_en_0b937e19` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The detecting range of the rear corner radar is determined by a standard road width, therefore, on a narrow road, the function may detect other vehicles in the two lanes away and warn you. In contrast, on a wide road, the function may not be able to detect a vehicle driving in the next lane and may not warn you.
 When the hazard warning flasher is on, the collision warning by the turn signal will not operate.
 
 ### \* NOTICE
-`kia_ev6_en_92b751f6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the driver's seat is on the left side, the collision warning may occur when you turn left. If the driver's seat is on the right side, the collision warning may occur when you turn right. Maintain a proper distance with the vehicles in the lane. Images or colors may be displayed differently depends on the instrument cluster specifications or theme.
 
 ### A: Emergency Braking
-`kia_ev6_en_6dc0bd32` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To warn the driver of a collision, the warning light on the side view mirror will blink and a warning message will appear on the cluster. At the same time, an audible warning will sound, warning light on the head-up display (if equipped) will blink. It assists in braking control to help prevent collision with the vehicle in the blind spot area.
 
@@ -11102,15 +9794,12 @@ Collision-Avoidance Assist will be operated under the following circumstances.
 Your vehicle speed: 40\~120 mph (60\~200 km/h)
 Both lane markings of the driving lane are detected.
 
-### WARNING
-`kia_ev6_en_70eb73a7` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
-
-Collision-Avoidance Assist will be canceled under the following circumstances:
-
-Your vehicle enters the next lane by a certain distance Your vehicle is away from the collision risk The steering wheel is sharply steered The brake pedal is depressed Forward Collision-Avoidance Assist is operating After Blind-Spot Collision-Avoidance Assist operation or changing lane, you must drive to the center of the lane. The function will not operate if the vehicle is not driven in the center of the lane.
+> ⚠️ **Внимание:** 
+> Collision-Avoidance Assist will be canceled under the following circumstances:
+>
+> Your vehicle enters the next lane by a certain distance Your vehicle is away from the collision risk The steering wheel is sharply steered The brake pedal is depressed Forward Collision-Avoidance Assist is operating After Blind-Spot Collision-Avoidance Assist operation or changing lane, you must drive to the center of the lane. The function will not operate if the vehicle is not driven in the center of the lane.
 
 ### A: Emergency Braking
-`kia_ev6_en_0ad30206` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To warn the driver of a collision, the warning light on the outside rear view mirror will blink and a warning message will appear on the cluster. At the same time, an audible warning will sound, warning light on the head-up display (if equipped) will blink. Blind-Spot Collision-Avoidance Assist will operate when your vehicle speed is below 2 mph (3 km/h) and the
 
@@ -11119,14 +9808,12 @@ speed of the vehicle in the blind spot area is above 3 mph (5 km/h). Emergency b
 ![](images/bf6fccce91f85f01073dd551cf2c4fd87fb8a20ea3b06b563499973ea1c2ab01.webp)
 
 ### A: Drive carefully
-`kia_ev6_en_2ddda498` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the vehicle is stopped due to emergency braking, the warning message will appear on the cluster. For your safety, the driver should depress the brake pedal immediately and check the surroundings.
 
 Brake control will end after the vehicle is stopped by emergency braking for approximately 2 seconds.
 
 ### ！ WARNING
-`kia_ev6_en_3827474c` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Take the following precautions when using Blind-Spot Collision-Avoidance Assist:
 
@@ -11142,33 +9829,28 @@ road and driving conditions.
 Driver should maintain control of the vehicle at all times. Do not depend on Blind-Spot Collision-Avoidance Assist. Maintain a safe braking distance, and if necessary, depress the brake pedal to reduce driving speed or to stop the vehicle.
 
 ### A WARNING
-`kia_ev6_en_993f5f75` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The brake control may not operate properly depending on the status of ESC (Electronic Stability Control). There will only be a warning when: The ESC (Electronic Stability Control) warning light is on ESC (Electronic Stability Control) is engaged in a different function
 
 The images or colors may be displayed differently depending on the specifications of the instrument cluster or theme.
 
 ### Blind-Spot Collision-Avoidance Assist malfunction and limitations
-`kia_ev6_en_b63098d9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Blind-Spot Collision-Avoidance Assist malfunction
 
 ![](images/40d08b0fc90ef2c07348b03254cdcc5dfc10f3f0a4daae72afbb47cb44eace92.webp)
 
 ### A: Check Blind-Spot Safety system
-`kia_ev6_en_41699a4d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Blind-Spot Collision-Avoidance Assist is not working properly, the warning message will appear on the cluster for several seconds, and the master warning light ( ) will illuminate. Have Blind-Spot Collision-Avoidance Assist be inspected by an authorized Kia dealer.
 
 ![](images/573d523b80d5e6c510b8f729a3e1acddcf803c7f17802ec7cd613a4126288d91.webp)
 
 ### A: Check side view mirror warning light
-`kia_ev6_en_78ab02ec` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the outside rear view mirror warning light is not working properly, the warning message will appear on the cluster for several seconds, and the master warning light ( ) will illuminate. Have Blind-Spot Collision-Avoidance Assist be inspected by an authorized Kia dealer.
 
 ### A: Blind-Spot Safety system disabled. Radar blocked
-`kia_ev6_en_9e100df5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the rear bumper around the rear corner radar or sensor is covered with foreign material, such as snow or rain, or installing a trailer or carrier, it can reduce the detecting performance and temporarily limit or disable Blind-Spot Collision-Avoidance Assist.
 
@@ -11178,20 +9860,16 @@ Blind-Spot Collision-Avoidance Assist will operate normally when such foreign ma
 
 If Blind-Spot Collision-Avoidance Assist does not operate normally after vehicle rear luggage, other equipment or foreign material is removed, have BlindSpot Collision-Avoidance Assist be inspected by an authorized Kia dealer.
 
-### WARNING
-`kia_ev6_en_f6b00a12` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Even though the warning message does not appear on the cluster, BlindSpot Collision-Avoidance Assist may not properly operate. Blind-Spot Collision-Avoidance Assist may not properly operate in an area (e.g. open terrain) where any substance are not detected right after the vehicle is turned on, or when the
-
-detecting sensor is blocked with foreign material right after the vehicle is turned on.
+> ⚠️ **Внимание:** 
+> Even though the warning message does not appear on the cluster, BlindSpot Collision-Avoidance Assist may not properly operate. Blind-Spot Collision-Avoidance Assist may not properly operate in an area (e.g. open terrain) where any substance are not detected right after the vehicle is turned on, or when the
+>
+> detecting sensor is blocked with foreign material right after the vehicle is turned on.
 
 ### A CAUTION
-`kia_ev6_en_6d53daa1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Turn off Blind-Spot Collision-Avoidance Assist to install a trailer, carrier, etc., or remove the trailer, carrier, etc. to use Blind-Spot Collision-Avoidance Assist.
 
 ### Limitations of Blind-Spot Collision-Avoidance Assist
-`kia_ev6_en_f7f93f2c` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Blind-Spot Collision-Avoidance Assist may not operate normally as following circumstances:
 
@@ -11239,65 +9917,57 @@ The vehicle makes abrupt lane
 changes
 
 ### \* NOTICE
-`kia_ev6_en_9c90aca9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For more details on the limitations of the front view camera, refer to "Forward Collision-Avoidance Assist (FCA)" on page 6-46 and "Lane Keeping Assist (LKA)" on page 6-65.
 
-### WARNING
-`kia_ev6_en_8991f01a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> Driving on a curved road
+>
+> ![](images/2e4f912fdb6b41d9f2969ed05b04255169ae6c4b43a857b7dd92100527529353.webp)
+>
+> Blind-Spot Collision-Avoidance Assist may not operate properly when driving on a curved road. Blind-Spot Collision-Avoidance Assist may not detect the vehicle in the next lane. Always pay attention to road and driving conditions while driving.
+>
+> ![](images/e74be003bf8a2840ff09c35ffff98e41db19e5a13bcaf02eb4fdbb076024070f.webp)
+>
+> Blind-Spot Collision-Avoidance Assist may not operate properly when driving on a curved road. Blind-Spot Collision-Avoidance Assist may detect a vehicle in the same lane. Always pay attention to road and driving conditions while driving. Driving where the road is merging/ dividing
+>
+> ![](images/a0fafd2d74570be901e9272f2828448dbffda0ba8beb92a9284ba0026585c6cf.webp)
+>
+> Blind-Spot Collision-Avoidance Assist may not operate properly when driving where the road merges or divides. Blind-Spot Collision-Avoidance Assist may not detect the vehicle in the next lane.
+>
+> Always pay attention to road and driving conditions while driving on the road merges or divides.
+>
+> Driving on a sloped road
+>
+> ![](images/217ae9e35311daa142588533c7da0e510766d06135a7606f9a7adbc29d78e46c.webp)
+>
+> Blind-Spot Collision-Avoidance Assist may not operate properly when driving on a sloped road. Blind-Spot Collision-Avoidance Assist may not detect the vehicle in the next lane or may incorrectly detect the ground or struc ture.
+> Always pay attention to road and driving conditions while driving.
+> Driving where the heights of the lanes are different
+>
+> ![](images/4c5b51c8b2bcf773b917f83af847f9591b75d81ea6575739cb02d621549b2cda.webp)
+>
+> Blind-Spot Collision-Avoidance Assist may not operate properly when driving where the heights of the lanes are different. Blind-Spot Collision-Avoidance Assist may not detect the vehicle on a road with different lane heights. Always pay attention to road and driving conditions while driving.
 
-Driving on a curved road
-
-![](images/2e4f912fdb6b41d9f2969ed05b04255169ae6c4b43a857b7dd92100527529353.webp)
-
-Blind-Spot Collision-Avoidance Assist may not operate properly when driving on a curved road. Blind-Spot Collision-Avoidance Assist may not detect the vehicle in the next lane. Always pay attention to road and driving conditions while driving.
-
-![](images/e74be003bf8a2840ff09c35ffff98e41db19e5a13bcaf02eb4fdbb076024070f.webp)
-
-Blind-Spot Collision-Avoidance Assist may not operate properly when driving on a curved road. Blind-Spot Collision-Avoidance Assist may detect a vehicle in the same lane. Always pay attention to road and driving conditions while driving. Driving where the road is merging/ dividing
-
-![](images/a0fafd2d74570be901e9272f2828448dbffda0ba8beb92a9284ba0026585c6cf.webp)
-
-Blind-Spot Collision-Avoidance Assist may not operate properly when driving where the road merges or divides. Blind-Spot Collision-Avoidance Assist may not detect the vehicle in the next lane.
-
-Always pay attention to road and driving conditions while driving on the road merges or divides.
-
-Driving on a sloped road
-
-![](images/217ae9e35311daa142588533c7da0e510766d06135a7606f9a7adbc29d78e46c.webp)
-
-Blind-Spot Collision-Avoidance Assist may not operate properly when driving on a sloped road. Blind-Spot Collision-Avoidance Assist may not detect the vehicle in the next lane or may incorrectly detect the ground or struc ture.
-Always pay attention to road and driving conditions while driving.
-Driving where the heights of the lanes are different
-
-![](images/4c5b51c8b2bcf773b917f83af847f9591b75d81ea6575739cb02d621549b2cda.webp)
-
-Blind-Spot Collision-Avoidance Assist may not operate properly when driving where the heights of the lanes are different. Blind-Spot Collision-Avoidance Assist may not detect the vehicle on a road with different lane heights. Always pay attention to road and driving conditions while driving.
-
-### WARNING
-`kia_ev6_en_f52b821c` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
-
-When you are towing a trailer or
-another vehicle, make sure that you turn off Blind-Spot Collision-Avoidance Assist.
-Blind-Spot Collision-Avoidance Assist may not operate normally if interfered by strong electromagnetic waves.
-Blind-Spot Collision-Avoidance Assist may not operate for approximately 15 seconds after the vehicle is started, or the front view camera or rear corner radars are initialized.
+> ⚠️ **Внимание:** 
+> When you are towing a trailer or
+> another vehicle, make sure that you turn off Blind-Spot Collision-Avoidance Assist.
+> Blind-Spot Collision-Avoidance Assist may not operate normally if interfered by strong electromagnetic waves.
+> Blind-Spot Collision-Avoidance Assist may not operate for approximately 15 seconds after the vehicle is started, or the front view camera or rear corner radars are initialized.
 
 ### This device complies with Part 15 of the FCC rules.
-`kia_ev6_en_6e286109` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Operation is subject to the following two conditions:
 
 1. This device may not cause harmful interference, and 2. This device must accept any interference received, including interference that may cause undesired operation.
 
 ### Safe Exit Warning (SEW) (if equipped)
-`kia_ev6_en_d9dc386a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c02a58319be57ffac6d6ca34b5743195968ea460a7537e968cb0452afaf0830c.webp)
 
 After the vehicle stops, when an approaching vehicle from the rear area is detected as soon as a passenger opens a door, Safe Exit Warning will warn the driver with a warning message and an audible warning to help prevent a collision.
 
 ### Detecting sensor
-`kia_ev6_en_c783e64b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear corner radar
 
@@ -11305,13 +9975,10 @@ Rear corner radar
 
 Refer to the picture above for the detailed location of the detecting sensors.
 
-### CAUTION
-`kia_ev6_en_c46e06d2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-For more details on the precautions of the rear corner radars, refer to "BlindSpot Collision-Avoidance Assist (BCA) (if equipped)" on page 6-70.
+> ⚠️ **Внимание:** 
+> For more details on the precautions of the rear corner radars, refer to "BlindSpot Collision-Avoidance Assist (BCA) (if equipped)" on page 6-70.
 
 ### Safe Exit Warning settings Setting features
-`kia_ev6_en_3c396345` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Safe Exit Warning
 
@@ -11330,12 +9997,10 @@ A: Driver Assistance 1 Blind-Spot Safety 2 Safe Exit Warning
 With the vehicle on, select Setup → Vehicle → Driver Assistance → BlindSpot Safety→ Safe Exit Warning from the infotainment system screen to turn on Safe Exit Warning and deselect to turn off the function.
 
 ### ！ WARNING
-`kia_ev6_en_c6135ebf` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The driver should always be aware of unexpected and sudden situations from occurring. If Safe Exit Warning is deselected, Safe Exit Warning cannot assist you.
 
 ### Warning Volume
-`kia_ev6_en_a11c2193` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2390d9c35ecc0893bf0b6bd5aaa0793e0135f3bab50a51f2bfae0a1e245d7edd.webp)
 
@@ -11348,7 +10013,6 @@ A: Driver Assistance
 With the vehicle on, select Setup → Vehicle → Driver Assistance → Warning Volume from the infotainment system screen to change the warning volume to High, Medium, or Low for Safe Exit Warning. If you change the warning volume, the warning volume of other Driver Assistance systems may change.
 
 ### A: Watch for traffic
-`kia_ev6_en_f895b738` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The warning light on the side view
 mirror will blink and the warning mes
@@ -11358,7 +10022,6 @@ Safe Exit Warning will warn under the
 following circumstances: Your vehicle speed: below 2 mph (3 km/h) The speed of the approaching vehicle from the rear: above 4 mph (6 km/h)
 
 ### ！ WARNING
-`kia_ev6_en_26b4afa2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Take the following precautions when using Safe Exit Warning:
 
@@ -11387,49 +10050,41 @@ Collision-Avoidance Assist will appear
 when: Blind-Spot Collision-Avoidance Assist sensor or the sensor sur rounding is polluted or covered Blind-Spot Collision-Avoidance Assist fails to warn passengers or falsely warn passengers
 
 ### \* NOTICE
-`kia_ev6_en_16d06077` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 After the vehicle is turned off, Safe Exit Warning operates for 3 minutes, but turns off immediately if the doors are locked. Images or colors may be displayed differently depends on the instrument cluster specifications or theme.
 
 ### Safe Exit Warning malfunction and limitations
-`kia_ev6_en_af3d20e7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Safe Exit Warning malfunction
 
 ![](images/d78df7f4c6c5b86484a17346665109aec138f99fb6e4b8ff863858f3d3fd0fa3.webp)
 
 ### A: Check Blind-Spot Safety system
-`kia_ev6_en_e1439121` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Safe Exit Warning is not working properly, the warning message will appear on the cluster, and the master warning light ( ) will illuminate on the cluster. Have Safe Exit Warning be inspected by an authorized Kia dealer.
 
 ![](images/55c62f7b949da000487010f29b5ba2afabc11872f080f33c17ea806e6f89b300.webp)
 
 ### A: Check side view mirror warning light
-`kia_ev6_en_f7c5b797` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the side view mirror warning light is not working properly, the warning message will appear on the cluster for several seconds, and the master warn ing light ( ) will illuminate on the cluster. Have Safe Exit Warning be inspected by an authorized Kia dealer.
 
 ### A: Blind-Spot Safety system disabled. Radar blocked
-`kia_ev6_en_09e28cc1` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 When the rear bumper around the rear corner radar or sensor is covered with foreign material, such as snow or rain, or installing a trailer or carrier, i can reduce the detecting performance and temporarily limit or disable Safe Exit Warning. If this occurs, the Blind-Spot Safety system disabled. Radar blocked warning message will appear on the cluster. Safe Exit Warning will operate normally when such foreign material or trailer, etc. is removed, and then the vehicle is restarted.
 
 If Safe Exit Warning does not operate normally after it is removed, have Safe Exit Warning be inspected by an authorized Kia dealer.
 
 ### ！ WARNING
-`kia_ev6_en_18f51088` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Even though the warning message does not appear on the cluster, Safe Exit Warning may not properly oper ate.
 Safe Exit Warning may not properly operate in an area (e.g., open terrain), where any substance are not detected right after the vehicle is turned on, or when the detecting sensor is blocked with foreign material right after the vehicle is turned on.
 
 ### ！ CAUTION
-`kia_ev6_en_a47b7e8c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Turn off Safe Exit Warning to install a trailer, carrier, etc., or remove the trailer, carrier, etc. to use Safe Exit Warning.
 
 ### Limitations of Safe Exit Warning
-`kia_ev6_en_e811c678` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Safe Exit Warning may not operate nor mally, or Safe Exit Warning may operate unexpectedly under the following warning.
 
@@ -11438,19 +10093,16 @@ Getting out of the vehicle where the road is wet
 The approaching vehicle is very fast or very slow
 
 ### \* NOTICE
-`kia_ev6_en_c46e06d2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For more details on the precautions of the rear corner radars, refer to "BlindSpot Collision-Avoidance Assist (BCA) (if equipped)" on page 6-70.
 
 ### ！ WARNING
-`kia_ev6_en_f76e026e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Safe Exit Warning may not operate normally if interfered by strong electromagnetic waves.
 Safe Exit Warning may not operate for 3 seconds after the vehicle is
 restarted, or the rear corner radars are initialized.
 
 ### Safe Exit Assist (SEA) (if equipped)
-`kia_ev6_en_abe3709e` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/8ae0ae2d274bc725d921868f14a3504895cc5a782f844160b56fe6f02cef9aee.webp)
 
@@ -11461,14 +10113,12 @@ After the vehicle stops, when an approaching vehicle from the rear area is detec
 In addition, when the electronic child safety lock button is in the LOCK position and an approaching vehicle from the rear area is detected, the electronic child safety lock button will not unlock even if the driver presses the button to prevent the rear doors from opening.
 
 ### ！ CAUTION
-`kia_ev6_en_08957099` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c424021464fdaed7db798d1608a19801244e7b39e6d945dc32ebc589eaece2a3.webp)
 
 Warning timing may vary depending on the speed of the approaching vehicle.
 
 ### Detecting sensor
-`kia_ev6_en_6e0c4154` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear corner radar
 
@@ -11476,13 +10126,10 @@ Rear corner radar
 
 Refer to the picture above for the detailed location of the detecting sensors.
 
-### CAUTION
-`kia_ev6_en_c46e06d2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-For more details on the precautions of the rear corner radars, refer to "BlindSpot Collision-Avoidance Assist (BCA) (if equipped)" on page 6-70.
+> ⚠️ **Внимание:** 
+> For more details on the precautions of the rear corner radars, refer to "BlindSpot Collision-Avoidance Assist (BCA) (if equipped)" on page 6-70.
 
 ### Safe Exit Assist settings Safe Exit Assist
-`kia_ev6_en_236396f9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Q A Driver Assistance
 Driver Attention Warning Blind-5pot Vie Dispaysthe bind-spot
@@ -11498,13 +10145,10 @@ A: Driver Assistance 1 Blind-Spot Safety 2 Safe Exit Assist
 
 With the vehicle on, select Setup → Vehicle → Driver Assistance → BlindSpot Safety → Safe Exit Assist from the infotainment system screen to turn on Safe Exit Assist and deselect to turn off Safe Exit Assist.
 
-### WARNING
-`kia_ev6_en_328e00df` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-The driver should always be aware of unexpected and sudden situations from occurring. If Safe Exit Assist is deselected, Safe Exit Assist cannot assist you.
+> ⚠️ **Внимание:** 
+> The driver should always be aware of unexpected and sudden situations from occurring. If Safe Exit Assist is deselected, Safe Exit Assist cannot assist you.
 
 ### Warning Volume
-`kia_ev6_en_c48c2fdd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/1af56275751963e5c2a38220bec140c2af2c7d90c9658f27f47fafe04affded3.webp)
 
@@ -11517,7 +10161,6 @@ A: Driver Assistance
 With the vehicle on, select Setup → Vehicle → Driver Assistance → Warning Volume from the infotainment system screen to change the warning volume to High, Medium, or Low for Safe Exit Assist. If you change the Warning Volume, the warning volume of other Driver Assistance systems may change.
 
 ### A: Watch for traffic
-`kia_ev6_en_e0ac9b0b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The warning light on the side view
 mirror will blink and the warning mes
@@ -11527,7 +10170,6 @@ Safe Exit Assist will warn under the
 following circumstances: Your vehicle speed: below 2 mph (3 km/h) The speed of the approaching vehicle from the rear: above 4 mph (6 km/h)
 
 ### A: Check surroundings then try again
-`kia_ev6_en_bf30778a` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 When Electric child safety lock is oper
 ating and an approaching vehicle
@@ -11543,56 +10185,48 @@ Safe Exit Assist will warn under the
 following circumstances: Your vehicle speed: below 2 mph (3 km/h) The speed of the approaching vehicle from the rear: above 4 mph (6 km/h)
 
 ### ！ CAUTION
-`kia_ev6_en_c38c3ccf` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 If the driver presses the electronic child lock button ( ) again within 10 seconds after the warning message appears, Safe Exit Assist judges that the driver has unlocked the door and the door will open regardless of vehicles approaching. The electronic child safety lock will turn off (button indicator OFF). Always check the surroundings before turning off the electronic child safety lock button.
 
-### WARNING
-`kia_ev6_en_5b1f699b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Take the following precautions when using Safe Exit Assist:
-
-For your safety, change the Settings after parking the vehicle at a safe
-location.
-If any other function's warning message is displayed or audible warning is generated, Safe Exit Assist warning message may not be displayed and audible warning may not be generated.
-You may not hear the warning sound of Safe Exit Assist if the surrounding is noisy.
-Safe Exit Assist does not operate in all situations or cannot prevent all collisions.
-Safe Exit Assist may warn the driver late or may not warn the driver
-depending on the road and driving conditions. Always check vehicle surroundings.
-The driver and passengers are
-responsible for accidents that occur while exiting the vehicle. Always check the surroundings before you exit the vehicle.
-Never deliberately operate Safe Exit Assist. Doing so may lead to serious injury or death.
-Safe Exit Assist does not operate if there is a problem with Blind-Spot Collision-Avoidance Assist.
-The warning message of Blind-Spot Collision-Avoidance Assist will appear when:
-
-Blind-Spot Collision-Avoidance Assist sensor or the sensor sur rounding is polluted or covered Blind-Spot Collision-Avoidance Assist fails to warn passengers or falsely warn passengers
+> ⚠️ **Внимание:** 
+> Take the following precautions when using Safe Exit Assist:
+>
+> For your safety, change the Settings after parking the vehicle at a safe
+> location.
+> If any other function's warning message is displayed or audible warning is generated, Safe Exit Assist warning message may not be displayed and audible warning may not be generated.
+> You may not hear the warning sound of Safe Exit Assist if the surrounding is noisy.
+> Safe Exit Assist does not operate in all situations or cannot prevent all collisions.
+> Safe Exit Assist may warn the driver late or may not warn the driver
+> depending on the road and driving conditions. Always check vehicle surroundings.
+> The driver and passengers are
+> responsible for accidents that occur while exiting the vehicle. Always check the surroundings before you exit the vehicle.
+> Never deliberately operate Safe Exit Assist. Doing so may lead to serious injury or death.
+> Safe Exit Assist does not operate if there is a problem with Blind-Spot Collision-Avoidance Assist.
+> The warning message of Blind-Spot Collision-Avoidance Assist will appear when:
+>
+> Blind-Spot Collision-Avoidance Assist sensor or the sensor sur rounding is polluted or covered Blind-Spot Collision-Avoidance Assist fails to warn passengers or falsely warn passengers
 
 ### \* NOTICE
-`kia_ev6_en_cd5945a2` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 After the vehicle is turned off, Safe Exit Assist operates for 3 minutes, but turns off immediately if the doors are locked. Images or colors may be displayed differently depends on the instrument cluster specifications or theme.
 
 ### Safe Exit Assist malfunction and limitations
-`kia_ev6_en_18c5678f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Safe Exit Assist malfunction
 
 ![](images/6da9b0fbc2a3f25b99ebb77b333bdbf5587e1ab4d0cd91b749bb8a0a6d1a5ce8.webp)
 
 ### A: Check Blind-Spot Safety system
-`kia_ev6_en_4f08569f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Safe Exit Assist is not working properly, the warning message will appear and ( ) warning lights will illuminate on the cluster, and Safe Exit Assist will turn off automatically or Safe Exit Assist will be limited. Have Safe Exit Assist inspected by an authorized Kia dealer.
 
 ![](images/d6d369b60ab452f7328675bb34e5689bb26d378b9fe678fe6c3629dbba20a925.webp)
 
 ### A: Check side view mirror warning light
-`kia_ev6_en_3d69ec34` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the side view mirror warning light is not working properly, the warning message will appear on the cluster for several seconds, and ( ) warning light will illuminate on the cluster. Have Safe Exit Assist inspected by an authorized Kia dealer.
 
 ### A: Blind-Spot Safety system disabled. Radar blocked
-`kia_ev6_en_9e100df5` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 When the rear bumper around the rear corner radar or sensor is covered with foreign material, such as snow or rain, or installing a trailer or carrier, it can reduce the detecting performance and temporarily limit or disable Safe Exit Assist.
 
@@ -11600,18 +10234,13 @@ If this occurs, the Blind-Spot Safety system disabled. Radar blocked warn ing me
 
 If Safe Exit Assist does not operate normally after it is removed, have Safe Exit Assist inspected by an authorized Kia dealer.
 
-### WARNING
-`kia_ev6_en_6080b3b0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> Even though the warning message does not appear on the cluster, Safe Exit Assist may not properly operate. Safe Exit Assist may not properly operate in an area (e.g., open terrain), where any substance are not detected right after the vehicle is turned on, or when the detecting sensor is blocked with foreign material right after the vehicle is turned on.
 
-Even though the warning message does not appear on the cluster, Safe Exit Assist may not properly operate. Safe Exit Assist may not properly operate in an area (e.g., open terrain), where any substance are not detected right after the vehicle is turned on, or when the detecting sensor is blocked with foreign material right after the vehicle is turned on.
-
-### CAUTION
-`kia_ev6_en_583a86bf` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Turn off Safe Exit Assist to install a trailer, carrier, other equipment, or remove the trailer, carrier, etc. to use Safe Exit Assist.
+> ⚠️ **Внимание:** 
+> Turn off Safe Exit Assist to install a trailer, carrier, other equipment, or remove the trailer, carrier, etc. to use Safe Exit Assist.
 
 ### Limitations of Safe Exit Assist
-`kia_ev6_en_d014229a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Safe Exit Assist may not operate nor mally, or Safe Exit Assist may operate unexpectedly under the following circumstances:
 
@@ -11620,17 +10249,13 @@ Getting out of the vehicle where the road is wet
 The approaching vehicle is very fast or very slow
 
 ### \* NOTICE
-`kia_ev6_en_dd2b406d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For more details on the limitations of the rear corner radar, refer to "Blind-Spot Collision-Avoidance Assist (BCA) (if equipped)" on page 6-70.
 
-### WARNING
-`kia_ev6_en_3b84a6ac` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Safe Exit Assist may not operate normally if interfered by strong electromagnetic waves. Safe Exit Assist may not operate for 3 seconds after the vehicle is started, or the rear corner radars are initialized.
+> ⚠️ **Внимание:** 
+> Safe Exit Assist may not operate normally if interfered by strong electromagnetic waves. Safe Exit Assist may not operate for 3 seconds after the vehicle is started, or the rear corner radars are initialized.
 
 ### Manual Speed Limit Assist (MSLA)
-`kia_ev6_en_0d025ada` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f02758432e25977a7cdee8545f6c387106d9313833c66bf94490018d40662191.webp)
 
@@ -11640,7 +10265,6 @@ Safe Exit Assist may not operate normally if interfered by strong electromagneti
 You can set the speed limit when you do not want to drive over a specific speed. If you drive over the preset speed limit, the warning function operates (set speed limit will blink and chime will sound) until the vehicle speed returns within the speed limit.
 
 ### Setting speed limit
-`kia_ev6_en_9c862551` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Press and hold Driving Assist ( ) button at the desired speed.
 
@@ -11657,19 +10281,16 @@ The speed limit indicator ( ) light will illuminate and the set speed limit will
 ![](images/9e4a1a98a83ef565bb4acef91858dc38b3eba9878d784ce4a2d6ff6b11dec695.webp)
 
 ### \* NOTICE
-`kia_ev6_en_1c12f3e5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the accelerator pedal is not depressed beyond the pressure point, vehicle speed will maintain within the speed limit.
 
 ### Temporarily pausing Manual Speed Limit Assist
-`kia_ev6_en_f326ee68` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/9833c321ffcb9f45fdad2fec077d88805258c1475ee50537f8591eea31e3d5d7.webp)
 
 Push the ( ) switch to temporarily pause the set speed limit. The set speed limit will turn off but the Speed Limit indicator ( ) will stay on.
 
 ### Resuming Manual Speed Limit Assist
-`kia_ev6_en_2bd3da1a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/4e3da8ed28ca7fac153c98d236ee960ef1b7a6fa84132512a2d15827e9254046.webp)
 
@@ -11678,39 +10299,32 @@ To resume Manual Speed Limit Assist after the function was paused, operate the +
 If you push the + switch up or - switch down, vehicle speed will be set to the current speed on the cluster. If you push the ( ) switch, vehicle speed will resume to the preset speed.
 
 ### Turning off Manual Speed Limit Assist
-`kia_ev6_en_a2a37b57` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/cccd5d2c0fde97de750a9b865bb06003c1f5871079c3aaa02a286bbc0e50f107.webp)
 
 Press the Driving Assist ( ) button to turn Manual Speed Limit Assist off. The Speed Limit indicator ( ) will go off.
 Always press the Driving Assist ( ) button to turn Manual Speed Limit Assist off when not in use.
 
-### WARNING
-`kia_ev6_en_831661be` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Take the following precautions when using Manual Speed Limit Assist:
-
-Always set the vehicle speed to the speed limit in your country. Keep Manual Speed Limit Assist off when the function is not in use, to avoid inadvertently setting a speed. Check that the Speed Limit indicator ( ) is off. Manual Speed Limit Assist does not substitute for proper and safe driving. It is the responsibility of the driver to always drive safely and should always be aware of unexpected and sudden situations from occurring. Pay attention to the road conditions at all times.
+> ⚠️ **Внимание:** 
+> Take the following precautions when using Manual Speed Limit Assist:
+>
+> Always set the vehicle speed to the speed limit in your country. Keep Manual Speed Limit Assist off when the function is not in use, to avoid inadvertently setting a speed. Check that the Speed Limit indicator ( ) is off. Manual Speed Limit Assist does not substitute for proper and safe driving. It is the responsibility of the driver to always drive safely and should always be aware of unexpected and sudden situations from occurring. Pay attention to the road conditions at all times.
 
 ### \* NOTICE
-`kia_ev6_en_0c834b11` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The images or colors may be displayed differently depending on the specifications of the instrument cluster or theme.
 
 ### Intelligent Speed Limit Assist (ISLA) (if equipped)
-`kia_ev6_en_4ad03e36` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Intelligent Speed Limit Assist uses information from the detected road sign and navigation system to inform the driver of the speed limit and additional road signs of the current road. Also, the function helps the driver to maintain within the speed limit of the road.
 
 ### ！ CAUTION
-`kia_ev6_en_d2358c1a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Intelligent Speed Limit Assist may not operate properly i the function is
 used in other countries.
 Update navigation system regularly for Intelligent Speed Limit Assist to operate normally.
 
 ### Detecting sensor
-`kia_ev6_en_b3672ee7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Front view camera
 
@@ -11719,12 +10333,10 @@ Front view camera
 Refer to the picture above for the detailed location of the detecting sensor.
 
 ### ！ CAUTION
-`kia_ev6_en_ae6b85d4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For more precautions related to the camera sensor, refer to "Forward Collision-Avoidance Assist (FCA)" on page 6- 46.
 
 ### Speed Limit
-`kia_ev6_en_bd3a4d8d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Q ADriver Assistance
 Smart Cruise Control 2 Speed Limit Assist
@@ -11750,7 +10362,6 @@ adjust the speed manually.
 If Off is selected, Intelligent Speed Limit Assist will turn off.
 
 ### Speed Limit Offset
-`kia_ev6_en_177c40ea` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ad5df866371132c14ae373e6e11e662786aca3904d0a90146b8cdd4a76092f3f.webp)
 
@@ -11761,29 +10372,24 @@ With the vehicle on, when Setup →
 Vehicle → Driver Assistance → Speed Limit → Speed Limit Offset is selected, the Speed Limit Offset can be changed. Speed Limit Warning and Speed Limit Assist will operate by applying the Speed Limit Offset setting to the detected
 speed limit.
 
-### WARNING
-`kia_ev6_en_c53b8a21` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-For your safety, change the Settings after parking the vehicle at a safe
-location.
-Speed Limit Assist function operates based on the Offset setting added to the speed limit. If you want to change the set speed according to the speed limit, set the offset to 0.
-Speed Limit Warning function warns the driver when driving speed
-exceeds the speed at which the set Offset is added to speed limit. If you want Speed Limit Warning to warn you immediately when the driving speed exceeds the speed limit, set the offset to 0.
+> ⚠️ **Внимание:** 
+> For your safety, change the Settings after parking the vehicle at a safe
+> location.
+> Speed Limit Assist function operates based on the Offset setting added to the speed limit. If you want to change the set speed according to the speed limit, set the offset to 0.
+> Speed Limit Warning function warns the driver when driving speed
+> exceeds the speed at which the set Offset is added to speed limit. If you want Speed Limit Warning to warn you immediately when the driving speed exceeds the speed limit, set the offset to 0.
 
 ### Warning and control
-`kia_ev6_en_4b396831` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Intelligent Speed Limit Assist will warn and control the vehicle by 'Displaying speed limit', 'Warning overspeed' and 'Changing set speed'.
 
 ### \* NOTICE
-`kia_ev6_en_ba06a62d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Intelligent Speed Limit Assist warning and control are described based on the Offset set to 0. For details on Offset setting, refer to "Intelligent Speed Limit Assist settings" on page 6-92.
 
 the supplementary sign is not recognized, it will be displayed as blank.
 
 ### Warning overspeed
-`kia_ev6_en_a7a0864f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/fda3726001c16830cbbb2a51c34549cae3457e00fadfb89456c3eb0979db9566.webp)
 
@@ -11795,19 +10401,16 @@ Displaying speed limit
 Speed limit information is displayed on the instrument cluster.
 
 ### \* NOTICE
-`kia_ev6_en_544c21cb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If speed limit information of the road cannot be recognized, '--- sign will be displayed. Please refer to "Limitations of Intelligent Speed Limit Assist" if the road signs are difficult to recognize. Intelligent Speed Limit Assist provides additional road sign information in addition to speed limit. The additional road sign information provided may vary according to your country. Supplementary sign displayed under the speed limit or overtaking restric tion sign means the conditions under which the signs must be followed. If
 
 ### Changing set speed
-`kia_ev6_en_74b59e7b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/c8cf7ccbcbff5786702b7fa3c1ea5b90df5804174d39631e4d59c72398df8dc5.webp)
 
 If the speed limit of the road changes during the operation of Manual Speed Limit Assist or Smart Cruise Control, an arrow in the direction of up or down is displayed to inform the driver that the set speed needs to be changed. At this time, the driver can change the set speed according to the speed limit by using the + or switch on the steering wheel.
 
 ### ！ WARNING
-`kia_ev6_en_5c628de2` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 If the Offset is set over 0, the set
 speed will change to a higher speed than the speed limit of the road. you want to drive below the speed limit, set the Offset under 0 or use the
@@ -11819,24 +10422,20 @@ change function will not work.
 Intelligent Speed Limit Assist operates using the speed unit in the instrument cluster set by the driver. If the speed unit is set to a unit other than the speed unit used in your country, Intelligent Speed Limit Assist may not operate properly.
 
 ### \* NOTICE
-`kia_ev6_en_51d14aa6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For more details on function operation of Manual Speed Limit Assist, refer to "Manual Speed Limit Assist (MSLA)" on page 6-89. For more details on operation of Smart Cruise Control, refer to "Smart Cruise Control (SCC)" on page 6-103.
 
 ### \* NOTICE
-`kia_ev6_en_0c834b11` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The images or colors may be displayed differently depending on the specifications of the instrument cluster or theme.
 
 ### Intelligent Speed Limit Assist malfunction and limitations
-`kia_ev6_en_10c00c86` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Intelligent Speed Limit Assist malfunction
 
 ![](images/2440e3c0cf1e4bf1613b1e53f54f3da870674c05e022755144a8c5c2559f7a33.webp)
 
 ### A: Check Speed Limit system
-`kia_ev6_en_4367e5bd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Intelligent Speed Limit Assist is not working properly, the warning message will appear on the cluster for several seconds, and the master ( ) warning light will illuminate on the cluster. If this occurs, have the Intelligent Speed Limit Assist checked by an authorized Kia dealer.
 
@@ -11844,7 +10443,6 @@ When Intelligent Speed Limit Assist is not working properly, the warning message
 Intelligent Speed Limit Assist disabled
 
 ### A: Speed Limit system disabled. Camera obscured
-`kia_ev6_en_dbea626a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the front windshield where the front view camera is located is covered with foreign material, such as snow or rain, it can reduce the detecting performance and temporarily limit or disable Intelligent Speed Limit Assist.
 
@@ -11853,12 +10451,10 @@ If this occurs, the warning message will appear on the cluster. The function wil
 If Intelligent Speed Limit Assist does not operate normally after it is removed, have the Intelligent Speed Limit Assist checked by an authorized Kia dealer.
 
 ### \* NOTICE
-`kia_ev6_en_678cb1d6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Even though the warning message or warning light does not appear on the cluster, Intelligent Speed Limit Assist may not operate properly.
 
 ### Limitations of Intelligent Speed Limit Assist
-`kia_ev6_en_2f2661a3` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Intelligent Speed Limit Assist may not operate normally, or the function may operate unexpectedly under the following circumstances:
 
@@ -11891,7 +10487,6 @@ navigation guide route
 Driving on a newly opened road
 
 ### ！ WARNING
-`kia_ev6_en_900db974` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Intelligent Speed Limit Assist is a sup plemental function that helps the
 driver to comply with the speed limit on the road, and may not display the correct speed limit or control the driving speed properly.
@@ -11899,22 +10494,18 @@ Always set the vehicle speed to the speed limit in your country.
 Intelligent Speed Limit Assist may not operate for 15 seconds after the vehicle is started, or the front view camera is initialized.
 
 ### \* NOTICE
-`kia_ev6_en_5223d4af` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For more details on the limitations of the front view camera, refer to "Forward Collision-Avoidance Assist (FCA)" on page 6-46.
 
 ### Basic function
-`kia_ev6_en_f7b78218` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Driver Attention Warning will help determine the driver's attention level by analyzing driving pattern, driving time, etc. while vehicle is being driven. Driver Attention Warning will recommend a break when the driver's attention level falls below a certain level.
 
 ### Leading vehicle departure alert function
-`kia_ev6_en_f7c2db21` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Leading Vehicle Departure Alert function will inform the driver when the front vehicle departs from a stop.
 
 ### Detecting sensor
-`kia_ev6_en_c9e4f789` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Front view camera
 
@@ -11924,13 +10515,10 @@ The front view camera is used to detect driving patterns and front vehicle depar
 
 Refer to the picture above for the detailed location of the detecting sensor.
 
-### CAUTION
-`kia_ev6_en_274d3137` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Always keep the front view camera in good condition to maintain optimal per formance of Driver Attention Warning. For more details on the precautions of the front view camera, refer to "Forward Collision-Avoidance Assist (FCA)" on page 6-46.
+> ⚠️ **Внимание:** 
+> Always keep the front view camera in good condition to maintain optimal per formance of Driver Attention Warning. For more details on the precautions of the front view camera, refer to "Forward Collision-Avoidance Assist (FCA)" on page 6-46.
 
 ### Driver Attention Warning
-`kia_ev6_en_461862c7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Q A Driver Assistance
 Driver Attention Warning Inattentive Driving Warning 2 Provides a warning when
@@ -11949,7 +10537,6 @@ With the vehicle on, select or deselect Setup → Vehicle → Driver Assistance 
 Inattentive Driving Warning: Driver Attention Warning will inform the driver the driver's attention level and will recommend taking a break when the level falls below a certain level.
 
 ### Leading Vehicle Departure Alert
-`kia_ev6_en_9dee6f55` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 q A Driver Assistance
 Driver Attention Warnin Leading VenicleDepartre
@@ -11966,7 +10553,6 @@ A: Driver Assistance 1 Driver Attention Warning 2 Leading Vehicle Departure Aler
 Leading Vehicle Departure Alert: The function will inform the driver when the front vehicle departs from a stop.
 
 ### Warning Timing
-`kia_ev6_en_f657d3f6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/1b8994931cc10f0a7123c0c300ba3cb9bb706a3e8c2175c6bc725187535988d8.webp)
 
@@ -11978,19 +10564,16 @@ With the vehicle on, select Setup → Vehicle → Driver Assistance → Warning 
 Standard: Use in a normal driving environment. If Driver Attention Warning operates too sensitive, set the warning timing to Late. Late: The warning timing will be late
 
 ### \* NOTICE
-`kia_ev6_en_8969821a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you change the Warning Timing, the warning time of other Driver Assistance systems may change. If the vehicle is restarted, Driver Warning Time will maintain the last setting.
 
 ### Driver Attention Warning opera tion
-`kia_ev6_en_0ba80837` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The basic functions of the Driver Attention Warning include:
 
 Attention Level Consider taking a break
 
 ### Basic function
-`kia_ev6_en_774240a4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Attention level
 
@@ -11999,7 +10582,6 @@ Function off
 ![](images/73c41f0e465ac23ffdd0264fa49e6c8a40137b90024dd822ffbd2afcd0f54316.webp)
 
 ### 1 Driver Attention Warning 2 System Off
-`kia_ev6_en_46b918f0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Standby/Disabled
 
@@ -12010,7 +10592,6 @@ Standby/Disabled
 3 Last Break
 
 ### Attentive driving
-`kia_ev6_en_093b29a5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/63167c84c4e5b77b5b6ba2876d663d56f9144086aca1dc1608a165db597f3ba0.webp)
 
@@ -12035,19 +10616,15 @@ When the Inattentive driving warning is deselected from the Settings menu, Syste
 When vehicle speed is not within the operating speed, the message Standby will be displayed.
 
 ### A: Consider taking a break
-`kia_ev6_en_12358a51` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The warning message will appear on the cluster and an audible warning will sound to suggest that the driver take a break, when the driver's attention level is below 1.
 
 Driver Attention Warning will not suggest a break when the total driving time is shorter than 10 minutes or 10 minutes has not passed after the last break was suggested.
 
-### CAUTION
-`kia_ev6_en_83b79a27` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Driver Attention Warning may suggest a break depending on the driver's driving pattern or habits, even if the driver doesn't feel fatigued. Driver Attention Warning is a supplemental function and may not be able to determine whether the driver is inattentive. The driver who feels fatigued should take a break at a safe location, even though there is no break suggestion by Driver Attention Warning.
+> ⚠️ **Внимание:** 
+> Driver Attention Warning may suggest a break depending on the driver's driving pattern or habits, even if the driver doesn't feel fatigued. Driver Attention Warning is a supplemental function and may not be able to determine whether the driver is inattentive. The driver who feels fatigued should take a break at a safe location, even though there is no break suggestion by Driver Attention Warning.
 
 ### \* NOTICE
-`kia_ev6_en_95c551a1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For more details on setting the instru
 ment cluster, refer to "Instrument
@@ -12057,40 +10634,33 @@ last break time to 00:00 in the follow
 ing situations: The vehicle is turned off The driver unfastens the seat belt and opens the driver's door. The vehicle is stopped for more than 10 minutes.
 
 ### A: Leading vehicle is driving away
-`kia_ev6_en_477509b6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the front vehicle departs from a stop, Leading Vehicle Departure Alert will inform the driver by displaying the warning message on the cluster and an audible warning will sound.
 
 ### ！ WARNING
-`kia_ev6_en_f4e81b11` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If any other function's warning message is displayed or audible warning is generated, Leading Vehicle Departure Alert warning message may not be displayed and audible warning may not be generated.
 The driver should hold the responsibility to safely drive and control the vehicle.
 
 ### ！ CAUTION
-`kia_ev6_en_d18afec6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Leading Vehicle Departure Alert is a supplemental function and may not alert the driver whenever the front vehicle departs from a stop. Always check the front of the vehicle and road conditions before departure.
 
 ### \* NOTICE
-`kia_ev6_en_0c834b11` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The images or colors may be displayed differently depending on the specifications of the instrument cluster or theme.
 
 ### Driver Attention Warning malfunction and limitations
-`kia_ev6_en_1cbff43e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Driver Attention Warning mal function
 
 ![](images/5634155433b67958f720b49caa5c578902612e7d4ab8318ef9f058f50987f83b.webp)
 
 ### A: Check Inattentive Driving Warning system
-`kia_ev6_en_0184393a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Driver Attention Warning is not working properly, the warning message will appear and ( ) warning lights will illuminate on the cluster. If this occurs, have Driver Attention Warning inspected by an authorized Kia dealer.
 
 ### Limitations of Driver Attention Warning
-`kia_ev6_en_291ced26` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Driver Attention Warning may not work properly in the following situations:
 
@@ -12102,7 +10672,6 @@ Assistance system, such as Lane
 Keeping Assist
 
 ### Leading vehicle departure alert function
-`kia_ev6_en_3890b2f5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the vehicle cuts in [A]: Your vehicle, [B]: Front vehicle If a vehicle cuts in front of your vehicle, Leading Departure Alert may not operate properly.
 
@@ -12136,14 +10705,12 @@ If a vehicle parked in front drives away from you, Leading Vehicle Departure Ale
 If you pass a tollgate or intersection with lots of vehicles or you drive where lanes are merged or divided frequently, Leading Vehicle Departure Alert may not operate properly.
 
 ### \* NOTICE
-`kia_ev6_en_994d7508` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/27b115468456639300486330ab6ffc8014c6d7ceb70d303541dc2e2ad3000b3b.webp)
 
 For more details on the precautions of the front view camera, refer to "Forward Collision-Avoidance Assist (FCA)" on page 6-46.
 
 ### Blind-Spot View Monitor (BVM) (if equipped)
-`kia_ev6_en_1335cbe7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Left side
 
@@ -12152,19 +10719,16 @@ Left side
 Blind-Spot View Monitor displays the rear blind spot area of the vehicle in the cluster when the turn signal is turned on to help safely change lanes.
 
 ### Detecting sensor
-`kia_ev6_en_f3b69a97` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 SVM-side view camera (camera located at bottom of the mirror) Refer to the picture above for the detailed location of the detecting sensors.
 
 ![](images/23535d627c742b20503e91a879eb0e43f1595ebcdfb96af955d6e54c7dfb8999.webp)
 
 ### Blind-Spot View
-`kia_ev6_en_4b2b81fa` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 With the vehicle on, select Setup → Vehicle → Driver Assistance → BlindSpot Safety → Blind-Spot View from the infotainment system screen to turn on Blind-Spot View Monitor and deselect to turn off the function.
 
 ### Blind-Spot View Monitor opera tion
-`kia_ev6_en_4517afde` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Turn signal switch
 
@@ -12173,39 +10737,31 @@ Turn signal switch
 Blind-Spot View Monitor will turn on and off when the turn signal is turned on and off.
 
 ### Off conditions
-`kia_ev6_en_1aa2ef96` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Blind-Spot View Monitor will turn off when one of the following conditions are satisfied:
 
 When the turn signal is turned off. When the hazard warning flasher is on. When other important warning is displayed on the instrument cluster.
 
 ### Blind-Spot View Monitor malfunction
-`kia_ev6_en_3be8dc51` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Blind-Spot View Monitor is not working properly, or the cluster display flickers, or the camera image does not display normally, have Blind-Spot View Monitor inspected by an authorized Kia dealer.
 
-### WARNING
-`kia_ev6_en_c94cdb55` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-The image shown on the cluster may differ from the actual distance of the object. Make sure to directly check the vehicle's surroundings for safety. If the camera lens is covered with foreign material, the Blind-Spot View Monitor may not operate normally. Always keep the camera lens clean. However, do not use chemical solvents such as strong detergents containing high alkaline or volatile organic solvents (gasoline, acetone etc.). This may damage the camera lens.
+> ⚠️ **Внимание:** 
+> The image shown on the cluster may differ from the actual distance of the object. Make sure to directly check the vehicle's surroundings for safety. If the camera lens is covered with foreign material, the Blind-Spot View Monitor may not operate normally. Always keep the camera lens clean. However, do not use chemical solvents such as strong detergents containing high alkaline or volatile organic solvents (gasoline, acetone etc.). This may damage the camera lens.
 
 ### Smart Cruise Control (SCC)
-`kia_ev6_en_aaba952f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Smart Cruise Control is designed to detect the vehicle ahead and help maintain the desired speed and minimum distance with the vehicle ahead.
 
 ### Overtaking Acceleration Assist
-`kia_ev6_en_ff8cb0dd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 While Smart Cruise Control is operating, if the function judges that the driver is determined to overtake the vehicle in front, acceleration will be assisted.
 
 ### Based on Driving Style (if equipped)
-`kia_ev6_en_b2751da5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Smart Cruise Control will operate based on the driver's driving style, such as inter-vehicle distance, acceleration, reaction speed.
 
 ### Front corner radar (if equipped)
-`kia_ev6_en_e67d64bb` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 ![](images/e78cf2bbc20c54759a7f711dce7167aae12e3d72bd138672097b3eb6001abd28.webp)
 
@@ -12214,12 +10770,10 @@ The front view camera, front radar, and front corner radars (if equipped) are us
 Refer to the picture above for the detailed location of the detecting sensor.
 
 ### ！ CAUTION
-`kia_ev6_en_30ac7ea8` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 Always keep the front view camera and front radar in good condition to maintain optimal performance of Smart Cruise Control. For more details on the precautions of the front view camera and front radar, refer to "Forward Collision-Avoidance Assist (FCA)" on page 6-46.
 
 ### Smart Cruise Control settings Setting features
-`kia_ev6_en_1e96bddb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To turn on Smart Cruise Control
 
@@ -12230,12 +10784,10 @@ Press the Driving Assist ( ) button to turn on the function. The speed will be s
 If there is no vehicle in front of you, the set speed will be maintained. If there is a vehicle in front of you, the speed may be adjusted to maintain the distance to the vehicle ahead. If the vehicle ahead accelerates, your vehicle will travel at a steady cruising speed after accelerating to the set speed.
 
 ### \* NOTICE
-`kia_ev6_en_e5a236ed` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If your vehicle speed is between 0\~20 mph (0\~30 km/h) when you press the Driving Assist ( ) button, the set speed will be set to 20 mph (30 km/h).
 
 ### To set vehicle distance
-`kia_ev6_en_3a24edc5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0d706409d0ffb5b8555b43e4f35c6408132387e0f4c03ed326e0d36e5533f551.webp)
 
@@ -12244,7 +10796,6 @@ Each time the button is pressed, the vehicle distance changes as follows:
 Distance 4 → Distance 3 ↓→ Distance 2 Distance A
 
 ### \* NOTICE
-`kia_ev6_en_07de7252` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you drive at 56 mph (90 km/h), the
 distance is maintained as follows: Distance 4 - approximately 172 ft. (52.5 m) Distance 3 approximately 130 ft. (40 m) Distance 2 approximately 106 ft. (32.5 m) Distance 1 - approximately 82 ft. (25 m)
@@ -12254,7 +10805,6 @@ when Smart Cruise Control was tem
 porarily canceled.
 
 ### To increase set speed
-`kia_ev6_en_a06da02d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0ccc6b772dc4157a659d168551977ff8714d848c5df80d3f286f82239776fcd7.webp)
 
@@ -12263,13 +10813,10 @@ Push the + switch up and release it immediately. The set speed will increase by 
 Push the + switch up and hold it. The set speed will increase by 5 mph (10 km/h) each time the switch is oper ated in this manner.
 You can set the speed to 120 mph (200 km/h).
 
-### WARNING
-`kia_ev6_en_01a14801` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Check the driving condition before using the + switch. Driving speed may sharply increase when you push up and hold the + switch.
+> ⚠️ **Внимание:** 
+> Check the driving condition before using the + switch. Driving speed may sharply increase when you push up and hold the + switch.
 
 ### To decrease set speed
-`kia_ev6_en_3442c3eb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/10c8e7865ca7bc3ee150d65d26220a6a3c3545c2b0290cc0e2e9735cce10de88.webp)
 
@@ -12278,7 +10825,6 @@ Push the switch down and release it immediately. The set speed will decrease by 
 Push the switch down and hold it. The set speed will decrease by 5 mph (10 km/h) each time the switch is operated in this manner. You can set the speed to 20 mph (30 km/h).
 
 ### To temporarily cancel Smart Cruise Control
-`kia_ev6_en_5b0e6ee8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/791c6ddfa17d6f618b85e72e61ea8689b3135e803d36a914ac7c49bffdf93fa0.webp)
 
@@ -12293,38 +10839,32 @@ To resume Smart Cruise Control after the function was canceled, operate the +, -
 If you push the + switch up or - switch down, vehicle speed will be set to the current speed on the cluster. If you push the ( ) switch, vehicle speed will resume to the preset speed.
 
 ### A WARNING
-`kia_ev6_en_ec196f5c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the driving condition before using the ( ) switch. Driving speed may sharply increase or decrease when you press the ( ) switch.
 
 ### To turn off Smart Cruise Control
-`kia_ev6_en_ae95ec50` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/1c621ba2074d0f7c7816d6fe2b4052b61bb8fe107721aeef46d6b328ad627898.webp)
 
 Press the Driving Assist ( ) button to turn Smart Cruise Control off.
 
 ### \* NOTICE
-`kia_ev6_en_0f6ffbc2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If your vehicle is equipped with Manual Speed Limit Assist, press and hold the Driving Assist ( ) button to turn off Smart Cruise Control. However Manual Speed Limit Assist will turn on.
 
 ### Based on Driving Mode
-`kia_ev6_en_aeb61ad1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Smart Cruise Control will change acceleration based on the drive mode selected from Drive Mode Integrated Control function. Refer to the following chart.
 
 ![](images/868869056404204a7bf07143eb8febf4d99aea6223c531b31260dc9276e6215e.webp)
 
 ### \* NOTICE
-`kia_ev6_en_69c7e1da` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For more details on Drive Mode, refer to "Drive mode integrated control system" on page 6-38.
 Smart Cruise Control may not turn on or off in some of the drive modes for the operating conditions are not satisfied.
 If your vehicle is not equipped with Drive Mode Integrated Control system, Smart Cruise Control accelerates your vehicle at a normal level.
 
 ### Based on Driving Style (if equipped)
-`kia_ev6_en_285ee542` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Q A Driver Assistance
 Smart Cruise Control Control system settings
@@ -12341,7 +10881,6 @@ With the vehicle on, if Setup → Vehicle → Driver Assistance → Smart Cruise
 While Smart Cruise Control is operating with Based on Driving Mode selected, if you press and hold the Vehicle Distance ( ) button, Smart Cruise Control will change to Based on Driving Style. While Smart Cruise Control is operating with Based on Driving Style, f the Vehicle Distance ( ) button is pressed, it will change to Based on Driving Mode.
 
 ### \* NOTICE
-`kia_ev6_en_50e7c5a3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If equipped with Based on Driving Style, Based on Driving Mode and Based on Driving Style can be selected from the infotainment system screen by selecting Setup → Vehicle → Driver Assistance → Smart Cruise Control. If Based on Driving Mode is selected, Smart Cruise Control will operate based on the drive mode selected.
 
@@ -12362,12 +10901,10 @@ Vehicle → Driver Assistance → Smart Cruise Control → View Driving Style An
 View Driving Style Analysis (if equipped)
 
 ### \* NOTICE
-`kia_ev6_en_6f234cdc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 View Driving Style Analysis is displayed when Based on Driving Style is selected. Smart Cruise Control learns the driver's driving styles only when the driver drives the vehicle.
 
 ### Warning Volume
-`kia_ev6_en_f60550cf` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A: Driver Assistance
 1 Warning Volume
@@ -12378,7 +10915,6 @@ A: Driver Assistance
 With the vehicle on, select Setup → Vehicle → Driver Assistance → Warning Volume from the infotainment system screen to change the Warning Volume High, Medium, or Low for Smart Cruise Control. If you change the Warning Volume, the warning volume of other Driver Assistance systems may change.
 
 ### Basic function
-`kia_ev6_en_6a37c9a7` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 The gear is in D (Drive)
 The driver's door is closed
@@ -12399,12 +10935,10 @@ status (Power down indicator light is
 not illuminated)
 
 ### \* NOTICE
-`kia_ev6_en_ec4277ba` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 At a stop, if there is no vehicle in front of your vehicle, the function will turn on when the brake pedal is depressed.
 
 ### Overtaking Acceleration Assist
-`kia_ev6_en_39210878` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Overtaking Acceleration Assist will operate when the turn signal indicator is turned on to the left while Smart Cruise Control is operating, and the following conditions are satisfied:
 
@@ -12413,13 +10947,10 @@ The hazard warning flasher is off
 A vehicle is detected in front of your vehicle
 Deceleration is not needed to maintain distance with the vehicle in front
 
-### WARNING
-`kia_ev6_en_9f2d913c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-When the turn signal indicator is turned on to the left (left-hand drive) or turned on to the right (right-hand drive) while there is a vehicle ahead, the vehicle may accelerate temporar ily. Pay attention to the road conditions at all times. Regardless of your country's driving direction, Overtaking Acceleration Assist will operate when the conditions are satisfied. When using the function in countries with different driving direction, always check the road conditions at all times.
+> ⚠️ **Внимание:** 
+> When the turn signal indicator is turned on to the left (left-hand drive) or turned on to the right (right-hand drive) while there is a vehicle ahead, the vehicle may accelerate temporar ily. Pay attention to the road conditions at all times. Regardless of your country's driving direction, Overtaking Acceleration Assist will operate when the conditions are satisfied. When using the function in countries with different driving direction, always check the road conditions at all times.
 
 ### Basic function
-`kia_ev6_en_c31b26d5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You can see the status of the Smart Cruise Control operation in the Driving Assist mode on the cluster. Refer to "Instrument cluster" on page 5-63. Smart Cruise Control will be displayed as below depending on the status of the function.
 
@@ -12439,12 +10970,10 @@ When temporarily canceled
 2. The previous set speed is shaded.
 
 ### \* NOTICE
-`kia_ev6_en_e90c7e85` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The distance of the front vehicle on the cluster is displayed according to the actual distance between your vehicle and the vehicle ahead. The target distance may vary accord ing to the vehicle speed and the set distance level. If vehicle speed is low, even though the vehicle distance have changed, the change of the target vehicle distance may be small.
 
 ### To temporarily accelerate
-`kia_ev6_en_5698e292` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e8da8686ceb49244d61e1da73609550311a0a412cb8dc4850a070a0556cab83e.webp)
 
@@ -12455,18 +10984,14 @@ depress the accelerator pedal. While the accelerator pedal is depressed, the set
 However, if the accelerator pedal is
 depressed insufficiently, the vehicle may decelerate.
 
-### WARNING
-`kia_ev6_en_03fb7741` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Be careful when accelerating temporar ily, because the speed and distance is not controlled automatically even if there is a vehicle in front of you.
+> ⚠️ **Внимание:** 
+> Be careful when accelerating temporar ily, because the speed and distance is not controlled automatically even if there is a vehicle in front of you.
 
 ### A: Driving Style Adaptive SCC
-`kia_ev6_en_448de236` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Based on Driving Style is operating, the message will appear on the cluster for 2 seconds, and the distance level and target distance will be displayed based on the driving style.
 
 ### A: Smart Cruise Control canceled
-`kia_ev6_en_f8540a78` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Smart Cruise Control will be temporarily canceled automatically when:
 
@@ -12477,46 +11002,37 @@ The accelerator pedal is continuously depressed for a certain period of time The
 If Smart Cruise Control is temporarily canceled automatically, a warning message will appear on the cluster, and an audible warning will sound to warn the driver.
 
 ### \* NOTICE
-`kia_ev6_en_bc0afb69` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 If Smart Cruise Control is automatically canceled temporarily when the vehicle is stopped, the Electronic Parking Brake (EPB) may be applied.
 
 ### A WARNING
-`kia_ev6_en_6bf381c0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Smart Cruise Control is temporar ily canceled, distance with the front vehicle will not be maintained. Always have your eyes on the road while driving, and if necessary, depress the brake pedal to reduce your driving speed in order to maintain a safe distance.
 
 ### A: Smart Cruise Control conditions not met
-`kia_ev6_en_b472460f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the Driving Assist button, + switch, switch or ( ) switch is pushed when Smart Cruise Control's operating conditions are not satisfied, a warning message will appear on the cluster, and an audible warning will sound.
 
 ### A: Use switch or pedal to accelerate
-`kia_ev6_en_8d9960a6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In traffic, your vehicle will stop if the vehicle ahead of you stops. Also, if the vehicle ahead of you starts moving, your vehicle will start as well.
 
 In addition, after the vehicle has stopped and a certain time have passed, a warn ing message like above will appear on the cluster. Depress the accelerator pedal or push the + switch, switch or ( ) switch to start driving.
 
 ### A: Watch for surrounding vehicles
-`kia_ev6_en_41df20e5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In the following situation, the warning message will appear on the cluster, and an audible warning will sound to warn the driver of road conditions ahead.
 
 The vehicle in front disappears when Smart Cruise Control is maintaining the distance with the vehicle ahead while driving below a certain speed.
 
-### WARNING
-`kia_ev6_en_53fa47c9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Always pay attention to vehicles or objects that may suddenly appear in front of you, and if necessary, depress the brake pedal to reduce your driving speed in order to maintain a safe distance.
+> ⚠️ **Внимание:** 
+> Always pay attention to vehicles or objects that may suddenly appear in front of you, and if necessary, depress the brake pedal to reduce your driving speed in order to maintain a safe distance.
 
 ### A: Collision Warning
-`kia_ev6_en_15d4dca7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 While Smart Cruise Control is operating, when the collision risk with the vehicle ahead is high, a warning message will appear on the cluster, and an audible warning will sound to warn the driver. Always have your eyes on the road while driving, and if necessary, depress the brake pedal to reduce your driving speed in order to maintain a safe distance.
 
 ### ！ WARNING
-`kia_ev6_en_bc2d10e1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In the following situations, Smart Cruise Control may not warn the driver of a collision.
 
@@ -12530,58 +11046,53 @@ The accelerator pedal is depressed
 right after Smart Cruise Control is
 turned on
 
-### WARNING
-`kia_ev6_en_57636380` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> Take the following precautions when using Smart Cruise Control:
+>
+> Smart Cruise Control does not substitute for proper and safe driving. It is the responsibility of the driver to
+> always check the speed and distance to the vehicle ahead.
+> Smart Cruise Control may not detect unexpected and sudden situations or complex driving situations, so always pay attention to driving conditions and control your vehicle speed.
+> Keep Smart Cruise Control off when the function is not in use to avoid
+> inadvertently setting a speed.
+> Do not open the door when Smart Cruise Control is operating, even if the vehicle is stopped.
+> Always be aware of the selected
+> speed and vehicle to vehicle distance. Keep a safe distance according to
+> road conditions and vehicle speed. If the vehicle to vehicle distance is too close during high-speed driving, a
+> serious collision may result. Always pay attention to the road condition ahead.
+> When maintaining distance with the vehicle ahead, if the front vehicle disappears, the function may suddenly accelerate to the set speed. Always be aware of unexpected and sudden situations from occurring.
+> Vehicle speed may decrease on an upward sloped road and increase on a downward sloped road.
+> Always be aware of situations such as when a vehicle cuts in suddenly.
+> When you are towing a trailer or
+>
+> another vehicle, we recommend that
+>
+> Smart Cruise Control is turned off due to safety reasons.
+> Turn off Smart Cruise Control when your vehicle is being towed.
+> Smart Cruise Control may be can
+> celed if interfered by strong electromagnetic waves.
+> Smart Cruise Control may not detect an obstacle in front and lead to a collision. Always look ahead cautiously to prevent unexpected and sudden situations from occurring.
+> Vehicles moving in front of you with a frequent lane change may cause a delay in the function's reaction or may cause the function to react to a vehicle actually in an adjacent lane.
+> Always drive cautiously to prevent unexpected and sudden situations from occurring.
+> Always be aware of the surroundings and drive safely, even though a warning message does not appear or an audible warning does not sound.
+> If any other function's warning message is displayed or warning sound is generated, Smart Cruise Control
+> warning message may not be dis
+> played and warning sound may not be generated.
+> You may not hear the warning sound of Smart Cruise Control if the sur
+> rounding is noisy. Always pay attention to the road condition ahead.
+> The vehicle manufacturer is not
+> responsible for any traffic violation or accidents caused by the driver while Smart Cruise Control is oper ating.
+> Always set the vehicle speed under the speed limit in your country.
+>
+> Vehicle distance, acceleration and reaction speed may change if the driver's driving style changes. Always pay attention to the road condition ahead.
 
-Take the following precautions when using Smart Cruise Control:
-
-Smart Cruise Control does not substitute for proper and safe driving. It is the responsibility of the driver to
-always check the speed and distance to the vehicle ahead.
-Smart Cruise Control may not detect unexpected and sudden situations or complex driving situations, so always pay attention to driving conditions and control your vehicle speed.
-Keep Smart Cruise Control off when the function is not in use to avoid
-inadvertently setting a speed.
-Do not open the door when Smart Cruise Control is operating, even if the vehicle is stopped.
-Always be aware of the selected
-speed and vehicle to vehicle distance. Keep a safe distance according to
-road conditions and vehicle speed. If the vehicle to vehicle distance is too close during high-speed driving, a
-serious collision may result. Always pay attention to the road condition ahead.
-When maintaining distance with the vehicle ahead, if the front vehicle disappears, the function may suddenly accelerate to the set speed. Always be aware of unexpected and sudden situations from occurring.
-Vehicle speed may decrease on an upward sloped road and increase on a downward sloped road.
-Always be aware of situations such as when a vehicle cuts in suddenly.
-When you are towing a trailer or
-
-another vehicle, we recommend that
-
-Smart Cruise Control is turned off due to safety reasons.
-Turn off Smart Cruise Control when your vehicle is being towed.
-Smart Cruise Control may be can
-celed if interfered by strong electromagnetic waves.
-Smart Cruise Control may not detect an obstacle in front and lead to a collision. Always look ahead cautiously to prevent unexpected and sudden situations from occurring.
-Vehicles moving in front of you with a frequent lane change may cause a delay in the function's reaction or may cause the function to react to a vehicle actually in an adjacent lane.
-Always drive cautiously to prevent unexpected and sudden situations from occurring.
-Always be aware of the surroundings and drive safely, even though a warning message does not appear or an audible warning does not sound.
-If any other function's warning message is displayed or warning sound is generated, Smart Cruise Control
-warning message may not be dis
-played and warning sound may not be generated.
-You may not hear the warning sound of Smart Cruise Control if the sur
-rounding is noisy. Always pay attention to the road condition ahead.
-The vehicle manufacturer is not
-responsible for any traffic violation or accidents caused by the driver while Smart Cruise Control is oper ating.
-Always set the vehicle speed under the speed limit in your country.
-
-Vehicle distance, acceleration and reaction speed may change if the driver's driving style changes. Always pay attention to the road condition ahead.
-
-### CAUTION
-`kia_ev6_en_d612aa2d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-The vehicle must be driven suffi
-ciently to reflect the actual driving style of the driver, such as vehicle distance, acceleration and reaction
-speed.
-Based on Driving Style may not reflect the driver's driving style or driving conditions that affects driving safety. If you are driving in special conditions, such as snow, rain, fog or steep
-sloped roads, the vehicle may not be driven according to the driver's driving style.
+> ⚠️ **Внимание:** 
+> The vehicle must be driven suffi
+> ciently to reflect the actual driving style of the driver, such as vehicle distance, acceleration and reaction
+> speed.
+> Based on Driving Style may not reflect the driver's driving style or driving conditions that affects driving safety. If you are driving in special conditions, such as snow, rain, fog or steep
+> sloped roads, the vehicle may not be driven according to the driver's driving style.
 
 ### \* NOTICE
-`kia_ev6_en_8ab16cca` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 Smart Cruise Control may not operate for 15 seconds after the vehicle is
 restarted or the front view camera or front radar is initialized.
@@ -12592,24 +11103,20 @@ Based on Driving Style does not
 reflect any other driving style other than vehicle distance, acceleration and reaction speed.
 
 ### \* NOTICE
-`kia_ev6_en_0c834b11` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The images or colors may be displayed differently depending on the specifications of the instrument cluster or theme.
 
 ### Smart Cruise Control malfunction and limitations
-`kia_ev6_en_9adc120b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Smart Cruise Control malfunction
 
 ![](images/4007a7da87b3a819e4d0d7bb14695af4826850d9542c639e4159fdb6e0bb44ad.webp)
 
 ### A: Check Smart Cruise Control System
-`kia_ev6_en_8c277ddb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Smart Cruise Control is not working properly, a warning message will appear, and the ( ) warning light will illuminate on the cluster. Have Smart Cruise Control inspected by an authorized Kia dealer.
 
 ### A: Smart Cruise Control disabled. Radar blocked
-`kia_ev6_en_66798b05` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 When the front radar cover or sensor is covered with snow, rain, or foreign material, it can reduce the detecting performance and temporarily limit or disable Smart Cruise Control.
 
@@ -12617,18 +11124,13 @@ If this occurs, a warning message will appear on the cluster.
 
 Smart Cruise Control will operate normally when snow, rain or foreign material is removed.
 
-### WARNING
-`kia_ev6_en_a102861d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> Even though the warning message does not appear on the cluster, Smart Cruise Control may not properly operate.
 
-Even though the warning message does not appear on the cluster, Smart Cruise Control may not properly operate.
-
-### CAUTION
-`kia_ev6_en_96fc41e6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Smart Cruise Control may not properly operate in an area (e.g. open terrain), where there is nothing to detect after turning ON the vehicle.
+> ⚠️ **Внимание:** 
+> Smart Cruise Control may not properly operate in an area (e.g. open terrain), where there is nothing to detect after turning ON the vehicle.
 
 ### Limitations of Smart Cruise Control
-`kia_ev6_en_468b5db1` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 Smart Cruise Control may not operate normally under the following circumstances:
 
@@ -12663,7 +11165,6 @@ Driving through a roadside with trees or streetlights
 The adverse road conditions cause excessive vehicle vibrations while
 
 ### Limitations of Smart Cruise Control
-`kia_ev6_en_6cad6131` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 driving
 Your vehicle height is low or high due to heavy loads, abnormal tire pressure, etc.
@@ -12671,7 +11172,6 @@ Driving through a narrow road where trees or grass are overgrown
 There is interference by electromagnetic waves, such as driving in an area with strong radio waves or electrical noise
 
 ### Driving on a curved road
-`kia_ev6_en_1f23eaa3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f275539f45992ee2f8c302015361f9f73567ae41c162ef462c4fac81c6c293d5.webp)
 
@@ -12682,7 +11182,6 @@ On curved roads, Smart Cruise Control may not detect a vehicle in the same lane,
 Your vehicle speed can be reduced due to a vehicle in the adjacent lane. Check to be sure that the road conditions permit safe operation of the Smart Cruise Control and if necessary, depress the brake pedal to reduce your driving speed in order to maintain a safe distance.
 
 ### Driving on a sloped road
-`kia_ev6_en_f4dbd444` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8004c54f596872fc9f8b1b52484aadf3c35a5df2dfe5b1ef6002f9f781d01f9c.webp)
 
@@ -12736,7 +11235,6 @@ When a vehicle in front of you merges out of the lane, Smart Cruise Control may 
 Always look out for pedestrians when your vehicle is maintaining a distance with the vehicle ahead.
 
 ### This device complies with Part 15 of the FCC rules.
-`kia_ev6_en_385acad1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Operation is subject to the following three conditions:
 
@@ -12745,46 +11243,38 @@ Operation is subject to the following three conditions:
 3. Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the device.
 
 ### Radio frequency radiation expo sure information:
-`kia_ev6_en_9591b646` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. This equipment should be installed and operated with minimum distance of 8 inches (20 cm) between the radiator (antenna) and your body. This transmitter must not be colocated or operating in conjunction with any other antenna or transmitter.
 
 ### Navigation-based Smart Cruise Control (NSCC) (if equipped)
-`kia_ev6_en_7e70dcce` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Navigation-based Smart Cruise Control will help automatically adjust vehicle speed when driving on highways (or motorways) by using road information from the navigation function while Smart Cruise Control is operating.
 
 ### \* NOTICE
-`kia_ev6_en_662f38c0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Navigation-based Smart Cruise Control is available only on controlled access road or certain highways. Controlled access road indicates roads with limited entrances and exits that allow uninterrupted high speed traffic flow. Only passenger cars and motorcycles are allowed on controlled access roads.
 
 ![](images/d25eb6af2a8b37b7f2b87ac7ffa34b4136e53870afce30673649cbd90712318d.webp)
 
 ### \* NOTICE
-`kia_ev6_en_b9ff3186` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Navigation-based Smart Cruise Control operates on main roads of highways (or motorways), and does not operate on interchanges or junctions.
 
 ### ！ WARNING
-`kia_ev6_en_af177e87` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Navigation-based Smart Cruise Control is a supplemental function and is not a substitute for safe driving. It is the responsibility of the driver to always check the speed and distance to the
 
 vehicle ahead. Always drive safely and use caution.
 
 ### Highway Curve Zone Auto Slow-down
-`kia_ev6_en_01ac653f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If vehicle speed is high, Highway Curve Zone Auto Slowdown function will temporarily decelerate your vehicle or limit acceleration to help you drive safely on a curve based on the curve information from the navigation.
 
 ### Highway Set Speed Auto Change
-`kia_ev6_en_c379a5ee` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Highway Set Speed Auto Change function automatically changes Smart Cruise Control set speed based on the speed limit information from the navigation.
 
 ### Navigation-based Smart Cruise Control settings
-`kia_ev6_en_a3dac4c9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Setting features
 
@@ -12800,19 +11290,16 @@ Smart Cruise Control and deselect to turn off the function.
 When there is a problem with Navigation-based Smart Cruise Control, the function cannot be set from the Settings menu.
 
 ### Operating conditions
-`kia_ev6_en_6f78e10a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Navigation-based Smart Cruise Control is ready to operate if all of the following conditions are satisfied:
 
 Smart Cruise Control is operating Driving on main roads of highways (or motorways)
 
 ### \* NOTICE
-`kia_ev6_en_7bd8242f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For more details on how to operate Smart Cruise Control, refer to "Smart Cruise Control (SCC)" on page 6-103.
 
 ### Navigation-based Smart Cruise Control display
-`kia_ev6_en_93bf4cde` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Navigation-based Smart Cruise Control operates, it will be displayed on the cluster as follows:
 
@@ -12829,22 +11316,18 @@ If temporary deceleration is required in the standby state and Navigation-based 
 
 If the Highway Set Speed Auto Change function operates, the green ( ) symbol and set speed will illuminate on the cluster, and an audible warning will sound.
 
-### WARNING
-`kia_ev6_en_6e5015bc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-The warning message will appear in the following circumstances:
-
-![](images/51703e99eb034d24ae491ee0404ae45b8de64802f7d8348f1a1148d7955cdef1.webp)
-
-A: Drive carefully Navigation-based Smart Cruise Control is not able to slow down your vehicle to a safe speed.
+> ⚠️ **Внимание:** 
+> The warning message will appear in the following circumstances:
+>
+> ![](images/51703e99eb034d24ae491ee0404ae45b8de64802f7d8348f1a1148d7955cdef1.webp)
+>
+> A: Drive carefully Navigation-based Smart Cruise Control is not able to slow down your vehicle to a safe speed.
 
 ### Highway Curve Zone Auto Slowdown
-`kia_ev6_en_3acfe31d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Depending on the curve ahead on the highway (or motorway), the vehicle will decelerate, and after passing the curve, the vehicle will accelerate to Smart Cruise Control set speed. Vehicle deceleration time may differ depending on the vehicle speed and the degree of the curve on the road. The higher the driving speed, deceleration will start faster.
 
 ### Highway Set Speed Auto Change
-`kia_ev6_en_59e47dfb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Highway Set Speed Auto Change
 function will operate when Smart
@@ -12862,7 +11345,6 @@ If Highway Set Speed Auto Change function has changed to the standby state by de
 Highway Set Speed Auto Change function does not operate on highway interchanges or junctions.
 
 ### \* NOTICE
-`kia_ev6_en_6b9a8da0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Highway Set Speed Auto Change
 function only operates based on the speed limits of the highway (or motorway), it does not work with the speed cameras.
@@ -12878,12 +11360,10 @@ Change function may not operate
 properly.
 
 ### \* NOTICE
-`kia_ev6_en_0c834b11` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The images or colors may be displayed differently depending on the specifications of the instrument cluster or theme.
 
 ### Navigation-based Smart Cruise Control limitations
-`kia_ev6_en_248ebb3b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Navigation-based Smart Cruise Control may not operate normally under the following circumstances:
 
@@ -12920,7 +11400,6 @@ When it is judged that you are driving out of the route by entering the highway 
 If there is no destination set on the navigation, Highway Curve Zone Auto Slowdown function will operate based on the curve information on the main road. Even if you depart from the main road, Highway Curve Zone Auto Slowdown function may temporarily operate due to navigation information of the highway curve section.
 
 ### ！ WARNING
-`kia_ev6_en_cd47c485` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Navigation-based Smart Cruise Control is not a substitute for safe driving practices, but a convenience function. Always have your eyes on the road, and it is the responsibility of the driver to avoid violating traffic laws. The navigation's speed limit information may differ from the actual speed limit information on the road. It is the driver's responsibility to check the
 
@@ -12930,7 +11409,6 @@ speed limit on the actual driving road or lane.
 僅 If the driver accelerates and releases the accelerator pedal while Navigation-based Smart Cruise Control is operating, the vehicle may not decelerate sufficiently or may rapidly decelerate to a safe speed. If the curve is too large or too small, Navigation-based Smart Cruise Control may not operate.
 
 ### \* NOTICE
-`kia_ev6_en_d324f827` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The speed information on the cluster and navigation may differ.
 The time gap could occur between the navigation's guidance and when Navigation-based Smart Cruise Control operation starts and ends.
@@ -12942,7 +11420,6 @@ Deceleration by Navigation-based Smart Cruise Control may feel it is not suffici
 lanes, etc.
 
 ### This device complies with Part 15 of the FCC rules.
-`kia_ev6_en_385acad1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Operation is subject to the following three conditions:
 
@@ -12951,17 +11428,14 @@ Operation is subject to the following three conditions:
 3. Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the device.
 
 ### Radio frequency radiation expo sure information:
-`kia_ev6_en_9591b646` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. This equipment should be installed and operated with minimum distance of 8 inches (20 cm) between the radiator (antenna) and your body. This transmitter must not be colocated or operating in conjunction with any other antenna or transmitter.
 
 ### Lane Following Assist (LFA)
-`kia_ev6_en_b712113a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Lane Following Assist is designed to help detect lane markings and/or vehicles on the road, and assists the driver's steering to help keep the vehicle between lanes.
 
 ### Detecting sensor
-`kia_ev6_en_733efb04` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Front view camera
 
@@ -12971,15 +11445,12 @@ The front view camera is used as a detecting sensor to detect lane markings and 
 
 Refer to the picture above for the detailed location of the detecting sensor.
 
-### CAUTION
-`kia_ev6_en_200980c4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-![](images/63aa42731eb80e70ee60a2867d8060d5733efd8212c8ac1ccce29e57432afc43.webp)
-
-For more details on the precautions of the front view camera, refer to "Forward Collision-Avoidance Assist (FCA)" on page 6-46.
+> ⚠️ **Внимание:** 
+> ![](images/63aa42731eb80e70ee60a2867d8060d5733efd8212c8ac1ccce29e57432afc43.webp)
+>
+> For more details on the precautions of the front view camera, refer to "Forward Collision-Avoidance Assist (FCA)" on page 6-46.
 
 ### Lane Following Assist settings Turning Lane Following Assist On/Off
-`kia_ev6_en_93521c6a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0c33e4e97a262e5ec06a56005b4c92fbfb11bfb30bd943d0aac940e109fe1c8a.webp)
 
@@ -12990,7 +11461,6 @@ indicator light will illuminate on the cluster.
 Press the button again to turn off the function.
 
 ### Warning Volume
-`kia_ev6_en_d1570a50` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f8bc9d1d8f71b4078c179565be35ebc81cc0b52339f0434412cdd4793db66402.webp)
 
@@ -13003,24 +11473,19 @@ A: Driver Assistance
 With the vehicle on, select Setup → Vehicle → Driver Assistance → Warning Volume from the infotainment system screen to change the Warning Volume to High, Medium, or Low for Hands-off warning.
 
 ### Lane Following Assist operation
-`kia_ev6_en_f7a1e948` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Lane Following Assist will control and warn the vehicle by 'Lane Following Assist' and 'Hands-off warning'.
 
 ### Lane Following Assist
-`kia_ev6_en_ecec224d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/023dabeeb7fc715949e0cdbd0a94648566acd7702f6ec943c5fe84c9050842fb.webp)
 
 If the vehicle ahead and/or both lane markings are detected and your vehicle speed is below 110 mph (180 km/h), Lane Following Assist will help center the vehicle in the lane by assisting the steering wheel. The green ( ) indicator light will illuminate on the cluster.
 
-### CAUTION
-`kia_ev6_en_81a50721` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-When the steering wheel is not assisted, the green ( ) indicator light will blink and change to gray.
+> ⚠️ **Внимание:** 
+> When the steering wheel is not assisted, the green ( ) indicator light will blink and change to gray.
 
 ### A: Keep hands on steering wheel
-`kia_ev6_en_3c26ca9f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the driver takes their hands off the steering wheel for several seconds, the warning message will appear and an audible warning will sound in stages.
 
@@ -13029,12 +11494,10 @@ First stage: Warning message Second stage: Warning message (red steering wheel) 
 ![](images/bffe3a02d061cdf35ed78c8dd2141d8a1a1132c05166b93721562c0068285bd7.webp)
 
 ### A: Lane Following Assist (LFA) can celed
-`kia_ev6_en_f8021ccf` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the driver still does not have their hands on the steering wheel after the hands-off warning, the warning message will appear and Lane Following Assist will be automatically canceled.
 
 ### ！ WARNING
-`kia_ev6_en_a3201dd0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The steering wheel may not be
 assisted if the steering wheel is held very tight or the steering wheel is
@@ -13045,7 +11508,6 @@ lightly the hands –off warning message may appear because Lane Following Assis
 If you attach objects to the steering wheel, the hands-off warning may not work properly.
 
 ### \* NOTICE
-`kia_ev6_en_bb7558c8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For more details on setting Lane Following Assist in the infotainment system, refer to the separately supplied infotainment system manual. When both lane markings are detected, the lane lines on the cluster will change from gray to white.
 
@@ -13059,57 +11521,47 @@ steering wheel control by Lane Following Assist can be limited depending on whet
 The steering wheel may feel heavier or lighter when the steering wheel is assisted by Lane Following Assist than when it is not.
 
 ### Lane Following Assist malfunction and limitations
-`kia_ev6_en_72bd9150` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Lane Following Assist malfunction
 
 ![](images/bb32878fbeb0f9d0d9f6c647f2f938090a2d5c8c7c48402828c1f2a90b48e282.webp)
 
 ### A: Check Lane Following Assist (LFA) system
-`kia_ev6_en_0cf4cdc5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Lane Following Assist is not working properly, the warning message will appear and the master warning light ( ) will illuminate on the cluster. If this occurs, have Lane Following Assist inspected by an authorized Kia dealer.
 
 ### ！ WARNING
-`kia_ev6_en_08147dca` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For more details on Lane Following Assist precautions, refer to "Lane Keeping Assist (LKA)" on page 6-65.
 
 ### Basic function
-`kia_ev6_en_9bf49ed9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/f69f31d8d8eed9390bceb3940eac9f2dab897324258fb2781a4c9b69fd97d4e1.webp)
 
 Highway Driving Assist is designed to help detect vehicles and lanes ahead, and help maintain distance from the vehicle ahead, maintain the set speed, and keep the vehicle between lanes while driving on the highway (or motorway).
 
 ### Highway Lane Change Assist (if equipped)
-`kia_ev6_en_005345a2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a7263ca9fad890913e4429f3c7d5124d521082b4f6e7ca29e7547d32e91ef05d.webp)
 
 Highway Lane Change Assist function helps change lanes to the direction the driver slightly moves the turn signal switch if the function judges that lane change is possible.
 
 ### \* NOTICE
-`kia_ev6_en_4827f502` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Highway Driving Assist is available only on controlled access road or certain highways. (except for the interchange/junction) Controlled access road indicates roads with limited entrances and exits that allow uninterrupted high speed traffic flow. Only passenger cars and motorcycles are allowed on controlled access roads.
 
 ![](images/b20e9901fdabacaccd83572b1bbd89130b40e7e705777ab017b8cbc820df4dfe.webp)
 
 ### Front corner radar (if equipped)
-`kia_ev6_en_82b78826` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0a1628d0629a04e1557904996fd76e786df9c5dbb7e7b3dadf4121a5ed67b3fe.webp)
 
 Refer to the picture above for the detailed location of the detecting sensors.
 
-### CAUTION
-`kia_ev6_en_57d6d240` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-For more details on the precautions of the detecting sensors, refer to "Forward Collision-Avoidance Assist (FCA)" on page 6-46.
+> ⚠️ **Внимание:** 
+> For more details on the precautions of the detecting sensors, refer to "Forward Collision-Avoidance Assist (FCA)" on page 6-46.
 
 ### Highway Driving Assist settings Basic function
-`kia_ev6_en_ce4c3e24` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Q A Driver Assistance
 Smart Cruise Control Highway Driving Assist 2
@@ -13127,7 +11579,6 @@ With the vehicle on, select or deselect Setup → Vehicle → Driver Assistance 
 If Highway Driving Assist is selected, it helps maintain distance from the vehicle ahead, maintain the set speed, and helps center the vehicle in the lane.
 
 ### \* NOTICE
-`kia_ev6_en_f029bfd8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Highway Driving Assist is
 deselected, the setting for Highway Lane Change Assist cannot be
@@ -13136,7 +11587,6 @@ If there is a problem with the functions, the settings cannot be changed. Have t
 If the vehicle is restarted, the functions will maintain the last setting.
 
 ### Warning Volume
-`kia_ev6_en_86eaf696` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a1b8e065aa399b4b723eafc0ae8ed216ad090366ad4feec84f26b07500c10bb3.webp)
 
@@ -13151,7 +11601,6 @@ With the vehicle on, select Setup → Vehicle → Driver Assistance → Warning 
 If you change the Warning Volume, the Warning Volume of other Driver Assistance systems may change.
 
 ### Highway Driving Assist operation Basic function
-`kia_ev6_en_079a6d02` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Highway Driving Assist display and control
 
@@ -13171,13 +11620,11 @@ Highway Driving Assist indicator Green: Operating state Grey: Standby state Whit
 5 Whether the lane is detected or not is displayed.
 
 ### \* NOTICE
-`kia_ev6_en_3909d5a0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For more details on the display, refer to "Smart Cruise Control (SCC)" on page 6-103.
 For more details on the display, refer to "Lane Following Assist (LFA)" on page 6-124.
 
 ### Highway Driving Assist operating
-`kia_ev6_en_43db7066` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When driving on available road, press Drive Assist button to turn on Highway Driving Assist.
 
@@ -13186,7 +11633,6 @@ Highway Driving Assist will operate when entering or driving on the main road of
 Lane Following Assist is operating Smart Cruise Control is operating
 
 ### \* NOTICE
-`kia_ev6_en_452360f7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 While driving on the highway (or
 motorway), if Smart Cruise Control starts operating, Highway Driving
@@ -13195,12 +11641,10 @@ When entering the main roads of
 highways (or motorways) while Smart Cruise Control is operating, Driving Assist will not turn on if Lane Following Assist is turned off.
 
 ### A: Use switch or pedal to accelerate
-`kia_ev6_en_55deb78b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Highway Driving Assist is operating, your vehicle will stop if the vehicle ahead of you stops. Also, if the vehicle ahead of you starts moving approximately within 30 seconds after the stop, your vehicle will start as well. In addition, after the vehicle has stopped and approximately 30 seconds have passed, the Use switch or pedal to accelerate message will appear on the cluster. Depress the accelerator pedal or push the + switch, - switch or ( ) switch to start driving.
 
 ### A: Keep hands on steering wheel
-`kia_ev6_en_3c26ca9f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the driver takes their hands off the steering wheel for several seconds, the warning message will appear and an audible warning will sound in stages.
 
@@ -13209,12 +11653,10 @@ First stage: Warning message Second stage: Warning message (red steering wheel) 
 ![](images/ccce10db3fc2e56438c932e200ce798cef49dda680bd00669c93d237ae656c25.webp)
 
 ### A: Highway Driving Assist (HDA) system canceled
-`kia_ev6_en_71293d98` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the driver still does not have their hands on the steering wheel after the hands-off warning, the warning mes sage will appear and Highway Driving Assist and Lane Change Assist will be automatically canceled.
 
 ### A: Driver's grasp not detected. Driving speed will be limited
-`kia_ev6_en_d65792dc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Highway Driving Assist is canceled by the hands-off warning, The driving speed will be limited. While Driving Speed Limit function is operating, the warning message will appear on the cluster, and an audible warning will sound continuously.
 
@@ -13225,12 +11667,10 @@ Driving to one side within lane (if equipped)
 When vehicle speed is above 40 mph (60 km/h), if a vehicle around you is driving at a close distance, your vehicle will control steering in the opposite direction of the vehicle to assist in safe driving. If there are vehicles in both sides of the lane that are driving close to you, the function will not veer to the opposite side of the lane.
 
 ### Highway Driving Assist standby
-`kia_ev6_en_b8c203e4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the Smart Cruise Control is temporarily canceled while Highway Driving Assist is operating, Highway Driving Assist will be in the standby state. At this time, Lane Following Assist will operate normally.
 
 ### \* NOTICE
-`kia_ev6_en_f148ddf6` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Driving Speed Limit helps you drive
 below 40 mph (60 km/h). At this time,
@@ -13244,7 +11684,6 @@ When Smart Cruise Control switch +, -, or ( ) switch is pushed, or the accelerat
 pedal is depressed
 
 ### Display and control
-`kia_ev6_en_1459e545` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You can see the status of the Highway Lane Change Assist function operation in the Driving Assist view on the cluster. Refer to "Instrument cluster" on page 5- 63. Highway Lane Change Assist function will be displayed as below depending on the status of the function.
 
@@ -13257,17 +11696,14 @@ Ready/Operating
 Green ( ) on: Ready state Green ( ) blink: Operating state Grey ( ) on: Standby state White ( ) blink: Canceled state (display only a certain time)
 
 ### 2 Lane line
-`kia_ev6_en_533e1172` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The lane line is displayed identical to Highway Lane Change Assist indicator (1). However, the lane detection availability will be showed on Standby state.
 
 ### 3 Green arrow and shade
-`kia_ev6_en_ff2a6ec2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The green arrow is displayed when a certain amount of time has passed after the function has started operating, and until the lane change has completed.
 
 ### 4 Message
-`kia_ev6_en_200f9217` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Message is displayed when the function does not operate even though the turn signal lever is used. Message is displayed when the function is canceled while operating.
 
@@ -13276,14 +11712,12 @@ To turn on Highway Lane Change Assist
 ![](images/94a5e180b2ba8b4fd1b55cd419057ad67f576a2dd01ee1bc67191b8277c99fab.webp)
 
 ### 1 Confirm
-`kia_ev6_en_558fd9fe` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Highway Lane Change Assist function will turn on when the following condi tions are satisfied.
 
 The Driving Assist button or Lane Driving Assist button is used to turn on Highway Driving Assist. The OK button is pressed on the steering wheel while a message asking to use Highway Lane Change Assist is displayed on the cluster.
 
 ### Highway Lane Change Assist ready to operate
-`kia_ev6_en_aca2c173` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 While Highway Lane Change Assist function is on, the function will be ready to operate when all the following conditions are satisfied:
 
@@ -13294,7 +11728,6 @@ Hands-off warning is not displayed on the cluster
 Hazard warning flasher is off
 
 ### \* NOTICE
-`kia_ev6_en_f4c5a12b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 While Lane Change Assist function is
 turned on (indicator on), Lane Follow
@@ -13309,13 +11742,10 @@ state, and vehicle speed is below 35
 mph (55 km/h), the function will
 change to the standby state.
 
-### WARNING
-`kia_ev6_en_cffa692b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-When Highway Lane Change Assist function turns off while operating, steer ing assist will be temporarily canceled. Always be cautious while driving.
+> ⚠️ **Внимание:** 
+> When Highway Lane Change Assist function turns off while operating, steer ing assist will be temporarily canceled. Always be cautious while driving.
 
 ### Highway Lane Change Assist operating
-`kia_ev6_en_48185703` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/de9d2a1fce3b0fc8ca5e05dff70cae804732b25f432af8f3e0c9509a91d973f9.webp)
 
@@ -13329,14 +11759,12 @@ The vehicle is driven in the middle of the lane (should not be driving close to 
 The road you are driving on, or the road you are about to change lane is a road that the function can operate
 
 ### \* NOTICE
-`kia_ev6_en_2c32901a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the turn signal lever is placed at A position, the Highway Lane Change Assist function is performed. After that, if the turn signal lever is placed in neutral, Highway Lane Change Assist function is canceled before vehicle stepping on the lane. The Highway Lane Change Assist function is not canceled after stepping on the lane, but when the lane change is completed, it is canceled and the turn signal turns off.
 
 When the turn signal lever is placed at B position for a certain period of time, the green arrow will appear. At this time, even when the lever is released and returns to it's original position, lane change will still be assisted. While lane change is being made by the function, the turn signal indicator will blink even when the turn signal lever is not held, and the turn signal indicator will turn off when lane change is complete.
 
 ### Highway Lane Change Assist standby
-`kia_ev6_en_91b56ddd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Highway Lane Change Assist function will be in the standby state when one of the ready state condition is not satisfied, or when entering or driving on one of the following roads:
 
@@ -13349,7 +11777,6 @@ Road with sharp curves
 Road with narrow lanes
 
 ### Highway Lane Change Assist cancel
-`kia_ev6_en_cf91829f` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 The function will be canceled when:
 
@@ -13360,24 +11787,20 @@ A WARNING While the function is operating, the function will cancel if one of th
 While the function is operating, when the function is canceled, depending on the driving conditions, the vehicle may drive to the middle of the driving lane or steering assist may stop. Always pay attention to road and driving conditions while driving. The function may not operate normally on roads with pedestrians or cyclists, such as an intersection or crosswalk. Always pay attention to road and driving conditions while driving.
 
 ### \* NOTICE
-`kia_ev6_en_0c834b11` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The images or colors may be displayed differently depending on the specifications of the instrument cluster or theme.
 
 ### Highway Driving Assist malfunction and limitations
-`kia_ev6_en_5d3d8b1f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Highway Driving Assist malfunction
 
 ![](images/ce90cb826f2a1a2803ce77e2ae6ec56e63c0e5b852f8bc8e7f14e4612c694b2f.webp)
 
 ### A: Check Lane Change Assist function
-`kia_ev6_en_80f28c59` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Highway Driving Assist is not working properly, the warning message will appear, and the ( ) warning light will illuminate on the cluster. Have Highway Driving Assist be inspected by an authorized Kia dealer.
 
 ### ！ WARNING
-`kia_ev6_en_2c26f3b9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The driver is responsible for con
 trolling the vehicle for safe driving. Always have your hands on the steering wheel while driving.
@@ -13405,7 +11828,6 @@ Highway Driving Assist will not operate when the vehicle is started, or
 when the detecting sensors or navigation is being initialized.
 
 ### Limitations of Highway Driving Assist
-`kia_ev6_en_9ae1e039` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 Highway Driving Assist and Highway Lane Change function may not operate normally, or may not operate under the following circumstances:
 
@@ -13417,7 +11839,6 @@ Highway Driving Assist and Highway Lane Change function may not operate normally
 For more details on the limitations of the front view camera and front radar, refer to "Forward Collision-Avoidance Assist (FCA)" on page 6-46.
 
 ### This device complies with Part 15 of the FCC rules.
-`kia_ev6_en_385acad1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Operation is subject to the following three conditions:
 
@@ -13426,19 +11847,16 @@ Operation is subject to the following three conditions:
 3. Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the device.
 
 ### Radio frequency radiation exposure information:
-`kia_ev6_en_9591b646` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. This equipment should be installed and operated with minimum distance of 8 inches (20 cm) between the radiator (antenna) and your body. This transmitter must not be colocated or operating in conjunction with any other antenna or transmitter.
 
 ### Rear View Monitor (RVM) (if equipped)
-`kia_ev6_en_2faaf655` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/cec3e02650dace89066aa24e54af4c53ddccf7d5bc5fadade0c29faa0af5cc47.webp)
 
 Rear View Monitor will show the area behind the vehicle to assist you when parking or Reversing.
 
 ### Detecting sensor
-`kia_ev6_en_46a468fc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear view camera
 
@@ -13447,7 +11865,6 @@ Rear view camera
 Refer to the picture above for the detailed location of the detecting sensor.
 
 ### Rear View Monitor settings Camera settings
-`kia_ev6_en_c491f4f6` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 ![](images/03047aca32320c1ba5a7a16071a05c9760270efb011d9e986d0083dd36046b63.webp)
 
@@ -13458,26 +11875,22 @@ Camera Settings from the infotainment system screen to change the Rear View Moni
 Display Contents: To change the settings of rear view with parking guidance. Display Settings: To change the screen's brightness and contrast.
 
 ### Extend Rear Camera Monitor
-`kia_ev6_en_66c624b7` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 With the vehicle on, select or deselect Setup → Vehicle → Driver Assistance → Parking Safety → Camera Settings → Display Contents → Keep Rear Camera On from the infotainment system screen to set whether or not to use each function.
 
 ### Rear View Monitor operation Parking/View button
-`kia_ev6_en_8c4e1e27` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/056f76db422c194f860da6dd6406f3e9a290218838fa23b6abea0eade2f79d2f.webp)
 
 Press the Parking/View button (1) to turn on or off Rear View Monitor while P (Park) position is selected.
 
 ### Operating conditions
-`kia_ev6_en_6f16f301` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear View Monitor will turn on when the following conditions are satisfied:
 
 Shifting the gear to R (Reverse). Pressing the Parking/View button (1) while P (Park) gear position is selected Pressing the View icon with the Rear top view on the screen
 
 ### Off conditions
-`kia_ev6_en_ae1151f7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear View Monitor will turn off when the following conditions are satisfied:
 
@@ -13485,53 +11898,44 @@ Pressing the Parking/View button (1) again while P (Park) gear position is selec
 Changing the gear from R (Reverse) to P (Park).
 
 ### Extended Rear View Monitor
-`kia_ev6_en_6f92e6ba` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Extended Rear View Monitor function maintains the rear view of the vehicle when shifting the gear from R (Reverse) to N (Neutral) or D (Drive) to help you park safely.
 
 ### Operating conditions
-`kia_ev6_en_22f6c05e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear View Monitor will maintain when the following conditions are satisfied:
 
 Shifting the gear from R (Reverse) to N (Neutral) or D (Drive). The vehicle speed is below approximately 6 mph (10 km/h).
 
 ### Off conditions
-`kia_ev6_en_f4efa6ba` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Extended Rear View Monitor function will turn off when one the following conditions are satisfied:
 
 The vehicle speed is above approxi mately 6 mph (10 km/h). Pressing the Parking/View button (1). Shifting the gear to P (Park).
 
 ### Rear top view
-`kia_ev6_en_933ccc5f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 OCV051197N
 
 Rear top view shows the distance from the vehicle or the object in the back of your vehicle while parking. Press the Rear top view button to turn on Rear top view.
 
 ### Rear View Monitor malfunction
-`kia_ev6_en_b11d37d0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Rear View Monitor is not working properly, or the screen flickers, or the camera image does not display nor mally, have your vehicle inspected by an authorized Kia dealer.
 
-### WARNING
-`kia_ev6_en_e4730da9` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
-
-The rear view camera does not cover the complete area behind the vehicle. The driver should always check the rear area directly through the inside and outside rear view mirror before parking or Reversing.
-The image shown on the screen may differ from the actual distance of the object. Make sure to directly check the vehicle's surroundings for safety.
-Always keep the rear view camera lens clean. If the lens is covered with foreign material, it may adversely
-affect camera performance and Rear View Monitor may not operate normally. However, do not use chemical solvents such as strong detergents containing high alkaline or volatile organic solvents (gasoline, acetone etc.). This may damage the camera lens.
+> ⚠️ **Внимание:** 
+> The rear view camera does not cover the complete area behind the vehicle. The driver should always check the rear area directly through the inside and outside rear view mirror before parking or Reversing.
+> The image shown on the screen may differ from the actual distance of the object. Make sure to directly check the vehicle's surroundings for safety.
+> Always keep the rear view camera lens clean. If the lens is covered with foreign material, it may adversely
+> affect camera performance and Rear View Monitor may not operate normally. However, do not use chemical solvents such as strong detergents containing high alkaline or volatile organic solvents (gasoline, acetone etc.). This may damage the camera lens.
 
 ### Surround View Monitor (SVM) (if equipped)
-`kia_ev6_en_8a78df41` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/cebbf592190244ceb36cb720e4792cc4988f1a69ab158d6ad4a1a6b296903d50.webp)
 
 Surround View Monitor can assist in parking by allowing the driver to see around the vehicle.
 
 ### Detecting sensor
-`kia_ev6_en_9952d8a1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5435d4c1ad2d32e957e785a5d452a964e15029be204a8892f62a8b6fb7f981ce.webp)
 
@@ -13540,7 +11944,6 @@ Surround View Monitor can assist in parking by allowing the driver to see around
 Refer to the picture above for the detailed location of the detecting sensors.
 
 ### Surround View Monitor settings Camera settings
-`kia_ev6_en_915b1110` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 ![](images/1853cffa532f40dd95719d1b8520d29182f749fb9ca341e7ed0f774e15de7c2e.webp)
 
@@ -13549,7 +11952,6 @@ With the vehicle on, select the setup icon ( ) on the screen or Setup → Vehicl
 Display Contents: To change the settings of Top View Parking Guidance, Parking Guide in Rear View, and Parking Distance Warning function. Display Settings: To change the screen's brightness and contrast.
 
 ### Top View Parking Guidance
-`kia_ev6_en_e1c6fd51` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Front top view
 
@@ -13558,19 +11960,16 @@ Front top view
 Parking guidance is displayed on the right side of the Surround View Monitor screen when the Front or Rear Top View Parking Guidance is selected.
 
 ### Rear View Parking Guidance
-`kia_ev6_en_6946dce8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b25c9ab11dfbffce7c7e2f8339b2d221b59438996c1a8d68f9e19ead3f6f0ce2.webp)
 
 Rear view parking guidance is displayed in the rear view when the Parking Guide in Rear View is selected.
 
 ### \* NOTICE
-`kia_ev6_en_61025bcd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The horizontal guideline of the Rear View Parking Guidance shows the distance of 1.6 ft. (0.5 m), 3.3 ft. (1 m) and 7.6 ft. (2.3 m) from the vehicle.
 
 ### Parking Distance Warning
-`kia_ev6_en_b1cf5dfd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/dd536047d2c92b061916cc82e45da5e7d715d6cc643070ef492963170fb02a17.webp)
 
@@ -13579,28 +11978,24 @@ Parking distance warning is displayed on the right side of the Surround View Mon
 Surround View Monitor Auto On With the vehicle on, select Setup → Vehicle → Driver Assistance → Parking Safety → Surround View Monitor Auto On from the infotainment system screen to use the function.
 
 ### \* NOTICE
-`kia_ev6_en_17eadb27` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a174475aa0577d5aef0be43ba39cff098ae77fa39cb9174149d7a647939f3f72.webp)
 
 For more details on Surround View Monitor Auto On, refer to "Surround View Monitor Auto On" on page 6-140.
 
 ### Surround View Monitor operation Parking/View button
-`kia_ev6_en_b4c35a94` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d3993519c5acd222cb89eb4218cb48cedb8ed9e2b5492906f56302935d777bed.webp)
 
 Press the Parking/View button (1) to turn on or off Surround View Monitor.
 
 ### Front view
-`kia_ev6_en_5f917213` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5f5d4279d2c168608c09408bd6cdf41a45e341446cad199033cb7892d2d0d1e4.webp)
 
 Front view function is displayed on the screen when the gear s in N (Neutral) or D (Drive) to assist in parking. The front view has a top view, front view, side view and 3D view. Also, other view modes can be selected by pressing the view icons on the Surround View Monitor screen.
 
 ### Operating conditions
-`kia_ev6_en_c68582af` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Front view function will turn on when the following conditions are satisfied:
 
@@ -13611,7 +12006,6 @@ Pressing the Parking/View button (1) when the gear is in D (Drive) or N
 Forward Parking Distance Warning warns the driver while driving in D (Drive) (Setup → Vehicle → Driver Assistance → Parking Safety → Surround View Monitor Auto On selected from the infotainment system screen)
 
 ### Off conditions
-`kia_ev6_en_b542e344` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Front view function will turn off when the following conditions are satisfied:
 
@@ -13620,17 +12014,14 @@ Press one of the infotainment system button (2), the screen will change to the i
 Shifting to P (Park).
 
 ### \* NOTICE
-`kia_ev6_en_68edef4e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the Surround View Monitor is turned off after driving more than 6 mph (10 km/h), driving below 6 mph (10 km/h) again will not switch to the Surround View Monitor screen.
 
 ### Rear view
-`kia_ev6_en_bf3ef512` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear view function is displayed on the screen when the gear is in R (Reverse) or P (Park) to assist in parking. The rear view has a top view, rear view, side view and 3D view. Also, other view modes can be selected by pressing the view icons on the Surround View Monitor screen.
 
 ### Operating conditions
-`kia_ev6_en_0bfd4630` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear view function will turn on when the following conditions are satisfied:
 
@@ -13639,24 +12030,20 @@ Shifting to R (Reverse).
 Pressing the Parking/View button (1) when P (Park) gear position is selected.
 
 ### Off conditions
-`kia_ev6_en_fc52f62e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear view function will turn off when the following conditions are satisfied:
 
 Shifting from R (Reverse) to P (Park). Pressing the Parking/View button (1) when P (Park) gear position is selected.
 
 ### \* NOTICE
-`kia_ev6_en_29ac4a9d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Pressing the infotainment system button (2) will not turn the rear view off when the gear is in R (Reverse).
 
 ### 3D view
-`kia_ev6_en_a3d806d8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 3D view function shows the vehicle in various angles. Press the 3D view icon on the Surround View Monitor screen to choose the angle. Press the 3D view icon again to reset the angle.
 
 ### Operating conditions
-`kia_ev6_en_e1d6cacd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 3D view function will turn on when the following conditions are satisfied:
 
@@ -13664,7 +12051,6 @@ Shifting to P (Park), N (Neutral) or D (Drive) and the vehicle speed is below 6 
 When shifting to R (Reverse) and Surround View Monitor is on, Press 3D view icon on the Surround View Monitor screen.
 
 ### Off conditions
-`kia_ev6_en_0f10708a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 3D view function will turn off when the following conditions are satisfied:
 
@@ -13674,12 +12060,10 @@ Vehicle in P (Park), N (Neutral) or D
 Pressing the Parking/View button (1) Pressing the infotainment screen button (3) Pressing the home button on the Surround View Monitor screen (2) Vehicle speed is above 6 mph (10 km/h) Vehicle in R (Reverse) Shifting to P (Park)
 
 ### Surround View Monitor malfunction
-`kia_ev6_en_598ce267` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Surround View Monitor is not working properly, or the screen flickers, or the camera image does not display normally, have your vehicle inspected by an authorized Kia dealer.
 
 ### Limitations of Surround View Monitor
-`kia_ev6_en_6559c7f2` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 The screen may be displayed abnormally, and an icon will appear at the top left side of the screen under the following circumstances:
 
@@ -13688,18 +12072,15 @@ The driver or front passenger door is opened.
 The outside rear view mirror is
 folded.
 
-### WARNING
-`kia_ev6_en_2e64ed9a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-ALWAYS look around your vehicle to make sure there are no objects or
-obstacles before moving the vehicle. What you see on the screen may differ from the actual vehicle's location. The image shown on the screen may differ from the actual distance of the object. Make sure to directly check the vehicle's surroundings for safety.
-Surround View Monitor is designed to be used on a flat surface. Therefore, if used on roads with different heights such as curbs and speed bumps, the image in the screen my not look correct.
-Always keep the camera lens clean. If the lens is covered with foreign material, it may adversely affect camera performance and Surround View
-Monitor may not operate normally. However, do not use chemical solvents such as strong detergents containing high alkaline or volatile
-organic solvents (gasoline, acetone etc.). This may damage the camera lens.
+> ⚠️ **Внимание:** 
+> ALWAYS look around your vehicle to make sure there are no objects or
+> obstacles before moving the vehicle. What you see on the screen may differ from the actual vehicle's location. The image shown on the screen may differ from the actual distance of the object. Make sure to directly check the vehicle's surroundings for safety.
+> Surround View Monitor is designed to be used on a flat surface. Therefore, if used on roads with different heights such as curbs and speed bumps, the image in the screen my not look correct.
+> Always keep the camera lens clean. If the lens is covered with foreign material, it may adversely affect camera performance and Surround View
+> Monitor may not operate normally. However, do not use chemical solvents such as strong detergents containing high alkaline or volatile
+> organic solvents (gasoline, acetone etc.). This may damage the camera lens.
 
 ### Rear Cross-Traffic CollisionAvoidance Assist (RCCA) (if equipped)
-`kia_ev6_en_699a87dd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear Cross-Traffic Collision-Avoidance Assist is designed to help detect vehicles approaching from blind spot area while your vehicle is reversing, and warn the driver that a collision is imminent with a warning message and an audible warning. Also, braking may be assisted to potentially help prevent a collision.
 
@@ -13708,7 +12089,6 @@ Rear Cross-Traffic Collision-Avoidance Assist is designed to help detect vehicle
 [A]: Rear Cross-Traffic Collision Warning operating range [B]: Rear Cross-Traffic Collision-Avoidance Assist operating range
 
 ### Detecting sensor
-`kia_ev6_en_8202683a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear corner radar
 
@@ -13719,7 +12099,6 @@ Refer to the picture above for the detailed location of the detecting sensor.
 For more details on the precautions of the rear corner radar, refer to "BlindSpot Collision-Avoidance Assist (BCA) (if equipped)" on page 6-70.
 
 ### Rear Cross-Traffic CollisionAvoidance Assist settings
-`kia_ev6_en_53c7d65f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Setting features
 
@@ -13741,12 +12120,10 @@ Vehicle → Driver Assistance → Parking Safety → Rear Cross-Traffic
 Safety from the infotainment system screen to turn on Rear Cross-Traffic Collision-Avoidance Assist and deselect to turn off the function.
 
 ### A WARNING
-`kia_ev6_en_f1ca2a78` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the vehicle is restarted, Rear Cross-Traffic Collision-Avoidance Assist will automatically turn on. However, if Off is selected after the vehicle is restarted, the driver should always be aware of the surroundings and drive safely.
 
 ### Warning Timing
-`kia_ev6_en_a47d7e3a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d31fd2a324eabc8c631dafae07f98b598db960237e94891bab6decb151af1916.webp)
 
@@ -13756,7 +12133,6 @@ A: Driver Assistance 1 Warning Timing 2 Standard
 With the vehicle on, select Setup → Vehicle → Driver Assistance → Warning Timing from the infotainment system screen to change the initial warning activation time for Rear Cross-Traffic Collision-Avoidance Assist. When the vehicle is first delivered, Warning Timing is set to Standard. If you change the Warning Timing, the warning time of other Driver Assistance systems may change.
 
 ### Warning Volume
-`kia_ev6_en_9b3bb6ad` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/3f5fcc3c7f1aab0dd79d101cb926cb9e0f00c26201751ed5613f8641448195f4.webp)
 
@@ -13769,14 +12145,12 @@ A: Driver Assistance
 With the vehicle on, select Setup → Vehicle → Driver Assistance → Warning Volume from the infotainment system screen to change the Warning Volume to High, Medium, or Low for
 
 ### ！ CAUTION
-`kia_ev6_en_669d7913` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The setting of the Warning Timing and Warning Volume applies to all functions of the Rear Collision-Avoidance Assist.
 Even though Standard is selected for Warning Timing, if the vehicles from the blind spot area approaches at high speed, the initial warning activation time may seem late.
 Select Late for Warning Timing when traffic is light and when driving speed is slow.
 
 ### Rear Cross-Traffic CollisionAvoidance Assist operation
-`kia_ev6_en_dc086a66` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear Cross-Traffic Collision-Avoidance Assist will warn and control the vehicle depending on collision level
 
@@ -13786,7 +12160,6 @@ Stopping vehicle and ending brake
 control
 
 ### Collision warning
-`kia_ev6_en_216045b4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/7d0746a61277d9d6408cd87b7f2ed4a03428d99739169204ea2726da3fe2c0fd.webp)
 
@@ -13797,7 +12170,6 @@ The gear is shifted to R (Reverse) and the vehicle speed is below 5 mph (8 km/h)
 If the operating conditions are satisfied, there will be a warning whenever the vehicle approaches from the left or right side even though your vehicle speed is 0 mph (0 km/h).
 
 ### A: Emergency Braking
-`kia_ev6_en_fe720540` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To warn the driver of an approaching vehicle from the rear left/right side of your vehicle, the warning light on the outside rear view mirror will blink and a warning message will appear on the cluster. At the same time, an audible warning will sound. If the Rear View Monitor is operating, a warning will also appear on the infotainment system screen. (if equipped)
 
@@ -13808,24 +12180,21 @@ Emergency braking will be assisted to
 help prevent collision with approach
 ing vehicles from the blind spot area.
 
-### WARNING
-`kia_ev6_en_d94ad75b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Brake control will end:
-
-The approaching vehicle is out of the
-detecting range
-The approaching vehicle passes
-behind your vehicle
-The approaching vehicle does not
-drive toward your vehicle
-The approaching vehicle speed slows
-down
-The driver depresses the brake pedal
-with sufficient power
+> ⚠️ **Внимание:** 
+> Brake control will end:
+>
+> The approaching vehicle is out of the
+> detecting range
+> The approaching vehicle passes
+> behind your vehicle
+> The approaching vehicle does not
+> drive toward your vehicle
+> The approaching vehicle speed slows
+> down
+> The driver depresses the brake pedal
+> with sufficient power
 
 ### Stopping vehicle and ending brake control
-`kia_ev6_en_0d2f4afe` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d8f2e547e1b7e3eca44ee4d7aab700c1f5879db7ec1310c054cb4ce68534c20c.webp)
 
@@ -13836,7 +12205,6 @@ vehicle is stopped by emergency braking for approximately 2 seconds.
 During emergency braking, braking control by the function will automatically cancel when the driver excessively depresses the brake pedal.
 
 ### ！ WARNING
-`kia_ev6_en_c00921b3` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Take the following precautions when using Rear Cross-Traffic Collision-Avoidance Assist:
 
@@ -13855,46 +12223,38 @@ Rear Cross-Traffic Collision- Avoidance Assist may warn the driver late or may n
 solely depend on Rear Cross-Traffic Collision-Avoidance Assist. Rather, maintain a safe braking distance, and if necessary, depress the brake pedal to reduce driving speed or to stop the vehicle.
 Never deliberately test Rear CrossTraffic Collision-Avoidance Assist on people, animal, objects, etc. It may cause serious injury or death.
 
-### CAUTION
-`kia_ev6_en_993f5f75` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-The brake control may not operate properly depending on the status of ESC (Electronic Stability Control). There will only be a warning when: The ESC (Electronic Stability Control) warning light is on ESC (Electronic Stability Control) is engaged in a different function
+> ⚠️ **Внимание:** 
+> The brake control may not operate properly depending on the status of ESC (Electronic Stability Control). There will only be a warning when: The ESC (Electronic Stability Control) warning light is on ESC (Electronic Stability Control) is engaged in a different function
 
 ### \* NOTICE
-`kia_ev6_en_0ccb1b0a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If braking is assisted by Rear Cross-Traffic Collision-Avoidance Assist, the driver must immediately depress the brake pedal and check vehicle surroundings.
 
 Brake control will end when the driver depresses the brake pedal with sufficient power. After shifting the gear to R (Reverse), braking control will operate once for left and right vehicle approach.
 
 ### \* NOTICE
-`kia_ev6_en_be3f7361` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/48b005d0a355832b1da8fbd059017881c6bda0df545b21438feab23a920f029e.webp)
 
 The images or colors may be displayed differently depending on the specifications of the instrument cluster or theme.
 
 ### Rear Cross-Traffic CollisionAvoidance Assist malfunction and limitations
-`kia_ev6_en_8ea9b665` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear Cross-Traffic CollisionAvoidance Assist malfunction
 
 ![](images/c73e768cba7378ae5179af373f0b00fc02b4868c9d5b82892fdb94bcf030117c.webp)
 
 ### A: Check Rear Cross-Traffic Safety system
-`kia_ev6_en_289d50ec` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Rear Cross-Traffic CollisionAvoidance Assist is not working properly, the warning message will appear and the master warning light ( ) will illuminate on the cluster. Have the function be inspected by an authorized Kia dealer.
 
 ![](images/33d71a84dc3690d5bbaea16deb74354bff7af67f9be197926166ff01a6e14510.webp)
 
 ### A: Check side view mirror warning light
-`kia_ev6_en_432db0c7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the outside rear view mirror warn ing light is not working properly, the warning message will appear and the master warning light ( ) will illuminate on the cluster. Have the function be inspected by an authorized Kia dealer.
 
 ### A: Rear Cross-Traffic Safety system disabled. Radar blocked
-`kia_ev6_en_5a93a88e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the rear bumper around the rear corner radar or rear sensor is covered with foreign material, such as snow or rain, or installing a trailer or carrier, it can reduce the detecting performance and temporarily limit or disable Rear CrossTraffic Collision-Avoidance Assist.
 
@@ -13905,17 +12265,13 @@ The function will operate normally when such foreign material or trailer, etc. i
 If the function does not operate normally after it is removed, have the function inspected by an authorized Kia dealer.
 
 ### ！ WARNING
-`kia_ev6_en_8d647ed2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Even though the warning message or warning light does not appear on the cluster, Rear Cross-Traffic CollisionAvoidance Assist may not operate properly. Rear Cross-Traffic Collision-Avoidance Assist may not operate properly in an area (for example: open terrain), where any substance are not detected after turning ON the vehicle.
 
-### CAUTION
-`kia_ev6_en_76b23e6c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Turn off Rear Cross-Traffic CollisionAvoidance Assist to install a trailer, carrier, etc., or remove the trailer, carrier, etc. to use Rear Cross-Traffic CollisionAvoidance Assist.
+> ⚠️ **Внимание:** 
+> Turn off Rear Cross-Traffic CollisionAvoidance Assist to install a trailer, carrier, etc., or remove the trailer, carrier, etc. to use Rear Cross-Traffic CollisionAvoidance Assist.
 
 ### Limitations of Rear Cross-Traffic Collision-Avoidance Assist
-`kia_ev6_en_40ed9951` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear Cross-Traffic Collision-Avoidance Assist may not operate normally, or the function may operate unexpectedly under the following circumstances:
 
@@ -13933,19 +12289,16 @@ Remote Smart Parking Assist is oper
 ating (if equipped)
 
 ### \* NOTICE
-`kia_ev6_en_dd2b406d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For more details on the limitations of the rear corner radar, refer to "Blind-Spot Collision-Avoidance Assist (BCA) (if equipped)" on page 6-70.
 
 ### ！ WARNING
-`kia_ev6_en_7ca31efe` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Driving near a vehicle or structure
 
 ![](images/1ce4b98bd343b53fd7c7d7acde523f4e62066aa48f65a821974177742a0b10fd.webp)
 
 ### OCV051245L
-`kia_ev6_en_48898170` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 [A]: Structure
 
@@ -13993,30 +12346,25 @@ Rear Cross-Traffic Collision-Avoidance Assist may detect vehicles passing by beh
 
 Always check your surroundings while Reversing.
 
-### WARNING
-`kia_ev6_en_c6b5428b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-When you are towing a trailer or
-another vehicle, do not use Rear
-Cross-Traffic Collision-Avoidance
-Assist. The function could destabilize the vehicle.
-Rear Cross-Traffic Collision-Avoidance Assist may not operate suddenly if interfered by strong electromagnetic waves.
-Rear Cross-Traffic Collision-Avoidance Assist may not operate for 15 seconds after the vehicle is started, or the rear corner radars are initialized.
+> ⚠️ **Внимание:** 
+> When you are towing a trailer or
+> another vehicle, do not use Rear
+> Cross-Traffic Collision-Avoidance
+> Assist. The function could destabilize the vehicle.
+> Rear Cross-Traffic Collision-Avoidance Assist may not operate suddenly if interfered by strong electromagnetic waves.
+> Rear Cross-Traffic Collision-Avoidance Assist may not operate for 15 seconds after the vehicle is started, or the rear corner radars are initialized.
 
 ### This device complies with Part 15 of the FCC rules.
-`kia_ev6_en_6e286109` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Operation is subject to the following two conditions:
 
 1. This device may not cause harmful interference, and 2. This device must accept any interference received, including interference that may cause undesired operation.
 
 ### Reverse Parking Distance Warning (PDW) (if equipped)
-`kia_ev6_en_747f95d8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Reverse Parking Distance Warning will help warn the driver if a person, an animal or an object is detected within a cer tain distance when the vehicle is moving in reverse.
 
 ### Detecting sensor
-`kia_ev6_en_f158cc8e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear ultrasonic sensors
 
@@ -14025,7 +12373,6 @@ Rear ultrasonic sensors
 Refer to the picture above for the detailed location of the detecting sensors.
 
 ### Reverse Parking Distance Warning settings
-`kia_ev6_en_ca842781` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning Volume
 
@@ -14044,7 +12391,6 @@ Warning Volume to High, Medium, or
 Low for Reverse Parking Distance Warning.
 
 ### Reverse Parking Distance Warning operation
-`kia_ev6_en_7f4b2b89` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Parking Safety button
 
@@ -14055,14 +12401,12 @@ Press the Parking Safety ( ) button to turn on or off Reverse Parking Distance W
 When Reverse Parking Distance Warning is off (button indicator light off), if you shift the gear to R (Reverse), Reverse Parking Distance Warning will automatically turn on. If you shift the gear to R (Reverse), Reverse Parking Distance Warning will not turn off even if you press the Parking Safety ( ) button for your safety.
 
 ### Reverse Parking Distance Warning
-`kia_ev6_en_19a680f9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Reverse Parking Distance Warning will operate under the following conditions.
 
 Shift the gear to R (Reverse). The vehicle's speed is below 6 mph (10 km/h).
 
 ### Warning indication and warning sound
-`kia_ev6_en_d01b0377` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/6d8946b7ae53f2dd6476fa33b7780b8a0e0eb86dce640d204f41474eb66e7986.webp)
 
@@ -14075,7 +12419,6 @@ The shape of the indicator in the illustration may differ from the actual
 vehicle.
 
 ### Reverse Parking Distance Warning malfunction
-`kia_ev6_en_4e7d07a7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 After starting the vehicle, a beep will sound once when the gear is shifted to R (Reverse) to indicate Reverse Parking Distance Warning is operating normally. However, if one or more of the following occurs, first check whether the ultrasonic sensor is damaged or blocked with foreign material. If it still does not work properly, have your vehicle inspected by an authorized Kia dealer.
 
@@ -14084,7 +12427,6 @@ The audible warning does not sound. The buzzer sounds intermittently. The warnin
 ![](images/eb39647cfd6f0416aa3209a9864c8f5789e1c140ce0f24e07820ef6da2d87676.webp)
 
 ### Limitations of Reverse Parking Distance Warning
-`kia_ev6_en_32ae2c24` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Reverse Parking Distance Warning may not operate normally when:
 
@@ -14127,17 +12469,14 @@ The following objects may not be detected:
 Sharp or slim objects, such as ropes, chains or small poles. Objects, which tend to absorb sen sor frequency, such as clothes, spongy material or snow. Objects smaller than 40 inches (100 cm) in length and narrower than 6 inches (14 cm) in diameter. Pedestrians, animals or objects that are very close to the ultrasonic sensors
 
 ### ！ WARNING
-`kia_ev6_en_a18981df` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Reverse Parking Distance Warning is a supplemental function. The operation of Reverse Parking Distance Warning can be affected by several factors (including environmental conditions). It is the responsibility of the driver to always check the rear view before and while parking. Your vehicle warranty does not cover any accidents or damage to the vehicle due to the malfunction of Reverse Parking Distance Warning. Pay close attention when driving near objects, pedestrians, and especially children. Some objects may not be detected by the ultrasonic sensors, due to the objects distance, size or material, all of which can limit the effectiveness of the sensor. Parking Distance Warning indicator may not occur sequentially depending on vehicle speed or obstacle shape. If Reverse Parking Distance Warning needs repair, have your vehicle inspected by an authorized Kia dealer.
 
 ### Forward/Reverse Parking Distance Warning (PDW) (if equipped)
-`kia_ev6_en_0f5348ab` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Forward/Reverse Parking Distance Warning will help warn the driver if a person, an animal or an object is detected within a certain distance from the ultrasonic sensors when the vehicle is moving forward or in reverse.
 
 ### Detecting sensor
-`kia_ev6_en_3a77048d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Front ultrasonic sensors
 
@@ -14146,7 +12485,6 @@ Front ultrasonic sensors
 Refer to the picture above for the detailed location of the detecting sensors.
 
 ### Forward/Reverse Parking Distance Warning settings
-`kia_ev6_en_840c4b56` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning Volume
 
@@ -14161,17 +12499,14 @@ A: Driver Assistance
 Select Setup → Vehicle → Driver Assistance → Warning Volume from the infotainment system screen to change the Warning Volume to High, Medium, or Low for Forward/Reverse Parking Distance Warning.
 
 ### Parking Distance Warning Auto On
-`kia_ev6_en_d667fd10` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You can set the parking distance warning to be ON at low speeds. To use Parking Distance Warning Auto On function, select Setup → Vehicle → Driver Assistance → Parking Safety → Parking Distance Warning Auto On from the infotainment system screen.
 
 ### \* NOTICE
-`kia_ev6_en_def31ffc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If Parking Distance Warning Auto On is selected, the Parking Safety ( ) button indicator light will turn on.
 
 ### Forward/Reverse Parking Distance Warning operation
-`kia_ev6_en_86d7c841` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Parking Safety button
 
@@ -14183,7 +12518,6 @@ When Forward/Reverse Parking Distance Warning is off (button indicator light off
 If you shift the gear to R (Reverse), Forward/Reverse Parking Distance Warning will not turn off even if you press the Parking Safety ( ) button for your safety.
 
 ### Forward Parking Distance Warning
-`kia_ev6_en_d10a6216` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Forward Parking Distance Warning will operate when one of the condition is satisfied.
 
@@ -14196,7 +12530,6 @@ tance → Parking Safety → Parking Distance Warning Auto On is
 selected from the infotainment system, and the gear is in D (Drive) Vehicle speed is below 6 mph (10 km/ h)
 
 ### \* NOTICE
-`kia_ev6_en_9b0e38b6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Forward Parking Distance Warning does not operate when the vehicle's forward speed is above 6 mph (10 km/h) even when the function is on (Parking Safety button indicator is on). Forward Parking Distance Warning will operate again when the vehicle's forward speed decreases below 6
 mph (10 km/h).
@@ -14212,14 +12545,12 @@ Warning indication and warning sound
 ![](images/dc5b881a8bbe5ef8235762728023eb7737c420f2c8f3a47a077bfab6f1ed009b.webp)
 
 ### Reverse Parking Distance Warning
-`kia_ev6_en_b9326d84` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Reverse Parking Distance Warning will operate when one of the condition is sat isfied.
 
 The gear is shifted to R (Reverse). The vehicle's rearward speed is below 10 km/h (6 mph).
 
 ### \* NOTICE
-`kia_ev6_en_b0e488d6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the vehicle's rearward speed is below 6 mph (10 km/h), both the front and rear ultrasonic sensors will detect objects. However, the front ultrasonic sensors can detect a person, animal or object when it is within 24 inches (60 cm) from the sensors.
 
@@ -14234,7 +12565,6 @@ The shape of the indicator in the illustration may differ from the actual
 vehicle.
 
 ### Forward/Reverse Parking Distance Warning malfunction and precautions
-`kia_ev6_en_2c19bec5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Forward/Reverse Parking Distance Warning malfunction
 
@@ -14247,7 +12577,6 @@ The audible warning does not sound. The buzzer sounds intermittently. The warnin
 ![](images/3f5696eb0f5353535a76da247e18bb1468ed1d545b0603a33fab20263de2ca7a.webp)
 
 ### Limitations of Forward/Reverse Parking Distance Warning
-`kia_ev6_en_98897f2b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Forward/Reverse Parking Distance Warning may not operate normally when:
 
@@ -14271,25 +12600,21 @@ The following objects may not be detected:
 
 Sharp or slim objects, such as ropes, chains or small poles. Objects, which tend to absorb sensor frequency, such as clothes, spongy material or snow. Objects smaller than 40 inches (100 cm) in length and narrower than 6 inches (14 cm) in diameter. Pedestrians, animals or objects that are very close to the ultrasonic sensors
 
-### WARNING
-`kia_ev6_en_e745d943` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Forward/Reverse Parking Distance Warning is a supplemental function. The operation of Forward/Reverse Parking Distance Warning can be
-affected by several factors (including environmenta conditions). It is the responsibility of the driver to always check the front and rear views before and while parking.
-Your vehicle warranty does not cover any accidents or damage to the vehicle due to the malfunction of For
-ward/Reverse Parking Distance
-Warning.
-Pay close attention when driving near objects, pedestrians, and especially children. Some objects may not be detected by the ultrasonic sensors, due to the objects distance, size or material, all of which can limit the
-effectiveness of the sensor.
-Parking Distance Warning indicator may not occur sequentially depending on vehicle speed or obstacle shape. If Forward/Reverse Parking Distance Warning needs repair, have your vehicle inspected by an authorized Kia dealer.
+> ⚠️ **Внимание:** 
+> Forward/Reverse Parking Distance Warning is a supplemental function. The operation of Forward/Reverse Parking Distance Warning can be
+> affected by several factors (including environmenta conditions). It is the responsibility of the driver to always check the front and rear views before and while parking.
+> Your vehicle warranty does not cover any accidents or damage to the vehicle due to the malfunction of For
+> ward/Reverse Parking Distance
+> Warning.
+> Pay close attention when driving near objects, pedestrians, and especially children. Some objects may not be detected by the ultrasonic sensors, due to the objects distance, size or material, all of which can limit the
+> effectiveness of the sensor.
+> Parking Distance Warning indicator may not occur sequentially depending on vehicle speed or obstacle shape. If Forward/Reverse Parking Distance Warning needs repair, have your vehicle inspected by an authorized Kia dealer.
 
 ### Reverse Parking CollisionAvoidance Assist (PCA) (if equipped)
-`kia_ev6_en_d6b5e74c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Reverse Parking Collision-Avoidance Assist can warn the driver or assist with braking to help reduce the possibility of collision with a pedestrian or an object when Reversing.
 
 ### Detecting sensor
-`kia_ev6_en_5b60893f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear view camera
 
@@ -14301,7 +12626,6 @@ Rear ultrasonic sensors
 Refer to the picture above for the detailed location of the detecting sensors.
 
 ### Reverse Parking Collision- Avoidance Assist settings
-`kia_ev6_en_0a15d968` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Parking Safety
 
@@ -14330,14 +12654,12 @@ Rear Warning Only: Reverse Parking Collision-Avoidance Assist may warn the drive
 Off: Reverse Parking Collision-Avoidance Assist will turn off.
 
 ### Turning On/Off
-`kia_ev6_en_b957c58f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/d942112aa445991993dbe4e16f996334a22aa04ff8391294d5ddd2bf0830d961.webp)
 
 Press and hold the Parking Safety ( ) button for more than 2 seconds to turn Active rear assist or Rear Warning Only on or off.
 
 ### Warning Timing
-`kia_ev6_en_aced24b0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/b7fa9344c664573c8fd1c8e234bb94f71e461e5073872af608b000b47786c191.webp)
 
@@ -14349,7 +12671,6 @@ With the vehicle on, select Setup → Vehicle → Driver Assistance → Warning 
 Standard: Use in a normal driving environment. If the function operates too sensitively, set the warning timing to Late. Late: The warning timing will be slow.
 
 ### Warning Volume
-`kia_ev6_en_6b4e9983` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/128a8897049b51f007bf3476e5c2bf881301c96daa0e9075ed1c133770a8dad4.webp)
 
@@ -14362,7 +12683,6 @@ A: Driver Assistance
 With the vehicle on, select Setup → Vehicle → Driver Assistance → Warning Volume from the infotainment system screen to change the Warning Volume to High, Medium, or Low for Reverse Parking Collision-Avoidance Assist.
 
 ### Operating conditions
-`kia_ev6_en_6824c938` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 After selecting Active assistance or Warning only from the Settings menu, Reverse Parking Collision-Avoidance Assist will turn on when the following conditions are satisfied:
 
@@ -14380,12 +12700,10 @@ When Reverse Parking Collision- Avoidance Assist activates, a line appears behin
 ![](images/b7df99125ee7c4446accb32068581a2e7d7499356d4c71f38a4837f8fb6c0b51.webp)
 
 ### \* NOTICE
-`kia_ev6_en_a1726169` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Reverse Parking Collision-Avoidance Assist operates only once after the gear is shifted to R (Reverse). To reactivate Reverse Parking Collision-Avoidance Assist, shift the gear from another gear to R (Reverse).
 
 ### Rear Collision-Avoidance Assist
-`kia_ev6_en_c648a2bb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If Reverse Parking Collision-Avoidance Assist detects a risk of collision with a pedestrian or an object, Reverse Parking Collision-Avoidance Assist will warn the driver with an audible warning and warning message on the cluster. When Rear View Monitor is operating, a warn ing will appear on the infotainment system screen. The warning will turn off when the driver shifts the gear to P (Park), N (Neutral), or D (Drive). If Reverse Parking Collision-Avoidance Assist detects an imminent collision with a pedestrian or an object behind the vehicle, Reverse Parking CollisionAvoidance Assist will assist you with braking. The driver needs to pay attention as the brake assist will end within 5 minutes. Brake control will also end when:
 
@@ -14393,29 +12711,24 @@ The gear is shifted to P (Park) or D (Drive).
 The driver depresses the brake pedal with sufficient power.
 
 ### \* NOTICE
-`kia_ev6_en_d3eab76a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If braking assist has lasted for approximately 5 minutes, the Electronic Parking Brake EPB will be engaged simultaneously.
 
 ### Rear Collision Warning
-`kia_ev6_en_c648a2bb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If Reverse Parking Collision-Avoidance Assist detects a risk of collision with a pedestrian or an object, Reverse Parking Collision-Avoidance Assist will warn the driver with an audible warning and warning message on the cluster. When Rear View Monitor is operating, a warn ing will appear on the infotainment system screen. Braking will not be assisted. The warning will turn off when the gear is shifted to P (Park), N (Neutral) or D (Drive).
 
 ### Reverse Parking Collision- Avoidance Assist malfunction and limitations
-`kia_ev6_en_c4b60d06` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Reverse Parking Collision- Avoidance Assist malfunction
 
 ![](images/b978e67a84fb61542023859cce5366a34293a1631c06c18bee25f8ec996eb823.webp)
 
 ### A: Check Parking Safety system
-`kia_ev6_en_b7c07222` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Reverse Parking Collision- Avoidance Assist or other related functions are not working properly, the warning message will appear on the cluster, and Reverse Parking Collision-Avoidance Assist will turn off automatically. Have your vehicle inspected by an authorized Kia dealer.
 
 ### Reverse Parking Collision-Avoidance Assist disabled
-`kia_ev6_en_c011a2f1` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 Rear view camera
 
@@ -14432,21 +12745,18 @@ The rear ultrasonic sensors are located inside the rear bumper to detect objects
 The warning message will appear on the cluster if the following situations occur:
 
 ### A: Camera error or blockage
-`kia_ev6_en_725b1f12` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Rear ultrasonic sensors
 
 ![](images/95f60ee6f6dd0119c27d81f842bd02dc9215efe4e90baf1664b1093794ae09f5.webp)
 
 ### A: Ultrasonic sensor error or blockage
-`kia_ev6_en_319df53d` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 The rear view camera or rear ultrasonic sensor(s) is covered with foreign material, such as snow or rain, etc. There is inclement weather, such as heavy snow, heavy rain, etc.
 
 If this occurs, Reverse Parking CollisionAvoidance Assist may turn off or may not operate properly. Check whether the rear view camera and rear ultrasonic sensors are clean.
 
 ### Limitations of Reverse Parking Collision-Avoidance Assist
-`kia_ev6_en_8ab0bd85` | ev6 | pdf_manual | tier:4 | lang:en | layer:adas | p:1 | doc_type:service_manual
 
 Reverse Parking Collision-Avoidance Assist may not assist braking or warn the driver even if there are pedestrians or objects under the following circumstances:
 
@@ -14491,7 +12801,6 @@ Pedestrians or objects are around the path of the vehicle
 Objects generating excessive noise, such as vehicle horns, loud motorcycle engines or truck air brakes, are near your vehicle
 
 ### Limitations of Reverse Parking Collision-Avoidance Assist
-`kia_ev6_en_a101a2a7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Your vehicle is backing towards a nar row passage or parking space
 Your vehicle is backing towards an uneven road surface, such as an
@@ -14500,7 +12809,6 @@ A trailer or carrier is installed on the rear of your vehicle
 An ultrasonic sensor with similar frequency is near your vehicle
 
 ### A WARNING
-`kia_ev6_en_b60e167c` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Always pay extreme caution while driving. The driver is responsible for controlling the brake for safe driving. Always pay attention to road and traffic conditions while driving, whether or not there is a warning. Always look around your vehicle to make sure there are no pedestrians or objects before moving the vehicle. The performance of Reverse Parking Collision-Avoidance Assist may vary under certain conditions. If vehicle speed is above 2 mph (4 km/h), Reverse Parking Collision- Avoidance Assist will provide collision avoidance assist only when pedestrians are detected. Always look around and pay attention when Reversing your vehicle. Some objects may not be detected by the rear ultrasonic sensors due to the objects distance, size or material, all of
 
@@ -14515,7 +12823,6 @@ The brake control may not operate properly depending on the status of ESC (Elect
 There will only be a warning when: The ESC (Electronic Stability Control) warning light is on
 
 ### \* NOTICE
-`kia_ev6_en_37c95c80` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Reverse Parking Collision-Avoidance Assist can detect a pedestrian or an object when:
 
@@ -14523,7 +12830,6 @@ A pedestrian is standing behind the vehicle
 A large obstacle, such as a vehicle, is parked in the rear center of your vehicle
 
 ### Remote Smart Parking Assist (RSPA) (if equipped)
-`kia_ev6_en_d9087556` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remote Smart Parking Assist uses vehicle sensors to help the driver park and exit parking spaces remotely from outside the vehicle by automatically searching for parking spaces, and controlling the steering wheel, vehicle speed and gearshifts.
 
@@ -14535,7 +12841,6 @@ Smart Parking and Remote Smart Parking function may be operated from inside the 
 Smart Parking and Remote Smart Parking function helps the driver with perpendicular reverse parking and parallel reverse parking. Smart Exit function helps the driver with parallel forward exit. When Remote Smart Parking Assist operates, Parking Distance Warning and Surround View Monitor will also operate. For more details, refer to "Forward/Reverse Parking Distance Warning (PDW) (if equipped)" on page 6-154 and "Surround View Monitor (SVM) (if equipped)" on page 6-139.
 
 ### Detecting sensor
-`kia_ev6_en_3ef53c57` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Front ultrasonic sensors
 
@@ -14548,27 +12853,23 @@ Rear side ultrasonic sensors
 ![](images/289d7eece998e0c71457f81bea9e6080d55ac44cbea180dacf224176fe1bbde4.webp)
 
 ### Rear ultrasonic sensors
-`kia_ev6_en_05771467` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a5831b73d11172ac7c7ea7c6d07eb7be81aaede087edabbe2b2e15e55a568533.webp)
 
 Refer to the picture above for the detailed location of the detecting sensors.
 
-### WARNING
-`kia_ev6_en_32cffb86` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Never disassemble the detecting sensor or sensor assembly, or apply any impact on it.
-If the detecting sensor have been
-replaced o repaired, have your vehicle inspected by an authorized Kia dealer.
-Remote Smart Parking Assist may malfunction if the vehicle bumper
-height or ultrasonic sensor installation has been modified or damaged. Any non-factory installed equipment or accessories may also interfere with the sensor performance.
-When the ultrasonic sensor is frozen or stained with snow, dirt, or water, the sensor may not operate until the stains are removed using a soft cloth. Do not push, scratch or strike the
-ultrasonic sensor. Sensor damage
-could occur.
-Do not spray the ultrasonic sensors or its surrounding area directly with a high pressure washer.
+> ⚠️ **Внимание:** 
+> Never disassemble the detecting sensor or sensor assembly, or apply any impact on it.
+> If the detecting sensor have been
+> replaced o repaired, have your vehicle inspected by an authorized Kia dealer.
+> Remote Smart Parking Assist may malfunction if the vehicle bumper
+> height or ultrasonic sensor installation has been modified or damaged. Any non-factory installed equipment or accessories may also interfere with the sensor performance.
+> When the ultrasonic sensor is frozen or stained with snow, dirt, or water, the sensor may not operate until the stains are removed using a soft cloth. Do not push, scratch or strike the
+> ultrasonic sensor. Sensor damage
+> could occur.
+> Do not spray the ultrasonic sensors or its surrounding area directly with a high pressure washer.
 
 ### Remote Smart Parking Assist settings
-`kia_ev6_en_6da492e0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Warning Volume
 
@@ -14583,14 +12884,12 @@ A: Driver Assistance
 With the vehicle on, select Setup → Vehicle → Driver Assistance → Warning Volume from the infotainment system screen to change the Warning Volume to High, Medium, or Low for Remote Smart Parking Assist.
 
 ### Remote Smart Parking Assist operation Remote Smart Parking button
-`kia_ev6_en_32c99254` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/fc6e33a3f9c0005788d30c41b49e23378472d12c07f6ab398bfc0457a0031a23.webp)
 
 ![](images/002ab5bdf89b38b5324426e4eb72ec092af62a44c84a0bc1029bb51c26b188fc.webp)
 
 ### Operating order
-`kia_ev6_en_2b79e7b7` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Remote Operation operates in the following order:
 
@@ -14616,7 +12915,6 @@ Method (2): Using the function with vehicle on
 ![](images/f5a06d4355d40ed0bcb4c18b491b611a233e9ade0be9b9a6a9e4b9d8a34f685f.webp)
 
 ### A: REMOTELY moving forward/back ward...
-`kia_ev6_en_a1559714` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 1. Unfasten driver's seat belt.
 2 2. Leave car (keep the key) and close doors.
@@ -14626,7 +12924,6 @@ Method (2): Using the function with vehicle on
 3. Get out of the vehicle with the smart key and close all doors.
 
 ### \* NOTICE
-`kia_ev6_en_21b15d47` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Agree must be selected on the infotainment system screen and the infotainment system has to operate
 properly to use Remote Operation
@@ -14636,7 +12933,6 @@ If the function is turned on again after parallel parking is completed by
 Remote Smart Parking Assist, Remote Operation function can be used with Method (2).
 
 ### 2. Remote Operation
-`kia_ev6_en_a7e8e805` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/2910ee278b9c3f0fb4bcb145fc7396b152d61723277dce96556aaa38122c2d4a.webp)
 
@@ -14647,31 +12943,26 @@ Remote Smart Parking Assist will automatically control the steering wheel, vehic
 3. When Remote Operation is done, get in the vehicle with the smart key or press the Remote Start ( ) button on the smart key from outside the vehicle. The message will appear on the infotainment system screen. The vehicle will automatically shift to P (Park) and engage the parking brake. When the Remote Start ( ) button is pressed, the vehicle will turn off. If the driver is in the vehicle, the vehicle will retain ON position.
 
 ### \* NOTICE
-`kia_ev6_en_98000fc8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remote Operation can control the vehicle remotely using the smart key outside the vehicle. Check that all smart keys are outside the vehicle when using Remote Operation function. Remote Operation function will operate only when the smart key is within 13 ft. (4 m) from the vehicle. I f there is no vehicle movement even when the Forward or Backward button is pressed on the smart key, check the distance to the vehicle and press the button again. The detecting range of the smart key may vary depending on the surroundings that are affected by radio waves such as transmission tower, broadcast station, etc. When remotely moving forward using method (1), it is recognized as an exit situation, and the vehicle moves 13 ft. (4 m) to check for pedestrians, animals or objects around the vehicle. After confirmation, the steering wheel is controlled according to the condition ahead. 僅 When remotely moving forward using method (2), it is recognized as a parking situation, and will immediately control the steering wheel according to the condition ahead to assist with entering the parking space and aligning the vehicle. However, performance may reduce depending on the pedestrians, animals, shape of objects, location, etc. around the vehicle.
 
 For moving remotely backward, both method (1) and (2) aligns the steering wheel first, and then will only move the vehicle straight.
 
-### WARNING
-`kia_ev6_en_90f7c4bc` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
-
-When using Remote Operation function, make sure that all passengers have gotten out of the vehicle.
-Before leaving the vehicle, close windows and sunroofs, and make sure the vehicle is off before locking the doors.
-If the vehicle's battery is discharged or Remote Smart Parking Assist malfunctions when parked in a narrow parking space, Remote Operation
-function will not operate. Always park your vehicle in a space wide enough for you to get in or out of your vehicle. Please note that depending on the parking space, you may not be able to exit from the space you have entered by using Remote Operation function. After parking, the surrounding may change due to the movement of surrounding vehicles. If this occurs,
-Remote Operation function may not operate.
-
-Remote Smart Parking Assist operation status
-![](images/7d206427cef4c2de05f49233371c02c2b60ee85764e10266a5aa48e9acc41017.webp)
+> ⚠️ **Внимание:** 
+> When using Remote Operation function, make sure that all passengers have gotten out of the vehicle.
+> Before leaving the vehicle, close windows and sunroofs, and make sure the vehicle is off before locking the doors.
+> If the vehicle's battery is discharged or Remote Smart Parking Assist malfunctions when parked in a narrow parking space, Remote Operation
+> function will not operate. Always park your vehicle in a space wide enough for you to get in or out of your vehicle. Please note that depending on the parking space, you may not be able to exit from the space you have entered by using Remote Operation function. After parking, the surrounding may change due to the movement of surrounding vehicles. If this occurs,
+> Remote Operation function may not operate.
+>
+> Remote Smart Parking Assist operation status
+> ![](images/7d206427cef4c2de05f49233371c02c2b60ee85764e10266a5aa48e9acc41017.webp)
 
 ### \* NOTICE
-`kia_ev6_en_4d743ad0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Operation status by the hazard warn ing light may not be applicable based on the regulation of your country. If the smart key is not within the operating range from the vehicle (approximately 13 ft. (4 m)), the smart key LED will not illuminate or blink. Use the smart key within the operating range.
 
 ### How to turn off Remote Operation function while operating
-`kia_ev6_en_dfaab1ad` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Press the Parking/View ( ) button or shift the gear except to P (Park) while the infotainment system screen
 guides the driver using method 2.
@@ -14682,7 +12973,6 @@ being controlled by Remote Operation function. Remote Operation function will tu
 Get in the vehicle with the smart key. Remote Operation function will turn off. At this time, the vehicle will remain on.
 
 ### The function will pause in the following conditions when:
-`kia_ev6_en_d3b817ed` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Remote Operation function is paused, the vehicle will stop. If the condition that made the function to pause disappears, the function may operate again.
 
@@ -14696,7 +12986,6 @@ direction.
 The vehicle moves 22 ft. (7 m) while the smart key is pressed with Remote Operation function (maximum travel distance per button press)
 
 ### The function will cancel in the following conditions when:
-`kia_ev6_en_c3740588` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 When Remote Operation function is canceled, the vehicle will automatically stop, shift the gear to P (Park) and engage EPB (Electronic Parking Brake).
 
@@ -14708,7 +12997,6 @@ The gear is shifted while the vehicle is moving Operating EPB while the vehicle 
 僅 The wheel is stuck by an obstacle and cannot move Approximately 3 minutes and 50 seconds have past after Remote Operation function has started to operate The slope of the road exceeds the operational range The function is paused for more than minute The total travel distance of the vehicle has exceeded 45 ft. (14 m) after Remote Operation function operation The steering wheel, gearshift, braking, and drive controls are not working normally There is a problem with the smart key or the smart key battery is low ABS, TCS or ESC system operates due to slippery road conditions The alarm of the Theft Alarm System sounds The charging door opens The EV mode is utility mode
 
 ### Operating order
-`kia_ev6_en_26ba463d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Parking function operates in the following order:
 
@@ -14720,26 +13008,22 @@ mode
 5. Remote Smart Parking
 
 ### 1. Getting ready for parking
-`kia_ev6_en_ad5e34ee` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/529791e56e4c7aeac850991ea3be274ce052f81c385f1b4034c02d348172f70a.webp)
 
 1. With the vehicle turned on, depress the brake pedal and shift the gear to D (Drive) or N (Neutral). 2. Press and hold the Parking/View ( ) button to turn on Remote Smart Parking Assist.
 
 ### \* NOTICE
-`kia_ev6_en_da10f428` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Agree must be selected on the infotainment system screen and the infotainment system has to operate properly to use Parking function. If you drive above 3 mph (5 km/h) with the vehicle on, you may use the Parking function with the gear shifted to N (Neutral).
 
 ### A: Searching for parking space... 1 Slowly drive forward (below 12 mph).
-`kia_ev6_en_0ed71945` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Slowly drive forward maintaining the distance of approximately 40 inches (100 cm) from the parked vehicles. The vehicle will search for a parking space from the side or front/rear of parked vehicle.
 
 When searching for a parking space is complete, a message will appear on the infotainment system screen. Select parking type will be displayed and the selected parking space will appear on Top View screen of Surround View Monitor.
 
 ### \* NOTICE
-`kia_ev6_en_8af95465` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remote Smart Parking Assist
 searches for parking spaces that are next to parked vehicles, or parking spaces with parked vehicles in front or rear.
@@ -14750,7 +13034,6 @@ space to move the vehicle in addition to the parking space.
 Even if an audible sound is heard to notify that searching for a parking space is complete, search completion can be canceled immediately depending on surroundings.
 
 ### \* NOTICE
-`kia_ev6_en_32303196` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the distance is below 20 inches (50 cm) or over 59 inches (150 cm), Remote Smart Parking Assist may not be able to search for a parking space.
 
@@ -14772,19 +13055,15 @@ A: Select parking type
 With the vehicle stopped by depressing the brake pedal, touch the infotainment system screen to select the desired parking type.
 
 ### \* NOTICE
-`kia_ev6_en_fd8b9cd3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you continue to drive without stopping after the parking type selection screen appears, Remote Smart Parking Assist will return to the previous stage and search for a parking space. If Parking function is canceled unintentionally by pressing the Parking/ View ( ) button before the parking type is selected, you can return to the parking type selection stage by pressing and holding the button again while the vehicle is stopped.
 
-### WARNING
-`kia_ev6_en_97fa33f3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Before selecting the Parking type, the driver should check whether the parking space is suitable.
-
-If the searched parking space by Remote Smart Parking Assist is narrow or unsuitable for parking, do not select the Parking type and move the vehicle to search for another parking space.
+> ⚠️ **Внимание:** 
+> Before selecting the Parking type, the driver should check whether the parking space is suitable.
+>
+> If the searched parking space by Remote Smart Parking Assist is narrow or unsuitable for parking, do not select the Parking type and move the vehicle to search for another parking space.
 
 ### 2. Operating mode – Remote Parking, Smart Parking
-`kia_ev6_en_18d5ae30` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/5bdd1a9c7bf0eea3aae69eb1aa852848cb3ee3da8501dbc1502f089df0dda4f6.webp)
 
@@ -14793,7 +13072,6 @@ A: Operation guide 1 REMOTE Parking 2 SMART Parking
 After selecting a parking type, the infotainment system screen will guide you with Remote Smart Parking function and Smart Parking function. Follow the instructions to operate Remote Smart Parking Assist.
 
 ### \* NOTICE
-`kia_ev6_en_069a1951` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Operating instructions will be dis
 played on the screen for each desired function you select.
@@ -14802,7 +13080,6 @@ guide. When the vehicle moves,
 Remote Smart Parking Assist will turn off.
 
 ### \* NOTICE
-`kia_ev6_en_2aa6387e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/4b4795d7860f9bca48124ef2d793462a709aa0e7fa862d7325681725c992a211.webp)
 
@@ -14811,7 +13088,6 @@ A: SMART Parking 1 Take hands off steering wheel. 2 Press and hold PARKING butto
 If Remote Smart Parking Assist cannot activate Remote Smart Parking function, only the Smart Parking guide will be displayed on the infotainment system screen.
 
 ### 4. Smart Parking
-`kia_ev6_en_80f675db` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 ![](images/5151fd072a98ab8cfb6979e0b06e0ff69d2b02304b0dd30506373f1ea835a3d4.webp)
 
@@ -14824,7 +13100,6 @@ stop and function control will pause. The function will start operating again wh
 4. If you need to change the vehicle's position or location, manually com plete parking your vehicle.
 
 ### \* NOTICE
-`kia_ev6_en_33cfa859` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Smart Parking function will not operate if the door is open or the seat belt is not fastened.
 The parking location indicator is displayed on Surround View Monitor
@@ -14834,7 +13109,6 @@ Smart Parking function is operating. However, the vehicle does not accelerate ev
 Depending on parking environments, if the vehicle is stopped by a stopper, parking may be completed.
 
 ### 5. Remote Smart Parking
-`kia_ev6_en_ff13c44a` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 ![](images/e4f91a7080027f0ea8986442d5805e14b738874888cb8d84bd650518b4560b95.webp)
 
@@ -14850,7 +13124,6 @@ A: REMOTE Parking
 5. If you need to change the vehicle's position or location, manually com plete parking your vehicle.
 
 ### \* NOTICE
-`kia_ev6_en_102c51aa` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When operating Remote Smart Parking function, make sure all smart keys are outside of the vehicle.
 Remote Smart Parking function will operate only when the smart key is within 13 ft. (4 m) from the vehicle. If there is no vehicle movement even when the Remote Forward or Backward button is pressed on the smart key, check the distance to the vehicle and press the button again.
@@ -14859,23 +13132,19 @@ The parking location indicator is displayed on Surround View Monitor
 screen and is displayed until the vehicle enters the parking space for the first time by Remote Smart Parking function.
 Depending on parking environments, if the vehicle is stopped by a stopper, parking may be completed.
 
-### WARNING
-`kia_ev6_en_5f87705d` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
-
-When using Remote Smart Parking function, make sure that all passengers have gotten out of the vehicle. After ending or turning off Remote Smart Parking function, before leaving the vehicle, close windows and sunroof, and make sure the vehicle is off before locking the doors.
-
-Smart Parking function
-![](images/0fd11338a8c4bc29a88e448d3a653af1a9e13993701eeb872a59d0b3ce443bc6.webp)
-
-![](images/73d36b20ad7c7173d9d31f0c097ca6083ba68e4b03e8ecae6863e6efa92ccb5c.webp)
+> ⚠️ **Внимание:** 
+> When using Remote Smart Parking function, make sure that all passengers have gotten out of the vehicle. After ending or turning off Remote Smart Parking function, before leaving the vehicle, close windows and sunroof, and make sure the vehicle is off before locking the doors.
+>
+> Smart Parking function
+> ![](images/0fd11338a8c4bc29a88e448d3a653af1a9e13993701eeb872a59d0b3ce443bc6.webp)
+>
+> ![](images/73d36b20ad7c7173d9d31f0c097ca6083ba68e4b03e8ecae6863e6efa92ccb5c.webp)
 
 ### \* NOTICE
-`kia_ev6_en_23f86a99` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Operation status by the hazard warning light may not be applicable based on the regulation of your country. If the smart key is not within the operating range from the vehicle (approximately 13 ft. (4 m)), the smart key LED will not illuminate or blink. Use the smart key within the operating range.
 
 ### How to turn off Parking function while operating
-`kia_ev6_en_5576eb87` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Press the Parking Safety ( ) button or select Cancel on the infotainment system screen to turn off. Press the Parking Safety ( ) button in Searching for parking space and Select parking type stage. Shift the gear to R (Reverse) while searching for parking space, select parking type and Select operating mode stage.
 
@@ -14884,14 +13153,12 @@ engaged.
 While Smart Parking function is operating, press the Remote Start ( ) button on the smart key.
 
 ### \* NOTICE
-`kia_ev6_en_b281c3ea` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Get in the vehicle with the smart key. Remote Smart Parking function will turn off. At this time, the vehicle will remain on.
 
 Parking function operation status
 
 ### The function will pause in the following conditions when:
-`kia_ev6_en_b21cef0f` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 When Parking function is paused, the vehicle will automatically stop. If the con dition that made the function to pause disappears, the function may operate again.
 
@@ -14925,7 +13192,6 @@ Blind-Spot Collision-Avoidance
 Assist or Rear-Cross Traffic Collision Assist operates while the vehicle is being controlled in the reverse direction
 
 ### The function will cancel in the following conditions when:
-`kia_ev6_en_dccc94b9` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Smart Parking
 When Smart Parking function is canceled, the vehicle will automatically stop, shift the gear to P (Park) and engage EPB (Electronic Parking
@@ -14981,7 +13247,6 @@ Vehicle skid occurs
 The wheel is stuck by an obstacle and cannot move
 
 ### Operating order
-`kia_ev6_en_87f391cd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Smart Exit function operates in the following order:
 
@@ -14991,7 +13256,6 @@ Smart Exit function operates in the following order:
 4. Smart Exit
 
 ### 1. Getting ready for exit
-`kia_ev6_en_0fff666e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/8925a72cbe87aa022c200ab8391909eb142fd6bffd702306bd9e248f145cb6bb.webp)
 
@@ -14999,34 +13263,27 @@ Smart Exit function operates in the following order:
 2. Press and hold the Parking/View ( ) button to turn on Remote Smart Parking Assist.
 
 ### \* NOTICE
-`kia_ev6_en_d2fdab35` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Agree must be selected on the infotainment system screen and the infotainment system has to operate properly to use Smart Exit function. Drive below 3 mph (5 km/h) with the vehicle on and shift the gear to N (Neutral), Smart Exit function can be used. If the function is turned on again after parallel parking is completed by Remote Smart Parking Assist, Smart Exit function can be used.
 
 ### ！ WARNING
-`kia_ev6_en_d15279a3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 While checking for space, if there is a risk of collision with pedestrian, animal or object in the direction of vehicle exit, for your safety, Smart Exit function can be turned off. Even if check for space is completed, objects in the blind spot area cannot be detected by the sensors. The driver must directly check the blind spot area to continue using the function.
 
 ### \* NOTICE
-`kia_ev6_en_7305d239` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Due to abnormal performance of the ultrasonic sensor or the influence of the surroundings, Parking function may not be able to search for a parking space even if there is a parking space, or may search for a space that is not suitable for parking.
 
 ### 3. Select exiting direction
-`kia_ev6_en_b3a6d490` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/fd8195e21a6e847d43023026272e5393bfbbf6f6423faf635ae4b992c4667a39.webp)
 
 A: Select exiting direction 1 Direction can only be selected at standstill. 1. With the vehicle stopped by depressing the brake pedal, the infotainment system screen displays the possible directions for parallel exit. 2. Touch the infotainment system screen to select the desired exit direction.
 
-### WARNING
-`kia_ev6_en_a496c5d2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Before selecting the Exit Direction, the driver should check whether the space for exit is suitable. If the searched exit space by Remote Smart Parking Assist is narrow or unsuitable (surrounding vehicles are parked vertically, etc.), do not use the Smart Exit function.
+> ⚠️ **Внимание:** 
+> Before selecting the Exit Direction, the driver should check whether the space for exit is suitable. If the searched exit space by Remote Smart Parking Assist is narrow or unsuitable (surrounding vehicles are parked vertically, etc.), do not use the Smart Exit function.
 
 ### A: SMART Exiting
-`kia_ev6_en_78a24b35` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 1 1. Take hands off steering wheel.
 2 2. Press and hold PARKING button.
@@ -15036,7 +13293,6 @@ Before selecting the Exit Direction, the driver should check whether the space f
 When the brake pedal is released, Remote Smart Parking Assist will automatically control the steering wheel, vehicle speed and gearshift. While Smart Exit function is operating, if you do not hold down the Parking/View button, the vehicle will stop and function control will pause. The function will start operating again when the Parking/View button is pressed and held again. 2. Hold the Parking/View ( ) button until the vehicle reaches the target exit location. When the vehicle reaches the target exit location, a message will appear on the infotainment system screen to inform you that exit is complete. When the vehicle reaches the target exit location, a message will appear on the infotainment system screen to inform you that exit is complete.
 
 ### \* NOTICE
-`kia_ev6_en_15cd0ef1` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Smart Exit function will not operate if the door is open or the seat belt is not fastened.
 Vehicle speed can be adjusted by
@@ -15050,7 +13306,6 @@ operate.
 If there is no vehicle operation such as depressing the brake pedal or accelerator pedal within 4 seconds after exit is complete, the vehicle will automatically shift to P (Park) and engage EPB (Electronic Parking Brake). After Exit function is complete, always check the surroundings before driving.
 
 ### How to turn off Smart function while operating
-`kia_ev6_en_600101fa` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Press the Parking/View ( ) button in the following stage:
 
@@ -15063,7 +13318,6 @@ Checking space Select exit direction
 Press the Parking Safety ( ) button or select Cancel on the infotainment system screen to turn off Exit function. While Smart Exit function is operating, if the vehicle is stopped by depressing the brake pedal, and the gear is shifted, Exiting function will turn off. At this time, EPB (Electronic Parking Brake) will not be engaged.
 
 ### The function will pause in the following conditions when:
-`kia_ev6_en_0ee2a8ac` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 When Exit function is paused, the vehicle will stop. If the condition that made the function to pause disappears, the function may operate again.
 
@@ -15073,7 +13327,6 @@ The Parking/View ( ) button is not continuously pressed
 The vehicle is stopped by depressing the brake pedal
 
 ### The function will cancel in the following conditions when:
-`kia_ev6_en_cfc31640` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 When Smart Exit function is canceled, the vehicle will automatically stop, shift the gear to P (Park) and engage EPB (Electronic Parking Brake).
 
@@ -15101,12 +13354,10 @@ due to slippery road conditions
 The charging door opens
 
 ### A: Check Parking Assist 1 Visit a nearby service center.
-`kia_ev6_en_177441ec` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When Remote Smart Parking Assist is not working properly, the Check Parking Assist warning message will appear on the infotainment system screen. If the message appears, stop using the function, and have the function inspected by an authorized Kia dealer.
 
 ### Remote Smart Parking Assist canceled
-`kia_ev6_en_0f0a6f87` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/703f12c1b63ffa27457de5afd5d43330a984a1f1e0a77b198c4cbf9a5a8e3d8d.webp)
 
@@ -15125,7 +13376,6 @@ A: Parking Assist conditions not met 1 Please refer to owner's manual. When Park
 The message appears even when the smart key's battery is low. Check the smart key battery level.
 
 ### Limitations of Remote Smart Parking Assist
-`kia_ev6_en_24a0534d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In the following circumstances, function performance to park or exit the vehicle may be limited, there may be a risk of collision, or Remote Smart Parking Assist may turn off. Park or exit the vehicle manually if necessary.
 
@@ -15182,7 +13432,6 @@ Snow may interfere with sensor operation, or Remote Smart Parking Assist may can
 Remote Smart Parking Assist may cancel when the vehicle slips, or the vehicle cannot move due to road conditions such as pebbles or fragmented stones.
 
 ### Limitations of Remote Smart Parking Assist
-`kia_ev6_en_9ecce639` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Parking behind a truck
 
@@ -15214,15 +13463,12 @@ For your safety, Remote Smart
 Parking Assist does not search for parking spaces at areas with narrow parking spaces that are narrower than the minimum space
 required for parking.
 
-### WARNING
-`kia_ev6_en_42a57c9e` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
-
-7 The driver is responsible for safe parking and exit when using Remote Smart Parking Assist. When using Remote Smart Parking Assist, stay out of the way in the direction the vehicle moves for your safety. Always check surroundings when using Remote Smart Parking Assist. You may collide with pedestrians, animals, or objects if they are near the sensor or are in the sensor's blind spot area. A collision may occur if a pedestrian, animal, or object suddenly appears while Remote Smart Parking Assist is operating. Do not use Remote Smart Parking Assist when under the influence of alcohol. Do not let children or other people to use the smart key. If Remote Smart Parking Assist is used continuously for a long period, it may adversely affect Remote Smart Parking Assist performance. Remote Smart Parking Assist may not operate normally if the vehicle needs wheel alignment adjustment such as when the vehicle tilts to one side. Have the vehicle inspected by an authorized Kia dealer. Noise may be heard when braking occurs by Remote Smart Parking Assist or when the brake pedal is depressed by the driver. Remote Smart Parking Assist may suddenly apply the brake to avoid collision.
-
-Use Remote Smart Parking Assist only in a parking space that is large enough for the vehicle to move safely.
+> ⚠️ **Внимание:** 
+> 7 The driver is responsible for safe parking and exit when using Remote Smart Parking Assist. When using Remote Smart Parking Assist, stay out of the way in the direction the vehicle moves for your safety. Always check surroundings when using Remote Smart Parking Assist. You may collide with pedestrians, animals, or objects if they are near the sensor or are in the sensor's blind spot area. A collision may occur if a pedestrian, animal, or object suddenly appears while Remote Smart Parking Assist is operating. Do not use Remote Smart Parking Assist when under the influence of alcohol. Do not let children or other people to use the smart key. If Remote Smart Parking Assist is used continuously for a long period, it may adversely affect Remote Smart Parking Assist performance. Remote Smart Parking Assist may not operate normally if the vehicle needs wheel alignment adjustment such as when the vehicle tilts to one side. Have the vehicle inspected by an authorized Kia dealer. Noise may be heard when braking occurs by Remote Smart Parking Assist or when the brake pedal is depressed by the driver. Remote Smart Parking Assist may suddenly apply the brake to avoid collision.
+>
+> Use Remote Smart Parking Assist only in a parking space that is large enough for the vehicle to move safely.
 
 ### \* NOTICE
-`kia_ev6_en_2c537455` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the 3rd stage warning (continuous beep) of the Forward/Reverse Parking Distance Warning sounds while
 Remote Smart Parking Assist is operating, it means the obstacle detected is close to your vehicle. At this time, Remote Smart Parking Assist will temporarily stop operating. Make sure there are no pedestrians, animals, or objects around your vehicle.
@@ -15231,7 +13477,6 @@ If the vehicle is remotely started that has been parked in cold weather for a lo
 delayed or canceled depending on vehicle condition.
 
 ### Declaration of conformity (if equipped)
-`kia_ev6_en_de0dd3e7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The radio frequency components (Front Radar) complies:
 
@@ -15250,14 +13495,12 @@ interferencereceived,including
 interference that may cause undesired operation
 
 ### CAUTIONTO USERS
-`kia_ev6_en_b57de008` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Changes or modifications not expressly approved bythe partyresponsible for compliance could voic the user's authority tooperate theequipment.
 
 OCV051266N
 
 ### For Canada
-`kia_ev6_en_53b2a3c4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Model: MRR-30
 IC:11988A-MRR30
@@ -15286,7 +13529,6 @@ compromettre
 lefonctionnement.
 
 ### The radio frequency components (Front Corner Radar/Rear Corner Radar) complies: (if equipped)
-`kia_ev6_en_001cd6ce` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For United States and United States territories
 
@@ -15302,14 +13544,12 @@ interference received, including
 interference thatmay cause undesired operatior
 
 ### CAUTION TO USERS
-`kia_ev6_en_73fd0814` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Changesor modifications not expressly approved bythe partyresponsible for compliance could void the user's authority tooperate theequipment,
 
 OCV051264N
 
 ### For Mexico
-`kia_ev6_en_5588a71b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 IFETEL:RCPMAMR20-0338
 
@@ -15318,7 +13558,6 @@ operacion de este equipo esta sujeta alas siguientes dos condiciones （1） es 
 OGL3051254L
 
 ### For Canada
-`kia_ev6_en_2e2992a4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Model: H5TR
 
@@ -15353,12 +13592,10 @@ compromettre
 lefonctionnement
 
 ### Special driving conditions
-`kia_ev6_en_754403cf` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If driving conditions deteriorate due to poor weather or road conditions, you should pay even more attention than usual to your driving.
 
 ### Hazardous driving conditions
-`kia_ev6_en_44bf14b4` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 When hazardous driving conditions are encountered such as water, snow, ice, mud, sand, or similar hazards, follow these suggestions:
 
@@ -15374,7 +13611,6 @@ IFETEL:RCPAPH519-1602 "La operacion de esteequipo estasujeta a lassiguientes dos
 OGL3051265L
 
 ### Reducing the risk of a rollover
-`kia_ev6_en_62dddf28` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This multi-purpose passenger vehicle is defined as a Sports Utility Vehicle (SUV). Utility vehicles have a significantly higher rollover rate than other types of vehicles. SUV's have higher ground clearance and a narrower track to make them capable of performing in a wide variety of offroad applications.
 
@@ -15387,7 +13623,6 @@ In a rollover crash, an unbelted person is significantly more likely to die than
 If at all possible, avoid sharp turns or abrupt maneuvers, do not load your roof rack with heavy cargo, and never modify your vehicle in any way.
 
 ### Rollover
-`kia_ev6_en_75789e3d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 As with other Sports Utility Vehicle (SUV), failure to operate this vehicle correctly may result in loss of control, an accident or vehicle rollover.
 
@@ -15398,37 +13633,30 @@ vehicles.
 Avoid sharp turns or abrupt maneu vers.
 In a rollover crash, an unbelted person is significantly more likely to die than a person wearing a seat belt. Make sure everyone in the vehicle is prop erly buckled up.
 
-### WARNING
-`kia_ev6_en_d1577730` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Your vehicle is equipped with tires designed to provide safe riding and handling capability. Do not use a size and type of tire and wheel that is different from the one that is originally installed on your vehicle. It can affect the safety and performance of your vehicle, which could lead to steering failure or rollover and serious injury. When replacing the tires, be sure to equip all four tires with the tire and wheel of the same size, type, tread, brand and load-carrying capacity. If you nevertheless decide to equip your vehicle with any tire/wheel combination not recommended by Kia for off road driving, you should not use these tires for highway driving.
+> ⚠️ **Внимание:** 
+> Your vehicle is equipped with tires designed to provide safe riding and handling capability. Do not use a size and type of tire and wheel that is different from the one that is originally installed on your vehicle. It can affect the safety and performance of your vehicle, which could lead to steering failure or rollover and serious injury. When replacing the tires, be sure to equip all four tires with the tire and wheel of the same size, type, tread, brand and load-carrying capacity. If you nevertheless decide to equip your vehicle with any tire/wheel combination not recommended by Kia for off road driving, you should not use these tires for highway driving.
 
 ### Rocking the vehicle
-`kia_ev6_en_49e10667` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If it is necessary to rock the vehicle to free it from snow, sand, or mud, first turn the steering wheel right and left to clear the area around your front wheels. Then, shift back and forth between R (Reverse) and any forward gear.
 
 Do not race the vehicle, and spin the wheels as little as possible. If you are still stuck after a few tries, have the vehicle pulled out by a tow vehicle to avoid vehicle overheating and possible damage to the reduction gear.
 
 ### Sudden Vehicle Movement
-`kia_ev6_en_1484cc39` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not attempt to rock the vehicle if people or objects are nearby. The vehicle may suddenly move forward or backwards as it becomes unstuck.
 
 ### Spinning Tires
-`kia_ev6_en_92f98533` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not spin the wheels, especially at speeds more than 35 mph (56 km/h). Spinning the wheels at high speeds when the vehicle is stationary could cause tires to overheat, which could result in tire damage that may injure bystanders.
 
 The ESC system should be turned OFF prior to rocking the vehicle.
 
 ### Smooth cornering
-`kia_ev6_en_e4c13ccf` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Avoid braking or gear changing in corners, especially when roads are wet. Ideally, corners should always be taken under gentle acceleration. If you follow these suggestions, tire wear will be held to a minimum.
 
 ### Driving at night
-`kia_ev6_en_3195d5cc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Because night driving presents more hazards than driving in the daylight, here are some important tips to remem ber:
 
@@ -15437,7 +13665,6 @@ Slow down and keep more distance between you and other vehicles, as it may be mo
 Avoid staring directly at the headlights of oncoming vehicles. You could be temporarily blinded, and it will take several seconds for your eyes to readjust to the darkness.
 
 ### Driving in the rain
-`kia_ev6_en_91caff3a` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Rain and wet roads can make driving dangerous, especially if you're not prepared for the slick pavement.
 
@@ -15453,19 +13680,16 @@ If you believe you may have gotten your brakes wet, apply them lightly while dri
 operation returns.
 
 ### Driving in flooded areas
-`kia_ev6_en_0f901f33` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Avoid driving through flooded areas unless you are sure the water is no higher than the bottom of the wheel hub. Drive through any water slowly. Allow adequate stopping distance because brake performance may be affected.
 
 After driving through water, dry the brakes by gently applying them several times while the vehicle is moving slowly. If the brake system is wet and has reduced braking effect or frequent sounds when braking, adjust the setting for the regenerative braking to '0' speed with paddle shifter and apply the brake pedal lightly several times. Maintain a safe distance to dry the brake system. Setting the regenerative braking to '0' may reduce efficiency while braking several times for brake performance, but this is normal. The regenerative braking system will be normally operated afterwards.
 
 ### Driving off-road
-`kia_ev6_en_974650bc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Drive carefully off-road because your vehicle may be damaged by rocks or roots of trees. Become familiar with the off-road conditions where you are going to drive before you begin driving.
 
 ### Tires
-`kia_ev6_en_b08a8af3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Adjust the tire inflation pressures to specification. Low tire inflation pressures will result in overheating and possible failure of the tires.
 
@@ -15474,24 +13698,20 @@ Avoid using worn or damaged tires which may result in reduced traction or tire f
 Never exceed the maximum tire inflation pressure shown on the tires.
 
 ### Under/Overinflated Tires
-`kia_ev6_en_8d3e8739` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Always check the tires for proper inflation before driving. Underinflated or overinflated tires can cause poor handling, loss of vehicle control, and sudden tire failure leading to accidents, injuries, and even death. For proper tire pressures, refer to "Tires and wheels" on page 9-4.
 
 ### Tire Tread
-`kia_ev6_en_fd97d9c0` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Always check the tire tread before driving your vehicle. Worn-out tires can result in loss of vehicle control. Worn-out tires should be replaced as soon as pos sible. For further information and tread limits, refer to "Tires and wheels" on page 8-19.
 
 ### Winter driving
-`kia_ev6_en_7754eda4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Severe weather conditions in the winter result in greater wear and other problems.
 
 To minimize the problems of winter driving, you should follow these suggestions:
 
 ### Snowy or icy conditions
-`kia_ev6_en_e58542a7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To drive your vehicle in deep snow, it may be necessary to use snow tires or to install tire chains on your tires.
 
@@ -15500,19 +13720,16 @@ If snow tires are needed, it is necessary to select tires equivalent in size and
 Tire chains are not legal in all states. Check state laws before fitting tire chains.
 
 ### Snow tires
-`kia_ev6_en_9f5ffc67` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you mount snow tires on your vehicle, make sure they are radial tires of the same size and load range as the original tires. Mount snow tires on all four wheels to balance your vehicle's handling in all weather conditions. Keep in mind that the traction provided by snow tires on dry roads may not be as high as your vehicle's original equipment tires. You should drive cautiously even when the roads are clear. Check with the tire dealer for maximum speed recommen dations.
 
 Do not install studded tires without first checking local, state and municipal regulations for possible restrictions against their use.
 
 ### Snow Tire Size
-`kia_ev6_en_a0617aab` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Snow tires should be equivalent in size and type to the vehicle's standard tires. Otherwise, the safety and handling of your vehicle may be adversely affected.
 
 ### Tire chains
-`kia_ev6_en_d877b200` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When using tire chains, install tire chains only on the rear tires.
 
@@ -15525,7 +13742,6 @@ Install tire chains only on the rear tires.
 Always check chain installation for proper mounting after driving approximately 0.3\~0.6 miles (0.5\~1 km) to ensure safe mounting. Retighten or remount the chains if they are loose.
 
 ### Chain installation
-`kia_ev6_en_821f1961` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 When installing chains, follow the manufacturer's instructions and mount them as tightly as possible. Make sure the snow chains are SAE class "S" certified. Drive slowly (less than 20 mph (30 km/ h)) with chains installed. If you hear the chains contacting the body or chassis, stop and tighten them. If they still make contact, slow down until it stops. Remove the chains as soon as you begin driving on cleared roads.
 
@@ -15541,7 +13757,6 @@ holes, sharp turns, and other road hazards, which may cause the vehicle to bounc
 Avoid sharp turns or locked-whee braking.
 
 ### Snow Chains
-`kia_ev6_en_e2f124a4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Chains that are the wrong size or
 improperly installed can damage your vehicle's brake lines, suspension,
@@ -15549,84 +13764,69 @@ body and wheels.
 Stop driving and retighten the chains any time you hear them hitting the vehicle.
 
 ### Use high quality ethylene glycol coolant
-`kia_ev6_en_1c981f15` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Your vehicle is delivered with high quality ethylene glycol coolant in the cooling system. It is the only type of coolant that should be used because it helps prevent corrosion in the cooling system, lubricates the water pump and prevents freezing. Be sure to replace or replenish your coolant refer to "Scheduled maintenance service" on page 8-7. Before winter, have your coolant tested to assure that its freezing point is sufficient for the temperatures anticipated during the winter.
 
 ### Check 12V battery and cables
-`kia_ev6_en_155d3f6a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Winter puts additional burdens on the battery system. Visually inspect the 12V battery and cables (refer to "12V battery" on page 8-17). The level of charge in your battery can be checked by an authorized Kia dealer or a service station.
 
 ### To keep locks from freezing
-`kia_ev6_en_d88d2c03` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To keep the locks from freezing, squirt an approved de-icer fluid or glycerine into the key opening. If a lock is covered with ice, squirt it with an approved deicing fluid to remove the ice. If the lock is frozen internally, you may be able to thaw it out by using a heated key. Handle the heated key with care to avoid injury.
 
 ### Use approved window washer anti-freeze in system
-`kia_ev6_en_24504f07` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To keep the water in the window washer system from freezing, add an approved window washer anti-freeze solution in accordance with instructions on the container. Window washer anti-freeze is available from an authorized Kia dealer and most auto parts outlets. Do not use vehicle coolant or other types of antifreeze as these may damage the paint finish.
 
 ### Don't let your parking brake freeze
-`kia_ev6_en_2cf7528a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Under some conditions your parking brake can freeze in the engaged position. This is most likely to happen when there is an accumulation of snow or ice around or near the rear brakes or if the brakes are wet. If there is a risk the parking brake may freeze, apply it only temporarily while you put the gear shifter dial in P (Park) and block the rear wheels so the vehicle cannot roll. Then release the parking brake.
 
 ### Don't let ice and snow accumu late underneath
-`kia_ev6_en_e90a94b4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Under some conditions, snow and ice can build up under the fenders and interfere with the steering. When driving in severe winter conditions where this may happen, you should periodically check underneath the vehicle to be sure the movement of the front wheels and the steering components are not obstructed.
 
 ### Carry emergency equipment
-`kia_ev6_en_6edfdaad` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Depending on the severity of the weather, you should carry appropriate emergency equipment. Some of the items you may want to carry include tow straps or chains, flashlight, emergency flares, sand, shovel, jumper cables, win dow scraper, gloves, ground cloth, cov eralls, blanket, etc.
 
 ### Trailer towing (if equipped)
-`kia_ev6_en_46866852` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you are considering towing with your vehicle, you should first check with your country's Department of Motor Vehicles to determine their legal requirements. Since laws vary the requirements for towing trailers, cars, or other types of vehicles or apparatus may differ. Kia recommends to ask an authorized Kia dealer.
 
 ### Towing a Trailer
-`kia_ev6_en_ca98da0f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you don't use the correct equipment and drive improperly, you can lose control when you pull a trailer. For example, if the trailer is too heavy, the brakes may not work well - or even at all. You and your passengers could be seriously or fatally injured. Pull a trailer only if you have followed all the steps in this section.
 
 ### Weight Limits
-`kia_ev6_en_4f4aa2ee` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Before towing, make sure the total trailer weight, gross combination weight, gross vehicle weight, gross axle weight and trailer tongue load are all within the limits.
 
 ### ！ CAUTION
-`kia_ev6_en_57f7939b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Any part of the rear number plate or lighting devices of the vehicle must not be obscured by the mechanical coupling device. If the rear number plate and/or lighting devices can be obscured partially by any part of the mechanical cou pling device, mechanical coupling devices that can not be easily removed or repositioned without use of any tool, except an easily operated (i.e. an effort not exceeding 20 N·m) release key which is supplied by the manufacturer of the coupling device, are not permitted for use. Please note that the mechanical coupling device that is fitted and not in use must always be removed or repositioned if the rear number plate and/or rear lighting devices are obscured by any part of the mechanical coupling device.
 
 ### \* NOTICE
-`kia_ev6_en_863b06e2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The technically permissible maximum load on the rear axle(s) may be exceeded by not more than 15% and the technically permissible maximum laden mass of the vehicle may be exceeded by not more than 10% or 220.4 lbs (100 kg), whichever value is lower. In this case, do not exceed 60 mph (100 km/h) for vehicle of category M1 or 50 mph (80 km/h) for vehicle of category N1.
 
 When towing a trailer, the additional load imposed at the trailer coupling device may cause the rear tire maximum load ratings to be exceeded, but not by more than 15%. In such a case, do not exceed 60 miles (100 km/h), and the rear tire pressure should be at least 0.2 bar (20 kPa) above the tire pressure(s) as recommended for normal use (i.e. without a trailer attached).
 
-### CAUTION
-`kia_ev6_en_acd0d7ae` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Pulling a trailer improperly can damage your vehicle and result in costly repairs not covered by your warranty. To pull a trailer correctly, follow the advice in this section.
-
-Your vehicle can tow a trailer. To identify what the vehicle trailering capacity is for your vehicle, refer to "Weight of the trailer" on page 6-201 that appears later in this section.
-
-Remember that trailering is different than just driving your vehicle by itself. Trailering means changes in handling, durability, and electric energy economy. Successful, safe trailering requires cor rect equipment, and it has to be used properly.
-
-This section contains many time-tested, important trailering tips and safety rules. Many of these are important for your safety and that of your passengers. Please read this section carefully before you pull a trailer.
-
-Load-pulling components such as the motor, reduction gear, wheel assemblies, and tires are forced to work harder against the load of the added weight. The motor is required to operate at relatively higher speeds and under greater loads. This additional burden generates extra heat. The trailer also considerably adds wind resistance, increasing pulling requirements.
-
-![](images/f9be3103adf7921d473fb38e90eae356d0340d17b3682b2c0da6cd7a57712ab4.webp)
+> ⚠️ **Внимание:** 
+> Pulling a trailer improperly can damage your vehicle and result in costly repairs not covered by your warranty. To pull a trailer correctly, follow the advice in this section.
+>
+> Your vehicle can tow a trailer. To identify what the vehicle trailering capacity is for your vehicle, refer to "Weight of the trailer" on page 6-201 that appears later in this section.
+>
+> Remember that trailering is different than just driving your vehicle by itself. Trailering means changes in handling, durability, and electric energy economy. Successful, safe trailering requires cor rect equipment, and it has to be used properly.
+>
+> This section contains many time-tested, important trailering tips and safety rules. Many of these are important for your safety and that of your passengers. Please read this section carefully before you pull a trailer.
+>
+> Load-pulling components such as the motor, reduction gear, wheel assemblies, and tires are forced to work harder against the load of the added weight. The motor is required to operate at relatively higher speeds and under greater loads. This additional burden generates extra heat. The trailer also considerably adds wind resistance, increasing pulling requirements.
+>
+> ![](images/f9be3103adf7921d473fb38e90eae356d0340d17b3682b2c0da6cd7a57712ab4.webp)
 
 ### Hitches
-`kia_ev6_en_5af812e7` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 It's important to have the correct hitch equipment. Crosswinds, large trucks going by, and rough roads are a few reasons why you'll need the right hitch. Here are some rules to follow:
 
@@ -15644,53 +13844,44 @@ Please note that the mechanical cou
 pling device that is fitted and not in use must always be removed or repo sitioned if the rear number plate and/ or rear lighting devices are obscured by any part of the mechanical coupling device. Kia trailer hitch accessory is available at an authorized Kia dealer.
 
 ### Safety chains
-`kia_ev6_en_634bd017` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You should always attach chains between your vehicle and your trailer. Cross the safety chains under the tongue of the trailer so that the tongue will not drop to the road if it becomes separated from the hitch.
 
 Instructions about safety chains may be provided by the hitch manufacturer or by the trailer manufacturer. Follow the manufacturer's recommendation for attaching safety chains. Always leave just enough slack so you can turn with your trailer. And, never allow safety chains drag on the ground.
 
 ### Trailer brakes
-`kia_ev6_en_9e2c0c29` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If your trailer is equipped with a braking system, make sure it conforms to your country's regulations and that it is prop erly installed and operating correctly. If your trailer weighs more than the maximum trailer weight without trailer brakes loaded, then it needs its own brakes and they must be adequate. Be sure to read and follow the instructions for the trailer brakes so you'll be able to install, adjust and maintain them properly.
 
 Don't tap into your vehicle's brake system.
 
 ### Trailer Brakes
-`kia_ev6_en_f59f0de9` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Do not use a trailer with its own brakes unless you are absolutely certain that you have properly set up the brake system. This is not a task for amateurs. Use an experienced, competent trailer shop for this work.
 
 ### Driving with a trailer
-`kia_ev6_en_4047f685` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Towing a trailer requires a certain amount of experience. Before setting out for the open road, you must get to know your trailer. Acquaint yourself with the feel of handling and braking with the added weight of the trailer. And always keep in mind that the vehicle you are driving is now a good deal longer and not nearly so responsive as your vehicle is by itself.
 
 Before you start, check the trailer hitch and platform, safety chains, electrical connector(s), lights, tires and mirror adjustment. If the trailer has electric brakes, start your vehicle and trailer moving and then apply the trailer brake controller by hand to be sure the brakes are working. This lets you check your electrical connection at the same time. During your trip, check occasionally to be sure that the load is secure, and that the lights and trailer brakes are still working.
 
 ### Following distance
-`kia_ev6_en_e9f8015b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Stay at least twice as far behind the vehicle ahead as you would when driving your vehicle without a trailer. This can help you avoid situations that require heavy braking and sudden turns.
 
 ### Passing
-`kia_ev6_en_825a38c9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You'll need more passing distance up ahead when you're towing a trailer. And, because of the increased vehicle length, you'll need to go much farther beyond the passed vehicle before you can return to your lane.
 
 ### Backing up
-`kia_ev6_en_3d6303f6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Hold the bottom of the steering wheel with one hand. Then, to move the trailer to the left, just move your hand to the left. To move the trailer to the right, move your hand to the right. Always back up slowly and, if possible, have someone guide you.
 
 ### Making turns
-`kia_ev6_en_7e377b7e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When you're turning with a trailer, make wider turns than normal. Do this so your trailer won't strike soft shoulders, curbs, road signs, trees, or other objects. Avoid jerky or sudden maneuvers. Signal well in advance.
 
 ### Turn signals when towing a trailer
-`kia_ev6_en_5635dc89` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When you tow a trailer, your vehicle has to have a different turn signal flasher and extra wiring. The green arrows on your instrument panel will flash whenever you signal a turn or lane change. Properly connected, the trailer lights will also flash to alert other drivers you're about to turn, change lanes, or stop. When towing a trailer, the green arrows on your instrument panel will flash for turns even if the bulbs on the trailer are burned out. Thus, you may think drivers behind you are seeing your signals when, in fact, they are not. It's important to check occasionally to be sure the trailer bulbs are still working. You must also check the lights every time you disconnect and then reconnect the wires. Do not connect a trailer lighting system directly to your vehicle's lighting system. Use only an approved trailer wiring harness.
 
@@ -15698,30 +13889,23 @@ Have yourself assisted by a professional workshop in installing the wiring harne
 
 Kia recommends to visit an authorized Kia dealer.
 
-### WARNING
-`kia_ev6_en_ca4d919b` | ev6 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
-
-Failure to use an approved trailer wiring harness could result in damage to the vehicle electrical system and/or personal injury.
+> ⚠️ **Внимание:** 
+> Failure to use an approved trailer wiring harness could result in damage to the vehicle electrical system and/or personal injury.
 
 ### Driving on grades
-`kia_ev6_en_1ca4e440` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Reduce the speed and shift to a lower gear before you start down a long or steep downgrade. If you don't shift down, you might have to use your brakes so much that they would get hot and no longer operate efficiently. On a long uphill grade, shift down and reduce your speed to around 45 mph (70 km/h) to reduce the possibility of motor and reduction gear overheating.
 
-### CAUTION
-`kia_ev6_en_be3fa745` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-To prevent motor overheating: If you tow a trailer with the maximum gross vehicle weight and maximum trailer weight, it can cause the motor to overheat. When driving in such conditions, stop the vehicle until it cools down. You may proceed once the motor has cooled sufficiently. When towing a trailer, your vehicle speed may be much slower than the general flow of traffic, especially when climbing an uphill grade. Use the outer lane when towing a trailer on an uphill grade. Choose your vehicle speed according to the maximum posted speed limit for vehicles with trailers, the steepness of the grade, and your trailer weight.
-
-You must decide the driving speed depending on trailer weight and uphill grade to reduce the possibility of motor and reduction gear overheating.
+> ⚠️ **Внимание:** 
+> To prevent motor overheating: If you tow a trailer with the maximum gross vehicle weight and maximum trailer weight, it can cause the motor to overheat. When driving in such conditions, stop the vehicle until it cools down. You may proceed once the motor has cooled sufficiently. When towing a trailer, your vehicle speed may be much slower than the general flow of traffic, especially when climbing an uphill grade. Use the outer lane when towing a trailer on an uphill grade. Choose your vehicle speed according to the maximum posted speed limit for vehicles with trailers, the steepness of the grade, and your trailer weight.
+>
+> You must decide the driving speed depending on trailer weight and uphill grade to reduce the possibility of motor and reduction gear overheating.
 
 ### Parking on hills
-`kia_ev6_en_653e59ab` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Generally, if you have a trailer attached to your vehicle, you should not park your vehicle on a hill. People can be seriously or fatally injured, and both your vehicle and the trailer can be damaged if unexpectedly roll down hill.
 
 ### Parking on a Hill
-`kia_ev6_en_a9b4dd29` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 Parking your vehicle on a hill with a trailer attached could cause serious injury or death, should the trailer break loose.
 
@@ -15735,14 +13919,12 @@ However, if you ever have to park your trailer on a hill, here's how to do it:
 6. Shut off the vehicle and release the vehicle brakes but leave the parking brake set.
 
 ### Parking Brake
-`kia_ev6_en_70c00fa4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 It can be dangerous to get out of your vehicle if the parking brake is not firmly set.
 
 If you have left the vehicle running, the vehicle can move suddenly. You or others could be seriously or fatally injured.
 
 ### When you are ready to leave after parking on a hill
-`kia_ev6_en_012d3fac` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Apply your brakes and hold the brake pedal down while you:
 
@@ -15753,19 +13935,16 @@ Start your vehicle; Shift into gear; and Release the parking brake.
 4. Stop and have someone pick up and store the chocks.
 
 ### Maintenance when trailer towing
-`kia_ev6_en_80ca15f3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Your vehicle will need service more often when you regularly pull a trailer. Important items to pay particular attention to include reduction gear fluid, axle lubricant and cooling system fluid. Brake condition is another important item to frequently check. Each item is covered in this manual, and the Index will help you find them quickly. I you're trailering, it's a good idea to review these sections before you start your trip.
 
 Don't forget to also maintain your trailer and hitch. Follow the maintenance schedule that accompanied your trailer and check i periodically. Preferably, conduct the check at the start of each day's driving. Most importantly, all hitch nuts and bolts should be tight.
 
 ### ！ CAUTION
-`kia_ev6_en_657f4c5f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Due to higher load during trailer usage, overheating might occur in hot days or during uphill driving. If the coolant gauge indicates overheating, switch off the A/C and stop the vehicle in a safe area to cool down the motor. When towing, check the reduction gear fluid more frequently. If your vehicle is not equipped with an air conditioner, you should install a condenser fan to improve motor performance when towing a trailer.
 
 ### If you do decide to pull a trailer
-`kia_ev6_en_8b30fe3b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Here are some important points if you decide to pull a trailer:
 
@@ -15780,7 +13959,6 @@ On a long uphill grade, do not exceed 45 mph (70 km/h) or the posted towing spee
 The driving range of electric vehicle is affected by the weight and the shape of the trailer. Depending on the trailer, the driving range can decrease up to 50%.
 
 ### Weight of the trailer
-`kia_ev6_en_1c4b1b7a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0e2906ed7b0ad4ca3bae93dfabd02511a7ce641aeb3f5b066735e02953f0e626.webp)
 
@@ -15789,7 +13967,6 @@ A: Tongue Load B: Total Trailer Weight
 What is the maximum safe weight of a trailer? It should never weigh more than the maximum trailer weight with trailer brakes. But even that can be too heavy. It depends on how you plan to use your trailer. For example, speed, altitude, road grades, outside temperature and how often your vehicle is used to pull a trailer are all important. The ideal trailer weight can also depend on any special equip ment that you have on your vehicle.
 
 ### Weight of the trailer tongue
-`kia_ev6_en_52bd10aa` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/0b63b3329a8e83260aebea0192a21c282cc1824877db85facd1e0a2d21357605.webp)
 
@@ -15807,24 +13984,20 @@ The trailer tongue should weigh a maximum of 10% of the total loaded trailer wei
 After you've loaded your trailer, weigh the trailer and then the tongue, separately, to see if the weights are proper. If they aren't, you may be able to correct them simply by moving some items around in the trailer.
 
 ### Trailer
-`kia_ev6_en_a10724f7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never load a trailer with more weight in the rear than in the front. The front should be loaded with approximately 60% of the total trailer load; the rear should be loaded with approximately 40% of the total trailer load. Never exceed the maximum weight limits of the trailer or trailer towing equipment. Improper loading can result in damage to your vehicle and/ or personal injury. Check weights and loading at a commercial scale or highway patrol office equipped with scales. An improperly loaded trailer can cause loss of vehicle control.
 
 ### Tire and loading information label
-`kia_ev6_en_bfdf9feb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The label located on the driver's door sill gives the original tire size, cold tire pressures recommended for your vehicle, the number of people that can be in your vehicle and vehicle capacity weight.
 
 ![](images/af9e0d094042b6797d2240a49d2eaf3e07cb5c650755dde05a635a12f5c788a6.webp)
 
 ### Vehicle capacity weight:
-`kia_ev6_en_af6859a9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Standard type: 826 lbs. (375 kg) Extended type: 826 lbs. (375 kg) Vehicle capacity weight is the maximum combined weight of occupants and cargo. If your vehicle is equipped with a trailer, the combined weight includes the tongue load.
 
 ### Seating capacity:
-`kia_ev6_en_72dc118f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Total: 5 persons (Front seat: 2 persons, Rear seat: 3 persons)
 Seating capacity is the maximum number of occupants including a driver, your vehicle may carry.
@@ -15833,7 +14006,6 @@ Do not overload the vehicle as there is a limit to the total weight, or load lim
 including occupants and cargo, the vehicle can carry.
 
 ### Towing capacity:
-`kia_ev6_en_74b8053a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Standard type: N/A
 Extended type With brake system: 2,300 lbs. (1,043 kg) Without brake system: 1,653 lbs. (750 kg)
@@ -15841,12 +14013,10 @@ Extended type With brake system: 2,300 lbs. (1,043 kg) Without brake system: 1,6
 Towing capacity is the maximum trailer weight including its cargo weight, your vehicle can tow.
 
 ### Cargo capacity:
-`kia_ev6_en_5d06961c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The cargo capacity of your vehicle will increase or decrease depending on the weight and the number of occupants.
 
 ### Steps for Determining Correct Load Limit
-`kia_ev6_en_25b98354` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 (1) Locate the statement "The combined weight of occupants and cargo should never exceed XXX kg or XXX lbs.' on your vehicle's placard.
 
@@ -15861,7 +14031,6 @@ The cargo capacity of your vehicle will increase or decrease depending on the we
 (6) If your vehicle will be towing a trailer, load from your trailer will be transferred to your vehicle. Consult this manual to determine how this reduces the available cargo and luggage load capacity of your vehicle.
 
 ### Loose Cargo
-`kia_ev6_en_2dc3efec` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not travel with unsecured objects in the passenger compartment of your vehicle (e.g. suit cases or unsecured child seats). These items may strike an occupant during a sudden stop or crash.
 
@@ -15879,7 +14048,6 @@ Example
 Refer to your vehicle's tire and loading information label for specific information about your vehicle's capacity weight and seating positions. The combined weight of the driver, passengers and cargo should never exceed your vehicle's capacity weight.
 
 ### Certification label
-`kia_ev6_en_b14c28eb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The certification label is located on the driver's door sill at the center pillar.
 
@@ -15890,7 +14058,6 @@ This label shows the maximum allowable weight of the fully loaded vehicle. This 
 To find out the actual loads on your front and rear axles, you need to go to a weigh station and weigh your vehicle. Your dealer can help you with this. Be sure to spread out your load equally on both sides of the centerline.
 
 ### Over Loading
-`kia_ev6_en_e95b701c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never exceed the GVWR for your vehicle, the GAWR for either the front or rear axle and vehicle capacity weight. Exceeding these ratings can affect your vehicle's handling and braking ability.
 
@@ -15899,17 +14066,14 @@ The label will help you decide how much cargo and installed equipment your vehic
 If you carry items inside your vehicle like suitcases, tools, packages, or anything else they are moving as fast as the vehicle. If you have to stop or turn quickly, or if there is a crash, the items will keep going and can cause an injury if they strike the driver or a passenger.
 
 ### Over Loading
-`kia_ev6_en_11b2e248` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not overload your vehicle. Overloading your vehicle can cause heat buildup in your vehicle's tires and possible tire failure, increased stopping distances and poor vehicle handling--all of which may result in a crash.
 
 ### \* NOTICE
-`kia_ev6_en_821a18df` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Overloading your vehicle may cause damage. Repairs would not be covered by your warranty. Do not overload your vehicle.
 
 ### Vehicle weight
-`kia_ev6_en_11ef15d2` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 This chapter will guide you in the proper loading of your vehicle and/or trailer, to keep your loaded vehicle weight within its design rating capability, with or without a trailer.
 
@@ -15930,21 +14094,18 @@ GVW (Gross vehicle weight) This is the Base Curb Weight plus actual Cargo Weight
 GVWR (Gross vehicle weight rating) This is the maximum allowable weight of the fully loaded vehicle (including all options, equipment, passengers and cargo). The GVWR is shown on the certification label located on the driver's door sill.
 
 ### In case of an emergency while driving 7-2
-`kia_ev6_en_0f965ea3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 僅 If the vehicle stalls while driving. ..··· \*\*\*\*\*\*\*\* .7-2
 僅 If the vehicle stalls at a crossroad or crossing   .7-2
 I you have a flat tire while driving 皖 \*\*\*\*… 7-2
 
 ### Tire Pressure Monitoring System (TPMS) 7-6
-`kia_ev6_en_701d5186` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Effective Use of the Tire Pressure Monitoring System (TPMS) ... 7-6
 Low tire pressure telltale .7-7
 Tire replacement with TPMS  7-9
 
 ### If you have a flat tire (with Tire Mobility Kit) m 7-10
-`kia_ev6_en_e4286c0d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Components of the Tire Mobility Kit  电  7-13
 Using the Tire Mobility Kit   7-14
@@ -15953,12 +14114,10 @@ Checking the tire inflation pressure  .··· 7-16
 Technica data   ·\*\*\*\*\*\*.· .7-17
 
 ### What to do in an emergency Road warning
-`kia_ev6_en_10d6dd98` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When an emergency situation occurs while driving or when you park by the edge of the roadway, you must alert approaching or passing vehicles to be careful as they pass. For this, you should use the hazard warning flasher.
 
 ### Hazard warning flasher
-`kia_ev6_en_465b0adc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The hazard warning flasher serves as a warning to other drivers to exercise extreme caution when approaching, overtaking, or passing your vehicle.
 
@@ -15972,12 +14131,10 @@ The hazard warning flasher operates whether your vehicle is running or not. The 
 Care must be taken when using the hazard warning flasher while the vehicle is being towed.
 
 ### In case of an emergency while driving
-`kia_ev6_en_ce532377` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The hazard warning flasher serves as a warning to other drivers to exercise extreme caution when approaching, overtaking, or passing your vehicle.
 
 ### If the vehicle stalls while driving
-`kia_ev6_en_edd1a84a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Reduce your speed gradually, keeping a straight line.
 2. Move cautiously off the road to a safe place.
@@ -15985,35 +14142,27 @@ The hazard warning flasher serves as a warning to other drivers to exercise extr
 4. Try to start the vehicle again. If your vehicle will not start, contact an authorized Kia dealer or seek other qualified assistance.
 
 ### If you have a flat tire while driving
-`kia_ev6_en_b1d9d7fe` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Take your foot off the accelerator pedal and let the vehicle slow down while driving straight ahead.
 
-### WARNING
-`kia_ev6_en_9d48461c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> Do not apply the brakes immediately to slow down the vehicle.
+>
+> Use the paddle shifter (left side lever) to increase regenerative braking con trol.
 
-Do not apply the brakes immediately to slow down the vehicle.
+> ⚠️ **Внимание:** 
+> Do not attempt to pull off the road as this may cause loss of vehicle control resulting in an accident.
+>
+> When the vehicle has slowed to such a speed that it is safe to do so, brake carefully and pull off the road. Drive off the road as far as is possible and safe and park on firm, level ground.
 
-Use the paddle shifter (left side lever) to increase regenerative braking con trol.
-
-### WARNING
-`kia_ev6_en_9fe338b2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Do not attempt to pull off the road as this may cause loss of vehicle control resulting in an accident.
-
-When the vehicle has slowed to such a speed that it is safe to do so, brake carefully and pull off the road. Drive off the road as far as is possible and safe and park on firm, level ground.
-
-### WARNING
-`kia_ev6_en_17d23be5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-If you are on a divided highway, do not park in the median area between the two traffic lanes.
-
-When the vehicle is stopped, press the hazard warning flasher button, shift to P (Park), apply the parking brake, and place the EV button in the OFF position.
-Have all passengers get out of the vehicle. Be sure they all get out on the side of the vehicle that is away from traffic.
-Follow the instructions provided later in this chapter.
+> ⚠️ **Внимание:** 
+> If you are on a divided highway, do not park in the median area between the two traffic lanes.
+>
+> When the vehicle is stopped, press the hazard warning flasher button, shift to P (Park), apply the parking brake, and place the EV button in the OFF position.
+> Have all passengers get out of the vehicle. Be sure they all get out on the side of the vehicle that is away from traffic.
+> Follow the instructions provided later in this chapter.
 
 ### If the vehicle will not start
-`kia_ev6_en_cb6569ab` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The vehicle may not start if the battery level is low.
 
@@ -16022,12 +14171,10 @@ Check the battery level by performing the following procedure.
 1. Be sure the shifter dial is in P (Park). The vehicle starts only when the shifter dial is in P (Park). 2. Check the 12-volt battery connections to be sure they are clean and tight.
 
 ### ！ WARNING
-`kia_ev6_en_393cfd81` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not push or pull the vehicle to start it. This could cause damage to your vehicle and/or injure you or those near the vehicle.
 
 ### Jump starting (12V battery)
-`kia_ev6_en_0bd1dd2e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Connect cables in numerical order and disconnect in reverse order.
 
@@ -16036,17 +14183,14 @@ Connect cables in numerical order and disconnect in reverse order.
 Jump starting can be dangerous if done incorrectly. Therefore, to avoid harm to yourself or damage to your vehicle or battery, follow these jump starting procedures. If in doubt, we strongly recom mend that you have a competent technician or towing service jump start your vehicle.
 
 ### Battery
-`kia_ev6_en_88a9b512` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never attempt to check the electrolyte level of the battery as this may cause the battery to rupture or explode.
 
 ### Frozen Batteries
-`kia_ev6_en_a1d1a5bf` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not attempt to jump start the vehicle if the discharged battery is frozen, as the battery may rupture or explode.
 
 ### Electrolyte
-`kia_ev6_en_f2e00457` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not charge or discharge the battery arbitrarily. It may lead to fault, electric shock or burns.
 Do not damage the battery in such ways as to drop, deform, impact, out or spear with a sharp object. It may cause electrolyte leakage or fire.
@@ -16057,22 +14201,18 @@ Keep out of reach of children or animals.
 Keep the battery away from moisture or liquid. Do not touch or use if liquids have been spilled on.
 
 ### Battery Cables
-`kia_ev6_en_e8f6ae17` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not connect the jumper cable from the negative terminal of the booster battery to the negative terminal of the discharged battery, directly. This can cause the discharged battery to overheat, crack, and degrade. Connect the jumper cable from the negative terminal of the booster battery to the chassis ground in the motor room.
 
 ### Sulfuric Acid Risk
-`kia_ev6_en_23ed315e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Automobile batteries contain sulfuric acid. When jump starting your vehicle, be careful not to get sulfuric acid on yourself, your clothing, or on the vehicle. This acid is poisonous and highly corrosive.
 
 ### Battery
-`kia_ev6_en_eb705c90` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Keep all flames or sparks away from the battery. The battery produces hydrogen gas which will explode i exposed to flame or sparks.
 
 ### Jump-starting
-`kia_ev6_en_e929b947` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Make sure the booster battery is 12- volt and that its negative terminal is grounded.
 2. If the booster battery is in another vehicle, do not allow the vehicles to come in contact.
@@ -16086,21 +14226,18 @@ Do not allow the jumper cables to contact anything except the correct battery te
 If the cause of your battery discharging is not apparent, you should have your vehicle checked by an authorized Kia dealer.
 
 ### \* NOTICE
-`kia_ev6_en_32094c91` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/4b6a6a515b7cda3b7edf9827513872270585e23bbc13497ee9cfd169e99b75d6.webp)
 
 Make sure to connect one end of the jumper cable to the negative terminal of the booster battery, and the other end to a metallic point, far away from the battery.
 
 ### Tow Starting Vehicle
-`kia_ev6_en_ab7685ec` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never tow a vehicle to start it.
 
 When the vehicle starts, the vehicle can suddenly surge forward and could cause a collision with the tow vehicle.
 
 ### Tire Pressure Monitoring System (TPMS)
-`kia_ev6_en_627a309d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The tire pressure monitoring system detects the pressure of vehicle's tires and displays it on the LCD display.
 
@@ -16109,7 +14246,6 @@ The tire pressure monitoring system detects the pressure of vehicle's tires and 
 1 Low tire pressure telltale TPMS malfunction indicator 2 Low tire pressure position telltale (Shown on the LCD display)
 
 ### Tire Pressure Indicator
-`kia_ev6_en_2a820a9b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You can check the tire pressure in the
 assist mode on the cluster. Refer to "LCD display" on page 5- 67.
@@ -16124,7 +14260,6 @@ in the Setup menu on the infotain
 ment system screen. psi, kPa, bar (Refer to "Vehicle settings (infotainment system)" on page 5-72).
 
 ### \* NOTICE
-`kia_ev6_en_4dfa549f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The tire pressure may change due to factors such as parking condition,
 driving style, and altitude above sea level.
@@ -16133,7 +14268,6 @@ The tire pressure shown on the dashboard may differ from the tire pressure measu
 gauge.
 
 ### Effective Use of the Tire Pressure Monitoring System (TPMS)
-`kia_ev6_en_054476ed` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Each tire, including the spare (if provided), should be checked monthly when cold and inflated to the inflation pressure recommended by the vehicle manufacturer on the vehicle placard or tire inflation pressure label.
 
@@ -16146,7 +14280,6 @@ Your vehicle has also been equipped with a TPMS malfunction indicator to indicat
 Always check the TPMS malfunction telltale after replacing one or more tires or wheels on your vehicle to ensure that the replacement or alternate tires and wheels allow the TPMS to continue to function properly.
 
 ### \* NOTICE
-`kia_ev6_en_4db61aa2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If any of the below happens, have the system checked by an authorized Kia dealer.
 
@@ -16155,14 +14288,12 @@ If any of the below happens, have the system checked by an authorized Kia dealer
 3. The Low Tire Pressure LCD display remains illuminated.
 
 ### Low tire pressure position telltale
-`kia_ev6_en_7641c146` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the tire pressure monitoring sys tem warning indicators are illuminated, one or more of your tires is significantly under-inflated.
 
 ![](images/01740ec6b7b6f0a4fdd374bcacd254ed09814709e01cb39f5c8db0c265bea5c7.webp)
 
 ### A: Low tire pressure
-`kia_ev6_en_6113c5fe` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the telltale illuminates, immediately reduce your speed, avoid hard cornering and anticipate increased stopping distances. You should stop and check your tires as soon as possible.
 
@@ -16175,12 +14306,10 @@ In winter or cold weather, the low tire pressure telltale may be illuminated if 
 When filling tires with more air, conditions to turn off the low tire pressure telltale may not be met. This is because a tire inflator has a margin of error in performance. The low tire pressure telltale will be turned off if the tire pressure is above the recommended tire inflation pressure.
 
 ### Low Pressure Damage
-`kia_ev6_en_56afd385` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not drive on low pressure tires. Significantly low tire pressure can cause the tires to overheat and fail making the vehicle unstable resulting in increased braking distances and a loss of vehicle control.
 
 ### Tire Pressure Monitoring System (TPMS) malfunction indicator 1
-`kia_ev6_en_b31c27c4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The low tire pressure telltale will illuminate after it blinks for approximately one minute when there is a problem with the Tire Pressure Monitoring System.
 
@@ -16195,12 +14324,10 @@ The TPMS malfunction indicator may be illuminated if snow chains are used or som
 (TPMS).
 
 ### Tire replacement with TPMS
-`kia_ev6_en_50c0904f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you have a flat tire, the Low Tire Pressure telltale will come on. Have the flat tire repaired by an authorized Kia dealer as soon as possible or replace the flat tire with the spare tire.
 
 ### Repair Agents
-`kia_ev6_en_d2eb5b5a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never use a puncture-repairing agent not approved by Kia to repair and/or inflate a low pressure tire. The sealant not approved by Kia may damage the tire pressure sensor.
 
@@ -16227,12 +14354,10 @@ Never use tire sealant if your vehicle is equipped with a Tire Pressure Monitori
 The TPMS cannot alert you to severe and sudden tire damage caused by external factors such as nails or road debris. If you feel any vehicle instability, immediately take your foot off the accelerator, apply the brakes gradually and with light force, and slowly move to a safe position off the road.
 
 ### Protecting TPMS
-`kia_ev6_en_c95b53f2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Tampering with, modifying, or disabling the Tire Pressure Monitoring System (TPMS) components may interfere with the system's ability to warn the driver of low tire pressure conditions and/or TPMS malfunctions. Tampering with, modifying, or disabling the Tire Pressure Monitoring System (TPMS) components may void the warranty for that portion of the vehicle.
 
 ### This device complies with Part 15 of the FCC rules.
-`kia_ev6_en_3e224ee1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Operation is subject to the following two conditions:
 
@@ -16241,7 +14366,6 @@ Operation is subject to the following two conditions:
 3. Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the device.
 
 ### If you have a flat tire (with Tire Mobility Kit)
-`kia_ev6_en_a541e05b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The Tire Mobility Kit is a temporary fix to the tire and the tire should be inspected by an authorized Kia dealer as soon as possible.
 
@@ -16252,30 +14376,23 @@ The Tire Mobility Kit is a temporary fix to the tire and the tire should be insp
 
 For safe operation, carefully read and follow the instructions in this manual before use.
 
-### CAUTION
-`kia_ev6_en_f5b5f162` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-When two or more tires are flat, do not use the tire mobility kit because the one supplied canister of sealant in the Tire Mobility Kit is only enough sealant for one flat tire.
+> ⚠️ **Внимание:** 
+> When two or more tires are flat, do not use the tire mobility kit because the one supplied canister of sealant in the Tire Mobility Kit is only enough sealant for one flat tire.
 
 ### Tire Wall
-`kia_ev6_en_3534ec5c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not use the Tire Mobility Kit to repair large punctures or damage to the tire sidewalls. In these situations, the tire cannot be sealed completely and air will leak from the tire. This can result in tire failure.
 
-### WARNING
-`kia_ev6_en_091dc904` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Have your tire repaired as soon as possi ble. The tire may loose air pressure at any time after inflating with the Tire Mobility Kit.
+> ⚠️ **Внимание:** 
+> Have your tire repaired as soon as possi ble. The tire may loose air pressure at any time after inflating with the Tire Mobility Kit.
 
 ### Speed with Temporary Fix
-`kia_ev6_en_82c86034` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not exceed a speed of 50 mph (80 km/h) when driving with a tire sealed with the Tire Mobility Kit.
 While driving, if you experience any
 unusual vibration, ride disturbance, or noise, reduce your speed and drive with caution until you can safely pull off to the side of the road.
 
 ### Introduction
-`kia_ev6_en_310ac43c` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 With the Tire Mobility Kit you stay mobile even after experiencing a tire puncture.
 
@@ -16300,33 +14417,25 @@ Mobility Kit
 僅 Park your car at the side of the road so that you can work with the Tire Mobility Kit away from moving traffic. To be sure your vehicle will not move, even when you're on fairly level ground, always set your parking brake. Only use inflating Tire Mobility Kit for sealing/inflation passenger car tires. Only punctured areas located within the tread region of the tire can be sealed using the Tire Mobility Kit. Do not use on motorcycles, bicycles or any other type of tires. When the tire and wheel are damaged, do not use Tire Mobility Kit for your safety. Use of the Tire Mobility Kit may not be effective for tire damage larger than approximately 0.16 inches (4 mm). Please contact the nearest Kia dealership if the tire cannot be made roadworthy with the Tire Mobility Kit. Do not use the Tire Mobility Kit if a tire is severely damaged by driving with flat tires or with insufficient air pressure. Do not remove any foreign objects such as nails or screws that have penetrated the tire. Provided the car is outdoors, leave the vehicle ON (READY indicator ON). Otherwise operating the compressor may eventually drain the car battery. Never leave the Tire Mobility Kit unattended while it is being used. Do not leave the compressor running for more than 10 minutes at a time or it may overheat.
 Do not use the Tire Mobility Kit if the ambient temperature is below -22 °F (-30 °C).
 
-### CAUTION
-`kia_ev6_en_558d1e87` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> When repairing a flat tire with the Tire Mobility Kit (TMK), quickly remove the sealant on the tire pressure sensor and wheel. When installing the repaired tire and wheel, tighten the wheel nut to a torque value of 79\~94 lbf·ft (11\~13 kgf·m).
 
-When repairing a flat tire with the Tire Mobility Kit (TMK), quickly remove the sealant on the tire pressure sensor and wheel. When installing the repaired tire and wheel, tighten the wheel nut to a torque value of 79\~94 lbf·ft (11\~13 kgf·m).
+> ⚠️ **Внимание:** 
+> Do not use the tire sealant after the sealant has expired (i.e. past the expiration date on the sealant container). This can increase the risk of tire failure.
 
-### WARNING
-`kia_ev6_en_8864735f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Do not use the tire sealant after the sealant has expired (i.e. past the expiration date on the sealant container). This can increase the risk of tire failure.
-
-### WARNING
-`kia_ev6_en_973b15ed` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-If the sealant gets on your skin, wash it with a large amount of water. If skin irritation continues, visit a doctor for examination.
-If the sealant gets into your eyes, raise your eyelid and wash for at least 15 minutes. I eye irritation continues, visit a doctor for examination.
-f you swallowed the sealant, wash the mouth and drink a large amount of water. However, do not give anything to an unconscious person and see the doctor immediately.
-Exposure to the sealant for a long time may cause damage to the bodily tissues.
+> ⚠️ **Внимание:** 
+> If the sealant gets on your skin, wash it with a large amount of water. If skin irritation continues, visit a doctor for examination.
+> If the sealant gets into your eyes, raise your eyelid and wash for at least 15 minutes. I eye irritation continues, visit a doctor for examination.
+> f you swallowed the sealant, wash the mouth and drink a large amount of water. However, do not give anything to an unconscious person and see the doctor immediately.
+> Exposure to the sealant for a long time may cause damage to the bodily tissues.
 
 ### \* NOTICE
-`kia_ev6_en_0e934e4a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/af0a40bc51ddfb2901be40e899faa254bd79d2bb16e273cc34c47961b0d4da75.webp)
 
 For 20 inch wheel, take out the remover tool in the Tire Mobility Kit. Insert the tool to the hole and pull out the wheel cover.
 
 ### Components of the Tire Mobility Kit
-`kia_ev6_en_768e3ff5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Connectors, cable and connection hose are stored in the compressor housing.
 
@@ -16344,24 +14453,19 @@ Connectors, cable and connection hose are stored in the compressor housing.
 
 What to do in an emergency
 
-### WARNING
-`kia_ev6_en_9364de33` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
+> ⚠️ **Внимание:** 
+> Before using the Tire Mobility Kit, follow the instructions on the sealant bottle.
+>
+> Remove the label with the speed restriction from the sealant bottle and apply it to the steering wheel.
+>
+> Please note the expiration date on the sealant bottle.
 
-Before using the Tire Mobility Kit, follow the instructions on the sealant bottle.
-
-Remove the label with the speed restriction from the sealant bottle and apply it to the steering wheel.
-
-Please note the expiration date on the sealant bottle.
-
-### CAUTION
-`kia_ev6_en_b87a4504` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Before using the tire repair kit, please read carefully the instruction attached on the sealant bottle. Detach the speed limit label on the sealant case and put it on a highly visible place. Always drive within the speed limit.
-
-![](images/290bb079c7663533dc1ad8c23dab94bd16e9474b70eda0fd424e2e82ce7ce01c.webp)
+> ⚠️ **Внимание:** 
+> Before using the tire repair kit, please read carefully the instruction attached on the sealant bottle. Detach the speed limit label on the sealant case and put it on a highly visible place. Always drive within the speed limit.
+>
+> ![](images/290bb079c7663533dc1ad8c23dab94bd16e9474b70eda0fd424e2e82ce7ce01c.webp)
 
 ### Using the Tire Mobility Kit
-`kia_ev6_en_9d513bce` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Carefully follow below steps.
 1. Shake the sealant bottle.
@@ -16381,7 +14485,6 @@ Carefully follow below steps.
 If a visible foreign object has punctured the tire, do not remove it before using Tire Mobility Kit.
 
 ### \* NOTICE
-`kia_ev6_en_14eb22b4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/38b47be779c5a02f9850b7260f5dd382e7194a7486bceb17863b48b8c0046cbf.webp)
 
@@ -16398,14 +14501,12 @@ If the sealant is injected when the tire air pressure injection valve and sealan
 7. With the EV button ON, switch on the compressor and let it run for approximately 5\~7 minutes to fill the sealant up to cold tire recommended pressure. (refer to "Tires and wheels" on page 9-4). Be careful not to overinflate the tire and stay away from the tire when filling it.
 
 ### Tire Pressure
-`kia_ev6_en_e6519f3b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not attempt to drive your vehicle if the tire pressure is below 26 psi (180 kPa). This could result in an accident due to sudden tire failure.
 
 8. Switch off the compressor. 9. Detach the hoses from the sealant bottle connector and from the tire valve. 10.Return the Tire Mobility Kit to its storage location in the vehicle.
 
 ### Distributing the sealant
-`kia_ev6_en_e56ca1e7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 After putting sealant into the tire, it is necessary to drive the vehicle so that the sealant becomes evenly distributed inside the tire.
 
@@ -16419,12 +14520,10 @@ Do not exceed a speed of 50 mph (80 km/h). If possible, do not fall below a spee
 While driving, if you experience any unusual vibration, ride disturbance or noise, reduce your speed and drive with caution until you can safely pull off of the side of the road.
 
 ### ！ CAUTION
-`kia_ev6_en_b6abd339` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When you use the Tire Mobility Kit, the tire pressure sensors and wheel may be stained by sealant. Therefore, remove the tire pressure sensors and wheel stained by the sealant and have your vehicle inspected by an authorized Kia dealer.
 
 ### Checking the tire inflation pres sure
-`kia_ev6_en_073c872c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 After driving briefly so as to distribute the sealant throughout the inside of the tire, you should check the tire inflation pressure.
 
@@ -16436,24 +14535,19 @@ After driving briefly so as to distribute the sealant throughout the inside of t
 4. Adjust the tire inflation pressure to the cold tire recommended pressure as indicated on the vehicle's placard or tire inflation pressure label located on the driver's side center pillar outer panel. (In this owner's manual, refer to "Tires and wheels" on page 9-4.) To increase the inflation pres sure, switch on the compressor, position I. To check the current inflation pressure setting, briefly switch off the compressor.
 
 ### \* NOTICE
-`kia_ev6_en_68f49784` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The pressure gauge may show higher than actual reading when the compressor is running. To get an accurate tire reading, the compressor needs to be turned off.
 
-### WARNING
-`kia_ev6_en_da67edc8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Do not let the compressor run for more than 10 minutes; otherwise, the device may overheat and be damaged.
-
-To reduce the inflation pressure, press the valve on the compressor.
+> ⚠️ **Внимание:** 
+> Do not let the compressor run for more than 10 minutes; otherwise, the device may overheat and be damaged.
+>
+> To reduce the inflation pressure, press the valve on the compressor.
 
 ### Tire Pressure Sensor
-`kia_ev6_en_d7cf2a95` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When you use the Tire Mobility Kit with a sealant that is not approved by Kia, the tire pressure sensors may be damaged by sealant. The sealant on the tire pressure sensor and wheel should be removed when you replace the tire with a new one and the tire pressure sensors should be inspected at an authorized dealer.
 
 ### Technical data
-`kia_ev6_en_fd96913f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The specifications of the Tire Mobility Kit are as follows.
 
@@ -16462,39 +14556,33 @@ The specifications of the Tire Mobility Kit are as follows.
 Sealant and spare parts can be obtained and replaced at an authorized vehicle or tire dealer. Empty sealant bottles may be disposed of at home. Liquid residue from the sealant should be disposed of by your vehicle or tire dealer or in accordance with local waste disposal regulations.
 
 ### Towing
-`kia_ev6_en_dc643467` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If emergency towing is necessary, we recommend having it done by an authorized Kia dealer or a commercial towtruck service.
 
 ### Towing service
-`kia_ev6_en_b1595bd1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e8b683f91700aea3389916a6d0707ac8a4bcb28e19831425f8b05156564ea1e4.webp)
 
 Proper lifting and towing procedures are necessary to prevent damage to the vehicle. The use of wheel dollies (1) or flatbed is recommended.
 
 ### Side and Curtain Air Bag
-`kia_ev6_en_b3709faa` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If your vehicle is equipped with side and curtain air bag, place the EV button in OFF or ACC when the vehicle is being towed.
 The side and curtain air bag may deploy when the EV button is ON, and the rollover sensor detects the situation as a rollover.
 
 ### Towing (For 2WD Vehicle)
-`kia_ev6_en_8831f229` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/58292f47ef06cf8b2788e6cc2b21be7513ab3be18b709eff9a2f54a7a321aed3.webp)
 
 Do not tow the vehicle forward with the rear wheels on the ground as this may cause damage to the vehicle. Do not tow with sling-type equipment. Use wheel lift or flatbed equipment.
 
 ### A WARNING
-`kia_ev6_en_40da1196` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you tow the vehicle while the rear (or front and rear for AWD vehicle) wheels are touching the ground, the vehicle motor may generate electricity and the motor components may be damaged or a fire may occur. When a vehicle fire occurs due to the battery, there is a risk of a second fire. Contact the fire department when towing the vehicle.
 
 When the vehicle is being towed with tow truck or it needs to be moved, move the vehicle very short distance (within 32 ft. (10 m)) with the speed of 3 mph (5 km/h). In this case, the vehicle should be in N (Neutral) and the parking brake should be disengaged. If the parking brake and gear change operation is unavailable, move the vehicle with the rear wheels off the ground.
 
 ### Using removable towing hook
-`kia_ev6_en_39e83d1d` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/8a0100837faa77c18436b4d7b7967af665b67aecf85ae7e761cb29519149eaf5.webp)
 Front
@@ -16510,12 +14598,10 @@ Rear
 4. Remove the towing hook and install the cover after use.
 
 ### High Voltage Components
-`kia_ev6_en_4f433466` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For your safety, do not touch high voltage cables, connectors and package modules. High voltage compo nents are orange in color. Exposed cables or wires may be visible inside or outside of the vehicle. Never touch the wires or cables, because an electrical shock, an injury, or a death may occur.
 
 ### \* NOTICE
-`kia_ev6_en_5fbd927e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Any gas or electrolyte leakage from your vehicle is not only poisonous but also flammable. Upon witnessing one of those, make sure your car is parked in a safe area away from any roads, open the windows, and maintain a safe distance away from the vehicle. Immediately contact an authorized Kia dealer and advise them that an electric vehicle is involved.
 
@@ -16524,7 +14610,6 @@ When the vehicle is severely damaged, remain a safe distance of 50 ft. (15 m) or
 If a fire occurs, immediately call emergency services (911) and advise the emergency responders that an electric vehicle is involved.
 
 ### Submersion in Water
-`kia_ev6_en_43869f95` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not touch your vehicle if it has been submerged in water. The high-voltage battery may cause shock or may catch fire. Immediately contact the authorities and advise them of the condition of your vehicle and that an electric vehicle is involved.
 
@@ -16561,14 +14646,12 @@ Tire chains   ··· .8-29
 Radial-ply tires 8-29
 
 ### Fuses. 8-31
-`kia_ev6_en_1d271099` | ev6 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Replacing inner panel fuse .·· 皖 ·\*\*\*·· 8-32
 Replacing motor compartment fuse   8-33
 Fuse/relay panel description ..·····.·  8-35
 
 ### Light bulbs .8-41
-`kia_ev6_en_8bc4f796` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Light position (Front)  8-42
 Light position (Rear)  8-43
@@ -16578,7 +14661,6 @@ High mounted stop lamp (LED type) replacement 8-44
 Glove box lamp (Bulb type) replacement.  ·   8-44
 
 ### Motor room compartment
-`kia_ev6_en_31ef4900` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Open the hood to see the motor room compartment.
 
@@ -16595,7 +14677,6 @@ The actual motor compartment in the vehicle may differ from the illustration.
 7 Front trunk
 
 ### Maintenance services
-`kia_ev6_en_b4260ea9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 You should exercise the utmost care to prevent damage to your vehicle and injury to yourself whenever performing any maintenance or inspection proce dures.
 
@@ -16606,7 +14687,6 @@ An authorized Kia dealer has factorytrained technicians and genuine Kia parts to
 Inadequate, incomplete or insufficient servicing may result in operational problems with your vehicle that could lead to vehicle damage, an accident, or personal injury.
 
 ### \* NOTICE
-`kia_ev6_en_ae5ef8b4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Maintenance Service and Record Retention are the owner's responsibility.
 
@@ -16619,36 +14699,30 @@ Repairs and adjustments required as a result of improper maintenance or a lack o
 We recommend you have your vehicle maintained and repaired by an authorized Kia dealer. An authorized Kia dealer meets Kia's high service quality standards and receives technical support from Kia in order to provide you with a high level of service satisfaction.
 
 ### NHTSA Safety Corrosion Alert
-`kia_ev6_en_8c7b66b7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The National Highway Traffic Safety Administration (NHTSA) has issued a general warning to all vehicle owners of all brands regarding the risks associated with vehicle underbody corrosion. From your initial purchase, take the following steps to prevent unsafe corrosion damage to your vehicle:
 
 Wash the undercarriage of your vehicle regularly during the winter and whenever your vehicle has been exposed to such salts or chemicals. Do a thorough washing of the undercarriage at the end of the winter. Use professional service technicians or governmental inspection stations to annually inspect for corrosion. Immediately seek an inspection of your vehicle if you become visually aware of corrosion flaking or scaling or if you become aware of a change in vehicle performance, such as soft or spongy brakes, fluids leaking, impairment of directional control, suspen sion noises or rattling metal straps. NHTSA further advises that after a vehicle is 7 years old, it is essential that you take these indicated maintenance steps to ensure that you protect yourself from unsafe corrosion conditions.
 
 ### Owner maintenance precautions
-`kia_ev6_en_8218a04e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Improper or incomplete service may result in problems. This section gives instructions only for the maintenance items that are easy to perform.
 
 As explained earlier in this section, several procedures can be done only by an authorized Kia dealer with special tools.
 
 ### \* NOTICE
-`kia_ev6_en_6747d224` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Improper owner maintenance during the warranty period may affect warranty coverage. For details, read the separate Warranty & Consumer Information manual provided with the vehicle. If you're unsure about any servicing or maintenance procedure, have it done by an authorized Kia dealer.
 
 ### Maintenance Work
-`kia_ev6_en_22d2d6af` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not wear jewelry or loose clothing while working under the hood of your vehicle with READY mode. These items can become entangled in moving parts, if you must run the vehicle in the READY mode while working under the hood, make certain that you remove all jewelry (especially rings, bracelets, watches, and necklaces) and all neckties, scarves, and similar loose clothing before getting near cooling fans.
 
 ### Touching Metal Parts
-`kia_ev6_en_86201e8f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not touch metal parts (including strut bars) while the vehicle is operating or hot. Doing so could result in serious bodily injury. Turn the vehicle off and wait until the metal parts cool down to perform maintenance work on the vehicle.
 
 ### Owner maintenance
-`kia_ev6_en_6495cba8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The following lists are vehicle checks and inspections that should be performed by the owner or an authorized Kia dealer at the frequencies indicated to help ensure safe, dependable operation of your vehicle.
 
@@ -16657,7 +14731,6 @@ Any adverse conditions should be brought to the attention of your dealer as soon
 These Owner Maintenance Checks are generally not covered by warranties and you may be charged for labor, parts and lubricants used.
 
 ### ！ WARNING
-`kia_ev6_en_5f174c31` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the coolant level is low, have the reservoir filled by an authorized Kia dealer by using only designated coolant water for electric vehicles. Using other types of water or antifreeze can cause serious damage to the vehicle.
 
@@ -16665,7 +14738,6 @@ Check the windshield washer fluid level.
 Look for low or under-inflated tires. Check if the front of the radiator and condenser are clean and not blocked with leaves, dirt or insects etc. If any of the above parts are extremely dirty or you are not sure of their condition, take your vehicle to an authorized Kia dealer.
 
 ### While operating your vehicle:
-`kia_ev6_en_843c057a` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Check for vibrations in the steering wheel. Notice any increased steering effort or looseness in the steering
 wheel, or change in its straight-ahead position.
@@ -16679,7 +14751,6 @@ Check the parking brake.
 Check for fluid leaks under your vehicle (water dripping from the air conditioning system during or after use is normal).
 
 ### At least monthly:
-`kia_ev6_en_7d89d74f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the coolant level in the coolant reservoir.
 Check the operation of all exterior lights, including the stop/tail lamps, turn signals and hazard warning
@@ -16688,27 +14759,23 @@ Check the inflation pressures of all tires including the spare for tires that ar
 Check for loose wheel lug nuts.
 
 ### At least twice a year (i.e., every Spring and Fall):
-`kia_ev6_en_3db0ee6e` | ev6 | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Check the radiator, heater and air conditioning hoses for leaks or damage.
 Check the windshield washer spray and wiper operation. Clean the wiper blades with clean cloth dampened with washer fluid.
 Check the head lamp alignment.
 Check the lap/shoulder belts for wear and function.
 
-### WARNING
-`kia_ev6_en_5f174c31` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
-
-When the coolant level is low, have the reservoir filled by an authorized Kia dealer by using only designated coolant water for electric vehicles. Using other types of water or antifreeze can cause serious damage to the vehicle.
-
-Lubricate the door hinges and check the hood hinges.
-Lubricate the door and hood locks and latches.
-Lubricate the door rubber weatherstrips.
-Check the air conditioning system. Inspect and lubricate shift gear linkage and controls.
-Clean the battery and terminals.
-Check the brake fluid level.
+> ⚠️ **Внимание:** 
+> When the coolant level is low, have the reservoir filled by an authorized Kia dealer by using only designated coolant water for electric vehicles. Using other types of water or antifreeze can cause serious damage to the vehicle.
+>
+> Lubricate the door hinges and check the hood hinges.
+> Lubricate the door and hood locks and latches.
+> Lubricate the door rubber weatherstrips.
+> Check the air conditioning system. Inspect and lubricate shift gear linkage and controls.
+> Clean the battery and terminals.
+> Check the brake fluid level.
 
 ### Scheduled maintenance ser vice
-`kia_ev6_en_ee3d3f04` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Follow the Normal Maintenance Schedule if the vehicle is usually operated where none of the following conditions apply.
 
@@ -16737,7 +14804,6 @@ If your vehicle is operated in any of the prior listed conditions, you should in
 After 10 years or 100,000 miles (150,000 km), we recommend to use severe maintenance schedule.
 
 ### Normal maintenance schedule
-`kia_ev6_en_5d405de9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 I: Inspect and if necessary, adjust, correct, clean or replace.
 R: Replace or change.
@@ -16745,14 +14811,12 @@ R: Replace or change.
 ![](images/6f65272b860868b34bff657fa8fc6440481a1b682b6bce8793f0461ff892a7eb.webp)
 
 ### Coolant
-`kia_ev6_en_2d9ad3d6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When replacing or adding coolant, we recommend that you visit an authorized Kia dealer.
 
 For your convenience, it can be replaced prior to it's interval when you do maintenance of other items.
 
 ### Maintenance under severe usage conditions
-`kia_ev6_en_8663596d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 I: Inspect and if necessary, adjust, correct, clean or replace.
 R: Replace or change.
@@ -16760,7 +14824,6 @@ R: Replace or change.
 ![](images/63ca9a95046700db5d7e071151e1911603040edec5353d903fc9054701d6d7ba.webp)
 
 ### Severe driving conditions
-`kia_ev6_en_b1904a8c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A. Repeated driving short distance of less than 5 miles (8 km) in normal temperature or less than 10 miles (16 km) in freezing temperature
 B. Driving on rough, dusty, muddy, unpaved, graveled or salt spread roads
@@ -16773,12 +14836,10 @@ I. Frequently driving under high speed or rapid acceleration/deceleration
 J. Frequently driving in stop-and-go conditions
 
 ### Reduction gear fluid
-`kia_ev6_en_798de140` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The reduction gear fluid should be inspected according to the intervals specified in the maintenance schedule.
 
 ### Cooling system
-`kia_ev6_en_6874f7f7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the cooling system components, such as the radiator, coolant reservoir, hoses and connections, coolant 3-way valve, chiller for leakage and damage. Replace any damaged parts.
 
@@ -16788,36 +14849,30 @@ NHTSA Safety Corrosion Alert NHTSA has warned all vehicle owners of all brands t
 3. Replace the entire brake pipe assem bly if you find severe corrosion that causes scaling or flaking of brake components.
 
 ### Brake hoses and lines
-`kia_ev6_en_a2964f84` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Visually check for proper installation, chafing, cracks, deterioration and any leakage. Replace any deteriorated or damaged parts immediately.
 
 ### Brake fluid
-`kia_ev6_en_0b732036` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the brake fluid level in the brake fluid reservoir. The level should be between "MIN" and "MAX" marks on the side of the reservoir. Use only hydraulic brake fluid conforming to DOT 4 specification.
 
 ### Steering gear box, linkage & boots/lower arm ball joint
-`kia_ev6_en_3237666b` | ev6 | pdf_manual | tier:4 | lang:en | layer:steering | p:1 | doc_type:service_manual
 
 With the vehicle stopped and off, check for excessive free-play in the steering wheel.
 
 Check the linkage for bends or damage. Check the dust boots and ball joints for deterioration, cracks, or damage. Replace any damaged parts.
 
 ### Drive shafts and boots
-`kia_ev6_en_f7fccbee` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the drive shafts, boots and clamps for cracks, deterioration, or damage. Replace any damaged parts and, if necessary, repack the grease.
 
 ### Coolant
-`kia_ev6_en_357f0420` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The high-pressure cooling system has a reservoir filled with year round antifreeze coolant. The reservoir is filled at the factory.
 
 Check the antifreeze protection and coolant level at least once a year, at the beginning of the winter season, and before traveling to a colder climate.
 
 ### ！ WARNING
-`kia_ev6_en_52124ad8` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/a897f6afabf9eb5db8ed8f9abe563149151f55cfdcc77b6cf08bfbfb13fea50d.webp)
 
@@ -16832,12 +14887,10 @@ Check the condition and connections of all cooling system hoses.
 Replace any swollen or deteriorated hoses. The coolant level should be filled between F (MAX) and L (MIN) marks on the side of the coolant reservoir when motor compartment is cool. When the coolant level (in the reservoir) is low, have your vehicle inspected by an authorized Kia dealer. Use only designated coolant water for electric vehicles, adding other types of water or antifreeze can damage the vehicle.
 
 ### Brake fluid
-`kia_ev6_en_769b12f3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The brake fluid acts to transmit force to the brake when the driver depresses the brake pedal. Brake fluid must be maintained periodically to ensure that the brakes operate smoothly.
 
 ### Checking the brake fluid level
-`kia_ev6_en_b85b8ef9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check the fluid level in the reservoir periodically. The fluid level should be between MAX and MIN marks on the side of the reservoir.
 
@@ -16846,7 +14899,6 @@ Check the fluid level in the reservoir periodically. The fluid level should be b
 1. Before removing the reservoir cap and adding brake fluid, clean the area around the reservoir cap thoroughly to prevent brake fluid contamination.
 
 ### Proper fluid
-`kia_ev6_en_533fae26` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Only use brake fluid in the brake system. Small amounts of improper fluids can cause damage to the brake system.
 
@@ -16861,19 +14913,16 @@ In the event the brake system requires frequent additions of fluid, the vehicle 
 When changing and adding brake fluid, handle it carefully. Do not let it come in contact with your eyes. If brake fluid should come in contact with your eyes, immediately flush them with a large quantity of fresh tap water. Have your eyes examined by a doctor as soon as possible.
 
 ### Brake fluid
-`kia_ev6_en_b9d0f790` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not allow brake fluid to contact the vehicle's body paint, as paint damage will result.
 
 Brake fluid, which has been exposed to open air for an extended time should never be used as its quality cannot be guaranteed. It should be disposed of properly.
 
 ### Washer fluid
-`kia_ev6_en_d822182a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Washer fluid is used when wiping the windshield of the vehicle with a windshield wiper. You should check and refill washer fluid periodically to make sure that it doesn't run out.
 
 ### Checking the washer fluid level
-`kia_ev6_en_b43f542d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/ce156f250017ce7914bb13f6cd1e44921f2dcd57a77d36422a642990af2a4d30.webp)
 
@@ -16882,27 +14931,22 @@ The reservoir is translucent so that you can check the level with a quick visual
 Check the fluid level in the washer fluid reservoir and add fluid if necessary. Plain water may be used if washer fluid is not available. However, use washer solvent with antifreeze characteristics in cold climates to prevent freezing.
 
 ### Flammable Fluid
-`kia_ev6_en_1a5b3108` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not allow the washer fluid to come in contact with open flames or sparks. The windshield washer fluid reservoir is flammable under certain circumstances. This can result in a fire.
 
 ### Coolant
-`kia_ev6_en_b3e249d9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not use radiator coolant or antifreeze in the washer fluid reservoir. Radiator coolant can severely obscure visibility when sprayed on the windshield and may cause loss of vehicle control.
 
 ### Windshield fluid
-`kia_ev6_en_1fe9d51d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not drink the windshield washer fluid. The windshield washer fluid is poisonous to humans and animals.
 
 ### Climate control air filter
-`kia_ev6_en_276dab45` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The climate control air filter should be replaced according to the maintenance schedule. If the vehicle is operated in severely air-polluted cities or on dusty rough roads for a long period, it should be inspected more frequently and replaced earlier.
 
 ### Inspecting and replacing climate control air filter
-`kia_ev6_en_075cc1ff` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When you replace the climate control air
 filter, replace i performing the following
@@ -16929,7 +14973,6 @@ aging other components.
 When replacing the climate control air filter, install it properly. Otherwise, the system may produce noise and the effectiveness of the filter may be reduced.
 
 ### Wiper blades
-`kia_ev6_en_73a56d0b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When the wipers no longer clean adequately, the blades may be worn or cracked, and require replacement.
 
@@ -16938,31 +14981,26 @@ To prevent damage to the wiper arms or other components, do not attempt to move 
 The use of a non-specified wiper blade could result in wiper malfunction and failure.
 
 ### Blade inspection
-`kia_ev6_en_301f68d2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Commercial hot waxes applied by automatic vehicle washes have been known to make the windshield difficult to clean. Contamination of either the windshield or the wiper blades with foreign matter can reduce the effectiveness of the windshield wipers. Common sources of contamination are insects, tree sap, and hot wax treatments used by some commercial vehicle washes. If the blades are not wiping properly, clean both the window and the blades with a good cleaner or mild detergent, and rinse thoroughly with clean water.
 
 ### Wiper blades
-`kia_ev6_en_229bf4b9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To prevent damage to the wiper blades, do not use gasoline, kerosene, paint thinner, or other solvents on or near them.
 
 ### Replacing front windshield wiper blade
-`kia_ev6_en_7387a765` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/612200368e0b50e99ff628c4812e0e04f571dedf69bd553e284bf07b72bbbf73.webp)
 
 After turning off the vehicle, move the wiper switch to the single wiping (MIST) position within 20 seconds and hold the switch more than 2 seconds until the wiper blade is in the fully up position.
 
 ### Type A
-`kia_ev6_en_99faac8b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Raise the wiper arm and turn the wiper blade assembly to expose the plastic locking clip.
 
 ![](images/8acbc76d45c63b862cfa7c51593ed7d622f5ede7406e922ed6eb95fa909fb375.webp)
 
 ### Wiper Arms
-`kia_ev6_en_4f9be0ad` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not allow the wiper arm to fall against the windshield, since it may chip or crack the windshield. Do not pull wiper arm forward, since it could chip the hood paint.
 
@@ -16977,7 +15015,6 @@ Do not allow the wiper arm to fall against the windshield, since it may chip or 
 4. Install the blade assembly in the reverse order of removal.
 
 ### Type B
-`kia_ev6_en_f10a8d20` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. Raise the wiper arm.
 2. Lift up the wiper blade clip (1). Then pull down the blade assembly and remove it (2).
@@ -16992,7 +15029,6 @@ Do not allow the wiper arm to fall against the windshield, since it may chip or 
 5. Change EV button to the ON position and wiper arms will return to the normal operating position.
 
 ### For best battery service
-`kia_ev6_en_8fdcf792` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1 OCV071008L
 
@@ -17001,7 +15037,6 @@ Rinse any spilled electrolyte from the battery immediately with a solution of wa
 If the vehicle is not going to be used for an extended time, disconnect the battery cables.
 
 ### Risk of Explosion
-`kia_ev6_en_993c84aa` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/4ac581b6ac7f05c5a85d5e5fe16dcc41d50c4753f9e116721aea85b63c475751.webp)
 
@@ -17034,24 +15069,20 @@ The battery contains lead. Do not dispose of it after use. Please return the bat
 recycled.
 
 ### Risk of Electrocution
-`kia_ev6_en_66b7128a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never touch the electrical motor while the vehicle is running. This system works with high voltage, which can electrocute, injure, or kill you.
 
 ### \* NOTICE
-`kia_ev6_en_82da55a3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/e376ce151d5f8fa7ee26fbd876c159f6dd8b14ebd27a777db086e521435d0ae1.webp)
 
 If you connect unauthorized electronic devices to the battery, the battery may be discharged. Never use unauthorized devices.
 
 ### California Proposition 65
-`kia_ev6_en_90bb175a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Battery posts, terminals, and related accessories contain lead and lead compounds, chemicals known to the State of California to cause cancer, birth defects and reproductive harm. Batteries also contain other chemicals known to the State of California to cause cancer. Wash hands after handling.
 
 ### Battery recharging
-`kia_ev6_en_e462d23a` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Your vehicle has a maintenance-free, calcium-based battery
 
@@ -17075,7 +15106,6 @@ accessories and stop the vehicle.
 The negative battery cable must be removed first and installed last when the battery is disconnected.
 
 ### Reset items
-`kia_ev6_en_7965b46b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The following items should be reset after the battery has been discharged or the battery has been disconnected.
 
@@ -17089,12 +15119,10 @@ Climate control system (Refer to
 page 5-101)
 
 ### Tires and wheels
-`kia_ev6_en_b7cec513` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 For proper maintenance, safety, and maximum fuel economy, you must always maintain recommended tire inflation pressures and stay within the load limits and weight distribution recommended for your vehicle.
 
 ### Recommended cold tire inflation pressures
-`kia_ev6_en_f6fab5ee` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 All tire pressures should be checked when the tires are cold. "Cold Tires" means the vehicle has not been driven for at least three hours or driven less than one mile (1.6 km). Recommended pressures must be maintained for the best ride, vehicle handling, and minimum tire wear. For recommended inflation pressure, refer to "Tires and wheels" on page 9-4.
 
@@ -17103,14 +15131,12 @@ All specifications (sizes and pressures) can be found on a label attached to the
 ![](images/f565dc09903e0c03e0a792fd41ed1e0d33bee14fe4c029a6ac35dba89467fef6.webp)
 
 ### Tire Underinflation
-`kia_ev6_en_f3d92b80` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Inflate your tires consistent with the instructions provided in this manual. Severe underinflation (10 psi (70 kPa) or more) can lead to severe heat build-up, causing blowouts, tread separation and other tire failures that can result in the loss of vehicle control. This risk is much higher on hot days and when driving for long periods at high speeds.
 
 Failure to maintain specified pres sure may result in excessive wear, poor handling, reduced fuel econ omy, deformation of tire and/or wheel, harsh ride conditions, possi bility for additional damage from road hazards, or result in tire failure.
 
 ### Tire pressure
-`kia_ev6_en_9ccbbb44` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Always observe the following:
 
@@ -17122,12 +15148,10 @@ equipped with one.
 Warm tires normally exceed recommended cold tire pressures by 4 to 6 psi (28 to 41 kPa). Do not release air from warm tires to adjust the pressure or the tires will be underinflated.
 
 ### Tire Inflation
-`kia_ev6_en_24fd5629` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Overinflation or underinflation can reduce tire life, adversely affect vehicle handling, and lead to sudden tire failure. This could result in loss of vehicle control and potential injury.
 
 ### Checking tire inflation pressure
-`kia_ev6_en_f8bd210b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Check your tires once a month or more.
 
@@ -17147,7 +15171,6 @@ Inspect your tires frequently for proper inflation as well as wear and damage. A
 Tires with too much or too little pressure wear unevenly causing poor handling, loss of vehicle control, and sudden tire failure leading to accidents, injuries, and even death. The recommended cold tire pressure for your vehicle can be found in this manual and on the tire label located on the driver's side center pillar.
 
 ### Tire rotation
-`kia_ev6_en_e802aad3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To equalize tread wear, it is recommended that the tires be rotated every 8,000 miles (13,000 km) or sooner if irregular wear develops. During rotation, check the tires for correct balance.
 
@@ -17164,12 +15187,10 @@ Disc brake pads should be inspected for wear whenever tires are rotated.
 Rotate radial tires that have an asymmetric tread pattern only from front to rear and not from right to left.
 
 ### Mixing Tires
-`kia_ev6_en_00307bab` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not mix bias ply and radial ply tires under any circumstances. This may cause unusual handling characteristics.
 
 ### Wheel alignment and tire balance
-`kia_ev6_en_7b53ae74` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The wheels on your vehicle were aligned and balanced carefully at the factory to give you the longest tire life and best overall performance.
 
@@ -17178,7 +15199,6 @@ In most cases, you will not need to have your wheels aligned again. However, if 
 If you notice your vehicle vibrating when driving on a smooth road, your wheels may need to be rebalanced.
 
 ### Tire replacement
-`kia_ev6_en_e002ccfc` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 If the tire is worn evenly, a tread wear indicator will appear as a solid band across the tread.
 
@@ -17194,31 +15214,26 @@ The ABS (Anti-lock Brake System) works by comparing the speed of the wheels. The
 It is best to replace all four tires at the same time. If that is not possible, or necessary, then replace the two front or two rear tires as a pair. Replacing just one tire can seriously affect your vehicle's handling.
 
 ### \* NOTICE
-`kia_ev6_en_279a7570` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 We recommend that when replacing tires, use the same originally supplied with the vehicles. If not, that affects driving performance.
 
 ### Wheel replacement
-`kia_ev6_en_bdda6a06` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 When replacing the metal wheels for any reason, make sure the new wheels are equivalent to the original factory units in diameter, rim width and offset.
 
 A wheel that is not the correct size may adversely affect wheel and bearing life, braking and stopping abilities, handling characteristics, ground clearance, body-to-tire clearance, snow chain clearance, speedometer and odometer calibration, headlight aim and bumper height.
 
 ### Wheels
-`kia_ev6_en_105a6b97` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Wheels that do not meet Kia specifications may fit poorly and result in damage to the vehicle or unusual handling and poor vehicle control.
 
 ### Tire traction
-`kia_ev6_en_8a301c8f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Tire traction can be reduced if you drive on worn tires, tires that are improperly inflated or on slippery road surfaces.
 
 Tires should be replaced when tread wear indicators appear. Slow down whenever there is rain, snow or ice on the road to reduce the possibility of losing control of the vehicle.
 
 ### Tire maintenance
-`kia_ev6_en_f7444d6a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In addition to proper inflation, correct wheel alignment helps to decrease tire wear.
 
@@ -17227,7 +15242,6 @@ If you find a tire is worn unevenly, have your dealer check the wheel alignment.
 When you have new tires installed, make sure they are balanced. This will increase vehicle ride comfort and tire life. Additionally, a tire should always be rebalanced if it is removed from the wheel.
 
 ### Tire sidewall labeling
-`kia_ev6_en_506f74c2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This information identifies and describes the fundamental characteristics of the tire and also provides the tire identification number (TIN) for safety standard certification.
 
@@ -17236,14 +15250,12 @@ This information identifies and describes the fundamental characteristics of the
 The TIN can be used to identify the tire in case of a recall.
 
 ### 2. Tire size designation
-`kia_ev6_en_e16708e9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A tire's sidewall is marked with a tire size designation. You will need this information when selecting replacement tires for your vehicle. The following explains what the letters and numbers in the tire size designation mean.
 
 Example tire size designation: (These numbers are provided as an example only; your tire size designator could vary depending on your vehicle.)
 
 ### P255/45R20 105H
-`kia_ev6_en_0c4ad6f1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 P: Applicable vehicle type (tires marked with the prefix "P" are intended for use on passenger vehicles or light trucks; however, not all tires have this marking). 255: Tire width in millimeters. 45: Aspect ratio. The tire's section height as a percentage of its width. R: Tire construction code (Radial). 20: Rim diameter in inches. 105: Load Index, a numerical code associated with the maximum load the tire can carry. H: Speed Rating Symbol. See the speed rating chart in this section for additional information.
 
@@ -17252,19 +15264,16 @@ Wheels are also marked with important information that you need if you ever have
 Example wheel size designation:
 
 ### Tire speed ratings
-`kia_ev6_en_2bc2a4f7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The chart below lists many of the different speed ratings currently being used for passenger vehicle tires. The speed rating is part of the tire size designation on the sidewall of the tire. This symbol corresponds to that tire's designed maximum safe operating speed.
 
 ![](images/fb6c4b1280fdb53aba146d6e2314547237c2bfd6b8d7b582995a15412b46b404.webp)
 
 ### 3. Checking tire life (TIN: Tire Identification Number)
-`kia_ev6_en_8f2f5043` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Any tires that are over 6 years old, based on the manufacturing date, should be replaced by new ones. You can find the manufacturing date on the tire sidewall (possibly on the inside of the wheel), displaying the DOT Code. The DOT Code is a series of numbers on a tire consisting of numbers and English letters. The manufacturing date is designated by the last four digits (characters) of the DOT code.
 
 ### DOT: XXXX XXXX OOOO
-`kia_ev6_en_cfa189af` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The front part of the DOT means a plant code number, tire size and tread pattern and the last four numbers indicate week and year manufactured.
 
@@ -17272,27 +15281,22 @@ For example:
 DOT XXXX XXXX 1621 represents that the tire was produced in the 16th week of 2021.
 
 ### Tire Age
-`kia_ev6_en_4534c11a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Replace tires within the recom mended time frame. Failure to replace tires as recommended can result in sudden tire failure, which could lead to a loss of control and an accident.
 
 ### 4. Tire ply composition and material
-`kia_ev6_en_d08cc286` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The number of layers or plies of rubber- coated fabric in the tire. Tire manufacturers also must indicate the materials in the tire, which include steel, nylon, polyester, and others. The letter "R" means radial ply construction; the letter "D" means diagonal or bias ply construction; and the letter "B" means belted-bias ply construction.
 
 ### 5. Maximum permissible inflation pressure
-`kia_ev6_en_d8a3c174` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This number is the greatest amount of air pressure that should be put in the tire. Do not exceed the maximum permissible inflation pressure. Refer to the Tire and Loading Information label for recommended inflation pressure.
 
 ### 6. Maximum load rating
-`kia_ev6_en_974514cf` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This number indicates the maximum load in kilograms and pounds that can be carried by the tire. When replacing the tires on the vehicle, always use a tire that has the same load rating as the factory installed tire.
 
 ### 7. Uniform Tire Quality Grading
-`kia_ev6_en_3b08141f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Quality grades can be found where applicable on the tire sidewall between tread shoulder and maximum section width.
 
@@ -17303,28 +15307,24 @@ Treadwear 200 Traction AA Temperature A
 Tires degrade over time, even when they are not being used. Regardless of the remaining tread, we recom mend that tires be replaced after approximately six (6) years of normal service. Heat caused by hot climate or frequent high loading conditions can accelerate the aging process.
 
 ### Tread wear
-`kia_ev6_en_a800d940` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The tread wear grade is a compara tive rating based on the wear rate of the tire when tested under controlled conditions on a specified government test course. For example, a tire graded 150 would wear one-and-a-half times (1½) as well on the government course as a tire graded 100.
 
 The relative performance of tires depends upon the actual conditions of their use, however, and may depart significantly from the norm due to variations in driving habits, service practices and differences in road characteristics and climate. These grades are molded on the side-walls of passenger vehicle tires. The tires available as standard or optional equipment on your vehicle may vary with respect to grade.
 
 ### Traction AA, A, B & C
-`kia_ev6_en_163c1991` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The traction grades, from highest to lowest, are AA, A, B and C. Those grades represent the tire's ability to stop on wet pavement as measured under controlled conditions on spec ified government test surfaces of asphalt and concrete. A tire marked C may have poor traction performance.
 
 The traction grade assigned to this tire is based on straight-ahead braking traction tests, and does not include acceleration, cornering, hydroplaning, or peak traction characteristics.
 
 ### Temperature -A, B & C
-`kia_ev6_en_178fd275` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The temperature grades are A (the highest), B and C representing the tire's resistance to the generation of heat and its ability to dissipate heat when tested under controlled conditions on a specified indoor laboratory test wheel.
 
 Sustained high temperature can cause the material of the tire to degenerate and reduce tire life, and excessive temperature can lead to sudden tire failure. The grade C corresponds to a level of performance which all passenger vehicle tires must meet under the Federal Motor Vehicle Safety Standard No. 109. Grades B and A represent higher levels of performance on the laboratory test wheel than the minimum required by law.
 
 ### Tire terminology and definitions
-`kia_ev6_en_ed18ddbb` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to the following for detailed definitions of the terms that are found in the tire description.
 
@@ -17373,7 +15373,6 @@ Occupant Distribution Designated seating positions.
 Outward Facing Sidewall The side of a asymmetrical tire that has a particular side that faces outward when mounted on a vehicle. The outward facing sidewall bears white lettering or bears manufacturer, brand, and/or model name molding that is higher or deeper than the same moldings on the inner facing sidewall.
 
 ### Tire terminology and definitions
-`kia_ev6_en_3e00a5e4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Passenger (P-Metric) Tire A tire used on passenger cars and some light duty trucks and multipurpose vehicles.
 
@@ -17410,21 +15409,18 @@ Vehicle Normal Load on the Tire Load on an individual tire that is determined by
 Vehicle Placard A label perma nently attached to a vehicle showing the original equipment tire size and recommended inflation pressure.
 
 ### All season tires
-`kia_ev6_en_6a3b8a8f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Kia specifies all season tires on some models to provide good per formance for use all year round, including snowy and icy road conditions.
 
 All season tires are identified by ALL SEASON and/or M+S (Mud and Snow) on the tire sidewall. Snow tires have better snow traction than all season tires and may be more appropriate in some areas.
 
 ### Summer tires
-`kia_ev6_en_3d69a466` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Kia specifies summer tires on some models to provide superior performance on dry roads.
 
 Summer tire performance is substantially reduced in snow and ice. Summer tires do not have the tire traction rating M+S (Mud and Snow) on the tire side wall. if you plan to operate your vehicle in snowy or icy conditions, Kia recommends the use of snow tires or all season tires on all four wheels.
 
 ### Snow tires
-`kia_ev6_en_086e6884` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you equip your vehicle with snow tires, they should be the same size and have the same load capacity as the original tires.
 
@@ -17434,13 +15430,10 @@ Snow tires should carry 4 psi (28 kPa) more air pressure than the pressure recom
 
 Do not drive faster than 75 mph (120 km/h) when your vehicle is equipped with snow tires.
 
-### WARNING
-`kia_ev6_en_47bc059c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Do not use summer tires at temperatures below 45 °F (7 °C) or when driving on snow or ice. At temperatures below 45 °F (7 °C), summer tires can lose elasticity, and therefore traction and braking power as well. Change the tires on your vehicle to winter or all-weather tires of the same size as the standard tires of the vehicle. Both types of tires are identified by the M+S (Mud and Snow) marking. Using summer tires at very cold temperatures could cause cracks to form, thereby damaging the tires permanently.
+> ⚠️ **Внимание:** 
+> Do not use summer tires at temperatures below 45 °F (7 °C) or when driving on snow or ice. At temperatures below 45 °F (7 °C), summer tires can lose elasticity, and therefore traction and braking power as well. Change the tires on your vehicle to winter or all-weather tires of the same size as the standard tires of the vehicle. Both types of tires are identified by the M+S (Mud and Snow) marking. Using summer tires at very cold temperatures could cause cracks to form, thereby damaging the tires permanently.
 
 ### Tire chains
-`kia_ev6_en_f57ac80c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Tire chains, if necessary, should be installed on the rear wheels.
 
@@ -17457,7 +15450,6 @@ retighten the chains after driving 0.3\~0.6 miles (0.5\~1.0 km).
 Do not use tire chains on vehicles equipped with aluminum wheels. In unavoidable circumstance, use fabric type snow chains.
 
 ### Radial-ply tires
-`kia_ev6_en_83d3efb6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Radial-ply tires provide improved tread life, road hazard resistance and smoother high speed ride.
 
@@ -17466,14 +15458,12 @@ The radial-ply tires used on this vehicle are of belted construction, and are se
 Mixing of radial-ply tires with biasply or bias belted tires is not recommended. Any combinations of radial-ply and bias-ply or bias belted tires when used on the same vehicle will seriously deteriorate vehicle handling. The best rule to follow is: Identica radial-ply tires should always be used as a set of four. Longer wearing tires can be more susceptible to irregular tread wear. It is very important to follow the tire rotation interval shown in this section to achieve the tread life potential of these tires. Cuts and punctures in radial-ply tires are repairable only in the tread area, because of sidewall flexing. Consult your tire dealer for radial-ply tire repairs.
 
 ### Low aspect ratio tire (if equipped)
-`kia_ev6_en_8fc017cf` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Low aspect ratio tires, whose aspect ratio is lower than 50, are provided for sporty looks.
 
 Because the low aspect ratio tires are optimized for handling and braking, it may be more uncomfortable to ride in and there is more noise compare with normal tires.
 
 ### ！ CAUTION
-`kia_ev6_en_1454b652` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Because the sidewall of the low aspect ratio tire is shorter than the normal, the wheel and tire of the low aspect ratio tire is easier to be damaged. So, follow the instructions below.
 
@@ -17489,7 +15479,6 @@ pressure every 1,900 miles (3,000 km).
 It is not easy to recognize the tire damage with your own eyes. But if there is the slightest hint of tire damage, even though you cannot see the tire damage with your own eyes, have the tire checked or replaced because the tire damage may cause air leakage from the tire. If the tire is damaged by driving on a rough road, off road, pothole, manhole, or curb stone, it will not be covered by the warranty. You can find out the tire information on the tire sidewall.
 
 ### Fuses
-`kia_ev6_en_31b0ad6b` | ev6 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 A vehicle's electrical system is protected from electrical overload damage by
 
@@ -17502,50 +15491,41 @@ If any of your vehicle's lights, accesso ries, or controls do not work, check th
 If the electrical system does not work, first check the driver's side fuse panel. If the replacement fuse blows, this indicates an electrical problem. Avoid using the system involved and immediately consult an authorized Kia dealer. Three kinds of fuses are used: blade type for lower amperage rating, cartridge type, and multi fuse for higher amperage ratings.
 
 ### Fuse Replacement
-`kia_ev6_en_8643f7bd` | ev6 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Never replace a fuse with anything but another fuse of the same rating. A higher capacity fuse could cause damage and possibly a fire. Never install a wire or aluminum foil instead of the proper fuse even as a temporary repair. It may cause extensive wiring damage and a possible fire. Do not arbitrarily modify or add-on electric wiring to the vehicle.
 
 ### ！ CAUTION
-`kia_ev6_en_30df15ae` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not use a screwdriver or any other metal object to remove fuses because it may cause a short circuit and damage the system.
 
 ### \* NOTICE
-`kia_ev6_en_9e053f96` | ev6 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 When replacing a fuse, change the EV button to the OFF position and turn off switches of all electrical devices; then remove the battery (-) terminal. The actual fuse/relay panel label may differ from equipped items.
 
 ### Electrical Fire
-`kia_ev6_en_95409137` | ev6 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Always ensure replacement fuses and relays are securely fastened when installed. Failure to do so can result in a vehicle fire.
 
 Do not remove fuses, relays and terminals fastened with bolts or nuts. The fuses, relays and terminals may be fastened incompletely, and it may cause a possible fire. If fuses, relays and terminals fastened with bolts or nuts are blown, we recommend that you consult with an authorized Kia dealer.
 
 ### ！ CAUTION
-`kia_ev6_en_d744e2be` | ev6 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 When replacing a blown fuse or relay, make sure the new fuse or relay fits tightly into the clips. Failure to tightly install the fuse or relay may cause damage to the wiring and electric systems.
 
 ### ！ CAUTION
-`kia_ev6_en_dad16759` | ev6 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Do not input any other objects except fuses or relays into fuse/relay terminals, such as a screwdriver or wiring. It may cause contact failure and system malfunction.
 Do not plug in screwdrivers or aftermarket wiring into the terminal originally designed for fuses and relays only. The electrical system and wiring of the vehicle interior may be damaged or burned due to contact failure. If you directly connect the wire on the taillight or replace the bulb which is over the regulated capacity to install trailers etc., the inner junction block can get burned.
 
 ### Electrica Wiring Repairs
-`kia_ev6_en_e8ba4d5e` | ev6 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 All electrical repairs should be performed by an authorized Kia dealership using approved Kia parts. Using other wiring components, especially when retrofitting multimedia or theft alarm system, car phone or radio may cause vehicle damage and increase the risk of a vehicle fire.
 
 ### Rewiring Prohibited
-`kia_ev6_en_a4ac7408` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not rewire your vehicle in any way as doing so may affect the performance of several safety features in your vehicle. Rewiring your vehicle may also void your warranty and cause you to be responsi ble for any subsequent vehicle damage which may result.
 
 ### Replacing inner panel fuse
-`kia_ev6_en_1a5d6cbb` | ev6 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 1. Press the EV button to OFF position and turn off all the vehicle electrical devices. 2. Open the fuse panel cover.
 
@@ -17566,12 +15546,10 @@ If you do not have a spare, use a fuse of the same rating from a circuit you may
 If the head lamp, turn signal lamp, stop signal lamp, DRL, tail lamp, HMSL do not work and the fuses are OK, check the fuse panel in the motor compartment. If a fuse is blown, it must be replaced.
 
 ### \* NOTICE
-`kia_ev6_en_8d458efa` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the headlamp, turn signal lamp, or tail lamp malfunctions even without any problem to the lamps, have the vehicle checked by an authorized Kia dealer for assistance.
 
 ### Replacing motor compartment fuse
-`kia_ev6_en_19f3ba23` | ev6 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 1. Press the EV button to OFF position and turn off all the vehicle electrical devices.
 2. Remove the fuse panel cover by pressing the tab and pulling the cover up.
@@ -17580,13 +15558,10 @@ If the headlamp, turn signal lamp, or tail lamp malfunctions even without any pr
 
 3. Check the removed fuse; replace it if is blown. To remove or insert the fuse, use the fuse puller in the motor compartment fuse panel. 4. Push in a new fuse of the same rating, and make sure it fits tightly in the clips. If it fits loosely, consult an authorized Kia dealer.
 
-### CAUTION
-`kia_ev6_en_8c4ef2ef` | ev6 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
-
-Always securely install the fuse panel cover in the motor compartment to protect against electrical failure which may occur from water contact. Listen for the audible clicking sound to ensure fuse panel cover is securely fastened.
+> ⚠️ **Внимание:** 
+> Always securely install the fuse panel cover in the motor compartment to protect against electrical failure which may occur from water contact. Listen for the audible clicking sound to ensure fuse panel cover is securely fastened.
 
 ### Multi fuse
-`kia_ev6_en_44eaa4c6` | ev6 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 ![](images/b328bee87dbaa2e69868d4406b0301610dfec285a0af2ad0b23fe0d3a7c29361.webp)
 
@@ -17599,12 +15574,10 @@ If the multi fuse is blown, it must be removed as follows:
 5. Reverse these steps to reinstall the multi fuse.
 
 ### \* NOTICE
-`kia_ev6_en_3b630981` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not disassemble nor assemble the multi fuse when it is secured with nuts and bolts. Incorrect or partial assembly torque may cause a fire. Have the vehicle checked by an authorized Kia dealer.
 
 ### Main fuse
-`kia_ev6_en_b178eb41` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/db4d9e94e5bae2e3e7eee73f4397c7840b3af0cbb91d604c61056715390a43a4.webp)
 
@@ -17617,23 +15590,18 @@ If the main fuse is blown, it must be removed as follows:
 5. Reverse these steps to reinstall the multi fuse.
 
 ### \* NOTICE
-`kia_ev6_en_19a3e1bd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The electronic system may not function correctly even when the motor compart ment and internal fuse box's individual fuses are not disconnected. In such a case, the cause of the problem may be disconnection of the main fuse (BFT type), which is located inside the positive battery terminal (+) cap.
 Since the main fuse is designed more intricately than other parts, have the vehicle checked by an authorized Kia dealer.
 
-### CAUTION
-`kia_ev6_en_89eba7cd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Visually inspect the battery cap for secure closing. If the battery cap is not securely latched, the electrical system may be damaged to due influx of moisture into the system.
+> ⚠️ **Внимание:** 
+> Visually inspect the battery cap for secure closing. If the battery cap is not securely latched, the electrical system may be damaged to due influx of moisture into the system.
 
 ### Fuse/relay panel description
-`kia_ev6_en_7d574af7` | ev6 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Inside the fuse/relay panel covers, you can find the fuse/relay label describing fuse/relay name and capacity.
 
 ### \* NOTICE
-`kia_ev6_en_8d8d377c` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Not all fuse panel descriptions in this manual may be applicable to your vehicle. It is accurate at the time of printing. When you inspect the fuse panel in your vehicle, refer to the fuse panel label on the inside of the fuse cover. This diagram will provide you with the specific information for your vehicles.
 
@@ -17644,7 +15612,6 @@ HILK AFCU 100 A/BAG L MEMORY A START 5A HEATER TALGATE 5 A EPCU 0 MOOULEOLUSTERS
 ![](images/8bd502bc1b9531f3d2b77b6a90e921befcbe86fa7aa5c793666e225167ed657c.webp)
 
 ### ICU Junction Block
-`kia_ev6_en_0a6f68f6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to the following table for a description of the fuse.
 
@@ -17653,59 +15620,50 @@ Refer to the following table for a description of the fuse.
 ![](images/721142fe0ebd534b9b49d8ba99d9a0dbc9b9d8100e8c579c7086162fde238496.webp)
 
 ### Motor compartment fuse panel
-`kia_ev6_en_7bea053a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 ![](images/6ebb047e719404911c5b546b84d40042f5cec6a0a9a3cb3aaf1263dda781f892.webp)
 
 ![](images/dc7aac68046b7c08737011babab9e03779661ab88e3f177799d6426d7c3998b0.webp)
 
 ### P/R Junction Block
-`kia_ev6_en_d90ee780` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to the following table for a description of the fuse.
 
 ![](images/cf66de28d7a39d6b3929c5b5053b4dd8090204c58000ca816de35a84f4db3bd9.webp)
 
 ### PCB Block
-`kia_ev6_en_645d0283` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to the following table for a description of the fuse.
 
 ![](images/0f7bac556555986ce397de7510b9e833218c61e6a463752d8c97c8a8343f75e8.webp)
 
 ### Relay
-`kia_ev6_en_687d1c70` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Refer to the following table for a description of the fuse.
 
 ![](images/6d201459cbace1591d75a0a10fff6c3b506a7233ea40d29f446203f9e6de477b.webp)
 
 ### Light bulbs
-`kia_ev6_en_316faf4b` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Light bulbs are installed in various parts of the vehicle to provide lighting inside and outside the vehicle as well as to alert other vehicles.
 
 ### Bulb replacement precaution
-`kia_ev6_en_476a9c5e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Please keep extra bulbs on hand with appropriate wattage ratings in case of emergencies.
 
 Refer to "Bulb wattage" on page 9-3. When changing lamps, first turn off the vehicle at a safe place, firmly apply the parking brake and detach the battery's negative (-) terminal.
 
 ### Working on the Lights
-`kia_ev6_en_06ea802b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Prior to working on the light, firmly apply the parking brake, ensure that the vehi cle EV button is in the OFF position and turn off the lights to avoid sudden movement of the vehicle and burning your fingers or receiving an electric shock.
 
 Use only bulbs of the specified wattage.
 
 ### Light Replacement
-`kia_ev6_en_ce07c0fb` | ev6 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 Be sure to replace the burned-out bulb with one of the same wattage rating. Otherwise, it may cause damage to the fuse or electric wiring system.
 
 ### \* NOTICE
-`kia_ev6_en_44f9f3da` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the light bulb or lamp connector is removed while the lamp is still on, the fuse box's electronic system may log it as a malfunction. Therefore, a lamp malfunction incident may be recorded as a Diagnostic Trouble Code (DTC) in the fuse box.
 
@@ -17714,12 +15672,10 @@ t is normal for an operating lamp to flicker momentarily. This is due to a stabi
 However, if the lamp continues to flicker several times or turns off completely, there may be an error in the vehicle's electronic control device. Please have the vehicle checked by an authorized Kia dealer immediately.
 
 ### \* NOTICE
-`kia_ev6_en_24b97216` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 We recommend that the headlight aiming be adjusted by an authorized Kia dealer after an accident or after the headlight assembly is reinstalled.
 
 ### \* NOTICE
-`kia_ev6_en_2823c886` | ev6 | pdf_manual | tier:4 | lang:en | layer:electrical | p:1 | doc_type:service_manual
 
 You can find moisture inside the lens of lamps after a car wash or driving in the rain. It is a natural event caused by the temperature difference between the inside and the outside of the lamp and does not mean a problem with its functions. The moisture inside the lamp would disappear if you drive the vehicle with the headlamp turned on; however, the level at which the moisture is removed may differ depending on the size/location/condition of the lamp. If the moisture continues to stay inside the
 
@@ -17732,7 +15688,6 @@ Removing/installing the headlamp assembly can result in damage to the vehicle. I
 Do not install extra lamps or LEDs to the vehicle. If additional lights are installed, it may lead to lamp malfunctions and flickering. Additionally, the fuse box and other wiring may be damaged.
 
 ### Light position (Front)
-`kia_ev6_en_cc72633b` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Head lamp
 
@@ -17752,7 +15707,6 @@ The LED lamps cannot be replaced as a single unit because it is an integrated un
 A skilled technician should check or repair the LED lamp, or it may damage related parts of the vehicle.
 
 ### Light position (Rear)
-`kia_ev6_en_527cd35c` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 Type A
 
@@ -17767,7 +15721,6 @@ Type A
 7 License plate lamp (LED type)
 
 ### Replacing lights (LED type, except glove box lamp)
-`kia_ev6_en_e463c12d` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 If the LED lamp does not operate, have the system inspected by an authorized Kia dealer.
 
@@ -17776,7 +15729,6 @@ The LED lamps cannot be replaced as a single unit because it is an integrated un
 A skilled technician should check or repair the LED lamp, for it may damage related parts of the vehicle.
 
 ### Side repeater lamp replacement
-`kia_ev6_en_5c881b0d` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 ![](images/7d8d380db85c7c98d705d7112309b2cfe315b70a493e9051c1e78d69fc730759.webp)
 
@@ -17787,7 +15739,6 @@ The LED lamps cannot be replaced as a single unit because it is an integrated un
 A skilled technician should check or repair the LED lamp, for it may damage related parts of the vehicle.
 
 ### High mounted stop lamp (LED type) replacement
-`kia_ev6_en_400182ba` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 ![](images/4434c7261053febbee5c083f3b58b57e1231634787533d28b288012a83532f57.webp)
 
@@ -17798,7 +15749,6 @@ The LED lamps cannot be replaced as a single unit because it is an integrated un
 A skilled technician should check or repair the LED lamp, for it may damage related parts of the vehicle.
 
 ### Glove box lamp (Bulb type) replacement
-`kia_ev6_en_0976a5b2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 日
 
@@ -17809,33 +15759,26 @@ A skilled technician should check or repair the LED lamp, for it may damage rela
 5. Install the cover to the lamp assembly.
 6. Install the lamp assembly to interior.
 
-### WARNING
-`kia_ev6_en_f9727506` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
-
-Prior to working on the Interior lamps, ensure that the "OFF" button is depressed to avoid burning your fingers or receiving an electric shock.
+> ⚠️ **Внимание:** 
+> Prior to working on the Interior lamps, ensure that the "OFF" button is depressed to avoid burning your fingers or receiving an electric shock.
 
 ### Appearance care
-`kia_ev6_en_8ee0c1f2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Use the information in the following sections to keep the exterior and interior of your vehicle clean.
 
 ### Exterior care
-`kia_ev6_en_e5f55e81` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Use the information in the following sections to maintain the exterior of your vehicle. Keeping the exterior clean is not only aesthetically pleasing, but it also helps to prolong the life of the vehicle.
 
 ### \* NOTICE
-`kia_ev6_en_d96ef462` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 If you park the vehicle around a stainless steel signboard or building windshield etc., the plastic exterior trim (bumper, spoiler, garnish, lamp, outside mirror etc.) may be damaged by reflected sunlight from the external structure. To avoid damaging the plastic exterior trim, park the vehicle away from the areas where the reflected light may occur or use a vehicle cover (Depending on the vehicle, the type of exterior trim applied such as spoiler may differ).
 
 ### Exterior general caution
-`kia_ev6_en_ba2155e3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 It is very important to follow the label directions when using any chemical cleaner or polish. Read all warning and caution statements that appear on the label.
 
 ### Washing
-`kia_ev6_en_8a3fe1e3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To help protect your vehicle's finish from rust and deterioration, wash it thoroughly and frequently at least once a month with lukewarm or cold water. If you use your vehicle for off-road driving, you should wash it after each offroad trip. Pay special attention to the removal of any accumulation of salt, dirt, mud, and other foreign materials. Make sure the drain holes in the lower edges of the doors and rocker panels are kept clear and clean.
 
@@ -17848,7 +15791,6 @@ After washing, rinse the vehicle thoroughly with lukewarm or cold water. Do not 
 After washing the vehicle, test the brakes while driving slowly to see if they have been affected by water. If braking performance is impaired, dry the brakes by applying them lightly while maintaining a slow forward speed.
 
 ### ！ CAUTION
-`kia_ev6_en_abe4c0f4` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 Do not use strong soap, chemical
 detergents or hot water, and do not wash the vehicle in direct sunlight or when the body of the vehicle is warm. Be careful when washing the side windows of your vehicle, especially with high-pressure water. Water may leak through the windows and wet the
@@ -17858,7 +15800,6 @@ parts and lamps, do not clean with chemical solvents or strong deter
 gents.
 
 ### High-pressure washing
-`kia_ev6_en_0308b047` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When using high-pressure washers, make sure to maintain sufficient distance from the vehicle.
 
@@ -17869,12 +15810,10 @@ Do not spray the camera, sensors or its surrounding area directly with a high pr
 Do not bring the nozzle tip close to boots (rubber or plastic covers) or connectors as they may be damaged if they come into contact with high pressure water.
 
 ### ！ WARNING
-`kia_ev6_en_adc879c4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 After washing the vehicle, test the brakes while driving slowly to see if they have been affected by water. I braking performance is impaired, dry the brakes by applying them lightly while maintaining a slow forward speed.
 
 ### Wetting motor compartment
-`kia_ev6_en_724b83ca` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 ![](images/c6aa78f84a6bfe9bdf4114125575ee8b0be325f9adfee86ec5182986af07cb2d.webp)
 
@@ -17883,46 +15822,38 @@ Water washing in the motor compart ment including high pressure water washing ma
 To prevent damage to the charging door, make sure to close and lock the vehicle doors when washing (highpressure washing, automatic car washing, etc.) the vehicle.
 
 ### Matte paint finish vehicle (if equipped)
-`kia_ev6_en_69725359` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Automatic car wash which uses rotating brushes should not be used as this can damage the surface of your vehicle. A steam cleaner which washes the vehicle surface at high temperature may cause the oil to adhere and leave stains that are difficult to remove.
 
 Use a soft cloth (e.g. microfiber towel or sponge) when washing your vehicle and dry with a microfiber towel. When you hand wash your vehicle, you should not use a cleaner that finishes with wax.
 
 ### Waxing
-`kia_ev6_en_a4f53777` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Wax the vehicle when water will no longer bead on the paint.
 
 Always wash and dry the vehicle before waxing. Use a good quality liquid or paste wax, and follow the manufacturer's instructions. Wax all metal trim to protect it and to maintain its luster. Removing oil, tar, and similar materials with a spot remover will usually strip the wax from the finish. Be sure to re-wax these areas even if the rest of the vehicle does not yet need waxing.
 
 ### Drying vehicle
-`kia_ev6_en_2485798c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Wiping dust or dirt off the body with a dry cloth will scratch the finish. Do not use steel wool, abrasive cleaners, acid detergents or strong detergents containing high alkaline or caustic agents on chrome-plated or anodized aluminum parts. This may result in damage to the protective coating and cause discoloration or paint deterioration.
 
 ### Matte paint finish vehicle (if equipped)
-`kia_ev6_en_6ddfb679` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not use any polish protector such as a detergent, an abrasive or a polish. In case wax is applied, remove the wax immediately using a silicon remover and if any tar or tar contaminant is on the surface use a tar remover to clean. However, be careful not to apply too much pressure on the painted area.
 
 ### Finish damage repair
-`kia_ev6_en_1209bc0e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Deep scratches or stone chips in the painted surface must be repaired promptly. Exposed metal will quickly rust and may develop into a major repair expense.
 
 ### \* NOTICE
-`kia_ev6_en_21c0236d` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If your vehicle is damaged and requires any metal repair or replacement, be sure the body shop applies anti-corrosion materials to the parts repaired or replaced.
 
 ### Matte paint finish vehicle (if equipped)
-`kia_ev6_en_eddce339` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 In case of matte paint finish vehicles, it is impossible to modify only the damaged area and repair of the whole part is necessary. If the vehicle is damaged and painting is required, have your vehicle maintained and repaired by an authorized Kia dealer. Take extreme care, as it is difficult to restore the quality after the repair.
 
 ### Bright-metal maintenance
-`kia_ev6_en_a566c6ec` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To remove road tar and insects, use a tar remover, not a scraper or other sharp object.
 
@@ -17931,7 +15862,6 @@ To protect the surfaces of bright metal parts from corrosion, apply a coating of
 During winter weather or in coastal areas, cover the bright metal parts with a heavier coating of wax or preservative. If necessary, coat the parts with non-corrosive petroleum jelly or other protective compound.
 
 ### Underbody maintenance
-`kia_ev6_en_7f7073d1` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Road salt and other corrosive chemicals are used in cold weather states to melt snow and prevent ice accumulation. If these chemicals are not regularly removed, they will corrode the vehicle underbody and over time damage the vehicle suspension, and even the body frame.
 
@@ -17940,7 +15870,6 @@ The National Highway Traffic Safety Administration has warned all vehicle owners
 Wash the undercarriage of your vehicle regularly during the winter and whenever your vehicle has been exposed to such salts or chemicals. Do a thorough washing of the undercarriage at the end of the winter. Use professional service technicians or governmental inspection stations to annually inspect for corrosion. Immediately seek an inspection of your vehicle if you become visually aware of corrosion flaking or scaling or if you become aware of a change in vehicle performance, such as soft or spongy brakes, fluids leaking, impairment of directional control, suspension noises or rattling metal straps.
 
 ### Aluminum wheel maintenance
-`kia_ev6_en_13acdcb5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The aluminum wheels are coated with a clear protective finish.
 
@@ -17950,12 +15879,10 @@ Avoid washing the wheels with highspeed vehicle wash brushes.
 Do not use any alkaline or acid detergents It may damage and corrode the aluminum wheels coated with a clear protective finish.
 
 ### Protecting your vehicle from corrosion
-`kia_ev6_en_e46a55b7` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 By using the most advanced design and construction practices to combat corro sion, we produce vehicles of the highest quality. However, this is only part of the job. To achieve the long-term corrosion resistance your vehicle can deliver, the owner's cooperation and assistance is also required.
 
 ### Common causes of corrosion
-`kia_ev6_en_996badf2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The most common causes of corrosion on your vehicle are:
 
@@ -17963,12 +15890,10 @@ Road salt, dirt and moisture that is allowed to accumulate underneath the vehicl
 Removal of paint or protective coatings by stones, gravel, abrasion or minor scrapes and dents which leave unprotected metal exposed to corro sion.
 
 ### High-corrosion areas
-`kia_ev6_en_217803f6` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you live in an area where your vehicle is regularly exposed to corrosive materials, corrosion protection is particularly important. Some of the common causes o accelerated corrosion are road salts, dust control chemicals, ocean air and industrial pollution.
 
 ### Moisture breeds corrosion
-`kia_ev6_en_9be618cc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Moisture creates the conditions in which corrosion is most likely to occur. For example, corrosion is accelerated by high humidity, particularly when temperatures are just above freezing. In such conditions, the corrosive material is kept in contact with the vehicle's surface by moisture that evaporates slowly.
 
@@ -17977,7 +15902,6 @@ Mud is particularly corrosive because it dries slowly and holds moisture in con 
 High temperatures can also accelerate corrosion of parts that are not properly ventilated so the moisture can be dispersed. For all these reasons, it is particularly important to keep your vehicle clean and free of mud or accumulations of other materials. This applies not only to the visible surfaces but particularly to the underside of the vehicle.
 
 ### Keep your vehicle clean
-`kia_ev6_en_70e37d7f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The best way to prevent corrosion is to keep your vehicle clean and free of corrosive materials. Attention to the underside of the vehicle is particularly important.
 
@@ -17990,41 +15914,34 @@ removing accumulated mud and corro sive materials.
 When cleaning lower door panels, rocker panels and frame members, be sure that drain holes are kept open so that moisture can escape and not be trapped inside to accelerate corrosion.
 
 ### Keep your garage dry
-`kia_ev6_en_9f54e8e5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Don't park your vehicle in a damp, poorly ventilated garage. This creates a favorable environment for corrosion. This is particularly true if you wash your vehicle in the garage or drive it into the garage when it is still wet or covered with snow, ice or mud. Even a heated garage can contribute to corrosion unless it is well ventilated so moisture is dispersed.
 
 ### Keep paint and trim in good con dition
-`kia_ev6_en_de95e8b5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Scratches or chips in the finish should be covered with "touch-up" paint as soon as possible to reduce the possibility of corrosion. If bare metal is showing through, the attention of a qualified body and paint shop is recommended.
 
 Bird droppings: Bird droppings are highly corrosive and may damage painted surfaces in just a few hours. Always remove bird droppings as soon as possible.
 
 ### Don't neglect the interior
-`kia_ev6_en_8299f8f3` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Moisture can collect under the floor mats and carpeting and cause corrosion. Check under the mats periodically to be sure the carpeting is dry. Use particular care if you carry fertilizers, cleaning materials or chemicals in the vehicle.
 
 These should be carried only in proper containers and any spills or leaks should be cleaned up, flushed with clean water and thoroughly dried.
 
 ### Interior general precautions
-`kia_ev6_en_9cb40804` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Prevent chemicals such as perfume, cosmetic oil, sun cream, hand cleaner, and air freshener from contacting the interior parts because they may cause damage or discoloration. If they do contact the interior parts, wipe them off immediately. If necessary, use a vinyl cleaner, see product instructions for correct usage.
 
 ### Electrical components
-`kia_ev6_en_58feff55` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Never allow water or other liquids to come in contact with electrical/electronic components inside the vehicle as this may damage them.
 
 ### Leather
-`kia_ev6_en_788af358` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 When cleaning leather products (steering wheel, seats etc.), use neutral detergents or low alcohol content solutions. If you use high alcohol content solutions or acid/alkaline detergents, the color of the leather may fade or the surface may get stripped off.
 
 ### Taking care of leather seats
-`kia_ev6_en_64b84776` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Vacuum the seat periodically to
 remove dust and sand on the seat. It will prevent abrasion or damage of the leather and maintain its quality. Wipe the natural leather seat cover often with dry or soft cloth.
@@ -18034,7 +15951,6 @@ cream beige) is easily contaminated and clear in appearance. Clean the seats fre
 Avoid wiping with wet cloth. It may cause the surface to crack.
 
 ### Cleaning the leather seats
-`kia_ev6_en_819a9fe5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remove all contaminations instantly. Refer to instructions below for removal of each contaminant.
 
@@ -18045,7 +15961,6 @@ Oil Remove oil instantly with absorbable cloth and wipe with stain remover for n
 Chewing gum Harden the gum with ice and remove gradually.
 
 ### Fabric seat cover (if equipped)
-`kia_ev6_en_ce637e3e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Please clean the fabric seats regularly with a vacuum cleaner in consideration of fabric material characteristics. If they are heavily soiled with beverage stains, etc., use a suitable interior cleaner. To prevent damage to seat covers, wipe off the seat covers down to the seams with a large wiping motion and moderate pressure using a soft sponge or microfiber cloth.
 
@@ -18054,41 +15969,34 @@ Velcro closures on clothing or sharp objects may cause snagging or scratches on 
 Make sure not to rub such objects against the surface.
 
 ### Vinyl
-`kia_ev6_en_e69282ef` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remove dust and loose dirt from vinyl with a whisk broom or vacuum cleaner. Clean vinyl surfaces with a vinyl cleaner.
 
 ### Fabric
-`kia_ev6_en_ba78a60f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Remove dust and loose dirt from fabric with a whisk broom or vacuum cleaner. Clean with a mild soap solution recom mended for upholstery or carpets. Remove fresh spots immediately with a fabric spot cleaner. If fresh spots do not receive immediate attention, the fabric can be stained and its color can be affected. Also, its fire-resistant properties can be reduced if the material is not properly maintained.
 
 Using anything but recommended cleaners and procedures may affect the fabric's appearance and fire-resistant properties.
 
 ### Cleaning the lap/shoulder belt webbing
-`kia_ev6_en_c3fe9c3f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Clean the belt webbing with any mild soap solution recommended for cleaning upholstery or carpet. Follow the instructions provided with the soap. Do not bleach or re-dye the webbing because this may weaken it.
 
 ### Cleaning the interior window glass
-`kia_ev6_en_2bb2fe5f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If the interior glass surfaces of the vehicle become fogged (that is, covered with an oily, greasy or waxy film), they should be cleaned with a glass cleaner. Follow the directions on the glass cleaner container.
 
 ### Rear Window
-`kia_ev6_en_7ce8945b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Do not scrape or scratch the inside of the rear window. This may result in damage of the rear window defroster grid.
 
 ### California perchlorate notice
-`kia_ev6_en_df9ca658` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 Perchlorate Material-special handling may apply, See
 https://dtsc.ca.gov/perchlorate
 Notice to California Vehicle Dismantlers: Perchlorate containing materials, such as air bag inflators, seatbelt pre-tensioners and keyless remote entry batteries, must be disposed of according to Title 22 California Code of Regulations Section 67384.10 (a).
 
 ### Specifications, Consumer information and Reporting safety defects
-`kia_ev6_en_ee78feed` | ev6 | pdf_manual | tier:4 | lang:en | layer:hvac | p:1 | doc_type:service_manual
 
 Dimensions 中 .9-2
 Electric vehicle specifications . .9-2
@@ -18112,28 +16020,24 @@ Reporting Safety Defects (U.S. only) 工 □□□□□□□□□□□ 9-13
 Online factory authorized manuals (U.S. only) 9-13
 
 ### Electric vehicle specifications
-`kia_ev6_en_40f3e070` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 OBC: On-Board Battery Chargers
 
 ![](images/e5b5b44f5323f827ba7a216718057455b0fab433f5c1cfc45706d77f4046563f.webp)
 
 ### Tires and wheels
-`kia_ev6_en_5a055769` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 \*1. Load Index \*2. Speed Symbol
 
 ![](images/8152ccd319a475d9501e48441b0736f743e2bffac9a10c0360faa6a1f3adf67d.webp)
 
 ### ！ CAUTION
-`kia_ev6_en_7d209fae` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 When replacing tires, use the same size as those originally supplied with the vehicle.
 
 Using tires of a different size can damage the related parts or make them work irregularly.
 
 ### \* NOTICE
-`kia_ev6_en_26f56bd4` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 It is permissible to add 3 psi to the standard tire pressure specification if colder temperatures are expected
 soon.
@@ -18145,21 +16049,18 @@ Additionally required tire air pressure per km above sea level: 1.5 psi (10.5
 kPa)/km
 
 ### Luggage volume
-`kia_ev6_en_de25a6b2` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 MIN: Behind rear seat MAX: Behind front seat
 
 ![](images/3539ca3c822842549cc43f7d9ab4a0c798c849c2b94eb0023a123594590989e5.webp)
 
 ### Air conditioning system
-`kia_ev6_en_08f08812` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Have your vehicle inspected by an authorized Kia dealer.
 
 ![](images/8047fc06e6ae9e83caf9d1841bc96ab9b691b3e7741650427a4f1f0cdfc87b8e.webp)
 
 ### Recommended lubricants and capacities
-`kia_ev6_en_b9c003ad` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 To help achieve proper vehicle performance and durability, use only lubricants of the proper quality.
 These lubricants and fluids are recommended for use in your vehicle.
@@ -18167,7 +16068,6 @@ These lubricants and fluids are recommended for use in your vehicle.
 ![](images/8f01d0ad722f158375979decdd277a7aa0583aa3b24401c5b951d212361bb49e.webp)
 
 ### Vehicle identification number (VIN)
-`kia_ev6_en_df651717` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The vehicle identification number (VIN) is the number used in registering your vehicle and in all legal matters pertain ing to its ownership, etc.
 
@@ -18182,14 +16082,12 @@ The VIN is also on a plate attached to the top of the dashboard. The number on t
 ![](images/3526be280bf771791d20755ab8d8122f92fa40e1e85b839ba720de39da51a7f7.webp)
 
 ### Vehicle certification label
-`kia_ev6_en_7e993210` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The vehicle certification label attached on the driver's side center pillar gives the vehicle identification number (VIN).
 
 ![](images/b116af3e6bc831906aa4e9954ab41bd8763dc8307c43a816d0cd57c2526c6a53.webp)
 
 ### Tire specification and pressure label
-`kia_ev6_en_0eaadf0b` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The tire label located on the driver's side center pillar gives the tire pressures recommended for your vehicle.
 
@@ -18198,28 +16096,24 @@ The tire label located on the driver's side center pillar gives the tire pressur
 The tires supplied on your new vehicle are chosen to provide the best performance for normal driving.
 
 ### Motor number
-`kia_ev6_en_b56e0721` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The motor number is stamped on the motor block as shown in the drawing. The motor number can be seen from under the vehicle.
 
 ![](images/174ae1b90d84003d461cf7bde3b7ad47b0bb0d0c0f25938cf76e34f982f55011.webp)
 
 ### Air conditioner compressor label
-`kia_ev6_en_ee468128` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 A compressor label informs you of the type of compressor your vehicle is equipped with such as model, supplier part number, production number, refrigerant (1) and refrigerant oil (2).
 
 ![](images/b5c29395adbe26e54e727e483c8448b834b9c85e38f3031e072ebd2e174d2e6d.webp)
 
 ### Refrigerant label
-`kia_ev6_en_88be8f75` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The refrigerant label is located on the underside of the hood.
 
 ![](images/92bef29f4bab5e31a4b9b440611a530ef82ff125563113ec8630cf8a77a0c16e.webp)
 
 ### Precautions for charging AC and Trickle charger (Portable charging cable (sold separately)) (AC char
-`kia_ev6_en_d0503fd9` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. After opening the charging door, check the charging symbol at the bottom of the warning label.
 2. Check the charging connector symbol of the AC and Trickle charger cable.
@@ -18227,7 +16121,6 @@ The refrigerant label is located on the underside of the hood.
 4. Risk of failure, fire, injury, etc. when using the charging connector with unmatched symbol.
 
 ### Precautions for DC charging (DC charging)
-`kia_ev6_en_06d78d8a` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 1. After opening the charging door, check the charging symbol at the bottom of the warning label.
 2. Check the charging connector symbol at the high speed charging station.
@@ -18235,7 +16128,6 @@ The refrigerant label is located on the underside of the hood.
 4. Risk of failure, fire, injury, etc. expected when using the charging connector with unmatched symbol.
 
 ### Electric charging label
-`kia_ev6_en_8e48dce1` | ev6 | pdf_manual | tier:4 | lang:en | layer:fuel_ev | p:1 | doc_type:service_manual
 
 ![](images/b5ae722e0fd409a215d9a05b7f86935e68b7bedb60075f42cfd89c7208072436.webp)
 
@@ -18252,7 +16144,6 @@ The electric charging label is attached on the charging door.
 5\~7: Symbols for charging type. For further details, refer to "Electric charging label symbol table" on page 9-9.
 
 ### Electric charging label symbol table
-`kia_ev6_en_8224c548` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 AC and Trickle charger charging
 
@@ -18262,21 +16153,18 @@ DC charging
 ![](images/95278523d9a5bcf639bd53c9c1c983d92b4518c9b0aa03e49b137095cca67d96.webp)
 
 ### Consumer Assistance (U.S. only)
-`kia_ev6_en_e2ed7257` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Roadside Assistance is provided on all new current model year Kia Vehicles from the date the vehicle is delivered to the first retail buyer or otherwise put into use (inservice date), whichever is earlier, for a period of 60 months or 60,000 miles, whichever is earlier, subject to the terms, conditions and exclusions set forth in the Kia Warranty and Consumer Information Manual applicable to your model year vehicle.
 
 Kia America, Inc. reserves the right to limit or deny services or other benefits to any owner or driver when, in Kia America, Inc.'s judgment, the claims and/or service requests are excessive in frequency or type of occurrence.
 
 ### Toll free consumer assistance
-`kia_ev6_en_2719624e` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 from 5:00 AM to 6:00 PM PST, Monday through Friday and is accessible by dialing 1-800-333-4Kia (4542).
 
 For more information regarding assistance available, please refer to your Kia Warranty & Consumer Information Manual.
 
 ### Emergency roadside assistance
-`kia_ev6_en_fa68edb8` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 hours a day, 365 days a year and is accessible by dialing 1-800-333-4Kia (4542).
 
@@ -18289,19 +16177,16 @@ In the event that mechanical difficulty renders your vehicle undriveable due to 
 Your vehicle must be accessible to our dispatch transport vehicle, as determined by our driver, to receive this service.
 
 ### \* NOTICE
-`kia_ev6_en_5d65a899` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Roadside Assistance benefits are not available for any Kia vehicle that has ever been or should have been issued a "salvage" title or similar "branded" title under any state's law, or has been declared a "total loss" or equivalent by a financial institution or insurance company.
 
 ### Trip interruption
-`kia_ev6_en_40a70491` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 Trip interruption expense benefits are provided in the event that a warrantyrelated disablement occurs more than 150 miles from your home, and the repairs require more than 24 hours to complete. Reasonable reimbursement is included for meals, lodging, or rental vehicle expenses. Trip interruption coverage is limited to \$100 per day subject to a three day maximum limit per incident. You must contact the Kia Roadside Assistance Center to obtain pre-authorization of expenses. Once the Kia Roadside Assistance Center gives authorization for trip interruption benefits, they will assist you in making the necessary arrangements. Insurance deductibles, expenses, and claims paid by your insurance company or other providers are not eligible for reimburse ment.
 
 Fleet vehicles are excluded from reimbursement under Kia's Trip Interruption Policy.
 
 ### Registering your vehicle in a foreign country
-`kia_ev6_en_a0782fec` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you plan to register your vehicle in a foreign country, you should confirm that it conforms to the regulations in that country. Even if you successfully register the vehicle in a foreign country, you may experience the following problems and should therefore consider the possibility of having to deal with them:
 
@@ -18316,7 +16201,6 @@ under your New Vehicle Emissions Limited Warranty.
 Further, we cannot assume any responsibility for problems that result from unsatisfactory service or lack of service outside of the United States.
 
 ### Electrical Equipment (U.S. only)
-`kia_ev6_en_2c706383` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 The electrical system of your vehicle is designed to perform under all reason ably expected operating conditions.
 
@@ -18327,7 +16211,6 @@ Certain electrical equipment, or the way in which it is installed, may adversely
 We assume no responsibility for any expense you may incur or for any malfunction of your vehicle or any of its components or systems that may result from the installation of additional electrical equipment that is not supplied, or recommended for installation by, Kia.
 
 ### Installation of a mobile two-way radio system
-`kia_ev6_en_1ab94c83` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If a mobile two-way radio system is installed improperly, or if an excessively powerful type of system is used, other electronic systems may be adversely affected. To avoid damage to your vehicle, consult an Authorized Kia Dealer concerning the proper equipment and installation.
 
@@ -18341,24 +16224,20 @@ Irvine, CA 92619-2410
 1-800-333-4Kia (4542)
 
 ### Reporting Safety Defects (U.S. only)
-`kia_ev6_en_4a126ebc` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 If you believe that your vehicle has a defect which could cause a crash or could cause injury or death, you should immediately inform the National Highway Traffic Safety Administration (NHTSA) in addition to notifying Kia America, Inc. If NHTSA receives similar complaints, it may open an investigation, and if it finds that a safety defect exists in a group of vehicles, it may order a recall and remedy cam paign. However, NHTSA cannot become involved in individual problems between you, your dealer, or Kia America, Inc.
 
 To contact NHTSA, you may call the Vehicle Safety Hotline toll-free at 1- 888-327-4236 (TTY: 1-800-424- 9153); go to http://www.safercar.gov; download the SaferCar mobile application; or write to: Administrator, NHTSA, 1200 New Jersey Ave. SE., Washington, DC 20590. You can also obtain other information about motor vehicle safety from http://www.safercar.gov.
 
 ### Service manual
-`kia_ev6_en_4c568833` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This manual covers maintenance and recommended procedures for repair to engine and chassis components. It is written for the Journeyman mechanic, but is simple enough for most mechanically inclined owners to understand.
 
 ### Electrical troubleshooting manual
-`kia_ev6_en_79e454bd` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 This manual complements the Service Manual by providing indepth troubleshooting information for each electrical circuit in your vehicle.
 
 ### Abbreviation
-`kia_ev6_en_d05d5d04` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 ABS Anti-lock Brake System
 
@@ -18419,7 +16298,6 @@ NHTSA National Highway Traffic Safety Administration
 MIL Malfunction Indicator Lamp
 
 ### Abbreviation
-`kia_ev6_en_c2449f5f` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 MMT Methylcyclopentadienyl Manganese Tricarbonyl
 
@@ -18454,7 +16332,6 @@ TPMS Tire Pressure Monitoring System
 VCU Vehicle Control Unit
 
 ### Numerics 12v battery
-`kia_ev6_en_dc2f6df6` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 8-17
 A
@@ -18501,7 +16378,6 @@ switchable controller 5-126
 augmented reality HUD 5-87 head-up display information 5-87 head-up display settings 5-87 precautions 5-88 auto defogging system (ADS) 5-114 auto hold 6-28 automatic climate control system 5-101 air conditioning refrigerant label 5-111 checking the amount of air conditioner refrigerant and compressor lubricant 5-111 climate control air filter 5-110 heating and air conditioning automatically 5-102 heating and air conditioning manually 5-104 system operation 5-108 using the infotainment/climate switchable controller 5-102 aux. battery saver+ 1-44
 
 ### battery
-`kia_ev6_en_3207549d` | ev6 | pdf_manual | tier:4 | lang:en | layer:brakes | p:1 | doc_type:service_manual
 
 for best battery service 8-17
 recharging the battery 8-18
@@ -18577,7 +16453,6 @@ coolant 8-11
 lcd display messages (related to electric vehicle) 1-46 power/charge gauge 1-43 state of charge (soc) gauge for high voltage battery 1-44 virtual engine sound system (VESS) 1-40 warning and indicator lights (related to electric vehicle) 1-45
 
 ### E
-`kia_ev6_en_6af7cb4a` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 electric chromic mirror (ECM) 5-52
 electric chromic mirror (ECM)
@@ -18609,7 +16484,6 @@ maintenance items 8-10
 exterior overview 3-2
 
 ### F
-`kia_ev6_en_3e1f97bf` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 flat tire (with tire mobility kit) 7-10
 checking the tire inflation pressure 7-16
@@ -18722,7 +16596,6 @@ settings 6-66
 LCD display 5-67
 
 ### F
-`kia_ev6_en_0c87a5a3` | ev6 | pdf_manual | tier:4 | lang:en | layer:lighting | p:1 | doc_type:service_manual
 
 LCD display control 5-67
 LCD display modes 5-67
@@ -18771,7 +16644,6 @@ M main components of electric vehicle 1-4 high voltage battery warmer system 1-5
 N navigation-based smart cruise control (NSCC) 6-118 limitations 6-121 operation 6-119 settings 6-118
 
 ### O occupant detection system (ODS)
-`kia_ev6_en_62b95fd5` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 odometer 5-65
 online factory authorized
@@ -18788,7 +16660,6 @@ characteristics of electric vehicles 1-3
 owner maintenance 8-6
 
 ### power button
-`kia_ev6_en_3d119155` | ev6 | pdf_manual | tier:4 | lang:en | layer:body | p:1 | doc_type:service_manual
 
 power button position 6-7
 power button position 6-7
@@ -18820,7 +16691,6 @@ operation 6-10
 parking 6-11
 
 ### refrigerant label remote smart parking assist (RSPA)
-`kia_ev6_en_37d1fa9c` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 6-165
 malfunction and limitations 6-183
@@ -18841,7 +16711,6 @@ road warning 7-2
 room lamp 5-97
 
 ### S safe exit assist (SEA)
-`kia_ev6_en_6c6342fd` | ev6 | pdf_manual | tier:4 | lang:en | layer:interior | p:1 | doc_type:service_manual
 
 6 84
 malfunction and limitations 6-87
@@ -18956,7 +16825,6 @@ tire replacement with TPMS 7-9
 tire specification and pressure
 
 ### S safe exit assist (SEA)
-`kia_ev6_en_aa8281bf` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 label 9-6
 tires and wheels 8-19
@@ -18989,7 +16857,6 @@ trailer brakes 6-198
 U unlock charging connector in emergency 1-24 USB charger 5-120 USB port 5-125 using the infotainment/climate switchable controller 5-126 utility mode 1-16
 
 ### V
-`kia_ev6_en_40fa0445` | ev6 | pdf_manual | tier:4 | lang:en | layer:general | p:1 | doc_type:service_manual
 
 vanity mirror lamp 5-98
 vehicle auto-shut off function 6-45
@@ -19008,4 +16875,3 @@ vehicle to load (V2L) 1-10
 vehicle weight 6-208
 
 ![](images/2e525c0a61c1d4ff912b720d45721550c6cb7dddc11231896bdbedb5d28bcff6.webp)
-

@@ -1,20 +1,22 @@
-# Manual: jetour/dashing (1389 chunks)
-<!-- doc_type:owners_manual tier:2 lang:ru -->
+---
+brand: jetour
+model: dashing
+generation: dashing_gen1_2022
+source: kb
+---
+
 
 ### ПРЕДИСЛОВИЕ
-`jetour_dashing_ru_ba85e05c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 Благодарим вас за то, что вы остановили свой выбор на новом автомобиле Jetour.
 Чтобы узнать, как правильно эксплуатировать и обслуживать автомобиль,
 внимательно прочитайте данное руководство.
 
 ### Вся информация и технические характеристики в данном руководстве актуальны
-`jetour_dashing_ru_8cdd4c1b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 на момент печати. Jetour оставляет за собой право вносить изменения в
 конструкцию и технические характеристики в любое время без
 предварительного уведомления.
 
 ### Станция технического обслуживания Jetour эксклюзивно авторизована и
-`jetour_dashing_ru_a6a03d87` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 предоставит вам профессиональные высококачественные услуги. Помните, что
 сервисная станция Jetour лучше всех знает ваш автомобиль и имеет обученных
 техников и оригинальные запасные части и комплектующие, что позволяет
@@ -25,7 +27,6 @@
 маневренность, безопасность и долговечность.
 
 ### В зависимости от комплектации и характеристик вашего автомобиля некоторые
-`jetour_dashing_ru_04a94067` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 описания и иллюстрации могут отличаться от тех, что указаны на вашем
 автомобиле.
 Все данные, описания и иллюстрации, представленные в данном руководстве, не
@@ -34,7 +35,6 @@
 полностью или частично без письменного разрешения Джетур Мотор Рус.
 
 ### Иллюстрированный
-`jetour_dashing_ru_db371be1` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:2 | doc_type:owners_manual
 указатель
 2
 1
@@ -56,7 +56,6 @@
 комплектации
 
 ### Иллюстрированный
-`jetour_dashing_ru_d538c9e5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:3 | doc_type:owners_manual
 указатель 3
 1
 2
@@ -82,7 +81,6 @@
 комплектации
 
 ### AIRBA
-`jetour_dashing_ru_e98456c2` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:4 | doc_type:owners_manual
 1
 2
 3
@@ -118,7 +116,6 @@ R 1   3   5
 комплектации
 
 ### Иллюстрированный
-`jetour_dashing_ru_137bd908` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:4 | doc_type:owners_manual
 указатель
 4
 Иллюстрированный указатель
@@ -132,7 +129,6 @@ P
 6
 
 ### Иллюстрированный
-`jetour_dashing_ru_a6e9a19f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:5 | doc_type:owners_manual
 указатель 5
 Иллюстрированный указатель
 AIRBA
@@ -145,7 +141,6 @@ AIRBA
 7
 
 ### Иллюстрированный
-`jetour_dashing_ru_d85c8e7d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:6 | doc_type:owners_manual
 указатель
 6
 Иллюстрированный указатель
@@ -159,7 +154,6 @@ AIRBA
 7
 
 ### Иллюстрированный
-`jetour_dashing_ru_a13506eb` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:7 | doc_type:owners_manual
 указатель 7
 Содержание
 Содержание  9
@@ -167,22 +161,17 @@ AIRBA
 1-1. Как читать это
 руководство
 
-### Как читать это
-`jetour_dashing_ru_ed9ed8af` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 
 ### Символы в
-`jetour_dashing_ru_f97a85b9` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 1-3. Обкатка нового
 автомобиля
 
 ### Обкатка нового
-`jetour_dashing_ru_3dcdd880` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 1-4. Как сэкономить
 топливо и продлить срок
 службы автомобиля
 
 ### Как сэкономить
-`jetour_dashing_ru_38fecdc9` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 топливо и продлить
 срок службы
 1-5. Меры
@@ -190,19 +179,16 @@ AIRBA
 вождением автомобиля
 
 ### Проверьте вытяжную
-`jetour_dashing_ru_9ddc4077` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 1-6. Меры
 предосторожности при
 вождении по бездорожью
 
 ### Вождение по
-`jetour_dashing_ru_55b48abe` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 1-7. Меры
 предосторожности при
 движении в дождь
 
 ### При движении по
-`jetour_dashing_ru_bece7472` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 скользкому
 дорожному покрытию ...... 10
 Вождение по воде ............. 11
@@ -210,93 +196,75 @@ AIRBA
 при вождении зимой
 
 ### Советы по вождению
-`jetour_dashing_ru_57ab7a07` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 автомобиля в зимних
 Вождение по дороге,
 покрытой льдом и
 
 ### ВОЖДЕНИЮ
-`jetour_dashing_ru_3e88a156` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 2-1. Приборный щиток
 Обзор приборной
 
 ### Регулировка рулевого
-`jetour_dashing_ru_726a589c` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:9 | doc_type:owners_manual
 Содержание
 
 ### Содержание
-`jetour_dashing_ru_ea595da9` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:10 | doc_type:owners_manual
 10
 2-3. Зеркало заднего
 вида
 Салонное зеркало заднего
 
 ### Наружное зеркало
-`jetour_dashing_ru_02b044f7` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:10 | doc_type:owners_manual
 2-4. Система
 стеклоочистителей (при
 наличии)
 
 ### Работа
-`jetour_dashing_ru_703ec2e5` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:10 | doc_type:owners_manual
 стеклоочистителей
 
 ### Работа
-`jetour_dashing_ru_703ec2e5` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:10 | doc_type:owners_manual
 стеклоочистителей
 
 ### Замена щетки
-`jetour_dashing_ru_dece1080` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:10 | doc_type:owners_manual
 стеклоочистителя .............. 35
 2-5. Система освещения
 
 ### Внутреннее
-`jetour_dashing_ru_3723f47f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 освещение
 
 ### Интеллектуальный
-`jetour_dashing_ru_f1d8210b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 ассистент фар (HMA)
 
 ### Инструкции по
-`jetour_dashing_ru_1b5a6c96` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:10 | doc_type:owners_manual
 запотеванию
 2-6. Сиденье
 
 ### Преднатяжитель
-`jetour_dashing_ru_89260fb4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 ремня безопасности
 2-8. Система безопасности
 для детей
 
 ### Система
-`jetour_dashing_ru_77219fd8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 безопасности для
 
 ### Установка
-`jetour_dashing_ru_cde1ad91` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 удерживающей
 системы для ребёнка
 
 ### ФУНКЦИЯ
-`jetour_dashing_ru_8d034c3d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 3-1. Информация о
 ключе
 
 ### Система
-`jetour_dashing_ru_77219fd8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 3-2. Двери
 Переключатель
 
 ### Содержание
-`jetour_dashing_ru_c7a707cd` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 Содержание  11
 Функция
 дистанционного
 управления окном ............. 75
 
 ### Функция от защемления
-`jetour_dashing_ru_47122926` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:11 | doc_type:owners_manual
 стеклоподъемниками  ..... 75
 3-4. Панорамная люк
 (при наличии)
@@ -308,11 +276,8 @@ AIRBA
 3-5. Мультимедийный
 дисплей
 
-### Мультимедийный   дисплей
-`jetour_dashing_ru_f2530f0a` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:11 | doc_type:owners_manual
 
 ### Настройки
-`jetour_dashing_ru_3fab584d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 Подключение мобильного
 телефона (при наличии)..94
 3-6. Система
@@ -320,15 +285,12 @@ AIRBA
 воздуха
 
 ### Система
-`jetour_dashing_ru_181d4c63` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 кондиционирования
 
 ### Система
-`jetour_dashing_ru_181d4c63` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 кондиционирования
 
 ### Определение
-`jetour_dashing_ru_5e4780f6` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:11 | doc_type:owners_manual
 Функция охлаждения
 коробки
 подлокотника на
@@ -338,23 +300,19 @@ AIRBA
 зарядка (при наличии)
 
 ### Беспроводная
-`jetour_dashing_ru_3e170891` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:11 | doc_type:owners_manual
 3-8. Функция записи
 вождения (если
 укомплектован)
 
 ### Функция записи   вождения
-`jetour_dashing_ru_ac298f15` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 3-9. Пространство для
 хранения
 
 ### Пространство для
-`jetour_dashing_ru_0f1d3ac8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 3-10.Электрическая
 розетка
 
 ### Электрическая
-`jetour_dashing_ru_ed2eff48` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:11 | doc_type:owners_manual
 розетка
 3-11.Порт USB
 3-12.Солнцезащитные
@@ -362,7 +320,6 @@ AIRBA
 косметическое зеркало
 
 ### Солнцезащитные
-`jetour_dashing_ru_db33285f` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:11 | doc_type:owners_manual
 козырьки и
 косметическое
 3-13.Капот
@@ -371,12 +328,10 @@ AIRBA
 отделения
 
 ### Дверь багажного
-`jetour_dashing_ru_5c48f911` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:11 | doc_type:owners_manual
 отделения с
 электродвигателем
 
 ### Содержание
-`jetour_dashing_ru_c26c3962` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 12
 Аварийное открытие
 двери багажного
@@ -386,7 +341,6 @@ AIRBA
 крышки топливного
 
 ### АВТОМОБИЛЯ
-`jetour_dashing_ru_6560a490` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:12 | doc_type:owners_manual
 4-1. Режим питания
 автомобиля
 Переключатель
@@ -395,107 +349,88 @@ ENGINE START STOP....... 119
 Запуск автомобиля .......... 119
 
 ### Адаптивная система
-`jetour_dashing_ru_ab5b69fc` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:12 | doc_type:owners_manual
 управления
 4-3. Бензиновый
 сажевый фильтр (GPF)
 (при наличии)
 4-4. Трансмиссия
 
-### Механическая трансмиссия
-`jetour_dashing_ru_b8787bd5` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:12 | doc_type:owners_manual
 
 ### Автоматическая
-`jetour_dashing_ru_8cc14eea` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:12 | doc_type:owners_manual
 4-5. Интеллектуальная
 система полного
 привода (AWD) (при
 наличии)
 
 ### Интеллектуальная
-`jetour_dashing_ru_262cfec4` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:12 | doc_type:owners_manual
 система
 полного привода
 Режим вождения  ............130
 4-6. Рулевая система
 
 ### Система рулевого
-`jetour_dashing_ru_19b5b178` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:12 | doc_type:owners_manual
 управления с
 электроусилителем
 4-7. Тормозная система
 
 ### Система
-`jetour_dashing_ru_55066c21` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:12 | doc_type:owners_manual
 электрического
 стояночного тормоза
 
 ### Автоматическая
-`jetour_dashing_ru_8cc14eea` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:12 | doc_type:owners_manual
 система удержания (-
 4-8. Антиблокировочная
 тормозная система (ABS)
 
 ### Антиблокировочная
-`jetour_dashing_ru_78d9ec29` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:12 | doc_type:owners_manual
 тормозная система
 4-9. Система
 стабилизации курсовой
 устойчивости (ESP)
 
 ### Система
-`jetour_dashing_ru_55066c21` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 стабилизации
 курсовой
 устойчивости (ESP)
 
 ### Расширенная
-`jetour_dashing_ru_8f9bd357` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:12 | doc_type:owners_manual
 функция
 4-10.Подушка
 безопасности (SRS)
 
 ### Дополнительна система
-`jetour_dashing_ru_77ed7af7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 удерживания (SRS)  ....... 147
 Содержание
 Содержание  13
 
 ### Положение подушки
-`jetour_dashing_ru_b24f97a6` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:13 | doc_type:owners_manual
 Правильное
 использование
 подушки
 
 ### ВОЖДЕНИИ
-`jetour_dashing_ru_e3b39d25` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 5-1. Система круиз
 контроля
 Система круизконтроля (CCS) (при
 
 ### Система адаптивного
-`jetour_dashing_ru_6d5f31c7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 круиз-контроля (ACC)
 5-2. Система управления
 спуском с холма (HDC)
 
 ### Система управления
-`jetour_dashing_ru_aed10f84` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 5-3. Система помощи
 при движении по полосе
 
 ### Система помощи при
-`jetour_dashing_ru_fec526d7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 движении по полосе
 
 ### Система
-`jetour_dashing_ru_a797ba92` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 предупреждения о
 выходе из полосы
 движения (LDW) (при
 
 ### Система удержания
-`jetour_dashing_ru_1432b779` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 полосы движения
 (LKA) (при наличии). ....... 172
 5-4. Система
@@ -503,21 +438,17 @@ ENGINE START STOP....... 119
 (BSD) (при наличии)
 
 ### Система
-`jetour_dashing_ru_a797ba92` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 обнаружения слепых
 
 ### Система
-`jetour_dashing_ru_a797ba92` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 предупреждения об
 открытии двери
 
 ### Система оповещения
-`jetour_dashing_ru_a4a7e455` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 о перекрестном
 движении сзади
 
 ### Система
-`jetour_dashing_ru_a797ba92` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 предупреждения
 заднего столкновения
 5-5. Автоматическая
@@ -525,7 +456,6 @@ ENGINE START STOP....... 119
 торможения (AEB)/
 
 ### Система предупреждения
-`jetour_dashing_ru_de2ae4e5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 о лобовом столкновении
 (FCW) (если оборудован)
 Автоматическая
@@ -533,7 +463,6 @@ ENGINE START STOP....... 119
 торможения (AEB)/
 
 ### Система
-`jetour_dashing_ru_a797ba92` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 предупреждения о
 лобовом
 столкновении (FCW) ........ 177
@@ -543,7 +472,6 @@ ENGINE START STOP....... 119
 система помощи при
 
 ### Содержание
-`jetour_dashing_ru_3e850ae3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 14
 движении (ICA) (при
 наличии)
@@ -551,32 +479,26 @@ ENGINE START STOP....... 119
 пробках (TJA)/
 
 ### Интегрированная
-`jetour_dashing_ru_9010546d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 система помощи при
 движении (ICA)  .............. 180
 5-7. Система контроля
 давления в шинах (TPMS)
 
 ### Система контроля
-`jetour_dashing_ru_fc9ca3a0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 давления в шинах
 5-8. Система контроля
 парковки
 
 ### Система наблюдения
-`jetour_dashing_ru_a58214d5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 за парковкой (при
 
 ### Система контроля
-`jetour_dashing_ru_fc9ca3a0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 панорамного обзора
 
 ### Парковочная
-`jetour_dashing_ru_72a36522` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 радарная система
 
 ### ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
-`jetour_dashing_ru_923da17e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 6-1. Базовые знания об
 аварийной
 остановке
@@ -584,107 +506,87 @@ ENGINE START STOP....... 119
 Система ЭРА-ГЛОНАСС.192
 
 ### Знак аварийной остановки
-`jetour_dashing_ru_d50ebadb` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 Запасные        инструменты
 6-2. Аварийная
 остановка автомобиля
 
 ### Операция по замене
-`jetour_dashing_ru_f756bfc8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 Если температура
 охлаждающей
 жидкости двигателя
 
 ### Если батарея
-`jetour_dashing_ru_61caaa08` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:14 | doc_type:owners_manual
 Если ваш автомобиль
 не может нормально
 6-3. Буксировка
 
 ### Буксировка
-`jetour_dashing_ru_a20571e1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 Аварийная
 буксировка
 
 ### Установка буксирной
-`jetour_dashing_ru_0939d73d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 6-4.  Предохранители
 
-### Замена      предохранителя
-`jetour_dashing_ru_ba3aa042` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 
 ### ОБСЛУЖИВАНИЯ
-`jetour_dashing_ru_dc198607` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 7-1. Ремонт и
 обслуживание
 Ремонт и
 
 ### Авторизованный
-`jetour_dashing_ru_af3bda38` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 сервисный центр
 Jetour предоставляет
 
 ### Содержание
-`jetour_dashing_ru_8ad48cae` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 Содержание  15
 7-2. Обычное
 техническое
 обслуживание
 
 ### Проверка уровня
-`jetour_dashing_ru_5a64df79` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:15 | doc_type:owners_manual
 тормозной жидкости  .... 213
 Проверка уровня
 охлаждающей
 
 ### Запись системы
-`jetour_dashing_ru_bfa33fb0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 защиты
 СПЕЦИФИКАЦИЯ
 8-1. Расположение
 ярлыка
 
 ### Идентификационный
-`jetour_dashing_ru_9b47a6cf` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 номер автомобиля
 
 ### Паспортная табличка
-`jetour_dashing_ru_4b2e5ce7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 Номер двигателя .............. 235
 
 ### Окно для приема RF
-`jetour_dashing_ru_4b6683af` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 8-2. Технические
 характеристики
 автомобиля
 
 ### Диапазон измерения
-`jetour_dashing_ru_43447784` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 габаритных размеров
 автомобиля без учета
 следующих
 1
 
 ### ВВЕДЕНИЕ
-`jetour_dashing_ru_a4d756a6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 1-1. Как читать это руководство
 Как читать это
 
 ### Иллюстрированный
-`jetour_dashing_ru_f7be72ad` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 1-2. Символы в руководстве
 Символы в руководстве  ......3
 1-3. Обкатка нового
 автомобиля
 
 ### Обкатка нового
-`jetour_dashing_ru_ffe15831` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 1-4. Как сэкономить
 топливо и продлить срок
 службы автомобиля
 
 ### Как сэкономить
-`jetour_dashing_ru_f8ffa4d3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 топливо и продлить
 срок службы
 1-5. Меры
@@ -693,39 +595,33 @@ Jetour предоставляет
 Проверка безопасности ....... 6
 
 ### Проверьте вытяжную
-`jetour_dashing_ru_496aa656` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 1-6. Меры
 предосторожности при
 вождении по бездорожью
 
 ### Вождение по
-`jetour_dashing_ru_93af766b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 1-7. Меры
 предосторожности при
 движении в дождь
 
 ### При движении по
-`jetour_dashing_ru_dc0a5162` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 скользкому дорожному
 1-8. Меры предосторожности
 при вождении зимой
 
 ### Советы по вождению
-`jetour_dashing_ru_50a50f1b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 автомобиля в зимних
 Вождение по дороге,
 покрытой льдом и
 2
 
 ### 1. ВВЕДЕНИЕ
-`jetour_dashing_ru_c80d03a7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:18 | doc_type:owners_manual
 1-1. Как читать это руководство
 Как читать это руководство
 Существует три способа поиска необходимой информации в этом руководстве. Вот
 краткое введение каждого метода.
 
 ### Содержание
-`jetour_dashing_ru_69e13703` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:18 | doc_type:owners_manual
 Обратитесь к содержанию, чтобы определить необходимые информации во всех
 главах,
 в какой
@@ -743,19 +639,16 @@ Jetour предоставляет
 местонахождение.
 
 ### Иллюстрированный указатель
-`jetour_dashing_ru_de2e8dc4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:18 | doc_type:owners_manual
 Наглядный   указатель   является   полезным   помощником   для   быстрого   поиска
 необходимой информации, особенно если вы не знакомы с названием компонента.
 
 ### Индекс
-`jetour_dashing_ru_c44783c8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:18 | doc_type:owners_manual
 Это самый быстрый способ для вас найти нужную вам информацию. Указатель
 содержит полный список всех важных терминов, используемых в транспортных
 средствах.
 3
 
 ### ВВЕДЕНИЕ
-`jetour_dashing_ru_7c0659e8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 1-2. Символы в руководстве
 Символы в руководстве
 Приведённые ниже символы используются в данном Руководстве для привлечение
@@ -764,19 +657,15 @@ Jetour предоставляет
 инструкцию, отмеченные этими символами, и тщательно выполняйте их.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_b111b634` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 Указывает на потенциально опасную ситуацию, которая, если не принять
 соответствующие меры, может привести к повреждению вашего автомобиля,
 травмам и даже смерти.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_c09fca9d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
-Указывает на потенциально опасную ситуацию, которая, если не принять
-соответствующие меры, может привести к повреждению вашего автомобиля и его
-оборудования, а также к уменьшению службы автомобиля.
+> ⚠️ **Внимание:** Указывает на потенциально опасную ситуацию, которая, если не принять
+> соответствующие меры, может привести к повреждению вашего автомобиля и его
+> оборудования, а также к уменьшению службы автомобиля.
 
 ### ЗАЩИТА ОКРУЖАЮЩЕЙ СРЕДЫ
-`jetour_dashing_ru_7679ed61` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 Указывает на то, что утилизация отходов должна осуществляться в соответствии с
 местным
 природоохранным
@@ -787,7 +676,6 @@ Jetour предоставляет
 окружающей среды.
 
 ### Указывает
-`jetour_dashing_ru_5961b9ea` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 на
 необходимость
 прочитать
@@ -803,12 +691,10 @@ Jetour предоставляет
 4
 
 ### 1. ВВЕДЕНИЕ
-`jetour_dashing_ru_23c206bb` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 1-3. Обкатка нового автомобиля
 Обкатка нового автомобиля
 
 ### Фрикционное сопротивление между подвижными деталями нового автомобиля
-`jetour_dashing_ru_62f7e14f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 значительно выше, чем при обычной эксплуатации. Правильно проведенная обкатка
 автомобиля оказывает большое влияние на срок его службы, надежность и
 топливную экономичность. Вот почему во время обкатки нового автомобиля
@@ -843,7 +729,6 @@ Jetour предоставляет
 тормозных колодок
 
 ### Не допускайте работы двигателя на высоких оборотах без особой на то
-`jetour_dashing_ru_9a920347` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 необходимости.
 Своевременное
 переключение
@@ -855,11 +740,9 @@ Jetour предоставляет
 5
 
 ### ВВЕДЕНИЕ
-`jetour_dashing_ru_d8b8d6e2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 1-4. Как сэкономить топливо и продлить срок службы автомобиля
 
 ### Расход топлива во многом зависит от технического состояния автомобиля и вашей
-`jetour_dashing_ru_1dddcae1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 манеры вождения. Не эксплуатируйте автомобиль с предельной нагрузкой —
 соблюдение этой рекомендации поможет вам продлить срок службы автомобиля.
 Ниже приведены ряд советов по снижению расхода топлива:
@@ -884,7 +767,6 @@ Jetour предоставляет
 сократить или вовсе свести к нулю остановки перед светофорами.
 
 ### Поддержание правильной дистанции до впередиидущего транспортного
-`jetour_dashing_ru_e57c7e26` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:21 | doc_type:owners_manual
 средства
 помогает
 исключить
@@ -902,18 +784,15 @@ Jetour предоставляет
 расходу топлива.
 
 ### 11. На скоростных дорогах поддерживайте надлежащую скорость движения. Чем
-`jetour_dashing_ru_2c08d40e` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:21 | doc_type:owners_manual
 выше скорость движения автомобиля, тем больше расход топлива. Снижение
 скорости движения автомобиля приводит к уменьшению расхода топлива.
 
 ### 12. Поддерживайте правильные углы установки передних колес. Избегайте ударов
-`jetour_dashing_ru_78088286` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:21 | doc_type:owners_manual
 колес о бордюрный камень и снижайте скорость при движении по неровным
 дорогам. Неправильные углы установки передних колес не только приводят к
 ускоренному износу шин, но и увеличивают нагрузку на двигатель.
 
 ### 14. Поддерживайте автомобиль в исправном состоянии. Загрязненный воздушный
-`jetour_dashing_ru_1e6c1e64` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:21 | doc_type:owners_manual
 фильтр, неправильные зазоры в приводе клапанов, загрязненные свечи
 зажигания, загрязненное масло и консистентная смазка, неотрегулированные
 тормозные механизмы и т. д. приводят к ухудшению параметров работы
@@ -922,19 +801,16 @@ Jetour предоставляет
 6
 
 ### 1. ВВЕДЕНИЕ
-`jetour_dashing_ru_986ca4a5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 эксплуатационных расходов. При эксплуатации автомобиля в тяжелых условиях
 техническое обслуживание нужно проводить чаще.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_a726773e` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:22 | doc_type:owners_manual
 Никогда не выключайте двигатель при движении вниз по склону. Система
 гидроусилителя руля и тормозная система не будут работать нормально, когда
 двигатель не работает.
 1-5. Меры предосторожности перед вождением автомобиля
 
 ### Проверка безопасности
-`jetour_dashing_ru_ece48815` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 Лучше
 провести
 проверку
@@ -945,40 +821,32 @@ Jetour предоставляет
 средством. Несколько минут проверки могут помочь обеспечить безопасное и
 приятное вождение.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_08a96377` | dashing | pdf_manual | tier:2 | lang:ru | layer:hvac | p:22 | doc_type:owners_manual
-Если вы  выполняете эту  проверку  в закрытом  гараже, убедитесь,  что  имеется
-достаточная вентиляция.
+> ⚠️ **Внимание:** Если вы  выполняете эту  проверку  в закрытом  гараже, убедитесь,  что  имеется
+> достаточная вентиляция.
 
 ### Перед запуском двигателя
-`jetour_dashing_ru_fe3ee2ac` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 ◆Снаружи автомобиля
 1. Шины (включая запасное колесо): Проверьте давление в шинах с помощью
 манометра и тщательно проверьте шины на наличие порезов, повреждений или
 чрезмерного износа.
 
 ### 2. Колесные болты: Убедитесь, что колесные болты установлены и затянуты.
-`jetour_dashing_ru_6052fc7f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 3. Утечки жидкости: После того, как автомобиль постоит какое-то время, проверьте
 пространство под автомобилем на наличие утечек топлива, масла, охлаждающей
 жидкости или других жидкостей (вода, капающая из системы кондиционирования
 воздуха после использования, является нормальным явлением).
 
 ### 4. Освещение: Убедитесь, что фары, дневные ходовые огни, стоп-сигналы,
-`jetour_dashing_ru_df0e0774` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 противотуманные фары, указатели поворота и другие огни работают правильно.
 
 ### 5. Воздухозаборные  решетки: Удалите снег, листья и другие препятствия с
-`jetour_dashing_ru_8917431a` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:22 | doc_type:owners_manual
 воздухозаборных решеток перед ветровым стеклом.
 ◆Внутри автомобиля
 
 ### 1. Запасные инструменты: Убедитесь, что у вас есть запасные инструменты, такие
-`jetour_dashing_ru_5db6ba60` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 как домкрат, ключ для колесных болтов и запасное колесо.
 
 ### 2. Ремень безопасности: Убедитесь в надежности фиксации застежки. Убедитесь,
-`jetour_dashing_ru_6be97bbe` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:22 | doc_type:owners_manual
 что ремни не изношены и не повреждены.
 3. Комбинация
 приборов
@@ -987,14 +855,12 @@ Jetour предоставляет
 управления:
 
 ### Особенно
-`jetour_dashing_ru_976c226e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 убедитесь,
 что
 индикаторы неисправности, индикаторы и элементы управления работают
 правильно.
 
 ### 4. Тормоз: Убедитесь, что педаль имеет достаточный зазор.
-`jetour_dashing_ru_6a6b819f` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:22 | doc_type:owners_manual
 ◆Отсек двигателя и двигатель
 1. Запасные предохранители: Убедитесь в наличии запасных предохранителей.
 Должны быть предусмотрены все предохранители с номинальной силой тока,
@@ -1002,7 +868,6 @@ Jetour предоставляет
 7
 
 ### ВВЕДЕНИЕ
-`jetour_dashing_ru_b316b5f4` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:23 | doc_type:owners_manual
 2 . Уровень охлаждающей жидкости: Убедитесь, что уровень охлаждающей
 жидкости соответствует норме.
 3 . Аккумулятор и кабели: Проверьте наличие коррозии или незакрепленных клемм
@@ -1017,7 +882,6 @@ Jetour предоставляет
 движения автомобиля, что может привести к аварии.
 
 ### После запуска двигателя
-`jetour_dashing_ru_059014d7` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:23 | doc_type:owners_manual
 1 . Выхлопная система: Прислушайтесь к любой утечке. Немедленно устраните
 любую утечку, если возникнет такая ситуация.
 2 . Уровень моторного масла: Остановите автомобиль на ровной поверхности,
@@ -1025,7 +889,6 @@ Jetour предоставляет
 соответствует ли уровень масла в двигателе.
 
 ### Во время вождения
-`jetour_dashing_ru_f8c756cb` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:23 | doc_type:owners_manual
 1 . Манометры  и  счетчики:  Убедитесь,  что  показания  манометров  и
 счетчиков работают правильно.
 2 . Тормоз: В безопасном месте убедитесь, что автомобиль не тянет в сторону
@@ -1034,7 +897,6 @@ Jetour предоставляет
 и утечек. Прислушайтесь к ненормальным шумам.
 
 ### Парковка
-`jetour_dashing_ru_09267f2b` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:23 | doc_type:owners_manual
 Правильная парковка является важной частью безопасного вождения, припаркуйте
 автомобиль в месте с широкой дорогой, хорошим обзором, не мешая движению.
 Этапы парковки следующие:
@@ -1042,7 +904,6 @@ Jetour предоставляет
 тормоза, пока автомобиль полностью не остановится.
 
 ### 2. Убедитесь, что электромеханический парковочный тормоз включен.
-`jetour_dashing_ru_3c251870` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:23 | doc_type:owners_manual
 3 . Для
 автомобиля
 с
@@ -1053,14 +914,11 @@ Jetour предоставляет
 переключения передач в положение «Pе; Для автомобиля с механической
 трансмиссией: Переведите рычаг переключения передач в положение N;
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_f5d9aff8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
-Выходя из автомобиля, не забудьте запереть его и взять с собой ключ от
-автомобиля.
-8
+> ⚠️ **Внимание:** Выходя из автомобиля, не забудьте запереть его и взять с собой ключ от
+> автомобиля.
+> 8
 
 ### Парковка транспортного средства на склоне осуществляется в основном за счет
-`jetour_dashing_ru_78bc7e9f` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:24 | doc_type:owners_manual
 тормозного усилия стояночного тормоза. Неиспользование стояночного тормоза
 или
 неисправность стояночного тормоза может привести к соскальзыванию
@@ -1085,7 +943,6 @@ Jetour предоставляет
 тормоз.
 
 ### OMX65-1010
-`jetour_dashing_ru_458417f3` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:24 | doc_type:owners_manual
 ◆Парковка на подъеме с бордюром
 Если
 на
@@ -1114,7 +971,6 @@ Jetour предоставляет
 тормоз.
 
 ### OMX65-1020
-`jetour_dashing_ru_725d13ae` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:24 | doc_type:owners_manual
 ◆Парковка на подъеме или спуске (без бордюра)
 OMX65-1030
 Если
@@ -1144,7 +1000,6 @@ OMX65-1030
 9
 
 ### ВВЕДЕНИЕ
-`jetour_dashing_ru_70c2049e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 ◆Перевозка пассажиров
 Перед началом движения, убедитесь, что все пассажиры должны сидеть на своих
 местах с правильно пристегнутыми ремнями безопасности. Не позволяйте
@@ -1186,17 +1041,14 @@ OMX65-1030
 впустить свежий воздух, и проверьте состояние автомобиля.
 
 ### Проверьте вытяжную систему
-`jetour_dashing_ru_f1076b2c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 Вытяжную систему следует проверять в следующих случаях:
 
 ### 4. При подъеме автомобиля для осмотра и ремонта.
-`jetour_dashing_ru_584bb417` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 10
 1. ВВЕДЕНИЕ
 1-6. Меры предосторожности при вождении по бездорожью
 
 ### Вождение по бездорожью
-`jetour_dashing_ru_daf118ec` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:26 | doc_type:owners_manual
 Всегда соблюдайте следующие меры предосторожности, чтобы свести к минимуму
 риск серьезной травмы или повреждения автомобиля:
 • Будьте осторожны при выезде с дороги. Не ездите в опасных зонах.
@@ -1208,7 +1060,6 @@ OMX65-1030
 движения автомобиля.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_8cf26739` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:26 | doc_type:owners_manual
 • После движения по дорогам, покрытым высокой травой, грязью, гравием,
 песком, реками и т. д., проверьте, не прилипли ли к днищу автомобиля трава,
 кусты, бумага, тряпки, камни, песок и т. д. Удалите все вышеперечисленные
@@ -1224,33 +1075,29 @@ OMX65-1030
 1-7. Меры предосторожности при движении в дождь
 
 ### При движении по скользкому дорожному покрытию
-`jetour_dashing_ru_c902dc79` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 Будьте осторожны, когда идет дождь, так как видимость ухудшится, окна могут
 запотеть, а дорога станет скользкой.
 • Не двигайтесь с высокой скоростью при движении по скоростной автомагистрали
 в дождь, так как между шинами и поверхностью дороги может образоваться слой
 воды, препятствующий правильной работе рулевого управления и тормозов.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_6c037ce9` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:26 | doc_type:owners_manual
-• Внезапное торможение, ускорение и рулевое управление на скользком
-дорожном покрытии могут вызвать проскальзывание шин и снизить вашу
-способность управлять автомобилем, что может привести к аварии.
-• Внезапные
-изменения
-частоты
-вращения
-двигателя,
-например
-резкое
-торможение двигателем, могут привести к заносу автомобиля и, как следствие,
-к аварии.
-• Проехав лужу, слегка нажмите педаль тормоза, чтобы убедиться, что тормоза
-работают
-нормально.
+> ⚠️ **Внимание:** • Внезапное торможение, ускорение и рулевое управление на скользком
+> дорожном покрытии могут вызвать проскальзывание шин и снизить вашу
+> способность управлять автомобилем, что может привести к аварии.
+> • Внезапные
+> изменения
+> частоты
+> вращения
+> двигателя,
+> например
+> резкое
+> торможение двигателем, могут привести к заносу автомобиля и, как следствие,
+> к аварии.
+> • Проехав лужу, слегка нажмите педаль тормоза, чтобы убедиться, что тормоза
+> работают
+> нормально.
 
 ### Влажная
-`jetour_dashing_ru_e59b7a1a` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:26 | doc_type:owners_manual
 тормозная
 накладка
 может
@@ -1261,7 +1108,6 @@ OMX65-1030
 11
 
 ### Автомобиль
-`jetour_dashing_ru_0adbbebf` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:27 | doc_type:owners_manual
 может
 быть
 серьезно
@@ -1272,7 +1118,6 @@ OMX65-1030
 медленно и осторожно.
 
 ### OMX65-1040
-`jetour_dashing_ru_287f3cec` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:27 | doc_type:owners_manual
 1 . Когда вы едете по воде, убедитесь, что двигатель работает нормально, а
 рулевое управление и тормозная система работают нормально. При плавном
 движении по воде следует переключаться на пониженную передачу и избегать
@@ -1285,19 +1130,16 @@ OMX65-1030
 чтобы предотвратить дальнейшее повреждение двигателя. Автомобиль следует
 отбуксировать в безопасное место с мелководьем для выяснения причины.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_094ae3a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:27 | doc_type:owners_manual
-• Никогда не ездите по воде, которая глубже обода колеса.
-• Попадание воды в двигатель может привести к его остановке или серьезным
-внутренним повреждениям.
-• Вода может смыть смазку с подшипника колеса, что вызовет коррозию и
-преждевременное истирание.
-• Движение по воде может привести к повреждению компонентов приводной
-системы
-автомобиля.
+> ⚠️ **Внимание:** • Никогда не ездите по воде, которая глубже обода колеса.
+> • Попадание воды в двигатель может привести к его остановке или серьезным
+> внутренним повреждениям.
+> • Вода может смыть смазку с подшипника колеса, что вызовет коррозию и
+> преждевременное истирание.
+> • Движение по воде может привести к повреждению компонентов приводной
+> системы
+> автомобиля.
 
 ### Всегда
-`jetour_dashing_ru_2d40039b` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:27 | doc_type:owners_manual
 визуально
 проверяйте
 жидкости
@@ -1314,14 +1156,12 @@ OMX65-1030
 1-8. Меры предосторожности при вождении зимой
 
 ### Советы по вождению автомобиля в зимних условиях
-`jetour_dashing_ru_32eea11f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:27 | doc_type:owners_manual
 • Охлаждающая жидкость: Убедитесь, что охлаждающая жидкость имеет функцию
 защиты
 от
 замерзания.
 
 ### Используйте
-`jetour_dashing_ru_241fa056` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:27 | doc_type:owners_manual
 только
 охлаждающую
 жидкость,
@@ -1329,7 +1169,6 @@ OMX65-1030
 12
 
 ### 1. ВВЕДЕНИЕ
-`jetour_dashing_ru_1dc3f0fb` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:28 | doc_type:owners_manual
 • Аккумулятор и кабели: Низкая температура снижает мощность батареи. В
 аккумуляторе должно быть достаточно энергии для запуска зимой.
 • Масло:
@@ -1351,14 +1190,12 @@ OMX65-1030
 стекла:
 
 ### Используйте
-`jetour_dashing_ru_77d5b418` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 незамерзающую
 жидкость,
 содержащую антифриз. Этот продукт доступен на авторизованной станции
 обслуживания
 
 ### Jetour
-`jetour_dashing_ru_ecc2aa8f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 и
 у
 большинства
@@ -1380,29 +1217,26 @@ OMX65-1030
 автомобиль: Цепи противоскольжения, скребок для мытья окон, мешок с песком
 или солью, сигнальный огонь, лопата, соединительный кабель и т. д.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_b586fc55` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
-• Не используйте воду вместо охлаждающей жидкости.
-• Не
-используйте
-охлаждающую
-жидкость
-для
-двигателя
-или
-другую
-альтернативную
-моющую
-жидкость,
-иначе
-будет
-повреждена
-краска
-автомобиля.
-Вождение по дороге, покрытой льдом и снегом
+> ⚠️ **Внимание:** • Не используйте воду вместо охлаждающей жидкости.
+> • Не
+> используйте
+> охлаждающую
+> жидкость
+> для
+> двигателя
+> или
+> другую
+> альтернативную
+> моющую
+> жидкость,
+> иначе
+> будет
+> повреждена
+> краска
+> автомобиля.
+> Вождение по дороге, покрытой льдом и снегом
 
 ### Быстрое
-`jetour_dashing_ru_7ddfc817` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 ускорение
 на
 скользких
@@ -1425,7 +1259,6 @@ OMX65-1030
 осторожно.
 
 ### При движении по мокрой или слякотной дороге между шиной и поверхностью
-`jetour_dashing_ru_660eefc1` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:28 | doc_type:owners_manual
 дороги может образовываться водяная пленка. Это может привести к неправильной
 работе рулевого управления и тормозов. Чтобы уменьшить крутящий момент и
 избежать пробуксовки, вы можете использовать 2-й передачу (автомобиль с
@@ -1436,7 +1269,6 @@ OMX65-1030
 автомобиль на малой скорости и несколько раз проехать вперед и назад.
 
 ### Переместите рычаг переключения передач между положением D и положением R
-`jetour_dashing_ru_27f83c2b` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:28 | doc_type:owners_manual
 13
 1. ВВЕДЕНИЕ
 ВВЕДЕНИЕ
@@ -1444,14 +1276,12 @@ OMX65-1030
 времени буксования это может привести к чрезмерному износу трансмиссии.
 
 ### Цепи для шин
-`jetour_dashing_ru_63768863` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 Приобретите комплект цепей противоскольжения, соответствующий размеру шин
 автомобиля. При установке и снятии цепей соблюдайте следующие меры
 предосторожности:
 1 . При использовании цепей соблюдайте правила;
 
 ### 2.  Установите и снимите цепи противоскольжения в безопасном месте;
-`jetour_dashing_ru_e78a12eb` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 3 . Установите цепи
 противоскольжения
 в
@@ -1461,7 +1291,6 @@ OMX65-1030
 прилагаемыми к цепям противоскольжения;
 
 ### 4. Цепи могут устанавливать только на ведущие колеса;
-`jetour_dashing_ru_ed5d34dd` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:29 | doc_type:owners_manual
 5  Рекомендуется использовать резиновые цепи толщиной не более 12 мм, в
 противном случае могут быть повреждены шины, диски, система привода,
 тормозная система и защитные пластины колеса, повреждения автомобиля в
@@ -1469,20 +1298,17 @@ OMX65-1030
 6 . Пожалуйста, обратитесь   на   авторизованный   сервисный   центр   Jetour   для
 получения подробной информации о колесах и размерах шин.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_f859d927` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
-Соблюдайте следующие меры предосторожности, чтобы снизить риск несчастных
-случаев. Невыполнение этого требования может привести к невозможности
-безопасного управления автомобилем и стать причиной смерти или серьезной
-травмы.
-• Правила использования цепей противоскольжения различаются в зависимости
-от местоположения и типа дороги. Всегда проверяйте местные правила перед
-установкой цепей противоскольжения;
-• Обязательно используйте цепи, подходящие для вашего автомобиля. Установка
-цепи повлияет на управляемость автомобиля, ведите машину осторожно.
+> ⚠️ **Внимание:** Соблюдайте следующие меры предосторожности, чтобы снизить риск несчастных
+> случаев. Невыполнение этого требования может привести к невозможности
+> безопасного управления автомобилем и стать причиной смерти или серьезной
+> травмы.
+> • Правила использования цепей противоскольжения различаются в зависимости
+> от местоположения и типа дороги. Всегда проверяйте местные правила перед
+> установкой цепей противоскольжения;
+> • Обязательно используйте цепи, подходящие для вашего автомобиля. Установка
+> цепи повлияет на управляемость автомобиля, ведите машину осторожно.
 
 ### Использование неподходящих цепей или неправильная установка цепей может
-`jetour_dashing_ru_f31d3615` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:29 | doc_type:owners_manual
 привести к аварии и травмам;
 • Пожалуйста, следуйте инструкциям производителя цепей по установке и снятию
 цепей, припаркуйте автомобиль в безопасном месте перед установкой и
@@ -1504,55 +1330,44 @@ OMX65-1030
 15
 
 ### ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_ac76e5dd` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 2-1. Приборный щиток
 Обзор приборной
 
 ### Регулировка рулевого
-`jetour_dashing_ru_75fe430d` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:31 | doc_type:owners_manual
 2-3. Зеркало заднего вида
 
 ### Салонное зеркало
-`jetour_dashing_ru_83787abd` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:31 | doc_type:owners_manual
 Наружное зеркало
 2-4. Система
 стеклоочистителей (при
 наличии)
 
 ### Работа
-`jetour_dashing_ru_cb16aedc` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:31 | doc_type:owners_manual
 стеклоочистителей
 
 ### Работа
-`jetour_dashing_ru_cb16aedc` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:31 | doc_type:owners_manual
 стеклоочистителей
 
 ### Замена щетки
-`jetour_dashing_ru_a4d4661d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:31 | doc_type:owners_manual
 2-5. Система освещения
 
 ### Интеллектуальный
-`jetour_dashing_ru_f2e66adb` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 ассистент фар (HMA)
 
 ### Инструкции по
-`jetour_dashing_ru_44dd651e` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:31 | doc_type:owners_manual
 запотеванию
 2-6. Сиденье
 
 ### Преднатяжитель ремня
-`jetour_dashing_ru_2e459448` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 безопасности (при
 2-8. Система
 безопасности для детей
 
 ### Система безопасности
-`jetour_dashing_ru_6d1d4557` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 Установка
 удерживающей
 системы для ребёнка
 
-`jetour_dashing_ru_b3d613f8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 16
 2. ПОДГОТОВКА К ВОЖДЕНИЮ
 0
@@ -1566,7 +1381,6 @@ OMX65-1030
 8:12
 
 ### HOLD
-`jetour_dashing_ru_4a71e850` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:32 | doc_type:owners_manual
 0.0
 x1000rpm
 E
@@ -1583,7 +1397,6 @@ H
 9
 
 ### Тахометр
-`jetour_dashing_ru_819a8717` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:32 | doc_type:owners_manual
 Часы
 Спидометр
 Режим вождения
@@ -1591,7 +1404,6 @@ H
 положении передачи
 
 ### Указатель
-`jetour_dashing_ru_38b6b102` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:32 | doc_type:owners_manual
 уровня
 топлива
 Пробег за рулем
@@ -1610,7 +1422,6 @@ H
 8
 
 ### OMX65-3012
-`jetour_dashing_ru_c76f7d18` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:32 | doc_type:owners_manual
 17
 2. ПОДГОТОВКА К ВОЖДЕНИЮ
 ПОДГОТОВКА К ВОЖДЕНИЮ
@@ -1618,7 +1429,6 @@ H
 вождении
 
 ### Информация о
-`jetour_dashing_ru_8f063546` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
 положении передачи
 Спидометр
 Тахометр
@@ -1627,36 +1437,28 @@ H
 двигателя
 
 ### Указатель
-`jetour_dashing_ru_be638f5c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
 уровня
 топлива
 Тахометр
 Отображение частоты вращения двигателя (единица измерения: x1 000 об/мин).
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_4ccae808` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
-Не  нажимайте  резко  на  педаль  акселератора,  чтобы  не  допустить  работу
-двигателя на высоких оборотах в период обкатки
+> ⚠️ **Внимание:** Не  нажимайте  резко  на  педаль  акселератора,  чтобы  не  допустить  работу
+> двигателя на высоких оборотах в период обкатки
 
 ### Спидометр
-`jetour_dashing_ru_e5337539` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
 Указывает скорость движения автомобиля (единица измерения: км/ч).
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_4ccae808` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
-На   спидометр   влияет   размер   шин,   используемых   в   автомобиле.   Можно
-использовать только шины оригинального размера (подробности см. в разделе
-«Технические характеристики автомобиляе), в противном случае спидометр не
-будет показывать правильную скорость.
+> ⚠️ **Внимание:** На   спидометр   влияет   размер   шин,   используемых   в   автомобиле.   Можно
+> использовать только шины оригинального размера (подробности см. в разделе
+> «Технические характеристики автомобиляе), в противном случае спидометр не
+> будет показывать правильную скорость.
 
 ### Режим вождения
-`jetour_dashing_ru_b41730ff` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
 Указывает текущий выбранный режим вождения.
 Информация о положении передачи
 Указывает информацию о выбранной в данный момент передаче.
 
 ### Указатель уровня топлива
-`jetour_dashing_ru_cf83c5f5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
 Указывает на остаток топлива в топливном баке.
 Когда показания указателя уровня топлива находятся рядом с буквой E или
 индикатор предупреждения о низком уровне топлива продолжает гореть, это
@@ -1664,64 +1466,55 @@ H
 топливо как можно скорее.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_8051789f` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:33 | doc_type:owners_manual
 Когда автомобиль ускоряется, резко тормозит, резко поворачивает или движется
 по склону, показания указателя уровня топлива могут быть неточными.
 
 ### Пробег за рулем
-`jetour_dashing_ru_20ffebb6` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:33 | doc_type:owners_manual
 Указывает   расчетное   максимальное   расстояние,   которое   можно   проехать   с
 текущим запасом топлива (общая единица измерения: км).
 
 ### Общий пробег
-`jetour_dashing_ru_072289ba` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
 Указывает общий пробег транспортного средства (общая единица измерения: км).
 
 ### Указатель температуры охлаждающей жидкости двигателя
-`jetour_dashing_ru_327f26c2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
 Указывает текущую температуру охлаждающей жидкости двигателя.
 Низкотемпературный диапазон: Около C или в области C
 18
 
 ### Когда указатель температуры охлаждающей жидкости двигателя находится около C
-`jetour_dashing_ru_04623fda` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:34 | doc_type:owners_manual
 или в области C, это указывает на низкую температуру охлаждающей жидкости
 двигателя. В этом температурном диапазоне не запускайте двигатель на высоких
 оборотах, и нагрузка на двигатель не должна быть чрезмерной.
 Диапазон перегрева: Около H или в области H
 
 ### Когда указатель температуры охлаждающей жидкости двигателя находится около H
-`jetour_dashing_ru_f27e66ef` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:34 | doc_type:owners_manual
 или в области H, это указывает на высокую температуру охлаждающей жидкости
 двигателя. Остановите автомобиль в безопасном месте вдали от оживленного
 движения, после нескольких минут простоя переведите питание автомобиля в
 режим OFF. Пожалуйста, свяжитесь с авторизованным сервисным центром Jetour
 для проверки и ремонта немедленно.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_61f7c670` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:34 | doc_type:owners_manual
-• Если показания указателя температуры охлаждающей жидкости двигателя
-остаются в диапазоне низких температур в течение длительного времени,
-немедленно обратитесь в авторизованный сервисный центр Jetour для
-проверки и ремонта.
-• Никогда не открывайте бачок охлаждающей жидкости двигателя, если
-показания указателя температуры охлаждающей жидкости двигателя находятся
-в
-диапазоне
-перегрева.
-Проверьте,
-не
-слишком
-ли
-низкий
-уровень
-охлаждающей жидкости после  остывания  двигателя. Никогда не  запускайте
-двигатель при слишком низком уровне охлаждающей жидкости, иначе
-двигатель будет серьезно поврежден.
-Индикатор работы/неисправности
+> ⚠️ **Внимание:** • Если показания указателя температуры охлаждающей жидкости двигателя
+> остаются в диапазоне низких температур в течение длительного времени,
+> немедленно обратитесь в авторизованный сервисный центр Jetour для
+> проверки и ремонта.
+> • Никогда не открывайте бачок охлаждающей жидкости двигателя, если
+> показания указателя температуры охлаждающей жидкости двигателя находятся
+> в
+> диапазоне
+> перегрева.
+> Проверьте,
+> не
+> слишком
+> ли
+> низкий
+> уровень
+> охлаждающей жидкости после  остывания  двигателя. Никогда не  запускайте
+> двигатель при слишком низком уровне охлаждающей жидкости, иначе
+> двигатель будет серьезно поврежден.
+> Индикатор работы/неисправности
 
 ### При включении питания автомобиля некоторые индикаторы неисправностей
-`jetour_dashing_ru_452b3c5f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:34 | doc_type:owners_manual
 загораются
 на короткое
 время,
@@ -1736,12 +1529,10 @@ H
 сервисный центр Jetour для проверки и ремонта.
 
 ### Индикатор работы используется для предупреждения водителя о рабочем
-`jetour_dashing_ru_dbd47c66` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:34 | doc_type:owners_manual
 состоянии определенной системы автомобиля, и соответствующий индикатор
 работы остается включенным.
 
 ### Индикатор
-`jetour_dashing_ru_568f5636` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:34 | doc_type:owners_manual
 неисправности
 используется
 для
@@ -1752,7 +1543,6 @@ H
 индикатор неисправности будет гореть или мигать.
 
 ### Индикатор
-`jetour_dashing_ru_568f5636` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:34 | doc_type:owners_manual
 дневных
 ходовых
 огней
@@ -1760,7 +1550,6 @@ H
 гореть при запуске двигателя.
 
 ### Индикатор
-`jetour_dashing_ru_568f5636` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:34 | doc_type:owners_manual
 габаритных
 огней
 Когда
@@ -1771,7 +1560,6 @@ H
 остается включенным.
 
 ### Индикатор
-`jetour_dashing_ru_568f5636` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 дальнего
 света
 Когда фары дальнего света включены или когда
@@ -1780,7 +1568,6 @@ H
 19
 
 ### Индикатор
-`jetour_dashing_ru_dae31b88` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:35 | doc_type:owners_manual
 указателя
 поворота
 При
@@ -1799,7 +1586,6 @@ H
 одновременно.
 
 ### Индикатор
-`jetour_dashing_ru_dae31b88` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:35 | doc_type:owners_manual
 передней
 противотуманой фары
 При включении передних противотуманных фар
@@ -1807,21 +1593,18 @@ H
 фар.
 
 ### Индикатор
-`jetour_dashing_ru_dae31b88` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:35 | doc_type:owners_manual
 задней
 противотуманой фары
 При   включении   задней   противотуманой   фары,
 индикатор остается включенным.
 
 ### Индикатор
-`jetour_dashing_ru_dae31b88` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:35 | doc_type:owners_manual
 ремня
 безопасности
 Этот индикатор используется для оповещения о том,
 что передний ремень безопасности не пристегнут .
 
 ### Пристегните
-`jetour_dashing_ru_da011391` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:35 | doc_type:owners_manual
 ремень
 безопасности
 и
@@ -1833,7 +1616,6 @@ H
 двери
 
 ### Этот индикатор используется для предупреждения
-`jetour_dashing_ru_bccee177` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:35 | doc_type:owners_manual
 водителя о состоянии открывания и закрывания
 двери
 водителя.
@@ -1857,7 +1639,6 @@ H
 срабатывает звуковая сигнализация открытия двери.
 
 ### Индикатор
-`jetour_dashing_ru_dae31b88` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:35 | doc_type:owners_manual
 неисправности
 электрической
 стояночной
@@ -1865,14 +1646,12 @@ H
 системы
 
 ### Этот индикатор используется для предупреждения
-`jetour_dashing_ru_bccee177` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:35 | doc_type:owners_manual
 водителя о неисправности электрической системы
 стояночного тормоза. Пожалуйста, обратитесь на
 официальную станцию технического обслуживания
 Jetour для проверки и ремонта .
 
 ### Индикатор
-`jetour_dashing_ru_dae31b88` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:35 | doc_type:owners_manual
 системы
 электронного
 стояночного
@@ -1896,7 +1675,6 @@ Jetour для проверки и ремонта немедленно.
 20
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_20b8e40b` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:36 | doc_type:owners_manual
 Неисправность
 тормозной
 системы/
@@ -1907,7 +1685,6 @@ Jetour для проверки и ремонта немедленно.
 жидкости
 
 ### Этот индикатор используется для предупреждения
-`jetour_dashing_ru_427f3833` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:36 | doc_type:owners_manual
 водителя о низком уровне тормозной жидкости или
 неисправности тормозной системы.
 Если уровень тормозной жидкости низкий, долейте
@@ -1932,7 +1709,6 @@ Jetour для проверки и ремонта немедленно.
 тормозной
 системы
 ### Этот индикатор используется для предупреждения
-`jetour_dashing_ru_427f3833` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:36 | doc_type:owners_manual
 водителя
 о
 неисправности
@@ -1942,7 +1718,6 @@ ABS.
 обслуживания
 
 ### Jetour
-`jetour_dashing_ru_78514fbb` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:36 | doc_type:owners_manual
 для
 проверки
 и
@@ -1967,7 +1742,6 @@ ABS.
 обслуживания Jetour для проверки и ремонта.
 
 ### OFF  системы
-`jetour_dashing_ru_05869956` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:36 | doc_type:owners_manual
 электронной
 программы
 стабилизации
@@ -1978,7 +1752,6 @@ ABS.
 стабилизации находится в отключенном состоянии.
 
 ### Индикатор
-`jetour_dashing_ru_0b43512a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 предупреждения
 о
 высокой
@@ -1986,7 +1759,6 @@ ABS.
 охлаждающей жидкости
 
 ### Этот индикатор используется для предупреждения
-`jetour_dashing_ru_427f3833` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:36 | doc_type:owners_manual
 водителя о высокой температуре охлаждающей
 жидкости двигателя. Переместите автомобиль в
 безопасное место и остановитесь, после нескольких
@@ -1996,7 +1768,6 @@ ABS.
 ремонта немедленно.
 
 ### Индикатор
-`jetour_dashing_ru_0b43512a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 бензинового
 сажевого
 фильтра
@@ -2011,14 +1782,12 @@ ABS.
 фильтр
 
 ### (GPF)
-`jetour_dashing_ru_393fe3b1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 заполнен,
 пожалуйста,
 увеличьте скорость и очистите его.
 21
 
 ### Индикатор
-`jetour_dashing_ru_a69369a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 неисправности
 бензинового
 сажевого
@@ -2031,7 +1800,6 @@ ABS.
 Jetour для проверки и ремонта.
 
 ### Индикатор
-`jetour_dashing_ru_a69369a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 предупреждения
 о
 низком
@@ -2043,7 +1811,6 @@ Jetour для проверки и ремонта.
 скорее.
 
 ### Индикатор
-`jetour_dashing_ru_a69369a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:37 | doc_type:owners_manual
 неисправности подушки
 безопасности
 Этот индикатор используется для предупреждения
@@ -2053,7 +1820,6 @@ Jetour для проверки и ремонта.
 ремонта немедленно.
 
 ### Индикатор
-`jetour_dashing_ru_a69369a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 неисправности  системы
 контроля
 давления
@@ -2075,7 +1841,6 @@ Jetour для проверки и ремонта.
 проверки и ремонта.
 
 ### Индикатор
-`jetour_dashing_ru_a69369a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:37 | doc_type:owners_manual
 неисправности  системы
 электроусилителя руля
 Этот индикатор загорается желтым цветом, указывая
@@ -2083,7 +1848,6 @@ Jetour для проверки и ремонта.
 электроусилителем.
 
 ### Перезапустите
-`jetour_dashing_ru_e4a235fc` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:37 | doc_type:owners_manual
 автомобиль.
 Если этот индикатор по-прежнему загорается после
 перезапуска автомобиля, немедленно обратитесь на
@@ -2109,7 +1873,6 @@ Jetour для проверки и ремонта.
 обслуживания
 
 ### Jetour
-`jetour_dashing_ru_bdfbdf01` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 для
 проверки
 и
@@ -2125,7 +1888,6 @@ Jetour для проверки и ремонта.
 двигателе
 
 ### Этот индикатор используется для предупреждения
-`jetour_dashing_ru_c9fbcb85` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 водителя о низком давлении масла в двигателе.
 Припаркуйте
 автомобиль
@@ -2137,7 +1899,6 @@ Jetour для проверки и ремонта.
 ремонта немедленно.
 
 ### Индикатор
-`jetour_dashing_ru_a69369a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 неисправности EPC
 Этот индикатор используется для предупреждения
 водителя
@@ -2151,7 +1912,6 @@ Jetour для проверки и ремонта.
 22
 
 ### Индикатор
-`jetour_dashing_ru_e69ca114` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 неисправности
 двигателя
 Этот индикатор используется для предупреждения
@@ -2160,7 +1920,6 @@ Jetour для проверки и ремонта.
 обслуживания
 
 ### Jetour
-`jetour_dashing_ru_bbbd5f46` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 для
 проверки
 и
@@ -2171,7 +1930,6 @@ Jetour для проверки и ремонта.
 передач
 
 ### Этот индикатор используется для предупреждения
-`jetour_dashing_ru_2f267f44` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 водителя
 о
 неисправности
@@ -2182,7 +1940,6 @@ Jetour для проверки и ремонта.
 проверки и ремонта немедленно.
 
 ### Индикатор
-`jetour_dashing_ru_e69ca114` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 напоминания
 о
 техническом
@@ -2199,21 +1956,18 @@ Jetour для проверки и ремонта.
 проведения технического обслуживания.
 
 ### Индикатор
-`jetour_dashing_ru_e69ca114` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 круизконтроля
 Этот индикатор используется для предупреждения
 водителя о том, что система постоянной скорости
 или адаптивного круиз-контроля включена.
 
 ### Индикатор
-`jetour_dashing_ru_e69ca114` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 дистанции
 следования
 Этот индикатор используется для указания на то, что
 во время круиза зазор следования слишком велик.
 
 ### Индикатор
-`jetour_dashing_ru_e69ca114` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 неисправности системы
 4WD
 Этот индикатор используется для предупреждения
@@ -2222,7 +1976,6 @@ Jetour для проверки и ремонта.
 обслуживания Jetour для проверки и ремонта.
 
 ### Индикатор
-`jetour_dashing_ru_e69ca114` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 работы
 системы
 помощи при
@@ -2237,7 +1990,6 @@ Jetour для проверки и ремонта.
 время находятся в рабочем состоянии.
 
 ### ON
-`jetour_dashing_ru_aefcc73d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 предупреждения
 о
 лобовом
@@ -2248,7 +2000,6 @@ Jetour для проверки и ремонта.
 23
 
 ### Индикатор
-`jetour_dashing_ru_b866a58b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:39 | doc_type:owners_manual
 неисправности
 предупреждения
 о
@@ -2256,7 +2007,6 @@ Jetour для проверки и ремонта.
 столкновении
 
 ### Этот индикатор используется для предупреждения
-`jetour_dashing_ru_77458ed2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:39 | doc_type:owners_manual
 водителя о неисправности системы предупреждения
 о
 лобовом
@@ -2268,7 +2018,6 @@ Jetour для проверки и ремонта.
 обслуживания Jetour для проверки и ремонта.
 
 ### AUTOHOLD
-`jetour_dashing_ru_2271f940` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:39 | doc_type:owners_manual
 индикатор
 Этот
 индикатор
@@ -2296,7 +2045,6 @@ AUTOHOLD включена.
 AUTOHOLD активирована.
 
 ### Индикатор
-`jetour_dashing_ru_b866a58b` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:39 | doc_type:owners_manual
 замедленного
 скольжения
 с
@@ -2313,7 +2061,6 @@ AUTOHOLD активирована.
 2-2. Рулевое колесо
 
 ### Клаксон
-`jetour_dashing_ru_d5e66d7e` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:39 | doc_type:owners_manual
 Чтобы подать звуковой сигнал, нажмите
 на область
 возле
@@ -2321,13 +2068,11 @@ AUTOHOLD активирована.
 сигнала на рулевом колесе.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_4d5fe05e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:39 | doc_type:owners_manual
 Соблюдайте   местные   правила,   касающиеся   использования   автомобильных
 клаксонов.
 24
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_b9d95cbb` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:40 | doc_type:owners_manual
 Кнопки на рулевом колесе (Тип A)
 Ролик
 регулируется
@@ -2340,7 +2085,6 @@ AUTOHOLD активирована.
 мультимедийном дисплее.
 
 ### OMX65-3021
-`jetour_dashing_ru_3cd3b28c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:40 | doc_type:owners_manual
 [Ролик]
 1. Кондиционер (по умолчанию)
 • Поверните ролик вверх: Температура
@@ -2374,7 +2118,6 @@ A/C снижается.
 диапазонов.
 
 ### 3. Режим регулировки зеркала заднего вида.
-`jetour_dashing_ru_a88b6314` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:40 | doc_type:owners_manual
 • Поверните ролик вверх: Левое наружное зеркало заднего вида наклон вверх.
 • Поверните ролик вниз: Левое наружное зеркало заднего вида наклон вниз.
 • Поверните ролик влево: Левое наружное зеркало заднего вида наклон влево.
@@ -2385,12 +2128,10 @@ A/C снижается.
 кнопка круиз-контроля с постоянной скоростью]: Включить/выключить круизконтроля с постоянной скоростью.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_6c02c3a6` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:40 | doc_type:owners_manual
 Подробнее о пользовательской кнопке см. в разделе «Мультимедийный дисплейе.
 25
 
 ### OMX65-3022
-`jetour_dashing_ru_b482082f` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:41 | doc_type:owners_manual
 [Ролик]
 1. Мультимедиа (по умолчанию)
 • Поверните ролик вверх: Увеличивайте
@@ -2404,7 +2145,6 @@ A/C снижается.
 влево:
 
 ### Переключиться
-`jetour_dashing_ru_7e28a559` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 на
 предыдущую
 станцию/предыдущую песню.
@@ -2413,14 +2153,12 @@ A/C снижается.
 вправо:
 
 ### Переключиться
-`jetour_dashing_ru_7e28a559` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 на
 следующую
 станцию/следующую песню.
 • Нажмите ролик. Беззвучный режим
 
 ### ON/OFF
-`jetour_dashing_ru_cb6688ad` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 (воспроизведение/пауза);
 Когда
 выполняется
@@ -2438,7 +2176,6 @@ A/C снижается.
 повесить трубку.
 
 ### 2. Режим регулировки зеркала заднего вида.
-`jetour_dashing_ru_114c2e48` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:41 | doc_type:owners_manual
 • Поверните ролик вверх: Правое наружное зеркало заднего вида наклон вверх.
 • Поверните ролик вниз: Правое наружное зеркало заднего вида наклон вниз.
 • Поверните ролик влево: Правое наружное зеркало заднего вида наклон влево.
@@ -2461,7 +2198,6 @@ A/C снижается.
 26
 
 ### OMX65-3024
-`jetour_dashing_ru_703eb8fc` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 ■Ролик
 1. Круиз-контроль
 • Когда адаптивная система круизконтроля
@@ -2495,7 +2231,6 @@ A/C снижается.
 соответствии с текущей скоростью;
 
 ### Адаптивная
-`jetour_dashing_ru_3fb7c0a4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 система
 круизконтроля
 находится
@@ -2550,13 +2285,11 @@ TJA, и долго нажмите ролик, чтобы
 переключиться между ACC и TJA.
 
 ### 2. Режим регулировки зеркала заднего вида.
-`jetour_dashing_ru_20fe1a8b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:42 | doc_type:owners_manual
 • Поверните ролик вверх: Левое наружное зеркало заднего вида наклон вверх.
 • Поверните ролик вниз: Правое наружное зеркало заднего вида наклон вниз.
 27
 
 ### ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_ed8d75f2` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:43 | doc_type:owners_manual
 • Поверните ролик влево: Правое наружное зеркало заднего вида наклон влево.
 • Поверните  ролик  вправо:  Правое  наружное  зеркало  заднего  вида  наклон
 вправо.
@@ -2580,7 +2313,6 @@ TJA, и долго нажмите ролик, чтобы
 рулевого колеса
 
 ### OMX65-3025
-`jetour_dashing_ru_7b3898b5` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:43 | doc_type:owners_manual
 ■Ролик
 1. Мультимедиа (по умолчанию)
 • Поверните
@@ -2599,7 +2331,6 @@ TJA, и долго нажмите ролик, чтобы
 влево:
 
 ### Переключитесь
-`jetour_dashing_ru_11818b26` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 на
 предыдущую
 песню.
@@ -2614,7 +2345,6 @@ TJA, и долго нажмите ролик, чтобы
 выключение звука.
 
 ### 2. Режим регулировки зеркала заднего вида.
-`jetour_dashing_ru_adaf736d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:43 | doc_type:owners_manual
 • Поверните ролик вверх: Правое наружное зеркало заднего вида наклон вверх.
 • Поверните ролик вниз: Правое наружное зеркало заднего вида наклон вниз.
 • Поверните ролик влево: Правое наружное зеркало заднего вида наклон влево.
@@ -2629,12 +2359,10 @@ TJA, и долго нажмите ролик, чтобы
 28
 
 ### В связи с различными конфигурациями функции кнопок на рулевом колесе
-`jetour_dashing_ru_d3571561` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:44 | doc_type:owners_manual
 приведены только для справки, ориентируйтесь на характеристики вашего
 автомобиля.
 
 ### Остановите автомобиль в безопасном
-`jetour_dashing_ru_5cd5221b` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:44 | doc_type:owners_manual
 месте, переведите питание автомобиля
 в режим OFF:
 Шаг 1: Нажмите на регулировочный
@@ -2651,7 +2379,6 @@ TJA, и долго нажмите ролик, чтобы
 описанные в шаге 3, при встряхивании.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_9f399aa5` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:44 | doc_type:owners_manual
 • Не настраивайте рулевое колесо во время вождения, так как это может
 привести к неправильному управлению автомобилем и аварии, что может
 привести к смерти или травмам.
@@ -2661,12 +2388,10 @@ TJA, и долго нажмите ролик, чтобы
 зафиксировано.
 
 ### В противном случае рулевое колесо может неожиданно
-`jetour_dashing_ru_64217898` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:44 | doc_type:owners_manual
 сместиться во время вождения, что приведет к ненужным травмам и потерям.
 2-3. Зеркало заднего вида
 
 ### Перед началом движения установите
-`jetour_dashing_ru_59e7c85b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:44 | doc_type:owners_manual
 внутреннее зеркало заднего вида в
 правильное
 положение,
@@ -2680,7 +2405,6 @@ TJA, и долго нажмите ролик, чтобы
 обзор.
 
 ### Вручную
-`jetour_dashing_ru_9ef44622` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:44 | doc_type:owners_manual
 установите
 внутреннее
 зеркало
@@ -2691,14 +2415,12 @@ TJA, и долго нажмите ролик, чтобы
 положение.
 
 ### OMX65-3030
-`jetour_dashing_ru_43a002c2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 29
 2. ПОДГОТОВКА К ВОЖДЕНИЮ
 ПОДГОТОВКА К ВОЖДЕНИЮ
 Ручная антибликовая функция
 
 ### Ночной режим
-`jetour_dashing_ru_6c463ee6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:45 | doc_type:owners_manual
 2
 1
 Дневной режим
@@ -2722,22 +2444,18 @@ TJA, и долго нажмите ролик, чтобы
 угол наклона зеркала заднего вида.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_d8a1e06b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 Не регулируйте внутреннее зеркало заднего вида во время движения, это может
 привести к несчастным случаям и травмам.
 
 ### Наружное зеркало заднего вида
-`jetour_dashing_ru_d151e0c8` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 Регулировка наружного зеркала заднего вида (при наличии)
 
 ### Выберите наружное зеркало заднего
-`jetour_dashing_ru_a8c7a4ec` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 вида через [Мое приложение] → [-
 Управление автомобилем] → [Общий]
 на мультимедийном дисплее.
 
 ### Наружное
-`jetour_dashing_ru_d023b571` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 зеркало
 заднего
 вида:
@@ -2747,7 +2465,6 @@ OFF / водительское / пассажирское /
 обе стороны.
 
 ### OMX65-4166
-`jetour_dashing_ru_7de26c53` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:45 | doc_type:owners_manual
 запирании автомобиля: ВКЛ./ВЫКЛ.
 Примечание:    На    экране    настройки
 зеркал
@@ -2763,19 +2480,16 @@ OFF / водительское / пассажирское /
 вида.
 
 ### Регулировка
-`jetour_dashing_ru_7c33234d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:45 | doc_type:owners_manual
 зеркал заднего вида прекращается при
 выходе с этого окна.
 
 ### Отрегулируйте
-`jetour_dashing_ru_750daeff` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:45 | doc_type:owners_manual
 положение
 зеркала
 заднего вида как требуется, сохраните
 память в соответствующем положении.
 
 ### Настройка
-`jetour_dashing_ru_fd962fe7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:45 | doc_type:owners_manual
 положения
 зеркал
 при
@@ -2783,13 +2497,11 @@ OFF / водительское / пассажирское /
 меню при включении задней передачи.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_8a5529ce` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:45 | doc_type:owners_manual
 Подробнее о кнопке регулировки угла наклона зеркала заднего вида см. в разделе
 «Рулевое колесое.
 30
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_1e8e0cc0` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 • Не регулируйте наружное зеркало заднего вида во время движения, это может
 привести к несчастным случаям и травмам.
 • Не управляйте автомобилем со сложенным наружным зеркалом заднего вида.
@@ -2809,7 +2521,6 @@ OFF / водительское / пассажирское /
 отличаться от реального, поэтому всегда ведите машину осторожно.
 
 ### Остановите автомобиль в безопасном
-`jetour_dashing_ru_6c3a361b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:46 | doc_type:owners_manual
 месте
 вдали
 от
@@ -2821,19 +2532,16 @@ OFF / водительское / пассажирское /
 автомобиля в режим ON.
 
 ### Выберите наружное зеркало заднего
-`jetour_dashing_ru_b1f6e60f` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 вида через [Мое приложение] → [-
 Управление автомобиля] → [Сервис] на
 мультимедийном
 дисплее.
 
 ### Управлять
-`jetour_dashing_ru_14ebf11c` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:46 | doc_type:owners_manual
 роликом на рулевом колесе, чтобы
 отрегулировать  соответствующий  угол
 
 ### OMX65-3034
-`jetour_dashing_ru_a316d193` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 наружного зеркала заднего вида.
 Управляйте с помощью ключа: При
 отключении
@@ -2845,7 +2553,6 @@ OFF / водительское / пассажирское /
 складывается/выдвигается.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_f67bf4ed` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:46 | doc_type:owners_manual
 • Если скорость автомобиля превышает 10 км/ч, наружные зеркала заднего вида
 с электроприводом не
 смогут
@@ -2857,7 +2564,6 @@ OFF / водительское / пассажирское /
 дисплее.
 
 ### Подробнее
-`jetour_dashing_ru_573a80ba` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:46 | doc_type:owners_manual
 см.
 в
 разделе
@@ -2876,17 +2582,14 @@ OFF / водительское / пассажирское /
 Обогрев зеркала заднего вида (при наличии)
 
 ### При включении обогрева заднего ветрового стекла включите обогрев наружных
-`jetour_dashing_ru_eb00fb03` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:46 | doc_type:owners_manual
 зеркал. Нагрев длится 15 минут, а затем автоматически останавливается.
 31
 
 ### ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_1c4bee3b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 2-4. Система стеклоочистителей (при наличии)
 Работа стеклоочистителей (тип А)
 
 ### Комбинированный
-`jetour_dashing_ru_f0bfa25d` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:47 | doc_type:owners_manual
 переключатель
 стеклоочистителей
 расположен
@@ -2894,7 +2597,6 @@ OFF / водительское / пассажирское /
 левой стороне рулевой колонки.
 
 ### ON,
-`jetour_dashing_ru_76301ac1` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 поверните
 переключатель
 стеклоочистителей:
@@ -2903,7 +2605,6 @@ OFF / водительское / пассажирское /
 :
 
 ### Стеклоочиститель
-`jetour_dashing_ru_b68a1bbf` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 работает
 OMX65-3040
 Работа переднего омывателя
@@ -2922,7 +2623,6 @@ AUTO: В режиме AUTO датчик дождя
 автоматически.
 
 ### MIST:
-`jetour_dashing_ru_bb909c52` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 1
 цикл
 очистки
@@ -2955,7 +2655,6 @@ ON, нажмите и удерживайте левую
 32
 
 ### Работа заднего омывателя
-`jetour_dashing_ru_671a7d25` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:48 | doc_type:owners_manual
 1
 2
 OMX65-3043
@@ -2963,7 +2662,6 @@ OMX65-3043
 ON:
 
 ### При повороте ролика
-`jetour_dashing_ru_d8e91961` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 заднего
 стеклоочистителя
 вверх
@@ -2983,7 +2681,6 @@ ON:
 выключаются
 
 ### При повороте ролика
-`jetour_dashing_ru_d8e91961` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 стеклоочистителя
 вниз
 работает
@@ -2995,13 +2692,11 @@ ON:
 стеклоочиститель  останавливается.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_1f60986a` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:48 | doc_type:owners_manual
 Некоторые  модели  не  оснащены  задним  стеклоочистителем,  см.  фактическую
 конфигурацию автомобиля.
 Работа стеклоочистителей (тип В)
 
 ### Комбинированный
-`jetour_dashing_ru_f2ea0e30` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:48 | doc_type:owners_manual
 переключатель
 MIST
 OFF
@@ -3013,7 +2708,6 @@ OMX65-3110
 правой стороне рулевой колонки.
 
 ### ON,
-`jetour_dashing_ru_ab770e57` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 переместите
 переключатель
 стеклоочистителей:
@@ -3037,7 +2731,6 @@ LO: Очистка на низкой скорости.
 HI: Высокая скорость очистки.
 
 ### Выключить
-`jetour_dashing_ru_6ae9926e` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 стеклоочиститель
 и
 стиральную машину.
@@ -3046,14 +2739,12 @@ HI: Высокая скорость очистки.
 1
 
 ### Снизить чувствительность
-`jetour_dashing_ru_68da4fe3` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 стеклоочистителей
 Увеличить чувствительность
 стеклоочистителей
 2
 
 ### OMX65-3111
-`jetour_dashing_ru_6bf34cd1` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 33
 2. ПОДГОТОВКА К ВОЖДЕНИЮ
 ПОДГОТОВКА К ВОЖДЕНИЮ
@@ -3067,22 +2758,19 @@ HI: Высокая скорость очистки.
 можно скорее обратитесь на авторизованный сервисный центр Jetour для
 проверки и ремонта.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_25e893ca` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:49 | doc_type:owners_manual
-• Не включайте стеклоочиститель, когда ветровое стекло сухое, так как это может
-повредить щетку стеклоочистителя и поцарапать ветровое стекло.
-• Не включайте стеклоочистители, если на ветровом стекле есть препятствия, так
-как это может поцарапать ветровое стекло и повредить электродвигатель
-стеклоочистителя.
-• В холодную зиму всегда проверяйте, не примерзла ли щетка стеклоочистителя к
-ветровому стеклу, прежде чем пользоваться стеклоочистителями. Если это так,
-разморозьте его перед использованием, иначе это может привести к
-повреждению щетки стеклоочистителя и электродвигателя стеклоочистителя.
-• Не используйте огонь или горячую воду, чтобы растопить замерзшее стекло,
-иначе стекло лопнет.
+> ⚠️ **Внимание:** • Не включайте стеклоочиститель, когда ветровое стекло сухое, так как это может
+> повредить щетку стеклоочистителя и поцарапать ветровое стекло.
+> • Не включайте стеклоочистители, если на ветровом стекле есть препятствия, так
+> как это может поцарапать ветровое стекло и повредить электродвигатель
+> стеклоочистителя.
+> • В холодную зиму всегда проверяйте, не примерзла ли щетка стеклоочистителя к
+> ветровому стеклу, прежде чем пользоваться стеклоочистителями. Если это так,
+> разморозьте его перед использованием, иначе это может привести к
+> повреждению щетки стеклоочистителя и электродвигателя стеклоочистителя.
+> • Не используйте огонь или горячую воду, чтобы растопить замерзшее стекло,
+> иначе стекло лопнет.
 
 ### ON,
-`jetour_dashing_ru_816d457d` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:49 | doc_type:owners_manual
 потяните
 и
 удерживайте
@@ -3095,7 +2783,6 @@ HI: Высокая скорость очистки.
 разбрызгивает     воду,     и     передний
 
 ### OMX65-3112
-`jetour_dashing_ru_3933fa97` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:49 | doc_type:owners_manual
 стеклоочиститель
 работает
 одновременно.
@@ -3111,7 +2798,6 @@ HI: Высокая скорость очистки.
 34
 
 ### Работа заднего омывателя
-`jetour_dashing_ru_fcfba05d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 1
 2
 3
@@ -3120,7 +2806,6 @@ OMX65-3113
 Включите питание автомобиля в режим
 
 ### Включите стеклоочиститель
-`jetour_dashing_ru_3ace38cf` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:50 | doc_type:owners_manual
 и омыватель заднего стекла. Это
 приложение
 не
@@ -3129,44 +2814,39 @@ OMX65-3113
 автоматически вернется в положение
 
 ### Постоянная работа
-`jetour_dashing_ru_763dda0b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:50 | doc_type:owners_manual
 стеклоочистителя. Выключите
 стеклоочиститель
 и омыватель заднего стекла.
 
 ### Включите стеклоочиститель
-`jetour_dashing_ru_3ace38cf` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:50 | doc_type:owners_manual
 и омыватель заднего стекла. Это не
 фиксированное
 положение,
 автоматически вернется в положение
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_5a445477` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:50 | doc_type:owners_manual
-• При переключении стеклоочистителя на распыление воды не превышайте 10
-секунд за один раз.
-• Не используйте переключатель стеклоочистителей, если в бачке нет жидкости
-для омывания.
-• Антифриз
-разъедает
-любую
-окрашенную
-поверхность,
-поэтому
-будьте
-осторожны при добавлении омывающей жидкости.
-• Не пытайтесь очистить сопло булавкой или другими предметами,  если оно
-заблокировано, иначе оно может быть повреждено.
-• Не смешивайте воду с омывателем. Вода может привести к замерзанию
-раствора и повреждению бачка и других частей системы мойки.
-• Когда омывающей жидкости недостаточно, доливайте ее вовремя. В холодную
-погоду следует доливать подходящую омывающую жидкость, чтобы омывающая
-жидкость не замерзала. В противном случае не только функция омывания будет
-потеряна, но и связанные с ней детали замерзнут.
-35
+> ⚠️ **Внимание:** • При переключении стеклоочистителя на распыление воды не превышайте 10
+> секунд за один раз.
+> • Не используйте переключатель стеклоочистителей, если в бачке нет жидкости
+> для омывания.
+> • Антифриз
+> разъедает
+> любую
+> окрашенную
+> поверхность,
+> поэтому
+> будьте
+> осторожны при добавлении омывающей жидкости.
+> • Не пытайтесь очистить сопло булавкой или другими предметами,  если оно
+> заблокировано, иначе оно может быть повреждено.
+> • Не смешивайте воду с омывателем. Вода может привести к замерзанию
+> раствора и повреждению бачка и других частей системы мойки.
+> • Когда омывающей жидкости недостаточно, доливайте ее вовремя. В холодную
+> погоду следует доливать подходящую омывающую жидкость, чтобы омывающая
+> жидкость не замерзала. В противном случае не только функция омывания будет
+> потеряна, но и связанные с ней детали замерзнут.
+> 35
 
 ### Замена щетки переднего стеклоочистителя
-`jetour_dashing_ru_7c4a5516` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 Шаг 1: Включите питание автомобиля в
 режим ON и включите режим замены
 щеток стеклоочистителей через [Мое
@@ -3185,7 +2865,6 @@ OMX65-3113
 Шаг         3:         Поднимите         щетки
 
 ### OMX65-3044
-`jetour_dashing_ru_f23c7ebf` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 стеклоочистителей,
 одновременно
 нажимая
@@ -3197,7 +2876,6 @@ OMX65-3113
 4:
 
 ### Установите
-`jetour_dashing_ru_91b4834d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 новые
 щетки
 стеклоочистителя в обратном порядке и
@@ -3213,7 +2891,6 @@ OMX65-3113
 стеклоочистители работают правильно.
 
 ### Замена щетки заднего стеклоочистителя
-`jetour_dashing_ru_92405efd` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 Шаг
 1:
 Поднимите
@@ -3224,7 +2901,6 @@ OMX65-3113
 2:
 
 ### Отделите
-`jetour_dashing_ru_9c5644f8` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 щетку
 стеклоочистителя
 вручную,
@@ -3234,7 +2910,6 @@ OMX65-3113
 3:
 
 ### Установите
-`jetour_dashing_ru_91b4834d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 новые
 щетки
 стеклоочистителя в обратном порядке,
@@ -3247,28 +2922,23 @@ OMX65-3113
 работает задний стеклоочиститель.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_6be26bd8` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 • Когда  выключает  питание  автомобиля  в  режим  OFF,  стеклоочиститель
 автоматически возвращается в рабочее положение.
 • Рекомендуется  поручить  замену  щеток  стеклоочистителя  на  авторизованной
 станции обслуживания Jetour, чтобы обеспечить правильную установку.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_f035d02d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
-Перед началом движения убедитесь, что рычаг стеклоочистителя возвращается в
-исходное положение. В противном случае это может повредить автомобиль и
-стать причиной аварии.
-36
+> ⚠️ **Внимание:** Перед началом движения убедитесь, что рычаг стеклоочистителя возвращается в
+> исходное положение. В противном случае это может повредить автомобиль и
+> стать причиной аварии.
+> 36
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_a5e6299b` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:52 | doc_type:owners_manual
 2-5. Система освещения
 Наружное освещение (тип А)
 Системой наружного освещения можно  управлять с  помощью мультимедийного
 дисплея и голоса.
 
 ### OMX65-4169
-`jetour_dashing_ru_824a415f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 ■Настройка освещения (при наличии)
 Через
 [Мое
@@ -3277,7 +2947,6 @@ OMX65-3113
 [-
 
 ### Управление
-`jetour_dashing_ru_821a8b5f` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:52 | doc_type:owners_manual
 автомобилем]
 →
 [-
@@ -3294,7 +2963,6 @@ AUTO  (при  наличии):  Автоматическое
 :
 
 ### Включите
-`jetour_dashing_ru_04cd2655` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:52 | doc_type:owners_manual
 ближний
 свет
 и
@@ -3317,7 +2985,6 @@ AUTO  (при  наличии):  Автоматическое
 37
 
 ### ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_e28fbb60` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:53 | doc_type:owners_manual
 Функция «Следуй за мной домойе
 OMX65-3059
 ON: Переведите питание автомобиля в
@@ -3332,7 +2999,6 @@ ON: Переведите питание автомобиля в
 домае.
 
 ### Загорятся
-`jetour_dashing_ru_7640c2dd` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 фары
 ближнего света и габаритные фары.
 При
@@ -3358,13 +3024,11 @@ OFF: Включите питание автомобиля или потянит�
 выключаются.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_abaabde7` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:53 | doc_type:owners_manual
 Если    трансмиссия    автомобиля    не    переключается    на    рулевую    колонку,
 переместите комбинированный переключатель фар, чтобы использовать функцию
 «Сопровождения светом до домае.
 
 ### Включите
-`jetour_dashing_ru_a3e6777b` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:53 | doc_type:owners_manual
 питание
 автомобиля
 в
@@ -3380,13 +3044,11 @@ OFF: Включите питание автомобиля или потянит�
 свет;
 
 ### Потяните
-`jetour_dashing_ru_e9a6ba35` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:53 | doc_type:owners_manual
 комбинированный переключатель фар в
 сторону рулевого колеса и отпустите,
 чтобы выключить дальний свет.
 
 ### Переведите
-`jetour_dashing_ru_316a3ad7` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:53 | doc_type:owners_manual
 комбинированный
 переключатель
 стеклоочистителя
@@ -3401,7 +3063,6 @@ OFF: Включите питание автомобиля или потянит�
 света.
 
 ### В
-`jetour_dashing_ru_19e7119c` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:53 | doc_type:owners_manual
 то
 же
 время
@@ -3413,14 +3074,12 @@ OFF: Включите питание автомобиля или потянит�
 комбинации приборов мигает один раз.
 
 ### OMX65-3052
-`jetour_dashing_ru_8643b7cf` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:53 | doc_type:owners_manual
 38
 2. ПОДГОТОВКА К ВОЖДЕНИЮ
 ПРОЧИТАЙТЕ
 Вы можете мигать дальним светом при включении/выключении ближнего света.
 
 ### Поверните
-`jetour_dashing_ru_e5ef15c7` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:54 | doc_type:owners_manual
 комбинированный
 переключатель стеклоочистителя вверх,
 и таким образом загорится правый
@@ -3428,7 +3087,6 @@ OFF: Включите питание автомобиля или потянит�
 поворота;
 
 ### Поверните
-`jetour_dashing_ru_e5ef15c7` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:54 | doc_type:owners_manual
 комбинированный
 переключатель
 стеклоочистителей
@@ -3437,12 +3095,10 @@ OFF: Включите питание автомобиля или потянит�
 левый указатель поворота.
 
 ### OMX65-3053
-`jetour_dashing_ru_67680c8d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 Наружное освещение (тип B)
 Комбинированный переключатель фар
 
 ### Включите питание автомобиля в режим
-`jetour_dashing_ru_1d9b7924` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:54 | doc_type:owners_manual
 4
 3
 2
@@ -3466,11 +3122,9 @@ AUTO (при наличии): Автоматическое
 номерного знака и задние фонари.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_dfd72739` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:54 | doc_type:owners_manual
 Вы можете мигать дальним светом при включении/выключении ближнего света.
 
 ### При включении питания автомобиля в
-`jetour_dashing_ru_1342d03e` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:54 | doc_type:owners_manual
 режим ON и включении ближнего света
 переместите рычаг в « е один раз,
 чтобы
@@ -3481,7 +3135,6 @@ AUTO (при наличии): Автоматическое
 задний противотуманный фонарь.
 
 ### OMX65-3154
-`jetour_dashing_ru_2f7b15db` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:54 | doc_type:owners_manual
 39
 2. ПОДГОТОВКА К ВОЖДЕНИЮ
 ПОДГОТОВКА К ВОЖДЕНИЮ
@@ -3495,19 +3148,16 @@ AUTO (при наличии): Автоматическое
 Подсветка при открытии двери (при наличии)
 
 ### Если нажмите на снятие с охраны на автомобиле и открытии двери автоматически
-`jetour_dashing_ru_dc6af54e` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:55 | doc_type:owners_manual
 загорается подсветка ; Когда охранная система будет снова включена, свет
 немедленно погаснет.
 
 ### Дневные ходовые огни
-`jetour_dashing_ru_94c7175d` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:55 | doc_type:owners_manual
 При  запуске  двигателя  дневные  ходовые  огни  включаются  автоматически;  при
 включении ближнего света дневные ходовые огни автоматически выключаются.
 Стоп-сигнал
 Нажмите на педаль тормоза, загорятся стоп-сигнал и верхний стоп-сигнал.
 
 ### Фонарь заднего хода
-`jetour_dashing_ru_437d5cf2` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:55 | doc_type:owners_manual
 При запуске автомобиля, переведите рычаг переключения в положение R, и таким
 образом включится фонарь заднего хода.
 Фары подсветки поворотов (при наличии)
@@ -3520,7 +3170,6 @@ AUTO (при наличии): Автоматическое
 левый/правый подсветка.
 
 ### Передний свет
-`jetour_dashing_ru_1d970a4f` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:55 | doc_type:owners_manual
 Нажмите кнопку переднего плафона,
 он включится.
 Нажмите кнопку управления дверью,
@@ -3533,7 +3182,6 @@ AUTO (при наличии): Автоматическое
 2
 
 ### OMX65-3056
-`jetour_dashing_ru_111de84e` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:55 | doc_type:owners_manual
 40
 2. ПОДГОТОВКА К ВОЖДЕНИЮ
 ПРОЧИТАЙТЕ
@@ -3554,7 +3202,6 @@ ON, и передний плафон немедленно гаснет; при �
 минут.
 
 ### Нажмите
-`jetour_dashing_ru_bc6685a0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 переключатель
 заднего
 плафона, загорится задний плафон.
@@ -3562,21 +3209,18 @@ ON, и передний плафон немедленно гаснет; при �
 плафон гаснет.
 
 ### OMX65-3058
-`jetour_dashing_ru_85fc527a` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:56 | doc_type:owners_manual
 Подсветка косметического зеркала (при наличии)
 Откройте крышку косметического зеркала, и загорится подсветка косметического
 зеркала; Закройте крышку косметического зеркала, и подсветка косметического
 зеркала погаснет.
 
 ### Освещение багажного отделения
-`jetour_dashing_ru_ee03b262` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 Когда багажное отделение остается открытым, освещение багажного отделения
 включается на 3 минут. Когда багажное отделение закрытым, освещение багажного
 отделения гаснет немедленно.
 Интеллектуальный ассистент фар (HMA) (при наличии)
 
 ### Активируется интеллектуальный ассистент фар
-`jetour_dashing_ru_b0566340` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:56 | doc_type:owners_manual
 Включите питание автомобиля в режим ON, включите/выключите интеллектуальный
 ассистент фар через [Мое приложение] → [Управление автомобилем] → [Наружное
 освещение],  нажмите,  чтобы  включить  AUTO  (автоматическое  освещение  фар),«
@@ -3592,7 +3236,6 @@ ON, и передний плафон немедленно гаснет; при �
 41
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_f6273db3` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:57 | doc_type:owners_manual
 • Когда   скорость   автомобиля   ниже   30   км/ч,   функция   интеллектуального
 ассистента фар автоматически выключает дальний свет фар.
 • Когда  окружающая  яркость   слишком  высока,  функция  интеллектуального
@@ -3605,7 +3248,6 @@ ON, и передний плафон немедленно гаснет; при �
 дальний свет фар автоматически выключается.
 
 ### Инструкции по запотеванию источников света
-`jetour_dashing_ru_8a16beb5` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:57 | doc_type:owners_manual
 В холодную или влажную погоду внутренняя сторона фонарей запотевает из-за
 разницы температур внутри и снаружи. После включения света туман внутри
 фонаря постепенно исчезнет, но по краям фонаря еще может оставаться немного
@@ -3615,7 +3257,6 @@ ON, и передний плафон немедленно гаснет; при �
 света. Это нормально.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_b3234aed` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:57 | doc_type:owners_manual
 • Следуйте рекомендациям при движении по воде (например, глубина воды,
 скорость и т.д.), чтобы избежать попадания воды на фары.
 • После открытия пылезащитной крышки светильника установите ее на место в
@@ -3646,7 +3287,6 @@ ON, и передний плафон немедленно гаснет; при �
 управления водителем.
 
 ### Наиболее эффективными защитными мерами при вождении автомобиля являются
-`jetour_dashing_ru_629e9738` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 поддержание спинки сиденья в вертикальном положении, постоянное удержание
 тела на спинке сиденья и регулировка ремня
 безопасности в правильном
@@ -3654,24 +3294,20 @@ ON, и передний плафон немедленно гаснет; при �
 42
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_d1aa7885` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 Закрепите  багаж  должным  образом,  чтобы  предотвратить  его  скольжение  или
 перемещение. Не размещайте багаж выше спинки сиденья.
 
 ### Правильное положение сидя
-`jetour_dashing_ru_619a434a` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:58 | doc_type:owners_manual
 Сиденья, подголовники, ремни безопасности и подушки безопасности помогают
 защитить пассажиров. Их правильное использование обеспечит вам большую
 защиту.
 
 ### OMX65-3060
-`jetour_dashing_ru_c95d444e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 Сидя, сидите с небольшим наклоном
 назад (в  идеале 25°  назад)  и хорошо
 прижавшись к спинке сиденья.
 
 ### Передние
-`jetour_dashing_ru_af6dbf32` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 сиденья
 не
 должны
@@ -3690,7 +3326,6 @@ ON, и передний плафон немедленно гаснет; при �
 педаль.
 
 ### Правильно
-`jetour_dashing_ru_13c15be6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 отрегулируйте
 подголовники,
 чтобы
@@ -3700,27 +3335,23 @@ ON, и передний плафон немедленно гаснет; при �
 макушке головы.
 
 ### Плечевой ремень должен проходить
-`jetour_dashing_ru_29a18777` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:58 | doc_type:owners_manual
 через центр плеча и близко к груди,
 подальше от шеи, поясной ремень
 должен располагаться как можно ниже
 на бедрах.
 
 ### OMX65-3061
-`jetour_dashing_ru_7ed457c5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 43
 2. ПОДГОТОВКА К ВОЖДЕНИЮ
 ПОДГОТОВКА К ВОЖДЕНИЮ
 Подголовник
 
 ### Регулировка
-`jetour_dashing_ru_1bf68527` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 подголовника
 вверх:
 Потяните его прямо на нужную высоту.
 
 ### Регулировка
-`jetour_dashing_ru_1bf68527` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 подголовника
 вниз:
 Нажмите    кнопку    разблокировки    на
@@ -3731,7 +3362,6 @@ ON, и передний плафон немедленно гаснет; при �
 отрегулируйте подголовник вниз.
 
 ### Снятие
-`jetour_dashing_ru_a533ba8a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 подголовника:
 Нажмите
 и
@@ -3739,7 +3369,6 @@ ON, и передний плафон немедленно гаснет; при �
 одновременно,   пока   они   не   будут
 
 ### OMX65-3062
-`jetour_dashing_ru_94e82e2d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 разблокированы,
 затем
 поднимите
@@ -3750,7 +3379,6 @@ ON, и передний плафон немедленно гаснет; при �
 вытащите его.
 
 ### Установка
-`jetour_dashing_ru_05c96c6b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 подголовника:
 Совместите
 подголовник
@@ -3760,14 +3388,12 @@ ON, и передний плафон немедленно гаснет; при �
 зафиксировать положение.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_90e33cca` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 • Не  регулируйте  подголовник  во  время  вождения,  это  может  привести  к
 несчастным случаям и травмам.
 • Перед началом движения убедитесь, что подголовник надежно закреплен, иначе
 это может привести к несчастным случаям и травмам.
 
 ### Потяните
-`jetour_dashing_ru_23a444c8` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:59 | doc_type:owners_manual
 ручку
 вверх
 и
@@ -3789,13 +3415,11 @@ ON, и передний плафон немедленно гаснет; при �
 оно надежно зафиксировано.
 
 ### OMX65-3063
-`jetour_dashing_ru_ab409617` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 Регулировка высоты сиденья (только со стороны водителя)
 Потяните вверх и нажмите на рычаг регулировки сиденья, чтобы отрегулировать
 высоту сиденья.
 
 ### Регулировка спинки сиденья
-`jetour_dashing_ru_61195d6e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 Прислонитесь всем телом к спинке сиденья, а затем потяните рычаг регулировки
 спинки сиденья вверх. Отрегулируйте спинку сиденья под нужным углом, изменив
 угол наклона вашего тела, и отпустите рычаг. После этого приложите усилие назад к
@@ -3803,7 +3427,6 @@ ON, и передний плафон немедленно гаснет; при �
 44
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_d2a16d8e` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:60 | doc_type:owners_manual
 Сиденье с электрическим приводом регулировки (при наличии)
 ■Регулировка сиденья водителя с электрическим приводом регулировки
 3
@@ -3811,7 +3434,6 @@ ON, и передний плафон немедленно гаснет; при �
 1
 
 ### OMX65-3100
-`jetour_dashing_ru_9710fb86` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 Регулировка положения сиденья:
 Двигайте    кнопку    вперед    и    назад
 параллельно,
@@ -3820,19 +3442,16 @@ ON, и передний плафон немедленно гаснет; при �
 позиция сиденья.
 
 ### Переместите   задний   конец   кнопки
-`jetour_dashing_ru_70141bea` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:60 | doc_type:owners_manual
 вверх  и  вниз,  чтобы  отрегулировать
 сиденье вверх и вниз.
 
 ### Переместите   верхний   конец   кнопки
-`jetour_dashing_ru_752fd830` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:60 | doc_type:owners_manual
 вперед и назад, чтобы отрегулировать
 угол наклона спинки сиденья.
 ■Регулировка поясничной опоры водителя с электрическим приводом регулировки
 (при наличии)
 
 ### OMX65-3065
-`jetour_dashing_ru_6179034a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 Нажмите и удерживайте  « е,  чтобы
 поддержать
 верхнюю
@@ -3853,7 +3472,6 @@ ON, и передний плафон немедленно гаснет; при �
 ■
 
 ### Регулировка   сиденья   переднего   пассажира   с   электрическим   приводом
-`jetour_dashing_ru_bd759510` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:60 | doc_type:owners_manual
 регулировки
 Регулировка положения сиденья:
 Двигайте    кнопку    вперед    и    назад
@@ -3864,21 +3482,18 @@ ON, и передний плафон немедленно гаснет; при �
 позиция сиденья.
 
 ### Регулировка спинки сиденья
-`jetour_dashing_ru_8c36ba7c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 1
 Переместите верхний конец кнопки
 вперед и назад, чтобы отрегулировать
 угол наклона спинки сиденья.
 
 ### OMX65-3064
-`jetour_dashing_ru_32972dcc` | dashing | pdf_manual | tier:2 | lang:ru | layer:hvac | p:60 | doc_type:owners_manual
 45
 2. ПОДГОТОВКА К ВОЖДЕНИЮ
 ПОДГОТОВКА К ВОЖДЕНИЮ
 Функция обогрева/вентиляции сидений (при наличии)
 
 ### Управляйте
-`jetour_dashing_ru_83e3a8ae` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:61 | doc_type:owners_manual
 с
 помощью
 кнопки
@@ -3889,7 +3504,6 @@ ON, и передний плафон немедленно гаснет; при �
 странице мультимедийного дисплея.
 
 ### Переключите
-`jetour_dashing_ru_75b56e61` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:61 | doc_type:owners_manual
 питание
 автомобиля
 в
@@ -3904,7 +3518,6 @@ ON, и передний плафон немедленно гаснет; при �
 2 - уровень 1 - OFF).
 
 ### OMX65-4170
-`jetour_dashing_ru_c4e79ff2` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:61 | doc_type:owners_manual
 режим ON, нажмите кнопку вентиляции
 сиденья
 водителя/переднего
@@ -3917,7 +3530,6 @@ ON, и передний плафон немедленно гаснет; при �
 Королевское сиденье переднего пассажира (при наличии)
 
 ### Королевское сиденье переднего пассажира имеет электрическую регулировку  и
-`jetour_dashing_ru_04891f2b` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:61 | doc_type:owners_manual
 функцию массажа с 3-мя интенсивностями массажа (мягкий / умеренный /
 агрессивный) и 5 доступными режимами массажа (волна / подиум / кросс / легкость
 / прыжок), которые могут эффективно снять усталость спины при езде на дальние
@@ -3927,7 +3539,6 @@ ON, и передний плафон немедленно гаснет; при �
 Через [Автомобиль] → [Сиденье] на мультимедийном дисплее.
 
 ### Пользователь может регулировать интенсивность массажа и режим массажа с
-`jetour_dashing_ru_a13ed6a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:61 | doc_type:owners_manual
 помощью экрана настройки массажа.
 Настройка мультимедиа (при наличии)
 ■Сиденье
@@ -3940,7 +3551,6 @@ ON, и передний плафон немедленно гаснет; при �
 на мультимедийном дисплее.
 
 ### Отрегулируйте угол наклона сиденья
-`jetour_dashing_ru_0afaff4b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 водителя/переднего пассажира.
 OMX65-4164
 ■Регулировка и память сиденья водителя
@@ -3955,7 +3565,6 @@ OMX65-4164
 46
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_41bbfd83` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
 ■Регулировка сиденья переднего пассажира
 Отрегулируйте положение сиденья переднего пассажира по мере необходимости,
 сохраните в памяти соответствующее положение.
@@ -3971,14 +3580,11 @@ OMX65-4164
 со стороны водителя, сиденье водителя автоматически переместится вперед в
 положение перед выходом из автомобиля.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_1cdd3fda` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:62 | doc_type:owners_manual
-• Не пристегивайте ремень безопасности перед регулировкой сиденья.
-• Не кладите никакие предметы под сиденье во время перемещения сиденья,
-иначе это может привести к повреждению сиденья.
+> ⚠️ **Внимание:** • Не пристегивайте ремень безопасности перед регулировкой сиденья.
+> • Не кладите никакие предметы под сиденье во время перемещения сиденья,
+> иначе это может привести к повреждению сиденья.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_6cb17d4d` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:62 | doc_type:owners_manual
 • Запрещается сидеть на сложенной спинке сиденья, иначе пассажиры могут
 серьезно
 пострадать
@@ -4013,7 +3619,6 @@ OMX65-4164
 47
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_39420473` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:63 | doc_type:owners_manual
 • Не регулируйте сиденье во время движения автомобиля, потому что сиденье
 может двигаться непредсказуемо и привести к тому, что водитель потеряет
 контроль над автомобилем.
@@ -4030,7 +3635,6 @@ OMX65-4164
 • Не управляйте автомобилем, если пассажиры не сидят должным образом.
 
 ### Потяните рукой кнопку разблокировки в
-`jetour_dashing_ru_364cc310` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 верхней части спинки сиденья, чтобы
 освободить
 спинку
@@ -4038,14 +3642,11 @@ OMX65-4164
 одновременно потянув спинку сиденья
 вперед, чтобы сложить ее.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_d83c8d0a` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:63 | doc_type:owners_manual
-При складывании спинки сиденья убедитесь, что внешний ремень безопасности
-проходит вокруг спинки сиденья, чтобы не повредить ремень.
-2-7. Ремень безопасности
+> ⚠️ **Внимание:** При складывании спинки сиденья убедитесь, что внешний ремень безопасности
+> проходит вокруг спинки сиденья, чтобы не повредить ремень.
+> 2-7. Ремень безопасности
 
 ### Ремень безопасности
-`jetour_dashing_ru_51af47d9` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:63 | doc_type:owners_manual
 Исследования показали, что правильное использование ремней безопасности
 может значительно снизить травматизм или гибель пассажиров при экстренном
 торможении, резком повороте руля и столкновении. Пожалуйста, внимательно
@@ -4053,7 +3654,6 @@ OMX65-4164
 48
 
 ### Индикатор ремня безопасности
-`jetour_dashing_ru_5032a975` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:64 | doc_type:owners_manual
 ■Ремень безопасности передний
 Исследования
 показали,
@@ -4087,7 +3687,6 @@ OMX65-4164
 пристегиваться ремнями безопасности.
 
 ### Невыполнение этого требования может
-`jetour_dashing_ru_ff8158f2` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:64 | doc_type:owners_manual
 повысить вероятность и тяжесть травм
 в случае аварии. Регулярно проверяйте
 ремень безопасности. Если обнаружен
@@ -4140,7 +3739,6 @@ Jetour для проверки и ремонта.
 49
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_b3f098de` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:65 | doc_type:owners_manual
 4
 ПОДГОТОВКА К ВОЖДЕНИЮ
 ПРОЧИТАЙТЕ
@@ -4157,11 +3755,9 @@ Jetour для проверки и ремонта.
 5: правый ремень безопасности второго ряда;
 
 ### Правильное использование ремня безопасности
-`jetour_dashing_ru_e75f4888` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 Шаг 1: Отрегулируйте высоту передних ремней безопасности.
 
 ### Отрегулируйте регулятор высоты ремня
-`jetour_dashing_ru_bb87aac7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 безопасности (передний ряд) в нужное
 положение для оптимального комфорта
 и защиты.
@@ -4204,7 +3800,6 @@ Jetour для проверки и ремонта.
 Убедитесь, что ремень безопасности
 
 ### OMX65-3082
-`jetour_dashing_ru_3857e2d0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 втягивается плавно.
 Потянуть вверх
 Слишком высоко
@@ -4212,7 +3807,6 @@ Jetour для проверки и ремонта.
 3:
 
 ### Отрегулируйте
-`jetour_dashing_ru_7522623e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 положение
 ремней безопасности.
 Отрегулируйте угол наклона спинки
@@ -4227,7 +3821,6 @@ Jetour для проверки и ремонта.
 сиденья.
 
 ### Расположите
-`jetour_dashing_ru_e4d06429` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:65 | doc_type:owners_manual
 поясной
 ремень
 как
@@ -4236,7 +3829,6 @@ Jetour для проверки и ремонта.
 полностью   охватывал   плечо,   но   не
 
 ### Ремень должен располагаться
-`jetour_dashing_ru_c01ed690` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:65 | doc_type:owners_manual
 на бедрах как можно ниже
 OMX65-3083
 соприкасался с шеей или скользил по
@@ -4244,11 +3836,9 @@ OMX65-3083
 50
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_b6e4b50c` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:66 | doc_type:owners_manual
 • Каждый ремень безопасности должен использоваться только одним человеком.
 
 ### Не пристегивайте ремень безопасности более чем для одного человека
-`jetour_dashing_ru_d93bf56b` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:66 | doc_type:owners_manual
 одновременно, включая детей.
 • Ремень безопасности заблокируется, если его быстро вытянуть или если
 автомобиль стоит на склоне, но не заблокируется, если вытянуть его медленно.
@@ -4261,36 +3851,33 @@ OMX65-3083
 • Перед началом движения убедитесь, что все пассажиры пристегнуты ремнями
 безопасности.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_8b1eec79` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:66 | doc_type:owners_manual
-• Убедитесь, что пряжка ремня безопасности находится в правильном положении
-и надежно заблокирована, в противном случае это может привести к травмам.
-• Не используйте ремни безопасности с ослабленной пряжкой, иначе ремень
-безопасности не защитит пассажиров в случае резкого торможения или
-столкновения.
-• Избегайте свободной одежды во время вождения. Это может помешать
-правильной установке ремня безопасности и повлиять на предлагаемую
-защиту.
-• Как высоко расположенные поясные ремни, так и неплотно закрепленные ремни
-могут привести к смерти или серьезным травмам во время столкновения или
-других непредвиденных событий.
-• Не наклоняйте сиденье больше, чем это необходимо для комфортной езды.
-Ремни безопасности наиболее эффективны, когда пассажиры сидят прямо и
-откидываются на спинку сиденья.
-• Убедитесь, что плечевой ремень проходит по плечо. Не размещайте плечевой
-ремень под рукой. Ремень должен держаться подальше от шеи, но не спадать с
-плеча. Невыполнение этого требования может снизить защитный эффект ремня
-безопасности в случае аварии.
-• Мы рекомендуем сажать детей на сиденье второго ряда. Используйте ремень
-безопасности или удерживающее устройство для ребенка с функцией ISOFIX в
-зависимости от роста ребенка. Никогда не закрепляйте детскую удерживающую
-систему
-только
-ремнем
-безопасности.
+> ⚠️ **Внимание:** • Убедитесь, что пряжка ремня безопасности находится в правильном положении
+> и надежно заблокирована, в противном случае это может привести к травмам.
+> • Не используйте ремни безопасности с ослабленной пряжкой, иначе ремень
+> безопасности не защитит пассажиров в случае резкого торможения или
+> столкновения.
+> • Избегайте свободной одежды во время вождения. Это может помешать
+> правильной установке ремня безопасности и повлиять на предлагаемую
+> защиту.
+> • Как высоко расположенные поясные ремни, так и неплотно закрепленные ремни
+> могут привести к смерти или серьезным травмам во время столкновения или
+> других непредвиденных событий.
+> • Не наклоняйте сиденье больше, чем это необходимо для комфортной езды.
+> Ремни безопасности наиболее эффективны, когда пассажиры сидят прямо и
+> откидываются на спинку сиденья.
+> • Убедитесь, что плечевой ремень проходит по плечо. Не размещайте плечевой
+> ремень под рукой. Ремень должен держаться подальше от шеи, но не спадать с
+> плеча. Невыполнение этого требования может снизить защитный эффект ремня
+> безопасности в случае аварии.
+> • Мы рекомендуем сажать детей на сиденье второго ряда. Используйте ремень
+> безопасности или удерживающее устройство для ребенка с функцией ISOFIX в
+> зависимости от роста ребенка. Никогда не закрепляйте детскую удерживающую
+> систему
+> только
+> ремнем
+> безопасности.
 
 ### Всегда
-`jetour_dashing_ru_3c9e6b75` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:66 | doc_type:owners_manual
 используйте
 стандартное
 крепежное устройство для детской удерживающей системы на сиденьях
@@ -4298,7 +3885,6 @@ OMX65-3083
 51
 
 ### Регулярно
-`jetour_dashing_ru_34bb8133` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:67 | doc_type:owners_manual
 проверяйте
 ремни
 безопасности
@@ -4320,21 +3906,18 @@ OMX65-3083
 сервисный центр Jetour для проверки и
 ремонта.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_6f992295` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:67 | doc_type:owners_manual
-• Не допускайте попадания воды на натяжитель ремня или механизм пряжки.
-• Не используйте химические  моющие средства, кипящую воду, отбеливатели
-или красители для стирки ремня безопасности.
-• Ремень безопасности следует мыть мягким моющим средством или теплой
-водой и сушить естественным путем. Никогда не чистите его искусственным
-теплом.
-• Не пытайтесь ремонтировать или смазывать натяжитель или механизм замка
-ремня безопасности, а также каким-либо образом ремонтировать ремень
-безопасности, в противном случае Chery Automobile Co., Ltd. не будет нести
-ответственность за возникшие проблемы.
+> ⚠️ **Внимание:** • Не допускайте попадания воды на натяжитель ремня или механизм пряжки.
+> • Не используйте химические  моющие средства, кипящую воду, отбеливатели
+> или красители для стирки ремня безопасности.
+> • Ремень безопасности следует мыть мягким моющим средством или теплой
+> водой и сушить естественным путем. Никогда не чистите его искусственным
+> теплом.
+> • Не пытайтесь ремонтировать или смазывать натяжитель или механизм замка
+> ремня безопасности, а также каким-либо образом ремонтировать ремень
+> безопасности, в противном случае Chery Automobile Co., Ltd. не будет нести
+> ответственность за возникшие проблемы.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_62abab59` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:67 | doc_type:owners_manual
 • Если ваш автомобиль попал в серьезную аварию, и даже если ремень
 безопасности не поврежден явно, обратитесь в авторизованный сервисный
 центр Jetour для проверки и ремонта.
@@ -4359,11 +3942,9 @@ OMX65-3083
 проведения необходимого обслуживания.
 
 ### Меры предосторожности при использовании ремня безопасности
-`jetour_dashing_ru_efa5195f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 ■Меры предосторожности при использовании ремня безопасности ребенком
 
 ### Ремни безопасности вашего автомобиля в основном предназначены для взрослых
-`jetour_dashing_ru_fbd406ee` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 людей. Используйте детскую удерживающую систему (подробности см. в разделе
 «Удерживающая система для ребенкае), подходящую для ребенка, пока ребенок не
 станет
@@ -4386,7 +3967,6 @@ OMX65-3083
 52
 
 ### OMX65-3085
-`jetour_dashing_ru_22f7aba0` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:68 | doc_type:owners_manual
 Убедитесь,
 что
 плечевой
@@ -4394,7 +3974,6 @@ OMX65-3083
 проходит по центру плеча ребенка.
 
 ### Ремень должен находится подальше от
-`jetour_dashing_ru_7d13104f` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:68 | doc_type:owners_manual
 шеи ребенка, но не спадать с плеча
 ребенка. В противном случае ребенок
 может получить серьезные травмы или
@@ -4402,7 +3981,6 @@ OMX65-3083
 или других непредвиденных событий.
 
 ### Неиспользование
-`jetour_dashing_ru_ef1e6895` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:68 | doc_type:owners_manual
 удерживающей
 системы
 для
@@ -4426,7 +4004,6 @@ OMX65-3083
 женщиной
 
 ### Соблюдите меди ценские советы и
-`jetour_dashing_ru_2a102557` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:68 | doc_type:owners_manual
 правильно
 пристегните
 ремень
@@ -4444,7 +4021,6 @@ OMX65-3083
 пассажиры.
 
 ### Полностью
-`jetour_dashing_ru_7326d3cd` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:68 | doc_type:owners_manual
 вытяните
 плечевой ремень через плечо и грудь,
 избегайте
@@ -4456,7 +4032,6 @@ OMX65-3083
 живота.
 
 ### Неправильное
-`jetour_dashing_ru_c2d853c2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:68 | doc_type:owners_manual
 пристегивание
 ремня
 безопасности
@@ -4468,7 +4043,6 @@ OMX65-3083
 время столкновения.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_609ea337` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:68 | doc_type:owners_manual
 • Не вставляйте в пряжку монеты, зажимы и т. д., чтобы предотвратить
 правильную фиксацию язычка и пряжки.
 • Вставив язычок, убедитесь, что язычок и пряжка заблокированы, а поясной и
@@ -4482,7 +4056,6 @@ OMX65-3083
 53
 
 ### ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_5a842f92` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:69 | doc_type:owners_manual
 Преднатяжитель ремня безопасности (при наличии)
 OMX65-3087
 • Преднатяжитель ремня безопасности
@@ -4522,7 +4095,6 @@ OMX65-3087
 вызывает возгорания и, как правило, безвреден.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_9021fd47` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:69 | doc_type:owners_manual
 • При
 срабатывании
 преднатяжителя
@@ -4547,7 +4119,6 @@ OMX65-3087
 центром
 
 ### Jetour
-`jetour_dashing_ru_da7d2772` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:69 | doc_type:owners_manual
 для
 проверки
 и
@@ -4557,12 +4128,10 @@ OMX65-3087
 ремня безопасности в сборе, датчик подушки безопасности и провод сборки.
 
 ### Иначе это может привести к смерти или серьезным травмам во время
-`jetour_dashing_ru_30b9f563` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 столкновения или других непредвиденных событий.
 ВНИМАНИЕ
 
 ### В  следующих  случаях  преднатяжитель  ремня  безопасности  может  работать
-`jetour_dashing_ru_c0660e6b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:69 | doc_type:owners_manual
 неправильно:
 • Изменить систему подвески.
 • Измените переднюю часть кузова.
@@ -4575,7 +4144,6 @@ OMX65-3087
 54
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_faf9886a` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:70 | doc_type:owners_manual
 2-8. Система безопасности для детей
 Система безопасности для детей
 Согласно статистике дорожно-транспортных происшествий, ребенок, сидящий на
@@ -4588,7 +4156,6 @@ OMX65-3087
 сиденье.
 
 ### Выберите
-`jetour_dashing_ru_e4f4b64f` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:70 | doc_type:owners_manual
 детскую
 удерживающую систему, соответствующую автомобилю, возрасту и размеру
 ребенка. (Ремень безопасности автомобиля, соответствующий международным
@@ -4597,7 +4164,6 @@ OMX65-3087
 может серьезно повредить его/ее шею в случае аварии).
 
 ### В данном руководстве по эксплуатации приведены только инструкции по установке
-`jetour_dashing_ru_6e9af90c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 удерживающей
 системы
 для
@@ -4610,7 +4176,6 @@ OMX65-3087
 предоставленному производителем детской удерживающей системы.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_0d1a19fe` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 • Никогда не закрепляйте детскую удерживающую систему только ремнем
 безопасности. Всегда используйте стандартное крепежное устройство для
 детской удерживающей системы на сиденьях второго ряда.
@@ -4631,7 +4196,6 @@ Automobile Co., Ltd. не несет ответственности за нес�
 ребенка на руках не заменяет удерживающее устройство для ребёнка.
 
 ### Удерживающие системы для ребенка должны соответствовать стандартам GB
-`jetour_dashing_ru_02e93001` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 27887 и ECER44. Системы безопасности для ребёнка, прошедшие проверку
 GB27887, обычно имеют сертификационный знак 3C. Системы безопасности для
 ребёнка, прошедшие стандартную проверку ECER44, также имеют оранжевую
@@ -4640,7 +4204,6 @@ GB27887, обычно имеют сертификационный знак 3C. �
 ■Системы безопасности для детей делятся на следующие весовые группы:
 
 ### Вес ребенка
-`jetour_dashing_ru_f4021e75` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 Группа 0
 от 0 до 10 кг
 Группа 0+
@@ -4656,7 +4219,6 @@ GB27887, обычно имеют сертификационный знак 3C. �
 55
 
 ### ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_fa7ce2aa` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 Весовой класс 1: подходит для использования удерживающих систем для ребенка
 группы 1 или 1/2 со встроенной системой ремней безопасности.
 Весовой класс 2/3: группа 2 подходит для удерживающих систем для ребёнка со
@@ -4665,7 +4227,6 @@ GB27887, обычно имеют сертификационный знак 3C. �
 ■Применимые типы удерживающих систем для ребёнка:
 
 ### Переднее
-`jetour_dashing_ru_3d3cdc65` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:71 | doc_type:owners_manual
 пассажирское
 сиденье
 Внешнее сиденье
@@ -4676,7 +4237,6 @@ GB27887, обычно имеют сертификационный знак 3C. �
 Группа 0
 
 ### X
-`jetour_dashing_ru_adc99428` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 Группа 0+
 X
 L
@@ -4692,7 +4252,6 @@ X
 Группа 3
 
 ### X
-`jetour_dashing_ru_adc99428` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 Значение букв в таблице выше:
 X: Он не подходит для установки удерживающих систем для ребенка любого типа в
 этой весовой категории.
@@ -4710,7 +4269,6 @@ L: Если автомобиль указан в применимом списк
 удерживающей системы «полуобщегое типа.
 
 ### Меры предосторожности при использовании удерживающих систем для
-`jetour_dashing_ru_5e57d757` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:71 | doc_type:owners_manual
 ребёнка
 AIRBAG
 START
@@ -4733,7 +4291,6 @@ OMX65-3090
 безопасности
 
 ### Соблюдайте
-`jetour_dashing_ru_aa322790` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:71 | doc_type:owners_manual
 следующие меры предосторожности:
 1. Никогда не устанавливайте систему
 безопасности для детей, обращенную
@@ -4746,7 +4303,6 @@ OMX65-3090
 2.
 
 ### Никогда
-`jetour_dashing_ru_3c7ec07a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 и
 ни
 при
@@ -4766,13 +4322,11 @@ OMX65-3090
 3.
 
 ### Никогда не закрепляйте детскую удерживающую систему только ремнем
-`jetour_dashing_ru_dfa4d656` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 безопасности. Всегда используйте стандартное крепежное устройство для детской
 удерживающей системы на сиденьях второго ряда.
 56
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_6aaf3aff` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 Если вы нарушите три вышеуказанные меры предосторожности, Chery Automobile
 Co., Ltd. не будет нести ответственность за возникшие в связи с этим проблемы.
 Установка удерживающей системы для ребёнка (ISOFIX)
@@ -4786,7 +4340,6 @@ Co., Ltd. не будет нести ответственность за воз�
 GB14167 и ECER14. Точка крепления
 
 ### ISOFIX
-`jetour_dashing_ru_04bed832` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:72 | doc_type:owners_manual
 расположена
 на
 крайнем
@@ -4801,14 +4354,12 @@ GB14167 и ECER14. Точка крепления
 сиденья).
 
 ### OMX65-3091
-`jetour_dashing_ru_ae2fdc17` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 ■Размерный класс удерживающих систем для ребенка (ISOFIX):
 Используйте класс размеров детской удерживающей системы, соответствующий
 интерфейсу ISOFIX, чтобы помочь пользователям выбрать правильный тип детской
 удерживающей системы.
 
 ### Размерный
-`jetour_dashing_ru_1d618503` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 класс
 Фиксированный модуль
 Описание
@@ -4818,7 +4369,6 @@ ISO/F3
 обращенная вперед, для малышей
 
 ### Детская удерживающая система уменьшенной
-`jetour_dashing_ru_5ff0e0d4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 высоты, обращенная вперед, для малышей
 B1
 ISO/F2X
@@ -4826,17 +4376,14 @@ ISO/F2X
 высоты, обращенная вперед, для малышей
 
 ### ISO/R3
-`jetour_dashing_ru_4928996f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 Полноразмерная детская удерживающая система,
 обращенная назад, для малышей
 
 ### ISO/R2
-`jetour_dashing_ru_1fc63293` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 Детская удерживающая система меньшего размера,
 обращенная назад, для детей младшего возраста
 
 ### Повернутая назад система безопасности для
-`jetour_dashing_ru_3c3447a0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 младенцев
 F
 ISO/L1
@@ -4844,17 +4391,14 @@ ISO/L1
 (переносная кровать)
 
 ### ISO/L2
-`jetour_dashing_ru_a97a3326` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 Детская удерживающая система, обращенная
 вправо (переносная кровать)
 57
 
 ### ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_bc568d42` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 ■Применимые типы удерживающих систем для ребенка (ISOFIX):
 
 ### Весовая
-`jetour_dashing_ru_9fd15de2` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:73 | doc_type:owners_manual
 группа
 Размерный
 класс
@@ -4864,7 +4408,6 @@ ISO/L1
 пассажирское сиденье
 
 ### Внешнее
-`jetour_dashing_ru_b4ae2eae` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:73 | doc_type:owners_manual
 сиденье
 второго
 ряда
@@ -4874,7 +4417,6 @@ ISO/L1
 Портативный кровать
 
 ### X
-`jetour_dashing_ru_2cca123c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 (1)
 Группа 0
 E
@@ -4888,7 +4430,6 @@ E
 ISO/R1
 
 ### X
-`jetour_dashing_ru_2cca123c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 (1)
 Группа 1
 D
@@ -4905,7 +4446,6 @@ B
 ISO/F2
 
 ### X
-`jetour_dashing_ru_2cca123c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 (1)
 Группа 2
 (1)
@@ -4925,7 +4465,6 @@ XX (от A до G), если необходимо знать подходящу�
 58
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_5742ac88` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:74 | doc_type:owners_manual
 Установка удерживающей системы для ребёнка (ISOFIX)
 Шаг 1: Найдите нижнее стопорное
 кольцо, используемое для крепления
@@ -4934,7 +4473,6 @@ XX (от A до G), если необходимо знать подходящу�
 2:
 
 ### Установите
-`jetour_dashing_ru_140a9c31` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:74 | doc_type:owners_manual
 детскую
 удерживающую
 систему
@@ -4943,13 +4481,11 @@ XX (от A до G), если необходимо знать подходящу�
 второго ряда.
 
 ### OMX65-3091
-`jetour_dashing_ru_825d5195` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:74 | doc_type:owners_manual
 Шаг 3: Вставьте и закрепите нижний
 крюк детской удерживающей системы
 на нижнем стопорном кольце.
 
 ### OMX65-3094
-`jetour_dashing_ru_30b40fb5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:74 | doc_type:owners_manual
 Шаг
 4:
 Вытяните
@@ -4963,7 +4499,6 @@ XX (от A до G), если необходимо знать подходящу�
 крепления
 
 ### (TOPTETHER)
-`jetour_dashing_ru_d749c8ca` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:74 | doc_type:owners_manual
 для
 детской
 удерживающей
@@ -4981,7 +4516,6 @@ XX (от A до G), если необходимо знать подходящу�
 верхней точки крепления (TOPTETHER).
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_d4ef6d95` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:74 | doc_type:owners_manual
 • Перед использованием снимите подголовник с места установки детской
 удерживающей системы, а затем повесьте крюк  детской  удерживающей
 системы на точку крепления, чтобы ремень крюка не попал прямо на верхнюю
@@ -5002,7 +4536,6 @@ XX (от A до G), если необходимо знать подходящу�
 59
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_92b8c1ae` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:75 | doc_type:owners_manual
 • После установки детской удерживающей системы никогда не регулируйте
 сиденье.
 • Детская удерживающая система должна быть установлена на сиденье второго
@@ -5038,7 +4571,6 @@ XX (от A до G), если необходимо знать подходящу�
 ли детская удерживающая система, толкая и дергая ее в разных направлениях.
 
 ### Следуйте
-`jetour_dashing_ru_16f442e9` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:75 | doc_type:owners_manual
 инструкциям
 по
 установке,
@@ -5051,7 +4583,6 @@ XX (от A до G), если необходимо знать подходящу�
 не устанавливайте детскую удерживающую систему на сиденье второго ряда.
 
 ### Ребенок и передний пассажир могут получить серьезные травмы или даже
-`jetour_dashing_ru_e2b87b14` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:75 | doc_type:owners_manual
 погибнуть во время столкновения или других непредвиденных событий.
 • Не позволяйте ребенку играть с ремнем безопасности с функцией блокировки
 детской удерживающей системы. Избегайте перекручивания ремня вокруг шеи
@@ -5075,11 +4606,9 @@ XX (от A до G), если необходимо знать подходящу�
 61
 
 ### ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_2715b5fc` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 3-1. Информация о ключе
 
 ### Функция
-`jetour_dashing_ru_a34dbf50` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:77 | doc_type:owners_manual
 дистанционного
 управления окном  ............. 75
 Функция от защемления
@@ -5094,33 +4623,27 @@ XX (от A до G), если необходимо знать подходящу�
 дисплей
 
 ### Мультимедийная
-`jetour_dashing_ru_d1a4d089` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:77 | doc_type:owners_manual
 Настройка автомобиля ....... 84
 
 ### Мультимедийный вид
-`jetour_dashing_ru_d3b4dbd3` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:77 | doc_type:owners_manual
 Настройки автомобиля ...... 91
 
 ### Подключение мобильного
-`jetour_dashing_ru_9d2e8e6e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 телефона
 3-6. Система
 кондиционирования
 воздуха
 
 ### Система
-`jetour_dashing_ru_5db8721c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 кондиционирования
 
 ### Функция охлаждения
-`jetour_dashing_ru_3e7932f3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 коробки подлокотника
 на вспомогательной
 приборной панели............. 101
 62
 
 ### ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_f2ade510` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:78 | doc_type:owners_manual
 3-7. Беспроводная
 зарядка (при наличии)
 Беспроводная
@@ -5129,17 +4652,14 @@ XX (от A до G), если необходимо знать подходящу�
 комплектован)
 
 ### Функция записи
-`jetour_dashing_ru_ec08ebcf` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 3-9. Пространство для
 хранения
 
 ### Пространство для
-`jetour_dashing_ru_3498c805` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 3-10.Электрическая
 розетка
 
 ### Электрическая
-`jetour_dashing_ru_770fc5c7` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:78 | doc_type:owners_manual
 розетка.
 3-11.Порт USB
 3-12.Солнцезащитные
@@ -5147,7 +4667,6 @@ XX (от A до G), если необходимо знать подходящу�
 зеркало
 
 ### Солнцезащитные
-`jetour_dashing_ru_5ce372fd` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:78 | doc_type:owners_manual
 козырьки и
 косметическое
 3-13.Капот
@@ -5156,12 +4675,10 @@ XX (от A до G), если необходимо знать подходящу�
 отделения
 
 ### Дверь багажного
-`jetour_dashing_ru_92d6ead8` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:78 | doc_type:owners_manual
 отделения с
 электродвигателем
 
 ### Аварийное открытие
-`jetour_dashing_ru_629636d4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 двери багажного
 3-15 .Крышка топливного
 бака
@@ -5169,7 +4686,6 @@ XX (от A до G), если необходимо знать подходящу�
 крышки топливного
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_ba196a5c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 63
 ВНУТРЕННЯЯ ФУНКЦИЯ
 3-1. Информация о ключе
@@ -5180,7 +4696,6 @@ XX (от A до G), если необходимо знать подходящу�
 видимости) от автомобиля.
 
 ### Кнопка разблокировки
-`jetour_dashing_ru_162bce3b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 кнопка блокировки
 Кнопка старт/стоп (если
 2
@@ -5188,7 +4703,6 @@ XX (от A до G), если необходимо знать подходящу�
 комплектован)
 
 ### Кнопка определения
-`jetour_dashing_ru_174b1e11` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 3
 5
 4
@@ -5197,7 +4711,6 @@ OMX65-4010
 комплектован)
 
 ### Кнопка открывания двери багажного
-`jetour_dashing_ru_eab60165` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 отделения
 Механический
 ключ,
@@ -5216,7 +4729,6 @@ OMX65-4010
 «Дверие).
 
 ### Ограничение функции
-`jetour_dashing_ru_72ed78b7` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:79 | doc_type:owners_manual
 ■В следующих условиях смарт-ключ может работать неправильно:
 • Рядом используется более одного смарт-ключа.
 • Расстояние между автомобилем и смарт-ключом превышает 20 м.
@@ -5230,7 +4742,6 @@ OMX65-4010
 такими как телевышка, радиостанция, электростанция, аэропорт, вокзал).
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_63c0217d` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:80 | doc_type:owners_manual
 64
 ВНИМАНИЕ
 • Этот продукт представляет собой низкочастотное радиоустройство, и ему могут
@@ -5258,7 +4769,6 @@ OMX65-4010
 смарт-ключ.
 
 ### Нажмите
-`jetour_dashing_ru_a10666ec` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 кнопку
 фиксатора на задней стороне смартключа,
 чтобы
@@ -5267,7 +4777,6 @@ OMX65-4010
 ключ.
 
 ### OMX65-4011
-`jetour_dashing_ru_c8586a32` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 Шаг
 2:
 Используйте
@@ -5280,7 +4789,6 @@ OMX65-4010
 смарт-ключа.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_56d50d55` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:81 | doc_type:owners_manual
 65
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Шаг
@@ -5291,52 +4799,46 @@ OMX65-4010
 установите новый.
 
 ### OMX65-4013
-`jetour_dashing_ru_23d4f85c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 Шаг 4: Установите смарт-ключ на место в порядке, обратном снятию.
 Шаг 5: После замены батареи проверьте на правильность состояния работы смартключа (нажмите любую кнопку смарт-ключа, чтобы убедиться, что индикатор
 загорается). Если смарт-ключ не работает должным образом, как можно скорее
 обратитесь в авторизованный сервисный центр Jetour для проверки и ремонта.
 
 ### Использованную литиевую батарею нельзя утилизировать как обычный бытовой
-`jetour_dashing_ru_411b9a3f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 мусор. Обращайтесь с использованной батареей в соответствии с местными
 нормами и положениями, касающимися защиты окружающей среды.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_c05867da` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 Убедитесь, что положительные и отрицательные клеммы батареи расположены
 правильно.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_1c7f54df` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
-• Не кладите ключ в место с высокой температурой, например, на приборную
-панель, подвергающуюся воздействию высокой температуры летом.
-• Не используйте ключ, чтобы сильно ударить по другому предмету или уронить
-его.
-• Не допускайте попадания воды в ключ и не мойте его в ультразвуковом
-очистителе.
-• Не кладите смарт-ключ вместе с электромагнитным волновым устройством,
-например мобильным телефоном.
-• Не сгибайте электрод и клемму при установке батареи.
-• Убедитесь, что ваши руки сухие и держите их подальше от воды при замене
-батареи.
-• Не прикасайтесь к новой батарее замасленными руками. Невыполнение этого
-требования может привести к коррозии аккумулятора.
-• Не прикасайтесь и не перемещайте никакие компоненты внутри электронного
-ключа, иначе его функции могут работать неправильно.
-• При
-замене
-батареи
-возникают
-некоторые
-трудности,
-поэтому
-при
-самостоятельной замене батареи она может быть повреждена. Рекомендуется
-заменить его на авторизованной станции обслуживания Jetour.
+> ⚠️ **Внимание:** • Не кладите ключ в место с высокой температурой, например, на приборную
+> панель, подвергающуюся воздействию высокой температуры летом.
+> • Не используйте ключ, чтобы сильно ударить по другому предмету или уронить
+> его.
+> • Не допускайте попадания воды в ключ и не мойте его в ультразвуковом
+> очистителе.
+> • Не кладите смарт-ключ вместе с электромагнитным волновым устройством,
+> например мобильным телефоном.
+> • Не сгибайте электрод и клемму при установке батареи.
+> • Убедитесь, что ваши руки сухие и держите их подальше от воды при замене
+> батареи.
+> • Не прикасайтесь к новой батарее замасленными руками. Невыполнение этого
+> требования может привести к коррозии аккумулятора.
+> • Не прикасайтесь и не перемещайте никакие компоненты внутри электронного
+> ключа, иначе его функции могут работать неправильно.
+> • При
+> замене
+> батареи
+> возникают
+> некоторые
+> трудности,
+> поэтому
+> при
+> самостоятельной замене батареи она может быть повреждена. Рекомендуется
+> заменить его на авторизованной станции обслуживания Jetour.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_43f0e218` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 66
 ОПАСНОСТЬ
 Соблюдайте особую осторожность, чтобы дети не проглотили извлеченную
@@ -5344,7 +4846,6 @@ OMX65-4010
 смерти или серьезной травме ребенка.
 
 ### Режим обнаружения автомобиля
-`jetour_dashing_ru_db0ef0c3` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:82 | doc_type:owners_manual
 Когда автомобиль находится в противоугонном состоянии, двойное нажатие кнопки
 блокировки на смарт-ключе в течение 1,5 с может привести к двойному звуковому
 клаксону, миганию указателя поворота и включению габаритного света на 10 с.
@@ -5352,7 +4853,6 @@ OMX65-4010
 можно использовать для определения конкретного местоположения автомобиля.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_cd82c407` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 Если смарт-ключ оснащен кнопкой определения местоположения автомобиля,
 найдите
 свой
@@ -5367,7 +4867,6 @@ OMX65-4010
 кнопку старт/стоп, чтобы запустить/остановить двигатель.
 
 ### Вдали от зоны блокировки
-`jetour_dashing_ru_fb63ffc6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 Покиньте автомобиль, неся при себе
 смарт-ключ,
 двери
@@ -5375,7 +4874,6 @@ OMX65-4010
 заблокируются.
 
 ### Зона включения интеллектуальных
-`jetour_dashing_ru_28ab9d3e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 приветственных огней
 Подойдите к автомобилю, неся при
 себе
@@ -5384,13 +4882,11 @@ OMX65-4010
 приветственные огни.
 
 ### Близко от зоны разблокировки
-`jetour_dashing_ru_50c0200c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 Подойдите  к  автомобилю,  неся  при
 себе смарт-ключ, двери автоматически
 разблокируется.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_cf86bc9e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 67
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Вход без ключа
@@ -5423,7 +4919,6 @@ OMX65-4015
 двери, чтобы открыть дверь.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_47929a98` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:83 | doc_type:owners_manual
 • Установите время закрытия всех дверных ручек или ручки двери водителя через
 [Мое приложение] → [Управление автомобилем] → [Настройка автомобиля] на
 мультимедийном дисплее.
@@ -5443,7 +4938,6 @@ OMX65-4015
 того, как все двери будут закрыты в течение 30 с.
 
 ### Если наружная ручка двери закрыта или
-`jetour_dashing_ru_a8ce13c5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 не может быть выдвинута, нажмите и
 удерживайте
 переднюю
@@ -5458,7 +4952,6 @@ OMX65-4015
 наружную ручку двери.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_7b90a7d8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 68
 ОПАСНОСТЬ
 Во время автоматического втягивания ручки двери , пожалуйста, избегайте того,
@@ -5466,7 +4959,6 @@ OMX65-4015
 травмам рук.
 
 ### Функция
-`jetour_dashing_ru_a98293bb` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:84 | doc_type:owners_manual
 приветствия
 включается
 через
@@ -5490,7 +4982,6 @@ OMX65-4015
 автоматически закроются.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_b99ed21e` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:84 | doc_type:owners_manual
 • Используйте функцию приветствия. После блокировки автомобиля на 3 дня
 функция приветствия отключается. Необходимо перезапустить двигатель,
 функция приветствия восстановится.
@@ -5510,7 +5001,6 @@ OMX65-4015
 неудовлетворительное состояние.
 
 ### OMX65-4018
-`jetour_dashing_ru_83229c15` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:84 | doc_type:owners_manual
 Режим охраны:
 Когда
 питание
@@ -5524,7 +5014,6 @@ OMX65-4015
 охраны.
 
 ### Успешное
-`jetour_dashing_ru_22b8aef4` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:84 | doc_type:owners_manual
 включение
 охранной
 системы:
@@ -5544,7 +5033,6 @@ OMX65-4015
 поднимаются.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_9b7b0b78` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:85 | doc_type:owners_manual
 69
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Сообщение о сбое охраны:
@@ -5559,7 +5047,6 @@ OMX65-4015
 системы.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_4befdb6f` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:85 | doc_type:owners_manual
 • Подсказка о включении охранной системы должна быть установлена в
 мультимедийном дисплее,  подробности  см.  в  разделе «Мультимедийный
 дисплейе.
@@ -5579,14 +5066,12 @@ OMX65-4015
 охранной системы автомобиля не будет выполнено.
 
 ### Срабатывание тревоги
-`jetour_dashing_ru_b7ad8f39` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:85 | doc_type:owners_manual
 В следующих ситуациях, система отправит сигнал тревоги:
 • Без использования функции ввода смарт-ключа, любая из дверей, дверь
 багажника или капот разблокируется.
 • Без использования функции запуска смарт-ключа, автомобиль включается.
 
 ### Нажмите
-`jetour_dashing_ru_5104e0e7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 кнопку
 разблокировки
 на
@@ -5615,7 +5100,6 @@ OMX65-4015
 постановки на охрану.
 
 ### Подсказка
-`jetour_dashing_ru_0cc59ba7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 о
 выключении
 охранной
@@ -5624,43 +5108,36 @@ OMX65-4015
 зеркала выдвигаются.
 
 ### Система иммобилайзера двигателя
-`jetour_dashing_ru_ecd2f248` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 Смарт-ключ имеет встроенный транспондерный чип. Если смарт-ключ не вставлен в
 модуль иммобилайзера двигателя, встроенный чип предотвратит запуск двигателя.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_472de1c5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 70
 ◆В следующих условиях система иммобилайзера двигателя может работать
 неправильно:
 
 ### 2. Измените или удалите систему иммобилайзера двигателя.
-`jetour_dashing_ru_9beb224b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 3. Смарт-ключ  находится  слишком  близко  или  касается  смарт-ключа  (ключа  со
 встроенным транспондерным чипом) другого автомобиля.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_7e28c35b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
-• Не подбирайте смарт-ключ самостоятельно, иначе система иммобилайзера
-двигателя может работать неправильно.
-• Если автомобиль не запускается, это может быть связано с вмешательством
-системы
-иммобилайзера,
-пожалуйста,
-немедленно
-обратитесь
-на
-авторизованную сервисную станцию Jetour для проверки и ремонта..
+> ⚠️ **Внимание:** • Не подбирайте смарт-ключ самостоятельно, иначе система иммобилайзера
+> двигателя может работать неправильно.
+> • Если автомобиль не запускается, это может быть связано с вмешательством
+> системы
+> иммобилайзера,
+> пожалуйста,
+> немедленно
+> обратитесь
+> на
+> авторизованную сервисную станцию Jetour для проверки и ремонта..
 
 ### Противоугонная система автомобиля
-`jetour_dashing_ru_703f3d6d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 Когда автомобиль находится в режиме охраны, незаконное открытие любой из
 четырех дверей и двери багажного отделения или переключение питания
 автомобиля на передачу ON, может привести к срабатыванию сигнализации
 автомобиля и миганию указателя поворота.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_cfc82df6` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:86 | doc_type:owners_manual
 • Противоугонная система автомобиля не будет активирована, если двери
 заперты механическим ключом. Рекомендуется запирать двери смарт-ключом.
 • После запирания дверей смарт-ключом противоугонная система автомобиля
@@ -5681,7 +5158,6 @@ OMX65-4015
 3-2. Двери
 
 ### Переключатель дверного замка
-`jetour_dashing_ru_3d5547d0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 Когда
 двери
 заперты,
@@ -5696,7 +5172,6 @@ OMX65-4015
 чтобы заблокировать двери.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_a46480ab` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:87 | doc_type:owners_manual
 71
 ВНУТРЕННЯЯ ФУНКЦИЯ
 ПРОЧИТАЙТЕ
@@ -5706,7 +5181,6 @@ OMX65-4015
 «Мультимедийный дисплейе.
 
 ### Отпирание дверей внутренней ручкой
-`jetour_dashing_ru_fac3bc73` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:87 | doc_type:owners_manual
 Когда двери разблокированы, потяните
 внутреннюю ручку двери прямо, чтобы
 открыть двери.
@@ -5718,34 +5192,29 @@ OMX65-4015
 чтобы отпереть двери, и потяните еще
 раз, чтобы открыть двери.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_ca1a773d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:87 | doc_type:owners_manual
-• В случае столкновения автомобиля, двери разблокируются автоматически.
-• Повторите операцию разблокировки/блокировки 10 раза в течение 25 с,
-блокировка автомобиля в это время запрещено.
-• Если дверь заблокирована с помощью механического ключа, противоугонная
-функция
-автомобиля
-не
-может
-быть
-активирована.
+> ⚠️ **Внимание:** • В случае столкновения автомобиля, двери разблокируются автоматически.
+> • Повторите операцию разблокировки/блокировки 10 раза в течение 25 с,
+> блокировка автомобиля в это время запрещено.
+> • Если дверь заблокирована с помощью механического ключа, противоугонная
+> функция
+> автомобиля
+> не
+> может
+> быть
+> активирована.
 
 ### Рекомендуется
-`jetour_dashing_ru_9232e749` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:87 | doc_type:owners_manual
 заблокировать двери смарт-ключом.
 • После запирания дверей смарт-ключом противоугонная система автомобиля
 сработает, если передняя левая дверь разблокирована и открыта механическим
 ключом.
 
 ### Дверной механический переключатель
-`jetour_dashing_ru_e457c8c8` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:87 | doc_type:owners_manual
 Автомобиль не может быть разблокирован/заблокирован электрически при
 разряженной батарее или в аналогичных условиях. В этом случае каждую дверь
 можно разблокировать/запереть механическим выключателем двери.
 
 ### При отпирании передней левой двери механическим ключом срабатывает
-`jetour_dashing_ru_3c334222` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:87 | doc_type:owners_manual
 противоугонная
 система
 автомобиля;
@@ -5756,7 +5225,6 @@ OMX65-4015
 автомобиля.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_5897949d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 72
 OMX65-4713
 Шаг
@@ -5771,7 +5239,6 @@ OMX65-4713
 2:
 
 ### Удерживайте
-`jetour_dashing_ru_2e2ad3f9` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:88 | doc_type:owners_manual
 выдвинутую
 наружную ручку двери одной рукой, а
 другой рукой вставьте механический
@@ -5795,7 +5262,6 @@ OMX65-4713
 Передняя правая дверь/двери второго ряда
 
 ### Автомобиль
-`jetour_dashing_ru_e0917a4f` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:88 | doc_type:owners_manual
 не
 может
 быть
@@ -5811,7 +5277,6 @@ OMX65-4713
 аварийного заблокирования.
 
 ### OMX65-4023
-`jetour_dashing_ru_b1bff5c9` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:88 | doc_type:owners_manual
 Метод работы следующий:
 Шаг 1: Откройте двери;
 Шаг 2: Вставьте механический ключ в отверстие механического переключателя в
@@ -5823,7 +5288,6 @@ OMX65-4713
 дверь).
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_2c436401` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:88 | doc_type:owners_manual
 • Если двери не открываются/запираются электрически, как можно скорее
 обратитесь на авторизованный сервисный центр Jetour для проверки и
 ремонта.
@@ -5841,7 +5305,6 @@ OMX65-4713
 Jetour.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_7cfec683` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 73
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Замок от детей
@@ -5856,7 +5319,6 @@ OMX65-4024
 Заблокировать:
 
 ### Используйте
-`jetour_dashing_ru_897338b4` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:89 | doc_type:owners_manual
 механический ключ или подходящую
 отвертку,
 чтобы
@@ -5872,7 +5334,6 @@ OMX65-4024
 Разблокировать:
 
 ### Используйте
-`jetour_dashing_ru_897338b4` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:89 | doc_type:owners_manual
 механический ключ или подходящую
 отвертку,
 чтобы
@@ -5886,7 +5347,6 @@ OMX65-4024
 снаружи.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_9bb17535` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:89 | doc_type:owners_manual
 • Система автономна  и ни  в  коем случае  не может заменить механизм
 центрального замка.
 • Перед началом движения убедитесь, что все двери закрыты, в противном
@@ -5901,7 +5361,6 @@ OMX65-4024
 длится короткое время, может привести к серьезным травмам или даже смерти.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_8de19e10` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 74
 3-3. Окна
 Настройка окна
@@ -5910,13 +5369,11 @@ OMX65-4024
 3
 
 ### Включите
-`jetour_dashing_ru_088a0760` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:90 | doc_type:owners_manual
 переключатель
 стеклоподъемника после переключения
 питания автомобиля в режим ON:
 
 ### Автоматическое открытие
-`jetour_dashing_ru_ad73dd7a` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:90 | doc_type:owners_manual
 4
 2
 Ручное закрытие
@@ -5951,7 +5408,6 @@ OMX65-4040
 автоматически, сигнал тревоги сработает 3 раза.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_9dc7cb09` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:90 | doc_type:owners_manual
 • Водитель
 несет
 ответственность
@@ -5965,7 +5421,6 @@ OMX65-4040
 работу пассажиров.
 
 ### Во избежание случайного
-`jetour_dashing_ru_53ce95a6` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:90 | doc_type:owners_manual
 срабатывания
 (особенно
 детьми)
@@ -5984,13 +5439,11 @@ OMX65-4040
 случаю.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_498d68eb` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 75
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Переключатель блокировки окна
 
 ### Используйте
-`jetour_dashing_ru_eac4586e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 эту
 функцию,
 чтобы
@@ -5999,7 +5452,6 @@ OMX65-4040
 детьми.
 
 ### Нажмите
-`jetour_dashing_ru_56e779b1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 переключатель
 блокировки
 окон,
@@ -6011,7 +5463,6 @@ OMX65-4040
 заблокировано.
 
 ### Окнами пассажира можно управлять
-`jetour_dashing_ru_b6ee748b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:91 | doc_type:owners_manual
 только
 с
 помощью
@@ -6029,19 +5480,16 @@ OMX65-4040
 находится ребенок).
 
 ### Функция опускания окна на пульте дистанционного управления
-`jetour_dashing_ru_34f8f21b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:91 | doc_type:owners_manual
 Когда питание автомобиля переключается в режим OFF, все двери закрываются. В
 зоне действия зажимайте кнопку разблокировки на смарт-ключе, чтобы открыть все
 окна, и наружное зеркало заднего вида автоматически расширится.
 
 ### Функция подъема окна на пульте дистанционного управления
-`jetour_dashing_ru_b9e88aa7` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:91 | doc_type:owners_manual
 Когда питание автомобиля переключается в режим OFF, все двери закрываются. В
 зоне действия зажимайте кнопку блокировки на смарт-ключе, чтобы закрыть все
 окна, и наружное зеркало заднего вида автоматически складывается.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_2ddac6dd` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:91 | doc_type:owners_manual
 При
 использовании
 электростеклоподъемника
@@ -6059,13 +5507,11 @@ OMX65-4040
 электростеклоподъемник может защемить детей и других пассажиров.
 
 ### Функция защиты от защемления
-`jetour_dashing_ru_1ab94afe` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 В зоне действия функции защиты от защемления, когда окно сталкивается с
 препятствиями во время автоматического подъема окна, оно останавливается на
 полпути и приоткрывается.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_2ddac6dd` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:91 | doc_type:owners_manual
 • Не активируйте функцию защиты от заклинивания, намеренно зажимая какуюлибо часть тела.
 • Не позволяйте детям управлять электрическими стеклоподъемниками.
 • Если какой-либо предмет захвачен в тот момент, когда окно готово полностью
@@ -6073,7 +5519,6 @@ OMX65-4040
 осторожны, чтобы окно не зацепило никакую часть тела.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_db00b0bf` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 76
 Функция защиты от защемления
 Во время подъема окна одним касанием или дистанционного управления подъемом
@@ -6105,13 +5550,11 @@ OMX65-4040
 вернется в нормальное состояние.
 
 ### Отмена функции защиты от защемления
-`jetour_dashing_ru_137fde4e` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:92 | doc_type:owners_manual
 Если при подъеме окна два раза подряд встретится препятствие, окно перестанет
 подниматься, функция защиты от защемления будет отменена. Если кабель
 аккумулятора был отсоединен функция защиты от защемления будет отменена.
 
 ### Функция защиты от перегрева
-`jetour_dashing_ru_b78c9901` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 Для защиты двигателя, если операция подъема-опускания окна выполняется
 непрерывно,
 функция
@@ -6125,7 +5568,6 @@ OMX65-4040
 использование других обычных функций окна вверхвниз.
 
 ### Самообучающаяся защита от защемления окон
-`jetour_dashing_ru_3a9d83b4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 Шаг 1: Включите питание автомобиля в режим ON.
 Шаг 2: Вручную нажмите переключатель окна, чтобы полностью закрыть окно, и
 удерживайте переключатель в течение 2 секунд.
@@ -6152,13 +5594,11 @@ OMX65-4040
 закрыто нормально во время успешной настройки.
 
 ### При движении по дорогам с ямами или неровными поверхностями сила тяжести
-`jetour_dashing_ru_a444ec85` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 может неожиданно повлиять на дверную систему. В этом случае окно может
 перевернуться и опуститься при одновременном подъеме с помощью функции
 окно вверх в одно касание. Это событие с небольшой вероятностью и нормальное.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_ffbf259b` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:93 | doc_type:owners_manual
 77
 ВНУТРЕННЯЯ ФУНКЦИЯ
 ВНИМАНИЕ
@@ -6192,14 +5632,12 @@ sos
 2
 
 ### Ручная операция
-`jetour_dashing_ru_559f5465` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 • Переместите и удерживайте кнопку в
 положении
 , и  люк остановится
 после наклона на максимальный угол.
 
 ### Снова переместите и
-`jetour_dashing_ru_d9774354` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 удерживайте
 кнопку, и люк можно будет открыть
 вручную.
@@ -6211,7 +5649,6 @@ sos
 отпустите кнопку, и люк остановится.
 
 ### Автоматическая операция
-`jetour_dashing_ru_d35a2596` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 • Переместите кнопку в положении , и люк остановится после наклона на
 максимальный угол. Переместите кнопку, и люк автоматически откроется в
 удобное положение и остановится, затем снова переместите кнопку, люк
@@ -6222,7 +5659,6 @@ sos
 остановится.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_1839cf63` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 78
 ВНИМАНИЕ
 • Когда температура наружного воздуха ниже -20 ℃, запрещается использовать
@@ -6233,7 +5669,6 @@ sos
 люка.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_8e3226a7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 • Водитель несет ответственность за работу люка, включая работу пассажиров.
 Во избежание случайного срабатывания (особенно детьми) не позволяйте
 детям управлять люком. Дети и другие пассажиры могут застрять в люке
@@ -6249,7 +5684,6 @@ sos
 2
 
 ### Ручная операция
-`jetour_dashing_ru_859d05c2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 • Переместите и удерживайте кнопку в
 положении
 ,
@@ -6268,7 +5702,6 @@ sos
 остановится.
 
 ### Автоматическая операция
-`jetour_dashing_ru_c6b930fe` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 • Переместите  кнопку  в  положении
 ,  солнцезащитный  козырек  откроется
 автоматически.
@@ -6280,13 +5713,11 @@ sos
 или   , солнцезащитный козырек остановится.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_6cfd7e0d` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:94 | doc_type:owners_manual
 • Подробнее о функции распознавания голоса см. в разделе «Мультимедийный
 дисплейе.
 • Регулярно очищайте направляющую солнцезащитного козырька.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_1dda0473` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 79
 ВНУТРЕННЯЯ ФУНКЦИЯ
 ВНИМАНИЕ
@@ -6304,7 +5735,6 @@ sos
 предотвратить падение или повреждение солнцезащитного козырька.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_44d656d2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 • Водитель несет ответственность за работу солнцезащитного козырька, включая
 работу пассажиров. Во избежание случайного срабатывания (особенно детьми)
 не позволяйте  детям управлять солнцезащитным козырьком. Дети  и другие
@@ -6317,27 +5747,23 @@ sos
 случаю.
 
 ### Функция защиты от застревания
-`jetour_dashing_ru_5f538c7f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 В зоне действия функции защиты от защемления, когда люк и солнцезащитный
 козырек сталкиваются с препятствиями во время закрывания, они останавливаются
 на полпути и приоткрываются.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_44d656d2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 • Не активируйте функцию защиты от заклинивания, намеренно зажимая какуюлибо часть тела.
 • Если какой-либо предмет захвачен в тот момент, когда солнцезащитный
 козырек готов полностью закроется, функция защиты от защемления может не
 сработать. Будьте осторожны, чтобы окно не зацепило никакую часть тела.
 
 ### Функция автоматического закрытия
-`jetour_dashing_ru_3b3bd2b3` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:95 | doc_type:owners_manual
 • Автомобиль успешно поставлен на охрану, люк и солнцезащитный козырек
 автоматически закроется.
 • Когда питание автомобиля находится в режиме ON,  если датчик дождя
 обнаруживает дождь и снег, люк закрывается автоматически.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_b487f7e6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 • Когда солнцезащитный козырек находится в закрытом положении, система
 автоматически
 регулирует
@@ -6351,7 +5777,6 @@ sos
 OFF, люк и солнцезащитный козырек также могут работать.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_4de3a60d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:96 | doc_type:owners_manual
 80
 ВНИМАНИЕ
 • Во время работы люка, если скорость автомобиля превышает 120 км/ч, люк
@@ -6362,7 +5787,6 @@ OFF, люк и солнцезащитный козырек также могут
 работу.
 
 ### Самообучение
-`jetour_dashing_ru_8dc025c6` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:96 | doc_type:owners_manual
 Если система неисправна или аккумулятор автомобиля перезаряжен или отключен,
 необходимо будет снова выполнить самообучение солнцезащитного козырька:
 • С помощью переключателя закройте люк и солнцезащитный козырек, а затем
@@ -6382,32 +5806,28 @@ OFF, люк и солнцезащитный козырек также могут
 солнцезащитный козырек перейдут от полуоткрытого до полного закрытия, и
 самообучение будет завершено.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_026d4d27` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:96 | doc_type:owners_manual
-• Перед самообучением необходимо убедиться, что аккумулятор полностью
-заряжен, поэтому рекомендуется заменить аккумулятор новым или полностью
-зарядить аккумулятор перед самообучением.
-• Во время инициализации нет силы защиты от защемления, операторы должны
-обратить внимание на безопасность.
-• Если
-солнцезащитный
-козырек
-не
-работает
-должным
-образом
-после
-вышеуказанных операций, обратитесь на авторизованную сервисную станцию
-Jetour для проверки и ремонта.
+> ⚠️ **Внимание:** • Перед самообучением необходимо убедиться, что аккумулятор полностью
+> заряжен, поэтому рекомендуется заменить аккумулятор новым или полностью
+> зарядить аккумулятор перед самообучением.
+> • Во время инициализации нет силы защиты от защемления, операторы должны
+> обратить внимание на безопасность.
+> • Если
+> солнцезащитный
+> козырек
+> не
+> работает
+> должным
+> образом
+> после
+> вышеуказанных операций, обратитесь на авторизованную сервисную станцию
+> Jetour для проверки и ремонта.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_5f27a2ba` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:97 | doc_type:owners_manual
 81
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Управление мультимедийным дисплеем
 
 ### Включите
-`jetour_dashing_ru_82f7e1f0` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:97 | doc_type:owners_manual
 питание
 автомобиля
 в
@@ -6418,7 +5838,6 @@ Jetour для проверки и ремонта.
 солнцезащитный козырек.
 
 ### Четырехдверные
-`jetour_dashing_ru_f8123016` | dashing | pdf_manual | tier:2 | lang:ru | layer:hvac | p:97 | doc_type:owners_manual
 окна:
 Полное
 открытие/полное закрытие/вентиляция.
@@ -6427,7 +5846,6 @@ Jetour для проверки и ремонта.
 закрытие/
 
 ### OMX65-4075
-`jetour_dashing_ru_616eebf6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:97 | doc_type:owners_manual
 полуоткрытое.
 Лунная
 крыша:
@@ -6451,32 +5869,28 @@ Jetour,
 Солнцезащитный козырек закрывается наполовину автоматически.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_950f39cd` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:97 | doc_type:owners_manual
 Все экраны дисплея приведены только для справки, пожалуйста, обратитесь к
 фактическому экрану дисплея автомобиля.
 дисплей
 3-5. Мультимедийный
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_4da29573` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:97 | doc_type:owners_manual
-• Не ремонтируйте, не разбирайте и не модифицируйте головное устройство без
-разрешения. В случае неисправности обратитесь в авторизованный сервисный
-центр Jetour.
-• Будьте
-осторожны,
-не
-проливайте
-напитки
-или
-другие
-жидкости
-на
-мультимедийный дисплей. Если внутрь головного устройства попала жидкость
-или другие предметы, немедленно отключите питание и обратитесь в
-авторизованный сервисный центр Jetour.
+> ⚠️ **Внимание:** • Не ремонтируйте, не разбирайте и не модифицируйте головное устройство без
+> разрешения. В случае неисправности обратитесь в авторизованный сервисный
+> центр Jetour.
+> • Будьте
+> осторожны,
+> не
+> проливайте
+> напитки
+> или
+> другие
+> жидкости
+> на
+> мультимедийный дисплей. Если внутрь головного устройства попала жидкость
+> или другие предметы, немедленно отключите питание и обратитесь в
+> авторизованный сервисный центр Jetour.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_5534523f` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:98 | doc_type:owners_manual
 82
 Мультимедийный вид (Тип A)
 4
@@ -6488,7 +5902,6 @@ Jetour,
 OMX65-4055
 
 ### Вспомогательный
-`jetour_dashing_ru_cc6f0b97` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 переключатель
 Помощь при вождении
 Музыка
@@ -6498,12 +5911,10 @@ OMX65-4055
 климата
 
 ### Помощь при вождении
-`jetour_dashing_ru_2a8fba0f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:98 | doc_type:owners_manual
 Отображение информации о функции помощи при вождении; Отображается значок
 функции помощи при парковке.
 
 ### Значок
-`jetour_dashing_ru_07196e51` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:98 | doc_type:owners_manual
 тревоги
 переднего
 ремня
@@ -6513,7 +5924,6 @@ OMX65-4055
 тревоги.
 
 ### Значок
-`jetour_dashing_ru_07196e51` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:98 | doc_type:owners_manual
 адаптивного
 круизконтроля
 Неактивный статус: Серый
@@ -6526,14 +5936,12 @@ OMX65-4055
 управляется системой.
 
 ### Значок
-`jetour_dashing_ru_07196e51` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:98 | doc_type:owners_manual
 интеллектуальной
 фары
 Неактивный статус: Серый
 Статус активации: Синий
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_e0c33b81` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:99 | doc_type:owners_manual
 83
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Музыка
@@ -6541,14 +5949,12 @@ OMX65-4055
 в приложение медиацентра.
 
 ### Состояние системы
-`jetour_dashing_ru_61d341fd` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:99 | doc_type:owners_manual
 Отображение сигнала 4G, сигнала WiFi, значка Bluetooth, состояния отключения
 звука, значка USB и значка беспроводной зарядки.
 Быстрая работа A/C
 Отображение часто используемых функций приложения.
 
 ### Мое приложение
-`jetour_dashing_ru_680eeabc` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:99 | doc_type:owners_manual
 Нажмите на нужное приложение, чтобы
 перейти на соответствующий экран, и
 вы
@@ -6567,12 +5973,10 @@ Jetour,
 откройте управление автомобилеме.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_11d5b08e` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:99 | doc_type:owners_manual
 Управление автомобилем может осуществляться с помощью голоса, например,
 при открытии экрана настроек, например при открытии голосового экрана.
 
 ### OMX65-4061
-`jetour_dashing_ru_3e9b219a` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:99 | doc_type:owners_manual
 Сдвиньте верхнюю часть экрана вниз,
 чтобы
 открыть
@@ -6592,7 +5996,6 @@ Bluetooth,
 голоса и т. д.
 
 ### Нажмите
-`jetour_dashing_ru_c07dfda3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 «Редактироватье,
 чтобы
 добавить
@@ -6602,7 +6005,6 @@ Bluetooth,
 контекстного меню.
 
 ### Мультимедийная
-`jetour_dashing_ru_d06617aa` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:99 | doc_type:owners_manual
 информация
 и
 мгновенные сообщения отображаются
@@ -6616,7 +6018,6 @@ Bluetooth,
 Способ 3: Через «    е на рулевом колесе.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_f176b02a` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:100 | doc_type:owners_manual
 84
 Мультимедийная настройка
 Настройка системы (если комплектован)
@@ -6624,13 +6025,11 @@ Bluetooth,
 [Звук]:
 
 ### Регулировка
-`jetour_dashing_ru_7d08365d` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:100 | doc_type:owners_manual
 громкости
 мультимедиа, телефона, навигации и
 голоса.
 
 ### OMX65-4063
-`jetour_dashing_ru_aea32be7` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:100 | doc_type:owners_manual
 [Дисплей]: Регулировка яркости экрана центрального управления и экрана
 комбинации приборов, эффект заставки, режим отображения и настройка времени
 заставки.
@@ -6639,7 +6038,6 @@ Bluetooth,
 места для хранения.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_31346bc9` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:100 | doc_type:owners_manual
 • Режим
 подголовника:
 Звуки
@@ -6648,7 +6046,6 @@ Bluetooth,
 телефона
 
 ### Bluetooth
-`jetour_dashing_ru_bf8da688` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:100 | doc_type:owners_manual
 и
 сигнализации комбинации приборов выводятся только через динамик в
 подголовнике.
@@ -6656,7 +6053,6 @@ Bluetooth,
 канала вывода звука для участия в звуковом эффекте автомобиля.
 
 ### Настройка автомобиля
-`jetour_dashing_ru_f6df84ce` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:100 | doc_type:owners_manual
 Общий
 Войдите  в  соответствующий  экран  через  [Мое  приложение]  →  [Настройки
 автомобиля] на мультимедийном дисплее.
@@ -6667,7 +6063,6 @@ Bluetooth,
 режимом/экономичным режимом.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_b25be15e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 85
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Режим вождения
@@ -6675,14 +6070,12 @@ Bluetooth,
 Экономичный режим
 
 ### Расход топлива автомобиля в этом режиме
-`jetour_dashing_ru_be345b8a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 значительно снизится, особенно при
 интенсивном движении в городе. Эффект
 снижения расхода топлива очень заметен в
 дорожных условиях.
 
 ### Этот режим повышает мощность
-`jetour_dashing_ru_702dd27b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 автомобиля и обеспечивает более высокую
 скорость отклика и удовольствие от
 вождения. Он подходит для широких и
@@ -6690,18 +6083,15 @@ Bluetooth,
 транспортных средств.
 
 ### Этот режим сочетает в себе мощность и
-`jetour_dashing_ru_5033f253` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 экономичность автомобиля и подходит для
 всех типов дорог.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_4530eaf6` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:101 | doc_type:owners_manual
 Если  на  рулевом  колесе  есть  кнопка  «SPORTе,  можно  напрямую  войти  в
 спортивный режим.
 ■ Окно (при наличии)
 
 ### Четырехдверные
-`jetour_dashing_ru_2557c62e` | dashing | pdf_manual | tier:2 | lang:ru | layer:hvac | p:101 | doc_type:owners_manual
 окна:
 Полное
 открытие/полное закрытие/вентиляция.
@@ -6710,7 +6100,6 @@ Bluetooth,
 полуоткрытое.
 
 ### Лунная
-`jetour_dashing_ru_27241871` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:101 | doc_type:owners_manual
 крыша:
 Полное
 открытие/
@@ -6721,7 +6110,6 @@ OMX65-4161
 остановить/закрыть;
 
 ### Отрегулируйте
-`jetour_dashing_ru_e449f450` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 угол
 открывания
 двери
@@ -6730,19 +6118,16 @@ OMX65-4161
 OMX65-4162
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_c220d26d` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:102 | doc_type:owners_manual
 86
 ■ Сиденье (если комплектован)
 Отрегулируйте  угол  наклона  сиденья
 водителя/переднего пассажира.
 
 ### OMX65-4163
-`jetour_dashing_ru_69437d37` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:102 | doc_type:owners_manual
 ■ Рулевое колесо (если комплектован)
 Индивидуальная кнопка * в переключении источника звука (если комплектован)
 
 ### Индивидуальная
-`jetour_dashing_ru_2efff68c` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:102 | doc_type:owners_manual
 кнопка:
 Съемка
 фотографий/Регулировка
@@ -6760,7 +6145,6 @@ OMX65-4162
 Переключение режима вождения.
 
 ### OMX65-4168
-`jetour_dashing_ru_1b95f02e` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:102 | doc_type:owners_manual
 OFF: Выключить фару.
 AUTO (при наличии): Автоматическое
 определение интенсивности внешнего
@@ -6781,13 +6165,11 @@ AUTO (при наличии): Автоматическое
 Выравнивание света: Уровень 0-2/1-3.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_9c89fdda` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:103 | doc_type:owners_manual
 87
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Окружающий свет (при наличии)
 
 ### Переключатель
-`jetour_dashing_ru_a28b24d3` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:103 | doc_type:owners_manual
 внешнего
 освещения:
 Разделяется на уровень подсветки и
@@ -6800,7 +6182,6 @@ AUTO (при наличии): Автоматическое
 ■ Уровень подсветки
 
 ### 1. Когда дверь открыта, окружающий свет включается, затем выключается после
-`jetour_dashing_ru_77fa4004` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:103 | doc_type:owners_manual
 задержки освещения на 30 с (при нажатии переключателя габаритного света в
 течение 30 с, задержка сбрасывается, а при открытии двери и включении
 окружающего
@@ -6814,25 +6195,21 @@ AUTO (при наличии): Автоматическое
 пересчитывается).
 
 ### 2. Когда переключатель габаритного света включен, окружающий свет включается,
-`jetour_dashing_ru_d219538e` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:103 | doc_type:owners_manual
 когда переключатель габаритного света выключен, окружающий свет выключается.
 ■ Принудительный уровень
 
 ### 1. После того, как автомобиль заблокирован, откройте дверь в первый раз,
-`jetour_dashing_ru_372e2d5d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:103 | doc_type:owners_manual
 загорится окружающий свет. Когда загорается окружающий свет, оно всегда
 включено, если только автомобиль не запирается ключом или не выключается
 окружающий свет на мультимедийном дисплее.
 
 ### 2. Когда уровень подсветки переключается на принудительный уровень, яркость и
-`jetour_dashing_ru_0029e61e` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:103 | doc_type:owners_manual
 цвет, выбранные уровнем подсветки, запоминаются.
 3. Когда
 питание
 автомобиля
 
 ### OFF,
-`jetour_dashing_ru_3a557f1f` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:103 | doc_type:owners_manual
 энергосберегающий
 источник
 питания
@@ -6851,7 +6228,6 @@ AUTO (при наличии): Автоматическое
 Помощь при вождении (если комплектован)
 
 ### Активная безопасность
-`jetour_dashing_ru_ad4cfa72` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:103 | doc_type:owners_manual
 • Предупреждение
 о
 столкновении
@@ -6870,7 +6246,6 @@ AUTO (при наличии): Автоматическое
 сзади: ON/OFF.
 
 ### OMX65-4173
-`jetour_dashing_ru_ba7c38f1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:103 | doc_type:owners_manual
 • Предупреждение
 о
 боковом
@@ -6879,20 +6254,17 @@ AUTO (при наличии): Автоматическое
 88
 
 ### Помощь при вождении
-`jetour_dashing_ru_7b06fea2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 • Удержание аварийной полосы: ON/OFF.
 • Напоминание о начале движения автомобиля впереди: ON/OFF.
 • Помощь при торможении задним перекрестком: ON/OFF.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_e0ef2a0b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 • Функция помощи при вождении различается в зависимости от комплектации
 автомобиля. Пожалуйста, обратитесь к фактической автомобиля.
 • Подробную  информацию  о  функции  помощи  при  вождении  см.  в  разделе
 «Помощь при вождениие.
 
 ### OMX65-4175
-`jetour_dashing_ru_df84ef94` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:104 | doc_type:owners_manual
 Двери
 • Положение двери с телескопической
 ручкой:
@@ -6907,7 +6279,6 @@ AUTO (при наличии): Автоматическое
 разблокировки: ON/OFF.
 
 ### Блокировка автомобиля
-`jetour_dashing_ru_1a2e04e0` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:104 | doc_type:owners_manual
 • Автоматическая блокировка: ON/OFF.
 • Напоминание
 о
@@ -6919,7 +6290,6 @@ AUTO (при наличии): Автоматическое
 питания: ON/OFF.
 
 ### Индивидуальная кнопка в двери
-`jetour_dashing_ru_e5b7f75a` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:104 | doc_type:owners_manual
 • Настройка
 двери
 переднего
@@ -6936,7 +6306,6 @@ AUTO (при наличии): Автоматическое
 двери:
 
 ### Голосовое
-`jetour_dashing_ru_f25e9cc4` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:104 | doc_type:owners_manual
 пробуждение,
 переключение
 источника
@@ -6963,7 +6332,6 @@ AUTO (при наличии): Автоматическое
 боссае.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_36c908ef` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:105 | doc_type:owners_manual
 89
 ВНУТРЕННЯЯ ФУНКЦИЯ
 ПРОЧИТАЙТЕ
@@ -6971,7 +6339,6 @@ AUTO (при наличии): Автоматическое
 двери, чтобы сдвинуть сиденье переднего пассажира вперед.
 
 ### Четыре двери разблокированы
-`jetour_dashing_ru_5e0e6109` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:105 | doc_type:owners_manual
 • Все двери/водительская дверь.
 • Напоминание о внешней блокировке/
 разблокировке:
@@ -6979,7 +6346,6 @@ AUTO (при наличии): Автоматическое
 Вспышка + Звук.
 
 ### Добро пожаловать
-`jetour_dashing_ru_84c16764` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:105 | doc_type:owners_manual
 • Режим
 приветствия:
 ON/OFF.
@@ -6998,7 +6364,6 @@ ON/OFF.
 эффект: ON/OFF.
 
 ### Стеклоочиститель
-`jetour_dashing_ru_7db9ae53` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:105 | doc_type:owners_manual
 • Шатун
 заднего
 стеклоочистителя:
@@ -7015,7 +6380,6 @@ ON/OFF.
 положение
 
 ### R,
-`jetour_dashing_ru_a8cbece8` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:105 | doc_type:owners_manual
 задний
 стеклоочиститель
 будет
@@ -7032,14 +6396,12 @@ ON/OFF.
 экстремальная скорость.
 
 ### Настройка
-`jetour_dashing_ru_90d532a9` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 звукового
 эффекта
 приветствия: Можно выбрать четыре
 звуковых эффекта.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_3af27d91` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:106 | doc_type:owners_manual
 90
 HUD: ON/OFF.
 • Нормальный режим/Снежный режим.
@@ -7049,12 +6411,10 @@ HUD: ON/OFF.
 ручной.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_defc1ee8` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:106 | doc_type:owners_manual
 Подробнее  о  HUD  см.  в  разделе
 «Проекционный дисплейе.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_defc1ee8` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:106 | doc_type:owners_manual
 Элементы настройки различаются в зависимости от конфигурации автомобиля.
 Пожалуйста, обратитесь к фактической конфигурации автомобиля.
 Мультимедийный вид (Тип B)
@@ -7070,7 +6430,6 @@ HUD: ON/OFF.
 10    11
 
 ### Переключатель
-`jetour_dashing_ru_b78b2c0f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:106 | doc_type:owners_manual
 обогрева
 переднего
 сиденья
@@ -7079,7 +6438,6 @@ HUD: ON/OFF.
 воздуха
 
 ### Переключатель
-`jetour_dashing_ru_b78b2c0f` | dashing | pdf_manual | tier:2 | lang:ru | layer:hvac | p:106 | doc_type:owners_manual
 вентиляции
 переднего сиденья
 Переключатель
@@ -7090,7 +6448,6 @@ HUD: ON/OFF.
 Тел.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_a6f12264` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:107 | doc_type:owners_manual
 91
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Контекстное меню
@@ -7116,7 +6473,6 @@ Bluetooth,
 справа.
 
 ### Настройки автомобиля
-`jetour_dashing_ru_dc1ab4c1` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:107 | doc_type:owners_manual
 Общее
 Экран
 общих
@@ -7131,13 +6487,11 @@ Bluetooth,
 автоматическое удержание и т.д.
 
 ### OMX65-4065
-`jetour_dashing_ru_19ebe332` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:107 | doc_type:owners_manual
 ■ Наружное зеркало заднего вида
 Автоматическое   складывание   зеркала
 заднего вида при блокировке: ON/OFF.
 
 ### Опускание
-`jetour_dashing_ru_5357ba9e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:107 | doc_type:owners_manual
 зеркала
 при
 движении
@@ -7148,7 +6502,6 @@ OFF,
 Передний пассажир, Обе стороны.
 
 ### Наружное
-`jetour_dashing_ru_cceeea5b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:107 | doc_type:owners_manual
 зеркало
 заднего
 вида:
@@ -7156,7 +6509,6 @@ OFF,
 OMX65-4066
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_0567fead` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:108 | doc_type:owners_manual
 92
 ■ Рулевое колесо
 Режим электроусилителя руля: Легкий/
@@ -7169,7 +6521,6 @@ OMX65-4066
 Обогрев рулевого колеса: ON/OFF.
 
 ### Пользовательский
-`jetour_dashing_ru_21b8ea0d` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:108 | doc_type:owners_manual
 *
 ключ:
 Долго
@@ -7178,7 +6529,6 @@ OMX65-4066
 ■ Сиденье
 
 ### Приветствие
-`jetour_dashing_ru_da127198` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 на
 место
 водителя/
@@ -7190,14 +6540,12 @@ OMX65-4066
 установите массаж сиденья.
 
 ### Память
-`jetour_dashing_ru_df27dae8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 сиденья:
 Установлен
 для
 сохранения положения памяти сиденья.
 
 ### Режим вождения
-`jetour_dashing_ru_66c35c41` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 Режим вождения: Цикл между обычным
 режимом/спортивным
 режимом/
@@ -7209,7 +6557,6 @@ OMX65-4066
 снежным режимом.
 
 ### Интеллектуальный
-`jetour_dashing_ru_3d30be96` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:108 | doc_type:owners_manual
 дальний/ближний
 свет: ON/OFF.
 Вспышка при смене полосы движения:
@@ -7218,7 +6565,6 @@ OMX65-4066
 Высота фары: Уровень 0 - 3.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_72eda1d8` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:109 | doc_type:owners_manual
 93
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Амбиентная лампа
@@ -7227,7 +6573,6 @@ OMX65-4066
 освещения:
 
 ### ON/OFF.
-`jetour_dashing_ru_3feaf31e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 Яркость:
 Когда
 ползунок
@@ -7239,13 +6584,11 @@ OMX65-4066
 Музыкальный ритм: ON/OFF.
 
 ### OMX65-4070
-`jetour_dashing_ru_57c13de0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 Эффект детекторной лампы PM2.5: ON/OFF.
 Приветствие и прощание: ON/OFF.
 Изменение яркости амбиентной лампы во время вождения: OFF / Нормальный /
 
 ### Тусклый
-`jetour_dashing_ru_1edb78a6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 Режим дыхания: OFF / Один цвет / Полноцвет.
 Дверной замок:
 Автоматическая блокировка: ON/OFF.
@@ -7255,7 +6598,6 @@ OMX65-4066
 Вспышка / Звук / Вспышка+Звук
 
 ### OMX65-4071
-`jetour_dashing_ru_ad743ab6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 Автоматическое раскладывание после разблокировки: ON/OFF.
 Время складывания дверной ручки: 30 с / 60 с / 180 с
 Настройки разблокировки четырех дверей: Одновременная разблокировка четырех
@@ -7264,14 +6606,12 @@ OMX65-4066
 двери: Пробуждение голосом / Выключение.
 
 ### Помощь водителю
-`jetour_dashing_ru_c38690ed` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 ■ Активная безопасность
 Автоматическое
 экстренное
 торможение: ON/OFF.
 
 ### Напоминание
-`jetour_dashing_ru_fce92a1e` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:109 | doc_type:owners_manual
 о
 выходе
 из
@@ -7279,24 +6619,20 @@ OMX65-4066
 Интеллектуальное избегание: ON/OFF.
 
 ### Вмешательство в систему помощи при
-`jetour_dashing_ru_fd3d997e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 движении по полосе: ON/OFF.
 OMX65-4072
 3. ВНУТРЕННЯЯ ФУНКЦИЯ
 94
 ■ Предупреждение о безопасности
 
-### Предупреждение
-`jetour_dashing_ru_89933e52` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
-о
-переднем
-столкновении: ON/OFF.
-Чувствительность:
-дальний/средний/
-ближний.
+> ⚠️ **Внимание:** о
+> переднем
+> столкновении: ON/OFF.
+> Чувствительность:
+> дальний/средний/
+> ближний.
 
 ### Предупреждение  о  выезде  из  полосы
-`jetour_dashing_ru_7adb7f52` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 движения: ON/OFF.
 Чувствительность: Низкий/высокий.
 Парковочный радар:ON/OFF.
@@ -7304,56 +6640,46 @@ OMX65-4072
 Предупреждение  об  открытии  двери:
 
 ### ON/OFF.
-`jetour_dashing_ru_e1761a68` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 Напоминание о выезде  с  дороги: ON/
 OFF.
 Подключение мобильного телефона (при наличии)
 
 ### CarPlay
-`jetour_dashing_ru_9eb4b2ef` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 ■ Проводное соединение
 1. Соедините телефон и порт USB в автомобиле с помощью оригинального кабеля
 для передачи данных;
 
 ### 2. Нажмите кнопку CarPlay, чтобы войти в главный экран CarPlay.
-`jetour_dashing_ru_0cbe566a` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:110 | doc_type:owners_manual
 ■ Беспроводное соединение (при наличии)
 1. Включите  Bluetooth  на  iPhone  и  переключатель  CarPlay,  а  затем  включите
 Bluetooth на мультимедийном дисплее;
 
 ### 2. Сопоставьте и соедините Bluetooth в телефоне и Bluetooth на мультимедийном
-`jetour_dashing_ru_b748df34` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:110 | doc_type:owners_manual
 дисплее. Когда на телефоне появится окно с подсказкой для первого соединения,
 выберите использование Carplay;
 
 ### 3. После успешного сопряжения Bluetooth на мультимедийном дисплее появится
-`jetour_dashing_ru_3b10e886` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:110 | doc_type:owners_manual
 подсказка о необходимости использования функции Apple Carplay. Нажмите ОК.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_7d943e1f` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:110 | doc_type:owners_manual
 После успешного беспроводного соединения значок Carplay станет выделенным,
 а значок Bluetooth будет отображаться серым цветом в отключенном состоянии,
 что является нормальным явлением.
 
 ### Андроид Авто
-`jetour_dashing_ru_0f23de65` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 ■ Проводное соединение
 1. На телефон необходимо заранее установить Android Auto из Google Store;
 
 ### 2. Соедините телефон и порт USB в автомобиле с помощью оригинального кабеля
-`jetour_dashing_ru_1fa6f8f8` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:110 | doc_type:owners_manual
 для передачи данных;
 3. Когда  на  мультимедийном  дисплее  появится  окно  с  подсказкой  для  первого
 соединения, выберите использование Андроид Авто;
 
 ### 4. После успешного подключения войдите в экран Андроид Авто.
-`jetour_dashing_ru_19f20025` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:110 | doc_type:owners_manual
 ■ Беспроводное соединение (при наличии)
 1. На телефон необходимо заранее установить Android Auto из Google Store;
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_b1291e06` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:111 | doc_type:owners_manual
 95
 ВНУТРЕННЯЯ ФУНКЦИЯ
 2 . Включите Bluetooth в телефоне и Bluetooth на мультимедийном дисплее;
@@ -7362,7 +6688,6 @@ Bluetooth на мультимедийном дисплее;
 соедините
 
 ### Bluetooth
-`jetour_dashing_ru_c89d26ce` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:111 | doc_type:owners_manual
 в
 телефоне
 и
@@ -7375,13 +6700,11 @@ Bluetooth
 сопряжения
 
 ### Андроид
-`jetour_dashing_ru_63d72dea` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:111 | doc_type:owners_manual
 Авто
 автоматически
 подключится и войдет на экран Андроид Авто.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_bd658c83` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:111 | doc_type:owners_manual
 Когда мобильный телефон подключен к Андроид Авто, если мобильный телефон
 не поддерживает мультимедийный дисплей для получения статуса вызова, на
 мультимедийном дисплее не отображается уведомление о входящем вызове при
@@ -7398,7 +6721,6 @@ Bluetooth
 вызов.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_3492d440` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:112 | doc_type:owners_manual
 96
 9
 1
@@ -7423,7 +6745,6 @@ Bluetooth
 20
 
 ### OMX65-4200
-`jetour_dashing_ru_19f60bfa` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 Зона
 регулировки
 температуры водителя
@@ -7431,7 +6752,6 @@ Bluetooth
 на лицо
 
 ### Кнопка
-`jetour_dashing_ru_2614754d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 режима
 размораживания
 ног/
@@ -7442,13 +6762,11 @@ Bluetooth
 пассажира
 
 ### Кнопка
-`jetour_dashing_ru_2614754d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 обогрева
 заднего левого сиденья
 (если комплектован)
 
 ### Кнопка режима обдува
-`jetour_dashing_ru_024d8b04` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 на ноги
 Зона         регулировки
 объема
@@ -7456,7 +6774,6 @@ Bluetooth
 потока
 
 ### Кнопка
-`jetour_dashing_ru_2614754d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 переднего
 размораживания
 Мягкая кнопка обогрева
@@ -7464,14 +6781,12 @@ Bluetooth
 комплектован)
 
 ### Кнопка  режима  обдува
-`jetour_dashing_ru_d073886a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 на лицо/ноги
 Кнопка
 интеллектуального
 воздушного фильтра
 
 ### Кнопка
-`jetour_dashing_ru_2614754d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 заднего
 размораживания
 Кнопка A/C
@@ -7483,7 +6798,6 @@ Bluetooth
 зонами A/C
 
 ### Кнопка
-`jetour_dashing_ru_2614754d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 переключения
 A/C
 Кнопка AUTO
@@ -7493,7 +6807,6 @@ A/C
 воздуха
 
 ### Кнопка
-`jetour_dashing_ru_2614754d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 режима
 энергосбережения
 Кнопка настройки A/C
@@ -7501,7 +6814,6 @@ A/C
 97
 
 ### ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_fa2a100c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 Система кондиционирования воздуха (Тип A)
 1
 2
@@ -7519,7 +6831,6 @@ A/C
 14
 
 ### OMX65-4201
-`jetour_dashing_ru_fadc3d8d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 Зона
 регулировки
 температуры водителя
@@ -7536,14 +6847,12 @@ A/C
 Кнопка A/C MAX
 
 ### Переключатель
-`jetour_dashing_ru_8ccfea0c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 регулировки
 режима
 выхода  кондиционера
 Переключатель  питания
 
 ### Кнопка
-`jetour_dashing_ru_e5d201f2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 наружного/
 рециркуляционного
 воздуха
@@ -7552,7 +6861,6 @@ A/C
 размораживания
 
 ### Переключатель
-`jetour_dashing_ru_8ccfea0c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 регулировки
 режима
 работы A/C
@@ -7560,7 +6868,6 @@ A/C
 обогрева сиденья
 
 ### Кнопка
-`jetour_dashing_ru_e5d201f2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 заднего
 размораживания
 Переключатель
@@ -7570,7 +6877,6 @@ A/C
 наличии)
 
 ### Переключатель
-`jetour_dashing_ru_8ccfea0c` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:113 | doc_type:owners_manual
 обогрева
 рулевого
 колеса
@@ -7583,14 +6889,12 @@ A/C
 условия по-прежнему регулируются автоматически.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_356418bc` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:114 | doc_type:owners_manual
 98
 Регулировка объема воздушного потока
 Управляйте регулировкой объема воздушного потока на мультимедийном дисплее,
 чтобы реализовать регулировку температуры кондиционера.
 
 ### Регулировка температуры
-`jetour_dashing_ru_7358241c` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:114 | doc_type:owners_manual
 Управляйте регулировкой температуры на мультимедийном дисплее, чтобы
 выполнить регулировку температуры кондиционера.
 Кнопка синхронизации с двумя температурными зонами A/C
@@ -7605,7 +6909,6 @@ A/C
 загорается значок кнопки.
 
 ### Когда кнопка регулировки температуры со стороны переднего пассажира
-`jetour_dashing_ru_cd7092f3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 используется
 в
 синхронном
@@ -7645,7 +6948,6 @@ A/C
 • Для предотвращения попадания выхлопных газов извне в автомобиль.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_d1e560e0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 99
 ВНУТРЕННЯЯ ФУНКЦИЯ
 ВНИМАНИЕ
@@ -7661,7 +6963,6 @@ A/C
 элемента A/C.
 
 ### Регулировка режима выхода
-`jetour_dashing_ru_04ab8d15` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 Когда  питание  автомобиля  переключено  в  режим  ON,  нажмите  кнопку  режима
 выпуска воздуха, чтобы отрегулировать выпуск воздуха.
 Режим обдува на лицо: он может регулировать поток воздуха, выходящий из центра
@@ -7674,12 +6975,10 @@ A/C
 воздуха, выдуваемый из отверстия для размораживания и выхода для ног.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_b0e7030e` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:115 | doc_type:owners_manual
 Если ветровое стекло запотевает во время движения, рекомендуется режим
 оттаивания лобового стекла.
 
 ### Кнопка переднего размораживания
-`jetour_dashing_ru_e5131468` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:115 | doc_type:owners_manual
 После нажатия кнопки переднего размораживания отрегулируйте, чтобы большая
 часть воздушного потока дула на переднее лобовое стекло,  а  небольшое
 количество воздуха дуло на боковое лобовое стекло.
@@ -7698,18 +6997,15 @@ A/C
 Шаг 4: Настройте режим на режим переднего размораживания или режим
 переднего размораживания/педальный режим.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_bf790072` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:115 | doc_type:owners_manual
-• В целях безопасности вождения, пожалуйста, правильно используйте функцию
-предотвращения запотевания.
-• Зимой не используйте режим рециркуляции воздуха в длительное время, иначе
-переднее ветровое стекло быстро запотеет.
-• лохая видимость через стекло увеличивает риск дорожно-транспортных
-происшествий и травм. Поэтому для безопасности дорожного движения очень
-важно обеспечить хорошую видимость во время вождения.
+> ⚠️ **Внимание:** • В целях безопасности вождения, пожалуйста, правильно используйте функцию
+> предотвращения запотевания.
+> • Зимой не используйте режим рециркуляции воздуха в длительное время, иначе
+> переднее ветровое стекло быстро запотеет.
+> • лохая видимость через стекло увеличивает риск дорожно-транспортных
+> происшествий и травм. Поэтому для безопасности дорожного движения очень
+> важно обеспечить хорошую видимость во время вождения.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_91ed8bfc` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 100
 Кнопка заднего размораживания
 После нажатия кнопки переднего размораживания. Когда индикатор загорается,
@@ -7718,19 +7014,16 @@ A/C
 функция размораживания заднего  ветрового стекла/наружного  зеркала заднего
 вида отключена.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_c8f61ac2` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:116 | doc_type:owners_manual
-• Не царапайте и не повреждайте провода нагревателя при очистке заднего
-ветрового стекла/наружного зеркала заднего вида.
-• Когда батарея разряжена, функция оттаивания заднего ветрового стекла/
-наружного зеркала заднего вида не может быть включена, чтобы обеспечить
-нормальный запуск автомобиля.
-• Убедитесь, что функция оттаивания заднего ветрового стекла/наружного
-зеркала заднего вида выключена, когда запотевание или иней на заднем
-ветровом стекле/наружном зеркале заднего вида очищены.
+> ⚠️ **Внимание:** • Не царапайте и не повреждайте провода нагревателя при очистке заднего
+> ветрового стекла/наружного зеркала заднего вида.
+> • Когда батарея разряжена, функция оттаивания заднего ветрового стекла/
+> наружного зеркала заднего вида не может быть включена, чтобы обеспечить
+> нормальный запуск автомобиля.
+> • Убедитесь, что функция оттаивания заднего ветрового стекла/наружного
+> зеркала заднего вида выключена, когда запотевание или иней на заднем
+> ветровом стекле/наружном зеркале заднего вида очищены.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_fae79bcc` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:116 | doc_type:owners_manual
 Чтобы не обжечься, не прикасайтесь к заднему ветровому стеклу/наружному
 зеркалу заднего вида, когда работает функция размораживания заднего
 ветрового
@@ -7760,19 +7053,16 @@ A/C
 Напоминание об очистке воздуха: ON/OFF.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_1779a04a` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:116 | doc_type:owners_manual
 Элементы   настройки   A/C   различаются   в   зависимости   от   конфигурации
 автомобиля. Пожалуйста, обратитесь к фактической конфигурации автомобиля.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_50d7f7c4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 101
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Функция охлаждения коробки подлокотника на вспомогательной
 приборной панели
 
 ### Коробка
-`jetour_dashing_ru_9ba732a6` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:117 | doc_type:owners_manual
 подлокотника
 на
 вспомогательной
@@ -7793,7 +7083,6 @@ A/C
 панели.
 
 ### Кондиционер
-`jetour_dashing_ru_022577b1` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:117 | doc_type:owners_manual
 включает
 режим
 для
@@ -7805,11 +7094,9 @@ A/C
 3-7. Беспроводная зарядка (при наличии)
 
 ### Беспроводная зарядка использует технологию электромагнитной индукции удобно
-`jetour_dashing_ru_663b8b16` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:117 | doc_type:owners_manual
 и безопасно, чтобы обеспечить лучший опыт во время вождения.
 
 ### Зона беспроводной зарядки телефона
-`jetour_dashing_ru_c021a2d7` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:117 | doc_type:owners_manual
 находится
 в
 передней
@@ -7843,7 +7130,6 @@ A/C
 ним.
 
 ### Функция беспроводной зарядки мобильного телефона основана на принципе
-`jetour_dashing_ru_05e4d3fa` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:117 | doc_type:owners_manual
 индукции электромагнитной волны, которая передает электрическую энергию
 катушки на батарею мобильного телефона, что позволяет мобильному телефону
 заряжаться без проводного подключения.
@@ -7863,7 +7149,6 @@ A/C
 зарядить.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_74836449` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 102
 • Когда температура поверхности зоны обнаружения беспроводной зарядки
 слишком высока из-за воздействия солнечных лучей, модуль беспроводной
@@ -7875,7 +7160,6 @@ A/C
 Jetour.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_8ffa21a8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 • Одновременно можно заряжать только один мобильный телефон.
 • При движении по ухабистым дорогам, функция беспроводной зарядки телефона
 может прекращать зарядку и периодически возобновлять зарядку.
@@ -7933,7 +7217,6 @@ Jetour.
 зарядки.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_463de334` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 103
 ВНУТРЕННЯЯ ФУНКЦИЯ
 ВНИМАНИЕ
@@ -7956,16 +7239,13 @@ Jetour.
 сжечь карты.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_84894360` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 104
 3-8. Функция записи вождения (если комплектован)
 
 ### Регистратор вождения может записывать видеоизображение и звук всего процесса
-`jetour_dashing_ru_06823f78` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 вождения, что может свидетельствовать о дорожно-транспортных происшествиях.
 
 ### Любители самостоятельных путешествий также могут использовать его для записи
-`jetour_dashing_ru_ea3e9eb8` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:120 | doc_type:owners_manual
 процесса преодоления трудностей и опасностей. Она записывает время, скорость
 и свет в видео во время вождения, что похоже на «черный ящике.
 Перед запуском, вставьте диск U, чтобы
@@ -7982,7 +7262,6 @@ Jetour.
 воспроизведены.
 
 ### Настройка
-`jetour_dashing_ru_f6bdd8e3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 ◆Автоматическая запись видео во время вождения
 ON/OFF, по умолчанию: ON. После запуска службы включения системы,  запись
 будет выполняться автоматически. Запись события не контролируется этим
@@ -8001,7 +7280,6 @@ ON/OFF, по умолчанию: OFF. Когда он выключен, если
 Выполните очистку одним касанием для изображения и видео рекордера.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_a2f11d81` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 105
 ВНУТРЕННЯЯ ФУНКЦИЯ
 ПРОЧИТАЙТЕ
@@ -8038,32 +7316,26 @@ USB-порт для регистратора вождения.
 3-9. Пространство для хранения
 
 ### Коробка для очков
-`jetour_dashing_ru_24078440` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:121 | doc_type:owners_manual
 Ящик для хранения очков находится рядом с передним плафоном вплотную. В нем
 можно хранить очки или другие мелкие предметы. При размещении очков
 необходимо нормально сложить обе дужки, линзами вперед и дужками вверх. В
 противном случае, очки могут выпасть при открытии коробки для очков.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_ef74613a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 Некоторые большие солнцезащитные очки нельзя помещать в коробку для очков.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_1c782d1d` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:121 | doc_type:owners_manual
 Убедитесь, что коробка для очков закрыта во время вождения.
 
 ### Дверные ящики для хранения
-`jetour_dashing_ru_d33a7ea4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 Вещевые  ящики  на  дверях  переднего  и  второго  ряда  можно  использовать  для
 хранения карт, чашек и других предметов.
 
 ### Багажный крюк
-`jetour_dashing_ru_0b83f3d7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 Багажный  крюк  находится  на  правой  стороне  приборной  панели,  рядом  с
 перчаточным ящиком.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_50265e5e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 106
 Во время использования, нажмите на нижний конец багажного крючка, всплывайте
 верхний конец, а затем опустите багажный крюк.
@@ -8074,23 +7346,19 @@ USB-порт для регистратора вождения.
 вождением убедитесь, что все предметы надежно закреплены.
 
 ### Перчаточный ящик
-`jetour_dashing_ru_efffead0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 Перчаточный ящик используется для хранения карты, инструкций и других
 предметов.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_760faf0c` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:122 | doc_type:owners_manual
 Перед началом движения убедитесь, что перчаточный ящик полностью закрыт. В
 противном случае в случае экстренного торможения или экстренного руления это
 может привести к несчастным случаям и серьезным травмам или даже смерти.
 
 ### Сумка для хранения сиденья
-`jetour_dashing_ru_2b599549` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 Спинки передних сидений оснащены сумками для хранения на задней стороне,
 которые используются для хранения документов, инструкций и т. д.
 
 ### Второй
-`jetour_dashing_ru_0285bc13` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 ряд
 сидений
 оснащен
@@ -8102,12 +7370,10 @@ USB-порт для регистратора вождения.
 положение, когда он не используется.
 
 ### Взрослым или детям не разрешается сидеть на коробке для подлокотника на
-`jetour_dashing_ru_3e4b4d51` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 вспомогательной панели управления.
 Передний подстаканник
 
 ### Подстаканник
-`jetour_dashing_ru_96d1ea10` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 используется
 для
 удобного
@@ -8117,14 +7383,12 @@ USB-порт для регистратора вождения.
 напитками и т. д.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_996a7fca` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 • Не  ставьте  слишком  маленькую  или  плохо  устойчивую  банку  с  напитком  в
 подстаканник, иначе она может опрокинуться.
 • Пожалуйста,   убедитесь,   что   крышка   банки   с   напитком   закрыта,   чтобы
 предотвратить выплескивание жидкости внутри.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_74a12594` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 107
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Задний подстаканник
@@ -8139,28 +7403,23 @@ USB-порт для регистратора вождения.
 подлокотник в исходное положение.
 
 ### Держатель для бутылок
-`jetour_dashing_ru_264d1bee` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 На внутренней стороне двери есть держатель для бутылок, и можно размещать
 только герметичные контейнеры для бутылок.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_def2a454` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 Пожалуйста,   убедитесь,   что   крышка   банки   с   напитком   закрыта,   чтобы
 предотвратить выплескивание жидкости внутри.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_e3cb9406` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 Не кладите в держатель для бутылок ничего, кроме бутылок. В противном случае,
 в случае аварии или экстренного торможения, предметы могут быть выброшены
 из держателя для бутылок и нанести травму.
 
 ### Ящик для хранения зонта
-`jetour_dashing_ru_91d68aa4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 Под подлокотником внутри двери есть ящик для хранения зонтов, в который можно
 поместить сложенный зонт.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_86ee78db` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 108
 OMT18-8050
 3-10. Электрическая розетка
@@ -8168,7 +7427,6 @@ OMT18-8050
 тип A
 
 ### Передняя
-`jetour_dashing_ru_db8acdcf` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 электрическая
 розетка
 расположена
@@ -8177,7 +7435,6 @@ OMT18-8050
 подлокотником.
 
 ### Откройте
-`jetour_dashing_ru_ca4c32c2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 защитную
 крышку
 для
@@ -8190,7 +7447,6 @@ OMT18-8050
 12 В и рабочим током 10 А или менее.
 
 ### OMX65-4330
-`jetour_dashing_ru_8217601d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 тип B
 Передняя
 электрическая
@@ -8206,21 +7462,18 @@ OMT18-8050
 аксессуаров с рабочим напряжением
 12 В и рабочим током 10 А или менее.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_ad3a4dcd` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:124 | doc_type:owners_manual
-• Во избежание перегорания предохранителя не используйте принадлежности с
-номинальным напряжением более 12 В.
-• Во избежание разрядки аккумулятора не используйте розетку дольше, чем
-необходимо, при неработающем двигателе.
-• Не вставляйте в розетку ничего и не допускайте попадания какой-либо
-жидкости, кроме соответствующей вилки. Невыполнение этого требования
-может привести к сбою в электросети или короткому замыканию.
-• Когда розетка не используется, защитная крышка должна быть закрыта, иначе в
-розетку попадут посторонние предметы или жидкость, что вызовет короткое
-замыкание.
+> ⚠️ **Внимание:** • Во избежание перегорания предохранителя не используйте принадлежности с
+> номинальным напряжением более 12 В.
+> • Во избежание разрядки аккумулятора не используйте розетку дольше, чем
+> необходимо, при неработающем двигателе.
+> • Не вставляйте в розетку ничего и не допускайте попадания какой-либо
+> жидкости, кроме соответствующей вилки. Невыполнение этого требования
+> может привести к сбою в электросети или короткому замыканию.
+> • Когда розетка не используется, защитная крышка должна быть закрыта, иначе в
+> розетку попадут посторонние предметы или жидкость, что вызовет короткое
+> замыкание.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_f3dfec84` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 109
 OMT18-8050
 ВНУТРЕННЯЯ ФУНКЦИЯ
@@ -8228,12 +7481,10 @@ OMT18-8050
 Спереди
 
 ### Передний   порт   USB   находится   под
-`jetour_dashing_ru_ca6594b1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 центральным подлокотником.
 USB-порт для передачи данных.
 
 ### Порт регистратора вождения
-`jetour_dashing_ru_44a5fb40` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:125 | doc_type:owners_manual
 1
 2
 OMX65-4410
@@ -8252,7 +7503,6 @@ OMX65-4410
 2
 
 ### OMX65-4412
-`jetour_dashing_ru_c8b52b56` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:125 | doc_type:owners_manual
 тип B
 Порт USB.
 Порт Type-C.
@@ -8268,7 +7518,6 @@ OMX65-4410
 телефон и т.д.
 
 ### OMX65-4333
-`jetour_dashing_ru_2bd0cda8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 Сзади
 Задний порт USB расположен под
 задним
@@ -8282,12 +7531,10 @@ OMX65-4410
 внешних USB-устройств.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_a9a1b9a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:126 | doc_type:owners_manual
 110
 3-12. Солнцезащитные козырьки и косметическое зеркало
 
 ### Солнцезащитные козырьки и косметическое зеркало
-`jetour_dashing_ru_53568436` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:126 | doc_type:owners_manual
 1
 2
 START
@@ -8303,7 +7550,6 @@ OMX65-4150
 положение прямого хода.
 
 ### Откиньте солнцезащитный козырек
-`jetour_dashing_ru_35c7a28a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:126 | doc_type:owners_manual
 вниз,  отсоедините  крючок,  а  затем
 поверните
 в
@@ -8312,7 +7558,6 @@ OMX65-4150
 установить его в боковое положение.
 
 ### Косметическое зеркало расположено на
-`jetour_dashing_ru_f988fb43` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:126 | doc_type:owners_manual
 солнцезащитном
 козырьке.
 Откиньте
@@ -8328,23 +7573,20 @@ OMX65-4150
 воспользоваться
 косметическим зеркалом.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_401459d6` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:126 | doc_type:owners_manual
-• Не кладите твердые предметы, такие как CD и металлические карты, за
-солнцезащитные козырьки, чтобы эти предметы не травмировали людей в
-автомобиле во время дорожно-транспортных происшествий.
-• Держите крышку косметического зеркала закрытой, когда косметическое
-зеркало не используется.
-3-13. Капот
-Открытие/закрытие капота
-Следуйте инструкциям ниже, откройте
-капот.
-Шаг 1: Капот слегка приподнимется,
-если потянуть ручку открывания капота
-наружу (как показано на рисунке слева).
+> ⚠️ **Внимание:** • Не кладите твердые предметы, такие как CD и металлические карты, за
+> солнцезащитные козырьки, чтобы эти предметы не травмировали людей в
+> автомобиле во время дорожно-транспортных происшествий.
+> • Держите крышку косметического зеркала закрытой, когда косметическое
+> зеркало не используется.
+> 3-13. Капот
+> Открытие/закрытие капота
+> Следуйте инструкциям ниже, откройте
+> капот.
+> Шаг 1: Капот слегка приподнимется,
+> если потянуть ручку открывания капота
+> наружу (как показано на рисунке слева).
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_4384248f` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:127 | doc_type:owners_manual
 111
 ВНУТРЕННЯЯ ФУНКЦИЯ
 OMX65-4152
@@ -8375,7 +7617,6 @@ OMX65-4152
 опорный паз для поддержки капота;
 
 ### OMX65-4153
-`jetour_dashing_ru_4e96292c` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:127 | doc_type:owners_manual
 Шаг
 4:
 Перед
@@ -8402,29 +7643,26 @@ OMX65-4152
 приподнимите его, чтобы убедиться,
 что он полностью закрыт.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_d8810d7a` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:127 | doc_type:owners_manual
-• Прежде чем закрыть капот, проверьте область под капотом, чтобы убедиться,
-что крышки всех контейнеров на месте, а все разбросанные предметы (-
-например, инструменты и т. д.) убраны.
-• Закрывая
-капот,
-не
-нажимайте
-на
-него
-руками,
-иначе
-он
-может
-деформироваться.
-• Перед началом движения убедитесь, что капот закрыт или заперт, иначе
-возможны несчастные случаи и травмы.
-3-14. Дверь багажного отделения
-Дверь багажного отделения с электродвигателем (при наличии)
+> ⚠️ **Внимание:** • Прежде чем закрыть капот, проверьте область под капотом, чтобы убедиться,
+> что крышки всех контейнеров на месте, а все разбросанные предметы (-
+> например, инструменты и т. д.) убраны.
+> • Закрывая
+> капот,
+> не
+> нажимайте
+> на
+> него
+> руками,
+> иначе
+> он
+> может
+> деформироваться.
+> • Перед началом движения убедитесь, что капот закрыт или заперт, иначе
+> возможны несчастные случаи и травмы.
+> 3-14. Дверь багажного отделения
+> Дверь багажного отделения с электродвигателем (при наличии)
 
 ### Для вашего удобства дверь багажного отделения с электроприводом можно
-`jetour_dashing_ru_3690bc6a` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:127 | doc_type:owners_manual
 открыть/закрыть следующими способами, чтобы вы в полной мере ощутили
 удобство двери багажного отделения с электроприводом.
 Использование смарт-ключа
@@ -8436,7 +7674,6 @@ OMX65-4152
 действие двери багажного отделения с электроприводом.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_fce71682` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:128 | doc_type:owners_manual
 112
 Внешний переключатель двери багажного отделения
 Способ 1: Когда центральный замок
@@ -8461,7 +7698,6 @@ OMX65-4152
 части    автомобиля,    неся    при    себе
 
 ### OMX65-4171
-`jetour_dashing_ru_17495a32` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:128 | doc_type:owners_manual
 смарт-ключ,
 и
 нажмите
@@ -8479,7 +7715,6 @@ OMX65-4152
 откроется/закроется.
 
 ### Когда скорость автомобиля превышает
-`jetour_dashing_ru_b4dc40fd` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:128 | doc_type:owners_manual
 2 км/ч, дверь багажного отделения не
 может
 быть
@@ -8489,7 +7724,6 @@ OMX65-4152
 электропривода.
 
 ### Когда дверь багажного отделения с
-`jetour_dashing_ru_78152c70` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:128 | doc_type:owners_manual
 электроприводом откроется, нажмите
 внутренний
 переключатель
@@ -8502,7 +7736,6 @@ OMX65-4152
 электроприводом.
 
 ### Когда дверь багажного отделения с
-`jetour_dashing_ru_78152c70` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:128 | doc_type:owners_manual
 электроприводом движется, нажмите
 внутренний
 переключатель
@@ -8512,7 +7745,6 @@ OMX65-4152
 чтобы
 
 ### Настройка мультимедийного дисплея
-`jetour_dashing_ru_1a816571` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:128 | doc_type:owners_manual
 приостановить
 действие
 двери
@@ -8522,7 +7754,6 @@ OMX65-4152
 электроприводом.
 
 ### Включите
-`jetour_dashing_ru_97954120` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:128 | doc_type:owners_manual
 питание
 автомобиля
 в
@@ -8542,13 +7773,11 @@ OMX65-4152
 электроприводом на желаемую высоту.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_ae9babc4` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:129 | doc_type:owners_manual
 113
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Датчик пинка (если комплектован)
 
 ### Переключите питание автомобиля в
-`jetour_dashing_ru_e79b3bac` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:129 | doc_type:owners_manual
 режим OFF, носите ключ с собой и
 вытяните одну ногу, чтобы ударить по
 нижнему
@@ -8575,7 +7804,6 @@ OMX65-4152
 эту функцию.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_2727b029` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:129 | doc_type:owners_manual
 • Индукция открытия двери багажного отделения с помощью смарт-ключа
 требует  настройки  на  мультимедийном  дисплее.  Подробнее  см.  в  разделе
 «Мультимедийный дисплейе.
@@ -8590,7 +7818,6 @@ OMX65-4152
 переключатель двери багажного отделения, дверь остановится.
 
 ### Функция защиты от застревания
-`jetour_dashing_ru_4f6c90d4` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:129 | doc_type:owners_manual
 Если дверь багажного отделения с двигателем будет закрыта каким-либо
 предметом
 во
@@ -8606,7 +7833,6 @@ OMX65-4152
 отделения, чтобы избежать повреждения автомобиля.
 
 ### Обратная
-`jetour_dashing_ru_33fc6fa7` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:129 | doc_type:owners_manual
 защита
 от
 заедания:
@@ -8622,7 +7848,6 @@ OMX65-4152
 автоматически, сигнал тревоги из клаксона сработает 3 раза.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_156411f6` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:130 | doc_type:owners_manual
 114
 1
 2
@@ -8642,13 +7867,11 @@ OMX65-4152
 электрическую функцию.
 
 ### После отключения питания дверь багажного отделения с электроприводом
-`jetour_dashing_ru_9a9ae69c` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:130 | doc_type:owners_manual
 необходимо изучить вручную. Закройте заднюю дверь в положение блокировки,
 нажмите переключатель открывания задней двери на задней двери, пока задняя
 дверь не откроется в максимальное положение, обучение выполнено успешно.
 
 ### Дверь багажного отделения не может
-`jetour_dashing_ru_3b7fab7a` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:130 | doc_type:owners_manual
 быть открыта, когда батарея разряжена
 или в подобных условиях. В этом случае
 заднюю
@@ -8674,13 +7897,11 @@ OMX65-4152
 3:
 
 ### Нажмите
-`jetour_dashing_ru_33ef218f` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:130 | doc_type:owners_manual
 переключатель
 аварийного  устройства  вправо,  чтобы
 открыть дверь багажного отделения.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_2f81318d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 115
 ВНУТРЕННЯЯ ФУНКЦИЯ
 3-15. Крышка топливного бака
@@ -8689,7 +7910,6 @@ OMX65-4152
 1:
 
 ### Переключите
-`jetour_dashing_ru_d11ead47` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 питание
 автомобиля в режим OFF, нажмите на
 крышку топливного бака, и крышка
@@ -8705,33 +7925,28 @@ OMX65-4152
 стрелки, чтобы снять её.
 
 ### OMX65-4181
-`jetour_dashing_ru_955ba651` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 Шаг 3: После заправки поверните крышку топливного бака по часовой стрелке, пока
 не услышите «щелчоке. Затем полностью закройте крышку топливного бака.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_4dfbe702` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:131 | doc_type:owners_manual
 • Перед заправкой выключите переключатель ENGINE START STOP и убедитесь,
 что все двери и окна закрыты.
 • Перед заправкой проверьте тип топлива.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_e5385360` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
-• Предупреждающая
-табличка
-прикреплена
-к
-крышке
-топливного
-бака.
-Обязательно используйте указанный тип топлива.
-• Не проливайте топливо во время заправки. В противном случае автомобиль
-может быть  поврежден,  например, из-за  неправильной работы системы
-контроля выбросов, повреждения компонентов топливной системы или краски
-автомобиля.
+> ⚠️ **Внимание:** • Предупреждающая
+> табличка
+> прикреплена
+> к
+> крышке
+> топливного
+> бака.
+> Обязательно используйте указанный тип топлива.
+> • Не проливайте топливо во время заправки. В противном случае автомобиль
+> может быть  поврежден,  например, из-за  неправильной работы системы
+> контроля выбросов, повреждения компонентов топливной системы или краски
+> автомобиля.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_6c378971` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 116
 ОПАСНОСТЬ
 Топливо – это высокотемпературное легковоспламеняющееся и взрывоопасное
@@ -8762,7 +7977,6 @@ OMX65-4152
 запрещается курить, а также не должно быть других искр или открытого огня.
 
 ### Обязательно
-`jetour_dashing_ru_12a9c107` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 выключите
 мобильный
 телефон,
@@ -8792,7 +8006,6 @@ OMX65-4152
 117
 
 ### ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_0255433c` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:134 | doc_type:owners_manual
 4-1. Режим питания
 автомобиля
 Переключатель
@@ -8801,7 +8014,6 @@ ENGINE START STOP  ...... 119
 Запуск автомобиля  ......... 119
 
 ### Адаптивная система
-`jetour_dashing_ru_65bf1834` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:134 | doc_type:owners_manual
 управления
 4-3. Бензиновый сажевый
 фильтр (GPF) (при
@@ -8810,14 +8022,12 @@ ENGINE START STOP  ...... 119
 4-4. Трансмиссия
 
 ### Автоматическая трансмиссия
-`jetour_dashing_ru_f3ed1e5a` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:134 | doc_type:owners_manual
 4-5. Интеллектуальная
 система  своевременного
 полного привода (AWD)
 (при наличии)
 
 ### Интеллектуальная
-`jetour_dashing_ru_73ee0c56` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:134 | doc_type:owners_manual
 система
 своевременного
 полного привода
@@ -8825,23 +8035,19 @@ ENGINE START STOP  ...... 119
 4-6. Рулевая система
 
 ### Система рулевого
-`jetour_dashing_ru_f60bea91` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:134 | doc_type:owners_manual
 управления с
 электроусилителем
 4-7. Тормозная система
 
 ### Система электрического
-`jetour_dashing_ru_a5801539` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:134 | doc_type:owners_manual
 стояночного тормоза
 
 ### Автоматическая
-`jetour_dashing_ru_4d58329c` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:134 | doc_type:owners_manual
 система удержания (-
 4-8. Антиблокировочная
 тормозная система (ABS)
 
 ### Антиблокировочная
-`jetour_dashing_ru_aa24d648` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:134 | doc_type:owners_manual
 тормозная система
 4-9. Система
 динамической
@@ -8849,7 +8055,6 @@ ENGINE START STOP  ...... 119
 стабилизации
 
 ### Интегрированного кузова
-`jetour_dashing_ru_99000779` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:134 | doc_type:owners_manual
 автомобиля
 Система
 динамической
@@ -8860,23 +8065,19 @@ ENGINE START STOP  ...... 119
 безопасности (SRS)
 
 ### Представление о
-`jetour_dashing_ru_9c2efc3c` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:134 | doc_type:owners_manual
 подушки безопасности
 
 ### Положение подушки
-`jetour_dashing_ru_39b535bf` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:134 | doc_type:owners_manual
 118
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 
 ### Правильное использование
-`jetour_dashing_ru_f9c1016f` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:135 | doc_type:owners_manual
 подушки
 безопасности……………148
 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
 119
 
 ### ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_00279d1f` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 4-1. Режим питания автомобиля
 Переключатель ENGINE START STOP
 Когда система обнаружит законный смарт-ключ и отпустит педаль тормоза,
@@ -8885,7 +8086,6 @@ ENGINE START STOP  ...... 119
 переключается один раз (OFF - ACC - ON - START).
 
 ### OMX65-5010
-`jetour_dashing_ru_de650de7` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:136 | doc_type:owners_manual
 Режим
 OFF:
 Выключите
@@ -8899,7 +8099,6 @@ OFF:
 автомобиля переведен в режим ACC/
 
 ### ON,
-`jetour_dashing_ru_1aa4bfbd` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:136 | doc_type:owners_manual
 нажмите
 педаль
 тормоза,
@@ -8911,7 +8110,6 @@ OFF:
 режим
 
 ### START,
-`jetour_dashing_ru_dafc4e75` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 и
 двигатель
 можно
@@ -8920,7 +8118,6 @@ OFF:
 нажав переключатель ENGINE START
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_2f9b7b57` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 • Если переключатель ENGINE START STOP не нажат должным образом, режим
 мощности автомобиля не может быть переключен или двигатель может не
 запуститься.
@@ -8929,7 +8126,6 @@ OFF:
 4-2. Запуск и вождение
 
 ### Методы для нормального запуска автомобиля
-`jetour_dashing_ru_0bca9288` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 Шаг 1: Поставьте стояночный тормоз
 Шаг 2: Выключите все ненужные огни и аксессуары.
 Шаг 3: Носите эффективный смарт-ключ.
@@ -8937,13 +8133,11 @@ OFF:
 одновременно.
 
 ### Запуск в аварийной ситуации
-`jetour_dashing_ru_4a1b4cc8` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 При низком заряде батареи смарт-ключа или наличии серьезных помех сигналу
 бесключевой доступ и функция запуска не будут работать нормально. Запустите
 двигатель, выполнив следующие действия:
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_45ce5fff` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:137 | doc_type:owners_manual
 120
 OMX65-5300
 Шаг 1: Поставьте стояночный тормоз
@@ -8961,7 +8155,6 @@ OMX65-5300
 5:
 
 ### Нажмите
-`jetour_dashing_ru_22b1c2e8` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:137 | doc_type:owners_manual
 и
 удерживайте
 переключатель ENGINE  START STOP
@@ -8969,12 +8162,10 @@ OMX65-5300
 автомобиль.
 
 ### Перед поездкой на дальние расстояния лучше провести проверку безопасности
-`jetour_dashing_ru_017c652a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 автомобиля, что обеспечит вашу безопасность вождения и повысит удовольствие
 от вождения.
 
 ### Экстерьер автомобиля
-`jetour_dashing_ru_77a8ad14` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:137 | doc_type:owners_manual
 • Шины: Проверьте давление в шинах и тщательно проверьте протектор на наличие
 порезов,
 повреждений
@@ -8989,7 +8180,6 @@ OMX65-5300
 другие осветительные приборы работают; проверить силу света фар.
 
 ### Интерьер автомобиля
-`jetour_dashing_ru_e589fc1f` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:137 | doc_type:owners_manual
 • Ремень безопасности: Проверьте, надежно пристегнут ли пряжки ремней
 безопасности; убедитесь, что ремни безопасности не стары и не изношены.
 • Приборный щиток: В частности, убедитесь, что индикатор напоминания об
@@ -8998,7 +8188,6 @@ OMX65-5300
 пространства.
 
 ### Интерьер переднего отсека
-`jetour_dashing_ru_ee52c212` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 • Запасные
 предохранители:
 Убедитесь,
@@ -9014,7 +8203,6 @@ OMX65-5300
 треснутого корпуса батареи.
 
 ### Осмотр после запуска автомобиля
-`jetour_dashing_ru_aea0be80` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:137 | doc_type:owners_manual
 • Приборный щиток: Убедитесь, что индикатор напоминания об обслуживании и
 спидометр работают правильно.
 • Тормоз: При движении прямо в безопасном месте крепко держите руль, а затем
@@ -9022,7 +8210,6 @@ OMX65-5300
 сторону.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_940aaa10` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 121
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 • Другие аномальные явления: Проверьте наличие незакрепленных деталей, утечек
@@ -9030,7 +8217,6 @@ OMX65-5300
 Вы можете спокойно наслаждаться вождением, если все в порядке.
 
 ### Подготовка перед вождением
-`jetour_dashing_ru_dade0be5` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:138 | doc_type:owners_manual
 Шаг 1: Перед тем, как сесть в автомобиль, проверьте окрестности автомобиля;
 Шаг 2: Отрегулируйте положение сиденья, угол наклона спинки сиденья и угол
 наклона рулевого колеса;
@@ -9053,7 +8239,6 @@ OMX65-5300
 Jetour для проверки и ремонта;
 
 ### Скорость холостого хода
-`jetour_dashing_ru_60ce9659` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:138 | doc_type:owners_manual
 двигателя контролируется электронной системой
 управления. При запуске двигателя высокая скорость может привести к повышению
 температуры двигателя, это нормально. После повышения температуры двигателя
@@ -9062,7 +8247,6 @@ Jetour для проверки и ремонта;
 ремонта.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_d95dda51` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:138 | doc_type:owners_manual
 • Когда двигатель запущен, обязательно сядьте на сиденье водителя, чтобы
 запустить двигатель. Ни в коем случае не нажимайте педаль акселератора при
 запуске двигателя. В противном случае это может привести к несчастному
@@ -9091,7 +8275,6 @@ Jetour для проверки и ремонта;
 привести к возгоранию.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_c1e354c8` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:139 | doc_type:owners_manual
 122
 Выключение  автомобиля
 Выключение автомобиля нормально
@@ -9100,21 +8283,17 @@ Jetour для проверки и ремонта;
 Шаг 3: Включите питание автомобиля в положение OFF;
 Шаг 4: Убедитесь, что двигатель выключен.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_858ae8e5` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:139 | doc_type:owners_manual
-• Не нажимайте педаль акселератора до выключения двигателя.
-• Не прикасайтесь к высокотемпературным компонентам (таким как двигатель,
-выхлопная труба, радиатор и т. д.) немедленно после длительного движения на
-высокой скорости, иначе можно получить ожоги.
+> ⚠️ **Внимание:** • Не нажимайте педаль акселератора до выключения двигателя.
+> • Не прикасайтесь к высокотемпературным компонентам (таким как двигатель,
+> выхлопная труба, радиатор и т. д.) немедленно после длительного движения на
+> высокой скорости, иначе можно получить ожоги.
 
 ### Выключение автомобиля в аварийной ситуации
-`jetour_dashing_ru_44cc5f68` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:139 | doc_type:owners_manual
 Во время вождения, если двигатель необходимо остановить в случае аварийной
 ситуации, нажмите и удерживайте переключатель ENGINE START STOP более 3
 секунд, чтобы принудительно выключить двигатель.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_8bee1ad9` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:139 | doc_type:owners_manual
 • Не нажимайте переключатель ENGINE START STOP во время движения, за
 исключением экстренных случаев.
 • Если двигатель выключен во время движения автомобиля, это может привести к
@@ -9126,7 +8305,6 @@ Jetour для проверки и ремонта;
 к травмам.
 
 ### Адаптивная система управления двигателем
-`jetour_dashing_ru_a44a95cf` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:139 | doc_type:owners_manual
 Если клемма аккумулятора отсоединена и снова подключена, питание автомобиля
 переключается в режим ON, а питание автомобиля будет переведено в режим OFF
 после ожидания в течение 15 секунд перед запуском двигателя.
@@ -9135,13 +8313,11 @@ Jetour для проверки и ремонта;
 система управления двигателем снова учится адаптироваться к двигателю.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_56197dad` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 123
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 4-3. Бензиновый сажевый фильтр (GPF) (при наличии)
 
 ### Сажевый фильтр
-`jetour_dashing_ru_b38785b8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 Сажевый фильтр улавливает частицы сажи, содержащиеся в отработавших газах,
 тем
 самым
@@ -9175,7 +8351,6 @@ Jetour для проверки и ремонта;
 высоких оборотах.
 
 ### Запрещается
-`jetour_dashing_ru_5d732075` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 парковаться
 на
 сухих
@@ -9189,7 +8364,6 @@ Jetour для проверки и ремонта;
 привести к возгоранию.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_ca7e4db1` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:141 | doc_type:owners_manual
 124
 4-4. Трансмиссия
 Механическая  трансмиссия
@@ -9212,48 +8386,44 @@ Jetour для проверки и ремонта;
 вести автомобиль.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_8cce859a` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:141 | doc_type:owners_manual
 Механическая трансмиссия имеет устройство блокировки заднего хода, сначала
 поднимите устройство блокировки заднего хода, а затем нажмите на рычаг
 переключения передач, он переключится на передачу заднего хода.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_ae4562af` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
-• При движении под уклон или повороте всегда используйте пониженную
-передачу и никогда не используйте движение накатом в положении N.
-• Не пропускайте передачу при переключении с низкой на высокую передачу.
-• Не держите ногу на педали сцепления во время движения, чтобы избежать
-ненужного износа сцепления.
-• Не кладите руку на рычаг переключения передач, когда нет необходимости
-использовать
-рычаг
-переключения
-передач,
-иначе
-это
-приведет
-к
-преждевременному износу вилки переключения.
-• Категорически запрещается использовать метод работы «одно нажатие и одно
-отпусканиее при работе с рычагом выбора/переключения передач. Рычаг
-переключения всегда следует удерживать рукой, чтобы уменьшить износ
-стопорного кольца синхронизатора.
-• Заведите автомобиль на 1-й передаче. При переключении полностью выжмите
-педаль сцепления, чтобы полностью отключить трансмиссию от мощности
-двигателя, и быстро переместите рычаг переключения передач.
-• Перед включением заднего хода сначала устойчиво остановите автомобиль,
-полностью выжмите педаль сцепления и подождите около 3 секунд перед
-переключением на передачу заднего хода, что может эффективно уменьшить
-поломку зубьев при переключении в положение R и предотвратить плохое
-зацепление шестерни трансмиссии и создание шума.
-• Если в трансмиссии обнаруживаются ненормальные явления, такие как
-ненормальные шумы, тяжелая работа и т. д. , немедленно остановите
-автомобиль в безопасном месте вдали от проезжей части и своевременно
-свяжитесь с авторизованным сервисным центром Jetour  для  осмотра  и
-ремонта, продолжайте движение после устранения неполадок.
+> ⚠️ **Внимание:** • При движении под уклон или повороте всегда используйте пониженную
+> передачу и никогда не используйте движение накатом в положении N.
+> • Не пропускайте передачу при переключении с низкой на высокую передачу.
+> • Не держите ногу на педали сцепления во время движения, чтобы избежать
+> ненужного износа сцепления.
+> • Не кладите руку на рычаг переключения передач, когда нет необходимости
+> использовать
+> рычаг
+> переключения
+> передач,
+> иначе
+> это
+> приведет
+> к
+> преждевременному износу вилки переключения.
+> • Категорически запрещается использовать метод работы «одно нажатие и одно
+> отпусканиее при работе с рычагом выбора/переключения передач. Рычаг
+> переключения всегда следует удерживать рукой, чтобы уменьшить износ
+> стопорного кольца синхронизатора.
+> • Заведите автомобиль на 1-й передаче. При переключении полностью выжмите
+> педаль сцепления, чтобы полностью отключить трансмиссию от мощности
+> двигателя, и быстро переместите рычаг переключения передач.
+> • Перед включением заднего хода сначала устойчиво остановите автомобиль,
+> полностью выжмите педаль сцепления и подождите около 3 секунд перед
+> переключением на передачу заднего хода, что может эффективно уменьшить
+> поломку зубьев при переключении в положение R и предотвратить плохое
+> зацепление шестерни трансмиссии и создание шума.
+> • Если в трансмиссии обнаруживаются ненормальные явления, такие как
+> ненормальные шумы, тяжелая работа и т. д. , немедленно остановите
+> автомобиль в безопасном месте вдали от проезжей части и своевременно
+> свяжитесь с авторизованным сервисным центром Jetour  для  осмотра  и
+> ремонта, продолжайте движение после устранения неполадок.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_b759f611` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:142 | doc_type:owners_manual
 125
 OMT18-8050
 ВОЖДЕНИЕ АВТОМОБИЛЯ
@@ -9262,31 +8432,26 @@ OMT18-8050
 тормоза при переключении передач.
 
 ### Понижение передачи
-`jetour_dashing_ru_3c054d22` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 1.
 Последовательно  переключайтесь  на  пониженную  передачу,  не  пропуская
 передачи.
 
 ### 2. В целях безопасности переключайтесь на пониженную передачу при движении
-`jetour_dashing_ru_74659803` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 вниз по крутому склону.
 3. Правильно переключайтесь  на  пониженную  передачу,  когда снова  начинаете
 ускоряться, для лучшего ускорения.
 
 ### Не переключайтесь на пониженную передачу для дополнительного торможения
-`jetour_dashing_ru_2c5083af` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:142 | doc_type:owners_manual
 двигателем на скользкой поверхности. В противном случае ведущие колеса могут
 потерять сцепление с дорогой, что может привести к проскальзыванию колес и,
 как следствие, к потере контроля над автомобилем.
 
 ### Переведите рычаг переключения передач в положение R
-`jetour_dashing_ru_6033bec5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 Когда автомобиль стоит, полностью выжмите педаль сцепления, поднимите рычаг
 переключения передач вверх и переведите рычаг переключения передач в
 положение R.
 
 ### Автоматическая  трансмиссия
-`jetour_dashing_ru_a506f2e5` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:142 | doc_type:owners_manual
 Автоматическая трансмиссия (Тип A)
 Шаг 1: Полностью нажмите педаль
 тормоза,
@@ -9306,13 +8471,11 @@ P в положение D.
 медленно вести автомобиль.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_b3066fd6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 Когда автомобиль устойчиво остановится, нажмите кнопку P за рычагом
 переключения передач, чтобы переключиться в положение P. Нажимайте рычаг
 переключения передач вперед и назад, чтобы переключиться в другие положения.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_706df3fc` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:143 | doc_type:owners_manual
 126
 Автоматическая трансмиссия (Тип B)
 R
@@ -9323,7 +8486,6 @@ D
 OMX65-5310
 
 ### Порядок работы с автоматической
-`jetour_dashing_ru_f2b43066` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:143 | doc_type:owners_manual
 трансмиссии следующие:
 Шаг 1: Когда автомобиль заведется,
 полностью
@@ -9333,7 +8495,6 @@ OMX65-5310
 переключения передач из положения
 
 ### P;
-`jetour_dashing_ru_5a3e4fc4` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:143 | doc_type:owners_manual
 Шаг 2: Вручную или автоматически
 отпустите
 стояночный
@@ -9351,7 +8512,6 @@ OMX65-5310
 системае).
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_8b9d4ec1` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:143 | doc_type:owners_manual
 • Когда передача находится в положении P, слегка нажмите рычаг переключения
 на стойке вверх/вниз, и он переключится в положение N; Положение передачи
 переключится на R/D при повторном легком нажатии вверх/вниз.
@@ -9363,7 +8523,6 @@ OMX65-5310
 на
 
 ### Нажмите
-`jetour_dashing_ru_eb311b75` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:143 | doc_type:owners_manual
 рычаг
 переключения передач на рулевой колонке до упора вниз и отпустите, передача
 переключится на D.
@@ -9380,7 +8539,6 @@ D, дважды переместив его вниз до нижнего пре�
 положения R/N/D, когда передача не
 
 ### P
-`jetour_dashing_ru_08ede0b9` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 находится
 в
 положении
@@ -9389,17 +8547,14 @@ P
 автомобиль постоянно стоит.
 
 ### Во избежание аварийного движения автомобиля обязательно нажимайте педаль
-`jetour_dashing_ru_41078159` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:143 | doc_type:owners_manual
 тормоза при переключении передач.
 Введение в положение передачи
 
 ### Следующая информация поможет вам понять назначение и порядок работы
-`jetour_dashing_ru_e9d38f4a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 различных передач, чтобы сделать правильный выбор в соответствии с реальными
 потребностями во время эксплуатации.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_7d8aa368` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 127
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 ОПАСНОСТЬ
@@ -9411,7 +8566,6 @@ P
 произойти авария.
 
 ### Назначение
-`jetour_dashing_ru_4c8c968b` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:144 | doc_type:owners_manual
 P (паркинг)
 Данное положение предназначено для стоянки
 автомобиля.
@@ -9424,7 +8578,6 @@ P (паркинг)
 R (задний ход)
 
 ### Данное
-`jetour_dashing_ru_84f68eb0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 положение
 предназначено
 для
@@ -9434,7 +8587,6 @@ R (задний ход)
 N (нейтраль)
 
 ### В
-`jetour_dashing_ru_bfe0604a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 данном
 положении
 в
@@ -9453,7 +8605,6 @@ N (нейтраль)
 D (движение)
 
 ### Данное
-`jetour_dashing_ru_84f68eb0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 положение
 предназначено
 для
@@ -9462,7 +8613,6 @@ D (движение)
 ходом.
 
 ### В
-`jetour_dashing_ru_bfe0604a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 нем
 переключение
 передач
@@ -9474,7 +8624,6 @@ M (ручное
 +
 
 ### Однократно отклоните селектор вперед для
-`jetour_dashing_ru_21f12bc5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 переключения на смежную повышенную
 передачу.
 –
@@ -9483,7 +8632,6 @@ M (ручное
 передачу.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_206c9b3e` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:145 | doc_type:owners_manual
 128
 ПРОЧИТАЙТЕ
 • Двигатель можно запустить, только если передача находится в положении
@@ -9528,7 +8676,6 @@ M (ручное
 его секунд, чтобы переключиться на передачу N и войти в режим буксировки.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_3269658c` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:146 | doc_type:owners_manual
 129
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 4-5. Интеллектуальная система полного привода (AWD) (при
@@ -9545,35 +8692,32 @@ M (ручное
 даже если выбран режим СНЕЖНЫЙ/ГРЯЗЕВОЙ/БЕЗДОРОЖЬЯ, предельная
 пробуксовка и тяговая способность автомобиля снижаются.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_7ee0203e` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:146 | doc_type:owners_manual
-Избегайте длительного вождения по песчаным или грязным дорогам, а также
-длительной пробуксовки шин. Эта операция может срабатывать функцию защиты
-от перегрева системы полного привода, тогда желтый индикатор « е на
-комбинации приборов всегда горит, а режим полного привода отключается и
-переключается на привод двумя колесами для защиты приводящей системы; В
-безопасных условиях остановитесь как можно скорее, чтобы рассеять тепло, и
-подождите несколько минут, пока не отключится функция защиты от перегрева (-
-рекомендуется подождать еще несколько минут после удаления сигнала тревоги,
-чтобы температура системы полного привода снизилась и характеристики
-восстановились лучше), прежде чем снова включить систему полного привода.
-Если сигнал тревоги не удается снять в течение длительного времени, обратитесь
-на авторизованную станцию технического обслуживания.
-Индикатор интеллектуальной системы полного привода (AWD)
-При возникновении временной неисправности всегда горит желтый индикатор « е
-на комбинации приборов; При возникновении постоянной неисправности красный
-индикатор « е на комбинации приборов всегда горит. При этом на комбинации
-приборов
-отображается
-текст
-«Неисправность
-системы
-полного
-привода,
-обратитесь на станцию технического обслуживанияе.
+> ⚠️ **Внимание:** Избегайте длительного вождения по песчаным или грязным дорогам, а также
+> длительной пробуксовки шин. Эта операция может срабатывать функцию защиты
+> от перегрева системы полного привода, тогда желтый индикатор « е на
+> комбинации приборов всегда горит, а режим полного привода отключается и
+> переключается на привод двумя колесами для защиты приводящей системы; В
+> безопасных условиях остановитесь как можно скорее, чтобы рассеять тепло, и
+> подождите несколько минут, пока не отключится функция защиты от перегрева (-
+> рекомендуется подождать еще несколько минут после удаления сигнала тревоги,
+> чтобы температура системы полного привода снизилась и характеристики
+> восстановились лучше), прежде чем снова включить систему полного привода.
+> Если сигнал тревоги не удается снять в течение длительного времени, обратитесь
+> на авторизованную станцию технического обслуживания.
+> Индикатор интеллектуальной системы полного привода (AWD)
+> При возникновении временной неисправности всегда горит желтый индикатор « е
+> на комбинации приборов; При возникновении постоянной неисправности красный
+> индикатор « е на комбинации приборов всегда горит. При этом на комбинации
+> приборов
+> отображается
+> текст
+> «Неисправность
+> системы
+> полного
+> привода,
+> обратитесь на станцию технического обслуживанияе.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_f706ccc4` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:146 | doc_type:owners_manual
 • При
 возникновении
 неисправности
@@ -9590,7 +8734,6 @@ M (ручное
 обеспечить нормальное вождение.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_3f46fdfc` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 130
 Режим вождения
 Режима вождения (метод 1)
@@ -9599,7 +8742,6 @@ OMX65-5313
 1:
 
 ### Переключите
-`jetour_dashing_ru_b1a66a91` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 питание
 автомобиля в режим ON, удерживайте
 автомобиль в неподвижном состоянии
@@ -9609,7 +8751,6 @@ OMX65-5313
 переключиться между НОРМАЛЬНЫМ/
 
 ### ГРЯЗНЫМ/БЕЗДОРОЖЬЯ;
-`jetour_dashing_ru_b8bce08e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 На
 комбинации     приборов
 загорится
@@ -9620,7 +8761,6 @@ OMX65-5313
 темы.
 
 ### В
-`jetour_dashing_ru_ab6cbe95` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 то
 же
 время
@@ -9633,7 +8773,6 @@ OMX65-5313
 Режима вождения (метод 2)
 
 ### OMX65-4074
-`jetour_dashing_ru_e079942b` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:147 | doc_type:owners_manual
 Шаг
 1:
 Переключите
@@ -9648,7 +8787,6 @@ OMX65-5313
 3:
 
 ### СПОРТИВНЫЙ/ЭКО/СНЕЖНЫЙ/
-`jetour_dashing_ru_2e00d875` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:147 | doc_type:owners_manual
 ГРЯЗНЫЙ/ БЕЗДОРОЖЬЯ на экране
 режима вождения; На комбинации
 приборов
@@ -9663,7 +8801,6 @@ OMX65-5313
 темы.
 
 ### В
-`jetour_dashing_ru_ab6cbe95` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 то
 же
 время
@@ -9679,11 +8816,9 @@ OMX65-5313
 стандартной. Пожалуйста, обратитесь к фактическому автомобилю.
 
 ### Следующая информация поможет вам понять назначение различных режимов
-`jetour_dashing_ru_21aed193` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 вождения, которые можно выбирать в зависимости от дорожных условий.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_13fe9765` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 131
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 Режим вождения
@@ -9691,14 +8826,12 @@ OMX65-5313
 NORMAL (обычный)
 
 ### Режим NORMAL обеспечивает оптимальное сочетание
-`jetour_dashing_ru_7a1315a5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 эксплуатационных характеристик и топливной
 экономичности и подходит для большинства дорожных
 условий.
 ECO (экономичный)
 
 ### В режиме ECO повышается топливная экономичность
-`jetour_dashing_ru_4f0bf4d4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 автомобиля. Данный режим подходит для движения по
 горизонтальным участкам дорог с твердым покрытием
 (например, городским улицам).
@@ -9711,29 +8844,24 @@ SPORT (спортивный)
 SNOW (зимний)
 
 ### Режим SNOW предназначен для движения по твердым и
-`jetour_dashing_ru_40af4602` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 гладким поверхностям, таким как снег, лед, трава,
 гравий и т.п.
 MUD (грязь)
 
 ### Режим MUD предназначен для движения по грязным и
-`jetour_dashing_ru_4556e3d0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 неровным поверхностям с ровным и неглубоким слоем
 грязи или для дорог с колеями.
 
 ### OFF ROAD
-`jetour_dashing_ru_bc4a880a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 (бездорожье)
 Режим OFF ROAD повышает проходимость автомобиля.
 
 ### Данный режим способствует повышению
-`jetour_dashing_ru_559e99fc` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 проходимости автомобиля при движении по сложно
 пересечённой местности, склонам и неровному
 дорожному покрытию.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_2873576d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:148 | doc_type:owners_manual
 • В режиме SNOW/MUD/ OFF ROAD система «стоп-старте на холостом ходу
 по умолчанию отключена.
 • Если окна и стекло люка в крыше открыты, дождь может намочить внутренние
@@ -9744,12 +8872,10 @@ SNOW/MUD, а Система адаптивного круиз-контроля (
 в режиме SPORT/ OFF ROAD.
 
 ### Перед вождением по бездорожью необходимо научиться управлять автомобилем в
-`jetour_dashing_ru_a39174c2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 различных дорожных ситуациях и безопасно преодолевать неровные участки
 бездорожья.
 
 ### Способности
-`jetour_dashing_ru_7c34f188` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 и
 поведение,
 необходимые
@@ -9761,7 +8887,6 @@ SNOW/MUD, а Система адаптивного круиз-контроля (
 водителя.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_00ea16c2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:149 | doc_type:owners_manual
 132
 ОПАСНОСТЬ
 • При вождении по бездорожью всегда следует избегать диагонального вождения
@@ -9798,14 +8923,12 @@ SNOW/MUD, а Система адаптивного круиз-контроля (
 • Будьте особенно осторожны и предсказуемы при вождении по бездорожью.
 
 ### Слишком быстрое вождение или ошибка в управлении могут привести к
-`jetour_dashing_ru_b7ddae94` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:149 | doc_type:owners_manual
 серьезным травмам и повреждению автомобиля.
 • Не водите по берегам рек, пандусам или склонам на слишком высокой
 скорости. Это может поднять автомобиль, сделать его неспособным повернуть
 и потерять контроль над ним.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_76630ac5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 133
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 ОПАСНОСТЬ
@@ -9842,7 +8965,6 @@ SNOW/MUD, а Система адаптивного круиз-контроля (
 травмы и стать причиной поломки автомобиля.
 
 ### При многократном вождении вперед и назад для получения тяги автомобиль может
-`jetour_dashing_ru_28ba6e14` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 продолжать опускаться из-за неправильного управления, и вы можете запросить
 только внешнюю помощь.
 ■Если колеса плохо вращаются
@@ -9864,7 +8986,6 @@ SNOW/MUD, а Система адаптивного круиз-контроля (
 двигался назад и вперед для получения тяги.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_382ad0d9` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 134
 ОПАСНОСТЬ
 • Не допускайте длительной пробуксовки колес, иначе автомобиль продолжит
@@ -9878,24 +8999,20 @@ SNOW/MUD, а Система адаптивного круиз-контроля (
 смертельным травмам.
 
 ### 3. Снимите сильную грязь с решетки радиатора и деки автомобиля.
-`jetour_dashing_ru_14057c1d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 4. Осмотрите передний отсек и проверьте, не влияет ли грязь на работу двигателя.
 
 ### 5. Очистите указатель поворота, осветительные устройства, номерной знак и все
-`jetour_dashing_ru_9d7af659` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:151 | doc_type:owners_manual
 оконные стекла.
 6. Проверьте шины, амортизационную стойку и оси на наличие повреждений,
 снимите крупную грязь, камни и посторонние предметы, попавшие в рисунок
 шин.
 
 ### 7. Проверьте деку автомобиля и снимите все предметы, застрявшие в тормозах,
-`jetour_dashing_ru_a8c65f8a` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:151 | doc_type:owners_manual
 колесах, шасси, выхлопных устройствах и двигателе, например ветки, листья или
 деревянные бруски. При обнаружении повреждений или утечек немедленно
 обратитесь на авторизованную станцию технического обслуживания.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_940b00ba` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:151 | doc_type:owners_manual
 • Предметы, застрявшие под декой автомобиля, представляют опасность. После
 каждой вождении по бездорожью необходимо проверить, не застрял ли какойлибо предмет под декой автомобиля.
 • Не садитесь за руль, если в деке автомобиля, тормозах, колесах, шасси,
@@ -9920,7 +9037,6 @@ SNOW/MUD, а Система адаптивного круиз-контроля (
 автомобиле, то есть гидравлический насос приводится в действие двигателем.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_bfe6ecf9` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:152 | doc_type:owners_manual
 135
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 ПРОЧИТАЙТЕ
@@ -9928,39 +9044,32 @@ SNOW/MUD, а Система адаптивного круиз-контроля (
 Normal/Sport (или режим Eco/Sport, в зависимости от модели), выбрав режим
 вождения на мультимедийном дисплее.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_3643c697` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:152 | doc_type:owners_manual
-• Не удерживайте рулевое колесо в крайнем положении в любом направлении
-более 5 секунд при работающем двигателе.
-• Частые  манипуляции  и  вращение  рулевого  колеса  в  течение  длительного
-времени могут привести к повреждению системы электроусилителя руля.
-• Электродвигатель EPS издает нормальный звук при быстром повороте рулевого
-колеса.
+> ⚠️ **Внимание:** • Не удерживайте рулевое колесо в крайнем положении в любом направлении
+> более 5 секунд при работающем двигателе.
+> • Частые  манипуляции  и  вращение  рулевого  колеса  в  течение  длительного
+> времени могут привести к повреждению системы электроусилителя руля.
+> • Электродвигатель EPS издает нормальный звук при быстром повороте рулевого
+> колеса.
 
 ### Индикатор системы электроусилителя руля
-`jetour_dashing_ru_409de38b` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:152 | doc_type:owners_manual
 При возникновении неисправности в системе загорается желтый индикатор «
 е
 на приборной панели.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_f2188059` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:152 | doc_type:owners_manual
 При наличии неисправности в системе, несмотря на то, что автомобиль сохраняет
 способность к обычному управлению, его следует водить с осторожностью. Как
 можно скорее обратитесь на авторизованный сервисный центр Jetour для
 проверки и ремонта.
 4-7. Тормозная система
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_3643c697` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:152 | doc_type:owners_manual
-• Убедитесь, что все педали свободны от помех и могут быть полностью нажаты.
-• Все педали могут плавно вернуться в исходное положение.
-• Запрещено носить обувь на высоких каблуках и тапочки водителю. Всегда
-носите обувь, которая подходит вашим ногам и  позволяет  чувствовать
-движение педали.
+> ⚠️ **Внимание:** • Убедитесь, что все педали свободны от помех и могут быть полностью нажаты.
+> • Все педали могут плавно вернуться в исходное положение.
+> • Запрещено носить обувь на высоких каблуках и тапочки водителю. Всегда
+> носите обувь, которая подходит вашим ногам и  позволяет  чувствовать
+> движение педали.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_f2188059` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:152 | doc_type:owners_manual
 • Не храните какие-либо предметы в пространстве для ног водителя, в противном
 случае предметы могут попасть в область педалей и затруднить движение
 педали. Педаль
@@ -9975,12 +9084,10 @@ Normal/Sport (или режим Eco/Sport, в зависимости от мод
 для чистки.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_91cc8f63` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 136
 Система электрического стояночного тормоза (EPB)
 
 ### Система
-`jetour_dashing_ru_604ae8f8` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 электрического
 стояночного
 тормоза
@@ -9993,7 +9100,6 @@ Normal/Sport (или режим Eco/Sport, в зависимости от мод
 автомобиля.
 
 ### Поставьте
-`jetour_dashing_ru_c3830f0e` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 стояночный
 тормоз
 вручную
@@ -10005,7 +9111,6 @@ Normal/Sport (или режим Eco/Sport, в зависимости от мод
 автомобиля
 
 ### ON
-`jetour_dashing_ru_403615e4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:153 | doc_type:owners_manual
 или
 автомобиль
 запущен, потяните
@@ -10018,14 +9123,12 @@ EPB
 переключателе
 
 ### EPB
-`jetour_dashing_ru_4fbaf972` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 останется
 включенным. Загорается индикатор
 системы электрического стояночного
 тормоза на комбинации приборов.
 
 ### Отпустите
-`jetour_dashing_ru_50b25ad2` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 стояночный
 тормоз
 вручную
@@ -10039,7 +9142,6 @@ EPB
 переключатель
 
 ### EPB,
-`jetour_dashing_ru_92e26d79` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 индикатор
 на переключателе
 EPB
@@ -10057,7 +9159,6 @@ EPB
 ◆
 
 ### Автоматическое
-`jetour_dashing_ru_172d3c16` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 отключение
 стояночного
 тормоза
@@ -10073,7 +9174,6 @@ EPB
 ■
 
 ### Автоматическое
-`jetour_dashing_ru_172d3c16` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 отключение
 стояночного
 тормоза
@@ -10088,14 +9188,12 @@ EPB
 отключится.
 
 ### Индикатор
-`jetour_dashing_ru_39420005` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 системы
 электрического
 стояночного
 тормоза на комбинации приборов гаснет.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_10c166f2` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:154 | doc_type:owners_manual
 137
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 ВНИМАНИЕ
@@ -10103,7 +9201,6 @@ EPB
 должна быть закрыта, иначе EPB не сработает автоматически.
 
 ### После включения системы
-`jetour_dashing_ru_822111c4` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:154 | doc_type:owners_manual
 электрического стояночного тормоза загорится
 красный индикатор электрического стояночного тормоза«        е на комбинации
 приборов.  Если  индикатор  не  загорается  или  загорается  желтая  сигнальная
@@ -10112,7 +9209,6 @@ EPB
 ■Динамическая парковка
 
 ### В
-`jetour_dashing_ru_c21c1f0b` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:154 | doc_type:owners_manual
 аварийных
 условиях
 когда
@@ -10136,7 +9232,6 @@ EPB
 система парковки не будет выполнять автоматическую парковку.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_13adf762` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:154 | doc_type:owners_manual
 • При парковке автомобиля в повседневной жизни не используйте «режим мойки
 автомобиляе
 предотвратить
@@ -10163,49 +9258,44 @@ EPB (он загорается , когда тянете его и гаснет 
 более 3 секунд, одновременно нажать переключатель ENGINE START STOP, чтобы
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_8d3a0594` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:155 | doc_type:owners_manual
 138
 выключить автомобиль, и затем отпустить переключатель EPB. В это время EPB не
 будет выполнять автоматическую парковку.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_4550f3a9` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:155 | doc_type:owners_manual
-• Для всех функций EPB требуется нормальный источник питания, в противном
-случае он не может нормально использоваться.
-• При буксировке автомобиля необходимо отпустить стояночный тормоз, а рычаг
-переключения передач находится в нейтральном положении.
-• Если педаль акселератора нажимается очень медленно, автоматический сброс
-автоматической парковки задерживается. Это нормально.
-• Электрическая система стояночного тормоза не может использоваться при
-недостаточном заряде батареи. Для запуска двигателя можно использовать
-соединительные кабели, подробности см. в разделе «Управление автомобилем
-в случае бедствияе.
-• При включении и отпускании электрического стояночного тормоза из задней
-части автомобиля может быть слышен «свистящийе звук. Это нормально.
-• Если автомобиль движется по инерции после остановки в течение короткого
-промежутка времени, система автоматически увеличивает усилие стояночного
-тормоза,
-чтобы
-удерживать
-его
-в
-целях
-безопасности.
-Когда
-усилие
-стояночного тормоза увеличивается, система работает слышно. Это нормально.
-• Перед началом движения полностью отпустите стояночный тормоз. Когда
-стояночный тормоз не отпущен, загорается индикатор на переключателе EPB, в
-это время вождение автомобиля приведет к перегреву компонентов тормозной
-системы, что повлияет на эффективность тормозов и усилит их износ.
-Функция автоматического удержания (AUTO HOLD)
+> ⚠️ **Внимание:** • Для всех функций EPB требуется нормальный источник питания, в противном
+> случае он не может нормально использоваться.
+> • При буксировке автомобиля необходимо отпустить стояночный тормоз, а рычаг
+> переключения передач находится в нейтральном положении.
+> • Если педаль акселератора нажимается очень медленно, автоматический сброс
+> автоматической парковки задерживается. Это нормально.
+> • Электрическая система стояночного тормоза не может использоваться при
+> недостаточном заряде батареи. Для запуска двигателя можно использовать
+> соединительные кабели, подробности см. в разделе «Управление автомобилем
+> в случае бедствияе.
+> • При включении и отпускании электрического стояночного тормоза из задней
+> части автомобиля может быть слышен «свистящийе звук. Это нормально.
+> • Если автомобиль движется по инерции после остановки в течение короткого
+> промежутка времени, система автоматически увеличивает усилие стояночного
+> тормоза,
+> чтобы
+> удерживать
+> его
+> в
+> целях
+> безопасности.
+> Когда
+> усилие
+> стояночного тормоза увеличивается, система работает слышно. Это нормально.
+> • Перед началом движения полностью отпустите стояночный тормоз. Когда
+> стояночный тормоз не отпущен, загорается индикатор на переключателе EPB, в
+> это время вождение автомобиля приведет к перегреву компонентов тормозной
+> системы, что повлияет на эффективность тормозов и усилит их износ.
+> Функция автоматического удержания (AUTO HOLD)
 
 ### Система автоматического удержания используется для предотвращения
-`jetour_dashing_ru_c58e197f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:155 | doc_type:owners_manual
 скатывания автомобиля, когда он стоит на месте и трогается с места.
 
 ### OMX65-4261
-`jetour_dashing_ru_1954b8da` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:155 | doc_type:owners_manual
 «
 е
 переключатель
@@ -10235,7 +9325,6 @@ EPB (он загорается , когда тянете его и гаснет 
 указывая на то, что автомобиль включил функцию автоматического удержания.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_16b10a10` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:156 | doc_type:owners_manual
 139
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 ■Активация функции автоматического удержания
@@ -10285,51 +9374,46 @@ EPB (он загорается , когда тянете его и гаснет 
 автоматическое
 отключение.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_5016e08f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
-• Всегда правильно паркуйте автомобиль в соответствии с правилами техники
-безопасности и старайтесь не навредить себе и пешеходам.
-• Отключите функцию автоматического удержания перед тем, как заехать на
-автомойку. Подробнее см. в разделе «Режим мойки автомобиляе.
-• Когда активирована функция автоматического удержания, откройте дверь
-водителя или отстегните ремень безопасности водителя, автоматическкое
-удержания  переключится на электрическую парковку.
-• Автоматическая
-система удержания  не
-может быть  использована
-при
-недостаточном заряде батареи. Для запуска двигателя можно использовать
-соединительные кабели, подробности см. в разделе «Управление автомобилем
-в случае бедствияе.
-• Когда
-функция
-автоматического
-удержания
-включена,
-откройте
-дверь
-водителя или отстегните ремень безопасности водителя, чтобы выйти из
-функции автоматического удержания, закройте дверь водителя или снова
-пристегните ремень безопасности водителя, чтобы снова включить функцию.
-• После того, как автоматическое удержание включено и автомобиль
-полностью остановлен ножным тормозом, система автоматически удерживает
-автомобиль, но передача все еще находится в D или R. Рекомендуется
-переключиться на N на короткое время и на P на длительное время.
+> ⚠️ **Внимание:** • Всегда правильно паркуйте автомобиль в соответствии с правилами техники
+> безопасности и старайтесь не навредить себе и пешеходам.
+> • Отключите функцию автоматического удержания перед тем, как заехать на
+> автомойку. Подробнее см. в разделе «Режим мойки автомобиляе.
+> • Когда активирована функция автоматического удержания, откройте дверь
+> водителя или отстегните ремень безопасности водителя, автоматическкое
+> удержания  переключится на электрическую парковку.
+> • Автоматическая
+> система удержания  не
+> может быть  использована
+> при
+> недостаточном заряде батареи. Для запуска двигателя можно использовать
+> соединительные кабели, подробности см. в разделе «Управление автомобилем
+> в случае бедствияе.
+> • Когда
+> функция
+> автоматического
+> удержания
+> включена,
+> откройте
+> дверь
+> водителя или отстегните ремень безопасности водителя, чтобы выйти из
+> функции автоматического удержания, закройте дверь водителя или снова
+> пристегните ремень безопасности водителя, чтобы снова включить функцию.
+> • После того, как автоматическое удержание включено и автомобиль
+> полностью остановлен ножным тормозом, система автоматически удерживает
+> автомобиль, но передача все еще находится в D или R. Рекомендуется
+> переключиться на N на короткое время и на P на длительное время.
 
 ### Во избежание случайного движения автомобиля в состоянии автоматического
-`jetour_dashing_ru_6793587a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 удержания проверьте положение переключения перед тем, как нажать педаль
 акселератора для запуска.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_b68a1f35` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:157 | doc_type:owners_manual
 140
 Ножной тормоз
 OMX65-5330
 Индикатор тормозной системы
 
 ### Тормозная
-`jetour_dashing_ru_400c15aa` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:157 | doc_type:owners_manual
 система
 имеет
 конструкцию типа X, двухконтурную
@@ -10337,7 +9421,6 @@ OMX65-5330
 систему;
 
 ### Система
-`jetour_dashing_ru_7534d702` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:157 | doc_type:owners_manual
 представляет собой гидравлическую
 систему
 с
@@ -10365,7 +9448,6 @@ OMX65-5330
 гореть.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_b2c3721a` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:157 | doc_type:owners_manual
 • Когда загорается индикатор « е на приборной панели, проверьте уровень
 тормозной жидкости, долейте тормозную жидкость, когда он ниже линии MIN.
 Если причина неизвестна, немедленно обратитесь в авторизованный сервисный
@@ -10376,7 +9458,6 @@ OMX65-5330
 авторизованным сервисным центром Jetour.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_e00b60c5` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:158 | doc_type:owners_manual
 141
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 Меры предосторожности для тормозной системы
@@ -10423,13 +9504,11 @@ OMX65-5330
 проверить толщину тормозных накладок или заменить их при необходимости.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_640237ca` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:159 | doc_type:owners_manual
 142
 4-8. Антиблокировочная тормозная система (ABS)
 Антиблокировочная тормозная система (ABS)
 
 ### Антиблокировочная
-`jetour_dashing_ru_713c69e1` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:159 | doc_type:owners_manual
 тормозная
 система
 предназначена
@@ -10441,7 +9520,6 @@ ABS этого автомобиля интегрирована с системо
 тормозных усилий), что делает работу системы ABS более эффективной.
 
 ### Как правильно
-`jetour_dashing_ru_1d53a3c8` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:159 | doc_type:owners_manual
 пользоваться
 системой ABS
 2 Поворачивайте рулевое колесо, чтобы избежать столкновения с препятствием. Даже в условиях экстренного
@@ -10449,7 +9527,6 @@ ABS этого автомобиля интегрирована с системо
 контроль над автомобилем.
 
 ### ABS
-`jetour_dashing_ru_01c16b59` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:159 | doc_type:owners_manual
 не
 работает
 при
@@ -10469,7 +9546,6 @@ ABS этого автомобиля интегрирована с системо
 ее в этом положении.
 
 ### Никогда
-`jetour_dashing_ru_3a21c108` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:159 | doc_type:owners_manual
 не
 отпускайте
 педаль
@@ -10494,18 +9570,15 @@ ABS этого автомобиля интегрирована с системо
 • При движении по грунтовым, гравийным или заснеженным дорогам.
 
 ### Индикатор антиблокировочной тормозной системы
-`jetour_dashing_ru_aa5652b1` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:159 | doc_type:owners_manual
 При наличии неисправности «
 е горит желтый индикатор на приборной панели.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_2879f15b` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:159 | doc_type:owners_manual
 Если ABS не работает, эта функция может работать неправильно, пожалуйста, как
 можно скорее обратитесь на авторизованный сервисный центр Jetour для
 проверки и ремонта.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_c4e96ec3` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:160 | doc_type:owners_manual
 143
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 ВНИМАНИЕ
@@ -10516,7 +9589,6 @@ ABS этого автомобиля интегрирована с системо
 обслуживания Jetour.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_d0fbbcf8` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:160 | doc_type:owners_manual
 • Всегда ведите машину осторожно и не забывайте снижать скорость во время
 поворота.
 • Если ABS неисправна, как можно скорее обратитесь на авторизованную
@@ -10557,13 +9629,11 @@ ABS этого автомобиля интегрирована с системо
 сервисным центром Jetour.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_13af269b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 144
 4-9. Система стабилизации курсовой устойчивости (ESP)
 Система стабилизации курсовой устойчивости (ESP)
 
 ### Система
-`jetour_dashing_ru_8772a55f` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:161 | doc_type:owners_manual
 электронной
 программы
 стабилизации
@@ -10589,7 +9659,6 @@ ABS этого автомобиля интегрирована с системо
 животное внезапно бежит по дороге), чтобы избежать нестабильности автомобиля.
 
 ### Питание автомобиля переключается в
-`jetour_dashing_ru_35a9270f` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:161 | doc_type:owners_manual
 режим
 ON,
 нажмите
@@ -10615,7 +9684,6 @@ ON,
 переключатель  еще  раз,  индикатор
 
 ### OMX65-4263
-`jetour_dashing_ru_68f11ded` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:161 | doc_type:owners_manual
 погаснет,
 и
 система
@@ -10644,7 +9712,6 @@ ON,
 программы стабилизации.
 
 ### Индикатор системы электронной программы стабилизации
-`jetour_dashing_ru_94863e9d` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:161 | doc_type:owners_manual
 При выключении горит желтый индикатор «  е на приборной панели.
 Во время работы на комбинации приборов мигает желтый индикатор «
 е.
@@ -10652,13 +9719,11 @@ ON,
 е горит желтый индикатор на приборной панели.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_19318a15` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:161 | doc_type:owners_manual
 Если система электронной программы стабилизации неисправна, эта функция
 может работать неправильно, тогда пожалуйста, как можно скорее обратитесь на
 авторизованный сервисный центр Jetour для проверки и ремонта.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_bcba6111` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:162 | doc_type:owners_manual
 145
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 ОПАСНОСТЬ
@@ -10672,7 +9737,6 @@ ON,
 правила, чтобы избежать несчастных случаев.
 
 ### Система  электронной  программы  стабилизации  должна  быть  отключена  при
-`jetour_dashing_ru_6444351f` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:162 | doc_type:owners_manual
 следующих условиях:
 • При движении с цепями противоскольжения.
 • При движении на силовом тестере.
@@ -10683,16 +9747,13 @@ ON,
 • При экстремальном вождении (например, при дрифте).
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_342aae6a` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:162 | doc_type:owners_manual
 Чтобы  улучшить  сцепление  автомобиля  при  движении  по  песку  или  гравию,
 рекомендуется отключить систему электронной программы стабилизации.
 
 ### Расширенная функция
-`jetour_dashing_ru_b01acf11` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:162 | doc_type:owners_manual
 Электронная система распределения тормозных сил (EBD)
 
 ### Система
-`jetour_dashing_ru_51859c8d` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:162 | doc_type:owners_manual
 динамической
 электронной
 стабилизации
@@ -10703,7 +9764,6 @@ ON,
 тормозное усилие, чтобы обеспечить устойчивость и безопасность колес.
 
 ### Для повышения эффективности торможения система электронной распределения
-`jetour_dashing_ru_3149a9a0` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:162 | doc_type:owners_manual
 тормозных усилий (EBD) автоматически регулирует пропорция распределения
 тормозных сил между передней и задней осями в соответствии с разницей
 передачи осевой нагрузки, вызванной торможением. Кроме того, EBD работает
@@ -10711,7 +9771,6 @@ ON,
 Система помощи при экстренном торможении (ЕВА)
 
 ### Система EBA используется для сокращения тормозного пути при экстренном
-`jetour_dashing_ru_e496ee73` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:162 | doc_type:owners_manual
 торможении. В экстренной ситуации водитель обычно вовремя тормозит, но, как
 правило, не применяет максимальное тормозное усилие, тем самым удлиняя
 тормозной путь. В этом случае система HBA будет работать: Когда водитель быстро
@@ -10721,7 +9780,6 @@ HBA быстро увеличивает тормозное давление до
 эффективнее.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_86cbf8a3` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:163 | doc_type:owners_manual
 146
 Система контроля тяги (TCS)
 Функция:
@@ -10758,7 +9816,6 @@ ESP. При запуске или резком ускорении ведущие
 пробуксовывало.
 
 ### Индикатор ESP на  комбинации приборов  будет  мигать  при  включении  системы
-`jetour_dashing_ru_bf647016` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:163 | doc_type:owners_manual
 контроля тяги. Слышен некоторый шум или ощущается вибрация педали тормоза.
 Это нормально и продолжайте управлять автомобилем в желаемом направлении;
 Если в системе контроля тяги обнаружена неисправность, индикатор останется
@@ -10770,7 +9827,6 @@ ESP. При запуске или резком ускорении ведущие
 ненормально.
 
 ### Соответственно
-`jetour_dashing_ru_a889e644` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 отрегулируйте методы вождения.
 Для обеспечения максимальной безопасности вождения система контроля тяги
 включается автоматически при запуске автомобиля.
@@ -10792,7 +9848,6 @@ ESP. При запуске или резком ускорении ведущие
 Система предотвращения опрокидывания (RMI)
 
 ### В условиях высокоскоростного вождения функция предотвращения опрокидывания
-`jetour_dashing_ru_c0cbefb6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 может еще больше повысить эффективность системы стабилизации автомобиля.
 При
 движении
@@ -10809,14 +9864,12 @@ DBF - вспомогательная функция электрической �
 может быть применено, когда переключатель EPB постоянно поднят.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_60f73178` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:164 | doc_type:owners_manual
 147
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 4-10. Подушка безопасности (SRS)
 Дополнительная система удерживания (SRS)
 
 ### Система подушек безопасности является частью дополнительной удерживающей
-`jetour_dashing_ru_7fe7e9cc` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:164 | doc_type:owners_manual
 системы и действует как дополнительная часть ремня безопасности. Когда
 автомобиль
 попадает
@@ -10832,13 +9885,11 @@ DBF - вспомогательная функция электрической �
 или смерти.
 
 ### В зависимости от типа столкновения система подушек безопасности в основном
-`jetour_dashing_ru_b95258d4` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:164 | doc_type:owners_manual
 делится на фронтальные и боковые подушки безопасности. Фронтальная подушка
 безопасности включает в себя подушки безопасности водителя и переднего
 пассажира.
 
 ### Боковая
-`jetour_dashing_ru_96a4a7ce` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:164 | doc_type:owners_manual
 подушка
 безопасности
 включает
@@ -10859,7 +9910,6 @@ DBF - вспомогательная функция электрической �
 загорятся внутренние плафоны и аварийные сигналы.
 
 ### Положение подушки безопасности
-`jetour_dashing_ru_45d27e7b` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:164 | doc_type:owners_manual
 4
 1
 3
@@ -10870,7 +9920,6 @@ OMX65-5050
 Подушка безопасности водителя
 
 ### Подушка безопасности переднего
-`jetour_dashing_ru_6e161d41` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:164 | doc_type:owners_manual
 пассажира
 Боковая подушка безопасности
 сиденья (при наличии)
@@ -10878,13 +9927,11 @@ OMX65-5050
 наличии)
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_31b62082` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:165 | doc_type:owners_manual
 148
 Правильное использование подушки безопасности
 Передняя подушка безопасности
 
 ### В
-`jetour_dashing_ru_911716e3` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:165 | doc_type:owners_manual
 случае
 серьезного
 лобового
@@ -10915,7 +9962,6 @@ OMX65-5050
 человека).
 
 ### Подушка
-`jetour_dashing_ru_c31e4fca` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:165 | doc_type:owners_manual
 безопасности
 работает
 вместе с ремнем безопасности для
@@ -10923,7 +9969,6 @@ OMX65-5050
 пассажиров.
 
 ### Однако
-`jetour_dashing_ru_feb0d9d4` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:165 | doc_type:owners_manual
 подушка
 безопасности не является заменой
 ремня безопасности.  Кроме того,
@@ -10941,7 +9986,6 @@ OMX65-5050
 защиты.
 
 ### Пристегивание
-`jetour_dashing_ru_066d69a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 ремня
 безопасности во время столкновения
 может
@@ -10954,13 +9998,11 @@ OMX65-5050
 защитить водителя и пассажиров.
 
 ### Поэтому все люди в автомобиле
-`jetour_dashing_ru_c16074ec` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 должны правильно пристегиваться
 ремнями
 безопасности.
 
 ### Подушки
-`jetour_dashing_ru_1e86011c` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:165 | doc_type:owners_manual
 безопасности и ремни безопасности
 могут
 обеспечить защиту только
@@ -10969,7 +10011,6 @@ OMX65-5050
 возраста.
 
 ### Боковая подушка безопасности сиденья
-`jetour_dashing_ru_bcda0cea` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:165 | doc_type:owners_manual
 Если ваш автомобиль  оснащен боковой подушкой безопасности сиденья. Когда
 автомобиль подвергается боковому столкновению средней или тяжелой степени во
 время вождения и соблюдены условия срабатывания подушки безопасности,
@@ -10977,7 +10018,6 @@ OMX65-5050
 стороне столкновения, уменьшая степень травмы.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_230ca731` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:166 | doc_type:owners_manual
 149
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 ПРОЧИТАЙТЕ
@@ -10994,16 +10034,13 @@ OMX65-5050
 убедитесь, что верхние конечности находятся на достаточном расстоянии от
 боковой части автомобиля, чтобы избежать травм во время срабатывания.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_05041f6e` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:166 | doc_type:owners_manual
-• Не мочите спинку сиденья, чтобы не нарушить нормальную работу системы
-боковых подушек безопасности.
-• Не накрывайте и не заменяйте спинку сиденья самостоятельно. Использование
-неподходящего чехла спинки сиденья или другого покрытия может помешать
-срабатыванию боковой подушки безопасности сиденья во время столкновения.
+> ⚠️ **Внимание:** • Не мочите спинку сиденья, чтобы не нарушить нормальную работу системы
+> боковых подушек безопасности.
+> • Не накрывайте и не заменяйте спинку сиденья самостоятельно. Использование
+> неподходящего чехла спинки сиденья или другого покрытия может помешать
+> срабатыванию боковой подушки безопасности сиденья во время столкновения.
 
 ### Защитная подушка безопасности
-`jetour_dashing_ru_fdb1c5b8` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:166 | doc_type:owners_manual
 Если ваш автомобиль оснащен левой и правой шторками безопасности. Когда
 автомобиль подвергается боковому столкновению средней или тяжелой степени во
 время вождения и соблюдены условия срабатывания подушки безопасности
@@ -11011,7 +10048,6 @@ OMX65-5050
 пассажиров на стороне столкновения, уменьшая степень травмы.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_328934de` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:166 | doc_type:owners_manual
 • Когда автомобиль подвергается боковому столкновению и соблюдены условия
 срабатывания подушки безопасности, подушка безопасности стороны удара
 сработает.
@@ -11030,7 +10066,6 @@ OMX65-5050
 прислонившись к спинке сиденья.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_dfb2086d` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:167 | doc_type:owners_manual
 150
 ВНИМАНИЕ
 • Не прикасайтесь к соответствующим компонентам сразу после срабатывания
@@ -11073,7 +10108,6 @@ OMX65-5050
 работу подушки безопасности.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_33b7daae` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 151
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 ОПАСНОСТЬ
@@ -11082,7 +10116,6 @@ OMX65-5050
 безопасности.
 
 ### Подушка
-`jetour_dashing_ru_377e8844` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:168 | doc_type:owners_manual
 безопасности
 —
 это
@@ -11110,19 +10143,16 @@ OMX65-5050
 надлежащим образом.
 
 ### Индикаторы подушек безопасности
-`jetour_dashing_ru_89e27747` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 При  наличии  неисправности  горит  красный  индикатор  «
 е на  комбинации
 приборов.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_be3266e7` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:168 | doc_type:owners_manual
 Если подушка безопасности неисправна, эта функция может не работать должным
 образом. Как можно скорее обратитесь в авторизованный сервисный центр Jetour
 для проверки и ремонта.
 
 ### Условия срабатывания подушки  безопасности не  зависят от скорости движения
-`jetour_dashing_ru_3fcd21c4` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:168 | doc_type:owners_manual
 автомобиля,
 а
 зависят
@@ -11136,7 +10166,6 @@ OMX65-5050
 не сработать, если удар при столкновении поглощается или рассеивается в теле;
 
 ### Однако иногда подушка безопасности может сработать в зависимости от условий
-`jetour_dashing_ru_791d46ed` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:168 | doc_type:owners_manual
 удара при аварии. Поэтому об условиях срабатывания подушки безопасности не
 следует судить по поврежденному состоянию автомобиля.
 Даже если подушка безопасности не развернута, при столкновении подушка
@@ -11156,12 +10185,10 @@ OMX65-5050
 авторизованный сервисный центр Jetour для проверки и ремонта.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_01164118` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:169 | doc_type:owners_manual
 152
 Условия, при которых подушка безопасности может сработать
 
 ### Подушка безопасности водителя и
-`jetour_dashing_ru_53e49924` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:169 | doc_type:owners_manual
 подушка
 безопасности
 переднего
@@ -11180,7 +10207,6 @@ OMX65-5050
 • Упасть или пересечь глубокую яму.
 
 ### OMX65-5053
-`jetour_dashing_ru_a7cd6511` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:169 | doc_type:owners_manual
 • Колеса ударяются о твердую землю
 или автомобиль падает.
 Как
@@ -11200,12 +10226,10 @@ OMX65-5050
 уровень.
 
 ### OMX65-5054
-`jetour_dashing_ru_604a6685` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:169 | doc_type:owners_manual
 Условия, при которых подушка безопасности может не сработать при
 столкновении
 
 ### Подушка безопасности водителя и
-`jetour_dashing_ru_53e49924` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:169 | doc_type:owners_manual
 подушка
 безопасности
 переднего
@@ -11219,7 +10243,6 @@ OMX65-5050
 столкновение на низкой скорости.
 
 ### Столкновение
-`jetour_dashing_ru_52655f78` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 с ударом сбоку
 Опрокидывание
 OMX65-5055
@@ -11227,13 +10250,11 @@ OMX65-5055
 столкновение
 
 ### Столкновение
-`jetour_dashing_ru_52655f78` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 с ударом сбоку
 Столкновение с подъездом
 под другой автомобиль
 
 ### Подушка безопасности водителя и
-`jetour_dashing_ru_53e49924` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:169 | doc_type:owners_manual
 переднего
 пассажира
 могут
@@ -11247,7 +10268,6 @@ OMX65-5055
 коснется бокового удара.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_d1f2b73f` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:170 | doc_type:owners_manual
 153
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 Боковая
@@ -11269,7 +10289,6 @@ OMX65-5055
 определенным углом к автомобилю.
 
 ### Боковая
-`jetour_dashing_ru_dfd4625c` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:170 | doc_type:owners_manual
 подушка
 безопасности
 сиденья
@@ -11287,14 +10306,12 @@ OMX65-5055
 столкновению на низкой скорости.
 
 ### Фронтальное
-`jetour_dashing_ru_c01d581f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 столкновение
 Опрокидывание
 OMX65-5058
 Меры предосторожности для подушек безопасности
 
 ### Всегда держите путь срабатывания
-`jetour_dashing_ru_7381a222` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:170 | doc_type:owners_manual
 подушки
 безопасности
 свободным.
@@ -11307,7 +10324,6 @@ OMX65-5058
 безопасности.
 
 ### Запрещается
-`jetour_dashing_ru_969e4df0` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:170 | doc_type:owners_manual
 закреплять или размещать какие-либо
 предметы
 на
@@ -11317,7 +10333,6 @@ OMX65-5058
 между    пассажиром    и    подушкой
 
 ### OMX65-5059
-`jetour_dashing_ru_4b76837c` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:170 | doc_type:owners_manual
 безопасности находится какой-либо
 предмет,
 подушка
@@ -11334,13 +10349,11 @@ OMX65-5058
 серьезной травме или смерти.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_b94e1d33` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 154
 Не  садитесь  на  край  сиденья  и  не
 прислоняйтесь к приборной панели.
 
 ### Не позволяйте ребенку стоять перед
-`jetour_dashing_ru_a617e9d3` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:171 | doc_type:owners_manual
 блоком
 подушки
 безопасности
@@ -11348,12 +10361,10 @@ OMX65-5058
 коленях переднего пассажира.
 
 ### OMX65-5061
-`jetour_dashing_ru_7658ef5c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 Не прислоняйтесь к двери, стойке А,
 стойке B или стойке C.
 
 ### Не позволяйте никому становиться на
-`jetour_dashing_ru_8119f643` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:171 | doc_type:owners_manual
 колени на пассажирском сиденье по
 направлению к двери или высовывать
 голову
@@ -11364,7 +10375,6 @@ OMX65-5058
 автомобиля.
 
 ### Ничего
-`jetour_dashing_ru_ab18936f` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:171 | doc_type:owners_manual
 не
 прикрепляйте
 или
@@ -11376,7 +10386,6 @@ OMX65-5058
 водителя или переднего пассажира.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_83b8401d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:172 | doc_type:owners_manual
 155
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 Не
@@ -11391,12 +10400,10 @@ OMX65-5058
 стойка
 
 ### A,
-`jetour_dashing_ru_c78295cf` | dashing | pdf_manual | tier:2 | lang:ru | layer:suspension | p:172 | doc_type:owners_manual
 стойка B, стойка C, боковая рейка
 крыши и вспомогательная ручка.
 
 ### Замена компонентов подушки безопасности
-`jetour_dashing_ru_fd43be65` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:172 | doc_type:owners_manual
 Соответствующие части подушки безопасности необходимо заменять через 10 лет
 с даты покупки автомобиля. Чтобы убедиться, что подушка безопасности может
 обеспечить вашу безопасность, всегда обращайтесь в авторизованный сервисный
@@ -11406,7 +10413,6 @@ OMX65-5058
 продаже автомобиля.
 
 ### Не утилизируйте автомобиль и не выполняйте следующие модификации без
-`jetour_dashing_ru_73cfc9f2` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:172 | doc_type:owners_manual
 разрешения авторизованной сервисной станции Jetour, в противном  случае
 подушка безопасности может выйти из строя или случайно сработать, что приведет
 к серьезным травмам или смерти.
@@ -11420,53 +10426,44 @@ OMX65-5058
 157
 
 ### ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_a4d1f1b6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 5-1. Система круиз
 контроля
 Система круизконтроля (CCS) (при
 
 ### Система адаптивного
-`jetour_dashing_ru_d1629df4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 круиз-контроля (ACC)
 5-2. Система управления
 спуском с холма (HDC)
 
 ### Система управления
-`jetour_dashing_ru_8c297f0f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 5-3. Система помощи при
 движении по полосе
 
 ### Система помощи при
-`jetour_dashing_ru_de796d89` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 движении по полосе
 
 ### Система
-`jetour_dashing_ru_be135a6e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 предупреждения о
 выходе из полосы
 движения (LDW) (при
 
 ### Система удержания
-`jetour_dashing_ru_1fe04550` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 полосы движения (LKA)
 5-4. Система
 обнаружения слепых зон
 (BSD) (при наличии)
 
 ### Система обнаружения
-`jetour_dashing_ru_18ee278e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 слепых зон (BSD) .............. 174
 Система
 предупреждения об
 открытии двери
 
 ### Система оповещения о
-`jetour_dashing_ru_ea67f4de` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 перекрестном
 движении сзади
 
 ### Система
-`jetour_dashing_ru_be135a6e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 предупреждения
 заднего столкновения
 5-5. Автоматическая
@@ -11474,7 +10471,6 @@ OMX65-5058
 торможения (AEB)/
 
 ### Система предупреждения
-`jetour_dashing_ru_f6d152b8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 o лобовом столкновении
 (FCW) (если оборудован)
 Автоматическая
@@ -11482,21 +10478,18 @@ o лобовом столкновении
 торможения (AEB)/
 
 ### Система
-`jetour_dashing_ru_be135a6e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 предупреждения о
 лобовом столкновении
 5-6. Система помощи при
 заторе движения (TJA) /
 
 ### Интегрированная система
-`jetour_dashing_ru_63e2b61a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 помощи при движении
 (ICA) (при наличии)
 Система помощи при
 пробках (TJA)/
 
 ### Интегрированная
-`jetour_dashing_ru_6a1b265e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 158
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 система помощи при
@@ -11504,19 +10497,15 @@ o лобовом столкновении
 давления в шинах (TPMS)
 
 ### Система наблюдения
-`jetour_dashing_ru_1ad3f98d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 за парковкой (при
 
 ### Система контроля
-`jetour_dashing_ru_a80a8b29` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 панорамного обзора
 
 ### Парковочная радарная
-`jetour_dashing_ru_453ea484` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 система (при
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_8a7bce80` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 159
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 5-1. Система круиз контроля
@@ -11535,7 +10524,6 @@ o лобовом столкновении
 скоростью.
 
 ### OMX65-6011
-`jetour_dashing_ru_91336cad` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:176 | doc_type:owners_manual
 Выход: Во время движения на круизе
 один
 раз
@@ -11546,13 +10534,11 @@ o лобовом столкновении
 постоянной скоростью.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_2981034b` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:176 | doc_type:owners_manual
 После перехода автомобиля в круизный режим функция A/C не может быть
 отрегулирована с помощью ролика на рулевом колесе, можно отрегулировать
 только функцию помощи при движении.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_78d5520a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 • Во время круиза, если вы по ошибке перевели рычаг переключения передач из
 положения D в положение N или переключились в положение R. По причинам
 безопасности крейсерский режим также будет отменен, и система перейдет в
@@ -11570,7 +10556,6 @@ o лобовом столкновении
 ремонта.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_be1ba462` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:177 | doc_type:owners_manual
 160
 Настройка скорости
 Во время движения на круизе поверните левый ролик рулевого колеса вверх, чтобы
@@ -11579,7 +10564,6 @@ o лобовом столкновении
 уменьшить скорость движения.
 
 ### Ограничение функции
-`jetour_dashing_ru_b4be1a8f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 ■При следующих условиях не используйте систему круиз с постоянной скоростью,
 несоблюдение этого требования может привести к несчастному случаю, травмам и
 смерти.
@@ -11612,7 +10596,6 @@ o лобовом столкновении
 • Температура тормоза слишком высока из-за частого торможения.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_24843fb7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 161
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 Методы использования
@@ -11620,7 +10603,6 @@ o лобовом столкновении
 Введите:
 
 ### Переведите
-`jetour_dashing_ru_ffa33601` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 питание
 автомобиля
 в
@@ -11633,7 +10615,6 @@ ON,
 системы.
 
 ### Дважды
-`jetour_dashing_ru_5e8a39e7` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:178 | doc_type:owners_manual
 потяните
 переключатель
 передач под рулевым колесом вниз,
@@ -11641,7 +10622,6 @@ ON,
 круиз-контроля.
 
 ### OMX65-6011
-`jetour_dashing_ru_1779e5b0` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:178 | doc_type:owners_manual
 ■Выходе в систему адаптивного круиз-контроля
 При возникновении любой из следующих ситуаций в крейсерском режиме ACC
 отключится:
@@ -11657,21 +10637,18 @@ ON,
 • Водитель нажимает педаль акселератора более 15 минут.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_93d3d012` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 • Для системы адаптивного круиз-контроля минимальная скорость снижается до
 30 км/ч.
 • Скорость будет немного ниже установленной скорости при движении вверх по
 склону и немного выше установленной скорости при движении вниз по склону.
 
 ### Настройка скорости
-`jetour_dashing_ru_56b1b269` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:178 | doc_type:owners_manual
 Во время движения на круизе поверните левый ролик рулевого колеса вверх, чтобы
 увеличить крейсерскую скорость.
 Во время движения на круизе поверните левый ролик рулевого колеса вниз, чтобы
 уменьшить скорость движения.
 
 ### Во время движения на круизе поверните левый ролик рулевого колеса влево для
-`jetour_dashing_ru_a5da29f6` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:178 | doc_type:owners_manual
 регулировки временного интервала круиза (циклическое переключение)
 Обгон
 Во время движения, водитель активно нажимает на педаль газа, чтобы превысить
@@ -11681,14 +10658,12 @@ ON,
 педали акселератора ACC снова активируется.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_e0eddd5d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 162
 Контроль скорости при движении по кривой
 Уменьшите скорость, когда автомобиль входит в поворот в процессе круиза, что
 поможет водителю безопасно пройти через поворот.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_a6b9cade` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 • Водитель должен управлять автомобилем, проезжая поворот как можно
 медленнее на протяжении всего процесса вождения.
 • При движении по кривой из-за ограничений радиолокационного зонда для
@@ -11697,7 +10672,6 @@ ON,
 на себя управление автомобилем в любое время.
 
 ### Автоматическое  отслеживание
-`jetour_dashing_ru_ea44b209` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 Когда активирована адаптивная система круиз-контроля, она обнаруживает, что
 перед полосой движения находится автомобиль. Если скорость движения не
 превышает
@@ -11713,24 +10687,20 @@ ON,
 также уменьшает скорость до остановки.
 
 ### 1. Если впереди идущий автомобиль заводится в течение 3 секунд, автомобиль
-`jetour_dashing_ru_e9ba4633` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:179 | doc_type:owners_manual
 также запускается автоматически.
 2. Если впереди идущий автомобиль останавливается более чем на 3 секунд и
 запускается в течение от 3 секунд до 10 минут, водителю необходимо дважды
 потянуть переключатель передач под рулевым колесом вниз, чтобы активировать
 
 ### 3. Если автомобиль останавливается более чем на 10 минут, водителю следует
-`jetour_dashing_ru_6b6442de` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:179 | doc_type:owners_manual
 слегка нажать на педаль акселератора или дважды переключить переключатель
 передач под рулевым колесом вниз, чтобы активировать ACC.
 
 ### Во время следования впереди идущего автомобиля электронная  система
-`jetour_dashing_ru_9a8717c1` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:179 | doc_type:owners_manual
 контроля устойчивости постоянно тормозит, а электродвигатель издает звук
 работы при вращении, это нормально, ведите машину спокойно.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_a083ad11` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 163
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 Ограничение функции
@@ -11738,7 +10708,6 @@ ON,
 нераспознаванию:
 
 ### 1. При входе в кривую.
-`jetour_dashing_ru_753661c8` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:180 | doc_type:owners_manual
 При
 входе
 в
@@ -11756,7 +10725,6 @@ ON,
 акселератора.
 
 ### При выходе из поворота передний
-`jetour_dashing_ru_4b40f0bf` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:180 | doc_type:owners_manual
 радарный датчик может среагировать
 на соседнюю полосу  и применить
 торможение, которое можно прервать
@@ -11767,7 +10735,6 @@ ON,
 полосу движения.
 
 ### 3. Транспортные средства не движутся по одной полосе.
-`jetour_dashing_ru_8e3a3d37` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:180 | doc_type:owners_manual
 Автомобиль, не движущийся по той же полосе, может быть идентифицировано
 только в пределах действия переднего радарного датчика, особенно автомобили
 узкого
@@ -11780,7 +10747,6 @@ ON,
 д.).
 
 ### Передний
-`jetour_dashing_ru_1d05b9f1` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:180 | doc_type:owners_manual
 радиолокационный датчик не может идентифицировать автомобиль узкого типа,
 которые не находятся в пределах дальности обнаружения.
 Если
@@ -11797,7 +10763,6 @@ ON,
 радарного датчика.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_8e046566` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:181 | doc_type:owners_manual
 164
 Не используйте ACC на крутом склоне.
 На крутом склоне ACC система не
@@ -11821,7 +10786,6 @@ ON,
 тормоз
 
 ### ACC
-`jetour_dashing_ru_0bbb155a` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:181 | doc_type:owners_manual
 система
 отключается.
 OMX65-6023
@@ -11833,7 +10797,6 @@ OMX65-6023
 ена мультимедийном дисплее горит синий индикатор.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_930974b6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 Если ACC неисправен, эта функция не будет работать, пожалуйста, обратитесь в
 авторизованный сервисный центр Jetour для проверки и ремонта как можно
 скорее.
@@ -11841,7 +10804,6 @@ OMX65-6023
 • ACC не может нарушать законы физики и имеет определенные ограничения.
 
 ### Водитель
-`jetour_dashing_ru_65df5eae` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 должен
 всегда
 контролировать
@@ -11875,7 +10837,6 @@ ACC может выбрать данный автомобиль в качест�
 идущий впереди автомобиль. В этом случае ACC должна быть выключена.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_348a2bd2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 165
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 • ACC подходит для использования на автомагистралях и дорогах в хорошем
@@ -11896,7 +10857,6 @@ ACC может выбрать данный автомобиль в качест�
 столкновению.
 
 ### Поэтому
-`jetour_dashing_ru_e032c865` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:182 | doc_type:owners_manual
 водитель
 должен
 следить
@@ -11949,14 +10909,12 @@ ACC может выбрать данный автомобиль в качест�
 которые могут повлиять на нормальную работу системы. Функция системы может
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_8b1e34bb` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 166
 не принести ожидаемого эффекта по другим причинам. Водитель всегда должен
 нести полную ответственность за управление автомобилем в любое время.
 5-2. Система управления спуском с холма (HDC)
 
 ### Система управления спуском с холма
-`jetour_dashing_ru_0f9bf30b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 HDC - это функция комфорта, которая помогает водителю при спуске с дороги за
 счет активного торможения, позволяя автомобилю автоматически контролировать
 свою скорость без участия водителя.
@@ -11964,7 +10922,6 @@ HDC - это функция комфорта, которая помогает в
 включения
 
 ### HDC
-`jetour_dashing_ru_df5c21df` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 при
 движении
 автомобиля
@@ -11979,14 +10936,12 @@ HDC - это функция комфорта, которая помогает в
 скорости.
 
 ### Текущая
-`jetour_dashing_ru_5d4bc673` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:183 | doc_type:owners_manual
 скорость
 управляемого
 автомобиля может быть увеличена или уменьшена в заданном диапазоне скоростей
 нажатием на педаль акселератора или педаль тормоза.
 
 ### Питание автомобиля переключается в
-`jetour_dashing_ru_efca6fcf` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:183 | doc_type:owners_manual
 режим ON. Включение/выключение
 переключателя HDC осуществляется
 через мультимедийный дисплей [Мое
@@ -11997,7 +10952,6 @@ HDC - это функция комфорта, которая помогает в
 Когда скорость автомобиля ≤ 60 км/ч.
 
 ### Нажмите
-`jetour_dashing_ru_2afc15cb` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:183 | doc_type:owners_manual
 переключатель
 HDC
 для
@@ -12006,7 +10960,6 @@ HDC
 HDC, а индикаторная лампа функции
 
 ### HDC на комбинации приборов станет
-`jetour_dashing_ru_47a97fb5` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:183 | doc_type:owners_manual
 белой; когда система HDC войдет в
 рабочий порог, система HDC начнет
 работать,
@@ -12022,25 +10975,21 @@ HDC, а индикаторная лампа функции
 электромагнитного клапана.
 
 ### Выключение
-`jetour_dashing_ru_b0e37d87` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 Если скорость автомобиля > 60 км/ч или снова нажать кнопку HDC, система HDC
 перестанет работать (погаснет индикаторная лампочка выключателя HDC и
 индикаторная лампочка функции HDC на комбинации приборов).
 
 ### Индикатор системы контроля движения на спуске
-`jetour_dashing_ru_ce344773` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 При его активации загорается зеленый индикатор «     е на приборной панели.
 При наличии неисправности загорается желтый индикатор « е на приборной
 панели.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_b3d0c357` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 Если HDC неисправен, эта функция не будет работать, пожалуйста, как можно
 скорее обратитесь на авторизованный сервисный центр Jetour для проверки и
 ремонта.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_4e1172ea` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:184 | doc_type:owners_manual
 167
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 ВНИМАНИЕ
@@ -12064,7 +11013,6 @@ HDC, а индикаторная лампа функции
 проверки и ремонта.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_f101e9ae` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 168
 5-3. Система помощи при движении по полосе
 Система помощи при движении по полосе (при наличии)
@@ -12079,7 +11027,6 @@ HDC, а индикаторная лампа функции
 вождения.
 
 ### Переключатель системы помощи при движении по полосе
-`jetour_dashing_ru_b8d63ab1` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:185 | doc_type:owners_manual
 Через мультимедийный дисплей [Мое
 приложение]
 →
@@ -12091,19 +11038,16 @@ HDC, а индикаторная лампа функции
 вождении].
 
 ### Тип помощи для полосы движения
-`jetour_dashing_ru_634fd7ab` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 может быть установлен на отклонение
 полосы от системы предупреждения
 (LDW) или OFF.
 
 ### Чувствительность предупреждения о
-`jetour_dashing_ru_be01844c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 выходе  из  полосы  движения  можно
 OMX65-6031
 установить на высокую или низкую.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_9844a618` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:186 | doc_type:owners_manual
 169
 ВНИМАНИЕ
 • Убедитесь, что камера переднего вида свободна от препятствий.
@@ -12135,7 +11079,6 @@ OMX65-6031
 дождь, снег или туман, а высококонтрастное освещение повлияет на датчик.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_dd9b30e5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 • Водитель
 должен
 контролировать
@@ -12151,18 +11094,15 @@ OMX65-6031
 наличии)
 
 ### Автомобиль предупреждает водителя в случае бессознательного  выезда  за
-`jetour_dashing_ru_dc5f061d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 пределы полосы движения. Неосознанный выезд из полосы движения включает в
 себя как произошедший, так и приближающийся выезд из полосы движения.
 
 ### Подача сигнала тревоги водителю может уменьшить вероятность боковых
-`jetour_dashing_ru_284c5973` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 столкновений и других связанных с ними аварий.
 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
 170
 
 ### Активация системы слежения за дорожной разметкой
-`jetour_dashing_ru_1145f7c0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 При скорости автомобиля 60 км/ч и
 выше
 включается
@@ -12180,7 +11120,6 @@ OMX65-6031
 предварительного включения.
 
 ### Сигнальная индикация системы предупреждения о сходе с полосы
-`jetour_dashing_ru_8f6d7cb2` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:187 | doc_type:owners_manual
 движения
 Если система обнаруживает, что автомобиль отклоняется от линии движения, на
 мультимедийном дисплее отображается следующий сигнал:
@@ -12193,30 +11132,27 @@ OMX65-6031
 комбинация приборов управляет одновременным звуковым сигналом в течение 3
 секунд, чтобы напомнить об этом пользователю.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_fe62bb5c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
-• Линия полосы движения, зафиксированная камерой автомобиля: Он может
-распознавать белую сплошную линию, белую пунктирную линию, желтую
-сплошную линию, желтую пунктирную линию и двойную сплошную линию.
-• При движении по затопленным или грязным дорогам система иногда не
-работает.
-При
-обнаружении
-линии
-односторонней
-полосы
-движения
-стабильность сигнализации системы снижается.
-• Если датчик не может обнаружить линию полосы движения на земле, система не
-будет
-работать.
-Даже
-если
-автомобиль
-оборудован
+> ⚠️ **Внимание:** • Линия полосы движения, зафиксированная камерой автомобиля: Он может
+> распознавать белую сплошную линию, белую пунктирную линию, желтую
+> сплошную линию, желтую пунктирную линию и двойную сплошную линию.
+> • При движении по затопленным или грязным дорогам система иногда не
+> работает.
+> При
+> обнаружении
+> линии
+> односторонней
+> полосы
+> движения
+> стабильность сигнализации системы снижается.
+> • Если датчик не может обнаружить линию полосы движения на земле, система не
+> будет
+> работать.
+> Даже
+> если
+> автомобиль
+> оборудован
 
 ### LDW,
-`jetour_dashing_ru_ac72e531` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 необходимо
 соблюдать осторожность при движении.
 Ограничение функции
@@ -12232,20 +11168,17 @@ OMX65-6031
 • При движении по дорогам с крутыми поворотами.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_05c070a9` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:188 | doc_type:owners_manual
 171
 • Когда линия полосы движения слишком тонкая, прерывистая, размытая или на
 стороне отправления нет полосы движения, из-за чего камера не распознает ее.
 Система удержания полосы движения (LKA) (при наличии)
 
 ### LKA определяет линию полосы движения с помощью многофункциональной камеры
-`jetour_dashing_ru_c2b565c3` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:188 | doc_type:owners_manual
 переднего вида. Когда система обнаруживает линии полосы движения с левой и
 правой сторон, система применяет корректирующее рулевое управление, чтобы
 удержать автомобиль в середине полосы.
 
 ### Активация системы удержания полосы движения
-`jetour_dashing_ru_5855825c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 При скорости автомобиля 60 км/ч и
 выше включается система  помощи
 при поддержании полосы движения;
@@ -12254,7 +11187,6 @@ OMX65-6031
 предварительной активации.
 
 ### Индикатор системы помощи при удержании полосы движения
-`jetour_dashing_ru_03e4e19f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 Когда он предварительно активирован, серый индикатор «
 е на приборной
 панели остается включенным.
@@ -12265,13 +11197,11 @@ OMX65-6031
 е горит желтый индикатор на приборной панели.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_fed61f42` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 Если LKA неисправен, эта функция не будет работать, пожалуйста, как можно
 скорее обратитесь на авторизованный сервисный центр Jetour для проверки и
 ремонта.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_dc6b0852` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:189 | doc_type:owners_manual
 172
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 ОПАСНОСТЬ
@@ -12302,7 +11232,6 @@ OMX65-6031
 может привести к несчастным случаям.
 
 ### Ограничение функции
-`jetour_dashing_ru_265c5d7a` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:189 | doc_type:owners_manual
 ■LKA может работать неправильно в следующих условиях:
 • Вождение автомобиля при ярком солнечном свете.
 • Радиус поворотов менее 300 м.
@@ -12331,7 +11260,6 @@ OMX65-6031
 определенного периода времени.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_0bd02a12` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:190 | doc_type:owners_manual
 173
 составляет
 15
@@ -12369,7 +11297,6 @@ OMX65-6031
 чтобы он обратил внимание на безопасность движения и смену полосы движения.
 
 ### Если   рычаг   переключения   передач
-`jetour_dashing_ru_c26ac92c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 находится в положении D, а скорость
 2
 1
@@ -12378,7 +11305,6 @@ OMX65-6031
 1
 
 ### Зона обнаружения системы
-`jetour_dashing_ru_c3fa02aa` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 предупреждения   об   обнаружении
 слепых зон
 Автомобиль приближается к зоне
@@ -12403,70 +11329,58 @@ OMX65-6031
 Уровень II: на основе уровня I срабатывают указатели поворота с той же стороны.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_2a78fe68` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 174
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 слепых  зон  на  наружном  зеркале  заднего  вида  быстро  мигает,  звучит  сигнал
 тревоги, напоминая водителю, что смена полосы движения опасна.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_5a7e2922` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:191 | doc_type:owners_manual
 Система обнаружения слепых зон может быть включена/выключена с помощью
 мультимедийного дисплея.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_43f5c01d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:191 | doc_type:owners_manual
-• При скоплении большого количества снега или льда на заднем бампере и рядом
-с датчиком радара или при длительной езде по заснеженной дороге система
-BSD может не сработать.
-• При буксировке или прикреплении аксессуаров к задней части автомобиля (-
-например, устройство для перевозки велосипедов) выключите BSD система. В
-противном случае это повлияет на радиоволны радара, что приведет к
-неправильной работе системы.
-• BSD/LCA система может обнаруживать стационарные объекты на дороге или
-рядом с ней (например, ограждения, туннели, боковые стены и припаркованные
-автомобили), чтобы включить сигнальную лампу.
+> ⚠️ **Внимание:** • При скоплении большого количества снега или льда на заднем бампере и рядом
+> с датчиком радара или при длительной езде по заснеженной дороге система
+> BSD может не сработать.
+> • При буксировке или прикреплении аксессуаров к задней части автомобиля (-
+> например, устройство для перевозки велосипедов) выключите BSD система. В
+> противном случае это повлияет на радиоволны радара, что приведет к
+> неправильной работе системы.
+> • BSD/LCA система может обнаруживать стационарные объекты на дороге или
+> рядом с ней (например, ограждения, туннели, боковые стены и припаркованные
+> автомобили), чтобы включить сигнальную лампу.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_95ccc676` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 BSD система и расширенные функции просто предлагают вам помощь. Он может
 не работать правильно при любых условиях вождения, погодных условиях,
 условиях движения или дорожных условиях.
 
 ### При получении сигнала тревоги с левой стороны автомобиля на мультимедийном
-`jetour_dashing_ru_f2031a86` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:191 | doc_type:owners_manual
 дисплее отображается красная предупреждающая надпись с левой стороны
 автомобиля.
 
 ### При получении сигнала тревоги с правой стороны автомобиля на мультимедийном
-`jetour_dashing_ru_4a98fef8` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:191 | doc_type:owners_manual
 дисплее отображается красная предупреждающая надпись с правой стороны
 автомобиля.
 
 ### При получении сигнала тревоги с задней стороны автомобиля на дисплее
-`jetour_dashing_ru_bf943c0b` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:191 | doc_type:owners_manual
 мультимедийной системы отображается красная предупреждающая надпись о
 задней стороне автомобиля.
 
 ### При неисправности системы обнаружения слепых зон необходимо как можно
-`jetour_dashing_ru_f4ccb192` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 скорее обратиться на авторизованную сервисную станцию Jetour для проверки и
 ремонта.
 Система предупреждения об открытии двери (DOW)
 
 ### При парковке автомобиля и открытии двери быстро приближающиеся объекты
-`jetour_dashing_ru_e181fdfd` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 сзади слева и справа сталкиваются с автомобилем, DOW система подает сигнал
 тревоги.
 
 ### Активация
-`jetour_dashing_ru_2b23e51f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 После включения функции, когда автомобиль неподвижен или скорость движения
 менее 3 км при не переключённом в положение R рычаге переключения передач,
 система активируется.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_3084d945` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:192 | doc_type:owners_manual
 175
 Уровень I: Если в левой и правой зонах обнаружения DOW находится целевой
 автомобиль и выполняются условия тревоги, включается сигнализация уровня I,
@@ -12484,7 +11398,6 @@ BSD система и расширенные функции просто пре�
 напомнить водителю о необходимости соблюдать безопасность.
 
 ### После включения функции при переводе рычага переключения в положение R
-`jetour_dashing_ru_6f1ce1e3` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:192 | doc_type:owners_manual
 система активируется. При появлении в слепой зоне за автомобилем или на
 соседней полосе целевого транспортного средства и выполнении условий тревоги
 светодиодный индикатор на наружном зеркале заднего вида со стороны
@@ -12504,7 +11417,6 @@ BSD система и расширенные функции просто пре�
 транспортного средства сзади.
 
 ### Активация
-`jetour_dashing_ru_2d117c13` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 После включения этой функции при скорости движения автомобиля 15 км/ч или
 выше, когда рычаг переключения находится в положении D, система активируется.
 Когда к автомобилю быстро приближается следующий за ним автомобиль, мигает
@@ -12512,7 +11424,6 @@ BSD система и расширенные функции просто пре�
 автомобиль.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_12c32aec` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 176
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 5-5. Автоматическая система экстренного торможения (AEB)/
@@ -12526,7 +11437,6 @@ BSD система и расширенные функции просто пре�
 быстро, автомобиль автоматически затормозит, уменьшая потери от столкновения.
 
 ### Описание функции
-`jetour_dashing_ru_9abcb845` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 1
 2
 3
@@ -12538,13 +11448,11 @@ OMX65-6060
 столкновением.
 
 ### Перед столкновением начните
-`jetour_dashing_ru_4e7de085` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 частичное торможение.
 Перед столкновением начните
 экстренное торможение.
 
 ### Если водитель реагирует правильно
-`jetour_dashing_ru_5eecd15d` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:193 | doc_type:owners_manual
 (например, избегает столкновения,
 управляя
 рулем),
@@ -12554,7 +11462,6 @@ OMX65-6060
 отменяется.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_c283aef8` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:193 | doc_type:owners_manual
 • Включение/выключение
 AEB/FCW
 и
@@ -12567,7 +11474,6 @@ AEB/FCW
 скоростей AEB составляет 4 до 64 км/ч для пешеходов и велосипедистов.
 
 ### Меры предосторожности для автоматической системы экстренного
-`jetour_dashing_ru_ed2d4129` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 торможения
 • Водитель контролирует скорость и расстояние до впереди идущего автомобиля в
 зависимости от погодных условий, состояния дорожного покрытия, условий
@@ -12590,7 +11496,6 @@ AEB/FCW
 индикатор «       е на панели приборов продолжает гореть, как можно скорее
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_c3885ebb` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 177
 обратитесь на авторизованную станцию технического обслуживания Jetour для
 проверки и ремонта.
@@ -12606,7 +11511,6 @@ AEB/FCW
 отключить
 
 ### FCW
-`jetour_dashing_ru_23313049` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 и
 AEB
 и
@@ -12631,7 +11535,6 @@ AEB
 стеклом.
 
 ### Обратите
-`jetour_dashing_ru_609dab62` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:194 | doc_type:owners_manual
 внимание,
 что
 обзор
@@ -12647,7 +11550,6 @@ AEB
 калибровки датчиков как можно скорее.
 
 ### Вышеупомянутые
-`jetour_dashing_ru_3a52d280` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 меры
 предосторожности
 не
@@ -12666,7 +11568,6 @@ AEB
 экстренного торможения может не дать ожидаемого эффекта по другим причинам.
 
 ### Водитель всегда должен брать на себя полную ответственность за управление
-`jetour_dashing_ru_323639bf` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:194 | doc_type:owners_manual
 автомобилем в любое время.
 ВНИМАНИЕ
 • Водителю необходимо взять на себя автомобиль, потому что автомобиль не
@@ -12690,7 +11591,6 @@ AEB
 впереди.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_d7cfbc32` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:195 | doc_type:owners_manual
 178
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 ОПАСНОСТЬ
@@ -12727,7 +11627,6 @@ AEB
 управлением, ограждениями, знаками и другими  неподвижными  объектами.
 
 ### Для работы системы AEB необходимо в безопасных условиях сильно нажать на
-`jetour_dashing_ru_94b5e9ad` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 педаль акселератора.
 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
 179
@@ -12742,7 +11641,6 @@ TJA/ICA определяет линию полосы движения с пом�
 вождения или интенсивного движения.
 
 ### Активация системы
-`jetour_dashing_ru_7c80a207` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:196 | doc_type:owners_manual
 Включить/выключить
 TJA/ICA
 можно
@@ -12753,7 +11651,6 @@ TJA/ICA
 приложение] → [Управление автомобилем] → [Помощь в вождении].
 
 ### TJA используется при скорости ниже
-`jetour_dashing_ru_3b99544f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 60 км/ч: Транспортное средство будет
 находиться рядом с центром полосы
 движения.
@@ -12774,14 +11671,12 @@ TJA/ICA
 обнаружены, TJA отключается.
 
 ### ICA
-`jetour_dashing_ru_d3accb2c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 система
 используется
 при
 скорости от 60 км/ч до 150 км/ч:
 
 ### Транспортное
-`jetour_dashing_ru_7c8c7bba` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 средство
 будет
 находиться рядом с центром полосы
@@ -12794,7 +11689,6 @@ TJA/ICA
 ли впереди целевой автомобиль.
 
 ### Ограничение функции
-`jetour_dashing_ru_8d701f10` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 ■TJA/ICA может работать неправильно в следующих условиях:
 • Сигнальные огни включены.
 • Скорость автомобиля ниже 1 км/ч.
@@ -12807,7 +11701,6 @@ TJA/ICA
 • Существует любое условие выхода для ACC.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_8152ff1f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 180
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 ОПАСНОСТЬ
@@ -12824,7 +11717,6 @@ TJA/ICA
 движения или дорожных условиях.
 
 ### Меры предосторожности для системы помощи при заторе движения
-`jetour_dashing_ru_1badf5b2` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:197 | doc_type:owners_manual
 (TJA)/Интегрированная система помощи при движении (ICA)
 • Все меры предосторожности для ACC и LKA применимы и к системе.
 • На производительность этой системы влияют погода, освещенность и четкость
@@ -12840,7 +11732,6 @@ TJA/ICA
 нести полную ответственность за управление автомобилем в любое время.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_8997e4ad` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 • Водитель
 является
 основным
@@ -12870,13 +11761,11 @@ TJA/ICA
 При его активации «  е на мультимедийном дисплее горит синий индикатор
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_ecb54034` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 181
 5-7. Система контроля давления в шинах (TPMS)
 Система контроля давления в шинах (TPMS)
 
 ### Система
-`jetour_dashing_ru_7f2e19e2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 контроля
 давления
 в
@@ -12889,52 +11778,43 @@ TJA/ICA
 вождения.
 
 ### Индикация давления в шинах
-`jetour_dashing_ru_78cf1b80` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:198 | doc_type:owners_manual
 После запуска двигателя, при скорости автомобиля более 30 км/ч, после движения
 в течение не менее 4 минут на мультимедийном дисплее могут отображаться
 значения температуры и давления в четырех шинах.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_66f51afe` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 Даже если автомобиль оснащен системой TPMS, перед поездкой проверьте, в
 норме ли давление в шинах и внешний вид. Пожалуйста, обратитесь на
 авторизованную сервисную станцию  Jetour для проверки и ремонта, если это
 необходимо.
 
 ### 1. При нарушении работы системы контроля давления в шинах на комбинации
-`jetour_dashing_ru_b562d074` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 приборов отображается предупреждающий символ неисправности давления в
 шинах.
 
 ### 2. Если скорость автомобиля превышает 30 км/ч в течение 10 минут и более без
-`jetour_dashing_ru_666516f2` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:198 | doc_type:owners_manual
 обнаружения сигнала датчика давления в шинах, срабатывает сигнализация
 неисправности системы.
 
 ### 3. Если температура шины слишком низкая или слишком высокая, срабатывает
-`jetour_dashing_ru_edf59b4d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 сигнализация неисправности системы.
 Функция предупреждения о низком давлении
 При обнаружении того, что значение давления в шине ниже 192 кпа, срабатывает
 сигнализация низкого давления.
 
 ### При появлении предупреждения о низком давлении необходимо своевременно
-`jetour_dashing_ru_828448c8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 проверить и отремонтировать систему контроля давления в шинах, а также накачать
 шину более чем на 230 кпа для устранения предупреждения о низком давлении.
 
 ### Функция предупреждения о высокой температуре
-`jetour_dashing_ru_6c30c619` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 Если обнаруживается, что значение давления в шине превышает 85℃, срабатывает
 предупреждение о высокой температуре.
 
 ### При появлении предупреждения о высокой температуре необходимо своевременно
-`jetour_dashing_ru_12f19d7c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 проверить и отремонтировать систему контроля давления в шинах, охладить шину
 ниже 80℃ для устранения предупреждения о высокой температуре.
 
 ### Ограничение функции
-`jetour_dashing_ru_a777bd7e` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:198 | doc_type:owners_manual
 ■TPMS может отправить предупреждение о неисправности системы в следующих
 случаях:
 • На
@@ -12948,7 +11828,6 @@ TJA/ICA
 давления в шинах.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_82fd7cc0` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:199 | doc_type:owners_manual
 182
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 • Датчик давления в шинах или другие компоненты повреждены, обратитесь на
@@ -12964,7 +11843,6 @@ TJA/ICA
 Система наблюдения за парковкой (при наличии)
 
 ### В
-`jetour_dashing_ru_effd79be` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:199 | doc_type:owners_manual
 системе
 парковочного
 монитора
@@ -12979,34 +11857,30 @@ TJA/ICA
 автомобиля при движении вперед и назад.
 
 ### Методы использования
-`jetour_dashing_ru_7d85cbd4` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:199 | doc_type:owners_manual
 Переключите передачу в положение R, чтобы перейти к экрану системы
 видеомонитора парковки, на котором будут отображаться видеомонитор парковки
 и дорожного указания. Указатель полосы движения зависит от поворота рулевого
 колеса и используется для предварительной оценки траектории движения задним
 ходом.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_243e1f13` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
-• Используйте расстояние в качестве ориентира (например, на склоне).
-• Указатель ширины автомобиля и прогнозируемая линия шире фактической
-линии.
-• Не царапайте объектив при чистке грязи или снега с поверхности камеры.
-• Если
-шина
-заменена
-на
-шину
-другого
-размера,
-отображаемая
-линия
-прогнозирования отличается от фактической линии, пожалуйста, используйте
-зеркало заднего вида или проверьте и определите фактическое расстояние до
-других объектов.
+> ⚠️ **Внимание:** • Используйте расстояние в качестве ориентира (например, на склоне).
+> • Указатель ширины автомобиля и прогнозируемая линия шире фактической
+> линии.
+> • Не царапайте объектив при чистке грязи или снега с поверхности камеры.
+> • Если
+> шина
+> заменена
+> на
+> шину
+> другого
+> размера,
+> отображаемая
+> линия
+> прогнозирования отличается от фактической линии, пожалуйста, используйте
+> зеркало заднего вида или проверьте и определите фактическое расстояние до
+> других объектов.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_d7c122cd` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:200 | doc_type:owners_manual
 183
 ОПАСНОСТЬ
 • При движении задним ходом убедитесь, что дверь багажного отделения плотно
@@ -13042,19 +11916,16 @@ TJA/ICA
 отражать реальный объект, а также имеется слепая зона и небольшая задержка.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_a8ee28be` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 184
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 Система контроля панорамного обзора (при наличии)
 
 ### Система мониторинга панорамного обзора собирает окружающие изображения
-`jetour_dashing_ru_49cfbb0c` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:201 | doc_type:owners_manual
 автомобиля с помощью четырех камер и отображает окружающие изображения и
 указания полосы движения на мультимедийных дисплеях, чтобы помочь водителю
 безопасно и легко припарковаться.
 
 ### Впускная
-`jetour_dashing_ru_1b714e14` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:201 | doc_type:owners_manual
 решетка
 переднего
 бампера.
@@ -13063,7 +11934,6 @@ TJA/ICA
 наружного зеркала заднего вида.
 
 ### OMX65-5500
-`jetour_dashing_ru_734abb1c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 Место
 установки
 задней
@@ -13075,14 +11945,12 @@ TJA/ICA
 номерного знака.
 
 ### Методы использования
-`jetour_dashing_ru_dff31f5c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 Включите питание автомобиля, и скорость автомобиля ниже 20 км/ч:
 Способ 1: Для входа в систему панорамного обзора переместите шестерню в
 положение R; для выхода из системы панорамного обзора переместите шестерню
 из положения R.
 
 ### Способ
-`jetour_dashing_ru_21913e1e` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:201 | doc_type:owners_manual
 2:
 Для
 входа
@@ -13097,7 +11965,6 @@ TJA/ICA
 дисплея;
 
 ### Под экраном монитора с панорамным
-`jetour_dashing_ru_fe268ccc` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:201 | doc_type:owners_manual
 обзором, для выхода из системы
 монитора
 панорамного
@@ -13110,12 +11977,10 @@ TJA/ICA
 верхнем углу.
 
 ### OMX65-5520
-`jetour_dashing_ru_7d4e3189` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 Способ 3: С помощью голосовой команды «Hello, Jetour. Включите 540 panoramic
 ЦЙЕЧе для активации системы.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_0cfd5c53` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 185
 Способ 4: После получения сигнала о расстоянии до препятствия переднего
 парковочного радара, он поступает на монитор панорамного видаа (если
@@ -13131,7 +11996,6 @@ TJA/ICA
 обзора.
 
 ### Система монитора панорамного обзора обеспечивает удобство помощи при
-`jetour_dashing_ru_cdc0fbc8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 вождении, но объект на изображении не отражает реальный размер и расстояние
 до препятствия. По сравнению с реальным изображением изображение имеет
 небольшую задержку и слепое пятно. Таким образом, функция панорамного
@@ -13147,7 +12011,6 @@ TJA/ICA
 автомобилем во время включения/выключения и использования функции.
 
 ### OMX65-5540
-`jetour_dashing_ru_615694c1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 Нажмите кнопку в левом верхнем углу,
 когда рычаг переключения передач
 находится не в положении R, чтобы
@@ -13155,7 +12018,6 @@ TJA/ICA
 монитора панорамного обзора.
 
 ### Нажмите
-`jetour_dashing_ru_6754f463` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 кнопку
 «2D/3Dе
 для
@@ -13164,7 +12026,6 @@ TJA/ICA
 угол с помощью ползунка.
 
 ### Нажмите
-`jetour_dashing_ru_6754f463` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 кнопку
 «
 /
@@ -13176,7 +12037,6 @@ TJA/ICA
 широкоугольным видом сзади.
 
 ### Нажмите
-`jetour_dashing_ru_6754f463` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 кнопку
 «
 е,
@@ -13190,7 +12050,6 @@ TJA/ICA
 панорамного обзора.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_1e438b5e` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:202 | doc_type:owners_manual
 • В зависимости от конфигурации автомобиля, панорамный обзор монитора
 отображается
 по-разному.
@@ -13204,7 +12063,6 @@ TJA/ICA
 удобной площадке.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_d30e2b61` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 186
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 ВНИМАНИЕ
@@ -13243,7 +12101,6 @@ TJA/ICA
 использования функции.
 
 ### Настройка монитора панорамного вида
-`jetour_dashing_ru_c580481e` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:203 | doc_type:owners_manual
 [Активация угла поворота рулевого
 колеса] Поворот на большой угол для
 входа
@@ -13259,7 +12116,6 @@ TJA/ICA
 радара]
 
 ### Отображает
-`jetour_dashing_ru_f5a19b2b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 соответствующую     информацию     о
 OMX65-5550
 расстоянии до радара.
@@ -13267,7 +12123,6 @@ OMX65-5550
 шасси]
 
 ### Изменяет
-`jetour_dashing_ru_4f1a908c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 прозрачность модели автомобиля.
 [Восстановить
 настройки
@@ -13277,7 +12132,6 @@ OMX65-5550
 Парковочная радарная система (при наличии)
 
 ### Парковочная
-`jetour_dashing_ru_cd4d1189` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:203 | doc_type:owners_manual
 радарная
 система
 — это
@@ -13294,7 +12148,6 @@ OMX65-5550
 водителю безопасно и легко припарковаться.
 
 ### Пользователь
-`jetour_dashing_ru_11b1a7fe` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:203 | doc_type:owners_manual
 может
 включить/выключить
 парковочный
@@ -13304,7 +12157,6 @@ OMX65-5550
 мультимедийного дисплея.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_465356e1` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:204 | doc_type:owners_manual
 187
 ПРОЧИТАЙТЕ
 • Передний
@@ -13322,7 +12174,6 @@ OMX65-5550
 радиолокационная система не возобновит работу.
 
 ### Методы использования
-`jetour_dashing_ru_6154f633` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:204 | doc_type:owners_manual
 Активируйте парковочный радар, переведя питание автомобиля в режим ON и
 переключив передачу в положение R. Когда радарный датчик обнаруживает
 препятствие, на мульти информационном дисплее отображается расстояние до
@@ -13331,7 +12182,6 @@ OMX65-5550
 течение 2 секунд, при этом отображается восклицательный знак.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_602d7895` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:204 | doc_type:owners_manual
 • Расстояние мониторинга — это кратчайшее вертикальное расстояние между
 препятствием и радарным датчиком.
 • Если препятствия обнаружены несколькими радарными датчиками, расстояния
@@ -13346,22 +12196,18 @@ OMX65-5550
 на
 
 ### Много информационном
-`jetour_dashing_ru_aecb0257` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 дисплее,
 и
 система
 подает
 звуковой сигнал в соответствии с ближайшим препятствием.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_286f2670` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:204 | doc_type:owners_manual
-• Если препятствия находятся вне диапазона обнаружения, радарные датчики не
-будут подавать сигнал тревоги.
-• Во время движения автомобиля помните, что радарные датчики заднего хода на
-другой стороне могут приблизиться к другим препятствиям.
+> ⚠️ **Внимание:** • Если препятствия находятся вне диапазона обнаружения, радарные датчики не
+> будут подавать сигнал тревоги.
+> • Во время движения автомобиля помните, что радарные датчики заднего хода на
+> другой стороне могут приблизиться к другим препятствиям.
 
 ### Ограничение функции
-`jetour_dashing_ru_84c64e01` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:204 | doc_type:owners_manual
 ■Парковочный радар может работать неправильно в следующих случаях:
 • Когда автомобиль находится на крутом склоне.
 • При движении в желеобразный снег или дождь.
@@ -13382,7 +12228,6 @@ OMX65-5550
 обнаруживать препятствия.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_2c29acfa` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:205 | doc_type:owners_manual
 188
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 • Объекты, легко поглощающие ультразвуковые волны (например, мягкий снег,
@@ -13392,7 +12237,6 @@ OMX65-5550
 или другие громкие звуки, генерирующие ультразвуковые волны.
 
 ### При мытье автомобиля используйте
-`jetour_dashing_ru_23618cbb` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:205 | doc_type:owners_manual
 мягкую
 ткань
 или
@@ -13432,33 +12276,26 @@ OMX65-5550
 191
 
 ### В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
-`jetour_dashing_ru_d65e4775` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:206 | doc_type:owners_manual
 6-1. Система ЭРА-ГЛОНАСС
 Система ЭРА-ГЛОНАСС
 
-### Знак аварийной остановки
-`jetour_dashing_ru_e2520ce3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:206 | doc_type:owners_manual
 
 ### Запасные
-`jetour_dashing_ru_75aae90f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:206 | doc_type:owners_manual
 6-2. Аварийная
 оостановка
 автомобиля
 
 ### Операция по замене
-`jetour_dashing_ru_cfd0023e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:206 | doc_type:owners_manual
 Если температура
 охлаждающей
 жидкости двигателя
 
 ### Если батарея
-`jetour_dashing_ru_e4c3b923` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:206 | doc_type:owners_manual
 Если ваш автомобиль
 не может нормально
 6-3. Буксировка
 
 ### 6. В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
-`jetour_dashing_ru_e4ee0853` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:207 | doc_type:owners_manual
 6-1.  Система ЭРА-ГЛОНАСС
 Система ЭРА-ГЛОНАССС
 Российская государственная система экстренного реагирования при авариях – это
@@ -13499,7 +12336,6 @@ OMX65-5550
 ■Режим тестирования устройства
 
 ### Режим тестирования предназначен для проверки функционирования автомобильной
-`jetour_dashing_ru_9c59be46` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:207 | doc_type:owners_manual
 телекоммуникационной
 системы
 оператором
@@ -13508,7 +12344,6 @@ OMX65-5550
 –
 
 ### ГЛОНАССе.
-`jetour_dashing_ru_4212f2ef` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:207 | doc_type:owners_manual
 Для
 тестирования устройства рекомендуем обратиться к дилеру Jetour. При желании вы
 можете самостоятельно провести тестирование. Для этого необходимо:
@@ -13516,7 +12351,6 @@ OMX65-5550
 2 вариант: нажать кнопку «SOSе пять раз подряд
 
 ### В режиме тестирования индикатор состояния блока Интерфейса пользователя будет
-`jetour_dashing_ru_602b0bd6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:207 | doc_type:owners_manual
 поочередно мигать красным – желтым – зеленым цветом. Для выполнения тестирования
 требуется
 следовать
@@ -13533,7 +12367,6 @@ OMX65-5550
 192
 
 ### Нажмите
-`jetour_dashing_ru_cc043537` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:208 | doc_type:owners_manual
 переключатель
 аварийной
 сигнализации, одновременно замигают
@@ -13550,7 +12383,6 @@ OMX65-5550
 погаснут.
 
 ### В
-`jetour_dashing_ru_25987811` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:208 | doc_type:owners_manual
 случае
 поломки
 автомобиля
@@ -13567,7 +12399,6 @@ OMX65-5550
 вторичной аварии.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_2896faf9` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:208 | doc_type:owners_manual
 • Аварийная сигнализация может продолжать работать, если питание автомобиля
 переведено в режим OFF.
 • Аварийная   сигнализация   автоматически   активируется   при   срабатывании
@@ -13575,7 +12406,6 @@ OMX65-5550
 ■ Индикаторы состояния системы
 
 ### Для визуального контроля работоспособности системы используется индикатор
-`jetour_dashing_ru_f0340e4d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:208 | doc_type:owners_manual
 состояния блока интерфейса пользователя. При подаче питания на изделие, индикатор
 состояния горит красным цветом в течение пяти секунд, если изделие исправно и
 прошло самодиагностику, индикатор состояния гаснет и изделие переходит в рабочий
@@ -13584,7 +12414,6 @@ OMX65-5550
 ■ Меры безопасности
 
 ### Изделие работает от бортовой сети транспортного средства с номинальным
-`jetour_dashing_ru_286c2849` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:208 | doc_type:owners_manual
 напряжением 12 или 24В. При отключении от источника питания изделие работает за
 счёт встроенной резервной аккумуляторной батареи, срок службы которой составляет 3
 года. Замена резервной батареи производится только у авторизованных дилеров Jetour. В
@@ -13593,7 +12422,6 @@ OMX65-5550
 193
 
 ### Функция стробирования аварийного торможения
-`jetour_dashing_ru_62b6a898` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:209 | doc_type:owners_manual
 Включите стробирование аварийного торможения на мультимедийном дисплее.
 Аварийное торможение будет применено, когда скорость автомобиля превысит 50
 км/ч, а аварийная лампа будет мигать более 3 раза, чтобы напомнить транспортным
@@ -13610,7 +12438,6 @@ OMX65-5550
 комбинации приборов перестанут мигать.
 
 ### Автомобиль
-`jetour_dashing_ru_56e17d73` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:209 | doc_type:owners_manual
 оборудован
 светоотражающим
 жилетом.
@@ -13619,7 +12446,6 @@ OMX65-5550
 рекомендуется помещать в бардачке.
 
 ### В
-`jetour_dashing_ru_6c5fb4f2` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:209 | doc_type:owners_manual
 случае
 поломки
 автомобиля
@@ -13637,7 +12463,6 @@ OMX65-5550
 повторных аварий.
 
 ### Знак аварийной остановки
-`jetour_dashing_ru_c95b7561` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:209 | doc_type:owners_manual
 Знак аварийной остановки находится под ковриком багажного отделения.
 В случае поломки автомобиля или дорожно-транспортного происшествия и т. д. ,
 светоотражающие
@@ -13648,7 +12473,6 @@ OMX65-5550
 предупреждать другие автомобили, чтобы избежать вторичных аварий.
 
 ### На обычной дороге поместите знак
-`jetour_dashing_ru_e347d9b8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 аварийной остановки на расстоянии
 более 50 м позади автомобиля.
 На
@@ -13659,7 +12483,6 @@ OMX65-5550
 более 150 м позади автомобиля.
 
 ### Во время дождя или во время руления
-`jetour_dashing_ru_e74ade92` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:209 | doc_type:owners_manual
 поместите знак аварийной остановки на
 расстоянии
 более
@@ -13670,7 +12493,6 @@ OMX65-5550
 194
 
 ### Запасные инструменты
-`jetour_dashing_ru_b37702d1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:210 | doc_type:owners_manual
 1
 2
 3
@@ -13679,7 +12501,6 @@ OMX65-5550
 ковриком багажного отделения.
 
 ### OMX65-7210
-`jetour_dashing_ru_9cc5bebf` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:210 | doc_type:owners_manual
 6-2. Аварийная остановка автомобиля
 Операция по замене шин
 Если шина спустилась во время движения, постепенно снизьте скорость,
@@ -13687,7 +12508,6 @@ OMX65-5550
 автомобиль в безопасном месте вдали от проезжей части.
 
 ### 1. Подготовка перед заменой спущенной шины.
-`jetour_dashing_ru_3da0ac35` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:210 | doc_type:owners_manual
 Шаг 1: Остановить автомобиль на твердой ровной поверхности;
 Шаг 2: Нажмите стояночный тормоз и переведите рычаг переключения передач в
 положение P;
@@ -13698,26 +12518,21 @@ OMX65-5550
 на расстоянии 50 - 150 м позади автомобиля (в зависимости от фактического
 состояния).
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_a6ba74c7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:210 | doc_type:owners_manual
-Не  продолжайте  движение  со  спущенной  шиной.  Езда  даже  на  короткое
-расстояние может привести к повреждению шины, которая не подлежит ремонту.
+> ⚠️ **Внимание:** Не  продолжайте  движение  со  спущенной  шиной.  Езда  даже  на  короткое
+> расстояние может привести к повреждению шины, которая не подлежит ремонту.
 
 ### 2. Выньте запасное колесо.
-`jetour_dashing_ru_bd0f5b8f` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:210 | doc_type:owners_manual
 Шаг 1: Откройте дверь багажного отделения и поднимите коврик багажника;
 Шаг 2: Поверните колпачок против часовой стрелки, чтобы снять его, и выньте
 запасную шину.
 
 ### 3. Снимите спущенную шину.
-`jetour_dashing_ru_59a7256f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:210 | doc_type:owners_manual
 195
 6. В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
 Поврежденное
 колесо
 
 ### Положение
-`jetour_dashing_ru_38d0c855` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 противооткатного
 упора
 Переднее левое
@@ -13726,7 +12541,6 @@ OMX65-5550
 правого колеса
 
 ### Переднее правое
-`jetour_dashing_ru_d5b57f2d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 колесо
 Позади заднего
 левого колеса
@@ -13734,7 +12548,6 @@ OMX65-5550
 колесо
 
 ### Позади переднего
-`jetour_dashing_ru_c4d03ee3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 правого колеса
 Заднее правое
 колесо
@@ -13742,7 +12555,6 @@ OMX65-5550
 левого колеса
 
 ### В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
-`jetour_dashing_ru_bf8b7937` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 Шаг 1: Поместите блок под шину по
 диагонали напротив спущенной шины,
 чтобы
@@ -13751,7 +12563,6 @@ OMX65-5550
 автомобиля.
 
 ### OMX65-7220
-`jetour_dashing_ru_df2c5664` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 Шаг
 2:
 Подсоедините
@@ -13764,13 +12575,10 @@ OMX65-5550
 ослабьте каждый болт спущенной шины
 примерно на пол-оборота.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_04eeb48e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
-При откручивании колесных болтов с помощью гаечного ключа будьте осторожны,
-чтобы не уронить их, так как их можно легко повредить.
+> ⚠️ **Внимание:** При откручивании колесных болтов с помощью гаечного ключа будьте осторожны,
+> чтобы не уронить их, так как их можно легко повредить.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_1af0d8ff` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 Не выкручивайте болты полностью. В противном случае колесо может упасть изза давления автомобиля, что приведет к травме.
 Шаг 3: Установите домкрат на твердую
 и
@@ -13786,14 +12594,12 @@ OMX65-5550
 домкрата.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_65bfad43` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 • Номинальная нагрузка домкрата: 1 000 кг.
 • Поддомкратьте автомобиль на надлежащую высоту, на которой можно будет
 заменить шину.
 196
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_1c959771` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
 Никогда   не   подставляйте   какую-либо   часть   тела   под   автомобиль,   когда
 автомобиль поднят домкратом, во избежание травм.
 Шаг 4: Когда выемка домкрата коснется
@@ -13809,7 +12615,6 @@ OMX65-5550
 стрелке, чтобы поднять автомобиль.
 
 ### OMX65-7250
-`jetour_dashing_ru_b18f1363` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
 Шаг
 5:
 Снимите
@@ -13822,13 +12627,10 @@ OMX65-5550
 стрелки с помощью ключа для колесных
 болтов и снимите спущенную шину.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_757b8287` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
-Положите  спущенную  шину  на  землю  ободом  вверх,  чтобы  не  поцарапать
-поверхность обода.
+> ⚠️ **Внимание:** Положите  спущенную  шину  на  землю  ободом  вверх,  чтобы  не  поцарапать
+> поверхность обода.
 
 ### 4. Установите запасное колесо.
-`jetour_dashing_ru_f28d5ed2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
 Шаг 1: Снимите все приспособления с
 монтажной поверхности. Убедитесь, что
 ступица колеса хорошо прилегает к
@@ -13839,14 +12641,12 @@ OMX65-5550
 запасное колесо.
 
 ### Динамическая электронная система стабилизации кузова автомобиля подает
-`jetour_dashing_ru_28b9415d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:212 | doc_type:owners_manual
 аварийный сигнал после замены запасного колеса не полного размера. После
 использования шины нормального размера и проезда 1 км она автоматически
 вернется в нормальное состояние.
 197
 
 ### В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
-`jetour_dashing_ru_5fb42f84` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:213 | doc_type:owners_manual
 Шаг 2: При установке колесных болтов
 ввинчивайте их во все колесные болты
 по часовой стрелке вручную. Затем
@@ -13858,19 +12658,16 @@ OMX65-5550
 болты с помощью ключа для колесных
 болтов.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_2a611d3c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:213 | doc_type:owners_manual
-Не наносите масло или смазку на колесные болты.
-Шаг 3: Убедитесь, что все люди вокруг
-автомобиля находятся в безопасной
-зоне, вставьте коромысло домкрата в
-домкрат, а ключ для колесных болтов в
-коромысло домкрата и поверните ключ
-для колесных болтов против часовой
-стрелки, чтобы опустить автомобиль.
+> ⚠️ **Внимание:** Не наносите масло или смазку на колесные болты.
+> Шаг 3: Убедитесь, что все люди вокруг
+> автомобиля находятся в безопасной
+> зоне, вставьте коромысло домкрата в
+> домкрат, а ключ для колесных болтов в
+> коромысло домкрата и поверните ключ
+> для колесных болтов против часовой
+> стрелки, чтобы опустить автомобиль.
 
 ### OMX65-7290
-`jetour_dashing_ru_c95c3d78` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:213 | doc_type:owners_manual
 3
 5
 1
@@ -13908,7 +12705,6 @@ OMX65-7300
 198
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_62a07ef5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:214 | doc_type:owners_manual
 • Двигайтесь с указанной скоростью 60 км/ч или менее с  неполноразмерной
 запасной шиной, оно не рассчитано на высокую скорость. Несоблюдение этой
 меры предосторожности может привести к несчастному случаю, повлекшему за
@@ -13941,7 +12737,6 @@ OMX65-7300
 переключения передач, которые вызывают резкое торможение двигателем.
 
 ### Если температура охлаждающей жидкости двигателя высокая
-`jetour_dashing_ru_acad3b68` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:214 | doc_type:owners_manual
 Если во время движения температура охлаждающей жидкости двигателя высока, а
 указатель  температуры  охлаждающей  жидкости  приближается  к  зоне  H  или
 загорается  красный  индикатор  «
@@ -13949,7 +12744,6 @@ OMX65-7300
 автомобиль в безопасном месте вдали от проезжей части.
 
 ### OMX65-7080
-`jetour_dashing_ru_476d13b6` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:214 | doc_type:owners_manual
 Шаг
 1:
 Остановить
@@ -13975,33 +12769,28 @@ OMX65-7300
 199
 
 ### В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
-`jetour_dashing_ru_52c5ae5c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:215 | doc_type:owners_manual
 Шаг 6: Проверьте уровень охлаждающей жидкости, если причина не может быть
 определена, обратитесь в авторизованный сервисный центр Jetour для проверки и
 ремонта.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_ca0071f2` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:215 | doc_type:owners_manual
-• Если
-двигатель
-часто
-перегревается,
-немедленно
-обратитесь
-на
-авторизованную сервисную станцию Jetour для проверки и ремонта.
-• Если уровень охлаждающей жидкости низкий, можно временно использовать
-чистую воду, обратитесь на авторизованную станцию обслуживания Jetour для
-замены охлаждающей жидкости как можно скорее.
+> ⚠️ **Внимание:** • Если
+> двигатель
+> часто
+> перегревается,
+> немедленно
+> обратитесь
+> на
+> авторизованную сервисную станцию Jetour для проверки и ремонта.
+> • Если уровень охлаждающей жидкости низкий, можно временно использовать
+> чистую воду, обратитесь на авторизованную станцию обслуживания Jetour для
+> замены охлаждающей жидкости как можно скорее.
 
 ### Если батарея разряжена
-`jetour_dashing_ru_76ce6203` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:215 | doc_type:owners_manual
 Симптом, когда аккумулятор разряжен
 1. Стартер издает «щелчкие и не работает. Даже если он работает, сила слабая, и
 двигатель не может быть запущен.
 
 ### Быстрый старт
-`jetour_dashing_ru_9926ecc2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:215 | doc_type:owners_manual
 2
 1
 OMX65-7095
@@ -14009,7 +12798,6 @@ OMX65-7095
 и подключите соединительные кабели;
 
 ### Подсоедините один конец
-`jetour_dashing_ru_a61a270a` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:215 | doc_type:owners_manual
 положительного
 кабеля
 к
@@ -14023,7 +12811,6 @@ OMX65-7095
 аккумуляторной  батареи  аварийноспасательного автомобиля.
 
 ### Подсоедините один конец
-`jetour_dashing_ru_a61a270a` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:215 | doc_type:owners_manual
 отрицательного
 кабеля
 к
@@ -14047,27 +12834,24 @@ OMX65-7095
 кабель, а затем положительный кабель).
 200
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_07a014a9` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:216 | doc_type:owners_manual
-• Если аккумулятор часто разряжается, пожалуйста, как можно скорее обратитесь
-на авторизованную станцию технического обслуживания Jetour для проверки и
-ремонта.
-• Отрицательная клемма аккумулятора на аварийно-спасательном транспортном
-средстве не должна подключаться непосредственно к отрицательной клемме
-аккумулятора на разряженном транспортном средстве.
-• Не запускайте двигатель от внешнего источника, если вы не уверены, что
-напряжение аккумуляторной батареи для запуска от внешнего источника
-составляет 12 - 13 В.
-• При подключении и удалении соединительных кабелей следите за тем, чтобы
-они не запутались в вентиляторе, ремне и т. д.
-• Убедитесь, что соединительные кабели правильно подключены и соблюдайте
-определенное расстояние между клеммами, чтобы соединительные кабели не
-соприкасались друг с другом или с другими металлическими частями
-автомобиля.
-• Не запускайте автомобиль, толкая или тяня его.
+> ⚠️ **Внимание:** • Если аккумулятор часто разряжается, пожалуйста, как можно скорее обратитесь
+> на авторизованную станцию технического обслуживания Jetour для проверки и
+> ремонта.
+> • Отрицательная клемма аккумулятора на аварийно-спасательном транспортном
+> средстве не должна подключаться непосредственно к отрицательной клемме
+> аккумулятора на разряженном транспортном средстве.
+> • Не запускайте двигатель от внешнего источника, если вы не уверены, что
+> напряжение аккумуляторной батареи для запуска от внешнего источника
+> составляет 12 - 13 В.
+> • При подключении и удалении соединительных кабелей следите за тем, чтобы
+> они не запутались в вентиляторе, ремне и т. д.
+> • Убедитесь, что соединительные кабели правильно подключены и соблюдайте
+> определенное расстояние между клеммами, чтобы соединительные кабели не
+> соприкасались друг с другом или с другими металлическими частями
+> автомобиля.
+> • Не запускайте автомобиль, толкая или тяня его.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_bb3a32a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:216 | doc_type:owners_manual
 • Следует использовать указанные соединительные кабели.
 • Не курите, не пользуйтесь спичками, зажигалками или открытым огнем вблизи
 аккумулятора.
@@ -14076,7 +12860,6 @@ OMX65-7095
 специалисту по ремонту или на авторизованную станцию обслуживания Jetour.
 
 ### OMX70-7096
-`jetour_dashing_ru_ed3509cb` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 Шаг 1: Включите питание автомобиля в
 режим OFF;
 Шаг 2: Откройте капот;
@@ -14084,7 +12867,6 @@ OMX65-7095
 3:
 
 ### Отсоедините
-`jetour_dashing_ru_2024adef` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:216 | doc_type:owners_manual
 кабель
 отрицательной
 (-)
@@ -14093,7 +12875,6 @@ OMX65-7095
 Шаг 4:
 
 ### Снимите положительную
-`jetour_dashing_ru_2891ddb7` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:216 | doc_type:owners_manual
 (+)
 клемму аккумуляторной батареи;
 Шаг 5: Снимите аккумулятор;
@@ -14104,20 +12885,16 @@ OMX65-7095
 обнаружения Jetour для замены батареи.
 
 ### ЗАЩИТА ОКРУЖАЮЩЕЙ СРЕДЫ
-`jetour_dashing_ru_bab70ab0` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:216 | doc_type:owners_manual
 Аккумулятор содержит кислоту, которая является ядовитой и вызывает коррозию.
 Обращайтесь с ним в соответствии с местными нормами и положениями,
 касающимися защиты окружающей среды.
 201
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_c0bb227d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
-При снятии батареи соблюдайте осторожность, чтобы металлический инструмент
-не коснулся обеих клемм батареи или положительной (+) клеммы батареи и
-корпуса одновременно.
+> ⚠️ **Внимание:** При снятии батареи соблюдайте осторожность, чтобы металлический инструмент
+> не коснулся обеих клемм батареи или положительной (+) клеммы батареи и
+> корпуса одновременно.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_58abfcaf` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:217 | doc_type:owners_manual
 • Не оставляйте батарею в недоступном для детей месте.
 • Всегда надевайте перчатки и защитные очки во время работы, так как батарея
 содержит кислоту, которая является ядовитой и вызывает коррозию. Не
@@ -14128,7 +12905,6 @@ OMX65-7095
 медицинской помощью.
 
 ### Если ваш автомобиль не может нормально завестись
-`jetour_dashing_ru_94c2ec52` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:217 | doc_type:owners_manual
 Если ваш автомобиль не может нормально завестись, сначала убедитесь, что вы
 выполнили правильные процедуры запуска, и проверьте, достаточно ли топлива.
 ■Частота вращения якоря стартера слишком низкая, но автомобиль не может
@@ -14156,17 +12932,14 @@ OMX65-7095
 центр
 обслуживания Jetour для проверки и ремонта.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_c0bb227d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
-• Во избежание повреждения стартера время запуска не должно превышать 15
-секунд каждый раз.
-• Если автомобиль с трудом заводится или  часто глохнет, как  можно скорее
-обратитесь на авторизованную станцию обслуживания Jetour для проверки и
-ремонта.
-202
+> ⚠️ **Внимание:** • Во избежание повреждения стартера время запуска не должно превышать 15
+> секунд каждый раз.
+> • Если автомобиль с трудом заводится или  часто глохнет, как  можно скорее
+> обратитесь на авторизованную станцию обслуживания Jetour для проверки и
+> ремонта.
+> 202
 
 ### 6. В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
-`jetour_dashing_ru_7b42f7c3` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:218 | doc_type:owners_manual
 6-3. Буксировка
 Буксировка автомобиля
 Буксировка должна соответствовать местным законам о буксировке.
@@ -14174,7 +12947,6 @@ OMX65-7095
 переключения передач в положение N.
 
 ### Для переднеприводных
-`jetour_dashing_ru_a35f9d64` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:218 | doc_type:owners_manual
 автомобилей: Буксируйте грузовик с
 1
 2
@@ -14186,7 +12958,6 @@ OMX65-7095
 4
 
 ### OMX50-7100
-`jetour_dashing_ru_1e6d1e96` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:218 | doc_type:owners_manual
 автомобилей:
 При
 буксировке
@@ -14202,17 +12973,14 @@ OMX65-7095
 Для переднеприводных, заднеприводных и полноприводных автомобилей: При
 буксировке бортовым грузовиком надежно закрепите автомобиль.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_ca0834fe` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:218 | doc_type:owners_manual
-• Для полноприводных автомобилей рекомендуется использовать бортовой
-грузовик.
-• Используйте бортовой грузовик, если колеса или оси автомобиля повреждены.
-• Убедитесь, что между неподнятыми колесами и землей имеется достаточный
-зазор. В противном случае при буксировке будут повреждены бампер и ходовая
-часть буксируемого автомобиля.
+> ⚠️ **Внимание:** • Для полноприводных автомобилей рекомендуется использовать бортовой
+> грузовик.
+> • Используйте бортовой грузовик, если колеса или оси автомобиля повреждены.
+> • Убедитесь, что между неподнятыми колесами и землей имеется достаточный
+> зазор. В противном случае при буксировке будут повреждены бампер и ходовая
+> часть буксируемого автомобиля.
 
 ### Неправильные методы буксировки
-`jetour_dashing_ru_37c0828e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:218 | doc_type:owners_manual
 1
 2
 3
@@ -14221,7 +12989,6 @@ OMX50-7101
 стропа спереди автомобиля.
 
 ### Буксировка с помощью строповой
-`jetour_dashing_ru_c8c3ac8f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:218 | doc_type:owners_manual
 подвески
 грузовика
 сзади
@@ -14229,20 +12996,17 @@ OMX50-7101
 находятся на земле.
 
 ### Буксировка с помощью подвески
-`jetour_dashing_ru_a5116f16` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:218 | doc_type:owners_manual
 грузовика с подъемным механизмом
 сзади автомобиля, когда передние
 колеса находятся на земле.
 
 ### Не производите буксировку строповым грузовиком во избежание повреждения
-`jetour_dashing_ru_c4104ff9` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:218 | doc_type:owners_manual
 кузова.
 203
 6. В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
 В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
 
 ### Аварийная буксировка автомобиля
-`jetour_dashing_ru_d9f0c9d2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 Если в экстренной ситуации эвакуатор недоступен, ваш автомобиль можно
 временно отбуксировать с помощью буксирного троса или цепи, прикрепленной к
 проушине для аварийной буксировки. Это следует делать только на дороге с
@@ -14251,38 +13015,35 @@ OMX50-7101
 колесом и педалью тормоза, а колеса, трансмиссия, ось, система рулевого
 управления и тормозная система автомобиля должны быть в хорошем состоянии.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_6ea131e6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
-• Не выполняйте аварийную буксировку в течение длительного времени.
-• Никогда
-не
-буксируйте
-автомобиль
-тяжелее
-этого
-автомобиля,
-иначе
-автомобиль может быть поврежден.
-• Закрепите буксировочный трос, цепь или рычаг за буксировочную проушину
-автомобиля.
-• Оба водителя должны быть знакомы с процессом буксировки, иначе они не
-смогут выполнять буксировку.
-• Буксируйте автомобиль как можно прямо вперед, не буксируйте автомобиль
-сбоку, чтобы не повредить автомобиль.
-• Если двигатель не запущен, вспомогательная система не будет работать,
-поэтому торможение и рулевое управление будут более сложными, чем обычно.
-Управляйте осторожно.
-• Для буксировки моделей A/T Chery Automobile Co., Ltd настоятельно
-рекомендует вам обратиться за помощью к профессиональному специалисту по
-ремонту или на авторизованную станцию обслуживания Jetour.
-• Если буксируемое транспортное средство по-прежнему не может двигаться, то
-не следует продолжать принудительную буксировку во избежание вторичных
-повреждений транспортного средства. Chery Automobile Co., Ltd. настоятельно
-рекомендует обратиться за помощью к профессиональному специалисту по
-ремонту или в авторизованный сервисный центр Jetour.
+> ⚠️ **Внимание:** • Не выполняйте аварийную буксировку в течение длительного времени.
+> • Никогда
+> не
+> буксируйте
+> автомобиль
+> тяжелее
+> этого
+> автомобиля,
+> иначе
+> автомобиль может быть поврежден.
+> • Закрепите буксировочный трос, цепь или рычаг за буксировочную проушину
+> автомобиля.
+> • Оба водителя должны быть знакомы с процессом буксировки, иначе они не
+> смогут выполнять буксировку.
+> • Буксируйте автомобиль как можно прямо вперед, не буксируйте автомобиль
+> сбоку, чтобы не повредить автомобиль.
+> • Если двигатель не запущен, вспомогательная система не будет работать,
+> поэтому торможение и рулевое управление будут более сложными, чем обычно.
+> Управляйте осторожно.
+> • Для буксировки моделей A/T Chery Automobile Co., Ltd настоятельно
+> рекомендует вам обратиться за помощью к профессиональному специалисту по
+> ремонту или на авторизованную станцию обслуживания Jetour.
+> • Если буксируемое транспортное средство по-прежнему не может двигаться, то
+> не следует продолжать принудительную буксировку во избежание вторичных
+> повреждений транспортного средства. Chery Automobile Co., Ltd. настоятельно
+> рекомендует обратиться за помощью к профессиональному специалисту по
+> ремонту или в авторизованный сервисный центр Jetour.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_78dc4e66` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 • Во избежание нанесения телесных повреждений другим лицам, помимо
 водителя, следует держаться подальше от транспортного средства во время
 буксировки.
@@ -14293,7 +13054,6 @@ OMX50-7101
 204
 
 ### OMX65-7111
-`jetour_dashing_ru_918ca7a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:220 | doc_type:owners_manual
 Шаг 1: Выньте буксировочный крюк из
 багажника.
 Шаг 2: С помощью отвертки, кончик
@@ -14343,17 +13103,14 @@ OMX50-7101
 для колесных болтов или аналогичного
 твердосплавного стержня.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_29f844e1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
-• Используйте только указанную буксировочную проушину. В противном случае
-автомобиль может быть поврежден.
-• Во  время  буксировки  ведите  автомобиль  медленно  и  плавно.  Удар  из-за
-чрезмерного натяжения может повредить автомобиль.
-• Буксирный  трос  или  буксирная  штанга  могут  быть  установлены  только  при
-установленной буксировочной проушине.
+> ⚠️ **Внимание:** • Используйте только указанную буксировочную проушину. В противном случае
+> автомобиль может быть поврежден.
+> • Во  время  буксировки  ведите  автомобиль  медленно  и  плавно.  Удар  из-за
+> чрезмерного натяжения может повредить автомобиль.
+> • Буксирный  трос  или  буксирная  штанга  могут  быть  установлены  только  при
+> установленной буксировочной проушине.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_006a5bf8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 • Не прикрепляйте буксирный трос или цепь к элементу подвески во избежание
 повреждения автомобиля.
 • Убедитесь, что буксировочная проушина установлена надежно. В противном
@@ -14368,7 +13125,6 @@ OMX50-7101
 205
 
 ### В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
-`jetour_dashing_ru_c3f48ba7` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:221 | doc_type:owners_manual
 EF47     Electric Shift
 Actuator
 20A        (GBC)
@@ -14376,17 +13132,14 @@ EF46  Right Domain
 EF55  Brake SW&Active Sound
 
 ### 10A     DMTL&FTIV
-`jetour_dashing_ru_2254a3bd` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 25A       Controller
 EF54  Injection Nozzle
 10A       INJECTOR
 
 ### Taillight
-`jetour_dashing_ru_930058fc` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:221 | doc_type:owners_manual
 20A    Taillight Controller     EF53  Water Pump/Stepless Fan
 
 ### 5A
-`jetour_dashing_ru_4fdfce30` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:221 | doc_type:owners_manual
 EF52  Engine Sensor
 15A  ENGINE SENSOR
 EF43
@@ -14394,7 +13147,6 @@ EF43
 WIPER MTR
 
 ### Variable Oil Pump
-`jetour_dashing_ru_235104cc` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:221 | doc_type:owners_manual
 10A  Pressure Discharge Control
 Val e
 EF42
@@ -14403,14 +13155,12 @@ Inverter
 EF50       Front and Rear
 
 ### EF41     ECU&DCT
-`jetour_dashing_ru_46cba475` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 10A   &A/C Controller     EF49       IGN Coil
 15A    IGNITION COIL
 EF40  Body Domain
 (Column Lock, Washer,
 
 ### 15A
-`jetour_dashing_ru_f2911622` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 Fuel Tank Cap)
 ECU
 15A
@@ -14418,14 +13168,12 @@ EF13  Low Beam    EF15     Stepless
 Fan&Water
 
 ### Light RH
-`jetour_dashing_ru_4914a5dc` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:221 | doc_type:owners_manual
 Pump 3
 10A  RIGHT LOW BEAM   10A   PTC&EXV&EAC
 EF12
 EF14  Low Beam
 
 ### 10A   LEFT LOW BEAM
-`jetour_dashing_ru_c34a4c3f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 Fan
 6-4. Предохранители
 Блок предохранителей
@@ -14435,7 +13183,6 @@ Fan
 образом.
 
 ### Блок предохранителя в моторном отсеке
-`jetour_dashing_ru_50460508` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:221 | doc_type:owners_manual
 Шаг 1: Включите питание автомобиля в
 режим OFF;
 Шаг 2: Отсоедините отрицательный
@@ -14448,7 +13195,6 @@ Fan
 предохранитель.
 
 ### FB08 100A
-`jetour_dashing_ru_92cc9c81` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 Meter 1
 IP-Box 01
 FB07 80A
@@ -14459,7 +13205,6 @@ FB05 150A
 Generator/CDU
 
 ### ERY08
-`jetour_dashing_ru_7a11779e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 Horn
 HORN
 EF16  50A
@@ -14470,7 +13215,6 @@ ERY01
 HCU Main Relay
 
 ### EF58     HCU
-`jetour_dashing_ru_0a9a9447` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:221 | doc_type:owners_manual
 &Water
 20A    Valve 1&2&3
 EF03  ESP+EPB
@@ -14478,7 +13222,6 @@ EF03  ESP+EPB
 EF04     Brake SW
 
 ### EF18
-`jetour_dashing_ru_83c733ef` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 EF27  Vacuum
 Pump
 15A /MCU&BMS&HCU
@@ -14486,7 +13229,6 @@ EF28     Fuel
 Pump
 
 ### 15A      FUEL PUMP
-`jetour_dashing_ru_1128dad3` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:221 | doc_type:owners_manual
 EF29     Brake SW
 5A      BRAKE SW
 ERY14
@@ -14494,38 +13236,32 @@ ERY15
 ERY16
 
 ### MAIN RLY
-`jetour_dashing_ru_845420fa` | dashing | pdf_manual | tier:2 | lang:ru | layer:hvac | p:221 | doc_type:owners_manual
 10A  &A/C Controller
 EF06     Crankcase
 Ventilation
 7.5A       Heater
 
 ### 10A A/C COMPRESSOR
-`jetour_dashing_ru_b24dfdde` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 EF31  Body Domain
 15A  (System Power)
 VACUUM PUMP
 ERY03
 
 ### ERY11
-`jetour_dashing_ru_44f1e1dd` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 PUMP/WCBS     EF32  Body Domain
 25A  (Seat Heating)
 
 ### EF21      30A
-`jetour_dashing_ru_7be8415c` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:221 | doc_type:owners_manual
 EF36     Horn
 ERY17
 High Beam Light
 EF08      Electric
 
 ### Start Motor
-`jetour_dashing_ru_1af02588` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 EF33  Body Domain  15A     HORN
 (Door Lock, Rear View Mirror,
 
 ### EF09 HCU&MCU&BMS
-`jetour_dashing_ru_63e0c3a3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 &CDU&Pedestrian
 7.5A       Reminder
 START MOTOR
@@ -14533,7 +13269,6 @@ STARTER MOTOR       20A     Luggage
 Compartment)
 
 ### 5A
-`jetour_dashing_ru_4fdfce30` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:221 | doc_type:owners_manual
 EF38   Steering
 Wheel
 FUEL PUMP
@@ -14541,7 +13276,6 @@ ERY18
 A/C Compressor
 
 ### Low Beam Light
-`jetour_dashing_ru_e1ee132a` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 EF10     Right High
 Beam Light
 10A RIGHT HIGH BEAM
@@ -14551,7 +13285,6 @@ Jam Protection 1   EF35 Body Domain    15A    Heating    A/C COMPRESSOR
 25A        (Light 1)
 
 ### EF23   30A
-`jetour_dashing_ru_9edec1b9` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:221 | doc_type:owners_manual
 EF39    Start
 5A   Feedback
 ERY05
@@ -14560,7 +13293,6 @@ Beam Light
 Jam Protection 2
 
 ### EF56 25A
-`jetour_dashing_ru_82a8a346` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 Water Pump 1&2
 ERY06
 Oil Cooler Fan
@@ -14569,7 +13301,6 @@ EF25
 ERY19
 
 ### OMX65-7135
-`jetour_dashing_ru_f0ad1a4d` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:221 | doc_type:owners_manual
 206
 6. В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
 Блок предохранителей панели приборов
@@ -14581,7 +13312,6 @@ ERY19
 3:
 
 ### Снимите
-`jetour_dashing_ru_e2ca7762` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 нижний
 левый
 протектор приборной панели, чтобы
@@ -14591,7 +13321,6 @@ ERY19
 предохранитель.
 
 ### USB
-`jetour_dashing_ru_8d492d5b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:222 | doc_type:owners_manual
 RF04   Hidden Door
 Handle
 RF06 MEMORY FUSE
@@ -14599,7 +13328,6 @@ RF06 MEMORY FUSE
 RF36
 
 ### RF12 MEMORY FUSE&IPK
-`jetour_dashing_ru_86188704` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 220V Inverter
 7.5A
 7.5A  &NAVIGATION&SAS
@@ -14607,14 +13335,12 @@ AR/DVR&ETC
 RF37  &Inside Rear View Mirror
 
 ### /(CVT25)&ACM
-`jetour_dashing_ru_c3a2e697` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 RF01   Rear Wiper
 RF07   AR/DVR&ETC
 10A
 &ELECTRONIC
 
 ### 15A
-`jetour_dashing_ru_c0e7ccbf` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 Relay
 5A  &APA/AVM&ACU
 RF38
@@ -14622,20 +13348,17 @@ Reserved
 RF30    FRONT POWER
 
 ### RF24
-`jetour_dashing_ru_21790677` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:222 | doc_type:owners_manual
 4Door TFT Display
 ADASController
 RF14  Ambient Light
 RF10 Steering Wheel
 
 ### 7.5A
-`jetour_dashing_ru_b8efc722` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:222 | doc_type:owners_manual
 15A   &Wireless Charging
 10A   TBOX&GVW&CEM
 &OBD&FCM&Fragrance
 
 ### 10A
-`jetour_dashing_ru_3147fb72` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:222 | doc_type:owners_manual
 Fixed
 Combination
 Light
@@ -14647,20 +13370,17 @@ RF31
 Reserved
 
 ### /CVT25)&EPB SW
-`jetour_dashing_ru_b04b9980` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:222 | doc_type:owners_manual
 10A    &Rain Sensor&
 Front Dome Light
 RF35
 Amplifier&AVM
 
 ### RF16
-`jetour_dashing_ru_8a079b22` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 BSD&Exterior Speaker
 &Slow filling
 &VIU&FCM&SRR&TBOX
 
 ### RF39
-`jetour_dashing_ru_cf7922c2` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:222 | doc_type:owners_manual
 Seat
 RF08
 AQS
@@ -14673,14 +13393,12 @@ SUNROOF
 RF40 Steering Wheel   RF29
 
 ### RF09 HVAC&PM2.5
-`jetour_dashing_ru_3991067c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 10A   F/R Box IGN
 20A
 RF05     Wireless
 7.5A &NAVIGATION
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_20546cfd` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 • Проверьте
 предполагаемые
 предохранители
@@ -14697,16 +13415,13 @@ RF05     Wireless
 207
 
 ### B
-`jetour_dashing_ru_b0b7e8c5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 A  Хороший предохранитель.
 B  Перегоревший предохранитель.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_90545bb3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 Если предохранители перегорели, их необходимо заменить.
 
 ### OMX65-7131
-`jetour_dashing_ru_c995fdef` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 Шаг 1: Включите питание автомобиля в
 режим OFF;
 Шаг 2: Проверьте предохранители в
@@ -14716,7 +13431,6 @@ B  Перегоревший предохранитель.
 3:
 
 ### Вытащите
-`jetour_dashing_ru_90737a5d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 предполагаемый
 предохранитель с помощью съемника
 предохранителей;
@@ -14742,7 +13456,6 @@ B  Перегоревший предохранитель.
 коробки предохранителей.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_90545bb3` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:223 | doc_type:owners_manual
 Если
 запасной
 предохранитель
@@ -14763,43 +13476,36 @@ B  Перегоревший предохранитель.
 ситуации.
 208
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_47014603` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
-• Не модифицируйте предохранитель или коробку предохранителей.
-• Устанавливайте только предохранитель с таким же номиналом силы тока, что и
-используемый. Никогда не заменяйте предохранитель проводом, даже в
-качестве временной замены. В противном случае это может привести к
-серьезному повреждению электроприборов или даже пожару.
-209
+> ⚠️ **Внимание:** • Не модифицируйте предохранитель или коробку предохранителей.
+> • Устанавливайте только предохранитель с таким же номиналом силы тока, что и
+> используемый. Никогда не заменяйте предохранитель проводом, даже в
+> качестве временной замены. В противном случае это может привести к
+> серьезному повреждению электроприборов или даже пожару.
+> 209
 
 ### ТЕХНИЧЕСКОГО ОБСЛУЖИВАНИЯ
-`jetour_dashing_ru_1af2adc6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 7-1. Ремонт и
 обслуживание
 Ремонт и
 
 ### Авторизованный
-`jetour_dashing_ru_98351249` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 сервисный центр
 Jetour предоставляет
 7-2. Обычное техническое
 обслуживание
 
 ### Проверка уровня
-`jetour_dashing_ru_9cc90126` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:225 | doc_type:owners_manual
 тормозной жидкости  ...... 213
 Проверка уровня
 охлаждающей
 
 ### Запись системы
-`jetour_dashing_ru_4015e98d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 защиты безопасности  ... 230
 210
 7. ТЕХНИЧЕСКОГО ОБСЛУЖИВАНИЯ
 7-1. Ремонт и обслуживание
 
 ### Существует
-`jetour_dashing_ru_699383ff` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 два
 вида
 ремонта
@@ -14812,11 +13518,9 @@ Jetour предоставляет
 сервисной станцией Jetour.
 
 ### Для получения подробной информации о методах регулярного технического
-`jetour_dashing_ru_d2e1f3ac` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 обслуживания, осмотра и ремонта, пожалуйста, обратитесь к этому разделу;
 
 ### Регулярное техническое обслуживание может помочь вам вовремя обнаружить и
-`jetour_dashing_ru_c4d16107` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 устранить
 потенциальные
 опасности,
@@ -14832,7 +13536,6 @@ Jetour предоставляет
 Co., Ltd, иначе ваш автомобиль может быть поврежден.
 
 ### Оригинальные запасные части и материалы помогают продлить срок службы
-`jetour_dashing_ru_c1ec2b88` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 вашего транспортного средства. Обратите особое внимание: Chery Automobile Co.,
 Ltd. поставляет оригинальные запасные части на авторизованную станцию
 обслуживания Jetour, расположенную по всей стране. Для замены оригинальных
@@ -14843,7 +13546,6 @@ Ltd. Персонал профессионально и строго обуче�
 искренне предоставят вам наилучшее послепродажное обслуживание.
 
 ### ЗАЩИТА ОКРУЖАЮЩЕЙ СРЕДЫ
-`jetour_dashing_ru_db7de2e5` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:226 | doc_type:owners_manual
 Использованное моторное масло, тормозная жидкость, охлаждающая жидкость,
 жидкость
 для
@@ -14859,7 +13561,6 @@ Ltd. Персонал профессионально и строго обуче�
 7-2. Обычное техническое обслуживание
 
 ### Обязательно
-`jetour_dashing_ru_709ee321` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 следуйте
 правильным
 процедурам
@@ -14869,7 +13570,6 @@ Ltd. Персонал профессионально и строго обуче�
 самостоятельно.
 
 ### В этом разделе перечислены только простые инструкции по техническому
-`jetour_dashing_ru_68477a7b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 обслуживанию, которые могут выполняться клиентом. Тем не менее, есть  еще
 много
 элементов,
@@ -14880,17 +13580,14 @@ Ltd. Персонал профессионально и строго обуче�
 специалистами со специальными инструментами.
 211
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_3cf5bf59` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:227 | doc_type:owners_manual
-• Прежде чем закрыть капот, проверьте, не остались ли инструменты или тряпки.
-• Не управляйте автомобилем со снятым воздушным фильтром, иначе возможен
-чрезмерный износ двигателя.
-• Правильно долейте жидкость до соответствующего уровня. При попадании
-брызг жидкости на кузов автомобиля немедленно смойте их влажной тряпкой,
-не допуская повреждения окрашенной поверхности.
+> ⚠️ **Внимание:** • Прежде чем закрыть капот, проверьте, не остались ли инструменты или тряпки.
+> • Не управляйте автомобилем со снятым воздушным фильтром, иначе возможен
+> чрезмерный износ двигателя.
+> • Правильно долейте жидкость до соответствующего уровня. При попадании
+> брызг жидкости на кузов автомобиля немедленно смойте их влажной тряпкой,
+> не допуская повреждения окрашенной поверхности.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_1fa79edf` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:227 | doc_type:owners_manual
 • Если двигатель очень горячий, не открывайте крышку бачка с охлаждающей
 жидкостью, чтобы не обжечься.
 • При работающем двигателе держите руки, одежду и инструменты подальше от
@@ -14899,7 +13596,6 @@ Ltd. Персонал профессионально и строго обуче�
 может вызвать искры или открытое пламя, которые могут привести к пожару.
 
 ### • В
-`jetour_dashing_ru_ecda0544` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:227 | doc_type:owners_manual
 электронной
 системе
 зажигания
@@ -14916,7 +13612,6 @@ Ltd. Персонал профессионально и строго обуче�
 может автоматически запуститься в любой момент.
 
 ### OMX65-8110
-`jetour_dashing_ru_467dc2b8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 При
 выключенном
 и
@@ -14927,7 +13622,6 @@ Ltd. Персонал профессионально и строго обуче�
 1:
 
 ### Прогрейте
-`jetour_dashing_ru_72c137e3` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:227 | doc_type:owners_manual
 двигатель
 и
 остановите
@@ -14945,13 +13639,11 @@ Ltd. Персонал профессионально и строго обуче�
 212
 
 ### MIN
-`jetour_dashing_ru_bab79917` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:228 | doc_type:owners_manual
 Подложите тряпку под щуп, чтобы
 масло не попало на двигатель или кузов
 автомобиля.
 
 ### Не проверяйте уровень масла сразу
-`jetour_dashing_ru_17bb9413` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
 после
 прогрева
 двигателя,
@@ -14960,7 +13652,6 @@ Ltd. Персонал профессионально и строго обуче�
 нижнюю часть двигателя.
 
 ### OMX65-8112
-`jetour_dashing_ru_5f218267` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:228 | doc_type:owners_manual
 Шаг
 1:
 Поверните
@@ -14986,31 +13677,27 @@ Ltd. Персонал профессионально и строго обуче�
 по часовой стрелке, чтобы затянуть ее.
 
 ### Не выбрасывайте отработанное моторное масло и фильтр вместе с бытовыми
-`jetour_dashing_ru_694ca1e6` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:228 | doc_type:owners_manual
 отходами, в канализацию и не проливайте на землю. В противном случае это
 приведет к серьезному загрязнению окружающей среды. Пожалуйста,
 утилизируйте его в соответствии с местными правилами по защите окружающей
 среды.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_b64ab89e` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:228 | doc_type:owners_manual
-• Не переливайте масло, иначе это может привести к повреждению двигателя.
-• Только моторное масло, рекомендованное Chery Automobile Co., Ltd. может
-быть использован. В противном случае все понесенные прямые или косвенные
-убытки возлагаются на собственный риск клиента.
-• Если масло случайно пролилось на поверхность двигателя во время заправки,
-удалите пролитое масло тканью и другими инструментами, прежде чем
-закручивать крышку заливной горловины двигателя.
-• Крышку маслозаливной горловины двигателя нельзя перевернуть вверх дном
-после снятия, чтобы предотвратить ошибочную оценку, вызванную обратным
-потоком масла, и предотвратить самопроизвольное перетекание масла,
-протекающего через уплотнительное кольцо, после повторной сборки, что
-приводит к иллюзии утечки масла из маслозаливной горловины двигателя.
-крышка.
-213
+> ⚠️ **Внимание:** • Не переливайте масло, иначе это может привести к повреждению двигателя.
+> • Только моторное масло, рекомендованное Chery Automobile Co., Ltd. может
+> быть использован. В противном случае все понесенные прямые или косвенные
+> убытки возлагаются на собственный риск клиента.
+> • Если масло случайно пролилось на поверхность двигателя во время заправки,
+> удалите пролитое масло тканью и другими инструментами, прежде чем
+> закручивать крышку заливной горловины двигателя.
+> • Крышку маслозаливной горловины двигателя нельзя перевернуть вверх дном
+> после снятия, чтобы предотвратить ошибочную оценку, вызванную обратным
+> потоком масла, и предотвратить самопроизвольное перетекание масла,
+> протекающего через уплотнительное кольцо, после повторной сборки, что
+> приводит к иллюзии утечки масла из маслозаливной горловины двигателя.
+> крышка.
+> 213
 
 ### OMX65-8120
-`jetour_dashing_ru_76c13833` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:229 | doc_type:owners_manual
 Добавьте тормозную жидкость, чтобы
 уровень жидкости находился между
 маркерами MIN и MAX. Если тормозной
@@ -15029,7 +13716,6 @@ Ltd. Персонал профессионально и строго обуче�
 тормозную жидкость.
 
 ### Уровень
-`jetour_dashing_ru_2c890477` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 не
 должен быть ниже отметки MIN. Если
 индикатор не гаснет после добавления,
@@ -15039,22 +13725,19 @@ Ltd. Персонал профессионально и строго обуче�
 сервисную станцию Jetour для проверки
 и ремонта.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_c94daf9b` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:229 | doc_type:owners_manual
-• Поскольку тормозная жидкость хорошо впитывает жидкость, не оставляйте
-крышку бачка с тормозной жидкостью открытой на длительное время.
-• При попадании тормозной жидкости на окрашенную поверхность немедленно
-протрите ее чистой тканью или сухой тканью и промойте большим количеством
-чистой воды. Никогда не допускайте попадания жидкости на кожу или в глаза.
-Если это произойдет, пожалуйста, промойте пораженный участок большим
-количеством воды и немедленно обратитесь за неотложной медицинской
-помощью.
-• Можно использовать только тормозную жидкость, рекомендованную компанией
-Chery Automobile Co., Ltd. В противном случае все понесенные прямые или
-косвенные убытки возлагаются на собственный риск клиента.
+> ⚠️ **Внимание:** • Поскольку тормозная жидкость хорошо впитывает жидкость, не оставляйте
+> крышку бачка с тормозной жидкостью открытой на длительное время.
+> • При попадании тормозной жидкости на окрашенную поверхность немедленно
+> протрите ее чистой тканью или сухой тканью и промойте большим количеством
+> чистой воды. Никогда не допускайте попадания жидкости на кожу или в глаза.
+> Если это произойдет, пожалуйста, промойте пораженный участок большим
+> количеством воды и немедленно обратитесь за неотложной медицинской
+> помощью.
+> • Можно использовать только тормозную жидкость, рекомендованную компанией
+> Chery Automobile Co., Ltd. В противном случае все понесенные прямые или
+> косвенные убытки возлагаются на собственный риск клиента.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_183b5d34` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:229 | doc_type:owners_manual
 • Использованная
 или
 неподходящая
@@ -15079,7 +13762,6 @@ Chery Automobile Co., Ltd. В противном случае все понес�
 замене.
 
 ### В
-`jetour_dashing_ru_e493d367` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:229 | doc_type:owners_manual
 противном
 случае,
 при
@@ -15093,7 +13775,6 @@ Chery Automobile Co., Ltd. В противном случае все понес�
 214
 
 ### Проверка охлаждающей жидкости
-`jetour_dashing_ru_9edcc91d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:230 | doc_type:owners_manual
 При
 холодном
 двигателе
@@ -15104,7 +13785,6 @@ Chery Automobile Co., Ltd. В противном случае все понес�
 находиться между отметками MIN и
 
 ### MAX.
-`jetour_dashing_ru_c3fc5906` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:230 | doc_type:owners_manual
 Если
 уровень
 находится
@@ -15117,13 +13797,11 @@ MIN
 охлаждающую жидкость.
 
 ### Добавление охлаждающей жидкости
-`jetour_dashing_ru_ee407495` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:230 | doc_type:owners_manual
 Шаг 1: Когда двигатель холодный  крышку  бачка с охлаждающей  жидкостью  и
 долейте охлаждающую жидкость до отметки MAX.
 Шаг 2: Запустите двигатель и дайте ему прогреться до нормальной температуры.
 
 ### Постоянно следите за уровнем охлаждающей жидкости в бачке охлаждающей
-`jetour_dashing_ru_d11f0f48` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:230 | doc_type:owners_manual
 жидкости. Если уровень падает ниже отметки «MINе, долейте охлаждающую
 жидкость до соответствующего уровня, пока уровень охлаждающей жидкости не
 упадет дальше.
@@ -15132,47 +13810,40 @@ MIN
 операции, пока уровень не станет нормальным.
 Шаг 4: Установите на место крышку бачка охлаждающей жидкости.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_e4dcddf8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:230 | doc_type:owners_manual
-• Если прольется охлаждающая жидкость, не забудьте промыть ее водой, чтобы
-предотвратить повреждения частей или поверхности краски.
-• Если уровень охлаждающей жидкости падает вскоре после добавления
-охлаждающей жидкости, проверьте радиатор, водяной шланг, водяной насос и
-т. д. на наличие утечек. Если утечки не обнаружено, обратитесь в
-авторизованный сервисный центр Jetour для проверки и ремонта.
-• Можно
-использовать
-только
-охлаждающую
-жидкость,
-рекомендованную
-компанией Chery Automobile Co., Ltd. В противном случае все понесенные
-прямые или косвенные убытки возлагаются на собственный риск клиента.
+> ⚠️ **Внимание:** • Если прольется охлаждающая жидкость, не забудьте промыть ее водой, чтобы
+> предотвратить повреждения частей или поверхности краски.
+> • Если уровень охлаждающей жидкости падает вскоре после добавления
+> охлаждающей жидкости, проверьте радиатор, водяной шланг, водяной насос и
+> т. д. на наличие утечек. Если утечки не обнаружено, обратитесь в
+> авторизованный сервисный центр Jetour для проверки и ремонта.
+> • Можно
+> использовать
+> только
+> охлаждающую
+> жидкость,
+> рекомендованную
+> компанией Chery Automobile Co., Ltd. В противном случае все понесенные
+> прямые или косвенные убытки возлагаются на собственный риск клиента.
 
 ### Не снимайте крышку бачка охлаждающей жидкости двигателя или крышку
-`jetour_dashing_ru_908b92a8` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:230 | doc_type:owners_manual
 радиатора, когда двигатель горячий. В системе охлаждения может быть давление.
 При снятии крышки может произойти выброс горячей охлаждающей жидкости, что
 может привести к серьезным травмам, таким как ожоги.
 
 ### Проверка омывателя ветрового стекла
-`jetour_dashing_ru_24fe1643` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:230 | doc_type:owners_manual
 Если омыватель ветрового стекла не работает, возможно, бачок омывающей
 жидкости пуст. Откройте крышку бачка омывающей жидкости и долейте
 омывающую жидкость.
 215
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_e26a0c95` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:231 | doc_type:owners_manual
-• Не используйте мыльную воду или антифриз для двигателя вместо омывающей
-жидкости, иначе можно повредить лакокрасочное покрытие.
-• Нельзя смешивать воду с омывающей жидкостью. Вода легко замерзает  и
-может повредить компоненты системы мойки. Использование неспециальной
-омывающей жидкости также может привести к повреждению компонентов
-системы  омывания.
+> ⚠️ **Внимание:** • Не используйте мыльную воду или антифриз для двигателя вместо омывающей
+> жидкости, иначе можно повредить лакокрасочное покрытие.
+> • Нельзя смешивать воду с омывающей жидкостью. Вода легко замерзает  и
+> может повредить компоненты системы мойки. Использование неспециальной
+> омывающей жидкости также может привести к повреждению компонентов
+> системы  омывания.
 
 ### После поездки в течение определенного периода времени проверьте радиатор и
-`jetour_dashing_ru_508846b2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:231 | doc_type:owners_manual
 конденсатор и удалите все посторонние предметы.
 Конденсатор: При выключенном и остывшем двигателе очистите конденсатор,
 продувая сжатым воздухом сзади вперед через радиатор.
@@ -15182,29 +13853,25 @@ MIN
 должно превышать 150 кПа. В противном случае, ребра радиатора могут быть
 повреждены.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_e26a0c95` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:231 | doc_type:owners_manual
-• Не прикасайтесь к радиатору или конденсатору, когда двигатель горячий,
-потому что они очень горячие и могут привести к серьезным травмам, таким как
-ожоги.
-• Материал ребер радиатора обладает хорошей теплопроводностью, что
-используется для охлаждения охлаждающей жидкости; Не чистите ребер, иначе
-это может привести к повреждению ребер, что повлияет на охлаждающий
-эффект.
-Проверка аккумулятора 12 B
-Проверьте и убедитесь, что клеммы аккумуляторной батареи не подвержены
-коррозии и что нет ослабленных соединений, внешних трещин или ослабленных
-зажимов.
+> ⚠️ **Внимание:** • Не прикасайтесь к радиатору или конденсатору, когда двигатель горячий,
+> потому что они очень горячие и могут привести к серьезным травмам, таким как
+> ожоги.
+> • Материал ребер радиатора обладает хорошей теплопроводностью, что
+> используется для охлаждения охлаждающей жидкости; Не чистите ребер, иначе
+> это может привести к повреждению ребер, что повлияет на охлаждающий
+> эффект.
+> Проверка аккумулятора 12 B
+> Проверьте и убедитесь, что клеммы аккумуляторной батареи не подвержены
+> коррозии и что нет ослабленных соединений, внешних трещин или ослабленных
+> зажимов.
 
 ### Приводной ремень будет растягиваться после использования определенного
-`jetour_dashing_ru_e94a9d06` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:231 | doc_type:owners_manual
 периода времени, а натяжение ремня будет недостаточным, что может привести к
 повреждению автомобиля, поэтому необходимо регулярно проверять натяжение
 ремня.
 216
 
 ### 7. ТЕХНИЧЕСКОГО ОБСЛУЖИВАНИЯ
-`jetour_dashing_ru_4f7630f3` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:232 | doc_type:owners_manual
 Шаг 1: Включите питание автомобиля в
 режим OFF;
 Шаг  2:  Покрутите  ремень  пальцами,
@@ -15215,7 +13882,6 @@ MIN
 ремонта.
 
 ### Проверьте протектор шины по следу
-`jetour_dashing_ru_e9d9da82` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:232 | doc_type:owners_manual
 износа.
 Когда
 износ
@@ -15232,12 +13898,10 @@ MIN
 необходима ее замена.
 
 ### ЗАЩИТА ОКРУЖАЮЩЕЙ СРЕДЫ
-`jetour_dashing_ru_ac00501f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:232 | doc_type:owners_manual
 Всегда   осторожно   выбрасывайте   использованную   шину.   С   ним   следует
 обращаться в соответствии с местными правилами по защите окружающей среды.
 
 ### Слишком
-`jetour_dashing_ru_05bcf6d8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:232 | doc_type:owners_manual
 низкое давление
 воздуха в шине
 Слишком высокое
@@ -15245,7 +13909,6 @@ MIN
 воздуха в шине
 
 ### Правильное
-`jetour_dashing_ru_7c8e4905` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:232 | doc_type:owners_manual
 давление воздуха
 в шине
 Неправильное
@@ -15264,21 +13927,18 @@ MIN
 автомобиля.
 
 ### Поэтому
-`jetour_dashing_ru_cb7c7c7e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:232 | doc_type:owners_manual
 вам
 следует
 управлять автомобилем с надлежащим
 Износ боковой
 
 ### Износ центральной   Равномерный износ
-`jetour_dashing_ru_72865707` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:232 | doc_type:owners_manual
 давлением   в   шинах   (положения   о
 части протектора
 части протектора
 протектора
 
 ### OMX65-8051
-`jetour_dashing_ru_2b4e5f2a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:232 | doc_type:owners_manual
 давлении  в  шинах  см.  на  табличке
 давления в шинах на средней стойке со
 стороны водителя). Когда давление в
@@ -15307,7 +13967,6 @@ MIN
 217
 
 ### ТЕХНИЧЕСКОГО ОБСЛУЖИВАНИЯ
-`jetour_dashing_ru_046eb5ff` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:233 | doc_type:owners_manual
 • Не используйте шины, если вы не знаете, как они использовались ранее.
 • Не смешивайте шины разных производителей, разных моделей или рисунков
 протектора.
@@ -15327,40 +13986,37 @@ MIN
 • Возможность разрыва из-за перегрева шин.
 • Большая вероятность повреждения шин из-за плохих дорожных условий.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_dffb5491` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:233 | doc_type:owners_manual
-• Это нормально, что давление в шинах увеличивается после движения в течение
-определенного периода времени.
-• Если шину необходимо часто накачивать, как можно скорее обратитесь на
-авторизованную станцию обслуживания Jetour для проверки и ремонта.
-• Если
-шина
-часто
-спускается
-или
-не
-может
-быть
-должным
-образом
-отремонтирована из-за пореза или других повреждений, ее следует заменить.
-• Используйте манометр для проверки давления в холодных шинах. Визуальный
-осмотр шины может привести к неточной оценке давления в шине.
-• Если во время движения произошла утечка воздуха, не продолжайте движение.
-Езда даже на короткое расстояние может привести к повреждению шины,
-которая не подлежит ремонту.
-• Обязательно правильно установите колпачки вентилей шин. В противном случае
-грязь может попасть в сердечник клапана и вызвать его засорение. Если
-колпачки утеряны, как можно скорее установите новые.
-• Убедитесь, что давление в шинах находится в пределах указанного диапазона,
-прежде чем двигаться с большой нагрузкой и на высокой скорости.
-Недостаточное давление в шинах снизит устойчивость торможения, повысит
-сопротивление качению и ускорит износ шин,  что с большой вероятностью
-может привести к дорожно-транспортным происшествиям.
-218
+> ⚠️ **Внимание:** • Это нормально, что давление в шинах увеличивается после движения в течение
+> определенного периода времени.
+> • Если шину необходимо часто накачивать, как можно скорее обратитесь на
+> авторизованную станцию обслуживания Jetour для проверки и ремонта.
+> • Если
+> шина
+> часто
+> спускается
+> или
+> не
+> может
+> быть
+> должным
+> образом
+> отремонтирована из-за пореза или других повреждений, ее следует заменить.
+> • Используйте манометр для проверки давления в холодных шинах. Визуальный
+> осмотр шины может привести к неточной оценке давления в шине.
+> • Если во время движения произошла утечка воздуха, не продолжайте движение.
+> Езда даже на короткое расстояние может привести к повреждению шины,
+> которая не подлежит ремонту.
+> • Обязательно правильно установите колпачки вентилей шин. В противном случае
+> грязь может попасть в сердечник клапана и вызвать его засорение. Если
+> колпачки утеряны, как можно скорее установите новые.
+> • Убедитесь, что давление в шинах находится в пределах указанного диапазона,
+> прежде чем двигаться с большой нагрузкой и на высокой скорости.
+> Недостаточное давление в шинах снизит устойчивость торможения, повысит
+> сопротивление качению и ускорит износ шин,  что с большой вероятностью
+> может привести к дорожно-транспортным происшествиям.
+> 218
 
 ### Направление
-`jetour_dashing_ru_dee3eb67` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:234 | doc_type:owners_manual
 движения вперед
 Для
 выравнивания
@@ -15386,7 +14042,6 @@ MIN
 покрытия.
 
 ### Замена
-`jetour_dashing_ru_ec0e4bec` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:234 | doc_type:owners_manual
 шин
 должна
 выполняться
@@ -15396,7 +14051,6 @@ MIN
 авторизованный сервисный центр Jetour.
 
 ### Фильтр кондиционера может предотвратить попадание внешней пыли в автомобиль
-`jetour_dashing_ru_d1f10f90` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:234 | doc_type:owners_manual
 через
 выпускные
 отверстия
@@ -15411,7 +14065,6 @@ MIN
 снижается, проверьте фильтр и при необходимости замените его.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_1b0ec207` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:234 | doc_type:owners_manual
 • Осмотр/замена фильтра кондиционера должны выполняться профессионалами,
 обращайтесь в авторизованный сервисный центр Jetour.
 • Использование
@@ -15426,36 +14079,32 @@ MIN
 кондиционирования воздуха.
 
 ### Проверка щеток стеклоочистителя
-`jetour_dashing_ru_060fa154` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:234 | doc_type:owners_manual
 Проверьте шероховатость щетки стеклоочистителя, проведя пальцем по ее краю.
 Если она слишком грубая, щетка стеклоочистителя не будет работать эффективно.
 219
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_3607459a` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:235 | doc_type:owners_manual
-• Не используйте щетки стеклоочистителя для удаления инея или льда с
-ветрового стекла.
-• Если на лобовом стекле есть сколы от гравия, срочно ремонтируйте.
-• Зимой перед использованием убедитесь, что стеклоочистители не примерзли к
-стеклу, чтобы избежать повреждения щеток стеклоочистителя.
-• Масло, силикон и топливо могут привести к неправильной работе щеток
-стеклоочистителя, поэтому рекомендуется очищать щетки стеклоочистителя
-омывающей жидкостью.
-• Когда лезвия подняты для обслуживания, положение центрального разъема
-лезвий должно быть правильно подобрано, для некоторых моделей требуется
-войти
-в
-режим
-обслуживания
-(подробности
-см.
-в
-разделе
-«Система
-стеклоочистителейе).
+> ⚠️ **Внимание:** • Не используйте щетки стеклоочистителя для удаления инея или льда с
+> ветрового стекла.
+> • Если на лобовом стекле есть сколы от гравия, срочно ремонтируйте.
+> • Зимой перед использованием убедитесь, что стеклоочистители не примерзли к
+> стеклу, чтобы избежать повреждения щеток стеклоочистителя.
+> • Масло, силикон и топливо могут привести к неправильной работе щеток
+> стеклоочистителя, поэтому рекомендуется очищать щетки стеклоочистителя
+> омывающей жидкостью.
+> • Когда лезвия подняты для обслуживания, положение центрального разъема
+> лезвий должно быть правильно подобрано, для некоторых моделей требуется
+> войти
+> в
+> режим
+> обслуживания
+> (подробности
+> см.
+> в
+> разделе
+> «Система
+> стеклоочистителейе).
 
 ### Обслуживание щеток стеклоочистителя
-`jetour_dashing_ru_c92cc3af` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:235 | doc_type:owners_manual
 1 . Не используйте струю воду под высоким давлением для непосредственного
 мытья щеток стеклоочистителей во время мойки автомобиля, так как это может
 привести к деформации щеток стеклоочистителей.
@@ -15487,14 +14136,12 @@ MIN
 220
 
 ### 1. Не поворачивайте рычаг стеклоочистителя вручную, иначе можно повредить
-`jetour_dashing_ru_e4142644` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:236 | doc_type:owners_manual
 стеклоочиститель.
 2. При наличии снега, листьев, веток и других объектов их следует очистить перед
 включением стеклоочистителя.
 3.
 
 ### Следует
-`jetour_dashing_ru_c3a3bb6e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:236 | doc_type:owners_manual
 своевременно
 добавлять
 омывающую
@@ -15504,7 +14151,6 @@ MIN
 руководстве, а не водопроводную воду.
 
 ### 4. В холодную погоду перед использованием всегда проверяйте, не примерзли ли
-`jetour_dashing_ru_d02f92cc` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:236 | doc_type:owners_manual
 щетки стеклоочистителей к ветровому стеклу. Если они замерзли на лобовом
 стекле,
 всегда
@@ -15514,18 +14160,15 @@ MIN
 использованием.
 
 ### Обогрев
-`jetour_dashing_ru_320eb84e` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:236 | doc_type:owners_manual
 осуществляется с помощью кондиционера и вентиляции. Не лейте горячую воду
 прямо на щетки, иначе может разбиться ветровое стекло или деформироваться
 щетки стеклоочистителей.
 221
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_8df32e94` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:237 | doc_type:owners_manual
 • Частота плановых осмотров и сервисного обслуживания в таблице минимальна.
 
 ### Однако может возникнуть необходимость в их более частом выполнении в
-`jetour_dashing_ru_18daa3fa` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:237 | doc_type:owners_manual
 зависимости
 от
 дорожных
@@ -15554,70 +14197,65 @@ MIN
 требованиями к техническому обслуживанию вашего автомобиля.
 222
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_d1da9dee` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:238 | doc_type:owners_manual
-• Моторное масло и масляный фильтр следует заменять чаще, если автомобиль
-эксплуатируется в тяжелых условиях, указанных в следующих примерах*.
-• Его следует проверять каждые 5000 км или 6 месяцев (в зависимости от того,
-что наступит раньше), если автомобиль эксплуатируется в тяжелых условиях,
-упомянутых в следующих примерах*.
-• Смазку следует заменять каждые 5000 км или 6 месяцев (в зависимости от того,
-что наступит раньше), если автомобиль ездит в следующих зонах.
-–
-Помещения с повышенной влажностью.
-–
-Горные районы.
-–
-Чрезвычайно холодные и жаркие районы.
-–
-Двигаться по неровным дорогам (ухабистым дорогам, дорогам с гравием,
-снегом и т. д.) в течение длительного времени.
-–
-Двигаться  по  горным  дорогам,  в  гору/под  гору  в  течение  длительного
-времени.
-–
-Часто водите автомобиль на короткие расстояния.
-–
-Во многих случаях ездите по дорогам с высокой температурой (выше 32℃) и
-интенсивным движением по городским дорогам.
-–
-При использовании в качестве полицейской машины, такси, коммерческого
-автомобиля, прицепа и т. д.
-• Воздушный фильтр и фильтр кондиционера следует заменять чаще, если
-автомобиль эксплуатируется в тяжелых условиях, указанных в следующих
-примерах*.
-* Примеры тяжелых условий вождения:
-• Ездить в очень холодную и жаркую погоду (только для моторного масла, уровня
-моторного масла, системы рулевого управления и подвески).
-• Часто ездите на автомобиле на короткие расстояния (только для моторного
-масла, уровня моторного масла, тормозных колодок и дисков/пыльников
-переднего и заднего моста и шарнирных частей полуоси, тормозных накладок и
-барабанов).
-• Езда по пыльным дорогам (только для элемента воздушного фильтра, колодок и
-дисков дискового тормоза / пыльников переднего и заднего моста и шарнирных
-частей полуоси, тормозных накладок и барабанов, элемента воздушного
-фильтра для системы климат-контроля).
-• Езда по неровным и/или грязным дорогам (только для колодок и дисков
-дисковых тормозов / пыльники переднего и заднего моста и шарниры полуосей,
-тормозные накладки и барабаны, элемент воздушного фильтра для системы
-климат-контроля).
-• Ездить по участкам, где используется дорожная соль или другие коррозионноактивные материалы (только для топливной системы, трубопроводов и
-соединений, колодок и дисков дисковых тормозов/пыльников передней и
-задней оси и шарнирных частей полуоси, тормозных колодок и барабанов,
-осмотрите тормозные магистрали и проверьте работу стояночной и рабочей
-тормозной системы, системы рулевого управления и подвески).
-223
+> ⚠️ **Внимание:** • Моторное масло и масляный фильтр следует заменять чаще, если автомобиль
+> эксплуатируется в тяжелых условиях, указанных в следующих примерах*.
+> • Его следует проверять каждые 5000 км или 6 месяцев (в зависимости от того,
+> что наступит раньше), если автомобиль эксплуатируется в тяжелых условиях,
+> упомянутых в следующих примерах*.
+> • Смазку следует заменять каждые 5000 км или 6 месяцев (в зависимости от того,
+> что наступит раньше), если автомобиль ездит в следующих зонах.
+> –
+> Помещения с повышенной влажностью.
+> –
+> Горные районы.
+> –
+> Чрезвычайно холодные и жаркие районы.
+> –
+> Двигаться по неровным дорогам (ухабистым дорогам, дорогам с гравием,
+> снегом и т. д.) в течение длительного времени.
+> –
+> Двигаться  по  горным  дорогам,  в  гору/под  гору  в  течение  длительного
+> времени.
+> –
+> Часто водите автомобиль на короткие расстояния.
+> –
+> Во многих случаях ездите по дорогам с высокой температурой (выше 32℃) и
+> интенсивным движением по городским дорогам.
+> –
+> При использовании в качестве полицейской машины, такси, коммерческого
+> автомобиля, прицепа и т. д.
+> • Воздушный фильтр и фильтр кондиционера следует заменять чаще, если
+> автомобиль эксплуатируется в тяжелых условиях, указанных в следующих
+> примерах*.
+> * Примеры тяжелых условий вождения:
+> • Ездить в очень холодную и жаркую погоду (только для моторного масла, уровня
+> моторного масла, системы рулевого управления и подвески).
+> • Часто ездите на автомобиле на короткие расстояния (только для моторного
+> масла, уровня моторного масла, тормозных колодок и дисков/пыльников
+> переднего и заднего моста и шарнирных частей полуоси, тормозных накладок и
+> барабанов).
+> • Езда по пыльным дорогам (только для элемента воздушного фильтра, колодок и
+> дисков дискового тормоза / пыльников переднего и заднего моста и шарнирных
+> частей полуоси, тормозных накладок и барабанов, элемента воздушного
+> фильтра для системы климат-контроля).
+> • Езда по неровным и/или грязным дорогам (только для колодок и дисков
+> дисковых тормозов / пыльники переднего и заднего моста и шарниры полуосей,
+> тормозные накладки и барабаны, элемент воздушного фильтра для системы
+> климат-контроля).
+> • Ездить по участкам, где используется дорожная соль или другие коррозионноактивные материалы (только для топливной системы, трубопроводов и
+> соединений, колодок и дисков дисковых тормозов/пыльников передней и
+> задней оси и шарнирных частей полуоси, тормозных колодок и барабанов,
+> осмотрите тормозные магистрали и проверьте работу стояночной и рабочей
+> тормозной системы, системы рулевого управления и подвески).
+> 223
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_302799d8` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:239 | doc_type:owners_manual
-• В прибрежных зонах (только для топливной системы, трубопроводов и
-соединений, колодок и дисков дисковых тормозов / пыльников переднего и
-заднего мостов и шарнирных частей полуосей, тормозных накладок и
-барабанов, осмотрите тормозные магистрали и проверьте работу стояночной и
-рабочей тормозной системы, рулевого управления и подвесная система).
+> ⚠️ **Внимание:** • В прибрежных зонах (только для топливной системы, трубопроводов и
+> соединений, колодок и дисков дисковых тормозов / пыльников переднего и
+> заднего мостов и шарнирных частей полуосей, тормозных накладок и
+> барабанов, осмотрите тормозные магистрали и проверьте работу стояночной и
+> рабочей тормозной системы, рулевого управления и подвесная система).
 
 ### Запись системы защиты безопасности
-`jetour_dashing_ru_c71a83b6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:239 | doc_type:owners_manual
 Если ваш автомобиль оснащен системой подушек безопасности, ее необходимо
 заменить через 10 лет с даты покупки автомобиля. Система должна быть заменена
 авторизованным сервисным центром Jetour.
@@ -15637,31 +14275,26 @@ MIN
 233
 
 ### СПЕЦИФИКАЦИЯ
-`jetour_dashing_ru_ac383f71` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:241 | doc_type:owners_manual
 8-1. Расположение VIN
 Идентификационный
 номер автомобиля
 
 ### Паспортная табличка
-`jetour_dashing_ru_1d348989` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:241 | doc_type:owners_manual
 Номер двигателя  ............. 235
 
 ### Окно для приема RF
-`jetour_dashing_ru_770b90b4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:241 | doc_type:owners_manual
 8-2. Технические
 характеристики
 автомобиля
 Размеры  автомобиля  ..... 236
 
 ### Диапазон измерения
-`jetour_dashing_ru_48caf3bc` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:241 | doc_type:owners_manual
 габаритных размеров
 автомобиля без учета
 следующих
 234
 
 ### 8. СПЕЦИФИКАЦИЯ
-`jetour_dashing_ru_b90b9144` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:242 | doc_type:owners_manual
 8-1. Расположение VIN
 Идентификационный номер автомобиля (VIN)
 Идентификационный номер автомобиля (VIN)
@@ -15670,19 +14303,16 @@ MIN
 3
 
 ### Идентификационный номер
-`jetour_dashing_ru_93bc3e80` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:242 | doc_type:owners_manual
 автомобиля (VIN) выгравирован в
 моторном отсеке справа  на
 передней панели.*
 
 ### Идентификационный номер
-`jetour_dashing_ru_93bc3e80` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:242 | doc_type:owners_manual
 автомобиля расположена на
 переднем торце внутренней панели
 капота.
 
 ### Идентификационный номер
-`jetour_dashing_ru_93bc3e80` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:242 | doc_type:owners_manual
 автомобиля  расположен  в  верхнем
 левом  углу  приборной  панели  со
 стороны водителя и виден снаружи
@@ -15690,7 +14320,6 @@ MIN
 *На автомобилях производства ООО
 
 ### Место нанесения и расположение
-`jetour_dashing_ru_6043d2af` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:242 | doc_type:owners_manual
 VIN номера:
 -На полу под правым передним
 сидением.
@@ -15699,7 +14328,6 @@ VIN номера:
 стойке кузова.
 
 ### Этикетка
-`jetour_dashing_ru_52428786` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:242 | doc_type:owners_manual
 с
 идентификационным
 номером автомобиля расположен на двери
@@ -15708,13 +14336,10 @@ VIN номера:
 как показано на
 рисунке.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_d1a890a4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:242 | doc_type:owners_manual
-Не закрывайте, не красьте, не сваривайте, не режьте, не сверлите и не удаляйте
-идентификационный номер автомобиля и области вокруг него.
+> ⚠️ **Внимание:** Не закрывайте, не красьте, не сваривайте, не режьте, не сверлите и не удаляйте
+> идентификационный номер автомобиля и области вокруг него.
 
 ### Как показано
-`jetour_dashing_ru_07385364` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:242 | doc_type:owners_manual
 на
 рисунке,
 именная
@@ -15722,7 +14347,6 @@ VIN номера:
 на правой четверти внешней панели.
 
 ### Модель
-`jetour_dashing_ru_1cfc2d6e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:242 | doc_type:owners_manual
 транспортного
 средства
 и
@@ -15734,7 +14358,6 @@ VIN номера:
 заводской табличке производителя.
 
 ### OMX65-2020
-`jetour_dashing_ru_e288f19d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:242 | doc_type:owners_manual
 235
 8. СПЕЦИФИКАЦИЯ
 OMT18-8050
@@ -15742,7 +14365,6 @@ OMT18-8050
 СПЕЦИФИКАЦИЯ
 
 ### Номер   двигателя   указан   на   блоке
-`jetour_dashing_ru_39f9ff45` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:243 | doc_type:owners_manual
 цилиндров.
 SQRF4J16 *XXXXXXX
 OMX65-2030
@@ -15752,7 +14374,6 @@ OMX65-2030
 приема
 
 ### RF
-`jetour_dashing_ru_7920a2f7` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:243 | doc_type:owners_manual
 сигнала
 расположено с
 внутренней стороны
@@ -15766,13 +14387,11 @@ OMX65-2030
 автомобиля.
 
 ### OMX65-2040
-`jetour_dashing_ru_f9a15497` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:243 | doc_type:owners_manual
 236
 8. СПЕЦИФИКАЦИЯ
 8-2. Технические характеристики автомобиля
 
 ### Передний
-`jetour_dashing_ru_8cbe5798` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:244 | doc_type:owners_manual
 свес
 Колесная база
 Задний
@@ -15780,7 +14399,6 @@ OMX65-2030
 Колея передних колес
 
 ### Ширина
-`jetour_dashing_ru_5a1e3019` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:244 | doc_type:owners_manual
 Длина
 Колея задних колес
 OMX65-2050
@@ -15807,7 +14425,6 @@ OMX65-2050
 237
 
 ### Производительность автомобиля
-`jetour_dashing_ru_eb4d7ddf` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:245 | doc_type:owners_manual
 Модификация а/м
 1.6T+7DCT
 1.5T+ 6DCT
@@ -15852,18 +14469,15 @@ OMX65-2050
 238
 
 ### Топливная система
-`jetour_dashing_ru_0ee0d894` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:246 | doc_type:owners_manual
 Параметры топливной системы приведены в следующей таблице.
 
 ### SQRE4T15C/SQRF4J16/SQRF4J16C
-`jetour_dashing_ru_d23dec79` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:246 | doc_type:owners_manual
 Тип топлива *1
 Рекомендуется использовать неэтилированный
 бензин с
 октановым числом 95
 
 ### Общая емкость топливного
-`jetour_dashing_ru_151901cb` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:246 | doc_type:owners_manual
 бака
 57 л
 Топливный насос
@@ -15872,41 +14486,37 @@ OMX65-2050
 дилерами Jetour.
 
 ### Автомобиль с каталитическим нейтрализатором может использовать только
-`jetour_dashing_ru_b709f0b6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:246 | doc_type:owners_manual
 неэтилированный бензин. Во избежание несчастных случаев при заправке
 топливом неправильного типа, трубка топливного бака разработана на точку
 топливного бака типа горловины, и для заправки можно использовать только
 стандартный пистолет для заправки неэтилированным бензином.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_0f0586a3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:246 | doc_type:owners_manual
-• Используйте только тип топлива, рекомендованный Jetour.
-• Использование бензина, не отвечающего техническим требованиям, может
-привести к повреждению двигателя, и такое повреждение не покрывается
-гарантией.
-• Использование
-этилированного
-бензина
-приведет
-к
-тому,
-что
-трехкомпонентный
-каталитический
-преобразователь
-потеряет
-свою
-эффективность, а вытяжная система управления будет работать неправильно.
-• Если вы случайно заполните топливный бак этилированным бензином и
-запустите двигатель (даже если залито лишь небольшое количество), это
-приведет к необратимому повреждению каталитического преобразователя.
-Поэтому, если вы случайно залили этилированный бензин, немедленно
-обратитесь на авторизованную станцию обслуживания Jetour для проверки и
-ремонта.
-239
+> ⚠️ **Внимание:** • Используйте только тип топлива, рекомендованный Jetour.
+> • Использование бензина, не отвечающего техническим требованиям, может
+> привести к повреждению двигателя, и такое повреждение не покрывается
+> гарантией.
+> • Использование
+> этилированного
+> бензина
+> приведет
+> к
+> тому,
+> что
+> трехкомпонентный
+> каталитический
+> преобразователь
+> потеряет
+> свою
+> эффективность, а вытяжная система управления будет работать неправильно.
+> • Если вы случайно заполните топливный бак этилированным бензином и
+> запустите двигатель (даже если залито лишь небольшое количество), это
+> приведет к необратимому повреждению каталитического преобразователя.
+> Поэтому, если вы случайно залили этилированный бензин, немедленно
+> обратитесь на авторизованную станцию обслуживания Jetour для проверки и
+> ремонта.
+> 239
 
 ### Масса транспортного
-`jetour_dashing_ru_15e8cef5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:247 | doc_type:owners_manual
 средства в снаряженном
 состоянии, кг
 1655
@@ -15916,7 +14526,6 @@ OMX65-2050
 1735
 
 ### Распредел
-`jetour_dashing_ru_0234545f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:247 | doc_type:owners_manual
 ение
 массы
 т/с в
@@ -15932,7 +14541,6 @@ OMX65-2050
 972
 
 ### Задняя ось
-`jetour_dashing_ru_a69127e8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:247 | doc_type:owners_manual
 (кг)
 712
 691/698/704
@@ -15948,7 +14556,6 @@ OMX65-2050
 2035
 
 ### Допустимая
-`jetour_dashing_ru_dcc306b8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:247 | doc_type:owners_manual
 максимальн
 ая масса, на
 каждую из
@@ -15960,7 +14567,6 @@ OMX65-2050
 1048
 
 ### На заднюю
-`jetour_dashing_ru_7687c652` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:247 | doc_type:owners_manual
 ось
 947
 1165
@@ -15970,7 +14576,6 @@ OMX65-2050
 прицепа, кг
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_9429261e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:247 | doc_type:owners_manual
 Пожалуйста, соблюдайте нагрузку автомобиля, указанную в руководстве по
 эксплуатации, и не превышайте допустимую общую массу. В противном случае
 эффективность торможения и управляемости автомобиля может измениться, что
@@ -15984,7 +14589,6 @@ OMX65-2050
 85.8
 85.8
 ### Рабочий объем
-`jetour_dashing_ru_e3a51b3e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:248 | doc_type:owners_manual
 целиндров см3
 1498**
 1502**
@@ -15996,7 +14600,6 @@ OMX65-2050
 9.9
 
 ### Максимальная
-`jetour_dashing_ru_e9ca242d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:248 | doc_type:owners_manual
 мощность, кВт
 (об/мин)
 108(5500)
@@ -16004,7 +14607,6 @@ OMX65-2050
 136.5(5500)
 
 ### Максимальный
-`jetour_dashing_ru_d71da7df` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:248 | doc_type:owners_manual
 крутящий момент,
 Нбм(об/мин)
 210
@@ -16018,7 +14620,6 @@ OMX65-2050
 241
 
 ### 830AHA
-`jetour_dashing_ru_8bb4d479` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:249 | doc_type:owners_manual
 Тип
 6 передач,
 МКПП
@@ -16029,7 +14630,6 @@ OMX65-2050
 8 передач,
 
 ### АКПП
-`jetour_dashing_ru_15b7c8c4` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:249 | doc_type:owners_manual
 Положение
 передачи
 1-й
@@ -16080,7 +14680,6 @@ OMX65-2050
 0.673
 
 ### R
-`jetour_dashing_ru_d58cdfd1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:249 | doc_type:owners_manual
 3.583
 3.661
 1.18
@@ -16102,7 +14701,6 @@ OMX65-2050
 передачи:
 
 ### Главной
-`jetour_dashing_ru_33e71d7b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:249 | doc_type:owners_manual
 пары
 передачи:
 3,042
@@ -16113,7 +14711,6 @@ R передачи:
 8. СПЕЦИФИКАЦИЯ
 
 ### Развал
-`jetour_dashing_ru_1e5c94cc` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:250 | doc_type:owners_manual
 передних
 колес
 -25′ ± 45′
@@ -16132,7 +14729,6 @@ R передачи:
 5′ ± 5′ (одна сторона)
 
 ### Развал
-`jetour_dashing_ru_1e5c94cc` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:250 | doc_type:owners_manual
 задних
 колес
 -42′ ± 30′
@@ -16143,7 +14739,6 @@ R передачи:
 243
 
 ### Давление в
-`jetour_dashing_ru_8167fbb1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:251 | doc_type:owners_manual
 холодных шинах
 (кПа)
 Переднее колесо
@@ -16151,72 +14746,60 @@ R передачи:
 250 (с нагрузкой)
 
 ### Заднее колесо
-`jetour_dashing_ru_8169aa94` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:251 | doc_type:owners_manual
 230 (без нагрузки)
 250 (с нагрузкой)
 Запасная шина
 420
 
 ### Момент затяжки колесных болтов
-`jetour_dashing_ru_a3fb50d8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:251 | doc_type:owners_manual
 130 ± 10 Нбм
 Требования к динамической
 балансировке колес
 
 ### Допустимая остаточная динамическая
-`jetour_dashing_ru_db6177ee` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:251 | doc_type:owners_manual
 балансировочная масса: Зажим со
 стороны балансировочного блока ≤ 8 г,
 вставка со стороны балансировочного
 блока ≤ 10 г
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_acd1b931` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:251 | doc_type:owners_manual
 Давление в шинах, указанное в таблице выше, относится только к холодным
 шинам. Давление слегка увеличивается при нагреве шины, но снижать давление
 нет необходимости.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_0b06aabe` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:251 | doc_type:owners_manual
-• Давление в шинах следует проверять не реже одного раза в месяц, что
-особенно важно при движении на высокой скорости.
-• Чтобы облегчить вам поиск указанного значения давления в шинах, на пороге
-водительской двери имеется табличка с давлением в шинах, на которой указано
-указанное значение давления в шинах в холодном состоянии.
-244
+> ⚠️ **Внимание:** • Давление в шинах следует проверять не реже одного раза в месяц, что
+> особенно важно при движении на высокой скорости.
+> • Чтобы облегчить вам поиск указанного значения давления в шинах, на пороге
+> водительской двери имеется табличка с давлением в шинах, на которой указано
+> указанное значение давления в шинах в холодном состоянии.
+> 244
 
 ### Электрический стояночный тормоз для
-`jetour_dashing_ru_35e454fa` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:252 | doc_type:owners_manual
 заднего колеса
 Свободный ход педали тормоза
 5 - 15 мм
 
 ### Максимальный ход педали тормоза
-`jetour_dashing_ru_b48c22cc` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:252 | doc_type:owners_manual
 113.4 мм
 Разумный диапазон использования
 тормозного фрикционного материала
 
 ### Толщина переднего фрикционного
-`jetour_dashing_ru_083bd613` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:252 | doc_type:owners_manual
 материала: 11.6 мм
 Толщина заднего фрикционного
 материала: 10.1 мм
 
 ### Допустимая толщина переднего
-`jetour_dashing_ru_aa722be4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:252 | doc_type:owners_manual
 фрикционного материала: 9.6 мм
 Допустимая толщина заднего
 фрикционного материала: 8.1 мм
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_6b82d91e` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:252 | doc_type:owners_manual
 • В случае большой нагрузки замена тормозной жидкости должна производиться
 одновременно с заменой тормозных колодок.
 • При добавлении тормозной жидкости убедитесь, что она абсолютно чистая.
 
 ### Попадание
-`jetour_dashing_ru_648bfa63` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:252 | doc_type:owners_manual
 грязи
 в
 тормозную
@@ -16228,18 +14811,15 @@ R передачи:
 эффективности торможения.
 
 ### Передняя подвеска
-`jetour_dashing_ru_2849f824` | dashing | pdf_manual | tier:2 | lang:ru | layer:suspension | p:252 | doc_type:owners_manual
 Независимая, типа Макферсон, пружинная, со
 стабилизатором поперечной устойчивости
 
 ### Задняя подвеска
-`jetour_dashing_ru_cd79ffeb` | dashing | pdf_manual | tier:2 | lang:ru | layer:suspension | p:252 | doc_type:owners_manual
 Независимая, многорычажная, пружинная с
 телескопическими амортизаторами
 стабилизатором поперечной устойчивости.
 
 ### Тип рулевого механизма
-`jetour_dashing_ru_c9f4d633` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:252 | doc_type:owners_manual
 Шестерня - рейка
 245
 8. СПЕЦИФИКАЦИЯ
@@ -16249,7 +14829,6 @@ R передачи:
 Компоненты, не входящие в диапазон измерения длины автомобиля
 
 ### Следующие устройства не имеют нагруженной функции и не выступают за
-`jetour_dashing_ru_82cbd8bb` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:253 | doc_type:owners_manual
 переднюю или заднюю часть автомобиля более чем на 50 мм, а радиус скругления
 кромки и угла не менее 5 мм:
 - Стеклоочиститель и омыватель
@@ -16289,12 +14868,10 @@ R передачи:
 246
 
 ### 8. СПЕЦИФИКАЦИЯ
-`jetour_dashing_ru_f7022791` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:254 | doc_type:owners_manual
 - Рифленая выхлопная труба
 Компоненты, не входящие в диапазон измерения высоты автомобиля:
 
 ### Мягкая часть антенны
-`jetour_dashing_ru_9011479d` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:254 | doc_type:owners_manual
 Устройство без загруженной функции:
 - Впускной канал
 - Устройство непрямого обзора
@@ -16306,23 +14883,17 @@ R передачи:
 - Хвостовая лестница
 
 
-# Manual: jetour/dashing (1389 chunks)
-<!-- doc_type:owners_manual tier:2 lang:ru -->
-
 ### ПРЕДИСЛОВИЕ
-`jetour_dashing_ru_ba85e05c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 Благодарим вас за то, что вы остановили свой выбор на новом автомобиле Jetour.
 Чтобы узнать, как правильно эксплуатировать и обслуживать автомобиль,
 внимательно прочитайте данное руководство.
 
 ### Вся информация и технические характеристики в данном руководстве актуальны
-`jetour_dashing_ru_8cdd4c1b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 на момент печати. Jetour оставляет за собой право вносить изменения в
 конструкцию и технические характеристики в любое время без
 предварительного уведомления.
 
 ### Станция технического обслуживания Jetour эксклюзивно авторизована и
-`jetour_dashing_ru_a6a03d87` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 предоставит вам профессиональные высококачественные услуги. Помните, что
 сервисная станция Jetour лучше всех знает ваш автомобиль и имеет обученных
 техников и оригинальные запасные части и комплектующие, что позволяет
@@ -16333,7 +14904,6 @@ R передачи:
 маневренность, безопасность и долговечность.
 
 ### В зависимости от комплектации и характеристик вашего автомобиля некоторые
-`jetour_dashing_ru_04a94067` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 описания и иллюстрации могут отличаться от тех, что указаны на вашем
 автомобиле.
 Все данные, описания и иллюстрации, представленные в данном руководстве, не
@@ -16342,7 +14912,6 @@ R передачи:
 полностью или частично без письменного разрешения Джетур Мотор Рус.
 
 ### Иллюстрированный
-`jetour_dashing_ru_db371be1` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:2 | doc_type:owners_manual
 указатель
 2
 1
@@ -16364,7 +14933,6 @@ R передачи:
 комплектации
 
 ### Иллюстрированный
-`jetour_dashing_ru_d538c9e5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:3 | doc_type:owners_manual
 указатель 3
 1
 2
@@ -16390,7 +14958,6 @@ R передачи:
 комплектации
 
 ### AIRBA
-`jetour_dashing_ru_e98456c2` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:4 | doc_type:owners_manual
 1
 2
 3
@@ -16426,7 +14993,6 @@ R 1   3   5
 комплектации
 
 ### Иллюстрированный
-`jetour_dashing_ru_137bd908` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:4 | doc_type:owners_manual
 указатель
 4
 Иллюстрированный указатель
@@ -16440,7 +15006,6 @@ P
 6
 
 ### Иллюстрированный
-`jetour_dashing_ru_a6e9a19f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:5 | doc_type:owners_manual
 указатель 5
 Иллюстрированный указатель
 AIRBA
@@ -16453,7 +15018,6 @@ AIRBA
 7
 
 ### Иллюстрированный
-`jetour_dashing_ru_d85c8e7d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:6 | doc_type:owners_manual
 указатель
 6
 Иллюстрированный указатель
@@ -16467,7 +15031,6 @@ AIRBA
 7
 
 ### Иллюстрированный
-`jetour_dashing_ru_a13506eb` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:7 | doc_type:owners_manual
 указатель 7
 Содержание
 Содержание  9
@@ -16475,22 +15038,17 @@ AIRBA
 1-1. Как читать это
 руководство
 
-### Как читать это
-`jetour_dashing_ru_ed9ed8af` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 
 ### Символы в
-`jetour_dashing_ru_f97a85b9` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 1-3. Обкатка нового
 автомобиля
 
 ### Обкатка нового
-`jetour_dashing_ru_3dcdd880` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 1-4. Как сэкономить
 топливо и продлить срок
 службы автомобиля
 
 ### Как сэкономить
-`jetour_dashing_ru_38fecdc9` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 топливо и продлить
 срок службы
 1-5. Меры
@@ -16498,19 +15056,16 @@ AIRBA
 вождением автомобиля
 
 ### Проверьте вытяжную
-`jetour_dashing_ru_9ddc4077` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 1-6. Меры
 предосторожности при
 вождении по бездорожью
 
 ### Вождение по
-`jetour_dashing_ru_55b48abe` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 1-7. Меры
 предосторожности при
 движении в дождь
 
 ### При движении по
-`jetour_dashing_ru_bece7472` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 скользкому
 дорожному покрытию ...... 10
 Вождение по воде ............. 11
@@ -16518,93 +15073,75 @@ AIRBA
 при вождении зимой
 
 ### Советы по вождению
-`jetour_dashing_ru_57ab7a07` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 автомобиля в зимних
 Вождение по дороге,
 покрытой льдом и
 
 ### ВОЖДЕНИЮ
-`jetour_dashing_ru_3e88a156` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:9 | doc_type:owners_manual
 2-1. Приборный щиток
 Обзор приборной
 
 ### Регулировка рулевого
-`jetour_dashing_ru_726a589c` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:9 | doc_type:owners_manual
 Содержание
 
 ### Содержание
-`jetour_dashing_ru_ea595da9` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:10 | doc_type:owners_manual
 10
 2-3. Зеркало заднего
 вида
 Салонное зеркало заднего
 
 ### Наружное зеркало
-`jetour_dashing_ru_02b044f7` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:10 | doc_type:owners_manual
 2-4. Система
 стеклоочистителей (при
 наличии)
 
 ### Работа
-`jetour_dashing_ru_703ec2e5` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:10 | doc_type:owners_manual
 стеклоочистителей
 
 ### Работа
-`jetour_dashing_ru_703ec2e5` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:10 | doc_type:owners_manual
 стеклоочистителей
 
 ### Замена щетки
-`jetour_dashing_ru_dece1080` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:10 | doc_type:owners_manual
 стеклоочистителя .............. 35
 2-5. Система освещения
 
 ### Внутреннее
-`jetour_dashing_ru_3723f47f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 освещение
 
 ### Интеллектуальный
-`jetour_dashing_ru_f1d8210b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 ассистент фар (HMA)
 
 ### Инструкции по
-`jetour_dashing_ru_1b5a6c96` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:10 | doc_type:owners_manual
 запотеванию
 2-6. Сиденье
 
 ### Преднатяжитель
-`jetour_dashing_ru_89260fb4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 ремня безопасности
 2-8. Система безопасности
 для детей
 
 ### Система
-`jetour_dashing_ru_77219fd8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 безопасности для
 
 ### Установка
-`jetour_dashing_ru_cde1ad91` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 удерживающей
 системы для ребёнка
 
 ### ФУНКЦИЯ
-`jetour_dashing_ru_8d034c3d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 3-1. Информация о
 ключе
 
 ### Система
-`jetour_dashing_ru_77219fd8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:10 | doc_type:owners_manual
 3-2. Двери
 Переключатель
 
 ### Содержание
-`jetour_dashing_ru_c7a707cd` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 Содержание  11
 Функция
 дистанционного
 управления окном ............. 75
 
 ### Функция от защемления
-`jetour_dashing_ru_47122926` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:11 | doc_type:owners_manual
 стеклоподъемниками  ..... 75
 3-4. Панорамная люк
 (при наличии)
@@ -16616,11 +15153,8 @@ AIRBA
 3-5. Мультимедийный
 дисплей
 
-### Мультимедийный   дисплей
-`jetour_dashing_ru_f2530f0a` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:11 | doc_type:owners_manual
 
 ### Настройки
-`jetour_dashing_ru_3fab584d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 Подключение мобильного
 телефона (при наличии)..94
 3-6. Система
@@ -16628,15 +15162,12 @@ AIRBA
 воздуха
 
 ### Система
-`jetour_dashing_ru_181d4c63` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 кондиционирования
 
 ### Система
-`jetour_dashing_ru_181d4c63` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 кондиционирования
 
 ### Определение
-`jetour_dashing_ru_5e4780f6` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:11 | doc_type:owners_manual
 Функция охлаждения
 коробки
 подлокотника на
@@ -16646,23 +15177,19 @@ AIRBA
 зарядка (при наличии)
 
 ### Беспроводная
-`jetour_dashing_ru_3e170891` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:11 | doc_type:owners_manual
 3-8. Функция записи
 вождения (если
 укомплектован)
 
 ### Функция записи   вождения
-`jetour_dashing_ru_ac298f15` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 3-9. Пространство для
 хранения
 
 ### Пространство для
-`jetour_dashing_ru_0f1d3ac8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:11 | doc_type:owners_manual
 3-10.Электрическая
 розетка
 
 ### Электрическая
-`jetour_dashing_ru_ed2eff48` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:11 | doc_type:owners_manual
 розетка
 3-11.Порт USB
 3-12.Солнцезащитные
@@ -16670,7 +15197,6 @@ AIRBA
 косметическое зеркало
 
 ### Солнцезащитные
-`jetour_dashing_ru_db33285f` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:11 | doc_type:owners_manual
 козырьки и
 косметическое
 3-13.Капот
@@ -16679,12 +15205,10 @@ AIRBA
 отделения
 
 ### Дверь багажного
-`jetour_dashing_ru_5c48f911` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:11 | doc_type:owners_manual
 отделения с
 электродвигателем
 
 ### Содержание
-`jetour_dashing_ru_c26c3962` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 12
 Аварийное открытие
 двери багажного
@@ -16694,7 +15218,6 @@ AIRBA
 крышки топливного
 
 ### АВТОМОБИЛЯ
-`jetour_dashing_ru_6560a490` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:12 | doc_type:owners_manual
 4-1. Режим питания
 автомобиля
 Переключатель
@@ -16703,107 +15226,88 @@ ENGINE START STOP....... 119
 Запуск автомобиля .......... 119
 
 ### Адаптивная система
-`jetour_dashing_ru_ab5b69fc` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:12 | doc_type:owners_manual
 управления
 4-3. Бензиновый
 сажевый фильтр (GPF)
 (при наличии)
 4-4. Трансмиссия
 
-### Механическая трансмиссия
-`jetour_dashing_ru_b8787bd5` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:12 | doc_type:owners_manual
 
 ### Автоматическая
-`jetour_dashing_ru_8cc14eea` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:12 | doc_type:owners_manual
 4-5. Интеллектуальная
 система полного
 привода (AWD) (при
 наличии)
 
 ### Интеллектуальная
-`jetour_dashing_ru_262cfec4` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:12 | doc_type:owners_manual
 система
 полного привода
 Режим вождения  ............130
 4-6. Рулевая система
 
 ### Система рулевого
-`jetour_dashing_ru_19b5b178` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:12 | doc_type:owners_manual
 управления с
 электроусилителем
 4-7. Тормозная система
 
 ### Система
-`jetour_dashing_ru_55066c21` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:12 | doc_type:owners_manual
 электрического
 стояночного тормоза
 
 ### Автоматическая
-`jetour_dashing_ru_8cc14eea` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:12 | doc_type:owners_manual
 система удержания (-
 4-8. Антиблокировочная
 тормозная система (ABS)
 
 ### Антиблокировочная
-`jetour_dashing_ru_78d9ec29` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:12 | doc_type:owners_manual
 тормозная система
 4-9. Система
 стабилизации курсовой
 устойчивости (ESP)
 
 ### Система
-`jetour_dashing_ru_55066c21` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 стабилизации
 курсовой
 устойчивости (ESP)
 
 ### Расширенная
-`jetour_dashing_ru_8f9bd357` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:12 | doc_type:owners_manual
 функция
 4-10.Подушка
 безопасности (SRS)
 
 ### Дополнительна система
-`jetour_dashing_ru_77ed7af7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:12 | doc_type:owners_manual
 удерживания (SRS)  ....... 147
 Содержание
 Содержание  13
 
 ### Положение подушки
-`jetour_dashing_ru_b24f97a6` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:13 | doc_type:owners_manual
 Правильное
 использование
 подушки
 
 ### ВОЖДЕНИИ
-`jetour_dashing_ru_e3b39d25` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 5-1. Система круиз
 контроля
 Система круизконтроля (CCS) (при
 
 ### Система адаптивного
-`jetour_dashing_ru_6d5f31c7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 круиз-контроля (ACC)
 5-2. Система управления
 спуском с холма (HDC)
 
 ### Система управления
-`jetour_dashing_ru_aed10f84` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 5-3. Система помощи
 при движении по полосе
 
 ### Система помощи при
-`jetour_dashing_ru_fec526d7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 движении по полосе
 
 ### Система
-`jetour_dashing_ru_a797ba92` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 предупреждения о
 выходе из полосы
 движения (LDW) (при
 
 ### Система удержания
-`jetour_dashing_ru_1432b779` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 полосы движения
 (LKA) (при наличии). ....... 172
 5-4. Система
@@ -16811,21 +15315,17 @@ ENGINE START STOP....... 119
 (BSD) (при наличии)
 
 ### Система
-`jetour_dashing_ru_a797ba92` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 обнаружения слепых
 
 ### Система
-`jetour_dashing_ru_a797ba92` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 предупреждения об
 открытии двери
 
 ### Система оповещения
-`jetour_dashing_ru_a4a7e455` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 о перекрестном
 движении сзади
 
 ### Система
-`jetour_dashing_ru_a797ba92` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 предупреждения
 заднего столкновения
 5-5. Автоматическая
@@ -16833,7 +15333,6 @@ ENGINE START STOP....... 119
 торможения (AEB)/
 
 ### Система предупреждения
-`jetour_dashing_ru_de2ae4e5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 о лобовом столкновении
 (FCW) (если оборудован)
 Автоматическая
@@ -16841,7 +15340,6 @@ ENGINE START STOP....... 119
 торможения (AEB)/
 
 ### Система
-`jetour_dashing_ru_a797ba92` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:13 | doc_type:owners_manual
 предупреждения о
 лобовом
 столкновении (FCW) ........ 177
@@ -16851,7 +15349,6 @@ ENGINE START STOP....... 119
 система помощи при
 
 ### Содержание
-`jetour_dashing_ru_3e850ae3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 14
 движении (ICA) (при
 наличии)
@@ -16859,32 +15356,26 @@ ENGINE START STOP....... 119
 пробках (TJA)/
 
 ### Интегрированная
-`jetour_dashing_ru_9010546d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 система помощи при
 движении (ICA)  .............. 180
 5-7. Система контроля
 давления в шинах (TPMS)
 
 ### Система контроля
-`jetour_dashing_ru_fc9ca3a0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 давления в шинах
 5-8. Система контроля
 парковки
 
 ### Система наблюдения
-`jetour_dashing_ru_a58214d5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 за парковкой (при
 
 ### Система контроля
-`jetour_dashing_ru_fc9ca3a0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 панорамного обзора
 
 ### Парковочная
-`jetour_dashing_ru_72a36522` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 радарная система
 
 ### ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
-`jetour_dashing_ru_923da17e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 6-1. Базовые знания об
 аварийной
 остановке
@@ -16892,107 +15383,87 @@ ENGINE START STOP....... 119
 Система ЭРА-ГЛОНАСС.192
 
 ### Знак аварийной остановки
-`jetour_dashing_ru_d50ebadb` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 Запасные        инструменты
 6-2. Аварийная
 остановка автомобиля
 
 ### Операция по замене
-`jetour_dashing_ru_f756bfc8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 Если температура
 охлаждающей
 жидкости двигателя
 
 ### Если батарея
-`jetour_dashing_ru_61caaa08` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:14 | doc_type:owners_manual
 Если ваш автомобиль
 не может нормально
 6-3. Буксировка
 
 ### Буксировка
-`jetour_dashing_ru_a20571e1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 Аварийная
 буксировка
 
 ### Установка буксирной
-`jetour_dashing_ru_0939d73d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 6-4.  Предохранители
 
-### Замена      предохранителя
-`jetour_dashing_ru_ba3aa042` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 
 ### ОБСЛУЖИВАНИЯ
-`jetour_dashing_ru_dc198607` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 7-1. Ремонт и
 обслуживание
 Ремонт и
 
 ### Авторизованный
-`jetour_dashing_ru_af3bda38` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:14 | doc_type:owners_manual
 сервисный центр
 Jetour предоставляет
 
 ### Содержание
-`jetour_dashing_ru_8ad48cae` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 Содержание  15
 7-2. Обычное
 техническое
 обслуживание
 
 ### Проверка уровня
-`jetour_dashing_ru_5a64df79` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:15 | doc_type:owners_manual
 тормозной жидкости  .... 213
 Проверка уровня
 охлаждающей
 
 ### Запись системы
-`jetour_dashing_ru_bfa33fb0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 защиты
 СПЕЦИФИКАЦИЯ
 8-1. Расположение
 ярлыка
 
 ### Идентификационный
-`jetour_dashing_ru_9b47a6cf` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 номер автомобиля
 
 ### Паспортная табличка
-`jetour_dashing_ru_4b2e5ce7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 Номер двигателя .............. 235
 
 ### Окно для приема RF
-`jetour_dashing_ru_4b6683af` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 8-2. Технические
 характеристики
 автомобиля
 
 ### Диапазон измерения
-`jetour_dashing_ru_43447784` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:15 | doc_type:owners_manual
 габаритных размеров
 автомобиля без учета
 следующих
 1
 
 ### ВВЕДЕНИЕ
-`jetour_dashing_ru_a4d756a6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 1-1. Как читать это руководство
 Как читать это
 
 ### Иллюстрированный
-`jetour_dashing_ru_f7be72ad` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 1-2. Символы в руководстве
 Символы в руководстве  ......3
 1-3. Обкатка нового
 автомобиля
 
 ### Обкатка нового
-`jetour_dashing_ru_ffe15831` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 1-4. Как сэкономить
 топливо и продлить срок
 службы автомобиля
 
 ### Как сэкономить
-`jetour_dashing_ru_f8ffa4d3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 топливо и продлить
 срок службы
 1-5. Меры
@@ -17001,39 +15472,33 @@ Jetour предоставляет
 Проверка безопасности ....... 6
 
 ### Проверьте вытяжную
-`jetour_dashing_ru_496aa656` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 1-6. Меры
 предосторожности при
 вождении по бездорожью
 
 ### Вождение по
-`jetour_dashing_ru_93af766b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 1-7. Меры
 предосторожности при
 движении в дождь
 
 ### При движении по
-`jetour_dashing_ru_dc0a5162` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 скользкому дорожному
 1-8. Меры предосторожности
 при вождении зимой
 
 ### Советы по вождению
-`jetour_dashing_ru_50a50f1b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:17 | doc_type:owners_manual
 автомобиля в зимних
 Вождение по дороге,
 покрытой льдом и
 2
 
 ### 1. ВВЕДЕНИЕ
-`jetour_dashing_ru_c80d03a7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:18 | doc_type:owners_manual
 1-1. Как читать это руководство
 Как читать это руководство
 Существует три способа поиска необходимой информации в этом руководстве. Вот
 краткое введение каждого метода.
 
 ### Содержание
-`jetour_dashing_ru_69e13703` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:18 | doc_type:owners_manual
 Обратитесь к содержанию, чтобы определить необходимые информации во всех
 главах,
 в какой
@@ -17051,19 +15516,16 @@ Jetour предоставляет
 местонахождение.
 
 ### Иллюстрированный указатель
-`jetour_dashing_ru_de2e8dc4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:18 | doc_type:owners_manual
 Наглядный   указатель   является   полезным   помощником   для   быстрого   поиска
 необходимой информации, особенно если вы не знакомы с названием компонента.
 
 ### Индекс
-`jetour_dashing_ru_c44783c8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:18 | doc_type:owners_manual
 Это самый быстрый способ для вас найти нужную вам информацию. Указатель
 содержит полный список всех важных терминов, используемых в транспортных
 средствах.
 3
 
 ### ВВЕДЕНИЕ
-`jetour_dashing_ru_7c0659e8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 1-2. Символы в руководстве
 Символы в руководстве
 Приведённые ниже символы используются в данном Руководстве для привлечение
@@ -17072,19 +15534,15 @@ Jetour предоставляет
 инструкцию, отмеченные этими символами, и тщательно выполняйте их.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_b111b634` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 Указывает на потенциально опасную ситуацию, которая, если не принять
 соответствующие меры, может привести к повреждению вашего автомобиля,
 травмам и даже смерти.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_c09fca9d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
-Указывает на потенциально опасную ситуацию, которая, если не принять
-соответствующие меры, может привести к повреждению вашего автомобиля и его
-оборудования, а также к уменьшению службы автомобиля.
+> ⚠️ **Внимание:** Указывает на потенциально опасную ситуацию, которая, если не принять
+> соответствующие меры, может привести к повреждению вашего автомобиля и его
+> оборудования, а также к уменьшению службы автомобиля.
 
 ### ЗАЩИТА ОКРУЖАЮЩЕЙ СРЕДЫ
-`jetour_dashing_ru_7679ed61` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 Указывает на то, что утилизация отходов должна осуществляться в соответствии с
 местным
 природоохранным
@@ -17095,7 +15553,6 @@ Jetour предоставляет
 окружающей среды.
 
 ### Указывает
-`jetour_dashing_ru_5961b9ea` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:19 | doc_type:owners_manual
 на
 необходимость
 прочитать
@@ -17111,12 +15568,10 @@ Jetour предоставляет
 4
 
 ### 1. ВВЕДЕНИЕ
-`jetour_dashing_ru_23c206bb` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 1-3. Обкатка нового автомобиля
 Обкатка нового автомобиля
 
 ### Фрикционное сопротивление между подвижными деталями нового автомобиля
-`jetour_dashing_ru_62f7e14f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 значительно выше, чем при обычной эксплуатации. Правильно проведенная обкатка
 автомобиля оказывает большое влияние на срок его службы, надежность и
 топливную экономичность. Вот почему во время обкатки нового автомобиля
@@ -17151,7 +15606,6 @@ Jetour предоставляет
 тормозных колодок
 
 ### Не допускайте работы двигателя на высоких оборотах без особой на то
-`jetour_dashing_ru_9a920347` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:20 | doc_type:owners_manual
 необходимости.
 Своевременное
 переключение
@@ -17163,11 +15617,9 @@ Jetour предоставляет
 5
 
 ### ВВЕДЕНИЕ
-`jetour_dashing_ru_d8b8d6e2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 1-4. Как сэкономить топливо и продлить срок службы автомобиля
 
 ### Расход топлива во многом зависит от технического состояния автомобиля и вашей
-`jetour_dashing_ru_1dddcae1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:21 | doc_type:owners_manual
 манеры вождения. Не эксплуатируйте автомобиль с предельной нагрузкой —
 соблюдение этой рекомендации поможет вам продлить срок службы автомобиля.
 Ниже приведены ряд советов по снижению расхода топлива:
@@ -17192,7 +15644,6 @@ Jetour предоставляет
 сократить или вовсе свести к нулю остановки перед светофорами.
 
 ### Поддержание правильной дистанции до впередиидущего транспортного
-`jetour_dashing_ru_e57c7e26` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:21 | doc_type:owners_manual
 средства
 помогает
 исключить
@@ -17210,18 +15661,15 @@ Jetour предоставляет
 расходу топлива.
 
 ### 11. На скоростных дорогах поддерживайте надлежащую скорость движения. Чем
-`jetour_dashing_ru_2c08d40e` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:21 | doc_type:owners_manual
 выше скорость движения автомобиля, тем больше расход топлива. Снижение
 скорости движения автомобиля приводит к уменьшению расхода топлива.
 
 ### 12. Поддерживайте правильные углы установки передних колес. Избегайте ударов
-`jetour_dashing_ru_78088286` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:21 | doc_type:owners_manual
 колес о бордюрный камень и снижайте скорость при движении по неровным
 дорогам. Неправильные углы установки передних колес не только приводят к
 ускоренному износу шин, но и увеличивают нагрузку на двигатель.
 
 ### 14. Поддерживайте автомобиль в исправном состоянии. Загрязненный воздушный
-`jetour_dashing_ru_1e6c1e64` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:21 | doc_type:owners_manual
 фильтр, неправильные зазоры в приводе клапанов, загрязненные свечи
 зажигания, загрязненное масло и консистентная смазка, неотрегулированные
 тормозные механизмы и т. д. приводят к ухудшению параметров работы
@@ -17230,19 +15678,16 @@ Jetour предоставляет
 6
 
 ### 1. ВВЕДЕНИЕ
-`jetour_dashing_ru_986ca4a5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 эксплуатационных расходов. При эксплуатации автомобиля в тяжелых условиях
 техническое обслуживание нужно проводить чаще.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_a726773e` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:22 | doc_type:owners_manual
 Никогда не выключайте двигатель при движении вниз по склону. Система
 гидроусилителя руля и тормозная система не будут работать нормально, когда
 двигатель не работает.
 1-5. Меры предосторожности перед вождением автомобиля
 
 ### Проверка безопасности
-`jetour_dashing_ru_ece48815` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 Лучше
 провести
 проверку
@@ -17253,40 +15698,32 @@ Jetour предоставляет
 средством. Несколько минут проверки могут помочь обеспечить безопасное и
 приятное вождение.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_08a96377` | dashing | pdf_manual | tier:2 | lang:ru | layer:hvac | p:22 | doc_type:owners_manual
-Если вы  выполняете эту  проверку  в закрытом  гараже, убедитесь,  что  имеется
-достаточная вентиляция.
+> ⚠️ **Внимание:** Если вы  выполняете эту  проверку  в закрытом  гараже, убедитесь,  что  имеется
+> достаточная вентиляция.
 
 ### Перед запуском двигателя
-`jetour_dashing_ru_fe3ee2ac` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 ◆Снаружи автомобиля
 1. Шины (включая запасное колесо): Проверьте давление в шинах с помощью
 манометра и тщательно проверьте шины на наличие порезов, повреждений или
 чрезмерного износа.
 
 ### 2. Колесные болты: Убедитесь, что колесные болты установлены и затянуты.
-`jetour_dashing_ru_6052fc7f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 3. Утечки жидкости: После того, как автомобиль постоит какое-то время, проверьте
 пространство под автомобилем на наличие утечек топлива, масла, охлаждающей
 жидкости или других жидкостей (вода, капающая из системы кондиционирования
 воздуха после использования, является нормальным явлением).
 
 ### 4. Освещение: Убедитесь, что фары, дневные ходовые огни, стоп-сигналы,
-`jetour_dashing_ru_df0e0774` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 противотуманные фары, указатели поворота и другие огни работают правильно.
 
 ### 5. Воздухозаборные  решетки: Удалите снег, листья и другие препятствия с
-`jetour_dashing_ru_8917431a` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:22 | doc_type:owners_manual
 воздухозаборных решеток перед ветровым стеклом.
 ◆Внутри автомобиля
 
 ### 1. Запасные инструменты: Убедитесь, что у вас есть запасные инструменты, такие
-`jetour_dashing_ru_5db6ba60` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 как домкрат, ключ для колесных болтов и запасное колесо.
 
 ### 2. Ремень безопасности: Убедитесь в надежности фиксации застежки. Убедитесь,
-`jetour_dashing_ru_6be97bbe` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:22 | doc_type:owners_manual
 что ремни не изношены и не повреждены.
 3. Комбинация
 приборов
@@ -17295,14 +15732,12 @@ Jetour предоставляет
 управления:
 
 ### Особенно
-`jetour_dashing_ru_976c226e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:22 | doc_type:owners_manual
 убедитесь,
 что
 индикаторы неисправности, индикаторы и элементы управления работают
 правильно.
 
 ### 4. Тормоз: Убедитесь, что педаль имеет достаточный зазор.
-`jetour_dashing_ru_6a6b819f` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:22 | doc_type:owners_manual
 ◆Отсек двигателя и двигатель
 1. Запасные предохранители: Убедитесь в наличии запасных предохранителей.
 Должны быть предусмотрены все предохранители с номинальной силой тока,
@@ -17310,7 +15745,6 @@ Jetour предоставляет
 7
 
 ### ВВЕДЕНИЕ
-`jetour_dashing_ru_b316b5f4` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:23 | doc_type:owners_manual
 2 . Уровень охлаждающей жидкости: Убедитесь, что уровень охлаждающей
 жидкости соответствует норме.
 3 . Аккумулятор и кабели: Проверьте наличие коррозии или незакрепленных клемм
@@ -17325,7 +15759,6 @@ Jetour предоставляет
 движения автомобиля, что может привести к аварии.
 
 ### После запуска двигателя
-`jetour_dashing_ru_059014d7` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:23 | doc_type:owners_manual
 1 . Выхлопная система: Прислушайтесь к любой утечке. Немедленно устраните
 любую утечку, если возникнет такая ситуация.
 2 . Уровень моторного масла: Остановите автомобиль на ровной поверхности,
@@ -17333,7 +15766,6 @@ Jetour предоставляет
 соответствует ли уровень масла в двигателе.
 
 ### Во время вождения
-`jetour_dashing_ru_f8c756cb` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:23 | doc_type:owners_manual
 1 . Манометры  и  счетчики:  Убедитесь,  что  показания  манометров  и
 счетчиков работают правильно.
 2 . Тормоз: В безопасном месте убедитесь, что автомобиль не тянет в сторону
@@ -17342,7 +15774,6 @@ Jetour предоставляет
 и утечек. Прислушайтесь к ненормальным шумам.
 
 ### Парковка
-`jetour_dashing_ru_09267f2b` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:23 | doc_type:owners_manual
 Правильная парковка является важной частью безопасного вождения, припаркуйте
 автомобиль в месте с широкой дорогой, хорошим обзором, не мешая движению.
 Этапы парковки следующие:
@@ -17350,7 +15781,6 @@ Jetour предоставляет
 тормоза, пока автомобиль полностью не остановится.
 
 ### 2. Убедитесь, что электромеханический парковочный тормоз включен.
-`jetour_dashing_ru_3c251870` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:23 | doc_type:owners_manual
 3 . Для
 автомобиля
 с
@@ -17361,14 +15791,11 @@ Jetour предоставляет
 переключения передач в положение «Pе; Для автомобиля с механической
 трансмиссией: Переведите рычаг переключения передач в положение N;
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_f5d9aff8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:23 | doc_type:owners_manual
-Выходя из автомобиля, не забудьте запереть его и взять с собой ключ от
-автомобиля.
-8
+> ⚠️ **Внимание:** Выходя из автомобиля, не забудьте запереть его и взять с собой ключ от
+> автомобиля.
+> 8
 
 ### Парковка транспортного средства на склоне осуществляется в основном за счет
-`jetour_dashing_ru_78bc7e9f` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:24 | doc_type:owners_manual
 тормозного усилия стояночного тормоза. Неиспользование стояночного тормоза
 или
 неисправность стояночного тормоза может привести к соскальзыванию
@@ -17393,7 +15820,6 @@ Jetour предоставляет
 тормоз.
 
 ### OMX65-1010
-`jetour_dashing_ru_458417f3` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:24 | doc_type:owners_manual
 ◆Парковка на подъеме с бордюром
 Если
 на
@@ -17422,7 +15848,6 @@ Jetour предоставляет
 тормоз.
 
 ### OMX65-1020
-`jetour_dashing_ru_725d13ae` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:24 | doc_type:owners_manual
 ◆Парковка на подъеме или спуске (без бордюра)
 OMX65-1030
 Если
@@ -17452,7 +15877,6 @@ OMX65-1030
 9
 
 ### ВВЕДЕНИЕ
-`jetour_dashing_ru_70c2049e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 ◆Перевозка пассажиров
 Перед началом движения, убедитесь, что все пассажиры должны сидеть на своих
 местах с правильно пристегнутыми ремнями безопасности. Не позволяйте
@@ -17494,17 +15918,14 @@ OMX65-1030
 впустить свежий воздух, и проверьте состояние автомобиля.
 
 ### Проверьте вытяжную систему
-`jetour_dashing_ru_f1076b2c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 Вытяжную систему следует проверять в следующих случаях:
 
 ### 4. При подъеме автомобиля для осмотра и ремонта.
-`jetour_dashing_ru_584bb417` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:25 | doc_type:owners_manual
 10
 1. ВВЕДЕНИЕ
 1-6. Меры предосторожности при вождении по бездорожью
 
 ### Вождение по бездорожью
-`jetour_dashing_ru_daf118ec` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:26 | doc_type:owners_manual
 Всегда соблюдайте следующие меры предосторожности, чтобы свести к минимуму
 риск серьезной травмы или повреждения автомобиля:
 • Будьте осторожны при выезде с дороги. Не ездите в опасных зонах.
@@ -17516,7 +15937,6 @@ OMX65-1030
 движения автомобиля.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_8cf26739` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:26 | doc_type:owners_manual
 • После движения по дорогам, покрытым высокой травой, грязью, гравием,
 песком, реками и т. д., проверьте, не прилипли ли к днищу автомобиля трава,
 кусты, бумага, тряпки, камни, песок и т. д. Удалите все вышеперечисленные
@@ -17532,33 +15952,29 @@ OMX65-1030
 1-7. Меры предосторожности при движении в дождь
 
 ### При движении по скользкому дорожному покрытию
-`jetour_dashing_ru_c902dc79` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:26 | doc_type:owners_manual
 Будьте осторожны, когда идет дождь, так как видимость ухудшится, окна могут
 запотеть, а дорога станет скользкой.
 • Не двигайтесь с высокой скоростью при движении по скоростной автомагистрали
 в дождь, так как между шинами и поверхностью дороги может образоваться слой
 воды, препятствующий правильной работе рулевого управления и тормозов.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_6c037ce9` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:26 | doc_type:owners_manual
-• Внезапное торможение, ускорение и рулевое управление на скользком
-дорожном покрытии могут вызвать проскальзывание шин и снизить вашу
-способность управлять автомобилем, что может привести к аварии.
-• Внезапные
-изменения
-частоты
-вращения
-двигателя,
-например
-резкое
-торможение двигателем, могут привести к заносу автомобиля и, как следствие,
-к аварии.
-• Проехав лужу, слегка нажмите педаль тормоза, чтобы убедиться, что тормоза
-работают
-нормально.
+> ⚠️ **Внимание:** • Внезапное торможение, ускорение и рулевое управление на скользком
+> дорожном покрытии могут вызвать проскальзывание шин и снизить вашу
+> способность управлять автомобилем, что может привести к аварии.
+> • Внезапные
+> изменения
+> частоты
+> вращения
+> двигателя,
+> например
+> резкое
+> торможение двигателем, могут привести к заносу автомобиля и, как следствие,
+> к аварии.
+> • Проехав лужу, слегка нажмите педаль тормоза, чтобы убедиться, что тормоза
+> работают
+> нормально.
 
 ### Влажная
-`jetour_dashing_ru_e59b7a1a` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:26 | doc_type:owners_manual
 тормозная
 накладка
 может
@@ -17569,7 +15985,6 @@ OMX65-1030
 11
 
 ### Автомобиль
-`jetour_dashing_ru_0adbbebf` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:27 | doc_type:owners_manual
 может
 быть
 серьезно
@@ -17580,7 +15995,6 @@ OMX65-1030
 медленно и осторожно.
 
 ### OMX65-1040
-`jetour_dashing_ru_287f3cec` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:27 | doc_type:owners_manual
 1 . Когда вы едете по воде, убедитесь, что двигатель работает нормально, а
 рулевое управление и тормозная система работают нормально. При плавном
 движении по воде следует переключаться на пониженную передачу и избегать
@@ -17593,19 +16007,16 @@ OMX65-1030
 чтобы предотвратить дальнейшее повреждение двигателя. Автомобиль следует
 отбуксировать в безопасное место с мелководьем для выяснения причины.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_094ae3a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:27 | doc_type:owners_manual
-• Никогда не ездите по воде, которая глубже обода колеса.
-• Попадание воды в двигатель может привести к его остановке или серьезным
-внутренним повреждениям.
-• Вода может смыть смазку с подшипника колеса, что вызовет коррозию и
-преждевременное истирание.
-• Движение по воде может привести к повреждению компонентов приводной
-системы
-автомобиля.
+> ⚠️ **Внимание:** • Никогда не ездите по воде, которая глубже обода колеса.
+> • Попадание воды в двигатель может привести к его остановке или серьезным
+> внутренним повреждениям.
+> • Вода может смыть смазку с подшипника колеса, что вызовет коррозию и
+> преждевременное истирание.
+> • Движение по воде может привести к повреждению компонентов приводной
+> системы
+> автомобиля.
 
 ### Всегда
-`jetour_dashing_ru_2d40039b` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:27 | doc_type:owners_manual
 визуально
 проверяйте
 жидкости
@@ -17622,14 +16033,12 @@ OMX65-1030
 1-8. Меры предосторожности при вождении зимой
 
 ### Советы по вождению автомобиля в зимних условиях
-`jetour_dashing_ru_32eea11f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:27 | doc_type:owners_manual
 • Охлаждающая жидкость: Убедитесь, что охлаждающая жидкость имеет функцию
 защиты
 от
 замерзания.
 
 ### Используйте
-`jetour_dashing_ru_241fa056` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:27 | doc_type:owners_manual
 только
 охлаждающую
 жидкость,
@@ -17637,7 +16046,6 @@ OMX65-1030
 12
 
 ### 1. ВВЕДЕНИЕ
-`jetour_dashing_ru_1dc3f0fb` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:28 | doc_type:owners_manual
 • Аккумулятор и кабели: Низкая температура снижает мощность батареи. В
 аккумуляторе должно быть достаточно энергии для запуска зимой.
 • Масло:
@@ -17659,14 +16067,12 @@ OMX65-1030
 стекла:
 
 ### Используйте
-`jetour_dashing_ru_77d5b418` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 незамерзающую
 жидкость,
 содержащую антифриз. Этот продукт доступен на авторизованной станции
 обслуживания
 
 ### Jetour
-`jetour_dashing_ru_ecc2aa8f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 и
 у
 большинства
@@ -17688,29 +16094,26 @@ OMX65-1030
 автомобиль: Цепи противоскольжения, скребок для мытья окон, мешок с песком
 или солью, сигнальный огонь, лопата, соединительный кабель и т. д.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_b586fc55` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
-• Не используйте воду вместо охлаждающей жидкости.
-• Не
-используйте
-охлаждающую
-жидкость
-для
-двигателя
-или
-другую
-альтернативную
-моющую
-жидкость,
-иначе
-будет
-повреждена
-краска
-автомобиля.
-Вождение по дороге, покрытой льдом и снегом
+> ⚠️ **Внимание:** • Не используйте воду вместо охлаждающей жидкости.
+> • Не
+> используйте
+> охлаждающую
+> жидкость
+> для
+> двигателя
+> или
+> другую
+> альтернативную
+> моющую
+> жидкость,
+> иначе
+> будет
+> повреждена
+> краска
+> автомобиля.
+> Вождение по дороге, покрытой льдом и снегом
 
 ### Быстрое
-`jetour_dashing_ru_7ddfc817` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:28 | doc_type:owners_manual
 ускорение
 на
 скользких
@@ -17733,7 +16136,6 @@ OMX65-1030
 осторожно.
 
 ### При движении по мокрой или слякотной дороге между шиной и поверхностью
-`jetour_dashing_ru_660eefc1` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:28 | doc_type:owners_manual
 дороги может образовываться водяная пленка. Это может привести к неправильной
 работе рулевого управления и тормозов. Чтобы уменьшить крутящий момент и
 избежать пробуксовки, вы можете использовать 2-й передачу (автомобиль с
@@ -17744,7 +16146,6 @@ OMX65-1030
 автомобиль на малой скорости и несколько раз проехать вперед и назад.
 
 ### Переместите рычаг переключения передач между положением D и положением R
-`jetour_dashing_ru_27f83c2b` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:28 | doc_type:owners_manual
 13
 1. ВВЕДЕНИЕ
 ВВЕДЕНИЕ
@@ -17752,14 +16153,12 @@ OMX65-1030
 времени буксования это может привести к чрезмерному износу трансмиссии.
 
 ### Цепи для шин
-`jetour_dashing_ru_63768863` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 Приобретите комплект цепей противоскольжения, соответствующий размеру шин
 автомобиля. При установке и снятии цепей соблюдайте следующие меры
 предосторожности:
 1 . При использовании цепей соблюдайте правила;
 
 ### 2.  Установите и снимите цепи противоскольжения в безопасном месте;
-`jetour_dashing_ru_e78a12eb` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
 3 . Установите цепи
 противоскольжения
 в
@@ -17769,7 +16168,6 @@ OMX65-1030
 прилагаемыми к цепям противоскольжения;
 
 ### 4. Цепи могут устанавливать только на ведущие колеса;
-`jetour_dashing_ru_ed5d34dd` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:29 | doc_type:owners_manual
 5  Рекомендуется использовать резиновые цепи толщиной не более 12 мм, в
 противном случае могут быть повреждены шины, диски, система привода,
 тормозная система и защитные пластины колеса, повреждения автомобиля в
@@ -17777,20 +16175,17 @@ OMX65-1030
 6 . Пожалуйста, обратитесь   на   авторизованный   сервисный   центр   Jetour   для
 получения подробной информации о колесах и размерах шин.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_f859d927` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:29 | doc_type:owners_manual
-Соблюдайте следующие меры предосторожности, чтобы снизить риск несчастных
-случаев. Невыполнение этого требования может привести к невозможности
-безопасного управления автомобилем и стать причиной смерти или серьезной
-травмы.
-• Правила использования цепей противоскольжения различаются в зависимости
-от местоположения и типа дороги. Всегда проверяйте местные правила перед
-установкой цепей противоскольжения;
-• Обязательно используйте цепи, подходящие для вашего автомобиля. Установка
-цепи повлияет на управляемость автомобиля, ведите машину осторожно.
+> ⚠️ **Внимание:** Соблюдайте следующие меры предосторожности, чтобы снизить риск несчастных
+> случаев. Невыполнение этого требования может привести к невозможности
+> безопасного управления автомобилем и стать причиной смерти или серьезной
+> травмы.
+> • Правила использования цепей противоскольжения различаются в зависимости
+> от местоположения и типа дороги. Всегда проверяйте местные правила перед
+> установкой цепей противоскольжения;
+> • Обязательно используйте цепи, подходящие для вашего автомобиля. Установка
+> цепи повлияет на управляемость автомобиля, ведите машину осторожно.
 
 ### Использование неподходящих цепей или неправильная установка цепей может
-`jetour_dashing_ru_f31d3615` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:29 | doc_type:owners_manual
 привести к аварии и травмам;
 • Пожалуйста, следуйте инструкциям производителя цепей по установке и снятию
 цепей, припаркуйте автомобиль в безопасном месте перед установкой и
@@ -17812,55 +16207,44 @@ OMX65-1030
 15
 
 ### ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_ac76e5dd` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 2-1. Приборный щиток
 Обзор приборной
 
 ### Регулировка рулевого
-`jetour_dashing_ru_75fe430d` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:31 | doc_type:owners_manual
 2-3. Зеркало заднего вида
 
 ### Салонное зеркало
-`jetour_dashing_ru_83787abd` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:31 | doc_type:owners_manual
 Наружное зеркало
 2-4. Система
 стеклоочистителей (при
 наличии)
 
 ### Работа
-`jetour_dashing_ru_cb16aedc` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:31 | doc_type:owners_manual
 стеклоочистителей
 
 ### Работа
-`jetour_dashing_ru_cb16aedc` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:31 | doc_type:owners_manual
 стеклоочистителей
 
 ### Замена щетки
-`jetour_dashing_ru_a4d4661d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:31 | doc_type:owners_manual
 2-5. Система освещения
 
 ### Интеллектуальный
-`jetour_dashing_ru_f2e66adb` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 ассистент фар (HMA)
 
 ### Инструкции по
-`jetour_dashing_ru_44dd651e` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:31 | doc_type:owners_manual
 запотеванию
 2-6. Сиденье
 
 ### Преднатяжитель ремня
-`jetour_dashing_ru_2e459448` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 безопасности (при
 2-8. Система
 безопасности для детей
 
 ### Система безопасности
-`jetour_dashing_ru_6d1d4557` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 Установка
 удерживающей
 системы для ребёнка
 
-`jetour_dashing_ru_b3d613f8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:31 | doc_type:owners_manual
 16
 2. ПОДГОТОВКА К ВОЖДЕНИЮ
 0
@@ -17874,7 +16258,6 @@ OMX65-1030
 8:12
 
 ### HOLD
-`jetour_dashing_ru_4a71e850` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:32 | doc_type:owners_manual
 0.0
 x1000rpm
 E
@@ -17891,7 +16274,6 @@ H
 9
 
 ### Тахометр
-`jetour_dashing_ru_819a8717` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:32 | doc_type:owners_manual
 Часы
 Спидометр
 Режим вождения
@@ -17899,7 +16281,6 @@ H
 положении передачи
 
 ### Указатель
-`jetour_dashing_ru_38b6b102` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:32 | doc_type:owners_manual
 уровня
 топлива
 Пробег за рулем
@@ -17918,7 +16299,6 @@ H
 8
 
 ### OMX65-3012
-`jetour_dashing_ru_c76f7d18` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:32 | doc_type:owners_manual
 17
 2. ПОДГОТОВКА К ВОЖДЕНИЮ
 ПОДГОТОВКА К ВОЖДЕНИЮ
@@ -17926,7 +16306,6 @@ H
 вождении
 
 ### Информация о
-`jetour_dashing_ru_8f063546` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
 положении передачи
 Спидометр
 Тахометр
@@ -17935,36 +16314,28 @@ H
 двигателя
 
 ### Указатель
-`jetour_dashing_ru_be638f5c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
 уровня
 топлива
 Тахометр
 Отображение частоты вращения двигателя (единица измерения: x1 000 об/мин).
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_4ccae808` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
-Не  нажимайте  резко  на  педаль  акселератора,  чтобы  не  допустить  работу
-двигателя на высоких оборотах в период обкатки
+> ⚠️ **Внимание:** Не  нажимайте  резко  на  педаль  акселератора,  чтобы  не  допустить  работу
+> двигателя на высоких оборотах в период обкатки
 
 ### Спидометр
-`jetour_dashing_ru_e5337539` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
 Указывает скорость движения автомобиля (единица измерения: км/ч).
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_4ccae808` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
-На   спидометр   влияет   размер   шин,   используемых   в   автомобиле.   Можно
-использовать только шины оригинального размера (подробности см. в разделе
-«Технические характеристики автомобиляе), в противном случае спидометр не
-будет показывать правильную скорость.
+> ⚠️ **Внимание:** На   спидометр   влияет   размер   шин,   используемых   в   автомобиле.   Можно
+> использовать только шины оригинального размера (подробности см. в разделе
+> «Технические характеристики автомобиляе), в противном случае спидометр не
+> будет показывать правильную скорость.
 
 ### Режим вождения
-`jetour_dashing_ru_b41730ff` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
 Указывает текущий выбранный режим вождения.
 Информация о положении передачи
 Указывает информацию о выбранной в данный момент передаче.
 
 ### Указатель уровня топлива
-`jetour_dashing_ru_cf83c5f5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
 Указывает на остаток топлива в топливном баке.
 Когда показания указателя уровня топлива находятся рядом с буквой E или
 индикатор предупреждения о низком уровне топлива продолжает гореть, это
@@ -17972,64 +16343,55 @@ H
 топливо как можно скорее.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_8051789f` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:33 | doc_type:owners_manual
 Когда автомобиль ускоряется, резко тормозит, резко поворачивает или движется
 по склону, показания указателя уровня топлива могут быть неточными.
 
 ### Пробег за рулем
-`jetour_dashing_ru_20ffebb6` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:33 | doc_type:owners_manual
 Указывает   расчетное   максимальное   расстояние,   которое   можно   проехать   с
 текущим запасом топлива (общая единица измерения: км).
 
 ### Общий пробег
-`jetour_dashing_ru_072289ba` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
 Указывает общий пробег транспортного средства (общая единица измерения: км).
 
 ### Указатель температуры охлаждающей жидкости двигателя
-`jetour_dashing_ru_327f26c2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:33 | doc_type:owners_manual
 Указывает текущую температуру охлаждающей жидкости двигателя.
 Низкотемпературный диапазон: Около C или в области C
 18
 
 ### Когда указатель температуры охлаждающей жидкости двигателя находится около C
-`jetour_dashing_ru_04623fda` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:34 | doc_type:owners_manual
 или в области C, это указывает на низкую температуру охлаждающей жидкости
 двигателя. В этом температурном диапазоне не запускайте двигатель на высоких
 оборотах, и нагрузка на двигатель не должна быть чрезмерной.
 Диапазон перегрева: Около H или в области H
 
 ### Когда указатель температуры охлаждающей жидкости двигателя находится около H
-`jetour_dashing_ru_f27e66ef` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:34 | doc_type:owners_manual
 или в области H, это указывает на высокую температуру охлаждающей жидкости
 двигателя. Остановите автомобиль в безопасном месте вдали от оживленного
 движения, после нескольких минут простоя переведите питание автомобиля в
 режим OFF. Пожалуйста, свяжитесь с авторизованным сервисным центром Jetour
 для проверки и ремонта немедленно.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_61f7c670` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:34 | doc_type:owners_manual
-• Если показания указателя температуры охлаждающей жидкости двигателя
-остаются в диапазоне низких температур в течение длительного времени,
-немедленно обратитесь в авторизованный сервисный центр Jetour для
-проверки и ремонта.
-• Никогда не открывайте бачок охлаждающей жидкости двигателя, если
-показания указателя температуры охлаждающей жидкости двигателя находятся
-в
-диапазоне
-перегрева.
-Проверьте,
-не
-слишком
-ли
-низкий
-уровень
-охлаждающей жидкости после  остывания  двигателя. Никогда не  запускайте
-двигатель при слишком низком уровне охлаждающей жидкости, иначе
-двигатель будет серьезно поврежден.
-Индикатор работы/неисправности
+> ⚠️ **Внимание:** • Если показания указателя температуры охлаждающей жидкости двигателя
+> остаются в диапазоне низких температур в течение длительного времени,
+> немедленно обратитесь в авторизованный сервисный центр Jetour для
+> проверки и ремонта.
+> • Никогда не открывайте бачок охлаждающей жидкости двигателя, если
+> показания указателя температуры охлаждающей жидкости двигателя находятся
+> в
+> диапазоне
+> перегрева.
+> Проверьте,
+> не
+> слишком
+> ли
+> низкий
+> уровень
+> охлаждающей жидкости после  остывания  двигателя. Никогда не  запускайте
+> двигатель при слишком низком уровне охлаждающей жидкости, иначе
+> двигатель будет серьезно поврежден.
+> Индикатор работы/неисправности
 
 ### При включении питания автомобиля некоторые индикаторы неисправностей
-`jetour_dashing_ru_452b3c5f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:34 | doc_type:owners_manual
 загораются
 на короткое
 время,
@@ -18044,12 +16406,10 @@ H
 сервисный центр Jetour для проверки и ремонта.
 
 ### Индикатор работы используется для предупреждения водителя о рабочем
-`jetour_dashing_ru_dbd47c66` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:34 | doc_type:owners_manual
 состоянии определенной системы автомобиля, и соответствующий индикатор
 работы остается включенным.
 
 ### Индикатор
-`jetour_dashing_ru_568f5636` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:34 | doc_type:owners_manual
 неисправности
 используется
 для
@@ -18060,7 +16420,6 @@ H
 индикатор неисправности будет гореть или мигать.
 
 ### Индикатор
-`jetour_dashing_ru_568f5636` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:34 | doc_type:owners_manual
 дневных
 ходовых
 огней
@@ -18068,7 +16427,6 @@ H
 гореть при запуске двигателя.
 
 ### Индикатор
-`jetour_dashing_ru_568f5636` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:34 | doc_type:owners_manual
 габаритных
 огней
 Когда
@@ -18079,7 +16437,6 @@ H
 остается включенным.
 
 ### Индикатор
-`jetour_dashing_ru_568f5636` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:34 | doc_type:owners_manual
 дальнего
 света
 Когда фары дальнего света включены или когда
@@ -18088,7 +16445,6 @@ H
 19
 
 ### Индикатор
-`jetour_dashing_ru_dae31b88` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:35 | doc_type:owners_manual
 указателя
 поворота
 При
@@ -18107,7 +16463,6 @@ H
 одновременно.
 
 ### Индикатор
-`jetour_dashing_ru_dae31b88` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:35 | doc_type:owners_manual
 передней
 противотуманой фары
 При включении передних противотуманных фар
@@ -18115,21 +16470,18 @@ H
 фар.
 
 ### Индикатор
-`jetour_dashing_ru_dae31b88` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:35 | doc_type:owners_manual
 задней
 противотуманой фары
 При   включении   задней   противотуманой   фары,
 индикатор остается включенным.
 
 ### Индикатор
-`jetour_dashing_ru_dae31b88` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:35 | doc_type:owners_manual
 ремня
 безопасности
 Этот индикатор используется для оповещения о том,
 что передний ремень безопасности не пристегнут .
 
 ### Пристегните
-`jetour_dashing_ru_da011391` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:35 | doc_type:owners_manual
 ремень
 безопасности
 и
@@ -18141,7 +16493,6 @@ H
 двери
 
 ### Этот индикатор используется для предупреждения
-`jetour_dashing_ru_bccee177` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:35 | doc_type:owners_manual
 водителя о состоянии открывания и закрывания
 двери
 водителя.
@@ -18165,7 +16516,6 @@ H
 срабатывает звуковая сигнализация открытия двери.
 
 ### Индикатор
-`jetour_dashing_ru_dae31b88` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:35 | doc_type:owners_manual
 неисправности
 электрической
 стояночной
@@ -18173,14 +16523,12 @@ H
 системы
 
 ### Этот индикатор используется для предупреждения
-`jetour_dashing_ru_bccee177` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:35 | doc_type:owners_manual
 водителя о неисправности электрической системы
 стояночного тормоза. Пожалуйста, обратитесь на
 официальную станцию технического обслуживания
 Jetour для проверки и ремонта .
 
 ### Индикатор
-`jetour_dashing_ru_dae31b88` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:35 | doc_type:owners_manual
 системы
 электронного
 стояночного
@@ -18204,7 +16552,6 @@ Jetour для проверки и ремонта немедленно.
 20
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_20b8e40b` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:36 | doc_type:owners_manual
 Неисправность
 тормозной
 системы/
@@ -18215,7 +16562,6 @@ Jetour для проверки и ремонта немедленно.
 жидкости
 
 ### Этот индикатор используется для предупреждения
-`jetour_dashing_ru_427f3833` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:36 | doc_type:owners_manual
 водителя о низком уровне тормозной жидкости или
 неисправности тормозной системы.
 Если уровень тормозной жидкости низкий, долейте
@@ -18240,7 +16586,6 @@ Jetour для проверки и ремонта немедленно.
 тормозной
 системы
 ### Этот индикатор используется для предупреждения
-`jetour_dashing_ru_427f3833` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:36 | doc_type:owners_manual
 водителя
 о
 неисправности
@@ -18250,7 +16595,6 @@ ABS.
 обслуживания
 
 ### Jetour
-`jetour_dashing_ru_78514fbb` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:36 | doc_type:owners_manual
 для
 проверки
 и
@@ -18275,7 +16619,6 @@ ABS.
 обслуживания Jetour для проверки и ремонта.
 
 ### OFF  системы
-`jetour_dashing_ru_05869956` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:36 | doc_type:owners_manual
 электронной
 программы
 стабилизации
@@ -18286,7 +16629,6 @@ ABS.
 стабилизации находится в отключенном состоянии.
 
 ### Индикатор
-`jetour_dashing_ru_0b43512a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 предупреждения
 о
 высокой
@@ -18294,7 +16636,6 @@ ABS.
 охлаждающей жидкости
 
 ### Этот индикатор используется для предупреждения
-`jetour_dashing_ru_427f3833` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:36 | doc_type:owners_manual
 водителя о высокой температуре охлаждающей
 жидкости двигателя. Переместите автомобиль в
 безопасное место и остановитесь, после нескольких
@@ -18304,7 +16645,6 @@ ABS.
 ремонта немедленно.
 
 ### Индикатор
-`jetour_dashing_ru_0b43512a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 бензинового
 сажевого
 фильтра
@@ -18319,14 +16659,12 @@ ABS.
 фильтр
 
 ### (GPF)
-`jetour_dashing_ru_393fe3b1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:36 | doc_type:owners_manual
 заполнен,
 пожалуйста,
 увеличьте скорость и очистите его.
 21
 
 ### Индикатор
-`jetour_dashing_ru_a69369a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 неисправности
 бензинового
 сажевого
@@ -18339,7 +16677,6 @@ ABS.
 Jetour для проверки и ремонта.
 
 ### Индикатор
-`jetour_dashing_ru_a69369a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 предупреждения
 о
 низком
@@ -18351,7 +16688,6 @@ Jetour для проверки и ремонта.
 скорее.
 
 ### Индикатор
-`jetour_dashing_ru_a69369a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:37 | doc_type:owners_manual
 неисправности подушки
 безопасности
 Этот индикатор используется для предупреждения
@@ -18361,7 +16697,6 @@ Jetour для проверки и ремонта.
 ремонта немедленно.
 
 ### Индикатор
-`jetour_dashing_ru_a69369a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 неисправности  системы
 контроля
 давления
@@ -18383,7 +16718,6 @@ Jetour для проверки и ремонта.
 проверки и ремонта.
 
 ### Индикатор
-`jetour_dashing_ru_a69369a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:37 | doc_type:owners_manual
 неисправности  системы
 электроусилителя руля
 Этот индикатор загорается желтым цветом, указывая
@@ -18391,7 +16725,6 @@ Jetour для проверки и ремонта.
 электроусилителем.
 
 ### Перезапустите
-`jetour_dashing_ru_e4a235fc` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:37 | doc_type:owners_manual
 автомобиль.
 Если этот индикатор по-прежнему загорается после
 перезапуска автомобиля, немедленно обратитесь на
@@ -18417,7 +16750,6 @@ Jetour для проверки и ремонта.
 обслуживания
 
 ### Jetour
-`jetour_dashing_ru_bdfbdf01` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 для
 проверки
 и
@@ -18433,7 +16765,6 @@ Jetour для проверки и ремонта.
 двигателе
 
 ### Этот индикатор используется для предупреждения
-`jetour_dashing_ru_c9fbcb85` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 водителя о низком давлении масла в двигателе.
 Припаркуйте
 автомобиль
@@ -18445,7 +16776,6 @@ Jetour для проверки и ремонта.
 ремонта немедленно.
 
 ### Индикатор
-`jetour_dashing_ru_a69369a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:37 | doc_type:owners_manual
 неисправности EPC
 Этот индикатор используется для предупреждения
 водителя
@@ -18459,7 +16789,6 @@ Jetour для проверки и ремонта.
 22
 
 ### Индикатор
-`jetour_dashing_ru_e69ca114` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 неисправности
 двигателя
 Этот индикатор используется для предупреждения
@@ -18468,7 +16797,6 @@ Jetour для проверки и ремонта.
 обслуживания
 
 ### Jetour
-`jetour_dashing_ru_bbbd5f46` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 для
 проверки
 и
@@ -18479,7 +16807,6 @@ Jetour для проверки и ремонта.
 передач
 
 ### Этот индикатор используется для предупреждения
-`jetour_dashing_ru_2f267f44` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 водителя
 о
 неисправности
@@ -18490,7 +16817,6 @@ Jetour для проверки и ремонта.
 проверки и ремонта немедленно.
 
 ### Индикатор
-`jetour_dashing_ru_e69ca114` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 напоминания
 о
 техническом
@@ -18507,21 +16833,18 @@ Jetour для проверки и ремонта.
 проведения технического обслуживания.
 
 ### Индикатор
-`jetour_dashing_ru_e69ca114` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 круизконтроля
 Этот индикатор используется для предупреждения
 водителя о том, что система постоянной скорости
 или адаптивного круиз-контроля включена.
 
 ### Индикатор
-`jetour_dashing_ru_e69ca114` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 дистанции
 следования
 Этот индикатор используется для указания на то, что
 во время круиза зазор следования слишком велик.
 
 ### Индикатор
-`jetour_dashing_ru_e69ca114` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 неисправности системы
 4WD
 Этот индикатор используется для предупреждения
@@ -18530,7 +16853,6 @@ Jetour для проверки и ремонта.
 обслуживания Jetour для проверки и ремонта.
 
 ### Индикатор
-`jetour_dashing_ru_e69ca114` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 работы
 системы
 помощи при
@@ -18545,7 +16867,6 @@ Jetour для проверки и ремонта.
 время находятся в рабочем состоянии.
 
 ### ON
-`jetour_dashing_ru_aefcc73d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:38 | doc_type:owners_manual
 предупреждения
 о
 лобовом
@@ -18556,7 +16877,6 @@ Jetour для проверки и ремонта.
 23
 
 ### Индикатор
-`jetour_dashing_ru_b866a58b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:39 | doc_type:owners_manual
 неисправности
 предупреждения
 о
@@ -18564,7 +16884,6 @@ Jetour для проверки и ремонта.
 столкновении
 
 ### Этот индикатор используется для предупреждения
-`jetour_dashing_ru_77458ed2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:39 | doc_type:owners_manual
 водителя о неисправности системы предупреждения
 о
 лобовом
@@ -18576,7 +16895,6 @@ Jetour для проверки и ремонта.
 обслуживания Jetour для проверки и ремонта.
 
 ### AUTOHOLD
-`jetour_dashing_ru_2271f940` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:39 | doc_type:owners_manual
 индикатор
 Этот
 индикатор
@@ -18604,7 +16922,6 @@ AUTOHOLD включена.
 AUTOHOLD активирована.
 
 ### Индикатор
-`jetour_dashing_ru_b866a58b` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:39 | doc_type:owners_manual
 замедленного
 скольжения
 с
@@ -18621,7 +16938,6 @@ AUTOHOLD активирована.
 2-2. Рулевое колесо
 
 ### Клаксон
-`jetour_dashing_ru_d5e66d7e` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:39 | doc_type:owners_manual
 Чтобы подать звуковой сигнал, нажмите
 на область
 возле
@@ -18629,13 +16945,11 @@ AUTOHOLD активирована.
 сигнала на рулевом колесе.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_4d5fe05e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:39 | doc_type:owners_manual
 Соблюдайте   местные   правила,   касающиеся   использования   автомобильных
 клаксонов.
 24
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_b9d95cbb` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:40 | doc_type:owners_manual
 Кнопки на рулевом колесе (Тип A)
 Ролик
 регулируется
@@ -18648,7 +16962,6 @@ AUTOHOLD активирована.
 мультимедийном дисплее.
 
 ### OMX65-3021
-`jetour_dashing_ru_3cd3b28c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:40 | doc_type:owners_manual
 [Ролик]
 1. Кондиционер (по умолчанию)
 • Поверните ролик вверх: Температура
@@ -18682,7 +16995,6 @@ A/C снижается.
 диапазонов.
 
 ### 3. Режим регулировки зеркала заднего вида.
-`jetour_dashing_ru_a88b6314` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:40 | doc_type:owners_manual
 • Поверните ролик вверх: Левое наружное зеркало заднего вида наклон вверх.
 • Поверните ролик вниз: Левое наружное зеркало заднего вида наклон вниз.
 • Поверните ролик влево: Левое наружное зеркало заднего вида наклон влево.
@@ -18693,12 +17005,10 @@ A/C снижается.
 кнопка круиз-контроля с постоянной скоростью]: Включить/выключить круизконтроля с постоянной скоростью.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_6c02c3a6` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:40 | doc_type:owners_manual
 Подробнее о пользовательской кнопке см. в разделе «Мультимедийный дисплейе.
 25
 
 ### OMX65-3022
-`jetour_dashing_ru_b482082f` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:41 | doc_type:owners_manual
 [Ролик]
 1. Мультимедиа (по умолчанию)
 • Поверните ролик вверх: Увеличивайте
@@ -18712,7 +17022,6 @@ A/C снижается.
 влево:
 
 ### Переключиться
-`jetour_dashing_ru_7e28a559` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 на
 предыдущую
 станцию/предыдущую песню.
@@ -18721,14 +17030,12 @@ A/C снижается.
 вправо:
 
 ### Переключиться
-`jetour_dashing_ru_7e28a559` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 на
 следующую
 станцию/следующую песню.
 • Нажмите ролик. Беззвучный режим
 
 ### ON/OFF
-`jetour_dashing_ru_cb6688ad` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:41 | doc_type:owners_manual
 (воспроизведение/пауза);
 Когда
 выполняется
@@ -18746,7 +17053,6 @@ A/C снижается.
 повесить трубку.
 
 ### 2. Режим регулировки зеркала заднего вида.
-`jetour_dashing_ru_114c2e48` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:41 | doc_type:owners_manual
 • Поверните ролик вверх: Правое наружное зеркало заднего вида наклон вверх.
 • Поверните ролик вниз: Правое наружное зеркало заднего вида наклон вниз.
 • Поверните ролик влево: Правое наружное зеркало заднего вида наклон влево.
@@ -18769,7 +17075,6 @@ A/C снижается.
 26
 
 ### OMX65-3024
-`jetour_dashing_ru_703eb8fc` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 ■Ролик
 1. Круиз-контроль
 • Когда адаптивная система круизконтроля
@@ -18803,7 +17108,6 @@ A/C снижается.
 соответствии с текущей скоростью;
 
 ### Адаптивная
-`jetour_dashing_ru_3fb7c0a4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:42 | doc_type:owners_manual
 система
 круизконтроля
 находится
@@ -18858,13 +17162,11 @@ TJA, и долго нажмите ролик, чтобы
 переключиться между ACC и TJA.
 
 ### 2. Режим регулировки зеркала заднего вида.
-`jetour_dashing_ru_20fe1a8b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:42 | doc_type:owners_manual
 • Поверните ролик вверх: Левое наружное зеркало заднего вида наклон вверх.
 • Поверните ролик вниз: Правое наружное зеркало заднего вида наклон вниз.
 27
 
 ### ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_ed8d75f2` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:43 | doc_type:owners_manual
 • Поверните ролик влево: Правое наружное зеркало заднего вида наклон влево.
 • Поверните  ролик  вправо:  Правое  наружное  зеркало  заднего  вида  наклон
 вправо.
@@ -18888,7 +17190,6 @@ TJA, и долго нажмите ролик, чтобы
 рулевого колеса
 
 ### OMX65-3025
-`jetour_dashing_ru_7b3898b5` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:43 | doc_type:owners_manual
 ■Ролик
 1. Мультимедиа (по умолчанию)
 • Поверните
@@ -18907,7 +17208,6 @@ TJA, и долго нажмите ролик, чтобы
 влево:
 
 ### Переключитесь
-`jetour_dashing_ru_11818b26` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:43 | doc_type:owners_manual
 на
 предыдущую
 песню.
@@ -18922,7 +17222,6 @@ TJA, и долго нажмите ролик, чтобы
 выключение звука.
 
 ### 2. Режим регулировки зеркала заднего вида.
-`jetour_dashing_ru_adaf736d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:43 | doc_type:owners_manual
 • Поверните ролик вверх: Правое наружное зеркало заднего вида наклон вверх.
 • Поверните ролик вниз: Правое наружное зеркало заднего вида наклон вниз.
 • Поверните ролик влево: Правое наружное зеркало заднего вида наклон влево.
@@ -18937,12 +17236,10 @@ TJA, и долго нажмите ролик, чтобы
 28
 
 ### В связи с различными конфигурациями функции кнопок на рулевом колесе
-`jetour_dashing_ru_d3571561` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:44 | doc_type:owners_manual
 приведены только для справки, ориентируйтесь на характеристики вашего
 автомобиля.
 
 ### Остановите автомобиль в безопасном
-`jetour_dashing_ru_5cd5221b` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:44 | doc_type:owners_manual
 месте, переведите питание автомобиля
 в режим OFF:
 Шаг 1: Нажмите на регулировочный
@@ -18959,7 +17256,6 @@ TJA, и долго нажмите ролик, чтобы
 описанные в шаге 3, при встряхивании.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_9f399aa5` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:44 | doc_type:owners_manual
 • Не настраивайте рулевое колесо во время вождения, так как это может
 привести к неправильному управлению автомобилем и аварии, что может
 привести к смерти или травмам.
@@ -18969,12 +17265,10 @@ TJA, и долго нажмите ролик, чтобы
 зафиксировано.
 
 ### В противном случае рулевое колесо может неожиданно
-`jetour_dashing_ru_64217898` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:44 | doc_type:owners_manual
 сместиться во время вождения, что приведет к ненужным травмам и потерям.
 2-3. Зеркало заднего вида
 
 ### Перед началом движения установите
-`jetour_dashing_ru_59e7c85b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:44 | doc_type:owners_manual
 внутреннее зеркало заднего вида в
 правильное
 положение,
@@ -18988,7 +17282,6 @@ TJA, и долго нажмите ролик, чтобы
 обзор.
 
 ### Вручную
-`jetour_dashing_ru_9ef44622` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:44 | doc_type:owners_manual
 установите
 внутреннее
 зеркало
@@ -18999,14 +17292,12 @@ TJA, и долго нажмите ролик, чтобы
 положение.
 
 ### OMX65-3030
-`jetour_dashing_ru_43a002c2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:44 | doc_type:owners_manual
 29
 2. ПОДГОТОВКА К ВОЖДЕНИЮ
 ПОДГОТОВКА К ВОЖДЕНИЮ
 Ручная антибликовая функция
 
 ### Ночной режим
-`jetour_dashing_ru_6c463ee6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:45 | doc_type:owners_manual
 2
 1
 Дневной режим
@@ -19030,22 +17321,18 @@ TJA, и долго нажмите ролик, чтобы
 угол наклона зеркала заднего вида.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_d8a1e06b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 Не регулируйте внутреннее зеркало заднего вида во время движения, это может
 привести к несчастным случаям и травмам.
 
 ### Наружное зеркало заднего вида
-`jetour_dashing_ru_d151e0c8` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 Регулировка наружного зеркала заднего вида (при наличии)
 
 ### Выберите наружное зеркало заднего
-`jetour_dashing_ru_a8c7a4ec` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 вида через [Мое приложение] → [-
 Управление автомобилем] → [Общий]
 на мультимедийном дисплее.
 
 ### Наружное
-`jetour_dashing_ru_d023b571` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 зеркало
 заднего
 вида:
@@ -19055,7 +17342,6 @@ OFF / водительское / пассажирское /
 обе стороны.
 
 ### OMX65-4166
-`jetour_dashing_ru_7de26c53` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:45 | doc_type:owners_manual
 запирании автомобиля: ВКЛ./ВЫКЛ.
 Примечание:    На    экране    настройки
 зеркал
@@ -19071,19 +17357,16 @@ OFF / водительское / пассажирское /
 вида.
 
 ### Регулировка
-`jetour_dashing_ru_7c33234d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:45 | doc_type:owners_manual
 зеркал заднего вида прекращается при
 выходе с этого окна.
 
 ### Отрегулируйте
-`jetour_dashing_ru_750daeff` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:45 | doc_type:owners_manual
 положение
 зеркала
 заднего вида как требуется, сохраните
 память в соответствующем положении.
 
 ### Настройка
-`jetour_dashing_ru_fd962fe7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:45 | doc_type:owners_manual
 положения
 зеркал
 при
@@ -19091,13 +17374,11 @@ OFF / водительское / пассажирское /
 меню при включении задней передачи.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_8a5529ce` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:45 | doc_type:owners_manual
 Подробнее о кнопке регулировки угла наклона зеркала заднего вида см. в разделе
 «Рулевое колесое.
 30
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_1e8e0cc0` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 • Не регулируйте наружное зеркало заднего вида во время движения, это может
 привести к несчастным случаям и травмам.
 • Не управляйте автомобилем со сложенным наружным зеркалом заднего вида.
@@ -19117,7 +17398,6 @@ OFF / водительское / пассажирское /
 отличаться от реального, поэтому всегда ведите машину осторожно.
 
 ### Остановите автомобиль в безопасном
-`jetour_dashing_ru_6c3a361b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:46 | doc_type:owners_manual
 месте
 вдали
 от
@@ -19129,19 +17409,16 @@ OFF / водительское / пассажирское /
 автомобиля в режим ON.
 
 ### Выберите наружное зеркало заднего
-`jetour_dashing_ru_b1f6e60f` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 вида через [Мое приложение] → [-
 Управление автомобиля] → [Сервис] на
 мультимедийном
 дисплее.
 
 ### Управлять
-`jetour_dashing_ru_14ebf11c` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:46 | doc_type:owners_manual
 роликом на рулевом колесе, чтобы
 отрегулировать  соответствующий  угол
 
 ### OMX65-3034
-`jetour_dashing_ru_a316d193` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:46 | doc_type:owners_manual
 наружного зеркала заднего вида.
 Управляйте с помощью ключа: При
 отключении
@@ -19153,7 +17430,6 @@ OFF / водительское / пассажирское /
 складывается/выдвигается.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_f67bf4ed` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:46 | doc_type:owners_manual
 • Если скорость автомобиля превышает 10 км/ч, наружные зеркала заднего вида
 с электроприводом не
 смогут
@@ -19165,7 +17441,6 @@ OFF / водительское / пассажирское /
 дисплее.
 
 ### Подробнее
-`jetour_dashing_ru_573a80ba` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:46 | doc_type:owners_manual
 см.
 в
 разделе
@@ -19184,17 +17459,14 @@ OFF / водительское / пассажирское /
 Обогрев зеркала заднего вида (при наличии)
 
 ### При включении обогрева заднего ветрового стекла включите обогрев наружных
-`jetour_dashing_ru_eb00fb03` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:46 | doc_type:owners_manual
 зеркал. Нагрев длится 15 минут, а затем автоматически останавливается.
 31
 
 ### ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_1c4bee3b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 2-4. Система стеклоочистителей (при наличии)
 Работа стеклоочистителей (тип А)
 
 ### Комбинированный
-`jetour_dashing_ru_f0bfa25d` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:47 | doc_type:owners_manual
 переключатель
 стеклоочистителей
 расположен
@@ -19202,7 +17474,6 @@ OFF / водительское / пассажирское /
 левой стороне рулевой колонки.
 
 ### ON,
-`jetour_dashing_ru_76301ac1` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 поверните
 переключатель
 стеклоочистителей:
@@ -19211,7 +17482,6 @@ OFF / водительское / пассажирское /
 :
 
 ### Стеклоочиститель
-`jetour_dashing_ru_b68a1bbf` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 работает
 OMX65-3040
 Работа переднего омывателя
@@ -19230,7 +17500,6 @@ AUTO: В режиме AUTO датчик дождя
 автоматически.
 
 ### MIST:
-`jetour_dashing_ru_bb909c52` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:47 | doc_type:owners_manual
 1
 цикл
 очистки
@@ -19263,7 +17532,6 @@ ON, нажмите и удерживайте левую
 32
 
 ### Работа заднего омывателя
-`jetour_dashing_ru_671a7d25` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:48 | doc_type:owners_manual
 1
 2
 OMX65-3043
@@ -19271,7 +17539,6 @@ OMX65-3043
 ON:
 
 ### При повороте ролика
-`jetour_dashing_ru_d8e91961` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 заднего
 стеклоочистителя
 вверх
@@ -19291,7 +17558,6 @@ ON:
 выключаются
 
 ### При повороте ролика
-`jetour_dashing_ru_d8e91961` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 стеклоочистителя
 вниз
 работает
@@ -19303,13 +17569,11 @@ ON:
 стеклоочиститель  останавливается.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_1f60986a` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:48 | doc_type:owners_manual
 Некоторые  модели  не  оснащены  задним  стеклоочистителем,  см.  фактическую
 конфигурацию автомобиля.
 Работа стеклоочистителей (тип В)
 
 ### Комбинированный
-`jetour_dashing_ru_f2ea0e30` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:48 | doc_type:owners_manual
 переключатель
 MIST
 OFF
@@ -19321,7 +17585,6 @@ OMX65-3110
 правой стороне рулевой колонки.
 
 ### ON,
-`jetour_dashing_ru_ab770e57` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 переместите
 переключатель
 стеклоочистителей:
@@ -19345,7 +17608,6 @@ LO: Очистка на низкой скорости.
 HI: Высокая скорость очистки.
 
 ### Выключить
-`jetour_dashing_ru_6ae9926e` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 стеклоочиститель
 и
 стиральную машину.
@@ -19354,14 +17616,12 @@ HI: Высокая скорость очистки.
 1
 
 ### Снизить чувствительность
-`jetour_dashing_ru_68da4fe3` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 стеклоочистителей
 Увеличить чувствительность
 стеклоочистителей
 2
 
 ### OMX65-3111
-`jetour_dashing_ru_6bf34cd1` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:48 | doc_type:owners_manual
 33
 2. ПОДГОТОВКА К ВОЖДЕНИЮ
 ПОДГОТОВКА К ВОЖДЕНИЮ
@@ -19375,22 +17635,19 @@ HI: Высокая скорость очистки.
 можно скорее обратитесь на авторизованный сервисный центр Jetour для
 проверки и ремонта.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_25e893ca` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:49 | doc_type:owners_manual
-• Не включайте стеклоочиститель, когда ветровое стекло сухое, так как это может
-повредить щетку стеклоочистителя и поцарапать ветровое стекло.
-• Не включайте стеклоочистители, если на ветровом стекле есть препятствия, так
-как это может поцарапать ветровое стекло и повредить электродвигатель
-стеклоочистителя.
-• В холодную зиму всегда проверяйте, не примерзла ли щетка стеклоочистителя к
-ветровому стеклу, прежде чем пользоваться стеклоочистителями. Если это так,
-разморозьте его перед использованием, иначе это может привести к
-повреждению щетки стеклоочистителя и электродвигателя стеклоочистителя.
-• Не используйте огонь или горячую воду, чтобы растопить замерзшее стекло,
-иначе стекло лопнет.
+> ⚠️ **Внимание:** • Не включайте стеклоочиститель, когда ветровое стекло сухое, так как это может
+> повредить щетку стеклоочистителя и поцарапать ветровое стекло.
+> • Не включайте стеклоочистители, если на ветровом стекле есть препятствия, так
+> как это может поцарапать ветровое стекло и повредить электродвигатель
+> стеклоочистителя.
+> • В холодную зиму всегда проверяйте, не примерзла ли щетка стеклоочистителя к
+> ветровому стеклу, прежде чем пользоваться стеклоочистителями. Если это так,
+> разморозьте его перед использованием, иначе это может привести к
+> повреждению щетки стеклоочистителя и электродвигателя стеклоочистителя.
+> • Не используйте огонь или горячую воду, чтобы растопить замерзшее стекло,
+> иначе стекло лопнет.
 
 ### ON,
-`jetour_dashing_ru_816d457d` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:49 | doc_type:owners_manual
 потяните
 и
 удерживайте
@@ -19403,7 +17660,6 @@ HI: Высокая скорость очистки.
 разбрызгивает     воду,     и     передний
 
 ### OMX65-3112
-`jetour_dashing_ru_3933fa97` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:49 | doc_type:owners_manual
 стеклоочиститель
 работает
 одновременно.
@@ -19419,7 +17675,6 @@ HI: Высокая скорость очистки.
 34
 
 ### Работа заднего омывателя
-`jetour_dashing_ru_fcfba05d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 1
 2
 3
@@ -19428,7 +17683,6 @@ OMX65-3113
 Включите питание автомобиля в режим
 
 ### Включите стеклоочиститель
-`jetour_dashing_ru_3ace38cf` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:50 | doc_type:owners_manual
 и омыватель заднего стекла. Это
 приложение
 не
@@ -19437,44 +17691,39 @@ OMX65-3113
 автоматически вернется в положение
 
 ### Постоянная работа
-`jetour_dashing_ru_763dda0b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:50 | doc_type:owners_manual
 стеклоочистителя. Выключите
 стеклоочиститель
 и омыватель заднего стекла.
 
 ### Включите стеклоочиститель
-`jetour_dashing_ru_3ace38cf` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:50 | doc_type:owners_manual
 и омыватель заднего стекла. Это не
 фиксированное
 положение,
 автоматически вернется в положение
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_5a445477` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:50 | doc_type:owners_manual
-• При переключении стеклоочистителя на распыление воды не превышайте 10
-секунд за один раз.
-• Не используйте переключатель стеклоочистителей, если в бачке нет жидкости
-для омывания.
-• Антифриз
-разъедает
-любую
-окрашенную
-поверхность,
-поэтому
-будьте
-осторожны при добавлении омывающей жидкости.
-• Не пытайтесь очистить сопло булавкой или другими предметами,  если оно
-заблокировано, иначе оно может быть повреждено.
-• Не смешивайте воду с омывателем. Вода может привести к замерзанию
-раствора и повреждению бачка и других частей системы мойки.
-• Когда омывающей жидкости недостаточно, доливайте ее вовремя. В холодную
-погоду следует доливать подходящую омывающую жидкость, чтобы омывающая
-жидкость не замерзала. В противном случае не только функция омывания будет
-потеряна, но и связанные с ней детали замерзнут.
-35
+> ⚠️ **Внимание:** • При переключении стеклоочистителя на распыление воды не превышайте 10
+> секунд за один раз.
+> • Не используйте переключатель стеклоочистителей, если в бачке нет жидкости
+> для омывания.
+> • Антифриз
+> разъедает
+> любую
+> окрашенную
+> поверхность,
+> поэтому
+> будьте
+> осторожны при добавлении омывающей жидкости.
+> • Не пытайтесь очистить сопло булавкой или другими предметами,  если оно
+> заблокировано, иначе оно может быть повреждено.
+> • Не смешивайте воду с омывателем. Вода может привести к замерзанию
+> раствора и повреждению бачка и других частей системы мойки.
+> • Когда омывающей жидкости недостаточно, доливайте ее вовремя. В холодную
+> погоду следует доливать подходящую омывающую жидкость, чтобы омывающая
+> жидкость не замерзала. В противном случае не только функция омывания будет
+> потеряна, но и связанные с ней детали замерзнут.
+> 35
 
 ### Замена щетки переднего стеклоочистителя
-`jetour_dashing_ru_7c4a5516` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 Шаг 1: Включите питание автомобиля в
 режим ON и включите режим замены
 щеток стеклоочистителей через [Мое
@@ -19493,7 +17742,6 @@ OMX65-3113
 Шаг         3:         Поднимите         щетки
 
 ### OMX65-3044
-`jetour_dashing_ru_f23c7ebf` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 стеклоочистителей,
 одновременно
 нажимая
@@ -19505,7 +17753,6 @@ OMX65-3113
 4:
 
 ### Установите
-`jetour_dashing_ru_91b4834d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 новые
 щетки
 стеклоочистителя в обратном порядке и
@@ -19521,7 +17768,6 @@ OMX65-3113
 стеклоочистители работают правильно.
 
 ### Замена щетки заднего стеклоочистителя
-`jetour_dashing_ru_92405efd` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 Шаг
 1:
 Поднимите
@@ -19532,7 +17778,6 @@ OMX65-3113
 2:
 
 ### Отделите
-`jetour_dashing_ru_9c5644f8` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 щетку
 стеклоочистителя
 вручную,
@@ -19542,7 +17787,6 @@ OMX65-3113
 3:
 
 ### Установите
-`jetour_dashing_ru_91b4834d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 новые
 щетки
 стеклоочистителя в обратном порядке,
@@ -19555,28 +17799,23 @@ OMX65-3113
 работает задний стеклоочиститель.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_6be26bd8` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
 • Когда  выключает  питание  автомобиля  в  режим  OFF,  стеклоочиститель
 автоматически возвращается в рабочее положение.
 • Рекомендуется  поручить  замену  щеток  стеклоочистителя  на  авторизованной
 станции обслуживания Jetour, чтобы обеспечить правильную установку.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_f035d02d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:51 | doc_type:owners_manual
-Перед началом движения убедитесь, что рычаг стеклоочистителя возвращается в
-исходное положение. В противном случае это может повредить автомобиль и
-стать причиной аварии.
-36
+> ⚠️ **Внимание:** Перед началом движения убедитесь, что рычаг стеклоочистителя возвращается в
+> исходное положение. В противном случае это может повредить автомобиль и
+> стать причиной аварии.
+> 36
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_a5e6299b` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:52 | doc_type:owners_manual
 2-5. Система освещения
 Наружное освещение (тип А)
 Системой наружного освещения можно  управлять с  помощью мультимедийного
 дисплея и голоса.
 
 ### OMX65-4169
-`jetour_dashing_ru_824a415f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 ■Настройка освещения (при наличии)
 Через
 [Мое
@@ -19585,7 +17824,6 @@ OMX65-3113
 [-
 
 ### Управление
-`jetour_dashing_ru_821a8b5f` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:52 | doc_type:owners_manual
 автомобилем]
 →
 [-
@@ -19602,7 +17840,6 @@ AUTO  (при  наличии):  Автоматическое
 :
 
 ### Включите
-`jetour_dashing_ru_04cd2655` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:52 | doc_type:owners_manual
 ближний
 свет
 и
@@ -19625,7 +17862,6 @@ AUTO  (при  наличии):  Автоматическое
 37
 
 ### ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_e28fbb60` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:53 | doc_type:owners_manual
 Функция «Следуй за мной домойе
 OMX65-3059
 ON: Переведите питание автомобиля в
@@ -19640,7 +17876,6 @@ ON: Переведите питание автомобиля в
 домае.
 
 ### Загорятся
-`jetour_dashing_ru_7640c2dd` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:53 | doc_type:owners_manual
 фары
 ближнего света и габаритные фары.
 При
@@ -19666,13 +17901,11 @@ OFF: Включите питание автомобиля или потянит�
 выключаются.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_abaabde7` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:53 | doc_type:owners_manual
 Если    трансмиссия    автомобиля    не    переключается    на    рулевую    колонку,
 переместите комбинированный переключатель фар, чтобы использовать функцию
 «Сопровождения светом до домае.
 
 ### Включите
-`jetour_dashing_ru_a3e6777b` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:53 | doc_type:owners_manual
 питание
 автомобиля
 в
@@ -19688,13 +17921,11 @@ OFF: Включите питание автомобиля или потянит�
 свет;
 
 ### Потяните
-`jetour_dashing_ru_e9a6ba35` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:53 | doc_type:owners_manual
 комбинированный переключатель фар в
 сторону рулевого колеса и отпустите,
 чтобы выключить дальний свет.
 
 ### Переведите
-`jetour_dashing_ru_316a3ad7` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:53 | doc_type:owners_manual
 комбинированный
 переключатель
 стеклоочистителя
@@ -19709,7 +17940,6 @@ OFF: Включите питание автомобиля или потянит�
 света.
 
 ### В
-`jetour_dashing_ru_19e7119c` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:53 | doc_type:owners_manual
 то
 же
 время
@@ -19721,14 +17951,12 @@ OFF: Включите питание автомобиля или потянит�
 комбинации приборов мигает один раз.
 
 ### OMX65-3052
-`jetour_dashing_ru_8643b7cf` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:53 | doc_type:owners_manual
 38
 2. ПОДГОТОВКА К ВОЖДЕНИЮ
 ПРОЧИТАЙТЕ
 Вы можете мигать дальним светом при включении/выключении ближнего света.
 
 ### Поверните
-`jetour_dashing_ru_e5ef15c7` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:54 | doc_type:owners_manual
 комбинированный
 переключатель стеклоочистителя вверх,
 и таким образом загорится правый
@@ -19736,7 +17964,6 @@ OFF: Включите питание автомобиля или потянит�
 поворота;
 
 ### Поверните
-`jetour_dashing_ru_e5ef15c7` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:54 | doc_type:owners_manual
 комбинированный
 переключатель
 стеклоочистителей
@@ -19745,12 +17972,10 @@ OFF: Включите питание автомобиля или потянит�
 левый указатель поворота.
 
 ### OMX65-3053
-`jetour_dashing_ru_67680c8d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:54 | doc_type:owners_manual
 Наружное освещение (тип B)
 Комбинированный переключатель фар
 
 ### Включите питание автомобиля в режим
-`jetour_dashing_ru_1d9b7924` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:54 | doc_type:owners_manual
 4
 3
 2
@@ -19774,11 +17999,9 @@ AUTO (при наличии): Автоматическое
 номерного знака и задние фонари.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_dfd72739` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:54 | doc_type:owners_manual
 Вы можете мигать дальним светом при включении/выключении ближнего света.
 
 ### При включении питания автомобиля в
-`jetour_dashing_ru_1342d03e` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:54 | doc_type:owners_manual
 режим ON и включении ближнего света
 переместите рычаг в « е один раз,
 чтобы
@@ -19789,7 +18012,6 @@ AUTO (при наличии): Автоматическое
 задний противотуманный фонарь.
 
 ### OMX65-3154
-`jetour_dashing_ru_2f7b15db` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:54 | doc_type:owners_manual
 39
 2. ПОДГОТОВКА К ВОЖДЕНИЮ
 ПОДГОТОВКА К ВОЖДЕНИЮ
@@ -19803,19 +18025,16 @@ AUTO (при наличии): Автоматическое
 Подсветка при открытии двери (при наличии)
 
 ### Если нажмите на снятие с охраны на автомобиле и открытии двери автоматически
-`jetour_dashing_ru_dc6af54e` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:55 | doc_type:owners_manual
 загорается подсветка ; Когда охранная система будет снова включена, свет
 немедленно погаснет.
 
 ### Дневные ходовые огни
-`jetour_dashing_ru_94c7175d` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:55 | doc_type:owners_manual
 При  запуске  двигателя  дневные  ходовые  огни  включаются  автоматически;  при
 включении ближнего света дневные ходовые огни автоматически выключаются.
 Стоп-сигнал
 Нажмите на педаль тормоза, загорятся стоп-сигнал и верхний стоп-сигнал.
 
 ### Фонарь заднего хода
-`jetour_dashing_ru_437d5cf2` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:55 | doc_type:owners_manual
 При запуске автомобиля, переведите рычаг переключения в положение R, и таким
 образом включится фонарь заднего хода.
 Фары подсветки поворотов (при наличии)
@@ -19828,7 +18047,6 @@ AUTO (при наличии): Автоматическое
 левый/правый подсветка.
 
 ### Передний свет
-`jetour_dashing_ru_1d970a4f` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:55 | doc_type:owners_manual
 Нажмите кнопку переднего плафона,
 он включится.
 Нажмите кнопку управления дверью,
@@ -19841,7 +18059,6 @@ AUTO (при наличии): Автоматическое
 2
 
 ### OMX65-3056
-`jetour_dashing_ru_111de84e` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:55 | doc_type:owners_manual
 40
 2. ПОДГОТОВКА К ВОЖДЕНИЮ
 ПРОЧИТАЙТЕ
@@ -19862,7 +18079,6 @@ ON, и передний плафон немедленно гаснет; при �
 минут.
 
 ### Нажмите
-`jetour_dashing_ru_bc6685a0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 переключатель
 заднего
 плафона, загорится задний плафон.
@@ -19870,21 +18086,18 @@ ON, и передний плафон немедленно гаснет; при �
 плафон гаснет.
 
 ### OMX65-3058
-`jetour_dashing_ru_85fc527a` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:56 | doc_type:owners_manual
 Подсветка косметического зеркала (при наличии)
 Откройте крышку косметического зеркала, и загорится подсветка косметического
 зеркала; Закройте крышку косметического зеркала, и подсветка косметического
 зеркала погаснет.
 
 ### Освещение багажного отделения
-`jetour_dashing_ru_ee03b262` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:56 | doc_type:owners_manual
 Когда багажное отделение остается открытым, освещение багажного отделения
 включается на 3 минут. Когда багажное отделение закрытым, освещение багажного
 отделения гаснет немедленно.
 Интеллектуальный ассистент фар (HMA) (при наличии)
 
 ### Активируется интеллектуальный ассистент фар
-`jetour_dashing_ru_b0566340` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:56 | doc_type:owners_manual
 Включите питание автомобиля в режим ON, включите/выключите интеллектуальный
 ассистент фар через [Мое приложение] → [Управление автомобилем] → [Наружное
 освещение],  нажмите,  чтобы  включить  AUTO  (автоматическое  освещение  фар),«
@@ -19900,7 +18113,6 @@ ON, и передний плафон немедленно гаснет; при �
 41
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_f6273db3` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:57 | doc_type:owners_manual
 • Когда   скорость   автомобиля   ниже   30   км/ч,   функция   интеллектуального
 ассистента фар автоматически выключает дальний свет фар.
 • Когда  окружающая  яркость   слишком  высока,  функция  интеллектуального
@@ -19913,7 +18125,6 @@ ON, и передний плафон немедленно гаснет; при �
 дальний свет фар автоматически выключается.
 
 ### Инструкции по запотеванию источников света
-`jetour_dashing_ru_8a16beb5` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:57 | doc_type:owners_manual
 В холодную или влажную погоду внутренняя сторона фонарей запотевает из-за
 разницы температур внутри и снаружи. После включения света туман внутри
 фонаря постепенно исчезнет, но по краям фонаря еще может оставаться немного
@@ -19923,7 +18134,6 @@ ON, и передний плафон немедленно гаснет; при �
 света. Это нормально.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_b3234aed` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:57 | doc_type:owners_manual
 • Следуйте рекомендациям при движении по воде (например, глубина воды,
 скорость и т.д.), чтобы избежать попадания воды на фары.
 • После открытия пылезащитной крышки светильника установите ее на место в
@@ -19954,7 +18164,6 @@ ON, и передний плафон немедленно гаснет; при �
 управления водителем.
 
 ### Наиболее эффективными защитными мерами при вождении автомобиля являются
-`jetour_dashing_ru_629e9738` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 поддержание спинки сиденья в вертикальном положении, постоянное удержание
 тела на спинке сиденья и регулировка ремня
 безопасности в правильном
@@ -19962,24 +18171,20 @@ ON, и передний плафон немедленно гаснет; при �
 42
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_d1aa7885` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 Закрепите  багаж  должным  образом,  чтобы  предотвратить  его  скольжение  или
 перемещение. Не размещайте багаж выше спинки сиденья.
 
 ### Правильное положение сидя
-`jetour_dashing_ru_619a434a` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:58 | doc_type:owners_manual
 Сиденья, подголовники, ремни безопасности и подушки безопасности помогают
 защитить пассажиров. Их правильное использование обеспечит вам большую
 защиту.
 
 ### OMX65-3060
-`jetour_dashing_ru_c95d444e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 Сидя, сидите с небольшим наклоном
 назад (в  идеале 25°  назад)  и хорошо
 прижавшись к спинке сиденья.
 
 ### Передние
-`jetour_dashing_ru_af6dbf32` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 сиденья
 не
 должны
@@ -19998,7 +18203,6 @@ ON, и передний плафон немедленно гаснет; при �
 педаль.
 
 ### Правильно
-`jetour_dashing_ru_13c15be6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 отрегулируйте
 подголовники,
 чтобы
@@ -20008,27 +18212,23 @@ ON, и передний плафон немедленно гаснет; при �
 макушке головы.
 
 ### Плечевой ремень должен проходить
-`jetour_dashing_ru_29a18777` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:58 | doc_type:owners_manual
 через центр плеча и близко к груди,
 подальше от шеи, поясной ремень
 должен располагаться как можно ниже
 на бедрах.
 
 ### OMX65-3061
-`jetour_dashing_ru_7ed457c5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 43
 2. ПОДГОТОВКА К ВОЖДЕНИЮ
 ПОДГОТОВКА К ВОЖДЕНИЮ
 Подголовник
 
 ### Регулировка
-`jetour_dashing_ru_1bf68527` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 подголовника
 вверх:
 Потяните его прямо на нужную высоту.
 
 ### Регулировка
-`jetour_dashing_ru_1bf68527` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 подголовника
 вниз:
 Нажмите    кнопку    разблокировки    на
@@ -20039,7 +18239,6 @@ ON, и передний плафон немедленно гаснет; при �
 отрегулируйте подголовник вниз.
 
 ### Снятие
-`jetour_dashing_ru_a533ba8a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 подголовника:
 Нажмите
 и
@@ -20047,7 +18246,6 @@ ON, и передний плафон немедленно гаснет; при �
 одновременно,   пока   они   не   будут
 
 ### OMX65-3062
-`jetour_dashing_ru_94e82e2d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 разблокированы,
 затем
 поднимите
@@ -20058,7 +18256,6 @@ ON, и передний плафон немедленно гаснет; при �
 вытащите его.
 
 ### Установка
-`jetour_dashing_ru_05c96c6b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 подголовника:
 Совместите
 подголовник
@@ -20068,14 +18265,12 @@ ON, и передний плафон немедленно гаснет; при �
 зафиксировать положение.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_90e33cca` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 • Не  регулируйте  подголовник  во  время  вождения,  это  может  привести  к
 несчастным случаям и травмам.
 • Перед началом движения убедитесь, что подголовник надежно закреплен, иначе
 это может привести к несчастным случаям и травмам.
 
 ### Потяните
-`jetour_dashing_ru_23a444c8` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:59 | doc_type:owners_manual
 ручку
 вверх
 и
@@ -20097,13 +18292,11 @@ ON, и передний плафон немедленно гаснет; при �
 оно надежно зафиксировано.
 
 ### OMX65-3063
-`jetour_dashing_ru_ab409617` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 Регулировка высоты сиденья (только со стороны водителя)
 Потяните вверх и нажмите на рычаг регулировки сиденья, чтобы отрегулировать
 высоту сиденья.
 
 ### Регулировка спинки сиденья
-`jetour_dashing_ru_61195d6e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:59 | doc_type:owners_manual
 Прислонитесь всем телом к спинке сиденья, а затем потяните рычаг регулировки
 спинки сиденья вверх. Отрегулируйте спинку сиденья под нужным углом, изменив
 угол наклона вашего тела, и отпустите рычаг. После этого приложите усилие назад к
@@ -20111,7 +18304,6 @@ ON, и передний плафон немедленно гаснет; при �
 44
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_d2a16d8e` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:60 | doc_type:owners_manual
 Сиденье с электрическим приводом регулировки (при наличии)
 ■Регулировка сиденья водителя с электрическим приводом регулировки
 3
@@ -20119,7 +18311,6 @@ ON, и передний плафон немедленно гаснет; при �
 1
 
 ### OMX65-3100
-`jetour_dashing_ru_9710fb86` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 Регулировка положения сиденья:
 Двигайте    кнопку    вперед    и    назад
 параллельно,
@@ -20128,19 +18319,16 @@ ON, и передний плафон немедленно гаснет; при �
 позиция сиденья.
 
 ### Переместите   задний   конец   кнопки
-`jetour_dashing_ru_70141bea` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:60 | doc_type:owners_manual
 вверх  и  вниз,  чтобы  отрегулировать
 сиденье вверх и вниз.
 
 ### Переместите   верхний   конец   кнопки
-`jetour_dashing_ru_752fd830` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:60 | doc_type:owners_manual
 вперед и назад, чтобы отрегулировать
 угол наклона спинки сиденья.
 ■Регулировка поясничной опоры водителя с электрическим приводом регулировки
 (при наличии)
 
 ### OMX65-3065
-`jetour_dashing_ru_6179034a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 Нажмите и удерживайте  « е,  чтобы
 поддержать
 верхнюю
@@ -20161,7 +18349,6 @@ ON, и передний плафон немедленно гаснет; при �
 ■
 
 ### Регулировка   сиденья   переднего   пассажира   с   электрическим   приводом
-`jetour_dashing_ru_bd759510` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:60 | doc_type:owners_manual
 регулировки
 Регулировка положения сиденья:
 Двигайте    кнопку    вперед    и    назад
@@ -20172,21 +18359,18 @@ ON, и передний плафон немедленно гаснет; при �
 позиция сиденья.
 
 ### Регулировка спинки сиденья
-`jetour_dashing_ru_8c36ba7c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 1
 Переместите верхний конец кнопки
 вперед и назад, чтобы отрегулировать
 угол наклона спинки сиденья.
 
 ### OMX65-3064
-`jetour_dashing_ru_32972dcc` | dashing | pdf_manual | tier:2 | lang:ru | layer:hvac | p:60 | doc_type:owners_manual
 45
 2. ПОДГОТОВКА К ВОЖДЕНИЮ
 ПОДГОТОВКА К ВОЖДЕНИЮ
 Функция обогрева/вентиляции сидений (при наличии)
 
 ### Управляйте
-`jetour_dashing_ru_83e3a8ae` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:61 | doc_type:owners_manual
 с
 помощью
 кнопки
@@ -20197,7 +18381,6 @@ ON, и передний плафон немедленно гаснет; при �
 странице мультимедийного дисплея.
 
 ### Переключите
-`jetour_dashing_ru_75b56e61` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:61 | doc_type:owners_manual
 питание
 автомобиля
 в
@@ -20212,7 +18395,6 @@ ON, и передний плафон немедленно гаснет; при �
 2 - уровень 1 - OFF).
 
 ### OMX65-4170
-`jetour_dashing_ru_c4e79ff2` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:61 | doc_type:owners_manual
 режим ON, нажмите кнопку вентиляции
 сиденья
 водителя/переднего
@@ -20225,7 +18407,6 @@ ON, и передний плафон немедленно гаснет; при �
 Королевское сиденье переднего пассажира (при наличии)
 
 ### Королевское сиденье переднего пассажира имеет электрическую регулировку  и
-`jetour_dashing_ru_04891f2b` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:61 | doc_type:owners_manual
 функцию массажа с 3-мя интенсивностями массажа (мягкий / умеренный /
 агрессивный) и 5 доступными режимами массажа (волна / подиум / кросс / легкость
 / прыжок), которые могут эффективно снять усталость спины при езде на дальние
@@ -20235,7 +18416,6 @@ ON, и передний плафон немедленно гаснет; при �
 Через [Автомобиль] → [Сиденье] на мультимедийном дисплее.
 
 ### Пользователь может регулировать интенсивность массажа и режим массажа с
-`jetour_dashing_ru_a13ed6a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:61 | doc_type:owners_manual
 помощью экрана настройки массажа.
 Настройка мультимедиа (при наличии)
 ■Сиденье
@@ -20248,7 +18428,6 @@ ON, и передний плафон немедленно гаснет; при �
 на мультимедийном дисплее.
 
 ### Отрегулируйте угол наклона сиденья
-`jetour_dashing_ru_0afaff4b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 водителя/переднего пассажира.
 OMX65-4164
 ■Регулировка и память сиденья водителя
@@ -20263,7 +18442,6 @@ OMX65-4164
 46
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_41bbfd83` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
 ■Регулировка сиденья переднего пассажира
 Отрегулируйте положение сиденья переднего пассажира по мере необходимости,
 сохраните в памяти соответствующее положение.
@@ -20279,14 +18457,11 @@ OMX65-4164
 со стороны водителя, сиденье водителя автоматически переместится вперед в
 положение перед выходом из автомобиля.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_1cdd3fda` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:62 | doc_type:owners_manual
-• Не пристегивайте ремень безопасности перед регулировкой сиденья.
-• Не кладите никакие предметы под сиденье во время перемещения сиденья,
-иначе это может привести к повреждению сиденья.
+> ⚠️ **Внимание:** • Не пристегивайте ремень безопасности перед регулировкой сиденья.
+> • Не кладите никакие предметы под сиденье во время перемещения сиденья,
+> иначе это может привести к повреждению сиденья.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_6cb17d4d` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:62 | doc_type:owners_manual
 • Запрещается сидеть на сложенной спинке сиденья, иначе пассажиры могут
 серьезно
 пострадать
@@ -20321,7 +18496,6 @@ OMX65-4164
 47
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_39420473` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:63 | doc_type:owners_manual
 • Не регулируйте сиденье во время движения автомобиля, потому что сиденье
 может двигаться непредсказуемо и привести к тому, что водитель потеряет
 контроль над автомобилем.
@@ -20338,7 +18512,6 @@ OMX65-4164
 • Не управляйте автомобилем, если пассажиры не сидят должным образом.
 
 ### Потяните рукой кнопку разблокировки в
-`jetour_dashing_ru_364cc310` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:63 | doc_type:owners_manual
 верхней части спинки сиденья, чтобы
 освободить
 спинку
@@ -20346,14 +18519,11 @@ OMX65-4164
 одновременно потянув спинку сиденья
 вперед, чтобы сложить ее.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_d83c8d0a` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:63 | doc_type:owners_manual
-При складывании спинки сиденья убедитесь, что внешний ремень безопасности
-проходит вокруг спинки сиденья, чтобы не повредить ремень.
-2-7. Ремень безопасности
+> ⚠️ **Внимание:** При складывании спинки сиденья убедитесь, что внешний ремень безопасности
+> проходит вокруг спинки сиденья, чтобы не повредить ремень.
+> 2-7. Ремень безопасности
 
 ### Ремень безопасности
-`jetour_dashing_ru_51af47d9` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:63 | doc_type:owners_manual
 Исследования показали, что правильное использование ремней безопасности
 может значительно снизить травматизм или гибель пассажиров при экстренном
 торможении, резком повороте руля и столкновении. Пожалуйста, внимательно
@@ -20361,7 +18531,6 @@ OMX65-4164
 48
 
 ### Индикатор ремня безопасности
-`jetour_dashing_ru_5032a975` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:64 | doc_type:owners_manual
 ■Ремень безопасности передний
 Исследования
 показали,
@@ -20395,7 +18564,6 @@ OMX65-4164
 пристегиваться ремнями безопасности.
 
 ### Невыполнение этого требования может
-`jetour_dashing_ru_ff8158f2` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:64 | doc_type:owners_manual
 повысить вероятность и тяжесть травм
 в случае аварии. Регулярно проверяйте
 ремень безопасности. Если обнаружен
@@ -20448,7 +18616,6 @@ Jetour для проверки и ремонта.
 49
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_b3f098de` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:65 | doc_type:owners_manual
 4
 ПОДГОТОВКА К ВОЖДЕНИЮ
 ПРОЧИТАЙТЕ
@@ -20465,11 +18632,9 @@ Jetour для проверки и ремонта.
 5: правый ремень безопасности второго ряда;
 
 ### Правильное использование ремня безопасности
-`jetour_dashing_ru_e75f4888` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 Шаг 1: Отрегулируйте высоту передних ремней безопасности.
 
 ### Отрегулируйте регулятор высоты ремня
-`jetour_dashing_ru_bb87aac7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 безопасности (передний ряд) в нужное
 положение для оптимального комфорта
 и защиты.
@@ -20512,7 +18677,6 @@ Jetour для проверки и ремонта.
 Убедитесь, что ремень безопасности
 
 ### OMX65-3082
-`jetour_dashing_ru_3857e2d0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 втягивается плавно.
 Потянуть вверх
 Слишком высоко
@@ -20520,7 +18684,6 @@ Jetour для проверки и ремонта.
 3:
 
 ### Отрегулируйте
-`jetour_dashing_ru_7522623e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:65 | doc_type:owners_manual
 положение
 ремней безопасности.
 Отрегулируйте угол наклона спинки
@@ -20535,7 +18698,6 @@ Jetour для проверки и ремонта.
 сиденья.
 
 ### Расположите
-`jetour_dashing_ru_e4d06429` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:65 | doc_type:owners_manual
 поясной
 ремень
 как
@@ -20544,7 +18706,6 @@ Jetour для проверки и ремонта.
 полностью   охватывал   плечо,   но   не
 
 ### Ремень должен располагаться
-`jetour_dashing_ru_c01ed690` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:65 | doc_type:owners_manual
 на бедрах как можно ниже
 OMX65-3083
 соприкасался с шеей или скользил по
@@ -20552,11 +18713,9 @@ OMX65-3083
 50
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_b6e4b50c` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:66 | doc_type:owners_manual
 • Каждый ремень безопасности должен использоваться только одним человеком.
 
 ### Не пристегивайте ремень безопасности более чем для одного человека
-`jetour_dashing_ru_d93bf56b` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:66 | doc_type:owners_manual
 одновременно, включая детей.
 • Ремень безопасности заблокируется, если его быстро вытянуть или если
 автомобиль стоит на склоне, но не заблокируется, если вытянуть его медленно.
@@ -20569,36 +18728,33 @@ OMX65-3083
 • Перед началом движения убедитесь, что все пассажиры пристегнуты ремнями
 безопасности.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_8b1eec79` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:66 | doc_type:owners_manual
-• Убедитесь, что пряжка ремня безопасности находится в правильном положении
-и надежно заблокирована, в противном случае это может привести к травмам.
-• Не используйте ремни безопасности с ослабленной пряжкой, иначе ремень
-безопасности не защитит пассажиров в случае резкого торможения или
-столкновения.
-• Избегайте свободной одежды во время вождения. Это может помешать
-правильной установке ремня безопасности и повлиять на предлагаемую
-защиту.
-• Как высоко расположенные поясные ремни, так и неплотно закрепленные ремни
-могут привести к смерти или серьезным травмам во время столкновения или
-других непредвиденных событий.
-• Не наклоняйте сиденье больше, чем это необходимо для комфортной езды.
-Ремни безопасности наиболее эффективны, когда пассажиры сидят прямо и
-откидываются на спинку сиденья.
-• Убедитесь, что плечевой ремень проходит по плечо. Не размещайте плечевой
-ремень под рукой. Ремень должен держаться подальше от шеи, но не спадать с
-плеча. Невыполнение этого требования может снизить защитный эффект ремня
-безопасности в случае аварии.
-• Мы рекомендуем сажать детей на сиденье второго ряда. Используйте ремень
-безопасности или удерживающее устройство для ребенка с функцией ISOFIX в
-зависимости от роста ребенка. Никогда не закрепляйте детскую удерживающую
-систему
-только
-ремнем
-безопасности.
+> ⚠️ **Внимание:** • Убедитесь, что пряжка ремня безопасности находится в правильном положении
+> и надежно заблокирована, в противном случае это может привести к травмам.
+> • Не используйте ремни безопасности с ослабленной пряжкой, иначе ремень
+> безопасности не защитит пассажиров в случае резкого торможения или
+> столкновения.
+> • Избегайте свободной одежды во время вождения. Это может помешать
+> правильной установке ремня безопасности и повлиять на предлагаемую
+> защиту.
+> • Как высоко расположенные поясные ремни, так и неплотно закрепленные ремни
+> могут привести к смерти или серьезным травмам во время столкновения или
+> других непредвиденных событий.
+> • Не наклоняйте сиденье больше, чем это необходимо для комфортной езды.
+> Ремни безопасности наиболее эффективны, когда пассажиры сидят прямо и
+> откидываются на спинку сиденья.
+> • Убедитесь, что плечевой ремень проходит по плечо. Не размещайте плечевой
+> ремень под рукой. Ремень должен держаться подальше от шеи, но не спадать с
+> плеча. Невыполнение этого требования может снизить защитный эффект ремня
+> безопасности в случае аварии.
+> • Мы рекомендуем сажать детей на сиденье второго ряда. Используйте ремень
+> безопасности или удерживающее устройство для ребенка с функцией ISOFIX в
+> зависимости от роста ребенка. Никогда не закрепляйте детскую удерживающую
+> систему
+> только
+> ремнем
+> безопасности.
 
 ### Всегда
-`jetour_dashing_ru_3c9e6b75` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:66 | doc_type:owners_manual
 используйте
 стандартное
 крепежное устройство для детской удерживающей системы на сиденьях
@@ -20606,7 +18762,6 @@ OMX65-3083
 51
 
 ### Регулярно
-`jetour_dashing_ru_34bb8133` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:67 | doc_type:owners_manual
 проверяйте
 ремни
 безопасности
@@ -20628,21 +18783,18 @@ OMX65-3083
 сервисный центр Jetour для проверки и
 ремонта.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_6f992295` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:67 | doc_type:owners_manual
-• Не допускайте попадания воды на натяжитель ремня или механизм пряжки.
-• Не используйте химические  моющие средства, кипящую воду, отбеливатели
-или красители для стирки ремня безопасности.
-• Ремень безопасности следует мыть мягким моющим средством или теплой
-водой и сушить естественным путем. Никогда не чистите его искусственным
-теплом.
-• Не пытайтесь ремонтировать или смазывать натяжитель или механизм замка
-ремня безопасности, а также каким-либо образом ремонтировать ремень
-безопасности, в противном случае Chery Automobile Co., Ltd. не будет нести
-ответственность за возникшие проблемы.
+> ⚠️ **Внимание:** • Не допускайте попадания воды на натяжитель ремня или механизм пряжки.
+> • Не используйте химические  моющие средства, кипящую воду, отбеливатели
+> или красители для стирки ремня безопасности.
+> • Ремень безопасности следует мыть мягким моющим средством или теплой
+> водой и сушить естественным путем. Никогда не чистите его искусственным
+> теплом.
+> • Не пытайтесь ремонтировать или смазывать натяжитель или механизм замка
+> ремня безопасности, а также каким-либо образом ремонтировать ремень
+> безопасности, в противном случае Chery Automobile Co., Ltd. не будет нести
+> ответственность за возникшие проблемы.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_62abab59` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:67 | doc_type:owners_manual
 • Если ваш автомобиль попал в серьезную аварию, и даже если ремень
 безопасности не поврежден явно, обратитесь в авторизованный сервисный
 центр Jetour для проверки и ремонта.
@@ -20667,11 +18819,9 @@ OMX65-3083
 проведения необходимого обслуживания.
 
 ### Меры предосторожности при использовании ремня безопасности
-`jetour_dashing_ru_efa5195f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 ■Меры предосторожности при использовании ремня безопасности ребенком
 
 ### Ремни безопасности вашего автомобиля в основном предназначены для взрослых
-`jetour_dashing_ru_fbd406ee` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:67 | doc_type:owners_manual
 людей. Используйте детскую удерживающую систему (подробности см. в разделе
 «Удерживающая система для ребенкае), подходящую для ребенка, пока ребенок не
 станет
@@ -20694,7 +18844,6 @@ OMX65-3083
 52
 
 ### OMX65-3085
-`jetour_dashing_ru_22f7aba0` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:68 | doc_type:owners_manual
 Убедитесь,
 что
 плечевой
@@ -20702,7 +18851,6 @@ OMX65-3083
 проходит по центру плеча ребенка.
 
 ### Ремень должен находится подальше от
-`jetour_dashing_ru_7d13104f` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:68 | doc_type:owners_manual
 шеи ребенка, но не спадать с плеча
 ребенка. В противном случае ребенок
 может получить серьезные травмы или
@@ -20710,7 +18858,6 @@ OMX65-3083
 или других непредвиденных событий.
 
 ### Неиспользование
-`jetour_dashing_ru_ef1e6895` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:68 | doc_type:owners_manual
 удерживающей
 системы
 для
@@ -20734,7 +18881,6 @@ OMX65-3083
 женщиной
 
 ### Соблюдите меди ценские советы и
-`jetour_dashing_ru_2a102557` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:68 | doc_type:owners_manual
 правильно
 пристегните
 ремень
@@ -20752,7 +18898,6 @@ OMX65-3083
 пассажиры.
 
 ### Полностью
-`jetour_dashing_ru_7326d3cd` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:68 | doc_type:owners_manual
 вытяните
 плечевой ремень через плечо и грудь,
 избегайте
@@ -20764,7 +18909,6 @@ OMX65-3083
 живота.
 
 ### Неправильное
-`jetour_dashing_ru_c2d853c2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:68 | doc_type:owners_manual
 пристегивание
 ремня
 безопасности
@@ -20776,7 +18920,6 @@ OMX65-3083
 время столкновения.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_609ea337` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:68 | doc_type:owners_manual
 • Не вставляйте в пряжку монеты, зажимы и т. д., чтобы предотвратить
 правильную фиксацию язычка и пряжки.
 • Вставив язычок, убедитесь, что язычок и пряжка заблокированы, а поясной и
@@ -20790,7 +18933,6 @@ OMX65-3083
 53
 
 ### ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_5a842f92` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:69 | doc_type:owners_manual
 Преднатяжитель ремня безопасности (при наличии)
 OMX65-3087
 • Преднатяжитель ремня безопасности
@@ -20830,7 +18972,6 @@ OMX65-3087
 вызывает возгорания и, как правило, безвреден.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_9021fd47` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:69 | doc_type:owners_manual
 • При
 срабатывании
 преднатяжителя
@@ -20855,7 +18996,6 @@ OMX65-3087
 центром
 
 ### Jetour
-`jetour_dashing_ru_da7d2772` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:69 | doc_type:owners_manual
 для
 проверки
 и
@@ -20865,12 +19005,10 @@ OMX65-3087
 ремня безопасности в сборе, датчик подушки безопасности и провод сборки.
 
 ### Иначе это может привести к смерти или серьезным травмам во время
-`jetour_dashing_ru_30b9f563` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:69 | doc_type:owners_manual
 столкновения или других непредвиденных событий.
 ВНИМАНИЕ
 
 ### В  следующих  случаях  преднатяжитель  ремня  безопасности  может  работать
-`jetour_dashing_ru_c0660e6b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:69 | doc_type:owners_manual
 неправильно:
 • Изменить систему подвески.
 • Измените переднюю часть кузова.
@@ -20883,7 +19021,6 @@ OMX65-3087
 54
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_faf9886a` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:70 | doc_type:owners_manual
 2-8. Система безопасности для детей
 Система безопасности для детей
 Согласно статистике дорожно-транспортных происшествий, ребенок, сидящий на
@@ -20896,7 +19033,6 @@ OMX65-3087
 сиденье.
 
 ### Выберите
-`jetour_dashing_ru_e4f4b64f` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:70 | doc_type:owners_manual
 детскую
 удерживающую систему, соответствующую автомобилю, возрасту и размеру
 ребенка. (Ремень безопасности автомобиля, соответствующий международным
@@ -20905,7 +19041,6 @@ OMX65-3087
 может серьезно повредить его/ее шею в случае аварии).
 
 ### В данном руководстве по эксплуатации приведены только инструкции по установке
-`jetour_dashing_ru_6e9af90c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 удерживающей
 системы
 для
@@ -20918,7 +19053,6 @@ OMX65-3087
 предоставленному производителем детской удерживающей системы.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_0d1a19fe` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 • Никогда не закрепляйте детскую удерживающую систему только ремнем
 безопасности. Всегда используйте стандартное крепежное устройство для
 детской удерживающей системы на сиденьях второго ряда.
@@ -20939,7 +19073,6 @@ Automobile Co., Ltd. не несет ответственности за нес�
 ребенка на руках не заменяет удерживающее устройство для ребёнка.
 
 ### Удерживающие системы для ребенка должны соответствовать стандартам GB
-`jetour_dashing_ru_02e93001` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 27887 и ECER44. Системы безопасности для ребёнка, прошедшие проверку
 GB27887, обычно имеют сертификационный знак 3C. Системы безопасности для
 ребёнка, прошедшие стандартную проверку ECER44, также имеют оранжевую
@@ -20948,7 +19081,6 @@ GB27887, обычно имеют сертификационный знак 3C. �
 ■Системы безопасности для детей делятся на следующие весовые группы:
 
 ### Вес ребенка
-`jetour_dashing_ru_f4021e75` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:70 | doc_type:owners_manual
 Группа 0
 от 0 до 10 кг
 Группа 0+
@@ -20964,7 +19096,6 @@ GB27887, обычно имеют сертификационный знак 3C. �
 55
 
 ### ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_fa7ce2aa` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 Весовой класс 1: подходит для использования удерживающих систем для ребенка
 группы 1 или 1/2 со встроенной системой ремней безопасности.
 Весовой класс 2/3: группа 2 подходит для удерживающих систем для ребёнка со
@@ -20973,7 +19104,6 @@ GB27887, обычно имеют сертификационный знак 3C. �
 ■Применимые типы удерживающих систем для ребёнка:
 
 ### Переднее
-`jetour_dashing_ru_3d3cdc65` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:71 | doc_type:owners_manual
 пассажирское
 сиденье
 Внешнее сиденье
@@ -20984,7 +19114,6 @@ GB27887, обычно имеют сертификационный знак 3C. �
 Группа 0
 
 ### X
-`jetour_dashing_ru_adc99428` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 Группа 0+
 X
 L
@@ -21000,7 +19129,6 @@ X
 Группа 3
 
 ### X
-`jetour_dashing_ru_adc99428` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 Значение букв в таблице выше:
 X: Он не подходит для установки удерживающих систем для ребенка любого типа в
 этой весовой категории.
@@ -21018,7 +19146,6 @@ L: Если автомобиль указан в применимом списк
 удерживающей системы «полуобщегое типа.
 
 ### Меры предосторожности при использовании удерживающих систем для
-`jetour_dashing_ru_5e57d757` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:71 | doc_type:owners_manual
 ребёнка
 AIRBAG
 START
@@ -21041,7 +19168,6 @@ OMX65-3090
 безопасности
 
 ### Соблюдайте
-`jetour_dashing_ru_aa322790` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:71 | doc_type:owners_manual
 следующие меры предосторожности:
 1. Никогда не устанавливайте систему
 безопасности для детей, обращенную
@@ -21054,7 +19180,6 @@ OMX65-3090
 2.
 
 ### Никогда
-`jetour_dashing_ru_3c7ec07a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 и
 ни
 при
@@ -21074,13 +19199,11 @@ OMX65-3090
 3.
 
 ### Никогда не закрепляйте детскую удерживающую систему только ремнем
-`jetour_dashing_ru_dfa4d656` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 безопасности. Всегда используйте стандартное крепежное устройство для детской
 удерживающей системы на сиденьях второго ряда.
 56
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_6aaf3aff` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 Если вы нарушите три вышеуказанные меры предосторожности, Chery Automobile
 Co., Ltd. не будет нести ответственность за возникшие в связи с этим проблемы.
 Установка удерживающей системы для ребёнка (ISOFIX)
@@ -21094,7 +19217,6 @@ Co., Ltd. не будет нести ответственность за воз�
 GB14167 и ECER14. Точка крепления
 
 ### ISOFIX
-`jetour_dashing_ru_04bed832` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:72 | doc_type:owners_manual
 расположена
 на
 крайнем
@@ -21109,14 +19231,12 @@ GB14167 и ECER14. Точка крепления
 сиденья).
 
 ### OMX65-3091
-`jetour_dashing_ru_ae2fdc17` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 ■Размерный класс удерживающих систем для ребенка (ISOFIX):
 Используйте класс размеров детской удерживающей системы, соответствующий
 интерфейсу ISOFIX, чтобы помочь пользователям выбрать правильный тип детской
 удерживающей системы.
 
 ### Размерный
-`jetour_dashing_ru_1d618503` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 класс
 Фиксированный модуль
 Описание
@@ -21126,7 +19246,6 @@ ISO/F3
 обращенная вперед, для малышей
 
 ### Детская удерживающая система уменьшенной
-`jetour_dashing_ru_5ff0e0d4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 высоты, обращенная вперед, для малышей
 B1
 ISO/F2X
@@ -21134,17 +19253,14 @@ ISO/F2X
 высоты, обращенная вперед, для малышей
 
 ### ISO/R3
-`jetour_dashing_ru_4928996f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 Полноразмерная детская удерживающая система,
 обращенная назад, для малышей
 
 ### ISO/R2
-`jetour_dashing_ru_1fc63293` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 Детская удерживающая система меньшего размера,
 обращенная назад, для детей младшего возраста
 
 ### Повернутая назад система безопасности для
-`jetour_dashing_ru_3c3447a0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 младенцев
 F
 ISO/L1
@@ -21152,17 +19268,14 @@ ISO/L1
 (переносная кровать)
 
 ### ISO/L2
-`jetour_dashing_ru_a97a3326` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:72 | doc_type:owners_manual
 Детская удерживающая система, обращенная
 вправо (переносная кровать)
 57
 
 ### ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_bc568d42` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 ■Применимые типы удерживающих систем для ребенка (ISOFIX):
 
 ### Весовая
-`jetour_dashing_ru_9fd15de2` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:73 | doc_type:owners_manual
 группа
 Размерный
 класс
@@ -21172,7 +19285,6 @@ ISO/L1
 пассажирское сиденье
 
 ### Внешнее
-`jetour_dashing_ru_b4ae2eae` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:73 | doc_type:owners_manual
 сиденье
 второго
 ряда
@@ -21182,7 +19294,6 @@ ISO/L1
 Портативный кровать
 
 ### X
-`jetour_dashing_ru_2cca123c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 (1)
 Группа 0
 E
@@ -21196,7 +19307,6 @@ E
 ISO/R1
 
 ### X
-`jetour_dashing_ru_2cca123c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 (1)
 Группа 1
 D
@@ -21213,7 +19323,6 @@ B
 ISO/F2
 
 ### X
-`jetour_dashing_ru_2cca123c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:73 | doc_type:owners_manual
 (1)
 Группа 2
 (1)
@@ -21233,7 +19342,6 @@ XX (от A до G), если необходимо знать подходящу�
 58
 
 ### 2. ПОДГОТОВКА К ВОЖДЕНИЮ
-`jetour_dashing_ru_5742ac88` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:74 | doc_type:owners_manual
 Установка удерживающей системы для ребёнка (ISOFIX)
 Шаг 1: Найдите нижнее стопорное
 кольцо, используемое для крепления
@@ -21242,7 +19350,6 @@ XX (от A до G), если необходимо знать подходящу�
 2:
 
 ### Установите
-`jetour_dashing_ru_140a9c31` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:74 | doc_type:owners_manual
 детскую
 удерживающую
 систему
@@ -21251,13 +19358,11 @@ XX (от A до G), если необходимо знать подходящу�
 второго ряда.
 
 ### OMX65-3091
-`jetour_dashing_ru_825d5195` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:74 | doc_type:owners_manual
 Шаг 3: Вставьте и закрепите нижний
 крюк детской удерживающей системы
 на нижнем стопорном кольце.
 
 ### OMX65-3094
-`jetour_dashing_ru_30b40fb5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:74 | doc_type:owners_manual
 Шаг
 4:
 Вытяните
@@ -21271,7 +19376,6 @@ XX (от A до G), если необходимо знать подходящу�
 крепления
 
 ### (TOPTETHER)
-`jetour_dashing_ru_d749c8ca` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:74 | doc_type:owners_manual
 для
 детской
 удерживающей
@@ -21289,7 +19393,6 @@ XX (от A до G), если необходимо знать подходящу�
 верхней точки крепления (TOPTETHER).
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_d4ef6d95` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:74 | doc_type:owners_manual
 • Перед использованием снимите подголовник с места установки детской
 удерживающей системы, а затем повесьте крюк  детской  удерживающей
 системы на точку крепления, чтобы ремень крюка не попал прямо на верхнюю
@@ -21310,7 +19413,6 @@ XX (от A до G), если необходимо знать подходящу�
 59
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_92b8c1ae` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:75 | doc_type:owners_manual
 • После установки детской удерживающей системы никогда не регулируйте
 сиденье.
 • Детская удерживающая система должна быть установлена на сиденье второго
@@ -21346,7 +19448,6 @@ XX (от A до G), если необходимо знать подходящу�
 ли детская удерживающая система, толкая и дергая ее в разных направлениях.
 
 ### Следуйте
-`jetour_dashing_ru_16f442e9` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:75 | doc_type:owners_manual
 инструкциям
 по
 установке,
@@ -21359,7 +19460,6 @@ XX (от A до G), если необходимо знать подходящу�
 не устанавливайте детскую удерживающую систему на сиденье второго ряда.
 
 ### Ребенок и передний пассажир могут получить серьезные травмы или даже
-`jetour_dashing_ru_e2b87b14` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:75 | doc_type:owners_manual
 погибнуть во время столкновения или других непредвиденных событий.
 • Не позволяйте ребенку играть с ремнем безопасности с функцией блокировки
 детской удерживающей системы. Избегайте перекручивания ремня вокруг шеи
@@ -21383,11 +19483,9 @@ XX (от A до G), если необходимо знать подходящу�
 61
 
 ### ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_2715b5fc` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 3-1. Информация о ключе
 
 ### Функция
-`jetour_dashing_ru_a34dbf50` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:77 | doc_type:owners_manual
 дистанционного
 управления окном  ............. 75
 Функция от защемления
@@ -21402,33 +19500,27 @@ XX (от A до G), если необходимо знать подходящу�
 дисплей
 
 ### Мультимедийная
-`jetour_dashing_ru_d1a4d089` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:77 | doc_type:owners_manual
 Настройка автомобиля ....... 84
 
 ### Мультимедийный вид
-`jetour_dashing_ru_d3b4dbd3` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:77 | doc_type:owners_manual
 Настройки автомобиля ...... 91
 
 ### Подключение мобильного
-`jetour_dashing_ru_9d2e8e6e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 телефона
 3-6. Система
 кондиционирования
 воздуха
 
 ### Система
-`jetour_dashing_ru_5db8721c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 кондиционирования
 
 ### Функция охлаждения
-`jetour_dashing_ru_3e7932f3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:77 | doc_type:owners_manual
 коробки подлокотника
 на вспомогательной
 приборной панели............. 101
 62
 
 ### ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_f2ade510` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:78 | doc_type:owners_manual
 3-7. Беспроводная
 зарядка (при наличии)
 Беспроводная
@@ -21437,17 +19529,14 @@ XX (от A до G), если необходимо знать подходящу�
 комплектован)
 
 ### Функция записи
-`jetour_dashing_ru_ec08ebcf` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 3-9. Пространство для
 хранения
 
 ### Пространство для
-`jetour_dashing_ru_3498c805` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 3-10.Электрическая
 розетка
 
 ### Электрическая
-`jetour_dashing_ru_770fc5c7` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:78 | doc_type:owners_manual
 розетка.
 3-11.Порт USB
 3-12.Солнцезащитные
@@ -21455,7 +19544,6 @@ XX (от A до G), если необходимо знать подходящу�
 зеркало
 
 ### Солнцезащитные
-`jetour_dashing_ru_5ce372fd` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:78 | doc_type:owners_manual
 козырьки и
 косметическое
 3-13.Капот
@@ -21464,12 +19552,10 @@ XX (от A до G), если необходимо знать подходящу�
 отделения
 
 ### Дверь багажного
-`jetour_dashing_ru_92d6ead8` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:78 | doc_type:owners_manual
 отделения с
 электродвигателем
 
 ### Аварийное открытие
-`jetour_dashing_ru_629636d4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:78 | doc_type:owners_manual
 двери багажного
 3-15 .Крышка топливного
 бака
@@ -21477,7 +19563,6 @@ XX (от A до G), если необходимо знать подходящу�
 крышки топливного
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_ba196a5c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 63
 ВНУТРЕННЯЯ ФУНКЦИЯ
 3-1. Информация о ключе
@@ -21488,7 +19573,6 @@ XX (от A до G), если необходимо знать подходящу�
 видимости) от автомобиля.
 
 ### Кнопка разблокировки
-`jetour_dashing_ru_162bce3b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 кнопка блокировки
 Кнопка старт/стоп (если
 2
@@ -21496,7 +19580,6 @@ XX (от A до G), если необходимо знать подходящу�
 комплектован)
 
 ### Кнопка определения
-`jetour_dashing_ru_174b1e11` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 3
 5
 4
@@ -21505,7 +19588,6 @@ OMX65-4010
 комплектован)
 
 ### Кнопка открывания двери багажного
-`jetour_dashing_ru_eab60165` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:79 | doc_type:owners_manual
 отделения
 Механический
 ключ,
@@ -21524,7 +19606,6 @@ OMX65-4010
 «Дверие).
 
 ### Ограничение функции
-`jetour_dashing_ru_72ed78b7` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:79 | doc_type:owners_manual
 ■В следующих условиях смарт-ключ может работать неправильно:
 • Рядом используется более одного смарт-ключа.
 • Расстояние между автомобилем и смарт-ключом превышает 20 м.
@@ -21538,7 +19619,6 @@ OMX65-4010
 такими как телевышка, радиостанция, электростанция, аэропорт, вокзал).
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_63c0217d` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:80 | doc_type:owners_manual
 64
 ВНИМАНИЕ
 • Этот продукт представляет собой низкочастотное радиоустройство, и ему могут
@@ -21566,7 +19646,6 @@ OMX65-4010
 смарт-ключ.
 
 ### Нажмите
-`jetour_dashing_ru_a10666ec` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 кнопку
 фиксатора на задней стороне смартключа,
 чтобы
@@ -21575,7 +19654,6 @@ OMX65-4010
 ключ.
 
 ### OMX65-4011
-`jetour_dashing_ru_c8586a32` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:80 | doc_type:owners_manual
 Шаг
 2:
 Используйте
@@ -21588,7 +19666,6 @@ OMX65-4010
 смарт-ключа.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_56d50d55` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:81 | doc_type:owners_manual
 65
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Шаг
@@ -21599,52 +19676,46 @@ OMX65-4010
 установите новый.
 
 ### OMX65-4013
-`jetour_dashing_ru_23d4f85c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 Шаг 4: Установите смарт-ключ на место в порядке, обратном снятию.
 Шаг 5: После замены батареи проверьте на правильность состояния работы смартключа (нажмите любую кнопку смарт-ключа, чтобы убедиться, что индикатор
 загорается). Если смарт-ключ не работает должным образом, как можно скорее
 обратитесь в авторизованный сервисный центр Jetour для проверки и ремонта.
 
 ### Использованную литиевую батарею нельзя утилизировать как обычный бытовой
-`jetour_dashing_ru_411b9a3f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 мусор. Обращайтесь с использованной батареей в соответствии с местными
 нормами и положениями, касающимися защиты окружающей среды.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_c05867da` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
 Убедитесь, что положительные и отрицательные клеммы батареи расположены
 правильно.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_1c7f54df` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:81 | doc_type:owners_manual
-• Не кладите ключ в место с высокой температурой, например, на приборную
-панель, подвергающуюся воздействию высокой температуры летом.
-• Не используйте ключ, чтобы сильно ударить по другому предмету или уронить
-его.
-• Не допускайте попадания воды в ключ и не мойте его в ультразвуковом
-очистителе.
-• Не кладите смарт-ключ вместе с электромагнитным волновым устройством,
-например мобильным телефоном.
-• Не сгибайте электрод и клемму при установке батареи.
-• Убедитесь, что ваши руки сухие и держите их подальше от воды при замене
-батареи.
-• Не прикасайтесь к новой батарее замасленными руками. Невыполнение этого
-требования может привести к коррозии аккумулятора.
-• Не прикасайтесь и не перемещайте никакие компоненты внутри электронного
-ключа, иначе его функции могут работать неправильно.
-• При
-замене
-батареи
-возникают
-некоторые
-трудности,
-поэтому
-при
-самостоятельной замене батареи она может быть повреждена. Рекомендуется
-заменить его на авторизованной станции обслуживания Jetour.
+> ⚠️ **Внимание:** • Не кладите ключ в место с высокой температурой, например, на приборную
+> панель, подвергающуюся воздействию высокой температуры летом.
+> • Не используйте ключ, чтобы сильно ударить по другому предмету или уронить
+> его.
+> • Не допускайте попадания воды в ключ и не мойте его в ультразвуковом
+> очистителе.
+> • Не кладите смарт-ключ вместе с электромагнитным волновым устройством,
+> например мобильным телефоном.
+> • Не сгибайте электрод и клемму при установке батареи.
+> • Убедитесь, что ваши руки сухие и держите их подальше от воды при замене
+> батареи.
+> • Не прикасайтесь к новой батарее замасленными руками. Невыполнение этого
+> требования может привести к коррозии аккумулятора.
+> • Не прикасайтесь и не перемещайте никакие компоненты внутри электронного
+> ключа, иначе его функции могут работать неправильно.
+> • При
+> замене
+> батареи
+> возникают
+> некоторые
+> трудности,
+> поэтому
+> при
+> самостоятельной замене батареи она может быть повреждена. Рекомендуется
+> заменить его на авторизованной станции обслуживания Jetour.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_43f0e218` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 66
 ОПАСНОСТЬ
 Соблюдайте особую осторожность, чтобы дети не проглотили извлеченную
@@ -21652,7 +19723,6 @@ OMX65-4010
 смерти или серьезной травме ребенка.
 
 ### Режим обнаружения автомобиля
-`jetour_dashing_ru_db0ef0c3` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:82 | doc_type:owners_manual
 Когда автомобиль находится в противоугонном состоянии, двойное нажатие кнопки
 блокировки на смарт-ключе в течение 1,5 с может привести к двойному звуковому
 клаксону, миганию указателя поворота и включению габаритного света на 10 с.
@@ -21660,7 +19730,6 @@ OMX65-4010
 можно использовать для определения конкретного местоположения автомобиля.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_cd82c407` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 Если смарт-ключ оснащен кнопкой определения местоположения автомобиля,
 найдите
 свой
@@ -21675,7 +19744,6 @@ OMX65-4010
 кнопку старт/стоп, чтобы запустить/остановить двигатель.
 
 ### Вдали от зоны блокировки
-`jetour_dashing_ru_fb63ffc6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 Покиньте автомобиль, неся при себе
 смарт-ключ,
 двери
@@ -21683,7 +19751,6 @@ OMX65-4010
 заблокируются.
 
 ### Зона включения интеллектуальных
-`jetour_dashing_ru_28ab9d3e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 приветственных огней
 Подойдите к автомобилю, неся при
 себе
@@ -21692,13 +19759,11 @@ OMX65-4010
 приветственные огни.
 
 ### Близко от зоны разблокировки
-`jetour_dashing_ru_50c0200c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:82 | doc_type:owners_manual
 Подойдите  к  автомобилю,  неся  при
 себе смарт-ключ, двери автоматически
 разблокируется.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_cf86bc9e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 67
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Вход без ключа
@@ -21731,7 +19796,6 @@ OMX65-4015
 двери, чтобы открыть дверь.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_47929a98` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:83 | doc_type:owners_manual
 • Установите время закрытия всех дверных ручек или ручки двери водителя через
 [Мое приложение] → [Управление автомобилем] → [Настройка автомобиля] на
 мультимедийном дисплее.
@@ -21751,7 +19815,6 @@ OMX65-4015
 того, как все двери будут закрыты в течение 30 с.
 
 ### Если наружная ручка двери закрыта или
-`jetour_dashing_ru_a8ce13c5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:83 | doc_type:owners_manual
 не может быть выдвинута, нажмите и
 удерживайте
 переднюю
@@ -21766,7 +19829,6 @@ OMX65-4015
 наружную ручку двери.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_7b90a7d8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:84 | doc_type:owners_manual
 68
 ОПАСНОСТЬ
 Во время автоматического втягивания ручки двери , пожалуйста, избегайте того,
@@ -21774,7 +19836,6 @@ OMX65-4015
 травмам рук.
 
 ### Функция
-`jetour_dashing_ru_a98293bb` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:84 | doc_type:owners_manual
 приветствия
 включается
 через
@@ -21798,7 +19859,6 @@ OMX65-4015
 автоматически закроются.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_b99ed21e` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:84 | doc_type:owners_manual
 • Используйте функцию приветствия. После блокировки автомобиля на 3 дня
 функция приветствия отключается. Необходимо перезапустить двигатель,
 функция приветствия восстановится.
@@ -21818,7 +19878,6 @@ OMX65-4015
 неудовлетворительное состояние.
 
 ### OMX65-4018
-`jetour_dashing_ru_83229c15` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:84 | doc_type:owners_manual
 Режим охраны:
 Когда
 питание
@@ -21832,7 +19891,6 @@ OMX65-4015
 охраны.
 
 ### Успешное
-`jetour_dashing_ru_22b8aef4` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:84 | doc_type:owners_manual
 включение
 охранной
 системы:
@@ -21852,7 +19910,6 @@ OMX65-4015
 поднимаются.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_9b7b0b78` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:85 | doc_type:owners_manual
 69
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Сообщение о сбое охраны:
@@ -21867,7 +19924,6 @@ OMX65-4015
 системы.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_4befdb6f` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:85 | doc_type:owners_manual
 • Подсказка о включении охранной системы должна быть установлена в
 мультимедийном дисплее,  подробности  см.  в  разделе «Мультимедийный
 дисплейе.
@@ -21887,14 +19943,12 @@ OMX65-4015
 охранной системы автомобиля не будет выполнено.
 
 ### Срабатывание тревоги
-`jetour_dashing_ru_b7ad8f39` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:85 | doc_type:owners_manual
 В следующих ситуациях, система отправит сигнал тревоги:
 • Без использования функции ввода смарт-ключа, любая из дверей, дверь
 багажника или капот разблокируется.
 • Без использования функции запуска смарт-ключа, автомобиль включается.
 
 ### Нажмите
-`jetour_dashing_ru_5104e0e7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 кнопку
 разблокировки
 на
@@ -21923,7 +19977,6 @@ OMX65-4015
 постановки на охрану.
 
 ### Подсказка
-`jetour_dashing_ru_0cc59ba7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 о
 выключении
 охранной
@@ -21932,43 +19985,36 @@ OMX65-4015
 зеркала выдвигаются.
 
 ### Система иммобилайзера двигателя
-`jetour_dashing_ru_ecd2f248` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:85 | doc_type:owners_manual
 Смарт-ключ имеет встроенный транспондерный чип. Если смарт-ключ не вставлен в
 модуль иммобилайзера двигателя, встроенный чип предотвратит запуск двигателя.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_472de1c5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 70
 ◆В следующих условиях система иммобилайзера двигателя может работать
 неправильно:
 
 ### 2. Измените или удалите систему иммобилайзера двигателя.
-`jetour_dashing_ru_9beb224b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 3. Смарт-ключ  находится  слишком  близко  или  касается  смарт-ключа  (ключа  со
 встроенным транспондерным чипом) другого автомобиля.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_7e28c35b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
-• Не подбирайте смарт-ключ самостоятельно, иначе система иммобилайзера
-двигателя может работать неправильно.
-• Если автомобиль не запускается, это может быть связано с вмешательством
-системы
-иммобилайзера,
-пожалуйста,
-немедленно
-обратитесь
-на
-авторизованную сервисную станцию Jetour для проверки и ремонта..
+> ⚠️ **Внимание:** • Не подбирайте смарт-ключ самостоятельно, иначе система иммобилайзера
+> двигателя может работать неправильно.
+> • Если автомобиль не запускается, это может быть связано с вмешательством
+> системы
+> иммобилайзера,
+> пожалуйста,
+> немедленно
+> обратитесь
+> на
+> авторизованную сервисную станцию Jetour для проверки и ремонта..
 
 ### Противоугонная система автомобиля
-`jetour_dashing_ru_703f3d6d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 Когда автомобиль находится в режиме охраны, незаконное открытие любой из
 четырех дверей и двери багажного отделения или переключение питания
 автомобиля на передачу ON, может привести к срабатыванию сигнализации
 автомобиля и миганию указателя поворота.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_cfc82df6` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:86 | doc_type:owners_manual
 • Противоугонная система автомобиля не будет активирована, если двери
 заперты механическим ключом. Рекомендуется запирать двери смарт-ключом.
 • После запирания дверей смарт-ключом противоугонная система автомобиля
@@ -21989,7 +20035,6 @@ OMX65-4015
 3-2. Двери
 
 ### Переключатель дверного замка
-`jetour_dashing_ru_3d5547d0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:86 | doc_type:owners_manual
 Когда
 двери
 заперты,
@@ -22004,7 +20049,6 @@ OMX65-4015
 чтобы заблокировать двери.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_a46480ab` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:87 | doc_type:owners_manual
 71
 ВНУТРЕННЯЯ ФУНКЦИЯ
 ПРОЧИТАЙТЕ
@@ -22014,7 +20058,6 @@ OMX65-4015
 «Мультимедийный дисплейе.
 
 ### Отпирание дверей внутренней ручкой
-`jetour_dashing_ru_fac3bc73` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:87 | doc_type:owners_manual
 Когда двери разблокированы, потяните
 внутреннюю ручку двери прямо, чтобы
 открыть двери.
@@ -22026,34 +20069,29 @@ OMX65-4015
 чтобы отпереть двери, и потяните еще
 раз, чтобы открыть двери.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_ca1a773d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:87 | doc_type:owners_manual
-• В случае столкновения автомобиля, двери разблокируются автоматически.
-• Повторите операцию разблокировки/блокировки 10 раза в течение 25 с,
-блокировка автомобиля в это время запрещено.
-• Если дверь заблокирована с помощью механического ключа, противоугонная
-функция
-автомобиля
-не
-может
-быть
-активирована.
+> ⚠️ **Внимание:** • В случае столкновения автомобиля, двери разблокируются автоматически.
+> • Повторите операцию разблокировки/блокировки 10 раза в течение 25 с,
+> блокировка автомобиля в это время запрещено.
+> • Если дверь заблокирована с помощью механического ключа, противоугонная
+> функция
+> автомобиля
+> не
+> может
+> быть
+> активирована.
 
 ### Рекомендуется
-`jetour_dashing_ru_9232e749` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:87 | doc_type:owners_manual
 заблокировать двери смарт-ключом.
 • После запирания дверей смарт-ключом противоугонная система автомобиля
 сработает, если передняя левая дверь разблокирована и открыта механическим
 ключом.
 
 ### Дверной механический переключатель
-`jetour_dashing_ru_e457c8c8` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:87 | doc_type:owners_manual
 Автомобиль не может быть разблокирован/заблокирован электрически при
 разряженной батарее или в аналогичных условиях. В этом случае каждую дверь
 можно разблокировать/запереть механическим выключателем двери.
 
 ### При отпирании передней левой двери механическим ключом срабатывает
-`jetour_dashing_ru_3c334222` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:87 | doc_type:owners_manual
 противоугонная
 система
 автомобиля;
@@ -22064,7 +20102,6 @@ OMX65-4015
 автомобиля.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_5897949d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:88 | doc_type:owners_manual
 72
 OMX65-4713
 Шаг
@@ -22079,7 +20116,6 @@ OMX65-4713
 2:
 
 ### Удерживайте
-`jetour_dashing_ru_2e2ad3f9` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:88 | doc_type:owners_manual
 выдвинутую
 наружную ручку двери одной рукой, а
 другой рукой вставьте механический
@@ -22103,7 +20139,6 @@ OMX65-4713
 Передняя правая дверь/двери второго ряда
 
 ### Автомобиль
-`jetour_dashing_ru_e0917a4f` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:88 | doc_type:owners_manual
 не
 может
 быть
@@ -22119,7 +20154,6 @@ OMX65-4713
 аварийного заблокирования.
 
 ### OMX65-4023
-`jetour_dashing_ru_b1bff5c9` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:88 | doc_type:owners_manual
 Метод работы следующий:
 Шаг 1: Откройте двери;
 Шаг 2: Вставьте механический ключ в отверстие механического переключателя в
@@ -22131,7 +20165,6 @@ OMX65-4713
 дверь).
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_2c436401` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:88 | doc_type:owners_manual
 • Если двери не открываются/запираются электрически, как можно скорее
 обратитесь на авторизованный сервисный центр Jetour для проверки и
 ремонта.
@@ -22149,7 +20182,6 @@ OMX65-4713
 Jetour.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_7cfec683` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:89 | doc_type:owners_manual
 73
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Замок от детей
@@ -22164,7 +20196,6 @@ OMX65-4024
 Заблокировать:
 
 ### Используйте
-`jetour_dashing_ru_897338b4` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:89 | doc_type:owners_manual
 механический ключ или подходящую
 отвертку,
 чтобы
@@ -22180,7 +20211,6 @@ OMX65-4024
 Разблокировать:
 
 ### Используйте
-`jetour_dashing_ru_897338b4` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:89 | doc_type:owners_manual
 механический ключ или подходящую
 отвертку,
 чтобы
@@ -22194,7 +20224,6 @@ OMX65-4024
 снаружи.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_9bb17535` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:89 | doc_type:owners_manual
 • Система автономна  и ни  в  коем случае  не может заменить механизм
 центрального замка.
 • Перед началом движения убедитесь, что все двери закрыты, в противном
@@ -22209,7 +20238,6 @@ OMX65-4024
 длится короткое время, может привести к серьезным травмам или даже смерти.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_8de19e10` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:90 | doc_type:owners_manual
 74
 3-3. Окна
 Настройка окна
@@ -22218,13 +20246,11 @@ OMX65-4024
 3
 
 ### Включите
-`jetour_dashing_ru_088a0760` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:90 | doc_type:owners_manual
 переключатель
 стеклоподъемника после переключения
 питания автомобиля в режим ON:
 
 ### Автоматическое открытие
-`jetour_dashing_ru_ad73dd7a` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:90 | doc_type:owners_manual
 4
 2
 Ручное закрытие
@@ -22259,7 +20285,6 @@ OMX65-4040
 автоматически, сигнал тревоги сработает 3 раза.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_9dc7cb09` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:90 | doc_type:owners_manual
 • Водитель
 несет
 ответственность
@@ -22273,7 +20298,6 @@ OMX65-4040
 работу пассажиров.
 
 ### Во избежание случайного
-`jetour_dashing_ru_53ce95a6` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:90 | doc_type:owners_manual
 срабатывания
 (особенно
 детьми)
@@ -22292,13 +20316,11 @@ OMX65-4040
 случаю.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_498d68eb` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 75
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Переключатель блокировки окна
 
 ### Используйте
-`jetour_dashing_ru_eac4586e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 эту
 функцию,
 чтобы
@@ -22307,7 +20329,6 @@ OMX65-4040
 детьми.
 
 ### Нажмите
-`jetour_dashing_ru_56e779b1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 переключатель
 блокировки
 окон,
@@ -22319,7 +20340,6 @@ OMX65-4040
 заблокировано.
 
 ### Окнами пассажира можно управлять
-`jetour_dashing_ru_b6ee748b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:91 | doc_type:owners_manual
 только
 с
 помощью
@@ -22337,19 +20357,16 @@ OMX65-4040
 находится ребенок).
 
 ### Функция опускания окна на пульте дистанционного управления
-`jetour_dashing_ru_34f8f21b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:91 | doc_type:owners_manual
 Когда питание автомобиля переключается в режим OFF, все двери закрываются. В
 зоне действия зажимайте кнопку разблокировки на смарт-ключе, чтобы открыть все
 окна, и наружное зеркало заднего вида автоматически расширится.
 
 ### Функция подъема окна на пульте дистанционного управления
-`jetour_dashing_ru_b9e88aa7` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:91 | doc_type:owners_manual
 Когда питание автомобиля переключается в режим OFF, все двери закрываются. В
 зоне действия зажимайте кнопку блокировки на смарт-ключе, чтобы закрыть все
 окна, и наружное зеркало заднего вида автоматически складывается.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_2ddac6dd` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:91 | doc_type:owners_manual
 При
 использовании
 электростеклоподъемника
@@ -22367,13 +20384,11 @@ OMX65-4040
 электростеклоподъемник может защемить детей и других пассажиров.
 
 ### Функция защиты от защемления
-`jetour_dashing_ru_1ab94afe` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:91 | doc_type:owners_manual
 В зоне действия функции защиты от защемления, когда окно сталкивается с
 препятствиями во время автоматического подъема окна, оно останавливается на
 полпути и приоткрывается.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_2ddac6dd` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:91 | doc_type:owners_manual
 • Не активируйте функцию защиты от заклинивания, намеренно зажимая какуюлибо часть тела.
 • Не позволяйте детям управлять электрическими стеклоподъемниками.
 • Если какой-либо предмет захвачен в тот момент, когда окно готово полностью
@@ -22381,7 +20396,6 @@ OMX65-4040
 осторожны, чтобы окно не зацепило никакую часть тела.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_db00b0bf` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 76
 Функция защиты от защемления
 Во время подъема окна одним касанием или дистанционного управления подъемом
@@ -22413,13 +20427,11 @@ OMX65-4040
 вернется в нормальное состояние.
 
 ### Отмена функции защиты от защемления
-`jetour_dashing_ru_137fde4e` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:92 | doc_type:owners_manual
 Если при подъеме окна два раза подряд встретится препятствие, окно перестанет
 подниматься, функция защиты от защемления будет отменена. Если кабель
 аккумулятора был отсоединен функция защиты от защемления будет отменена.
 
 ### Функция защиты от перегрева
-`jetour_dashing_ru_b78c9901` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 Для защиты двигателя, если операция подъема-опускания окна выполняется
 непрерывно,
 функция
@@ -22433,7 +20445,6 @@ OMX65-4040
 использование других обычных функций окна вверхвниз.
 
 ### Самообучающаяся защита от защемления окон
-`jetour_dashing_ru_3a9d83b4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 Шаг 1: Включите питание автомобиля в режим ON.
 Шаг 2: Вручную нажмите переключатель окна, чтобы полностью закрыть окно, и
 удерживайте переключатель в течение 2 секунд.
@@ -22460,13 +20471,11 @@ OMX65-4040
 закрыто нормально во время успешной настройки.
 
 ### При движении по дорогам с ямами или неровными поверхностями сила тяжести
-`jetour_dashing_ru_a444ec85` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:92 | doc_type:owners_manual
 может неожиданно повлиять на дверную систему. В этом случае окно может
 перевернуться и опуститься при одновременном подъеме с помощью функции
 окно вверх в одно касание. Это событие с небольшой вероятностью и нормальное.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_ffbf259b` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:93 | doc_type:owners_manual
 77
 ВНУТРЕННЯЯ ФУНКЦИЯ
 ВНИМАНИЕ
@@ -22500,14 +20509,12 @@ sos
 2
 
 ### Ручная операция
-`jetour_dashing_ru_559f5465` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 • Переместите и удерживайте кнопку в
 положении
 , и  люк остановится
 после наклона на максимальный угол.
 
 ### Снова переместите и
-`jetour_dashing_ru_d9774354` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 удерживайте
 кнопку, и люк можно будет открыть
 вручную.
@@ -22519,7 +20526,6 @@ sos
 отпустите кнопку, и люк остановится.
 
 ### Автоматическая операция
-`jetour_dashing_ru_d35a2596` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:93 | doc_type:owners_manual
 • Переместите кнопку в положении , и люк остановится после наклона на
 максимальный угол. Переместите кнопку, и люк автоматически откроется в
 удобное положение и остановится, затем снова переместите кнопку, люк
@@ -22530,7 +20536,6 @@ sos
 остановится.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_1839cf63` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 78
 ВНИМАНИЕ
 • Когда температура наружного воздуха ниже -20 ℃, запрещается использовать
@@ -22541,7 +20546,6 @@ sos
 люка.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_8e3226a7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 • Водитель несет ответственность за работу люка, включая работу пассажиров.
 Во избежание случайного срабатывания (особенно детьми) не позволяйте
 детям управлять люком. Дети и другие пассажиры могут застрять в люке
@@ -22557,7 +20561,6 @@ sos
 2
 
 ### Ручная операция
-`jetour_dashing_ru_859d05c2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 • Переместите и удерживайте кнопку в
 положении
 ,
@@ -22576,7 +20579,6 @@ sos
 остановится.
 
 ### Автоматическая операция
-`jetour_dashing_ru_c6b930fe` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:94 | doc_type:owners_manual
 • Переместите  кнопку  в  положении
 ,  солнцезащитный  козырек  откроется
 автоматически.
@@ -22588,13 +20590,11 @@ sos
 или   , солнцезащитный козырек остановится.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_6cfd7e0d` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:94 | doc_type:owners_manual
 • Подробнее о функции распознавания голоса см. в разделе «Мультимедийный
 дисплейе.
 • Регулярно очищайте направляющую солнцезащитного козырька.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_1dda0473` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 79
 ВНУТРЕННЯЯ ФУНКЦИЯ
 ВНИМАНИЕ
@@ -22612,7 +20612,6 @@ sos
 предотвратить падение или повреждение солнцезащитного козырька.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_44d656d2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 • Водитель несет ответственность за работу солнцезащитного козырька, включая
 работу пассажиров. Во избежание случайного срабатывания (особенно детьми)
 не позволяйте  детям управлять солнцезащитным козырьком. Дети  и другие
@@ -22625,27 +20624,23 @@ sos
 случаю.
 
 ### Функция защиты от застревания
-`jetour_dashing_ru_5f538c7f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 В зоне действия функции защиты от защемления, когда люк и солнцезащитный
 козырек сталкиваются с препятствиями во время закрывания, они останавливаются
 на полпути и приоткрываются.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_44d656d2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 • Не активируйте функцию защиты от заклинивания, намеренно зажимая какуюлибо часть тела.
 • Если какой-либо предмет захвачен в тот момент, когда солнцезащитный
 козырек готов полностью закроется, функция защиты от защемления может не
 сработать. Будьте осторожны, чтобы окно не зацепило никакую часть тела.
 
 ### Функция автоматического закрытия
-`jetour_dashing_ru_3b3bd2b3` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:95 | doc_type:owners_manual
 • Автомобиль успешно поставлен на охрану, люк и солнцезащитный козырек
 автоматически закроется.
 • Когда питание автомобиля находится в режиме ON,  если датчик дождя
 обнаруживает дождь и снег, люк закрывается автоматически.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_b487f7e6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:95 | doc_type:owners_manual
 • Когда солнцезащитный козырек находится в закрытом положении, система
 автоматически
 регулирует
@@ -22659,7 +20654,6 @@ sos
 OFF, люк и солнцезащитный козырек также могут работать.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_4de3a60d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:96 | doc_type:owners_manual
 80
 ВНИМАНИЕ
 • Во время работы люка, если скорость автомобиля превышает 120 км/ч, люк
@@ -22670,7 +20664,6 @@ OFF, люк и солнцезащитный козырек также могут
 работу.
 
 ### Самообучение
-`jetour_dashing_ru_8dc025c6` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:96 | doc_type:owners_manual
 Если система неисправна или аккумулятор автомобиля перезаряжен или отключен,
 необходимо будет снова выполнить самообучение солнцезащитного козырька:
 • С помощью переключателя закройте люк и солнцезащитный козырек, а затем
@@ -22690,32 +20683,28 @@ OFF, люк и солнцезащитный козырек также могут
 солнцезащитный козырек перейдут от полуоткрытого до полного закрытия, и
 самообучение будет завершено.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_026d4d27` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:96 | doc_type:owners_manual
-• Перед самообучением необходимо убедиться, что аккумулятор полностью
-заряжен, поэтому рекомендуется заменить аккумулятор новым или полностью
-зарядить аккумулятор перед самообучением.
-• Во время инициализации нет силы защиты от защемления, операторы должны
-обратить внимание на безопасность.
-• Если
-солнцезащитный
-козырек
-не
-работает
-должным
-образом
-после
-вышеуказанных операций, обратитесь на авторизованную сервисную станцию
-Jetour для проверки и ремонта.
+> ⚠️ **Внимание:** • Перед самообучением необходимо убедиться, что аккумулятор полностью
+> заряжен, поэтому рекомендуется заменить аккумулятор новым или полностью
+> зарядить аккумулятор перед самообучением.
+> • Во время инициализации нет силы защиты от защемления, операторы должны
+> обратить внимание на безопасность.
+> • Если
+> солнцезащитный
+> козырек
+> не
+> работает
+> должным
+> образом
+> после
+> вышеуказанных операций, обратитесь на авторизованную сервисную станцию
+> Jetour для проверки и ремонта.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_5f27a2ba` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:97 | doc_type:owners_manual
 81
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Управление мультимедийным дисплеем
 
 ### Включите
-`jetour_dashing_ru_82f7e1f0` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:97 | doc_type:owners_manual
 питание
 автомобиля
 в
@@ -22726,7 +20715,6 @@ Jetour для проверки и ремонта.
 солнцезащитный козырек.
 
 ### Четырехдверные
-`jetour_dashing_ru_f8123016` | dashing | pdf_manual | tier:2 | lang:ru | layer:hvac | p:97 | doc_type:owners_manual
 окна:
 Полное
 открытие/полное закрытие/вентиляция.
@@ -22735,7 +20723,6 @@ Jetour для проверки и ремонта.
 закрытие/
 
 ### OMX65-4075
-`jetour_dashing_ru_616eebf6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:97 | doc_type:owners_manual
 полуоткрытое.
 Лунная
 крыша:
@@ -22759,32 +20746,28 @@ Jetour,
 Солнцезащитный козырек закрывается наполовину автоматически.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_950f39cd` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:97 | doc_type:owners_manual
 Все экраны дисплея приведены только для справки, пожалуйста, обратитесь к
 фактическому экрану дисплея автомобиля.
 дисплей
 3-5. Мультимедийный
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_4da29573` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:97 | doc_type:owners_manual
-• Не ремонтируйте, не разбирайте и не модифицируйте головное устройство без
-разрешения. В случае неисправности обратитесь в авторизованный сервисный
-центр Jetour.
-• Будьте
-осторожны,
-не
-проливайте
-напитки
-или
-другие
-жидкости
-на
-мультимедийный дисплей. Если внутрь головного устройства попала жидкость
-или другие предметы, немедленно отключите питание и обратитесь в
-авторизованный сервисный центр Jetour.
+> ⚠️ **Внимание:** • Не ремонтируйте, не разбирайте и не модифицируйте головное устройство без
+> разрешения. В случае неисправности обратитесь в авторизованный сервисный
+> центр Jetour.
+> • Будьте
+> осторожны,
+> не
+> проливайте
+> напитки
+> или
+> другие
+> жидкости
+> на
+> мультимедийный дисплей. Если внутрь головного устройства попала жидкость
+> или другие предметы, немедленно отключите питание и обратитесь в
+> авторизованный сервисный центр Jetour.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_5534523f` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:98 | doc_type:owners_manual
 82
 Мультимедийный вид (Тип A)
 4
@@ -22796,7 +20779,6 @@ Jetour,
 OMX65-4055
 
 ### Вспомогательный
-`jetour_dashing_ru_cc6f0b97` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:98 | doc_type:owners_manual
 переключатель
 Помощь при вождении
 Музыка
@@ -22806,12 +20788,10 @@ OMX65-4055
 климата
 
 ### Помощь при вождении
-`jetour_dashing_ru_2a8fba0f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:98 | doc_type:owners_manual
 Отображение информации о функции помощи при вождении; Отображается значок
 функции помощи при парковке.
 
 ### Значок
-`jetour_dashing_ru_07196e51` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:98 | doc_type:owners_manual
 тревоги
 переднего
 ремня
@@ -22821,7 +20801,6 @@ OMX65-4055
 тревоги.
 
 ### Значок
-`jetour_dashing_ru_07196e51` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:98 | doc_type:owners_manual
 адаптивного
 круизконтроля
 Неактивный статус: Серый
@@ -22834,14 +20813,12 @@ OMX65-4055
 управляется системой.
 
 ### Значок
-`jetour_dashing_ru_07196e51` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:98 | doc_type:owners_manual
 интеллектуальной
 фары
 Неактивный статус: Серый
 Статус активации: Синий
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_e0c33b81` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:99 | doc_type:owners_manual
 83
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Музыка
@@ -22849,14 +20826,12 @@ OMX65-4055
 в приложение медиацентра.
 
 ### Состояние системы
-`jetour_dashing_ru_61d341fd` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:99 | doc_type:owners_manual
 Отображение сигнала 4G, сигнала WiFi, значка Bluetooth, состояния отключения
 звука, значка USB и значка беспроводной зарядки.
 Быстрая работа A/C
 Отображение часто используемых функций приложения.
 
 ### Мое приложение
-`jetour_dashing_ru_680eeabc` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:99 | doc_type:owners_manual
 Нажмите на нужное приложение, чтобы
 перейти на соответствующий экран, и
 вы
@@ -22875,12 +20850,10 @@ Jetour,
 откройте управление автомобилеме.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_11d5b08e` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:99 | doc_type:owners_manual
 Управление автомобилем может осуществляться с помощью голоса, например,
 при открытии экрана настроек, например при открытии голосового экрана.
 
 ### OMX65-4061
-`jetour_dashing_ru_3e9b219a` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:99 | doc_type:owners_manual
 Сдвиньте верхнюю часть экрана вниз,
 чтобы
 открыть
@@ -22900,7 +20873,6 @@ Bluetooth,
 голоса и т. д.
 
 ### Нажмите
-`jetour_dashing_ru_c07dfda3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:99 | doc_type:owners_manual
 «Редактироватье,
 чтобы
 добавить
@@ -22910,7 +20882,6 @@ Bluetooth,
 контекстного меню.
 
 ### Мультимедийная
-`jetour_dashing_ru_d06617aa` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:99 | doc_type:owners_manual
 информация
 и
 мгновенные сообщения отображаются
@@ -22924,7 +20895,6 @@ Bluetooth,
 Способ 3: Через «    е на рулевом колесе.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_f176b02a` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:100 | doc_type:owners_manual
 84
 Мультимедийная настройка
 Настройка системы (если комплектован)
@@ -22932,13 +20902,11 @@ Bluetooth,
 [Звук]:
 
 ### Регулировка
-`jetour_dashing_ru_7d08365d` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:100 | doc_type:owners_manual
 громкости
 мультимедиа, телефона, навигации и
 голоса.
 
 ### OMX65-4063
-`jetour_dashing_ru_aea32be7` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:100 | doc_type:owners_manual
 [Дисплей]: Регулировка яркости экрана центрального управления и экрана
 комбинации приборов, эффект заставки, режим отображения и настройка времени
 заставки.
@@ -22947,7 +20915,6 @@ Bluetooth,
 места для хранения.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_31346bc9` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:100 | doc_type:owners_manual
 • Режим
 подголовника:
 Звуки
@@ -22956,7 +20923,6 @@ Bluetooth,
 телефона
 
 ### Bluetooth
-`jetour_dashing_ru_bf8da688` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:100 | doc_type:owners_manual
 и
 сигнализации комбинации приборов выводятся только через динамик в
 подголовнике.
@@ -22964,7 +20930,6 @@ Bluetooth,
 канала вывода звука для участия в звуковом эффекте автомобиля.
 
 ### Настройка автомобиля
-`jetour_dashing_ru_f6df84ce` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:100 | doc_type:owners_manual
 Общий
 Войдите  в  соответствующий  экран  через  [Мое  приложение]  →  [Настройки
 автомобиля] на мультимедийном дисплее.
@@ -22975,7 +20940,6 @@ Bluetooth,
 режимом/экономичным режимом.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_b25be15e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 85
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Режим вождения
@@ -22983,14 +20947,12 @@ Bluetooth,
 Экономичный режим
 
 ### Расход топлива автомобиля в этом режиме
-`jetour_dashing_ru_be345b8a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 значительно снизится, особенно при
 интенсивном движении в городе. Эффект
 снижения расхода топлива очень заметен в
 дорожных условиях.
 
 ### Этот режим повышает мощность
-`jetour_dashing_ru_702dd27b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 автомобиля и обеспечивает более высокую
 скорость отклика и удовольствие от
 вождения. Он подходит для широких и
@@ -22998,18 +20960,15 @@ Bluetooth,
 транспортных средств.
 
 ### Этот режим сочетает в себе мощность и
-`jetour_dashing_ru_5033f253` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 экономичность автомобиля и подходит для
 всех типов дорог.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_4530eaf6` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:101 | doc_type:owners_manual
 Если  на  рулевом  колесе  есть  кнопка  «SPORTе,  можно  напрямую  войти  в
 спортивный режим.
 ■ Окно (при наличии)
 
 ### Четырехдверные
-`jetour_dashing_ru_2557c62e` | dashing | pdf_manual | tier:2 | lang:ru | layer:hvac | p:101 | doc_type:owners_manual
 окна:
 Полное
 открытие/полное закрытие/вентиляция.
@@ -23018,7 +20977,6 @@ Bluetooth,
 полуоткрытое.
 
 ### Лунная
-`jetour_dashing_ru_27241871` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:101 | doc_type:owners_manual
 крыша:
 Полное
 открытие/
@@ -23029,7 +20987,6 @@ OMX65-4161
 остановить/закрыть;
 
 ### Отрегулируйте
-`jetour_dashing_ru_e449f450` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:101 | doc_type:owners_manual
 угол
 открывания
 двери
@@ -23038,19 +20995,16 @@ OMX65-4161
 OMX65-4162
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_c220d26d` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:102 | doc_type:owners_manual
 86
 ■ Сиденье (если комплектован)
 Отрегулируйте  угол  наклона  сиденья
 водителя/переднего пассажира.
 
 ### OMX65-4163
-`jetour_dashing_ru_69437d37` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:102 | doc_type:owners_manual
 ■ Рулевое колесо (если комплектован)
 Индивидуальная кнопка * в переключении источника звука (если комплектован)
 
 ### Индивидуальная
-`jetour_dashing_ru_2efff68c` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:102 | doc_type:owners_manual
 кнопка:
 Съемка
 фотографий/Регулировка
@@ -23068,7 +21022,6 @@ OMX65-4162
 Переключение режима вождения.
 
 ### OMX65-4168
-`jetour_dashing_ru_1b95f02e` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:102 | doc_type:owners_manual
 OFF: Выключить фару.
 AUTO (при наличии): Автоматическое
 определение интенсивности внешнего
@@ -23089,13 +21042,11 @@ AUTO (при наличии): Автоматическое
 Выравнивание света: Уровень 0-2/1-3.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_9c89fdda` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:103 | doc_type:owners_manual
 87
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Окружающий свет (при наличии)
 
 ### Переключатель
-`jetour_dashing_ru_a28b24d3` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:103 | doc_type:owners_manual
 внешнего
 освещения:
 Разделяется на уровень подсветки и
@@ -23108,7 +21059,6 @@ AUTO (при наличии): Автоматическое
 ■ Уровень подсветки
 
 ### 1. Когда дверь открыта, окружающий свет включается, затем выключается после
-`jetour_dashing_ru_77fa4004` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:103 | doc_type:owners_manual
 задержки освещения на 30 с (при нажатии переключателя габаритного света в
 течение 30 с, задержка сбрасывается, а при открытии двери и включении
 окружающего
@@ -23122,25 +21072,21 @@ AUTO (при наличии): Автоматическое
 пересчитывается).
 
 ### 2. Когда переключатель габаритного света включен, окружающий свет включается,
-`jetour_dashing_ru_d219538e` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:103 | doc_type:owners_manual
 когда переключатель габаритного света выключен, окружающий свет выключается.
 ■ Принудительный уровень
 
 ### 1. После того, как автомобиль заблокирован, откройте дверь в первый раз,
-`jetour_dashing_ru_372e2d5d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:103 | doc_type:owners_manual
 загорится окружающий свет. Когда загорается окружающий свет, оно всегда
 включено, если только автомобиль не запирается ключом или не выключается
 окружающий свет на мультимедийном дисплее.
 
 ### 2. Когда уровень подсветки переключается на принудительный уровень, яркость и
-`jetour_dashing_ru_0029e61e` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:103 | doc_type:owners_manual
 цвет, выбранные уровнем подсветки, запоминаются.
 3. Когда
 питание
 автомобиля
 
 ### OFF,
-`jetour_dashing_ru_3a557f1f` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:103 | doc_type:owners_manual
 энергосберегающий
 источник
 питания
@@ -23159,7 +21105,6 @@ AUTO (при наличии): Автоматическое
 Помощь при вождении (если комплектован)
 
 ### Активная безопасность
-`jetour_dashing_ru_ad4cfa72` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:103 | doc_type:owners_manual
 • Предупреждение
 о
 столкновении
@@ -23178,7 +21123,6 @@ AUTO (при наличии): Автоматическое
 сзади: ON/OFF.
 
 ### OMX65-4173
-`jetour_dashing_ru_ba7c38f1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:103 | doc_type:owners_manual
 • Предупреждение
 о
 боковом
@@ -23187,20 +21131,17 @@ AUTO (при наличии): Автоматическое
 88
 
 ### Помощь при вождении
-`jetour_dashing_ru_7b06fea2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 • Удержание аварийной полосы: ON/OFF.
 • Напоминание о начале движения автомобиля впереди: ON/OFF.
 • Помощь при торможении задним перекрестком: ON/OFF.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_e0ef2a0b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:104 | doc_type:owners_manual
 • Функция помощи при вождении различается в зависимости от комплектации
 автомобиля. Пожалуйста, обратитесь к фактической автомобиля.
 • Подробную  информацию  о  функции  помощи  при  вождении  см.  в  разделе
 «Помощь при вождениие.
 
 ### OMX65-4175
-`jetour_dashing_ru_df84ef94` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:104 | doc_type:owners_manual
 Двери
 • Положение двери с телескопической
 ручкой:
@@ -23215,7 +21156,6 @@ AUTO (при наличии): Автоматическое
 разблокировки: ON/OFF.
 
 ### Блокировка автомобиля
-`jetour_dashing_ru_1a2e04e0` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:104 | doc_type:owners_manual
 • Автоматическая блокировка: ON/OFF.
 • Напоминание
 о
@@ -23227,7 +21167,6 @@ AUTO (при наличии): Автоматическое
 питания: ON/OFF.
 
 ### Индивидуальная кнопка в двери
-`jetour_dashing_ru_e5b7f75a` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:104 | doc_type:owners_manual
 • Настройка
 двери
 переднего
@@ -23244,7 +21183,6 @@ AUTO (при наличии): Автоматическое
 двери:
 
 ### Голосовое
-`jetour_dashing_ru_f25e9cc4` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:104 | doc_type:owners_manual
 пробуждение,
 переключение
 источника
@@ -23271,7 +21209,6 @@ AUTO (при наличии): Автоматическое
 боссае.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_36c908ef` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:105 | doc_type:owners_manual
 89
 ВНУТРЕННЯЯ ФУНКЦИЯ
 ПРОЧИТАЙТЕ
@@ -23279,7 +21216,6 @@ AUTO (при наличии): Автоматическое
 двери, чтобы сдвинуть сиденье переднего пассажира вперед.
 
 ### Четыре двери разблокированы
-`jetour_dashing_ru_5e0e6109` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:105 | doc_type:owners_manual
 • Все двери/водительская дверь.
 • Напоминание о внешней блокировке/
 разблокировке:
@@ -23287,7 +21223,6 @@ AUTO (при наличии): Автоматическое
 Вспышка + Звук.
 
 ### Добро пожаловать
-`jetour_dashing_ru_84c16764` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:105 | doc_type:owners_manual
 • Режим
 приветствия:
 ON/OFF.
@@ -23306,7 +21241,6 @@ ON/OFF.
 эффект: ON/OFF.
 
 ### Стеклоочиститель
-`jetour_dashing_ru_7db9ae53` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:105 | doc_type:owners_manual
 • Шатун
 заднего
 стеклоочистителя:
@@ -23323,7 +21257,6 @@ ON/OFF.
 положение
 
 ### R,
-`jetour_dashing_ru_a8cbece8` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:105 | doc_type:owners_manual
 задний
 стеклоочиститель
 будет
@@ -23340,14 +21273,12 @@ ON/OFF.
 экстремальная скорость.
 
 ### Настройка
-`jetour_dashing_ru_90d532a9` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:105 | doc_type:owners_manual
 звукового
 эффекта
 приветствия: Можно выбрать четыре
 звуковых эффекта.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_3af27d91` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:106 | doc_type:owners_manual
 90
 HUD: ON/OFF.
 • Нормальный режим/Снежный режим.
@@ -23357,12 +21288,10 @@ HUD: ON/OFF.
 ручной.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_defc1ee8` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:106 | doc_type:owners_manual
 Подробнее  о  HUD  см.  в  разделе
 «Проекционный дисплейе.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_defc1ee8` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:106 | doc_type:owners_manual
 Элементы настройки различаются в зависимости от конфигурации автомобиля.
 Пожалуйста, обратитесь к фактической конфигурации автомобиля.
 Мультимедийный вид (Тип B)
@@ -23378,7 +21307,6 @@ HUD: ON/OFF.
 10    11
 
 ### Переключатель
-`jetour_dashing_ru_b78b2c0f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:106 | doc_type:owners_manual
 обогрева
 переднего
 сиденья
@@ -23387,7 +21315,6 @@ HUD: ON/OFF.
 воздуха
 
 ### Переключатель
-`jetour_dashing_ru_b78b2c0f` | dashing | pdf_manual | tier:2 | lang:ru | layer:hvac | p:106 | doc_type:owners_manual
 вентиляции
 переднего сиденья
 Переключатель
@@ -23398,7 +21325,6 @@ HUD: ON/OFF.
 Тел.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_a6f12264` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:107 | doc_type:owners_manual
 91
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Контекстное меню
@@ -23424,7 +21350,6 @@ Bluetooth,
 справа.
 
 ### Настройки автомобиля
-`jetour_dashing_ru_dc1ab4c1` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:107 | doc_type:owners_manual
 Общее
 Экран
 общих
@@ -23439,13 +21364,11 @@ Bluetooth,
 автоматическое удержание и т.д.
 
 ### OMX65-4065
-`jetour_dashing_ru_19ebe332` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:107 | doc_type:owners_manual
 ■ Наружное зеркало заднего вида
 Автоматическое   складывание   зеркала
 заднего вида при блокировке: ON/OFF.
 
 ### Опускание
-`jetour_dashing_ru_5357ba9e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:107 | doc_type:owners_manual
 зеркала
 при
 движении
@@ -23456,7 +21379,6 @@ OFF,
 Передний пассажир, Обе стороны.
 
 ### Наружное
-`jetour_dashing_ru_cceeea5b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:107 | doc_type:owners_manual
 зеркало
 заднего
 вида:
@@ -23464,7 +21386,6 @@ OFF,
 OMX65-4066
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_0567fead` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:108 | doc_type:owners_manual
 92
 ■ Рулевое колесо
 Режим электроусилителя руля: Легкий/
@@ -23477,7 +21398,6 @@ OMX65-4066
 Обогрев рулевого колеса: ON/OFF.
 
 ### Пользовательский
-`jetour_dashing_ru_21b8ea0d` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:108 | doc_type:owners_manual
 *
 ключ:
 Долго
@@ -23486,7 +21406,6 @@ OMX65-4066
 ■ Сиденье
 
 ### Приветствие
-`jetour_dashing_ru_da127198` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 на
 место
 водителя/
@@ -23498,14 +21417,12 @@ OMX65-4066
 установите массаж сиденья.
 
 ### Память
-`jetour_dashing_ru_df27dae8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 сиденья:
 Установлен
 для
 сохранения положения памяти сиденья.
 
 ### Режим вождения
-`jetour_dashing_ru_66c35c41` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:108 | doc_type:owners_manual
 Режим вождения: Цикл между обычным
 режимом/спортивным
 режимом/
@@ -23517,7 +21434,6 @@ OMX65-4066
 снежным режимом.
 
 ### Интеллектуальный
-`jetour_dashing_ru_3d30be96` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:108 | doc_type:owners_manual
 дальний/ближний
 свет: ON/OFF.
 Вспышка при смене полосы движения:
@@ -23526,7 +21442,6 @@ OMX65-4066
 Высота фары: Уровень 0 - 3.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_72eda1d8` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:109 | doc_type:owners_manual
 93
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Амбиентная лампа
@@ -23535,7 +21450,6 @@ OMX65-4066
 освещения:
 
 ### ON/OFF.
-`jetour_dashing_ru_3feaf31e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 Яркость:
 Когда
 ползунок
@@ -23547,13 +21461,11 @@ OMX65-4066
 Музыкальный ритм: ON/OFF.
 
 ### OMX65-4070
-`jetour_dashing_ru_57c13de0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 Эффект детекторной лампы PM2.5: ON/OFF.
 Приветствие и прощание: ON/OFF.
 Изменение яркости амбиентной лампы во время вождения: OFF / Нормальный /
 
 ### Тусклый
-`jetour_dashing_ru_1edb78a6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 Режим дыхания: OFF / Один цвет / Полноцвет.
 Дверной замок:
 Автоматическая блокировка: ON/OFF.
@@ -23563,7 +21475,6 @@ OMX65-4066
 Вспышка / Звук / Вспышка+Звук
 
 ### OMX65-4071
-`jetour_dashing_ru_ad743ab6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 Автоматическое раскладывание после разблокировки: ON/OFF.
 Время складывания дверной ручки: 30 с / 60 с / 180 с
 Настройки разблокировки четырех дверей: Одновременная разблокировка четырех
@@ -23572,14 +21483,12 @@ OMX65-4066
 двери: Пробуждение голосом / Выключение.
 
 ### Помощь водителю
-`jetour_dashing_ru_c38690ed` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 ■ Активная безопасность
 Автоматическое
 экстренное
 торможение: ON/OFF.
 
 ### Напоминание
-`jetour_dashing_ru_fce92a1e` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:109 | doc_type:owners_manual
 о
 выходе
 из
@@ -23587,24 +21496,20 @@ OMX65-4066
 Интеллектуальное избегание: ON/OFF.
 
 ### Вмешательство в систему помощи при
-`jetour_dashing_ru_fd3d997e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:109 | doc_type:owners_manual
 движении по полосе: ON/OFF.
 OMX65-4072
 3. ВНУТРЕННЯЯ ФУНКЦИЯ
 94
 ■ Предупреждение о безопасности
 
-### Предупреждение
-`jetour_dashing_ru_89933e52` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
-о
-переднем
-столкновении: ON/OFF.
-Чувствительность:
-дальний/средний/
-ближний.
+> ⚠️ **Внимание:** о
+> переднем
+> столкновении: ON/OFF.
+> Чувствительность:
+> дальний/средний/
+> ближний.
 
 ### Предупреждение  о  выезде  из  полосы
-`jetour_dashing_ru_7adb7f52` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 движения: ON/OFF.
 Чувствительность: Низкий/высокий.
 Парковочный радар:ON/OFF.
@@ -23612,56 +21517,46 @@ OMX65-4072
 Предупреждение  об  открытии  двери:
 
 ### ON/OFF.
-`jetour_dashing_ru_e1761a68` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 Напоминание о выезде  с  дороги: ON/
 OFF.
 Подключение мобильного телефона (при наличии)
 
 ### CarPlay
-`jetour_dashing_ru_9eb4b2ef` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 ■ Проводное соединение
 1. Соедините телефон и порт USB в автомобиле с помощью оригинального кабеля
 для передачи данных;
 
 ### 2. Нажмите кнопку CarPlay, чтобы войти в главный экран CarPlay.
-`jetour_dashing_ru_0cbe566a` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:110 | doc_type:owners_manual
 ■ Беспроводное соединение (при наличии)
 1. Включите  Bluetooth  на  iPhone  и  переключатель  CarPlay,  а  затем  включите
 Bluetooth на мультимедийном дисплее;
 
 ### 2. Сопоставьте и соедините Bluetooth в телефоне и Bluetooth на мультимедийном
-`jetour_dashing_ru_b748df34` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:110 | doc_type:owners_manual
 дисплее. Когда на телефоне появится окно с подсказкой для первого соединения,
 выберите использование Carplay;
 
 ### 3. После успешного сопряжения Bluetooth на мультимедийном дисплее появится
-`jetour_dashing_ru_3b10e886` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:110 | doc_type:owners_manual
 подсказка о необходимости использования функции Apple Carplay. Нажмите ОК.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_7d943e1f` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:110 | doc_type:owners_manual
 После успешного беспроводного соединения значок Carplay станет выделенным,
 а значок Bluetooth будет отображаться серым цветом в отключенном состоянии,
 что является нормальным явлением.
 
 ### Андроид Авто
-`jetour_dashing_ru_0f23de65` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:110 | doc_type:owners_manual
 ■ Проводное соединение
 1. На телефон необходимо заранее установить Android Auto из Google Store;
 
 ### 2. Соедините телефон и порт USB в автомобиле с помощью оригинального кабеля
-`jetour_dashing_ru_1fa6f8f8` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:110 | doc_type:owners_manual
 для передачи данных;
 3. Когда  на  мультимедийном  дисплее  появится  окно  с  подсказкой  для  первого
 соединения, выберите использование Андроид Авто;
 
 ### 4. После успешного подключения войдите в экран Андроид Авто.
-`jetour_dashing_ru_19f20025` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:110 | doc_type:owners_manual
 ■ Беспроводное соединение (при наличии)
 1. На телефон необходимо заранее установить Android Auto из Google Store;
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_b1291e06` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:111 | doc_type:owners_manual
 95
 ВНУТРЕННЯЯ ФУНКЦИЯ
 2 . Включите Bluetooth в телефоне и Bluetooth на мультимедийном дисплее;
@@ -23670,7 +21565,6 @@ Bluetooth на мультимедийном дисплее;
 соедините
 
 ### Bluetooth
-`jetour_dashing_ru_c89d26ce` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:111 | doc_type:owners_manual
 в
 телефоне
 и
@@ -23683,13 +21577,11 @@ Bluetooth
 сопряжения
 
 ### Андроид
-`jetour_dashing_ru_63d72dea` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:111 | doc_type:owners_manual
 Авто
 автоматически
 подключится и войдет на экран Андроид Авто.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_bd658c83` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:111 | doc_type:owners_manual
 Когда мобильный телефон подключен к Андроид Авто, если мобильный телефон
 не поддерживает мультимедийный дисплей для получения статуса вызова, на
 мультимедийном дисплее не отображается уведомление о входящем вызове при
@@ -23706,7 +21598,6 @@ Bluetooth
 вызов.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_3492d440` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:112 | doc_type:owners_manual
 96
 9
 1
@@ -23731,7 +21622,6 @@ Bluetooth
 20
 
 ### OMX65-4200
-`jetour_dashing_ru_19f60bfa` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 Зона
 регулировки
 температуры водителя
@@ -23739,7 +21629,6 @@ Bluetooth
 на лицо
 
 ### Кнопка
-`jetour_dashing_ru_2614754d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 режима
 размораживания
 ног/
@@ -23750,13 +21639,11 @@ Bluetooth
 пассажира
 
 ### Кнопка
-`jetour_dashing_ru_2614754d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 обогрева
 заднего левого сиденья
 (если комплектован)
 
 ### Кнопка режима обдува
-`jetour_dashing_ru_024d8b04` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 на ноги
 Зона         регулировки
 объема
@@ -23764,7 +21651,6 @@ Bluetooth
 потока
 
 ### Кнопка
-`jetour_dashing_ru_2614754d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 переднего
 размораживания
 Мягкая кнопка обогрева
@@ -23772,14 +21658,12 @@ Bluetooth
 комплектован)
 
 ### Кнопка  режима  обдува
-`jetour_dashing_ru_d073886a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 на лицо/ноги
 Кнопка
 интеллектуального
 воздушного фильтра
 
 ### Кнопка
-`jetour_dashing_ru_2614754d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 заднего
 размораживания
 Кнопка A/C
@@ -23791,7 +21675,6 @@ Bluetooth
 зонами A/C
 
 ### Кнопка
-`jetour_dashing_ru_2614754d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 переключения
 A/C
 Кнопка AUTO
@@ -23801,7 +21684,6 @@ A/C
 воздуха
 
 ### Кнопка
-`jetour_dashing_ru_2614754d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:112 | doc_type:owners_manual
 режима
 энергосбережения
 Кнопка настройки A/C
@@ -23809,7 +21691,6 @@ A/C
 97
 
 ### ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_fa2a100c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 Система кондиционирования воздуха (Тип A)
 1
 2
@@ -23827,7 +21708,6 @@ A/C
 14
 
 ### OMX65-4201
-`jetour_dashing_ru_fadc3d8d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 Зона
 регулировки
 температуры водителя
@@ -23844,14 +21724,12 @@ A/C
 Кнопка A/C MAX
 
 ### Переключатель
-`jetour_dashing_ru_8ccfea0c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 регулировки
 режима
 выхода  кондиционера
 Переключатель  питания
 
 ### Кнопка
-`jetour_dashing_ru_e5d201f2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 наружного/
 рециркуляционного
 воздуха
@@ -23860,7 +21738,6 @@ A/C
 размораживания
 
 ### Переключатель
-`jetour_dashing_ru_8ccfea0c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 регулировки
 режима
 работы A/C
@@ -23868,7 +21745,6 @@ A/C
 обогрева сиденья
 
 ### Кнопка
-`jetour_dashing_ru_e5d201f2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:113 | doc_type:owners_manual
 заднего
 размораживания
 Переключатель
@@ -23878,7 +21754,6 @@ A/C
 наличии)
 
 ### Переключатель
-`jetour_dashing_ru_8ccfea0c` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:113 | doc_type:owners_manual
 обогрева
 рулевого
 колеса
@@ -23891,14 +21766,12 @@ A/C
 условия по-прежнему регулируются автоматически.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_356418bc` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:114 | doc_type:owners_manual
 98
 Регулировка объема воздушного потока
 Управляйте регулировкой объема воздушного потока на мультимедийном дисплее,
 чтобы реализовать регулировку температуры кондиционера.
 
 ### Регулировка температуры
-`jetour_dashing_ru_7358241c` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:114 | doc_type:owners_manual
 Управляйте регулировкой температуры на мультимедийном дисплее, чтобы
 выполнить регулировку температуры кондиционера.
 Кнопка синхронизации с двумя температурными зонами A/C
@@ -23913,7 +21786,6 @@ A/C
 загорается значок кнопки.
 
 ### Когда кнопка регулировки температуры со стороны переднего пассажира
-`jetour_dashing_ru_cd7092f3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:114 | doc_type:owners_manual
 используется
 в
 синхронном
@@ -23953,7 +21825,6 @@ A/C
 • Для предотвращения попадания выхлопных газов извне в автомобиль.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_d1e560e0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 99
 ВНУТРЕННЯЯ ФУНКЦИЯ
 ВНИМАНИЕ
@@ -23969,7 +21840,6 @@ A/C
 элемента A/C.
 
 ### Регулировка режима выхода
-`jetour_dashing_ru_04ab8d15` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:115 | doc_type:owners_manual
 Когда  питание  автомобиля  переключено  в  режим  ON,  нажмите  кнопку  режима
 выпуска воздуха, чтобы отрегулировать выпуск воздуха.
 Режим обдува на лицо: он может регулировать поток воздуха, выходящий из центра
@@ -23982,12 +21852,10 @@ A/C
 воздуха, выдуваемый из отверстия для размораживания и выхода для ног.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_b0e7030e` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:115 | doc_type:owners_manual
 Если ветровое стекло запотевает во время движения, рекомендуется режим
 оттаивания лобового стекла.
 
 ### Кнопка переднего размораживания
-`jetour_dashing_ru_e5131468` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:115 | doc_type:owners_manual
 После нажатия кнопки переднего размораживания отрегулируйте, чтобы большая
 часть воздушного потока дула на переднее лобовое стекло,  а  небольшое
 количество воздуха дуло на боковое лобовое стекло.
@@ -24006,18 +21874,15 @@ A/C
 Шаг 4: Настройте режим на режим переднего размораживания или режим
 переднего размораживания/педальный режим.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_bf790072` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:115 | doc_type:owners_manual
-• В целях безопасности вождения, пожалуйста, правильно используйте функцию
-предотвращения запотевания.
-• Зимой не используйте режим рециркуляции воздуха в длительное время, иначе
-переднее ветровое стекло быстро запотеет.
-• лохая видимость через стекло увеличивает риск дорожно-транспортных
-происшествий и травм. Поэтому для безопасности дорожного движения очень
-важно обеспечить хорошую видимость во время вождения.
+> ⚠️ **Внимание:** • В целях безопасности вождения, пожалуйста, правильно используйте функцию
+> предотвращения запотевания.
+> • Зимой не используйте режим рециркуляции воздуха в длительное время, иначе
+> переднее ветровое стекло быстро запотеет.
+> • лохая видимость через стекло увеличивает риск дорожно-транспортных
+> происшествий и травм. Поэтому для безопасности дорожного движения очень
+> важно обеспечить хорошую видимость во время вождения.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_91ed8bfc` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:116 | doc_type:owners_manual
 100
 Кнопка заднего размораживания
 После нажатия кнопки переднего размораживания. Когда индикатор загорается,
@@ -24026,19 +21891,16 @@ A/C
 функция размораживания заднего  ветрового стекла/наружного  зеркала заднего
 вида отключена.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_c8f61ac2` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:116 | doc_type:owners_manual
-• Не царапайте и не повреждайте провода нагревателя при очистке заднего
-ветрового стекла/наружного зеркала заднего вида.
-• Когда батарея разряжена, функция оттаивания заднего ветрового стекла/
-наружного зеркала заднего вида не может быть включена, чтобы обеспечить
-нормальный запуск автомобиля.
-• Убедитесь, что функция оттаивания заднего ветрового стекла/наружного
-зеркала заднего вида выключена, когда запотевание или иней на заднем
-ветровом стекле/наружном зеркале заднего вида очищены.
+> ⚠️ **Внимание:** • Не царапайте и не повреждайте провода нагревателя при очистке заднего
+> ветрового стекла/наружного зеркала заднего вида.
+> • Когда батарея разряжена, функция оттаивания заднего ветрового стекла/
+> наружного зеркала заднего вида не может быть включена, чтобы обеспечить
+> нормальный запуск автомобиля.
+> • Убедитесь, что функция оттаивания заднего ветрового стекла/наружного
+> зеркала заднего вида выключена, когда запотевание или иней на заднем
+> ветровом стекле/наружном зеркале заднего вида очищены.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_fae79bcc` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:116 | doc_type:owners_manual
 Чтобы не обжечься, не прикасайтесь к заднему ветровому стеклу/наружному
 зеркалу заднего вида, когда работает функция размораживания заднего
 ветрового
@@ -24068,19 +21930,16 @@ A/C
 Напоминание об очистке воздуха: ON/OFF.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_1779a04a` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:116 | doc_type:owners_manual
 Элементы   настройки   A/C   различаются   в   зависимости   от   конфигурации
 автомобиля. Пожалуйста, обратитесь к фактической конфигурации автомобиля.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_50d7f7c4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:117 | doc_type:owners_manual
 101
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Функция охлаждения коробки подлокотника на вспомогательной
 приборной панели
 
 ### Коробка
-`jetour_dashing_ru_9ba732a6` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:117 | doc_type:owners_manual
 подлокотника
 на
 вспомогательной
@@ -24101,7 +21960,6 @@ A/C
 панели.
 
 ### Кондиционер
-`jetour_dashing_ru_022577b1` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:117 | doc_type:owners_manual
 включает
 режим
 для
@@ -24113,11 +21971,9 @@ A/C
 3-7. Беспроводная зарядка (при наличии)
 
 ### Беспроводная зарядка использует технологию электромагнитной индукции удобно
-`jetour_dashing_ru_663b8b16` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:117 | doc_type:owners_manual
 и безопасно, чтобы обеспечить лучший опыт во время вождения.
 
 ### Зона беспроводной зарядки телефона
-`jetour_dashing_ru_c021a2d7` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:117 | doc_type:owners_manual
 находится
 в
 передней
@@ -24151,7 +22007,6 @@ A/C
 ним.
 
 ### Функция беспроводной зарядки мобильного телефона основана на принципе
-`jetour_dashing_ru_05e4d3fa` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:117 | doc_type:owners_manual
 индукции электромагнитной волны, которая передает электрическую энергию
 катушки на батарею мобильного телефона, что позволяет мобильному телефону
 заряжаться без проводного подключения.
@@ -24171,7 +22026,6 @@ A/C
 зарядить.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_74836449` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 102
 • Когда температура поверхности зоны обнаружения беспроводной зарядки
 слишком высока из-за воздействия солнечных лучей, модуль беспроводной
@@ -24183,7 +22037,6 @@ A/C
 Jetour.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_8ffa21a8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:118 | doc_type:owners_manual
 • Одновременно можно заряжать только один мобильный телефон.
 • При движении по ухабистым дорогам, функция беспроводной зарядки телефона
 может прекращать зарядку и периодически возобновлять зарядку.
@@ -24241,7 +22094,6 @@ Jetour.
 зарядки.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_463de334` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:119 | doc_type:owners_manual
 103
 ВНУТРЕННЯЯ ФУНКЦИЯ
 ВНИМАНИЕ
@@ -24264,16 +22116,13 @@ Jetour.
 сжечь карты.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_84894360` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 104
 3-8. Функция записи вождения (если комплектован)
 
 ### Регистратор вождения может записывать видеоизображение и звук всего процесса
-`jetour_dashing_ru_06823f78` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 вождения, что может свидетельствовать о дорожно-транспортных происшествиях.
 
 ### Любители самостоятельных путешествий также могут использовать его для записи
-`jetour_dashing_ru_ea3e9eb8` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:120 | doc_type:owners_manual
 процесса преодоления трудностей и опасностей. Она записывает время, скорость
 и свет в видео во время вождения, что похоже на «черный ящике.
 Перед запуском, вставьте диск U, чтобы
@@ -24290,7 +22139,6 @@ Jetour.
 воспроизведены.
 
 ### Настройка
-`jetour_dashing_ru_f6bdd8e3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:120 | doc_type:owners_manual
 ◆Автоматическая запись видео во время вождения
 ON/OFF, по умолчанию: ON. После запуска службы включения системы,  запись
 будет выполняться автоматически. Запись события не контролируется этим
@@ -24309,7 +22157,6 @@ ON/OFF, по умолчанию: OFF. Когда он выключен, если
 Выполните очистку одним касанием для изображения и видео рекордера.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_a2f11d81` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 105
 ВНУТРЕННЯЯ ФУНКЦИЯ
 ПРОЧИТАЙТЕ
@@ -24346,32 +22193,26 @@ USB-порт для регистратора вождения.
 3-9. Пространство для хранения
 
 ### Коробка для очков
-`jetour_dashing_ru_24078440` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:121 | doc_type:owners_manual
 Ящик для хранения очков находится рядом с передним плафоном вплотную. В нем
 можно хранить очки или другие мелкие предметы. При размещении очков
 необходимо нормально сложить обе дужки, линзами вперед и дужками вверх. В
 противном случае, очки могут выпасть при открытии коробки для очков.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_ef74613a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 Некоторые большие солнцезащитные очки нельзя помещать в коробку для очков.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_1c782d1d` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:121 | doc_type:owners_manual
 Убедитесь, что коробка для очков закрыта во время вождения.
 
 ### Дверные ящики для хранения
-`jetour_dashing_ru_d33a7ea4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 Вещевые  ящики  на  дверях  переднего  и  второго  ряда  можно  использовать  для
 хранения карт, чашек и других предметов.
 
 ### Багажный крюк
-`jetour_dashing_ru_0b83f3d7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:121 | doc_type:owners_manual
 Багажный  крюк  находится  на  правой  стороне  приборной  панели,  рядом  с
 перчаточным ящиком.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_50265e5e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 106
 Во время использования, нажмите на нижний конец багажного крючка, всплывайте
 верхний конец, а затем опустите багажный крюк.
@@ -24382,23 +22223,19 @@ USB-порт для регистратора вождения.
 вождением убедитесь, что все предметы надежно закреплены.
 
 ### Перчаточный ящик
-`jetour_dashing_ru_efffead0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 Перчаточный ящик используется для хранения карты, инструкций и других
 предметов.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_760faf0c` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:122 | doc_type:owners_manual
 Перед началом движения убедитесь, что перчаточный ящик полностью закрыт. В
 противном случае в случае экстренного торможения или экстренного руления это
 может привести к несчастным случаям и серьезным травмам или даже смерти.
 
 ### Сумка для хранения сиденья
-`jetour_dashing_ru_2b599549` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 Спинки передних сидений оснащены сумками для хранения на задней стороне,
 которые используются для хранения документов, инструкций и т. д.
 
 ### Второй
-`jetour_dashing_ru_0285bc13` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 ряд
 сидений
 оснащен
@@ -24410,12 +22247,10 @@ USB-порт для регистратора вождения.
 положение, когда он не используется.
 
 ### Взрослым или детям не разрешается сидеть на коробке для подлокотника на
-`jetour_dashing_ru_3e4b4d51` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 вспомогательной панели управления.
 Передний подстаканник
 
 ### Подстаканник
-`jetour_dashing_ru_96d1ea10` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 используется
 для
 удобного
@@ -24425,14 +22260,12 @@ USB-порт для регистратора вождения.
 напитками и т. д.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_996a7fca` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:122 | doc_type:owners_manual
 • Не  ставьте  слишком  маленькую  или  плохо  устойчивую  банку  с  напитком  в
 подстаканник, иначе она может опрокинуться.
 • Пожалуйста,   убедитесь,   что   крышка   банки   с   напитком   закрыта,   чтобы
 предотвратить выплескивание жидкости внутри.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_74a12594` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 107
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Задний подстаканник
@@ -24447,28 +22280,23 @@ USB-порт для регистратора вождения.
 подлокотник в исходное положение.
 
 ### Держатель для бутылок
-`jetour_dashing_ru_264d1bee` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 На внутренней стороне двери есть держатель для бутылок, и можно размещать
 только герметичные контейнеры для бутылок.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_def2a454` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 Пожалуйста,   убедитесь,   что   крышка   банки   с   напитком   закрыта,   чтобы
 предотвратить выплескивание жидкости внутри.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_e3cb9406` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 Не кладите в держатель для бутылок ничего, кроме бутылок. В противном случае,
 в случае аварии или экстренного торможения, предметы могут быть выброшены
 из держателя для бутылок и нанести травму.
 
 ### Ящик для хранения зонта
-`jetour_dashing_ru_91d68aa4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:123 | doc_type:owners_manual
 Под подлокотником внутри двери есть ящик для хранения зонтов, в который можно
 поместить сложенный зонт.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_86ee78db` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 108
 OMT18-8050
 3-10. Электрическая розетка
@@ -24476,7 +22304,6 @@ OMT18-8050
 тип A
 
 ### Передняя
-`jetour_dashing_ru_db8acdcf` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 электрическая
 розетка
 расположена
@@ -24485,7 +22312,6 @@ OMT18-8050
 подлокотником.
 
 ### Откройте
-`jetour_dashing_ru_ca4c32c2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 защитную
 крышку
 для
@@ -24498,7 +22324,6 @@ OMT18-8050
 12 В и рабочим током 10 А или менее.
 
 ### OMX65-4330
-`jetour_dashing_ru_8217601d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:124 | doc_type:owners_manual
 тип B
 Передняя
 электрическая
@@ -24514,21 +22339,18 @@ OMT18-8050
 аксессуаров с рабочим напряжением
 12 В и рабочим током 10 А или менее.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_ad3a4dcd` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:124 | doc_type:owners_manual
-• Во избежание перегорания предохранителя не используйте принадлежности с
-номинальным напряжением более 12 В.
-• Во избежание разрядки аккумулятора не используйте розетку дольше, чем
-необходимо, при неработающем двигателе.
-• Не вставляйте в розетку ничего и не допускайте попадания какой-либо
-жидкости, кроме соответствующей вилки. Невыполнение этого требования
-может привести к сбою в электросети или короткому замыканию.
-• Когда розетка не используется, защитная крышка должна быть закрыта, иначе в
-розетку попадут посторонние предметы или жидкость, что вызовет короткое
-замыкание.
+> ⚠️ **Внимание:** • Во избежание перегорания предохранителя не используйте принадлежности с
+> номинальным напряжением более 12 В.
+> • Во избежание разрядки аккумулятора не используйте розетку дольше, чем
+> необходимо, при неработающем двигателе.
+> • Не вставляйте в розетку ничего и не допускайте попадания какой-либо
+> жидкости, кроме соответствующей вилки. Невыполнение этого требования
+> может привести к сбою в электросети или короткому замыканию.
+> • Когда розетка не используется, защитная крышка должна быть закрыта, иначе в
+> розетку попадут посторонние предметы или жидкость, что вызовет короткое
+> замыкание.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_f3dfec84` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 109
 OMT18-8050
 ВНУТРЕННЯЯ ФУНКЦИЯ
@@ -24536,12 +22358,10 @@ OMT18-8050
 Спереди
 
 ### Передний   порт   USB   находится   под
-`jetour_dashing_ru_ca6594b1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 центральным подлокотником.
 USB-порт для передачи данных.
 
 ### Порт регистратора вождения
-`jetour_dashing_ru_44a5fb40` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:125 | doc_type:owners_manual
 1
 2
 OMX65-4410
@@ -24560,7 +22380,6 @@ OMX65-4410
 2
 
 ### OMX65-4412
-`jetour_dashing_ru_c8b52b56` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:125 | doc_type:owners_manual
 тип B
 Порт USB.
 Порт Type-C.
@@ -24576,7 +22395,6 @@ OMX65-4410
 телефон и т.д.
 
 ### OMX65-4333
-`jetour_dashing_ru_2bd0cda8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:125 | doc_type:owners_manual
 Сзади
 Задний порт USB расположен под
 задним
@@ -24590,12 +22408,10 @@ OMX65-4410
 внешних USB-устройств.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_a9a1b9a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:126 | doc_type:owners_manual
 110
 3-12. Солнцезащитные козырьки и косметическое зеркало
 
 ### Солнцезащитные козырьки и косметическое зеркало
-`jetour_dashing_ru_53568436` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:126 | doc_type:owners_manual
 1
 2
 START
@@ -24611,7 +22427,6 @@ OMX65-4150
 положение прямого хода.
 
 ### Откиньте солнцезащитный козырек
-`jetour_dashing_ru_35c7a28a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:126 | doc_type:owners_manual
 вниз,  отсоедините  крючок,  а  затем
 поверните
 в
@@ -24620,7 +22435,6 @@ OMX65-4150
 установить его в боковое положение.
 
 ### Косметическое зеркало расположено на
-`jetour_dashing_ru_f988fb43` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:126 | doc_type:owners_manual
 солнцезащитном
 козырьке.
 Откиньте
@@ -24636,23 +22450,20 @@ OMX65-4150
 воспользоваться
 косметическим зеркалом.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_401459d6` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:126 | doc_type:owners_manual
-• Не кладите твердые предметы, такие как CD и металлические карты, за
-солнцезащитные козырьки, чтобы эти предметы не травмировали людей в
-автомобиле во время дорожно-транспортных происшествий.
-• Держите крышку косметического зеркала закрытой, когда косметическое
-зеркало не используется.
-3-13. Капот
-Открытие/закрытие капота
-Следуйте инструкциям ниже, откройте
-капот.
-Шаг 1: Капот слегка приподнимется,
-если потянуть ручку открывания капота
-наружу (как показано на рисунке слева).
+> ⚠️ **Внимание:** • Не кладите твердые предметы, такие как CD и металлические карты, за
+> солнцезащитные козырьки, чтобы эти предметы не травмировали людей в
+> автомобиле во время дорожно-транспортных происшествий.
+> • Держите крышку косметического зеркала закрытой, когда косметическое
+> зеркало не используется.
+> 3-13. Капот
+> Открытие/закрытие капота
+> Следуйте инструкциям ниже, откройте
+> капот.
+> Шаг 1: Капот слегка приподнимется,
+> если потянуть ручку открывания капота
+> наружу (как показано на рисунке слева).
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_4384248f` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:127 | doc_type:owners_manual
 111
 ВНУТРЕННЯЯ ФУНКЦИЯ
 OMX65-4152
@@ -24683,7 +22494,6 @@ OMX65-4152
 опорный паз для поддержки капота;
 
 ### OMX65-4153
-`jetour_dashing_ru_4e96292c` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:127 | doc_type:owners_manual
 Шаг
 4:
 Перед
@@ -24710,29 +22520,26 @@ OMX65-4152
 приподнимите его, чтобы убедиться,
 что он полностью закрыт.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_d8810d7a` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:127 | doc_type:owners_manual
-• Прежде чем закрыть капот, проверьте область под капотом, чтобы убедиться,
-что крышки всех контейнеров на месте, а все разбросанные предметы (-
-например, инструменты и т. д.) убраны.
-• Закрывая
-капот,
-не
-нажимайте
-на
-него
-руками,
-иначе
-он
-может
-деформироваться.
-• Перед началом движения убедитесь, что капот закрыт или заперт, иначе
-возможны несчастные случаи и травмы.
-3-14. Дверь багажного отделения
-Дверь багажного отделения с электродвигателем (при наличии)
+> ⚠️ **Внимание:** • Прежде чем закрыть капот, проверьте область под капотом, чтобы убедиться,
+> что крышки всех контейнеров на месте, а все разбросанные предметы (-
+> например, инструменты и т. д.) убраны.
+> • Закрывая
+> капот,
+> не
+> нажимайте
+> на
+> него
+> руками,
+> иначе
+> он
+> может
+> деформироваться.
+> • Перед началом движения убедитесь, что капот закрыт или заперт, иначе
+> возможны несчастные случаи и травмы.
+> 3-14. Дверь багажного отделения
+> Дверь багажного отделения с электродвигателем (при наличии)
 
 ### Для вашего удобства дверь багажного отделения с электроприводом можно
-`jetour_dashing_ru_3690bc6a` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:127 | doc_type:owners_manual
 открыть/закрыть следующими способами, чтобы вы в полной мере ощутили
 удобство двери багажного отделения с электроприводом.
 Использование смарт-ключа
@@ -24744,7 +22551,6 @@ OMX65-4152
 действие двери багажного отделения с электроприводом.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_fce71682` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:128 | doc_type:owners_manual
 112
 Внешний переключатель двери багажного отделения
 Способ 1: Когда центральный замок
@@ -24769,7 +22575,6 @@ OMX65-4152
 части    автомобиля,    неся    при    себе
 
 ### OMX65-4171
-`jetour_dashing_ru_17495a32` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:128 | doc_type:owners_manual
 смарт-ключ,
 и
 нажмите
@@ -24787,7 +22592,6 @@ OMX65-4152
 откроется/закроется.
 
 ### Когда скорость автомобиля превышает
-`jetour_dashing_ru_b4dc40fd` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:128 | doc_type:owners_manual
 2 км/ч, дверь багажного отделения не
 может
 быть
@@ -24797,7 +22601,6 @@ OMX65-4152
 электропривода.
 
 ### Когда дверь багажного отделения с
-`jetour_dashing_ru_78152c70` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:128 | doc_type:owners_manual
 электроприводом откроется, нажмите
 внутренний
 переключатель
@@ -24810,7 +22613,6 @@ OMX65-4152
 электроприводом.
 
 ### Когда дверь багажного отделения с
-`jetour_dashing_ru_78152c70` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:128 | doc_type:owners_manual
 электроприводом движется, нажмите
 внутренний
 переключатель
@@ -24820,7 +22622,6 @@ OMX65-4152
 чтобы
 
 ### Настройка мультимедийного дисплея
-`jetour_dashing_ru_1a816571` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:128 | doc_type:owners_manual
 приостановить
 действие
 двери
@@ -24830,7 +22631,6 @@ OMX65-4152
 электроприводом.
 
 ### Включите
-`jetour_dashing_ru_97954120` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:128 | doc_type:owners_manual
 питание
 автомобиля
 в
@@ -24850,13 +22650,11 @@ OMX65-4152
 электроприводом на желаемую высоту.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_ae9babc4` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:129 | doc_type:owners_manual
 113
 ВНУТРЕННЯЯ ФУНКЦИЯ
 Датчик пинка (если комплектован)
 
 ### Переключите питание автомобиля в
-`jetour_dashing_ru_e79b3bac` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:129 | doc_type:owners_manual
 режим OFF, носите ключ с собой и
 вытяните одну ногу, чтобы ударить по
 нижнему
@@ -24883,7 +22681,6 @@ OMX65-4152
 эту функцию.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_2727b029` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:129 | doc_type:owners_manual
 • Индукция открытия двери багажного отделения с помощью смарт-ключа
 требует  настройки  на  мультимедийном  дисплее.  Подробнее  см.  в  разделе
 «Мультимедийный дисплейе.
@@ -24898,7 +22695,6 @@ OMX65-4152
 переключатель двери багажного отделения, дверь остановится.
 
 ### Функция защиты от застревания
-`jetour_dashing_ru_4f6c90d4` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:129 | doc_type:owners_manual
 Если дверь багажного отделения с двигателем будет закрыта каким-либо
 предметом
 во
@@ -24914,7 +22710,6 @@ OMX65-4152
 отделения, чтобы избежать повреждения автомобиля.
 
 ### Обратная
-`jetour_dashing_ru_33fc6fa7` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:129 | doc_type:owners_manual
 защита
 от
 заедания:
@@ -24930,7 +22725,6 @@ OMX65-4152
 автоматически, сигнал тревоги из клаксона сработает 3 раза.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_156411f6` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:130 | doc_type:owners_manual
 114
 1
 2
@@ -24950,13 +22744,11 @@ OMX65-4152
 электрическую функцию.
 
 ### После отключения питания дверь багажного отделения с электроприводом
-`jetour_dashing_ru_9a9ae69c` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:130 | doc_type:owners_manual
 необходимо изучить вручную. Закройте заднюю дверь в положение блокировки,
 нажмите переключатель открывания задней двери на задней двери, пока задняя
 дверь не откроется в максимальное положение, обучение выполнено успешно.
 
 ### Дверь багажного отделения не может
-`jetour_dashing_ru_3b7fab7a` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:130 | doc_type:owners_manual
 быть открыта, когда батарея разряжена
 или в подобных условиях. В этом случае
 заднюю
@@ -24982,13 +22774,11 @@ OMX65-4152
 3:
 
 ### Нажмите
-`jetour_dashing_ru_33ef218f` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:130 | doc_type:owners_manual
 переключатель
 аварийного  устройства  вправо,  чтобы
 открыть дверь багажного отделения.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_2f81318d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 115
 ВНУТРЕННЯЯ ФУНКЦИЯ
 3-15. Крышка топливного бака
@@ -24997,7 +22787,6 @@ OMX65-4152
 1:
 
 ### Переключите
-`jetour_dashing_ru_d11ead47` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 питание
 автомобиля в режим OFF, нажмите на
 крышку топливного бака, и крышка
@@ -25013,33 +22802,28 @@ OMX65-4152
 стрелки, чтобы снять её.
 
 ### OMX65-4181
-`jetour_dashing_ru_955ba651` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
 Шаг 3: После заправки поверните крышку топливного бака по часовой стрелке, пока
 не услышите «щелчоке. Затем полностью закройте крышку топливного бака.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_4dfbe702` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:131 | doc_type:owners_manual
 • Перед заправкой выключите переключатель ENGINE START STOP и убедитесь,
 что все двери и окна закрыты.
 • Перед заправкой проверьте тип топлива.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_e5385360` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:131 | doc_type:owners_manual
-• Предупреждающая
-табличка
-прикреплена
-к
-крышке
-топливного
-бака.
-Обязательно используйте указанный тип топлива.
-• Не проливайте топливо во время заправки. В противном случае автомобиль
-может быть  поврежден,  например, из-за  неправильной работы системы
-контроля выбросов, повреждения компонентов топливной системы или краски
-автомобиля.
+> ⚠️ **Внимание:** • Предупреждающая
+> табличка
+> прикреплена
+> к
+> крышке
+> топливного
+> бака.
+> Обязательно используйте указанный тип топлива.
+> • Не проливайте топливо во время заправки. В противном случае автомобиль
+> может быть  поврежден,  например, из-за  неправильной работы системы
+> контроля выбросов, повреждения компонентов топливной системы или краски
+> автомобиля.
 
 ### 3. ВНУТРЕННЯЯ ФУНКЦИЯ
-`jetour_dashing_ru_6c378971` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 116
 ОПАСНОСТЬ
 Топливо – это высокотемпературное легковоспламеняющееся и взрывоопасное
@@ -25070,7 +22854,6 @@ OMX65-4152
 запрещается курить, а также не должно быть других искр или открытого огня.
 
 ### Обязательно
-`jetour_dashing_ru_12a9c107` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:132 | doc_type:owners_manual
 выключите
 мобильный
 телефон,
@@ -25100,7 +22883,6 @@ OMX65-4152
 117
 
 ### ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_0255433c` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:134 | doc_type:owners_manual
 4-1. Режим питания
 автомобиля
 Переключатель
@@ -25109,7 +22891,6 @@ ENGINE START STOP  ...... 119
 Запуск автомобиля  ......... 119
 
 ### Адаптивная система
-`jetour_dashing_ru_65bf1834` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:134 | doc_type:owners_manual
 управления
 4-3. Бензиновый сажевый
 фильтр (GPF) (при
@@ -25118,14 +22899,12 @@ ENGINE START STOP  ...... 119
 4-4. Трансмиссия
 
 ### Автоматическая трансмиссия
-`jetour_dashing_ru_f3ed1e5a` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:134 | doc_type:owners_manual
 4-5. Интеллектуальная
 система  своевременного
 полного привода (AWD)
 (при наличии)
 
 ### Интеллектуальная
-`jetour_dashing_ru_73ee0c56` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:134 | doc_type:owners_manual
 система
 своевременного
 полного привода
@@ -25133,23 +22912,19 @@ ENGINE START STOP  ...... 119
 4-6. Рулевая система
 
 ### Система рулевого
-`jetour_dashing_ru_f60bea91` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:134 | doc_type:owners_manual
 управления с
 электроусилителем
 4-7. Тормозная система
 
 ### Система электрического
-`jetour_dashing_ru_a5801539` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:134 | doc_type:owners_manual
 стояночного тормоза
 
 ### Автоматическая
-`jetour_dashing_ru_4d58329c` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:134 | doc_type:owners_manual
 система удержания (-
 4-8. Антиблокировочная
 тормозная система (ABS)
 
 ### Антиблокировочная
-`jetour_dashing_ru_aa24d648` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:134 | doc_type:owners_manual
 тормозная система
 4-9. Система
 динамической
@@ -25157,7 +22932,6 @@ ENGINE START STOP  ...... 119
 стабилизации
 
 ### Интегрированного кузова
-`jetour_dashing_ru_99000779` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:134 | doc_type:owners_manual
 автомобиля
 Система
 динамической
@@ -25168,23 +22942,19 @@ ENGINE START STOP  ...... 119
 безопасности (SRS)
 
 ### Представление о
-`jetour_dashing_ru_9c2efc3c` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:134 | doc_type:owners_manual
 подушки безопасности
 
 ### Положение подушки
-`jetour_dashing_ru_39b535bf` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:134 | doc_type:owners_manual
 118
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 
 ### Правильное использование
-`jetour_dashing_ru_f9c1016f` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:135 | doc_type:owners_manual
 подушки
 безопасности……………148
 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
 119
 
 ### ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_00279d1f` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 4-1. Режим питания автомобиля
 Переключатель ENGINE START STOP
 Когда система обнаружит законный смарт-ключ и отпустит педаль тормоза,
@@ -25193,7 +22963,6 @@ ENGINE START STOP  ...... 119
 переключается один раз (OFF - ACC - ON - START).
 
 ### OMX65-5010
-`jetour_dashing_ru_de650de7` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:136 | doc_type:owners_manual
 Режим
 OFF:
 Выключите
@@ -25207,7 +22976,6 @@ OFF:
 автомобиля переведен в режим ACC/
 
 ### ON,
-`jetour_dashing_ru_1aa4bfbd` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:136 | doc_type:owners_manual
 нажмите
 педаль
 тормоза,
@@ -25219,7 +22987,6 @@ OFF:
 режим
 
 ### START,
-`jetour_dashing_ru_dafc4e75` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 и
 двигатель
 можно
@@ -25228,7 +22995,6 @@ OFF:
 нажав переключатель ENGINE START
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_2f9b7b57` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 • Если переключатель ENGINE START STOP не нажат должным образом, режим
 мощности автомобиля не может быть переключен или двигатель может не
 запуститься.
@@ -25237,7 +23003,6 @@ OFF:
 4-2. Запуск и вождение
 
 ### Методы для нормального запуска автомобиля
-`jetour_dashing_ru_0bca9288` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 Шаг 1: Поставьте стояночный тормоз
 Шаг 2: Выключите все ненужные огни и аксессуары.
 Шаг 3: Носите эффективный смарт-ключ.
@@ -25245,13 +23010,11 @@ OFF:
 одновременно.
 
 ### Запуск в аварийной ситуации
-`jetour_dashing_ru_4a1b4cc8` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:136 | doc_type:owners_manual
 При низком заряде батареи смарт-ключа или наличии серьезных помех сигналу
 бесключевой доступ и функция запуска не будут работать нормально. Запустите
 двигатель, выполнив следующие действия:
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_45ce5fff` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:137 | doc_type:owners_manual
 120
 OMX65-5300
 Шаг 1: Поставьте стояночный тормоз
@@ -25269,7 +23032,6 @@ OMX65-5300
 5:
 
 ### Нажмите
-`jetour_dashing_ru_22b1c2e8` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:137 | doc_type:owners_manual
 и
 удерживайте
 переключатель ENGINE  START STOP
@@ -25277,12 +23039,10 @@ OMX65-5300
 автомобиль.
 
 ### Перед поездкой на дальние расстояния лучше провести проверку безопасности
-`jetour_dashing_ru_017c652a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 автомобиля, что обеспечит вашу безопасность вождения и повысит удовольствие
 от вождения.
 
 ### Экстерьер автомобиля
-`jetour_dashing_ru_77a8ad14` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:137 | doc_type:owners_manual
 • Шины: Проверьте давление в шинах и тщательно проверьте протектор на наличие
 порезов,
 повреждений
@@ -25297,7 +23057,6 @@ OMX65-5300
 другие осветительные приборы работают; проверить силу света фар.
 
 ### Интерьер автомобиля
-`jetour_dashing_ru_e589fc1f` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:137 | doc_type:owners_manual
 • Ремень безопасности: Проверьте, надежно пристегнут ли пряжки ремней
 безопасности; убедитесь, что ремни безопасности не стары и не изношены.
 • Приборный щиток: В частности, убедитесь, что индикатор напоминания об
@@ -25306,7 +23065,6 @@ OMX65-5300
 пространства.
 
 ### Интерьер переднего отсека
-`jetour_dashing_ru_ee52c212` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:137 | doc_type:owners_manual
 • Запасные
 предохранители:
 Убедитесь,
@@ -25322,7 +23080,6 @@ OMX65-5300
 треснутого корпуса батареи.
 
 ### Осмотр после запуска автомобиля
-`jetour_dashing_ru_aea0be80` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:137 | doc_type:owners_manual
 • Приборный щиток: Убедитесь, что индикатор напоминания об обслуживании и
 спидометр работают правильно.
 • Тормоз: При движении прямо в безопасном месте крепко держите руль, а затем
@@ -25330,7 +23087,6 @@ OMX65-5300
 сторону.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_940aaa10` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:138 | doc_type:owners_manual
 121
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 • Другие аномальные явления: Проверьте наличие незакрепленных деталей, утечек
@@ -25338,7 +23094,6 @@ OMX65-5300
 Вы можете спокойно наслаждаться вождением, если все в порядке.
 
 ### Подготовка перед вождением
-`jetour_dashing_ru_dade0be5` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:138 | doc_type:owners_manual
 Шаг 1: Перед тем, как сесть в автомобиль, проверьте окрестности автомобиля;
 Шаг 2: Отрегулируйте положение сиденья, угол наклона спинки сиденья и угол
 наклона рулевого колеса;
@@ -25361,7 +23116,6 @@ OMX65-5300
 Jetour для проверки и ремонта;
 
 ### Скорость холостого хода
-`jetour_dashing_ru_60ce9659` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:138 | doc_type:owners_manual
 двигателя контролируется электронной системой
 управления. При запуске двигателя высокая скорость может привести к повышению
 температуры двигателя, это нормально. После повышения температуры двигателя
@@ -25370,7 +23124,6 @@ Jetour для проверки и ремонта;
 ремонта.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_d95dda51` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:138 | doc_type:owners_manual
 • Когда двигатель запущен, обязательно сядьте на сиденье водителя, чтобы
 запустить двигатель. Ни в коем случае не нажимайте педаль акселератора при
 запуске двигателя. В противном случае это может привести к несчастному
@@ -25399,7 +23152,6 @@ Jetour для проверки и ремонта;
 привести к возгоранию.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_c1e354c8` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:139 | doc_type:owners_manual
 122
 Выключение  автомобиля
 Выключение автомобиля нормально
@@ -25408,21 +23160,17 @@ Jetour для проверки и ремонта;
 Шаг 3: Включите питание автомобиля в положение OFF;
 Шаг 4: Убедитесь, что двигатель выключен.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_858ae8e5` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:139 | doc_type:owners_manual
-• Не нажимайте педаль акселератора до выключения двигателя.
-• Не прикасайтесь к высокотемпературным компонентам (таким как двигатель,
-выхлопная труба, радиатор и т. д.) немедленно после длительного движения на
-высокой скорости, иначе можно получить ожоги.
+> ⚠️ **Внимание:** • Не нажимайте педаль акселератора до выключения двигателя.
+> • Не прикасайтесь к высокотемпературным компонентам (таким как двигатель,
+> выхлопная труба, радиатор и т. д.) немедленно после длительного движения на
+> высокой скорости, иначе можно получить ожоги.
 
 ### Выключение автомобиля в аварийной ситуации
-`jetour_dashing_ru_44cc5f68` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:139 | doc_type:owners_manual
 Во время вождения, если двигатель необходимо остановить в случае аварийной
 ситуации, нажмите и удерживайте переключатель ENGINE START STOP более 3
 секунд, чтобы принудительно выключить двигатель.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_8bee1ad9` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:139 | doc_type:owners_manual
 • Не нажимайте переключатель ENGINE START STOP во время движения, за
 исключением экстренных случаев.
 • Если двигатель выключен во время движения автомобиля, это может привести к
@@ -25434,7 +23182,6 @@ Jetour для проверки и ремонта;
 к травмам.
 
 ### Адаптивная система управления двигателем
-`jetour_dashing_ru_a44a95cf` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:139 | doc_type:owners_manual
 Если клемма аккумулятора отсоединена и снова подключена, питание автомобиля
 переключается в режим ON, а питание автомобиля будет переведено в режим OFF
 после ожидания в течение 15 секунд перед запуском двигателя.
@@ -25443,13 +23190,11 @@ Jetour для проверки и ремонта;
 система управления двигателем снова учится адаптироваться к двигателю.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_56197dad` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 123
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 4-3. Бензиновый сажевый фильтр (GPF) (при наличии)
 
 ### Сажевый фильтр
-`jetour_dashing_ru_b38785b8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 Сажевый фильтр улавливает частицы сажи, содержащиеся в отработавших газах,
 тем
 самым
@@ -25483,7 +23228,6 @@ Jetour для проверки и ремонта;
 высоких оборотах.
 
 ### Запрещается
-`jetour_dashing_ru_5d732075` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:140 | doc_type:owners_manual
 парковаться
 на
 сухих
@@ -25497,7 +23241,6 @@ Jetour для проверки и ремонта;
 привести к возгоранию.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_ca7e4db1` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:141 | doc_type:owners_manual
 124
 4-4. Трансмиссия
 Механическая  трансмиссия
@@ -25520,48 +23263,44 @@ Jetour для проверки и ремонта;
 вести автомобиль.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_8cce859a` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:141 | doc_type:owners_manual
 Механическая трансмиссия имеет устройство блокировки заднего хода, сначала
 поднимите устройство блокировки заднего хода, а затем нажмите на рычаг
 переключения передач, он переключится на передачу заднего хода.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_ae4562af` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:141 | doc_type:owners_manual
-• При движении под уклон или повороте всегда используйте пониженную
-передачу и никогда не используйте движение накатом в положении N.
-• Не пропускайте передачу при переключении с низкой на высокую передачу.
-• Не держите ногу на педали сцепления во время движения, чтобы избежать
-ненужного износа сцепления.
-• Не кладите руку на рычаг переключения передач, когда нет необходимости
-использовать
-рычаг
-переключения
-передач,
-иначе
-это
-приведет
-к
-преждевременному износу вилки переключения.
-• Категорически запрещается использовать метод работы «одно нажатие и одно
-отпусканиее при работе с рычагом выбора/переключения передач. Рычаг
-переключения всегда следует удерживать рукой, чтобы уменьшить износ
-стопорного кольца синхронизатора.
-• Заведите автомобиль на 1-й передаче. При переключении полностью выжмите
-педаль сцепления, чтобы полностью отключить трансмиссию от мощности
-двигателя, и быстро переместите рычаг переключения передач.
-• Перед включением заднего хода сначала устойчиво остановите автомобиль,
-полностью выжмите педаль сцепления и подождите около 3 секунд перед
-переключением на передачу заднего хода, что может эффективно уменьшить
-поломку зубьев при переключении в положение R и предотвратить плохое
-зацепление шестерни трансмиссии и создание шума.
-• Если в трансмиссии обнаруживаются ненормальные явления, такие как
-ненормальные шумы, тяжелая работа и т. д. , немедленно остановите
-автомобиль в безопасном месте вдали от проезжей части и своевременно
-свяжитесь с авторизованным сервисным центром Jetour  для  осмотра  и
-ремонта, продолжайте движение после устранения неполадок.
+> ⚠️ **Внимание:** • При движении под уклон или повороте всегда используйте пониженную
+> передачу и никогда не используйте движение накатом в положении N.
+> • Не пропускайте передачу при переключении с низкой на высокую передачу.
+> • Не держите ногу на педали сцепления во время движения, чтобы избежать
+> ненужного износа сцепления.
+> • Не кладите руку на рычаг переключения передач, когда нет необходимости
+> использовать
+> рычаг
+> переключения
+> передач,
+> иначе
+> это
+> приведет
+> к
+> преждевременному износу вилки переключения.
+> • Категорически запрещается использовать метод работы «одно нажатие и одно
+> отпусканиее при работе с рычагом выбора/переключения передач. Рычаг
+> переключения всегда следует удерживать рукой, чтобы уменьшить износ
+> стопорного кольца синхронизатора.
+> • Заведите автомобиль на 1-й передаче. При переключении полностью выжмите
+> педаль сцепления, чтобы полностью отключить трансмиссию от мощности
+> двигателя, и быстро переместите рычаг переключения передач.
+> • Перед включением заднего хода сначала устойчиво остановите автомобиль,
+> полностью выжмите педаль сцепления и подождите около 3 секунд перед
+> переключением на передачу заднего хода, что может эффективно уменьшить
+> поломку зубьев при переключении в положение R и предотвратить плохое
+> зацепление шестерни трансмиссии и создание шума.
+> • Если в трансмиссии обнаруживаются ненормальные явления, такие как
+> ненормальные шумы, тяжелая работа и т. д. , немедленно остановите
+> автомобиль в безопасном месте вдали от проезжей части и своевременно
+> свяжитесь с авторизованным сервисным центром Jetour  для  осмотра  и
+> ремонта, продолжайте движение после устранения неполадок.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_b759f611` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:142 | doc_type:owners_manual
 125
 OMT18-8050
 ВОЖДЕНИЕ АВТОМОБИЛЯ
@@ -25570,31 +23309,26 @@ OMT18-8050
 тормоза при переключении передач.
 
 ### Понижение передачи
-`jetour_dashing_ru_3c054d22` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 1.
 Последовательно  переключайтесь  на  пониженную  передачу,  не  пропуская
 передачи.
 
 ### 2. В целях безопасности переключайтесь на пониженную передачу при движении
-`jetour_dashing_ru_74659803` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 вниз по крутому склону.
 3. Правильно переключайтесь  на  пониженную  передачу,  когда снова  начинаете
 ускоряться, для лучшего ускорения.
 
 ### Не переключайтесь на пониженную передачу для дополнительного торможения
-`jetour_dashing_ru_2c5083af` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:142 | doc_type:owners_manual
 двигателем на скользкой поверхности. В противном случае ведущие колеса могут
 потерять сцепление с дорогой, что может привести к проскальзыванию колес и,
 как следствие, к потере контроля над автомобилем.
 
 ### Переведите рычаг переключения передач в положение R
-`jetour_dashing_ru_6033bec5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 Когда автомобиль стоит, полностью выжмите педаль сцепления, поднимите рычаг
 переключения передач вверх и переведите рычаг переключения передач в
 положение R.
 
 ### Автоматическая  трансмиссия
-`jetour_dashing_ru_a506f2e5` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:142 | doc_type:owners_manual
 Автоматическая трансмиссия (Тип A)
 Шаг 1: Полностью нажмите педаль
 тормоза,
@@ -25614,13 +23348,11 @@ P в положение D.
 медленно вести автомобиль.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_b3066fd6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:142 | doc_type:owners_manual
 Когда автомобиль устойчиво остановится, нажмите кнопку P за рычагом
 переключения передач, чтобы переключиться в положение P. Нажимайте рычаг
 переключения передач вперед и назад, чтобы переключиться в другие положения.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_706df3fc` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:143 | doc_type:owners_manual
 126
 Автоматическая трансмиссия (Тип B)
 R
@@ -25631,7 +23363,6 @@ D
 OMX65-5310
 
 ### Порядок работы с автоматической
-`jetour_dashing_ru_f2b43066` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:143 | doc_type:owners_manual
 трансмиссии следующие:
 Шаг 1: Когда автомобиль заведется,
 полностью
@@ -25641,7 +23372,6 @@ OMX65-5310
 переключения передач из положения
 
 ### P;
-`jetour_dashing_ru_5a3e4fc4` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:143 | doc_type:owners_manual
 Шаг 2: Вручную или автоматически
 отпустите
 стояночный
@@ -25659,7 +23389,6 @@ OMX65-5310
 системае).
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_8b9d4ec1` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:143 | doc_type:owners_manual
 • Когда передача находится в положении P, слегка нажмите рычаг переключения
 на стойке вверх/вниз, и он переключится в положение N; Положение передачи
 переключится на R/D при повторном легком нажатии вверх/вниз.
@@ -25671,7 +23400,6 @@ OMX65-5310
 на
 
 ### Нажмите
-`jetour_dashing_ru_eb311b75` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:143 | doc_type:owners_manual
 рычаг
 переключения передач на рулевой колонке до упора вниз и отпустите, передача
 переключится на D.
@@ -25688,7 +23416,6 @@ D, дважды переместив его вниз до нижнего пре�
 положения R/N/D, когда передача не
 
 ### P
-`jetour_dashing_ru_08ede0b9` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 находится
 в
 положении
@@ -25697,17 +23424,14 @@ P
 автомобиль постоянно стоит.
 
 ### Во избежание аварийного движения автомобиля обязательно нажимайте педаль
-`jetour_dashing_ru_41078159` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:143 | doc_type:owners_manual
 тормоза при переключении передач.
 Введение в положение передачи
 
 ### Следующая информация поможет вам понять назначение и порядок работы
-`jetour_dashing_ru_e9d38f4a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:143 | doc_type:owners_manual
 различных передач, чтобы сделать правильный выбор в соответствии с реальными
 потребностями во время эксплуатации.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_7d8aa368` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:144 | doc_type:owners_manual
 127
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 ОПАСНОСТЬ
@@ -25719,7 +23443,6 @@ P
 произойти авария.
 
 ### Назначение
-`jetour_dashing_ru_4c8c968b` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:144 | doc_type:owners_manual
 P (паркинг)
 Данное положение предназначено для стоянки
 автомобиля.
@@ -25732,7 +23455,6 @@ P (паркинг)
 R (задний ход)
 
 ### Данное
-`jetour_dashing_ru_84f68eb0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 положение
 предназначено
 для
@@ -25742,7 +23464,6 @@ R (задний ход)
 N (нейтраль)
 
 ### В
-`jetour_dashing_ru_bfe0604a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 данном
 положении
 в
@@ -25761,7 +23482,6 @@ N (нейтраль)
 D (движение)
 
 ### Данное
-`jetour_dashing_ru_84f68eb0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 положение
 предназначено
 для
@@ -25770,7 +23490,6 @@ D (движение)
 ходом.
 
 ### В
-`jetour_dashing_ru_bfe0604a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 нем
 переключение
 передач
@@ -25782,7 +23501,6 @@ M (ручное
 +
 
 ### Однократно отклоните селектор вперед для
-`jetour_dashing_ru_21f12bc5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:144 | doc_type:owners_manual
 переключения на смежную повышенную
 передачу.
 –
@@ -25791,7 +23509,6 @@ M (ручное
 передачу.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_206c9b3e` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:145 | doc_type:owners_manual
 128
 ПРОЧИТАЙТЕ
 • Двигатель можно запустить, только если передача находится в положении
@@ -25836,7 +23553,6 @@ M (ручное
 его секунд, чтобы переключиться на передачу N и войти в режим буксировки.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_3269658c` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:146 | doc_type:owners_manual
 129
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 4-5. Интеллектуальная система полного привода (AWD) (при
@@ -25853,35 +23569,32 @@ M (ручное
 даже если выбран режим СНЕЖНЫЙ/ГРЯЗЕВОЙ/БЕЗДОРОЖЬЯ, предельная
 пробуксовка и тяговая способность автомобиля снижаются.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_7ee0203e` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:146 | doc_type:owners_manual
-Избегайте длительного вождения по песчаным или грязным дорогам, а также
-длительной пробуксовки шин. Эта операция может срабатывать функцию защиты
-от перегрева системы полного привода, тогда желтый индикатор « е на
-комбинации приборов всегда горит, а режим полного привода отключается и
-переключается на привод двумя колесами для защиты приводящей системы; В
-безопасных условиях остановитесь как можно скорее, чтобы рассеять тепло, и
-подождите несколько минут, пока не отключится функция защиты от перегрева (-
-рекомендуется подождать еще несколько минут после удаления сигнала тревоги,
-чтобы температура системы полного привода снизилась и характеристики
-восстановились лучше), прежде чем снова включить систему полного привода.
-Если сигнал тревоги не удается снять в течение длительного времени, обратитесь
-на авторизованную станцию технического обслуживания.
-Индикатор интеллектуальной системы полного привода (AWD)
-При возникновении временной неисправности всегда горит желтый индикатор « е
-на комбинации приборов; При возникновении постоянной неисправности красный
-индикатор « е на комбинации приборов всегда горит. При этом на комбинации
-приборов
-отображается
-текст
-«Неисправность
-системы
-полного
-привода,
-обратитесь на станцию технического обслуживанияе.
+> ⚠️ **Внимание:** Избегайте длительного вождения по песчаным или грязным дорогам, а также
+> длительной пробуксовки шин. Эта операция может срабатывать функцию защиты
+> от перегрева системы полного привода, тогда желтый индикатор « е на
+> комбинации приборов всегда горит, а режим полного привода отключается и
+> переключается на привод двумя колесами для защиты приводящей системы; В
+> безопасных условиях остановитесь как можно скорее, чтобы рассеять тепло, и
+> подождите несколько минут, пока не отключится функция защиты от перегрева (-
+> рекомендуется подождать еще несколько минут после удаления сигнала тревоги,
+> чтобы температура системы полного привода снизилась и характеристики
+> восстановились лучше), прежде чем снова включить систему полного привода.
+> Если сигнал тревоги не удается снять в течение длительного времени, обратитесь
+> на авторизованную станцию технического обслуживания.
+> Индикатор интеллектуальной системы полного привода (AWD)
+> При возникновении временной неисправности всегда горит желтый индикатор « е
+> на комбинации приборов; При возникновении постоянной неисправности красный
+> индикатор « е на комбинации приборов всегда горит. При этом на комбинации
+> приборов
+> отображается
+> текст
+> «Неисправность
+> системы
+> полного
+> привода,
+> обратитесь на станцию технического обслуживанияе.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_f706ccc4` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:146 | doc_type:owners_manual
 • При
 возникновении
 неисправности
@@ -25898,7 +23611,6 @@ M (ручное
 обеспечить нормальное вождение.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_3f46fdfc` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 130
 Режим вождения
 Режима вождения (метод 1)
@@ -25907,7 +23619,6 @@ OMX65-5313
 1:
 
 ### Переключите
-`jetour_dashing_ru_b1a66a91` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 питание
 автомобиля в режим ON, удерживайте
 автомобиль в неподвижном состоянии
@@ -25917,7 +23628,6 @@ OMX65-5313
 переключиться между НОРМАЛЬНЫМ/
 
 ### ГРЯЗНЫМ/БЕЗДОРОЖЬЯ;
-`jetour_dashing_ru_b8bce08e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 На
 комбинации     приборов
 загорится
@@ -25928,7 +23638,6 @@ OMX65-5313
 темы.
 
 ### В
-`jetour_dashing_ru_ab6cbe95` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 то
 же
 время
@@ -25941,7 +23650,6 @@ OMX65-5313
 Режима вождения (метод 2)
 
 ### OMX65-4074
-`jetour_dashing_ru_e079942b` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:147 | doc_type:owners_manual
 Шаг
 1:
 Переключите
@@ -25956,7 +23664,6 @@ OMX65-5313
 3:
 
 ### СПОРТИВНЫЙ/ЭКО/СНЕЖНЫЙ/
-`jetour_dashing_ru_2e00d875` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:147 | doc_type:owners_manual
 ГРЯЗНЫЙ/ БЕЗДОРОЖЬЯ на экране
 режима вождения; На комбинации
 приборов
@@ -25971,7 +23678,6 @@ OMX65-5313
 темы.
 
 ### В
-`jetour_dashing_ru_ab6cbe95` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 то
 же
 время
@@ -25987,11 +23693,9 @@ OMX65-5313
 стандартной. Пожалуйста, обратитесь к фактическому автомобилю.
 
 ### Следующая информация поможет вам понять назначение различных режимов
-`jetour_dashing_ru_21aed193` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:147 | doc_type:owners_manual
 вождения, которые можно выбирать в зависимости от дорожных условий.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_13fe9765` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 131
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 Режим вождения
@@ -25999,14 +23703,12 @@ OMX65-5313
 NORMAL (обычный)
 
 ### Режим NORMAL обеспечивает оптимальное сочетание
-`jetour_dashing_ru_7a1315a5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 эксплуатационных характеристик и топливной
 экономичности и подходит для большинства дорожных
 условий.
 ECO (экономичный)
 
 ### В режиме ECO повышается топливная экономичность
-`jetour_dashing_ru_4f0bf4d4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 автомобиля. Данный режим подходит для движения по
 горизонтальным участкам дорог с твердым покрытием
 (например, городским улицам).
@@ -26019,29 +23721,24 @@ SPORT (спортивный)
 SNOW (зимний)
 
 ### Режим SNOW предназначен для движения по твердым и
-`jetour_dashing_ru_40af4602` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 гладким поверхностям, таким как снег, лед, трава,
 гравий и т.п.
 MUD (грязь)
 
 ### Режим MUD предназначен для движения по грязным и
-`jetour_dashing_ru_4556e3d0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 неровным поверхностям с ровным и неглубоким слоем
 грязи или для дорог с колеями.
 
 ### OFF ROAD
-`jetour_dashing_ru_bc4a880a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 (бездорожье)
 Режим OFF ROAD повышает проходимость автомобиля.
 
 ### Данный режим способствует повышению
-`jetour_dashing_ru_559e99fc` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 проходимости автомобиля при движении по сложно
 пересечённой местности, склонам и неровному
 дорожному покрытию.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_2873576d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:148 | doc_type:owners_manual
 • В режиме SNOW/MUD/ OFF ROAD система «стоп-старте на холостом ходу
 по умолчанию отключена.
 • Если окна и стекло люка в крыше открыты, дождь может намочить внутренние
@@ -26052,12 +23749,10 @@ SNOW/MUD, а Система адаптивного круиз-контроля (
 в режиме SPORT/ OFF ROAD.
 
 ### Перед вождением по бездорожью необходимо научиться управлять автомобилем в
-`jetour_dashing_ru_a39174c2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 различных дорожных ситуациях и безопасно преодолевать неровные участки
 бездорожья.
 
 ### Способности
-`jetour_dashing_ru_7c34f188` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:148 | doc_type:owners_manual
 и
 поведение,
 необходимые
@@ -26069,7 +23764,6 @@ SNOW/MUD, а Система адаптивного круиз-контроля (
 водителя.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_00ea16c2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:149 | doc_type:owners_manual
 132
 ОПАСНОСТЬ
 • При вождении по бездорожью всегда следует избегать диагонального вождения
@@ -26106,14 +23800,12 @@ SNOW/MUD, а Система адаптивного круиз-контроля (
 • Будьте особенно осторожны и предсказуемы при вождении по бездорожью.
 
 ### Слишком быстрое вождение или ошибка в управлении могут привести к
-`jetour_dashing_ru_b7ddae94` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:149 | doc_type:owners_manual
 серьезным травмам и повреждению автомобиля.
 • Не водите по берегам рек, пандусам или склонам на слишком высокой
 скорости. Это может поднять автомобиль, сделать его неспособным повернуть
 и потерять контроль над ним.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_76630ac5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 133
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 ОПАСНОСТЬ
@@ -26150,7 +23842,6 @@ SNOW/MUD, а Система адаптивного круиз-контроля (
 травмы и стать причиной поломки автомобиля.
 
 ### При многократном вождении вперед и назад для получения тяги автомобиль может
-`jetour_dashing_ru_28ba6e14` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:150 | doc_type:owners_manual
 продолжать опускаться из-за неправильного управления, и вы можете запросить
 только внешнюю помощь.
 ■Если колеса плохо вращаются
@@ -26172,7 +23863,6 @@ SNOW/MUD, а Система адаптивного круиз-контроля (
 двигался назад и вперед для получения тяги.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_382ad0d9` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 134
 ОПАСНОСТЬ
 • Не допускайте длительной пробуксовки колес, иначе автомобиль продолжит
@@ -26186,24 +23876,20 @@ SNOW/MUD, а Система адаптивного круиз-контроля (
 смертельным травмам.
 
 ### 3. Снимите сильную грязь с решетки радиатора и деки автомобиля.
-`jetour_dashing_ru_14057c1d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:151 | doc_type:owners_manual
 4. Осмотрите передний отсек и проверьте, не влияет ли грязь на работу двигателя.
 
 ### 5. Очистите указатель поворота, осветительные устройства, номерной знак и все
-`jetour_dashing_ru_9d7af659` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:151 | doc_type:owners_manual
 оконные стекла.
 6. Проверьте шины, амортизационную стойку и оси на наличие повреждений,
 снимите крупную грязь, камни и посторонние предметы, попавшие в рисунок
 шин.
 
 ### 7. Проверьте деку автомобиля и снимите все предметы, застрявшие в тормозах,
-`jetour_dashing_ru_a8c65f8a` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:151 | doc_type:owners_manual
 колесах, шасси, выхлопных устройствах и двигателе, например ветки, листья или
 деревянные бруски. При обнаружении повреждений или утечек немедленно
 обратитесь на авторизованную станцию технического обслуживания.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_940b00ba` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:151 | doc_type:owners_manual
 • Предметы, застрявшие под декой автомобиля, представляют опасность. После
 каждой вождении по бездорожью необходимо проверить, не застрял ли какойлибо предмет под декой автомобиля.
 • Не садитесь за руль, если в деке автомобиля, тормозах, колесах, шасси,
@@ -26228,7 +23914,6 @@ SNOW/MUD, а Система адаптивного круиз-контроля (
 автомобиле, то есть гидравлический насос приводится в действие двигателем.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_bfe6ecf9` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:152 | doc_type:owners_manual
 135
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 ПРОЧИТАЙТЕ
@@ -26236,39 +23921,32 @@ SNOW/MUD, а Система адаптивного круиз-контроля (
 Normal/Sport (или режим Eco/Sport, в зависимости от модели), выбрав режим
 вождения на мультимедийном дисплее.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_3643c697` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:152 | doc_type:owners_manual
-• Не удерживайте рулевое колесо в крайнем положении в любом направлении
-более 5 секунд при работающем двигателе.
-• Частые  манипуляции  и  вращение  рулевого  колеса  в  течение  длительного
-времени могут привести к повреждению системы электроусилителя руля.
-• Электродвигатель EPS издает нормальный звук при быстром повороте рулевого
-колеса.
+> ⚠️ **Внимание:** • Не удерживайте рулевое колесо в крайнем положении в любом направлении
+> более 5 секунд при работающем двигателе.
+> • Частые  манипуляции  и  вращение  рулевого  колеса  в  течение  длительного
+> времени могут привести к повреждению системы электроусилителя руля.
+> • Электродвигатель EPS издает нормальный звук при быстром повороте рулевого
+> колеса.
 
 ### Индикатор системы электроусилителя руля
-`jetour_dashing_ru_409de38b` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:152 | doc_type:owners_manual
 При возникновении неисправности в системе загорается желтый индикатор «
 е
 на приборной панели.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_f2188059` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:152 | doc_type:owners_manual
 При наличии неисправности в системе, несмотря на то, что автомобиль сохраняет
 способность к обычному управлению, его следует водить с осторожностью. Как
 можно скорее обратитесь на авторизованный сервисный центр Jetour для
 проверки и ремонта.
 4-7. Тормозная система
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_3643c697` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:152 | doc_type:owners_manual
-• Убедитесь, что все педали свободны от помех и могут быть полностью нажаты.
-• Все педали могут плавно вернуться в исходное положение.
-• Запрещено носить обувь на высоких каблуках и тапочки водителю. Всегда
-носите обувь, которая подходит вашим ногам и  позволяет  чувствовать
-движение педали.
+> ⚠️ **Внимание:** • Убедитесь, что все педали свободны от помех и могут быть полностью нажаты.
+> • Все педали могут плавно вернуться в исходное положение.
+> • Запрещено носить обувь на высоких каблуках и тапочки водителю. Всегда
+> носите обувь, которая подходит вашим ногам и  позволяет  чувствовать
+> движение педали.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_f2188059` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:152 | doc_type:owners_manual
 • Не храните какие-либо предметы в пространстве для ног водителя, в противном
 случае предметы могут попасть в область педалей и затруднить движение
 педали. Педаль
@@ -26283,12 +23961,10 @@ Normal/Sport (или режим Eco/Sport, в зависимости от мод
 для чистки.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_91cc8f63` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 136
 Система электрического стояночного тормоза (EPB)
 
 ### Система
-`jetour_dashing_ru_604ae8f8` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 электрического
 стояночного
 тормоза
@@ -26301,7 +23977,6 @@ Normal/Sport (или режим Eco/Sport, в зависимости от мод
 автомобиля.
 
 ### Поставьте
-`jetour_dashing_ru_c3830f0e` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 стояночный
 тормоз
 вручную
@@ -26313,7 +23988,6 @@ Normal/Sport (или режим Eco/Sport, в зависимости от мод
 автомобиля
 
 ### ON
-`jetour_dashing_ru_403615e4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:153 | doc_type:owners_manual
 или
 автомобиль
 запущен, потяните
@@ -26326,14 +24000,12 @@ EPB
 переключателе
 
 ### EPB
-`jetour_dashing_ru_4fbaf972` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 останется
 включенным. Загорается индикатор
 системы электрического стояночного
 тормоза на комбинации приборов.
 
 ### Отпустите
-`jetour_dashing_ru_50b25ad2` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 стояночный
 тормоз
 вручную
@@ -26347,7 +24019,6 @@ EPB
 переключатель
 
 ### EPB,
-`jetour_dashing_ru_92e26d79` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 индикатор
 на переключателе
 EPB
@@ -26365,7 +24036,6 @@ EPB
 ◆
 
 ### Автоматическое
-`jetour_dashing_ru_172d3c16` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 отключение
 стояночного
 тормоза
@@ -26381,7 +24051,6 @@ EPB
 ■
 
 ### Автоматическое
-`jetour_dashing_ru_172d3c16` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 отключение
 стояночного
 тормоза
@@ -26396,14 +24065,12 @@ EPB
 отключится.
 
 ### Индикатор
-`jetour_dashing_ru_39420005` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:153 | doc_type:owners_manual
 системы
 электрического
 стояночного
 тормоза на комбинации приборов гаснет.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_10c166f2` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:154 | doc_type:owners_manual
 137
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 ВНИМАНИЕ
@@ -26411,7 +24078,6 @@ EPB
 должна быть закрыта, иначе EPB не сработает автоматически.
 
 ### После включения системы
-`jetour_dashing_ru_822111c4` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:154 | doc_type:owners_manual
 электрического стояночного тормоза загорится
 красный индикатор электрического стояночного тормоза«        е на комбинации
 приборов.  Если  индикатор  не  загорается  или  загорается  желтая  сигнальная
@@ -26420,7 +24086,6 @@ EPB
 ■Динамическая парковка
 
 ### В
-`jetour_dashing_ru_c21c1f0b` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:154 | doc_type:owners_manual
 аварийных
 условиях
 когда
@@ -26444,7 +24109,6 @@ EPB
 система парковки не будет выполнять автоматическую парковку.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_13adf762` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:154 | doc_type:owners_manual
 • При парковке автомобиля в повседневной жизни не используйте «режим мойки
 автомобиляе
 предотвратить
@@ -26471,49 +24135,44 @@ EPB (он загорается , когда тянете его и гаснет 
 более 3 секунд, одновременно нажать переключатель ENGINE START STOP, чтобы
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_8d3a0594` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:155 | doc_type:owners_manual
 138
 выключить автомобиль, и затем отпустить переключатель EPB. В это время EPB не
 будет выполнять автоматическую парковку.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_4550f3a9` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:155 | doc_type:owners_manual
-• Для всех функций EPB требуется нормальный источник питания, в противном
-случае он не может нормально использоваться.
-• При буксировке автомобиля необходимо отпустить стояночный тормоз, а рычаг
-переключения передач находится в нейтральном положении.
-• Если педаль акселератора нажимается очень медленно, автоматический сброс
-автоматической парковки задерживается. Это нормально.
-• Электрическая система стояночного тормоза не может использоваться при
-недостаточном заряде батареи. Для запуска двигателя можно использовать
-соединительные кабели, подробности см. в разделе «Управление автомобилем
-в случае бедствияе.
-• При включении и отпускании электрического стояночного тормоза из задней
-части автомобиля может быть слышен «свистящийе звук. Это нормально.
-• Если автомобиль движется по инерции после остановки в течение короткого
-промежутка времени, система автоматически увеличивает усилие стояночного
-тормоза,
-чтобы
-удерживать
-его
-в
-целях
-безопасности.
-Когда
-усилие
-стояночного тормоза увеличивается, система работает слышно. Это нормально.
-• Перед началом движения полностью отпустите стояночный тормоз. Когда
-стояночный тормоз не отпущен, загорается индикатор на переключателе EPB, в
-это время вождение автомобиля приведет к перегреву компонентов тормозной
-системы, что повлияет на эффективность тормозов и усилит их износ.
-Функция автоматического удержания (AUTO HOLD)
+> ⚠️ **Внимание:** • Для всех функций EPB требуется нормальный источник питания, в противном
+> случае он не может нормально использоваться.
+> • При буксировке автомобиля необходимо отпустить стояночный тормоз, а рычаг
+> переключения передач находится в нейтральном положении.
+> • Если педаль акселератора нажимается очень медленно, автоматический сброс
+> автоматической парковки задерживается. Это нормально.
+> • Электрическая система стояночного тормоза не может использоваться при
+> недостаточном заряде батареи. Для запуска двигателя можно использовать
+> соединительные кабели, подробности см. в разделе «Управление автомобилем
+> в случае бедствияе.
+> • При включении и отпускании электрического стояночного тормоза из задней
+> части автомобиля может быть слышен «свистящийе звук. Это нормально.
+> • Если автомобиль движется по инерции после остановки в течение короткого
+> промежутка времени, система автоматически увеличивает усилие стояночного
+> тормоза,
+> чтобы
+> удерживать
+> его
+> в
+> целях
+> безопасности.
+> Когда
+> усилие
+> стояночного тормоза увеличивается, система работает слышно. Это нормально.
+> • Перед началом движения полностью отпустите стояночный тормоз. Когда
+> стояночный тормоз не отпущен, загорается индикатор на переключателе EPB, в
+> это время вождение автомобиля приведет к перегреву компонентов тормозной
+> системы, что повлияет на эффективность тормозов и усилит их износ.
+> Функция автоматического удержания (AUTO HOLD)
 
 ### Система автоматического удержания используется для предотвращения
-`jetour_dashing_ru_c58e197f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:155 | doc_type:owners_manual
 скатывания автомобиля, когда он стоит на месте и трогается с места.
 
 ### OMX65-4261
-`jetour_dashing_ru_1954b8da` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:155 | doc_type:owners_manual
 «
 е
 переключатель
@@ -26543,7 +24202,6 @@ EPB (он загорается , когда тянете его и гаснет 
 указывая на то, что автомобиль включил функцию автоматического удержания.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_16b10a10` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:156 | doc_type:owners_manual
 139
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 ■Активация функции автоматического удержания
@@ -26593,51 +24251,46 @@ EPB (он загорается , когда тянете его и гаснет 
 автоматическое
 отключение.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_5016e08f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
-• Всегда правильно паркуйте автомобиль в соответствии с правилами техники
-безопасности и старайтесь не навредить себе и пешеходам.
-• Отключите функцию автоматического удержания перед тем, как заехать на
-автомойку. Подробнее см. в разделе «Режим мойки автомобиляе.
-• Когда активирована функция автоматического удержания, откройте дверь
-водителя или отстегните ремень безопасности водителя, автоматическкое
-удержания  переключится на электрическую парковку.
-• Автоматическая
-система удержания  не
-может быть  использована
-при
-недостаточном заряде батареи. Для запуска двигателя можно использовать
-соединительные кабели, подробности см. в разделе «Управление автомобилем
-в случае бедствияе.
-• Когда
-функция
-автоматического
-удержания
-включена,
-откройте
-дверь
-водителя или отстегните ремень безопасности водителя, чтобы выйти из
-функции автоматического удержания, закройте дверь водителя или снова
-пристегните ремень безопасности водителя, чтобы снова включить функцию.
-• После того, как автоматическое удержание включено и автомобиль
-полностью остановлен ножным тормозом, система автоматически удерживает
-автомобиль, но передача все еще находится в D или R. Рекомендуется
-переключиться на N на короткое время и на P на длительное время.
+> ⚠️ **Внимание:** • Всегда правильно паркуйте автомобиль в соответствии с правилами техники
+> безопасности и старайтесь не навредить себе и пешеходам.
+> • Отключите функцию автоматического удержания перед тем, как заехать на
+> автомойку. Подробнее см. в разделе «Режим мойки автомобиляе.
+> • Когда активирована функция автоматического удержания, откройте дверь
+> водителя или отстегните ремень безопасности водителя, автоматическкое
+> удержания  переключится на электрическую парковку.
+> • Автоматическая
+> система удержания  не
+> может быть  использована
+> при
+> недостаточном заряде батареи. Для запуска двигателя можно использовать
+> соединительные кабели, подробности см. в разделе «Управление автомобилем
+> в случае бедствияе.
+> • Когда
+> функция
+> автоматического
+> удержания
+> включена,
+> откройте
+> дверь
+> водителя или отстегните ремень безопасности водителя, чтобы выйти из
+> функции автоматического удержания, закройте дверь водителя или снова
+> пристегните ремень безопасности водителя, чтобы снова включить функцию.
+> • После того, как автоматическое удержание включено и автомобиль
+> полностью остановлен ножным тормозом, система автоматически удерживает
+> автомобиль, но передача все еще находится в D или R. Рекомендуется
+> переключиться на N на короткое время и на P на длительное время.
 
 ### Во избежание случайного движения автомобиля в состоянии автоматического
-`jetour_dashing_ru_6793587a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:156 | doc_type:owners_manual
 удержания проверьте положение переключения перед тем, как нажать педаль
 акселератора для запуска.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_b68a1f35` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:157 | doc_type:owners_manual
 140
 Ножной тормоз
 OMX65-5330
 Индикатор тормозной системы
 
 ### Тормозная
-`jetour_dashing_ru_400c15aa` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:157 | doc_type:owners_manual
 система
 имеет
 конструкцию типа X, двухконтурную
@@ -26645,7 +24298,6 @@ OMX65-5330
 систему;
 
 ### Система
-`jetour_dashing_ru_7534d702` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:157 | doc_type:owners_manual
 представляет собой гидравлическую
 систему
 с
@@ -26673,7 +24325,6 @@ OMX65-5330
 гореть.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_b2c3721a` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:157 | doc_type:owners_manual
 • Когда загорается индикатор « е на приборной панели, проверьте уровень
 тормозной жидкости, долейте тормозную жидкость, когда он ниже линии MIN.
 Если причина неизвестна, немедленно обратитесь в авторизованный сервисный
@@ -26684,7 +24335,6 @@ OMX65-5330
 авторизованным сервисным центром Jetour.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_e00b60c5` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:158 | doc_type:owners_manual
 141
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 Меры предосторожности для тормозной системы
@@ -26731,13 +24381,11 @@ OMX65-5330
 проверить толщину тормозных накладок или заменить их при необходимости.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_640237ca` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:159 | doc_type:owners_manual
 142
 4-8. Антиблокировочная тормозная система (ABS)
 Антиблокировочная тормозная система (ABS)
 
 ### Антиблокировочная
-`jetour_dashing_ru_713c69e1` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:159 | doc_type:owners_manual
 тормозная
 система
 предназначена
@@ -26749,7 +24397,6 @@ ABS этого автомобиля интегрирована с системо
 тормозных усилий), что делает работу системы ABS более эффективной.
 
 ### Как правильно
-`jetour_dashing_ru_1d53a3c8` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:159 | doc_type:owners_manual
 пользоваться
 системой ABS
 2 Поворачивайте рулевое колесо, чтобы избежать столкновения с препятствием. Даже в условиях экстренного
@@ -26757,7 +24404,6 @@ ABS этого автомобиля интегрирована с системо
 контроль над автомобилем.
 
 ### ABS
-`jetour_dashing_ru_01c16b59` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:159 | doc_type:owners_manual
 не
 работает
 при
@@ -26777,7 +24423,6 @@ ABS этого автомобиля интегрирована с системо
 ее в этом положении.
 
 ### Никогда
-`jetour_dashing_ru_3a21c108` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:159 | doc_type:owners_manual
 не
 отпускайте
 педаль
@@ -26802,18 +24447,15 @@ ABS этого автомобиля интегрирована с системо
 • При движении по грунтовым, гравийным или заснеженным дорогам.
 
 ### Индикатор антиблокировочной тормозной системы
-`jetour_dashing_ru_aa5652b1` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:159 | doc_type:owners_manual
 При наличии неисправности «
 е горит желтый индикатор на приборной панели.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_2879f15b` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:159 | doc_type:owners_manual
 Если ABS не работает, эта функция может работать неправильно, пожалуйста, как
 можно скорее обратитесь на авторизованный сервисный центр Jetour для
 проверки и ремонта.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_c4e96ec3` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:160 | doc_type:owners_manual
 143
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 ВНИМАНИЕ
@@ -26824,7 +24466,6 @@ ABS этого автомобиля интегрирована с системо
 обслуживания Jetour.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_d0fbbcf8` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:160 | doc_type:owners_manual
 • Всегда ведите машину осторожно и не забывайте снижать скорость во время
 поворота.
 • Если ABS неисправна, как можно скорее обратитесь на авторизованную
@@ -26865,13 +24506,11 @@ ABS этого автомобиля интегрирована с системо
 сервисным центром Jetour.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_13af269b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:161 | doc_type:owners_manual
 144
 4-9. Система стабилизации курсовой устойчивости (ESP)
 Система стабилизации курсовой устойчивости (ESP)
 
 ### Система
-`jetour_dashing_ru_8772a55f` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:161 | doc_type:owners_manual
 электронной
 программы
 стабилизации
@@ -26897,7 +24536,6 @@ ABS этого автомобиля интегрирована с системо
 животное внезапно бежит по дороге), чтобы избежать нестабильности автомобиля.
 
 ### Питание автомобиля переключается в
-`jetour_dashing_ru_35a9270f` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:161 | doc_type:owners_manual
 режим
 ON,
 нажмите
@@ -26923,7 +24561,6 @@ ON,
 переключатель  еще  раз,  индикатор
 
 ### OMX65-4263
-`jetour_dashing_ru_68f11ded` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:161 | doc_type:owners_manual
 погаснет,
 и
 система
@@ -26952,7 +24589,6 @@ ON,
 программы стабилизации.
 
 ### Индикатор системы электронной программы стабилизации
-`jetour_dashing_ru_94863e9d` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:161 | doc_type:owners_manual
 При выключении горит желтый индикатор «  е на приборной панели.
 Во время работы на комбинации приборов мигает желтый индикатор «
 е.
@@ -26960,13 +24596,11 @@ ON,
 е горит желтый индикатор на приборной панели.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_19318a15` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:161 | doc_type:owners_manual
 Если система электронной программы стабилизации неисправна, эта функция
 может работать неправильно, тогда пожалуйста, как можно скорее обратитесь на
 авторизованный сервисный центр Jetour для проверки и ремонта.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_bcba6111` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:162 | doc_type:owners_manual
 145
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 ОПАСНОСТЬ
@@ -26980,7 +24614,6 @@ ON,
 правила, чтобы избежать несчастных случаев.
 
 ### Система  электронной  программы  стабилизации  должна  быть  отключена  при
-`jetour_dashing_ru_6444351f` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:162 | doc_type:owners_manual
 следующих условиях:
 • При движении с цепями противоскольжения.
 • При движении на силовом тестере.
@@ -26991,16 +24624,13 @@ ON,
 • При экстремальном вождении (например, при дрифте).
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_342aae6a` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:162 | doc_type:owners_manual
 Чтобы  улучшить  сцепление  автомобиля  при  движении  по  песку  или  гравию,
 рекомендуется отключить систему электронной программы стабилизации.
 
 ### Расширенная функция
-`jetour_dashing_ru_b01acf11` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:162 | doc_type:owners_manual
 Электронная система распределения тормозных сил (EBD)
 
 ### Система
-`jetour_dashing_ru_51859c8d` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:162 | doc_type:owners_manual
 динамической
 электронной
 стабилизации
@@ -27011,7 +24641,6 @@ ON,
 тормозное усилие, чтобы обеспечить устойчивость и безопасность колес.
 
 ### Для повышения эффективности торможения система электронной распределения
-`jetour_dashing_ru_3149a9a0` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:162 | doc_type:owners_manual
 тормозных усилий (EBD) автоматически регулирует пропорция распределения
 тормозных сил между передней и задней осями в соответствии с разницей
 передачи осевой нагрузки, вызванной торможением. Кроме того, EBD работает
@@ -27019,7 +24648,6 @@ ON,
 Система помощи при экстренном торможении (ЕВА)
 
 ### Система EBA используется для сокращения тормозного пути при экстренном
-`jetour_dashing_ru_e496ee73` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:162 | doc_type:owners_manual
 торможении. В экстренной ситуации водитель обычно вовремя тормозит, но, как
 правило, не применяет максимальное тормозное усилие, тем самым удлиняя
 тормозной путь. В этом случае система HBA будет работать: Когда водитель быстро
@@ -27029,7 +24657,6 @@ HBA быстро увеличивает тормозное давление до
 эффективнее.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_86cbf8a3` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:163 | doc_type:owners_manual
 146
 Система контроля тяги (TCS)
 Функция:
@@ -27066,7 +24693,6 @@ ESP. При запуске или резком ускорении ведущие
 пробуксовывало.
 
 ### Индикатор ESP на  комбинации приборов  будет  мигать  при  включении  системы
-`jetour_dashing_ru_bf647016` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:163 | doc_type:owners_manual
 контроля тяги. Слышен некоторый шум или ощущается вибрация педали тормоза.
 Это нормально и продолжайте управлять автомобилем в желаемом направлении;
 Если в системе контроля тяги обнаружена неисправность, индикатор останется
@@ -27078,7 +24704,6 @@ ESP. При запуске или резком ускорении ведущие
 ненормально.
 
 ### Соответственно
-`jetour_dashing_ru_a889e644` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 отрегулируйте методы вождения.
 Для обеспечения максимальной безопасности вождения система контроля тяги
 включается автоматически при запуске автомобиля.
@@ -27100,7 +24725,6 @@ ESP. При запуске или резком ускорении ведущие
 Система предотвращения опрокидывания (RMI)
 
 ### В условиях высокоскоростного вождения функция предотвращения опрокидывания
-`jetour_dashing_ru_c0cbefb6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:163 | doc_type:owners_manual
 может еще больше повысить эффективность системы стабилизации автомобиля.
 При
 движении
@@ -27117,14 +24741,12 @@ DBF - вспомогательная функция электрической �
 может быть применено, когда переключатель EPB постоянно поднят.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_60f73178` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:164 | doc_type:owners_manual
 147
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 4-10. Подушка безопасности (SRS)
 Дополнительная система удерживания (SRS)
 
 ### Система подушек безопасности является частью дополнительной удерживающей
-`jetour_dashing_ru_7fe7e9cc` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:164 | doc_type:owners_manual
 системы и действует как дополнительная часть ремня безопасности. Когда
 автомобиль
 попадает
@@ -27140,13 +24762,11 @@ DBF - вспомогательная функция электрической �
 или смерти.
 
 ### В зависимости от типа столкновения система подушек безопасности в основном
-`jetour_dashing_ru_b95258d4` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:164 | doc_type:owners_manual
 делится на фронтальные и боковые подушки безопасности. Фронтальная подушка
 безопасности включает в себя подушки безопасности водителя и переднего
 пассажира.
 
 ### Боковая
-`jetour_dashing_ru_96a4a7ce` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:164 | doc_type:owners_manual
 подушка
 безопасности
 включает
@@ -27167,7 +24787,6 @@ DBF - вспомогательная функция электрической �
 загорятся внутренние плафоны и аварийные сигналы.
 
 ### Положение подушки безопасности
-`jetour_dashing_ru_45d27e7b` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:164 | doc_type:owners_manual
 4
 1
 3
@@ -27178,7 +24797,6 @@ OMX65-5050
 Подушка безопасности водителя
 
 ### Подушка безопасности переднего
-`jetour_dashing_ru_6e161d41` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:164 | doc_type:owners_manual
 пассажира
 Боковая подушка безопасности
 сиденья (при наличии)
@@ -27186,13 +24804,11 @@ OMX65-5050
 наличии)
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_31b62082` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:165 | doc_type:owners_manual
 148
 Правильное использование подушки безопасности
 Передняя подушка безопасности
 
 ### В
-`jetour_dashing_ru_911716e3` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:165 | doc_type:owners_manual
 случае
 серьезного
 лобового
@@ -27223,7 +24839,6 @@ OMX65-5050
 человека).
 
 ### Подушка
-`jetour_dashing_ru_c31e4fca` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:165 | doc_type:owners_manual
 безопасности
 работает
 вместе с ремнем безопасности для
@@ -27231,7 +24846,6 @@ OMX65-5050
 пассажиров.
 
 ### Однако
-`jetour_dashing_ru_feb0d9d4` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:165 | doc_type:owners_manual
 подушка
 безопасности не является заменой
 ремня безопасности.  Кроме того,
@@ -27249,7 +24863,6 @@ OMX65-5050
 защиты.
 
 ### Пристегивание
-`jetour_dashing_ru_066d69a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 ремня
 безопасности во время столкновения
 может
@@ -27262,13 +24875,11 @@ OMX65-5050
 защитить водителя и пассажиров.
 
 ### Поэтому все люди в автомобиле
-`jetour_dashing_ru_c16074ec` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:165 | doc_type:owners_manual
 должны правильно пристегиваться
 ремнями
 безопасности.
 
 ### Подушки
-`jetour_dashing_ru_1e86011c` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:165 | doc_type:owners_manual
 безопасности и ремни безопасности
 могут
 обеспечить защиту только
@@ -27277,7 +24888,6 @@ OMX65-5050
 возраста.
 
 ### Боковая подушка безопасности сиденья
-`jetour_dashing_ru_bcda0cea` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:165 | doc_type:owners_manual
 Если ваш автомобиль  оснащен боковой подушкой безопасности сиденья. Когда
 автомобиль подвергается боковому столкновению средней или тяжелой степени во
 время вождения и соблюдены условия срабатывания подушки безопасности,
@@ -27285,7 +24895,6 @@ OMX65-5050
 стороне столкновения, уменьшая степень травмы.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_230ca731` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:166 | doc_type:owners_manual
 149
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 ПРОЧИТАЙТЕ
@@ -27302,16 +24911,13 @@ OMX65-5050
 убедитесь, что верхние конечности находятся на достаточном расстоянии от
 боковой части автомобиля, чтобы избежать травм во время срабатывания.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_05041f6e` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:166 | doc_type:owners_manual
-• Не мочите спинку сиденья, чтобы не нарушить нормальную работу системы
-боковых подушек безопасности.
-• Не накрывайте и не заменяйте спинку сиденья самостоятельно. Использование
-неподходящего чехла спинки сиденья или другого покрытия может помешать
-срабатыванию боковой подушки безопасности сиденья во время столкновения.
+> ⚠️ **Внимание:** • Не мочите спинку сиденья, чтобы не нарушить нормальную работу системы
+> боковых подушек безопасности.
+> • Не накрывайте и не заменяйте спинку сиденья самостоятельно. Использование
+> неподходящего чехла спинки сиденья или другого покрытия может помешать
+> срабатыванию боковой подушки безопасности сиденья во время столкновения.
 
 ### Защитная подушка безопасности
-`jetour_dashing_ru_fdb1c5b8` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:166 | doc_type:owners_manual
 Если ваш автомобиль оснащен левой и правой шторками безопасности. Когда
 автомобиль подвергается боковому столкновению средней или тяжелой степени во
 время вождения и соблюдены условия срабатывания подушки безопасности
@@ -27319,7 +24925,6 @@ OMX65-5050
 пассажиров на стороне столкновения, уменьшая степень травмы.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_328934de` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:166 | doc_type:owners_manual
 • Когда автомобиль подвергается боковому столкновению и соблюдены условия
 срабатывания подушки безопасности, подушка безопасности стороны удара
 сработает.
@@ -27338,7 +24943,6 @@ OMX65-5050
 прислонившись к спинке сиденья.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_dfb2086d` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:167 | doc_type:owners_manual
 150
 ВНИМАНИЕ
 • Не прикасайтесь к соответствующим компонентам сразу после срабатывания
@@ -27381,7 +24985,6 @@ OMX65-5050
 работу подушки безопасности.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_33b7daae` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 151
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 ОПАСНОСТЬ
@@ -27390,7 +24993,6 @@ OMX65-5050
 безопасности.
 
 ### Подушка
-`jetour_dashing_ru_377e8844` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:168 | doc_type:owners_manual
 безопасности
 —
 это
@@ -27418,19 +25020,16 @@ OMX65-5050
 надлежащим образом.
 
 ### Индикаторы подушек безопасности
-`jetour_dashing_ru_89e27747` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:168 | doc_type:owners_manual
 При  наличии  неисправности  горит  красный  индикатор  «
 е на  комбинации
 приборов.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_be3266e7` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:168 | doc_type:owners_manual
 Если подушка безопасности неисправна, эта функция может не работать должным
 образом. Как можно скорее обратитесь в авторизованный сервисный центр Jetour
 для проверки и ремонта.
 
 ### Условия срабатывания подушки  безопасности не  зависят от скорости движения
-`jetour_dashing_ru_3fcd21c4` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:168 | doc_type:owners_manual
 автомобиля,
 а
 зависят
@@ -27444,7 +25043,6 @@ OMX65-5050
 не сработать, если удар при столкновении поглощается или рассеивается в теле;
 
 ### Однако иногда подушка безопасности может сработать в зависимости от условий
-`jetour_dashing_ru_791d46ed` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:168 | doc_type:owners_manual
 удара при аварии. Поэтому об условиях срабатывания подушки безопасности не
 следует судить по поврежденному состоянию автомобиля.
 Даже если подушка безопасности не развернута, при столкновении подушка
@@ -27464,12 +25062,10 @@ OMX65-5050
 авторизованный сервисный центр Jetour для проверки и ремонта.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_01164118` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:169 | doc_type:owners_manual
 152
 Условия, при которых подушка безопасности может сработать
 
 ### Подушка безопасности водителя и
-`jetour_dashing_ru_53e49924` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:169 | doc_type:owners_manual
 подушка
 безопасности
 переднего
@@ -27488,7 +25084,6 @@ OMX65-5050
 • Упасть или пересечь глубокую яму.
 
 ### OMX65-5053
-`jetour_dashing_ru_a7cd6511` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:169 | doc_type:owners_manual
 • Колеса ударяются о твердую землю
 или автомобиль падает.
 Как
@@ -27508,12 +25103,10 @@ OMX65-5050
 уровень.
 
 ### OMX65-5054
-`jetour_dashing_ru_604a6685` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:169 | doc_type:owners_manual
 Условия, при которых подушка безопасности может не сработать при
 столкновении
 
 ### Подушка безопасности водителя и
-`jetour_dashing_ru_53e49924` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:169 | doc_type:owners_manual
 подушка
 безопасности
 переднего
@@ -27527,7 +25120,6 @@ OMX65-5050
 столкновение на низкой скорости.
 
 ### Столкновение
-`jetour_dashing_ru_52655f78` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 с ударом сбоку
 Опрокидывание
 OMX65-5055
@@ -27535,13 +25127,11 @@ OMX65-5055
 столкновение
 
 ### Столкновение
-`jetour_dashing_ru_52655f78` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:169 | doc_type:owners_manual
 с ударом сбоку
 Столкновение с подъездом
 под другой автомобиль
 
 ### Подушка безопасности водителя и
-`jetour_dashing_ru_53e49924` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:169 | doc_type:owners_manual
 переднего
 пассажира
 могут
@@ -27555,7 +25145,6 @@ OMX65-5055
 коснется бокового удара.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_d1f2b73f` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:170 | doc_type:owners_manual
 153
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 Боковая
@@ -27577,7 +25166,6 @@ OMX65-5055
 определенным углом к автомобилю.
 
 ### Боковая
-`jetour_dashing_ru_dfd4625c` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:170 | doc_type:owners_manual
 подушка
 безопасности
 сиденья
@@ -27595,14 +25183,12 @@ OMX65-5055
 столкновению на низкой скорости.
 
 ### Фронтальное
-`jetour_dashing_ru_c01d581f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:170 | doc_type:owners_manual
 столкновение
 Опрокидывание
 OMX65-5058
 Меры предосторожности для подушек безопасности
 
 ### Всегда держите путь срабатывания
-`jetour_dashing_ru_7381a222` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:170 | doc_type:owners_manual
 подушки
 безопасности
 свободным.
@@ -27615,7 +25201,6 @@ OMX65-5058
 безопасности.
 
 ### Запрещается
-`jetour_dashing_ru_969e4df0` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:170 | doc_type:owners_manual
 закреплять или размещать какие-либо
 предметы
 на
@@ -27625,7 +25210,6 @@ OMX65-5058
 между    пассажиром    и    подушкой
 
 ### OMX65-5059
-`jetour_dashing_ru_4b76837c` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:170 | doc_type:owners_manual
 безопасности находится какой-либо
 предмет,
 подушка
@@ -27642,13 +25226,11 @@ OMX65-5058
 серьезной травме или смерти.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_b94e1d33` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 154
 Не  садитесь  на  край  сиденья  и  не
 прислоняйтесь к приборной панели.
 
 ### Не позволяйте ребенку стоять перед
-`jetour_dashing_ru_a617e9d3` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:171 | doc_type:owners_manual
 блоком
 подушки
 безопасности
@@ -27656,12 +25238,10 @@ OMX65-5058
 коленях переднего пассажира.
 
 ### OMX65-5061
-`jetour_dashing_ru_7658ef5c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:171 | doc_type:owners_manual
 Не прислоняйтесь к двери, стойке А,
 стойке B или стойке C.
 
 ### Не позволяйте никому становиться на
-`jetour_dashing_ru_8119f643` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:171 | doc_type:owners_manual
 колени на пассажирском сиденье по
 направлению к двери или высовывать
 голову
@@ -27672,7 +25252,6 @@ OMX65-5058
 автомобиля.
 
 ### Ничего
-`jetour_dashing_ru_ab18936f` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:171 | doc_type:owners_manual
 не
 прикрепляйте
 или
@@ -27684,7 +25263,6 @@ OMX65-5058
 водителя или переднего пассажира.
 
 ### 4. ВОЖДЕНИЕ АВТОМОБИЛЯ
-`jetour_dashing_ru_83b8401d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:172 | doc_type:owners_manual
 155
 ВОЖДЕНИЕ АВТОМОБИЛЯ
 Не
@@ -27699,12 +25277,10 @@ OMX65-5058
 стойка
 
 ### A,
-`jetour_dashing_ru_c78295cf` | dashing | pdf_manual | tier:2 | lang:ru | layer:suspension | p:172 | doc_type:owners_manual
 стойка B, стойка C, боковая рейка
 крыши и вспомогательная ручка.
 
 ### Замена компонентов подушки безопасности
-`jetour_dashing_ru_fd43be65` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:172 | doc_type:owners_manual
 Соответствующие части подушки безопасности необходимо заменять через 10 лет
 с даты покупки автомобиля. Чтобы убедиться, что подушка безопасности может
 обеспечить вашу безопасность, всегда обращайтесь в авторизованный сервисный
@@ -27714,7 +25290,6 @@ OMX65-5058
 продаже автомобиля.
 
 ### Не утилизируйте автомобиль и не выполняйте следующие модификации без
-`jetour_dashing_ru_73cfc9f2` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:172 | doc_type:owners_manual
 разрешения авторизованной сервисной станции Jetour, в противном  случае
 подушка безопасности может выйти из строя или случайно сработать, что приведет
 к серьезным травмам или смерти.
@@ -27728,53 +25303,44 @@ OMX65-5058
 157
 
 ### ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_a4d1f1b6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 5-1. Система круиз
 контроля
 Система круизконтроля (CCS) (при
 
 ### Система адаптивного
-`jetour_dashing_ru_d1629df4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 круиз-контроля (ACC)
 5-2. Система управления
 спуском с холма (HDC)
 
 ### Система управления
-`jetour_dashing_ru_8c297f0f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 5-3. Система помощи при
 движении по полосе
 
 ### Система помощи при
-`jetour_dashing_ru_de796d89` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 движении по полосе
 
 ### Система
-`jetour_dashing_ru_be135a6e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 предупреждения о
 выходе из полосы
 движения (LDW) (при
 
 ### Система удержания
-`jetour_dashing_ru_1fe04550` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 полосы движения (LKA)
 5-4. Система
 обнаружения слепых зон
 (BSD) (при наличии)
 
 ### Система обнаружения
-`jetour_dashing_ru_18ee278e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 слепых зон (BSD) .............. 174
 Система
 предупреждения об
 открытии двери
 
 ### Система оповещения о
-`jetour_dashing_ru_ea67f4de` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 перекрестном
 движении сзади
 
 ### Система
-`jetour_dashing_ru_be135a6e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 предупреждения
 заднего столкновения
 5-5. Автоматическая
@@ -27782,7 +25348,6 @@ OMX65-5058
 торможения (AEB)/
 
 ### Система предупреждения
-`jetour_dashing_ru_f6d152b8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 o лобовом столкновении
 (FCW) (если оборудован)
 Автоматическая
@@ -27790,21 +25355,18 @@ o лобовом столкновении
 торможения (AEB)/
 
 ### Система
-`jetour_dashing_ru_be135a6e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 предупреждения о
 лобовом столкновении
 5-6. Система помощи при
 заторе движения (TJA) /
 
 ### Интегрированная система
-`jetour_dashing_ru_63e2b61a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 помощи при движении
 (ICA) (при наличии)
 Система помощи при
 пробках (TJA)/
 
 ### Интегрированная
-`jetour_dashing_ru_6a1b265e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:174 | doc_type:owners_manual
 158
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 система помощи при
@@ -27812,19 +25374,15 @@ o лобовом столкновении
 давления в шинах (TPMS)
 
 ### Система наблюдения
-`jetour_dashing_ru_1ad3f98d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 за парковкой (при
 
 ### Система контроля
-`jetour_dashing_ru_a80a8b29` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 панорамного обзора
 
 ### Парковочная радарная
-`jetour_dashing_ru_453ea484` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:175 | doc_type:owners_manual
 система (при
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_8a7bce80` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 159
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 5-1. Система круиз контроля
@@ -27843,7 +25401,6 @@ o лобовом столкновении
 скоростью.
 
 ### OMX65-6011
-`jetour_dashing_ru_91336cad` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:176 | doc_type:owners_manual
 Выход: Во время движения на круизе
 один
 раз
@@ -27854,13 +25411,11 @@ o лобовом столкновении
 постоянной скоростью.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_2981034b` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:176 | doc_type:owners_manual
 После перехода автомобиля в круизный режим функция A/C не может быть
 отрегулирована с помощью ролика на рулевом колесе, можно отрегулировать
 только функцию помощи при движении.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_78d5520a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:176 | doc_type:owners_manual
 • Во время круиза, если вы по ошибке перевели рычаг переключения передач из
 положения D в положение N или переключились в положение R. По причинам
 безопасности крейсерский режим также будет отменен, и система перейдет в
@@ -27878,7 +25433,6 @@ o лобовом столкновении
 ремонта.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_be1ba462` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:177 | doc_type:owners_manual
 160
 Настройка скорости
 Во время движения на круизе поверните левый ролик рулевого колеса вверх, чтобы
@@ -27887,7 +25441,6 @@ o лобовом столкновении
 уменьшить скорость движения.
 
 ### Ограничение функции
-`jetour_dashing_ru_b4be1a8f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:177 | doc_type:owners_manual
 ■При следующих условиях не используйте систему круиз с постоянной скоростью,
 несоблюдение этого требования может привести к несчастному случаю, травмам и
 смерти.
@@ -27920,7 +25473,6 @@ o лобовом столкновении
 • Температура тормоза слишком высока из-за частого торможения.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_24843fb7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 161
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 Методы использования
@@ -27928,7 +25480,6 @@ o лобовом столкновении
 Введите:
 
 ### Переведите
-`jetour_dashing_ru_ffa33601` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 питание
 автомобиля
 в
@@ -27941,7 +25492,6 @@ ON,
 системы.
 
 ### Дважды
-`jetour_dashing_ru_5e8a39e7` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:178 | doc_type:owners_manual
 потяните
 переключатель
 передач под рулевым колесом вниз,
@@ -27949,7 +25499,6 @@ ON,
 круиз-контроля.
 
 ### OMX65-6011
-`jetour_dashing_ru_1779e5b0` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:178 | doc_type:owners_manual
 ■Выходе в систему адаптивного круиз-контроля
 При возникновении любой из следующих ситуаций в крейсерском режиме ACC
 отключится:
@@ -27965,21 +25514,18 @@ ON,
 • Водитель нажимает педаль акселератора более 15 минут.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_93d3d012` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:178 | doc_type:owners_manual
 • Для системы адаптивного круиз-контроля минимальная скорость снижается до
 30 км/ч.
 • Скорость будет немного ниже установленной скорости при движении вверх по
 склону и немного выше установленной скорости при движении вниз по склону.
 
 ### Настройка скорости
-`jetour_dashing_ru_56b1b269` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:178 | doc_type:owners_manual
 Во время движения на круизе поверните левый ролик рулевого колеса вверх, чтобы
 увеличить крейсерскую скорость.
 Во время движения на круизе поверните левый ролик рулевого колеса вниз, чтобы
 уменьшить скорость движения.
 
 ### Во время движения на круизе поверните левый ролик рулевого колеса влево для
-`jetour_dashing_ru_a5da29f6` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:178 | doc_type:owners_manual
 регулировки временного интервала круиза (циклическое переключение)
 Обгон
 Во время движения, водитель активно нажимает на педаль газа, чтобы превысить
@@ -27989,14 +25535,12 @@ ON,
 педали акселератора ACC снова активируется.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_e0eddd5d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 162
 Контроль скорости при движении по кривой
 Уменьшите скорость, когда автомобиль входит в поворот в процессе круиза, что
 поможет водителю безопасно пройти через поворот.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_a6b9cade` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 • Водитель должен управлять автомобилем, проезжая поворот как можно
 медленнее на протяжении всего процесса вождения.
 • При движении по кривой из-за ограничений радиолокационного зонда для
@@ -28005,7 +25549,6 @@ ON,
 на себя управление автомобилем в любое время.
 
 ### Автоматическое  отслеживание
-`jetour_dashing_ru_ea44b209` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:179 | doc_type:owners_manual
 Когда активирована адаптивная система круиз-контроля, она обнаруживает, что
 перед полосой движения находится автомобиль. Если скорость движения не
 превышает
@@ -28021,24 +25564,20 @@ ON,
 также уменьшает скорость до остановки.
 
 ### 1. Если впереди идущий автомобиль заводится в течение 3 секунд, автомобиль
-`jetour_dashing_ru_e9ba4633` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:179 | doc_type:owners_manual
 также запускается автоматически.
 2. Если впереди идущий автомобиль останавливается более чем на 3 секунд и
 запускается в течение от 3 секунд до 10 минут, водителю необходимо дважды
 потянуть переключатель передач под рулевым колесом вниз, чтобы активировать
 
 ### 3. Если автомобиль останавливается более чем на 10 минут, водителю следует
-`jetour_dashing_ru_6b6442de` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:179 | doc_type:owners_manual
 слегка нажать на педаль акселератора или дважды переключить переключатель
 передач под рулевым колесом вниз, чтобы активировать ACC.
 
 ### Во время следования впереди идущего автомобиля электронная  система
-`jetour_dashing_ru_9a8717c1` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:179 | doc_type:owners_manual
 контроля устойчивости постоянно тормозит, а электродвигатель издает звук
 работы при вращении, это нормально, ведите машину спокойно.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_a083ad11` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:180 | doc_type:owners_manual
 163
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 Ограничение функции
@@ -28046,7 +25585,6 @@ ON,
 нераспознаванию:
 
 ### 1. При входе в кривую.
-`jetour_dashing_ru_753661c8` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:180 | doc_type:owners_manual
 При
 входе
 в
@@ -28064,7 +25602,6 @@ ON,
 акселератора.
 
 ### При выходе из поворота передний
-`jetour_dashing_ru_4b40f0bf` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:180 | doc_type:owners_manual
 радарный датчик может среагировать
 на соседнюю полосу  и применить
 торможение, которое можно прервать
@@ -28075,7 +25612,6 @@ ON,
 полосу движения.
 
 ### 3. Транспортные средства не движутся по одной полосе.
-`jetour_dashing_ru_8e3a3d37` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:180 | doc_type:owners_manual
 Автомобиль, не движущийся по той же полосе, может быть идентифицировано
 только в пределах действия переднего радарного датчика, особенно автомобили
 узкого
@@ -28088,7 +25624,6 @@ ON,
 д.).
 
 ### Передний
-`jetour_dashing_ru_1d05b9f1` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:180 | doc_type:owners_manual
 радиолокационный датчик не может идентифицировать автомобиль узкого типа,
 которые не находятся в пределах дальности обнаружения.
 Если
@@ -28105,7 +25640,6 @@ ON,
 радарного датчика.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_8e046566` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:181 | doc_type:owners_manual
 164
 Не используйте ACC на крутом склоне.
 На крутом склоне ACC система не
@@ -28129,7 +25663,6 @@ ON,
 тормоз
 
 ### ACC
-`jetour_dashing_ru_0bbb155a` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:181 | doc_type:owners_manual
 система
 отключается.
 OMX65-6023
@@ -28141,7 +25674,6 @@ OMX65-6023
 ена мультимедийном дисплее горит синий индикатор.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_930974b6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 Если ACC неисправен, эта функция не будет работать, пожалуйста, обратитесь в
 авторизованный сервисный центр Jetour для проверки и ремонта как можно
 скорее.
@@ -28149,7 +25681,6 @@ OMX65-6023
 • ACC не может нарушать законы физики и имеет определенные ограничения.
 
 ### Водитель
-`jetour_dashing_ru_65df5eae` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:181 | doc_type:owners_manual
 должен
 всегда
 контролировать
@@ -28183,7 +25714,6 @@ ACC может выбрать данный автомобиль в качест�
 идущий впереди автомобиль. В этом случае ACC должна быть выключена.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_348a2bd2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:182 | doc_type:owners_manual
 165
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 • ACC подходит для использования на автомагистралях и дорогах в хорошем
@@ -28204,7 +25734,6 @@ ACC может выбрать данный автомобиль в качест�
 столкновению.
 
 ### Поэтому
-`jetour_dashing_ru_e032c865` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:182 | doc_type:owners_manual
 водитель
 должен
 следить
@@ -28257,14 +25786,12 @@ ACC может выбрать данный автомобиль в качест�
 которые могут повлиять на нормальную работу системы. Функция системы может
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_8b1e34bb` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 166
 не принести ожидаемого эффекта по другим причинам. Водитель всегда должен
 нести полную ответственность за управление автомобилем в любое время.
 5-2. Система управления спуском с холма (HDC)
 
 ### Система управления спуском с холма
-`jetour_dashing_ru_0f9bf30b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 HDC - это функция комфорта, которая помогает водителю при спуске с дороги за
 счет активного торможения, позволяя автомобилю автоматически контролировать
 свою скорость без участия водителя.
@@ -28272,7 +25799,6 @@ HDC - это функция комфорта, которая помогает в
 включения
 
 ### HDC
-`jetour_dashing_ru_df5c21df` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 при
 движении
 автомобиля
@@ -28287,14 +25813,12 @@ HDC - это функция комфорта, которая помогает в
 скорости.
 
 ### Текущая
-`jetour_dashing_ru_5d4bc673` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:183 | doc_type:owners_manual
 скорость
 управляемого
 автомобиля может быть увеличена или уменьшена в заданном диапазоне скоростей
 нажатием на педаль акселератора или педаль тормоза.
 
 ### Питание автомобиля переключается в
-`jetour_dashing_ru_efca6fcf` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:183 | doc_type:owners_manual
 режим ON. Включение/выключение
 переключателя HDC осуществляется
 через мультимедийный дисплей [Мое
@@ -28305,7 +25829,6 @@ HDC - это функция комфорта, которая помогает в
 Когда скорость автомобиля ≤ 60 км/ч.
 
 ### Нажмите
-`jetour_dashing_ru_2afc15cb` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:183 | doc_type:owners_manual
 переключатель
 HDC
 для
@@ -28314,7 +25837,6 @@ HDC
 HDC, а индикаторная лампа функции
 
 ### HDC на комбинации приборов станет
-`jetour_dashing_ru_47a97fb5` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:183 | doc_type:owners_manual
 белой; когда система HDC войдет в
 рабочий порог, система HDC начнет
 работать,
@@ -28330,25 +25852,21 @@ HDC, а индикаторная лампа функции
 электромагнитного клапана.
 
 ### Выключение
-`jetour_dashing_ru_b0e37d87` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 Если скорость автомобиля > 60 км/ч или снова нажать кнопку HDC, система HDC
 перестанет работать (погаснет индикаторная лампочка выключателя HDC и
 индикаторная лампочка функции HDC на комбинации приборов).
 
 ### Индикатор системы контроля движения на спуске
-`jetour_dashing_ru_ce344773` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 При его активации загорается зеленый индикатор «     е на приборной панели.
 При наличии неисправности загорается желтый индикатор « е на приборной
 панели.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_b3d0c357` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:183 | doc_type:owners_manual
 Если HDC неисправен, эта функция не будет работать, пожалуйста, как можно
 скорее обратитесь на авторизованный сервисный центр Jetour для проверки и
 ремонта.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_4e1172ea` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:184 | doc_type:owners_manual
 167
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 ВНИМАНИЕ
@@ -28372,7 +25890,6 @@ HDC, а индикаторная лампа функции
 проверки и ремонта.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_f101e9ae` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 168
 5-3. Система помощи при движении по полосе
 Система помощи при движении по полосе (при наличии)
@@ -28387,7 +25904,6 @@ HDC, а индикаторная лампа функции
 вождения.
 
 ### Переключатель системы помощи при движении по полосе
-`jetour_dashing_ru_b8d63ab1` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:185 | doc_type:owners_manual
 Через мультимедийный дисплей [Мое
 приложение]
 →
@@ -28399,19 +25915,16 @@ HDC, а индикаторная лампа функции
 вождении].
 
 ### Тип помощи для полосы движения
-`jetour_dashing_ru_634fd7ab` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 может быть установлен на отклонение
 полосы от системы предупреждения
 (LDW) или OFF.
 
 ### Чувствительность предупреждения о
-`jetour_dashing_ru_be01844c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:185 | doc_type:owners_manual
 выходе  из  полосы  движения  можно
 OMX65-6031
 установить на высокую или низкую.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_9844a618` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:186 | doc_type:owners_manual
 169
 ВНИМАНИЕ
 • Убедитесь, что камера переднего вида свободна от препятствий.
@@ -28443,7 +25956,6 @@ OMX65-6031
 дождь, снег или туман, а высококонтрастное освещение повлияет на датчик.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_dd9b30e5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 • Водитель
 должен
 контролировать
@@ -28459,18 +25971,15 @@ OMX65-6031
 наличии)
 
 ### Автомобиль предупреждает водителя в случае бессознательного  выезда  за
-`jetour_dashing_ru_dc5f061d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 пределы полосы движения. Неосознанный выезд из полосы движения включает в
 себя как произошедший, так и приближающийся выезд из полосы движения.
 
 ### Подача сигнала тревоги водителю может уменьшить вероятность боковых
-`jetour_dashing_ru_284c5973` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:186 | doc_type:owners_manual
 столкновений и других связанных с ними аварий.
 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
 170
 
 ### Активация системы слежения за дорожной разметкой
-`jetour_dashing_ru_1145f7c0` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 При скорости автомобиля 60 км/ч и
 выше
 включается
@@ -28488,7 +25997,6 @@ OMX65-6031
 предварительного включения.
 
 ### Сигнальная индикация системы предупреждения о сходе с полосы
-`jetour_dashing_ru_8f6d7cb2` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:187 | doc_type:owners_manual
 движения
 Если система обнаруживает, что автомобиль отклоняется от линии движения, на
 мультимедийном дисплее отображается следующий сигнал:
@@ -28501,30 +26009,27 @@ OMX65-6031
 комбинация приборов управляет одновременным звуковым сигналом в течение 3
 секунд, чтобы напомнить об этом пользователю.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_fe62bb5c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
-• Линия полосы движения, зафиксированная камерой автомобиля: Он может
-распознавать белую сплошную линию, белую пунктирную линию, желтую
-сплошную линию, желтую пунктирную линию и двойную сплошную линию.
-• При движении по затопленным или грязным дорогам система иногда не
-работает.
-При
-обнаружении
-линии
-односторонней
-полосы
-движения
-стабильность сигнализации системы снижается.
-• Если датчик не может обнаружить линию полосы движения на земле, система не
-будет
-работать.
-Даже
-если
-автомобиль
-оборудован
+> ⚠️ **Внимание:** • Линия полосы движения, зафиксированная камерой автомобиля: Он может
+> распознавать белую сплошную линию, белую пунктирную линию, желтую
+> сплошную линию, желтую пунктирную линию и двойную сплошную линию.
+> • При движении по затопленным или грязным дорогам система иногда не
+> работает.
+> При
+> обнаружении
+> линии
+> односторонней
+> полосы
+> движения
+> стабильность сигнализации системы снижается.
+> • Если датчик не может обнаружить линию полосы движения на земле, система не
+> будет
+> работать.
+> Даже
+> если
+> автомобиль
+> оборудован
 
 ### LDW,
-`jetour_dashing_ru_ac72e531` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:187 | doc_type:owners_manual
 необходимо
 соблюдать осторожность при движении.
 Ограничение функции
@@ -28540,20 +26045,17 @@ OMX65-6031
 • При движении по дорогам с крутыми поворотами.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_05c070a9` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:188 | doc_type:owners_manual
 171
 • Когда линия полосы движения слишком тонкая, прерывистая, размытая или на
 стороне отправления нет полосы движения, из-за чего камера не распознает ее.
 Система удержания полосы движения (LKA) (при наличии)
 
 ### LKA определяет линию полосы движения с помощью многофункциональной камеры
-`jetour_dashing_ru_c2b565c3` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:188 | doc_type:owners_manual
 переднего вида. Когда система обнаруживает линии полосы движения с левой и
 правой сторон, система применяет корректирующее рулевое управление, чтобы
 удержать автомобиль в середине полосы.
 
 ### Активация системы удержания полосы движения
-`jetour_dashing_ru_5855825c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 При скорости автомобиля 60 км/ч и
 выше включается система  помощи
 при поддержании полосы движения;
@@ -28562,7 +26064,6 @@ OMX65-6031
 предварительной активации.
 
 ### Индикатор системы помощи при удержании полосы движения
-`jetour_dashing_ru_03e4e19f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 Когда он предварительно активирован, серый индикатор «
 е на приборной
 панели остается включенным.
@@ -28573,13 +26074,11 @@ OMX65-6031
 е горит желтый индикатор на приборной панели.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_fed61f42` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:188 | doc_type:owners_manual
 Если LKA неисправен, эта функция не будет работать, пожалуйста, как можно
 скорее обратитесь на авторизованный сервисный центр Jetour для проверки и
 ремонта.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_dc6b0852` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:189 | doc_type:owners_manual
 172
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 ОПАСНОСТЬ
@@ -28610,7 +26109,6 @@ OMX65-6031
 может привести к несчастным случаям.
 
 ### Ограничение функции
-`jetour_dashing_ru_265c5d7a` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:189 | doc_type:owners_manual
 ■LKA может работать неправильно в следующих условиях:
 • Вождение автомобиля при ярком солнечном свете.
 • Радиус поворотов менее 300 м.
@@ -28639,7 +26137,6 @@ OMX65-6031
 определенного периода времени.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_0bd02a12` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:190 | doc_type:owners_manual
 173
 составляет
 15
@@ -28677,7 +26174,6 @@ OMX65-6031
 чтобы он обратил внимание на безопасность движения и смену полосы движения.
 
 ### Если   рычаг   переключения   передач
-`jetour_dashing_ru_c26ac92c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 находится в положении D, а скорость
 2
 1
@@ -28686,7 +26182,6 @@ OMX65-6031
 1
 
 ### Зона обнаружения системы
-`jetour_dashing_ru_c3fa02aa` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:190 | doc_type:owners_manual
 предупреждения   об   обнаружении
 слепых зон
 Автомобиль приближается к зоне
@@ -28711,70 +26206,58 @@ OMX65-6031
 Уровень II: на основе уровня I срабатывают указатели поворота с той же стороны.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_2a78fe68` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 174
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 слепых  зон  на  наружном  зеркале  заднего  вида  быстро  мигает,  звучит  сигнал
 тревоги, напоминая водителю, что смена полосы движения опасна.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_5a7e2922` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:191 | doc_type:owners_manual
 Система обнаружения слепых зон может быть включена/выключена с помощью
 мультимедийного дисплея.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_43f5c01d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:191 | doc_type:owners_manual
-• При скоплении большого количества снега или льда на заднем бампере и рядом
-с датчиком радара или при длительной езде по заснеженной дороге система
-BSD может не сработать.
-• При буксировке или прикреплении аксессуаров к задней части автомобиля (-
-например, устройство для перевозки велосипедов) выключите BSD система. В
-противном случае это повлияет на радиоволны радара, что приведет к
-неправильной работе системы.
-• BSD/LCA система может обнаруживать стационарные объекты на дороге или
-рядом с ней (например, ограждения, туннели, боковые стены и припаркованные
-автомобили), чтобы включить сигнальную лампу.
+> ⚠️ **Внимание:** • При скоплении большого количества снега или льда на заднем бампере и рядом
+> с датчиком радара или при длительной езде по заснеженной дороге система
+> BSD может не сработать.
+> • При буксировке или прикреплении аксессуаров к задней части автомобиля (-
+> например, устройство для перевозки велосипедов) выключите BSD система. В
+> противном случае это повлияет на радиоволны радара, что приведет к
+> неправильной работе системы.
+> • BSD/LCA система может обнаруживать стационарные объекты на дороге или
+> рядом с ней (например, ограждения, туннели, боковые стены и припаркованные
+> автомобили), чтобы включить сигнальную лампу.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_95ccc676` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 BSD система и расширенные функции просто предлагают вам помощь. Он может
 не работать правильно при любых условиях вождения, погодных условиях,
 условиях движения или дорожных условиях.
 
 ### При получении сигнала тревоги с левой стороны автомобиля на мультимедийном
-`jetour_dashing_ru_f2031a86` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:191 | doc_type:owners_manual
 дисплее отображается красная предупреждающая надпись с левой стороны
 автомобиля.
 
 ### При получении сигнала тревоги с правой стороны автомобиля на мультимедийном
-`jetour_dashing_ru_4a98fef8` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:191 | doc_type:owners_manual
 дисплее отображается красная предупреждающая надпись с правой стороны
 автомобиля.
 
 ### При получении сигнала тревоги с задней стороны автомобиля на дисплее
-`jetour_dashing_ru_bf943c0b` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:191 | doc_type:owners_manual
 мультимедийной системы отображается красная предупреждающая надпись о
 задней стороне автомобиля.
 
 ### При неисправности системы обнаружения слепых зон необходимо как можно
-`jetour_dashing_ru_f4ccb192` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 скорее обратиться на авторизованную сервисную станцию Jetour для проверки и
 ремонта.
 Система предупреждения об открытии двери (DOW)
 
 ### При парковке автомобиля и открытии двери быстро приближающиеся объекты
-`jetour_dashing_ru_e181fdfd` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 сзади слева и справа сталкиваются с автомобилем, DOW система подает сигнал
 тревоги.
 
 ### Активация
-`jetour_dashing_ru_2b23e51f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:191 | doc_type:owners_manual
 После включения функции, когда автомобиль неподвижен или скорость движения
 менее 3 км при не переключённом в положение R рычаге переключения передач,
 система активируется.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_3084d945` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:192 | doc_type:owners_manual
 175
 Уровень I: Если в левой и правой зонах обнаружения DOW находится целевой
 автомобиль и выполняются условия тревоги, включается сигнализация уровня I,
@@ -28792,7 +26275,6 @@ BSD система и расширенные функции просто пре�
 напомнить водителю о необходимости соблюдать безопасность.
 
 ### После включения функции при переводе рычага переключения в положение R
-`jetour_dashing_ru_6f1ce1e3` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:192 | doc_type:owners_manual
 система активируется. При появлении в слепой зоне за автомобилем или на
 соседней полосе целевого транспортного средства и выполнении условий тревоги
 светодиодный индикатор на наружном зеркале заднего вида со стороны
@@ -28812,7 +26294,6 @@ BSD система и расширенные функции просто пре�
 транспортного средства сзади.
 
 ### Активация
-`jetour_dashing_ru_2d117c13` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:192 | doc_type:owners_manual
 После включения этой функции при скорости движения автомобиля 15 км/ч или
 выше, когда рычаг переключения находится в положении D, система активируется.
 Когда к автомобилю быстро приближается следующий за ним автомобиль, мигает
@@ -28820,7 +26301,6 @@ BSD система и расширенные функции просто пре�
 автомобиль.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_12c32aec` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 176
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 5-5. Автоматическая система экстренного торможения (AEB)/
@@ -28834,7 +26314,6 @@ BSD система и расширенные функции просто пре�
 быстро, автомобиль автоматически затормозит, уменьшая потери от столкновения.
 
 ### Описание функции
-`jetour_dashing_ru_9abcb845` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 1
 2
 3
@@ -28846,13 +26325,11 @@ OMX65-6060
 столкновением.
 
 ### Перед столкновением начните
-`jetour_dashing_ru_4e7de085` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 частичное торможение.
 Перед столкновением начните
 экстренное торможение.
 
 ### Если водитель реагирует правильно
-`jetour_dashing_ru_5eecd15d` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:193 | doc_type:owners_manual
 (например, избегает столкновения,
 управляя
 рулем),
@@ -28862,7 +26339,6 @@ OMX65-6060
 отменяется.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_c283aef8` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:193 | doc_type:owners_manual
 • Включение/выключение
 AEB/FCW
 и
@@ -28875,7 +26351,6 @@ AEB/FCW
 скоростей AEB составляет 4 до 64 км/ч для пешеходов и велосипедистов.
 
 ### Меры предосторожности для автоматической системы экстренного
-`jetour_dashing_ru_ed2d4129` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:193 | doc_type:owners_manual
 торможения
 • Водитель контролирует скорость и расстояние до впереди идущего автомобиля в
 зависимости от погодных условий, состояния дорожного покрытия, условий
@@ -28898,7 +26373,6 @@ AEB/FCW
 индикатор «       е на панели приборов продолжает гореть, как можно скорее
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_c3885ebb` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 177
 обратитесь на авторизованную станцию технического обслуживания Jetour для
 проверки и ремонта.
@@ -28914,7 +26388,6 @@ AEB/FCW
 отключить
 
 ### FCW
-`jetour_dashing_ru_23313049` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 и
 AEB
 и
@@ -28939,7 +26412,6 @@ AEB
 стеклом.
 
 ### Обратите
-`jetour_dashing_ru_609dab62` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:194 | doc_type:owners_manual
 внимание,
 что
 обзор
@@ -28955,7 +26427,6 @@ AEB
 калибровки датчиков как можно скорее.
 
 ### Вышеупомянутые
-`jetour_dashing_ru_3a52d280` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:194 | doc_type:owners_manual
 меры
 предосторожности
 не
@@ -28974,7 +26445,6 @@ AEB
 экстренного торможения может не дать ожидаемого эффекта по другим причинам.
 
 ### Водитель всегда должен брать на себя полную ответственность за управление
-`jetour_dashing_ru_323639bf` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:194 | doc_type:owners_manual
 автомобилем в любое время.
 ВНИМАНИЕ
 • Водителю необходимо взять на себя автомобиль, потому что автомобиль не
@@ -28998,7 +26468,6 @@ AEB
 впереди.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_d7cfbc32` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:195 | doc_type:owners_manual
 178
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 ОПАСНОСТЬ
@@ -29035,7 +26504,6 @@ AEB
 управлением, ограждениями, знаками и другими  неподвижными  объектами.
 
 ### Для работы системы AEB необходимо в безопасных условиях сильно нажать на
-`jetour_dashing_ru_94b5e9ad` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:195 | doc_type:owners_manual
 педаль акселератора.
 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
 179
@@ -29050,7 +26518,6 @@ TJA/ICA определяет линию полосы движения с пом�
 вождения или интенсивного движения.
 
 ### Активация системы
-`jetour_dashing_ru_7c80a207` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:196 | doc_type:owners_manual
 Включить/выключить
 TJA/ICA
 можно
@@ -29061,7 +26528,6 @@ TJA/ICA
 приложение] → [Управление автомобилем] → [Помощь в вождении].
 
 ### TJA используется при скорости ниже
-`jetour_dashing_ru_3b99544f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 60 км/ч: Транспортное средство будет
 находиться рядом с центром полосы
 движения.
@@ -29082,14 +26548,12 @@ TJA/ICA
 обнаружены, TJA отключается.
 
 ### ICA
-`jetour_dashing_ru_d3accb2c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 система
 используется
 при
 скорости от 60 км/ч до 150 км/ч:
 
 ### Транспортное
-`jetour_dashing_ru_7c8c7bba` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 средство
 будет
 находиться рядом с центром полосы
@@ -29102,7 +26566,6 @@ TJA/ICA
 ли впереди целевой автомобиль.
 
 ### Ограничение функции
-`jetour_dashing_ru_8d701f10` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:196 | doc_type:owners_manual
 ■TJA/ICA может работать неправильно в следующих условиях:
 • Сигнальные огни включены.
 • Скорость автомобиля ниже 1 км/ч.
@@ -29115,7 +26578,6 @@ TJA/ICA
 • Существует любое условие выхода для ACC.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_8152ff1f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 180
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 ОПАСНОСТЬ
@@ -29132,7 +26594,6 @@ TJA/ICA
 движения или дорожных условиях.
 
 ### Меры предосторожности для системы помощи при заторе движения
-`jetour_dashing_ru_1badf5b2` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:197 | doc_type:owners_manual
 (TJA)/Интегрированная система помощи при движении (ICA)
 • Все меры предосторожности для ACC и LKA применимы и к системе.
 • На производительность этой системы влияют погода, освещенность и четкость
@@ -29148,7 +26609,6 @@ TJA/ICA
 нести полную ответственность за управление автомобилем в любое время.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_8997e4ad` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:197 | doc_type:owners_manual
 • Водитель
 является
 основным
@@ -29178,13 +26638,11 @@ TJA/ICA
 При его активации «  е на мультимедийном дисплее горит синий индикатор
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_ecb54034` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 181
 5-7. Система контроля давления в шинах (TPMS)
 Система контроля давления в шинах (TPMS)
 
 ### Система
-`jetour_dashing_ru_7f2e19e2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 контроля
 давления
 в
@@ -29197,52 +26655,43 @@ TJA/ICA
 вождения.
 
 ### Индикация давления в шинах
-`jetour_dashing_ru_78cf1b80` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:198 | doc_type:owners_manual
 После запуска двигателя, при скорости автомобиля более 30 км/ч, после движения
 в течение не менее 4 минут на мультимедийном дисплее могут отображаться
 значения температуры и давления в четырех шинах.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_66f51afe` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 Даже если автомобиль оснащен системой TPMS, перед поездкой проверьте, в
 норме ли давление в шинах и внешний вид. Пожалуйста, обратитесь на
 авторизованную сервисную станцию  Jetour для проверки и ремонта, если это
 необходимо.
 
 ### 1. При нарушении работы системы контроля давления в шинах на комбинации
-`jetour_dashing_ru_b562d074` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 приборов отображается предупреждающий символ неисправности давления в
 шинах.
 
 ### 2. Если скорость автомобиля превышает 30 км/ч в течение 10 минут и более без
-`jetour_dashing_ru_666516f2` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:198 | doc_type:owners_manual
 обнаружения сигнала датчика давления в шинах, срабатывает сигнализация
 неисправности системы.
 
 ### 3. Если температура шины слишком низкая или слишком высокая, срабатывает
-`jetour_dashing_ru_edf59b4d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 сигнализация неисправности системы.
 Функция предупреждения о низком давлении
 При обнаружении того, что значение давления в шине ниже 192 кпа, срабатывает
 сигнализация низкого давления.
 
 ### При появлении предупреждения о низком давлении необходимо своевременно
-`jetour_dashing_ru_828448c8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 проверить и отремонтировать систему контроля давления в шинах, а также накачать
 шину более чем на 230 кпа для устранения предупреждения о низком давлении.
 
 ### Функция предупреждения о высокой температуре
-`jetour_dashing_ru_6c30c619` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 Если обнаруживается, что значение давления в шине превышает 85℃, срабатывает
 предупреждение о высокой температуре.
 
 ### При появлении предупреждения о высокой температуре необходимо своевременно
-`jetour_dashing_ru_12f19d7c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:198 | doc_type:owners_manual
 проверить и отремонтировать систему контроля давления в шинах, охладить шину
 ниже 80℃ для устранения предупреждения о высокой температуре.
 
 ### Ограничение функции
-`jetour_dashing_ru_a777bd7e` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:198 | doc_type:owners_manual
 ■TPMS может отправить предупреждение о неисправности системы в следующих
 случаях:
 • На
@@ -29256,7 +26705,6 @@ TJA/ICA
 давления в шинах.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_82fd7cc0` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:199 | doc_type:owners_manual
 182
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 • Датчик давления в шинах или другие компоненты повреждены, обратитесь на
@@ -29272,7 +26720,6 @@ TJA/ICA
 Система наблюдения за парковкой (при наличии)
 
 ### В
-`jetour_dashing_ru_effd79be` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:199 | doc_type:owners_manual
 системе
 парковочного
 монитора
@@ -29287,34 +26734,30 @@ TJA/ICA
 автомобиля при движении вперед и назад.
 
 ### Методы использования
-`jetour_dashing_ru_7d85cbd4` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:199 | doc_type:owners_manual
 Переключите передачу в положение R, чтобы перейти к экрану системы
 видеомонитора парковки, на котором будут отображаться видеомонитор парковки
 и дорожного указания. Указатель полосы движения зависит от поворота рулевого
 колеса и используется для предварительной оценки траектории движения задним
 ходом.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_243e1f13` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:199 | doc_type:owners_manual
-• Используйте расстояние в качестве ориентира (например, на склоне).
-• Указатель ширины автомобиля и прогнозируемая линия шире фактической
-линии.
-• Не царапайте объектив при чистке грязи или снега с поверхности камеры.
-• Если
-шина
-заменена
-на
-шину
-другого
-размера,
-отображаемая
-линия
-прогнозирования отличается от фактической линии, пожалуйста, используйте
-зеркало заднего вида или проверьте и определите фактическое расстояние до
-других объектов.
+> ⚠️ **Внимание:** • Используйте расстояние в качестве ориентира (например, на склоне).
+> • Указатель ширины автомобиля и прогнозируемая линия шире фактической
+> линии.
+> • Не царапайте объектив при чистке грязи или снега с поверхности камеры.
+> • Если
+> шина
+> заменена
+> на
+> шину
+> другого
+> размера,
+> отображаемая
+> линия
+> прогнозирования отличается от фактической линии, пожалуйста, используйте
+> зеркало заднего вида или проверьте и определите фактическое расстояние до
+> других объектов.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_d7c122cd` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:200 | doc_type:owners_manual
 183
 ОПАСНОСТЬ
 • При движении задним ходом убедитесь, что дверь багажного отделения плотно
@@ -29350,19 +26793,16 @@ TJA/ICA
 отражать реальный объект, а также имеется слепая зона и небольшая задержка.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_a8ee28be` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 184
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 Система контроля панорамного обзора (при наличии)
 
 ### Система мониторинга панорамного обзора собирает окружающие изображения
-`jetour_dashing_ru_49cfbb0c` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:201 | doc_type:owners_manual
 автомобиля с помощью четырех камер и отображает окружающие изображения и
 указания полосы движения на мультимедийных дисплеях, чтобы помочь водителю
 безопасно и легко припарковаться.
 
 ### Впускная
-`jetour_dashing_ru_1b714e14` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:201 | doc_type:owners_manual
 решетка
 переднего
 бампера.
@@ -29371,7 +26811,6 @@ TJA/ICA
 наружного зеркала заднего вида.
 
 ### OMX65-5500
-`jetour_dashing_ru_734abb1c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 Место
 установки
 задней
@@ -29383,14 +26822,12 @@ TJA/ICA
 номерного знака.
 
 ### Методы использования
-`jetour_dashing_ru_dff31f5c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 Включите питание автомобиля, и скорость автомобиля ниже 20 км/ч:
 Способ 1: Для входа в систему панорамного обзора переместите шестерню в
 положение R; для выхода из системы панорамного обзора переместите шестерню
 из положения R.
 
 ### Способ
-`jetour_dashing_ru_21913e1e` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:201 | doc_type:owners_manual
 2:
 Для
 входа
@@ -29405,7 +26842,6 @@ TJA/ICA
 дисплея;
 
 ### Под экраном монитора с панорамным
-`jetour_dashing_ru_fe268ccc` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:201 | doc_type:owners_manual
 обзором, для выхода из системы
 монитора
 панорамного
@@ -29418,12 +26854,10 @@ TJA/ICA
 верхнем углу.
 
 ### OMX65-5520
-`jetour_dashing_ru_7d4e3189` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:201 | doc_type:owners_manual
 Способ 3: С помощью голосовой команды «Hello, Jetour. Включите 540 panoramic
 ЦЙЕЧе для активации системы.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_0cfd5c53` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 185
 Способ 4: После получения сигнала о расстоянии до препятствия переднего
 парковочного радара, он поступает на монитор панорамного видаа (если
@@ -29439,7 +26873,6 @@ TJA/ICA
 обзора.
 
 ### Система монитора панорамного обзора обеспечивает удобство помощи при
-`jetour_dashing_ru_cdc0fbc8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 вождении, но объект на изображении не отражает реальный размер и расстояние
 до препятствия. По сравнению с реальным изображением изображение имеет
 небольшую задержку и слепое пятно. Таким образом, функция панорамного
@@ -29455,7 +26888,6 @@ TJA/ICA
 автомобилем во время включения/выключения и использования функции.
 
 ### OMX65-5540
-`jetour_dashing_ru_615694c1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 Нажмите кнопку в левом верхнем углу,
 когда рычаг переключения передач
 находится не в положении R, чтобы
@@ -29463,7 +26895,6 @@ TJA/ICA
 монитора панорамного обзора.
 
 ### Нажмите
-`jetour_dashing_ru_6754f463` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 кнопку
 «2D/3Dе
 для
@@ -29472,7 +26903,6 @@ TJA/ICA
 угол с помощью ползунка.
 
 ### Нажмите
-`jetour_dashing_ru_6754f463` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 кнопку
 «
 /
@@ -29484,7 +26914,6 @@ TJA/ICA
 широкоугольным видом сзади.
 
 ### Нажмите
-`jetour_dashing_ru_6754f463` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:202 | doc_type:owners_manual
 кнопку
 «
 е,
@@ -29498,7 +26927,6 @@ TJA/ICA
 панорамного обзора.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_1e438b5e` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:202 | doc_type:owners_manual
 • В зависимости от конфигурации автомобиля, панорамный обзор монитора
 отображается
 по-разному.
@@ -29512,7 +26940,6 @@ TJA/ICA
 удобной площадке.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_d30e2b61` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 186
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 ВНИМАНИЕ
@@ -29551,7 +26978,6 @@ TJA/ICA
 использования функции.
 
 ### Настройка монитора панорамного вида
-`jetour_dashing_ru_c580481e` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:203 | doc_type:owners_manual
 [Активация угла поворота рулевого
 колеса] Поворот на большой угол для
 входа
@@ -29567,7 +26993,6 @@ TJA/ICA
 радара]
 
 ### Отображает
-`jetour_dashing_ru_f5a19b2b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 соответствующую     информацию     о
 OMX65-5550
 расстоянии до радара.
@@ -29575,7 +27000,6 @@ OMX65-5550
 шасси]
 
 ### Изменяет
-`jetour_dashing_ru_4f1a908c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:203 | doc_type:owners_manual
 прозрачность модели автомобиля.
 [Восстановить
 настройки
@@ -29585,7 +27009,6 @@ OMX65-5550
 Парковочная радарная система (при наличии)
 
 ### Парковочная
-`jetour_dashing_ru_cd4d1189` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:203 | doc_type:owners_manual
 радарная
 система
 — это
@@ -29602,7 +27025,6 @@ OMX65-5550
 водителю безопасно и легко припарковаться.
 
 ### Пользователь
-`jetour_dashing_ru_11b1a7fe` | dashing | pdf_manual | tier:2 | lang:ru | layer:infotainment | p:203 | doc_type:owners_manual
 может
 включить/выключить
 парковочный
@@ -29612,7 +27034,6 @@ OMX65-5550
 мультимедийного дисплея.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_465356e1` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:204 | doc_type:owners_manual
 187
 ПРОЧИТАЙТЕ
 • Передний
@@ -29630,7 +27051,6 @@ OMX65-5550
 радиолокационная система не возобновит работу.
 
 ### Методы использования
-`jetour_dashing_ru_6154f633` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:204 | doc_type:owners_manual
 Активируйте парковочный радар, переведя питание автомобиля в режим ON и
 переключив передачу в положение R. Когда радарный датчик обнаруживает
 препятствие, на мульти информационном дисплее отображается расстояние до
@@ -29639,7 +27059,6 @@ OMX65-5550
 течение 2 секунд, при этом отображается восклицательный знак.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_602d7895` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:204 | doc_type:owners_manual
 • Расстояние мониторинга — это кратчайшее вертикальное расстояние между
 препятствием и радарным датчиком.
 • Если препятствия обнаружены несколькими радарными датчиками, расстояния
@@ -29654,22 +27073,18 @@ OMX65-5550
 на
 
 ### Много информационном
-`jetour_dashing_ru_aecb0257` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:204 | doc_type:owners_manual
 дисплее,
 и
 система
 подает
 звуковой сигнал в соответствии с ближайшим препятствием.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_286f2670` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:204 | doc_type:owners_manual
-• Если препятствия находятся вне диапазона обнаружения, радарные датчики не
-будут подавать сигнал тревоги.
-• Во время движения автомобиля помните, что радарные датчики заднего хода на
-другой стороне могут приблизиться к другим препятствиям.
+> ⚠️ **Внимание:** • Если препятствия находятся вне диапазона обнаружения, радарные датчики не
+> будут подавать сигнал тревоги.
+> • Во время движения автомобиля помните, что радарные датчики заднего хода на
+> другой стороне могут приблизиться к другим препятствиям.
 
 ### Ограничение функции
-`jetour_dashing_ru_84c64e01` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:204 | doc_type:owners_manual
 ■Парковочный радар может работать неправильно в следующих случаях:
 • Когда автомобиль находится на крутом склоне.
 • При движении в желеобразный снег или дождь.
@@ -29690,7 +27105,6 @@ OMX65-5550
 обнаруживать препятствия.
 
 ### 5. ПОМОЩЬ ПРИ ВОЖДЕНИИ
-`jetour_dashing_ru_2c29acfa` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:205 | doc_type:owners_manual
 188
 ПОМОЩЬ ПРИ ВОЖДЕНИИ
 • Объекты, легко поглощающие ультразвуковые волны (например, мягкий снег,
@@ -29700,7 +27114,6 @@ OMX65-5550
 или другие громкие звуки, генерирующие ультразвуковые волны.
 
 ### При мытье автомобиля используйте
-`jetour_dashing_ru_23618cbb` | dashing | pdf_manual | tier:2 | lang:ru | layer:sensors | p:205 | doc_type:owners_manual
 мягкую
 ткань
 или
@@ -29740,33 +27153,26 @@ OMX65-5550
 191
 
 ### В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
-`jetour_dashing_ru_d65e4775` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:206 | doc_type:owners_manual
 6-1. Система ЭРА-ГЛОНАСС
 Система ЭРА-ГЛОНАСС
 
-### Знак аварийной остановки
-`jetour_dashing_ru_e2520ce3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:206 | doc_type:owners_manual
 
 ### Запасные
-`jetour_dashing_ru_75aae90f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:206 | doc_type:owners_manual
 6-2. Аварийная
 оостановка
 автомобиля
 
 ### Операция по замене
-`jetour_dashing_ru_cfd0023e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:206 | doc_type:owners_manual
 Если температура
 охлаждающей
 жидкости двигателя
 
 ### Если батарея
-`jetour_dashing_ru_e4c3b923` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:206 | doc_type:owners_manual
 Если ваш автомобиль
 не может нормально
 6-3. Буксировка
 
 ### 6. В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
-`jetour_dashing_ru_e4ee0853` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:207 | doc_type:owners_manual
 6-1.  Система ЭРА-ГЛОНАСС
 Система ЭРА-ГЛОНАССС
 Российская государственная система экстренного реагирования при авариях – это
@@ -29807,7 +27213,6 @@ OMX65-5550
 ■Режим тестирования устройства
 
 ### Режим тестирования предназначен для проверки функционирования автомобильной
-`jetour_dashing_ru_9c59be46` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:207 | doc_type:owners_manual
 телекоммуникационной
 системы
 оператором
@@ -29816,7 +27221,6 @@ OMX65-5550
 –
 
 ### ГЛОНАССе.
-`jetour_dashing_ru_4212f2ef` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:207 | doc_type:owners_manual
 Для
 тестирования устройства рекомендуем обратиться к дилеру Jetour. При желании вы
 можете самостоятельно провести тестирование. Для этого необходимо:
@@ -29824,7 +27228,6 @@ OMX65-5550
 2 вариант: нажать кнопку «SOSе пять раз подряд
 
 ### В режиме тестирования индикатор состояния блока Интерфейса пользователя будет
-`jetour_dashing_ru_602b0bd6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:207 | doc_type:owners_manual
 поочередно мигать красным – желтым – зеленым цветом. Для выполнения тестирования
 требуется
 следовать
@@ -29841,7 +27244,6 @@ OMX65-5550
 192
 
 ### Нажмите
-`jetour_dashing_ru_cc043537` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:208 | doc_type:owners_manual
 переключатель
 аварийной
 сигнализации, одновременно замигают
@@ -29858,7 +27260,6 @@ OMX65-5550
 погаснут.
 
 ### В
-`jetour_dashing_ru_25987811` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:208 | doc_type:owners_manual
 случае
 поломки
 автомобиля
@@ -29875,7 +27276,6 @@ OMX65-5550
 вторичной аварии.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_2896faf9` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:208 | doc_type:owners_manual
 • Аварийная сигнализация может продолжать работать, если питание автомобиля
 переведено в режим OFF.
 • Аварийная   сигнализация   автоматически   активируется   при   срабатывании
@@ -29883,7 +27283,6 @@ OMX65-5550
 ■ Индикаторы состояния системы
 
 ### Для визуального контроля работоспособности системы используется индикатор
-`jetour_dashing_ru_f0340e4d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:208 | doc_type:owners_manual
 состояния блока интерфейса пользователя. При подаче питания на изделие, индикатор
 состояния горит красным цветом в течение пяти секунд, если изделие исправно и
 прошло самодиагностику, индикатор состояния гаснет и изделие переходит в рабочий
@@ -29892,7 +27291,6 @@ OMX65-5550
 ■ Меры безопасности
 
 ### Изделие работает от бортовой сети транспортного средства с номинальным
-`jetour_dashing_ru_286c2849` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:208 | doc_type:owners_manual
 напряжением 12 или 24В. При отключении от источника питания изделие работает за
 счёт встроенной резервной аккумуляторной батареи, срок службы которой составляет 3
 года. Замена резервной батареи производится только у авторизованных дилеров Jetour. В
@@ -29901,7 +27299,6 @@ OMX65-5550
 193
 
 ### Функция стробирования аварийного торможения
-`jetour_dashing_ru_62b6a898` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:209 | doc_type:owners_manual
 Включите стробирование аварийного торможения на мультимедийном дисплее.
 Аварийное торможение будет применено, когда скорость автомобиля превысит 50
 км/ч, а аварийная лампа будет мигать более 3 раза, чтобы напомнить транспортным
@@ -29918,7 +27315,6 @@ OMX65-5550
 комбинации приборов перестанут мигать.
 
 ### Автомобиль
-`jetour_dashing_ru_56e17d73` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:209 | doc_type:owners_manual
 оборудован
 светоотражающим
 жилетом.
@@ -29927,7 +27323,6 @@ OMX65-5550
 рекомендуется помещать в бардачке.
 
 ### В
-`jetour_dashing_ru_6c5fb4f2` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:209 | doc_type:owners_manual
 случае
 поломки
 автомобиля
@@ -29945,7 +27340,6 @@ OMX65-5550
 повторных аварий.
 
 ### Знак аварийной остановки
-`jetour_dashing_ru_c95b7561` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:209 | doc_type:owners_manual
 Знак аварийной остановки находится под ковриком багажного отделения.
 В случае поломки автомобиля или дорожно-транспортного происшествия и т. д. ,
 светоотражающие
@@ -29956,7 +27350,6 @@ OMX65-5550
 предупреждать другие автомобили, чтобы избежать вторичных аварий.
 
 ### На обычной дороге поместите знак
-`jetour_dashing_ru_e347d9b8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:209 | doc_type:owners_manual
 аварийной остановки на расстоянии
 более 50 м позади автомобиля.
 На
@@ -29967,7 +27360,6 @@ OMX65-5550
 более 150 м позади автомобиля.
 
 ### Во время дождя или во время руления
-`jetour_dashing_ru_e74ade92` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:209 | doc_type:owners_manual
 поместите знак аварийной остановки на
 расстоянии
 более
@@ -29978,7 +27370,6 @@ OMX65-5550
 194
 
 ### Запасные инструменты
-`jetour_dashing_ru_b37702d1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:210 | doc_type:owners_manual
 1
 2
 3
@@ -29987,7 +27378,6 @@ OMX65-5550
 ковриком багажного отделения.
 
 ### OMX65-7210
-`jetour_dashing_ru_9cc5bebf` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:210 | doc_type:owners_manual
 6-2. Аварийная остановка автомобиля
 Операция по замене шин
 Если шина спустилась во время движения, постепенно снизьте скорость,
@@ -29995,7 +27385,6 @@ OMX65-5550
 автомобиль в безопасном месте вдали от проезжей части.
 
 ### 1. Подготовка перед заменой спущенной шины.
-`jetour_dashing_ru_3da0ac35` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:210 | doc_type:owners_manual
 Шаг 1: Остановить автомобиль на твердой ровной поверхности;
 Шаг 2: Нажмите стояночный тормоз и переведите рычаг переключения передач в
 положение P;
@@ -30006,26 +27395,21 @@ OMX65-5550
 на расстоянии 50 - 150 м позади автомобиля (в зависимости от фактического
 состояния).
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_a6ba74c7` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:210 | doc_type:owners_manual
-Не  продолжайте  движение  со  спущенной  шиной.  Езда  даже  на  короткое
-расстояние может привести к повреждению шины, которая не подлежит ремонту.
+> ⚠️ **Внимание:** Не  продолжайте  движение  со  спущенной  шиной.  Езда  даже  на  короткое
+> расстояние может привести к повреждению шины, которая не подлежит ремонту.
 
 ### 2. Выньте запасное колесо.
-`jetour_dashing_ru_bd0f5b8f` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:210 | doc_type:owners_manual
 Шаг 1: Откройте дверь багажного отделения и поднимите коврик багажника;
 Шаг 2: Поверните колпачок против часовой стрелки, чтобы снять его, и выньте
 запасную шину.
 
 ### 3. Снимите спущенную шину.
-`jetour_dashing_ru_59a7256f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:210 | doc_type:owners_manual
 195
 6. В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
 Поврежденное
 колесо
 
 ### Положение
-`jetour_dashing_ru_38d0c855` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 противооткатного
 упора
 Переднее левое
@@ -30034,7 +27418,6 @@ OMX65-5550
 правого колеса
 
 ### Переднее правое
-`jetour_dashing_ru_d5b57f2d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 колесо
 Позади заднего
 левого колеса
@@ -30042,7 +27425,6 @@ OMX65-5550
 колесо
 
 ### Позади переднего
-`jetour_dashing_ru_c4d03ee3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 правого колеса
 Заднее правое
 колесо
@@ -30050,7 +27432,6 @@ OMX65-5550
 левого колеса
 
 ### В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
-`jetour_dashing_ru_bf8b7937` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 Шаг 1: Поместите блок под шину по
 диагонали напротив спущенной шины,
 чтобы
@@ -30059,7 +27440,6 @@ OMX65-5550
 автомобиля.
 
 ### OMX65-7220
-`jetour_dashing_ru_df2c5664` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 Шаг
 2:
 Подсоедините
@@ -30072,13 +27452,10 @@ OMX65-5550
 ослабьте каждый болт спущенной шины
 примерно на пол-оборота.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_04eeb48e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
-При откручивании колесных болтов с помощью гаечного ключа будьте осторожны,
-чтобы не уронить их, так как их можно легко повредить.
+> ⚠️ **Внимание:** При откручивании колесных болтов с помощью гаечного ключа будьте осторожны,
+> чтобы не уронить их, так как их можно легко повредить.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_1af0d8ff` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 Не выкручивайте болты полностью. В противном случае колесо может упасть изза давления автомобиля, что приведет к травме.
 Шаг 3: Установите домкрат на твердую
 и
@@ -30094,14 +27471,12 @@ OMX65-5550
 домкрата.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_65bfad43` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:211 | doc_type:owners_manual
 • Номинальная нагрузка домкрата: 1 000 кг.
 • Поддомкратьте автомобиль на надлежащую высоту, на которой можно будет
 заменить шину.
 196
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_1c959771` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
 Никогда   не   подставляйте   какую-либо   часть   тела   под   автомобиль,   когда
 автомобиль поднят домкратом, во избежание травм.
 Шаг 4: Когда выемка домкрата коснется
@@ -30117,7 +27492,6 @@ OMX65-5550
 стрелке, чтобы поднять автомобиль.
 
 ### OMX65-7250
-`jetour_dashing_ru_b18f1363` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
 Шаг
 5:
 Снимите
@@ -30130,13 +27504,10 @@ OMX65-5550
 стрелки с помощью ключа для колесных
 болтов и снимите спущенную шину.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_757b8287` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
-Положите  спущенную  шину  на  землю  ободом  вверх,  чтобы  не  поцарапать
-поверхность обода.
+> ⚠️ **Внимание:** Положите  спущенную  шину  на  землю  ободом  вверх,  чтобы  не  поцарапать
+> поверхность обода.
 
 ### 4. Установите запасное колесо.
-`jetour_dashing_ru_f28d5ed2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:212 | doc_type:owners_manual
 Шаг 1: Снимите все приспособления с
 монтажной поверхности. Убедитесь, что
 ступица колеса хорошо прилегает к
@@ -30147,14 +27518,12 @@ OMX65-5550
 запасное колесо.
 
 ### Динамическая электронная система стабилизации кузова автомобиля подает
-`jetour_dashing_ru_28b9415d` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:212 | doc_type:owners_manual
 аварийный сигнал после замены запасного колеса не полного размера. После
 использования шины нормального размера и проезда 1 км она автоматически
 вернется в нормальное состояние.
 197
 
 ### В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
-`jetour_dashing_ru_5fb42f84` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:213 | doc_type:owners_manual
 Шаг 2: При установке колесных болтов
 ввинчивайте их во все колесные болты
 по часовой стрелке вручную. Затем
@@ -30166,19 +27535,16 @@ OMX65-5550
 болты с помощью ключа для колесных
 болтов.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_2a611d3c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:213 | doc_type:owners_manual
-Не наносите масло или смазку на колесные болты.
-Шаг 3: Убедитесь, что все люди вокруг
-автомобиля находятся в безопасной
-зоне, вставьте коромысло домкрата в
-домкрат, а ключ для колесных болтов в
-коромысло домкрата и поверните ключ
-для колесных болтов против часовой
-стрелки, чтобы опустить автомобиль.
+> ⚠️ **Внимание:** Не наносите масло или смазку на колесные болты.
+> Шаг 3: Убедитесь, что все люди вокруг
+> автомобиля находятся в безопасной
+> зоне, вставьте коромысло домкрата в
+> домкрат, а ключ для колесных болтов в
+> коромысло домкрата и поверните ключ
+> для колесных болтов против часовой
+> стрелки, чтобы опустить автомобиль.
 
 ### OMX65-7290
-`jetour_dashing_ru_c95c3d78` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:213 | doc_type:owners_manual
 3
 5
 1
@@ -30216,7 +27582,6 @@ OMX65-7300
 198
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_62a07ef5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:214 | doc_type:owners_manual
 • Двигайтесь с указанной скоростью 60 км/ч или менее с  неполноразмерной
 запасной шиной, оно не рассчитано на высокую скорость. Несоблюдение этой
 меры предосторожности может привести к несчастному случаю, повлекшему за
@@ -30249,7 +27614,6 @@ OMX65-7300
 переключения передач, которые вызывают резкое торможение двигателем.
 
 ### Если температура охлаждающей жидкости двигателя высокая
-`jetour_dashing_ru_acad3b68` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:214 | doc_type:owners_manual
 Если во время движения температура охлаждающей жидкости двигателя высока, а
 указатель  температуры  охлаждающей  жидкости  приближается  к  зоне  H  или
 загорается  красный  индикатор  «
@@ -30257,7 +27621,6 @@ OMX65-7300
 автомобиль в безопасном месте вдали от проезжей части.
 
 ### OMX65-7080
-`jetour_dashing_ru_476d13b6` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:214 | doc_type:owners_manual
 Шаг
 1:
 Остановить
@@ -30283,33 +27646,28 @@ OMX65-7300
 199
 
 ### В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
-`jetour_dashing_ru_52c5ae5c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:215 | doc_type:owners_manual
 Шаг 6: Проверьте уровень охлаждающей жидкости, если причина не может быть
 определена, обратитесь в авторизованный сервисный центр Jetour для проверки и
 ремонта.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_ca0071f2` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:215 | doc_type:owners_manual
-• Если
-двигатель
-часто
-перегревается,
-немедленно
-обратитесь
-на
-авторизованную сервисную станцию Jetour для проверки и ремонта.
-• Если уровень охлаждающей жидкости низкий, можно временно использовать
-чистую воду, обратитесь на авторизованную станцию обслуживания Jetour для
-замены охлаждающей жидкости как можно скорее.
+> ⚠️ **Внимание:** • Если
+> двигатель
+> часто
+> перегревается,
+> немедленно
+> обратитесь
+> на
+> авторизованную сервисную станцию Jetour для проверки и ремонта.
+> • Если уровень охлаждающей жидкости низкий, можно временно использовать
+> чистую воду, обратитесь на авторизованную станцию обслуживания Jetour для
+> замены охлаждающей жидкости как можно скорее.
 
 ### Если батарея разряжена
-`jetour_dashing_ru_76ce6203` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:215 | doc_type:owners_manual
 Симптом, когда аккумулятор разряжен
 1. Стартер издает «щелчкие и не работает. Даже если он работает, сила слабая, и
 двигатель не может быть запущен.
 
 ### Быстрый старт
-`jetour_dashing_ru_9926ecc2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:215 | doc_type:owners_manual
 2
 1
 OMX65-7095
@@ -30317,7 +27675,6 @@ OMX65-7095
 и подключите соединительные кабели;
 
 ### Подсоедините один конец
-`jetour_dashing_ru_a61a270a` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:215 | doc_type:owners_manual
 положительного
 кабеля
 к
@@ -30331,7 +27688,6 @@ OMX65-7095
 аккумуляторной  батареи  аварийноспасательного автомобиля.
 
 ### Подсоедините один конец
-`jetour_dashing_ru_a61a270a` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:215 | doc_type:owners_manual
 отрицательного
 кабеля
 к
@@ -30355,27 +27711,24 @@ OMX65-7095
 кабель, а затем положительный кабель).
 200
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_07a014a9` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:216 | doc_type:owners_manual
-• Если аккумулятор часто разряжается, пожалуйста, как можно скорее обратитесь
-на авторизованную станцию технического обслуживания Jetour для проверки и
-ремонта.
-• Отрицательная клемма аккумулятора на аварийно-спасательном транспортном
-средстве не должна подключаться непосредственно к отрицательной клемме
-аккумулятора на разряженном транспортном средстве.
-• Не запускайте двигатель от внешнего источника, если вы не уверены, что
-напряжение аккумуляторной батареи для запуска от внешнего источника
-составляет 12 - 13 В.
-• При подключении и удалении соединительных кабелей следите за тем, чтобы
-они не запутались в вентиляторе, ремне и т. д.
-• Убедитесь, что соединительные кабели правильно подключены и соблюдайте
-определенное расстояние между клеммами, чтобы соединительные кабели не
-соприкасались друг с другом или с другими металлическими частями
-автомобиля.
-• Не запускайте автомобиль, толкая или тяня его.
+> ⚠️ **Внимание:** • Если аккумулятор часто разряжается, пожалуйста, как можно скорее обратитесь
+> на авторизованную станцию технического обслуживания Jetour для проверки и
+> ремонта.
+> • Отрицательная клемма аккумулятора на аварийно-спасательном транспортном
+> средстве не должна подключаться непосредственно к отрицательной клемме
+> аккумулятора на разряженном транспортном средстве.
+> • Не запускайте двигатель от внешнего источника, если вы не уверены, что
+> напряжение аккумуляторной батареи для запуска от внешнего источника
+> составляет 12 - 13 В.
+> • При подключении и удалении соединительных кабелей следите за тем, чтобы
+> они не запутались в вентиляторе, ремне и т. д.
+> • Убедитесь, что соединительные кабели правильно подключены и соблюдайте
+> определенное расстояние между клеммами, чтобы соединительные кабели не
+> соприкасались друг с другом или с другими металлическими частями
+> автомобиля.
+> • Не запускайте автомобиль, толкая или тяня его.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_bb3a32a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:216 | doc_type:owners_manual
 • Следует использовать указанные соединительные кабели.
 • Не курите, не пользуйтесь спичками, зажигалками или открытым огнем вблизи
 аккумулятора.
@@ -30384,7 +27737,6 @@ OMX65-7095
 специалисту по ремонту или на авторизованную станцию обслуживания Jetour.
 
 ### OMX70-7096
-`jetour_dashing_ru_ed3509cb` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:216 | doc_type:owners_manual
 Шаг 1: Включите питание автомобиля в
 режим OFF;
 Шаг 2: Откройте капот;
@@ -30392,7 +27744,6 @@ OMX65-7095
 3:
 
 ### Отсоедините
-`jetour_dashing_ru_2024adef` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:216 | doc_type:owners_manual
 кабель
 отрицательной
 (-)
@@ -30401,7 +27752,6 @@ OMX65-7095
 Шаг 4:
 
 ### Снимите положительную
-`jetour_dashing_ru_2891ddb7` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:216 | doc_type:owners_manual
 (+)
 клемму аккумуляторной батареи;
 Шаг 5: Снимите аккумулятор;
@@ -30412,20 +27762,16 @@ OMX65-7095
 обнаружения Jetour для замены батареи.
 
 ### ЗАЩИТА ОКРУЖАЮЩЕЙ СРЕДЫ
-`jetour_dashing_ru_bab70ab0` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:216 | doc_type:owners_manual
 Аккумулятор содержит кислоту, которая является ядовитой и вызывает коррозию.
 Обращайтесь с ним в соответствии с местными нормами и положениями,
 касающимися защиты окружающей среды.
 201
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_c0bb227d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
-При снятии батареи соблюдайте осторожность, чтобы металлический инструмент
-не коснулся обеих клемм батареи или положительной (+) клеммы батареи и
-корпуса одновременно.
+> ⚠️ **Внимание:** При снятии батареи соблюдайте осторожность, чтобы металлический инструмент
+> не коснулся обеих клемм батареи или положительной (+) клеммы батареи и
+> корпуса одновременно.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_58abfcaf` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:217 | doc_type:owners_manual
 • Не оставляйте батарею в недоступном для детей месте.
 • Всегда надевайте перчатки и защитные очки во время работы, так как батарея
 содержит кислоту, которая является ядовитой и вызывает коррозию. Не
@@ -30436,7 +27782,6 @@ OMX65-7095
 медицинской помощью.
 
 ### Если ваш автомобиль не может нормально завестись
-`jetour_dashing_ru_94c2ec52` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:217 | doc_type:owners_manual
 Если ваш автомобиль не может нормально завестись, сначала убедитесь, что вы
 выполнили правильные процедуры запуска, и проверьте, достаточно ли топлива.
 ■Частота вращения якоря стартера слишком низкая, но автомобиль не может
@@ -30464,17 +27809,14 @@ OMX65-7095
 центр
 обслуживания Jetour для проверки и ремонта.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_c0bb227d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:217 | doc_type:owners_manual
-• Во избежание повреждения стартера время запуска не должно превышать 15
-секунд каждый раз.
-• Если автомобиль с трудом заводится или  часто глохнет, как  можно скорее
-обратитесь на авторизованную станцию обслуживания Jetour для проверки и
-ремонта.
-202
+> ⚠️ **Внимание:** • Во избежание повреждения стартера время запуска не должно превышать 15
+> секунд каждый раз.
+> • Если автомобиль с трудом заводится или  часто глохнет, как  можно скорее
+> обратитесь на авторизованную станцию обслуживания Jetour для проверки и
+> ремонта.
+> 202
 
 ### 6. В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
-`jetour_dashing_ru_7b42f7c3` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:218 | doc_type:owners_manual
 6-3. Буксировка
 Буксировка автомобиля
 Буксировка должна соответствовать местным законам о буксировке.
@@ -30482,7 +27824,6 @@ OMX65-7095
 переключения передач в положение N.
 
 ### Для переднеприводных
-`jetour_dashing_ru_a35f9d64` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:218 | doc_type:owners_manual
 автомобилей: Буксируйте грузовик с
 1
 2
@@ -30494,7 +27835,6 @@ OMX65-7095
 4
 
 ### OMX50-7100
-`jetour_dashing_ru_1e6d1e96` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:218 | doc_type:owners_manual
 автомобилей:
 При
 буксировке
@@ -30510,17 +27850,14 @@ OMX65-7095
 Для переднеприводных, заднеприводных и полноприводных автомобилей: При
 буксировке бортовым грузовиком надежно закрепите автомобиль.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_ca0834fe` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:218 | doc_type:owners_manual
-• Для полноприводных автомобилей рекомендуется использовать бортовой
-грузовик.
-• Используйте бортовой грузовик, если колеса или оси автомобиля повреждены.
-• Убедитесь, что между неподнятыми колесами и землей имеется достаточный
-зазор. В противном случае при буксировке будут повреждены бампер и ходовая
-часть буксируемого автомобиля.
+> ⚠️ **Внимание:** • Для полноприводных автомобилей рекомендуется использовать бортовой
+> грузовик.
+> • Используйте бортовой грузовик, если колеса или оси автомобиля повреждены.
+> • Убедитесь, что между неподнятыми колесами и землей имеется достаточный
+> зазор. В противном случае при буксировке будут повреждены бампер и ходовая
+> часть буксируемого автомобиля.
 
 ### Неправильные методы буксировки
-`jetour_dashing_ru_37c0828e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:218 | doc_type:owners_manual
 1
 2
 3
@@ -30529,7 +27866,6 @@ OMX50-7101
 стропа спереди автомобиля.
 
 ### Буксировка с помощью строповой
-`jetour_dashing_ru_c8c3ac8f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:218 | doc_type:owners_manual
 подвески
 грузовика
 сзади
@@ -30537,20 +27873,17 @@ OMX50-7101
 находятся на земле.
 
 ### Буксировка с помощью подвески
-`jetour_dashing_ru_a5116f16` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:218 | doc_type:owners_manual
 грузовика с подъемным механизмом
 сзади автомобиля, когда передние
 колеса находятся на земле.
 
 ### Не производите буксировку строповым грузовиком во избежание повреждения
-`jetour_dashing_ru_c4104ff9` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:218 | doc_type:owners_manual
 кузова.
 203
 6. В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
 В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
 
 ### Аварийная буксировка автомобиля
-`jetour_dashing_ru_d9f0c9d2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 Если в экстренной ситуации эвакуатор недоступен, ваш автомобиль можно
 временно отбуксировать с помощью буксирного троса или цепи, прикрепленной к
 проушине для аварийной буксировки. Это следует делать только на дороге с
@@ -30559,38 +27892,35 @@ OMX50-7101
 колесом и педалью тормоза, а колеса, трансмиссия, ось, система рулевого
 управления и тормозная система автомобиля должны быть в хорошем состоянии.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_6ea131e6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
-• Не выполняйте аварийную буксировку в течение длительного времени.
-• Никогда
-не
-буксируйте
-автомобиль
-тяжелее
-этого
-автомобиля,
-иначе
-автомобиль может быть поврежден.
-• Закрепите буксировочный трос, цепь или рычаг за буксировочную проушину
-автомобиля.
-• Оба водителя должны быть знакомы с процессом буксировки, иначе они не
-смогут выполнять буксировку.
-• Буксируйте автомобиль как можно прямо вперед, не буксируйте автомобиль
-сбоку, чтобы не повредить автомобиль.
-• Если двигатель не запущен, вспомогательная система не будет работать,
-поэтому торможение и рулевое управление будут более сложными, чем обычно.
-Управляйте осторожно.
-• Для буксировки моделей A/T Chery Automobile Co., Ltd настоятельно
-рекомендует вам обратиться за помощью к профессиональному специалисту по
-ремонту или на авторизованную станцию обслуживания Jetour.
-• Если буксируемое транспортное средство по-прежнему не может двигаться, то
-не следует продолжать принудительную буксировку во избежание вторичных
-повреждений транспортного средства. Chery Automobile Co., Ltd. настоятельно
-рекомендует обратиться за помощью к профессиональному специалисту по
-ремонту или в авторизованный сервисный центр Jetour.
+> ⚠️ **Внимание:** • Не выполняйте аварийную буксировку в течение длительного времени.
+> • Никогда
+> не
+> буксируйте
+> автомобиль
+> тяжелее
+> этого
+> автомобиля,
+> иначе
+> автомобиль может быть поврежден.
+> • Закрепите буксировочный трос, цепь или рычаг за буксировочную проушину
+> автомобиля.
+> • Оба водителя должны быть знакомы с процессом буксировки, иначе они не
+> смогут выполнять буксировку.
+> • Буксируйте автомобиль как можно прямо вперед, не буксируйте автомобиль
+> сбоку, чтобы не повредить автомобиль.
+> • Если двигатель не запущен, вспомогательная система не будет работать,
+> поэтому торможение и рулевое управление будут более сложными, чем обычно.
+> Управляйте осторожно.
+> • Для буксировки моделей A/T Chery Automobile Co., Ltd настоятельно
+> рекомендует вам обратиться за помощью к профессиональному специалисту по
+> ремонту или на авторизованную станцию обслуживания Jetour.
+> • Если буксируемое транспортное средство по-прежнему не может двигаться, то
+> не следует продолжать принудительную буксировку во избежание вторичных
+> повреждений транспортного средства. Chery Automobile Co., Ltd. настоятельно
+> рекомендует обратиться за помощью к профессиональному специалисту по
+> ремонту или в авторизованный сервисный центр Jetour.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_78dc4e66` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:219 | doc_type:owners_manual
 • Во избежание нанесения телесных повреждений другим лицам, помимо
 водителя, следует держаться подальше от транспортного средства во время
 буксировки.
@@ -30601,7 +27931,6 @@ OMX50-7101
 204
 
 ### OMX65-7111
-`jetour_dashing_ru_918ca7a1` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:220 | doc_type:owners_manual
 Шаг 1: Выньте буксировочный крюк из
 багажника.
 Шаг 2: С помощью отвертки, кончик
@@ -30651,17 +27980,14 @@ OMX50-7101
 для колесных болтов или аналогичного
 твердосплавного стержня.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_29f844e1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
-• Используйте только указанную буксировочную проушину. В противном случае
-автомобиль может быть поврежден.
-• Во  время  буксировки  ведите  автомобиль  медленно  и  плавно.  Удар  из-за
-чрезмерного натяжения может повредить автомобиль.
-• Буксирный  трос  или  буксирная  штанга  могут  быть  установлены  только  при
-установленной буксировочной проушине.
+> ⚠️ **Внимание:** • Используйте только указанную буксировочную проушину. В противном случае
+> автомобиль может быть поврежден.
+> • Во  время  буксировки  ведите  автомобиль  медленно  и  плавно.  Удар  из-за
+> чрезмерного натяжения может повредить автомобиль.
+> • Буксирный  трос  или  буксирная  штанга  могут  быть  установлены  только  при
+> установленной буксировочной проушине.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_006a5bf8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:220 | doc_type:owners_manual
 • Не прикрепляйте буксирный трос или цепь к элементу подвески во избежание
 повреждения автомобиля.
 • Убедитесь, что буксировочная проушина установлена надежно. В противном
@@ -30676,7 +28002,6 @@ OMX50-7101
 205
 
 ### В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
-`jetour_dashing_ru_c3f48ba7` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:221 | doc_type:owners_manual
 EF47     Electric Shift
 Actuator
 20A        (GBC)
@@ -30684,17 +28009,14 @@ EF46  Right Domain
 EF55  Brake SW&Active Sound
 
 ### 10A     DMTL&FTIV
-`jetour_dashing_ru_2254a3bd` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 25A       Controller
 EF54  Injection Nozzle
 10A       INJECTOR
 
 ### Taillight
-`jetour_dashing_ru_930058fc` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:221 | doc_type:owners_manual
 20A    Taillight Controller     EF53  Water Pump/Stepless Fan
 
 ### 5A
-`jetour_dashing_ru_4fdfce30` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:221 | doc_type:owners_manual
 EF52  Engine Sensor
 15A  ENGINE SENSOR
 EF43
@@ -30702,7 +28024,6 @@ EF43
 WIPER MTR
 
 ### Variable Oil Pump
-`jetour_dashing_ru_235104cc` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:221 | doc_type:owners_manual
 10A  Pressure Discharge Control
 Val e
 EF42
@@ -30711,14 +28032,12 @@ Inverter
 EF50       Front and Rear
 
 ### EF41     ECU&DCT
-`jetour_dashing_ru_46cba475` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 10A   &A/C Controller     EF49       IGN Coil
 15A    IGNITION COIL
 EF40  Body Domain
 (Column Lock, Washer,
 
 ### 15A
-`jetour_dashing_ru_f2911622` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 Fuel Tank Cap)
 ECU
 15A
@@ -30726,14 +28045,12 @@ EF13  Low Beam    EF15     Stepless
 Fan&Water
 
 ### Light RH
-`jetour_dashing_ru_4914a5dc` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:221 | doc_type:owners_manual
 Pump 3
 10A  RIGHT LOW BEAM   10A   PTC&EXV&EAC
 EF12
 EF14  Low Beam
 
 ### 10A   LEFT LOW BEAM
-`jetour_dashing_ru_c34a4c3f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 Fan
 6-4. Предохранители
 Блок предохранителей
@@ -30743,7 +28060,6 @@ Fan
 образом.
 
 ### Блок предохранителя в моторном отсеке
-`jetour_dashing_ru_50460508` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:221 | doc_type:owners_manual
 Шаг 1: Включите питание автомобиля в
 режим OFF;
 Шаг 2: Отсоедините отрицательный
@@ -30756,7 +28072,6 @@ Fan
 предохранитель.
 
 ### FB08 100A
-`jetour_dashing_ru_92cc9c81` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 Meter 1
 IP-Box 01
 FB07 80A
@@ -30767,7 +28082,6 @@ FB05 150A
 Generator/CDU
 
 ### ERY08
-`jetour_dashing_ru_7a11779e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 Horn
 HORN
 EF16  50A
@@ -30778,7 +28092,6 @@ ERY01
 HCU Main Relay
 
 ### EF58     HCU
-`jetour_dashing_ru_0a9a9447` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:221 | doc_type:owners_manual
 &Water
 20A    Valve 1&2&3
 EF03  ESP+EPB
@@ -30786,7 +28099,6 @@ EF03  ESP+EPB
 EF04     Brake SW
 
 ### EF18
-`jetour_dashing_ru_83c733ef` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 EF27  Vacuum
 Pump
 15A /MCU&BMS&HCU
@@ -30794,7 +28106,6 @@ EF28     Fuel
 Pump
 
 ### 15A      FUEL PUMP
-`jetour_dashing_ru_1128dad3` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:221 | doc_type:owners_manual
 EF29     Brake SW
 5A      BRAKE SW
 ERY14
@@ -30802,38 +28113,32 @@ ERY15
 ERY16
 
 ### MAIN RLY
-`jetour_dashing_ru_845420fa` | dashing | pdf_manual | tier:2 | lang:ru | layer:hvac | p:221 | doc_type:owners_manual
 10A  &A/C Controller
 EF06     Crankcase
 Ventilation
 7.5A       Heater
 
 ### 10A A/C COMPRESSOR
-`jetour_dashing_ru_b24dfdde` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 EF31  Body Domain
 15A  (System Power)
 VACUUM PUMP
 ERY03
 
 ### ERY11
-`jetour_dashing_ru_44f1e1dd` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 PUMP/WCBS     EF32  Body Domain
 25A  (Seat Heating)
 
 ### EF21      30A
-`jetour_dashing_ru_7be8415c` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:221 | doc_type:owners_manual
 EF36     Horn
 ERY17
 High Beam Light
 EF08      Electric
 
 ### Start Motor
-`jetour_dashing_ru_1af02588` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 EF33  Body Domain  15A     HORN
 (Door Lock, Rear View Mirror,
 
 ### EF09 HCU&MCU&BMS
-`jetour_dashing_ru_63e0c3a3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 &CDU&Pedestrian
 7.5A       Reminder
 START MOTOR
@@ -30841,7 +28146,6 @@ STARTER MOTOR       20A     Luggage
 Compartment)
 
 ### 5A
-`jetour_dashing_ru_4fdfce30` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:221 | doc_type:owners_manual
 EF38   Steering
 Wheel
 FUEL PUMP
@@ -30849,7 +28153,6 @@ ERY18
 A/C Compressor
 
 ### Low Beam Light
-`jetour_dashing_ru_e1ee132a` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:221 | doc_type:owners_manual
 EF10     Right High
 Beam Light
 10A RIGHT HIGH BEAM
@@ -30859,7 +28162,6 @@ Jam Protection 1   EF35 Body Domain    15A    Heating    A/C COMPRESSOR
 25A        (Light 1)
 
 ### EF23   30A
-`jetour_dashing_ru_9edec1b9` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:221 | doc_type:owners_manual
 EF39    Start
 5A   Feedback
 ERY05
@@ -30868,7 +28170,6 @@ Beam Light
 Jam Protection 2
 
 ### EF56 25A
-`jetour_dashing_ru_82a8a346` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:221 | doc_type:owners_manual
 Water Pump 1&2
 ERY06
 Oil Cooler Fan
@@ -30877,7 +28178,6 @@ EF25
 ERY19
 
 ### OMX65-7135
-`jetour_dashing_ru_f0ad1a4d` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:221 | doc_type:owners_manual
 206
 6. В СЛУЧАЕ ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ
 Блок предохранителей панели приборов
@@ -30889,7 +28189,6 @@ ERY19
 3:
 
 ### Снимите
-`jetour_dashing_ru_e2ca7762` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 нижний
 левый
 протектор приборной панели, чтобы
@@ -30899,7 +28198,6 @@ ERY19
 предохранитель.
 
 ### USB
-`jetour_dashing_ru_8d492d5b` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:222 | doc_type:owners_manual
 RF04   Hidden Door
 Handle
 RF06 MEMORY FUSE
@@ -30907,7 +28205,6 @@ RF06 MEMORY FUSE
 RF36
 
 ### RF12 MEMORY FUSE&IPK
-`jetour_dashing_ru_86188704` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 220V Inverter
 7.5A
 7.5A  &NAVIGATION&SAS
@@ -30915,14 +28212,12 @@ AR/DVR&ETC
 RF37  &Inside Rear View Mirror
 
 ### /(CVT25)&ACM
-`jetour_dashing_ru_c3a2e697` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 RF01   Rear Wiper
 RF07   AR/DVR&ETC
 10A
 &ELECTRONIC
 
 ### 15A
-`jetour_dashing_ru_c0e7ccbf` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 Relay
 5A  &APA/AVM&ACU
 RF38
@@ -30930,20 +28225,17 @@ Reserved
 RF30    FRONT POWER
 
 ### RF24
-`jetour_dashing_ru_21790677` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:222 | doc_type:owners_manual
 4Door TFT Display
 ADASController
 RF14  Ambient Light
 RF10 Steering Wheel
 
 ### 7.5A
-`jetour_dashing_ru_b8efc722` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:222 | doc_type:owners_manual
 15A   &Wireless Charging
 10A   TBOX&GVW&CEM
 &OBD&FCM&Fragrance
 
 ### 10A
-`jetour_dashing_ru_3147fb72` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:222 | doc_type:owners_manual
 Fixed
 Combination
 Light
@@ -30955,20 +28247,17 @@ RF31
 Reserved
 
 ### /CVT25)&EPB SW
-`jetour_dashing_ru_b04b9980` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:222 | doc_type:owners_manual
 10A    &Rain Sensor&
 Front Dome Light
 RF35
 Amplifier&AVM
 
 ### RF16
-`jetour_dashing_ru_8a079b22` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 BSD&Exterior Speaker
 &Slow filling
 &VIU&FCM&SRR&TBOX
 
 ### RF39
-`jetour_dashing_ru_cf7922c2` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:222 | doc_type:owners_manual
 Seat
 RF08
 AQS
@@ -30981,14 +28270,12 @@ SUNROOF
 RF40 Steering Wheel   RF29
 
 ### RF09 HVAC&PM2.5
-`jetour_dashing_ru_3991067c` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 10A   F/R Box IGN
 20A
 RF05     Wireless
 7.5A &NAVIGATION
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_20546cfd` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:222 | doc_type:owners_manual
 • Проверьте
 предполагаемые
 предохранители
@@ -31005,16 +28292,13 @@ RF05     Wireless
 207
 
 ### B
-`jetour_dashing_ru_b0b7e8c5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 A  Хороший предохранитель.
 B  Перегоревший предохранитель.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_90545bb3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 Если предохранители перегорели, их необходимо заменить.
 
 ### OMX65-7131
-`jetour_dashing_ru_c995fdef` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 Шаг 1: Включите питание автомобиля в
 режим OFF;
 Шаг 2: Проверьте предохранители в
@@ -31024,7 +28308,6 @@ B  Перегоревший предохранитель.
 3:
 
 ### Вытащите
-`jetour_dashing_ru_90737a5d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:223 | doc_type:owners_manual
 предполагаемый
 предохранитель с помощью съемника
 предохранителей;
@@ -31050,7 +28333,6 @@ B  Перегоревший предохранитель.
 коробки предохранителей.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_90545bb3` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:223 | doc_type:owners_manual
 Если
 запасной
 предохранитель
@@ -31071,43 +28353,36 @@ B  Перегоревший предохранитель.
 ситуации.
 208
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_47014603` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:224 | doc_type:owners_manual
-• Не модифицируйте предохранитель или коробку предохранителей.
-• Устанавливайте только предохранитель с таким же номиналом силы тока, что и
-используемый. Никогда не заменяйте предохранитель проводом, даже в
-качестве временной замены. В противном случае это может привести к
-серьезному повреждению электроприборов или даже пожару.
-209
+> ⚠️ **Внимание:** • Не модифицируйте предохранитель или коробку предохранителей.
+> • Устанавливайте только предохранитель с таким же номиналом силы тока, что и
+> используемый. Никогда не заменяйте предохранитель проводом, даже в
+> качестве временной замены. В противном случае это может привести к
+> серьезному повреждению электроприборов или даже пожару.
+> 209
 
 ### ТЕХНИЧЕСКОГО ОБСЛУЖИВАНИЯ
-`jetour_dashing_ru_1af2adc6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 7-1. Ремонт и
 обслуживание
 Ремонт и
 
 ### Авторизованный
-`jetour_dashing_ru_98351249` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 сервисный центр
 Jetour предоставляет
 7-2. Обычное техническое
 обслуживание
 
 ### Проверка уровня
-`jetour_dashing_ru_9cc90126` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:225 | doc_type:owners_manual
 тормозной жидкости  ...... 213
 Проверка уровня
 охлаждающей
 
 ### Запись системы
-`jetour_dashing_ru_4015e98d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:225 | doc_type:owners_manual
 защиты безопасности  ... 230
 210
 7. ТЕХНИЧЕСКОГО ОБСЛУЖИВАНИЯ
 7-1. Ремонт и обслуживание
 
 ### Существует
-`jetour_dashing_ru_699383ff` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 два
 вида
 ремонта
@@ -31120,11 +28395,9 @@ Jetour предоставляет
 сервисной станцией Jetour.
 
 ### Для получения подробной информации о методах регулярного технического
-`jetour_dashing_ru_d2e1f3ac` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 обслуживания, осмотра и ремонта, пожалуйста, обратитесь к этому разделу;
 
 ### Регулярное техническое обслуживание может помочь вам вовремя обнаружить и
-`jetour_dashing_ru_c4d16107` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 устранить
 потенциальные
 опасности,
@@ -31140,7 +28413,6 @@ Jetour предоставляет
 Co., Ltd, иначе ваш автомобиль может быть поврежден.
 
 ### Оригинальные запасные части и материалы помогают продлить срок службы
-`jetour_dashing_ru_c1ec2b88` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 вашего транспортного средства. Обратите особое внимание: Chery Automobile Co.,
 Ltd. поставляет оригинальные запасные части на авторизованную станцию
 обслуживания Jetour, расположенную по всей стране. Для замены оригинальных
@@ -31151,7 +28423,6 @@ Ltd. Персонал профессионально и строго обуче�
 искренне предоставят вам наилучшее послепродажное обслуживание.
 
 ### ЗАЩИТА ОКРУЖАЮЩЕЙ СРЕДЫ
-`jetour_dashing_ru_db7de2e5` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:226 | doc_type:owners_manual
 Использованное моторное масло, тормозная жидкость, охлаждающая жидкость,
 жидкость
 для
@@ -31167,7 +28438,6 @@ Ltd. Персонал профессионально и строго обуче�
 7-2. Обычное техническое обслуживание
 
 ### Обязательно
-`jetour_dashing_ru_709ee321` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 следуйте
 правильным
 процедурам
@@ -31177,7 +28447,6 @@ Ltd. Персонал профессионально и строго обуче�
 самостоятельно.
 
 ### В этом разделе перечислены только простые инструкции по техническому
-`jetour_dashing_ru_68477a7b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:226 | doc_type:owners_manual
 обслуживанию, которые могут выполняться клиентом. Тем не менее, есть  еще
 много
 элементов,
@@ -31188,17 +28457,14 @@ Ltd. Персонал профессионально и строго обуче�
 специалистами со специальными инструментами.
 211
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_3cf5bf59` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:227 | doc_type:owners_manual
-• Прежде чем закрыть капот, проверьте, не остались ли инструменты или тряпки.
-• Не управляйте автомобилем со снятым воздушным фильтром, иначе возможен
-чрезмерный износ двигателя.
-• Правильно долейте жидкость до соответствующего уровня. При попадании
-брызг жидкости на кузов автомобиля немедленно смойте их влажной тряпкой,
-не допуская повреждения окрашенной поверхности.
+> ⚠️ **Внимание:** • Прежде чем закрыть капот, проверьте, не остались ли инструменты или тряпки.
+> • Не управляйте автомобилем со снятым воздушным фильтром, иначе возможен
+> чрезмерный износ двигателя.
+> • Правильно долейте жидкость до соответствующего уровня. При попадании
+> брызг жидкости на кузов автомобиля немедленно смойте их влажной тряпкой,
+> не допуская повреждения окрашенной поверхности.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_1fa79edf` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:227 | doc_type:owners_manual
 • Если двигатель очень горячий, не открывайте крышку бачка с охлаждающей
 жидкостью, чтобы не обжечься.
 • При работающем двигателе держите руки, одежду и инструменты подальше от
@@ -31207,7 +28473,6 @@ Ltd. Персонал профессионально и строго обуче�
 может вызвать искры или открытое пламя, которые могут привести к пожару.
 
 ### • В
-`jetour_dashing_ru_ecda0544` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:227 | doc_type:owners_manual
 электронной
 системе
 зажигания
@@ -31224,7 +28489,6 @@ Ltd. Персонал профессионально и строго обуче�
 может автоматически запуститься в любой момент.
 
 ### OMX65-8110
-`jetour_dashing_ru_467dc2b8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:227 | doc_type:owners_manual
 При
 выключенном
 и
@@ -31235,7 +28499,6 @@ Ltd. Персонал профессионально и строго обуче�
 1:
 
 ### Прогрейте
-`jetour_dashing_ru_72c137e3` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:227 | doc_type:owners_manual
 двигатель
 и
 остановите
@@ -31253,13 +28516,11 @@ Ltd. Персонал профессионально и строго обуче�
 212
 
 ### MIN
-`jetour_dashing_ru_bab79917` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:228 | doc_type:owners_manual
 Подложите тряпку под щуп, чтобы
 масло не попало на двигатель или кузов
 автомобиля.
 
 ### Не проверяйте уровень масла сразу
-`jetour_dashing_ru_17bb9413` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:228 | doc_type:owners_manual
 после
 прогрева
 двигателя,
@@ -31268,7 +28529,6 @@ Ltd. Персонал профессионально и строго обуче�
 нижнюю часть двигателя.
 
 ### OMX65-8112
-`jetour_dashing_ru_5f218267` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:228 | doc_type:owners_manual
 Шаг
 1:
 Поверните
@@ -31294,31 +28554,27 @@ Ltd. Персонал профессионально и строго обуче�
 по часовой стрелке, чтобы затянуть ее.
 
 ### Не выбрасывайте отработанное моторное масло и фильтр вместе с бытовыми
-`jetour_dashing_ru_694ca1e6` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:228 | doc_type:owners_manual
 отходами, в канализацию и не проливайте на землю. В противном случае это
 приведет к серьезному загрязнению окружающей среды. Пожалуйста,
 утилизируйте его в соответствии с местными правилами по защите окружающей
 среды.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_b64ab89e` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:228 | doc_type:owners_manual
-• Не переливайте масло, иначе это может привести к повреждению двигателя.
-• Только моторное масло, рекомендованное Chery Automobile Co., Ltd. может
-быть использован. В противном случае все понесенные прямые или косвенные
-убытки возлагаются на собственный риск клиента.
-• Если масло случайно пролилось на поверхность двигателя во время заправки,
-удалите пролитое масло тканью и другими инструментами, прежде чем
-закручивать крышку заливной горловины двигателя.
-• Крышку маслозаливной горловины двигателя нельзя перевернуть вверх дном
-после снятия, чтобы предотвратить ошибочную оценку, вызванную обратным
-потоком масла, и предотвратить самопроизвольное перетекание масла,
-протекающего через уплотнительное кольцо, после повторной сборки, что
-приводит к иллюзии утечки масла из маслозаливной горловины двигателя.
-крышка.
-213
+> ⚠️ **Внимание:** • Не переливайте масло, иначе это может привести к повреждению двигателя.
+> • Только моторное масло, рекомендованное Chery Automobile Co., Ltd. может
+> быть использован. В противном случае все понесенные прямые или косвенные
+> убытки возлагаются на собственный риск клиента.
+> • Если масло случайно пролилось на поверхность двигателя во время заправки,
+> удалите пролитое масло тканью и другими инструментами, прежде чем
+> закручивать крышку заливной горловины двигателя.
+> • Крышку маслозаливной горловины двигателя нельзя перевернуть вверх дном
+> после снятия, чтобы предотвратить ошибочную оценку, вызванную обратным
+> потоком масла, и предотвратить самопроизвольное перетекание масла,
+> протекающего через уплотнительное кольцо, после повторной сборки, что
+> приводит к иллюзии утечки масла из маслозаливной горловины двигателя.
+> крышка.
+> 213
 
 ### OMX65-8120
-`jetour_dashing_ru_76c13833` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:229 | doc_type:owners_manual
 Добавьте тормозную жидкость, чтобы
 уровень жидкости находился между
 маркерами MIN и MAX. Если тормозной
@@ -31337,7 +28593,6 @@ Ltd. Персонал профессионально и строго обуче�
 тормозную жидкость.
 
 ### Уровень
-`jetour_dashing_ru_2c890477` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:229 | doc_type:owners_manual
 не
 должен быть ниже отметки MIN. Если
 индикатор не гаснет после добавления,
@@ -31347,22 +28602,19 @@ Ltd. Персонал профессионально и строго обуче�
 сервисную станцию Jetour для проверки
 и ремонта.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_c94daf9b` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:229 | doc_type:owners_manual
-• Поскольку тормозная жидкость хорошо впитывает жидкость, не оставляйте
-крышку бачка с тормозной жидкостью открытой на длительное время.
-• При попадании тормозной жидкости на окрашенную поверхность немедленно
-протрите ее чистой тканью или сухой тканью и промойте большим количеством
-чистой воды. Никогда не допускайте попадания жидкости на кожу или в глаза.
-Если это произойдет, пожалуйста, промойте пораженный участок большим
-количеством воды и немедленно обратитесь за неотложной медицинской
-помощью.
-• Можно использовать только тормозную жидкость, рекомендованную компанией
-Chery Automobile Co., Ltd. В противном случае все понесенные прямые или
-косвенные убытки возлагаются на собственный риск клиента.
+> ⚠️ **Внимание:** • Поскольку тормозная жидкость хорошо впитывает жидкость, не оставляйте
+> крышку бачка с тормозной жидкостью открытой на длительное время.
+> • При попадании тормозной жидкости на окрашенную поверхность немедленно
+> протрите ее чистой тканью или сухой тканью и промойте большим количеством
+> чистой воды. Никогда не допускайте попадания жидкости на кожу или в глаза.
+> Если это произойдет, пожалуйста, промойте пораженный участок большим
+> количеством воды и немедленно обратитесь за неотложной медицинской
+> помощью.
+> • Можно использовать только тормозную жидкость, рекомендованную компанией
+> Chery Automobile Co., Ltd. В противном случае все понесенные прямые или
+> косвенные убытки возлагаются на собственный риск клиента.
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_183b5d34` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:229 | doc_type:owners_manual
 • Использованная
 или
 неподходящая
@@ -31387,7 +28639,6 @@ Chery Automobile Co., Ltd. В противном случае все понес�
 замене.
 
 ### В
-`jetour_dashing_ru_e493d367` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:229 | doc_type:owners_manual
 противном
 случае,
 при
@@ -31401,7 +28652,6 @@ Chery Automobile Co., Ltd. В противном случае все понес�
 214
 
 ### Проверка охлаждающей жидкости
-`jetour_dashing_ru_9edcc91d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:230 | doc_type:owners_manual
 При
 холодном
 двигателе
@@ -31412,7 +28662,6 @@ Chery Automobile Co., Ltd. В противном случае все понес�
 находиться между отметками MIN и
 
 ### MAX.
-`jetour_dashing_ru_c3fc5906` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:230 | doc_type:owners_manual
 Если
 уровень
 находится
@@ -31425,13 +28674,11 @@ MIN
 охлаждающую жидкость.
 
 ### Добавление охлаждающей жидкости
-`jetour_dashing_ru_ee407495` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:230 | doc_type:owners_manual
 Шаг 1: Когда двигатель холодный  крышку  бачка с охлаждающей  жидкостью  и
 долейте охлаждающую жидкость до отметки MAX.
 Шаг 2: Запустите двигатель и дайте ему прогреться до нормальной температуры.
 
 ### Постоянно следите за уровнем охлаждающей жидкости в бачке охлаждающей
-`jetour_dashing_ru_d11f0f48` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:230 | doc_type:owners_manual
 жидкости. Если уровень падает ниже отметки «MINе, долейте охлаждающую
 жидкость до соответствующего уровня, пока уровень охлаждающей жидкости не
 упадет дальше.
@@ -31440,47 +28687,40 @@ MIN
 операции, пока уровень не станет нормальным.
 Шаг 4: Установите на место крышку бачка охлаждающей жидкости.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_e4dcddf8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:230 | doc_type:owners_manual
-• Если прольется охлаждающая жидкость, не забудьте промыть ее водой, чтобы
-предотвратить повреждения частей или поверхности краски.
-• Если уровень охлаждающей жидкости падает вскоре после добавления
-охлаждающей жидкости, проверьте радиатор, водяной шланг, водяной насос и
-т. д. на наличие утечек. Если утечки не обнаружено, обратитесь в
-авторизованный сервисный центр Jetour для проверки и ремонта.
-• Можно
-использовать
-только
-охлаждающую
-жидкость,
-рекомендованную
-компанией Chery Automobile Co., Ltd. В противном случае все понесенные
-прямые или косвенные убытки возлагаются на собственный риск клиента.
+> ⚠️ **Внимание:** • Если прольется охлаждающая жидкость, не забудьте промыть ее водой, чтобы
+> предотвратить повреждения частей или поверхности краски.
+> • Если уровень охлаждающей жидкости падает вскоре после добавления
+> охлаждающей жидкости, проверьте радиатор, водяной шланг, водяной насос и
+> т. д. на наличие утечек. Если утечки не обнаружено, обратитесь в
+> авторизованный сервисный центр Jetour для проверки и ремонта.
+> • Можно
+> использовать
+> только
+> охлаждающую
+> жидкость,
+> рекомендованную
+> компанией Chery Automobile Co., Ltd. В противном случае все понесенные
+> прямые или косвенные убытки возлагаются на собственный риск клиента.
 
 ### Не снимайте крышку бачка охлаждающей жидкости двигателя или крышку
-`jetour_dashing_ru_908b92a8` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:230 | doc_type:owners_manual
 радиатора, когда двигатель горячий. В системе охлаждения может быть давление.
 При снятии крышки может произойти выброс горячей охлаждающей жидкости, что
 может привести к серьезным травмам, таким как ожоги.
 
 ### Проверка омывателя ветрового стекла
-`jetour_dashing_ru_24fe1643` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:230 | doc_type:owners_manual
 Если омыватель ветрового стекла не работает, возможно, бачок омывающей
 жидкости пуст. Откройте крышку бачка омывающей жидкости и долейте
 омывающую жидкость.
 215
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_e26a0c95` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:231 | doc_type:owners_manual
-• Не используйте мыльную воду или антифриз для двигателя вместо омывающей
-жидкости, иначе можно повредить лакокрасочное покрытие.
-• Нельзя смешивать воду с омывающей жидкостью. Вода легко замерзает  и
-может повредить компоненты системы мойки. Использование неспециальной
-омывающей жидкости также может привести к повреждению компонентов
-системы  омывания.
+> ⚠️ **Внимание:** • Не используйте мыльную воду или антифриз для двигателя вместо омывающей
+> жидкости, иначе можно повредить лакокрасочное покрытие.
+> • Нельзя смешивать воду с омывающей жидкостью. Вода легко замерзает  и
+> может повредить компоненты системы мойки. Использование неспециальной
+> омывающей жидкости также может привести к повреждению компонентов
+> системы  омывания.
 
 ### После поездки в течение определенного периода времени проверьте радиатор и
-`jetour_dashing_ru_508846b2` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:231 | doc_type:owners_manual
 конденсатор и удалите все посторонние предметы.
 Конденсатор: При выключенном и остывшем двигателе очистите конденсатор,
 продувая сжатым воздухом сзади вперед через радиатор.
@@ -31490,29 +28730,25 @@ MIN
 должно превышать 150 кПа. В противном случае, ребра радиатора могут быть
 повреждены.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_e26a0c95` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:231 | doc_type:owners_manual
-• Не прикасайтесь к радиатору или конденсатору, когда двигатель горячий,
-потому что они очень горячие и могут привести к серьезным травмам, таким как
-ожоги.
-• Материал ребер радиатора обладает хорошей теплопроводностью, что
-используется для охлаждения охлаждающей жидкости; Не чистите ребер, иначе
-это может привести к повреждению ребер, что повлияет на охлаждающий
-эффект.
-Проверка аккумулятора 12 B
-Проверьте и убедитесь, что клеммы аккумуляторной батареи не подвержены
-коррозии и что нет ослабленных соединений, внешних трещин или ослабленных
-зажимов.
+> ⚠️ **Внимание:** • Не прикасайтесь к радиатору или конденсатору, когда двигатель горячий,
+> потому что они очень горячие и могут привести к серьезным травмам, таким как
+> ожоги.
+> • Материал ребер радиатора обладает хорошей теплопроводностью, что
+> используется для охлаждения охлаждающей жидкости; Не чистите ребер, иначе
+> это может привести к повреждению ребер, что повлияет на охлаждающий
+> эффект.
+> Проверка аккумулятора 12 B
+> Проверьте и убедитесь, что клеммы аккумуляторной батареи не подвержены
+> коррозии и что нет ослабленных соединений, внешних трещин или ослабленных
+> зажимов.
 
 ### Приводной ремень будет растягиваться после использования определенного
-`jetour_dashing_ru_e94a9d06` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:231 | doc_type:owners_manual
 периода времени, а натяжение ремня будет недостаточным, что может привести к
 повреждению автомобиля, поэтому необходимо регулярно проверять натяжение
 ремня.
 216
 
 ### 7. ТЕХНИЧЕСКОГО ОБСЛУЖИВАНИЯ
-`jetour_dashing_ru_4f7630f3` | dashing | pdf_manual | tier:2 | lang:ru | layer:interior | p:232 | doc_type:owners_manual
 Шаг 1: Включите питание автомобиля в
 режим OFF;
 Шаг  2:  Покрутите  ремень  пальцами,
@@ -31523,7 +28759,6 @@ MIN
 ремонта.
 
 ### Проверьте протектор шины по следу
-`jetour_dashing_ru_e9d9da82` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:232 | doc_type:owners_manual
 износа.
 Когда
 износ
@@ -31540,12 +28775,10 @@ MIN
 необходима ее замена.
 
 ### ЗАЩИТА ОКРУЖАЮЩЕЙ СРЕДЫ
-`jetour_dashing_ru_ac00501f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:232 | doc_type:owners_manual
 Всегда   осторожно   выбрасывайте   использованную   шину.   С   ним   следует
 обращаться в соответствии с местными правилами по защите окружающей среды.
 
 ### Слишком
-`jetour_dashing_ru_05bcf6d8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:232 | doc_type:owners_manual
 низкое давление
 воздуха в шине
 Слишком высокое
@@ -31553,7 +28786,6 @@ MIN
 воздуха в шине
 
 ### Правильное
-`jetour_dashing_ru_7c8e4905` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:232 | doc_type:owners_manual
 давление воздуха
 в шине
 Неправильное
@@ -31572,21 +28804,18 @@ MIN
 автомобиля.
 
 ### Поэтому
-`jetour_dashing_ru_cb7c7c7e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:232 | doc_type:owners_manual
 вам
 следует
 управлять автомобилем с надлежащим
 Износ боковой
 
 ### Износ центральной   Равномерный износ
-`jetour_dashing_ru_72865707` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:232 | doc_type:owners_manual
 давлением   в   шинах   (положения   о
 части протектора
 части протектора
 протектора
 
 ### OMX65-8051
-`jetour_dashing_ru_2b4e5f2a` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:232 | doc_type:owners_manual
 давлении  в  шинах  см.  на  табличке
 давления в шинах на средней стойке со
 стороны водителя). Когда давление в
@@ -31615,7 +28844,6 @@ MIN
 217
 
 ### ТЕХНИЧЕСКОГО ОБСЛУЖИВАНИЯ
-`jetour_dashing_ru_046eb5ff` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:233 | doc_type:owners_manual
 • Не используйте шины, если вы не знаете, как они использовались ранее.
 • Не смешивайте шины разных производителей, разных моделей или рисунков
 протектора.
@@ -31635,40 +28863,37 @@ MIN
 • Возможность разрыва из-за перегрева шин.
 • Большая вероятность повреждения шин из-за плохих дорожных условий.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_dffb5491` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:233 | doc_type:owners_manual
-• Это нормально, что давление в шинах увеличивается после движения в течение
-определенного периода времени.
-• Если шину необходимо часто накачивать, как можно скорее обратитесь на
-авторизованную станцию обслуживания Jetour для проверки и ремонта.
-• Если
-шина
-часто
-спускается
-или
-не
-может
-быть
-должным
-образом
-отремонтирована из-за пореза или других повреждений, ее следует заменить.
-• Используйте манометр для проверки давления в холодных шинах. Визуальный
-осмотр шины может привести к неточной оценке давления в шине.
-• Если во время движения произошла утечка воздуха, не продолжайте движение.
-Езда даже на короткое расстояние может привести к повреждению шины,
-которая не подлежит ремонту.
-• Обязательно правильно установите колпачки вентилей шин. В противном случае
-грязь может попасть в сердечник клапана и вызвать его засорение. Если
-колпачки утеряны, как можно скорее установите новые.
-• Убедитесь, что давление в шинах находится в пределах указанного диапазона,
-прежде чем двигаться с большой нагрузкой и на высокой скорости.
-Недостаточное давление в шинах снизит устойчивость торможения, повысит
-сопротивление качению и ускорит износ шин,  что с большой вероятностью
-может привести к дорожно-транспортным происшествиям.
-218
+> ⚠️ **Внимание:** • Это нормально, что давление в шинах увеличивается после движения в течение
+> определенного периода времени.
+> • Если шину необходимо часто накачивать, как можно скорее обратитесь на
+> авторизованную станцию обслуживания Jetour для проверки и ремонта.
+> • Если
+> шина
+> часто
+> спускается
+> или
+> не
+> может
+> быть
+> должным
+> образом
+> отремонтирована из-за пореза или других повреждений, ее следует заменить.
+> • Используйте манометр для проверки давления в холодных шинах. Визуальный
+> осмотр шины может привести к неточной оценке давления в шине.
+> • Если во время движения произошла утечка воздуха, не продолжайте движение.
+> Езда даже на короткое расстояние может привести к повреждению шины,
+> которая не подлежит ремонту.
+> • Обязательно правильно установите колпачки вентилей шин. В противном случае
+> грязь может попасть в сердечник клапана и вызвать его засорение. Если
+> колпачки утеряны, как можно скорее установите новые.
+> • Убедитесь, что давление в шинах находится в пределах указанного диапазона,
+> прежде чем двигаться с большой нагрузкой и на высокой скорости.
+> Недостаточное давление в шинах снизит устойчивость торможения, повысит
+> сопротивление качению и ускорит износ шин,  что с большой вероятностью
+> может привести к дорожно-транспортным происшествиям.
+> 218
 
 ### Направление
-`jetour_dashing_ru_dee3eb67` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:234 | doc_type:owners_manual
 движения вперед
 Для
 выравнивания
@@ -31694,7 +28919,6 @@ MIN
 покрытия.
 
 ### Замена
-`jetour_dashing_ru_ec0e4bec` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:234 | doc_type:owners_manual
 шин
 должна
 выполняться
@@ -31704,7 +28928,6 @@ MIN
 авторизованный сервисный центр Jetour.
 
 ### Фильтр кондиционера может предотвратить попадание внешней пыли в автомобиль
-`jetour_dashing_ru_d1f10f90` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:234 | doc_type:owners_manual
 через
 выпускные
 отверстия
@@ -31719,7 +28942,6 @@ MIN
 снижается, проверьте фильтр и при необходимости замените его.
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_1b0ec207` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:234 | doc_type:owners_manual
 • Осмотр/замена фильтра кондиционера должны выполняться профессионалами,
 обращайтесь в авторизованный сервисный центр Jetour.
 • Использование
@@ -31734,36 +28956,32 @@ MIN
 кондиционирования воздуха.
 
 ### Проверка щеток стеклоочистителя
-`jetour_dashing_ru_060fa154` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:234 | doc_type:owners_manual
 Проверьте шероховатость щетки стеклоочистителя, проведя пальцем по ее краю.
 Если она слишком грубая, щетка стеклоочистителя не будет работать эффективно.
 219
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_3607459a` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:235 | doc_type:owners_manual
-• Не используйте щетки стеклоочистителя для удаления инея или льда с
-ветрового стекла.
-• Если на лобовом стекле есть сколы от гравия, срочно ремонтируйте.
-• Зимой перед использованием убедитесь, что стеклоочистители не примерзли к
-стеклу, чтобы избежать повреждения щеток стеклоочистителя.
-• Масло, силикон и топливо могут привести к неправильной работе щеток
-стеклоочистителя, поэтому рекомендуется очищать щетки стеклоочистителя
-омывающей жидкостью.
-• Когда лезвия подняты для обслуживания, положение центрального разъема
-лезвий должно быть правильно подобрано, для некоторых моделей требуется
-войти
-в
-режим
-обслуживания
-(подробности
-см.
-в
-разделе
-«Система
-стеклоочистителейе).
+> ⚠️ **Внимание:** • Не используйте щетки стеклоочистителя для удаления инея или льда с
+> ветрового стекла.
+> • Если на лобовом стекле есть сколы от гравия, срочно ремонтируйте.
+> • Зимой перед использованием убедитесь, что стеклоочистители не примерзли к
+> стеклу, чтобы избежать повреждения щеток стеклоочистителя.
+> • Масло, силикон и топливо могут привести к неправильной работе щеток
+> стеклоочистителя, поэтому рекомендуется очищать щетки стеклоочистителя
+> омывающей жидкостью.
+> • Когда лезвия подняты для обслуживания, положение центрального разъема
+> лезвий должно быть правильно подобрано, для некоторых моделей требуется
+> войти
+> в
+> режим
+> обслуживания
+> (подробности
+> см.
+> в
+> разделе
+> «Система
+> стеклоочистителейе).
 
 ### Обслуживание щеток стеклоочистителя
-`jetour_dashing_ru_c92cc3af` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:235 | doc_type:owners_manual
 1 . Не используйте струю воду под высоким давлением для непосредственного
 мытья щеток стеклоочистителей во время мойки автомобиля, так как это может
 привести к деформации щеток стеклоочистителей.
@@ -31795,14 +29013,12 @@ MIN
 220
 
 ### 1. Не поворачивайте рычаг стеклоочистителя вручную, иначе можно повредить
-`jetour_dashing_ru_e4142644` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:236 | doc_type:owners_manual
 стеклоочиститель.
 2. При наличии снега, листьев, веток и других объектов их следует очистить перед
 включением стеклоочистителя.
 3.
 
 ### Следует
-`jetour_dashing_ru_c3a3bb6e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:236 | doc_type:owners_manual
 своевременно
 добавлять
 омывающую
@@ -31812,7 +29028,6 @@ MIN
 руководстве, а не водопроводную воду.
 
 ### 4. В холодную погоду перед использованием всегда проверяйте, не примерзли ли
-`jetour_dashing_ru_d02f92cc` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:236 | doc_type:owners_manual
 щетки стеклоочистителей к ветровому стеклу. Если они замерзли на лобовом
 стекле,
 всегда
@@ -31822,18 +29037,15 @@ MIN
 использованием.
 
 ### Обогрев
-`jetour_dashing_ru_320eb84e` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:236 | doc_type:owners_manual
 осуществляется с помощью кондиционера и вентиляции. Не лейте горячую воду
 прямо на щетки, иначе может разбиться ветровое стекло или деформироваться
 щетки стеклоочистителей.
 221
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_8df32e94` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:237 | doc_type:owners_manual
 • Частота плановых осмотров и сервисного обслуживания в таблице минимальна.
 
 ### Однако может возникнуть необходимость в их более частом выполнении в
-`jetour_dashing_ru_18daa3fa` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:237 | doc_type:owners_manual
 зависимости
 от
 дорожных
@@ -31862,70 +29074,65 @@ MIN
 требованиями к техническому обслуживанию вашего автомобиля.
 222
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_d1da9dee` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:238 | doc_type:owners_manual
-• Моторное масло и масляный фильтр следует заменять чаще, если автомобиль
-эксплуатируется в тяжелых условиях, указанных в следующих примерах*.
-• Его следует проверять каждые 5000 км или 6 месяцев (в зависимости от того,
-что наступит раньше), если автомобиль эксплуатируется в тяжелых условиях,
-упомянутых в следующих примерах*.
-• Смазку следует заменять каждые 5000 км или 6 месяцев (в зависимости от того,
-что наступит раньше), если автомобиль ездит в следующих зонах.
-–
-Помещения с повышенной влажностью.
-–
-Горные районы.
-–
-Чрезвычайно холодные и жаркие районы.
-–
-Двигаться по неровным дорогам (ухабистым дорогам, дорогам с гравием,
-снегом и т. д.) в течение длительного времени.
-–
-Двигаться  по  горным  дорогам,  в  гору/под  гору  в  течение  длительного
-времени.
-–
-Часто водите автомобиль на короткие расстояния.
-–
-Во многих случаях ездите по дорогам с высокой температурой (выше 32℃) и
-интенсивным движением по городским дорогам.
-–
-При использовании в качестве полицейской машины, такси, коммерческого
-автомобиля, прицепа и т. д.
-• Воздушный фильтр и фильтр кондиционера следует заменять чаще, если
-автомобиль эксплуатируется в тяжелых условиях, указанных в следующих
-примерах*.
-* Примеры тяжелых условий вождения:
-• Ездить в очень холодную и жаркую погоду (только для моторного масла, уровня
-моторного масла, системы рулевого управления и подвески).
-• Часто ездите на автомобиле на короткие расстояния (только для моторного
-масла, уровня моторного масла, тормозных колодок и дисков/пыльников
-переднего и заднего моста и шарнирных частей полуоси, тормозных накладок и
-барабанов).
-• Езда по пыльным дорогам (только для элемента воздушного фильтра, колодок и
-дисков дискового тормоза / пыльников переднего и заднего моста и шарнирных
-частей полуоси, тормозных накладок и барабанов, элемента воздушного
-фильтра для системы климат-контроля).
-• Езда по неровным и/или грязным дорогам (только для колодок и дисков
-дисковых тормозов / пыльники переднего и заднего моста и шарниры полуосей,
-тормозные накладки и барабаны, элемент воздушного фильтра для системы
-климат-контроля).
-• Ездить по участкам, где используется дорожная соль или другие коррозионноактивные материалы (только для топливной системы, трубопроводов и
-соединений, колодок и дисков дисковых тормозов/пыльников передней и
-задней оси и шарнирных частей полуоси, тормозных колодок и барабанов,
-осмотрите тормозные магистрали и проверьте работу стояночной и рабочей
-тормозной системы, системы рулевого управления и подвески).
-223
+> ⚠️ **Внимание:** • Моторное масло и масляный фильтр следует заменять чаще, если автомобиль
+> эксплуатируется в тяжелых условиях, указанных в следующих примерах*.
+> • Его следует проверять каждые 5000 км или 6 месяцев (в зависимости от того,
+> что наступит раньше), если автомобиль эксплуатируется в тяжелых условиях,
+> упомянутых в следующих примерах*.
+> • Смазку следует заменять каждые 5000 км или 6 месяцев (в зависимости от того,
+> что наступит раньше), если автомобиль ездит в следующих зонах.
+> –
+> Помещения с повышенной влажностью.
+> –
+> Горные районы.
+> –
+> Чрезвычайно холодные и жаркие районы.
+> –
+> Двигаться по неровным дорогам (ухабистым дорогам, дорогам с гравием,
+> снегом и т. д.) в течение длительного времени.
+> –
+> Двигаться  по  горным  дорогам,  в  гору/под  гору  в  течение  длительного
+> времени.
+> –
+> Часто водите автомобиль на короткие расстояния.
+> –
+> Во многих случаях ездите по дорогам с высокой температурой (выше 32℃) и
+> интенсивным движением по городским дорогам.
+> –
+> При использовании в качестве полицейской машины, такси, коммерческого
+> автомобиля, прицепа и т. д.
+> • Воздушный фильтр и фильтр кондиционера следует заменять чаще, если
+> автомобиль эксплуатируется в тяжелых условиях, указанных в следующих
+> примерах*.
+> * Примеры тяжелых условий вождения:
+> • Ездить в очень холодную и жаркую погоду (только для моторного масла, уровня
+> моторного масла, системы рулевого управления и подвески).
+> • Часто ездите на автомобиле на короткие расстояния (только для моторного
+> масла, уровня моторного масла, тормозных колодок и дисков/пыльников
+> переднего и заднего моста и шарнирных частей полуоси, тормозных накладок и
+> барабанов).
+> • Езда по пыльным дорогам (только для элемента воздушного фильтра, колодок и
+> дисков дискового тормоза / пыльников переднего и заднего моста и шарнирных
+> частей полуоси, тормозных накладок и барабанов, элемента воздушного
+> фильтра для системы климат-контроля).
+> • Езда по неровным и/или грязным дорогам (только для колодок и дисков
+> дисковых тормозов / пыльники переднего и заднего моста и шарниры полуосей,
+> тормозные накладки и барабаны, элемент воздушного фильтра для системы
+> климат-контроля).
+> • Ездить по участкам, где используется дорожная соль или другие коррозионноактивные материалы (только для топливной системы, трубопроводов и
+> соединений, колодок и дисков дисковых тормозов/пыльников передней и
+> задней оси и шарнирных частей полуоси, тормозных колодок и барабанов,
+> осмотрите тормозные магистрали и проверьте работу стояночной и рабочей
+> тормозной системы, системы рулевого управления и подвески).
+> 223
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_302799d8` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:239 | doc_type:owners_manual
-• В прибрежных зонах (только для топливной системы, трубопроводов и
-соединений, колодок и дисков дисковых тормозов / пыльников переднего и
-заднего мостов и шарнирных частей полуосей, тормозных накладок и
-барабанов, осмотрите тормозные магистрали и проверьте работу стояночной и
-рабочей тормозной системы, рулевого управления и подвесная система).
+> ⚠️ **Внимание:** • В прибрежных зонах (только для топливной системы, трубопроводов и
+> соединений, колодок и дисков дисковых тормозов / пыльников переднего и
+> заднего мостов и шарнирных частей полуосей, тормозных накладок и
+> барабанов, осмотрите тормозные магистрали и проверьте работу стояночной и
+> рабочей тормозной системы, рулевого управления и подвесная система).
 
 ### Запись системы защиты безопасности
-`jetour_dashing_ru_c71a83b6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:239 | doc_type:owners_manual
 Если ваш автомобиль оснащен системой подушек безопасности, ее необходимо
 заменить через 10 лет с даты покупки автомобиля. Система должна быть заменена
 авторизованным сервисным центром Jetour.
@@ -31945,31 +29152,26 @@ MIN
 233
 
 ### СПЕЦИФИКАЦИЯ
-`jetour_dashing_ru_ac383f71` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:241 | doc_type:owners_manual
 8-1. Расположение VIN
 Идентификационный
 номер автомобиля
 
 ### Паспортная табличка
-`jetour_dashing_ru_1d348989` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:241 | doc_type:owners_manual
 Номер двигателя  ............. 235
 
 ### Окно для приема RF
-`jetour_dashing_ru_770b90b4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:241 | doc_type:owners_manual
 8-2. Технические
 характеристики
 автомобиля
 Размеры  автомобиля  ..... 236
 
 ### Диапазон измерения
-`jetour_dashing_ru_48caf3bc` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:241 | doc_type:owners_manual
 габаритных размеров
 автомобиля без учета
 следующих
 234
 
 ### 8. СПЕЦИФИКАЦИЯ
-`jetour_dashing_ru_b90b9144` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:242 | doc_type:owners_manual
 8-1. Расположение VIN
 Идентификационный номер автомобиля (VIN)
 Идентификационный номер автомобиля (VIN)
@@ -31978,19 +29180,16 @@ MIN
 3
 
 ### Идентификационный номер
-`jetour_dashing_ru_93bc3e80` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:242 | doc_type:owners_manual
 автомобиля (VIN) выгравирован в
 моторном отсеке справа  на
 передней панели.*
 
 ### Идентификационный номер
-`jetour_dashing_ru_93bc3e80` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:242 | doc_type:owners_manual
 автомобиля расположена на
 переднем торце внутренней панели
 капота.
 
 ### Идентификационный номер
-`jetour_dashing_ru_93bc3e80` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:242 | doc_type:owners_manual
 автомобиля  расположен  в  верхнем
 левом  углу  приборной  панели  со
 стороны водителя и виден снаружи
@@ -31998,7 +29197,6 @@ MIN
 *На автомобилях производства ООО
 
 ### Место нанесения и расположение
-`jetour_dashing_ru_6043d2af` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:242 | doc_type:owners_manual
 VIN номера:
 -На полу под правым передним
 сидением.
@@ -32007,7 +29205,6 @@ VIN номера:
 стойке кузова.
 
 ### Этикетка
-`jetour_dashing_ru_52428786` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:242 | doc_type:owners_manual
 с
 идентификационным
 номером автомобиля расположен на двери
@@ -32016,13 +29213,10 @@ VIN номера:
 как показано на
 рисунке.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_d1a890a4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:242 | doc_type:owners_manual
-Не закрывайте, не красьте, не сваривайте, не режьте, не сверлите и не удаляйте
-идентификационный номер автомобиля и области вокруг него.
+> ⚠️ **Внимание:** Не закрывайте, не красьте, не сваривайте, не режьте, не сверлите и не удаляйте
+> идентификационный номер автомобиля и области вокруг него.
 
 ### Как показано
-`jetour_dashing_ru_07385364` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:242 | doc_type:owners_manual
 на
 рисунке,
 именная
@@ -32030,7 +29224,6 @@ VIN номера:
 на правой четверти внешней панели.
 
 ### Модель
-`jetour_dashing_ru_1cfc2d6e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:242 | doc_type:owners_manual
 транспортного
 средства
 и
@@ -32042,7 +29235,6 @@ VIN номера:
 заводской табличке производителя.
 
 ### OMX65-2020
-`jetour_dashing_ru_e288f19d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:242 | doc_type:owners_manual
 235
 8. СПЕЦИФИКАЦИЯ
 OMT18-8050
@@ -32050,7 +29242,6 @@ OMT18-8050
 СПЕЦИФИКАЦИЯ
 
 ### Номер   двигателя   указан   на   блоке
-`jetour_dashing_ru_39f9ff45` | dashing | pdf_manual | tier:2 | lang:ru | layer:engine | p:243 | doc_type:owners_manual
 цилиндров.
 SQRF4J16 *XXXXXXX
 OMX65-2030
@@ -32060,7 +29251,6 @@ OMX65-2030
 приема
 
 ### RF
-`jetour_dashing_ru_7920a2f7` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:243 | doc_type:owners_manual
 сигнала
 расположено с
 внутренней стороны
@@ -32074,13 +29264,11 @@ OMX65-2030
 автомобиля.
 
 ### OMX65-2040
-`jetour_dashing_ru_f9a15497` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:243 | doc_type:owners_manual
 236
 8. СПЕЦИФИКАЦИЯ
 8-2. Технические характеристики автомобиля
 
 ### Передний
-`jetour_dashing_ru_8cbe5798` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:244 | doc_type:owners_manual
 свес
 Колесная база
 Задний
@@ -32088,7 +29276,6 @@ OMX65-2030
 Колея передних колес
 
 ### Ширина
-`jetour_dashing_ru_5a1e3019` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:244 | doc_type:owners_manual
 Длина
 Колея задних колес
 OMX65-2050
@@ -32115,7 +29302,6 @@ OMX65-2050
 237
 
 ### Производительность автомобиля
-`jetour_dashing_ru_eb4d7ddf` | dashing | pdf_manual | tier:2 | lang:ru | layer:lighting | p:245 | doc_type:owners_manual
 Модификация а/м
 1.6T+7DCT
 1.5T+ 6DCT
@@ -32160,18 +29346,15 @@ OMX65-2050
 238
 
 ### Топливная система
-`jetour_dashing_ru_0ee0d894` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:246 | doc_type:owners_manual
 Параметры топливной системы приведены в следующей таблице.
 
 ### SQRE4T15C/SQRF4J16/SQRF4J16C
-`jetour_dashing_ru_d23dec79` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:246 | doc_type:owners_manual
 Тип топлива *1
 Рекомендуется использовать неэтилированный
 бензин с
 октановым числом 95
 
 ### Общая емкость топливного
-`jetour_dashing_ru_151901cb` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:246 | doc_type:owners_manual
 бака
 57 л
 Топливный насос
@@ -32180,41 +29363,37 @@ OMX65-2050
 дилерами Jetour.
 
 ### Автомобиль с каталитическим нейтрализатором может использовать только
-`jetour_dashing_ru_b709f0b6` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:246 | doc_type:owners_manual
 неэтилированный бензин. Во избежание несчастных случаев при заправке
 топливом неправильного типа, трубка топливного бака разработана на точку
 топливного бака типа горловины, и для заправки можно использовать только
 стандартный пистолет для заправки неэтилированным бензином.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_0f0586a3` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:246 | doc_type:owners_manual
-• Используйте только тип топлива, рекомендованный Jetour.
-• Использование бензина, не отвечающего техническим требованиям, может
-привести к повреждению двигателя, и такое повреждение не покрывается
-гарантией.
-• Использование
-этилированного
-бензина
-приведет
-к
-тому,
-что
-трехкомпонентный
-каталитический
-преобразователь
-потеряет
-свою
-эффективность, а вытяжная система управления будет работать неправильно.
-• Если вы случайно заполните топливный бак этилированным бензином и
-запустите двигатель (даже если залито лишь небольшое количество), это
-приведет к необратимому повреждению каталитического преобразователя.
-Поэтому, если вы случайно залили этилированный бензин, немедленно
-обратитесь на авторизованную станцию обслуживания Jetour для проверки и
-ремонта.
-239
+> ⚠️ **Внимание:** • Используйте только тип топлива, рекомендованный Jetour.
+> • Использование бензина, не отвечающего техническим требованиям, может
+> привести к повреждению двигателя, и такое повреждение не покрывается
+> гарантией.
+> • Использование
+> этилированного
+> бензина
+> приведет
+> к
+> тому,
+> что
+> трехкомпонентный
+> каталитический
+> преобразователь
+> потеряет
+> свою
+> эффективность, а вытяжная система управления будет работать неправильно.
+> • Если вы случайно заполните топливный бак этилированным бензином и
+> запустите двигатель (даже если залито лишь небольшое количество), это
+> приведет к необратимому повреждению каталитического преобразователя.
+> Поэтому, если вы случайно залили этилированный бензин, немедленно
+> обратитесь на авторизованную станцию обслуживания Jetour для проверки и
+> ремонта.
+> 239
 
 ### Масса транспортного
-`jetour_dashing_ru_15e8cef5` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:247 | doc_type:owners_manual
 средства в снаряженном
 состоянии, кг
 1655
@@ -32224,7 +29403,6 @@ OMX65-2050
 1735
 
 ### Распредел
-`jetour_dashing_ru_0234545f` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:247 | doc_type:owners_manual
 ение
 массы
 т/с в
@@ -32240,7 +29418,6 @@ OMX65-2050
 972
 
 ### Задняя ось
-`jetour_dashing_ru_a69127e8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:247 | doc_type:owners_manual
 (кг)
 712
 691/698/704
@@ -32256,7 +29433,6 @@ OMX65-2050
 2035
 
 ### Допустимая
-`jetour_dashing_ru_dcc306b8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:247 | doc_type:owners_manual
 максимальн
 ая масса, на
 каждую из
@@ -32268,7 +29444,6 @@ OMX65-2050
 1048
 
 ### На заднюю
-`jetour_dashing_ru_7687c652` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:247 | doc_type:owners_manual
 ось
 947
 1165
@@ -32278,7 +29453,6 @@ OMX65-2050
 прицепа, кг
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_9429261e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:247 | doc_type:owners_manual
 Пожалуйста, соблюдайте нагрузку автомобиля, указанную в руководстве по
 эксплуатации, и не превышайте допустимую общую массу. В противном случае
 эффективность торможения и управляемости автомобиля может измениться, что
@@ -32292,7 +29466,6 @@ OMX65-2050
 85.8
 85.8
 ### Рабочий объем
-`jetour_dashing_ru_e3a51b3e` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:248 | doc_type:owners_manual
 целиндров см3
 1498**
 1502**
@@ -32304,7 +29477,6 @@ OMX65-2050
 9.9
 
 ### Максимальная
-`jetour_dashing_ru_e9ca242d` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:248 | doc_type:owners_manual
 мощность, кВт
 (об/мин)
 108(5500)
@@ -32312,7 +29484,6 @@ OMX65-2050
 136.5(5500)
 
 ### Максимальный
-`jetour_dashing_ru_d71da7df` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:248 | doc_type:owners_manual
 крутящий момент,
 Нбм(об/мин)
 210
@@ -32326,7 +29497,6 @@ OMX65-2050
 241
 
 ### 830AHA
-`jetour_dashing_ru_8bb4d479` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:249 | doc_type:owners_manual
 Тип
 6 передач,
 МКПП
@@ -32337,7 +29507,6 @@ OMX65-2050
 8 передач,
 
 ### АКПП
-`jetour_dashing_ru_15b7c8c4` | dashing | pdf_manual | tier:2 | lang:ru | layer:drivetrain | p:249 | doc_type:owners_manual
 Положение
 передачи
 1-й
@@ -32388,7 +29557,6 @@ OMX65-2050
 0.673
 
 ### R
-`jetour_dashing_ru_d58cdfd1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:249 | doc_type:owners_manual
 3.583
 3.661
 1.18
@@ -32410,7 +29578,6 @@ OMX65-2050
 передачи:
 
 ### Главной
-`jetour_dashing_ru_33e71d7b` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:249 | doc_type:owners_manual
 пары
 передачи:
 3,042
@@ -32421,7 +29588,6 @@ R передачи:
 8. СПЕЦИФИКАЦИЯ
 
 ### Развал
-`jetour_dashing_ru_1e5c94cc` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:250 | doc_type:owners_manual
 передних
 колес
 -25′ ± 45′
@@ -32440,7 +29606,6 @@ R передачи:
 5′ ± 5′ (одна сторона)
 
 ### Развал
-`jetour_dashing_ru_1e5c94cc` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:250 | doc_type:owners_manual
 задних
 колес
 -42′ ± 30′
@@ -32451,7 +29616,6 @@ R передачи:
 243
 
 ### Давление в
-`jetour_dashing_ru_8167fbb1` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:251 | doc_type:owners_manual
 холодных шинах
 (кПа)
 Переднее колесо
@@ -32459,72 +29623,60 @@ R передачи:
 250 (с нагрузкой)
 
 ### Заднее колесо
-`jetour_dashing_ru_8169aa94` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:251 | doc_type:owners_manual
 230 (без нагрузки)
 250 (с нагрузкой)
 Запасная шина
 420
 
 ### Момент затяжки колесных болтов
-`jetour_dashing_ru_a3fb50d8` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:251 | doc_type:owners_manual
 130 ± 10 Нбм
 Требования к динамической
 балансировке колес
 
 ### Допустимая остаточная динамическая
-`jetour_dashing_ru_db6177ee` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:251 | doc_type:owners_manual
 балансировочная масса: Зажим со
 стороны балансировочного блока ≤ 8 г,
 вставка со стороны балансировочного
 блока ≤ 10 г
 
 ### ПРОЧИТАЙТЕ
-`jetour_dashing_ru_acd1b931` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:251 | doc_type:owners_manual
 Давление в шинах, указанное в таблице выше, относится только к холодным
 шинам. Давление слегка увеличивается при нагреве шины, но снижать давление
 нет необходимости.
 
-### ВНИМАНИЕ
-`jetour_dashing_ru_0b06aabe` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:251 | doc_type:owners_manual
-• Давление в шинах следует проверять не реже одного раза в месяц, что
-особенно важно при движении на высокой скорости.
-• Чтобы облегчить вам поиск указанного значения давления в шинах, на пороге
-водительской двери имеется табличка с давлением в шинах, на которой указано
-указанное значение давления в шинах в холодном состоянии.
-244
+> ⚠️ **Внимание:** • Давление в шинах следует проверять не реже одного раза в месяц, что
+> особенно важно при движении на высокой скорости.
+> • Чтобы облегчить вам поиск указанного значения давления в шинах, на пороге
+> водительской двери имеется табличка с давлением в шинах, на которой указано
+> указанное значение давления в шинах в холодном состоянии.
+> 244
 
 ### Электрический стояночный тормоз для
-`jetour_dashing_ru_35e454fa` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:252 | doc_type:owners_manual
 заднего колеса
 Свободный ход педали тормоза
 5 - 15 мм
 
 ### Максимальный ход педали тормоза
-`jetour_dashing_ru_b48c22cc` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:252 | doc_type:owners_manual
 113.4 мм
 Разумный диапазон использования
 тормозного фрикционного материала
 
 ### Толщина переднего фрикционного
-`jetour_dashing_ru_083bd613` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:252 | doc_type:owners_manual
 материала: 11.6 мм
 Толщина заднего фрикционного
 материала: 10.1 мм
 
 ### Допустимая толщина переднего
-`jetour_dashing_ru_aa722be4` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:252 | doc_type:owners_manual
 фрикционного материала: 9.6 мм
 Допустимая толщина заднего
 фрикционного материала: 8.1 мм
 
 ### ОПАСНОСТЬ
-`jetour_dashing_ru_6b82d91e` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:252 | doc_type:owners_manual
 • В случае большой нагрузки замена тормозной жидкости должна производиться
 одновременно с заменой тормозных колодок.
 • При добавлении тормозной жидкости убедитесь, что она абсолютно чистая.
 
 ### Попадание
-`jetour_dashing_ru_648bfa63` | dashing | pdf_manual | tier:2 | lang:ru | layer:brakes | p:252 | doc_type:owners_manual
 грязи
 в
 тормозную
@@ -32536,18 +29688,15 @@ R передачи:
 эффективности торможения.
 
 ### Передняя подвеска
-`jetour_dashing_ru_2849f824` | dashing | pdf_manual | tier:2 | lang:ru | layer:suspension | p:252 | doc_type:owners_manual
 Независимая, типа Макферсон, пружинная, со
 стабилизатором поперечной устойчивости
 
 ### Задняя подвеска
-`jetour_dashing_ru_cd79ffeb` | dashing | pdf_manual | tier:2 | lang:ru | layer:suspension | p:252 | doc_type:owners_manual
 Независимая, многорычажная, пружинная с
 телескопическими амортизаторами
 стабилизатором поперечной устойчивости.
 
 ### Тип рулевого механизма
-`jetour_dashing_ru_c9f4d633` | dashing | pdf_manual | tier:2 | lang:ru | layer:steering | p:252 | doc_type:owners_manual
 Шестерня - рейка
 245
 8. СПЕЦИФИКАЦИЯ
@@ -32557,7 +29706,6 @@ R передачи:
 Компоненты, не входящие в диапазон измерения длины автомобиля
 
 ### Следующие устройства не имеют нагруженной функции и не выступают за
-`jetour_dashing_ru_82cbd8bb` | dashing | pdf_manual | tier:2 | lang:ru | layer:body | p:253 | doc_type:owners_manual
 переднюю или заднюю часть автомобиля более чем на 50 мм, а радиус скругления
 кромки и угла не менее 5 мм:
 - Стеклоочиститель и омыватель
@@ -32597,12 +29745,10 @@ R передачи:
 246
 
 ### 8. СПЕЦИФИКАЦИЯ
-`jetour_dashing_ru_f7022791` | dashing | pdf_manual | tier:2 | lang:ru | layer:general | p:254 | doc_type:owners_manual
 - Рифленая выхлопная труба
 Компоненты, не входящие в диапазон измерения высоты автомобиля:
 
 ### Мягкая часть антенны
-`jetour_dashing_ru_9011479d` | dashing | pdf_manual | tier:2 | lang:ru | layer:ev | p:254 | doc_type:owners_manual
 Устройство без загруженной функции:
 - Впускной канал
 - Устройство непрямого обзора

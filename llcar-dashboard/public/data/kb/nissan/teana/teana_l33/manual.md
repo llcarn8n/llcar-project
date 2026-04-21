@@ -1,5 +1,10 @@
-# Manual: nissan/teana_l33 (222 chunks)
-<!-- doc_type:owners_manual tier:2 lang:ru -->
+---
+brand: nissan
+model: teana
+generation: teana_l33
+source: kb
+---
+
 
 ### МОДИФИКАЦИЯ АВТОМОБИЛЯ
 `nissan_teana_l33_ru_0bb8538b` | teana_l33 | official_manual | tier:1 | lang:ru | layer:general | p:1 | doc_type:owners_manual
@@ -13265,9 +13270,6 @@ NISSAN стоит цель достижения уровня переработ�
 на сервисную станцию официального дилера NISSAN, которая обеспечит выполнение всех необходимых работ в соответствии с самыми высокими стандартами качества.
 
 
-# Manual: nissan/teana_l33 (222 chunks)
-<!-- doc_type:owners_manual tier:2 lang:ru -->
-
 ### МОДИФИКАЦИЯ АВТОМОБИЛЯ
 `nissan_teana_l33_ru_0bb8538b` | teana_l33 | official_manual | tier:1 | lang:ru | layer:general | p:1 | doc_type:owners_manual
 Запрещается вносить какие-либо изменения в конструкцию автомобиля. Это может привести 
@@ -26530,4 +26532,3 @@ NISSAN стоит цель достижения уровня переработ�
 вашего автомобиля и наилучшую топливную экономичность. 
 Для проведения технического обслуживания обращайтесь 
 на сервисную станцию официального дилера NISSAN, которая обеспечит выполнение всех необходимых работ в соответствии с самыми высокими стандартами качества.
-

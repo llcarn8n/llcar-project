@@ -1,3 +1,10 @@
+---
+brand: volkswagen
+model: golf
+generation: golf_2
+source: kb
+---
+
 # VOLKSWAGEN volkswagen_golf_2 Manual
 
 Source: Volkswagen Golf (1984-1992).pdf
@@ -5,7 +12,6 @@ Chunks: 1572
 Language: en
 
 ### VW Golf & Jetta
-`volkswagen_volkswagen_golf_2_en_d25f0643` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:1
 
 VW Golf & Jetta
 Service and Repair Manual
@@ -16,7 +22,6 @@ Covers mechanical features of Van. Does not cover Convertible, Rallye, Caddy, di
 or new Golf range introduced in February 1992
 
 ### I M Coomber and Christopher Rogers
-`volkswagen_volkswagen_golf_2_en_584da017` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:1
 
 © Haynes Publishing 1997
 A book in the Haynes Service and Repair Manual Series
@@ -27,7 +32,6 @@ information storage or retrieval system, without permission in
 writing from the copyright holder.
 
 ### ISBN 1 85960 282 7
-`volkswagen_volkswagen_golf_2_en_8fb6327d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:1
 
 British Library Cataloguing in Publication Data
 A catalogue record for this book is available from the British Library
@@ -35,7 +39,6 @@ Printed by J H Haynes & Co. Ltd, Sparkford, Nr Yeovil, Somerset
 BA22 7JJ, England
 
 ### Haynes Publishing
-`volkswagen_volkswagen_golf_2_en_e999cddb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:1
 
 Sparkford Nr Yeovil
 Somerset BA22 7JJ England
@@ -48,7 +51,6 @@ Editions Haynes S.A.
 Haynes Publishing Nordiska AB
 
 ### Fyrisborgsgatan 5, 754 50 Uppsala, Sverige
-`volkswagen_volkswagen_golf_2_en_3518c986` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:1
 
 (1081 - 344 - 1AA11)
 ABCDE
@@ -67,7 +69,6 @@ Page
 Roadside Repairs
 
 ### Introduction
-`volkswagen_volkswagen_golf_2_en_2d35467b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:2
 
 Page
 0•6
@@ -95,7 +96,6 @@ Page
 0•10
 
 ### Engine oil level
-`volkswagen_volkswagen_golf_2_en_72806f79` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:2
 
 Page
 0•11
@@ -119,7 +119,6 @@ Page
 0•14
 
 ### Battery
-`volkswagen_volkswagen_golf_2_en_633eaf3b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:2
 
 Page
 0•15
@@ -140,7 +139,6 @@ Page
 Maintenance schedule:
 
 ### Vehicles manufactured before August 1985
-`volkswagen_volkswagen_golf_2_en_7d477115` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:2
 
 Page
 1•5
@@ -158,7 +156,6 @@ Downloaded from www.Manualslib.com manuals search engine
 REPAIRS & OVERHAUL
 
 ### Engine and Associated Systems
-`volkswagen_volkswagen_golf_2_en_8d50e4a2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:3
 
 Engine repair procedures - 1.05 and 1.3 litre - pre August 1985
 Page 2A•1
@@ -167,7 +164,6 @@ Page 2B•1
 Engine repair procedures - 1.6 and 1.8 litre 8 valve
 
 ### Page 2C•1
-`volkswagen_volkswagen_golf_2_en_54c9655b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:3
 
 Engine repair procedures - 1.8 litre 16 valve
 Page 2D•1
@@ -179,7 +175,6 @@ Page 4A•1
 Fuel and exhaust systems - K-Jetronic fuel injection - 8 valve engines
 
 ### Page 4B•1
-`volkswagen_volkswagen_golf_2_en_654a4a67` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:3
 
 Fuel and exhaust systems - K-Jetronic fuel injection - 16 valve engines
 Page 4C•1
@@ -189,7 +184,6 @@ Fuel and exhaust systems - Digijet fuel injection
 Page 4E•1
 
 ### Fuel and exhaust systems - Digifant fuel injection
-`volkswagen_volkswagen_golf_2_en_fd270f08` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:3
 
 Page
 4F•1
@@ -204,7 +198,6 @@ Page 5D•1
 Transmission
 
 ### Clutch
-`volkswagen_volkswagen_golf_2_en_3e2ce450` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:3
 
 Page
 6•1
@@ -226,7 +219,6 @@ Body Equipment
 Bodywork and fittings
 
 ### Page
-`volkswagen_volkswagen_golf_2_en_348231b1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:3
 
 11•1
 Body electrical systems
@@ -247,7 +239,6 @@ REF•3
 General Repair Procedures
 
 ### Page
-`volkswagen_volkswagen_golf_2_en_b5e36bdc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:3
 
 REF•4
 Jacking and Vehicle Support
@@ -268,7 +259,6 @@ Page REF•25
 Contents
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_5aefac5d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:3
 
 The Mk. II Volkswagen Golf and Jetta range of models was
 introduced in March 1984, revised body and trim features being the
@@ -287,7 +277,6 @@ yardstick, long life.
 0•4 Introduction
 
 ### Your Volkswagen Golf and
-`volkswagen_volkswagen_golf_2_en_baac3979` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:4
 
 Jetta Manual
 The aim of this Manual is to help you get the best value from your
@@ -306,7 +295,6 @@ the tasks are described and photographed in a clear step-by-step
 sequence.
 
 ### Acknowledgements
-`volkswagen_volkswagen_golf_2_en_a19f8c03` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:4
 
 Thanks are due to Champion Spark Plug who supplied the
 illustrations showing spark plug conditions, to Duckhams Oils, who
@@ -314,7 +302,6 @@ provided lubrication data and also to Sykes-Pickavant Limited, who
 supplied some of the workshop tools, and to all those people at
 
 ### Sparkford who helped in the production of this Manual.
-`volkswagen_volkswagen_golf_2_en_c66aa478` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:4
 
 We take great pride in the accuracy of information given in this
 Manual, but vehicle manufacturers make alterations and design
@@ -324,7 +311,6 @@ or publishers for loss, damage or injury caused by any errors in, or
 omissions from the information given.
 
 ### The VW Golf & Jetta Team
-`volkswagen_volkswagen_golf_2_en_fa9cc052` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:4
 
 Haynes manuals are produced by dedicated and
 enthusiastic people working in close co-operation. The
@@ -335,7 +321,6 @@ Cristopher Rogers
 Sub-editors
 
 ### Carole Turk
-`volkswagen_volkswagen_golf_2_en_a0d28328` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:4
 
 Sophie Yar
 Editor & Page Make-up
@@ -354,7 +339,6 @@ maintenance as described you will ensure your car’s
 reliability and preserve its resale value.
 
 ### VW Golf
-`volkswagen_volkswagen_golf_2_en_47b206be` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:4
 
 VW Jetta
 Downloaded from www.Manualslib.com manuals search engine
@@ -365,7 +349,6 @@ risks and hazards, with the aim of creating a
 safety-conscious attitude.
 
 ### General hazards
-`volkswagen_volkswagen_golf_2_en_de746b8b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:5
 
 Scalding
 • Don’t remove the radiator or expansion
@@ -375,7 +358,6 @@ power steering fluid may also be dangerously
 hot if the engine has recently been running.
 
 ### Burning
-`volkswagen_volkswagen_golf_2_en_1189aad4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:5
 
 • Beware of burns from the exhaust system
 and from any part of the engine. Brake discs
@@ -392,7 +374,6 @@ drive-on
 ramps.
 
 ### Never
-`volkswagen_volkswagen_golf_2_en_51712de5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:5
 
 venture
 under a car which
@@ -402,7 +383,6 @@ Initial loosening and final tightening should
 be done with the wheels on the ground.
 
 ### Fire
-`volkswagen_volkswagen_golf_2_en_5b484c9e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:5
 
 • Fuel is highly flammable; fuel vapour is
 explosive.
@@ -422,7 +402,6 @@ repairing or modifying the vehicle wiring.
 suitable for use on fuel and electrical fires.
 
 ### Electric shock
-`volkswagen_volkswagen_golf_2_en_08a03629` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:5
 
 • Ignition HT
 voltage can be
@@ -442,7 +421,6 @@ be protected by a residual current device
 (RCD) circuit breaker.
 
 ### Fume or gas intoxication
-`volkswagen_volkswagen_golf_2_en_afe422a6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:5
 
 • Exhaust fumes are
 poisonous; they often
@@ -459,7 +437,6 @@ poisonous, as are the vapours from some
 cleaning solvents and paint thinners.
 
 ### Poisonous or irritant substances
-`volkswagen_volkswagen_golf_2_en_a6c631b3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:5
 
 • Avoid skin contact with battery acid and
 with any fuel, fluid or lubricant, especially
@@ -477,7 +454,6 @@ poisonous gas if exposed to a naked flame
 burns on contact.
 
 ### Asbestos
-`volkswagen_volkswagen_golf_2_en_eeb67e3c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:5
 
 • Asbestos dust can cause cancer if inhaled
 or swallowed. Asbestos may be found in
@@ -486,7 +462,6 @@ When dealing with such components it is
 safest to assume that they contain asbestos.
 
 ### Special hazards
-`volkswagen_volkswagen_golf_2_en_71ff09ed` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:5
 
 Hydrofluoric acid
 • This extremely corrosive acid is formed
@@ -504,7 +479,6 @@ from such a vehicle, wear protective gloves
 and discard them after use.
 
 ### The battery
-`volkswagen_volkswagen_golf_2_en_4c4c1311` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:5
 
 • Batteries contain sulphuric acid, which
 attacks clothing, eyes and skin. Take care
@@ -516,7 +490,6 @@ connecting and disconnecting battery
 chargers or jump leads.
 
 ### Air bags
-`volkswagen_volkswagen_golf_2_en_7b18bc1d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:5
 
 • Air bags can cause injury if they go off
 accidentally. Take care when removing the
@@ -528,7 +501,6 @@ high pressure. Take care when working on
 the fuel injectors and fuel pipes.
 
 ### Warning: Never expose the hands,
-`volkswagen_volkswagen_golf_2_en_172dcf58` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:5
 
 face or any other part of the body
 to injector spray; the fuel can
@@ -553,7 +525,6 @@ equipment has a safe working load rating
 adequate for the job.
 
 ### A few tips
-`volkswagen_volkswagen_golf_2_en_f42b4541` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:5
 
 DON’T
 • Don’t attempt to lift a heavy component
@@ -570,7 +541,6 @@ up oil and fuel spills at once.
 near a vehicle being worked on.
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_3e41485f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:5
 
 0•6 Roadside repairs
 The following pages are intended to help in dealing with
@@ -579,7 +549,6 @@ more detailed fault finding information at the back of the
 manual, and repair information in the main chapters.
 
 ### If your car won’t start
-`volkswagen_volkswagen_golf_2_en_c81284a6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:6
 
 and the starter motor
 doesn’t turn
@@ -593,7 +562,6 @@ battery is probably flat. Get out of trouble by jump starting
 (see next page) using a friend’s car.
 
 ### If your car won’t start
-`volkswagen_volkswagen_golf_2_en_98051396` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:6
 
 even though the starter
 motor turns as normal
@@ -605,7 +573,6 @@ product (WD-40 or equivalent) on ignition and fuel system
 electrical connectors like those shown in the photos.
 
 ### Pay special attention to the ignition coil wiring connector
-`volkswagen_volkswagen_golf_2_en_2c920848` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:6
 
 and HT leads.
 Check that the HT lead connections at
@@ -619,7 +586,6 @@ them onto the plugs.
 B
 
 ### Check that the LT lead connections are
-`volkswagen_volkswagen_golf_2_en_6eaaada8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:6
 
 clean and secure.
 C
@@ -633,7 +599,6 @@ Check that electrical connections are secure (with the ignition switched off) an
 with a water dispersant spray like WD40 if you suspect a problem due to damp
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_0139001b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:6
 
 Roadside repairs 0•7
 When jump-starting a car using a
@@ -650,7 +615,6 @@ switched off.
 4
 
 ### Make sure that the booster battery is
-`volkswagen_volkswagen_golf_2_en_481a0184` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:7
 
 the same voltage as the discharged
 one in the vehicle.
@@ -665,7 +629,6 @@ neutral (or PARK, in the case of
 automatic transmission).
 
 ### Jump starting will get you out
-`volkswagen_volkswagen_golf_2_en_e26fc12a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:7
 
 of trouble, but you must correct
 whatever made the battery go
@@ -678,7 +641,6 @@ leaving the lights on.
 2
 
 ### The charging system is not working
-`volkswagen_volkswagen_golf_2_en_d687645c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:7
 
 properly (alternator drivebelt slack
 or broken, alternator wiring fault or
@@ -691,7 +653,6 @@ the positive (+) terminal of the flat
 battery
 
 ### Connect the other end of the red lead to
-`volkswagen_volkswagen_golf_2_en_6f47fe4c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:7
 
 the positive (+) terminal of the booster
 battery.
@@ -708,7 +669,6 @@ battery, on the vehicle to be started.
 4
 
 ### Make sure that the jump leads will not
-`volkswagen_volkswagen_golf_2_en_98509fef` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:7
 
 come into contact with the fan, drivebelts or other moving parts of the
 engine.
@@ -720,7 +680,6 @@ the reverse order of connection.
 6
 
 ### Jump starting
-`volkswagen_volkswagen_golf_2_en_7e36393e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:7
 
 Downloaded from www.Manualslib.com manuals search engine
 0•8 Roadside repairs
@@ -730,7 +689,6 @@ retaining strap and lift out the jack and
 tools from the centre of the wheel.
 
 ### Finally...
-`volkswagen_volkswagen_golf_2_en_8b70ebbf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:8
 
 M
 Remove the wheel chocks.
@@ -743,7 +701,6 @@ M
 Have the damaged tyre or wheel repaired as soon as possible.
 
 ### Locate the jack below the reinforced
-`volkswagen_volkswagen_golf_2_en_4672ec4e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:8
 
 point on the sill and on firm ground.  Turn
 the jack handle to raise the car until the
@@ -755,7 +712,6 @@ using the wheelbrace, then lower the car to
 the ground.
 
 ### Once the car is on the ground, tighten the
-`volkswagen_volkswagen_golf_2_en_15e16494` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:8
 
 wheel bolts securely in a diagonal pattern
 using the wheelbrace.  At the earliest
@@ -768,7 +724,6 @@ which must be undone first).  Slacken
 each wheel bolt by half a turn.
 
 ### Unscrew the retaining nut and lift the
-`volkswagen_volkswagen_golf_2_en_a412fd8e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:8
 
 wheel out of the vehicle.
 1
@@ -789,7 +744,6 @@ Use hazard warning lights if necessary.
 M
 
 ### If you have one, use a warning triangle to
-`volkswagen_volkswagen_golf_2_en_5b42f714` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:8
 
 alert other drivers of your presence.
 M
@@ -803,7 +757,6 @@ stones will do for this.
 M
 
 ### If the ground is soft, use a flat piece of
-`volkswagen_volkswagen_golf_2_en_293292b1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:8
 
 wood to spread the load under the jack.
 Changing the wheel
@@ -819,7 +772,6 @@ passing traffic while changing the wheel - it is easy to become distracted by
 the job in hand.
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_ad1bac79` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:8
 
 Roadside repairs 0•9
 When all else fails, you may find yourself
@@ -831,7 +783,6 @@ towing using another car is easy enough, but
 observe the following points:
 
 ### M Use a proper tow-rope – they are not
-`volkswagen_volkswagen_golf_2_en_dd99f0c0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:9
 
 expensive. The vehicle being towed must
 display an ‘ON TOW’ sign in its rear window.
@@ -841,7 +792,6 @@ that the steering lock is released, and that the
 direction indicator and brake lights will work.
 
 ### M Only attach the tow-rope to the towing
-`volkswagen_volkswagen_golf_2_en_91932e89` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:9
 
 eyes provided.
 M Before being towed, release the handbrake
@@ -855,7 +805,6 @@ brakes, since the vacuum servo unit is only
 operational with the engine running.
 
 ### M On models with power steering, greater-
-`volkswagen_volkswagen_golf_2_en_f0e8fae6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:9
 
 than-usual steering effort will also be required.
 M The driver of the car being towed must
@@ -865,7 +814,6 @@ M Make sure that both drivers know the route
 before setting off.
 
 ### M Only drive at moderate speeds and keep
-`volkswagen_volkswagen_golf_2_en_dba78a25` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:9
 
 the distance towed to a minimum. Drive
 smoothly and allow plenty of time for slowing
@@ -875,7 +823,6 @@ special precautions apply. If in doubt, do not
 tow, or transmission damage may result.
 
 ### Towing
-`volkswagen_volkswagen_golf_2_en_43e3696f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:9
 
 Puddles on the garage floor or drive, or
 obvious wetness under the bonnet or
@@ -889,7 +836,6 @@ giving a false impression of where the
 problem lies.
 
 ### Warning: Most automotive oils
-`volkswagen_volkswagen_golf_2_en_fe7ef5a2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:9
 
 and fluids are poisonous. Wash
 them off skin, and change out of
@@ -906,7 +852,6 @@ paper overnight as an aid to locating the
 source of the leak.
 
 ### Remember that some leaks may only
-`volkswagen_volkswagen_golf_2_en_01f08a3c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:9
 
 occur while the engine is running.
 Sump oil
@@ -921,7 +866,6 @@ Leaking antifreeze often leaves a crystalline
 deposit like this.
 
 ### Gearbox oil can leak from the seals at the
-`volkswagen_volkswagen_golf_2_en_f0775cf3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:9
 
 inboard ends of the driveshafts.
 A leak occurring at a wheel is almost
@@ -932,7 +876,6 @@ Downloaded from www.Manualslib.com manuals search engine
 0•10 Weekly checks
 
 ### There are some very simple checks which
-`volkswagen_volkswagen_golf_2_en_3fa8cc5a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:10
 
 need only take a few minutes to carry out, but
 which could save you a lot of inconvenience
@@ -943,7 +886,6 @@ they take to perform could prove to be very
 well spent, for example;
 
 ### M Keeping an eye on tyre condition and
-`volkswagen_volkswagen_golf_2_en_1e4f7377` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:10
 
 pressures, will not only help to stop them
 wearing out prematurely, but could also save
@@ -954,7 +896,6 @@ common, and a quick check on a regular basis
 will often prevent the majority of these.
 
 ### M If your car develops a brake fluid leak, the
-`volkswagen_volkswagen_golf_2_en_9b6b838e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:10
 
 first time you might know about it is when
 your brakes don't work properly. Checking
@@ -965,7 +906,6 @@ of repairing any engine damage will be far
 greater than fixing the leak, for example.
 
 ### Introduction
-`volkswagen_volkswagen_golf_2_en_2dd11a42` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:10
 
 § All models
 (typical)
@@ -983,7 +923,6 @@ G Battery
 Underbonnet check points
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4253c971` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:10
 
 Weekly checks 0•11
 Engine oil level
@@ -994,7 +933,6 @@ or at least 5 minutes after the engine has been
 switched off.
 
 ### The correct oil
-`volkswagen_volkswagen_golf_2_en_6dc16055` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:11
 
 Modern engines place great demands on their
 oil. It is very important that the correct oil for
@@ -1011,7 +949,6 @@ l Always maintain the level between the
 upper and lower dipstick marks (see photo 3).
 
 ### If the level is too low severe engine damage
-`volkswagen_volkswagen_golf_2_en_1a7d8cae` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:11
 
 may occur. Oil seal failure may result if the
 engine is overfilled by adding too much oil.
@@ -1022,7 +959,6 @@ components, resulting in an inaccurate
 reading on the dipstick!
 
 ### The dipstick is located at the right-hand
-`volkswagen_volkswagen_golf_2_en_30a2b54d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:11
 
 end of the engine (see “Underbonnet
 check points” on page 0•10 for exact
@@ -1033,7 +969,6 @@ dipstick  into the tube as far as it will go,
 then withdraw it again.
 
 ### Note the oil level on the end of the
-`volkswagen_volkswagen_golf_2_en_4c29bfa9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:11
 
 dipstick, which should be between the
 upper ("MAX") mark and lower ("MIN")
@@ -1043,7 +978,6 @@ mark.
 Oil is added through the filler cap.
 
 ### Unscrew the cap and top-up the level; a
-`volkswagen_volkswagen_golf_2_en_3473a898` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:11
 
 funnel may help to reduce spillage. Add
 the oil slowly, checking the level on the dipstick
@@ -1061,7 +995,6 @@ open containers of coolant
 about, as it is poisonous.
 
 ### Car Care
-`volkswagen_volkswagen_golf_2_en_90514496` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:11
 
 l With a sealed-type cooling system, adding
 coolant should not be necessary on a regular
@@ -1076,7 +1009,6 @@ alone, as the antifreeze will become too
 diluted.
 
 ### Coolant level
-`volkswagen_volkswagen_golf_2_en_49ae9e9b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:11
 
 The coolant level varies with the
 temperature of the engine. When the
@@ -1086,7 +1018,6 @@ side of the expansion tank. When the engine
 is hot, the level may rise slightly.
 
 ### If topping up is necessary, wait until the
-`volkswagen_volkswagen_golf_2_en_357af81f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:11
 
 engine is cold.  Slowly unscrew the
 expansion tank cap, to release any
@@ -1102,7 +1033,6 @@ clockwise as far as it will go until it is secure.
 3
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_119c55fb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:11
 
 0•12 Weekly checks
 Brake fluid level
@@ -1126,7 +1056,6 @@ dangerous loss of braking
 effectiveness.
 
 ### Safety First!
-`volkswagen_volkswagen_golf_2_en_148db9c1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:12
 
 l If the reservoir requires repeated toppingup this is an indication of a fluid leak
 somewhere in the system, which should be
@@ -1144,7 +1073,6 @@ level must never be allowed to drop
 below the “MIN” mark.
 
 ### The “MAX” and “MIN” marks are
-`volkswagen_volkswagen_golf_2_en_1186362e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:12
 
 indicated on the front of the reservoir.
 The fluid level must be kept between the
@@ -1157,7 +1085,6 @@ system.
 2
 
 ### Unscrew the reservoir cap and carefully
-`volkswagen_volkswagen_golf_2_en_5bf6c252` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:12
 
 lift it out of position, taking care not to
 damage the level switch float. Inspect the
@@ -1174,7 +1101,6 @@ the cap and wipe off any spilt fluid.
 4
 
 ### Power steering fluid level
-`volkswagen_volkswagen_golf_2_en_71f8cb5c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:12
 
 Before you start:
 4
@@ -1197,7 +1123,6 @@ not be turned once the
 engine has been stopped.
 
 ### The fluid reservoir is mounted next to the
-`volkswagen_volkswagen_golf_2_en_6d310880` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:12
 
 battery in the engine compartment.
 “MAX” and “MIN” level marks are
@@ -1214,7 +1139,6 @@ specified fluid.
 2
 
 ### After filling the reservoir to the proper
-`volkswagen_volkswagen_golf_2_en_b3f49512` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:12
 
 level, make sure that the cap is refitted
 securely to avoid leaks and the entry of
@@ -1233,7 +1157,6 @@ coolant antifreeze in the washer system -
 this could discolour or damage paintwork.
 
 ### Screen/headlamp washer fluid level
-`volkswagen_volkswagen_golf_2_en_b18188d2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:13
 
 When topping-up the reservoir(s) a
 screenwash additive should be added in
@@ -1259,7 +1182,6 @@ d = 300 mm
 3
 
 ### Wiper blades
-`volkswagen_volkswagen_golf_2_en_be5f333e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:13
 
 Check the condition of the wiper blades;
 if they are cracked or show any signs of
@@ -1275,7 +1197,6 @@ slide the blade out of the arm’s hooked end.
 2
 
 ### Don’t forget to check the tailgate wiper
-`volkswagen_volkswagen_golf_2_en_064eb4f8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:13
 
 blade as well. To remove the blade,
 depress the retaining tab and slide the
@@ -1286,7 +1207,6 @@ Downloaded from www.Manualslib.com manuals search engine
 Tyre condition and pressure
 
 ### It is very important that tyres are in good
-`volkswagen_volkswagen_golf_2_en_7ed87d07` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:14
 
 condition, and at the correct pressure - having
 a tyre failure at any speed is highly dangerous.
@@ -1301,7 +1221,6 @@ completely effective, you may have the
 expense of replacing all four tyres at once!
 
 ### Remove any nails or stones embedded in the
-`volkswagen_volkswagen_golf_2_en_891ff5bc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:14
 
 tread before they penetrate the tyre to cause
 deflation. If removal of a nail does reveal that
@@ -1311,7 +1230,6 @@ immediately change the wheel, and have the
 tyre repaired by a tyre dealer.
 
 ### Regularly check the tyres for damage in the
-`volkswagen_volkswagen_golf_2_en_6aea8b0d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:14
 
 form of cuts or bulges, especially in the
 sidewalls. Periodically remove the wheels,
@@ -1320,7 +1238,6 @@ outside surfaces. Examine the wheel rims for
 signs of rusting, corrosion or other damage.
 
 ### Light alloy wheels are easily damaged by
-`volkswagen_volkswagen_golf_2_en_e724e2f9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:14
 
 "kerbing" whilst parking; steel wheels may
 also become dented or buckled. A new wheel
@@ -1331,7 +1248,6 @@ fitted, but it may become necessary to rebalance them as they wear, or if the ba
 weights fitted to the wheel rim should fall off.
 
 ### Unbalanced tyres will wear more quickly, as
-`volkswagen_volkswagen_golf_2_en_aa2f511e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:14
 
 will the steering and suspension components.
 Wheel imbalance is normally signified by
@@ -1345,7 +1261,6 @@ balance. Wheel balancing should be carried
 out by a tyre dealer or garage.
 
 ### Tread Depth - visual check
-`volkswagen_volkswagen_golf_2_en_1fa85196` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:14
 
 The original tyres have tread wear safety
 bands (B), which will appear when the tread
@@ -1355,7 +1270,6 @@ mark on the tyre sidewall (A).
 1
 
 ### Tread Depth - manual check
-`volkswagen_volkswagen_golf_2_en_17d39c31` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:14
 
 Alternatively,
 tread
@@ -1373,7 +1287,6 @@ been used, or an inaccurate setting will result.
 3
 
 ### Tyre tread wear patterns
-`volkswagen_volkswagen_golf_2_en_f536b0ef` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:14
 
 Shoulder Wear
 Underinflation (wear on both sides)
@@ -1385,7 +1298,6 @@ excessive wear, not to mention the danger of
 sudden tyre failure due to heat build-up.
 
 ### Check and adjust pressures
-`volkswagen_volkswagen_golf_2_en_6658bbe4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:14
 
 Incorrect wheel camber (wear on one side)
 Repair or renew suspension parts
@@ -1399,7 +1311,6 @@ reduced grip, harsher ride, and the danger of
 shock damage occurring in the tyre casing.
 
 ### Check and adjust pressures
-`volkswagen_volkswagen_golf_2_en_c294de11` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:14
 
 If you sometimes have to inflate your car’s
 tyres to the higher pressures specified for
@@ -1413,7 +1324,6 @@ garages can check and adjust the wheel
 alignment (or "tracking") for a modest charge.
 
 ### Incorrect camber or castor
-`volkswagen_volkswagen_golf_2_en_69f07f9e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:14
 
 Repair or renew suspension parts
 Malfunctioning suspension
@@ -1426,7 +1336,6 @@ Note: The feathered edge of the tread which
 typifies toe wear is best checked by feel.
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_1613cd95` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:14
 
 Weekly checks 0•15
 Battery
@@ -1437,7 +1346,6 @@ vehicle battery, read the precautions given in
 condition, and that the clamp is tight.
 
 ### Corrosion on the tray, retaining clamp and the
-`volkswagen_volkswagen_golf_2_en_602ad8ed` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:15
 
 battery itself can be removed with a solution
 of water and baking soda. Thoroughly rinse all
@@ -1451,7 +1359,6 @@ battery as described in Chapter 5A.
 start your vehicle, see Roadside Repairs.
 
 ### The battery is located on the left-hand
-`volkswagen_volkswagen_golf_2_en_87e26469` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:15
 
 side of the engine compartment. The
 exterior of the battery should be
@@ -1462,7 +1369,6 @@ Check the tightness of battery clamps (A)
 to ensure good electrical connections.
 
 ### You should not be able to move them.
-`volkswagen_volkswagen_golf_2_en_6e070ad5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:15
 
 Also check each cable (B) for cracks and
 frayed conductors.
@@ -1481,7 +1387,6 @@ sell a tool for cleaning the battery post . . .
 4
 
 ### Electrical systems
-`volkswagen_volkswagen_golf_2_en_fefffd92` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:15
 
 4 Check all external lights and the horn.
 Refer to the appropriate Sections of Chapter 12 for details if any of the circuits are
@@ -1491,7 +1396,6 @@ connectors, harnesses and retaining clips for
 security, and for signs of chafing or damage.
 
 ### If you need to check your
-`volkswagen_volkswagen_golf_2_en_3827d689` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:15
 
 brake lights and indicators
 unaided, back up to a wall or
@@ -1503,7 +1407,6 @@ headlight has failed, it is likely that a bulb
 has blown and will need to be replaced.
 
 ### Refer to Chapter 12 for details. If both stop-
-`volkswagen_volkswagen_golf_2_en_5989f111` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:15
 
 lights have failed, it is possible that the switch
 has failed.
@@ -1516,7 +1419,6 @@ a removable cover.
 2
 
 ### To replace a blown fuse, simply pull it out
-`volkswagen_volkswagen_golf_2_en_55d6a3ac` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:15
 
 and fit a new fuse of the correct rating
 (see Chapter 12). If the fuse blows again,
@@ -1529,7 +1431,6 @@ Downloaded from www.Manualslib.com manuals search engine
 0•16 Lubricants and fluids
 
 ### Lubricants and fluids
-`volkswagen_volkswagen_golf_2_en_1601f331` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:16
 
 Component or system
 Lubricant or fluid
@@ -1538,7 +1439,6 @@ Multigrade engine oil to viscosity SAE 15W/50 or 20W/50
 Duckhams QXR, QS, Hypergrade Plus or Hypergrade
 
 ### Cooling system . . . . . . . . . . . . . . . . . . . . . .
-`volkswagen_volkswagen_golf_2_en_29bc897e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:16
 
 Ethylene-glycol based antifreeze with corrosion inhibitors.
 Duckhams Antifreeze & Summer Coolant. Mixture 50% by volume
@@ -1546,7 +1446,6 @@ Manual gearbox  . . . . . . . . . . . . . . . . . . . . .
 Gear oil, viscosity SAE 80
 
 ### Duckhams Hypoid 80 or Hypoid 75W/90S
-`volkswagen_volkswagen_golf_2_en_c6c69e17` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:16
 
 Automatic transmission . . . . . . . . . . . . . .
 Dexron type ATF
@@ -1557,7 +1456,6 @@ Gear oil, viscosity SAE 80
 Duckhams Hypoid 80 or Hypoid 75W/90S
 
 ### Automatic transmission . . . . . . . . . . . . . . . .
-`volkswagen_volkswagen_golf_2_en_ef2b3a7c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:16
 
 Gear oil, viscosity SAE 90EP
 Duckhams Hypoid 90S or Hypoid 75W/90S
@@ -1568,7 +1466,6 @@ Power steering system:
 pre-April 1989  . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Dexron type ATF
-`volkswagen_volkswagen_golf_2_en_0b9d1134` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:16
 
 Duckhams Uni-Matic
 post-April 1989  . . . . . . . . . . . . . . . . . . . . . .
@@ -1580,7 +1477,6 @@ the demand on lubricants to minimise wear as
 well as optimise power and economy.
 
 ### Duckhams tailors lubricants to the highest
-`volkswagen_volkswagen_golf_2_en_15342700` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:16
 
 technical standards, meeting and exceeding
 the demands of all modern engines.
@@ -1595,7 +1491,6 @@ build-up.
 • Cooling hot spots
 
 ### Oil cools parts that the engine’s water-based
-`volkswagen_volkswagen_golf_2_en_e60e4325` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:16
 
 coolant cannot reach, bathing the combustion
 chamber and pistons, where temperatures
@@ -1606,7 +1501,6 @@ over the sump, and via any auxiliary oil cooler.
 • Cleaning the inner engine
 
 ### Oil washes away combustion by-products
-`volkswagen_volkswagen_golf_2_en_854a9766` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:16
 
 (mainly carbon) on pistons and cylinders,
 transporting them to the oil filter, and holding
@@ -1616,7 +1510,6 @@ oils undergo extensive tests in the laboratory,
 and on the road.
 
 ### Engine oil types
-`volkswagen_volkswagen_golf_2_en_e1ca5707` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:16
 
 Mineral oils are the “traditional” oils,
 generally suited to older engines and cars not
@@ -1629,7 +1522,6 @@ Hypergrade Plus and Hypergrade are well
 suited for use in most popular family cars.
 
 ### Diesel oils such as Duckhams Diesel are
-`volkswagen_volkswagen_golf_2_en_cdc793c5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:16
 
 specially formulated for Diesel engines,
 including turbocharged models and 4x4s.
@@ -1639,7 +1531,6 @@ a fairly high price. One such is Duckhams QS,
 for use in ultra-high performance engines.
 
 ### Semi-synthetic oils offer high performance
-`volkswagen_volkswagen_golf_2_en_43c1b37e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:16
 
 engine protection, but at less cost than full
 synthetic oils. Duckhams QXR is an ideal choice
@@ -1650,7 +1541,6 @@ call Duckhams Oils
 on 0181 290 8207
 
 ### Choosing your engine oil
-`volkswagen_volkswagen_golf_2_en_3327db06` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:16
 
 Note: It is
 antisocial and
@@ -1665,7 +1555,6 @@ Downloaded from www.Manualslib.com manuals search engine
 Capacities and tyre pressures 0•17
 
 ### Component or system
-`volkswagen_volkswagen_golf_2_en_1d10a598` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:17
 
 Capacity
 Engine:
@@ -1687,7 +1576,6 @@ Cooling system . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 6.3 litres
 
 ### Manual gearbox:
-`volkswagen_volkswagen_golf_2_en_2d813a49` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:17
 
 084 type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.2 litres
@@ -1702,7 +1590,6 @@ Automatic transmission  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 3.0 litres service drain & fill
 
 ### Final drive:
-`volkswagen_volkswagen_golf_2_en_d626285e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:17
 
 Manual gearbox  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Included in gearbox capacity
@@ -1712,7 +1599,6 @@ Fuel tank . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 55.0 litres
 
 ### Tyre pressures (tyres cold)
-`volkswagen_volkswagen_golf_2_en_3e521778` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:17
 
 Capacities
 Front
@@ -1733,7 +1619,6 @@ Full load  . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.4 bar (35 lbf/in2)
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_faeb148f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:17
 
 0•18
 Notes
@@ -1785,7 +1670,6 @@ Slow running adjustment . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Spark plug renewal  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
 
 ### Steering gear check . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-`volkswagen_volkswagen_golf_2_en_6bcdcc05` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:19
 
 Steering gear check . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
 Sunroof guide rails cleaning and lubrication  . . . . . . . . . . . . . . . . . . . 34
@@ -1796,7 +1680,6 @@ Vehicle underbody check  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1•1
 
 ### Contents
-`volkswagen_volkswagen_golf_2_en_3e01c628` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:19
 
 Easy, suitable for
 novice with little
@@ -1812,7 +1695,6 @@ experienced  DIY
 mechanic
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_6941f4aa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:19
 
 suitable for expert DIY
 or  professional
@@ -1831,7 +1713,6 @@ Engine repair procedures -
 The following information is a revision of, or supplementary to, that contained in Part A of this Chapter
 
 ### General
-`volkswagen_volkswagen_golf_2_en_667c9493` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:20
 
 Code:
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -1844,7 +1725,6 @@ NZ
 2G
 
 ### Cylinder head
-`volkswagen_volkswagen_golf_2_en_30598878` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:20
 
 Minimum dimension after machining (skimming)  . . . . . . . . . . . . . . . . . .
 135.6 mm
@@ -1855,7 +1735,6 @@ Maximum radial play . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 0.10 mm
 
 ### Valves
-`volkswagen_volkswagen_golf_2_en_323893e1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:20
 
 Maximum seat width  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.2 mm
@@ -1866,7 +1745,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 29.0 mm
 
 ### Valve length:
-`volkswagen_volkswagen_golf_2_en_fecfdcbf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:20
 
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 98.9 mm
@@ -1874,7 +1752,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 99.1 mm
 
 ### Hydraulic tappets
-`volkswagen_volkswagen_golf_2_en_64d999ae` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:20
 
 Maximum free travel  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.1 mm
@@ -1885,7 +1762,6 @@ HZ
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 12°ATDC
-`volkswagen_volkswagen_golf_2_en_15822405` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:20
 
 5°ATDC
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -1894,7 +1770,6 @@ Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 25°BBDC
-`volkswagen_volkswagen_golf_2_en_d6cca01a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:20
 
 33°BBDC
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -1924,7 +1799,6 @@ Timing belt and sprockets - removal . . . . . . . . . . . . . . . . . . . . . . 
 6
 
 ### 2B•1
-`volkswagen_volkswagen_golf_2_en_3a011969` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:20
 
 Specifications
 Contents
@@ -1942,7 +1816,6 @@ experienced  DIY
 mechanic
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_55d944fc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:20
 
 suitable for expert DIY
 or  professional
@@ -1965,7 +1838,6 @@ Pump chain drive deflection . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1.5 to 2.5 mm
 
 ### Torque wrench settings
-`volkswagen_volkswagen_golf_2_en_07d2e1c6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:21
 
 Nm
 Ibf ft
@@ -1981,7 +1853,6 @@ Lower bolt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 14.7
 
 ### Camshaft bearing cap nuts:
-`volkswagen_volkswagen_golf_2_en_127fbeea` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:21
 
 Stage 1  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 6
@@ -1989,7 +1860,6 @@ Stage 1  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Stage 2  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Tighten by further 90°
-`volkswagen_volkswagen_golf_2_en_cfe0855a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:21
 
 Number 5 cap screws . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 10
@@ -2004,7 +1874,6 @@ Stage 2  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Stage 3  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Tighten by further 180°
-`volkswagen_volkswagen_golf_2_en_b4ed6f7b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:21
 
 Oil pump bolts  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 20
@@ -2020,7 +1889,6 @@ Socket-headed screws in sump (new)  . . . . . . . . . . . . . . . . . . . . . . 
 5.9
 
 ### Crankshaft sprocket bolt (oiled) - 1986-on:
-`volkswagen_volkswagen_golf_2_en_c347afee` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:21
 
 Stage 1  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 90
@@ -2028,7 +1896,6 @@ Stage 1  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Stage 2  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Tighten by further 180°
-`volkswagen_volkswagen_golf_2_en_ff10269f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:21
 
 Flywheel bolt (with shoulder)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 100
@@ -2042,7 +1909,6 @@ type tappets in place of the previously fitted
 “rocker finger” tappets.
 
 ### The oil pump has also been changed from
-`volkswagen_volkswagen_golf_2_en_bafa1c2d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:21
 
 the previously fitted crescent type to a gear
 type which is driven by chain from the
@@ -2053,7 +1919,6 @@ distributor.
 Unless otherwise given in the following
 
 ### Sections, all servicing procedures are as given
-`volkswagen_volkswagen_golf_2_en_988278a1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:21
 
 in Part A of this Chapter for the pre-August
 1985 1.05 and 1.3 litre engines.
@@ -2080,7 +1945,6 @@ or replace them with screw type clips
 3
 
 ### Camshaft oil seal - renewal 3
-`volkswagen_volkswagen_golf_2_en_52ffdc16` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:21
 
 1 This is a straightforward task if the
 camshaft is removed but it is possible to
@@ -2106,7 +1970,6 @@ home. Push it in as far as it will go.
 3.2  Renewing camshaft oil seal using
 
 ### VW tool 2085
-`volkswagen_volkswagen_golf_2_en_37004694` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:21
 
 Downloaded from www.Manualslib.com manuals search engine
 4
@@ -2154,7 +2017,6 @@ seal.
 5
 
 ### Cylinder head - dismantling
-`volkswagen_volkswagen_golf_2_en_fabff508` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:22
 
 and overhaul
 3
@@ -2177,7 +2039,6 @@ serviceable. Consult your VW dealer for
 advice.
 
 ### Hydraulic bucket tappets
-`volkswagen_volkswagen_golf_2_en_92b6989d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:22
 
 4 With the camshaft removed, lift out the
 tappets one by one, ensuring that they are
@@ -2195,7 +2056,6 @@ liberally with clean engine oil and slip each
 tappet back into its original bore.
 
 ### Valves
-`volkswagen_volkswagen_golf_2_en_1c18bb65` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:22
 
 9 With the camshaft and tappets removed,
 use a valve spring compressor with a deep
@@ -2218,7 +2078,6 @@ are too short.
 16 Refitting is a reversal of removal.
 
 ### Valve stem oil seals
-`volkswagen_volkswagen_golf_2_en_c205bd95` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:22
 
 17 The valve stem oil seals should be
 renewed whenever the valves are removed,
@@ -2236,7 +2095,6 @@ camshaft sprocket
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_60bcacec` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:22
 
 18 With the seals removed, the lower spring
 seats can also be lifted out for cleaning. Press
@@ -2252,7 +2110,6 @@ with the groove in the crankshaft, replacing
 the Woodruff key arrangement described in
 
 ### Part A if this Chapter.
-`volkswagen_volkswagen_golf_2_en_90a0e7bd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:23
 
 When tightening the crankshaft sprocket
 bolt, observe the specified stages.
@@ -2300,7 +2157,6 @@ associated parts at the same time.
 8
 
 ### Camshaft - examination
-`volkswagen_volkswagen_golf_2_en_9554a121` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:23
 
 3
 1 Clean the camshaft in solvent, then inspect
@@ -2313,7 +2169,6 @@ caps.
 measured using the Plastigage method.
 
 ### Compare the results with the specified
-`volkswagen_volkswagen_golf_2_en_3606039c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:23
 
 dimension.
 4 If wear is evident, consult your VW dealer.
@@ -2333,7 +2188,6 @@ specified, consult your VW dealer.
 1
 
 ### Oil pump
-`volkswagen_volkswagen_golf_2_en_f145215c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:23
 
 2
 Chain
@@ -2359,7 +2213,6 @@ damaged, renew it.
 d) Fit a new crankshaft oil seal to the cover.
 
 ### The oil seal can be prised out and a new
-`volkswagen_volkswagen_golf_2_en_bfdcbf93` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:24
 
 one pressed fully home.
 e) The chain is tensioned by moving the
@@ -2393,7 +2246,6 @@ figure specified (see illustration).
 6 Tighten the nuts on caps 1, 3 and 5 to the
 
 ### Stage 1 torque.
-`volkswagen_volkswagen_golf_2_en_c5fe39de` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:24
 
 7 Once all nuts have been tightened to the
 Stage 1 torque, tighten all nuts a further 90°
@@ -2407,7 +2259,6 @@ torque (see illustration).
 compartment, follow the procedure given in
 
 ### Part A of this Chapter, Section 35, paragraphs
-`volkswagen_volkswagen_golf_2_en_fa72fe21` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:24
 
 9 to 18.
 10 Ignore any reference to the oil spray tube
@@ -2435,7 +2286,6 @@ nut
 10.2  Refitting the camshaft
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_c5830da6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:24
 
 3 If they have been removed, refit the oil
 pressure switches, using new copper sealing
@@ -2468,7 +2318,6 @@ head and camshaft sprocket are lined up.
 12 Note that none of the pistons should be at
 
 ### TDC when refitting the cylinder head.
-`volkswagen_volkswagen_golf_2_en_4fdc6fc4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:25
 
 13 Position a new cylinder head gasket on
 the cylinder block (see illustration).
@@ -2492,7 +2341,6 @@ housing
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_e748d43f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:25
 
 guide the cylinder head into position but this
 can be done using suitable sized rods
@@ -2503,7 +2351,6 @@ sequence but use the torque figures and
 stages given in the Specifications of this
 
 ### Chapter.
-`volkswagen_volkswagen_golf_2_en_aa3567b7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:26
 
 16 It is not necessary to retighten the bolts
 after a period of service, as is normally the
@@ -2543,7 +2390,6 @@ under the inlet manifold nut.
 25 With reference to Part A of this Chapter,
 
 ### Section 37, refit the timing belt and covers.
-`volkswagen_volkswagen_golf_2_en_94c1d1bc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:26
 
 26 Refit the throttle cable.
 27 Refit the spark plugs, air cleaner and
@@ -2589,7 +2435,6 @@ connection
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_0705858e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:26
 
 7 Press the tappet down using a wooden or
 plastic wedge (see illustration).
@@ -2600,7 +2445,6 @@ major overhaul
 2
 
 ### If the valve tappets have been renewed, it is
-`volkswagen_volkswagen_golf_2_en_9d6f91c6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:27
 
 essential that no attempt to restart the engine
 is made for a minimum period of 30 minutes
@@ -2612,7 +2456,6 @@ caused by the valves contacting the pistons.
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_7d456e1e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:27
 
 1081 VW Golf & Jeta
 2A
@@ -2623,7 +2466,6 @@ General
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Four-cylinder in-line, water cooled, overhead camshaft
-`volkswagen_volkswagen_golf_2_en_860ad6c2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:28
 
 Code:
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -2634,7 +2476,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1-3-4-2 (No 1 at camshaft sprocket end)
 
 ### Displacement:
-`volkswagen_volkswagen_golf_2_en_7c295196` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:28
 
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1043 cc
@@ -2642,7 +2483,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1272 cc
 
 ### Bore:
-`volkswagen_volkswagen_golf_2_en_8f958765` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:28
 
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 75.0 mm
@@ -2650,7 +2490,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 75.0 mm
 
 ### Stroke:
-`volkswagen_volkswagen_golf_2_en_ee5b0604` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:28
 
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 59.0 mm
@@ -2658,7 +2497,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 72.0 mm
 
 ### Compression ratio:
-`volkswagen_volkswagen_golf_2_en_1f855405` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:28
 
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 9.5 to 1
@@ -2666,7 +2504,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 9.5 to 1
 
 ### Compression pressure:
-`volkswagen_volkswagen_golf_2_en_24ab29f2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:28
 
 New . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 8 to 10 bar
@@ -2715,7 +2552,6 @@ Oil filter - renewal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Oil pump - examination and renovation  . . . . . . . . . . . . . . . . . . . . . . 24
 
 ### Oil pump - refitting . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-`volkswagen_volkswagen_golf_2_en_a9486a02` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:28
 
 Oil pump - refitting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
 Oil pump - removal  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
@@ -2730,7 +2566,6 @@ Timing belt and sprockets - removal . . . . . . . . . . . . . . . . . . . . . . 
 Valve clearances - checking and adjustment  . . . . . . . . . . . . . . . . . . 38
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_c295f3fd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:28
 
 suitable for expert DIY
 or  professional
@@ -2749,7 +2584,6 @@ Undersizes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 53.75, 53.50 and 53.25 mm
 
 ### Crankpin:
-`volkswagen_volkswagen_golf_2_en_98c99513` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Standard diameter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 42 mm
@@ -2757,7 +2591,6 @@ Journal undersizes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 41.75, 41.50 and 41.25 mm
 
 ### Endfloat:
-`volkswagen_volkswagen_golf_2_en_ece09a2a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Maximum  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.20 mm
@@ -2767,7 +2600,6 @@ Main bearing maximum running clearance  . . . . . . . . . . . . . . . . . . . . 
 0.17 mm
 
 ### Connecting rods
-`volkswagen_volkswagen_golf_2_en_6042d971` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Big-end:
 Maximum running clearance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -2776,7 +2608,6 @@ Maximum endfloat  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 0.40 mm
 
 ### Pistons
-`volkswagen_volkswagen_golf_2_en_b5d4bdcf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Clearance in bore:
 Maximum  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -2785,7 +2616,6 @@ Minimum  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.03 mm
 
 ### Diameter:
-`volkswagen_volkswagen_golf_2_en_2865434c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Standard  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 74.98 mm
@@ -2800,7 +2630,6 @@ Wear limit (10 mm from base/ right angles to pin)  . . . . . . . . . . . . . . .
 0.04 mm
 
 ### Piston rings
-`volkswagen_volkswagen_golf_2_en_bbf7b294` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Maximum clearance in groove.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.15 mm
@@ -2811,7 +2640,6 @@ Oil scraper ring  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 0.25 to 0.40 mm
 
 ### Gudgeon pin
-`volkswagen_volkswagen_golf_2_en_eb30eb1f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:29
 
 Fit in piston  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Push fit at 60°C
@@ -2820,7 +2648,6 @@ Maximum allowable face distortion  . . . . . . . . . . . . . . . . . . . . . . .
 0.1 mm
 
 ### Camshaft
-`volkswagen_volkswagen_golf_2_en_8290677e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Run-out at centre bearing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.02 mm
@@ -2828,7 +2655,6 @@ Endfloat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.15 mm
 
 ### Valves
-`volkswagen_volkswagen_golf_2_en_c1a5c54f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:29
 
 Seat angle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 45°
@@ -2839,7 +2665,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 28.1 mm
 
 ### Stem diameter:
-`volkswagen_volkswagen_golf_2_en_d15164fa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 7.97 mm
@@ -2847,7 +2672,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 7.95 mm
 
 ### Standard overall length:
-`volkswagen_volkswagen_golf_2_en_2f38400a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 110.5 mm
@@ -2855,7 +2679,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 110.5 mm
 
 ### Valve guides
-`volkswagen_volkswagen_golf_2_en_5c019bd8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:29
 
 Maximum valve rock (stem flush with guide):
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -2864,7 +2687,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.3 mm
 
 ### Valve timing
-`volkswagen_volkswagen_golf_2_en_98666d7f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:29
 
 Nil valve clearance at 1.0 mm valve lift
 1.05 litre:
@@ -2873,14 +2695,12 @@ Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 13° ABDC
-`volkswagen_volkswagen_golf_2_en_fc49f641` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 15° BBDC
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 11° BTDC
-`volkswagen_volkswagen_golf_2_en_a1c97368` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:29
 
 2A•2 Engine repair procedures - 1.05 and 1.3 litre pre August 1985
 1081 VW Golf & Jeta
@@ -2889,14 +2709,12 @@ Downloaded from www.Manualslib.com manuals search engine
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3° BTDC
-`volkswagen_volkswagen_golf_2_en_58b4eb1e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:30
 
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 38° ABDC
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 41° BBDC
-`volkswagen_volkswagen_golf_2_en_deb3252e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:30
 
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 3° BTDC
@@ -2908,7 +2726,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.25 to 0.30 mm
 
 ### Cold:
-`volkswagen_volkswagen_golf_2_en_0e63835a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:30
 
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.10 to 0.15 mm
@@ -2916,21 +2733,18 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.20 to 0.25 mm
 
 ### Lubrication
-`volkswagen_volkswagen_golf_2_en_a91849b2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:30
 
 System type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Wet sump, pressure feed, full flow filter
 Lubricant type/specification/capacity  . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Refer to “Lubricants, fluids and capacities”
-`volkswagen_volkswagen_golf_2_en_85c7456d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:30
 
 Filter type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion C101/C160
 Pump type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Eccentric gear driven by crankshaft
-`volkswagen_volkswagen_golf_2_en_45803276` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:30
 
 Pressure (2000 rpm with oil temperature 80°C)  . . . . . . . . . . . . . . . . . . .
 2.0 bar minimum
@@ -2963,7 +2777,6 @@ Oil pump bolts  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 7
 
 ### Connecting rod big-end cap nuts (oiled):
-`volkswagen_volkswagen_golf_2_en_965dc505` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:30
 
 Stage 1  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 30
@@ -2971,7 +2784,6 @@ Stage 1  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Stage 2*  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Tighten further 1/4 turn (90°)
-`volkswagen_volkswagen_golf_2_en_7b86ead3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:30
 
 Oil suction pipe to pump  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 10
@@ -3002,7 +2814,6 @@ Distributor flange bolts  . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 15
 
 ### Cylinder head bolts (engine cold):
-`volkswagen_volkswagen_golf_2_en_3fabf566` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:30
 
 Stage 1  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 40
@@ -3013,7 +2824,6 @@ Stage 2  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Stage 3  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Tighten further 1/2 turn (180°)
-`volkswagen_volkswagen_golf_2_en_139466ed` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:30
 
 Engine mountings (with oiled threads):
 Refer to illustrations 40.1a and 40.1b
@@ -3048,7 +2858,6 @@ Engine repair procedures - 1.05 and 1.3 litre pre August 1985  2A•3
 1
 
 ### General information
-`volkswagen_volkswagen_golf_2_en_9028a86f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:30
 
 The 1.05 and 1.3 litre engines are of
 four-cylinder, in-line, overhead camshaft type,
@@ -3057,7 +2866,6 @@ vehicle. The transmission is attached to the
 left-hand side of the engine.
 
 ### The crankshaft is of five bearing type and
-`volkswagen_volkswagen_golf_2_en_581ff43d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:30
 
 separate thrustwashers are fitted to the
 central main bearing to control crankshaft
@@ -3072,7 +2880,6 @@ is driven by the camshaft and is located on the
 left-hand end of the cylinder head.
 
 ### The oil pump is of the eccentric gear type
-`volkswagen_volkswagen_golf_2_en_3fb935a5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:30
 
 driven from the end of the crankshaft.
 The cylinder head is of crossflow design,
@@ -3083,7 +2890,6 @@ positive type and consists of an oil separator
 on the rear (coolant pipe side) of the cylinder
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_a58101c5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:30
 
 block, connected to the air cleaner by a
 rubber hose. Vacuum from the air cleaner
@@ -3094,7 +2900,6 @@ combustion chambers.
 2
 
 ### Major operations possible
-`volkswagen_volkswagen_golf_2_en_81603fb5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:31
 
 with engine in vehicle
 The following operations can be carried out
@@ -3115,7 +2920,6 @@ g) Removal of the oil pump
 3
 
 ### Major operation only
-`volkswagen_volkswagen_golf_2_en_2a93482f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:31
 
 possible after removal of
 engine from vehicle
@@ -3160,7 +2964,6 @@ observe the precautions listed in Chapter 3.
 5
 
 ### Engine - removal
-`volkswagen_volkswagen_golf_2_en_3a221da2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:31
 
 4
 1 Disconnect the battery negative lead.
@@ -3179,7 +2982,6 @@ then disconnect them from the fuel pump (see
 illustration) and fuel reservoir/carburettor.
 
 ### Plug the hoses to prevent fuel leakage.
-`volkswagen_volkswagen_golf_2_en_4cefa277` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:31
 
 8 Loosen the clip and disconnect the bottom
 hose from the coolant pipe at the rear of the
@@ -3235,7 +3037,6 @@ coated with a liquid locking agent and if
 5.14  Earth lead (A) and clutch cable (B)
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_0287dad2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:31
 
 difficulty is experienced, it may be necessary
 to heat up the coupling with a blowlamp whilst
@@ -3290,7 +3091,6 @@ piece of wood placed on the floor.
 6
 
 ### Engine/gearbox - separation 3
-`volkswagen_volkswagen_golf_2_en_e6bb143d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:32
 
 1 The
 engine/gearbox
@@ -3317,7 +3117,6 @@ Engine repair procedures - 1.05 and 1.3 litre pre August 1985  2A•5
 5.28  Lifting out engine/gearbox unit
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_fb780066` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:32
 
 3 Because the rear bearing of the starter
 armature is in the bellhousing, it is necessary
@@ -3345,7 +3144,6 @@ position (see illustrations).
 7
 
 ### Engine dismantling - general
-`volkswagen_volkswagen_golf_2_en_7e9b1b51` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:33
 
 information
 1 If possible, mount the engine on a stand for
@@ -3375,7 +3173,6 @@ available.
 washers in their location after being removed.
 
 ### This helps to protect the threads and will also
-`volkswagen_volkswagen_golf_2_en_ace89c58` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:33
 
 be helpful when reassembling the engine.
 8 Retain unserviceable components in order
@@ -3422,7 +3219,6 @@ from above
 1081 VW Golf & Jeta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_054577fe` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:33
 
 9
 Cylinder head - removal
@@ -3437,7 +3233,6 @@ d) Remove the distributor and spark plugs
 e) Remove the inlet and exhaust manifolds.
 
 ### If necessary, this can be carried out with
-`volkswagen_volkswagen_golf_2_en_a1cf9800` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:34
 
 the cylinder head on the bench
 f) Disconnect the wiring from the coolant
@@ -3498,7 +3293,6 @@ Engine repair procedures - 1.05 and 1.3 litre pre August 1985  2A•7
 9.3b  Crankshaft pulley notch aligned with TDC pointer
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_e54a89ef` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:34
 
 10 Camshaft - removal
 3
@@ -3583,7 +3377,6 @@ cylinder head (see illustration).
 1081 VW Golf & Jeta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_2c716709` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:35
 
 11 Cylinder head - dismantling
 and overhaul
@@ -3610,7 +3403,6 @@ unless they are unserviceable. They are likely
 to be seized in the head.
 
 ### Overhaul
-`volkswagen_volkswagen_golf_2_en_a832f95c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:36
 
 6 Use a scraper to carefully remove any
 carbon from the cylinder head. Remove all
@@ -3646,7 +3438,6 @@ specialist.
 10 Valve grinding is carried out as follows.
 
 ### Place the cylinder head upside down on a
-`volkswagen_volkswagen_golf_2_en_2cf8759c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:36
 
 bench with a block of wood at each end.
 Smear a trace of coarse carborundum paste
@@ -3677,7 +3468,6 @@ valve guide. The rock limit for the inlet valve is
 1.0 mm and 1.3 mm for the exhaust valve.
 
 ### This can be measured with feeler blades if you
-`volkswagen_volkswagen_golf_2_en_3d48d160` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:36
 
 use a clamp as a datum but it must be with a
 new valve. If the rock is at or below this limit
@@ -3697,7 +3487,6 @@ Engine repair procedures - 1.05 and 1.3 litre pre August 1985  2A•9
 between points indicated
 
 ### Minimum allowable depth a = 119.3 mm
-`volkswagen_volkswagen_golf_2_en_b2181cac` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:36
 
 1081 VW Golf & Jeta
 11.2a  Compressing a valve spring to remove split collets
@@ -3763,7 +3552,6 @@ stationary with a lever inserted in the starter
 ring gear (remove the starter as applicable).
 
 ### Remove the Woodruff key.
-`volkswagen_volkswagen_golf_2_en_d96619c9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:37
 
 13 Flywheel - removal
 3
@@ -3780,7 +3568,6 @@ they are removed.
 14 Crankshaft oil seals - renewal 3
 
 ### Front seal
-`volkswagen_volkswagen_golf_2_en_1a434a62` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:37
 
 1 Remove the crankshaft sprocket.
 2 If available, use VW tool 2085 to remove the
@@ -3805,7 +3592,6 @@ metal tube .
 6 Refit the crankshaft sprocket.
 
 ### Rear seal
-`volkswagen_volkswagen_golf_2_en_5e5aa61e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:37
 
 7 Remove the flywheel.
 Method 1
@@ -3819,7 +3605,6 @@ the housing using a suitable metal tube
 11 Refit the flywheel.
 
 ### Method 2
-`volkswagen_volkswagen_golf_2_en_ab6d2b70` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:37
 
 12 Remove the sump.
 13 Unscrew the bolts and withdraw the
@@ -3837,7 +3622,6 @@ stationary
 1081 VW Golf & Jeta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_54e202b3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:37
 
 14 Support the housing and drive out the oil
 seal (see illustration).
@@ -3881,7 +3665,6 @@ sprocket.
 strainer from the oil pump and cylinder block.
 
 ### Remove the flange gasket (see illustration).
-`volkswagen_volkswagen_golf_2_en_f4c3a180` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:38
 
 4 Unscrew the bolts and withdraw the oil
 pump from the dowels on the front of the
@@ -3908,7 +3691,6 @@ seal
 1081 VW Golf & Jeta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_71772a44` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:38
 
 17 Pistons and connecting rods
 - removal
@@ -3985,7 +3767,6 @@ position (see illustration).
 1
 
 ### Refer to Chapter 1, Section 18
-`volkswagen_volkswagen_golf_2_en_b01d922d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:39
 
 20 Examination and renovation
 - general information
@@ -4010,7 +3791,6 @@ numbering
 1081 VW Golf & Jeta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_5544e107` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:39
 
 21 Crankshaft and bearings -
 examination and renovation 5
@@ -4095,7 +3875,6 @@ end gaps are as specified (see illustration).
 that the TOP markings face towards the
 
 ### piston crown and arrange the end gaps at
-`volkswagen_volkswagen_golf_2_en_fb348b34` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:40
 
 piston crown and arrange the end gaps at
 120° intervals (see illustration). Using a feeler
@@ -4107,7 +3886,6 @@ renovation
 3
 
 ### Note: The manufacturer does not supply any
-`volkswagen_volkswagen_golf_2_en_e9daa10c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:40
 
 clearances for checking oil pump gear wear,
 so the pump must be assumed to be in good
@@ -4139,7 +3917,6 @@ clearance
 1081 VW Golf & Jeta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_2c8a368d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:40
 
 4 Clean the components in paraffin and wipe
 dry, then examine them for wear and damage.
@@ -4179,7 +3956,6 @@ renovation
 3
 
 ### Examine the camshaft bearing surfaces,
-`volkswagen_volkswagen_golf_2_en_434b4452` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:41
 
 cam lobes and followers for wear. If wear is
 excessive, renew the camshaft and followers.
@@ -4191,7 +3967,6 @@ specified, renew the shaft (see illustration).
 information
 
 ### To ensure maximum life with minimum
-`volkswagen_volkswagen_golf_2_en_f5d94c87` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:41
 
 trouble from a rebuilt engine, adhere to the
 following:
@@ -4220,7 +3995,6 @@ must face cover
 24.1b  . . . and remove spring and plunger
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_cf14e02b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:41
 
 29 Crankshaft and main
 bearings - refitting
@@ -4316,7 +4090,6 @@ tighten them evenly to the specified torque
 Engine repair procedures - 1.05 and 1.3 litre pre August 1985  2A•15
 
 ### 29.2 Fitting centre main bearing shell
-`volkswagen_volkswagen_golf_2_en_e3496837` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:42
 
 2A
 29.2  Fitting centre main bearing shell
@@ -4331,7 +4104,6 @@ bearings (arrowed)
 1081 VW Golf & Jeta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_c7856dcd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:42
 
 5 Locate a new gasket on the flange face
 then fit the pick-up tube and strainer. Insert
@@ -4365,7 +4137,6 @@ block dowels.
 crankshaft then locate the flywheel in position.
 
 ### Note that the bolt holes only align in one
-`volkswagen_volkswagen_golf_2_en_20c58634` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:43
 
 position as they are offset.
 3 Apply locking fluid to the threads of new
@@ -4391,7 +4162,6 @@ stem, then compress the spring with the
 compressor and insert the split collets.
 
 ### Release the compressor and remove it.
-`volkswagen_volkswagen_golf_2_en_42903496` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:43
 
 6 Refit the camshaft.
 35 Camshaft - refitting
@@ -4412,7 +4182,6 @@ camshaft endfloat is as specified.
 the camshaft followed by the spacer and bolt.
 
 ### Tighten the bolt while holding the sprocket
-`volkswagen_volkswagen_golf_2_en_57e2903d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:43
 
 stationary with a metal bar and two bolts (see
 illustration).
@@ -4439,7 +4208,6 @@ ball-stud
 1081 VW Golf & Jeta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_9733c761` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:43
 
 8 Adjust the valve clearances.
 9 Turn the camshaft so that the indentation in
@@ -4524,7 +4292,6 @@ the earth lead and dipstick tube bracket and
 tighten the bolts.
 
 ### 17 Refit the valve cover with a new gasket,
-`volkswagen_volkswagen_golf_2_en_3e18cc1d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:44
 
 17 Refit the valve cover with a new gasket,
 locate the reinforcement strips and tighten the
@@ -4545,7 +4312,6 @@ timing belt
 1081 VW Golf & Jeta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_7823b754` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:44
 
 37 Timing belt and sprockets -
 refitting
@@ -4559,7 +4325,6 @@ with a lever in the starter ring gear.
 the sprocket followed by the spacer and bolt.
 
 ### Tighten the bolt while holding the sprocket
-`volkswagen_volkswagen_golf_2_en_d78f609e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:45
 
 stationary with a metal bar and two bolts.
 4 Locate the timing belt on the crankshaft
@@ -4595,7 +4360,6 @@ adjusted with the cylinder head removed
 normal manner described in Section 12 of
 
 ### Chapter 1.
-`volkswagen_volkswagen_golf_2_en_e9adc6e5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:45
 
 2 There are two specified valve clearance
 settings, these being for a cold (cylinder head
@@ -4610,7 +4374,6 @@ and gearbox - refitting
 3
 
 ### Refer to Section 8 and refit the listed
-`volkswagen_volkswagen_golf_2_en_1e2a91e2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:45
 
 ancillary components.
 Refit the gearbox to the engine, reversing
@@ -4674,7 +4437,6 @@ see Specifications for torque settings
 see Specifications for torque settings
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_660da97b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:45
 
 1•2 Servicing specifications
 1081 VW Golf & Jetta
@@ -4684,7 +4446,6 @@ Engine
 Oil filter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion C101/C160
-`volkswagen_volkswagen_golf_2_en_05b00214` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 Valve clearances
 1.05 and 1.3 litre engines - pre August 1985:
@@ -4695,7 +4456,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.25 to 0.30 mm
 
 ### Cold:
-`volkswagen_volkswagen_golf_2_en_dede17b7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:46
 
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.10 to 0.15 mm
@@ -4703,7 +4463,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.20 to 0.25 mm
 
 ### Hydraulic tappet free travel
-`volkswagen_volkswagen_golf_2_en_bfc49ef9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:46
 
 1.05 and 1.3 litre - post August 1985, 1.6 and 1.8 litre (Maximum travel)  . .
 0.1 mm
@@ -4712,7 +4471,6 @@ Antifreeze mixture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 50 % antifreeze (by volume) with water
 
 ### Air conditioning system
-`volkswagen_volkswagen_golf_2_en_f439dd90` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 Compressor drivebelt tension  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 5.0 to 10.0 mm deflection on longest run
@@ -4722,14 +4480,12 @@ Carburettor engines:
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion W101
-`volkswagen_volkswagen_golf_2_en_53052d7e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:46
 
 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion W102
 1.6 and 1.8 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion U508
-`volkswagen_volkswagen_golf_2_en_0a47bc28` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 Fuel-injected engines:
 K-Jetronic on 16 valve engine:
@@ -4739,14 +4495,12 @@ All other systems:
 1.8 litre Golf . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion U506
-`volkswagen_volkswagen_golf_2_en_d467c903` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 1.8 litre Jetta  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion U502
 1.8 litre GTi ( engine code RP)  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion U572
-`volkswagen_volkswagen_golf_2_en_37c107ee` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 Fuel filter element types
 Carburettor engines (all models) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -4756,7 +4510,6 @@ K-Jetronic on 16 valve engine:
 1.8 litre Golf . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion L203
-`volkswagen_volkswagen_golf_2_en_e4d05ec7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 1.8 litre Jetta  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion L206
@@ -4764,7 +4517,6 @@ All other systems:
 1.8 litre GTi ( engine code RP)  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion L206
-`volkswagen_volkswagen_golf_2_en_1e961c57` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 All other models  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion L204*
@@ -4788,7 +4540,6 @@ Pierburg/Solex 2E2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 900 to 1000 rpm
 
 ### K-Jetronic fuel-injected engine:
-`volkswagen_volkswagen_golf_2_en_0b6d1679` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 8 valve:
 Pre Sept. 1984  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -4803,7 +4554,6 @@ Mono Jetronic fuel-injected engine  . . . . . . . . . . . . . . . . . . . . . . 
 750 to 950 rpm (not adjustable)
 
 ### Digijet fuel-injected engine:
-`volkswagen_volkswagen_golf_2_en_5f1ff039` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 Up to July 1989 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 750 to 850 rpm
@@ -4813,7 +4563,6 @@ Digifant fuel-injected engine . . . . . . . . . . . . . . . . . . . . . . . . . 
 750 to 850 rpm
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_2beffce4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 CO content (%)
 1.05 litre carburettor engines:
@@ -4836,7 +4585,6 @@ Mono Jetronic fuel-injected engine  . . . . . . . . . . . . . . . . . . . . . . 
 0.2 to 1.2
 
 ### Digijet fuel-injected engine:
-`volkswagen_volkswagen_golf_2_en_105c91bb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:47
 
 Up to July 1989 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.3 to 1.1
@@ -4846,7 +4594,6 @@ Digifant fuel-injected engine . . . . . . . . . . . . . . . . . . . . . . . . . 
 0.5 to 1.5
 
 ### Ignition system
-`volkswagen_volkswagen_golf_2_en_cc13dc19` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:47
 
 Firing order (all engines)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1-3-4-2 (No. 1 cylinder at crankshaft pulley end)
@@ -4854,7 +4601,6 @@ Contact breaker system
 Spark plugs*:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Type
-`volkswagen_volkswagen_golf_2_en_73c5e564` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:47
 
 Electrode gap
 1.05, 1.3, 1.6 and 1.8 litre (pre July 1985) . . . . . . . . . . . . . . . . . . . . . .
@@ -4864,14 +4610,12 @@ Champion N7YCC or N7YC
 recommendations
 
 ### HT lead type:
-`volkswagen_volkswagen_golf_2_en_df3a468d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:47
 
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion LS-05 boxed set
 1.3, 1.6 and 1.8 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion LS-07 boxed set
-`volkswagen_volkswagen_golf_2_en_f5f9687d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:47
 
 Distributor:
 Contact breaker gap (initial setting only)  . . . . . . . . . . . . . . . . . . . . . .
@@ -4883,7 +4627,6 @@ Wear limit  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 42 to 58° (47 to 64%)
 
 ### Ignition timing (at idle):
-`volkswagen_volkswagen_golf_2_en_55b083d8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:47
 
 1.05 and 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 4 to 6° BTDC
@@ -4893,7 +4636,6 @@ Wear limit  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 5 to 7° BTDC
 
 ### Transistorised system
-`volkswagen_volkswagen_golf_2_en_2dadde71` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:47
 
 Spark plugs*:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Type
@@ -4902,7 +4644,6 @@ pre Sept. 1985:
 1.05, 1.3, 1.6, 1.8 litre (pre July 1985) . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion N7YCC or N7YC
-`volkswagen_volkswagen_golf_2_en_3bd773f5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:47
 
 0.8 mm or 0.7 mm
 from Sept. 1985:
@@ -4913,7 +4654,6 @@ Champion N7BYC or N7YCC
 Coil with green sticker . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion N9BYC4 or N9YCC
-`volkswagen_volkswagen_golf_2_en_5cd6e0ab` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:47
 
 1.0 mm
 Coil with grey sticker . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -4923,7 +4663,6 @@ Champion N9YCC
 Except 16V  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion N7BYC or N7YCC
-`volkswagen_volkswagen_golf_2_en_2c03672e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:47
 
 0.8 mm
 16V  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -4933,14 +4672,12 @@ Champion C6BYC or C6YCC
 recommendations
 
 ### HT lead type:
-`volkswagen_volkswagen_golf_2_en_726e5af7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:47
 
 1.05 litre.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion LS-05 boxed set
 1.3, 1.6 and 1.8 litre.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion LS-07 boxed set
-`volkswagen_volkswagen_golf_2_en_b70f3238` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:47
 
 Distributor:
 Dwell angle (1.05,1.3 and 1.6 litre):
@@ -4950,7 +4687,6 @@ Wear limit  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 42 to 58° (47 to 64%)
 
 ### Ignition timing:
-`volkswagen_volkswagen_golf_2_en_24f3d2c8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:47
 
 1.3 litre (code NZ) - TCI-H  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 4 to 6° BTDC at 750 to 850 rpm, with vacuum hose disconnected
@@ -4965,7 +4701,6 @@ Code RP - TCI-H . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 5 to 7° BTDC at 950 rpm, with vacuum hose disconnected
 
 ### Fully electronic system
-`volkswagen_volkswagen_golf_2_en_3c428ac8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:47
 
 All Specifications as for Transistorised System except for:
 Ignition timing:
@@ -4973,7 +4708,6 @@ Ignition timing:
 5 to 7° BTDC at 950 to 1050 rpm, with vacuum hose connected
 
 ### Servicing specifications 1•3
-`volkswagen_volkswagen_golf_2_en_3758e584` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:47
 
 1
 1081 VW Golf & Jetta
@@ -4989,7 +4723,6 @@ Models after early 1985 fitted with rack type adjustment link  . . . . . . . .
 8 to 10 Nm (6 to 7 Ibf ft) torque loading on adjuster bolt
 
 ### Clutch
-`volkswagen_volkswagen_golf_2_en_eec4b454` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:48
 
 Free play at clutch pedal  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 15 to 20 mm
@@ -5005,7 +4738,6 @@ New - excluding backplate:
 10.0 mm
 
 ### Minimum - including backplate:
-`volkswagen_volkswagen_golf_2_en_24a90c3a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:48
 
 All models  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 7.0 mm
@@ -5016,7 +4748,6 @@ Minimum - including backplate  . . . . . . . . . . . . . . . . . . . . . . . . .
 7.0 mm
 
 ### Shoe lining thickness
-`volkswagen_volkswagen_golf_2_en_685a3879` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:48
 
 Rear drum brakes:
 Minimum - including shoe  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -5025,7 +4756,6 @@ Minimum - excluding shoe .  . . . . . . . . . . . . . . . . . . . . . . . . . . 
 2.5 mm
 
 ### Steering
-`volkswagen_volkswagen_golf_2_en_ed402f5d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:48
 
 Power steering pump drivebelt tension  . . . . . . . . . . . . . . . . . . . . . . . . .
 10.0 mm deflection under firm finger pressure at point midway
@@ -5033,7 +4763,6 @@ between pump and crankshaft pulleys
 Tyre pressures
 
 ### Refer to the end of “Weekly checks”
-`volkswagen_volkswagen_golf_2_en_1adc1e10` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:48
 
 Torque wrench settings
 Nm
@@ -5047,7 +4776,6 @@ Valve cover  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 7
 
 ### Ignition system
-`volkswagen_volkswagen_golf_2_en_dc8e6841` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:48
 
 Contact breaker system:
 Spark plugs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -5062,7 +4790,6 @@ Distributor clamp bolt:
 18
 
 ### Transistorised and fully electronic systems:
-`volkswagen_volkswagen_golf_2_en_b9290943` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:48
 
 Spark plugs:
 1.05 and 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -5073,7 +4800,6 @@ Spark plugs:
 15
 
 ### Charging system
-`volkswagen_volkswagen_golf_2_en_6b6fc0e7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:48
 
 Alternator mounting/pivot bolt  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 45
@@ -5083,7 +4809,6 @@ Alternator adjuster link bolts . . . . . . . . . . . . . . . . . . . . . . . . .
 18
 
 ### Manual gearbox
-`volkswagen_volkswagen_golf_2_en_1fb8ec16` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:48
 
 Oil filler plug  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 25
@@ -5093,7 +4818,6 @@ Oil drain plug  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 18
 
 ### Automatic transmission
-`volkswagen_volkswagen_golf_2_en_2346437e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:48
 
 Oil pan bolts  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 20
@@ -5103,7 +4827,6 @@ Oil strainer (filter) cover bolts  . . . . . . . . . . . . . . . . . . . . . . .
 2
 
 ### Steering
-`volkswagen_volkswagen_golf_2_en_b60cd73d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:48
 
 Power steering pump/swivel bracket bolts  . . . . . . . . . . . . . . . . . . . . . .
 20
@@ -5117,7 +4840,6 @@ Roadwheel bolts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 81
 
 ### Body fittings
-`volkswagen_volkswagen_golf_2_en_a409c05e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:48
 
 Seat belt anchor bolts  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 40
@@ -5127,7 +4849,6 @@ Seat belt anchor bolts  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Downloaded from www.Manualslib.com manuals search engine
 
 ### The maintenance intervals in this Manual
-`volkswagen_volkswagen_golf_2_en_f761ca01` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:49
 
 are provided with the assumption that you will
 be carrying out the work yourself. These are
@@ -5149,7 +4870,6 @@ efficiency, performance and resale value of
 your vehicle.
 
 ### If the vehicle is driven in dusty areas, used
-`volkswagen_volkswagen_golf_2_en_88674377` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:49
 
 to tow a trailer, or driven frequently at slow
 speeds (idling in traffic) or on short journeys,
@@ -5161,7 +4881,6 @@ service department, in order to preserve the
 factory warranty.
 
 ### Maintenance schedule 1•5
-`volkswagen_volkswagen_golf_2_en_c37d4a71` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:49
 
 1
 1081 VW Golf & Jetta
@@ -5174,7 +4893,6 @@ m Renew automatic transmission and final drive fluid
 (Section 35)
 
 ### Every 2 years
-`volkswagen_volkswagen_golf_2_en_0ef1a54b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:49
 
 m Renew brake fluid (Section 36)
 Every 40 000 miles (60 000 km)
@@ -5206,7 +4924,6 @@ m Lubricate hinges and catches (Section 30)
 m Check vehicle underbody (Section 31)
 
 ### Every 5000 miles (7500 km)
-`volkswagen_volkswagen_golf_2_en_e0cf0b70` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:49
 
 or 6 months
 m Check contact breaker points (Section 11)
@@ -5226,7 +4943,6 @@ m Check operation of lights, direction indicators and
 horns (Section 10)
 
 ### Every 250 miles (400 km) or weekly
-`volkswagen_volkswagen_golf_2_en_3e1ed107` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:49
 
 m see “Weekly checks”
 Vehicles manufactured before August 1985
@@ -5237,7 +4953,6 @@ Every 250 miles (400 km) or weekly
 m See “Weekly checks”
 
 ### Every 10 000 miles (15 000 km) - if
-`volkswagen_volkswagen_golf_2_en_d8d31698` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:50
 
 completing more than 10 000 miles
 (15 000 km) per annum
@@ -5259,7 +4974,6 @@ m Check operation of lights, direction indicators and
 horns (Section 10)
 
 ### Every 20 000 miles (30 000 km)
-`volkswagen_volkswagen_golf_2_en_1a89d774` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:50
 
 m Check alternator, power steering pump and air
 conditioner compressor drivebelt(s) adjustment and
@@ -5272,7 +4986,6 @@ m Renew automatic transmission and final drive fluid
 (Section 35)
 
 ### Every 12 months
-`volkswagen_volkswagen_golf_2_en_dbd55152` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:50
 
 m Check antifreeze concentration (Section 14)
 m Renew engine oil and filter (Section 18)
@@ -5293,7 +5006,6 @@ m Lubricate hinges and catches (Section 30)
 m Check vehicle underbody (Section 31)
 
 ### Every 2 years
-`volkswagen_volkswagen_golf_2_en_01552458` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:50
 
 m Renew brake fluid (Section 36)
 Every 40 000 miles (160 000 km)
@@ -5305,7 +5017,6 @@ Maintenance - component location  1•7
 1081 VW Golf & Jetta
 
 ### Underbonnet view – 1.3 litre model (air cleaner removed)
-`volkswagen_volkswagen_golf_2_en_5724a87a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:51
 
 1 Engine oil dipstick
 2 Fuel line filter
@@ -5323,7 +5034,6 @@ washer reservoir
 11Engine oil filler cap
 
 ### Underbonnet view – fuel injection model
-`volkswagen_volkswagen_golf_2_en_1c4e427e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:51
 
 1 Engine oil dipstick
 2 Compressor (air
@@ -5345,7 +5055,6 @@ washer reservoir
 14Ignition distributor
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_2d9479aa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:51
 
 1•8 Maintenance - component location
 1081 VW Golf & Jetta
@@ -5363,7 +5072,6 @@ hose
 10Engine sump
 
 ### Front underbody view - fuel injected model
-`volkswagen_volkswagen_golf_2_en_fdc5e45a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:52
 
 1 Driveshaft
 2 Front mounting
@@ -5380,7 +5088,6 @@ Maintenance - component location  1•9
 1081 VW Golf & Jetta
 
 ### Rear underbody view - 1.3 litre model
-`volkswagen_volkswagen_golf_2_en_0134a0a5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:53
 
 1 Exhaust
 2 Fuel tank
@@ -5402,7 +5109,6 @@ fittings
 7 Rear disc brake
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_3785214b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:53
 
 1
 Introduction
@@ -5419,7 +5125,6 @@ dealing specifically with each task in the
 schedule.
 
 ### Visual
-`volkswagen_volkswagen_golf_2_en_1008f330` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:54
 
 checks,
 adjustments,
@@ -5430,7 +5135,6 @@ the underside of the vehicle for the locations
 of the various components.
 
 ### Servicing your vehicle in accordance with
-`volkswagen_volkswagen_golf_2_en_3266e907` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:54
 
 the mileage/time maintenance schedule and
 the following Sections will provide a planned
@@ -5441,7 +5145,6 @@ items but not others at the specified service
 intervals, will not produce the same results.
 
 ### As you service your vehicle, you will
-`volkswagen_volkswagen_golf_2_en_46e57918` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:54
 
 discover that many of the procedures can -
 and should - be grouped together, because of
@@ -5454,7 +5157,6 @@ at the same time as the suspension and
 steering components.
 
 ### The first step in this maintenance
-`volkswagen_volkswagen_golf_2_en_73035357` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:54
 
 programme is to prepare yourself before the
 actual work begins. Read through all the
@@ -5466,7 +5168,6 @@ specialist, or a dealer service department.
 2
 
 ### Intensive maintenance
-`volkswagen_volkswagen_golf_2_en_d1bec7fc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:54
 
 1 If, from the time the vehicle is new, the
 routine maintenance schedule is followed
@@ -5510,7 +5211,6 @@ performance of a generally poor-running
 engine:
 
 ### Primary operations
-`volkswagen_volkswagen_golf_2_en_a28e214f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:54
 
 a) Clean, inspect and test the battery
 b) Check all the engine-related fluids
@@ -5531,7 +5231,6 @@ effective, carry out the following secondary
 operations:
 
 ### Secondary operations
-`volkswagen_volkswagen_golf_2_en_4cac792a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:54
 
 a) Check the charging system
 b) Check the ignition system
@@ -5545,7 +5244,6 @@ mechanism check
 1
 
 ### Check the security and operation of all
-`volkswagen_volkswagen_golf_2_en_4dc22df9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:54
 
 hinges, latches and locks.
 Check the condition and operation of the
@@ -5560,7 +5258,6 @@ fraying, cuts or other damage, pulling the belt
 out to its full extent to check its entire length.
 
 ### Check the operation of the buckles by fitting
-`volkswagen_volkswagen_golf_2_en_546507dd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:54
 
 the belt tongue plate and pulling hard to ensure
 that it remains locked, then check the retractor
@@ -5577,7 +5274,6 @@ free to rotate.
 about a belt’s condition, it must be renewed.
 
 ### If the vehicle has been involved in a collision
-`volkswagen_volkswagen_golf_2_en_88f4cdef` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:54
 
 any belts in use at the time must be renewed
 as a matter of course and all other belts
@@ -5591,7 +5287,6 @@ dry them.
 5
 
 ### Brake check
-`volkswagen_volkswagen_golf_2_en_2fbb288e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:54
 
 1
 1 Make sure that the vehicle does not pull to
@@ -5615,7 +5310,6 @@ illustration).
 1081 VW Golf & Jetta
 
 ### Every 1000 miles (1500 km) or monthly
-`volkswagen_volkswagen_golf_2_en_ed287ea1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:54
 
 Downloaded from www.Manualslib.com manuals search engine
 6
@@ -5646,7 +5340,6 @@ hose clips are used, it may be a good idea to
 replace them with screw-type clips (see
 
 ### Haynes Hint).
-`volkswagen_volkswagen_golf_2_en_707e684c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:55
 
 3 Check the condition of all exposed wiring
 harnesses. Ensure that all cable-ties are in
@@ -5663,7 +5356,6 @@ by wiping along their length with a fuelmoistened cloth. Inspect each lead for
 damage and renew if defective in any way.
 
 ### Ensure that all lead connections are secure
-`volkswagen_volkswagen_golf_2_en_bc08c286` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:55
 
 and where applicable, protected (see
 illustration).
@@ -5687,7 +5379,6 @@ found.
 neck for punctures, cracks and other damage.
 
 ### Sometimes a rubber filler neck or connecting
-`volkswagen_volkswagen_golf_2_en_e7b2089c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:55
 
 hose will leak due to loose retaining clamps or
 deteriorated rubber.
@@ -5706,7 +5397,6 @@ seen through the battery’s translucent case
 and must be between the MINIMUM and
 
 ### MAXIMUM level marks. Although it should not
-`volkswagen_volkswagen_golf_2_en_91dc3442` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:55
 
 alter in normal use, if the level has lowered (for
 example, due to electrolyte having boiled
@@ -5721,7 +5411,6 @@ covered. On some batteries the case is
 translucent and incorporates MINIMUM and
 
 ### MAXIMUM level marks. The check should be
-`volkswagen_volkswagen_golf_2_en_67d2f024` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:55
 
 made more often if the vehicle is operated in
 high ambient temperature conditions.
@@ -5733,7 +5422,6 @@ check
 1
 
 ### During winter months, operate the air
-`volkswagen_volkswagen_golf_2_en_25bfcb3b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:55
 
 conditioner for a few minutes each week to
 keep the system in good order.
@@ -5746,7 +5434,6 @@ condenser fins.
 9
 
 ### Fuel system control linkage
-`volkswagen_volkswagen_golf_2_en_20988a89` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:55
 
 check
 1
@@ -5760,7 +5447,6 @@ horn check
 1
 
 ### Check that the horn and all vehicle lights
-`volkswagen_volkswagen_golf_2_en_e0a6cbf1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:55
 
 are functioning correctly. Renew any defective
 bulbs.
@@ -5776,7 +5462,6 @@ distilled or de-ionised water
 1081 VW Golf & Jetta
 
 ### A leak in the cooling system will usually
-`volkswagen_volkswagen_golf_2_en_f6155bbe` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:55
 
 show up as white or rust coloured
 deposits on the area adjoining the leak
@@ -5787,7 +5472,6 @@ and/or alternator will have to be
 checked.
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_c2c2a973` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:55
 
 11 Contact breaker point check 2
 1 Disconnect the LT lead from the terminal
@@ -5831,7 +5515,6 @@ timing belt end of the engine are in the
 following order:
 
 ### Inlet - Exhaust - Inlet - Exhaust - Inlet -
-`volkswagen_volkswagen_golf_2_en_71002945` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:56
 
 Exhaust - Inlet - Exhaust
 5 Repeat the procedure given in paragraphs
@@ -5844,7 +5527,6 @@ gasket.
 1.6 and 1.8 litre 8 valve engines
 
 ### Note: Ideally VW tools 2078 and 10.208
-`volkswagen_volkswagen_golf_2_en_6392837c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:56
 
 should be used to remove the valve shims, but
 alternatives can be used (see Tool Tip)
@@ -5878,7 +5560,6 @@ through window in bearing plate (arrowed)
 1081 VW Golf & Jetta
 
 ### Every 5000 miles (7500 km) or 6 months
-`volkswagen_volkswagen_golf_2_en_995eae41` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:56
 
 Every 10 000 miles (15 000 km) or 12 months
 Ideally VW tools 2078 and 10.208 should
@@ -5891,7 +5572,6 @@ without pushing the tappet shim (ie
 pushing the rim down).
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_301e00cf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:56
 
 9 The engine will turn over more easily if the
 spark plugs are removed. Do not rotate the
@@ -5909,7 +5589,6 @@ with those specified (“Warm” clearance).
 then calculate the error from those specified.
 
 ### Suppose on No 1 exhaust valve, the measured
-`volkswagen_volkswagen_golf_2_en_19208cfb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:57
 
 clearance is 0.15 mm. It is 0.3 mm too small so
 it must be adjusted and a shim 0.3 mm thinner
@@ -5927,7 +5606,6 @@ the valve springs while the shim is levered out
 and removed by the VW tool or a screwdriver.
 
 ### Be careful, because if the spanner slips when
-`volkswagen_volkswagen_golf_2_en_8b5ddff0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:57
 
 the shim is halfway out, the shim will fly out
 sharply (see illustration).
@@ -5958,7 +5636,6 @@ for separation of the belt plies. Renew the belt
 if worn or damaged.
 
 ### Alternator
-`volkswagen_volkswagen_golf_2_en_270f44d8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:57
 
 Pre 1985
 2 Depress the alternator drivebelt firmly with
@@ -5969,7 +5646,6 @@ should deflect approximately 5.0 mm.
 adjustment should give a deflection of 2.0 mm.
 
 ### After a suitable running in period of about 500
-`volkswagen_volkswagen_golf_2_en_f12398c5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:57
 
 miles (750 km), belt adjustment should be
 rechecked and adjusted to deflect 5.0 mm.
@@ -5983,7 +5659,6 @@ tensioned correctly.
 drivebelt adjustment.
 
 ### From 1985
-`volkswagen_volkswagen_golf_2_en_778f9afb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:57
 
 6 From early 1985, some models are fitted
 with a rack type alternator adjustment link
@@ -6011,7 +5686,6 @@ alternator does not move.
 pivot bolt.
 
 ### Power steering pump
-`volkswagen_volkswagen_golf_2_en_3e9fe1ab` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:57
 
 10 Loosen the power steering pump unit
 retaining nuts and bolts and the adjuster bolt
@@ -6025,7 +5699,6 @@ adjusting bolt locknut and the pump retaining
 nuts and bolts.
 
 ### Air conditioner compressor
-`volkswagen_volkswagen_golf_2_en_546be6cb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:57
 
 13 Drivebelt tension is adjusted by adding or
 subtracting shims from between the halves of
@@ -6035,7 +5708,6 @@ give a deflection of 5 to 10 mm on its longest
 run.
 
 ### Every 10 000 miles or 12 months 1•13
-`volkswagen_volkswagen_golf_2_en_32c4b6ad` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:57
 
 1
 12.12  Removing a tappet bucket shim -
@@ -6051,7 +5723,6 @@ adjustment bolt (C)
 1081 VW Golf & Jetta
 
 ### Always recheck the tension
-`volkswagen_volkswagen_golf_2_en_a05b3596` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:57
 
 of a new drivebelt after the
 engine has been run for ten
@@ -6064,7 +5735,6 @@ Warning: Wait until the engine is
 cold before checking antifreeze.
 
 ### Do not allow antifreeze to come
-`volkswagen_volkswagen_golf_2_en_dc3d9a32` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:58
 
 in contact with your skin or
 painted surfaces of the vehicle. Rinse off
@@ -6075,7 +5745,6 @@ driveway or on the garage floor. Children
 and pets are attracted by its sweet smell.
 
 ### Antifreeze is fatal if ingested.
-`volkswagen_volkswagen_golf_2_en_9259f986` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:58
 
 1 The concentration of antifreeze in the
 cooling system should be checked and made
@@ -6100,7 +5769,6 @@ redundant, it is still necessary to use a
 corrosion inhibitor in the cooling system.
 
 ### Suitable inhibitors should be available from a
-`volkswagen_volkswagen_golf_2_en_99dd870b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:58
 
 local VW agent or other reputable specialist.
 15 Spark plug renewal
@@ -6111,7 +5779,6 @@ plugs. This modified coil is identified by a grey
 (rather than green) sticker. Refer to the
 
 ### Servicing Specifications at the start of this
-`volkswagen_volkswagen_golf_2_en_3300abee` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:58
 
 Chapter for the recommended plug types. It is
 not permissible to use new plugs with an old
@@ -6136,7 +5803,6 @@ preferably with a rubber insert to grip the plug.
 each spark plug to the specified torque (see
 
 ### Haynes Hint).
-`volkswagen_volkswagen_golf_2_en_a9b0ea62` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:58
 
 16 Contact breaker point
 renewal and adjustment
@@ -6172,7 +5838,6 @@ screws (where applicable).
 follows.
 
 ### Adjustment
-`volkswagen_volkswagen_golf_2_en_ebe0b39c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:58
 
 9 Turn the engine with a spanner on the
 crankshaft pulley bolt until the moving contact
@@ -6208,7 +5873,6 @@ gap
 1081 VW Golf & Jetta
 
 ### It is very often difficult to insert spark
-`volkswagen_volkswagen_golf_2_en_9454181e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:58
 
 plugs into their holes without crossthreading them. To avoid this poss-
 ibility, fit a short length of 5/16 inch
@@ -6222,7 +5886,6 @@ thread damage to the aluminium
 cylinder head.
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_99d5bdec` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:58
 
 13 Wipe clean the distributor cap and make
 sure that the carbon brush moves freely
@@ -6245,7 +5908,6 @@ ignition timing.
 3
 
 ### Contact breaker system
-`volkswagen_volkswagen_golf_2_en_4ce71a1b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:59
 
 Note: Accurate ignition timing is only possible
 using a stroboscopic timing light, although on
@@ -6256,7 +5918,6 @@ instant read-out. However, this tester will not
 normally be available to the home mechanic.
 
 ### For initial setting-up purposes, the test bulb
-`volkswagen_volkswagen_golf_2_en_ac86ff49` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:59
 
 method can be used but this must always be
 followed by the stroboscopic timing light
@@ -6273,7 +5934,6 @@ the
 crankshaft pulley end) until pressure is felt in
 
 ### No. 1 cylinder, indicating that the piston is
-`volkswagen_volkswagen_golf_2_en_44722bec` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:59
 
 commencing its compression stroke. Use a
 spanner on the crankshaft pulley bolt, or
@@ -6292,7 +5952,6 @@ lead location in the cap.
 5 Connect a 12 volt test bulb between the coil
 
 ### LT negative terminal and a suitable earthing
-`volkswagen_volkswagen_golf_2_en_1db41f6a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:59
 
 point on the engine.
 6 Loosen the distributor clamp retaining bolt.
@@ -6310,7 +5969,6 @@ plug and HT lead. Once the engine has been
 started, check the timing stroboscopically.
 
 ### Stroboscopic timing light method
-`volkswagen_volkswagen_golf_2_en_ed42d183` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:59
 
 11 Run the engine until its normal operating
 temperature is reached.
@@ -6325,7 +5983,6 @@ the top of the gearbox.
 with the manufacturer’s instructions.
 
 ### Every 10 000 miles or 12 months 1•15
-`volkswagen_volkswagen_golf_2_en_426ac694` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:59
 
 1
 17.3a  Crankshaft pulley mark (A) timing
@@ -6342,7 +5999,6 @@ distributor body – 1.6 and 1.8 litre
 when adjusting contact breaker points gap
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_94adfb6b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:59
 
 15 Connect a tachometer in accordance with
 the manufacturer’s instructions.
@@ -6374,7 +6030,6 @@ light and tachometer, and refit the vacuum
 hose (where applicable).
 
 ### Transistorised systems
-`volkswagen_volkswagen_golf_2_en_931b4582` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:60
 
 Note: Accurate ignition timing is only possible
 using a stroboscopic timing light, although on
@@ -6385,7 +6040,6 @@ instant read-out. However, this tester will not
 normally be available to the home mechanic
 
 ### TCI-H
-`volkswagen_volkswagen_golf_2_en_b1a45434` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:60
 
 21 Run the engine until its normal operating
 temperature is reached.
@@ -6428,7 +6082,6 @@ light and tachometer, and refit the vacuum
 hose (where applicable).
 
 ### Digifant
-`volkswagen_volkswagen_golf_2_en_1efbb7c8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:60
 
 31 Run the engine to normal operating
 temperature, then switch off the ignition.
@@ -6455,7 +6108,6 @@ disconnected, increase the engine speed to
 2300 rpm and note the exact ignition timing.
 
 ### Hold the engine speed at 2300 rpm, then
-`volkswagen_volkswagen_golf_2_en_322d5709` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:60
 
 reconnect the wiring and check that the
 ignition timing advances by 30° ± 3° from the
@@ -6473,7 +6125,6 @@ control unit if there is no open-circuit.
 18 Engine oil and filter renewal 2
 
 ### Oil renewal
-`volkswagen_volkswagen_golf_2_en_22726119` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:60
 
 1 Before starting this procedure, gather
 together all necessary tools and materials.
@@ -6504,7 +6155,6 @@ wire
 17.17  Ignition timing marks
 
 ### A 1.05 and 1.3 litre
-`volkswagen_volkswagen_golf_2_en_da4b2eeb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:60
 
 B 1.6 and 1.8 litre (carburettor models)
 C 1.8 litre (fuel injection models)
@@ -6540,7 +6190,6 @@ dipstick and add more oil as necessary.
 10 Dispose of the used engine oil safely.
 
 ### Filter renewal
-`volkswagen_volkswagen_golf_2_en_d00813c1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:61
 
 11 On 1.05 and 1.3 litre engines, the oil filter
 is located on the front of the engine beside the
@@ -6595,7 +6244,6 @@ provide additional clearance.
 20 Slow running adjustment 4
 
 ### To check this adjustment, first determine
-`volkswagen_volkswagen_golf_2_en_2f92d5aa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:61
 
 which fuel system is fitted to the vehicle
 concerned and then refer to the appropriate
@@ -6622,7 +6270,6 @@ correctly adjusted.
 2
 
 ### Note: Gearbox oil can foam when hot and
-`volkswagen_volkswagen_golf_2_en_d9e54270` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:61
 
 give a false level reading. Allow the gearbox to
 cool before checking the oil level.
@@ -6644,7 +6291,6 @@ the bolt, two nuts may be tightened against
 each other using thread-locking fluid.
 
 ### Every 10 000 miles or 12 months 1•17
-`volkswagen_volkswagen_golf_2_en_1fcda19d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:61
 
 1
 18.13  Using a chain wrench to unscrew oil
@@ -6656,7 +6302,6 @@ for leaks and security
 oil level plug removal tool - 084 gearbox
 
 ### A Bolt M10 x 100 mm B Welded nut
-`volkswagen_volkswagen_golf_2_en_fd8358cc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:61
 
 Arrows show area of weld
 1081 VW Golf & Jetta
@@ -6671,7 +6316,6 @@ out when it is removed - this does not
 necessarily indicate that the level is correct.
 
 ### To ensure that a true level is established, wait
-`volkswagen_volkswagen_golf_2_en_6fdef1d8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:62
 
 until the initial trickle has stopped, then add oil
 as necessary until a trickle of new oil can be
@@ -6696,7 +6340,6 @@ account the following information.
 engine/gearbox unit without any inclination.
 
 ### When fitted to the models covered in this
-`volkswagen_volkswagen_golf_2_en_2f61d133` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:62
 
 Manual a 2° inclination to the left exists,
 therefore an accurate check cannot be made
@@ -6778,7 +6421,6 @@ speedometer driveshaft hole - early 020
 5-speed gearbox
 
 ### 23.2 Automatic transmission fluid level
-`volkswagen_volkswagen_golf_2_en_5fe275b6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:62
 
 23.2  Automatic transmission fluid level
 dipstick - remove in direction of arrow
@@ -6791,7 +6433,6 @@ and union check
 1
 
 ### Warning: Do not drive the
-`volkswagen_volkswagen_golf_2_en_c173f263` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:63
 
 vehicle until necessary repair
 work has been carried out on
@@ -6826,7 +6467,6 @@ lining check
 1
 
 ### Note: VW recommend that operation of the
-`volkswagen_volkswagen_golf_2_en_a285eda1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:63
 
 brake pressure regulator is checked by one of
 their garages at the same interval that the disc
@@ -6842,7 +6482,6 @@ torch may also be necessary.
 amount specified, renew the pads as a set.
 
 ### Rear brake shoes
-`volkswagen_volkswagen_golf_2_en_fa152775` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:63
 
 3 Jack up the rear of the vehicle and support
 it on axle stands (see “Jacking and vehicle
@@ -6853,7 +6492,6 @@ and check with a torch that the linings are not
 worn below the minimum thickness specified.
 
 ### On completion, refit the plugs.
-`volkswagen_volkswagen_golf_2_en_67a88826` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:63
 
 27 Headlight beam alignment
 check
@@ -6873,7 +6511,6 @@ headlamp centre height. Draw a vertical line
 corresponding to the centre line of the vehicle.
 
 ### Now measure off a point either side of this, on
-`volkswagen_volkswagen_golf_2_en_43eb3af2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:63
 
 the horizontal line, corresponding with the
 headlamp centres.
@@ -6886,7 +6523,6 @@ lower screw to adjust the beam vertically (see
 illustration).
 
 ### Twin unit
-`volkswagen_volkswagen_golf_2_en_0bb8df3f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:63
 
 4 On models with twin headlamps, the inner
 lamps are adjusted laterally with the lower
@@ -6913,7 +6549,6 @@ joint is suspect, it can be felt by placing a
 hand over the steering gear rubber gaiter and
 
 ### Every 10 000 miles or 12 months 1•19
-`volkswagen_volkswagen_golf_2_en_40179bba` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:63
 
 1
 25.3a  Bend each brake hose to check for
@@ -6928,7 +6563,6 @@ adjust headlamp beam alignment
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_6d33df0e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:63
 
 gripping the track rod. If the wheel is now
 rocked, movement will be felt at the inner joint
@@ -6938,7 +6572,6 @@ have an assistant turn the steering wheel back
 and forth about an eighth of a turn each way.
 
 ### There should be very little, if any, lost
-`volkswagen_volkswagen_golf_2_en_160fb496` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:64
 
 movement between the steering wheel and
 the roadwheels. If this is not the case, closely
@@ -6983,7 +6616,6 @@ straps with a little multi-purpose grease.
 31 Vehicle underbody check 1
 
 ### Note: Steam-cleaning is available at many
-`volkswagen_volkswagen_golf_2_en_045daa87` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:64
 
 garages for the purpose of removing any
 accumulation of oily grime from beneath a
@@ -6999,7 +6631,6 @@ with particular care vulnerable areas such as
 the front spoiler and around the wheel arches.
 
 ### Any damage to the paintwork must be
-`volkswagen_volkswagen_golf_2_en_5ab7a5c4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:64
 
 rectified to prevent further corrosion.
 4 If a chip or light scratch is found that is
@@ -7028,7 +6659,6 @@ clear so that water is allowed to drain.
 32 Air cleaner element renewal 1
 
 ### Carburettor models
-`volkswagen_volkswagen_golf_2_en_7784a224` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:64
 
 1.05 and 1.3 litre engines
 1 Release the spring clips securing the air
@@ -7039,7 +6669,6 @@ any dirt entering it when the element is lifted
 out. Remove the element (see illustration).
 
 ### Wipe the inside of the air cleaner with a moist
-`volkswagen_volkswagen_golf_2_en_14f34746` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:64
 
 rag to remove all dust and dirt and then
 remove the covering from the entry port.
@@ -7057,7 +6686,6 @@ fuel-moistened cloth, then wipe it dry.
 removal.
 
 ### Fuel-injected models
-`volkswagen_volkswagen_golf_2_en_bfc5f01e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:64
 
 7 Release the spring clips securing the air
 cleaner cover and separate the cover from the
@@ -7071,7 +6699,6 @@ airflow meter (see illustration).
 1081 VW Golf & Jetta
 
 ### Every 20 000 miles (30 000 km) or 24 months
-`volkswagen_volkswagen_golf_2_en_84e7a73a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:64
 
 Downloaded from www.Manualslib.com manuals search engine
 8 Withdraw the element from the housing.
@@ -7082,7 +6709,6 @@ by pressing the clips home.
 2
 
 ### Carburettor models
-`volkswagen_volkswagen_golf_2_en_4f98e0b6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:65
 
 1 To remove the in-line filter, remove its pipe
 retaining clips, disconnect the pipes and
@@ -7100,7 +6726,6 @@ highly inflammable and may explode if thrown
 on a fire.
 
 ### Fuel-injected models
-`volkswagen_volkswagen_golf_2_en_91351aaf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:65
 
 4 The fuel filter is mounted on the inboard
 side of the pump reservoir on the underside of
@@ -7135,7 +6760,6 @@ and lubrication
 1
 
 ### Open the sunroof and wipe clean its guide
-`volkswagen_volkswagen_golf_2_en_74d7738b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:65
 
 rails. Coat each rail very lightly with grease,
 ensuring that none finds its way onto the
@@ -7157,7 +6781,6 @@ carburettor
 32.7  Air cleaner components -
 
 ### Digijet fuel injection
-`volkswagen_volkswagen_golf_2_en_d844f905` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:65
 
 1
 Upper cover
@@ -7189,7 +6812,6 @@ regulator flap
 17 To inlet elbow
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_24b6c3b1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:65
 
 1081 VW Golf & Jetta
 3
@@ -7201,7 +6823,6 @@ Pressurised with pump driven by timing or V-belt. Front mounted
 radiator with internal or external expansion tank. Electric cooling fan
 
 ### Radiator/expansion tank
-`volkswagen_volkswagen_golf_2_en_b258b840` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:66
 
 Cap operating pressure  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.2 to 1.5 bar
@@ -7210,7 +6831,6 @@ Minimum stroke  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 7.0 mm
 
 ### Opening temperature:
-`volkswagen_volkswagen_golf_2_en_fd69932b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:66
 
 1.05 and 1.3 litre engines:
 Rocker finger tappet type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -7218,7 +6838,6 @@ Rocker finger tappet type  . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Hydraulic tappet type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 87°C
-`volkswagen_volkswagen_golf_2_en_ec90df33` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:66
 
 1.6 and 1.8 litre engines  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 85°C
@@ -7227,7 +6846,6 @@ Fully open temperature:
 Rocker finger tappet type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 108°C
-`volkswagen_volkswagen_golf_2_en_ea367c98` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:66
 
 Hydraulic tappet type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 102°C
@@ -7235,7 +6853,6 @@ Hydraulic tappet type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 105°C
 
 ### Cooling fan thermo-switch
-`volkswagen_volkswagen_golf_2_en_5d1f7680` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:66
 
 Carburettor engines:
 Switch-on temperature  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -7244,7 +6861,6 @@ Switch-off temperature . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 88° to 93°C
 
 ### Fuel injection engines (except 16 valve):
-`volkswagen_volkswagen_golf_2_en_bdf48bf6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:66
 
 Switch-on temperature:
 Single speed and 1st stage of twin speed  . . . . . . . . . . . . . . . . . . .
@@ -7253,7 +6869,6 @@ Single speed and 1st stage of twin speed  . . . . . . . . . . . . . . . . . . .
 99° to 105°C
 
 ### Switch-off temperature:
-`volkswagen_volkswagen_golf_2_en_0ec2ef2d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:66
 
 Single speed and 1st stage of twin speed  . . . . . . . . . . . . . . . . . . .
 84° to 91°C
@@ -7263,7 +6878,6 @@ Injector cooling:
 Switch-on temperature  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 110°C
-`volkswagen_volkswagen_golf_2_en_c4c70988` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:66
 
 Switch-off temperature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 103°C
@@ -7291,7 +6905,6 @@ Thermostat - removal, testing and refitting  . . . . . . . . . . . . . . . . . .
 3•1
 
 ### Specifications
-`volkswagen_volkswagen_golf_2_en_f7cc716b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:66
 
 Contents
 Easy, suitable for
@@ -7308,7 +6921,6 @@ experienced  DIY
 mechanic
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_e30eb107` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:66
 
 suitable for expert DIY
 or  professional
@@ -7357,7 +6969,6 @@ Thermostat housing to coolant pump  . . . . . . . . . . . . . . . . . . . . . . 
 7
 
 ### Thermo-switch (inlet manifold preheater):
-`volkswagen_volkswagen_golf_2_en_f3821774` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:67
 
 1.6 and 1.8 litre carburettor  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 10
@@ -7368,7 +6979,6 @@ Thermostat housing to coolant pump  . . . . . . . . . . . . . . . . . . . . . . 
 1
 
 ### General information and
-`volkswagen_volkswagen_golf_2_en_1095489b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:67
 
 precautions
 General information
@@ -7384,7 +6994,6 @@ fan
 illustrations).
 
 ### Coolant circulation through the radiator is
-`volkswagen_volkswagen_golf_2_en_f9e56b6b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:67
 
 controlled by a thermostat, the location of
 which differs according to engine type. On
@@ -7397,7 +7006,6 @@ housing which is mounted low down on the
 front of the engine (timing case end).
 
 ### Fuel-injected engines incorporate an oil
-`volkswagen_volkswagen_golf_2_en_1684e053` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:67
 
 cooler unit which is located between the oil
 filter and its mounting bracket.
@@ -7416,7 +7024,6 @@ through the inlet manifold and heater matrix
 to the pump.
 
 ### When the coolant reaches a predetermined
-`volkswagen_volkswagen_golf_2_en_b7ef09cd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:67
 
 temperature, the thermostat opens and the
 coolant then circulates through the top hose
@@ -7430,7 +7037,6 @@ radiator, the coolant is now cooled and the
 cycle is repeated.
 
 ### The electric cooling fan is controlled by a
-`volkswagen_volkswagen_golf_2_en_ada44fe1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:67
 
 thermo-switch located in the left-hand side of
 the radiator.
@@ -7439,7 +7045,6 @@ the radiator.
 1.0a  Cooling system components – 1.05 and 1.3 litre, pre August 1985
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_851a8461` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:67
 
 Air conditioning system
 The air conditioning unit works on exactly
@@ -7457,7 +7062,6 @@ warming the inlet air. The evaporator has a
 blower motor to circulate cold air as required.
 
 ### The system is controlled by a unit on the
-`volkswagen_volkswagen_golf_2_en_9204c8e9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:68
 
 dashboard similar to the normal heater control
 in appearance.
@@ -7474,7 +7078,6 @@ gases, some of which are poisonous to the
 extent of being fatal.
 
 ### Precautions
-`volkswagen_volkswagen_golf_2_en_e3fe16fa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:68
 
 Cooling system maintenance
 Do not remove the expansion tank filler cap
@@ -7494,7 +7097,6 @@ unscrewing the cap completely. At all times
 keep well away from the filler opening.
 
 ### If the engine is hot, the electric cooling fan
-`volkswagen_volkswagen_golf_2_en_5c7f15d0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:68
 
 may start rotating even if the engine is not
 running. Be careful to keep hands, hair and
@@ -7506,7 +7108,6 @@ of reach of children and pets. Never leave
 antifreeze lying around, it is fatal if ingested.
 
 ### Do not allow antifreeze to come in contact
-`volkswagen_volkswagen_golf_2_en_fdea6c3a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:68
 
 with your skin or the painted surfaces of the
 vehicle. Rinse off spills immediately with
@@ -7518,7 +7119,6 @@ Cooling, heating and air conditioning systems  3•3
 1
 
 ### Radiator
-`volkswagen_volkswagen_golf_2_en_ad1a9eb4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:68
 
 2
 Fan ring
@@ -7545,7 +7145,6 @@ Automatic choke
 1.0c  Cooling system components – 1.6 and 1.8 litre, carburettor
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_d674d37a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:68
 
 Air conditioning refrigerant
 Although the refrigerant is not itself toxic, in
@@ -7557,7 +7156,6 @@ them with a dilute solution of boric acid and
 seek medical advice immediately.
 
 ### In view of the above points, and of the need
-`volkswagen_volkswagen_golf_2_en_5ad59af4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:69
 
 for specialised equipment for evacuating and
 recharging the system, any work which
@@ -7572,7 +7170,6 @@ damage may result.
 2
 
 ### Cooling system - draining,
-`volkswagen_volkswagen_golf_2_en_d31b51d4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:69
 
 flushing and filling
 2
@@ -7601,7 +7198,6 @@ away from the radiator outlet. Drain the
 coolant into the container (see illustrations).
 
 ### Flushing
-`volkswagen_volkswagen_golf_2_en_4fe48376` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:69
 
 5 After some time, the radiator and engine
 waterways may become restricted or even
@@ -7622,7 +7218,6 @@ top hose from the radiator. Insert a garden
 1
 
 ### Alternator bracket
-`volkswagen_volkswagen_golf_2_en_f5f195be` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:69
 
 2
 Pulley
@@ -7662,7 +7257,6 @@ until clear water runs from the inlet.
 9 The engine should also be reverse flushed.
 
 ### To do this, disconnect the heater hose from
-`volkswagen_volkswagen_golf_2_en_ebe1d9b3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:70
 
 the cylinder head outlet and insert a garden
 hose in the outlet. Continue flushing until clear
@@ -7675,7 +7269,6 @@ heat.
 into the expansion tank until it reaches the
 
 ### MAX level mark.
-`volkswagen_volkswagen_golf_2_en_76c9b485` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:70
 
 12 Refit and tighten the filler cap then run the
 engine at a fast idling speed for a few minutes
@@ -7694,7 +7287,6 @@ level marks.
 3
 
 ### Radiator - removal, inspection
-`volkswagen_volkswagen_golf_2_en_75fe9616` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:70
 
 and refitting
 2
@@ -7722,7 +7314,6 @@ engine compartment whilst taking care not to
 damage the matrix (see illustration).
 
 ### Inspection
-`volkswagen_volkswagen_golf_2_en_7a932669` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:70
 
 9 Remove the screws and withdraw the
 cowling and fan from the radiator.
@@ -7744,7 +7335,6 @@ bracket
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_1403ab0f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:70
 
 10 Clean the radiator matrix of flies and small
 leaves with a soft brush or by hosing. At the
@@ -7756,7 +7346,6 @@ radiator without special equipment.
 damaged.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_3dd4af00` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:71
 
 13 Refitting is a reversal of removal. If
 necessary, renew the radiator lower mounting
@@ -7768,7 +7357,6 @@ wiring, secure the lead to the cowling web
 4
 
 ### Cooling fan and motor -
-`volkswagen_volkswagen_golf_2_en_d7985aa1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:71
 
 removal and refitting
 2
@@ -7792,7 +7380,6 @@ the cooling fan and motor from the cowling
 the motor by prising off the clamp washer. On
 
 ### AEG motors drive out the roll pin. On Bosch
-`volkswagen_volkswagen_golf_2_en_2e27ad3a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:71
 
 motors remove the shake-proof washer.
 Assemble the components in reverse order
@@ -7806,7 +7393,6 @@ and refitting
 1.05 and 1.3 litre engines
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_3f78dfe8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:71
 
 1 The thermostat is located in the outlet
 housing on the left-hand (rear) end of the
@@ -7821,7 +7407,6 @@ side.
 housing.
 
 ### Testing
-`volkswagen_volkswagen_golf_2_en_43a8a6dd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:71
 
 5 To test the thermostat, suspend it with a
 piece of string in a container of water.
@@ -7851,7 +7436,6 @@ assembly
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4d6d9ac9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:71
 
 Refitting
 8 Refitting is a reversal of removal. Fit a new
@@ -7862,7 +7446,6 @@ thermostat should face upwards.
 1.6 and 1.8 litre engines
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_37526639` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:72
 
 10 The thermostat is located in the bottom of
 the coolant pump behind the inlet elbow. To
@@ -7874,7 +7457,6 @@ pump and remove the seal and thermostat
 scale or corrosion.
 
 ### Testing
-`volkswagen_volkswagen_golf_2_en_824a99f8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:72
 
 13 To test the thermostat, proceed as
 described in paragraphs 5, 6 and 7.
@@ -7885,7 +7467,6 @@ procedure. Always fit a new seal.
 6
 
 ### Coolant pump - removal and
-`volkswagen_volkswagen_golf_2_en_c445228a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:72
 
 refitting
 3
@@ -7897,7 +7478,6 @@ disconnect the battery negative lead.
 3 Unbolt and remove the timing belt cover.
 
 ### On some later 1.3 litre models, it is necessary
-`volkswagen_volkswagen_golf_2_en_7e8593a2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:72
 
 to remove the crankshaft pulley to remove the
 lower timing belt cover.
@@ -7918,7 +7498,6 @@ mating faces of the coolant pump and
 cylinder block.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_0a9f5e30` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:72
 
 8 Refitting is a reversal of removal.
 9 When fitting a pump which has been
@@ -7934,7 +7513,6 @@ a new sealing ring.
 1.6 and 1.8 litre engines
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_50707050` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:72
 
 12 Drain the cooling system.
 13 Remove the alternator.
@@ -7953,7 +7531,6 @@ illustration). The pump will probably be stuck
 to the block but will come off if tapped gently.
 
 ### Remove the O-ring with the pump.
-`volkswagen_volkswagen_golf_2_en_c3747247` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:72
 
 17 Remove the pulley and then take out the
 eight bolts which secure the bearing housing
@@ -7962,7 +7539,6 @@ The two halves may now be separated (see
 illustration). Do not drive a wedge in to break
 
 ### Cooling, heating and air conditioning systems 3•7
-`volkswagen_volkswagen_golf_2_en_dbe7d7d8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:72
 
 3
 5.11a  Undo the retaining bolts . . .
@@ -7978,7 +7554,6 @@ removed from vehicle) - 1.6 and 1.8 litre
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_2e86369a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:72
 
 the joint. Clean off the old gasket.
 18 Remove the thermostat.
@@ -7993,7 +7568,6 @@ tighten the bolts evenly.
 21 Fit the thermostat.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_6e9b7ff4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:73
 
 22 Refitting is a reversal of removal. Always
 fit a new O-ring.
@@ -8006,7 +7580,6 @@ and refitting
 2
 
 ### Cooling fan motor thermo-
-`volkswagen_volkswagen_golf_2_en_9ddcfc4b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:73
 
 switch
 1 Disconnect the battery negative lead.
@@ -8016,7 +7589,6 @@ left-hand side of the radiator and remove the
 sealing ring (see illustration). Note that from
 
 ### September 1985, on fuel injection engines
-`volkswagen_volkswagen_golf_2_en_ee207170` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:73
 
 (except 16V) the switch, located in the bottom
 of the radiator, is of a 3-pin type, replacing the
@@ -8033,7 +7605,6 @@ lamp and battery. Gradually heat the water
 and note its temperature with a thermometer.
 
 ### The test lamp should light up at the specified
-`volkswagen_volkswagen_golf_2_en_f9ee172e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:73
 
 switch-on temperature and go out at the
 specified switch-off temperature. If not, renew
@@ -8044,7 +7615,6 @@ the specified torque.
 6 On completion, refill the cooling system.
 
 ### Cooling fan temperature sensor
-`volkswagen_volkswagen_golf_2_en_d169ac53` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:73
 
 7 From March 1986, the cooling fan is also
 controlled by a temperature sensor located
@@ -8054,7 +7624,6 @@ system functional for 10 to 12 minutes after
 switching off the ignition.
 
 ### Temperature sender
-`volkswagen_volkswagen_golf_2_en_1af525bc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:73
 
 unit/thermo-switches
 8 It is not necessary to drain the cooling
@@ -8070,7 +7639,6 @@ retighten the cap.
 thermo-switch is dependent on engine type.
 
 ### In general, they are as follows:
-`volkswagen_volkswagen_golf_2_en_bbb4159d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:73
 
 1.05 and 1.3 litre engines
 11 The thermo-switch is located in the
@@ -8103,7 +7671,6 @@ outlet elbow and controls the temperature
 gauge.
 
 ### All engines
-`volkswagen_volkswagen_golf_2_en_1d5e4df9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:73
 
 19 Disconnect the wiring lead from the
 sender unit/switch concerned.
@@ -8120,7 +7687,6 @@ top-up the cooling system.
 8
 
 ### Heater controls - removal
-`volkswagen_volkswagen_golf_2_en_63744560` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:73
 
 and refitting
 3
@@ -8151,7 +7717,6 @@ thermo-switch (B) - 1.8 litre, fuel injection
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_02a326eb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:73
 
 necessary to remove the lower parcel tray on
 the passenger side and also the insulation
@@ -8163,7 +7728,6 @@ a good idea to fit new cable clamps also, as
 the old ones seem to distort when removed.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_4d015993` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:74
 
 8 Refitting is a reversal of removal. Ensure
 that the cables are correctly routed with no
@@ -8192,7 +7756,6 @@ cut-out can be checked as shown.
 that the air ducts are not blocked.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_dd483a09` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:74
 
 8 Refitting is a reversal of removal.
 10 Heat exchanger/fresh air
@@ -8209,7 +7772,6 @@ bulkhead on the engine compartment side
 (see illustration).
 
 ### Cooling, heating and air conditioning systems 3•9
-`volkswagen_volkswagen_golf_2_en_bd261787` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:74
 
 3
 8.3a  Pulling free heater/ventilation control
@@ -8223,7 +7785,6 @@ knobs
 10.5  Bulkhead coolant hose connections
 
 ### A Passenger compartment
-`volkswagen_volkswagen_golf_2_en_fe9186aa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:74
 
 B Engine compartment
 C Return hose
@@ -8244,7 +7805,6 @@ disconnecting the distributor from the left and
 right-hand air ducts as it is withdrawn.
 
 ### Remove the gasket (see illustration).
-`volkswagen_volkswagen_golf_2_en_0b7a784d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:75
 
 7 Disconnect the control cables at the air box
 end.
@@ -8261,7 +7821,6 @@ securing clips (see illustration). Once
 separated, the flap valves can be removed.
 
 ### Take care not to split or crack the housings.
-`volkswagen_volkswagen_golf_2_en_7c77ec64` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:75
 
 Refitting
 11 Refitting is a reversal of the removal
@@ -8286,7 +7845,6 @@ manner.
 components
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_997b9aaf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:75
 
 11 Air conditioning system
 compressor - removal and
@@ -8315,7 +7873,6 @@ by him on completion.
 4 Observe the precautions at the start of this
 
 ### Chapter.
-`volkswagen_volkswagen_golf_2_en_8aa8342f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:76
 
 12 Air conditioning system
 compressor - drivebelt
@@ -8329,7 +7886,6 @@ Cooling, heating and air conditioning systems  3•11
 1
 
 ### Alternator drivebelt
-`volkswagen_volkswagen_golf_2_en_fec509b5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:76
 
 2
 Coolant pump and
@@ -8355,7 +7911,6 @@ Downloaded from www.Manualslib.com manuals search engine
 1081 VW Golf & Jetta
 
 ### Notes
-`volkswagen_volkswagen_golf_2_en_ef9a171e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:77
 
 Downloaded from www.Manualslib.com manuals search engine
 1081 VW Golf & Jetta
@@ -8365,7 +7920,6 @@ Engine repair procedures 1.8 litre 16 valve
 The following information is a revision of, or supplementary to, that given for the 1.8 litre engine in Part C of this Chapter
 
 ### General
-`volkswagen_volkswagen_golf_2_en_5ab2f426` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:78
 
 Code:
 GTi 16V with catalytic converter . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -8374,7 +7928,6 @@ Compression ratio  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 10:1
 
 ### Cylinder head
-`volkswagen_volkswagen_golf_2_en_ecee4d01` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:78
 
 Minimum height  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 118.1 mm - measured through cylinder head bolt hole
@@ -8386,7 +7939,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 28.0 mm
 
 ### Stem diameter:
-`volkswagen_volkswagen_golf_2_en_050a6d29` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:78
 
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 6.97 mm
@@ -8394,7 +7946,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 6.94 mm
 
 ### Overall length:
-`volkswagen_volkswagen_golf_2_en_18df4491` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:78
 
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 95.5 mm
@@ -8402,7 +7953,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 98.2 mm
 
 ### Valve timing
-`volkswagen_volkswagen_golf_2_en_2b9c6090` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:78
 
 Nil valve clearance at 1.0 mm valve lift
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -8410,14 +7960,12 @@ Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 35° ABDC
-`volkswagen_volkswagen_golf_2_en_4a2edf2c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:78
 
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 43° BBDC
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3° BTDC
-`volkswagen_volkswagen_golf_2_en_c5550c11` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:78
 
 Torque wrench settings
 Nm
@@ -8467,7 +8015,6 @@ Timing belt and sprockets - removal and refitting . . . . . . . . . . . . . . .
 2
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_9e8d6f05` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:78
 
 suitable for expert DIY
 or  professional
@@ -8484,7 +8031,6 @@ Downloaded from www.Manualslib.com manuals search engine
 1
 
 ### Inlet manifold upper section
-`volkswagen_volkswagen_golf_2_en_ac926791` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:79
 
 2
 Gasket
@@ -8510,7 +8056,6 @@ Downloaded from www.Manualslib.com manuals search engine
 1
 
 ### General information
-`volkswagen_volkswagen_golf_2_en_dcb7dabb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:80
 
 The 1.8 litre, 16-valve engine fitted to GTi
 models from October 1986, incorporates
@@ -8527,7 +8072,6 @@ the opposite end of the cylinder head is used
 to drive the inlet camshaft (see illustration).
 
 ### Most overhaul procedures for the 16-valve
-`volkswagen_volkswagen_golf_2_en_04c3c35e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:80
 
 engine are basically the same as those
 described for the 8-valve engine in Part C of
@@ -8539,7 +8083,6 @@ removal and refitting
 3
 
 ### Besides the timing mark on the camshaft
-`volkswagen_volkswagen_golf_2_en_fe627211` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:80
 
 sprocket referred to in Part C of this Chapter,
 Section 9, an additional timing mark is
@@ -8551,7 +8094,6 @@ not necessary to remove the valve cover in
 order to check the alignment marks.
 
 ### When fitting the timing belt, it is
-`volkswagen_volkswagen_golf_2_en_8818bfb4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:80
 
 recommended that VW tool 210 is used to set
 the tension accurately as this is more critical
@@ -8567,7 +8109,6 @@ obtained from a VW dealer.
 3
 
 ### Camshafts - removal and
-`volkswagen_volkswagen_golf_2_en_5e9819b5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:80
 
 refitting
 3
@@ -8583,7 +8124,6 @@ locations.
 4 Align the timing marks with reference to
 
 ### Part C of this Chapter, then check also that
-`volkswagen_volkswagen_golf_2_en_87cb8c0b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:80
 
 the marks on the chain sprockets are aligned
 (see illustration).
@@ -8610,7 +8150,6 @@ caps keeping them identified for position.
 then release them from the drive chain.
 
 ### Engine repair procedures 1.8 litre 16 valve 2D•3
-`volkswagen_volkswagen_golf_2_en_99babb23` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:80
 
 2D
 2.1  Valve timing marks
@@ -8625,7 +8164,6 @@ sprockets
 3.6  Camshaft bearing cap identification
 
 ### Inset shows recessed corner position (arrowed)
-`volkswagen_volkswagen_golf_2_en_a964017c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:80
 
 Downloaded from www.Manualslib.com manuals search engine
 12 If necessary, remove the hydraulic bucket
@@ -8641,7 +8179,6 @@ as shown in illustration 3.4, then lower the
 camshafts into position on the cylinder head.
 
 ### Recheck the timing mark alignment.
-`volkswagen_volkswagen_golf_2_en_78473fc4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:81
 
 15 Fit a new oil seal to the front end of the
 exhaust camshaft.
@@ -8678,7 +8215,6 @@ the camshaft sprocket cover.
 4
 
 ### Cylinder head - dismantling
-`volkswagen_volkswagen_golf_2_en_9e8e5954` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:81
 
 and overhaul
 3
@@ -8693,7 +8229,6 @@ valve, particularly where recycling of scrap
 metal is concerned.
 
 ### To render each valve safe, it should be
-`volkswagen_volkswagen_golf_2_en_9c58d2ef` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:81
 
 wiped dry then cut through the stem with a
 hacksaw. Throw the valve into a bucket of
@@ -8705,7 +8240,6 @@ Pistons and connecting rods
 3
 
 ### The big-end caps on 16 valve engines are
-`volkswagen_volkswagen_golf_2_en_c538fbf1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:81
 
 fitted with oil jets which direct a stream of oil
 to the underside of the pistons, mainly for
@@ -8724,7 +8258,6 @@ tightening to the specified torque.
 1
 
 ### Oil jet
-`volkswagen_volkswagen_golf_2_en_1b45fcee` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:81
 
 2
 Screw
@@ -8742,7 +8275,6 @@ Chapter 2  Part C:
 Engine repair procedures - 1.6 and 1.8 litre 8 valve
 
 ### General
-`volkswagen_volkswagen_golf_2_en_3cf21cc9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:82
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Four-cylinder in-line, water cooled, overhead camshaft
@@ -8759,7 +8291,6 @@ Carburettor  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 GU
 
 ### GTi - January 1987 on:
-`volkswagen_volkswagen_golf_2_en_180a881e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:82
 
 Without catalytic converter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 PB, GU
@@ -8769,7 +8300,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1-3-4-2 (No 1 at camshaft sprocket end)
 
 ### Displacement:
-`volkswagen_volkswagen_golf_2_en_fd4918ae` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:82
 
 1.6 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1595 cc
@@ -8777,7 +8307,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1781 cc
 
 ### Bore:
-`volkswagen_volkswagen_golf_2_en_332fdee6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:82
 
 1.6 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 81.0 mm
@@ -8785,7 +8314,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 81.0 mm
 
 ### Stroke:
-`volkswagen_volkswagen_golf_2_en_fd3e6234` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:82
 
 1.6 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 77.4 mm
@@ -8793,7 +8321,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 86.4 mm
 
 ### Compression ratio:
-`volkswagen_volkswagen_golf_2_en_8b799490` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:82
 
 1.6 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 9.0 to 1
@@ -8843,7 +8370,6 @@ Oil pump - examination and renovation  . . . . . . . . . . . . . . . . . . . . .
 Oil seals - renewal  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
 
 ### Pistons and connecting rods - examination and renovation . . . . . . . 24
-`volkswagen_volkswagen_golf_2_en_3d8c4157` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:82
 
 Pistons and connecting rods - examination and renovation . . . . . . . 24
 Pistons and connecting rods - refitting  . . . . . . . . . . . . . . . . . . . . . . . 32
@@ -8856,7 +8382,6 @@ Timing belt and sprockets - removal . . . . . . . . . . . . . . . . . . . . . . 
 Valve clearances - checking and adjustment (pre August 1985)  . . . 33
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_67ada856` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:82
 
 suitable for expert DIY
 or  professional
@@ -8884,7 +8409,6 @@ Maximum permissible difference between any two cylinders  . . . .
 3.0 bar
 
 ### Crankshaft
-`volkswagen_volkswagen_golf_2_en_83526d6e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:83
 
 Main journal:
 Standard diameter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -8893,7 +8417,6 @@ Undersizes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 53.75, 53.50 and 53.25 mm
 
 ### Crankpin:
-`volkswagen_volkswagen_golf_2_en_3dcc0620` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:83
 
 Standard diameter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 47.80 mm
@@ -8901,7 +8424,6 @@ Journal undersizes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 47.55, 47.30 and 47.05 mm
 
 ### Endfloat:
-`volkswagen_volkswagen_golf_2_en_ff7868e7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:83
 
 Maximum  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.25 mm
@@ -8911,7 +8433,6 @@ Main bearing maximum running clearance  . . . . . . . . . . . . . . . . . . . . 
 0.17 mm
 
 ### Connecting rods
-`volkswagen_volkswagen_golf_2_en_1dd02dbb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:83
 
 Big-end:
 Maximum running clearance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -8920,7 +8441,6 @@ Maximum endfloat  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 0.37 mm
 
 ### Diameter:
-`volkswagen_volkswagen_golf_2_en_1e4a5fbf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:83
 
 Standard  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 80.98 mm
@@ -8933,7 +8453,6 @@ Wear limit (10 mm from base/ right angles to pin)  . . . . . . . . . . . . . . .
 0.04 mm
 
 ### Piston rings
-`volkswagen_volkswagen_golf_2_en_28475cd4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:83
 
 Maximum clearance in groove  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.15 mm
@@ -8942,7 +8461,6 @@ Compression rings  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.30 to 0.45 mm
 
 ### Oil scraper ring:
-`volkswagen_volkswagen_golf_2_en_8c8867b6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:83
 
 1 part . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.25 to 0.40 mm
@@ -8954,7 +8472,6 @@ Maximum end gap  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.0 mm
 
 ### Gudgeon pin
-`volkswagen_volkswagen_golf_2_en_620ff1db` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:83
 
 Fit in piston  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Push fit at 60°C
@@ -8963,7 +8480,6 @@ Maximum endfloat  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 0.25 mm
 
 ### Cylinder head
-`volkswagen_volkswagen_golf_2_en_9dc1d99d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:83
 
 Maximum allowable face distortion  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.1 mm
@@ -8971,7 +8487,6 @@ Minimum height  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 132.6 mm
 
 ### Camshaft
-`volkswagen_volkswagen_golf_2_en_bcf0e8e6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:83
 
 Run-out at centre bearing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.01 mm
@@ -8979,7 +8494,6 @@ Endfloat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.15 mm
 
 ### Valves
-`volkswagen_volkswagen_golf_2_en_be46cced` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:83
 
 Seat angle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 45°
@@ -8995,7 +8509,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_aee7b1f2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:83
 
 Stem diameter:
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -9004,7 +8517,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 7.95 mm
 
 ### Standard overall length*:
-`volkswagen_volkswagen_golf_2_en_085ae2f0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Inlet:
 Codes EZ, EV, GU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -9013,7 +8525,6 @@ All other codes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 91.0 mm
 
 ### Exhaust:
-`volkswagen_volkswagen_golf_2_en_24ec4720` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:84
 
 Codes EZ, EV, GU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 98.50 mm
@@ -9024,7 +8535,6 @@ All other codes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 * Caution: Check with manufacturer on valve dimensions before renewing
 
 ### Hydraulic tappets
-`volkswagen_volkswagen_golf_2_en_a2337375` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:84
 
 Maximum free travel  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.1 mm
@@ -9034,14 +8544,12 @@ Nil valve clearance at 1.0 mm valve lift
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 5° BTDC
-`volkswagen_volkswagen_golf_2_en_7f235557` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 21° ABDC
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 41° BBDC
-`volkswagen_volkswagen_golf_2_en_26702b9e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 3° BTDC
@@ -9049,14 +8557,12 @@ Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3° BTDC
-`volkswagen_volkswagen_golf_2_en_ddd4e609` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 19° ABDC
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 27° BBDC
-`volkswagen_volkswagen_golf_2_en_a8ef6bd7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 5° BTDC
@@ -9066,14 +8572,12 @@ TDC
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 22° ABDC
-`volkswagen_volkswagen_golf_2_en_6a78cce5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 28° BBDC
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 6° BTDC
-`volkswagen_volkswagen_golf_2_en_22dd100b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 1.6 litre (code RF):
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -9081,7 +8585,6 @@ TDC
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 6° BTDC
-`volkswagen_volkswagen_golf_2_en_d432e97c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 1.8 litre (code GU - shim bucket tappets)
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -9089,14 +8592,12 @@ Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 37° ABDC
-`volkswagen_volkswagen_golf_2_en_89c3ed0f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 42° BBDC
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2° ATDC
-`volkswagen_volkswagen_golf_2_en_1c2bdeb4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 1.8 litre (code GU - hydraulic tappets - August 1985 to March 1986
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -9104,14 +8605,12 @@ Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 33° ABDC
-`volkswagen_volkswagen_golf_2_en_95fcb16c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 41° BBDC
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 5° BTDC
-`volkswagen_volkswagen_golf_2_en_78e455e8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 1.8 litre (code GU - hydraulic tappets - March 1986 on):
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -9119,14 +8618,12 @@ Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 34° ABDC
-`volkswagen_volkswagen_golf_2_en_6c8f8d8e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 44° BBDC
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 8° BTDC
-`volkswagen_volkswagen_golf_2_en_ce2792b5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 1.8 litre (code EV):
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -9134,14 +8631,12 @@ Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 45° ABDC
-`volkswagen_volkswagen_golf_2_en_bd9faf33` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 45° BBDC
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 8° BTDC
-`volkswagen_volkswagen_golf_2_en_f592c676` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 1.8 litre (codes PB, PF):
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -9149,14 +8644,12 @@ Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 43° ABDC
-`volkswagen_volkswagen_golf_2_en_da648412` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 37° BBDC
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3° ATDC
-`volkswagen_volkswagen_golf_2_en_7660a220` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:84
 
 Engine repair procedures - 1.6 and 1.8 litre 8 valve  2C•3
 2C
@@ -9168,14 +8661,12 @@ Nil valve clearance at 1.0 mm valve lift
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2° BTDC
-`volkswagen_volkswagen_golf_2_en_3f6af830` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:85
 
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 34° ABDC
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 44° BBDC
-`volkswagen_volkswagen_golf_2_en_f322ca66` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:85
 
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 8° BTDC
@@ -9183,7 +8674,6 @@ Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 40° BBDC
-`volkswagen_volkswagen_golf_2_en_9e698098` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:85
 
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 4° BTDC
@@ -9191,14 +8681,12 @@ Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 5° BTDC
-`volkswagen_volkswagen_golf_2_en_44496f4e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:85
 
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 41° ABDC
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 37° BBDC
-`volkswagen_volkswagen_golf_2_en_8b4cad66` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:85
 
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1° BTDC
@@ -9210,7 +8698,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.40 to 0.50 m
 
 ### Cold:
-`volkswagen_volkswagen_golf_2_en_8059a766` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:85
 
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.15 to 0.25 mm
@@ -9218,7 +8705,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.35 to 0.45 mm
 
 ### Refer to “Lubricants, fluids and capacities”
-`volkswagen_volkswagen_golf_2_en_6708565a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:85
 
 Filter type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion C101/C160
@@ -9228,7 +8714,6 @@ Pressure (2000 rpm with oil temperature 80°C)  . . . . . . . . . . . . . . . . 
 2.0 bar minimum
 
 ### Torque wrench settings
-`volkswagen_volkswagen_golf_2_en_16842f3f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:85
 
 Nm
 lbf ft
@@ -9262,7 +8747,6 @@ Main bearing cap bolts . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 48
 
 ### Further tighten 1/4 turn (90°)
-`volkswagen_volkswagen_golf_2_en_c076c710` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:85
 
 Oil pump bolts  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 10
@@ -9326,7 +8810,6 @@ Distributor clamp bolt  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_226a5144` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:85
 
 1
 General information
@@ -9337,7 +8820,6 @@ the vehicle. The transmission is attached to
 the flywheel end of the engine.
 
 ### The crankshaft is of five main bearing type,
-`volkswagen_volkswagen_golf_2_en_18411db3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 its endfloat being controlled by a shouldered
 centre bearing or by half thrustwashers
@@ -9353,7 +8835,6 @@ head incorporating hydraulic bucket tappets
 in place of the previous shim bucket tappets.
 
 ### Camshaft bearing No. 4 is deleted on all
-`volkswagen_volkswagen_golf_2_en_91dc0904` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 single camshaft engines. In order to identify
 the type of tappets fitted, a sticker is normally
@@ -9362,7 +8843,6 @@ clearance adjustment is neither necessary nor
 possible.
 
 ### An intermediate shaft (driven by the toothed
-`volkswagen_volkswagen_golf_2_en_30643878` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 timing belt) drives the distributor and oil pump
 and on carburettor equipped engines, the fuel
@@ -9372,7 +8852,6 @@ from the immediate shaft and incorporates a
 pressure relief valve.
 
 ### The aluminium cylinder head is of
-`volkswagen_volkswagen_golf_2_en_31c30921` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 conventional design with the inlet and exhaust
 manifolds mounted on the rear side (as
@@ -9385,7 +8864,6 @@ comprises a hose from the flywheel end of the
 valve cover to the side of the air cleaner.
 
 ### On fuel injection equipped engines, there is
-`volkswagen_volkswagen_golf_2_en_3960dc01` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 a hose to the air inlet manifold and a hose to
 the air cleaner from a three-way connector on
@@ -9412,7 +8890,6 @@ f) Renewal of the engine mountings
 3
 
 ### Major operations only
-`volkswagen_volkswagen_golf_2_en_9ba712fb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 possible after removal of
 engine from vehicle
@@ -9426,7 +8903,6 @@ shaft
 4
 
 ### Method of engine removal
-`volkswagen_volkswagen_golf_2_en_3f12383f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 1 The engine, together with the gearbox,
 must be lifted from the engine compartment,
@@ -9456,7 +8932,6 @@ disconnecting and reconnecting the joint, it
 will be necessary to use VW tool no. 3049A.
 
 ### Without this tool, detachment and certainly
-`volkswagen_volkswagen_golf_2_en_d0e1899b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 reconnection of the joint and clips is virtually
 impossible, so make arrangements to borrow
@@ -9473,7 +8948,6 @@ place where you must work.
 7 Although not listed as an optional fitting on
 
 ### UK models, an air conditioning system may
-`volkswagen_volkswagen_golf_2_en_59cf3e42` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:86
 
 have been fitted. Where this is the case, the
 following precautions must be taken when
@@ -9499,7 +8973,6 @@ f) If any part of the system is to be detached
 then it must first be depressurised by your
 
 ### VW dealer or a competent air conditioning
-`volkswagen_volkswagen_golf_2_en_6f215d2b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 systems engineer. The only exception is
 the removal and fitting of the compressor
@@ -9519,7 +8992,6 @@ engine oil - see Chapter 1. On completion clean
 the drain plug and refit it. Renew the O-ring.
 
 ### Engine repair procedures - 1.6 and 1.8 litre 8 valve 2C•5
-`volkswagen_volkswagen_golf_2_en_95eff781` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 2C
 1081 VW Golf & Jetta
@@ -9553,7 +9025,6 @@ g)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 * When checking the connecting rod-to-crankshaft journal radial clearance using Plastigage, tighten only to 30Nm (22 lbf ft).
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_538c1e26` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 5 Remove the radiator, together with the
 cooling fan. On models manufactured after
@@ -9598,7 +9069,6 @@ the
 carburettor.
 
 ### Identify
-`volkswagen_volkswagen_golf_2_en_4d4ed0a2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:87
 
 the
 connections where necessary to avoid
@@ -9630,7 +9100,6 @@ underneath.
 19 On automatic transmission models, select
 
 ### P (Park) then disconnect the throttle and
-`volkswagen_volkswagen_golf_2_en_3cd92e72` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:87
 
 selector cables from the transmission.
 20 Disconnect the driveshafts from the
@@ -9670,7 +9139,6 @@ Refer to Specifications for fastener torque wrench settings b, e and f
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_a0e8789d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:87
 
 26 The engine/gearbox unit is now ready for
 lifting out but first make a final check that all
@@ -9680,7 +9148,6 @@ the unit clear of the surrounding components
 in the engine compartment as it is lifted out.
 
 ### The unit will have to be twisted slightly as it is
-`volkswagen_volkswagen_golf_2_en_c3ae90b6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:88
 
 raised. Once clear of the vehicle, lower it to
 the work surface.
@@ -9730,7 +9197,6 @@ need to be pulled forwards first then twisted
 and lifted.
 
 ### Engine repair procedures - 1.6 and 1.8 litre 8 valve 2C•7
-`volkswagen_volkswagen_golf_2_en_8caabe79` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:88
 
 2C
 1081 VW Golf & Jetta
@@ -9750,7 +9216,6 @@ Distributor HT cable
 6
 
 ### Hall sender (distributor)
-`volkswagen_volkswagen_golf_2_en_79f2d82f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:88
 
 7
 Vacuum switch
@@ -9769,7 +9234,6 @@ Throttle cable
 2
 
 ### Cold start valve
-`volkswagen_volkswagen_golf_2_en_08d3dfca` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:88
 
 3
 Vacuum hoses
@@ -9789,7 +9253,6 @@ necessary to refer to those paragraphs
 pertinent to the particular method being used.
 
 ### The engine must be supported on blocks, or
-`volkswagen_volkswagen_golf_2_en_7a02fb75` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:89
 
 alternatively the gearbox can be separated
 with the engine still on the hoist.
@@ -9803,7 +9266,6 @@ Engine ancillary components
 3
 
 ### With the engine removed from the vehicle
-`volkswagen_volkswagen_golf_2_en_f26938f1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:89
 
 and separated from the transmission, the
 externally mounted ancillary components can
@@ -9825,7 +9287,6 @@ h) Oil pressure and coolant temperature and
 sensor switches
 
 ### I) Coolant pump and coolant hose
-`volkswagen_volkswagen_golf_2_en_8ef1b14e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:89
 
 connectors from cylinder block and head.
 New O-rings will be required
@@ -9836,7 +9297,6 @@ shim(s) (automatic transmission)
 9
 
 ### Timing belt and sprockets -
-`volkswagen_volkswagen_golf_2_en_2d9e5793` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:89
 
 removal
 3
@@ -9856,7 +9316,6 @@ necessary to remove the bung from the front
 9.2  Timing belt and cover components
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_6e723652` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:89
 
 face of the cover to allow access to the Allen
 type retaining screw recessed within the
@@ -9878,7 +9337,6 @@ cover.
 6 The engine must now be set for timing.
 
 ### Temporarily refit the crankshaft pulley. On the
-`volkswagen_volkswagen_golf_2_en_a63b1251` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:90
 
 intermediate sprocket for the timing belt one
 tooth has a centre-punch mark. Turn the
@@ -9895,7 +9353,6 @@ has a centre-punch mark. This should be level
 with the valve cover flange (see illustration).
 
 ### Having turned the engine until these marks
-`volkswagen_volkswagen_golf_2_en_81643c7b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:90
 
 agree, now look at the cams for No 1 cylinder
 (nearest the timing belt). They will both be in
@@ -9961,7 +9418,6 @@ examination and refitting
 3
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_7691fff1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:90
 
 1 To remove the camshaft with the engine in
 the vehicle, first carry out the following
@@ -9971,7 +9427,6 @@ then disconnect the timing belt from the
 camshaft sprocket
 
 ### Engine repair procedures - 1.6 and 1.8 litre 8 valve 2C•9
-`volkswagen_volkswagen_golf_2_en_ded9833f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:90
 
 2C
 9.7b  No. 1 cylinder cam lobes in valve
@@ -9984,7 +9439,6 @@ notch in crankshaft pulley
 at TDC on compression
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_65d02348` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:90
 
 b) If the camshaft oil seal is to be renewed
 then the camshaft timing sprocket must
@@ -9994,7 +9448,6 @@ illustrations), making a careful note of their
 fitted positions for reference when refitting .
 
 ### The caps are numbered (see illustration) but
-`volkswagen_volkswagen_golf_2_en_b4a3f67d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:91
 
 mark the side nearest the front of the cylinder
 head. No. 1 cap is the one with a small oil seal
@@ -10008,7 +9461,6 @@ along with the camshaft. The oil seal on the
 front end of the camshaft will come with it.
 
 ### Depending on tappet type, proceed as
-`volkswagen_volkswagen_golf_2_en_bf2c59ea` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:91
 
 follows:
 Shim bucket tappets
@@ -10020,7 +9472,6 @@ side and lifting the disc away. On its reverse,
 each disc is engraved with a size (eg. 3.75).
 
 ### This is its thickness number. Note the number
-`volkswagen_volkswagen_golf_2_en_bf9d1ba7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:91
 
 and then clean the disc and refit it, number
 side down. There are eight of these and they
@@ -10037,7 +9488,6 @@ valves, so a container for each valve assembly
 (arrowed)
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_114a53ba` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:91
 
 and tappet is required. Label the containers 1
 to 8, as follows:
@@ -10047,7 +9497,6 @@ Containers 3 and 4 will be No 2 cylinder
 exhaust and inlet respectively
 
 ### Containers 5 and 6 will be No 3 cylinder
-`volkswagen_volkswagen_golf_2_en_5aadadff` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:92
 
 inlet and exhaust respectively
 Containers 7 and 8 will be No 4 cylinder
@@ -10068,7 +9517,6 @@ cracks.
 must be renewed.
 
 ### Examination
-`volkswagen_volkswagen_golf_2_en_90b5ba60` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:92
 
 10 Refer to Section 27 in Part A of this
 Chapter whilst noting that on exchange
@@ -10077,7 +9525,6 @@ supplied with bearing shells instead of running
 directly in the head and bearing caps.
 
 ### Exchange units supplied by VW may have an
-`volkswagen_volkswagen_golf_2_en_0a215293` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:92
 
 undersized camshaft with corresponding
 bearing shells. Where this is the case, the
@@ -10088,7 +9535,6 @@ shells will be of standard size with a journal
 diameter of 26.00 mm.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_03dda100` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:92
 
 11 Refer to Section 12.
 11 Cylinder head - removal
@@ -10130,7 +9576,6 @@ carburettor.
 plugs.
 
 ### Fuel injection equipped engines
-`volkswagen_volkswagen_golf_2_en_45569ac0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:92
 
 8 Detach the injector lines from the cylinder
 head and location clips and fold them back
@@ -10142,7 +9587,6 @@ valve housing and at the three-way connector
 on the bulkhead side of the cylinder head.
 
 ### Fold back and secure the hoses out of the
-`volkswagen_volkswagen_golf_2_en_da718be0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:92
 
 way.
 11 Disconnect the auxiliary air valve lead
@@ -10161,7 +9605,6 @@ valve connection.
 start valve.
 
 ### All engines
-`volkswagen_volkswagen_golf_2_en_8ec146e9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:92
 
 16 Remove the timing cover and valve cover,
 then disconnect the timing belt from the
@@ -10193,7 +9636,6 @@ clean all carbon from the combustion
 chambers, valve faces and exhaust ports.
 
 ### Remove the spark plugs for cleaning.
-`volkswagen_volkswagen_golf_2_en_669af301` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:92
 
 2 The valves are not easy to get out unless a
 suitable valve spring compressor is available.
@@ -10223,7 +9665,6 @@ refitting in the valve guide from which they
 were taken (see illustration).
 
 ### Engine repair procedures - 1.6 and 1.8 litre 8 valve 2C•11
-`volkswagen_volkswagen_golf_2_en_ee5aa2e0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:92
 
 2C
 12.2  Improvised tool used to remove and
@@ -10239,7 +9680,6 @@ then
 insert it into the slot on the valve stem.
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_6b46f5ac` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:92
 
 4 The valve springs must be renewed if they
 are damaged, distorted, or known to have
@@ -10263,7 +9703,6 @@ will move sideways when the top of the valve
 stem is flush with the top of the valve guide.
 
 ### The valve rock limits are given in the
-`volkswagen_volkswagen_golf_2_en_4146f184` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:93
 
 Specifications. New valve guides must be
 fitted and reamed by your VW dealer.
@@ -10349,7 +9788,6 @@ cams point upwards.
 lubricate the bearings, set the shaft in position
 
 ### and install bearing caps Nos 2 and 4,
-`volkswagen_volkswagen_golf_2_en_c45a6409` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:93
 
 and install bearing caps Nos 2 and 4,
 tightening the nuts in a diagonal pattern until
@@ -10367,7 +9805,6 @@ and refitting
 3
 
 ### Modification: From August 1985, a larger
-`volkswagen_volkswagen_golf_2_en_cd85ce10` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:93
 
 sump is fitted thereby increasing engine oil
 capacity. If renewing the sump, ensure that
@@ -10377,7 +9814,6 @@ Removal
 engine oil. Note that the sump plug has an
 
 ### O-ring which must be renewed (see
-`volkswagen_volkswagen_golf_2_en_7cfa027b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:93
 
 illustration).
 2 Undo the sump retaining bolts and remove
@@ -10396,7 +9832,6 @@ head
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_89bea5c5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:93
 
 complete with the oil pick-up pipe and
 strainer.
@@ -10421,7 +9856,6 @@ then lower and remove the pump, complete
 with oil pick-up pipe from the crankcase.
 
 ### Place it on one side for cleaning and
-`volkswagen_volkswagen_golf_2_en_d74179b3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:94
 
 inspection.
 4 The piston and connecting rod removal
@@ -10442,7 +9876,6 @@ flange, seal and gasket.
 3 Examine the main bearing caps. It will be
 
 ### Engine repair procedures - 1.6 and 1.8 litre 8 valve 2C•13
-`volkswagen_volkswagen_golf_2_en_b67c2af2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:94
 
 2C
 1081 VW Golf & Jetta
@@ -10495,7 +9928,6 @@ reassembly.
 15.3  Checking crankshaft endfloat at
 
 ### No. 3 main bearing
-`volkswagen_volkswagen_golf_2_en_06e41543` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:95
 
 16.5b  Withdrawing intermediate shaft
 16.5a  Intermediate shaft retaining flange
@@ -10507,7 +9939,6 @@ Downloaded from www.Manualslib.com manuals search engine
 1
 
 ### Refer to Chapter 1, Section 18
-`volkswagen_volkswagen_golf_2_en_b9c8c4ca` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:96
 
 18 Oil cooler - removal and
 refitting
@@ -10546,7 +9977,6 @@ withdraw the mounting and gasket.
 from the top face of the mounting if required.
 
 ### Renew the switch O-ring.
-`volkswagen_volkswagen_golf_2_en_6f4c1618` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:96
 
 4 Refitting is a reversal of the removal
 procedure. Renew the mounting gasket.
@@ -10557,7 +9987,6 @@ carried out with the engine in the vehicle
 Crankshaft seals
 
 ### Flywheel/driveplate end
-`volkswagen_volkswagen_golf_2_en_ba72940a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:96
 
 1 On manual gearbox models, remove the
 clutch and pressure plate. On automatic
@@ -10580,7 +10009,6 @@ avoid damage to the oil seal lip.
 4 Refit the driveplate or clutch.
 
 ### Timing belt end
-`volkswagen_volkswagen_golf_2_en_515e61ca` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:96
 
 5 Remove the alternator, together with its
 drivebelt.
@@ -10605,7 +10033,6 @@ squarely into the housing using a block of
 wood or suitable metal tubing. If available use
 
 ### VW fitting sleeve No. 3083.
-`volkswagen_volkswagen_golf_2_en_31c1aa03` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:96
 
 10 The remaining refitting procedure is a
 reversal of removal. Ensure that the timing
@@ -10635,7 +10062,6 @@ marks are aligned before refitting the timing
 belt and tensioning it.
 
 ### Intermediate shaft seal
-`volkswagen_volkswagen_golf_2_en_ed18ba94` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:96
 
 17 Remove the alternator together with its
 drivebelt.
@@ -10656,7 +10082,6 @@ belt and tensioning it.
 - general information
 
 ### Refer to Section 20 in Part A of this Chapter.
-`volkswagen_volkswagen_golf_2_en_fe1bd585` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:96
 
 22 Crankshaft and bearings -
 examination and renovation 5
@@ -10668,7 +10093,6 @@ components
 1
 
 ### Intermediate plate
-`volkswagen_volkswagen_golf_2_en_67b6dd2a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:96
 
 2
 Bolt
@@ -10686,7 +10110,6 @@ Downloaded from www.Manualslib.com manuals search engine
 examination and renovation 5
 
 ### Refer to Section 22 in Part A of this Chapter.
-`volkswagen_volkswagen_golf_2_en_875c13bd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:97
 
 24 Pistons and connecting rods
 - examination and renovation 4
@@ -10704,7 +10127,6 @@ of the cover (see illustration). As seen in the
 illustration, the gears have marked the cover.
 
 ### If the depth of this marking is significant, then
-`volkswagen_volkswagen_golf_2_en_2073d130` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:97
 
 the face of the cover must be machined flat
 again.
@@ -10764,7 +10186,6 @@ examination and renovation 4
 chipped or worn then renew the starter ring.
 
 ### This means heating the ring until it may be
-`volkswagen_volkswagen_golf_2_en_ba692478` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:97
 
 withdrawn from the flywheel, or alternatively,
 splitting it. A new one must then be shrunk on.
@@ -10791,7 +10212,6 @@ scoring
 27.3  Flywheel/driveplate ignition timing marks
 
 ### Engine code EZ (1.6)-flywheel a = 37.0 mm 18° BTDC
-`volkswagen_volkswagen_golf_2_en_407a9e70` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:97
 
 Engine code EZ (1.6)-driveplate: a = 42.0 mm 18° BTDC
 Engine code EV (1.8) - flywheel: a = 12.5 mm 6° BTDC
@@ -10799,7 +10219,6 @@ Engine code GU (1.8) - flywheel a = 37.0 mm 18° BTDC
 Engine code GU (1.8) - driveplate: a = 42.0 mm 18° BTDC
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_7569abd7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:97
 
 4 On automatic transmission models, check
 the driveplate as described for the flywheel. It
@@ -10809,7 +10228,6 @@ driveplate for ignition timing.
 examination and renovation 1
 
 ### Refer to Section 26 in Part A of this
-`volkswagen_volkswagen_golf_2_en_38d061d0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:98
 
 Chapter. The information given also applies to
 the intermediate shaft sprocket.
@@ -10821,7 +10239,6 @@ bearings - refitting
 3
 
 ### Note: If it is difficult to rotate the crankshaft,
-`volkswagen_volkswagen_golf_2_en_cbc3cf81` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:98
 
 check that the bearing shells are seated
 properly and that the bearing cap is in the
@@ -10842,7 +10259,6 @@ that the tang on the bearing engages in the
 recess in the crankcase or bearing cap.
 
 ### Ensure that the shells fitted to the crankcase
-`volkswagen_volkswagen_golf_2_en_4461538d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:98
 
 have oil grooves and holes and that these
 align with the drillings in the bearing housings.
@@ -10884,7 +10300,6 @@ using a new gasket, install the rear oil seal and
 flange. Tighten the six bolts (see illustration).
 
 ### Engine repair procedures - 1.6 and 1.8 litre 8 valve 2C•17
-`volkswagen_volkswagen_golf_2_en_8d4f57cb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:98
 
 2C
 30.3a  Fitting flanged type centre main
@@ -10904,7 +10319,6 @@ with joint face
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_acb25a2d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:98
 
 10 Lubricate the front of the crankshaft and
 fit the front oil seal and flange with a new
@@ -10915,7 +10329,6 @@ Lubricate the intermediate shaft with clean
 engine oil then install it in the block.
 
 ### Fit the O-ring and flange, together with the
-`volkswagen_volkswagen_golf_2_en_57594028` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 oil seal, then tighten the bolts. Note that the
 oil hole must be at the bottom of the flange.
@@ -10926,7 +10339,6 @@ Proceed as described in Section 30, Part A
 of this Chapter, paragraphs 2 to 7 inclusive.
 
 ### When refitting the big-end nuts, oil the
-`volkswagen_volkswagen_golf_2_en_5c9223b6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 threads.
 On completion, check the endfloat of each
@@ -10946,7 +10358,6 @@ adjusted with the cylinder head removed
 normal manner described in Section 12 of
 
 ### Chapter 1.
-`volkswagen_volkswagen_golf_2_en_7a3eafa7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 3 There are two specified valve clearance
 settings, these being for a cold (cylinder head
@@ -10962,7 +10373,6 @@ again, hot, after 600 miles (900 km).
 3
 
 ### Note: New cylinder head retaining bolts must
-`volkswagen_volkswagen_golf_2_en_92caeea4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 be used on refitting
 1 Clean the top face of the block. Clean and
@@ -10974,7 +10384,6 @@ inclined surface between No. 3 and No. 4
 cylinders on the side above the distributor.
 
 ### Using this as a datum, install a new cylinder
-`volkswagen_volkswagen_golf_2_en_4341a20a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 head gasket so that the word ‘OBEN’ on the
 gasket is over this datum point and on the top
@@ -10990,7 +10399,6 @@ new bolts. Following the sequence shown,
 tighten the bolts until the head is firmly held.
 
 ### Using a torque wrench, tighten the bolts in
-`volkswagen_volkswagen_golf_2_en_1314c3fb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 stages to the specified torque following the
 same sequence (see illustration).
@@ -11006,7 +10414,6 @@ washer onto the bolt then fit and tighten the
 bolt to the specified torque wrench setting.
 
 ### Hold the sprocket stationary when tightening
-`volkswagen_volkswagen_golf_2_en_68b2c336` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 by inserting a screwdriver through one of its
 holes and jamming it against the cylinder
@@ -11016,7 +10423,6 @@ the groove at the front of the crankshaft then
 refit the timing belt sprocket onto the shaft.
 
 ### Lubricate the retaining bolt with oil, locate the
-`volkswagen_volkswagen_golf_2_en_9548bcf5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 spacer washer onto the bolt then fit and
 tighten it to the specified torque wrench
@@ -11035,7 +10441,6 @@ block or head.
 4 If removed, refit the timing belt rear cover.
 
 ### Apply locking compound to the stud thread.
-`volkswagen_volkswagen_golf_2_en_fe325e04` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 5 Locate the crankshaft pulley onto the
 sprocket (aligning the marks made previously)
@@ -11050,7 +10455,6 @@ intermediate shaft sprocket until the dot on
 the intermediate sprocket and the mark on the
 
 ### V-belt pulley coincide. Install the timing belt
-`volkswagen_volkswagen_golf_2_en_06f2b306` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 tensioner loosely and then the timing belt.
 Making sure the marks are still in place, put a
@@ -11065,7 +10469,6 @@ block
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_369dcabe` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 between the camshaft and intermediate shaft
 sprockets. Tighten the eccentric adjuster nut
@@ -11092,7 +10495,6 @@ driveplate together with any shims originally
 located between the crankshaft and the plate.
 
 ### Fit the washer on the transmission side of the
-`volkswagen_volkswagen_golf_2_en_be43eff2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:100
 
 driveplate, ensuring that the chamfered side
 of the washer faces towards the driveplate.
@@ -11146,7 +10548,6 @@ engine.
 4
 
 ### To refit the engine/transmission, reverse the
-`volkswagen_volkswagen_golf_2_en_a680a765` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:100
 
 removal procedures but note the following:
 a) When lowering the unit into the engine
@@ -11173,7 +10574,6 @@ system fluid
 checking free travel (from
 
 ### August 1985)
-`volkswagen_volkswagen_golf_2_en_ec28d512` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:100
 
 2
 1 Start the engine and run it until the radiator
@@ -11201,7 +10601,6 @@ major overhaul
 2
 
 ### Refer to Section 41 in Part A of this Chapter.
-`volkswagen_volkswagen_golf_2_en_55491993` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:100
 
 If new hydraulic bucket tappets have been
 fitted, it is essential that no attempt to restart
@@ -11212,7 +10611,6 @@ damage caused by the valves contacting the
 pistons.
 
 ### Engine repair procedures - 1.6 and 1.8 litre 8 valve 2C•19
-`volkswagen_volkswagen_golf_2_en_b588b3e5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:100
 
 2C
 36.1  Checking driveplate-to-cylinder block dimension (A) using vernier calipers
@@ -11226,7 +10624,6 @@ Downloaded from www.Manualslib.com manuals search engine
 3
 
 ### Refer to the appropriate Part of Chapter 2
-`volkswagen_volkswagen_golf_2_en_30ecb9a5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:102
 
 for the particular engine type concerned.
 36 Brake fluid renewal
@@ -11270,7 +10667,6 @@ final drive fluid renewal
 2
 
 ### Note: Under extreme operating conditions,
-`volkswagen_volkswagen_golf_2_en_bd2a4428` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:102
 
 automatic transmission fluid should be
 changed at more frequent intervals.
@@ -11303,7 +10699,6 @@ torque. Lower the vehicle.
 of the specified fluid, then restart the engine.
 
 ### Check that the handbrake is fully applied then
-`volkswagen_volkswagen_golf_2_en_cc494c2f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:102
 
 move the gear selector lever through the full
 range of gears finishing at N. With the engine
@@ -11317,7 +10712,6 @@ warm-up the fluid in the transmission then
 recheck the fluid level. Top-up if necessary.
 
 ### Do not overfill with fluid or the excess will
-`volkswagen_volkswagen_golf_2_en_56454ba9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:102
 
 have to be drained off.
 Final drive unit
@@ -11337,7 +10731,6 @@ then refit the plug. Lower the vehicle.
 1081 VW Golf & Jetta
 
 ### Every 30 000 miles (45 000 km)
-`volkswagen_volkswagen_golf_2_en_96de2235` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:102
 
 Every 2 years
 Every 40 000 miles (60 000 km)
@@ -11349,14 +10742,12 @@ Chapter 4  Part A:
 Fuel and exhaust systems - carburettor models
 
 ### Air cleaner
-`volkswagen_volkswagen_golf_2_en_78bc473d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:103
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Automatic air temperature control
 Element type . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Renewable paper
-`volkswagen_volkswagen_golf_2_en_c57349a5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:103
 
 Element application:
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -11364,14 +10755,12 @@ Champion Wl01
 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion W102
-`volkswagen_volkswagen_golf_2_en_9d09e477` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:103
 
 1.6 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion U508
 1.8 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion U508
-`volkswagen_volkswagen_golf_2_en_28cd9d7f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:103
 
 Fuel pump
 Type:
@@ -11381,7 +10770,6 @@ Mechanical, diaphragm, operated by plunger from camshaft
 Mechanical, diaphragm, operated by eccentric on intermediate shaft
 
 ### Fuel filter
-`volkswagen_volkswagen_golf_2_en_ead8822d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:103
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion L104
@@ -11390,14 +10778,12 @@ Pierburg/Solex 31 PIC-7
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Downdraught with manual or automatic choke
-`volkswagen_volkswagen_golf_2_en_f1870782` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:103
 
 Venturi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 23 mm
 Main jet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### X117.5
-`volkswagen_volkswagen_golf_2_en_1701a656` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:103
 
 Air correction jet with emulsion tube  . . . . . . . . . . . . . . . . . . . . . . . . . . .
 115 Z
@@ -11452,7 +10838,6 @@ Fuel reservoir - removal and refitting . . . . . . . . . . . . . . . . . . . . .
 Fuel tank - removal and refitting  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### General information and precautions . . . . . . . . . . . . . . . . . . . . .
-`volkswagen_volkswagen_golf_2_en_264fb4b3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:103
 
 7
 General information and precautions  . . . . . . . . . . . . . . . . . . . . . . . .
@@ -11461,7 +10846,6 @@ Inlet and exhaust manifolds - removal and refitting  . . . . . . . . . . . . . 1
 Inlet manifold preheating - testing . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_87dd8418` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:103
 
 suitable for expert DIY
 or  professional
@@ -11498,7 +10882,6 @@ CO content % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.0 ± 0.5
 
 ### Weber 32 TLA
-`volkswagen_volkswagen_golf_2_en_2cfe0866` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:104
 
 Venturi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 22 mm
@@ -11509,7 +10892,6 @@ Code 030 129 016 D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 102
 
 ### Air correction jet:
-`volkswagen_volkswagen_golf_2_en_83325b69` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:104
 
 Code 030 129 016  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 80
@@ -11521,7 +10903,6 @@ Idling fuel jet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 47
 
 ### Idling air jet:
-`volkswagen_volkswagen_golf_2_en_68f38b2e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:104
 
 Code 030 129 016  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 110
@@ -11541,7 +10922,6 @@ Accelerator pump capacity (cc/stroke) . . . . . . . . . . . . . . . . . . . . . 
 1.05 ± 0.15
 
 ### Choke valve gap (pull-down):
-`volkswagen_volkswagen_golf_2_en_f85f1358` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:104
 
 Without vacuum  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.5 ± 0.2 mm
@@ -11549,7 +10929,6 @@ With 300 mbar vacuum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.0 ± 0.2 mm
 
 ### Choke valve gap (wide open kick):
-`volkswagen_volkswagen_golf_2_en_1c591710` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:104
 
 Code 030 129 016  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.0 ± 0.5 mm
@@ -11565,7 +10944,6 @@ CO content % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.0 ± 0.5
 
 ### Carburettor - 1.3 litre
-`volkswagen_volkswagen_golf_2_en_6bb0ece9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:104
 
 Pierburg/Solex 2E3
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -11579,7 +10957,6 @@ Main jet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 X95
 
 ### X110
-`volkswagen_volkswagen_golf_2_en_5b64d400` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:104
 
 Air correction jet with emulsion tube  . . . . . . . . . . . . . . . . . . . . . . . . . . .
 120
@@ -11613,7 +10990,6 @@ C0 content %  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_840523fd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:104
 
 Carburettor-1.6 litre
 Pierburg/Solex 2E2 - engine code EZ
@@ -11621,7 +10997,6 @@ Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Twin progressive choke, downdraught with automatic choke
 
 ### Stage I
-`volkswagen_volkswagen_golf_2_en_a516281b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:105
 
 Stage II
 Venturi diameter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -11630,7 +11005,6 @@ Venturi diameter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Main jet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### X110
-`volkswagen_volkswagen_golf_2_en_07655310` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:105
 
 X127
 Air correction jet with emulsion tube  . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -11655,7 +11029,6 @@ Idle speed  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 950 ± 50 rpm
 
 ### Increased idle speed:
-`volkswagen_volkswagen_golf_2_en_a20a3d92` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:105
 
 Automatic transmission  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 800 rpm
@@ -11665,7 +11038,6 @@ CO content % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.0 ± 0.5
 
 ### Pierburg/Solex 2E2 - engine code RF
-`volkswagen_volkswagen_golf_2_en_9ba6576e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:105
 
 Stage I
 Stage II
@@ -11689,7 +11061,6 @@ Accelerator pump injection tube  . . . . . . . . . . . . . . . . . . . . . . . .
 -
 
 ### Choke valve gap:
-`volkswagen_volkswagen_golf_2_en_0cc80bfe` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:105
 
 Manual gearbox  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.5 ± 0.15 mm
@@ -11707,7 +11078,6 @@ CO content % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.0 to 1.5
 
 ### Carburettor - 1.8 litre
-`volkswagen_volkswagen_golf_2_en_b1280710` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:105
 
 Pierburg/Solex 2E2
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -11720,7 +11090,6 @@ Venturi diameter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Main jet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### X105
-`volkswagen_volkswagen_golf_2_en_46ce2aef` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:105
 
 X120
 Air correction jet with emulsion tube  . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -11734,7 +11103,6 @@ Full throttle enrichment . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.9
 
 ### Pump injection tube:
-`volkswagen_volkswagen_golf_2_en_3edb61eb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:105
 
 Carburettor part number type 027 129 015  . . . . . . . . . . . . . . . . . . . .
 0.35
@@ -11753,7 +11121,6 @@ Idle speed  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 950 ± 50 rpm
 
 ### Torque wrench settings
-`volkswagen_volkswagen_golf_2_en_7ec2f943` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:105
 
 Nm
 lbf ft
@@ -11784,7 +11151,6 @@ Exhaust pipe clamp bolts  . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 18
 
 ### Fuel and exhaust systems - carburettor models 4A•3
-`volkswagen_volkswagen_golf_2_en_392d773b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:105
 
 4A
 1081 VW Golf & Jetta
@@ -11813,7 +11179,6 @@ Exhaust manifold  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 18
 
 ### Exhaust pipe clip:
-`volkswagen_volkswagen_golf_2_en_90add8b3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:106
 
 8 mm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 25
@@ -11824,7 +11189,6 @@ Exhaust manifold  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1
 
 ### General information and
-`volkswagen_volkswagen_golf_2_en_c3c6a4f8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:106
 
 precautions
 General information
@@ -11838,7 +11202,6 @@ models, it is operated directly by an eccentric
 on the intermediate shaft.
 
 ### The air cleaner unit contains a renewable
-`volkswagen_volkswagen_golf_2_en_365aa7a9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:106
 
 paper element and incorporates an automatic
 temperature control.
@@ -11850,7 +11213,6 @@ Fuel warning
 Many of the procedures in this
 
 ### Chapter require the removal of
-`volkswagen_volkswagen_golf_2_en_8f84271f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:106
 
 fuel lines and connections which
 may result in some fuel spillage.
@@ -11863,7 +11225,6 @@ the precautions necessary when handling
 it cannot be overstressed.
 
 ### Tamperproof adjustment screws
-`volkswagen_volkswagen_golf_2_en_f445d99d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:106
 
 Certain adjustment points in the fuel system
 are protected by “tamperproof” caps, plugs or
@@ -11872,7 +11233,6 @@ to discourage, and to detect, adjustment by
 unqualified operators.
 
 ### In some EEC countries (though not in the
-`volkswagen_volkswagen_golf_2_en_2f3751e3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:106
 
 UK), it is an offence to drive a vehicle with
 missing or broken tamperproof seals. Before
@@ -11882,7 +11242,6 @@ by doing so. Fit a new seal when adjustment
 is complete, if this is required by law.
 
 ### Do not break tamperproof seals on a
-`volkswagen_volkswagen_golf_2_en_ec8536c3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:106
 
 vehicle which is still under warranty.
 Unleaded petrol - usage
@@ -11897,7 +11256,6 @@ will lead to serious damage of the valve seats.
 2
 
 ### Air cleaner element - renewal 1
-`volkswagen_volkswagen_golf_2_en_300af585` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:106
 
 Refer to Chapter 1, Section 32
 3
@@ -11933,7 +11291,6 @@ perished or distorted.
 4
 
 ### Automatic air cleaner
-`volkswagen_volkswagen_golf_2_en_2d5017e2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:106
 
 temperature control - testing 2
 1 Unclip and remove the vacuum unit and
@@ -11943,7 +11300,6 @@ connected (see illustration).
 through the inlet duct then start the engine.
 
 ### Between -20°C and + 20°C, the control flap in
-`volkswagen_volkswagen_golf_2_en_d3fb6766` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:106
 
 the unit should be a maximum of 2/3rds open
 to admit hot air from the exhaust manifold.
@@ -11966,7 +11322,6 @@ hose . . .
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_e43bb871` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:106
 
 Fuel and exhaust systems - carburettor models  4A•5
 4A
@@ -11987,7 +11342,6 @@ Bracket
 7
 
 ### Washer
-`volkswagen_volkswagen_golf_2_en_1695b6c9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:107
 
 8
 Nut
@@ -12015,7 +11369,6 @@ Bonded rubber mounting
 1.05 and 1.3 litre
 
 ### A Temperature regulator
-`volkswagen_volkswagen_golf_2_en_42d6458e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:107
 
 B Intake pipe with thermostat
 C Vacuum unit
@@ -12028,7 +11381,6 @@ sensor (see illustration).
 5
 
 ### Fuel pump - testing, removal
-`volkswagen_volkswagen_golf_2_en_b9a3f52a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:108
 
 and refitting
 3
@@ -12060,7 +11412,6 @@ repair it. However, prior to removal of the
 pump, check the in-line filter for blockage.
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_1055775b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:108
 
 4 To remove the fuel pump, first identify the
 hoses for position then disconnect them from
@@ -12075,7 +11426,6 @@ lead location.
 cylinder head or cylinder block/seal flange.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_1f09611c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:108
 
 7 Refitting is a reversal of the removal
 procedure. Renew the seal ring and, where
@@ -12094,7 +11444,6 @@ of fuel leakage.
 1.6 and 1.8 litre
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_e6752eba` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:108
 
 6
 Fuel reservoir - removal and
@@ -12123,7 +11472,6 @@ completion.
 7
 
 ### Fuel tank - removal and
-`volkswagen_volkswagen_golf_2_en_fda11068` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:109
 
 refitting
 3
@@ -12167,7 +11515,6 @@ damaged or leaks, it should be repaired
 professionally or renewed.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_768635d8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:109
 
 12 Refitting is a reversal of removal. Make
 sure that the rubber packing strips are fitted
@@ -12180,7 +11527,6 @@ Fuel and exhaust systems - carburettor models  4A•7
 (arrowed)
 
 ### Note earth lead connection to lower screw
-`volkswagen_volkswagen_golf_2_en_d0fdc9ad` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:109
 
 7.6  Fuel filler breather valve and hose
 7.9  Fuel tank retaining strap-to-floor bolts
@@ -12190,7 +11536,6 @@ Downloaded from www.Manualslib.com manuals search engine
 8
 
 ### Fuel gauge sender unit -
-`volkswagen_volkswagen_golf_2_en_006424d6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:110
 
 removal and refitting
 2
@@ -12211,7 +11556,6 @@ the securing nut.
 5 Renew the sender unit seal.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_d26af47c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:110
 
 6 Refit in the reverse order to removal, noting
 the following:
@@ -12223,7 +11567,6 @@ c) Check that the wiring connection is secure.
 9
 
 ### Fuel filler gravity valve -
-`volkswagen_volkswagen_golf_2_en_5f865c5e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:110
 
 removal, testing and refitting 1
 1 The gravity valve is located in the fuel filler
@@ -12242,7 +11585,6 @@ adjustment
 2
 
 ### Manual gearbox
-`volkswagen_volkswagen_golf_2_en_71960d58` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:110
 
 Removal
 1 Disconnect the battery earth lead.
@@ -12260,7 +11602,6 @@ into the engine compartment, together with
 the rubber grommets.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_8038aded` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:110
 
 7 Refitting of the accelerator cable is a
 reversal of removal. Make sure that the cable
@@ -12294,7 +11635,6 @@ screw
 12 After adjustment refit the air cleaner.
 
 ### Automatic transmission
-`volkswagen_volkswagen_golf_2_en_bd47c25d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:110
 
 Removal
 13 On automatic transmission models, the
@@ -12324,7 +11664,6 @@ attachment
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_61412011` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:110
 
 retaining clip and then disconnect the cable
 from the carburettor.
@@ -12333,7 +11672,6 @@ securing clip and detach the cable from the
 operating lever and the cable support bracket.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_4ca866d1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:111
 
 18 Refitting of both cables is a reversal of the
 removal procedure.
@@ -12352,7 +11690,6 @@ pedal
 press out the pivot pin bushes.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_3a00ac14` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:111
 
 5 Refitting is a reversal of removal. Lubricate
 the bushes with a little grease and check
@@ -12377,7 +11714,6 @@ from the facia.
 complete cable from inside the vehicle.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_e57d17f8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:111
 
 8 Refitting is a reversal of removal. Make sure
 that the cable is correctly aligned and that the
@@ -12389,7 +11725,6 @@ Adjustment
 its end protrudes by approximately 12.0 mm.
 
 ### Tighten the clamp with the outer cable in this
-`volkswagen_volkswagen_golf_2_en_25bd1cab` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:111
 
 position (see illustration).
 10 Push the choke knob fully in then pull it
@@ -12399,7 +11734,6 @@ check that the warning lamp is not lit.
 clamp and fully open the choke lever by hand.
 
 ### Tighten the inner cable clamp screw in this
-`volkswagen_volkswagen_golf_2_en_ba330f33` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:111
 
 position.
 12 Refit the air cleaner.
@@ -12438,7 +11772,6 @@ manifold, undo the four nuts on the manifold
 underside and lift the flange clear.
 
 ### Fuel and exhaust systems - carburettor models 4A•9
-`volkswagen_volkswagen_golf_2_en_73c88789` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:111
 
 4A
 1081 VW Golf & Jetta
@@ -12449,7 +11782,6 @@ transmission variants with 2E2 carburettor
 A Outer cable projection
 
 ### B Cam and stop
-`volkswagen_volkswagen_golf_2_en_d2b70c5d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:111
 
 C Choke inner cable connection
 Downloaded from www.Manualslib.com manuals search engine
@@ -12505,7 +11837,6 @@ components
 components
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_41da31e4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:112
 
 Fuel and exhaust systems - carburettor models  4A•11
 4A
@@ -12521,7 +11852,6 @@ components
 1
 
 ### Idle speed boost
-`volkswagen_volkswagen_golf_2_en_a1e6245d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:114
 
 two-way valve
 2
@@ -12557,7 +11887,6 @@ Enrichment tube
 1
 
 ### Bearing ring
-`volkswagen_volkswagen_golf_2_en_427c485a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:114
 
 2
 Pump plunger
@@ -12582,7 +11911,6 @@ Part throttle enrichment jet
 14 Mixture adjustment screw
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_20b50a51` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:114
 
 Fuel and exhaust systems - carburettor models  4A•13
 4A
@@ -12596,7 +11924,6 @@ Air correction jet
 3
 
 ### Auxiliary fuel jet (if applicable)
-`volkswagen_volkswagen_golf_2_en_c4e3eddc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:115
 
 4
 Idling fuel jet
@@ -12625,7 +11952,6 @@ Plugs
 22 Adjusting screw
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_e214ae9e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:115
 
 15 Carburettor (1.05 litre
 engine) - adjustments
@@ -12637,7 +11963,6 @@ correct. Incorrect valve clearances can also
 effect carburettor adjustment
 
 ### Pierburg/Solex 31 PIC7
-`volkswagen_volkswagen_golf_2_en_d06e0f39` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:116
 
 Bypass air cut-off valve
 1 To check the bypass air cut-off valve when
@@ -12647,7 +11972,6 @@ click should be heard and the pin should move
 out.
 
 ### Cut-off valve
-`volkswagen_volkswagen_golf_2_en_c49d3510` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:116
 
 2 To check the cut-off valve for the main jets
 (where fitted), apply battery voltage. It must
@@ -12669,7 +11993,6 @@ necessary adjusted. Pull the choke out fully,
 then push it onto the smooth running detent.
 
 ### Press the choke lever against the cam and
-`volkswagen_volkswagen_golf_2_en_4213f3de` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:116
 
 check the choke valve gap with a twist drill, as
 in the previous paragraph. If the gap is not as
@@ -12689,7 +12012,6 @@ glass. Operate the throttle fully five times
 allowing at least three seconds per stroke.
 
 ### Divide the final quantity by five to determine
-`volkswagen_volkswagen_golf_2_en_f7ea6599` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:116
 
 the amount per stroke and compare with the
 amount specified. If necessary, reposition the
@@ -12699,7 +12021,6 @@ injected into the throttle valve gap. If
 necessary, bend the injection pipe.
 
 ### Slow running and fast idle
-`volkswagen_volkswagen_golf_2_en_ebd3567d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:116
 
 7 Run the engine to normal operating
 temperature then stop it. Connect a
@@ -12725,7 +12046,6 @@ body components
 1
 
 ### Accelerator pump
-`volkswagen_volkswagen_golf_2_en_aba21a7b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:116
 
 2
 Injection pipe
@@ -12752,7 +12072,6 @@ Idle speed adjustment screw
 16 Mixture adjustment screw
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_0f2d7461` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:116
 
 10 Start the engine and let it idle. Check that
 the engine speed and CO content are as
@@ -12798,7 +12117,6 @@ tachometer and elastic band, then refit the air
 cleaner. Push the choke control knob fully in.
 
 ### Pierburg/Solex 1B3
-`volkswagen_volkswagen_golf_2_en_652dcabc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:117
 
 19 All adjustments are as described for the
 Pierburg 2E3 carburettor fitted to the 1.3 litre
@@ -12809,7 +12127,6 @@ of the enrichment tube should be 1.0 mm
 from the valve (see illustration).
 
 ### Idle speed and mixture
-`volkswagen_volkswagen_golf_2_en_00bfac2c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:117
 
 21 Before making any adjustment, ensure
 that the automatic choke is fully open,
@@ -12824,7 +12141,6 @@ in the idle speed. The valve is itself controlled
 by a two-way valve and further control unit.
 
 ### The control unit monitors the engine speed
-`volkswagen_volkswagen_golf_2_en_ba400a13` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:117
 
 and activates the two-way valve which applies
 vacuum to the idle valve.
@@ -12835,7 +12151,6 @@ rpm there should be vacuum at the hose in
 the idle valve.
 
 ### Fast idle speed
-`volkswagen_volkswagen_golf_2_en_172ef008` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:117
 
 24 With the engine at normal operating
 temperature and switched off, connect a
@@ -12850,7 +12165,6 @@ speed is as specified. If not, turn the
 adjustment screw on the linkage as necessary.
 
 ### If a tamperproof cap is fitted, renew it after
-`volkswagen_volkswagen_golf_2_en_a11cd334` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:117
 
 making the adjustment (see illustration).
 Choke valve gap
@@ -12866,7 +12180,6 @@ carburettor wall is as specified. If not, adjust
 the screw behind the automatic choke.
 
 ### Accelerator pump capacity
-`volkswagen_volkswagen_golf_2_en_8fc6a3bd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:117
 
 30 Hold the carburettor over a funnel and
 measuring glass.
@@ -12882,7 +12195,6 @@ the camplate as required and tighten the
 screw (see illustration).
 
 ### Fuel and exhaust systems - carburettor models 4A•15
-`volkswagen_volkswagen_golf_2_en_a213ec81` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:117
 
 4A
 15.10  Idle speed (A) and mixture (B)
@@ -12902,7 +12214,6 @@ screw location
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_607929f7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:117
 
 33 If difficulty is experienced in making the
 adjustment, check the pump seal and make
@@ -12917,7 +12228,6 @@ plunger must first be depressed by 3.0 to 4.0
 mm before switching on the unit.
 
 ### Weber 32 TLA
-`volkswagen_volkswagen_golf_2_en_7aa35e6a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:118
 
 Float level
 36 With the upper part of the carburettor
@@ -12928,7 +12238,6 @@ needle should not be pressed in against the
 spring when making the measurement,
 
 ### Idle speed and mixture
-`volkswagen_volkswagen_golf_2_en_30d03fa5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:118
 
 37 The procedure for checking and adjusting
 the idle speed and CO content are basically
@@ -12939,7 +12248,6 @@ screws and to the Specifications for settings.
 (see illustrations).
 
 ### Idle speed boost valve
-`volkswagen_volkswagen_golf_2_en_27664a4f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:118
 
 38 The idle speed boost valve is identical to
 the unit on the Pierburg 1B3 carburettor.
@@ -12967,7 +12275,6 @@ not
 compressed when making the check.
 
 ### Idle cut-off valve
-`volkswagen_volkswagen_golf_2_en_5db1c54e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:118
 
 42 To check the cut-off valve, apply battery
 voltage. The valve must be heard to click
@@ -12995,7 +12302,6 @@ idle speed specified.
 50 Adjust the screw as necessary.
 
 ### Choke valve gap (wide open kick)
-`volkswagen_volkswagen_golf_2_en_27d4967b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:118
 
 51 Remove the air cleaner.
 52 Fully open the throttle and hold it in this
@@ -13022,7 +12328,6 @@ screw (B)
 1
 
 ### Twist drill
-`volkswagen_volkswagen_golf_2_en_f03658c7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:118
 
 2
 Spring
@@ -13048,7 +12353,6 @@ throttle valve lever.
 59 Secure the accelerator pump cam with an
 
 ### M4 screw.
-`volkswagen_volkswagen_golf_2_en_425df8fe` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:119
 
 60 Loosen the locknut on the camplate
 securing screw. Loosen the screw and turn
@@ -13061,7 +12365,6 @@ locknut and recheck the injection capacity.
 4
 
 ### Note: Accurate adjustment of the carburettor
-`volkswagen_volkswagen_golf_2_en_cb314db6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:119
 
 is only possible if adjustment of the ignition
 timing, dwell angle and spark plug gaps is
@@ -13074,7 +12377,6 @@ voltage. It must be heard to click when the
 voltage is applied.
 
 ### Choke valve gap
-`volkswagen_volkswagen_golf_2_en_58842ff6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:119
 
 2 To check the choke valve gap the choke
 cover must be removed. Move the throttle
@@ -13089,7 +12391,6 @@ as required to provide the specified choke
 valve gap (see illustrations).
 
 ### Accelerator pump injection capacity
-`volkswagen_volkswagen_golf_2_en_17eba6be` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:119
 
 3 The accelerator pump injection capacity
 can be checked in the same manner as that
@@ -13098,7 +12399,6 @@ allow 1 second per stroke and 3 seconds
 between strokes (see illustration).
 
 ### Choke
-`volkswagen_volkswagen_golf_2_en_2f00ea2c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:119
 
 4 The automatic choke cover and choke
 housing alignment marks should correspond.
@@ -13122,7 +12422,6 @@ pulldown unit diaphragm is broken, in which
 case the unit must be renewed.
 
 ### Fuel and exhaust systems - carburettor models 4A•17
-`volkswagen_volkswagen_golf_2_en_fc64e9c0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:119
 
 4A
 15.53  Checking choke valve gap (wide
@@ -13140,7 +12439,6 @@ Cam
 2
 
 ### Camplate
-`volkswagen_volkswagen_golf_2_en_48caaaa6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:119
 
 3
 Camplate locking
@@ -13157,7 +12455,6 @@ Twist drill
 1
 
 ### Fast idle cam
-`volkswagen_volkswagen_golf_2_en_01f9cb5c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:119
 
 clamp screw
 2
@@ -13193,7 +12490,6 @@ then measure the locking lever clearances
 specified, then bend the levers as necessary.
 
 ### Slow running and fast idle
-`volkswagen_volkswagen_golf_2_en_343adef2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:120
 
 8 To check and adjust the slow running
 setting, refer to Section 15, paragraphs 7 to
@@ -13209,7 +12505,6 @@ temperature control hose.
 give an engine speed of approx. 2500 rpm.
 
 ### Press down the fast idle cam to its stop then
-`volkswagen_volkswagen_golf_2_en_923432ac` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:120
 
 move the throttle valve back so that the
 adjuster screw is on the second highest stop
@@ -13226,7 +12521,6 @@ engines) - adjustments
 4
 
 ### Note: Accurate adjustment of the carburettor
-`volkswagen_volkswagen_golf_2_en_6d543dbd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:120
 
 is only possible if adjustment of the ignition
 timing, dwell angle and spark plug gaps is
@@ -13240,7 +12534,6 @@ adjustments are additional to, or differ from,
 those given.
 
 ### Part throttle channel heater unit
-`volkswagen_volkswagen_golf_2_en_57e2e682` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:120
 
 2 To check this unit, connect a test lamp
 between the unit wiring plug and battery
@@ -13263,7 +12556,6 @@ operating lever as required (see illustration).
 adjust the choke pull-down unit as follows.
 
 ### Choke pull down unit
-`volkswagen_volkswagen_golf_2_en_0fc1ee82` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:120
 
 7 This unit can be checked in the same
 manner as that for the choke pull down unit
@@ -13278,7 +12570,6 @@ vacuum to the pull-down unit is reduced, and
 the choke valve will open by a small amount.
 
 ### After
-`volkswagen_volkswagen_golf_2_en_c5b0003b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:120
 
 between
 one
@@ -13301,7 +12592,6 @@ lever (1) limiting screw (2) and stop (3)
 valves closed
 
 ### Clearance to equal 0.25 to 0.55 mm
-`volkswagen_volkswagen_golf_2_en_35d5a4f3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:120
 
 (each side)
 16.8  Idle speed adjustment screw and
@@ -13312,7 +12602,6 @@ Using drill of correct diameter as a gauge
 (arrowed)
 
 ### Note dimension x (10.0 mm)
-`volkswagen_volkswagen_golf_2_en_61411d2e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:120
 
 1081 VW Golf & Jetta
 Downloaded from www.Manualslib.com manuals search engine
@@ -13326,7 +12615,6 @@ vacuum pump to the three/four point unit at
 “A” (see illustration). Plug connection B (and
 
 ### C on four point unit). Apply vacuum with the
-`volkswagen_volkswagen_golf_2_en_2988e941` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:121
 
 pump to hold the diaphragm pushrod in the
 overrun/cut-off position and to give a
@@ -13346,7 +12634,6 @@ capacity against that specified.
 13 If adjustment is necessary, loosen screw
 
 ### A and rotate the cam plate B in the required
-`volkswagen_volkswagen_golf_2_en_1fa94ffa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:121
 
 direction to increase or decrease the injection
 capacity (see illustration). On completion,
@@ -13358,7 +12645,6 @@ the vehicle but as specialised equipment is
 required, this is a task best entrusted to your
 
 ### VW dealer.
-`volkswagen_volkswagen_golf_2_en_641e5ea8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:121
 
 Throttle valve
 15 For the basic Stage ll valve adjustment,
@@ -13378,7 +12664,6 @@ off the vacuum connection 3, then apply
 increased vacuum with the vacuum pump.
 
 ### This should cause the diaphragm pushrod to
-`volkswagen_volkswagen_golf_2_en_4b81576f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:121
 
 move to the overrun/cut-off point. Measure
 the rod protrusion (a) which should now be
@@ -13390,7 +12675,6 @@ diaphragm or three/four point unit are
 probably leaking and in need of renewal.
 
 ### Three/four point unit - engine vacuum
-`volkswagen_volkswagen_golf_2_en_ee582287` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:121
 
 method
 19 Run the engine to normal operating
@@ -13434,7 +12718,6 @@ three-point unit only, pinch the hose between
 the unit and Y-piece.
 
 ### Fuel and exhaust systems - carburettor models 4A•19
-`volkswagen_volkswagen_golf_2_en_da28f92f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:121
 
 4A
 17.10  Accelerator pump check
@@ -13454,7 +12737,6 @@ valves closed
 preparation
 
 ### Pushrod to idle point a = 8.5 mm
-`volkswagen_volkswagen_golf_2_en_cd516651` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:121
 
 1
 Vacuum connection
@@ -13473,7 +12755,6 @@ plug and hose where applicable. Refit the air
 cleaner.
 
 ### Stage ll vacuum control unit
-`volkswagen_volkswagen_golf_2_en_edde964e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:122
 
 30 This device is fitted to 1.6 litre manual
 gearbox models and 1.8 automatic gearbox
@@ -13490,7 +12771,6 @@ through it. It should be open at 18°C and close
 when the temperature rises above 28°C.
 
 ### Idle/overrun control valve
-`volkswagen_volkswagen_golf_2_en_f2b2fe91` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:122
 
 32 Entrust this operation to your VW dealer as
 specialised testing equipment is necessary.
@@ -13504,7 +12784,6 @@ is
 necessary.
 
 ### Slow running and fast idle
-`volkswagen_volkswagen_golf_2_en_67074b4c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:122
 
 34 To check and adjust the slow running
 setting, proceed as described in Section 15,
@@ -13571,7 +12850,6 @@ testing
 2
 
 ### Heater element
-`volkswagen_volkswagen_golf_2_en_bccfe0cd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:122
 
 1 The inlet manifold is preheated by coolant
 from the cooling system and by a heater
@@ -13582,7 +12860,6 @@ manifold.
 1
 
 ### Thermo-pneumatic valve
-`volkswagen_volkswagen_golf_2_en_0186416b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:122
 
 2
 Restrictor
@@ -13598,7 +12875,6 @@ adjustment
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4b9d4f3a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:122
 
 2 To check the heater element, the engine
 should be cold. Disconnect the wire from the
@@ -13610,7 +12886,6 @@ the element and earth. This should record
 then unscrew the bolts and withdraw the unit.
 
 ### Remove the sealing ring and gasket (see
-`volkswagen_volkswagen_golf_2_en_ed99b2b8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:123
 
 illustrations). When refitting, always renew
 the sealing ring and gasket.
@@ -13647,7 +12922,6 @@ removal and refitting
 3
 
 ### Inlet manifold
-`volkswagen_volkswagen_golf_2_en_86307235` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:123
 
 1 Remove the carburettor.
 2 Disconnect the inlet manifold preheater
@@ -13663,7 +12937,6 @@ crankcase (see illustration).
 (see illustration) whilst noting their respective
 
 ### Fuel and exhaust systems - carburettor models 4A•21
-`volkswagen_volkswagen_golf_2_en_70584cf6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:123
 
 4A
 18.3a  Unscrew the bolts . . .
@@ -13675,7 +12948,6 @@ element
 19.4  Vacuum hose connections – 1.6 and 1.8 litre with
 
 ### Pierburg/Solex 2E2 carburettor
-`volkswagen_volkswagen_golf_2_en_ec35538f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:123
 
 Downloaded from www.Manualslib.com manuals search engine
 locations, then carefully withdraw the
@@ -13688,7 +12960,6 @@ tighten the securing nuts and bolts to the
 specified torque setting.
 
 ### Exhaust manifold
-`volkswagen_volkswagen_golf_2_en_0ac1b5c1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:124
 
 9 Undo the retaining nut(s) and withdraw the
 warm air deflector plate from the exhaust
@@ -13699,7 +12970,6 @@ manifold joint (see illustration).
 11 On 1.6 and 1.8 litre engines, refer to
 
 ### Section 20, paragraph 2.
-`volkswagen_volkswagen_golf_2_en_7461e25a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:124
 
 12 Unscrew and remove the remaining
 manifold retaining bolts/nuts, then carefully
@@ -13721,7 +12991,6 @@ removal and refitting
 3
 
 ### Inspection
-`volkswagen_volkswagen_golf_2_en_4a0afddb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:124
 
 1 Refer to Chapter 1, Section 19
 Removal
@@ -13736,7 +13005,6 @@ necessary to release and subsequently refit
 the joint retaining clips (see illustration).
 
 ### Without this tool, it is virtually impossible to
-`volkswagen_volkswagen_golf_2_en_eaaac832` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:124
 
 separate and reassemble the joint without
 distorting the retaining clips. In view of this,
@@ -13767,7 +13035,6 @@ through heavily corroded bolts with a
 hacksaw, rather than try to unscrew them.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_cefd2a36` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:124
 
 5 Refit the system a section at a time starting
 at the front. If the manifold has been removed
@@ -13795,7 +13062,6 @@ any part of the system.
 securing nuts and bolts
 
 ### Note position of earth lead spade connector
-`volkswagen_volkswagen_golf_2_en_479dafad` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:124
 
 (arrowed) - 1.3 litre
 19.9  Warm air deflector plate - 1.3 litre
@@ -13807,7 +13073,6 @@ exhaust downpipes to manifold clips -
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_7da6b377` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:124
 
 Fuel and exhaust systems - carburettor models  4A•23
 4A
@@ -13821,7 +13086,6 @@ b
 c
 
 ### Marking (S for manual gearbox or A for automatic
-`volkswagen_volkswagen_golf_2_en_8577d512` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:125
 
 transmission)
 20.4a  Exhaust system and associated components – 1.5 and 1.3 litre
@@ -13835,7 +13099,6 @@ Marking (S)
 Downloaded from www.Manualslib.com manuals search engine
 
 ### 4A•24
-`volkswagen_volkswagen_golf_2_en_422d7937` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:126
 
 1081 VW Golf & Jetta
 Notes
@@ -13848,14 +13111,12 @@ K-Jetronic fuel injection - 16 valve engines
 The following information is a revision of, or supplementary to, that contained in Part B of this Chapter
 
 ### Air cleaner
-`volkswagen_volkswagen_golf_2_en_7f303b04` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:127
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Automatic air temperature control
 Element . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion U502
-`volkswagen_volkswagen_golf_2_en_3c49e2f9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:127
 
 Fuel filter
 Application:
@@ -13864,7 +13125,6 @@ Champion L203
 1.8 litre Jetta  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion L206
-`volkswagen_volkswagen_golf_2_en_a5b21fac` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:127
 
 Injection system
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -13891,7 +13151,6 @@ Throttle valve switch - testing  . . . . . . . . . . . . . . . . . . . . . . . .
 6
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_c83419e8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:127
 
 suitable for expert DIY
 or  professional
@@ -13917,7 +13176,6 @@ Fuel metering distributor
 7
 
 ### Adjusting shim
-`volkswagen_volkswagen_golf_2_en_8d13ca81` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:128
 
 8
 O-rings
@@ -13947,7 +13205,6 @@ adjustment screw
 1
 
 ### General information
-`volkswagen_volkswagen_golf_2_en_b7fb2dcb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:128
 
 The components of the K-Jetronic fuel
 injection system fitted to the 1.8 litre 16V
@@ -13958,7 +13215,6 @@ following Sections.
 2
 
 ### Idle speed - adjustment
-`volkswagen_volkswagen_golf_2_en_fbccd2ae` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:128
 
 4
 1 Run the engine to normal operating
@@ -13995,7 +13251,6 @@ illustration).
 1.0a  K-Jetronic fuel injection system components – 16v engine
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_be47e3d1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:128
 
 Fuel and exhaust systems - K-Jetronic fuel injection - 16 valve engines  4C•3
 4C
@@ -14006,7 +13261,6 @@ To ignition control unit
 2
 
 ### Intake elbow
-`volkswagen_volkswagen_golf_2_en_ac4ea2a7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:129
 
 3
 Screw
@@ -14054,7 +13308,6 @@ hose
 2.7  Idle speed (A) and mixture (B) screws
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_d0d892ff` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:129
 
 8 Check that the mixture (CO reading) is as
 specified. Temporarily block off the exhaust
@@ -14069,7 +13322,6 @@ must not be revved with the tool in position.
 9 Refit the crankcase ventilation hose. If the
 
 ### CO reading increases, the engine oil is diluted
-`volkswagen_volkswagen_golf_2_en_253bf18f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:130
 
 with
 fuel
@@ -14087,7 +13339,6 @@ return the idling to the specified speed.
 3
 
 ### Idle speed stabilisation
-`volkswagen_volkswagen_golf_2_en_68b7e7d8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:130
 
 system - testing
 3
@@ -14114,7 +13365,6 @@ which is located behind the centre console.
 checked by connecting a multi-meter to it.
 
 ### With a tachometer connected, run the engine
-`volkswagen_volkswagen_golf_2_en_3440e3ea` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:130
 
 (hot) at idle speed and note the control
 current. Now pinch the hose shown (see
@@ -14129,7 +13379,6 @@ control current should be constant between
 4
 
 ### Overrun cut-off valve -
-`volkswagen_volkswagen_golf_2_en_0b3294e4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:130
 
 testing
 2
@@ -14148,7 +13397,6 @@ located behind the centre console.
 5
 
 ### Diaphragm pressure switch -
-`volkswagen_volkswagen_golf_2_en_94d771bd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:130
 
 testing
 2
@@ -14162,7 +13410,6 @@ then rises to infinity.
 6
 
 ### Throttle valve switch - testing 2
-`volkswagen_volkswagen_golf_2_en_0c7fd292` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:130
 
 1 Pull the wiring connector from the throttle
 valve switch.
@@ -14191,7 +13438,6 @@ pinching hose (arrowed)
 terminals
 
 ### See text for terminal identification
-`volkswagen_volkswagen_golf_2_en_3f634373` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:130
 
 1081 VW Golf & Jetta
 Downloaded from www.Manualslib.com manuals search engine
@@ -14206,7 +13452,6 @@ before attaching it to the rear support bracket.
 8
 
 ### Exhaust system - inspection,
-`volkswagen_volkswagen_golf_2_en_9380696c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:131
 
 removal and refitting
 3
@@ -14227,7 +13472,6 @@ Nut
 2
 
 ### Gaskets
-`volkswagen_volkswagen_golf_2_en_acf61190` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:131
 
 3
 Exhaust manifold
@@ -14253,7 +13497,6 @@ b = 12.0 mm
 c = marks
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_3efed061` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:131
 
 4C•6
 1081 VW Golf & Jetta
@@ -14266,7 +13509,6 @@ Fuel and exhaust systems -
 K-Jetronic fuel injection - 8 valve engines
 
 ### Renewable paper element
-`volkswagen_volkswagen_golf_2_en_33cbf011` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:133
 
 Application:
 1.8 litre Golf . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -14274,7 +13516,6 @@ Champion U506
 1.8 litre Jetta  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion U502
-`volkswagen_volkswagen_golf_2_en_6892f4be` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:133
 
 1.8 litre GTi ( engine code RP)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion U572
@@ -14282,7 +13523,6 @@ Fuel filter
 1.8 litre GTi ( engine code RP)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion L206
-`volkswagen_volkswagen_golf_2_en_e4030c26` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:133
 
 All other models  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion L204 *
@@ -14291,7 +13531,6 @@ Injection system
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### K-Jetronic, continuous injection system (CIS)
-`volkswagen_volkswagen_golf_2_en_789a32fd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:133
 
 Application  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.8 litre (code EV) engine
@@ -14302,7 +13541,6 @@ From March 1986  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 5.2 to 5.9 bar
 
 ### Idle speed:
-`volkswagen_volkswagen_golf_2_en_27d8c9d0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:133
 
 Pre Sept. 1984  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 900 to 1000 rpm
@@ -14349,7 +13587,6 @@ Pressure relief valve - removal, servicing and refitting  . . . . . . . . . . . 
 Warm-up valve - testing  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_52e4f782` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:133
 
 suitable for expert DIY
 or  professional
@@ -14423,7 +13660,6 @@ Exhaust pipe clamp bolts  . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1
 
 ### General information and
-`volkswagen_volkswagen_golf_2_en_0c797161` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:134
 
 precautions
 General information
@@ -14436,7 +13672,6 @@ no different from those in general use on
 vehicles (see illustration).
 
 ### The following paragraphs describe the
-`volkswagen_volkswagen_golf_2_en_70c31792` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:134
 
 system and its various elements. Later
 Sections describe tests which can be carried
@@ -14454,7 +13689,6 @@ cylinder. This fuel/air mixture is drawn into the
 cylinder when the inlet valves open.
 
 ### Airflow meter
-`volkswagen_volkswagen_golf_2_en_a7aee586` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:134
 
 The airflow meter measures the volume of
 air entering the engine and comprises an air
@@ -14474,7 +13708,6 @@ which meters fuel to the injection valves.
 1.0  K-Jetronic fuel injection system air intake components - 8v engine
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_69289443` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:134
 
 Fuel supply
 The fuel pump operates continuously while
@@ -14487,7 +13720,6 @@ prevents the pump from operating unless the
 engine is running.
 
 ### The fuel line to the fuel supply valve
-`volkswagen_volkswagen_golf_2_en_3b238d1f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 incorporates a filter and also a fuel
 accumulator. The function of the accumulator
@@ -14507,7 +13739,6 @@ and this pressure is then maintained by the
 accumulator.
 
 ### Fuel distributor
-`volkswagen_volkswagen_golf_2_en_fa446889` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 The fuel distributor is mounted on the air
 metering device and is controlled by the
@@ -14518,7 +13749,6 @@ many vertical slots around its circumference
 as there are cylinders on the engine.
 
 ### The spool valve is adjusted to hydraulic
-`volkswagen_volkswagen_golf_2_en_0adf7f59` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 pressure on the upper end and this balances
 the pressure on the air plate which is applied
@@ -14529,7 +13759,6 @@ so controls the volume of fuel fed to each
 injector.
 
 ### Each metering slot has a differential
-`volkswagen_volkswagen_golf_2_en_50bca404` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 pressure valve, which ensures that the
 difference in pressure between the two sides
@@ -14540,7 +13769,6 @@ amount of fuel flowing depends only on the
 exposed area of the slots.
 
 ### Cold start valve
-`volkswagen_volkswagen_golf_2_en_cc95c2a0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 The cold start valve is mounted in the inlet
 manifold and sprays additional fuel into the
@@ -14556,7 +13784,6 @@ to need additional fuel for starting, the switch
 does not operate.
 
 ### Warm-up regulator (valve)
-`volkswagen_volkswagen_golf_2_en_3d30d978` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 While warming up, the engine needs a
 richer mixture to compensate for fuel which
@@ -14575,7 +13802,6 @@ otherwise, thus uncovering a greater length of
 metering slot and making the mixture richer.
 
 ### The valve is operated by a bi-metallic strip
-`volkswagen_volkswagen_golf_2_en_517feac9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 which is heated by an electric heater. When
 the engine is cold, the bi-metallic strip
@@ -14586,7 +13812,6 @@ increase in cross-section results in a lowering
 of the pressure fed to the control plunger.
 
 ### Auxiliary air device
-`volkswagen_volkswagen_golf_2_en_89934477` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 Compensation for power lost by greater
 friction is achieved by feeding a larger volume
@@ -14599,7 +13824,6 @@ plate controlled by a spring and a bi-metallic
 strip.
 
 ### During cold starting, the channel is open
-`volkswagen_volkswagen_golf_2_en_bda6edd5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 and increases the volume of air passing to the
 engine. As the bi-metallic strip bends, it
@@ -14608,7 +13832,6 @@ the aperture until at normal operating
 temperature the aperture is closed.
 
 ### Cold acceleration enrichment
-`volkswagen_volkswagen_golf_2_en_cb704523` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 This system is fitted to later models only.
 When the engine is cold (below 35°C),
@@ -14624,7 +13847,6 @@ switch, the diaphragm pressure switch and
 the throttle valve switch are shut off.
 
 ### Temperature sensor
-`volkswagen_volkswagen_golf_2_en_9a025335` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 From March 1986, a temperature sensor is
 located between injectors 1 and 2. After
@@ -14636,7 +13858,6 @@ the function between ten and twelve minutes
 after switching off the ignition.
 
 ### Precautions
-`volkswagen_volkswagen_golf_2_en_26d48d88` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:135
 
 Fuel warning
 Many of the procedures in this Chapter
@@ -14651,7 +13872,6 @@ precautions necessary when handling it
 cannot be overstressed.
 
 ### Fuel injection system warning
-`volkswagen_volkswagen_golf_2_en_76620ce4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:135
 
 Residual pressure will remain in the fuel
 lines long after the vehicle was last used,
@@ -14664,7 +13884,6 @@ rag over each union as it is disconnected to
 catch any fuel which is forcibly expelled.
 
 ### Take particular care to ensure that no dirt is
-`volkswagen_volkswagen_golf_2_en_d1cabc75` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:135
 
 allowed to enter the system. The ignition must
 be off and the battery disconnected.
@@ -14677,7 +13896,6 @@ following Section.
 2
 
 ### Catalytic converters - general
-`volkswagen_volkswagen_golf_2_en_9429ef6f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:135
 
 information and precautions
 The catalytic converter is a reliable and
@@ -14697,7 +13915,6 @@ air cleaner element, fuel filter and spark
 plugs are renewed at the correct intervals.
 
 ### If the inlet air/fuel mixture is allowed to
-`volkswagen_volkswagen_golf_2_en_66127f4c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 become too rich due to neglect, the
 unburned surplus will enter and burn in
@@ -14713,7 +13930,6 @@ overheating.
 d) DO NOT push or tow-start the vehicle.
 
 ### This will soak the catalytic converter in
-`volkswagen_volkswagen_golf_2_en_b09a3d2f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 unburned fuel, causing it to overheat
 when the engine does start.
@@ -14729,7 +13945,6 @@ Fuel and exhaust systems - K-Jetronic fuel injection - 8 valve engines  4B•3
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_1d835109` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 f) DO NOT use fuel or engine oil additives
 as these may contain substances harmful
@@ -14750,7 +13965,6 @@ park the vehicle in dry undergrowth, over
 long grass or piles of dead leaves.
 
 ### I) Remember that the catalytic converter is
-`volkswagen_volkswagen_golf_2_en_e410280a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:136
 
 FRAGILE. Do not strike it with tools during
 servicing work, take great care when
@@ -14788,7 +14002,6 @@ effective, it must be renewed.
 3
 
 ### Air cleaner element - renewal 1
-`volkswagen_volkswagen_golf_2_en_f716c3fd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:136
 
 Refer to Chapter 1, Section 32
 4
@@ -14832,7 +14045,6 @@ as applicable.
 5
 
 ### Increased idling speed valve
-`volkswagen_volkswagen_golf_2_en_8d82e048` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:136
 
 (air conditioned models) -
 testing
@@ -14854,7 +14066,6 @@ valve from its support bracket.
 6
 
 ### Idle speed boost (air
-`volkswagen_volkswagen_golf_2_en_040adf5c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:136
 
 conditioned models) - testing
 and idle speed adjustment 2
@@ -14877,7 +14088,6 @@ the idle speed when the air conditioner is
 switched on.
 
 ### Valve 1 - testing and idle speed
-`volkswagen_volkswagen_golf_2_en_7f4714aa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:136
 
 adjustment
 3 Run the engine up to its normal operating
@@ -14902,7 +14112,6 @@ conditioned models)
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_79e6a77f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:136
 
 4 Switch off all electrical consumers, then
 pinch the air hose again and adjust idle speed
@@ -14913,7 +14122,6 @@ which point the valve will close and the speed
 drop to the specified idle speed setting.
 
 ### Valve 2 - checking
-`volkswagen_volkswagen_golf_2_en_946e90a6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:137
 
 5 Run the engine at normal idle speed with
 the air conditioner switched off. Pinch the air
@@ -14930,7 +14138,6 @@ to valve No. 2.
 7
 
 ### Idle mixture - adjustment
-`volkswagen_volkswagen_golf_2_en_e477eaec` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:137
 
 4
 Note: Accurate idle mixture adjustment can
@@ -14970,7 +14177,6 @@ further adjust if necessary.
 ventilation hose results in an increase in the
 
 ### CO content, the engine oil is diluted with fuel
-`volkswagen_volkswagen_golf_2_en_6ff3447e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:137
 
 and should be renewed. Alternatively, if an oil
 change is not due, a long fast drive will reduce
@@ -14998,7 +14204,6 @@ the engine compartment, together with the
 rubber grommets.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_6f70be40` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:137
 
 7 Refitting is a reversal of removal, but ensure
 that the cable run is not kinked and is
@@ -15025,7 +14230,6 @@ support bracket
 8.2  Accelerator cable connection to throttle valve
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_04902485` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:137
 
 9
 Cold start valve and
@@ -15070,7 +14274,6 @@ over a period of one minute. If proved
 defective, renew the valve.
 
 ### Thermotime switch
-`volkswagen_volkswagen_golf_2_en_7be2a89f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:138
 
 10 To check the thermotime switch, proceed
 as described in paragraphs 3 and 4 inclusive.
@@ -15132,7 +14335,6 @@ the fuel mixture for a period of approximately
 seconds.
 
 ### This
-`volkswagen_volkswagen_golf_2_en_c9e809a3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:138
 
 cold
 acceleration
@@ -15150,7 +14352,6 @@ wire between an earth point and the
 connector No.2 terminal W (green/white wire).
 
 ### Do not earth terminal G (red/black wire).
-`volkswagen_volkswagen_golf_2_en_0d166dde` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:138
 
 5 Run the engine and allow it to idle, at which
 point the test lamp should not light up. When
@@ -15166,7 +14367,6 @@ test
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_cb37a09e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:138
 
 6 If a fault is evident, check the wiring
 connections, the throttle valve switch and the
@@ -15226,7 +14426,6 @@ in similar condition.
 accurate test of injector performance.
 
 ### However, a basic check can be made as
-`volkswagen_volkswagen_golf_2_en_ca3ae76f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:139
 
 follows.
 5 Hold the injector in a suitable measuring
@@ -15274,7 +14473,6 @@ Fuel and exhaust systems - K-Jetronic fuel injection - 8 valve engines  4B•7
 check
 
 ### Cold start valve connector earth contact (2)
-`volkswagen_volkswagen_golf_2_en_7324ed15` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:139
 
 (green/white wire to W terminal)
 Do not earth contact 1
@@ -15290,7 +14488,6 @@ Vacuum connection for switch (yellow)
 3
 
 ### Vacuum connection for spark control
-`volkswagen_volkswagen_golf_2_en_674364a3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:139
 
 13.2  Air shrouded injector assembly
 (later models)
@@ -15334,7 +14531,6 @@ removal and refitting
 2
 
 ### Note: Ensure that the vehicle is in a well
-`volkswagen_volkswagen_golf_2_en_1ea0a121` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:140
 
 ventilated space and away from naked flames
 or other possible sources of ignition
@@ -15345,7 +14541,6 @@ fuel from being sprayed out, loosen the
 control pressure line from the warm-up valve.
 
 ### The control pressure line is the one connected
-`volkswagen_volkswagen_golf_2_en_b849af9c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:140
 
 to the large union of the valve.
 3 Mark each fuel line and its port on the
@@ -15369,7 +14564,6 @@ fuel and then re-insert it with its chamfered
 end downwards.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_67bda0e0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:140
 
 7 Before refitting the distributor, ensure that
 the plunger moves up and down freely. If the
@@ -15386,7 +14580,6 @@ refitting
 2
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_a9bc276b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:140
 
 1 Remove the fuel lines from the distributor.
 2 Loosen the clamps at the air cleaner and
@@ -15401,7 +14594,6 @@ falling out when the distributor is removed
 from the airflow meter.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_81aa7a01` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:140
 
 5 Refitting is the reverse of removing. It is
 necessary to use a new gasket between the
@@ -15413,7 +14605,6 @@ airflow meter and air cleaner.
 14.5  Sensor plate position requirement
 
 ### Upper edge of plate (arrowed) must be
-`volkswagen_volkswagen_golf_2_en_85ac5fb1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:140
 
 flush with bottom of air cone
 15.5  View showing fuel distributor retaining screws (A)
@@ -15443,7 +14634,6 @@ removal and refitting
 3
 
 ### Testing
-`volkswagen_volkswagen_golf_2_en_ae8a8190` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:141
 
 1 The fuel lift pump is attached to the base of
 the fuel gauge sender unit fitted to the fuel
@@ -15481,7 +14671,6 @@ persists, have the ignition Hall sender unit
 checked.
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_b8cdd3b6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:141
 
 8 If after making the above checks the pump
 still malfunctions, remove the sender unit as
@@ -15495,7 +14684,6 @@ refitting
 3
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_94ba43b7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:141
 
 1 The fuel pump is located on the underside
 of the vehicle, forwards of the fuel tank on the
@@ -15519,7 +14707,6 @@ by the pump unit.
 strainer.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_c752f096` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:141
 
 9 Refitting is a reversal of the removal
 procedure. Smear the O-ring with fuel when
@@ -15547,7 +14734,6 @@ carburettor engines
 18.2  Fuel tank sender unit and connections
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_397fe28a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:141
 
 20 Fuel filter - removal and
 refitting
@@ -15570,7 +14756,6 @@ connections at the front end of the regulator.
 accumulator.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_75bc84a7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:142
 
 6 Refit in the reverse order to removal. Check
 that the fuel line connections are clean before
@@ -15582,7 +14767,6 @@ refitting
 3
 
 ### The fuel tank and associated components
-`volkswagen_volkswagen_golf_2_en_fef555a9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:142
 
 can be removed and refitted in the same
 manner as described for carburettor models
@@ -15591,7 +14775,6 @@ To test the breather valve, blow through the
 hose (dotted arrow - see illustration 7.3 in Part
 
 ### A of this Chapter) and push the lever in to see
-`volkswagen_volkswagen_golf_2_en_5adbab1d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:142
 
 if the airflow opens then shuts off as the lever
 is released. If defective, renew the valve.
@@ -15613,7 +14796,6 @@ items and allow clearance for manifold
 removal.
 
 ### Modification: As from September 1984,
-`volkswagen_volkswagen_golf_2_en_083eece7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:142
 
 components associated with the inlet manifold
 were modified (see illustration). All work
@@ -15660,7 +14842,6 @@ fuel pump
 19.1a  Fuel pump and associated components
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_bd17c1dc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:142
 
 Fuel and exhaust systems - K-Jetronic fuel injection - 8 valve engines  4B•11
 4B
@@ -15672,7 +14853,6 @@ pre September 1984
 1
 
 ### Two-way valve (II)
-`volkswagen_volkswagen_golf_2_en_26650c30` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:143
 
 2
 Two-way valve (I)
@@ -15713,7 +14893,6 @@ indicator
 25 To distributor
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_6be46165` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:143
 
 10 Disconnect
 the
@@ -15730,7 +14909,6 @@ withdrawn.
 the manifold and then withdrawn from it.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_d62849fe` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:144
 
 13 Refitting is a reversal of the removal
 procedure. Check that all mating faces are
@@ -15746,7 +14924,6 @@ and refitting
 3
 
 ### Note: Before starting to remove the manifold,
-`volkswagen_volkswagen_golf_2_en_13f81fb4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:144
 
 refer to Part A of this Chapter, Section 20,
 paragraph 1, which concerns details on the
@@ -15761,7 +14938,6 @@ available, the manifold is best removed and
 refitted by your VW dealer
 
 ### Remove the inlet manifold.
-`volkswagen_volkswagen_golf_2_en_feb107ea` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:144
 
 Removal and refitting of the exhaust
 manifold is now similar to that procedure
@@ -15777,7 +14953,6 @@ downpipe flange incorporating a gasket
 instead of spring clips.
 
 ### With catalytic converter
-`volkswagen_volkswagen_golf_2_en_55c1929a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:144
 
 2 The catalytic converter (where fitted) is
 positioned at the forward end of the exhaust
@@ -15791,7 +14966,6 @@ separating the components (see illustration).
 4 Note that the catalytic converter is fragile.
 
 ### Do not strike it with tools and take care not to
-`volkswagen_volkswagen_golf_2_en_77c4e721` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:144
 
 allow it to contact jacks or lifting gear.
 5 Always use new coupling seals and gaskets
@@ -15805,7 +14979,6 @@ Cap
 2
 
 ### CO measuring pipe
-`volkswagen_volkswagen_golf_2_en_6fb0dd4b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:144
 
 3
 Exhaust manifold
@@ -15827,7 +15000,6 @@ Downloaded from www.Manualslib.com manuals search engine
 4C
 
 ### Chapter 4 Part C:
-`volkswagen_volkswagen_golf_2_en_6e9ba295` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:145
 
 Fuel and exhaust systems -
 K-Jetronic fuel injection - 16 valve engines
@@ -15836,7 +15008,6 @@ Air cleaner
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Automatic air temperature control
-`volkswagen_volkswagen_golf_2_en_b8796034` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:145
 
 Element . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion U502
@@ -15845,7 +15016,6 @@ Application:
 1.8 litre Golf . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion L203
-`volkswagen_volkswagen_golf_2_en_420ccda2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:145
 
 1.8 litre Jetta  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion L206
@@ -15853,7 +15023,6 @@ Injection system
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### K-Jetronic, continuous injection system (CIS)
-`volkswagen_volkswagen_golf_2_en_d83239cd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:145
 
 Application  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.8 litre (code KR) engine
@@ -15877,7 +15046,6 @@ Throttle valve switch - testing  . . . . . . . . . . . . . . . . . . . . . . . .
 6
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4b9362ce` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:149
 
 4C•6
 1081 VW Golf & Jetta
@@ -15891,7 +15059,6 @@ Mono Jetronic fuel injection
 The following information is a revision of, or supplementary to, that contained in Part B of this Chapter
 
 ### Injection system
-`volkswagen_volkswagen_golf_2_en_730e62e2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:151
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Mono Jetronic, central injection system
@@ -15909,7 +15076,6 @@ Injector resistance  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.2 to 1.6 ohm
 
 ### Torque wrench settings
-`volkswagen_volkswagen_golf_2_en_4e588f09` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:151
 
 Nm
 lbf ft
@@ -15952,7 +15118,6 @@ Throttle damper - adjustment  . . . . . . . . . . . . . . . . . . . . . . . . . 
 9
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_d5c08987` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:151
 
 suitable for expert DIY
 or  professional
@@ -15973,7 +15138,6 @@ engine. It is a simplified method of fuel
 injection (see illustrations).
 
 ### Fuel is injected into the inlet manifold by a
-`volkswagen_volkswagen_golf_2_en_fa0b68b1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:152
 
 single solenoid valve (fuel injector) mounted
 centrally in the top of the injector unit housing.
@@ -15987,7 +15151,6 @@ information supplied by its network of
 sensors.
 
 ### Fuel
-`volkswagen_volkswagen_golf_2_en_46589615` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:152
 
 pressure
 is
@@ -16005,7 +15168,6 @@ d) The oxygen content in the exhaust gases
 exhaust manifold
 
 ### Using the information gathered from the
-`volkswagen_volkswagen_golf_2_en_2d71f46f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:152
 
 various sensors, the ECU sends out signals to
 control the system actuators as required.
@@ -16018,7 +15180,6 @@ condition and securely connected, fault
 diagnosis should be entrusted to a VW dealer.
 
 ### Basic testing can be carried out on the
-`volkswagen_volkswagen_golf_2_en_9118b2e5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:152
 
 system components covered in the following
 text. More detailed testing can be carried out
@@ -16028,7 +15189,6 @@ Precautions
 Refer to Sections 1 and 2 in Part B of this
 
 ### Chapter.
-`volkswagen_volkswagen_golf_2_en_5978f1dd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:152
 
 2
 Air cleaner element - renewal 1
@@ -16050,7 +15210,6 @@ the injector unit.
 4
 
 ### Air inlet pre-heater - testing 2
-`volkswagen_volkswagen_golf_2_en_3d4efe4b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:152
 
 1 With the engine cold, detach and remove
 the upper section of the air cleaner followed
@@ -16082,7 +15241,6 @@ regulator should be open and the cold air
 1
 
 ### Electronic Control unit (ECU)
-`volkswagen_volkswagen_golf_2_en_e717994b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:152
 
 2
 Connector (throttle valve positioner and
@@ -16099,7 +15257,6 @@ Intake air pre-heater temperature regulator
 7
 
 ### Injector and air temperature sender
-`volkswagen_volkswagen_golf_2_en_ebf765a1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:152
 
 8
 Fuel pressure regulator
@@ -16120,7 +15277,6 @@ potentiometer)
 21 Self diagnosis plug
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_c178aecc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:152
 
 passage closed off. At temperatures above
 45°C, the regulator should be closed and the
@@ -16134,7 +15290,6 @@ ignition timing must be correct and the engine
 must be at its normal operating temperature.
 
 ### During the test, all electrical circuits including
-`volkswagen_volkswagen_golf_2_en_ca67f394` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:153
 
 the engine cooling fan and, where applicable,
 the air conditioning, must be switched off.
@@ -16155,7 +15310,6 @@ equipment to identify and rectify the fault.
 6
 
 ### Idle switch control valve -
-`volkswagen_volkswagen_golf_2_en_bd2f03e3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:153
 
 testing
 2
@@ -16166,7 +15320,6 @@ advance. If defective, it can cause problems
 with the idle speed and/or the overrun cut-off.
 
 ### A simple test can be made by switching on
-`volkswagen_volkswagen_golf_2_en_d64bb552` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:153
 
 the ignition, then opening and closing the
 throttle valve. Listen to hear if the control
@@ -16180,7 +15333,6 @@ is faulty and should be renewed.
 7
 
 ### Fuel injector - testing,
-`volkswagen_volkswagen_golf_2_en_c4ffba96` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:153
 
 removal and refitting
 2
@@ -16195,7 +15347,6 @@ housing
 1
 
 ### Warm air nozzle
-`volkswagen_volkswagen_golf_2_en_5d16b075` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:153
 
 2
 Cold air nozzle
@@ -16223,7 +15374,6 @@ Injector unit
 8
 
 ### Connector
-`volkswagen_volkswagen_golf_2_en_7a7d5057` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:153
 
 9
 Electronic Control
@@ -16240,7 +15390,6 @@ valve
 1
 
 ### Warm air deflector
-`volkswagen_volkswagen_golf_2_en_3cca657d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:153
 
 2
 Nut
@@ -16280,7 +15429,6 @@ to 7/1988
 24 Connector
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_9ba485ee` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:153
 
 2 With the engine running at idle speed, look
 into the top of the injector unit and check the
@@ -16296,7 +15444,6 @@ that the overrun cut-off is functioning in a
 satisfactory manner.
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_19fffc32` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:154
 
 4 Remove the inlet duct and manifold.
 5 Undo the retaining screw and lift clear the
@@ -16307,7 +15454,6 @@ housing. Remove the O-ring seals (see
 illustration).
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_acae2f14` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:154
 
 6 Refit in the reverse order of removal. The
 O-ring seals must be renewed and lightly
@@ -16335,7 +15481,6 @@ or in doubtful condition, renew it when
 refitting the injector unit.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_61899022` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:154
 
 6 Refit in the reverse order of removal. Ensure
 that the mating faces of the housing and fuel
@@ -16351,7 +15496,6 @@ be pressed into the damper a minimum
 1
 
 ### Screw
-`volkswagen_volkswagen_golf_2_en_c60e8c6e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:154
 
 2
 Injector holder
@@ -16377,7 +15521,6 @@ Screw
 1
 
 ### Throttle valve stop screw
-`volkswagen_volkswagen_golf_2_en_63d11a4d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:154
 
 2
 O-ring
@@ -16408,7 +15551,6 @@ switch)
 18 Screw
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_6cd406f5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:154
 
 distance of 4.0 mm by the operating lever
 (see illustration).
@@ -16423,7 +15565,6 @@ and refitting
 3
 
 ### From mid 1989, certain models fitted with
-`volkswagen_volkswagen_golf_2_en_e3de0a70` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:155
 
 the Mono Jetronic system were fitted with a
 single fuel pump in the fuel tank rather than
@@ -16433,7 +15574,6 @@ pump can be tested in the same manner as
 that for the “in-tank” dual pump referred to in
 
 ### Part F of this Chapter, Section 12.
-`volkswagen_volkswagen_golf_2_en_12e7256b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:155
 
 The fuel pump can be removed in a similar
 manner to that described for the fuel gauge
@@ -16445,7 +15585,6 @@ Fuel and exhaust systems - Mono Jetronic fuel injection  4D•5
 1
 
 ### Throttle lever
-`volkswagen_volkswagen_golf_2_en_740c5e0c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:155
 
 2
 Plunger
@@ -16463,7 +15602,6 @@ Downloaded from www.Manualslib.com manuals search engine
 Chapter 4  Part E:
 
 ### Fuel and exhaust systems - Digijet fuel injection
-`volkswagen_volkswagen_golf_2_en_73fb6b37` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:157
 
 Injection system
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -16472,14 +15610,12 @@ Application  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.3 litre (code NZ) engine
 
 ### Control unit code colour:
-`volkswagen_volkswagen_golf_2_en_d04c35b8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:157
 
 Up to July 1989 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Copper-brown sticker
 From July 1989  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Blue sticker
-`volkswagen_volkswagen_golf_2_en_ceff4b66` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:157
 
 System pressure (approx):
 Vacuum hose connected  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -16488,7 +15624,6 @@ Vacuum hose disconnected  . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 3.0 bar
 
 ### Idle speed:
-`volkswagen_volkswagen_golf_2_en_3fa886c1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:157
 
 Up to July 1989 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 750 to 850 rpm
@@ -16498,7 +15633,6 @@ Speed limiter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 6400 to 6500 rpm
 
 ### CO content %:
-`volkswagen_volkswagen_golf_2_en_3513cc87` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:157
 
 Up to July 1989 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.3 to 0.11
@@ -16506,14 +15640,12 @@ July 1989 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 0.3 to 1.5
 
 ### Injectors:
-`volkswagen_volkswagen_golf_2_en_f508ec36` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:157
 
 Resistance  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 15 to 20 ohms
 Spray pattern  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Conical
-`volkswagen_volkswagen_golf_2_en_b2be6f29` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:157
 
 Air cleaner element - renewal  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2
@@ -16536,7 +15668,6 @@ Throttle valve switch - testing  . . . . . . . . . . . . . . . . . . . . . . . .
 7
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_4b297908` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:157
 
 suitable for expert DIY
 or  professional
@@ -16557,7 +15688,6 @@ litre (code NZ) engine (see
 illustrations).
 
 ### The system is regulated in accordance with
-`volkswagen_volkswagen_golf_2_en_74c82996` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:158
 
 instructions received from a control unit,
 located in the bulkhead plenum chamber on
@@ -16567,7 +15697,6 @@ sticker on the unit, earlier units having a
 copper-brown sticker.
 
 ### The fuel pump and its location is identical to
-`volkswagen_volkswagen_golf_2_en_3b2f3d40` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:158
 
 that described in Part F of this Chapter for the
 Digifant fuel injection system.
@@ -16583,7 +15712,6 @@ being the feed line attachment to the gravity
 valve from the charcoal filter.
 
 ### Precautions
-`volkswagen_volkswagen_golf_2_en_14b2b444` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:158
 
 Refer to Sections 1 and 2 in Part B of this
 Chapter.
@@ -16597,7 +15725,6 @@ components
 1
 
 ### Air intake elbow
-`volkswagen_volkswagen_golf_2_en_1d0ec9bd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:158
 
 2
 Lambda probe connector
@@ -16633,7 +15760,6 @@ regulating flap
 1
 
 ### Airflow meter
-`volkswagen_volkswagen_golf_2_en_c6f1492e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:158
 
 2
 Fuel pressure regulator
@@ -16667,7 +15793,6 @@ coolant temperature gauge
 21 Ignition coil
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_ccd57f33` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:158
 
 3
 Idle speed and mixture -
@@ -16707,7 +15832,6 @@ the
 manufacturer’s instructions, then connect the
 
 ### CO analyser to the measuring pipe (see
-`volkswagen_volkswagen_golf_2_en_88a2212f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:159
 
 illustration). An adapter will probably be
 needed to ensure a good seal between the
@@ -16732,7 +15856,6 @@ should initially be between 900 to 1000 rpm
 and the CO content between 1.0 and 1.4%.
 
 ### When the Lambda probe is reconnected, the
-`volkswagen_volkswagen_golf_2_en_637b6d16` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:159
 
 idle speed and the CO content should settle
 down to the specified setting. Fit a new
@@ -16742,7 +15865,6 @@ completion.
 disconnect the analyser and reconnect the
 
 ### Lambda probe wiring plug.
-`volkswagen_volkswagen_golf_2_en_c15ade2e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:159
 
 4
 Airflow meter - testing
@@ -16753,7 +15875,6 @@ resistance value between contacts 1 and 4 of
 the control unit plug (see illustrations).
 
 ### The potentiometer is measured in the same
-`volkswagen_volkswagen_golf_2_en_88c8e0a6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:159
 
 manner by connecting the probes to terminals
 2 and 3 and simultaneously operating the
@@ -16769,7 +15890,6 @@ retaining clips, lift the lid from the air cleaner
 unit and remove the element - see illustration,
 
 ### Section 32, Chapter 1.
-`volkswagen_volkswagen_golf_2_en_ddb97895` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:159
 
 3 With the engine cold and with the air
 temperature around the pre-heater between 5
@@ -16780,7 +15900,6 @@ the valve should be seen to close.
 6
 
 ### Fuel injectors - testing
-`volkswagen_volkswagen_golf_2_en_7fbd75f6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:159
 
 3
 Refer to Section 13 in Part B of this Chapter
@@ -16792,7 +15911,6 @@ leak from any of the injectors.
 7
 
 ### Throttle valve switch - testing 2
-`volkswagen_volkswagen_golf_2_en_8364291e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:159
 
 1 A multi-meter (set to the resistance scale)
 will be required to make this test.
@@ -16809,7 +15927,6 @@ screw. Check that zero ohms is shown on the
 meter.
 
 ### Fuel and exhaust systems - Digijet fuel injection 4E•3
-`volkswagen_volkswagen_golf_2_en_e240577f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:159
 
 4E
 3.4  CO analyser and connecting pipe
@@ -16824,7 +15941,6 @@ connections and securing screws
 resistance graph
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_bf5f1897` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:159
 
 3 Insert a feeler blade of 0.3 mm thickness
 between the lever and the stop screw to ensure
@@ -16837,7 +15953,6 @@ screws. Fully open the throttle valve and check
 that it is switched ‘on’ as described above.
 
 ### Reconnect the wiring connector to the switch
-`volkswagen_volkswagen_golf_2_en_4413e255` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:160
 
 on completion of the check.
 4 It should be noted that the throttle valve
@@ -16852,7 +15967,6 @@ then tightening the screw until it just comes
 into contact with the stop (see illustration).
 
 ### This setting is critical and to judge when the
-`volkswagen_volkswagen_golf_2_en_318517fc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:160
 
 contact point is made, a piece of thin paper
 should be positioned between the lever and
@@ -16866,7 +15980,6 @@ simultaneously tighten the screw to the point
 where the paper is just clamped by the screw.
 
 ### From this point, tighten the screw a further
-`volkswagen_volkswagen_golf_2_en_53a3c273` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:160
 
 half turn.
 6 If adjustment has been made, the idle
@@ -16886,7 +15999,6 @@ circumstances should not require checking
 and adjustment.
 
 ### If the clearance is to be checked, first
-`volkswagen_volkswagen_golf_2_en_1469950d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:160
 
 remove the air cleaner unit. Using a suitable
 0.5 mm diameter twist drill, check the
@@ -16898,7 +16010,6 @@ then retighten the locknut.
 9
 
 ### System components -
-`volkswagen_volkswagen_golf_2_en_3d75af27` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:160
 
 removal and refitting
 3
@@ -16909,7 +16020,6 @@ points should be noted:
 a) Observe the precautions described in
 
 ### Sections 1 and 2, Part B of this Chapter,
-`volkswagen_volkswagen_golf_2_en_bc7876f5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:160
 
 whenever any parts of the system are to
 be removed and refitted.
@@ -16932,7 +16042,6 @@ components are removed in a similar
 manner to that described in Part A of this
 
 ### Chapter, the only difference being the
-`volkswagen_volkswagen_golf_2_en_b1e78e86` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:160
 
 4E•4 Fuel and exhaust systems - Digijet fuel injection
 7.3  Feeler blade location for throttle valve
@@ -16943,7 +16052,6 @@ limiting screw (A) and stop (B)
 using 0.5 mm twist drill
 
 ### Adjustment screw and locknut also indicated
-`volkswagen_volkswagen_golf_2_en_08865ed1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:160
 
 1081 VW Golf & Jetta
 9.1a  Vacuum hose identification
@@ -16966,7 +16074,6 @@ regulator
 7
 
 ### Air cleaner
-`volkswagen_volkswagen_golf_2_en_b8656a23` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:160
 
 8
 Throttle valve
@@ -17000,7 +16107,6 @@ inspection or renewal is possible after first
 removing the air cleaner.
 
 ### Fuel and exhaust systems - Digijet fuel injection 4E•5
-`volkswagen_volkswagen_golf_2_en_6647e012` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:161
 
 4E
 1081 VW Golf & Jetta
@@ -17044,7 +16150,6 @@ valve)
 A
 
 ### Fuel tank vapour route when
-`volkswagen_volkswagen_golf_2_en_994a9e5a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:161
 
 engine is idling or stopped
 B/C Fuel tank vapour route when
@@ -17061,7 +16166,6 @@ Activated charcoal canister
 5
 
 ### Throttle valve housing
-`volkswagen_volkswagen_golf_2_en_cda08ecf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:161
 
 6
 Hose (auxiliary air valve/inlet
@@ -17077,7 +16181,6 @@ Downloaded from www.Manualslib.com manuals search engine
 4F
 
 ### Chapter 4 Part F:
-`volkswagen_volkswagen_golf_2_en_aee902fe` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:163
 
 Fuel and exhaust systems - Digifant fuel injection
 The following information is a revision of, or supplementary to, that contained in Part B of this Chapter
@@ -17085,7 +16188,6 @@ Injection system
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Digifant
-`volkswagen_volkswagen_golf_2_en_d6400483` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:163
 
 Application  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.8 litre (codes PBX and PF) engine
@@ -17093,7 +16195,6 @@ System pressure at idle:
 On  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Approximately 2.5 bar
-`volkswagen_volkswagen_golf_2_en_0d0d9a51` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:163
 
 Off  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Approximately 3.0 bar
@@ -17105,7 +16206,6 @@ Holding pressure (System off for 10 minutes)  . . . . . . . . . . . . . . . . . 
 2.0 bar minimum
 
 ### Torque wrench settings
-`volkswagen_volkswagen_golf_2_en_f282f5c2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:163
 
 Nm
 lbf ft
@@ -17144,7 +16244,6 @@ Throttle valve switches - testing and adjustment  . . . . . . . . . . . . . . .
 5
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_7df6102e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:163
 
 suitable for expert DIY
 or  professional
@@ -17177,7 +16276,6 @@ continuously adjusts ignition timing according
 to engine speed, load and temperature.
 
 ### Precautions
-`volkswagen_volkswagen_golf_2_en_6c8dff99` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:163
 
 Refer to Sections 1 and 2 in Part B of this
 Chapter whilst noting the following:
@@ -17195,7 +16293,6 @@ e) Disconnect both battery leads before
 carrying out any electric welding
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_a49120be` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:163
 
 2
 Idle speed and mixture (CO
@@ -17208,7 +16305,6 @@ normal operating temperature.
 including the air conditioning, where fitted.
 
 ### Note that the radiator fan must be stationary
-`volkswagen_volkswagen_golf_2_en_47d0c945` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:164
 
 during adjustment.
 3 For accurate adjustment, the throttle valve
@@ -17251,7 +16347,6 @@ the same objective.
 3
 
 ### Idle speed stabilisation
-`volkswagen_volkswagen_golf_2_en_7fdb415a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:164
 
 system - testing
 2
@@ -17275,7 +16370,6 @@ idling speed, the control current should be
 approximately 420 ± 30 mA and fluctuating.
 
 ### With
-`volkswagen_volkswagen_golf_2_en_4ecb7973` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:164
 
 the
 temperature
@@ -17310,7 +16404,6 @@ then reconnect the hose.
 5
 
 ### Throttle valve switches -
-`volkswagen_volkswagen_golf_2_en_ba5a5884` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:164
 
 testing and adjustment
 2
@@ -17342,7 +16435,6 @@ adjusting screw (2)
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_111abd23` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:164
 
 5 Fully open the throttle and align a datum
 with 0° on the card. Close the throttle by
@@ -17355,7 +16447,6 @@ sloping part of switch 2.
 6
 
 ### Throttle stop - adjustment 2
-`volkswagen_volkswagen_golf_2_en_08557737` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:165
 
 1 Throttle stop adjustment is initially set at
 the factory and should not be tampered with.
@@ -17373,7 +16464,6 @@ mixture.
 7
 
 ### Fuel pressure regulator -
-`volkswagen_volkswagen_golf_2_en_e912fef6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:165
 
 testing
 5
@@ -17396,7 +16486,6 @@ injectors are open-circuited, then the
 resistance will be as follows:
 
 ### One injector open-circuited - 5.0 to 6.7 ohms
-`volkswagen_volkswagen_golf_2_en_79d05e4e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:165
 
 Two injectors open-circuited - 7.5 to 10.0
 ohms
@@ -17409,7 +16498,6 @@ resistance of 15.0 to 20.0 ohms.
 be performed as described in Part B of this
 
 ### Chapter, due to the position of the fuel
-`volkswagen_volkswagen_golf_2_en_55ec6644` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:165
 
 distributor. However, the injectors may be
 removed together with the fuel distributor and
@@ -17418,7 +16506,6 @@ starter for a few seconds. Use a suitable
 container to catch the fuel.
 
 ### Fuel and exhaust systems - Digifant fuel injection 4F•3
-`volkswagen_volkswagen_golf_2_en_0fdd5345` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:165
 
 4F
 1081 VW Golf & Jetta
@@ -17434,7 +16521,6 @@ regulator
 1
 
 ### Air inlet hose
-`volkswagen_volkswagen_golf_2_en_25f93147` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:165
 
 2
 Bolt
@@ -17466,7 +16552,6 @@ control valve
 6.2  Throttle stop adjustment
 
 ### Arrow indicates adjustment screw
-`volkswagen_volkswagen_golf_2_en_eff70ddd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:165
 
 1   Carrier lever
 2   Stop lever
@@ -17491,7 +16576,6 @@ as the airflow meter plate is moved.
 5
 
 ### The control unit is located on the left-hand
-`volkswagen_volkswagen_golf_2_en_3a4e45d8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:166
 
 side of the bulkhead. The ignition must always
 be switched off before disconnecting the
@@ -17518,7 +16602,6 @@ contacts on the plug.
 5 Repeat the procedure in paragraphs 2 and
 
 ### 3. If the engine now surges, the temperature
-`volkswagen_volkswagen_golf_2_en_5a2c0916` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:166
 
 sender is proved faulty. However, if it still
 refuses to surge, check the associated wiring
@@ -17546,7 +16629,6 @@ relay (No 2 on fusebox) may be faulty. This is
 best checked by substituting a new relay.
 
 ### From mid 1989
-`volkswagen_volkswagen_golf_2_en_cd75392f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:166
 
 5 From mid 1989, certain models fitted with
 the Digifant system are fitted with a single fuel
@@ -17564,7 +16646,6 @@ sender unit in Part A of this Chapter, Section
 8.1  Fuel injectors and pressure regulator components
 
 ### A Crankcase, ventilation
-`volkswagen_volkswagen_golf_2_en_e0e0a2c4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:166
 
 hose
 B Vacuum hose
@@ -17597,7 +16678,6 @@ Connector
 17 Insert
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_b801a3cc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:166
 
 Fuel and exhaust systems - Digifant fuel injection  4F•5
 4F
@@ -17621,7 +16701,6 @@ Tamperproof plug
 8
 
 ### Mixture (CO
-`volkswagen_volkswagen_golf_2_en_6e52b6c2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:167
 
 content)
 adjustment screw
@@ -17643,7 +16722,6 @@ resistance graph
 1
 
 ### Bracket
-`volkswagen_volkswagen_golf_2_en_58ea2ece` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:167
 
 2
 Rubber mounting
@@ -17668,7 +16746,6 @@ O-ring
 14 Adapter
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_a4fa30e5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:167
 
 4F•6
 1081 VW Golf & Jetta
@@ -17685,7 +16762,6 @@ Firing order .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1-3-4-2 (No. 1 cylinder at crankshaft pulley end)
 
 ### Spark plugs
-`volkswagen_volkswagen_golf_2_en_a18a74be` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:169
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Refer to Chapter 1 Specifications
@@ -17694,7 +16770,6 @@ Type:
 1.05 litre.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion LS-05 boxed set
-`volkswagen_volkswagen_golf_2_en_50b6b422` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:169
 
 1.3, 1.6 and 1.8 litre.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion LS-07 boxed set
@@ -17706,7 +16781,6 @@ Secondary winding resistance  . . . . . . . . . . . . . . . . . . . . . . . . . 
 7000 to 12 000 ohm
 
 ### From August 1987:
-`volkswagen_volkswagen_golf_2_en_af29d4fe` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:169
 
 Primary winding resistance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.6 to 0.8 ohm
@@ -17714,7 +16788,6 @@ Secondary winding resistance  . . . . . . . . . . . . . . . . . . . . . . . . . 
 6900 to 8500 ohm
 
 ### Distributor
-`volkswagen_volkswagen_golf_2_en_d5036444` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:169
 
 Rotor rotation:
 1.05 and 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -17722,7 +16795,6 @@ Anti-clockwise
 1.6 and 1.8 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Clockwise
-`volkswagen_volkswagen_golf_2_en_864b8ad5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:169
 
 Contact breaker gap (initial setting only)  . . . . . . . . . . . . . . . . . . . . . . . .
 0.4 mm
@@ -17733,14 +16805,12 @@ Wear limit  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 42 to 58° (47 to 64%)
 
 ### Rotor cut-out speed:
-`volkswagen_volkswagen_golf_2_en_f7894252` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:169
 
 1.05 and 1 3 litre (if applicable) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 6300 to 6700 rpm
 1.6 and 1.8 litre (carburettor engine) . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### No figures available
-`volkswagen_volkswagen_golf_2_en_332098f8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:169
 
 1.8 litre (injection engine)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 6500 to 6900 rpm
@@ -17748,21 +16818,18 @@ Centrifugal advance:
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Begins at 1100 to 1500 rpm
-`volkswagen_volkswagen_golf_2_en_7405d316` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:169
 
 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Begins at 1500 to 1900 rpm
 1.6 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Begins at 1100 to 1300 rpm
-`volkswagen_volkswagen_golf_2_en_222ff1fa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:169
 
 1.8 litre (carburettor engine)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Begins at 900 to 1100 rpm
 1.8 litre (fuel injection engine)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Begins at 1150 to 1450 rpm
-`volkswagen_volkswagen_golf_2_en_3675a952` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:169
 
 Ignition timing (at idle) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Refer to Chapter 1 Specifications
@@ -17786,7 +16853,6 @@ Spark plugs - renewal  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_3fde1fe4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:169
 
 suitable for expert DIY
 or  professional
@@ -17805,7 +16871,6 @@ Spark plugs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 15
 
 ### Distributor clamp bolt:
-`volkswagen_volkswagen_golf_2_en_f42d4aac` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:170
 
 1.05 and 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 10
@@ -17816,7 +16881,6 @@ Spark plugs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1
 
 ### General information and
-`volkswagen_volkswagen_golf_2_en_c9f5fe2b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:170
 
 precautions
 General information
@@ -17833,7 +16897,6 @@ intermediate shaft of the engine (see
 illustration).
 
 ### To enable the engine to run correctly, it is
-`volkswagen_volkswagen_golf_2_en_1d20030f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:170
 
 necessary for an electrical spark to ignite the
 fuel/air mixture in the combustion chamber at
@@ -17848,7 +16911,6 @@ under high compression, providing that the
 system is in good condition.
 
 ### The ignition system is divided into two
-`volkswagen_volkswagen_golf_2_en_b418d5e0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:170
 
 circuits, the low tension (LT) circuit and the
 high tension (HT) circuit.
@@ -17875,7 +16937,6 @@ rotor arm and the spark plug leads and spark
 plugs.
 
 ### The system functions in the following
-`volkswagen_volkswagen_golf_2_en_b6fd9b31` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:170
 
 manner. LT voltage is changed in the coil into
 HT voltage by the opening and closing of the
@@ -17894,7 +16955,6 @@ finally jumps the spark plug gap before going
 to earth.
 
 ### Ignition timing is advanced and retarded
-`volkswagen_volkswagen_golf_2_en_569dd71c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:170
 
 automatically, to ensure that the spark occurs
 at just the right instant for the particular load
@@ -17905,7 +16965,6 @@ at the prevailing engine speed.
 1
 
 ### Sealing ring
-`volkswagen_volkswagen_golf_2_en_aed739d2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:170
 
 2
 Condenser
@@ -17938,7 +16997,6 @@ Bearing plate
 22 Clip
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_6f806f3a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:170
 
 Ignition system - contact breaker type  5A•3
 5A
@@ -17948,7 +17006,6 @@ Ignition system - contact breaker type  5A•3
 1.1b  Contact breaker ignition system components - Ducellier distributor, 1.05 and 1.3 litre engines
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_e9965f2a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:171
 
 Ignition
 advance
@@ -17964,7 +17021,6 @@ outwards, they rotate the cam relative to the
 distributor shaft and so advance the spark.
 
 ### The weights are held in position by two light
-`volkswagen_volkswagen_golf_2_en_b7187f1c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:172
 
 springs and it is the tension of these springs
 which is largely responsible for correct spark
@@ -17979,7 +17035,6 @@ via a small bore pipe to the inlet manifold and
 the other side to the contact breaker plate.
 
 ### Depression in the inlet manifold, which varies
-`volkswagen_volkswagen_golf_2_en_d0fe9878` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:172
 
 with engine speed and throttle opening,
 causes the diaphragm to move, so moving the
@@ -17988,7 +17043,6 @@ retarding the spark. A fine degree of control is
 achieved by a spring in the vacuum assembly.
 
 ### The system incorporates a ballast resistor
-`volkswagen_volkswagen_golf_2_en_8c7a7688` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:172
 
 or resistive wire in the low tension circuit,
 which is in circuit all the time that the engine is
@@ -17997,7 +17051,6 @@ resistance is bypassed to provide increased
 voltage at the spark plugs for easier starting.
 
 ### Precautions
-`volkswagen_volkswagen_golf_2_en_f31ae2f0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:172
 
 It is necessary to take extra care when
 working on the electrical system to avoid
@@ -18012,7 +17065,6 @@ b) Always remove rings, watches, etc.
 before working on the ignition system.
 
 ### Even with the battery disconnected,
-`volkswagen_volkswagen_golf_2_en_745cffae` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:172
 
 capacitive discharge could occur if a
 component live terminal is earthed
@@ -18050,7 +17102,6 @@ leads.
 2
 
 ### Spark plugs - renewal
-`volkswagen_volkswagen_golf_2_en_3688fa44` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:172
 
 2
 Caution: When pulling the HT lead from a
@@ -18062,7 +17113,6 @@ cylinders, remove dirt from the spark plug
 recesses before removing the plugs
 
 ### Refer to Chapter 1, Section 15
-`volkswagen_volkswagen_golf_2_en_4c26274f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:172
 
 3
 HT leads, distributor cap and
@@ -18099,7 +17149,6 @@ protected.
 4
 
 ### Contact breaker points -
-`volkswagen_volkswagen_golf_2_en_e4148d4f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:172
 
 inspection and adjustment 3
 Inspection
@@ -18117,7 +17166,6 @@ and refitting
 2
 
 ### Testing
-`volkswagen_volkswagen_golf_2_en_2613f466` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:172
 
 1 A faulty condenser can cause complete
 failure of the ignition system, as the points will
@@ -18141,7 +17189,6 @@ doubt, substitute a new unit and check
 whether the fault persists.
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_a1672112` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:172
 
 5 To remove the condenser, unscrew its
 retaining screw and disconnect the LT supply
@@ -18156,7 +17203,6 @@ cap, rotor arm, dust cover and bearing plate (if
 applicable) first.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_d0c1dfa7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:172
 
 7 Refitting is a reversal of removal.
 5A•4 Ignition system - contact breaker type
@@ -18169,7 +17215,6 @@ overhaul and refitting
 4
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_e2ac07d1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:173
 
 1 Disconnect the battery earth lead, then
 remove the distributor cap and screening ring.
@@ -18186,7 +17231,6 @@ crankshaft pulley bolt until the rotor arm
 points to the No. 1 spark plug lead position.
 
 ### On some models, a TDC groove is provided
-`volkswagen_volkswagen_golf_2_en_4ec536cf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:173
 
 on the distributor body rim and the rotor arm
 must align with this. The mark on the
@@ -18220,7 +17264,6 @@ the distributor body sealing washer which
 must be renewed.
 
 ### Overhaul
-`volkswagen_volkswagen_golf_2_en_ff8599d5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:173
 
 8 Overhauling of the distributor is similar for
 all models. The accompanying illustrations
@@ -18233,7 +17276,6 @@ bearing plate retaining ring (see illustrations).
 11 Before removing the vacuum unit on the
 
 ### Ducellier distributor, mark the adjustment
-`volkswagen_volkswagen_golf_2_en_bac3c8dd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:173
 
 segment position so that it can be correctly
 repositioned when reassembling.
@@ -18243,7 +17285,6 @@ unit arm to the contact breaker plate.
 unhook the arm and withdraw the vacuum
 
 ### Ignition system - contact breaker type 5A•5
-`volkswagen_volkswagen_golf_2_en_e9f59042` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:173
 
 5A
 7.6a  TDC timing marks -
@@ -18262,7 +17303,6 @@ with timing cover removed - 1.3 litre engine
 7.5  Removing the distributor
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_cea23d5e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:173
 
 unit. Note that the screws may also secure a
 suppression choke unit to the distributor
@@ -18275,7 +17315,6 @@ cut-outs (if applicable).
 15 Wipe clean all electrical components.
 
 ### Clean the distributor body assembly with
-`volkswagen_volkswagen_golf_2_en_ead442c7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:174
 
 paraffin then wipe dry.
 16 Check all components for wear and
@@ -18298,7 +17337,6 @@ multi-purpose grease then adjust the contact
 breaker points.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_b0ae82f4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:174
 
 1.05 and 1.3 litre engines
 21 To refit the distributor, reverse the
@@ -18322,7 +17360,6 @@ multi-plug (as applicable). Refit the TDC
 sensor or blanking plug.
 
 ### All models
-`volkswagen_volkswagen_golf_2_en_7456d9c3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:174
 
 23 Refit the distributor cap, then reconnect
 the battery negative terminal .
@@ -18336,7 +17373,6 @@ Refer to Chapter 1, Section 17
 9
 
 ### Coil - testing
-`volkswagen_volkswagen_golf_2_en_81c4285e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:174
 
 2
 1 The coil is located on the bulkhead under
@@ -18371,7 +17407,6 @@ to refitting distributor
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_99f89250` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:174
 
 1081 VW Golf & Jetta
 5B
@@ -18384,7 +17419,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1-3-4-2 (No 1 cylinder at crankshaft pulley end)
 
 ### Spark plugs
-`volkswagen_volkswagen_golf_2_en_3435d96c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:175
 
 Type and gap  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Refer to Chapter 1 Servicing specifications
@@ -18393,7 +17427,6 @@ Type:
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion LS-05 boxed set
-`volkswagen_volkswagen_golf_2_en_937e099e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:175
 
 1.3, 1.6 and 1.8 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion LS-07 boxed set
@@ -18405,7 +17438,6 @@ Secondary winding resistance  . . . . . . . . . . . . . . . . . . . . . . . . . 
 2400 to 3500 ohm
 
 ### Clockwise
-`volkswagen_volkswagen_golf_2_en_1a6b95e3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:175
 
 Dwell angle (1.05,1.3 and 1.6 litre):
 Setting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -18414,7 +17446,6 @@ Wear limit  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 42 to 58° (47 to 64%)
 
 ### Rotor cut-out speed:
-`volkswagen_volkswagen_golf_2_en_4bcf3c02` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:175
 
 1.05 and 1.3 litre * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 6600 to 7000 rpm
@@ -18424,7 +17455,6 @@ Wear limit  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 ** Only on engine without hydraulic tappets
 
 ### Torque wrench settings
-`volkswagen_volkswagen_golf_2_en_62bba244` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:175
 
 Nm
 lbf ft
@@ -18458,7 +17488,6 @@ Switch unit - testing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 4
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_2808b455` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:175
 
 suitable for expert DIY
 or  professional
@@ -18476,7 +17505,6 @@ General information
 TCI-H system
 
 ### The transistorised (TIC-H) ignition system
-`volkswagen_volkswagen_golf_2_en_fe85afd2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:176
 
 functions in a similar manner to that described
 in Part A of this Chapter for the contact
@@ -18488,7 +17516,6 @@ controls the coil primary circuit (see
 illustrations).
 
 ### Ignition timing is advanced and retarded
-`volkswagen_volkswagen_golf_2_en_f06b5cb8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:176
 
 automatically, to ensure that the spark occurs
 at just the right instant for the particular load
@@ -18507,7 +17534,6 @@ outwards they rotate the cam relative to the
 distributor shaft, and so advance the spark.
 
 ### The weights are held in position by two light
-`volkswagen_volkswagen_golf_2_en_62b87b60` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:176
 
 springs, and it is the tension of the springs
 which is largely responsible for correct spark
@@ -18524,7 +17550,6 @@ degree of control is achieved by a spring in
 the vacuum assembly.
 
 ### Digifant system
-`volkswagen_volkswagen_golf_2_en_fd424bad` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:176
 
 Fitted to the 1.8 litre (code PB and PF)
 engine, the Digifant ignition system uses the
@@ -18535,7 +17560,6 @@ ignition timing accordingly. Normal ignition
 timing is automatically adjusted by the
 
 ### Digifant control unit which also controls the
-`volkswagen_volkswagen_golf_2_en_79be459e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:176
 
 fuel injection system. Because of this, there
 are no centrifugal advance weights in the
@@ -18545,7 +17569,6 @@ the TIC-H system , except for those described
 in the relevant Sections.
 
 ### Precautions
-`volkswagen_volkswagen_golf_2_en_39b371d9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:176
 
 In addition to the precautions listed in Part
 A of this Chapter, note the following:
@@ -18563,7 +17586,6 @@ a condenser to the coil terminals
 2
 
 ### Spark plugs - renewal
-`volkswagen_volkswagen_golf_2_en_fe75e6d6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:176
 
 2
 Refer to Chapter 1, Section 15
@@ -18577,7 +17599,6 @@ Spark plug
 3
 
 ### HT lead
-`volkswagen_volkswagen_golf_2_en_d1a896ca` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:176
 
 4
 Suppression connector
@@ -18609,7 +17630,6 @@ spring
 24 Earth lead
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_9b73945f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:176
 
 Ignition system - transistorised type  5B•3
 5B
@@ -18620,7 +17640,6 @@ The system for 1.8 litre engines is similar
 1
 
 ### TCI-H switch unit
-`volkswagen_volkswagen_golf_2_en_b1b20e29` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:177
 
 2
 Connector
@@ -18647,7 +17666,6 @@ renewal
 2
 
 ### Refer to Section 3 in Part A of this Chapter
-`volkswagen_volkswagen_golf_2_en_49d2622c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:178
 
 4
 Switch unit - testing
@@ -18678,7 +17696,6 @@ switch unit and coil.
 terminal of the distributor multi-plug briefly.
 
 ### The voltage should rise to at least 2 volts. If
-`volkswagen_volkswagen_golf_2_en_2a33666e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:178
 
 not, there is an open-circuit or the switch unit
 is faulty.
@@ -18694,7 +17711,6 @@ multi-plug.
 5
 
 ### Hall sender - testing
-`volkswagen_volkswagen_golf_2_en_1c6bf2a5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:178
 
 2
 1 Check that the ignition system wiring and
@@ -18715,7 +17731,6 @@ faulty and must be renewed.
 6
 
 ### Distributor - removal and
-`volkswagen_volkswagen_golf_2_en_f76529a8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:178
 
 refitting
 3
@@ -18726,7 +17741,6 @@ Part A of this Chapter for the contact breaker
 type
 
 ### TCI-H system
-`volkswagen_volkswagen_golf_2_en_0ee11258` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:178
 
 Removal
 1 Pull the high tension connection from the
@@ -18750,7 +17764,6 @@ testing ignition switch unit and coil
 5.4  Voltmeter connection when testing
 
 ### Hall sender
-`volkswagen_volkswagen_golf_2_en_35dd7f67` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:178
 
 4.6a  Multi-plug connection to Hall sender
 on side of distributor
@@ -18778,7 +17791,6 @@ the gasket, which must be renewed (see
 illustrations).
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_d9621c50` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:179
 
 7 Refitting is a reversal of the removal
 procedure. When the distributor is in position,
@@ -18789,7 +17801,6 @@ plate bolt.
 adjust the ignition timing.
 
 ### Digifant system
-`volkswagen_volkswagen_golf_2_en_1e2e3670` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:179
 
 Removal
 9 Release the distributor screen and cap.
@@ -18801,7 +17812,6 @@ the side of the distributor body.
 the clamp plate and withdraw the distributor.
 
 ### Ignition system - transistorised type 5B•5
-`volkswagen_volkswagen_golf_2_en_9421180d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:179
 
 5B
 6.4a  TDC blanking plug – manual gearbox
@@ -18819,7 +17829,6 @@ components
 1
 
 ### HT leads
-`volkswagen_volkswagen_golf_2_en_e39e21fd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:179
 
 2
 Suppression connectors
@@ -18849,7 +17858,6 @@ Distributor
 19 Spark plug
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_c8925d38` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:179
 
 Refitting
 12 Before fitting the distributor, set No. 1
@@ -18859,7 +17867,6 @@ vibration damper mark should align with the
 matching mark on the casing or belt cover.
 
 ### The mark on the camshaft sprocket must
-`volkswagen_volkswagen_golf_2_en_0dd46da5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:180
 
 align with the joint of the camshaft cover.
 13 Using a screwdriver, turn the slot in the
@@ -18875,7 +17882,6 @@ necessary adjust the ignition timing.
 7
 
 ### Distributor - overhaul
-`volkswagen_volkswagen_golf_2_en_9dfc9f40` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:180
 
 4
 Note: Before commencing work, check that
@@ -18895,7 +17901,6 @@ distributor body in line with the guide lug.
 b) Shims are provided above and below the
 
 ### Hall sender and these should be selected
-`volkswagen_volkswagen_golf_2_en_acae3d9f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:180
 
 to eliminate axial clearance and to provide
 for movement by the vacuum unit.
@@ -18939,7 +17944,6 @@ of its spring.
 6.15  Distributor installation position –
 
 ### Digifant system
-`volkswagen_volkswagen_golf_2_en_e7c118ec` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:180
 
 7.3b  . . . and lift off the dust cap
 7.4b  . . . and locating pin from shaft
@@ -18952,7 +17956,6 @@ components – 1.05 and 1.3 litre engines
 1
 
 ### Bearing plate
-`volkswagen_volkswagen_golf_2_en_e3a204c3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:180
 
 2
 Tensioning ring
@@ -18976,7 +17979,6 @@ Downloaded from www.Manualslib.com manuals search engine
 10 Check that the rotor arm is not damaged.
 
 ### Use an ohmmeter to measure the resistance
-`volkswagen_volkswagen_golf_2_en_af386455` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:181
 
 between the brass contact in the centre of the
 rotor arm and the brass contact at the edge of
@@ -18987,7 +17989,6 @@ vacuum diaphragm and check that the
 operating rod of the diaphragm unit moves.
 
 ### Retain the diaphragm under vacuum to check
-`volkswagen_volkswagen_golf_2_en_71d91252` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:181
 
 that the diaphragm is not perforated.
 12 Reassemble the distributor in reverse
@@ -19008,7 +18009,6 @@ and will need renewal.
 8
 
 ### Ignition timing - checking and
-`volkswagen_volkswagen_golf_2_en_8af460bc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:181
 
 adjustment
 3
@@ -19027,7 +18027,6 @@ when refitting
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_fa74242b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:181
 
 5B•8
 1081 VW Golf & Jetta
@@ -19040,7 +18039,6 @@ Ignition system - fully electronic type
 The following information is a revision of, or supplementary to, that contained in Part B of this Chapter
 
 ### General
-`volkswagen_volkswagen_golf_2_en_0c6bd94d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:183
 
 System type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Fully Electronic Ignition (FEI)
@@ -19067,7 +18065,6 @@ Switch unit - testing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 4
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_892db933` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:183
 
 suitable for expert DIY
 or  professional
@@ -19092,7 +18089,6 @@ Connector
 6
 
 ### TCI-H switch unit
-`volkswagen_volkswagen_golf_2_en_47f3cf3c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:183
 
 7
 Heat sink
@@ -19125,7 +18121,6 @@ sender
 1
 
 ### General information and
-`volkswagen_volkswagen_golf_2_en_f6417566` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:183
 
 precautions
 General information
@@ -19142,7 +18137,6 @@ distributor is not fitted with centrifugal and
 vacuum advance mechanisms.
 
 ### Precautions
-`volkswagen_volkswagen_golf_2_en_1c547693` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:183
 
 The precautions listed in Parts A and B of
 this Chapter apply also to the FEI system.
@@ -19158,7 +18152,6 @@ test lamp, as this will damage the
 electronic components of the system
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_e4cc298b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:183
 
 2
 Spark plugs - renewal
@@ -19203,7 +18196,6 @@ not the case, renew the switch unit.
 5
 
 ### Control unit - testing
-`volkswagen_volkswagen_golf_2_en_9afd9ee9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:184
 
 2
 1 Test the switch unit before checking the
@@ -19235,7 +18227,6 @@ connector, then switch on the ignition. A
 reading of 5 volts should be registered.
 
 ### Switch off the ignition.
-`volkswagen_volkswagen_golf_2_en_80ca76f7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:184
 
 7 Connect a voltmeter across the low tension
 terminals of the ignition coil. Switch on the
@@ -19250,7 +18241,6 @@ pump relay.
 6
 
 ### Hall sender - testing
-`volkswagen_volkswagen_golf_2_en_9060c40b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:184
 
 2
 Note: A digital multi-meter should be used for
@@ -19265,7 +18255,6 @@ indicated, if not check the FEI control unit and
 wiring.
 
 ### To check the signal from the Hall sender
-`volkswagen_volkswagen_golf_2_en_7a990369` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:184
 
 unit, slide the rubber grommet away from the
 sender plug and with the plug connected,
@@ -19279,7 +18268,6 @@ testing FEI switch unit
 of distributor
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_ab9fbe53` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:184
 
 attach the diode test light to its centre and
 outer
@@ -19293,7 +18281,6 @@ be renewed.
 7
 
 ### Distributor - removal and
-`volkswagen_volkswagen_golf_2_en_69431aa8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:185
 
 refitting
 3
@@ -19329,7 +18316,6 @@ from inside the distributor body.
 8 Clean all the components, then fit the new
 
 ### Hall sender using a reversal of the removal
-`volkswagen_volkswagen_golf_2_en_4a9343d5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:185
 
 procedure, but lubricate the shaft with a little
 grease.
@@ -19352,7 +18338,6 @@ advance attributable to engine speed.
 engine to 4600 rpm. Note the ignition timing.
 
 ### Pull off the vacuum hose and again increase
-`volkswagen_volkswagen_golf_2_en_0398c08b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:185
 
 the engine speed to 4600 rpm. The ignition
 timing should be approximately 20° retarded
@@ -19368,7 +18353,6 @@ unit
 1
 
 ### Shaft
-`volkswagen_volkswagen_golf_2_en_5670b13f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:185
 
 2
 Shims
@@ -19395,7 +18379,6 @@ Downloaded from www.Manualslib.com manuals search engine
 5D
 
 ### Chapter 5 Part D:
-`volkswagen_volkswagen_golf_2_en_cf3d8e07` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:187
 
 Starting and charging systems
 System
@@ -19408,7 +18391,6 @@ Minimum voltage (under load)  . . . . . . . . . . . . . . . . . . . . . . . . . 
 9.6 volts at 110 amps
 
 ### Alternator
-`volkswagen_volkswagen_golf_2_en_943d515d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:187
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Bosch or Motorola
@@ -19418,7 +18400,6 @@ Minimum allowable brush length  . . . . . . . . . . . . . . . . . . . . . . . . 
 5.0 mm
 
 ### Rotor winding resistance (ohms):
-`volkswagen_volkswagen_golf_2_en_24e8d0ba` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:187
 
 Bosch
 Motorola
@@ -19433,7 +18414,6 @@ Motorola
 -
 
 ### Starter motor
-`volkswagen_volkswagen_golf_2_en_4840b822` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:187
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Pre-engaged
@@ -19441,7 +18421,6 @@ Application/VW part No:
 1.05 and 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 036 911 023 G
-`volkswagen_volkswagen_golf_2_en_65f44a22` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:187
 
 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 036 911 023 H
@@ -19449,7 +18428,6 @@ Application/VW part No:
 Manual gearbox  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 055 911 023 G
-`volkswagen_volkswagen_golf_2_en_aef1b650` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:187
 
 Automatic transmission  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 055 911 023 A
@@ -19457,7 +18435,6 @@ Automatic transmission  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 027 911 023
 
 ### Torque wrench settings
-`volkswagen_volkswagen_golf_2_en_cf6aea99` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:187
 
 Nm
 Ibf ft
@@ -19473,7 +18450,6 @@ Starter motor
 15
 
 ### Alternator
-`volkswagen_volkswagen_golf_2_en_d5177595` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:187
 
 Pulley nut  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 40
@@ -19509,7 +18485,6 @@ Starting motor - testing  . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 9
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_f714350e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:187
 
 suitable for expert DIY
 or  professional
@@ -19534,7 +18509,6 @@ engagement with the flywheel/driveplate ring
 gear before the motor is energised.
 
 ### An automatic stop-start system is fitted as
-`volkswagen_volkswagen_golf_2_en_eca100cc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:188
 
 optional equipment to some models and is a
 fuel economy device. Activated by a control
@@ -19548,7 +18522,6 @@ control panel. A warning light in the switch
 advises when the system is switched on.
 
 ### The system should only be used when the
-`volkswagen_volkswagen_golf_2_en_7586329a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:188
 
 vehicle has reached its normal operating
 temperature. When activated, the system will
@@ -19560,7 +18533,6 @@ vehicle must previously have been driven at a
 speed in excess of 3.1 mph (5 kph).
 
 ### When traffic conditions permit, the engine
-`volkswagen_volkswagen_golf_2_en_fb5c9163` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:188
 
 can be restarted by depressing the clutch
 pedal and moving the gear lever fully to the
@@ -19572,7 +18544,6 @@ should be repeated but the gear lever must be
 moved back into neutral within 6 seconds.
 
 ### Precautions
-`volkswagen_volkswagen_golf_2_en_b5c3fc9a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:188
 
 It is necessary to take extra care when
 working on the electrical system to avoid
@@ -19590,7 +18561,6 @@ a mains charger.
 c) Do not reverse the battery connections.
 
 ### Components such as the alternator or any
-`volkswagen_volkswagen_golf_2_en_57a85ef4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:188
 
 other having semi-conductor circuitry
 could be irreparably damaged.
@@ -19614,7 +18584,6 @@ equipment, disconnect the battery and
 alternator.
 
 ### The following precautions should be taken
-`volkswagen_volkswagen_golf_2_en_795da0e1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:188
 
 when using the automatic stop-start system:
 a) Do not use the system when the engine
@@ -19635,7 +18604,6 @@ take the ignition key with you
 2
 
 ### Battery - maintenance
-`volkswagen_volkswagen_golf_2_en_5144924c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:188
 
 1
 Refer to “Weekly Checks”.
@@ -19651,7 +18619,6 @@ not allow sparks or naked flames near the
 battery or it may explode.
 
 ### Caution: Specially rapid “boost” charges
-`volkswagen_volkswagen_golf_2_en_397d758a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:188
 
 which are claimed to restore the power of
 a battery in 1 to 2 hours are not
@@ -19691,7 +18658,6 @@ battery.
 4
 
 ### Battery - removal and refitting 1
-`volkswagen_volkswagen_golf_2_en_7afd08b9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:188
 
 Caution: When reconnecting the battery,
 always connect the positive lead first and
@@ -19707,7 +18673,6 @@ the acid level within the battery to overflow
 and damage surrounding components
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_0ed36414` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:188
 
 1 The battery is located in the engine
 compartment on the left-hand side.
@@ -19724,7 +18689,6 @@ bodywork.
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_5bcd0e46` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:188
 
 Refitting
 5 Refitting is a reversal of removal. Note the
@@ -19738,7 +18702,6 @@ terminals and clamps
 5
 
 ### Alternator drivebelt -
-`volkswagen_volkswagen_golf_2_en_cdae2bd0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:189
 
 inspection and adjustment 2
 Refer to Chapter 1, Section 13
@@ -19756,7 +18719,6 @@ have it checked professionally.
 7
 
 ### Alternator - removal and
-`volkswagen_volkswagen_golf_2_en_6a91a3e3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:189
 
 refitting
 3
@@ -19776,7 +18738,6 @@ pivot bolt and withdraw the unit from the
 engine.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_e4ad5fa3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:189
 
 6 Refitting is a reversal of removal. Before
 fully tightening the pivot and adjustment bolts,
@@ -19814,7 +18775,6 @@ by an auto-electrician.
 procedure.
 
 ### Motorola
-`volkswagen_volkswagen_golf_2_en_3f826146` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:189
 
 10 This procedure is similar to that described
 for the Bosch alternator. Identify the regulator
@@ -19834,7 +18794,6 @@ assembly
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_c921df03` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:189
 
 9
 Starting motor - testing
@@ -19873,7 +18832,6 @@ refitting
 3
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_0b010499` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:190
 
 1 Disconnect the earth lead from the battery.
 2 Jack up the front of the vehicle and support
@@ -19895,7 +18853,6 @@ removal of the starter motor.
 starter motor.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_80ffa48a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:190
 
 8 Refitting is a reversal of removal. Tighten all
 bolts to the specified torque.
@@ -19920,7 +18877,6 @@ from their holder.
 in doubt, renew the brushes as a set.
 
 ### Compare them with new items if necessary.
-`volkswagen_volkswagen_golf_2_en_25fe3f40` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:190
 
 6 To renew each brush, crush it with a pair of
 pliers and then clean its lead. Insert the lead
@@ -19946,7 +18902,6 @@ connections – 1.3 litre
 1
 
 ### Brushes
-`volkswagen_volkswagen_golf_2_en_e8fc8156` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:190
 
 2
 Brush holder
@@ -19972,7 +18927,6 @@ Starter/end cap joint
 5
 
 ### Through-bolts
-`volkswagen_volkswagen_golf_2_en_12163e9f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:190
 
 6
 Shaft cover joint and screws
@@ -19988,7 +18942,6 @@ models. Disc front brakes. Drum or disc rear brakes. Cable-operated
 handbrake on rear wheels.
 
 ### Front brakes
-`volkswagen_volkswagen_golf_2_en_93a0b842` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:191
 
 Disc thickness:
 New:
@@ -20000,7 +18953,6 @@ New:
 20.0 mm
 
 ### Minimum:
-`volkswagen_volkswagen_golf_2_en_d5f4b4d1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:191
 
 1.05 and 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 8.0 mm
@@ -20010,7 +18962,6 @@ New:
 18.0 mm
 
 ### Pad thickness:
-`volkswagen_volkswagen_golf_2_en_91cce6a0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:191
 
 New - excluding backplate:
 1.05 and 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -20021,7 +18972,6 @@ New - excluding backplate:
 10.0 mm
 
 ### Minimum - including backplate:
-`volkswagen_volkswagen_golf_2_en_66a902d9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:191
 
 All models  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 7.0 mm
@@ -20033,7 +18983,6 @@ Maximum  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 181.0 mm
 
 ### Drum maximum run-out:
-`volkswagen_volkswagen_golf_2_en_60fe1784` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:191
 
 Radial - at friction surface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.05 mm
@@ -20041,7 +18990,6 @@ Lateral - wheel contact surface  . . . . . . . . . . . . . . . . . . . . . . . .
 0.2 mm
 
 ### Lining thickness:
-`volkswagen_volkswagen_golf_2_en_28cc9990` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:191
 
 Minimum - including shoe  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 5.0 mm
@@ -20076,7 +19024,6 @@ Vacuum servo unit - testing . . . . . . . . . . . . . . . . . . . . . . . . . . 
 9•1
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_c51780fc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:191
 
 suitable for expert DIY
 or  professional
@@ -20097,7 +19044,6 @@ Disc maximum run-out  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 0.06 mm
 
 ### Pad thickness:
-`volkswagen_volkswagen_golf_2_en_cfaf7bdf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:192
 
 New - including backplate  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 12.0 mm
@@ -20108,7 +19054,6 @@ Diameter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 20.65 mm
 
 ### Wheel cylinder
-`volkswagen_volkswagen_golf_2_en_ff298571` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:192
 
 Diameter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 14.29 mm
@@ -20120,7 +19065,6 @@ Automatic transmission  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 228.0 mm
 
 ### Torque wrench settings
-`volkswagen_volkswagen_golf_2_en_d08ddf54` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:192
 
 Nm
 Ibf ft
@@ -20157,7 +19101,6 @@ Roadwheel bolt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1
 
 ### General information and
-`volkswagen_volkswagen_golf_2_en_511d6946` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:192
 
 precautions
 General information
@@ -20169,7 +19112,6 @@ circuit, one front and one rear brake remain
 operative.
 
 ### A load-sensitive pressure regulator is
-`volkswagen_volkswagen_golf_2_en_fe5d9a6c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:192
 
 incorporated in the rear hydraulic circuits on
 some models to prevent the rear wheels
@@ -20182,7 +19124,6 @@ under-body, in front of the left-hand rear
 wheel.
 
 ### A vacuum servo unit is located between the
-`volkswagen_volkswagen_golf_2_en_d7343566` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:192
 
 brake pedal and master cylinder. It provides
 assistance to the driver when the brake pedal
@@ -20202,7 +19143,6 @@ are harnessed to assist in depressing the
 master cylinder pistons.
 
 ### The handbrake operates on the rear wheels
-`volkswagen_volkswagen_golf_2_en_1e644df0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:192
 
 only, its lever incorporating a switch which
 illuminates a warning light on the instrument
@@ -20211,7 +19151,6 @@ same warning light is wired into the low
 hydraulic fluid switch circuit.
 
 ### Precautions
-`volkswagen_volkswagen_golf_2_en_128013f3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:192
 
 Hydraulic fluid is poisonous. Wash off
 immediately and thoroughly in the case of skin
@@ -20226,7 +19165,6 @@ precautions against the risk of fire as though it
 is petrol that is being handled.
 
 ### Hydraulic fluid is an effective paint stripper
-`volkswagen_volkswagen_golf_2_en_cd07f472` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:192
 
 and will attack plastics. If any is spilt, it should
 be washed off immediately using copious
@@ -20236,7 +19174,6 @@ the air. Old fluid may be contaminated and
 unfit for further use.
 
 ### When topping-up or renewing fluid, always
-`volkswagen_volkswagen_golf_2_en_3505d2a3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:192
 
 use the recommended type and ensure that it
 comes
@@ -20251,7 +19188,6 @@ air, or to inhale it, since it may contain
 asbestos which is injurious to health
 
 ### When servicing any part of the system,
-`volkswagen_volkswagen_golf_2_en_d9e38724` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:192
 
 work carefully and methodically. Observe
 scrupulous cleanliness when overhauling any
@@ -20260,7 +19196,6 @@ part of the system. Always renew components
 about their condition and use only genuine
 
 ### VW replacement parts, or at least those of
-`volkswagen_volkswagen_golf_2_en_294f1d78` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:192
 
 known good quality.
 2
@@ -20275,7 +19210,6 @@ may contain asbestos which is injurious to
 health.
 
 ### Warning: Always support the
-`volkswagen_volkswagen_golf_2_en_82af01b0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:192
 
 vehicle on axle stands before
 removing the roadwheel to
@@ -20292,7 +19226,6 @@ handbrake and remove both front wheels.
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4176a794` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:192
 
 3 Use an Allen key and unscrew the upper
 and lower caliper securing bolts (see
@@ -20318,7 +19251,6 @@ the original pads are to be re-used they must
 be refitted to their original positions each side.
 
 ### Fitting
-`volkswagen_volkswagen_golf_2_en_a5ea44c6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:193
 
 8 Using a piece of wood, push the piston
 back into the caliper. While doing this, check
@@ -20327,7 +19259,6 @@ necessary draw off some with a pipette or
 release some from the caliper bleed screw.
 
 ### Tighten the screw immediately afterwards.
-`volkswagen_volkswagen_golf_2_en_d3079090` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:193
 
 9 Relocate
 the
@@ -20348,7 +19279,6 @@ the bolts or the retainer springs may be
 distorted which, in turn, will give noisy braking.
 
 ### Tighten the bolts to the specified torque.
-`volkswagen_volkswagen_golf_2_en_d9d773e6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:193
 
 12 On completion, the brake pedal should be
 depressed firmly several times with the
@@ -20358,7 +19288,6 @@ fluid level in the reservoir and top-up if
 necessary.
 
 ### Rear pads
-`volkswagen_volkswagen_golf_2_en_0e2e4c5e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:193
 
 Inspection
 13 Refer to Chapter 1, Section 26.
@@ -20381,7 +19310,6 @@ on reassembly.
 pivot the caliper downwards (see illustration).
 
 ### Braking system 9•3
-`volkswagen_volkswagen_golf_2_en_3438101e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:193
 
 9
 2.3a  Caliper securing bolt removal
@@ -20398,7 +19326,6 @@ shown
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_a0986179` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:193
 
 If both bolts were removed, carefully lift off and
 support the caliper.
@@ -20413,7 +19340,6 @@ inhale it. Scrape any scale or rust from the
 disc and pad backing plates.
 
 ### Fitting
-`volkswagen_volkswagen_golf_2_en_bbcd59db` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:194
 
 20 Move the piston back into the caliper by
 turning it clockwise using either an Allen key
@@ -20440,7 +19366,6 @@ correct clearance is achieved.
 self-locking bolts when adjustment is correct.
 
 ### Tighten the bolts to the specified torque setting.
-`volkswagen_volkswagen_golf_2_en_03fc83f6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:194
 
 24 If new brake pads and/or discs have been
 fitted, it is necessary to carry out a basic rear
@@ -20458,7 +19383,6 @@ adjustment.
 3
 
 ### Brake calipers - removal,
-`volkswagen_volkswagen_golf_2_en_e295b643` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:194
 
 overhaul and refitting
 4
@@ -20470,7 +19394,6 @@ spray into the face or eyes when loosening
 a connection.
 
 ### Warning: Never refit old seals
-`volkswagen_volkswagen_golf_2_en_ddb4e5c6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:194
 
 when
 reassembling
@@ -20507,7 +19430,6 @@ piston, cylinder and frames for wear, damage
 and corrosion. If necessary, renew the caliper.
 
 ### If all components are in good condition then
-`volkswagen_volkswagen_golf_2_en_d51854e0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:194
 
 obtain a repair kit of seals.
 8 Dip the new sealing ring in brake fluid and
@@ -20531,7 +19453,6 @@ housing.
 2.20a  Retracting caliper piston using an
 
 ### Allen key
-`volkswagen_volkswagen_golf_2_en_cdd5b054` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:194
 
 2.20b  Retracting caliper piston using a
 pair of angled circlip pliers
@@ -20542,7 +19463,6 @@ clearance
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_590562e7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:194
 
 13 Tighten the brake hose union so that the
 hose is not twisted or in a position where it will
@@ -20552,7 +19472,6 @@ sheet from the reservoir. Top-up the brake
 fluid and bleed the brakes.
 
 ### Rear calipers
-`volkswagen_volkswagen_golf_2_en_ba6439ef` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:195
 
 15 Chock the front wheels, jack up the rear of
 the vehicle and support it on axle stands (see
@@ -20577,7 +19496,6 @@ during this operation.
 20 Secure the caliper in a soft-jawed vice.
 
 ### Using an Allen key or angled circlip pliers,
-`volkswagen_volkswagen_golf_2_en_a888eebc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:195
 
 unscrew the piston from the cylinder (see
 illustration).
@@ -20605,7 +19523,6 @@ groove in the cylinder bore using a suitable
 screwdriver (see illustration).
 
 ### Braking system 9•5
-`volkswagen_volkswagen_golf_2_en_b65b6d13` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:195
 
 9
 3.20  Removing the piston from the
@@ -20638,7 +19555,6 @@ vehicle.
 4
 
 ### Brake discs - examination,
-`volkswagen_volkswagen_golf_2_en_f35640f2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:196
 
 removal and refitting
 3
@@ -20668,7 +19584,6 @@ that the mating faces of the disc and hub are
 clean.
 
 ### Rear discs
-`volkswagen_volkswagen_golf_2_en_333f0c5c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:196
 
 8 Chock the front wheels, jack up the rear of
 the vehicle and support it on axle stands.
@@ -20688,7 +19603,6 @@ exceed the maximum amount specified.
 13 Unbolt and remove the rear brake carrier.
 
 ### Use a screwdriver and prise free the hub cap
-`volkswagen_volkswagen_golf_2_en_47339bdb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:196
 
 (see illustration).
 14 Straighten and extract the split pin, then
@@ -20703,7 +19617,6 @@ protective cap and into position in cylinder
 to refitting
 
 ### Arrows indicate brake bleed valve and brake
-`volkswagen_volkswagen_golf_2_en_1428cec5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:196
 
 hose connection point
 4.13  Prise free the hub cap . . .
@@ -20749,7 +19662,6 @@ torque setting.
 5
 
 ### Rear hub bearings - renewal 3
-`volkswagen_volkswagen_golf_2_en_d5be9b40` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:197
 
 1 Remove the rear brake disc.
 2 Remove the inner bearing from the disc by
@@ -20773,7 +19685,6 @@ suitable tube drift.
 6
 
 ### Rear brake shoes -
-`volkswagen_volkswagen_golf_2_en_1677362e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:197
 
 inspection and renewal
 3
@@ -20787,7 +19698,6 @@ and check with a torch that the linings are not
 worn below the minimum thickness specified.
 
 ### On completion, refit the plugs.
-`volkswagen_volkswagen_golf_2_en_290dd607` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:197
 
 Removal
 3 Remove the rear wheels.
@@ -20809,7 +19719,6 @@ the shoes from the drum.
 and backplate whilst taking care not inhale it.
 
 ### Scrape any scale or rust from the drum. Note
-`volkswagen_volkswagen_golf_2_en_34d48f2e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:197
 
 that the shoes should be renewed as a set of
 four.
@@ -20830,7 +19739,6 @@ return spring and withdraw the shoes (see
 illustration).
 
 ### Braking system 9•7
-`volkswagen_volkswagen_golf_2_en_503361e6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:197
 
 9
 4.15  . . . followed by the outer washer and
@@ -20843,7 +19751,6 @@ bearing
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_fb223109` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:197
 
 12 Grip the strut in a vice and release the
 shoe, then remove the wedge and spring. The
@@ -20857,7 +19764,6 @@ are no signs of fluid leakage and, if necessary,
 repair or renew the wheel cylinder.
 
 ### Fitting
-`volkswagen_volkswagen_golf_2_en_1a119f06` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:198
 
 13 Fit the new brake shoes using a reversal
 of the removal procedure. Note that the lug on
@@ -20892,7 +19798,6 @@ shoes in their correct position.
 7
 
 ### Rear brake cylinder -
-`volkswagen_volkswagen_golf_2_en_7690a84f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:198
 
 removal, overhaul and refitting 4
 Removal
@@ -20909,7 +19814,6 @@ pipe.
 wheel cylinder from the backplate.
 
 ### Overhaul
-`volkswagen_volkswagen_golf_2_en_211d03d4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:198
 
 5 Prise off the dust caps then remove the
 pistons, keeping them identified for location. If
@@ -20938,7 +19842,6 @@ in the grooves on the outside of the cylinder.
 11 Insert and tighten the bleed valve.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_6ec51b83` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:198
 
 12 Clean the mating faces then fit the wheel
 cylinder to the backplate and tighten the
@@ -20957,7 +19860,6 @@ and pushrod assembly
 1
 
 ### Boot
-`volkswagen_volkswagen_golf_2_en_b218bf60` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:198
 
 2
 Piston
@@ -20981,7 +19883,6 @@ the valves.
 8
 
 ### Rear brake drum -
-`volkswagen_volkswagen_golf_2_en_e8712308` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:199
 
 examination and renovation 2
 1 Whenever the brake drums are removed,
@@ -21004,7 +19905,6 @@ so that it is flush with the boss face.
 9
 
 ### Master cylinder - removal and
-`volkswagen_volkswagen_golf_2_en_30ddc1f4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:199
 
 refitting
 3
@@ -21030,7 +19930,6 @@ hydraulic fluid pipes from the master cylinder.
 the master cylinder from the servo unit.
 
 ### Remove the spacer and seal where applicable
-`volkswagen_volkswagen_golf_2_en_5d04617d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:199
 
 (see illustration).
 8 Remove the master cylinder from the
@@ -21042,7 +19941,6 @@ with paraffin and wipe dry.
 be overhauled and must be renewed as a unit.
 
 ### This being the case, remove the reservoir by
-`volkswagen_volkswagen_golf_2_en_b310899b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:199
 
 pulling it free from the rubber grommets, then
 prise free the grommets from the cylinder.
@@ -21052,7 +19950,6 @@ them into the cylinder, then press the
 reservoir into the grommets.
 
 ### Braking system 9•9
-`volkswagen_volkswagen_golf_2_en_c05ee0fc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:199
 
 9
 8.3  Prising out brake drum oil seal
@@ -21073,7 +19970,6 @@ illustration).
 2 Checking of the regulator is best left to a
 
 ### VW garage, as special pressure gauges and
-`volkswagen_volkswagen_golf_2_en_c4684d97` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:200
 
 spring tensioning tools are required.
 3 Adjustment is made by varying the spring
@@ -21094,7 +19990,6 @@ union nuts at each end and where necessary,
 remove the line from its retaining clips.
 
 ### Refitting is a reversal of removal.
-`volkswagen_volkswagen_golf_2_en_6c56b859` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:200
 
 2 To remove a flexible brake hose, unscrew
 the union nut securing the rigid brake pipe to
@@ -21109,7 +20004,6 @@ fitting a brake pipe or hose.
 12 Hydraulic system - bleeding 3
 
 ### Caution: Take great care not to spill brake
-`volkswagen_volkswagen_golf_2_en_ae88dd98` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:200
 
 fluid onto paintwork as it will act as a paint
 stripper. If spilled, wash it off at once with
@@ -21131,7 +20025,6 @@ the bleeding of the rear brakes.
 the system.
 
 ### Two-man method
-`volkswagen_volkswagen_golf_2_en_8d251a18` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:200
 
 4 Obtain a clean jar and length of tube which
 will fit the bleed valve tightly. The help of an
@@ -21156,7 +20049,6 @@ to the floor and then quickly remove his foot
 to allow the pedal to return unimpeded.
 
 ### Tighten the bleed valve at the end of each
-`volkswagen_volkswagen_golf_2_en_c0e2eaea` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:200
 
 downstroke to prevent expelled air and fluid
 being drawn back into the system.
@@ -21180,7 +20072,6 @@ opposite front brake.
 12 On completion, remove the bleed tube.
 
 ### Discard the fluid which has been bled from
-`volkswagen_volkswagen_golf_2_en_bc4fcac5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:200
 
 the system unless it is required for bleed jar
 purposes. Never use it for filling the system.
@@ -21207,7 +20098,6 @@ diagonally opposite brake whilst remembering
 to keep the master cylinder reservoir full.
 
 ### With pressure bleeding kits
-`volkswagen_volkswagen_golf_2_en_ee72e442` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:200
 
 16 These are available from motor accessory
 shops and are usually operated by air
@@ -21230,7 +20120,6 @@ connection
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4eb203f7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:200
 
 19 This method is particularly effective when
 bleeding “difficult” systems or when bleeding
@@ -21244,7 +20133,6 @@ recheck the fluid level in the master cylinder at
 regular intervals and top-up as necessary.
 
 ### Right-hand rear wheel
-`volkswagen_volkswagen_golf_2_en_950e4249` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:201
 
 Left-hand rear wheel
 Right-hand front wheel
@@ -21266,7 +20154,6 @@ and refitting
 3
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_ff03a55a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:201
 
 1 Position a chock each side of the front
 wheels. Pull the cover from the lever by
@@ -21283,7 +20170,6 @@ switch, disconnect the wiring and remove the
 switch.
 
 ### Braking system 9•11
-`volkswagen_volkswagen_golf_2_en_c46df6c4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:201
 
 9
 12.23  Fit bleed valve the protector cap
@@ -21317,7 +20203,6 @@ Screw
 17 Switch
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_aa95f34f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:201
 
 Refitting
 5 Refitting is a reversal of removal. Lubricate
@@ -21332,7 +20217,6 @@ rear of the vehicle and support it on axle
 stands (see “Jacking and vehicle support”).
 
 ### Release the handbrake.
-`volkswagen_volkswagen_golf_2_en_984e0468` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:202
 
 2 Remove the cover from the handbrake lever
 then undo the locknut and adjuster nut from
@@ -21351,7 +20235,6 @@ and then carefully withdraw it from under the
 vehicle (see illustration).
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_0332e0ab` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:202
 
 7 Refitting is a reversal of removal, but adjust
 the cable as follows before lowering the
@@ -21369,7 +20252,6 @@ handbrake lever then check that the
 roadwheel spins freely without binding.
 
 ### Tighten the locknut against the adjuster nut
-`volkswagen_volkswagen_golf_2_en_472dfb67` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:202
 
 then apply the handbrake and check that the
 wheel is locked. Repeat the procedure with
@@ -21394,7 +20276,6 @@ and refitting
 3
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_c3942127` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:202
 
 1 The brake and clutch pedals share a
 common bracket assembly and pivot shaft.
@@ -21409,7 +20290,6 @@ necessary, drive them out from each side and
 press in new bushes using a soft-jawed vice.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_5eb7afe6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:202
 
 6 Refitting is a reversal of removal, but
 lubricate the pivot shaft with a little
@@ -21433,7 +20313,6 @@ disconnect it from the hose then blow through
 the valve in the direction of the arrow marking.
 
 ### Air should pass through the valve. If air is blown
-`volkswagen_volkswagen_golf_2_en_8c424f43` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:202
 
 in the reverse direction, it should not pass
 through the valve. Renew the valve if defective.
@@ -21455,7 +20334,6 @@ the servo unit from the bulkhead into the
 engine compartment.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_a11e80a5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:202
 
 6 Refitting is a reversal of removal. Lubricate
 the clevis pin with a little molybdenum
@@ -21468,7 +20346,6 @@ are self-locking and should always be renewed.
 brakes
 
 ### Lever on caliper (arrowed) should be just clear
-`volkswagen_volkswagen_golf_2_en_c72a5688` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:202
 
 of stop
 1081 VW Golf & Jetta
@@ -21531,7 +20408,6 @@ Radiator grille - removal and refitting  . . . . . . . . . . . . . . . . . . . .
 Rear seat - removal and refitting  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
 
 ### Seat beltsrenewal . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-`volkswagen_volkswagen_golf_2_en_5c510f0b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:203
 
 Seat beltsrenewal  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
 Sunroof - removal, refitting and adjustment  . . . . . . . . . . . . . . . . . . . 28
@@ -21547,7 +20423,6 @@ Windows - removal and refitting  . . . . . . . . . . . . . . . . . . . . . . . .
 11•1
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_948a68ff` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:203
 
 suitable for expert DIY
 or  professional
@@ -21569,7 +20444,6 @@ corrugated box sections in the scuttle and
 firewall.
 
 ### The Golf is available in two or four-door
-`volkswagen_volkswagen_golf_2_en_85d9e36f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:203
 
 hatchback versions, all models having a large
 tailgate which is propped open with a steel
@@ -21579,7 +20453,6 @@ notchback, incorporating a conventional boot
 and lid.
 
 ### On all models, the front wings are bolted to
-`volkswagen_volkswagen_golf_2_en_54614157` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:203
 
 the body and can easily be renewed in the
 event of damage.
@@ -21599,7 +20472,6 @@ the underbody, inside all the wheel arches and
 the lower part of the engine compartment.
 
 ### The basic maintenance routine for the
-`volkswagen_volkswagen_golf_2_en_df117892` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:203
 
 bodywork is washing - preferably with a lot of
 water, from a hose. This will remove all the
@@ -21614,7 +20486,6 @@ winter when it is essential that any salt (from
 that put down on the roads) is washed off.
 
 ### Oddly enough, the best time to clean the
-`volkswagen_volkswagen_golf_2_en_ba74ed43` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:203
 
 underbody and wheel arches is in wet
 weather when the mud is thoroughly wet and
@@ -21624,7 +20495,6 @@ accumulations; this is therefore a good time
 for inspection.
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_75615cac` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:203
 
 If the vehicle is very dirty, especially
 underneath or in the engine compartment, it is
@@ -21661,7 +20531,6 @@ such equipment is used and, in general, regular
 cleaning by such methods should be avoided.
 
 ### A much better solution in the long term is
-`volkswagen_volkswagen_golf_2_en_78beb953` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:204
 
 just to flush away as much loose dirt as
 possible using a hose alone, even if this leaves
@@ -21675,7 +20544,6 @@ replace the wax-based protective coat, if this
 was affected by the solvent.
 
 ### Normal washing of the bodywork is best
-`volkswagen_volkswagen_golf_2_en_3173009c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:204
 
 carried out using cold or warm water with a
 proprietary car shampoo. Remove dead
@@ -21689,7 +20557,6 @@ air inlet box drain tube is clear so that any
 water has drained out of the box.
 
 ### After washing the paintwork, wipe off with a
-`volkswagen_volkswagen_golf_2_en_a4459a92` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:204
 
 chamois leather to give an unspotted clear
 finish. A coat of clear protective wax polish,
@@ -21705,7 +20572,6 @@ non-abrasive cleaner/polisher is required to
 avoid damage to the finish.
 
 ### Brightwork should be treated in the same
-`volkswagen_volkswagen_golf_2_en_aadd7e7e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:204
 
 way as paintwork.
 Windscreens and windows can be kept
@@ -21716,7 +20582,6 @@ polish on glass.
 Vehicle interior
 
 ### Mats and carpets should be brushed or
-`volkswagen_volkswagen_golf_2_en_bdc3deec` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:204
 
 vacuum cleaned regularly to keep them free of
 grit. If they are badly stained remove them
@@ -21731,7 +20596,6 @@ soaps, detergents or chemical cleaners. If the
 leather is very stained, seek the advice of a
 
 ### VW dealer. Fabric-trimmed seats and interior
-`volkswagen_volkswagen_golf_2_en_614dc10c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:204
 
 trim panels can be kept clean by wiping with a
 damp cloth and a proprietary cleaner. If they
@@ -21744,7 +20608,6 @@ clean in the same way as the (fabric)
 upholstery.
 
 ### When using liquid cleaners of any sort
-`volkswagen_volkswagen_golf_2_en_ac555a41` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:204
 
 inside the vehicle, do not over-wet the
 surfaces being cleaned. Excessive damp
@@ -21758,7 +20621,6 @@ inside the vehicle for this purpose.
 3
 
 ### Minor body damage - repair 2
-`volkswagen_volkswagen_golf_2_en_7855559d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:204
 
 Repair of minor scratches in
 bodywork
@@ -21772,7 +20634,6 @@ bodywork of wax polish. Rinse the area with
 clean water.
 
 ### Apply touch-up paint or a paint film, to the
-`volkswagen_volkswagen_golf_2_en_98d4bc32` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:204
 
 scratch using a fine paint brush. Continue to
 apply fine layers of paint until the surface of
@@ -21785,7 +20646,6 @@ very fine cutting paste. Finally apply wax
 polish.
 
 ### Where the scratch has penetrated right
-`volkswagen_volkswagen_golf_2_en_62df10aa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:204
 
 through to the metal of the bodywork, causing
 the metal to rust, a different repair technique
@@ -21808,7 +20668,6 @@ scratch can now be painted over as described
 earlier in this Section.
 
 ### Repair of dents in bodywork
-`volkswagen_volkswagen_golf_2_en_3fbe82dd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:204
 
 When deep denting of the vehicle’s
 bodywork has taken place, the first task is to
@@ -21833,7 +20692,6 @@ large area of the bodywork from being
 “belled-out”.
 
 ### Should the dent be in a section of the
-`volkswagen_volkswagen_golf_2_en_9cf188d2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:204
 
 bodywork which has a double skin or some
 other factor making it inaccessible from
@@ -21842,7 +20700,6 @@ several small holes through the metal inside
 the area - particularly in the deeper section.
 
 ### Then screw long self-tapping screws into the
-`volkswagen_volkswagen_golf_2_en_af8abca8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:204
 
 holes just sufficiently for them to gain a good
 purchase in the metal. Now the dent can be
@@ -21863,7 +20720,6 @@ area. This will provide a really good key for the
 filler paste. To complete the repair see the
 
 ### Section on filling and respraying.
-`volkswagen_volkswagen_golf_2_en_cf47bb26` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:204
 
 11•2 Bodywork and fittings
 1081 VW Golf & Jetta
@@ -21886,7 +20742,6 @@ to fit a new panel than to attempt to repair
 large areas of corrosion.
 
 ### Remove all fittings from the affected area
-`volkswagen_volkswagen_golf_2_en_7b19390e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:205
 
 except those which will act as a guide to the
 original shape of the damaged bodywork (eg
@@ -21895,7 +20750,6 @@ a hacksaw blade, remove all loose metal and
 any other metal badly affected by corrosion.
 
 ### Hammer the edges of the hole inwards in
-`volkswagen_volkswagen_golf_2_en_557c517f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:205
 
 order to create a slight depression for the filler
 paste.
@@ -21906,7 +20760,6 @@ rust inhibiting paint, if the back of the rusted
 area is accessible treat this also.
 
 ### Before filling can take place it will be
-`volkswagen_volkswagen_golf_2_en_07ae87cb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:205
 
 necessary to block the hole in some way. This
 can be achieved by the use of aluminium or
@@ -21921,7 +20774,6 @@ can be retained in position by several blobs of
 filler paste around its periphery.
 
 ### Aluminium tape should be used for small or
-`volkswagen_volkswagen_golf_2_en_b401a7dc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:205
 
 very narrow holes. Pull a piece off the roll and
 trim it to the approximate size and shape
@@ -21934,7 +20786,6 @@ similar, to ensure that the tape is securely
 attached to the metal underneath.
 
 ### Bodywork repairs - filling and
-`volkswagen_volkswagen_golf_2_en_8ec1eb5d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:205
 
 respraying
 Before using this Section, see the Sections
@@ -21951,7 +20802,6 @@ imparting a smooth and well contoured finish
 to the surface of the filler.
 
 ### Mix up a little filler on a clean piece of card
-`volkswagen_volkswagen_golf_2_en_80a888d7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:205
 
 or board - measure the hardener carefully
 (follow the maker’s instructions on the pack)
@@ -21969,7 +20819,6 @@ carry on too long the paste will become sticky
 and begin to pick-up on the applicator.
 
 ### Continue to add thin layers of filler paste at
-`volkswagen_volkswagen_golf_2_en_f0ed4da1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:205
 
 twenty minute intervals until the level of the
 filler is just proud of the surrounding
@@ -21987,7 +20836,6 @@ smoothing of the filler surface the wet-and-dry
 paper should be periodically rinsed in water.
 
 ### This will ensure that a very smooth finish is
-`volkswagen_volkswagen_golf_2_en_293b6f44` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:205
 
 imparted to the filler at the final stage.
 At this stage, the dent should be
@@ -22003,7 +20851,6 @@ rubbing-down
 operation has gone.
 
 ### Spray the whole area with a light coat of
-`volkswagen_volkswagen_golf_2_en_d7069c0c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:205
 
 primer, - this will show up any imperfections in
 the surface of the filler. Repair these
@@ -22019,7 +20866,6 @@ of the paintwork are perfect. Clean the repair
 area with clean water and allow to dry fully.
 
 ### The repair area is now ready for final
-`volkswagen_volkswagen_golf_2_en_e8a151c5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:205
 
 spraying. Paint spraying must be carried out
 in a warm, dry, windless and dust free
@@ -22040,7 +20886,6 @@ masking tape and several thicknesses of
 newspaper for the masking operations.
 
 ### Before commencing to spray, agitate the
-`volkswagen_volkswagen_golf_2_en_58e6f885` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:205
 
 aerosol can thoroughly, then spray a test area
 (an old tin, or similar) until the technique is
@@ -22055,7 +20900,6 @@ rinsed in water. Allow to dry before spraying
 on more paint.
 
 ### Spray on the top coat, again building up the
-`volkswagen_volkswagen_golf_2_en_9734e617` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:205
 
 thickness by using several thin layers of paint.
 Start spraying in the centre of the repair area
@@ -22067,7 +20911,6 @@ material 10 to 15 minutes after spraying on
 the final coat of paint.
 
 ### Allow the new paint at least two weeks to
-`volkswagen_volkswagen_golf_2_en_d916628f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:205
 
 harden, then, using a paintwork renovator, or
 a very fine cutting paste, blend the edges of
@@ -22089,7 +20932,6 @@ complete
 components. Repair of such damage by the
 
 ### DIY owner is not really feasible owing to the
-`volkswagen_volkswagen_golf_2_en_5aebcb54` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:205
 
 cost of the equipment and materials required
 for effecting such repairs. The basic technique
@@ -22100,7 +20942,6 @@ back together by using a hot air gun to heat
 up and fuse a plastic filler rod into the groove.
 
 ### Any excess plastic is then removed and the
-`volkswagen_volkswagen_golf_2_en_92e5506c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:205
 
 area rubbed down to a smooth finish. It is
 important that a filler rod of the correct plastic
@@ -22109,7 +20950,6 @@ a variety of different types (eg polycarbonate,
 ABS, polypropylene).
 
 ### Damage of a less serious nature (abrasions,
-`volkswagen_volkswagen_golf_2_en_0836c9e8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:205
 
 minor cracks etc) can be repaired by the DIY
 owner using a two-part epoxy filler repair
@@ -22122,7 +20962,6 @@ panels. The filler is usually cured in twenty to
 thirty minutes, ready for sanding and painting.
 
 ### If the owner is renewing a complete
-`volkswagen_volkswagen_golf_2_en_5f1860c4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:205
 
 component himself, or if he has repaired it
 with epoxy filler, he will be left with the
@@ -22133,7 +20972,6 @@ Bodywork and fittings  11•3
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_8fbb8eb6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:205
 
 used. At one time the use of a universal paint
 was not possible owing to the complex range
@@ -22159,7 +20997,6 @@ paint does not normally possess.
 4
 
 ### Major body damage - repair 5
-`volkswagen_volkswagen_golf_2_en_38b8e04f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:206
 
 Where serious damage has occurred, or
 large areas need renewal due to neglect, it
@@ -22179,7 +21016,6 @@ as the tyres.
 5
 
 ### Door rattles - tracing and
-`volkswagen_volkswagen_golf_2_en_c4e0b1da` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:206
 
 rectification
 1
@@ -22198,7 +21034,6 @@ operating or interior lock mechanisms.
 6
 
 ### Bonnet - removal, refitting
-`volkswagen_volkswagen_golf_2_en_e6314268` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:206
 
 and adjustment
 2
@@ -22229,7 +21064,6 @@ satisfactory manner.
 7
 
 ### Bonnet lock and release
-`volkswagen_volkswagen_golf_2_en_c784d5d9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:206
 
 cable - removal and refitting 2
 Bonnet lock
@@ -22244,7 +21078,6 @@ procedure. Ensure that the new pop-rivets
 secure the lock firmly.
 
 ### Release cable
-`volkswagen_volkswagen_golf_2_en_cde473cf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:206
 
 3 To remove the bonnet lock release cable,
 raise and support the bonnet then remove the
@@ -22275,7 +21108,6 @@ attachment
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4e7e4953` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:206
 
 hand. A largish screwdriver will just reach the
 lock release when inserted through the grille
@@ -22285,7 +21117,6 @@ bonnet can be unlocked.
 8
 
 ### Radiator grille - removal and
-`volkswagen_volkswagen_golf_2_en_54da44c8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:207
 
 refitting
 1
@@ -22300,7 +21131,6 @@ upwards from the front valance.
 9
 
 ### Tailgate support strut -
-`volkswagen_volkswagen_golf_2_en_bac3bb2e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:207
 
 removal and refitting
 1
@@ -22318,7 +21148,6 @@ refitting
 2
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_9c257632` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:207
 
 1 Open and support the tailgate. Disconnect
 the straps supporting the rear shelf.
@@ -22327,7 +21156,6 @@ screwdriver and disconnect the wiring from
 the heated rear window and wiper motor.
 
 ### Disconnect the washer tube and pull the
-`volkswagen_volkswagen_golf_2_en_9c516287` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:207
 
 wiring and tube from the tailgate.
 3 Pull the weatherseal from the body aperture
@@ -22341,7 +21169,6 @@ from the tailgate.
 tailgate from the vehicle.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_2e53d693` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:207
 
 7 Refitting is a reversal of removal. Before
 tightening the hinge bolts, ensure that the
@@ -22362,7 +21189,6 @@ cylinder, undo the cross-head screws on the
 outside. Move to the inside and compress the
 
 ### Bodywork and fittings 11•5
-`volkswagen_volkswagen_golf_2_en_2aa078ab` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:207
 
 11
 8.2  Undoing front grille retaining screws
@@ -22402,7 +21228,6 @@ refitting
 1
 
 ### The boot lid lock and lock cylinder are of
-`volkswagen_volkswagen_golf_2_en_0449f124` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:208
 
 similar design to the equivalent items on the
 tailgate fitted to Golf models (see illustration).
@@ -22414,7 +21239,6 @@ details.
 clip (A) and securing ring (B)
 
 ### Compress lugs (arrowed) in direction
-`volkswagen_volkswagen_golf_2_en_6f1f2a13` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:208
 
 indicated
 13.1  Boot lid lock components (Jetta)
@@ -22426,7 +21250,6 @@ and refitting
 2
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_e9db2c21` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:209
 
 1 Unscrew and remove the door locking knob
 (see illustration).
@@ -22460,7 +21283,6 @@ access to the inner door components (see
 illustration).
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_5c1d26cf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:209
 
 11 Refitting is a reversal of removal. It is
 recommended that the window regulator
@@ -22486,7 +21308,6 @@ screws
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_621b2b31` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:209
 
 11•8 Bodywork and fittings
 1081 VW Golf & Jetta
@@ -22508,7 +21329,6 @@ Seal
 6
 
 ### Internal remote control
-`volkswagen_volkswagen_golf_2_en_0fb7caf4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:210
 
 7
 Pull rod
@@ -22531,7 +21351,6 @@ illustration).
 4 Refitting is a reversal of removal.
 
 ### Exterior
-`volkswagen_volkswagen_golf_2_en_56f8d942` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:211
 
 5 Remove the door trim panel.
 6 Using a small screwdriver, lever the plastic
@@ -22545,7 +21364,6 @@ gaskets if necessary.
 16 Door - removal and refitting 2
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_7e327fa5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:211
 
 1 Open the door and use a punch to drive the
 pivot pin up from the check strap (see
@@ -22557,7 +21375,6 @@ hinge bolt. Withdraw the door from the
 vehicle.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_de463a3d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:211
 
 4 Refitting is a reversal of removal.
 5 If necessary, adjust the position of the door
@@ -22594,7 +21411,6 @@ refitting
 2
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_61343218` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:211
 
 1 It is not necessary to remove the trim panel
 to carry out this task.
@@ -22614,7 +21430,6 @@ operating lever and pull the upper lever from
 the sleeve. Withdraw the lock from the door.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_1b7c75b7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:211
 
 6 Refitting is a reversal of removal. Set the
 lock in the locked position first and ensure
@@ -22633,7 +21448,6 @@ lock hole (E) to retain operating lever (A) in
 extended position
 
 ### Remove handle in direction of arrow
-`volkswagen_volkswagen_golf_2_en_f14e7c57` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:211
 
 1081 VW Golf & Jetta
 Downloaded from www.Manualslib.com manuals search engine
@@ -22667,7 +21481,6 @@ screws and disconnect the tubing. On the
 driver’s door only, disconnect the wiring.
 
 ### Disconnect the operating rod (except on the
-`volkswagen_volkswagen_golf_2_en_4acccff3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:212
 
 fuel tank flap) and withdraw the element.
 4 Refitting is a reversal of removal. Ensure
@@ -22678,7 +21491,6 @@ and refitting
 3
 
 ### Manual
-`volkswagen_volkswagen_golf_2_en_d9f5d566` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:212
 
 1 Remove the door trim panel.
 2 Temporarily refit the window regulator
@@ -22702,7 +21514,6 @@ position of the regulator so that the window
 moves smoothly.
 
 ### Electric
-`volkswagen_volkswagen_golf_2_en_c4f8f00d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:212
 
 6 Disconnect the battery earth lead.
 7 Remove the door trim panel.
@@ -22719,7 +21530,6 @@ aperture at the bottom end of the door.
 12 Refit in the reverse order of removal.
 
 ### Ensure that the upper cable is located
-`volkswagen_volkswagen_golf_2_en_d26bf631` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:212
 
 underneath the guide rail securing bracket
 and, when refitting the door trim panel, the
@@ -22732,7 +21542,6 @@ bolts
 1
 
 ### Wiring connector
-`volkswagen_volkswagen_golf_2_en_2e06fa45` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:212
 
 2
 Motor securing
@@ -22752,7 +21561,6 @@ RHD)
 3
 
 ### Connector
-`volkswagen_volkswagen_golf_2_en_cde0e200` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:212
 
 4
 Rear door shift element
@@ -22773,7 +21581,6 @@ Connector
 (or shift element on RHD)
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_280848fb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:212
 
 21 Windows - removal and
 refitting
@@ -22794,7 +21601,6 @@ channel is located in the same position as in
 the old glass.
 
 ### Windscreen and fixed glass
-`volkswagen_volkswagen_golf_2_en_4e03a3f7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:213
 
 7 Removal and refitting of the windscreen
 and fixed glass windows is best left to a VW
@@ -22806,7 +21612,6 @@ refitting
 2
 
 ### Warning: Under no circum-
-`volkswagen_volkswagen_golf_2_en_d1aaf671` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:213
 
 stances should the vehicle be
 driven with the front bumper
@@ -22836,7 +21641,6 @@ the indicators operate in a satisfactory
 manner on completion.
 
 ### Rear
-`volkswagen_volkswagen_golf_2_en_c24de933` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:213
 
 6 Raise and support the vehicle securely at
 the rear.
@@ -22870,7 +21674,6 @@ and refitting
 2
 
 ### Pre 1988
-`volkswagen_volkswagen_golf_2_en_6fbbb12b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:213
 
 Non remote control
 1 Prise the plastic cover from inside the door.
@@ -22892,7 +21695,6 @@ adjusting knob and gasket.
 necessary, fit a new gasket.
 
 ### Bodywork and fittings 11•11
-`volkswagen_volkswagen_golf_2_en_e909cc1c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:213
 
 11
 22.4  Front bumper bracket securing points to longitudinal
@@ -22942,7 +21744,6 @@ screws (arrowed)
 1
 
 ### Body
-`volkswagen_volkswagen_golf_2_en_b2468d33` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:214
 
 2
 Trim
@@ -22994,7 +21795,6 @@ removal and refitting
 3
 
 ### Tailgate spoiler and foils - GTi
-`volkswagen_volkswagen_golf_2_en_90192fc0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:215
 
 1 The spoiler is secured by a nut, grommet
 and spacer sleeve. Access to the retaining
@@ -23012,7 +21812,6 @@ which the foil is to be fitted is thoroughly
 cleaned and prepared.
 
 ### Rear spoiler - Jetta GT
-`volkswagen_volkswagen_golf_2_en_87608822` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:215
 
 4 Open the boot lid and unscrew the nuts
 which secure the spoiler retaining clips.
@@ -23027,7 +21826,6 @@ prepared. Start riveting at the centre and work
 alternately down from it (side to side).
 
 ### Protective rubbing strips
-`volkswagen_volkswagen_golf_2_en_c3ee60da` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:215
 
 Adhered type
 8 To remove a rubbing strip, you will need to
@@ -23039,7 +21837,6 @@ Bodywork and fittings  11•13
 1
 
 ### Protective cap
-`volkswagen_volkswagen_golf_2_en_59a951f9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:215
 
 2
 Nut
@@ -23062,7 +21859,6 @@ locate it into position by pressing firmly home,
 particularly at each end.
 
 ### Clipped type
-`volkswagen_volkswagen_golf_2_en_8bacea40` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:216
 
 11 The side rubbing strips may be removed
 using a lever to prise them from their fixing
@@ -23077,7 +21873,6 @@ and adjustment
 2
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_b450af18` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:216
 
 1 Half open the sunroof then prise off the five
 steel trim clips.
@@ -23096,7 +21891,6 @@ support plates.
 1
 
 ### Rubbing strip
-`volkswagen_volkswagen_golf_2_en_edfc0670` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:216
 
 2
 Retainer
@@ -23114,7 +21908,6 @@ Deflector arm
 4
 
 ### Wind deflector
-`volkswagen_volkswagen_golf_2_en_dfb817f5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:216
 
 5
 Rear guide with
@@ -23142,7 +21935,6 @@ hose
 18 Panel seat
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_edbf34d3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:216
 
 Refitting
 7 To refit the sunroof, locate it in the aperture
@@ -23164,7 +21956,6 @@ springs, loosen the slotted screws and move
 the sunroof as necessary in the serrations.
 
 ### Tighten the screws and refit the leaf springs
-`volkswagen_volkswagen_golf_2_en_ed7a3bc4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:217
 
 after making the adjustment.
 12 Refit the trim with the clips.
@@ -23178,7 +21969,6 @@ then unclip and withdraw the gaiter.
 console from its guides at the rear.
 
 ### Disconnect
-`volkswagen_volkswagen_golf_2_en_786f0739` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:217
 
 any
 console
@@ -23193,7 +21983,6 @@ refitting
 3
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_2279e71c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:217
 
 1 Remove the steering wheel.
 2 On certain models, a protective knee-bar is
@@ -23209,7 +21998,6 @@ the undertray on the driver and passenger
 sides (see illustrations).
 
 ### Bodywork and fittings 11•15
-`volkswagen_volkswagen_golf_2_en_85f39feb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:217
 
 11
 28.9  Sunroof adjustment dimensions
@@ -23225,7 +22013,6 @@ screw locations – driver’s side
 30.2  Knee-bar attachments
 
 ### A Knee-bar
-`volkswagen_volkswagen_golf_2_en_3b4cd8ef` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:217
 
 B   Retaining bracket
 1   Screw
@@ -23245,7 +22032,6 @@ the air vent housing and lever out the housing.
 from the points indicated (see illustration).
 
 ### To remove the nuts/bolts at the front, access
-`volkswagen_volkswagen_golf_2_en_f7814f37` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:218
 
 is from the plenum chamber in the engine
 compartment.
@@ -23256,7 +22042,6 @@ Refitting
 10 Refit in the reverse order of removal.
 
 ### When fitting the securing nuts in the plenum
-`volkswagen_volkswagen_golf_2_en_3ea8ed84` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:218
 
 chamber use the correct type of sealing
 washers.
@@ -23300,7 +22085,6 @@ from 1986
 pre 1986
 
 ### Unclip cover and remove in direction arrowed
-`volkswagen_volkswagen_golf_2_en_33dfba75` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:218
 
 31.3  Front seat securing rod and
 associated components - pre 1986
@@ -23312,7 +22096,6 @@ Ensure correct location of sealing washer
 (A) when refitting
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_514006a9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:218
 
 8 Remove the cross-head screw (3) and pull
 the cap (4) from the seat guide (see
@@ -23349,7 +22132,6 @@ adjustment of the B pillar attachment point
 (see illustration).
 
 ### Bodywork and fittings 11•17
-`volkswagen_volkswagen_golf_2_en_d6a415b7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:219
 
 11
 31.8  Front seat guide fixing – from 1986
@@ -23361,7 +22143,6 @@ removal (arrowed)
 locations in luggage compartment – A and
 
 ### B (Jetta and Golf convertible)
-`volkswagen_volkswagen_golf_2_en_cba536b7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:219
 
 33.1d  Front seat belt anchorage to B pillar
 (upper)
@@ -23377,7 +22158,6 @@ hooked onto link pin
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_52b4a746` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:219
 
 3 These adjustable seat belts can be fitted to
 any model having a chassis number later than
@@ -23390,7 +22170,6 @@ renewal
 2
 
 ### This filter is fitted (or can be fitted) to all
-`volkswagen_volkswagen_golf_2_en_b6faa59f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:220
 
 models covered by this Manual.
 The filter is located in the air inlet within the
@@ -23404,7 +22183,6 @@ anti-leaf mesh and the water deflector.
 1
 
 ### Filter
-`volkswagen_volkswagen_golf_2_en_8114a0d2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:220
 
 2
 Filter housing
@@ -23426,7 +22204,6 @@ Downloaded from www.Manualslib.com manuals search engine
 10
 
 ### Chapter 10
-`volkswagen_volkswagen_golf_2_en_65de7795` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:221
 
 Suspension and steering
 Front suspension
@@ -23435,14 +22212,12 @@ Independent with spring struts, lower track control arms and anti-roll
 bar (some models). Telescopic shock absorbers incorporated in struts
 
 ### Rear suspension
-`volkswagen_volkswagen_golf_2_en_d9e40a86` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:221
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Semi-independent. Incorporating torsion axle beam, trailing arms and
 spring struts/shock absorbers. Anti-roll bar on some models
 
 ### Steering
-`volkswagen_volkswagen_golf_2_en_be68525f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:221
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Rack and pinion with safety column. Power steering optional on Golf
@@ -23452,7 +22227,6 @@ Turning circle  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Steering roll radius  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Negative 8.2 mm
-`volkswagen_volkswagen_golf_2_en_ee5399d2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:221
 
 Steering wheel turns lock to lock:
 Standard  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -23461,7 +22235,6 @@ Power-assisted  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 3.17
 
 ### Steering ratio:
-`volkswagen_volkswagen_golf_2_en_6e74eef0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:221
 
 Standard  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 20.8
@@ -23469,7 +22242,6 @@ Power-assisted  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 17.5
 
 ### Front wheel alignment
-`volkswagen_volkswagen_golf_2_en_01968b5a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:221
 
 Total toe  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0° ± 10’
@@ -23482,7 +22254,6 @@ Maximum difference - side-to-side  . . . . . . . . . . . . . . . . . . . . . . .
 30’
 
 ### Castor:
-`volkswagen_volkswagen_golf_2_en_a74331d5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:221
 
 Golf GTI and Jetta GT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1°35’ ± 30’
@@ -23493,7 +22264,6 @@ Maximum difference - side to side  . . . . . . . . . . . . . . . . . . . . . . .
 Note: Camber and castor settings may differ on some variants - check with VW dealer
 
 ### Rear wheel alignment
-`volkswagen_volkswagen_golf_2_en_08934d62` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:221
 
 Total toe  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 25’ ± 15’
@@ -23535,7 +22305,6 @@ Wheel alignment - checking and adjustment  . . . . . . . . . . . . . . . . . . 2
 10•1
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_f2ff68ca` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:221
 
 suitable for expert DIY
 or  professional
@@ -23557,7 +22326,6 @@ Jetta  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 51⁄2J x 13
 
 ### Tyres
-`volkswagen_volkswagen_golf_2_en_fedafdf5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:222
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Radial ply
@@ -23565,14 +22333,12 @@ Size:
 Golf base, C, GL and C Formel E  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 155 SR 13
-`volkswagen_volkswagen_golf_2_en_ada369cf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:222
 
 Golf GL  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 175/70 SR 13
 Golf GTI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 185/60 HR 14
-`volkswagen_volkswagen_golf_2_en_4ae0ebc4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:222
 
 Jetta  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 175/70 SR 13
@@ -23585,7 +22351,6 @@ Strut to body . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 44
 
 ### Strut to wheel bearing housing:
-`volkswagen_volkswagen_golf_2_en_3cfeb6d3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:222
 
 19 mm nut . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 80
@@ -23595,7 +22360,6 @@ Strut to body . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 70
 
 ### Lower track control arm:
-`volkswagen_volkswagen_golf_2_en_01fedbe1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:222
 
 Pivot bolt to subframe  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 130
@@ -23620,7 +22384,6 @@ Hub nut . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 195
 
 ### Rear suspension
-`volkswagen_volkswagen_golf_2_en_c2cab348` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:222
 
 Mounting bracket shouldered bolt:
 Pre 1988  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -23649,7 +22412,6 @@ Shock absorber spacer retaining nut  . . . . . . . . . . . . . . . . . . . . . .
 11
 
 ### Steering
-`volkswagen_volkswagen_golf_2_en_7cb39f1c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:222
 
 Steering wheel  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
 40
@@ -23693,7 +22455,6 @@ Roadwheels  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1
 
 ### General information
-`volkswagen_volkswagen_golf_2_en_d0ffce2e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:222
 
 The front suspension is of independent
 type, incorporating coil struts and lower track
@@ -23702,7 +22463,6 @@ with telescopic shock absorbers and both
 suspension units are mounted on a subframe.
 
 ### An anti-roll bar is fitted to the track control
-`volkswagen_volkswagen_golf_2_en_4f67523b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:222
 
 arm on some models (see illustration).
 The
@@ -23718,7 +22478,6 @@ incorporate mountings for the coil springs
 (see illustration).
 
 ### The steering is of rack and pinion type
-`volkswagen_volkswagen_golf_2_en_53c636b3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:222
 
 mounted on the front subframe. The tie-rods
 are attached to a single coupling which is
@@ -23728,7 +22487,6 @@ assistance is fitted to some models.
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_b22c86e6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:222
 
 Suspension and steering  10•3
 10
@@ -23741,7 +22499,6 @@ Front suspension strut -
 removal, overhaul and refitting 3
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_cd9054ca` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:224
 
 1 Apply the handbrake then jack up and
 support the front of the vehicle on axle stands
@@ -23768,7 +22525,6 @@ bolts securing the strut at its bottom end to
 the wheel bearing housing (see illustration).
 
 ### Renew the self-locking nuts and washers.
-`volkswagen_volkswagen_golf_2_en_8967cb0c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:224
 
 8 Lower the track control arm to disengage
 the strut from its top mounting, then prise it
@@ -23787,7 +22543,6 @@ spring retainer is free of tension, then remove
 the slotted nut from the top of the piston rod.
 
 ### To do this, a special tool is available (see
-`volkswagen_volkswagen_golf_2_en_713aeb8f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:224
 
 illustration). However, it is possible to hold
 the piston rod stationary with an Allen key or
@@ -23806,7 +22561,6 @@ and down through its complete stroke and
 check that the resistance is even and smooth.
 
 ### If there are signs of seizing or lack of
-`volkswagen_volkswagen_golf_2_en_5d77b7c2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:224
 
 resistance, or if fluid has been leaking
 excessively, the shock absorber/strut unit
@@ -23824,7 +22578,6 @@ code.
 17 Reassembly is a reversal of removal.
 
 ### Tighten the slotted nut to the specified torque
-`volkswagen_volkswagen_golf_2_en_840d4b42` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:224
 
 before releasing the spring compressor.
 Refitting
@@ -23842,7 +22595,6 @@ retaining nuts/bolts
 nut from front suspension
 
 ### Peg spanner and Allen key or suitable
-`volkswagen_volkswagen_golf_2_en_4002ce0b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:224
 
 spanner will suffice
 1081 VW Golf & Jetta
@@ -23863,7 +22615,6 @@ it, otherwise the camber adjustment will have
 to be reset.
 
 ### Later models
-`volkswagen_volkswagen_golf_2_en_26ccd003` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:225
 
 2 On later models no adjustment is possible
 as assembly tolerances have been reduced
@@ -23890,7 +22641,6 @@ diameter of the original bolts.
 4
 
 ### Front anti-roll bar - removal
-`volkswagen_volkswagen_golf_2_en_ccebad3f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:225
 
 and refitting
 3
@@ -23912,7 +22662,6 @@ other side.
 them from the anti-roll bar (see illustration).
 
 ### Note the location and orientation of the eye
-`volkswagen_volkswagen_golf_2_en_9a2758da` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:225
 
 bolt bushes and washers. Remove the
 anti-roll bar.
@@ -23931,7 +22680,6 @@ mountings.
 5
 
 ### Front wheel bearing housing
-`volkswagen_volkswagen_golf_2_en_117872e1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:225
 
 - removal and refitting
 3
@@ -23953,7 +22701,6 @@ bearing housing location lugs, to ensure
 accurate positioning when refitting.
 
 ### Suspension and steering 10•5
-`volkswagen_volkswagen_golf_2_en_b4bafa05` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:225
 
 10
 3.2  Front suspension camber adjustment
@@ -23966,7 +22713,6 @@ B Special 11.0 mm diameter bolt
 5.2  Wheel bearing housing and associated components
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_5bd09696` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:225
 
 6 Undo the two suspension arm-to-wheel
 bearing retaining bolt nuts and remove them,
@@ -23979,7 +22725,6 @@ renewed, remove the wheel bearing then fit
 the bearing and hub to the new housing.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_13915639` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:226
 
 8 Refitting is a reversal of the removal
 procedure. Renew all self-locking nuts.
@@ -24008,7 +22753,6 @@ specified torque wrench setting.
 6
 
 ### Front wheel bearing -
-`volkswagen_volkswagen_golf_2_en_57f250c6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:226
 
 renewal
 3
@@ -24030,7 +22774,6 @@ wheel bearing housing, press or drive out the
 bearing by using a mandrel on the outer race.
 
 ### Fitting
-`volkswagen_volkswagen_golf_2_en_04fb94c1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:226
 
 6 Clean the recess in the housing, then smear
 it with a little general purpose grease. Where a
@@ -24062,7 +22805,6 @@ lateral play.
 7
 
 ### Track control arm - removal,
-`volkswagen_volkswagen_golf_2_en_9bd0ab89` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:226
 
 overhaul and refitting
 4
@@ -24090,7 +22832,6 @@ the front and withdraw it from the subframe at
 the rear mounting, levering if necessary.
 
 ### Overhaul
-`volkswagen_volkswagen_golf_2_en_ec9131b4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:226
 
 7 With the track control arm removed, clean it
 for inspection.
@@ -24129,7 +22870,6 @@ whilst ensuring that it is positioned correctly
 (see illustration).
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_7d6b8f06` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:226
 
 13 Refitting the track control arm is a reverse
 of removal.
@@ -24141,7 +22881,6 @@ bolt
 bush in control arm
 
 ### Opening A to be located on inboard side of
-`volkswagen_volkswagen_golf_2_en_c3e5f04c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:226
 
 vehicle
 1081 VW Golf & Jetta
@@ -24154,7 +22893,6 @@ dealer.
 8
 
 ### Rear suspension strut and
-`volkswagen_volkswagen_golf_2_en_1af99fed` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:227
 
 coil spring - removal and
 refitting
@@ -24168,7 +22906,6 @@ up the rear of the vehicle and support on axle
 stands (see “Jacking and vehicle support”).
 
 ### Remove the rear roadwheel(s).
-`volkswagen_volkswagen_golf_2_en_a3ae5249` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:227
 
 3 Support the weight of the trailing arm with a
 trolley jack.
@@ -24215,7 +22952,6 @@ are
 colour-coded for identification.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_9f65a0a7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:227
 
 12 Refitting is a reversal of removal. Ensure
 that the coil spring is correctly located in the
@@ -24229,7 +22965,6 @@ distance of 1000 miles (1500 km) has been
 covered and the springs have settled.
 
 ### Suspension and steering 10•7
-`volkswagen_volkswagen_golf_2_en_5bd58da1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:227
 
 10
 8.4  Removing rear suspension strut top
@@ -24242,7 +22977,6 @@ spring downwards
 8.8  Rear suspension strut and coil spring components
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_736185b2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:227
 
 9
 Rear axle beam - removal
@@ -24258,7 +22992,6 @@ a modified shoulder. Their tightening torque is
 reduced to that specified.
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_bdfce915` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:228
 
 1 Remove the rear stub axles.
 2 Support the weight of the trailing arms with
@@ -24308,7 +23041,6 @@ inclination angle to the axle beam should be
 12° ± 2°.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_1bb4d3e9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:228
 
 11 Refitting is a reversal of removal whilst
 noting the following.
@@ -24339,7 +23071,6 @@ in the rear brake disc.
 and adjust the bearing as described in
 
 ### Chapter 9.
-`volkswagen_volkswagen_golf_2_en_86dba1d5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:228
 
 11 Steering wheel - removal and
 refitting
@@ -24371,7 +23102,6 @@ position
 orientation
 
 ### Protruding segments to face forwards
-`volkswagen_volkswagen_golf_2_en_1a8c280e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:228
 
 9.12  Rear axle refitting
 Check that clearance (arrowed) is minimal on
@@ -24382,7 +23112,6 @@ cover – 1.3 litre
 Downloaded from www.Manualslib.com manuals search engine
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_2850aed6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:229
 
 5 Refitting is a reversal of removal. Ensure
 that the turn signal lever is in its neutral
@@ -24398,7 +23127,6 @@ overhaul and refitting
 3
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_1a8994d2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:229
 
 1 Disconnect the battery negative lead.
 2 Remove the steering wheel.
@@ -24424,7 +23152,6 @@ universal
 joint-to-column clamp bolt (see illustration).
 
 ### Undo the lower mounting-to-column trans-
-`volkswagen_volkswagen_golf_2_en_c248364d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:229
 
 verse bolt then withdraw the column from the
 universal joint and collect the coil spring,
@@ -24437,7 +23164,6 @@ insulation caps and withdraw the lower
 section upwards through the housing tube.
 
 ### Suspension and steering 10•9
-`volkswagen_volkswagen_golf_2_en_7cf53abf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:229
 
 10
 11.3b  Removing steering wheel centre
@@ -24454,7 +23180,6 @@ Steering column mounting bolt also shown (B)
 2-section type, pre July 1984
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4a48c2e2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:229
 
 Overhaul
 9 Check
@@ -24489,7 +23214,6 @@ columns and remove the support ring.
 for wear. Renew them as necessary.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_1c48d743` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:230
 
 15 Reassembly is a reversal of dismantling.
 Lubricate bearing surfaces with multi-purpose
@@ -24520,7 +23244,6 @@ pliers as the washer is driven into position.
 when connecting it to the universal joint.
 
 ### Tighten the retaining nuts and bolts to the
-`volkswagen_volkswagen_golf_2_en_38cccc2e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:230
 
 specified torque setting. Tighten each shear
 bolt until its head breaks off.
@@ -24532,7 +23255,6 @@ refitting
 2
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_8496babd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:230
 
 1 Disconnect the battery negative lead.
 2 Remove the steering wheel.
@@ -24558,7 +23280,6 @@ illustration). Depress the spring pin and
 extract the cylinder.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_8504f27b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:230
 
 10 Refitting is a reversal of removal. Renew
 the inner column lockwasher and press it fully
@@ -24587,7 +23308,6 @@ b = 10.0 mm
 12.16  Steering column - from July 1984
 
 ### Reassembly alignment hole arrowed
-`volkswagen_volkswagen_golf_2_en_6b577f7b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:230
 
 Downloaded from www.Manualslib.com manuals search engine
 4 Release the retaining clips and withdraw
@@ -24608,7 +23328,6 @@ removal and refitting
 3
 
 ### Manual steering
-`volkswagen_volkswagen_golf_2_en_fb70e69e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:231
 
 Removal
 1 If the steering tie-rod and balljoints are
@@ -24621,7 +23340,6 @@ can be renewed separately, however the
 left-hand tie-rod must be renewed complete.
 
 ### On LHD models, the tie-rods are vice versa.
-`volkswagen_volkswagen_golf_2_en_ebce5ddb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:231
 
 2 Jack up the front of the vehicle and support
 on axle stands (see “Jacking and vehicle
@@ -24649,7 +23367,6 @@ from the inboard end of the tie-rod. Renew
 the bellows if they are damaged or perished.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_7109dc93` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:231
 
 7 Refitting is a reversal of the removal
 procedure but note the following.
@@ -24677,7 +23394,6 @@ original length measured on dismantling, This
 will provide an approximate initial setting only,
 
 ### On completion, it will be necessary to check
-`volkswagen_volkswagen_golf_2_en_8ea8af05` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:231
 
 the toe-in setting. If further minor adjustment is
 required, adjust the right-hand tie-rod to
@@ -24694,7 +23410,6 @@ locknut. Refit the steering gear bellows and
 ensure that they are not distorted.
 
 ### Suspension and steering 10•11
-`volkswagen_volkswagen_golf_2_en_74d13ce1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:231
 
 10
 14.4  Steering tie-rod bellows and retaining
@@ -24706,7 +23421,6 @@ left-hand balljoint
 15.10a  Tie-rod-to-rack dimensions (b)
 
 ### All models: b = 70.5 mm
-`volkswagen_volkswagen_golf_2_en_2e77a807` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:231
 
 15.10b  Steering rack centralised when dimension (a)
 is equal on each side
@@ -24724,7 +23438,6 @@ old balljoints/tie-rod.
 alignment.
 
 ### Power steering
-`volkswagen_volkswagen_golf_2_en_a9d2120b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:232
 
 Removal
 15 Remove the steering gear unit together
@@ -24744,7 +23457,6 @@ removed in a similar manner to that described
 for the manual steering gear unit.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_dc35a803` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:232
 
 19 Refit the steering tie-rods to the rack and
 adjust the fitted lengths, as given. Tighten the
@@ -24756,7 +23468,6 @@ alignment.
 16 Steering gear - adjustment 3
 
 ### Manual
-`volkswagen_volkswagen_golf_2_en_90a9f0d3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:232
 
 1 If there is any undue slackness in the
 steering gear which results in noise or rattles,
@@ -24784,7 +23495,6 @@ beyond an acceptable level and it must be
 removed and overhauled.
 
 ### Power-assisted
-`volkswagen_volkswagen_golf_2_en_c6d50820` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:232
 
 7 Remove the steering gear unit.
 8 Loosen the adjuster screw locknut then turn
@@ -24797,7 +23507,6 @@ sticking
 illustration).
 
 ### Retighten the locknut.
-`volkswagen_volkswagen_golf_2_en_38fb65a3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:232
 
 9 Refit the steering gear to the vehicle.
 17 Steering gear unit - removal
@@ -24818,7 +23527,6 @@ the hole in the intermediate shaft (see
 illustration).
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_74338c8f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:232
 
 1 Apply the handbrake, jack up the front of
 the vehicle and support it on axle stands (see
@@ -24860,7 +23568,6 @@ modification
 a
 
 ### Dimension reduced from 12.1 mm to
-`volkswagen_volkswagen_golf_2_en_778d7dd0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:232
 
 11.0 mm
 A Notch depth increased
@@ -24876,7 +23583,6 @@ Suspension and steering  10•13
 17.7  Manual steering gear components
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_7ebb941f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:233
 
 the steering column a sufficient amount to
 enable the pinion shaft to disengage from the
@@ -24901,7 +23607,6 @@ gear is removed to prevent the ingress of dirt.
 gear.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_be7d31ba` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:234
 
 14 Refitting is a reversal of the removal
 procedure. All self-locking nuts must be
@@ -24919,7 +23624,6 @@ rack and steering column before assembly.
 weight of the vehicle is on its suspension.
 
 ### Check and if necessary, adjust front wheel
-`volkswagen_volkswagen_golf_2_en_2686239a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:234
 
 alignment.
 18 On power steering models, unplug the
@@ -24933,7 +23637,6 @@ draining and refilling
 2
 
 ### Draining
-`volkswagen_volkswagen_golf_2_en_20395b8f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:234
 
 1 To drain fluid from the system, detach the
 fluid suction hose at the pump unit and drain
@@ -24942,7 +23645,6 @@ draining, turn the steering wheel from lock to
 lock to expel as much fluid as possible.
 
 ### Refilling
-`volkswagen_volkswagen_golf_2_en_69bdcee3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:234
 
 2 After draining off the fluid, reconnect the
 suction hose to the pump unit then fill the
@@ -24956,7 +23658,6 @@ system quickly.
 fluid so that the reservoir is never sucked dry.
 
 ### When the fluid ceases to drop as a result of
-`volkswagen_volkswagen_golf_2_en_66db3ffd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:234
 
 the start/stop sequence, start the engine and
 allow it to run at idling speed.
@@ -24986,7 +23687,6 @@ and if defective, must be renewed as a unit.
 19.3  Power steering pump and associated components
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4bfb1faa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:234
 
 Removal
 2 To remove the pump unit, first drain the
@@ -25000,7 +23700,6 @@ disconnected from the pulley.
 bolts and withdraw the pump unit.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_2464e487` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:235
 
 6 Refitting is a reversal of removal. Tension
 the drivebelt, top-up with new fluid and bleed
@@ -25035,7 +23734,6 @@ locknut on the right-hand side and turn the
 tie-rod as required, then retighten the locknut.
 
 ### Note that the left-hand tie-rod is set at the
-`volkswagen_volkswagen_golf_2_en_ebd6ad65` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:235
 
 specified length - see illustration 15.11. Its
 setting should not be changed.
@@ -25046,7 +23744,6 @@ entrusted to your VW dealer.
 the camber angle, is best checked by your
 
 ### VW dealer.
-`volkswagen_volkswagen_golf_2_en_face03c5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:235
 
 Suspension and steering  10•15
 10
@@ -25060,7 +23757,6 @@ Downloaded from www.Manualslib.com manuals search engine
 12
 
 ### Chapter 12
-`volkswagen_volkswagen_golf_2_en_71d4b720` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:237
 
 Body electrical systems
 System
@@ -25071,7 +23767,6 @@ Fuse
 Component
 
 ### Rating (amps)
-`volkswagen_volkswagen_golf_2_en_f7683247` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:237
 
 1
 Radiator fan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -25110,7 +23805,6 @@ Windscreen wipers and washer, headlight washer . . . . . . . . . . .
 12
 
 ### Rear wiper and washer, seat heater control, electric
-`volkswagen_volkswagen_golf_2_en_3454fa59` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:237
 
 mirror control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 15
@@ -25123,7 +23817,6 @@ Blower, glovebox light . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 15
 
 ### Reversing lights, shift pattern illumination (automatic
-`volkswagen_volkswagen_golf_2_en_eae9c2b4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:237
 
 transmission)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 10
@@ -25186,7 +23879,6 @@ Radio/cassette player - removal and refitting  . . . . . . . . . . . . . . . . .
 Rear window wiper motor - removal and refitting  . . . . . . . . . . . . . . . 28
 
 ### Speedometer cable - removal and refitting . . . . . . . . . . . . . . . . . .
-`volkswagen_volkswagen_golf_2_en_a76b4180` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:237
 
 Speedometer cable - removal and refitting . . . . . . . . . . . . . . . . . . . . 22
 Warning lamp cluster - removal and refitting  . . . . . . . . . . . . . . . . . . 10
@@ -25199,7 +23891,6 @@ Wiring diagrams - general information  . . . . . . . . . . . . . . . . . . . . .
 12•1
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_06191d0d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:237
 
 suitable for expert DIY
 or  professional
@@ -25225,7 +23916,6 @@ electrical
 accessories, components and wiring.
 
 ### Further details of the various systems are
-`volkswagen_volkswagen_golf_2_en_09eaf425` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:238
 
 given in the relevant Sections of this Chapter.
 While some repair procedures are given, the
@@ -25236,7 +23926,6 @@ renewal should obtain a copy of the
 “Automobile Electrical & Electronic Systems
 
 ### Manual” which is available from the publishers
-`volkswagen_volkswagen_golf_2_en_8781db2a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:238
 
 of this Manual.
 Precautions
@@ -25248,7 +23937,6 @@ personal injury. In addition to the precautions
 given in Safety first! at the beginning of this
 
 ### Manual, observe the following when working
-`volkswagen_volkswagen_golf_2_en_4a124d77` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:238
 
 on the system:
 a) Always remove rings, watches, etc.
@@ -25269,7 +23957,6 @@ a mains charger.
 e) Do not reverse the battery connections.
 
 ### Components such as the alternator or any
-`volkswagen_volkswagen_golf_2_en_c34b2666` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:238
 
 other having semi-conductor circuitry
 could be irreparably damaged.
@@ -25286,7 +23973,6 @@ alternator when the alternator is not
 connected.
 
 ### I) Never test for alternator output by
-`volkswagen_volkswagen_golf_2_en_052bf7eb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:238
 
 “flashing” the output lead to earth.
 j) The battery leads and alternator multiplug must be disconnected before
@@ -25296,7 +23982,6 @@ Fuses - pre August 1989 (continued)
 Additional fuses (In separate holders above fusebox)
 
 ### Rating (amps)
-`volkswagen_volkswagen_golf_2_en_3c287a7a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:238
 
 Rear foglight  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 10
@@ -25306,7 +23991,6 @@ Air conditioner  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 30
 
 ### Fuses - from August 1989
-`volkswagen_volkswagen_golf_2_en_1100f913` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:238
 
 Fuse
 Component
@@ -25379,7 +24063,6 @@ Radio system/cigarette lighter  . . . . . . . . . . . . . . . . . . . . . . . . 
 10
 
 ### Relays
-`volkswagen_volkswagen_golf_2_en_fbdc6412` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:238
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 See wiring diagrams at the end of this Chapter
@@ -25405,7 +24088,6 @@ Instrument lights  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_17f4671c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:238
 
 k) Never use an ohmmeter of the type
 incorporating a hand cranked generator
@@ -25420,7 +24102,6 @@ correctly, otherwise serious damage may
 result to the components concerned.
 
 ### Items such as radios, tape recorders,
-`volkswagen_volkswagen_golf_2_en_988c1a03` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:239
 
 electronic ignition systems, electronic
 tachometers, automatic dipping etc,
@@ -25465,7 +24146,6 @@ with a circuit breaker incorporated, which can
 be used to bypass electrical components.
 
 ### Before attempting to locate a problem with
-`volkswagen_volkswagen_golf_2_en_1a31e428` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:239
 
 test instruments, use the wiring diagram to
 decide where to make the connections.
@@ -25483,7 +24163,6 @@ battery is problem-free. Continue checking
 the rest of the circuit in the same fashion.
 
 ### When you reach a point at which no voltage is
-`volkswagen_volkswagen_golf_2_en_4123046c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:239
 
 present the problem lies between that point
 and the last test point with voltage. Most
@@ -25493,7 +24172,6 @@ are live only when the ignition switch is
 switched to a particular position.
 
 ### Finding a short circuit
-`volkswagen_volkswagen_golf_2_en_b05aece5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:239
 
 6 One method of finding a short circuit is to
 remove the fuse and connect a test lamp or
@@ -25508,7 +24186,6 @@ through. The same test can be performed on
 each component in the circuit, even a switch.
 
 ### Earth check
-`volkswagen_volkswagen_golf_2_en_9ccb9aa1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:239
 
 7 To check whether a component is properly
 earthed, disconnect the battery and connect
@@ -25557,7 +24234,6 @@ regular intervals) a proprietary ignition sealer
 or a water dispersant lubricant.
 
 ### Continuity check
-`volkswagen_volkswagen_golf_2_en_6e3cda8a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:239
 
 10 A continuity check is necessary to
 determine if there are any breaks in a circuit.
@@ -25576,7 +24252,6 @@ the switch terminals. With the switch in the
 relevant position, the test lamp should light.
 
 ### Finding an open circuit
-`volkswagen_volkswagen_golf_2_en_ed6d7938` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:239
 
 12 When checking for possible open circuits,
 it is often difficult to locate them by sight
@@ -25589,7 +24264,6 @@ also be caused by oxidised or loose
 connections.
 
 ### General
-`volkswagen_volkswagen_golf_2_en_a8cac1ce` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:239
 
 13 Electrical fault-finding is simple if you
 keep in mind that all electrical circuits are
@@ -25603,7 +24277,6 @@ of electricity from the battery.
 3
 
 ### Fuses and relays - location
-`volkswagen_volkswagen_golf_2_en_ca8ccf2f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:239
 
 and renewal
 1
@@ -25616,7 +24289,6 @@ Body electrical systems  12•3
 3.1  Removing fuse/relay unit cover
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_ab449937` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:239
 
 2 The fuses are numbered consecutively for
 identification. Always renew a fuse with one of
@@ -25634,7 +24306,6 @@ removed by twisting the securing knob on the
 lower right-hand side and removing the knob.
 
 ### Twist the slotted retainer on the left-hand side
-`volkswagen_volkswagen_golf_2_en_4ef5e682` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:240
 
 and withdraw the fuse/relay box. The various
 connectors on the rear face of the unit are
@@ -25649,7 +24320,6 @@ wiring diagrams at the end of this Chapter
 4
 
 ### Headlamp bulbs and
-`volkswagen_volkswagen_golf_2_en_1d3b1601` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:240
 
 headlamps - removal and
 refitting
@@ -25675,7 +24345,6 @@ alignment.
 5
 
 ### Headlamps - alignment
-`volkswagen_volkswagen_golf_2_en_24515161` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:240
 
 3
 Refer to Chapter 1, Section 27
@@ -25692,7 +24361,6 @@ compartment
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_1227f285` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:240
 
 6
 Headlamp range control -
@@ -25736,7 +24404,6 @@ the range control operation on completion.
 7
 
 ### Front foglight bulb and unit -
-`volkswagen_volkswagen_golf_2_en_b6d959e5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:241
 
 removal and refitting
 1
@@ -25760,7 +24427,6 @@ procedure given for the headlamps.
 8
 
 ### Lamp bulbs - renewal
-`volkswagen_volkswagen_golf_2_en_abf17e0b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:241
 
 1
 Note: Lamp bulbs should always be renewed
@@ -25775,7 +24441,6 @@ remove it from the reflector (see illustration).
 3 Depress and twist the bulb to remove it.
 
 ### Front indicator lights
-`volkswagen_volkswagen_golf_2_en_4d655f49` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:241
 
 4 Remove the cross-head screws and
 withdraw the lens (see illustration).
@@ -25788,7 +24453,6 @@ disconnected (see illustration).
 gasket is correctly located.
 
 ### Body electrical systems 12•5
-`volkswagen_volkswagen_golf_2_en_0bf195b3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:241
 
 12
 6.5  Range control motor and terminal
@@ -25805,7 +24469,6 @@ screws (arrowed)
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_16b662ac` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:241
 
 Rear lights
 8 Open the tailgate or bootlid, as applicable.
@@ -25816,7 +24479,6 @@ bulb inspection/renewal (see illustration).
 remove it.
 
 ### Number plate light
-`volkswagen_volkswagen_golf_2_en_14639890` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:242
 
 10 Remove the cross-head screws and
 withdraw the lens and cover (see illustration).
@@ -25825,7 +24487,6 @@ withdraw the lens and cover (see illustration).
 that the lug is correctly located.
 
 ### Interior light
-`volkswagen_volkswagen_golf_2_en_c4664a0c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:242
 
 13 Using a screwdriver, depress the spring
 clip then withdraw the light from the roof (see
@@ -25838,7 +24499,6 @@ the bulb. The switch end of the light should be
 inserted into the roof first.
 
 ### Luggage compartment light and
-`volkswagen_volkswagen_golf_2_en_0a2d7d17` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:242
 
 glovebox light
 16 Prise free and withdraw the lens. The bulb
@@ -25848,7 +24508,6 @@ for renewal (see illustration).
 spade connectors from the lens.
 
 ### Instrument panel light
-`volkswagen_volkswagen_golf_2_en_f6cd383c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:242
 
 18 Remove the instrument panel.
 19 Twist the bulbholder through 90° to
@@ -25861,7 +24520,6 @@ connector as applicable.
 9
 
 ### Direction indicators and
-`volkswagen_volkswagen_golf_2_en_9dd51c74` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:242
 
 hazard flasher system -
 operation and testing
@@ -25889,7 +24547,6 @@ holder removal
 8.8  Rear combination light unit components
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_9d3dc176` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:242
 
 4 If the indicators do not function correctly, a
 series of tests may be done to find which part
@@ -25935,7 +24592,6 @@ refitting
 2
 
 ### This procedure is described in Chapter 10
-`volkswagen_volkswagen_golf_2_en_0ece50fa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:243
 
 for removal and refitting of the steering lock.
 12 Combination switches -
@@ -25976,7 +24632,6 @@ and prise the switch free from the facia (see
 illustration).
 
 ### Body electrical systems 12•7
-`volkswagen_volkswagen_golf_2_en_0ff8f024` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:243
 
 12
 10.2  Warning lamp cluster removal
@@ -25993,7 +24648,6 @@ connection and insulator – GTi
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_a69f1d60` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:243
 
 3 On other switch types such as the heated
 rear seat switch, simply lever the switch free
@@ -26056,7 +24710,6 @@ vacuum
 sender.
 
 ### Detach
-`volkswagen_volkswagen_golf_2_en_b6fd561f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:244
 
 the
 wiring
@@ -26078,7 +24731,6 @@ reassembly
 2
 
 ### Dismantling
-`volkswagen_volkswagen_golf_2_en_4ecd4eed` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:244
 
 1 Remove the instrument panel cluster.
 2 Remove the relevant instrument (see
@@ -26094,7 +24746,6 @@ illustration). Renew the diode (LED) or
 consumption indicator unit, as necessary.
 
 ### Clock - normal type
-`volkswagen_volkswagen_golf_2_en_f29979cb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:244
 
 4 When renewing the normal type clock
 (which incorporates the fuel gauge), it is
@@ -26117,7 +24768,6 @@ compartment light switch
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_e101cf27` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:244
 
 Body electrical systems  12•9
 12
@@ -26138,7 +24788,6 @@ Switch unit (printed)
 7
 
 ### Speedometer
-`volkswagen_volkswagen_golf_2_en_baab2f66` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:245
 
 8
 Gearchange and consumption indicator
@@ -26160,7 +24809,6 @@ Dash insert
 1
 
 ### With rev counter and digital
-`volkswagen_volkswagen_golf_2_en_188baded` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:245
 
 clock
 2
@@ -26179,7 +24827,6 @@ removed by carefully levering it free from the
 warning lamp housing .
 
 ### Printed circuit foil
-`volkswagen_volkswagen_golf_2_en_0697ccf0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:246
 
 7 If renewing the printed circuit foil, it should
 be noted that a common type may be
@@ -26191,7 +24838,6 @@ clock and vice versa for models with the
 digital clock. Check this with your supplier.
 
 ### Plug housing
-`volkswagen_volkswagen_golf_2_en_908dbfd7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:246
 
 8 To remove the plug housing from the
 instrument panel insert, use a screwdriver to
@@ -26211,7 +24857,6 @@ shown
 illustration).
 
 ### Tachometer/VDO multi-function
-`volkswagen_volkswagen_golf_2_en_5b1e7a20` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:246
 
 indicator
 9 If removing the tachometer, first remove the
@@ -26231,7 +24876,6 @@ from the printed circuit and withdrawing the
 indicator unit (see illustration).
 
 ### Motometer multi-function indicator
-`volkswagen_volkswagen_golf_2_en_c17720f9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:246
 
 10 The
 Motometer
@@ -26247,7 +24891,6 @@ retaining screws (arrowed)
 1
 
 ### Earth connection
-`volkswagen_volkswagen_golf_2_en_e5996b63` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:246
 
 2
 Plus (+) live connection
@@ -26265,7 +24908,6 @@ K5
 Indicators (green)
 
 ### K48 Gearchange indicator (yellow)
-`volkswagen_volkswagen_golf_2_en_fc9923a0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:246
 
 1
 Plastic rib
@@ -26286,7 +24928,6 @@ type) and retaining screws (1)
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_8a418264` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:246
 
 Component testing
 Voltage stabiliser
@@ -26299,7 +24940,6 @@ above 10.5 volts or below 9.5 volts renew the
 voltage stabiliser.
 
 ### Fuel gauge
-`volkswagen_volkswagen_golf_2_en_1faba6d5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:247
 
 12 The accuracy of the fuel gauge can be
 checked by draining the fuel tank and then
@@ -26310,7 +24950,6 @@ upper edge of the red reserve zone. If not,
 either the fuel gauge or tank unit is faulty.
 
 ### Printed circuits
-`volkswagen_volkswagen_golf_2_en_39e00791` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:247
 
 13 The individual circuits of the printed circuit
 foil can be checked for continuity using an
@@ -26345,7 +24984,6 @@ illustration)
 f)
 
 ### Top left side of panel
-`volkswagen_volkswagen_golf_2_en_019d4fef` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:247
 
 7 Partially withdraw the panel and detach any
 remaining switch lead multi-connectors.
@@ -26360,7 +24998,6 @@ operation and testing
 1
 
 ### Some models are equipped with a
-`volkswagen_volkswagen_golf_2_en_d4092588` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:247
 
 multi-function indicator consisting of an
 electronic processor and digital display unit.
@@ -26370,7 +25007,6 @@ pressing the MFA recall button on the end of
 the windscreen wiper control stalk.
 
 ### Current time
-`volkswagen_volkswagen_golf_2_en_454a46c8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:247
 
 Driving time
 Distance driven
@@ -26419,7 +25055,6 @@ sender in the vacuum line to the distributor
 (see illustration).
 
 ### Body electrical systems 12•11
-`volkswagen_volkswagen_golf_2_en_776a719b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:247
 
 12
 17.11  Voltage stabiliser test terminals
@@ -26433,7 +25068,6 @@ screws at top
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_3f6826df` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:247
 
 21 Cigarette lighter - removal
 and refitting
@@ -26477,7 +25111,6 @@ wiring.
 withdraw the mirror motor (see illustration).
 
 ### Detach the wiring from the motor.
-`volkswagen_volkswagen_golf_2_en_63c818d0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:248
 
 5 Carefully lever free the door mirror adjuster
 switch from the trim panel and withdraw it so
@@ -26520,7 +25153,6 @@ manner.
 1
 
 ### Refer to “Weekly Checks”
-`volkswagen_volkswagen_golf_2_en_8678e875` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:248
 
 26 Wiper arms - removal and
 refitting
@@ -26538,7 +25170,6 @@ electrically-operated door mirror removal
 1
 
 ### Blue
-`volkswagen_volkswagen_golf_2_en_c721ca7d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:248
 
 2
 Brown
@@ -26555,7 +25186,6 @@ installation
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_49d04f85` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:248
 
 3 Ease the wiper arm from the spindle, taking
 care not to damage the paintwork (see
@@ -26610,7 +25240,6 @@ when refitting so that the wiper arm will park
 correctly (see illustration).
 
 ### Body electrical systems 12•13
-`volkswagen_volkswagen_golf_2_en_c9589ef5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:249
 
 12
 26.2  Undo wiper arm nut . . .
@@ -26634,7 +25263,6 @@ tailgate
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_cfe6ac04` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:249
 
 12•14 Body electrical systems
 1081 VW Golf & Jetta
@@ -26666,7 +25294,6 @@ renewal
 2
 
 ### Pre 1986
-`volkswagen_volkswagen_golf_2_en_b5479104` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:251
 
 1 The windscreen washer fluid reservoir is
 located on the left-hand side of the engine
@@ -26688,7 +25315,6 @@ that it is firmly home. Reconnect the electrical
 connection.
 
 ### From 1986
-`volkswagen_volkswagen_golf_2_en_26b0e1a7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:251
 
 5 From early 1986, the washer system is
 modified and now has a single reservoir and
@@ -26710,7 +25336,6 @@ removal and refitting
 aperture, you will need to fabricate a pair of
 
 ### U-shaped extractors from wire rod of suitable
-`volkswagen_volkswagen_golf_2_en_15b46b93` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:251
 
 gauge to insert into the withdrawal slots on
 each side of the unit (see illustration).
@@ -26741,7 +25366,6 @@ simply push the unit into its aperture until the
 securing clips engage in their slots.
 
 ### Body electrical systems 12•15
-`volkswagen_volkswagen_golf_2_en_55a6f15a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:251
 
 12
 31.2  Radio/cassette extractor tool
@@ -26752,7 +25376,6 @@ securing clips engage in their slots.
 30.2  Rear window washer reservoir unit location
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_fa9060ba` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:251
 
 32 Loudspeakers - removal and
 refitting
@@ -26770,7 +25393,6 @@ illustration).
 4 Refit in the reverse order of removal.
 
 ### Luggage compartment speakers
-`volkswagen_volkswagen_golf_2_en_7c5152a3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:252
 
 5 Undo the retaining nuts from underneath,
 withdraw the loudspeaker unit and detach the
@@ -26780,7 +25402,6 @@ wiring connector (see illustration).
 information
 
 ### Each wiring diagram covers a particular
-`volkswagen_volkswagen_golf_2_en_964b62e8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:252
 
 system of the appropriate vehicle, as
 indicated in its caption. Carefully read the Key
@@ -26793,7 +25414,6 @@ retaining nuts (arrowed)
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_3764649b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:252
 
 Wiring diagrams  12•17
 12
@@ -26804,7 +25424,6 @@ Downloaded from www.Manualslib.com manuals search engine
 Downloaded from www.Manualslib.com manuals search engine
 
 ### Wiring diagrams 12•19
-`volkswagen_volkswagen_golf_2_en_bb550aa8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:255
 
 12
 1081 VW Golf & Jetta
@@ -26817,7 +25436,6 @@ Wiring diagrams  12•21
 1081 VW Golf & Jetta
 
 ### Wiring relays and connections – all models
-`volkswagen_volkswagen_golf_2_en_9446b99a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:257
 
 Relays (typical)
 1
@@ -26834,7 +25452,6 @@ Air conditioner relay
 6
 
 ### Dual tone horn relay
-`volkswagen_volkswagen_golf_2_en_a7414d45` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:257
 
 7
 Relay for foglights and rear foglight
@@ -26852,7 +25469,6 @@ lights and oil pressure warning relay
 14
 
 ### Window lift or seat belt warning system relay
-`volkswagen_volkswagen_golf_2_en_5d1446e7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:257
 
 15
 Headlight washer relay
@@ -26869,7 +25485,6 @@ Switch unit for heated driver’s seat
 21
 
 ### Switch unit for heated passenger’s seat
-`volkswagen_volkswagen_golf_2_en_75488caa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:257
 
 22
 Switch unit for overrun cut-off
@@ -26885,7 +25500,6 @@ Multi-pin connector (blue) for dash panel loom
 B
 
 ### Multi-pin connector (red) for dash panel loom
-`volkswagen_volkswagen_golf_2_en_9d4aadcd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:257
 
 C
 Multi-pin connector (yellow) for engine compartment loom left
@@ -26912,7 +25526,6 @@ Single connector for separate fuse (manifold heater element)
 P
 
 ### Single connector (terminal 30)
-`volkswagen_volkswagen_golf_2_en_b891b141` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:257
 
 R
 Not in use
@@ -26934,7 +25547,6 @@ Diagram 1  Starter, alternator, battery and ignition system -
 1.05, 1.3 and 1.6 models, pre July 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_777572df` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:258
 
 Wiring diagrams  12•23
 12
@@ -26945,7 +25557,6 @@ Diagram 3  Lighting switch, instrument and dash insert lights -
 1.05, 1.3 and 1.5 models, pre July 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_92951f82` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:259
 
 12•24 Wiring diagrams
 1081 VW Golf & Jetta
@@ -26955,7 +25566,6 @@ Diagram 5  Foglights, rear foglights and heated rear window -
 1.05, 1.3 and 1.6 models, pre July 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_8e0c533a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:260
 
 Wiring diagrams  12•25
 12
@@ -26966,7 +25576,6 @@ Diagram 7  Brake lights, fresh air blower, reversing lights and radiator fan -
 1.05, 1.3 and 1.6 models, pre July 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4a35f39f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:261
 
 Diagram 11  Intake manifold
 preheater and automatic choke -
@@ -26977,7 +25586,6 @@ Diagram 10  Rear wiper and washer -
 1.05, 1.3 and 1.6 models, pre December 1985
 
 ### Diagram 9 Windscreen wiper and washer -
-`volkswagen_volkswagen_golf_2_en_eae3524d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:262
 
 1.05, 1.3 and 1.6 models. Golf, pre December 1985.
 Jetta pre July 1987
@@ -26991,7 +25599,6 @@ Diagram 12  Starter, alternator, battery and ignition system -
 1.8 models with carburettor
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_7c44b6a8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:263
 
 12•28 Wiring diagrams
 1081 VW Golf & Jetta
@@ -27001,7 +25608,6 @@ Diagram 14  Headlights, tail lights and dip flasher switch -
 1.8 models, pre July 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_84059fa5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:264
 
 Wiring diagrams  12•29
 12
@@ -27012,7 +25618,6 @@ Diagram 16  Indicators and hazard warning lights -
 1.8 models, pre July 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_53ca08f2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:265
 
 12•30 Wiring diagrams
 1081 VW Golf & Jetta
@@ -27022,7 +25627,6 @@ Diagram 18  Dual tone horn, handbrake and brake fluid warning -
 1.8 models, pre July 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_6a8328bb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:266
 
 Wiring diagrams  12•31
 12
@@ -27033,7 +25637,6 @@ Diagram 20  Electrically-controlled heated outside mirror and rear wiper and was
 1.8 models, pre December 1985
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_f37c26da` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:267
 
 12•32 Wiring diagrams
 1081 VW Golf & Jetta
@@ -27043,7 +25646,6 @@ Diagram 22  Starter, alternator, battery and ignition system -
 1.8 models with fuel injection, pre July 1984
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_40b111a8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:268
 
 Wiring diagrams  12•33
 12
@@ -27059,7 +25661,6 @@ Downloaded from www.Manualslib.com manuals search engine
 1081 VW Golf & Jetta
 
 ### Diagram 28 Starter, alternator and battery -
-`volkswagen_volkswagen_golf_2_en_9a942af7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:270
 
 1.8 16v models
 Diagram 27  Starter, alternator, battery and ignition system -
@@ -27070,7 +25671,6 @@ Wiring diagrams  12•35
 1081 VW Golf & Jetta
 
 ### Diagram 30 Low coolant level warning -
-`volkswagen_volkswagen_golf_2_en_93c18f47` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:271
 
 1.8 16v models
 Diagram 29  Ignition system -
@@ -27082,7 +25682,6 @@ Diagram 32  Starter, alternator, battery and ignition system -
 1.6 models from August 1985 to July 1987
 
 ### Diagram 31 Fuel supply -
-`volkswagen_volkswagen_golf_2_en_1f3b807f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:272
 
 1.8 16v models
 Downloaded from www.Manualslib.com manuals search engine
@@ -27095,7 +25694,6 @@ Diagram 33  Radiator fan run-on -
 1.6 and 1.8 models from March 1986 to July 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_7d00a04d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:273
 
 12•38 Wiring diagrams
 1081 VW Golf & Jetta
@@ -27105,7 +25703,6 @@ Diagram 35  Windscreen washer, rear wiper and washer -
 all Golf models from January 1986 to July 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_098399ce` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:274
 
 Wiring diagrams  12•39
 12
@@ -27116,7 +25713,6 @@ Diagram 37  Inlet manifold preheating and automatic choke -
 1.6 models, from August 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_84824972` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:275
 
 12•40 Wiring diagrams
 1081 VW Golf & Jetta
@@ -27126,7 +25722,6 @@ Diagram 39  Light switch and number plate lights -
 all models, from August 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_c639938d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:276
 
 Wiring diagrams  12•41
 12
@@ -27137,7 +25732,6 @@ Diagram 41  Indicators and hazard warning lights -
 all models, from August 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_8630bb06` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:277
 
 12•42 Wiring diagrams
 1081 VW Golf & Jetta
@@ -27147,7 +25741,6 @@ Diagram 43  Handbrake and brake fluid level warning, fresh air blower, glovebox
 light and horn - all models, from August 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_b24b2d9c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:278
 
 Wiring diagrams  12•43
 12
@@ -27158,7 +25751,6 @@ Diagram 45  Rear window wiper and radiator fan run-on -
 1.6 and 1.8 carburettor models, from August 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_8e3d8be0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:279
 
 12•44 Wiring diagrams
 1081 VW Golf & Jetta
@@ -27168,7 +25760,6 @@ Diagram 47  Handbrake, brake fluid warning, low coolant level indicator and dual
 tone horn - all models from 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_3dc37571` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:280
 
 Wiring diagrams  12•45
 12
@@ -27179,7 +25770,6 @@ Diagram 49  Automatic transmission -
 1.6 models, from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_bcce6d02` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:281
 
 12•46 Wiring diagrams
 1081 VW Golf & Jetta
@@ -27189,7 +25779,6 @@ Diagram 51  Radiator fan and fresh air blower -
 1.6 and 1.8 carburettor models, from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_98c85711` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:282
 
 Wiring diagrams  12•47
 12
@@ -27200,7 +25789,6 @@ Diagram 53  Ignition system and overrun cut-off -
 1.6 and 1.8 carburettor models, from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_9533f63e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:283
 
 12•48 Wiring diagrams
 1081 VW Golf & Jetta
@@ -27210,7 +25798,6 @@ Diagram 55  Instrument panel (tachometer clock, fuel and temperature gauges) -
 1.6 and 1.8 carburettor models, from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_e44dd6c6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:284
 
 Wiring diagrams  12•49
 12
@@ -27221,7 +25808,6 @@ Diagram 57  Glovebox light, cigarette lighter, radio connection and cassette sto
 light - 1.6 and 1.8 carburettor models, from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_8dae6b5f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:285
 
 12•50 Wiring diagrams
 1081 VW Golf & Jetta
@@ -27231,7 +25817,6 @@ Diagram 59  Headlights, sidelights and headlight dip/flash switch -
 1.6 and 1.8 carburettor models, from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4c44649d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:286
 
 Wiring diagrams  12•51
 12
@@ -27242,7 +25827,6 @@ Diagram 61  Direction indicators and tail lights -
 1.6 and 1.8 carburettor models, from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_8c83ab76` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:287
 
 12•52 Wiring diagrams
 1081 VW Golf & Jetta
@@ -27252,7 +25836,6 @@ Diagram 63  Reversing lights, heated rear window and dual tone horn -
 1.6 and 1.8 carburettor models, from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_71d0d9f1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:288
 
 Wiring diagrams  12•53
 12
@@ -27263,7 +25846,6 @@ Diagram 65  Windscreen washers and wipers -
 1.6 and 1.8 carburettor models, from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_eece59a3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:289
 
 12•54 Wiring diagrams
 1081 VW Golf & Jetta
@@ -27273,7 +25855,6 @@ Diagram 67  Dim-dip lights (lighting switch and series resistance) -
 all models from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4df2efde` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:290
 
 Wiring diagrams  12•55
 12
@@ -27287,7 +25868,6 @@ Downloaded from www.Manualslib.com manuals search engine
 1081 VW Golf & Jetta
 
 ### Diagram 72 Digifant ignition system -
-`volkswagen_volkswagen_golf_2_en_2a51cfbf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:292
 
 later 1.8 models
 Diagram 71  Digifant fuel system -
@@ -27302,7 +25882,6 @@ Nm
 lbf ft
 
 ### Bumper bracket bolts:
-`volkswagen_volkswagen_golf_2_en_4b40d4e6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:293
 
 Front  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 82
@@ -27356,7 +25935,6 @@ Seat beltsrenewal  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Sunroof - removal, refitting and adjustment  . . . . . . . . . . . . . . . . . . . 28
 
 ### Tailgate - removal and refitting . . . . . . . . . . . . . . . . . . . . . . 
-`volkswagen_volkswagen_golf_2_en_1902f225` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:293
 
 Tailgate - removal and refitting  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
 Tailgate lock, grip and lock cylinder - removal, refitting and
@@ -27370,7 +25948,6 @@ Windows - removal and refitting  . . . . . . . . . . . . . . . . . . . . . . . .
 11•1
 
 ### Filter
-`volkswagen_volkswagen_golf_2_en_4655244d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:310
 
 2
 Filter housing
@@ -27397,7 +25974,6 @@ Chunks: 1572
 Language: en
 
 ### VW Golf & Jetta
-`volkswagen_volkswagen_golf_2_en_d25f0643` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:1
 
 VW Golf & Jetta
 Service and Repair Manual
@@ -27408,7 +25984,6 @@ Covers mechanical features of Van. Does not cover Convertible, Rallye, Caddy, di
 or new Golf range introduced in February 1992
 
 ### I M Coomber and Christopher Rogers
-`volkswagen_volkswagen_golf_2_en_584da017` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:1
 
 © Haynes Publishing 1997
 A book in the Haynes Service and Repair Manual Series
@@ -27419,7 +25994,6 @@ information storage or retrieval system, without permission in
 writing from the copyright holder.
 
 ### ISBN 1 85960 282 7
-`volkswagen_volkswagen_golf_2_en_8fb6327d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:1
 
 British Library Cataloguing in Publication Data
 A catalogue record for this book is available from the British Library
@@ -27427,7 +26001,6 @@ Printed by J H Haynes & Co. Ltd, Sparkford, Nr Yeovil, Somerset
 BA22 7JJ, England
 
 ### Haynes Publishing
-`volkswagen_volkswagen_golf_2_en_e999cddb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:1
 
 Sparkford Nr Yeovil
 Somerset BA22 7JJ England
@@ -27440,7 +26013,6 @@ Editions Haynes S.A.
 Haynes Publishing Nordiska AB
 
 ### Fyrisborgsgatan 5, 754 50 Uppsala, Sverige
-`volkswagen_volkswagen_golf_2_en_3518c986` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:1
 
 (1081 - 344 - 1AA11)
 ABCDE
@@ -27459,7 +26031,6 @@ Page
 Roadside Repairs
 
 ### Introduction
-`volkswagen_volkswagen_golf_2_en_2d35467b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:2
 
 Page
 0•6
@@ -27487,7 +26058,6 @@ Page
 0•10
 
 ### Engine oil level
-`volkswagen_volkswagen_golf_2_en_72806f79` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:2
 
 Page
 0•11
@@ -27511,7 +26081,6 @@ Page
 0•14
 
 ### Battery
-`volkswagen_volkswagen_golf_2_en_633eaf3b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:2
 
 Page
 0•15
@@ -27532,7 +26101,6 @@ Page
 Maintenance schedule:
 
 ### Vehicles manufactured before August 1985
-`volkswagen_volkswagen_golf_2_en_7d477115` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:2
 
 Page
 1•5
@@ -27550,7 +26118,6 @@ Downloaded from www.Manualslib.com manuals search engine
 REPAIRS & OVERHAUL
 
 ### Engine and Associated Systems
-`volkswagen_volkswagen_golf_2_en_8d50e4a2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:3
 
 Engine repair procedures - 1.05 and 1.3 litre - pre August 1985
 Page 2A•1
@@ -27559,7 +26126,6 @@ Page 2B•1
 Engine repair procedures - 1.6 and 1.8 litre 8 valve
 
 ### Page 2C•1
-`volkswagen_volkswagen_golf_2_en_54c9655b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:3
 
 Engine repair procedures - 1.8 litre 16 valve
 Page 2D•1
@@ -27571,7 +26137,6 @@ Page 4A•1
 Fuel and exhaust systems - K-Jetronic fuel injection - 8 valve engines
 
 ### Page 4B•1
-`volkswagen_volkswagen_golf_2_en_654a4a67` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:3
 
 Fuel and exhaust systems - K-Jetronic fuel injection - 16 valve engines
 Page 4C•1
@@ -27581,7 +26146,6 @@ Fuel and exhaust systems - Digijet fuel injection
 Page 4E•1
 
 ### Fuel and exhaust systems - Digifant fuel injection
-`volkswagen_volkswagen_golf_2_en_fd270f08` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:3
 
 Page
 4F•1
@@ -27596,7 +26160,6 @@ Page 5D•1
 Transmission
 
 ### Clutch
-`volkswagen_volkswagen_golf_2_en_3e2ce450` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:3
 
 Page
 6•1
@@ -27618,7 +26181,6 @@ Body Equipment
 Bodywork and fittings
 
 ### Page
-`volkswagen_volkswagen_golf_2_en_348231b1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:3
 
 11•1
 Body electrical systems
@@ -27639,7 +26201,6 @@ REF•3
 General Repair Procedures
 
 ### Page
-`volkswagen_volkswagen_golf_2_en_b5e36bdc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:3
 
 REF•4
 Jacking and Vehicle Support
@@ -27660,7 +26221,6 @@ Page REF•25
 Contents
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_5aefac5d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:3
 
 The Mk. II Volkswagen Golf and Jetta range of models was
 introduced in March 1984, revised body and trim features being the
@@ -27679,7 +26239,6 @@ yardstick, long life.
 0•4 Introduction
 
 ### Your Volkswagen Golf and
-`volkswagen_volkswagen_golf_2_en_baac3979` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:4
 
 Jetta Manual
 The aim of this Manual is to help you get the best value from your
@@ -27698,7 +26257,6 @@ the tasks are described and photographed in a clear step-by-step
 sequence.
 
 ### Acknowledgements
-`volkswagen_volkswagen_golf_2_en_a19f8c03` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:4
 
 Thanks are due to Champion Spark Plug who supplied the
 illustrations showing spark plug conditions, to Duckhams Oils, who
@@ -27706,7 +26264,6 @@ provided lubrication data and also to Sykes-Pickavant Limited, who
 supplied some of the workshop tools, and to all those people at
 
 ### Sparkford who helped in the production of this Manual.
-`volkswagen_volkswagen_golf_2_en_c66aa478` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:4
 
 We take great pride in the accuracy of information given in this
 Manual, but vehicle manufacturers make alterations and design
@@ -27716,7 +26273,6 @@ or publishers for loss, damage or injury caused by any errors in, or
 omissions from the information given.
 
 ### The VW Golf & Jetta Team
-`volkswagen_volkswagen_golf_2_en_fa9cc052` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:4
 
 Haynes manuals are produced by dedicated and
 enthusiastic people working in close co-operation. The
@@ -27727,7 +26283,6 @@ Cristopher Rogers
 Sub-editors
 
 ### Carole Turk
-`volkswagen_volkswagen_golf_2_en_a0d28328` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:4
 
 Sophie Yar
 Editor & Page Make-up
@@ -27746,7 +26301,6 @@ maintenance as described you will ensure your car’s
 reliability and preserve its resale value.
 
 ### VW Golf
-`volkswagen_volkswagen_golf_2_en_47b206be` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:4
 
 VW Jetta
 Downloaded from www.Manualslib.com manuals search engine
@@ -27757,7 +26311,6 @@ risks and hazards, with the aim of creating a
 safety-conscious attitude.
 
 ### General hazards
-`volkswagen_volkswagen_golf_2_en_de746b8b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:5
 
 Scalding
 • Don’t remove the radiator or expansion
@@ -27767,7 +26320,6 @@ power steering fluid may also be dangerously
 hot if the engine has recently been running.
 
 ### Burning
-`volkswagen_volkswagen_golf_2_en_1189aad4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:5
 
 • Beware of burns from the exhaust system
 and from any part of the engine. Brake discs
@@ -27784,7 +26336,6 @@ drive-on
 ramps.
 
 ### Never
-`volkswagen_volkswagen_golf_2_en_51712de5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:5
 
 venture
 under a car which
@@ -27794,7 +26345,6 @@ Initial loosening and final tightening should
 be done with the wheels on the ground.
 
 ### Fire
-`volkswagen_volkswagen_golf_2_en_5b484c9e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:5
 
 • Fuel is highly flammable; fuel vapour is
 explosive.
@@ -27814,7 +26364,6 @@ repairing or modifying the vehicle wiring.
 suitable for use on fuel and electrical fires.
 
 ### Electric shock
-`volkswagen_volkswagen_golf_2_en_08a03629` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:5
 
 • Ignition HT
 voltage can be
@@ -27834,7 +26383,6 @@ be protected by a residual current device
 (RCD) circuit breaker.
 
 ### Fume or gas intoxication
-`volkswagen_volkswagen_golf_2_en_afe422a6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:5
 
 • Exhaust fumes are
 poisonous; they often
@@ -27851,7 +26399,6 @@ poisonous, as are the vapours from some
 cleaning solvents and paint thinners.
 
 ### Poisonous or irritant substances
-`volkswagen_volkswagen_golf_2_en_a6c631b3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:5
 
 • Avoid skin contact with battery acid and
 with any fuel, fluid or lubricant, especially
@@ -27869,7 +26416,6 @@ poisonous gas if exposed to a naked flame
 burns on contact.
 
 ### Asbestos
-`volkswagen_volkswagen_golf_2_en_eeb67e3c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:5
 
 • Asbestos dust can cause cancer if inhaled
 or swallowed. Asbestos may be found in
@@ -27878,7 +26424,6 @@ When dealing with such components it is
 safest to assume that they contain asbestos.
 
 ### Special hazards
-`volkswagen_volkswagen_golf_2_en_71ff09ed` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:5
 
 Hydrofluoric acid
 • This extremely corrosive acid is formed
@@ -27896,7 +26441,6 @@ from such a vehicle, wear protective gloves
 and discard them after use.
 
 ### The battery
-`volkswagen_volkswagen_golf_2_en_4c4c1311` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:5
 
 • Batteries contain sulphuric acid, which
 attacks clothing, eyes and skin. Take care
@@ -27908,7 +26452,6 @@ connecting and disconnecting battery
 chargers or jump leads.
 
 ### Air bags
-`volkswagen_volkswagen_golf_2_en_7b18bc1d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:5
 
 • Air bags can cause injury if they go off
 accidentally. Take care when removing the
@@ -27920,7 +26463,6 @@ high pressure. Take care when working on
 the fuel injectors and fuel pipes.
 
 ### Warning: Never expose the hands,
-`volkswagen_volkswagen_golf_2_en_172dcf58` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:5
 
 face or any other part of the body
 to injector spray; the fuel can
@@ -27945,7 +26487,6 @@ equipment has a safe working load rating
 adequate for the job.
 
 ### A few tips
-`volkswagen_volkswagen_golf_2_en_f42b4541` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:5
 
 DON’T
 • Don’t attempt to lift a heavy component
@@ -27962,7 +26503,6 @@ up oil and fuel spills at once.
 near a vehicle being worked on.
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_3e41485f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:5
 
 0•6 Roadside repairs
 The following pages are intended to help in dealing with
@@ -27971,7 +26511,6 @@ more detailed fault finding information at the back of the
 manual, and repair information in the main chapters.
 
 ### If your car won’t start
-`volkswagen_volkswagen_golf_2_en_c81284a6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:6
 
 and the starter motor
 doesn’t turn
@@ -27985,7 +26524,6 @@ battery is probably flat. Get out of trouble by jump starting
 (see next page) using a friend’s car.
 
 ### If your car won’t start
-`volkswagen_volkswagen_golf_2_en_98051396` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:6
 
 even though the starter
 motor turns as normal
@@ -27997,7 +26535,6 @@ product (WD-40 or equivalent) on ignition and fuel system
 electrical connectors like those shown in the photos.
 
 ### Pay special attention to the ignition coil wiring connector
-`volkswagen_volkswagen_golf_2_en_2c920848` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:6
 
 and HT leads.
 Check that the HT lead connections at
@@ -28011,7 +26548,6 @@ them onto the plugs.
 B
 
 ### Check that the LT lead connections are
-`volkswagen_volkswagen_golf_2_en_6eaaada8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:6
 
 clean and secure.
 C
@@ -28025,7 +26561,6 @@ Check that electrical connections are secure (with the ignition switched off) an
 with a water dispersant spray like WD40 if you suspect a problem due to damp
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_0139001b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:6
 
 Roadside repairs 0•7
 When jump-starting a car using a
@@ -28042,7 +26577,6 @@ switched off.
 4
 
 ### Make sure that the booster battery is
-`volkswagen_volkswagen_golf_2_en_481a0184` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:7
 
 the same voltage as the discharged
 one in the vehicle.
@@ -28057,7 +26591,6 @@ neutral (or PARK, in the case of
 automatic transmission).
 
 ### Jump starting will get you out
-`volkswagen_volkswagen_golf_2_en_e26fc12a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:7
 
 of trouble, but you must correct
 whatever made the battery go
@@ -28070,7 +26603,6 @@ leaving the lights on.
 2
 
 ### The charging system is not working
-`volkswagen_volkswagen_golf_2_en_d687645c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:7
 
 properly (alternator drivebelt slack
 or broken, alternator wiring fault or
@@ -28083,7 +26615,6 @@ the positive (+) terminal of the flat
 battery
 
 ### Connect the other end of the red lead to
-`volkswagen_volkswagen_golf_2_en_6f47fe4c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:7
 
 the positive (+) terminal of the booster
 battery.
@@ -28100,7 +26631,6 @@ battery, on the vehicle to be started.
 4
 
 ### Make sure that the jump leads will not
-`volkswagen_volkswagen_golf_2_en_98509fef` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:7
 
 come into contact with the fan, drivebelts or other moving parts of the
 engine.
@@ -28112,7 +26642,6 @@ the reverse order of connection.
 6
 
 ### Jump starting
-`volkswagen_volkswagen_golf_2_en_7e36393e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:7
 
 Downloaded from www.Manualslib.com manuals search engine
 0•8 Roadside repairs
@@ -28122,7 +26651,6 @@ retaining strap and lift out the jack and
 tools from the centre of the wheel.
 
 ### Finally...
-`volkswagen_volkswagen_golf_2_en_8b70ebbf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:8
 
 M
 Remove the wheel chocks.
@@ -28135,7 +26663,6 @@ M
 Have the damaged tyre or wheel repaired as soon as possible.
 
 ### Locate the jack below the reinforced
-`volkswagen_volkswagen_golf_2_en_4672ec4e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:8
 
 point on the sill and on firm ground.  Turn
 the jack handle to raise the car until the
@@ -28147,7 +26674,6 @@ using the wheelbrace, then lower the car to
 the ground.
 
 ### Once the car is on the ground, tighten the
-`volkswagen_volkswagen_golf_2_en_15e16494` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:8
 
 wheel bolts securely in a diagonal pattern
 using the wheelbrace.  At the earliest
@@ -28160,7 +26686,6 @@ which must be undone first).  Slacken
 each wheel bolt by half a turn.
 
 ### Unscrew the retaining nut and lift the
-`volkswagen_volkswagen_golf_2_en_a412fd8e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:8
 
 wheel out of the vehicle.
 1
@@ -28181,7 +26706,6 @@ Use hazard warning lights if necessary.
 M
 
 ### If you have one, use a warning triangle to
-`volkswagen_volkswagen_golf_2_en_5b42f714` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:8
 
 alert other drivers of your presence.
 M
@@ -28195,7 +26719,6 @@ stones will do for this.
 M
 
 ### If the ground is soft, use a flat piece of
-`volkswagen_volkswagen_golf_2_en_293292b1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:8
 
 wood to spread the load under the jack.
 Changing the wheel
@@ -28211,7 +26734,6 @@ passing traffic while changing the wheel - it is easy to become distracted by
 the job in hand.
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_ad1bac79` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:8
 
 Roadside repairs 0•9
 When all else fails, you may find yourself
@@ -28223,7 +26745,6 @@ towing using another car is easy enough, but
 observe the following points:
 
 ### M Use a proper tow-rope – they are not
-`volkswagen_volkswagen_golf_2_en_dd99f0c0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:9
 
 expensive. The vehicle being towed must
 display an ‘ON TOW’ sign in its rear window.
@@ -28233,7 +26754,6 @@ that the steering lock is released, and that the
 direction indicator and brake lights will work.
 
 ### M Only attach the tow-rope to the towing
-`volkswagen_volkswagen_golf_2_en_91932e89` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:9
 
 eyes provided.
 M Before being towed, release the handbrake
@@ -28247,7 +26767,6 @@ brakes, since the vacuum servo unit is only
 operational with the engine running.
 
 ### M On models with power steering, greater-
-`volkswagen_volkswagen_golf_2_en_f0e8fae6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:9
 
 than-usual steering effort will also be required.
 M The driver of the car being towed must
@@ -28257,7 +26776,6 @@ M Make sure that both drivers know the route
 before setting off.
 
 ### M Only drive at moderate speeds and keep
-`volkswagen_volkswagen_golf_2_en_dba78a25` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:9
 
 the distance towed to a minimum. Drive
 smoothly and allow plenty of time for slowing
@@ -28267,7 +26785,6 @@ special precautions apply. If in doubt, do not
 tow, or transmission damage may result.
 
 ### Towing
-`volkswagen_volkswagen_golf_2_en_43e3696f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:9
 
 Puddles on the garage floor or drive, or
 obvious wetness under the bonnet or
@@ -28281,7 +26798,6 @@ giving a false impression of where the
 problem lies.
 
 ### Warning: Most automotive oils
-`volkswagen_volkswagen_golf_2_en_fe7ef5a2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:9
 
 and fluids are poisonous. Wash
 them off skin, and change out of
@@ -28298,7 +26814,6 @@ paper overnight as an aid to locating the
 source of the leak.
 
 ### Remember that some leaks may only
-`volkswagen_volkswagen_golf_2_en_01f08a3c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:9
 
 occur while the engine is running.
 Sump oil
@@ -28313,7 +26828,6 @@ Leaking antifreeze often leaves a crystalline
 deposit like this.
 
 ### Gearbox oil can leak from the seals at the
-`volkswagen_volkswagen_golf_2_en_f0775cf3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:9
 
 inboard ends of the driveshafts.
 A leak occurring at a wheel is almost
@@ -28324,7 +26838,6 @@ Downloaded from www.Manualslib.com manuals search engine
 0•10 Weekly checks
 
 ### There are some very simple checks which
-`volkswagen_volkswagen_golf_2_en_3fa8cc5a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:10
 
 need only take a few minutes to carry out, but
 which could save you a lot of inconvenience
@@ -28335,7 +26848,6 @@ they take to perform could prove to be very
 well spent, for example;
 
 ### M Keeping an eye on tyre condition and
-`volkswagen_volkswagen_golf_2_en_1e4f7377` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:10
 
 pressures, will not only help to stop them
 wearing out prematurely, but could also save
@@ -28346,7 +26858,6 @@ common, and a quick check on a regular basis
 will often prevent the majority of these.
 
 ### M If your car develops a brake fluid leak, the
-`volkswagen_volkswagen_golf_2_en_9b6b838e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:10
 
 first time you might know about it is when
 your brakes don't work properly. Checking
@@ -28357,7 +26868,6 @@ of repairing any engine damage will be far
 greater than fixing the leak, for example.
 
 ### Introduction
-`volkswagen_volkswagen_golf_2_en_2dd11a42` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:10
 
 § All models
 (typical)
@@ -28375,7 +26885,6 @@ G Battery
 Underbonnet check points
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4253c971` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:10
 
 Weekly checks 0•11
 Engine oil level
@@ -28386,7 +26895,6 @@ or at least 5 minutes after the engine has been
 switched off.
 
 ### The correct oil
-`volkswagen_volkswagen_golf_2_en_6dc16055` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:11
 
 Modern engines place great demands on their
 oil. It is very important that the correct oil for
@@ -28403,7 +26911,6 @@ l Always maintain the level between the
 upper and lower dipstick marks (see photo 3).
 
 ### If the level is too low severe engine damage
-`volkswagen_volkswagen_golf_2_en_1a7d8cae` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:11
 
 may occur. Oil seal failure may result if the
 engine is overfilled by adding too much oil.
@@ -28414,7 +26921,6 @@ components, resulting in an inaccurate
 reading on the dipstick!
 
 ### The dipstick is located at the right-hand
-`volkswagen_volkswagen_golf_2_en_30a2b54d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:11
 
 end of the engine (see “Underbonnet
 check points” on page 0•10 for exact
@@ -28425,7 +26931,6 @@ dipstick  into the tube as far as it will go,
 then withdraw it again.
 
 ### Note the oil level on the end of the
-`volkswagen_volkswagen_golf_2_en_4c29bfa9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:11
 
 dipstick, which should be between the
 upper ("MAX") mark and lower ("MIN")
@@ -28435,7 +26940,6 @@ mark.
 Oil is added through the filler cap.
 
 ### Unscrew the cap and top-up the level; a
-`volkswagen_volkswagen_golf_2_en_3473a898` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:11
 
 funnel may help to reduce spillage. Add
 the oil slowly, checking the level on the dipstick
@@ -28453,7 +26957,6 @@ open containers of coolant
 about, as it is poisonous.
 
 ### Car Care
-`volkswagen_volkswagen_golf_2_en_90514496` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:11
 
 l With a sealed-type cooling system, adding
 coolant should not be necessary on a regular
@@ -28468,7 +26971,6 @@ alone, as the antifreeze will become too
 diluted.
 
 ### Coolant level
-`volkswagen_volkswagen_golf_2_en_49ae9e9b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:11
 
 The coolant level varies with the
 temperature of the engine. When the
@@ -28478,7 +26980,6 @@ side of the expansion tank. When the engine
 is hot, the level may rise slightly.
 
 ### If topping up is necessary, wait until the
-`volkswagen_volkswagen_golf_2_en_357af81f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:11
 
 engine is cold.  Slowly unscrew the
 expansion tank cap, to release any
@@ -28494,7 +26995,6 @@ clockwise as far as it will go until it is secure.
 3
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_119c55fb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:11
 
 0•12 Weekly checks
 Brake fluid level
@@ -28518,7 +27018,6 @@ dangerous loss of braking
 effectiveness.
 
 ### Safety First!
-`volkswagen_volkswagen_golf_2_en_148db9c1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:12
 
 l If the reservoir requires repeated toppingup this is an indication of a fluid leak
 somewhere in the system, which should be
@@ -28536,7 +27035,6 @@ level must never be allowed to drop
 below the “MIN” mark.
 
 ### The “MAX” and “MIN” marks are
-`volkswagen_volkswagen_golf_2_en_1186362e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:12
 
 indicated on the front of the reservoir.
 The fluid level must be kept between the
@@ -28549,7 +27047,6 @@ system.
 2
 
 ### Unscrew the reservoir cap and carefully
-`volkswagen_volkswagen_golf_2_en_5bf6c252` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:12
 
 lift it out of position, taking care not to
 damage the level switch float. Inspect the
@@ -28566,7 +27063,6 @@ the cap and wipe off any spilt fluid.
 4
 
 ### Power steering fluid level
-`volkswagen_volkswagen_golf_2_en_71f8cb5c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:12
 
 Before you start:
 4
@@ -28589,7 +27085,6 @@ not be turned once the
 engine has been stopped.
 
 ### The fluid reservoir is mounted next to the
-`volkswagen_volkswagen_golf_2_en_6d310880` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:12
 
 battery in the engine compartment.
 “MAX” and “MIN” level marks are
@@ -28606,7 +27101,6 @@ specified fluid.
 2
 
 ### After filling the reservoir to the proper
-`volkswagen_volkswagen_golf_2_en_b3f49512` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:12
 
 level, make sure that the cap is refitted
 securely to avoid leaks and the entry of
@@ -28625,7 +27119,6 @@ coolant antifreeze in the washer system -
 this could discolour or damage paintwork.
 
 ### Screen/headlamp washer fluid level
-`volkswagen_volkswagen_golf_2_en_b18188d2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:13
 
 When topping-up the reservoir(s) a
 screenwash additive should be added in
@@ -28651,7 +27144,6 @@ d = 300 mm
 3
 
 ### Wiper blades
-`volkswagen_volkswagen_golf_2_en_be5f333e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:13
 
 Check the condition of the wiper blades;
 if they are cracked or show any signs of
@@ -28667,7 +27159,6 @@ slide the blade out of the arm’s hooked end.
 2
 
 ### Don’t forget to check the tailgate wiper
-`volkswagen_volkswagen_golf_2_en_064eb4f8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:13
 
 blade as well. To remove the blade,
 depress the retaining tab and slide the
@@ -28678,7 +27169,6 @@ Downloaded from www.Manualslib.com manuals search engine
 Tyre condition and pressure
 
 ### It is very important that tyres are in good
-`volkswagen_volkswagen_golf_2_en_7ed87d07` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:14
 
 condition, and at the correct pressure - having
 a tyre failure at any speed is highly dangerous.
@@ -28693,7 +27183,6 @@ completely effective, you may have the
 expense of replacing all four tyres at once!
 
 ### Remove any nails or stones embedded in the
-`volkswagen_volkswagen_golf_2_en_891ff5bc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:14
 
 tread before they penetrate the tyre to cause
 deflation. If removal of a nail does reveal that
@@ -28703,7 +27192,6 @@ immediately change the wheel, and have the
 tyre repaired by a tyre dealer.
 
 ### Regularly check the tyres for damage in the
-`volkswagen_volkswagen_golf_2_en_6aea8b0d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:14
 
 form of cuts or bulges, especially in the
 sidewalls. Periodically remove the wheels,
@@ -28712,7 +27200,6 @@ outside surfaces. Examine the wheel rims for
 signs of rusting, corrosion or other damage.
 
 ### Light alloy wheels are easily damaged by
-`volkswagen_volkswagen_golf_2_en_e724e2f9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:14
 
 "kerbing" whilst parking; steel wheels may
 also become dented or buckled. A new wheel
@@ -28723,7 +27210,6 @@ fitted, but it may become necessary to rebalance them as they wear, or if the ba
 weights fitted to the wheel rim should fall off.
 
 ### Unbalanced tyres will wear more quickly, as
-`volkswagen_volkswagen_golf_2_en_aa2f511e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:14
 
 will the steering and suspension components.
 Wheel imbalance is normally signified by
@@ -28737,7 +27223,6 @@ balance. Wheel balancing should be carried
 out by a tyre dealer or garage.
 
 ### Tread Depth - visual check
-`volkswagen_volkswagen_golf_2_en_1fa85196` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:14
 
 The original tyres have tread wear safety
 bands (B), which will appear when the tread
@@ -28747,7 +27232,6 @@ mark on the tyre sidewall (A).
 1
 
 ### Tread Depth - manual check
-`volkswagen_volkswagen_golf_2_en_17d39c31` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:14
 
 Alternatively,
 tread
@@ -28765,7 +27249,6 @@ been used, or an inaccurate setting will result.
 3
 
 ### Tyre tread wear patterns
-`volkswagen_volkswagen_golf_2_en_f536b0ef` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:14
 
 Shoulder Wear
 Underinflation (wear on both sides)
@@ -28777,7 +27260,6 @@ excessive wear, not to mention the danger of
 sudden tyre failure due to heat build-up.
 
 ### Check and adjust pressures
-`volkswagen_volkswagen_golf_2_en_6658bbe4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:14
 
 Incorrect wheel camber (wear on one side)
 Repair or renew suspension parts
@@ -28791,7 +27273,6 @@ reduced grip, harsher ride, and the danger of
 shock damage occurring in the tyre casing.
 
 ### Check and adjust pressures
-`volkswagen_volkswagen_golf_2_en_c294de11` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:14
 
 If you sometimes have to inflate your car’s
 tyres to the higher pressures specified for
@@ -28805,7 +27286,6 @@ garages can check and adjust the wheel
 alignment (or "tracking") for a modest charge.
 
 ### Incorrect camber or castor
-`volkswagen_volkswagen_golf_2_en_69f07f9e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:14
 
 Repair or renew suspension parts
 Malfunctioning suspension
@@ -28818,7 +27298,6 @@ Note: The feathered edge of the tread which
 typifies toe wear is best checked by feel.
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_1613cd95` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:14
 
 Weekly checks 0•15
 Battery
@@ -28829,7 +27308,6 @@ vehicle battery, read the precautions given in
 condition, and that the clamp is tight.
 
 ### Corrosion on the tray, retaining clamp and the
-`volkswagen_volkswagen_golf_2_en_602ad8ed` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:15
 
 battery itself can be removed with a solution
 of water and baking soda. Thoroughly rinse all
@@ -28843,7 +27321,6 @@ battery as described in Chapter 5A.
 start your vehicle, see Roadside Repairs.
 
 ### The battery is located on the left-hand
-`volkswagen_volkswagen_golf_2_en_87e26469` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:15
 
 side of the engine compartment. The
 exterior of the battery should be
@@ -28854,7 +27331,6 @@ Check the tightness of battery clamps (A)
 to ensure good electrical connections.
 
 ### You should not be able to move them.
-`volkswagen_volkswagen_golf_2_en_6e070ad5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:15
 
 Also check each cable (B) for cracks and
 frayed conductors.
@@ -28873,7 +27349,6 @@ sell a tool for cleaning the battery post . . .
 4
 
 ### Electrical systems
-`volkswagen_volkswagen_golf_2_en_fefffd92` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:15
 
 4 Check all external lights and the horn.
 Refer to the appropriate Sections of Chapter 12 for details if any of the circuits are
@@ -28883,7 +27358,6 @@ connectors, harnesses and retaining clips for
 security, and for signs of chafing or damage.
 
 ### If you need to check your
-`volkswagen_volkswagen_golf_2_en_3827d689` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:15
 
 brake lights and indicators
 unaided, back up to a wall or
@@ -28895,7 +27369,6 @@ headlight has failed, it is likely that a bulb
 has blown and will need to be replaced.
 
 ### Refer to Chapter 12 for details. If both stop-
-`volkswagen_volkswagen_golf_2_en_5989f111` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:15
 
 lights have failed, it is possible that the switch
 has failed.
@@ -28908,7 +27381,6 @@ a removable cover.
 2
 
 ### To replace a blown fuse, simply pull it out
-`volkswagen_volkswagen_golf_2_en_55d6a3ac` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:15
 
 and fit a new fuse of the correct rating
 (see Chapter 12). If the fuse blows again,
@@ -28921,7 +27393,6 @@ Downloaded from www.Manualslib.com manuals search engine
 0•16 Lubricants and fluids
 
 ### Lubricants and fluids
-`volkswagen_volkswagen_golf_2_en_1601f331` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:16
 
 Component or system
 Lubricant or fluid
@@ -28930,7 +27401,6 @@ Multigrade engine oil to viscosity SAE 15W/50 or 20W/50
 Duckhams QXR, QS, Hypergrade Plus or Hypergrade
 
 ### Cooling system . . . . . . . . . . . . . . . . . . . . . .
-`volkswagen_volkswagen_golf_2_en_29bc897e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:16
 
 Ethylene-glycol based antifreeze with corrosion inhibitors.
 Duckhams Antifreeze & Summer Coolant. Mixture 50% by volume
@@ -28938,7 +27408,6 @@ Manual gearbox  . . . . . . . . . . . . . . . . . . . . .
 Gear oil, viscosity SAE 80
 
 ### Duckhams Hypoid 80 or Hypoid 75W/90S
-`volkswagen_volkswagen_golf_2_en_c6c69e17` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:16
 
 Automatic transmission . . . . . . . . . . . . . .
 Dexron type ATF
@@ -28949,7 +27418,6 @@ Gear oil, viscosity SAE 80
 Duckhams Hypoid 80 or Hypoid 75W/90S
 
 ### Automatic transmission . . . . . . . . . . . . . . . .
-`volkswagen_volkswagen_golf_2_en_ef2b3a7c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:16
 
 Gear oil, viscosity SAE 90EP
 Duckhams Hypoid 90S or Hypoid 75W/90S
@@ -28960,7 +27428,6 @@ Power steering system:
 pre-April 1989  . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Dexron type ATF
-`volkswagen_volkswagen_golf_2_en_0b9d1134` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:16
 
 Duckhams Uni-Matic
 post-April 1989  . . . . . . . . . . . . . . . . . . . . . .
@@ -28972,7 +27439,6 @@ the demand on lubricants to minimise wear as
 well as optimise power and economy.
 
 ### Duckhams tailors lubricants to the highest
-`volkswagen_volkswagen_golf_2_en_15342700` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:16
 
 technical standards, meeting and exceeding
 the demands of all modern engines.
@@ -28987,7 +27453,6 @@ build-up.
 • Cooling hot spots
 
 ### Oil cools parts that the engine’s water-based
-`volkswagen_volkswagen_golf_2_en_e60e4325` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:16
 
 coolant cannot reach, bathing the combustion
 chamber and pistons, where temperatures
@@ -28998,7 +27463,6 @@ over the sump, and via any auxiliary oil cooler.
 • Cleaning the inner engine
 
 ### Oil washes away combustion by-products
-`volkswagen_volkswagen_golf_2_en_854a9766` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:16
 
 (mainly carbon) on pistons and cylinders,
 transporting them to the oil filter, and holding
@@ -29008,7 +27472,6 @@ oils undergo extensive tests in the laboratory,
 and on the road.
 
 ### Engine oil types
-`volkswagen_volkswagen_golf_2_en_e1ca5707` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:16
 
 Mineral oils are the “traditional” oils,
 generally suited to older engines and cars not
@@ -29021,7 +27484,6 @@ Hypergrade Plus and Hypergrade are well
 suited for use in most popular family cars.
 
 ### Diesel oils such as Duckhams Diesel are
-`volkswagen_volkswagen_golf_2_en_cdc793c5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:16
 
 specially formulated for Diesel engines,
 including turbocharged models and 4x4s.
@@ -29031,7 +27493,6 @@ a fairly high price. One such is Duckhams QS,
 for use in ultra-high performance engines.
 
 ### Semi-synthetic oils offer high performance
-`volkswagen_volkswagen_golf_2_en_43c1b37e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:16
 
 engine protection, but at less cost than full
 synthetic oils. Duckhams QXR is an ideal choice
@@ -29042,7 +27503,6 @@ call Duckhams Oils
 on 0181 290 8207
 
 ### Choosing your engine oil
-`volkswagen_volkswagen_golf_2_en_3327db06` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:16
 
 Note: It is
 antisocial and
@@ -29057,7 +27517,6 @@ Downloaded from www.Manualslib.com manuals search engine
 Capacities and tyre pressures 0•17
 
 ### Component or system
-`volkswagen_volkswagen_golf_2_en_1d10a598` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:17
 
 Capacity
 Engine:
@@ -29079,7 +27538,6 @@ Cooling system . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 6.3 litres
 
 ### Manual gearbox:
-`volkswagen_volkswagen_golf_2_en_2d813a49` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:17
 
 084 type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.2 litres
@@ -29094,7 +27552,6 @@ Automatic transmission  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 3.0 litres service drain & fill
 
 ### Final drive:
-`volkswagen_volkswagen_golf_2_en_d626285e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:17
 
 Manual gearbox  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Included in gearbox capacity
@@ -29104,7 +27561,6 @@ Fuel tank . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 55.0 litres
 
 ### Tyre pressures (tyres cold)
-`volkswagen_volkswagen_golf_2_en_3e521778` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:17
 
 Capacities
 Front
@@ -29125,7 +27581,6 @@ Full load  . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.4 bar (35 lbf/in2)
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_faeb148f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:17
 
 0•18
 Notes
@@ -29177,7 +27632,6 @@ Slow running adjustment . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Spark plug renewal  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
 
 ### Steering gear check . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-`volkswagen_volkswagen_golf_2_en_6bcdcc05` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:19
 
 Steering gear check . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
 Sunroof guide rails cleaning and lubrication  . . . . . . . . . . . . . . . . . . . 34
@@ -29188,7 +27642,6 @@ Vehicle underbody check  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1•1
 
 ### Contents
-`volkswagen_volkswagen_golf_2_en_3e01c628` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:19
 
 Easy, suitable for
 novice with little
@@ -29204,7 +27657,6 @@ experienced  DIY
 mechanic
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_6941f4aa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:19
 
 suitable for expert DIY
 or  professional
@@ -29223,7 +27675,6 @@ Engine repair procedures -
 The following information is a revision of, or supplementary to, that contained in Part A of this Chapter
 
 ### General
-`volkswagen_volkswagen_golf_2_en_667c9493` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:20
 
 Code:
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -29236,7 +27687,6 @@ NZ
 2G
 
 ### Cylinder head
-`volkswagen_volkswagen_golf_2_en_30598878` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:20
 
 Minimum dimension after machining (skimming)  . . . . . . . . . . . . . . . . . .
 135.6 mm
@@ -29247,7 +27697,6 @@ Maximum radial play . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 0.10 mm
 
 ### Valves
-`volkswagen_volkswagen_golf_2_en_323893e1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:20
 
 Maximum seat width  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.2 mm
@@ -29258,7 +27707,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 29.0 mm
 
 ### Valve length:
-`volkswagen_volkswagen_golf_2_en_fecfdcbf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:20
 
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 98.9 mm
@@ -29266,7 +27714,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 99.1 mm
 
 ### Hydraulic tappets
-`volkswagen_volkswagen_golf_2_en_64d999ae` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:20
 
 Maximum free travel  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.1 mm
@@ -29277,7 +27724,6 @@ HZ
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 12°ATDC
-`volkswagen_volkswagen_golf_2_en_15822405` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:20
 
 5°ATDC
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -29286,7 +27732,6 @@ Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 25°BBDC
-`volkswagen_volkswagen_golf_2_en_d6cca01a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:20
 
 33°BBDC
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -29316,7 +27761,6 @@ Timing belt and sprockets - removal . . . . . . . . . . . . . . . . . . . . . . 
 6
 
 ### 2B•1
-`volkswagen_volkswagen_golf_2_en_3a011969` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:20
 
 Specifications
 Contents
@@ -29334,7 +27778,6 @@ experienced  DIY
 mechanic
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_55d944fc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:20
 
 suitable for expert DIY
 or  professional
@@ -29357,7 +27800,6 @@ Pump chain drive deflection . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1.5 to 2.5 mm
 
 ### Torque wrench settings
-`volkswagen_volkswagen_golf_2_en_07d2e1c6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:21
 
 Nm
 Ibf ft
@@ -29373,7 +27815,6 @@ Lower bolt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 14.7
 
 ### Camshaft bearing cap nuts:
-`volkswagen_volkswagen_golf_2_en_127fbeea` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:21
 
 Stage 1  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 6
@@ -29381,7 +27822,6 @@ Stage 1  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Stage 2  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Tighten by further 90°
-`volkswagen_volkswagen_golf_2_en_cfe0855a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:21
 
 Number 5 cap screws . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 10
@@ -29396,7 +27836,6 @@ Stage 2  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Stage 3  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Tighten by further 180°
-`volkswagen_volkswagen_golf_2_en_b4ed6f7b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:21
 
 Oil pump bolts  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 20
@@ -29412,7 +27851,6 @@ Socket-headed screws in sump (new)  . . . . . . . . . . . . . . . . . . . . . . 
 5.9
 
 ### Crankshaft sprocket bolt (oiled) - 1986-on:
-`volkswagen_volkswagen_golf_2_en_c347afee` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:21
 
 Stage 1  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 90
@@ -29420,7 +27858,6 @@ Stage 1  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Stage 2  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Tighten by further 180°
-`volkswagen_volkswagen_golf_2_en_ff10269f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:21
 
 Flywheel bolt (with shoulder)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 100
@@ -29434,7 +27871,6 @@ type tappets in place of the previously fitted
 “rocker finger” tappets.
 
 ### The oil pump has also been changed from
-`volkswagen_volkswagen_golf_2_en_bafa1c2d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:21
 
 the previously fitted crescent type to a gear
 type which is driven by chain from the
@@ -29445,7 +27881,6 @@ distributor.
 Unless otherwise given in the following
 
 ### Sections, all servicing procedures are as given
-`volkswagen_volkswagen_golf_2_en_988278a1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:21
 
 in Part A of this Chapter for the pre-August
 1985 1.05 and 1.3 litre engines.
@@ -29472,7 +27907,6 @@ or replace them with screw type clips
 3
 
 ### Camshaft oil seal - renewal 3
-`volkswagen_volkswagen_golf_2_en_52ffdc16` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:21
 
 1 This is a straightforward task if the
 camshaft is removed but it is possible to
@@ -29498,7 +27932,6 @@ home. Push it in as far as it will go.
 3.2  Renewing camshaft oil seal using
 
 ### VW tool 2085
-`volkswagen_volkswagen_golf_2_en_37004694` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:21
 
 Downloaded from www.Manualslib.com manuals search engine
 4
@@ -29546,7 +27979,6 @@ seal.
 5
 
 ### Cylinder head - dismantling
-`volkswagen_volkswagen_golf_2_en_fabff508` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:22
 
 and overhaul
 3
@@ -29569,7 +28001,6 @@ serviceable. Consult your VW dealer for
 advice.
 
 ### Hydraulic bucket tappets
-`volkswagen_volkswagen_golf_2_en_92b6989d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:22
 
 4 With the camshaft removed, lift out the
 tappets one by one, ensuring that they are
@@ -29587,7 +28018,6 @@ liberally with clean engine oil and slip each
 tappet back into its original bore.
 
 ### Valves
-`volkswagen_volkswagen_golf_2_en_1c18bb65` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:22
 
 9 With the camshaft and tappets removed,
 use a valve spring compressor with a deep
@@ -29610,7 +28040,6 @@ are too short.
 16 Refitting is a reversal of removal.
 
 ### Valve stem oil seals
-`volkswagen_volkswagen_golf_2_en_c205bd95` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:22
 
 17 The valve stem oil seals should be
 renewed whenever the valves are removed,
@@ -29628,7 +28057,6 @@ camshaft sprocket
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_60bcacec` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:22
 
 18 With the seals removed, the lower spring
 seats can also be lifted out for cleaning. Press
@@ -29644,7 +28072,6 @@ with the groove in the crankshaft, replacing
 the Woodruff key arrangement described in
 
 ### Part A if this Chapter.
-`volkswagen_volkswagen_golf_2_en_90a0e7bd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:23
 
 When tightening the crankshaft sprocket
 bolt, observe the specified stages.
@@ -29692,7 +28119,6 @@ associated parts at the same time.
 8
 
 ### Camshaft - examination
-`volkswagen_volkswagen_golf_2_en_9554a121` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:23
 
 3
 1 Clean the camshaft in solvent, then inspect
@@ -29705,7 +28131,6 @@ caps.
 measured using the Plastigage method.
 
 ### Compare the results with the specified
-`volkswagen_volkswagen_golf_2_en_3606039c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:23
 
 dimension.
 4 If wear is evident, consult your VW dealer.
@@ -29725,7 +28150,6 @@ specified, consult your VW dealer.
 1
 
 ### Oil pump
-`volkswagen_volkswagen_golf_2_en_f145215c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:23
 
 2
 Chain
@@ -29751,7 +28175,6 @@ damaged, renew it.
 d) Fit a new crankshaft oil seal to the cover.
 
 ### The oil seal can be prised out and a new
-`volkswagen_volkswagen_golf_2_en_bfdcbf93` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:24
 
 one pressed fully home.
 e) The chain is tensioned by moving the
@@ -29785,7 +28208,6 @@ figure specified (see illustration).
 6 Tighten the nuts on caps 1, 3 and 5 to the
 
 ### Stage 1 torque.
-`volkswagen_volkswagen_golf_2_en_c5fe39de` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:24
 
 7 Once all nuts have been tightened to the
 Stage 1 torque, tighten all nuts a further 90°
@@ -29799,7 +28221,6 @@ torque (see illustration).
 compartment, follow the procedure given in
 
 ### Part A of this Chapter, Section 35, paragraphs
-`volkswagen_volkswagen_golf_2_en_fa72fe21` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:24
 
 9 to 18.
 10 Ignore any reference to the oil spray tube
@@ -29827,7 +28248,6 @@ nut
 10.2  Refitting the camshaft
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_c5830da6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:24
 
 3 If they have been removed, refit the oil
 pressure switches, using new copper sealing
@@ -29860,7 +28280,6 @@ head and camshaft sprocket are lined up.
 12 Note that none of the pistons should be at
 
 ### TDC when refitting the cylinder head.
-`volkswagen_volkswagen_golf_2_en_4fdc6fc4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:25
 
 13 Position a new cylinder head gasket on
 the cylinder block (see illustration).
@@ -29884,7 +28303,6 @@ housing
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_e748d43f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:25
 
 guide the cylinder head into position but this
 can be done using suitable sized rods
@@ -29895,7 +28313,6 @@ sequence but use the torque figures and
 stages given in the Specifications of this
 
 ### Chapter.
-`volkswagen_volkswagen_golf_2_en_aa3567b7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:26
 
 16 It is not necessary to retighten the bolts
 after a period of service, as is normally the
@@ -29935,7 +28352,6 @@ under the inlet manifold nut.
 25 With reference to Part A of this Chapter,
 
 ### Section 37, refit the timing belt and covers.
-`volkswagen_volkswagen_golf_2_en_94c1d1bc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:26
 
 26 Refit the throttle cable.
 27 Refit the spark plugs, air cleaner and
@@ -29981,7 +28397,6 @@ connection
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_0705858e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:26
 
 7 Press the tappet down using a wooden or
 plastic wedge (see illustration).
@@ -29992,7 +28407,6 @@ major overhaul
 2
 
 ### If the valve tappets have been renewed, it is
-`volkswagen_volkswagen_golf_2_en_9d6f91c6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:27
 
 essential that no attempt to restart the engine
 is made for a minimum period of 30 minutes
@@ -30004,7 +28418,6 @@ caused by the valves contacting the pistons.
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_7d456e1e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:27
 
 1081 VW Golf & Jeta
 2A
@@ -30015,7 +28428,6 @@ General
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Four-cylinder in-line, water cooled, overhead camshaft
-`volkswagen_volkswagen_golf_2_en_860ad6c2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:28
 
 Code:
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -30026,7 +28438,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1-3-4-2 (No 1 at camshaft sprocket end)
 
 ### Displacement:
-`volkswagen_volkswagen_golf_2_en_7c295196` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:28
 
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1043 cc
@@ -30034,7 +28445,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1272 cc
 
 ### Bore:
-`volkswagen_volkswagen_golf_2_en_8f958765` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:28
 
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 75.0 mm
@@ -30042,7 +28452,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 75.0 mm
 
 ### Stroke:
-`volkswagen_volkswagen_golf_2_en_ee5b0604` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:28
 
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 59.0 mm
@@ -30050,7 +28459,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 72.0 mm
 
 ### Compression ratio:
-`volkswagen_volkswagen_golf_2_en_1f855405` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:28
 
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 9.5 to 1
@@ -30058,7 +28466,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 9.5 to 1
 
 ### Compression pressure:
-`volkswagen_volkswagen_golf_2_en_24ab29f2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:28
 
 New . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 8 to 10 bar
@@ -30107,7 +28514,6 @@ Oil filter - renewal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Oil pump - examination and renovation  . . . . . . . . . . . . . . . . . . . . . . 24
 
 ### Oil pump - refitting . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-`volkswagen_volkswagen_golf_2_en_a9486a02` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:28
 
 Oil pump - refitting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
 Oil pump - removal  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
@@ -30122,7 +28528,6 @@ Timing belt and sprockets - removal . . . . . . . . . . . . . . . . . . . . . . 
 Valve clearances - checking and adjustment  . . . . . . . . . . . . . . . . . . 38
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_c295f3fd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:28
 
 suitable for expert DIY
 or  professional
@@ -30141,7 +28546,6 @@ Undersizes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 53.75, 53.50 and 53.25 mm
 
 ### Crankpin:
-`volkswagen_volkswagen_golf_2_en_98c99513` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Standard diameter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 42 mm
@@ -30149,7 +28553,6 @@ Journal undersizes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 41.75, 41.50 and 41.25 mm
 
 ### Endfloat:
-`volkswagen_volkswagen_golf_2_en_ece09a2a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Maximum  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.20 mm
@@ -30159,7 +28562,6 @@ Main bearing maximum running clearance  . . . . . . . . . . . . . . . . . . . . 
 0.17 mm
 
 ### Connecting rods
-`volkswagen_volkswagen_golf_2_en_6042d971` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Big-end:
 Maximum running clearance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -30168,7 +28570,6 @@ Maximum endfloat  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 0.40 mm
 
 ### Pistons
-`volkswagen_volkswagen_golf_2_en_b5d4bdcf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Clearance in bore:
 Maximum  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -30177,7 +28578,6 @@ Minimum  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.03 mm
 
 ### Diameter:
-`volkswagen_volkswagen_golf_2_en_2865434c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Standard  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 74.98 mm
@@ -30192,7 +28592,6 @@ Wear limit (10 mm from base/ right angles to pin)  . . . . . . . . . . . . . . .
 0.04 mm
 
 ### Piston rings
-`volkswagen_volkswagen_golf_2_en_bbf7b294` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Maximum clearance in groove.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.15 mm
@@ -30203,7 +28602,6 @@ Oil scraper ring  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 0.25 to 0.40 mm
 
 ### Gudgeon pin
-`volkswagen_volkswagen_golf_2_en_eb30eb1f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:29
 
 Fit in piston  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Push fit at 60°C
@@ -30212,7 +28610,6 @@ Maximum allowable face distortion  . . . . . . . . . . . . . . . . . . . . . . .
 0.1 mm
 
 ### Camshaft
-`volkswagen_volkswagen_golf_2_en_8290677e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Run-out at centre bearing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.02 mm
@@ -30220,7 +28617,6 @@ Endfloat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.15 mm
 
 ### Valves
-`volkswagen_volkswagen_golf_2_en_c1a5c54f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:29
 
 Seat angle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 45°
@@ -30231,7 +28627,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 28.1 mm
 
 ### Stem diameter:
-`volkswagen_volkswagen_golf_2_en_d15164fa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 7.97 mm
@@ -30239,7 +28634,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 7.95 mm
 
 ### Standard overall length:
-`volkswagen_volkswagen_golf_2_en_2f38400a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 110.5 mm
@@ -30247,7 +28641,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 110.5 mm
 
 ### Valve guides
-`volkswagen_volkswagen_golf_2_en_5c019bd8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:29
 
 Maximum valve rock (stem flush with guide):
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -30256,7 +28649,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.3 mm
 
 ### Valve timing
-`volkswagen_volkswagen_golf_2_en_98666d7f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:29
 
 Nil valve clearance at 1.0 mm valve lift
 1.05 litre:
@@ -30265,14 +28657,12 @@ Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 13° ABDC
-`volkswagen_volkswagen_golf_2_en_fc49f641` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:29
 
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 15° BBDC
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 11° BTDC
-`volkswagen_volkswagen_golf_2_en_a1c97368` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:29
 
 2A•2 Engine repair procedures - 1.05 and 1.3 litre pre August 1985
 1081 VW Golf & Jeta
@@ -30281,14 +28671,12 @@ Downloaded from www.Manualslib.com manuals search engine
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3° BTDC
-`volkswagen_volkswagen_golf_2_en_58b4eb1e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:30
 
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 38° ABDC
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 41° BBDC
-`volkswagen_volkswagen_golf_2_en_deb3252e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:30
 
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 3° BTDC
@@ -30300,7 +28688,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.25 to 0.30 mm
 
 ### Cold:
-`volkswagen_volkswagen_golf_2_en_0e63835a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:30
 
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.10 to 0.15 mm
@@ -30308,21 +28695,18 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.20 to 0.25 mm
 
 ### Lubrication
-`volkswagen_volkswagen_golf_2_en_a91849b2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:30
 
 System type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Wet sump, pressure feed, full flow filter
 Lubricant type/specification/capacity  . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Refer to “Lubricants, fluids and capacities”
-`volkswagen_volkswagen_golf_2_en_85c7456d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:30
 
 Filter type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion C101/C160
 Pump type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Eccentric gear driven by crankshaft
-`volkswagen_volkswagen_golf_2_en_45803276` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:30
 
 Pressure (2000 rpm with oil temperature 80°C)  . . . . . . . . . . . . . . . . . . .
 2.0 bar minimum
@@ -30355,7 +28739,6 @@ Oil pump bolts  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 7
 
 ### Connecting rod big-end cap nuts (oiled):
-`volkswagen_volkswagen_golf_2_en_965dc505` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:30
 
 Stage 1  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 30
@@ -30363,7 +28746,6 @@ Stage 1  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Stage 2*  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Tighten further 1/4 turn (90°)
-`volkswagen_volkswagen_golf_2_en_7b86ead3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:30
 
 Oil suction pipe to pump  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 10
@@ -30394,7 +28776,6 @@ Distributor flange bolts  . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 15
 
 ### Cylinder head bolts (engine cold):
-`volkswagen_volkswagen_golf_2_en_3fabf566` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:30
 
 Stage 1  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 40
@@ -30405,7 +28786,6 @@ Stage 2  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Stage 3  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Tighten further 1/2 turn (180°)
-`volkswagen_volkswagen_golf_2_en_139466ed` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:30
 
 Engine mountings (with oiled threads):
 Refer to illustrations 40.1a and 40.1b
@@ -30440,7 +28820,6 @@ Engine repair procedures - 1.05 and 1.3 litre pre August 1985  2A•3
 1
 
 ### General information
-`volkswagen_volkswagen_golf_2_en_9028a86f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:30
 
 The 1.05 and 1.3 litre engines are of
 four-cylinder, in-line, overhead camshaft type,
@@ -30449,7 +28828,6 @@ vehicle. The transmission is attached to the
 left-hand side of the engine.
 
 ### The crankshaft is of five bearing type and
-`volkswagen_volkswagen_golf_2_en_581ff43d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:30
 
 separate thrustwashers are fitted to the
 central main bearing to control crankshaft
@@ -30464,7 +28842,6 @@ is driven by the camshaft and is located on the
 left-hand end of the cylinder head.
 
 ### The oil pump is of the eccentric gear type
-`volkswagen_volkswagen_golf_2_en_3fb935a5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:30
 
 driven from the end of the crankshaft.
 The cylinder head is of crossflow design,
@@ -30475,7 +28852,6 @@ positive type and consists of an oil separator
 on the rear (coolant pipe side) of the cylinder
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_a58101c5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:30
 
 block, connected to the air cleaner by a
 rubber hose. Vacuum from the air cleaner
@@ -30486,7 +28862,6 @@ combustion chambers.
 2
 
 ### Major operations possible
-`volkswagen_volkswagen_golf_2_en_81603fb5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:31
 
 with engine in vehicle
 The following operations can be carried out
@@ -30507,7 +28882,6 @@ g) Removal of the oil pump
 3
 
 ### Major operation only
-`volkswagen_volkswagen_golf_2_en_2a93482f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:31
 
 possible after removal of
 engine from vehicle
@@ -30552,7 +28926,6 @@ observe the precautions listed in Chapter 3.
 5
 
 ### Engine - removal
-`volkswagen_volkswagen_golf_2_en_3a221da2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:31
 
 4
 1 Disconnect the battery negative lead.
@@ -30571,7 +28944,6 @@ then disconnect them from the fuel pump (see
 illustration) and fuel reservoir/carburettor.
 
 ### Plug the hoses to prevent fuel leakage.
-`volkswagen_volkswagen_golf_2_en_4cefa277` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:31
 
 8 Loosen the clip and disconnect the bottom
 hose from the coolant pipe at the rear of the
@@ -30627,7 +28999,6 @@ coated with a liquid locking agent and if
 5.14  Earth lead (A) and clutch cable (B)
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_0287dad2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:31
 
 difficulty is experienced, it may be necessary
 to heat up the coupling with a blowlamp whilst
@@ -30682,7 +29053,6 @@ piece of wood placed on the floor.
 6
 
 ### Engine/gearbox - separation 3
-`volkswagen_volkswagen_golf_2_en_e6bb143d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:32
 
 1 The
 engine/gearbox
@@ -30709,7 +29079,6 @@ Engine repair procedures - 1.05 and 1.3 litre pre August 1985  2A•5
 5.28  Lifting out engine/gearbox unit
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_fb780066` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:32
 
 3 Because the rear bearing of the starter
 armature is in the bellhousing, it is necessary
@@ -30737,7 +29106,6 @@ position (see illustrations).
 7
 
 ### Engine dismantling - general
-`volkswagen_volkswagen_golf_2_en_7e9b1b51` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:33
 
 information
 1 If possible, mount the engine on a stand for
@@ -30767,7 +29135,6 @@ available.
 washers in their location after being removed.
 
 ### This helps to protect the threads and will also
-`volkswagen_volkswagen_golf_2_en_ace89c58` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:33
 
 be helpful when reassembling the engine.
 8 Retain unserviceable components in order
@@ -30814,7 +29181,6 @@ from above
 1081 VW Golf & Jeta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_054577fe` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:33
 
 9
 Cylinder head - removal
@@ -30829,7 +29195,6 @@ d) Remove the distributor and spark plugs
 e) Remove the inlet and exhaust manifolds.
 
 ### If necessary, this can be carried out with
-`volkswagen_volkswagen_golf_2_en_a1cf9800` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:34
 
 the cylinder head on the bench
 f) Disconnect the wiring from the coolant
@@ -30890,7 +29255,6 @@ Engine repair procedures - 1.05 and 1.3 litre pre August 1985  2A•7
 9.3b  Crankshaft pulley notch aligned with TDC pointer
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_e54a89ef` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:34
 
 10 Camshaft - removal
 3
@@ -30975,7 +29339,6 @@ cylinder head (see illustration).
 1081 VW Golf & Jeta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_2c716709` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:35
 
 11 Cylinder head - dismantling
 and overhaul
@@ -31002,7 +29365,6 @@ unless they are unserviceable. They are likely
 to be seized in the head.
 
 ### Overhaul
-`volkswagen_volkswagen_golf_2_en_a832f95c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:36
 
 6 Use a scraper to carefully remove any
 carbon from the cylinder head. Remove all
@@ -31038,7 +29400,6 @@ specialist.
 10 Valve grinding is carried out as follows.
 
 ### Place the cylinder head upside down on a
-`volkswagen_volkswagen_golf_2_en_2cf8759c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:36
 
 bench with a block of wood at each end.
 Smear a trace of coarse carborundum paste
@@ -31069,7 +29430,6 @@ valve guide. The rock limit for the inlet valve is
 1.0 mm and 1.3 mm for the exhaust valve.
 
 ### This can be measured with feeler blades if you
-`volkswagen_volkswagen_golf_2_en_3d48d160` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:36
 
 use a clamp as a datum but it must be with a
 new valve. If the rock is at or below this limit
@@ -31089,7 +29449,6 @@ Engine repair procedures - 1.05 and 1.3 litre pre August 1985  2A•9
 between points indicated
 
 ### Minimum allowable depth a = 119.3 mm
-`volkswagen_volkswagen_golf_2_en_b2181cac` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:36
 
 1081 VW Golf & Jeta
 11.2a  Compressing a valve spring to remove split collets
@@ -31155,7 +29514,6 @@ stationary with a lever inserted in the starter
 ring gear (remove the starter as applicable).
 
 ### Remove the Woodruff key.
-`volkswagen_volkswagen_golf_2_en_d96619c9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:37
 
 13 Flywheel - removal
 3
@@ -31172,7 +29530,6 @@ they are removed.
 14 Crankshaft oil seals - renewal 3
 
 ### Front seal
-`volkswagen_volkswagen_golf_2_en_1a434a62` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:37
 
 1 Remove the crankshaft sprocket.
 2 If available, use VW tool 2085 to remove the
@@ -31197,7 +29554,6 @@ metal tube .
 6 Refit the crankshaft sprocket.
 
 ### Rear seal
-`volkswagen_volkswagen_golf_2_en_5e5aa61e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:37
 
 7 Remove the flywheel.
 Method 1
@@ -31211,7 +29567,6 @@ the housing using a suitable metal tube
 11 Refit the flywheel.
 
 ### Method 2
-`volkswagen_volkswagen_golf_2_en_ab6d2b70` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:37
 
 12 Remove the sump.
 13 Unscrew the bolts and withdraw the
@@ -31229,7 +29584,6 @@ stationary
 1081 VW Golf & Jeta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_54e202b3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:37
 
 14 Support the housing and drive out the oil
 seal (see illustration).
@@ -31273,7 +29627,6 @@ sprocket.
 strainer from the oil pump and cylinder block.
 
 ### Remove the flange gasket (see illustration).
-`volkswagen_volkswagen_golf_2_en_f4c3a180` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:38
 
 4 Unscrew the bolts and withdraw the oil
 pump from the dowels on the front of the
@@ -31300,7 +29653,6 @@ seal
 1081 VW Golf & Jeta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_71772a44` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:38
 
 17 Pistons and connecting rods
 - removal
@@ -31377,7 +29729,6 @@ position (see illustration).
 1
 
 ### Refer to Chapter 1, Section 18
-`volkswagen_volkswagen_golf_2_en_b01d922d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:39
 
 20 Examination and renovation
 - general information
@@ -31402,7 +29753,6 @@ numbering
 1081 VW Golf & Jeta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_5544e107` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:39
 
 21 Crankshaft and bearings -
 examination and renovation 5
@@ -31487,7 +29837,6 @@ end gaps are as specified (see illustration).
 that the TOP markings face towards the
 
 ### piston crown and arrange the end gaps at
-`volkswagen_volkswagen_golf_2_en_fb348b34` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:40
 
 piston crown and arrange the end gaps at
 120° intervals (see illustration). Using a feeler
@@ -31499,7 +29848,6 @@ renovation
 3
 
 ### Note: The manufacturer does not supply any
-`volkswagen_volkswagen_golf_2_en_e9daa10c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:40
 
 clearances for checking oil pump gear wear,
 so the pump must be assumed to be in good
@@ -31531,7 +29879,6 @@ clearance
 1081 VW Golf & Jeta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_2c8a368d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:40
 
 4 Clean the components in paraffin and wipe
 dry, then examine them for wear and damage.
@@ -31571,7 +29918,6 @@ renovation
 3
 
 ### Examine the camshaft bearing surfaces,
-`volkswagen_volkswagen_golf_2_en_434b4452` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:41
 
 cam lobes and followers for wear. If wear is
 excessive, renew the camshaft and followers.
@@ -31583,7 +29929,6 @@ specified, renew the shaft (see illustration).
 information
 
 ### To ensure maximum life with minimum
-`volkswagen_volkswagen_golf_2_en_f5d94c87` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:41
 
 trouble from a rebuilt engine, adhere to the
 following:
@@ -31612,7 +29957,6 @@ must face cover
 24.1b  . . . and remove spring and plunger
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_cf14e02b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:41
 
 29 Crankshaft and main
 bearings - refitting
@@ -31708,7 +30052,6 @@ tighten them evenly to the specified torque
 Engine repair procedures - 1.05 and 1.3 litre pre August 1985  2A•15
 
 ### 29.2 Fitting centre main bearing shell
-`volkswagen_volkswagen_golf_2_en_e3496837` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:42
 
 2A
 29.2  Fitting centre main bearing shell
@@ -31723,7 +30066,6 @@ bearings (arrowed)
 1081 VW Golf & Jeta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_c7856dcd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:42
 
 5 Locate a new gasket on the flange face
 then fit the pick-up tube and strainer. Insert
@@ -31757,7 +30099,6 @@ block dowels.
 crankshaft then locate the flywheel in position.
 
 ### Note that the bolt holes only align in one
-`volkswagen_volkswagen_golf_2_en_20c58634` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:43
 
 position as they are offset.
 3 Apply locking fluid to the threads of new
@@ -31783,7 +30124,6 @@ stem, then compress the spring with the
 compressor and insert the split collets.
 
 ### Release the compressor and remove it.
-`volkswagen_volkswagen_golf_2_en_42903496` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:43
 
 6 Refit the camshaft.
 35 Camshaft - refitting
@@ -31804,7 +30144,6 @@ camshaft endfloat is as specified.
 the camshaft followed by the spacer and bolt.
 
 ### Tighten the bolt while holding the sprocket
-`volkswagen_volkswagen_golf_2_en_57e2903d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:43
 
 stationary with a metal bar and two bolts (see
 illustration).
@@ -31831,7 +30170,6 @@ ball-stud
 1081 VW Golf & Jeta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_9733c761` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:43
 
 8 Adjust the valve clearances.
 9 Turn the camshaft so that the indentation in
@@ -31916,7 +30254,6 @@ the earth lead and dipstick tube bracket and
 tighten the bolts.
 
 ### 17 Refit the valve cover with a new gasket,
-`volkswagen_volkswagen_golf_2_en_3e18cc1d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:44
 
 17 Refit the valve cover with a new gasket,
 locate the reinforcement strips and tighten the
@@ -31937,7 +30274,6 @@ timing belt
 1081 VW Golf & Jeta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_7823b754` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:44
 
 37 Timing belt and sprockets -
 refitting
@@ -31951,7 +30287,6 @@ with a lever in the starter ring gear.
 the sprocket followed by the spacer and bolt.
 
 ### Tighten the bolt while holding the sprocket
-`volkswagen_volkswagen_golf_2_en_d78f609e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:45
 
 stationary with a metal bar and two bolts.
 4 Locate the timing belt on the crankshaft
@@ -31987,7 +30322,6 @@ adjusted with the cylinder head removed
 normal manner described in Section 12 of
 
 ### Chapter 1.
-`volkswagen_volkswagen_golf_2_en_e9adc6e5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:45
 
 2 There are two specified valve clearance
 settings, these being for a cold (cylinder head
@@ -32002,7 +30336,6 @@ and gearbox - refitting
 3
 
 ### Refer to Section 8 and refit the listed
-`volkswagen_volkswagen_golf_2_en_1e2a91e2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:45
 
 ancillary components.
 Refit the gearbox to the engine, reversing
@@ -32066,7 +30399,6 @@ see Specifications for torque settings
 see Specifications for torque settings
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_660da97b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:45
 
 1•2 Servicing specifications
 1081 VW Golf & Jetta
@@ -32076,7 +30408,6 @@ Engine
 Oil filter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion C101/C160
-`volkswagen_volkswagen_golf_2_en_05b00214` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 Valve clearances
 1.05 and 1.3 litre engines - pre August 1985:
@@ -32087,7 +30418,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.25 to 0.30 mm
 
 ### Cold:
-`volkswagen_volkswagen_golf_2_en_dede17b7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:46
 
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.10 to 0.15 mm
@@ -32095,7 +30425,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.20 to 0.25 mm
 
 ### Hydraulic tappet free travel
-`volkswagen_volkswagen_golf_2_en_bfc49ef9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:46
 
 1.05 and 1.3 litre - post August 1985, 1.6 and 1.8 litre (Maximum travel)  . .
 0.1 mm
@@ -32104,7 +30433,6 @@ Antifreeze mixture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 50 % antifreeze (by volume) with water
 
 ### Air conditioning system
-`volkswagen_volkswagen_golf_2_en_f439dd90` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 Compressor drivebelt tension  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 5.0 to 10.0 mm deflection on longest run
@@ -32114,14 +30442,12 @@ Carburettor engines:
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion W101
-`volkswagen_volkswagen_golf_2_en_53052d7e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:46
 
 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion W102
 1.6 and 1.8 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion U508
-`volkswagen_volkswagen_golf_2_en_0a47bc28` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 Fuel-injected engines:
 K-Jetronic on 16 valve engine:
@@ -32131,14 +30457,12 @@ All other systems:
 1.8 litre Golf . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion U506
-`volkswagen_volkswagen_golf_2_en_d467c903` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 1.8 litre Jetta  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion U502
 1.8 litre GTi ( engine code RP)  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion U572
-`volkswagen_volkswagen_golf_2_en_37c107ee` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 Fuel filter element types
 Carburettor engines (all models) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -32148,7 +30472,6 @@ K-Jetronic on 16 valve engine:
 1.8 litre Golf . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion L203
-`volkswagen_volkswagen_golf_2_en_e4d05ec7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 1.8 litre Jetta  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion L206
@@ -32156,7 +30479,6 @@ All other systems:
 1.8 litre GTi ( engine code RP)  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion L206
-`volkswagen_volkswagen_golf_2_en_1e961c57` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 All other models  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion L204*
@@ -32180,7 +30502,6 @@ Pierburg/Solex 2E2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 900 to 1000 rpm
 
 ### K-Jetronic fuel-injected engine:
-`volkswagen_volkswagen_golf_2_en_0b6d1679` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 8 valve:
 Pre Sept. 1984  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -32195,7 +30516,6 @@ Mono Jetronic fuel-injected engine  . . . . . . . . . . . . . . . . . . . . . . 
 750 to 950 rpm (not adjustable)
 
 ### Digijet fuel-injected engine:
-`volkswagen_volkswagen_golf_2_en_5f1ff039` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 Up to July 1989 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 750 to 850 rpm
@@ -32205,7 +30525,6 @@ Digifant fuel-injected engine . . . . . . . . . . . . . . . . . . . . . . . . . 
 750 to 850 rpm
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_2beffce4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:46
 
 CO content (%)
 1.05 litre carburettor engines:
@@ -32228,7 +30547,6 @@ Mono Jetronic fuel-injected engine  . . . . . . . . . . . . . . . . . . . . . . 
 0.2 to 1.2
 
 ### Digijet fuel-injected engine:
-`volkswagen_volkswagen_golf_2_en_105c91bb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:47
 
 Up to July 1989 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.3 to 1.1
@@ -32238,7 +30556,6 @@ Digifant fuel-injected engine . . . . . . . . . . . . . . . . . . . . . . . . . 
 0.5 to 1.5
 
 ### Ignition system
-`volkswagen_volkswagen_golf_2_en_cc13dc19` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:47
 
 Firing order (all engines)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1-3-4-2 (No. 1 cylinder at crankshaft pulley end)
@@ -32246,7 +30563,6 @@ Contact breaker system
 Spark plugs*:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Type
-`volkswagen_volkswagen_golf_2_en_73c5e564` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:47
 
 Electrode gap
 1.05, 1.3, 1.6 and 1.8 litre (pre July 1985) . . . . . . . . . . . . . . . . . . . . . .
@@ -32256,14 +30572,12 @@ Champion N7YCC or N7YC
 recommendations
 
 ### HT lead type:
-`volkswagen_volkswagen_golf_2_en_df3a468d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:47
 
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion LS-05 boxed set
 1.3, 1.6 and 1.8 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion LS-07 boxed set
-`volkswagen_volkswagen_golf_2_en_f5f9687d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:47
 
 Distributor:
 Contact breaker gap (initial setting only)  . . . . . . . . . . . . . . . . . . . . . .
@@ -32275,7 +30589,6 @@ Wear limit  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 42 to 58° (47 to 64%)
 
 ### Ignition timing (at idle):
-`volkswagen_volkswagen_golf_2_en_55b083d8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:47
 
 1.05 and 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 4 to 6° BTDC
@@ -32285,7 +30598,6 @@ Wear limit  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 5 to 7° BTDC
 
 ### Transistorised system
-`volkswagen_volkswagen_golf_2_en_2dadde71` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:47
 
 Spark plugs*:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Type
@@ -32294,7 +30606,6 @@ pre Sept. 1985:
 1.05, 1.3, 1.6, 1.8 litre (pre July 1985) . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion N7YCC or N7YC
-`volkswagen_volkswagen_golf_2_en_3bd773f5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:47
 
 0.8 mm or 0.7 mm
 from Sept. 1985:
@@ -32305,7 +30616,6 @@ Champion N7BYC or N7YCC
 Coil with green sticker . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion N9BYC4 or N9YCC
-`volkswagen_volkswagen_golf_2_en_5cd6e0ab` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:47
 
 1.0 mm
 Coil with grey sticker . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -32315,7 +30625,6 @@ Champion N9YCC
 Except 16V  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion N7BYC or N7YCC
-`volkswagen_volkswagen_golf_2_en_2c03672e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:47
 
 0.8 mm
 16V  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -32325,14 +30634,12 @@ Champion C6BYC or C6YCC
 recommendations
 
 ### HT lead type:
-`volkswagen_volkswagen_golf_2_en_726e5af7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:47
 
 1.05 litre.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion LS-05 boxed set
 1.3, 1.6 and 1.8 litre.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion LS-07 boxed set
-`volkswagen_volkswagen_golf_2_en_b70f3238` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:47
 
 Distributor:
 Dwell angle (1.05,1.3 and 1.6 litre):
@@ -32342,7 +30649,6 @@ Wear limit  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 42 to 58° (47 to 64%)
 
 ### Ignition timing:
-`volkswagen_volkswagen_golf_2_en_24f3d2c8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:47
 
 1.3 litre (code NZ) - TCI-H  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 4 to 6° BTDC at 750 to 850 rpm, with vacuum hose disconnected
@@ -32357,7 +30663,6 @@ Code RP - TCI-H . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 5 to 7° BTDC at 950 rpm, with vacuum hose disconnected
 
 ### Fully electronic system
-`volkswagen_volkswagen_golf_2_en_3c428ac8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:47
 
 All Specifications as for Transistorised System except for:
 Ignition timing:
@@ -32365,7 +30670,6 @@ Ignition timing:
 5 to 7° BTDC at 950 to 1050 rpm, with vacuum hose connected
 
 ### Servicing specifications 1•3
-`volkswagen_volkswagen_golf_2_en_3758e584` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:47
 
 1
 1081 VW Golf & Jetta
@@ -32381,7 +30685,6 @@ Models after early 1985 fitted with rack type adjustment link  . . . . . . . .
 8 to 10 Nm (6 to 7 Ibf ft) torque loading on adjuster bolt
 
 ### Clutch
-`volkswagen_volkswagen_golf_2_en_eec4b454` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:48
 
 Free play at clutch pedal  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 15 to 20 mm
@@ -32397,7 +30700,6 @@ New - excluding backplate:
 10.0 mm
 
 ### Minimum - including backplate:
-`volkswagen_volkswagen_golf_2_en_24a90c3a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:48
 
 All models  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 7.0 mm
@@ -32408,7 +30710,6 @@ Minimum - including backplate  . . . . . . . . . . . . . . . . . . . . . . . . .
 7.0 mm
 
 ### Shoe lining thickness
-`volkswagen_volkswagen_golf_2_en_685a3879` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:48
 
 Rear drum brakes:
 Minimum - including shoe  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -32417,7 +30718,6 @@ Minimum - excluding shoe .  . . . . . . . . . . . . . . . . . . . . . . . . . . 
 2.5 mm
 
 ### Steering
-`volkswagen_volkswagen_golf_2_en_ed402f5d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:48
 
 Power steering pump drivebelt tension  . . . . . . . . . . . . . . . . . . . . . . . . .
 10.0 mm deflection under firm finger pressure at point midway
@@ -32425,7 +30725,6 @@ between pump and crankshaft pulleys
 Tyre pressures
 
 ### Refer to the end of “Weekly checks”
-`volkswagen_volkswagen_golf_2_en_1adc1e10` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:48
 
 Torque wrench settings
 Nm
@@ -32439,7 +30738,6 @@ Valve cover  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 7
 
 ### Ignition system
-`volkswagen_volkswagen_golf_2_en_dc8e6841` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:48
 
 Contact breaker system:
 Spark plugs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -32454,7 +30752,6 @@ Distributor clamp bolt:
 18
 
 ### Transistorised and fully electronic systems:
-`volkswagen_volkswagen_golf_2_en_b9290943` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:48
 
 Spark plugs:
 1.05 and 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -32465,7 +30762,6 @@ Spark plugs:
 15
 
 ### Charging system
-`volkswagen_volkswagen_golf_2_en_6b6fc0e7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:48
 
 Alternator mounting/pivot bolt  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 45
@@ -32475,7 +30771,6 @@ Alternator adjuster link bolts . . . . . . . . . . . . . . . . . . . . . . . . .
 18
 
 ### Manual gearbox
-`volkswagen_volkswagen_golf_2_en_1fb8ec16` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:48
 
 Oil filler plug  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 25
@@ -32485,7 +30780,6 @@ Oil drain plug  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 18
 
 ### Automatic transmission
-`volkswagen_volkswagen_golf_2_en_2346437e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:48
 
 Oil pan bolts  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 20
@@ -32495,7 +30789,6 @@ Oil strainer (filter) cover bolts  . . . . . . . . . . . . . . . . . . . . . . .
 2
 
 ### Steering
-`volkswagen_volkswagen_golf_2_en_b60cd73d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:48
 
 Power steering pump/swivel bracket bolts  . . . . . . . . . . . . . . . . . . . . . .
 20
@@ -32509,7 +30802,6 @@ Roadwheel bolts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 81
 
 ### Body fittings
-`volkswagen_volkswagen_golf_2_en_a409c05e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:48
 
 Seat belt anchor bolts  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 40
@@ -32519,7 +30811,6 @@ Seat belt anchor bolts  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Downloaded from www.Manualslib.com manuals search engine
 
 ### The maintenance intervals in this Manual
-`volkswagen_volkswagen_golf_2_en_f761ca01` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:49
 
 are provided with the assumption that you will
 be carrying out the work yourself. These are
@@ -32541,7 +30832,6 @@ efficiency, performance and resale value of
 your vehicle.
 
 ### If the vehicle is driven in dusty areas, used
-`volkswagen_volkswagen_golf_2_en_88674377` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:49
 
 to tow a trailer, or driven frequently at slow
 speeds (idling in traffic) or on short journeys,
@@ -32553,7 +30843,6 @@ service department, in order to preserve the
 factory warranty.
 
 ### Maintenance schedule 1•5
-`volkswagen_volkswagen_golf_2_en_c37d4a71` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:49
 
 1
 1081 VW Golf & Jetta
@@ -32566,7 +30855,6 @@ m Renew automatic transmission and final drive fluid
 (Section 35)
 
 ### Every 2 years
-`volkswagen_volkswagen_golf_2_en_0ef1a54b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:49
 
 m Renew brake fluid (Section 36)
 Every 40 000 miles (60 000 km)
@@ -32598,7 +30886,6 @@ m Lubricate hinges and catches (Section 30)
 m Check vehicle underbody (Section 31)
 
 ### Every 5000 miles (7500 km)
-`volkswagen_volkswagen_golf_2_en_e0cf0b70` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:49
 
 or 6 months
 m Check contact breaker points (Section 11)
@@ -32618,7 +30905,6 @@ m Check operation of lights, direction indicators and
 horns (Section 10)
 
 ### Every 250 miles (400 km) or weekly
-`volkswagen_volkswagen_golf_2_en_3e1ed107` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:49
 
 m see “Weekly checks”
 Vehicles manufactured before August 1985
@@ -32629,7 +30915,6 @@ Every 250 miles (400 km) or weekly
 m See “Weekly checks”
 
 ### Every 10 000 miles (15 000 km) - if
-`volkswagen_volkswagen_golf_2_en_d8d31698` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:50
 
 completing more than 10 000 miles
 (15 000 km) per annum
@@ -32651,7 +30936,6 @@ m Check operation of lights, direction indicators and
 horns (Section 10)
 
 ### Every 20 000 miles (30 000 km)
-`volkswagen_volkswagen_golf_2_en_1a89d774` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:50
 
 m Check alternator, power steering pump and air
 conditioner compressor drivebelt(s) adjustment and
@@ -32664,7 +30948,6 @@ m Renew automatic transmission and final drive fluid
 (Section 35)
 
 ### Every 12 months
-`volkswagen_volkswagen_golf_2_en_dbd55152` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:50
 
 m Check antifreeze concentration (Section 14)
 m Renew engine oil and filter (Section 18)
@@ -32685,7 +30968,6 @@ m Lubricate hinges and catches (Section 30)
 m Check vehicle underbody (Section 31)
 
 ### Every 2 years
-`volkswagen_volkswagen_golf_2_en_01552458` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:50
 
 m Renew brake fluid (Section 36)
 Every 40 000 miles (160 000 km)
@@ -32697,7 +30979,6 @@ Maintenance - component location  1•7
 1081 VW Golf & Jetta
 
 ### Underbonnet view – 1.3 litre model (air cleaner removed)
-`volkswagen_volkswagen_golf_2_en_5724a87a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:51
 
 1 Engine oil dipstick
 2 Fuel line filter
@@ -32715,7 +30996,6 @@ washer reservoir
 11Engine oil filler cap
 
 ### Underbonnet view – fuel injection model
-`volkswagen_volkswagen_golf_2_en_1c4e427e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:51
 
 1 Engine oil dipstick
 2 Compressor (air
@@ -32737,7 +31017,6 @@ washer reservoir
 14Ignition distributor
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_2d9479aa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:51
 
 1•8 Maintenance - component location
 1081 VW Golf & Jetta
@@ -32755,7 +31034,6 @@ hose
 10Engine sump
 
 ### Front underbody view - fuel injected model
-`volkswagen_volkswagen_golf_2_en_fdc5e45a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:52
 
 1 Driveshaft
 2 Front mounting
@@ -32772,7 +31050,6 @@ Maintenance - component location  1•9
 1081 VW Golf & Jetta
 
 ### Rear underbody view - 1.3 litre model
-`volkswagen_volkswagen_golf_2_en_0134a0a5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:53
 
 1 Exhaust
 2 Fuel tank
@@ -32794,7 +31071,6 @@ fittings
 7 Rear disc brake
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_3785214b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:53
 
 1
 Introduction
@@ -32811,7 +31087,6 @@ dealing specifically with each task in the
 schedule.
 
 ### Visual
-`volkswagen_volkswagen_golf_2_en_1008f330` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:54
 
 checks,
 adjustments,
@@ -32822,7 +31097,6 @@ the underside of the vehicle for the locations
 of the various components.
 
 ### Servicing your vehicle in accordance with
-`volkswagen_volkswagen_golf_2_en_3266e907` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:54
 
 the mileage/time maintenance schedule and
 the following Sections will provide a planned
@@ -32833,7 +31107,6 @@ items but not others at the specified service
 intervals, will not produce the same results.
 
 ### As you service your vehicle, you will
-`volkswagen_volkswagen_golf_2_en_46e57918` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:54
 
 discover that many of the procedures can -
 and should - be grouped together, because of
@@ -32846,7 +31119,6 @@ at the same time as the suspension and
 steering components.
 
 ### The first step in this maintenance
-`volkswagen_volkswagen_golf_2_en_73035357` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:54
 
 programme is to prepare yourself before the
 actual work begins. Read through all the
@@ -32858,7 +31130,6 @@ specialist, or a dealer service department.
 2
 
 ### Intensive maintenance
-`volkswagen_volkswagen_golf_2_en_d1bec7fc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:54
 
 1 If, from the time the vehicle is new, the
 routine maintenance schedule is followed
@@ -32902,7 +31173,6 @@ performance of a generally poor-running
 engine:
 
 ### Primary operations
-`volkswagen_volkswagen_golf_2_en_a28e214f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:54
 
 a) Clean, inspect and test the battery
 b) Check all the engine-related fluids
@@ -32923,7 +31193,6 @@ effective, carry out the following secondary
 operations:
 
 ### Secondary operations
-`volkswagen_volkswagen_golf_2_en_4cac792a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:54
 
 a) Check the charging system
 b) Check the ignition system
@@ -32937,7 +31206,6 @@ mechanism check
 1
 
 ### Check the security and operation of all
-`volkswagen_volkswagen_golf_2_en_4dc22df9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:54
 
 hinges, latches and locks.
 Check the condition and operation of the
@@ -32952,7 +31220,6 @@ fraying, cuts or other damage, pulling the belt
 out to its full extent to check its entire length.
 
 ### Check the operation of the buckles by fitting
-`volkswagen_volkswagen_golf_2_en_546507dd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:54
 
 the belt tongue plate and pulling hard to ensure
 that it remains locked, then check the retractor
@@ -32969,7 +31236,6 @@ free to rotate.
 about a belt’s condition, it must be renewed.
 
 ### If the vehicle has been involved in a collision
-`volkswagen_volkswagen_golf_2_en_88f4cdef` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:54
 
 any belts in use at the time must be renewed
 as a matter of course and all other belts
@@ -32983,7 +31249,6 @@ dry them.
 5
 
 ### Brake check
-`volkswagen_volkswagen_golf_2_en_2fbb288e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:54
 
 1
 1 Make sure that the vehicle does not pull to
@@ -33007,7 +31272,6 @@ illustration).
 1081 VW Golf & Jetta
 
 ### Every 1000 miles (1500 km) or monthly
-`volkswagen_volkswagen_golf_2_en_ed287ea1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:54
 
 Downloaded from www.Manualslib.com manuals search engine
 6
@@ -33038,7 +31302,6 @@ hose clips are used, it may be a good idea to
 replace them with screw-type clips (see
 
 ### Haynes Hint).
-`volkswagen_volkswagen_golf_2_en_707e684c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:55
 
 3 Check the condition of all exposed wiring
 harnesses. Ensure that all cable-ties are in
@@ -33055,7 +31318,6 @@ by wiping along their length with a fuelmoistened cloth. Inspect each lead for
 damage and renew if defective in any way.
 
 ### Ensure that all lead connections are secure
-`volkswagen_volkswagen_golf_2_en_bc08c286` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:55
 
 and where applicable, protected (see
 illustration).
@@ -33079,7 +31341,6 @@ found.
 neck for punctures, cracks and other damage.
 
 ### Sometimes a rubber filler neck or connecting
-`volkswagen_volkswagen_golf_2_en_e7b2089c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:55
 
 hose will leak due to loose retaining clamps or
 deteriorated rubber.
@@ -33098,7 +31359,6 @@ seen through the battery’s translucent case
 and must be between the MINIMUM and
 
 ### MAXIMUM level marks. Although it should not
-`volkswagen_volkswagen_golf_2_en_91dc3442` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:55
 
 alter in normal use, if the level has lowered (for
 example, due to electrolyte having boiled
@@ -33113,7 +31373,6 @@ covered. On some batteries the case is
 translucent and incorporates MINIMUM and
 
 ### MAXIMUM level marks. The check should be
-`volkswagen_volkswagen_golf_2_en_67d2f024` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:55
 
 made more often if the vehicle is operated in
 high ambient temperature conditions.
@@ -33125,7 +31384,6 @@ check
 1
 
 ### During winter months, operate the air
-`volkswagen_volkswagen_golf_2_en_25bfcb3b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:55
 
 conditioner for a few minutes each week to
 keep the system in good order.
@@ -33138,7 +31396,6 @@ condenser fins.
 9
 
 ### Fuel system control linkage
-`volkswagen_volkswagen_golf_2_en_20988a89` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:55
 
 check
 1
@@ -33152,7 +31409,6 @@ horn check
 1
 
 ### Check that the horn and all vehicle lights
-`volkswagen_volkswagen_golf_2_en_e0a6cbf1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:55
 
 are functioning correctly. Renew any defective
 bulbs.
@@ -33168,7 +31424,6 @@ distilled or de-ionised water
 1081 VW Golf & Jetta
 
 ### A leak in the cooling system will usually
-`volkswagen_volkswagen_golf_2_en_f6155bbe` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:55
 
 show up as white or rust coloured
 deposits on the area adjoining the leak
@@ -33179,7 +31434,6 @@ and/or alternator will have to be
 checked.
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_c2c2a973` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:55
 
 11 Contact breaker point check 2
 1 Disconnect the LT lead from the terminal
@@ -33223,7 +31477,6 @@ timing belt end of the engine are in the
 following order:
 
 ### Inlet - Exhaust - Inlet - Exhaust - Inlet -
-`volkswagen_volkswagen_golf_2_en_71002945` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:56
 
 Exhaust - Inlet - Exhaust
 5 Repeat the procedure given in paragraphs
@@ -33236,7 +31489,6 @@ gasket.
 1.6 and 1.8 litre 8 valve engines
 
 ### Note: Ideally VW tools 2078 and 10.208
-`volkswagen_volkswagen_golf_2_en_6392837c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:56
 
 should be used to remove the valve shims, but
 alternatives can be used (see Tool Tip)
@@ -33270,7 +31522,6 @@ through window in bearing plate (arrowed)
 1081 VW Golf & Jetta
 
 ### Every 5000 miles (7500 km) or 6 months
-`volkswagen_volkswagen_golf_2_en_995eae41` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:56
 
 Every 10 000 miles (15 000 km) or 12 months
 Ideally VW tools 2078 and 10.208 should
@@ -33283,7 +31534,6 @@ without pushing the tappet shim (ie
 pushing the rim down).
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_301e00cf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:56
 
 9 The engine will turn over more easily if the
 spark plugs are removed. Do not rotate the
@@ -33301,7 +31551,6 @@ with those specified (“Warm” clearance).
 then calculate the error from those specified.
 
 ### Suppose on No 1 exhaust valve, the measured
-`volkswagen_volkswagen_golf_2_en_19208cfb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:57
 
 clearance is 0.15 mm. It is 0.3 mm too small so
 it must be adjusted and a shim 0.3 mm thinner
@@ -33319,7 +31568,6 @@ the valve springs while the shim is levered out
 and removed by the VW tool or a screwdriver.
 
 ### Be careful, because if the spanner slips when
-`volkswagen_volkswagen_golf_2_en_8b5ddff0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:57
 
 the shim is halfway out, the shim will fly out
 sharply (see illustration).
@@ -33350,7 +31598,6 @@ for separation of the belt plies. Renew the belt
 if worn or damaged.
 
 ### Alternator
-`volkswagen_volkswagen_golf_2_en_270f44d8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:57
 
 Pre 1985
 2 Depress the alternator drivebelt firmly with
@@ -33361,7 +31608,6 @@ should deflect approximately 5.0 mm.
 adjustment should give a deflection of 2.0 mm.
 
 ### After a suitable running in period of about 500
-`volkswagen_volkswagen_golf_2_en_f12398c5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:57
 
 miles (750 km), belt adjustment should be
 rechecked and adjusted to deflect 5.0 mm.
@@ -33375,7 +31621,6 @@ tensioned correctly.
 drivebelt adjustment.
 
 ### From 1985
-`volkswagen_volkswagen_golf_2_en_778f9afb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:57
 
 6 From early 1985, some models are fitted
 with a rack type alternator adjustment link
@@ -33403,7 +31648,6 @@ alternator does not move.
 pivot bolt.
 
 ### Power steering pump
-`volkswagen_volkswagen_golf_2_en_3e9fe1ab` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:57
 
 10 Loosen the power steering pump unit
 retaining nuts and bolts and the adjuster bolt
@@ -33417,7 +31661,6 @@ adjusting bolt locknut and the pump retaining
 nuts and bolts.
 
 ### Air conditioner compressor
-`volkswagen_volkswagen_golf_2_en_546be6cb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:57
 
 13 Drivebelt tension is adjusted by adding or
 subtracting shims from between the halves of
@@ -33427,7 +31670,6 @@ give a deflection of 5 to 10 mm on its longest
 run.
 
 ### Every 10 000 miles or 12 months 1•13
-`volkswagen_volkswagen_golf_2_en_32c4b6ad` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:57
 
 1
 12.12  Removing a tappet bucket shim -
@@ -33443,7 +31685,6 @@ adjustment bolt (C)
 1081 VW Golf & Jetta
 
 ### Always recheck the tension
-`volkswagen_volkswagen_golf_2_en_a05b3596` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:57
 
 of a new drivebelt after the
 engine has been run for ten
@@ -33456,7 +31697,6 @@ Warning: Wait until the engine is
 cold before checking antifreeze.
 
 ### Do not allow antifreeze to come
-`volkswagen_volkswagen_golf_2_en_dc3d9a32` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:58
 
 in contact with your skin or
 painted surfaces of the vehicle. Rinse off
@@ -33467,7 +31707,6 @@ driveway or on the garage floor. Children
 and pets are attracted by its sweet smell.
 
 ### Antifreeze is fatal if ingested.
-`volkswagen_volkswagen_golf_2_en_9259f986` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:58
 
 1 The concentration of antifreeze in the
 cooling system should be checked and made
@@ -33492,7 +31731,6 @@ redundant, it is still necessary to use a
 corrosion inhibitor in the cooling system.
 
 ### Suitable inhibitors should be available from a
-`volkswagen_volkswagen_golf_2_en_99dd870b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:58
 
 local VW agent or other reputable specialist.
 15 Spark plug renewal
@@ -33503,7 +31741,6 @@ plugs. This modified coil is identified by a grey
 (rather than green) sticker. Refer to the
 
 ### Servicing Specifications at the start of this
-`volkswagen_volkswagen_golf_2_en_3300abee` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:58
 
 Chapter for the recommended plug types. It is
 not permissible to use new plugs with an old
@@ -33528,7 +31765,6 @@ preferably with a rubber insert to grip the plug.
 each spark plug to the specified torque (see
 
 ### Haynes Hint).
-`volkswagen_volkswagen_golf_2_en_a9b0ea62` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:58
 
 16 Contact breaker point
 renewal and adjustment
@@ -33564,7 +31800,6 @@ screws (where applicable).
 follows.
 
 ### Adjustment
-`volkswagen_volkswagen_golf_2_en_ebe0b39c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:58
 
 9 Turn the engine with a spanner on the
 crankshaft pulley bolt until the moving contact
@@ -33600,7 +31835,6 @@ gap
 1081 VW Golf & Jetta
 
 ### It is very often difficult to insert spark
-`volkswagen_volkswagen_golf_2_en_9454181e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:58
 
 plugs into their holes without crossthreading them. To avoid this poss-
 ibility, fit a short length of 5/16 inch
@@ -33614,7 +31848,6 @@ thread damage to the aluminium
 cylinder head.
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_99d5bdec` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:58
 
 13 Wipe clean the distributor cap and make
 sure that the carbon brush moves freely
@@ -33637,7 +31870,6 @@ ignition timing.
 3
 
 ### Contact breaker system
-`volkswagen_volkswagen_golf_2_en_4ce71a1b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:59
 
 Note: Accurate ignition timing is only possible
 using a stroboscopic timing light, although on
@@ -33648,7 +31880,6 @@ instant read-out. However, this tester will not
 normally be available to the home mechanic.
 
 ### For initial setting-up purposes, the test bulb
-`volkswagen_volkswagen_golf_2_en_ac86ff49` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:59
 
 method can be used but this must always be
 followed by the stroboscopic timing light
@@ -33665,7 +31896,6 @@ the
 crankshaft pulley end) until pressure is felt in
 
 ### No. 1 cylinder, indicating that the piston is
-`volkswagen_volkswagen_golf_2_en_44722bec` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:59
 
 commencing its compression stroke. Use a
 spanner on the crankshaft pulley bolt, or
@@ -33684,7 +31914,6 @@ lead location in the cap.
 5 Connect a 12 volt test bulb between the coil
 
 ### LT negative terminal and a suitable earthing
-`volkswagen_volkswagen_golf_2_en_1db41f6a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:59
 
 point on the engine.
 6 Loosen the distributor clamp retaining bolt.
@@ -33702,7 +31931,6 @@ plug and HT lead. Once the engine has been
 started, check the timing stroboscopically.
 
 ### Stroboscopic timing light method
-`volkswagen_volkswagen_golf_2_en_ed42d183` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:59
 
 11 Run the engine until its normal operating
 temperature is reached.
@@ -33717,7 +31945,6 @@ the top of the gearbox.
 with the manufacturer’s instructions.
 
 ### Every 10 000 miles or 12 months 1•15
-`volkswagen_volkswagen_golf_2_en_426ac694` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:59
 
 1
 17.3a  Crankshaft pulley mark (A) timing
@@ -33734,7 +31961,6 @@ distributor body – 1.6 and 1.8 litre
 when adjusting contact breaker points gap
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_94adfb6b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:59
 
 15 Connect a tachometer in accordance with
 the manufacturer’s instructions.
@@ -33766,7 +31992,6 @@ light and tachometer, and refit the vacuum
 hose (where applicable).
 
 ### Transistorised systems
-`volkswagen_volkswagen_golf_2_en_931b4582` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:60
 
 Note: Accurate ignition timing is only possible
 using a stroboscopic timing light, although on
@@ -33777,7 +32002,6 @@ instant read-out. However, this tester will not
 normally be available to the home mechanic
 
 ### TCI-H
-`volkswagen_volkswagen_golf_2_en_b1a45434` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:60
 
 21 Run the engine until its normal operating
 temperature is reached.
@@ -33820,7 +32044,6 @@ light and tachometer, and refit the vacuum
 hose (where applicable).
 
 ### Digifant
-`volkswagen_volkswagen_golf_2_en_1efbb7c8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:60
 
 31 Run the engine to normal operating
 temperature, then switch off the ignition.
@@ -33847,7 +32070,6 @@ disconnected, increase the engine speed to
 2300 rpm and note the exact ignition timing.
 
 ### Hold the engine speed at 2300 rpm, then
-`volkswagen_volkswagen_golf_2_en_322d5709` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:60
 
 reconnect the wiring and check that the
 ignition timing advances by 30° ± 3° from the
@@ -33865,7 +32087,6 @@ control unit if there is no open-circuit.
 18 Engine oil and filter renewal 2
 
 ### Oil renewal
-`volkswagen_volkswagen_golf_2_en_22726119` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:60
 
 1 Before starting this procedure, gather
 together all necessary tools and materials.
@@ -33896,7 +32117,6 @@ wire
 17.17  Ignition timing marks
 
 ### A 1.05 and 1.3 litre
-`volkswagen_volkswagen_golf_2_en_da4b2eeb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:60
 
 B 1.6 and 1.8 litre (carburettor models)
 C 1.8 litre (fuel injection models)
@@ -33932,7 +32152,6 @@ dipstick and add more oil as necessary.
 10 Dispose of the used engine oil safely.
 
 ### Filter renewal
-`volkswagen_volkswagen_golf_2_en_d00813c1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:61
 
 11 On 1.05 and 1.3 litre engines, the oil filter
 is located on the front of the engine beside the
@@ -33987,7 +32206,6 @@ provide additional clearance.
 20 Slow running adjustment 4
 
 ### To check this adjustment, first determine
-`volkswagen_volkswagen_golf_2_en_2f92d5aa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:61
 
 which fuel system is fitted to the vehicle
 concerned and then refer to the appropriate
@@ -34014,7 +32232,6 @@ correctly adjusted.
 2
 
 ### Note: Gearbox oil can foam when hot and
-`volkswagen_volkswagen_golf_2_en_d9e54270` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:61
 
 give a false level reading. Allow the gearbox to
 cool before checking the oil level.
@@ -34036,7 +32253,6 @@ the bolt, two nuts may be tightened against
 each other using thread-locking fluid.
 
 ### Every 10 000 miles or 12 months 1•17
-`volkswagen_volkswagen_golf_2_en_1fcda19d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:61
 
 1
 18.13  Using a chain wrench to unscrew oil
@@ -34048,7 +32264,6 @@ for leaks and security
 oil level plug removal tool - 084 gearbox
 
 ### A Bolt M10 x 100 mm B Welded nut
-`volkswagen_volkswagen_golf_2_en_fd8358cc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:61
 
 Arrows show area of weld
 1081 VW Golf & Jetta
@@ -34063,7 +32278,6 @@ out when it is removed - this does not
 necessarily indicate that the level is correct.
 
 ### To ensure that a true level is established, wait
-`volkswagen_volkswagen_golf_2_en_6fdef1d8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:62
 
 until the initial trickle has stopped, then add oil
 as necessary until a trickle of new oil can be
@@ -34088,7 +32302,6 @@ account the following information.
 engine/gearbox unit without any inclination.
 
 ### When fitted to the models covered in this
-`volkswagen_volkswagen_golf_2_en_2f61d133` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:62
 
 Manual a 2° inclination to the left exists,
 therefore an accurate check cannot be made
@@ -34170,7 +32383,6 @@ speedometer driveshaft hole - early 020
 5-speed gearbox
 
 ### 23.2 Automatic transmission fluid level
-`volkswagen_volkswagen_golf_2_en_5fe275b6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:62
 
 23.2  Automatic transmission fluid level
 dipstick - remove in direction of arrow
@@ -34183,7 +32395,6 @@ and union check
 1
 
 ### Warning: Do not drive the
-`volkswagen_volkswagen_golf_2_en_c173f263` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:63
 
 vehicle until necessary repair
 work has been carried out on
@@ -34218,7 +32429,6 @@ lining check
 1
 
 ### Note: VW recommend that operation of the
-`volkswagen_volkswagen_golf_2_en_a285eda1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:63
 
 brake pressure regulator is checked by one of
 their garages at the same interval that the disc
@@ -34234,7 +32444,6 @@ torch may also be necessary.
 amount specified, renew the pads as a set.
 
 ### Rear brake shoes
-`volkswagen_volkswagen_golf_2_en_fa152775` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:63
 
 3 Jack up the rear of the vehicle and support
 it on axle stands (see “Jacking and vehicle
@@ -34245,7 +32454,6 @@ and check with a torch that the linings are not
 worn below the minimum thickness specified.
 
 ### On completion, refit the plugs.
-`volkswagen_volkswagen_golf_2_en_67a88826` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:63
 
 27 Headlight beam alignment
 check
@@ -34265,7 +32473,6 @@ headlamp centre height. Draw a vertical line
 corresponding to the centre line of the vehicle.
 
 ### Now measure off a point either side of this, on
-`volkswagen_volkswagen_golf_2_en_43eb3af2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:63
 
 the horizontal line, corresponding with the
 headlamp centres.
@@ -34278,7 +32485,6 @@ lower screw to adjust the beam vertically (see
 illustration).
 
 ### Twin unit
-`volkswagen_volkswagen_golf_2_en_0bb8df3f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:63
 
 4 On models with twin headlamps, the inner
 lamps are adjusted laterally with the lower
@@ -34305,7 +32511,6 @@ joint is suspect, it can be felt by placing a
 hand over the steering gear rubber gaiter and
 
 ### Every 10 000 miles or 12 months 1•19
-`volkswagen_volkswagen_golf_2_en_40179bba` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:63
 
 1
 25.3a  Bend each brake hose to check for
@@ -34320,7 +32525,6 @@ adjust headlamp beam alignment
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_6d33df0e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:63
 
 gripping the track rod. If the wheel is now
 rocked, movement will be felt at the inner joint
@@ -34330,7 +32534,6 @@ have an assistant turn the steering wheel back
 and forth about an eighth of a turn each way.
 
 ### There should be very little, if any, lost
-`volkswagen_volkswagen_golf_2_en_160fb496` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:64
 
 movement between the steering wheel and
 the roadwheels. If this is not the case, closely
@@ -34375,7 +32578,6 @@ straps with a little multi-purpose grease.
 31 Vehicle underbody check 1
 
 ### Note: Steam-cleaning is available at many
-`volkswagen_volkswagen_golf_2_en_045daa87` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:64
 
 garages for the purpose of removing any
 accumulation of oily grime from beneath a
@@ -34391,7 +32593,6 @@ with particular care vulnerable areas such as
 the front spoiler and around the wheel arches.
 
 ### Any damage to the paintwork must be
-`volkswagen_volkswagen_golf_2_en_5ab7a5c4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:64
 
 rectified to prevent further corrosion.
 4 If a chip or light scratch is found that is
@@ -34420,7 +32621,6 @@ clear so that water is allowed to drain.
 32 Air cleaner element renewal 1
 
 ### Carburettor models
-`volkswagen_volkswagen_golf_2_en_7784a224` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:64
 
 1.05 and 1.3 litre engines
 1 Release the spring clips securing the air
@@ -34431,7 +32631,6 @@ any dirt entering it when the element is lifted
 out. Remove the element (see illustration).
 
 ### Wipe the inside of the air cleaner with a moist
-`volkswagen_volkswagen_golf_2_en_14f34746` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:64
 
 rag to remove all dust and dirt and then
 remove the covering from the entry port.
@@ -34449,7 +32648,6 @@ fuel-moistened cloth, then wipe it dry.
 removal.
 
 ### Fuel-injected models
-`volkswagen_volkswagen_golf_2_en_bfc5f01e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:64
 
 7 Release the spring clips securing the air
 cleaner cover and separate the cover from the
@@ -34463,7 +32661,6 @@ airflow meter (see illustration).
 1081 VW Golf & Jetta
 
 ### Every 20 000 miles (30 000 km) or 24 months
-`volkswagen_volkswagen_golf_2_en_84e7a73a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:64
 
 Downloaded from www.Manualslib.com manuals search engine
 8 Withdraw the element from the housing.
@@ -34474,7 +32671,6 @@ by pressing the clips home.
 2
 
 ### Carburettor models
-`volkswagen_volkswagen_golf_2_en_4f98e0b6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:65
 
 1 To remove the in-line filter, remove its pipe
 retaining clips, disconnect the pipes and
@@ -34492,7 +32688,6 @@ highly inflammable and may explode if thrown
 on a fire.
 
 ### Fuel-injected models
-`volkswagen_volkswagen_golf_2_en_91351aaf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:65
 
 4 The fuel filter is mounted on the inboard
 side of the pump reservoir on the underside of
@@ -34527,7 +32722,6 @@ and lubrication
 1
 
 ### Open the sunroof and wipe clean its guide
-`volkswagen_volkswagen_golf_2_en_74d7738b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:65
 
 rails. Coat each rail very lightly with grease,
 ensuring that none finds its way onto the
@@ -34549,7 +32743,6 @@ carburettor
 32.7  Air cleaner components -
 
 ### Digijet fuel injection
-`volkswagen_volkswagen_golf_2_en_d844f905` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:65
 
 1
 Upper cover
@@ -34581,7 +32774,6 @@ regulator flap
 17 To inlet elbow
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_24b6c3b1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:65
 
 1081 VW Golf & Jetta
 3
@@ -34593,7 +32785,6 @@ Pressurised with pump driven by timing or V-belt. Front mounted
 radiator with internal or external expansion tank. Electric cooling fan
 
 ### Radiator/expansion tank
-`volkswagen_volkswagen_golf_2_en_b258b840` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:66
 
 Cap operating pressure  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.2 to 1.5 bar
@@ -34602,7 +32793,6 @@ Minimum stroke  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 7.0 mm
 
 ### Opening temperature:
-`volkswagen_volkswagen_golf_2_en_fd69932b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:66
 
 1.05 and 1.3 litre engines:
 Rocker finger tappet type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -34610,7 +32800,6 @@ Rocker finger tappet type  . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Hydraulic tappet type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 87°C
-`volkswagen_volkswagen_golf_2_en_ec90df33` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:66
 
 1.6 and 1.8 litre engines  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 85°C
@@ -34619,7 +32808,6 @@ Fully open temperature:
 Rocker finger tappet type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 108°C
-`volkswagen_volkswagen_golf_2_en_ea367c98` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:66
 
 Hydraulic tappet type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 102°C
@@ -34627,7 +32815,6 @@ Hydraulic tappet type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 105°C
 
 ### Cooling fan thermo-switch
-`volkswagen_volkswagen_golf_2_en_5d1f7680` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:66
 
 Carburettor engines:
 Switch-on temperature  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -34636,7 +32823,6 @@ Switch-off temperature . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 88° to 93°C
 
 ### Fuel injection engines (except 16 valve):
-`volkswagen_volkswagen_golf_2_en_bdf48bf6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:66
 
 Switch-on temperature:
 Single speed and 1st stage of twin speed  . . . . . . . . . . . . . . . . . . .
@@ -34645,7 +32831,6 @@ Single speed and 1st stage of twin speed  . . . . . . . . . . . . . . . . . . .
 99° to 105°C
 
 ### Switch-off temperature:
-`volkswagen_volkswagen_golf_2_en_0ec2ef2d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:66
 
 Single speed and 1st stage of twin speed  . . . . . . . . . . . . . . . . . . .
 84° to 91°C
@@ -34655,7 +32840,6 @@ Injector cooling:
 Switch-on temperature  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 110°C
-`volkswagen_volkswagen_golf_2_en_c4c70988` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:66
 
 Switch-off temperature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 103°C
@@ -34683,7 +32867,6 @@ Thermostat - removal, testing and refitting  . . . . . . . . . . . . . . . . . .
 3•1
 
 ### Specifications
-`volkswagen_volkswagen_golf_2_en_f7cc716b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:66
 
 Contents
 Easy, suitable for
@@ -34700,7 +32883,6 @@ experienced  DIY
 mechanic
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_e30eb107` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:66
 
 suitable for expert DIY
 or  professional
@@ -34749,7 +32931,6 @@ Thermostat housing to coolant pump  . . . . . . . . . . . . . . . . . . . . . . 
 7
 
 ### Thermo-switch (inlet manifold preheater):
-`volkswagen_volkswagen_golf_2_en_f3821774` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:67
 
 1.6 and 1.8 litre carburettor  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 10
@@ -34760,7 +32941,6 @@ Thermostat housing to coolant pump  . . . . . . . . . . . . . . . . . . . . . . 
 1
 
 ### General information and
-`volkswagen_volkswagen_golf_2_en_1095489b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:67
 
 precautions
 General information
@@ -34776,7 +32956,6 @@ fan
 illustrations).
 
 ### Coolant circulation through the radiator is
-`volkswagen_volkswagen_golf_2_en_f9e56b6b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:67
 
 controlled by a thermostat, the location of
 which differs according to engine type. On
@@ -34789,7 +32968,6 @@ housing which is mounted low down on the
 front of the engine (timing case end).
 
 ### Fuel-injected engines incorporate an oil
-`volkswagen_volkswagen_golf_2_en_1684e053` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:67
 
 cooler unit which is located between the oil
 filter and its mounting bracket.
@@ -34808,7 +32986,6 @@ through the inlet manifold and heater matrix
 to the pump.
 
 ### When the coolant reaches a predetermined
-`volkswagen_volkswagen_golf_2_en_b7ef09cd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:67
 
 temperature, the thermostat opens and the
 coolant then circulates through the top hose
@@ -34822,7 +32999,6 @@ radiator, the coolant is now cooled and the
 cycle is repeated.
 
 ### The electric cooling fan is controlled by a
-`volkswagen_volkswagen_golf_2_en_ada44fe1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:67
 
 thermo-switch located in the left-hand side of
 the radiator.
@@ -34831,7 +33007,6 @@ the radiator.
 1.0a  Cooling system components – 1.05 and 1.3 litre, pre August 1985
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_851a8461` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:67
 
 Air conditioning system
 The air conditioning unit works on exactly
@@ -34849,7 +33024,6 @@ warming the inlet air. The evaporator has a
 blower motor to circulate cold air as required.
 
 ### The system is controlled by a unit on the
-`volkswagen_volkswagen_golf_2_en_9204c8e9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:68
 
 dashboard similar to the normal heater control
 in appearance.
@@ -34866,7 +33040,6 @@ gases, some of which are poisonous to the
 extent of being fatal.
 
 ### Precautions
-`volkswagen_volkswagen_golf_2_en_e3fe16fa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:68
 
 Cooling system maintenance
 Do not remove the expansion tank filler cap
@@ -34886,7 +33059,6 @@ unscrewing the cap completely. At all times
 keep well away from the filler opening.
 
 ### If the engine is hot, the electric cooling fan
-`volkswagen_volkswagen_golf_2_en_5c7f15d0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:68
 
 may start rotating even if the engine is not
 running. Be careful to keep hands, hair and
@@ -34898,7 +33070,6 @@ of reach of children and pets. Never leave
 antifreeze lying around, it is fatal if ingested.
 
 ### Do not allow antifreeze to come in contact
-`volkswagen_volkswagen_golf_2_en_fdea6c3a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:68
 
 with your skin or the painted surfaces of the
 vehicle. Rinse off spills immediately with
@@ -34910,7 +33081,6 @@ Cooling, heating and air conditioning systems  3•3
 1
 
 ### Radiator
-`volkswagen_volkswagen_golf_2_en_ad1a9eb4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:68
 
 2
 Fan ring
@@ -34937,7 +33107,6 @@ Automatic choke
 1.0c  Cooling system components – 1.6 and 1.8 litre, carburettor
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_d674d37a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:68
 
 Air conditioning refrigerant
 Although the refrigerant is not itself toxic, in
@@ -34949,7 +33118,6 @@ them with a dilute solution of boric acid and
 seek medical advice immediately.
 
 ### In view of the above points, and of the need
-`volkswagen_volkswagen_golf_2_en_5ad59af4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:69
 
 for specialised equipment for evacuating and
 recharging the system, any work which
@@ -34964,7 +33132,6 @@ damage may result.
 2
 
 ### Cooling system - draining,
-`volkswagen_volkswagen_golf_2_en_d31b51d4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:69
 
 flushing and filling
 2
@@ -34993,7 +33160,6 @@ away from the radiator outlet. Drain the
 coolant into the container (see illustrations).
 
 ### Flushing
-`volkswagen_volkswagen_golf_2_en_4fe48376` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:69
 
 5 After some time, the radiator and engine
 waterways may become restricted or even
@@ -35014,7 +33180,6 @@ top hose from the radiator. Insert a garden
 1
 
 ### Alternator bracket
-`volkswagen_volkswagen_golf_2_en_f5f195be` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:69
 
 2
 Pulley
@@ -35054,7 +33219,6 @@ until clear water runs from the inlet.
 9 The engine should also be reverse flushed.
 
 ### To do this, disconnect the heater hose from
-`volkswagen_volkswagen_golf_2_en_ebe1d9b3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:70
 
 the cylinder head outlet and insert a garden
 hose in the outlet. Continue flushing until clear
@@ -35067,7 +33231,6 @@ heat.
 into the expansion tank until it reaches the
 
 ### MAX level mark.
-`volkswagen_volkswagen_golf_2_en_76c9b485` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:70
 
 12 Refit and tighten the filler cap then run the
 engine at a fast idling speed for a few minutes
@@ -35086,7 +33249,6 @@ level marks.
 3
 
 ### Radiator - removal, inspection
-`volkswagen_volkswagen_golf_2_en_75fe9616` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:70
 
 and refitting
 2
@@ -35114,7 +33276,6 @@ engine compartment whilst taking care not to
 damage the matrix (see illustration).
 
 ### Inspection
-`volkswagen_volkswagen_golf_2_en_7a932669` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:70
 
 9 Remove the screws and withdraw the
 cowling and fan from the radiator.
@@ -35136,7 +33297,6 @@ bracket
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_1403ab0f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:70
 
 10 Clean the radiator matrix of flies and small
 leaves with a soft brush or by hosing. At the
@@ -35148,7 +33308,6 @@ radiator without special equipment.
 damaged.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_3dd4af00` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:71
 
 13 Refitting is a reversal of removal. If
 necessary, renew the radiator lower mounting
@@ -35160,7 +33319,6 @@ wiring, secure the lead to the cowling web
 4
 
 ### Cooling fan and motor -
-`volkswagen_volkswagen_golf_2_en_d7985aa1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:71
 
 removal and refitting
 2
@@ -35184,7 +33342,6 @@ the cooling fan and motor from the cowling
 the motor by prising off the clamp washer. On
 
 ### AEG motors drive out the roll pin. On Bosch
-`volkswagen_volkswagen_golf_2_en_2e27ad3a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:71
 
 motors remove the shake-proof washer.
 Assemble the components in reverse order
@@ -35198,7 +33355,6 @@ and refitting
 1.05 and 1.3 litre engines
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_3f78dfe8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:71
 
 1 The thermostat is located in the outlet
 housing on the left-hand (rear) end of the
@@ -35213,7 +33369,6 @@ side.
 housing.
 
 ### Testing
-`volkswagen_volkswagen_golf_2_en_43a8a6dd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:71
 
 5 To test the thermostat, suspend it with a
 piece of string in a container of water.
@@ -35243,7 +33398,6 @@ assembly
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4d6d9ac9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:71
 
 Refitting
 8 Refitting is a reversal of removal. Fit a new
@@ -35254,7 +33408,6 @@ thermostat should face upwards.
 1.6 and 1.8 litre engines
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_37526639` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:72
 
 10 The thermostat is located in the bottom of
 the coolant pump behind the inlet elbow. To
@@ -35266,7 +33419,6 @@ pump and remove the seal and thermostat
 scale or corrosion.
 
 ### Testing
-`volkswagen_volkswagen_golf_2_en_824a99f8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:72
 
 13 To test the thermostat, proceed as
 described in paragraphs 5, 6 and 7.
@@ -35277,7 +33429,6 @@ procedure. Always fit a new seal.
 6
 
 ### Coolant pump - removal and
-`volkswagen_volkswagen_golf_2_en_c445228a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:72
 
 refitting
 3
@@ -35289,7 +33440,6 @@ disconnect the battery negative lead.
 3 Unbolt and remove the timing belt cover.
 
 ### On some later 1.3 litre models, it is necessary
-`volkswagen_volkswagen_golf_2_en_7e8593a2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:72
 
 to remove the crankshaft pulley to remove the
 lower timing belt cover.
@@ -35310,7 +33460,6 @@ mating faces of the coolant pump and
 cylinder block.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_0a9f5e30` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:72
 
 8 Refitting is a reversal of removal.
 9 When fitting a pump which has been
@@ -35326,7 +33475,6 @@ a new sealing ring.
 1.6 and 1.8 litre engines
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_50707050` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:72
 
 12 Drain the cooling system.
 13 Remove the alternator.
@@ -35345,7 +33493,6 @@ illustration). The pump will probably be stuck
 to the block but will come off if tapped gently.
 
 ### Remove the O-ring with the pump.
-`volkswagen_volkswagen_golf_2_en_c3747247` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:72
 
 17 Remove the pulley and then take out the
 eight bolts which secure the bearing housing
@@ -35354,7 +33501,6 @@ The two halves may now be separated (see
 illustration). Do not drive a wedge in to break
 
 ### Cooling, heating and air conditioning systems 3•7
-`volkswagen_volkswagen_golf_2_en_dbe7d7d8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:72
 
 3
 5.11a  Undo the retaining bolts . . .
@@ -35370,7 +33516,6 @@ removed from vehicle) - 1.6 and 1.8 litre
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_2e86369a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:72
 
 the joint. Clean off the old gasket.
 18 Remove the thermostat.
@@ -35385,7 +33530,6 @@ tighten the bolts evenly.
 21 Fit the thermostat.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_6e9b7ff4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:73
 
 22 Refitting is a reversal of removal. Always
 fit a new O-ring.
@@ -35398,7 +33542,6 @@ and refitting
 2
 
 ### Cooling fan motor thermo-
-`volkswagen_volkswagen_golf_2_en_9ddcfc4b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:73
 
 switch
 1 Disconnect the battery negative lead.
@@ -35408,7 +33551,6 @@ left-hand side of the radiator and remove the
 sealing ring (see illustration). Note that from
 
 ### September 1985, on fuel injection engines
-`volkswagen_volkswagen_golf_2_en_ee207170` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:73
 
 (except 16V) the switch, located in the bottom
 of the radiator, is of a 3-pin type, replacing the
@@ -35425,7 +33567,6 @@ lamp and battery. Gradually heat the water
 and note its temperature with a thermometer.
 
 ### The test lamp should light up at the specified
-`volkswagen_volkswagen_golf_2_en_f9ee172e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:73
 
 switch-on temperature and go out at the
 specified switch-off temperature. If not, renew
@@ -35436,7 +33577,6 @@ the specified torque.
 6 On completion, refill the cooling system.
 
 ### Cooling fan temperature sensor
-`volkswagen_volkswagen_golf_2_en_d169ac53` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:73
 
 7 From March 1986, the cooling fan is also
 controlled by a temperature sensor located
@@ -35446,7 +33586,6 @@ system functional for 10 to 12 minutes after
 switching off the ignition.
 
 ### Temperature sender
-`volkswagen_volkswagen_golf_2_en_1af525bc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:73
 
 unit/thermo-switches
 8 It is not necessary to drain the cooling
@@ -35462,7 +33601,6 @@ retighten the cap.
 thermo-switch is dependent on engine type.
 
 ### In general, they are as follows:
-`volkswagen_volkswagen_golf_2_en_bbb4159d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:73
 
 1.05 and 1.3 litre engines
 11 The thermo-switch is located in the
@@ -35495,7 +33633,6 @@ outlet elbow and controls the temperature
 gauge.
 
 ### All engines
-`volkswagen_volkswagen_golf_2_en_1d5e4df9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:73
 
 19 Disconnect the wiring lead from the
 sender unit/switch concerned.
@@ -35512,7 +33649,6 @@ top-up the cooling system.
 8
 
 ### Heater controls - removal
-`volkswagen_volkswagen_golf_2_en_63744560` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:73
 
 and refitting
 3
@@ -35543,7 +33679,6 @@ thermo-switch (B) - 1.8 litre, fuel injection
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_02a326eb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:73
 
 necessary to remove the lower parcel tray on
 the passenger side and also the insulation
@@ -35555,7 +33690,6 @@ a good idea to fit new cable clamps also, as
 the old ones seem to distort when removed.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_4d015993` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:74
 
 8 Refitting is a reversal of removal. Ensure
 that the cables are correctly routed with no
@@ -35584,7 +33718,6 @@ cut-out can be checked as shown.
 that the air ducts are not blocked.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_dd483a09` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:74
 
 8 Refitting is a reversal of removal.
 10 Heat exchanger/fresh air
@@ -35601,7 +33734,6 @@ bulkhead on the engine compartment side
 (see illustration).
 
 ### Cooling, heating and air conditioning systems 3•9
-`volkswagen_volkswagen_golf_2_en_bd261787` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:74
 
 3
 8.3a  Pulling free heater/ventilation control
@@ -35615,7 +33747,6 @@ knobs
 10.5  Bulkhead coolant hose connections
 
 ### A Passenger compartment
-`volkswagen_volkswagen_golf_2_en_fe9186aa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:74
 
 B Engine compartment
 C Return hose
@@ -35636,7 +33767,6 @@ disconnecting the distributor from the left and
 right-hand air ducts as it is withdrawn.
 
 ### Remove the gasket (see illustration).
-`volkswagen_volkswagen_golf_2_en_0b7a784d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:75
 
 7 Disconnect the control cables at the air box
 end.
@@ -35653,7 +33783,6 @@ securing clips (see illustration). Once
 separated, the flap valves can be removed.
 
 ### Take care not to split or crack the housings.
-`volkswagen_volkswagen_golf_2_en_7c77ec64` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:75
 
 Refitting
 11 Refitting is a reversal of the removal
@@ -35678,7 +33807,6 @@ manner.
 components
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_997b9aaf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:75
 
 11 Air conditioning system
 compressor - removal and
@@ -35707,7 +33835,6 @@ by him on completion.
 4 Observe the precautions at the start of this
 
 ### Chapter.
-`volkswagen_volkswagen_golf_2_en_8aa8342f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:76
 
 12 Air conditioning system
 compressor - drivebelt
@@ -35721,7 +33848,6 @@ Cooling, heating and air conditioning systems  3•11
 1
 
 ### Alternator drivebelt
-`volkswagen_volkswagen_golf_2_en_fec509b5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:76
 
 2
 Coolant pump and
@@ -35747,7 +33873,6 @@ Downloaded from www.Manualslib.com manuals search engine
 1081 VW Golf & Jetta
 
 ### Notes
-`volkswagen_volkswagen_golf_2_en_ef9a171e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:77
 
 Downloaded from www.Manualslib.com manuals search engine
 1081 VW Golf & Jetta
@@ -35757,7 +33882,6 @@ Engine repair procedures 1.8 litre 16 valve
 The following information is a revision of, or supplementary to, that given for the 1.8 litre engine in Part C of this Chapter
 
 ### General
-`volkswagen_volkswagen_golf_2_en_5ab2f426` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:78
 
 Code:
 GTi 16V with catalytic converter . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -35766,7 +33890,6 @@ Compression ratio  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 10:1
 
 ### Cylinder head
-`volkswagen_volkswagen_golf_2_en_ecee4d01` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:78
 
 Minimum height  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 118.1 mm - measured through cylinder head bolt hole
@@ -35778,7 +33901,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 28.0 mm
 
 ### Stem diameter:
-`volkswagen_volkswagen_golf_2_en_050a6d29` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:78
 
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 6.97 mm
@@ -35786,7 +33908,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 6.94 mm
 
 ### Overall length:
-`volkswagen_volkswagen_golf_2_en_18df4491` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:78
 
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 95.5 mm
@@ -35794,7 +33915,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 98.2 mm
 
 ### Valve timing
-`volkswagen_volkswagen_golf_2_en_2b9c6090` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:78
 
 Nil valve clearance at 1.0 mm valve lift
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -35802,14 +33922,12 @@ Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 35° ABDC
-`volkswagen_volkswagen_golf_2_en_4a2edf2c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:78
 
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 43° BBDC
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3° BTDC
-`volkswagen_volkswagen_golf_2_en_c5550c11` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:78
 
 Torque wrench settings
 Nm
@@ -35859,7 +33977,6 @@ Timing belt and sprockets - removal and refitting . . . . . . . . . . . . . . .
 2
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_9e8d6f05` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:78
 
 suitable for expert DIY
 or  professional
@@ -35876,7 +33993,6 @@ Downloaded from www.Manualslib.com manuals search engine
 1
 
 ### Inlet manifold upper section
-`volkswagen_volkswagen_golf_2_en_ac926791` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:79
 
 2
 Gasket
@@ -35902,7 +34018,6 @@ Downloaded from www.Manualslib.com manuals search engine
 1
 
 ### General information
-`volkswagen_volkswagen_golf_2_en_dcb7dabb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:80
 
 The 1.8 litre, 16-valve engine fitted to GTi
 models from October 1986, incorporates
@@ -35919,7 +34034,6 @@ the opposite end of the cylinder head is used
 to drive the inlet camshaft (see illustration).
 
 ### Most overhaul procedures for the 16-valve
-`volkswagen_volkswagen_golf_2_en_04c3c35e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:80
 
 engine are basically the same as those
 described for the 8-valve engine in Part C of
@@ -35931,7 +34045,6 @@ removal and refitting
 3
 
 ### Besides the timing mark on the camshaft
-`volkswagen_volkswagen_golf_2_en_fe627211` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:80
 
 sprocket referred to in Part C of this Chapter,
 Section 9, an additional timing mark is
@@ -35943,7 +34056,6 @@ not necessary to remove the valve cover in
 order to check the alignment marks.
 
 ### When fitting the timing belt, it is
-`volkswagen_volkswagen_golf_2_en_8818bfb4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:80
 
 recommended that VW tool 210 is used to set
 the tension accurately as this is more critical
@@ -35959,7 +34071,6 @@ obtained from a VW dealer.
 3
 
 ### Camshafts - removal and
-`volkswagen_volkswagen_golf_2_en_5e9819b5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:80
 
 refitting
 3
@@ -35975,7 +34086,6 @@ locations.
 4 Align the timing marks with reference to
 
 ### Part C of this Chapter, then check also that
-`volkswagen_volkswagen_golf_2_en_87cb8c0b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:80
 
 the marks on the chain sprockets are aligned
 (see illustration).
@@ -36002,7 +34112,6 @@ caps keeping them identified for position.
 then release them from the drive chain.
 
 ### Engine repair procedures 1.8 litre 16 valve 2D•3
-`volkswagen_volkswagen_golf_2_en_99babb23` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:80
 
 2D
 2.1  Valve timing marks
@@ -36017,7 +34126,6 @@ sprockets
 3.6  Camshaft bearing cap identification
 
 ### Inset shows recessed corner position (arrowed)
-`volkswagen_volkswagen_golf_2_en_a964017c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:80
 
 Downloaded from www.Manualslib.com manuals search engine
 12 If necessary, remove the hydraulic bucket
@@ -36033,7 +34141,6 @@ as shown in illustration 3.4, then lower the
 camshafts into position on the cylinder head.
 
 ### Recheck the timing mark alignment.
-`volkswagen_volkswagen_golf_2_en_78473fc4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:81
 
 15 Fit a new oil seal to the front end of the
 exhaust camshaft.
@@ -36070,7 +34177,6 @@ the camshaft sprocket cover.
 4
 
 ### Cylinder head - dismantling
-`volkswagen_volkswagen_golf_2_en_9e8e5954` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:81
 
 and overhaul
 3
@@ -36085,7 +34191,6 @@ valve, particularly where recycling of scrap
 metal is concerned.
 
 ### To render each valve safe, it should be
-`volkswagen_volkswagen_golf_2_en_9c58d2ef` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:81
 
 wiped dry then cut through the stem with a
 hacksaw. Throw the valve into a bucket of
@@ -36097,7 +34202,6 @@ Pistons and connecting rods
 3
 
 ### The big-end caps on 16 valve engines are
-`volkswagen_volkswagen_golf_2_en_c538fbf1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:81
 
 fitted with oil jets which direct a stream of oil
 to the underside of the pistons, mainly for
@@ -36116,7 +34220,6 @@ tightening to the specified torque.
 1
 
 ### Oil jet
-`volkswagen_volkswagen_golf_2_en_1b45fcee` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:81
 
 2
 Screw
@@ -36134,7 +34237,6 @@ Chapter 2  Part C:
 Engine repair procedures - 1.6 and 1.8 litre 8 valve
 
 ### General
-`volkswagen_volkswagen_golf_2_en_3cf21cc9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:82
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Four-cylinder in-line, water cooled, overhead camshaft
@@ -36151,7 +34253,6 @@ Carburettor  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 GU
 
 ### GTi - January 1987 on:
-`volkswagen_volkswagen_golf_2_en_180a881e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:82
 
 Without catalytic converter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 PB, GU
@@ -36161,7 +34262,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1-3-4-2 (No 1 at camshaft sprocket end)
 
 ### Displacement:
-`volkswagen_volkswagen_golf_2_en_fd4918ae` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:82
 
 1.6 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1595 cc
@@ -36169,7 +34269,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1781 cc
 
 ### Bore:
-`volkswagen_volkswagen_golf_2_en_332fdee6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:82
 
 1.6 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 81.0 mm
@@ -36177,7 +34276,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 81.0 mm
 
 ### Stroke:
-`volkswagen_volkswagen_golf_2_en_fd3e6234` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:82
 
 1.6 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 77.4 mm
@@ -36185,7 +34283,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 86.4 mm
 
 ### Compression ratio:
-`volkswagen_volkswagen_golf_2_en_8b799490` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:82
 
 1.6 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 9.0 to 1
@@ -36235,7 +34332,6 @@ Oil pump - examination and renovation  . . . . . . . . . . . . . . . . . . . . .
 Oil seals - renewal  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
 
 ### Pistons and connecting rods - examination and renovation . . . . . . . 24
-`volkswagen_volkswagen_golf_2_en_3d8c4157` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:82
 
 Pistons and connecting rods - examination and renovation . . . . . . . 24
 Pistons and connecting rods - refitting  . . . . . . . . . . . . . . . . . . . . . . . 32
@@ -36248,7 +34344,6 @@ Timing belt and sprockets - removal . . . . . . . . . . . . . . . . . . . . . . 
 Valve clearances - checking and adjustment (pre August 1985)  . . . 33
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_67ada856` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:82
 
 suitable for expert DIY
 or  professional
@@ -36276,7 +34371,6 @@ Maximum permissible difference between any two cylinders  . . . .
 3.0 bar
 
 ### Crankshaft
-`volkswagen_volkswagen_golf_2_en_83526d6e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:83
 
 Main journal:
 Standard diameter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -36285,7 +34379,6 @@ Undersizes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 53.75, 53.50 and 53.25 mm
 
 ### Crankpin:
-`volkswagen_volkswagen_golf_2_en_3dcc0620` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:83
 
 Standard diameter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 47.80 mm
@@ -36293,7 +34386,6 @@ Journal undersizes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 47.55, 47.30 and 47.05 mm
 
 ### Endfloat:
-`volkswagen_volkswagen_golf_2_en_ff7868e7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:83
 
 Maximum  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.25 mm
@@ -36303,7 +34395,6 @@ Main bearing maximum running clearance  . . . . . . . . . . . . . . . . . . . . 
 0.17 mm
 
 ### Connecting rods
-`volkswagen_volkswagen_golf_2_en_1dd02dbb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:83
 
 Big-end:
 Maximum running clearance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -36312,7 +34403,6 @@ Maximum endfloat  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 0.37 mm
 
 ### Diameter:
-`volkswagen_volkswagen_golf_2_en_1e4a5fbf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:83
 
 Standard  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 80.98 mm
@@ -36325,7 +34415,6 @@ Wear limit (10 mm from base/ right angles to pin)  . . . . . . . . . . . . . . .
 0.04 mm
 
 ### Piston rings
-`volkswagen_volkswagen_golf_2_en_28475cd4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:83
 
 Maximum clearance in groove  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.15 mm
@@ -36334,7 +34423,6 @@ Compression rings  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.30 to 0.45 mm
 
 ### Oil scraper ring:
-`volkswagen_volkswagen_golf_2_en_8c8867b6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:83
 
 1 part . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.25 to 0.40 mm
@@ -36346,7 +34434,6 @@ Maximum end gap  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.0 mm
 
 ### Gudgeon pin
-`volkswagen_volkswagen_golf_2_en_620ff1db` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:83
 
 Fit in piston  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Push fit at 60°C
@@ -36355,7 +34442,6 @@ Maximum endfloat  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 0.25 mm
 
 ### Cylinder head
-`volkswagen_volkswagen_golf_2_en_9dc1d99d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:83
 
 Maximum allowable face distortion  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.1 mm
@@ -36363,7 +34449,6 @@ Minimum height  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 132.6 mm
 
 ### Camshaft
-`volkswagen_volkswagen_golf_2_en_bcf0e8e6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:83
 
 Run-out at centre bearing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.01 mm
@@ -36371,7 +34456,6 @@ Endfloat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.15 mm
 
 ### Valves
-`volkswagen_volkswagen_golf_2_en_be46cced` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:83
 
 Seat angle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 45°
@@ -36387,7 +34471,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_aee7b1f2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:83
 
 Stem diameter:
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -36396,7 +34479,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 7.95 mm
 
 ### Standard overall length*:
-`volkswagen_volkswagen_golf_2_en_085ae2f0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Inlet:
 Codes EZ, EV, GU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -36405,7 +34487,6 @@ All other codes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 91.0 mm
 
 ### Exhaust:
-`volkswagen_volkswagen_golf_2_en_24ec4720` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:84
 
 Codes EZ, EV, GU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 98.50 mm
@@ -36416,7 +34497,6 @@ All other codes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 * Caution: Check with manufacturer on valve dimensions before renewing
 
 ### Hydraulic tappets
-`volkswagen_volkswagen_golf_2_en_a2337375` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:84
 
 Maximum free travel  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.1 mm
@@ -36426,14 +34506,12 @@ Nil valve clearance at 1.0 mm valve lift
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 5° BTDC
-`volkswagen_volkswagen_golf_2_en_7f235557` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 21° ABDC
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 41° BBDC
-`volkswagen_volkswagen_golf_2_en_26702b9e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 3° BTDC
@@ -36441,14 +34519,12 @@ Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3° BTDC
-`volkswagen_volkswagen_golf_2_en_ddd4e609` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 19° ABDC
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 27° BBDC
-`volkswagen_volkswagen_golf_2_en_a8ef6bd7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 5° BTDC
@@ -36458,14 +34534,12 @@ TDC
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 22° ABDC
-`volkswagen_volkswagen_golf_2_en_6a78cce5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 28° BBDC
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 6° BTDC
-`volkswagen_volkswagen_golf_2_en_22dd100b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 1.6 litre (code RF):
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -36473,7 +34547,6 @@ TDC
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 6° BTDC
-`volkswagen_volkswagen_golf_2_en_d432e97c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 1.8 litre (code GU - shim bucket tappets)
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -36481,14 +34554,12 @@ Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 37° ABDC
-`volkswagen_volkswagen_golf_2_en_89c3ed0f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 42° BBDC
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2° ATDC
-`volkswagen_volkswagen_golf_2_en_1c2bdeb4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 1.8 litre (code GU - hydraulic tappets - August 1985 to March 1986
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -36496,14 +34567,12 @@ Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 33° ABDC
-`volkswagen_volkswagen_golf_2_en_95fcb16c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 41° BBDC
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 5° BTDC
-`volkswagen_volkswagen_golf_2_en_78e455e8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 1.8 litre (code GU - hydraulic tappets - March 1986 on):
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -36511,14 +34580,12 @@ Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 34° ABDC
-`volkswagen_volkswagen_golf_2_en_6c8f8d8e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 44° BBDC
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 8° BTDC
-`volkswagen_volkswagen_golf_2_en_ce2792b5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 1.8 litre (code EV):
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -36526,14 +34593,12 @@ Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 45° ABDC
-`volkswagen_volkswagen_golf_2_en_bd9faf33` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 45° BBDC
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 8° BTDC
-`volkswagen_volkswagen_golf_2_en_f592c676` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 1.8 litre (codes PB, PF):
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -36541,14 +34606,12 @@ Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 43° ABDC
-`volkswagen_volkswagen_golf_2_en_da648412` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:84
 
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 37° BBDC
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3° ATDC
-`volkswagen_volkswagen_golf_2_en_7660a220` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:84
 
 Engine repair procedures - 1.6 and 1.8 litre 8 valve  2C•3
 2C
@@ -36560,14 +34623,12 @@ Nil valve clearance at 1.0 mm valve lift
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2° BTDC
-`volkswagen_volkswagen_golf_2_en_3f6af830` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:85
 
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 34° ABDC
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 44° BBDC
-`volkswagen_volkswagen_golf_2_en_f322ca66` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:85
 
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 8° BTDC
@@ -36575,7 +34636,6 @@ Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 40° BBDC
-`volkswagen_volkswagen_golf_2_en_9e698098` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:85
 
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 4° BTDC
@@ -36583,14 +34643,12 @@ Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Inlet opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 5° BTDC
-`volkswagen_volkswagen_golf_2_en_44496f4e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:85
 
 Inlet closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 41° ABDC
 Exhaust opens  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 37° BBDC
-`volkswagen_volkswagen_golf_2_en_8b4cad66` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:85
 
 Exhaust closes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1° BTDC
@@ -36602,7 +34660,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.40 to 0.50 m
 
 ### Cold:
-`volkswagen_volkswagen_golf_2_en_8059a766` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:85
 
 Inlet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.15 to 0.25 mm
@@ -36610,7 +34667,6 @@ Exhaust  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.35 to 0.45 mm
 
 ### Refer to “Lubricants, fluids and capacities”
-`volkswagen_volkswagen_golf_2_en_6708565a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:85
 
 Filter type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion C101/C160
@@ -36620,7 +34676,6 @@ Pressure (2000 rpm with oil temperature 80°C)  . . . . . . . . . . . . . . . . 
 2.0 bar minimum
 
 ### Torque wrench settings
-`volkswagen_volkswagen_golf_2_en_16842f3f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:85
 
 Nm
 lbf ft
@@ -36654,7 +34709,6 @@ Main bearing cap bolts . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 48
 
 ### Further tighten 1/4 turn (90°)
-`volkswagen_volkswagen_golf_2_en_c076c710` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:85
 
 Oil pump bolts  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 10
@@ -36718,7 +34772,6 @@ Distributor clamp bolt  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_226a5144` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:85
 
 1
 General information
@@ -36729,7 +34782,6 @@ the vehicle. The transmission is attached to
 the flywheel end of the engine.
 
 ### The crankshaft is of five main bearing type,
-`volkswagen_volkswagen_golf_2_en_18411db3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 its endfloat being controlled by a shouldered
 centre bearing or by half thrustwashers
@@ -36745,7 +34797,6 @@ head incorporating hydraulic bucket tappets
 in place of the previous shim bucket tappets.
 
 ### Camshaft bearing No. 4 is deleted on all
-`volkswagen_volkswagen_golf_2_en_91dc0904` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 single camshaft engines. In order to identify
 the type of tappets fitted, a sticker is normally
@@ -36754,7 +34805,6 @@ clearance adjustment is neither necessary nor
 possible.
 
 ### An intermediate shaft (driven by the toothed
-`volkswagen_volkswagen_golf_2_en_30643878` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 timing belt) drives the distributor and oil pump
 and on carburettor equipped engines, the fuel
@@ -36764,7 +34814,6 @@ from the immediate shaft and incorporates a
 pressure relief valve.
 
 ### The aluminium cylinder head is of
-`volkswagen_volkswagen_golf_2_en_31c30921` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 conventional design with the inlet and exhaust
 manifolds mounted on the rear side (as
@@ -36777,7 +34826,6 @@ comprises a hose from the flywheel end of the
 valve cover to the side of the air cleaner.
 
 ### On fuel injection equipped engines, there is
-`volkswagen_volkswagen_golf_2_en_3960dc01` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 a hose to the air inlet manifold and a hose to
 the air cleaner from a three-way connector on
@@ -36804,7 +34852,6 @@ f) Renewal of the engine mountings
 3
 
 ### Major operations only
-`volkswagen_volkswagen_golf_2_en_9ba712fb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 possible after removal of
 engine from vehicle
@@ -36818,7 +34865,6 @@ shaft
 4
 
 ### Method of engine removal
-`volkswagen_volkswagen_golf_2_en_3f12383f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 1 The engine, together with the gearbox,
 must be lifted from the engine compartment,
@@ -36848,7 +34894,6 @@ disconnecting and reconnecting the joint, it
 will be necessary to use VW tool no. 3049A.
 
 ### Without this tool, detachment and certainly
-`volkswagen_volkswagen_golf_2_en_d0e1899b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 reconnection of the joint and clips is virtually
 impossible, so make arrangements to borrow
@@ -36865,7 +34910,6 @@ place where you must work.
 7 Although not listed as an optional fitting on
 
 ### UK models, an air conditioning system may
-`volkswagen_volkswagen_golf_2_en_59cf3e42` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:86
 
 have been fitted. Where this is the case, the
 following precautions must be taken when
@@ -36891,7 +34935,6 @@ f) If any part of the system is to be detached
 then it must first be depressurised by your
 
 ### VW dealer or a competent air conditioning
-`volkswagen_volkswagen_golf_2_en_6f215d2b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 systems engineer. The only exception is
 the removal and fitting of the compressor
@@ -36911,7 +34954,6 @@ engine oil - see Chapter 1. On completion clean
 the drain plug and refit it. Renew the O-ring.
 
 ### Engine repair procedures - 1.6 and 1.8 litre 8 valve 2C•5
-`volkswagen_volkswagen_golf_2_en_95eff781` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 2C
 1081 VW Golf & Jetta
@@ -36945,7 +34987,6 @@ g)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 * When checking the connecting rod-to-crankshaft journal radial clearance using Plastigage, tighten only to 30Nm (22 lbf ft).
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_538c1e26` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:86
 
 5 Remove the radiator, together with the
 cooling fan. On models manufactured after
@@ -36990,7 +35031,6 @@ the
 carburettor.
 
 ### Identify
-`volkswagen_volkswagen_golf_2_en_4d4ed0a2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:87
 
 the
 connections where necessary to avoid
@@ -37022,7 +35062,6 @@ underneath.
 19 On automatic transmission models, select
 
 ### P (Park) then disconnect the throttle and
-`volkswagen_volkswagen_golf_2_en_3cd92e72` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:87
 
 selector cables from the transmission.
 20 Disconnect the driveshafts from the
@@ -37062,7 +35101,6 @@ Refer to Specifications for fastener torque wrench settings b, e and f
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_a0e8789d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:87
 
 26 The engine/gearbox unit is now ready for
 lifting out but first make a final check that all
@@ -37072,7 +35110,6 @@ the unit clear of the surrounding components
 in the engine compartment as it is lifted out.
 
 ### The unit will have to be twisted slightly as it is
-`volkswagen_volkswagen_golf_2_en_c3ae90b6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:88
 
 raised. Once clear of the vehicle, lower it to
 the work surface.
@@ -37122,7 +35159,6 @@ need to be pulled forwards first then twisted
 and lifted.
 
 ### Engine repair procedures - 1.6 and 1.8 litre 8 valve 2C•7
-`volkswagen_volkswagen_golf_2_en_8caabe79` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:88
 
 2C
 1081 VW Golf & Jetta
@@ -37142,7 +35178,6 @@ Distributor HT cable
 6
 
 ### Hall sender (distributor)
-`volkswagen_volkswagen_golf_2_en_79f2d82f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:88
 
 7
 Vacuum switch
@@ -37161,7 +35196,6 @@ Throttle cable
 2
 
 ### Cold start valve
-`volkswagen_volkswagen_golf_2_en_08d3dfca` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:88
 
 3
 Vacuum hoses
@@ -37181,7 +35215,6 @@ necessary to refer to those paragraphs
 pertinent to the particular method being used.
 
 ### The engine must be supported on blocks, or
-`volkswagen_volkswagen_golf_2_en_7a02fb75` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:89
 
 alternatively the gearbox can be separated
 with the engine still on the hoist.
@@ -37195,7 +35228,6 @@ Engine ancillary components
 3
 
 ### With the engine removed from the vehicle
-`volkswagen_volkswagen_golf_2_en_f26938f1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:89
 
 and separated from the transmission, the
 externally mounted ancillary components can
@@ -37217,7 +35249,6 @@ h) Oil pressure and coolant temperature and
 sensor switches
 
 ### I) Coolant pump and coolant hose
-`volkswagen_volkswagen_golf_2_en_8ef1b14e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:89
 
 connectors from cylinder block and head.
 New O-rings will be required
@@ -37228,7 +35259,6 @@ shim(s) (automatic transmission)
 9
 
 ### Timing belt and sprockets -
-`volkswagen_volkswagen_golf_2_en_2d9e5793` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:89
 
 removal
 3
@@ -37248,7 +35278,6 @@ necessary to remove the bung from the front
 9.2  Timing belt and cover components
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_6e723652` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:89
 
 face of the cover to allow access to the Allen
 type retaining screw recessed within the
@@ -37270,7 +35299,6 @@ cover.
 6 The engine must now be set for timing.
 
 ### Temporarily refit the crankshaft pulley. On the
-`volkswagen_volkswagen_golf_2_en_a63b1251` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:90
 
 intermediate sprocket for the timing belt one
 tooth has a centre-punch mark. Turn the
@@ -37287,7 +35315,6 @@ has a centre-punch mark. This should be level
 with the valve cover flange (see illustration).
 
 ### Having turned the engine until these marks
-`volkswagen_volkswagen_golf_2_en_81643c7b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:90
 
 agree, now look at the cams for No 1 cylinder
 (nearest the timing belt). They will both be in
@@ -37353,7 +35380,6 @@ examination and refitting
 3
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_7691fff1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:90
 
 1 To remove the camshaft with the engine in
 the vehicle, first carry out the following
@@ -37363,7 +35389,6 @@ then disconnect the timing belt from the
 camshaft sprocket
 
 ### Engine repair procedures - 1.6 and 1.8 litre 8 valve 2C•9
-`volkswagen_volkswagen_golf_2_en_ded9833f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:90
 
 2C
 9.7b  No. 1 cylinder cam lobes in valve
@@ -37376,7 +35401,6 @@ notch in crankshaft pulley
 at TDC on compression
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_65d02348` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:90
 
 b) If the camshaft oil seal is to be renewed
 then the camshaft timing sprocket must
@@ -37386,7 +35410,6 @@ illustrations), making a careful note of their
 fitted positions for reference when refitting .
 
 ### The caps are numbered (see illustration) but
-`volkswagen_volkswagen_golf_2_en_b4a3f67d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:91
 
 mark the side nearest the front of the cylinder
 head. No. 1 cap is the one with a small oil seal
@@ -37400,7 +35423,6 @@ along with the camshaft. The oil seal on the
 front end of the camshaft will come with it.
 
 ### Depending on tappet type, proceed as
-`volkswagen_volkswagen_golf_2_en_bf2c59ea` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:91
 
 follows:
 Shim bucket tappets
@@ -37412,7 +35434,6 @@ side and lifting the disc away. On its reverse,
 each disc is engraved with a size (eg. 3.75).
 
 ### This is its thickness number. Note the number
-`volkswagen_volkswagen_golf_2_en_bf9d1ba7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:91
 
 and then clean the disc and refit it, number
 side down. There are eight of these and they
@@ -37429,7 +35450,6 @@ valves, so a container for each valve assembly
 (arrowed)
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_114a53ba` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:91
 
 and tappet is required. Label the containers 1
 to 8, as follows:
@@ -37439,7 +35459,6 @@ Containers 3 and 4 will be No 2 cylinder
 exhaust and inlet respectively
 
 ### Containers 5 and 6 will be No 3 cylinder
-`volkswagen_volkswagen_golf_2_en_5aadadff` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:92
 
 inlet and exhaust respectively
 Containers 7 and 8 will be No 4 cylinder
@@ -37460,7 +35479,6 @@ cracks.
 must be renewed.
 
 ### Examination
-`volkswagen_volkswagen_golf_2_en_90b5ba60` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:92
 
 10 Refer to Section 27 in Part A of this
 Chapter whilst noting that on exchange
@@ -37469,7 +35487,6 @@ supplied with bearing shells instead of running
 directly in the head and bearing caps.
 
 ### Exchange units supplied by VW may have an
-`volkswagen_volkswagen_golf_2_en_0a215293` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:92
 
 undersized camshaft with corresponding
 bearing shells. Where this is the case, the
@@ -37480,7 +35497,6 @@ shells will be of standard size with a journal
 diameter of 26.00 mm.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_03dda100` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:92
 
 11 Refer to Section 12.
 11 Cylinder head - removal
@@ -37522,7 +35538,6 @@ carburettor.
 plugs.
 
 ### Fuel injection equipped engines
-`volkswagen_volkswagen_golf_2_en_45569ac0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:92
 
 8 Detach the injector lines from the cylinder
 head and location clips and fold them back
@@ -37534,7 +35549,6 @@ valve housing and at the three-way connector
 on the bulkhead side of the cylinder head.
 
 ### Fold back and secure the hoses out of the
-`volkswagen_volkswagen_golf_2_en_da718be0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:92
 
 way.
 11 Disconnect the auxiliary air valve lead
@@ -37553,7 +35567,6 @@ valve connection.
 start valve.
 
 ### All engines
-`volkswagen_volkswagen_golf_2_en_8ec146e9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:92
 
 16 Remove the timing cover and valve cover,
 then disconnect the timing belt from the
@@ -37585,7 +35598,6 @@ clean all carbon from the combustion
 chambers, valve faces and exhaust ports.
 
 ### Remove the spark plugs for cleaning.
-`volkswagen_volkswagen_golf_2_en_669af301` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:92
 
 2 The valves are not easy to get out unless a
 suitable valve spring compressor is available.
@@ -37615,7 +35627,6 @@ refitting in the valve guide from which they
 were taken (see illustration).
 
 ### Engine repair procedures - 1.6 and 1.8 litre 8 valve 2C•11
-`volkswagen_volkswagen_golf_2_en_ee5aa2e0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:92
 
 2C
 12.2  Improvised tool used to remove and
@@ -37631,7 +35642,6 @@ then
 insert it into the slot on the valve stem.
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_6b46f5ac` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:92
 
 4 The valve springs must be renewed if they
 are damaged, distorted, or known to have
@@ -37655,7 +35665,6 @@ will move sideways when the top of the valve
 stem is flush with the top of the valve guide.
 
 ### The valve rock limits are given in the
-`volkswagen_volkswagen_golf_2_en_4146f184` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:93
 
 Specifications. New valve guides must be
 fitted and reamed by your VW dealer.
@@ -37741,7 +35750,6 @@ cams point upwards.
 lubricate the bearings, set the shaft in position
 
 ### and install bearing caps Nos 2 and 4,
-`volkswagen_volkswagen_golf_2_en_c45a6409` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:93
 
 and install bearing caps Nos 2 and 4,
 tightening the nuts in a diagonal pattern until
@@ -37759,7 +35767,6 @@ and refitting
 3
 
 ### Modification: From August 1985, a larger
-`volkswagen_volkswagen_golf_2_en_cd85ce10` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:93
 
 sump is fitted thereby increasing engine oil
 capacity. If renewing the sump, ensure that
@@ -37769,7 +35776,6 @@ Removal
 engine oil. Note that the sump plug has an
 
 ### O-ring which must be renewed (see
-`volkswagen_volkswagen_golf_2_en_7cfa027b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:93
 
 illustration).
 2 Undo the sump retaining bolts and remove
@@ -37788,7 +35794,6 @@ head
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_89bea5c5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:93
 
 complete with the oil pick-up pipe and
 strainer.
@@ -37813,7 +35818,6 @@ then lower and remove the pump, complete
 with oil pick-up pipe from the crankcase.
 
 ### Place it on one side for cleaning and
-`volkswagen_volkswagen_golf_2_en_d74179b3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:94
 
 inspection.
 4 The piston and connecting rod removal
@@ -37834,7 +35838,6 @@ flange, seal and gasket.
 3 Examine the main bearing caps. It will be
 
 ### Engine repair procedures - 1.6 and 1.8 litre 8 valve 2C•13
-`volkswagen_volkswagen_golf_2_en_b67c2af2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:94
 
 2C
 1081 VW Golf & Jetta
@@ -37887,7 +35890,6 @@ reassembly.
 15.3  Checking crankshaft endfloat at
 
 ### No. 3 main bearing
-`volkswagen_volkswagen_golf_2_en_06e41543` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:95
 
 16.5b  Withdrawing intermediate shaft
 16.5a  Intermediate shaft retaining flange
@@ -37899,7 +35901,6 @@ Downloaded from www.Manualslib.com manuals search engine
 1
 
 ### Refer to Chapter 1, Section 18
-`volkswagen_volkswagen_golf_2_en_b9c8c4ca` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:96
 
 18 Oil cooler - removal and
 refitting
@@ -37938,7 +35939,6 @@ withdraw the mounting and gasket.
 from the top face of the mounting if required.
 
 ### Renew the switch O-ring.
-`volkswagen_volkswagen_golf_2_en_6f4c1618` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:96
 
 4 Refitting is a reversal of the removal
 procedure. Renew the mounting gasket.
@@ -37949,7 +35949,6 @@ carried out with the engine in the vehicle
 Crankshaft seals
 
 ### Flywheel/driveplate end
-`volkswagen_volkswagen_golf_2_en_ba72940a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:96
 
 1 On manual gearbox models, remove the
 clutch and pressure plate. On automatic
@@ -37972,7 +35971,6 @@ avoid damage to the oil seal lip.
 4 Refit the driveplate or clutch.
 
 ### Timing belt end
-`volkswagen_volkswagen_golf_2_en_515e61ca` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:96
 
 5 Remove the alternator, together with its
 drivebelt.
@@ -37997,7 +35995,6 @@ squarely into the housing using a block of
 wood or suitable metal tubing. If available use
 
 ### VW fitting sleeve No. 3083.
-`volkswagen_volkswagen_golf_2_en_31c1aa03` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:96
 
 10 The remaining refitting procedure is a
 reversal of removal. Ensure that the timing
@@ -38027,7 +36024,6 @@ marks are aligned before refitting the timing
 belt and tensioning it.
 
 ### Intermediate shaft seal
-`volkswagen_volkswagen_golf_2_en_ed18ba94` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:96
 
 17 Remove the alternator together with its
 drivebelt.
@@ -38048,7 +36044,6 @@ belt and tensioning it.
 - general information
 
 ### Refer to Section 20 in Part A of this Chapter.
-`volkswagen_volkswagen_golf_2_en_fe1bd585` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:96
 
 22 Crankshaft and bearings -
 examination and renovation 5
@@ -38060,7 +36055,6 @@ components
 1
 
 ### Intermediate plate
-`volkswagen_volkswagen_golf_2_en_67b6dd2a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:96
 
 2
 Bolt
@@ -38078,7 +36072,6 @@ Downloaded from www.Manualslib.com manuals search engine
 examination and renovation 5
 
 ### Refer to Section 22 in Part A of this Chapter.
-`volkswagen_volkswagen_golf_2_en_875c13bd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:97
 
 24 Pistons and connecting rods
 - examination and renovation 4
@@ -38096,7 +36089,6 @@ of the cover (see illustration). As seen in the
 illustration, the gears have marked the cover.
 
 ### If the depth of this marking is significant, then
-`volkswagen_volkswagen_golf_2_en_2073d130` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:97
 
 the face of the cover must be machined flat
 again.
@@ -38156,7 +36148,6 @@ examination and renovation 4
 chipped or worn then renew the starter ring.
 
 ### This means heating the ring until it may be
-`volkswagen_volkswagen_golf_2_en_ba692478` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:97
 
 withdrawn from the flywheel, or alternatively,
 splitting it. A new one must then be shrunk on.
@@ -38183,7 +36174,6 @@ scoring
 27.3  Flywheel/driveplate ignition timing marks
 
 ### Engine code EZ (1.6)-flywheel a = 37.0 mm 18° BTDC
-`volkswagen_volkswagen_golf_2_en_407a9e70` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:97
 
 Engine code EZ (1.6)-driveplate: a = 42.0 mm 18° BTDC
 Engine code EV (1.8) - flywheel: a = 12.5 mm 6° BTDC
@@ -38191,7 +36181,6 @@ Engine code GU (1.8) - flywheel a = 37.0 mm 18° BTDC
 Engine code GU (1.8) - driveplate: a = 42.0 mm 18° BTDC
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_7569abd7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:97
 
 4 On automatic transmission models, check
 the driveplate as described for the flywheel. It
@@ -38201,7 +36190,6 @@ driveplate for ignition timing.
 examination and renovation 1
 
 ### Refer to Section 26 in Part A of this
-`volkswagen_volkswagen_golf_2_en_38d061d0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:98
 
 Chapter. The information given also applies to
 the intermediate shaft sprocket.
@@ -38213,7 +36201,6 @@ bearings - refitting
 3
 
 ### Note: If it is difficult to rotate the crankshaft,
-`volkswagen_volkswagen_golf_2_en_cbc3cf81` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:98
 
 check that the bearing shells are seated
 properly and that the bearing cap is in the
@@ -38234,7 +36221,6 @@ that the tang on the bearing engages in the
 recess in the crankcase or bearing cap.
 
 ### Ensure that the shells fitted to the crankcase
-`volkswagen_volkswagen_golf_2_en_4461538d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:98
 
 have oil grooves and holes and that these
 align with the drillings in the bearing housings.
@@ -38276,7 +36262,6 @@ using a new gasket, install the rear oil seal and
 flange. Tighten the six bolts (see illustration).
 
 ### Engine repair procedures - 1.6 and 1.8 litre 8 valve 2C•17
-`volkswagen_volkswagen_golf_2_en_8d4f57cb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:98
 
 2C
 30.3a  Fitting flanged type centre main
@@ -38296,7 +36281,6 @@ with joint face
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_acb25a2d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:98
 
 10 Lubricate the front of the crankshaft and
 fit the front oil seal and flange with a new
@@ -38307,7 +36291,6 @@ Lubricate the intermediate shaft with clean
 engine oil then install it in the block.
 
 ### Fit the O-ring and flange, together with the
-`volkswagen_volkswagen_golf_2_en_57594028` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 oil seal, then tighten the bolts. Note that the
 oil hole must be at the bottom of the flange.
@@ -38318,7 +36301,6 @@ Proceed as described in Section 30, Part A
 of this Chapter, paragraphs 2 to 7 inclusive.
 
 ### When refitting the big-end nuts, oil the
-`volkswagen_volkswagen_golf_2_en_5c9223b6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 threads.
 On completion, check the endfloat of each
@@ -38338,7 +36320,6 @@ adjusted with the cylinder head removed
 normal manner described in Section 12 of
 
 ### Chapter 1.
-`volkswagen_volkswagen_golf_2_en_7a3eafa7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 3 There are two specified valve clearance
 settings, these being for a cold (cylinder head
@@ -38354,7 +36335,6 @@ again, hot, after 600 miles (900 km).
 3
 
 ### Note: New cylinder head retaining bolts must
-`volkswagen_volkswagen_golf_2_en_92caeea4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 be used on refitting
 1 Clean the top face of the block. Clean and
@@ -38366,7 +36346,6 @@ inclined surface between No. 3 and No. 4
 cylinders on the side above the distributor.
 
 ### Using this as a datum, install a new cylinder
-`volkswagen_volkswagen_golf_2_en_4341a20a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 head gasket so that the word ‘OBEN’ on the
 gasket is over this datum point and on the top
@@ -38382,7 +36361,6 @@ new bolts. Following the sequence shown,
 tighten the bolts until the head is firmly held.
 
 ### Using a torque wrench, tighten the bolts in
-`volkswagen_volkswagen_golf_2_en_1314c3fb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 stages to the specified torque following the
 same sequence (see illustration).
@@ -38398,7 +36376,6 @@ washer onto the bolt then fit and tighten the
 bolt to the specified torque wrench setting.
 
 ### Hold the sprocket stationary when tightening
-`volkswagen_volkswagen_golf_2_en_68b2c336` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 by inserting a screwdriver through one of its
 holes and jamming it against the cylinder
@@ -38408,7 +36385,6 @@ the groove at the front of the crankshaft then
 refit the timing belt sprocket onto the shaft.
 
 ### Lubricate the retaining bolt with oil, locate the
-`volkswagen_volkswagen_golf_2_en_9548bcf5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 spacer washer onto the bolt then fit and
 tighten it to the specified torque wrench
@@ -38427,7 +36403,6 @@ block or head.
 4 If removed, refit the timing belt rear cover.
 
 ### Apply locking compound to the stud thread.
-`volkswagen_volkswagen_golf_2_en_fe325e04` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 5 Locate the crankshaft pulley onto the
 sprocket (aligning the marks made previously)
@@ -38442,7 +36417,6 @@ intermediate shaft sprocket until the dot on
 the intermediate sprocket and the mark on the
 
 ### V-belt pulley coincide. Install the timing belt
-`volkswagen_volkswagen_golf_2_en_06f2b306` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 tensioner loosely and then the timing belt.
 Making sure the marks are still in place, put a
@@ -38457,7 +36431,6 @@ block
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_369dcabe` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:99
 
 between the camshaft and intermediate shaft
 sprockets. Tighten the eccentric adjuster nut
@@ -38484,7 +36457,6 @@ driveplate together with any shims originally
 located between the crankshaft and the plate.
 
 ### Fit the washer on the transmission side of the
-`volkswagen_volkswagen_golf_2_en_be43eff2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:100
 
 driveplate, ensuring that the chamfered side
 of the washer faces towards the driveplate.
@@ -38538,7 +36510,6 @@ engine.
 4
 
 ### To refit the engine/transmission, reverse the
-`volkswagen_volkswagen_golf_2_en_a680a765` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:100
 
 removal procedures but note the following:
 a) When lowering the unit into the engine
@@ -38565,7 +36536,6 @@ system fluid
 checking free travel (from
 
 ### August 1985)
-`volkswagen_volkswagen_golf_2_en_ec28d512` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:100
 
 2
 1 Start the engine and run it until the radiator
@@ -38593,7 +36563,6 @@ major overhaul
 2
 
 ### Refer to Section 41 in Part A of this Chapter.
-`volkswagen_volkswagen_golf_2_en_55491993` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:100
 
 If new hydraulic bucket tappets have been
 fitted, it is essential that no attempt to restart
@@ -38604,7 +36573,6 @@ damage caused by the valves contacting the
 pistons.
 
 ### Engine repair procedures - 1.6 and 1.8 litre 8 valve 2C•19
-`volkswagen_volkswagen_golf_2_en_b588b3e5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:100
 
 2C
 36.1  Checking driveplate-to-cylinder block dimension (A) using vernier calipers
@@ -38618,7 +36586,6 @@ Downloaded from www.Manualslib.com manuals search engine
 3
 
 ### Refer to the appropriate Part of Chapter 2
-`volkswagen_volkswagen_golf_2_en_30ecb9a5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:102
 
 for the particular engine type concerned.
 36 Brake fluid renewal
@@ -38662,7 +36629,6 @@ final drive fluid renewal
 2
 
 ### Note: Under extreme operating conditions,
-`volkswagen_volkswagen_golf_2_en_bd2a4428` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:102
 
 automatic transmission fluid should be
 changed at more frequent intervals.
@@ -38695,7 +36661,6 @@ torque. Lower the vehicle.
 of the specified fluid, then restart the engine.
 
 ### Check that the handbrake is fully applied then
-`volkswagen_volkswagen_golf_2_en_cc494c2f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:102
 
 move the gear selector lever through the full
 range of gears finishing at N. With the engine
@@ -38709,7 +36674,6 @@ warm-up the fluid in the transmission then
 recheck the fluid level. Top-up if necessary.
 
 ### Do not overfill with fluid or the excess will
-`volkswagen_volkswagen_golf_2_en_56454ba9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:102
 
 have to be drained off.
 Final drive unit
@@ -38729,7 +36693,6 @@ then refit the plug. Lower the vehicle.
 1081 VW Golf & Jetta
 
 ### Every 30 000 miles (45 000 km)
-`volkswagen_volkswagen_golf_2_en_96de2235` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:102
 
 Every 2 years
 Every 40 000 miles (60 000 km)
@@ -38741,14 +36704,12 @@ Chapter 4  Part A:
 Fuel and exhaust systems - carburettor models
 
 ### Air cleaner
-`volkswagen_volkswagen_golf_2_en_78bc473d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:103
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Automatic air temperature control
 Element type . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Renewable paper
-`volkswagen_volkswagen_golf_2_en_c57349a5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:103
 
 Element application:
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -38756,14 +36717,12 @@ Champion Wl01
 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion W102
-`volkswagen_volkswagen_golf_2_en_9d09e477` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:103
 
 1.6 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion U508
 1.8 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion U508
-`volkswagen_volkswagen_golf_2_en_28cd9d7f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:103
 
 Fuel pump
 Type:
@@ -38773,7 +36732,6 @@ Mechanical, diaphragm, operated by plunger from camshaft
 Mechanical, diaphragm, operated by eccentric on intermediate shaft
 
 ### Fuel filter
-`volkswagen_volkswagen_golf_2_en_ead8822d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:103
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion L104
@@ -38782,14 +36740,12 @@ Pierburg/Solex 31 PIC-7
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Downdraught with manual or automatic choke
-`volkswagen_volkswagen_golf_2_en_f1870782` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:103
 
 Venturi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 23 mm
 Main jet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### X117.5
-`volkswagen_volkswagen_golf_2_en_1701a656` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:103
 
 Air correction jet with emulsion tube  . . . . . . . . . . . . . . . . . . . . . . . . . . .
 115 Z
@@ -38844,7 +36800,6 @@ Fuel reservoir - removal and refitting . . . . . . . . . . . . . . . . . . . . .
 Fuel tank - removal and refitting  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### General information and precautions . . . . . . . . . . . . . . . . . . . . .
-`volkswagen_volkswagen_golf_2_en_264fb4b3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:103
 
 7
 General information and precautions  . . . . . . . . . . . . . . . . . . . . . . . .
@@ -38853,7 +36808,6 @@ Inlet and exhaust manifolds - removal and refitting  . . . . . . . . . . . . . 1
 Inlet manifold preheating - testing . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_87dd8418` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:103
 
 suitable for expert DIY
 or  professional
@@ -38890,7 +36844,6 @@ CO content % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.0 ± 0.5
 
 ### Weber 32 TLA
-`volkswagen_volkswagen_golf_2_en_2cfe0866` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:104
 
 Venturi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 22 mm
@@ -38901,7 +36854,6 @@ Code 030 129 016 D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 102
 
 ### Air correction jet:
-`volkswagen_volkswagen_golf_2_en_83325b69` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:104
 
 Code 030 129 016  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 80
@@ -38913,7 +36865,6 @@ Idling fuel jet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 47
 
 ### Idling air jet:
-`volkswagen_volkswagen_golf_2_en_68f38b2e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:104
 
 Code 030 129 016  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 110
@@ -38933,7 +36884,6 @@ Accelerator pump capacity (cc/stroke) . . . . . . . . . . . . . . . . . . . . . 
 1.05 ± 0.15
 
 ### Choke valve gap (pull-down):
-`volkswagen_volkswagen_golf_2_en_f85f1358` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:104
 
 Without vacuum  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.5 ± 0.2 mm
@@ -38941,7 +36891,6 @@ With 300 mbar vacuum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.0 ± 0.2 mm
 
 ### Choke valve gap (wide open kick):
-`volkswagen_volkswagen_golf_2_en_1c591710` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:104
 
 Code 030 129 016  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.0 ± 0.5 mm
@@ -38957,7 +36906,6 @@ CO content % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.0 ± 0.5
 
 ### Carburettor - 1.3 litre
-`volkswagen_volkswagen_golf_2_en_6bb0ece9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:104
 
 Pierburg/Solex 2E3
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -38971,7 +36919,6 @@ Main jet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 X95
 
 ### X110
-`volkswagen_volkswagen_golf_2_en_5b64d400` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:104
 
 Air correction jet with emulsion tube  . . . . . . . . . . . . . . . . . . . . . . . . . . .
 120
@@ -39005,7 +36952,6 @@ C0 content %  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_840523fd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:104
 
 Carburettor-1.6 litre
 Pierburg/Solex 2E2 - engine code EZ
@@ -39013,7 +36959,6 @@ Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Twin progressive choke, downdraught with automatic choke
 
 ### Stage I
-`volkswagen_volkswagen_golf_2_en_a516281b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:105
 
 Stage II
 Venturi diameter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -39022,7 +36967,6 @@ Venturi diameter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Main jet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### X110
-`volkswagen_volkswagen_golf_2_en_07655310` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:105
 
 X127
 Air correction jet with emulsion tube  . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -39047,7 +36991,6 @@ Idle speed  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 950 ± 50 rpm
 
 ### Increased idle speed:
-`volkswagen_volkswagen_golf_2_en_a20a3d92` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:105
 
 Automatic transmission  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 800 rpm
@@ -39057,7 +37000,6 @@ CO content % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.0 ± 0.5
 
 ### Pierburg/Solex 2E2 - engine code RF
-`volkswagen_volkswagen_golf_2_en_9ba6576e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:105
 
 Stage I
 Stage II
@@ -39081,7 +37023,6 @@ Accelerator pump injection tube  . . . . . . . . . . . . . . . . . . . . . . . .
 -
 
 ### Choke valve gap:
-`volkswagen_volkswagen_golf_2_en_0cc80bfe` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:105
 
 Manual gearbox  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2.5 ± 0.15 mm
@@ -39099,7 +37040,6 @@ CO content % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.0 to 1.5
 
 ### Carburettor - 1.8 litre
-`volkswagen_volkswagen_golf_2_en_b1280710` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:105
 
 Pierburg/Solex 2E2
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -39112,7 +37052,6 @@ Venturi diameter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Main jet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### X105
-`volkswagen_volkswagen_golf_2_en_46ce2aef` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:105
 
 X120
 Air correction jet with emulsion tube  . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -39126,7 +37065,6 @@ Full throttle enrichment . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.9
 
 ### Pump injection tube:
-`volkswagen_volkswagen_golf_2_en_3edb61eb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:105
 
 Carburettor part number type 027 129 015  . . . . . . . . . . . . . . . . . . . .
 0.35
@@ -39145,7 +37083,6 @@ Idle speed  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 950 ± 50 rpm
 
 ### Torque wrench settings
-`volkswagen_volkswagen_golf_2_en_7ec2f943` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:105
 
 Nm
 lbf ft
@@ -39176,7 +37113,6 @@ Exhaust pipe clamp bolts  . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 18
 
 ### Fuel and exhaust systems - carburettor models 4A•3
-`volkswagen_volkswagen_golf_2_en_392d773b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:105
 
 4A
 1081 VW Golf & Jetta
@@ -39205,7 +37141,6 @@ Exhaust manifold  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 18
 
 ### Exhaust pipe clip:
-`volkswagen_volkswagen_golf_2_en_90add8b3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:106
 
 8 mm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 25
@@ -39216,7 +37151,6 @@ Exhaust manifold  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1
 
 ### General information and
-`volkswagen_volkswagen_golf_2_en_c3c6a4f8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:106
 
 precautions
 General information
@@ -39230,7 +37164,6 @@ models, it is operated directly by an eccentric
 on the intermediate shaft.
 
 ### The air cleaner unit contains a renewable
-`volkswagen_volkswagen_golf_2_en_365aa7a9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:106
 
 paper element and incorporates an automatic
 temperature control.
@@ -39242,7 +37175,6 @@ Fuel warning
 Many of the procedures in this
 
 ### Chapter require the removal of
-`volkswagen_volkswagen_golf_2_en_8f84271f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:106
 
 fuel lines and connections which
 may result in some fuel spillage.
@@ -39255,7 +37187,6 @@ the precautions necessary when handling
 it cannot be overstressed.
 
 ### Tamperproof adjustment screws
-`volkswagen_volkswagen_golf_2_en_f445d99d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:106
 
 Certain adjustment points in the fuel system
 are protected by “tamperproof” caps, plugs or
@@ -39264,7 +37195,6 @@ to discourage, and to detect, adjustment by
 unqualified operators.
 
 ### In some EEC countries (though not in the
-`volkswagen_volkswagen_golf_2_en_2f3751e3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:106
 
 UK), it is an offence to drive a vehicle with
 missing or broken tamperproof seals. Before
@@ -39274,7 +37204,6 @@ by doing so. Fit a new seal when adjustment
 is complete, if this is required by law.
 
 ### Do not break tamperproof seals on a
-`volkswagen_volkswagen_golf_2_en_ec8536c3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:106
 
 vehicle which is still under warranty.
 Unleaded petrol - usage
@@ -39289,7 +37218,6 @@ will lead to serious damage of the valve seats.
 2
 
 ### Air cleaner element - renewal 1
-`volkswagen_volkswagen_golf_2_en_300af585` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:106
 
 Refer to Chapter 1, Section 32
 3
@@ -39325,7 +37253,6 @@ perished or distorted.
 4
 
 ### Automatic air cleaner
-`volkswagen_volkswagen_golf_2_en_2d5017e2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:106
 
 temperature control - testing 2
 1 Unclip and remove the vacuum unit and
@@ -39335,7 +37262,6 @@ connected (see illustration).
 through the inlet duct then start the engine.
 
 ### Between -20°C and + 20°C, the control flap in
-`volkswagen_volkswagen_golf_2_en_d3fb6766` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:106
 
 the unit should be a maximum of 2/3rds open
 to admit hot air from the exhaust manifold.
@@ -39358,7 +37284,6 @@ hose . . .
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_e43bb871` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:106
 
 Fuel and exhaust systems - carburettor models  4A•5
 4A
@@ -39379,7 +37304,6 @@ Bracket
 7
 
 ### Washer
-`volkswagen_volkswagen_golf_2_en_1695b6c9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:107
 
 8
 Nut
@@ -39407,7 +37331,6 @@ Bonded rubber mounting
 1.05 and 1.3 litre
 
 ### A Temperature regulator
-`volkswagen_volkswagen_golf_2_en_42d6458e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:107
 
 B Intake pipe with thermostat
 C Vacuum unit
@@ -39420,7 +37343,6 @@ sensor (see illustration).
 5
 
 ### Fuel pump - testing, removal
-`volkswagen_volkswagen_golf_2_en_b9a3f52a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:108
 
 and refitting
 3
@@ -39452,7 +37374,6 @@ repair it. However, prior to removal of the
 pump, check the in-line filter for blockage.
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_1055775b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:108
 
 4 To remove the fuel pump, first identify the
 hoses for position then disconnect them from
@@ -39467,7 +37388,6 @@ lead location.
 cylinder head or cylinder block/seal flange.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_1f09611c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:108
 
 7 Refitting is a reversal of the removal
 procedure. Renew the seal ring and, where
@@ -39486,7 +37406,6 @@ of fuel leakage.
 1.6 and 1.8 litre
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_e6752eba` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:108
 
 6
 Fuel reservoir - removal and
@@ -39515,7 +37434,6 @@ completion.
 7
 
 ### Fuel tank - removal and
-`volkswagen_volkswagen_golf_2_en_fda11068` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:109
 
 refitting
 3
@@ -39559,7 +37477,6 @@ damaged or leaks, it should be repaired
 professionally or renewed.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_768635d8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:109
 
 12 Refitting is a reversal of removal. Make
 sure that the rubber packing strips are fitted
@@ -39572,7 +37489,6 @@ Fuel and exhaust systems - carburettor models  4A•7
 (arrowed)
 
 ### Note earth lead connection to lower screw
-`volkswagen_volkswagen_golf_2_en_d0fdc9ad` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:109
 
 7.6  Fuel filler breather valve and hose
 7.9  Fuel tank retaining strap-to-floor bolts
@@ -39582,7 +37498,6 @@ Downloaded from www.Manualslib.com manuals search engine
 8
 
 ### Fuel gauge sender unit -
-`volkswagen_volkswagen_golf_2_en_006424d6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:110
 
 removal and refitting
 2
@@ -39603,7 +37518,6 @@ the securing nut.
 5 Renew the sender unit seal.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_d26af47c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:110
 
 6 Refit in the reverse order to removal, noting
 the following:
@@ -39615,7 +37529,6 @@ c) Check that the wiring connection is secure.
 9
 
 ### Fuel filler gravity valve -
-`volkswagen_volkswagen_golf_2_en_5f865c5e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:110
 
 removal, testing and refitting 1
 1 The gravity valve is located in the fuel filler
@@ -39634,7 +37547,6 @@ adjustment
 2
 
 ### Manual gearbox
-`volkswagen_volkswagen_golf_2_en_71960d58` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:110
 
 Removal
 1 Disconnect the battery earth lead.
@@ -39652,7 +37564,6 @@ into the engine compartment, together with
 the rubber grommets.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_8038aded` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:110
 
 7 Refitting of the accelerator cable is a
 reversal of removal. Make sure that the cable
@@ -39686,7 +37597,6 @@ screw
 12 After adjustment refit the air cleaner.
 
 ### Automatic transmission
-`volkswagen_volkswagen_golf_2_en_bd47c25d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:110
 
 Removal
 13 On automatic transmission models, the
@@ -39716,7 +37626,6 @@ attachment
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_61412011` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:110
 
 retaining clip and then disconnect the cable
 from the carburettor.
@@ -39725,7 +37634,6 @@ securing clip and detach the cable from the
 operating lever and the cable support bracket.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_4ca866d1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:111
 
 18 Refitting of both cables is a reversal of the
 removal procedure.
@@ -39744,7 +37652,6 @@ pedal
 press out the pivot pin bushes.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_3a00ac14` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:111
 
 5 Refitting is a reversal of removal. Lubricate
 the bushes with a little grease and check
@@ -39769,7 +37676,6 @@ from the facia.
 complete cable from inside the vehicle.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_e57d17f8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:111
 
 8 Refitting is a reversal of removal. Make sure
 that the cable is correctly aligned and that the
@@ -39781,7 +37687,6 @@ Adjustment
 its end protrudes by approximately 12.0 mm.
 
 ### Tighten the clamp with the outer cable in this
-`volkswagen_volkswagen_golf_2_en_25bd1cab` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:111
 
 position (see illustration).
 10 Push the choke knob fully in then pull it
@@ -39791,7 +37696,6 @@ check that the warning lamp is not lit.
 clamp and fully open the choke lever by hand.
 
 ### Tighten the inner cable clamp screw in this
-`volkswagen_volkswagen_golf_2_en_ba330f33` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:111
 
 position.
 12 Refit the air cleaner.
@@ -39830,7 +37734,6 @@ manifold, undo the four nuts on the manifold
 underside and lift the flange clear.
 
 ### Fuel and exhaust systems - carburettor models 4A•9
-`volkswagen_volkswagen_golf_2_en_73c88789` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:111
 
 4A
 1081 VW Golf & Jetta
@@ -39841,7 +37744,6 @@ transmission variants with 2E2 carburettor
 A Outer cable projection
 
 ### B Cam and stop
-`volkswagen_volkswagen_golf_2_en_d2b70c5d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:111
 
 C Choke inner cable connection
 Downloaded from www.Manualslib.com manuals search engine
@@ -39897,7 +37799,6 @@ components
 components
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_41da31e4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:112
 
 Fuel and exhaust systems - carburettor models  4A•11
 4A
@@ -39913,7 +37814,6 @@ components
 1
 
 ### Idle speed boost
-`volkswagen_volkswagen_golf_2_en_a1e6245d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:114
 
 two-way valve
 2
@@ -39949,7 +37849,6 @@ Enrichment tube
 1
 
 ### Bearing ring
-`volkswagen_volkswagen_golf_2_en_427c485a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:114
 
 2
 Pump plunger
@@ -39974,7 +37873,6 @@ Part throttle enrichment jet
 14 Mixture adjustment screw
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_20b50a51` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:114
 
 Fuel and exhaust systems - carburettor models  4A•13
 4A
@@ -39988,7 +37886,6 @@ Air correction jet
 3
 
 ### Auxiliary fuel jet (if applicable)
-`volkswagen_volkswagen_golf_2_en_c4e3eddc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:115
 
 4
 Idling fuel jet
@@ -40017,7 +37914,6 @@ Plugs
 22 Adjusting screw
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_e214ae9e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:115
 
 15 Carburettor (1.05 litre
 engine) - adjustments
@@ -40029,7 +37925,6 @@ correct. Incorrect valve clearances can also
 effect carburettor adjustment
 
 ### Pierburg/Solex 31 PIC7
-`volkswagen_volkswagen_golf_2_en_d06e0f39` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:116
 
 Bypass air cut-off valve
 1 To check the bypass air cut-off valve when
@@ -40039,7 +37934,6 @@ click should be heard and the pin should move
 out.
 
 ### Cut-off valve
-`volkswagen_volkswagen_golf_2_en_c49d3510` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:116
 
 2 To check the cut-off valve for the main jets
 (where fitted), apply battery voltage. It must
@@ -40061,7 +37955,6 @@ necessary adjusted. Pull the choke out fully,
 then push it onto the smooth running detent.
 
 ### Press the choke lever against the cam and
-`volkswagen_volkswagen_golf_2_en_4213f3de` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:116
 
 check the choke valve gap with a twist drill, as
 in the previous paragraph. If the gap is not as
@@ -40081,7 +37974,6 @@ glass. Operate the throttle fully five times
 allowing at least three seconds per stroke.
 
 ### Divide the final quantity by five to determine
-`volkswagen_volkswagen_golf_2_en_f7ea6599` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:116
 
 the amount per stroke and compare with the
 amount specified. If necessary, reposition the
@@ -40091,7 +37983,6 @@ injected into the throttle valve gap. If
 necessary, bend the injection pipe.
 
 ### Slow running and fast idle
-`volkswagen_volkswagen_golf_2_en_ebd3567d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:116
 
 7 Run the engine to normal operating
 temperature then stop it. Connect a
@@ -40117,7 +38008,6 @@ body components
 1
 
 ### Accelerator pump
-`volkswagen_volkswagen_golf_2_en_aba21a7b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:116
 
 2
 Injection pipe
@@ -40144,7 +38034,6 @@ Idle speed adjustment screw
 16 Mixture adjustment screw
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_0f2d7461` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:116
 
 10 Start the engine and let it idle. Check that
 the engine speed and CO content are as
@@ -40190,7 +38079,6 @@ tachometer and elastic band, then refit the air
 cleaner. Push the choke control knob fully in.
 
 ### Pierburg/Solex 1B3
-`volkswagen_volkswagen_golf_2_en_652dcabc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:117
 
 19 All adjustments are as described for the
 Pierburg 2E3 carburettor fitted to the 1.3 litre
@@ -40201,7 +38089,6 @@ of the enrichment tube should be 1.0 mm
 from the valve (see illustration).
 
 ### Idle speed and mixture
-`volkswagen_volkswagen_golf_2_en_00bfac2c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:117
 
 21 Before making any adjustment, ensure
 that the automatic choke is fully open,
@@ -40216,7 +38103,6 @@ in the idle speed. The valve is itself controlled
 by a two-way valve and further control unit.
 
 ### The control unit monitors the engine speed
-`volkswagen_volkswagen_golf_2_en_ba400a13` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:117
 
 and activates the two-way valve which applies
 vacuum to the idle valve.
@@ -40227,7 +38113,6 @@ rpm there should be vacuum at the hose in
 the idle valve.
 
 ### Fast idle speed
-`volkswagen_volkswagen_golf_2_en_172ef008` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:117
 
 24 With the engine at normal operating
 temperature and switched off, connect a
@@ -40242,7 +38127,6 @@ speed is as specified. If not, turn the
 adjustment screw on the linkage as necessary.
 
 ### If a tamperproof cap is fitted, renew it after
-`volkswagen_volkswagen_golf_2_en_a11cd334` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:117
 
 making the adjustment (see illustration).
 Choke valve gap
@@ -40258,7 +38142,6 @@ carburettor wall is as specified. If not, adjust
 the screw behind the automatic choke.
 
 ### Accelerator pump capacity
-`volkswagen_volkswagen_golf_2_en_8fc6a3bd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:117
 
 30 Hold the carburettor over a funnel and
 measuring glass.
@@ -40274,7 +38157,6 @@ the camplate as required and tighten the
 screw (see illustration).
 
 ### Fuel and exhaust systems - carburettor models 4A•15
-`volkswagen_volkswagen_golf_2_en_a213ec81` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:117
 
 4A
 15.10  Idle speed (A) and mixture (B)
@@ -40294,7 +38176,6 @@ screw location
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_607929f7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:117
 
 33 If difficulty is experienced in making the
 adjustment, check the pump seal and make
@@ -40309,7 +38190,6 @@ plunger must first be depressed by 3.0 to 4.0
 mm before switching on the unit.
 
 ### Weber 32 TLA
-`volkswagen_volkswagen_golf_2_en_7aa35e6a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:118
 
 Float level
 36 With the upper part of the carburettor
@@ -40320,7 +38200,6 @@ needle should not be pressed in against the
 spring when making the measurement,
 
 ### Idle speed and mixture
-`volkswagen_volkswagen_golf_2_en_30d03fa5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:118
 
 37 The procedure for checking and adjusting
 the idle speed and CO content are basically
@@ -40331,7 +38210,6 @@ screws and to the Specifications for settings.
 (see illustrations).
 
 ### Idle speed boost valve
-`volkswagen_volkswagen_golf_2_en_27664a4f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:118
 
 38 The idle speed boost valve is identical to
 the unit on the Pierburg 1B3 carburettor.
@@ -40359,7 +38237,6 @@ not
 compressed when making the check.
 
 ### Idle cut-off valve
-`volkswagen_volkswagen_golf_2_en_5db1c54e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:118
 
 42 To check the cut-off valve, apply battery
 voltage. The valve must be heard to click
@@ -40387,7 +38264,6 @@ idle speed specified.
 50 Adjust the screw as necessary.
 
 ### Choke valve gap (wide open kick)
-`volkswagen_volkswagen_golf_2_en_27d4967b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:118
 
 51 Remove the air cleaner.
 52 Fully open the throttle and hold it in this
@@ -40414,7 +38290,6 @@ screw (B)
 1
 
 ### Twist drill
-`volkswagen_volkswagen_golf_2_en_f03658c7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:118
 
 2
 Spring
@@ -40440,7 +38315,6 @@ throttle valve lever.
 59 Secure the accelerator pump cam with an
 
 ### M4 screw.
-`volkswagen_volkswagen_golf_2_en_425df8fe` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:119
 
 60 Loosen the locknut on the camplate
 securing screw. Loosen the screw and turn
@@ -40453,7 +38327,6 @@ locknut and recheck the injection capacity.
 4
 
 ### Note: Accurate adjustment of the carburettor
-`volkswagen_volkswagen_golf_2_en_cb314db6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:119
 
 is only possible if adjustment of the ignition
 timing, dwell angle and spark plug gaps is
@@ -40466,7 +38339,6 @@ voltage. It must be heard to click when the
 voltage is applied.
 
 ### Choke valve gap
-`volkswagen_volkswagen_golf_2_en_58842ff6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:119
 
 2 To check the choke valve gap the choke
 cover must be removed. Move the throttle
@@ -40481,7 +38353,6 @@ as required to provide the specified choke
 valve gap (see illustrations).
 
 ### Accelerator pump injection capacity
-`volkswagen_volkswagen_golf_2_en_17eba6be` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:119
 
 3 The accelerator pump injection capacity
 can be checked in the same manner as that
@@ -40490,7 +38361,6 @@ allow 1 second per stroke and 3 seconds
 between strokes (see illustration).
 
 ### Choke
-`volkswagen_volkswagen_golf_2_en_2f00ea2c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:119
 
 4 The automatic choke cover and choke
 housing alignment marks should correspond.
@@ -40514,7 +38384,6 @@ pulldown unit diaphragm is broken, in which
 case the unit must be renewed.
 
 ### Fuel and exhaust systems - carburettor models 4A•17
-`volkswagen_volkswagen_golf_2_en_fc64e9c0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:119
 
 4A
 15.53  Checking choke valve gap (wide
@@ -40532,7 +38401,6 @@ Cam
 2
 
 ### Camplate
-`volkswagen_volkswagen_golf_2_en_48caaaa6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:119
 
 3
 Camplate locking
@@ -40549,7 +38417,6 @@ Twist drill
 1
 
 ### Fast idle cam
-`volkswagen_volkswagen_golf_2_en_01f9cb5c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:119
 
 clamp screw
 2
@@ -40585,7 +38452,6 @@ then measure the locking lever clearances
 specified, then bend the levers as necessary.
 
 ### Slow running and fast idle
-`volkswagen_volkswagen_golf_2_en_343adef2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:120
 
 8 To check and adjust the slow running
 setting, refer to Section 15, paragraphs 7 to
@@ -40601,7 +38467,6 @@ temperature control hose.
 give an engine speed of approx. 2500 rpm.
 
 ### Press down the fast idle cam to its stop then
-`volkswagen_volkswagen_golf_2_en_923432ac` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:120
 
 move the throttle valve back so that the
 adjuster screw is on the second highest stop
@@ -40618,7 +38483,6 @@ engines) - adjustments
 4
 
 ### Note: Accurate adjustment of the carburettor
-`volkswagen_volkswagen_golf_2_en_6d543dbd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:120
 
 is only possible if adjustment of the ignition
 timing, dwell angle and spark plug gaps is
@@ -40632,7 +38496,6 @@ adjustments are additional to, or differ from,
 those given.
 
 ### Part throttle channel heater unit
-`volkswagen_volkswagen_golf_2_en_57e2e682` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:120
 
 2 To check this unit, connect a test lamp
 between the unit wiring plug and battery
@@ -40655,7 +38518,6 @@ operating lever as required (see illustration).
 adjust the choke pull-down unit as follows.
 
 ### Choke pull down unit
-`volkswagen_volkswagen_golf_2_en_0fc1ee82` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:120
 
 7 This unit can be checked in the same
 manner as that for the choke pull down unit
@@ -40670,7 +38532,6 @@ vacuum to the pull-down unit is reduced, and
 the choke valve will open by a small amount.
 
 ### After
-`volkswagen_volkswagen_golf_2_en_c5b0003b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:120
 
 between
 one
@@ -40693,7 +38554,6 @@ lever (1) limiting screw (2) and stop (3)
 valves closed
 
 ### Clearance to equal 0.25 to 0.55 mm
-`volkswagen_volkswagen_golf_2_en_35d5a4f3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:120
 
 (each side)
 16.8  Idle speed adjustment screw and
@@ -40704,7 +38564,6 @@ Using drill of correct diameter as a gauge
 (arrowed)
 
 ### Note dimension x (10.0 mm)
-`volkswagen_volkswagen_golf_2_en_61411d2e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:120
 
 1081 VW Golf & Jetta
 Downloaded from www.Manualslib.com manuals search engine
@@ -40718,7 +38577,6 @@ vacuum pump to the three/four point unit at
 “A” (see illustration). Plug connection B (and
 
 ### C on four point unit). Apply vacuum with the
-`volkswagen_volkswagen_golf_2_en_2988e941` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:121
 
 pump to hold the diaphragm pushrod in the
 overrun/cut-off position and to give a
@@ -40738,7 +38596,6 @@ capacity against that specified.
 13 If adjustment is necessary, loosen screw
 
 ### A and rotate the cam plate B in the required
-`volkswagen_volkswagen_golf_2_en_1fa94ffa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:121
 
 direction to increase or decrease the injection
 capacity (see illustration). On completion,
@@ -40750,7 +38607,6 @@ the vehicle but as specialised equipment is
 required, this is a task best entrusted to your
 
 ### VW dealer.
-`volkswagen_volkswagen_golf_2_en_641e5ea8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:121
 
 Throttle valve
 15 For the basic Stage ll valve adjustment,
@@ -40770,7 +38626,6 @@ off the vacuum connection 3, then apply
 increased vacuum with the vacuum pump.
 
 ### This should cause the diaphragm pushrod to
-`volkswagen_volkswagen_golf_2_en_4b81576f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:121
 
 move to the overrun/cut-off point. Measure
 the rod protrusion (a) which should now be
@@ -40782,7 +38637,6 @@ diaphragm or three/four point unit are
 probably leaking and in need of renewal.
 
 ### Three/four point unit - engine vacuum
-`volkswagen_volkswagen_golf_2_en_ee582287` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:121
 
 method
 19 Run the engine to normal operating
@@ -40826,7 +38680,6 @@ three-point unit only, pinch the hose between
 the unit and Y-piece.
 
 ### Fuel and exhaust systems - carburettor models 4A•19
-`volkswagen_volkswagen_golf_2_en_da28f92f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:121
 
 4A
 17.10  Accelerator pump check
@@ -40846,7 +38699,6 @@ valves closed
 preparation
 
 ### Pushrod to idle point a = 8.5 mm
-`volkswagen_volkswagen_golf_2_en_cd516651` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:121
 
 1
 Vacuum connection
@@ -40865,7 +38717,6 @@ plug and hose where applicable. Refit the air
 cleaner.
 
 ### Stage ll vacuum control unit
-`volkswagen_volkswagen_golf_2_en_edde964e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:122
 
 30 This device is fitted to 1.6 litre manual
 gearbox models and 1.8 automatic gearbox
@@ -40882,7 +38733,6 @@ through it. It should be open at 18°C and close
 when the temperature rises above 28°C.
 
 ### Idle/overrun control valve
-`volkswagen_volkswagen_golf_2_en_f2b2fe91` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:122
 
 32 Entrust this operation to your VW dealer as
 specialised testing equipment is necessary.
@@ -40896,7 +38746,6 @@ is
 necessary.
 
 ### Slow running and fast idle
-`volkswagen_volkswagen_golf_2_en_67074b4c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:122
 
 34 To check and adjust the slow running
 setting, proceed as described in Section 15,
@@ -40963,7 +38812,6 @@ testing
 2
 
 ### Heater element
-`volkswagen_volkswagen_golf_2_en_bccfe0cd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:122
 
 1 The inlet manifold is preheated by coolant
 from the cooling system and by a heater
@@ -40974,7 +38822,6 @@ manifold.
 1
 
 ### Thermo-pneumatic valve
-`volkswagen_volkswagen_golf_2_en_0186416b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:122
 
 2
 Restrictor
@@ -40990,7 +38837,6 @@ adjustment
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4b9d4f3a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:122
 
 2 To check the heater element, the engine
 should be cold. Disconnect the wire from the
@@ -41002,7 +38848,6 @@ the element and earth. This should record
 then unscrew the bolts and withdraw the unit.
 
 ### Remove the sealing ring and gasket (see
-`volkswagen_volkswagen_golf_2_en_ed99b2b8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:123
 
 illustrations). When refitting, always renew
 the sealing ring and gasket.
@@ -41039,7 +38884,6 @@ removal and refitting
 3
 
 ### Inlet manifold
-`volkswagen_volkswagen_golf_2_en_86307235` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:123
 
 1 Remove the carburettor.
 2 Disconnect the inlet manifold preheater
@@ -41055,7 +38899,6 @@ crankcase (see illustration).
 (see illustration) whilst noting their respective
 
 ### Fuel and exhaust systems - carburettor models 4A•21
-`volkswagen_volkswagen_golf_2_en_70584cf6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:123
 
 4A
 18.3a  Unscrew the bolts . . .
@@ -41067,7 +38910,6 @@ element
 19.4  Vacuum hose connections – 1.6 and 1.8 litre with
 
 ### Pierburg/Solex 2E2 carburettor
-`volkswagen_volkswagen_golf_2_en_ec35538f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:123
 
 Downloaded from www.Manualslib.com manuals search engine
 locations, then carefully withdraw the
@@ -41080,7 +38922,6 @@ tighten the securing nuts and bolts to the
 specified torque setting.
 
 ### Exhaust manifold
-`volkswagen_volkswagen_golf_2_en_0ac1b5c1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:124
 
 9 Undo the retaining nut(s) and withdraw the
 warm air deflector plate from the exhaust
@@ -41091,7 +38932,6 @@ manifold joint (see illustration).
 11 On 1.6 and 1.8 litre engines, refer to
 
 ### Section 20, paragraph 2.
-`volkswagen_volkswagen_golf_2_en_7461e25a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:124
 
 12 Unscrew and remove the remaining
 manifold retaining bolts/nuts, then carefully
@@ -41113,7 +38953,6 @@ removal and refitting
 3
 
 ### Inspection
-`volkswagen_volkswagen_golf_2_en_4a0afddb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:124
 
 1 Refer to Chapter 1, Section 19
 Removal
@@ -41128,7 +38967,6 @@ necessary to release and subsequently refit
 the joint retaining clips (see illustration).
 
 ### Without this tool, it is virtually impossible to
-`volkswagen_volkswagen_golf_2_en_eaaac832` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:124
 
 separate and reassemble the joint without
 distorting the retaining clips. In view of this,
@@ -41159,7 +38997,6 @@ through heavily corroded bolts with a
 hacksaw, rather than try to unscrew them.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_cefd2a36` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:124
 
 5 Refit the system a section at a time starting
 at the front. If the manifold has been removed
@@ -41187,7 +39024,6 @@ any part of the system.
 securing nuts and bolts
 
 ### Note position of earth lead spade connector
-`volkswagen_volkswagen_golf_2_en_479dafad` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:124
 
 (arrowed) - 1.3 litre
 19.9  Warm air deflector plate - 1.3 litre
@@ -41199,7 +39035,6 @@ exhaust downpipes to manifold clips -
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_7da6b377` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:124
 
 Fuel and exhaust systems - carburettor models  4A•23
 4A
@@ -41213,7 +39048,6 @@ b
 c
 
 ### Marking (S for manual gearbox or A for automatic
-`volkswagen_volkswagen_golf_2_en_8577d512` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:125
 
 transmission)
 20.4a  Exhaust system and associated components – 1.5 and 1.3 litre
@@ -41227,7 +39061,6 @@ Marking (S)
 Downloaded from www.Manualslib.com manuals search engine
 
 ### 4A•24
-`volkswagen_volkswagen_golf_2_en_422d7937` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:126
 
 1081 VW Golf & Jetta
 Notes
@@ -41240,14 +39073,12 @@ K-Jetronic fuel injection - 16 valve engines
 The following information is a revision of, or supplementary to, that contained in Part B of this Chapter
 
 ### Air cleaner
-`volkswagen_volkswagen_golf_2_en_7f303b04` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:127
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Automatic air temperature control
 Element . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion U502
-`volkswagen_volkswagen_golf_2_en_3c49e2f9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:127
 
 Fuel filter
 Application:
@@ -41256,7 +39087,6 @@ Champion L203
 1.8 litre Jetta  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion L206
-`volkswagen_volkswagen_golf_2_en_a5b21fac` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:127
 
 Injection system
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -41283,7 +39113,6 @@ Throttle valve switch - testing  . . . . . . . . . . . . . . . . . . . . . . . .
 6
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_c83419e8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:127
 
 suitable for expert DIY
 or  professional
@@ -41309,7 +39138,6 @@ Fuel metering distributor
 7
 
 ### Adjusting shim
-`volkswagen_volkswagen_golf_2_en_8d13ca81` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:128
 
 8
 O-rings
@@ -41339,7 +39167,6 @@ adjustment screw
 1
 
 ### General information
-`volkswagen_volkswagen_golf_2_en_b7fb2dcb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:128
 
 The components of the K-Jetronic fuel
 injection system fitted to the 1.8 litre 16V
@@ -41350,7 +39177,6 @@ following Sections.
 2
 
 ### Idle speed - adjustment
-`volkswagen_volkswagen_golf_2_en_fbccd2ae` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:128
 
 4
 1 Run the engine to normal operating
@@ -41387,7 +39213,6 @@ illustration).
 1.0a  K-Jetronic fuel injection system components – 16v engine
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_be47e3d1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:128
 
 Fuel and exhaust systems - K-Jetronic fuel injection - 16 valve engines  4C•3
 4C
@@ -41398,7 +39223,6 @@ To ignition control unit
 2
 
 ### Intake elbow
-`volkswagen_volkswagen_golf_2_en_ac4ea2a7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:129
 
 3
 Screw
@@ -41446,7 +39270,6 @@ hose
 2.7  Idle speed (A) and mixture (B) screws
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_d0d892ff` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:129
 
 8 Check that the mixture (CO reading) is as
 specified. Temporarily block off the exhaust
@@ -41461,7 +39284,6 @@ must not be revved with the tool in position.
 9 Refit the crankcase ventilation hose. If the
 
 ### CO reading increases, the engine oil is diluted
-`volkswagen_volkswagen_golf_2_en_253bf18f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:130
 
 with
 fuel
@@ -41479,7 +39301,6 @@ return the idling to the specified speed.
 3
 
 ### Idle speed stabilisation
-`volkswagen_volkswagen_golf_2_en_68b7e7d8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:130
 
 system - testing
 3
@@ -41506,7 +39327,6 @@ which is located behind the centre console.
 checked by connecting a multi-meter to it.
 
 ### With a tachometer connected, run the engine
-`volkswagen_volkswagen_golf_2_en_3440e3ea` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:130
 
 (hot) at idle speed and note the control
 current. Now pinch the hose shown (see
@@ -41521,7 +39341,6 @@ control current should be constant between
 4
 
 ### Overrun cut-off valve -
-`volkswagen_volkswagen_golf_2_en_0b3294e4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:130
 
 testing
 2
@@ -41540,7 +39359,6 @@ located behind the centre console.
 5
 
 ### Diaphragm pressure switch -
-`volkswagen_volkswagen_golf_2_en_94d771bd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:130
 
 testing
 2
@@ -41554,7 +39372,6 @@ then rises to infinity.
 6
 
 ### Throttle valve switch - testing 2
-`volkswagen_volkswagen_golf_2_en_0c7fd292` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:130
 
 1 Pull the wiring connector from the throttle
 valve switch.
@@ -41583,7 +39400,6 @@ pinching hose (arrowed)
 terminals
 
 ### See text for terminal identification
-`volkswagen_volkswagen_golf_2_en_3f634373` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:130
 
 1081 VW Golf & Jetta
 Downloaded from www.Manualslib.com manuals search engine
@@ -41598,7 +39414,6 @@ before attaching it to the rear support bracket.
 8
 
 ### Exhaust system - inspection,
-`volkswagen_volkswagen_golf_2_en_9380696c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:131
 
 removal and refitting
 3
@@ -41619,7 +39434,6 @@ Nut
 2
 
 ### Gaskets
-`volkswagen_volkswagen_golf_2_en_acf61190` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:131
 
 3
 Exhaust manifold
@@ -41645,7 +39459,6 @@ b = 12.0 mm
 c = marks
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_3efed061` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:131
 
 4C•6
 1081 VW Golf & Jetta
@@ -41658,7 +39471,6 @@ Fuel and exhaust systems -
 K-Jetronic fuel injection - 8 valve engines
 
 ### Renewable paper element
-`volkswagen_volkswagen_golf_2_en_33cbf011` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:133
 
 Application:
 1.8 litre Golf . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -41666,7 +39478,6 @@ Champion U506
 1.8 litre Jetta  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion U502
-`volkswagen_volkswagen_golf_2_en_6892f4be` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:133
 
 1.8 litre GTi ( engine code RP)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion U572
@@ -41674,7 +39485,6 @@ Fuel filter
 1.8 litre GTi ( engine code RP)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion L206
-`volkswagen_volkswagen_golf_2_en_e4030c26` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:133
 
 All other models  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion L204 *
@@ -41683,7 +39493,6 @@ Injection system
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### K-Jetronic, continuous injection system (CIS)
-`volkswagen_volkswagen_golf_2_en_789a32fd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:133
 
 Application  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.8 litre (code EV) engine
@@ -41694,7 +39503,6 @@ From March 1986  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 5.2 to 5.9 bar
 
 ### Idle speed:
-`volkswagen_volkswagen_golf_2_en_27d8c9d0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:133
 
 Pre Sept. 1984  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 900 to 1000 rpm
@@ -41741,7 +39549,6 @@ Pressure relief valve - removal, servicing and refitting  . . . . . . . . . . . 
 Warm-up valve - testing  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_52e4f782` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:133
 
 suitable for expert DIY
 or  professional
@@ -41815,7 +39622,6 @@ Exhaust pipe clamp bolts  . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1
 
 ### General information and
-`volkswagen_volkswagen_golf_2_en_0c797161` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:134
 
 precautions
 General information
@@ -41828,7 +39634,6 @@ no different from those in general use on
 vehicles (see illustration).
 
 ### The following paragraphs describe the
-`volkswagen_volkswagen_golf_2_en_70c31792` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:134
 
 system and its various elements. Later
 Sections describe tests which can be carried
@@ -41846,7 +39651,6 @@ cylinder. This fuel/air mixture is drawn into the
 cylinder when the inlet valves open.
 
 ### Airflow meter
-`volkswagen_volkswagen_golf_2_en_a7aee586` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:134
 
 The airflow meter measures the volume of
 air entering the engine and comprises an air
@@ -41866,7 +39670,6 @@ which meters fuel to the injection valves.
 1.0  K-Jetronic fuel injection system air intake components - 8v engine
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_69289443` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:134
 
 Fuel supply
 The fuel pump operates continuously while
@@ -41879,7 +39682,6 @@ prevents the pump from operating unless the
 engine is running.
 
 ### The fuel line to the fuel supply valve
-`volkswagen_volkswagen_golf_2_en_3b238d1f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 incorporates a filter and also a fuel
 accumulator. The function of the accumulator
@@ -41899,7 +39701,6 @@ and this pressure is then maintained by the
 accumulator.
 
 ### Fuel distributor
-`volkswagen_volkswagen_golf_2_en_fa446889` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 The fuel distributor is mounted on the air
 metering device and is controlled by the
@@ -41910,7 +39711,6 @@ many vertical slots around its circumference
 as there are cylinders on the engine.
 
 ### The spool valve is adjusted to hydraulic
-`volkswagen_volkswagen_golf_2_en_0adf7f59` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 pressure on the upper end and this balances
 the pressure on the air plate which is applied
@@ -41921,7 +39721,6 @@ so controls the volume of fuel fed to each
 injector.
 
 ### Each metering slot has a differential
-`volkswagen_volkswagen_golf_2_en_50bca404` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 pressure valve, which ensures that the
 difference in pressure between the two sides
@@ -41932,7 +39731,6 @@ amount of fuel flowing depends only on the
 exposed area of the slots.
 
 ### Cold start valve
-`volkswagen_volkswagen_golf_2_en_cc95c2a0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 The cold start valve is mounted in the inlet
 manifold and sprays additional fuel into the
@@ -41948,7 +39746,6 @@ to need additional fuel for starting, the switch
 does not operate.
 
 ### Warm-up regulator (valve)
-`volkswagen_volkswagen_golf_2_en_3d30d978` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 While warming up, the engine needs a
 richer mixture to compensate for fuel which
@@ -41967,7 +39764,6 @@ otherwise, thus uncovering a greater length of
 metering slot and making the mixture richer.
 
 ### The valve is operated by a bi-metallic strip
-`volkswagen_volkswagen_golf_2_en_517feac9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 which is heated by an electric heater. When
 the engine is cold, the bi-metallic strip
@@ -41978,7 +39774,6 @@ increase in cross-section results in a lowering
 of the pressure fed to the control plunger.
 
 ### Auxiliary air device
-`volkswagen_volkswagen_golf_2_en_89934477` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 Compensation for power lost by greater
 friction is achieved by feeding a larger volume
@@ -41991,7 +39786,6 @@ plate controlled by a spring and a bi-metallic
 strip.
 
 ### During cold starting, the channel is open
-`volkswagen_volkswagen_golf_2_en_bda6edd5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 and increases the volume of air passing to the
 engine. As the bi-metallic strip bends, it
@@ -42000,7 +39794,6 @@ the aperture until at normal operating
 temperature the aperture is closed.
 
 ### Cold acceleration enrichment
-`volkswagen_volkswagen_golf_2_en_cb704523` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 This system is fitted to later models only.
 When the engine is cold (below 35°C),
@@ -42016,7 +39809,6 @@ switch, the diaphragm pressure switch and
 the throttle valve switch are shut off.
 
 ### Temperature sensor
-`volkswagen_volkswagen_golf_2_en_9a025335` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 From March 1986, a temperature sensor is
 located between injectors 1 and 2. After
@@ -42028,7 +39820,6 @@ the function between ten and twelve minutes
 after switching off the ignition.
 
 ### Precautions
-`volkswagen_volkswagen_golf_2_en_26d48d88` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:135
 
 Fuel warning
 Many of the procedures in this Chapter
@@ -42043,7 +39834,6 @@ precautions necessary when handling it
 cannot be overstressed.
 
 ### Fuel injection system warning
-`volkswagen_volkswagen_golf_2_en_76620ce4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:135
 
 Residual pressure will remain in the fuel
 lines long after the vehicle was last used,
@@ -42056,7 +39846,6 @@ rag over each union as it is disconnected to
 catch any fuel which is forcibly expelled.
 
 ### Take particular care to ensure that no dirt is
-`volkswagen_volkswagen_golf_2_en_d1cabc75` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:135
 
 allowed to enter the system. The ignition must
 be off and the battery disconnected.
@@ -42069,7 +39858,6 @@ following Section.
 2
 
 ### Catalytic converters - general
-`volkswagen_volkswagen_golf_2_en_9429ef6f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:135
 
 information and precautions
 The catalytic converter is a reliable and
@@ -42089,7 +39877,6 @@ air cleaner element, fuel filter and spark
 plugs are renewed at the correct intervals.
 
 ### If the inlet air/fuel mixture is allowed to
-`volkswagen_volkswagen_golf_2_en_66127f4c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 become too rich due to neglect, the
 unburned surplus will enter and burn in
@@ -42105,7 +39892,6 @@ overheating.
 d) DO NOT push or tow-start the vehicle.
 
 ### This will soak the catalytic converter in
-`volkswagen_volkswagen_golf_2_en_b09a3d2f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 unburned fuel, causing it to overheat
 when the engine does start.
@@ -42121,7 +39907,6 @@ Fuel and exhaust systems - K-Jetronic fuel injection - 8 valve engines  4B•3
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_1d835109` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:135
 
 f) DO NOT use fuel or engine oil additives
 as these may contain substances harmful
@@ -42142,7 +39927,6 @@ park the vehicle in dry undergrowth, over
 long grass or piles of dead leaves.
 
 ### I) Remember that the catalytic converter is
-`volkswagen_volkswagen_golf_2_en_e410280a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:136
 
 FRAGILE. Do not strike it with tools during
 servicing work, take great care when
@@ -42180,7 +39964,6 @@ effective, it must be renewed.
 3
 
 ### Air cleaner element - renewal 1
-`volkswagen_volkswagen_golf_2_en_f716c3fd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:136
 
 Refer to Chapter 1, Section 32
 4
@@ -42224,7 +40007,6 @@ as applicable.
 5
 
 ### Increased idling speed valve
-`volkswagen_volkswagen_golf_2_en_8d82e048` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:136
 
 (air conditioned models) -
 testing
@@ -42246,7 +40028,6 @@ valve from its support bracket.
 6
 
 ### Idle speed boost (air
-`volkswagen_volkswagen_golf_2_en_040adf5c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:136
 
 conditioned models) - testing
 and idle speed adjustment 2
@@ -42269,7 +40050,6 @@ the idle speed when the air conditioner is
 switched on.
 
 ### Valve 1 - testing and idle speed
-`volkswagen_volkswagen_golf_2_en_7f4714aa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:136
 
 adjustment
 3 Run the engine up to its normal operating
@@ -42294,7 +40074,6 @@ conditioned models)
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_79e6a77f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:136
 
 4 Switch off all electrical consumers, then
 pinch the air hose again and adjust idle speed
@@ -42305,7 +40084,6 @@ which point the valve will close and the speed
 drop to the specified idle speed setting.
 
 ### Valve 2 - checking
-`volkswagen_volkswagen_golf_2_en_946e90a6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:137
 
 5 Run the engine at normal idle speed with
 the air conditioner switched off. Pinch the air
@@ -42322,7 +40100,6 @@ to valve No. 2.
 7
 
 ### Idle mixture - adjustment
-`volkswagen_volkswagen_golf_2_en_e477eaec` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:137
 
 4
 Note: Accurate idle mixture adjustment can
@@ -42362,7 +40139,6 @@ further adjust if necessary.
 ventilation hose results in an increase in the
 
 ### CO content, the engine oil is diluted with fuel
-`volkswagen_volkswagen_golf_2_en_6ff3447e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:137
 
 and should be renewed. Alternatively, if an oil
 change is not due, a long fast drive will reduce
@@ -42390,7 +40166,6 @@ the engine compartment, together with the
 rubber grommets.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_6f70be40` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:137
 
 7 Refitting is a reversal of removal, but ensure
 that the cable run is not kinked and is
@@ -42417,7 +40192,6 @@ support bracket
 8.2  Accelerator cable connection to throttle valve
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_04902485` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:137
 
 9
 Cold start valve and
@@ -42462,7 +40236,6 @@ over a period of one minute. If proved
 defective, renew the valve.
 
 ### Thermotime switch
-`volkswagen_volkswagen_golf_2_en_7be2a89f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:138
 
 10 To check the thermotime switch, proceed
 as described in paragraphs 3 and 4 inclusive.
@@ -42524,7 +40297,6 @@ the fuel mixture for a period of approximately
 seconds.
 
 ### This
-`volkswagen_volkswagen_golf_2_en_c9e809a3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:138
 
 cold
 acceleration
@@ -42542,7 +40314,6 @@ wire between an earth point and the
 connector No.2 terminal W (green/white wire).
 
 ### Do not earth terminal G (red/black wire).
-`volkswagen_volkswagen_golf_2_en_0d166dde` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:138
 
 5 Run the engine and allow it to idle, at which
 point the test lamp should not light up. When
@@ -42558,7 +40329,6 @@ test
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_cb37a09e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:138
 
 6 If a fault is evident, check the wiring
 connections, the throttle valve switch and the
@@ -42618,7 +40388,6 @@ in similar condition.
 accurate test of injector performance.
 
 ### However, a basic check can be made as
-`volkswagen_volkswagen_golf_2_en_ca3ae76f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:139
 
 follows.
 5 Hold the injector in a suitable measuring
@@ -42666,7 +40435,6 @@ Fuel and exhaust systems - K-Jetronic fuel injection - 8 valve engines  4B•7
 check
 
 ### Cold start valve connector earth contact (2)
-`volkswagen_volkswagen_golf_2_en_7324ed15` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:139
 
 (green/white wire to W terminal)
 Do not earth contact 1
@@ -42682,7 +40450,6 @@ Vacuum connection for switch (yellow)
 3
 
 ### Vacuum connection for spark control
-`volkswagen_volkswagen_golf_2_en_674364a3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:139
 
 13.2  Air shrouded injector assembly
 (later models)
@@ -42726,7 +40493,6 @@ removal and refitting
 2
 
 ### Note: Ensure that the vehicle is in a well
-`volkswagen_volkswagen_golf_2_en_1ea0a121` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:140
 
 ventilated space and away from naked flames
 or other possible sources of ignition
@@ -42737,7 +40503,6 @@ fuel from being sprayed out, loosen the
 control pressure line from the warm-up valve.
 
 ### The control pressure line is the one connected
-`volkswagen_volkswagen_golf_2_en_b849af9c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:140
 
 to the large union of the valve.
 3 Mark each fuel line and its port on the
@@ -42761,7 +40526,6 @@ fuel and then re-insert it with its chamfered
 end downwards.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_67bda0e0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:140
 
 7 Before refitting the distributor, ensure that
 the plunger moves up and down freely. If the
@@ -42778,7 +40542,6 @@ refitting
 2
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_a9bc276b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:140
 
 1 Remove the fuel lines from the distributor.
 2 Loosen the clamps at the air cleaner and
@@ -42793,7 +40556,6 @@ falling out when the distributor is removed
 from the airflow meter.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_81aa7a01` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:140
 
 5 Refitting is the reverse of removing. It is
 necessary to use a new gasket between the
@@ -42805,7 +40567,6 @@ airflow meter and air cleaner.
 14.5  Sensor plate position requirement
 
 ### Upper edge of plate (arrowed) must be
-`volkswagen_volkswagen_golf_2_en_85ac5fb1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:140
 
 flush with bottom of air cone
 15.5  View showing fuel distributor retaining screws (A)
@@ -42835,7 +40596,6 @@ removal and refitting
 3
 
 ### Testing
-`volkswagen_volkswagen_golf_2_en_ae8a8190` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:141
 
 1 The fuel lift pump is attached to the base of
 the fuel gauge sender unit fitted to the fuel
@@ -42873,7 +40633,6 @@ persists, have the ignition Hall sender unit
 checked.
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_b8cdd3b6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:141
 
 8 If after making the above checks the pump
 still malfunctions, remove the sender unit as
@@ -42887,7 +40646,6 @@ refitting
 3
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_94ba43b7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:141
 
 1 The fuel pump is located on the underside
 of the vehicle, forwards of the fuel tank on the
@@ -42911,7 +40669,6 @@ by the pump unit.
 strainer.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_c752f096` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:141
 
 9 Refitting is a reversal of the removal
 procedure. Smear the O-ring with fuel when
@@ -42939,7 +40696,6 @@ carburettor engines
 18.2  Fuel tank sender unit and connections
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_397fe28a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:141
 
 20 Fuel filter - removal and
 refitting
@@ -42962,7 +40718,6 @@ connections at the front end of the regulator.
 accumulator.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_75bc84a7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:142
 
 6 Refit in the reverse order to removal. Check
 that the fuel line connections are clean before
@@ -42974,7 +40729,6 @@ refitting
 3
 
 ### The fuel tank and associated components
-`volkswagen_volkswagen_golf_2_en_fef555a9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:142
 
 can be removed and refitted in the same
 manner as described for carburettor models
@@ -42983,7 +40737,6 @@ To test the breather valve, blow through the
 hose (dotted arrow - see illustration 7.3 in Part
 
 ### A of this Chapter) and push the lever in to see
-`volkswagen_volkswagen_golf_2_en_5adbab1d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:142
 
 if the airflow opens then shuts off as the lever
 is released. If defective, renew the valve.
@@ -43005,7 +40758,6 @@ items and allow clearance for manifold
 removal.
 
 ### Modification: As from September 1984,
-`volkswagen_volkswagen_golf_2_en_083eece7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:142
 
 components associated with the inlet manifold
 were modified (see illustration). All work
@@ -43052,7 +40804,6 @@ fuel pump
 19.1a  Fuel pump and associated components
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_bd17c1dc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:142
 
 Fuel and exhaust systems - K-Jetronic fuel injection - 8 valve engines  4B•11
 4B
@@ -43064,7 +40815,6 @@ pre September 1984
 1
 
 ### Two-way valve (II)
-`volkswagen_volkswagen_golf_2_en_26650c30` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:143
 
 2
 Two-way valve (I)
@@ -43105,7 +40855,6 @@ indicator
 25 To distributor
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_6be46165` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:143
 
 10 Disconnect
 the
@@ -43122,7 +40871,6 @@ withdrawn.
 the manifold and then withdrawn from it.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_d62849fe` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:144
 
 13 Refitting is a reversal of the removal
 procedure. Check that all mating faces are
@@ -43138,7 +40886,6 @@ and refitting
 3
 
 ### Note: Before starting to remove the manifold,
-`volkswagen_volkswagen_golf_2_en_13f81fb4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:144
 
 refer to Part A of this Chapter, Section 20,
 paragraph 1, which concerns details on the
@@ -43153,7 +40900,6 @@ available, the manifold is best removed and
 refitted by your VW dealer
 
 ### Remove the inlet manifold.
-`volkswagen_volkswagen_golf_2_en_feb107ea` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:144
 
 Removal and refitting of the exhaust
 manifold is now similar to that procedure
@@ -43169,7 +40915,6 @@ downpipe flange incorporating a gasket
 instead of spring clips.
 
 ### With catalytic converter
-`volkswagen_volkswagen_golf_2_en_55c1929a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:144
 
 2 The catalytic converter (where fitted) is
 positioned at the forward end of the exhaust
@@ -43183,7 +40928,6 @@ separating the components (see illustration).
 4 Note that the catalytic converter is fragile.
 
 ### Do not strike it with tools and take care not to
-`volkswagen_volkswagen_golf_2_en_77c4e721` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:144
 
 allow it to contact jacks or lifting gear.
 5 Always use new coupling seals and gaskets
@@ -43197,7 +40941,6 @@ Cap
 2
 
 ### CO measuring pipe
-`volkswagen_volkswagen_golf_2_en_6fb0dd4b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:144
 
 3
 Exhaust manifold
@@ -43219,7 +40962,6 @@ Downloaded from www.Manualslib.com manuals search engine
 4C
 
 ### Chapter 4 Part C:
-`volkswagen_volkswagen_golf_2_en_6e9ba295` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:145
 
 Fuel and exhaust systems -
 K-Jetronic fuel injection - 16 valve engines
@@ -43228,7 +40970,6 @@ Air cleaner
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Automatic air temperature control
-`volkswagen_volkswagen_golf_2_en_b8796034` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:145
 
 Element . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion U502
@@ -43237,7 +40978,6 @@ Application:
 1.8 litre Golf . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion L203
-`volkswagen_volkswagen_golf_2_en_420ccda2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:145
 
 1.8 litre Jetta  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion L206
@@ -43245,7 +40985,6 @@ Injection system
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### K-Jetronic, continuous injection system (CIS)
-`volkswagen_volkswagen_golf_2_en_d83239cd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:145
 
 Application  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.8 litre (code KR) engine
@@ -43269,7 +41008,6 @@ Throttle valve switch - testing  . . . . . . . . . . . . . . . . . . . . . . . .
 6
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4b9362ce` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:149
 
 4C•6
 1081 VW Golf & Jetta
@@ -43283,7 +41021,6 @@ Mono Jetronic fuel injection
 The following information is a revision of, or supplementary to, that contained in Part B of this Chapter
 
 ### Injection system
-`volkswagen_volkswagen_golf_2_en_730e62e2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:151
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Mono Jetronic, central injection system
@@ -43301,7 +41038,6 @@ Injector resistance  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.2 to 1.6 ohm
 
 ### Torque wrench settings
-`volkswagen_volkswagen_golf_2_en_4e588f09` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:151
 
 Nm
 lbf ft
@@ -43344,7 +41080,6 @@ Throttle damper - adjustment  . . . . . . . . . . . . . . . . . . . . . . . . . 
 9
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_d5c08987` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:151
 
 suitable for expert DIY
 or  professional
@@ -43365,7 +41100,6 @@ engine. It is a simplified method of fuel
 injection (see illustrations).
 
 ### Fuel is injected into the inlet manifold by a
-`volkswagen_volkswagen_golf_2_en_fa0b68b1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:152
 
 single solenoid valve (fuel injector) mounted
 centrally in the top of the injector unit housing.
@@ -43379,7 +41113,6 @@ information supplied by its network of
 sensors.
 
 ### Fuel
-`volkswagen_volkswagen_golf_2_en_46589615` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:152
 
 pressure
 is
@@ -43397,7 +41130,6 @@ d) The oxygen content in the exhaust gases
 exhaust manifold
 
 ### Using the information gathered from the
-`volkswagen_volkswagen_golf_2_en_2d71f46f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:152
 
 various sensors, the ECU sends out signals to
 control the system actuators as required.
@@ -43410,7 +41142,6 @@ condition and securely connected, fault
 diagnosis should be entrusted to a VW dealer.
 
 ### Basic testing can be carried out on the
-`volkswagen_volkswagen_golf_2_en_9118b2e5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:152
 
 system components covered in the following
 text. More detailed testing can be carried out
@@ -43420,7 +41151,6 @@ Precautions
 Refer to Sections 1 and 2 in Part B of this
 
 ### Chapter.
-`volkswagen_volkswagen_golf_2_en_5978f1dd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:152
 
 2
 Air cleaner element - renewal 1
@@ -43442,7 +41172,6 @@ the injector unit.
 4
 
 ### Air inlet pre-heater - testing 2
-`volkswagen_volkswagen_golf_2_en_3d4efe4b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:152
 
 1 With the engine cold, detach and remove
 the upper section of the air cleaner followed
@@ -43474,7 +41203,6 @@ regulator should be open and the cold air
 1
 
 ### Electronic Control unit (ECU)
-`volkswagen_volkswagen_golf_2_en_e717994b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:152
 
 2
 Connector (throttle valve positioner and
@@ -43491,7 +41219,6 @@ Intake air pre-heater temperature regulator
 7
 
 ### Injector and air temperature sender
-`volkswagen_volkswagen_golf_2_en_ebf765a1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:152
 
 8
 Fuel pressure regulator
@@ -43512,7 +41239,6 @@ potentiometer)
 21 Self diagnosis plug
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_c178aecc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:152
 
 passage closed off. At temperatures above
 45°C, the regulator should be closed and the
@@ -43526,7 +41252,6 @@ ignition timing must be correct and the engine
 must be at its normal operating temperature.
 
 ### During the test, all electrical circuits including
-`volkswagen_volkswagen_golf_2_en_ca67f394` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:153
 
 the engine cooling fan and, where applicable,
 the air conditioning, must be switched off.
@@ -43547,7 +41272,6 @@ equipment to identify and rectify the fault.
 6
 
 ### Idle switch control valve -
-`volkswagen_volkswagen_golf_2_en_bd2f03e3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:153
 
 testing
 2
@@ -43558,7 +41282,6 @@ advance. If defective, it can cause problems
 with the idle speed and/or the overrun cut-off.
 
 ### A simple test can be made by switching on
-`volkswagen_volkswagen_golf_2_en_d64bb552` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:153
 
 the ignition, then opening and closing the
 throttle valve. Listen to hear if the control
@@ -43572,7 +41295,6 @@ is faulty and should be renewed.
 7
 
 ### Fuel injector - testing,
-`volkswagen_volkswagen_golf_2_en_c4ffba96` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:153
 
 removal and refitting
 2
@@ -43587,7 +41309,6 @@ housing
 1
 
 ### Warm air nozzle
-`volkswagen_volkswagen_golf_2_en_5d16b075` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:153
 
 2
 Cold air nozzle
@@ -43615,7 +41336,6 @@ Injector unit
 8
 
 ### Connector
-`volkswagen_volkswagen_golf_2_en_7a7d5057` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:153
 
 9
 Electronic Control
@@ -43632,7 +41352,6 @@ valve
 1
 
 ### Warm air deflector
-`volkswagen_volkswagen_golf_2_en_3cca657d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:153
 
 2
 Nut
@@ -43672,7 +41391,6 @@ to 7/1988
 24 Connector
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_9ba485ee` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:153
 
 2 With the engine running at idle speed, look
 into the top of the injector unit and check the
@@ -43688,7 +41406,6 @@ that the overrun cut-off is functioning in a
 satisfactory manner.
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_19fffc32` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:154
 
 4 Remove the inlet duct and manifold.
 5 Undo the retaining screw and lift clear the
@@ -43699,7 +41416,6 @@ housing. Remove the O-ring seals (see
 illustration).
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_acae2f14` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:154
 
 6 Refit in the reverse order of removal. The
 O-ring seals must be renewed and lightly
@@ -43727,7 +41443,6 @@ or in doubtful condition, renew it when
 refitting the injector unit.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_61899022` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:154
 
 6 Refit in the reverse order of removal. Ensure
 that the mating faces of the housing and fuel
@@ -43743,7 +41458,6 @@ be pressed into the damper a minimum
 1
 
 ### Screw
-`volkswagen_volkswagen_golf_2_en_c60e8c6e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:154
 
 2
 Injector holder
@@ -43769,7 +41483,6 @@ Screw
 1
 
 ### Throttle valve stop screw
-`volkswagen_volkswagen_golf_2_en_63d11a4d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:154
 
 2
 O-ring
@@ -43800,7 +41513,6 @@ switch)
 18 Screw
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_6cd406f5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:154
 
 distance of 4.0 mm by the operating lever
 (see illustration).
@@ -43815,7 +41527,6 @@ and refitting
 3
 
 ### From mid 1989, certain models fitted with
-`volkswagen_volkswagen_golf_2_en_e3de0a70` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:155
 
 the Mono Jetronic system were fitted with a
 single fuel pump in the fuel tank rather than
@@ -43825,7 +41536,6 @@ pump can be tested in the same manner as
 that for the “in-tank” dual pump referred to in
 
 ### Part F of this Chapter, Section 12.
-`volkswagen_volkswagen_golf_2_en_12e7256b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:155
 
 The fuel pump can be removed in a similar
 manner to that described for the fuel gauge
@@ -43837,7 +41547,6 @@ Fuel and exhaust systems - Mono Jetronic fuel injection  4D•5
 1
 
 ### Throttle lever
-`volkswagen_volkswagen_golf_2_en_740c5e0c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:155
 
 2
 Plunger
@@ -43855,7 +41564,6 @@ Downloaded from www.Manualslib.com manuals search engine
 Chapter 4  Part E:
 
 ### Fuel and exhaust systems - Digijet fuel injection
-`volkswagen_volkswagen_golf_2_en_73fb6b37` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:157
 
 Injection system
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -43864,14 +41572,12 @@ Application  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.3 litre (code NZ) engine
 
 ### Control unit code colour:
-`volkswagen_volkswagen_golf_2_en_d04c35b8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:157
 
 Up to July 1989 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Copper-brown sticker
 From July 1989  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Blue sticker
-`volkswagen_volkswagen_golf_2_en_ceff4b66` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:157
 
 System pressure (approx):
 Vacuum hose connected  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -43880,7 +41586,6 @@ Vacuum hose disconnected  . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 3.0 bar
 
 ### Idle speed:
-`volkswagen_volkswagen_golf_2_en_3fa886c1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:157
 
 Up to July 1989 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 750 to 850 rpm
@@ -43890,7 +41595,6 @@ Speed limiter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 6400 to 6500 rpm
 
 ### CO content %:
-`volkswagen_volkswagen_golf_2_en_3513cc87` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:157
 
 Up to July 1989 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.3 to 0.11
@@ -43898,14 +41602,12 @@ July 1989 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 0.3 to 1.5
 
 ### Injectors:
-`volkswagen_volkswagen_golf_2_en_f508ec36` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:157
 
 Resistance  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 15 to 20 ohms
 Spray pattern  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Conical
-`volkswagen_volkswagen_golf_2_en_b2be6f29` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:157
 
 Air cleaner element - renewal  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2
@@ -43928,7 +41630,6 @@ Throttle valve switch - testing  . . . . . . . . . . . . . . . . . . . . . . . .
 7
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_4b297908` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:157
 
 suitable for expert DIY
 or  professional
@@ -43949,7 +41650,6 @@ litre (code NZ) engine (see
 illustrations).
 
 ### The system is regulated in accordance with
-`volkswagen_volkswagen_golf_2_en_74c82996` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:158
 
 instructions received from a control unit,
 located in the bulkhead plenum chamber on
@@ -43959,7 +41659,6 @@ sticker on the unit, earlier units having a
 copper-brown sticker.
 
 ### The fuel pump and its location is identical to
-`volkswagen_volkswagen_golf_2_en_3b2f3d40` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:158
 
 that described in Part F of this Chapter for the
 Digifant fuel injection system.
@@ -43975,7 +41674,6 @@ being the feed line attachment to the gravity
 valve from the charcoal filter.
 
 ### Precautions
-`volkswagen_volkswagen_golf_2_en_14b2b444` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:158
 
 Refer to Sections 1 and 2 in Part B of this
 Chapter.
@@ -43989,7 +41687,6 @@ components
 1
 
 ### Air intake elbow
-`volkswagen_volkswagen_golf_2_en_1d0ec9bd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:158
 
 2
 Lambda probe connector
@@ -44025,7 +41722,6 @@ regulating flap
 1
 
 ### Airflow meter
-`volkswagen_volkswagen_golf_2_en_c6f1492e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:158
 
 2
 Fuel pressure regulator
@@ -44059,7 +41755,6 @@ coolant temperature gauge
 21 Ignition coil
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_ccd57f33` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:158
 
 3
 Idle speed and mixture -
@@ -44099,7 +41794,6 @@ the
 manufacturer’s instructions, then connect the
 
 ### CO analyser to the measuring pipe (see
-`volkswagen_volkswagen_golf_2_en_88a2212f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:159
 
 illustration). An adapter will probably be
 needed to ensure a good seal between the
@@ -44124,7 +41818,6 @@ should initially be between 900 to 1000 rpm
 and the CO content between 1.0 and 1.4%.
 
 ### When the Lambda probe is reconnected, the
-`volkswagen_volkswagen_golf_2_en_637b6d16` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:159
 
 idle speed and the CO content should settle
 down to the specified setting. Fit a new
@@ -44134,7 +41827,6 @@ completion.
 disconnect the analyser and reconnect the
 
 ### Lambda probe wiring plug.
-`volkswagen_volkswagen_golf_2_en_c15ade2e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:159
 
 4
 Airflow meter - testing
@@ -44145,7 +41837,6 @@ resistance value between contacts 1 and 4 of
 the control unit plug (see illustrations).
 
 ### The potentiometer is measured in the same
-`volkswagen_volkswagen_golf_2_en_88c8e0a6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:159
 
 manner by connecting the probes to terminals
 2 and 3 and simultaneously operating the
@@ -44161,7 +41852,6 @@ retaining clips, lift the lid from the air cleaner
 unit and remove the element - see illustration,
 
 ### Section 32, Chapter 1.
-`volkswagen_volkswagen_golf_2_en_ddb97895` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:159
 
 3 With the engine cold and with the air
 temperature around the pre-heater between 5
@@ -44172,7 +41862,6 @@ the valve should be seen to close.
 6
 
 ### Fuel injectors - testing
-`volkswagen_volkswagen_golf_2_en_7fbd75f6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:159
 
 3
 Refer to Section 13 in Part B of this Chapter
@@ -44184,7 +41873,6 @@ leak from any of the injectors.
 7
 
 ### Throttle valve switch - testing 2
-`volkswagen_volkswagen_golf_2_en_8364291e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:159
 
 1 A multi-meter (set to the resistance scale)
 will be required to make this test.
@@ -44201,7 +41889,6 @@ screw. Check that zero ohms is shown on the
 meter.
 
 ### Fuel and exhaust systems - Digijet fuel injection 4E•3
-`volkswagen_volkswagen_golf_2_en_e240577f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:159
 
 4E
 3.4  CO analyser and connecting pipe
@@ -44216,7 +41903,6 @@ connections and securing screws
 resistance graph
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_bf5f1897` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:159
 
 3 Insert a feeler blade of 0.3 mm thickness
 between the lever and the stop screw to ensure
@@ -44229,7 +41915,6 @@ screws. Fully open the throttle valve and check
 that it is switched ‘on’ as described above.
 
 ### Reconnect the wiring connector to the switch
-`volkswagen_volkswagen_golf_2_en_4413e255` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:160
 
 on completion of the check.
 4 It should be noted that the throttle valve
@@ -44244,7 +41929,6 @@ then tightening the screw until it just comes
 into contact with the stop (see illustration).
 
 ### This setting is critical and to judge when the
-`volkswagen_volkswagen_golf_2_en_318517fc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:160
 
 contact point is made, a piece of thin paper
 should be positioned between the lever and
@@ -44258,7 +41942,6 @@ simultaneously tighten the screw to the point
 where the paper is just clamped by the screw.
 
 ### From this point, tighten the screw a further
-`volkswagen_volkswagen_golf_2_en_53a3c273` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:160
 
 half turn.
 6 If adjustment has been made, the idle
@@ -44278,7 +41961,6 @@ circumstances should not require checking
 and adjustment.
 
 ### If the clearance is to be checked, first
-`volkswagen_volkswagen_golf_2_en_1469950d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:160
 
 remove the air cleaner unit. Using a suitable
 0.5 mm diameter twist drill, check the
@@ -44290,7 +41972,6 @@ then retighten the locknut.
 9
 
 ### System components -
-`volkswagen_volkswagen_golf_2_en_3d75af27` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:160
 
 removal and refitting
 3
@@ -44301,7 +41982,6 @@ points should be noted:
 a) Observe the precautions described in
 
 ### Sections 1 and 2, Part B of this Chapter,
-`volkswagen_volkswagen_golf_2_en_bc7876f5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:160
 
 whenever any parts of the system are to
 be removed and refitted.
@@ -44324,7 +42004,6 @@ components are removed in a similar
 manner to that described in Part A of this
 
 ### Chapter, the only difference being the
-`volkswagen_volkswagen_golf_2_en_b1e78e86` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:160
 
 4E•4 Fuel and exhaust systems - Digijet fuel injection
 7.3  Feeler blade location for throttle valve
@@ -44335,7 +42014,6 @@ limiting screw (A) and stop (B)
 using 0.5 mm twist drill
 
 ### Adjustment screw and locknut also indicated
-`volkswagen_volkswagen_golf_2_en_08865ed1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:160
 
 1081 VW Golf & Jetta
 9.1a  Vacuum hose identification
@@ -44358,7 +42036,6 @@ regulator
 7
 
 ### Air cleaner
-`volkswagen_volkswagen_golf_2_en_b8656a23` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:160
 
 8
 Throttle valve
@@ -44392,7 +42069,6 @@ inspection or renewal is possible after first
 removing the air cleaner.
 
 ### Fuel and exhaust systems - Digijet fuel injection 4E•5
-`volkswagen_volkswagen_golf_2_en_6647e012` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:161
 
 4E
 1081 VW Golf & Jetta
@@ -44436,7 +42112,6 @@ valve)
 A
 
 ### Fuel tank vapour route when
-`volkswagen_volkswagen_golf_2_en_994a9e5a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:161
 
 engine is idling or stopped
 B/C Fuel tank vapour route when
@@ -44453,7 +42128,6 @@ Activated charcoal canister
 5
 
 ### Throttle valve housing
-`volkswagen_volkswagen_golf_2_en_cda08ecf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:161
 
 6
 Hose (auxiliary air valve/inlet
@@ -44469,7 +42143,6 @@ Downloaded from www.Manualslib.com manuals search engine
 4F
 
 ### Chapter 4 Part F:
-`volkswagen_volkswagen_golf_2_en_aee902fe` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:163
 
 Fuel and exhaust systems - Digifant fuel injection
 The following information is a revision of, or supplementary to, that contained in Part B of this Chapter
@@ -44477,7 +42150,6 @@ Injection system
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Digifant
-`volkswagen_volkswagen_golf_2_en_d6400483` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:163
 
 Application  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.8 litre (codes PBX and PF) engine
@@ -44485,7 +42157,6 @@ System pressure at idle:
 On  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Approximately 2.5 bar
-`volkswagen_volkswagen_golf_2_en_0d0d9a51` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:163
 
 Off  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Approximately 3.0 bar
@@ -44497,7 +42168,6 @@ Holding pressure (System off for 10 minutes)  . . . . . . . . . . . . . . . . . 
 2.0 bar minimum
 
 ### Torque wrench settings
-`volkswagen_volkswagen_golf_2_en_f282f5c2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:163
 
 Nm
 lbf ft
@@ -44536,7 +42206,6 @@ Throttle valve switches - testing and adjustment  . . . . . . . . . . . . . . .
 5
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_7df6102e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:163
 
 suitable for expert DIY
 or  professional
@@ -44569,7 +42238,6 @@ continuously adjusts ignition timing according
 to engine speed, load and temperature.
 
 ### Precautions
-`volkswagen_volkswagen_golf_2_en_6c8dff99` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:163
 
 Refer to Sections 1 and 2 in Part B of this
 Chapter whilst noting the following:
@@ -44587,7 +42255,6 @@ e) Disconnect both battery leads before
 carrying out any electric welding
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_a49120be` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:163
 
 2
 Idle speed and mixture (CO
@@ -44600,7 +42267,6 @@ normal operating temperature.
 including the air conditioning, where fitted.
 
 ### Note that the radiator fan must be stationary
-`volkswagen_volkswagen_golf_2_en_47d0c945` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:164
 
 during adjustment.
 3 For accurate adjustment, the throttle valve
@@ -44643,7 +42309,6 @@ the same objective.
 3
 
 ### Idle speed stabilisation
-`volkswagen_volkswagen_golf_2_en_7fdb415a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:164
 
 system - testing
 2
@@ -44667,7 +42332,6 @@ idling speed, the control current should be
 approximately 420 ± 30 mA and fluctuating.
 
 ### With
-`volkswagen_volkswagen_golf_2_en_4ecb7973` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:164
 
 the
 temperature
@@ -44702,7 +42366,6 @@ then reconnect the hose.
 5
 
 ### Throttle valve switches -
-`volkswagen_volkswagen_golf_2_en_ba5a5884` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:164
 
 testing and adjustment
 2
@@ -44734,7 +42397,6 @@ adjusting screw (2)
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_111abd23` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:164
 
 5 Fully open the throttle and align a datum
 with 0° on the card. Close the throttle by
@@ -44747,7 +42409,6 @@ sloping part of switch 2.
 6
 
 ### Throttle stop - adjustment 2
-`volkswagen_volkswagen_golf_2_en_08557737` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:165
 
 1 Throttle stop adjustment is initially set at
 the factory and should not be tampered with.
@@ -44765,7 +42426,6 @@ mixture.
 7
 
 ### Fuel pressure regulator -
-`volkswagen_volkswagen_golf_2_en_e912fef6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:165
 
 testing
 5
@@ -44788,7 +42448,6 @@ injectors are open-circuited, then the
 resistance will be as follows:
 
 ### One injector open-circuited - 5.0 to 6.7 ohms
-`volkswagen_volkswagen_golf_2_en_79d05e4e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:165
 
 Two injectors open-circuited - 7.5 to 10.0
 ohms
@@ -44801,7 +42460,6 @@ resistance of 15.0 to 20.0 ohms.
 be performed as described in Part B of this
 
 ### Chapter, due to the position of the fuel
-`volkswagen_volkswagen_golf_2_en_55ec6644` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:165
 
 distributor. However, the injectors may be
 removed together with the fuel distributor and
@@ -44810,7 +42468,6 @@ starter for a few seconds. Use a suitable
 container to catch the fuel.
 
 ### Fuel and exhaust systems - Digifant fuel injection 4F•3
-`volkswagen_volkswagen_golf_2_en_0fdd5345` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:165
 
 4F
 1081 VW Golf & Jetta
@@ -44826,7 +42483,6 @@ regulator
 1
 
 ### Air inlet hose
-`volkswagen_volkswagen_golf_2_en_25f93147` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:165
 
 2
 Bolt
@@ -44858,7 +42514,6 @@ control valve
 6.2  Throttle stop adjustment
 
 ### Arrow indicates adjustment screw
-`volkswagen_volkswagen_golf_2_en_eff70ddd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:165
 
 1   Carrier lever
 2   Stop lever
@@ -44883,7 +42538,6 @@ as the airflow meter plate is moved.
 5
 
 ### The control unit is located on the left-hand
-`volkswagen_volkswagen_golf_2_en_3a4e45d8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:166
 
 side of the bulkhead. The ignition must always
 be switched off before disconnecting the
@@ -44910,7 +42564,6 @@ contacts on the plug.
 5 Repeat the procedure in paragraphs 2 and
 
 ### 3. If the engine now surges, the temperature
-`volkswagen_volkswagen_golf_2_en_5a2c0916` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:166
 
 sender is proved faulty. However, if it still
 refuses to surge, check the associated wiring
@@ -44938,7 +42591,6 @@ relay (No 2 on fusebox) may be faulty. This is
 best checked by substituting a new relay.
 
 ### From mid 1989
-`volkswagen_volkswagen_golf_2_en_cd75392f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:166
 
 5 From mid 1989, certain models fitted with
 the Digifant system are fitted with a single fuel
@@ -44956,7 +42608,6 @@ sender unit in Part A of this Chapter, Section
 8.1  Fuel injectors and pressure regulator components
 
 ### A Crankcase, ventilation
-`volkswagen_volkswagen_golf_2_en_e0e0a2c4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:166
 
 hose
 B Vacuum hose
@@ -44989,7 +42640,6 @@ Connector
 17 Insert
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_b801a3cc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:166
 
 Fuel and exhaust systems - Digifant fuel injection  4F•5
 4F
@@ -45013,7 +42663,6 @@ Tamperproof plug
 8
 
 ### Mixture (CO
-`volkswagen_volkswagen_golf_2_en_6e52b6c2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:167
 
 content)
 adjustment screw
@@ -45035,7 +42684,6 @@ resistance graph
 1
 
 ### Bracket
-`volkswagen_volkswagen_golf_2_en_58ea2ece` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:167
 
 2
 Rubber mounting
@@ -45060,7 +42708,6 @@ O-ring
 14 Adapter
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_a4fa30e5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:167
 
 4F•6
 1081 VW Golf & Jetta
@@ -45077,7 +42724,6 @@ Firing order .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1-3-4-2 (No. 1 cylinder at crankshaft pulley end)
 
 ### Spark plugs
-`volkswagen_volkswagen_golf_2_en_a18a74be` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:169
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Refer to Chapter 1 Specifications
@@ -45086,7 +42732,6 @@ Type:
 1.05 litre.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion LS-05 boxed set
-`volkswagen_volkswagen_golf_2_en_50b6b422` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:169
 
 1.3, 1.6 and 1.8 litre.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion LS-07 boxed set
@@ -45098,7 +42743,6 @@ Secondary winding resistance  . . . . . . . . . . . . . . . . . . . . . . . . . 
 7000 to 12 000 ohm
 
 ### From August 1987:
-`volkswagen_volkswagen_golf_2_en_af29d4fe` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:169
 
 Primary winding resistance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.6 to 0.8 ohm
@@ -45106,7 +42750,6 @@ Secondary winding resistance  . . . . . . . . . . . . . . . . . . . . . . . . . 
 6900 to 8500 ohm
 
 ### Distributor
-`volkswagen_volkswagen_golf_2_en_d5036444` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:169
 
 Rotor rotation:
 1.05 and 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -45114,7 +42757,6 @@ Anti-clockwise
 1.6 and 1.8 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Clockwise
-`volkswagen_volkswagen_golf_2_en_864b8ad5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:169
 
 Contact breaker gap (initial setting only)  . . . . . . . . . . . . . . . . . . . . . . . .
 0.4 mm
@@ -45125,14 +42767,12 @@ Wear limit  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 42 to 58° (47 to 64%)
 
 ### Rotor cut-out speed:
-`volkswagen_volkswagen_golf_2_en_f7894252` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:169
 
 1.05 and 1 3 litre (if applicable) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 6300 to 6700 rpm
 1.6 and 1.8 litre (carburettor engine) . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### No figures available
-`volkswagen_volkswagen_golf_2_en_332098f8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:169
 
 1.8 litre (injection engine)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 6500 to 6900 rpm
@@ -45140,21 +42780,18 @@ Centrifugal advance:
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Begins at 1100 to 1500 rpm
-`volkswagen_volkswagen_golf_2_en_7405d316` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:169
 
 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Begins at 1500 to 1900 rpm
 1.6 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Begins at 1100 to 1300 rpm
-`volkswagen_volkswagen_golf_2_en_222ff1fa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:169
 
 1.8 litre (carburettor engine)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Begins at 900 to 1100 rpm
 1.8 litre (fuel injection engine)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Begins at 1150 to 1450 rpm
-`volkswagen_volkswagen_golf_2_en_3675a952` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:169
 
 Ignition timing (at idle) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Refer to Chapter 1 Specifications
@@ -45178,7 +42815,6 @@ Spark plugs - renewal  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_3fde1fe4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:169
 
 suitable for expert DIY
 or  professional
@@ -45197,7 +42833,6 @@ Spark plugs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 15
 
 ### Distributor clamp bolt:
-`volkswagen_volkswagen_golf_2_en_f42d4aac` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:170
 
 1.05 and 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 10
@@ -45208,7 +42843,6 @@ Spark plugs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1
 
 ### General information and
-`volkswagen_volkswagen_golf_2_en_c9f5fe2b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:170
 
 precautions
 General information
@@ -45225,7 +42859,6 @@ intermediate shaft of the engine (see
 illustration).
 
 ### To enable the engine to run correctly, it is
-`volkswagen_volkswagen_golf_2_en_1d20030f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:170
 
 necessary for an electrical spark to ignite the
 fuel/air mixture in the combustion chamber at
@@ -45240,7 +42873,6 @@ under high compression, providing that the
 system is in good condition.
 
 ### The ignition system is divided into two
-`volkswagen_volkswagen_golf_2_en_b418d5e0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:170
 
 circuits, the low tension (LT) circuit and the
 high tension (HT) circuit.
@@ -45267,7 +42899,6 @@ rotor arm and the spark plug leads and spark
 plugs.
 
 ### The system functions in the following
-`volkswagen_volkswagen_golf_2_en_b6fd9b31` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:170
 
 manner. LT voltage is changed in the coil into
 HT voltage by the opening and closing of the
@@ -45286,7 +42917,6 @@ finally jumps the spark plug gap before going
 to earth.
 
 ### Ignition timing is advanced and retarded
-`volkswagen_volkswagen_golf_2_en_569dd71c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:170
 
 automatically, to ensure that the spark occurs
 at just the right instant for the particular load
@@ -45297,7 +42927,6 @@ at the prevailing engine speed.
 1
 
 ### Sealing ring
-`volkswagen_volkswagen_golf_2_en_aed739d2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:170
 
 2
 Condenser
@@ -45330,7 +42959,6 @@ Bearing plate
 22 Clip
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_6f806f3a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:170
 
 Ignition system - contact breaker type  5A•3
 5A
@@ -45340,7 +42968,6 @@ Ignition system - contact breaker type  5A•3
 1.1b  Contact breaker ignition system components - Ducellier distributor, 1.05 and 1.3 litre engines
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_e9965f2a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:171
 
 Ignition
 advance
@@ -45356,7 +42983,6 @@ outwards, they rotate the cam relative to the
 distributor shaft and so advance the spark.
 
 ### The weights are held in position by two light
-`volkswagen_volkswagen_golf_2_en_b7187f1c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:172
 
 springs and it is the tension of these springs
 which is largely responsible for correct spark
@@ -45371,7 +42997,6 @@ via a small bore pipe to the inlet manifold and
 the other side to the contact breaker plate.
 
 ### Depression in the inlet manifold, which varies
-`volkswagen_volkswagen_golf_2_en_d0fe9878` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:172
 
 with engine speed and throttle opening,
 causes the diaphragm to move, so moving the
@@ -45380,7 +43005,6 @@ retarding the spark. A fine degree of control is
 achieved by a spring in the vacuum assembly.
 
 ### The system incorporates a ballast resistor
-`volkswagen_volkswagen_golf_2_en_8c7a7688` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:172
 
 or resistive wire in the low tension circuit,
 which is in circuit all the time that the engine is
@@ -45389,7 +43013,6 @@ resistance is bypassed to provide increased
 voltage at the spark plugs for easier starting.
 
 ### Precautions
-`volkswagen_volkswagen_golf_2_en_f31ae2f0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:172
 
 It is necessary to take extra care when
 working on the electrical system to avoid
@@ -45404,7 +43027,6 @@ b) Always remove rings, watches, etc.
 before working on the ignition system.
 
 ### Even with the battery disconnected,
-`volkswagen_volkswagen_golf_2_en_745cffae` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:172
 
 capacitive discharge could occur if a
 component live terminal is earthed
@@ -45442,7 +43064,6 @@ leads.
 2
 
 ### Spark plugs - renewal
-`volkswagen_volkswagen_golf_2_en_3688fa44` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:172
 
 2
 Caution: When pulling the HT lead from a
@@ -45454,7 +43075,6 @@ cylinders, remove dirt from the spark plug
 recesses before removing the plugs
 
 ### Refer to Chapter 1, Section 15
-`volkswagen_volkswagen_golf_2_en_4c26274f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:172
 
 3
 HT leads, distributor cap and
@@ -45491,7 +43111,6 @@ protected.
 4
 
 ### Contact breaker points -
-`volkswagen_volkswagen_golf_2_en_e4148d4f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:172
 
 inspection and adjustment 3
 Inspection
@@ -45509,7 +43128,6 @@ and refitting
 2
 
 ### Testing
-`volkswagen_volkswagen_golf_2_en_2613f466` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:172
 
 1 A faulty condenser can cause complete
 failure of the ignition system, as the points will
@@ -45533,7 +43151,6 @@ doubt, substitute a new unit and check
 whether the fault persists.
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_a1672112` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:172
 
 5 To remove the condenser, unscrew its
 retaining screw and disconnect the LT supply
@@ -45548,7 +43165,6 @@ cap, rotor arm, dust cover and bearing plate (if
 applicable) first.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_d0c1dfa7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:172
 
 7 Refitting is a reversal of removal.
 5A•4 Ignition system - contact breaker type
@@ -45561,7 +43177,6 @@ overhaul and refitting
 4
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_e2ac07d1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:173
 
 1 Disconnect the battery earth lead, then
 remove the distributor cap and screening ring.
@@ -45578,7 +43193,6 @@ crankshaft pulley bolt until the rotor arm
 points to the No. 1 spark plug lead position.
 
 ### On some models, a TDC groove is provided
-`volkswagen_volkswagen_golf_2_en_4ec536cf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:173
 
 on the distributor body rim and the rotor arm
 must align with this. The mark on the
@@ -45612,7 +43226,6 @@ the distributor body sealing washer which
 must be renewed.
 
 ### Overhaul
-`volkswagen_volkswagen_golf_2_en_ff8599d5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:173
 
 8 Overhauling of the distributor is similar for
 all models. The accompanying illustrations
@@ -45625,7 +43238,6 @@ bearing plate retaining ring (see illustrations).
 11 Before removing the vacuum unit on the
 
 ### Ducellier distributor, mark the adjustment
-`volkswagen_volkswagen_golf_2_en_bac3c8dd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:173
 
 segment position so that it can be correctly
 repositioned when reassembling.
@@ -45635,7 +43247,6 @@ unit arm to the contact breaker plate.
 unhook the arm and withdraw the vacuum
 
 ### Ignition system - contact breaker type 5A•5
-`volkswagen_volkswagen_golf_2_en_e9f59042` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:173
 
 5A
 7.6a  TDC timing marks -
@@ -45654,7 +43265,6 @@ with timing cover removed - 1.3 litre engine
 7.5  Removing the distributor
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_cea23d5e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:173
 
 unit. Note that the screws may also secure a
 suppression choke unit to the distributor
@@ -45667,7 +43277,6 @@ cut-outs (if applicable).
 15 Wipe clean all electrical components.
 
 ### Clean the distributor body assembly with
-`volkswagen_volkswagen_golf_2_en_ead442c7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:174
 
 paraffin then wipe dry.
 16 Check all components for wear and
@@ -45690,7 +43299,6 @@ multi-purpose grease then adjust the contact
 breaker points.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_b0ae82f4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:174
 
 1.05 and 1.3 litre engines
 21 To refit the distributor, reverse the
@@ -45714,7 +43322,6 @@ multi-plug (as applicable). Refit the TDC
 sensor or blanking plug.
 
 ### All models
-`volkswagen_volkswagen_golf_2_en_7456d9c3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:174
 
 23 Refit the distributor cap, then reconnect
 the battery negative terminal .
@@ -45728,7 +43335,6 @@ Refer to Chapter 1, Section 17
 9
 
 ### Coil - testing
-`volkswagen_volkswagen_golf_2_en_81c4285e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:174
 
 2
 1 The coil is located on the bulkhead under
@@ -45763,7 +43369,6 @@ to refitting distributor
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_99f89250` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:174
 
 1081 VW Golf & Jetta
 5B
@@ -45776,7 +43381,6 @@ Firing order  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1-3-4-2 (No 1 cylinder at crankshaft pulley end)
 
 ### Spark plugs
-`volkswagen_volkswagen_golf_2_en_3435d96c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:175
 
 Type and gap  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Refer to Chapter 1 Servicing specifications
@@ -45785,7 +43389,6 @@ Type:
 1.05 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Champion LS-05 boxed set
-`volkswagen_volkswagen_golf_2_en_937e099e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:175
 
 1.3, 1.6 and 1.8 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Champion LS-07 boxed set
@@ -45797,7 +43400,6 @@ Secondary winding resistance  . . . . . . . . . . . . . . . . . . . . . . . . . 
 2400 to 3500 ohm
 
 ### Clockwise
-`volkswagen_volkswagen_golf_2_en_1a6b95e3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:175
 
 Dwell angle (1.05,1.3 and 1.6 litre):
 Setting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -45806,7 +43408,6 @@ Wear limit  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 42 to 58° (47 to 64%)
 
 ### Rotor cut-out speed:
-`volkswagen_volkswagen_golf_2_en_4bcf3c02` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:175
 
 1.05 and 1.3 litre * . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 6600 to 7000 rpm
@@ -45816,7 +43417,6 @@ Wear limit  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 ** Only on engine without hydraulic tappets
 
 ### Torque wrench settings
-`volkswagen_volkswagen_golf_2_en_62bba244` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:175
 
 Nm
 lbf ft
@@ -45850,7 +43450,6 @@ Switch unit - testing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 4
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_2808b455` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:175
 
 suitable for expert DIY
 or  professional
@@ -45868,7 +43467,6 @@ General information
 TCI-H system
 
 ### The transistorised (TIC-H) ignition system
-`volkswagen_volkswagen_golf_2_en_fe85afd2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:176
 
 functions in a similar manner to that described
 in Part A of this Chapter for the contact
@@ -45880,7 +43478,6 @@ controls the coil primary circuit (see
 illustrations).
 
 ### Ignition timing is advanced and retarded
-`volkswagen_volkswagen_golf_2_en_f06b5cb8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:176
 
 automatically, to ensure that the spark occurs
 at just the right instant for the particular load
@@ -45899,7 +43496,6 @@ outwards they rotate the cam relative to the
 distributor shaft, and so advance the spark.
 
 ### The weights are held in position by two light
-`volkswagen_volkswagen_golf_2_en_62b87b60` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:176
 
 springs, and it is the tension of the springs
 which is largely responsible for correct spark
@@ -45916,7 +43512,6 @@ degree of control is achieved by a spring in
 the vacuum assembly.
 
 ### Digifant system
-`volkswagen_volkswagen_golf_2_en_fd424bad` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:176
 
 Fitted to the 1.8 litre (code PB and PF)
 engine, the Digifant ignition system uses the
@@ -45927,7 +43522,6 @@ ignition timing accordingly. Normal ignition
 timing is automatically adjusted by the
 
 ### Digifant control unit which also controls the
-`volkswagen_volkswagen_golf_2_en_79be459e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:176
 
 fuel injection system. Because of this, there
 are no centrifugal advance weights in the
@@ -45937,7 +43531,6 @@ the TIC-H system , except for those described
 in the relevant Sections.
 
 ### Precautions
-`volkswagen_volkswagen_golf_2_en_39b371d9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:176
 
 In addition to the precautions listed in Part
 A of this Chapter, note the following:
@@ -45955,7 +43548,6 @@ a condenser to the coil terminals
 2
 
 ### Spark plugs - renewal
-`volkswagen_volkswagen_golf_2_en_fe75e6d6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:176
 
 2
 Refer to Chapter 1, Section 15
@@ -45969,7 +43561,6 @@ Spark plug
 3
 
 ### HT lead
-`volkswagen_volkswagen_golf_2_en_d1a896ca` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:176
 
 4
 Suppression connector
@@ -46001,7 +43592,6 @@ spring
 24 Earth lead
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_9b73945f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:176
 
 Ignition system - transistorised type  5B•3
 5B
@@ -46012,7 +43602,6 @@ The system for 1.8 litre engines is similar
 1
 
 ### TCI-H switch unit
-`volkswagen_volkswagen_golf_2_en_b1b20e29` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:177
 
 2
 Connector
@@ -46039,7 +43628,6 @@ renewal
 2
 
 ### Refer to Section 3 in Part A of this Chapter
-`volkswagen_volkswagen_golf_2_en_49d2622c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:178
 
 4
 Switch unit - testing
@@ -46070,7 +43658,6 @@ switch unit and coil.
 terminal of the distributor multi-plug briefly.
 
 ### The voltage should rise to at least 2 volts. If
-`volkswagen_volkswagen_golf_2_en_2a33666e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:178
 
 not, there is an open-circuit or the switch unit
 is faulty.
@@ -46086,7 +43673,6 @@ multi-plug.
 5
 
 ### Hall sender - testing
-`volkswagen_volkswagen_golf_2_en_1c6bf2a5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:178
 
 2
 1 Check that the ignition system wiring and
@@ -46107,7 +43693,6 @@ faulty and must be renewed.
 6
 
 ### Distributor - removal and
-`volkswagen_volkswagen_golf_2_en_f76529a8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:178
 
 refitting
 3
@@ -46118,7 +43703,6 @@ Part A of this Chapter for the contact breaker
 type
 
 ### TCI-H system
-`volkswagen_volkswagen_golf_2_en_0ee11258` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:178
 
 Removal
 1 Pull the high tension connection from the
@@ -46142,7 +43726,6 @@ testing ignition switch unit and coil
 5.4  Voltmeter connection when testing
 
 ### Hall sender
-`volkswagen_volkswagen_golf_2_en_35dd7f67` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:178
 
 4.6a  Multi-plug connection to Hall sender
 on side of distributor
@@ -46170,7 +43753,6 @@ the gasket, which must be renewed (see
 illustrations).
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_d9621c50` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:179
 
 7 Refitting is a reversal of the removal
 procedure. When the distributor is in position,
@@ -46181,7 +43763,6 @@ plate bolt.
 adjust the ignition timing.
 
 ### Digifant system
-`volkswagen_volkswagen_golf_2_en_1e2e3670` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:179
 
 Removal
 9 Release the distributor screen and cap.
@@ -46193,7 +43774,6 @@ the side of the distributor body.
 the clamp plate and withdraw the distributor.
 
 ### Ignition system - transistorised type 5B•5
-`volkswagen_volkswagen_golf_2_en_9421180d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:179
 
 5B
 6.4a  TDC blanking plug – manual gearbox
@@ -46211,7 +43791,6 @@ components
 1
 
 ### HT leads
-`volkswagen_volkswagen_golf_2_en_e39e21fd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:179
 
 2
 Suppression connectors
@@ -46241,7 +43820,6 @@ Distributor
 19 Spark plug
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_c8925d38` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:179
 
 Refitting
 12 Before fitting the distributor, set No. 1
@@ -46251,7 +43829,6 @@ vibration damper mark should align with the
 matching mark on the casing or belt cover.
 
 ### The mark on the camshaft sprocket must
-`volkswagen_volkswagen_golf_2_en_0dd46da5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:180
 
 align with the joint of the camshaft cover.
 13 Using a screwdriver, turn the slot in the
@@ -46267,7 +43844,6 @@ necessary adjust the ignition timing.
 7
 
 ### Distributor - overhaul
-`volkswagen_volkswagen_golf_2_en_9dfc9f40` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:180
 
 4
 Note: Before commencing work, check that
@@ -46287,7 +43863,6 @@ distributor body in line with the guide lug.
 b) Shims are provided above and below the
 
 ### Hall sender and these should be selected
-`volkswagen_volkswagen_golf_2_en_acae3d9f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:180
 
 to eliminate axial clearance and to provide
 for movement by the vacuum unit.
@@ -46331,7 +43906,6 @@ of its spring.
 6.15  Distributor installation position –
 
 ### Digifant system
-`volkswagen_volkswagen_golf_2_en_e7c118ec` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:180
 
 7.3b  . . . and lift off the dust cap
 7.4b  . . . and locating pin from shaft
@@ -46344,7 +43918,6 @@ components – 1.05 and 1.3 litre engines
 1
 
 ### Bearing plate
-`volkswagen_volkswagen_golf_2_en_e3a204c3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:180
 
 2
 Tensioning ring
@@ -46368,7 +43941,6 @@ Downloaded from www.Manualslib.com manuals search engine
 10 Check that the rotor arm is not damaged.
 
 ### Use an ohmmeter to measure the resistance
-`volkswagen_volkswagen_golf_2_en_af386455` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:181
 
 between the brass contact in the centre of the
 rotor arm and the brass contact at the edge of
@@ -46379,7 +43951,6 @@ vacuum diaphragm and check that the
 operating rod of the diaphragm unit moves.
 
 ### Retain the diaphragm under vacuum to check
-`volkswagen_volkswagen_golf_2_en_71d91252` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:181
 
 that the diaphragm is not perforated.
 12 Reassemble the distributor in reverse
@@ -46400,7 +43971,6 @@ and will need renewal.
 8
 
 ### Ignition timing - checking and
-`volkswagen_volkswagen_golf_2_en_8af460bc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:181
 
 adjustment
 3
@@ -46419,7 +43989,6 @@ when refitting
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_fa74242b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:181
 
 5B•8
 1081 VW Golf & Jetta
@@ -46432,7 +44001,6 @@ Ignition system - fully electronic type
 The following information is a revision of, or supplementary to, that contained in Part B of this Chapter
 
 ### General
-`volkswagen_volkswagen_golf_2_en_0c6bd94d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:183
 
 System type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Fully Electronic Ignition (FEI)
@@ -46459,7 +44027,6 @@ Switch unit - testing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 4
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_892db933` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:183
 
 suitable for expert DIY
 or  professional
@@ -46484,7 +44051,6 @@ Connector
 6
 
 ### TCI-H switch unit
-`volkswagen_volkswagen_golf_2_en_47f3cf3c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:183
 
 7
 Heat sink
@@ -46517,7 +44083,6 @@ sender
 1
 
 ### General information and
-`volkswagen_volkswagen_golf_2_en_f6417566` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:183
 
 precautions
 General information
@@ -46534,7 +44099,6 @@ distributor is not fitted with centrifugal and
 vacuum advance mechanisms.
 
 ### Precautions
-`volkswagen_volkswagen_golf_2_en_1c547693` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:183
 
 The precautions listed in Parts A and B of
 this Chapter apply also to the FEI system.
@@ -46550,7 +44114,6 @@ test lamp, as this will damage the
 electronic components of the system
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_e4cc298b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:183
 
 2
 Spark plugs - renewal
@@ -46595,7 +44158,6 @@ not the case, renew the switch unit.
 5
 
 ### Control unit - testing
-`volkswagen_volkswagen_golf_2_en_9afd9ee9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:184
 
 2
 1 Test the switch unit before checking the
@@ -46627,7 +44189,6 @@ connector, then switch on the ignition. A
 reading of 5 volts should be registered.
 
 ### Switch off the ignition.
-`volkswagen_volkswagen_golf_2_en_80ca76f7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:184
 
 7 Connect a voltmeter across the low tension
 terminals of the ignition coil. Switch on the
@@ -46642,7 +44203,6 @@ pump relay.
 6
 
 ### Hall sender - testing
-`volkswagen_volkswagen_golf_2_en_9060c40b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:184
 
 2
 Note: A digital multi-meter should be used for
@@ -46657,7 +44217,6 @@ indicated, if not check the FEI control unit and
 wiring.
 
 ### To check the signal from the Hall sender
-`volkswagen_volkswagen_golf_2_en_7a990369` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:184
 
 unit, slide the rubber grommet away from the
 sender plug and with the plug connected,
@@ -46671,7 +44230,6 @@ testing FEI switch unit
 of distributor
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_ab9fbe53` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:184
 
 attach the diode test light to its centre and
 outer
@@ -46685,7 +44243,6 @@ be renewed.
 7
 
 ### Distributor - removal and
-`volkswagen_volkswagen_golf_2_en_69431aa8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:185
 
 refitting
 3
@@ -46721,7 +44278,6 @@ from inside the distributor body.
 8 Clean all the components, then fit the new
 
 ### Hall sender using a reversal of the removal
-`volkswagen_volkswagen_golf_2_en_4a9343d5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:185
 
 procedure, but lubricate the shaft with a little
 grease.
@@ -46744,7 +44300,6 @@ advance attributable to engine speed.
 engine to 4600 rpm. Note the ignition timing.
 
 ### Pull off the vacuum hose and again increase
-`volkswagen_volkswagen_golf_2_en_0398c08b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:185
 
 the engine speed to 4600 rpm. The ignition
 timing should be approximately 20° retarded
@@ -46760,7 +44315,6 @@ unit
 1
 
 ### Shaft
-`volkswagen_volkswagen_golf_2_en_5670b13f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:185
 
 2
 Shims
@@ -46787,7 +44341,6 @@ Downloaded from www.Manualslib.com manuals search engine
 5D
 
 ### Chapter 5 Part D:
-`volkswagen_volkswagen_golf_2_en_cf3d8e07` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:187
 
 Starting and charging systems
 System
@@ -46800,7 +44353,6 @@ Minimum voltage (under load)  . . . . . . . . . . . . . . . . . . . . . . . . . 
 9.6 volts at 110 amps
 
 ### Alternator
-`volkswagen_volkswagen_golf_2_en_943d515d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:187
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Bosch or Motorola
@@ -46810,7 +44362,6 @@ Minimum allowable brush length  . . . . . . . . . . . . . . . . . . . . . . . . 
 5.0 mm
 
 ### Rotor winding resistance (ohms):
-`volkswagen_volkswagen_golf_2_en_24e8d0ba` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:187
 
 Bosch
 Motorola
@@ -46825,7 +44376,6 @@ Motorola
 -
 
 ### Starter motor
-`volkswagen_volkswagen_golf_2_en_4840b822` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:187
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Pre-engaged
@@ -46833,7 +44383,6 @@ Application/VW part No:
 1.05 and 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 036 911 023 G
-`volkswagen_volkswagen_golf_2_en_65f44a22` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:187
 
 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 036 911 023 H
@@ -46841,7 +44390,6 @@ Application/VW part No:
 Manual gearbox  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 055 911 023 G
-`volkswagen_volkswagen_golf_2_en_aef1b650` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:187
 
 Automatic transmission  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 055 911 023 A
@@ -46849,7 +44397,6 @@ Automatic transmission  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 027 911 023
 
 ### Torque wrench settings
-`volkswagen_volkswagen_golf_2_en_cf6aea99` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:187
 
 Nm
 Ibf ft
@@ -46865,7 +44412,6 @@ Starter motor
 15
 
 ### Alternator
-`volkswagen_volkswagen_golf_2_en_d5177595` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:187
 
 Pulley nut  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 40
@@ -46901,7 +44447,6 @@ Starting motor - testing  . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 9
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_f714350e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:187
 
 suitable for expert DIY
 or  professional
@@ -46926,7 +44471,6 @@ engagement with the flywheel/driveplate ring
 gear before the motor is energised.
 
 ### An automatic stop-start system is fitted as
-`volkswagen_volkswagen_golf_2_en_eca100cc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:188
 
 optional equipment to some models and is a
 fuel economy device. Activated by a control
@@ -46940,7 +44484,6 @@ control panel. A warning light in the switch
 advises when the system is switched on.
 
 ### The system should only be used when the
-`volkswagen_volkswagen_golf_2_en_7586329a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:188
 
 vehicle has reached its normal operating
 temperature. When activated, the system will
@@ -46952,7 +44495,6 @@ vehicle must previously have been driven at a
 speed in excess of 3.1 mph (5 kph).
 
 ### When traffic conditions permit, the engine
-`volkswagen_volkswagen_golf_2_en_fb5c9163` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:188
 
 can be restarted by depressing the clutch
 pedal and moving the gear lever fully to the
@@ -46964,7 +44506,6 @@ should be repeated but the gear lever must be
 moved back into neutral within 6 seconds.
 
 ### Precautions
-`volkswagen_volkswagen_golf_2_en_b5c3fc9a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:188
 
 It is necessary to take extra care when
 working on the electrical system to avoid
@@ -46982,7 +44523,6 @@ a mains charger.
 c) Do not reverse the battery connections.
 
 ### Components such as the alternator or any
-`volkswagen_volkswagen_golf_2_en_57a85ef4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:188
 
 other having semi-conductor circuitry
 could be irreparably damaged.
@@ -47006,7 +44546,6 @@ equipment, disconnect the battery and
 alternator.
 
 ### The following precautions should be taken
-`volkswagen_volkswagen_golf_2_en_795da0e1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:188
 
 when using the automatic stop-start system:
 a) Do not use the system when the engine
@@ -47027,7 +44566,6 @@ take the ignition key with you
 2
 
 ### Battery - maintenance
-`volkswagen_volkswagen_golf_2_en_5144924c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:188
 
 1
 Refer to “Weekly Checks”.
@@ -47043,7 +44581,6 @@ not allow sparks or naked flames near the
 battery or it may explode.
 
 ### Caution: Specially rapid “boost” charges
-`volkswagen_volkswagen_golf_2_en_397d758a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:188
 
 which are claimed to restore the power of
 a battery in 1 to 2 hours are not
@@ -47083,7 +44620,6 @@ battery.
 4
 
 ### Battery - removal and refitting 1
-`volkswagen_volkswagen_golf_2_en_7afd08b9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:188
 
 Caution: When reconnecting the battery,
 always connect the positive lead first and
@@ -47099,7 +44635,6 @@ the acid level within the battery to overflow
 and damage surrounding components
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_0ed36414` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:188
 
 1 The battery is located in the engine
 compartment on the left-hand side.
@@ -47116,7 +44651,6 @@ bodywork.
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_5bcd0e46` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:188
 
 Refitting
 5 Refitting is a reversal of removal. Note the
@@ -47130,7 +44664,6 @@ terminals and clamps
 5
 
 ### Alternator drivebelt -
-`volkswagen_volkswagen_golf_2_en_cdae2bd0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:189
 
 inspection and adjustment 2
 Refer to Chapter 1, Section 13
@@ -47148,7 +44681,6 @@ have it checked professionally.
 7
 
 ### Alternator - removal and
-`volkswagen_volkswagen_golf_2_en_6a91a3e3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:189
 
 refitting
 3
@@ -47168,7 +44700,6 @@ pivot bolt and withdraw the unit from the
 engine.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_e4ad5fa3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:189
 
 6 Refitting is a reversal of removal. Before
 fully tightening the pivot and adjustment bolts,
@@ -47206,7 +44737,6 @@ by an auto-electrician.
 procedure.
 
 ### Motorola
-`volkswagen_volkswagen_golf_2_en_3f826146` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:189
 
 10 This procedure is similar to that described
 for the Bosch alternator. Identify the regulator
@@ -47226,7 +44756,6 @@ assembly
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_c921df03` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:189
 
 9
 Starting motor - testing
@@ -47265,7 +44794,6 @@ refitting
 3
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_0b010499` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:190
 
 1 Disconnect the earth lead from the battery.
 2 Jack up the front of the vehicle and support
@@ -47287,7 +44815,6 @@ removal of the starter motor.
 starter motor.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_80ffa48a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:190
 
 8 Refitting is a reversal of removal. Tighten all
 bolts to the specified torque.
@@ -47312,7 +44839,6 @@ from their holder.
 in doubt, renew the brushes as a set.
 
 ### Compare them with new items if necessary.
-`volkswagen_volkswagen_golf_2_en_25fe3f40` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:190
 
 6 To renew each brush, crush it with a pair of
 pliers and then clean its lead. Insert the lead
@@ -47338,7 +44864,6 @@ connections – 1.3 litre
 1
 
 ### Brushes
-`volkswagen_volkswagen_golf_2_en_e8fc8156` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:190
 
 2
 Brush holder
@@ -47364,7 +44889,6 @@ Starter/end cap joint
 5
 
 ### Through-bolts
-`volkswagen_volkswagen_golf_2_en_12163e9f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:190
 
 6
 Shaft cover joint and screws
@@ -47380,7 +44904,6 @@ models. Disc front brakes. Drum or disc rear brakes. Cable-operated
 handbrake on rear wheels.
 
 ### Front brakes
-`volkswagen_volkswagen_golf_2_en_93a0b842` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:191
 
 Disc thickness:
 New:
@@ -47392,7 +44915,6 @@ New:
 20.0 mm
 
 ### Minimum:
-`volkswagen_volkswagen_golf_2_en_d5f4b4d1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:191
 
 1.05 and 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 8.0 mm
@@ -47402,7 +44924,6 @@ New:
 18.0 mm
 
 ### Pad thickness:
-`volkswagen_volkswagen_golf_2_en_91cce6a0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:191
 
 New - excluding backplate:
 1.05 and 1.3 litre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -47413,7 +44934,6 @@ New - excluding backplate:
 10.0 mm
 
 ### Minimum - including backplate:
-`volkswagen_volkswagen_golf_2_en_66a902d9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:191
 
 All models  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 7.0 mm
@@ -47425,7 +44945,6 @@ Maximum  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 181.0 mm
 
 ### Drum maximum run-out:
-`volkswagen_volkswagen_golf_2_en_60fe1784` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:191
 
 Radial - at friction surface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0.05 mm
@@ -47433,7 +44952,6 @@ Lateral - wheel contact surface  . . . . . . . . . . . . . . . . . . . . . . . .
 0.2 mm
 
 ### Lining thickness:
-`volkswagen_volkswagen_golf_2_en_28cc9990` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:191
 
 Minimum - including shoe  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 5.0 mm
@@ -47468,7 +44986,6 @@ Vacuum servo unit - testing . . . . . . . . . . . . . . . . . . . . . . . . . . 
 9•1
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_c51780fc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:191
 
 suitable for expert DIY
 or  professional
@@ -47489,7 +45006,6 @@ Disc maximum run-out  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 0.06 mm
 
 ### Pad thickness:
-`volkswagen_volkswagen_golf_2_en_cfaf7bdf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:192
 
 New - including backplate  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 12.0 mm
@@ -47500,7 +45016,6 @@ Diameter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 20.65 mm
 
 ### Wheel cylinder
-`volkswagen_volkswagen_golf_2_en_ff298571` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:192
 
 Diameter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 14.29 mm
@@ -47512,7 +45027,6 @@ Automatic transmission  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 228.0 mm
 
 ### Torque wrench settings
-`volkswagen_volkswagen_golf_2_en_d08ddf54` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:192
 
 Nm
 Ibf ft
@@ -47549,7 +45063,6 @@ Roadwheel bolt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1
 
 ### General information and
-`volkswagen_volkswagen_golf_2_en_511d6946` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:192
 
 precautions
 General information
@@ -47561,7 +45074,6 @@ circuit, one front and one rear brake remain
 operative.
 
 ### A load-sensitive pressure regulator is
-`volkswagen_volkswagen_golf_2_en_fe5d9a6c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:192
 
 incorporated in the rear hydraulic circuits on
 some models to prevent the rear wheels
@@ -47574,7 +45086,6 @@ under-body, in front of the left-hand rear
 wheel.
 
 ### A vacuum servo unit is located between the
-`volkswagen_volkswagen_golf_2_en_d7343566` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:192
 
 brake pedal and master cylinder. It provides
 assistance to the driver when the brake pedal
@@ -47594,7 +45105,6 @@ are harnessed to assist in depressing the
 master cylinder pistons.
 
 ### The handbrake operates on the rear wheels
-`volkswagen_volkswagen_golf_2_en_1e644df0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:192
 
 only, its lever incorporating a switch which
 illuminates a warning light on the instrument
@@ -47603,7 +45113,6 @@ same warning light is wired into the low
 hydraulic fluid switch circuit.
 
 ### Precautions
-`volkswagen_volkswagen_golf_2_en_128013f3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:192
 
 Hydraulic fluid is poisonous. Wash off
 immediately and thoroughly in the case of skin
@@ -47618,7 +45127,6 @@ precautions against the risk of fire as though it
 is petrol that is being handled.
 
 ### Hydraulic fluid is an effective paint stripper
-`volkswagen_volkswagen_golf_2_en_cd07f472` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:192
 
 and will attack plastics. If any is spilt, it should
 be washed off immediately using copious
@@ -47628,7 +45136,6 @@ the air. Old fluid may be contaminated and
 unfit for further use.
 
 ### When topping-up or renewing fluid, always
-`volkswagen_volkswagen_golf_2_en_3505d2a3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:192
 
 use the recommended type and ensure that it
 comes
@@ -47643,7 +45150,6 @@ air, or to inhale it, since it may contain
 asbestos which is injurious to health
 
 ### When servicing any part of the system,
-`volkswagen_volkswagen_golf_2_en_d9e38724` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:192
 
 work carefully and methodically. Observe
 scrupulous cleanliness when overhauling any
@@ -47652,7 +45158,6 @@ part of the system. Always renew components
 about their condition and use only genuine
 
 ### VW replacement parts, or at least those of
-`volkswagen_volkswagen_golf_2_en_294f1d78` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:192
 
 known good quality.
 2
@@ -47667,7 +45172,6 @@ may contain asbestos which is injurious to
 health.
 
 ### Warning: Always support the
-`volkswagen_volkswagen_golf_2_en_82af01b0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:192
 
 vehicle on axle stands before
 removing the roadwheel to
@@ -47684,7 +45188,6 @@ handbrake and remove both front wheels.
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4176a794` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:192
 
 3 Use an Allen key and unscrew the upper
 and lower caliper securing bolts (see
@@ -47710,7 +45213,6 @@ the original pads are to be re-used they must
 be refitted to their original positions each side.
 
 ### Fitting
-`volkswagen_volkswagen_golf_2_en_a5ea44c6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:193
 
 8 Using a piece of wood, push the piston
 back into the caliper. While doing this, check
@@ -47719,7 +45221,6 @@ necessary draw off some with a pipette or
 release some from the caliper bleed screw.
 
 ### Tighten the screw immediately afterwards.
-`volkswagen_volkswagen_golf_2_en_d3079090` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:193
 
 9 Relocate
 the
@@ -47740,7 +45241,6 @@ the bolts or the retainer springs may be
 distorted which, in turn, will give noisy braking.
 
 ### Tighten the bolts to the specified torque.
-`volkswagen_volkswagen_golf_2_en_d9d773e6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:193
 
 12 On completion, the brake pedal should be
 depressed firmly several times with the
@@ -47750,7 +45250,6 @@ fluid level in the reservoir and top-up if
 necessary.
 
 ### Rear pads
-`volkswagen_volkswagen_golf_2_en_0e2e4c5e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:193
 
 Inspection
 13 Refer to Chapter 1, Section 26.
@@ -47773,7 +45272,6 @@ on reassembly.
 pivot the caliper downwards (see illustration).
 
 ### Braking system 9•3
-`volkswagen_volkswagen_golf_2_en_3438101e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:193
 
 9
 2.3a  Caliper securing bolt removal
@@ -47790,7 +45288,6 @@ shown
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_a0986179` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:193
 
 If both bolts were removed, carefully lift off and
 support the caliper.
@@ -47805,7 +45302,6 @@ inhale it. Scrape any scale or rust from the
 disc and pad backing plates.
 
 ### Fitting
-`volkswagen_volkswagen_golf_2_en_bbcd59db` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:194
 
 20 Move the piston back into the caliper by
 turning it clockwise using either an Allen key
@@ -47832,7 +45328,6 @@ correct clearance is achieved.
 self-locking bolts when adjustment is correct.
 
 ### Tighten the bolts to the specified torque setting.
-`volkswagen_volkswagen_golf_2_en_03fc83f6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:194
 
 24 If new brake pads and/or discs have been
 fitted, it is necessary to carry out a basic rear
@@ -47850,7 +45345,6 @@ adjustment.
 3
 
 ### Brake calipers - removal,
-`volkswagen_volkswagen_golf_2_en_e295b643` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:194
 
 overhaul and refitting
 4
@@ -47862,7 +45356,6 @@ spray into the face or eyes when loosening
 a connection.
 
 ### Warning: Never refit old seals
-`volkswagen_volkswagen_golf_2_en_ddb4e5c6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:194
 
 when
 reassembling
@@ -47899,7 +45392,6 @@ piston, cylinder and frames for wear, damage
 and corrosion. If necessary, renew the caliper.
 
 ### If all components are in good condition then
-`volkswagen_volkswagen_golf_2_en_d51854e0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:194
 
 obtain a repair kit of seals.
 8 Dip the new sealing ring in brake fluid and
@@ -47923,7 +45415,6 @@ housing.
 2.20a  Retracting caliper piston using an
 
 ### Allen key
-`volkswagen_volkswagen_golf_2_en_cdd5b054` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:194
 
 2.20b  Retracting caliper piston using a
 pair of angled circlip pliers
@@ -47934,7 +45425,6 @@ clearance
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_590562e7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:194
 
 13 Tighten the brake hose union so that the
 hose is not twisted or in a position where it will
@@ -47944,7 +45434,6 @@ sheet from the reservoir. Top-up the brake
 fluid and bleed the brakes.
 
 ### Rear calipers
-`volkswagen_volkswagen_golf_2_en_ba6439ef` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:195
 
 15 Chock the front wheels, jack up the rear of
 the vehicle and support it on axle stands (see
@@ -47969,7 +45458,6 @@ during this operation.
 20 Secure the caliper in a soft-jawed vice.
 
 ### Using an Allen key or angled circlip pliers,
-`volkswagen_volkswagen_golf_2_en_a888eebc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:195
 
 unscrew the piston from the cylinder (see
 illustration).
@@ -47997,7 +45485,6 @@ groove in the cylinder bore using a suitable
 screwdriver (see illustration).
 
 ### Braking system 9•5
-`volkswagen_volkswagen_golf_2_en_b65b6d13` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:195
 
 9
 3.20  Removing the piston from the
@@ -48030,7 +45517,6 @@ vehicle.
 4
 
 ### Brake discs - examination,
-`volkswagen_volkswagen_golf_2_en_f35640f2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:196
 
 removal and refitting
 3
@@ -48060,7 +45546,6 @@ that the mating faces of the disc and hub are
 clean.
 
 ### Rear discs
-`volkswagen_volkswagen_golf_2_en_333f0c5c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:196
 
 8 Chock the front wheels, jack up the rear of
 the vehicle and support it on axle stands.
@@ -48080,7 +45565,6 @@ exceed the maximum amount specified.
 13 Unbolt and remove the rear brake carrier.
 
 ### Use a screwdriver and prise free the hub cap
-`volkswagen_volkswagen_golf_2_en_47339bdb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:196
 
 (see illustration).
 14 Straighten and extract the split pin, then
@@ -48095,7 +45579,6 @@ protective cap and into position in cylinder
 to refitting
 
 ### Arrows indicate brake bleed valve and brake
-`volkswagen_volkswagen_golf_2_en_1428cec5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:196
 
 hose connection point
 4.13  Prise free the hub cap . . .
@@ -48141,7 +45624,6 @@ torque setting.
 5
 
 ### Rear hub bearings - renewal 3
-`volkswagen_volkswagen_golf_2_en_d5be9b40` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:197
 
 1 Remove the rear brake disc.
 2 Remove the inner bearing from the disc by
@@ -48165,7 +45647,6 @@ suitable tube drift.
 6
 
 ### Rear brake shoes -
-`volkswagen_volkswagen_golf_2_en_1677362e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:197
 
 inspection and renewal
 3
@@ -48179,7 +45660,6 @@ and check with a torch that the linings are not
 worn below the minimum thickness specified.
 
 ### On completion, refit the plugs.
-`volkswagen_volkswagen_golf_2_en_290dd607` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:197
 
 Removal
 3 Remove the rear wheels.
@@ -48201,7 +45681,6 @@ the shoes from the drum.
 and backplate whilst taking care not inhale it.
 
 ### Scrape any scale or rust from the drum. Note
-`volkswagen_volkswagen_golf_2_en_34d48f2e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:197
 
 that the shoes should be renewed as a set of
 four.
@@ -48222,7 +45701,6 @@ return spring and withdraw the shoes (see
 illustration).
 
 ### Braking system 9•7
-`volkswagen_volkswagen_golf_2_en_503361e6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:197
 
 9
 4.15  . . . followed by the outer washer and
@@ -48235,7 +45713,6 @@ bearing
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_fb223109` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:197
 
 12 Grip the strut in a vice and release the
 shoe, then remove the wedge and spring. The
@@ -48249,7 +45726,6 @@ are no signs of fluid leakage and, if necessary,
 repair or renew the wheel cylinder.
 
 ### Fitting
-`volkswagen_volkswagen_golf_2_en_1a119f06` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:198
 
 13 Fit the new brake shoes using a reversal
 of the removal procedure. Note that the lug on
@@ -48284,7 +45760,6 @@ shoes in their correct position.
 7
 
 ### Rear brake cylinder -
-`volkswagen_volkswagen_golf_2_en_7690a84f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:198
 
 removal, overhaul and refitting 4
 Removal
@@ -48301,7 +45776,6 @@ pipe.
 wheel cylinder from the backplate.
 
 ### Overhaul
-`volkswagen_volkswagen_golf_2_en_211d03d4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:198
 
 5 Prise off the dust caps then remove the
 pistons, keeping them identified for location. If
@@ -48330,7 +45804,6 @@ in the grooves on the outside of the cylinder.
 11 Insert and tighten the bleed valve.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_6ec51b83` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:198
 
 12 Clean the mating faces then fit the wheel
 cylinder to the backplate and tighten the
@@ -48349,7 +45822,6 @@ and pushrod assembly
 1
 
 ### Boot
-`volkswagen_volkswagen_golf_2_en_b218bf60` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:198
 
 2
 Piston
@@ -48373,7 +45845,6 @@ the valves.
 8
 
 ### Rear brake drum -
-`volkswagen_volkswagen_golf_2_en_e8712308` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:199
 
 examination and renovation 2
 1 Whenever the brake drums are removed,
@@ -48396,7 +45867,6 @@ so that it is flush with the boss face.
 9
 
 ### Master cylinder - removal and
-`volkswagen_volkswagen_golf_2_en_30ddc1f4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:199
 
 refitting
 3
@@ -48422,7 +45892,6 @@ hydraulic fluid pipes from the master cylinder.
 the master cylinder from the servo unit.
 
 ### Remove the spacer and seal where applicable
-`volkswagen_volkswagen_golf_2_en_5d04617d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:199
 
 (see illustration).
 8 Remove the master cylinder from the
@@ -48434,7 +45903,6 @@ with paraffin and wipe dry.
 be overhauled and must be renewed as a unit.
 
 ### This being the case, remove the reservoir by
-`volkswagen_volkswagen_golf_2_en_b310899b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:199
 
 pulling it free from the rubber grommets, then
 prise free the grommets from the cylinder.
@@ -48444,7 +45912,6 @@ them into the cylinder, then press the
 reservoir into the grommets.
 
 ### Braking system 9•9
-`volkswagen_volkswagen_golf_2_en_c05ee0fc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:199
 
 9
 8.3  Prising out brake drum oil seal
@@ -48465,7 +45932,6 @@ illustration).
 2 Checking of the regulator is best left to a
 
 ### VW garage, as special pressure gauges and
-`volkswagen_volkswagen_golf_2_en_c4684d97` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:200
 
 spring tensioning tools are required.
 3 Adjustment is made by varying the spring
@@ -48486,7 +45952,6 @@ union nuts at each end and where necessary,
 remove the line from its retaining clips.
 
 ### Refitting is a reversal of removal.
-`volkswagen_volkswagen_golf_2_en_6c56b859` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:200
 
 2 To remove a flexible brake hose, unscrew
 the union nut securing the rigid brake pipe to
@@ -48501,7 +45966,6 @@ fitting a brake pipe or hose.
 12 Hydraulic system - bleeding 3
 
 ### Caution: Take great care not to spill brake
-`volkswagen_volkswagen_golf_2_en_ae88dd98` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:200
 
 fluid onto paintwork as it will act as a paint
 stripper. If spilled, wash it off at once with
@@ -48523,7 +45987,6 @@ the bleeding of the rear brakes.
 the system.
 
 ### Two-man method
-`volkswagen_volkswagen_golf_2_en_8d251a18` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:200
 
 4 Obtain a clean jar and length of tube which
 will fit the bleed valve tightly. The help of an
@@ -48548,7 +46011,6 @@ to the floor and then quickly remove his foot
 to allow the pedal to return unimpeded.
 
 ### Tighten the bleed valve at the end of each
-`volkswagen_volkswagen_golf_2_en_c0e2eaea` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:200
 
 downstroke to prevent expelled air and fluid
 being drawn back into the system.
@@ -48572,7 +46034,6 @@ opposite front brake.
 12 On completion, remove the bleed tube.
 
 ### Discard the fluid which has been bled from
-`volkswagen_volkswagen_golf_2_en_bc4fcac5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:200
 
 the system unless it is required for bleed jar
 purposes. Never use it for filling the system.
@@ -48599,7 +46060,6 @@ diagonally opposite brake whilst remembering
 to keep the master cylinder reservoir full.
 
 ### With pressure bleeding kits
-`volkswagen_volkswagen_golf_2_en_ee72e442` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:200
 
 16 These are available from motor accessory
 shops and are usually operated by air
@@ -48622,7 +46082,6 @@ connection
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4eb203f7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:200
 
 19 This method is particularly effective when
 bleeding “difficult” systems or when bleeding
@@ -48636,7 +46095,6 @@ recheck the fluid level in the master cylinder at
 regular intervals and top-up as necessary.
 
 ### Right-hand rear wheel
-`volkswagen_volkswagen_golf_2_en_950e4249` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:201
 
 Left-hand rear wheel
 Right-hand front wheel
@@ -48658,7 +46116,6 @@ and refitting
 3
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_ff03a55a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:201
 
 1 Position a chock each side of the front
 wheels. Pull the cover from the lever by
@@ -48675,7 +46132,6 @@ switch, disconnect the wiring and remove the
 switch.
 
 ### Braking system 9•11
-`volkswagen_volkswagen_golf_2_en_c46df6c4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:201
 
 9
 12.23  Fit bleed valve the protector cap
@@ -48709,7 +46165,6 @@ Screw
 17 Switch
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_aa95f34f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:201
 
 Refitting
 5 Refitting is a reversal of removal. Lubricate
@@ -48724,7 +46179,6 @@ rear of the vehicle and support it on axle
 stands (see “Jacking and vehicle support”).
 
 ### Release the handbrake.
-`volkswagen_volkswagen_golf_2_en_984e0468` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:202
 
 2 Remove the cover from the handbrake lever
 then undo the locknut and adjuster nut from
@@ -48743,7 +46197,6 @@ and then carefully withdraw it from under the
 vehicle (see illustration).
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_0332e0ab` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:202
 
 7 Refitting is a reversal of removal, but adjust
 the cable as follows before lowering the
@@ -48761,7 +46214,6 @@ handbrake lever then check that the
 roadwheel spins freely without binding.
 
 ### Tighten the locknut against the adjuster nut
-`volkswagen_volkswagen_golf_2_en_472dfb67` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:202
 
 then apply the handbrake and check that the
 wheel is locked. Repeat the procedure with
@@ -48786,7 +46238,6 @@ and refitting
 3
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_c3942127` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:202
 
 1 The brake and clutch pedals share a
 common bracket assembly and pivot shaft.
@@ -48801,7 +46252,6 @@ necessary, drive them out from each side and
 press in new bushes using a soft-jawed vice.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_5eb7afe6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:202
 
 6 Refitting is a reversal of removal, but
 lubricate the pivot shaft with a little
@@ -48825,7 +46275,6 @@ disconnect it from the hose then blow through
 the valve in the direction of the arrow marking.
 
 ### Air should pass through the valve. If air is blown
-`volkswagen_volkswagen_golf_2_en_8c424f43` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:202
 
 in the reverse direction, it should not pass
 through the valve. Renew the valve if defective.
@@ -48847,7 +46296,6 @@ the servo unit from the bulkhead into the
 engine compartment.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_a11e80a5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:202
 
 6 Refitting is a reversal of removal. Lubricate
 the clevis pin with a little molybdenum
@@ -48860,7 +46308,6 @@ are self-locking and should always be renewed.
 brakes
 
 ### Lever on caliper (arrowed) should be just clear
-`volkswagen_volkswagen_golf_2_en_c72a5688` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:202
 
 of stop
 1081 VW Golf & Jetta
@@ -48923,7 +46370,6 @@ Radiator grille - removal and refitting  . . . . . . . . . . . . . . . . . . . .
 Rear seat - removal and refitting  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
 
 ### Seat beltsrenewal . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-`volkswagen_volkswagen_golf_2_en_5c510f0b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:203
 
 Seat beltsrenewal  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
 Sunroof - removal, refitting and adjustment  . . . . . . . . . . . . . . . . . . . 28
@@ -48939,7 +46385,6 @@ Windows - removal and refitting  . . . . . . . . . . . . . . . . . . . . . . . .
 11•1
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_948a68ff` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:203
 
 suitable for expert DIY
 or  professional
@@ -48961,7 +46406,6 @@ corrugated box sections in the scuttle and
 firewall.
 
 ### The Golf is available in two or four-door
-`volkswagen_volkswagen_golf_2_en_85d9e36f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:203
 
 hatchback versions, all models having a large
 tailgate which is propped open with a steel
@@ -48971,7 +46415,6 @@ notchback, incorporating a conventional boot
 and lid.
 
 ### On all models, the front wings are bolted to
-`volkswagen_volkswagen_golf_2_en_54614157` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:203
 
 the body and can easily be renewed in the
 event of damage.
@@ -48991,7 +46434,6 @@ the underbody, inside all the wheel arches and
 the lower part of the engine compartment.
 
 ### The basic maintenance routine for the
-`volkswagen_volkswagen_golf_2_en_df117892` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:203
 
 bodywork is washing - preferably with a lot of
 water, from a hose. This will remove all the
@@ -49006,7 +46448,6 @@ winter when it is essential that any salt (from
 that put down on the roads) is washed off.
 
 ### Oddly enough, the best time to clean the
-`volkswagen_volkswagen_golf_2_en_ba74ed43` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:203
 
 underbody and wheel arches is in wet
 weather when the mud is thoroughly wet and
@@ -49016,7 +46457,6 @@ accumulations; this is therefore a good time
 for inspection.
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_75615cac` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:203
 
 If the vehicle is very dirty, especially
 underneath or in the engine compartment, it is
@@ -49053,7 +46493,6 @@ such equipment is used and, in general, regular
 cleaning by such methods should be avoided.
 
 ### A much better solution in the long term is
-`volkswagen_volkswagen_golf_2_en_78beb953` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:204
 
 just to flush away as much loose dirt as
 possible using a hose alone, even if this leaves
@@ -49067,7 +46506,6 @@ replace the wax-based protective coat, if this
 was affected by the solvent.
 
 ### Normal washing of the bodywork is best
-`volkswagen_volkswagen_golf_2_en_3173009c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:204
 
 carried out using cold or warm water with a
 proprietary car shampoo. Remove dead
@@ -49081,7 +46519,6 @@ air inlet box drain tube is clear so that any
 water has drained out of the box.
 
 ### After washing the paintwork, wipe off with a
-`volkswagen_volkswagen_golf_2_en_a4459a92` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:204
 
 chamois leather to give an unspotted clear
 finish. A coat of clear protective wax polish,
@@ -49097,7 +46534,6 @@ non-abrasive cleaner/polisher is required to
 avoid damage to the finish.
 
 ### Brightwork should be treated in the same
-`volkswagen_volkswagen_golf_2_en_aadd7e7e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:204
 
 way as paintwork.
 Windscreens and windows can be kept
@@ -49108,7 +46544,6 @@ polish on glass.
 Vehicle interior
 
 ### Mats and carpets should be brushed or
-`volkswagen_volkswagen_golf_2_en_bdc3deec` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:204
 
 vacuum cleaned regularly to keep them free of
 grit. If they are badly stained remove them
@@ -49123,7 +46558,6 @@ soaps, detergents or chemical cleaners. If the
 leather is very stained, seek the advice of a
 
 ### VW dealer. Fabric-trimmed seats and interior
-`volkswagen_volkswagen_golf_2_en_614dc10c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:204
 
 trim panels can be kept clean by wiping with a
 damp cloth and a proprietary cleaner. If they
@@ -49136,7 +46570,6 @@ clean in the same way as the (fabric)
 upholstery.
 
 ### When using liquid cleaners of any sort
-`volkswagen_volkswagen_golf_2_en_ac555a41` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:204
 
 inside the vehicle, do not over-wet the
 surfaces being cleaned. Excessive damp
@@ -49150,7 +46583,6 @@ inside the vehicle for this purpose.
 3
 
 ### Minor body damage - repair 2
-`volkswagen_volkswagen_golf_2_en_7855559d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:204
 
 Repair of minor scratches in
 bodywork
@@ -49164,7 +46596,6 @@ bodywork of wax polish. Rinse the area with
 clean water.
 
 ### Apply touch-up paint or a paint film, to the
-`volkswagen_volkswagen_golf_2_en_98d4bc32` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:204
 
 scratch using a fine paint brush. Continue to
 apply fine layers of paint until the surface of
@@ -49177,7 +46608,6 @@ very fine cutting paste. Finally apply wax
 polish.
 
 ### Where the scratch has penetrated right
-`volkswagen_volkswagen_golf_2_en_62df10aa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:204
 
 through to the metal of the bodywork, causing
 the metal to rust, a different repair technique
@@ -49200,7 +46630,6 @@ scratch can now be painted over as described
 earlier in this Section.
 
 ### Repair of dents in bodywork
-`volkswagen_volkswagen_golf_2_en_3fbe82dd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:204
 
 When deep denting of the vehicle’s
 bodywork has taken place, the first task is to
@@ -49225,7 +46654,6 @@ large area of the bodywork from being
 “belled-out”.
 
 ### Should the dent be in a section of the
-`volkswagen_volkswagen_golf_2_en_9cf188d2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:204
 
 bodywork which has a double skin or some
 other factor making it inaccessible from
@@ -49234,7 +46662,6 @@ several small holes through the metal inside
 the area - particularly in the deeper section.
 
 ### Then screw long self-tapping screws into the
-`volkswagen_volkswagen_golf_2_en_af8abca8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:204
 
 holes just sufficiently for them to gain a good
 purchase in the metal. Now the dent can be
@@ -49255,7 +46682,6 @@ area. This will provide a really good key for the
 filler paste. To complete the repair see the
 
 ### Section on filling and respraying.
-`volkswagen_volkswagen_golf_2_en_cf47bb26` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:204
 
 11•2 Bodywork and fittings
 1081 VW Golf & Jetta
@@ -49278,7 +46704,6 @@ to fit a new panel than to attempt to repair
 large areas of corrosion.
 
 ### Remove all fittings from the affected area
-`volkswagen_volkswagen_golf_2_en_7b19390e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:205
 
 except those which will act as a guide to the
 original shape of the damaged bodywork (eg
@@ -49287,7 +46712,6 @@ a hacksaw blade, remove all loose metal and
 any other metal badly affected by corrosion.
 
 ### Hammer the edges of the hole inwards in
-`volkswagen_volkswagen_golf_2_en_557c517f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:205
 
 order to create a slight depression for the filler
 paste.
@@ -49298,7 +46722,6 @@ rust inhibiting paint, if the back of the rusted
 area is accessible treat this also.
 
 ### Before filling can take place it will be
-`volkswagen_volkswagen_golf_2_en_07ae87cb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:205
 
 necessary to block the hole in some way. This
 can be achieved by the use of aluminium or
@@ -49313,7 +46736,6 @@ can be retained in position by several blobs of
 filler paste around its periphery.
 
 ### Aluminium tape should be used for small or
-`volkswagen_volkswagen_golf_2_en_b401a7dc` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:205
 
 very narrow holes. Pull a piece off the roll and
 trim it to the approximate size and shape
@@ -49326,7 +46748,6 @@ similar, to ensure that the tape is securely
 attached to the metal underneath.
 
 ### Bodywork repairs - filling and
-`volkswagen_volkswagen_golf_2_en_8ec1eb5d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:205
 
 respraying
 Before using this Section, see the Sections
@@ -49343,7 +46764,6 @@ imparting a smooth and well contoured finish
 to the surface of the filler.
 
 ### Mix up a little filler on a clean piece of card
-`volkswagen_volkswagen_golf_2_en_80a888d7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:205
 
 or board - measure the hardener carefully
 (follow the maker’s instructions on the pack)
@@ -49361,7 +46781,6 @@ carry on too long the paste will become sticky
 and begin to pick-up on the applicator.
 
 ### Continue to add thin layers of filler paste at
-`volkswagen_volkswagen_golf_2_en_f0ed4da1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:205
 
 twenty minute intervals until the level of the
 filler is just proud of the surrounding
@@ -49379,7 +46798,6 @@ smoothing of the filler surface the wet-and-dry
 paper should be periodically rinsed in water.
 
 ### This will ensure that a very smooth finish is
-`volkswagen_volkswagen_golf_2_en_293b6f44` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:205
 
 imparted to the filler at the final stage.
 At this stage, the dent should be
@@ -49395,7 +46813,6 @@ rubbing-down
 operation has gone.
 
 ### Spray the whole area with a light coat of
-`volkswagen_volkswagen_golf_2_en_d7069c0c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:205
 
 primer, - this will show up any imperfections in
 the surface of the filler. Repair these
@@ -49411,7 +46828,6 @@ of the paintwork are perfect. Clean the repair
 area with clean water and allow to dry fully.
 
 ### The repair area is now ready for final
-`volkswagen_volkswagen_golf_2_en_e8a151c5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:205
 
 spraying. Paint spraying must be carried out
 in a warm, dry, windless and dust free
@@ -49432,7 +46848,6 @@ masking tape and several thicknesses of
 newspaper for the masking operations.
 
 ### Before commencing to spray, agitate the
-`volkswagen_volkswagen_golf_2_en_58e6f885` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:205
 
 aerosol can thoroughly, then spray a test area
 (an old tin, or similar) until the technique is
@@ -49447,7 +46862,6 @@ rinsed in water. Allow to dry before spraying
 on more paint.
 
 ### Spray on the top coat, again building up the
-`volkswagen_volkswagen_golf_2_en_9734e617` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:205
 
 thickness by using several thin layers of paint.
 Start spraying in the centre of the repair area
@@ -49459,7 +46873,6 @@ material 10 to 15 minutes after spraying on
 the final coat of paint.
 
 ### Allow the new paint at least two weeks to
-`volkswagen_volkswagen_golf_2_en_d916628f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:205
 
 harden, then, using a paintwork renovator, or
 a very fine cutting paste, blend the edges of
@@ -49481,7 +46894,6 @@ complete
 components. Repair of such damage by the
 
 ### DIY owner is not really feasible owing to the
-`volkswagen_volkswagen_golf_2_en_5aebcb54` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:205
 
 cost of the equipment and materials required
 for effecting such repairs. The basic technique
@@ -49492,7 +46904,6 @@ back together by using a hot air gun to heat
 up and fuse a plastic filler rod into the groove.
 
 ### Any excess plastic is then removed and the
-`volkswagen_volkswagen_golf_2_en_92e5506c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:205
 
 area rubbed down to a smooth finish. It is
 important that a filler rod of the correct plastic
@@ -49501,7 +46912,6 @@ a variety of different types (eg polycarbonate,
 ABS, polypropylene).
 
 ### Damage of a less serious nature (abrasions,
-`volkswagen_volkswagen_golf_2_en_0836c9e8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:205
 
 minor cracks etc) can be repaired by the DIY
 owner using a two-part epoxy filler repair
@@ -49514,7 +46924,6 @@ panels. The filler is usually cured in twenty to
 thirty minutes, ready for sanding and painting.
 
 ### If the owner is renewing a complete
-`volkswagen_volkswagen_golf_2_en_5f1860c4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:205
 
 component himself, or if he has repaired it
 with epoxy filler, he will be left with the
@@ -49525,7 +46934,6 @@ Bodywork and fittings  11•3
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_8fbb8eb6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:205
 
 used. At one time the use of a universal paint
 was not possible owing to the complex range
@@ -49551,7 +46959,6 @@ paint does not normally possess.
 4
 
 ### Major body damage - repair 5
-`volkswagen_volkswagen_golf_2_en_38b8e04f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:206
 
 Where serious damage has occurred, or
 large areas need renewal due to neglect, it
@@ -49571,7 +46978,6 @@ as the tyres.
 5
 
 ### Door rattles - tracing and
-`volkswagen_volkswagen_golf_2_en_c4e0b1da` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:206
 
 rectification
 1
@@ -49590,7 +46996,6 @@ operating or interior lock mechanisms.
 6
 
 ### Bonnet - removal, refitting
-`volkswagen_volkswagen_golf_2_en_e6314268` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:206
 
 and adjustment
 2
@@ -49621,7 +47026,6 @@ satisfactory manner.
 7
 
 ### Bonnet lock and release
-`volkswagen_volkswagen_golf_2_en_c784d5d9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:206
 
 cable - removal and refitting 2
 Bonnet lock
@@ -49636,7 +47040,6 @@ procedure. Ensure that the new pop-rivets
 secure the lock firmly.
 
 ### Release cable
-`volkswagen_volkswagen_golf_2_en_cde473cf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:206
 
 3 To remove the bonnet lock release cable,
 raise and support the bonnet then remove the
@@ -49667,7 +47070,6 @@ attachment
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4e7e4953` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:206
 
 hand. A largish screwdriver will just reach the
 lock release when inserted through the grille
@@ -49677,7 +47079,6 @@ bonnet can be unlocked.
 8
 
 ### Radiator grille - removal and
-`volkswagen_volkswagen_golf_2_en_54da44c8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:207
 
 refitting
 1
@@ -49692,7 +47093,6 @@ upwards from the front valance.
 9
 
 ### Tailgate support strut -
-`volkswagen_volkswagen_golf_2_en_bac3bb2e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:207
 
 removal and refitting
 1
@@ -49710,7 +47110,6 @@ refitting
 2
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_9c257632` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:207
 
 1 Open and support the tailgate. Disconnect
 the straps supporting the rear shelf.
@@ -49719,7 +47118,6 @@ screwdriver and disconnect the wiring from
 the heated rear window and wiper motor.
 
 ### Disconnect the washer tube and pull the
-`volkswagen_volkswagen_golf_2_en_9c516287` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:207
 
 wiring and tube from the tailgate.
 3 Pull the weatherseal from the body aperture
@@ -49733,7 +47131,6 @@ from the tailgate.
 tailgate from the vehicle.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_2e53d693` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:207
 
 7 Refitting is a reversal of removal. Before
 tightening the hinge bolts, ensure that the
@@ -49754,7 +47151,6 @@ cylinder, undo the cross-head screws on the
 outside. Move to the inside and compress the
 
 ### Bodywork and fittings 11•5
-`volkswagen_volkswagen_golf_2_en_2aa078ab` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:207
 
 11
 8.2  Undoing front grille retaining screws
@@ -49794,7 +47190,6 @@ refitting
 1
 
 ### The boot lid lock and lock cylinder are of
-`volkswagen_volkswagen_golf_2_en_0449f124` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:208
 
 similar design to the equivalent items on the
 tailgate fitted to Golf models (see illustration).
@@ -49806,7 +47201,6 @@ details.
 clip (A) and securing ring (B)
 
 ### Compress lugs (arrowed) in direction
-`volkswagen_volkswagen_golf_2_en_6f1f2a13` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:208
 
 indicated
 13.1  Boot lid lock components (Jetta)
@@ -49818,7 +47212,6 @@ and refitting
 2
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_e9db2c21` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:209
 
 1 Unscrew and remove the door locking knob
 (see illustration).
@@ -49852,7 +47245,6 @@ access to the inner door components (see
 illustration).
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_5c1d26cf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:209
 
 11 Refitting is a reversal of removal. It is
 recommended that the window regulator
@@ -49878,7 +47270,6 @@ screws
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_621b2b31` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:209
 
 11•8 Bodywork and fittings
 1081 VW Golf & Jetta
@@ -49900,7 +47291,6 @@ Seal
 6
 
 ### Internal remote control
-`volkswagen_volkswagen_golf_2_en_0fb7caf4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:210
 
 7
 Pull rod
@@ -49923,7 +47313,6 @@ illustration).
 4 Refitting is a reversal of removal.
 
 ### Exterior
-`volkswagen_volkswagen_golf_2_en_56f8d942` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:211
 
 5 Remove the door trim panel.
 6 Using a small screwdriver, lever the plastic
@@ -49937,7 +47326,6 @@ gaskets if necessary.
 16 Door - removal and refitting 2
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_7e327fa5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:211
 
 1 Open the door and use a punch to drive the
 pivot pin up from the check strap (see
@@ -49949,7 +47337,6 @@ hinge bolt. Withdraw the door from the
 vehicle.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_de463a3d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:211
 
 4 Refitting is a reversal of removal.
 5 If necessary, adjust the position of the door
@@ -49986,7 +47373,6 @@ refitting
 2
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_61343218` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:211
 
 1 It is not necessary to remove the trim panel
 to carry out this task.
@@ -50006,7 +47392,6 @@ operating lever and pull the upper lever from
 the sleeve. Withdraw the lock from the door.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_1b7c75b7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:211
 
 6 Refitting is a reversal of removal. Set the
 lock in the locked position first and ensure
@@ -50025,7 +47410,6 @@ lock hole (E) to retain operating lever (A) in
 extended position
 
 ### Remove handle in direction of arrow
-`volkswagen_volkswagen_golf_2_en_f14e7c57` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:211
 
 1081 VW Golf & Jetta
 Downloaded from www.Manualslib.com manuals search engine
@@ -50059,7 +47443,6 @@ screws and disconnect the tubing. On the
 driver’s door only, disconnect the wiring.
 
 ### Disconnect the operating rod (except on the
-`volkswagen_volkswagen_golf_2_en_4acccff3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:212
 
 fuel tank flap) and withdraw the element.
 4 Refitting is a reversal of removal. Ensure
@@ -50070,7 +47453,6 @@ and refitting
 3
 
 ### Manual
-`volkswagen_volkswagen_golf_2_en_d9f5d566` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:212
 
 1 Remove the door trim panel.
 2 Temporarily refit the window regulator
@@ -50094,7 +47476,6 @@ position of the regulator so that the window
 moves smoothly.
 
 ### Electric
-`volkswagen_volkswagen_golf_2_en_c4f8f00d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:212
 
 6 Disconnect the battery earth lead.
 7 Remove the door trim panel.
@@ -50111,7 +47492,6 @@ aperture at the bottom end of the door.
 12 Refit in the reverse order of removal.
 
 ### Ensure that the upper cable is located
-`volkswagen_volkswagen_golf_2_en_d26bf631` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:212
 
 underneath the guide rail securing bracket
 and, when refitting the door trim panel, the
@@ -50124,7 +47504,6 @@ bolts
 1
 
 ### Wiring connector
-`volkswagen_volkswagen_golf_2_en_2e06fa45` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:212
 
 2
 Motor securing
@@ -50144,7 +47523,6 @@ RHD)
 3
 
 ### Connector
-`volkswagen_volkswagen_golf_2_en_cde0e200` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:212
 
 4
 Rear door shift element
@@ -50165,7 +47543,6 @@ Connector
 (or shift element on RHD)
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_280848fb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:212
 
 21 Windows - removal and
 refitting
@@ -50186,7 +47563,6 @@ channel is located in the same position as in
 the old glass.
 
 ### Windscreen and fixed glass
-`volkswagen_volkswagen_golf_2_en_4e03a3f7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:213
 
 7 Removal and refitting of the windscreen
 and fixed glass windows is best left to a VW
@@ -50198,7 +47574,6 @@ refitting
 2
 
 ### Warning: Under no circum-
-`volkswagen_volkswagen_golf_2_en_d1aaf671` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:213
 
 stances should the vehicle be
 driven with the front bumper
@@ -50228,7 +47603,6 @@ the indicators operate in a satisfactory
 manner on completion.
 
 ### Rear
-`volkswagen_volkswagen_golf_2_en_c24de933` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:213
 
 6 Raise and support the vehicle securely at
 the rear.
@@ -50262,7 +47636,6 @@ and refitting
 2
 
 ### Pre 1988
-`volkswagen_volkswagen_golf_2_en_6fbbb12b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:213
 
 Non remote control
 1 Prise the plastic cover from inside the door.
@@ -50284,7 +47657,6 @@ adjusting knob and gasket.
 necessary, fit a new gasket.
 
 ### Bodywork and fittings 11•11
-`volkswagen_volkswagen_golf_2_en_e909cc1c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:213
 
 11
 22.4  Front bumper bracket securing points to longitudinal
@@ -50334,7 +47706,6 @@ screws (arrowed)
 1
 
 ### Body
-`volkswagen_volkswagen_golf_2_en_b2468d33` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:214
 
 2
 Trim
@@ -50386,7 +47757,6 @@ removal and refitting
 3
 
 ### Tailgate spoiler and foils - GTi
-`volkswagen_volkswagen_golf_2_en_90192fc0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:215
 
 1 The spoiler is secured by a nut, grommet
 and spacer sleeve. Access to the retaining
@@ -50404,7 +47774,6 @@ which the foil is to be fitted is thoroughly
 cleaned and prepared.
 
 ### Rear spoiler - Jetta GT
-`volkswagen_volkswagen_golf_2_en_87608822` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:215
 
 4 Open the boot lid and unscrew the nuts
 which secure the spoiler retaining clips.
@@ -50419,7 +47788,6 @@ prepared. Start riveting at the centre and work
 alternately down from it (side to side).
 
 ### Protective rubbing strips
-`volkswagen_volkswagen_golf_2_en_c3ee60da` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:215
 
 Adhered type
 8 To remove a rubbing strip, you will need to
@@ -50431,7 +47799,6 @@ Bodywork and fittings  11•13
 1
 
 ### Protective cap
-`volkswagen_volkswagen_golf_2_en_59a951f9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:215
 
 2
 Nut
@@ -50454,7 +47821,6 @@ locate it into position by pressing firmly home,
 particularly at each end.
 
 ### Clipped type
-`volkswagen_volkswagen_golf_2_en_8bacea40` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:216
 
 11 The side rubbing strips may be removed
 using a lever to prise them from their fixing
@@ -50469,7 +47835,6 @@ and adjustment
 2
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_b450af18` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:216
 
 1 Half open the sunroof then prise off the five
 steel trim clips.
@@ -50488,7 +47853,6 @@ support plates.
 1
 
 ### Rubbing strip
-`volkswagen_volkswagen_golf_2_en_edfc0670` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:216
 
 2
 Retainer
@@ -50506,7 +47870,6 @@ Deflector arm
 4
 
 ### Wind deflector
-`volkswagen_volkswagen_golf_2_en_dfb817f5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:216
 
 5
 Rear guide with
@@ -50534,7 +47897,6 @@ hose
 18 Panel seat
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_edbf34d3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:216
 
 Refitting
 7 To refit the sunroof, locate it in the aperture
@@ -50556,7 +47918,6 @@ springs, loosen the slotted screws and move
 the sunroof as necessary in the serrations.
 
 ### Tighten the screws and refit the leaf springs
-`volkswagen_volkswagen_golf_2_en_ed7a3bc4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:217
 
 after making the adjustment.
 12 Refit the trim with the clips.
@@ -50570,7 +47931,6 @@ then unclip and withdraw the gaiter.
 console from its guides at the rear.
 
 ### Disconnect
-`volkswagen_volkswagen_golf_2_en_786f0739` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:217
 
 any
 console
@@ -50585,7 +47945,6 @@ refitting
 3
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_2279e71c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:217
 
 1 Remove the steering wheel.
 2 On certain models, a protective knee-bar is
@@ -50601,7 +47960,6 @@ the undertray on the driver and passenger
 sides (see illustrations).
 
 ### Bodywork and fittings 11•15
-`volkswagen_volkswagen_golf_2_en_85f39feb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:217
 
 11
 28.9  Sunroof adjustment dimensions
@@ -50617,7 +47975,6 @@ screw locations – driver’s side
 30.2  Knee-bar attachments
 
 ### A Knee-bar
-`volkswagen_volkswagen_golf_2_en_3b4cd8ef` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:217
 
 B   Retaining bracket
 1   Screw
@@ -50637,7 +47994,6 @@ the air vent housing and lever out the housing.
 from the points indicated (see illustration).
 
 ### To remove the nuts/bolts at the front, access
-`volkswagen_volkswagen_golf_2_en_f7814f37` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:218
 
 is from the plenum chamber in the engine
 compartment.
@@ -50648,7 +48004,6 @@ Refitting
 10 Refit in the reverse order of removal.
 
 ### When fitting the securing nuts in the plenum
-`volkswagen_volkswagen_golf_2_en_3ea8ed84` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:218
 
 chamber use the correct type of sealing
 washers.
@@ -50692,7 +48047,6 @@ from 1986
 pre 1986
 
 ### Unclip cover and remove in direction arrowed
-`volkswagen_volkswagen_golf_2_en_33dfba75` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:218
 
 31.3  Front seat securing rod and
 associated components - pre 1986
@@ -50704,7 +48058,6 @@ Ensure correct location of sealing washer
 (A) when refitting
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_514006a9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:218
 
 8 Remove the cross-head screw (3) and pull
 the cap (4) from the seat guide (see
@@ -50741,7 +48094,6 @@ adjustment of the B pillar attachment point
 (see illustration).
 
 ### Bodywork and fittings 11•17
-`volkswagen_volkswagen_golf_2_en_d6a415b7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:219
 
 11
 31.8  Front seat guide fixing – from 1986
@@ -50753,7 +48105,6 @@ removal (arrowed)
 locations in luggage compartment – A and
 
 ### B (Jetta and Golf convertible)
-`volkswagen_volkswagen_golf_2_en_cba536b7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:219
 
 33.1d  Front seat belt anchorage to B pillar
 (upper)
@@ -50769,7 +48120,6 @@ hooked onto link pin
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_52b4a746` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:219
 
 3 These adjustable seat belts can be fitted to
 any model having a chassis number later than
@@ -50782,7 +48132,6 @@ renewal
 2
 
 ### This filter is fitted (or can be fitted) to all
-`volkswagen_volkswagen_golf_2_en_b6faa59f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:220
 
 models covered by this Manual.
 The filter is located in the air inlet within the
@@ -50796,7 +48145,6 @@ anti-leaf mesh and the water deflector.
 1
 
 ### Filter
-`volkswagen_volkswagen_golf_2_en_8114a0d2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:220
 
 2
 Filter housing
@@ -50818,7 +48166,6 @@ Downloaded from www.Manualslib.com manuals search engine
 10
 
 ### Chapter 10
-`volkswagen_volkswagen_golf_2_en_65de7795` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:221
 
 Suspension and steering
 Front suspension
@@ -50827,14 +48174,12 @@ Independent with spring struts, lower track control arms and anti-roll
 bar (some models). Telescopic shock absorbers incorporated in struts
 
 ### Rear suspension
-`volkswagen_volkswagen_golf_2_en_d9e40a86` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:221
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Semi-independent. Incorporating torsion axle beam, trailing arms and
 spring struts/shock absorbers. Anti-roll bar on some models
 
 ### Steering
-`volkswagen_volkswagen_golf_2_en_be68525f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:221
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Rack and pinion with safety column. Power steering optional on Golf
@@ -50844,7 +48189,6 @@ Turning circle  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Steering roll radius  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Negative 8.2 mm
-`volkswagen_volkswagen_golf_2_en_ee5399d2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:221
 
 Steering wheel turns lock to lock:
 Standard  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -50853,7 +48197,6 @@ Power-assisted  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 3.17
 
 ### Steering ratio:
-`volkswagen_volkswagen_golf_2_en_6e74eef0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:221
 
 Standard  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 20.8
@@ -50861,7 +48204,6 @@ Power-assisted  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 17.5
 
 ### Front wheel alignment
-`volkswagen_volkswagen_golf_2_en_01968b5a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:221
 
 Total toe  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 0° ± 10’
@@ -50874,7 +48216,6 @@ Maximum difference - side-to-side  . . . . . . . . . . . . . . . . . . . . . . .
 30’
 
 ### Castor:
-`volkswagen_volkswagen_golf_2_en_a74331d5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:221
 
 Golf GTI and Jetta GT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1°35’ ± 30’
@@ -50885,7 +48226,6 @@ Maximum difference - side to side  . . . . . . . . . . . . . . . . . . . . . . .
 Note: Camber and castor settings may differ on some variants - check with VW dealer
 
 ### Rear wheel alignment
-`volkswagen_volkswagen_golf_2_en_08934d62` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:221
 
 Total toe  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 25’ ± 15’
@@ -50927,7 +48267,6 @@ Wheel alignment - checking and adjustment  . . . . . . . . . . . . . . . . . . 2
 10•1
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_f2ff68ca` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:221
 
 suitable for expert DIY
 or  professional
@@ -50949,7 +48288,6 @@ Jetta  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 51⁄2J x 13
 
 ### Tyres
-`volkswagen_volkswagen_golf_2_en_fedafdf5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:222
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Radial ply
@@ -50957,14 +48295,12 @@ Size:
 Golf base, C, GL and C Formel E  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 155 SR 13
-`volkswagen_volkswagen_golf_2_en_ada369cf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:222
 
 Golf GL  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 175/70 SR 13
 Golf GTI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 185/60 HR 14
-`volkswagen_volkswagen_golf_2_en_4ae0ebc4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:222
 
 Jetta  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 175/70 SR 13
@@ -50977,7 +48313,6 @@ Strut to body . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 44
 
 ### Strut to wheel bearing housing:
-`volkswagen_volkswagen_golf_2_en_3cfeb6d3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:222
 
 19 mm nut . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 80
@@ -50987,7 +48322,6 @@ Strut to body . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 70
 
 ### Lower track control arm:
-`volkswagen_volkswagen_golf_2_en_01fedbe1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:222
 
 Pivot bolt to subframe  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 130
@@ -51012,7 +48346,6 @@ Hub nut . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 195
 
 ### Rear suspension
-`volkswagen_volkswagen_golf_2_en_c2cab348` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:222
 
 Mounting bracket shouldered bolt:
 Pre 1988  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -51041,7 +48374,6 @@ Shock absorber spacer retaining nut  . . . . . . . . . . . . . . . . . . . . . .
 11
 
 ### Steering
-`volkswagen_volkswagen_golf_2_en_7cb39f1c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:222
 
 Steering wheel  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
 40
@@ -51085,7 +48417,6 @@ Roadwheels  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 1
 
 ### General information
-`volkswagen_volkswagen_golf_2_en_d0ffce2e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:222
 
 The front suspension is of independent
 type, incorporating coil struts and lower track
@@ -51094,7 +48425,6 @@ with telescopic shock absorbers and both
 suspension units are mounted on a subframe.
 
 ### An anti-roll bar is fitted to the track control
-`volkswagen_volkswagen_golf_2_en_4f67523b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:222
 
 arm on some models (see illustration).
 The
@@ -51110,7 +48440,6 @@ incorporate mountings for the coil springs
 (see illustration).
 
 ### The steering is of rack and pinion type
-`volkswagen_volkswagen_golf_2_en_53c636b3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:222
 
 mounted on the front subframe. The tie-rods
 are attached to a single coupling which is
@@ -51120,7 +48449,6 @@ assistance is fitted to some models.
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_b22c86e6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:222
 
 Suspension and steering  10•3
 10
@@ -51133,7 +48461,6 @@ Front suspension strut -
 removal, overhaul and refitting 3
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_cd9054ca` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:224
 
 1 Apply the handbrake then jack up and
 support the front of the vehicle on axle stands
@@ -51160,7 +48487,6 @@ bolts securing the strut at its bottom end to
 the wheel bearing housing (see illustration).
 
 ### Renew the self-locking nuts and washers.
-`volkswagen_volkswagen_golf_2_en_8967cb0c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:224
 
 8 Lower the track control arm to disengage
 the strut from its top mounting, then prise it
@@ -51179,7 +48505,6 @@ spring retainer is free of tension, then remove
 the slotted nut from the top of the piston rod.
 
 ### To do this, a special tool is available (see
-`volkswagen_volkswagen_golf_2_en_713aeb8f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:224
 
 illustration). However, it is possible to hold
 the piston rod stationary with an Allen key or
@@ -51198,7 +48523,6 @@ and down through its complete stroke and
 check that the resistance is even and smooth.
 
 ### If there are signs of seizing or lack of
-`volkswagen_volkswagen_golf_2_en_5d77b7c2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:224
 
 resistance, or if fluid has been leaking
 excessively, the shock absorber/strut unit
@@ -51216,7 +48540,6 @@ code.
 17 Reassembly is a reversal of removal.
 
 ### Tighten the slotted nut to the specified torque
-`volkswagen_volkswagen_golf_2_en_840d4b42` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:224
 
 before releasing the spring compressor.
 Refitting
@@ -51234,7 +48557,6 @@ retaining nuts/bolts
 nut from front suspension
 
 ### Peg spanner and Allen key or suitable
-`volkswagen_volkswagen_golf_2_en_4002ce0b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:224
 
 spanner will suffice
 1081 VW Golf & Jetta
@@ -51255,7 +48577,6 @@ it, otherwise the camber adjustment will have
 to be reset.
 
 ### Later models
-`volkswagen_volkswagen_golf_2_en_26ccd003` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:225
 
 2 On later models no adjustment is possible
 as assembly tolerances have been reduced
@@ -51282,7 +48603,6 @@ diameter of the original bolts.
 4
 
 ### Front anti-roll bar - removal
-`volkswagen_volkswagen_golf_2_en_ccebad3f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:225
 
 and refitting
 3
@@ -51304,7 +48624,6 @@ other side.
 them from the anti-roll bar (see illustration).
 
 ### Note the location and orientation of the eye
-`volkswagen_volkswagen_golf_2_en_9a2758da` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:225
 
 bolt bushes and washers. Remove the
 anti-roll bar.
@@ -51323,7 +48642,6 @@ mountings.
 5
 
 ### Front wheel bearing housing
-`volkswagen_volkswagen_golf_2_en_117872e1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:225
 
 - removal and refitting
 3
@@ -51345,7 +48663,6 @@ bearing housing location lugs, to ensure
 accurate positioning when refitting.
 
 ### Suspension and steering 10•5
-`volkswagen_volkswagen_golf_2_en_b4bafa05` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:225
 
 10
 3.2  Front suspension camber adjustment
@@ -51358,7 +48675,6 @@ B Special 11.0 mm diameter bolt
 5.2  Wheel bearing housing and associated components
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_5bd09696` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:225
 
 6 Undo the two suspension arm-to-wheel
 bearing retaining bolt nuts and remove them,
@@ -51371,7 +48687,6 @@ renewed, remove the wheel bearing then fit
 the bearing and hub to the new housing.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_13915639` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:226
 
 8 Refitting is a reversal of the removal
 procedure. Renew all self-locking nuts.
@@ -51400,7 +48715,6 @@ specified torque wrench setting.
 6
 
 ### Front wheel bearing -
-`volkswagen_volkswagen_golf_2_en_57f250c6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:226
 
 renewal
 3
@@ -51422,7 +48736,6 @@ wheel bearing housing, press or drive out the
 bearing by using a mandrel on the outer race.
 
 ### Fitting
-`volkswagen_volkswagen_golf_2_en_04fb94c1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:226
 
 6 Clean the recess in the housing, then smear
 it with a little general purpose grease. Where a
@@ -51454,7 +48767,6 @@ lateral play.
 7
 
 ### Track control arm - removal,
-`volkswagen_volkswagen_golf_2_en_9bd0ab89` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:226
 
 overhaul and refitting
 4
@@ -51482,7 +48794,6 @@ the front and withdraw it from the subframe at
 the rear mounting, levering if necessary.
 
 ### Overhaul
-`volkswagen_volkswagen_golf_2_en_ec9131b4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:226
 
 7 With the track control arm removed, clean it
 for inspection.
@@ -51521,7 +48832,6 @@ whilst ensuring that it is positioned correctly
 (see illustration).
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_7d6b8f06` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:226
 
 13 Refitting the track control arm is a reverse
 of removal.
@@ -51533,7 +48843,6 @@ bolt
 bush in control arm
 
 ### Opening A to be located on inboard side of
-`volkswagen_volkswagen_golf_2_en_c3e5f04c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:226
 
 vehicle
 1081 VW Golf & Jetta
@@ -51546,7 +48855,6 @@ dealer.
 8
 
 ### Rear suspension strut and
-`volkswagen_volkswagen_golf_2_en_1af99fed` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:227
 
 coil spring - removal and
 refitting
@@ -51560,7 +48868,6 @@ up the rear of the vehicle and support on axle
 stands (see “Jacking and vehicle support”).
 
 ### Remove the rear roadwheel(s).
-`volkswagen_volkswagen_golf_2_en_a3ae5249` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:227
 
 3 Support the weight of the trailing arm with a
 trolley jack.
@@ -51607,7 +48914,6 @@ are
 colour-coded for identification.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_9f65a0a7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:227
 
 12 Refitting is a reversal of removal. Ensure
 that the coil spring is correctly located in the
@@ -51621,7 +48927,6 @@ distance of 1000 miles (1500 km) has been
 covered and the springs have settled.
 
 ### Suspension and steering 10•7
-`volkswagen_volkswagen_golf_2_en_5bd58da1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:227
 
 10
 8.4  Removing rear suspension strut top
@@ -51634,7 +48939,6 @@ spring downwards
 8.8  Rear suspension strut and coil spring components
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_736185b2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:227
 
 9
 Rear axle beam - removal
@@ -51650,7 +48954,6 @@ a modified shoulder. Their tightening torque is
 reduced to that specified.
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_bdfce915` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:228
 
 1 Remove the rear stub axles.
 2 Support the weight of the trailing arms with
@@ -51700,7 +49003,6 @@ inclination angle to the axle beam should be
 12° ± 2°.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_1bb4d3e9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:228
 
 11 Refitting is a reversal of removal whilst
 noting the following.
@@ -51731,7 +49033,6 @@ in the rear brake disc.
 and adjust the bearing as described in
 
 ### Chapter 9.
-`volkswagen_volkswagen_golf_2_en_86dba1d5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:228
 
 11 Steering wheel - removal and
 refitting
@@ -51763,7 +49064,6 @@ position
 orientation
 
 ### Protruding segments to face forwards
-`volkswagen_volkswagen_golf_2_en_1a8c280e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:228
 
 9.12  Rear axle refitting
 Check that clearance (arrowed) is minimal on
@@ -51774,7 +49074,6 @@ cover – 1.3 litre
 Downloaded from www.Manualslib.com manuals search engine
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_2850aed6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:229
 
 5 Refitting is a reversal of removal. Ensure
 that the turn signal lever is in its neutral
@@ -51790,7 +49089,6 @@ overhaul and refitting
 3
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_1a8994d2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:229
 
 1 Disconnect the battery negative lead.
 2 Remove the steering wheel.
@@ -51816,7 +49114,6 @@ universal
 joint-to-column clamp bolt (see illustration).
 
 ### Undo the lower mounting-to-column trans-
-`volkswagen_volkswagen_golf_2_en_c248364d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:229
 
 verse bolt then withdraw the column from the
 universal joint and collect the coil spring,
@@ -51829,7 +49126,6 @@ insulation caps and withdraw the lower
 section upwards through the housing tube.
 
 ### Suspension and steering 10•9
-`volkswagen_volkswagen_golf_2_en_7cf53abf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:229
 
 10
 11.3b  Removing steering wheel centre
@@ -51846,7 +49142,6 @@ Steering column mounting bolt also shown (B)
 2-section type, pre July 1984
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4a48c2e2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:229
 
 Overhaul
 9 Check
@@ -51881,7 +49176,6 @@ columns and remove the support ring.
 for wear. Renew them as necessary.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_1c48d743` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:230
 
 15 Reassembly is a reversal of dismantling.
 Lubricate bearing surfaces with multi-purpose
@@ -51912,7 +49206,6 @@ pliers as the washer is driven into position.
 when connecting it to the universal joint.
 
 ### Tighten the retaining nuts and bolts to the
-`volkswagen_volkswagen_golf_2_en_38cccc2e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:230
 
 specified torque setting. Tighten each shear
 bolt until its head breaks off.
@@ -51924,7 +49217,6 @@ refitting
 2
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_8496babd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:230
 
 1 Disconnect the battery negative lead.
 2 Remove the steering wheel.
@@ -51950,7 +49242,6 @@ illustration). Depress the spring pin and
 extract the cylinder.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_8504f27b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:230
 
 10 Refitting is a reversal of removal. Renew
 the inner column lockwasher and press it fully
@@ -51979,7 +49270,6 @@ b = 10.0 mm
 12.16  Steering column - from July 1984
 
 ### Reassembly alignment hole arrowed
-`volkswagen_volkswagen_golf_2_en_6b577f7b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:230
 
 Downloaded from www.Manualslib.com manuals search engine
 4 Release the retaining clips and withdraw
@@ -52000,7 +49290,6 @@ removal and refitting
 3
 
 ### Manual steering
-`volkswagen_volkswagen_golf_2_en_fb70e69e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:231
 
 Removal
 1 If the steering tie-rod and balljoints are
@@ -52013,7 +49302,6 @@ can be renewed separately, however the
 left-hand tie-rod must be renewed complete.
 
 ### On LHD models, the tie-rods are vice versa.
-`volkswagen_volkswagen_golf_2_en_ebce5ddb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:231
 
 2 Jack up the front of the vehicle and support
 on axle stands (see “Jacking and vehicle
@@ -52041,7 +49329,6 @@ from the inboard end of the tie-rod. Renew
 the bellows if they are damaged or perished.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_7109dc93` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:231
 
 7 Refitting is a reversal of the removal
 procedure but note the following.
@@ -52069,7 +49356,6 @@ original length measured on dismantling, This
 will provide an approximate initial setting only,
 
 ### On completion, it will be necessary to check
-`volkswagen_volkswagen_golf_2_en_8ea8af05` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:231
 
 the toe-in setting. If further minor adjustment is
 required, adjust the right-hand tie-rod to
@@ -52086,7 +49372,6 @@ locknut. Refit the steering gear bellows and
 ensure that they are not distorted.
 
 ### Suspension and steering 10•11
-`volkswagen_volkswagen_golf_2_en_74d13ce1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:231
 
 10
 14.4  Steering tie-rod bellows and retaining
@@ -52098,7 +49383,6 @@ left-hand balljoint
 15.10a  Tie-rod-to-rack dimensions (b)
 
 ### All models: b = 70.5 mm
-`volkswagen_volkswagen_golf_2_en_2e77a807` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:231
 
 15.10b  Steering rack centralised when dimension (a)
 is equal on each side
@@ -52116,7 +49400,6 @@ old balljoints/tie-rod.
 alignment.
 
 ### Power steering
-`volkswagen_volkswagen_golf_2_en_a9d2120b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:232
 
 Removal
 15 Remove the steering gear unit together
@@ -52136,7 +49419,6 @@ removed in a similar manner to that described
 for the manual steering gear unit.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_dc35a803` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:232
 
 19 Refit the steering tie-rods to the rack and
 adjust the fitted lengths, as given. Tighten the
@@ -52148,7 +49430,6 @@ alignment.
 16 Steering gear - adjustment 3
 
 ### Manual
-`volkswagen_volkswagen_golf_2_en_90a9f0d3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:232
 
 1 If there is any undue slackness in the
 steering gear which results in noise or rattles,
@@ -52176,7 +49457,6 @@ beyond an acceptable level and it must be
 removed and overhauled.
 
 ### Power-assisted
-`volkswagen_volkswagen_golf_2_en_c6d50820` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:232
 
 7 Remove the steering gear unit.
 8 Loosen the adjuster screw locknut then turn
@@ -52189,7 +49469,6 @@ sticking
 illustration).
 
 ### Retighten the locknut.
-`volkswagen_volkswagen_golf_2_en_38fb65a3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:232
 
 9 Refit the steering gear to the vehicle.
 17 Steering gear unit - removal
@@ -52210,7 +49489,6 @@ the hole in the intermediate shaft (see
 illustration).
 
 ### Removal
-`volkswagen_volkswagen_golf_2_en_74338c8f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:232
 
 1 Apply the handbrake, jack up the front of
 the vehicle and support it on axle stands (see
@@ -52252,7 +49530,6 @@ modification
 a
 
 ### Dimension reduced from 12.1 mm to
-`volkswagen_volkswagen_golf_2_en_778d7dd0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:232
 
 11.0 mm
 A Notch depth increased
@@ -52268,7 +49545,6 @@ Suspension and steering  10•13
 17.7  Manual steering gear components
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_7ebb941f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:233
 
 the steering column a sufficient amount to
 enable the pinion shaft to disengage from the
@@ -52293,7 +49569,6 @@ gear is removed to prevent the ingress of dirt.
 gear.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_be7d31ba` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:234
 
 14 Refitting is a reversal of the removal
 procedure. All self-locking nuts must be
@@ -52311,7 +49586,6 @@ rack and steering column before assembly.
 weight of the vehicle is on its suspension.
 
 ### Check and if necessary, adjust front wheel
-`volkswagen_volkswagen_golf_2_en_2686239a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:234
 
 alignment.
 18 On power steering models, unplug the
@@ -52325,7 +49599,6 @@ draining and refilling
 2
 
 ### Draining
-`volkswagen_volkswagen_golf_2_en_20395b8f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:234
 
 1 To drain fluid from the system, detach the
 fluid suction hose at the pump unit and drain
@@ -52334,7 +49607,6 @@ draining, turn the steering wheel from lock to
 lock to expel as much fluid as possible.
 
 ### Refilling
-`volkswagen_volkswagen_golf_2_en_69bdcee3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:234
 
 2 After draining off the fluid, reconnect the
 suction hose to the pump unit then fill the
@@ -52348,7 +49620,6 @@ system quickly.
 fluid so that the reservoir is never sucked dry.
 
 ### When the fluid ceases to drop as a result of
-`volkswagen_volkswagen_golf_2_en_66db3ffd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:234
 
 the start/stop sequence, start the engine and
 allow it to run at idling speed.
@@ -52378,7 +49649,6 @@ and if defective, must be renewed as a unit.
 19.3  Power steering pump and associated components
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4bfb1faa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:234
 
 Removal
 2 To remove the pump unit, first drain the
@@ -52392,7 +49662,6 @@ disconnected from the pulley.
 bolts and withdraw the pump unit.
 
 ### Refitting
-`volkswagen_volkswagen_golf_2_en_2464e487` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:235
 
 6 Refitting is a reversal of removal. Tension
 the drivebelt, top-up with new fluid and bleed
@@ -52427,7 +49696,6 @@ locknut on the right-hand side and turn the
 tie-rod as required, then retighten the locknut.
 
 ### Note that the left-hand tie-rod is set at the
-`volkswagen_volkswagen_golf_2_en_ebd6ad65` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:235
 
 specified length - see illustration 15.11. Its
 setting should not be changed.
@@ -52438,7 +49706,6 @@ entrusted to your VW dealer.
 the camber angle, is best checked by your
 
 ### VW dealer.
-`volkswagen_volkswagen_golf_2_en_face03c5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:235
 
 Suspension and steering  10•15
 10
@@ -52452,7 +49719,6 @@ Downloaded from www.Manualslib.com manuals search engine
 12
 
 ### Chapter 12
-`volkswagen_volkswagen_golf_2_en_71d4b720` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:237
 
 Body electrical systems
 System
@@ -52463,7 +49729,6 @@ Fuse
 Component
 
 ### Rating (amps)
-`volkswagen_volkswagen_golf_2_en_f7683247` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:237
 
 1
 Radiator fan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -52502,7 +49767,6 @@ Windscreen wipers and washer, headlight washer . . . . . . . . . . .
 12
 
 ### Rear wiper and washer, seat heater control, electric
-`volkswagen_volkswagen_golf_2_en_3454fa59` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:237
 
 mirror control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 15
@@ -52515,7 +49779,6 @@ Blower, glovebox light . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 15
 
 ### Reversing lights, shift pattern illumination (automatic
-`volkswagen_volkswagen_golf_2_en_eae9c2b4` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:237
 
 transmission)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 10
@@ -52578,7 +49841,6 @@ Radio/cassette player - removal and refitting  . . . . . . . . . . . . . . . . .
 Rear window wiper motor - removal and refitting  . . . . . . . . . . . . . . . 28
 
 ### Speedometer cable - removal and refitting . . . . . . . . . . . . . . . . . .
-`volkswagen_volkswagen_golf_2_en_a76b4180` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:237
 
 Speedometer cable - removal and refitting . . . . . . . . . . . . . . . . . . . . 22
 Warning lamp cluster - removal and refitting  . . . . . . . . . . . . . . . . . . 10
@@ -52591,7 +49853,6 @@ Wiring diagrams - general information  . . . . . . . . . . . . . . . . . . . . .
 12•1
 
 ### Very difficult,
-`volkswagen_volkswagen_golf_2_en_06191d0d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:237
 
 suitable for expert DIY
 or  professional
@@ -52617,7 +49878,6 @@ electrical
 accessories, components and wiring.
 
 ### Further details of the various systems are
-`volkswagen_volkswagen_golf_2_en_09eaf425` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:238
 
 given in the relevant Sections of this Chapter.
 While some repair procedures are given, the
@@ -52628,7 +49888,6 @@ renewal should obtain a copy of the
 “Automobile Electrical & Electronic Systems
 
 ### Manual” which is available from the publishers
-`volkswagen_volkswagen_golf_2_en_8781db2a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:238
 
 of this Manual.
 Precautions
@@ -52640,7 +49899,6 @@ personal injury. In addition to the precautions
 given in Safety first! at the beginning of this
 
 ### Manual, observe the following when working
-`volkswagen_volkswagen_golf_2_en_4a124d77` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:238
 
 on the system:
 a) Always remove rings, watches, etc.
@@ -52661,7 +49919,6 @@ a mains charger.
 e) Do not reverse the battery connections.
 
 ### Components such as the alternator or any
-`volkswagen_volkswagen_golf_2_en_c34b2666` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:238
 
 other having semi-conductor circuitry
 could be irreparably damaged.
@@ -52678,7 +49935,6 @@ alternator when the alternator is not
 connected.
 
 ### I) Never test for alternator output by
-`volkswagen_volkswagen_golf_2_en_052bf7eb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:238
 
 “flashing” the output lead to earth.
 j) The battery leads and alternator multiplug must be disconnected before
@@ -52688,7 +49944,6 @@ Fuses - pre August 1989 (continued)
 Additional fuses (In separate holders above fusebox)
 
 ### Rating (amps)
-`volkswagen_volkswagen_golf_2_en_3c287a7a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:238
 
 Rear foglight  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 10
@@ -52698,7 +49953,6 @@ Air conditioner  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 30
 
 ### Fuses - from August 1989
-`volkswagen_volkswagen_golf_2_en_1100f913` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:238
 
 Fuse
 Component
@@ -52771,7 +50025,6 @@ Radio system/cigarette lighter  . . . . . . . . . . . . . . . . . . . . . . . . 
 10
 
 ### Relays
-`volkswagen_volkswagen_golf_2_en_fbdc6412` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:238
 
 Type  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 See wiring diagrams at the end of this Chapter
@@ -52797,7 +50050,6 @@ Instrument lights  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_17f4671c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:238
 
 k) Never use an ohmmeter of the type
 incorporating a hand cranked generator
@@ -52812,7 +50064,6 @@ correctly, otherwise serious damage may
 result to the components concerned.
 
 ### Items such as radios, tape recorders,
-`volkswagen_volkswagen_golf_2_en_988c1a03` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:239
 
 electronic ignition systems, electronic
 tachometers, automatic dipping etc,
@@ -52857,7 +50108,6 @@ with a circuit breaker incorporated, which can
 be used to bypass electrical components.
 
 ### Before attempting to locate a problem with
-`volkswagen_volkswagen_golf_2_en_1a31e428` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:239
 
 test instruments, use the wiring diagram to
 decide where to make the connections.
@@ -52875,7 +50125,6 @@ battery is problem-free. Continue checking
 the rest of the circuit in the same fashion.
 
 ### When you reach a point at which no voltage is
-`volkswagen_volkswagen_golf_2_en_4123046c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:239
 
 present the problem lies between that point
 and the last test point with voltage. Most
@@ -52885,7 +50134,6 @@ are live only when the ignition switch is
 switched to a particular position.
 
 ### Finding a short circuit
-`volkswagen_volkswagen_golf_2_en_b05aece5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:239
 
 6 One method of finding a short circuit is to
 remove the fuse and connect a test lamp or
@@ -52900,7 +50148,6 @@ through. The same test can be performed on
 each component in the circuit, even a switch.
 
 ### Earth check
-`volkswagen_volkswagen_golf_2_en_9ccb9aa1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:239
 
 7 To check whether a component is properly
 earthed, disconnect the battery and connect
@@ -52949,7 +50196,6 @@ regular intervals) a proprietary ignition sealer
 or a water dispersant lubricant.
 
 ### Continuity check
-`volkswagen_volkswagen_golf_2_en_6e3cda8a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:239
 
 10 A continuity check is necessary to
 determine if there are any breaks in a circuit.
@@ -52968,7 +50214,6 @@ the switch terminals. With the switch in the
 relevant position, the test lamp should light.
 
 ### Finding an open circuit
-`volkswagen_volkswagen_golf_2_en_ed6d7938` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:239
 
 12 When checking for possible open circuits,
 it is often difficult to locate them by sight
@@ -52981,7 +50226,6 @@ also be caused by oxidised or loose
 connections.
 
 ### General
-`volkswagen_volkswagen_golf_2_en_a8cac1ce` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:239
 
 13 Electrical fault-finding is simple if you
 keep in mind that all electrical circuits are
@@ -52995,7 +50239,6 @@ of electricity from the battery.
 3
 
 ### Fuses and relays - location
-`volkswagen_volkswagen_golf_2_en_ca8ccf2f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:239
 
 and renewal
 1
@@ -53008,7 +50251,6 @@ Body electrical systems  12•3
 3.1  Removing fuse/relay unit cover
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_ab449937` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:239
 
 2 The fuses are numbered consecutively for
 identification. Always renew a fuse with one of
@@ -53026,7 +50268,6 @@ removed by twisting the securing knob on the
 lower right-hand side and removing the knob.
 
 ### Twist the slotted retainer on the left-hand side
-`volkswagen_volkswagen_golf_2_en_4ef5e682` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:240
 
 and withdraw the fuse/relay box. The various
 connectors on the rear face of the unit are
@@ -53041,7 +50282,6 @@ wiring diagrams at the end of this Chapter
 4
 
 ### Headlamp bulbs and
-`volkswagen_volkswagen_golf_2_en_1d3b1601` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:240
 
 headlamps - removal and
 refitting
@@ -53067,7 +50307,6 @@ alignment.
 5
 
 ### Headlamps - alignment
-`volkswagen_volkswagen_golf_2_en_24515161` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:240
 
 3
 Refer to Chapter 1, Section 27
@@ -53084,7 +50323,6 @@ compartment
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_1227f285` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:240
 
 6
 Headlamp range control -
@@ -53128,7 +50366,6 @@ the range control operation on completion.
 7
 
 ### Front foglight bulb and unit -
-`volkswagen_volkswagen_golf_2_en_b6d959e5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:241
 
 removal and refitting
 1
@@ -53152,7 +50389,6 @@ procedure given for the headlamps.
 8
 
 ### Lamp bulbs - renewal
-`volkswagen_volkswagen_golf_2_en_abf17e0b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:241
 
 1
 Note: Lamp bulbs should always be renewed
@@ -53167,7 +50403,6 @@ remove it from the reflector (see illustration).
 3 Depress and twist the bulb to remove it.
 
 ### Front indicator lights
-`volkswagen_volkswagen_golf_2_en_4d655f49` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:241
 
 4 Remove the cross-head screws and
 withdraw the lens (see illustration).
@@ -53180,7 +50415,6 @@ disconnected (see illustration).
 gasket is correctly located.
 
 ### Body electrical systems 12•5
-`volkswagen_volkswagen_golf_2_en_0bf195b3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:241
 
 12
 6.5  Range control motor and terminal
@@ -53197,7 +50431,6 @@ screws (arrowed)
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_16b662ac` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:241
 
 Rear lights
 8 Open the tailgate or bootlid, as applicable.
@@ -53208,7 +50441,6 @@ bulb inspection/renewal (see illustration).
 remove it.
 
 ### Number plate light
-`volkswagen_volkswagen_golf_2_en_14639890` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:242
 
 10 Remove the cross-head screws and
 withdraw the lens and cover (see illustration).
@@ -53217,7 +50449,6 @@ withdraw the lens and cover (see illustration).
 that the lug is correctly located.
 
 ### Interior light
-`volkswagen_volkswagen_golf_2_en_c4664a0c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:chassis | p:242
 
 13 Using a screwdriver, depress the spring
 clip then withdraw the light from the roof (see
@@ -53230,7 +50461,6 @@ the bulb. The switch end of the light should be
 inserted into the roof first.
 
 ### Luggage compartment light and
-`volkswagen_volkswagen_golf_2_en_0a2d7d17` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:242
 
 glovebox light
 16 Prise free and withdraw the lens. The bulb
@@ -53240,7 +50470,6 @@ for renewal (see illustration).
 spade connectors from the lens.
 
 ### Instrument panel light
-`volkswagen_volkswagen_golf_2_en_f6cd383c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:242
 
 18 Remove the instrument panel.
 19 Twist the bulbholder through 90° to
@@ -53253,7 +50482,6 @@ connector as applicable.
 9
 
 ### Direction indicators and
-`volkswagen_volkswagen_golf_2_en_9dd51c74` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:242
 
 hazard flasher system -
 operation and testing
@@ -53281,7 +50509,6 @@ holder removal
 8.8  Rear combination light unit components
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_9d3dc176` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:242
 
 4 If the indicators do not function correctly, a
 series of tests may be done to find which part
@@ -53327,7 +50554,6 @@ refitting
 2
 
 ### This procedure is described in Chapter 10
-`volkswagen_volkswagen_golf_2_en_0ece50fa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:243
 
 for removal and refitting of the steering lock.
 12 Combination switches -
@@ -53368,7 +50594,6 @@ and prise the switch free from the facia (see
 illustration).
 
 ### Body electrical systems 12•7
-`volkswagen_volkswagen_golf_2_en_0ff8f024` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:243
 
 12
 10.2  Warning lamp cluster removal
@@ -53385,7 +50610,6 @@ connection and insulator – GTi
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_a69f1d60` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:243
 
 3 On other switch types such as the heated
 rear seat switch, simply lever the switch free
@@ -53448,7 +50672,6 @@ vacuum
 sender.
 
 ### Detach
-`volkswagen_volkswagen_golf_2_en_b6fd561f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:244
 
 the
 wiring
@@ -53470,7 +50693,6 @@ reassembly
 2
 
 ### Dismantling
-`volkswagen_volkswagen_golf_2_en_4ecd4eed` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:244
 
 1 Remove the instrument panel cluster.
 2 Remove the relevant instrument (see
@@ -53486,7 +50708,6 @@ illustration). Renew the diode (LED) or
 consumption indicator unit, as necessary.
 
 ### Clock - normal type
-`volkswagen_volkswagen_golf_2_en_f29979cb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:244
 
 4 When renewing the normal type clock
 (which incorporates the fuel gauge), it is
@@ -53509,7 +50730,6 @@ compartment light switch
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_e101cf27` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:244
 
 Body electrical systems  12•9
 12
@@ -53530,7 +50750,6 @@ Switch unit (printed)
 7
 
 ### Speedometer
-`volkswagen_volkswagen_golf_2_en_baab2f66` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:245
 
 8
 Gearchange and consumption indicator
@@ -53552,7 +50771,6 @@ Dash insert
 1
 
 ### With rev counter and digital
-`volkswagen_volkswagen_golf_2_en_188baded` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:245
 
 clock
 2
@@ -53571,7 +50789,6 @@ removed by carefully levering it free from the
 warning lamp housing .
 
 ### Printed circuit foil
-`volkswagen_volkswagen_golf_2_en_0697ccf0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:246
 
 7 If renewing the printed circuit foil, it should
 be noted that a common type may be
@@ -53583,7 +50800,6 @@ clock and vice versa for models with the
 digital clock. Check this with your supplier.
 
 ### Plug housing
-`volkswagen_volkswagen_golf_2_en_908dbfd7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:246
 
 8 To remove the plug housing from the
 instrument panel insert, use a screwdriver to
@@ -53603,7 +50819,6 @@ shown
 illustration).
 
 ### Tachometer/VDO multi-function
-`volkswagen_volkswagen_golf_2_en_5b1e7a20` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:246
 
 indicator
 9 If removing the tachometer, first remove the
@@ -53623,7 +50838,6 @@ from the printed circuit and withdrawing the
 indicator unit (see illustration).
 
 ### Motometer multi-function indicator
-`volkswagen_volkswagen_golf_2_en_c17720f9` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:246
 
 10 The
 Motometer
@@ -53639,7 +50853,6 @@ retaining screws (arrowed)
 1
 
 ### Earth connection
-`volkswagen_volkswagen_golf_2_en_e5996b63` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:246
 
 2
 Plus (+) live connection
@@ -53657,7 +50870,6 @@ K5
 Indicators (green)
 
 ### K48 Gearchange indicator (yellow)
-`volkswagen_volkswagen_golf_2_en_fc9923a0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:246
 
 1
 Plastic rib
@@ -53678,7 +50890,6 @@ type) and retaining screws (1)
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_8a418264` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:246
 
 Component testing
 Voltage stabiliser
@@ -53691,7 +50902,6 @@ above 10.5 volts or below 9.5 volts renew the
 voltage stabiliser.
 
 ### Fuel gauge
-`volkswagen_volkswagen_golf_2_en_1faba6d5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:247
 
 12 The accuracy of the fuel gauge can be
 checked by draining the fuel tank and then
@@ -53702,7 +50912,6 @@ upper edge of the red reserve zone. If not,
 either the fuel gauge or tank unit is faulty.
 
 ### Printed circuits
-`volkswagen_volkswagen_golf_2_en_39e00791` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:247
 
 13 The individual circuits of the printed circuit
 foil can be checked for continuity using an
@@ -53737,7 +50946,6 @@ illustration)
 f)
 
 ### Top left side of panel
-`volkswagen_volkswagen_golf_2_en_019d4fef` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:247
 
 7 Partially withdraw the panel and detach any
 remaining switch lead multi-connectors.
@@ -53752,7 +50960,6 @@ operation and testing
 1
 
 ### Some models are equipped with a
-`volkswagen_volkswagen_golf_2_en_d4092588` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:247
 
 multi-function indicator consisting of an
 electronic processor and digital display unit.
@@ -53762,7 +50969,6 @@ pressing the MFA recall button on the end of
 the windscreen wiper control stalk.
 
 ### Current time
-`volkswagen_volkswagen_golf_2_en_454a46c8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:drivetrain | p:247
 
 Driving time
 Distance driven
@@ -53811,7 +51017,6 @@ sender in the vacuum line to the distributor
 (see illustration).
 
 ### Body electrical systems 12•11
-`volkswagen_volkswagen_golf_2_en_776a719b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:247
 
 12
 17.11  Voltage stabiliser test terminals
@@ -53825,7 +51030,6 @@ screws at top
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_3f6826df` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:247
 
 21 Cigarette lighter - removal
 and refitting
@@ -53869,7 +51073,6 @@ wiring.
 withdraw the mirror motor (see illustration).
 
 ### Detach the wiring from the motor.
-`volkswagen_volkswagen_golf_2_en_63c818d0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:248
 
 5 Carefully lever free the door mirror adjuster
 switch from the trim panel and withdraw it so
@@ -53912,7 +51115,6 @@ manner.
 1
 
 ### Refer to “Weekly Checks”
-`volkswagen_volkswagen_golf_2_en_8678e875` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:248
 
 26 Wiper arms - removal and
 refitting
@@ -53930,7 +51132,6 @@ electrically-operated door mirror removal
 1
 
 ### Blue
-`volkswagen_volkswagen_golf_2_en_c721ca7d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:248
 
 2
 Brown
@@ -53947,7 +51148,6 @@ installation
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_49d04f85` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:248
 
 3 Ease the wiper arm from the spindle, taking
 care not to damage the paintwork (see
@@ -54002,7 +51202,6 @@ when refitting so that the wiper arm will park
 correctly (see illustration).
 
 ### Body electrical systems 12•13
-`volkswagen_volkswagen_golf_2_en_c9589ef5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:249
 
 12
 26.2  Undo wiper arm nut . . .
@@ -54026,7 +51225,6 @@ tailgate
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_cfe6ac04` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:249
 
 12•14 Body electrical systems
 1081 VW Golf & Jetta
@@ -54058,7 +51256,6 @@ renewal
 2
 
 ### Pre 1986
-`volkswagen_volkswagen_golf_2_en_b5479104` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:251
 
 1 The windscreen washer fluid reservoir is
 located on the left-hand side of the engine
@@ -54080,7 +51277,6 @@ that it is firmly home. Reconnect the electrical
 connection.
 
 ### From 1986
-`volkswagen_volkswagen_golf_2_en_26b0e1a7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:251
 
 5 From early 1986, the washer system is
 modified and now has a single reservoir and
@@ -54102,7 +51298,6 @@ removal and refitting
 aperture, you will need to fabricate a pair of
 
 ### U-shaped extractors from wire rod of suitable
-`volkswagen_volkswagen_golf_2_en_15b46b93` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:251
 
 gauge to insert into the withdrawal slots on
 each side of the unit (see illustration).
@@ -54133,7 +51328,6 @@ simply push the unit into its aperture until the
 securing clips engage in their slots.
 
 ### Body electrical systems 12•15
-`volkswagen_volkswagen_golf_2_en_55a6f15a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:251
 
 12
 31.2  Radio/cassette extractor tool
@@ -54144,7 +51338,6 @@ securing clips engage in their slots.
 30.2  Rear window washer reservoir unit location
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_fa9060ba` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:251
 
 32 Loudspeakers - removal and
 refitting
@@ -54162,7 +51355,6 @@ illustration).
 4 Refit in the reverse order of removal.
 
 ### Luggage compartment speakers
-`volkswagen_volkswagen_golf_2_en_7c5152a3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:252
 
 5 Undo the retaining nuts from underneath,
 withdraw the loudspeaker unit and detach the
@@ -54172,7 +51364,6 @@ wiring connector (see illustration).
 information
 
 ### Each wiring diagram covers a particular
-`volkswagen_volkswagen_golf_2_en_964b62e8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:252
 
 system of the appropriate vehicle, as
 indicated in its caption. Carefully read the Key
@@ -54185,7 +51376,6 @@ retaining nuts (arrowed)
 1081 VW Golf & Jetta
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_3764649b` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:252
 
 Wiring diagrams  12•17
 12
@@ -54196,7 +51386,6 @@ Downloaded from www.Manualslib.com manuals search engine
 Downloaded from www.Manualslib.com manuals search engine
 
 ### Wiring diagrams 12•19
-`volkswagen_volkswagen_golf_2_en_bb550aa8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:255
 
 12
 1081 VW Golf & Jetta
@@ -54209,7 +51398,6 @@ Wiring diagrams  12•21
 1081 VW Golf & Jetta
 
 ### Wiring relays and connections – all models
-`volkswagen_volkswagen_golf_2_en_9446b99a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:257
 
 Relays (typical)
 1
@@ -54226,7 +51414,6 @@ Air conditioner relay
 6
 
 ### Dual tone horn relay
-`volkswagen_volkswagen_golf_2_en_a7414d45` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:257
 
 7
 Relay for foglights and rear foglight
@@ -54244,7 +51431,6 @@ lights and oil pressure warning relay
 14
 
 ### Window lift or seat belt warning system relay
-`volkswagen_volkswagen_golf_2_en_5d1446e7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:257
 
 15
 Headlight washer relay
@@ -54261,7 +51447,6 @@ Switch unit for heated driver’s seat
 21
 
 ### Switch unit for heated passenger’s seat
-`volkswagen_volkswagen_golf_2_en_75488caa` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:257
 
 22
 Switch unit for overrun cut-off
@@ -54277,7 +51462,6 @@ Multi-pin connector (blue) for dash panel loom
 B
 
 ### Multi-pin connector (red) for dash panel loom
-`volkswagen_volkswagen_golf_2_en_9d4aadcd` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:257
 
 C
 Multi-pin connector (yellow) for engine compartment loom left
@@ -54304,7 +51488,6 @@ Single connector for separate fuse (manifold heater element)
 P
 
 ### Single connector (terminal 30)
-`volkswagen_volkswagen_golf_2_en_b891b141` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:257
 
 R
 Not in use
@@ -54326,7 +51509,6 @@ Diagram 1  Starter, alternator, battery and ignition system -
 1.05, 1.3 and 1.6 models, pre July 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_777572df` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:258
 
 Wiring diagrams  12•23
 12
@@ -54337,7 +51519,6 @@ Diagram 3  Lighting switch, instrument and dash insert lights -
 1.05, 1.3 and 1.5 models, pre July 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_92951f82` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:259
 
 12•24 Wiring diagrams
 1081 VW Golf & Jetta
@@ -54347,7 +51528,6 @@ Diagram 5  Foglights, rear foglights and heated rear window -
 1.05, 1.3 and 1.6 models, pre July 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_8e0c533a` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:260
 
 Wiring diagrams  12•25
 12
@@ -54358,7 +51538,6 @@ Diagram 7  Brake lights, fresh air blower, reversing lights and radiator fan -
 1.05, 1.3 and 1.6 models, pre July 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4a35f39f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:hvac | p:261
 
 Diagram 11  Intake manifold
 preheater and automatic choke -
@@ -54369,7 +51548,6 @@ Diagram 10  Rear wiper and washer -
 1.05, 1.3 and 1.6 models, pre December 1985
 
 ### Diagram 9 Windscreen wiper and washer -
-`volkswagen_volkswagen_golf_2_en_eae3524d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:262
 
 1.05, 1.3 and 1.6 models. Golf, pre December 1985.
 Jetta pre July 1987
@@ -54383,7 +51561,6 @@ Diagram 12  Starter, alternator, battery and ignition system -
 1.8 models with carburettor
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_7c44b6a8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:263
 
 12•28 Wiring diagrams
 1081 VW Golf & Jetta
@@ -54393,7 +51570,6 @@ Diagram 14  Headlights, tail lights and dip flasher switch -
 1.8 models, pre July 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_84059fa5` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:264
 
 Wiring diagrams  12•29
 12
@@ -54404,7 +51580,6 @@ Diagram 16  Indicators and hazard warning lights -
 1.8 models, pre July 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_53ca08f2` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:265
 
 12•30 Wiring diagrams
 1081 VW Golf & Jetta
@@ -54414,7 +51589,6 @@ Diagram 18  Dual tone horn, handbrake and brake fluid warning -
 1.8 models, pre July 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_6a8328bb` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:266
 
 Wiring diagrams  12•31
 12
@@ -54425,7 +51599,6 @@ Diagram 20  Electrically-controlled heated outside mirror and rear wiper and was
 1.8 models, pre December 1985
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_f37c26da` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:267
 
 12•32 Wiring diagrams
 1081 VW Golf & Jetta
@@ -54435,7 +51608,6 @@ Diagram 22  Starter, alternator, battery and ignition system -
 1.8 models with fuel injection, pre July 1984
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_40b111a8` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:268
 
 Wiring diagrams  12•33
 12
@@ -54451,7 +51623,6 @@ Downloaded from www.Manualslib.com manuals search engine
 1081 VW Golf & Jetta
 
 ### Diagram 28 Starter, alternator and battery -
-`volkswagen_volkswagen_golf_2_en_9a942af7` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:270
 
 1.8 16v models
 Diagram 27  Starter, alternator, battery and ignition system -
@@ -54462,7 +51633,6 @@ Wiring diagrams  12•35
 1081 VW Golf & Jetta
 
 ### Diagram 30 Low coolant level warning -
-`volkswagen_volkswagen_golf_2_en_93c18f47` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:271
 
 1.8 16v models
 Diagram 29  Ignition system -
@@ -54474,7 +51644,6 @@ Diagram 32  Starter, alternator, battery and ignition system -
 1.6 models from August 1985 to July 1987
 
 ### Diagram 31 Fuel supply -
-`volkswagen_volkswagen_golf_2_en_1f3b807f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:272
 
 1.8 16v models
 Downloaded from www.Manualslib.com manuals search engine
@@ -54487,7 +51656,6 @@ Diagram 33  Radiator fan run-on -
 1.6 and 1.8 models from March 1986 to July 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_7d00a04d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:ev | p:273
 
 12•38 Wiring diagrams
 1081 VW Golf & Jetta
@@ -54497,7 +51665,6 @@ Diagram 35  Windscreen washer, rear wiper and washer -
 all Golf models from January 1986 to July 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_098399ce` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:274
 
 Wiring diagrams  12•39
 12
@@ -54508,7 +51675,6 @@ Diagram 37  Inlet manifold preheating and automatic choke -
 1.6 models, from August 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_84824972` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:275
 
 12•40 Wiring diagrams
 1081 VW Golf & Jetta
@@ -54518,7 +51684,6 @@ Diagram 39  Light switch and number plate lights -
 all models, from August 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_c639938d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:276
 
 Wiring diagrams  12•41
 12
@@ -54529,7 +51694,6 @@ Diagram 41  Indicators and hazard warning lights -
 all models, from August 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_8630bb06` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:277
 
 12•42 Wiring diagrams
 1081 VW Golf & Jetta
@@ -54539,7 +51703,6 @@ Diagram 43  Handbrake and brake fluid level warning, fresh air blower, glovebox
 light and horn - all models, from August 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_b24b2d9c` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:278
 
 Wiring diagrams  12•43
 12
@@ -54550,7 +51713,6 @@ Diagram 45  Rear window wiper and radiator fan run-on -
 1.6 and 1.8 carburettor models, from August 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_8e3d8be0` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:279
 
 12•44 Wiring diagrams
 1081 VW Golf & Jetta
@@ -54560,7 +51722,6 @@ Diagram 47  Handbrake, brake fluid warning, low coolant level indicator and dual
 tone horn - all models from 1987
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_3dc37571` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:280
 
 Wiring diagrams  12•45
 12
@@ -54571,7 +51732,6 @@ Diagram 49  Automatic transmission -
 1.6 models, from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_bcce6d02` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:281
 
 12•46 Wiring diagrams
 1081 VW Golf & Jetta
@@ -54581,7 +51741,6 @@ Diagram 51  Radiator fan and fresh air blower -
 1.6 and 1.8 carburettor models, from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_98c85711` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:282
 
 Wiring diagrams  12•47
 12
@@ -54592,7 +51751,6 @@ Diagram 53  Ignition system and overrun cut-off -
 1.6 and 1.8 carburettor models, from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_9533f63e` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:283
 
 12•48 Wiring diagrams
 1081 VW Golf & Jetta
@@ -54602,7 +51760,6 @@ Diagram 55  Instrument panel (tachometer clock, fuel and temperature gauges) -
 1.6 and 1.8 carburettor models, from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_e44dd6c6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:interior | p:284
 
 Wiring diagrams  12•49
 12
@@ -54613,7 +51770,6 @@ Diagram 57  Glovebox light, cigarette lighter, radio connection and cassette sto
 light - 1.6 and 1.8 carburettor models, from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_8dae6b5f` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:285
 
 12•50 Wiring diagrams
 1081 VW Golf & Jetta
@@ -54623,7 +51779,6 @@ Diagram 59  Headlights, sidelights and headlight dip/flash switch -
 1.6 and 1.8 carburettor models, from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4c44649d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:brakes | p:286
 
 Wiring diagrams  12•51
 12
@@ -54634,7 +51789,6 @@ Diagram 61  Direction indicators and tail lights -
 1.6 and 1.8 carburettor models, from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_8c83ab76` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:287
 
 12•52 Wiring diagrams
 1081 VW Golf & Jetta
@@ -54644,7 +51798,6 @@ Diagram 63  Reversing lights, heated rear window and dual tone horn -
 1.6 and 1.8 carburettor models, from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_71d0d9f1` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:general | p:288
 
 Wiring diagrams  12•53
 12
@@ -54655,7 +51808,6 @@ Diagram 65  Windscreen washers and wipers -
 1.6 and 1.8 carburettor models, from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_eece59a3` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:lighting | p:289
 
 12•54 Wiring diagrams
 1081 VW Golf & Jetta
@@ -54665,7 +51817,6 @@ Diagram 67  Dim-dip lights (lighting switch and series resistance) -
 all models from January 1989
 
 ### Downloaded from www.Manualslib.com manuals search engine
-`volkswagen_volkswagen_golf_2_en_4df2efde` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:sensors | p:290
 
 Wiring diagrams  12•55
 12
@@ -54679,7 +51830,6 @@ Downloaded from www.Manualslib.com manuals search engine
 1081 VW Golf & Jetta
 
 ### Diagram 72 Digifant ignition system -
-`volkswagen_volkswagen_golf_2_en_2a51cfbf` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:292
 
 later 1.8 models
 Diagram 71  Digifant fuel system -
@@ -54694,7 +51844,6 @@ Nm
 lbf ft
 
 ### Bumper bracket bolts:
-`volkswagen_volkswagen_golf_2_en_4b40d4e6` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:body | p:293
 
 Front  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 82
@@ -54748,7 +51897,6 @@ Seat beltsrenewal  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Sunroof - removal, refitting and adjustment  . . . . . . . . . . . . . . . . . . . 28
 
 ### Tailgate - removal and refitting . . . . . . . . . . . . . . . . . . . . . . 
-`volkswagen_volkswagen_golf_2_en_1902f225` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:293
 
 Tailgate - removal and refitting  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
 Tailgate lock, grip and lock cylinder - removal, refitting and
@@ -54762,7 +51910,6 @@ Windows - removal and refitting  . . . . . . . . . . . . . . . . . . . . . . . .
 11•1
 
 ### Filter
-`volkswagen_volkswagen_golf_2_en_4655244d` | volkswagen_golf_2 | pdf_manual | tier:3 | lang:en | layer:engine | p:310
 
 2
 Filter housing

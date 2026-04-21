@@ -1,3 +1,10 @@
+---
+brand: geely
+model: coolray
+generation: sx11_2020
+source: kb
+---
+
 # 2019GEELY COOLRAY Wiring Diagram
 
 В настоящем сборнике схем приведена подробная информация об электрических цепях (жгутах проводов) автомобиля модели 2019 CO0LRAY года
@@ -2724,7 +2731,6 @@ SX13-8145a
 
 ![](images/754fac609adf62c06d21aa87b9f3fe145472ebbb32c8e6747301cca7d531de3b.webp)
 ### 2019GEELY COOLRAY Wiring Diagram
-`geely_geely_coolray_2019_ru_8a321982` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:1 | doc_type:owners_manual
 
 В настоящем сборнике схем приведена подробная информация об электрических цепях (жгутах проводов) автомобиля модели 2019 CO0LRAY года
 
@@ -2744,7 +2750,6 @@ SX13-8145a
 
 
 ### Пример для пояснения—①
-`geely_geely_coolray_2019_ru_8ed944c7` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:2 | doc_type:owners_manual
 
 ![](images/feb4fb27e1f2051db9a60ecfa27d8b7d71284c75c7fc72fee3516fbdbc9e621f.webp)
 
@@ -2812,7 +2817,6 @@ SX13-8145a
 
 
 ### Символ
-`geely_geely_coolray_2019_ru_1a1af637` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:general | p:3 | doc_type:owners_manual
 
 ![](images/6f57c9fddb3eb8634a885bc938a021877629476c84d83833509bb91aac021c59.webp)
 
@@ -2820,7 +2824,6 @@ SX13-8145a
 
 
 ### Порядок диагностики неисправностей
-`geely_geely_coolray_2019_ru_86a17ea7` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:general | p:4 | doc_type:owners_manual
 
 Выявлять неисправность цепи следует в описанном ниже порядке:
 
@@ -2832,13 +2835,11 @@ SX13-8145a
 
 
 ### Проверьте цепи и компоненты
-`geely_geely_coolray_2019_ru_aea4780b` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:5 | doc_type:owners_manual
 
 Следует как можно чаще обращаться к электрической схеме и к руководству по техническому обслуживанию, сверяясь с процессом проверки цепей и компонентов, который описан в руководстве по техническому обслуживанию. Цепи, контролируемые блоками управления, следует проверять диагностическим тестером. Эффективная диагностика неисправностей требует соблюдения логически обоснованного и продуманного порядка работы. Полностью изучив процесс диагностики неисправностей,  описанный в руководстве по техническому обслуживанию, начните проверку с тех компонентов, которые с наибольшей вероятностью являются причиной неисправности и проверить которые проще всего.
 
 
 ### 4 Устранение неисправности
-`geely_geely_coolray_2019_ru_a6358d4b` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:6 | doc_type:owners_manual
 
 При наличии неисправности обратитесь к электрической схеме и описанию методов поиска и устранения неисправностей, которые содержатся в руководстве по техническому обслуживанию. Например, процесс поиска и устранения неисправностей при нарушении заземления и процесс поиска и устранения неисправностей разъема жгута проводов.
 
@@ -2846,7 +2847,6 @@ SX13-8145a
 
 
 ### Проверка напряжения
-`geely_geely_coolray_2019_ru_722a4dcb` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:general | p:7 | doc_type:owners_manual
 
 1 Создайте условия для измерения в определенных точках измерения напряжения. Например:
 
@@ -2856,7 +2856,6 @@ SX13-8145a
 
 
 ### Определение целостности и сопротивления цепи
-`geely_geely_coolray_2019_ru_cbf3fb2a` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:ev | p:8 | doc_type:owners_manual
 
 1 Отсоедините аккумуляторную батарею или электрическое соединение точки измерения, обеспечив отсутствие напряжения B цепи, подлежащей измерению.   
 2 Подсоедините щупы  омметра к обеим концам обследуемой цепи.
@@ -2873,7 +2872,6 @@ SX13-8145a
 
 
 ### Обнаружение короткого замыкания
-`geely_geely_coolray_2019_ru_ce7b9a24` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:9 | doc_type:owners_manual
 
 1 Удалите перегоревший предохранитель и отсоедините всех потребителей, защищаемых этим предохранителем.   
 2 Подсоедините пробную лампу к обеим клеммам перегоревшего предохранителя блока.   
@@ -2885,18 +2883,15 @@ SX13-8145a
 5 Слегка покачивая неисправную цепь, найдите место короткого замыкания.
 
 
-### Внимание!
-`geely_geely_coolray_2019_ru_f7e61ccf` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:10 | doc_type:owners_manual
-
-1. Без крайней необходимости не открывайте корпус блока ECU (при прикосновении  к клеммам интегральной схемы на плате ECU интегральная схема может быть повреждена разрядом статического электричества).
-
-2. При замене внутренних компонентов цифрового прибора следите за тем, чтобы части тела или одежда не соприкасались с клеммами устанавливаемой на замену интегральной схемы.
-
-![](images/d885840e56d77bc5feec4d5483847cd281fe91acb149fe0174d6995bbd92fbdf.webp)
+> ⚠️ **Внимание:** 
+> 1. Без крайней необходимости не открывайте корпус блока ECU (при прикосновении  к клеммам интегральной схемы на плате ECU интегральная схема может быть повреждена разрядом статического электричества).
+>
+> 2. При замене внутренних компонентов цифрового прибора следите за тем, чтобы части тела или одежда не соприкасались с клеммами устанавливаемой на замену интегральной схемы.
+>
+> ![](images/d885840e56d77bc5feec4d5483847cd281fe91acb149fe0174d6995bbd92fbdf.webp)
 
 
 ### Отсоединение разъема
-`geely_geely_coolray_2019_ru_062aa0ca` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:11 | doc_type:owners_manual
 
 При отсоединении тяните за корпус разъема, а не за жгут проводов.
 
@@ -2906,7 +2901,6 @@ SX13-8145a
 
 
 ### Замена клеммы (при наличии держателя клеммы или вторичного блокировочного механизма)
-`geely_geely_coolray_2019_ru_335b92e4` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:12 | doc_type:owners_manual
 
 1 Подготовьте специальный инструмент для ремонта клемм жгутов проводов. Рекомендация: используйте специальный инструмент для ремонта клемм или аналогичный предмет (см. рисунок ниже) для удаления клеммы из разъема жгута проводов.
 
@@ -2978,7 +2972,6 @@ SX13-8145a
 
 
 ### Порядок действий по устранению ненадежного заземления
-`geely_geely_coolray_2019_ru_69c37bfb` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:body | p:13 | doc_type:owners_manual
 
 1Выверните крепежный болт в точке заземления.
 
@@ -3008,7 +3001,6 @@ SX13-4001a
 
 
 ### Список реле в моторном отсеке
-`geely_geely_coolray_2019_ru_b34002d5` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:engine | p:14 | doc_type:owners_manual
 
 ![](images/db9f3eb13440e641b760fa10d9ae4eb85aed66404483f579291a77df42bf2e36.webp)
 
@@ -3019,13 +3011,11 @@ SX13-4002a
 
 
 ### Список предохранителей приборной панели
-`geely_geely_coolray_2019_ru_1cc218d0` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:15 | doc_type:owners_manual
 
 ![](images/a966d6d80ab049e983af07548eea597820910928a30407417b5ce9ec5a9c11c5.webp)
 
 
 ### Список реле приборной панели
-`geely_geely_coolray_2019_ru_facc62c5` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:ev | p:16 | doc_type:owners_manual
 
 ![](images/ece64b8ada8b34608c036df4ed47dff0ee4d6b3d3d68a25cab0ce8b7398dea1b.webp)
 
@@ -3034,13 +3024,11 @@ SX13-4002a
 
 
 ### Список разъемов жгутов проводов отрицательной клеммы аккумуляторной батареи
-`geely_geely_coolray_2019_ru_9f62440d` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:ev | p:17 | doc_type:owners_manual
 
 ![](images/f7303ac5ee9ef9d3d8b77207cc77232739a6baa4b83bc187bdd58743a1d93df8.webp)
 
 
 ### Схема отрицательной клеммы аккумуляторной батареи
-`geely_geely_coolray_2019_ru_97660c9b` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:engine | p:18 | doc_type:owners_manual
 
 ![](images/a0850a66c2de1253e3378519d7719d63a67d8b88ff55cb094e9caa916fc843b8.webp)
 
@@ -3065,7 +3053,6 @@ SX13-5006a
 
 
 ### Список разъемов жгута проводов моторного отсека
-`geely_geely_coolray_2019_ru_6cc0ebe6` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:engine | p:19 | doc_type:owners_manual
 
 ![](images/7f8692e46bb062291c274293421c8ae822425ee4358184b00494df4b6ee23c7d.webp)
 
@@ -3073,7 +3060,6 @@ SX13-5006a
 
 
 ### Схема расположения клемм в разъемах жгута проводов моторного отсека
-`geely_geely_coolray_2019_ru_31347bee` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:engine | p:20 | doc_type:owners_manual
 
 СА01а Разъем жгута проводов от моторного отсека к приборной панели 1
 
@@ -3127,7 +3113,6 @@ SX13-5007a
 
 
 ### Схема расположения клемм в разъемах жгута проводов моторного отсека (Часть 1)
-`geely_geely_coolray_2019_ru_dd3a939f` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:engine | p:21 | doc_type:owners_manual
 
 CA21с Разъем жгута проводов блока ЕСМ
 
@@ -3179,7 +3164,6 @@ SX13-5008a
 
 
 ### Схема расположения клемм в разъемах жгута проводов моторного отсека (Часть 2)
-`geely_geely_coolray_2019_ru_4935ea59` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:22 | doc_type:owners_manual
 
 СA41 Разъем жгута проводов правой фары
 
@@ -3224,7 +3208,6 @@ SX13-5009a
 
 
 ### Схема расположения клемм в разъемах жгута проводов моторного отсека (Часть 3)
-`geely_geely_coolray_2019_ru_ff1aa8ab` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:engine | p:23 | doc_type:owners_manual
 
 CA84a Engine compartment to front bumper harness connector
 
@@ -3275,7 +3258,6 @@ SX13-5010a
 
 
 ### Схема расположения клемм в разъемах жгута проводов моторного отсека (Часть 4)
-`geely_geely_coolray_2019_ru_549e2b36` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:engine | p:24 | doc_type:owners_manual
 
 СА109 Разъем жгута проводов переднего левого бокового датчика системы помощи при парковке
 
@@ -3327,7 +3309,6 @@ SX13-5011a
 
 
 ### Схема расположения клемм в разъемах жгута проводов моторного отсека (Часть 5)
-`geely_geely_coolray_2019_ru_44c09b53` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:engine | p:25 | doc_type:owners_manual
 
 СА205  Разъем жгута проводов датчика скорости на входе
 
@@ -3340,13 +3321,11 @@ SX13-5011a
 
 
 ### Список разъемов жгута проводов двигателя
-`geely_geely_coolray_2019_ru_f8ab0899` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:26 | doc_type:owners_manual
 
 ![](images/1ee093cd4ad64759ca13dcbf8547f8c3d7deba3ab3b45acd35ad3438c7f8d4de.webp)
 
 
 ### Схема расположения клемм в разъемах жгута проводов двигателя
-`geely_geely_coolray_2019_ru_d096a848` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:27 | doc_type:owners_manual
 
 EN01d Разъем 1 жгута проводов блока ЕСМ
 
@@ -3398,7 +3377,6 @@ SX13-5020a
 
 
 ### Схема расположения клемм в разъемах жгута проводов двигателя (Часть 1)
-`geely_geely_coolray_2019_ru_b7c983ce` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:28 | doc_type:owners_manual
 
 EN20с Разъем жгута проводов от топливной форсунки к двигателю
 
@@ -3454,7 +3432,6 @@ SX13-5021a
 
 
 ### Схема расположения клемм в разъемах жгута проводов двигателя (Часть 2)
-`geely_geely_coolray_2019_ru_d3f64d6b` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:29 | doc_type:owners_manual
 
 EN34d Разъем жгута проводов датчика абсолютного давления или температуры коллектора
 
@@ -3515,7 +3492,6 @@ SX13-5022a
 
 
 ### Список разъемов жгута проводов приборной панели
-`geely_geely_coolray_2019_ru_bd87dcb3` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:30 | doc_type:owners_manual
 
 ![](images/b77983370c91cf62fcc4933c8e49d07247c3315fa240983c43541d3a0f13dc6b.webp)
 
@@ -3523,7 +3499,6 @@ SX13-5022a
 
 
 ### Схема расположения клемм в разъемах жгута проводов приборной панели
-`geely_geely_coolray_2019_ru_63951418` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:engine | p:31 | doc_type:owners_manual
 
 ІР01 Разъем  жгута проводов комбинации приборов
 
@@ -3612,7 +3587,6 @@ SX13-5028a
 
 
 ### Схема расположения клемм в разъемах жгута проводов приборной панели (Часть 2)
-`geely_geely_coolray_2019_ru_5d2a5d4c` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:lighting | p:32 | doc_type:owners_manual
 
 IР55 Разъем жгута проводов блока ACU B
 
@@ -3664,7 +3638,6 @@ SX13-5029a
 
 
 ### Схема расположения клемм в разъемах жгута проводов приборной панели (Часть 3)
-`geely_geely_coolray_2019_ru_01dcb5d1` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:33 | doc_type:owners_manual
 
 IP90 Разъем жгута проводов электродвигателя вентилятора
 
@@ -3713,7 +3686,6 @@ SX13-5030a
 
 
 ### Схема расположения клемм в разъемах жгута проводов приборной панели (Часть 4)
-`geely_geely_coolray_2019_ru_316ccdb5` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:34 | doc_type:owners_manual
 
 IP105 Разъем жгута проводов JC05
 
@@ -3796,13 +3768,11 @@ SX13-5032a
 
 
 ### Список разъемов потолочного жгута проводов
-`geely_geely_coolray_2019_ru_f7b23355` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:35 | doc_type:owners_manual
 
 ![](images/3ef83ad82c471739a75f1b225a99834101fe8dbbc20ca2c34c8c4a9bd9de9ff2.webp)
 
 
 ### Схема расположения клемм в разъемах жгута проводов потолка
-`geely_geely_coolray_2019_ru_63bd10da` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:36 | doc_type:owners_manual
 
 RF01k Разъем жгута проводов от потолка к приборной панели 1
 
@@ -3869,7 +3839,6 @@ SX13-5035a
 
 
 ### Список разъемов напольного жгута проводов
-`geely_geely_coolray_2019_ru_5593bfcd` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:37 | doc_type:owners_manual
 
 ![](images/4bc3b7bdb8c62b63abe88bbef7c92bbb9b5f695da3b5113491f4716dacae5c50.webp)
 
@@ -3879,7 +3848,6 @@ SX13-5035a
 
 
 ### Схема расположения клемм в разъемах напольного жгута проводов
-`geely_geely_coolray_2019_ru_80e6937a` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:38 | doc_type:owners_manual
 
 SO01а Разъем жгута проводов от напольного жгута к приборной панели 1
 
@@ -3933,7 +3901,6 @@ SX13-5042a
 
 
 ### Схема расположения клемм в разъемах напольного жгута проводов (Часть 1)
-`geely_geely_coolray_2019_ru_c7de0397` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:39 | doc_type:owners_manual
 
 SO20 Разъем жгута проводов от напольного жгута к правой задней двери
 
@@ -3987,7 +3954,6 @@ SX13-5043a
 
 
 ### Схема расположения клемм в разъемах напольного жгута проводов (Часть 2)
-`geely_geely_coolray_2019_ru_31700530` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:40 | doc_type:owners_manual
 
 SO43 Разъем жгута проводов заднего левого датчика системы помощи при парковке
 
@@ -4041,7 +4007,6 @@ SX13-5044a
 
 
 ### Схема расположения клемм в разъемах напольного жгута проводов (Часть 3)
-`geely_geely_coolray_2019_ru_3dcee482` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:41 | doc_type:owners_manual
 
 SO51b Разъем жгута проводов камеры заднего вида
 
@@ -4094,7 +4059,6 @@ SX13-5045a
 
 
 ### Схема расположения клемм в разъемах напольного жгута проводов (Часть 4)
-`geely_geely_coolray_2019_ru_34c33aa0` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:42 | doc_type:owners_manual
 
 SO70а Разъем жгута проводов датчика замка ремня безопасности пассажира
 
@@ -4149,7 +4113,6 @@ SX13-5046a
 
 
 ### Схема расположения клемм в разъемах напольного жгута проводов (Часть 5)
-`geely_geely_coolray_2019_ru_afdbe4ac` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:43 | doc_type:owners_manual
 
 SO87 Разъем жгута проводов от задней двери к напольному жгуту проводов А
 
@@ -4198,7 +4161,6 @@ SX13-5047a
 
 
 ### Схема расположения клемм в разъемах напольного жгута проводов (Часть 6)
-`geely_geely_coolray_2019_ru_0addc665` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:44 | doc_type:owners_manual
 
 SO121 Разъем жгута проводов блока кругового обзора 1
 
@@ -4253,7 +4215,6 @@ SX13-5048a
 
 
 ### Схема расположения клемм в разъемах напольного жгута проводов (Часть 7)
-`geely_geely_coolray_2019_ru_9683129f` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:body | p:45 | doc_type:owners_manual
 
 SO133 Разъем жгута проводов заднего фонаря местного освещения
 
@@ -4318,13 +4279,11 @@ SX13-5054a
 
 
 ### Список разъемов жгутов проводов дверей
-`geely_geely_coolray_2019_ru_a13f00c3` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:46 | doc_type:owners_manual
 
 ![](images/0d688ab10ea4f91cea1a8e933f4b83ba66f58b939d7be8f25e53527b8b6ce814.webp)
 
 
 ### Схема расположения клемм в жгуте проводов двери
-`geely_geely_coolray_2019_ru_4b85f214` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:47 | doc_type:owners_manual
 
 DR01b Разъем жгута проводов от двери водителя к напольному жгуту проводов
 
@@ -4379,7 +4338,6 @@ SX13-5055a
 
 
 ### Схема расположения клемм в жгуте проводов двери (Часть 1)
-`geely_geely_coolray_2019_ru_001c947a` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:48 | doc_type:owners_manual
 
 DR15а Разъем жгута проводов электродвигателя стеклоподъемника двери переднего пассажира
 
@@ -4433,7 +4391,6 @@ SX13-5056a
 
 
 ### Схема расположения клемм в жгуте проводов двери (Часть 2)
-`geely_geely_coolray_2019_ru_41bb7993` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:49 | doc_type:owners_manual
 
 DR33а Разъем жгута проводов электродвигателя исполнительного механизма замка правой задней двери
 
@@ -4599,7 +4556,6 @@ CAN) .. ..355
 
 
 ### Система запуска
-`geely_geely_coolray_2019_ru_a4a0539b` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:general | p:50 | doc_type:owners_manual
 
 ![](images/646976697044f334716f73bba72d44db47d9670d6b2f962699869a1a5015f4ce.webp)
 
@@ -4607,7 +4563,6 @@ CAN) .. ..355
 
 
 ### Система зарядки
-`geely_geely_coolray_2019_ru_59cf4853` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:general | p:51 | doc_type:owners_manual
 
 ![](images/660d11df52b97eaf046ea23b7caf0ecb7413f38b3e047878f26f8c3fe18b1f4c.webp)
 
@@ -4617,7 +4572,6 @@ SX13-8014a
 
 
 ### Питание и данные
-`geely_geely_coolray_2019_ru_d23fc6f6` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:general | p:52 | doc_type:owners_manual
 
 ![](images/9a85b84c4753b389acdd3b83e7693fa2a0452bfa82039573019123d0e995fb8b.webp)
 
@@ -4663,7 +4617,6 @@ SX13-8019a
 
 
 ### Датчики и исполнительные механизмы 3
-`geely_geely_coolray_2019_ru_bee05e5b` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:53 | doc_type:owners_manual
 
 ![](images/bc1c5aa5a57d741aa42aea940a32c0820d61bd28819f5f03c00f024910525b50.webp)
 
@@ -4705,7 +4658,6 @@ SX13-8024a
 
 
 ### Питание и данные
-`geely_geely_coolray_2019_ru_0e65e5e2` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:engine | p:54 | doc_type:owners_manual
 
 ![](images/69ff0bfa9b82c7635a062a7d450909be6034cdd86c8df263054f92de9974c188.webp)
 
@@ -4753,7 +4705,6 @@ SX13-8036a
 
 
 ### Питание и данные
-`geely_geely_coolray_2019_ru_5fb8bce1` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:general | p:55 | doc_type:owners_manual
 
 ![](images/d700fcd40c4f70d9b55a651e8104c5bb92f857095d69a2722cdb6dd4dbd6a53c.webp)
 
@@ -4770,7 +4721,6 @@ SX13-8037a
 
 
 ### Питание и данные
-`geely_geely_coolray_2019_ru_3dcf09ec` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:56 | doc_type:owners_manual
 
 ![](images/739638a8254ff12da6c2fe8a6458bec0b38634f49e4d0f775f2f6fdebe845821.webp)
 
@@ -4795,7 +4745,6 @@ SX13-8041a
 
 
 ### Питание и данные (часть 1)
-`geely_geely_coolray_2019_ru_a2f6d96b` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:general | p:57 | doc_type:owners_manual
 
 ![](images/0fc56a4e4d383e385a323995d9c71b2250a192c4cfe7cd12d1805d58802ac070.webp)
 
@@ -4830,7 +4779,6 @@ SX13-8116a
 
 
 ### Питание и данные
-`geely_geely_coolray_2019_ru_560e024b` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:general | p:58 | doc_type:owners_manual
 
 ![](images/fb32e2d261dea42715742459463b9b7fd657b993b744eda0f3b35e669dcbb395.webp)
 
@@ -4856,7 +4804,6 @@ SX13-8051a
 
 
 ### Рулевой механизм с усилителем
-`geely_geely_coolray_2019_ru_a5cc0328` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:steering | p:59 | doc_type:owners_manual
 
 ![](images/78c7b8ff85e48fa29caa821300b5c0f8c85d0b849302171d9422081f8f04c4d9.webp)
 
@@ -4900,7 +4847,6 @@ SX13-8054a
 
 
 ### Габаритные огни 1
-`geely_geely_coolray_2019_ru_7dad13ee` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:general | p:60 | doc_type:owners_manual
 
 ![](images/66dd5981886edd22c977757fe4ab9bb74fc56932040a643f8ab3ab7fe96d1ea5.webp)
 
@@ -4910,7 +4856,6 @@ SX13-8054a
 
 
 ### Габаритные огни 2
-`geely_geely_coolray_2019_ru_88f99b2b` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:general | p:61 | doc_type:owners_manual
 
 ![](images/6dd3827fee2669bc2e3b9fcdc83287f93549eccb0b962db1f5b0f687f691eed7.webp)
 
@@ -4941,7 +4886,6 @@ SX13-8057a
 
 
 ### Стоп-сигнал 1
-`geely_geely_coolray_2019_ru_6431c77a` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:general | p:62 | doc_type:owners_manual
 
 ![](images/d7808cbe8af937837260f103f4f1bd2a9be174ecb1914f13f3f287d44779e0ac.webp)
 
@@ -5085,7 +5029,6 @@ SX13-8174a
 
 
 ### Зеркало 1 заднего вида с электроприводом
-`geely_geely_coolray_2019_ru_2d3e885c` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:body | p:63 | doc_type:owners_manual
 
 ![](images/e279029f1a0ae8dd98d5e48b9928d16b12e603f7d5045e2c9f9d1359c51bc352.webp)
 
@@ -5109,7 +5052,6 @@ SX13-8158a
 
 
 ### Сиденье с электроприводом
-`geely_geely_coolray_2019_ru_4e2e7556` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:interior | p:64 | doc_type:owners_manual
 
 ![](images/730ffeab608c71c0c4a4783b59beb602701a8f046a331a767998327d4808f59b.webp)
 
@@ -5126,7 +5068,6 @@ SX13-8085a
 
 
 ### Обогрев сиденья 2
-`geely_geely_coolray_2019_ru_c61f1e41` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:body | p:65 | doc_type:owners_manual
 
 ![](images/48b4ed3c9100426cf0b5872296334086150f6f005f0e4b4bf306d098f9ac6e42.webp)
 
@@ -5164,7 +5105,6 @@ SX13-8160a
 
 
 ### Питание и данные (Авто HVAC)
-`geely_geely_coolray_2019_ru_fac8022c` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:hvac | p:66 | doc_type:owners_manual
 
 ![](images/a206f6c545c5693e2830e4c7789416a7d575c0578b24050894becbdec269d423.webp)
 
@@ -5221,7 +5161,6 @@ SX13-8094a
 
 
 ### Вентилятор (Ручная HVAС)
-`geely_geely_coolray_2019_ru_37676959` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:sensors | p:67 | doc_type:owners_manual
 
 ![](images/e0bd688947c969493f6d153cbdb0a16d3d5214f761f375375f42a5b503e93e8d.webp)
 
@@ -5405,7 +5344,6 @@ SX13-8114a
 
 
 ### Питание и данные
-`geely_geely_coolray_2019_ru_168a3ad2` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:general | p:68 | doc_type:owners_manual
 
 ![](images/5064c8e43bc5a0e1c0464baa0e00eecf77c82598310346b6737edf83bc4285ca.webp)
 
@@ -5461,7 +5399,6 @@ SX13-8123a
 
 
 ### Электрический стеклоподъемник 1
-`geely_geely_coolray_2019_ru_00905a08` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:electrical | p:69 | doc_type:owners_manual
 
 Блок предохранителей и реле в моторном отсеке ГЕН.   
 S S WIN WIN Блок ВСМ A M. LR PWL RR PWL LIN1 INHIBIT P INHIBIT SW SGND DRVSW DRVSWW DRV SW 34|P21 12|P20a19|P21a 25|P20a 5|P21 33|P21a 22P21 ∑ W NM C 1CA07 21IP10j 0/ N/M 7/ W 15007d 21S004] λ/M W N 15 |P08a 14 |P08a 18 IP10j 12 |P08a 11|P08а 10 |P08а W VY B 15 S002b14 S002 18 S004 12S002b 11S002b 10 5002b ∑ M 48 S014b 6S014b Ο/ NM λ/M V W W 48 DR01b 6DR01b V λ 2DR05a 4DR05a B+ LIN 95014b 7S014b 13 S014b 16 S014b 17 S014b 18 S014b Электродвигатель вр 9DR01b 7DR01b 13DR01b 16DR01b 17DR01b 18DR01b GND DRV SW IN 1DR05а 3DR05a Ο/л NM λ/M V W M m 5DRO4 2DR04 1DR04 10DRO4 6DR04 8DR04 7DRO4 DRIVER DISABLE DISABLE SW OHTER PWL PASS LR PWL SW RR PWL SW PWLSWW SWINDD SWIN PWL SWW Переключатель стеклоподъемника двери водителя m m DRVNL GND 4DR04 14DR04 m m 49DR01b 49 SO14b m m G16 SX13-8130a
@@ -5499,7 +5436,6 @@ SX13-8133a
 
 
 ### Верхний люк с электроприводом
-`geely_geely_coolray_2019_ru_e7ccb1a8` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:ev | p:70 | doc_type:owners_manual
 
 ![](images/26aa0de40aa7c9760b2e78af703a28f0823bd90163c59991638828d68a3f6d72.webp)
 
@@ -5586,6 +5522,5 @@ SX13-8145a
 
 
 ### Аббревиатуры
-`geely_geely_coolray_2019_ru_a85e4ca3` | geely_coolray_2019 | pdf_manual | tier:2 | lang:ru | layer:general | p:71 | doc_type:owners_manual
 
 ![](images/754fac609adf62c06d21aa87b9f3fe145472ebbb32c8e6747301cca7d531de3b.webp)

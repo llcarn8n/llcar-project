@@ -1,8 +1,12 @@
-# Manual: lexus/nx (763 chunks)
-<!-- doc_type:owners_manual tier:3 lang:en -->
+---
+brand: lexus
+model: nx
+generation: az10_2014
+source: kb
+---
+
 
 ### LEXUS
-`lexus_nx_en_f8d1a7f3` | nx | owners_manual | tier:3 | lang:en | layer:body | p:2
 LEXUS NX300h Owners Manual_USA_M78287_en
 1
 2
@@ -59,7 +63,6 @@ Owners
 Manual_USA_M78287_en
 
 ### TABLE OF CONTENTS
-`lexus_nx_en_6152c664` | nx | owners_manual | tier:3 | lang:en | layer:general | p:3
 LEXUS
 NX300h
 Owners
@@ -107,7 +110,6 @@ Luggage compartment features
 4
 
 ### TABLE OF CONTENTS
-`lexus_nx_en_304261b5` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:5
 LEXUS
 NX300h
 Owners
@@ -135,7 +137,6 @@ Index
 6
 
 ### LEXUS
-`lexus_nx_en_98f1ff6f` | nx | owners_manual | tier:3 | lang:en | layer:general | p:6
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -199,7 +200,6 @@ system
 7
 
 ### LEXUS
-`lexus_nx_en_af3c22b6` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:7
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -271,7 +271,6 @@ Event data recorder
 8
 
 ### LEXUS
-`lexus_nx_en_c87fb3aa` | nx | owners_manual | tier:3 | lang:en | layer:general | p:8
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -336,7 +335,6 @@ Perchlorate Material
 9
 
 ### LEXUS
-`lexus_nx_en_04c3fd97` | nx | owners_manual | tier:3 | lang:en | layer:general | p:9
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -372,7 +370,6 @@ vehicle can be fatal to children.
 10
 
 ### LEXUS
-`lexus_nx_en_7e03e847` | nx | owners_manual | tier:3 | lang:en | layer:general | p:10
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -388,7 +385,6 @@ cause death or serious
 injury to people.
 
 ### NOTICE:
-`lexus_nx_en_6b59f093` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:10
 Explains something that,
 if not obeyed, could
 cause damage to or a
@@ -412,7 +408,6 @@ this, or Do not let this happen.
 11
 
 ### LEXUS
-`lexus_nx_en_7264d1c0` | nx | owners_manual | tier:3 | lang:en | layer:general | p:11
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -447,7 +442,6 @@ J
 17
 Pictorial index
 ### LEXUS
-`lexus_nx_en_71bd5fba` | nx | owners_manual | tier:3 | lang:en | layer:body | p:17
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -474,7 +468,6 @@ B
 Pictorial index
 
 ### LEXUS
-`lexus_nx_en_cf57259d` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:18
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -487,7 +480,6 @@ Talk switch*
 Telephone switches*
 
 ### *: Refer to “NAVIGATION AND MULTIMEDIA SYSTEM OWNER’S MANUAL”.
-`lexus_nx_en_d1551b40` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:18
 EV drive mode switch............................................................................................. P.171
 Driving mode select switch................................................................................ P.248
 VSC off switch..........................................................................................................P.251
@@ -515,7 +507,6 @@ G
 Pictorial index
 
 ### LEXUS
-`lexus_nx_en_355dd589` | nx | owners_manual | tier:3 | lang:en | layer:general | p:19
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -524,7 +515,6 @@ Manual_USA_M78287_en
 Pictorial index
 
 ### LEXUS
-`lexus_nx_en_bc0defab` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:20
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -553,7 +543,6 @@ J
 Pictorial index
 
 ### LEXUS
-`lexus_nx_en_7eed8404` | nx | owners_manual | tier:3 | lang:en | layer:body | p:21
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -583,7 +572,6 @@ Owners
 Manual_USA_M78287_en
 23
 ### LEXUS
-`lexus_nx_en_3d128eec` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:23
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -603,7 +591,6 @@ Hybrid system precautions...... 64
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_065726af` | nx | owners_manual | tier:3 | lang:en | layer:general | p:24
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -658,7 +645,6 @@ not interfere with the floor mat.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_d1c4fe19` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:25
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -677,7 +663,6 @@ with the center of the head restraint
 closest to the top of your ears.
 
 ### (P.27)
-`lexus_nx_en_876af584` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:25
 Make sure that all occupants are wearing their seat belts before driving the
 vehicle. (P.27)
 Use a child restraint system appropriate for the child until the child becomes
@@ -728,7 +713,6 @@ Adjusting the mirrors
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_66651556` | nx | owners_manual | tier:3 | lang:en | layer:general | p:26
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -767,7 +751,6 @@ snug across your hips.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_adeb7ffb` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:27
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -830,7 +813,6 @@ Correct use of the seat belts
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_e3638229` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:28
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -881,7 +863,6 @@ safe on another vehicle, when used by
 another person, or at a different seating position other than the one originally intended.
 
 ### NOTICE
-`lexus_nx_en_96c81d47` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:28
 ■When releasing a seat belt extender
 Press on the buckle release button on the
 extender, not on the seat belt, then,
@@ -897,7 +878,6 @@ A
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_d255ce1c` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:29
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -938,7 +918,6 @@ C
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_e955e4e7` | nx | owners_manual | tier:3 | lang:en | layer:body | p:30
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -982,7 +961,6 @@ B
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_93acbe3e` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:31
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1051,7 +1029,6 @@ Lexus dealer.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_d4c7887a` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:32
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1082,7 +1059,6 @@ E
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_6edeab38` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:33
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1131,7 +1107,6 @@ R
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_2816b2bf` | nx | owners_manual | tier:3 | lang:en | layer:general | p:34
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1164,7 +1139,6 @@ an emergency and helps to dispatch the
 necessary emergency services.
 
 ### (P.304)
-`lexus_nx_en_c38404a7` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:34
 ■SRS airbag deployment conditions (SRS
 front airbags)
 ●The SRS front airbags will deploy in the
@@ -1216,7 +1190,6 @@ the illustration.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_6a375b71` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:35
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1265,7 +1238,6 @@ it is involved in a low-speed side or lowspeed frontal collision.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_0da32642` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:36
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1300,7 +1272,6 @@ scratched, cracked, or otherwise damaged.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_bdb96e22` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:37
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1356,7 +1327,6 @@ instrument panel controls.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_55deaf25` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:38
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1405,7 +1375,6 @@ their head or hands outside the vehicle.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_64dfa748` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:39
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1465,7 +1434,6 @@ deploy in the event of a collision.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_65c9f373` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:40
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1497,7 +1465,6 @@ players
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_19a491de` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:41
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1524,7 +1491,6 @@ F
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_a0f1d32d` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:42
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1537,7 +1503,6 @@ light
 “AIR BAG ON” and “AIR BAG OFF” indicator lights
 
 ### “AIR BAG ON”
-`lexus_nx_en_81978567` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:42
 SRS warning light
 Off
 Front passenger’s seat belt reminder light
@@ -1559,7 +1524,6 @@ light
 “AIR BAG ON” and “AIR BAG OFF” indicator lights
 
 ### “AIR BAG OFF” or
-`lexus_nx_en_dc7e9fa3` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:42
 “AIR BAG ON”*4
 SRS warning light
 Off
@@ -1582,7 +1546,6 @@ Activated
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_4ec9f837` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:43
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1595,7 +1558,6 @@ light
 “AIR BAG ON” and “AIR BAG OFF” indicator lights
 
 ### “AIR BAG OFF” *6
-`lexus_nx_en_75177123` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:43
 SRS warning light
 Off
 Front passenger’s seat belt reminder light
@@ -1618,7 +1580,6 @@ light
 “AIR BAG ON” and “AIR BAG OFF” indicator lights
 
 ### “AIR BAG OFF”
-`lexus_nx_en_a4d03c61` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:43
 SRS warning light
 Off
 Front passenger’s seat belt reminder light
@@ -1639,7 +1600,6 @@ Activated
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_de18a6ac` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:44
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1659,7 +1619,6 @@ light
 “AIR BAG ON” and “AIR BAG OFF” indicator lights
 
 ### “AIR BAG OFF”
-`lexus_nx_en_c7a99de3` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:44
 SRS warning light
 On
 Front passenger’s seat belt reminder light
@@ -1680,7 +1639,6 @@ Activated
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_a2737cca` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:45
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1751,7 +1709,6 @@ the front passenger seat, install the
 child restraint system on the front passenger seat in the proper order.
 
 ### (P.50)
-`lexus_nx_en_79c00744` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:45
 ●Do not modify or remove the front
 seats.
 ●Do not kick the front passenger seat or
@@ -1770,7 +1727,6 @@ seat cushion surface.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_e8761233` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:46
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1792,7 +1748,6 @@ while driving or operating the
 power window accidentally.
 
 ### (P.107, 143)
-`lexus_nx_en_e23cd629` | nx | owners_manual | tier:3 | lang:en | layer:body | p:46
 Do not let small children operate
 equipment which may catch or
 pinch body parts, such as the
@@ -1814,7 +1769,6 @@ inside the vehicle can be fatal to children.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_2655b277` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:47
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1883,7 +1837,6 @@ harness of the child restraint system.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_5dc441e8` | nx | owners_manual | tier:3 | lang:en | layer:general | p:48
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1911,7 +1864,6 @@ vehicle or store it securely in the luggage compartment.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_1382fe49` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:49
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1933,7 +1885,6 @@ Anchor brackets (for
 top tether strap)
 attachment
 ### LEXUS
-`lexus_nx_en_442d8596` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:50
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -1989,7 +1940,6 @@ remove the head restraint.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_b53252b8` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:51
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -2057,7 +2007,6 @@ a seat belt
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_65b979b4` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:52
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -2098,7 +2047,6 @@ restraint. (P.135)
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_ef53f880` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:53
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -2142,7 +2090,6 @@ restraint. (P.135)
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_97eeeb53` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:54
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -2162,7 +2109,6 @@ positioned over the child’s shoulder and
 that the lap belt is as low as possible.
 
 ### (P.27)
-`lexus_nx_en_728454d4` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:54
 ■Removing a child restraint system
 installed with a seat belt
 Press the buckle release button and
@@ -2178,7 +2124,6 @@ slowly return it to the stowing position.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_f7516623` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:55
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -2256,7 +2201,6 @@ a child restraint LATCH anchor
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_a7d181e9` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:56
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -2287,7 +2231,6 @@ A
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_571afcac` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:57
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -2307,14 +2250,12 @@ anchors
 The LATCH system conforms to
 
 ### FMVSS225 or CMVSS210.2.
-`lexus_nx_en_ae44d7ab` | nx | owners_manual | tier:3 | lang:en | layer:general | p:57
 Child restraint systems conforming to
 FMVSS213 or CMVSS213 specifications
 can be used.
 This vehicle is designed to conform to SAE
 
 ### J1819.
-`lexus_nx_en_a3e1071a` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:57
 ■Anchor brackets (for top tether
 strap)
 Anchor brackets are provided for each
@@ -2354,7 +2295,6 @@ tether strap)
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_3161cae7` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:58
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -2413,7 +2353,6 @@ B
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_c894bf3f` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:59
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -2427,7 +2366,6 @@ anchors
 The LATCH system conforms to
 
 ### J1819.
-`lexus_nx_en_40f0f834` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:59
 WARNING
 ■When installing a child restraint system
 Observe the following precautions. Failure to do so may result in death or serious injury.
@@ -2462,7 +2400,6 @@ possible that the child restraint system
 may not be securely fixed.
 
 ### NOTICE
-`lexus_nx_en_e3eb0a7c` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:59
 ■Anchor brackets (for top tether
 strap)
 When not in use, make certain to close
@@ -2472,7 +2409,6 @@ damaged.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_b38a5e7a` | nx | owners_manual | tier:3 | lang:en | layer:general | p:60
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -2520,7 +2456,6 @@ by your Lexus dealer.
 1-2. Hybrid system
 
 ### LEXUS
-`lexus_nx_en_8b5b5c10` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:61
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -2556,7 +2491,6 @@ C
 1-2. Hybrid system
 
 ### LEXUS
-`lexus_nx_en_4f889111` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:62
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -2616,7 +2550,6 @@ hybrid system, contact your Lexus dealer.
 ■Charging the 12-volt battery
 
 ### P.394
-`lexus_nx_en_7991591e` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:62
 ■After the 12-volt battery has discharged
 or when the terminal has been removed
 and installed during exchange, etc.
@@ -2627,7 +2560,6 @@ few days, contact your Lexus dealer.
 1-2. Hybrid system
 
 ### LEXUS
-`lexus_nx_en_1ad7503f` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:63
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -2698,7 +2630,6 @@ system
 1-2. Hybrid system
 
 ### LEXUS
-`lexus_nx_en_faa9f079` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:64
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -2734,7 +2665,6 @@ H
 1-2. Hybrid system
 
 ### LEXUS
-`lexus_nx_en_83139474` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:65
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -2809,7 +2739,6 @@ small amount of water may be dangerous.
 1-2. Hybrid system
 
 ### LEXUS
-`lexus_nx_en_017d25e1` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:66
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -2875,7 +2804,6 @@ that can result in death or serious
 injury.
 
 ### NOTICE
-`lexus_nx_en_59a584e4` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:66
 ■Hybrid battery (traction battery)
 Do not carry large amounts of water
 such as water cooler bottles in the vehicle. If water spills onto the hybrid battery
@@ -2889,7 +2817,6 @@ vents
 1-2. Hybrid system
 
 ### LEXUS
-`lexus_nx_en_18720a7d` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:67
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -2913,7 +2840,6 @@ multi-information display, read the
 message and follow the instructions.
 
 ### NOTICE
-`lexus_nx_en_129e5410` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:67
 ■Hybrid battery (traction battery) air
 intake and discharge vents
 ●Do not place objects that will block the
@@ -2948,7 +2874,6 @@ Hybrid warning message
 1-2. Hybrid system
 
 ### LEXUS
-`lexus_nx_en_a4c534cd` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:68
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -2961,7 +2886,6 @@ case, try to start the system again. If the
 1-3. Theft deterrent system
 
 ### LEXUS
-`lexus_nx_en_6136f4e1` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:69
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -2999,7 +2923,6 @@ Operating the system
 1-3. Theft deterrent system
 
 ### LEXUS
-`lexus_nx_en_7ee54ea7` | nx | owners_manual | tier:3 | lang:en | layer:general | p:70
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -3012,7 +2935,6 @@ approved by the party responsible for
 compliance could void the user’s authority to operate the equipment.
 
 ### NOTICE
-`lexus_nx_en_c8a2477d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:70
 ■To ensure the system operates correctly
 Do not modify or remove the system. If
 modified or removed, the proper operation of the system cannot be guaranteed.
@@ -3020,7 +2942,6 @@ modified or removed, the proper operation of the system cannot be guaranteed.
 1-3. Theft deterrent system
 
 ### LEXUS
-`lexus_nx_en_90254229` | nx | owners_manual | tier:3 | lang:en | layer:body | p:71
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -3065,7 +2986,6 @@ inside lock button.
 replaced when the vehicle is locked.
 
 ### (P.394)
-`lexus_nx_en_eb46ac0f` | nx | owners_manual | tier:3 | lang:en | layer:body | p:71
 Alarm
 The alarm uses light and sound to
 give an alert when an intrusion is
@@ -3084,7 +3004,6 @@ alarm system
 1-3. Theft deterrent system
 
 ### LEXUS
-`lexus_nx_en_e2fd74fe` | nx | owners_manual | tier:3 | lang:en | layer:body | p:72
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -3099,14 +3018,12 @@ remaining in the vehicle unlocks the door.
 battery.
 
 ### NOTICE
-`lexus_nx_en_c13e31ce` | nx | owners_manual | tier:3 | lang:en | layer:general | p:72
 ■To ensure the system operates correctly
 Do not modify or remove the system. If
 modified or removed, the proper operation of the system cannot be guaranteed.
 73
 
 ### LEXUS
-`lexus_nx_en_080df7bd` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:73
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -3123,7 +3040,6 @@ Energy monitor/fuel consumption
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_0752876f` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:74
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -3139,7 +3055,6 @@ Instrument cluster
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_1fd71c76` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:75
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -3153,13 +3068,11 @@ switch is turned to ON mode to indiWarning lights
 (Canada)
 Brake system warning light*1
 ### (P.367)
-`lexus_nx_en_33960489` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:75
 Charging system warning
 light*2 (P.367)
 Output control warning light*2
 
 ### (P.367, 377)
-`lexus_nx_en_9634dac5` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:75
 Low engine oil pressure warning light*2 (P.368)
 High coolant temperature
 warning light*2 (P.368)
@@ -3172,7 +3085,6 @@ Malfunction indicator lamp*1
 (Canada)
 Malfunction indicator lamp*1
 ### (U.S.A.)
-`lexus_nx_en_040046b7` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:75
 ABS warning light*1 (P.369)
 (Canada)
 ABS warning light*1 (P.369)
@@ -3187,25 +3099,21 @@ LDA indicator*2 (P.370)
 PKSB OFF indicator*1, 3
 
 ### (P.370)
-`lexus_nx_en_1362bf4e` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:75
 Slip indicator light*1 (P.370)
 Brake hold operated indicator*1, 3 (P.370)
 
 (Canada)
 Parking brake indicator*3
 ### (P.371)
-`lexus_nx_en_75d27b6b` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:75
 Driver’s and front passenger’s
 seat belt reminder light
 
 ### (P.371)
-`lexus_nx_en_ca3bb999` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:75
 Rear passengers’ seat belt
 reminder light*4 (P.372)
 Master warning light*1
 
 ### (P.372)
-`lexus_nx_en_e9d0bc8e` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:75
 Brake Override System/
 Drive-Start Control warning
 light*2 (P.373)
@@ -3213,7 +3121,6 @@ light*2 (P.373)
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_d44590b9` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:76
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -3244,14 +3151,12 @@ Indicators
 Turn signal indicator (P.176)
 
 ### (U.S.A.)
-`lexus_nx_en_44145d44` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:76
 Headlight indicator (P.182)
 (Canada)
 Tail light indicator (P.182)
 Headlight high beam indicator
 
 ### (P.184)
-`lexus_nx_en_035cedb2` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:76
 Automatic High Beam indicator (P.185)
 Fog light indicator (P.188)
 “READY” indicator (P.168)
@@ -3259,7 +3164,6 @@ EV indicator (P.62)
 EV drive mode indicator*2
 
 ### (P.171)
-`lexus_nx_en_11f6f101` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:76
 “Eco” indicator*2 (P.248)
 “Sport” indicator*2 (P.248)
 Dynamic radar cruise control
@@ -3268,14 +3172,12 @@ Cruise control “SET” indicator*2 (P.217)
 Cruise control indicator*2
 
 ### (P.223)
-`lexus_nx_en_ee6f27ca` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:76
 (White)
 LDA indicator*2 (P.212)
 77
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_c35adf6b` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:77
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -3326,7 +3228,6 @@ Parking brake indicator
 (Canada)
 Parking brake indicator
 ### (P.179)
-`lexus_nx_en_cabc3bb1` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:77
 Brake hold operated indicator*1 (P.179)
 Low outside temperature indicator*2, 5 (P.79)
 (if equipped)
@@ -3336,7 +3237,6 @@ Security indicator*8 (P.69,
 71)
 
 ### (U.S.A.)
-`lexus_nx_en_1c72099a` | nx | owners_manual | tier:3 | lang:en | layer:general | p:77
 “AIR BAG ON/OFF” indicator*8 (P.41)
 (Canada)
 “AIR BAG ON/OFF” indicator*8 (P.41)
@@ -3344,7 +3244,6 @@ Security indicator*8 (P.69,
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_aa162c01` | nx | owners_manual | tier:3 | lang:en | layer:body | p:78
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -3357,7 +3256,6 @@ panel.
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_2656f90d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:79
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -3395,7 +3293,6 @@ F
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_a461cc42` | nx | owners_manual | tier:3 | lang:en | layer:general | p:80
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -3436,7 +3333,6 @@ C
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_6d19562b` | nx | owners_manual | tier:3 | lang:en | layer:general | p:81
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -3482,7 +3378,6 @@ J
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_b2ec6955` | nx | owners_manual | tier:3 | lang:en | layer:general | p:82
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -3557,7 +3452,6 @@ D
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_9e58e68b` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:83
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -3600,7 +3494,6 @@ causing rapid and excessive engine braking and possibly an accident resulting in
 personal death or injury.
 
 ### NOTICE
-`lexus_nx_en_4f28ee55` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:83
 ■To prevent damage to the engine and
 its components
 ●When the tachometer is displayed, do
@@ -3615,7 +3508,6 @@ and check the engine or hybrid system
 after it has cooled completely.
 
 ### (P.396)
-`lexus_nx_en_2e7573a7` | nx | owners_manual | tier:3 | lang:en | layer:body | p:83
 Changing between the odometer, trip meter and maintenance
 required information
 Changing the Instrument panel
@@ -3624,7 +3516,6 @@ light brightness
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_fcf27077` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:84
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -3633,7 +3524,6 @@ Manual_USA_M78287_en
 ■Liquid crystal display
 
 ### P.82
-`lexus_nx_en_af536dff` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:84
 The multi-information display is operated using the meter control switches.
 Select an item/change pages
 Enter/set
@@ -3660,7 +3550,6 @@ Driving assist system information (P.86)
 Warning message display
 
 ### NOTICE
-`lexus_nx_en_9778312c` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:84
 ■The multi-information display at low
 temperatures
 Allow the interior of the vehicle to warm
@@ -3676,7 +3565,6 @@ D
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_465cbc5d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:85
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -3734,7 +3622,6 @@ appear.
 ■Energy monitor
 
 ### P.93
-`lexus_nx_en_469dcb24` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:85
 ■Speedometer
 Displays the vehicle speed.
 ■Tire inflation pressure
@@ -3757,7 +3644,6 @@ Drive information
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_2dbbbdba` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:86
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -3826,7 +3712,6 @@ Settings display
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_745a2558` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:87
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -3839,7 +3724,6 @@ Select to set the vehicle sway warning sensitivity.
 PCS (Pre-Collision System)
 
 ### (P.202)
-`lexus_nx_en_6d7adab1` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:87
 Select to set up the following items.
 PCS on/off
 Select to enable/disable the pre-collision
@@ -3860,7 +3744,6 @@ PKSB (Parking Support
 Brake System) (if equipped)
 
 ### (P.232)
-`lexus_nx_en_fa50e504` | nx | owners_manual | tier:3 | lang:en | layer:body | p:87
 PKSB on/off
 Select to enable/disable the parking support brake function (for static objects).
 ■Clock
@@ -3870,7 +3753,6 @@ Select to switch between 12-hour display and 24-hour display.
 PBD (Power Back Door)
 
 ### (P.108)*1
-`lexus_nx_en_640a0d1f` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:87
 Select to set up the following items.
 • System settings
 Select to enable/disable the power back
@@ -3908,7 +3790,6 @@ Switch settings (P.84)
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_4ed26c28` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:88
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -3958,7 +3839,6 @@ collect and enter the vehicle. This may
 lead to death or a serious health hazard.
 
 ### NOTICE
-`lexus_nx_en_5fb91283` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:88
 ■During setting up the display
 To prevent 12-volt battery discharge,
 ensure that the hybrid system is operating while setting up the display features.
@@ -3968,7 +3848,6 @@ equipped)
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_3bc77985` | nx | owners_manual | tier:3 | lang:en | layer:general | p:89
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -4031,14 +3910,12 @@ NX300h
 Owners
 Manual_USA_M78287_en
 ### U.S.A.
-`lexus_nx_en_d0a31aba` | nx | owners_manual | tier:3 | lang:en | layer:general | p:90
 OFFON (MPH)ON (km/
 h)OFF
 Canada
 OFFON (km/h)ON
 
 ### (MPH)OFF
-`lexus_nx_en_650032a6` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:90
 ■“DISP” button
 Pressing the button changes the display items
 (except vehicle speed) as
@@ -4075,7 +3952,6 @@ the vehicle. This may lead to death or a
 serious health hazard.
 
 ### NOTICE
-`lexus_nx_en_76aceeb5` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:90
 ■To prevent damage to components
 ●Do not place any drinks near the headup display projector. If the projector
 gets wet, electrical malfunctions may
@@ -4086,7 +3962,6 @@ Doing so could interrupt head-up display indications.
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_555cc730` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:91
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -4119,7 +3994,6 @@ being exceeded (during full power driving,
 etc.)
 
 ### NOTICE
-`lexus_nx_en_13bdf87b` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:91
 ●Do not touch the inside of the head-up
 display projector or thrust sharp edges
 or the like into the projector.
@@ -4139,7 +4013,6 @@ D
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_bac3c45f` | nx | owners_manual | tier:3 | lang:en | layer:general | p:92
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -4187,7 +4060,6 @@ Display customization
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_04da889a` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:93
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -4226,7 +4098,6 @@ Energy monitor
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_6aa64bdf` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:94
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -4247,7 +4118,6 @@ Multi-information display
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_ee8a56d7` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:95
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -4299,7 +4169,6 @@ F
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_f893d1a4` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:96
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -4369,7 +4238,6 @@ with navigation system)
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_75da2376` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:97
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -4397,7 +4265,6 @@ and energy recovery states.
 Displayed content is the same as that displayed on the multi-information display.
 
 ### (P.93)
-`lexus_nx_en_62adf76e` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:97
 The image is an example only, and may
 vary slightly from actual conditions.
 98
@@ -4408,7 +4275,6 @@ Owners
 Manual_USA_M78287_en
 99
 ### LEXUS
-`lexus_nx_en_00eb2a9f` | nx | owners_manual | tier:3 | lang:en | layer:body | p:99
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -4431,7 +4297,6 @@ and moon roof
 3-1. Key information
 
 ### LEXUS
-`lexus_nx_en_a5cfc0d8` | nx | owners_manual | tier:3 | lang:en | layer:general | p:100
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -4499,7 +4364,6 @@ D
 3-1. Key information
 
 ### LEXUS
-`lexus_nx_en_b0d7a53f` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:101
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -4516,7 +4380,6 @@ phones
 ■Replacing the battery
 
 ### P.349
-`lexus_nx_en_593a0cc2` | nx | owners_manual | tier:3 | lang:en | layer:body | p:101
 ■Confirmation of the registered key
 number
 The number of keys already registered to
@@ -4525,7 +4388,6 @@ Lexus dealer for details.
 The electronic keys are equipped with
 
 ### NOTICE
-`lexus_nx_en_fa82dae8` | nx | owners_manual | tier:3 | lang:en | layer:body | p:101
 ■To prevent key damage
 ●Do not drop the keys, subject them to
 strong shocks or bend them.
@@ -4557,7 +4419,6 @@ other key related problems
 
 ■When an electronic key is lost
 ### P.388
-`lexus_nx_en_1ceffea1` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:101
 ■Handling the card key
 ●If the battery or card key terminals get
 wet, the battery may corrode and the
@@ -4597,7 +4458,6 @@ Wireless remote control
 3-1. Key information
 
 ### LEXUS
-`lexus_nx_en_2efa35ec` | nx | owners_manual | tier:3 | lang:en | layer:body | p:102
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -4648,7 +4508,6 @@ entry function does not operate properly,
 you will need the mechanical key.
 
 ### (P.389)
-`lexus_nx_en_27b95c07` | nx | owners_manual | tier:3 | lang:en | layer:body | p:102
 A
 B
 C
@@ -4659,7 +4518,6 @@ Using the mechanical key
 3-1. Key information
 
 ### LEXUS
-`lexus_nx_en_712f34d4` | nx | owners_manual | tier:3 | lang:en | layer:general | p:103
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -4674,7 +4532,6 @@ use and provide the attendant with the electronic key only.
 ■If you lose your mechanical keys
 
 ### P.388
-`lexus_nx_en_4a406dcb` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:103
 ■If a wrong key is used
 The key cylinder rotates freely to isolate
 inside mechanism.
@@ -4688,7 +4545,6 @@ key, insert it while pressing the release
 button.
 
 ### NOTICE
-`lexus_nx_en_a063e810` | nx | owners_manual | tier:3 | lang:en | layer:body | p:103
 ■Handling the card key
 Do not apply excess force when inserting
 the mechanical key into the card key.
@@ -4697,7 +4553,6 @@ Doing so may damage the card key.
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_72160fdf` | nx | owners_manual | tier:3 | lang:en | layer:body | p:104
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -4759,7 +4614,6 @@ from the outside
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_8836bd2e` | nx | owners_manual | tier:3 | lang:en | layer:general | p:105
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -4846,7 +4700,6 @@ doors.
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_edbe9789` | nx | owners_manual | tier:3 | lang:en | layer:body | p:106
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -4859,12 +4712,10 @@ door to stop the buzzer, and lock the vehicle once more.
 Locking the doors will set the alarm system.
 
 ### (P.71)
-`lexus_nx_en_8361591c` | nx | owners_manual | tier:3 | lang:en | layer:general | p:106
 ■Conditions affecting the operation of
 the smart access system with push-button start or wireless remote control
 
 ### P.121
-`lexus_nx_en_83252e13` | nx | owners_manual | tier:3 | lang:en | layer:body | p:106
 ■If the smart access system with pushbutton start or the wireless remote control does not operate properly
 ●Use the mechanical key to lock and
 unlock the doors. (P.389)
@@ -4918,7 +4769,6 @@ from the inside
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_69868882` | nx | owners_manual | tier:3 | lang:en | layer:general | p:107
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -4947,7 +4797,6 @@ The following functions can be set or canceled:
 For instructions on customizing, refer to
 
 ### P.422.
-`lexus_nx_en_a52fbc48` | nx | owners_manual | tier:3 | lang:en | layer:body | p:107
 Function
 Operation
 Speed linked door
@@ -4978,7 +4827,6 @@ opened.
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_0ca17208` | nx | owners_manual | tier:3 | lang:en | layer:general | p:108
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -5058,7 +4906,6 @@ compartment.
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_c545c28b` | nx | owners_manual | tier:3 | lang:en | layer:body | p:109
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -5075,7 +4922,6 @@ The doors cannot be unlocked for 3 seconds after the doors are locked.
 ■Wireless remote control
 
 ### P.106
-`lexus_nx_en_f0dd4e1b` | nx | owners_manual | tier:3 | lang:en | layer:suspension | p:109
 ■Open
 Raise the back door while pressing up
 the back door opener switch.
@@ -5121,7 +4967,6 @@ door)
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_196f8011` | nx | owners_manual | tier:3 | lang:en | layer:body | p:110
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -5149,7 +4994,6 @@ shown in the illustration.
 Move the lever.
 
 ### NOTICE
-`lexus_nx_en_1ba898c7` | nx | owners_manual | tier:3 | lang:en | layer:suspension | p:110
 ■Back door damper stays
 The back door is equipped with damper
 stays
@@ -5175,7 +5019,6 @@ A
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_0d15ed50` | nx | owners_manual | tier:3 | lang:en | layer:general | p:111
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -5228,7 +5071,6 @@ Opening/closing the back door
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_146e02ce` | nx | owners_manual | tier:3 | lang:en | layer:body | p:112
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -5293,7 +5135,6 @@ A
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_5fb76681` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:113
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -5390,7 +5231,6 @@ the vehicle.
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_676e7a25` | nx | owners_manual | tier:3 | lang:en | layer:body | p:114
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -5433,7 +5273,6 @@ interferes with the communication
 between the vehicle and electronic key
 
 ### (P.121)
-`lexus_nx_en_4afd73f8` | nx | owners_manual | tier:3 | lang:en | layer:body | p:114
 ●When a large amount of water is kept
 applying to the lower center part of the
 rear bumper, such as in heavy rain
@@ -5477,7 +5316,6 @@ shown in the illustration.
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_90c6fbba` | nx | owners_manual | tier:3 | lang:en | layer:general | p:115
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -5546,7 +5384,6 @@ automatic operation
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_31ad8de2` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:116
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -5592,7 +5429,6 @@ back door if there is little space under
 the rear bumper.
 
 ### NOTICE
-`lexus_nx_en_b6d42050` | nx | owners_manual | tier:3 | lang:en | layer:body | p:116
 ■Back door spindles
 The back door is equipped with spindles
 that hold the back door in place.
@@ -5628,7 +5464,6 @@ A
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_52d13e72` | nx | owners_manual | tier:3 | lang:en | layer:general | p:117
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -5639,7 +5474,6 @@ switched between by the
 
 of the multi-information display.
 ### NOTICE
-`lexus_nx_en_fb9a5a56` | nx | owners_manual | tier:3 | lang:en | layer:body | p:117
 ●Do not apply excessive force to the
 back door while the power back door
 is operating.
@@ -5721,7 +5555,6 @@ back door)
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_f55a6be6` | nx | owners_manual | tier:3 | lang:en | layer:general | p:118
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -5759,7 +5592,6 @@ ON (enable) and OFF (disable) can be
 switched between by the
 
 ### (P.84)
-`lexus_nx_en_edee0c40` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:118
 of the multi-information display.
 1
 Press
@@ -5800,7 +5632,6 @@ power back door)
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_85d681b7` | nx | owners_manual | tier:3 | lang:en | layer:general | p:119
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -5833,7 +5664,6 @@ The opening position can be set with the
 navigation system or multimedia system.
 
 ### (P.428)
-`lexus_nx_en_f759df3b` | nx | owners_manual | tier:3 | lang:en | layer:body | p:119
 Priority for the stop position is given to the
 last position set by either the
 switch,
@@ -5842,7 +5672,6 @@ navigation system or multimedia system.
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_77d69690` | nx | owners_manual | tier:3 | lang:en | layer:body | p:120
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -5890,7 +5719,6 @@ always carry the electronic key.
 
 Starts and stops the hybrid system
 ### (P.168, 170)
-`lexus_nx_en_c2ce91c6` | nx | owners_manual | tier:3 | lang:en | layer:body | p:120
 A
 B
 C
@@ -5910,7 +5738,6 @@ B
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_8d186c54` | nx | owners_manual | tier:3 | lang:en | layer:general | p:121
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -5961,7 +5788,6 @@ access system with push-button start, wireless remote control and immobilizer sy
 from operating properly. (Ways of coping:
 
 ### P.389)
-`lexus_nx_en_2edb5c4d` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:121
 ●When the electronic key battery is
 depleted
 ●Near a TV tower, electric power plant,
@@ -5987,7 +5813,6 @@ The power switch
 was turned to
 
 ### ACCESSORY
-`lexus_nx_en_de846013` | nx | owners_manual | tier:3 | lang:en | layer:body | p:121
 mode while the
 driver’s door was
 open (The driver’s
@@ -5996,7 +5821,6 @@ when the power
 switch was in
 
 ### ACCESSORY
-`lexus_nx_en_ffec54dd` | nx | owners_manual | tier:3 | lang:en | layer:body | p:121
 mode).
 Turn the power
 switch off and close
@@ -6005,7 +5829,6 @@ the driver’s door.
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_2a9f3ee1` | nx | owners_manual | tier:3 | lang:en | layer:body | p:122
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -6111,7 +5934,6 @@ detection area, it may take slightly longer
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_36a32297` | nx | owners_manual | tier:3 | lang:en | layer:body | p:123
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -6157,7 +5979,6 @@ power switch modes: P.390
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_7239d032` | nx | owners_manual | tier:3 | lang:en | layer:body | p:124
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -6166,7 +5987,6 @@ Manual_USA_M78287_en
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_e84f2bde` | nx | owners_manual | tier:3 | lang:en | layer:general | p:125
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -6182,7 +6002,6 @@ away from the smart access system
 with push-button start antennas.
 
 ### (P.120)
-`lexus_nx_en_4259b6f8` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:125
 The radio waves may affect the operation of such devices. If necessary, the
 entry function can be disabled. Ask
 your Lexus dealer for details, such as
@@ -6202,7 +6021,6 @@ Ask your Lexus dealer for details on disabling the entry function.
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_673a4fd9` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:126
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -6255,7 +6073,6 @@ of the vehicle.
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_990979cd` | nx | owners_manual | tier:3 | lang:en | layer:general | p:127
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -6301,7 +6118,6 @@ A
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_49f8c657` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:128
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -6359,7 +6175,6 @@ Folding down the rear seatbacks
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_483c8d82` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:129
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -6396,7 +6211,6 @@ stopping position of the seatback)
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_9af9aaa2` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:130
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -6457,7 +6271,6 @@ A
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_2e68d1c0` | nx | owners_manual | tier:3 | lang:en | layer:general | p:131
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -6509,7 +6322,6 @@ object that is caught. Be careful not to
 catch fingers or anything else.
 
 ### NOTICE
-`lexus_nx_en_ddbddba5` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:131
 ■Stowing the seat belts
 The seat belts and the buckles for the
 rear center seat, as well as the armrest,
@@ -6519,7 +6331,6 @@ rear seatbacks. (P.30)
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_563dfc6a` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:132
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -6578,7 +6389,6 @@ memory
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_ace07188` | nx | owners_manual | tier:3 | lang:en | layer:general | p:133
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -6588,7 +6398,6 @@ will be overwritten.
 ■Seat positions that can be memorized
 
 ### (P.126)
-`lexus_nx_en_0412165f` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:133
 The adjusted positions other than the position adjusted by lumbar support switch can
 be recorded.
 ■In order to correctly use the driving
@@ -6641,7 +6450,6 @@ key (memory recall function)
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_00735401` | nx | owners_manual | tier:3 | lang:en | layer:body | p:134
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -6709,7 +6517,6 @@ recall function can be customized. (Customizable features: P.421)
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_a84a85bf` | nx | owners_manual | tier:3 | lang:en | layer:general | p:135
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -6769,7 +6576,6 @@ A
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_4dde7e8c` | nx | owners_manual | tier:3 | lang:en | layer:body | p:136
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -6783,7 +6589,6 @@ A
 3-4. Adjusting the steering wheel and mirrors
 
 ### LEXUS
-`lexus_nx_en_f3c59262` | nx | owners_manual | tier:3 | lang:en | layer:general | p:137
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -6818,7 +6623,6 @@ to memory and recalled automatically by
 the driving position memory system.
 
 ### (P.132)
-`lexus_nx_en_6887451b` | nx | owners_manual | tier:3 | lang:en | layer:body | p:137
 ■Power easy access system (if equipped)
 The steering wheel and driver’s seat move
 in accordance with power switch mode and
@@ -6835,7 +6639,6 @@ Adjustment procedure
 3-4. Adjusting the steering wheel and mirrors
 
 ### LEXUS
-`lexus_nx_en_39231463` | nx | owners_manual | tier:3 | lang:en | layer:general | p:138
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -6882,7 +6685,6 @@ Anti-glare function
 3-4. Adjusting the steering wheel and mirrors
 
 ### LEXUS
-`lexus_nx_en_f7874746` | nx | owners_manual | tier:3 | lang:en | layer:general | p:139
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -6920,7 +6722,6 @@ A
 3-4. Adjusting the steering wheel and mirrors
 
 ### LEXUS
-`lexus_nx_en_95ff6446` | nx | owners_manual | tier:3 | lang:en | layer:body | p:140
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -6945,7 +6746,6 @@ the rear window defogger to turn on the
 outside rear view mirror defoggers.
 
 ### (P.267)
-`lexus_nx_en_34da2d1e` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:140
 ■Auto anti-glare function
 When the anti-glare inside rear view mirror
 is set to automatic mode, the outside rear
@@ -6991,7 +6791,6 @@ D
 3-4. Adjusting the steering wheel and mirrors
 
 ### LEXUS
-`lexus_nx_en_7d4c767e` | nx | owners_manual | tier:3 | lang:en | layer:general | p:141
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -7047,7 +6846,6 @@ caught by the moving mirror.
 3-5. Opening, closing the windows and moon roof
 
 ### LEXUS
-`lexus_nx_en_7259f96b` | nx | owners_manual | tier:3 | lang:en | layer:body | p:142
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -7133,7 +6931,6 @@ windows
 3-5. Opening, closing the windows and moon roof
 
 ### LEXUS
-`lexus_nx_en_fed594a6` | nx | owners_manual | tier:3 | lang:en | layer:body | p:143
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -7146,7 +6943,6 @@ inspected by your Lexus dealer.
 closed using the mechanical key.*
 
 ### (P.390)
-`lexus_nx_en_f6507f16` | nx | owners_manual | tier:3 | lang:en | layer:body | p:143
 ●The power windows can be opened using
 the wireless remote control.* (P.104)
 *: These settings must be customized at
@@ -7221,7 +7017,6 @@ Preventing accidental operation
 3-5. Opening, closing the windows and moon roof
 
 ### LEXUS
-`lexus_nx_en_1efdf205` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:144
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -7254,7 +7049,6 @@ Operation instructions
 3-5. Opening, closing the windows and moon roof
 
 ### LEXUS
-`lexus_nx_en_e98c5728` | nx | owners_manual | tier:3 | lang:en | layer:general | p:145
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -7347,7 +7141,6 @@ that the moon roof opens and completely
 3-5. Opening, closing the windows and moon roof
 
 ### LEXUS
-`lexus_nx_en_0d096cbf` | nx | owners_manual | tier:3 | lang:en | layer:general | p:146
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -7404,7 +7197,6 @@ with the moon roof open.
 closed using the mechanical key.*
 
 ### (P.390)
-`lexus_nx_en_285cd3cc` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:146
 ●The moon roof can be opened using the
 wireless remote control.* (P.104)
 *: These settings must be customized at
@@ -7444,7 +7236,6 @@ intentionally activate the jam protection function.
 3-5. Opening, closing the windows and moon roof
 
 ### LEXUS
-`lexus_nx_en_58c3a632` | nx | owners_manual | tier:3 | lang:en | layer:general | p:147
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -7467,7 +7258,6 @@ Owners
 Manual_USA_M78287_en
 149
 ### LEXUS
-`lexus_nx_en_ce5ac215` | nx | owners_manual | tier:3 | lang:en | layer:general | p:149
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -7504,7 +7294,6 @@ Utility vehicle precautions.....258
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_339600ab` | nx | owners_manual | tier:3 | lang:en | layer:general | p:150
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -7512,7 +7301,6 @@ Manual_USA_M78287_en
 ■Starting the hybrid system
 
 ### P.168
-`lexus_nx_en_293190c4` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:150
 ■Driving
 1
 With the brake pedal depressed,
@@ -7520,7 +7308,6 @@ shift the shift lever to D. (P.173)
 2 Release the parking brake.
 
 ### (P.178)
-`lexus_nx_en_4dae742c` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:150
 If the parking brake is in automatic mode,
 the parking brake is released automatically
 when shifting the shift lever to any position
@@ -7535,7 +7322,6 @@ brake pedal.
 2 If necessary, set the parking brake.
 
 ### (P.178)
-`lexus_nx_en_d7f8071f` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:150
 If the vehicle is to be stopped for an
 extended period of time, shift the shift lever
 to P. (P.173)
@@ -7547,7 +7333,6 @@ brake pedal.
 and shift the shift lever to P
 
 ### (P.173).
-`lexus_nx_en_3e25d042` | nx | owners_manual | tier:3 | lang:en | layer:body | p:150
 3 Press the power switch to stop the
 hybrid system.
 4 Lock the door, making sure that you
@@ -7563,7 +7348,6 @@ shift the shift lever to D. (P.173)
 parking brake is set manually.
 
 ### (P.178)
-`lexus_nx_en_8b640914` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:150
 3 Release the brake pedal and gently
 depress the accelerator pedal to
 accelerate the vehicle.
@@ -7571,12 +7355,10 @@ accelerate the vehicle.
 parking brake is released manually.
 
 ### (P.178)
-`lexus_nx_en_7c6564be` | nx | owners_manual | tier:3 | lang:en | layer:general | p:150
 ■When starting off on an uphill
 The hill-start assist control will activate.
 
 ### (P.250)
-`lexus_nx_en_b03b4263` | nx | owners_manual | tier:3 | lang:en | layer:general | p:150
 ■For fuel-efficient driving
 Keep in mind that hybrid vehicles are similar
 to conventional vehicles, and it is necessary
@@ -7602,7 +7384,6 @@ Driving procedure
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_7f6c2340` | nx | owners_manual | tier:3 | lang:en | layer:general | p:151
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -7656,7 +7437,6 @@ correct fuel. (P.410)
 ■Eco-friendly driving
 
 ### P.82
-`lexus_nx_en_ec686b97` | nx | owners_manual | tier:3 | lang:en | layer:general | p:151
 WARNING
 Observe the following precautions.
 Failure to do so may result in death or
@@ -7697,7 +7477,6 @@ the vehicle’s movement.
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_3ae0d552` | nx | owners_manual | tier:3 | lang:en | layer:general | p:152
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -7781,7 +7560,6 @@ and may result in a loss of vehicle control.
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_55d76c16` | nx | owners_manual | tier:3 | lang:en | layer:general | p:153
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -7869,7 +7647,6 @@ glass to act as a lens, causing a fire.
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_1eb4b999` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:154
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -7925,7 +7702,6 @@ propel the vehicle forward or backward,
 causing an accident.
 
 ### NOTICE
-`lexus_nx_en_f98e0142` | nx | owners_manual | tier:3 | lang:en | layer:general | p:154
 ■When driving the vehicle
 ●Do not depress the accelerator and
 brake pedals at the same time during
@@ -7959,7 +7735,6 @@ Manual_USA_M78287_en
 4
 Driving
 ### NOTICE
-`lexus_nx_en_599a8149` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:155
 ●The vehicle will make abnormal
 sounds or vibrations.
 ●The vehicle will lean abnormally.
@@ -8026,7 +7801,6 @@ the following locations.
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_f992ec14` | nx | owners_manual | tier:3 | lang:en | layer:general | p:156
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -8065,7 +7839,6 @@ this manual to determine how this
 reduces the available cargo and luggage load capacity of your vehicle.
 
 ### (P.158)
-`lexus_nx_en_abb42306` | nx | owners_manual | tier:3 | lang:en | layer:general | p:156
 Vehicles without towing package:
 Lexus does not recommend towing a
 WARNING
@@ -8097,7 +7870,6 @@ place.
 weight on the roof luggage carrier.
 
 ### NOTICE
-`lexus_nx_en_6134a038` | nx | owners_manual | tier:3 | lang:en | layer:general | p:156
 ■When loading cargo (vehicles with
 moon roof)
 Do not set luggage on the moon roof.
@@ -8108,7 +7880,6 @@ Capacity and distribution
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_477b53b3` | nx | owners_manual | tier:3 | lang:en | layer:general | p:157
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -8165,14 +7936,12 @@ B
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_4c446ca9` | nx | owners_manual | tier:3 | lang:en | layer:general | p:158
 NX300h
 Owners
 Manual_USA_M78287_en
 ■Total load capacity (vehicle capacity weight):
 
 ### P.402
-`lexus_nx_en_9aaaa72d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:158
 Total load capacity means the combined weight of occupants, cargo and
 luggage.
 ■Seating capacity: 5 occupants
@@ -8183,7 +7952,6 @@ kg) per person.
 ■TWR (Trailer Weight Rating) (vehicles with towing package):
 
 ### P.163, 402
-`lexus_nx_en_3ff8807e` | nx | owners_manual | tier:3 | lang:en | layer:general | p:158
 TWR means the maximum gross trailer
 weight (trailer weight plus its cargo
 weight) that your vehicle is able to tow.
@@ -8212,7 +7980,6 @@ ability, resulting in an accident.
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_595c9d74` | nx | owners_manual | tier:3 | lang:en | layer:general | p:159
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -8284,7 +8051,6 @@ B
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_25a57f34` | nx | owners_manual | tier:3 | lang:en | layer:general | p:160
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -8354,7 +8120,6 @@ when towing a trailer.
 ●Do not exceed the TWR, unbraked
 
 ### TWR, GCWR, GVWR or GAWR.
-`lexus_nx_en_834ce9f9` | nx | owners_manual | tier:3 | lang:en | layer:general | p:160
 ●Adjust the tongue weight within the
 appropriate range. Place heavier loads
 as close to the trailer axle as possible.
@@ -8382,7 +8147,6 @@ capacities.
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_8d0a32b5` | nx | owners_manual | tier:3 | lang:en | layer:general | p:161
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -8441,7 +8205,6 @@ occurs to the coupling unit or hitch
 ball, there is danger of the trailer wandering into another lane.
 
 ### NOTICE
-`lexus_nx_en_b2d8b142` | nx | owners_manual | tier:3 | lang:en | layer:body | p:161
 ■When installing a trailer hitch
 Use only the position recommended by
 your Lexus dealer. Do not install the
@@ -8456,7 +8219,6 @@ Towing related terms
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_4b5fbf90` | nx | owners_manual | tier:3 | lang:en | layer:general | p:162
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -8497,7 +8259,6 @@ A
 163
 4-1. Before driving
 ### LEXUS
-`lexus_nx_en_029da1e5` | nx | owners_manual | tier:3 | lang:en | layer:general | p:163
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -8520,7 +8281,6 @@ gross combination weight, gross vehicle weight, gross axle weight and
 tongue weight are all within the limits.
 
 ### ■TWR*
-`lexus_nx_en_f46cac69` | nx | owners_manual | tier:3 | lang:en | layer:general | p:163
 1500 lb. (685 kg).
 ■Unbraked TWR*
 1000 lb. (450 kg)
@@ -8551,7 +8311,6 @@ Trailer Tongue Weight
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_a6f326ef` | nx | owners_manual | tier:3 | lang:en | layer:general | p:164
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -8611,7 +8370,6 @@ B
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_bcc8a142` | nx | owners_manual | tier:3 | lang:en | layer:general | p:165
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -8687,14 +8445,12 @@ Trailer towing tips
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_a0a1f7b8` | nx | owners_manual | tier:3 | lang:en | layer:drivetrain | p:166
 NX300h
 Owners
 Manual_USA_M78287_en
 do not put the transmission in D.
 
 ### (P.176)
-`lexus_nx_en_7159e998` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:166
 Instability happens more frequently
 when descending steep or long
 downhill grades. Before descending, slow down and downshift. Do
@@ -8743,7 +8499,6 @@ brake pedal depressed.
 mode, release the parking brake.
 
 ### (P.178)
-`lexus_nx_en_601e40b0` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:166
 4 Release the brake pedal, and slowly
 pull or back away from the wheel
 blocks. Stop and apply the brakes.
@@ -8752,7 +8507,6 @@ blocks. Stop and apply the brakes.
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_37eb40d2` | nx | owners_manual | tier:3 | lang:en | layer:general | p:167
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -8773,7 +8527,6 @@ dinghy towed (with 4 wheels on the
 ground) behind a motor home.
 
 ### NOTICE
-`lexus_nx_en_b7c8e30c` | nx | owners_manual | tier:3 | lang:en | layer:drivetrain | p:167
 ■To avoid serious damage to your vehicle
 Do not tow your vehicle with the four
 wheels on the ground.
@@ -8787,7 +8540,6 @@ serious damage to the hybrid transmission and AWD system.
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_b005cb1b` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:168
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -8837,7 +8589,6 @@ hybrid vehicle
 
 ■Conditions affecting operation
 ### P.122
-`lexus_nx_en_5c104954` | nx | owners_manual | tier:3 | lang:en | layer:body | p:168
 ■Steering lock function
 ●After turning the power switch off and
 opening and closing the doors, the steering wheel will be locked due to the steering lock function. Operating the power
@@ -8857,7 +8608,6 @@ Starting the hybrid system
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_1d82216b` | nx | owners_manual | tier:3 | lang:en | layer:general | p:169
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -8888,7 +8638,6 @@ the proper procedures for starting the vehicle, contact your Lexus dealer immedi
 ■If the hybrid system is malfunctioning
 
 ### P.349
-`lexus_nx_en_f16a1259` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:169
 ■Operation of the power switch
 ●If the switch is not pressed shortly and
 firmly, the power switch mode may not
@@ -8903,14 +8652,12 @@ before restarting the hybrid system.
 ■Customizable functions
 
 ### P.423
-`lexus_nx_en_629a492f` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:169
 1
 Stop the vehicle completely.
 2 Set the parking brake (P.178),
 and shift the shift lever to P
 
 ### (P.173).
-`lexus_nx_en_e2584c0f` | nx | owners_manual | tier:3 | lang:en | layer:body | p:169
 3 Press the power switch.
 WARNING
 ■When starting the hybrid system
@@ -8927,14 +8674,12 @@ accident, resulting in death or serious
 injury.
 
 ### NOTICE
-`lexus_nx_en_741c7e10` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:169
 ■When starting the hybrid system
 If the hybrid system becomes difficult to
 start, have your vehicle checked by your
 Lexus dealer immediately.
 
 ### NOTICE
-`lexus_nx_en_6d1f790a` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:169
 ■Symptoms indicating a malfunction
 with the power switch
 If the power switch seems to be operating somewhat differently than usual, such
@@ -8946,7 +8691,6 @@ Stopping the hybrid system
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_37a6e086` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:170
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -9000,7 +8744,6 @@ Changing power switch modes
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_e316aed5` | nx | owners_manual | tier:3 | lang:en | layer:general | p:171
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -9042,14 +8785,12 @@ high.
 The vehicle has been left in the sun,
 
 ### NOTICE
-`lexus_nx_en_812cd06b` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:171
 ■To prevent 12-volt battery discharge
 ●Do not leave the power switch in
 ACCESSORY or ON mode for long
 periods of time without the hybrid system on.
 
 ### ●If “ACCESSORY” or “IGNITION
-`lexus_nx_en_47d07fe4` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:171
 ON” is displayed on the multi-information display while the hybrid system is
 not operating, the power switch is not
 off. Exit the vehicle after turning the
@@ -9077,7 +8818,6 @@ Operating instructions
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_c342b648` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:172
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -9094,7 +8834,6 @@ The remaining battery level indicated in
 the “Energy Monitor” display is low.
 
 ### (P.93)
-`lexus_nx_en_a86e4793` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:172
 ●Vehicle speed is high.
 ●The accelerator pedal is depressed firmly
 or the vehicle is on a hill, etc.
@@ -9123,7 +8862,6 @@ The remaining battery level indicated in
 the “Energy Monitor” display is low.
 
 ### (P.93)
-`lexus_nx_en_a86e4793` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:172
 ●Vehicle speed is high.
 ●The accelerator pedal is depressed firmly
 or the vehicle is on a hill, etc.
@@ -9155,7 +8893,6 @@ care while driving.
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_e2fba07a` | nx | owners_manual | tier:3 | lang:en | layer:drivetrain | p:173
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -9189,7 +8926,6 @@ full-speed range will not be canceled.
 Sport mode while driving in D position.
 
 ### (P.248)
-`lexus_nx_en_151a585d` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:173
 ■Restraining sudden start (Drive-Start
 Control)
 When the following unusual operation is
@@ -9228,7 +8964,6 @@ acceleration, as this could result in the
 vehicle skidding to the side or spinning.
 
 ### NOTICE
-`lexus_nx_en_cd6d13cc` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:173
 ■Hybrid battery (traction battery)
 charge
 If the shift lever is in N, the hybrid battery
@@ -9241,7 +8976,6 @@ not being able to start.
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_0a75f802` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:174
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -9279,7 +9013,6 @@ Press the shift lock override button.
 The shift lever can be shifted while the button is pressed
 
 ### P.248
-`lexus_nx_en_d7bb7766` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:174
 Shifting the shift lever
 While the power switch is in ON
 mode, move the shift lever with the
@@ -9303,7 +9036,6 @@ Selecting the driving mode
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_83f108f6` | nx | owners_manual | tier:3 | lang:en | layer:general | p:175
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -9362,7 +9094,6 @@ position
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_2bed1354` | nx | owners_manual | tier:3 | lang:en | layer:general | p:176
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -9398,14 +9129,12 @@ turn signal lights has not burned out.
 ■Customization
 
 ### P.427
-`lexus_nx_en_bdf74db6` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:176
 Turn signal lever
 Operating instructions
 177
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_a0fcc8f5` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:177
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -9461,7 +9190,6 @@ D
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_0587cff7` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:178
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -9525,7 +9253,6 @@ the message will be shown on the multiinformation display and the buzzer sounds.
 ■Parking the vehicle
 
 ### P.150
-`lexus_nx_en_99787f5c` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:178
 ■Parking brake engaged warning buzzer
 A buzzer will sound if the vehicle is driven
 with the parking brake engaged. “Release
@@ -9538,7 +9265,6 @@ D
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_37f06a45` | nx | owners_manual | tier:3 | lang:en | layer:general | p:179
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -9553,7 +9279,6 @@ the instructions.
 on
 
 ### P.257
-`lexus_nx_en_e8a55c48` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:179
 Turns the brake hold system on
 The brake hold standby indicator
 (green) comes on. While the system is
@@ -9583,7 +9308,6 @@ the switch and may lead the parking
 brake to unexpectedly operate.
 
 ### NOTICE
-`lexus_nx_en_8953a675` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:179
 ■When parking the vehicle
 Before you leave the vehicle, shift the
 shift lever to P, set the parking brake and
@@ -9618,7 +9342,6 @@ B
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_04241754` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:180
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -9667,7 +9390,6 @@ the instructions.
 flashes
 
 ### P.370
-`lexus_nx_en_989f99de` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:180
 WARNING
 ■When the vehicle is on a steep incline
 When using the brake hold system on a
@@ -9681,7 +9403,6 @@ exceeded. Do not use the system when
 stopped on a slippery road.
 
 ### NOTICE
-`lexus_nx_en_736f1727` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:180
 ■When parking the vehicle
 The brake hold system is not designed
 for use when parking the vehicle for a
@@ -9696,7 +9417,6 @@ set the parking brake.
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_a6805533` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:181
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -9738,7 +9458,6 @@ Controlling volume
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_fb6eebff` | nx | owners_manual | tier:3 | lang:en | layer:body | p:182
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -9789,7 +9508,6 @@ Turning on the headlights
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_fc84c163` | nx | owners_manual | tier:3 | lang:en | layer:general | p:183
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -9875,7 +9593,6 @@ function will be disabled.
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_0fa58d73` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:184
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -9927,7 +9644,6 @@ AFS operates at speeds of 6 mph (10 km/
 h) or higher.
 
 ### NOTICE
-`lexus_nx_en_0cdd7c56` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:184
 ■To prevent 12-volt battery discharge
 Do not leave the lights on longer than
 necessary when the hybrid system is off.
@@ -9939,7 +9655,6 @@ System) (if equipped)
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_47256d4d` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:185
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -10007,7 +9722,6 @@ Beam system
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_0f7b293b` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:186
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -10076,7 +9790,6 @@ may be causing problems or distress to
 other drivers or pedestrians nearby.
 
 ### NOTICE
-`lexus_nx_en_dc9a2d61` | nx | owners_manual | tier:3 | lang:en | layer:body | p:186
 ■Notes when using the Automatic
 High Beam system
 Observe the following to ensure that the
@@ -10094,7 +9807,6 @@ windshield near the camera sensor.
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_0b52c74c` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:187
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -10116,7 +9828,6 @@ Press the switch to activate the Automatic
 High Beam system again.
 
 ### NOTICE
-`lexus_nx_en_4d098414` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:187
 ●Do not place items on the dashboard.
 There is a possibility that the camera
 sensor will mistake items reflected in
@@ -10135,7 +9846,6 @@ mode
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_1681cb25` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:188
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -10163,7 +9873,6 @@ to notify following vehicles the existence of your vehicle.
 Operating procedure
 
 ### NOTICE
-`lexus_nx_en_0789fde7` | nx | owners_manual | tier:3 | lang:en | layer:body | p:188
 ■To prevent 12-volt battery discharge
 Do not leave the lights on longer than
 necessary when the hybrid system is off.
@@ -10175,7 +9884,6 @@ manual operation, or can use the
 washer.
 
 ### NOTICE
-`lexus_nx_en_03d41c7b` | nx | owners_manual | tier:3 | lang:en | layer:body | p:188
 ■When the windshield is dry
 Do not use the wipers, as they may damage the windshield.
 Operating the wiper lever
@@ -10183,7 +9891,6 @@ Operating the wiper lever
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_53ce2039` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:189
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -10227,7 +9934,6 @@ intermittent operation is selected.
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_48611c59` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:190
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -10274,7 +9980,6 @@ lever is pulled.
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_05ca1168` | nx | owners_manual | tier:3 | lang:en | layer:general | p:191
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -10330,7 +10035,6 @@ rising or setting of the sun intermittently
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_e322c726` | nx | owners_manual | tier:3 | lang:en | layer:body | p:192
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -10367,7 +10071,6 @@ an accident, resulting in death or serious
 injury.
 
 ### NOTICE
-`lexus_nx_en_5b5c7a8e` | nx | owners_manual | tier:3 | lang:en | layer:body | p:192
 ■When the washer fluid tank is empty
 Do not operate the switch continually as
 the washer fluid pump may overheat.
@@ -10382,7 +10085,6 @@ necessary when the hybrid system is off.
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_c433df14` | nx | owners_manual | tier:3 | lang:en | layer:body | p:193
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -10411,7 +10113,6 @@ Rear window wiper and
 washer
 
 ### NOTICE
-`lexus_nx_en_7bb3cd2f` | nx | owners_manual | tier:3 | lang:en | layer:body | p:193
 ■When the rear window is dry
 Do not use the wiper, as it may damage
 the rear window.
@@ -10420,7 +10121,6 @@ Operating the wiper lever
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_b5c49fbf` | nx | owners_manual | tier:3 | lang:en | layer:body | p:194
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -10431,7 +10131,6 @@ be operated when
 The power switch is in ON mode.
 
 ### NOTICE
-`lexus_nx_en_b6d77bfe` | nx | owners_manual | tier:3 | lang:en | layer:body | p:194
 ■When the washer fluid tank is empty
 Do not operate the switch continually as
 the washer fluid pump may overheat.
@@ -10446,7 +10145,6 @@ necessary when the hybrid system is off.
 4-4. Refueling
 
 ### LEXUS
-`lexus_nx_en_57a55ea8` | nx | owners_manual | tier:3 | lang:en | layer:general | p:195
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -10459,7 +10157,6 @@ ensure that all the doors and windows are closed.
 ■Fuel types
 
 ### P.410
-`lexus_nx_en_e6e04d79` | nx | owners_manual | tier:3 | lang:en | layer:body | p:195
 ■Fuel tank opening for unleaded gasoline
 To help prevent incorrect fueling, your vehicle has a fuel tank opening that only accommodates the special nozzle on unleaded
 fuel pumps.
@@ -10514,7 +10211,6 @@ fuel filler neck.
 ●Do not top off the fuel tank.
 
 ### NOTICE
-`lexus_nx_en_b95eb8bd` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:195
 ■Refueling
 Do not spill fuel during refueling.
 Doing so may damage the vehicle, such
@@ -10526,7 +10222,6 @@ Opening the fuel tank cap
 4-4. Refueling
 
 ### LEXUS
-`lexus_nx_en_c79540dd` | nx | owners_manual | tier:3 | lang:en | layer:body | p:196
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -10538,7 +10233,6 @@ the fuel filler door.
 opened
 
 ### P.389
-`lexus_nx_en_063b3f55` | nx | owners_manual | tier:3 | lang:en | layer:body | p:196
 1
 After refueling, turn the fuel tank
 cap until you hear a click. Once the
@@ -10574,7 +10268,6 @@ injury.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_ef886d59` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:197
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -10586,12 +10279,10 @@ Driving
 ■LDA (Lane Departure Alert with
 steering control)
 ### P.185
-`lexus_nx_en_8c71441f` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:197
 ■Dynamic radar cruise control with
 full-speed range
 
 ### P.217
-`lexus_nx_en_b3fe9ae6` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:197
 The pre-collision system is equipped
 with a sophisticated computer that will
 record certain data, such as:
@@ -10652,7 +10343,6 @@ Vehicle data recording
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_11afb2c7` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:198
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -10674,7 +10364,6 @@ B
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_e70c3e7d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:199
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -10692,7 +10381,6 @@ injury.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_caad89b9` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:200
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -10764,7 +10452,6 @@ B
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_a607c1ab` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:201
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -10821,7 +10508,6 @@ lights.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_ba89dfa9` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:202
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -10878,7 +10564,6 @@ injury.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_9ede8ff1` | nx | owners_manual | tier:3 | lang:en | layer:general | p:203
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -10956,7 +10641,6 @@ inflated
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_69de17e8` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:204
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -11020,7 +10704,6 @@ Changing settings of the pre-collision system
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_0ecff7c4` | nx | owners_manual | tier:3 | lang:en | layer:general | p:205
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -11095,7 +10778,6 @@ abruptly.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_cfebd082` | nx | owners_manual | tier:3 | lang:en | layer:general | p:206
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -11141,7 +10823,6 @@ etc.) at the top of an uphill road
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_43a27105` | nx | owners_manual | tier:3 | lang:en | layer:general | p:207
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -11206,7 +10887,6 @@ dust, etc. from a vehicle ahead
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_9a0d94ea` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:208
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -11302,7 +10982,6 @@ such as in an extremely cold environment
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_76167391` | nx | owners_manual | tier:3 | lang:en | layer:general | p:209
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -11353,7 +11032,6 @@ Functions included in LDA system
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_6df6980d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:210
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -11380,7 +11058,6 @@ the driver.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_56eaf797` | nx | owners_manual | tier:3 | lang:en | layer:general | p:211
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -11464,7 +11141,6 @@ Turning LDA system on
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_16468a2d` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:212
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -11506,7 +11182,6 @@ C
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_15947a27` | nx | owners_manual | tier:3 | lang:en | layer:general | p:213
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -11528,7 +11203,6 @@ more than approximately 492 ft. (150 m).
 • No system malfunctions are detected.
 
 ### (P.214)
-`lexus_nx_en_cb1891cf` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:213
 ●Steering control function
 This function operates when all of the following conditions are met in addition to the
 operation conditions for the lane departure
@@ -11538,7 +11212,6 @@ of the
 multi-information display is set to “On”.
 
 ### (P.86)
-`lexus_nx_en_77c13352` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:213
 • Vehicle is not accelerated or decelerated
 by a certain amount or more.
 • Steering wheel is not operated with a
@@ -11555,7 +11228,6 @@ of the
 multi-information display is set to “On”.
 
 ### (P.86)
-`lexus_nx_en_17777f23` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:213
 • Vehicle speed is approximately 32 mph
 (50 km/h) or more.
 • Width of traffic lane is approximately 9.8
@@ -11563,7 +11235,6 @@ ft. (3 m) or more.
 • No system malfunctions are detected.
 
 ### (P.214)
-`lexus_nx_en_00902dd3` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:213
 ■Temporary cancelation of functions
 When the operation conditions are no longer met, a function may be temporarily canceled. However, when the operation
 conditions are met again, operation of the
@@ -11601,7 +11272,6 @@ When the system determines that the vehicle is swaying while the vehicle sway wa
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_24aff96b` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:214
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -11679,7 +11349,6 @@ the LDA indicator illuminates in orange, follow the appropriate troubleshooting 
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_9f31a9ee` | nx | owners_manual | tier:3 | lang:en | layer:general | p:215
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -11736,7 +11405,6 @@ Details/Actions
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_564f12ba` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:216
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -11797,7 +11465,6 @@ Setting details
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_42ddaa72` | nx | owners_manual | tier:3 | lang:en | layer:general | p:217
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -11820,7 +11487,6 @@ Use the dynamic radar cruise control with full-speed range on freeways and highw
 Constant speed control mode
 
 ### (P.223)
-`lexus_nx_en_967be435` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:217
 System Components
 A
 WARNING
@@ -11860,7 +11526,6 @@ E
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_72f55f21` | nx | owners_manual | tier:3 | lang:en | layer:general | p:218
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -11938,7 +11603,6 @@ heard often
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_54bf1e32` | nx | owners_manual | tier:3 | lang:en | layer:general | p:219
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -11975,7 +11639,6 @@ C
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_d6faeb30` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:220
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -11992,7 +11655,6 @@ held for 1.5 seconds or more, the system
 turns on in constant speed control mode.
 
 ### (P.223)
-`lexus_nx_en_32587405` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:220
 2 Accelerate or decelerate, with
 accelerator pedal operation, to the
 desired vehicle speed (at or above
@@ -12030,7 +11692,6 @@ Adjusting the set speed
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_efab2393` | nx | owners_manual | tier:3 | lang:en | layer:general | p:221
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -12082,7 +11743,6 @@ A
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_58e4e6df` | nx | owners_manual | tier:3 | lang:en | layer:general | p:222
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -12138,7 +11798,6 @@ Approach warning (vehicle-tovehicle distance control mode)
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_6947808c` | nx | owners_manual | tier:3 | lang:en | layer:general | p:223
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -12186,7 +11845,6 @@ Adjusting the speed setting: P.220
 Canceling and resuming the speed setting:
 
 ### P.222
-`lexus_nx_en_3761c325` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:223
 ■Dynamic radar cruise control with fullspeed range can be set when
 ●The shift lever is in D or range 4 or higher
 of S has been selected.
@@ -12197,7 +11855,6 @@ Selecting constant speed control mode
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_2daefaaf` | nx | owners_manual | tier:3 | lang:en | layer:general | p:224
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -12234,7 +11891,6 @@ speed at or below approximately 25 mph
 not properly detect the vehicle.
 
 ### (“CRUISE NOT AVAILABLE No pre-
-`lexus_nx_en_7b2c6671` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:224
 ceding vehicle” is displayed on the multiinformation display.)
 ●VSC is activated.
 ●TRAC is activated for a period of time.
@@ -12284,7 +11940,6 @@ multi-information display, read the message
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_fb57564d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:225
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -12336,7 +11991,6 @@ the set speed after the vehicle accelerates by depressing the accelerator pedal
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_7472e1d9` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:226
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -12373,7 +12027,6 @@ level change between 1, 2, and 3.
 ■Muting buzzer
 
 ### P.228
-`lexus_nx_en_1cf4e7be` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:226
 PKSA (Parking Support
 Alert)*
 The Parking Support Alert system
@@ -12391,7 +12044,6 @@ Setting the buzzer volume
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_b46b9261` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:227
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -12439,7 +12091,6 @@ D
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_d55a9447` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:228
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -12521,7 +12172,6 @@ Lexus dealer.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_4913a84e` | nx | owners_manual | tier:3 | lang:en | layer:general | p:229
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -12620,14 +12270,12 @@ cause undesired operation.
 This ISM device complies with Canadian
 
 ### ICES-001.
-`lexus_nx_en_edb88fef` | nx | owners_manual | tier:3 | lang:en | layer:general | p:229
 Cet appareil ISM est conforme a la norme
 NMB-001 du Canada.
 230
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_e95005b1` | nx | owners_manual | tier:3 | lang:en | layer:general | p:230
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -12662,7 +12310,6 @@ the vehicle’s speed.
 sensors’ detection areas.
 
 ### NOTICE
-`lexus_nx_en_8559f419` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:230
 ■When using intuitive parking assist
 In the following situations, the system
 may not function correctly due to a sensor malfunction, etc. Have the vehicle
@@ -12693,7 +12340,6 @@ C
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_fdec12ce` | nx | owners_manual | tier:3 | lang:en | layer:general | p:231
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -12750,7 +12396,6 @@ Less than 0.5 ft. (15 cm)*3
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_33c1e1b9` | nx | owners_manual | tier:3 | lang:en | layer:general | p:232
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -12781,7 +12426,6 @@ Examples of system operation
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_9ce83289` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:233
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -12840,7 +12484,6 @@ C
 D
 
 ### NOTICE
-`lexus_nx_en_44d1e516` | nx | owners_manual | tier:3 | lang:en | layer:body | p:233
 ■Preventing sensor malfunctions
 ●If the area around a sensor is subjected
 to an impact, equipment may not operate properly due to a sensor malfunction. Have the vehicle inspected by
@@ -12860,7 +12503,6 @@ static objects)
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_4cc2fdcb` | nx | owners_manual | tier:3 | lang:en | layer:general | p:234
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -12887,7 +12529,6 @@ F
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_839fabbc` | nx | owners_manual | tier:3 | lang:en | layer:general | p:235
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -12897,7 +12538,6 @@ Control starts
 Collision is likely
 
 ### DOWN
-`lexus_nx_en_f96725c5` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:235
 “BRAKE!” is displayed in the multi-information display
 “Switch to Brake” is displayed in the multi-information display
 ■Brake Control
@@ -12913,7 +12553,6 @@ Control starts
 Collision is likely
 
 ### DOWN
-`lexus_nx_en_cd581dc2` | nx | owners_manual | tier:3 | lang:en | layer:general | p:235
 Collision possibility is very high
 G
 H
@@ -12934,7 +12573,6 @@ J
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_9a17e872` | nx | owners_manual | tier:3 | lang:en | layer:general | p:236
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -13021,7 +12659,6 @@ M
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_fd79ce52` | nx | owners_manual | tier:3 | lang:en | layer:general | p:237
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -13103,7 +12740,6 @@ types), fog lights, a fender pole or a wireless antenna) are installed near the 
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_32fadfd5` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:238
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -13167,7 +12803,6 @@ the system not operate, or may cause the
 system to operate unnecessarily.
 
 ### NOTICE
-`lexus_nx_en_0670b293` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:238
 ■Preventing unnecessary operation
 In the following situations, turn the Parking Support Brake function (for static
 objects) OFF. The system may operate
@@ -13188,7 +12823,6 @@ nose tilts up or down).
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_c3dfb6ae` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:239
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -13210,7 +12844,6 @@ restrict output as much as possible)
 ■Brake control is operating
 
 ### NOTICE
-`lexus_nx_en_15b3a6dc` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:239
 ●A towing hook is installed
 ●When using an automatic car wash
 Display and buzzer for hybrid
@@ -13227,7 +12860,6 @@ multimedia system screen
 
 
 ### PKSB OFF
-`lexus_nx_en_73c0dbc6` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:239
 Indicator
 Not illuminated
 Buzzer
@@ -13241,7 +12873,6 @@ Head-up display
 Navigation/
 multimedia system screen
 ### PKSB OFF
-`lexus_nx_en_bac1ae73` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:239
 Indicator
 Not illuminated
 Buzzer
@@ -13253,7 +12884,6 @@ Multi-information display/
 Head-up display
 
 ### PKSB OFF
-`lexus_nx_en_83ace968` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:239
 Indicator
 Not illuminated
 Buzzer
@@ -13262,7 +12892,6 @@ Short beep
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_f05036f5` | nx | owners_manual | tier:3 | lang:en | layer:general | p:240
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -13318,7 +12947,6 @@ multimedia system screen
 “Press Brake Pedal”
 
 ### PKSB OFF
-`lexus_nx_en_5ebb1d16` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:240
 Indicator
 Illuminated
 Buzzer
@@ -13327,7 +12955,6 @@ Short beep
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_fec5150d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:241
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -13393,7 +13020,6 @@ D
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_44177135` | nx | owners_manual | tier:3 | lang:en | layer:general | p:242
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -13421,7 +13047,6 @@ inspected at a Lexus dealer.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_1f118d2c` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:243
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -13488,7 +13113,6 @@ C
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_27a26ffc` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:244
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -13576,7 +13200,6 @@ and a following vehicle is short
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_b46022a7` | nx | owners_manual | tier:3 | lang:en | layer:general | p:245
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -13616,7 +13239,6 @@ B
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_5d39b84b` | nx | owners_manual | tier:3 | lang:en | layer:general | p:246
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -13668,7 +13290,6 @@ A
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_77d32f7a` | nx | owners_manual | tier:3 | lang:en | layer:general | p:247
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -13720,7 +13341,6 @@ the vehicle, is short
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_a0004ed9` | nx | owners_manual | tier:3 | lang:en | layer:hvac | p:248
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -13767,7 +13387,6 @@ Selecting a driving mode
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_ac2f59c9` | nx | owners_manual | tier:3 | lang:en | layer:general | p:249
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -13813,7 +13432,6 @@ slippery road surfaces
 Provides cooperative control of the
 
 ### ABS, TRAC, VSC and EPS.
-`lexus_nx_en_9da9fafa` | nx | owners_manual | tier:3 | lang:en | layer:general | p:249
 Driving assist systems
 To keep driving safety and performance, the following systems operate automatically in response to
 various driving situations. Be aware,
@@ -13826,7 +13444,6 @@ systems
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_db99ae28` | nx | owners_manual | tier:3 | lang:en | layer:general | p:250
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -13864,7 +13481,6 @@ etc.
 ■BSM (Blind Spot Monitor) (if
 equipped)
 ### P.241
-`lexus_nx_en_ff15cd02` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:250
 ■When the TRAC/VSC/ABS/Trailer
 Sway Control systems are operating
 The slip indicator light will flash while the
@@ -13887,7 +13503,6 @@ again to turn the system back on.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_4f604c4c` | nx | owners_manual | tier:3 | lang:en | layer:general | p:251
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -13969,7 +13584,6 @@ situations:
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_d53cb3cf` | nx | owners_manual | tier:3 | lang:en | layer:drivetrain | p:252
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -14046,7 +13660,6 @@ care when the indicator light flashes.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_3c07608a` | nx | owners_manual | tier:3 | lang:en | layer:general | p:253
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -14106,7 +13719,6 @@ trailer should stabilize. (P.250)
 4-6. Driving tips
 
 ### LEXUS
-`lexus_nx_en_0bdacc66` | nx | owners_manual | tier:3 | lang:en | layer:hvac | p:254
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -14121,7 +13733,6 @@ keeping the indicator needle of Hybrid
 System Indicator within Eco area.
 
 ### (P.82)
-`lexus_nx_en_8a6511bd` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:254
 Shift the shift lever to D when stopped
 at a traffic light, or driving in heavy traffic, etc. Shift the shift lever to P when
 parking. When using the N, there is no
@@ -14167,7 +13778,6 @@ Delays
 4-6. Driving tips
 
 ### LEXUS
-`lexus_nx_en_5338df7d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:255
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -14218,7 +13828,6 @@ Warming up before driving
 4-6. Driving tips
 
 ### LEXUS
-`lexus_nx_en_ffeff34d` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:256
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -14283,7 +13892,6 @@ a curve to ensure that vehicle control is
 maintained.
 
 ### NOTICE
-`lexus_nx_en_fc14f856` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:256
 ■Repairing or replacing snow tires
 Request repairs or replacement of snow
 tires from Lexus dealers or legitimate tire
@@ -14296,7 +13904,6 @@ Before driving the vehicle
 4-6. Driving tips
 
 ### LEXUS
-`lexus_nx_en_30473229` | nx | owners_manual | tier:3 | lang:en | layer:general | p:257
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -14362,7 +13969,6 @@ Selecting tire chains
 4-6. Driving tips
 
 ### LEXUS
-`lexus_nx_en_ebc88f76` | nx | owners_manual | tier:3 | lang:en | layer:general | p:258
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -14404,7 +14010,6 @@ Regulations on the use of tire
 chains
 
 ### NOTICE
-`lexus_nx_en_26a40ee1` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:258
 ■Fitting tire chains
 The tire pressure warning valves and
 transmitters may not function correctly
@@ -14434,7 +14039,6 @@ always fasten their seat belts.
 4-6. Driving tips
 
 ### LEXUS
-`lexus_nx_en_16c0a29d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:259
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -14515,7 +14119,6 @@ your thumbs on the outside of the rim.
 4-6. Driving tips
 
 ### LEXUS
-`lexus_nx_en_a62e0561` | nx | owners_manual | tier:3 | lang:en | layer:general | p:260
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -14540,7 +14143,6 @@ risking expensive damage to your
 vehicle’s suspension and chassis.
 
 ### NOTICE
-`lexus_nx_en_44c19e7f` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:260
 ■To prevent water damage
 Take all necessary safety measures to
 ensure that water damage to the hybrid
@@ -14579,7 +14181,6 @@ Scheduled Maintenance”.
 261
 
 ### LEXUS
-`lexus_nx_en_3dcf0432` | nx | owners_manual | tier:3 | lang:en | layer:hvac | p:261
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -14604,7 +14205,6 @@ Lexus Enform Service Connect
 5-1. Remote Touch
 
 ### LEXUS
-`lexus_nx_en_c3334680` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:262
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -14661,7 +14261,6 @@ equipped with a navigation system
 should refer to the “NAVIGATION
 
 ### AND MULTIMEDIA SYSTEM
-`lexus_nx_en_f0d69205` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:262
 OWNER’S MANUAL”.
 Remote Touch operation
 A
@@ -14674,7 +14273,6 @@ E
 5-1. Remote Touch
 
 ### LEXUS
-`lexus_nx_en_9ca0c06c` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:263
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -14699,7 +14297,6 @@ the type of the system.
 8-inch display model
 
 ### NOTICE
-`lexus_nx_en_419dc167` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:263
 ■To prevent damage to the Remote
 Touch
 Observe the following precautions. Failure to do so may cause damage to the
@@ -14717,7 +14314,6 @@ Menu screen
 5-1. Remote Touch
 
 ### LEXUS
-`lexus_nx_en_1bb303c4` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:264
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -14725,7 +14321,6 @@ Manual_USA_M78287_en
 *1: Refer to the “NAVIGATION AND
 
 ### MULTIMEDIA SYSTEM OWNER’S
-`lexus_nx_en_ab4a05e8` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:264
 MANUAL”.
 *2: This function is not made available on
 some models.
@@ -14734,7 +14329,6 @@ The home screen can be display multiple information screens. For details about t
 functions and operation of the display, refer to the respective section and “NAVI-
 
 ### GATION AND MULTIMEDIA SYSTEM OWNER’S MANUAL”
-`lexus_nx_en_ce330953` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:264
 10.3-inch display models
 Split-screen display
 Different information can be displayed on the left and right of the screen. For example, air
@@ -14756,7 +14350,6 @@ screen.*1
 Select to display the air conditioning control screen.
 
 ### (P.269)
-`lexus_nx_en_8a35f83d` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:264
 Select to adjust the contrast and
 brightness of the screens, turn
 the screen off, etc.*1, 2
@@ -14767,7 +14360,6 @@ Display overview
 5-1. Remote Touch
 
 ### LEXUS
-`lexus_nx_en_5d27278e` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:265
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -14778,7 +14370,6 @@ the main display, and the small screen to the right is called the side display.
 For details about the functions and operation of the main display, refer to the respective
 
 ### section and “NAVIGATION AND MULTIMEDIA SYSTEM OWNER’S MANUAL”.
-`lexus_nx_en_dd01978e` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:265
 Side display
 The following functions can be displayed and operated on the side display.
 Select
@@ -14792,7 +14383,6 @@ Show/hide the side display.*
 *: Refer to the “NAVIGATION AND
 
 ### MULTIMEDIA SYSTEM OWNER’S
-`lexus_nx_en_c0e0febf` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:265
 MANUAL”.
 ■Screen display during low temperatures
 When the ambient temperature is
@@ -14807,7 +14397,6 @@ E
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_0178518b` | nx | owners_manual | tier:3 | lang:en | layer:hvac | p:266
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -14841,7 +14430,6 @@ I
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_269fb01e` | nx | owners_manual | tier:3 | lang:en | layer:hvac | p:267
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -14908,7 +14496,6 @@ D
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_20ead520` | nx | owners_manual | tier:3 | lang:en | layer:body | p:268
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -14916,7 +14503,6 @@ Manual_USA_M78287_en
 equipped)
 
 ### P.271
-`lexus_nx_en_9fb7ad91` | nx | owners_manual | tier:3 | lang:en | layer:hvac | p:268
 ■When the outside temperature exceeds
 75°F (24°C) and the air conditioning
 system is on
@@ -14995,7 +14581,6 @@ accumulate in the air conditioning system. This may then cause odor to be
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_68bb6d1e` | nx | owners_manual | tier:3 | lang:en | layer:general | p:269
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15011,7 +14596,6 @@ started in automatic mode.
 ■Air conditioning filter
 
 ### P.348
-`lexus_nx_en_711a268d` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:269
 ■Customization
 Settings (e.g. A/C automatic mode switch
 operation) can be changed.
@@ -15057,7 +14641,6 @@ the front pillars when the windshield
 wiper de-icer is on.
 
 ### NOTICE
-`lexus_nx_en_d4affad1` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:269
 ■To prevent 12-volt battery discharge
 Do not leave the air conditioning system
 on longer than necessary when the
@@ -15072,7 +14655,6 @@ C
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_692ea974` | nx | owners_manual | tier:3 | lang:en | layer:body | p:270
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15092,7 +14674,6 @@ can be switched on and off.
 “AUTO”: Set automatic mode on/off
 
 ### (P.271)
-`lexus_nx_en_5b98353f` | nx | owners_manual | tier:3 | lang:en | layer:hvac | p:270
 “OFF”: Turn the fan off
 “A/C”: Set cooling and dehumidification
 function
@@ -15137,7 +14718,6 @@ B
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_58b08556` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:271
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15151,7 +14731,6 @@ driver’s and front passenger’s seats
 separately (“DUAL” mode)
 
 ### (P.272)
-`lexus_nx_en_4bc8fd6b` | nx | owners_manual | tier:3 | lang:en | layer:body | p:271
 Select the air flow mode
 ■Fogging up of the windows
 ●The windows will easily fog up when the
@@ -15229,7 +14808,6 @@ Using automatic mode
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_618df713` | nx | owners_manual | tier:3 | lang:en | layer:drivetrain | p:272
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15239,7 +14817,6 @@ sensor (P.272) detects fog on the windshield and controls the air conditionin
 ■Air conditioning filter
 
 ### P.348
-`lexus_nx_en_e340e7be` | nx | owners_manual | tier:3 | lang:en | layer:hvac | p:272
 ■Customization
 Settings (e.g. A/C automatic mode switch
 operation) can be changed.
@@ -15266,7 +14843,6 @@ or down
 vent
 
 ### NOTICE
-`lexus_nx_en_a7204be4` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:272
 ■Humidity sensor
 In order to detect fog on the windshield,
 a sensor which monitors the temperature
@@ -15285,7 +14861,6 @@ Air outlet layout and operations
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_a23d8071` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:273
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15327,7 +14902,6 @@ drugs that induce sleep (sleeping
 drugs, cold remedies, etc.)
 
 ### NOTICE
-`lexus_nx_en_8ced53f5` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:273
 ■To prevent damage to the seat heaters and seat ventilators
 Do not put heavy objects that have an
 uneven surface on the seat and do not
@@ -15340,7 +14914,6 @@ system is off.
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_28903e60` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:274
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15383,7 +14956,6 @@ A
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_f4400452` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:275
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15415,7 +14987,6 @@ A
 5-3. Using the interior lights
 
 ### LEXUS
-`lexus_nx_en_5a55e22e` | nx | owners_manual | tier:3 | lang:en | layer:body | p:276
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15455,7 +15026,6 @@ E
 5-3. Using the interior lights
 
 ### LEXUS
-`lexus_nx_en_5be6063d` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:277
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15486,7 +15056,6 @@ turn off by pressing the switch.
 Turns the lights on/off (touch the lights)
 
 ### NOTICE
-`lexus_nx_en_1a07c732` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:277
 ■Removing light lenses
 Never remove the lens for the front interior light and personal lights. Otherwise,
 the lights will be damaged. If the lens
@@ -15501,7 +15070,6 @@ Operating personal lights
 5-3. Using the interior lights
 
 ### LEXUS
-`lexus_nx_en_6fc0154c` | nx | owners_manual | tier:3 | lang:en | layer:general | p:278
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15509,7 +15077,6 @@ Manual_USA_M78287_en
 5-4. Using the storage features
 
 ### LEXUS
-`lexus_nx_en_6602464c` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:279
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15555,7 +15122,6 @@ or the items stored inside.
 5-4. Using the storage features
 
 ### LEXUS
-`lexus_nx_en_62e58f4b` | nx | owners_manual | tier:3 | lang:en | layer:body | p:280
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15586,7 +15152,6 @@ Cup holders/bottle holders
 5-4. Using the storage features
 
 ### LEXUS
-`lexus_nx_en_6c2881f2` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:281
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15617,7 +15182,6 @@ the event of an accident or sudden braking, causing injury. If possible, cover h
 drinks to prevent burns.
 
 ### NOTICE
-`lexus_nx_en_5d1c4bbb` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:281
 ■To prevent damage to the rear cup
 holder
 Stow the cup holder before stowing the
@@ -15633,7 +15197,6 @@ A
 5-4. Using the storage features
 
 ### LEXUS
-`lexus_nx_en_8c8a8931` | nx | owners_manual | tier:3 | lang:en | layer:body | p:282
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15656,7 +15219,6 @@ Cargo net hooks
 5-4. Using the storage features
 
 ### LEXUS
-`lexus_nx_en_070c22b1` | nx | owners_manual | tier:3 | lang:en | layer:body | p:283
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15681,7 +15243,6 @@ to their stowed positions when not in use.
 Grocery bag hooks
 
 ### NOTICE
-`lexus_nx_en_25b03c9c` | nx | owners_manual | tier:3 | lang:en | layer:general | p:283
 ■To prevent damage to the grocery
 bag hooks
 Do not hang any object heavier than 11 lb.
@@ -15695,7 +15256,6 @@ C
 5-4. Using the storage features
 
 ### LEXUS
-`lexus_nx_en_2616b095` | nx | owners_manual | tier:3 | lang:en | layer:general | p:284
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15726,7 +15286,6 @@ Stowing the luggage cover
 5-4. Using the storage features
 
 ### LEXUS
-`lexus_nx_en_214088b3` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:285
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15756,7 +15315,6 @@ death or serious injury to the child.
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_3c5f0d94` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:286
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15778,7 +15336,6 @@ Remove the lid of sunglasses holder
 using the strap
 
 ### . (P.281)
-`lexus_nx_en_80673069` | nx | owners_manual | tier:3 | lang:en | layer:body | p:286
 There is a vanity mirror on the back side of
 the lid.
 ■Automatic light off to prevent 12-volt
@@ -15791,14 +15348,12 @@ adjusted by utilizing GPS time information.
 For details, refer to the “NAVIGA-
 
 ### TION AND MULTIMEDIA SYSTEM
-`lexus_nx_en_b51b4b12` | nx | owners_manual | tier:3 | lang:en | layer:body | p:286
 OWNER’S MANUAL”.
 Other interior features
 Sun visors
 Vanity mirrors
 
 ### NOTICE
-`lexus_nx_en_82136bd0` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:286
 ■To prevent damage to the vanity mirror
 When the lid of sunglass holder is
 removed, do not subject it to strong
@@ -15813,7 +15368,6 @@ A
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_7142d742` | nx | owners_manual | tier:3 | lang:en | layer:general | p:287
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15823,7 +15377,6 @@ Please use a power supply for electronic goods that use less than 12
 VDC/10 A (power consumption of
 
 ### 120 W).
-`lexus_nx_en_b3b50ba4` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:287
 When using electronic goods, make
 sure that the power consumption of all
 the connected power outlets is less
@@ -15845,7 +15398,6 @@ Open the lid.
 Power outlet (12 VDC)
 
 ### NOTICE
-`lexus_nx_en_a3ca5825` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:287
 ■When power outlet is not in use
 To avoid damaging the power outlet,
 close the power outlet lid when the
@@ -15861,7 +15413,6 @@ equipped)
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_f5218e7f` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:288
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15884,7 +15435,6 @@ The “Qi” symbol is a trademark of the
 Wireless Power Consortium.
 
 ### NOTICE
-`lexus_nx_en_ffba75a1` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:288
 ■When power outlet (120 VAC) is not
 in use
 To avoid damaging the power outlet,
@@ -15915,7 +15465,6 @@ Wireless charger (if equipped)
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_3471f747` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:289
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -15957,7 +15506,6 @@ C
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_0272f373` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:290
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16054,7 +15602,6 @@ for a while.
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_acd7624e` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:291
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16099,7 +15646,6 @@ user’s authority to operate this equipment.
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_56bb39a4` | nx | owners_manual | tier:3 | lang:en | layer:general | p:292
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16107,7 +15653,6 @@ Manual_USA_M78287_en
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_a5f1549c` | nx | owners_manual | tier:3 | lang:en | layer:general | p:293
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16117,7 +15662,6 @@ Interior features
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_60be929e` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:294
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16155,7 +15699,6 @@ than designated
 ●Do not hit or apply a strong force
 
 ### NOTICE
-`lexus_nx_en_5f42fb2f` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:294
 ■Conditions in which the function may
 not operate correctly
 In the following conditions, it may not
@@ -16201,7 +15744,6 @@ may break.
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_b3e5085e` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:295
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16213,7 +15755,6 @@ can be used to support your body
 while sitting on the seat.
 
 ### NOTICE
-`lexus_nx_en_ec4e61e4` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:295
 ●Do not leave portable devices in the
 cabin. The temperature inside the
 cabin may become high, when under
@@ -16226,7 +15767,6 @@ time.
 Armrest
 
 ### NOTICE
-`lexus_nx_en_c41b94d4` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:295
 ■To prevent damage to the armrest
 Do not apply too much load on the armrest.
 Assist grips
@@ -16237,7 +15777,6 @@ or out of the vehicle or rising from your
 seat.
 
 ### NOTICE
-`lexus_nx_en_f339b985` | nx | owners_manual | tier:3 | lang:en | layer:general | p:295
 ■To prevent damage to the assist grip
 Do not hang any heavy object or put a
 heavy load on the assist grip.
@@ -16245,7 +15784,6 @@ heavy load on the assist grip.
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_ea89841a` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:296
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16279,7 +15817,6 @@ C
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_f64336dd` | nx | owners_manual | tier:3 | lang:en | layer:general | p:297
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16330,7 +15867,6 @@ Programming the HomeLink®
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_53a00521` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:298
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16382,7 +15918,6 @@ does not operate, proceed to “Programming a rolling code system”.
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_0d60062c` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:299
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16438,7 +15973,6 @@ opener motor will blink twice, indi300
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_7352bee4` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:300
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16509,7 +16043,6 @@ B
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_53de7138` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:301
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16556,13 +16089,11 @@ Direction
 North
 
 ### “NW”
-`lexus_nx_en_1970979f` | nx | owners_manual | tier:3 | lang:en | layer:general | p:301
 Northwest
 302
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_c0860a80` | nx | owners_manual | tier:3 | lang:en | layer:general | p:302
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16594,7 +16125,6 @@ WARNING
 Do not adjust the display. Adjust the display only when the vehicle is stopped.
 
 ### NOTICE
-`lexus_nx_en_251b253a` | nx | owners_manual | tier:3 | lang:en | layer:body | p:302
 ■To avoid compass malfunctions
 Do not place magnets or any metal
 objects near the inside rear view mirror.
@@ -16615,7 +16145,6 @@ Calibrating the compass
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_1e6c73ac` | nx | owners_manual | tier:3 | lang:en | layer:general | p:303
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16648,7 +16177,6 @@ violate any local traffic rules while performing circling calibration.
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_a5c3766a` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:304
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16681,7 +16209,6 @@ C
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_d0f77152` | nx | owners_manual | tier:3 | lang:en | layer:general | p:305
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16692,7 +16219,6 @@ Interior features
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_502ca174` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:306
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16703,13 +16229,11 @@ Helps drivers receive necessary response
 from emergency service providers.
 
 ### (P.307)
-`lexus_nx_en_06355c58` | nx | owners_manual | tier:3 | lang:en | layer:general | p:306
 *: U.S. Patent No. 7,508,298 B2
 Stolen Vehicle Location
 Helps drivers in the event of vehicle theft.
 
 ### (“SOS”)
-`lexus_nx_en_89fec802` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:306
 Connects drivers to response-center support. (P.307)
 Enhanced Roadside Assistance
 Provides drivers various on-road assistance. (P.307)
@@ -16769,7 +16293,6 @@ Subscription
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_cf9f844a` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:307
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16812,7 +16335,6 @@ vehicle. After filing a police report, call
 the Safety Connect response center at
 
 ### 1-800-25-LEXUS (1-800-255-
-`lexus_nx_en_78613a2a` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:307
 3987) and follow the prompts for
 Safety Connect to initiate this service.
 In addition to assisting law enforcement with recovery of a stolen vehicle,
@@ -16822,7 +16344,6 @@ information is available at Lexus.com.
 ■Emergency Assistance Button
 
 ### (“SOS”)
-`lexus_nx_en_10f5715a` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:307
 In the event of an emergency on the
 road, push the “SOS” button to reach
 the Safety Connect response center.
@@ -16846,7 +16367,6 @@ Safety Connect services
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_161417c1` | nx | owners_manual | tier:3 | lang:en | layer:general | p:308
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16882,7 +16402,6 @@ Connect
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_f4997949` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:309
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16951,7 +16470,6 @@ Subscription
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_320a27a1` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:310
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -16984,7 +16502,6 @@ built in the vehicle.
 311
 
 ### LEXUS
-`lexus_nx_en_2ea5f219` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:311
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -17007,7 +16524,6 @@ Checking and replacing fuses351
 6-1. Maintenance and care
 
 ### LEXUS
-`lexus_nx_en_46d9223d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:312
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -17092,7 +16608,6 @@ Cleaning instructions
 6-1. Maintenance and care
 
 ### LEXUS
-`lexus_nx_en_67d1ed03` | nx | owners_manual | tier:3 | lang:en | layer:general | p:313
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -17134,7 +16649,6 @@ cause damage to the wiper blades.
 Off
 
 ### AUTO
-`lexus_nx_en_1892821e` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:313
 ●When the upper part of the windshield
 where the raindrop sensor is located is
 touched by hand
@@ -17162,7 +16676,6 @@ B
 6-1. Maintenance and care
 
 ### NOTICE
-`lexus_nx_en_b4c787c6` | nx | owners_manual | tier:3 | lang:en | layer:body | p:314
 ■To prevent paint deterioration and
 corrosion on the body and components (aluminum wheels etc.)
 ●Wash the vehicle immediately in the
@@ -17236,7 +16749,6 @@ A
 6-1. Maintenance and care
 
 ### LEXUS
-`lexus_nx_en_cf48e534` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:315
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -17289,7 +16801,6 @@ electrical components, etc. to malfunction or catch fire.
 or wiring in the vehicle interior wet.
 
 ### (P.32)
-`lexus_nx_en_457cb555` | nx | owners_manual | tier:3 | lang:en | layer:body | p:315
 An electrical malfunction may cause
 the airbags to deploy or not function
 properly, resulting in death or serious
@@ -17303,7 +16814,6 @@ and leading to an accident, resulting in
 death or serious injury.
 
 ### NOTICE
-`lexus_nx_en_0d128d32` | nx | owners_manual | tier:3 | lang:en | layer:body | p:315
 ■Cleaning detergents
 ●Do not use the following types of
 detergent, as they may discolor the
@@ -17322,7 +16832,6 @@ may be damaged.
 6-1. Maintenance and care
 
 ### LEXUS
-`lexus_nx_en_499097ef` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:316
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -17341,7 +16850,6 @@ that the warning message on the
 multi-information display disappears.
 
 ### NOTICE
-`lexus_nx_en_06406899` | nx | owners_manual | tier:3 | lang:en | layer:general | p:316
 ■Preventing damage to leather surfaces
 Observe the following precautions to
 avoid damage to and deterioration of
@@ -17368,7 +16876,6 @@ Do not allow glass cleaner to contact the
 lens. Also, do not touch the lens.
 
 ### (P.198)
-`lexus_nx_en_bc315a45` | nx | owners_manual | tier:3 | lang:en | layer:body | p:316
 ■Cleaning the inside of the rear window
 ●Do not use glass cleaner to clean the
 rear window, as this may cause damage to the rear window defogger
@@ -17388,7 +16895,6 @@ Cleaning the air intake vents
 6-1. Maintenance and care
 
 ### LEXUS
-`lexus_nx_en_b57b2741` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:317
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -17435,7 +16941,6 @@ the quality of the vehicle’s interior.
 Wipe it off with a soft cloth dampened with neutral detergent diluted
 
 ### NOTICE
-`lexus_nx_en_2ca79d4a` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:317
 ■When cleaning the air intake vents
 When cleaning the air intake vent, make
 sure to only use a vacuum to suck out
@@ -17461,7 +16966,6 @@ areas
 6-1. Maintenance and care
 
 ### LEXUS
-`lexus_nx_en_051f5bf8` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:318
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -17474,7 +16978,6 @@ water.
 6-2. Maintenance
 
 ### LEXUS
-`lexus_nx_en_688936fc` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:319
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -17549,7 +17052,6 @@ Scheduled maintenance
 6-2. Maintenance
 
 ### LEXUS
-`lexus_nx_en_848dce96` | nx | owners_manual | tier:3 | lang:en | layer:general | p:320
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -17616,7 +17118,6 @@ fluid? (P.333)
 6-2. Maintenance
 
 ### LEXUS
-`lexus_nx_en_9d384df5` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:321
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -17628,7 +17129,6 @@ Check points
 12-volt battery Check the connections.
 
 ### (P.334)
-`lexus_nx_en_a0eee8ae` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:321
 Vehicle interior
 Items
 Check points
@@ -17718,7 +17218,6 @@ Check points
 6-2. Maintenance
 
 ### LEXUS
-`lexus_nx_en_f48f2e23` | nx | owners_manual | tier:3 | lang:en | layer:general | p:322
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -17776,7 +17275,6 @@ M test in the following situations:
 6-2. Maintenance
 
 ### LEXUS
-`lexus_nx_en_a707e9dd` | nx | owners_manual | tier:3 | lang:en | layer:general | p:323
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -17795,7 +17293,6 @@ I/M test
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_69d8681e` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:324
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -17810,7 +17307,6 @@ Parts and tools
 12-volt Battery condition
 
 ### (P.334)
-`lexus_nx_en_bc6aedb6` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:324
 • Grease
 • Conventional wrench
 (for terminal clamp
@@ -17819,7 +17315,6 @@ Brake fluid
 level
 
 ### or SAE J1703; FMVSS
-`lexus_nx_en_069566e2` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:324
 No.116 DOT 4 or SAE
 J1704 brake fluid
 • Rag or paper towel
@@ -17830,7 +17325,6 @@ control unit
 coolant level
 
 ### (P.331)
-`lexus_nx_en_a6d489ec` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:324
 • “Toyota Super Long Life
 Coolant” or a similar
 high quality ethylene glycol-based non-silicate,
@@ -17854,7 +17348,6 @@ Engine oil
 level
 
 ### (P.329)
-`lexus_nx_en_ec886045` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:324
 • “Toyota Genuine Motor
 Oil” or equivalent
 • Rag or paper towel
@@ -17863,13 +17356,11 @@ adding engine oil)
 Fuses
 
 ### (P.351)
-`lexus_nx_en_e4ca47ff` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:324
 Fuse with same amperage
 rating as original
 Light bulbs
 
 ### (P.355)
-`lexus_nx_en_663b124c` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:324
 Bulb with same number
 and wattage rating as original
 Headlight aim Phillips-head screw-driver
@@ -17877,7 +17368,6 @@ Radiator and
 condenser
 
 ### (P.332)
-`lexus_nx_en_3893f239` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:324
 —
 Items
 Parts and tools
@@ -17885,7 +17375,6 @@ Parts and tools
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_903d0a5b` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:325
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -17895,13 +17384,11 @@ Tire inflation
 pressure
 
 ### (P.345)
-`lexus_nx_en_fa5b599c` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:325
 • Tire pressure gauge
 • Compressed air source
 Washer fluid
 
 ### (P.333)
-`lexus_nx_en_df1cedab` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:325
 • Water or washer fluid
 containing antifreeze
 (for winter use)
@@ -17941,13 +17428,11 @@ start to run if the air conditioning is on
 and/or the coolant temperature is high.
 
 ### (P.332)
-`lexus_nx_en_33c99465` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:325
 ■Safety glasses
 Wear safety glasses to prevent flying or
 falling material, fluid spray, etc. from getting in your eyes.
 
 ### NOTICE
-`lexus_nx_en_ec2f8a8d` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:325
 ■If you remove the air cleaner filter
 Driving with the air cleaner filter
 removed may cause excessive engine
@@ -17956,7 +17441,6 @@ wear due to dirt in the air.
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_e6e95bd8` | nx | owners_manual | tier:3 | lang:en | layer:general | p:326
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -17989,7 +17473,6 @@ Location of the jack point
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_4f4ba81b` | nx | owners_manual | tier:3 | lang:en | layer:general | p:327
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -18009,7 +17492,6 @@ B
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_eb87756a` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:328
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -18026,7 +17508,6 @@ Washer fluid tank (P.333)
 ■12-volt battery
 
 ### P.334
-`lexus_nx_en_7676d122` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:328
 Engine compartment
 Components
 A
@@ -18043,7 +17524,6 @@ J
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_cfe76982` | nx | owners_manual | tier:3 | lang:en | layer:general | p:329
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -18072,7 +17552,6 @@ in the illustration) pointing towards engine.
 Engine compartment cover
 
 ### NOTICE
-`lexus_nx_en_9adadd50` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:329
 ■After installing an engine compartment cover
 Make sure that the cover is securely
 installed in its original position.
@@ -18083,7 +17562,6 @@ A
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_5df7301f` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:330
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -18102,7 +17580,6 @@ prepare the items needed before adding oil.
 Engine oil selection
 
 ### P.404
-`lexus_nx_en_52f22061` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:330
 Oil quantity (Low Full)
 1.6 qt. (1.5 L, 1.3 Imp.qt.)
 Items
@@ -18150,7 +17627,6 @@ D
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_62d3a173` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:331
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -18186,7 +17662,6 @@ If the level is on or below the “LOW” line,
 add coolant up to the “FULL” line.
 
 ### (P.396)
-`lexus_nx_en_9e778b4f` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:331
 WARNING
 ■Used engine oil
 ●Used engine oil contains potentially
@@ -18205,7 +17680,6 @@ disposal.
 reach of children.
 
 ### NOTICE
-`lexus_nx_en_62ab83b9` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:331
 ■To prevent serious engine damage
 Check the oil level on a regular basis.
 ■When replacing the engine oil
@@ -18224,7 +17698,6 @@ C
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_d148d4cc` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:332
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -18242,7 +17715,6 @@ and non-borate coolant with long-life
 hybrid organic acid technology.
 
 ### U.S.A.:
-`lexus_nx_en_3b3d7675` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:332
 “Toyota Super Long Life Coolant” is a mixture of 50% coolant and 50% deionized
 water.
 (Minimum temperature: -31°F [-35°C])
@@ -18277,7 +17749,6 @@ is removed, causing serious injuries, such
 as burns.
 
 ### NOTICE
-`lexus_nx_en_246e3494` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:332
 ■When adding coolant
 Coolant is neither plain water nor
 straight antifreeze. The correct mixture
@@ -18297,7 +17768,6 @@ injuries, such as burns.
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_3e07ac1c` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:333
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -18313,7 +17783,6 @@ prepare the necessary item.
 Fluid type
 
 ### FMVSS No.116 DOT 3 or SAE J1703;
-`lexus_nx_en_13115af9` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:333
 FMVSS No.116 DOT 4 or SAE J1704
 brake fluid
 Items
@@ -18352,7 +17821,6 @@ If you still experience discomfort, see a
 doctor.
 
 ### NOTICE
-`lexus_nx_en_3fef6412` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:333
 ■If the fluid level is low or high
 It is normal for the brake fluid level to go
 down slightly as the brake pads wear out
@@ -18366,7 +17834,6 @@ fluid
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_56b8f5ef` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:334
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -18402,7 +17869,6 @@ contains alcohol and may catch fire if
 spilled on the engine etc.
 
 ### NOTICE
-`lexus_nx_en_1b68a7d0` | nx | owners_manual | tier:3 | lang:en | layer:body | p:334
 ■Do not use any fluid other than
 washer fluid
 Do not use soapy water or engine antifreeze instead of washer fluid.
@@ -18420,7 +17886,6 @@ Location
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_a24a9de1` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:335
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -18487,7 +17952,6 @@ immediately.
 ■When handling the 12-volt battery
 
 ### P.395
-`lexus_nx_en_7c89b3e2` | nx | owners_manual | tier:3 | lang:en | layer:body | p:335
 ■When disconnecting the 12-volt battery
 Do not disconnect the negative (-) terminal on the body side as shown. The disconnected negative (-) terminal may
 touch the positive (+) terminal, which
@@ -18497,7 +17961,6 @@ serious injury.
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_0beb37f6` | nx | owners_manual | tier:3 | lang:en | layer:general | p:336
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -18521,7 +17984,6 @@ Push up center position
 3 Press
 
 ### NOTICE
-`lexus_nx_en_13531129` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:336
 ■When recharging the 12-volt battery
 Never recharge the 12-volt battery while
 the hybrid system is operating. Also, be
@@ -18539,7 +18001,6 @@ B
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_c85b7620` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:337
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -18603,7 +18064,6 @@ C
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_bf008c8a` | nx | owners_manual | tier:3 | lang:en | layer:general | p:338
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -18662,7 +18122,6 @@ how they were used previously.
 ●Do not tow if your vehicle has a compact spare tire installed.
 
 ### NOTICE
-`lexus_nx_en_7eed1139` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:338
 ■Driving on rough roads
 Take particular care when driving on
 roads with loose surfaces or potholes.
@@ -18679,7 +18138,6 @@ Tire rotation
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_277d4aa7` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:339
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -18695,7 +18153,6 @@ predetermined level, the driver is
 warned by a warning light.
 
 ### (P.372)
-`lexus_nx_en_4a6efe27` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:339
 The tire pressure detected by the
 tire pressure warning system can be
 displayed on the multi-information
@@ -18747,7 +18204,6 @@ A
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_fb853706` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:340
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -18757,7 +18213,6 @@ Manual_USA_M78287_en
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_683e619d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:341
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -18768,7 +18223,6 @@ Maintenance and care
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_245c172f` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:342
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -18782,7 +18236,6 @@ the tire pressure warning system must
 be initialized. Have tire pressure warning valve and transmitter ID codes registered by your Lexus dealer.
 
 ### (P.344)
-`lexus_nx_en_60c2372a` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:342
 ■When replacing the tires and wheels
 If the ID code of the tire pressure warning
 valve and transmitter is not registered, the
@@ -18810,7 +18263,6 @@ Installing tire pressure warning
 valves and transmitters
 
 ### NOTICE
-`lexus_nx_en_4875a263` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:342
 ■Repairing or replacing tires, wheels,
 tire pressure warning valves, transmitters and tire valve caps
 ●When removing or fitting the wheels,
@@ -18839,7 +18291,6 @@ repairing or replacing the tire. (P.339,
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_54818749` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:343
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -18915,7 +18366,6 @@ warning system
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_0153e57a` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:344
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -18963,7 +18413,6 @@ Registering ID codes
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_36f74fb2` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:345
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -18974,7 +18423,6 @@ pressure and tire size are displayed on
 the tire and loading information label.
 
 ### (P.408)
-`lexus_nx_en_93cb20cf` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:345
 Tire valve
 Tire pressure gauge
 1
@@ -19023,7 +18471,6 @@ B
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_c3d15d00` | nx | owners_manual | tier:3 | lang:en | layer:general | p:346
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19076,7 +18523,6 @@ expansion joints, sharp edges in the
 road, etc.)
 
 ### NOTICE
-`lexus_nx_en_0412548d` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:346
 ■When inspecting and adjusting tire
 inflation pressure
 Be sure to put the tire valve caps back on.
@@ -19099,7 +18545,6 @@ loss of handling control.
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_9fbc0abe` | nx | owners_manual | tier:3 | lang:en | layer:general | p:347
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19126,7 +18571,6 @@ Doing so could cause the tire to leak air
 during driving, possibly causing an accident.
 
 ### NOTICE
-`lexus_nx_en_722fc6af` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:347
 ■Replacing tire pressure warning
 valves and transmitters
 ●Because tire repair or replacement
@@ -19146,7 +18590,6 @@ Aluminum wheel precautions
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_cab10113` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:348
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19187,7 +18630,6 @@ Removal method
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_4dda8737` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:349
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19217,7 +18659,6 @@ type recommended by the manufacturer.
 the local laws.
 
 ### NOTICE
-`lexus_nx_en_becef280` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:349
 ■When using the air conditioning system
 Make sure that a filter is always installed.
 Using the air conditioning system without
@@ -19230,7 +18671,6 @@ Items to prepare
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_00fe6921` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:350
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19251,7 +18691,6 @@ away from children. Failure to do so
 could result in death or serious injury.
 
 ### NOTICE
-`lexus_nx_en_5c79f4fd` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:350
 ■For normal operation after replacing
 the battery
 Observe the following precautions to
@@ -19265,7 +18704,6 @@ rust.
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_95cc00e1` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:351
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19302,7 +18740,6 @@ Checking and replacing fuses
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_3060a8e5` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:352
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19357,7 +18794,6 @@ B
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_6fc3a9dc` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:353
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19384,7 +18820,6 @@ Doing so may cause electric shock,
 resulting in death or serious injury.
 
 ### NOTICE
-`lexus_nx_en_a85eee8f` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:353
 ■Before replacing fuses
 Have the cause of electrical overload
 determined and repaired by your Lexus
@@ -19402,7 +18837,6 @@ B
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_abffd77d` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:354
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19430,7 +18864,6 @@ Adjusting the headlight aim
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_8101ac3d` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:355
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19438,7 +18871,6 @@ Manual_USA_M78287_en
 Maintenance and care
 
 ### P.329
-`lexus_nx_en_206f40d6` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:355
 Front side marker light (bulb type)
 Front turn signal light (bulb type)
 ■Bulbs that need to be replaced by
@@ -19476,7 +18908,6 @@ inside of the lens.
 ■When replacing light bulbs
 
 ### P.352
-`lexus_nx_en_673298a9` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:355
 Light bulbs
 You may replace the following bulbs
 by yourself.
@@ -19495,7 +18926,6 @@ B
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_582f02dd` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:356
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19503,7 +18933,6 @@ Before replacing, check the wattage of
 the light bulb to be replaced.
 
 ### (P.409)
-`lexus_nx_en_1ff670bb` | nx | owners_manual | tier:3 | lang:en | layer:body | p:356
 ■Front side marker lights (bulb type)
 1
 Turn the bulb base counterclockwise.
@@ -19530,7 +18959,6 @@ B
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_4de067da` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:357
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19591,7 +19019,6 @@ Owners
 Manual_USA_M78287_en
 359
 ### LEXUS
-`lexus_nx_en_5b9603cb` | nx | owners_manual | tier:3 | lang:en | layer:general | p:359
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19617,7 +19044,6 @@ If the vehicle becomes stuck 399
 7-1. Essential information
 
 ### LEXUS
-`lexus_nx_en_f9dd5a8e` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:360
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19665,7 +19091,6 @@ Stopping the vehicle
 7-1. Essential information
 
 ### LEXUS
-`lexus_nx_en_2c174f2d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:361
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19686,7 +19111,6 @@ possible before turning off the hybrid system.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_a75ca98d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:362
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19702,7 +19126,6 @@ towing, and abide by all state/provincial and local laws.
 If towing your vehicle with a wheellift type truck, use a towing dolly.
 
 ### (P.362, 363)
-`lexus_nx_en_8265c91c` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:362
 WARNING
 Observe the following precautions.
 Failure to do so may result in death or
@@ -19734,7 +19157,6 @@ If not securely installed, towing eyelets
 may come loose during towing.
 
 ### NOTICE
-`lexus_nx_en_6bd40f8b` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:362
 ■To prevent damage to the vehicle
 when towing using a wheel-lift type
 truck
@@ -19755,7 +19177,6 @@ from the front or rear.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_84f5e9e1` | nx | owners_manual | tier:3 | lang:en | layer:general | p:363
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19781,14 +19202,12 @@ If your vehicle is transported by a flatbed truck, it should be tied down at the
 locations shown in the illustration.
 
 ### NOTICE
-`lexus_nx_en_41102597` | nx | owners_manual | tier:3 | lang:en | layer:drivetrain | p:363
 ■Recreational towing (behind motor
 home, etc.)
 Never dinghy tow your vehicle to prevent causing serious damage to the
 Hybrid AWD system and transmission.
 
 ### (P.167)
-`lexus_nx_en_bcd612d9` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:363
 Situations when it is necessary to
 contact dealers before towing
 Towing with a sling-type truck
@@ -19799,7 +19218,6 @@ Using a flatbed truck
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_2a065802` | nx | owners_manual | tier:3 | lang:en | layer:general | p:364
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19824,7 +19242,6 @@ procedure.
 Take out the towing eyelet.
 
 ### (P.380)
-`lexus_nx_en_a5d7bd9c` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:364
 2 Remove the eyelet cover using a
 flathead screwdriver.
 To protect the bodywork, place a rag
@@ -19838,7 +19255,6 @@ To have your vehicle towed
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_866cd337` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:365
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19858,7 +19274,6 @@ the parking brake.
 When the shift lever cannot be shifted:
 
 ### P.174
-`lexus_nx_en_cfa8fbf3` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:365
 ■While towing
 If the hybrid system is off, the power assist
 for the brakes and steering will not function,
@@ -19896,7 +19311,6 @@ Operational symptoms
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_a1ac1f8d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:366
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19909,7 +19323,6 @@ floor
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_10509269` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:367
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19929,7 +19342,6 @@ Warning light
 Details/Actions
 
 ### (U.S.A.)
-`lexus_nx_en_92a2f04d` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:367
 (Red)
 (Canada)
 Indicates that:
@@ -19949,7 +19361,6 @@ Indicates that the hybrid system is overheated
 368
 7-2. Steps to take in an emergency
 ### LEXUS
-`lexus_nx_en_3c8aa34a` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:368
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -19982,7 +19393,6 @@ Warning light
 Details/Actions
 
 ### (U.S.A.)
-`lexus_nx_en_ad45df98` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:368
 (Canada)
 Indicates a malfunction in:
 The hybrid system;
@@ -19995,7 +19405,6 @@ immediately.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_878f05a0` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:369
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -20017,7 +19426,6 @@ Warning light
 Details/Actions
 
 ### (U.S.A.)
-`lexus_nx_en_2f571e48` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:369
 (Canada)
 Indicates a malfunction in:
 The ABS; or
@@ -20044,7 +19452,6 @@ Control) system is disabled, the PCS warning light will illuminate.
 370
 7-2. Steps to take in an emergency
 ### LEXUS
-`lexus_nx_en_431f7fe3` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:370
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -20092,7 +19499,6 @@ immediately.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_15c57a4f` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:371
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -20118,7 +19524,6 @@ Details/Actions
 (Flashes)
 
 ### (U.S.A.)
-`lexus_nx_en_c9e3b681` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:371
 (Flashes)
 (Canada)
 It is possible that the parking brake is not fully engaged or
@@ -20143,7 +19548,6 @@ the warning light (warning buzzer) turn off.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_8d37d72e` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:372
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -20167,7 +19571,6 @@ flashes to indicate that the master warning system has
 detected a malfunction.
 
 ### P.376
-`lexus_nx_en_ebd4352b` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:372
 Warning light
 Details/Actions
 When the light comes on:
@@ -20186,7 +19589,6 @@ Malfunction in the tire pressure warning system (P.374)
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_4c07490e` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:373
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -20250,7 +19652,6 @@ immediately.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_7b7eaaa1` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:374
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -20295,7 +19696,6 @@ few minutes.
 ■Conditions that the tire pressure warning system may not function properly
 
 ### P.339
-`lexus_nx_en_d6731e7f` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:374
 ■If the tire pressure warning light frequently comes on after blinking for 1
 minute
 If the tire pressure warning light frequently
@@ -20344,7 +19744,6 @@ Lexus dealer.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_facadf14` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:375
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -20416,7 +19815,6 @@ pressure warning system) to continue to
 function properly.
 
 ### NOTICE
-`lexus_nx_en_cc5c231b` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:375
 ■To ensure the tire pressure warning
 system operates properly
 Do not install tires with different specifications or makers, as the tire pressure
@@ -20425,7 +19823,6 @@ warning system may not operate properly.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_078a7ec3` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:376
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -20452,7 +19849,6 @@ B
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_164b8d24` | nx | owners_manual | tier:3 | lang:en | layer:general | p:377
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -20470,7 +19866,6 @@ along with a message shown on the multiinformation display.
 The ABS warning light comes on.
 
 ### (P.369)
-`lexus_nx_en_64f0c838` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:377
 ●Malfunction of the charging system
 The charging system warning light comes
 on. (P.367)
@@ -20526,7 +19921,6 @@ Indicates a situation, such as when an operation has been performed incorrectly,
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_05e40e8e` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:378
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -20621,7 +20015,6 @@ procedure on P. 316 to clean them.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_f75134ba` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:379
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -20641,7 +20034,6 @@ dangerous.
 ■Warning buzzer
 
 ### P.374
-`lexus_nx_en_681f79ec` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:379
 Stop the vehicle in a safe place on a
 hard, flat surface.
 Set the parking brake.
@@ -20650,7 +20042,6 @@ hard, flat surface.
 Turn on the emergency flashers.
 
 ### (P.360)
-`lexus_nx_en_b35e27b6` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:379
 NOTICE
 ■“High Power Consumption Partial
 Limit On AC/Heater Operation” is
@@ -20679,7 +20070,6 @@ Before jacking up the vehicle
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_fc974ede` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:380
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -20725,7 +20115,6 @@ the tire.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_df77f2e5` | nx | owners_manual | tier:3 | lang:en | layer:general | p:381
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -20757,7 +20146,6 @@ Taking out the jack
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_b793bdea` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:382
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -20806,7 +20194,6 @@ A
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_c72cf43a` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:383
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -20842,7 +20229,6 @@ may result in burns.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_26a7d367` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:384
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -20908,7 +20294,6 @@ B
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_0374e092` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:385
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -20975,7 +20360,6 @@ braking.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_02483d2b` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:386
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -20988,13 +20372,11 @@ not operate correctly:
 • ABS & Brake assist
 
 ### • VSC
-`lexus_nx_en_daf4d7b3` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:386
 • TRAC
 • Dynamic radar cruise control with fullspeed range
 • PCS (Pre-Collision System)
 
 ### • EPS
-`lexus_nx_en_f7da8b31` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:386
 • LDA (Lane Departure Alert with
 steering control)
 • Panoramic view monitor (if equipped)
@@ -21025,7 +20407,6 @@ of personal injury during a collision or
 sudden braking.
 
 ### NOTICE
-`lexus_nx_en_47c0974f` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:386
 ■Be careful when driving over bumps
 with the compact spare tire installed
 on the vehicle
@@ -21050,7 +20431,6 @@ handled correctly.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_7bf1c448` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:387
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -21073,14 +20453,12 @@ depending on the type of malfunction, an interim measure is available
 to start the hybrid system.
 
 ### (P.387)
-`lexus_nx_en_62097ca1` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:387
 One of the following may be the cause
 of the problem:
 The 12-volt battery may be discharged. (P.392)
 The 12-volt battery terminal connections may be loose or corroded.
 
 ### (P.334)
-`lexus_nx_en_dfc2afd9` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:387
 One of the following may be the cause
 of the problem:
 The 12-volt battery may be discharged. (P.392)
@@ -21088,7 +20466,6 @@ of the problem:
 terminals may be disconnected.
 
 ### (P.334)
-`lexus_nx_en_58123217` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:387
 Contact your Lexus dealer if the problem
 cannot be repaired, or if repair procedures
 are unknown.
@@ -21109,7 +20486,6 @@ even though the correct starting
 procedure is being followed.
 
 ### (P.168)
-`lexus_nx_en_86982f3c` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:387
 The interior lights and headlights are dim, or the horn does
 not sound or sounds at a low volume.
 The interior lights and headlights do not turn on, or the horn
@@ -21120,7 +20496,6 @@ emergency
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_f8064412` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:388
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -21144,7 +20519,6 @@ safe place such as your wallet, not in
 the vehicle.
 
 ### NOTICE
-`lexus_nx_en_0c588322` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:388
 ■When an electronic key is lost
 If the electronic key remains lost, the risk
 of vehicle theft increases significantly.
@@ -21156,7 +20530,6 @@ vehicle.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_767e5e62` | nx | owners_manual | tier:3 | lang:en | layer:body | p:389
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -21199,7 +20572,6 @@ system can be started by following
 the procedure below.
 
 ### NOTICE
-`lexus_nx_en_ebaac5a4` | nx | owners_manual | tier:3 | lang:en | layer:body | p:389
 ■In case of a smart access system with
 push-button start malfunction or
 other key related problems
@@ -21210,7 +20582,6 @@ Locking and unlocking the doors
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_c9d3b615` | nx | owners_manual | tier:3 | lang:en | layer:body | p:390
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -21265,7 +20636,6 @@ Starting the hybrid system
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_7fe3e469` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:391
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -21301,7 +20671,6 @@ pressed. (P.170)
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_6dde92c9` | nx | owners_manual | tier:3 | lang:en | layer:body | p:392
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -21316,7 +20685,6 @@ cables, depending on the situation, the
 alarm may activate and the doors may lock.
 
 ### (P.72)
-`lexus_nx_en_f7d4faf5` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:392
 2 Open the hood (P.326) and fuse
 box cover.
 3 Open the exclusive jump starting
@@ -21333,7 +20701,6 @@ Restarting the hybrid system
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_0856807b` | nx | owners_manual | tier:3 | lang:en | layer:general | p:393
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -21377,7 +20744,6 @@ D
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_aa648be3` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:394
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -21455,7 +20821,6 @@ B
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_46ee2627` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:395
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -21515,7 +20880,6 @@ the exhaust hole of the exchanged 12volt battery. If not properly installed,
 gases (hydrogen) may leak into the vehicle interior, and there is the possible danger of the gas igniting and exploding.
 
 ### NOTICE
-`lexus_nx_en_b75dec6a` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:395
 ■When handling jumper cables
 When connecting the jumper cables,
 ensure that they do not become entangled in the cooling fans or belt.
@@ -21527,7 +20891,6 @@ another vehicle.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_9bb4ef32` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:396
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -21581,7 +20944,6 @@ C
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_59562f86` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:397
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -21638,7 +21000,6 @@ C
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_cff317f7` | nx | owners_manual | tier:3 | lang:en | layer:general | p:398
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -21681,7 +21042,6 @@ High temperature steam or coolant
 could spray out.
 
 ### NOTICE
-`lexus_nx_en_89015bdb` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:398
 ■When adding engine/power control
 unit coolant
 Add coolant slowly after the hybrid system has cooled down sufficiently. Adding
@@ -21698,7 +21058,6 @@ etc.).
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_89bcec7a` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:399
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -21741,7 +21100,6 @@ accident resulting in death or serious
 injury.
 
 ### NOTICE
-`lexus_nx_en_a0e330b1` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:399
 ■To avoid damage to the hybrid transmission and other components
 ●Avoid spinning the front wheels and
 depressing the accelerator pedal
@@ -21757,7 +21115,6 @@ Owners
 Manual_USA_M78287_en
 401
 ### LEXUS
-`lexus_nx_en_bc0c5622` | nx | owners_manual | tier:3 | lang:en | layer:general | p:401
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -21774,7 +21131,6 @@ Customizable features.............421
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_a4ee17c2` | nx | owners_manual | tier:3 | lang:en | layer:general | p:402
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -21816,7 +21172,6 @@ Vehicle identification
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_6c29a1b4` | nx | owners_manual | tier:3 | lang:en | layer:general | p:403
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -21859,7 +21214,6 @@ Maximum torque
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_36157673` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:404
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -21904,7 +21258,6 @@ Quantity
 Overall voltage
 
 ### 244.8 V
-`lexus_nx_en_8f952836` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:404
 Lubrication system
 With filter
 4.6 qt. (4.4 L, 3.9 Imp.qt.)
@@ -21915,7 +21268,6 @@ A
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_cf615a98` | nx | owners_manual | tier:3 | lang:en | layer:general | p:405
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -21961,7 +21313,6 @@ Do not use plain water alone.
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_58791319` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:406
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -21974,7 +21325,6 @@ Ignition system
 Make
 
 ### NOTICE
-`lexus_nx_en_b19e57b0` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:406
 ■Iridium-tipped spark plugs
 Use only iridium-tipped spark plugs. Do not adjust the spark plug gap.
 Electrical system
@@ -21998,7 +21348,6 @@ Fluid type
 Toyota Genuine ATF WS
 
 ### NOTICE
-`lexus_nx_en_7c0e8093` | nx | owners_manual | tier:3 | lang:en | layer:general | p:406
 ■Transmission fluid type
 Using transmission fluid other than “Toyota Genuine ATF WS” may ultimately damage
 the hybrid transmission of your vehicle.
@@ -22006,7 +21355,6 @@ the hybrid transmission of your vehicle.
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_4f2fc395` | nx | owners_manual | tier:3 | lang:en | layer:general | p:407
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -22023,7 +21371,6 @@ Fluid type
 Toyota Genuine ATF WS
 
 ### NOTICE
-`lexus_nx_en_26a49b47` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:407
 ■Transmission fluid type
 Using transmission fluid other than “Toyota Genuine ATF WS” may cause deterioration in
 shift quality, locking up of your transmission accompanied by vibration, and ultimately
@@ -22038,7 +21385,6 @@ Pedal free play
 Fluid type
 
 ### • FMVSS No. 116 DOT 3 or SAE J1703
-`lexus_nx_en_62d291b9` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:407
 • FMVSS No. 116 DOT 4 or SAE J1704
 Steering
 Free play
@@ -22047,7 +21393,6 @@ Less than 1.2 in. (30 mm)
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_a5b2b941` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:408
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -22057,7 +21402,6 @@ Tires and wheels
 Tire size
 
 ### 225/65R17 102H
-`lexus_nx_en_081dd6b8` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:408
 Tire inflation pressure
 (Recommended cold tire inflation
 pressure)
@@ -22075,13 +21419,11 @@ inflation pressure indicated on the tire sidewall.
 Wheel size
 
 ### 17  7 J
-`lexus_nx_en_9ffe04f0` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:408
 Wheel nut torque
 76 ft•lbf (103 N•m, 10.5 kgf•m)
 Tire size
 
 ### 225/60R18 100H
-`lexus_nx_en_190b210f` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:408
 Tire inflation pressure
 (Recommended cold tire inflation
 pressure)
@@ -22099,14 +21441,12 @@ inflation pressure indicated on the tire sidewall.
 Wheel size
 
 ### 18  7 1/2 J
-`lexus_nx_en_42826146` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:408
 Wheel nut torque
 76 ft•lbf (103 N•m, 10.5 kgf•m)
 409
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_3afe2a9e` | nx | owners_manual | tier:3 | lang:en | layer:general | p:409
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -22119,7 +21459,6 @@ B: Wedge base bulbs (amber)
 Tire size
 
 ### T165/80D17 104M
-`lexus_nx_en_00b0eb79` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:409
 Spare tire inflation pressure
 (Recommended cold tire inflation
 pressure)
@@ -22127,7 +21466,6 @@ pressure)
 Wheel size
 
 ### 17  4 T
-`lexus_nx_en_e0e4ed5c` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:409
 Wheel nut torque
 76 ft•lbf (103 N•m, 10.5 kgf•m)
 Light bulbs
@@ -22146,7 +21484,6 @@ type)*
 585
 
 ### (WY21W)
-`lexus_nx_en_3d8c71c3` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:409
 21
 B
 Interior
@@ -22158,7 +21495,6 @@ A
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_328c2038` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:410
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -22237,7 +21573,6 @@ C
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_dc9d6b2f` | nx | owners_manual | tier:3 | lang:en | layer:general | p:411
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -22245,7 +21580,6 @@ Manual_USA_M78287_en
 Vehicle specifications
 
 ### NOTICE
-`lexus_nx_en_9062cdc1` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:411
 ■Notice on fuel quality
 ●Do not use improper fuels. If improper
 fuels are used, the engine will be damaged.
@@ -22273,7 +21607,6 @@ Take care not to spill gasohol. It can damage your vehicle’s paint.
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_0bc98a69` | nx | owners_manual | tier:3 | lang:en | layer:general | p:412
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -22297,7 +21630,6 @@ E
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_5f520947` | nx | owners_manual | tier:3 | lang:en | layer:general | p:413
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -22306,7 +21638,6 @@ Vehicle specifications
 A radial tire has “RADIAL” on the sidewall. A tire not marked “RADIAL” is a bias-ply tire.
 
 ### TUBELESS or TUBE TYPE
-`lexus_nx_en_c0d63c96` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:413
 A tubeless tire does not have a tube and air is directly put into the tire. A tube type tire has a
 tube inside the tire and the tube maintains the air pressure.
 Load limit at maximum cold tire inflation pressure (P.337)
@@ -22318,7 +21649,6 @@ Summer tires or all season tires (P.337)
 An all season tire has “M+S” on the sidewall. A tire not marked “M+S” is a summer tire.
 
 ### “TEMPORARY USE ONLY”
-`lexus_nx_en_7142e556` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:413
 A compact spare tire is identified by the phrase “TEMPORARY USE ONLY” molded on its
 sidewall. This tire is designed for temporary emergency use only.
 Type A
@@ -22368,7 +21698,6 @@ F
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_fe738ad7` | nx | owners_manual | tier:3 | lang:en | layer:general | p:414
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -22438,7 +21767,6 @@ K
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_ee2435e0` | nx | owners_manual | tier:3 | lang:en | layer:general | p:415
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -22507,7 +21835,6 @@ possible tire failure.
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_1d3b4831` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:416
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -22607,7 +21934,6 @@ Meaning
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_028e509c` | nx | owners_manual | tier:3 | lang:en | layer:general | p:417
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -22712,7 +22038,6 @@ Meaning
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_b1dd39cf` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:418
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -22807,7 +22132,6 @@ Meaning
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_af9e39bd` | nx | owners_manual | tier:3 | lang:en | layer:general | p:419
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -22887,7 +22211,6 @@ Treadwear
 indicators
 
 ### (TWI)
-`lexus_nx_en_d018c364` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:419
 The projections within the
 principal grooves designed
 to give a visual indication of
@@ -22904,7 +22227,6 @@ Meaning
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_89e0846f` | nx | owners_manual | tier:3 | lang:en | layer:general | p:420
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -22930,7 +22252,6 @@ in third seat, 1 in fourth seat
 8-2. Customization
 
 ### LEXUS
-`lexus_nx_en_fb6a9f83` | nx | owners_manual | tier:3 | lang:en | layer:general | p:421
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -22991,7 +22312,6 @@ and enter the vehicle. This may lead to
 death or a serious health hazard.
 
 ### NOTICE
-`lexus_nx_en_c5eac2e2` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:421
 ■During customization
 To prevent 12-volt battery discharge,
 ensure that the hybrid system is operating while customizing features.
@@ -23004,7 +22324,6 @@ D
 8-2. Customization
 
 ### LEXUS
-`lexus_nx_en_101b3bfa` | nx | owners_manual | tier:3 | lang:en | layer:body | p:422
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -23013,7 +22332,6 @@ Definition of symbols: O = Available, – =Not available
 ■Smart access system with push-button start and wireless remote control
 
 ### (P.104, 120)
-`lexus_nx_en_2832db43` | nx | owners_manual | tier:3 | lang:en | layer:body | p:422
 Function
 Default setting
 Customized setting
@@ -23111,7 +22429,6 @@ D
 8-2. Customization
 
 ### LEXUS
-`lexus_nx_en_73a5daae` | nx | owners_manual | tier:3 | lang:en | layer:general | p:423
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -23226,7 +22543,6 @@ D
 8-2. Customization
 
 ### LEXUS
-`lexus_nx_en_f7724ebc` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:424
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -23343,7 +22659,6 @@ D
 8-2. Customization
 
 ### LEXUS
-`lexus_nx_en_0546dd98` | nx | owners_manual | tier:3 | lang:en | layer:general | p:425
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -23442,7 +22757,6 @@ D
 8-2. Customization
 
 ### LEXUS
-`lexus_nx_en_84bdad63` | nx | owners_manual | tier:3 | lang:en | layer:body | p:426
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -23540,7 +22854,6 @@ D
 8-2. Customization
 
 ### LEXUS
-`lexus_nx_en_c1bd89f3` | nx | owners_manual | tier:3 | lang:en | layer:general | p:427
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -23623,7 +22936,6 @@ D
 8-2. Customization
 
 ### LEXUS
-`lexus_nx_en_b9921137` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:428
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -23744,7 +23056,6 @@ D
 8-2. Customization
 
 ### LEXUS
-`lexus_nx_en_b8ad93ce` | nx | owners_manual | tier:3 | lang:en | layer:body | p:429
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -23814,7 +23125,6 @@ D
 8-3. Initialization
 
 ### LEXUS
-`lexus_nx_en_727858fe` | nx | owners_manual | tier:3 | lang:en | layer:general | p:430
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -23833,13 +23143,11 @@ After reconnecting or changing the
 12-volt battery
 
 ### P.238
-`lexus_nx_en_cd13e761` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:430
 Message indicating maintenance is
 required (U.S.A. only)
 After the maintenance is performed
 
 ### P.319
-`lexus_nx_en_224094f3` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:430
 Tire pressure warning system
 • When rotating the tires on vehicles with differing front and rear
 tire inflation pressures
@@ -23849,12 +23157,10 @@ speed or load weight, etc.
 • When changing the tire size
 
 ### P.343
-`lexus_nx_en_d4b65d2d` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:430
 Oil maintenance
 After the maintenance is performed
 
 ### P.330
-`lexus_nx_en_2cf2edaa` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:430
 Lexus parking assist monitor*
 • After reconnecting or changing
 the 12-volt battery
@@ -23868,7 +23174,6 @@ Power back door*
 Power window
 When functioning abnormally
 ### LEXUS
-`lexus_nx_en_589f44e7` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:431
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -23886,7 +23191,6 @@ Canadian owners (in French)
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_38fbb397` | nx | owners_manual | tier:3 | lang:en | layer:general | p:432
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -23943,7 +23247,6 @@ Utilisation correcte des ceintures de sécurité
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_e7166e30` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:433
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -23991,7 +23294,6 @@ blessures graves, voire mortelles.
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_275d7420` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:434
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -24021,7 +23323,6 @@ E
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_d8822a06` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:435
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -24070,7 +23371,6 @@ Q
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_4ab2f8d3` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:436
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -24100,7 +23400,6 @@ dispositifs de protection complémentaires aux ceintures de sécurité.
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_bcf3015b` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:437
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -24172,7 +23471,6 @@ droit.
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_e36fdb71` | nx | owners_manual | tier:3 | lang:en | layer:general | p:438
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -24220,7 +23518,6 @@ les mains à l’extérieur du véhicule.
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_dbc96636` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:439
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -24289,7 +23586,6 @@ Lexus.
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_6dea4643` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:440
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -24334,7 +23630,6 @@ permettre sa conduite par une personne atteinte d’un handicap physique
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_84e50d54` | nx | owners_manual | tier:3 | lang:en | layer:suspension | p:441
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -24380,7 +23675,6 @@ Réglage du pointage des projecteurs
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_e16aaa1c` | nx | owners_manual | tier:3 | lang:en | layer:general | p:442
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -24396,7 +23690,6 @@ afin qu’il en règle le pointage.
 443
 
 ### LEXUS
-`lexus_nx_en_e3c20c1b` | nx | owners_manual | tier:3 | lang:en | layer:general | p:443
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -24406,7 +23699,6 @@ What to do if... (Troubleshooting)
 What to do if... (Troubleshooting)
 
 ### LEXUS
-`lexus_nx_en_51312fe5` | nx | owners_manual | tier:3 | lang:en | layer:body | p:444
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -24417,7 +23709,6 @@ new genuine mechanical keys can
 be made by your Lexus dealer.
 
 ### (P.388)
-`lexus_nx_en_074d3b4f` | nx | owners_manual | tier:3 | lang:en | layer:body | p:444
 If you lose your electronic keys, the
 risk of vehicle theft increases significantly. Contact your Lexus dealer
 immediately. (P.388)
@@ -24447,7 +23738,6 @@ detectable inside the vehicle?
 
 Is the steering wheel unlocked?
 ### (P.169)
-`lexus_nx_en_419c26c3` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:444
 Is the electronic key battery weak or
 depleted?
 In this case, the hybrid system can
@@ -24455,7 +23745,6 @@ be started in a temporary way.
 
 Is the 12-volt battery discharged?
 ### (P.392)
-`lexus_nx_en_84df828f` | nx | owners_manual | tier:3 | lang:en | layer:body | p:444
 If you have a problem, check the
 following before contacting your
 Lexus dealer.
@@ -24472,7 +23761,6 @@ The hybrid system does not start
 What to do if... (Troubleshooting)
 
 ### LEXUS
-`lexus_nx_en_9bf44540` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:445
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -24484,7 +23772,6 @@ by depressing the brake pedal with
 the power switch in ON mode
 
 ### (P.174)
-`lexus_nx_en_93039146` | nx | owners_manual | tier:3 | lang:en | layer:body | p:445
 It is locked automatically to prevent
 theft of the vehicle. (P.169)
 Is the window lock switch pressed?
@@ -24504,7 +23791,6 @@ wearing the seat belts? (P.371)
 Is the parking brake released?
 
 ### (P.177)
-`lexus_nx_en_a5a01a81` | nx | owners_manual | tier:3 | lang:en | layer:body | p:445
 Depending on the situation, other
 types of warning buzzer may also
 sound. (P.367, 376)
@@ -24544,7 +23830,6 @@ warning message is displayed
 What to do if... (Troubleshooting)
 
 ### LEXUS
-`lexus_nx_en_a073c67b` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:446
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -24560,7 +23845,6 @@ The vehicle becomes stuck
 What to do if... (Troubleshooting)
 
 ### LEXUS
-`lexus_nx_en_3d053017` | nx | owners_manual | tier:3 | lang:en | layer:general | p:447
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -24569,16 +23853,13 @@ Alphabetical Index
 Alphabetical Index
 A
 
-`lexus_nx_en_afcd8eee` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:449
 450
 Alphabetical Index
 
-`lexus_nx_en_7fc0db24` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:458
 459
 What to do if... (Troubleshooting)
 
 ### MANUAL”.
-`lexus_nx_en_1b1910cd` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:459
 б Audio/visual system
 б Navigation system
 б Lexus parking assist monitor
@@ -24587,7 +23868,6 @@ What to do if... (Troubleshooting)
 460
 
 ### GAS STATION INFORMATION
-`lexus_nx_en_faab0bb3` | nx | owners_manual | tier:3 | lang:en | layer:body | p:460
 Auxiliary catch lever (P.326)
 Back door opener switch* (P.111)
 Fuel filler door (P.195)
@@ -24600,16 +23880,11 @@ Fuel type
 Unleaded gasoline only
 
 ### P.408
-`lexus_nx_en_d5406ac5` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:460
 Engine oil capacity
 (Drain and refill — reference)
 
 
-# Manual: lexus/nx (763 chunks)
-<!-- doc_type:owners_manual tier:3 lang:en -->
-
 ### LEXUS
-`lexus_nx_en_f8d1a7f3` | nx | owners_manual | tier:3 | lang:en | layer:body | p:2
 LEXUS NX300h Owners Manual_USA_M78287_en
 1
 2
@@ -24666,7 +23941,6 @@ Owners
 Manual_USA_M78287_en
 
 ### TABLE OF CONTENTS
-`lexus_nx_en_6152c664` | nx | owners_manual | tier:3 | lang:en | layer:general | p:3
 LEXUS
 NX300h
 Owners
@@ -24714,7 +23988,6 @@ Luggage compartment features
 4
 
 ### TABLE OF CONTENTS
-`lexus_nx_en_304261b5` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:5
 LEXUS
 NX300h
 Owners
@@ -24742,7 +24015,6 @@ Index
 6
 
 ### LEXUS
-`lexus_nx_en_98f1ff6f` | nx | owners_manual | tier:3 | lang:en | layer:general | p:6
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -24806,7 +24078,6 @@ system
 7
 
 ### LEXUS
-`lexus_nx_en_af3c22b6` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:7
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -24878,7 +24149,6 @@ Event data recorder
 8
 
 ### LEXUS
-`lexus_nx_en_c87fb3aa` | nx | owners_manual | tier:3 | lang:en | layer:general | p:8
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -24943,7 +24213,6 @@ Perchlorate Material
 9
 
 ### LEXUS
-`lexus_nx_en_04c3fd97` | nx | owners_manual | tier:3 | lang:en | layer:general | p:9
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -24979,7 +24248,6 @@ vehicle can be fatal to children.
 10
 
 ### LEXUS
-`lexus_nx_en_7e03e847` | nx | owners_manual | tier:3 | lang:en | layer:general | p:10
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -24995,7 +24263,6 @@ cause death or serious
 injury to people.
 
 ### NOTICE:
-`lexus_nx_en_6b59f093` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:10
 Explains something that,
 if not obeyed, could
 cause damage to or a
@@ -25019,7 +24286,6 @@ this, or Do not let this happen.
 11
 
 ### LEXUS
-`lexus_nx_en_7264d1c0` | nx | owners_manual | tier:3 | lang:en | layer:general | p:11
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25054,7 +24320,6 @@ J
 17
 Pictorial index
 ### LEXUS
-`lexus_nx_en_71bd5fba` | nx | owners_manual | tier:3 | lang:en | layer:body | p:17
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25081,7 +24346,6 @@ B
 Pictorial index
 
 ### LEXUS
-`lexus_nx_en_cf57259d` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:18
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25094,7 +24358,6 @@ Talk switch*
 Telephone switches*
 
 ### *: Refer to “NAVIGATION AND MULTIMEDIA SYSTEM OWNER’S MANUAL”.
-`lexus_nx_en_d1551b40` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:18
 EV drive mode switch............................................................................................. P.171
 Driving mode select switch................................................................................ P.248
 VSC off switch..........................................................................................................P.251
@@ -25122,7 +24385,6 @@ G
 Pictorial index
 
 ### LEXUS
-`lexus_nx_en_355dd589` | nx | owners_manual | tier:3 | lang:en | layer:general | p:19
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25131,7 +24393,6 @@ Manual_USA_M78287_en
 Pictorial index
 
 ### LEXUS
-`lexus_nx_en_bc0defab` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:20
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25160,7 +24421,6 @@ J
 Pictorial index
 
 ### LEXUS
-`lexus_nx_en_7eed8404` | nx | owners_manual | tier:3 | lang:en | layer:body | p:21
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25190,7 +24450,6 @@ Owners
 Manual_USA_M78287_en
 23
 ### LEXUS
-`lexus_nx_en_3d128eec` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:23
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25210,7 +24469,6 @@ Hybrid system precautions...... 64
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_065726af` | nx | owners_manual | tier:3 | lang:en | layer:general | p:24
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25265,7 +24523,6 @@ not interfere with the floor mat.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_d1c4fe19` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:25
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25284,7 +24541,6 @@ with the center of the head restraint
 closest to the top of your ears.
 
 ### (P.27)
-`lexus_nx_en_876af584` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:25
 Make sure that all occupants are wearing their seat belts before driving the
 vehicle. (P.27)
 Use a child restraint system appropriate for the child until the child becomes
@@ -25335,7 +24591,6 @@ Adjusting the mirrors
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_66651556` | nx | owners_manual | tier:3 | lang:en | layer:general | p:26
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25374,7 +24629,6 @@ snug across your hips.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_adeb7ffb` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:27
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25437,7 +24691,6 @@ Correct use of the seat belts
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_e3638229` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:28
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25488,7 +24741,6 @@ safe on another vehicle, when used by
 another person, or at a different seating position other than the one originally intended.
 
 ### NOTICE
-`lexus_nx_en_96c81d47` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:28
 ■When releasing a seat belt extender
 Press on the buckle release button on the
 extender, not on the seat belt, then,
@@ -25504,7 +24756,6 @@ A
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_d255ce1c` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:29
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25545,7 +24796,6 @@ C
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_e955e4e7` | nx | owners_manual | tier:3 | lang:en | layer:body | p:30
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25589,7 +24839,6 @@ B
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_93acbe3e` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:31
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25658,7 +24907,6 @@ Lexus dealer.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_d4c7887a` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:32
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25689,7 +24937,6 @@ E
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_6edeab38` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:33
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25738,7 +24985,6 @@ R
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_2816b2bf` | nx | owners_manual | tier:3 | lang:en | layer:general | p:34
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25771,7 +25017,6 @@ an emergency and helps to dispatch the
 necessary emergency services.
 
 ### (P.304)
-`lexus_nx_en_c38404a7` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:34
 ■SRS airbag deployment conditions (SRS
 front airbags)
 ●The SRS front airbags will deploy in the
@@ -25823,7 +25068,6 @@ the illustration.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_6a375b71` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:35
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25872,7 +25116,6 @@ it is involved in a low-speed side or lowspeed frontal collision.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_0da32642` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:36
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25907,7 +25150,6 @@ scratched, cracked, or otherwise damaged.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_bdb96e22` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:37
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -25963,7 +25205,6 @@ instrument panel controls.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_55deaf25` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:38
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26012,7 +25253,6 @@ their head or hands outside the vehicle.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_64dfa748` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:39
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26072,7 +25312,6 @@ deploy in the event of a collision.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_65c9f373` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:40
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26104,7 +25343,6 @@ players
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_19a491de` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:41
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26131,7 +25369,6 @@ F
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_a0f1d32d` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:42
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26144,7 +25381,6 @@ light
 “AIR BAG ON” and “AIR BAG OFF” indicator lights
 
 ### “AIR BAG ON”
-`lexus_nx_en_81978567` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:42
 SRS warning light
 Off
 Front passenger’s seat belt reminder light
@@ -26166,7 +25402,6 @@ light
 “AIR BAG ON” and “AIR BAG OFF” indicator lights
 
 ### “AIR BAG OFF” or
-`lexus_nx_en_dc7e9fa3` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:42
 “AIR BAG ON”*4
 SRS warning light
 Off
@@ -26189,7 +25424,6 @@ Activated
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_4ec9f837` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:43
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26202,7 +25436,6 @@ light
 “AIR BAG ON” and “AIR BAG OFF” indicator lights
 
 ### “AIR BAG OFF” *6
-`lexus_nx_en_75177123` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:43
 SRS warning light
 Off
 Front passenger’s seat belt reminder light
@@ -26225,7 +25458,6 @@ light
 “AIR BAG ON” and “AIR BAG OFF” indicator lights
 
 ### “AIR BAG OFF”
-`lexus_nx_en_a4d03c61` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:43
 SRS warning light
 Off
 Front passenger’s seat belt reminder light
@@ -26246,7 +25478,6 @@ Activated
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_de18a6ac` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:44
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26266,7 +25497,6 @@ light
 “AIR BAG ON” and “AIR BAG OFF” indicator lights
 
 ### “AIR BAG OFF”
-`lexus_nx_en_c7a99de3` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:44
 SRS warning light
 On
 Front passenger’s seat belt reminder light
@@ -26287,7 +25517,6 @@ Activated
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_a2737cca` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:45
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26358,7 +25587,6 @@ the front passenger seat, install the
 child restraint system on the front passenger seat in the proper order.
 
 ### (P.50)
-`lexus_nx_en_79c00744` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:45
 ●Do not modify or remove the front
 seats.
 ●Do not kick the front passenger seat or
@@ -26377,7 +25605,6 @@ seat cushion surface.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_e8761233` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:46
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26399,7 +25626,6 @@ while driving or operating the
 power window accidentally.
 
 ### (P.107, 143)
-`lexus_nx_en_e23cd629` | nx | owners_manual | tier:3 | lang:en | layer:body | p:46
 Do not let small children operate
 equipment which may catch or
 pinch body parts, such as the
@@ -26421,7 +25647,6 @@ inside the vehicle can be fatal to children.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_2655b277` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:47
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26490,7 +25715,6 @@ harness of the child restraint system.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_5dc441e8` | nx | owners_manual | tier:3 | lang:en | layer:general | p:48
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26518,7 +25742,6 @@ vehicle or store it securely in the luggage compartment.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_1382fe49` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:49
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26540,7 +25763,6 @@ Anchor brackets (for
 top tether strap)
 attachment
 ### LEXUS
-`lexus_nx_en_442d8596` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:50
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26596,7 +25818,6 @@ remove the head restraint.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_b53252b8` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:51
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26664,7 +25885,6 @@ a seat belt
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_65b979b4` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:52
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26705,7 +25925,6 @@ restraint. (P.135)
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_ef53f880` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:53
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26749,7 +25968,6 @@ restraint. (P.135)
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_97eeeb53` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:54
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26769,7 +25987,6 @@ positioned over the child’s shoulder and
 that the lap belt is as low as possible.
 
 ### (P.27)
-`lexus_nx_en_728454d4` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:54
 ■Removing a child restraint system
 installed with a seat belt
 Press the buckle release button and
@@ -26785,7 +26002,6 @@ slowly return it to the stowing position.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_f7516623` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:55
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26863,7 +26079,6 @@ a child restraint LATCH anchor
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_a7d181e9` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:56
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26894,7 +26109,6 @@ A
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_571afcac` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:57
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -26914,14 +26128,12 @@ anchors
 The LATCH system conforms to
 
 ### FMVSS225 or CMVSS210.2.
-`lexus_nx_en_ae44d7ab` | nx | owners_manual | tier:3 | lang:en | layer:general | p:57
 Child restraint systems conforming to
 FMVSS213 or CMVSS213 specifications
 can be used.
 This vehicle is designed to conform to SAE
 
 ### J1819.
-`lexus_nx_en_a3e1071a` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:57
 ■Anchor brackets (for top tether
 strap)
 Anchor brackets are provided for each
@@ -26961,7 +26173,6 @@ tether strap)
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_3161cae7` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:58
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27020,7 +26231,6 @@ B
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_c894bf3f` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:59
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27034,7 +26244,6 @@ anchors
 The LATCH system conforms to
 
 ### J1819.
-`lexus_nx_en_40f0f834` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:59
 WARNING
 ■When installing a child restraint system
 Observe the following precautions. Failure to do so may result in death or serious injury.
@@ -27069,7 +26278,6 @@ possible that the child restraint system
 may not be securely fixed.
 
 ### NOTICE
-`lexus_nx_en_e3eb0a7c` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:59
 ■Anchor brackets (for top tether
 strap)
 When not in use, make certain to close
@@ -27079,7 +26287,6 @@ damaged.
 1-1. For safe use
 
 ### LEXUS
-`lexus_nx_en_b38a5e7a` | nx | owners_manual | tier:3 | lang:en | layer:general | p:60
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27127,7 +26334,6 @@ by your Lexus dealer.
 1-2. Hybrid system
 
 ### LEXUS
-`lexus_nx_en_8b5b5c10` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:61
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27163,7 +26369,6 @@ C
 1-2. Hybrid system
 
 ### LEXUS
-`lexus_nx_en_4f889111` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:62
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27223,7 +26428,6 @@ hybrid system, contact your Lexus dealer.
 ■Charging the 12-volt battery
 
 ### P.394
-`lexus_nx_en_7991591e` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:62
 ■After the 12-volt battery has discharged
 or when the terminal has been removed
 and installed during exchange, etc.
@@ -27234,7 +26438,6 @@ few days, contact your Lexus dealer.
 1-2. Hybrid system
 
 ### LEXUS
-`lexus_nx_en_1ad7503f` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:63
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27305,7 +26508,6 @@ system
 1-2. Hybrid system
 
 ### LEXUS
-`lexus_nx_en_faa9f079` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:64
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27341,7 +26543,6 @@ H
 1-2. Hybrid system
 
 ### LEXUS
-`lexus_nx_en_83139474` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:65
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27416,7 +26617,6 @@ small amount of water may be dangerous.
 1-2. Hybrid system
 
 ### LEXUS
-`lexus_nx_en_017d25e1` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:66
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27482,7 +26682,6 @@ that can result in death or serious
 injury.
 
 ### NOTICE
-`lexus_nx_en_59a584e4` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:66
 ■Hybrid battery (traction battery)
 Do not carry large amounts of water
 such as water cooler bottles in the vehicle. If water spills onto the hybrid battery
@@ -27496,7 +26695,6 @@ vents
 1-2. Hybrid system
 
 ### LEXUS
-`lexus_nx_en_18720a7d` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:67
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27520,7 +26718,6 @@ multi-information display, read the
 message and follow the instructions.
 
 ### NOTICE
-`lexus_nx_en_129e5410` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:67
 ■Hybrid battery (traction battery) air
 intake and discharge vents
 ●Do not place objects that will block the
@@ -27555,7 +26752,6 @@ Hybrid warning message
 1-2. Hybrid system
 
 ### LEXUS
-`lexus_nx_en_a4c534cd` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:68
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27568,7 +26764,6 @@ case, try to start the system again. If the
 1-3. Theft deterrent system
 
 ### LEXUS
-`lexus_nx_en_6136f4e1` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:69
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27606,7 +26801,6 @@ Operating the system
 1-3. Theft deterrent system
 
 ### LEXUS
-`lexus_nx_en_7ee54ea7` | nx | owners_manual | tier:3 | lang:en | layer:general | p:70
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27619,7 +26813,6 @@ approved by the party responsible for
 compliance could void the user’s authority to operate the equipment.
 
 ### NOTICE
-`lexus_nx_en_c8a2477d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:70
 ■To ensure the system operates correctly
 Do not modify or remove the system. If
 modified or removed, the proper operation of the system cannot be guaranteed.
@@ -27627,7 +26820,6 @@ modified or removed, the proper operation of the system cannot be guaranteed.
 1-3. Theft deterrent system
 
 ### LEXUS
-`lexus_nx_en_90254229` | nx | owners_manual | tier:3 | lang:en | layer:body | p:71
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27672,7 +26864,6 @@ inside lock button.
 replaced when the vehicle is locked.
 
 ### (P.394)
-`lexus_nx_en_eb46ac0f` | nx | owners_manual | tier:3 | lang:en | layer:body | p:71
 Alarm
 The alarm uses light and sound to
 give an alert when an intrusion is
@@ -27691,7 +26882,6 @@ alarm system
 1-3. Theft deterrent system
 
 ### LEXUS
-`lexus_nx_en_e2fd74fe` | nx | owners_manual | tier:3 | lang:en | layer:body | p:72
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27706,14 +26896,12 @@ remaining in the vehicle unlocks the door.
 battery.
 
 ### NOTICE
-`lexus_nx_en_c13e31ce` | nx | owners_manual | tier:3 | lang:en | layer:general | p:72
 ■To ensure the system operates correctly
 Do not modify or remove the system. If
 modified or removed, the proper operation of the system cannot be guaranteed.
 73
 
 ### LEXUS
-`lexus_nx_en_080df7bd` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:73
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27730,7 +26918,6 @@ Energy monitor/fuel consumption
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_0752876f` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:74
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27746,7 +26933,6 @@ Instrument cluster
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_1fd71c76` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:75
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27760,13 +26946,11 @@ switch is turned to ON mode to indiWarning lights
 (Canada)
 Brake system warning light*1
 ### (P.367)
-`lexus_nx_en_33960489` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:75
 Charging system warning
 light*2 (P.367)
 Output control warning light*2
 
 ### (P.367, 377)
-`lexus_nx_en_9634dac5` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:75
 Low engine oil pressure warning light*2 (P.368)
 High coolant temperature
 warning light*2 (P.368)
@@ -27779,7 +26963,6 @@ Malfunction indicator lamp*1
 (Canada)
 Malfunction indicator lamp*1
 ### (U.S.A.)
-`lexus_nx_en_040046b7` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:75
 ABS warning light*1 (P.369)
 (Canada)
 ABS warning light*1 (P.369)
@@ -27794,25 +26977,21 @@ LDA indicator*2 (P.370)
 PKSB OFF indicator*1, 3
 
 ### (P.370)
-`lexus_nx_en_1362bf4e` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:75
 Slip indicator light*1 (P.370)
 Brake hold operated indicator*1, 3 (P.370)
 
 (Canada)
 Parking brake indicator*3
 ### (P.371)
-`lexus_nx_en_75d27b6b` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:75
 Driver’s and front passenger’s
 seat belt reminder light
 
 ### (P.371)
-`lexus_nx_en_ca3bb999` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:75
 Rear passengers’ seat belt
 reminder light*4 (P.372)
 Master warning light*1
 
 ### (P.372)
-`lexus_nx_en_e9d0bc8e` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:75
 Brake Override System/
 Drive-Start Control warning
 light*2 (P.373)
@@ -27820,7 +26999,6 @@ light*2 (P.373)
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_d44590b9` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:76
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27851,14 +27029,12 @@ Indicators
 Turn signal indicator (P.176)
 
 ### (U.S.A.)
-`lexus_nx_en_44145d44` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:76
 Headlight indicator (P.182)
 (Canada)
 Tail light indicator (P.182)
 Headlight high beam indicator
 
 ### (P.184)
-`lexus_nx_en_035cedb2` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:76
 Automatic High Beam indicator (P.185)
 Fog light indicator (P.188)
 “READY” indicator (P.168)
@@ -27866,7 +27042,6 @@ EV indicator (P.62)
 EV drive mode indicator*2
 
 ### (P.171)
-`lexus_nx_en_11f6f101` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:76
 “Eco” indicator*2 (P.248)
 “Sport” indicator*2 (P.248)
 Dynamic radar cruise control
@@ -27875,14 +27050,12 @@ Cruise control “SET” indicator*2 (P.217)
 Cruise control indicator*2
 
 ### (P.223)
-`lexus_nx_en_ee6f27ca` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:76
 (White)
 LDA indicator*2 (P.212)
 77
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_c35adf6b` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:77
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27933,7 +27106,6 @@ Parking brake indicator
 (Canada)
 Parking brake indicator
 ### (P.179)
-`lexus_nx_en_cabc3bb1` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:77
 Brake hold operated indicator*1 (P.179)
 Low outside temperature indicator*2, 5 (P.79)
 (if equipped)
@@ -27943,7 +27115,6 @@ Security indicator*8 (P.69,
 71)
 
 ### (U.S.A.)
-`lexus_nx_en_1c72099a` | nx | owners_manual | tier:3 | lang:en | layer:general | p:77
 “AIR BAG ON/OFF” indicator*8 (P.41)
 (Canada)
 “AIR BAG ON/OFF” indicator*8 (P.41)
@@ -27951,7 +27122,6 @@ Security indicator*8 (P.69,
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_aa162c01` | nx | owners_manual | tier:3 | lang:en | layer:body | p:78
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -27964,7 +27134,6 @@ panel.
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_2656f90d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:79
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -28002,7 +27171,6 @@ F
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_a461cc42` | nx | owners_manual | tier:3 | lang:en | layer:general | p:80
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -28043,7 +27211,6 @@ C
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_6d19562b` | nx | owners_manual | tier:3 | lang:en | layer:general | p:81
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -28089,7 +27256,6 @@ J
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_b2ec6955` | nx | owners_manual | tier:3 | lang:en | layer:general | p:82
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -28164,7 +27330,6 @@ D
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_9e58e68b` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:83
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -28207,7 +27372,6 @@ causing rapid and excessive engine braking and possibly an accident resulting in
 personal death or injury.
 
 ### NOTICE
-`lexus_nx_en_4f28ee55` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:83
 ■To prevent damage to the engine and
 its components
 ●When the tachometer is displayed, do
@@ -28222,7 +27386,6 @@ and check the engine or hybrid system
 after it has cooled completely.
 
 ### (P.396)
-`lexus_nx_en_2e7573a7` | nx | owners_manual | tier:3 | lang:en | layer:body | p:83
 Changing between the odometer, trip meter and maintenance
 required information
 Changing the Instrument panel
@@ -28231,7 +27394,6 @@ light brightness
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_fcf27077` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:84
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -28240,7 +27402,6 @@ Manual_USA_M78287_en
 ■Liquid crystal display
 
 ### P.82
-`lexus_nx_en_af536dff` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:84
 The multi-information display is operated using the meter control switches.
 Select an item/change pages
 Enter/set
@@ -28267,7 +27428,6 @@ Driving assist system information (P.86)
 Warning message display
 
 ### NOTICE
-`lexus_nx_en_9778312c` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:84
 ■The multi-information display at low
 temperatures
 Allow the interior of the vehicle to warm
@@ -28283,7 +27443,6 @@ D
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_465cbc5d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:85
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -28341,7 +27500,6 @@ appear.
 ■Energy monitor
 
 ### P.93
-`lexus_nx_en_469dcb24` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:85
 ■Speedometer
 Displays the vehicle speed.
 ■Tire inflation pressure
@@ -28364,7 +27522,6 @@ Drive information
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_2dbbbdba` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:86
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -28433,7 +27590,6 @@ Settings display
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_745a2558` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:87
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -28446,7 +27602,6 @@ Select to set the vehicle sway warning sensitivity.
 PCS (Pre-Collision System)
 
 ### (P.202)
-`lexus_nx_en_6d7adab1` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:87
 Select to set up the following items.
 PCS on/off
 Select to enable/disable the pre-collision
@@ -28467,7 +27622,6 @@ PKSB (Parking Support
 Brake System) (if equipped)
 
 ### (P.232)
-`lexus_nx_en_fa50e504` | nx | owners_manual | tier:3 | lang:en | layer:body | p:87
 PKSB on/off
 Select to enable/disable the parking support brake function (for static objects).
 ■Clock
@@ -28477,7 +27631,6 @@ Select to switch between 12-hour display and 24-hour display.
 PBD (Power Back Door)
 
 ### (P.108)*1
-`lexus_nx_en_640a0d1f` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:87
 Select to set up the following items.
 • System settings
 Select to enable/disable the power back
@@ -28515,7 +27668,6 @@ Switch settings (P.84)
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_4ed26c28` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:88
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -28565,7 +27717,6 @@ collect and enter the vehicle. This may
 lead to death or a serious health hazard.
 
 ### NOTICE
-`lexus_nx_en_5fb91283` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:88
 ■During setting up the display
 To prevent 12-volt battery discharge,
 ensure that the hybrid system is operating while setting up the display features.
@@ -28575,7 +27726,6 @@ equipped)
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_3bc77985` | nx | owners_manual | tier:3 | lang:en | layer:general | p:89
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -28638,14 +27788,12 @@ NX300h
 Owners
 Manual_USA_M78287_en
 ### U.S.A.
-`lexus_nx_en_d0a31aba` | nx | owners_manual | tier:3 | lang:en | layer:general | p:90
 OFFON (MPH)ON (km/
 h)OFF
 Canada
 OFFON (km/h)ON
 
 ### (MPH)OFF
-`lexus_nx_en_650032a6` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:90
 ■“DISP” button
 Pressing the button changes the display items
 (except vehicle speed) as
@@ -28682,7 +27830,6 @@ the vehicle. This may lead to death or a
 serious health hazard.
 
 ### NOTICE
-`lexus_nx_en_76aceeb5` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:90
 ■To prevent damage to components
 ●Do not place any drinks near the headup display projector. If the projector
 gets wet, electrical malfunctions may
@@ -28693,7 +27840,6 @@ Doing so could interrupt head-up display indications.
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_555cc730` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:91
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -28726,7 +27872,6 @@ being exceeded (during full power driving,
 etc.)
 
 ### NOTICE
-`lexus_nx_en_13bdf87b` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:91
 ●Do not touch the inside of the head-up
 display projector or thrust sharp edges
 or the like into the projector.
@@ -28746,7 +27891,6 @@ D
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_bac3c45f` | nx | owners_manual | tier:3 | lang:en | layer:general | p:92
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -28794,7 +27938,6 @@ Display customization
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_04da889a` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:93
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -28833,7 +27976,6 @@ Energy monitor
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_6aa64bdf` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:94
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -28854,7 +27996,6 @@ Multi-information display
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_ee8a56d7` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:95
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -28906,7 +28047,6 @@ F
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_f893d1a4` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:96
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -28976,7 +28116,6 @@ with navigation system)
 2-1. Instrument cluster
 
 ### LEXUS
-`lexus_nx_en_75da2376` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:97
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -29004,7 +28143,6 @@ and energy recovery states.
 Displayed content is the same as that displayed on the multi-information display.
 
 ### (P.93)
-`lexus_nx_en_62adf76e` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:97
 The image is an example only, and may
 vary slightly from actual conditions.
 98
@@ -29015,7 +28153,6 @@ Owners
 Manual_USA_M78287_en
 99
 ### LEXUS
-`lexus_nx_en_00eb2a9f` | nx | owners_manual | tier:3 | lang:en | layer:body | p:99
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -29038,7 +28175,6 @@ and moon roof
 3-1. Key information
 
 ### LEXUS
-`lexus_nx_en_a5cfc0d8` | nx | owners_manual | tier:3 | lang:en | layer:general | p:100
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -29106,7 +28242,6 @@ D
 3-1. Key information
 
 ### LEXUS
-`lexus_nx_en_b0d7a53f` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:101
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -29123,7 +28258,6 @@ phones
 ■Replacing the battery
 
 ### P.349
-`lexus_nx_en_593a0cc2` | nx | owners_manual | tier:3 | lang:en | layer:body | p:101
 ■Confirmation of the registered key
 number
 The number of keys already registered to
@@ -29132,7 +28266,6 @@ Lexus dealer for details.
 The electronic keys are equipped with
 
 ### NOTICE
-`lexus_nx_en_fa82dae8` | nx | owners_manual | tier:3 | lang:en | layer:body | p:101
 ■To prevent key damage
 ●Do not drop the keys, subject them to
 strong shocks or bend them.
@@ -29164,7 +28297,6 @@ other key related problems
 
 ■When an electronic key is lost
 ### P.388
-`lexus_nx_en_1ceffea1` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:101
 ■Handling the card key
 ●If the battery or card key terminals get
 wet, the battery may corrode and the
@@ -29204,7 +28336,6 @@ Wireless remote control
 3-1. Key information
 
 ### LEXUS
-`lexus_nx_en_2efa35ec` | nx | owners_manual | tier:3 | lang:en | layer:body | p:102
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -29255,7 +28386,6 @@ entry function does not operate properly,
 you will need the mechanical key.
 
 ### (P.389)
-`lexus_nx_en_27b95c07` | nx | owners_manual | tier:3 | lang:en | layer:body | p:102
 A
 B
 C
@@ -29266,7 +28396,6 @@ Using the mechanical key
 3-1. Key information
 
 ### LEXUS
-`lexus_nx_en_712f34d4` | nx | owners_manual | tier:3 | lang:en | layer:general | p:103
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -29281,7 +28410,6 @@ use and provide the attendant with the electronic key only.
 ■If you lose your mechanical keys
 
 ### P.388
-`lexus_nx_en_4a406dcb` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:103
 ■If a wrong key is used
 The key cylinder rotates freely to isolate
 inside mechanism.
@@ -29295,7 +28423,6 @@ key, insert it while pressing the release
 button.
 
 ### NOTICE
-`lexus_nx_en_a063e810` | nx | owners_manual | tier:3 | lang:en | layer:body | p:103
 ■Handling the card key
 Do not apply excess force when inserting
 the mechanical key into the card key.
@@ -29304,7 +28431,6 @@ Doing so may damage the card key.
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_72160fdf` | nx | owners_manual | tier:3 | lang:en | layer:body | p:104
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -29366,7 +28492,6 @@ from the outside
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_8836bd2e` | nx | owners_manual | tier:3 | lang:en | layer:general | p:105
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -29453,7 +28578,6 @@ doors.
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_edbe9789` | nx | owners_manual | tier:3 | lang:en | layer:body | p:106
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -29466,12 +28590,10 @@ door to stop the buzzer, and lock the vehicle once more.
 Locking the doors will set the alarm system.
 
 ### (P.71)
-`lexus_nx_en_8361591c` | nx | owners_manual | tier:3 | lang:en | layer:general | p:106
 ■Conditions affecting the operation of
 the smart access system with push-button start or wireless remote control
 
 ### P.121
-`lexus_nx_en_83252e13` | nx | owners_manual | tier:3 | lang:en | layer:body | p:106
 ■If the smart access system with pushbutton start or the wireless remote control does not operate properly
 ●Use the mechanical key to lock and
 unlock the doors. (P.389)
@@ -29525,7 +28647,6 @@ from the inside
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_69868882` | nx | owners_manual | tier:3 | lang:en | layer:general | p:107
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -29554,7 +28675,6 @@ The following functions can be set or canceled:
 For instructions on customizing, refer to
 
 ### P.422.
-`lexus_nx_en_a52fbc48` | nx | owners_manual | tier:3 | lang:en | layer:body | p:107
 Function
 Operation
 Speed linked door
@@ -29585,7 +28705,6 @@ opened.
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_0ca17208` | nx | owners_manual | tier:3 | lang:en | layer:general | p:108
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -29665,7 +28784,6 @@ compartment.
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_c545c28b` | nx | owners_manual | tier:3 | lang:en | layer:body | p:109
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -29682,7 +28800,6 @@ The doors cannot be unlocked for 3 seconds after the doors are locked.
 ■Wireless remote control
 
 ### P.106
-`lexus_nx_en_f0dd4e1b` | nx | owners_manual | tier:3 | lang:en | layer:suspension | p:109
 ■Open
 Raise the back door while pressing up
 the back door opener switch.
@@ -29728,7 +28845,6 @@ door)
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_196f8011` | nx | owners_manual | tier:3 | lang:en | layer:body | p:110
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -29756,7 +28872,6 @@ shown in the illustration.
 Move the lever.
 
 ### NOTICE
-`lexus_nx_en_1ba898c7` | nx | owners_manual | tier:3 | lang:en | layer:suspension | p:110
 ■Back door damper stays
 The back door is equipped with damper
 stays
@@ -29782,7 +28897,6 @@ A
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_0d15ed50` | nx | owners_manual | tier:3 | lang:en | layer:general | p:111
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -29835,7 +28949,6 @@ Opening/closing the back door
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_146e02ce` | nx | owners_manual | tier:3 | lang:en | layer:body | p:112
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -29900,7 +29013,6 @@ A
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_5fb76681` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:113
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -29997,7 +29109,6 @@ the vehicle.
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_676e7a25` | nx | owners_manual | tier:3 | lang:en | layer:body | p:114
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -30040,7 +29151,6 @@ interferes with the communication
 between the vehicle and electronic key
 
 ### (P.121)
-`lexus_nx_en_4afd73f8` | nx | owners_manual | tier:3 | lang:en | layer:body | p:114
 ●When a large amount of water is kept
 applying to the lower center part of the
 rear bumper, such as in heavy rain
@@ -30084,7 +29194,6 @@ shown in the illustration.
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_90c6fbba` | nx | owners_manual | tier:3 | lang:en | layer:general | p:115
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -30153,7 +29262,6 @@ automatic operation
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_31ad8de2` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:116
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -30199,7 +29307,6 @@ back door if there is little space under
 the rear bumper.
 
 ### NOTICE
-`lexus_nx_en_b6d42050` | nx | owners_manual | tier:3 | lang:en | layer:body | p:116
 ■Back door spindles
 The back door is equipped with spindles
 that hold the back door in place.
@@ -30235,7 +29342,6 @@ A
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_52d13e72` | nx | owners_manual | tier:3 | lang:en | layer:general | p:117
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -30246,7 +29352,6 @@ switched between by the
 
 of the multi-information display.
 ### NOTICE
-`lexus_nx_en_fb9a5a56` | nx | owners_manual | tier:3 | lang:en | layer:body | p:117
 ●Do not apply excessive force to the
 back door while the power back door
 is operating.
@@ -30328,7 +29433,6 @@ back door)
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_f55a6be6` | nx | owners_manual | tier:3 | lang:en | layer:general | p:118
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -30366,7 +29470,6 @@ ON (enable) and OFF (disable) can be
 switched between by the
 
 ### (P.84)
-`lexus_nx_en_edee0c40` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:118
 of the multi-information display.
 1
 Press
@@ -30407,7 +29510,6 @@ power back door)
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_85d681b7` | nx | owners_manual | tier:3 | lang:en | layer:general | p:119
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -30440,7 +29542,6 @@ The opening position can be set with the
 navigation system or multimedia system.
 
 ### (P.428)
-`lexus_nx_en_f759df3b` | nx | owners_manual | tier:3 | lang:en | layer:body | p:119
 Priority for the stop position is given to the
 last position set by either the
 switch,
@@ -30449,7 +29550,6 @@ navigation system or multimedia system.
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_77d69690` | nx | owners_manual | tier:3 | lang:en | layer:body | p:120
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -30497,7 +29597,6 @@ always carry the electronic key.
 
 Starts and stops the hybrid system
 ### (P.168, 170)
-`lexus_nx_en_c2ce91c6` | nx | owners_manual | tier:3 | lang:en | layer:body | p:120
 A
 B
 C
@@ -30517,7 +29616,6 @@ B
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_8d186c54` | nx | owners_manual | tier:3 | lang:en | layer:general | p:121
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -30568,7 +29666,6 @@ access system with push-button start, wireless remote control and immobilizer sy
 from operating properly. (Ways of coping:
 
 ### P.389)
-`lexus_nx_en_2edb5c4d` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:121
 ●When the electronic key battery is
 depleted
 ●Near a TV tower, electric power plant,
@@ -30594,7 +29691,6 @@ The power switch
 was turned to
 
 ### ACCESSORY
-`lexus_nx_en_de846013` | nx | owners_manual | tier:3 | lang:en | layer:body | p:121
 mode while the
 driver’s door was
 open (The driver’s
@@ -30603,7 +29699,6 @@ when the power
 switch was in
 
 ### ACCESSORY
-`lexus_nx_en_ffec54dd` | nx | owners_manual | tier:3 | lang:en | layer:body | p:121
 mode).
 Turn the power
 switch off and close
@@ -30612,7 +29707,6 @@ the driver’s door.
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_2a9f3ee1` | nx | owners_manual | tier:3 | lang:en | layer:body | p:122
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -30718,7 +29812,6 @@ detection area, it may take slightly longer
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_36a32297` | nx | owners_manual | tier:3 | lang:en | layer:body | p:123
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -30764,7 +29857,6 @@ power switch modes: P.390
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_7239d032` | nx | owners_manual | tier:3 | lang:en | layer:body | p:124
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -30773,7 +29865,6 @@ Manual_USA_M78287_en
 3-2. Opening, closing and locking the doors
 
 ### LEXUS
-`lexus_nx_en_e84f2bde` | nx | owners_manual | tier:3 | lang:en | layer:general | p:125
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -30789,7 +29880,6 @@ away from the smart access system
 with push-button start antennas.
 
 ### (P.120)
-`lexus_nx_en_4259b6f8` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:125
 The radio waves may affect the operation of such devices. If necessary, the
 entry function can be disabled. Ask
 your Lexus dealer for details, such as
@@ -30809,7 +29899,6 @@ Ask your Lexus dealer for details on disabling the entry function.
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_673a4fd9` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:126
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -30862,7 +29951,6 @@ of the vehicle.
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_990979cd` | nx | owners_manual | tier:3 | lang:en | layer:general | p:127
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -30908,7 +29996,6 @@ A
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_49f8c657` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:128
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -30966,7 +30053,6 @@ Folding down the rear seatbacks
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_483c8d82` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:129
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -31003,7 +30089,6 @@ stopping position of the seatback)
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_9af9aaa2` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:130
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -31064,7 +30149,6 @@ A
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_2e68d1c0` | nx | owners_manual | tier:3 | lang:en | layer:general | p:131
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -31116,7 +30200,6 @@ object that is caught. Be careful not to
 catch fingers or anything else.
 
 ### NOTICE
-`lexus_nx_en_ddbddba5` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:131
 ■Stowing the seat belts
 The seat belts and the buckles for the
 rear center seat, as well as the armrest,
@@ -31126,7 +30209,6 @@ rear seatbacks. (P.30)
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_563dfc6a` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:132
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -31185,7 +30267,6 @@ memory
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_ace07188` | nx | owners_manual | tier:3 | lang:en | layer:general | p:133
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -31195,7 +30276,6 @@ will be overwritten.
 ■Seat positions that can be memorized
 
 ### (P.126)
-`lexus_nx_en_0412165f` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:133
 The adjusted positions other than the position adjusted by lumbar support switch can
 be recorded.
 ■In order to correctly use the driving
@@ -31248,7 +30328,6 @@ key (memory recall function)
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_00735401` | nx | owners_manual | tier:3 | lang:en | layer:body | p:134
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -31316,7 +30395,6 @@ recall function can be customized. (Customizable features: P.421)
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_a84a85bf` | nx | owners_manual | tier:3 | lang:en | layer:general | p:135
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -31376,7 +30454,6 @@ A
 3-3. Adjusting the seats
 
 ### LEXUS
-`lexus_nx_en_4dde7e8c` | nx | owners_manual | tier:3 | lang:en | layer:body | p:136
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -31390,7 +30467,6 @@ A
 3-4. Adjusting the steering wheel and mirrors
 
 ### LEXUS
-`lexus_nx_en_f3c59262` | nx | owners_manual | tier:3 | lang:en | layer:general | p:137
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -31425,7 +30501,6 @@ to memory and recalled automatically by
 the driving position memory system.
 
 ### (P.132)
-`lexus_nx_en_6887451b` | nx | owners_manual | tier:3 | lang:en | layer:body | p:137
 ■Power easy access system (if equipped)
 The steering wheel and driver’s seat move
 in accordance with power switch mode and
@@ -31442,7 +30517,6 @@ Adjustment procedure
 3-4. Adjusting the steering wheel and mirrors
 
 ### LEXUS
-`lexus_nx_en_39231463` | nx | owners_manual | tier:3 | lang:en | layer:general | p:138
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -31489,7 +30563,6 @@ Anti-glare function
 3-4. Adjusting the steering wheel and mirrors
 
 ### LEXUS
-`lexus_nx_en_f7874746` | nx | owners_manual | tier:3 | lang:en | layer:general | p:139
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -31527,7 +30600,6 @@ A
 3-4. Adjusting the steering wheel and mirrors
 
 ### LEXUS
-`lexus_nx_en_95ff6446` | nx | owners_manual | tier:3 | lang:en | layer:body | p:140
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -31552,7 +30624,6 @@ the rear window defogger to turn on the
 outside rear view mirror defoggers.
 
 ### (P.267)
-`lexus_nx_en_34da2d1e` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:140
 ■Auto anti-glare function
 When the anti-glare inside rear view mirror
 is set to automatic mode, the outside rear
@@ -31598,7 +30669,6 @@ D
 3-4. Adjusting the steering wheel and mirrors
 
 ### LEXUS
-`lexus_nx_en_7d4c767e` | nx | owners_manual | tier:3 | lang:en | layer:general | p:141
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -31654,7 +30724,6 @@ caught by the moving mirror.
 3-5. Opening, closing the windows and moon roof
 
 ### LEXUS
-`lexus_nx_en_7259f96b` | nx | owners_manual | tier:3 | lang:en | layer:body | p:142
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -31740,7 +30809,6 @@ windows
 3-5. Opening, closing the windows and moon roof
 
 ### LEXUS
-`lexus_nx_en_fed594a6` | nx | owners_manual | tier:3 | lang:en | layer:body | p:143
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -31753,7 +30821,6 @@ inspected by your Lexus dealer.
 closed using the mechanical key.*
 
 ### (P.390)
-`lexus_nx_en_f6507f16` | nx | owners_manual | tier:3 | lang:en | layer:body | p:143
 ●The power windows can be opened using
 the wireless remote control.* (P.104)
 *: These settings must be customized at
@@ -31828,7 +30895,6 @@ Preventing accidental operation
 3-5. Opening, closing the windows and moon roof
 
 ### LEXUS
-`lexus_nx_en_1efdf205` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:144
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -31861,7 +30927,6 @@ Operation instructions
 3-5. Opening, closing the windows and moon roof
 
 ### LEXUS
-`lexus_nx_en_e98c5728` | nx | owners_manual | tier:3 | lang:en | layer:general | p:145
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -31954,7 +31019,6 @@ that the moon roof opens and completely
 3-5. Opening, closing the windows and moon roof
 
 ### LEXUS
-`lexus_nx_en_0d096cbf` | nx | owners_manual | tier:3 | lang:en | layer:general | p:146
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -32011,7 +31075,6 @@ with the moon roof open.
 closed using the mechanical key.*
 
 ### (P.390)
-`lexus_nx_en_285cd3cc` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:146
 ●The moon roof can be opened using the
 wireless remote control.* (P.104)
 *: These settings must be customized at
@@ -32051,7 +31114,6 @@ intentionally activate the jam protection function.
 3-5. Opening, closing the windows and moon roof
 
 ### LEXUS
-`lexus_nx_en_58c3a632` | nx | owners_manual | tier:3 | lang:en | layer:general | p:147
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -32074,7 +31136,6 @@ Owners
 Manual_USA_M78287_en
 149
 ### LEXUS
-`lexus_nx_en_ce5ac215` | nx | owners_manual | tier:3 | lang:en | layer:general | p:149
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -32111,7 +31172,6 @@ Utility vehicle precautions.....258
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_339600ab` | nx | owners_manual | tier:3 | lang:en | layer:general | p:150
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -32119,7 +31179,6 @@ Manual_USA_M78287_en
 ■Starting the hybrid system
 
 ### P.168
-`lexus_nx_en_293190c4` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:150
 ■Driving
 1
 With the brake pedal depressed,
@@ -32127,7 +31186,6 @@ shift the shift lever to D. (P.173)
 2 Release the parking brake.
 
 ### (P.178)
-`lexus_nx_en_4dae742c` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:150
 If the parking brake is in automatic mode,
 the parking brake is released automatically
 when shifting the shift lever to any position
@@ -32142,7 +31200,6 @@ brake pedal.
 2 If necessary, set the parking brake.
 
 ### (P.178)
-`lexus_nx_en_d7f8071f` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:150
 If the vehicle is to be stopped for an
 extended period of time, shift the shift lever
 to P. (P.173)
@@ -32154,7 +31211,6 @@ brake pedal.
 and shift the shift lever to P
 
 ### (P.173).
-`lexus_nx_en_3e25d042` | nx | owners_manual | tier:3 | lang:en | layer:body | p:150
 3 Press the power switch to stop the
 hybrid system.
 4 Lock the door, making sure that you
@@ -32170,7 +31226,6 @@ shift the shift lever to D. (P.173)
 parking brake is set manually.
 
 ### (P.178)
-`lexus_nx_en_8b640914` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:150
 3 Release the brake pedal and gently
 depress the accelerator pedal to
 accelerate the vehicle.
@@ -32178,12 +31233,10 @@ accelerate the vehicle.
 parking brake is released manually.
 
 ### (P.178)
-`lexus_nx_en_7c6564be` | nx | owners_manual | tier:3 | lang:en | layer:general | p:150
 ■When starting off on an uphill
 The hill-start assist control will activate.
 
 ### (P.250)
-`lexus_nx_en_b03b4263` | nx | owners_manual | tier:3 | lang:en | layer:general | p:150
 ■For fuel-efficient driving
 Keep in mind that hybrid vehicles are similar
 to conventional vehicles, and it is necessary
@@ -32209,7 +31262,6 @@ Driving procedure
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_7f6c2340` | nx | owners_manual | tier:3 | lang:en | layer:general | p:151
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -32263,7 +31315,6 @@ correct fuel. (P.410)
 ■Eco-friendly driving
 
 ### P.82
-`lexus_nx_en_ec686b97` | nx | owners_manual | tier:3 | lang:en | layer:general | p:151
 WARNING
 Observe the following precautions.
 Failure to do so may result in death or
@@ -32304,7 +31355,6 @@ the vehicle’s movement.
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_3ae0d552` | nx | owners_manual | tier:3 | lang:en | layer:general | p:152
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -32388,7 +31438,6 @@ and may result in a loss of vehicle control.
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_55d76c16` | nx | owners_manual | tier:3 | lang:en | layer:general | p:153
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -32476,7 +31525,6 @@ glass to act as a lens, causing a fire.
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_1eb4b999` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:154
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -32532,7 +31580,6 @@ propel the vehicle forward or backward,
 causing an accident.
 
 ### NOTICE
-`lexus_nx_en_f98e0142` | nx | owners_manual | tier:3 | lang:en | layer:general | p:154
 ■When driving the vehicle
 ●Do not depress the accelerator and
 brake pedals at the same time during
@@ -32566,7 +31613,6 @@ Manual_USA_M78287_en
 4
 Driving
 ### NOTICE
-`lexus_nx_en_599a8149` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:155
 ●The vehicle will make abnormal
 sounds or vibrations.
 ●The vehicle will lean abnormally.
@@ -32633,7 +31679,6 @@ the following locations.
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_f992ec14` | nx | owners_manual | tier:3 | lang:en | layer:general | p:156
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -32672,7 +31717,6 @@ this manual to determine how this
 reduces the available cargo and luggage load capacity of your vehicle.
 
 ### (P.158)
-`lexus_nx_en_abb42306` | nx | owners_manual | tier:3 | lang:en | layer:general | p:156
 Vehicles without towing package:
 Lexus does not recommend towing a
 WARNING
@@ -32704,7 +31748,6 @@ place.
 weight on the roof luggage carrier.
 
 ### NOTICE
-`lexus_nx_en_6134a038` | nx | owners_manual | tier:3 | lang:en | layer:general | p:156
 ■When loading cargo (vehicles with
 moon roof)
 Do not set luggage on the moon roof.
@@ -32715,7 +31758,6 @@ Capacity and distribution
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_477b53b3` | nx | owners_manual | tier:3 | lang:en | layer:general | p:157
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -32772,14 +31814,12 @@ B
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_4c446ca9` | nx | owners_manual | tier:3 | lang:en | layer:general | p:158
 NX300h
 Owners
 Manual_USA_M78287_en
 ■Total load capacity (vehicle capacity weight):
 
 ### P.402
-`lexus_nx_en_9aaaa72d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:158
 Total load capacity means the combined weight of occupants, cargo and
 luggage.
 ■Seating capacity: 5 occupants
@@ -32790,7 +31830,6 @@ kg) per person.
 ■TWR (Trailer Weight Rating) (vehicles with towing package):
 
 ### P.163, 402
-`lexus_nx_en_3ff8807e` | nx | owners_manual | tier:3 | lang:en | layer:general | p:158
 TWR means the maximum gross trailer
 weight (trailer weight plus its cargo
 weight) that your vehicle is able to tow.
@@ -32819,7 +31858,6 @@ ability, resulting in an accident.
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_595c9d74` | nx | owners_manual | tier:3 | lang:en | layer:general | p:159
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -32891,7 +31929,6 @@ B
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_25a57f34` | nx | owners_manual | tier:3 | lang:en | layer:general | p:160
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -32961,7 +31998,6 @@ when towing a trailer.
 ●Do not exceed the TWR, unbraked
 
 ### TWR, GCWR, GVWR or GAWR.
-`lexus_nx_en_834ce9f9` | nx | owners_manual | tier:3 | lang:en | layer:general | p:160
 ●Adjust the tongue weight within the
 appropriate range. Place heavier loads
 as close to the trailer axle as possible.
@@ -32989,7 +32025,6 @@ capacities.
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_8d0a32b5` | nx | owners_manual | tier:3 | lang:en | layer:general | p:161
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -33048,7 +32083,6 @@ occurs to the coupling unit or hitch
 ball, there is danger of the trailer wandering into another lane.
 
 ### NOTICE
-`lexus_nx_en_b2d8b142` | nx | owners_manual | tier:3 | lang:en | layer:body | p:161
 ■When installing a trailer hitch
 Use only the position recommended by
 your Lexus dealer. Do not install the
@@ -33063,7 +32097,6 @@ Towing related terms
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_4b5fbf90` | nx | owners_manual | tier:3 | lang:en | layer:general | p:162
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -33104,7 +32137,6 @@ A
 163
 4-1. Before driving
 ### LEXUS
-`lexus_nx_en_029da1e5` | nx | owners_manual | tier:3 | lang:en | layer:general | p:163
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -33127,7 +32159,6 @@ gross combination weight, gross vehicle weight, gross axle weight and
 tongue weight are all within the limits.
 
 ### ■TWR*
-`lexus_nx_en_f46cac69` | nx | owners_manual | tier:3 | lang:en | layer:general | p:163
 1500 lb. (685 kg).
 ■Unbraked TWR*
 1000 lb. (450 kg)
@@ -33158,7 +32189,6 @@ Trailer Tongue Weight
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_a6f326ef` | nx | owners_manual | tier:3 | lang:en | layer:general | p:164
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -33218,7 +32248,6 @@ B
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_bcc8a142` | nx | owners_manual | tier:3 | lang:en | layer:general | p:165
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -33294,14 +32323,12 @@ Trailer towing tips
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_a0a1f7b8` | nx | owners_manual | tier:3 | lang:en | layer:drivetrain | p:166
 NX300h
 Owners
 Manual_USA_M78287_en
 do not put the transmission in D.
 
 ### (P.176)
-`lexus_nx_en_7159e998` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:166
 Instability happens more frequently
 when descending steep or long
 downhill grades. Before descending, slow down and downshift. Do
@@ -33350,7 +32377,6 @@ brake pedal depressed.
 mode, release the parking brake.
 
 ### (P.178)
-`lexus_nx_en_601e40b0` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:166
 4 Release the brake pedal, and slowly
 pull or back away from the wheel
 blocks. Stop and apply the brakes.
@@ -33359,7 +32385,6 @@ blocks. Stop and apply the brakes.
 4-1. Before driving
 
 ### LEXUS
-`lexus_nx_en_37eb40d2` | nx | owners_manual | tier:3 | lang:en | layer:general | p:167
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -33380,7 +32405,6 @@ dinghy towed (with 4 wheels on the
 ground) behind a motor home.
 
 ### NOTICE
-`lexus_nx_en_b7c8e30c` | nx | owners_manual | tier:3 | lang:en | layer:drivetrain | p:167
 ■To avoid serious damage to your vehicle
 Do not tow your vehicle with the four
 wheels on the ground.
@@ -33394,7 +32418,6 @@ serious damage to the hybrid transmission and AWD system.
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_b005cb1b` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:168
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -33444,7 +32467,6 @@ hybrid vehicle
 
 ■Conditions affecting operation
 ### P.122
-`lexus_nx_en_5c104954` | nx | owners_manual | tier:3 | lang:en | layer:body | p:168
 ■Steering lock function
 ●After turning the power switch off and
 opening and closing the doors, the steering wheel will be locked due to the steering lock function. Operating the power
@@ -33464,7 +32486,6 @@ Starting the hybrid system
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_1d82216b` | nx | owners_manual | tier:3 | lang:en | layer:general | p:169
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -33495,7 +32516,6 @@ the proper procedures for starting the vehicle, contact your Lexus dealer immedi
 ■If the hybrid system is malfunctioning
 
 ### P.349
-`lexus_nx_en_f16a1259` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:169
 ■Operation of the power switch
 ●If the switch is not pressed shortly and
 firmly, the power switch mode may not
@@ -33510,14 +32530,12 @@ before restarting the hybrid system.
 ■Customizable functions
 
 ### P.423
-`lexus_nx_en_629a492f` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:169
 1
 Stop the vehicle completely.
 2 Set the parking brake (P.178),
 and shift the shift lever to P
 
 ### (P.173).
-`lexus_nx_en_e2584c0f` | nx | owners_manual | tier:3 | lang:en | layer:body | p:169
 3 Press the power switch.
 WARNING
 ■When starting the hybrid system
@@ -33534,14 +32552,12 @@ accident, resulting in death or serious
 injury.
 
 ### NOTICE
-`lexus_nx_en_741c7e10` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:169
 ■When starting the hybrid system
 If the hybrid system becomes difficult to
 start, have your vehicle checked by your
 Lexus dealer immediately.
 
 ### NOTICE
-`lexus_nx_en_6d1f790a` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:169
 ■Symptoms indicating a malfunction
 with the power switch
 If the power switch seems to be operating somewhat differently than usual, such
@@ -33553,7 +32569,6 @@ Stopping the hybrid system
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_37a6e086` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:170
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -33607,7 +32622,6 @@ Changing power switch modes
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_e316aed5` | nx | owners_manual | tier:3 | lang:en | layer:general | p:171
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -33649,14 +32663,12 @@ high.
 The vehicle has been left in the sun,
 
 ### NOTICE
-`lexus_nx_en_812cd06b` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:171
 ■To prevent 12-volt battery discharge
 ●Do not leave the power switch in
 ACCESSORY or ON mode for long
 periods of time without the hybrid system on.
 
 ### ●If “ACCESSORY” or “IGNITION
-`lexus_nx_en_47d07fe4` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:171
 ON” is displayed on the multi-information display while the hybrid system is
 not operating, the power switch is not
 off. Exit the vehicle after turning the
@@ -33684,7 +32696,6 @@ Operating instructions
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_c342b648` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:172
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -33701,7 +32712,6 @@ The remaining battery level indicated in
 the “Energy Monitor” display is low.
 
 ### (P.93)
-`lexus_nx_en_a86e4793` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:172
 ●Vehicle speed is high.
 ●The accelerator pedal is depressed firmly
 or the vehicle is on a hill, etc.
@@ -33730,7 +32740,6 @@ The remaining battery level indicated in
 the “Energy Monitor” display is low.
 
 ### (P.93)
-`lexus_nx_en_a86e4793` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:172
 ●Vehicle speed is high.
 ●The accelerator pedal is depressed firmly
 or the vehicle is on a hill, etc.
@@ -33762,7 +32771,6 @@ care while driving.
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_e2fba07a` | nx | owners_manual | tier:3 | lang:en | layer:drivetrain | p:173
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -33796,7 +32804,6 @@ full-speed range will not be canceled.
 Sport mode while driving in D position.
 
 ### (P.248)
-`lexus_nx_en_151a585d` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:173
 ■Restraining sudden start (Drive-Start
 Control)
 When the following unusual operation is
@@ -33835,7 +32842,6 @@ acceleration, as this could result in the
 vehicle skidding to the side or spinning.
 
 ### NOTICE
-`lexus_nx_en_cd6d13cc` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:173
 ■Hybrid battery (traction battery)
 charge
 If the shift lever is in N, the hybrid battery
@@ -33848,7 +32854,6 @@ not being able to start.
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_0a75f802` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:174
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -33886,7 +32891,6 @@ Press the shift lock override button.
 The shift lever can be shifted while the button is pressed
 
 ### P.248
-`lexus_nx_en_d7bb7766` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:174
 Shifting the shift lever
 While the power switch is in ON
 mode, move the shift lever with the
@@ -33910,7 +32914,6 @@ Selecting the driving mode
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_83f108f6` | nx | owners_manual | tier:3 | lang:en | layer:general | p:175
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -33969,7 +32972,6 @@ position
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_2bed1354` | nx | owners_manual | tier:3 | lang:en | layer:general | p:176
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -34005,14 +33007,12 @@ turn signal lights has not burned out.
 ■Customization
 
 ### P.427
-`lexus_nx_en_bdf74db6` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:176
 Turn signal lever
 Operating instructions
 177
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_a0fcc8f5` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:177
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -34068,7 +33068,6 @@ D
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_0587cff7` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:178
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -34132,7 +33131,6 @@ the message will be shown on the multiinformation display and the buzzer sounds.
 ■Parking the vehicle
 
 ### P.150
-`lexus_nx_en_99787f5c` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:178
 ■Parking brake engaged warning buzzer
 A buzzer will sound if the vehicle is driven
 with the parking brake engaged. “Release
@@ -34145,7 +33143,6 @@ D
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_37f06a45` | nx | owners_manual | tier:3 | lang:en | layer:general | p:179
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -34160,7 +33157,6 @@ the instructions.
 on
 
 ### P.257
-`lexus_nx_en_e8a55c48` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:179
 Turns the brake hold system on
 The brake hold standby indicator
 (green) comes on. While the system is
@@ -34190,7 +33186,6 @@ the switch and may lead the parking
 brake to unexpectedly operate.
 
 ### NOTICE
-`lexus_nx_en_8953a675` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:179
 ■When parking the vehicle
 Before you leave the vehicle, shift the
 shift lever to P, set the parking brake and
@@ -34225,7 +33220,6 @@ B
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_04241754` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:180
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -34274,7 +33268,6 @@ the instructions.
 flashes
 
 ### P.370
-`lexus_nx_en_989f99de` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:180
 WARNING
 ■When the vehicle is on a steep incline
 When using the brake hold system on a
@@ -34288,7 +33281,6 @@ exceeded. Do not use the system when
 stopped on a slippery road.
 
 ### NOTICE
-`lexus_nx_en_736f1727` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:180
 ■When parking the vehicle
 The brake hold system is not designed
 for use when parking the vehicle for a
@@ -34303,7 +33295,6 @@ set the parking brake.
 4-2. Driving procedures
 
 ### LEXUS
-`lexus_nx_en_a6805533` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:181
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -34345,7 +33336,6 @@ Controlling volume
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_fb6eebff` | nx | owners_manual | tier:3 | lang:en | layer:body | p:182
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -34396,7 +33386,6 @@ Turning on the headlights
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_fc84c163` | nx | owners_manual | tier:3 | lang:en | layer:general | p:183
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -34482,7 +33471,6 @@ function will be disabled.
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_0fa58d73` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:184
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -34534,7 +33522,6 @@ AFS operates at speeds of 6 mph (10 km/
 h) or higher.
 
 ### NOTICE
-`lexus_nx_en_0cdd7c56` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:184
 ■To prevent 12-volt battery discharge
 Do not leave the lights on longer than
 necessary when the hybrid system is off.
@@ -34546,7 +33533,6 @@ System) (if equipped)
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_47256d4d` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:185
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -34614,7 +33600,6 @@ Beam system
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_0f7b293b` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:186
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -34683,7 +33668,6 @@ may be causing problems or distress to
 other drivers or pedestrians nearby.
 
 ### NOTICE
-`lexus_nx_en_dc9a2d61` | nx | owners_manual | tier:3 | lang:en | layer:body | p:186
 ■Notes when using the Automatic
 High Beam system
 Observe the following to ensure that the
@@ -34701,7 +33685,6 @@ windshield near the camera sensor.
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_0b52c74c` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:187
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -34723,7 +33706,6 @@ Press the switch to activate the Automatic
 High Beam system again.
 
 ### NOTICE
-`lexus_nx_en_4d098414` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:187
 ●Do not place items on the dashboard.
 There is a possibility that the camera
 sensor will mistake items reflected in
@@ -34742,7 +33724,6 @@ mode
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_1681cb25` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:188
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -34770,7 +33751,6 @@ to notify following vehicles the existence of your vehicle.
 Operating procedure
 
 ### NOTICE
-`lexus_nx_en_0789fde7` | nx | owners_manual | tier:3 | lang:en | layer:body | p:188
 ■To prevent 12-volt battery discharge
 Do not leave the lights on longer than
 necessary when the hybrid system is off.
@@ -34782,7 +33762,6 @@ manual operation, or can use the
 washer.
 
 ### NOTICE
-`lexus_nx_en_03d41c7b` | nx | owners_manual | tier:3 | lang:en | layer:body | p:188
 ■When the windshield is dry
 Do not use the wipers, as they may damage the windshield.
 Operating the wiper lever
@@ -34790,7 +33769,6 @@ Operating the wiper lever
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_53ce2039` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:189
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -34834,7 +33812,6 @@ intermittent operation is selected.
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_48611c59` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:190
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -34881,7 +33858,6 @@ lever is pulled.
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_05ca1168` | nx | owners_manual | tier:3 | lang:en | layer:general | p:191
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -34937,7 +33913,6 @@ rising or setting of the sun intermittently
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_e322c726` | nx | owners_manual | tier:3 | lang:en | layer:body | p:192
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -34974,7 +33949,6 @@ an accident, resulting in death or serious
 injury.
 
 ### NOTICE
-`lexus_nx_en_5b5c7a8e` | nx | owners_manual | tier:3 | lang:en | layer:body | p:192
 ■When the washer fluid tank is empty
 Do not operate the switch continually as
 the washer fluid pump may overheat.
@@ -34989,7 +33963,6 @@ necessary when the hybrid system is off.
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_c433df14` | nx | owners_manual | tier:3 | lang:en | layer:body | p:193
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -35018,7 +33991,6 @@ Rear window wiper and
 washer
 
 ### NOTICE
-`lexus_nx_en_7bb3cd2f` | nx | owners_manual | tier:3 | lang:en | layer:body | p:193
 ■When the rear window is dry
 Do not use the wiper, as it may damage
 the rear window.
@@ -35027,7 +33999,6 @@ Operating the wiper lever
 4-3. Operating the lights and wipers
 
 ### LEXUS
-`lexus_nx_en_b5c49fbf` | nx | owners_manual | tier:3 | lang:en | layer:body | p:194
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -35038,7 +34009,6 @@ be operated when
 The power switch is in ON mode.
 
 ### NOTICE
-`lexus_nx_en_b6d77bfe` | nx | owners_manual | tier:3 | lang:en | layer:body | p:194
 ■When the washer fluid tank is empty
 Do not operate the switch continually as
 the washer fluid pump may overheat.
@@ -35053,7 +34023,6 @@ necessary when the hybrid system is off.
 4-4. Refueling
 
 ### LEXUS
-`lexus_nx_en_57a55ea8` | nx | owners_manual | tier:3 | lang:en | layer:general | p:195
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -35066,7 +34035,6 @@ ensure that all the doors and windows are closed.
 ■Fuel types
 
 ### P.410
-`lexus_nx_en_e6e04d79` | nx | owners_manual | tier:3 | lang:en | layer:body | p:195
 ■Fuel tank opening for unleaded gasoline
 To help prevent incorrect fueling, your vehicle has a fuel tank opening that only accommodates the special nozzle on unleaded
 fuel pumps.
@@ -35121,7 +34089,6 @@ fuel filler neck.
 ●Do not top off the fuel tank.
 
 ### NOTICE
-`lexus_nx_en_b95eb8bd` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:195
 ■Refueling
 Do not spill fuel during refueling.
 Doing so may damage the vehicle, such
@@ -35133,7 +34100,6 @@ Opening the fuel tank cap
 4-4. Refueling
 
 ### LEXUS
-`lexus_nx_en_c79540dd` | nx | owners_manual | tier:3 | lang:en | layer:body | p:196
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -35145,7 +34111,6 @@ the fuel filler door.
 opened
 
 ### P.389
-`lexus_nx_en_063b3f55` | nx | owners_manual | tier:3 | lang:en | layer:body | p:196
 1
 After refueling, turn the fuel tank
 cap until you hear a click. Once the
@@ -35181,7 +34146,6 @@ injury.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_ef886d59` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:197
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -35193,12 +34157,10 @@ Driving
 ■LDA (Lane Departure Alert with
 steering control)
 ### P.185
-`lexus_nx_en_8c71441f` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:197
 ■Dynamic radar cruise control with
 full-speed range
 
 ### P.217
-`lexus_nx_en_b3fe9ae6` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:197
 The pre-collision system is equipped
 with a sophisticated computer that will
 record certain data, such as:
@@ -35259,7 +34221,6 @@ Vehicle data recording
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_11afb2c7` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:198
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -35281,7 +34242,6 @@ B
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_e70c3e7d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:199
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -35299,7 +34259,6 @@ injury.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_caad89b9` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:200
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -35371,7 +34330,6 @@ B
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_a607c1ab` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:201
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -35428,7 +34386,6 @@ lights.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_ba89dfa9` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:202
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -35485,7 +34442,6 @@ injury.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_9ede8ff1` | nx | owners_manual | tier:3 | lang:en | layer:general | p:203
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -35563,7 +34519,6 @@ inflated
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_69de17e8` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:204
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -35627,7 +34582,6 @@ Changing settings of the pre-collision system
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_0ecff7c4` | nx | owners_manual | tier:3 | lang:en | layer:general | p:205
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -35702,7 +34656,6 @@ abruptly.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_cfebd082` | nx | owners_manual | tier:3 | lang:en | layer:general | p:206
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -35748,7 +34701,6 @@ etc.) at the top of an uphill road
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_43a27105` | nx | owners_manual | tier:3 | lang:en | layer:general | p:207
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -35813,7 +34765,6 @@ dust, etc. from a vehicle ahead
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_9a0d94ea` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:208
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -35909,7 +34860,6 @@ such as in an extremely cold environment
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_76167391` | nx | owners_manual | tier:3 | lang:en | layer:general | p:209
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -35960,7 +34910,6 @@ Functions included in LDA system
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_6df6980d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:210
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -35987,7 +34936,6 @@ the driver.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_56eaf797` | nx | owners_manual | tier:3 | lang:en | layer:general | p:211
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -36071,7 +35019,6 @@ Turning LDA system on
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_16468a2d` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:212
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -36113,7 +35060,6 @@ C
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_15947a27` | nx | owners_manual | tier:3 | lang:en | layer:general | p:213
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -36135,7 +35081,6 @@ more than approximately 492 ft. (150 m).
 • No system malfunctions are detected.
 
 ### (P.214)
-`lexus_nx_en_cb1891cf` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:213
 ●Steering control function
 This function operates when all of the following conditions are met in addition to the
 operation conditions for the lane departure
@@ -36145,7 +35090,6 @@ of the
 multi-information display is set to “On”.
 
 ### (P.86)
-`lexus_nx_en_77c13352` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:213
 • Vehicle is not accelerated or decelerated
 by a certain amount or more.
 • Steering wheel is not operated with a
@@ -36162,7 +35106,6 @@ of the
 multi-information display is set to “On”.
 
 ### (P.86)
-`lexus_nx_en_17777f23` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:213
 • Vehicle speed is approximately 32 mph
 (50 km/h) or more.
 • Width of traffic lane is approximately 9.8
@@ -36170,7 +35113,6 @@ ft. (3 m) or more.
 • No system malfunctions are detected.
 
 ### (P.214)
-`lexus_nx_en_00902dd3` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:213
 ■Temporary cancelation of functions
 When the operation conditions are no longer met, a function may be temporarily canceled. However, when the operation
 conditions are met again, operation of the
@@ -36208,7 +35150,6 @@ When the system determines that the vehicle is swaying while the vehicle sway wa
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_24aff96b` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:214
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -36286,7 +35227,6 @@ the LDA indicator illuminates in orange, follow the appropriate troubleshooting 
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_9f31a9ee` | nx | owners_manual | tier:3 | lang:en | layer:general | p:215
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -36343,7 +35283,6 @@ Details/Actions
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_564f12ba` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:216
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -36404,7 +35343,6 @@ Setting details
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_42ddaa72` | nx | owners_manual | tier:3 | lang:en | layer:general | p:217
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -36427,7 +35365,6 @@ Use the dynamic radar cruise control with full-speed range on freeways and highw
 Constant speed control mode
 
 ### (P.223)
-`lexus_nx_en_967be435` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:217
 System Components
 A
 WARNING
@@ -36467,7 +35404,6 @@ E
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_72f55f21` | nx | owners_manual | tier:3 | lang:en | layer:general | p:218
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -36545,7 +35481,6 @@ heard often
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_54bf1e32` | nx | owners_manual | tier:3 | lang:en | layer:general | p:219
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -36582,7 +35517,6 @@ C
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_d6faeb30` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:220
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -36599,7 +35533,6 @@ held for 1.5 seconds or more, the system
 turns on in constant speed control mode.
 
 ### (P.223)
-`lexus_nx_en_32587405` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:220
 2 Accelerate or decelerate, with
 accelerator pedal operation, to the
 desired vehicle speed (at or above
@@ -36637,7 +35570,6 @@ Adjusting the set speed
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_efab2393` | nx | owners_manual | tier:3 | lang:en | layer:general | p:221
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -36689,7 +35621,6 @@ A
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_58e4e6df` | nx | owners_manual | tier:3 | lang:en | layer:general | p:222
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -36745,7 +35676,6 @@ Approach warning (vehicle-tovehicle distance control mode)
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_6947808c` | nx | owners_manual | tier:3 | lang:en | layer:general | p:223
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -36793,7 +35723,6 @@ Adjusting the speed setting: P.220
 Canceling and resuming the speed setting:
 
 ### P.222
-`lexus_nx_en_3761c325` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:223
 ■Dynamic radar cruise control with fullspeed range can be set when
 ●The shift lever is in D or range 4 or higher
 of S has been selected.
@@ -36804,7 +35733,6 @@ Selecting constant speed control mode
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_2daefaaf` | nx | owners_manual | tier:3 | lang:en | layer:general | p:224
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -36841,7 +35769,6 @@ speed at or below approximately 25 mph
 not properly detect the vehicle.
 
 ### (“CRUISE NOT AVAILABLE No pre-
-`lexus_nx_en_7b2c6671` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:224
 ceding vehicle” is displayed on the multiinformation display.)
 ●VSC is activated.
 ●TRAC is activated for a period of time.
@@ -36891,7 +35818,6 @@ multi-information display, read the message
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_fb57564d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:225
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -36943,7 +35869,6 @@ the set speed after the vehicle accelerates by depressing the accelerator pedal
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_7472e1d9` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:226
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -36980,7 +35905,6 @@ level change between 1, 2, and 3.
 ■Muting buzzer
 
 ### P.228
-`lexus_nx_en_1cf4e7be` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:226
 PKSA (Parking Support
 Alert)*
 The Parking Support Alert system
@@ -36998,7 +35922,6 @@ Setting the buzzer volume
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_b46b9261` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:227
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -37046,7 +35969,6 @@ D
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_d55a9447` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:228
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -37128,7 +36050,6 @@ Lexus dealer.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_4913a84e` | nx | owners_manual | tier:3 | lang:en | layer:general | p:229
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -37227,14 +36148,12 @@ cause undesired operation.
 This ISM device complies with Canadian
 
 ### ICES-001.
-`lexus_nx_en_edb88fef` | nx | owners_manual | tier:3 | lang:en | layer:general | p:229
 Cet appareil ISM est conforme a la norme
 NMB-001 du Canada.
 230
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_e95005b1` | nx | owners_manual | tier:3 | lang:en | layer:general | p:230
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -37269,7 +36188,6 @@ the vehicle’s speed.
 sensors’ detection areas.
 
 ### NOTICE
-`lexus_nx_en_8559f419` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:230
 ■When using intuitive parking assist
 In the following situations, the system
 may not function correctly due to a sensor malfunction, etc. Have the vehicle
@@ -37300,7 +36218,6 @@ C
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_fdec12ce` | nx | owners_manual | tier:3 | lang:en | layer:general | p:231
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -37357,7 +36274,6 @@ Less than 0.5 ft. (15 cm)*3
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_33c1e1b9` | nx | owners_manual | tier:3 | lang:en | layer:general | p:232
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -37388,7 +36304,6 @@ Examples of system operation
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_9ce83289` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:233
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -37447,7 +36362,6 @@ C
 D
 
 ### NOTICE
-`lexus_nx_en_44d1e516` | nx | owners_manual | tier:3 | lang:en | layer:body | p:233
 ■Preventing sensor malfunctions
 ●If the area around a sensor is subjected
 to an impact, equipment may not operate properly due to a sensor malfunction. Have the vehicle inspected by
@@ -37467,7 +36381,6 @@ static objects)
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_4cc2fdcb` | nx | owners_manual | tier:3 | lang:en | layer:general | p:234
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -37494,7 +36407,6 @@ F
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_839fabbc` | nx | owners_manual | tier:3 | lang:en | layer:general | p:235
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -37504,7 +36416,6 @@ Control starts
 Collision is likely
 
 ### DOWN
-`lexus_nx_en_f96725c5` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:235
 “BRAKE!” is displayed in the multi-information display
 “Switch to Brake” is displayed in the multi-information display
 ■Brake Control
@@ -37520,7 +36431,6 @@ Control starts
 Collision is likely
 
 ### DOWN
-`lexus_nx_en_cd581dc2` | nx | owners_manual | tier:3 | lang:en | layer:general | p:235
 Collision possibility is very high
 G
 H
@@ -37541,7 +36451,6 @@ J
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_9a17e872` | nx | owners_manual | tier:3 | lang:en | layer:general | p:236
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -37628,7 +36537,6 @@ M
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_fd79ce52` | nx | owners_manual | tier:3 | lang:en | layer:general | p:237
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -37710,7 +36618,6 @@ types), fog lights, a fender pole or a wireless antenna) are installed near the 
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_32fadfd5` | nx | owners_manual | tier:3 | lang:en | layer:sensors | p:238
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -37774,7 +36681,6 @@ the system not operate, or may cause the
 system to operate unnecessarily.
 
 ### NOTICE
-`lexus_nx_en_0670b293` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:238
 ■Preventing unnecessary operation
 In the following situations, turn the Parking Support Brake function (for static
 objects) OFF. The system may operate
@@ -37795,7 +36701,6 @@ nose tilts up or down).
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_c3dfb6ae` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:239
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -37817,7 +36722,6 @@ restrict output as much as possible)
 ■Brake control is operating
 
 ### NOTICE
-`lexus_nx_en_15b3a6dc` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:239
 ●A towing hook is installed
 ●When using an automatic car wash
 Display and buzzer for hybrid
@@ -37834,7 +36738,6 @@ multimedia system screen
 
 
 ### PKSB OFF
-`lexus_nx_en_73c0dbc6` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:239
 Indicator
 Not illuminated
 Buzzer
@@ -37848,7 +36751,6 @@ Head-up display
 Navigation/
 multimedia system screen
 ### PKSB OFF
-`lexus_nx_en_bac1ae73` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:239
 Indicator
 Not illuminated
 Buzzer
@@ -37860,7 +36762,6 @@ Multi-information display/
 Head-up display
 
 ### PKSB OFF
-`lexus_nx_en_83ace968` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:239
 Indicator
 Not illuminated
 Buzzer
@@ -37869,7 +36770,6 @@ Short beep
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_f05036f5` | nx | owners_manual | tier:3 | lang:en | layer:general | p:240
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -37925,7 +36825,6 @@ multimedia system screen
 “Press Brake Pedal”
 
 ### PKSB OFF
-`lexus_nx_en_5ebb1d16` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:240
 Indicator
 Illuminated
 Buzzer
@@ -37934,7 +36833,6 @@ Short beep
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_fec5150d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:241
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -38000,7 +36898,6 @@ D
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_44177135` | nx | owners_manual | tier:3 | lang:en | layer:general | p:242
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -38028,7 +36925,6 @@ inspected at a Lexus dealer.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_1f118d2c` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:243
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -38095,7 +36991,6 @@ C
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_27a26ffc` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:244
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -38183,7 +37078,6 @@ and a following vehicle is short
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_b46022a7` | nx | owners_manual | tier:3 | lang:en | layer:general | p:245
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -38223,7 +37117,6 @@ B
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_5d39b84b` | nx | owners_manual | tier:3 | lang:en | layer:general | p:246
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -38275,7 +37168,6 @@ A
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_77d32f7a` | nx | owners_manual | tier:3 | lang:en | layer:general | p:247
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -38327,7 +37219,6 @@ the vehicle, is short
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_a0004ed9` | nx | owners_manual | tier:3 | lang:en | layer:hvac | p:248
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -38374,7 +37265,6 @@ Selecting a driving mode
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_ac2f59c9` | nx | owners_manual | tier:3 | lang:en | layer:general | p:249
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -38420,7 +37310,6 @@ slippery road surfaces
 Provides cooperative control of the
 
 ### ABS, TRAC, VSC and EPS.
-`lexus_nx_en_9da9fafa` | nx | owners_manual | tier:3 | lang:en | layer:general | p:249
 Driving assist systems
 To keep driving safety and performance, the following systems operate automatically in response to
 various driving situations. Be aware,
@@ -38433,7 +37322,6 @@ systems
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_db99ae28` | nx | owners_manual | tier:3 | lang:en | layer:general | p:250
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -38471,7 +37359,6 @@ etc.
 ■BSM (Blind Spot Monitor) (if
 equipped)
 ### P.241
-`lexus_nx_en_ff15cd02` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:250
 ■When the TRAC/VSC/ABS/Trailer
 Sway Control systems are operating
 The slip indicator light will flash while the
@@ -38494,7 +37381,6 @@ again to turn the system back on.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_4f604c4c` | nx | owners_manual | tier:3 | lang:en | layer:general | p:251
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -38576,7 +37462,6 @@ situations:
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_d53cb3cf` | nx | owners_manual | tier:3 | lang:en | layer:drivetrain | p:252
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -38653,7 +37538,6 @@ care when the indicator light flashes.
 4-5. Using the driving support systems
 
 ### LEXUS
-`lexus_nx_en_3c07608a` | nx | owners_manual | tier:3 | lang:en | layer:general | p:253
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -38713,7 +37597,6 @@ trailer should stabilize. (P.250)
 4-6. Driving tips
 
 ### LEXUS
-`lexus_nx_en_0bdacc66` | nx | owners_manual | tier:3 | lang:en | layer:hvac | p:254
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -38728,7 +37611,6 @@ keeping the indicator needle of Hybrid
 System Indicator within Eco area.
 
 ### (P.82)
-`lexus_nx_en_8a6511bd` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:254
 Shift the shift lever to D when stopped
 at a traffic light, or driving in heavy traffic, etc. Shift the shift lever to P when
 parking. When using the N, there is no
@@ -38774,7 +37656,6 @@ Delays
 4-6. Driving tips
 
 ### LEXUS
-`lexus_nx_en_5338df7d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:255
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -38825,7 +37706,6 @@ Warming up before driving
 4-6. Driving tips
 
 ### LEXUS
-`lexus_nx_en_ffeff34d` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:256
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -38890,7 +37770,6 @@ a curve to ensure that vehicle control is
 maintained.
 
 ### NOTICE
-`lexus_nx_en_fc14f856` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:256
 ■Repairing or replacing snow tires
 Request repairs or replacement of snow
 tires from Lexus dealers or legitimate tire
@@ -38903,7 +37782,6 @@ Before driving the vehicle
 4-6. Driving tips
 
 ### LEXUS
-`lexus_nx_en_30473229` | nx | owners_manual | tier:3 | lang:en | layer:general | p:257
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -38969,7 +37847,6 @@ Selecting tire chains
 4-6. Driving tips
 
 ### LEXUS
-`lexus_nx_en_ebc88f76` | nx | owners_manual | tier:3 | lang:en | layer:general | p:258
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -39011,7 +37888,6 @@ Regulations on the use of tire
 chains
 
 ### NOTICE
-`lexus_nx_en_26a40ee1` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:258
 ■Fitting tire chains
 The tire pressure warning valves and
 transmitters may not function correctly
@@ -39041,7 +37917,6 @@ always fasten their seat belts.
 4-6. Driving tips
 
 ### LEXUS
-`lexus_nx_en_16c0a29d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:259
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -39122,7 +37997,6 @@ your thumbs on the outside of the rim.
 4-6. Driving tips
 
 ### LEXUS
-`lexus_nx_en_a62e0561` | nx | owners_manual | tier:3 | lang:en | layer:general | p:260
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -39147,7 +38021,6 @@ risking expensive damage to your
 vehicle’s suspension and chassis.
 
 ### NOTICE
-`lexus_nx_en_44c19e7f` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:260
 ■To prevent water damage
 Take all necessary safety measures to
 ensure that water damage to the hybrid
@@ -39186,7 +38059,6 @@ Scheduled Maintenance”.
 261
 
 ### LEXUS
-`lexus_nx_en_3dcf0432` | nx | owners_manual | tier:3 | lang:en | layer:hvac | p:261
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -39211,7 +38083,6 @@ Lexus Enform Service Connect
 5-1. Remote Touch
 
 ### LEXUS
-`lexus_nx_en_c3334680` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:262
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -39268,7 +38139,6 @@ equipped with a navigation system
 should refer to the “NAVIGATION
 
 ### AND MULTIMEDIA SYSTEM
-`lexus_nx_en_f0d69205` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:262
 OWNER’S MANUAL”.
 Remote Touch operation
 A
@@ -39281,7 +38151,6 @@ E
 5-1. Remote Touch
 
 ### LEXUS
-`lexus_nx_en_9ca0c06c` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:263
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -39306,7 +38175,6 @@ the type of the system.
 8-inch display model
 
 ### NOTICE
-`lexus_nx_en_419dc167` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:263
 ■To prevent damage to the Remote
 Touch
 Observe the following precautions. Failure to do so may cause damage to the
@@ -39324,7 +38192,6 @@ Menu screen
 5-1. Remote Touch
 
 ### LEXUS
-`lexus_nx_en_1bb303c4` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:264
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -39332,7 +38199,6 @@ Manual_USA_M78287_en
 *1: Refer to the “NAVIGATION AND
 
 ### MULTIMEDIA SYSTEM OWNER’S
-`lexus_nx_en_ab4a05e8` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:264
 MANUAL”.
 *2: This function is not made available on
 some models.
@@ -39341,7 +38207,6 @@ The home screen can be display multiple information screens. For details about t
 functions and operation of the display, refer to the respective section and “NAVI-
 
 ### GATION AND MULTIMEDIA SYSTEM OWNER’S MANUAL”
-`lexus_nx_en_ce330953` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:264
 10.3-inch display models
 Split-screen display
 Different information can be displayed on the left and right of the screen. For example, air
@@ -39363,7 +38228,6 @@ screen.*1
 Select to display the air conditioning control screen.
 
 ### (P.269)
-`lexus_nx_en_8a35f83d` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:264
 Select to adjust the contrast and
 brightness of the screens, turn
 the screen off, etc.*1, 2
@@ -39374,7 +38238,6 @@ Display overview
 5-1. Remote Touch
 
 ### LEXUS
-`lexus_nx_en_5d27278e` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:265
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -39385,7 +38248,6 @@ the main display, and the small screen to the right is called the side display.
 For details about the functions and operation of the main display, refer to the respective
 
 ### section and “NAVIGATION AND MULTIMEDIA SYSTEM OWNER’S MANUAL”.
-`lexus_nx_en_dd01978e` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:265
 Side display
 The following functions can be displayed and operated on the side display.
 Select
@@ -39399,7 +38261,6 @@ Show/hide the side display.*
 *: Refer to the “NAVIGATION AND
 
 ### MULTIMEDIA SYSTEM OWNER’S
-`lexus_nx_en_c0e0febf` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:265
 MANUAL”.
 ■Screen display during low temperatures
 When the ambient temperature is
@@ -39414,7 +38275,6 @@ E
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_0178518b` | nx | owners_manual | tier:3 | lang:en | layer:hvac | p:266
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -39448,7 +38308,6 @@ I
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_269fb01e` | nx | owners_manual | tier:3 | lang:en | layer:hvac | p:267
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -39515,7 +38374,6 @@ D
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_20ead520` | nx | owners_manual | tier:3 | lang:en | layer:body | p:268
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -39523,7 +38381,6 @@ Manual_USA_M78287_en
 equipped)
 
 ### P.271
-`lexus_nx_en_9fb7ad91` | nx | owners_manual | tier:3 | lang:en | layer:hvac | p:268
 ■When the outside temperature exceeds
 75°F (24°C) and the air conditioning
 system is on
@@ -39602,7 +38459,6 @@ accumulate in the air conditioning system. This may then cause odor to be
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_68bb6d1e` | nx | owners_manual | tier:3 | lang:en | layer:general | p:269
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -39618,7 +38474,6 @@ started in automatic mode.
 ■Air conditioning filter
 
 ### P.348
-`lexus_nx_en_711a268d` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:269
 ■Customization
 Settings (e.g. A/C automatic mode switch
 operation) can be changed.
@@ -39664,7 +38519,6 @@ the front pillars when the windshield
 wiper de-icer is on.
 
 ### NOTICE
-`lexus_nx_en_d4affad1` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:269
 ■To prevent 12-volt battery discharge
 Do not leave the air conditioning system
 on longer than necessary when the
@@ -39679,7 +38533,6 @@ C
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_692ea974` | nx | owners_manual | tier:3 | lang:en | layer:body | p:270
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -39699,7 +38552,6 @@ can be switched on and off.
 “AUTO”: Set automatic mode on/off
 
 ### (P.271)
-`lexus_nx_en_5b98353f` | nx | owners_manual | tier:3 | lang:en | layer:hvac | p:270
 “OFF”: Turn the fan off
 “A/C”: Set cooling and dehumidification
 function
@@ -39744,7 +38596,6 @@ B
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_58b08556` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:271
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -39758,7 +38609,6 @@ driver’s and front passenger’s seats
 separately (“DUAL” mode)
 
 ### (P.272)
-`lexus_nx_en_4bc8fd6b` | nx | owners_manual | tier:3 | lang:en | layer:body | p:271
 Select the air flow mode
 ■Fogging up of the windows
 ●The windows will easily fog up when the
@@ -39836,7 +38686,6 @@ Using automatic mode
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_618df713` | nx | owners_manual | tier:3 | lang:en | layer:drivetrain | p:272
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -39846,7 +38695,6 @@ sensor (P.272) detects fog on the windshield and controls the air conditionin
 ■Air conditioning filter
 
 ### P.348
-`lexus_nx_en_e340e7be` | nx | owners_manual | tier:3 | lang:en | layer:hvac | p:272
 ■Customization
 Settings (e.g. A/C automatic mode switch
 operation) can be changed.
@@ -39873,7 +38721,6 @@ or down
 vent
 
 ### NOTICE
-`lexus_nx_en_a7204be4` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:272
 ■Humidity sensor
 In order to detect fog on the windshield,
 a sensor which monitors the temperature
@@ -39892,7 +38739,6 @@ Air outlet layout and operations
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_a23d8071` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:273
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -39934,7 +38780,6 @@ drugs that induce sleep (sleeping
 drugs, cold remedies, etc.)
 
 ### NOTICE
-`lexus_nx_en_8ced53f5` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:273
 ■To prevent damage to the seat heaters and seat ventilators
 Do not put heavy objects that have an
 uneven surface on the seat and do not
@@ -39947,7 +38792,6 @@ system is off.
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_28903e60` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:274
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -39990,7 +38834,6 @@ A
 5-2. Using the air conditioning system and defogger
 
 ### LEXUS
-`lexus_nx_en_f4400452` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:275
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40022,7 +38865,6 @@ A
 5-3. Using the interior lights
 
 ### LEXUS
-`lexus_nx_en_5a55e22e` | nx | owners_manual | tier:3 | lang:en | layer:body | p:276
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40062,7 +38904,6 @@ E
 5-3. Using the interior lights
 
 ### LEXUS
-`lexus_nx_en_5be6063d` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:277
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40093,7 +38934,6 @@ turn off by pressing the switch.
 Turns the lights on/off (touch the lights)
 
 ### NOTICE
-`lexus_nx_en_1a07c732` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:277
 ■Removing light lenses
 Never remove the lens for the front interior light and personal lights. Otherwise,
 the lights will be damaged. If the lens
@@ -40108,7 +38948,6 @@ Operating personal lights
 5-3. Using the interior lights
 
 ### LEXUS
-`lexus_nx_en_6fc0154c` | nx | owners_manual | tier:3 | lang:en | layer:general | p:278
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40116,7 +38955,6 @@ Manual_USA_M78287_en
 5-4. Using the storage features
 
 ### LEXUS
-`lexus_nx_en_6602464c` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:279
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40162,7 +39000,6 @@ or the items stored inside.
 5-4. Using the storage features
 
 ### LEXUS
-`lexus_nx_en_62e58f4b` | nx | owners_manual | tier:3 | lang:en | layer:body | p:280
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40193,7 +39030,6 @@ Cup holders/bottle holders
 5-4. Using the storage features
 
 ### LEXUS
-`lexus_nx_en_6c2881f2` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:281
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40224,7 +39060,6 @@ the event of an accident or sudden braking, causing injury. If possible, cover h
 drinks to prevent burns.
 
 ### NOTICE
-`lexus_nx_en_5d1c4bbb` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:281
 ■To prevent damage to the rear cup
 holder
 Stow the cup holder before stowing the
@@ -40240,7 +39075,6 @@ A
 5-4. Using the storage features
 
 ### LEXUS
-`lexus_nx_en_8c8a8931` | nx | owners_manual | tier:3 | lang:en | layer:body | p:282
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40263,7 +39097,6 @@ Cargo net hooks
 5-4. Using the storage features
 
 ### LEXUS
-`lexus_nx_en_070c22b1` | nx | owners_manual | tier:3 | lang:en | layer:body | p:283
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40288,7 +39121,6 @@ to their stowed positions when not in use.
 Grocery bag hooks
 
 ### NOTICE
-`lexus_nx_en_25b03c9c` | nx | owners_manual | tier:3 | lang:en | layer:general | p:283
 ■To prevent damage to the grocery
 bag hooks
 Do not hang any object heavier than 11 lb.
@@ -40302,7 +39134,6 @@ C
 5-4. Using the storage features
 
 ### LEXUS
-`lexus_nx_en_2616b095` | nx | owners_manual | tier:3 | lang:en | layer:general | p:284
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40333,7 +39164,6 @@ Stowing the luggage cover
 5-4. Using the storage features
 
 ### LEXUS
-`lexus_nx_en_214088b3` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:285
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40363,7 +39193,6 @@ death or serious injury to the child.
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_3c5f0d94` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:286
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40385,7 +39214,6 @@ Remove the lid of sunglasses holder
 using the strap
 
 ### . (P.281)
-`lexus_nx_en_80673069` | nx | owners_manual | tier:3 | lang:en | layer:body | p:286
 There is a vanity mirror on the back side of
 the lid.
 ■Automatic light off to prevent 12-volt
@@ -40398,14 +39226,12 @@ adjusted by utilizing GPS time information.
 For details, refer to the “NAVIGA-
 
 ### TION AND MULTIMEDIA SYSTEM
-`lexus_nx_en_b51b4b12` | nx | owners_manual | tier:3 | lang:en | layer:body | p:286
 OWNER’S MANUAL”.
 Other interior features
 Sun visors
 Vanity mirrors
 
 ### NOTICE
-`lexus_nx_en_82136bd0` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:286
 ■To prevent damage to the vanity mirror
 When the lid of sunglass holder is
 removed, do not subject it to strong
@@ -40420,7 +39246,6 @@ A
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_7142d742` | nx | owners_manual | tier:3 | lang:en | layer:general | p:287
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40430,7 +39255,6 @@ Please use a power supply for electronic goods that use less than 12
 VDC/10 A (power consumption of
 
 ### 120 W).
-`lexus_nx_en_b3b50ba4` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:287
 When using electronic goods, make
 sure that the power consumption of all
 the connected power outlets is less
@@ -40452,7 +39276,6 @@ Open the lid.
 Power outlet (12 VDC)
 
 ### NOTICE
-`lexus_nx_en_a3ca5825` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:287
 ■When power outlet is not in use
 To avoid damaging the power outlet,
 close the power outlet lid when the
@@ -40468,7 +39291,6 @@ equipped)
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_f5218e7f` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:288
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40491,7 +39313,6 @@ The “Qi” symbol is a trademark of the
 Wireless Power Consortium.
 
 ### NOTICE
-`lexus_nx_en_ffba75a1` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:288
 ■When power outlet (120 VAC) is not
 in use
 To avoid damaging the power outlet,
@@ -40522,7 +39343,6 @@ Wireless charger (if equipped)
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_3471f747` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:289
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40564,7 +39384,6 @@ C
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_0272f373` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:290
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40661,7 +39480,6 @@ for a while.
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_acd7624e` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:291
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40706,7 +39524,6 @@ user’s authority to operate this equipment.
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_56bb39a4` | nx | owners_manual | tier:3 | lang:en | layer:general | p:292
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40714,7 +39531,6 @@ Manual_USA_M78287_en
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_a5f1549c` | nx | owners_manual | tier:3 | lang:en | layer:general | p:293
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40724,7 +39540,6 @@ Interior features
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_60be929e` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:294
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40762,7 +39577,6 @@ than designated
 ●Do not hit or apply a strong force
 
 ### NOTICE
-`lexus_nx_en_5f42fb2f` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:294
 ■Conditions in which the function may
 not operate correctly
 In the following conditions, it may not
@@ -40808,7 +39622,6 @@ may break.
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_b3e5085e` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:295
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40820,7 +39633,6 @@ can be used to support your body
 while sitting on the seat.
 
 ### NOTICE
-`lexus_nx_en_ec4e61e4` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:295
 ●Do not leave portable devices in the
 cabin. The temperature inside the
 cabin may become high, when under
@@ -40833,7 +39645,6 @@ time.
 Armrest
 
 ### NOTICE
-`lexus_nx_en_c41b94d4` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:295
 ■To prevent damage to the armrest
 Do not apply too much load on the armrest.
 Assist grips
@@ -40844,7 +39655,6 @@ or out of the vehicle or rising from your
 seat.
 
 ### NOTICE
-`lexus_nx_en_f339b985` | nx | owners_manual | tier:3 | lang:en | layer:general | p:295
 ■To prevent damage to the assist grip
 Do not hang any heavy object or put a
 heavy load on the assist grip.
@@ -40852,7 +39662,6 @@ heavy load on the assist grip.
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_ea89841a` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:296
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40886,7 +39695,6 @@ C
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_f64336dd` | nx | owners_manual | tier:3 | lang:en | layer:general | p:297
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40937,7 +39745,6 @@ Programming the HomeLink®
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_53a00521` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:298
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -40989,7 +39796,6 @@ does not operate, proceed to “Programming a rolling code system”.
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_0d60062c` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:299
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -41045,7 +39851,6 @@ opener motor will blink twice, indi300
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_7352bee4` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:300
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -41116,7 +39921,6 @@ B
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_53de7138` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:301
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -41163,13 +39967,11 @@ Direction
 North
 
 ### “NW”
-`lexus_nx_en_1970979f` | nx | owners_manual | tier:3 | lang:en | layer:general | p:301
 Northwest
 302
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_c0860a80` | nx | owners_manual | tier:3 | lang:en | layer:general | p:302
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -41201,7 +40003,6 @@ WARNING
 Do not adjust the display. Adjust the display only when the vehicle is stopped.
 
 ### NOTICE
-`lexus_nx_en_251b253a` | nx | owners_manual | tier:3 | lang:en | layer:body | p:302
 ■To avoid compass malfunctions
 Do not place magnets or any metal
 objects near the inside rear view mirror.
@@ -41222,7 +40023,6 @@ Calibrating the compass
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_1e6c73ac` | nx | owners_manual | tier:3 | lang:en | layer:general | p:303
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -41255,7 +40055,6 @@ violate any local traffic rules while performing circling calibration.
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_a5c3766a` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:304
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -41288,7 +40087,6 @@ C
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_d0f77152` | nx | owners_manual | tier:3 | lang:en | layer:general | p:305
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -41299,7 +40097,6 @@ Interior features
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_502ca174` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:306
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -41310,13 +40107,11 @@ Helps drivers receive necessary response
 from emergency service providers.
 
 ### (P.307)
-`lexus_nx_en_06355c58` | nx | owners_manual | tier:3 | lang:en | layer:general | p:306
 *: U.S. Patent No. 7,508,298 B2
 Stolen Vehicle Location
 Helps drivers in the event of vehicle theft.
 
 ### (“SOS”)
-`lexus_nx_en_89fec802` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:306
 Connects drivers to response-center support. (P.307)
 Enhanced Roadside Assistance
 Provides drivers various on-road assistance. (P.307)
@@ -41376,7 +40171,6 @@ Subscription
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_cf9f844a` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:307
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -41419,7 +40213,6 @@ vehicle. After filing a police report, call
 the Safety Connect response center at
 
 ### 1-800-25-LEXUS (1-800-255-
-`lexus_nx_en_78613a2a` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:307
 3987) and follow the prompts for
 Safety Connect to initiate this service.
 In addition to assisting law enforcement with recovery of a stolen vehicle,
@@ -41429,7 +40222,6 @@ information is available at Lexus.com.
 ■Emergency Assistance Button
 
 ### (“SOS”)
-`lexus_nx_en_10f5715a` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:307
 In the event of an emergency on the
 road, push the “SOS” button to reach
 the Safety Connect response center.
@@ -41453,7 +40245,6 @@ Safety Connect services
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_161417c1` | nx | owners_manual | tier:3 | lang:en | layer:general | p:308
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -41489,7 +40280,6 @@ Connect
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_f4997949` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:309
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -41558,7 +40348,6 @@ Subscription
 5-5. Using the other interior features
 
 ### LEXUS
-`lexus_nx_en_320a27a1` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:310
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -41591,7 +40380,6 @@ built in the vehicle.
 311
 
 ### LEXUS
-`lexus_nx_en_2ea5f219` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:311
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -41614,7 +40402,6 @@ Checking and replacing fuses351
 6-1. Maintenance and care
 
 ### LEXUS
-`lexus_nx_en_46d9223d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:312
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -41699,7 +40486,6 @@ Cleaning instructions
 6-1. Maintenance and care
 
 ### LEXUS
-`lexus_nx_en_67d1ed03` | nx | owners_manual | tier:3 | lang:en | layer:general | p:313
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -41741,7 +40527,6 @@ cause damage to the wiper blades.
 Off
 
 ### AUTO
-`lexus_nx_en_1892821e` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:313
 ●When the upper part of the windshield
 where the raindrop sensor is located is
 touched by hand
@@ -41769,7 +40554,6 @@ B
 6-1. Maintenance and care
 
 ### NOTICE
-`lexus_nx_en_b4c787c6` | nx | owners_manual | tier:3 | lang:en | layer:body | p:314
 ■To prevent paint deterioration and
 corrosion on the body and components (aluminum wheels etc.)
 ●Wash the vehicle immediately in the
@@ -41843,7 +40627,6 @@ A
 6-1. Maintenance and care
 
 ### LEXUS
-`lexus_nx_en_cf48e534` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:315
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -41896,7 +40679,6 @@ electrical components, etc. to malfunction or catch fire.
 or wiring in the vehicle interior wet.
 
 ### (P.32)
-`lexus_nx_en_457cb555` | nx | owners_manual | tier:3 | lang:en | layer:body | p:315
 An electrical malfunction may cause
 the airbags to deploy or not function
 properly, resulting in death or serious
@@ -41910,7 +40692,6 @@ and leading to an accident, resulting in
 death or serious injury.
 
 ### NOTICE
-`lexus_nx_en_0d128d32` | nx | owners_manual | tier:3 | lang:en | layer:body | p:315
 ■Cleaning detergents
 ●Do not use the following types of
 detergent, as they may discolor the
@@ -41929,7 +40710,6 @@ may be damaged.
 6-1. Maintenance and care
 
 ### LEXUS
-`lexus_nx_en_499097ef` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:316
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -41948,7 +40728,6 @@ that the warning message on the
 multi-information display disappears.
 
 ### NOTICE
-`lexus_nx_en_06406899` | nx | owners_manual | tier:3 | lang:en | layer:general | p:316
 ■Preventing damage to leather surfaces
 Observe the following precautions to
 avoid damage to and deterioration of
@@ -41975,7 +40754,6 @@ Do not allow glass cleaner to contact the
 lens. Also, do not touch the lens.
 
 ### (P.198)
-`lexus_nx_en_bc315a45` | nx | owners_manual | tier:3 | lang:en | layer:body | p:316
 ■Cleaning the inside of the rear window
 ●Do not use glass cleaner to clean the
 rear window, as this may cause damage to the rear window defogger
@@ -41995,7 +40773,6 @@ Cleaning the air intake vents
 6-1. Maintenance and care
 
 ### LEXUS
-`lexus_nx_en_b57b2741` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:317
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -42042,7 +40819,6 @@ the quality of the vehicle’s interior.
 Wipe it off with a soft cloth dampened with neutral detergent diluted
 
 ### NOTICE
-`lexus_nx_en_2ca79d4a` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:317
 ■When cleaning the air intake vents
 When cleaning the air intake vent, make
 sure to only use a vacuum to suck out
@@ -42068,7 +40844,6 @@ areas
 6-1. Maintenance and care
 
 ### LEXUS
-`lexus_nx_en_051f5bf8` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:318
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -42081,7 +40856,6 @@ water.
 6-2. Maintenance
 
 ### LEXUS
-`lexus_nx_en_688936fc` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:319
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -42156,7 +40930,6 @@ Scheduled maintenance
 6-2. Maintenance
 
 ### LEXUS
-`lexus_nx_en_848dce96` | nx | owners_manual | tier:3 | lang:en | layer:general | p:320
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -42223,7 +40996,6 @@ fluid? (P.333)
 6-2. Maintenance
 
 ### LEXUS
-`lexus_nx_en_9d384df5` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:321
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -42235,7 +41007,6 @@ Check points
 12-volt battery Check the connections.
 
 ### (P.334)
-`lexus_nx_en_a0eee8ae` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:321
 Vehicle interior
 Items
 Check points
@@ -42325,7 +41096,6 @@ Check points
 6-2. Maintenance
 
 ### LEXUS
-`lexus_nx_en_f48f2e23` | nx | owners_manual | tier:3 | lang:en | layer:general | p:322
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -42383,7 +41153,6 @@ M test in the following situations:
 6-2. Maintenance
 
 ### LEXUS
-`lexus_nx_en_a707e9dd` | nx | owners_manual | tier:3 | lang:en | layer:general | p:323
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -42402,7 +41171,6 @@ I/M test
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_69d8681e` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:324
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -42417,7 +41185,6 @@ Parts and tools
 12-volt Battery condition
 
 ### (P.334)
-`lexus_nx_en_bc6aedb6` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:324
 • Grease
 • Conventional wrench
 (for terminal clamp
@@ -42426,7 +41193,6 @@ Brake fluid
 level
 
 ### or SAE J1703; FMVSS
-`lexus_nx_en_069566e2` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:324
 No.116 DOT 4 or SAE
 J1704 brake fluid
 • Rag or paper towel
@@ -42437,7 +41203,6 @@ control unit
 coolant level
 
 ### (P.331)
-`lexus_nx_en_a6d489ec` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:324
 • “Toyota Super Long Life
 Coolant” or a similar
 high quality ethylene glycol-based non-silicate,
@@ -42461,7 +41226,6 @@ Engine oil
 level
 
 ### (P.329)
-`lexus_nx_en_ec886045` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:324
 • “Toyota Genuine Motor
 Oil” or equivalent
 • Rag or paper towel
@@ -42470,13 +41234,11 @@ adding engine oil)
 Fuses
 
 ### (P.351)
-`lexus_nx_en_e4ca47ff` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:324
 Fuse with same amperage
 rating as original
 Light bulbs
 
 ### (P.355)
-`lexus_nx_en_663b124c` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:324
 Bulb with same number
 and wattage rating as original
 Headlight aim Phillips-head screw-driver
@@ -42484,7 +41246,6 @@ Radiator and
 condenser
 
 ### (P.332)
-`lexus_nx_en_3893f239` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:324
 —
 Items
 Parts and tools
@@ -42492,7 +41253,6 @@ Parts and tools
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_903d0a5b` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:325
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -42502,13 +41262,11 @@ Tire inflation
 pressure
 
 ### (P.345)
-`lexus_nx_en_fa5b599c` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:325
 • Tire pressure gauge
 • Compressed air source
 Washer fluid
 
 ### (P.333)
-`lexus_nx_en_df1cedab` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:325
 • Water or washer fluid
 containing antifreeze
 (for winter use)
@@ -42548,13 +41306,11 @@ start to run if the air conditioning is on
 and/or the coolant temperature is high.
 
 ### (P.332)
-`lexus_nx_en_33c99465` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:325
 ■Safety glasses
 Wear safety glasses to prevent flying or
 falling material, fluid spray, etc. from getting in your eyes.
 
 ### NOTICE
-`lexus_nx_en_ec2f8a8d` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:325
 ■If you remove the air cleaner filter
 Driving with the air cleaner filter
 removed may cause excessive engine
@@ -42563,7 +41319,6 @@ wear due to dirt in the air.
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_e6e95bd8` | nx | owners_manual | tier:3 | lang:en | layer:general | p:326
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -42596,7 +41351,6 @@ Location of the jack point
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_4f4ba81b` | nx | owners_manual | tier:3 | lang:en | layer:general | p:327
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -42616,7 +41370,6 @@ B
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_eb87756a` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:328
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -42633,7 +41386,6 @@ Washer fluid tank (P.333)
 ■12-volt battery
 
 ### P.334
-`lexus_nx_en_7676d122` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:328
 Engine compartment
 Components
 A
@@ -42650,7 +41402,6 @@ J
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_cfe76982` | nx | owners_manual | tier:3 | lang:en | layer:general | p:329
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -42679,7 +41430,6 @@ in the illustration) pointing towards engine.
 Engine compartment cover
 
 ### NOTICE
-`lexus_nx_en_9adadd50` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:329
 ■After installing an engine compartment cover
 Make sure that the cover is securely
 installed in its original position.
@@ -42690,7 +41440,6 @@ A
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_5df7301f` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:330
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -42709,7 +41458,6 @@ prepare the items needed before adding oil.
 Engine oil selection
 
 ### P.404
-`lexus_nx_en_52f22061` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:330
 Oil quantity (Low Full)
 1.6 qt. (1.5 L, 1.3 Imp.qt.)
 Items
@@ -42757,7 +41505,6 @@ D
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_62d3a173` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:331
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -42793,7 +41540,6 @@ If the level is on or below the “LOW” line,
 add coolant up to the “FULL” line.
 
 ### (P.396)
-`lexus_nx_en_9e778b4f` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:331
 WARNING
 ■Used engine oil
 ●Used engine oil contains potentially
@@ -42812,7 +41558,6 @@ disposal.
 reach of children.
 
 ### NOTICE
-`lexus_nx_en_62ab83b9` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:331
 ■To prevent serious engine damage
 Check the oil level on a regular basis.
 ■When replacing the engine oil
@@ -42831,7 +41576,6 @@ C
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_d148d4cc` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:332
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -42849,7 +41593,6 @@ and non-borate coolant with long-life
 hybrid organic acid technology.
 
 ### U.S.A.:
-`lexus_nx_en_3b3d7675` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:332
 “Toyota Super Long Life Coolant” is a mixture of 50% coolant and 50% deionized
 water.
 (Minimum temperature: -31°F [-35°C])
@@ -42884,7 +41627,6 @@ is removed, causing serious injuries, such
 as burns.
 
 ### NOTICE
-`lexus_nx_en_246e3494` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:332
 ■When adding coolant
 Coolant is neither plain water nor
 straight antifreeze. The correct mixture
@@ -42904,7 +41646,6 @@ injuries, such as burns.
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_3e07ac1c` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:333
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -42920,7 +41661,6 @@ prepare the necessary item.
 Fluid type
 
 ### FMVSS No.116 DOT 3 or SAE J1703;
-`lexus_nx_en_13115af9` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:333
 FMVSS No.116 DOT 4 or SAE J1704
 brake fluid
 Items
@@ -42959,7 +41699,6 @@ If you still experience discomfort, see a
 doctor.
 
 ### NOTICE
-`lexus_nx_en_3fef6412` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:333
 ■If the fluid level is low or high
 It is normal for the brake fluid level to go
 down slightly as the brake pads wear out
@@ -42973,7 +41712,6 @@ fluid
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_56b8f5ef` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:334
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43009,7 +41747,6 @@ contains alcohol and may catch fire if
 spilled on the engine etc.
 
 ### NOTICE
-`lexus_nx_en_1b68a7d0` | nx | owners_manual | tier:3 | lang:en | layer:body | p:334
 ■Do not use any fluid other than
 washer fluid
 Do not use soapy water or engine antifreeze instead of washer fluid.
@@ -43027,7 +41764,6 @@ Location
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_a24a9de1` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:335
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43094,7 +41830,6 @@ immediately.
 ■When handling the 12-volt battery
 
 ### P.395
-`lexus_nx_en_7c89b3e2` | nx | owners_manual | tier:3 | lang:en | layer:body | p:335
 ■When disconnecting the 12-volt battery
 Do not disconnect the negative (-) terminal on the body side as shown. The disconnected negative (-) terminal may
 touch the positive (+) terminal, which
@@ -43104,7 +41839,6 @@ serious injury.
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_0beb37f6` | nx | owners_manual | tier:3 | lang:en | layer:general | p:336
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43128,7 +41862,6 @@ Push up center position
 3 Press
 
 ### NOTICE
-`lexus_nx_en_13531129` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:336
 ■When recharging the 12-volt battery
 Never recharge the 12-volt battery while
 the hybrid system is operating. Also, be
@@ -43146,7 +41879,6 @@ B
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_c85b7620` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:337
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43210,7 +41942,6 @@ C
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_bf008c8a` | nx | owners_manual | tier:3 | lang:en | layer:general | p:338
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43269,7 +42000,6 @@ how they were used previously.
 ●Do not tow if your vehicle has a compact spare tire installed.
 
 ### NOTICE
-`lexus_nx_en_7eed1139` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:338
 ■Driving on rough roads
 Take particular care when driving on
 roads with loose surfaces or potholes.
@@ -43286,7 +42016,6 @@ Tire rotation
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_277d4aa7` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:339
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43302,7 +42031,6 @@ predetermined level, the driver is
 warned by a warning light.
 
 ### (P.372)
-`lexus_nx_en_4a6efe27` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:339
 The tire pressure detected by the
 tire pressure warning system can be
 displayed on the multi-information
@@ -43354,7 +42082,6 @@ A
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_fb853706` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:340
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43364,7 +42091,6 @@ Manual_USA_M78287_en
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_683e619d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:341
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43375,7 +42101,6 @@ Maintenance and care
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_245c172f` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:342
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43389,7 +42114,6 @@ the tire pressure warning system must
 be initialized. Have tire pressure warning valve and transmitter ID codes registered by your Lexus dealer.
 
 ### (P.344)
-`lexus_nx_en_60c2372a` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:342
 ■When replacing the tires and wheels
 If the ID code of the tire pressure warning
 valve and transmitter is not registered, the
@@ -43417,7 +42141,6 @@ Installing tire pressure warning
 valves and transmitters
 
 ### NOTICE
-`lexus_nx_en_4875a263` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:342
 ■Repairing or replacing tires, wheels,
 tire pressure warning valves, transmitters and tire valve caps
 ●When removing or fitting the wheels,
@@ -43446,7 +42169,6 @@ repairing or replacing the tire. (P.339,
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_54818749` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:343
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43522,7 +42244,6 @@ warning system
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_0153e57a` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:344
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43570,7 +42291,6 @@ Registering ID codes
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_36f74fb2` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:345
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43581,7 +42301,6 @@ pressure and tire size are displayed on
 the tire and loading information label.
 
 ### (P.408)
-`lexus_nx_en_93cb20cf` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:345
 Tire valve
 Tire pressure gauge
 1
@@ -43630,7 +42349,6 @@ B
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_c3d15d00` | nx | owners_manual | tier:3 | lang:en | layer:general | p:346
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43683,7 +42401,6 @@ expansion joints, sharp edges in the
 road, etc.)
 
 ### NOTICE
-`lexus_nx_en_0412548d` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:346
 ■When inspecting and adjusting tire
 inflation pressure
 Be sure to put the tire valve caps back on.
@@ -43706,7 +42423,6 @@ loss of handling control.
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_9fbc0abe` | nx | owners_manual | tier:3 | lang:en | layer:general | p:347
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43733,7 +42449,6 @@ Doing so could cause the tire to leak air
 during driving, possibly causing an accident.
 
 ### NOTICE
-`lexus_nx_en_722fc6af` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:347
 ■Replacing tire pressure warning
 valves and transmitters
 ●Because tire repair or replacement
@@ -43753,7 +42468,6 @@ Aluminum wheel precautions
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_cab10113` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:348
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43794,7 +42508,6 @@ Removal method
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_4dda8737` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:349
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43824,7 +42537,6 @@ type recommended by the manufacturer.
 the local laws.
 
 ### NOTICE
-`lexus_nx_en_becef280` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:349
 ■When using the air conditioning system
 Make sure that a filter is always installed.
 Using the air conditioning system without
@@ -43837,7 +42549,6 @@ Items to prepare
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_00fe6921` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:350
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43858,7 +42569,6 @@ away from children. Failure to do so
 could result in death or serious injury.
 
 ### NOTICE
-`lexus_nx_en_5c79f4fd` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:350
 ■For normal operation after replacing
 the battery
 Observe the following precautions to
@@ -43872,7 +42582,6 @@ rust.
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_95cc00e1` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:351
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43909,7 +42618,6 @@ Checking and replacing fuses
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_3060a8e5` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:352
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43964,7 +42672,6 @@ B
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_6fc3a9dc` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:353
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -43991,7 +42698,6 @@ Doing so may cause electric shock,
 resulting in death or serious injury.
 
 ### NOTICE
-`lexus_nx_en_a85eee8f` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:353
 ■Before replacing fuses
 Have the cause of electrical overload
 determined and repaired by your Lexus
@@ -44009,7 +42715,6 @@ B
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_abffd77d` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:354
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44037,7 +42742,6 @@ Adjusting the headlight aim
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_8101ac3d` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:355
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44045,7 +42749,6 @@ Manual_USA_M78287_en
 Maintenance and care
 
 ### P.329
-`lexus_nx_en_206f40d6` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:355
 Front side marker light (bulb type)
 Front turn signal light (bulb type)
 ■Bulbs that need to be replaced by
@@ -44083,7 +42786,6 @@ inside of the lens.
 ■When replacing light bulbs
 
 ### P.352
-`lexus_nx_en_673298a9` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:355
 Light bulbs
 You may replace the following bulbs
 by yourself.
@@ -44102,7 +42804,6 @@ B
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_582f02dd` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:356
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44110,7 +42811,6 @@ Before replacing, check the wattage of
 the light bulb to be replaced.
 
 ### (P.409)
-`lexus_nx_en_1ff670bb` | nx | owners_manual | tier:3 | lang:en | layer:body | p:356
 ■Front side marker lights (bulb type)
 1
 Turn the bulb base counterclockwise.
@@ -44137,7 +42837,6 @@ B
 6-3. Do-it-yourself maintenance
 
 ### LEXUS
-`lexus_nx_en_4de067da` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:357
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44198,7 +42897,6 @@ Owners
 Manual_USA_M78287_en
 359
 ### LEXUS
-`lexus_nx_en_5b9603cb` | nx | owners_manual | tier:3 | lang:en | layer:general | p:359
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44224,7 +42922,6 @@ If the vehicle becomes stuck 399
 7-1. Essential information
 
 ### LEXUS
-`lexus_nx_en_f9dd5a8e` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:360
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44272,7 +42969,6 @@ Stopping the vehicle
 7-1. Essential information
 
 ### LEXUS
-`lexus_nx_en_2c174f2d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:361
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44293,7 +42989,6 @@ possible before turning off the hybrid system.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_a75ca98d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:362
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44309,7 +43004,6 @@ towing, and abide by all state/provincial and local laws.
 If towing your vehicle with a wheellift type truck, use a towing dolly.
 
 ### (P.362, 363)
-`lexus_nx_en_8265c91c` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:362
 WARNING
 Observe the following precautions.
 Failure to do so may result in death or
@@ -44341,7 +43035,6 @@ If not securely installed, towing eyelets
 may come loose during towing.
 
 ### NOTICE
-`lexus_nx_en_6bd40f8b` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:362
 ■To prevent damage to the vehicle
 when towing using a wheel-lift type
 truck
@@ -44362,7 +43055,6 @@ from the front or rear.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_84f5e9e1` | nx | owners_manual | tier:3 | lang:en | layer:general | p:363
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44388,14 +43080,12 @@ If your vehicle is transported by a flatbed truck, it should be tied down at the
 locations shown in the illustration.
 
 ### NOTICE
-`lexus_nx_en_41102597` | nx | owners_manual | tier:3 | lang:en | layer:drivetrain | p:363
 ■Recreational towing (behind motor
 home, etc.)
 Never dinghy tow your vehicle to prevent causing serious damage to the
 Hybrid AWD system and transmission.
 
 ### (P.167)
-`lexus_nx_en_bcd612d9` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:363
 Situations when it is necessary to
 contact dealers before towing
 Towing with a sling-type truck
@@ -44406,7 +43096,6 @@ Using a flatbed truck
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_2a065802` | nx | owners_manual | tier:3 | lang:en | layer:general | p:364
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44431,7 +43120,6 @@ procedure.
 Take out the towing eyelet.
 
 ### (P.380)
-`lexus_nx_en_a5d7bd9c` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:364
 2 Remove the eyelet cover using a
 flathead screwdriver.
 To protect the bodywork, place a rag
@@ -44445,7 +43133,6 @@ To have your vehicle towed
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_866cd337` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:365
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44465,7 +43152,6 @@ the parking brake.
 When the shift lever cannot be shifted:
 
 ### P.174
-`lexus_nx_en_cfa8fbf3` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:365
 ■While towing
 If the hybrid system is off, the power assist
 for the brakes and steering will not function,
@@ -44503,7 +43189,6 @@ Operational symptoms
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_a1ac1f8d` | nx | owners_manual | tier:3 | lang:en | layer:general | p:366
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44516,7 +43201,6 @@ floor
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_10509269` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:367
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44536,7 +43220,6 @@ Warning light
 Details/Actions
 
 ### (U.S.A.)
-`lexus_nx_en_92a2f04d` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:367
 (Red)
 (Canada)
 Indicates that:
@@ -44556,7 +43239,6 @@ Indicates that the hybrid system is overheated
 368
 7-2. Steps to take in an emergency
 ### LEXUS
-`lexus_nx_en_3c8aa34a` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:368
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44589,7 +43271,6 @@ Warning light
 Details/Actions
 
 ### (U.S.A.)
-`lexus_nx_en_ad45df98` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:368
 (Canada)
 Indicates a malfunction in:
 The hybrid system;
@@ -44602,7 +43283,6 @@ immediately.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_878f05a0` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:369
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44624,7 +43304,6 @@ Warning light
 Details/Actions
 
 ### (U.S.A.)
-`lexus_nx_en_2f571e48` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:369
 (Canada)
 Indicates a malfunction in:
 The ABS; or
@@ -44651,7 +43330,6 @@ Control) system is disabled, the PCS warning light will illuminate.
 370
 7-2. Steps to take in an emergency
 ### LEXUS
-`lexus_nx_en_431f7fe3` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:370
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44699,7 +43377,6 @@ immediately.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_15c57a4f` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:371
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44725,7 +43402,6 @@ Details/Actions
 (Flashes)
 
 ### (U.S.A.)
-`lexus_nx_en_c9e3b681` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:371
 (Flashes)
 (Canada)
 It is possible that the parking brake is not fully engaged or
@@ -44750,7 +43426,6 @@ the warning light (warning buzzer) turn off.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_8d37d72e` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:372
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44774,7 +43449,6 @@ flashes to indicate that the master warning system has
 detected a malfunction.
 
 ### P.376
-`lexus_nx_en_ebd4352b` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:372
 Warning light
 Details/Actions
 When the light comes on:
@@ -44793,7 +43467,6 @@ Malfunction in the tire pressure warning system (P.374)
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_4c07490e` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:373
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44857,7 +43530,6 @@ immediately.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_7b7eaaa1` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:374
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -44902,7 +43574,6 @@ few minutes.
 ■Conditions that the tire pressure warning system may not function properly
 
 ### P.339
-`lexus_nx_en_d6731e7f` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:374
 ■If the tire pressure warning light frequently comes on after blinking for 1
 minute
 If the tire pressure warning light frequently
@@ -44951,7 +43622,6 @@ Lexus dealer.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_facadf14` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:375
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -45023,7 +43693,6 @@ pressure warning system) to continue to
 function properly.
 
 ### NOTICE
-`lexus_nx_en_cc5c231b` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:375
 ■To ensure the tire pressure warning
 system operates properly
 Do not install tires with different specifications or makers, as the tire pressure
@@ -45032,7 +43701,6 @@ warning system may not operate properly.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_078a7ec3` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:376
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -45059,7 +43727,6 @@ B
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_164b8d24` | nx | owners_manual | tier:3 | lang:en | layer:general | p:377
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -45077,7 +43744,6 @@ along with a message shown on the multiinformation display.
 The ABS warning light comes on.
 
 ### (P.369)
-`lexus_nx_en_64f0c838` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:377
 ●Malfunction of the charging system
 The charging system warning light comes
 on. (P.367)
@@ -45133,7 +43799,6 @@ Indicates a situation, such as when an operation has been performed incorrectly,
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_05e40e8e` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:378
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -45228,7 +43893,6 @@ procedure on P. 316 to clean them.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_f75134ba` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:379
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -45248,7 +43912,6 @@ dangerous.
 ■Warning buzzer
 
 ### P.374
-`lexus_nx_en_681f79ec` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:379
 Stop the vehicle in a safe place on a
 hard, flat surface.
 Set the parking brake.
@@ -45257,7 +43920,6 @@ hard, flat surface.
 Turn on the emergency flashers.
 
 ### (P.360)
-`lexus_nx_en_b35e27b6` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:379
 NOTICE
 ■“High Power Consumption Partial
 Limit On AC/Heater Operation” is
@@ -45286,7 +43948,6 @@ Before jacking up the vehicle
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_fc974ede` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:380
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -45332,7 +43993,6 @@ the tire.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_df77f2e5` | nx | owners_manual | tier:3 | lang:en | layer:general | p:381
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -45364,7 +44024,6 @@ Taking out the jack
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_b793bdea` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:382
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -45413,7 +44072,6 @@ A
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_c72cf43a` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:383
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -45449,7 +44107,6 @@ may result in burns.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_26a7d367` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:384
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -45515,7 +44172,6 @@ B
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_0374e092` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:385
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -45582,7 +44238,6 @@ braking.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_02483d2b` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:386
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -45595,13 +44250,11 @@ not operate correctly:
 • ABS & Brake assist
 
 ### • VSC
-`lexus_nx_en_daf4d7b3` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:386
 • TRAC
 • Dynamic radar cruise control with fullspeed range
 • PCS (Pre-Collision System)
 
 ### • EPS
-`lexus_nx_en_f7da8b31` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:386
 • LDA (Lane Departure Alert with
 steering control)
 • Panoramic view monitor (if equipped)
@@ -45632,7 +44285,6 @@ of personal injury during a collision or
 sudden braking.
 
 ### NOTICE
-`lexus_nx_en_47c0974f` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:386
 ■Be careful when driving over bumps
 with the compact spare tire installed
 on the vehicle
@@ -45657,7 +44309,6 @@ handled correctly.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_7bf1c448` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:387
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -45680,14 +44331,12 @@ depending on the type of malfunction, an interim measure is available
 to start the hybrid system.
 
 ### (P.387)
-`lexus_nx_en_62097ca1` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:387
 One of the following may be the cause
 of the problem:
 The 12-volt battery may be discharged. (P.392)
 The 12-volt battery terminal connections may be loose or corroded.
 
 ### (P.334)
-`lexus_nx_en_dfc2afd9` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:387
 One of the following may be the cause
 of the problem:
 The 12-volt battery may be discharged. (P.392)
@@ -45695,7 +44344,6 @@ of the problem:
 terminals may be disconnected.
 
 ### (P.334)
-`lexus_nx_en_58123217` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:387
 Contact your Lexus dealer if the problem
 cannot be repaired, or if repair procedures
 are unknown.
@@ -45716,7 +44364,6 @@ even though the correct starting
 procedure is being followed.
 
 ### (P.168)
-`lexus_nx_en_86982f3c` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:387
 The interior lights and headlights are dim, or the horn does
 not sound or sounds at a low volume.
 The interior lights and headlights do not turn on, or the horn
@@ -45727,7 +44374,6 @@ emergency
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_f8064412` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:388
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -45751,7 +44397,6 @@ safe place such as your wallet, not in
 the vehicle.
 
 ### NOTICE
-`lexus_nx_en_0c588322` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:388
 ■When an electronic key is lost
 If the electronic key remains lost, the risk
 of vehicle theft increases significantly.
@@ -45763,7 +44408,6 @@ vehicle.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_767e5e62` | nx | owners_manual | tier:3 | lang:en | layer:body | p:389
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -45806,7 +44450,6 @@ system can be started by following
 the procedure below.
 
 ### NOTICE
-`lexus_nx_en_ebaac5a4` | nx | owners_manual | tier:3 | lang:en | layer:body | p:389
 ■In case of a smart access system with
 push-button start malfunction or
 other key related problems
@@ -45817,7 +44460,6 @@ Locking and unlocking the doors
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_c9d3b615` | nx | owners_manual | tier:3 | lang:en | layer:body | p:390
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -45872,7 +44514,6 @@ Starting the hybrid system
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_7fe3e469` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:391
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -45908,7 +44549,6 @@ pressed. (P.170)
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_6dde92c9` | nx | owners_manual | tier:3 | lang:en | layer:body | p:392
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -45923,7 +44563,6 @@ cables, depending on the situation, the
 alarm may activate and the doors may lock.
 
 ### (P.72)
-`lexus_nx_en_f7d4faf5` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:392
 2 Open the hood (P.326) and fuse
 box cover.
 3 Open the exclusive jump starting
@@ -45940,7 +44579,6 @@ Restarting the hybrid system
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_0856807b` | nx | owners_manual | tier:3 | lang:en | layer:general | p:393
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -45984,7 +44622,6 @@ D
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_aa648be3` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:394
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -46062,7 +44699,6 @@ B
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_46ee2627` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:395
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -46122,7 +44758,6 @@ the exhaust hole of the exchanged 12volt battery. If not properly installed,
 gases (hydrogen) may leak into the vehicle interior, and there is the possible danger of the gas igniting and exploding.
 
 ### NOTICE
-`lexus_nx_en_b75dec6a` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:395
 ■When handling jumper cables
 When connecting the jumper cables,
 ensure that they do not become entangled in the cooling fans or belt.
@@ -46134,7 +44769,6 @@ another vehicle.
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_9bb4ef32` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:396
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -46188,7 +44822,6 @@ C
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_59562f86` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:397
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -46245,7 +44878,6 @@ C
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_cff317f7` | nx | owners_manual | tier:3 | lang:en | layer:general | p:398
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -46288,7 +44920,6 @@ High temperature steam or coolant
 could spray out.
 
 ### NOTICE
-`lexus_nx_en_89015bdb` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:398
 ■When adding engine/power control
 unit coolant
 Add coolant slowly after the hybrid system has cooled down sufficiently. Adding
@@ -46305,7 +44936,6 @@ etc.).
 7-2. Steps to take in an emergency
 
 ### LEXUS
-`lexus_nx_en_89bcec7a` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:399
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -46348,7 +44978,6 @@ accident resulting in death or serious
 injury.
 
 ### NOTICE
-`lexus_nx_en_a0e330b1` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:399
 ■To avoid damage to the hybrid transmission and other components
 ●Avoid spinning the front wheels and
 depressing the accelerator pedal
@@ -46364,7 +44993,6 @@ Owners
 Manual_USA_M78287_en
 401
 ### LEXUS
-`lexus_nx_en_bc0c5622` | nx | owners_manual | tier:3 | lang:en | layer:general | p:401
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -46381,7 +45009,6 @@ Customizable features.............421
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_a4ee17c2` | nx | owners_manual | tier:3 | lang:en | layer:general | p:402
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -46423,7 +45050,6 @@ Vehicle identification
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_6c29a1b4` | nx | owners_manual | tier:3 | lang:en | layer:general | p:403
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -46466,7 +45092,6 @@ Maximum torque
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_36157673` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:404
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -46511,7 +45136,6 @@ Quantity
 Overall voltage
 
 ### 244.8 V
-`lexus_nx_en_8f952836` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:404
 Lubrication system
 With filter
 4.6 qt. (4.4 L, 3.9 Imp.qt.)
@@ -46522,7 +45146,6 @@ A
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_cf615a98` | nx | owners_manual | tier:3 | lang:en | layer:general | p:405
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -46568,7 +45191,6 @@ Do not use plain water alone.
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_58791319` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:406
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -46581,7 +45203,6 @@ Ignition system
 Make
 
 ### NOTICE
-`lexus_nx_en_b19e57b0` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:406
 ■Iridium-tipped spark plugs
 Use only iridium-tipped spark plugs. Do not adjust the spark plug gap.
 Electrical system
@@ -46605,7 +45226,6 @@ Fluid type
 Toyota Genuine ATF WS
 
 ### NOTICE
-`lexus_nx_en_7c0e8093` | nx | owners_manual | tier:3 | lang:en | layer:general | p:406
 ■Transmission fluid type
 Using transmission fluid other than “Toyota Genuine ATF WS” may ultimately damage
 the hybrid transmission of your vehicle.
@@ -46613,7 +45233,6 @@ the hybrid transmission of your vehicle.
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_4f2fc395` | nx | owners_manual | tier:3 | lang:en | layer:general | p:407
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -46630,7 +45249,6 @@ Fluid type
 Toyota Genuine ATF WS
 
 ### NOTICE
-`lexus_nx_en_26a49b47` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:407
 ■Transmission fluid type
 Using transmission fluid other than “Toyota Genuine ATF WS” may cause deterioration in
 shift quality, locking up of your transmission accompanied by vibration, and ultimately
@@ -46645,7 +45263,6 @@ Pedal free play
 Fluid type
 
 ### • FMVSS No. 116 DOT 3 or SAE J1703
-`lexus_nx_en_62d291b9` | nx | owners_manual | tier:3 | lang:en | layer:steering | p:407
 • FMVSS No. 116 DOT 4 or SAE J1704
 Steering
 Free play
@@ -46654,7 +45271,6 @@ Less than 1.2 in. (30 mm)
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_a5b2b941` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:408
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -46664,7 +45280,6 @@ Tires and wheels
 Tire size
 
 ### 225/65R17 102H
-`lexus_nx_en_081dd6b8` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:408
 Tire inflation pressure
 (Recommended cold tire inflation
 pressure)
@@ -46682,13 +45297,11 @@ inflation pressure indicated on the tire sidewall.
 Wheel size
 
 ### 17  7 J
-`lexus_nx_en_9ffe04f0` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:408
 Wheel nut torque
 76 ft•lbf (103 N•m, 10.5 kgf•m)
 Tire size
 
 ### 225/60R18 100H
-`lexus_nx_en_190b210f` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:408
 Tire inflation pressure
 (Recommended cold tire inflation
 pressure)
@@ -46706,14 +45319,12 @@ inflation pressure indicated on the tire sidewall.
 Wheel size
 
 ### 18  7 1/2 J
-`lexus_nx_en_42826146` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:408
 Wheel nut torque
 76 ft•lbf (103 N•m, 10.5 kgf•m)
 409
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_3afe2a9e` | nx | owners_manual | tier:3 | lang:en | layer:general | p:409
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -46726,7 +45337,6 @@ B: Wedge base bulbs (amber)
 Tire size
 
 ### T165/80D17 104M
-`lexus_nx_en_00b0eb79` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:409
 Spare tire inflation pressure
 (Recommended cold tire inflation
 pressure)
@@ -46734,7 +45344,6 @@ pressure)
 Wheel size
 
 ### 17  4 T
-`lexus_nx_en_e0e4ed5c` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:409
 Wheel nut torque
 76 ft•lbf (103 N•m, 10.5 kgf•m)
 Light bulbs
@@ -46753,7 +45362,6 @@ type)*
 585
 
 ### (WY21W)
-`lexus_nx_en_3d8c71c3` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:409
 21
 B
 Interior
@@ -46765,7 +45373,6 @@ A
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_328c2038` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:410
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -46844,7 +45451,6 @@ C
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_dc9d6b2f` | nx | owners_manual | tier:3 | lang:en | layer:general | p:411
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -46852,7 +45458,6 @@ Manual_USA_M78287_en
 Vehicle specifications
 
 ### NOTICE
-`lexus_nx_en_9062cdc1` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:411
 ■Notice on fuel quality
 ●Do not use improper fuels. If improper
 fuels are used, the engine will be damaged.
@@ -46880,7 +45485,6 @@ Take care not to spill gasohol. It can damage your vehicle’s paint.
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_0bc98a69` | nx | owners_manual | tier:3 | lang:en | layer:general | p:412
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -46904,7 +45508,6 @@ E
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_5f520947` | nx | owners_manual | tier:3 | lang:en | layer:general | p:413
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -46913,7 +45516,6 @@ Vehicle specifications
 A radial tire has “RADIAL” on the sidewall. A tire not marked “RADIAL” is a bias-ply tire.
 
 ### TUBELESS or TUBE TYPE
-`lexus_nx_en_c0d63c96` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:413
 A tubeless tire does not have a tube and air is directly put into the tire. A tube type tire has a
 tube inside the tire and the tube maintains the air pressure.
 Load limit at maximum cold tire inflation pressure (P.337)
@@ -46925,7 +45527,6 @@ Summer tires or all season tires (P.337)
 An all season tire has “M+S” on the sidewall. A tire not marked “M+S” is a summer tire.
 
 ### “TEMPORARY USE ONLY”
-`lexus_nx_en_7142e556` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:413
 A compact spare tire is identified by the phrase “TEMPORARY USE ONLY” molded on its
 sidewall. This tire is designed for temporary emergency use only.
 Type A
@@ -46975,7 +45576,6 @@ F
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_fe738ad7` | nx | owners_manual | tier:3 | lang:en | layer:general | p:414
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -47045,7 +45645,6 @@ K
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_ee2435e0` | nx | owners_manual | tier:3 | lang:en | layer:general | p:415
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -47114,7 +45713,6 @@ possible tire failure.
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_1d3b4831` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:416
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -47214,7 +45812,6 @@ Meaning
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_028e509c` | nx | owners_manual | tier:3 | lang:en | layer:general | p:417
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -47319,7 +45916,6 @@ Meaning
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_b1dd39cf` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:418
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -47414,7 +46010,6 @@ Meaning
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_af9e39bd` | nx | owners_manual | tier:3 | lang:en | layer:general | p:419
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -47494,7 +46089,6 @@ Treadwear
 indicators
 
 ### (TWI)
-`lexus_nx_en_d018c364` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:419
 The projections within the
 principal grooves designed
 to give a visual indication of
@@ -47511,7 +46105,6 @@ Meaning
 8-1. Specifications
 
 ### LEXUS
-`lexus_nx_en_89e0846f` | nx | owners_manual | tier:3 | lang:en | layer:general | p:420
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -47537,7 +46130,6 @@ in third seat, 1 in fourth seat
 8-2. Customization
 
 ### LEXUS
-`lexus_nx_en_fb6a9f83` | nx | owners_manual | tier:3 | lang:en | layer:general | p:421
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -47598,7 +46190,6 @@ and enter the vehicle. This may lead to
 death or a serious health hazard.
 
 ### NOTICE
-`lexus_nx_en_c5eac2e2` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:421
 ■During customization
 To prevent 12-volt battery discharge,
 ensure that the hybrid system is operating while customizing features.
@@ -47611,7 +46202,6 @@ D
 8-2. Customization
 
 ### LEXUS
-`lexus_nx_en_101b3bfa` | nx | owners_manual | tier:3 | lang:en | layer:body | p:422
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -47620,7 +46210,6 @@ Definition of symbols: O = Available, – =Not available
 ■Smart access system with push-button start and wireless remote control
 
 ### (P.104, 120)
-`lexus_nx_en_2832db43` | nx | owners_manual | tier:3 | lang:en | layer:body | p:422
 Function
 Default setting
 Customized setting
@@ -47718,7 +46307,6 @@ D
 8-2. Customization
 
 ### LEXUS
-`lexus_nx_en_73a5daae` | nx | owners_manual | tier:3 | lang:en | layer:general | p:423
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -47833,7 +46421,6 @@ D
 8-2. Customization
 
 ### LEXUS
-`lexus_nx_en_f7724ebc` | nx | owners_manual | tier:3 | lang:en | layer:lighting | p:424
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -47950,7 +46537,6 @@ D
 8-2. Customization
 
 ### LEXUS
-`lexus_nx_en_0546dd98` | nx | owners_manual | tier:3 | lang:en | layer:general | p:425
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -48049,7 +46635,6 @@ D
 8-2. Customization
 
 ### LEXUS
-`lexus_nx_en_84bdad63` | nx | owners_manual | tier:3 | lang:en | layer:body | p:426
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -48147,7 +46732,6 @@ D
 8-2. Customization
 
 ### LEXUS
-`lexus_nx_en_c1bd89f3` | nx | owners_manual | tier:3 | lang:en | layer:general | p:427
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -48230,7 +46814,6 @@ D
 8-2. Customization
 
 ### LEXUS
-`lexus_nx_en_b9921137` | nx | owners_manual | tier:3 | lang:en | layer:adas | p:428
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -48351,7 +46934,6 @@ D
 8-2. Customization
 
 ### LEXUS
-`lexus_nx_en_b8ad93ce` | nx | owners_manual | tier:3 | lang:en | layer:body | p:429
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -48421,7 +47003,6 @@ D
 8-3. Initialization
 
 ### LEXUS
-`lexus_nx_en_727858fe` | nx | owners_manual | tier:3 | lang:en | layer:general | p:430
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -48440,13 +47021,11 @@ After reconnecting or changing the
 12-volt battery
 
 ### P.238
-`lexus_nx_en_cd13e761` | nx | owners_manual | tier:3 | lang:en | layer:maintenance | p:430
 Message indicating maintenance is
 required (U.S.A. only)
 After the maintenance is performed
 
 ### P.319
-`lexus_nx_en_224094f3` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:430
 Tire pressure warning system
 • When rotating the tires on vehicles with differing front and rear
 tire inflation pressures
@@ -48456,12 +47035,10 @@ speed or load weight, etc.
 • When changing the tire size
 
 ### P.343
-`lexus_nx_en_d4b65d2d` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:430
 Oil maintenance
 After the maintenance is performed
 
 ### P.330
-`lexus_nx_en_2cf2edaa` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:430
 Lexus parking assist monitor*
 • After reconnecting or changing
 the 12-volt battery
@@ -48475,7 +47052,6 @@ Power back door*
 Power window
 When functioning abnormally
 ### LEXUS
-`lexus_nx_en_589f44e7` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:431
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -48493,7 +47069,6 @@ Canadian owners (in French)
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_38fbb397` | nx | owners_manual | tier:3 | lang:en | layer:general | p:432
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -48550,7 +47125,6 @@ Utilisation correcte des ceintures de sécurité
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_e7166e30` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:433
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -48598,7 +47172,6 @@ blessures graves, voire mortelles.
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_275d7420` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:434
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -48628,7 +47201,6 @@ E
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_d8822a06` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:435
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -48677,7 +47249,6 @@ Q
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_4ab2f8d3` | nx | owners_manual | tier:3 | lang:en | layer:interior | p:436
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -48707,7 +47278,6 @@ dispositifs de protection complémentaires aux ceintures de sécurité.
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_bcf3015b` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:437
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -48779,7 +47349,6 @@ droit.
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_e36fdb71` | nx | owners_manual | tier:3 | lang:en | layer:general | p:438
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -48827,7 +47396,6 @@ les mains à l’extérieur du véhicule.
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_dbc96636` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:439
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -48896,7 +47464,6 @@ Lexus.
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_6dea4643` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:440
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -48941,7 +47508,6 @@ permettre sa conduite par une personne atteinte d’un handicap physique
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_84e50d54` | nx | owners_manual | tier:3 | lang:en | layer:suspension | p:441
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -48987,7 +47553,6 @@ Réglage du pointage des projecteurs
 9-1. For owners
 
 ### LEXUS
-`lexus_nx_en_e16aaa1c` | nx | owners_manual | tier:3 | lang:en | layer:general | p:442
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -49003,7 +47568,6 @@ afin qu’il en règle le pointage.
 443
 
 ### LEXUS
-`lexus_nx_en_e3c20c1b` | nx | owners_manual | tier:3 | lang:en | layer:general | p:443
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -49013,7 +47577,6 @@ What to do if... (Troubleshooting)
 What to do if... (Troubleshooting)
 
 ### LEXUS
-`lexus_nx_en_51312fe5` | nx | owners_manual | tier:3 | lang:en | layer:body | p:444
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -49024,7 +47587,6 @@ new genuine mechanical keys can
 be made by your Lexus dealer.
 
 ### (P.388)
-`lexus_nx_en_074d3b4f` | nx | owners_manual | tier:3 | lang:en | layer:body | p:444
 If you lose your electronic keys, the
 risk of vehicle theft increases significantly. Contact your Lexus dealer
 immediately. (P.388)
@@ -49054,7 +47616,6 @@ detectable inside the vehicle?
 
 Is the steering wheel unlocked?
 ### (P.169)
-`lexus_nx_en_419c26c3` | nx | owners_manual | tier:3 | lang:en | layer:ev | p:444
 Is the electronic key battery weak or
 depleted?
 In this case, the hybrid system can
@@ -49062,7 +47623,6 @@ be started in a temporary way.
 
 Is the 12-volt battery discharged?
 ### (P.392)
-`lexus_nx_en_84df828f` | nx | owners_manual | tier:3 | lang:en | layer:body | p:444
 If you have a problem, check the
 following before contacting your
 Lexus dealer.
@@ -49079,7 +47639,6 @@ The hybrid system does not start
 What to do if... (Troubleshooting)
 
 ### LEXUS
-`lexus_nx_en_9bf44540` | nx | owners_manual | tier:3 | lang:en | layer:brakes | p:445
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -49091,7 +47650,6 @@ by depressing the brake pedal with
 the power switch in ON mode
 
 ### (P.174)
-`lexus_nx_en_93039146` | nx | owners_manual | tier:3 | lang:en | layer:body | p:445
 It is locked automatically to prevent
 theft of the vehicle. (P.169)
 Is the window lock switch pressed?
@@ -49111,7 +47669,6 @@ wearing the seat belts? (P.371)
 Is the parking brake released?
 
 ### (P.177)
-`lexus_nx_en_a5a01a81` | nx | owners_manual | tier:3 | lang:en | layer:body | p:445
 Depending on the situation, other
 types of warning buzzer may also
 sound. (P.367, 376)
@@ -49151,7 +47708,6 @@ warning message is displayed
 What to do if... (Troubleshooting)
 
 ### LEXUS
-`lexus_nx_en_a073c67b` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:446
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -49167,7 +47723,6 @@ The vehicle becomes stuck
 What to do if... (Troubleshooting)
 
 ### LEXUS
-`lexus_nx_en_3d053017` | nx | owners_manual | tier:3 | lang:en | layer:general | p:447
 NX300h
 Owners
 Manual_USA_M78287_en
@@ -49176,16 +47731,13 @@ Alphabetical Index
 Alphabetical Index
 A
 
-`lexus_nx_en_afcd8eee` | nx | owners_manual | tier:3 | lang:en | layer:safety | p:449
 450
 Alphabetical Index
 
-`lexus_nx_en_7fc0db24` | nx | owners_manual | tier:3 | lang:en | layer:wheels | p:458
 459
 What to do if... (Troubleshooting)
 
 ### MANUAL”.
-`lexus_nx_en_1b1910cd` | nx | owners_manual | tier:3 | lang:en | layer:infotainment | p:459
 б Audio/visual system
 б Navigation system
 б Lexus parking assist monitor
@@ -49194,7 +47746,6 @@ What to do if... (Troubleshooting)
 460
 
 ### GAS STATION INFORMATION
-`lexus_nx_en_faab0bb3` | nx | owners_manual | tier:3 | lang:en | layer:body | p:460
 Auxiliary catch lever (P.326)
 Back door opener switch* (P.111)
 Fuel filler door (P.195)
@@ -49207,6 +47758,5 @@ Fuel type
 Unleaded gasoline only
 
 ### P.408
-`lexus_nx_en_d5406ac5` | nx | owners_manual | tier:3 | lang:en | layer:engine | p:460
 Engine oil capacity
 (Drain and refill — reference)
